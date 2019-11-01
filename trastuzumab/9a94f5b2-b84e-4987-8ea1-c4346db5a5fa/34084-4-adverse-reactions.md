@@ -4,9 +4,9 @@ The following adverse reactions are discussed in greater detail in other section
 
 - Cardiomyopathy [see Warnings and Precautions (5.1)]
 - Infusion Reactions [see Warnings and Precautions (5.2)]
-- Embryo-Fetal Toxicity [see Warnings and Precautions 5.3)]
+- Embryo-Fetal Toxicity [see Warnings and Precautions (5.3)]
 - Pulmonary Toxicity [see Warnings and Precautions (5.4)]
-- Exacerbation of Chemotherapy-induced Neutropenia [see Warnings and Precautions (5.5)]
+- Exacerbation of Chemotherapy-Induced Neutropenia [see Warnings and Precautions (5.5)]
 
 The most common adverse reactions in patients receiving trastuzumab products in the adjuvant and metastatic breast cancer setting are fever, nausea, vomiting, infusion reactions, diarrhea, infections, increased cough, headache, fatigue, dyspnea, rash, neutropenia, anemia, and myalgia.
 Adverse reactions requiring interruption or discontinuation of trastuzumab product treatment include CHF, significant decline in left ventricular cardiac function, severe infusion reactions, and pulmonary toxicity [see Dosage and Administration (2.3)].
@@ -27,7 +27,7 @@ Among the 3386 patients enrolled in the observation and one-year trastuzumab arm
 
 | Table 3 Adverse Reactions for Study 3a, All Gradesb |  |  |
 | --- | --- | --- |
-| Adverse Reaction | One Year Trastuzumab (n = 1678) | Observation (n = 1708) |
+| Adverse Reaction | One-Year Trastuzumab (n = 1678) | Observation (n = 1708) |
 | Cardiac |  |  |
 | Hypertension | 64 (4%) | 35 (2%) |
 | Dizziness | 60 (4%) | 29 (2%) |
@@ -172,10 +172,7 @@ The percentages of patients who received trastuzumab treatment for ≥ 6 months 
 | Acne | 2% | 11% | 3% | 3% | < 1% |
 | Urogenital |  |  |  |  |  |
 | Urinary tract infection | 5% | 18% | 14% | 13% | 7% |
-
-a Data for trastuzumab single agent were from 4 studies, including 213 patients from Study 6.
-
-b Anthracycline (doxorubicin or epirubicin) and cyclophosphamide.
+| a Data for trastuzumab single agent were from 4 studies, including 213 patients from Study 6. b Anthracycline (doxorubicin or epirubicin) and cyclophosphamide. |  |  |  |  |  |
 
 Metastatic Gastric Cancer
 
@@ -244,17 +241,7 @@ This analysis also showed evidence of reversibility of left ventricular dysfunct
 | TCH (n = 1056) | 8.5% (90) | 5.9% (62) | 3.3% (35) | 34.5% (364) | 6.3% (67) |
 | AC→TH (n = 1068) | 17% (182) | 13.3% (142) | 9.8% (105) | 44.3% (473) | 13.2% (141) |
 | AC→T (n = 1050) | 9.5% (100) | 6.6% (69) | 3.3% (35) | 34% (357) | 5.5% (58) |
-
-a For Studies 1, 2 and 3, events are counted from the beginning of trastuzumab treatment.
-For Study 4, events are counted from the date of randomization.
-
-b Studies 1 and 2 regimens: doxorubicin and cyclophosphamide followed by paclitaxel (AC→T) or paclitaxel plus trastuzumab (AC→TH).
-
-c Median duration of follow-up for Studies 1 and 2 combined was 8.3 years in the AC→TH arm.
-
-d Median follow-up duration of 12.6 months in the one-year trastuzumab treatment arm.
-
-e Study 4 regimens: doxorubicin and cyclophosphamide followed by docetaxel (AC→T) or docetaxel plus trastuzumab (AC→TH); docetaxel and carboplatin plus trastuzumab (TCH).
+| a For Studies 1, 2 and 3, events are counted from the beginning of trastuzumab treatment. For Study 4, events are counted from the date of randomization. b Studies 1 and 2 regimens: doxorubicin and cyclophosphamide followed by paclitaxel (AC→T) or paclitaxel plus trastuzumab (AC→TH). c Median duration of follow-up for Studies 1 and 2 combined was 8.3 years in the AC→TH arm. d Median follow-up duration of 12.6 months in the one-year trastuzumab treatment arm. e Study 4 regimens: doxorubicin and cyclophosphamide followed by docetaxel (AC→T) or docetaxel plus trastuzumab (AC→TH); docetaxel and carboplatin plus trastuzumab (TCH). |  |  |  |  |  |
 
 | Figure 1 Studies 1 and 2: Cumulative Incidence of Time to First LVEF Decline of ≥ 10 Percentage Points from Baseline and to Below 50% with Death as a Competing Risk Event |
 | --- |
@@ -274,7 +261,7 @@ Time 0 is the date of randomization.
 The incidence of treatment emergent congestive heart failure among patients in the metastatic breast cancer trials was classified for severity using the New York Heart Association classification system (I-IV, where IV is the most severe level of cardiac failure) (see Table 2).
 In the metastatic breast cancer trials, the probability of cardiac dysfunction was highest in patients who received trastuzumab concurrently with anthracyclines.
 
-In Study 7, 5.0% of patients in the trastuzumab plus chemotherapy arm compared to 1.1% of patients in the chemotherapy alone arm had LVEF value below 50% with a ≥ 10% absolute decrease in LVEF from pretreatment values.
+In Study 7, 5.0% of patients in the trastuzumab plus chemotherapy arm compared to 1.1% of patients in the chemotherapy alone arm had LVEF value below 50% with a ≥ 10% absolute decrease in LVEF from pre-treatment values.
 
 Infusion Reactions
 
@@ -288,13 +275,13 @@ Anemia
 
 In randomized controlled clinical trials, the overall incidence of anemia (30% vs. 21% [Study 5]), of selected NCI-CTC Grade 2–5 anemia (12.3% vs. 6.7% [Study 1]), and of anemia requiring transfusions (0.1% vs. 0 patients [Study 2]) were increased in patients receiving trastuzumab and chemotherapy compared with those receiving chemotherapy alone.
 Following the administration of trastuzumab as a single agent (Study 6), the incidence of NCI-CTC Grade 3 anemia was < 1%.
-In Study 7 (metastatic gastric cancer), on the trastuzumab containing arm as compared to the chemotherapy alone arm, the overall incidence of anemia was 28% compared to 21% and of NCI-CTC Grade 3/4 anemia was 12.2% compared to 10.3%.
+In Study 7 (metastatic gastric cancer), on the trastuzumab-containing arm as compared to the chemotherapy alone arm, the overall incidence of anemia was 28% compared to 21% and of NCI-CTC Grade 3/4 anemia was 12.2% compared to 10.3%.
 
 Neutropenia
 
 In randomized controlled clinical trials in the adjuvant setting, the incidence of selected NCI-CTC Grade 4–5 neutropenia (1.7% vs. 0.8% [Study 2]) and of selected Grade 2–5 neutropenia (6.4% vs. 4.3% [Study 1]) were increased in patients receiving trastuzumab and chemotherapy compared with those receiving chemotherapy alone.
 In a randomized, controlled trial in patients with metastatic breast cancer, the incidences of NCI-CTC Grade 3/4 neutropenia (32% vs. 22%) and of febrile neutropenia (23% vs. 17%) were also increased in patients randomized to trastuzumab in combination with myelosuppressive chemotherapy as compared to chemotherapy alone.
-In Study 7 (metastatic gastric cancer) on the trastuzumab containing arm as compared to the chemotherapy alone arm, the incidence of NCI-CTC Grade 3/4 neutropenia was 36.8% compared to 28.9%; febrile neutropenia 5.1% compared to 2.8%.
+In Study 7 (metastatic gastric cancer) on the trastuzumab-containing arm as compared to the chemotherapy alone arm, the incidence of NCI-CTC Grade 3/4 neutropenia was 36.8% compared to 28.9%; febrile neutropenia 5.1% compared to 2.8%.
 
 Infection
 

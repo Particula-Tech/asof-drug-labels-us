@@ -8,7 +8,7 @@ Trastuzumab products can also cause asymptomatic decline in left ventricular eje
 There is a 4–6 fold increase in the incidence of symptomatic myocardial dysfunction among patients receiving trastuzumab products as a single agent or in combination therapy compared with those not receiving trastuzumab products.
 The highest absolute incidence occurs when trastuzumab product is administered with an anthracycline.
 
-Withhold KANJINTI for ≥ 16% absolute decrease in LVEF from pre-treatment values or an LVEF value below institutional limits of normal and ≥ 10% absolute decrease in LVEF from pretreatment values [see Dosage and Administration (2.3)].
+Withhold KANJINTI for ≥ 16% absolute decrease in LVEF from pre-treatment values or an LVEF value below institutional limits of normal and ≥ 10% absolute decrease in LVEF from pre-treatment values [see Dosage and Administration (2.3)].
 The safety of continuation or resumption of KANJINTI in patients with trastuzumab product-induced left ventricular cardiac dysfunction has not been studied.
 
 Patients who receive anthracycline after stopping KANJINTI may also be at increased risk of cardiac dysfunction [see Drug Interactions (7) and Clinical Pharmacology (12.3)].
@@ -34,20 +34,13 @@ The safety of continuation or resumption of KANJINTI in patients with trastuzuma
 | Table 1 |  |  |  |  |
 | --- | --- | --- | --- | --- |
 | Incidence of Congestive Heart Failure in Adjuvant Breast Cancer Studies |  |  |  |  |
-|  |  | Incidence of CHF |  |  |
-| Study | Regimen | Trastuzumab |  | Control |
+| Study | Regimen | Incidence of CHF |  |  |
+|  |  | Trastuzumab |  | Control |
 | 1 & 2a | ACb→Paclitaxel+Trastuzumab | 3.2% (64/2000)c | 1.3% (21/1655) |  |
 | 3d | Chemo → Trastuzumab | 2% (30/1678) | 0.3% (5/1708) |  |
 | 4 | ACb→Docetaxel+Trastuzumab | 2% (20/1068) | 0.3% (3/1050) |  |
 | 4 | Docetaxel+Carbo+Trastuzumab | 0.4% (4/1056) | 0.3% (3/1050) |  |
-
-a Median follow-up duration for studies 1 and 2 combined was 8.3 years in the AC→TH arm.
-
-b Anthracycline (doxorubicin) and cyclophosphamide.
-
-c Includes 1 patient with fatal cardiomyopathy and 1 patient with sudden death without documented etiology.
-
-d Includes NYHA II-IV and cardiac death at 12.6 months median duration of follow-up in the one-year trastuzumab arm.
+| a Median follow-up duration for Studies 1 and 2 combined was 8.3 years in the AC→TH arm. b Anthracycline (doxorubicin) and cyclophosphamide. c Includes 1 patient with fatal cardiomyopathy and 1 patient with sudden death without documented etiology. d Includes NYHA II-IV and cardiac death at 12.6 months median duration of follow-up in the one-year trastuzumab arm. |  |  |  |  |
 
 In Study 3 (one-year trastuzumab treatment), at a median follow-up duration of 8 years, the incidence of severe CHF (NYHA III & IV) was 0.8%, and the rate of mild symptomatic and asymptomatic left ventricular dysfunction was 4.6%.
 
@@ -60,12 +53,7 @@ In Study 3 (one-year trastuzumab treatment), at a median follow-up duration of 8
 | 5 (AC)b | Cardiac Dysfunction | 28% | 7% | 19% | 3% |
 | 5 (paclitaxel) | Cardiac Dysfunction | 11% | 1% | 4% | 1% |
 | 6 | Cardiac Dysfunctionc | 7% | N/A | 5% | N/A |
-
-a Congestive heart failure or significant asymptomatic decrease in LVEF.
-
-b Anthracycline (doxorubicin or epirubicin) and cyclophosphamide.
-
-c Includes 1 patient with fatal cardiomyopathy.
+| a Congestive heart failure or significant asymptomatic decrease in LVEF. b Anthracycline (doxorubicin or epirubicin) and cyclophosphamide. c Includes 1 patient with fatal cardiomyopathy. |  |  |  |  |  |
 
 In Study 4, the incidence of NCI-CTC Grade 3/4 cardiac ischemia/infarction was higher in the trastuzumab containing regimens (AC-TH: 0.3% (3/1068) and TCH: 0.2% (2/1056)) as compared to none in AC-T.
 

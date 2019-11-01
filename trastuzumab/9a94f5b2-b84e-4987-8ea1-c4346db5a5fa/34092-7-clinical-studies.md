@@ -65,7 +65,7 @@ Radiation therapy, if administered, was initiated after completion of chemothera
 Patients with ER+ and/or PR+ tumors received hormonal therapy.
 Disease-Free Survival (DFS) was the main outcome measure.
 
-Among the 3222 patients randomized, the median age was 49 (range 22 to 74 years; 6% ≥ 65 years).
+Among the 3222 patients randomized, the median age was 49 (range: 22 to 74 years; 6% ≥ 65 years).
 Disease characteristics included 54% ER+ and/or PR+ and 71% node positive.
 Prior to randomization, all patients underwent primary surgery for breast cancer.
 
@@ -105,28 +105,7 @@ In the subgroup of patients with tumor size > 2 cm (n = 2448), the hazard ratio 
 | AC→TH | 121 |  | 0.60 | 49 |  |
 | (n = 1074) |  |  | (0.48 – 0.76) p < 0.0001e,i |  |  |
 | AC→T (n = 1073) | 180 |  |  | 80 |  |
-
-CI = confidence interval.
-
-a Studies 1 and 2 regimens: doxorubicin and cyclophosphamide followed by paclitaxel (AC→T) or paclitaxel plus trastuzumab (AC→TH).
-
-b Efficacy evaluable population, for the primary DFS analysis, following a median follow-up of 2.0 years in the AC→TH arm.
-
-c Efficacy evaluable population, for the final OS analysis, following 707 deaths (8.3 years of median follow-up in the AC→TH arm).
-
-d Hazard ratio estimated by Cox regression stratified by clinical trial, intended paclitaxel schedule, number of positive nodes, and hormone receptor status.
-
-e stratified log-rank test.
-
-f At definitive DFS analysis with median duration of follow-up of 12.6 months in the one-year trastuzumab treatment arm.
-
-g log-rank test.
-
-h NS = non-significant.
-
-i Study 4 regimens: doxorubicin and cyclophosphamide followed by docetaxel (AC→T) or docetaxel plus trastuzumab (AC→TH); docetaxel and carboplatin plus trastuzumab (TCH).
-
-j A two-sided alpha level of 0.025 for each comparison.
+| CI = confidence interval. a Studies 1 and 2 regimens: doxorubicin and cyclophosphamide followed by paclitaxel (AC→T) or paclitaxel plus trastuzumab (AC→TH). b Efficacy evaluable population, for the primary DFS analysis, following a median follow-up of 2.0 years in the AC→TH arm. c Efficacy evaluable population, for the final OS analysis, following 707 deaths (8.3 years of median follow-up in the AC→TH arm). d Hazard ratio estimated by Cox regression stratified by clinical trial, intended paclitaxel schedule, number of positive nodes, and hormone receptor status. e stratified log-rank test. f At definitive DFS analysis with median duration of follow-up of 12.6 months in the one-year trastuzumab treatment arm. g log-rank test. h NS = non-significant. i Study 4 regimens: doxorubicin and cyclophosphamide followed by docetaxel (AC→T) or docetaxel plus trastuzumab (AC→TH); docetaxel and carboplatin plus trastuzumab (TCH). j A two-sided alpha level of 0.025 for each comparison. |  |  |  |  |  |
 
 | Figure 4 Duration of Disease-Free Survival in Patients with Adjuvant Treatment of Breast Cancer (Studies 1 and 2) |
 | --- |
@@ -146,25 +125,20 @@ The number of events in Study 3 was adequate to demonstrate significant effects 
 | Table 10 |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
 | Treatment Outcomes in Studies 2 and 3 as a Function of HER2 Overexpression or Amplification |  |  |  |  |  |  |
-|  | Study 2 |  |  |  |  | Study 3c |
+|  | Study 2 |  |  |  | Study 3c |  |
 | HER2 Assay Resulta |  | Number of Patients |  | Hazard Ratio DFS (95% CI) | Number of Patients | Hazard Ratio DFS (95% CI) |
 | IHC 3+ |  |  |  |  |  |  |
 | FISH (+) |  | 1170 | 0.42 |  | 91 | 0.56 |
 |  |  |  | (0.27, 0.64) |  |  | (0.13, 2.50) |
-| FISH (+) |  | 51 | 0.71 |  | 8 | ______ |
+| FISH (-) |  | 51 | 0.71 |  | 8 | - |
 |  |  |  | (0.04, 11.79) |  |  |  |
 | FISH Unknown |  | 51 | 0.69 |  | 2258 | 0.53 |
 |  |  |  | (0.09, 5.14) |  |  | (0.41, 0.69) |
 | IHC < 3+ / |  | 174 | 1.01 |  | 299b | 0.53 |
 | FISH (+) |  |  | (0.18, 5.65) |  |  | (0.20, 1.42) |
-| IHC unknown / |  | ______ | ______ |  | 724 | 0.59 |
+| IHC unknown / |  | - | - |  | 724 | 0.59 |
 | FISH (+) |  |  |  |  |  | (0.38, 0.93) |
-
-a IHC by HercepTest, FISH by PathVysion (HER2/CEP17 ratio ≥ 2.0) as performed at a central laboratory.
-
-b All cases in this category in Study 3 were IHC 2
-
-c Median follow-up duration of 12.6 months in the one-year trastuzumab treatment arm.
+| a IHC by HercepTest, FISH by PathVysion (HER2/CEP17 ratio ≥ 2.0) as performed at a central laboratory. b All cases in this category in Study 3 were IHC 2 c Median follow-up duration of 12.6 months in the one-year trastuzumab treatment arm. |  |  |  |  |  |  |
 
 ## 14.2 Metastatic Breast Cancer
 
@@ -189,7 +163,8 @@ These treatment effects were observed both in patients who received trastuzumab 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Study 5: Efficacy Results in First-Line Treatment for Metastatic Breast Cancer |  |  |  |  |  |  |  |  |
 |  |  | Combined Results |  | Paclitaxel Subgroup |  | AC Subgroup |  |  |
-|  |  | Trastuzumab + All Chemo- therapy (n = 235) | All Chemo- therapy (n = 234) | Trastuzumab+ Paclitaxel (n = 92) | Paclitaxel (n = 96) | Trastuzumab + ACa (n = 143) | AC (n = 138) |  |
+|  |  | Trastuzumab + |  | Trastuzumab+ |  | Trastuzumab + |  |  |
+|  |  | All Chemo- therapy (n = 235) | All Chemo- therapy (n = 234) | Paclitaxel (n = 92) | Paclitaxel (n = 96) | ACa (n = 143) | AC (n = 138) |  |
 | Primary Endpoint |  |  |  |  |  |  |  |  |
 | Median | 7.2 |  | 4.5 | 6.7 | 2.5 | 7.6 | 5.7 |  |
 | TTP (mos)b,c |  |  |  |  |  |  |  |  |
@@ -204,16 +179,7 @@ These treatment effects were observed both in patients who received trastuzumab 
 | Med Survival (mos)c | 25.1 |  | 20.3 | 22.1 | 18.4 | 26.8 | 21.4 |  |
 | 95% CI | 22, 30 |  | 17, 24 | 17, 29 | 13, 24 | 23, 33 | 18, 27 |  |
 | p-valued | 0.05 |  |  | 0.17 |  | 0.16 |  |  |
-
-a AC = Anthracycline (doxorubicin or epirubicin) and cyclophosphamide.
-
-b Assessed by an independent Response Evaluation Committee.
-
-c Kaplan-Meier Estimate.
-
-d log-rank test.
-
-e Χ2-test.
+| a AC = Anthracycline (doxorubicin or epirubicin) and cyclophosphamide. b Assessed by an independent Response Evaluation Committee. c Kaplan-Meier Estimate. d log-rank test. e Χ2-test. |  |  |  |  |  |  |  |  |
 
 Data from Study 5 suggest that the beneficial treatment effects were largely limited to patients with the highest level of HER2 protein overexpression (3+) (see Table 12).
 
@@ -222,17 +188,14 @@ Data from Study 5 suggest that the beneficial treatment effects were largely lim
 | HER2 Assay Result | Number of Patients (N) | Relative Riskb for Time to Disease Progression (95% CI) | Relative Riskb for Mortality (95% CI) |
 | CTA 2+ or 3+ | 469 | 0.49 (0.40, 0.61) | 0.80 (0.64, 1.00) |
 | FISH (+)a | 325 | 0.44 (0.34, 0.57) | 0.70 (0.53, 0.91) |
-| FISH (+)a | 126 | 0.62 (0.42, 0.94) | 1.06 (0.70, 1.63) |
+| FISH (-)a | 126 | 0.62 (0.42, 0.94) | 1.06 (0.70, 1.63) |
 | CTA 2+ | 120 | 0.76 (0.50, 1.15) | 1.26 (0.82, 1.94) |
 | FISH (+) | 32 | 0.54 (0.21, 1.35) | 1.31 (0.53, 3.27) |
-| FISH (+) | 83 | 0.77 (0.48, 1.25) | 1.11 (0.68, 1.82) |
+| FISH (-) | 83 | 0.77 (0.48, 1.25) | 1.11 (0.68, 1.82) |
 | CTA 3+ | 349 | 0.42 (0.33, 0.54) | 0.70 (0.51, 0.90) |
 | FISH (+) | 293 | 0.42 (0.32, 0.55) | 0.67 (0.51, 0.89) |
-| FISH (+) | 43 | 0.43 (0.20, 0.94) | 0.88 (0.39, 1.98) |
-
-a FISH testing results were available for 451 of the 469 patients enrolled on study.
-
-b The relative risk represents the risk of progression or death in the trastuzumab plus chemotherapy arm versus the chemotherapy arm.
+| FISH (-) | 43 | 0.43 (0.20, 0.94) | 0.88 (0.39, 1.98) |
+| a FISH testing results were available for 451 of the 469 patients enrolled on study. b The relative risk represents the risk of progression or death in the trastuzumab plus chemotherapy arm versus the chemotherapy arm. |  |  |  |
 
 Previously Treated Metastatic Breast Cancer (Study 6)
 
@@ -275,15 +238,14 @@ The efficacy results of both the final and the updated analyses are summarized i
 | 95% CI (mos.) | (9.4, 12.5) |  | (11.7, 15.7) |
 | Hazard Ratio |  | 0.73 |  |
 | 95% CI |  | (0.60, 0.91) |  |
-| p value*, two sided |  | 0.0038 |  |
+| p-value*, two sided |  | 0.0038 |  |
 | Updated Overall Survival |  |  |  |
 | No. Deaths (%) | 227 (76.7%) |  | 221 (74.2%) |
 | Median | 11.7 |  | 13.1 |
 | 95% CI (mos.) | (10.3, 13.0) |  | (11.9, 15.1) |
 | Hazard Ratio |  | 0.80 |  |
 | 95% CI |  | (0.67, 0.97) |  |
-
-* Comparing with the nominal significance level of 0.0193.
+| * Comparing with the nominal significance level of 0.0193. |  |  |  |
 
 | Figure 7 Updated Overall Survival in Patients with Metastatic Gastric Cancer (Study 7) |
 | --- |
@@ -309,9 +271,4 @@ An exploratory analysis of OS in patients based on HER2 gene amplification (FISH
 | Median OS Duration (mos.) |  | 13.2 | 18.0 |  |
 | 95% CI (mos.) |  | (11.5, 15.2) | (15.5, 21.2) |  |
 | Hazard ratio (95% CI) |  | 0.66 (0.50, 0.87) |  |  |
-
-a Two patients on the FC arm who were FISH+ but IHC status unknown were excluded from the exploratory subgroup analyses.
-
-b Five patients on the trastuzumab-containing arm who were FISH+, but IHC status unknown were excluded from the exploratory subgroup analyses.
-
-c Includes 6 patients on chemotherapy arm, 10 patients on trastuzumab arm with FISH-, IHC 3+ and 8 patients on chemotherapy arm, 8 patients on trastuzumab arm with FISH status unknown, IHC 3+.
+| a Two patients on the FC arm who were FISH+ but IHC status unknown were excluded from the exploratory subgroup analyses. b Five patients on the trastuzumab-containing arm who were FISH+, but IHC status unknown were excluded from the exploratory subgroup analyses. c Includes 6 patients on chemotherapy arm, 10 patients on trastuzumab arm with FISH-, IHC 3+ and 8 patients on chemotherapy arm, 8 patients on trastuzumab arm with FISH status unknown, IHC 3+. |  |  |  |  |

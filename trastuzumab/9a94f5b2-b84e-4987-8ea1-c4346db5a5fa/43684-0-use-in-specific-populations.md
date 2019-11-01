@@ -40,7 +40,7 @@ Risk Summary
 There is no information regarding the presence of trastuzumab products in human milk, the effects on the breastfed infant, or the effects on milk production.
 Published data suggest human IgG is present in human milk but does not enter the neonatal and infant circulation in substantial amounts.
 
-Trastuzumab was present in the milk of lactating cynomolgus monkeys but not associated with neonatal toxicity (see Data).
+Trastuzumab was present in the milk of lactating cynomolgus monkeys but not associated with neonatal toxicity [see Data].
 Consider the developmental and health benefits of breastfeeding along with the mother's clinical need for KANJINTI treatment and any potential adverse effects on the breastfed child from KANJINTI or from the underlying maternal condition.
 This consideration should also take into account the trastuzumab product wash out period of 7 months [see Clinical Pharmacology (12.3)].
 

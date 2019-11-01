@@ -74,6 +74,8 @@ Permanently discontinue KANJINTI for a persistent (> 8 weeks) LVEF decline or fo
 
 To prevent medication errors, it is important to check the vial labels to ensure that the drug being prepared and administered is KANJINTI (trastuzumab-anns) and not ado-trastuzumab emtansine.
 
+420 mg Multiple-dose vial
+
 Reconstitution
 
 Reconstitute each 420 mg vial of KANJINTI with 20 mL of Bacteriostatic Water for Injection (BWFI), USP, containing 0.9% to 1.1% benzyl alcohol as a preservative to yield a multiple-dose solution containing 21 mg/mL trastuzumab-anns that delivers 20 mL (420 mg trastuzumab-anns).
@@ -103,5 +105,47 @@ Dilution
 DO NOT USE DEXTROSE (5%) SOLUTION.
 
 - Gently invert the bag to mix the solution.
-- The solution of KANJINTI for infusion diluted in polyvinylchloride or polyethylene bags containing 0.9% Sodium Chloride Injection, USP, should be stored at 2°C to 8°C (36°F to 46°F) for no more than 4 hours prior to use.
+- The solution of KANJINTI for infusion diluted in polyvinylchloride or polyethylene bags containing 0.9% Sodium Chloride Injection, USP, should be stored at 2°C to 8°C (36°F to 46°F) for no more than 24 hours prior to use.
   Do not freeze.
+
+150 mg Single-dose vial
+
+Reconstitution
+
+Reconstitute each 150 mg vial of KANJINTI with 7.4 mL of Sterile Water for Injection (SWFI) (not supplied) to yield a single-dose solution containing 21 mg/mL trastuzumab-anns that delivers 7.15 mL (150 mg trastuzumab-anns).
+
+Use appropriate aseptic technique when performing the following reconstitution steps:
+
+• Using a sterile syringe, slowly inject 7.4 mL of SWFI (not supplied) into the vial containing the lyophilized powder of KANJINTI, which has a cake-like appearance.
+The stream of diluent should be directed into the cake.
+The reconstituted vial yields a solution for single-dose use, containing 21 mg/mL trastuzumab-anns.
+
+• Swirl the vial gently to aid reconstitution.
+DO NOT SHAKE.
+
+• Slight foaming of the product may be present upon reconstitution.
+Allow the vial to stand undisturbed for approximately 5 minutes.
+
+• Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration, whenever solution and container permit.
+Inspect visually for particulates and discoloration.
+The solution should be free of visible particulates, clear to slightly opalescent and colorless to pale yellow.
+
+• Use the KANJINTI solution immediately following reconstitution with SWFI, as it contains no preservatives and is intended for single-dose only.
+If not used immediately, store the reconstituted KANJINTI solution for up to 24 hours at 2°C to 8°C (36°F to 46°F); discard any unused KANJINTI after 24 hours.
+Do not freeze.
+
+Dilution
+
+• Determine the dose (mg) of KANJINTI [see Dosage and Administration (2.1)].
+
+• Calculate the volume of the 21 mg/mL reconstituted KANJINTI solution needed.
+
+• Withdraw this amount from the vial and add it to an infusion bag containing 250 mL of 0.9% Sodium Chloride Injection, USP.
+DO NOT USE DEXTROSE 5% SOLUTION.
+
+• Gently invert the bag to mix the solution.
+
+• The solution of KANJINTI for infusion diluted in polyvinylchloride or polyethylene bags containing 0.9% Sodium Chloride Injection, USP, should be stored at 2°C to 8°C (36°F to 46°F) for no more than 24 hours prior to use.
+Discard after 24 hours.
+This storage time is additional to the time allowed for the reconstituted vials.
+Do not freeze.

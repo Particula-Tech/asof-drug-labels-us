@@ -8,7 +8,7 @@ KANJINTI is indicated for adjuvant treatment of HER2 overexpressing node positiv
 - as part of a treatment regimen with docetaxel and carboplatin
 - as a single agent following multi-modality anthracycline based therapy.
 
-Select patients for therapy based on an FDA-approved companion diagnostic for a trastuzumab product [see Dosage and Administration (2.1)]
+Select patients for therapy based on an FDA-approved companion diagnostic for a trastuzumab product [see Dosage and Administration (2.1)].
 
 ## 1.2 Metastatic Breast Cancer
 
@@ -23,4 +23,4 @@ Select patients for therapy based on an FDA-approved companion diagnostic for a 
 
 KANJINTI is indicated, in combination with cisplatin and capecitabine or 5-fluorouracil, for the treatment of patients with HER2 overexpressing metastatic gastric or gastroesophageal junction adenocarcinoma who have not received prior treatment for metastatic disease.
 
-Select patients for therapy based on an FDA-approved companion diagnostic for a trastuzumab product [see Dosage and Administration (2.1)]
+Select patients for therapy based on an FDA-approved companion diagnostic for a trastuzumab product [see Dosage and Administration (2.1)].

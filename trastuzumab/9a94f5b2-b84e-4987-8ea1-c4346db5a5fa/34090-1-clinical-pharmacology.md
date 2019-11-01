@@ -36,15 +36,12 @@ Population PK based simulations indicate that following discontinuation of trast
 
 | Table 8 |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Population Predicted Steady State PK Exposures (Median with 5th - 95th Percentiles) in Breast Cancer and MGC Patients |  |  |  |  |  |  |  |
+| Population Predicted Steady-State PK Exposures (Median with 5th - 95th Percentiles) in Breast Cancer and MGC Patients |  |  |  |  |  |  |  |
 | Schedule | Primary tumor type | N | Cmin,ssa (µg/mL) | Cmax,ssb (µg/mL) | AUCss, 0-21 days (µg.day/mL) | Time to steady- state (week) | Total CL range at steady-state (L/day) |
 | 8 mg/kg + 6 mg/kg q3w | Breast cancer | 1195 | 47.4 (5 - 115) | 179 (107 - 309) | 1794 (673 - 3618) | 12 | 0.173 - 0.283 |
 |  | MGC | 274 | 32.9 (6.1 - 88.9) | 131 (72.5 - 251) | 1338 (557 - 2875) | 9 | 0.189 - 0.337 |
 | 4 mg/kg + 2 mg/kg qw | Breast cancer | 1195 | 66.1 (14.9 - 142) | 109 (51.0 - 209) | 1765 (647 - 3578) | 12 | 0.201 - 0.244 |
-
-a Steady-state trough serum concentration of trastuzumab
-
-b Maximum steady-state serum concentration of trastuzumab
+| a Steady-state trough serum concentration of trastuzumab b Maximum steady-state serum concentration of trastuzumab |  |  |  |  |  |  |  |
 
 Specific Populations: Based on a population pharmacokinetic analysis, no clinically significant differences were observed in the pharmacokinetics of trastuzumab based on age (< 65 (n = 1294); ≥ 65 (n = 288)), race (Asian (n = 264); non-Asian (n = 1324)) and renal impairment (mild (creatinine clearance [CLcr] 60 to 90 mL/min) (n = 636) or moderate (CLcr 30 to 60 mL/min) (n = 133).
 The pharmacokinetics of trastuzumab products in patients with severe renal impairment, end-stage renal disease with or without hemodialysis, or hepatic impairment is unknown.
