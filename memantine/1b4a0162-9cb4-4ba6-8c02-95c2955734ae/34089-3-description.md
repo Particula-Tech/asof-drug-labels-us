@@ -8,4 +8,4 @@ Memantine hydrochloride occurs as a fine white to off-white powder and is solubl
 
 Memantine hydrochloride Tablets are available for oral administration as capsule-shaped, biconvex, film-coated tablets, containing memantine hydrochloride 5 mg and 10 mg.
 The tablets also contain the following inactive ingredients: croscarmellose sodium, magnesium stearate, silicified microcrystalline cellulose and talc.
-In addition the following inactive ingredients are also present as components of the film coat: hypromellose, titanium dioxide, polyethylene glycol, FD&C Yellow No. 6 Aluminium Lake and FD&C Blue No. 2 Aluminium Lake (5 mg tablets), and hypromellose, titanium dioxide, polyethylene glycol and iron oxide black (10 mg tablets).
+In addition the following inactive ingredients are also present as components of the film coat: hypromellose, titanium dioxide, polyethylene glycol, FD&C Yellow No. 6/Sunset Yellow FCF Aluminium Lake and FD&C Blue No. 2/Indigo Carmine Aluminium Lake (5 mg tablets), and hypromellose, titanium dioxide, polyethylene glycol and iron oxide black (10 mg tablets).

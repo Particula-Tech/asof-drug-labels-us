@@ -89,7 +89,7 @@ What are the ingredients in Memantine Hydrochloride Tablets?
 Active ingredient: memantine hydrochloride
 
 Inactive ingredients: croscarmellose sodium, magnesium stearate, silicified microcrystalline cellulose and talc.
-In addition the following inactive ingredients are also present as components of the film coat: hypromellose, titanium dioxide, polyethylene glycol, FD&C Yellow No. 6 Aluminium Lake and FD&C Blue No. 2 Aluminium Lake (5 mg tablets), and hypromellose, titanium dioxide, polyethylene glycol and iron oxide black (10 mg tablets).
+In addition the following inactive ingredients are also present as components of the film coat: hypromellose, titanium dioxide, polyethylene glycol, FD&C Yellow No. 6/Sunset Yellow FCF Aluminium Lake and FD&C Blue No. 2/Indigo Carmine Aluminium Lake (5 mg tablets), and hypromellose, titanium dioxide, polyethylene glycol and iron oxide black (10 mg tablets).
 
 Keep Memantine Hydrochloride Tablets and all medicines out of the reach of children.
 
@@ -124,4 +124,4 @@ Goa 403 722
 
 INDIA
 
-Revised: January 2019 ID#: 258150
+Revised: November 2019 ID#: 262258
