@@ -130,7 +130,7 @@ Fold the patches in half with the sticky sides together, and flush the patches d
 Do not flush the pouch or the protective liner down the toilet.
 These items can be thrown away in the trash.
 
-If you prefer not to flush the used patch down the toilet and if there is not a drug take-back option readily available, you must use the Patch-Disposal Unit provided to you to discard the patch.
+If you prefer not to flush the used patch down the toilet, and if there is not a drug take-back option readily available, you must use the Patch-Disposal Unit provided to you to discard the patch.
 
 Never put used buprenorphine transdermal system patches in the trash without first sealing them in the Patch-Disposal Unit.
 

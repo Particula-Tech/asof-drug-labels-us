@@ -103,7 +103,7 @@ For this reason, instruct patients not to apply heating pads directly to the bup
 
 Fever may increase the permeability of the skin, leading to increased buprenorphine concentrations during buprenorphine transdermal system treatment.
 As a result, febrile patients are at increased risk for the possibility of buprenorphine transdermal system-related reactions during treatment with buprenorphine transdermal system.
-Monitor patients with febrile illness for adverse effects and consider dose adjustment [see Warnings and Precautions (5.15)].
+Monitor patients with febrile illness for adverse effects and consider dose adjustment [see Warnings and Precautions (5.16)].
 In a crossover study of healthy subjects receiving endotoxin or placebo challenge during buprenorphine transdermal system 10 mcg/hour wear, the AUC and Cmax were similar despite a physiologic response of mild fever to endotoxin.
 
 Distribution
