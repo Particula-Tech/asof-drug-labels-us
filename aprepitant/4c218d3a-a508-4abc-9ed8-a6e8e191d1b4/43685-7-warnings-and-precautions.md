@@ -9,11 +9,11 @@ Aprepitant is a substrate, weak-to-moderate (dose-dependent) inhibitor, and an i
 - Use of CINVANTI with strong or moderate CYP3A4 inhibitors (e.g., ketoconazole, diltiazem) may increase plasma concentrations of aprepitant and result in an increased risk of adverse reactions related to CINVANTI.
 - Use of CINVANTI with strong CYP3A4 inducers (e.g., rifampin) may result in a reduction in aprepitant plasma concentrations and decreased efficacy of CINVANTI.
 
-See Table 6 and Table 7 for a listing of potentially significant drug interactions [see Drug Interactions (7.1, 7.2)].
+See Table 8 and Table 9 for a listing of potentially significant drug interactions [see Drug Interactions (7.1, 7.2)].
 
 ## 5.2 Hypersensitivity Reactions
 
-Serious hypersensitivity reactions, including anaphylaxis, during or soon after administration of CINVANTI have occurred.
+Serious hypersensitivity reactions, including anaphylaxis during or soon after administration of CINVANTI have occurred.
 Symptoms including dyspnea, eye swelling, flushing, pruritus and wheezing have been reported [see Adverse Reactions (6.2)].
 
 Monitor patients during and after administration.

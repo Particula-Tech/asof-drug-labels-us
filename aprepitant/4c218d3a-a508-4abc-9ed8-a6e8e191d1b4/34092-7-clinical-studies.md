@@ -6,13 +6,13 @@ Below is a description of the results of these adequate and well-controlled stud
 ## 14.1 Prevention of Nausea and Vomiting Associated with HEC
 
 In a randomized, parallel, double-blind, active-controlled study, 150 mg fosaprepitant as a single intravenous infusion (N = 1147) was compared to a 3-day oral aprepitant regimen (N = 1175) in patients receiving a HEC regimen that included cisplatin (≥70 mg/m2).
-All patients in both groups received dexamethasone and ondansetron (see Table 9).
+All patients in both groups received dexamethasone and ondansetron (see Table 11).
 Patient demographics were similar between the two treatment groups.
 Of the total 2322 patients, 63% were men, 56% White, 26% Asian, 3% American Indian/Alaska Native, 2% Black, 13% Multi-Racial, and 33% Hispanic/Latino ethnicity.
 Patient ages ranged from 19 to 86 years of age, with a mean age of 56 years.
 Other concomitant chemotherapy agents commonly administered were fluorouracil (17%), gemcitabine (16%), paclitaxel (15%), and etoposide (12%).
 
-Table 9.
+Table 11.
 Treatment Regimens in HEC TrialFosaprepitant placebo, aprepitant placebo and dexamethasone placebo (in the evenings on Days 3 and 4) were used to maintain blinding.
 
 |  | Day 1 | Day 2 | Day 3 | Day 4 |
@@ -26,12 +26,12 @@ Treatment Regimens in HEC TrialFosaprepitant placebo, aprepitant placebo and dex
 | Oral dexamethasoneDexamethasone was administered 30 minutes prior to chemotherapy treatment on Day 1 and in the morning on Days 2 through 4. The 12 mg dose of dexamethasone on Day 1 and the 8 mg once daily dose on Days 2 through 4 reflects a dosage adjustment to account for a drug interaction with the oral aprepitant regimen [see Clinical Pharmacology (12.3)]. | 12 mg | 8 mg | 8 mg | 8 mg |
 | Ondansetron | Ondansetron | None | None | None |
 
-The efficacy of a single-dose of intravenous fosaprepitant was evaluated based on the primary and secondary endpoints listed in Table 10 and was shown to be non-inferior to that of the 3-day oral aprepitant regimen with regard to complete response in each of the evaluated phases.
+The efficacy of a single-dose of intravenous fosaprepitant was evaluated based on the primary and secondary endpoints listed in Table 12 and was shown to be non-inferior to that of the 3-day oral aprepitant regimen with regard to complete response in each of the evaluated phases.
 The pre-specified non-inferiority margin for complete response in the overall phase was 7%.
 The pre-specified non-inferiority margin for complete response in the delayed phase was 7.3%.
 The pre-specified non-inferiority margin for no vomiting in the overall phase was 8.2%.
 
-Table 10.
+Table 12.
 Percent of Patients Receiving HEC Responding by Treatment Group and Phase — Cycle 1
 
 | ENDPOINTS | Intravenous Fosaprepitant Regimen (N = 1106)N: Number of patients included in the primary analysis of complete response. % | Oral aprepitant Regimen (N = 1134) % | DifferenceDifference and Confidence interval (CI) were calculated using the method proposed by Miettinen and Nurminen and adjusted for gender. (95% CI) |
@@ -47,9 +47,44 @@ Percent of Patients Receiving HEC Responding by Treatment Group and Phase — Cy
 
 ## 14.2 Prevention of Nausea and Vomiting Associated with MEC
 
+Single-Dose Intravenous Fosaprepitant – MEC
+
+In a randomized, parallel, double-blind, active comparator-controlled study, 150 mg fosaprepitant as a single intravenous infusion (N=502) in combination with ondansetron and dexamethasone (intravenous fosaprepitant regimen) was compared with ondansetron and dexamethasone alone (standard therapy) (N=498) (see Table 13) in patients receiving a MEC regimen.
+Patient demographics were similar between the two treatment groups.
+Of the total 1,000 patients included in the efficacy analysis, 41% were men, 84% White, 4% Asian, 1% American Indian/Alaska Native, 2% Black, 10% Multi-Racial, and 19% Hispanic/Latino ethnicity.
+Patient ages ranged from 23 to 88 years of age, with a mean age of 60 years.
+The most commonly administered MEC chemotherapeutic agents were carboplatin (51%), oxaliplatin (24%), and cyclophosphamide (12%).
+
+Table 13.
+Treatment Regimens in MEC TrialFosaprepitant placebo and dexamethasone placebo (on Day 1) were used to maintain blinding.
+
+|  | Day 1 | Day 2 | Day 3 |
+| --- | --- | --- | --- |
+| Intravenous Fosaprepitant Regimen |  |  |  |
+| Fosaprepitant | 150 mg intravenously over 20 to 30 minutes approximately 30 minutes prior to chemotherapy | None | None |
+| Oral DexamethasoneDexamethasone was administered 30 minutes prior to chemotherapy treatment on Day 1. The 12 mg dose reflects a dosage adjustment to account for a drug interaction with the fosaprepitant regimen [see Clinical Pharmacology (12.3)]. | 12 mg | None | None |
+| Oral OndansetronThe first ondansetron dose was administered 30 to 60 minutes prior to chemotherapy treatment on Day 1 and the second dose was administered 8 hours after first ondansetron dose. | 8 mg for 2 doses | None | None |
+| Standard Therapy |  |  |  |
+| Oral Dexamethasone | 20 mg | None | None |
+| Oral Ondansetron | 8 mg for 2 doses | 8 mg twice daily | 8 mg twice daily |
+
+The primary endpoint was complete response (defined as no vomiting and no rescue therapy) in the delayed phase (25 to 120 hours) of chemotherapy-induced nausea and vomiting.
+The results by treatment group are shown in Table 14.
+
+Table 14.
+Percent of Patients Receiving MEC Responding by Treatment Group
+
+| ENDPOINTS | Intravenous Fosaprepitant Regimen (N = 502)N: Number of patients included in the intention to treat population. % | Standard Therapy Regimen (N = 498) % | P-Value | Treatment Difference (95% CI) |
+| --- | --- | --- | --- | --- |
+| PRIMARY ENDPOINT |  |  |  |  |
+| Complete ResponseComplete Response = no vomiting and no use of rescue therapy. |  |  |  |  |
+| Delayed phaseDelayed phase = 25 to 120 hours post-initiation of chemotherapy. | 78.9 | 68.5 | <0.001 | 10.4 (5.1, 15.9) |
+
+3-Day Oral Aprepitant -- MEC
+
 In a multicenter, randomized, double-blind, parallel-group, clinical study in breast cancer patients, a 3-day oral aprepitant regimen was compared with a standard of care therapy in patients receiving a MEC regimen that included cyclophosphamide 750 to1500 mg/m2; or cyclophosphamide 500 to 1500 mg/m2 and doxorubicin (≤ 60 mg/m2) or epirubicin (≤ 100 mg/m2).
 Patients (N = 866) were randomized to either the aprepitant regimen (N = 438) or standard therapy (N = 428).
-The treatment regimens are defined in Table 11.
+The treatment regimens are defined in Table 15.
 
 In this study, the most common chemotherapy combinations were cyclophosphamide plus doxorubicin (61%); and cyclophosphamide plus epirubicin and fluorouracil (22%).
 
@@ -57,7 +92,7 @@ Of the 438 patients who were randomized to receive the oral aprepitant regimen, 
 Of these, approximately 80% were White, 8% Black, 8% Asian, 4% Hispanic, and < 1% Other.
 The aprepitant-treated patients in this clinical study ranged from 25 to 78 years of age, with a mean age of 53 years; 70 patients were 65 years or older, with 12 patients being over 74 years.
 
-Table 11.
+Table 15.
 Treatment Regimens in MEC TrialAprepitant placebo and dexamethasone placebo were used to maintain binding.
 
 |  | Day 1 | Day 2 | Day 3 |
@@ -84,9 +119,9 @@ Other prespecified endpoints:
 - complete protection (defined as no emetic episodes, no use of rescue therapy, and a maximum VAS score < 25 mm on a 0 to 100 mm scale)
 - complete response during the acute and delayed phases.
 
-A summary of the key results from this study is shown in Table 12.
+A summary of the key results from this study is shown in Table 16.
 
-Table 12.
+Table 16.
 Percent of Patients Receiving MEC Responding by Treatment Group and Phase – Cycle 1
 
 | ENDPOINTS | Oral Aprepitant Regimen (N = 433)N: Number of patients included in the primary analysis of complete response. % | Standard Therapy (N = 424) % | p-Value |
@@ -121,9 +156,9 @@ Patients receiving the aprepitant regimen were receiving chemotherapy for a vari
 
 The antiemetic activity of aprepitant was evaluated based on no vomiting (with or without rescue therapy) in the overall period (0 to 120 hours post-chemotherapy) and complete response (defined as no vomiting and no use of rescue therapy) in the overall period.
 
-A summary of the key results from this study is shown in Table 13.
+A summary of the key results from this study is shown in Table 17.
 
-Table 13.
+Table 17.
 Percent of Patients Receiving MEC Responding by Treatment Group for Study 2 – Cycle 1
 
 | ENDPOINTS | Oral Aprepitant Regimen (N = 430)N = Number of patients who received chemotherapy treatment, study drug, and had at least one post-treatment efficacy evaluation. % | Standard Therapy (N = 418) % | p-Value |

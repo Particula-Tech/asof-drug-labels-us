@@ -6,9 +6,9 @@ Aprepitant is a substrate, weak-to-moderate (dose-dependent) inhibitor, and an i
 Aprepitant is also an inducer of CYP2C9 [see Clinical Pharmacology (12.3)].
 
 Some substrates of CYP3A4 are contraindicated with CINVANTI [see Contraindications (4)].
-Dosage adjustment of some CYP3A4 and CYP2C9 substrates may be warranted, as shown in Table 6.
+Dosage adjustment of some CYP3A4 and CYP2C9 substrates may be warranted, as shown in Table 8.
 
-Table 6.
+Table 8.
 Effects of Aprepitant on the Pharmacokinetics of Other Drugs
 
 | CYP3A4 Substrates |  |
@@ -29,12 +29,12 @@ Effects of Aprepitant on the Pharmacokinetics of Other Drugs
 | Clinical Impact | Increased exposure of the chemotherapeutic agent may increase the risk of adverse reactions [see Clinical Pharmacology (12.3)]. |
 | Intervention | Vinblastine, vincristine, or ifosfamide or other chemotherapeutic agents Monitor for chemotherapeutic-related adverse reactions. Etoposide, vinorelbine, paclitaxel, and docetaxel No dosage adjustment needed. |
 | Hormonal Contraceptives |  |
-| Clinical Impact | Decreased estrogen and progestin exposure during administration of and for 28 days after administration of the last dose of aprepitant [see Warnings and Precautions (5.4), Use in Specific Populations (8.3), and Clinical Pharmacology (12.3)]. |
+| Clinical Impact | Decreased hormonal exposure during administration of and for 28 days after administration of the last dose of aprepitant [see Warnings and Precautions (5.4), Use in Specific Populations (8.3), and Clinical Pharmacology (12.3)]. |
 | Intervention | Effective alternative or back-up methods of contraception (such as condoms or spermicides) should be used during treatment with CINVANTI and for 1 month following administration of CINVANTI or oral aprepitant, whichever is administered last. |
 | Examples | birth control pills, skin patches, implants, and certain IUDs |
 | CYP2C9 Substrates |  |
 | Warfarin |  |
-| Clinical Impact | Decreased warfarin exposure and prolongation of prothrombin time (INR) [see Warnings and Precautions (5.3), Clinical Pharmacology (12.3)]. |
+| Clinical Impact | Decreased warfarin exposure and decreased prothrombin time (INR) [see Warnings and Precautions (5.3), Clinical Pharmacology (12.3)]. |
 | Intervention | In patients on chronic warfarin therapy, monitor the prothrombin time (INR) in the 2-week period, particularly at 7 to 10 days, following administration of CINVANTI with each chemotherapy cycle. |
 | Other Antiemetic Agents |  |
 | 5-HT3 Antagonists |  |
@@ -45,9 +45,9 @@ Effects of Aprepitant on the Pharmacokinetics of Other Drugs
 ## 7.2 Effect of Other Drugs on the Pharmacokinetics of Aprepitant
 
 Aprepitant is a CYP3A4 substrate [see Clinical Pharmacology (12.3)].
-Co-administration of CINVANTI with drugs that are inhibitors or inducers of CYP3A4 may result in increased or decreased plasma concentrations of aprepitant, respectively, as shown in Table 7.
+Co-administration of CINVANTI with drugs that are inhibitors or inducers of CYP3A4 may result in increased or decreased plasma concentrations of aprepitant, respectively, as shown in Table 9.
 
-Table 7.
+Table 9.
 Effects of Other Drugs on Pharmacokinetics of Aprepitant
 
 | Moderate to Strong CYP3A4 Inhibitors |  |

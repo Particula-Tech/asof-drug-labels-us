@@ -2,11 +2,11 @@
 
 ## 2.1 Prevention of Nausea and Vomiting Associated with HEC and MEC
 
-The recommended dosages in adults of CINVANTI, dexamethasone, and a 5-HT3 antagonist for the prevention of nausea and vomiting associated with administration of HEC or MEC are shown in Table 1 and Table 2, respectively.
+The recommended dosages in adults of CINVANTI, dexamethasone, and a 5-HT3 antagonist for the prevention of nausea and vomiting associated with administration of HEC or MEC are shown in Table 1, Table 2 and Table 3 respectively.
 Administer CINVANTI intravenously either by injection over a two (2) minute period or by infusion over a thirty (30) minute period on Day 1, completing the injection or infusion approximately 30 minutes prior to chemotherapy.
 
 Table 1.
-Recommended Dosage of CINVANTI for the Prevention of Nausea and Vomiting Associated with HEC (Single Dose Regimen)
+Recommended Dosage of CINVANTI for the Prevention of Nausea and Vomiting Associated with HEC (Single-Dose Regimen)
 
 | Agent | Day 1 | Day 2 | Day 3 | Day 4 |
 | --- | --- | --- | --- | --- |
@@ -15,6 +15,15 @@ Recommended Dosage of CINVANTI for the Prevention of Nausea and Vomiting Associa
 | 5-HT3 antagonist | See selected 5-HT3 antagonist prescribing information for recommended dosage | None | None | None |
 
 Table 2.
+Recommended Dosage of CINVANTI for the Prevention of Nausea and Vomiting Associated with MEC (Single-Dose Regimen)
+
+| Agent | Day 1 |
+| --- | --- |
+| CINVANTI | 130 mg intravenously |
+| DexamethasoneAdminister dexamethasone 30 minutes prior to chemotherapy treatment on Day 1. A 50% dosage reduction of dexamethasone is recommended to account for a drug interaction with aprepitant [see Clinical Pharmacology (12.3)]. | 12 mg orally |
+| 5-HT3 antagonist | See selected 5-HT3 antagonist prescribing information for recommended dosage |
+
+Table 3.
 Recommended Dosage of CINVANTI for the Prevention of Nausea and Vomiting Associated with MEC (3-Day Regimen with Oral Aprepitant on Days 2 and 3)
 
 | Agent | Day 1 | Day 2 | Day 3 |
@@ -28,7 +37,7 @@ Recommended Dosage of CINVANTI for the Prevention of Nausea and Vomiting Associa
 
 Intravenous Injection over a period of 2 minutes
 
-For intravenous injection over a period of 2 minutes, administer 130 mg of CINVANTI as part of a HEC regimen or 100 mg as part of a MEC regimen as a single dose on Day 1.
+For intravenous injection over a period of 2 minutes, administer 130 mg of CINVANTI as part of a HEC or MEC regimen or 100 mg as part of a MEC regimen as a single dose on Day 1.
 
 Aseptically withdraw 18 mL for the 130 mg dose or 14 mL for the 100 mg dose from the vial.
 Do not dilute.
@@ -37,10 +46,10 @@ The infusion line should be flushed with normal saline before and after administ
 
 Intravenous Infusion over a period of 30 minutes
 
-Table 3 includes preparation instructions for CINVANTI for HEC as a 130 mg single-dose regimen and for MEC as a 100 mg single dose followed by 2 days of oral aprepitant as a 3-day regimen.
+Table 4 includes preparation instructions for CINVANTI for HEC or MEC as a 130 mg single-dose regimen, and for MEC as a 100 mg single-dose followed by 2 days of oral aprepitant as a 3-day regimen.
 Differences in preparation for each dose are displayed as bolded text.
 
-Table 3.
+Table 4.
 Preparation Instructions for CINVANTI Intravenous Infusion
 
 | Step 1 | Aseptically withdraw 18 mL for the 130 mg dose or 14 mL for the 100 mg dose from the vial and transfer it into an infusion bagUse only Non-DEHP tubing, non-PVC infusion bags filled with 100 mL of 0.9% Sodium Chloride Injection, USP or 5% Dextrose for Injection, USP. |  |

@@ -50,8 +50,8 @@ The safety and effectiveness of CINVANTI have not been established in pediatric 
 
 ## 8.5 Geriatric Use
 
-In 2 well-controlled chemotherapy-induced nausea and vomiting clinical studies, of the total number of patients (N = 544) treated with oral aprepitant, 31% were 65 and over, while 5% were 75 and over.
-No overall differences in safety or effectiveness were observed between these subjects and younger subjects.
+Of the 1649 adult cancer patients treated with intravenous fosaprepitant in HEC and MEC clinical studies, 27% were aged 65 and over, while 5% were aged 75 and over.
+Other reported clinical experience with fosaprepitant and/or oral aprepitant has not identified differences in responses between elderly and younger patients.
 In general, use caution when dosing elderly patients as they have a greater frequency of decreased hepatic, renal or cardiac function and concomitant disease or other drug therapy [see Clinical Pharmacology (12.3)].
 
 ## 8.6 Hepatic Impairment

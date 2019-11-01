@@ -1,5 +1,9 @@
 # 6 ADVERSE REACTIONS
 
+The following clinically significant adverse reactions are described elsewhere in the labeling:
+
+- Hypersensitivity Reactions [see Warnings and Precautions (5.2)]
+
 ## 6.1 Clinical Trials Experience
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
@@ -24,6 +28,30 @@ The reported infusion-site reactions included: infusion-site erythema, infusion-
 Adverse reactions associated with oral aprepitant may also be expected to occur with CINVANTI.
 See the full prescribing information for oral aprepitant for complete safety information.
 
+Single-Dose Intravenous Fosaprepitant -- MEC
+
+In an active-controlled clinical trial in patients receiving MEC, safety was evaluated in 504 patients receiving a single dose of intravenous fosaprepitant in combination with ondansetron and dexamethasone (intravenous fosaprepitant regimen) compared to 497 patients receiving ondansetron and dexamethasone alone (standard therapy).
+The most common adverse reactions are listed in Table 5.
+
+Table 5.
+Most Common Adverse Reactions in Patients Receiving MECReported in ≥2% of patients treated with the intravenous fosaprepitant regimen and at a greater incidence than standard therapy.
+
+|  | Intravenous fosaprepitant, ondansetron, and dexamethasoneIntravenous fosaprepitant regimen (N=504) | Ondansetron and dexamethasoneStandard therapy (N=497) |
+| --- | --- | --- |
+| Fatigue | 15% | 13% |
+| Diarrhea | 13% | 11% |
+| Neutropenia | 8% | 7% |
+| Asthenia | 4% | 3% |
+| Anemia | 3% | 2% |
+| Peripheral Neuropathy | 3% | 2% |
+| Leukopenia | 2% | 1% |
+| Dyspepsia | 2% | 1% |
+| Urinary Tract Infection | 2% | 1% |
+| Pain In Extremity | 2% | 1% |
+
+Infusion-site reactions were reported in 2.2% of patients treated with the intravenous fosaprepitant regimen compared to 0.6% of patients treated with standard therapy.
+The infusion-site reactions included: infusion-site pain (1.2%, 0.4%), injection-site irritation (0.2%, 0.0%), vessel puncture-site pain (0.2%, 0.0%), and 8 infusion-site thrombophlebitis (0.6%, 0.0%), reported in the intravenous fosaprepitant regimen compared to standard therapy, respectively.
+
 3-Day Oral Aprepitant -- MEC
 
 In 2 active-controlled clinical trials in patients receiving MEC, 868 patients were treated with a 3-day oral aprepitant regimen during Cycle 1 of chemotherapy and 686 of these patients continued into extensions for up to 4 cycles of chemotherapy.
@@ -32,9 +60,9 @@ In both studies, oral aprepitant was given in combination with ondansetron and d
 In the combined analysis of Cycle 1 data for these 2 studies, adverse reactions were reported in approximately 14% of patients treated with the aprepitant regimen compared with approximately 15% of patients treated with standard therapy.
 Treatment was discontinued due to adverse reactions in 0.7% of patients treated with the aprepitant regimen compared with 0.2% of patients treated with standard therapy.
 
-The most common adverse reactions reported in patients treated with the oral aprepitant regimen with an incidence of at least 1% and greater than standard therapy are listed in Table 4.
+The most common adverse reactions reported in patients treated with the oral aprepitant regimen with an incidence of at least 1% and greater than standard therapy are listed in Table 6.
 
-Table 4.
+Table 6.
 Adverse Reactions (≥ 1%) in Patients Receiving MEC with a Greater Incidence in the Oral 3-Day Aprepitant Regimen Relative to Standard Therapy
 
 |  | Oral Aprepitant Regimen (N = 868) | Standard Therapy (N = 846) |
@@ -46,9 +74,9 @@ A listing of adverse reactions reported in less than 1% in patients treated with
 
 Less Common Adverse Reactions
 
-Adverse reactions reported in studies in patients treated with the 3-day oral aprepitant regimen with an incidence < 1% and greater than standard therapy are listed in Table 5.
+Adverse reactions reported in studies in patients treated with the 3-day oral aprepitant regimen with an incidence < 1% and greater than standard therapy are listed in Table 7.
 
-Table 5.
+Table 7.
 Adverse Reactions (incidence < 1%) in Patients Observed in Studies with a Greater Incidence in the Oral Aprepitant Regimen Relative to Standard Therapy
 
 | Infection and infestations | candidiasis, staphylococcal infection |
