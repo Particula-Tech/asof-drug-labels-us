@@ -75,7 +75,7 @@ The safety and effectiveness and the pharmacokinetics of Oxycodone Hydrochloride
 Elderly patients (aged 65 years or older) may have increased sensitivity to oxycodone.
 In general, use caution when selecting a dose for an elderly patient, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function and of concomitant disease or other drug therapy.
 
-Respiratory depression is the chief risk for elderly patients treated with opioids, and has occurred after large initial doses were administered to patients who were not opioid-tolerant or when opioids were coadministered with other agents that depress respiration.
+Respiratory depression is the chief risk for elderly patients treated with opioids, and has occurred after large initial doses were administered to patients who were not opioid-tolerant or when opioids were co-administered with other agents that depress respiration.
 Titrate the dosage of Oxycodone Hydrochloride Oral Solution slowly in geriatric patients and monitor closely for signs of central nervous system and respiratory depression [see Warnings and Precautions (5.8)].
 
 Oxycodone is known to be substantially excreted by the kidney, and the risk of adverse reactions to this drug may be greater in patients with impaired renal function.

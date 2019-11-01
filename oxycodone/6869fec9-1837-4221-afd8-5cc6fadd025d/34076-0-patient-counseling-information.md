@@ -2,6 +2,15 @@
 
 Advise the patient to read the FDA-approved patient labeling (Medication Guide).
 
+Storage and Disposal
+
+Because of the risks associated with accidental ingestion, misuse, and abuse, advise patients to store Oxycodone Hydrochloride Oral Solution securely, out of sight and reach of children, and in a location not accessible by others, including visitors to the home (see Warnings and Precautions (5.2, 5.14), Drug Abuse and Dependence (9.2)].
+Inform patients that leaving Oxycodone Hydrochloride Oral Solution unsecured can pose a deadly risk to others in the home.
+
+Advise patients and caregivers that when medicines are no longer needed, they should be disposed of promptly.
+Expired, unwanted, or unused Oxycodone Hydrochloride Oral Solution should be disposed of by flushing the unused medication down the toilet if a drug take-back option is not readily available.
+Inform patients that they can visit www.fda.gov/drugdisposal for a complete list of medicines recommended for disposal by flushing, as well as additional information on disposal of unused medicines.
+
 Medication Errors
 
 Advise patients that Oxycodone Hydrochloride Oral Solution, is available in two concentrations (5 mg/5 mL and 100 mg/5 mL).
@@ -23,7 +32,6 @@ Advise patients how to recognize respiratory depression and to seek medical atte
 Accidental Ingestion
 
 Inform patients that accidental ingestion, especially by children, may result in respiratory depression or death [see Warnings and Precautions (5.4].
-Instruct patients to take steps to store Oxycodone Hydrochloride Oral Solution securely and to dispose of unused Oxycodone Hydrochloride Oral Solution by flushing down the toilet.
 
 Interactions with Benzodiazepines and Other CNS Depressants
 
@@ -54,10 +62,13 @@ Instruct patients how to properly take Oxycodone Hydrochloride Oral Solution.
 
 - Advise patients to always use the enclosed calibrated oral syringe/dosing cup when administering Oxycodone Hydrochloride Oral Solution to ensure the dose is measured and administered accurately [see Warnings and Precautions (5.1)].
 - Advise patients never to use household teaspoons or tablespoons to measure Oxycodone Hydrochloride Oral Solution.
+- Inform patients that the 100 mg per 5 mL (20 mg/mL) formulation is only for patients who are already receiving opioid-therapy and have demonstrated opioid-tolerance.
+  Use of this formulation may cause fatal respiratory depression when administered to patients who have not had previous exposure to opioids [see Indications and Usage (1), Dosage and Administration (2.1)].
 - Advise patients not to adjust the dose of Oxycodone Hydrochloride Oral Solution without consulting with a physician or other healthcare provider.
 
-If patients have been receiving treatment with Oxycodone Hydrochloride Oral Solution for more than a few weeks and cessation of therapy is indicated, counsel them on the importance of safely tapering the dose as abrupt discontinuation of the medication could precipitate withdrawal symptoms.
-Provide a dose schedule to accomplish a gradual discontinuation of the medication [see Dosage and Administration (2.4)].
+Important Discontinuation Instructions
+
+In order to avoid developing withdrawal symptoms, instruct patients not to discontinue Oxycodone Hydrochloride Oral Solution without first discussing a tapering plan with the prescriber [see Dosage and Administration (2.4)].
 
 Hypotension
 
@@ -97,7 +108,3 @@ Advise patients not to perform such tasks until they know how they will react to
 Constipation
 
 Advise patients of the potential for severe constipation, including management instructions and when to seek medical attention [see Adverse Reactions (6), Clinical Pharmacology (12.2)].
-
-Disposal of Unused Oxycodone Hydrochloride Oral Solution
-
-Advise patients to dispose of unused Oxycodone Hydrochloride Oral Solution by flushing the solution down the toilet or disposing of in accordance with local guidelines and/or regulations.

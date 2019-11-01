@@ -16,7 +16,6 @@ Health care providers should recommend a calibrated device that can measure and 
 
 Oxycodone Hydrochloride Oral Solution contains oxycodone, a Schedule II controlled substance.
 As an opioid, Oxycodone Hydrochloride Oral Solution exposes users to the risks of addiction, abuse, and misuse [see Drug Abuse and Dependence (9)].
-
 Although the risk of addiction in any individual is unknown, it can occur in patients appropriately prescribed Oxycodone Hydrochloride Oral Solution.
 Addiction can occur at recommended dosages and if the drug is misused or abused.
 
@@ -58,7 +57,14 @@ Monitor patients closely for respiratory depression, especially within the first
 To reduce the risk of respiratory depression, proper dosing and titration of Oxycodone Hydrochloride Oral Solution are essential [see Dosage and Administration (2)].
 Over estimating the Oxycodone Hydrochloride Oral Solution dosage when converting patients from another opioid product can result in a fatal overdose with the first dose.
 
+Oxycodone Hydrochloride Oral Solution 100 mg per 5 mL (20 mg/mL) is for use in opioid-tolerant patients only.
+Administration of this formulation may cause fatal respiratory depression when administered to patients who are not tolerant to the respiratory depressant effects of opioids.
+
 Accidental ingestion of even one dose of Oxycodone Hydrochloride Oral Solution, especially by children, can result in respiratory depression and death due to an overdose of oxycodone.
+
+Opioids can cause sleep-related breathing disorders including central sleep apnea (CSA) and sleep-related hypoxemia.
+Opioid use increases the risk of CSA in a dose-dependent fashion.
+In patients who present with CSA, consider decreasing the opioid dosage using best practices for opioid taper [see Dosage and Administration (2.4)].
 
 ## 5.5 Neonatal Opioid Withdrawal Syndrome
 
@@ -78,12 +84,11 @@ When using Oxycodone Hydrochloride Oral Solution with CYP3A4 inducers or discont
 
 ## 5.7 Risks from Concomitant Use with Benzodiazepines or Other CNS Depressants
 
-Profound sedation, respiratory depression, coma, and death may result from the concomitant use of Oxycodone Hydrochloride Oral Solution with benzodiazepines or other CNS depressants (e.g., non-benzodiazepine sedatives/hypnotics, anxiolytics, tranquilizers, muscle relaxants, general anesthetics, antipsychotics, other opioids, alcohol).
+Profound sedation, respiratory depression, coma, and death may result from the concomitant use of Oxycodone Hydrochloride Oral Solution with benzodiazepines or other CNS depressants (e.g., nonbenzodiazepine sedatives/hypnotics, anxiolytics, tranquilizers, muscle relaxants, general anesthetics, antipsychotics, other opioids, alcohol).
 Because of these risks, reserve concomitant prescribing of these drugs for use in patients for whom alternative treatment options are inadequate.
 
 Observational studies have demonstrated that concomitant use of opioid analgesics and benzodiazepines increases the risk of drug-related mortality compared to use of opioid analgesics alone.
 Because of similar pharmacological properties, it is reasonable to expect similar risk with the concomitant use of other CNS depressant drugs with opioid analgesics [see Drug Interactions (7)].
-
 If the decision is made to prescribe a benzodiazepine or other CNS depressant concomitantly with an opioid analgesic, prescribe the lowest effective dosages and minimum durations of concomitant use.
 In patients already receiving an opioid analgesic, prescribe a lower initial dose of the benzodiazepine or other CNS depressant than indicated in the absence of an opioid, and titrate based on clinical response.
 If an opioid analgesic is initiated in a patient already taking a benzodiazepine or other CNS depressant, prescribe a lower initial dose of the opioid analgesic, and titrate based on clinical response.
@@ -146,11 +151,12 @@ Monitor patients with a history of seizure disorders for worsened seizure contro
 
 ## 5.14 Withdrawal
 
-Avoid the use of mixed agonist/antagonist (e.g., pentazocine, nalbuphine, and butorphanol) or partial agonist (e.g., buprenorphine) analgesics in patients who are receiving a full opioid agonist analgesic, including Oxycodone Hydrochloride Oral Solution.
-In these patients, mixed agonist/antagonist and partial agonist analgesics may reduce the analgesic effect and/or precipitate withdrawal symptoms [see Drug Interactions (7)].
+Do not abruptly discontinue Oxycodone Hydrochloride Oral Solution in a patient physically dependent on opioids.
+When discontinuing Oxycodone Hydrochloride Oral Solution in a physically-dependent patient, gradually taper the dosage.
+Rapid tapering of oxycodone in a patient physically dependent on opioids may lead to a withdrawal syndrome and return of pain [see Dosage and Administration (2.4), Drug Abuse and Dependence (9.3)].
 
-When discontinuing Oxycodone Hydrochloride Oral Solution in a physically-dependent patient, gradually taper the dosage [see Dosage and Administration (2.4)].
-Do not abruptly discontinue Oxycodone Hydrochloride Oral Solution in these patients [see Drug Abuse and Dependence (9.3)].
+Additionally, avoid the use of mixed agonist/antagonist (e.g., pentazocine, nalbuphine, and butorphanol) or partial agonist (e.g., buprenorphine) analgesics in patients who are receiving a full opioid agonist analgesic, including Oxycodone Hydrochloride Oral Solution.
+In these patients, mixed agonist/antagonist and partial agonist analgesics may reduce the analgesic effect and/or precipitate withdrawal symptoms [see Drug Interactions (7)].
 
 ## 5.15 Risks of Driving and Operating Machinery
 
