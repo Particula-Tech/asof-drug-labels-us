@@ -36,14 +36,17 @@ Monitoring for hepatotoxicity is recommended.
 
 ## 5.4 Embryo-Fetal Toxicity
 
-Preliminary data from an observational study showed that dolutegravir, a component of DOVATO, was associated with increased risk of neural tube defects when administered at the time of conception and in early pregnancy.
-As there is limited understanding of reported types of neural tube defects associated with dolutegravir use and because the date of conception may not be determined with precision, avoid use of DOVATO at the time of conception through the first trimester of pregnancy [see Use in Specific Populations (8.1)].
-
-If there are plans to become pregnant or if pregnancy is confirmed within the first trimester while on DOVATO, if possible, switch to an alternative regimen.
+An observational study showed an association between dolutegravir, a component of DOVATO, and an increased risk of neural tube defects when dolutegravir was administered at the time of conception and in early pregnancy.
+As there is limited understanding of reported types of neural tube defects associated with dolutegravir use and because the date of conception may not be determined with precision, an alternative treatment to DOVATO should be considered at the time of conception through the first trimester of pregnancy [see Use in Specific Populations (8.1)].
 
 Perform pregnancy testing before initiation of DOVATO in individuals of childbearing potential to exclude use of DOVATO during the first trimester of pregnancy [see Dosage and Administration (2.1)].
+Initiation of DOVATO is not recommended in individuals actively trying to become pregnant unless there is no suitable alternative [see Use in Specific Populations (8.1, 8.3)].
 
-Advise individuals of childbearing potential to consistently use effective contraception [see Use in Specific Populations (8.1, 8.3)].
+Counsel individuals of childbearing potential to consistently use effective contraception [see Use in Specific Populations (8.1, 8.3)].
+
+In individuals of childbearing potential currently on DOVATO who are actively trying to become pregnant, or if pregnancy is confirmed in the first trimester, assess the risks and benefits of continuing DOVATO versus switching to another antiretroviral regimen and consider switching to an alternative regimen [see Use in Specific Populations (8.1, 8.3)].
+
+DOVATO may be considered during the second and third trimesters of pregnancy if the expected benefit justifies the potential risk to the pregnant woman and the fetus.
 
 ## 5.5 Lactic Acidosis and Severe Hepatomegaly with Steatosis
 
