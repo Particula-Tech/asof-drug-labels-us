@@ -12,6 +12,6 @@ Dispense in a tight, light-resistant container as described in the USP.
 Distributed by: Lannett Company, Inc. Philadelphia, PA 19154
 
 Rev.
-10/17
+09/18
 
 10-1100
