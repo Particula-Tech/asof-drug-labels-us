@@ -8,7 +8,8 @@ The use of oseltamivir phosphate capsules is contraindicated in patients with kn
 
 ## 5.2 Neuropsychiatric Events
 
-There have been postmarketing reports of delirium and abnormal behavior leading to injury, and in some cases resulting in fatal outcomes, in patients with influenza who were receiving oseltamivir phosphate [see Adverse Reactions (6.2)].Because these events were reported voluntarily during clinical practice, estimates of frequency cannot be made but they appear to be uncommon based on oseltamivir phosphate usage data.
+There have been postmarketing reports of delirium and abnormal behavior leading to injury, and in some cases resulting in fatal outcomes, in patients with influenza who were receiving oseltamivir phosphate [see Adverse Reactions (6.2)].
+Because these events were reported voluntarily during clinical practice, estimates of frequency cannot be made but they appear to be uncommon based on oseltamivir phosphate usage data.
 These events were reported primarily among pediatric patients and often had an abrupt onset and rapid resolution.
 The contribution of oseltamivir phosphate to these events has not been established.
 Influenza can be associated with a variety of neurologic and behavioral symptoms that can include events such as hallucinations, delirium, and abnormal behavior, in some cases resulting in fatal outcomes.

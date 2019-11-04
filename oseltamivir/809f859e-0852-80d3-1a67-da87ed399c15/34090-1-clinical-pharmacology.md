@@ -119,7 +119,7 @@ Table 8 Neuraminidase Amino Acid Substitutions Associated with Reduced Susceptib
 | Amino Acid Substitution* |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
 | Influenza A N1 (N1 numbering in brackets) |  |  |  |  |  |  |
-| I117V (I117V), E119V (E119V), R152K (R152K), Y155H (Y155H), F173V (F174V), D198G/N (D199G/N), I222K/R/T/V (I223K/R/T/V), S246N (S247N), G248R+I266V (G249R+I267V), H274Y (H275Y), N294S (N295S), Q312R+I427T (Q313R+I427T), N325K (N325K), R371K (R368K) |  |  |  |  |  |  |
+| I117V (I117V), E119V (E119V), R152K (R152K), Y155H (Y155H), F173V (F174V), D198G/N (D199G/N), I222K/R/T/V (I223K/R/T/V), S246G/N (S247G/N), G248R+I266V (G249R+I267V), H274Y (H275Y), N294S (N295S), Q312R+I427T (Q313R+I427T), N325K (N325K), R371K (R368K) |  |  |  |  |  |  |
 | Influenza A N2 |  |  |  |  |  |  |
 | E41G, E119I/V, D151V, I222L/V, Q226H, SASG245-248 deletion, S247P, R292K, N294S |  |  |  |  |  |  |
 | Influenza B (B numbering in brackets) |  |  |  |  |  |  |
@@ -127,7 +127,12 @@ Table 8 Neuraminidase Amino Acid Substitutions Associated with Reduced Susceptib
 | * All numbering is N2, except where indicated. |  |  |  |  |  |  |
 
 Selection of influenza A viruses resistant to oseltamivir can occur at higher frequencies in children.
-The incidence of oseltamivir treatment-associated resistance in pediatric treatment studies has been detected at rates of 27% to 37% and 3% to 18% (3/11 to 7/19 and 1/34 to 9/50 post-treatment isolates, respectively) for influenza A/H1N1 virus and influenza A/H3N2 virus, respectively.
+Oseltamivir treatment-associated resistance in pediatric treatment studies has been detected at frequencies of 27% to 37% and 3% to 18% (3/11 to 7/19 and 1/34 to 9/50 post-treatment isolates, respectively) for influenza A/H1N1 virus and influenza A/H3N2 virus, respectively.
+
+In immunocompromised adults and pediatrics (1 year of age and older), selection of influenza viruses resistant to oseltamivir can occur at higher frequencies than in the otherwise healthy population.
+In a treatment study of immunocompromised subjects, treatment-associated genotypic resistance was detected in 27% (8/30), 12% (6/52), and 0% (0/42) of influenza A/H1N1, A/H3N2, and B virus infections, respectively.
+Treatment-emergent resistance was observed at a higher frequency in hematopoietic stem cell transplant recipients (32%; 6/19).
+
 The frequency of resistance selection to oseltamivir and the prevalence of such resistant virus vary seasonally and geographically.
 
 Circulating seasonal influenza strains expressing neuraminidase resistance-associated substitutions have been observed in individuals who have not received oseltamivir treatment.

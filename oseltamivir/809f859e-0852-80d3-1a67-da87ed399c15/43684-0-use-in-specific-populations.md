@@ -31,7 +31,7 @@ The developmental and health benefits of breastfeeding should be considered alon
 
 ## 8.4 Pediatric Use
 
-Treatment of Influenza The safety and efficacy of oseltamivir phosphate for the treatment of influenza in pediatric patients 2 weeks old to 17 years of age has been established [see Dosage and Administration (2.2), Clinical Pharmacology(12.3), and Clinical Studies (14.1)] and is based on:
+Treatment of Influenza The safety and efficacy of oseltamivir phosphate for the treatment of influenza in pediatric patients 2 weeks old to 17 years of age has been established [see Dosage and Administration (2.2), Clinical Pharmacology (12.3), and Clinical Studies (14.1)] and is based on:
 
 - 13 to 17 years of age: Safety and efficacy in adolescent patients 13 to 17 years of age was supported by adequate and well-controlled trials in adults and adolescents and younger pediatric patients and safety data in adolescents treated with oseltamivir phosphate in a study of treatment and prophylaxis.
 - 1 year to 12 years of age: Safety and efficacy in pediatric patients 1 year to 12 years of age was supported by results of one double-blind, placebo-controlled trial in 452 pediatric patients with influenza in whom oseltamivir phosphate 2 mg per kg twice daily or placebo was administered within 48 hours of symptom onset [see Clinical Studies (14.1)].

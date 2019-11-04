@@ -95,4 +95,4 @@ The 75 mg shell (yellow / grey) contains gelatin, iron oxide black (in body), ir
 
 Distributed by: Alvogen, Inc. Pine Brook, NJ 07058 USA This Patient Information has been approved by the U.S. Food and Drug Administration.
 
-Revised 02/2019
+Revised: 02/2019
