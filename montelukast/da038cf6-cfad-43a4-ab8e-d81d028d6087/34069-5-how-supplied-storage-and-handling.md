@@ -20,7 +20,7 @@ Bottles of 90 NDC 13668-081-90
 
 Bottles of 500 NDC 13668-081-05
 
-Bottles of 3200 NDC 13668-081-32
+Bottles of 3,200 NDC 13668-081-32
 
 100 Unit Dose Tablets NDC 13668-081-74
 
