@@ -1,6 +1,6 @@
-# 12.CLINICAL PHARMACOLOGY
+# 12 CLINICAL PHARMACOLOGY
 
-## 12.1Mechanism of Action
+## 12.1 Mechanism of Action
 
 Angiotensin II is formed from angiotensin I in a reaction catalyzed by angiotensin converting enzyme (ACE, kininase II).
 Angiotensin II is the principal pressor agent of the renin-angiotensin system, with effects that include vasoconstriction, stimulation of synthesis and release of aldosterone, cardiac stimulation and renal reabsorption of sodium.
@@ -25,7 +25,7 @@ The duration of the inhibitory effect was related to dose, with doses of Benicar
 Plasma concentrations of angiotensin I and angiotensin II and plasma renin activity (PRA) increase after single and repeated administration of Benicar to healthy subjects and hypertensive patients.
 Repeated administration of up to 80 mg Benicar had minimal influence on aldosterone levels and no effect on serum potassium.
 
-## 12.3Pharmacokinetics
+## 12.3 Pharmacokinetics
 
 Absorption
 
@@ -36,6 +36,7 @@ Benicar tablets and the suspension formulation prepared from Benicar tablets are
 The absolute bioavailability of olmesartan is approximately 26%.
 After oral administration, the peak plasma concentration (Cmax) of olmesartan is reached after 1 to 2 hours.
 Food does not affect the bioavailability of olmesartan.
+Benicar may be administered with or without food.
 
 Distribution
 
@@ -56,37 +57,47 @@ Olmesartan appears to be eliminated in a biphasic manner with a terminal elimina
 Olmesartan shows linear pharmacokinetics following single oral doses of up to 320 mg and multiple oral doses of up to 80 mg.
 Steady-state levels of olmesartan are achieved within 3 to 5 days and no accumulation in plasma occurs with once-daily dosing.
 
-Geriatric
+Specific Populations
+
+Geriatric Patients
 
 The pharmacokinetics of olmesartan were studied in the elderly (≥65 years).
 Overall, maximum plasma concentrations of olmesartan were similar in young adults and the elderly.
-Modest accumulation of olmesartan was observed in the elderly with repeated dosing; AUCss,τ was 33% higher in elderly patients, corresponding to an approximate 30% reduction in CLR [see Dosage and Administration (2.1) and Use in Specific Populations (8.5)].
+Modest accumulation of olmesartan was observed in the elderly with repeated dosing; AUCss, τ was 33% higher in elderly patients, corresponding to an approximate 30% reduction in CLR [see Dosage and Administration (2.1) and Use in Specific Populations (8.5)].
 
-Pediatric
+Pediatric Patients
 
-The pharmacokinetics of olmesartan were studied in pediatric hypertensive patients aged 1 to16 years.
+The pharmacokinetics of olmesartan were studied in pediatric hypertensive patients aged 1 to 16 years.
 The clearance of olmesartan in pediatric patients was similar to that in adult patients when adjusted by the body weight [see Use in Specific Populations (8.4)].
 
 Olmesartan pharmacokinetics have not been investigated in pediatric patients less than 1 year of age [see Warnings and Precautions (5.2) and Use in Specific Populations (8.4)].
 
-Gender
+Male and Female Patients
 
 Minor differences were observed in the pharmacokinetics of olmesartan in women compared to men.
 AUC and Cmax were 10-15% higher in women than in men.
 
-Hepatic Insufficiency
+Patients with Hepatic Impairment
 
 Increases in AUC0-∞ and Cmax were observed in patients with moderate hepatic impairment compared to those in matched controls, with an increase in AUC of about 60% [see Dosage and Administration (2.1) and Use in Specific Populations (8.6)].
 
-Renal Insufficiency
+Patients with Renal Impairment
 
 In patients with renal insufficiency, serum concentrations of olmesartan were elevated compared to subjects with normal renal function.
 After repeated dosing, the AUC was approximately tripled in patients with severe renal impairment (creatinine clearance <20 mL/min).
 The pharmacokinetics of olmesartan in patients undergoing hemodialysis has not been studied [see Dosage and Administration (2.1), Warnings and Precautions (5.4) and Use in Specific Populations (8.7)].
 
-Drug Interaction
+Drug Interaction Studies
 
-Bile acid sequestering agent colesevelam
+Bile Acid Sequestering Agent Colesevelam
 
 Concomitant administration of 40 mg olmesartan medoxomil and 3750 mg colesevelam hydrochloride in healthy subjects resulted in 28% reduction in Cmax and 39% reduction in AUC of olmesartan.
-Lesser effects, 4% and 15% reduction in Cmax and AUC respectively, were observed when olmesartan medoxomil was administered 4 hours prior to colesevelam hydrochloride [see Drug Interactions (7)].
+Lesser effects, 4% and 15% reduction in Cmax and AUC respectively, were observed when olmesartan medoxomil was administered 4 hours prior to colesevelam hydrochloride [see Drug Interactions (7.5)].
+
+Other Studies
+
+No significant drug interactions were reported in studies in which olmesartan medoxomil was co-administered with digoxin or warfarin in healthy volunteers.
+
+The bioavailability of olmesartan was not significantly altered by the co-administration of antacids [Al(OH)3/Mg(OH)2].
+
+Olmesartan medoxomil is not metabolized by the cytochrome P450 system and has no effects on P450 enzymes; thus, interactions with drugs that inhibit, induce, or are metabolized by those enzymes are not expected.

@@ -1,4 +1,4 @@
-# 11.DESCRIPTION
+# 11 DESCRIPTION
 
 Olmesartan medoxomil, a prodrug, is hydrolyzed to olmesartan during absorption from the gastrointestinal tract.
 Olmesartan is a selective AT1 subtype angiotensin II receptor antagonist.

@@ -1,12 +1,9 @@
-# 17.PATIENT COUNSELING INFORMATION
+# 17 PATIENT COUNSELING INFORMATION
 
-Pregnancy: Female patients of childbearing age should be told about the consequences of exposure to Benicar during pregnancy.
+Pregnancy: Advise female patients of childbearing age about the consequences of exposure to Benicar during pregnancy.
 Discuss treatment options with women planning to become pregnant.
-Patients should be asked to report pregnancies to their physicians as soon as possible.
+Tell patients to report pregnancies to their physicians as soon as possible [see Warnings and Precautions (5.1) and Use in Specific Populations (8.1)].
 
-Manufactured for Daiichi Sankyo, Inc., Basking Ridge, NJ 07920
+Lactation: Advise nursing women not to breastfeed during treatment with BENICAR [see Use in Specific Populations (8.2)].
 
-Rx Only
-
-Copyright © Daiichi Sankyo, Inc. 2017.
-All rights reserved.
+Hyperkalemia: Advise patients not to use potassium supplements or salt substitutes that contain potassium without consulting their healthcare provider [see Drug Interactions (7.1)].
