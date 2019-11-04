@@ -12,7 +12,7 @@ Orenitram has not been evaluated in a thorough QTc study.
 
 ## 12.3 Pharmacokinetics
 
-In patients with PAH, pharmacokinetics of treprostinil is dose-proportional for systemic exposure (AUC0-t) over the dose range of 0.5 and 15 mg BID.
+In patients with PAH, pharmacokinetics of treprostinil is dose-proportional for systemic exposure (AUC0-t) over the dose range from 0.5 to 15 mg BID.
 Upon repeat administration with a BID regimen, the accumulation in the systemic exposures to treprostinil is minimal and results in a peak-to-trough ratio of approximately 7.
 However, a TID regimen will reduce the peak-to-trough fluctuations to approximately 2.5 for the same total daily dose.
 
@@ -30,19 +30,19 @@ When Orenitram 1 mg was administered with alcohol at 0.5 mg/kg or the equivalent
 
 Distribution
 
-The treprostinil component of Orenitram is highly bound to human plasma proteins, approximately 96% over a treprostinil concentration range of 0.01-10 μg/mL.
+The treprostinil component of Orenitram is highly bound to human plasma proteins, approximately 96% over a treprostinil concentration range of 0.01 to 10 µg/mL.
 
 Metabolism and Excretion
 
 In a study conducted in healthy volunteers using [14C] treprostinil, treprostinil was extensively metabolized on the side chain of the molecule via oxidation, oxidative cleavage, dehydration, and glucuronic acid conjugation.
 Treprostinil is primarily metabolized by CYP2C8 and to a lesser extent by CYP2C9.
-No new metabolites are found upon oral administration compared to parenteral administration of treprostinil.
+No new major metabolites are found upon oral administration compared to parenteral administration of treprostinil.
 Only 1.13% and 0.19% is excreted as unchanged parent drug in the feces and urine, respectively.
-Based on in vitro studies treprostinil does not inhibit or induce major CYP enzymes [see Drug Interactions (7.3)].
+Based on in vitro studies, treprostinil does not inhibit or induce major CYP enzymes [see Drug Interactions (7.1)].
 
 Specific Populations
 
-Hepatic Impairment: In subjects with mild (n=8) hepatic impairment, administration of a single 1 mg dose of Orenitram resulted in a mean Cmax and an AUC0-inf that were 1.6- and 2.1-fold, respectively, values seen in healthy subjects.
+Hepatic Impairment: In subjects with mild (n=8) hepatic impairment, administration of a single 1 mg dose of Orenitram resulted in a mean Cmax and an AUC0-inf that were 1.6- and 2.1-fold values seen in healthy subjects, respectively.
 With moderate impairment (n=8), the corresponding ratios were 4.0- and 4.8-fold, and with severe impairment (n=6), they were 4.8- and 7.6-fold [see Dosage and Administration (2.3), Contraindications (4), and Use in Specific Populations (8.6)].
 
 Renal Impairment: In patients with severe renal impairment requiring dialysis (n=8), administration of a single 1 mg dose of Orenitram pre- and post-dialysis resulted in an AUC0-inf that was not significantly altered compared to healthy subjects.
@@ -57,4 +57,4 @@ Figure 1: Impact of Co-Administered Drugs on the Systemic Exposure of Treprostin
 Warfarin: A drug interaction study was carried out with Remodulin co-administered with warfarin (25 mg/day) in healthy volunteers.
 There was no clinically significant effect of either medication on the pharmacokinetics of treprostinil.
 Additionally, treprostinil did not affect the pharmacokinetics or pharmacodynamics of warfarin.
-The pharmacokinetics of R- and S- warfarin and the international normalized ratio (INR) in healthy subjects given a single 25 mg dose of warfarin were unaffected by continuous subcutaneous infusion of treprostinil at an infusion rate of 10 ng/kg/min.
+The pharmacokinetics of R- and S-warfarin and the international normalized ratio (INR) in healthy subjects given a single 25 mg dose of warfarin were unaffected by continuous subcutaneous infusion of treprostinil at an infusion rate of 10 ng/kg/min.

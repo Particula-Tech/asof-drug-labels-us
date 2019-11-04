@@ -1,8 +1,8 @@
-# 16 HOW SUPPLIED / STORAGE AND HANDLING
+# 16 HOW SUPPLIED/STORAGE AND HANDLING
 
 ## 16.1 How Supplied
 
-Orenitram is an 8 mm round biconvex tablet with strength identifying color and printing and supplied as follows:
+Orenitram is an 8-mm round biconvex tablet with strength identified by color and print and supplied as follows:
 
 | Strength | Color | Printing on Tablets | NDC # 100-Count Bottle | NDC # 10-Count Bottle |
 | --- | --- | --- | --- | --- |
@@ -14,5 +14,5 @@ Orenitram is an 8 mm round biconvex tablet with strength identifying color and p
 
 ## 16.2 Storage
 
-Store at 25°C (77°F); excursions 15°C to 30°C (59°F to 86°F) [See USP controlled room temperature].
+Store at 20-25°C (68-77°F) with excursions permitted to 15-30°C (59-86°F) [See USP Controlled Room Temperature].
 Keep out of reach of children.
