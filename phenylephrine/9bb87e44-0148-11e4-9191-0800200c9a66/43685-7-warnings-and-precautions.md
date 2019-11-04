@@ -29,7 +29,7 @@ Sulfite sensitivity is seen more frequently in asthmatic than in nonasthmatic pe
 VAZCULEP can increase the need for renal replacement therapy in patients with septic shock.
 Monitor renal function.
 
-## 5.7 Risk of Augmented Pressor Affect in Patients with Autonomic Dysfunction
+## 5.7 Risk of Augmented Pressor Effect in Patients with Autonomic Dysfunction
 
 The increasing blood pressure response to adrenergic drugs, including VAZCULEP, can be increased in patients with autonomic dysfunction, as may occur with spinal cord injuries.
 
