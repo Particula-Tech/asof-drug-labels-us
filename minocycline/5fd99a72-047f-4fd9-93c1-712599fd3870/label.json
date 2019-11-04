@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA212379"
+  ],
+  "inn": "minocycline",
+  "labeler": "Foamix Pharmaceuticals Inc.",
+  "package_ndcs": [
+    "72356-101-03",
+    "72356-101-90"
+  ],
+  "products": [
+    {
+      "form": "AEROSOL, FOAM",
+      "generic": "minocycline",
+      "name": "AMZEEQ"
+    }
+  ],
+  "setid": "5fd99a72-047f-4fd9-93c1-712599fd3870",
+  "source": "dailymed"
+}
