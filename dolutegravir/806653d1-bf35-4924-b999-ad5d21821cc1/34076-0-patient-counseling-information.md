@@ -15,10 +15,10 @@ Inform patients that monitoring for hepatotoxicity is recommended.
 
 Embryo-Fetal Toxicity
 
-Advise adolescents and adults of childbearing potential to avoid use of JULUCA at the time of conception through the first trimester of pregnancy.
-Advise adolescents and adults of childbearing potential to contact their healthcare provider if they plan to become pregnant, become pregnant, or if pregnancy is suspected during treatment with JULUCA [see Warnings and Precaution (5.3)].
+Advise individuals of childbearing potential to consider an alternative treatment to JULUCA at the time of conception through the first trimester of pregnancy.
+Advise individuals of childbearing potential to contact their healthcare provider if they plan to become pregnant, become pregnant, or if pregnancy is suspected during treatment with JULUCA [see Warnings and Precaution (5.3), Use in Specific Populations (8.1, 8.3)].
 
-Advise adolescents and adults of childbearing potential taking JULUCA to consistently use effective contraception [see Use in Specific Populations (8.1, 8.3)].
+Counsel individuals of childbearing potential taking JULUCA to consistently use effective contraception [see Warnings and Precautions (5.3), Use in Specific Populations (8.1, 8.3)].
 
 Depressive Disorders
 
@@ -62,6 +62,6 @@ by:
 
 GlaxoSmithKline Research Triangle Park, NC 27709
 
-©2018 ViiV Healthcare group of companies or its licensor.
+©2019 ViiV Healthcare group of companies or its licensor.
 
-JLC:3PI
+JLC:4PI

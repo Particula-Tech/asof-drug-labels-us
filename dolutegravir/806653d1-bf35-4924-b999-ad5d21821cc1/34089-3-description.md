@@ -17,4 +17,4 @@ Rilpivirine hydrochloride is practically insoluble in water over a wide pH range
 
 JULUCA tablets are for oral administration.
 Each film-coated tablet contains the active ingredients 50 mg of dolutegravir (equivalent to 52.6 mg dolutegravir sodium) and 25 mg of rilpivirine (equivalent to 27.5 mg rilpivirine hydrochloride) and the inactive ingredients croscarmellose sodium, D-mannitol, lactose monohydrate, magnesium stearate, microcrystalline cellulose, polysorbate 20, povidone K29/32 and K30, silicified microcrystalline cellulose, sodium starch glycolate, and sodium stearyl fumarate.
-The tablet film coating contains the inactive ingredients iron oxide red, iron oxide yellow, macrogol/PEG, polyvinyl alcohol-part hydrolyzed, talc, and titanium dioxide.
+The tablet film-coating contains the inactive ingredients iron oxide red, iron oxide yellow, macrogol/PEG, polyvinyl alcohol-part hydrolyzed, talc, and titanium dioxide.
