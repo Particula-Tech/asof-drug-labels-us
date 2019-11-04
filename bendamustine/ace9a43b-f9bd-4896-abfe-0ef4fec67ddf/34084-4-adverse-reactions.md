@@ -1,6 +1,6 @@
 # 6 ADVERSE REACTIONS
 
-The following serious adverse reactions have been associated with bendamustine hydrochloride in clinical trials and are discussed in greater detail in other sections of the prescribing information.
+The following clinically significant adverse reactions have been associated with bendamustine hydrochloride in clinical trials and are discussed in greater detail in other sections of the prescribing information.
 
 - Myelosuppression [see Warnings and Precautions (5.1)]
 - Infections [see Warnings and Precautions (5.2)]
@@ -11,20 +11,22 @@ The following serious adverse reactions have been associated with bendamustine h
 - Other Malignancies [see Warnings and Precautions (5.7)]
 - Extravasation Injury [see Warnings and Precautions (5.8)]
 
-## 6.1 Adverse Events in Clinical Trials
+## 6.1 Clinical Trials Experience
+
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
 The data described below reflect exposure to bendamustine hydrochloride in 329 patients who participated in an actively controlled trial (N=153) for the treatment of CLL and two single arm studies (N=176) for the treatment of indolent B cell NHL.
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-The safety of BENDEKA (bendamustine hydrochloride) injection administered IV as a 50 mL admixture over a 10-minute infusion is supported by clinical trials using bendamustine hydrochloride administered IV as a 500 mL admixture over 30-60 minutes infusion time, as well as an open-label, crossover study in 81 ‘end-of-life’ cancer patients treated with BENDEKA.
+The safety of BENDEKA administered IV as a 50 mL admixture over a 10-minute infusion is supported by clinical trials using bendamustine hydrochloride administered IV as a 500 mL admixture over 30-60 minutes infusion time, as well as an open-label, crossover study in 81 ‘end-of-life’ cancer patients treated with BENDEKA.
 In total, safety data from clinical studies are available from over 400 cancer patients exposed to bendamustine hydrochloride at doses in the range used in the treatment of CLL and NHL.
 
-No clinically significant differences in the adverse event profile were noted among bendamustine hydrochloride administered as a 500 mL admixture over standard infusion time (30-60 minutes) and BENDEKA administered as a 50 mL admixture in a ‘short-time' infusion over 10 minutes.
+No clinically significant differences in the adverse reaction profile were noted among bendamustine hydrochloride administered as a 500 mL admixture over standard infusion time (30-60 minutes) and BENDEKA administered as a 50 mL admixture in a ‘short-time’ infusion over 10 minutes.
 
-The safety and tolerability of BENDEKA was evaluated in an 8-week clinical study of BENDEKA in 81 ‘end-of-life' cancer patients, diagnosed with solid tumors and hematologic malignancies (excluding CLL).
-The population was 40-82 years of age, 58% females, 84% white, 12.3% Black, 1.2% Asian and 2.5% were classified as ‘other'.
+The safety and tolerability of BENDEKA was evaluated in an 8-week clinical study of BENDEKA in 81 ‘end-of-life’ cancer patients, diagnosed with solid tumors and hematologic malignancies (excluding CLL).
+The population was 40-82 years of age, 58% females, 84% white, 12.3% Black, 1.2% Asian and 2.5% were classified as ‘other’.
 BENDEKA was administered IV at a 120 mg/m2 dose as a 50 mL admixture over 10 minutes.
-Patients in the study received BENDEKA(50 mL IV, over 10 minutes) or bendamustine hydrochloride (500 mL IV, over 60 minutes) on Days 1 and 2 every 28 days for two consecutive 2-day cycles.
+Patients in the study received BENDEKA (50 mL IV, over 10 minutes) or bendamustine hydrochloride (500 mL IV, over 60 minutes) on Days 1 and 2 every 28 days for two consecutive 2-day cycles.
 
 Adverse reactions (any grade) that occurred with a frequency greater than 5% during BENDEKA infusion and within one hour post-infusion were nausea (8.2%) and fatigue (5.5%).
 
@@ -53,10 +55,10 @@ Table 1 contains the treatment emergent adverse reactions, regardless of attribu
 
 Table 1: Non-Hematologic Adverse Reactions Occurring in Randomized CLL Clinical Study in at Least 5% of Patients
 
-| Bendamustine Hydrochloride (N=153) |  | Chlorambucil (N=143) |  |  |
-| --- | --- | --- | --- | --- |
 |  | Number (%) of patients |  |  |  |
-| System organ class Preferred term | All Grades | Grade 3/4 | All Grades | Grade 3/4 |
+| --- | --- | --- | --- | --- |
+| Bendamustine Hydrochloride (N=153) |  | Chlorambucil (N=143) |  |  |
+| Body System Adverse Reaction | All Grades | Grade 3/4 | All Grades | Grade 3/4 |
 | Total number of patients with at least 1 adverse reaction | 121 (79) | 52 (34) | 96 (67) | 25 (17) |
 | Gastrointestinal disorders |  |  |  |  |
 | Nausea | 31 (20) | 1 (<1) | 21 (15) | 1 (<1) |
@@ -89,9 +91,9 @@ Red blood cell transfusions were administered to 20% of patients receiving benda
 
 Table 2: Incidence of Hematology Laboratory Abnormalities in Patients Who Received bendamustine hydrochloride or Chlorambucil in the Randomized CLL Clinical Study
 
-| All Grades n (%) | Grade 3/4 n (%) | All Grades n (%) | Grade 3/4 n (%) |  |
+| Laboratory Abnormality | Bendamustine Hydrochloride (N=150) |  | Chlorambucil (N=141) |  |
 | --- | --- | --- | --- | --- |
-| Laboratory Abnormality | Bendamustine Hydrochloride N=150 |  | Chlorambucil N=141 |  |
+| All Grades n (%) | Grade 3/4 n (%) | All Grades n (%) | Grade 3/4 n (%) |  |
 | Hemoglobin Decreased | 134 (89) | 20 (13) | 115 (82) | 12 (9) |
 | Platelets Decreased | 116 (77) | 16 (11) | 110 (78) | 14 (10) |
 | Leukocytes Decreased | 92 (61) | 42 (28) | 26 (18) | 4 (3) |
@@ -117,9 +119,9 @@ The most common non-hematologic Grade 3 or 4 adverse reactions (≥5%) were fati
 
 Table 3: Non-Hematologic Adverse Reactions Occurring in at Least 5% of NHL Patients Treated with bendamustine hydrochloride by System Organ Class and Preferred Term (N=176)
 
-| Preferred Term | All Grades | Grade 3/4 |
+| Body System | Number (%) of patients* |  |
 | --- | --- | --- |
-| System organ class | Number (%) of patients* |  |
+| Adverse Reaction | All Grades | Grade 3/4 |
 | Total number of patients with at least 1 adverse reaction | 176 (100) | 94 (53) |
 | Cardiac Disorders |  |  |
 | Tachycardia | 13 (7) | 0 |
@@ -188,17 +190,16 @@ Table 3: Non-Hematologic Adverse Reactions Occurring in at Least 5% of NHL Patie
 | Hyperhidrosis | 8 (5) | 0 |
 | Vascular disorders |  |  |
 | Hypotension | 10 (6) | 2 (1) |
-| *Patients may have reported more than 1 adverse reaction. |  |  |
-| NOTE: Patients counted only once in each preferred term category and once in each system organ class category. |  |  |
+| *Patients may have reported more than 1 adverse reaction.NOTE: Patients counted only once in each preferred term category and once in each system organ class category. |  |  |
 
 Hematologic toxicities, based on laboratory values and CTC grade, in NHL patients treated in both single arm studies combined are described in Table 4.
 Clinically important chemistry laboratory values that were new or worsened from baseline and occurred in >1% of patients at grade 3 or 4, in NHL patients treated in both single arm studies combined were hyperglycemia (3%), elevated creatinine (2%), hyponatremia (2%), and hypocalcemia (2%).
 
 Table 4: Incidence of Hematology Laboratory Abnormalities in Patients Who Received bendamustine hydrochloride in the NHL Studies
 
-| All Grades | Grade 3/4 |  |
-| --- | --- | --- |
 | Hematology Variable | Percent of Patients |  |
+| --- | --- | --- |
+| All Grades | Grade 3/4 |  |
 | Lymphocytes Decreased | 99 | 94 |
 | Leukocytes Decreased | 94 | 56 |
 | Hemoglobin Decreased | 88 | 11 |
@@ -212,12 +213,12 @@ Other important serious adverse reactions reported in clinical trials and/or pos
 Serious drug-related adverse reactions reported in clinical trials included myelosuppression, infection, pneumonia, tumor lysis syndrome and infusion reactions.
 [see Warnings and Precautions (5)] Adverse reactions occurring less frequently but possibly related to bendamustine hydrochloride treatment were hemolysis, dysgeusia/taste disorder, atypical pneumonia, sepsis, herpes zoster, erythema, dermatitis, and skin necrosis.
 
-## 6.4 Post-Marketing Experience
+## 6.4 Postmarketing Experience
 
 The following adverse reactions have been identified during post-approval use of bendamustine hydrochloride.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Blood and lymphatic systems disorders: Pancytopenia.
+Blood and lymphatic systems disorders:Pancytopenia.
 
 Cardiovascular disorders: Atrial fibrillation, congestive heart failure (some fatal), myocardial infarction (some fatal), palpitation.
 

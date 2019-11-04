@@ -11,7 +11,7 @@ The exact mechanism of action of bendamustine remains unknown.
 
 ## 12.2 Pharmacodynamics
 
-Based on the pharmacokinetics/pharmacodynamics analyses of data from adult NHL patients, nausea increased with increasing bendamustine Cmax.
+Based on the pharmacokinetics/pharmacodynamics analyses of data from adult patients with NHL, nausea increased with increasing bendamustine Cmax.
 
 Cardiac Electrophysiology
 
@@ -21,69 +21,54 @@ The potential for delayed effects on the QT interval after one hour was not eval
 
 ## 12.3 Pharmacokinetics
 
-Absorption
-
-In a pharmacokinetics study conducted in patients with cancer (N=60), a single IV dose of BENDEKA (bendamustine hydrochloride) injection (120 mg/m2; administered as a 10 minutes infusion), resulted in a higher maximum plasma concentration (Cmax) and equivalent systemic exposure (AUC), compared to a single dose of Treanda® (bendamustine hydrochloride) (120 mg/m2) infused over 60 minutes.
-The mean Cmax achieved was 35 μg/mL (range 6 to 49 μg/mL), occurring typically at the end of infusion.
+Following a single dose of 120 mg/m2 of bendamustine hydrochloride over 10-minute infusion, the mean Cmax achieved was 35 µg/mL (range 6 to 49 µg/mL), occurring typically at the end of infusion.
+Little or no accumulation in plasma is expected for bendamustine administered on Days 1 and 2 of a 28-day cycle.
 
 Distribution
 
-In vitro, the binding of bendamustine to human serum plasma proteins ranged from 94-96% and was concentration independent from 1-50 μg/mL.
-Data suggest that bendamustine is not likely to displace or to be displaced by highly protein-bound drugs.
-The blood to plasma concentration ratios in human blood ranged from 0.84 to 0.86 over a concentration range of 10 to 100 μg/mL indicating that bendamustine distributes freely in human red blood cells.
+The protein binding of bendamustine ranged from 94-96% and was concentration independent from 1-50 µg/mL.
+The blood to plasma concentration ratios in human blood ranged from 0.84 to 0.86 over a concentration range of 10 to 100 µg/mL.
 
-In a mass balance study, plasma radioactivity levels were sustained for a greater period of time than plasma concentrations of bendamustine, γ hydroxybendamustine (M3), and N desmethylbendamustine (M4).
-This suggests that there are bendamustine derived materials (detected via the radiolabel), that are rapidly cleared and have a longer half-life than bendamustine and its active metabolites.
-The mean steady-state volume of distribution (Vss) of bendamustine was approximately 20-25 L. Steady-state volume of distribution for total radioactivity was approximately 50 L, indicating that neither bendamustine nor total radioactivity are extensively distributed into the tissues.
-
-Metabolism
-
-In vitro data indicate that bendamustine is primarily metabolized via hydrolysis to monohyrdroxy (HP1) and dihydroxybendamustine (HP2) metabolites with low cytotoxic activity.
-In vitro, studies indicate that two active minor metabolites, M3 and M4, are primarily formed via CYP1A2.
-However, concentrations of these metabolites in plasma are 1/10th and 1/100th that of the parent compound, respectively, suggesting that the cytotoxic activity is primarily due to bendamustine.
-
-Results of a human mass balance study confirm that bendamustine is extensively metabolized via hydrolytic, oxidative, and conjugative pathways.
-In vitro studies using human liver microsomes indicate that bendamustine does not inhibit CYP1A2, 2C9/10, 2D6, 2E1, or 3A4/5.
-Bendamustine did not induce metabolism of CYP1A2, CYP2A6, CYP2B6, CYP2C8, CYP2C9, CYP2C19, CYP2E1, or CYP3A4/5 enzymes in primary cultures of human hepatocytes.
+The mean steady-state volume of distribution (VSS) of bendamustine was approximately 20-25 L.
 
 Elimination
 
-Mean recovery of total radioactivity in cancer patients following IV infusion of [14C] bendamustine hydrochloride was approximately 76% of the dose.
-Approximately 50% of the dose was recovered in the urine and approximately 25% of the dose was recovered in the feces.
-Urinary excretion was confirmed as a relatively minor pathway of elimination of bendamustine, with approximately 3.3% of the dose recovered in the urine as parent.
+After a single intravenous dose of 120 mg/m2 of bendamustine over 1 hour, the intermediate half-life (t½) of the parent compound is approximately 40 minutes.
+The mean terminal elimination t½ of two active metabolites, γ-hydroxybendamustine (M3) and N desmethylbendamustine (M4) are approximately 3 hours and 30 minutes, respectively.
+Bendamustine clearance in humans is approximately 700 mL/min.
+
+Metabolism
+
+Bendamustine is extensively metabolized via hydrolytic, oxidative, and conjugative pathways.
+Bendamustine is primarily metabolized via hydrolysis to monohyrdroxy (HP1) and dihydroxybendamustine (HP2) metabolites with low cytotoxic activity in vitro.
+Two active minor metabolites, M3 and M4, are primarily formed via CYP1A2 in vitro.
+M3 and M4 concentrations of these metabolites in plasma are 1/10th and 1/100th that of the parent compound, respectively.
+
+Excretion
+
+Following IV infusion of radiolabeled bendamustine hydrochloride in cancer patients, approximately 76% of the dose was recovered.
+Approximately 50% of the dose was recovered in the urine (3.3% unchanged) and approximately 25% of the dose was recovered in the feces.
 Less than 1% of the dose was recovered in the urine as M3 and M4, and less than 5% of the dose was recovered in the urine as HP2.
 
-After a single dose of 120 mg/m2 bendamustine IV over 1-hour the intermediate t½ of the parent compound is approximately 40 minutes.
-The mean apparent terminal elimination t½ of M3 and M4 are approximately 3 hours and 30 minutes respectively.
-Little or no accumulation in plasma is expected for bendamustine administered on Days 1 and 2 of a 28-day cycle.
-Bendamustine clearance in humans is approximately 700 mL/minute.
+Specific Populations
 
-Renal Impairment
+No clinically meaningful effects on the pharmacokinetics of bendamustine were observed based on age (31 to 84 years), sex, mild to moderate renal impairment (CLcr ≥ 30 mL/min), or hepatic impairment with total bilirubin 1.5 < ULN and AST or ALT < 2.5 × ULN.
+The effects of severe renal impairment (CLcr < 30 mL/min), or hepatic impairment with total bilirubin 1.5-3 × ULN and AST or ALT 2.5-10 × ULN or total bilirubin > 3 × ULN on the pharmacokinetics of bendamustine is unknown.
 
-In a population pharmacokinetic analysis of bendamustine in patients receiving 120 mg/m2, there was no meaningful effect of renal impairment (CrCL 30 - 80 mL/min, N=31) on the pharmacokinetics of bendamustine.
-Bendamustine has not been studied in patients with CrCL < 30 mL/min and should not be used in these patients.
+Race/Ethnicity
 
-Hepatic Impairment
+Exposures in Japanese subjects (n=6) were 40% higher than that in non-Japanese subjects receiving the same dose.
+The clinical importance of this difference on the safety and efficacy of bendamustine hydrochloride in Japanese subjects has not been established.
 
-In a population pharmacokinetic analysis of bendamustine in patients receiving 120 mg/m2, there was no meaningful effect of mild (total bilirubin ≤ ULN, AST ≥ ULN to 2.5 x ULN, and/or ALP ≥ ULN to 5 x ULN, N=26) hepatic impairment on the pharmacokinetics of bendamustine.
-Bendamustine has not been studied in patients with moderate or severe hepatic impairment.
+Drug Interaction Studies
 
-Bendamustine should not be used in patients with moderate (AST or ALT 2.5 - 10 x ULN and total bilirubin 1.5 - 3 x ULN) or severe (total bilirubin > 3 x ULN) hepatic impairment.
-[see Use in Specific Populations (8.7)]
+In Vitro Studies
 
-Effect of Age
+Effect of Bendamustine on CYP Substrates
 
-Bendamustine exposure (as measured by AUC and Cmax) has been studied in patients ages 31 through 84 years.
-The pharmacokinetics of bendamustine (AUC and Cmax) were not significantly different between patients less than or greater than/equal to 65 years of age.
-[see Use in Specific Populations (8.4, 8.5)]
+Bendamustine did not inhibit CYP1A2, 2C9/10, 2D6, 2E1, or 3A4/5.
+Bendamustine did not induce metabolism of CYP1A2, CYP2A6, CYP2B6, CYP2C8, CYP2C9, CYP2C19, CYP2E1, or CYP3A4/5.
 
-Effect of Gender
+Effect of Transporters on Bendamustine Hydrochloride
 
-The pharmacokinetics of bendamustine were similar in male and female patients.
-[see Use in Specific Populations (8.8)]
-
-Effect of Race
-
-The effect of race on the safety, and/or efficacy of bendamustine hydrochloride has not been established.
-Based on a cross-study comparison, Japanese subjects (n = 6) had on average exposures that were 40% higher than non-Japanese subjects receiving the same dose.
-The significance of this difference on the safety and efficacy of bendamustine hydrochloride in Japanese subjects has not been established.
+Bendamustine is a substrate of P-glycoprotein and breast cancer resistance protein (BCRP).

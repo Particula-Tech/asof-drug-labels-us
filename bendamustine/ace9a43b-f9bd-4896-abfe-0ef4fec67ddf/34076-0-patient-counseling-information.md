@@ -4,10 +4,10 @@ Allergic (Hypersensitivity) Reactions Inform patients of the possibility of seri
 
 Myelosuppression Inform patients of the likelihood that BENDEKA (bendamustine hydrochloride) injection will cause a decrease in white blood cells, platelets, and red blood cells.
 They will need frequent monitoring of these parameters.
-They should be instructed to report shortness of breath, significant fatigue, bleeding, fever, or other signs of infection[see Warnings and Precautions (5.1)].
+They should be instructed to report shortness of breath, significant fatigue, bleeding, fever, or other signs of infection [see Warnings and Precautions (5.1)].
 
 Hepatotoxicity Inform patients of the possibility of developing liver function abnormalities and serious hepatic toxicity.
-Advise patients to immediately contact their health care provider if signs of liver failure occur, including jaundice, anorexia, bleeding or bruising [see Warnings and Precautions (5.6)].
+Advise patients to immediately contact their healthcare provider if signs of liver failure occur, including jaundice, anorexia, bleeding or bruising [see Warnings and Precautions (5.6)].
 
 Fatigue Advise patients that BENDEKA (bendamustine hydrochloride) injection may cause tiredness and to avoid driving any vehicle or operating any dangerous tools or machinery if they experience this side effect [see Adverse Reactions (6.1)].
 
@@ -20,13 +20,16 @@ Patients should report diarrhea to the physician so that symptomatic treatment m
 Rash Advise patients that a mild rash or itching may occur during treatment with BENDEKA (bendamustine hydrochloride) injection.
 Advise patients to immediately report severe or worsening rash or itching [see Warnings and Precautions (5.5)].
 
-Pregnancy and Nursing BENDEKA (bendamustine hydrochloride) injection can cause fetal harm.
-Women should be advised to avoid becoming pregnant throughout treatment and for 3 months after bendamustine hydrochloride therapy has stopped.
-Men receiving BENDEKA (bendamustine hydrochloride) injection should use reliable contraception for the same time period.
-Advise patients to report pregnancy immediately.
-Advise patients to avoid nursing while receiving BENDEKA (bendamustine hydrochloride) [see Use in Specific Populations (8.1) and (8.3)].
+Embryo-Fetal Toxicity Advise pregnant women and females of reproductive potential of the potential risk to a fetus.
+Advise females to inform their healthcare provider of a known or suspected pregnancy [see Warnings and Precautions (5.9), Use in Specific Populations (8.1, 8.3), and Nonclinical Toxicology (13.1)].
+Advise female patients of reproductive potential to use effective contraception during treatment with BENDEKA and for 6 months after the final dose [see Use in Specific Populations (8.1, 8.3)].
+Advise males with female partners of reproductive potential to use effective contraception during treatment with BENDEKA and for 3 months after the final dose [see Use in Specific Populations (8.3), and Nonclinical Toxicology (13.1)].
 
-BEN-006
+Lactation Advise females not to breastfeed during treatment with BENDEKA and for at least 1 week after the final dose [see Use in Specific Populations (8.2)].
+
+Infertility Advise males of reproductive potential that BENDEKA may impair fertility [see Use in Specific Populations (8.3)].
+
+BEN-009
 
 Distributed By: Teva Pharmaceuticals USA, Inc. North Wales, PA 19454
 
