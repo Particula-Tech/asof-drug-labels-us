@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA076931"
+  ],
+  "inn": "buprenorphine",
+  "labeler": "Hikma Pharmaceuticals USA Inc.",
+  "package_ndcs": [
+    "0143-9246-01",
+    "0143-9246-05"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "buprenorphine hydrochloride",
+      "name": "Buprenorphine Hydrochloride"
+    }
+  ],
+  "setid": "adc1167e-910e-4d7b-abdc-751d3df0c3dc",
+  "source": "dailymed"
+}
