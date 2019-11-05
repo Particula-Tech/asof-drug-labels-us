@@ -1,0 +1,593 @@
+# WARNINGS
+
+(See also BOXED WARNING)
+
+All Patients
+
+Cyclosporine, the active ingredient of cyclosporine capsules (modified), can cause nephrotoxicity and hepatotoxicity.
+The risk increases with increasing doses of cyclosporine.
+Renal dysfunction including structural kidney damage is a potential consequence of cyclosporine capsules (modified) and therefore renal function must be monitored during therapy.
+Care should be taken in using cyclosporine with nephrotoxic drugs.
+(See PRECAUTIONS)
+
+Patients receiving cyclosporine capsules (modified) require frequent monitoring of serum creatinine.
+(See Special Monitoring under DOSAGE AND ADMINISTRATION) Elderly patients should be monitored with particular care, since decreases in renal function also occur with age.
+If patients are not properly monitored and doses are not properly adjusted, cyclosporine therapy can be associated with the occurrence of structural kidney damage and persistent renal dysfunction.
+
+An increase in serum creatinine and BUN may occur during cyclosporine capsules (modified) therapy and reflect a reduction in the glomerular filtration rate.
+Impaired renal function at any time requires close monitoring, and frequent dosage adjustment may be indicated.
+The frequency and severity of serum creatinine elevations increase with dose and duration of cyclosporine therapy.
+These elevations are likely to become more pronounced without dose reduction or discontinuation.
+
+Because cyclosporine capsules (modified) is not bioequivalent to Sandimmune®, conversion from cyclosporine capsules (modified) to Sandimmune® using a 1:1 ratio (mg/kg/day) may result in lower cyclosporine blood concentrations.
+Conversion from cyclosporine capsules (modified) to Sandimmune® should be made with increased monitoring to avoid the potential of underdosing.
+
+Kidney, Liver, and Heart Transplant
+
+Nephrotoxicity
+
+Cyclosporine, the active ingredient of cyclosporine capsules (modified), can cause nephrotoxicity and hepatotoxicity when used in high doses.
+It is not unusual for serum creatinine and BUN levels to be elevated during cyclosporine therapy.
+These elevations in renal transplant patients do not necessarily indicate rejection, and each patient must be fully evaluated before dosage adjustment is initiated.
+
+Based on the historical Sandimmune® experience with oral solution, nephrotoxicity associated with cyclosporine had been noted in 25% of cases of renal transplantation, 38% of cases of cardiac transplantation, and 37% of cases of liver transplantation.
+Mild nephrotoxicity was generally noted 2 to 3 months after renal transplant and consisted of an arrest in the fall of the pre-operative elevations of BUN and creatinine at a range of 35 to 45 mg/dL and 2.0 to 2.5 mg/dL respectively.
+These elevations were often responsive to cyclosporine dosage reduction.
+
+More overt nephrotoxicity was seen early after transplantation and was characterized by a rapidly rising BUN and creatinine.
+Since these events are similar to renal rejection episodes, care must be taken to differentiate between them.
+This form of nephrotoxicity is usually responsive to cyclosporine dosage reduction.
+
+Although specific diagnostic criteria which reliably differentiate renal graft rejection from drug toxicity have not been found, a number of parameters have been significantly associated with one or the other.
+It should be noted however, that up to 20% of patients may have simultaneous nephrotoxicity and rejection.
+
+|  | Nephrotoxicity vs. Rejection |  |
+| --- | --- | --- |
+| Parameter | Nephrotoxicity | Rejection |
+| History | Donor > 50 years old or hypotensive | Anti-donor immune response |
+|  | Prolonged kidney preservation | Retransplant patient |
+|  | Prolonged anastomosis time |  |
+|  | Concomitant nephrotoxic drugs |  |
+| Clinical | Often > 6 weeks postopb | Often < 4 weeks postopb |
+|  | Prolonged initial nonfunction | Fever > 37.5°C |
+|  | (acute tubular necrosis) | Weight gain > 0.5 kg |
+|  |  | Graft swelling and tenderness |
+|  |  | Decrease in daily urine volume > 500 mL |
+|  |  | (or 50%) |
+| Laboratory | CyA serum trough level > 200 ng/mL | CyA serum trough level < 150 ng/mL |
+|  | Gradual rise in Cr (< 0.15 mg/dL/day)a | Rapid rise in Cr (> 0.3 mg/dL/day)a |
+|  | Cr plateau < 25% above baseline | Cr > 25% above baseline |
+|  | BUN/Cr ≥ 20 | BUN/Cr < 20 |
+| Biopsy | Arteriolopathy (medial hypertrophya, | Endovasculitisc (proliferationa, |
+|  | hyalinosis, nodular deposits, intimal | intimal arteritisb, necrosis, sclerosis) |
+|  | thickening, endothelial vacuolization, |  |
+|  | progressive scarring) |  |
+|  | Tubular atrophy, isometric vacuolization, | Tubulitis with RBCb and WBCb casts, |
+|  | isolated calcifications | some irregular vacuolization |
+|  | Minimal edema | Interstitial edemac and hemorrhageb |
+|  | Mild focal infiltratesc | Diffuse moderate to severe mononuclear |
+|  |  | infiltratesd |
+|  | Diffuse interstitial fibrosis, | Glomerulitis (mononuclear cells)c |
+|  | often striped form |  |
+| Aspiration Cytology | CyA deposits in tubular and | Inflammatory infiltrate with mononuclear phagocytes, |
+|  | endothelial cells | macrophages, lymphoblastoid cells, and |
+|  | Fine isometric vacuolization of tubular | activated T-cells |
+|  | cells | These strongly express HLA-DR antigens |
+| Urine Cytology | Tubular cells with vacuolization and | Degenerative tubular cells, plasma cells, and |
+|  | granularization | lymphocyturia > 20% of sediment |
+| Manometry | Intracapsular pressure < 40 mm Hgb | Intracapsular pressure > 40 mm Hgb |
+| Ultrasonography | Unchanged graft cross sectional area | Increase in graft cross sectional area |
+|  |  | AP diameter ≥ Transverse diameter |
+| Magnetic Resonance | Normal appearance | Loss of distinct corticomedullary junction, swelling |
+| Imagery |  | image intensity of parachyma approaching that |
+|  |  | of psoas, loss of hilar fat |
+| Radionuclide Scan | Normal or generally decreased perfusion | Patchy arterial flow |
+|  | Decrease in tubular function | Decrease in perfusion > decrease in tubular function |
+|  | (131 I-hippuran) > decrease in perfusion | Increased uptake of Indium 111 labeled platelets or |
+|  | (99m Tc DTPA) | Tc-99m in colloid |
+| Therapy | Responds to decreased | Responds to increased steroids or |
+|  | cyclosporine | antilymphocyte globulin |
+
+ap < 0.05, bp < 0.01, cp < 0.001, dp < 0.0001
+
+A form of a cyclosporine-associated nephropathy is characterized by serial deterioration in renal function and morphologic changes in the kidneys.
+From 5% to 15% of transplant recipients who have received cyclosporine will fail to show a reduction in rising serum creatinine despite a decrease or discontinuation of cyclosporine therapy.
+Renal biopsies from these patients will demonstrate one or several of the following alterations: tubular vacuolization, tubular microcalcifications, peritubular capillary congestion, arteriolopathy, and a striped form of interstitial fibrosis with tubular atrophy.
+Though none of these morphologic changes is entirely specific, a diagnosis of cyclosporine-associated structural nephrotoxicity requires evidence of these findings.
+
+When considering the development of cyclosporine-associated nephropathy, it is noteworthy that several authors have reported an association between the appearance of interstitial fibrosis and higher cumulative doses or persistently high circulating trough concentrations of cyclosporine.
+This is particularly true during the first 6 post-transplant months when the dosage tends to be highest and when, in kidney recipients, the organ appears to be most vulnerable to the toxic effects of cyclosporine.
+Among other contributing factors to the development of interstitial fibrosis in these patients are prolonged perfusion time, warm ischemia time, as well as episodes of acute toxicity, and acute and chronic rejection.
+The reversibility of interstitial fibrosis and its correlation to renal function have not yet been determined.
+Reversibility of arteriolopathy has been reported after stopping cyclosporine or lowering the dosage.
+
+Impaired renal function at any time requires close monitoring, and frequent dosage adjustment may be indicated.
+
+In the event of severe and unremitting rejection, when rescue therapy with pulse steroids and monoclonal antibodies fail to reverse the rejection episode, it may be preferable to switch to alternative immunosuppressive therapy rather than increase the cyclosporine capsules (modified) dose to excessive blood concentrations.
+
+Due to the potential for additive or synergistic impairment of renal function, caution should be exercised when coadministering cyclosporine capsules (modified) with other drugs that may impair renal function.
+(See PRECAUTIONS, Drug Interactions)
+
+Thrombotic Microangiopathy
+
+Occasionally patients have developed a syndrome of thrombocytopenia and microangiopathic hemolytic anemia which may result in graft failure.
+The vasculopathy can occur in the absence of rejection and is accompanied by avid platelet consumption within the graft as demonstrated by Indium 111 labeled platelet studies.
+Neither the pathogenesis nor the management of this syndrome is clear.
+Though resolution has occurred after reduction or discontinuation of cyclosporine and 1) administration of streptokinase and heparin or 2) plasmapheresis, this appears to depend upon early detection with Indium 111 labeled platelet scans.
+(See ADVERSE REACTIONS)
+
+Hyperkalemia
+
+Significant hyperkalemia (sometimes associated with hyperchloremic metabolic acidosis) and hyperuricemia have been seen occasionally in individual patients.
+
+Hepatotoxicity
+
+Cases of hepatotoxicity and liver injury including cholestasis, jaundice, hepatitis, and liver failure have been reported in patients treated with cyclosporine.
+Most reports included patients with significant co- morbidities, underlying conditions and other confounding factors including infectious complications and comedications with hepatotoxic potential.
+In some cases, mainly in transplant patients, fatal outcomes have been reported.
+(See ADVERSE REACTIONS, Postmarketing Experience, Kidney, Liver and Heart Transplantation)
+
+Hepatotoxicity, usually manifested by elevations in hepatic enzymes and bilirubin, was reported in patients treated with cyclosporine in clinical trials: 4% in renal transplantation, 7% in cardiac transplantation, and 4% in liver transplantation.
+This was usually noted during the first month of therapy when high doses of cyclosporine were used.
+The chemistry elevations usually decreased with a reduction in dosage.
+
+Malignancies
+
+As in patients receiving other immunosuppressants, those patients receiving cyclosporine are at increased risk for development of lymphomas and other malignancies, particularly those of the skin.
+Patients taking cyclosporine should be warned to avoid excess ultraviolet light exposure.
+The increased risk appears related to the intensity and duration of immunosuppression rather than to the use of specific agents.
+Because of the danger of oversuppression of the immune system resulting in increased risk of infection or malignancy, a treatment regimen containing multiple immunosuppressants should be used with caution.
+Some malignancies may be fatal.
+Transplant patients receiving cyclosporine are at increased risk for serious infection with fatal outcome.
+
+## Serious Infections
+
+Patients receiving immunosuppressants, including cyclosporine capsules (modified), are at increased risk of developing bacterial, viral, fungal, and protozoal infections, including opportunistic infections.
+These infections may lead to serious, including fatal, outcomes.
+(See BOXED WARNING, and ADVERSE REACTIONS)
+
+Polyoma Virus Infections
+
+Patients receiving immunosuppressants, including cyclosporine capsules (modified), are at increased risk for opportunistic infections, including polyoma virus infections.
+Polyoma virus infections in transplant patients may have serious, and sometimes, fatal outcomes.
+These include cases of JC virus-associated progressive multifocal leukoencephalopathy (PML), and polyoma virus-associated nephropathy (PVAN), especially due to BK virus infection, which have been observed in patients receiving cyclosporine.
+PVAN is associated with serious outcomes, including deteriorating renal function and renal graft loss, (See ADVERSE REACTIONS, Postmarketing Experience, Kidney, Liver and Heart Transplantation).
+Patient monitoring may help detect patients at risk for PVAN.
+
+Cases of PML have been reported in patients treated with cyclosporine capsules (modified).
+PML, which is sometimes fatal, commonly presents with hemiparesis, apathy, confusion, cognitive deficiencies and ataxia.
+Risk factors for PML include treatment with immunosuppressant therapies and impairment of immune function.
+In immunosuppressed patients, physicians should consider PML in the differential diagnosis in patients reporting neurological symptoms and consultation with a neurologist should be considered as clinically indicated.
+
+Consideration should be given to reducing the total immunosuppression in transplant patients who develop PML or PVAN.
+However, reduced immunosuppression may place the graft at risk.
+
+Neurotoxicity
+
+There have been reports of convulsions in adult and pediatric patients receiving cyclosporine, particularly in combination with high dose methylprednisolone.
+
+Encephalopathy, including Posterior Reversible Encephalopathy Syndrome (PRES), has been described both in post-marketing reports and in the literature.
+Manifestations include impaired consciousness, convulsions, visual disturbances (including blindness), loss of motor function, movement disorders and psychiatric disturbances.
+In many cases, changes in the white matter have been detected using imaging techniques and pathologic specimens.
+Predisposing factors such as hypertension, hypomagnesemia, hypocholesterolemia, high-dose corticosteroids, high cyclosporine blood concentrations, and graft-versus­- host disease have been noted in many but not all of the reported cases.
+The changes in most cases have been reversible upon discontinuation of cyclosporine, and in some cases improvement was noted after reduction of dose.
+It appears that patients receiving liver transplant are more susceptible to encephalopathy than those receiving kidney transplant.
+Another rare manifestation of cyclosporine-­ induced neurotoxicity, occurring in transplant patients more frequently than in other indications, is optic disc edema including papilloedema, with possible visual impairment, secondary to benign intracranial hypertension.
+
+Care should be taken in using cyclosporine with nephrotoxic drugs.
+(See PRECAUTIONS)
+
+Rheumatoid Arthritis
+
+Cyclosporine nephropathy was detected in renal biopsies of 6 out of 60 (10%) rheumatoid arthritis patients after the average treatment duration of 19 months.
+Only one patient, out of these 6 patients, was treated with a dose ≤4 mg/kg/day.
+Serum creatinine improved in all but one patient after discontinuation of cyclosporine.
+The “maximal creatinine increase” appears to be a factor in predicting cyclosporine nephropathy.
+
+There is a potential, as with other immunosuppressive agents, for an increase in the occurrence of malignant lymphomas with cyclosporine.
+It is not clear whether the risk with cyclosporine is greater than that in rheumatoid arthritis patients or in rheumatoid arthritis patients on cytotoxic treatment for this indication.
+Five cases of lymphoma were detected: four in a survey of approximately 2,300 patients treated with cyclosporine for rheumatoid arthritis, and another case of lymphoma was reported in a clinical trial.
+Although other tumors (12 skin cancers, 24 solid tumors of diverse types, and 1 multiple myeloma) were also reported in this survey, epidemiologic analyses did not support a relationship to cyclosporine other than for malignant lymphomas.
+
+Patients should be thoroughly evaluated before and during cyclosporine capsules (modified) treatment for the development of malignancies.
+Moreover, use of cyclosporine capsules (modified) therapy with other immunosuppressive agents may induce an excessive immunosuppression which is known to increase the risk of malignancy.
+
+Psoriasis
+
+(See also BOXED WARNING for Psoriasis)
+
+Since cyclosporine is a potent immunosuppressive agent with a number of potentially serious side effects, the risks and benefits of using cyclosporine capsules (modified) should be considered before treatment of patients with psoriasis.
+Cyclosporine, the active ingredient in cyclosporine capsules (modified), can cause nephrotoxicity and hypertension (See PRECAUTIONS) and the risk increases with increasing dose and duration of therapy.
+Patients who may be at increased risk such as those with abnormal renal function, uncontrolled hypertension or malignancies, should not receive cyclosporine capsules (modified).
+
+Renal dysfunction is a potential consequence of cyclosporine capsules (modified) therefore renal function must be monitored during therapy.
+
+Patients receiving cyclosporine capsules (modified) require frequent monitoring of serum creatinine.
+(See Special Monitoring under DOSAGE AND ADMINISTRATION) Elderly patients should be monitored with particular care, since decreases in renal function also occur with age.
+If patients are not properly monitored and doses are not properly adjusted, cyclosporine therapy can cause structural kidney damage and persistent renal dysfunction.
+
+An increase in serum creatinine and BUN may occur during cyclosporine capsules (modified) therapy and reflects a reduction in the glomerular filtration rate.
+
+Kidney biopsies from 86 psoriasis patients treated for a mean duration of 23 months with 1.2 to 7.6 mg/kg/day of cyclosporine showed evidence of cyclosporine nephropathy in 18/86 (21%) of the patients.
+
+The pathology consisted of renal tubular atrophy and interstitial fibrosis.
+On repeat biopsy of 13 of these patients maintained on various dosages of cyclosporine for a mean of 2 additional years, the number with cyclosporine induced nephropathy rose to 26/86 (30%).
+The majority of patients (19/26) were on a dose of ≥5.0 mg/kg/day (the highest recommended dose is 4 mg/kg/day).
+The patients were also on cyclosporine for greater than 15 months (18/26) and/or had a clinically significant increase in serum creatinine for greater than 1 month (21/26).
+Creatinine levels returned to normal range in 7 of 11 patients in whom cyclosporine therapy was discontinued.
+
+There is an increased risk for the development of skin and lymphoproliferative malignancies in cyclosporine-treated psoriasis patients.
+The relative risk of malignancies is comparable to that observed in psoriasis patients treated with other immunosuppressive agents.
+
+Tumors were reported in 32 (2.2%) of 1439 psoriasis patients treated with cyclosporine worldwide from clinical trials.
+Additional tumors have been reported in 7 patients in cyclosporine postmarketing experience.
+Skin malignancies were reported in 16 (1.1%) of these patients; all but 2 of them had previously received PUVA therapy.
+Methotrexate was received by 7 patients.
+UVB and coal tar had been used by 2 and 3 patients, respectively.
+Seven patients had either a history of previous skin cancer or a potentially predisposing lesion was present prior to cyclosporine exposure.
+Of the 16 patients with skin cancer, 11 patients had 18 squamous cell carcinomas and 7 patients had 10 basal cell carcinomas.
+
+There were two lymphoproliferative malignancies; one case of non-Hodgkin’s lymphoma which required chemotherapy, and one case of mycosis fungoides which regressed spontaneously upon discontinuation of cyclosporine.
+There were four cases of benign lymphocytic infiltration: 3 regressed spontaneously upon discontinuation of cyclosporine, while the fourth regressed despite continuation of the drug.
+The remainder of the malignancies, 13 cases (0.9%), involved various organs.
+
+Patients should not be treated concurrently with cyclosporine and PUVA or UVB, other radiation therapy, or other immunosuppressive agents, because of the possibility of excessive immunosuppression and the subsequent risk of malignancies.
+(See CONTRAINDICATIONS) Patients should also be warned to protect themselves appropriately when in the sun, and to avoid excessive sun exposure.
+Patients should be thoroughly evaluated before and during treatment for the presence of malignancies remembering that malignant lesions may be hidden by psoriatic plaques.
+Skin lesions not typical of psoriasis should be biopsied before starting treatment.
+Patients should be treated with cyclosporine capsules (modified) only after complete resolution of suspicious lesions, and only if there are no other treatment options.
+(See Special Monitoring for Psoriasis Patients)
+
+# PRECAUTIONS
+
+## General
+
+## Hypertension
+
+Cyclosporine is the active ingredient of cyclosporine capsules (modified).
+Hypertension is a common side effect of cyclosporine therapy which may persist.
+(See ADVERSE REACTIONS and DOSAGE AND ADMINISTRATION for monitoring recommendations) Mild or moderate hypertension is encountered more frequently than severe hypertension and the incidence decreases over time.
+In recipients of kidney, liver, and heart allografts treated with cyclosporine, antihypertensive therapy may be required.
+(See Special Monitoring of Rheumatoid Arthritis and Psoriasis Patients) However, since cyclosporine may cause hyperkalemia, potassium-sparing diuretics should not be used.
+While calcium antagonists can be effective agents in treating cyclosporine-associated hypertension, they can interfere with cyclosporine metabolism.
+(See Drug Interactions)
+
+## Vaccination
+
+During treatment with cyclosporine, vaccination may be less effective; and the use of live attenuated vaccines should be avoided.
+
+Special Monitoring of Rheumatoid Arthritis Patients
+
+Before initiating treatment, a careful physical examination, including blood pressure measurements (on at least two occasions) and two creatinine levels to estimate baseline should be performed.
+Blood pressure and serum creatinine should be evaluated every 2 weeks during the initial 3 months and then monthly if the patient is stable.
+It is advisable to monitor serum creatinine and blood pressure always after an increase of the dose of nonsteroidal anti-inflammatory drugs (NSAIDs) and after initiation of new NSAID therapy during cyclosporine capsules (modified) treatment.
+If coadministered with methotrexate, CBC and liver function tests are recommended to be monitored monthly.
+(See also PRECAUTIONS, General, Hypertension)
+
+In patients who are receiving cyclosporine, the dose of cyclosporine capsules (modified) should be decreased by 25% to 50% if hypertension occurs.
+If hypertension persists, the dose of cyclosporine capsules (modified) should be further reduced or blood pressure should be controlled with antihypertensive agents.
+In most cases, blood pressure has returned to baseline when cyclosporine was discontinued.
+
+In placebo-controlled trials of rheumatoid arthritis patients, systolic hypertension (defined as an occurrence of two systolic blood pressure readings >140 mmHg) and diastolic hypertension (defined as two diastolic blood pressure readings >90 mmHg) occurred in 33% and 19% of patients treated with cyclosporine, respectively.
+The corresponding placebo rates were 22% and 8%.
+
+Special Monitoring for Psoriasis Patients
+
+Before initiating treatment, a careful dermatological and physical examination, including blood pressure measurements (on at least two occasions) should be performed.
+Since cyclosporine capsules (modified) is an immunosuppressive agent, patients should be evaluated for the presence of occult infection on their first physical examination and for the presence of tumors initially, and throughout treatment with cyclosporine capsules (modified).
+Skin lesions not typical for psoriasis should be biopsied before starting cyclosporine capsules (modified).
+Patients with malignant or premalignant changes of the skin should be treated with cyclosporine capsules (modified) only after appropriate treatment of such lesions and if no other treatment option exists.
+
+Baseline laboratories should include serum creatinine (on two occasions), BUN, CBC, serum magnesium, potassium, uric acid, and lipids.
+
+The risk of cyclosporine nephropathy is reduced when the starting dose is low (2.5 mg/kg/day), the maximum dose does not exceed 4.0 mg/kg/day, serum creatinine is monitored regularly while cyclosporine is administered, and the dose of cyclosporine capsules (modified) is decreased when the rise in creatinine is greater than or equal to 25% above the patient’s pretreatment level.
+The increase in creatinine is generally reversible upon timely decrease of the dose of cyclosporine capsules (modified) or its discontinuation.
+
+Serum creatinine and BUN should be evaluated every 2 weeks during the initial 3 months of therapy and then monthly if the patient is stable.
+If the serum creatinine is greater than or equal to 25% above the patient’s pretreatment level, serum creatinine should be repeated within two weeks.
+If the change in serum creatinine remains greater than or equal to 25% above baseline, cyclosporine capsules (modified) should be reduced by 25% to 50%.
+If at any time the serum creatinine increases by greater than or equal to 50% above pretreatment level, cyclosporine capsules (modified) should be reduced by 25% to 50%.
+Cyclosporine should be discontinued if reversibility (within 25% of baseline) of serum creatinine is not achievable after two dosage modifications.
+It is advisable to monitor serum creatinine after an increase of the dose of nonsteroidal anti-inflammatory drug and after initiation of new nonsteroidal anti-inflammatory therapy during cyclosporine capsules (modified) treatment.
+
+Blood pressure should be evaluated every 2 weeks during the initial 3 months of therapy and then monthly if the patient is stable, or more frequently when dosage adjustments are made.
+Patients without a history of previous hypertension before initiation of treatment with cyclosporine capsules (modified), should have the drug reduced by 25% to 50% if found to have sustained hypertension.
+If the patient continues to be hypertensive despite multiple reductions of cyclosporine capsules (modified), then cyclosporine capsules (modified) should be discontinued.
+For patients with treated hypertension, before the initiation of cyclosporine capsules (modified) therapy, their medication should be adjusted to control hypertension while on cyclosporine capsules (modified).
+Cyclosporine capsules (modified) should be discontinued if a change in hypertension management is not effective or tolerable.
+
+CBC, uric acid, potassium, lipids, and magnesium should also be monitored every 2 weeks for the first 3 months of therapy, and then monthly if the patient is stable or more frequently when dosage adjustments are made.
+Cyclosporine capsules (modified) dosage should be reduced by 25% to 50% for any abnormality of clinical concern.
+
+In controlled trials of cyclosporine in psoriasis patients, cyclosporine blood concentrations did not correlate well with either improvement or with side effects such as renal dysfunction.
+
+Information for Patients: Patients should be advised that any change of cyclosporine formulation should be made cautiously and only under physician supervision because it may result in the need for a change in dosage.
+
+Patients should be informed of the necessity of repeated laboratory tests while they are receiving cyclosporine.
+Patients should be advised of the potential risks during pregnancy and informed of the increased risk of neoplasia.
+Patients should also be informed of the risk of hypertension and renal dysfunction.
+
+Patients should be advised that during treatment with cyclosporine, vaccination may be less effective and the use of live attenuated vaccines should be avoided.
+
+Patients should be given careful dosage instructions.
+
+Patients should be advised to take cyclosporine capsules (modified) on a consistent schedule with regard to time of day and relation to meals.
+Grapefruit and grapefruit juice affect metabolism, increasing blood concentration of cyclosporine, thus should be avoided.
+
+## Laboratory Tests
+
+In all patients treated with cyclosporine, renal and liver functions should be assessed repeatedly by measurement of serum creatinine, BUN, serum bilirubin, and liver enzymes.
+Serum lipids, magnesium, and potassium should also be monitored.
+Cyclosporine blood concentrations should be routinely monitored in transplant patients (See DOSAGE AND ADMINISTRATION, Blood Concentration Monitoring in Transplant Patients), and periodically monitored in rheumatoid arthritis patients.
+
+## Drug Interactions
+
+A. Effect of Drugs and Other Agents on Cyclosporine Pharmacokinetics and/or Safety
+
+All of the individual drugs cited below are well substantiated to interact with cyclosporine.
+In addition, concomitant use of NSAIDs with cyclosporine, particularly in the setting of dehydration, may potentiate renal dysfunction.
+Caution should be exercised when using other drugs which are known to impair renal function.
+(See WARNINGS, Nephrotoxicity)
+
+### Drugs That May Potentiate Renal Dysfunction
+
+| Antibiotics | Antineoplastics | Antifungals | Anti- Inflammatory Drugs | Gastrointestinal Agents | Immunosuppressives | Other Drugs |
+| --- | --- | --- | --- | --- | --- | --- |
+| ciprofloxacin gentamicintobramycin vancomycin trimethoprim with sulfamethoxazole | melphalan | amphotericin Bketoconazole | azapropazoncolchicinediclofenacnaproxen sulindac | cimetidine ranitidine | tacrolimus | fibric acid derivatives (e.g., bezafibrate, fenofibrate) methotrexate |
+
+During the concomitant use of a drug that may exhibit additive or synergistic renal impairment with cyclosporine, close monitoring of renal function (in particular serum creatinine) should be performed.
+If a significant impairment of renal function occurs, the dosage of the coadministered drug should be reduced or an alternative treatment considered.
+
+Cyclosporine is extensively metabolized by CYP 3A isoenzymes, in particular CYP3A4, and is a substrate of the multidrug efflux transporter P-glycoprotein.
+Various agents are known to either increase or decrease plasma or whole blood concentrations of cyclosporine usually by inhibition or induction of CYP3A4 or P-glycoprotein transporter or both.
+Compounds that decrease cyclosporine absorption such as orlistat should be avoided.
+Appropriate cyclosporine capsules (modified) dosage adjustment to achieve the desired cyclosporine concentrations is essential when drugs that significantly alter cyclosporine concentrations are used concomitantly.
+(See Blood Concentration Monitoring)
+
+### 1. Drugs That Increase Cyclosporine Concentrations
+
+| Calcium Channel Blockers | Antifungals | Antibiotics | Glucocorticoids | Other Drugs |
+| --- | --- | --- | --- | --- |
+| diltiazem | fluconazole | azithromycin | methylprednisolone | allopurinol |
+| nicardipine | itraconazole | clarithromycin |  | amiodarone |
+| verapamil | ketoconazole | erythromycin |  | bromocriptine |
+|  | voriconazole | quinupristin/ |  | colchicine |
+|  |  | dalfopristin |  | danazol |
+|  |  |  |  | imatinib |
+|  |  |  |  | metoclopramide |
+|  |  |  |  | nefazodone |
+|  |  |  |  | oral contraceptives |
+
+HIV Protease inhibitors
+
+The HIV protease inhibitors (e.g., indinavir, nelfinavir, ritonavir, and saquinavir) are known to inhibit cytochrome P-450 3A and thus could potentially increase the concentrations of cyclosporine, however no formal studies of the interaction are available.
+Care should be exercised when these drugs are administered concomitantly.
+
+Grapefruit juice
+
+Grapefruit and grapefruit juice affect metabolism, increasing blood concentrations of cyclosporine, thus should be avoided.
+
+### 2. Drugs/Dietary Supplements That Decrease Cyclosporine Concentrations
+
+| Antibiotics | Anticonvulsants | Other Drugs/DietarySupplements |  |
+| --- | --- | --- | --- |
+| nafcillin | carbamazepine | bosentan | St. John’s Wort |
+| rifampin | oxcarbazepine | octreotide |  |
+|  | phenobarbital | orlistat |  |
+|  | phenytoin | sulfinpyrazone |  |
+|  |  | terbinafine |  |
+|  |  | ticlopidine |  |
+
+Bosentan
+
+Coadministration of bosentan (250 to 1000 mg every 12 hours based on tolerability) and cyclosporine (300 mg every 12 hours for 2 days then dosing to achieve a Cmin of 200 to 250 ng/mL) for 7 days in healthy subjects resulted in decreases in the cyclosporine mean dose-normalized AUC, Cmax, and trough concentration of approximately 50%, 30%, and 60%, respectively, compared to when cyclosporine was given alone (See also Effect of Cyclosporine on the Pharmacokinetics and/or Safety of Other Drugs or Agents).
+Coadministration of cyclosporine with bosentan should be avoided.
+
+Boceprevir
+
+Coadministration of boceprevir (800 mg three times daily for 7 days) and cyclosporine (100 mg single dose) in healthy subjects resulted in increases in the mean AUC and Cmax of cyclosporine approximately 2.7-fold and 2-fold, respectively, compared to when cyclosporine was given alone.
+
+Telaprevir
+
+Coadministration of telaprevir (750 mg every 8 hours for 11 days) with cyclosporine (10 mg on day 8) in healthy subjects resulted in increases in the mean dose-normalized AUC and Cmax of cyclosporine approximately 4.5-fold and 1.3-fold, respectively, compared to when cyclosporine (100 mg single dose) was given alone.
+
+St. John’s Wort
+
+There have been reports of a serious drug interaction between cyclosporine and the herbal dietary supplement St. John’s Wort.
+This interaction has been reported to produce a marked reduction in the blood concentrations of cyclosporine, resulting in subtherapeutic levels, rejection of transplanted organs, and graft loss.
+
+Rifabutin
+
+Rifabutin is known to increase the metabolism of other drugs metabolized by the cytochrome P-450 system.
+The interaction between rifabutin and cyclosporine has not been studied.
+Care should be exercised when these two drugs are administered concomitantly.
+
+### B. Effect of Cyclosporine on the Pharmacokinetics and/or Safety of Other Drugs or Agents
+
+Cyclosporine is an inhibitor of CYP3A4 and of multiple drug efflux transporters (e.g., P-glycoprotein) and may increase plasma concentrations of comedications that are substrates of CYP3A4, P-glycoprotein or organic anion transporter proteins.
+
+Cyclosporine may reduce the clearance of digoxin, colchicine, prednisolone, HMG-CoA reductase inhibitors (statins), and, aliskiren, bosentan, dabigatran, repaglinide, NSAIDs, sirolimus, etoposide, and other drugs.
+
+See the full prescribing information of the other drug for further information and specific recommendations.
+The decision on coadministration of cyclosporine with other drugs or agents should be made by the healthcare provider following the careful assessment of benefits and risks.
+
+#### Digoxin
+
+Severe digitalis toxicity has been seen within days of starting cyclosporine in several patients taking digoxin.
+If digoxin is used concurrently with cyclosporine, serum digoxin concentrations should be monitored.
+
+#### Colchicine
+
+There are reports on the potential of cyclosporine to enhance the toxic effects of colchicine such as myopathy and neuropathy, especially in patients with renal dysfunction.
+Concomitant administration of cyclosporine and colchicine results in significant increases in colchicine plasma concentrations.
+If colchicine is used concurrently with cyclosporine, a reduction in the dosage of colchicine is recommended.
+
+#### HMG-CoA reductase inhibitors (statins)
+
+Literature and postmarketing cases of myotoxicity, including muscle pain and weakness, myositis, and rhabdomyolysis, have been reported with concomitant administration of cyclosporine with lovastatin, simvastatin, atorvastatin, pravastatin, and, rarely fluvastatin.
+When concurrently administered with cyclosporine, the dosage of these statins should be reduced according to label recommendations.
+Statin therapy needs to be temporarily withheld or discontinued in patients with signs and symptoms of myopathy or those with risk factors predisposing to severe renal injury, including renal failure, secondary to rhabdomyolysis.
+
+#### Repaglinide
+
+Cyclosporine may increase the plasma concentrations of repaglinide and thereby increase the risk of hypoglycemia.
+In 12 healthy male subjects who received two doses of 100 mg cyclosporine capsule orally 12 hours apart with a single dose of 0.25 mg repaglinide tablet (one-half of a 0.5 mg tablet) orally 13 hours after the cyclosporine initial dose, the repaglinide mean Cmax and AUC were increased 1.8 fold (range: 0.6 to -3.7 fold) and 2.4 fold (range 1.2 to 5.3 fold), respectively.
+Close monitoring of blood glucose level is advisable for a patient taking cyclosporine and repaglinide concomitantly.
+
+#### Ambrisentan
+
+Coadministration of ambrisentan (5 mg daily) and cyclosporine (100 to 150 mg twice daily initially, then dosing to achieve Cmin 150 to 200 ng/mL) for 8 days in healthy subjects resulted in mean increases in ambrisentan AUC and Cmax of approximately 2 fold and 1.5 fold, respectively, compared to ambrisentan alone.
+When coadministering ambrisentan with cyclosporine, the ambrisentan dose should not be titrated to the recommended maximum daily dose.
+
+#### Anthracycline antibiotics
+
+High doses of cyclosporine (e.g., at starting intravenous dose of 16 mg/kg/day) may increase the exposure to anthracycline antibiotics (e.g., doxorubicin, mitoxantrone, daunorubicin) in cancer patients.
+
+#### Aliskiren
+
+Cyclosporine alters the pharmacokinetics of aliskiren, a substrate of P-glycoprotein and CYP3A4.
+In 14 healthy subjects who received concomitantly single doses of cyclosporine (200 mg) and reduced dose aliskiren (75 mg), the mean Cmax of aliskiren was increased by approximately 2.5-fold (90% CI: 1.96 to 3.17) and the mean AUC by approximately 4.3 fold (90% CI: 3.52 to 5.21), compared to when these subjects received aliskiren alone.
+The concomitant administration of aliskiren with cyclosporine prolonged the median aliskiren elimination half-life (26 hours versus 43 to 45 hours) and the Tmax (0.5 hours versus 1.5 to 2 hours).
+The mean AUC and Cmax of cyclosporine were comparable to reported literature values.
+Coadministration of cyclosporine and aliskiren in these subjects also resulted in an increase in the number and/or intensity of adverse events, mainly headache, hot flush, nausea, vomiting, and somnolence.
+The coadministration of cyclosporine with aliskiren is not recommended.
+
+#### Bosentan
+
+In healthy subjects, coadministration of bosentan and cyclosporine resulted in time-dependent mean increases in dose-normalized bosentan trough concentrations (i.e., approximately 21-fold on day 1 and 2- fold on day 8 (steady state)) compared to when bosentan was given alone as a single dose on day 1.
+(See also Effect of Drugs and Other Agents on Cyclosporine Pharmacokinetics and/or Safety)
+
+Coadministration of cyclosporine with bosentan should be avoided.
+
+#### Dabigatran
+
+The effect of cyclosporine on dabigatran concentrations had not been formally studied.
+Concomitant administration of dabigatran and cyclosporine may result in increased plasma dabigatran concentrations due to the P-gp inhibitory activity of cyclosporine.
+Coadministration of cyclosporine with dabigatran should be avoided.
+
+#### Potassium-Sparing Diuretics
+
+Cyclosporine should not be used with potassium-sparing diuretics because hyperkalemia can occur.
+Caution is also required when cyclosporine is coadministered with potassium sparing drugs (e.g., angiotensin converting enzyme inhibitors, angiotensin II receptor antagonists), potassium-containing drugs as well as in patients on a potassium rich diet.
+Control of potassium levels in these situations is advisable.
+
+### Nonsteroidal Anti-inflammatory Drug (NSAID) Interactions
+
+Clinical status and serum creatinine should be closely monitored when cyclosporine is used with NSAIDs in rheumatoid arthritis patients.
+(See WARNINGS)
+
+Pharmacodynamic interactions have been reported to occur between cyclosporine and both naproxen and sulindac, in that concomitant use is associated with additive decreases in renal function, as determined by 99mTc-diethylenetriaminepentaacetic acid (DTPA) and (p-aminohippuric acid) PAH clearances.
+Although concomitant administration of diclofenac does not affect blood concentrations of cyclosporine, it has been associated with approximate doubling of diclofenac blood concentrations and occasional reports of reversible decreases in renal function.
+Consequently, the dose of diclofenac should be in the lower end of the therapeutic range.
+
+### Methotrexate Interaction
+
+Preliminary data indicate that when methotrexate and cyclosporine were coadministered to rheumatoid arthritis patients (N=20), methotrexate concentrations (AUCs) were increased approximately 30% and the concentrations (AUCs) of its metabolite, 7-hydroxy methotrexate, were decreased by approximately 80%.
+The clinical significance of this interaction is not known.
+Cyclosporine concentrations do not appear to have been altered (N=6).
+
+### Sirolimus
+
+Elevations in serum creatinine were observed in studies using sirolimus in combination with full-dose cyclosporine.
+This effect is often reversible with cyclosporine dose reduction.
+Simultaneous coadministration of cyclosporine significantly increases blood levels of sirolimus.
+To minimize increases in sirolimus concentrations, it is recommended that sirolimus be given 4 hours after cyclosporine administration.
+
+### Nifedipine
+
+Frequent gingival hyperplasia when nifedipine is given concurrently with cyclosporine has been reported.
+The concomitant use of nifedipine should be avoided in patients in whom gingival hyperplasia develops as a side effect of cyclosporine.
+
+### Methylprednisolone
+
+Convulsions when high dose methylprednisolone is given concurrently with cyclosporine have been reported.
+
+### Other Immunosuppressive Drugs and Agents
+
+Psoriasis patients receiving other immunosuppressive agents or radiation therapy (including PUVA and UVB) should not receive concurrent cyclosporine because of the possibility of excessive immunosuppression.
+
+### C. Effect of Cyclosporine on the Efficacy of Live Vaccines
+
+During treatment with cyclosporine, vaccination may be less effective.
+The use of live vaccines should be avoided.
+
+For additional information on Cyclosporine Drug Interactions please contact Apotex Corp. at 1-800-706-5575.
+
+## Carcinogenesis, Mutagenesis, and Impairment of Fertility
+
+Carcinogenicity studies were carried out in male and female rats and mice.
+In the 78 week mouse study, evidence of a statistically significant trend was found for lymphocytic lymphomas in females, and the incidence of hepatocellular carcinomas in mid-dose males significantly exceeded the control value.
+In the 24 month rat study, pancreatic islet cell adenomas significantly exceeded the control rate in the low dose level.
+Doses used in the mouse and rat studies were 0.01 to 0.16 times the clinical maintenance dose (6 mg/kg).
+The hepatocellular carcinomas and pancreatic islet cell adenomas were not dose related.
+
+Published reports indicate that co-treatment of hairless mice with UV irradiation and cyclosporine or other immunosuppressive agents shorten the time to skin tumor formation compared to UV irradiation alone.
+
+Cyclosporine was not mutagenic in appropriate test systems.
+Cyclosporine has not been found to be mutagenic/genotoxic in the Ames Test, the V79-HGPRT Test, the micronucleus test in mice and Chinese hamsters, the chromosome-aberration tests in Chinese hamster bone-marrow, the mouse dominant lethal assay, and the DNA-repair test in sperm from treated mice.
+A recent study analyzing sister chromatid exchange (SCE) induction by cyclosporine using human lymphocytes in vitro gave indication of a positive effect (i.e., induction of SCE), at high concentrations in this system.
+In two published research studies, rabbits exposed to cyclosporine in utero (10 mg/kg/day subcutaneously) demonstrated reduced numbers of nephrons, renal hypertrophy, systemic hypertension and progressive renal insufficiency up to 35 weeks of age.
+Pregnant rats which received 12 mg/kg/day of cyclosporine intravenously (twice the recommended human intravenous dose) had fetuses with an increased incidence of ventricular septal defect.
+These findings have not been demonstrated in other species and their relevance for humans is unknown.
+
+No impairment in fertility was demonstrated in studies in male and female rats.
+
+Widely distributed papillomatosis of the skin was observed after chronic treatment of dogs with cyclosporine at 9 times the human initial psoriasis treatment dose of 2.5 mg/kg, where doses are expressed on a body surface area basis.
+This papillomatosis showed a spontaneous regression upon discontinuation of cyclosporine.
+
+An increased incidence of malignancy is a recognized complication of immunosuppression in recipients of organ transplants and patients with rheumatoid arthritis and psoriasis.
+The most common forms of neoplasms are non-Hodgkin’s lymphoma and carcinomas of the skin.
+The risk of malignancies in cyclosporine recipients is higher than in the normal, healthy population but similar to that in patients receiving other immunosuppressive therapies.
+Reduction or discontinuance of immunosuppression may cause the lesions to regress.
+
+In psoriasis patients on cyclosporine, development of malignancies, especially those of the skin has been reported.
+(See WARNINGS) Skin lesions not typical for psoriasis should be biopsied before starting cyclosporine treatment.
+Patients with malignant or premalignant changes of the skin should be treated with cyclosporine only after appropriate treatment of such lesions and if no other treatment option exists.
+
+## Pregnancy
+
+### Pregnancy Category C
+
+Animal studies have shown reproductive toxicity in rats and rabbits.
+Cyclosporine gave no evidence of mutagenic or teratogenic effects in the standard test systems with oral application (rats up to 17 mg/kg and rabbits up to 30 mg/kg per day orally.)
+Only at dose levels toxic to dams, were adverse effects seen in reproduction studies in rats.
+Cyclosporine has been shown to be embryo- and fetotoxic in rats and rabbits following oral administration at maternally toxic doses.
+Fetal toxicity was noted in rats at 0.8 and rabbits at 5.4 times the transplant doses in humans of 6.0 mg/kg, where dose corrections are based on body surface area.
+Cyclosporine was embryo- and fetotoxic as indicated by increased pre- and postnatal mortality and reduced fetal weight together with related skeletal retardation.
+
+There are no adequate and well-controlled studies in pregnant women therefore, cyclosporine capsules (modified) should not be used during pregnancy unless the potential benefit to the mother justifies the potential risk to the fetus.
+
+In pregnant transplant recipients who are being treated with immunosuppressants the risk of premature birth is increased.
+The following data represent the reported outcomes of 116 pregnancies in women receiving cyclosporine during pregnancy, 90% of whom were transplant patients, and most of whom received cyclosporine throughout the entire gestational period.
+The only consistent patterns of abnormality were premature birth (gestational period of 28 to 36 weeks) and low birth weight for gestational age.
+Sixteen fetal losses occurred.
+Most of the pregnancies (85 of 100) were complicated by disorders; including, preeclampsia, eclampsia, premature labor, abruptio placentae, oligohydramnios, Rh incompatibility, and fetoplacental dysfunction.
+Pre-term delivery occurred in 47%.
+Seven malformations were reported in 5 viable infants and in 2 cases of fetal loss.
+Twenty-eight percent of the infants were small for gestational age.
+Neonatal complications occurred in 27%.
+Therefore, the risks and benefits of using cyclosporine capsules (modified) during pregnancy should be carefully weighed.
+
+A limited number of observations in children exposed to cyclosporine in utero are available, up to an age of approximately 7 years.
+Renal function and blood pressure in these children were normal.
+
+Because of the possible disruption of maternal-fetal interaction, the risk/benefit ratio of using cyclosporine capsules (modified) in psoriasis patients during pregnancy should carefully be weighed with serious consideration for discontinuation of cyclosporine capsules (modified).
+
+## Nursing Mothers
+
+Cyclosporine is present in breast milk.
+Because of the potential for serious adverse drug reactions in nursing infants from cyclosporine capsules (modified), a decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother.
+
+## Pediatric Use
+
+Although no adequate and well-controlled studies have been completed in children, transplant recipients as young as one year of age have received cyclosporine capsules (modified) with no unusual adverse effects.
+The safety and efficacy of cyclosporine capsules (modified) treatment in children with juvenile rheumatoid arthritis or psoriasis below the age of 18 have not been established.
+
+## Geriatric Use
+
+In rheumatoid arthritis clinical trials with cyclosporine, 17.5% of patients were age 65 or older.
+These patients were more likely to develop systolic hypertension on therapy, and more likely to show serum creatinine rises ≥50% above the baseline after 3 to 4 months of therapy.
+
+Clinical studies of cyclosporine capsules (modified) in transplant and psoriasis patients did not include a sufficient number of subjects aged 65 and over to determine whether they respond differently from younger subjects.
+Other reported clinical experiences have not identified differences in response between the elderly and younger patients.
+In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy.

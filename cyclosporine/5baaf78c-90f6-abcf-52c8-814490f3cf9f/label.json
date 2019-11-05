@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "ANDA210721"
+  ],
+  "inn": "cyclosporine",
+  "labeler": "Apotex Corp.",
+  "package_ndcs": [
+    "60505-4630-3",
+    "60505-4631-3",
+    "60505-4632-3"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE, LIQUID FILLED",
+      "generic": "cyclosporine",
+      "name": "CycloSPORINE, Modfied"
+    }
+  ],
+  "setid": "5baaf78c-90f6-abcf-52c8-814490f3cf9f",
+  "source": "dailymed"
+}
