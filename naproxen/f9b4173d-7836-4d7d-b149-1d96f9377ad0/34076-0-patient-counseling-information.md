@@ -1,11 +1,11 @@
 # 17 PATIENT COUNSELING INFORMATION
 
 Advise the patient and caregiver to read the FDA-approved patient labeling (Medication Guide) that accompanies each prescription dispensed.
-Patients, families, or their caregivers should be informed of the following information before initiating therapy with NAPROSYN Suspension and periodically during the course of ongoing therapy.
+Inform patients, families, or their caregivers should be informed of the following information before initiating therapy with NAPROSYN Suspension and periodically during the course of ongoing therapy.
 
 Cardiovascular Thrombotic Events
 
-Advise patients to be alert for the symptoms of cardiovascular thrombotic events, including chest pain, shortness of breath, weakness, or slurring of speech, and to report any of these symptoms to their health care provider immediately [see Warnings and Precautions (5.1)].
+Advise patients to be alert for the symptoms of cardiovascular thrombotic events, including chest pain, shortness of breath, weakness, or slurring of speech, and to report any of these symptoms to their health care provider immediately [see Warnings and Precautions (5.1 Cardiovascular Thrombotic Events)].
 
 Gastrointestinal Bleeding, Ulceration, and Perforation
 
@@ -15,11 +15,11 @@ In the setting of concomitant use of low-dose aspirin for cardiac prophylaxis, i
 Hepatotoxicity
 
 Inform patients of the warning signs and symptoms of hepatotoxicity (e.g., nausea, fatigue, lethargy, pruritus, diarrhea, jaundice, right upper quadrant tenderness, and “flu-like” symptoms).
-If these occur, instruct patients to stop NAPROSYN Suspension and seek immediate medical therapy [see Warnings and Precautions (5.3)].
+If these occur, instruct patients to stop NAPROSYN Suspension and seek immediate medical therapy [see Warnings and Precautions (5.3 Hepatotoxicity)].
 
 Heart Failure and Edema
 
-Advise patients to be alert for the symptoms of congestive heart failure including shortness of breath, unexplained weight gain, or edema and to contact their healthcare provider if such symptoms occur [see Warnings and Precautions (5.5)].
+Advise patients to be alert for the symptoms of congestive heart failure including shortness of breath, unexplained weight gain, or edema and to contact their healthcare provider if such symptoms occur [see Warnings and Precautions (5.5 Heart Failure and Edema)].
 
 Anaphylactic Reactions
 
@@ -53,16 +53,6 @@ Instruct patients on how to measure and take the correct dose of NAPROSYN Suspen
 
 If the prescribed concentration is changed, instruct patients on how to correctly measure the new dose to avoid errors.
 
-Made in Canada
+Manufactured For: Atnahs Pharma US Limited, Miles Gray Road, Basildon, Essex, SS14 3FR, United Kingdom
 
-Manufactured for:
-
-Atnahs Pharma US Limited, Miles Gray Road, Basildon, Essex, SS14 3FR, United Kingdom
-
-Distributed by:
-
-Athena Bioscience, LLC, Athens, GA 30601, United States
-
-©Athena Bioscience, LLC. | All Rights Reserved.
-Naprosyn® is a registered trademark of Atnahs Pharma US Limited.
-For More Information, go to www.athenabioscience.com or call 1-833-284-3622.
+Distributed by: Athena Bioscience, LLC, Athens, GA 30601, United States

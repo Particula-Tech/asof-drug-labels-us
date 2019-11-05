@@ -20,10 +20,8 @@ The recommended dosage of NAPROSYN suspension is shown in Table 1.
 
 Table 1: Recommended dosages of NAPROSYN Suspension
 
-| NAPROSYN Suspension | 250 mg (10 mL) | twice daily |
+| NAPROSYN Suspension | 250 mg (10 mL) or 375 mg (15 mL) or 500 mg (20 mL) | twice daily twice daily twice daily |
 | --- | --- | --- |
-| or 375 mg (15 mL) | twice daily |  |
-| or 500 mg (20 mL) | twice daily |  |
 
 NAPROSYN Suspension should be shaken gently before use.
 
@@ -39,7 +37,7 @@ When treating such patients with naproxen 1500 mg/day, the physician should obse
 ## 2.3 Polyarticular Juvenile Idiopathic Arthritis
 
 The use of NAPROSYN Suspension is recommended for juvenile arthritis in children 2 years or older because it allows for more flexible dose titration based on the child’s weight.
-In pediatric patients, doses of 5 mg/kg/day produced plasma levels of naproxen similar to those seen in adults taking 500 mg of naproxen [see Clinical Pharmacology (12.3)].
+In pediatric patients, doses of 5 mg/kg/day produced plasma levels of naproxen similar to those seen in adults taking 500 mg of naproxen [see Clinical Pharmacology (12.3)]
 
 The recommended total daily dose of naproxen is approximately 10 mg/kg given in 2 divided doses (i.e., 5 mg/kg given twice a day).
 A measuring cup marked in 1/2 teaspoon and 2.5 milliliter increments is provided with the NAPROSYN Suspension.

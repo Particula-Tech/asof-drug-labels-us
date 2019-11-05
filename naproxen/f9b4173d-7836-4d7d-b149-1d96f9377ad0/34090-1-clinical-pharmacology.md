@@ -12,6 +12,16 @@ Prostaglandins sensitize afferent nerves and potentiate the action of bradykinin
 Prostaglandins are mediators of inflammation.
 Because naproxen is an inhibitor of prostaglandin synthesis, its mode of action may be due to a decrease of prostaglandins in peripheral tissues.
 
+## 12.2 Pharmacodynamics
+
+In a healthy volunteer study, 10 days of concomitant administration of naproxen 220 mg once-daily with low-dose immediate-release aspirin (81 mg) showed an interaction with the antiplatelet activity of aspirin as measured by % serum thromboxane B2 inhibition at 24 hours following the day 10 dose [98.7% (aspirin alone) vs 93.1% (naproxen and aspirin)].
+The interaction was observed even following discontinuation of naproxen on day 11 (while aspirin dose was continued) but normalized by day 13.
+In the same study, the interaction was greater when naproxen was administered 30 minutes prior to aspirin [98.7% vs 87.7%] and minimal when aspirin was administered 30 minutes prior to naproxen [98.7% vs 95.4%].
+
+Following administration of naproxen 220 mg twice-daily with low-dose immediate release aspirin (first naproxen dose given 30 minutes prior to aspirin), the interaction was minimal at 24 h following day 10 dose [98.7% vs 95.7%].
+However, the interaction was more prominent after discontinuation of naproxen (washout) on day 11 [98.7% vs 84.3%] and did not normalize completely by day 13 [98.5% vs 90.7%].
+[see Drug Interactions (7)].
+
 ## 12.3 Pharmacokinetics
 
 Naproxen is rapidly and completely absorbed from the gastrointestinal tract with an in vivo bioavailability of 95%.
@@ -21,12 +31,10 @@ Steady-state levels of naproxen are reached in 4 to 5 days, and the degree of na
 Absorption
 
 Peak plasma levels of naproxen given as NAPROSYN Suspension are attained in 1 to 4 hours.
-
 When NAPROSYN Suspension and immediate release naproxen tablets were given to fasted subjects (n=12) in a single-dose, crossover study, there were comparable pharmacokinetic parameters between the two formulations.
 
-|  | NAPROSYN | Naproxen Tablets |
+|  | NAPROSYN Suspension | Naproxen Tablets 500 mg |
 | --- | --- | --- |
-| Suspension | 500 mg |  |
 | Cmax (µg/mL) | 64.3 | 71.1 |
 | Tmax (hours) | 2.6 | 2.3 |
 | T1/2 (hours) | 16.8 | 16.3 |
@@ -35,7 +43,7 @@ When NAPROSYN Suspension and immediate release naproxen tablets were given to fa
 Distribution
 
 Naproxen has a volume of distribution of 0.16 L/kg.
-At therapeutic levels naproxen is greater than 99% albumin- bound.
+At therapeutic levels naproxen is greater than 99% albumin-bound.
 At doses of naproxen greater than 500 mg/day there is less than proportional increase in plasma levels due to an increase in clearance caused by saturation of plasma protein binding at higher doses (average trough Css 36.5, 49.2 and 56.4 mg/L with 500, 1000 and 1500 mg daily doses of naproxen, respectively).
 The naproxen anion has been found in the milk of lactating women at a concentration equivalent to approximately 1% of maximum naproxen concentration in plasma (see PRECAUTIONS; Nursing Mothers).
 
@@ -61,7 +69,6 @@ Pediatric
 
 In pediatric patients aged 5 to 16 years with arthritis, plasma naproxen levels following a 5 mg/kg single dose of naproxen suspension [see Dosage and Administration (2)] were found to be similar to those found in normal adults following a 500 mg dose.
 The terminal half-life appears to be similar in pediatric and adult patients.
-
 Pharmacokinetic studies of naproxen were not performed in pediatric patients younger than 5 years of age.
 Pharmacokinetic parameters appear to be similar following administration of NAPROSYN suspension or tablets in pediatric patients.
 
@@ -84,8 +91,6 @@ Elimination of naproxen is decreased in patients with severe renal impairment.
 
 Drug Interaction Studies
 
-Aspirin
-
-When NSAIDs were administered with aspirin, the protein binding of NSAIDs were reduced, although the clearance of free NSAID was not altered.
+Aspirin When NSAIDs were administered with aspirin, the protein binding of NSAIDs were reduced, although the clearance of free NSAID was not altered.
 The clinical significance of this interaction is not known.
 See Table 2 for clinically significant drug interactions of NSAIDs with aspirin [see Drug Interactions (7)].

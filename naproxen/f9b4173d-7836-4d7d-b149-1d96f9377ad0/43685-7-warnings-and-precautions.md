@@ -14,16 +14,12 @@ Physicians and patients should remain alert for the development of such events, 
 Patients should be informed about the symptoms of serious CV events and the steps to take if they occur.
 
 There is no consistent evidence that concurrent use of aspirin mitigates the increased risk of serious CV thrombotic events associated with NSAID use.
-The concurrent use of aspirin and an NSAID, such as naproxen, increases the risk of serious gastrointestinal (GI) events [see Warnings and Precautions (5.2)].
+The concurrent use of aspirin and an NSAID, such as naproxen, increases the risk of serious gastrointestinal (GI) events [see Warnings and Precautions (5.2)]
 
-Status Post Coronary Artery Bypass Graft (CABG) Surgery
+Status Post Coronary Artery Bypass Graft (CABG) Surgery Two large, controlled clinical trials of a COX-2 selective NSAID for the treatment of pain in the first 10–14 days following CABG surgery found an increased incidence of myocardial infarction and stroke.
+NSAIDs are contraindicated in the setting of CABG [see Contraindications (4)]
 
-Two large, controlled clinical trials of a COX-2 selective NSAID for the treatment of pain in the first 10–14 days following CABG surgery found an increased incidence of myocardial infarction and stroke.
-NSAIDs are contraindicated in the setting of CABG [see Contraindications (4)].
-
-Post-MI Patients
-
-Observational studies conducted in the Danish National Registry have demonstrated that patients treated with NSAIDs in the post-MI period were at increased risk of reinfarction, CV-related death, and all-cause mortality beginning in the first week of treatment.
+Post-MI Patients Observational studies conducted in the Danish National Registry have demonstrated that patients treated with NSAIDs in the post-MI period were at increased risk of reinfarction, CV-related death, and all-cause mortality beginning in the first week of treatment.
 In this same cohort, the incidence of death in the first year post-MI was 20 per 100 person years in NSAID-treated patients compared to 12 per 100 person years in non-NSAID exposed patients.
 Although the absolute rate of death declined somewhat after the first year post-MI, the increased relative risk of death in NSAID users persisted over at least the next four years of follow-up.
 
@@ -39,9 +35,7 @@ Only one in five patients who develop a serious upper GI adverse event on NSAID 
 Upper GI ulcers, gross bleeding, or perforation caused by NSAIDs occurred in approximately 1% of patients treated for 3-6 months, and in about 2%-4% of patients treated for one year.
 However, even short-term NSAID therapy is not without risk.
 
-Risk Factors for GI Bleeding, Ulceration, and Perforation
-
-Patients with a prior history of peptic ulcer disease and/or GI bleeding who used NSAIDs had a greater than 10­ fold increased risk for developing a GI bleed compared to patients without these risk factors.
+Risk Factors for GI Bleeding, Ulceration, and Perforation Patients with a prior history of peptic ulcer disease and/or GI bleeding who used NSAIDs had a greater than 10-fold increased risk for developing a GI bleed compared to patients without these risk factors.
 Other factors that increase the risk of GI bleeding in patients treated with NSAIDs include longer duration of NSAID therapy; concomitant use of oral corticosteroids, aspirin, anticoagulants, or selective serotonin reuptake inhibitors (SSRIs); smoking; use of alcohol; older age; and poor general health status.
 Most postmarketing reports of fatal GI events occurred in elderly or debilitated patients.
 Additionally, patients with advanced liver disease and/or coagulopathy are at increased risk for GI bleeding.
@@ -54,7 +48,7 @@ Strategies to Minimize the GI Risks in NSAID-treated patients:
   For such patients, as well as those with active GI bleeding, consider alternate therapies other than NSAIDs.
 - Remain alert for signs and symptoms of GI ulceration and bleeding during NSAID therapy.
 - If a serious GI adverse event is suspected, promptly initiate evaluation and treatment, and discontinue NAPROSYN Suspension until a serious GI adverse event is ruled out.
-- In the setting of concomitant use of low-dose aspirin for cardiac prophylaxis, monitor patients more closely for evidence of GI bleeding [see Drug Interactions (7)].
+- In the setting of concomitant use of low-dose aspirin for cardiac prophylaxis, monitor patients more closely for evidence of GI bleeding [see Drug Interactions (7)]
 
 ## 5.3 Hepatotoxicity
 
@@ -105,29 +99,25 @@ Monitor renal function in patients with renal or hepatic impairment, heart failu
 Avoid the use of NAPROSYN Suspension in patients with advanced renal disease unless the benefits are expected to outweigh the risk of worsening renal function.
 If NAPROSYN Suspension is used in patients with advanced renal disease, monitor patients for signs of worsening renal function.
 
-Hyperkalemia
-
-Increases in serum potassium concentration, including hyperkalemia, have been reported with use of NSAIDs, even in some patients without renal impairment.
+Hyperkalemia Increases in serum potassium concentration, including hyperkalemia, have been reported with use of NSAIDs, even in some patients without renal impairment.
 In patients with normal renal function, these effects have been attributed to a hyporeninemic-hypoaldosteronism state.
 
 ## 5.7 Anaphylactic Reactions
 
-Naproxen has been associated with anaphylactic reactions in patients with and without known hypersensitivity to naproxen and in patients with aspirin-sensitive asthma [see Contraindications (4) and Warnings and Precautions (5.8)].
+Naproxen has been associated with anaphylactic reactions in patients with and without known hypersensitivity to naproxen and in patients with aspirin-sensitive asthma [see Contraindications (4) and Warnings and Precautions (5.8)]
 
 Seek emergency help if an anaphylactic reaction occurs.
 
 ## 5.8 Exacerbation of Asthma Related to Aspirin Sensitivity
 
 A subpopulation of patients with asthma may have aspirin-sensitive asthma which may include chronic rhinosinusitis complicated by nasal polyps; severe, potentially fatal bronchospasm; and/or intolerance to aspirin and other NSAIDs.
-Because cross-reactivity between aspirin and other NSAIDs has been reported in such aspirin- sensitive patients, NAPROSYN Suspension is contraindicated in patients with this form of aspirin sensitivity [see Contraindications (4)].
-When NAPROSYN Suspension is used in patients with preexisting asthma (without known aspirin sensitivity), monitor patients for changes in the signs and symptoms of asthma.
+Because cross-reactivity between aspirin and other NSAIDs has been reported in such aspirin-sensitive patients, NAPROSYN Suspension is contraindicated in patients with this form of aspirin sensitivity [see Contraindications (4)].When NAPROSYN Suspension is used in patients with preexisting asthma (without known aspirin sensitivity), monitor patients for changes in the signs and symptoms of asthma.
 
 ## 5.9 Serious Skin Reactions
 
-NSAIDs, including naproxen, can cause serious skin adverse reactions such as exfoliative dermatitis, Stevens- Johnson Syndrome (SJS), and toxic epidermal necrolysis (TEN), which can be fatal.
+NSAIDs, including naproxen can cause serious skin adverse reactions such as exfoliative dermatitis, Stevens-Johnson Syndrome (SJS), and toxic epidermal necrolysis (TEN), which can be fatal.
 These serious events may occur without warning.
 Inform patients about the signs and symptoms of serious skin reactions, and to discontinue the use of NAPROSYN Suspension at the first appearance of skin rash or any other sign of hypersensitivity.
-
 NAPROSYN Suspension is contraindicated in patients with previous serious skin reactions to NSAIDs [see Contraindications (4)].
 
 ## 5.10 Premature Closure of Fetal Ductus Arteriosus
@@ -151,7 +141,7 @@ The pharmacological activity of NAPROSYN Suspension in reducing inflammation, an
 
 ## 5.13 Long-Term Use and Laboratory Monitoring
 
-Because serious GI bleeding, hepatotoxicity, and renal injury can occur without warning symptoms or signs, consider monitoring patients on long-term NSAID treatment with a CBC and a chemistry profile periodically [see Warnings and Precautions (5.2, 5.3, 5.6)].
+Because serious GI bleeding, hepatotoxicity, and renal injury can occur without warning symptoms or signs, consider monitoring patients on long-term NSAID treatment with a CBC and a chemistry profile periodically [see Warnings and Precautions (5.2, 5.3 Hepatotoxicity, 5.6 Renal Toxicity and Hyperkalemia)].
 
 Patients with initial hemoglobin values of 10 g or less who are to receive long-term therapy should have hemoglobin values determined periodically.
 

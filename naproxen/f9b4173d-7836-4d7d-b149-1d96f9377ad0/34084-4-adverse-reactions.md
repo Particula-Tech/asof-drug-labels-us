@@ -2,12 +2,12 @@
 
 The following adverse reactions are discussed in greater detail in other sections of the labeling:
 
-- Cardiovascular Thrombotic Events [see Warnings and Precautions (5.1)]
-- GI Bleeding, Ulceration and Perforation [see Warnings and Precautions (5.2)]
-- Hepatotoxicity [see Warnings and Precautions (5.3)]
-- Hypertension [see Warnings and Precautions (5.4)]
-- Heart Failure and Edema [see Warnings and Precautions (5.5)]
-- Renal Toxicity and Hyperkalemia [see Warnings and Precautions (5.6)]
+- Cardiovascular Thrombotic Events [see Warnings and Precautions (5.1 Cardiovascular Thrombotic Events)]
+- GI Bleeding, Ulceration, and Perforation [see Warnings and Precautions (5.2)]
+- Hepatotoxicity [see Warnings and Precautions (5.3 Hepatotoxicity)]
+- Hypertension [see Warnings and Precautions (5.4 Hypertension)]
+- Heart Failure and Edema [see Warnings and Precautions (5.5 Heart Failure and Edema)]
+- Renal Toxicity and Hyperkalemia [see Warnings and Precautions (5.6 Renal Toxicity and Hyperkalemia)]
 - Anaphylactic Reactions [see Warnings and Precautions (5.7)]
 - Serious Skin Reactions [see Warnings and Precautions (5.9)]
 - Hematologic Toxicity [see Warnings and Precautions (5.11)]
@@ -28,9 +28,15 @@ In patients taking naproxen in clinical trials, the most frequently reported adv
 
 Gastrointestinal (GI) Experiences, including: heartburn*, abdominal pain*, nausea*, constipation*, diarrhea, dyspepsia, stomatitis
 
-Central Nervous System: headache*, dizziness*, drowsiness*, lightheadedness, vertigo Dermatologic: pruritus (itching)*, skin eruptions*, ecchymoses*, sweating, purpura Special Senses: tinnitus*, visual disturbances, hearing disturbances
+Central Nervous System: headache*, dizziness*, drowsiness*, lightheadedness, vertigo
 
-Cardiovascular: edema*, palpitations General: dyspnea*, thirst
+Dermatologic: pruritus (itching)*, skin eruptions*, ecchymoses*, sweating, purpura
+
+Special Senses: tinnitus*, visual disturbances, hearing disturbances
+
+Cardiovascular: edema*, palpitations
+
+General: dyspnea*, thirst
 
 *Incidence of reported reaction between 3% and 9%.
 Those reactions occurring in less than 3% of the patients are unmarked.
@@ -49,7 +55,9 @@ Because these reactions are reported voluntarily from a population of uncertain 
 The following are additional adverse experiences reported in <1% of patients taking naproxen during clinical trials and through postmarketing reports.
 Those adverse reactions observed through postmarketing reports are italicized.
 
-Body as a Whole: anaphylactoid reactions, angioneurotic edema, menstrual disorders, pyrexia (chills and fever) Cardiovascular: congestive heart failure, vasculitis, hypertension, pulmonary edema
+Body as a Whole: anaphylactoid reactions, angioneurotic edema, menstrual disorders, pyrexia (chills and fever)
+
+Cardiovascular: congestive heart failure, vasculitis, hypertension, pulmonary edema
 
 Gastrointestinal: inflammation, bleeding (sometimes fatal, particularly in the elderly), ulceration, perforation and obstruction of the upper or lower gastrointestinal tract.
 Esophagitis, stomatitis, hematemesis, pancreatitis, vomiting, colitis, exacerbation of inflammatory bowel disease (ulcerative colitis, Crohn’s disease).
@@ -74,15 +82,22 @@ Urogenital: glomerular nephritis, hematuria, hyperkalemia, interstitial nephriti
 Reproduction (female): infertility
 
 In patients taking NSAIDs, the following adverse experiences have also been reported in <1% of patients.
+
 Body as a Whole: fever, infection, sepsis, anaphylactic reactions, appetite changes, death
 
-Cardiovascular: hypertension, tachycardia, syncope, arrhythmia, hypotension, myocardial infarction Gastrointestinal: dry mouth, esophagitis, gastric/peptic ulcers, gastritis, glossitis, eructation Hepatobiliary: hepatitis, liver failure
+Cardiovascular: hypertension, tachycardia, syncope, arrhythmia, hypotension, myocardial infarction
 
-Hemic and Lymphatic: rectal bleeding, lymphadenopathy, pancytopenia Metabolic and Nutritional: weight changes
+Gastrointestinal: dry mouth, esophagitis, gastric/peptic ulcers, gastritis, glossitis, eructation
 
-Nervous System: anxiety, asthenia, confusion, nervousness, paresthesia, somnolence, tremors, convulsions, coma, hallucinations
+Hepatobiliary: hepatitis, liver failure
 
-Respiratory: asthma, respiratory depression, pneumonia Dermatologic: exfoliative dermatitis
+Hemic and Lymphatic: rectal bleeding, lymphadenopathy, pancytopenia
+
+Metabolic and Nutritional: weight changes Nervous System: anxiety, asthenia, confusion, nervousness, paresthesia, somnolence, tremors, convulsions, coma, hallucinations
+
+Respiratory: asthma, respiratory depression, pneumonia
+
+Dermatologic: exfoliative dermatitis
 
 Special Senses: blurred vision, conjunctivitis
 

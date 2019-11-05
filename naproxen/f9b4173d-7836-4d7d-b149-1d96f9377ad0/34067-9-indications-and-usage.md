@@ -1,6 +1,8 @@
 # 1 INDICATIONS AND USAGE
 
-NAPROSYN (naproxen) Suspension is indicated for: the relief of the signs and symptoms of:
+NAPROSYN (naproxen) Suspension is indicated for:
+
+the relief of the signs and symptoms of:
 
 - rheumatoid arthritis
 - osteoarthritis
