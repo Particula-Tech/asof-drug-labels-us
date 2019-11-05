@@ -43,6 +43,10 @@ Ask your doctor what you should do if you are taking one of these.
   - Injecting SUBOXONE may cause life-threatening infections and other serious health problems.
   - Injecting SUBOXONE may cause serious withdrawal symptoms such as pain, cramps, vomiting, diarrhea, anxiety, sleep problems, and cravings.
 - In an emergency, have family members tell emergency department staff that you are physically dependent on an opioid and are being treated with SUBOXONE sublingual film.
+- Never give anyone else your SUBOXONE sublingual film.
+  They could die from taking it.
+  Selling or giving away SUBOXONE sublingual film is against the law.
+- Store SUBOXONE sublingual film securely, out of sight and reach of children, and in a location not accessible by others, including visitors to the home.
 
 What is SUBOXONE?
 
@@ -214,8 +218,9 @@ How should I store SUBOXONE sublingual film?
 How should I dispose of unused SUBOXONE sublingual film?
 
 - Dispose of unused SUBOXONE sublingual film as soon as you no longer need them.
-- Unused films should be removed from the foil pouch and flushed down the toilet.
-- Do not flush the SUBOXONE sublingual film foil pouch down the toilet.
+- Dispose of expired, unwanted or unused SUBOXONE sublingual film by removing the SUBOXONE sublingual film from the foil packaging, and promptly flushing down the toilet (if a drug take-back option is not readily available).
+  Do not flush the SUBOXONE sublingual film foil pouch down the toilet.
+  Visit www.fda.gov/drugdisposal for additional information on disposal of unused medicines.
 
 If you need help with disposal of SUBOXONE sublingual film, call 1-877-782-6966.
 
@@ -253,7 +258,7 @@ North Chesterfield, VA 23235
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 SUBOXONE® is a registered trademark of Indivior UK Limited
 
-Revised: February 2018
+Revised: October 2019
 
 Copyright © 2018 Indivior Inc.
 
