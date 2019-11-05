@@ -3,7 +3,6 @@
 ALTRENO (tretinoin) lotion, 0.05% is an opaque, pale yellow topical lotion and available as:
 
 - •45 g tube (NDC 0187-0005-45)
-- •20 g tube (NDC 0187-0005-20)
 - •50 g pump (NDC 0187-0005-50)
 
 Storage and Handling Conditions

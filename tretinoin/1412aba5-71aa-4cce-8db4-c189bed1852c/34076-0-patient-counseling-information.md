@@ -15,4 +15,4 @@ U.S. Patent Number: 6,517,847
 
 - ALTRENO is a trademark of Bausch Health Companies Inc. or its affiliates.
 - © 2019 Bausch Health Companies Inc. or its affiliates
-- 9650302
+- 9650301
