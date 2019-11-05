@@ -29,12 +29,12 @@ Healthcare providers are strongly encouraged to do all of the following:
 
 - •Complete a REMS-compliant education program offered by an accredited provider of continuing education (CE) or another education program that includes all the elements of the FDA Education Blueprint for Health Care Providers Involved in the Management or Support of Patients with Pain.
 - •Discuss the safe use, serious risks, and proper storage and disposal of opioid analgesics with patients and/or their caregivers every time these medicines are prescribed.
-  The Patient Counseling Guide (PCG) can be obtained at this link: www.fda.gov/OpioidAnalgesicREMSPCG.
+  The Patient Counseling Guide (PCG) can be obtained at this link: http://www.fda.gov/OpioidAnalgesicREMSPCG.
 - •Emphasize to patients and their caregivers the importance of reading the Medication Guide that they will receive from their pharmacist every time an opioid analgesic is dispensed to them.
 - •Consider using other tools to improve patient, household, and community safety, such as patient-prescriber agreements that reinforce patient-prescriber responsibilities.
 
 To obtain further information on the opioid analgesic REMS and for a list of accredited REMS CME/CE, call 1-800-503-0784, or log on to www.opioidanalgesicrems.com.
-The FDA Blueprint can be found at www.fda.gov/OpioidAnalgesicREMSBlueprint
+The FDA Blueprint can be found at www.fda.gov/OpioidAnalgesicREMSBlueprint.
 
 ## 5.3 Life-Threatening Respiratory Depression
 
@@ -50,6 +50,10 @@ To reduce the risk of respiratory depression, proper dosing and titration of mor
 Overestimating the morphine sulfate dosage when converting patients from another opioid product can result in a fatal overdose with the first dose.
 
 Accidental ingestion of even one dose of morphine sulfate, especially by children, can result in respiratory depression and death due to an overdose of morphine.
+
+Opioids can cause sleep-related breathing disorders including central sleep apnea (CSA) and sleep-related hypoxemia.
+Opioid use increases the risk of CSA in a dose-dependent fashion.
+In patients who present with CSA, consider decreasing the opioid dosage using best practices for opioid taper [see Dosage and Administration(2.5)].
 
 ## 5.4 Neonatal Opioid Withdrawal Syndrome
 
@@ -132,11 +136,12 @@ Monitor patients with a history of seizure disorders for worsened seizure contro
 
 ## 5.13 Withdrawal
 
-Avoid the use of mixed agonist/antagonist (e.g., pentazocine, nalbuphine, and butorphanol) or partial agonist (e.g., buprenorphine) analgesics in patients who have received or are receiving a course of therapy with a full opioid agonist analgesic, including morphine sulfate.
-In these patients, mixed agonists/antagonist and partial agonist analgesics may reduce the analgesic effect and/or may precipitate withdrawal symptoms [see Drug Interactions (7)].
+Do not abruptly discontinue morphine sulfate in a patient physically dependent on opioids.
+When discontinuing morphine sulfate in a physically dependent patient, gradually taper the dosage.
+Rapid tapering of morphine in a patient physically dependent on opioids may lead to a withdrawal syndrome and return of pain [see Dosage and Administration (2.5), DrugAbuse and Dependence (9.3)].
 
-When discontinuing morphine sulfate, gradually taper the dosage [see Dosage and Administration (2.4)].
-Do not abruptly discontinue morphine sulfate [see Drug Abuse and Dependence (9.3)].
+Additionally, avoid the use of mixed agonist/antagonist (e.g., pentazocine, nalbuphine, and butorphanol) or partial agonist (e.g., buprenorphine) analgesics in patients who have received or are receiving a course of therapy with a full opioid agonist analgesic, including morphine sulfate.
+In these patients, mixed agonists/antagonist and partial agonist analgesics may reduce the analgesic effect and/or may precipitate withdrawal symptoms [see Drug Interactions (7)].
 
 ## 5.14 Risks of Driving and Operating Machinery
 

@@ -40,4 +40,6 @@ They are supplied as follows:
 
 Store at 20° - 25° C (68° - 77° F) [See USP Controlled Room Temperature].
 
+Store morphine sulfate extended-release tablets securely and dispose of properly [see Patient Counseling Information (17)].
+
 Dispense in a tight, light-resistant container.

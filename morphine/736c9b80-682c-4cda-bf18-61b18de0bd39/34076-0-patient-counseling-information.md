@@ -2,6 +2,15 @@
 
 Advise the patient to read the FDA-approved patient labeling (Medication Guide).
 
+Storage and Disposal
+
+Because of the risks associated with accidental ingestion, misuse, and abuse, advise patients to store morphine sulfate extended-release tablets securely, out of sight and reach of children, and in a location not accessible by others, including visitors to the home [see Warnings and Precautions (5.13), Drug Abuse and Dependence (9.2)].
+Inform patients that leaving morphine sulfate extended-release tablets unsecured can pose a deadly risk to others in the home.
+
+Advise patients and caregivers that when medicines are no longer needed, they should be disposed of promptly.
+Expired, unwanted, or unused morphine sulfate extended-release tablets should be disposed of by flushing the unused medication down the toilet if a drug take-back option is not readily available.
+Inform patients that they can visit www.fda.gov/drugdisposal for a complete list of medicines recommended for disposal by flushing, as well as additional information on disposal of unused medicines.
+
 Addiction, Abuse, and Misuse
 
 Inform patients that the use of morphine sulfate extended-release tablets even when taken as recommended, can result in addiction, abuse, and misuse, which can lead to overdose and death [see Warnings and Precautions (5.1)].
@@ -15,7 +24,6 @@ Advise patients how to recognize respiratory depression and to seek medical atte
 Accidental Ingestion
 
 Inform patients that accidental ingestion, especially by children, may result in respiratory depression or death [see Warnings and Precautions (5.3)].
-Instruct patients to take steps to store morphine sulfate extended-release tablets securely and to dispose of unused morphine sulfate extended-release tablets by flushing the tablets down the toilet.
 
 Interactions with Benzodiazepines and Other CNS Depressants
 
@@ -40,11 +48,15 @@ Advise patients to seek medical attention if they experience a constellation of 
 
 Important Administration Instructions
 
-- •Instruct patients how to properly take morphine sulfate extended-release tablets, including the following:
+Instruct patients how to properly take morphine sulfate extended-release tablets, including the following:
+
 - •Swallow morphine sulfate extended-release tablets whole [see Dosage and Administration (2.1)]
 - •Do not crush, chew, or dissolve the tablets [see Dosage and Administration (2.1)]
 - •Use morphine sulfate extended-release tablets exactly as prescribed to reduce the risk of life-threatening adverse reactions (e.g., respiratory depression) [see Warnings and Precautions (5.3)]
-- •Do not discontinue morphine sulfate extended-release tablets without first discussing the need for a tapering regimen with the prescriber [see Dosage and Administration (2.5)]
+
+Important Discontinuation Instructions
+
+Inorder to avoid developing withdrawal symptoms, instruct patients not to discontinue morphine sulfate extended-release tablets without first discussing a tapering plan with the prescriber [see Dosage and Administration (2.5)].
 
 Hypotension
 
@@ -84,11 +96,7 @@ Constipation
 
 Advise patients of the potential for severe constipation, including management instructions and when to seek medical attention.
 
-Disposal of Unused Morphine Sulfate Extended-Release Tablets
-
-Advise patients to flush the unused tablets down the toilet when morphine sulfate extended-release tablets are no longer needed.
-
-Healthcare professionals can telephone Sun Pharmaceuticals Inc. (1-800-818-4555) for information on this product.
+Healthcare professionals can telephone Sun Pharmaceutical Industries Inc. (1-800-818-4555) for information on this product.
 
 Manufactured by:
 
@@ -102,4 +110,4 @@ Sun Pharmaceutical Industries, Inc.
 
 Cranbury, NJ 08512
 
-1. October 2018 FDA-08
+1. October 2019 FDA-09

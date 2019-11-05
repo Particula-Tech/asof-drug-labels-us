@@ -1,6 +1,6 @@
 # MEDICATION GUIDE
 
-MORPHINE SULFATE EXTENDED-RELEASE TABLETS, CII
+MORPHINE (MOR feen) SULFATE EXTENDED-RELEASE TABLETS, CII
 
 Rx only
 
@@ -20,6 +20,10 @@ Important information about morphine sulfate extended-release tablets:
   They could die from taking it.
   Store morphine sulfate extended-release tablets away from children and in a safe place to prevent stealing or abuse.
   Selling or giving away morphine sulfate extended-release tablets is against the law.
+- •Never give anyone else your morphine sulfate extended-release tablets.
+  They could die from taking it.
+  Selling or giving away morphine sulfate extended-release tablets is against the law.
+- •Store morphine sulfate extended-release tablets securely, out of sight and reach of children, and in a location not accessible by others, including visitors to the home.
 
 Do not take morphine sulfate extended-release tablets if you have:
 
@@ -37,7 +41,7 @@ Tell your healthcare provider if you are:
 - •pregnant or planning to become pregnant.
   Prolonged use of morphine sulfate extended-release tablets during pregnancy can cause withdrawal symptoms in your newborn baby that could be life-threatening if not recognized and treated.
 - •breastfeeding.
-  Not recommended during treatment with morphine sulfate passes.
+  Not recommended during treatment with morphine sulfate.
   It may harm your baby.
 - •taking prescription or over-the-counter medicines, vitamins, or herbal supplements.
   Taking morphine sulfate extended-release tablets with certain other medicines can cause serious side effects.
@@ -54,10 +58,10 @@ When taking morphine sulfate extended-release tablets:
   Do not cut, break, chew, crush, dissolve, snort, or inject morphine sulfate extended-release tablets because this may cause you to overdose and die.
 - •Call your healthcare provider if the dose you are taking does not control your pain.
 - •Do not stop taking morphine sulfate extended-release tablets without talking to your healthcare provider.
-- •After you stop taking morphine sulfate extended-release tablets, flush any unused tablets down the toilet.
-
-While taking morphine sulfate extended-release tablets DO NOT:
-
+- •Dispose of expired, unwanted, or unused morphine sulfate extended-release tablets by promptly flushing down the toilet, if a drug take-back option is not readily available.
+  Visit
+- •www.fda.gov/drugdisposal for additional information on disposal of unused medicines.
+  While taking morphine sulfate extended-release tablets DO NOT:
 - •Drive or operate heavy machinery, until you know how morphine sulfate extended-release tablets affect you.
   Morphine sulfate extended-release tablets can make you sleepy, dizzy, or lightheaded.
 - •Drink alcohol or use prescription or over-the-counter medicines that contain alcohol.
@@ -93,4 +97,4 @@ Cranbury, NJ 08512
 
 www.sunpharma.com or call 1-800-818-4555
 
-1. June 2018 FDA-07
+1. October 2019 FDA-08
