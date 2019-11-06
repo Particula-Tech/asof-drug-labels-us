@@ -11,7 +11,7 @@ Cefazolin Sodium, USP has the following structural formula:
 
 The sodium content is 48 mg/g of cefazolin sodium.
 
-The pH of Cefazolin injection may have been adjusted with sodium bicarbonate/cefazolin free acid, or sodium hydroxide/hydrochloric acid.
+The pH of Cefazolin injection may have been adjusted with sodium bicarbonate, or sodium hydroxide/hydrochloric acid during manufacture.
 Water for injection, USP is added as drug vehicle.
 Contains no preservative.
 The solution is intended for intravenous use after thawing to room temperature.
