@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "BLA761045"
+  ],
+  "inn": "pegfilgrastim",
+  "labeler": "Sandoz Inc",
+  "package_ndcs": [
+    "61314-866-01"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "pegfilgrastim-bmez",
+      "name": "ZIEXTENZO"
+    }
+  ],
+  "setid": "7dada041-6528-4acf-809c-62d271538c9a",
+  "source": "dailymed"
+}
