@@ -2,6 +2,6 @@ Manufactured for: Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC., 
 
 For patent information: www.merck.com/product/patent/home.html
 
-Copyright © 2017-2018 Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. All rights reserved.
+Copyright © 2017-2019 Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. All rights reserved.
 
-uspi-mk8835b-t-1810r001
+uspi-mk8835b-t-1911r002
