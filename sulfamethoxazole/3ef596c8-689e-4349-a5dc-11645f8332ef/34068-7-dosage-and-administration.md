@@ -41,7 +41,8 @@ The usual adult dosage in the treatment of acute exacerbations of chronic bronch
 
 ### Treatment
 
-Adults and Children: The recommended dosage for treatment of patients with documented Pneumocystis carinii pneumonia is 75 to 100 mg/kg sulfamethoxazole and 15 to 20 mg/kg trimethoprim per 24 hours given in equally divided doses every 6 hours for 14 to 21 days.10 The following table is a guideline for the upper limit of this dosage:
+Adults and Children: The recommended dosage for treatment of patients with documented Pneumocystis carinii pneumonia is 75 to 100 mg/kg sulfamethoxazole and 15 to 20 mg/kg trimethoprim per 24 hours given in equally divided doses every 6 hours for 14 to 21 days.
+10 The following table is a guideline for the upper limit of this dosage:
 
 | Weight |  | Dose - every 6 hours |  |
 | --- | --- | --- | --- |
@@ -61,16 +62,18 @@ For the lower limit dose (75 mg/kg sulfamethoxazole and 15 mg/kg trimethoprim pe
 
 ### Adults
 
-The recommended dosage for prophylaxis in adults is four teaspoonfuls (20 mL) of the oral suspension daily.11
+The recommended dosage for prophylaxis in adults is four teaspoonfuls (20 mL) of the oral suspension daily.
+11
 
 ### Children
 
-For children, the recommended dose is 750 mg/m2/day sulfamethoxazole with 150 mg/m2/day trimethoprim given orally in equally divided doses twice a day, on 3 consecutive days per week.
-The total daily dose should not exceed 1600 mg sulfamethoxazole and 320 mg trimethoprim.12 The following table is a guideline for the attainment of this dosage in children:
+For children, the recommended dose is 750 mg/m 2/day sulfamethoxazole with 150 mg/m 2/day trimethoprim given orally in equally divided doses twice a day, on 3 consecutive days per week.
+The total daily dose should not exceed 1600 mg sulfamethoxazole and 320 mg trimethoprim.
+12 The following table is a guideline for the attainment of this dosage in children:
 
 | Body Surface Area | Dose - every 12 hours |  |
 | --- | --- | --- |
-| (m2) | Teaspoonfuls |  |
+| (m 2) | Teaspoonfuls |  |
 | 0.26 | ½ (2.5 mL) |  |
 | 0.53 | 1 (5 mL) |  |
 | 1.06 | 2 (10 mL) |  |

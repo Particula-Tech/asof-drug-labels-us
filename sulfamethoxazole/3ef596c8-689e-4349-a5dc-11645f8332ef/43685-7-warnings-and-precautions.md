@@ -110,7 +110,8 @@ Like other sulfonamide-containing drugs, sulfamethoxazole and trimethoprim poten
 
 In the literature, a single case of toxic delirium has been reported after concomitant intake of sulfamethoxazole/trimethoprim and amantadine.
 
-In the literature, three cases of hyperkalemia in elderly patients have been reported after concomitant intake of sulfamethoxazole/trimethoprim and an angiotensin converting enzyme inhibitor.7,8
+In the literature, three cases of hyperkalemia in elderly patients have been reported after concomitant intake of sulfamethoxazole/trimethoprim and an angiotensin converting enzyme inhibitor.
+7,8
 
 ## Drug/Laboratory Test Interactions
 
@@ -148,7 +149,7 @@ In one study, however, cleft palates were observed in one litter out of 9 when 3
 
 In some rabbit studies, an overall increase in fetal loss (dead and resorbed and malformed conceptuses) was associated with doses of trimethoprim 6 times the human therapeutic dose.
 
-While there are no large, well-controlled studies on the use of sulfamethoxazole and trimethoprim in pregnant women, Brumfitt and Pursell,9 in a retrospective study, reported the outcome of 186 pregnancies during which the mother received either placebo or sulfamethoxazole and trimethoprim.
+While there are no large, well-controlled studies on the use of sulfamethoxazole and trimethoprim in pregnant women, Brumfitt and Pursell, 9 in a retrospective study, reported the outcome of 186 pregnancies during which the mother received either placebo or sulfamethoxazole and trimethoprim.
 The incidence of congenital abnormalities was 4.5% (3 of 66) in those who received placebo and 3.3% (4 of 120) in those receiving sulfamethoxazole and trimethoprim.
 There were no abnormalities in the 10 children whose mothers received the drug during the first trimester.
 In a separate survey, Brumfitt and Pursell also found no congenital abnormalities in 35 children whose mothers had received oral sulfamethoxazole and trimethoprim at the time of conception or shortly thereafter.
