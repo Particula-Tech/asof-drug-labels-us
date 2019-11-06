@@ -1,5 +1,7 @@
-100 mg/mL
+100 mg per mL
 
-45817F
+www.fresenius-kabi.com/us
 
-Revised: March 2015
+45817G
+
+Revised: September 2019

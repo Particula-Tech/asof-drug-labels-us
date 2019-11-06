@@ -2,9 +2,9 @@
 
 Pyridoxine Hydrochloride Injection, USP is supplied as:
 
-| Product No. | NDC No. | Strength |  |
+| Product Code | Unit of Sale | Strength | Each |
 | --- | --- | --- | --- |
-| 1801 | 63323-180-01 | 100 mg per mL | 1 mL fill in a 2 mL multiple dose vial, in packages of 25. |
+| 1801 | NDC 63323-180-01 Unit of 25 | 100 mg per mL | NDC 63323-180-00 1 mL fill, in a 2 mL multiple dose vial |
 
 PROTECT FROM LIGHT.
 
