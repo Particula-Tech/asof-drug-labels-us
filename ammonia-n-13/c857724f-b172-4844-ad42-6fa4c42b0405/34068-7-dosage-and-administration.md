@@ -2,15 +2,19 @@
 
 ## 2.1 Rest Imaging Study
 
-- Aseptically withdraw Ammonia N 13 Injection from its container and administer 10-20 mCi (0.368 – 0.736 GBq) as a bolus through a catheter inserted into a large peripheral vein.
-- Start imaging 3 minutes after the injection and acquire images for a total of 10-20 minutes.
+• Aseptically withdraw Ammonia N 13 Injection from its container and administer 10-20 mCi (0.370 – 0.740 GBq) as a bolus through a catheter inserted into a large peripheral vein.
+
+• Start imaging 3 minutes after the injection and acquire images for a total of 10-20 minutes.
 
 ## 2.2 Stress Imaging Study
 
-- If a rest imaging study is performed, begin the stress imaging study 40 minutes or more after the first Ammonia N 13 injection to allow sufficient isotope decay.
-- Administer a pharmacologic stress-inducing drug in accordance with its labeling.
-- Aseptically withdraw Ammonia N 13 Injection from its container and administer 10-20 mCi (0.368 – 0.736 GBq) of Ammonia N 13 Injection as a bolus at 8 minutes after the administration of the pharmacologic stress-inducing drug.
-- Start imaging 3 minutes after the Ammonia N 13 Injection and acquire images for a total of 10-20 minutes.
+• If a rest imaging study is performed, begin the stress imaging study 40 minutes or more after the first Ammonia N 13 Injection to allow sufficient isotope decay.
+
+• Administer a pharmacologic stress-inducing drug in accordance with its labeling.
+
+• Aseptically withdraw Ammonia N 13 Injection from its container and administer 10-20 mCi (0.370 – 0.740 GBq) of Ammonia N 13 Injection as a bolus at 8 minutes after the administration of the pharmacologic stress-inducing drug.
+
+• Start imaging 3 minutes after the Ammonia N 13 Injection and acquire images for a total of 10-20 minutes.
 
 ## 2.3 Patient Preparation
 
@@ -21,7 +25,8 @@ To increase renal clearance of radioactivity and to minimize radiation dose to t
 The converted radiation absorbed doses in rem/mCi are shown in Table 1.
 These estimates are calculated from the Task Group of Committee 2 of the International Commission on Radiation Protection.1
 
-Table 1: N 13 Absorbed Radiation Dose Per Unit Activity (rem/mCi) for Adults and Pediatric Groups.
+Table 1.
+N 13 Absorbed Radiation Dose Per Unit Activity (rem/mCi) for Adults and Pediatric Groups
 
 | Organ | Adult | 15 - year old | 10 - year old | 5 - year old | 1 - year old |
 | --- | --- | --- | --- | --- | --- |
@@ -31,7 +36,7 @@ Table 1: N 13 Absorbed Radiation Dose Per Unit Activity (rem/mCi) for Adults and
 | Brain | 0.016 | 0.016 | 0.017 | 0.019 | 0.027 |
 | Breast | 0.0067 | 0.0067 | 0.010 | 0.017 | 0.033 |
 | Stomach wall | 0.0063 | 0.0078 | 0.012 | 0.019 | 0.037 |
-| Small intestine | 0.0067 | 0.0081 | 00013 | 0.021 | 0.041 |
+| Small intestine | 0.0067 | 0.0081 | 0.013 | 0.021 | 0.041 |
 | *ULI | 0.0067 | 0.0078 | 0.013 | 0.021 | 0.037 |
 | **LLI | 0.0070 | 0.0078 | 0.013 | 0.020 | 0.037 |
 | Heart | 0.0078 | 0.0096 | 0.015 | 0.023 | 0.041 |
@@ -51,11 +56,17 @@ Table 1: N 13 Absorbed Radiation Dose Per Unit Activity (rem/mCi) for Adults and
 
 ## 2.5 Drug Handling
 
-- Inspect Ammonia N 13 Injection visually for particulate matter and discoloration before administration, whenever solution and container permit.
-- Do not administer Ammonia N 13 Injection containing particulate matter or discoloration; dispose of these unacceptable or unused preparations in a safe manner, in compliance with applicable regulations.
-- Wear waterproof gloves and effective shielding when handling Ammonia N 13 Injection.
-- Use aseptic technique to maintain sterility during all operations involved in the manipulation and administration of Ammonia N 13 Injection.
-  The contents of each vial are sterile and non-pyrogenic.
-- Use appropriate safety measures, including shielding, consistent with proper patient management to avoid unnecessary radiation exposure to the patient, occupational workers, clinical personnel, and other persons.
-- Radiopharmaceuticals should be used by or under the control of physicians who are qualified by specific training and experience in the safe use and handling of radionuclides, and whose experience and training have been approved by the appropriate governmental agency authorized to license the use of radionuclides.
-- Before administration of Ammonia N 13 Injection, assay the dose in a properly calibrated dose calibrator.
+• Inspect Ammonia N 13 Injection visually for particulate matter and discoloration before administration, whenever solution and container permit.
+
+• Do not administer Ammonia N 13 Injection containing particulate matter or discoloration; dispose of these unacceptable or unused preparations in a safe manner, in compliance with applicable regulations.
+
+• Wear waterproof gloves and effective shielding when handling Ammonia N 13 Injection.
+
+• Use aseptic technique to maintain sterility during all operations involved in the manipulation and administration of Ammonia N 13 Injection.
+The contents of each vial are sterile and non-pyrogenic.
+
+• Use appropriate safety measures, including shielding, consistent with proper patient management to avoid unnecessary radiation exposure to the patient, occupational workers, clinical personnel, and other persons.
+
+• Radiopharmaceuticals should be used by or under the control of physicians who are qualified by specific training and experience in the safe use and handling of radionuclides, and whose experience and training have been approved by the appropriate governmental agency authorized to license the use of radionuclides.
+
+• Before administration of Ammonia N 13 Injection, assay the dose in a properly calibrated dose calibrator.

@@ -2,9 +2,7 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Category C
-
-Animal reproduction studies have not been conducted with Ammonia N 13 Injection.
+Pregnancy Category C Animal reproduction studies have not been conducted with Ammonia N 13 Injection.
 It is also not known whether Ammonia N 13 Injection can cause fetal harm when administered to a pregnant woman or can affect reproduction capacity.
 Ammonia N 13 Injection should be given to a pregnant woman only if clearly needed.
 
