@@ -31,16 +31,16 @@ Table 9
 |  |  | 0.5 hr | 1 hr | 2 hr |  | 4 hr | 6 hr | 8 hr | 12 hr | 24 hr |
 | 3 to 23 months |  |  |  |  |  |  |  |  |  |  |
 |  | 15 mg/kg† | 103.8 | 57.3 | 43.6 | 23.7 |  | 13.5 | 8.2 | 2.5 | - |
-|  | 20 mg/kg† | 126.8 | 87.6 | 58.7 | 28.4 |  | - | 12.0 | 3.4 | 0.4 |
-|  | 40 mg/kg‡ | 199.1 | 144.1 | 95.7 | 58.0 |  | - | 20.2 | 7.7 | 0.6 |
+|  | 20 mg/kg† | 126.8 | 87.6 | 58.7 | 28.4 |  | - | 12 | 3.4 | 0.4 |
+|  | 40 mg/kg‡ | 199.1 | 144.1 | 95.7 | 58 |  | - | 20.2 | 7.7 | 0.6 |
 | 2 to 12 years |  |  |  |  |  |  |  |  |  |  |
-|  | 15 mg/kg† | 113.2 | 63.9 | 42.1 | 21.9 |  | 12.8 | 7.6 | 3.0 | - |
+|  | 15 mg/kg† | 113.2 | 63.9 | 42.1 | 21.9 |  | 12.8 | 7.6 | 3 | - |
 |  | 20 mg/kg† | 147.6 | 97.6 | 63.2 | 34.5 |  | - | 12.3 | 4.9 | 0.5 |
 |  | 40 mg/kg‡ | 241.7 | 152.7 | 96.3 | 55.6 |  | - | 18.8 | 7.2 | 0.6 |
 | 13 to 17 years |  |  |  |  |  |  |  |  |  |  |
-|  | 20 mg/kg† | 170.4 | 98.3 | 67.8 | 40.4 |  | - | 16.0 | 7.0 | 1.1 |
-|  | 1 g§ | 155.9 | 110.9 | 74.8 | - |  | 24.0 | - | 6.2 | - |
-|  | 40 mg/kg‡ | 255.0 | 188.7 | 127.9 | 76.2 |  | - | 31.0 | 15.3 | 2.1 |
+|  | 20 mg/kg† | 170.4 | 98.3 | 67.8 | 40.4 |  | - | 16 | 7 | 1.1 |
+|  | 1 g§ | 155.9 | 110.9 | 74.8 | - |  | 24 | - | 6.2 | - |
+|  | 40 mg/kg‡ | 255 | 188.7 | 127.9 | 76.2 |  | - | 31 | 15.3 | 2.1 |
 | * Infused at a constant rate over 30 minutes † up to a maximum dose of 1 g/day ‡ up to a maximum dose of 2 g/day § Based on three patients receiving 1 g ertapenem who volunteered for pharmacokinetic assessment in one of the two safety and efficacy trials |  |  |  |  |  |  |  |  |  |  |
 
 Absorption Ertapenem, reconstituted with 1% lidocaine HCl injection, USP (in saline without epinephrine), is almost completely absorbed following intramuscular (IM) administration at the recommended dose of 1 g. The mean bioavailability is approximately 90%.
@@ -91,7 +91,7 @@ The plasma clearance (mL/min/kg) of ertapenem in patients 3 months to 12 years o
 At the 15 mg/kg dose, the AUC value (doubled to model a twice daily dosing regimen, i.e., 30 mg/kg/day exposure) in patients 3 months to 12 years of age was comparable to the AUC value in young healthy adults receiving a 1 g IV dose of ertapenem.
 Drug Interactions When ertapenem is co-administered with probenecid (500 mg p.o. every 6 hours), probenecid competes for active tubular secretion and reduces the renal clearance of ertapenem.
 Based on total ertapenem concentrations, probenecid increased the AUC of ertapenem by 25%, and reduced the plasma and renal clearance of ertapenem by 20% and 35%, respectively.
-The half-life of ertapenem was increased from 4.0 to 4.8 hours.
+The half-life of ertapenem was increased from 4 to 4.8 hours.
 In vitro studies in human liver microsomes indicate that ertapenem does not inhibit metabolism mediated by any of the following cytochrome p450 (CYP) isoforms: 1A2, 2C9, 2C19, 2D6, 2E1 and 3A4.
 In vitro studies indicate that ertapenem does not inhibit P-glycoprotein-mediated transport of digoxin or vinblastine and that ertapenem is not a substrate for P-glycoprotein-mediated transport.
 
