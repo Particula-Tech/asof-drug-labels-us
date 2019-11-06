@@ -2,6 +2,8 @@
 
 ## 6.1 Clinical Trials Experience
 
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect or predict the rates observed in practice.
+
 The information below for ZYPREXA RELPREVV is derived primarily from a clinical trial database consisting of 2058 patients with approximately 1948 patient years of exposure to ZYPREXA RELPREVV.
 This database includes safety data from 6 open-label studies and 2 double-blind comparator studies, conducted in patients with schizophrenia or schizoaffective disorder.
 Additionally, data obtained from patients treated with oral olanzapine are also presented below.
@@ -16,7 +18,7 @@ The entire label should be read to gain a complete understanding of the safety p
 
 The prescriber should be aware that the figures in the tables and tabulations cannot be used to predict the incidence of side effects in the course of usual medical practice where patient characteristics and other factors differ from those that prevailed in the clinical trials.
 Similarly, the cited frequencies cannot be compared with figures obtained from other clinical investigations involving different treatments, uses, and investigators.
-The cited figures, however, do provide the prescribing physician with some basis for estimating the relative contribution of drug and nondrug factors to the adverse reaction incidence in the population studied.
+The cited figures, however, do provide the prescribing healthcare provider with some basis for estimating the relative contribution of drug and nondrug factors to the adverse reaction incidence in the population studied.
 
 Adverse Reactions Associated with Discontinuation of Treatment in a Short-Term, Placebo-Controlled Trial
 
@@ -109,7 +111,7 @@ In a single 8-week randomized, double-blind, fixed-dose study comparing 10 (N=19
 The incidence of dizziness (10 mg/day: 2.6%; 20 mg/day: 1.6%; 40 mg/day: 6.6%) was observed with significant differences between 20 vs 40 mg.
 Dose group differences were also noted for weight gain and prolactin elevation [see Warnings and Precautions (5.7, 5.17)].
 
-## 6.2 Extrapyramidal Symptoms
+Extrapyramidal Symptoms
 
 The following table enumerates the percentage of patients with treatment-emergent extrapyramidal symptoms as assessed by categorical analyses of formal rating scales during acute therapy in a controlled clinical trial comparing oral olanzapine at 3 fixed doses with placebo in the treatment of schizophrenia in a 6-week trial.
 
@@ -150,7 +152,7 @@ Dystonic symptoms include: spasm of the neck muscles, sometimes progressing to t
 While these symptoms can occur at low doses, the frequency and severity are greater with high potency and at higher doses of first generation antipsychotic drugs.
 In general, an elevated risk of acute dystonia may be observed in males and younger age groups receiving antipsychotics; however, events of dystonia have been reported infrequently (<1%) with olanzapine use.
 
-## 6.3 Other Adverse Reactions
+Other Adverse Reactions
 
 Local Injection Site Reactions
 
@@ -241,9 +243,12 @@ Between-group comparisons for pooled placebo-controlled trials revealed no signi
 Oral olanzapine use was associated with a mean increase in heart rate of 2.4 beats per minute compared to no change among placebo patients.
 This slight tendency to tachycardia may be related to olanzapine's potential for inducing orthostatic changes [see Warnings and Precautions (5.11)].
 
-## 6.4 Postmarketing Experience
+## 6.2 Postmarketing Experience
 
-Adverse reactions reported since market introduction that were temporally (but not necessarily causally) related to ZYPREXA therapy include the following: allergic reaction (e.g., anaphylactoid reaction, angioedema, pruritus or urticaria), cholestatic or mixed liver injury, diabetic coma, diabetic ketoacidosis, discontinuation reaction (diaphoresis, nausea, or vomiting), Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS), hepatitis, jaundice, neutropenia, pancreatitis, priapism, rash, restless legs syndrome, rhabdomyolysis, stuttering1, and venous thromboembolic events (including pulmonary embolism and deep venous thrombosis).
+The following adverse reactions have been identified during post-approval use of ZYPREXA and ZYPREXA RELPREVV.
+Because these reactions are reported voluntarily from a population of uncertain size, it is difficult to reliably estimate their frequency or evaluate a causal relationship to drug exposure.
+
+Adverse reactions reported since market introduction that were temporally (but not necessarily causally) related to ZYPREXA therapy include the following: allergic reaction (e.g., anaphylactoid reaction, angioedema, pruritus or urticaria), cholestatic or mixed liver injury, diabetic coma, diabetic ketoacidosis, discontinuation reaction (diaphoresis, nausea, or vomiting), Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS), hepatitis, jaundice, neutropenia, pancreatitis, priapism, rash, restless legs syndrome, rhabdomyolysis, salivary hypersecretion, stuttering1, and venous thromboembolic events (including pulmonary embolism and deep venous thrombosis).
 Random cholesterol levels of ≥240 mg/dL and random triglyceride levels of ≥1000 mg/dL have been reported.
 Additionally, injection site abscess has been reported in postmarketing reports with ZYPREXA RELPREVV therapy.
 Isolated cases required surgical intervention.

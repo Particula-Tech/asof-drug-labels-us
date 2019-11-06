@@ -32,7 +32,7 @@ Table 1: Recommended Dosing for ZYPREXA RELPREVV Based on Correspondence to Oral
 ZYPREXA RELPREVV doses greater than 405 mg every 4 weeks or 300 mg every 2 weeks have not been evaluated in clinical trials.
 
 Post-Injection Delirium/Sedation Syndrome — During premarketing clinical studies, adverse events that presented with signs and symptoms consistent with olanzapine overdose, in particular, sedation (including coma) and/or delirium, were reported in patients following an injection of ZYPREXA RELPREVV [see Boxed Warning, Warnings and Precautions (5.1), and Overdosage (10.1)].
-Patients should be informed of this risk and how to recognize related symptoms [see Patient Counseling Information (17.1, 17.2)].
+Patients should be informed of this risk and how to recognize related symptoms [see Patient Counseling Information (17)].
 ZYPREXA RELPREVV must be administered in a registered healthcare facility with ready access to emergency response services.
 After each ZYPREXA RELPREVV injection, a healthcare professional must continuously observe the patient at the healthcare facility for at least 3 hours for symptoms consistent with olanzapine overdose, including sedation (ranging from mild in severity to coma) and/or delirium (including confusion, disorientation, agitation, anxiety, and other cognitive impairment).
 Other symptoms noted include extrapyramidal symptoms, dysarthria, ataxia, aggression, dizziness, weakness, hypertension, and convulsion.
@@ -133,7 +133,7 @@ The suspended product will be yellow and opaque (see Figure 3).
 If foam forms, let vial stand to allow foam to dissipate.
 
 If the product is not used right away, it should be shaken vigorously to re-suspend.
-Reconstituted ZYPREXA RELPREVV remains stable for up to 24 hours in the vial.
+Reconstituted ZYPREXA RELPREVV remains stable at room temperature for up to 24 hours in the vial.
 
 Step 4: Injecting ZYPREXA RELPREVV
 
@@ -156,7 +156,7 @@ Slowly withdraw the desired amount into the syringe.
 
 Some excess product will remain in the vial.
 
-Engage the needle safety device and remove needle from syringe.
+Engage the needle safety device and remove the needle from syringe.
 
 For administration, select the 19-gauge, 1.5-inch (38 mm) Hypodermic Needle-Pro needle with needle protection device.
 For obese patients, a 2-inch (50 mm), 19-gauge or larger needle (not included in convenience kit) may be used.

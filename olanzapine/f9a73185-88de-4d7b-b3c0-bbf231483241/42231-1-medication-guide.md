@@ -112,9 +112,10 @@ Before starting ZYPREXA RELPREVV, tell your doctor if you have or had:
 - any other medical condition
 - are pregnant or plan to become pregnant.
   It is not known if ZYPREXA RELPREVV will harm your unborn baby.
+  - If you become pregnant while receiving ZYPREXA, talk to your healthcare provider about registering with the National Pregnancy Registry for Atypical Antipsychotics.
+    You can register by calling 1-866-961-2388 or go to http://womensmentalhealth.org/clinical-and-research-programs/pregnancyregistry/.
 - are breast-feeding or plan to breast-feed.
-  ZYPREXA RELPREVV can pass into your breast milk and may harm your baby.
-  You should not breast-feed while taking ZYPREXA RELPREVV.
+  ZYPREXA RELPREVV passes into your breast milk.
   Talk to your doctor about the best way to feed your baby if you take ZYPREXA RELPREVV.
 
 Tell your doctor if you exercise a lot or are in hot places often.
@@ -204,13 +205,13 @@ Inactive ingredients: carboxymethylcellulose sodium, mannitol, polysorbate 80, s
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Medication Guide revised October 6, 2016
+Medication Guide revised October 22, 2019
 
 Marketed by: Lilly USA, LLC Indianapolis, IN 46285, USA
 
 www.zyprexarelprevv.com
 
-Copyright © 2009, 2016, Eli Lilly and Company.
+Copyright © 2009, 2019, Eli Lilly and Company.
 All rights reserved.
 
-ZYPR-0001-MG-20161006
+ZYPR-0002-MG-20191022

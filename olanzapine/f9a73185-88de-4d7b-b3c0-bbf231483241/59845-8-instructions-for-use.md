@@ -31,7 +31,7 @@
 | 3.9 | Visually check the vial for clumps. Unsuspended powder appears as yellow, dry clumps clinging to the vial. Additional tapping may be required if large clumps remain (see Figure 3). |  |  |  |  |  |  |  |
 | 3.10 | Shake the vial vigorously until the suspension appears smooth and is consistent in color and texture. The suspended product will be yellow and opaque (see Figure 4). |  |  |  |  |  |  |  |
 | If foam forms, let vial stand to allow foam to dissipate. |  |  |  |  |  |  |  |  |
-| If the product is not used right away, it should be shaken vigorously to re-suspend. Reconstituted Zyprexa Relprevv remains stable for up to 24 hours in the vial. |  |  |  |  |  |  |  |  |
+| If the product is not used right away, it should be shaken vigorously to re-suspend. Reconstituted Zyprexa Relprevv remains stable at room temperature for up to 24 hours in the vial. |  |  |  |  |  |  |  |  |
 | STEP 4 |  |  |  |  |  |  |  |  |
 | INJECTING ZYPREXA RELPREVV |  |  |  |  |  |  |  |  |
 |  | IMPORTANT |  |  |  |  |  |  |  |
@@ -40,7 +40,7 @@
 | 4.1 | Attach a new safety needle to the syringe. |  |  |  |  |  |  |  |
 | 4.2 | Slowly withdraw the desired amount into the syringe. |  |  |  |  |  |  |  |
 |  | SOME EXCESS PRODUCT WILL REMAIN IN THE VIAL. |  |  |  |  |  |  |  |
-| 4.3 | Engage the needle safety device and remove needle from syringe. |  |  |  |  |  |  |  |
+| 4.3 | Engage the needle safety device and remove the needle from syringe. |  |  |  |  |  |  |  |
 | 4.4 | For administration, select the 19-gauge, 1.5-inch (38 mm) Hypodermic Needle-Pro needle with needle protection device. For obese patients, a 2-inch (50 mm), 19-gauge or larger needle (not included in convenience kit) may be used. To help prevent clogging, a 19-gauge or larger needle must be used. |  |  |  |  |  |  |  |
 | 4.5 | Attach the new safety needle to the syringe prior to injection. Once the suspension has been removed from the vial, it should be injected immediately. |  |  |  |  |  |  |  |
 |  | FOR DEEP INTRAMUSCULAR GLUTEAL INJECTION ONLY. |  |  |  |  |  |  |  |
@@ -50,9 +50,13 @@
 |  | DO NOT MASSAGE THE INJECTION SITE. |  |  |  |  |  |  |  |
 | 4.8 | Engage the needle safety device. |  |  |  |  |  |  |  |
 | 4.9 | Dispose of the vials, needles, and syringe appropriately after injection. The vial is for single-use only. |  |  |  |  |  |  |  |
-| JELCO® Hypodermic Needle-Pro® Needle With Needle Protection Device |  |  |  |  |  |  |  |  |
+| Zyprexa® Relprevv™ is a registered trademark of Eli Lilly and Company. |  |  |  |  |  |  |  |  |
+| Copyright © 2009, 2019, Eli Lilly and Company. All rights reserved. |  |  |  |  |  |  |  |  |
+| Literature revised: June 20, 2019 |  |  |  |  |  |  |  |  |
+| ZYPR-0002-IFU-20190620 |  |  |  |  |  |  |  |  |
+| Smiths Medical Jelco® Hypodermic Needle-Pro® Needle With Needle Protection Device |  |  |  |  |  |  |  |  |
 | 1. | DESCRIPTION: |  |  |  |  |  |  |  |
-|  | The Jelco® Hypodermic Needle-Pro® device is a sterile, single use device. It includes a needle and needle safety sheath. The Needle-Pro® device can be used with a Luer slip or Luer lock syringe. |  |  |  |  |  |  |  |
+|  | The Hypodermic Needle-Pro® device is a sterile, single use device. It includes a needle and needle safety sheath. The Needle-Pro® device can be used with a Luer slip or Luer lock syringe. |  |  |  |  |  |  |  |
 | 2. | INDICATIONS FOR USE: |  |  |  |  |  |  |  |
 |  | This device is intended for injection or aspiration of fluids. The needle protection device covers the needle after use to help prevent needle sticks. |  |  |  |  |  |  |  |
 | 3. | CONTRAINDICATIONS: |  |  |  |  |  |  |  |
@@ -74,13 +78,11 @@
 | 6.5 | Only remove the Needle-Pro® device with engaged needle from the syringe when required by a specific medical procedure. Remove by grasping the Luer hub of the needle protection device with thumb and forefinger, keeping the free fingers clear of the end of the device containing the needle point. (See Fig. 3) |  |  |  |  |  |  |  |
 | 6.6 | After use, place sharps in a suitable sharps container. Dispose of contaminated product in a safe manner according to Centers for Disease Control and Prevention, USA and Federal/State/Local regulations (EPA, OSHA) and health care facility guidelines or local equivalent. |  |  |  |  |  |  |  |
 |  | NOTE: Additional dead space added by Needle-Pro® device averages 0.036ml. |  |  |  |  |  |  |  |
-| Caution • Do Not Reuse • Not made with natural rubber latex • Do not use if package is damaged • Sterilized using ethylene oxide • Non-pyrogenic fluid path • Caution: Federal (USA) law restricts this device to sale by or on the order of a physician • Catalogue Number • Batch Code • Date of Manufacture • Use by • Quantity |  |  |  |  |  |  |  |  |
-| The Smiths Medical and Jelco design marks; Needle-Pro; and the color orange applied to the needle protection device are trademarks of Smiths Medical. The symbol ® indicates the trademark is registered in the U.S. Patent and Trademark Office and certain other countries. |  |  |  |  |  |  |  |  |
-| © 2013 Smiths Medical. All rights reserved. |  |  |  |  |  |  |  |  |
+| Needle-Pro; and the color orange applied to the needle protection device, Jelco design mark and Smiths Medical design mark are trademarks of Smiths Medical. The symbol ® indicates the trademark is registered in the U.S. Patent and Trademark Office and certain other countries. |  |  |  |  |  |  |  |  |
+| © 2019 Smiths Medical. All rights reserved. |  |  |  |  |  |  |  |  |
+| Caution • Do Not Reuse • Not made with natural rubber latex • Do not use if package is damaged • Sterilized using ethylene oxide • Non-pyrogenic fluid path • Caution: Federal (USA) law restricts this device to sale by or on the order of a physician • Catalogue Number • Batch Code • Date of Manufacture • Use by • Quantity • Manufacturer • Authorized Representative in the European Community • Keep dry • Keep away from sunlight |  |  |  |  |  |  |  |  |
 | Manufacturer: Smiths Medical ASD, Inc. 10 Bowman Drive, Keene, NH 03431 USA Tel: 1 800 258 5361 (US/CA) Tel: +1 614 210 7300 |  |  |  |  |  |  |  |  |
 | www.smiths-medical.com |  |  |  |  |  |  |  |  |
-| CE 0473 |  |  |  |  |  |  |  |  |
-| Zyprexa® Relprevv™ is a registered trademark of Eli Lilly and Company. |  |  |  |  |  |  |  |  |
-| Copyright © 2009, 2014, Eli Lilly and Company. All rights reserved. |  |  |  |  |  |  |  |  |
-| Literature revised: October 30, 2014 |  |  |  |  |  |  |  |  |
-| ZYPR-0001-IFU-20141030 |  |  |  |  |  |  |  |  |
+| Rx only |  |  |  |  |  |  |  |  |
+| CE 0086 |  |  |  |  |  |  |  |  |
+| ZYPR-0002-SM10018196-001-IFU-20190620 |  |  |  |  |  |  |  |  |

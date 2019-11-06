@@ -12,11 +12,11 @@ The majority of patients were hospitalized and some required supportive care, in
 All patients had largely recovered by 72 hours.
 The risk of an event is the same at each injection, so the risk per patient is cumulative (i.e., increases with the number of injections) [see Overdosage (10.1)].
 
-Healthcare professionals are advised to discuss this potential risk with patients each time they prescribe and administer ZYPREXA RELPREVV [see Patient Counseling Information (17.1, 17.2)].
+Healthcare professionals are advised to discuss this potential risk with patients each time they prescribe and administer ZYPREXA RELPREVV [see Patient Counseling Information (17)].
 
 ## 5.2 Prescribing and Distribution Program for ZYPREXA RELPREVV
 
-ZYPREXA RELPREVV is available only through a restricted distribution program [see Boxed Warning, Indications and Usage (1), and Patient Counseling Information (17.2)].
+ZYPREXA RELPREVV is available only through a restricted distribution program [see Boxed Warning, Indications and Usage (1), and Patient Counseling Information (17)].
 ZYPREXA RELPREVV must not be dispensed directly to a patient.
 For a patient to receive treatment, the prescriber, healthcare facility, patient, and pharmacy must all be enrolled in the ZYPREXA RELPREVV Patient Care Program.
 To enroll, call 1-877-772-9390.
@@ -33,7 +33,7 @@ If parenteral benzodiazepines are required for patient management during an even
 Increased Mortality
 
 Elderly patients with dementia-related psychosis treated with antipsychotic drugs are at an increased risk of death.
-ZYPREXA RELPREVV is not approved for the treatment of patients with dementia-related psychosis [see Boxed Warning, Warnings and Precautions (5.16), and Patient Counseling Information (17.3)].
+ZYPREXA RELPREVV is not approved for the treatment of patients with dementia-related psychosis [see Boxed Warning, Warnings and Precautions (5.16), and Patient Counseling Information (17)].
 
 In placebo-controlled oral olanzapine clinical trials of elderly patients with dementia-related psychosis, the incidence of death in olanzapine-treated patients was significantly greater than placebo-treated patients (3.5% vs 1.5%, respectively).
 
@@ -41,7 +41,7 @@ Cerebrovascular Adverse Events (CVAE), Including Stroke
 
 Cerebrovascular adverse events (e.g., stroke, transient ischemic attack), including fatalities, were reported in patients in trials of oral olanzapine in elderly patients with dementia-related psychosis.
 In placebo-controlled trials, there was a significantly higher incidence of cerebrovascular adverse events in patients treated with oral olanzapine compared to patients treated with placebo.
-ZYPREXA RELPREVV is not approved for the treatment of patients with dementia-related psychosis [see Boxed Warning and Patient Counseling Information (17.3)].
+ZYPREXA RELPREVV is not approved for the treatment of patients with dementia-related psychosis [see Boxed Warning and Patient Counseling Information (17)].
 
 ## 5.4 Suicide
 
@@ -61,14 +61,14 @@ The management of NMS should include: 1) immediate discontinuation of antipsycho
 There is no general agreement about specific pharmacological treatment regimens for NMS.
 
 If a patient requires antipsychotic drug treatment after recovery from NMS, the potential reintroduction of drug therapy should be carefully considered and tolerability with oral olanzapine should be established prior to initiating treatment with ZYPREXA RELPREVV [see Dosage and Administration (2.1)].
-The patient should be carefully monitored, since recurrences of NMS have been reported [see Patient Counseling Information (17.4)].
+The patient should be carefully monitored, since recurrences of NMS have been reported [see Patient Counseling Information (17)].
 
 ## 5.6 Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS)
 
 Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS) has been reported with olanzapine exposure.
 DRESS may present with a cutaneous reaction (such as rash or exfoliative dermatitis), eosinophilia, fever, and/or lymphadenopathy with systemic complications such as hepatitis, nephritis, pneumonitis, myocarditis, and/or pericarditis.
 DRESS is sometimes fatal.
-Discontinue ZYPREXA RELPREVV if DRESS is suspected [see Patient Counseling Information (17.5)].
+Discontinue ZYPREXA RELPREVV if DRESS is suspected [see Patient Counseling Information (17)].
 
 ## 5.7 Metabolic Changes
 
@@ -78,12 +78,12 @@ Olanzapine's specific metabolic profile is presented below.
 
 Hyperglycemia and Diabetes Mellitus
 
-Physicians should consider the risks and benefits when prescribing olanzapine to patients with an established diagnosis of diabetes mellitus, or having borderline increased blood glucose level (fasting 100-126 mg/dL, nonfasting 140-200 mg/dL).
+Healthcare providers should consider the risks and benefits when prescribing olanzapine to patients with an established diagnosis of diabetes mellitus, or having borderline increased blood glucose level (fasting 100-126 mg/dL, nonfasting 140-200 mg/dL).
 Patients taking olanzapine should be monitored regularly for worsening of glucose control.
 Patients starting treatment with olanzapine should undergo fasting blood glucose testing at the beginning of treatment and periodically during treatment.
 Any patient treated with atypical antipsychotics should be monitored for symptoms of hyperglycemia including polydipsia, polyuria, polyphagia, and weakness.
 Patients who develop symptoms of hyperglycemia during treatment with atypical antipsychotics should undergo fasting blood glucose testing.
-In some cases, hyperglycemia has resolved when the atypical antipsychotic was discontinued; however, some patients required continuation of anti-diabetic treatment despite discontinuation of the suspect drug [see Patient Counseling Information (17.6)].
+In some cases, hyperglycemia has resolved when the atypical antipsychotic was discontinued; however, some patients required continuation of anti-diabetic treatment despite discontinuation of the suspect drug [see Patient Counseling Information (17)].
 
 Hyperglycemia, in some cases extreme and associated with ketoacidosis or hyperosmolar coma or death, has been reported in patients treated with atypical antipsychotics including olanzapine.
 Assessment of the relationship between atypical antipsychotic use and glucose abnormalities is complicated by the possibility of an increased background risk of diabetes mellitus in patients with schizophrenia and the increasing incidence of diabetes mellitus in the general population.
@@ -138,7 +138,7 @@ Table 3: Changes in Fasting Glucose Levels from Adolescent Oral Olanzapine Monot
 Dyslipidemia
 
 Undesirable alterations in lipids have been observed with olanzapine use.
-Clinical monitoring, including baseline and periodic follow-up lipid evaluations in patients using olanzapine, is recommended [see Patient Counseling Information (17.7)].
+Clinical monitoring, including baseline and periodic follow-up lipid evaluations in patients using olanzapine, is recommended [see Patient Counseling Information (17)].
 
 Clinically significant, and sometimes very high (>500 mg/dL), elevations in triglyceride levels have been observed with olanzapine use.
 Modest mean increases in total cholesterol have also been seen with olanzapine use.
@@ -221,7 +221,7 @@ Table 5: Changes in Fasting Lipids Values from Adolescent Oral Olanzapine Monoth
 Weight Gain
 
 Potential consequences of weight gain should be considered prior to starting olanzapine.
-Patients receiving olanzapine should receive regular monitoring of weight [see Patient Counseling Information (17.8)].
+Patients receiving olanzapine should receive regular monitoring of weight [see Patient Counseling Information (17)].
 
 Olanzapine Monotherapy in Adults — In an analysis of 13 placebo-controlled olanzapine monotherapy studies, olanzapine-treated patients gained an average of 2.6 kg (5.7 lb) compared to an average 0.3 kg (0.6 lb) weight loss in placebo-treated patients with a median exposure of 6 weeks; 22.2% of olanzapine-treated patients gained at least 7% of their baseline weight, compared to 3% of placebo-treated patients, with a median exposure to event of 8 weeks; 4.2% of olanzapine-treated patients gained at least 15% of their baseline weight, compared to 0.3% of placebo-treated patients, with a median exposure to event of 12 weeks.
 Clinically significant weight gain was observed across all baseline Body Mass Index (BMI) categories.
@@ -303,7 +303,7 @@ Whether antipsychotic drug products differ in their potential to cause tardive d
 The risk of developing tardive dyskinesia and the likelihood that it will become irreversible are believed to increase as the duration of treatment and the total cumulative dose of antipsychotic drugs administered to the patient increase.
 However, the syndrome can develop, although much less commonly, after relatively brief treatment periods at low doses or may even arise after discontinuation of treatment.
 
-There is no known treatment for established cases of tardive dyskinesia, although the syndrome may remit, partially or completely, if antipsychotic treatment is withdrawn.
+Tardive dyskinesia may remit, partially or completely, if antipsychotic treatment is withdrawn.
 Antipsychotic treatment, itself, however, may suppress (or partially suppress) the signs and symptoms of the syndrome and thereby may possibly mask the underlying process.
 The effect that symptomatic suppression has upon the long-term course of the syndrome is unknown.
 
@@ -317,7 +317,7 @@ However, some patients may require treatment with olanzapine despite the presenc
 
 ## 5.9 Orthostatic Hypotension
 
-ZYPREXA RELPREVV may induce orthostatic hypotension associated with dizziness, tachycardia, bradycardia and, in some patients, syncope, probably reflecting its α1-adrenergic antagonistic properties [see Patient Counseling Information (17.9)].
+ZYPREXA RELPREVV may induce orthostatic hypotension associated with dizziness, tachycardia, bradycardia and, in some patients, syncope, probably reflecting its α1-adrenergic antagonistic properties [see Patient Counseling Information (17)].
 Syncope-related adverse reactions were reported in 0.1% of patients treated with ZYPREXA RELPREVV in clinical studies.
 
 From an analysis of the vital sign data in an integrated database of 41 completed clinical studies in adult patients treated with oral olanzapine, orthostatic hypotension was recorded in ≥20% (1277/6030) of patients.
@@ -365,12 +365,12 @@ Sedation was a commonly reported adverse reaction associated with ZYPREXA RELPRE
 Somnolence and sedation adverse reactions led to discontinuation in 0.6% of patients in the premarketing ZYPREXA RELPREVV database.
 
 Since olanzapine has the potential to impair judgment, thinking, or motor skills, patients should be cautioned about operating hazardous machinery, including automobiles, until they are reasonably certain that olanzapine therapy does not affect them adversely.
-However, due to the risk of post-injection delirium/sedation syndrome after each injection, patients should not drive or operate heavy machinery for the remainder of the day of each injection [see Dosage and Administration (2.1), Warnings and Precautions (5.1), and Patient Counseling Information (17.10)].
+However, due to the risk of post-injection delirium/sedation syndrome after each injection, patients should not drive or operate heavy machinery for the remainder of the day of each injection [see Dosage and Administration (2.1), Warnings and Precautions (5.1), and Patient Counseling Information (17)].
 
 ## 5.15 Body Temperature Regulation
 
 Disruption of the body's ability to reduce core body temperature has been attributed to antipsychotic agents.
-Appropriate care is advised when prescribing ZYPREXA RELPREVV for patients who will be experiencing conditions which may contribute to an elevation in core body temperature, e.g., exercising strenuously, exposure to extreme heat, receiving concomitant medication with anticholinergic activity, or being subject to dehydration [see Patient Counseling Information (17.11)].
+Appropriate care is advised when prescribing ZYPREXA RELPREVV for patients who will be experiencing conditions which may contribute to an elevation in core body temperature, e.g., exercising strenuously, exposure to extreme heat, receiving concomitant medication with anticholinergic activity, or being subject to dehydration [see Patient Counseling Information (17)].
 
 ## 5.16 Use in Patients with Concomitant Illness
 
@@ -383,7 +383,7 @@ Such adverse reactions were not often the basis for discontinuations from olanza
 In 5 placebo-controlled studies of oral olanzapine in elderly patients with dementia-related psychosis (n=1184), the following treatment-emergent adverse reactions were reported in olanzapine-treated patients at an incidence of at least 2% and significantly greater than placebo-treated patients: falls, somnolence, peripheral edema, abnormal gait, urinary incontinence, lethargy, increased weight, asthenia, pyrexia, pneumonia, dry mouth and visual hallucinations.
 The rate of discontinuation due to adverse reactions was significantly greater with oral olanzapine than placebo (13% vs 7%).
 Elderly patients with dementia-related psychosis treated with olanzapine are at an increased risk of death compared to placebo.
-Olanzapine is not approved for the treatment of patients with dementia-related psychosis [see Boxed Warning, Warnings and Precautions (5.3), and Patient Counseling Information (17.3)].
+Olanzapine is not approved for the treatment of patients with dementia-related psychosis [see Boxed Warning, Warnings and Precautions (5.3), and Patient Counseling Information (17)].
 
 Olanzapine has not been evaluated or used to any appreciable extent in patients with a recent history of myocardial infarction or unstable heart disease.
 Patients with these diagnoses were excluded from premarketing clinical studies.
@@ -419,4 +419,4 @@ In a single 8-week randomized, double-blind, fixed-dose study comparing 10 (N=19
 
 ## 5.18 Laboratory Tests
 
-Fasting blood glucose testing and lipid profile at the beginning of, and periodically during, treatment is recommended [see Warnings and Precautions (5.7) and Patient Counseling Information (17.6, 17.7)].
+Fasting blood glucose testing and lipid profile at the beginning of, and periodically during, treatment is recommended [see Warnings and Precautions (5.7) and Patient Counseling Information (17)].
