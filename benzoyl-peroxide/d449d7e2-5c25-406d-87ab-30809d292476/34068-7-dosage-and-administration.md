@@ -26,4 +26,4 @@ Keep out of the reach of children.
 
 Rx only
 
-Mfd. by: Lyne Laboratories, Inc., Brockton, MA 02301 Mfd. for: Rising Pharmaceuticals, Inc., Allendale, NJ 07401 R1-04/17
+Mfd. by: Lyne Laboratories, Inc., Brockton, MA 02301 Dist. by: Rising Pharmaceuticals, Inc., Saddle Brook, NJ 07663 R2-05/18
