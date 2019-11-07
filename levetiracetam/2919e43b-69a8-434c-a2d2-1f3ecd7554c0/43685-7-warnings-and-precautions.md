@@ -74,9 +74,6 @@ Anyone considering prescribing KEPPRA XR or any other AED must balance the risk 
 Epilepsy and many other illnesses for which AEDs are prescribed are themselves associated with morbidity and mortality and an increased risk of suicidal thoughts and behavior.
 Should suicidal thoughts and behavior emerge during treatment, the prescriber needs to consider whether the emergence of these symptoms in any given patient may be related to the illness being treated.
 
-Patients, their caregivers, and families should be informed that AEDs increase the risk of suicidal thoughts and behavior and should be advised of the need to be alert for the emergence or worsening of the signs and symptoms of depression, any unusual changes in mood or behavior, or the emergence of suicidal thoughts, behavior, or thoughts about self-harm.
-Behaviors of concern should be reported immediately to healthcare providers.
-
 ## 5.3 Somnolence and Fatigue
 
 KEPPRA XR may cause somnolence and fatigue.
@@ -86,7 +83,7 @@ Somnolence
 
 KEPPRA XR Tablets
 
-In the KEPPRA XR double-blind, controlled trial in patients experiencing partial onset seizures, 8% of KEPPRA XR-treated patients experienced somnolence compared to 3% of placebo-treated patients.
+In the KEPPRA XR double-blind, controlled trial in patients experiencing partial-onset seizures, 8% of KEPPRA XR-treated patients experienced somnolence compared to 3% of placebo-treated patients.
 
 No patient discontinued treatment or had a dose reduction as a result of these adverse reactions.
 
@@ -95,7 +92,7 @@ Therefore, certain adverse reactions observed in the immediate-release KEPPRA co
 
 Immediate-Release KEPPRA Tablets
 
-In controlled trials of adult patients with epilepsy experiencing partial onset seizures, 15% of KEPPRA-treated patients reported somnolence, compared to 8% of placebo-treated patients.
+In controlled trials of adult patients with epilepsy experiencing partial-onset seizures, 15% of KEPPRA-treated patients reported somnolence, compared to 8% of placebo-treated patients.
 There was no clear dose response up to 3000 mg/day.
 In a study where there was no titration, about 45% of patients receiving 4000 mg/day reported somnolence.
 The somnolence was considered serious in 0.3% of the KEPPRA-treated patients, compared to 0% in the placebo group.
@@ -106,7 +103,7 @@ Asthenia
 
 Immediate-Release KEPPRA Tablets
 
-In controlled trials of adult patients with epilepsy experiencing partial onset seizures, 15% of KEPPRA-treated patients reported asthenia, compared to 9% of placebo-treated patients.
+In controlled trials of adult patients with epilepsy experiencing partial-onset seizures, 15% of KEPPRA-treated patients reported asthenia, compared to 9% of placebo-treated patients.
 Treatment was discontinued due to asthenia in 0.8% of KEPPRA-treated patients as compared to 0.5% of placebo-treated patients.
 In 0.5% of KEPPRA-treated patients and in 0.2% of placebo-treated patients, the dose was reduced due to asthenia.
 
@@ -144,7 +141,8 @@ Patients should be monitored for these signs and symptoms and advised not to dri
 
 ## 5.7 Withdrawal Seizures
 
-Antiepileptic drugs, including KEPPRA XR, should be withdrawn gradually to minimize the potential of increased seizure frequency.
+As with most antiepileptic drugs, KEPPRA XR should generally be withdrawn gradually because of the risk of increased seizure frequency and status epilepticus.
+If withdrawal is needed because of a serious adverse reaction, rapid discontinuation can be considered.
 
 ## 5.8 Hematologic Abnormalities
 
@@ -153,19 +151,12 @@ Hematologic abnormalities occurred in clinical trials and included decreases in 
 Cases of agranulocytosis, pancytopenia, and thrombocytopenia have also been reported in the postmarketing setting.
 A complete blood count is recommended in patients experiencing significant weakness, pyrexia, recurrent infections, or coagulation disorders.
 
-In controlled trials of immediate-release KEPPRA tablets in patients experiencing partial onset seizures, minor, but statistically significant, decreases compared to placebo in total mean RBC count (0.03 × 10 /mm), mean hemoglobin (0.09 g/dL), and mean hematocrit (0.38%), were seen in immediate-release KEPPRA-treated patients.
-In controlled trials of immediate-release KEPPRA tablets in patients experiencing partial onset seizures, minor, but statistically significant, decreases compared to placebo in total mean RBC count (0.03 × 106/mm3), mean hemoglobin (0.09 g/dL), and mean hematocrit (0.38%), were seen in immediate-release KEPPRA-treated patients.
+In controlled trials of immediate-release KEPPRA tablets in patients experiencing partial-onset seizures, minor, but statistically significant, decreases compared to placebo in total mean RBC count (0.03 × 106/mm3), mean hemoglobin (0.09 g/dL), and mean hematocrit (0.38%), were seen in immediate-release KEPPRA-treated patients.
 
-A total of 3.2% of KEPPRA-treated and 1.8% of placebo-treated patients had at least one possibly significant (≤2.8 × 10 /L) decreased WBC, and 2.4% of KEPPRA-treated and 1.4% of placebo-traeted patients had at least one possibly significant (≤1.0 × 10 /L) decreased neutrophil count.
-Of the KEPPRA-treated patients with a low neutrophil count, all but one rose towards or to baseline with continued treatment.
-No patient was discontinued secondary to low neutrophil counts.
-A total of 3.2% of KEPPRA-treated and 1.8% of placebo-treated patients had at least one possibly significant (≤2.8 × 109/L) decreased WBC, and 2.4% of KEPPRA-treated and 1.4% of placebo-traeted patients had at least one possibly significant (≤1.0 × 109/L) decreased neutrophil count.
+A total of 3.2% of KEPPRA-treated and 1.8% of placebo-treated patients had at least one possibly significant (≤2.8 × 109/L) decreased WBC, and 2.4% of KEPPRA-treated and 1.4% of placebo-treated patients had at least one possibly significant (≤1.0 × 109/L) decreased neutrophil count.
 Of the KEPPRA-treated patients with a low neutrophil count, all but one rose towards or to baseline with continued treatment.
 No patient was discontinued secondary to low neutrophil counts.
 
-In pediatric patients (4 to <16 years of age), statistically significant decreases in WBC and neutrophil counts were seen in patients treated with immediate-release KEPPRA, as compared to placebo.
-The mean decreases from baseline in the immediate-release KEPPRA group were -0.4 × 10 /L and -0.3 × 10 /L, respectively, whereas there were small increases in the placebo group.
-A significant increase in mean relative lymphocyte counts was observed in 1.7% of patients treated with immediate-release KEPPRA compared to a decrease of 4% in patients on placebo.
 In pediatric patients (4 to <16 years of age), statistically significant decreases in WBC and neutrophil counts were seen in patients treated with immediate-release KEPPRA, as compared to placebo.
 The mean decreases from baseline in the immediate-release KEPPRA group were -0.4 × 109/L and -0.3 × 109/L, respectively, whereas there were small increases in the placebo group.
 A significant increase in mean relative lymphocyte counts was observed in 1.7% of patients treated with immediate-release KEPPRA compared to a decrease of 4% in patients on placebo.
@@ -173,11 +164,7 @@ A significant increase in mean relative lymphocyte counts was observed in 1.7% o
 In the controlled pediatric trial, a possibly clinically significant abnormal low WBC value was observed in 3% of patients treated with immediate-release KEPPRA, compared to no patients on placebo.
 However, there was no apparent difference between treatment groups with respect to neutrophil count.
 No patient was discontinued secondary to low WBC or neutrophil counts.
-In the controlled pediatric trial, a possibly clinically significant abnormal low WBC value was observed in 3% of patients treated with immediate-release KEPPRA, compared to no patients on placebo.
-However, there was no apparent difference between treatment groups with respect to neutrophil count.
-No patient was discontinued secondary to low WBC or neutrophil counts.
 
-In the controlled pediatric cognitive and neuropsychological safety study, two subjects (6.1%) in the placebo group and 5 subjects (8.6%) in the immediate-release KEPPRA-treated group had high eosinophil count values that were possibly clinically significant (≥10% or ≥0.7×10 /L).
 In the controlled pediatric cognitive and neuropsychological safety study, two subjects (6.1%) in the placebo group and 5 subjects (8.6%) in the immediate-release KEPPRA-treated group had high eosinophil count values that were possibly clinically significant (≥10% or ≥0.7×109/L).
 
 ## 5.9 Seizure Control During Pregnancy

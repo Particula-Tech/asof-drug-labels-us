@@ -32,9 +32,12 @@ They should not be chewed, broken, or crushed.
 
 Inform patients that they should not be concerned if they occasionally notice something that looks like swollen pieces of the original tablet in their stool.
 
+Withdrawal of KEPPRA
+
+Advise patients and caregivers not to discontinue use of KEPPRA XR without consulting with their healthcare provider.
+KEPPRA XR should normally be gradually withdrawn to reduce the potential of increased seizure frequency and status epilepticus [see Warnings and Precautions (5.7)].
+
 Pregnancy
 
-Advise patients to notify their healthcare provider if they become pregnant or intend to become pregnant during KEPPRA XR therapy.
-Encourage patients to enroll in the North American Antiepileptic Drug (NAAED) pregnancy registry if they become pregnant.
-This registry is collecting information about the safety of antiepileptic drugs during pregnancy.
-To enroll, patients can call the toll free number 1-888-233-2334 [see Use in Specific Populations (8.1)].
+Advise patients to notify their healthcare provider if they become pregnant or intend to become pregnant during KEPPRA therapy.
+Encourage patients to enroll in the North American Antiepileptic Drug (NAAED) pregnancy registry if they become pregnant [see Use in Specific Populations (8.1)].

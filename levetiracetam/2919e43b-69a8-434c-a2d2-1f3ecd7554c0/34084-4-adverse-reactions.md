@@ -3,8 +3,8 @@
 The following adverse reactions are discussed in more details in other sections of labeling:
 
 - Behavioral abnormalities and Psychotic Symptoms [see Warnings and Precautions (5.1)]
-- Suicidal Behavior And Ideation [see Warnings and Precautions (5.2)]
-- Somnolence And Fatigue [see Warnings and Precautions (5.3)]
+- Suicidal Behavior and Ideation [see Warnings and Precautions (5.2)]
+- Somnolence and Fatigue [see Warnings and Precautions (5.3)]
 - Anaphylaxis and Angioedema [see Warnings and Precautions (5.4)]
 - Serious Dermatological Reactions [see Warnings and Precautions (5.5)]
 - Coordination Difficulties [see Warnings and Precautions (5.6)]
@@ -16,12 +16,12 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 
 KEPPRA XR Tablets
 
-In the controlled clinical study in patients with partial onset seizures, the most common adverse reactions in patients receiving KEPPRA XR in combination with other AEDs, for events with rates greater than placebo, were irritability and somnolence.
+In the controlled clinical study in patients with partial-onset seizures [see Clinical Studies (14.1)], the most common adverse reactions in patients receiving KEPPRA XR in combination with other AEDs, for events with rates greater than placebo, were irritability and somnolence.
 
 Table 3 lists adverse reactions that occurred in at least 5% of epilepsy patients receiving KEPPRA XR in the placebo-controlled study and were numerically more common than in patients treated with placebo.
 In this study, either KEPPRA XR or placebo was added to concurrent AED therapy.
 
-Table 3: Adverse Reactions in the Placebo-Controlled, Add-On Study in Patients Experiencing Partial Onset Seizures
+Table 3: Adverse Reactions in the Placebo-Controlled, Adjunctive Study in Patients Experiencing Partial-Onset Seizures
 
 |  | KEPPRA XR (N=77) % | Placebo (N=79) % |
 | --- | --- | --- |
@@ -40,18 +40,18 @@ Each of these adverse reactions led to discontinuation in a KEPPRA XR-treated pa
 
 Immediate-Release KEPPRA Tablets
 
-Table 4 lists the adverse reactions in the controlled studies of immediate-release KEPPRA tablets in adult patients experiencing partial onset seizures.
-Although the pattern of adverse reactions in the KEPPRA XR study seems somewhat different from that seen in partial onset seizure controlled studies for immediate-release KEPPRA tablets, this is possibly due to the much smaller number of patients in this study compared to the immediate-release tablet studies.
+Table 4 lists the adverse reactions in the controlled studies of immediate-release KEPPRA tablets in adult patients experiencing partial-onset seizures [see Clinical Studies (14.2)].
+Although the pattern of adverse reactions in the KEPPRA XR study seems somewhat different from that seen in partial-onset seizure controlled studies for immediate-release KEPPRA tablets, this is possibly due to the much smaller number of patients in this study compared to the immediate-release tablet studies.
 The adverse reactions for KEPPRA XR are expected to be similar to those seen with immediate-release KEPPRA tablets.
 
 Adults
 
-In controlled clinical studies of immediate-release KEPPRA tablets as adjunctive therapy to other AEDs in adults with partial onset seizures, the most common adverse reactions, for events with rates greater than placebo, were somnolence, asthenia, infection, and dizziness.
+In controlled clinical studies of immediate-release KEPPRA tablets as adjunctive therapy to other AEDs in adults with partial-onset seizures, the most common adverse reactions, for events with rates greater than placebo, were somnolence, asthenia, infection, and dizziness.
 
 Table 4 lists adverse reactions that occurred in at least 1% of adult epilepsy patients receiving immediate-release KEPPRA tablets in placebo-controlled studies and were numerically more common than in patients treated with placebo.
 In these studies, either immediate-release KEPPRA tablets or placebo was added to concurrent AED therapy.
 
-Table 4: Adverse Reactions in Pooled Placebo-Controlled, Add-On Studies in Adults Experiencing Partial Onset Seizures
+Table 4: Adverse Reactions in Pooled Placebo-Controlled, Adjunctive Studies in Adults Experiencing Partial-Onset Seizures
 
 |  | KEPPRA (N=769) % | Placebo (N=439) % |
 | --- | --- | --- |
@@ -79,13 +79,13 @@ Table 4: Adverse Reactions in Pooled Placebo-Controlled, Add-On Studies in Adult
 
 Pediatric Patients 4 Years to <16 Years
 
-In a pooled analysis of two controlled pediatric clinical studies in children 4 to 16 years of age with partial onset seizures, the adverse reactions most frequently reported with the use of immediate-release KEPPRA in combination with other AEDs, and with greater frequency than in patients on placebo, were fatigue, aggression, nasal congestion, decreased appetite, and irritability.
+In a pooled analysis of two controlled pediatric clinical studies in children 4 to 16 years of age with partial-onset seizures [see Clinical Studies (14.3)], the adverse reactions most frequently reported with the use of immediate-release KEPPRA in combination with other AEDs, and with greater frequency than in patients on placebo, were fatigue, aggression, nasal congestion, decreased appetite, and irritability.
 
 Table 5 lists adverse reactions that occurred in at least 2% of pediatric patients treated with immediate-release KEPPRA and were more common than in pediatric patients on placebo.
 In these studies, either immediate-release KEPPRA or placebo was added to concurrent AED therapy.
 Adverse reactions were usually mild to moderate in intensity.
 
-Table 5: Adverse Reactions in Pooled Placebo-Controlled, Add-On Studies in Pediatric Patients Ages 4 to 16 Years Experiencing Partial Onset Seizures
+Table 5: Adverse Reactions in Pooled Placebo-Controlled, Adjunctive Studies in Pediatric Patients Ages 4 to 16 Years Experiencing Partial-Onset Seizures
 
 |  | KEPPRA (N=165) % | Placebo (N=131) % |
 | --- | --- | --- |
@@ -95,7 +95,7 @@ Table 5: Adverse Reactions in Pooled Placebo-Controlled, Add-On Studies in Pedia
 | Somnolence | 13 | 9 |
 | Fatigue | 11 | 5 |
 | Aggression | 10 | 5 |
-| Abdominal Pain Upper | 9 | 8 |
+| Upper Abdominal Pain | 9 | 8 |
 | Cough | 9 | 5 |
 | Nasal Congestion | 9 | 2 |
 | Decreased Appetite | 8 | 2 |

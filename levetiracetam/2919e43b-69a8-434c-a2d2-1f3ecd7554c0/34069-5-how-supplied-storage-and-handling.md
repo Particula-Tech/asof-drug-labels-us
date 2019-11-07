@@ -10,4 +10,4 @@ They are supplied in white HDPE bottles containing 60 tablets (NDC 50474-599-66)
 
 ## 16.2 Storage
 
-Store at 25°C (77°F); excursions permitted to 15-30°C (59-86°F) [see USP Controlled Room Temperature].
+Store at 25°C (77°F); excursions permitted to 15°C to 30°C (59°F to 86°F) [see USP Controlled Room Temperature].
