@@ -1,4 +1,4 @@
-# HOW SUPPLIED:
+# HOW SUPPLIED
 
 Oral Solution, 60 mg pyridostigmine bromide per teaspoonful (5 mL) and 5% alcohol - bottles of 16 fluid ounces (1 pint) (NDC 0187-3012-20).
 
