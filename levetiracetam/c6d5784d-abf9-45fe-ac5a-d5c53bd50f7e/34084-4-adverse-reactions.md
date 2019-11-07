@@ -17,17 +17,17 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 The adverse reactions that result from KEPPRA injection use include all of those reported for KEPPRA tablets and oral solution.
 Equivalent doses of intravenous (IV) levetiracetam and oral levetiracetam result in equivalent Cmax, Cmin, and total systemic exposure to levetiracetam when the IV levetiracetam is administered as a 15-minute infusion.
 
-Partial Onset Seizures
+Partial-Onset Seizures
 
 Adults
 
-In controlled clinical studies using KEPPRA tablets in adults with partial onset seizures, the most common adverse reactions in adult patients receiving KEPPRA in combination with other AEDs, for events with rates greater than placebo, were somnolence, asthenia, infection, and dizziness.
-Of the most common adverse reactions in adults experiencing partial onset seizures, asthenia, somnolence, and dizziness occurred predominantly during the first 4 weeks of treatment with KEPPRA.
+In controlled clinical studies using KEPPRA tablets in adults with partial-onset seizures [see Clinical Studies (14.1)], the most common adverse reactions in adult patients receiving KEPPRA in combination with other AEDs, for events with rates greater than placebo, were somnolence, asthenia, infection, and dizziness.
+Of the most common adverse reactions in adults experiencing partial-onset seizures, asthenia, somnolence, and dizziness occurred predominantly during the first 4 weeks of treatment with KEPPRA.
 
 Table 3 lists adverse reactions that occurred in at least 1% of adult epilepsy patients receiving KEPPRA tablets in placebo-controlled studies and were numerically more common than in patients treated with placebo.
 In these studies, either KEPPRA or placebo was added to concurrent AED therapy.
 
-Table 3: Adverse ReactionsAdverse reactions occurred in at least 1% of KEPPRA-treated patients and occurred more frequently than placebo-treated patients in Pooled Placebo-Controlled, Add-On Studies in Adults Experiencing Partial Onset Seizures
+Table 3: Adverse ReactionsAdverse reactions occurred in at least 1% of KEPPRA-treated patients and occurred more frequently than placebo-treated patients in Pooled Placebo-Controlled, Adjunctive Studies in Adults Experiencing Partial-Onset Seizures
 
 |  | KEPPRA (N=769) % | Placebo (N=439) % |
 | --- | --- | --- |
@@ -56,7 +56,7 @@ Table 3: Adverse ReactionsAdverse reactions occurred in at least 1% of KEPPRA-tr
 In controlled adult clinical studies using KEPPRA tablets, 15% of patients receiving KEPPRA and 12% receiving placebo either discontinued or had a dose reduction as a result of an adverse reaction.
 Table 4 lists the most common (>1%) adverse reactions that resulted in discontinuation or dose reduction and that occurred more frequently in KEPPRA-treated patients than in placebo-treated patients.
 
-Table 4: Adverse Reactions that Resulted in Discontinuation or Dose Reduction in Pooled Placebo-Controlled Studies in Adults Experiencing Partial Onset Seizures
+Table 4: Adverse Reactions that Resulted in Discontinuation or Dose Reduction in Pooled Placebo-Controlled Studies in Adults Experiencing Partial-Onset Seizures
 
 | Adverse Reaction | KEPPRA (N=769) % | Placebo (N=439) % |
 | --- | --- | --- |
@@ -65,13 +65,13 @@ Table 4: Adverse Reactions that Resulted in Discontinuation or Dose Reduction in
 
 Pediatric Patients 4 Years to <16 Years
 
-The adverse reaction data presented below was obtained from a pooled analysis of two controlled pediatric clinical studies using an oral formulation in pediatric patients 4 to 16 years of age with partial onset seizures.
+The adverse reaction data presented below was obtained from a pooled analysis of two controlled pediatric clinical studies using an oral formulation in pediatric patients 4 to 16 years of age with partial-onset seizures.
 The most common adverse reactions in pediatric patients receiving KEPPRA in combination with other AEDs, for events with rates greater than placebo, were fatigue, aggression, nasal congestion, decreased appetite, and irritability.
 
 Table 5 lists adverse reactions from the pooled pediatric controlled studies (4 to 16 years of age) that occurred in at least 2% of pediatric KEPPRA-treated patients and were numerically more common than in pediatric patients treated with placebo.
 In these studies, either KEPPRA or placebo was added to concurrent AED therapy.
 
-Table 5: Adverse ReactionsAdverse reactions occurred in at least 2% of pediatric KEPPRA-treated patients and occurred more frequently than placebo-treated patients in Pooled Placebo-Controlled, Add-On Studies in Pediatric Patients Ages 4 to 16 Years Experiencing Partial Onset Seizures
+Table 5: Adverse ReactionsAdverse reactions occurred in at least 2% of pediatric KEPPRA-treated patients and occurred more frequently than placebo-treated patients in Pooled Placebo-Controlled, Adjunctive Studies in Pediatric Patients Ages 4 to 16 Years Experiencing Partial-Onset Seizures
 
 |  | KEPPRA (N=165) % | Placebo (N=131) % |
 | --- | --- | --- |
@@ -81,7 +81,7 @@ Table 5: Adverse ReactionsAdverse reactions occurred in at least 2% of pediatric
 | Somnolence | 13 | 9 |
 | Fatigue | 11 | 5 |
 | Aggression | 10 | 5 |
-| Abdominal Pain Upper | 9 | 8 |
+| Upper Abdominal Pain | 9 | 8 |
 | Cough | 9 | 5 |
 | Nasal Congestion | 9 | 2 |
 | Decreased Appetite | 8 | 2 |
@@ -118,14 +118,14 @@ In the controlled pooled pediatric clinical studies in patients 4-16 years of ag
 
 Pediatric Patients 1 Month to < 4 Years
 
-In the 7-day controlled pediatric clinical study using an oral formulation of KEPPRA in children 1 month to less than 4 years of age with partial onset seizures, the most common adverse reactions in patients receiving KEPPRA in combination with other AEDs, for events with rates greater than placebo, were somnolence and irritability.
+In the 7-day controlled pediatric clinical study using an oral formulation of KEPPRA in children 1 month to less than 4 years of age with partial-onset seizures, the most common adverse reactions in patients receiving KEPPRA in combination with other AEDs, for events with rates greater than placebo, were somnolence and irritability.
 Because of the shorter exposure period, incidences of adverse reactions are expected to be lower than in other pediatric studies in older patients.
 Therefore, other controlled pediatric data, presented above, should also be considered to apply to this age group.
 
 Table 6 lists adverse reactions that occurred in at least 5% of pediatric epilepsy patients (ages 1 month to < 4 years) treated with KEPPRA in the placebo-controlled study and were numerically more common than in patients treated with placebo.
 In this study, either KEPPRA or placebo was added to concurrent AED therapy.
 
-Table 6: Adverse ReactionsAdverse reactions occurred in at least 5% of KEPPRA-treated patients and occurred more frequently than placebo-treated patients in a Placebo-Controlled, Add-On Study in Pediatric Patients Ages 1 Month to < 4 Years Experiencing Partial Onset Seizures
+Table 6: Adverse ReactionsAdverse reactions occurred in at least 5% of KEPPRA-treated patients and occurred more frequently than placebo-treated patients in a Placebo-Controlled, Adjunctive Study in Pediatric Patients Ages 1 Month to < 4 Years Experiencing Partial-Onset Seizures
 
 |  | KEPPRA (N=60) % | Placebo (N=56) % |
 | --- | --- | --- |
@@ -137,15 +137,15 @@ There was no adverse reaction that resulted in discontinuation for more than one
 
 Myoclonic Seizures
 
-Although the pattern of adverse reactions in this study seems somewhat different from that seen in patients with partial seizures, this is likely due to the much smaller number of patients in this study compared to partial seizure studies.
+Although the pattern of adverse reactions in this study seems somewhat different from that seen in patients with partial-onset seizures, this is likely due to the much smaller number of patients in this study compared to partial seizure studies.
 The adverse reaction pattern for patients with JME is expected to be essentially the same as for patients with partial seizures.
 
-In the controlled clinical study using KEPPRA tablets in patients with myoclonic seizures, the most common adverse reactions in patients receiving KEPPRA in combination with other AEDs, for events with rates greater than placebo, were somnolence, neck pain, and pharyngitis.
+In the controlled clinical study using KEPPRA tablets in patients with myoclonic seizures [see Clinical Studies (14.2)], the most common adverse reactions in patients receiving KEPPRA in combination with other AEDs, for events with rates greater than placebo, were somnolence, neck pain, and pharyngitis.
 
 Table 7 lists adverse reactions that occurred in at least 5% of juvenile myoclonic epilepsy patients experiencing myoclonic seizures treated with KEPPRA tablets and were numerically more common than in patients treated with placebo.
 In this study, either KEPPRA or placebo was added to concurrent AED therapy.
 
-Table 7: Adverse ReactionsAdverse reactions occurred in at least 5% of KEPPRA-treated patients and occurred more frequently than placebo-treated patients in a Placebo-Controlled, Add-On Study in Patients 12 Years of Age and Older with Myoclonic Seizures
+Table 7: Adverse ReactionsAdverse reactions occurred in at least 5% of KEPPRA-treated patients and occurred more frequently than placebo-treated patients in a Placebo-Controlled, Adjunctive Study in Patients 12 Years of Age and Older with Myoclonic Seizures
 
 |  | KEPPRA (N=60) % | Placebo (N=60) % |
 | --- | --- | --- |
@@ -183,7 +183,7 @@ In the controlled clinical study that included patients 4 years of age and older
 Table 9 lists adverse reactions that occurred in at least 5% of idiopathic generalized epilepsy patients experiencing PGTC seizures treated with KEPPRA and were numerically more common than in patients treated with placebo.
 In this study, either KEPPRA or placebo was added to concurrent AED therapy.
 
-Table 9: Adverse ReactionsAdverse reactions occurred in at least 5% of KEPPRA-treated patients and occurred more frequently than placebo-treated patients in a Placebo-Controlled, Add-On Study in Patients 4 Years of Age and Older with PGTC Seizures
+Table 9: Adverse ReactionsAdverse reactions occurred in at least 5% of KEPPRA-treated patients and occurred more frequently than placebo-treated patients in a Placebo-Controlled, Adjunctive Study in Patients 4 Years of Age and Older with PGTC Seizures
 
 |  | KEPPRA (N=79) % | Placebo (N=84) % |
 | --- | --- | --- |

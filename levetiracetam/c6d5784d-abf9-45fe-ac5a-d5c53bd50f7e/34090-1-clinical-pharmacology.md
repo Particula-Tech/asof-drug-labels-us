@@ -3,17 +3,6 @@
 ## 12.1 Mechanism of Action
 
 The precise mechanism(s) by which levetiracetam exerts its antiepileptic effect is unknown.
-The antiepileptic activity of levetiracetam was assessed in a number of animal models of epileptic seizures.
-Levetiracetam did not inhibit single seizures induced by maximal stimulation with electrical current or different chemoconvulsants and showed only minimal activity in submaximal stimulation and in threshold tests.
-Protection was observed, however, against secondarily generalized activity from focal seizures induced by pilocarpine and kainic acid, two chemoconvulsants that induce seizures that mimic some features of human complex partial seizures with secondary generalization.
-Levetiracetam also displayed inhibitory properties in the kindling model in rats, another model of human complex partial seizures, both during kindling development and in the fully kindled state.
-The predictive value of these animal models for specific types of human epilepsy is uncertain.
-
-In vitro and in vivo recordings of epileptiform activity from the hippocampus have shown that levetiracetam inhibits burst firing without affecting normal neuronal excitability, suggesting that levetiracetam may selectively prevent hypersynchronization of epileptiform burst firing and propagation of seizure activity.
-
-Levetiracetam at concentrations of up to 10 µM did not demonstrate binding affinity for a variety of known receptors, such as those associated with benzodiazepines, GABA (gamma-aminobutyric acid), glycine, NMDA (N-methyl-D-aspartate), re-uptake sites, and second messenger systems.
-Furthermore, in vitro studies have failed to find an effect of levetiracetam on neuronal voltage-gated sodium or T-type calcium currents and levetiracetam does not appear to directly facilitate GABAergic neurotransmission.
-However, in vitro studies have demonstrated that levetiracetam opposes the activity of negative modulators of GABA- and glycine-gated currents and partially inhibits N-type calcium currents in neuronal cells.
 
 A saturable and stereoselective neuronal binding site in rat brain tissue has been described for levetiracetam.
 Experimental data indicate that this binding site is the synaptic vesicle protein SV2A, thought to be involved in the regulation of vesicle exocytosis.
@@ -32,8 +21,6 @@ Therefore, there was no evidence of significant QTc prolongation in this study.
 
 Equivalent doses of intravenous (IV) levetiracetam and oral levetiracetam result in equivalent Cmax, Cmin, and total systemic exposure to levetiracetam when the IV levetiracetam is administered as a 15-minute infusion.
 
-The pharmacokinetics of levetiracetam have been studied in healthy adult subjects, adults and pediatric patients with epilepsy, elderly subjects, and subjects with renal and hepatic impairment.
-
 Overview
 
 Levetiracetam is rapidly and almost completely absorbed after oral administration.
@@ -46,6 +33,8 @@ It is not liver cytochrome P450 dependent.
 The metabolites have no known pharmacological activity and are renally excreted.
 Plasma half-life of levetiracetam across studies is approximately 6-8 hours.
 It is increased in the elderly (primarily due to impaired renal clearance) and in subjects with renal impairment.
+
+The pharmacokinetics of levetiracetam are similar when used as monotherapy or as adjunctive therapy for the treatment of partial-onset seizures.
 
 Distribution
 
@@ -86,24 +75,22 @@ This is most likely due to the decrease in renal function in these subjects.
 
 Pediatric Patients
 
-- Intravenous FormulationA population pharmacokinetic analysis for the intravenous formulation was conducted in 49 pediatric patients (1 month to < 16 years of age) weighing 3-79 kg.
+- Intravenous Formulation A population pharmacokinetic analysis for the intravenous formulation was conducted in 49 pediatric patients (1 month to < 16 years of age) weighing 3-79 kg.
   Patients received levetiracetam as a 15-minute IV infusion at doses between 14 mg/kg/day and 60 mg/kg/day twice daily.
   Plasma concentrations and model derived steady-state exposure AUC (0-12) were within the range of the exposure observed in pediatric patients receiving equivalent doses of the oral solution.
+
 - Oral Formulations Pharmacokinetics of levetiracetam were evaluated in 24 pediatric patients (age 6-12 years) after single oral dose (20 mg/kg) of the immediate release formulation of KEPPRA.
-  The body weight adjusted apparent clearance of levetiracetam was approximately 40% higher than in adults.
-  A repeat dose pharmacokinetic study was conducted in pediatric patients (age 4-12 years) at doses of 20 mg/kg/day, 40 mg/kg/day, and 60 mg/kg/day of the immediate release formulation of KEPPRA.
+  The body weight adjusted apparent clearance of levetiracetam was approximately 40% higher than in adults.A repeat dose pharmacokinetic study was conducted in pediatric patients (age 4-12 years) at doses of 20 mg/kg/day, 40 mg/kg/day, and 60 mg/kg/day of the immediate release formulation of KEPPRA.
   The evaluation of the pharmacokinetic profile of levetiracetam and its metabolite (ucb L057) in 14 pediatric patients demonstrated rapid absorption of levetiracetam at all doses, with a Tmax of about 1 hour and a t1/2 of 5 hours across all dosing levels.
   The pharmacokinetics of levetiracetam in pediatric patients was linear between 20 to 60 mg/kg/day.
   The potential interaction of levetiracetam with other AEDs was also evaluated in these patients.
   Levetiracetam had no significant effect on the plasma concentrations of carbamazepine, valproic acid, topiramate or lamotrigine.
-  However, there was about a 22% increase of apparent clearance of levetiracetam when it was co-administered with an enzyme-inducing AED (e.g., carbamazepine).
-  Following single dose administration (20 mg/kg) of a 10% oral solution to pediatric patients with epilepsy (1 month to < 4 years), levetiracetam was rapidly absorbed and peak plasma concentrations were observed approximately 1 hour after dosing.
-  Levetiracetam half-life in pediatric patients 1 month to < 4 years with epilepsy was shorter (5.3 h) than in adults (7.2 h), and apparent clearance (1.5 mL/min/kg) was faster than in adults (0.96 mL/min/kg).
-  Population pharmacokinetic analysis showed that body weight was significantly correlated to the clearance of levetiracetam in pediatric patients; clearance increased with an increase in body weight.
+  However, there was about a 22% increase of apparent clearance of levetiracetam when it was co-administered with an enzyme-inducing AED (e.g., carbamazepine).Following single dose administration (20 mg/kg) of a 10% oral solution to pediatric patients with epilepsy (1 month to < 4 years), levetiracetam was rapidly absorbed and peak plasma concentrations were observed approximately 1 hour after dosing.
+  Levetiracetam half-life in pediatric patients 1 month to < 4 years with epilepsy was shorter (5.3 h) than in adults (7.2 h), and apparent clearance (1.5 mL/min/kg) was faster than in adults (0.96 mL/min/kg).Population pharmacokinetic analysis showed that body weight was significantly correlated to the clearance of levetiracetam in pediatric patients; clearance increased with an increase in body weight.
 
 Pregnancy
 
-Levetiracetam levels may decrease during pregnancy.
+Levetiracetam levels may decrease during pregnancy [see Warnings and Precautions (5.9) and Use in Specific Populations (8.1)].
 
 Gender
 
@@ -125,7 +112,7 @@ Clearance of levetiracetam is correlated with creatinine clearance.
 In anuric (end stage renal disease) patients, the total body clearance decreased 70% compared to normal subjects (CLcr >80mL/min).
 Approximately 50% of the pool of levetiracetam in the body is removed during a standard 4 hour hemodialysis procedure [see Dosage and Administration (2.7)].
 
-#### Hepatic Impairment
+Hepatic Impairment
 
 In subjects with mild (Child-Pugh A) to moderate (Child-Pugh B) hepatic impairment, the pharmacokinetics of levetiracetam were unchanged.
 In patients with severe hepatic impairment (Child-Pugh C), total body clearance was 50% that of normal subjects, but decreased renal clearance accounted for most of the decrease.

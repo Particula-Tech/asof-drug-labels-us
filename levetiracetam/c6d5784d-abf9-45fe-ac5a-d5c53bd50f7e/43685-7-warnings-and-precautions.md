@@ -35,7 +35,7 @@ Patients should be monitored for somnolence and fatigue, and be advised not to d
 
 Somnolence
 
-In controlled clinical studies using an oral formulation of KEPPRA in adult patients with partial onset seizures, 15% of KEPPRA-treated patients reported somnolence, compared to 8% of placebo-treated patients.
+In controlled clinical studies using an oral formulation of KEPPRA in adult patients with partial-onset seizures, 15% of KEPPRA-treated patients reported somnolence, compared to 8% of placebo-treated patients.
 There was no clear dose response up to 3000 mg/day.
 In a study in which there was no titration, about 45% of patients receiving KEPPRA 4000 mg/day reported somnolence.
 The somnolence was considered serious in 0.3% of KEPPRA-treated patients, compared to 0% in the placebo group.
@@ -44,12 +44,12 @@ In 1.4% of KEPPRA-treated patients and 0.9% of placebo-treated patients, the dos
 
 Asthenia
 
-In controlled clinical studies using an oral formulation of KEPPRA in adult patients with partial onset seizures, 15% of KEPPRA-treated patients reported asthenia, compared to 9% of placebo-treated patients.
+In controlled clinical studies using an oral formulation of KEPPRA in adult patients with partial-onset seizures, 15% of KEPPRA-treated patients reported asthenia, compared to 9% of placebo-treated patients.
 Treatment was discontinued due to asthenia in 0.8% of KEPPRA-treated patients as compared to 0.5% of placebo-treated patients.
 In 0.5% of KEPPRA-treated patients and in 0.2% of placebo-treated patients, the dose was reduced due to asthenia.
 
 Somnolence and asthenia occurred most frequently within the first 4 weeks of treatment.
-In general, the incidences of somnolence and fatigue in the pediatric partial onset seizure studies, and in pediatric and adult myoclonic and primary generalized tonic-clonic studies were comparable to those of the adult partial onset seizure studies.
+In general, the incidences of somnolence and fatigue in the pediatric partial-onset seizure studies, and in pediatric and adult myoclonic and primary generalized tonic-clonic studies were comparable to those of the adult partial-onset seizure studies.
 
 ## 5.3 Anaphylaxis and Angioedema
 
@@ -71,7 +71,7 @@ If signs or symptoms suggest SJS/TEN, use of this drug should not be resumed and
 
 KEPPRA may cause coordination difficulties.
 
-In controlled clinical studies using an oral formulation of KEPPRA in adult patients with partial onset seizures, 3.4% of KEPPRA-treated patients experienced coordination difficulties, (reported as ataxia, abnormal gait, or incoordination) compared to 1.6% of placebo-treated patients.
+In controlled clinical studies using an oral formulation of KEPPRA in adult patients with partial-onset seizures, 3.4% of KEPPRA-treated patients experienced coordination difficulties, (reported as ataxia, abnormal gait, or incoordination) compared to 1.6% of placebo-treated patients.
 A total of 0.4% of patients in controlled clinical studies discontinued KEPPRA treatment due to ataxia, compared to 0% of placebo-treated patients.
 In 0.7% of KEPPRA-treated patients and in 0.2% of placebo-treated patients, the dose was reduced due to coordination difficulties, while one of the treated patients was hospitalized due to worsening of pre-existing ataxia.
 These events occurred most frequently within the first 4 weeks of treatment.
@@ -80,7 +80,8 @@ Patients should be monitored for signs and symptoms of coordination difficulties
 
 ## 5.6 Withdrawal Seizures
 
-Antiepileptic drugs, including KEPPRA, should be withdrawn gradually to minimize the potential of increased seizure frequency.
+As with most antiepileptic drugs, KEPPRA should generally be withdrawn gradually because of the risk of increased seizure frequency and status epilepticus.
+But if withdrawal is needed because of a serious adverse reaction, rapid discontinuation can be considered.
 
 ## 5.7 Hematologic Abnormalities
 
@@ -89,11 +90,11 @@ Hematologic abnormalities occurred in clinical trials and included decreases in 
 Cases of agranulocytosis, pancytopenia, and thrombocytopenia have been reported in the postmarketing setting.
 A complete blood count is recommended in patients experiencing significant weakness, pyrexia, recurrent infections, or coagulation disorders.
 
-Partial Onset Seizures
+Partial-Onset Seizures
 
 Adults
 
-In controlled clinical studies using an oral formulation of KEPPRA in adult patients with partial onset seizures, minor but statistically significant decreases compared to placebo in total mean RBC (0.03 × 106/mm3), mean hemoglobin (0.09 g/dL), and mean hematocrit (0.38%), were seen in KEPPRA-treated patients.
+In controlled clinical studies using an oral formulation of KEPPRA in adult patients with partial-onset seizures, minor but statistically significant decreases compared to placebo in total mean RBC (0.03 × 106/mm3), mean hemoglobin (0.09 g/dL), and mean hematocrit (0.38%), were seen in KEPPRA-treated patients.
 
 A total of 3.2% of KEPPRA-treated and 1.8% of placebo-treated patients had at least one possibly significant (≤2.8 × 109/L) decreased WBC, and 2.4% of KEPPRA-treated and 1.4% of placebo-treated patients had at least one possibly significant (≤1.0 × 109/L) decreased neutrophil count.
 Of the KEPPRA-treated patients with a low neutrophil count, all but one rose towards or to baseline with continued treatment.

@@ -1,8 +1,12 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-## 2.1 Dosing for Partial Onset Seizures
+## 2.1 Dosing for Partial-Onset Seizures
 
-Adults 16 Years and Older
+The recommended dosing for monotherapy and adjunctive therapy is the same as outlined below.
+
+There is no clinical study experience with administration of intravenous levetiracetam for a period longer than 4 days.
+
+Adults 16 Years of Age and Older
 
 Initiate treatment with a daily dose of 1000 mg/day, given as twice-daily dosing (500 mg twice daily).
 Additional dosing increments may be given (1000 mg/day additional every 2 weeks) to a maximum recommended daily dose of 3000 mg.
@@ -15,7 +19,6 @@ Pediatric Patients
 Initiate treatment with a daily dose of 14 mg/kg in 2 divided doses (7 mg/kg twice daily).
 Increase the daily dose every 2 weeks by increments of 14 mg/kg to the recommended daily dose of 42 mg/kg (21 mg/kg twice daily).
 In the clinical trial, the mean daily dose was 35 mg/kg in this age group.
-The effectiveness of lower doses has not been studied.
 
 6 Months to < 4 Years
 
@@ -40,13 +43,13 @@ The effectiveness of doses lower than 3000 mg/day has not been studied.
 
 ## 2.3 Dosing for Primary Generalized Tonic-Clonic Seizures
 
-Adults 16 Years and Older
+Adults 16 Years of Age and Older
 
 Initiate treatment with a dose of 1000 mg/day, given as twice-daily dosing (500 mg twice daily).
 Increase dosage by 1000 mg/day every 2 weeks to the recommended daily dose of 3000 mg.
 The effectiveness of doses lower than 3000 mg/day has not been adequately studied.
 
-Pediatric Patients Ages 6 to <16 Years
+Pediatric Patients 6 to <16 Years of Age
 
 Initiate treatment with a daily dose of 20 mg/kg in 2 divided doses (10 mg/kg twice daily).
 Increase the daily dose every 2 weeks by increments of 20 mg/kg (10 mg/kg twice daily) to the recommended daily dose of 60 mg/kg (30 mg/kg twice daily).
@@ -102,9 +105,9 @@ When using KEPPRA injection for pediatric patients, dosing is weight-based (mg p
 
 The following calculation should be used to determine the appropriate daily dose of KEPPRA injection for pediatric patients:
 
-| Total daily dose (mL/day) = | Daily dose (mg/kg/day) × patient weight (kg) |
+| Total daily dose (mL/day) = | Daily dose (mg/kg/day) × patient weight (kg) ------------------------------------------------ |
 | --- | --- |
-| 100 mg/mL |  |
+|  | 100 mg/mL |
 
 ## 2.7 Dosage Adjustments in Adult Patients with Renal Impairment
 
@@ -114,15 +117,13 @@ Information is unavailable for dosage adjustments in pediatric patients with ren
 In order to calculate the dose recommended for adult patients with renal impairment, creatinine clearance adjusted for body surface area must be calculated.
 To do this an estimate of the patient's creatinine clearance (CLcr) in mL/min must first be calculated using the following formula:
 
-| CLcr= | [140-age (years)] × weight (kg) | (× 0.85 for female patients) |
+| CLcr= | [140-age (years)] × weight (kg) ----------------------------------- 72 × serum creatinine (mg/dL) | (× 0.85 for female patients) |
 | --- | --- | --- |
-| 72 × serum creatinine (mg/dL) |  |  |
 
 Then CLcr is adjusted for body surface area (BSA) as follows:
 
-| CLcr (mL/min/1.73m2)= | CLcr (mL/min) | × 1.73 |
-| --- | --- | --- |
-| BSA subject (m2) |  |  |
+| CLcr (mL/min/1.73m2)= | CLcr (mL/min) ---------------------------× 1.73 BSA subject (m2) |
+| --- | --- |
 
 Table 2: Dosage Adjustment Regimen for Adult Patients with Renal Impairment
 
@@ -133,3 +134,7 @@ Table 2: Dosage Adjustment Regimen for Adult Patients with Renal Impairment
 | Moderate | 30 – 50 | 250 to 750 | Every 12 hours |
 | Severe | < 30 | 250 to 500 | Every 12 hours |
 | ESRD patients using dialysis | ------- | 500 to 1,000Following dialysis, a 250 to 500 mg supplemental dose is recommended. | Every 24 hours |
+
+## 2.8 Discontinuation of KEPPRA
+
+Avoid abrupt withdrawal from KEPPRA in order to reduce the risk of increased seizure frequency and status epilepticus [see Warnings and Precautions (5.6)].
