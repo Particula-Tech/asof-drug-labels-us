@@ -133,10 +133,10 @@ Inactive ingredients for Doxorubicin Hydrochloride Injection: 0.9% sodium chlori
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 
-PREMIERPro™Rx is a trademark of Premier, Inc., used under license.
-
 Distributed by Pfizer Labs Division of Pfizer, Inc. New York, NY 10017
 
-LAB-0703-1.0
+PREMIERProRx® is a registered trademark of Premier Healthcare Alliance, L.P., used under license.
+
+LAB-0703-2.0
 
 Revised: 11/2013

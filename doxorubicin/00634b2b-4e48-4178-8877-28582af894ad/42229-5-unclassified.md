@@ -1,5 +1,5 @@
-PREMIERPro™Rx is a trademark of Premier, Inc., used under license.
-
 Distributed by Pfizer Labs Division of Pfizer, Inc. New York, NY 10017
 
-LAB-0702-2.0
+PREMIERProRx® is a registered trademark of Premier Healthcare Alliance, L.P., used under license.
+
+LAB-0702-3.0
