@@ -107,7 +107,7 @@ Kidney Transplantation: Adverse Reactions Occurring in ≥10% of Patients Treate
 | Key: Group A = CsA/MMF/CS, B = CsA/MMF/CS/Daclizumab, C = Tac/MMF/CS/Daclizumab CsA = Cyclosporine, CS = Corticosteroids, Tac = Tacrolimus, MMF = mycophenolate mofetil |  |  |  |
 
 In the U.S. trial (Study 2) with tacrolimus-based immunosuppression in conjunction with MMF and corticosteroids, 424 kidney transplant patients received tacrolimus (n=212) or cyclosporine (n=212) in combination with MMF 1 gram twice daily, basiliximab induction, and corticosteroids.
-The trial population had a mean age of 48 years (range 17 to 77), the distribution was 63% male, and the composition was White (74%), African - American (20%), Asian (3%) and other (3%).
+The trial population had a mean age of 48 years (range 17 to 77); the distribution was 63% male, and the composition was White (74%), African - American (20%), Asian (3%) and other (3%).
 The 12 month post-transplant information from this trial is presented below.
 
 Adverse reactions that occurred in ≥15% of kidney transplant patients treated with tacrolimus in conjunction with MMF in Study 2 are presented below:
@@ -225,7 +225,7 @@ Less frequently observed adverse reactions in liver transplantation patients are
 
 The incidence of adverse reactions was determined based on two trials in primary orthotopic heart transplantation.
 In a trial conducted in Europe, 314 patients received a regimen of antibody induction, corticosteroids, and azathioprine (AZA) in combination with tacrolimus (n = 157) or cyclosporine (n = 157) for 18 months.
-The trial population had a mean age of 51 years (range 18 to 65), the distribution was 82% male, and the composition was White (96%), African -American (3%), and other (1%).
+The trial population had a mean age of 51 years (range 18 to 65), the distribution was 82% male, and the composition was White (96%), Black (3%), and other (1%).
 
 The most common adverse reactions (≥ 15%) observed in tacrolimus-treated heart transplant patients are: abnormal renal function, hypertension, diabetes mellitus, CMV infection, tremor, hyperglycemia, leukopenia, infection, anemia, bronchitis, pericardial effusion, urinary tract infection, and hyperlipemia.
 Based on reported adverse reactions terms related to decreased renal function, nephrotoxicity was reported in approximately 59% of heart transplantation patients in the European trial.
@@ -235,7 +235,7 @@ Adverse reactions in heart transplant patients in the European trial are present
 Table 9.
 Heart Transplantation: Adverse Reactions Occurring in ≥ 15% of Patients Treated with tacrolimus in Conjunction with Azathioprine (AZA)
 
-|  | Tacrolimus/AZA (n = 157) | Cyclosporine/AZA (n = 157) |
+|  | Tacrolimus/AZA (N = 157) | Cyclosporine/AZA (N = 157) |
 | --- | --- | --- |
 | Cardiovascular System |  |  |
 | Hypertension | 62% | 69% |
@@ -281,7 +281,7 @@ Incidence of New Onset Diabetes After Transplant at 1 year in Kidney Transplant 
 
 | Parameter | Treatment Group |  |
 | --- | --- | --- |
-| Tacrolimus/MMF (n=212) | Neoral/MMF (n=212) |  |
+| Tacrolimus/MMF (N=212) | Neoral/MMF (N=212) |  |
 | NODAT | 112/150 (75%) | 93/152 (61%) |
 | Fasting Plasma Glucose ≥ 126 mg/dL | 96/150 (64%) | 80/152 (53%) |
 | HbA1C ≥ 6% | 59/150 (39%) | 28/152 (18%) |
@@ -352,36 +352,18 @@ Less Frequently Reported Adverse Reactions (> 3% and < 15%) in Liver, Kidney, an
 
 The following adverse reactions were reported in either liver, kidney, and/or heart transplant recipients who were treated with tacrolimus in clinical trials.
 
-- Nervous System [see Warnings and Precautions (5.6)]: Abnormal dreams, agitation, amnesia, anxiety, confusion, convulsion,
-- crying, depression, elevated mood, emotional lability, encephalopathy, haemorrhagic stroke, hallucinations, hypertonia,
-- incoordination, monoparesis, myoclonus, nerve compression, nervousness, neuralgia, neuropathy, paralysis flaccid, psychomotor
-- skills impaired, psychosis, quadriparesis, somnolence, thinking abnormal, vertigo, writing impaired
+- Nervous System [see Warnings and Precautions (5.6)]: Abnormal dreams, agitation, amnesia, anxiety, confusion, convulsion, crying, depression, elevated mood, emotional lability, encephalopathy, haemorrhagic stroke, hallucinations, hypertonia, incoordination, monoparesis, myoclonus, nerve compression, nervousness, neuralgia, neuropathy, paralysis flaccid, psychomotor skills impaired, psychosis, quadriparesis, somnolence, thinking abnormal, vertigo, writing impaired
 - Special Senses: Abnormal vision, amblyopia, ear pain, otitis media, tinnitus
-- Gastrointestinal: Cholangitis, cholestatic jaundice, duodenitis, dysphagia, esophagitis, flatulence, gastritis, gastroesophagitis,
-- gastrointestinal hemorrhage, GGT increase, GI disorder, GI perforation, hepatitis, hepatitis granulomatous, ileus, increased appetite,
-- jaundice, liver damage, oesophagitis ulcerative, oral moniliasis, pancreatic pseudocyst, rectal disorder, stomatitis.
-- Cardiovascular: Abnormal ECG, angina pectoris, arrhythmia, atrial fibrillation, atrial flutter, bradycardia, cardiac fibrillation,
-- cardiopulmonary failure, cardiovascular disorder, congestive heart failure, deep thrombophlebitis, echocardiogram abnormal,
-- electrocardiogram QRS complex abnormal, electrocardiogram ST segment abnormal, heart failure, heart rate decreased, hemorrhage,
-- hypotension, peripheral vascular disorder, phlebitis, postural hypotension, syncope, tachycardia, thrombosis, vasodilatation.
-- Urogenital: Acute kidney failure [see Warnings and Precautions (5.7)], albuminuria, BK nephropathy, bladder spasm, cystitis,
-- dysuria, hematuria, hydronephrosis, kidney failure, kidney tubular necrosis, nocturia, pyuria, toxic nephropathy, urge incontinence,
-- urinary frequency, urinary incontinence, urinary retention, vaginitis
-- Metabolic/Nutritional: Acidosis, alkaline phosphatase increased, alkalosis, ALT (SGPT) increased, AST (SGOT) increased,
-- bicarbonate decreased, bilirubinemia, dehydration, GGT increased, gout, healing abnormal, hypercalcemia, hypercholesterolemia,
-- hyperphosphatemia, hyperuricemia, hypervolemia, hypocalcemia, hypoglycemia, hyponatremia, hypoproteinemia, lactic dehydrogenase
-- increase, weight gain
+- Gastrointestinal: Cholangitis, cholestatic jaundice, duodenitis, dysphagia, esophagitis, flatulence, gastritis, gastroesophagitis, gastrointestinal hemorrhage, GGT increase, GI disorder, GI perforation, hepatitis, hepatitis granulomatous, ileus, increased appetite, jaundice, liver damage, esophagitis ulcerative, oral moniliasis, pancreatic pseudocyst, stomatitis.
+- Cardiovascular: Abnormal ECG, angina pectoris, arrhythmia, atrial fibrillation, atrial flutter, bradycardia, cardiac fibrillation, cardiopulmonary failure, congestive heart failure, deep thrombophlebitis, echocardiogram abnormal, electrocardiogram QRS complex abnormal, electrocardiogram ST segment abnormal, heart failure, heart rate decreased, hemorrhage, hypotension, phlebitis, postural hypotension, syncope, tachycardia, thrombosis, vasodilatation.
+- Urogenital: Acute kidney failure [see Warnings and Precautions (5.5)], albuminuria, BK nephropathy, bladder spasm, cystitis, dysuria, hematuria, hydronephrosis, kidney failure, kidney tubular necrosis, nocturia, pyuria, toxic nephropathy, urge incontinence, urinary frequency, urinary incontinence, urinary retention, vaginitis
+- Metabolic/Nutritional: Acidosis, alkaline phosphatase increased, alkalosis, ALT (SGPT) increased, AST (SGOT) increased, bicarbonate decreased, bilirubinemia, dehydration, GGT increased, gout, healing abnormal, hypercalcemia, hypercholesterolemia, hyperphosphatemia, hyperuricemia, hypervolemia, hypocalcemia, hypoglycemia, hyponatremia, hypoproteinemia, lactic dehydrogenase increase, weight gain
 - Endocrine: Cushing's syndrome
-- Hemic/Lymphatic: Coagulation disorder, ecchymosis, haematocrit increased, haemoglobin abnormal, hypochromic anemia,
-- leukocytosis, polycythemia, prothrombin decreased, serum iron decreased
-- Miscellaneous: Abdomen enlarged, abscess, accidental injury, allergic reaction, cellulitis, chills, fall, feeling abnormal, flu
-- syndrome, generalized edema, hernia, mobility decreased, peritonitis, photosensitivity reaction, sepsis, temperature intolerance,
-- ulcer
-- Musculoskeletal: Arthralgia, cramps, generalized spasm, joint disorder, leg cramps, myalgia, myasthenia, osteoporosis.
-- Respiratory: Asthma, emphysema, hiccups, lung disorder, lung function decreased, pharyngitis, pneumonia, pneumothorax,
-- pulmonary edema, respiratory disorder, rhinitis, sinusitis, voice alteration
-- Skin: Acne, alopecia, exfoliative dermatitis, fungal dermatitis, herpes simplex, herpes zoster, hirsutism, neoplasm skin benign,
-- skin discoloration, skin disorder, skin ulcer, sweating
+- Hemic/Lymphatic: Coagulation disorder, ecchymosis, haematocrit increased, hypochromic anemia, leukocytosis, polycythemia, prothrombin decreased, serum iron decreased
+- Miscellaneous: Abdomen enlarged, abscess, accidental injury, allergic reaction, cellulitis, chills, fall, flu syndrome, generalized edema, hernia, mobility decreased, peritonitis, photosensitivity reaction, sepsis, temperature intolerance, ulcer
+- Musculoskeletal: Arthralgia, cramps, generalized spasm, leg cramps, myalgia, myasthenia, osteoporosis.
+- Respiratory: Asthma, emphysema, hiccups, lung function decreased, pharyngitis, pneumonia, pneumothorax, pulmonary edema, respiratory disorder, rhinitis, sinusitis, voice alteration
+- Skin: Acne, alopecia, exfoliative dermatitis, fungal dermatitis, herpes simplex, herpes zoster, hirsutism, neoplasm skin benign, skin discoloration, skin ulcer, sweating
 
 ## 6.2 Postmarketing Adverse Reactions
 
@@ -396,9 +378,10 @@ Other reactions include:
 - Hemic/Lymphatic: Agranulocytosis, disseminated intravascular coagulation, hemolytic anemia, neutropenia, pancytopenia, thrombocytopenic purpura, thrombotic thrombocytopenic purpura, pure red cell aplasia [see Warnings and Precautions (5.15)]
 - Infections: Cases of progressive multifocal leukoencephalopathy (PML), sometimes fatal; -polyoma virus-associated nephropathy, (PVAN) including graft loss [see Warnings and Precautions (5.2)]
 - Metabolic/Nutritional: Glycosuria, increased amylase including pancreatitis, weight decreased
-- Miscellaneous: Feeling hot and cold, feeling jittery, hot flushes, multi-organ failure, primary graft dysfunction Musculoskeletal and Connective Tissue Disorders: Pain in extremity including Calcineurin-Inhibitor Induced Pain Syndrome (CIPS)
-- Nervous System: Carpal tunnel syndrome, cerebral infarction, hemiparesis, leukoencephalopathy, mental disorder, mutism, posterior reversible encephalopathy syndrome (PRES) [see Warnings and Precautions (5.8)], progressive multifocal leukoencephalopathy (PML) [see Warnings and Precautions (5.4)], quadriplegia, speech disorder, syncope
+- Miscellaneous: Feeling hot and cold, feeling jittery, hot flushes, multi-organ failure, primary graft dysfunction
+- Musculoskeletal and Connective Tissue Disorders: Pain in extremity including Calcineurin-Inhibitor Induced Pain Syndrome (CIPS)
+- Nervous System: Carpal tunnel syndrome, cerebral infarction, hemiparesis, leukoencephalopathy, mental disorder, mutism, posterior reversible encephalopathy syndrome (PRES) [see Warnings and Precautions (5.6)], progressive multifocal leukoencephalopathy (PML) [see Warnings and Precautions (5.2)], quadriplegia, speech disorder, syncope
 - Respiratory: Acute respiratory distress syndrome, interstitial lung disease, lung infiltration, respiratory distress, respiratory failure
 - Skin: Stevens-Johnson syndrome, toxic epidermal necrolysis
 - Special Senses: Blindness, blindness cortical, hearing loss including deafness, photophobia
-- Urogenital: Acute renal failure, cystitis haemorrhagic, hemolytic-uremic syndrome, micturition disorder
+- Urogenital: Acute renal failure, cystitis haemorrhagic, hemolytic-uremic syndrome,

@@ -26,22 +26,32 @@ Inform patients they are at increased risk of developing a variety of infections
 
 Inform patients that tacrolimus can cause diabetes mellitus and should be advised to contact their physician if they develop frequent urination, increased thirst, or hunger [see Warnings and Precautions (5.4)].
 
-## 17.5 Neurotoxicity
+## 17.5 Nephrotoxicity
+
+Inform patients that tacrolimus can have toxic effects on the kidney that should be monitored.
+Advise patients to attend all visits and complete all blood tests ordered by their medical team [see Warnings and Precautions (5.5)].
+
+## 17.6 Neurotoxicity
 
 Inform patients that they are at risk of developing adverse neurologic reactions including seizure, altered mental status, and tremor.
 Advise patients to contact their physician should they develop vision changes, deliriums, or tremors [see Warnings and Precautions (5.6)].
 
-## 17.6 Hypertension
+## 17.7 Hyperkalemia
+
+Inform patients that tacrolimus can cause hyperkalemia.
+Monitoring of potassium levels may be necessary, especially with concomitant use of other drugs known to cause hyperkalemia [see Warnings and Precautions (5.7)].
+
+## 17.8 Hypertension
 
 Inform patients that tacrolimus can cause high blood pressure which may require treatment with anti-hypertensive therapy.
 Advise patients to monitor their blood pressure [see Warnings and Precautions (5.8)].
 
-## 17.7 Drug Interaction
+## 17.9 Drug Interaction
 
 Instruct patients to tell their healthcare providers when they start or stop taking all the medicines, including prescription medicines and non-prescription medicines, natural or herbal remedies, nutritional supplements, and vitamins.
 Advise patients to avoid grapefruit and grapefruit juice [see Drug Interactions (7)].
 
-## 17.8 Pregnancy, Lactation and Infertility
+## 17.10 Pregnancy, Lactation and Infertility
 
 Inform women of childbearing potential that tacrolimus can harm the fetus.
 Instruct male and female patients to discuss with their healthcare provider family planning options including appropriate contraception.
@@ -52,11 +62,11 @@ To enroll or register, patients can call the toll free number 1-877-955-6877 or 
 
 Based on animal studies, tacrolimus may affect fertility in males and females [see Nonclinical Toxicology (13.1)].
 
-## 17.9 Myocardial Hypertrophy
+## 17.11 Myocardial Hypertrophy
 
 Inform patients to report symptoms of tiredness, swelling, and/or shortness of breath (heart failure).
 
-## 17.10 Immunizations
+## 17.12 Immunizations
 
 Inform patients that tacrolimus can interfere with the usual response to immunizations and that they should avoid live vaccines [see Warnings and Precautions (5.14)].
 
@@ -74,4 +84,4 @@ Strides Pharma Inc.
 
 East Brunswick, NJ 08816
 
-Revised: 06/2019
+Revised: 11/2019

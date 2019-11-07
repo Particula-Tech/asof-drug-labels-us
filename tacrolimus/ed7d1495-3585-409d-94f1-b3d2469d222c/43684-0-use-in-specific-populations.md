@@ -13,6 +13,7 @@ Risk Summary
 Tacrolimus can cause fetal harm when administered to a pregnant woman.
 Data from postmarketing surveillance and TPRI suggest that infants exposed to tacrolimus in utero are at a risk of prematurity, birth defects/congenital anomalies, low birth weight, and fetal distress [see Human Data].
 Advise pregnant women of the potential risk to the fetus.
+
 Administration of oral tacrolimus to pregnant rabbits and rats throughout the period of organogenesis was associated with maternal toxicity/lethality, and an increased incidence of abortion, malformation and embryofetal death at clinically relevant doses (0.5 to 6.9 times the recommended clinical dose range [0.2 to 0.075 mg/kg/day], on a mg/m2 basis).
 Administration of oral tacrolimus to pregnant rats after organogenesis and throughout lactation produced maternal toxicity, effects on parturition, reduced pup viability and reduced pup weight at clinically relevant doses (0.8 to 6.9 times the recommended clinical dose range, on a mg/m2 basis).
 Administration of oral tacrolimus to rats prior to mating, and throughout gestation and lactation produced maternal toxicity/lethality, marked effects on parturition, embryofetal loss, malformations, and reduced pup viability at clinically relevant doses (0.8 to 6.9 times the recommended clinical dose range, on a mg/m2 basis).
@@ -58,7 +59,7 @@ There are no adequate and well controlled studies on the effects of tacrolimus i
 Safety data from the TPRI and postmarketing surveillance suggest infants exposed to tacrolimus in utero have an increased risk for miscarriage, pre-term delivery (< 37 weeks), low birth weight (< 2500 g), birth defects/congenital anomalies and fetal distress.
 
 TPRI reported 450 and 241 total pregnancies in kidney and liver transplant recipients exposed to tacrolimus, respectively.
-The TPRI pregnancy outcomes are summarized in Table 15.
+The TPRI pregnancy outcomes are summarized in Table 16.
 In the table below, the number of recipients exposed to tacrolimus concomitantly with mycophenolic acid (MPA) products during the preconception and first trimester periods is high (27% and 29% for renal and liver transplant recipients, respectively).
 Because MPA products may also cause birth defects, the birth defect rate may be confounded and this should be taken into consideration when reviewing the data, particularly for birth defects.
 Birth defects observed include cardiac malformations, craniofacial malformations, renal/urogenital disorders, skeletal abnormalities, neurological abnormalities and multiple malformations.
@@ -68,11 +69,11 @@ TPRI Reported Pregnancy Outcomes in Transplant Recipients with Exposure to Tacro
 
 |  | Kidney | Liver |
 | --- | --- | --- |
-| Pregnancy Outcomes* | 462 | 253 |
+| Pregnancy Outcomes * | 462 | 253 |
 | Miscarriage | 24.5% | 25% |
 | Live births | 331 | 180 |
 | Pre-term delivery (< 37 weeks) | 49% | 42% |
-| Low birth weight (< 2500g) | 42% | 30% |
+| Low birth weight (< 2500 g) | 42% | 30% |
 | Birth defects | 8%† | 5% |
 | * Includes multiple births and terminations. |  |  |
 | † Birth defect rate confounded by concomitant MPA products exposure in over half of offspring with birth defects. |  |  |
@@ -88,7 +89,7 @@ Administration of 3.2 mg/kg oral tacrolimus (2.6 to 6.9 times the recommended cl
 In a peri-/postnatal development study, oral administration of tacrolimus to pregnant rats during late gestation (after organogenesis) and throughout lactation produced maternal toxicity, effects on parturition, and reduced pup viability at 3.2 mg/kg (2.6 to 6.9 times the recommended clinical dose range); among these pups that died early, an increased incidence of kidney hydronephrosis was observed.
 Reduced pup weight was observed at 1.0 mg/kg (0.8 to 2.2 times the recommended clinical dose range).
 
-Administration of oral tacrolimus to rats prior to mating, and throughout gestation and lactation produced maternal toxicity/lethality, embryofetal loss and reduced pup viability at 3.2 mg/kg (2.6 to 6.9 times the recommended clinical dose range).
+Administration of oral tacrolimus to rats prior to mating, and throughout gestation and lactation, produced maternal toxicity/lethality, embryofetal loss and reduced pup viability at 3.2 mg/kg (2.6 to 6.9 times the recommended clinical dose range).
 Interventricular septal defects, hydronephrosis, craniofacial malformations and skeletal effects were observed in offspring that died.
 Effects on parturition (incomplete delivery of nonviable pups) were observed at 1 mg/kg (0.8 to 2.2 times the recommended clinical dose range) [see Nonclinical Toxicology (13.1)].
 
@@ -122,11 +123,11 @@ Liver transplant:
 Safety and efficacy using tacrolimus granules in pediatric de novo liver transplant patients less than 16 years of age are based on evidence from active controlled studies that included 56 pediatric patients, 31 of which received tacrolimus and supported by two pharmacokinetic and safety studies in 151 children who received tacrolimus.
 Additionally, 122 pediatric patients were studied in an uncontrolled trial of tacrolimus in living related donor liver transplantation.
 Dose adjustments were made in the PK studies based on clinical status and whole blood concentrations.
-Pediatric patients generally required higher doses of tacrolimus to maintain blood trough concentrations of tacrolimus similar to adult patients [see Dosage and Administration (2.4), Adverse Reactions (6.1), Clinical Pharmacology (12.3) and Clinical Studies (14.2)].
+Pediatric patients generally required higher doses of tacrolimus to maintain blood trough concentrations of tacrolimus similar to adult patients [see Dosage and Administration (2.3), Adverse Reactions (6.1), Clinical Pharmacology (12.3) and Clinical Studies (14.2)].
 
 Kidney and heart transplant:
 
-Use of tacrolimus capsules and tacrolimus granules in pediatric kidney and heart transplant patients is supported by adequate and well-controlled studies and pharmacokinetic data in adult kidney and heart transplant patients with additional pharmacokinetic data in pediatric kidney and heart transplant patients and safety data in pediatric liver transplant patients [see Dosage and Administration (2.4) and Clinical Pharmacology (12.3)].
+Use of tacrolimus capsules and tacrolimus granules in pediatric kidney and heart transplant patients is supported by adequate and well-controlled studies and pharmacokinetic data in adult kidney and heart transplant patients with additional pharmacokinetic data in pediatric kidney and heart transplant patients and safety data in pediatric liver transplant patients [see Dosage and Administration (2.3) and Clinical Pharmacology (12.3)].
 
 ## 8.5 Geriatric Use
 
@@ -134,17 +135,24 @@ Clinical trials of tacrolimus did not include sufficient numbers of subjects age
 Other reported clinical experience has not identified differences in responses between the elderly and younger patients.
 In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy.
 
-## 8.6 Use in Renal Impairment
+## 8.6 Renal Impairment
 
 The pharmacokinetics of tacrolimus in patients with renal impairment was similar to that in healthy volunteers with normal renal function.
 However, consideration should be given to dosing tacrolimus at the lower end of the therapeutic dosing range in patients who have received a liver or heart transplant and have pre-existing renal impairment.
-Further reductions in dose below the targeted range may be required [see Dosage and Administration (2.5) and Clinical Pharmacology (12.3)].
+Further reductions in dose below the targeted range may be required [see Dosage and Administration (2.4) and Clinical Pharmacology (12.3)].
 
-## 8.7 Use in Hepatic Impairment
+## 8.7 Hepatic Impairment
 
 The mean clearance of tacrolimus was substantially lower in patients with severe hepatic impairment (mean Child-Pugh score: >10) compared to healthy volunteers with normal hepatic function.
 Close monitoring of tacrolimus trough concentrations is warranted in patients with hepatic impairment [see Clinical Pharmacology (12.3)].
 
 The use of tacrolimus in liver transplant recipients experiencing post-transplant hepatic impairment may be associated with increased risk of developing renal insufficiency related to high whole-blood trough concentrations of tacrolimus.
 These patients should be monitored closely and dosage adjustments should be considered.
-Some evidence suggests that lower doses should be used in these patients [see Dosage and Administration (2.6) and Clinical Pharmacology (12.3)].
+Some evidence suggests that lower doses should be used in these patients [see Dosage and Administration (2.5) and Clinical Pharmacology (12.3)].
+
+## 8.8 Race or Ethnicity
+
+African-American patients may need to be titrated to higher dosages to attain comparable trough concentrations compared to Caucasian patients [see Dosage and Administration (2.2) and Clinical Pharmacology (12.3)].
+
+African-American and Hispanic patients are at increased risk for new onset diabetes after transplant.
+Monitor blood glucose concentrations and treat appropriately [see Warnings and Precautions (5.4)].

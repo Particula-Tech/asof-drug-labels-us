@@ -1,6 +1,6 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-## 16.1 Tacrolimus Capsules USP
+## 16.1 Tacrolimus Capsules
 
 | Strength | 0.5 mg (containing the equivalent of 0.5 mg anhydrous tacrolimus) | 1 mg (containing the equivalent of 1 mg anhydrous tacrolimus) | 5 mg (containing the equivalent of 5 mg anhydrous tacrolimus) |
 | --- | --- | --- | --- |

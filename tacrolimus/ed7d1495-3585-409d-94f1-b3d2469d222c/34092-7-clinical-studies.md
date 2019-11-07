@@ -12,9 +12,10 @@ Patients less than 6 years of age were excluded.
 There were 205 patients randomized to tacrolimus-based immunosuppression and 207 patients were randomized to cyclosporine-based immunosuppression.
 All patients received prophylactic induction therapy consisting of an antilymphocyte antibody preparation, corticosteroids, and azathioprine.
 Overall 1-year patient and graft survival was 96.1% and 89.6%, respectively.
+
 Data from this trial of tcarolimus in conjunction with azathioprine indicate that during the first 3 months of that trial, 80% of the patients maintained trough concentrations between 7-20 ng/mL, and then between 5-15 ng/mL, through 1 year.
 
-Tacrolimus/Mycophenolate Mofetil (MMF)
+Tacrolimus/mycophenolate Mofetil (MMF)
 
 Tacrolimus-based immunosuppression in conjunction with MMF, corticosteroids, and induction has been studied.
 In a randomized, open-label, multicenter trial (Study 1), 1589 kidney transplant patients received tacrolimus (Group C, n = 401), sirolimus (Group D, n = 399), or one of two cyclosporine (CsA) regimens (Group A, n = 390 and Group B, n = 399) in combination with MMF and corticosteroids; all patients, except those in one of the two cyclosporine groups, also received induction with daclizumab.
@@ -51,12 +52,12 @@ Incidence of BPAR, Graft Loss, Death or Loss to Follow-up at 12 Months (Study 1)
 | Key: Group A=CsA/MMF/CS, B=CsA/MMF/CS/Daclizumab, C=Tac/MMF/CS/Daclizumab, and D=Siro/MMF/CS/Daclizumab |  |  |  |  |
 
 The protocol-specified target tacrolimus trough concentrations (Ctrough,Tac) were 3-7 ng/mL; however, the observed median Ctroughs,Tac approximated 7 ng/mL throughout the 12-month trial (Table 22).
-Approximately 80% of patients maintainedtacrolimus whole blood concentrations between 4-11 ng/mL through 1 year post-transplant.
+Approximately 80% of patients maintained tacrolimus whole blood concentrations between 4-11 ng/mL through 1 year post-transplant.
 
 Table 22.
-Tacrolimus Whole Blood Trough Concentrations (Study 1)
+Tacrolimus Whole Blood Trough Concentrations Range (Study 1)
 
-| Time | Median (P10-P9010 to 90 Percentile: range of Ctrough, Tac that excludes lowest 10% and highest 10% of Ctrough,Tac) tacrolimus whole blood trough concentrations (ng/mL) |
+| Time | Median (P10-P9010 to 90th Percentile: range of Ctrough, Tac that excludes lowest 10% and highest 10% of Ctrough,Tac) tacrolimus whole blood trough concentrations range (ng/mL) |
 | --- | --- |
 | Day 30 (N=366) | 6.9 (4.4 to 11.3) |
 | Day 90 (N=351) | 6.8 (4.1 to 10.7) |
@@ -105,7 +106,7 @@ Approximately 80% of patients maintained tacrolimus whole blood trough concentra
 Table 25.
 Tacrolimus Whole Blood Trough Concentration Range (Study 2)
 
-| Time | Median (P10 to P90 10 to 90 Percentile:range of Ctrough, Tac that excludes lowest 10% and highest 10% of Ctrough, Tac) tacrolimus whole blood trough concentrations (ng/mL) |
+| Time | Median (P10 to P90 10 to 90th Percentile: range of Ctrough, Tac that excludes lowest 10% and highest 10% of Ctrough, Tac) tacrolimus whole blood trough concentrations range (ng/mL) |
 | --- | --- |
 | Day 30 (N=174) | 10.5 (6.3 - 16.8) |
 | Day 60 (N=179) | 9.2 (5.9 - 15.3) |
@@ -135,7 +136,7 @@ MMF Dose Over Time in the tacrolimus/MMF Group (Study 2)
 ## 14.2 Liver Transplantation
 
 The safety and efficacy of tacrolimus-based immunosuppression following orthotopic liver transplantation were assessed in two prospective, randomized, non-blinded multicenter trials.
-The active control groups were treated with a cyclosporine based immunosuppressive regimen (CsA/AZA).
+The active control groups were treated with a cyclosporine-based immunosuppressive regimen (CsA/AZA).
 Both trials used concomitant adrenal corticosteroids as part of the immunosuppressive regimens.
 These trials compared patient and graft survival rates at 12 months following transplantation.
 
@@ -153,9 +154,7 @@ In both trials, the median time to convert from IV to oral tacrolimus dosing was
 
 Although there is a lack of direct correlation between tacrolimus concentrations and drug efficacy, data from clinical trials of liver transplant patients have shown an increasing incidence of adverse reactions with increasing trough blood concentrations.
 Most patients are stable when trough whole blood concentrations are maintained between 5 to 20 ng/mL.
-
 Long-term post-transplant patients often are maintained at the low end of this target range.
-
 Data from the U.S. clinical trial show that the median trough blood concentrations, measured at intervals from the second week to one year post-transplantation ranged from 9.8 ng/mL to 19.4 ng/mL.
 
 ## 14.3 Heart Transplantation

@@ -5,11 +5,12 @@
 Patients receiving immunosuppressants, including tacrolimus, are at increased risk of developing lymphomas and other malignancies, particularly of the skin [see Boxed Warning].
 The risk appears to be related to the intensity and duration of immunosuppression rather than to the use of any specific agent.
 
-As usual for patients with increased risk for skin cancer, exposure to sunlight and UV light should be limited by wearing protective clothing and using a sunscreen with a high protection factor.
+As usual for patients with increased risk for skin cancer, examine patients for skin changes; exposure to sunlight and UV light should be limited by wearing protective clothing and using a broad spectrum sunscreen with a high protection factor.
 
-Post transplant lymphoproliferative disorder (PTLD) has been reported in immunosuppressed organ transplant recipients.
-The majority of PTLD events appear related to Epstein Barr Virus (EBV) infection.
+Post-transplant lymphoproliferative disorder (PTLD) has been reported in immunosuppressed organ transplant recipients.
+The majority of PTLD events appear related to Epstein - Barr Virus (EBV) infection.
 The risk of PTLD appears greatest in those individuals who are EBV seronegative, a population which includes many young children.
+Monitor EBV serology during treatment.
 
 ## 5.2 Serious Infections
 
@@ -27,9 +28,10 @@ Monitor for the development of infection and adjust the immunosuppressive regime
 
 ## 5.3 Not Interchangeable With Extended-Release Tacrolimus Products Medication Errors
 
-Medication errors, including substitution and dispensing errors, between tacrolimus immediate-release products and tacrolimus extended-release products were reported outside the U.S. This led to serious adverse reactions, including graft rejection, or other adverse reactions due to under-or over-exposure to tacrolimus.
-Tacrolimus is not interchangeable or substitutable with tacrolimus extended-release products.
-Instruct patients and caregivers to recognize the appearance of tacrolimus dosage forms [see Dosage Forms and Strengths (3)].
+Medication errors, including substitution and dispensing errors, between tacrolimus immediate-release products and tacrolimus extended-release products were reported outside the U.S. This led to serious adverse reactions, including graft rejection, or other adverse reactions due to under-or overexposure to tacrolimus.
+Tacrolimus is not interchangeable or substitutable for tacrolimus extended-release products.
+Changes between tacrolimus immediate-release and extended-release dosage forms must occur under physician supervision.
+Instruct patients and caregivers to recognize the appearance of tacrolimus dosage forms [see Dosage Forms and Strengths (3)] and to confirm with the healthcare provider if a different product is dispensed.
 
 ## 5.4 New Onset Diabetes After Transplant
 
@@ -57,6 +59,7 @@ As symptoms may be associated with tacrolimus whole blood trough concentrations 
 Hyperkalemia has been reported with tacrolimus use.
 Serum potassium levels should be monitored.
 Careful consideration should be given prior to use of other agents also associated with hyperkalemia (e.g., potassium-sparing diuretics, ACE inhibitors, angiotensin receptor blockers) during tacrolimus therapy [see Adverse Reactions (6.1)].
+Monitor serum potassium levels periodically during treatment.
 
 ## 5.8 Hypertension
 
@@ -101,7 +104,11 @@ If myocardial hypertrophy is diagnosed, dosage reduction or discontinuation of t
 
 ## 5.14 Immunizations
 
+Whenever possible, administer the complete complement of vaccines before transplantation and treatment with tacrolimus.
+
 The use of live vaccines should be avoided during treatment with tacrolimus; examples include (not limited to) the following: intranasal influenza, measles, mumps, rubella, oral polio, BCG, yellow fever, varicella, and TY21a typhoid vaccines.
+
+Inactivated vaccines noted to be safe for administration after transplantation may not be sufficiently immunogenic during treatment with tacrolimus.
 
 ## 5.15 Pure Red Cell Aplasia
 

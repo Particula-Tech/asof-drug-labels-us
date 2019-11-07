@@ -12,14 +12,13 @@ What is the most important information I should know about tacrolimus?
 
 Tacrolimus can cause serious side effects, including:
 
-1. Increased risk of cancer.
-   People who take tacrolimus have an increased risk of getting some kinds of cancer, including skin and lymph gland cancer (lymphoma).
-2. Increased risk of infection.
-   Tacrolimus is a medicine that affects your immune system.
-   Tacrolimus can lower the ability of your immune system to fight infections.
-   Serious infections can happen in people receiving tacrolimus that can cause death.
-   Call your doctor right away if you have symptoms of an infection including:
-
+- Increased risk of cancer.
+  People who take tacrolimus have an increased risk of getting some kinds of cancer, including skin and lymph gland cancer (lymphoma).
+- Increased risk of infection.
+  Tacrolimus is a medicine that affects your immune system.
+  Tacrolimus can lower the ability of your immune system to fight infections.
+  Serious infections can happen in people receiving tacrolimus that can cause death.
+  Call your doctor right away if you have symptoms of an infection including:
 - Fever
 - muscle aches
 - warm, red, or painful areas on your fever
@@ -28,7 +27,10 @@ Tacrolimus can cause serious side effects, including:
 
 What is tacrolimus?
 
-Tacrolimus is a prescription medicine used with other medicines to help prevent organ rejection in people who have had a kidney, liver, or heart transplant.
+• Tacrolimus is a prescription medicine used with other medicines to help prevent organ rejection in people who have had a kidney, liver, or heart transplant.
+
+• Tacrolimus capsules are types of tacrolimus immediate-release drugs and they are not the same as tacrolimus extended-release tablets or tacrolimus extended-release capsules.
+Your healthcare provider should decide what medicine is right for you.
 
 Who should not take tacrolimus?
 
@@ -125,8 +127,8 @@ Tacrolimus capsules may cause serious side effects, including:
   - confusion
   - drowsiness
   - loss of appetite
-  - fruity smell on your breath nausea
-  - vomiting, or stomach pain
+  - fruity smell on your breath
+  - nausea, vomiting, or stomach pain
 
 - kidney problems.
   Kidney problems are a serious and common side effect of tacrolimus.
@@ -135,7 +137,7 @@ Tacrolimus capsules may cause serious side effects, including:
   Nervous system problems are a serious and common side effect of tacrolimus.
   Call your healthcare provider right away if you get any of these symptoms while taking tacrolimus capsules.
   These could be signs of a serious nervous system problem:
-  - headaches
+  - headache
   - confusion
   - seizures
   - change in your vision
@@ -199,17 +201,21 @@ Keep tacrolimus capsules and all medicines out of reach of children.
 
 General information about the safe and effective use of tacrolimus capsules
 
-Medicines are sometimes prescribed for purposes other than those listed in a Patient Information leaflet.
+•Medicines are sometimes prescribed for purposes other than those listed in a Patient Information leaflet.
 Do not use tacrolimus capsules for a condition for which it was not prescribed.
 Do not give tacrolimus capsules to other people, even if they have the same symptoms that you have.
 It may harm them.
 You can ask your pharmacist or healthcare provider for information about tacrolimus that is written for health professionals.
 
+• This Patient Information leaflet summarizes the most important information about Tacrolimus.
+If you would like more information, talk to your healthcare provider.
+
 What are the ingredients in tacrolimus capsules?
 
 Active ingredient: Tacrolimus, USP
 
-Inactive ingredients: lactose monohydrate, hypromellose, croscarmellose sodium, and magnesium stearate, gelatin, titanium dioxide and ferric oxide yellow.
+Inactive ingredients: croscarmellose sodium NF, hypromellose USP, lactose monohydrate NF, and magnesium stearate NF.
+The 0.5 mg capsule shell contains, FD & C Blue 1, FD & C Red 40, gelatin NF and titanium dioxide USP, the 1 mg capsule shell contains FD & C Blue 1, gelatin NF, iron oxide yellow and titanium dioxide USP, and the 5 mg capsule shell contains D & C Red 28, D & C Yellow 10, FD & C Blue 1, gelatin NF, and titanium dioxide USP.
 
 Manufactured by:
 
@@ -223,4 +229,4 @@ Strides Pharma Inc.
 
 East Brunswick, NJ 08816
 
-Revised: 06/2019
+Revised: 11/2019

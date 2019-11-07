@@ -13,4 +13,4 @@ It is practically insoluble in water, freely soluble in ethanol, and very solubl
 
 Tacrolimus is available for oral administration as capsules (tacrolimus capsules USP) containing the equivalent of 0.5 mg, 1 mg or 5 mg of anhydrous tacrolimus USP.
 Inactive ingredients include croscarmellose sodium NF, hypromellose USP, lactose monohydrate NF, and magnesium stearate NF.
-The 0.5 mg capsule shell contains ferric oxide NF, gelatin NF and titanium dioxide USP, the 1 mg capsule shell contains gelatin NF and titanium dioxide USP, and the 5 mg capsule shell contains ferric oxide NF, gelatin NF, and titanium dioxide USP.
+The 0.5 mg capsule shell contains, FD & C Blue 1, FD & C Red 40, gelatin NF and titanium dioxide USP, the 1 mg capsule shell contains FD & C Blue 1, gelatin NF, iron oxide yellow and titanium dioxide USP, and the 5 mg capsule shell contains D & C Red 28, D & C Yellow 10, FD & C Blue 1, gelatin NF, and titanium dioxide USP.
