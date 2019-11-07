@@ -2,7 +2,7 @@
 
 NDC 28105-421-40
 
-Tolak™ (fluorouracil) Cream 4%
+Tolak® (fluorouracil) Cream 4%
 
 Rx only
 
