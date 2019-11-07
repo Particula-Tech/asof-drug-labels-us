@@ -60,7 +60,7 @@ Junel® Fe 1/20
 
 ethinyl estradiol tablets, USP
 
-ferrous fumarate tablets*)
+and ferrous fumarate tablets*)
 
 Contains 6 blister cards, each containing 28 tablets.
 Each light yellow
@@ -144,7 +144,7 @@ Junel® Fe 1.5/30
 
 ethinyl estradiol tablets, USP
 
-ferrous fumarate tablets*)
+and ferrous fumarate tablets*)
 
 Contains 6 blister cards, each containing 28 tablets.
 Each pink tablet
