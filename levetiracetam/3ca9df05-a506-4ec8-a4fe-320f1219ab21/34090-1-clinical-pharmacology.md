@@ -3,17 +3,6 @@
 ## 12.1 Mechanism of Action
 
 The precise mechanism(s) by which levetiracetam exerts its antiepileptic effect is unknown.
-The antiepileptic activity of levetiracetam was assessed in a number of animal models of epileptic seizures.
-Levetiracetam did not inhibit single seizures induced by maximal stimulation with electrical current or different chemoconvulsants and showed only minimal activity in submaximal stimulation and in threshold tests.
-Protection was observed, however, against secondarily generalized activity from focal seizures induced by pilocarpine and kainic acid, two chemoconvulsants that induce seizures that mimic some features of human complex partial seizures with secondary generalization.
-Levetiracetam also displayed inhibitory properties in the kindling model in rats, another model of human complex partial seizures, both during kindling development and in the fully kindled state.
-The predictive value of these animal models for specific types of human epilepsy is uncertain.
-
-In vitro and in vivo recordings of epileptiform activity from the hippocampus have shown that levetiracetam inhibits burst firing without affecting normal neuronal excitability, suggesting that levetiracetam may selectively prevent hypersynchronization of epileptiform burst firing and propagation of seizure activity.
-
-Levetiracetam at concentrations of up to 10 µM did not demonstrate binding affinity for a variety of known receptors, such as those associated with benzodiazepines, GABA (gamma-aminobutyric acid), glycine, NMDA (N-methyl-D-aspartate), re-uptake sites, and second messenger systems.
-Furthermore, in vitro studies have failed to find an effect of levetiracetam on neuronal voltage-gated sodium or T-type calcium currents and levetiracetam does not appear to directly facilitate GABAergic neurotransmission.
-However, in vitro studies have demonstrated that levetiracetam opposes the activity of negative modulators of GABA- and glycine-gated currents and partially inhibits N-type calcium currents in neuronal cells.
 
 A saturable and stereoselective neuronal binding site in rat brain tissue has been described for levetiracetam.
 Experimental data indicate that this binding site is the synaptic vesicle protein SV2A, thought to be involved in the regulation of vesicle exocytosis.
@@ -30,11 +19,13 @@ Therefore, there was no evidence of significant QTc prolongation in this study.
 
 ## 12.3 Pharmacokinetics
 
+The pharmacokinetics of levetiracetam are similar when used as monotherapy or as adjunctive therapy for the treatment of partial-onset seizures.
+
 Absorption and Distribution
 
 Absorption of levetiracetam is rapid, with peak plasma concentrations occurring in about an hour following oral administration in fasted subjects.
 The oral bioavailability of levetiracetam tablets is 100% and the tablets and oral solution are bioequivalent in rate and extent of absorption.
-Food does not affect the extent of absorption of levetiracetam but it decreases C max by 20% and delays T max by 1.5 hours.
+Food does not affect the extent of absorption of levetiracetam but it decreases Cmax by 20% and delays Tmax by 1.5 hours.
 The pharmacokinetics of levetiracetam are linear over the dose range of 500-5000 mg.
 Steady state is achieved after 2 days of multiple twice-daily dosing.
 Levetiracetam and its major metabolite are less than 10% bound to plasma proteins; clinically significant interactions with other drugs through competition for protein binding sites are therefore unlikely.
@@ -71,7 +62,7 @@ Pharmacokinetics of levetiracetam were evaluated in 24 pediatric patients (age 6
 The body weight adjusted apparent clearance of levetiracetam was approximately 40% higher than in adults.
 
 A repeat dose pharmacokinetic study was conducted in pediatric patients (age 4-12 years) at doses of 20 mg/kg/day, 40 mg/kg/day, and 60 mg/kg/day.
-The evaluation of the pharmacokinetic profile of levetiracetam and its metabolite (ucb L057) in 14 pediatric patients demonstrated rapid absorption of levetiracetam at all doses with a T max of about 1 hour and a t 1/2 of 5 hours across the three dosing levels.
+The evaluation of the pharmacokinetic profile of levetiracetam and its metabolite (ucb L057) in 14 pediatric patients demonstrated rapid absorption of levetiracetam at all doses with a Tmax of about 1 hour and a t1/2 of 5 hours across the three dosing levels.
 The pharmacokinetics of levetiracetam in children was linear between 20 to 60 mg/kg/day.
 The potential interaction of levetiracetam with other AEDs was also evaluated in these patients.
 Levetiracetam had no significant effect on the plasma concentrations of carbamazepine, valproic acid, topiramate or lamotrigine.
@@ -84,11 +75,11 @@ Population pharmacokinetic analysis showed that body weight was significantly co
 
 Pregnancy
 
-Levetiracetam levels may decrease during pregnancy.
+Levetiracetam levels may decrease during pregnancy [see Warnings and Precautions (5.10) and Use in Specific Populations (8.1)].
 
 Gender
 
-Levetiracetam C max and AUC were 20% higher in women (N=11) compared to men (N=12).
+Levetiracetam Cmax and AUC were 20% higher in women (N=11) compared to men (N=12).
 However, clearances adjusted for body weight were comparable.
 
 Race
@@ -115,7 +106,7 @@ No dose adjustment is needed for patients with hepatic impairment.
 Drug Interactions
 
 In vitro data on metabolic interactions indicate that levetiracetam is unlikely to produce, or be subject to, pharmacokinetic interactions.
-Levetiracetam and its major metabolite, at concentrations well above C max levels achieved within the therapeutic dose range, are neither inhibitors of, nor high affinity substrates for, human liver cytochrome P450 isoforms, epoxide hydrolase or UDP-glucuronidation enzymes.
+Levetiracetam and its major metabolite, at concentrations well above Cmax levels achieved within the therapeutic dose range, are neither inhibitors of, nor high affinity substrates for, human liver cytochrome P450 isoforms, epoxide hydrolase or UDP-glucuronidation enzymes.
 In addition, levetiracetam does not affect the in vitro glucuronidation of valproic acid.
 
 Potential pharmacokinetic interactions of or with levetiracetam were assessed in clinical pharmacokinetic studies (phenytoin, valproate, warfarin, digoxin, oral contraceptive, probenecid) and through pharmacokinetic screening in the placebo-controlled clinical studies in epilepsy patients.
@@ -161,6 +152,6 @@ Coadministration of warfarin did not affect the pharmacokinetics of levetiraceta
 Probenecid
 
 Probenecid, a renal tubular secretion blocking agent, administered at a dose of 500 mg four times a day, did not change the pharmacokinetics of levetiracetam 1000 mg twice daily.
-C ssmax of the metabolite, ucb L057, was approximately doubled in the presence of probenecid while the fraction of drug excreted unchanged in the urine remained the same.
+Cssmax of the metabolite, ucb L057, was approximately doubled in the presence of probenecid while the fraction of drug excreted unchanged in the urine remained the same.
 Renal clearance of ucb L057 in the presence of probenecid decreased 60%, probably related to competitive inhibition of tubular secretion of ucb L057.
 The effect of KEPPRA on probenecid was not studied.

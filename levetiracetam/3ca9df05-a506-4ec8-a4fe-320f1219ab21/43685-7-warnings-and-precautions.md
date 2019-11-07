@@ -60,9 +60,6 @@ Anyone considering prescribing KEPPRA or any other AED must balance the risk of 
 Epilepsy and many other illnesses for which AEDs are prescribed are themselves associated with morbidity and mortality and an increased risk of suicidal thoughts and behavior.
 Should suicidal thoughts and behavior emerge during treatment, the prescriber needs to consider whether the emergence of these symptoms in any given patient may be related to the illness being treated.
 
-Patients, their caregivers, and families should be informed that AEDs increase the risk of suicidal thoughts and behavior and should be advised of the need to be alert for the emergence or worsening of the signs and symptoms of depression, any unusual changes in mood or behavior, or the emergence of suicidal thoughts, behavior, or thoughts about self-harm.
-Behaviors of concern should be reported immediately to healthcare providers.
-
 ## 5.3 Somnolence and Fatigue
 
 KEPPRA may cause somnolence and fatigue.
@@ -70,7 +67,7 @@ Patients should be monitored for these signs and symptoms and advised not to dri
 
 Somnolence
 
-In controlled trials of adult patients with epilepsy experiencing partial onset seizures, 15% of KEPPRA-treated patients reported somnolence, compared to 8% of placebo-treated patients.
+In controlled trials of adult patients with epilepsy experiencing partial-onset seizures, 15% of KEPPRA-treated patients reported somnolence, compared to 8% of placebo-treated patients.
 There was no clear dose response up to 3000 mg/day.
 In a study where there was no titration, about 45% of patients receiving 4000 mg/day reported somnolence.
 The somnolence was considered serious in 0.3% of KEPPRA-treated patients, compared to 0% in the placebo group.
@@ -79,12 +76,12 @@ In 1.4% of KEPPRA-treated patients and 0.9% of placebo-treated patients, the dos
 
 Asthenia
 
-In controlled clinical studies of adult patients with epilepsy experiencing partial onset seizures, 15% of KEPPRA-treated patients reported asthenia, compared to 9% of placebo-treated patients.
+In controlled clinical studies of adult patients with epilepsy experiencing partial-onset seizures, 15% of KEPPRA-treated patients reported asthenia, compared to 9% of placebo-treated patients.
 Treatment was discontinued due to asthenia in 0.8% of KEPPRA-treated patients as compared to 0.5% of placebo-treated patients.
 In 0.5% of KEPPRA-treated patients and in 0.2% of placebo-treated patients, the dose was reduced due to asthenia.
 
 Somnolence and asthenia occurred most frequently within the first 4 weeks of treatment.
-In general, the incidences of somnolence and fatigue in the pediatric partial onset seizure studies, and in pediatric and adult myoclonic and primary generalized tonic-clonic seizure studies were comparable to those of the adult partial onset seizure studies.
+In general, the incidences of somnolence and fatigue in the pediatric partial-onset seizure studies, and in pediatric and adult myoclonic and primary generalized tonic-clonic seizure studies were comparable to those of the adult partial-onset seizure studies.
 
 ## 5.4 Anaphylaxis and Angioedema
 
@@ -106,7 +103,7 @@ If signs or symptoms suggest SJS/TEN, use of this drug should not be resumed and
 
 KEPPRA may cause coordination difficulties.
 
-In controlled clinical studies in adult patients with partial onset seizure studies, 3.4% of adult KEPPRA-treated patients experienced coordination difficulties, (reported as either ataxia, abnormal gait, or incoordination) compared to 1.6% of placebo-treated patients.
+In controlled clinical studies in adult patients with partial-onset seizure studies, 3.4% of adult KEPPRA-treated patients experienced coordination difficulties, (reported as either ataxia, abnormal gait, or incoordination) compared to 1.6% of placebo-treated patients.
 A total of 0.4% of patients in controlled clinical studies discontinued KEPPRA treatment due to ataxia, compared to 0% of placebo-treated patients.
 In 0.7% of KEPPRA-treated patients and in 0.2% of placebo-treated patients, the dose was reduced due to coordination difficulties, while one of the KEPPRA-treated patients was hospitalized due to worsening of pre-existing ataxia.
 These events occurred most frequently within the first 4 weeks of treatment.
@@ -115,7 +112,8 @@ Patients should be monitored for these signs and symptoms and advised not to dri
 
 ## 5.7 Withdrawal Seizures
 
-Antiepileptic drugs, including KEPPRA, should be withdrawn gradually to minimize the potential of increased seizure frequency.
+As with most antiepileptic drugs, KEPPRA should generally be withdrawn gradually because of the risk of increased seizure frequency and status epilepticus.
+If withdrawal is needed because of a serious adverse reaction, rapid discontinuation can be considered.
 
 ## 5.8 Hematologic Abnormalities
 
@@ -124,26 +122,26 @@ Hematologic abnormalities occurred in clinical trials and included decreases in 
 Cases of agranulocytosis, pancytopenia, and thrombocytopenia have been reported in the postmarketing setting.
 A complete blood count is recommended in patients experiencing significant weakness, pyrexia, recurrent infections, or coagulation disorders.
 
-Partial Onset Seizures
+Partial-Onset Seizures
 
 Adults
 
-Minor, but statistically significant, decreases compared to placebo in total mean RBC count (0.03 × 10 6/mm 3), mean hemoglobin (0.09 g/dL), and mean hematocrit (0.38%), were seen in KEPPRA-treated patients in controlled trials.
+Minor, but statistically significant, decreases compared to placebo in total mean RBC count (0.03 × 106/mm3), mean hemoglobin (0.09 g/dL), and mean hematocrit (0.38%), were seen in KEPPRA-treated patients in controlled trials.
 
-A total of 3.2% of KEPPRA-treated and 1.8% of placebo-treated patients had at least one possibly significant (≤2.8 × 10 9/L) decreased WBC, and 2.4% of KEPPRA-treated and 1.4% of placebo-treated patients had at least one possibly significant (≤1.0 × 10 9/L) decreased neutrophil count.
+A total of 3.2% of KEPPRA-treated and 1.8% of placebo-treated patients had at least one possibly significant (≤2.8 × 109/L) decreased WBC, and 2.4% of KEPPRA-treated and 1.4% of placebo-treated patients had at least one possibly significant (≤1.0 × 109/L) decreased neutrophil count.
 Of the KEPPRA-treated patients with a low neutrophil count, all but one rose towards or to baseline with continued treatment.
 No patient was discontinued secondary to low neutrophil counts.
 
 Pediatric Patients 4 Years to < 16 Years
 
 Statistically significant decreases in WBC and neutrophil counts were seen in KEPPRA-treated patients as compared to placebo.
-The mean decreases from baseline in the KEPPRA-treated group were -0.4 × 10 9/L and -0.3 × 10 9/L, respectively, whereas there were small increases in the placebo group.
+The mean decreases from baseline in the KEPPRA-treated group were -0.4 × 109/L and -0.3 × 109/L, respectively, whereas there were small increases in the placebo group.
 Mean relative lymphocyte counts increased by 1.7% in KEPPRA-treated patients, compared to a decrease of 4% in placebo patients (statistically significant).
 
 In the controlled trial, more KEPPRA-treated patients had a possibly clinically significant abnormally low WBC value (3% of KEPPRA-treated patients versus 0% of placebo-treated patients), however, there was no apparent difference between treatment groups with respect to neutrophil count (5% of KEPPRA-treated patients versus 4.2% of placebo-treated patients).
 No patient was discontinued secondary to low WBC or neutrophil counts.
 
-In the controlled cognitive and neuropsychological safety study, 5 patients (8.6%) in the KEPPRA-treated group and two patients (6.1%) in the placebo-treated group had high eosinophil count values that were possibly clinically significant (≥10% or ≥0.7×10 9/L).
+In the controlled cognitive and neuropsychological safety study, 5 patients (8.6%) in the KEPPRA-treated group and two patients (6.1%) in the placebo-treated group had high eosinophil count values that were possibly clinically significant (≥10% or ≥0.7×109/L).
 
 ## 5.9 Increase in Blood Pressure
 
