@@ -12,6 +12,8 @@ Rx Only
 
 NET: 4 fl oz (118 mL)
 
+# PRINCIPAL DISPLAY PANEL
+
 ACELLA Pharmaceuticals LLC
 
 NDC 42192-607-16
