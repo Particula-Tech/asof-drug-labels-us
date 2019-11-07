@@ -12,11 +12,13 @@ DO NOT REFRIGERATE.
 
 Rx only
 
-Distributed by: MEDA Pharmaceuticals® Meda Pharmaceuticals Inc. Somerset, New Jersey 08873-4120 ©2015 Meda Pharmaceuticals Inc.
+Distributed by: MEDA Pharmaceuticals® Meda Pharmaceuticals Inc. Somerset, New Jersey 08873-4120 ©2018 Meda Pharmaceuticals Inc.
 
 For Medical Inquiries, call toll-free 1-877-848-6608
 
 CORTIFOAM and MEDA PHARMACEUTICALS are registered trademarks of Meda AB or a related entity.
 
-IN-683015-01D CIA71189C Rev.
-5/2015
+IN-683015-03 Rev.
+7/2018
+
+26612

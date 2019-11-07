@@ -136,7 +136,7 @@ No adequate studies have been conducted in animals to determine whether corticos
 
 Steroids may increase or decrease motility and number of spermatozoa in some patients.
 
-## Pregnancy: Teratogenic effects: Pregnancy Category C.
+## Pregnancy: Teratogenic Effects:
 
 Corticosteroids have been shown to be teratogenic in many species when given in doses equivalent to the human dose.
 Animal studies in which corticosteroids have been given to pregnant mice, rats, and rabbits have yielded an increased incidence of cleft palate in the offspring.

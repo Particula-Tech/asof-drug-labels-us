@@ -1,6 +1,8 @@
 # ADVERSE REACTIONS
 
-(listed alphabetically, under each subsection) To report SUSPECTED ADVERSE REACTIONS, contact Meda Pharmaceuticals Inc. at 1-877-848-6608 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
+(listed alphabetically, under each subsection)
+
+To report SUSPECTED ADVERSE REACTIONS, contact Meda Pharmaceuticals Inc. at 1-877-848-6608 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
 
 Allergic reactions: Anaphylactoid reaction, anaphylaxis, angioedema.
 
