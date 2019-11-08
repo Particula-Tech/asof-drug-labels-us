@@ -10,7 +10,7 @@ MEDIMETRIKS PHARMACEUTICALS, INC.
 
 Manufactured by: Teligent Pharma, Inc., Buena, NJ 08310
 
-IP030-R5
+IP030-R6
 
 Rev.
-4/17
+6/18
