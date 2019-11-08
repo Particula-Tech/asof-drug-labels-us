@@ -13,7 +13,7 @@ Should convulsions persist despite adequate respiratory support, and if the stat
 The clinician should be familiar, prior to the use of local anesthetics, with these anticonvulsant drugs.
 Supportive treatment of circulatory depression may
 
-require administration of intravenous fluids and, when appropriate, a vasopressor as directed by the clinical situation(e.g., ephedrine).
+require administration of intravenous fluids and, when appropriate, a vasopressor as directed by the clinical situation (e.g., ephedrine).
 
 If not treated immediately, both convulsions and cardiovascular depression can result in hypoxia, acidosis, bradycardia, arrhythmias and cardiac arrest.
 Underventilation or apnea due to unintentional subarachnoid injection of local anesthetic solution may produce these same signs and also lead to cardiac arrest if ventilatory support is not instituted.

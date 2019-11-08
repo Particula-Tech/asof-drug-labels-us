@@ -27,7 +27,7 @@ Note, however, that the absence of blood in the syringe does not guarantee that 
 
 Local anesthetic solutions containing antimicrobial preservatives (e.g., methylparaben) should not be used for epidural or spinal anesthesia because the safety of these agents has not been established with regard to intrathecal injection, either intentional or accidental.
 
-Xylocaine with epinephrine solutions contain sodium metabisulfite, a sulfite that may cause allergic- type reactions including anaphylactic symptoms and life-threatening or less severe asthmatic episodes in certain susceptible people.
+Xylocaine with epinephrine solutions contain sodium metabisulfite, a sulfite that may cause allergic-type reactions including anaphylactic symptoms and life-threatening or less severe asthmatic episodes in certain susceptible people.
 The overall prevalence of sulfite sensitivity in the general population is unknown and probably low.
 Sulfite sensitivity is seen more frequently in asthmatic than in non-asthmatic people.
 
@@ -82,7 +82,7 @@ Proper tourniquet technique, as described in publications and standard textbooks
 Solutions containing epinephrine or other vasoconstrictors should not be used for this technique.
 
 Lidocaine HCl should be used with caution in persons with known drug sensitivities.
-Patients allergic to para-aminobenzoic acid derivatives (procaine, tetracaine, benzocaine, etc.) have not shown cross- sensitivity to lidocaine HCl.
+Patients allergic to para-aminobenzoic acid derivatives (procaine, tetracaine, benzocaine, etc.) have not shown cross-sensitivity to lidocaine HCl.
 
 ## Use in the Head and Neck Area
 
@@ -174,7 +174,7 @@ Prompt use of supportive measures combined with forced urinary excretion of the 
 Case reports of maternal convulsions and cardiovascular collapse following use of some local anesthetics for paracervical block in early pregnancy (as anesthesia for elective abortion) suggest that systemic absorption under these circumstances may be rapid.
 The recommended maximum dose of each drug should not be exceeded.
 Injection should be made slowly and with frequent aspiration.
-Allow a 5- minute interval between sides.
+Allow a 5-minute interval between sides.
 
 ## Nursing Mothers
 
