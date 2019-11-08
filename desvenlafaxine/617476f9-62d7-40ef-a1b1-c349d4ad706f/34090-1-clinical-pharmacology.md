@@ -50,7 +50,7 @@ Excretion
 Approximately 45% of desvenlafaxine is excreted unchanged in urine at 72 hours after oral administration.
 Approximately 19% of the administered dose is excreted as the glucuronide metabolite and <5% as the oxidative metabolite (N,O-didesmethylvenlafaxine) in urine.
 
-Specific populations
+Specific Populations
 
 No clinically significant differences in the exposures of desvenlafaxine were observed based on ethnicity (White, Black, Hispanic).
 

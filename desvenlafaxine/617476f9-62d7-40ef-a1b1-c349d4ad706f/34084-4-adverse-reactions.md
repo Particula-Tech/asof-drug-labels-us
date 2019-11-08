@@ -39,7 +39,7 @@ The most commonly observed adverse reactions in desvenlafaxine extended-release 
 
 Table 2 shows the incidence of common adverse reactions that occurred in ≥ 2% of desvenlafaxine extended-release tablets treated MDD patients and twice the rate of placebo at any dose in the pre-marketing pooled 8-week, placebo-controlled, fixed dose clinical studies.
 
-Table 2: Common Adverse Reactions (≥2% in any Fixed-Dose Group and Twice the Rate of Placebo) in Pre-marketing Pooled MDD 8-Week Placebo-Controlled Studies
+Table 2: Common Adverse Reactions (≥ 2% in any Fixed-Dose Group and Twice the Rate of Placebo) in Pre-marketing Pooled MDD 8-Week Placebo-Controlled Studies
 
 | Percentage of Patients Reporting Reaction |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -108,7 +108,7 @@ Table 3: Sexual Function Adverse Reactions (≥ 2% in Men or Women in any Desven
 
 Other adverse reactions observed in premarketing and postmarketing clinical studies
 
-Other infrequent adverse reactions, not described elsewhere in the label, occurring at an incidence of less than 2% in MDD patients treated with desvenlafaxine extended-release tablets were:
+Other infrequent adverse reactions, not described elsewhere in the label, occurring at an incidence of < 2% in MDD patients treated with desvenlafaxine extended-release tablets were:
 
 Cardiac disorders – Tachycardia.
 
@@ -193,7 +193,7 @@ Table 7: Proportion of Patients with Sustained Elevation of Supine Diastolic Blo
 
 Orthostatic hypotension
 
-In the pre-marketing short-term, placebo-controlled clinical studies with doses of 50 to 400 mg, systolic orthostatic hypotension (decrease ≥30 mm Hg from supine to standing position) occurred more frequently in patients ≥65 years of age receiving desvenlafaxine extended-release tablets (8%, 7/87) versus placebo (2.5%, 1/40), compared to patients less than 65 years of age receiving desvenlafaxine extended-release tablets (0.9%, 18/1,937) versus placebo (0.7%, 8/1,218).
+In the pre-marketing short-term, placebo-controlled clinical studies with doses of 50 to 400 mg, systolic orthostatic hypotension (decrease ≥30 mm Hg from supine to standing position) occurred more frequently in patients ≥65 years of age receiving desvenlafaxine extended-release tablets (8%, 7/87) versus placebo (2.5%, 1/40), compared to patients < 65 years of age receiving desvenlafaxine extended-release tablets (0.9%, 18/1,937) versus placebo (0.7%, 8/1,218).
 
 ## 6.2 Postmarketing Experience
 

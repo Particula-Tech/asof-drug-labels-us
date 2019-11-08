@@ -52,7 +52,9 @@ Advise patients to notify their physician if they develop allergic phenomena suc
 
 Pregnancy
 
-Advise patients to notify their physician if they become pregnant or intend to become pregnant during therapy [see Use in Specific Populations (8.1)].
+Advise patients to notify their physician if they become pregnant or intend to become pregnant during therapy.
+Advise patients that there is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to desvenlafaxine extended-release tablets during pregnancy [see Use in Specific Populations (8.1)].
+[see Use in Specific Populations (8.1)].
 
 Residual Inert Matrix Tablet
 
@@ -63,4 +65,5 @@ Manufactured by: Actavis Laboratories FL, Inc. Fort Lauderdale, FL 33314 USA
 
 Distributed by: Actavis Pharma, Inc. Parsippany, NJ 07054 USA
 
-Revised:2/2018
+Rev.
+A 10/2019
