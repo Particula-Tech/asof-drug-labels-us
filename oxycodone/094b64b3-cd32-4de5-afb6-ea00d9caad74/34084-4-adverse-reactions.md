@@ -60,7 +60,7 @@ Vascular disorders: thrombophlebitis, hemorrhage, hypotension, vasodilatation
 
 ## 6.2 Postmarketing Experience
 
-The following adverse reactions have been identified during post approval use of oxycodone.
+The following adverse reactions have been identified during post-approval use of oxycodone.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 General disorders and administrative site disorders: drug withdrawal syndrome neonatal [see Warnings and Precautions (5.4)]

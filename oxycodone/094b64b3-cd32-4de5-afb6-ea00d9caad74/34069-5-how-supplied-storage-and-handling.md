@@ -63,3 +63,5 @@ Dispense in a tight, light-resistant container as defined in the USP, with a chi
 Protect from moisture.
 
 Store at 20° to 25°C (68° to 77°F); excursions are permitted between 15° to 30°C (59° to 86°F) [see USP Controlled Room Temperature].
+
+Store oxycodone HCl securely and dispose of properly [see Patient Counseling Information (17)].

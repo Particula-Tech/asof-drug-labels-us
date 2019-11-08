@@ -21,7 +21,7 @@ Oxycodone causes miosis, even in total darkness.
 Pinpoint pupils are a sign of opioid overdose but are not pathognomonic (e.g., pontine lesions of hemorrhagic or ischemic origins may produce similar findings).
 Marked mydriasis rather than miosis may be seen due to hypoxia in overdose situations.
 
-Effects on Gastrointestinal Tract And Other Smooth Muscle
+Effects on Gastrointestinal Tract and Other Smooth Muscle
 
 Oxycodone causes a reduction in motility associated with an increase in smooth muscle tone in the antrum of the stomach and duodenum.
 Digestion of food in the small intestine is delayed and propulsive contractions are decreased.
@@ -62,9 +62,10 @@ In opioid-tolerant patients, the situation may be altered by the development of 
 The activity of oxycodone HCl tablets is primarily due to the parent drug oxycodone.
 Oxycodone HCl tablets are designed to provide immediate release of oxycodone.
 
-| Table 2: Pharmacokinetic Parameters (Mean±SD) |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- |
+Table 2: Pharmacokinetic Parameters (Mean±SD)
+
 | Dose\Parameters | AUC (ngxhr/mL) | Cmax (ng/mL) | Tmax (hr) | Cmin (ng/mL) | Cavg (ng/mL) | Half-Life (hr) |
+| --- | --- | --- | --- | --- | --- | --- |
 | Single Dose Pharmacokinetics |  |  |  |  |  |  |
 | Oxycodone HCl 5 mg tabs x 3 | 133.2±33 | 22.3±8.2 | 1.8±1.8 | n/a | n/a | 3.73±0.9 |
 | Oxycodone HCl 15 mg tab | 128.2±35.1 | 22.2±7.6 | 1.4±0.7 | n/a | n/a | 3.55±1.0 |

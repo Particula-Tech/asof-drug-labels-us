@@ -48,6 +48,10 @@ Overestimating the oxycodone HCl dosage when converting patients from another op
 
 Accidental ingestion of even one dose of oxycodone HCl, especially by children, can result in respiratory depression and death due to an overdose of oxycodone.
 
+Opioids can cause sleep-related breathing disorders including central sleep apnea (CSA) and sleep-related hypoxemia.
+Opioid use increases the risk of CSA in a dose-dependent fashion.
+In patients who present with CSA, consider decreasing the opioid dosage using best practices for opioid taper [see Dosage and Administration (2.4)].
+
 ## 5.4 Neonatal Opioid Withdrawal Syndrome
 
 Prolonged use of oxycodone HCl during pregnancy can result in withdrawal in the neonate.
@@ -61,7 +65,7 @@ Concomitant use of oxycodone HCl with a CYP3A4 inhibitor, such as macrolide anti
 Similarly, discontinuation of a CYP3A4 inducer, such as rifampin, carbamazepine, and phenytoin, in oxycodone HCl-treated patients may increase oxycodone plasma concentrations and prolong opioid adverse reactions.
 When using oxycodone HCl with CYP3A4 inhibitors or discontinuing CYP3A4 inducers in oxycodone HCl-treated patients, monitor patients closely at frequent intervals and consider dosage reduction of oxycodone HCl until stable drugs effects are achieved [see Drug Interactions (7)].
 
-Concomitant use of oxycodone HCl with CYP3A4 inducers or discontinuation of a CYP3A4 inhibitor could decrease oxycodone plasma concentrations, decrease opioid efficacy or, possibly, lead to a withdrawal syndrome in a patient who had developed physical dependence to oxycodone.
+Concomitant use of oxycodone HCl with CYP3A4 inducers or discontinuation of an CYP3A4 inhibitor could decrease oxycodone plasma concentrations, decrease opioid efficacy or, possibly, lead to a withdrawal syndrome in a patient who had developed physical dependence to oxycodone.
 When using oxycodone HCl with CYP3A4 inducers or discontinuing CYP3A4 inhibitors, monitor patients closely at frequent intervals and consider increasing the opioid dosage if needed to maintain adequate analgesia or if symptoms of opioid withdrawal occur [see Drug Interactions (7)].
 
 ## 5.6 Risks from Concomitant Use with Benzodiazepines or Other CNS Depressants
@@ -133,11 +137,12 @@ Monitor patients with a history of seizure disorders for worsened seizure contro
 
 ## 5.13 Withdrawal
 
-Avoid the use of mixed agonist/antagonist (e.g., pentazocine, nalbuphine, and butorphanol) or partial agonist (e.g., buprenorphine) analgesics in patients who are receiving a full opioid agonist analgesic, including oxycodone HCl.
-In these patients, mixed agonist/antagonist and partial agonist analgesics may reduce the analgesic effect and/or precipitate withdrawal symptoms [see Drug Interactions (7)].
+Do not abruptly discontinue oxycodone HCl in a patient physically dependent on opioids.
+When discontinuing oxycodone HCl in a physically dependent patient, gradually taper the dosage.
+Rapid tapering of oxycodone in a patient physically dependent on opioids may lead to a withdrawal syndrome and return of pain [see Dosage and Administration (2.4), Drug Abuse and Dependence (9.3)].
 
-When discontinuing oxycodone HCl in a physically-dependent patient, gradually taper the dosage [see Dosage and Administration (2.4)].
-Do not abruptly discontinue oxycodone HCl in these patients [see Drug Abuse and Dependence (9.3)].
+Additionally, avoid the use of mixed agonist/antagonist (e.g., pentazocine, nalbuphine, and butorphanol) or partial agonist (e.g., buprenorphine) analgesics in patients who are receiving a full opioid agonist analgesic, including oxycodone HCl.
+In these patients, mixed agonist/antagonist and partial agonist analgesics may reduce the analgesic effect and/or precipitate withdrawal symptoms [see Drug Interactions (7)].
 
 ## 5.14 Risks of Driving and Operating Machinery
 

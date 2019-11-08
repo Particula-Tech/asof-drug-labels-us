@@ -2,6 +2,15 @@
 
 Advise the patient to read the FDA-approved patient labeling (Medication Guide).
 
+Storage and Disposal
+
+Because of the risks associated with accidental ingestion, misuse, and abuse, advise patients to store oxycodone HCl securely, out of sight and reach of children, and in a location not accessible by others, including visitors to the home [see Warnings and Precautions (5.1, 5.3), Drug Abuse and Dependence (9.2)].
+Inform patients that leaving oxycodone HCl unsecured can pose a deadly risk to others in the home.
+
+Advise patients and caregivers that when medicines are no longer needed, they should be disposed of promptly.
+Expired, unwanted, or unused oxycodone HCl should be disposed of by flushing the unused medication down the toilet if a drug take-back option is not readily available.
+Inform patients that they can visit www.fda.gov/drugdisposal for a complete list of medicines recommended for disposal by flushing, as well as additional information on disposal of unused medicines.
+
 Addiction, Abuse and Misuse
 
 Inform patients that the use of oxycodone HCl, even when taken as recommended, can result in addiction, abuse, and misuse, which can lead to overdose and death [see Warnings and Precautions (5.1)].
@@ -15,7 +24,6 @@ Advise patients how to recognize respiratory depression and to seek medical atte
 Accidental Ingestion
 
 Inform patients that accidental ingestion, especially by children, may result in respiratory depression or death [see Warnings and Precautions (5.3)].
-Instruct patients to take steps to store oxycodone HCl securely and to dispose of unused oxycodone HCl by flushing the tablets down the toilet or disposing of in accordance with local state guidelines and/or regulations.
 
 Interactions with Benzodiazepines and Other CNS Depressants
 
@@ -42,6 +50,10 @@ Important Administration Instructions
 
 Instruct patients how to properly take oxycodone HCl.
 Patients should be advised not to adjust the dose of oxycodone HCl without consulting the prescribing healthcare provider [see Dosage and Administration (2), Warnings and Precautions (5.13)].
+
+Important Discontinuation Instructions
+
+In order to avoid developing withdrawal symptoms, instruct patients not to discontinue oxycodone HCl without first discussing a tapering plan with the prescriber [see Dosage and Administration (2.4)].
 
 Hypotension
 
@@ -82,13 +94,7 @@ Constipation
 
 Advise patients of the potential for severe constipation, including management instructions and when to seek medical attention [see Adverse Reactions (6), Clinical Pharmacology (12.1)].
 
-Disposal of Unused Oxycodone HCl
-
-Advise patients to dispose of unused oxycodone HCl tablets by flushing the tablets down the toilet or disposing of in accordance with local state guidelines and/or regulations.
-
-To request medical information or to report suspected adverse reactions, contact Amneal Pharmaceuticals at 1-877-835-5472.
-
-Manufactured by: Amneal Pharmaceuticals of NY LLC Brookhaven, NY 11719
+Manufactured by: Amneal Pharmaceuticals of NY, LLC Brookhaven, NY 11719
 
 Rev.
-10-2018-05
+10-2019-06
