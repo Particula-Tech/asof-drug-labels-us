@@ -1,18 +1,18 @@
 PRINCIPAL DISPLAY PANEL - 5 mg 100 Tablet Bottle Label
 
-NDC 62175-270-37 100 tablets
+NDC 62175-270-37
 
 Oxybutynin chloride Extended-release tablets
 
 5 mg
 
-Rx only
+Rx Only
+
+100 Tablets
 
 PRINCIPAL DISPLAY PANEL - 10 mg 100 Tablet Bottle Label
 
 NDC 62175-271-37
-
-100 tablets
 
 Oxybutynin chloride Extended-release tablets
 
@@ -20,12 +20,16 @@ Oxybutynin chloride Extended-release tablets
 
 Rx only
 
+100 Tablets
+
 PRINCIPAL DISPLAY PANEL - 15 mg 100 Tablet Bottle Label
 
-NDC 62175-272-37 100 tablets
+NDC 62175-272-37
 
 Oxybutynin chloride Extended-release tablets
 
 15 mg
 
 Rx only
+
+100 Tablets

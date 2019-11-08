@@ -6,9 +6,9 @@ Entry criteria required that patients have urge or mixed incontinence (with a pr
 Study 1 was a fixed-dose escalation design, whereas the other two studies used a dose-adjustment design in which each patient's final dose was adjusted to a balance between improvement of incontinence symptoms and tolerability of side effects.
 All three studies included patients known to be responsive to oxybutynin or other anticholinergic medications, and these patients were maintained on a final dose for up to 2 weeks.
 
-The efficacy results for the three controlled trials are presented in the following tables and figures.
+The efficacy results for the three controlled trials are presented in the following Tables 4, 5, and 6 and Figures 3, 4, and 5.
 
-Number of Urge Urinary Incontinence Episodes Per Week
+Table 4: Number of Urge Urinary Incontinence Episodes Per Week
 
 | Study 1 | n | Oxybutynin chloride extended-release tablets | n | Placebo |
 | --- | --- | --- | --- | --- |
@@ -19,6 +19,10 @@ Number of Urge Urinary Incontinence Episodes Per Week
 
 * The difference between Oxybutynin chloride extended-release tablets and placebo was statistically significant. † Covariate adjusted mean with missing observations set to baseline values
 
+Figure 3: Mean Change (±SD) in Urge Incontinence Episodes Per Week from Baseline (Study 1)
+
+Table 5: Number of Urge Urinary Incontinence Episodes Per Week (Study 2)
+
 | Study 2 | n | Oxybutynin chloride extended-release tablets | n | oxybutynin |
 | --- | --- | --- | --- | --- |
 | Mean Baseline | 53 | 27.6 | 52 | 23.0 |
@@ -28,6 +32,10 @@ Number of Urge Urinary Incontinence Episodes Per Week
 
 † Covariate adjusted mean with missing observations set to baseline values
 
+Figure 4: Mean Change (±SD) in Urge Urinary Incontinence Episodes Per Week from Baseline (Study 2)
+
+Table 6: Number of Urge Urinary Incontinence Episodes Per Week (Study 3)
+
 | Study 3 | n | Oxybutynin chloride extended-release tablets | n | oxybutynin |
 | --- | --- | --- | --- | --- |
 | Mean Baseline | 111 | 18.9 | 115 | 19.5 |
@@ -36,3 +44,5 @@ Number of Urge Urinary Incontinence Episodes Per Week
 | (Oxybutynin chloride extended-release tablets- oxybutynin) |  |  |  |  |
 
 ** The difference between Oxybutynin chloride extended-release tablets and oxybutynin fulfilled the criteria for comparable efficacy. † Covariate adjusted mean with missing observations set to baseline values
+
+Figure 5: Mean Change(±SD) in Urge Urinary Incontinence Episodes Per Week from Baseline (Study 3)

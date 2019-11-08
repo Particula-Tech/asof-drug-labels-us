@@ -1,10 +1,10 @@
 Distributed by:
 
-Lannett Company, Inc.
+Lannett Company, Inc.,
 
 Philadelphia, PA 19136
 
-CIA72763L
+CIA72763M
 
 Rev.
-11/2018
+10/2019

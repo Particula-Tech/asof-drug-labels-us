@@ -22,7 +22,7 @@ Because many drugs are excreted in human milk, caution should be exercised when 
 ## 8.4 Pediatric Use
 
 The safety and efficacy of Oxybutynin chloride extended-release tablets were studied in 60 children in a 24-week, open-label, non-randomized trial.
-Patients were aged 6–15 years, all had symptoms of detrusor overactivity in association with a neurological condition (e.g., spina bifida), all used clean intermittent catheterization, and all were current users of oxybutynin chloride.
+Patients were aged 6 to 15 years, all had symptoms of detrusor overactivity in association with a neurological condition (e.g., spina bifida), all used clean intermittent catheterization, and all were current users of oxybutynin chloride.
 Study results demonstrated that administration of Oxybutynin chloride extended-release tablets 5 to 20 mg/day was associated with an increase from baseline in mean urine volume per catheterization from 108 mL to 136 mL, an increase from baseline in mean urine volume after morning awakening from 148 mL to 189 mL, and an increase from baseline in the mean percentage of catheterizations without a leaking episode from 34% to 51%.
 
 Urodynamic results were consistent with clinical results.
