@@ -21,3 +21,5 @@ Dispense in a tight, light-resistant container as defined in the USP/NF.
 
 Blisters are not child-resistant.
 Use child-resistant closure if dispensing to outpatient.
+
+Store codeine sulfate tablets securely and dispose of properly [see Patient Counseling Information (17)].

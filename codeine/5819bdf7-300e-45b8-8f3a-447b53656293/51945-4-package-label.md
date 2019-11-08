@@ -33,22 +33,22 @@ Do not use if shrink wrap is open or torn.
 
 NDC 0527-1698-01
 
-CODEINE CII SULFATE TABLETS, USP
+Codeine CII Sulfate Tablets, USP
 
 30 mg
 
-Rx only
+Rx Only
 
-100 TABLETS
+100 Tablets
 
 # PRINCIPAL DISPLAY PANEL - 60 mg Container Label
 
 NDC 0527-1699-01
 
-CODEINE CII SULFATE TABLETS, USP
+Codeine CII Sulfate Tablets, USP
 
 60 mg
 
 Rx Only
 
-100 TABLETS
+100 Tablets
