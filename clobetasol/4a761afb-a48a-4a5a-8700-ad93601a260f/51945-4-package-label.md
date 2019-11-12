@@ -19,14 +19,14 @@ TARO
 
 NDC 51672-1258-1
 
+15 g
+
 Clobetasol Propionate Cream USP, 0.05%
 
 FOR EXTERNAL USE ONLY.
 NOT FOR OPHTHALMIC USE.
 
 Keep this and all medications out of the reach of children.
-
-15 g
 
 Rx only
 

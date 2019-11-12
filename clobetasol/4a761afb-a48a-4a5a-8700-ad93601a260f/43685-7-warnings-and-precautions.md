@@ -51,8 +51,6 @@ Clobetasol propionate was non-mutagenic in three different test systems: the Ame
 
 ### Teratogenic Effects
 
-#### Pregnancy Category C
-
 Corticosteroids have been shown to be teratogenic in laboratory animals when administered systemically at relatively low dosage levels.
 Some corticosteroids have been shown to be teratogenic after dermal application to laboratory animals.
 Clobetasol propionate has not been tested for teratogenicity when applied topically; however, it is absorbed percutaneously, and when administered subcutaneously it was a significant teratogen in both the rabbit and mouse.
