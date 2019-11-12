@@ -32,4 +32,4 @@ Manufactured for: Nivagen Pharmaceuticals, Inc. Sacramento, CA 95827, USA Toll f
 Manufactured by: Umedica Laboratories Pvt.
 Ltd. Plot No.221, PB No.73, GIDC, II nd Phase, Vapi, Gujarat 396195, India (IND)
 
-Revised May 2018, V-00
+Revised Nov 2019, V-01
