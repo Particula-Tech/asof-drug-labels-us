@@ -1,24 +1,20 @@
 # MEDICATION GUIDE
 
-Lamotrigine Tablets USP
+MEDICATION GUIDE
 
-Read this Medication Guide before you start taking lamotrigine and each time you get a refill.
-There may be new information.
-This information does not take the place of talking with your healthcare provider about your medical condition or treatment.
-If you have questions about lamotrigine, ask your healthcare provider or pharmacist.
+Lamotrigine Tablets USP
 
 What is the most important information I should know about lamotrigine?
 
 1.
 Lamotrigine may cause a serious skin rash that may cause you to be hospitalized or even cause death.
 
-There is no way to tell if a mild rash will become more serious.
-A serious skin rash can happen at any time during your treatment with lamotrigine, but is more likely to happen within the first 2 to 8 weeks of treatment.
-Children between 2 to 16 years of age have a higher chance of getting this serious skin rash while taking lamotrigine.
+any time during your treatment with lamotrigine, but is more likely to happen within the first 2 to 8 weeks of treatment.
+Children and teenagers aged between 2 and 17 years have a higher chance of getting this serious skin rash while taking lamotrigine.
 
 The risk of getting a serious skin rash is higher if you:
 
-- take lamotrigine while taking valproate ((valproic acid) or (divalproex sodium))
+- take lamotrigine while taking valproate [(valproic acid) or (divalproex sodium)]
 - take a higher starting dose of lamotrigine than your healthcare provider prescribed
 - increase your dose of lamotrigine faster than prescribed.
   Call your healthcare provider right away if you have any of the following:
@@ -55,30 +51,30 @@ The risk of getting a serious skin rash is higher if you:
 - Stopping lamotrigine suddenly can cause serious problems.
 - Suicidal thoughts or actions can be caused by things other than medicines.
   If you have suicidal thoughts or actions, your healthcare provider may check for other causes.
-  How can I watch for early symptoms of suicidal thoughts and actions?
+  How can I watch for early symptoms of suicidal thoughts and actions in myself or a family member?
 - Pay attention to any changes, especially sudden changes, in mood, behaviors, thoughts, or feelings.
 - Keep all follow-up visits with your healthcare provider as scheduled.
 - Call your healthcare provider between visits as needed, especially if you are worriedabout symptoms.
   4.
-  Lamotrigine may rarely cause aseptic meningitis, a serious inflammation of the protective membrane that covers the brain and spinal cord.
+  Lamotrigine can cause aseptic meningitis, a serious inflammation of the protective membrane that covers the brain and spinal cord.
   Call your healthcare provider right away if you have any of the following symptoms:
-- Headache
-- Fever
-- Nausea
-- Vomiting
-- Stiff neck
-- Rash
-- Unusual sensitivity to light
-- Muscle pains
-- Chills
-- Confusion
-- Drowsiness Meningitis has many causes other than lamotrigine, which your doctor would check for if you developed meningitis while taking lamotrigine.
-  Lamotrigine can have other serious side effects.
+- headache
+- fever
+- nausea
+- vomiting
+- stiff neck
+- rash
+- unusual sensitivity to light
+- muscle pains
+- chills
+- confusion
+- drowsiness Meningitis has many causes other than lamotrigine, which your doctor would check for if you developed meningitis while taking lamotrigine.
+  Lamotrigine can cause other serious side effects.
   For more information ask your healthcare provider or pharmacist.
   Tell your healthcare provider if you have any side effect that bothers you.
   Be sure to read the section below entitled “What are the possible side effects of lamotrigine?”
   5.
-  Patients prescribed lamotrigine have sometimes been given the wrong medicine because many medicines have names similar to lamotrigine, so always check that you receive lamotrigine.
+  People prescribed lamotrigine have sometimes been given the wrong medicine because many medicines have names similar to lamotrigine, so always check that you receive lamotrigine.
   Taking the wrong medication can cause serious health problems.
   When your healthcare provider gives you a prescription for lamotrigine:
 - Make sure you can read it clearly.
@@ -89,22 +85,24 @@ The risk of getting a serious skin rash is higher if you:
 
 Lamotrigine Tablets USP
 
-| 25 mg are light yellow, round, flat, bevel edged, uncoated tablets, embossed “RDY” on one side and “220” on other side with bisect line. | 100 mg are light yellow, round, flat, bevel edged, uncoated tablets, embossed “RDY” on one side and “221” on other side with bisect line. | 150 mg are light yellow, round, flat, bevel edged, uncoated tablets, embossed “RDY” on one side and “222” on other side with bisect line. | 200 mg are light yellow, round, flat, bevel edged, uncoated tablets, embossed “RDY” on one side and “223” on other side with bisect line. |
+| 25 mg are light yellow, round, flat, bevel edged, uncoated tablets, debossed “RDY” on one side and “220” on other side with bisect line. | 100 mg are light yellow, round, flat, bevel edged, uncoated tablets, debossed “RDY” on one side and “221” on other side with bisect line. | 150 mg are light yellow, round, flat, bevel edged, uncoated tablets, debossed “RDY” on one side and “222” on other side with bisect line. | 200 mg are light yellow, round, flat, bevel edged, uncoated tablets, debossed “RDY” on one side and “223” on other side with bisect line. |
 | --- | --- | --- | --- |
 
 What is lamotrigine?
 
 Lamotrigine is a prescription medicine used:
 
-1. together with other medicines to treat certain types of seizures (partial seizures, primary generalized tonic-clonic seizures, generalized seizures of Lennox-Gastaut syndrome) in people 2 years or older.
+- together with other medicines to treat certain types of seizures (partial-onset seizures, primary generalized tonic-clonic seizures, generalized seizures of Lennox-Gastaut syndrome) in people aged 2 years and older.
+- alone when changing from 1 other medicine used to treat partial-onset seizures in people aged 16 years and older.
+- for the long-term treatment of bipolar I disorder to lengthen the time between mood episodes in people who have been treated for mood episodes with other medicine.
 
-2. alone when changing from other medicines used to treat partial seizures in people 16 years or older.
+It is not known if lamotrigine is safe or effective in people younger than 18 years with mood episodes such as bipolar disorder or depression.
 
-3. for the long-term treatment of Bipolar I Disorder to lengthen the time between mood episodes in people 18 years or older who have been treated for mood episodes with other medicine.
+It is not known if lamotrigine is safe or effective when used alone as the first treatment of seizures.
 
-It is not known if lamotrigine is safe or effective in children or teenagers under the age of 18 with mood disorders such as bipolar disorder or depression.
+It is not known if lamotrigine is safe or effective for people with mood episodes who have not already been treated with other medicines.
 
-It is not known if lamotrigine is safe or effective when used alone as the first treatment of seizures in adults.
+Lamotrigine should not be used for acute treatment of manic or mixed mood episodes.
 
 Who should not take lamotrigine?
 
@@ -117,11 +115,12 @@ Before taking lamotrigine, tell your healthcare provider about all of your medic
 
 - have had a rash or allergic reaction to another antiseizure medicine.
 - have or have had depression, mood problems or suicidal thoughts or behavior.
+- have had aseptic meningitis after taking lamotrigine
 - are taking oral contraceptives (birth control pills) or other female hormonal medicines.
   Do not start or stop taking birth control pills or other female hormonal medicine until you have talked with your healthcare provider.
   Tell your healthcare provider if you have any changes in your menstrual pattern such as breakthrough bleeding.
-  Stopping these medicine may cause side effects (such as dizziness, lack of coordination, or double vision).
-  Starting these medicine may lessen how well lamotrigine works.
+  Stopping these medicines while you are taking lamotrigine may cause side effects (such as dizziness, lack of coordination, or double vision).
+  Starting these medicines may lessen how well lamotrigine works.
 - are pregnant or plan to become pregnant.
   It is not known if lamotrigine will harm your unborn baby.
   If you become pregnant while taking lamotrigine, talk to your healthcare provider about registering with the North American Antiepileptic Drug Pregnancy Registry.
@@ -133,8 +132,9 @@ Before taking lamotrigine, tell your healthcare provider about all of your medic
   Call your baby’s healthcare provider right away if you see any of these problems.
   Talk to your healthcare provider about the best way to feed your baby if you take lamotrigine.
 
-Tell your healthcare provider about all the medicines you take or if you are planning to take a new medicine, including prescription and non-prescription medicines, vitamins, and herbal supplements.
-If you use lamotrigine with certain other medicines can affect each other, causing sideeffects.
+Tell your healthcare provider about all the medicines you take or if you are planning to take a new medicine, including prescription and over-the-counter medicines, vitamins, and herbal supplements.
+
+If you use lamotrigine with certain other medicines, they can affect each other, causing side effects.
 
 How should I take lamotrigine?
 
@@ -143,12 +143,13 @@ How should I take lamotrigine?
   Do not change your dose without talking toyour healthcare provider.
 - Do not stop taking lamotrigine without talking to your healthcare provider.
   Stopping lamotrigine suddenly may cause serious problems.
-  For example, if you have epilepsy and you stop taking lamotrigine suddenly, you may get seizures that do not stop.
+  For example, if you have epilepsy and you stop taking lamotrigine suddenly, you may have seizures that do not stop.
   Talk with your healthcare provider about how to stop lamotrigine slowly.
 - If you miss a dose of lamotrigine, take it as soon as you remember.
   If it is almost time for your next dose, just skip the missed dose.
   Take the next dose at your regular time.
-  Do nottake two doses at the same time.
+  Do nottake 2 doses at the same time.
+- If you take too much lamotrigine, call your healthcare provider or your local Poison Control Center or go to the nearest hospital emergency room right away.
 - You may not feel the full effect of lamotrigine for several weeks.
 - If you have epilepsy, tell your healthcare provider if your seizures get worse or if you have any new types of seizures.
 - Swallow lamotrigine tablets whole.
@@ -158,22 +159,32 @@ How should I take lamotrigine?
 
 What should I avoid while taking lamotrigine?
 
-- Do not drive a car or operate complex, hazardous machinery until you know how lamotrigine affects you.
+- Do not drive, operate machinery, or do other dangerous activities until you know how lamotrigine affects you.
 
-What are possible side effects of lamotrigine?
+What are the possible side effects of lamotrigine?
 
 See “What is the most important information I should know about lamotrigine?”
 
 Common side effects of lamotrigine include:
 
-| ● dizzinessr | ● tremor |
-| --- | --- |
-| ● headache | ● rash |
-| ● blurred or double vision | ● fever |
-| ● lack of coordination | ● abdominal pain |
-| ● sleepiness | ● back pain |
-| ● nausea, vomiting | ● tiredness |
-| ● insomnia | ● dry mouth |
+- dizziness
+- tremor
+- headache
+- rash
+- blurred or double vision
+- fever
+- lack of coordination
+- abdominal pain
+- infections, including seasonal flu
+- sleepiness
+- back pain
+- nausea, vomiting
+- diarrhea
+- tiredness
+- insomnia
+- dry mouth
+- stuffy nose
+- sore throat
 
 Tell your healthcare provider about any side effect that bothers you or that does not go away.
 
@@ -189,23 +200,32 @@ How should I store lamotrigine?
 
 ● Keep lamotrigine and all medicines out of the reach of children.
 
-General information about lamotrigine
+General information about the safe and effective use of lamotrigine
 
 Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide.
 Do not use lamotrigine for a condition for which it was not prescribed.
 Do not give lamotrigine to other people, even if they have the same symptoms you have.
 It may harm them.
+
+If you take a urine drug screening test, lamotrigine may make the test result positive for another drug.
+If you require a urine drug screening test, tell the healthcare professional administering the test that you are taking lamotrigine.
+
 This Medication Guide summarizes the most important information about lamotrigine.
 If you would like more information, talk with your healthcare provider.
 You can ask your healthcare provider or pharmacist for information about lamotrigine that is written for healthcare professionals.
+
+For more information, call 1-888-375-3784.
 
 What are the ingredients in lamotrigine?
 
 Active ingredient: lamotrigine USP.
 
-Inactive ingredients: hydroxypropyl cellulose; L-hydroxypropyl cellulose; magnesium stearate; mannitol; powdered cellulose; talc; and ferric oxide.
+Inactive ingredients: hydroxypropyl cellulose; L-hydroxypropyl cellulose; magnesium stearate; mannitol; powdered cellulose; talc; and ferric oxide yellow.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
+
+The other brands listed are trademarks of their respective owners and are not trademarks of Dr. Reddy's Laboratories Limited.
+The makers of these brands are not affiliated with and do not endorse the Dr. Reddy's Laboratories Limited or its products.
 
 To reorder additional Medication Guides, contact Dr. Reddy’s Customer Service at 1-866-733-3952.
 
@@ -217,4 +237,4 @@ Dr. Reddy’s Laboratories Limited
 
 Bachupally – 500 090 INDIA
 
-Revised: 0912
+Revised:1115
