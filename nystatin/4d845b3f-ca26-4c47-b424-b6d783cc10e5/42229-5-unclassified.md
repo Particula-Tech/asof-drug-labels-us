@@ -2,10 +2,10 @@ Rx only
 
 FOR TOPICAL USE ONLY • NOT FOR OPHTHALMIC USE
 
-Mfd. by: Taro Pharmaceuticals Inc., Brampton, Ontario, Canada L6T 1C1
+Mfd. by: Taro Pharmaceutical Industries Ltd. Haifa Bay, Israel 2624761
 
 Dist. by: Taro Pharmaceuticals U.S.A., Inc., Hawthorne, NY 10532
 
-Revised: August, 2010
+Revised: October, 2019
 
-PK-1161-4 107
+20247-1019-1 31
