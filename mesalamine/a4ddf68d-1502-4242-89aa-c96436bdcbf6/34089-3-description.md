@@ -1,6 +1,6 @@
 # DESCRIPTION
 
-The active ingredient in Mesalamine Rectal Suspension USP, Enema, a disposable (60 mL) unit, is mesalamine, also known as 5-aminosalicylic acid (5-ASA).
+The active ingredient in Mesalamine Rectal Suspension, USP Enema, a disposable (60 mL) unit, is mesalamine, also known as 5-aminosalicylic acid (5-ASA).
 Chemically, mesalamine is 5-amino-2-hydroxybenzoic acid.
 
 The empirical formula is C7H7NO3, representing a molecular weight of 153.14.

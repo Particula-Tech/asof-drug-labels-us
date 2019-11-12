@@ -1,6 +1,6 @@
 # HOW SUPPLIED
 
-Mesalamine Rectal Suspension, USP, for rectal administration is an off-white to tan colored suspension.
+Mesalamine Rectal Suspension Enema for rectal administration is an off-white to tan colored suspension.
 Each disposable enema bottle contains 4.0 grams of mesalamine in 60 mL aqueous suspension.
 Enema bottles are supplied in boxed, foil-wrapped trays as follows:
 
@@ -12,11 +12,13 @@ Combo Kit with 7 Bottles and Wipes - NDC 45802-923-41
 
 Combo Kit with 28 Bottles and Wipes - NDC 45802-929-49
 
-Mesalamine Rectal Suspension USP, Enemas are for rectal use only.
+Mesalamine Rectal Suspension Enemas are for rectal use only.
 
 ## KEEP OUT OF REACH OF CHILDREN
 
 Patient instructions are included.
+
+Storage
 
 Store at 20-25°C (68-77°F).
 [See USP Controlled Room Temperature].
@@ -27,6 +29,8 @@ Slight darkening will not affect potency, however, enemas with dark brown conten
 
 NOTE: Mesalamine Rectal Suspension, USP will cause staining of direct contact surfaces, including but not limited to fabrics, flooring, painted surfaces, marble, granite, vinyl, and enamel.
 Take care in choosing a suitable location for administration of this product.
+
+For more information call Perrigo at 1-866-634-9120.
 
 Rx Only
 
@@ -40,6 +44,6 @@ Distributed By Perrigo®
 
 Allegan, MI 49010 • www.perrigo.com
 
-Rev 08-16
+Rev 12-17
 
-2N900 RC J6
+2N900 RC J7

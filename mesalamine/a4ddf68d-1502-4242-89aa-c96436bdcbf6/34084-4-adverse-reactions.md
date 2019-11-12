@@ -2,12 +2,12 @@
 
 ## Clinical Adverse Experience -
 
-Mesalamine Rectal Suspension, USP is usually well tolerated.
+Mesalamine Rectal Suspension Enema is usually well tolerated.
 Most adverse effects have been mild and transient.
 
-ADVERSE REACTION OCCURRING IN MORE THAN 0.1% OF MESLAMINE RECTAL SUSPENSION TREATED PATIENTS (COMPARISON TO PLACEBO)
+ADVERSE REACTIONS OCCURRING IN MORE THAN 0.1% OF MESLAMINE RECTAL SUSPENSION ENEMA TREATED PATIENTS (COMPARISON TO PLACEBO)
 
-|  | MESALAMINE RECTAL SUSPENSION USP |  | PLACEBO |  |
+|  | MESALAMINE RECTAL SUSPENSION ENEMA |  | PLACEBO |  |
 | --- | --- | --- | --- | --- |
 | SYMPTOM | N=815N | % | N=128N | % |
 | Abdominal Pain/Cramps/Discomfort | 66 | 8.10 | 10 | 7.81 |
