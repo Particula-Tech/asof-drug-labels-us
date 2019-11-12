@@ -82,17 +82,18 @@ Duloxetine should also not be started in a patient who is being treated with MAO
 All reports with methylene blue that provided information on the route of administration involved intravenous administration in the dose range of 1 mg/kg to 8 mg/kg.
 No reports involved the administration of methylene blue by other routes (such as oral tablets or local tissue injection) or at lower doses.
 There may be circumstances when it is necessary to initiate treatment with an MAOI such as linezolid or intravenous methylene blue in a patient taking duloxetine.
-Duloxetine should be discontinued before initiating treatment with the MAOI [see Dosage and Administration (2.8,2.9), and Contraindications (4)].
+Duloxetine should be discontinued before initiating treatment with the MAOI [see Dosage and Administration (2.8, 2.9), and Contraindications (4)].
 If concomitant use of duloxetine with other serotonergic drugs including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, buspirone, tryptophan, amphetamines, and St. John’s Wort is clinically warranted, patients should be made aware of a potential increased risk for serotonin syndrome, particularly during treatment initiation and dose increases.
 Treatment with duloxetine and any concomitant serotonergic agents, should be discontinued immediately if the above events occur and supportive symptomatic treatment should be initiated.
 
-## 5.5 Abnormal Bleeding
+## 5.5 Increased Risk of Bleeding
 
-SSRIs and SNRIs, including duloxetine, may increase the risk of bleeding events.
-Concomitant use of aspirin, nonsteroidal anti-inflammatory drugs, warfarin, and other anti-coagulants may add to this risk.
+Drugs that interfere with serotonin reuptake inhibition, including duloxetine, may increase the risk of bleeding events.
 Case reports and epidemiological studies (case-control and cohort design) have demonstrated an association between use of drugs that interfere with serotonin reuptake and the occurrence of gastrointestinal bleeding.
-Bleeding events related to SSRIs and SNRIs use have ranged from ecchymoses, hematomas, epistaxis, and petechiae to life-threatening hemorrhages.
-Patients should be cautioned about the risk of bleeding associated with the concomitant use of duloxetine and NSAIDs, aspirin, or other drugs that affect coagulation.
+A postmarketing study showed a higher incidence of postpartum hemorrhage in mothers taking duloxetine.
+Other bleeding events related to SSRI and SNRI use have ranged from ecchymoses, hematomas, epistaxis, and petechiae to life-threatening hemorrhages.
+Concomitant use of aspirin, nonsteroidal anti-inflammatory drugs (NSAIDs), warfarin, and other anti-coagulants may add to this risk.
+Inform patients about the risk of bleeding associated with the concomitant use of duloxetine and NSAIDs, aspirin, or other drugs that affect coagulation [see Drug Interactions (7.4)].
 
 ## 5.6 Severe Skin Reactions
 
@@ -181,9 +182,5 @@ HbA1c increased by 0.5% in the duloxetine and by 0.2% in the routine care groups
 
 Duloxetine is in a class of drugs known to affect urethral resistance.
 If symptoms of urinary hesitation develop during treatment with duloxetine, consideration should be given to the possibility that they might be drug-related.
-In post marketing experience, cases of urinary retention have been observed.
+In postmarketing experience, cases of urinary retention have been observed.
 In some instances of urinary retention associated with duloxetine use, hospitalization and/or catheterization has been needed.
-
-## 5.16 Laboratory Tests
-
-No specific laboratory tests are recommended.

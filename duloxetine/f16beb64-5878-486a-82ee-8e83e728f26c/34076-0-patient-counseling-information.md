@@ -1,20 +1,10 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-See FDA-approved patient labeling (Medication Guide).
+Advise the patient to read the FDA-approved patient labeling (Medication Guide).
 
-- Information on Medication Guide — Inform patients, their families, and their caregivers about the benefits and risks associated with treatment with duloxetine delayed-release capsules and counsel them in its appropriate use.
-  A patient Medication Guide is available for duloxetine delayed-release capsules.
-  Instruct patients, their families, and their caregivers to read the Medication Guide before starting duloxetine delayed-release capsules and each time their prescription is renewed, and assist them in understanding its contents.
-  Give patients the opportunity to discuss the contents of the Medication Guide and to obtain answers to any questions they may have.
-  The complete text of the Medication Guide is reprinted at the end of this document.
-  Advise patients of the following issues and ask them to alert their prescriber if these occur while taking duloxetine delayed-release capsules.
-- Suicidal Thoughts and Behaviors — Encourage patients, their families, and their caregivers to be alert to the emergence of anxiety, agitation, panic attacks, insomnia, irritability, hostility, aggressiveness, impulsivity, akathisia (psychomotor restlessness), hypomania, mania, other unusual changes in behavior, worsening of depression, and suicidal ideation, especially early during antidepressant treatment and when the dose is adjusted up or down.
-  Advise families and caregivers of patients to observe for the emergence of such symptoms on a day-to-day basis, since changes may be abrupt.
-  Such symptoms should be reported to the patient’s prescriber or health professional, especially if they are severe, abrupt in onset, or were not part of the patient’s presenting symptoms.
-  Symptoms such as these may be associated with an increased risk for suicidal thinking and behavior and indicate a need for very close monitoring and possibly changes in the medication [see Boxed Warning, and Warnings and Precautions (5.1)].
+- Suicidal Thoughts and Behaviors — Advise patients, their families, and their caregivers to look for the emergence of suicidal ideation and behavior, especially during treatment and when the dose is adjusted up or down and instruct them to report such symptoms to their healthcare provider [see Boxed Warning and Warnings and Precautions (5.1)].
 - Duloxetine delayed-release capsules should be swallowed whole and should not be chewed or crushed, nor should the capsule be opened and its contents be sprinkled on food or mixed with liquids.
   All of these might affect the enteric coating.
-- Continuing the Therapy Prescribed — While patients may notice improvement with duloxetine delayed-release capsules therapy in 1 to 4 weeks, advise patients to continue therapy as directed.
 - Hepatotoxicity — Inform patients that severe liver problems, sometimes fatal, have been reported in patients treated with duloxetine delayed-release capsules.
   Instruct patients to talk to their healthcare provider if they develop itching, right upper belly pain, dark urine, or yellow skin/eyes while taking duloxetine delayed-release capsules, which may be signs of liver problems.
   Instruct patients to talk to their healthcare provider about their alcohol consumption.
@@ -25,7 +15,7 @@ See FDA-approved patient labeling (Medication Guide).
 - Serotonin Syndrome — Caution patients about the risk of serotonin syndrome with the concomitant use of duloxetine delayed-release capsules and other serotonergic agents including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, buspirone, tryptophan, amphetamines, and St. John’s Wort [see Contraindications (4), Warnings and Precautions (5.4), and Drug Interactions (7.14)].
   Advise patients of the signs and symptoms associated with serotonin syndrome that may include mental status changes (e.g., agitation, hallucinations, delirium, and coma), autonomic instability (e.g., tachycardia, labile blood pressure, dizziness, diaphoresis, flushing, hyperthermia), neuromuscular changes (e.g., tremor, rigidity, myoclonus, hyperreflexia, incoordination), seizures, and/or gastrointestinal symptoms (e.g., nausea, vomiting, diarrhea).
   Caution patients to seek medical care immediately if they experience these symptoms.
-- Abnormal Bleeding — Caution patients about the concomitant use of duloxetine and NSAIDs, aspirin, warfarin, or other drugs that affect coagulation since combined use of psychotropic drugs that interfere with serotonin reuptake and these agents has been associated with an increased risk of bleeding [see Warnings and Precautions (5.5)].
+- Abnormal Bleeding — Caution patients about the concomitant use of duloxetine and NSAIDs, aspirin, warfarin, or other drugs that affect coagulation since combined use of psychotropic drugs that interfere with serotonin reuptake and these agents has been associated with an increased risk of bleeding [see Warnings and Precautions (5.5) and Use in Specific Populations (8.1)].
 - Severe Skin Reactions — Caution patients that duloxetine delayed-release capsules may cause serious skin reactions.
   This may need to be treated in a hospital and may be life-threatening.
   Counsel patients to call their doctor right away or get emergency help if they have skin blisters, peeling rash, sores in their mouth, hives, or any other allergic reactions [see Warnings and Precautions (5.6)].
@@ -45,14 +35,11 @@ See FDA-approved patient labeling (Medication Guide).
 - Concomitant Illnesses — Advise patients to inform their physicians about all of their medical conditions [see Warnings and Precautions (5.14)].
 - Duloxetine is in a class of medicines that may affect urination.
   Instruct patients to consult with their healthcare provider if they develop any problems with urine flow [see Warnings and Precautions (5.15)].
-- Pregnancy and Nursing Mothers
-
-Advise patients to notify their physician if they:
-
-- become pregnant during therapy
-- intend to become pregnant during therapy
-- are nursing [see Use in Specific Populations (8.1, 8.3)].
-
+- Pregnancy
+  - Advise pregnant women to notify their healthcare provider if they become pregnant or intend to become pregnant during treatment with duloxetine delayed-release capsules.
+  - Advise patients that duloxetine delayed-release capsules use during the month before delivery may lead to an increased risk for postpartum hemorrhage and may increase the risk of neonatal complications requiring prolonged hospitalization, respiratory support, and tube feeding.
+  - Advise pregnant women that there is a risk of relapse with discontinuation of antidepressants.
+- Lactation ― Advise breastfeeding women using duloxetine delayed-release capsules to monitor infants for sedation, poor feeding and poor weight gain and to seek medical care if they notice these signs [see Use in Specific Populations (8.2)].
 - Pediatric Use ― Safety and efficacy of duloxetine in patients 7 to 17 years of age have been established for the treatment of GAD.
   The types of adverse reactions observed with duloxetine in children and adolescents were generally similar to those observed in adults.
   The safety and effectiveness of duloxetine have not been established in pediatric patients less than 18 years of age with other indications.

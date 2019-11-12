@@ -6,7 +6,7 @@ Duloxetine
 
 Delayed-release Capsules USP
 
-Read this Medication Guide before you start taking duloxetine delayed-release capsulesand each time you get a refill.
+Read this Medication Guide before you start taking duloxetine delayed-release capsules and each time you get a refill.
 There may be new information.
 This information does not take the place of talking to your healthcare provider about your medical condition or treatment.
 
@@ -101,10 +101,11 @@ Before starting duloxetine delayed-release capsules, tell your healthcare provid
 - have delayed stomach emptying
 - have or had bleeding problems
 - are pregnant or plan to become pregnant.
-  It is not known if duloxetine delayed-release capsules will harm your unborn baby.
-  Talk to your healthcare provider about the benefits and risks of treating depression or other conditions with duloxetine delayed-release capsules during pregnancy.
+  Duloxetine delayed-release capsules may harm your unborn baby.
+  Talk to your healthcare provider about the risk to your unborn baby if you take duloxetine delayed-release capsules during pregnancy.
+  - Tell your healthcare provider right away if you become pregnant or think you are pregnant during treatment with duloxetine delayed-release capsules.
 - are breastfeeding or plan to breastfeed.
-  Duloxetine can pass into your breast milk.
+  Duloxetine passes into your breast milk and may harm your baby.
   Talk to your healthcare provider about the best way to feed your baby while taking duloxetine delayed-release capsules.
 
 Tell your healthcare provider about all the medicines that you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements.
@@ -137,7 +138,7 @@ How should I take duloxetine delayed-release capsules?
 - Swallow duloxetine delayed-release capsules whole.
   Do not chew or crush duloxetine delayed-release capsules.
 - Do not open the capsule and sprinkle on food or mix with liquids.
-  Opening the capsule may affect how well duloxetine delayed-release capsules works.
+  Opening the capsule may affect how well duloxetine delayed-release capsules work.
 - Duloxetine delayed-release capsules may be taken with or without food.
 - If you miss a dose of duloxetine delayed-release capsules, take the missed dose as soon as you remember.
   If it is almost time for the next dose, skip the missed dose and take your next dose at the regular time.
@@ -323,6 +324,6 @@ Halol-Baroda Highway,
 Halol-389 350, Gujarat, India.
 
 ISS.
-01/2018
+11/2019
 
-PJPI0217G
+PJPI0217H
