@@ -113,7 +113,7 @@ Nonspecific: Frequent were flu‑like symptoms; infrequent was nonspecific pain;
 
 Altered Appetite and Weight
 
-A weight loss of greater than 5 lbs occurred in 28% of subjects receiving WELLBUTRIN.
+A weight loss of greater than 5 lbs. occurred in 28% of subjects receiving WELLBUTRIN.
 This incidence is approximately double that seen in comparable subjects treated with tricyclics or placebo.
 Furthermore, while 35% of subjects receiving tricyclic antidepressants gained weight, only 9.4% of subjects treated with WELLBUTRIN did.
 Consequently, if weight loss is a major presenting sign of a patient’s depressive illness, the anorectic and/or weight-reducing potential of WELLBUTRIN should be considered.

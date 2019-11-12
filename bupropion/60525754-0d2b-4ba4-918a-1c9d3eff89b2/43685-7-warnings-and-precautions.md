@@ -51,7 +51,7 @@ WELLBUTRIN is not approved for smoking cessation treatment; however, it contains
 Serious neuropsychiatric adverse events have been reported in patients taking bupropion for smoking cessation.
 These postmarketing reports have included changes in mood (including depression and mania), psychosis, hallucinations, paranoia, delusions, homicidal ideation, aggression, hostility, agitation, anxiety, and panic, as well as suicidal ideation, suicide attempt, and completed suicide [see Adverse Reactions (6.2)].
 Some patients who stopped smoking may have been experiencing symptoms of nicotine withdrawal, including depressed mood.
-Depression, rarely including suicidal ideation, has been reported in smokers undergoing a smoking cessations attempt without medication.
+Depression, rarely including suicidal ideation, has been reported in smokers undergoing a smoking cessation attempt without medication.
 However, some of these adverse events occurred in patients taking bupropion who continued to smoke.
 
 Neuropsychiatric adverse events occurred in patients without and with pre-existing psychiatric disease; some patients experienced worsening of their psychiatric illnesses.
@@ -64,7 +64,7 @@ However, the symptoms persisted in some cases; therefore, ongoing monitoring and
 
 WELLBUTRIN can cause seizure.
 The risk of seizure is dose-related.
-The dose should not exceed 450 mg per day.
+The dose should not exceed 450 mg/day.
 Increase the dose gradually.
 Discontinue WELLBUTRIN and do not restart treatment if the patient experiences a seizure.
 
@@ -74,15 +74,17 @@ WELLBUTRIN is contraindicated in patients with a seizure disorder, current or pr
 The following conditions can also increase the risk of seizure: severe head injury; arteriovenous malformation; CNS tumor or CNS infection; severe stroke; concomitant use of other medications that lower the seizure threshold (e.g., other bupropion products, antipsychotics, tricyclic antidepressants, theophylline, and systemic corticosteroids); metabolic disorders (e.g., hypoglycemia, hyponatremia, severe hepatic impairment, and hypoxia); use of illicit drugs (e.g., cocaine); or abuse or misuse of prescription drugs such as CNS stimulants.
 Additional predisposing conditions include diabetes mellitus treated with oral hypoglycemic drugs or insulin; use of anorectic drugs; and excessive use of alcohol, benzodiazepines, sedative/hypnotics, or opiates.
 
-Incidence of Seizure with Bupropion Use: Bupropion is associated with seizures in approximately 0.4% (4/1,000) of patients treated at doses up to 450 mg per day.
-The estimated seizure incidence for WELLBUTRIN increases almost 10-fold between 450 and 600 mg per day.
+Incidence of Seizure with Bupropion Use:
 
-The risk of seizure can be reduced if the dose of WELLBUTRIN does not exceed 450 mg per day, given as 150 mg 3 times daily, and the titration rate is gradual.
+Bupropion is associated with seizures in approximately 0.4% (4/1,000) of patients treated at doses up to 450 mg/day.
+The estimated seizure incidence for WELLBUTRIN increases almost 10-fold between 450 and 600 mg/day.
+
+The risk of seizure can be reduced if the dose of WELLBUTRIN does not exceed 450 mg/day, given as 150 mg 3 times daily, and the titration rate is gradual.
 
 ## 5.4 Hypertension
 
 Treatment with WELLBUTRIN can result in elevated blood pressure and hypertension.
-Assess blood pressure before initiating treatment with WELLBUTRIN, and monitor periodically during treatment.
+Assess blood pressure before initiating treatment with WELLBUTRIN and monitor periodically during treatment.
 The risk of hypertension is increased if WELLBUTRIN is used concomitantly with MAOIs or other drugs that increase dopaminergic or noradrenergic activity [see Contraindications (4)].
 
 Data from a comparative trial of the sustained-release formulation of bupropion HCl, nicotine transdermal system (NTS), the combination of sustained-release bupropion plus NTS, and placebo as an aid to smoking cessation suggest a higher incidence of treatment-emergent hypertension in patients treated with the combination of sustained-release bupropion and NTS.

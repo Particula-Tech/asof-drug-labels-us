@@ -2,15 +2,6 @@
 
 Advise the patient to read the FDA-approved patient labeling (Medication Guide).
 
-Inform patients, their families, and their caregivers about the benefits and risks associated with treatment with WELLBUTRIN and counsel them in its appropriate use.
-
-A patient Medication Guide about “Antidepressant Medicines, Depression and Other Serious Mental Illnesses, and Suicidal Thoughts or Actions,” “Quitting Smoking, Quit-Smoking Medications, Changes in Thinking and Behavior, Depression, and Suicidal Thoughts or Actions,” and “What Other Important Information Should I Know About WELLBUTRIN?” is available for WELLBUTRIN.
-Instruct patients, their families, and their caregivers to read the Medication Guide and assist them in understanding its contents.
-Patients should be given the opportunity to discuss the contents of the Medication Guide and to obtain answers to any questions they may have.
-The complete text of the Medication Guide is reprinted at the end of this document.
-
-Advise patients regarding the following issues and to alert their prescriber if these occur while taking WELLBUTRIN.
-
 Suicidal Thoughts and Behaviors
 
 Instruct patients, their families, and/or their caregivers to be alert to the emergence of anxiety, agitation, panic attacks, insomnia, irritability, hostility, aggressiveness, impulsivity, akathisia (psychomotor restlessness), hypomania, mania, other unusual changes in behavior, worsening of depression, and suicidal ideation, especially early during antidepressant treatment and when the dose is adjusted up or down.
@@ -58,11 +49,8 @@ Counsel patients to notify their healthcare provider if they are taking or plan 
 
 Pregnancy
 
-Advise patients to notify their healthcare provider if they become pregnant or intend to become pregnant during therapy.
-
-Precautions for Nursing Mothers
-
-Advise patients that WELLBUTRIN is present in human milk in small amounts.
+Advise patients to notify their healthcare provider if they become pregnant or intend to become pregnant during therapy with WELLBUTRIN.
+Advise patients that there is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to WELLBUTRIN during pregnancy [see Use in Specific Populations (8.1)].
 
 Storage Information
 
@@ -85,6 +73,6 @@ GlaxoSmithKline
 
 Research Triangle Park, NC 27709
 
-©2017 GSK group of companies or its licensor.
+©2019 GSK group of companies or its licensor.
 
-WLT:16PI
+WLT:17PI
