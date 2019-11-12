@@ -5,7 +5,7 @@
 Pregnancy Exposure Registry
 
 There is a pregnancy registry that monitors pregnancy outcomes in women exposed to ENVARSUS XR during pregnancy.
-The Transplantation Pregnancy Registry International (TPRI) is a voluntary pregnancy exposure registry that monitors outcomes of pregnancy in female transplant recipients and those fathered by male transplant recipients exposed to immunosuppresants including tacrolimus.
+The Transplantation Pregnancy Registry International (TPRI) is a voluntary pregnancy exposure registry that monitors outcomes of pregnancy in female transplant recipients and those fathered by male transplant recipients exposed to immunosuppressants including tacrolimus.
 Healthcare providers are encouraged to advise their patients to register by contacting the Transplantation Pregnancy Registry International at 1-877-955-6877 or https://www.transplantpregnancyregistry.org.
 
 Risk Summary

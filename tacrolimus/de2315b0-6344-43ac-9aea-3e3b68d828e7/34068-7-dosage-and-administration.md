@@ -4,9 +4,9 @@
 
 - ENVARSUS XR (tacrolimus extended-release tablets) is not interchangeable or substitutable with tacrolimus extended-release capsules, tacrolimus capsules, and tacrolimus for oral suspension.
   Under or overexposure to tacrolimus may result in graft rejection or other serious adverse reactions [see Warnings and Precautions (5.3)].
-  ENVARSUS XR should not be used without the supervision of a physician with experience in immunosuppresive therapy.
+  ENVARSUS XR should not be used without the supervision of a physician with experience in immunosuppressive therapy.
 - ENVARSUS XR should be taken on an empty stomach consistently at the same time of the day, preferably in the morning to ensure consistent and maximum possible drug exposure, at least 1 hour before a meal or at least 2 hours after a meal [see Clinical Pharmacology (12.3)].
-- Advise patients to swallow ENVARSUS XR capsules whole with fluid (preferably water); patients must not chew, divide, or crush the tablets.
+- Advise patients to swallow ENVARSUS XR tablets whole with fluid (preferably water); patients must not chew, divide, or crush the tablets.
 - If a dose is missed, instruct the patient to take it as soon as possible within 15 hours after missing the dose.
   Beyond the 15-hour time frame, instruct the patient to wait until the usual scheduled time to take the next regular daily dose.
   Instruct the patient not to double the next dose.

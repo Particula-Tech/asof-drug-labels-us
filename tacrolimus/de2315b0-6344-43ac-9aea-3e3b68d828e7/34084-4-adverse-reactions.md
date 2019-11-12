@@ -41,7 +41,7 @@ Table 2 Percentage of Patients with Infections Through 1 Year Post-Kidney Transp
 | Gastrointestinal Infections | 6% | 4% |
 | BK virus b | 6% | 9% |
 | Serious Infections | 26% | 24% |
-| MMF/MPS- Mycophenolate mofetil/mycophenolate sodium; AZA-azathioprin a Study 1 was not designed to support comparative claims of ENVARSUS XR compared to tacrolimus [immediate-release] capsules for the adverse reactions reported in this table. |  |  |
+| MMF/MPS- Mycophenolate mofetil/mycophenolate sodium; AZA-azathioprine a Study 1 was not designed to support comparative claims of ENVARSUS XR compared to tacrolimus [immediate-release] capsules for the adverse reactions reported in this table. |  |  |
 | b BK virus-associated nephropathy (BKVAN) occurred in 1.5% (4/268) and 0.7% (2/275) in the ENVARSUS XR and tacrolimus capsules treatment groups, respectively. |  |  |
 
 New Onset Diabetes After Transplantation
@@ -59,7 +59,7 @@ Percentage of Patients with NODAT Through 1 Year Post-Kidney Transplant in Study
 | Fasting Plasma Glucose Values ≥126 mg/dL on 2 consecutive occurrences | 8% | 11% |
 | Oral hypoglycemic use | 7% | 5% |
 | Insulin use ≥31 days | 1% | 4% |
-| MMF/MPS- Mycophenolate mofetil/mycophenolate sodium; AZA-azathioprin a Study 1 was not designed to support comparative claims of ENVARSUS XR compared to tacrolimus [immediate-release] capsules for the adverse reactions reported in this table. |  |  |
+| MMF/MPS- Mycophenolate mofetil/mycophenolate sodium; AZA-azathioprine a Study 1 was not designed to support comparative claims of ENVARSUS XR compared to tacrolimus [immediate-release] capsules for the adverse reactions reported in this table. |  |  |
 | b Analyses restricted to patients at risk for NODAT. |  |  |
 
 Common Adverse Reactions
@@ -86,7 +86,7 @@ Adverse Reactions (≥ 10%) in Kidney Transplant Patients Through 1 Year Post-Tr
 | Nausea | 13% | 15% |
 | Insomnia | 13% | 11% |
 | Increased Blood Creatinine | 12% | 14% |
-| Hypomagnesmia | 12% | 12% |
+| Hypomagnesemia | 12% | 12% |
 | Hypokalemia | 12% | 12% |
 | Hyperglycemia | 11% | 12% |
 | a Study 1 was not designed to support comparative claims of ENVARSUS XR compared to tacrolimus [immediate-release] capsules for the adverse reactions reported in this table. |  |  |

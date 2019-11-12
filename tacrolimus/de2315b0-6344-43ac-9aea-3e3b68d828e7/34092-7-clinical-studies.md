@@ -6,7 +6,7 @@ Study 1
 
 Study 1 (NCT 01187953) was a Phase 3, 12-month, randomized, double-blind, multinational study comparing once daily ENVARSUS XR (N=268) to twice daily tacrolimus [immediate-release] capsules (N=275) in patients who received a de novo kidney transplant.
 Patients received the first dose of the study drug anytime within 48 hours of graft reperfusion.
-All patients received only IL-2 receptor antagonist induction therapy and concomitant treatment with mycofenolate mofetil (MMF) and corticosteroids.
+All patients received only IL-2 receptor antagonist induction therapy and concomitant treatment with mycophenolate mofetil (MMF) and corticosteroids.
 Approximately 97% of all patients received antibody induction therapy with basiliximab and 91% of all patients received corticosteroids and MMF.
 
 The mean age of the study population was 46 years; 65% were male; 77% were Caucasian, 5% were African-American, 4% were Asian and 14% were categorized as other races.
@@ -50,7 +50,7 @@ Incidence of BPAR, Graft Loss, Death or Lost to Follow-up at 12 Months in De Nov
 | Treatment Failure | 50 (18.7%) | 54 (19.6%) |
 | Biopsy Proven Acute Rejection | 36 (13.4%) | 37 (13.5%) |
 | Graft Failure | 9 (3.4%) | 11 (4.0%) |
-| Death | 8 (3.0)% | 8 (2.9%) |
+| Death | 8 (3.0%) | 8 (2.9%) |
 | Lost to Follow-up | 4 (1.5%) | 5 (1.8%) |
 | a 95% CI was calculated using normal approximation. |  |  |
 
