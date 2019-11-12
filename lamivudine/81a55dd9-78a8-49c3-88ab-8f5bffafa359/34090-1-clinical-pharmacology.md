@@ -11,7 +11,7 @@ SYMFI is a fixed-dose combination of antiviral drugs EFV, 3TC, and TDF with anti
 The effect of EFV on the QTc interval was evaluated in an open-label, positive and placebo-controlled, fixed single sequence 3-period, 3-treatment crossover QT study in 58 healthy subjects enriched for CYP2B6 polymorphisms.
 The mean Cmax of EFV in subjects with CYP2B6 *6/*6 genotype following the administration of 600 mg daily dose for 14 days was 2.25-fold the mean Cmax observed in subjects with CYP2B6 *1/*1 genotype.
 A positive relationship between EFV concentration and QTc prolongation was observed.
-Based on the concentration-QTc relationship, the mean QTc prolongation and its upper bound 90% confidence interval are 8.7 ms and 11.3 ms in subjects with CYP2B6*6/*6 genotype following the administration of 600 mg daily dose for 14 days [see Warnings and Precautions (5.17)].
+Based on the concentration-QTc relationship, the mean QTc prolongation and its upper bound 90% confidence interval are 8.7 ms and 11.3 ms in subjects with CYP2B6*6/*6 genotype following the administration of 600 mg daily dose for 14 days [see Warnings and Precautions (5.16)].
 
 ## 12.3 Pharmacokinetics
 
@@ -92,7 +92,7 @@ The pharmacokinetics of TDF are altered in subjects with renal impairment [see W
 In subjects with creatinine clearance below 50 mL/min or with end‑stage renal disease (ESRD) requiring dialysis, Cmax, and AUC0‑∞ of tenofovir were increased.
 
 Table 5.
-Pharmacokinetic Parameters (Mean ± SD) of Tenofovir in Subjects after a Single 300-mg Oral Dose of TDF in Subjects with Varying Degrees of Renal Function
+Pharmacokinetic Parameters (Mean ± SD) of Tenofovir After a Single 300-mg Oral Dose of TDF in Subjects with Varying Degrees of Renal Function
 
 | Baseline Creatinine Clearance (mL/min) | > 80(N = 3) | 50-80(N = 10) | 30-49(N = 8) | 12-29(N = 11) |
 | --- | --- | --- | --- | --- |
@@ -237,18 +237,18 @@ Therefore, coadministration of drugs that are inhibitors of these efflux transpo
 
 ##### Interferon Alfa
 
-There was no significant pharmacokinetic interaction between 3TC and interferon alfa in a trial of 19 healthy male subjects [see Warnings and Precautions (5.3)].
+There was no significant pharmacokinetic interaction between 3TC and interferon alfa in a trial of 19 healthy male subjects.
 
 ##### Ribavirin
 
 In vitro data indicate ribavirin reduces phosphorylation of 3TC, stavudine, and zidovudine.
-However, no pharmacokinetic (e.g., plasma concentrations or intracellular triphosphorylated active metabolite concentrations) or pharmacodynamic (e.g., loss of HIV-1/HCV virologic suppression) interaction was observed when ribavirin and 3TC (n = 18), stavudine (n = 10), or zidovudine (n = 6) were coadministered as part of a multi-drug regimen to HIV-1/HCV co-infected subjects [see Warnings and Precautions (5.3)].
+However, no pharmacokinetic (e.g., plasma concentrations or intracellular triphosphorylated active metabolite concentrations) or pharmacodynamic (e.g., loss of HIV-1/HCV virologic suppression) interaction was observed when ribavirin and 3TC (n = 18), stavudine (n = 10), or zidovudine (n = 6) were coadministered as part of a multi-drug regimen to HIV-1/HCV co-infected subjects.
 
 ##### Sorbitol (Excipient)
 
-3TC and sorbitol solutions were coadministered to 16 healthy adult subjects in an open-label, randomized sequence, 4-period, crossover trial.
+3TC and sorbitol solutions were coadministered to 16 healthy adult subjects in an open-label, randomized-sequence, 4-period, crossover trial.
 Each subject received a single 300-mg dose of 3TC oral solution alone or coadministered with a single dose of 3.2 grams, 10.2 grams, or 13.4 grams of sorbitol in solution.
-Coadministration of 3TC with sorbitol resulted in dose-dependent decreases of 20%, 39%, and 44% in the AUC(0-24), 14%, 32%, and 36% in the AUC(∞), and 28%, 52%, and 55% in the Cmax of lamivudine.
+Coadministration of 3TC with sorbitol resulted in dose-dependent decreases of 20%, 39%, and 44% in the AUC(0-24), 14%, 32%, and 36% in the AUC(∞), and 28%, 52%, and 55% in the Cmax of lamivudine, respectively.
 
 ##### Trimethoprim/Sulfamethoxazole
 
@@ -275,7 +275,10 @@ Drug Interactions: Changes in Pharmacokinetic Parameters for TenofovirSubjects r
 | Cmax | AUC | Cmin |  |  |  |
 | Ledipasvir/SofosbuvirData generated from simultaneous dosing with ledipasvir/sofosbuvir. Staggered administration (12 hours apart) provide similar results.Comparison based on exposures when administered as atazanavir/ritonavir + emtricitabine/tenofovir DF. | 90/400 once daily x 10 days | 24 | ↑ 47(↑ 37 to ↑ 58) | ↑ 35(↑ 29 to ↑ 42) | ↑ 47(↑ 38 to ↑ 57) |
 | Ledipasvir/SofosbuvirComparison based on exposures when administered as darunavir/ritonavir + emtricitabine/tenofovir DF. | 23 | ↑ 64(↑ 54 to ↑ 74) | ↑ 50(↑ 42 to ↑ 59) | ↑ 59(↑ 49 to ↑ 70) |  |
-| Ledipasvir/SofosbuvirSofosbuvirStudy conducted with efavirenz/emtricitabine/tenofovir disoproxil fumarate coadministered with ledipasvir/sofosbuvir. | 90/400 once daily x 14 days | 15 | ↑ 79(↑ 56 to ↑ 104) | ↑ 98(↑ 77 to ↑ 123) | ↑ 163(↑ 132 to ↑ 197) |
+| Ledipasvir/SofosbuvirStudy conducted with efavirenz/emtricitabine/tenofovir disoproxil fumarate coadministered with ledipasvir/sofosbuvir. | 90/400 once daily x 14 days | 15 | ↑ 79(↑ 56 to ↑ 104) | ↑ 98(↑ 77 to ↑ 123) | ↑ 163(↑ 132 to ↑ 197) |
+| Sofosbuvir/ VelpatasvirStudy conducted with COMPLERA coadministered with EPCLUSA; coadministration with EPCLUSA also results in comparable increases in tenofovir exposures when TDF is administered as ATRIPLA, STRIBILD® (elvitegravir/cobicistat/FTC/TDF), TRUVADA + atazanavir/ritonavir, or TRUVADA + darunavir/ritonavir. | 400/100 once daily | 24 | ↑ 44(↑ 33 to ↑ 55) | ↑ 40(↑ 34 to ↑ 46) | ↑ 84(↑ 76 to ↑ 92) |
+| Sofosbuvir/ VelpatasvirAdministered as raltegravir + FTC/TDF. | 400/100 once daily | 30 | ↑ 46(↑ 39 to ↑ 54) | ↑ 40(↑ 34 to ↑ 45) | ↑ 70(↑ 61 to ↑ 79) |
+| Sofosbuvir/ Velpatasvir/ VoxilaprevirComparison based on exposures when administered as darunavir + ritonavir + FTC/TDF. | 400/100/100 + VoxilaprevirStudy conducted with additional voxilaprevir 100 mg to achieve voxilaprevir exposures expected in HCV-infected patients. 100 once daily | 29 | ↑ 48(↑ 36 to ↑ 61) | ↑ 39(↑ 32 to ↑ 46) | ↑ 47(↑ 38 to ↑ 56) |
 | SofosbuvirStudy conducted with efavirenz/emtricitabine/tenofovir disoproxil fumarate coadministered with sofosbuvir. | 400 single dose | 16 | ↑ 25(↑ 8 to ↑ 45) | ↔ | ↔ |
 | Tacrolimus | 0.05 mg/kg twice daily x 7 days | 21 | ↑ 13(↑ 1 to ↑ 27) | ↔ | ↔ |
 
@@ -298,8 +301,8 @@ The principal mode of action of 3TC‑TP is inhibition of HIV-1 reverse transcri
 #### Tenofovir Disoproxil Fumarate
 
 TDF is an acyclic nucleoside phosphonate diester analog of adenosine monophosphate.
-TDF requires initial diester hydrolysis for conversion to tenofovir and subsequent phosphorylations by cellular enzymes to form tenofovir diphosphate.
-Tenofovir diphosphate inhibits the activity of HIV-1 reverse transcriptase and HBV reverse transcriptase by competing with the natural substrate deoxyadenosine 5’-triphosphate and, after incorporation into DNA, by DNA chain termination.
+TDF requires initial diester hydrolysis for conversion to tenofovir and subsequent phosphorylations by cellular enzymes to form tenofovir diphosphate (TDF-DP), an obligate chain terminator.
+Tenofovir diphosphate inhibits the activity of HIV-1 reverse transcriptase (RT) and HBV RT by competing with the natural substrate deoxyadenosine 5’-triphosphate and, after incorporation into DNA, by DNA chain termination.
 Tenofovir diphosphate is a weak inhibitor of mammalian DNA polymerases α, β, and mitochondrial DNA polymerase γ.
 
 ### Antiviral Activity
@@ -345,8 +348,8 @@ Genotypic analysis showed that resistance was predominantly due to a methionine 
 #### Tenofovir Disoproxil Fumarate
 
 HIV-1 isolates with reduced susceptibility to tenofovir have been selected in cell culture.
-These viruses expressed a K65R substitution in reverse transcriptase and showed a 2- to 4-fold reduction in susceptibility to tenofovir.
-In addition, a K70E substitution in HIV-1 reverse transcriptase has been selected by tenofovir and results in low-level reduced susceptibility to tenofovir.
+These viruses expressed a K65R substitution in RT and showed a 2- to 4-fold reduction in susceptibility to tenofovir.
+In addition, a K70E substitution in HIV-1 RT has been selected by tenofovir and results in low-level reduced susceptibility to tenofovir.
 K65R substitutions developed in some subjects failing a tenofovir disoproxil fumarate regimen.
 
 ### Cross-Resistance
@@ -366,7 +369,7 @@ Cross-resistance is also expected with abacavir and emtricitabine as these selec
 
 #### Tenofovir Disoproxil Fumarate
 
-Cross-resistance among NRTIs has been observed.
+Cross-resistance among certain HIV-1 NRTIs has been observed.
 The K65R and K70E substitutions selected by tenofovir are also selected in some HIV-1-infected subjects treated with abacavir or didanosine.
 HIV-1 isolates with the K65R substitution also showed reduced susceptibility to FTC and 3TC.
 HIV-1 isolates from subjects (N = 20) whose HIV-1 expressed a mean of 3 zidovudine-associated RT amino acid substitutions (M41L, D67N, K70R, L210W, T215Y/F, or K219Q/E/N) showed a 3.1-fold decrease in the susceptibility to tenofovir.

@@ -18,12 +18,12 @@ Advise pregnant women of the potential risk to a fetus.
 
 Prospective pregnancy data from the APR are not sufficient to adequately assess this risk of birth defects or miscarriage.
 EFV and 3TC have been evaluated in a limited number of women as reported to the APR.
-Available data from the APR show no difference in the risk of major birth defects for EFV and 3TC compared to the background rate for major birth defects of 2.7% in the U.S. reference population of the Metropolitan Atlanta Congenital Defects Program (MACDP) (see Data).
+Available data from the APR show no difference in the risk of major birth defects for EFV and 3TC compared to the background rate for major birth defects of 2.7% in the U.S. reference population of the Metropolitan Atlanta Congenital Defects Program (MACDP).
+
+Available data from the APR also show no increase in the overall risk of major birth defects with first trimester exposure for TDF (2.1%) compared with the background rate for major birth defects of 2.7% in a U.S. reference population of the MACDP (see Data).
 
 3TC produced embryonic toxicity in rabbits at a dose that produced similar human exposures as the recommended clinical dose.
 The relevance of animal findings to human pregnancy registry data is not known.
-There are no adequate and well-controlled studies with TDF in pregnant women.
-Because animal reproduction studies are not always predictive of human response, TDF should be used during pregnancy only if clearly needed.
 
 The rate of miscarriage is not reported in the APR.
 The estimated background rate of miscarriage in clinically recognized pregnancies in the U.S. general population is 15% to 20%.
@@ -45,17 +45,30 @@ This case also included severe oblique facial clefts and amniotic banding, which
 
 #### Lamivudine
 
-Based on prospective reports from the APR of over 11,000 exposures to 3TC during pregnancy resulting in live births (including over 4,300 exposed in the first trimester), there was no difference between 3TC and overall birth defects compared with the background birth defect rate of 2.7% in the U.S. reference population of the MACDP.
-The prevalence of defects in the first trimester was 3.1% (95% CI: 2.6% to 3.7%).
+Based on prospective reports from the APR of over 11,000 exposures to 3TC during pregnancy resulting in live births (including over 4,300 exposed in the first trimester), there was no difference between 3TC and overall risk of birth defects for 3TC compared with the background birth defect rate of 2.7% in the U.S. reference population of the MACDP.
+The prevalence of defects in live births was 3.1% (95% CI: 2.6% to 3.6%) following first trimester exposure to 3TC-containing regimens and 2.8% (95% CI: 2.5% to 3.3%) following second/third trimester exposure to 3TC-containing regimens.
 
 3TC pharmacokinetics were studied in pregnant women during 2 clinical trials conducted in South Africa.
-The trials assessed pharmacokinetics in 16 women at 36 weeks gestation using 150 mg 3TC twice daily with zidovudine, 10 women at 38 weeks gestation using 150 mg 3TC twice daily with zidovudine, and 10 women at 38 weeks gestation using 3TC 300 mg twice daily without other antiretrovirals.
+The trials assessed pharmacokinetics in 16 women at 36 weeks’ gestation using 150 mg 3TC twice daily with zidovudine, 10 women at 38 weeks’ gestation using 150 mg 3TC twice daily with zidovudine, and 10 women at 38 weeks’ gestation using 3TC 300 mg twice daily without other antiretrovirals.
 These trials were not designed or powered to provide efficacy information.
 
-3TC pharmacokinetics in pregnant women were similar to those seen in non-pregnant adults and in postpartum women.
 3TC concentrations were generally similar in maternal, neonatal, and umbilical cord serum samples.
-In a subset of subjects, amniotic fluid specimens were collected following natural rupture of membranes and confirmed that lamivudine crosses the placenta in humans.
-Amniotic fluid concentrations of lamivudine were typically 2 times greater than maternal serum levels and ranged from 1.2 to 2.5 mcg per mL (150 mg twice daily) and 2.1 to 5.2 mcg per mL (300 mg twice daily).
+In a subset of subjects, amniotic fluid specimens were collected following natural rupture of membranes and confirmed that 3TC crosses the placenta in humans.
+Based on limited data at delivery, median (range) amniotic fluid concentrations of 3TC were 3.9 (1.2 to 12.8)-fold greater compared with paired maternal serum concentration (n = 8).
+
+#### Tenofovir Disoproxil Fumarate
+
+Based on prospective reports from the APR exposures to TDF-containing regimens during pregnancy resulting in live births (including 3,342 exposed in the first trimester and 1,475 exposed in the second/third trimester), there was no increase in overall major birth defects with TDF compared with the background birth defect rate of 2.7% in a U.S. reference population of the MACDP.
+The prevalence of major birth defects in live births was 2.3% (95% CI: 1.8% to 2.8%) with first trimester exposure to TDF-containing regimens, and 2.1% (95% CI: 1.4% to 3.0%) with the second/third trimester exposure to TDF-containing regimens.
+
+Prospective reports from the APR of overall major birth defects in pregnancies exposed to TDF are compared with a U.S. background major birth defect rate.
+Methodological limitations of the APR include the use of MACDP as the external comparator group.
+Limitations of using an external comparator include differences in methodology and populations, as well as confounding due to the underlying disease.
+
+In published data from three controlled clinical trials, a total of 327 pregnant women with chronic HBV infection were administered tenofovir disoproxil fumarate from 28 to 32 weeks gestation through 1 to 2 months postpartum and followed for up to 12 months after delivery.
+There were no new safety findings in pregnant women compared with the known safety profile of tenofovir disoproxil fumarate in HBV-infected adults.
+An increased risk of adverse pregnancy-related outcomes was not observed; 2 stillbirths were identified, and there was 1 major birth defect (talipes) and 1 occurrence of multiple congenital abnormalities (not further specified) in tenofovir disoproxil fumarate-exposed infants.
+Infants were followed for up to 12 months after delivery; there were no clinically relevant drug-related safety findings in infants exposed to tenofovir disoproxil fumarate during late gestation.
 
 ### Animal Data
 
@@ -76,35 +89,49 @@ The AUC at the NOAEL (75 mg/kg/day) in rabbits was 0.4 times that in humans at t
 
 #### Lamivudine
 
+3TC was administered orally to pregnant rats (at 90, 600, and 4,000 mg per kg per day) and rabbits (at 90, 300, and 1,000 mg per kg per day and at 15, 40, and 90 mg per kg per day) during organogenesis (on gestation Days 7 through 16 [rat] and 8 through 20 [rabbit]).
+No evidence of fetal malformations due to 3TC was observed in rats and rabbits at doses producing plasma concentrations (Cmax) approximately 35 times higher than human exposure at the recommended daily dose.
+Evidence of early embryolethality was seen in the rabbit at system exposures (AUC) similar to those observed in humans, but there was no indication of this effect in the rat at plasma concentrations (Cmax) 35 times higher than human exposure at the recommended daily dose.
 Studies in pregnant rats showed that 3TC is transferred to the fetus through the placenta.
-Reproduction studies with orally administered 3TC have been performed in rats and rabbits at doses producing plasma levels up to approximately 35 times that for the recommended adult HIV dose.
-No evidence of teratogenicity due to 3TC was observed.
-Evidence of embryo-lethality was seen in the rabbit at exposure levels similar to those observed in humans but there was no indication of this effect in the rat at exposure levels up to 35 times those in humans.
+In the fertility/pre- and postnatal development study in rats, 3TC was administered orally at doses of 180, 900, and 4,000 mg per kg per day (from prior to mating through postnatal Day 20).
+In the study, development of the offspring, including fertility and reproductive performance, was not affected by maternal administration of 3TC.
 
 #### Tenofovir Disoproxil Fumarate
 
-Reproduction studies have been performed in rats and rabbits at doses up to 14 and 19 times the human dose based on body surface area comparisons and revealed no evidence of impaired fertility or harm to the fetus due to tenofovir.
+TDF was administered orally to pregnant rats (at 0, 50, 150, or 450 mg/kg/day) and rabbits (at 0, 30, 100, or 300 mg/kg/day) through organogenesis (on gestation days 7 through 17, and 6 through 18, respectively).
+No significant toxicological effects were observed in embryo-fetal toxicity studies performed with TDF in rats at doses up to 14 times the human dose based on body surface area comparisons and in rabbits at doses up to 19 times the human dose based on body surface area comparisons.
+In a pre/postnatal development study in rats, TDF was administered orally through lactation at doses up to 600 mg/kg/day; no adverse effects were observed in the offspring at tenofovir exposures of approximately 2.7 times higher than human exposures at the recommended daily dose of TDF.
 
 ## 8.2 Lactation
 
+### Risk Summary
+
 The Centers for Disease Control and Prevention recommend that HIV-1-infected mothers not breastfeed their infants to avoid risking postnatal transmission of HIV-1 infection.
 
-### Efavirenz
+#### Efavirenz
 
 EFV has been shown to pass into human breast milk.
 There is no information available on the effects of EFV on the breastfed infant, or the effects of EFV on milk production.
 
-### Lamivudine
+#### Lamivudine
 
-3TC is excreted into human milk.
-Samples of breast milk obtained from 20 mothers receiving 3TC monotherapy, 300 mg twice daily (2 times the dose in SYMFI), had measurable concentrations of 3TC.There is no information on the effects of 3TC on the breastfed infant, or the effects of 3TC on milk production.
+3TC is present in human milk.
+Samples of breast milk obtained from 20 mothers receiving 3TC monotherapy, 300 mg twice daily (2 times the dose in SYMFI), had measurable concentrations of 3TC.
+There is no information on the effects of 3TC on the breastfed infant, or the effects of 3TC on milk production.
 
-### Tenofovir Disoproxil Fumarate
+#### Tenofovir Disoproxil Fumarate
 
-Samples of breast milk obtained from five HIV-1-infected mothers in the first postpartum week show that tenofovir is excreted in human milk at low levels.
-The impact of this exposure in breastfed infants is unknown and the effects of TDF on milk production is unknown.
+Based on published data, tenofovir has been shown to be present in human breast milk (see Data).
+It is not known if tenofovir affects milk production or has effects on the breastfed child.
 
-Because of the potential for 1) HIV transmission (in HIV-negative infants); 2) developing viral resistance (in HIV-positive infants); and 3) adverse reactions in a breastfed infant similar to those seen in adults, instruct mothers not to breastfeed if they are receiving SYMFI.
+Because of the potential for (1) HIV transmission (in HIV-negative infants); (2) developing viral resistance (in HIV-positive infants); and (3) adverse reactions in a breastfed infant similar to those seen in adults, instruct mothers not to breastfeed if they are receiving SYMFI.
+
+### Data
+
+#### Tenofovir Disoproxil Fumarate
+
+In a study of 50 HIV-uninfected, breastfeeding women on a tenofovir-containing regimen initiated between 1 and 24 weeks postpartum (median 13 weeks), tenofovir was undetectable in the plasma of most infants after 7 days of treatment in mothers.
+There were no serious adverse events in mothers or infants.
 
 ## 8.3 Females and Males of Reproductive Potential
 

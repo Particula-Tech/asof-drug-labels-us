@@ -2,18 +2,17 @@
 
 The following adverse reactions are discussed in other sections of the labeling:
 
-- •Lactic Acidosis/Severe Hepatomegaly with Steatosis [see Warnings and Precautions (5.1)].
-- •Exacerbations of Hepatitis B [see Boxed Warning, Warnings and Precautions (5.2)].
+- •Exacerbations of Hepatitis B [see Boxed Warning, Warnings and Precautions (5.1)].
+- •Lactic Acidosis/Severe Hepatomegaly with Steatosis [see Warnings and Precautions (5.2)].
 - •New Onset or Worsening Renal Impairment [see Warnings and Precautions (5.4)].
 - •Psychiatric Symptoms [see Warnings and Precautions (5.5)].
 - •Nervous System Symptoms [see Warnings and Precautions (5.6)].
 - •Skin and Systemic Hypersensitivity Reaction [see Warnings and Precautions (5.8)].
 - •Hepatotoxicity [see Warnings and Precautions (5.9)].
-- •Hepatic Decompensation in Patients Co-infected with HIV-1 and Hepatitis C [see Warnings and Precautions (5.10)].
-- •Pancreatitis [see Warnings and Precautions (5.11)].
-- •Decreases in Bone Mineral Density [see Warnings and Precautions (5.14)].
-- •Immune Reconstitution Syndrome [see Warnings and Precautions (5.15)].
-- •Fat Redistribution [see Warnings and Precautions (5.16)].
+- •Pancreatitis [see Warnings and Precautions (5.10)].
+- •Bone Loss and Mineralization Effects [see Warnings and Precautions (5.13)].
+- •Immune Reconstitution Syndrome [see Warnings and Precautions (5.14)].
+- •Fat Redistribution [see Warnings and Precautions (5.15)].
 
 ## 6.1 Clinical Trials Experience
 
@@ -21,57 +20,48 @@ Because clinical studies are conducted under widely varying conditions, the adve
 
 ### Efavirenz, Lamivudine and Tenofovir Disoproxil Fumarate
 
-Treatment-Naïve Patients
+#### Clinical Trials in Treatment-Naïve HIV-1 Infected Adult Subjects
 
-#### Study 903 - Adverse Reactions
-
-The most common adverse reactions seen in a double-blind comparative controlled study in which 600 treatment-naïve subjects received TDF (N = 299) or stavudine (d4T) (N = 301) in combination with 3TC and EFV for 144 weeks were mild to moderate gastrointestinal events and dizziness.
-
-Mild adverse reactions (Grade 1) were common with a similar incidence in both arms, and included dizziness, diarrhea, and nausea.
-Selected moderate to severe adverse reactions are summarized in Table 1.
+In Trial 903, 600 antiretroviral-naïve subjects received TDF (N = 299) or stavudine (d4T) (N = 301) administered in combination with 3TC and EFV for 144 weeks.
+The most common adverse reactions were mild to moderate gastrointestinal events and dizziness.
+Mild adverse reactions (Grade 1) were common with a similar incidence in both arms and included dizziness, diarrhea, and nausea.
+Table 1 provides the treatment-emergent adverse reactions (Grades 2-4) occurring in greater than or equal to 5% of subjects treated in any treatment group.
 
 Table 1.
 Selected Adverse ReactionsFrequencies of adverse reactions are based on all treatment-emergent adverse events, regardless of relationship to study drug.
-(Grades 2-4) Reported in ≥ 5% in Any Treatment Group in Study 903 (0-144 Weeks)
+(Grades 2-4) Reported in ≥ 5% in Any Treatment Group in Trial 903 (0-144 Weeks)
 
 |  | TDF + 3TC + EFV | d4T + 3TC + EFV |
 | --- | --- | --- |
-| N = 299 | N = 301 |  |
-| Body as a Whole |  |  |
+|  | N = 299 | N = 301 |
+| Rash eventRash event includes rash, pruritus, maculopapular rash, urticaria, vesiculobullous rash, and pustular rash. | 18% | 12% |
 | Headache | 14% | 17% |
 | Pain | 13% | 12% |
+| Diarrhea | 11% | 13% |
+| Depression | 11% | 10% |
+| Back pain | 9% | 8% |
+| Nausea | 8% | 9% |
 | Fever | 8% | 7% |
 | Abdominal pain | 7% | 12% |
-| Back pain | 9% | 8% |
 | Asthenia | 6% | 7% |
-| Digestive System |  |  |
-| Diarrhea | 11% | 13% |
-| Nausea | 8% | 9% |
-| Dyspepsia | 4% | 5% |
-| Vomiting | 5% | 9% |
-| Metabolic Disorders |  |  |
-| LipodystrophyLipodystrophy represents a variety of investigator-described adverse events not a protocol-defined syndrome. | 1% | 8% |
-| Musculoskeletal |  |  |
-| Arthralgia | 5% | 7% |
-| Myalgia | 3% | 5% |
-| Nervous System |  |  |
-| Depression | 11% | 10% |
-| Insomnia | 5% | 8% |
-| Dizziness | 3% | 6% |
-| Peripheral neuropathyPeripheral neuropathy includes peripheral neuritis and neuropathy. | 1% | 5% |
 | Anxiety | 6% | 6% |
-| Respiratory |  |  |
+| Vomiting | 5% | 9% |
+| Insomnia | 5% | 8% |
+| Arthralgia | 5% | 7% |
 | Pneumonia | 5% | 5% |
-| Skin and Appendages |  |  |
-| Rash eventRash event includes rash, pruritus, maculopapular rash, urticaria, vesiculobullous rash, and pustular rash. | 18% | 12% |
+| Dyspepsia | 4% | 5% |
+| Dizziness | 3% | 6% |
+| Myalgia | 3% | 5% |
+| LipodystrophyLipodystrophy represents a variety of investigator-described adverse events not a protocol-defined syndrome. | 1% | 8% |
+| Peripheral neuropathyPeripheral neuropathy includes peripheral neuritis and neuropathy. | 1% | 5% |
 
 #### Laboratory Abnormalities
 
-With the exception of fasting cholesterol and fasting triglyceride elevations that were more common in the stavudine group (40% and 9%) compared with TDF (19% and 1%) respectively, laboratory abnormalities observed in this study occurred with similar frequency in the tenofovir disoproxil fumarate and stavudine treatment arms.
-A summary of Grade 3 and 4 laboratory abnormalities is provided in Table 2.
+Table 2 provides a list of laboratory abnormalities (Grades 3-4) observed in Trial 903.
+With the exception of fasting cholesterol and fasting triglyceride elevations that were more common in the d4T group (40% and 9%) compared with the TDF group (19% and 1%) respectively, laboratory abnormalities observed in this trial occurred with similar frequency in the TDF and d4T treatment arms.
 
 Table 2.
-Grade 3/4 Laboratory Abnormalities Reported in ≥ 1% of Patients Randomized to Efavirenz, Lamivudine and Tenofovir Disoproxil Fumarate in Study 903 (0-144 Weeks)
+Grade 3-4 Laboratory Abnormalities Reported in ≥ 1% of Patients Randomized to Efavirenz, Lamivudine and Tenofovir Disoproxil Fumarate in Study 903 (0-144 Weeks)
 
 |  | TDF + 3TC + EFV | d4T + 3TC + EFV |
 | --- | --- | --- |
@@ -88,16 +78,16 @@ Grade 3/4 Laboratory Abnormalities Reported in ≥ 1% of Patients Randomized to 
 
 #### Pancreatitis
 
-Pancreatitis, which has been fatal in some cases, has been observed in antiretroviral nucleoside-experienced pediatric subjects receiving 3TC alone or in combination with other antiretroviral agents [see Warnings and Precautions (5.11)].
+Pancreatitis, which has been fatal in some cases, has been observed in antiretroviral nucleoside-experienced pediatric subjects receiving 3TC alone or in combination with other antiretroviral agents [see Warnings and Precautions (5.10)].
 
 #### Changes in Bone Mineral Density
 
-In HIV-1-infected adult subjects in Study 903, there was a significantly greater mean percentage decrease from baseline in BMD at the lumbar spine in subjects receiving TDF + 3TC + EFV (-2.2% ± 3.9) compared with subjects receiving d4T + 3TC + EFV (-1.0% ± 4.6) through 144 weeks.
+In HIV-1-infected adult subjects in Trial 903, there was a significantly greater mean percentage decrease from baseline in BMD at the lumbar spine in subjects receiving TDF + 3TC + EFV (-2.2% ± 3.9) compared with subjects receiving d4T + 3TC + EFV (-1.0% ± 4.6) through 144 weeks.
 Changes in BMD at the hip were similar between the two treatment groups (-2.8% ± 3.5 in the TDF group vs. -2.4% ± 4.5 in the d4T group).
 In both groups, the majority of the reduction in BMD occurred in the first 24-48 weeks of the trial and this reduction was sustained through Week 144.
 Twenty-eight percent of TDF-treated subjects vs. 21% of the d4T-treated subjects lost at least 5% of BMD at the spine or 7% of BMD at the hip.
 Clinically relevant fractures (excluding fingers and toes) were reported in 4 subjects in the TDF group and 6 subjects in the d4T group.
-In addition, there were significant increases in biochemical markers of bone metabolism (serum bone-specific alkaline phosphatase, serum osteocalcin, serum C telopeptide, and urinary N telopeptide) and higher serum parathyroid hormone levels and 1,25 Vitamin D levels in the TDF group relative to the d4T group; however, except for bone-specific alkaline phosphatase, these changes resulted in values that remained within the normal range [see Warnings and Precautions (5.14)].
+In addition, there were significant increases in biochemical markers of bone metabolism (serum bone-specific alkaline phosphatase, serum osteocalcin, serum C telopeptide, and urinary N telopeptide) and higher serum parathyroid hormone levels and 1,25 Vitamin D levels in the TDF group relative to the d4T group; however, except for bone-specific alkaline phosphatase, these changes resulted in values that remained within the normal range [see Warnings and Precautions (5.13)].
 
 ## 6.2 Postmarketing Experience
 
@@ -107,9 +97,9 @@ These reactions have been chosen for inclusion due to a combination of their ser
 
 ### Efavirenz
 
-Body as a Whole: allergic reactions, asthenia, redistribution/accumulation of body fat [see Warnings and Precautions (5.16)].
+Body as a Whole: allergic reactions, asthenia, redistribution/accumulation of body fat [see Warnings and Precautions (5.15)].
 
-Central and Peripheral Nervous System: abnormal coordination, ataxia, cerebellar coordination and balance disturbances, convulsions, hypoesthesia, paresthesia, neuropathy, tremor, vertigo.
+Central and Peripheral Nervous System: abnormal coordination, ataxia, encephalopathy, cerebellar coordination and balance disturbances, convulsions, hypoesthesia, paresthesia, neuropathy, tremor, vertigo.
 
 Endocrine: gynecomastia.
 
@@ -133,7 +123,7 @@ Special Senses: abnormal vision, tinnitus.
 
 ### Lamivudine
 
-Body as a Whole: redistribution/accumulation of body fat [see Warnings and Precautions (5.16)].
+Body as a Whole: redistribution/accumulation of body fat [see Warnings and Precautions (5.15)].
 
 Endocrine and Metabolic: hyperglycemia.
 

@@ -12,8 +12,10 @@ Consider alternatives to EFV when coadministered with a drug with a known risk o
 
 ## 7.3 Drugs Affecting Renal Function
 
-Since tenofovir is primarily eliminated by the kidneys [see Clinical Pharmacology (12.3)], coadministration of EFV/3TC/TDF with drugs that reduce renal function or compete for active tubular secretion may increase serum concentrations of tenofovir and/or increase the concentrations of other renally eliminated drugs.
-Some examples include, but are not limited to cidofovir, acyclovir, valacyclovir, ganciclovir, valganciclovir, aminoglycosides (e.g., gentamicin), and high-dose or multiple NSAIDs [see Warnings and Precautions (5.4)].
+Tenofovir is primarily eliminated by the kidneys [see Clinical Pharmacology (12.3)].
+Coadministration of EFV/3TC/TDF with drugs that are eliminated by active tubular secretion may increase concentrations of tenofovir and/or the coadministered drug.
+Some examples include, but are not limited to, acyclovir, cidofovir, ganciclovir, valacyclovir, valganciclovir, aminoglycosides (e.g., gentamicin), and high-dose or multiple NSAIDs [see Warnings and Precautions (5.4)].
+Drugs that decrease renal function may increase concentrations of tenofovir.
 
 ## 7.4 Cannabinoid Test Interaction
 
@@ -49,7 +51,7 @@ Established and Other Potentially Significant Drug Interactions with EFV: Altera
 | Anti-infective:Clarithromycin | ↓ clarithromycin↑ 14-OH metabolite | Consider alternatives to macrolide antibiotics because of the risk of QT interval prolongation. |
 | Antimycobacterial:Rifabutin | ↓ rifabutin | Increase daily dose of rifabutin by 50%. Consider doubling the rifabutin dose in regimens where rifabutin is given 2 or 3 times a week. |
 | Rifampin | ↓ EFV | Increase EFV total daily dose to 800 mg once daily when coadministered with rifampin to patients weighing 50 kg or more. |
-| Antimalarials:Artemether/lumefantrine | ↓ artemether↓ dihydroartemisinin↓ lumefantrine | Consider alternatives to artemether/lumefantrine because of the risk of QT interval prolongation [see Warnings and Precautions (5.17)]. |
+| Antimalarials:Artemether/lumefantrine | ↓ artemether↓ dihydroartemisinin↓ lumefantrine | Consider alternatives to artemether/lumefantrine because of the risk of QT interval prolongation [see Warnings and Precautions (5.16)]. |
 | Atovaquone/proguanil | ↓ atovaquone↓ proguanil | Concomitant administration is not recommended. |
 | Calcium channel blockers:Diltiazem | ↓ diltiazem↓ desacetyl diltiazem↓ N-monodesmethyldiltiazem | Diltiazem dose adjustments should be guided by clinical response (refer to the full prescribing information for diltiazem). |
 | Others (e.g., felodipine,nicardipine, nifedipine,verapamil) | ↓ calcium channel blocker | When coadministered with EFV, dosage adjustment of calcium channel blocker may be needed and should be guided by clinical response (refer to the full prescribing information for the calcium channel blocker). |

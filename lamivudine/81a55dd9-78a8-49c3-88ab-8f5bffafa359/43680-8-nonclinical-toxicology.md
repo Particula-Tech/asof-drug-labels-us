@@ -42,7 +42,7 @@ There was, however, an alteration of the estrous cycle in female rats.
 
 ### Efavirenz
 
-Nonsustained convulsions were observed in 6 of 20 monkeys receiving EFV at doses yielding plasma AUC values 4- to 13-fold greater than those in humans given the recommended dose [see Warnings and Precautions (5.12)].
+Nonsustained convulsions were observed in 6 of 20 monkeys receiving EFV at doses yielding plasma AUC values 4- to 13-fold greater than those in humans given the recommended dose [see Warnings and Precautions (5.11)].
 
 ### Tenofovir Disoproxil Fumarate
 

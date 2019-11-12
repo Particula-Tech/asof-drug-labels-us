@@ -1,7 +1,7 @@
 # 11 DESCRIPTION
 
-SYMFI tablets contain efavirenz, an HIV-1 specific, non-nucleoside, reverse transcriptase inhibitor (NNRTI), lamivudine (also known as 3TC), a synthetic nucleoside analogue with activity against HIV-1 and tenofovir disoproxil fumarate or tenofovir DF (a prodrug of tenofovir), a fumaric acid salt of bis-isopropoxycarbonyloxymethyl ester derivative of tenofovir.
-In vivo tenofovir DF is converted to tenofovir, an acyclic nucleoside phosphonate (nucleotide) analog of adenosine 5’-monophosphate.
+SYMFI tablets contain efavirenz (EFV), an HIV-1 specific, non-nucleoside, reverse transcriptase inhibitor (NNRTI), lamivudine (also known as 3TC), a synthetic nucleoside analogue with activity against HIV-1 and tenofovir disoproxil fumarate (TDF) (a prodrug of tenofovir), a fumaric acid salt of bis-isopropoxycarbonyloxymethyl ester derivative of tenofovir.
+TDF is converted in vivo to tenofovir, an acyclic nucleoside phosphonate (nucleotide) analog of adenosine 5’-monophosphate.
 Tenofovir exhibits activity against HIV-1 reverse transcriptase.
 
 SYMFI tablets are for oral administration.

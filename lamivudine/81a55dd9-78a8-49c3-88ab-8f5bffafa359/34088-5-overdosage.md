@@ -1,6 +1,6 @@
 # 10 OVERDOSAGE
 
-If overdose occurs the patient must be monitored for evidence of toxicity, and standard supportive treatment applied as necessary.
+If overdose occurs, the patient must be monitored for evidence of toxicity, and standard supportive treatment applied as necessary.
 
 Efavirenz: Some patients accidentally taking 600 mg twice daily have reported increased nervous system symptoms.
 One patient experienced involuntary muscle contractions.
