@@ -71,8 +71,9 @@ The following have been reported in general use with finasteride 1 mg tablets:
   Tell your healthcare provider about any changes in your breasts such as lumps, pain or nipple discharge.
 - depression;
 - decrease in sex drive that continued after stopping the medication;
-- allergic reactions including rash, itching, hives and swelling of the lips and face;
-- problems with ejaculation that continued after stopping medication; testicular pain;
+- allergic reactions including rash, itching, hives and swelling of the lips, tongue, throat, and face;
+- problems with ejaculation that continued after stopping medication;
+- testicular pain;
 - difficulty in achieving an erection that continued after stopping the medication;
 - male infertility and/or poor quality of semen.
 - in rare cases, male breast cancer.
@@ -122,4 +123,4 @@ Dr. Reddy’s Laboratories Limited
 
 Bachupally – 500 090 INDIA
 
-Revised: 0812
+Revised: 0314

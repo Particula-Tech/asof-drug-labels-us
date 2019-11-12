@@ -78,7 +78,7 @@ Finasteride 5 mg is not approved to reduce the risk of developing prostate cance
 The following adverse reactions have been identified during post approval use of finasteride.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure:
 
-Hypersensitivity Reaction: hypersensitivity reactions including rash, pruritus, urticaria, and swelling of the lips and face;
+Hypersensitivity Reaction: hypersensitivity reactions such as rash, pruritus, urticaria, and angioedema (including swelling of the lips, tongue, throat, and face);
 
 Reproductive System: sexual dysfunction that continued after discontinuation of treatment, including erectile dysfunction, libido disorders, ejaculation disorders, and orgasm disorders; male infertility and/or poor seminal quality (normalization or improvement of seminal quality has been reported after discontinuation of finasteride); testicular pain.
 [See Adverse Reactions (6.1).]
