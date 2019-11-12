@@ -20,4 +20,4 @@ Hypersensitivity reactions (pruritus, rash, urticaria, and very rarely severe er
 One case of erythema multiforme and one case of allergic reaction (swelling of lips and hives all over the body) were confirmed by rechallenge.
 
 Call your doctor for medical advice about side effects.
-You may report side effects to Strides Pharma Inc. at 1-877-244-9825 or go to www.stridesshasun.com
+You may report side effects to Strides Pharma Inc. at 1-877-244-9825 or go to www.strides.com
