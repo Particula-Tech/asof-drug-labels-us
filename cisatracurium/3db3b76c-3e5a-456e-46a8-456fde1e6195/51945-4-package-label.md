@@ -10,6 +10,8 @@ WARNING: Paralyzing Agent
 
 Single-dose vial
 
+Discard Unused Portion
+
 Rx only
 
 abbvie
@@ -43,6 +45,8 @@ Nimbex®
 WARNING: Paralyzing Agent
 
 Single-dose vial
+
+Discard Unused Portion
 
 For ICU use only.
 
