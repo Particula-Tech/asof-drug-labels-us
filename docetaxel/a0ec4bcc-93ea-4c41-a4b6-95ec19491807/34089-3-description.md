@@ -8,9 +8,10 @@ Docetaxel (anhydrous) has the following structural formula:
 Docetaxel is a white to almost-white powder with an empirical formula of C43H53NO14, and a molecular weight of 807.88.
 It is highly lipophilic and practically insoluble in water.
 
-Docetaxel Injection, USP is a clear, colorless to pale yellow solution.
-Docetaxel Injection, USP is sterile, non-pyrogenic and is available in single use vials containing 20 mg (2 mL) docetaxel (anhydrous), and multi-use vials containing 80 mg (8 mL) or 160 mg (16 mL) docetaxel (anhydrous).
+Docetaxel Injection, USP is a sterile, non-pyrogenic, clear, colorless to pale yellow solution at 10 mg/mL concentration.
 
-Each mL contains 10 mg docetaxel (anhydrous) 260 mg Polysorbate 80 NF, 4 mg Anhydrous Citric Acid USP, 23% v/v Dehydrated Alcohol USP and Polyethylene Glycol 300 NF.
+Each mL contains 10 mg docetaxel (anhydrous) 260 mg polysorbate 80 NF, 4 mg anhydrous citric acid USP, 23% v/v dehydrated alcohol USP, and polyethylene glycol 300 NF.
 
-Docetaxel Injection Concentrate requires NO prior dilution with a diluent and is ready to add to the infusion solution.
+Docetaxel Injection is available in single-dose vials containing 20 mg (2 mL) docetaxel (anhydrous), and multiple-dose vials containing 80 mg (8 mL) or 160 mg (16 mL) docetaxel (anhydrous).
+
+Docetaxel Injection requires NO prior dilution with a diluent and is ready to add to the infusion solution.
