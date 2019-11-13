@@ -8,9 +8,10 @@ Docetaxel (trihydrate) has the following structural formula:
 Docetaxel (trihydrate) is a white to almost-white powder with an empirical formula of C43H53NO14 ∙ 3H2O, and a molecular weight of 861.9.
 It is highly lipophilic and practically insoluble in water.
 
-Docetaxel Injection, USP is a clear, pale yellow to brownish-yellow solution.
-Docetaxel Injection, USP is sterile, non-pyrogenic and is available in single use vials containing 20 mg (1 mL) docetaxel (anhydrous), and multi-use vials containing 80 mg (4 mL) or 160 mg (8 mL) docetaxel (anhydrous).
+Docetaxel Injection, USP is a sterile, non-pyrogenic, pale-yellow to brownish yellow solution at 20 mg/mL concentration.
 
-Each mL contains 20 mg docetaxel (anhydrous), 520 mg Polysorbate 80 NF, 7 mg Citric Acid Monohydrate USP, and 395 mg Dehydrated Alcohol USP.
+Each mL contains 20 mg docetaxel (anhydrous), 520 mg polysorbate 80 NF, 7 mg citric acid monohydrate USP, and 395 mg dehydrated alcohol USP.
 
-Docetaxel Injection Concentrate requires NO prior dilution with a diluent and is ready to add to the infusion solution.
+Docetaxel Injection is available in single-dose vials containing 20 mg (1 mL) or multiple-dose vials containing 80 mg (4 mL) or 160 mg (8 mL) docetaxel (anhydrous).
+
+Docetaxel Injection requires NO prior dilution with a diluent and is ready to add to the infusion solution.

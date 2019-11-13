@@ -6,7 +6,7 @@ Docetaxel Injection is indicated for the treatment of patients with locally adva
 
 Docetaxel Injection in combination with doxorubicin and cyclophosphamide is indicated for the adjuvant treatment of patients with operable node-positive breast cancer.
 
-## 1.2 Non-Small Cell Lung Cancer
+## 1.2 Non-small Cell Lung Cancer
 
 Docetaxel Injection as a single agent is indicated for the treatment of patients with locally advanced or metastatic non-small cell lung cancer after failure of prior platinum-based chemotherapy.
 
