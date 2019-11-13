@@ -1,0 +1,26 @@
+{
+  "application_numbers": [
+    "ANDA205414"
+  ],
+  "inn": "febuxostat",
+  "labeler": "Hikma Pharmaceuticals USA Inc",
+  "package_ndcs": [
+    "0054-0413-13",
+    "0054-0413-22",
+    "0054-0413-29",
+    "0054-0413-31",
+    "0054-0414-13",
+    "0054-0414-22",
+    "0054-0414-29",
+    "0054-0414-31"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "febuxostat",
+      "name": "Febuxostat"
+    }
+  ],
+  "setid": "14f1555c-2565-42c7-b3f5-dd5f03fed67a",
+  "source": "dailymed"
+}
