@@ -17,7 +17,7 @@ Overall, 17% of patients developed an acute hypersensitivity reaction (18% in th
 Table 5.
 Incidence of Drug-Related Adverse Reactions Occurring Within the First 2 Hours Following Study Drug Administration by Preferred Term: Loading Dose/Infusion Rate Study
 
-| Treatment Group | 15-mins |  |  |  | 60-mins |  |  |  |
+| Treatment Group | 15-minutes |  |  |  | 60-minutes |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Number of Patients | n=109 |  |  |  | n=71 |  |  |  |
 | Cardiac disorders | 5 (5%) |  |  |  | 2 (3%) |  |  |  |
@@ -43,7 +43,7 @@ Incidence of Drug-Related Adverse Reactions Occurring Within the First 2 Hours F
 | Vascular disorders | 2 (2%) |  |  |  | 3 (4%) |  |  |  |
 | Severity: | Unkn | Mild | Moderate | Severe | Unkn | Mild | Moderate | Severe |
 | Flushing |  | 1 (1%) | 1 (1%) |  |  | 2 (3%) | 1 (1%) |  |
-| Unkn=Unknown |  |  |  |  |  |  |  |  |
+| Unkn= Unknown; NOS= not otherwise specified |  |  |  |  |  |  |  |  |
 
 Safety Study
 
@@ -54,9 +54,8 @@ The incidence of hypersensitivity reactions in adult (overall incidence 8%) and 
 Table 6.
 Distribution of reported hypersensitivity reactions in adult patients receiving intravenous acetylcysteine
 
-|  | Incidence (%) |
+| Reaction | Incidence (%) n=4709 |
 | --- | --- |
-| Reaction | % of Patients (n=4709) |
 | Urticaria/Facial Flushing | 6.1% |
 | Pruritus | 4.3% |
 | Respiratory Symptoms* | 1.9% |
@@ -67,9 +66,8 @@ Distribution of reported hypersensitivity reactions in adult patients receiving 
 Table 7.
 Distribution of reported hypersensitivity reactions in pediatric patients receiving intravenous acetylcysteine
 
-|  | Incidence (%) |
+| Reaction | Incidence (%) n=1905 |
 | --- | --- |
-| Reaction | % of Patients (n=1905) |
 | Urticaria/Facial Flushing | 7.6% |
 | Pruritus | 4.1% |
 | Respiratory Symptoms* | 2.2% |

@@ -39,16 +39,16 @@ Loading dose
 
 For patients whose acetaminophen concentrations are at or above the “possible” toxicity line (dotted line in nomogram):
 
-- Administer a loading dose of ACETADOTE [see Dosage and Administration (2.4)]
+- Administer a loading dose of ACETADOTE [see Dosage and Administration (2.4)].
 
 For patients with an acute overdose from an extended-release acetaminophen, if the acetaminophen concentration at 4 hours post ingestion is below the possible toxicity line then obtain a second sample for acetaminophen concentration 8 to 10 hours after the acute ingestion.
 If the second value is at or above the “possible” toxicity line (dotted line in nomogram):
 
-- Administer a loading dose of ACETADOTE [see Dosage and Administration (2.4)]
+- Administer a loading dose of ACETADOTE [see Dosage and Administration (2.4)].
 
 For patients whose values are below the “possible” toxicity line, but time of ingestion was unknown or sample was obtained less than 4 hours after ingestion:
 
-- Administer a loading dose of ACETADOTE [see Dosage and Administration (2.4)]
+- Administer a loading dose of ACETADOTE [see Dosage and Administration (2.4)].
 
 For patients whose values are below the “possible” toxicity line and time of ingestion is known and the sample was obtained more than 4 hours after ingestion, do not administer ACETADOTE because there is minimal risk of hepatotoxicity.
 
@@ -74,7 +74,7 @@ The acetaminophen concentration could not be obtained:
 
 For patients whose acetaminophen concentration is below the “possible” toxicity line (see Figure 1) and time of ingestion is known and the sample was obtained more than 4 hours after ingestion:
 
-Discontinue ACETADOTE.
+- Discontinue ACETADOTE.
 
 The acetaminophen concentration was in the non-toxic range, but time of ingestion was unknown or less than 4 hours:
 
@@ -132,8 +132,8 @@ Recommended ACETADOTE Dosage and Dilution for Patients 5 kg to 20 kg
 | Loading Dose | Diluent Volume | Second Dose | Diluent Volume | Third Dose | Diluent Volume |  |
 | 5 kg** | 750 mg | 15 mL | 250 mg | 35 mL | 500 mg | 70 mL |
 | 10 kg | 1,500 mg | 30 mL | 500 mg | 70 mL | 1,000 mg | 140mL |
-| 15 kg | 2,250 mg | 45 mL | 750 mg | 105mL | 1,500 mg | 210mL |
-| 20 kg | 3,000 mg | 60 mL | 1,000mg | 140mL | 2,000 mg | 280mL |
+| 15 kg | 2,250 mg | 45 mL | 750 mg | 105 mL | 1,500 mg | 210 mL |
+| 20 kg | 3,000 mg | 60 mL | 1,000mg | 140 mL | 2,000 mg | 280 mL |
 | * Dilute ACETADOTE in one of the following three solutions: sterile water for injection, 0.45% sodium chloride injection, or 5% dextrose in water. |  |  |  |  |  |  |
 | ** Recommended dosing for those less than 5 kg has not been studied. |  |  |  |  |  |  |
 
@@ -150,7 +150,7 @@ Recommended ACETADOTE Dosage and Dilution for Patients 21 kg to 40 kg
 Table 4.
 Recommended ACETADOTE Dosage and Dilution for Patients 41 kg or Greater
 
-| Body Weight | Bag 1 (Loading Dose) 150 mg/kg in 200 mL of diluent* infused over 1 hour | Bag 2 (Second Dose) 50 mg/kg in 500 mL of diluent* infused over 4 hours | Bag 3 (Third Dose) 100 mg/kg in 1000 mL of diluent* infused over 16 hours |
+| Body Weight | Bag 1 (Loading Dose) 150 mg/kg in 200 mL of diluent1 infused over 1 hour | Bag 2 (Second Dose) 50 mg/kg in 500 mL of diluent1 infused over 4 hours | Bag 3 (Third Dose) 100 mg/kg in 1000 mL of diluent1 infused over 16 hours |
 | --- | --- | --- | --- |
 | 41 kg | 6,150 mg | 2,050 mg | 4,100 mg |
 | 50 kg | 7,500 mg | 2,500 mg | 5,000 mg |
