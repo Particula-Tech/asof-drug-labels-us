@@ -1,0 +1,30 @@
+# 5 WARNINGS AND PRECAUTIONS
+
+## 5.1 Sulfonamide Hypersensitivity
+
+Dorzolamide hydrochloride ophthalmic solution contains dorzolamide, a sulfonamide; and although administered topically, it is absorbed s ystemically.
+Therefore, the same t ypes of adverse reactions that are attributable to sulfonamides m ay occur with topical administration of dorzolamide hydrochloride ophthalmic solution.
+Fatalities have occurred, although rarely, due to severe reactions to sulfonamides including Steven s-Johnson s yndro me, toxic epidermal necrol ysis, fulminant hepatic necrosis, agranulocytosis, aplastic anemia, and other blood d yscrasias.
+Sensitization may recur when a sulfonamide is readministered irrespective of the route of administration.
+If signs of serious reactions or hypersensitivity occur, discontinue the use of this preparation [see Contraindications (4) and Patient Counseling Information (17.3)].
+
+## 5.2 Bacterial Keratitis
+
+There have been reports of bacterial keratitis associated with the use of multiple-dose containers of topical ophthalmic products.
+These containers had been inadvertently contaminated by patients who, in most cases, had a concurrent corneal disease or a disruption of the ocular epitheli al surfac e.
+
+## 5.3 Corneal Endothelium
+
+Carbonic anhydrase activity has been observed in both the cytoplasm and around the plasma m e m branes of the corneal endothelium.
+There is an increased potential for developing corneal ede ma in patients with low endothelial cell counts.
+Caution should be used when prescribing dorzolamide hydrochloride ophthalmic solution to this group of patients.
+
+## 5.4 Allergic Reactions
+
+In clinical studies, local ocular adverse effects, primarily conjunctivitis and lid reactions, were reported with chronic administration of dorzolamide hydrochloride ophthalmic solution.
+Many of these reactions had the clinical appearance and course of an allergi c- t ype reaction that resolved upon discontinuation of drug therapy.
+If such reactions are observed, dorzolamide hydrochloride ophthalmic solution should be discontinued and the patient evaluated before consider ing restarting the drug [see Adverse Reactions (6)].
+
+## 5.5 Acute Angle-Closure Glaucoma
+
+The management of patients with acute angle-closure glaucoma requires therapeutic interventions in addition to ocular hypotensive agents.

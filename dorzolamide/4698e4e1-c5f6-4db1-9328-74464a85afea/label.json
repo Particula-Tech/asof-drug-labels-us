@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA204778"
+  ],
+  "inn": "dorzolamide",
+  "labeler": "Micro Labs Limited",
+  "package_ndcs": [
+    "42571-141-26"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION/ DROPS",
+      "generic": "dorzolamide hydrochloride",
+      "name": "Dorzolamide Hydrochloride Ophthalmic Solution"
+    }
+  ],
+  "setid": "4698e4e1-c5f6-4db1-9328-74464a85afea",
+  "source": "dailymed"
+}
