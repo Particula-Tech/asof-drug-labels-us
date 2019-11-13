@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "NDA019028"
+  ],
+  "inn": "chlorhexidine",
+  "labeler": "Xttrium Laboratories, Inc.",
+  "package_ndcs": [
+    "0116-0620-01",
+    "0116-0620-02",
+    "0116-0620-03",
+    "0116-0620-04"
+  ],
+  "products": [
+    {
+      "form": "RINSE",
+      "generic": "chlorhexidine gluconate",
+      "name": "Peridex"
+    }
+  ],
+  "setid": "4703eff7-b30b-5a7d-e054-00144ff88e88",
+  "source": "dailymed"
+}
