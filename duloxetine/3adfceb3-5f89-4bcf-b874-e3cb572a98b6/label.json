@@ -1,0 +1,35 @@
+{
+  "application_numbers": [
+    "ANDA090778"
+  ],
+  "inn": "duloxetine",
+  "labeler": "Aurobindo Pharma Limited",
+  "package_ndcs": [
+    "59651-279-10",
+    "59651-279-60",
+    "59651-279-71",
+    "59651-279-78",
+    "59651-279-99",
+    "59651-280-10",
+    "59651-280-30",
+    "59651-280-59",
+    "59651-280-78",
+    "59651-280-90",
+    "59651-280-99",
+    "59651-282-10",
+    "59651-282-30",
+    "59651-282-39",
+    "59651-282-78",
+    "59651-282-90",
+    "59651-282-99"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE, DELAYED RELEASE",
+      "generic": "duloxetine hydrochloride",
+      "name": "Duloxetine"
+    }
+  ],
+  "setid": "3adfceb3-5f89-4bcf-b874-e3cb572a98b6",
+  "source": "dailymed"
+}
