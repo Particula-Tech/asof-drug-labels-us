@@ -48,6 +48,10 @@ Overestimating the Codeine Sulfate Tablets dosage when converting patients from 
 
 Accidental ingestion of even one dose of Codeine Sulfate Tablets, especially by children, can result in respiratory depression and death due to an overdose of codeine.
 
+Opioids can cause sleep-related breathing disorders including central sleep apnea (CSA) and sleep-related hypoxemia.
+Opioid use increases the risk of CSA in a dose-dependent fashion.
+In patients who present with CSA, consider decreasing the opioid dosage using best practices for opioid taper[see Dosage and Administration (2.3)].
+
 ## 5.4 Ultra-Rapid Metabolism of Codeine and Other Risk Factors for Life-Threatening Respiratory Depression in Children
 
 Life-threatening respiratory depression and death have occurred in children who received codeine.
@@ -64,12 +68,12 @@ Because of the risk of life-threatening respiratory depression and death:
   [see Warnings and Precautions (5.4)]
 - •As with adults, when prescribing codeine for adolescents, healthcare providers should choose the lowest effective dose for the shortest period of time and inform patients and caregivers about these risks and the signs of morphine overdose [see Use in Specific Populations (8.4), Overdosage (10)].
 
-Nursing Mothers
+Nursing Mothers:
 
 At least one death was reported in a nursing infant who was exposed to high levels of morphine in breast milk because the mother was an ultra-rapid metabolizer of codeine.
 Breastfeeding is not recommended during treatment with Codeine Sulfate Tablets [see Use in Specific Populations (8.2)].
 
-CYP2D6 Genetic Variability: Ultra-Rapid Metabolizers
+CYP2D6 Genetic Variability: Ultra-Rapid Metabolizers:
 
 Some individuals may be ultra-rapid metabolizers because of a specific CYP2D6 genotype (e.g., gene duplications denoted as *1/*1xN or *1/*2xN).
 The prevalence of this CYP2D6 phenotype varies widely and has been estimated at 1 to 10% for Whites (European, North American), 3 to 4% for Blacks (African Americans), 1 to 2% for East Asians (Chinese, Japanese, Korean), and may be greater than 10% in certain racial/ethnic groups (i.e., Oceanian, Northern African, Middle Eastern, Ashkenazi Jews, Puerto Rican).
@@ -91,7 +95,7 @@ Advise pregnant women using opioids for a prolonged period of the risk of neonat
 The effects of concomitant use or discontinuation of cytochrome P450 3A4 inducers, 3A4 inhibitors, or 2D6 inhibitors with codeine are complex.
 Use of cytochrome P450 3A4 inducers, 3A4 inhibitors, or 2D6 inhibitors with Codeine Sulfate Tablets requires careful consideration of the effects on the parent drug, codeine, and the active metabolite, morphine.
 
-Cytochrome P450 3A4 Interaction
+Cytochrome P450 3A4 Interaction:
 
 The concomitant use of Codeine Sulfate Tablets with all cytochrome P450 3A4 inhibitors, such as macrolide antibiotics (e.g., erythromycin), azole-antifungal agents (e.g., ketoconazole), and protease inhibitors (e.g., ritonavir) or discontinuation of a cytochrome P450 3A4 inducer such as rifampin, carbamazepine, and phenytoin, may result in an increase in codeine plasma concentrations with subsequently greater metabolism by cytochrome P450 2D6, resulting in greater morphine levels, which could increase or prolong adverse reactions and may cause potentially fatal respiratory depression.
 
@@ -105,7 +109,7 @@ Monitor patients for respiratory depression and sedation at frequent intervals.
 If concomitant use of a CYP3A4 inducer is necessary or if a CYP3A4 inhibitor is discontinued, consider increasing the Codeine Sulfate Tablets dosage until stable drug effects are achieved.
 Monitor for signs of opioid withdrawal [Drug Interactions (7)].
 
-Risks of Concomitant Use or Discontinuation of Cytochrome P450 2D6 Inhibitors
+Risks of Concomitant Use or Discontinuation of Cytochrome P450 2D6 Inhibitors:
 
 The concomitant use of Codeine Sulfate Tablets with all cytochrome P450 2D6 inhibitors (e.g., amiodarone, quinidine) may result in an increase in codeine plasma concentrations and a decrease in active metabolite morphine plasma concentration which could result in an analgesic efficacy reduction or symptoms of opioid withdrawal.
 
@@ -137,11 +141,11 @@ Screen patients for risk of substance use disorders, including opioid abuse and 
 
 The use of Codeine Sulfate Tablets in patients with acute or severe bronchial asthma in an unmonitored setting or in the absence of resuscitative equipment is contraindicated.
 
-Patients with Chronic Pulmonary Disease
+Patients with Chronic Pulmonary Disease:
 
 Codeine Sulfate Tablets-treated patients with significant chronic obstructive pulmonary disease or cor pulmonale, and those with a substantially decreased respiratory reserve, hypoxia, hypercapnia, or pre-existing respiratory depression are at increased risk of decreased respiratory drive including apnea, even at recommended dosages of Codeine Sulfate Tablets [see Warnings and Precautions (5.3)].
 
-Elderly, Cachectic, or Debilitated Patients
+Elderly, Cachectic, or Debilitated Patients:
 
 Life-threatening respiratory depression is more likely to occur in elderly, cachectic, or debilitated patients because they may have altered pharmacokinetics or altered clearance compared to younger, healthier patients [see Warnings and Precautions (5.3)].
 
@@ -194,11 +198,12 @@ Monitor patients with a history of seizure disorders for worsened seizure contro
 
 ## 5.15 Withdrawal
 
-Avoid the use of mixed agonist/antagonist (e.g, pentazocine, nalbuphine, and butorphanol) or partial agonist (e.g., buprenorphine) analgesics in patients who are receiving a full opioid agonist analgesic, including Codeine Sulfate Tablets.
-In these patients, mixed agonist/antagonist and partial agonist analgesics may reduce the analgesic effect and/or precipitate withdrawal symptoms [see Drug Interactions (7)].
+Do not abruptly discontinue Codeine Sulfate Tablets in a patient physically dependent on opioids.
+When discontinuing Codeine Sulfate Tablets in a physically-dependent patient, gradually taper the dosage.
+Rapid tapering of codeine in a patient physically dependent on opioids may lead to a withdrawal syndrome and return of pain[see Dosage and Administration (2.4), Drug Abuse and Dependence (9.3)].
 
-When discontinuing Codeine Sulfate Tablets in a physically-dependent patient, gradually taper the dosage [see Dosage and Administration (2.4)].
-Do not abruptly discontinue Codeine Sulfate Tablets in these patients [see Drug Abuse and Dependence (9.3)].
+Additionally, avoid the use of mixed agonist/antagonist (e.g., pentazocine, nalbuphine, and butorphanol) or partial agonist (e.g., buprenorphine) analgesics in patients who are receiving a full opioid agonist analgesic, including Codeine Sulfate Tablets.
+In these patients, mixed agonist/antagonist and partial agonist analgesics may reduce the analgesic effect and/or precipitate withdrawal symptoms [see Drug Interactions (7)].
 
 ## 5.16 Risks of Driving and Operating Machinery
 

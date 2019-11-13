@@ -11,8 +11,12 @@ The following serious adverse reactions are described, or described in greater d
 - •Severe Hypotension [see Warnings and Precautions (5.11)]
 - •Gastrointestinal Adverse Reactions [see Warnings and Precautions (5.13)]
 - •Seizures [see Warnings and Precautions (5.14)]
-- •Withdrawal [see Warnings and Precautions (5.15)]The following adverse reactions associated with the use of codeine were identified in clinical studies or postmarketing reports.
-  Because some of these reactions were reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.Serious adverse reactions associated with codeine were respiratory depression and, to a lesser degree, circulatory depression, respiratory arrest, shock, and cardiac arrest.
+- •Withdrawal [see Warnings and Precautions (5.15)]
+
+The following adverse reactions associated with the use of codeine were identified in clinical studies or postmarketing reports.
+Because some of these reactions were reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+Serious adverse reactions associated with codeine were respiratory depression and, to a lesser degree, circulatory depression, respiratory arrest, shock, and cardiac arrest.
 
 The most frequently observed adverse reactions with codeine administration included drowsiness, lightheadedness, dizziness, sedation, shortness of breath, nausea, vomiting, sweating, and constipation.
 
@@ -32,6 +36,6 @@ Serotonin Syndrome: Cases of serotonin syndrome, a potentially life-threatening 
 
 Adrenal Insufficiency: Cases of adrenal insufficiency have been reported with opioid use, more often following greater than one month of use.
 
-Anaphylaxis:Anaphylaxis has been reported with ingredients contained in Codeine Sulfate Tablets.
+Anaphylaxis: Anaphylaxis has been reported with ingredients contained in Codeine Sulfate Tablets.
 
-Androgen Deficiency: Cases of androgen deficiency have occurred with chronic use of opioids [see Clinical Pharmacology (12.2)].
+Androgen Deficiency: Cases of androgen deficiency have occurred with chronic use of opioids [see ClinicalPharmacology (12.2)].

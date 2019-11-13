@@ -2,7 +2,7 @@
 
 ## 8.1 Pregnancy
 
-Risk Summary
+Risk Summary:
 
 Prolonged use of opioid analgesics during pregnancy may cause neonatal opioid withdrawal syndrome [see Warnings and Precautions (5.5)].
 Available data with Codeine Sulfate Tablets are insufficient to inform a drug-associated risk for major birth defects and miscarriage.
@@ -11,7 +11,7 @@ In animal reproduction studies, codeine administration during organogenesis has 
 All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
 In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively.
 
-Clinical Considerations
+Clinical Considerations:
 
 Fetal/Neonatal Adverse Reactions: Prolonged use of opioid analgesics during pregnancy for medical or nonmedical purposes can result in physical dependence in the neonate and neonatal opioid withdrawal syndrome shortly after birth.
 
@@ -26,7 +26,7 @@ Opioid analgesics, including Codeine Sulfate Tablets, can prolong labor through 
 However, this effect is not consistent and may be offset by an increased rate of cervical dilation, which tends to shorten labor.
 Monitor neonates exposed to opioid analgesics during labor for signs of excess sedation and respiratory depression.
 
-Data
+Data:
 
 Animal Data: Studies on the reproductive and developmental effects of codeine have been reported in the published literature in hamsters, rats, mice and rabbits.
 
@@ -45,7 +45,7 @@ This dose is 0.8 times the maximum recommended human dose of 360 mg/day on a bod
 
 ## 8.2 Lactation
 
-Risk Summary
+Risk Summary:
 
 Codeine and its active metabolite, morphine, are present in human milk.
 There are published studies and cases that have reported excessive sedation, respiratory depression, and death in infants exposed to codeine via breast milk.
@@ -55,14 +55,14 @@ In women with normal codeine metabolism (normal CYP2D6 activity), the amount of 
 There is no information on the effects of codeine on milk production.
 Because of the potential for serious adverse reactions, including excess sedation, respiratory depression, and death in a breastfed infant, advise patients that breastfeeding is not recommended during treatment with Codeine Sulfate Tablets [seeWarnings and Precautions (5.4)].
 
-Clinical Considerations
+Clinical Considerations:
 
 If infants are exposed to Codeine Sulfate Tablets through breast milk, they should be monitored for excess sedation and respiratory depression.
 Withdrawal symptoms can occur in breastfed infants when maternal administration of an opioid analgesic is stopped, or when breastfeeding is stopped.
 
 ## 8.3 Females and Males of Reproductive Potential
 
-Infertility
+Infertility:
 
 Chronic use of opioids may cause reduced fertility in females and males of reproductive potential.
 It is not known whether these effects on fertility are reversible [see Adverse Reactions (6)].
