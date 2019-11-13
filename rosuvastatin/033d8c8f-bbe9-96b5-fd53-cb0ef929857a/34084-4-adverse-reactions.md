@@ -9,14 +9,14 @@ The following serious adverse reactions are discussed in greater detail in other
 
 Because clinical studies are conducted under widely varying conditions, adverse reaction rates observed in the clinical studies of a drug cannot be directly compared to rates in the clinical studies of another drug and may not reflect the rates observed in clinical practice.
 
-In the rosuvastatin calcium controlled clinical trials database (placebo or active-controlled) of 5394 patients with a mean treatment duration of 15 weeks, 1.4% of patients discontinued due to adverse reactions.
+In the rosuvastatin controlled clinical trials database (placebo or active-controlled) of 5394 patients with a mean treatment duration of 15 weeks, 1.4% of patients discontinued due to adverse reactions.
 The most common adverse reactions that led to treatment discontinuation were:
 
 - myalgia
 - abdominal pain
 - nausea
 
-The most commonly reported adverse reactions (incidence ≥2%) in the rosuvastatin calcium controlled clinical trial database of 5394 patients were:
+The most commonly reported adverse reactions (incidence ≥2%) in the rosuvastatin controlled clinical trial database of 5394 patients were:
 
 - headache
 - myalgia
@@ -28,9 +28,9 @@ Adverse reactions reported in ≥2% of patients in placebo-controlled clinical s
 These studies had a treatment duration of up to 12 weeks.
 
 Table 1.
-Adverse ReactionsAdverse reactions by COSTART preferred term Reported in ≥ 2% of Patients Treated with Rosuvastatin calcium and > Placebo in Placebo-Controlled Trials (% of Patients)
+Adverse ReactionsAdverse reactions by COSTART preferred term Reported in ≥ 2% of Patients Treated with Rosuvastatin and > Placebo in Placebo-Controlled Trials (% of Patients)
 
-| Adverse Reactions | Rosuvastatin calcium 5 mg N=291 | Rosuvastatin calcium 10 mg N=283 | Rosuvastatin calcium 20 mg N=64 | Rosuvastatin calcium 40 mg N=106 | Total Rosuvastatin calcium 5 mg to 40 mg N=744 | Placebo N=382 |
+| Adverse Reactions | Rosuvastatin 5 mg N=291 | Rosuvastatin 10 mg N=283 | Rosuvastatin 20 mg N=64 | Rosuvastatin 40 mg N=106 | Total Rosuvastatin 5 mg to 40 mg N=744 | Placebo N=382 |
 | --- | --- | --- | --- | --- | --- | --- |
 | Headache | 5.5 | 4.9 | 3.1 | 8.5 | 5.5 | 5.0 |
 | Nausea | 3.8 | 3.5 | 6.3 | 0 | 3.4 | 3.1 |
@@ -41,16 +41,16 @@ Adverse ReactionsAdverse reactions by COSTART preferred term Reported in ≥ 2% 
 Other adverse reactions reported in clinical studies were abdominal pain, dizziness, hypersensitivity (including rash, pruritus, urticaria, and angioedema) and pancreatitis.
 The following laboratory abnormalities have also been reported: dipstick-positive proteinuria and microscopic hematuria [see Warnings and Precautions (5.4)]; elevated creatine phosphokinase, transaminases, glucose, glutamyl transpeptidase, alkaline phosphatase, and bilirubin; and thyroid function abnormalities.
 
-In a clinical trial, involving 981 participants treated with rosuvastatin 40 mg (n=700) or placebo (n=281) with a mean treatment duration of 1.7 years, 5.6% of subjects treated with rosuvastatin calcium versus 2.8% of placebo-treated subjects discontinued due to adverse reactions.
+In a clinical trial, involving 981 participants treated with rosuvastatin 40 mg (n=700) or placebo (n=281) with a mean treatment duration of 1.7 years, 5.6% of subjects treated with rosuvastatin versus 2.8% of placebo-treated subjects discontinued due to adverse reactions.
 The most common adverse reactions that led to treatment discontinuation were: myalgia, hepatic enzyme increased, headache, and nausea.
 
 Adverse reactions reported in ≥2% of patients and at a rate greater than placebo are shown in Table 2.
 
 Table 2.
 Adverse ReactionsAdverse reactions by MedDRA preferred term.
-Reported in ≥ 2% of Patients Treated With Rosuvastatin calcium and > Placebo in a Trial (% of Patients)
+Reported in ≥ 2% of Patients Treated With Rosuvastatin and > Placebo in a Trial (% of Patients)
 
-| Adverse Reactions | Rosuvastatin calcium 40 mg N=700 | Placebo N=281 |
+| Adverse Reactions | Rosuvastatin 40 mg N=700 | Placebo N=281 |
 | --- | --- | --- |
 | Myalgia | 12.7 | 12.1 |
 | Arthralgia | 10.1 | 7.1 |
@@ -72,9 +72,9 @@ Adverse reactions reported in ≥2% of patients and at a rate greater than place
 
 Table 3.
 Adverse ReactionsTreatment-emergent adverse reactions by MedDRA preferred term.
-Reported in ≥2% of Patients Treated with Rosuvastatin calcium and > Placebo in a Trial (% of Patients)
+Reported in ≥2% of Patients Treated with Rosuvastatin and > Placebo in a Trial (% of Patients)
 
-| Adverse Reactions | Rosuvastatin calcium 20 mg N=8901 | Placebo N=8901 |
+| Adverse Reactions | Rosuvastatin 20 mg N=8901 | Placebo N=8901 |
 | --- | --- | --- |
 | Myalgia | 7.6 | 6.6 |
 | Arthralgia | 3.8 | 3.2 |
@@ -84,11 +84,11 @@ Reported in ≥2% of Patients Treated with Rosuvastatin calcium and > Placebo in
 
 ## 6.2 Postmarketing Experience
 
-The following adverse reactions have been identified during postapproval use of rosuvastatin calcium: arthralgia, fatal and non-fatal hepatic failure, hepatitis, jaundice, thrombocytopenia, depression, sleep disorders (including insomnia and nightmares), peripheral neuropathy, interstitial lung disease and gynecomastia.
+The following adverse reactions have been identified during postapproval use of rosuvastatin: arthralgia, fatal and non-fatal hepatic failure, hepatitis, jaundice, thrombocytopenia, depression, sleep disorders (including insomnia and nightmares), peripheral neuropathy, interstitial lung disease and gynecomastia.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 There have been rare reports of immune-mediated necrotizing myopathy associated with statin use [see Warnings and Precautions (5.1)].
 
-There have been rare postmarketing reports of cognitive impairment (e.g., memory loss, forgetfulness, amnesia, memory impairment, confusion) associated with statin use.
+There have been rare postmarketing reports of cognitive impairment (e.g., memory loss, forgetfulness, amnesia, memory impairment, and confusion) associated with statin use.
 These cognitive issues have been reported for all statins.
 The reports are generally nonserious, and reversible upon statin discontinuation, with variable times to symptom onset (1 day to years) and symptom resolution (median of 3 weeks).

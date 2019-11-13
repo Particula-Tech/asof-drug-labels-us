@@ -60,10 +60,10 @@ However, due to AstraZeneca’s marketing exclusivity rights, this drug product 
 
 ## 8.5 Geriatric Use
 
-Of the 10,275 patients in clinical studies with rosuvastatin calcium, 3159 (31%) were 65 years and older, and 698 (6.8%) were 75 years and older.
+Of the 10,275 patients in clinical studies with rosuvastatin, 3159 (31%) were 65 years and older, and 698 (6.8%) were 75 years and older.
 No overall differences in safety or effectiveness were observed between these subjects and younger subjects, and other reported clinical experience has not identified differences in responses between the elderly and younger patients, but greater sensitivity of some older individuals cannot be ruled out.
 
-Elderly patients are at higher risk of myopathy and rosuvastatin calcium should be prescribed with caution in the elderly [see Warnings and Precautions (5.1) and Clinical Pharmacology (12.3)].
+Elderly patients are at higher risk of myopathy and rosuvastatin should be prescribed with caution in the elderly [see Warnings and Precautions (5.1) and Clinical Pharmacology (12.3)].
 
 ## 8.6 Renal Impairment
 
@@ -73,10 +73,10 @@ Exposure to rosuvastatin is increased to a clinically significant extent in pati
 
 ## 8.7 Hepatic Impairment
 
-Rosuvastatin calcium is contraindicated in patients with active liver disease, which may include unexplained persistent elevations of hepatic transaminase levels.
-Chronic alcohol liver disease is known to increase rosuvastatin exposure; rosuvastatin calcium should be used with caution in these patients [seeContraindications (4), Warning and Precautions (5.2), and Clinical Pharmacology (12.3)].
+Rosuvastatin is contraindicated in patients with active liver disease, which may include unexplained persistent elevations of hepatic transaminase levels.
+Chronic alcohol liver disease is known to increase rosuvastatin exposure; rosuvastatin should be used with caution in these patients [seeContraindications (4), Warning and Precautions (5.2), and Clinical Pharmacology (12.3)].
 
 ## 8.8 Asian Patients
 
 Pharmacokinetic studies have demonstrated an approximate 2-fold increase in median exposure to rosuvastatin in Asian subjects when compared with Caucasian controls.
-Rosuvastatin calcium dosage should be adjusted in Asian patients [see Dosage and Administration (2.3) and Clinical Pharmacology (12.3)].
+Rosuvastatin dosage should be adjusted in Asian patients [see Dosage and Administration (2.3) and Clinical Pharmacology (12.3)].

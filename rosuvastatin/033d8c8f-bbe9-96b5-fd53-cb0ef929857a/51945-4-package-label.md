@@ -4,7 +4,7 @@ NDC 70377-006-12
 
 90 tablets
 
-Rosuvastatin Calcium Tablets
+Rosuvastatin Tablets, USP
 
 5 mg tablets
 
@@ -18,13 +18,23 @@ Mfg.
 Lic.
 No. KTK/25/460/2001
 
+or
+
+Biocon Pharma Limited, Special Economic Zone, Plot No.5, Phase IV, Bommasandra - Jigani Link Road, Bommasandra Post, Bengaluru, Karnataka 560099, India
+
+Mfg.
+Lic.
+No. KTK/25/664/2017
+
+or
+
 # Package/Label Display Panel 10 mg
 
 NDC 70377-007-12
 
 90 tablets
 
-Rosuvastatin Calcium tablets
+Rosuvastatin Tablets, USP
 
 10 mg tablets
 
@@ -37,13 +47,23 @@ Mfg.
 Lic.
 No. KTK/25/460/2001
 
+or
+
+Biocon Pharma Limited, Special Economic Zone, Plot No.5, Phase IV, Bommasandra - Jigani Link Road, Bommasandra Post, Bengaluru, Karnataka 560099, India
+
+Mfg.
+Lic.
+No. KTK/25/664/2017
+
+or
+
 # Package/Label Display Panel 20 mg
 
 NDC 70377-008-12
 
 90 tablets
 
-Rosuvastatin Calcium tablets
+Rosuvastatin Tablets, USP
 
 20 mg tablets
 
@@ -54,13 +74,23 @@ Mfg.
 Lic.
 No. KTK/25/460/2001
 
+or
+
+Biocon Pharma Limited, Special Economic Zone, Plot No.5, Phase IV, Bommasandra - Jigani Link Road, Bommasandra Post, Bengaluru, Karnataka 560099, India
+
+Mfg.
+Lic.
+No. KTK/25/664/2017
+
+or
+
 # Package/Label Display Panel 40 mg
 
 NDC 70377-009-12
 
 90 tablets
 
-Rosuvastatin Calcium tablets
+Rosuvastatin Tablets, USP
 
 40 mg tablets
 
@@ -70,3 +100,13 @@ Manufactured by: Recipharm Pharmaservices Private Limited, 34th KM, Tumkur Road,
 Mfg.
 Lic.
 No. KTK/25/460/2001
+
+or
+
+Biocon Pharma Limited, Special Economic Zone, Plot No.5, Phase IV, Bommasandra - Jigani Link Road, Bommasandra Post, Bengaluru, Karnataka 560099, India
+
+Mfg.
+Lic.
+No. KTK/25/664/2017
+
+or

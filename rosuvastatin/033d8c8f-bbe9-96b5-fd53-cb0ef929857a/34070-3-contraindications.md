@@ -1,9 +1,9 @@
 # 4 CONTRAINDICATIONS
 
-Rosuvastatin calcium tablets are contraindicated in the following conditions:
+Rosuvastatin tablets are contraindicated in the following conditions:
 
 - Patients with a known hypersensitivity to any component of this product.
-  Hypersensitivity reactions including rash, pruritus, urticaria, and angioedema have been reported with rosuvastatin calcium tablets [see Adverse Reactions (6.1)].
+  Hypersensitivity reactions including rash, pruritus, urticaria, and angioedema have been reported with rosuvastatin tablets [see Adverse Reactions (6.1)].
 - Patients with active liver disease, which may include unexplained persistent elevations of hepatic transaminase levels [see Warnings and Precautions (5.2)].
 - Pregnancy [see Use in Specific Populations (8.1, 8.3)].
 - Lactation.
