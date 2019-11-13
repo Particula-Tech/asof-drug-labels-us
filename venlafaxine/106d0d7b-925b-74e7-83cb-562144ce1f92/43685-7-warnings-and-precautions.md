@@ -5,7 +5,7 @@
 Patients with major depressive disorder (MDD), both adult and pediatric, may experience worsening of their depression and/or the emergence of suicidal ideation and behavior (suicidality) or unusual changes in behavior, whether or not they are taking antidepressant medications, and this risk may persist until significant remission occurs.
 Suicide is a known risk of depression and certain other psychiatric disorders, and these disorders themselves are the strongest predictors of suicide.
 There has been a long-standing concern, however, that antidepressants may have a role in inducing worsening of depression and the emergence of suicidality in certain patients during the early phases of treatment.
-Pooled analyses of short-term placebo-controlled trials of antidepressant drugs (SSRIs and others) showed that these drugs increase the risk of suicidal thinking and behavior (suicidality) in children, adolescents, and young adults (ages 18-24) with major depressive disorder (MDD) and other psychiatric disorders.
+Pooled analyses of short-term placebo-controlled trials of antidepressant drugs (SSRIs and others) showed that these drugs increase the risk of suicidal thinking and behavior (suicidality) in children, adolescents, and young adults (ages 18 to 24) with major depressive disorder (MDD) and other psychiatric disorders.
 Short-term studies did not show an increase in the risk of suicidality with antidepressants compared to placebo in adults beyond age 24; there was a reduction with antidepressants compared to placebo in adults aged 65 and older.
 
 The pooled analyses of placebo-controlled trials in children and adolescents with MDD, obsessive compulsive disorder (OCD), or other psychiatric disorders included a total of 24 short-term trials of 9 antidepressant drugs in over 4400 patients.
@@ -21,9 +21,9 @@ Table 1
 | --- | --- |
 |  | Increases Compared to Placebo |
 | <18 | 14 additional cases |
-| 18-24 | 5 additional cases |
+| 18 to 24 | 5 additional cases |
 |  | Decreases Compared to Placebo |
-| 25-64 | 1 fewer case |
+| 25 to 64 | 1 fewer case |
 | ≥ 65 | 6 fewer cases |
 
 No suicides occurred in any of the pediatric trials.
@@ -55,7 +55,7 @@ It should be noted that venlafaxine hydrochloride is not approved for use in tre
 
 ## Serotonin Syndrome
 
-The development of a potentially life-threatening serotonin syndrome has been reported with SNRIs and SSRIs, including venlaxine hydrochloride, alone but particularly with concomitant use of other serotonergic drugs (including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, tryptophan, buspirone, and St. John's Wort) and with drugs that impair metabolism of serotonin (in particular, MAOIs, both those intended to treat psychiatric disorders and also others, such as linezolid and intravenous methylene blue).
+The development of a potentially life-threatening serotonin syndrome has been reported with SNRIs and SSRIs, including venlaxine hydrochloride, alone but particularly with concomitant use of other serotonergic drugs (including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, tryptophan, buspirone, amphetamines, and St. John's Wort) and with drugs that impair metabolism of serotonin (in particular, MAOIs, both those intended to treat psychiatric disorders and also others, such as linezolid and intravenous methylene blue).
 
 Serotonin syndrome symptoms may include mental status changes (e.g., agitation, hallucinations, delirium, and coma), autonomic instability (e.g., tachycardia, labile blood pressure, dizziness, diaphoresis, flushing, hyperthermia), neuromuscular symptoms (e.g., tremor, rigidity, myoclonus, hyperreflexia, incoordination), seizures, and/or gastrointestinal symptoms (e.g., nausea, vomiting, diarrhea).
 Patients should be monitored for the emergence of serotonin syndrome.
@@ -71,6 +71,10 @@ If concomitant use of venlafaxine hydrochloride with other serotonergic drugs, i
 
 Treatment with venlafaxine hydrochloride and any concomitant serotonergic agents should be discontinued immediately if the above events occur and supportive symptomatic treatment should be initiated.
 
+## Angle-Closure Glaucoma
+
+The pupillary dilation that occurs following use of many antidepressant drugs including venlafaxine tablets may trigger an angle closure attack in a patient with automatically narrow angles who does not have a patent iridectomy.
+
 ## Sustained Hypertension
 
 Venlafaxine treatment is associated with sustained increases in blood pressure in some patients.
@@ -83,8 +87,8 @@ Probability of Sustained Elevation in SDBP (Pool of Premarketing Venlafaxine Stu
 | --- | --- | --- |
 |  | Venlafaxine |  |
 |  | <100 mg/day | 3% |
-|  | 101-200 mg/day | 5% |
-|  | 201-300 mg/day | 7% |
+|  | 101 to 200 mg/day | 5% |
+|  | 201 to 300 mg/day | 7% |
 |  | >300 mg/day | 13% |
 |  | Placebo | 2% |
 
@@ -97,7 +101,7 @@ For patients who experience a sustained increase in blood pressure while receivi
 
 ## Mydriasis
 
-Mydriasis has been reported in association with venlafaxine; therefore patients with raised intraocular pressure or at risk of acute narrow-angle glaucoma (angle-closure glaucoma) should be monitored (see PRECAUTIONS, Information for Patients).
+Mydriasis has been reported in association with venlafaxine; therefore patients with risk of acute narrow-angle glaucoma (angle-closure glaucoma) should be monitored (see PRECAUTIONS, Information for Patients).
 
 # PRECAUTIONS
 
@@ -143,7 +147,7 @@ Venlafaxine hydrochloride is not indicated for weight loss alone or in combinati
 
 #### Pediatric Patients
 
-Weight loss has been observed in pediatric patients (ages 6-17) receiving venlafaxine extended-release capsules.
+Weight loss has been observed in pediatric patients (ages 6 to 17) receiving venlafaxine extended-release capsules.
 In a pooled analysis of four eight-week, double-blind, placebo-controlled, flexible dose outpatient trials for major depressive disorder (MDD) and generalized anxiety disorder (GAD), venlafaxine extended-release capsules-treated patients lost an average of 0.45 kg (n = 333), while placebo-treated patients gained an average of 0.77 kg (n = 333).
 More patients treated with venlafaxine extended-release capsules than with placebo experienced a weight loss of at least 3.5% in both the MDD and the GAD studies (18% of venlafaxine extended-release capsules-treated patients vs. 3.6% of placebo-treated patients; p<0.001).
 Weight loss was not limited to patients with treatment-emergent anorexia (see PRECAUTIONS, General, Changes in Appetite).
@@ -156,7 +160,7 @@ The difference between observed weight gain and expected weight gain was larger 
 
 #### Pediatric Patients
 
-During the eight-week placebo-controlled GAD studies, venlafaxine extended-release capsules-treated patients (ages 6-17) grew an average of 0.3 cm (n = 122), while placebo-treated patients grew an average of 1.0 cm (n = 132); p=0.041.
+During the eight-week placebo-controlled GAD studies, venlafaxine extended-release capsules-treated patients (ages 6 to 17) grew an average of 0.3 cm (n = 122), while placebo-treated patients grew an average of 1 cm (n = 132); p=0.041.
 This difference in height increase was most notable in patients younger than twelve.
 During the eight-week placebo-controlled MDD studies, venlafaxine extended-release capsules-treated patients grew an average of 0.8 cm (n = 146), while placebo-treated patients grew an average of 0.7 cm (n = 147).
 In the six-month open-label study, children and adolescents had height increases that were less than expected based on data from age- and sex-matched peers.
@@ -171,7 +175,7 @@ Treatment-emergent anorexia was more commonly reported for venlafaxine-treated (
 #### Pediatric Patients
 
 Decreased appetite has been observed in pediatric patients receiving venlafaxine extended-release capsules.
-In the placebo-controlled trials for GAD and MDD, 10% of patients aged 6-17 treated with venlafaxine extended-release capsules for up to eight weeks and 3% of patients treated with placebo reported treatment-emergent anorexia (decreased appetite).
+In the placebo-controlled trials for GAD and MDD, 10% of patients aged 6 to 17 treated with venlafaxine extended-release capsules for up to eight weeks and 3% of patients treated with placebo reported treatment-emergent anorexia (decreased appetite).
 None of the patients receiving venlafaxine extended-release capsules discontinued for anorexia or weight loss.
 
 ### Activation of Mania/Hypomania
@@ -234,7 +238,7 @@ The mean change from baseline in corrected QT interval (QTc) for venlafaxine ext
 In these same trials, the mean change from baseline in heart rate for venlafaxine extended-release capsules-treated patients was significantly higher than that for placebo (a mean increase of 4 beats per minute for venlafaxine extended-release capsules and 1 beat per minute for placebo).
 In a flexible-dose study, with venlafaxine hydrochloride doses in the range of 200 to 375 mg/day and mean dose greater than 300 mg/day, venlafaxine hydrochloride-treated patients had a mean increase in heart rate of 8.5 beats per minute compared with 1.7 beats per minute in the placebo group.
 
-As increases in heart rate were observed, caution should be exercised in patients whose underlying medical conditions might be compromised by increases in heart rate (eg, patients with hyperthyroidism, heart failure, or recent myocardial infarction), particularly when using doses of venlafaxine hydrochloride above 200 mg/day.
+As increases in heart rate were observed, caution should be exercised in patients whose underlying medical conditions might be compromised by increases in heart rate (e.g., patients with hyperthyroidism, heart failure, or recent myocardial infarction), particularly when using doses of venlafaxine hydrochloride above 200 mg/day.
 
 In patients with renal impairment (GFR=10 to 70 mL/min) or cirrhosis of the liver, the clearances of venlafaxine and its active metabolite were decreased, thus prolonging the elimination half-lives of these substances.
 A lower dose may be necessary (see DOSAGE AND ADMINISTRATION).
@@ -263,6 +267,13 @@ Clinical studies were performed to examine the effects of venlafaxine on behavio
 The results revealed no clinically significant impairment of psychomotor, cognitive, or complex behavior performance.
 However, since any psychoactive drug may impair judgment, thinking, or motor skills, patients should be cautioned about operating hazardous machinery, including automobiles, until they are reasonably certain that venlafaxine hydrochloride therapy does not adversely affect their ability to engage in such activities.
 
+### Angle-Closure Glaucoma
+
+Patients should be advised that taking venlafaxine tablets can cause mild pupillary dilation, which in susceptible individuals, can lead to an episode of angle-closure glaucoma.
+Pre-existing glaucoma is almost always open-angle glaucoma because angle-closure of glaucoma, when diagnosed, can be treated definitely with iridectomy.
+Open-angle glaucoma is not a risk factor for angle closure glaucoma.
+Patients may wish to be examined to determine whether they are susceptible to angle closure, and have a prophylactic procedure (e.g., iridectomy), if they are susceptible.
+
 ### Pregnancy
 
 Patients should be advised to notify their physician if they become pregnant or intend to become pregnant during therapy.
@@ -274,7 +285,7 @@ Patients should be advised to notify their physician if they are breast-feeding 
 ### Mydriasis
 
 Mydriasis (prolonged dilation of the pupils of the eye) has been reported with venlafaxine.
-Patients should be advised to notify their physician if they have a history of glaucoma or a history of increased intraocular pressure (see WARNINGS).
+Patients should be advised to notify their physician if they have a history of glaucoma (see WARNINGS).
 
 ### Concomitant Medication
 
@@ -354,12 +365,12 @@ Therefore, no dosage adjustment is required when venlafaxine is coadministered w
 
 #### Ketoconazole
 
-A pharmacokinetic study with ketoconazole 100 mg b.i.d. with a single dose of venlafaxine 50 mg mg in extensive metabolizers (EM; n = 14) and and 25 mg in poor metabolizers (PM; n = 6) of CYP2D6, respectively, resulted in higher plasma concentrations of both venlafaxine and O-desvenlafaxine (ODV) in most subjects following administration of ketoconazole.
+A pharmacokinetic study with ketoconazole 100 mg b.i.d. with a single dose of venlafaxine 50 mg in extensive metabolizers (EM; n = 14) and and 25 mg in poor metabolizers (PM; n = 6) of CYP2D6, respectively, resulted in higher plasma concentrations of both venlafaxine and O-desvenlafaxine (ODV) in most subjects following administration of ketoconazole.
 Venlafaxine Cmax increased by 26% in EM subjects and 48% in PM subjects.
 Cmax values for ODV increased by 14% and 29% in EM and PM subjects, respectively.
 
 Venlafaxine AUC increased by 21% in EM subjects and 70% in PM subjects (range in PMs - 2% to 206%), and AUC values for ODV increased by 23% and 33% in EM and PM (range in PMs - 38% to 105%) subjects, respectively.
-Combined AUCs of venlafaxine and ODV increased on average by approximately 23% in EMs and 53% in PMs, (range in PMs 4% - 134%).
+Combined AUCs of venlafaxine and ODV increased on average by approximately 23% in EMs and 53% in PMs, (range in PMs 4% to 134%).
 
 Concomitant use of CYP3A4 inhibitors and venlafaxine may increase levels of venlafaxine and ODV.
 Therefore, caution is advised if a patient's therapy includes a CYP3A4 inhibitor and venlafaxine concomitantly.
@@ -440,9 +451,9 @@ Consequently, caution is advised if the concomitant administration of venlafaxin
 
 #### Serotonergic Drugs
 
-Based on the mechanism of action of venlafaxine and the potential for serotonin syndrome, caution is advised when venlafaxine is co-administered with other drugs that may affect the serotonergic neurotransmitter systems, such as triptans, SSRIs, other SNRIs, linezolid (an antibiotic which is a reversible non-selective MAOI), lithium, tramadol, or St. John's Wort and methylene blue (see CONTRAINDICATIONS and WARNINGS, Serotonin Syndrome).
+Based on the mechanism of action of SNRIs and SSRIs, including venlafaxine hydrochloride and the potential for serotonin syndrome, caution is advised when venlafaxine is co-administered with other drugs that may affect the serotonergic neurotransmitter systems, such as triptans, lithium, fentanyl, tramadol, amphetamines, or St. John's Wort (see WARNINGS; Serotonin Syndrome).
 If concomitant treatment of venlafaxine with these drugs is clinically warranted, careful observation of the patient is advised, particularly during treatment initiation and dose increases (see CONTRAINDICATIONS and WARNINGS, Serotonin Syndrome).
-The concomitant use of venlafaxine hydrochloride with tryptophan supplements is not recommended (see CONTRAINDICATIONS andWARNINGS, Serotonin Syndrome).
+The concomitant use of venlafaxine hydrochloride with tryptophan supplements is not recommended (see CONTRAINDICATIONS and WARNINGS, Serotonin Syndrome).
 
 #### Triptans
 
@@ -484,7 +495,7 @@ The no effect dose was 67 times (mg/kg) or 17 times (mg/m2) the human dose.
 
 ### Impairment of Fertility
 
-Reproduction in fertility studies of venlafaxine in rats showed no adverse effects on male or female fertility at oral doses of up to 2 times the maximum recommended human dose of 225 mg/day on a mg/m2 basis.
+Reproduction and fertility studies of venlafaxine in rats showed no adverse effects on male or female fertility at oral doses of up to 2 times the maximum recommended human dose of 225 mg/day on a mg/m2 basis.
 
 However, reduced fertility was observed in a study in which male and female rats were treated with O-desmethylvenlafaxine (ODV), the major human metabolite of venlafaxine, prior to and during mating and gestation.
 This occurred at an ODV exposure (AUC) approximately 2 to 3 times that associated with a human venlafaxine dose of 225 mg/day.
@@ -532,7 +543,7 @@ Although no studies have been designed to primarily assess venlafaxine extended-
 Should the decision be made to treat a pediatric patient with venlafaxine hydrochloride, regular monitoring of weight and height is recommended during treatment, particularly if it is to be continued long term.
 The safety of venlafaxine extended-release capsules treatment for pediatric patients has not been systematically assessed for chronic treatment longer than six months in duration.
 
-In the studies conducted in pediatric patients (ages 6-17), the occurrence of blood pressure and cholesterol increases considered to be clinically relevant in pediatric patients was similar to that observed in adult patients.
+In the studies conducted in pediatric patients (ages 6 to 17), the occurrence of blood pressure and cholesterol increases considered to be clinically relevant in pediatric patients was similar to that observed in adult patients.
 Consequently, the precautions for adults apply to pediatric patients (see WARNINGS, Sustained Hypertension, and PRECAUTIONS, General, Serum Cholesterol Elevation).
 
 ## Geriatric Use

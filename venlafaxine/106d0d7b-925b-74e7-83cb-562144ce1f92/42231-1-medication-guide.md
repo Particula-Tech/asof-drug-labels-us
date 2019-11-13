@@ -2,6 +2,8 @@ Medication Guide
 
 Venlafaxine Tablets USP
 
+(ven la fax een)
+
 Read the Medication Guide that comes with venlafaxine tablets before you start taking it and each time you get a refill.
 There may be new information.
 This Medication Guide does not take the place of talking to your healthcare provider about your medical condition or treatment.
@@ -126,13 +128,23 @@ Stopping venlafaxine tablets too quickly or changing from another antidepressant
 - electric shock-like sensations, shaking, confusion, nightmares
 - vomiting, nausea, diarrhea
 
+X. Visual problems.
+
+- eye
+- pain
+- changes in vision
+- swelling or redness in or around the eye
+
+Only some people are at risk for these problems.
+You may want to undergo an eye examination to see if you are at risk and preventative treat if you are.
+
 What is venlafaxine tablet?
 
 Venlafaxine tablet is a prescription medicine used to treat depression.
 It is important to talk with your healthcare provider about the risks of treating depression and also the risks of not treating it.
 You should discuss all treatment choices with your healthcare provider.
 
-Talk to your healthcare provider if you do not think that your condition is getting better with venlafaxine extended-release capsules treatment.
+Talk to your healthcare provider if you do not think that your condition is getting better with venlafaxine tablets treatment.
 
 Who should not take venlafaxine tablets?
 
@@ -196,7 +208,7 @@ Before starting venlafaxine tablets, tell your healthcare provider if you:
   It is not known if venlafaxine tablets will harm your unborn baby.
   Talk to your healthcare provider about the benefits and risks of treating depression during pregnancy
 - are breast-feeding or plan to breast-feed.
-  Some venlafaxine tablets may pass into your breast milk.
+  Some venlafaxine hydrochloride may pass into your breast milk.
   Talk to your healthcare provider about the best way to feed your baby while taking venlafaxine tablets.
 
 Tell your healthcare provider about all the medicines that you take, including prescription and non-prescription medicines, vitamins, and herbal supplements.
@@ -258,7 +270,7 @@ YOU MAY REPORT SIDE EFFECTS TO THE FDA AT 1-800FDA-1088.
 
 How should I store venlafaxine tablets?
 
-Store venlafaxine tablets at 20°-25°C (68°-77°F); excursions permitted to 15°-30°C (59°-86°F).
+Store venlafaxine tablets at 20° to 25°C (68° to 77°F); excursions permitted to 15° to 30°C (59° to 86°F).
 
 Keep venlafaxine tablets in a dry place.
 Keep venlafaxine tablets and all medicines out of the reach of children.
@@ -284,6 +296,8 @@ Tablets: Iron oxide red, iron oxide yellow, lactose monohydrate, magnesium stear
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration for all antidepressants.
 
+The brands listed are the registered trademarks of their respective owners.
+
 To reorder additional Medication Guides, please contact Dr. Reddy’s Customer Service at 1-866-733-3952.
 
 Rx Only
@@ -294,4 +308,4 @@ Dr. Reddy’s Laboratories Limited
 
 Bachupally – 500 090 INDIA
 
-Revised: 0113
+Revised: 1016
