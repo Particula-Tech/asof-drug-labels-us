@@ -48,11 +48,13 @@ ACTONEL 5 mg daily significantly reduced the incidence of nonvertebral osteoporo
 There was a significant reduction from 11% to 7% when the studies were combined, with a corresponding 36% reduction in relative risk.
 Figure 1 shows the overall results as well as the results at the individual skeletal sites for the combined studies.
 
+Figure 1 Nonvertebral Osteoporosis-Related Fractures Cumulative Incidence Over 3 Years Combined VERT MN and VERT NA
+
 Effect on Bone Mineral Density
 
 The results of 4 randomized, placebo-controlled trials in women with postmenopausal osteoporosis (VERT MN, VERT NA, BMD MN, BMD NA) demonstrate that ACTONEL 5 mg daily increases BMD at the spine, hip, and wrist compared to the effects seen with placebo.
 Table 4 displays the significant increases in BMD seen at the lumbar spine, femoral neck, femoral trochanter, and midshaft radius in these trials compared to placebo.
-In both VERT studies (VERT MN and VERT NA), ACTONEL 5 mg daily produced increases in lumbar spine BMD that were progressive over the 3 years of treatment, and were statistically significant relative to baseline and to placebo at 6 months and at all later time points.
+In both VERT studies (VERT MN and VERT NA), ACTONEL 5 mg daily produced increases in lumbar spine BMD that were progressive over the 3 years of treatment and were statistically significant relative to baseline and to placebo at 6 months and at all later time points.
 
 | Table 4 Mean Percent Increase in BMD from Baseline in Patients Taking ACTONEL 5 mg or Placebo at Endpointa |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -105,6 +107,8 @@ Increases in BMD were observed as early as 3 months following initiation of ACTO
 ACTONEL 5 mg daily produced significant mean increases in BMD at the lumbar spine, femoral neck, and trochanter compared to placebo at the end of the study (Figure 2).
 ACTONEL 5 mg daily was also effective in patients with lower baseline lumbar spine BMD (more than 1 SD below the premenopausal mean) and in those with normal baseline lumbar spine BMD.
 Bone mineral density at the distal radius decreased in both ACTONEL and placebo-treated women following 1 year of treatment.
+
+Figure 2 Change in BMD from Baseline 2-Year Prevention Study
 
 The safety and effectiveness of ACTONEL 35 mg once-a-week for the prevention postmenopausal osteoporosis were demonstrated in a 1-year, double-blind, placebo-controlled study of 278 patients (ACTONEL 35 mg, N = 136).
 All patients were supplemented with 1000 mg elemental calcium and 400 international units vitamin D per day.
@@ -174,12 +178,18 @@ The differences were statistically significant for the lumbar spine and femoral 
 ACTONEL was similarly effective on lumbar spine BMD regardless of age (less than 65 vs. greater than or equal to 65), gender, or pre-study glucocorticoid dose.
 Positive treatment effects were also observed in patients taking glucocorticoids for a broad range of rheumatologic disorders, the most common of which were rheumatoid arthritis, temporal arteritis, and polymyalgia rheumatica.
 
+Figure 3 Change in BMD from Baseline Patients Recently Initiating Glucocorticoid Therapy
+
+Figure 4 Change in BMD from Baseline Patients on Long-Term Glucocorticoid Therapy
+
 Vertebral Fractures
 
 In the prevention study of patients initiating glucocorticoids, the incidence of vertebral fractures at 1 year was reduced from 17% in the placebo group to 6% in the ACTONEL group.
 In the treatment study of patients continuing glucocorticoids, the incidence of vertebral fractures was reduced from 15% in the placebo group to 5% in the ACTONEL group (Figure 5).
 The statistically significant reduction in vertebral fracture incidence in the analysis of the combined studies corresponded to an absolute risk reduction of 11% and a relative risk reduction of 70%.
 All vertebral fractures were diagnosed radiographically; some of these fractures also were associated with symptoms (that is, clinical fractures).
+
+Figure 5 Incidence of Vertebral Fractures in Patients Initiating or Continuing Glucocorticoid Therapy
 
 Histology/Histomorphometry
 
@@ -199,6 +209,8 @@ At Day 540, 16 months after discontinuation of therapy, 53% (17/32) of ACTONEL-t
 
 During the first 180 days of the active-controlled study, 85% (51/60) of ACTONEL-treated patients demonstrated a greater than or equal to 75% reduction from baseline in serum alkaline phosphatase excess (difference between measured level and midpoint of the normal range) with 2 months of treatment compared to 20% (12/60) in the Didronel-treated group with 6 months of treatment (p less than 0.001).
 Changes in serum alkaline phosphatase excess over time (shown in Figure 6) were significant following only 30 days of treatment, with a 36% reduction in serum alkaline phosphatase excess at that time compared to only a 6% reduction seen with Didronel treatment at the same time point (p less than 0.01).
+
+Figure 6 Mean Percent Change from Baseline in Serum Alkaline Phosphatase Excess by Visit
 
 Response to ACTONEL therapy was similar in patients with mild to very severe Paget’s disease.
 Table 6 shows the mean percent reduction from baseline at Day 180 in excess serum alkaline phosphatase in patients with mild, moderate, or severe disease.

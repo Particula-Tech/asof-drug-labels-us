@@ -102,7 +102,8 @@ Before you start ACTONEL, be sure to talk to your doctor if you:
 - Plan to have dental surgery or teeth removed
 - Have kidney problems
 - Have been told you have trouble absorbing minerals in your stomach or intestines (malabsorption syndrome)
-- Are pregnant, or plan to become pregnant.
+- Are pregnant, plan to become pregnant, or suspect that you are pregnant.
+  If you become pregnant while taking ACTONEL, stop taking it and contact your doctor.
   It is not known if ACTONEL can harm your unborn baby.
 - Are breastfeeding or plan to breastfeed.
   It is not known if ACTONEL passes into your milk and may harm your baby.
@@ -129,7 +130,6 @@ How should I take ACTONEL?
 - Do not chew or suck on a tablet of ACTONEL.
 - Swallow ACTONEL tablet with a full glass (6 to 8 ounces) of plain water only.
 - Do not take ACTONEL with mineral water, coffee, tea, soda, or juice.
-- See “What is the most important information I should know about ACTONEL?”
 
 After swallowing ACTONEL tablet, wait at least 30 minutes:
 
@@ -153,6 +153,8 @@ Do not lie down.
 What are the possible side effects of ACTONEL?
 
 ACTONEL may cause serious side effects:
+
+- See “What is the most important information I should know about ACTONEL?”
 
 The most common side effects of ACTONEL are:
 
@@ -201,8 +203,17 @@ Inactive ingredients specific to a dose strength: 5 mg—ferric oxide yellow, la
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Distributed by: Allergan USA, Inc. Irvine, CA 92612 © 2018 Allergan.
+Distributed by:
+
+Allergan USA, Inc.
+
+Madison, NJ 07940
+
+© 2019 Allergan.
 All rights reserved.
+
 All trademarks are the property of their respective owners.
 
-73443US10
+Revised: 11/2019
+
+v1.0MG0471

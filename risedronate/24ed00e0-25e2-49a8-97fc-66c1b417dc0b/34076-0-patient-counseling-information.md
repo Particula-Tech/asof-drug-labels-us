@@ -46,11 +46,11 @@ Distributed by:
 
 Allergan USA, Inc.
 
-Irvine, CA 92612
+Madison, NJ 07940
 
-© 2018 Allergan.
+© 2019 Allergan.
 All rights reserved.
 
 All trademarks are the property of their respective owners.
 
-73443US10
+v1.0USPI0471
