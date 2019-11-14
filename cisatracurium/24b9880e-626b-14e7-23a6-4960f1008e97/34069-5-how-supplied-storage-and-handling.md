@@ -8,6 +8,8 @@ NIMBEX (cisatracurium besylate) injection is a clear solution supplied as follow
 | 20 mg/10 mL (2 mg/mL) | Multiple-dose vials | 0074-4380-79 | Contains 0.9% w/v benzyl alcohol [see Warnings and Precautions (5.2)] |
 | 200 mg/20 mL (10 mg/mL) | Single-dose vials | 0074-4382-91 | Does not contain benzyl alcohol |
 
+Discard unused portion of the 5 mL and 20 mL single-dose vials.
+
 Storage
 
 Refrigerate NIMBEX at 2° to 8°C (36° to 46°F) in the carton to preserve potency.

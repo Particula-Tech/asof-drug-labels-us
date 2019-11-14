@@ -130,6 +130,8 @@ Visually inspect NIMBEX for particulate matter and discoloration prior to admini
 If a NIMBEX solution is cloudy or contains visible particulates, do not use NIMBEX.
 NIMBEX is a colorless to slightly yellow or greenish-yellow solution.
 
+Discard unused portion of the 5 mL and 20 mL single-dose vials.
+
 NIMBEX may be diluted to 0.1 mg/mL in the following solutions:
 
 - 5% Dextrose Injection, USP
