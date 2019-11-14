@@ -38,13 +38,16 @@ The developmental and health benefits of breastfeeding should be considered alon
 
 ## 8.4 Pediatric Use
 
-The safety and effectiveness of SORILUX Foam have been established in pediatric patients age 12 years and older for topical treatment of plaque psoriasis of the scalp and body.
-Use of SORILUX Foam in this age group is supported by two adequate and well controlled 8-week trials in adults and adolescents 12 years of age and older, with additional data from a 15-day open-label safety and pharmacokinetics study conducted in 19 subjects 12 to less than 17 years of age with psoriasis.
-Data from 17 subjects in the pharmacokinetic study showed no significant effects on indices of calcium metabolism and no quantifiable calcipotriene concentrations in subjects aged 12 to less than 17 years [see Clinical Studies (14), Clinical Pharmacology (12.2, 12.3) and Adverse Reactions (6.1)].
+The safety and effectiveness of SORILUX Foam have been established in pediatric patients age 4 years and older for topical treatment of plaque psoriasis of the scalp and body.
 
-The safety and effectiveness of SORILUX Foam in pediatric patients less than 12 years of age have not been established.
+Use of SORILUX Foam in this age group is supported by two adequate and well controlled 8-week trials in adults and adolescents 12 years of age and older, with additional data from a 15-day open-label safety and pharmacokinetics (PK) study conducted in 19 subjects 12 to less than 17 years of age; and an 8-week open-label safety and PK study in 36 subjects 4 to 11 years of age with psoriasis.
+Data from 19 subjects aged 12 to less than 17 years and 18 subjects aged 5 to 11 years showed no significant effects on indices of calcium metabolism.
+Systemic concentrations of calcipotriene were not quantifiable in the two studies in subjects aged 7 years to less than 17 years.
+[see Clinical Studies (14), Clinical Pharmacology (12.2, 12.3) and Adverse Reactions (6.1)].
+
+The safety and effectiveness of SORILUX Foam in pediatric patients less than 4 years of age have not been established.
 
 ## 8.5 Geriatric Use
 
-Clinical trials of SORILUX Foam did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
+Clinical trials of SORILUX Foam did not include sufficient numbers of subjects aged 65 years and over to determine whether they respond differently from younger subjects.
 Other reported clinical experience has not identified differences in responses between the elderly and younger patients.

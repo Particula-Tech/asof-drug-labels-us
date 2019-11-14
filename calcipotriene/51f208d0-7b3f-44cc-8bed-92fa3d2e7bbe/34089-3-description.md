@@ -1,6 +1,6 @@
 # 11 DESCRIPTION
 
-SORILUX Foam contains the compound calcipotriene, a synthetic vitamin D3 analog.
+SORILUX Foam contains the compound calcipotriene, a synthetic vitamin D3 analog, in an aqueous-based emulsion foam vehicle for topical dermatologic use.
 
 Chemically, calcipotriene is (5Z,7E,22E,24S)-24-cyclopropyl-9,10-secochola-5,7,10(19), 22-tetraene- 1α,3β,24-triol.
 The structural formula is represented below:

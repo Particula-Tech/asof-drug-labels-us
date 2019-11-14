@@ -7,5 +7,5 @@ Instruct the patient to avoid fire, flame, and smoking during and immediately fo
 
 ## 5.2 Effects on Calcium Metabolism
 
-Transient, rapidly reversible elevation of serum calcium has occurred with use of calcipotriene.
+Elevation of serum calcium has occurred with use of calcipotriene.
 If elevation in serum calcium outside the normal range should occur, discontinue treatment until normal calcium levels are restored.

@@ -21,12 +21,12 @@ The subjects were 54% male and 88% Caucasian.
 Table 2 presents the efficacy results for each trial.
 
 Table 2.
-Number and Percent of Subjects Achieving Success for Body at Week 8 in ach Trial
+Number and Percent of Subjects Achieving Success for Body at Week 8 in Each Trial
 
 |  | SORILUX Foam N = 223 | Vehicle Foam N = 113 | SORILUX Foam N = 214 | Vehicle Foam N = 109 |
 | --- | --- | --- | --- | --- |
 |  | Trial 1 |  | Trial 2 |  |
-| Number (%) of Subjects with Treatment Success | 31 (41%) | 8 (7%) | 58 (27%) | 17 (16%) |
+| Number (%) of Subjects with Treatment Success | 31 (14%) | 8 (7%) | 58 (27%) | 17 (16%) |
 
 In one trial, subjects graded as "mild" at baseline showed a greater response to vehicle than SORILUX Foam.
 
@@ -35,9 +35,9 @@ Table 3 presents the success rates by disease severity at baseline for each tria
 Table 3.
 Number and Percent of Subjects Achieving Success for Body by Baseline ISGA Score and by Trial
 
-| SORILUX Foam (N = 223) | Vehicle Foam (N = 113) | SORILUX Foam (N = 214) | Vehicle Foam (N = 109) |  |
+| ISGA Scores at Baseline | SORILUX Foam (N = 223) | Vehicle Foam (N = 113) | SORILUX Foam (N = 214) | Vehicle Foam (N = 109) |
 | --- | --- | --- | --- | --- |
-| ISGA Scores at Baseline | Trial 1 |  | Trial 2 |  |
+|  | Trial 1 |  | Trial 2 |  |
 | Mild | 2/73 (2.7%) | 3/34 (8.8%) | 8/56 (14.3%) | 4/31 (12.9%) |
 | Moderate | 29/150 (19.3%) | 5/79 (6.3%) | 50/158 (31.6%) | 13/78 (16.7%) |
 

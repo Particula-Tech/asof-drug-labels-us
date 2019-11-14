@@ -11,3 +11,13 @@ The incidence of these adverse reactions was similar between the body and scalp.
 
 In an open-label study, 19 pediatric subjects age 12 to less than 17 years applied SORILUX Foam twice daily for 14 days and once on Day 15.
 Adverse reactions included application site pain, application site pruritus and pruritus [see Clinical Pharmacology (12.2 and 12.3) and Pediatric Use (8.4)].
+
+In an open-label study, 36 pediatric subjects age 4 to less than 12 years applied SORILUX Foam twice daily for up to 8 weeks.
+Adverse reactions included application site pain and contact dermatitis [see Clinical Pharmacology (12.2 and 12.3) and Pediatric Use (8.4)].
+
+## 6.2 Postmarketing Experience
+
+The following adverse reactions have been identified during post approval use of SORILUX Foam.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+Skin and Subcutaneous: application site vesicles
