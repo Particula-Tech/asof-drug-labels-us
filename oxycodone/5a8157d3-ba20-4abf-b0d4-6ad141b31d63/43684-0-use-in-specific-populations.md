@@ -2,9 +2,7 @@
 
 ## 8.1 Pregnancy
 
-Risk Summary
-
-Prolonged use of opioid analgesics during pregnancy may cause neonatal opioid withdrawal syndrome [see Warnings and Precautions (5.4)].
+Risk Summary Prolonged use of opioid analgesics during pregnancy may cause neonatal opioid withdrawal syndrome [see Warnings and Precautions (5.4)].
 Available data with ROXICODONE in pregnant women are insufficient to inform a drug-associated risk for major birth defects and miscarriage.
 Animal reproduction studies with oral administrations of oxycodone HCl in rats and rabbits during the period of organogenesis at doses 2.6 and 8.1 times, respectively, the human dose of 60 mg/day did not reveal evidence of teratogenicity or embryo-fetal toxicity.
 In several published studies, treatment of pregnant rats with oxycodone at clinically relevant doses and below, resulted in neurobehavioral effects in offspring [see Data].
@@ -13,55 +11,39 @@ Based on animal data, advise pregnant women of the potential risk to a fetus.
 All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
 In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively.
 
-Clinical Considerations
-
-Fetal/Neonatal Adverse Reactions
-
-Prolonged use of opioid analgesics during pregnancy for medical or nonmedical purposes can result in physical dependence in the neonate and neonatal opioid withdrawal syndrome shortly after birth.
+Clinical Considerations Fetal/Neonatal Adverse Reactions Prolonged use of opioid analgesics during pregnancy for medical or nonmedical purposes can result in physical dependence in the neonate and neonatal opioid withdrawal syndrome shortly after birth.
 
 Neonatal opioid withdrawal syndrome presents irritability, hyperactivity, and abnormal sleep pattern, high pitched cry, tremor, vomiting, diarrhea, and failure to gain weight.
 The onset, duration, and severity of neonatal opioid withdrawal syndrome vary based on the specific opioid use, duration of use, timing and amount of last maternal use, and rate of elimination of the drug by the newborn.
 Observe newborns for symptoms of neonatal opioid withdrawal syndrome and manage accordingly [see Warnings and Precautions (5.4)].
 
-Labor or Delivery
-
-Opioids cross the placenta and may produce respiratory depression and psycho-physiologic effects in neonates.
+Labor or Delivery Opioids cross the placenta and may produce respiratory depression and psycho-physiologic effects in neonates.
 An opioid antagonist such as naloxone, must be available for reversal of opioid-induced respiratory depression in the neonate.
 ROXICODONE is not recommended for use in pregnant women during or immediately prior to labor, when other analgesic techniques are more appropriate.
 Opioid analgesics, including ROXICODONE, can prolong labor through actions which temporarily reduce the strength, duration and frequency of uterine contractions.
 However, this effect is not consistent and may be offset by an increased rate of cervical dilation, which tends to shorten labor.
 Monitor neonates exposed to opioid analgesics during labor for signs of excess sedation and respiratory depression.
 
-Data
-
-Animal Data
-
-In embryo-fetal development studies in rats and rabbits, pregnant animals received oral doses of oxycodone HCl administered during the period of organogenesis up to 16 mg/kg/day and up to 25 mg/kg/day, respectively.
+Data Animal Data In embryo-fetal development studies in rats and rabbits, pregnant animals received oral doses of oxycodone HCl administered during the period of organogenesis up to 16 mg/kg/day and up to 25 mg/kg/day, respectively.
 These studies revealed no evidence of teratogenicity or embryo-fetal toxicity due to oxycodone.
 The highest doses tested in rats and rabbits were equivalent to approximately 2.6 and 8.1 times an adult human dose of 60 mg/day, respectively, on a mg/m2 basis.
 In published studies, offspring of pregnant rats administered oxycodone during gestation have been reported to exhibit neurobehavioral effects including altered stress responses, increased anxiety-like behavior (2 mg/kg/day IV from Gestation Day 8 to 21 and Postnatal Day 1, 3, and 5; 0.3 times an adult human dose of 60 mg/day, on a mg/m2 basis) and altered learning and memory (15 mg/kg/day orally from breeding through parturition; 2.4 times an adult human dose of 60 mg/day, on a mg/m2 basis).
 
 ## 8.2 Lactation
 
-Risk Summary
-
-Oxycodone is present in breast milk.
+Risk Summary Oxycodone is present in breast milk.
 Published lactation studies report variable concentrations of oxycodone in breast milk with administration of immediate-release oxycodone to nursing mothers in the early postpartum period.
 The lactation studies did not assess breastfed infants for potential adverse reactions.
 Lactation studies have not been conducted with ROXICODONE, and no information is available on the effects of the drug on the breastfed infant or the effects of the drug on milk production.
 
 The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for ROXICODONE and any potential adverse effects on the breastfed infant from ROXICODONE or from the underlying maternal condition.
 
-Clinical Considerations
-
-Infants exposed to ROXICODONE through breast milk should be monitored for excess sedation and respiratory depression.
+Clinical Considerations Infants exposed to ROXICODONE through breast milk should be monitored for excess sedation and respiratory depression.
 Withdrawal symptoms can occur in breastfed infants when maternal administration of an opioid analgesic is stopped or when breast-feeding is stopped.
 
 ## 8.3 Females and Males of Reproductive Potential
 
-Infertility
-
-Chronic use of opioids may cause reduced fertility in females and males of reproductive potential.
+Infertility Chronic use of opioids may cause reduced fertility in females and males of reproductive potential.
 It is not known whether these effects on fertility are reversible [see Adverse Reactions (6.2), Clinical Pharmacology (12.2)].
 
 ## 8.4 Pediatric Use
