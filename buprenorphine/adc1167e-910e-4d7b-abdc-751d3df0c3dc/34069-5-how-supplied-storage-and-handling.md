@@ -7,7 +7,7 @@ NDC 0143-9246-05; carton of 5 vials.
 Store at 20° to 25°C (68° to 77°F) [See USP Controlled Room Temperature].
 Protect from prolonged exposure to light.
 
-To report SUSPECTED ADVERSE REACTIONS, contact West-Ward Pharmaceuticals Corp. at 1-877-845-0689, or the FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
+To report SUSPECTED ADVERSE REACTIONS, contact Hikma Pharmaceuticals USA Inc. at 1-877-845-0689, or the FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
 
 For Product Inquiry call 1-877-845-0689.
 
@@ -19,10 +19,10 @@ Estrada do Rio da Mó, 8, 8A e 8B – Fervença – 2705-906 Terrugem SNT, PORTU
 
 Distributed by:
 
-West-Ward Pharmaceuticals
+Hikma Pharmaceuticals USA Inc.
 
-Eatontown, NJ 07724 USA
+Eatontown, NJ 07724
 
-Revised August 2018
+Revised October 2019
 
-PIN444-WES/2
+PIN444-WES/3

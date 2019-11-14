@@ -3,11 +3,11 @@
 The most frequent side effect in clinical studies involving 1,133 patients was sedation which occurred in approximately two-thirds of the patients.
 Although sedated, these patients could easily be aroused to an alert state.
 
-Other less frequent adverse reactions occurring in 5-10 % of the patients were:
+Other less frequent adverse reactions occurring in 5 to 10 % of the patients were:
 
 Nausea Dizziness/Vertigo
 
-Occurring in 1-5% of the patients:
+Occurring in 1 to 5% of the patients:
 
 Sweating Headache
 
@@ -37,7 +37,7 @@ Other effects observed infrequently include malaise, hallucinations, depersonali
 
 The following reactions have been reported to occur rarely: loss of appetite, dysphoria/agitation, diarrhea, urticaria, and convulsions/lack of muscle coordination.
 
-Allergic Reactions:Cases of acute and chronic hypersensitivity to buprenorphine have been reported in clinical trials and in the postmarketing experience of buprenorphine HCl injection and other buprenorphine-containing products.
+Allergic Reactions:Cases of acute and chronic hypersensitivity to buprenorphine have been reported both in clinical trials and in the postmarketing experience of buprenorphine HCl injection and other buprenorphine-containing products.
 The most common signs and symptoms include rashes, hives, and pruritus.
 Cases of bronchospasm, angioneurotic edema, and anaphylactic shock have been reported.
 A history of hypersensitivity to buprenorphine is a contraindication to buprenorphine HCl injection.

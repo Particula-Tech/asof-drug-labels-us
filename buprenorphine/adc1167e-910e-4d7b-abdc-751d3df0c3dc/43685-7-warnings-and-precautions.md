@@ -32,6 +32,10 @@ Monitor patients closely for respiratory depression, especially within the first
 To reduce the risk of respiratory depression, proper dosing and titration of buprenorphine HCl are essential.
 Overestimating the buprenorphine HCl dosage when converting patients from another opioid product can result in a fatal overdose with the first dose.
 
+Opioids can cause sleep-related breathing disorders including central sleep apnea (CSA) and sleep-related hypoxemia.
+Opioid use increases the risk of CSA in a dose-dependent fashion.
+In patients who present with CSA, consider decreasing the opioid dosage using best practices for opioid taper [see Dosage and Administration].
+
 ## Neonatal Opioid Withdrawal Syndrome
 
 Prolonged use of buprenorphine HCl during pregnancy can result in withdrawal in the neonate.
@@ -180,7 +184,7 @@ Clinically Significant Drug Interactions with Buprenorphine HCl
 | Serotonergic Drugs |  |
 | Clinical Impact: | The concomitant use of opioids with other drugs that affect the serotonergic neurotransmitter system has resulted in serotonin syndrome. |
 | Intervention: | If concomitant use is warranted, carefully observe the patient, particularly during treatment initiation and dose adjustment. Discontinue buprenorphine HCl if serotonin syndrome is suspected. |
-| Examples: | Selective serotonin reuptake inhibitors (SSRIs), serotonin and norepinephrine reuptake inhibitors (SNRIs), tricyclic antidepressants (TCAs), triptans, 5-HT3 receptor antagonists, drugs that affect the serotonin neurotransmitter system (e.g., mirtazapine, trazodone, tramadol), monoamine oxidase (MAO) inhibitors (those intended to treat psychiatric disorders and also others, such as linezolid and intravenous methylene blue). |
+| Examples: | Selective serotonin reuptake inhibitors (SSRIs), serotonin and norepinephrine reuptake inhibitors (SNRIs), tricyclic antidepressants (TCAs), triptans, 5-HT3 receptor antagonists, drugs that affect the serotonin neurotransmitter system (e.g., mirtazapine, trazodone, tramadol),certain muscle relaxants (i.e., cyclobenzaprine, metaxalone), monoamine oxidase (MAO) inhibitors (those intended to treat psychiatric disorders and also others, such as linezolid and intravenous methylene blue). |
 | Monoamine Oxidase Inhibitors (MAOIs) |  |
 | Clinical Impact: | MAOI interactions with opioids may manifest as serotonin syndrome opioid toxicity (e.g., respiratory depression, coma). |
 | Intervention: | The use of buprenorphine HCl is not recommended for patients taking MAOIs or within 14 days of stopping such treatment. |
@@ -210,7 +214,7 @@ Clinically Significant Drug Interactions with Buprenorphine HCl
 | Intervention: | Monitor patients taking buprenorphine HCl and atazanavir with and without ritonavir, and dose reduction of buprenorphine HCl may be warranted. |
 | Examples: | atazanavir, ritonavir |
 
-## Carcinogenesis, Mutagenesis, Impairment of Fertility
+## Carcinogenesis, Mutagenesis, and Impairment of Fertility
 
 ### Carcinogenesis
 
@@ -235,7 +239,7 @@ Results were equivocal in the Ames test: negative in studies in two laboratories
 Reproduction studies of buprenorphine in rats demonstrated no evidence of impaired fertility at daily oral doses up to 80 mg/kg (approximately 763 times the recommended human daily dose of 1.2 mg on a mg/m2 basis) or up to 5 mg/kg I.M. or S.C.
 (approximately 48 times the recommended human daily dose of 1.2 mg on a mg/m2 basis).
 
-## Pregnancy - Pregnancy Category C
+## Pregnancy
 
 ### Risk Summary
 
