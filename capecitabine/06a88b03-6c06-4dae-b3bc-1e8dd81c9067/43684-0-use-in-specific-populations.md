@@ -1,8 +1,8 @@
-# 8 USE IN SPECIFIC POPULATION
+# 8 USE IN SPECIFIC POPULATIONS
 
 ## 8.1 Pregnancy
 
-Risk Summary Based on findings in animal reproduction studies and its mechanism of action, Capecitabine tablets, USP can cause fetal harm when administered to a pregnant woman [see Clinical Pharmacology (12.1)].
+Risk Summary Based on findings in animal reproduction studies and its mechanism of action, capecitabine can cause fetal harm when administered to a pregnant woman [see Clinical Pharmacology (12.1)].
 Limited available human data are not sufficient to inform the drug-associated risk during pregnancy.
 In animal reproduction studies, administration of capecitabine to pregnant animals during the period of organogenesis caused embryo lethality and teratogenicity in mice and embryo lethality in monkeys at 0.2 and 0.6 times the exposure (AUC) in patients receiving the recommended dose respectively [see Data].
 Apprise pregnant women of the potential risk to a fetus.
@@ -21,23 +21,23 @@ This dose produced 5’-DFUR AUC values that were approximately 0.6 times the AU
 
 Risk Summary There is no information regarding the presence of capecitabine in human milk, or on its effects on milk production or the breast-fed infant.
 Capecitabine metabolites were present in the milk of lactating mice [see Data].
-Because of the potential for serious adverse reactions from capecitabine exposure in breast-fed infants, advise women not to breastfeed during treatment with Capecitabine tablets, USP and for 2 weeks after the final dose.
+Because of the potential for serious adverse reactions from capecitabine exposure in breast-fed infants, advise women not to breastfeed during treatment with capecitabine and for 2 weeks after the final dose.
 Data Lactating mice given a single oral dose of capecitabine excreted significant amounts of capecitabine metabolites into the milk.
 
 ## 8.3 Females and Males of Reproductive Potential
 
-Pregnancy Testing Pregnancy testing is recommended for females of reproductive potential prior to initiating Capecitabine tablets, USP.
-Contraception Females Capecitabine tablets, USP can cause fetal harm when administered to a pregnant woman [see Use in Specific Populations (8.1)].
-Advise females of reproductive potential to use effective contraception during treatment and for 6 months following the final dose of Capecitabine tablets, USP.
-Males Based on genetic toxicity findings, advise male patients with female partners of reproductive potential to use effective contraception during treatment and for 3 months following the last dose of Capecitabine tablets, USP [see Nonclinical Toxicology (13.1)].
-Infertility Based on animal studies, Capecitabine Tablets, USP may impair fertility in females and males of reproductive potential [see Nonclinical Toxicology (13.1)].
+Pregnancy Testing Pregnancy testing is recommended for females of reproductive potential prior to initiating capecitabine.
+Contraception Females Capecitabine an cause fetal harm when administered to a pregnant woman [see Use in Specific Populations (8.1)].
+Advise females of reproductive potential to use effective contraception during treatment and for 6 months following the final dose of capecitabine.
+Males Based on genetic toxicity findings, advise male patients with female partners of reproductive potential to use effective contraception during treatment and for 3 months following the last dose of capecitabine [see Nonclinical Toxicology (13.1)].
+Infertility Based on animal studies, capecitabine may impair fertility in females and males of reproductive potential [see Nonclinical Toxicology (13.1)].
 
 ## 8.4 Pediatric Use
 
-The safety and effectiveness of Capecitabine Tablets, USP in pediatric patients have not been established.
+The safety and effectiveness of capecitabine in pediatric patients have not been established.
 No clinical benefit was demonstrated in two single arm trials in pediatric patients with newly diagnosed brainstem gliomas and high grade gliomas.
 In both trials, pediatric patients received an investigational pediatric formulation of capecitabine concomitantly with and following completion of radiation therapy (total dose of 5580 cGy in 180 cGy fractions).
-The relative bioavailability of the investigational formulation to Capecitabine Tablets, USP was similar.
+The relative bioavailability of the investigational formulation to capecitabine was similar.
 
 The first trial was conducted in 22 pediatric patients (median age 8 years, range 5-17 years) with newly diagnosed non-disseminated intrinsic diffuse brainstem gliomas and high grade gliomas.
 In the dose-finding portion of the trial, patients received capecitabine with concomitant radiation therapy at doses ranging from 500 mg/m2 to 850 mg/m2 every 12 hours for up to 9 weeks.
@@ -55,13 +55,13 @@ The most frequently reported laboratory abnormalities (per-patient incidence ≥
 
 ## 8.5 Geriatric Use
 
-Physicians should pay particular attention to monitoring the adverse effects of Capecitabine Tablets, USP in the elderly [see Warnings and Precautions (5.11)].
+Physicians should pay particular attention to monitoring the adverse effects of capecitabine in the elderly [see Warnings and Precautions (5.10)].
 
 ## 8.6 Hepatic Insufficiency
 
-Exercise caution when patients with mild to moderate hepatic dysfunction due to liver metastases are treated with Capecitabine Tablets, USP.
-The effect of severe hepatic dysfunction on Capecitabine Tablets, USP is not known [see Warnings and Precautions (5.12) and Clinical Pharmacology (12.3)].
+Exercise caution when patients with mild to moderate hepatic dysfunction due to liver metastases are treated with capecitabine.
+The effect of severe hepatic dysfunction on capecitabine is not known [see Warnings and Precautions (5.11) and Clinical Pharmacology (12.3)].
 
 ## 8.7 Renal Insufficiency
 
-Patients with moderate (creatinine clearance = 30 to 50 mL/min) and severe (creatinine clearance <30 mL/min) renal impairment showed higher exposure for capecitabine, 5-FDUR, and FBAL than in those with normal renal function [see Contraindications (4.2), Warnings and Precautions (5.5), Dosage and Administration (2.4), and Clinical Pharmacology (12.3)].
+Patients with moderate (creatinine clearance = 30 to 50 mL/min) and severe (creatinine clearance <30 mL/min) renal impairment showed higher exposure for capecitabine, 5-FDUR, and FBAL than in those with normal renal function [see Contraindications (4.2), Warnings and Precautions (5.5), Dosage and Administration (2.4),and Clinical Pharmacology (12.3)].

@@ -19,8 +19,8 @@ Food reduced both the rate and extent of absorption of capecitabine with mean Cm
 The Cmax and AUC0-¥ of 5-FU were also reduced by food by 43% and 21%, respectively.
 Food delayed Tmax of both parent and 5-FU by 1.5 hours [see Warnings and Precautions (5), Dosage and Administration (2), and Drug-Food Interaction (7.2)].
 
-The pharmacokinetics of Capecitabine Tablets, USP and its metabolites have been evaluated in about 200 cancer patients over a dosage range of 500 to 3500 mg/m2 /day.
-Over this range, the pharmacokinetics of Capecitabine Tablets, USP and its metabolite, 5'-DFCR were dose proportional and did not change over time.
+The pharmacokinetics of capecitabine and its metabolites have been evaluated in about 200 cancer patients over a dosage range of 500 to 3500 mg/m2 /day.
+Over this range, the pharmacokinetics of capecitabine and its metabolite, 5'-DFCR were dose proportional and did not change over time.
 The increases in the AUCs of 5'-DFUR and 5-FU, however, were greater than proportional to the increase in dose and the AUC of 5-FU was 34% higher on day 14 than on day 1.
 The interpatient variability in the Cmax and AUC of 5-FU was greater than 85%.
 
@@ -39,7 +39,7 @@ Many tissues throughout the body express thymidine phosphorylase.
 Some human carcinomas express this enzyme in higher concentrations than surrounding normal tissues.
 Following oral administration of
 
-Capecitabine Tablets, USP 7 days before surgery in patients with colorectal cancer, the median ratio of 5-FU concentration in colorectal tumors to adjacent tissues was 2.9 (range from 0.9 to 8.0).
+Capecitabine 7 days before surgery in patients with colorectal cancer, the median ratio of 5-FU concentration in colorectal tumors to adjacent tissues was 2.9 (range from 0.9 to 8.0).
 These ratios have not been evaluated in breast cancer patients or compared to 5-FU infusion.
 
 Metabolic Pathway of capecitabine to 5-FU
@@ -60,7 +60,7 @@ The elimination half-life of both parent capecitabine and 5-FU was about 0.75 ho
 
 Effect of Age, Gender, and Race on the Pharmacokinetics of Capecitabine
 
-A population analysis of pooled data from the two large controlled studies in patients with metastatic colorectal cancer (n=505) who were administered Capecitabine Tablets, USP at 1250 mg/m2 twice a day indicated that gender (202 females and 303 males) and race (455 white/Caucasian patients, 22 black patients, and 28 patients of other race) have no influence on the pharmacokinetics of 5'-DFUR, 5-FU and FBAL.
+A population analysis of pooled data from the two large controlled studies in patients with metastatic colorectal cancer (n=505) who were administered capecitabine at 1250 mg/m2 twice a day indicated that gender (202 females and 303 males) and race (455 white/Caucasian patients, 22 black patients, and 28 patients of other race) have no influence on the pharmacokinetics of 5'-DFUR, 5-FU and FBAL.
 Age has no significant influence on the pharmacokinetics of 5'-DFUR and 5-FU over the range of 27 to 86 years.
 A 20% increase in age results in a 15% increase in AUC of FBAL [see Warnings and Precautions (5.11) and Dosage and Administration (2.4)].
 
@@ -71,11 +71,11 @@ No significant differences occurred in the exposure to other metabolites (5'-DFC
 
 Effect of Hepatic Insufficiency
 
-Capecitabine Tablets, USP has been evaluated in 13 patients with mild to moderate hepatic dysfunction due to liver metastases defined by a composite score including bilirubin, AST/ALT and alkaline phosphatase following a single 1255 mg/m2 dose of Capecitabine Tablets, USP.
+Capecitabine has been evaluated in 13 patients with mild to moderate hepatic dysfunction due to liver metastases defined by a composite score including bilirubin, AST/ALT and alkaline phosphatase following a single 1255 mg/m2 dose of capecitabine.
 Both AUC0-¥ and Cmax of capecitabine increased by 60% in patients with hepatic dysfunction compared to patients with normal hepatic function (n=14).
 The AUC0-¥ and Cmax of 5-FU were not affected.
-In patients with mild to moderate hepatic dysfunction due to liver metastases, caution should be exercised when Capecitabine Tablets, USP is administered.
-The effect of severe hepatic dysfunction on Capecitabine Tablets, USP is not known [see Warnings and Precautions (5.11) and Use in Special Populations (8.6)].
+In patients with mild to moderate hepatic dysfunction due to liver metastases, caution should be exercised when capecitabine is administered.
+The effect of severe hepatic dysfunction on capecitabine is not known [see Warnings and Precautions (5.11) and Use in Special Populations (8.6)].
 
 Effect of Renal Insufficiency
 
@@ -90,10 +90,8 @@ Baseline corrected AUC of INR in these 4 patients increased by 2.8-fold, and the
 
 Effect of Antacids on the Pharmacokinetics of Capecitabine
 
-When Maalox® (20 mL), an aluminum hydroxide- and magnesium hydroxide-containing antacid, was administered immediately after Capecitabine Tablets, USP (1250 mg/m2, n=12 cancer patients), AUC and Cmax increased by 16% and 35%, respectively, for capecitabine and by 18% and 22%, respectively, for 5'-DFCR.
-No effect was observed on the other three major metabolites (5'-DFUR, 5-FU, FBAL) of Capecitabine Tablets, USP.
-
-Effect of Capecitabine on the Pharmacokinetics of Docetaxel and Vice Versa
-
-A Phase 1 study evaluated the effect of Capecitabine Tablets, USP on the pharmacokinetics of docetaxel (Taxotere®) and the effect of docetaxel on the pharmacokinetics of Capecitabine Tablets, USP was conducted in 26 patients with solid tumors.
-Capecitabine Tablets, USP was found to have no effect on the pharmacokinetics of docetaxel (Cmax and AUC) and docetaxel has no effect on the pharmacokinetics of capecitabine and the 5-FU precursor 5'-DFUR.
+When Maalox® (20 mL), an aluminum hydroxide- and magnesium hydroxide-containing antacid, was administered immediately after capecitabine (1250 mg/m2, n=12 cancer patients), AUC and Cmax increased by 16% and 35%, respectively, for capecitabine and by 18% and 22%, respectively, for 5'-DFCR.
+No effect was observed on the other three major metabolites (5'-DFUR, 5-FU, FBAL) of capecitabine.
+Effect of Allopurinol on Capecitabine Published literature reported that concomitant use with allopurinol may decrease conversion of capecitabine to the active metabolites, FdUMP and FUTP; however, the clinical significance was not fully characterized.
+Effect of Capecitabine on the Pharmacokinetics of Docetaxel and Vice Versa A Phase 1 study evaluated the effect of capecitabine on the pharmacokinetics of docetaxel (Taxotere®) and the effect of docetaxel on the pharmacokinetics of capecitabine was conducted in 26 patients with solid tumors.
+Capecitabine was found to have no effect on the pharmacokinetics of docetaxel (Cmax and AUC) and docetaxel has no effect on the pharmacokinetics of capecitabine and the 5-FU precursor 5'-DFUR.
