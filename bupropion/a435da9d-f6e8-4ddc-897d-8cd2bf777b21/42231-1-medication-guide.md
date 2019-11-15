@@ -14,10 +14,10 @@ What is the most important information I should know about antidepressant medici
    Some people may have a particularly high risk of having suicidal thoughts or actions.
    These include people who have (or have a family history of) bipolar illness (also called manic-depressive illness) or suicidal thoughts or actions.
 3. 3.How can I watch for and try to prevent suicidal thoughts and actions in myself or a family member?
-4. 4.Pay close attention to any changes, especially sudden changes, in mood, behaviors, thoughts, or feelings.
+4. •Pay close attention to any changes, especially sudden changes, in mood, behaviors, thoughts, or feelings.
    This is very important when an antidepressant medicine is started or when the dose is changed.
-5. 5.Call your healthcare provider right away to report new or sudden changes in mood, behavior, thoughts, or feelings.
-6. 6.Keep all follow up visits with your healthcare provider as scheduled.
+5. •Call your healthcare provider right away to report new or sudden changes in mood, behavior, thoughts, or feelings.
+6. •Keep all follow up visits with your healthcare provider as scheduled.
    Call the healthcare provider between visits as needed, especially if you have concerns about symptoms.
 
 Call your healthcare provider right away if you or your family member has any of the following symptoms, especially if they are new, worse, or worry you:
@@ -137,10 +137,7 @@ If you have any of the above symptoms of mania, call your healthcare provider.
 
 What is WELLBUTRIN XL?
 
-WELLBUTRIN XL should be used with a patient support program.
-It is important to participate in the behavioral program, counseling, or other support program your healthcare professional recommends.
-
-Quitting smoking can lower your chances of having lung disease, heart disease, or getting certain types of cancer that are related to smoking.
+WELLBUTRIN XL is a prescription medicine used to treat adults with a certain type of depression called major depressive disorder.
 
 Who should not take WELLBUTRIN XL?
 
@@ -150,11 +147,11 @@ Do not take WELLBUTRIN XL if you:
 - •have or had an eating disorder such as anorexia nervosa or bulimia.
 - •are taking any other medicines that contain bupropion, including WELLBUTRIN, WELLBUTRIN SR, APLENZIN®, ZYBAN, or FORFIVO XL.
   Bupropion is the same active ingredient that is in WELLBUTRIN XL.
-- •drink a lot of alcohol and abruptly stop drinking, take medicines called sedatives (these make you sleepy) or benzodiazepines, or anti-seizure medicines, and you stop taking them all of a sudden.
+- •drink a lot of alcohol and abruptly stop drinking, or take medicines called sedatives (these make you sleepy) or benzodiazepines, or anti-seizure medicines, and you stop taking them all of a sudden.
 - •take a monoamine oxidase inhibitor (MAOI).
   Ask your healthcare provider or pharmacist if you are not sure if you take an MAOI, including the antibiotic linezolid.
-  - •do not take an MAOI within 2 weeks of stopping WELLBUTRIN XL unless directed to do so by your healthcare provider.
-  - •do not start WELLBUTRIN XL if you stopped taking an MAOI in the last 2 weeks unless directed to do so by your healthcare provider.
+  - odo not take an MAOI within 2 weeks of stopping WELLBUTRIN XL unless directed to do so by your healthcare provider.
+  - odo not start WELLBUTRIN XL if you stopped taking an MAOI in the last 2 weeks unless directed to do so by your healthcare provider.
 - •are allergic to the active ingredient in WELLBUTRIN XL, bupropion, or to any of the inactive ingredients.
   See the end of this Medication Guide for a complete list of ingredients in WELLBUTRIN XL.
 
@@ -164,34 +161,33 @@ Tell your healthcare provider if you have ever had depression, suicidal thoughts
 You should also tell your healthcare provider about any symptoms you had during other times you tried to quit smoking, with or without WELLBUTRIN XL.
 See “Quitting Smoking, Quit-Smoking Medications, Changes in Thinking and Behavior, Depression, and Suicidal Thoughts or Actions.”
 
-- •Tell your healthcare provider about your other medical conditions, including if you:
-- •have liver problems, especially cirrhosis of the liver.
-- •have kidney problems.
-- •have, or have had, an eating disorder such as anorexia nervosa or bulimia.
-- •have had a head injury.
-- •have had a seizure (convulsion, fit).
-- •have a tumor in your nervous system (brain or spine).
-- •have had a heart attack, heart problems, or high blood pressure.
-- •are a diabetic taking insulin or other medicines to control your blood sugar.
-- •drink alcohol.
-- •abuse prescription medicines or street drugs.
-- •are pregnant or plan to become pregnant.
-- •are breastfeeding.
-  WELLBUTRIN XL passes into your milk in small amounts.
+- oTell your healthcare provider about your other medical conditions, including if you:
+- ohave liver problems, especially cirrhosis of the liver.
+- ohave kidney problems.
+- ohave, or have had, an eating disorder such as anorexia nervosa or bulimia.
+- ohave had a head injury.
+- ohave had a seizure (convulsion, fit).
+- ohave a tumor in your nervous system (brain or spine).
+- ohave had a heart attack, heart problems, or high blood pressure.
+- oare a diabetic taking insulin or other medicines to control your blood sugar.
+- odrink alcohol.
+- oabuse prescription medicines or street drugs.
+- oare pregnant or plan to become pregnant.
+  Talk to your healthcare provider about the risk to your unborn baby if you take WELLBUTRIN XL during pregnancy.
+- oTell your healthcare provider if you become pregnant or think you are pregnant during treatment with WELLBUTRIN XL.
+- oIf you become pregnant during treatment with WELLBUTRIN XL, talk to your healthcare provider about registering with the National Pregnancy Registry for Antidepressants.
+  You can register by calling 1-844-405-6185.
+- •are breastfeeding or plan to breastfeed during treatment with WELLBUTRIN XL.
+  WELLBUTRIN XL passes into your milk.
+  Talk to your healthcare provider about the best way to feed your baby during treatment with WELLBUTRIN XL.
 
 Tell your healthcare provider about all the medicines you take, including prescription, over-the-counter medicines, vitamins, and herbal supplements.
 Many medicines increase your chances of having seizures or other serious side effects if you take them while you are taking WELLBUTRIN XL.
 
 How should I take WELLBUTRIN XL?
 
-- •Start WELLBUTRIN XL before you stop smoking to give WELLBUTRIN XL time to build up in your body.
-  It takes about 1 week for WELLBUTRIN XL to start working.
-- •Pick a date to stop smoking that is during the second week you are taking WELLBUTRIN XL.
 - •Take WELLBUTRIN XL exactly as prescribed by your healthcare provider.
   Do not change your dose or stop taking WELLBUTRIN XL without talking with your healthcare provider first.
-- •WELLBUTRIN XL is usually taken for 7 to 12 weeks.
-  Your healthcare provider may decide to prescribe WELLBUTRIN XL for longer than 12 weeks to help you stop smoking.
-  Follow your healthcare provider’s instructions.
 - •Swallow WELLBUTRIN XL tablets whole.
   Do not chew, cut, or crush WELLBUTRIN XL tablets.
   If you do, the medicine will be released into your body too quickly.
@@ -201,20 +197,15 @@ How should I take WELLBUTRIN XL?
   This is normal.
 - •Take your doses of WELLBUTRIN XL at least 8 hours apart.
 - •You may take WELLBUTRIN XL with or without food.
-- •It is not dangerous to smoke and take WELLBUTRIN XL at the same time.
-  But, you will lower your chance of breaking your smoking habit if you smoke after the date you set to stop smoking.
-- •You may use WELLBUTRIN XL and nicotine patches (a type of nicotine replacement therapy) at the same time, following the precautions below.
-- •You should only use WELLBUTRIN XL and nicotine patches together under the care of your healthcare provider.
-  Using WELLBUTRIN XL and nicotine patches together may raise your blood pressure, and sometimes this can be severe.
-- •Tell your healthcare provider if you plan to use nicotine patches.
-  Your healthcare provider should check your blood pressure regularly if you use nicotine patches with WELLBUTRIN XL to help you quit smoking.
 - •If you miss a dose, do not take an extra dose to make up for the dose you missed.
   Wait and take your next dose at the regular time.
   This is very important.
   Too much WELLBUTRIN XL can increase your chance of having a seizure.
 - •If you take too much WELLBUTRIN XL, or overdose, call your local emergency room or poison control center right away.
-
-Do not take any other medicines while taking WELLBUTRIN XL unless your healthcare provider has told you it is okay.
+- •Do not take any other medicines while taking WELLBUTRIN XL unless your healthcare provider has told you it is okay.
+- •If you are taking WELLBUTRIN XL for the treatment of major depressive disorder, it may take several weeks for you to feel that WELLBUTRIN XL is working.
+  Once you feel better, it is important to keep taking WELLBUTRIN XL exactly as directed by your healthcare provider.
+  Call your healthcare provider if you do not feel WELLBUTRIN XL is working for you.
 
 What should I avoid while taking WELLBUTRIN XL?
 
@@ -251,7 +242,7 @@ You may also report side effects to Valeant Pharmaceuticals North America LLC at
 
 How should I store WELLBUTRIN XL?
 
-- •Store WELLBUTRIN XL at room temperature between 59° and 86°F (15° to 30°C).
+Store WELLBUTRIN XL at room temperature 77°F (25°C)
 
 Keep WELLBUTRIN XL and all medicines out of the reach of children.
 
@@ -278,21 +269,27 @@ Active ingredient: bupropion hydrochloride.
 Inactive ingredients: ethylcellulose, glyceryl behenate, methacrylic acid copolymer dispersion, polyvinyl alcohol, polyethylene glycol, povidone, silicon dioxide, and triethyl citrate.
 The tablets are printed with edible black ink.
 
-Manufactured for: Valeant Pharmaceuticals North America LLC Bridgewater, NJ 08807 USA
+Manufactured for:
 
-By: Valeant Pharmaceuticals International, Inc. Steinbach, MB R5G 1Z7, Canada
+Bausch Health US, LLC
+
+Bridgewater, NJ 08807 USA
+
+By:
+
+Bausch Health Companies, Inc.
+
+Steinbach, MB R5G 1Z7, Canada
 
 Wellbutrin XL is a registered trademark of GlaxoSmithKline LLC used under license.
-Aplenzin is a trademark of Valeant Pharmaceuticals International, Inc. or its affiliates.
 
-All other product/brand names are the trademarks of their respective owners.
+Aplenzin is a trademark of Bausch Health Companies Inc. or its affiliates.
+
+All other product/brand names are the trademarks of the respective owners.
 
 U.S. Patents 6,096,341; 7,537,784
 
-©Valeant Pharmaceuticals North America LLC
+© 2019 Bausch Health Companies Inc. or its affiliates.
 
-This Medication Guide has been approved by the U.S. Food and Drug Administration.
-
-9395605-20002167
-
-Revised: 05/2017
+1. This Medication Guide has been approved by the U.S. Food and Drug Administration.
+   Revised 11/2019

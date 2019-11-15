@@ -58,12 +58,8 @@ Counsel patients to notify their healthcare provider if they are taking or plan 
 
 Pregnancy
 
-Advise patients to notify their healthcare provider if they become pregnant or intend to become pregnant during therapy.
-
-Precautions for Nursing Mothers
-
-Communicate with the patient and pediatric healthcare provider regarding the infant’s exposure to bupropion through human milk.
-Instruct patients to immediately contact the infant’s healthcare provider if they note any side effect in the infant that concerns them or is persistent.
+Advise patients to notify their healthcare provider if they become pregnant or intend to become pregnant during therapy with WELLBUTRIN XL.
+Advise patients that there is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to WELLBUTRIN XL during pregnancy [see Use in Specific Populations (8.1)].
 
 Administration Information
 
@@ -72,21 +68,25 @@ Instruct patients if they miss a dose, not to take an extra tablet to make up fo
 Instruct patients that WELLBUTRIN XL tablets should be swallowed whole and not crushed, divided, or chewed.
 WELLBUTRIN XL should be administered in the morning and may be taken with or without food.
 
-Manufactured for: Valeant Pharmaceuticals North America LLC Bridgewater, NJ 08807 USA
+Manufactured for:
 
-By: Valeant Pharmaceuticals International, Inc. Steinbach, MB R5G 1Z7, Canada
+Bausch Health US, LLC
+
+Bridgewater, NJ 08807 USA
+
+By:
+
+Bausch Health Companies Inc.
+
+Steinbach, MB R5G 1Z7, Canada
 
 Wellbutrin XL is a registered trademark of GlaxoSmithKline LLC used under license.
 
-Aplenzin is a trademark of Valeant Pharmaceuticals International, Inc. or its affiliates.
+Aplenzin is a trademark of Bausch Health Companies Inc. or its affiliates.
 
-All other product/brand names are the trademarks of their respective owners.
+All other product/brand names are the trademarks of the respective owners.U.S.
+Patents 6,096,341; 7,537,784
 
-U.S. Patents 6,096,341; 7,537,784
+© 2019 Bausch Health Companies Inc. or its affiliates Valeant Pharmaceuticals North America LLC
 
-©Valeant Pharmaceuticals North America LLC
-
-9395605-20002167
-
-Rev.
-05/2017
+Update p/n
