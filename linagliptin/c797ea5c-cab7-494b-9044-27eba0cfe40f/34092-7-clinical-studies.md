@@ -26,9 +26,9 @@ Change from baseline in body weight did not differ significantly between the gro
 
 Table 4 Glycemic Parameters in Placebo-Controlled Monotherapy Studies of TRADJENTA*
 
-|  | 18-Week Study |  | 24-Week Study |  |
-| --- | --- | --- | --- | --- |
 | TRADJENTA 5 mg | Placebo | TRADJENTA 5 mg | Placebo |  |
+| --- | --- | --- | --- | --- |
+|  | 18-Week Study |  | 24-Week Study |  |
 | A1C (%) |  |  |  |  |
 | Number of patients | n = 147 | n = 73 | n = 333 | n = 163 |
 | Baseline (mean) | 8.1 | 8.1 | 8.0 | 8.0 |
@@ -132,9 +132,9 @@ These results were consistent with the completers analysis.
 
 Table 7 Glycemic Parameters at 52 and 104 Weeks in Study Comparing TRADJENTA to Glimepiride as Add-On Therapy in Patients Inadequately Controlled on Metformin**
 
-|  | Week 52 |  | Week 104 |  |
-| --- | --- | --- | --- | --- |
 |  | TRADJENTA 5 mg + Metformin | Glimepiride + Metformin (mean Glimepiride dose 3 mg) | TRADJENTA 5 mg + Metformin | Glimepiride + Metformin (mean Glimepiride dose 3 mg) |
+| --- | --- | --- | --- | --- |
+|  | Week 52 |  | Week 104 |  |
 | A1C (%) |  |  |  |  |
 | Number of patients | n = 764 | n = 755 | n = 764 | n = 755 |
 | Baseline (mean) | 7.7 | 7.7 | 7.7 | 7.7 |
@@ -315,9 +315,9 @@ The Kaplan-Meier curve depicting time to first occurrence of MACE is shown in Fi
 
 Table 12 Major Adverse Cardiovascular Events (MACE) by Treatment Group in the CARMELINA Trial
 
-|  | TRADJENTA 5 mg n = 3494 |  | Placebo n = 3485 |  | Hazard Ratio |
-| --- | --- | --- | --- | --- | --- |
 |  | Number of Subjects (%) | Incidence Rate per 1000 PY* | Number of Subjects (%) | Incidence Rate per 1000 PY* | (95% CI) |
+| --- | --- | --- | --- | --- | --- |
+|  | TRADJENTA 5 mg n = 3494 |  | Placebo n = 3485 |  | Hazard Ratio |
 | Composite of first event of CV death, non-fatal myocardial infarction (MI), or non-fatal stroke (MACE) | 434 (12.4) | 57.7 | 420 (12.1) | 56.3 | 1.02 (0.89, 1.17) |
 | CV death** | 255 (7.3) | 32.6 | 264 (7.6) | 34.0 | 0.96 (0.81, 1.14) |
 | Non-fatal MI** | 156 (4.5) | 20.6 | 135 (3.9) | 18.0 | 1.15 (0.91, 1.45) |
