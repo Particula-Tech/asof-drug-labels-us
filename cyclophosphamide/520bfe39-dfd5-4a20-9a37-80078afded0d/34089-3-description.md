@@ -11,5 +11,3 @@ Cyclophosphamide for Injection, USP is a sterile white powder available as 500 m
 - 500 mg vial contains 534.5 mg cyclophosphamide monohydrate equivalent to 500 mg cyclophosphamide, USP.
 - 1 g vial contains 1069 mg cyclophosphamide monohydrate equivalent to 1 g cyclophosphamide, USP
 - 2 g vial contains 2138 mg cyclophosphamide monohydrate equivalent to 2 g cyclophosphamide, USP
-
-FDA approved water determination specification differs from the USP water determination specification.
