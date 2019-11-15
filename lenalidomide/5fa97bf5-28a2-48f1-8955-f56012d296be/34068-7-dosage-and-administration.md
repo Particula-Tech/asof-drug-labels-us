@@ -63,12 +63,6 @@ Table 2: Dose Adjustments for Hematologic Toxicities for MM
 |  | If at 5 mg daily dose, For a subsequent drop below 500/mcL | Interrupt REVLIMID treatment. Do not dose below 5 mg daily for Days 1 to 21 of 28-day cycle |
 |  | Return to at least 500/mcL | Resume REVLIMID at 5 mg daily for Days 1 to 21 of 28-day cycle. Do not dose below 5 mg daily for Days 1 to 21 of 28-day cycle |
 
-Other Toxicities in MM
-
-For other Grade 3/4 toxicities judged to be related to REVLIMID, hold treatment and restart at the physician's discretion at next lower dose level when toxicity has resolved to Grade 2 or lower.
-
-Starting Dose Adjustment for Renal Impairment in MM [see Dosage and Administration (2.5)].
-
 ## 2.2 Recommended Dosage for Myelodysplastic Syndromes
 
 The recommended starting dose of REVLIMID is 10 mg daily.
@@ -142,12 +136,6 @@ If neutropenia develops during treatment at 5 mg daily in MDS
 | Fall below 500/mcL for at least 7 days or below 500/mcL associated with fever (at least 38.5°C) | Interrupt REVLIMID treatment |
 | Return to at least 500/mcL | Resume REVLIMID at 2.5 mg daily |
 
-Other Grade 3 / 4 Toxicities in MDS
-
-For other Grade 3/4 toxicities judged to be related to REVLIMID, hold treatment and restart at the physician's discretion at next lower dose level when toxicity has resolved to Grade 2 or lower.
-
-Starting Dose Adjustment for Renal Impairment in MDS [see Dosage and Administration (2.5)].
-
 ## 2.3 Recommended Dosage for Mantle Cell Lymphoma
 
 The recommended starting dose of REVLIMID is 25 mg/day orally on Days 1-21 of repeated 28-day cycles for relapsed or refractory mantle cell lymphoma.
@@ -177,12 +165,6 @@ Neutropenia during treatment in MCL
 | Fall below 1000/mcL for at least 7 days OR Falls below 1,000/mcL with an associated temperature at least 38.5°C OR Falls below 500/mcL | Interrupt REVLIMID treatment and follow CBC weekly |
 | Return to at least 1,000/mcL | Resume REVLIMID at 5 mg less than the previous dose. Do not dose below 5 mg daily |
 
-Other Grade 3 / 4 Toxicities in MCL
-
-For other Grade 3/4 toxicities judged to be related to REVLIMID, hold treatment and restart at the physician's discretion at next lower dose level when toxicity has resolved to Grade 2 or lower.
-
-Starting Dose Adjustment for Renal Impairment in MCL [see Dosage and Administration (2.5)].
-
 ## 2.4 Recommended Dosage for Follicular Lymphoma or Marginal Zone Lymphoma
 
 The recommended starting dose of REVLIMID is 20 mg orally once daily on Days 1-21 of repeated 28-day cycles for up to 12 cycles of treatment in combination with a rituximab-product.
@@ -211,13 +193,13 @@ Neutropenia during treatment in FL or MZL
 | Fall below 1,000/mcL for at least 7 days OR Falls below 1,000/mcL with an associated temperature at least 38.5°C OR Falls below 500 /mcL | Interrupt REVLIMID treatment and follow CBC weekly. |
 | Return to at least 1,000/mcL | If patient starting dose was 20 mg daily, resume REVLIMID at 5 mg less than the previous dose. Do not dose below 5 mg daily. If patient starting dose was 10 mg daily, resume at 5 mg less than previous dose. Do not dose below 2.5 mg daily. |
 
-Other Grade 3 / 4 Toxicities in FL or MZL
+## 2.5 Dosage Modifications for Non-Hematologic Adverse Reactions
 
-For other Grade 3/4 toxicities judged to be related to REVLIMID, hold treatment and restart at the physician's discretion at next lower dose level when toxicity has resolved to Grade 2 or below.
+For non-hematologic Grade 3/4 toxicities judged to be related to REVLIMID, hold treatment and restart at the physician's discretion at next lower dose level when toxicity has resolved to Grade 2 or below.
 
-Starting Dose Adjustment for Renal Impairment in FL or MZL [see Dosage and Administration (2.5)].
+Permanently discontinue REVLIMID for angioedema, anaphylaxis, Grade 4 rash, skin exfoliation, bullae, or any other severe dermatologic reactions [see Warnings and Precautions (5.9, 5.15)].
 
-## 2.5 Recommended Dosage for Patients with Renal Impairment
+## 2.6 Recommended Dosage for Patients with Renal Impairment
 
 The recommendations for dosing patients with renal impairment are shown in the following table [see Clinical Pharmacology (12.3)].
 
@@ -235,7 +217,7 @@ REVLIMID Maintenance Therapy Following Auto-HSCT for MM and for MCL and MDS: Bas
 
 REVLIMID Combination Therapy for FL or for MZL: For patients with CLcr of 30 to 60 mL/min, after 2 cycles, the REVLIMID dose may be increased to 15 mg orally if the patient has tolerated therapy.
 
-## 2.6 Administration
+## 2.7 Administration
 
 Advise patients to take REVLIMID orally at about the same time each day, either with or without food.
 Advise patients to swallow REVLIMID capsules whole with water and not to open, break, or chew them.

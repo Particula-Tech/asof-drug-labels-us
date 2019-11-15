@@ -129,4 +129,4 @@ Monitor renal function.
 
 ## 8.6 Renal Impairment
 
-Adjust the starting dose of REVLIMID based on the creatinine clearance value and for patients on dialysis [see Dosage and Administration (2.5)].
+Adjust the starting dose of REVLIMID based on the creatinine clearance value and for patients on dialysis [see Dosage and Administration (2.6)].

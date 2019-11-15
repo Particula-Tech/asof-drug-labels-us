@@ -425,11 +425,10 @@ Table 21: Baseline Demographics and Disease-Related Characteristics of Patients 
 | Yes | 97 (54) | 86 (48) | 148 (67) |  |
 | No | 81 (46) | 94 (52) | 74 (33) |  |
 | Number of prior systemic antilymphoma therapies |  |  |  |  |
-| 1 | 102 (57) | 97 (54) | 94 (42) |  |
+| 1 | 102 (57) | 97 (54) | 94 (42)Patient had either 0 (n=2) or 1 prior systemic therapy. |  |
 | >1 | 76 (43) | 83 (46) | 128 (58) |  |
 | Data Cutoff: 22 June 2018 (AUGMENT) and 1 May 2017 (MAGNIFY). |  |  |  |  |
 | ECOG = Eastern Cooperative Oncology Group; FLIPI = follicular lymphoma international prognostic index |  |  |  |  |
-| a Patient had either 0 (n=2) or 1 prior systemic therapy. |  |  |  |  |
 
 In AUGMENT, efficacy was established in the intent-to-treat (ITT) population based on progression-free survival by Independent Review Committee using modified 2007 International Working Group response criteria.
 Efficacy results are summarized in Table 22.

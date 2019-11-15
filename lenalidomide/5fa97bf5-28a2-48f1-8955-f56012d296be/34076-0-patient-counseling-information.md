@@ -52,9 +52,10 @@ Hepatotoxicity
 
 Inform patients of the risk of hepatotoxicity, including hepatic failure and death, and to report any signs and symptoms associated with this event to their healthcare provider for evaluation [see Warnings and Precautions (5.8)].
 
-Severe Cutaneous Reactions Including Hypersensitivity Reactions
+Severe Cutaneous Reactions
 
-Inform patients of the potential for severe reactions including hypersensitivity, angioedema, Stevens-Johnson Syndrome, toxic epidermal necrolysis or drug reaction with eosinophilia and systemic symptoms if they had such a reaction to thalidomide and report symptoms associated with these events to their healthcare provider for evaluation [see Warnings and Precautions (5.9)].
+Inform patients of the potential risk for severe skin reactions such as SJS, TEN, and DRESS and report any signs and symptoms associated with these reactions to their healthcare provider for evaluation.
+Patients with a prior history of Grade 4 rash associated with thalidomide treatment should not receive REVLIMID [see Warnings and Precautions (5.9)].
 
 Tumor Lysis Syndrome
 
@@ -67,6 +68,12 @@ Inform patients of the potential risk of tumor flare reaction and to report any 
 Early Mortality in Patients with MCL
 
 Inform patients with MCL of the potential for early death [see Warnings and Precautions (5.14)].
+
+Hypersensitivity
+
+Inform patients of the potential for severe hypersensitivity reactions such as angioedema and anaphylaxis to REVLIMID.
+Instruct patients to contact their healthcare provider right away for signs and symptoms of these reactions.
+Advise patients to seek emergency medical attention for signs or symptoms of severe hypersensitivity reactions [see Warnings and Precautions (5.15)].
 
 Dosing Instructions
 

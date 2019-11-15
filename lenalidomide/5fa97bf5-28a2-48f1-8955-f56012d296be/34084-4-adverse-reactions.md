@@ -9,12 +9,13 @@ The following clinically significant adverse reactions are described in detail i
 - Second Primary Malignancies [see Warnings and Precautions (5.6)]
 - Increased Mortality in Patients with MM When Pembrolizumab Is Added to a Thalidomide Analogue and Dexamethasone [see Warnings and Precautions (5.7)]
 - Hepatotoxicity [see Warnings and Precautions (5.8)]
-- Severe Cutaneous Reactions Including Hypersensitivity Reactions [see Warnings and Precautions (5.9)]
+- Severe Cutaneous Reactions[see Warnings and Precautions (5.9)]
 - Tumor Lysis Syndrome [see Warnings and Precautions (5.10)]
 - Tumor Flare Reactions [see Warnings and Precautions (5.11)]
 - Impaired Stem Cell Mobilization [see Warnings and Precautions (5.12)]
 - Thyroid Disorders [see Warnings and Precautions (5.13)]
 - Early Mortality in Patients with MCL [see Warnings and Precautions (5.14)]
+- Hypersensitivity [see Warnings and Precautions (5.15)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -712,7 +713,7 @@ Subjects were 18 years or older in age, had an ECOG PS ≤2, ANC ≥1,000 cells/
 Subjects with active HIV, hepatitis B or C were not eligible.
 
 In the AUGMENT trial, patients received REVLIMID 20 mg daily by mouth on days 1 – 21 of each 28 day cycle with rituximab 375 mg/m2 weekly (days 1, 8, 15 and 22 in cycle 1) then on day 1 of cycles 2-5 (n=176) or placebo with rituximab 375 mg/m2 weekly (days 1, 8, 15 and 22 in cycle 1) then on day 1 of cycles 2-5 (n=180) for up to 12 cycles.
-In the MAGNIFY trial, patients received REVLIMID 20 mg by mouth daily, days 1-21 of each 28 day cycle with rituximab 375 mg/m2 weekly (days 1, 8, 15 and 22 in cycle 1) then on day 1 of cycles 3, 7, 9 and 11 in the induction phase of the trial (n=222).
+In the MAGNIFY trial, patients received REVLIMID 20 mg by mouth daily, days 1-21 of each 28 day cycle with rituximab 375 mg/m2 weekly (days 1, 8, 15 and 22 in cycle 1) then on day 1 of cycles 3, 5, 7, 9 and 11 in the induction phase of the trial (n=222).
 In the AUGMENT trial, 88.1% of patients completed at least 6 cycles of REVLIMID/rituximab, and 71% of patients completed 12 cycles.
 In the ongoing MAGNIFY trial as of May 1, 2017, 62.2% of patients completed at least 6 cycles of REVLIMID/rituximab, and 30.6% of patients completed 12 cycles.
 
@@ -720,7 +721,7 @@ Across both clinical trials (AUGMENT and MAGNIFY), patients had a median age of 
 
 Fatal adverse reactions occurred in 6 patients (1.5%) receiving REVLIMID/rituximab.
 Fatal adverse reactions (1 each) included cardio-respiratory arrest, arrhythmia, cardiopulmonary failure, multiple organ dysfunction syndrome, sepsis, and acute kidney injury.
-Serious adverse reactions occurred in 26% of patients receiving REVLIMID/rituximab on AUGMENT and 29% on MAGNIFY.
+Serious adverse reactions occurred in 26% of patients receiving REVLIMID/rituximab in AUGMENT and 29% in MAGNIFY.
 The most frequent serious adverse reaction that occurred in ≥ 2.5% of patients in the REVLIMID/rituximab arm was febrile neutropenia (3%).
 Permanent discontinuation of REVLIMID or rituximab due to an adverse reaction occurred in 14.6% of patients in the REVLIMID/rituximab arm.
 The most common adverse reaction (in at least 1%) requiring permanent discontinuation of REVLIMID or rituximab was neutropenia (4.8%).
@@ -812,7 +813,7 @@ Endocrine disorders: Hypothyroidism, hyperthyroidism
 
 Hepatobiliary disorders: Hepatic failure (including fatality), toxic hepatitis, cytolytic hepatitis, cholestatic hepatitis, mixed cytolytic/cholestatic hepatitis, transient abnormal liver laboratory tests
 
-Immune system disorders: Angioedema, acute graft-versus-host disease (following allogeneic hematopoietic transplant), solid organ transplant rejection
+Immune system disorders: Angioedema, anaphylaxis, acute graft-versus-host disease (following allogeneic hematopoietic transplant), solid organ transplant rejection
 
 Infections and infestations: Viral reactivation (such as hepatitis B virus and herpes zoster), progressive multifocal leukoencephalopathy (PML)
 
