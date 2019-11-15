@@ -15,8 +15,8 @@ Important information about oxycodone hydrochloride tablets:
 - Taking oxycodone hydrochloride tablets with other opioid medicines, benzodiazepines, alcohol, or other central nervous system depressants (including street drugs) can cause severe drowsiness, decreased awareness, breathing problems, coma, and death.
 - Never give anyone else your oxycodone hydrochloride tablets.
   They could die from taking them.
-  Store oxycodone hydrochloride tablets away from children and in a safe place to prevent stealing or abuse.
   Selling or giving away oxycodone hydrochloride tablets is against the law.
+- Store oxycodone hydrochloride tablets securely, out of sight and reach of children, and in a location not accessible by others, including visitors to the home.
 
 Do not take oxycodone hydrochloride tablets if you have:
 
@@ -51,7 +51,8 @@ When taking oxycodone hydrochloride tablets:
   If you miss a dose, take your next dose at your usual time.
 - Call your healthcare provider if the dose you are taking does not control your pain.
 - If you have been taking oxycodone hydrochloride tablets regularly, do not stop taking oxycodone hydrochloride tablets without talking to your healthcare provider.
-- After you stop taking oxycodone hydrochloride tablets, flush any unused tablets down the toilet.
+- Dispose of expired, unwanted, or unused oxycodone hydrochloride tablets by promptly flushing down the toilet, if a drug take-back option is not readily available.
+  Visit www.fda.gov/drugdisposal for additional information on disposal of unused medicines.
 
 While taking oxycodone hydrochloride tablets DO NOT:
 
@@ -80,4 +81,4 @@ Distributed by: Alvogen, Inc. Pine Brook, NJ 07058 USA
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Issued: 02/2018 PL263-00
+Revised: 10/2019 PL263-01
