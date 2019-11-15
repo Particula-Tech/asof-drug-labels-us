@@ -20,7 +20,7 @@ Each sustained-release tablet contains 100 mg bupropion HCl.
 
 WARNING: Do not use with other medicines that contain bupropion HCl.
 
-Federal Law requires dispensing of WellbutrinSR with the Medication Guide provided with this bottle.
+Federal Law requires dispensing of Wellbutrin SR with the Medication Guide provided with this bottle.
 
 See prescribing information for dosage information.
 
@@ -34,20 +34,20 @@ GlaxoSmithKline
 
 RTP, NC 27709
 
-Made in Germany
+Made in Spain
 
 Trademark owned or licensed by GSK.
 
-©2017 GSK or licensor.
+©2019 GSK or licensor.
 
-1. 10000000146238 Rev.
-   6/17
+1. 62000000041493 Rev.
+   7/19
 
 PRINCIPAL DISPLAY PANEL
 
 NDC 0173-0135-55
 
-WellbutrinSR
+Wellbutrin SR
 
 (bupropion HCl)
 
@@ -65,7 +65,7 @@ Each sustained-release tablet contains 150 mg bupropion HCl.
 
 WARNING: Do not use with other medicines that contain bupropion HCl.
 
-Federal Law requires dispensing of WellbutrinSR with the Medication Guide provided with this bottle.
+Federal Law requires dispensing of Wellbutrin SR with the Medication Guide provided with this bottle.
 
 See prescribing information for dosage information.
 
@@ -79,14 +79,14 @@ GlaxoSmithKline
 
 RTP, NC 27709
 
-Made in Germany
+Made in Spain
 
 Trademark owned or licensed by GSK.
 
-©2017 GSK or licensor.
+©2019 GSK or licensor.
 
-1. 10000000146236 Rev.
-   6/17
+1. 62000000041495 Rev.
+   7/19
 
 PRINCIPAL DISPLAY PANEL
 
@@ -110,7 +110,7 @@ Each sustained-release tablet contains 200 mg bupropion HCl.
 
 WARNING: Do not use with other medicines that contain bupropion HCl.
 
-Federal Law requires dispensing of WellbutrinSR with the Medication Guide provided with this bottle.
+Federal Law requires dispensing of Wellbutrin SR with the Medication Guide provided with this bottle.
 
 See prescribing information for dosage information.
 
@@ -124,11 +124,11 @@ GlaxoSmithKline
 
 RTP, NC 27709
 
-Made in Germany
+Made in Spain
 
 Trademark owned or licensed by GSK.
 
-©2017 GSK or licensor.
+©2019 GSK or licensor.
 
-1. 10000000146237 Rev.
-   6/17
+1. 62000000041494 Rev.
+   7/19

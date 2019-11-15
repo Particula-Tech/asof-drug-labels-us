@@ -64,7 +64,7 @@ However, the symptoms persisted in some cases; therefore, ongoing monitoring and
 
 WELLBUTRIN SR can cause seizure.
 The risk of seizure is dose-related.
-The dose should not exceed 400 mg per day.
+The dose should not exceed 400 mg/day.
 Increase the dose gradually.
 Discontinue WELLBUTRIN SR and do not restart treatment if the patient experiences a seizure.
 
@@ -76,14 +76,14 @@ Additional predisposing conditions include diabetes mellitus treated with oral h
 
 Incidence of Seizure with Bupropion Use
 
-When WELLBUTRIN SR is dosed up to 300 mg per day, the incidence of seizure is approximately 0.1% (1/1,000) and increases to approximately 0.4% (4/1,000) at the maximum recommended dose of 400 mg per day.
+When WELLBUTRIN SR is dosed up to 300 mg/day, the incidence of seizure is approximately 0.1% (1/1,000) and increases to approximately 0.4% (4/1,000) at the maximum recommended dose of 400 mg/day.
 
-The risk of seizure can be reduced if the dose of WELLBUTRIN SR does not exceed 400 mg per day, given as 200 mg twice daily, and the titration rate is gradual.
+The risk of seizure can be reduced if the dose of WELLBUTRIN SR does not exceed 400 mg/day, given as 200 mg twice daily, and the titration rate is gradual.
 
 ## 5.4 Hypertension
 
 Treatment with WELLBUTRIN SR can result in elevated blood pressure and hypertension.
-Assess blood pressure before initiating treatment with WELLBUTRIN SR, and monitor periodically during treatment.
+Assess blood pressure before initiating treatment with WELLBUTRIN SR and monitor periodically during treatment.
 The risk of hypertension is increased if WELLBUTRIN SR is used concomitantly with MAOIs or other drugs that increase dopaminergic or noradrenergic activity [see Contraindications (4)].
 
 Data from a comparative trial of the sustained-release formulation of bupropion HCl, nicotine transdermal system (NTS), the combination of sustained-release bupropion plus NTS, and placebo as an aid to smoking cessation suggest a higher incidence of treatment-emergent hypertension in patients treated with the combination of sustained-release bupropion and NTS.
@@ -120,4 +120,4 @@ Reactions have been characterized by pruritus, urticaria, angioedema, and dyspne
 In addition, there have been rare, spontaneous postmarketing reports of erythema multiforme, Stevens‑Johnson syndrome, and anaphylactic shock associated with bupropion.
 Instruct patients to discontinue WELLBUTRIN SR and consult a healthcare provider if they develop an allergic or anaphylactoid/anaphylactic reaction (e.g., skin rash, pruritus, hives, chest pain, edema, and shortness of breath) during treatment.
 
-There are reports of arthralgia, myalgia, fever with rash and other serum sickness-like symptoms suggestive of delayed hypersensitivity.
+There are reports of arthralgia, myalgia, fever with rash, and other serum sickness-like symptoms suggestive of delayed hypersensitivity.

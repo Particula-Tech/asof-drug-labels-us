@@ -2,15 +2,6 @@
 
 Advise the patient to read the FDA-approved patient labeling (Medication Guide).
 
-Inform patients, their families, and their caregivers about the benefits and risks associated with treatment with WELLBUTRIN SR and counsel them in its appropriate use.
-
-A patient Medication Guide about “Antidepressant Medicines, Depression and Other Serious Mental Illnesses, and Suicidal Thoughts or Actions,” “Quitting Smoking, Quit-Smoking Medications, Changes in Thinking and Behavior, Depression, and Suicidal Thoughts or Actions,” and “What Other Important Information Should I Know About WELLBUTRIN SR?” is available for WELLBUTRIN SR.
-Instruct patients, their families, and their caregivers to read the Medication Guide and assist them in understanding its contents.
-Patients should be given the opportunity to discuss the contents of the Medication Guide and to obtain answers to any questions they may have.
-The complete text of the Medication Guide is reprinted at the end of this document.
-
-Advise patients regarding the following issues and to alert their prescriber if these occur while taking WELLBUTRIN SR.
-
 Suicidal Thoughts and Behaviors
 
 Instruct patients, their families, and/or their caregivers to be alert to the emergence of anxiety, agitation, panic attacks, insomnia, irritability, hostility, aggressiveness, impulsivity, akathisia (psychomotor restlessness), hypomania, mania, other unusual changes in behavior, worsening of depression, and suicidal ideation, especially early during antidepressant treatment and when the dose is adjusted up or down.
@@ -34,7 +25,7 @@ Instruct patients to discontinue and not restart WELLBUTRIN SR if they experienc
 Advise patients that the excessive use or abrupt discontinuation of alcohol, benzodiazepines, antiepileptic drugs, or sedatives/hypnotics can increase the risk of seizure.
 Advise patients to minimize or avoid use of alcohol.
 
-As the dose is increased during initial titration to doses above 150 mg per day, instruct patients to take WELLBUTRIN SR in 2 divided doses, preferably with at least 8 hours between successive doses, to minimize the risk of seizures.
+As the dose is increased during initial titration to doses above 150 mg/day, instruct patients to take WELLBUTRIN SR in 2 divided doses, preferably with at least 8 hours between successive doses, to minimize the risk of seizures.
 
 Angle-Closure Glaucoma
 
@@ -60,11 +51,8 @@ Counsel patients to notify their healthcare provider if they are taking or plan 
 
 Pregnancy
 
-Advise patients to notify their healthcare provider if they become pregnant or intend to become pregnant during therapy.
-
-Precautions for Nursing Mothers
-
-Advise patients that WELLBUTRIN SR is present in human milk in small amounts.
+Advise patients to notify their healthcare provider if they become pregnant or intend to become pregnant during therapy with WELLBUTRIN SR.
+Advise patients that there is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to WELLBUTRIN SR during pregnancy [see Use in Specific Populations (8.1)].
 
 Storage Information
 
@@ -74,7 +62,7 @@ Administration Information
 
 Instruct patients to swallow WELLBUTRIN SR tablets whole so that the release rate is not altered.
 Do not chew, divide, or crush tablets; they are designed to slowly release drug in the body.
-When patients take more than 150 mg per day, instruct them to take WELLBUTRIN SR in 2 doses at least 8 hours apart, to minimize the risk of seizures.
+When patients take more than 150 mg/day, instruct them to take WELLBUTRIN SR in 2 doses at least 8 hours apart, to minimize the risk of seizures.
 Instruct patients if they miss a dose, not to take an extra tablet to make up for the missed dose and to take the next tablet at the regular time because of the dose-related risk of seizure.
 Instruct patients that WELLBUTRIN SR tablets may have an odor.
 WELLBUTRIN SR can be taken with or without food.
@@ -87,6 +75,6 @@ GlaxoSmithKline
 
 Research Triangle Park, NC 27709
 
-©2017 GSK group of companies or its licensor.
+©2019 GSK group of companies or its licensor.
 
-WLS:17PI
+WLS:18PI
