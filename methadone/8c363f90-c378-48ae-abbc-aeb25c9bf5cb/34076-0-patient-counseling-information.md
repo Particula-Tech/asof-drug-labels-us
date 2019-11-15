@@ -33,7 +33,6 @@ Advise patients how to recognize respiratory depression and to seek medical atte
 Accidental Ingestion:
 
 Inform patients that accidental ingestion, especially in children, may result in respiratory depression or death [seeWarnings and Precautions (5.4)].
-Instruct patients to take steps to store Methadone Hydrochloride Oral Solution securely and to dispose of unused Methadone Hydrochloride Oral Solution by flushing the solution down the toilet.
 
 Symptoms of Arrhythmia:
 
@@ -115,6 +114,6 @@ Pharmaceuticals Corp.
 
 Eatontown, NJ 07724
 
-4056301//13
+4056301//14
 
-Revised August 2019
+Revised November 2019
