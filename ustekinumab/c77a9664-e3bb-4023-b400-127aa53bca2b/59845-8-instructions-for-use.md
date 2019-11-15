@@ -189,7 +189,7 @@ Important information:
   If your vial has been shaken, do not use it.
   Get a new vial.
 - Do not use a STELARA vial more than one time, even if there is medicine left in the vial.
-  After the cap is punctured, STELARA can become contaminated by harmful bacteria which could cause an infection if re-used.
+  After the rubber stopper is punctured, STELARA can become contaminated by harmful bacteria which could cause an infection if re-used.
   Therefore, throw away any unused STELARA after you give your injection.
 - Safely throw away (dispose of) STELARA vials after use.
 - Do not re-use syringes or needles.
@@ -201,7 +201,7 @@ Gather the supplies you will need to prepare STELARA and to give your injection.
 
 You will need:
 
-- a syringe with the needle attached, you will need a prescription from your healthcare provider to get syringes with the needles attached from by your pharmacy.
+- a syringe with the needle attached, you will need a prescription from your healthcare provider to get syringes with the needles attached from your pharmacy.
 - antiseptic wipes
 - cotton balls or gauze pads
 - adhesive bandage
@@ -339,6 +339,6 @@ Vial Manufactured by: Janssen Biotech, Inc., Horsham, PA 19044, US License No. 1
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
-Revised: 10/2019
+Revised: 11/2019
 
 © 2012, 2016 Janssen Pharmaceutical Companies

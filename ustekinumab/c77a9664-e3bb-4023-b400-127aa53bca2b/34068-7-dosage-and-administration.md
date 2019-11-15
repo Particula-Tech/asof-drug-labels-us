@@ -91,7 +91,7 @@ The recommended maintenance dosage is a subcutaneous 90 mg dose administered 8 w
 - STELARA® is intended for use under the guidance and supervision of a physician.
   STELARA® should only be administered to patients who will be closely monitored and have regular follow-up visits with a physician.
   The appropriate dose should be determined by a healthcare provider using the patient's current weight at the time of dosing.
-  In adolescent patients, it is recommended that STELARA® be administered by a health care provider.
+  In adolescent patients, it is recommended that STELARA® be administered by a healthcare provider.
   If a physician determines that it is appropriate, a patient may self-inject or a caregiver may inject STELARA® after proper training in subcutaneous injection technique.
   Patients should be instructed to follow the directions provided in the Medication Guide [see Medication Guide].
 - The needle cover on the prefilled syringe contains dry natural rubber (a derivative of latex).
@@ -126,13 +126,14 @@ STELARA® solution for intravenous infusion must be diluted, prepared and infuse
 1. Calculate the dose and the number of STELARA® vials needed based on patient weight (Table 3).
    Each 26 mL vial of STELARA® contains 130 mg of ustekinumab.
 2. Withdraw, and then discard a volume of the 0.9% Sodium Chloride Injection, USP from the 250 mL infusion bag equal to the volume of STELARA® to be added (discard 26 mL sodium chloride for each vial of STELARA® needed, for 2 vials- discard 52 mL, for 3 vials- discard 78 mL, 4 vials- discard 104 mL).
+   Alternatively, a 250 mL infusion bag containing 0.45% Sodium Chloride Injection, USP may be used.
 3. Withdraw 26 mL of STELARA® from each vial needed and add it to the 250 mL infusion bag.
    The final volume in the infusion bag should be 250 mL.
    Gently mix.
 4. Visually inspect the diluted solution before infusion.
    Do not use if visibly opaque particles, discoloration or foreign particles are observed.
 5. Infuse the diluted solution over a period of at least one hour.
-   Once diluted, the infusion solution may be stored for up to four hours prior to infusion.
+   Once diluted, the infusion should be completely administered within eight hours of the dilution in the infusion bag.
 6. Use only an infusion set with an in-line, sterile, non-pyrogenic, low protein-binding filter (pore size 0.2 micrometer).
 7. Do not infuse STELARA® concomitantly in the same intravenous line with other agents.
 8. STELARA® does not contain preservatives.
@@ -142,6 +143,8 @@ STELARA® solution for intravenous infusion must be diluted, prepared and infuse
 
 Storage
 
-If necessary, the diluted infusion solution may be stored for up to 4 hours at room temperature up to 25°C (77°F).
+If necessary, the diluted infusion solution may be kept at room temperature up to 25°C (77°F) for up to 7 hours.
+Storage time at room temperature begins once the diluted solution has been prepared.
+The infusion should be completed within 8 hours after the dilution in the infusion bag (cumulative time after preparation including the storage and the infusion period).
 Do not freeze.
 Discard any unused portion of the infusion solution.

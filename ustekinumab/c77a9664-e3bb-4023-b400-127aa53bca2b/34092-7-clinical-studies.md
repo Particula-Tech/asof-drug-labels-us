@@ -63,7 +63,7 @@ The median time to loss of PASI 75 response among the subjects randomized to tre
 
 A multicenter, randomized, double blind, placebo-controlled study (Ps STUDY 3) enrolled 110 adolescent subjects 12 to 17 years of age with a minimum BSA involvement of 10%, a PASI score greater than or equal to 12, and a PGA score greater than or equal to 3, who were candidates for phototherapy or systemic therapy and whose disease was inadequately controlled by topical therapy.
 
-Subjects were randomized to receive placebo (n = 37), the recommended dose of STELARA® (n = 36), or one-half the recommended dose of STELARA® (n = 37) by subcutaneous injection at Weeks 0 and 4 followed by dosing every 12 weeks (q12w).
+Subjects were randomized to receive placebo (n=37), the recommended dose of STELARA® (n=36), or one-half the recommended dose of STELARA® (n=37) by subcutaneous injection at Weeks 0 and 4 followed by dosing every 12 weeks (q12w).
 The recommended dose of STELARA® was 0.75 mg/kg for subjects weighing less than 60 kg, 45 mg for subjects weighing 60 kg to 100 kg, and 90 mg for subjects weighing greater than 100 kg.
 At Week 12, subjects who received placebo were crossed over to receive STELARA® at the recommended dose or one-half the recommended dose.
 
@@ -296,7 +296,7 @@ Table 15: Efficacy Endpoints of Maintenance at Week 44 in UC-2 (52 Weeks from In
 
 | N | % | N | % |  |  |
 | --- | --- | --- | --- | --- | --- |
-| Endpoint | PlaceboThe placebo group consisted of patients who were in response to STELARA® and were randomized to receive placebo at the start of maintenance therapy. N = 175Clinical response was defined as a decrease from baseline in the modified Mayo score by ≥30% and ≥2 points, with either a decrease from baseline in the rectal bleeding subscore ≥1 or a rectal bleeding subscore of 0 or 1. |  | 90 mg STELARA® every 8 weeks N = 176 |  | Treatment difference and 95% CI |
+| Endpoint | PlaceboThe placebo group consisted of patients who were in response to STELARA® and were randomized to receive placebo at the start of maintenance therapy. N=175Clinical response was defined as a decrease from baseline in the modified Mayo score by ≥30% and ≥2 points, with either a decrease from baseline in the rectal bleeding subscore ≥1 or a rectal bleeding subscore of 0 or 1. |  | 90 mg STELARA® every 8 weeks N=176 |  | Treatment difference and 95% CI |
 | Clinical RemissionClinical remission was defined as Mayo stool frequency subscore of 0 or 1, Mayo rectal bleeding subscore of 0, and Mayo endoscopy subscore of 0 or 1 (modified so that 1 does not include friability). | 46 | 26% | 79 | 45% | 19% (9%, 28%) p =<0.001 |
 | Bio-naïveAn additional 3 patients on placebo and 6 patients on STELARA® had been exposed to, but had not failed, biologics. | 30/84 | 36% | 39/79 | 49% |  |
 | Prior biologic failure | 16/88 | 18% | 37/91 | 41% |  |

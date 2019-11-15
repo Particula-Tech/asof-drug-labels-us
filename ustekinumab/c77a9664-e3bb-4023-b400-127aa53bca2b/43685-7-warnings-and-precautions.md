@@ -3,7 +3,7 @@
 ## 5.1 Infections
 
 STELARA® may increase the risk of infections and reactivation of latent infections.
-Serious bacterial, fungal, and viral infections were observed in subjects receiving STELARA® [see Adverse Reactions (6.1)].
+Serious bacterial, mycobacterial, fungal, and viral infections were observed in patients receiving STELARA® [see Adverse Reactions (6.1, 6.3)].
 
 Serious infections requiring hospitalization, or otherwise clinically significant infections, reported in clinical studies included the following:
 
