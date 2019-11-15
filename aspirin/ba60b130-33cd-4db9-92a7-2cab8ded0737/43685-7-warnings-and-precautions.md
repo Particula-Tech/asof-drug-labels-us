@@ -7,7 +7,7 @@ Significant bleeding can result from aspirin therapy in patients with peptic ulc
 Aspirin administered preoperatively may prolong the bleeding time.
 Butalbital is habit-forming and potentially abusable.
 Consequently, the extended use of butalbital, aspirin, and caffeine capsules is not recommended.
-Results from epidemiologic studies indicate an association between aspirin and Reye's Syndrome.
+Results from epidemiologic studies indicate an association between aspirin and Reye's syndrome.
 Caution should be used in administering this product to children, including teenagers, with chicken pox or flu.
 
 # PRECAUTIONS

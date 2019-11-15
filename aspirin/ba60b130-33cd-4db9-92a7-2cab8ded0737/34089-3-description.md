@@ -14,4 +14,4 @@ It has the following structural formula:
 Active Ingredients: aspirin, USP, butalbital, USP, and caffeine, USP.
 
 Inactive Ingredients: pregelatinized starch, microcrystalline cellulose, sodium starch glyco­late, trimyristin, talc, colloidal silicon dioxide, D&C Yellow No. 10, FD&C Green No. 3, and gelatin.
-The capsule imprinting ink contains: shellac glaze in ethanol, iron oxide black, n-butyl alcohol, propylene glycol, ethanol, methanol, FD&C Blue No. 2 Aluminum Lake, FD&C Red No. 40 Aluminum Lake, FD&C Blue No. 1 Aluminum Lake, and D&C Yellow No. 10 Aluminum Lake.
+The capsule imprinting ink contains: shellac glaze in ethanol, iron oxide black, n-butyl alcohol, propylene glycol, ethanol, methanol, FD&C Blue No. 2 Aluminum Lake, FD&C Red No. 40 Aluminum Lake, FD&C Blue No. 1 Aluminum Lake, and D&C Yellow No.10 Aluminum Lake.

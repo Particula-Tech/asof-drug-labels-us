@@ -28,7 +28,7 @@ The renal clearance is greatly augmented by an alkaline urine as is produced by 
 
 The biotransformation of aspirin occurs primarily in the hepatocytes.
 The major metabolites are salicyluric acid (75%), the phenolic and acyl glucuronides of salicylate (15%), and gentisic and gentisuric acid (1%).
-The bioavailability of the aspirin component of butalbital, aspirin, and caffeine capsules is equivalent to that of a solution except for a slower rate of absorption.
+The bioavailability of the aspirin component of butalbital, aspirin, and caffeine capsules is equivalent to that of a solution except for as lower rate of absorption.
 A peak concentration of 8.80 mcg/mL was obtained at 40 minutes after a 650 mg dose.
 
 See OVERDOSAGE for toxicity information.
@@ -41,7 +41,7 @@ They are bound to plasma and tissue proteins to a varying degree and binding inc
 
 Elimination of butalbital is primarily via the kidney (59% to 88% of the dose) as unchanged drug or metabolites.
 The plasma half-life is about 35 hours.
-Urinary excretion products included parent drug (about 3.6% of the dose), 5-isobutyl-5-(2,3-dihydroxypropyl) barbituric acid (about 24% of the dose), 5-allyl-5(3-hydroxy-2-methyl-1-propyl) barbituric acid (about 4.8% of the dose), products with the barbituric acid ring hydrolyzed with excretion of urea (about 14% of the dose), as well as unidentified materials.
+Urinary excretion products included parent drug (about 3.6% of the dose), 5-isobutyl-5-(2, 3-dihydroxypropyl) barbituric acid (about 24% of the dose), 5-allyl-5(3-hydroxy-2-methyl-1-propyl) barbituric acid (about 4.8% of the dose), products with the barbituric acid ring hydrolyzed with excretion of urea (about 14% of the dose), as well as unidentified materials.
 Of the material excreted in the urine, 32% was conjugated.
 
 The bioavailability of the butalbital component of butalbital, aspirin, and caffeine capsules is equivalent to that of a solution except for a decrease in the rate of absorption.

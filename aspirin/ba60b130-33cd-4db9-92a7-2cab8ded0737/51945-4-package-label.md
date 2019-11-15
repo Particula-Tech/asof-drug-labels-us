@@ -10,6 +10,6 @@ CIII
 
 Rx Only
 
-100 CAPSULES
+100 Capsules
 
 Lannett
