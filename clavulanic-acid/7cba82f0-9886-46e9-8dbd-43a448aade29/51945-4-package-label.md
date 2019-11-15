@@ -2,9 +2,9 @@
 
 NDC 0781-1874-31
 
-Amoxicillin and
+Amoxicillin
 
-Clavulanate
+And Clavulanate
 
 Potassium
 
@@ -12,7 +12,7 @@ Tablets, USP
 
 250 mg/125 mg*
 
-Rx only
+Rx Only
 
 30 Tablets
 
@@ -22,9 +22,9 @@ SANDOZ
 
 NDC 0781-1831-20
 
-Amoxicillin and
+Amoxicillin
 
-Clavulanate
+And Clavulanate
 
 Potassium
 
@@ -32,7 +32,7 @@ Tablets, USP
 
 500 mg/125 mg*
 
-Rx only
+Rx Only
 
 20 Tablets
 
@@ -42,9 +42,9 @@ SANDOZ
 
 NDC 0781-1852-20
 
-Amoxicillin and
+Amoxicillin
 
-Clavulanate
+And Clavulanate
 
 Potassium
 
@@ -52,7 +52,7 @@ Tablets, USP
 
 875 mg/125 mg*
 
-Rx only
+Rx Only
 
 20 Tablets
 
@@ -62,21 +62,19 @@ SANDOZ
 
 NDC 0781-6102-46
 
-Amoxicillin
+Amoxicillin and
 
-and Clavulanate
+Clavulanate
 
-Potassium for
+Potassium for Oral
 
-Oral Suspension,
-
-USP
+Suspension, USP
 
 200 mg/28.5 mg (per 5 mL)
 
 Rx only
 
-100 mL (when reconstitued)
+100 mL (when reconstituted)
 
 When reconstituted,
 
@@ -96,15 +94,13 @@ SANDOZ
 
 NDC 0781-6104-46
 
-Amoxicillin
+Amoxicillin and
 
-and Clavulanate
+Clavulanate
 
-Potassium for
+Potassium for Oral
 
-Oral Suspension,
-
-USP
+Suspension, USP
 
 400 mg/57 mg (per 5 mL)
 
