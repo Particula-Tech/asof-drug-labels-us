@@ -2,7 +2,7 @@
 
 NDC 0781-5325-31
 
-BromocriptineMesylate Tablets, USP
+Bromocriptine Mesylate Tablets, USP
 
 2.5 mg*
 

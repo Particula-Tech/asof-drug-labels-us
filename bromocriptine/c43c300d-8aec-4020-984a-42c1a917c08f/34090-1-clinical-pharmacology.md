@@ -29,7 +29,7 @@ In many acromegalic patients, bromocriptine mesylate produces a prompt and susta
 
 Absorption
 
-- Following single dose administration of bromocriptine mesylate tablets, 2 x 2.5 mg to 5 healthy volunteers under fasted conditions, the mean peak plasma levels of bromocriptine, time to reach peak plasma been concentrations and elimination half-life were 465 pg/mL ± 226, 2.5 hrs ± 2 and 4.85 hr, respectively.1 Linear relationship was found between single doses of bromocriptine mesylate and Cmax and AUC in the dose range of 1 to 7.5 mg.2 The pharmacokinetics of bromocriptine metabolites have not been reported.
+Following single dose administration of bromocriptine mesylate tablets, 2 x 2.5 mg to 5 healthy volunteers under fasted conditions, the mean peak plasma levels of bromocriptine, time to reach peak plasma been concentrations and elimination half-life were 465 pg/mL ± 226, 2.5 hrs ± 2 and 4.85 hr, respectively.1 Linear relationship was found between single doses of bromocriptine mesylate and Cmax and AUC in the dose range of 1 to 7.5 mg.2 The pharmacokinetics of bromocriptine metabolites have not been reported.
 
 Food did not significantly affect the systemic exposure of bromocriptine following administration of bromocriptine mesylate tablets, 2.5 mg.3 It is recommended that bromocriptine mesylate be taken with food because of the high percentage of subjects who vomit upon receiving bromocriptine under fasting conditions.
 

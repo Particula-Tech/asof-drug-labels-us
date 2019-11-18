@@ -20,18 +20,18 @@ On occasion, the drop in supine systolic pressure was as much as 50 to 59 mm of 
 
 Since, especially during the first days of treatment, hypotensive reactions may occasionally occur and result in reduced alertness, particular care should be exercised when driving a vehicle or operating machinery.
 
-While hypotension during the start of therapy with bromocriptinemesylate occurs in some patients, in rare cases serious adverse events, including hypertension, myocardial infarction, seizures, stroke, have been reported in post-partum women treated with bromocriptinemesylate.
+While hypotension during the start of therapy with bromocriptine mesylate occurs in some patients, in rare cases serious adverse events, including hypertension, myocardial infarction, seizures, stroke, have been reported in post-partum women treated with bromocriptine mesylate.
 Hypertension has been reported, sometimes at the initiation of therapy, but often developing in the second week of therapy; seizures have also been reported both with and without the prior development of hypertension; stroke has been reported mostly in postpartum patients whose prenatal and obstetric courses had been uncomplicated.
 Many of these patients experiencing seizures (including cases of status epilepticus) and/or strokes reported developing a constant and often progressively severe headache hours to days prior to the acute event.
 Some cases of strokes and seizures were also preceded by visual disturbances (blurred vision, and transient cortical blindness).
 Cases of acute myocardial infarction have also been reported.
 
-Although a causal relationship between bromocriptinemesylate administration and hypertension, seizures, strokes, and myocardial infarction in postpartum women has not been established, use of the drug in patients with uncontrolled hypertension is not recommended.
-In patients being treated for hyperprolactinemia, bromocriptinemesylate should be withdrawn when pregnancy is diagnosed (see PRECAUTIONS, Hyperprolactinemic States).
-In the event that bromocriptinemesylate is reinstituted to control a rapidly expanding macroadenoma (see PRECAUTIONS, Hyperprolactinemic States) and a patient experiences a hypertensive disorder of pregnancy, the benefit of continuing bromocriptinemesylate must be weighed against the possible risk of its use during a hypertensive disorder of pregnancy.
-When bromocriptinemesylate is being used to treat acromegaly or Parkinson's disease in patients who subsequently become pregnant, a decision should be made as to whether the therapy continues to be medically necessary or can be withdrawn.
-If it is continued, the drug should be withdrawn in those who may experience hypertensive disorders of pregnancy (including eclampsia, preeclampsia, or pregnancy-induced hypertension) unless withdrawal of bromocriptinemesylate is considered to be medically contraindicated.
-Because of the possibility of an interaction between bromocriptinemesylate and other ergot alkaloids, the concomitant use of these medications is not recommended.
+Although a causal relationship between bromocriptine mesylate administration and hypertension, seizures, strokes, and myocardial infarction in postpartum women has not been established, use of the drug in patients with uncontrolled hypertension is not recommended.
+In patients being treated for hyperprolactinemia, bromocriptine mesylate should be withdrawn when pregnancy is diagnosed (see PRECAUTIONS, Hyperprolactinemic States).
+In the event that bromocriptine mesylate is reinstituted to control a rapidly expanding macroadenoma (see PRECAUTIONS, Hyperprolactinemic States) and a patient experiences a hypertensive disorder of pregnancy, the benefit of continuing bromocriptine mesylate must be weighed against the possible risk of its use during a hypertensive disorder of pregnancy.
+When bromocriptine mesylate is being used to treat acromegaly or Parkinson's disease in patients who subsequently become pregnant, a decision should be made as to whether the therapy continues to be medically necessary or can be withdrawn.
+If it is continued, the drug should be withdrawn in those who may experience hypertensive disorders of pregnancy (including eclampsia, preeclampsia, or pregnancy-induced hypertension) unless withdrawal of bromocriptine mesylate is considered to be medically contraindicated.
+Because of the possibility of an interaction between bromocriptine mesylate and other ergot alkaloids, the concomitant use of these medications is not recommended.
 Periodic monitoring of the blood pressure, particularly during the first weeks of therapy is prudent.
 If hypertension, severe, progressive, or unremitting headache (with or without visual disturbance), or evidence of CNS toxicity develops, drug therapy should be discontinued and the patient should be evaluated promptly.
 Particular attention should be paid to patients who have recently been treated or are on concomitant therapy with drugs that can alter blood pressure.
