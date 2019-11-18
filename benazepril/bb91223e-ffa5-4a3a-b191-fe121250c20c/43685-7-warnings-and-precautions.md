@@ -4,6 +4,7 @@
 
 PREGNANCY CATEGORY D
 
+Benazepril hydrochloride tablets can cause fetal harm when administered to a pregnant woman.
 Use of drugs that act on the renin-angiotensin system during the second and third trimesters of pregnancy reduces fetal renal function and increases fetal and neonatal morbidity and death.
 Resulting oligohydramnios can be associated with fetal lung hypoplasia and skeletal deformations.
 Potential neonatal adverse effects include skull hypoplasia, anuria, hypotension, renal failure, and death.
@@ -22,7 +23,7 @@ Benazepril hydrochloride should be promptly discontinued and appropriate therapy
 Patients with a history of angioedema unrelated to ACE inhibitor therapy may be at increased risk of angioedema while receiving an ACE inhibitor [see Contraindications (4)].
 ACE inhibitors have been associated with a higher rate of angioedema in Black than in non-Black patients.
 
-Patients receiving coadministration of ACE inhibitor and mTOR (mammalian target of rapamycin) inhibitor (e.g., temsirolimus, sirolimus, everolimus) therapy may be at increased risk for angioedema.
+Patients receiving coadministration of ACE inhibitor and mTOR (mammalian target of rapamycin) inhibitor (e.g., temsirolimus, sirolimus, everolimus) therapy or a neprilysin inhibitor may be at increased risk for angioedema [see Drug Interactions (7.7)].
 
 Intestinal Angioedema
 
@@ -38,7 +39,7 @@ Two patients undergoing desensitizing treatment with hymenoptera venom while rec
 
 Anaphylactoid Reactions During Dialysis
 
-Sudden and potentially life threatening anaphylactoid reactions have occured in some patients dialyzed with high-flux membranes and treated concomitantly with an ACE inhibitor.
+Sudden and potentially life threatening anaphylactoid reactions have occurred in some patients dialyzed with high-flux membranes and treated concomitantly with an ACE inhibitor.
 In such patients, dialysis must be stopped immediately, and aggressive therapy for anaphylactoid reactions must be initiated.
 Symptoms have not been relieved by antihistamines in these situations.
 In these patients, consideration should be given to using a different type of dialysis membrane or a different class of antihypertensive agent.
@@ -53,8 +54,8 @@ Consider withholding or discontinuing therapy in patients who develop a clinical
 
 ## 5.4 Hypotension
 
-Benazepril hydrochloride can cause symptomatic hypotension, sometimes complicated by oliguria, progressive azotemia acute renal failure or death.
-Patients at risk of excessive hypotension include those with the following conditions or characteristics: heart failure with systolic blood pressure below 100 mmHg, ischemic heart disease, cerebrovascular disease, hyponatremia, high dose diuretic therapy, renal dialysis, or severe volume and/or salt depletion of any etiology.
+Benazepril hydrochloride can cause symptomatic hypotension, sometimes complicated by oliguria, progressive azotemia, acute renal failure, or death.
+Patients at risk of excessive hypotension include those with the following conditions or characteristics: heart failure with systolic blood pressure below 100 mm Hg, ischemic heart disease, cerebrovascular disease, hyponatremia, high dose diuretic therapy, renal dialysis, or severe volume and/or salt depletion of any etiology.
 
 In such patients, follow closely for the first 2 weeks of treatment and whenever the dose of benazepril or diuretic is increased.
 Avoid use of benazepril hydrochloride in patients who are hemodynamically unstable after acute MI.
@@ -67,7 +68,7 @@ If hypotension occurs, correct by volume expansion.
 ## 5.5 Hyperkalemia
 
 Serum potassium should be monitored periodically in patients receiving benazepril hydrochloride.
-Drugs that inhibit the renin angiotensin system can cause hyperkalemia.
+Drugs that inhibit the renin-angiotensin system can cause hyperkalemia.
 Risk factors for the development of hyperkalemia include renal insufficiency, diabetes mellitus, and the concomitant use of potassium-sparing diuretics, potassium supplements and/or potassium-containing salt substitutes [see Drug Interactions (7.1)].
 
 ## 5.6 Hepatic Failure
