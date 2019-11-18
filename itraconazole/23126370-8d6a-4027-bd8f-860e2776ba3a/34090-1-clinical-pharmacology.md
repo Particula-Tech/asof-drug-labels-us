@@ -64,7 +64,7 @@ Plasma concentration-versus-time profiles showed wide intersubject variation in 
 After a single intravenous dose, the mean terminal half-lives of itraconazole in patients with mild (defined in this study as CrCl 50 to 79 mL/min), moderate (defined in this study as CrCl 20 to 49 mL/min), and severe renal impairment (defined in this study as CrCl <20 mL/min) were similar to that in healthy subjects (range of means 42 to 49 hours vs 48 hours in renally impaired patients and healthy subjects, respectively).
 Overall exposure to itraconazole, based on AUC, was decreased in patients with moderate and severe renal impairment by approximately 30% and 40%, respectively, as compared with subjects with normal renal function.
 Data are not available in renally impaired patients during long-term use of itraconazole.
-Dialysis has no effect on the half-life or clearance of itraconazole or hydroxyl-itraconazole.
+Dialysis has no effect on the half-life or clearance of itraconazole or hydroxy-itraconazole.
 (See PRECAUTIONS and DOSAGE AND ADMINISTRATION.)
 
 Hepatic Impairment:
