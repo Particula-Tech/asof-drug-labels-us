@@ -13,10 +13,9 @@
 
 The design and overall results of the 3 large trials comparing higher and lower hemoglobin targets are shown in Table 1.
 
-Table 1: Randomized Controlled Trials Showing Adverse Cardiovascular Outcomes in Patients With CKD
-
-|  | Normal Hematocrit Study (NHS) (N = 1265) | CHOIR (N = 1432) | TREAT (N = 4038) |
+| Table 1: Randomized Controlled Trials Showing Adverse Cardiovascular Outcomes in Patients With CKD |  |  |  |
 | --- | --- | --- | --- |
+|  | Normal Hematocrit Study (NHS) (N = 1265) | CHOIR (N = 1432) | TREAT (N = 4038) |
 | Time Period of Trial | 1993 to 1996 | 2003 to 2006 | 2004 to 2009 |
 | Population | CKD patients on hemodialysis with coexisting CHF or CAD, hematocrit 30 ± 3% on epoetin alfa | CKD patients not on dialysis with hemoglobin < 11 g/dL not previously administered epoetin alfa | CKD patients not on dialysis with type II diabetes, hemoglobin ≤ 11 g/dL |
 | Hemoglobin Target; Higher vs. Lower (g/dL) | 14.0 vs. 10.0 | 13.5 vs. 11.3 | 13.0 vs. ≥ 9.0 |
@@ -89,13 +88,7 @@ Randomized, Controlled Studies With Decreased Survival and/or Decreased Locoregi
 | No Chemotherapy or Radiotherapy |  |  |  |  |
 | Study 8 Non-small cell lung cancer (n = 70) | 12-14 g/dL | Not available | Quality of life | Decreased overall survival |
 | Study 9 Non-myeloid malignancy (n = 989) | 12-13 g/dL | 10.6 g/dL; 9.4, 11.8 g/dL | RBC transfusions | Decreased overall survival |
-
-*Q1= 25th percentile;
-
-Q3= 75th percentile
-
-†This study did not include a defined hemoglobin target.
-Doses were titrated to achieve and maintain the lowest hemoglobin level sufficient to avoid transfusion and not to exceed 12 g/dL.
+| *Q1= 25th percentile; Q3= 75th percentile †This study did not include a defined hemoglobin target. Doses were titrated to achieve and maintain the lowest hemoglobin level sufficient to avoid transfusion and not to exceed 12 g/dL. |  |  |  |  |
 
 Decreased Overall Survival
 

@@ -104,10 +104,7 @@ Study C1: Proportion of Patients Transfused
 | All Regimens | 14% (25/174)b | 28% (48/170) |
 | Regimens without cisplatin | 14% (21/148) | 26% (35/137) |
 | Regimens containing cisplatin | 15% (4/26) | 39% (13/33) |
-
-aLast-known RBC transfusion status carried forward for patients who discontinued treatment.
-
-bTwo-sided p < 0.001, logistic regression analysis adjusting for accrual rate and stratification variables
+| aLast-known RBC transfusion status carried forward for patients who discontinued treatment. bTwo-sided p < 0.001, logistic regression analysis adjusting for accrual rate and stratification variables |  |  |
 
 Study C2
 
@@ -134,10 +131,7 @@ Table 10: Proportion of Patients Transfused in the Pooled Analysis for Three Tim
 | All Regimens | 22% (11/51)b | 43% (25/58) |
 | Regimens without cisplatin | 21% (6/29) | 33% (11/33) |
 | Regimens containing cisplatin | 23% (5/22) | 56% (14/25) |
-
-a Limited to patients remaining on study beyond week 6 and includes only RBC transfusions during weeks 5-12.
-
-bTwo-sided p < 0.05, unadjusted
+| a Limited to patients remaining on study beyond week 6 and includes only RBC transfusions during weeks 5-12. bTwo-sided p < 0.05, unadjusted |  |  |
 
 ## 14.4 Surgery Patients
 

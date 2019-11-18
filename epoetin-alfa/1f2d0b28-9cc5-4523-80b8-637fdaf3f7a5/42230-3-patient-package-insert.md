@@ -1,8 +1,5 @@
-Instructions for Use
-
-Epogen® (Ee-po-jen)
-
-(epoetin alfa)
+| Instructions for Use Epogen® (Ee-po-jen) (epoetin alfa) |
+| --- |
 
 Use these Instructions for Use if you or your caregiver has been trained to give Epogen injections at home.
 Do not give yourself the injection unless you have received training from your healthcare provider.
@@ -96,7 +93,7 @@ See Figures 3 and 4.
 8.
 Check the package containing the syringe.
 If the package has been opened or damaged, do not use that syringe.
-Throw away the syringe in the puncture proof disposable container.
+Throw away the syringe in the puncture-proof disposable container.
 If the syringe package is undamaged, open the package and remove the syringe.
 
 9.
@@ -149,66 +146,79 @@ In patients on hemodialysis, the intravenous (IV) route is recommended.
 1.
 Subcutaneous Route:
 
-- Epogen can be injected directly into a layer of fat under your skin.
-  This is called a subcutaneous injection.
-  When giving subcutaneous injections, follow your healthcare provider’s instructions about changing the site for each injection.
-  You may wish to write down the site where you have injected.
-- Do not inject Epogen into an area that is tender, red, bruised, hard, or has scars or stretch marks.
-  Recommended sites for injection are shown in Figure 11 below, including: ○ The outer area of the upper arms ○ The abdomen (except for the 2-inch area around the navel) ○ The front of the middle thighs ○ The upper outer area of the buttocks
+• Epogen can be injected directly into a layer of fat under your skin.
+This is called a subcutaneous injection.
+When giving subcutaneous injections, follow your healthcare provider’s instructions about changing the site for each injection.
+You may wish to write down the site where you have injected.
 
-- Clean the skin with an alcohol wipe where the injection is to be made.
-  Be careful not to touch the skin that has been wiped clean.
-  See Figure 12.
+• Do not inject Epogen into an area that is tender, red, bruised, hard, or has scars or stretch marks.
+Recommended sites for injection are shown in Figure 11 below, including:
 
-- Double-check that the correct amount of Epogen is in the syringe.
-- Remove the prepared syringe and needle from the vial of Epogen and hold it in the hand that you will use to inject the medicine.
-- Use the other hand to pinch a fold of skin at the cleaned injection site.
-  Do not touch the cleaned area of skin.
-  See Figure 13.
+○ The outer area of the upper arms ○ The abdomen (except for the 2-inch area around the navel) ○ The front of the middle thighs ○ The upper outer area of the buttocks
 
-- Hold the syringe like you would hold a pencil.
-  Use a quick “dart-like” motion to insert the needle either straight up and down (90-degree angle) or at a slight angle (45 degrees) into the skin.
-  Inject the prescribed dose subcutaneously as directed by your doctor, nurse or pharmacist.
-  See Figure 14.
+• Clean the skin with an alcohol wipe where the injection is to be made.
+Be careful not to touch the skin that has been wiped clean.
+See Figure 12.
 
-- Pull the needle out of the skin and press a cotton ball or gauze over the injection site and hold it there for several seconds.
-  Do not recap the needle.
-- Dispose of the used syringe and needle as described below.
-  Do not reuse syringes and needles.
+• Double-check that the correct amount of Epogen is in the syringe.
+
+• Remove the prepared syringe and needle from the vial of Epogen and hold it in the hand that you will use to inject the medicine.
+
+• Use the other hand to pinch a fold of skin at the cleaned injection site.
+Do not touch the cleaned area of skin.
+See Figure 13.
+
+• Hold the syringe like you would hold a pencil.
+Use a quick “dart-like” motion to insert the needle either straight up and down (90-degree angle) or at a slight angle (45 degrees) into the skin.
+Inject the prescribed dose subcutaneously as directed by your doctor, nurse or pharmacist.
+See Figure 14.
+
+• Pull the needle out of the skin and press a cotton ball or gauze over the injection site and hold it there for several seconds.
+Do not recap the needle.
+
+• Dispose of the used syringe and needle as described below.
+Do not reuse syringes and needles.
 
 2.
 Intravenous Route:
 
-- Epogen can be injected in your vein through a special access port placed by your healthcare provider.
-  This type of Epogen injection is called an intravenous (IV) injection.
-  This route is usually for hemodialysis patients.
-- If you have a dialysis vascular access, make sure it is working by checking it as your healthcare provider has shown you.
-  Be sure to let your healthcare provider know right away if you are having any problems, or if you have any questions.
-- Wipe off the venous port of the hemodialysis tubing with an alcohol wipe.
-  See Figure 15.
+• Epogen can be injected in your vein through a special access port placed by your healthcare provider.
+This type of Epogen injection is called an intravenous (IV) injection.
+This route is usually for hemodialysis patients.
 
-- Insert the needle of the syringe into the cleaned venous port and push the plunger all the way down to inject all the Epogen.
-  See Figure 16.
+• If you have a dialysis vascular access, make sure it is working by checking it as your healthcare provider has shown you.
+Be sure to let your healthcare provider know right away if you are having any problems, or if you have any questions.
 
-- Remove the syringe from the venous port.
-  Do not recap the needle.
-- Dispose of the used syringe and needle as described below.
+• Wipe off the venous port of the hemodialysis tubing with an alcohol wipe.
+See Figure 15.
+
+• Insert the needle of the syringe into the cleaned venous port and push the plunger all the way down to inject all the Epogen.
+See Figure 16.
+
+• Remove the syringe from the venous port.
+Do not recap the needle.
+
+• Dispose of the used syringe and needle as described below.
 
 How should I dispose of the vials, syringes, and needles?
 
 Do not reuse the single-dose vials, syringes, or needles.
 Throw away the vials, syringes, and needles as instructed by your healthcare provider or by following these steps:
 
-- Do not throw the vials, syringes, or needles in the household trash or recycle.
-- Do not put the needle cover back on the needle.
-- Place all used needles and syringes in a puncture-proof disposable container with a lid.
-  Do not use glass or clear plastic containers, or any container that will be recycled or returned to a store.
-- Keep the puncture-proof disposable container out of the reach of children.
-- When the puncture-proof disposable container is full, tape around the cap or lid to make sure the cap or lid does not come off.
-  Throw away the puncture-proof disposable container as instructed by your healthcare provider.
-  There may be special state and local laws for disposing of used needles and syringes.
-  Do not throw the puncture-proof disposable container in the household trash.
-  Do not recycle.
+• Do not throw the vials, syringes, or needles in the household trash or recycle.
+
+• Do not put the needle cover back on the needle.
+
+• Place all used needles and syringes in a puncture-proof disposable container with a lid.
+Do not use glass or clear plastic containers, or any container that will be recycled or returned to a store.
+
+• Keep the puncture-proof disposable container out of the reach of children.
+
+• When the puncture-proof disposable container is full, tape around the cap or lid to make sure the cap or lid does not come off.
+Throw away the puncture-proof disposable container as instructed by your healthcare provider.
+There may be special state and local laws for disposing of used needles and syringes.
+Do not throw the puncture-proof disposable container in the household trash.
+Do not recycle.
 
 Keep Epogen and all medicines out of reach of children.
 

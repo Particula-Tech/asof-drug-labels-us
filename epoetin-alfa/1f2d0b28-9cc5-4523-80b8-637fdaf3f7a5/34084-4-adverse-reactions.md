@@ -147,12 +147,7 @@ Adverse Reactions in Surgery Patients
 | Hypertension | 5% | 3% | 5% | 5% | 6% |
 | Rash | 2% | 2% | 1% | 3% | 3% |
 | Edema | 1% | 2% | 2% | 1% | 3% |
-
-aStudy included patients undergoing orthopedic surgery treated with Epogen or placebo for 15 days.
-
-bStudy included patients undergoing orthopedic surgery treated with Epogen 600 U/kg weekly for 4 weeks or 300 U/kg daily for 15 days.
-
-cDVTs were determined by clinical symptoms.
+| aStudy included patients undergoing orthopedic surgery treated with Epogen or placebo for 15 days. bStudy included patients undergoing orthopedic surgery treated with Epogen 600 U/kg weekly for 4 weeks or 300 U/kg daily for 15 days. cDVTs were determined by clinical symptoms. |  |  |  |  |  |
 
 ## 6.2 Postmarketing Experience
 
