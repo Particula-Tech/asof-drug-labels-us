@@ -1,4 +1,6 @@
-Principal Display Panel - Case Label glenmark
+# PACKAGE LABEL - PRINCIPAL DISPLAY PANEL - Azathioprine Tablets USP 50mg
+
+glenmark
 
 NDC 68462-502-01
 
