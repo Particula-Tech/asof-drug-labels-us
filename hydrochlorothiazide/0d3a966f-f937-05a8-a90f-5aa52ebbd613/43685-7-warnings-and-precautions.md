@@ -228,13 +228,13 @@ The antihypertensive effect of ACE inhibitors, including lisinopril, may be atte
 
 Dual Blockade of the Renin-Angiotensin System (RAS) Dual blockade of the RAS with angiotensin receptor blockers, ACE inhibitors, or aliskiren is associated with increased risks of hypotension, hyperkalemia, and changes in renal function (including acute renal failure) compared to monotherapy.
 
-The VA NEPHRON trial enrolled 1448 patients with type 2 diabetes, elevated urinary-albumin-to-creatinine ratio, and decreased estimated glomerular filtration rate (GFR 30 to 89.9 ml/min), randomized them to lisinopril or placebo on a background of losartan therapy and followed them for a median of 2.2 years.
+The VA NEPHRON trial enrolled 1448 patients with type 2 diabetes, elevated urinary-albumin-to-creatinine ratio, and decreased estimated glomerular filtration rate (GFR 30 mL/min to 89.9 mL/min), randomized them to lisinopril or placebo on a background of losartan therapy and followed them for a median of 2.2 years.
 Patients receiving the combination of losartan and lisinopril did not obtain any additional benefit compared to monotherapy for the combined endpoint of decline in GFR, end state renal disease, or death, but experienced an increased incidence of hyperkalemia and acute kidney injury compared with the monotherapy group.
 
 In general, avoid combined use of RAS inhibitors, closely monitor blood pressure, renal function and electrolytes in patients on ZESTORETIC and other agents that affect the RAS.
 
 Do not co-administer aliskiren with ZESTORETIC in patients with diabetes.
-Avoid use of aliskiren with ZESTORETIC in patients with renal impairment (GFR < 60 ml/min).
+Avoid use of aliskiren with ZESTORETIC in patients with renal impairment (GFR < 60 mL/min).
 
 Other Agents: Lisinopril has been used concomitantly with nitrates and/or digoxin without evidence of clinically significant adverse interactions.
 No meaningful clinically important pharmacokinetic interactions occurred when lisinopril was used concomitantly with propranolol, digoxin, or hydrochlorothiazide.
