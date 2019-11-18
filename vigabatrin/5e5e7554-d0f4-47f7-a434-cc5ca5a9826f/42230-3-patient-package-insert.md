@@ -1,6 +1,6 @@
 INSTRUCTIONS FOR USE
 
-VIGADRONE™ (vigabatrin) Powder for oral solution
+VIGADRONE® (vi-ga-drōne) (vigabatrin) Powder for oral solution
 
 Read this Instructions for Use before your child starts taking VIGADRONE and each time you get a refill.
 There may be new information.
@@ -98,6 +98,10 @@ For Instructions for Use, please visit www.upsher-smith.com or call 1-888-650-37
 
 Manufactured for UPSHER-SMITH LABORATORIES, LLC Maple Grove, MN 55369
 
+VIGADRONE is a registered trademark of Upsher-Smith Laboratories, LLC.
+
 Made in Germany
 
-Revised 0218
+PN0040
+
+Revised 0919

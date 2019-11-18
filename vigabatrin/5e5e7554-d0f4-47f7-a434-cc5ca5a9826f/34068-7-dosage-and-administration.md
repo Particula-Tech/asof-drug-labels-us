@@ -9,7 +9,7 @@ Use the lowest dosage and shortest exposure to VIGADRONE consistent with clinica
 The VIGADRONE dosing regimen depends on the indication, age group, weight, and dosage form (tablets or powder for oral solution) [see Dosage and Administration (2.2, 2.3)].
 Patients with impaired renal function require dose adjustment [see Dosage and Administration (2.4)].
 
-VIGADRONE tablets and powder for oral solution are bioequivalent.
+Vigabatrin tablets and powder for oral solution are bioequivalent.
 Either tablet or powder can be used for CPS.
 Powder for oral solution should be used for IS; tablets should not be used for IS because of difficulty in the administration of tablets to infants and young children.
 
