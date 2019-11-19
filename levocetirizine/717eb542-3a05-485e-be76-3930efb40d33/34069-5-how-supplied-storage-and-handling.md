@@ -3,11 +3,13 @@
 Levocetirizine dihydrochloride tablets, USP are white to off white, oval shaped biconvex, film-coated tablet debossed with 'I' and '12' on one side and score line on the other side and contain 5 mg levocetirizine dihydrochloride.
 They are supplied in
 
-1) Bottles of 90's tablets NDC 42571-122-90
+1) Bottles of 30's tablets NDC 42571-122-30
 
-2) Bottles of 500's tablets NDC 42571-122-05
+2) Bottles of 90's tablets NDC 42571-122-90
 
-3) Carton of 10x10 Unit-dose Tablets NDC 42571-122-32
+3) Bottles of 500's tablets NDC 42571-122-05
+
+4) Carton of 10x10 Unit-dose Tablets NDC 42571-122-32
 
 Storage
 
