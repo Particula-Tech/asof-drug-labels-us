@@ -20,7 +20,7 @@ Carvedilol significantly reduced systemic blood pressure, pulmonary artery press
 
 Among 839 subjects with NYHA class II-III heart failure treated for 26 to 52 weeks in 4 U.S. placebo-controlled trials, average left ventricular ejection fraction (EF) measured by radionuclide ventriculography increased by 9 EF units (%) in subjects receiving carvedilol and by 2 EF units in placebo subjects at a target dose of 25 to 50 mg twice daily.
 The effects of carvedilol on ejection fraction were related to dose.
-Doses of 6.25 mg twice daily, 12.5 mg twice daily, and 25 mg twice daily were associated with placebo-corrected increases in EF of 5 EF units, 6 EF units, and 8 EF units, respectively; each of these effects were nominally statistically significant
+Doses of 6.25 mg twice daily, 12.5 mg twice daily, and 25 mg twice daily were associated with placebo-corrected increases in EF of 5 EF units, 6 EF units, and 8 EF units, respectively; each of these effects were nominally statistically significant.
 
 Left Ventricular Dysfunction following Myocardial Infarction
 
@@ -113,11 +113,11 @@ Since carvedilol undergoes substantial oxidative metabolism, the metabolism and 
 
 Amiodarone
 
-In a pharmacokinetic trial conducted in 106 Japanese subjects with heart failure, coadministration of small loading and maintenance doses of amiodarone with carvedilol resulted in at least a 2-fold increase in the steady-state trough concentrations of S(-) carvedilol [see Drug Interactions (7.6)].
+In a pharmacokinetic trial conducted in 106 Japanese subjects with heart failure, coadministration of small loading and maintenance doses of amiodarone with carvedilol resulted in at least a 2-fold increase in the steady-state trough concentrations of S(-)-carvedilol [see Drug Interactions (7.6)].
 
 Cimetidine
 
-In a pharmacokinetic trial conducted in 10 healthy male subjects, cimetidine (1,000 mg per day) increased the steady-state AUC of carvedilol by 30% with no change in Cmax[see Drug Interactions (7.5)].
+In a pharmacokinetic trial conducted in 10 healthy male subjects, cimetidine (1,000 mg per day) increased the steady-state AUC of carvedilol by 30% with no change in Cmax [see Drug Interactions (7.5)].
 
 Digoxin
 

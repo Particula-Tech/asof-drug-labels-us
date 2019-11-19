@@ -1,8 +1,6 @@
-# Patient Package Insert
+# Patient Information
 
-Patient Information
-
-Carvedilol (kar´ve dil ol) Tablets USP
+Carvedilol (kar´ve dil ol) Tablets, USP
 
 Read the Patient Information that comes with carvedilol tablets before you start taking it and each time you get a refill.
 There may be new information.
@@ -15,9 +13,9 @@ Carvedilol tablets are a prescription medicine that belongs to a group of medici
 
 Carvedilol tablets are used, often with other medicines, for the following conditions:
 
-- to treat patients with certain types of heart failure
-- to treat patients who had a heart attack that worsened how well the heart pumps
-- to treat patients with high blood pressure (hypertension)
+- •to treat patients with certain types of heart failure
+- •to treat patients who had a heart attack that worsened how well the heart pumps
+- •to treat patients with high blood pressure (hypertension)
 
 Carvedilol tablets are not approved for use in children under 18 years of age.
 
@@ -79,22 +77,22 @@ If your doctor decides that you should stop taking carvedilol tablets, your doct
 
 What should I avoid while taking Carvedilol Tablets?
 
-- Carvedilol tablets can cause you to feel dizzy, tired, or faint.
+- •Carvedilol tablets can cause you to feel dizzy, tired, or faint.
   Do not drive a car, use machinery, or do anything that needs you to be alert if you have these symptoms.
 
 What are possible side effects of Carvedilol Tablets?
 
-- Low blood pressure (which may cause dizziness or fainting when you stand up).
+- •Low blood pressure (which may cause dizziness or fainting when you stand up).
   If these happen, sit or lie down right away and tell your doctor.
-- Tiredness.
+- •Tiredness.
   If you feel tired or dizzy you should not drive, use machinery, or do anything that needs you to be alert.
-- Slow heartbeat.
-- Changes in your blood sugar.
+- •Slow heartbeat.
+- •Changes in your blood sugar.
   If you have diabetes, tell your doctor if you have any changes in your blood sugar levels.
-- Carvedilol tablets may hide some of the symptoms of low blood sugar, especially a fast heartbeat.
-- Carvedilol tablets may mask the symptoms of hyperthyroidism (overactive thyroid).
-- Worsening of severe allergic reactions.
-- Rare but serious allergic reactions (including hives or swelling of the face, lips, tongue, and/or throat that may cause difficulty in breathing or swallowing) have happened in patients who were on carvedilol tablets.
+- •Carvedilol tablets may hide some of the symptoms of low blood sugar, especially a fast heartbeat.
+- •Carvedilol tablets may mask the symptoms of hyperthyroidism (overactive thyroid).
+- •Worsening of severe allergic reactions.
+- •Rare but serious allergic reactions (including hives or swelling of the face, lips, tongue, and/or throat that may cause difficulty in breathing or swallowing) have happened in patients who were on carvedilol tablets.
   These reactions can be life-threatening.
 
 Other side effects of carvedilol tablets include shortness of breath, weight gain, diarrhea, and fewer tears or dry eyes that become bothersome if you wear contact lenses.
@@ -106,7 +104,7 @@ You may report side effects to FDA at 1-800-FDA-1088.
 
 How should I store Carvedilol Tablets?
 
-- •Store carvedilol tablets at 20° to 25°C (68° to 77°F) [See USP Controlled Room Temperature].
+- •Store carvedilol tablets at 20°C to 25°C (68°F to 77°F) [see USP Controlled Room Temperature].
   Protect from moisture.
   Dispense in a tight container.
 - •Safely, throw away carvedilol tablets that are out of date or no longer needed.
@@ -122,7 +120,7 @@ It may harm them.
 This leaflet summarizes the most important information about carvedilol tablets.
 If you would like more information, talk with your doctor.
 You can ask your doctor or pharmacist for information about carvedilol tablets that is written for healthcare professionals.
-You can also find out more about carvedilol tablets by calling 1 (888)721-7115.
+You can also find out more about carvedilol tablets by calling 1 (888) 721-7115.
 This call is free.
 
 What are the ingredients in Carvedilol Tablets?
@@ -131,7 +129,7 @@ Active Ingredient: carvedilol.
 
 Inactive Ingredients: colloidal silicon dioxide, crospovidone, hypromellose, lactose monohydrate, magnesium stearate, polyethylene glycol, polysorbate 80, povidone and titanium dioxide.
 
-Carvedilol tablets USP come in the following strengths: 3.125 mg, 6.25 mg, 12.5 mg, 25 mg.
+Carvedilol tablets, USP come in the following strengths: 3.125 mg, 6.25 mg, 12.5 mg, 25 mg.
 
 What is high blood pressure (hypertension)?
 
@@ -148,8 +146,8 @@ Glenmark Pharmaceuticals Ltd. India
 Manufactured for: Glenmark Pharmaceuticals Inc., USA Mahwah, NJ 07430
 
 Questions?
-1 (888)721-7115
+1 (888) 721-7115
 
-www.glenmarkpharma.com/usa
+www.glenmarkpharma-us.com
 
-September 2018
+September 2019

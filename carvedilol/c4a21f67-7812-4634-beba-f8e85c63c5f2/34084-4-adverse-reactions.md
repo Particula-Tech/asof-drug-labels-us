@@ -10,17 +10,17 @@ Adverse events reported for each of these patient populations are provided below
 Excluded are adverse events considered too general to be informative, and those not reasonably associated with the use of the drug because they were associated with the condition being treated or are very common in the treated population.
 Rates of adverse events were generally similar across demographic subsets (men and women, elderly and non-elderly, blacks and non-blacks).
 
-Heart Failure:
+Heart Failure
 
 Carvedilol has been evaluated for safety in heart failure in more than 4,500 subjects worldwide of whom more than 2,100 participated in placebo-controlled clinical trials.
 Approximately 60% of the total treated population in placebo-controlled clinical trials received carvedilol for at least 6 months and 30% received carvedilol for at least 12 months.
-In the COMET trial, 1,511 subjects with mild-to-moderate heart failure were treated with carvedilol for up to 5.9 years (mean 4.8 years).
+In the COMET trial, 1,511 subjects with mild-to-moderate heart failure were treated with carvedilol for up to 5.9 years (mean: 4.8 years).
 Both in U.S. clinical trials in mild-to-moderate heart failure that compared carvedilol in daily doses up to 100 mg (n = 765) with placebo (n = 437), and in a multinational clinical trial in severe heart failure (COPERNICUS) that compared carvedilol in daily doses up to 50 mg (n = 1,156) with placebo (n = 1,133), discontinuation rates for adverse experiences were similar in carvedilol and placebo subjects.
-In placebo-controlled clinical trials, the only cause of discontinuation greater than 1%, and occurring more often on carvedilol was dizziness (1.3% on carvedilol, 0.6% on placebo in the COPERNICUS trial).
+In placebo-controlled clinical trials, the only cause of discontinuation greater than 1% and occurring more often on carvedilol was dizziness (1.3% on carvedilol, 0.6% on placebo in the COPERNICUS trial).
 
 Table 1 shows adverse events reported in subjects with mild-to-moderate heart failure enrolled in U.S. placebo-controlled clinical trials, and with severe heart failure enrolled in the COPERNICUS trial.
 Shown are adverse events that occurred more frequently in drug-treated subjects than placebo-treated subjects with an incidence of greater than 3% in subjects treated with carvedilol regardless of causality.
-Median trial medication exposure was 6.3 months for both carvedilol and placebo subjects in the trials of mild-to-moderate heart failure, and 10.4 months in the trial of subjects with severe heart failure.
+Median trial medication exposure was 6.3 months for both carvedilol and placebo subjects in the trials of mild-to-moderate heart failure and 10.4 months in the trial of subjects with severe heart failure.
 The adverse event profile of carvedilol observed in the long-term COMET trial was generally similar to that observed in the U.S. Heart Failure Trials.
 
 Table 1.
@@ -90,7 +90,7 @@ Although there was no overall difference in discontinuation rates, discontinuati
 The overall incidence of adverse events in U.S. placebo-controlled trials increased with increasing dose of carvedilol.
 For individual adverse events this could only be distinguished for dizziness, which increased in frequency from 2% to 5% as total daily dose increased from 6.25 mg to 50 mg.
 
-Table 2 shows adverse events in U.S. placebo-controlled clinical trials for hypertension that occurred with an incidence of greater than or equal to 1% regardless of causality, and that were more frequent in drug-treated subjects than placebo-treated subjects.
+Table 2 shows adverse events in U.S. placebo-controlled clinical trials for hypertension that occurred with an incidence of greater than or equal to 1% regardless of causality and that were more frequent in drug-treated subjects than placebo-treated subjects.
 
 Table 2.
 Adverse Events (%) Occurring in U.S. Placebo-Controlled Hypertension Trials (Incidence ≥ 1%, Regardless of Causality)a

@@ -51,7 +51,7 @@ The mean dose of carvedilol was 42 mg per day.
 The trial had 2 primary end points: all-cause mortality and the composite of death plus hospitalization for any reason.
 The results of COMET are presented in Table 3 below.
 All-cause mortality carried most of the statistical weight and was the primary determinant of the trial size.
-All-cause mortality was 34% in the subjects treated with carvedilol and was 40% in the immediate-release metoprolol group (P = 0.0017; hazard ratio = 0.83, 95%CI 0.74 to 0.93).
+All-cause mortality was 34% in the subjects treated with carvedilol and was 40% in the immediate-release metoprolol group (P = 0.0017; hazard ratio = 0.83, 95% CI 0.74 to 0.93).
 The effect on mortality was primarily due to a reduction in cardiovascular death.
 The difference between the 2 groups with respect to the composite end point was not significant (P = 0.122).
 The estimated mean survival was 8 years with carvedilol and 6.6 years with immediate-release metoprolol.

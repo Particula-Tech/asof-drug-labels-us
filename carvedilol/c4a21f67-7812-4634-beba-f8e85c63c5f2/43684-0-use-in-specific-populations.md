@@ -45,7 +45,7 @@ The developmental and health benefits of breastfeeding should be considered alon
 
 Effectiveness of carvedilol in patients younger than 18 years has not been established.
 
-In a double-blind trial, 161 children (mean age: 6 years, range: 2 months to 17 years; 45% younger than 2 years) with chronic heart failure [NYHA class II-IV, left ventricular ejection fraction less than 40% for children with a systemic left ventricle (LV), and moderate-severe ventricular dysfunction qualitatively by echo for those with a systemic ventricle that was not an LV] who were receiving standard background treatment were randomized to placebo or to 2 dose levels of carvedilol.
+In a double-blind trial, 161 children (mean age: 6 years; range: 2 months to 17 years; 45% younger than 2 years) with chronic heart failure [NYHA class II-IV, left ventricular ejection fraction less than 40% for children with a systemic left ventricle (LV), and moderate-severe ventricular dysfunction qualitatively by echo for those with a systemic ventricle that was not an LV] who were receiving standard background treatment were randomized to placebo or to 2 dose levels of carvedilol.
 These dose levels produced placebo-corrected heart rate reduction of 4 to 6 heart beats per minute, indicative of β-blockade activity.
 Exposure appeared to be lower in pediatric subjects than adults.
 After 8 months of follow-up, there was no significant effect of treatment on clinical outcomes.
