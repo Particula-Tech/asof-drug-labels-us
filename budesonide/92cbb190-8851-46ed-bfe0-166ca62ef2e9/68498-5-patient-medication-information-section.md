@@ -67,21 +67,21 @@ UCERIS can cause some serious side effects, including:
 - •Effects of having too much corticosteroid medicine in your blood (hypercorticism).
   Long-time use of UCERIS extended release tablets can cause you to have too much glucocorticosteroid medicine in your blood.
   Tell your healthcare provider if you have any of the following signs and symptoms of hypercorticism:
-- oacne
-- obruise easily
-- orounding of your face (moon face)
-- oankle swelling
-- othicker or more hair on your body and face
-- oa fatty pad or hump between your shoulders (buffalo hump)
-- opink or purple stretch marks on the skin of your abdomen, thighs, breasts and arms
+- •acne
+- •bruise easily
+- •rounding of your face (moon face)
+- •ankle swelling
+- •thicker or more hair on your body and face
+- •a fatty pad or hump between your shoulders (buffalo hump)
+- •pink or purple stretch marks on the skin of your abdomen, thighs, breasts and arms
 - •Adrenal suppression.
   When UCERIS extended release tablets is taken for a long period of time (chronic use), the adrenal glands do not make enough steroid hormones (adrenal suppression).
   Tell your healthcare provider if you are under stress or have any symptoms of adrenal suppression during treatment with UCERIS extended release tablets including:
-- otiredness
-- oweakness
-- onausea
-- ovomiting
-- olow blood pressure
+- •tiredness
+- •weakness
+- •nausea
+- •vomiting
+- •low blood pressure
 - •Immune system effects and a higher chance of infections.
 
 UCERIS extended release tablets weaken your immune system.
@@ -90,12 +90,12 @@ Avoid contact with people who have contagious diseases such as chickenpox or mea
 
 Tell your health care provider about any signs or symptoms of infection during treatment with UCERIS extended release tablets, including:
 
-- ofever
-- opain
-- oaches
-- ochills
-- ofeeling tired
-- onausea and vomiting
+- •fever
+- •pain
+- •aches
+- •chills
+- •feeling tired
+- •nausea and vomiting
 - •Worsening of allergies.
   If you take certain other corticosteroid medicines to treat allergies, switching to UCERIS extended release tablets may cause your allergies to come back.
   These allergies may include eczema (a skin disease) or rhinitis (inflammation inside your nose).
