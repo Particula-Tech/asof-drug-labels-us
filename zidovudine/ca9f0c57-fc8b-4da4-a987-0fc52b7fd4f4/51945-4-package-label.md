@@ -1,11 +1,3 @@
 # PACKAGE LABEL.PRINCIPAL DISPLAY PANEL
 
-- 
-  - 
-    - 
-      - 
-        - 
-          - 
-            - 
-              - 
-                - 
+300 mg - 60 tablets
