@@ -4,7 +4,7 @@ BARACLUDE® (entecavir) Tablets and Oral Solution are available in the following
 
 | Product Strength and Dosage Form | Description | Quantity | NDC Number |
 | --- | --- | --- | --- |
-| 0.5 mg film-coated tablet | White to off-white, triangular-shaped tablet, debossed with “BMS” on one side and “1611” on the other side. | 30 tablets 90 tablets | 0003-1611-12 0003-1611-13 |
+| 0.5 mg film-coated tablet | White to off-white, triangular-shaped tablet, debossed with “BMS” on one side and “1611” on the other side. | 30 tablets | 0003-1611-12 |
 | 1 mg film-coated tablet | Pink, triangular-shaped tablet, debossed with “BMS” on one side and “1612” on the other side. | 30 tablets | 0003-1612-12 |
 | 0.05 mg/mL oral solution | Ready-to-use, orange-flavored, clear, colorless to pale yellow, aqueous solution in a 260 mL bottle. | 210 mL | 0003-1614-12 |
 

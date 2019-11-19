@@ -173,6 +173,4 @@ Distributed by: Bristol-Myers Squibb Company Princeton, NJ 08543 USA
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 
-[print code]
-
 Revised: August 2015
