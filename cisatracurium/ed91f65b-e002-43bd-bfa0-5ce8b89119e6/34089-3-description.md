@@ -12,8 +12,9 @@ The structural formula of cisatracurium besylate is:
 
 The log of the partition coefficient of cisatracurium besylate is -2.12 in a 1-octanol/ distilled water system at 25°C.
 
-Cisatracurium besylate injection, USP is a sterile, non-pyrogenic aqueous solution provided in 5 mL and 20 mL vials.
-The pH is adjusted to 3.25 to 3.65 with benzenesulfonic acid.
+Cisatracurium besylate injection, USP is a sterile, non-pyrogenic aqueous solution provided in 5 mL, 10 and 20 mL vials.
+The pH is adjusted to 3.0 to 3.8 with benzenesulfonic acid.
 
 - The 5 mL single-dose vials contain 2 mg/mL cisatracurium, equivalent to 2.68 mg/mL cisatracurium besylate.
+- The 10 mL multiple-dose vials contain 2 mg/mL cisatracurium, equivalent to 2.68 mg/mL cisatracurium besylate, and 0.9% benzyl alcohol as a preservative.
 - The 20 mL single-dose vials contain 10 mg/mL cisatracurium, equivalent to 13.38 mg/mL cisatracurium besylate.
