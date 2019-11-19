@@ -1,6 +1,6 @@
 # HOW SUPPLIED
 
-CARNITOR® (levocarnitine) Tablets are supplied as 330 mg tablets embossed with “CARNITOR ST” in individual blisters, packaged in boxes of 90 (NDC 54482-144-07).
+CARNITOR® (levocarnitine) Tablets are supplied as 330 mg tablets embossed with "CARNITOR ST" in individual blisters, packaged in boxes of 90 (NDC 54482-144-07).
 Store at controlled room temperature (25°C).
 See USP.
 CARNITOR® (levocarnitine) Tablets are distributed by Leadiant Biosciences, Inc.
