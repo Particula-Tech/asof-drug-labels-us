@@ -1,7 +1,12 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-Pregnancy: Female patients of childbearing age should be told about the consequences of exposure to olmesartan medoxomil tablets during pregnancy.
+Pregnancy: Advise female patients of childbearing age about the consequences of exposure to olmesartan medoxomil tablets during pregnancy.
 Discuss treatment options with women planning to become pregnant.
-Patients should be asked to report pregnancies to their physicians as soon as possible.
+Tell patients to report pregnancies to their physicians as soon as possible [see Warnings and Precautions (5.1) and Use in Specific Populations (8.1)].
+
+Lactation: Advise nursing women not to breastfeed during treatment with olmesartan medoxomil tablets [see Use in Specific Populations (8.2)].
+
+Hyperkalemia: Advise patients not to use potassium supplements or salt substitutes that contain potassium without consulting their healthcare provider [see Drug Interactions (7.1)].
+
 Manufactured for: Macleods Pharma USA, Inc. Plainsboro, NJ 08536 Manufactured by: Macleods Pharmaceutical Ltd. Baddi, Himachal Pradesh, India.
-Revised: March 2017 PM02277102
+Revised: November 2019
