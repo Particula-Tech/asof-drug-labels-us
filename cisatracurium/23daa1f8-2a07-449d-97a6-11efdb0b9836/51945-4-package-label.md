@@ -2,4 +2,6 @@
 
 Container Label
 
-Carton Label
+Carton Label (Pack of 1 vial)
+
+Carton Label (Pack of 10 vials)
