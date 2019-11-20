@@ -64,7 +64,7 @@ In a placebo-controlled, international, multicenter trial of 153 patients with a
 Each parameter has a 4-point scale with a numerical rating: 0 = normal, 1 = mild, 2 = moderate, 3 = severe.
 The four parameters are added together to produce a maximum overall DAI of 12.
 
-1. * Percent change for overall DAI only (calculated by taking the average of the change for each individual patient). † Significant Mesalamine Rectal Suspension Enema/placebo difference. p < 0.01 ‡ Significant Mesalamine Rectal Suspension Enema/placebo difference. p < 0.001 § Significant Mesalamine Rectal Suspension Enema/placebo difference. p < 0.05
+- * Percent change for overall DAI only (calculated by taking the average of the change for each individual patient). † Significant Mesalamine Rectal Suspension Enema/placebo difference. p < 0.01 ‡ Significant Mesalamine Rectal Suspension Enema/placebo difference. p < 0.001 § Significant Mesalamine Rectal Suspension Enema/placebo difference. p < 0.05
 
 Differences between Mesalamine Rectal Suspension Enema and placebo were also statistically different in subgroups of patients on concurrent sulfasalazine and in those having an upper disease boundary between 5 and 20 or 20 and 40 cm.
 Significant differences between Mesalamine Rectal Suspension Enema and placebo were not achieved in those subgroups of patients on concurrent prednisone or with an upper disease boundary between 40 and 50 cm.

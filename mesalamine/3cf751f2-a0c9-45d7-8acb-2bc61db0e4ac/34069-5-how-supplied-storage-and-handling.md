@@ -4,7 +4,7 @@ Mesalamine Rectal Suspension Enema for rectal administration is an off-white to 
 Each disposable enema bottle contains 4 grams of mesalamine in 60 mL aqueous suspension.
 Enema bottles are supplied in boxed, foil-wrapped trays as follows:
 
-1. Carton of 7 Bottles: NDC 62559-420-07
+- Carton of 7 Bottles: NDC 62559-420-07
 
 Mesalamine Rectal Suspension Enemas are for rectal use only.
 
