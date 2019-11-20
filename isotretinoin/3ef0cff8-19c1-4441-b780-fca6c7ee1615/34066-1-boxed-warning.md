@@ -1,20 +1,10 @@
-# WARNING: CAUSES BIRTH DEFECTS
+# WARNING: EMBRYO-FETAL TOXICITY – CONTRAINDICATED IN PREGNANCY
 
-Pregnancy Category X.
+ABSORICA/ABSORICA LD can cause severe life-threatening birth defects and is contraindicated in pregnancy.
 
-- •ABSORICA must not be used by female patients who are or may become pregnant [see Warnings and Precautions (5), Use in Specific Populations (8.1, 8.6)].
-- •There is an extremely high risk that severe birth defects will result if pregnancy occurs while taking ABSORICA in any amount, even for short periods of time [see Warnings and Precautions (5.1), Use in Specific Populations (8.1)].
-- •Potentially any fetus exposed during pregnancy can be affected [see Use in Specific Populations (8.1)].
-- •There are no accurate means of determining whether an exposed fetus has been affected [see Warning and Precautions (5.1), Use in Specific Populations (8.1)].
-- •Birth defects which have been documented following isotretinoin exposure include abnormalities of the face, eyes, ears, skull, central nervous system, cardiovascular system, and thymus and parathyroid glands.
-  Cases of IQ scores less than 85 with or without other abnormalities have been reported.
-  There is an increased risk of spontaneous abortion and premature births have been reported [see Use in Specific Populations (8.1)].
-- •Documented external abnormalities include: skull abnormality; ear abnormalities (including anotia, micropinna, small or absent external auditory canals); eye abnormalities (including microphthalmia); facial dysmorphia; cleft palate.
-  Documented internal abnormalities include: CNS abnormalities (including cerebral abnormalities, cerebellar malformation, hydrocephalus, microcephaly, cranial nerve deficit); cardiovascular abnormalities; thymus gland abnormality; parathyroid hormone deficiency.
-  In some cases death has occurred with certain abnormalities previously noted [see Use in Specific Populations (8.1)].
-- •If pregnancy does occur during the treatment of a female patient who is taking ABSORICA, ABSORICA must be discontinued immediately and she should be referred to an Obstetrician-Gynecologist experienced in reproductive toxicity for further evaluation and counseling [see Use in Specific Populations (8.1)].
+There is an extremely high risk that severe birth defects will result if pregnancy occurs while taking any amount of ABSORICA/ABSORICA LD even for short periods of time.
+Potentially any fetus exposed during pregnancy can be affected.
+There are no accurate means of determining prenatally whether an exposed fetus has been affected.
+If pregnancy occurs, discontinue ABSORICA/ABSORICA LD immediately and refer the patient to an Obstetrician- Gynecologist experienced in reproductive toxicity for further evaluation and counseling [see Contraindications (4), Warnings and Precautions (5.1), and Use in Specific Populations (8.1)].
 
-Special Prescribing Requirements
-
-- •Because of the risk of teratogenicity and to minimize fetal exposure, ABSORICA is available only through a restricted program under a Risk Evaluation and Mitigation Strategy (REMS) called iPLEDGE®.
-  Under the ABSORICA REMS, prescribers, patients, pharmacies, and distributors must enroll and be registered in the program [see Warnings and Precautions (5.2)].
+Because of the risk of embryo-fetal toxicity, ABSORICA and ABSORICA LD are available only through a restricted program under a Risk Evaluation and Mitigation Strategy (REMS) called the iPLEDGE REMS [see Warnings and Precautions (5.2)].

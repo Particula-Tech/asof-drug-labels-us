@@ -29,3 +29,27 @@ Each capsule contains 25 mg Isotretinoin, USP
 # Absorica 40 mg Blister
 
 # Absorica 40 mg Carton
+
+# Absorica LD 8mg Blister
+
+# Absorica LD 8mg Carton
+
+# Absorica LD 16mg Blister
+
+# Absorica LD 16mg Carton
+
+# Absorica LD 20mg Blister
+
+# Absorica LD 20mg Carton
+
+# Absorica LD 24mg Blister
+
+# Absorica LD 24mg Carton
+
+# Absorica LD 28mg Blister
+
+# Absorica LD 28mg Carton
+
+# Absorica LD 32mg Blister
+
+# Absorica LD 32mg Carton

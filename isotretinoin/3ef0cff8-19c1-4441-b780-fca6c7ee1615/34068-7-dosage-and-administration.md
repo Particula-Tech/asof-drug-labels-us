@@ -1,52 +1,68 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-Healthcare professionals who prescribe ABSORICA must be certified in the iPLEDGE Program and must comply with the required monitoring to ensure safe use of ABSORICA [see Warnings and Precautions (5.2)].
-
-The required laboratory testing must be completed prior to dosing ABSORICA [see Dosage and Administration (2.4)].
-
-Pregnancy Testing and Contraceptive measures must be followed prior to dosing ABSORICA [see Use in Specific Populations (8.6)].
-
 ## 2.1 Recommended Dosage
 
-The recommended dosage range for ABSORICA is 0.5 to 1 mg/kg/day given in two divided doses without regard to meals for 15 to 20 weeks (see Table 1).
-To decrease the risk of esophageal irritation, patients should swallow the capsules with a full glass of liquid [see Patient Counseling Information (17)].
+ABSORICA is not substitutable with ABSORICA LD [see Warnings and Precautions (5.3)].
+The recommended dosage of:
 
-The safety of once daily dosing with ABSORICA has not been established.
-Once daily dosing is not recommended.
+- •ABSORICA is 0.5 to 1 mg/kg/day given in two divided doses with or without meals for 15 to 20 weeks (see Table 1).
+- •ABSORICA LD is 0.4 to 0.8 mg/kg/day given in two divided doses with or without meals for 15 to 20 weeks (see Table 2).
 
-Table 1: ABSORICA Dosing by Body Weight (Based on Administration With or Without Food)
+To decrease the risk of esophageal irritation, instruct patients to swallow the capsules with a full glass of liquid.
+During treatment, the dosage may be adjusted according to response of the disease and/or adverse reactions, some of which may be dose-related.
+Adult patients whose disease is very severe with scarring or is primarily manifested on the trunk may require dosage adjustments up to 2 mg/kg/day for ABSORICA (1.6 mg/kg/day for ABSORICA LD) in divided doses, as tolerated.
 
-| Body Weight |  | Total Daily (mg) |  |  |
-| --- | --- | --- | --- | --- |
-| Kilograms | Pounds | 0.5 mg/kg | 1 mg/kg | 2 mg/kg |
-| 40 50 60 70 80 90 100 | 88 110 132 154 176 198 220 | 20 25 30 35 40 45 50 | 40 50 60 70 80 90 100 | 80 100 120 140 160 180 200 |
+The safety and effectiveness of once daily dosing with ABSORICA/ABSORICA LD has not been established and is not recommended.
 
-## 2.2 Dosage Range
+If a dose of ABSORICA/ABSORICA LD is missed, just skip that dose.
+Do not take two doses of ABSORICA/ ABSORICA LD at the same time.
 
-In trials comparing 0.1, 0.5, and 1 mg/kg/day, it was found that all dosages provided initial clearing of disease, but there was a greater need for retreatment with the lower dosages.
-During treatment, the dose may be adjusted according to response of the disease and/or the appearance of clinical side effects, some of which may be dose-related.
-Adult patients whose disease is very severe with scarring or is primarily manifested on the trunk may require dose adjustments up to 2 mg/kg/day, as tolerated.
+Table 1: ABSORICA Daily Dosage by Body Weight1
 
-## 2.3 Duration of Use
+| BodyWeight | Total Daily Dosage (mg)1 |  |  |
+| --- | --- | --- | --- |
+| 0.5 mg/kg | 1 mg/kg | 2 mg/kg |  |
+| 40 kg | 20 | 40 | 80 |
+| 50 kg | 25 | 50 | 100 |
+| 60 kg | 30 | 60 | 120 |
+| 70 kg | 35 | 70 | 140 |
+| 80 kg | 40 | 80 | 160 |
+| 90 kg | 45 | 90 | 180 |
+| 100 kg | 50 | 100 | 200 |
+
+1 Administer in two divided doses with or without meals
+
+Table 2: ABSORICA LD Daily Dosage by Body Weight1
+
+| BodyWeight | Total Daily Dosage (mg)1 |  |  |
+| --- | --- | --- | --- |
+| 0.4 mg/kg | 0.8 mg/kg | 1.6 mg/kg |  |
+| 40 kg | 16 | 32 | 64 |
+| 50 kg | 20 | 40 | 80 |
+| 60 kg | 24 | 48 | 96 |
+| 70 kg | 28 | 56 | 112 |
+| 80 kg | 32 | 64 | 128 |
+| 90 kg | 36 | 72 | 144 |
+| 100 kg | 40 | 80 | 160 |
+
+1 Administer in two divided doses with or without meals
+
+## 2.2 Duration of Use
 
 A normal course of treatment is 15 to 20 weeks.
-If the total nodule count has been reduced by more than 70% prior to completing 15 to 20 weeks of treatment, the drug may be discontinued.
-After a period of 2 months or more off therapy, and if warranted by persistent or recurring severe nodular acne, a second course of therapy may be initiated.
+If the total nodule count has been reduced by more than 70% prior to completing 15 to 20 weeks of treatment, may discontinue ABSORICA/ABSORICA LD.
+
+After a period of 2 months or more off therapy, and if warranted by persistent or recurring severe nodular acne, may initiate a second course of ABSORICA/ABSORICA LD in patients who have completed skeletal growth.
+The use of another course of ABSORICA/ABSORICA LD therapy is not recommended before a two-month waiting period because the patient’s acne may continue to improve after a 15 to 20-week course of therapy.
 The optimal interval before retreatment has not been defined for patients who have not completed skeletal growth.
-Long-term use of ABSORICA, even in low doses, has not been studied, and is not recommended.
-It is important that ABSORICA be given at the recommended doses for no longer than the recommended duration.
-The effect of long-term use of ABSORICA on bone loss is unknown [see Warnings and Precautions (5.12)].
 
-## 2.4 Laboratory Testing
+Long-term use of ABSORICA/ABSORICA LD, even in low dosages, has not been studied, and is not recommended.
+The effect of long-term use of ABSORICA/ABSORICA LD on bone loss is unknown [see Warnings and Precautions (5.12)].
 
-Pregnancy Testing
+## 2.3 Laboratory Testing Prior to Administration
 
-[See Use in Specific Populations (8.6)]
+The following laboratory testing must be completed prior to ABSORICA/ABSORICA LD use:
 
-Lipid Profile
-
-Perform a fasting lipid profile including triglycerides prior to use of ABSORICA [see Warnings and Precautions (5.8, 5.15)].
-
-Liver Function Test
-
-Perform liver function tests prior to use of ABSORICA [see Warnings and Precautions (5.10, 5.15)].
+- •Pregnancy testing: Ensure patient is not pregnant prior to administering ABSORICA/ABSORICA LD [see Contraindications (4) and Use in Specific Populations (8.1, 8.3)]
+- •A fasting lipid profile including triglycerides [see Warnings and Precautions (5.8, 5.15)].
+- •Liver function tests [see Warnings and Precautions (5.10, 5.15)].

@@ -1,10 +1,17 @@
 {
   "application_numbers": [
-    "NDA021951"
+    "NDA021951",
+    "NDA211913"
   ],
   "inn": "isotretinoin",
   "labeler": "Sun Pharmaceutical Industries, Inc.",
   "package_ndcs": [
+    "10631-002-31",
+    "10631-003-31",
+    "10631-004-31",
+    "10631-005-31",
+    "10631-006-31",
+    "10631-007-31",
     "10631-115-31",
     "10631-115-69",
     "10631-116-31",
@@ -23,6 +30,11 @@
       "form": "CAPSULE",
       "generic": "isotretinoin",
       "name": "Absorica"
+    },
+    {
+      "form": "CAPSULE",
+      "generic": "isotretinoin",
+      "name": "Absorica LD"
     }
   ],
   "setid": "3ef0cff8-19c1-4441-b780-fca6c7ee1615",

@@ -1,77 +1,97 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-See FDA-Approved Patient Labeling (Medication Guide)
+Advise the patient to read the FDA-approved patient labeling (Medication Guide).
 
-Advise the patient that ABSORICA is only available through a restricted program called iPLEDGE.
+Embryo-Fetal Toxicity
 
-- •As a component of the iPLEDGE Program, prescribers must instruct patients to read the Medication Guide, the iPLEDGE Program patient educational booklets, the iPLEDGE Program Birth Control Information Sheet and watch the video with the following videos — “Be Prepared, Be Protected” and “Be Aware: The Risk of Pregnancy While on Isotretinoin”.
-  The video includes information about contraception, the most common reasons that contraception fails, the importance of using 2 methods of effective contraception when taking teratogenic drugs, and comprehensive information about types of potential birth defects which could occur if a female patient who is pregnant takes ABSORICA at any time during pregnancy.
-- •Male patients and females of non-reproductive potential must understand the risks and benefits of ABSORICA, comply with the REMS requirements described in the booklet entitled Guide to Isotretinoin for Male Patients and Female Patients Who Cannot Get Pregnant, and sign a Patient Information/Informed Consent form.
-- •Females of reproductive potential must be instructed that they must not be pregnant when ABSORICA therapy is initiated or plan to become pregnant while receiving ABSORICA therapy.
-  Additionally, they must use 2 methods of effective contraception simultaneously for 1 month before starting ABSORICA, while taking ABSORICA, and for 1 month after ABSORICA has been stopped, unless they commit to continuous abstinence from heterosexual intercourse.
-  They should also sign a Patient Information/Informed Consent form and Patient Information/Informed Consent About Birth Defects (for female patients who can get pregnant) form prior to beginning ABSORICA therapy.
-  Female patients should be seen by their prescribers monthly and have a urine or serum pregnancy test, in a CLIA-certified laboratory, performed each month during treatment to confirm negative pregnancy status before another ABSORICA prescription is written.
-  Additionally, a pregnancy test must be completed at the end of the entire course of ABSORICA therapy and 1 month after discontinuation of therapy.
-- •Advise the patient that isotretinoin is found in the semen of male patients taking isotretinoin, but the amount delivered to a female partner would be about one million times lower than an oral dose of 40 mg.
-  While the no-effect limit for isotretinoin induced embryopathy is unknown, 20 years of postmarketing reports include four with isolated defects compatible with features of retinoid exposed fetuses; however two of these reports were incomplete and two had other possible explanations for the defects observed.
-- •Advise the patient that ABSORICA is available only from pharmacies that are certified in the iPLEDGE Program, and provide them with the telephone number (1-866-495-0654) and website (www.ipledgeprogram.com) for information on how to obtain.
-- •Advise patients that they may be requested to participate in a survey to evaluate the effectiveness of the iPLEDGE Program.
-- •Prescribers should be alert to the warning signs of psychiatric disorders to guide patients to receive the help they need.
-  Therefore, prior to initiation of ABSORICA treatment, patients and family members should be asked about any history of psychiatric disorder, and at each visit during treatment patients should be assessed for symptoms of depression, mood disturbance, psychosis, or aggression to determine if further evaluation may be necessary.
-  Inform patients that symptoms of depression include sad mood, hopelessness, feelings of guilt, worthlessness or helplessness, loss of pleasure or interest in activities, fatigue, difficulty concentrating, change in sleep pattern, change in weight or appetite, suicidal thoughts or attempts, restlessness, irritability, acting on dangerous impulses, and persistent physical symptoms unresponsive to treatment.
-  Patients should stop treatment and the patient or a family member should promptly contact their prescriber if the patient develops depression, mood disturbance, psychosis, or aggression, without waiting until the next visit.
-  Discontinuation of ABSORICA treatment may be insufficient; further evaluation may be necessary.
-  While such monitoring may be helpful, it may not detect all patients at risk.
-  Patients may report mental health problems or family history of psychiatric disorders.
-  These reports should be discussed with the patient and/or the patient's family.
-  A referral to a mental health professional may be necessary.
-  The physician should consider whether ABSORICA therapy is appropriate in this setting; for some patients the risks may outweigh the benefits of ABSORICA therapy.
-- •Patients must be informed that some patients, while taking isotretinoin or soon after stopping isotretinoin, have become depressed or developed other serious mental problems.
-  Symptoms of depression include sad, “anxious” or empty mood, irritability, acting on dangerous impulses, anger, loss of pleasure or interest in social or sports activities, sleeping too much or too little, changes in weight or appetite, school or work performance going down, or trouble concentrating.
-  Some patients taking isotretinoin have had thoughts about hurting themselves or putting an end to their own lives (suicidal thoughts), some have tried to end their own lives, and some have ended their own lives.
-  There were reports that some of these people did not appear depressed.
-  There have been reports of patients on isotretinoin becoming aggressive or violent.
-  There have also been reports of psychotic symptoms, which indicate a loss of contact with reality.
-  Psychotic symptoms include feelings of suspiciousness toward others, strange beliefs, hearing voices or other noises without an obvious source, and seeing unusual objects or people with no explanation.
-  No one knows if isotretinoin caused these behaviors and symptoms or if they would have happened even if the person did not take isotretinoin.
-  If any of these behaviors or symptoms occur, the patient should stop treatment and the patient or family member should contact the prescriber promptly without waiting until the next visit [see Warnings and Precautions (5.4)].
-  Some people have had other signs of depression while taking isotretinoin.
-- •Patients must be informed that they must not share ABSORICA with anyone else because of the risk of birth defects and other serious adverse reactions.
-- •Patients must be informed not to donate blood during therapy and for 1 month following discontinuation of the drug because the blood might be given to a pregnant female patient whose fetus must not be exposed to ABSORICA.
-- •ABSORICA may be taken without regard to meals [see Dosage and Administration (2.1)].
-  To decrease the risk of esophageal irritation, patients should swallow the capsules with a full glass of liquid.
-- •Patients should be informed that inflammatory bowel disease (including regional ileitis) may occur without a prior history of intestinal disorders.
-  In rare instances, symptoms have been reported to persist after treatment has stopped.
-  Patients should be informed that if they experience abdominal pain, rectal bleeding or severe diarrhea, they should discontinue ABSORICA immediately.
-- •Patients should be informed that transient exacerbation (flare) of acne has been seen, generally during the initial period of therapy.
-- •Wax epilation and skin resurfacing procedures (such as dermabrasion, laser) should be avoided during ABSORICA therapy and for at least 6 months thereafter due to the possibility of scarring.
-- •Patients should be advised to avoid prolonged exposure to UV rays or sunlight.
-- •Patients should be informed that they may experience dry eye, corneal opacities, and decreased night vision.
-  Contact lens wearers may experience decreased tolerance to contact lenses during and after therapy.
-- •Patients should be informed that 16% of patients treated with isotretinoin in a clinical trial developed musculoskeletal symptoms (including arthralgia) during treatment.
-  In general, these symptoms were mild to moderate, but occasionally required discontinuation of the drug.
-  Transient pain in the chest has been reported less frequently.
-  In the clinical trial, these symptoms generally cleared rapidly after discontinuation of therapy, but in some cases persisted.
-- •There have been rare postmarketing reports of rhabdomyolysis, some associated with strenuous physical activity.
-- •Pediatric patients and their caregivers should be informed that approximately 17% to 29% of pediatric patients treated with isotretinoin developed back pain.
-  In a clinical trial, back pain was severe in 13.5% of the cases and occurred at a higher frequency in female patients than male patients.
-  Arthralgias were experienced in 22% (79/358) of pediatric patients.
-  Arthralgias were severe in 7.6% (6/79) of patients.
-  Appropriate evaluation of the musculoskeletal system should be done in patients who present with these symptoms during or after a course of treatment.
-  Consideration should be given to discontinuation of isotretinoin if any significant abnormality is found.
-- •Neutropenia and rare cases of agranulocytosis have been reported in patients treated with isotretinoin.
-  ABSORICA should be discontinued if clinically significant decreases in white cell counts occur.
-- •Patients should be advised that severe skin reactions (Stevens-Johnson syndrome and toxic epidermal necrolysis) have been reported in postmarketing data in patients treated with isotretinoin.
-  Treatment with ABSORICA should be discontinued if clinically significant skin reactions occur.
-- •Adolescent patients who participate in sports with repetitive impact should be informed that isotretinoin use may increase their risk of spondylolisthesis or hip growth plate injuries.
-  There are spontaneous reports of fractures and/or delayed healing in patients while on therapy with isotretinoin or following cessation of therapy with isotretinoin while involved in these activities [see Warnings and Precautions (5.12)].
+There is an extremely high risk of severe birth defects when ABSORICA/ABSORICA LD is used in pregnancy [see Warnings and Precautions (5.1) and Use in Specific Populations (8.1)].
+Instruct patients who can become pregnant that they must not be pregnant during or up to one month after ABSORICA/ABSORICA LD therapy.
+Instruct patients to not donate blood during ABSORICA/ABSORICA LD therapy and for 1 month following discontinuation to avoid blood donation to a pregnant patient.
 
-ABSORICA is a registered trademark of Sun Pharmaceutical Industries, Inc. All other trademarks are property of their respective owners.
+iPLEDGE
 
-Manufactured by: Galephar Pharmaceutical Research, Inc. Humacao, PR 00792
+ABSORICA and ABSORICA LD are available only through a restricted program called iPLEDGE [see Warnings and Precautions (5.2)].
+Inform patients who can become pregnant of the following notable requirements.
+These patients must:
+
+- •Sign an informed consent form to be enrolled in the program
+- •Comply with the pregnancy testing and contraception requirements [see Use in Specific Populations (8.3)]
+- •Demonstrate comprehension of the safe-use conditions of the program every month
+- •Obtain the prescription within 7 days of the pregnancy test collection
+
+Inform patients who cannot become pregnant of the following notable requirements.
+These patients must sign an informed consent form to enroll in the program and they must obtain the prescription within 30 days of the office visit.
+ABSORICA/ABSORICA LD is available only from certified pharmacies participating in the program.
+Therefore, provide patients with the telephone number and website for information on how to obtain ABSORICA/ABSORICA LD [see Warnings and Precautions (5.2)].
+
+Lactation
+
+Because of the potential for serious adverse reactions in nursing infants from isotretinoin, advise patients that breastfeeding is not recommended during treatment with ABSORICA/ABSORICA LD, and for at least 8 days after the last dose of ABSORICA/ABSORICA LD [see Use in Specific Populations (8.2)].
+
+Psychiatric Disorders
+
+Instruct patients and/or their caregivers/families that ABSORICA/ABSORICA LD may cause depression, psychosis, suicidal ideation, suicide attempts, and aggressive or violent behavior.
+Instruct patients to read the Recognizing Psychiatric Disorders in Adolescents and Young Adults brochure prior to taking ABSORICA/ABSORICA LD.
+Instruct patients to stop ABSORICA/ABSORICA LD and to contact a healthcare provider if they develop any of these signs or symptoms [see Warnings and Precautions (5.4)].
+
+Important Administration Instructions
+
+To decrease the risk of esophageal irritation, instruct patients to swallow the capsules with a full glass of liquid [see
+
+Dosage and Administration (2.1)].
+
+Intracranial Hypertension (Pseudotumor Cerebri)
+
+Advise patients that intracranial hypertension (pseudotumor cerebri) has occurred with ABSORICA/ABSORICA LD use including concomitant use with tetracyclines.
+Thus, advise patients to avoid concomitant use with tetracyclines and to discontinue ABSORICA/ABSORICA LD immediately if they have symptoms of intracranial hypertension [see Warningsand Precautions (5.5)].
+
+Serious Skin Reactions
+
+Advise patients that severe skin reactions (Stevens-Johnson syndrome and toxic epidermal necrolysis) have been reported in patients treated with isotretinoin and to discontinue ABSORICA/ABSORICA LD if clinically significant skin reactions occur [see Warnings and Precautions (5.6)].
+
+Inflammatory Bowel Disease
+
+Advise patients that inflammatory bowel disease (including regional ileitis) have occurred with isotretinoin use including those without a prior history of IBD and if they experience IBD symptoms, they should discontinue
+
+ABSORICA/ABSORICA LD immediately [see Warnings and Precautions (5.11)].
+
+Musculoskeletal Abnormalities
+
+Inform patients that:
+
+- •There have been reports of osteoporosis and fractures and that isotretinoin may have a negative effect on bone mineral density [see Warnings and Precautions (5.12)].
+- •Isotretinoin use has been associated with musculoskeletal abnormalities (e.g., arthralgia, back pain) [see Warnings and Precautions (5.12)].
+
+Inform adolescents and their families that isotretinoin use in adolescents who participated in sports with repetitive impact increase their risk of spondylolisthesis or hip growth plate injuries [see Warnings and Precautions (5.12)].
+Inform pediatric patients and their caregivers that pediatric patients treated with isotretinoin capsules developed back pain including severe back pain, and arthralgias including severe arthralgias [see Use in Specific Populations (8.4)].
+
+Ocular Abnormalities
+
+Inform patients that they may experience dry eyes, corneal opacities, and decreased night vision and contact lens wearers may experience decreased tolerance to contact lenses during and after therapy [see Warnings and Precautions (5.13)].
+
+Rhabdomyolysis
+
+Inform patients there have been rare postmarketing reports of rhabdomyolysis in patients treated with isotretinoin capsules, some associated with strenuous physical activity [see Warnings and Precautions (5.15)].
+
+Hypersensitivity Reactions
+
+Given that anaphylactic reactions and other allergic reactions have been reported in patients treated with isotretinoin capsules, instruct the patient to discontinue ABSORICA/ABSORICA LD and contact their healthcare provider if they have a severe allergic reaction [see Warnings and Precautions (5.14)].
+
+Lipid Abnormalities
+
+Instruct patients that hypertriglyceridemia, decreased HDL, and increased cholesterol levels were reported in patients treated with isotretinoin capsules [see Warnings and Precautions (5.8)].
+
+Additional Instructions
+
+Inform patients:
+
+- •To not share ABSORICA/ABSORICA LD with anyone else because of the risk of birth defects and other serious adverse reactions.
+- •That transient exacerbation (flare) of acne has been seen, generally during the initial period of therapy.
+- •That wax epilation and skin resurfacing procedures (such as dermabrasion, laser) should be avoided during ABSORICA/ABSORICA LD therapy and for at least 6 months thereafter due to the possibility of scarring.
+- •To avoid prolonged exposure to UV rays or sunlight.
 
 Distributed by: Sun Pharmaceutical Industries, Inc. Cranbury, NJ 08512
 
-GK-067
+ABSORICA and ABSORICA LD are trademarks of Sun Pharmaceutical Industries, Inc. All other trademarks are property of their respective owners.
 
-Revised: May 2018
+ABSORICA LD 8 mg, 16 mg, 20 mg, 24 mg, 28 mg and 32 mg is protected by US Patent No. US 9,700,535 and US 9,750,711.

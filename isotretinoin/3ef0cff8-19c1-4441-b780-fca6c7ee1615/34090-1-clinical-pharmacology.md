@@ -2,66 +2,63 @@
 
 ## 12.1 Mechanism of Action
 
-ABSORICA is a retinoid, which when administered in pharmacologic dosages of 0.5 to 1 mg/kg/day, inhibits sebaceous gland function and keratinization.
+ABSORICA/ABSORICA LD is a retinoid, which when administered at the recommended dosage [see Dosage and Administration (2.1)], inhibits sebaceous gland function and keratinization.
 Clinical improvement in nodular acne patients occurs in association with a reduction in sebum secretion.
-The decrease in sebum secretion is temporary and is related to the dose and duration of treatment with isotretinoin and reflects a reduction in sebaceous gland size and an inhibition of sebaceous gland differentiation.
-The exact mechanism of action of ABSORICA is unknown.
+The decrease in sebum secretion is temporary and is related to the dose and duration of treatment with isotretinoin capsules and reflects a reduction in sebaceous gland size and an inhibition of sebaceous gland differentiation.
+The exact mechanism of action of ABSORICA/ABSORICA LD in the treatment of severe recalcitrant nodular acne is unknown.
 
 ## 12.2 Pharmacodynamics
 
-The pharmacodynamics of ABSORICA are unknown.
+The pharmacodynamics of ABSORICA/ABSORICA LD are unknown.
 
 ## 12.3 Pharmacokinetics
 
-Absorption
+No clinically significant differences in the pharmacokinetics of isotretinoin between patients with nodular acne and healthy subjects without acne were reported in published literature.
 
-Due to its high lipophilicity, oral absorption of isotretinoin is enhanced when given with a high-fat meal.
-ABSORICA is bioequivalent to Accutane® (isotretinoin) capsule when both drugs are taken with a high-fat meal.
-ABSORICA is more bioavailable than Accutane® (isotretinoin) capsules when both drugs are taken fasted; the AUC0-t of ABSORICA is approximately 83% greater than that of Accutane®.
-ABSORICA is therefore not interchangeable with generic products of Accutane®.
+Absorption Following ABSORICA Administration
 
-A single dose two-way crossover pharmacokinetic trial was conducted in 14 healthy adult male subjects comparing ABSORICA 40 mg (1 x 40 mg capsules), dosed under fasted and fed conditions.
-Under fed conditions after a high-fat meal, it was observed that the mean AUC0-t and Cmax were approximately 50% and 26% higher, than that observed under fasting conditions (Table 2).
-The observed elimination half-life (T1/2) was slightly lower in the fed state versus fasted.
-The time to peak concentration (Tmax) increased with food and this may be related to a longer absorption phase.
+The ABSORICA mean Tmax was 6.4 hours under fed conditions and 2.9 hours under fasting conditions following administration of a single 40 mg dose.
 
-Table 2: Pharmacokinetic Parameters of ABSORICA Mean (%CV) Following Administration of 40 mg Strength, N=14
+1. Effect on Food
+2. No clinically significant differences in ABSORICA pharmacokinetics were observed following administration with a modified high-fat, high-calorie meal (123.2 calories from protein, 265.6 calories from carbohydrates, and 468 calories from fat; total calories 857 calories) with reduced vitamin A content.
+   The mean AUC0-t and Cmax of isotretinoin were 6095 ng*hr/mL and 369 ng/mL, respectively, following administration of a single 40 mg ABSORICA dose under fed conditions; which were approximately 50% and 26% higher, respectively, compared to fasting conditions.
+   However, ABSORICA may be given with or without meals [see Dosage and Administration (2.1)].
 
-| ABSORICA(1 x 40 mg capsules) | AUC0-t (ng x hr/mL) | Cmax (ng/mL) | Tmax (hr) | T1/2 (hr) |
-| --- | --- | --- | --- | --- |
-| Fed | 6095 (26 %) | 395 (39 %) | 6.4 (47 %) | 22 (25 %) |
-| Fasted | 4055 (20 %) | 314 (26 %) | 2.9 (34 %) | 24 (28 %) |
+Absorption Following ABSORICA LD Administration
 
-Published clinical literature has shown that there is no difference in the pharmacokinetics of isotretinoin between patients with nodular acne and healthy subjects with normal skin.
+The ABSORICA LD median Tmax was 5 hours under fed conditions and 3.5 hours under fasting conditions following administration of a single 32 mg dose.
+
+1. Effect on Food
+2. No clinically significant differences in ABSORICA LD pharmacokinetics were observed following administration with a high-fat, high-calorie meal (150 calories from protein, 250 calories from carbohydrates, and 500 calories from fat; total calories 900 calories).
+   The mean AUC0-t and Cmax of isotretinoin were 10209 ng*hr/mL and 646 ng/mL, respectively, following administration of a single 32 mg ABSORICA LD dose under fed conditions; which were approximately 20% and 6% higher, respectively, compared to fasting conditions.
+   However, ABSORICA LD may be given with or without meals [see Dosage and Administration (2.1)].
 
 Distribution
 
 Isotretinoin is more than 99.9% bound to plasma proteins, primarily albumin.
 
-Metabolism
-
-Following oral administration of isotretinoin, at least three metabolites have been identified in human plasma: 4-oxo-isotretinoin, retinoic acid (tretinoin), and 4-oxo-retinoic acid (4-oxo-tretinoin).
-Retinoic acid and 13-cis-retinoic acid are geometric isomers and show reversible interconversion.
-The administration of one isomer will give rise to the other.
-Isotretinoin is also irreversibly oxidized to 4-oxo-isotretinoin, which forms its geometric isomer 4-oxo-tretinoin.
-
-After a single 40 mg oral dose of ABSORICA to 57 healthy adult subjects, concurrent administration of food increased the extent of formation of all metabolites in plasma when compared to the extent of formation under fasted conditions.
-
-All of these metabolites possess retinoid activity that is in some in vitro models more than that of the parent isotretinoin.
-However, the clinical significance of these models is unknown.
-
-In vitro studies indicate that the primary P450 isoforms involved in isotretinoin metabolism are 2C8, 2C9, 3A4, and 2B6.
-Isotretinoin and its metabolites are further metabolized into conjugates, which are then excreted in urine and feces.
-
 Elimination
 
-Following oral administration of an 80 mg dose of 14C-isotretinoin as a liquid suspension, 14C-activity in blood declined with a half-life of 90 hours.
-The metabolites of isotretinoin and any conjugates are ultimately excreted in the feces and urine in relatively equal amounts (total of 65% to 83%).
+The mean elimination half-lives of isotretinoin and its 4-oxo-isotretinoin metabolite were:
 
-After a single 40 mg (2 x 20 mg) oral dose of ABSORICA to 57 healthy adult subjects under fed conditions, the mean ± SD elimination half-lives (T1/2) of isotretinoin and 4-oxo-isotretinoin under fed states were 18 hours and 38 hours, respectively.
+- •18 hours and 38 hours, respectively, after a single oral ABSORICA 40 mg dose.
+- •Approximately 24 hours and 38 hours, respectively, after a single oral ABSORICA LD 32 mg dose.
 
-Special Patient Populations
+Metabolism: Isotretinoin is primarily metabolized by CYP2C8, 2C9, 3A4, and 2B6 in vitro.
+Isotretinoin and its metabolites are further metabolized into conjugates.
 
-The pharmacokinetics of isotretinoin were evaluated after single and multiple doses in 38 pediatric patients (12 to 15 years) and 19 adult patients (≥18 years) who received isotretinoin for the treatment of severe recalcitrant nodular acne.
-In both age groups, 4-oxo-isotretinoin was the major metabolite; tretinoin and 4-oxo-tretinoin were also observed.
-There were no statistically significant differences in the pharmacokinetics of isotretinoin between pediatric and adult patients.
+Following oral administration of isotretinoin capsules, at least three metabolites (4-oxo-isotretinoin, retinoic acid (tretinoin), and 4-oxo-retinoic acid (4-oxo-tretinoin)) have been identified in human plasma.
+The extent of formation of all metabolites was higher under fed conditions.
+All of these metabolites possess retinoid activity in vitro.
+The clinical significance is unknown.
+
+Excretion: Following oral administration of an 80 mg dose of radiolabeled-isotretinoin as a liquid suspension, the metabolites of isotretinoin were excreted in feces and urine in relatively equal amounts (total of 65% to 83%).
+
+Specific Populations
+
+Pediatric Patients: No clinically significant differences in the pharmacokinetics of isotretinoin were observed based on age (12 to 15 years (n=38), and ≥18 years (n=19)).
+In both age groups, 4-oxo-isotretinoin was the major metabolite; tretinoin and 4-oxo-tretinoin were also observed [see Use in Specific Populations (8.4)].
+
+Drug Interaction Studies
+
+No clinically significant differences in the pharmacokinetics of phenytoin (CYP2C9 substrate) were observed when used concomitantly with isotretinoin.

@@ -2,34 +2,26 @@
 
 ## 7.1 Vitamin A
 
-ABSORICA is closely related to vitamin A. Therefore, the use of both vitamin A and ABSORICA at the same time may lead to vitamin A side effects.
-Patients should be advised against taking vitamin supplements containing Vitamin A to avoid additive toxic effects.
+ABSORICA/ABSORICA LD is closely related to vitamin A. Therefore, the use of both vitamin A and ABSORICA/ABSORICA LD at the same time may lead to vitamin A related adverse reactions.
+Patients treated with ABSORICA/ABSORICA LD should be advised against taking supplements containing Vitamin A to avoid additive toxic effects.
 
 ## 7.2 Tetracyclines
 
-Concomitant treatment with ABSORICA and tetracyclines should be avoided because isotretinoin use has been associated with a number of cases of pseudotumor cerebri (benign intracranial hypertension), some of which involved concomitant use of tetracyclines.
+Concomitant treatment with ABSORICA/ABSORICA LD and tetracyclines should be avoided because isotretinoin use has been associated with a number of cases of intracranial hypertension (pseudotumor cerebri), some of which involved concomitant use of tetracyclines [see Warnings and Precautions (5.5)].
 
 ## 7.3 Phenytoin
 
-Isotretinoin has not been shown to alter the pharmacokinetics of phenytoin in a trial in seven healthy volunteers.
-These results are consistent with the in vitro finding that neither isotretinoin nor its metabolites induce or inhibit the activity of the CYP2C9 human hepatic P450 enzyme.
 Phenytoin is known to cause osteomalacia.
 No formal clinical trials have been conducted to assess if there is an interactive effect on bone loss between phenytoin and isotretinoin.
 Therefore, caution should be exercised when using these drugs together.
 
-## 7.4 St. John's Wort
-
-Isotretinoin use is associated with depression in some patients.
-Patients should be prospectively cautioned not to self-medicate with the herbal supplement St. John's Wort because a possible interaction has been suggested with hormonal contraceptives based on reports of breakthrough bleeding on oral contraceptives shortly after starting St. John's Wort.
-Pregnancies have been reported by users of combined hormonal contraceptives who also used some form of St. John's Wort.
-
-## 7.5 Systemic Corticosteroids
+## 7.4 Systemic Corticosteroids
 
 Systemic corticosteroids are known to cause osteoporosis.
-No formal clinical trials have been conducted to assess if there is an interactive effect on bone loss between systemic corticosteroids and isotretinoin.
+No formal clinical trials have been conducted to assess if there is an interactive effect on bone loss with concomitant use of systemic corticosteroids and isotretinoin.
 Therefore, caution should be exercised when using these drugs together.
 
-## 7.6 Norethindrone/ethinyl estradiol
+## 7.5 Norethindrone and Ethinyl Estradiol
 
-In a trial of 31 premenopausal female patients with severe recalcitrant nodular acne receiving Norethindrone/ethinyl estradiol as an oral contraceptive agent, isotretinoin at the recommended dose of 1 mg/kg/day, did not induce clinically relevant changes in the pharmacokinetics of ethinyl estradiol and norethindrone and in the serum levels of progesterone, follicle-stimulating hormone (FSH) and luteinizing hormone (LH).
-Prescribers are advised to consult the package insert of medication administered concomitantly with hormonal contraceptives, since some medications may decrease the effectiveness of these birth control products.
+In a trial of 31 premenopausal female patients with severe recalcitrant nodular acne receiving norethindrone and ethinyl estradiol as an oral contraceptive agent, isotretinoin capsules within the recommended dosage, did not induce clinically relevant changes in the pharmacokinetics of ethinyl estradiol and norethindrone and in the serum levels of progesterone, follicle-stimulating hormone (FSH) and luteinizing hormone (LH).
+Although this study did not show any clinically significant interaction between isotretinoin and norethindrone, it is not known if there is an interaction between isotretinoin with other progestins.
