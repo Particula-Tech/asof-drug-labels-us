@@ -21,4 +21,4 @@ Cyclophosphamide is indicated for the treatment of biopsy proven minimal change 
 
 Limitations of Use:
 
-The safety and effectiveness for the treatment of nephrotic syndrome in adults or other renal disease has not been established.
+The safety and effectiveness of cyclophosphamide for the treatment of nephrotic syndrome in adults or other renal disease has not been established.

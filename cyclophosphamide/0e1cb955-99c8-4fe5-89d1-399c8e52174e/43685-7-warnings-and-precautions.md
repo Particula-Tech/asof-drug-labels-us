@@ -70,11 +70,14 @@ Other risk factors predisposing to the development of VOD include preexisting di
 
 ## 5.7 Embryo-Fetal Toxicity
 
-Cyclophosphamide can cause fetal harm when administered to a pregnant woman [see Use in Specific Populations (8.1)].
+Based on its mechanism of action and published reports of effects in pregnant patients or animals, Cyclophosphamide can cause fetal harm when administered to a pregnant woman [see Use in Specific Populations (8.1), Clinical Pharmacology (12.1) and Nonclinical Toxicology (13.1)].
 Exposure to cyclophosphamide during pregnancy may cause birth defects, miscarriage, fetal growth retardation, and fetotoxic effects in the newborn.
 Cyclophosphamide is teratogenic and embryo-fetal toxic in mice, rats, rabbits and monkeys.
 
-Advise female patients of reproductive potential to avoid becoming pregnant and to use highly effective contraception during treatment and for up to 1 year after completion of therapy [see Use in Specific Populations (8.6)].
+Advise pregnant women and female patients of reproductive potential of the potential risk to the fetus [see Use in Specific Populations (8.1)].
+Verify the pregnancy status of females of reproductive potential prior to initiation of Cyclophosphamide.
+Advise females of reproductive potential to use effective contraception during treatment with Cyclophosphamide and for up to 1 year after completion of therapy.
+Advise male patients with female partners of reproductive potential to use effective contraception during treatment with Cyclophosphamide Capsules and for 4 months after completion of therapy [see Use in Specific Populations (8.1, 8.3)].
 
 ## 5.8 Infertility
 
@@ -83,7 +86,7 @@ Cyclophosphamide interferes with oogenesis and spermatogenesis.
 It may cause sterility in both sexes.
 Development of sterility appears to depend on the dose of cyclophosphamide, duration of therapy, and the state of gonadal function at the time of treatment.
 Cyclophosphamide-induced sterility may be irreversible in some patients.
-Advise patients on the potential risks for infertility [see Use in Specific Populations (8.4 and 8.6)].
+Advise patients on the potential risks for infertility [see Use in Specific Populations (8.3 and 8.4)].
 
 ## 5.9 Impairment of Wound Healing
 
