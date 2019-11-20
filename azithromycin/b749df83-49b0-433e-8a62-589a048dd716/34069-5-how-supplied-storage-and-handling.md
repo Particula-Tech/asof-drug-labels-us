@@ -15,4 +15,4 @@ ZITHROMAX for oral suspension is supplied in single-dose packets containing azit
 | --- | --- |
 | Boxes of 3 single-dose packets (1 g) | NDC 0069-3051-75 |
 
-Store single-dose packets between 5° and 30°C (41° and 86°F).
+Store single-dose packets below 30°C (86°F).
