@@ -40,8 +40,6 @@ Further, adverse reaction rates observed in the clinical trials of a drug cannot
 
 ## 6.1 Clinical Trials Experience
 
-Because clinical trials are conducted under widely varying conditions, adverse reactions rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
-
 Adverse Reactions Associated With Discontinuation of Treatment
 
 In a 7-week double-blind, parallel-group, placebo-controlled study in children with ADHD conducted in the outpatient setting, 7.1% (7/98) of patients treated with Daytrana discontinued due to adverse events compared with 1.2% (1/85) receiving placebo.

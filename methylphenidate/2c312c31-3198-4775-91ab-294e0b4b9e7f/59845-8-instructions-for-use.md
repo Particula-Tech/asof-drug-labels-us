@@ -135,8 +135,8 @@ How to remove and throw away Daytrana
 
 Manufactured for: Noven Therapeutics, LLC, Miami, FL 33186.
 
-By: Noven Pharmaceuticals, Inc., Miami, FL 33186. © 2009-2019 Noven Pharmaceuticals, Inc. This Medication Guide has been approved by the U.S. Food and Drug Administration.
+By: Noven Pharmaceuticals, Inc., Miami, FL 33186. © 2009, 2013, 2015, 2016 Noven Pharmaceuticals, Inc. This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Revised 10/2019
+Revised 11/2017
 
-102086-19
+102086-17

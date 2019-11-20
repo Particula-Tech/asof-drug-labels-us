@@ -1,4 +1,4 @@
-# WARNING: DRUG DEPENDENCE
+WARNING: DRUG DEPENDENCE
 
 Daytrana should be given cautiously to patients with a history of drug dependence or alcoholism.
 Chronic abusive use can lead to marked tolerance and psychological dependence with varying degrees of abnormal behavior.

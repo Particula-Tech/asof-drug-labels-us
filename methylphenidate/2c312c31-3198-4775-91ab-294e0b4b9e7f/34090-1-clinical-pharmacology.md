@@ -2,14 +2,13 @@
 
 ## 12.1 Mechanism of Action
 
-Methylphenidate is a central nervous system (CNS) stimulant.
-Its mode of therapeutic action in Attention Deficit Hyperactivity Disorder (ADHD) is not known.
+Methylphenidate is a CNS stimulant.
+Its mode of therapeutic action in Attention Deficit Hyperactivity Disorder (ADHD) is not known, but methylphenidate is thought to block the reuptake of norepinephrine and dopamine into the presynaptic neuron and to increase the release of these monoamines into the extraneuronal space.
 
 ## 12.2 Pharmacodynamics
 
 Methylphenidate is a racemic mixture comprised of the d-and l-enantiomers.
 The d-enantiomer is more pharmacologically active than the l-enantiomer.
-Methylphenidate blocks the reuptake of norepinephrine and dopamine into the presynaptic neuron and increases the release of these monoamines into the extraneuronal space.
 
 ## 12.3 Pharmacokinetics
 

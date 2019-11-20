@@ -1,6 +1,7 @@
 # 17 PATIENT COUNSELING INFORMATION
 
 Advise patients to read the FDA-approved patient labeling (Medication Guide).
+Information for Patients
 
 Priapism
 
@@ -66,10 +67,6 @@ The prescriber or health professional should instruct patients, their families, 
 Patients should be given the opportunity to discuss the contents of the Medication Guide and to obtain answers to any questions they may have.
 The complete text of the Medication Guide is reprinted at the end of this document.
 
-Pregnancy Registry
-
-Advise patients that there is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to ADHD medications, including DAYTRANA, during pregnancy [see Use in Specific Populations (8.1)].
-
 Manufactured for: Noven Therapeutics, LLC, Miami, FL 33186.
 
 By: Noven Pharmaceuticals, Inc., Miami, FL 33186.
@@ -78,8 +75,10 @@ For more information call 1-877-567-7857 or visit www.daytrana.com.
 
 Dot Matrix™ is a trademark of Noven Pharmaceuticals, Inc. Daytrana® is a registered trademark of Noven Therapeutics, LLC.
 
-© 2009-2019 Noven Pharmaceuticals, Inc.
+© 2009, 2013, 2015, 2016 Noven Pharmaceuticals, Inc.
 
 This product is covered by US patents including for use with 6,905,016 and 8,186,506.
 
-102086-19
+Last Modified: 11/2017
+
+102086-17
