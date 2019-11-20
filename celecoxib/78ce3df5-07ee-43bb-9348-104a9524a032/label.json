@@ -1,0 +1,26 @@
+{
+  "application_numbers": [
+    "ANDA208701"
+  ],
+  "inn": "celecoxib",
+  "labeler": "Cadila Pharmaceuticals Limited",
+  "package_ndcs": [
+    "71209-054-03",
+    "71209-054-11",
+    "71209-055-03",
+    "71209-055-11",
+    "71209-056-03",
+    "71209-056-11",
+    "71209-057-03",
+    "71209-057-20"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "celecoxib",
+      "name": "Celecoxib"
+    }
+  ],
+  "setid": "78ce3df5-07ee-43bb-9348-104a9524a032",
+  "source": "dailymed"
+}
