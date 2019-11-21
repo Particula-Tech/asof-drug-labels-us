@@ -36,7 +36,7 @@ See Figure D.
 Figure D
 
 Step 4.
-Close the bottle with the child resistant cap by turning the cap clockwise.
+Close the bottle with the child-resistant cap by turning the cap clockwise.
 See Figure E.
 
 Figure E

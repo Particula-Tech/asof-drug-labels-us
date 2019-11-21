@@ -39,7 +39,7 @@ Please read these instructions completely before you begin.
 
 Round Bottle Pack
 
-Step-A Remove the bottle containing Drug Pellets and Drug Diluent Bottle along with measuring cup from the box.
+Step-A Remove the bottle containing Drug Pellets and Drug Diluent bottle along with RIOMET ER dosing cup from the box.
 Do not use if: The expiration date has passed.
 The bottle appears damaged or defective.
 
@@ -49,7 +49,7 @@ Step-C Pour the contents of bottle containing Drug Pellets in to the Drug Diluen
 
 Figure 1
 
-Step-D Close the Drug Diluent bottle with child resistant cap.
+Step-D Close the Drug Diluent bottle with child-resistant cap.
 
 Step-E Shake the Drug Diluent bottle continuously in an up and down direction for at least 2 full minutes.
 This is important for the product to mix evenly.

@@ -57,8 +57,7 @@ Do not take RIOMET ER if you:
 - •have severe kidney problems.
 - •are allergic to the metformin hydrochloride or any of the ingredients in RIOMET ER.
   See the end of this Patient Information leaflet for a complete list of ingredients in RIOMET ER.
-
-have a condition called metabolic acidosis or diabetic ketoacidosis (high levels of certain acids called “ketones” in your blood or urine).
+- •have a condition called metabolic acidosis or diabetic ketoacidosis (high levels of certain acids called “ketones” in your blood or urine).
 
 Before taking RIOMET ER, tell your healthcare provider about all of your medical conditions, including if you:
 
