@@ -8,4 +8,4 @@ Cisatracurium besylate injection is indicated:
 
 Limitations of Use
 
-Cisatracurium besylate is not recommended for rapid sequence endotracheal intubation due to the time required for its onset of action.
+Cisatracurium besylate injection is not recommended for rapid sequence endotracheal intubation due to the time required for its onset of action.
