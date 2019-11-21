@@ -57,18 +57,27 @@ Consider dose adjustment or discontinuation of XARELTO in patients who develop a
 
 Treatment of Deep Vein Thrombosis (DVT), Pulmonary Embolism (PE), and Reduction in the Risk of Recurrence of DVT and of PE
 
-Avoid the use of XARELTO in patients with CrCl <30 mL/min due to an expected increase in rivaroxaban exposure and pharmacodynamic effects in this patient population [see Use in Specific Populations (8.6)].
+In patients with CrCl <30 mL/min, rivaroxaban exposure and pharmacodynamic effects are increased compared to patients with normal renal function.
+There are limited clinical data in patients with CrCl 15 to <30 mL/min; therefore, observe closely and promptly evaluate any signs or symptoms of blood loss in these patients.
+There are no clinical data in patients with CrCl <15 mL/min (including patients on dialysis); therefore, avoid the use of XARELTO in these patients.
+
+Discontinue XARELTO in patients who develop acute renal failure while on treatment [see Use in Specific Populations (8.6)].
 
 Prophylaxis of Deep Vein Thrombosis Following Hip or Knee Replacement Surgery
 
-Avoid the use of XARELTO in patients with CrCl <30 mL/min due to an expected increase in rivaroxaban exposure and pharmacodynamic effects in this patient population.
-Observe closely and promptly evaluate any signs or symptoms of blood loss in patients with CrCl 30 to 50 mL/min.
-Patients who develop acute renal failure while on XARELTO should discontinue the treatment [see Use in Specific Populations (8.6)].
+In patients with CrCl <30 mL/min, rivaroxaban exposure and pharmacodynamic effects are increased compared to patients with normal renal function.
+There are limited clinical data in patients with CrCl 15 to <30 mL/min; therefore, observe closely and promptly evaluate any signs or symptoms of blood loss in these patients.
+There are no clinical data in patients with CrCl <15 mL/min (including patients on dialysis); therefore, avoid the use of XARELTO in these patients.
+
+Discontinue XARELTO in patients who develop acute renal failure while on treatment [see Use in Specific Populations (8.6)].
 
 Prophylaxis of Venous Thromboembolism in Acutely Ill Medical Patients at Risk for Thromboembolic Complications Not at High Risk of Bleeding
 
-Avoid the use of XARELTO in patients with CrCl <30 mL/min due to an expected increase in rivaroxaban exposure and pharmacodynamic effects in this patient population.
-Consider discontinuation of XARELTO in patients who develop acute renal failure while on XARELTO [see Use in Specific Populations (8.6)].
+In patients with CrCl <30 mL/min, rivaroxaban exposure and pharmacodynamic effects are increased compared to patients with normal renal function.
+There are limited clinical data in patients with CrCl 15 to <30 mL/min; therefore, observe closely and promptly evaluate any signs or symptoms of blood loss in these patients.
+There are no clinical data in patients with CrCl <15 mL/min (including patients on dialysis); therefore, avoid the use of XARELTO in these patients.
+
+Discontinue XARELTO in patients who develop acute renal failure while on treatment [see Use in Specific Populations (8.6)].
 
 ## 5.5 Use in Patients with Hepatic Impairment
 

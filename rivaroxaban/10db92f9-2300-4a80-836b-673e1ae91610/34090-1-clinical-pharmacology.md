@@ -85,6 +85,8 @@ The effects of level of renal impairment, age, body weight, and level of hepatic
 
 Figure 3: Effect of Specific Populations on the Pharmacokinetics of Rivaroxaban
 
+[see Dosage and Administration (2.1)].
+
 Gender
 
 Gender did not influence the pharmacokinetics or pharmacodynamics of XARELTO.
