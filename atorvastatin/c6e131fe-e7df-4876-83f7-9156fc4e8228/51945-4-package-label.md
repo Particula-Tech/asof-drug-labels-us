@@ -22,9 +22,11 @@ DISTRIBUTED BY: PARKE-DAVIS DIV OF PFIZER INC, NY, NY 10017 MADE IN IRELAND
 
 EXP & LOT AREA
 
-PRINCIPAL DISPLAY PANEL - 10 mg Blister Pack Carton
+# PRINCIPAL DISPLAY PANEL - 10 mg Tablet Blister Pack Carton
 
 Pfizer
+
+NDC 0071-0155-40
 
 Lipitor® (atorvastatin calcium)
 
@@ -34,7 +36,9 @@ tablets
 
 For in-institution use only
 
-100 Tablets
+UNIT DOSE
+
+100 Tablets Rx only
 
 # PRINCIPAL DISPLAY PANEL - 10 mg Tablet Packet Carton
 
@@ -81,9 +85,11 @@ DISTRIBUTED BY: PARKE-DAVIS DIV OF PFIZER INC, NY, NY 10017 MADE IN IRELAND
 
 EXP & LOT AREA
 
-PRINCIPAL DISPLAY PANEL - 20 mg Blister Pack Carton
+# PRINCIPAL DISPLAY PANEL - 20 mg Tablet Blister Pack Carton
 
 Pfizer
+
+NDC 0071-0156-40
 
 Lipitor® (atorvastatin calcium)
 
@@ -93,7 +99,9 @@ tablets
 
 For in-institution use only
 
-100 Tablets
+UNIT DOSE
+
+100 Tablets Rx only
 
 # PRINCIPAL DISPLAY PANEL - 20 mg Tablet Packet Carton
 
@@ -142,9 +150,11 @@ DISTRIBUTED BY: PARKE-DAVIS DIV OF PFIZER INC, NY, NY 10017 MADE IN IRELAND
 
 EXP & LOT AREA
 
-PRINCIPAL DISPLAY PANEL - 40 mg Blister Pack Carton
+# PRINCIPAL DISPLAY PANEL - 40 mg Tablet Blister Pack Carton
 
 Pfizer
+
+NDC 0071-0157-40
 
 Lipitor® (atorvastatin calcium)
 
@@ -154,7 +164,9 @@ tablets
 
 For in-institution use only
 
-100 Tablets
+UNIT DOSE
+
+100 Tablets Rx only
 
 # PRINCIPAL DISPLAY PANEL - 40 mg Tablet Packet Carton
 
@@ -203,9 +215,11 @@ DISTRIBUTED BY: PARKE-DAVIS DIV OF PFIZER INC, NY, NY 10017 MADE IN IRELAND
 
 EXP & LOT AREA
 
-PRINCIPAL DISPLAY PANEL - 80 mg Blister Pack Carton
+# PRINCIPAL DISPLAY PANEL - 80 mg Tablet Blister Pack Carton
 
 Pfizer
+
+NDC 0071-0158-92
 
 Lipitor® (atorvastatin calcium)
 
@@ -215,4 +229,6 @@ tablets
 
 For in-institution use only
 
-64 Tablets
+UNIT DOSE
+
+64 Tablets Rx only
