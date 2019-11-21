@@ -26,4 +26,4 @@ HYZAAR may be administered with other antihypertensive agents.
 ## 1.2 Hypertensive Patients with Left Ventricular Hypertrophy
 
 HYZAAR is indicated to reduce the risk of stroke in patients with hypertension and left ventricular hypertrophy, but there is evidence that this benefit does not apply to Black patients.
-[See Use in Specific Populations (8.6), Clinical Pharmacology (12.3), and Dosage and Administration (2.5).]
+[See Use in Specific Populations (8.6), Clinical Pharmacology (12.3), and Dosage and Administration (2.2).]

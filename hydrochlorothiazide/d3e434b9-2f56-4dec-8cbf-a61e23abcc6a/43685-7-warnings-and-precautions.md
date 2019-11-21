@@ -2,6 +2,7 @@
 
 ## 5.1 Fetal Toxicity
 
+HYZAAR can cause fetal harm when administered to a pregnant woman.
 Use of drugs that act on the renin-angiotensin system during the second and third trimesters of pregnancy reduces fetal renal function and increases fetal and neonatal morbidity and death.
 Resulting oligohydramnios can be associated with fetal lung hypoplasia and skeletal deformations.
 Potential neonatal adverse effects include skull hypoplasia, anuria, hypotension, renal failure, and death.
@@ -58,7 +59,3 @@ Risk factors for developing acute angle-closure glaucoma may include a history o
 ## 5.7 Systemic Lupus Erythematosus
 
 Thiazide diuretics have been reported to cause exacerbation or activation of systemic lupus erythematosus.
-
-## 5.8 Postsympathectomy Patients
-
-The antihypertensive effects of the drug may be enhanced in the postsympathectomy patient.

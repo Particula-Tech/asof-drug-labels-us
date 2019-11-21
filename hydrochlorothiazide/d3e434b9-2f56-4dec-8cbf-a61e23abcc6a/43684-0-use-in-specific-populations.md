@@ -2,22 +2,52 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Category D
+Risk Summary
 
+HYZAAR can cause fetal harm when administered to a pregnant woman.
 Use of drugs that act on the renin-angiotensin system during the second and third trimesters of pregnancy reduces fetal renal function and increases fetal and neonatal morbidity and death.
-Resulting oligohydramnios can be associated with fetal lung hypoplasia and skeletal deformations.
-Potential neonatal adverse effects include skull hypoplasia, anuria, hypotension, renal failure, and death.
-When pregnancy is detected, discontinue losartan as soon as possible.
-These adverse outcomes are usually associated with use of these drugs in the second and third trimester of pregnancy.
 Most epidemiologic studies examining fetal abnormalities after exposure to antihypertensive use in the first trimester have not distinguished drugs affecting the renin-angiotensin system from other antihypertensive agents.
-Appropriate management of maternal hypertension during pregnancy is important to optimize outcomes for both mother and fetus.
+When pregnancy is detected, discontinue HYZAAR as soon as possible (see Clinical Considerations).
+
+The estimated background risk of major birth defects and miscarriage for the indicated population is unknown.
+All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively.
+
+Clinical Considerations
+
+Disease-associated Maternal and/or Embryo/Fetal Risk
+
+Hypertension in pregnancy increases the maternal risk for pre-eclampsia, gestational diabetes, premature delivery, and delivery complications (e.g., need for cesarean section, post-partum hemorrhage).
+Hypertension increases the fetal risk for intrauterine growth restriction and intrauterine death.
+Pregnant women with hypertension should be carefully monitored and managed accordingly.
+
+Fetal/Neonatal Adverse Reactions
+
+Losartan:
+
+Use of drugs that act on the renin-angiotensin system in the second and third trimesters of pregnancy can result in the following: oligohydramnios, reduced fetal renal function leading to anuria and renal failure, fetal lung hypoplasia, skeletal deformations, including skull hypoplasia, hypotension, and death.
 
 In the unusual case that there is no appropriate alternative to therapy with drugs affecting the renin-angiotensin system for a particular patient, apprise the mother of the potential risk to the fetus.
 Perform serial ultrasound examinations to assess the intra-amniotic environment.
 If oligohydramnios is observed, discontinue HYZAAR, unless it is considered lifesaving for the mother.
-Fetal testing may be appropriate, based on the week of pregnancy.
+Fetal testing may be appropriate, based on the week of gestation.
 Patients and physicians should be aware, however, that oligohydramnios may not appear until after the fetus has sustained irreversible injury.
-Closely observe infants with histories of in utero exposure to HYZAAR for hypotension, oliguria, and hyperkalemia [see Use in Specific Populations (8.4)].
+Closely observe neonates with histories of in utero exposure to HYZAAR for hypotension, oliguria, and hyperkalemia.
+In neonates with a history of in utero exposure to HYZAAR, if oliguria or hypotension occurs, support blood pressure and renal perfusion.
+Exchange transfusions or dialysis may be required as a means of reversing hypotension and replacing renal function.
+
+Hydrochlorothiazide:
+
+Thiazides can cross the placenta, and concentrations reached in the umbilical vein approach those in the maternal plasma.
+Hydrochlorothiazide, like other diuretics, can cause placental hypoperfusion.
+It accumulates in the amniotic fluid, with reported concentrations up to 19 times higher than in umbilical vein plasma.
+Use of thiazides during pregnancy is associated with a risk of fetal or neonatal jaundice or thrombocytopenia.
+Since they do not alter the course of preeclampsia, these drugs should not be used to treat hypertension in pregnant women.
+The use of hydrochlorothiazide for other indications in pregnancy should be avoided.
+
+Data
+
+Animal Data
 
 There was no evidence of teratogenicity in rats or rabbits treated with a maximum losartan potassium dose of 10 mg/kg/day in combination with 2.5 mg/kg/day of hydrochlorothiazide.
 At these dosages, respective exposures (AUCs) of losartan, its active metabolite, and hydrochlorothiazide in rabbits were approximately 5, 1.5, and 1.0 times those achieved in humans with 100 mg losartan in combination with 25 mg hydrochlorothiazide.
@@ -27,10 +57,9 @@ As also observed in studies with losartan alone, adverse fetal and neonatal effe
 Respective AUCs for losartan, its active metabolite and hydrochlorothiazide at these dosages in rats were approximately 35, 10 and 10 times greater than those achieved in humans with the administration of 100 mg of losartan in combination with 25 mg hydrochlorothiazide.
 When hydrochlorothiazide was administered without losartan to pregnant mice and rats during their respective periods of major organogenesis, at doses up to 3000 and 1000 mg/kg/day, respectively, there was no evidence of harm to the fetus.
 
-Thiazides cross the placental barrier and appear in cord blood.
-There is a risk of fetal or neonatal jaundice, thrombocytopenia, and possibly other adverse reactions that have occurred in adults.
+## 8.2 Lactation
 
-## 8.3 Nursing Mothers
+Risk Summary
 
 It is not known whether losartan is excreted in human milk, but significant levels of losartan and its active metabolite were shown to be present in rat milk.
 Thiazides appear in human milk.

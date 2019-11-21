@@ -26,21 +26,21 @@ Cardiac disorders: Palpitation, tachycardia.
 
 Vascular disorders: Dose-related orthostatic effects, necrotizing angiitis (vasculitis, cutaneous vasculitis).
 
-Respiratory, thoracic and mediastinal disorders: Nasal congestion, pharyngitis, sinus disorder, respiratory distress (including pneumonitis and pulmonary edema).
+Respiratory, thoracic and mediastinal disorders: Nasal congestion.
 
-Gastrointestinal disorders: Dyspepsia, abdominal pain, gastric irritation, cramping, diarrhea, constipation, nausea, vomiting, pancreatitis, sialoadenitis.
+Gastrointestinal disorders: Dyspepsia, abdominal pain, gastric irritation, cramping, nausea, vomiting, pancreatitis, sialoadenitis.
 
 Hepato-biliary disorders: Jaundice (intrahepatic cholestatic jaundice).
 
 Skin and subcutaneous tissue disorders: Rash, pruritus, purpura, toxic epidermal necrolysis, urticaria, photosensitivity, cutaneous lupus erythematosus.
 
-Musculoskeletal and connective tissue disorders: Muscle cramps, muscle spasm, myalgia, arthralgia.
+Musculoskeletal and connective tissue disorders: Muscle cramps, muscle spasm.
 
 Renal and urinary disorders: Glycosuria, renal dysfunction, interstitial nephritis, renal failure.
 
 Reproductive system and breast disorders: Erectile dysfunction/impotence.
 
-General disorders and administration site conditions: Chest pain, edema/swelling, malaise, fever, weakness.
+General disorders and administration site conditions: Chest pain, malaise, weakness.
 
 Investigations: Liver function abnormalities.
 
@@ -77,6 +77,6 @@ Hypersensitivity: Angioedema, including swelling of the larynx and glottis, caus
 Vasculitis, including Henoch-Schönlein purpura, has been reported with losartan.
 Anaphylactic reactions have been reported.
 
-Musculoskeletal: rhabdomyolysis
+Musculoskeletal: Rhabdomyolysis.
 
-Skin: Erythroderma
+Skin: Erythroderma.

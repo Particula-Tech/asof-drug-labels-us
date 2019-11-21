@@ -93,7 +93,7 @@ When plasma levels have been followed for at least 24 hours, the plasma half-lif
 At least 61 percent of the oral dose is eliminated unchanged within 24 hours.
 Hydrochlorothiazide crosses the placental but not the blood-brain barrier and is excreted in breast milk.
 
-Special Populations
+Specific Populations
 
 Geriatric and Gender
 
