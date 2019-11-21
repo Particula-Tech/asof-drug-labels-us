@@ -4,19 +4,13 @@ Ranolazine (ra NOE la zeen)
 
 extended-release tablets
 
-Dosing Strengths:
-
-500 mg tablets
-
-1000 mg tablets
-
 Read this Patient Information before you start taking ranolazine extended-release tablets and each time you get a refill.
 There may be new information.
 This information does not take the place of talking with your doctor about your medical condition or treatment.
 
 What are ranolazine extended-release tablets?
 
-Ranolazine extended-release tablets area prescription medicine used to treat angina that keeps coming back (chronic angina).
+Ranolazine extended-release tablets are a prescription medicine used to treat angina that keeps coming back (chronic angina).
 
 Ranolazine extended-release tablets may be used with other medicines that are used for heart problems and blood pressure control.
 
@@ -27,13 +21,13 @@ Who should not take ranolazine extended-release tablets?
 Do not take ranolazine extended-release tablets if:
 
 - •you take any of the following medicines:
-  - •for fungus infection: ketoconazole (Nizoral®), itraconazole (Sporanox®, Onmel™)
-  - •for infection: clarithromycin (Biaxin®)
-  - •for depression: nefazodone
-  - •for HIV: nelfinavir (Viracept®), ritonavir (Norvir®), lopinavir and ritonavir (Kaletra®), indinavir (Crixivan®), saquinavir (Invirase®)
-  - •for tuberculosis (TB): rifampin (Rifadin®), rifabutin (Mycobutin®), rifapentine (Priftin®)
-  - •for seizures: phenobarbital, phenytoin (Phenytek®, Dilantin®, Dilantin-125®), carbamazepine (Tegretol®)
-  - •St.
+  - ofor fungus infection: ketoconazole (Nizoral®), itraconazole (Sporanox®, Onmel™)
+  - ofor infection: clarithromycin (Biaxin®)
+  - ofor depression: nefazodone
+  - ofor HIV: nelfinavir (Viracept®), ritonavir (Norvir®), lopinavir and ritonavir (Kaletra®), indinavir (Crixivan®), saquinavir (Invirase®)
+  - ofor tuberculosis (TB): rifampin (Rifadin®), rifabutin (Mycobutin®), rifapentine (Priftin®)
+  - ofor seizures: phenobarbital, phenytoin (Phenytek®, Dilantin®, Dilantin-125®), carbamazepine (Tegretol®)
+  - oSt.
     John's wort (Hypericum perforatum)
 - •you have scarring (cirrhosis) of your liver
 
@@ -117,7 +111,7 @@ You may report side effects to FDA at 1-800-FDA-1088.
 
 How should I store ranolazine extended-release tablets?
 
-Store ranolazine extended-release tablets at room temperature between 59° to 86°F (15° to 30°C).
+Store ranolazine extended-release tablets at room temperature between 59°F to 86°F (15°C to 30°C).
 
 Keep ranolazine extended-release tablets and all medicines out of the reach of children.
 
@@ -177,4 +171,4 @@ Questions?
 
 www.glenmarkpharma-us.com
 
-September 2019
+November 2019

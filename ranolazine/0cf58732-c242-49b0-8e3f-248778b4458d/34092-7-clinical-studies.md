@@ -16,20 +16,20 @@ Table 1 Exercise Treadmill Results (CARISA)
 |  | Mean Difference from Placebo (sec) |  |
 | Study | CARISA (N=791) |  |
 | Exercise Duration |  |  |
-| Trough | 24p-value ≤0.05 | 24 |
-| Peak | 34p-value ≤0.005 | 26 |
+| Trough | 24 | 24a |
+| Peak | 34b | 26a |
 | Time to Angina |  |  |
-| Trough | 30 | 26 |
-| Peak | 38 | 38 |
+| Trough | 30a | 26a |
+| Peak | 38b | 38b |
 | Time to 1 mm ST-Segment Depression |  |  |
 | Trough | 20 | 21 |
-| Peak | 41 | 35 |
+| Peak | 41b | 35b |
 
 The effects of ranolazine on angina frequency and nitroglycerin use are shown in Table 2.
 
 Table 2 Angina Frequency and Nitroglycerin Use (CARISA)
 
-|  |  | Placebo | Ranolazine Extended- Release Tablets 750 mgTwice daily | Ranolazine Extended- Release Tablets 1000 mg |
+|  |  | Placebo | Ranolazine Extended- Release Tablets 750 mg | Ranolazine Extended- Release Tablets 1000 mg |
 | --- | --- | --- | --- | --- |
 | Angina Frequency (attacks/week) | N | 258 | 272 | 261 |
 | Mean | 3.3 | 2.5 | 2.1 |  |
@@ -51,7 +51,7 @@ These treatment effects appeared consistent across age and use of long-acting ni
 
 Table 3 Angina Frequency and Nitroglycerin Use (ERICA)
 
-|  |  | Placebo | Ranolazine Extended- Release Tablets1000 mg twice daily |
+|  |  | Placebo | Ranolazine Extended- Release Tabletsa |
 | --- | --- | --- | --- |
 | Angina Frequency (attacks/week) | N | 281 | 277 |
 | Mean | 4.3 | 3.3 |  |
