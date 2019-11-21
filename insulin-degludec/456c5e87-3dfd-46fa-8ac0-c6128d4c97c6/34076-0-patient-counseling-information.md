@@ -12,13 +12,11 @@ Hyperglycemia or Hypoglycemia
 
 Inform patients that hypoglycemia is the most common adverse reaction with insulin.
 Inform patients of the symptoms of hypoglycemia.
-Inform patients that the ability to concentrate and react may be impaired as a result of hypoglycemia.
+Inform patients that the ability to concentrate and react may be impaired as a result of hypoglycemia [see Warnings and Precautions (5.3)].
 This may present a risk in situations where these abilities are especially important, such as driving or operating other machinery.
 Advise patients who have frequent hypoglycemia or reduced or absent warning signs of hypoglycemia to use caution when driving or operating machinery.
 
-Advise patients that changes in insulin regimen can predispose to hyper- or hypoglycemia.
-
-Advise patients that changes in insulin regimen should be made under close medical supervision [see Warnings and Precautions (5.2)].
+Advise patients that changes in insulin regimen can predispose to hyperglycemia or hypoglycemia and that changes in insulin regimen should be made under close medical supervision [see Warnings and Precautions (5.2)].
 
 Medication Errors
 
@@ -29,13 +27,13 @@ Instruct patients to never use a syringe to remove TRESIBA from the FlexTouch di
 
 Rx Only
 
-Date of Issue: 11/2018
+Date of Issue: 11/2019
 
-Version: 7
+Version: 8
 
 Novo Nordisk®, TRESIBA®, FlexTouch®, LEVEMIR®, NOVOLOG®, NovoFine® and NovoTwist®are registered trademarks of Novo Nordisk A/S.
 
-© 2015-2018 Novo Nordisk
+© 2015-2019 Novo Nordisk
 
 PATENT Information: http://novonordisk-us.com/patients/products/product-patents.html
 

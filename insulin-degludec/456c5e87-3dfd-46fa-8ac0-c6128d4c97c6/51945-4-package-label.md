@@ -48,6 +48,8 @@ After first use, store between 36°F to 86°F (2°C to 30°C).
 
 Protect from light.
 
+Dispense in this sealed carton.
+
 # PRINCIPAL DISPLAY PANEL U-200 FlexTouch
 
 NDC 0169-2550-13
@@ -81,3 +83,5 @@ Do not freeze.
 After first use, store between 36°F to 86°F (2°C to 30°C).
 
 Protect from light.
+
+Dispense in this sealed carton.

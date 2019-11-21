@@ -54,6 +54,11 @@ How should I take TRESIBA?
   You may give other people a serious infection or get a serious infection from them.
 - •Never inject TRESIBA into a vein or muscle.
 - •Never use a syringe to remove TRESIBA from the FlexTouch pen.
+- •TRESIBA can be injected under the skin (subcutaneously) of your upper legs (thighs), upper arms, or stomach area (abdomen).
+- •Change (rotate) your injection sites within the area you choose with each dose to reduce your risk of getting lipodystrophy (pits in skin or thickened skin) and localized cutaneous amyloidosis (skin with lumps) at the injection sites.
+  - oDo not use the exact same spot for each injection.
+  - oDo not inject where the skin has pits, is thickened, or has lumps.
+  - oDo not inject where the skin is tender, bruised, scaly or hard, or into scars or damaged skin.
 
 What should I avoid while taking TRESIBA?
 
@@ -128,7 +133,7 @@ For more information, go to www.novonordisk-us.com or call 1-800-727-6500.
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 
-Revised: 11/2018
+Revised: 11/2019
 
 Instructions for Use
 
@@ -136,7 +141,7 @@ TRESIBA® (tre–SI-bah)
 
 (insulin degludec injection)
 
-10 mL vial (100 units/mL, U-100)
+10 mL multiple-dose vial (100 units/mL, U-100)
 
 Read this Instructions for Use before you start taking TRESIBA and each time you get a refill.
 There may be new information.
@@ -186,14 +191,16 @@ Preparing your TRESIBA dose:
    Your healthcare provider should tell you if you need to pinch the skin before injecting.
 3. •TRESIBAcan be injected under the skin (subcutaneously) of your upper legs (thighs), upper arms, or stomach area (abdomen).
    Do not inject TRESIBA into your muscle.
-4. •Change (rotate) your injection sites within the area you choose for each injection.
+4. •Change (rotate) your injection sites within the area you choose for each dose to reduce your risk of getting lipodystrophy (pits in skin or thickened skin) and localized cutaneous amyloidosis (skin with lumps) at the injection sites.
    Do not use the same injection site for each injection.
+   Do not inject where the skin has pits, is thickened, or has lumps.
+   Do not inject where the skin is tender, bruised, scaly or hard, or into scars or damaged skin.
 5. •Do not dilute or mix TRESIBA with any other type of insulin or solutions.
 
 | Step 10: Choose your injection site and wipe the skin with an alcohol swab (See Figure J).Let the injection site dry before you inject your dose. | (Figure J) |
 | --- | --- |
 | Step 11: Insert the needle into your skin. Push down on the plunger to inject your dose (See Figure K).Make sure you have injected all the insulin in the syringe. | (Figure K) |
-| Step 12: Pull the needle out of your skin. After your injection, you may see a drop of TRESIBA at the needle tip. This is normal and does not affect the dose you just received (See Figure L). oIf you see blood after you take the needle out of your skin, press the injection site lightly with a piece of gauze or an alcohol swab. Do not rub the area. | (Figure L) |
+| Step 12: Pull the needle out of your skin. After your injection, you may see a drop of TRESIBA at the needle tip. This is normal and does not affect the dose you just received (See Figure L). •If you see blood after you take the needle out of your skin, press the injection site lightly with a piece of gauze or an alcohol swab. Do not rub the area. | (Figure L) |
 
 After your injection:
 
@@ -232,7 +239,7 @@ Before use:
 
 Vial in use:
 
-- •Store the TRESIBAvial you are currently using in the refrigerator between 36°F to 46°F (2°C to 8°C) or keep at room temperature below 86°F (30°C) in the original carton to protect from light.
+- •Store the TRESIBA vial you are currently using in the refrigerator between 36°F to 46°F (2°C to 8°C) or keep at room temperature below 86°F (30°C) in the original carton to protect from light.
 - •Keep TRESIBA away from direct heat or light.
 - •The TRESIBA vial you are using should be thrown away after 56 days, even if it still has insulin left in it and the expiration date has not passed.
 
@@ -251,13 +258,13 @@ Novo Nordisk A/S
 
 DK-2880 Bagsværd, Denmark
 
-Novo Nordisk® and TRESIBA® are registered trademark of Novo Nordisk A/S.
+Novo Nordisk® and TRESIBA® are registered trademarks of Novo Nordisk A/S.
 
 Patent Information:
 
 http://novonordisk-us.com/patients/products/product-patents.html
 
-© 2015-2018 Novo Nordisk
+© 2015-2019 Novo Nordisk
 
 For information contact:
 
@@ -269,7 +276,7 @@ Plainsboro, NJ 08536
 
 www.novonordisk-us.com
 
-Revised: 11/2018
+Revised: 11/2019
 
 Instructions for Use
 
@@ -279,7 +286,7 @@ TRESIBA® (tre-SI-bah) FlexTouch® Pen 100 units/mL
 
 - •Do not share your TRESIBA FlexTouch Pen with other people, even if the needle is changed.
   You may give other people a serious infection, or get a serious infection from them.
-- •TRESIBA FlexTouch Pen 100 units/mL (“Pen”) is a prefilled disposable pen containing 300 units of TRESIBA (insulin degludec injection) 100 units/mL insulin.
+- •TRESIBA FlexTouch Pen 100 units/mL (“Pen”) is a prefilled disposable, single-patient-use pen containing 300 units of TRESIBA (insulin degludec injection) 100 units/mL insulin.
   You can inject from 1 to 80 units in a single injection.
   The units can be increased by 1 unit at a time.
 - •This Pen is not recommended for use by the blind or visually impaired without the assistance of a person trained in the proper use of the product.
@@ -351,8 +358,8 @@ shows “0”.
 The “0” must line up with the dose pointer.
 
 - •A drop of insulin should be seen at the needle tip (See Figure J).
-- •If you do not see a drop of insulin, repeat steps 7 to 9, no more than 6 times.
-- •If you still do not see a drop of insulin, change the needle and repeat steps 7 to 9.
+  - oIf you do not see a drop of insulin, repeat steps 7 to 9, no more than 6 times.
+  - oIf you still do not see a drop of insulin, change the needle and repeat steps 7 to 9.
 
 Selecting your dose:
 
@@ -368,26 +375,27 @@ Check to make sure the dose selector is set at 0.
 
 with your dose (See Figure K).
 
-- •If you select the wrong dose, you can turn the dose selector forwards or backwards to the correct dose.
-- •The even numbers are printed on the dial.
-- •The odd numbers are shown as lines.
+- oIf you select the wrong dose, you can turn the dose selector forwards or backwards to the correct dose.
+- oThe even numbers are printed on the dial.
+- oThe odd numbers are shown as lines.
 
 - •The TRESIBA FlexTouch Pen insulin scale will show you how much insulin is left in your Pen (See Figure L).
 
 - •To see how much insulin is left in your TRESIBA FlexTouch Pen:
-- •Turn the dose selector until it stops.
+- oTurn the dose selector until it stops.
   The dose counter will line up with the number of units of insulin that is left in your Pen.
   If the dose counter shows 80, there are at least 80 units left in your Pen.
-- •If the dose counter shows less than 80, the number shown in the dose counter is the number of units left
-- in your Pen.
+- oIf the dose counter shows less than 80, the number shown in the dose counter is the number of units left in your Pen.
 
 Giving your injection:
 
 - •Inject your TRESIBA exactly as your healthcare provider has shown you.
   Your healthcare provider should tell you if you need to pinch the skin before injecting.
 - •TRESIBA can be injected under the skin (subcutaneously) of your upper legs (thighs), upper arms, or stomach area (abdomen).
-- •Change (rotate) your injection sites within the area you choose for each dose.
+- •Change (rotate) your injection sites within the area you choose for each dose to reduce your risk of getting lipodystrophy (pits in skin or thickened skin) and localized cutaneous amyloidosis (skin with lumps) at the injection sites.
   Do not use the same injection site for each injection.
+  Do not inject where the skin has pits, is thickened, or has lumps.
+  Do not inject where the skin is tender, bruised, scaly or hard, or into scars or damaged skin.
 
 Step 11:
 
@@ -396,37 +404,36 @@ Step 11:
 Step 12:
 
 - •Insert the needle into your skin (See Figure N).
-- •Make sure you can see the dose counter.
+- oMake sure you can see the dose counter.
   Do not cover it with your fingers, this can stop your injection.
 
 Step 13:
 
 - •Press and hold down the dose button until the dose counter shows “0” (See Figure O).
-- •The “0” must line up with the dose pointer.
+- oThe “0” must line up with the dose pointer.
   You may then hear or feel a click.
 
 - •Keep the needle in your skin after the dose counter has returned to “0” and slowly count to 6 (See Figure P).
-- •When the dose counter returns to “0”, you will not get your full dose until 6 seconds later.
-- •If the needle is removed before you count to 6, you may see a stream of insulin coming from the needle tip.
-- •If you see a stream of insulin coming from the needle tip you will not get your full dose.
+- oWhen the dose counter returns to “0”, you will not get your full dose until 6 seconds later.
+- oIf the needle is removed before you count to 6, you may see a stream of insulin coming from the needle tip.
+- oIf you see a stream of insulin coming from the needle tip you will not get your full dose.
   If this happens you should check your blood sugar levels more often because you may need more insulin.
 
 Step 14:
 
 - •Pull the needle out of your skin (See Figure Q).
-
-o If you see blood after you take the needle out of your skin, press the injection site lightly with a piece of gauze or an alcohol swab.
-Do not rub the area.
+- oIf you see blood after you take the needle out of your skin, press the injection site lightly with a piece of gauze or an alcohol swab.
+  Do not rub the area.
 
 Step 15:
 
 - •Carefully remove the needle from the Pen and throw it away (See Figure R).
-- •Do not recap the needle.
+- oDo not recap the needle.
   Recapping the needle can lead to needle stick injury.
 
 - •If you do not have a sharps container, carefully slip the needle into the outer needle cap (See Figure S). Safely remove the needle and throw it away as soon as you can.
 
-- •Do not store the Pen with the needle attached.
+- oDo not store the Pen with the needle attached.
   Storing without the needle attached helps prevent leaking, blocking of the needle, and air from entering the Pen.
 
 Step 16:
@@ -438,11 +445,11 @@ After your injection:
 - •Put your used TRESIBA FlexTouch Pen and needles in a FDA-cleared sharps disposal container right away after use.
   Do not throw away (dispose of) loose needles and Pens in your household trash.
 - •If you do not have a FDA-cleared sharps disposal container, you may use a household container that is:
-  - made of a heavy-duty plastic
-  - can be closed with a tight-fitting, puncture-resistant lid, without sharps being able to come out
-  - upright and stable during use
-  - leak-resistant
-  - properly labeled to warn of hazardous waste inside the container
+  - omade of a heavy-duty plastic
+  - ocan be closed with a tight-fitting, puncture-resistant lid, without sharps being able to come out
+  - oupright and stable during use
+  - oleak-resistant
+  - oproperly labeled to warn of hazardous waste inside the container
 - •When your sharps disposal container is almost full, you will need to follow your community guidelines for the right way to dispose of your sharps disposal container.
   There may be state or local laws about how you should throw away used needles and syringes.
   Do not reuse or share needles or syringes with another person.
@@ -476,11 +483,11 @@ This Instructions for Use has been approved by the U.S. Food and Drug Administra
 
 Manufactured by: Novo Nordisk A/S DK-2880 Bagsvaerd, Denmark
 
-Revised: 12/2016
+Revised: 11/2019
 
 For more information go towww.TRESIBA.com
 
-© 2015-2016 Novo Nordisk
+© 2015-2019 Novo Nordisk
 
 Instructions for Use
 
@@ -490,7 +497,7 @@ TRESIBA® (tre-SI-bah) FlexTouch® Pen 200 units/mL
 
 - •Do not share your TRESIBA FlexTouch Pen with other people, even if the needle is changed.
   You may give other people a serious infection, or get a serious infection from them.
-- •TRESIBA FlexTouch Pen 200 units/mL (“Pen”) is a prefilled disposable pen containing 600 units of TRESIBA (insulin degludec injection) 200 units/mL insulin.
+- •TRESIBA FlexTouch Pen 200 units/mL (“Pen”) is a prefilled disposable, single-patient-use pen containing 600 units of TRESIBA (insulin degludec injection) 200 units/mL insulin.
   You can inject from 2 to 160 units in a single injection.
   The units can be increased by 2 units at a time.
 - •This Pen is not recommended for use by the blind or visually impaired without the assistance of a person trained in the proper use of the product.
@@ -505,15 +512,15 @@ Supplies you will need to give your TRESIBA injection:
 
 Preparing your TRESIBA FlexTouch Pen:
 
-1. 1.Wash your hands with soap and water.
-2. 2.Before you start to prepare your injection, check the TRESIBA FlexTouch Pen label to make sure you are taking the right type of insulin.
-   This is especially important if you take more than 1 type of insulin.
-3. 3.TRESIBA should look clear and colorless.
-   Do not use TRESIBA if it is cloudy or colored.
-4. 4.Do not use TRESIBA past the expiration date printed on the label or 56 days after you start using the Pen.
-5. 5.Always use a new needle for each injection to help ensure sterility and prevent blocked needles.
-   Do not reuse or share needles with another person.
-   You may give other people a serious infection, or get a serious infection from them.
+- •Wash your hands with soap and water.
+- •Before you start to prepare your injection, check the TRESIBA FlexTouch Pen label to make sure you are taking the right type of insulin.
+  This is especially important if you take more than 1 type of insulin.
+- •TRESIBA should look clear and colorless.
+  Do not use TRESIBA if it is cloudy or colored.
+- •Do not use TRESIBA past the expiration date printed on the label or 56 days after you start using the Pen.
+- •Always use a new needle for each injection to help ensure sterility and prevent blocked needles.
+  Do not reuse or share needles with another person.
+  You may give other people a serious infection, or get a serious infection from them.
 
 (Figure A)
 
@@ -561,10 +568,8 @@ Step 9:
   Press and hold in the dose button until the dose counter shows “0”.
   The “0” must line up with the dose pointer.
 - •A drop of insulin should be seen at the needle tip (See Figure J).
-
-o If you do not see a drop of insulin, repeat steps 7 to 9, no more than 6 times.
-
-o If you still do not see a drop of insulin, change the needle and repeat steps 7 to 9.
+- oIf you do not see a drop of insulin, repeat steps 7 to 9, no more than 6 times.
+- oIf you still do not see a drop of insulin, change the needle and repeat steps 7 to 9.
 
 Selecting your dose:
 
@@ -576,100 +581,84 @@ Do not perform any dose conversion.
 Check to make sure the dose selector is set at 0.
 
 - •Turn the dose selector to select the number of units you need to inject.
-  The dose pointer should line up
+  The dose pointer should line up with your dose (See Figure K).
+  - oIf you select the wrong dose, you can turn the dose selector forwards or backwards to the correct dose.
+- oEach line on the dial is an even number.
 
-with your dose (See Figure K).
-
-o If you select the wrong dose, you can turn the dose selector forwards or backwards to the correct dose.
-
-o Each line on the dial is an even number.
-
-- oThe TRESIBA FlexTouch Pen insulin scale will show you how much insulin is left in your Pen (See Figure L).
+- •The TRESIBA FlexTouch Pen insulin scale will show you how much insulin is left in your Pen (See Figure L).
 
 - •To see how much insulin is left in your TRESIBA FlexTouch Pen:
-
-o Turn the dose selector until it stops.
-The dose counter will line up with the number of units of insulin that is
-
-left in your Pen.
-If the dose counter shows 160, there are at least 160 units left in your Pen.
-
-o If the dose counter shows less than 160, the number shown in the dose counter is the number of units left
-
-in your Pen.
+- o Turn the dose selector until it stops.
+  The dose counter will line up with the number of units of insulin that is
+- left in your Pen.
+  If the dose counter shows 160, there are at least 160 units left in your Pen.
+- o If the dose counter shows less than 160, the number shown in the dose counter is the number of units left
+- in your Pen.
 
 Giving your injection:
 
-- oInject your TRESIBA exactly as your healthcare provider has shown you.
+- •Inject your TRESIBA exactly as your healthcare provider has shown you.
   Your healthcare provider should tell you if you need to pinch the skin before injecting.
-- oTRESIBA can be injected under the skin (subcutaneously) of your upper legs (thighs), upper arms, or stomach area (abdomen).
-- oChange (rotate) your injection sites within the area you choose for each dose.
+- •TRESIBA can be injected under the skin (subcutaneously) of your upper legs (thighs), upper arms, or stomach area (abdomen).
+- •Change (rotate) your injection sites within the area you choose for each dose to reduce your risk of getting lipodystrophy (pits in skin or thickened skin) and localized cutaneous amyloidosis (skin with lumps) at the injection sites.
   Do not use the same injection site for each injection.
+  Do not inject where the skin has pits, is thickened, or has lumps.
+  Do not inject where the skin is tender, bruised, scaly or hard, or into scars or damaged skin.
 
 Step 11:
 
-- oChoose your injection site and wipe the skin with an alcohol swab (See Figure M). Let the injection site dry before you inject your dose.
+- •Choose your injection site and wipe the skin with an alcohol swab (See Figure M). Let the injection site dry before you inject your dose.
 
 Step 12:
 
 - •Insert the needle into your skin (See Figure N).
-
-o Make sure you can see the dose counter.
-Do not cover it with your fingers, this can stop your injection.
+- oMake sure you can see the dose counter.Do not cover it with your fingers, this can stop your injection.
 
 Step 13:
 
 - •Press and hold down the dose button until the dose counter shows “0” (See Figure O).
-
-o The “0” must line up with the dose pointer.
-You may then hear or feel a click.
+- o The “0” must line up with the dose pointer.
+  You may then hear or feel a click.
 
 - •Keep the needle in your skin after the dose counter has returned to “0” and slowly count to 6 (See Figure P).
-
-o When the dose counter returns to “0”, you will not get your full dose until 6 seconds later.
-
-o If the needle is removed before you count to 6, you may see a stream of insulin coming from the
-
-1. needle tip.
-
-o If you see a stream of insulin coming from the needle tip you will not get your full dose.
-If this happens you
-
-should check your blood sugar levels more often because you may need more insulin.
+- oWhen the dose counter returns to “0”, you will not get your full dose until 6 seconds later.
+- 
+- oIf the needle is removed before you count to 6, you may see a stream of insulin coming from the needle tip.
+- oIf you see a stream of insulin coming from the needle tip you will not get your full dose.
+  If this happens you should check your blood sugar levels more often because you may need more insulin.
 
 Step 14:
 
 - •Pull the needle out of your skin (See Figure Q).
-
-o If you see blood after you take the needle out of your skin, press the injection site lightly with a piece of gauze or an alcohol swab.
-Do not rub the area.
+- oIf you see blood after you take the needle out of your skin, press the injection site lightly with a piece of gauze or an alcohol swab.
+  Do not rub the area.
 
 Step 15:
 
 - •Carefully remove the needle from the Pen and throw it away (See Figure R).
+- oDo not recap the needle.
+  Recapping the needle can lead to needle stick injury.
 
-o Do not recap the needle.
-Recapping the needle can lead to needle stick injury.
+- •If you do not have a sharps container, carefully slip the needle into the outer needle cap (See Figure S). Safely remove the needle and throw it away as soon as you can.
 
-- oIf you do not have a sharps container, carefully slip the needle into the outer needle cap (See Figure S). Safely remove the needle and throw it away as soon as you can.
-
-- oDo not store the Pen with the needle attached.
+- •Do not store the Pen with the needle attached.
   Storing without the needle attached helps prevent leaking, blocking of the needle, and air from entering the Pen.
 
 Step 16:
 
-- oReplace the Pen cap by pushing it straight on (See Figure T).
+- •Replace the Pen cap by pushing it straight on (See Figure T).
 
 After your injection:
 
 - •Put your used TRESIBA FlexTouch Pen and needles in a FDA-cleared sharps disposal container right away after use.
   Do not throw away (dispose of) loose needles and Pens in your household trash.
 - •If you do not have a FDA-cleared sharps disposal container, you may use a household container that is:
-  - made of a heavy-duty plastic
-  - can be closed with a tight-fitting, puncture-resistant lid, without sharps being able to come out
-  - upright and stable during use
-  - leak-resistant
-  - properly labeled to warn of hazardous waste inside the container
+- omade of a heavy-duty plastic
+- ocan be closed with a tight-fitting, puncture-resistant lid, without sharps being able to come out
+- oupright and stable during use
+- oleak-resistant
+- oproperly labeled to warn of hazardous waste inside the container
+  - 
 - •When your sharps disposal container is almost full, you will need to follow your community guidelines for the right way to dispose of your sharps disposal container.
   There may be state or local laws about how you should throw away used needles and syringes.
   Do not reuse or share needles or syringes with another person.
@@ -681,16 +670,16 @@ How should I store my TRESIBA FlexTouch Pen?
 
 Before use:
 
-- oStore unused TRESIBA FlexTouch Pens in the refrigerator at 36°F to 46°F (2°C to 8°C).
-- oDo not freeze TRESIBA.
+- •Store unused TRESIBA FlexTouch Pens in the refrigerator at 36°F to 46°F (2°C to 8°C).
+- •Do not freeze TRESIBA.
   Do not use TRESIBA if it has been frozen.
-- oUnused Pens may be used until the expiration date printed on the label, if kept in the refrigerator.
+- •Unused Pens may be used until the expiration date printed on the label, if kept in the refrigerator.
 
 Pen in use:
 
-- oStore the Pen you are currently using in the refrigerator between 36°F to 46°F (2°C to 8°C) or keep at room temperature below 86°F (30°C).
-- oKeep TRESIBA away from heat or light.
-- oThe TRESIBA FlexTouch Pen you are using should be thrown away after 56 days if it is refrigerated or kept at room temperature, even if it still has insulin left in it and the expiration date has not passed.
+- •Store the Pen you are currently using in the refrigerator between 36°F to 46°F (2°C to 8°C) or keep at room temperature below 86°F (30°C).
+- •Keep TRESIBA away from heat or light.
+- •The TRESIBA FlexTouch Pen you are using should be thrown away after 56 days if it is refrigerated or kept at room temperature, even if it still has insulin left in it and the expiration date has not passed.
 
 General Information about the safe and effective use of TRESIBA.
 
@@ -707,8 +696,8 @@ Novo Nordisk A/S
 
 DK-2880 Bagsvaerd, Denmark
 
-Revised: 12/2016
+Revised: 11/2019
 
 For more information go to www.TRESIBA.com
 
-© 2015-2016 Novo Nordisk
+© 2015-2019 Novo Nordisk

@@ -134,3 +134,11 @@ In a 52-week study of adult insulin-experienced type 1 diabetes patients, 68.9% 
 In a 52-week study of pediatric insulin-experienced type 1 diabetes patients, 84.1% of patients who received TRESIBA were positive at baseline for anti-insulin degludec antibodies and 5.8% of patients developed anti-insulin degludec antibodies at least once during the study.
 In a 52-week study of adult insulin-naïve type 2 diabetes patients, 1.7% of patients who received TRESIBA were positive at baseline for anti-insulin degludec antibodies and 6.2% of patients developed anti-insulin degludec antibodies at least once during the study.
 In these trials, between 96.7% and 99.7% of patients who were positive for anti-insulin degludec antibodies were also positive for anti-human insulin antibodies.
+
+## 6.3 Postmarketing Experience
+
+The following additional adverse reactions have been identified during post-approval use of TRESIBA.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+Localized cutaneous amyloidosis at the injection site has occurred.
+Hyperglycemia has been reported with repeated insulin injections into areas of localized cutaneous amyloidosis; hypoglycemia has been reported with a sudden change to an unaffected injection site.
