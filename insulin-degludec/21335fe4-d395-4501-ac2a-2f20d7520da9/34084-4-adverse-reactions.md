@@ -198,6 +198,13 @@ In these trials, between 96.7% and 99.7% of patients who were positive for anti-
 The following additional adverse reactions have been reported during post-approval use.
 Because these events are reported voluntarily from a population of uncertain size, it is generally not possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
+Insulin degludec (one of the components of XULTOPHY 100/3.6)
+
+Localized cutaneous amyloidosis at the injection site has occurred.
+Hyperglycemia has been reported with repeated
+
+insulin injections into areas of localized cutaneous amyloidosis; hypoglycemia has been reported with a sudden change to an unaffected injection site.
+
 Liraglutide
 
 - •Medullary thyroid carcinoma

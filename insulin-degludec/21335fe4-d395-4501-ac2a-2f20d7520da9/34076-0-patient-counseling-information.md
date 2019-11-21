@@ -36,12 +36,11 @@ Hyperglycemia or Hypoglycemia
 
 Inform patients that hypoglycemia is the most common adverse reaction with insulin products.
 Inform patients of the symptoms of hypoglycemia.
-Inform patients that the ability to concentrate and react may be impaired as a result of hypoglycemia.
+Inform patients that the ability to concentrate and react may be impaired as a result of hypoglycemia [see Warnings and Precautions (5.6)].
 This may present a risk in situations where these abilities are especially important, such as driving or operating other machinery.
 Advise patients who have frequent hypoglycemia or reduced or absent warning signs of hypoglycemia to use caution when driving or operating machinery.
 
-Advise patients that changes in XULTOPHY 100/3.6 regimen can predispose to hyper- or hypoglycemia.
-Advise patients that changes in XULTOPHY 100/3.6 regimen should be made under close medical supervision [see Warnings and Precautions (5.4)].
+Advise patients that changes in insulin regimen can predispose to hyperglycemia or hypoglycemia and that changes in insulin regimen should be made under close medical supervision [see Warnings and Precautions (5.4)].
 
 Never Share a XULTOPHY 100/3.6 Pen Between Patients
 
@@ -62,11 +61,11 @@ Pregnancy
 
 Instruct female patients of reproductive potential to inform their healthcare provider of a known or suspected pregnancy [see Use in Specific Populations (8.1)].
 
-Date of Issue: 08/2019
+Date of Issue: 11/2019
 
-Version: 4
+Version: 5
 
-© 2016 - 2019 Novo Nordisk
+© 2016 – 2019 Novo Nordisk
 
 Novo Nordisk®, VICTOZA®, TRESIBA® and XULTOPHY® 100/3.6 are registered trademarks of Novo Nordisk A/S.
 

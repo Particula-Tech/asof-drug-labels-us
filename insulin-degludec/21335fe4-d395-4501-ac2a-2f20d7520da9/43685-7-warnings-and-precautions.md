@@ -37,12 +37,14 @@ It is unknown if patients with a history of pancreatitis are at higher risk for 
 XULTOPHY 100/3.6 pen must never be shared between patients, even if the needle is changed.
 Sharing of the pen poses a risk for transmission of blood-borne pathogens.
 
-## 5.4 Hyperglycemia or Hypoglycemia with Changes in XULTOPHY 100/3.6 Regimen
+## 5.4 Hyperglycemia or Hypoglycemia with Changes in Insulin Regimen
 
-Changes in XULTOPHY 100/3.6 regimen may affect glycemic control and predispose to hypoglycemia or hyperglycemia [see Warnings and Precautions (5.5)].
-These changes should be made cautiously and only under medical supervision and the frequency of blood glucose monitoring should be increased.
+Changes in an insulin regimen (e.g., insulin strength, manufacturer, type, injection site or method of administration) may affect glycemic control and predispose to hypoglycemia [see Warnings and Precautions (5.6)] or hyperglycemia.
+Repeated insulin injections into areas of lipodystrophy or localized cutaneous amyloidosis have been reported to result in hyperglycemia; and a sudden change in the injection site (to an unaffected area) has been reported to result in hypoglycemia [see Adverse Reactions (6.1, 6.3)].
+Make any changes to a patient’s insulin regimen under close medical supervision with increased frequency of blood glucose monitoring.
+Advise patients who have repeatedly injected into areas of lipodystrophy or localized cutaneous amyloidosis to change the injection site to unaffected areas and closely monitor for hypoglycemia.
 Adjustments in concomitant oral anti-diabetic treatment may be needed.
-When initiating XULTOPHY 100/3.6, follow dosing recommendations [see Dosage and Administration (2.1,2.2, 2.3)].
+When initiating XULTOPHY 100/3.6, follow dosing recommendations [see Dosage and Administration (2.1, 2.2, 2.3)].
 
 ## 5.5 Overdose due to Medication Errors
 

@@ -29,7 +29,7 @@ Patients continued on pre-trial treatment with metformin or metformin and piogli
 At the end of 26 weeks, treatment with XULTOPHY 100/3.6, insulin degludec, and liraglutide resulted in a reduction in HbA1c from baseline of 1.81%, 1.35% and 1.21%, respectively, (see Table 5).
 The end of trial dose of XULTOPHY 100/3.6 was 38 units (38 units insulin degludec/1.37 mg liraglutide).
 
-Table 5: Results of a 26 week trial with XULTOPHY 100/3.6 in patients with type 2 diabetes mellitus inadequately controlled on metformin alone or in combination with pioglitazone
+Table 5: Results of a 26-Week Trial with XULTOPHY 100/3.6 in Patients with Type 2 Diabetes Mellitus Inadequately Controlled on Metformin Alone or in Combination with Pioglitazone
 
 |  | XULTOPHY 100/3.6 + metformin ± pioglitazone | Insulin degludec + metformin ± pioglitazone | Liraglutide + metformin ± pioglitazone |
 | --- | --- | --- | --- |
@@ -69,7 +69,7 @@ Patients continued on pre-trial treatment with sulfonylurea, with or without met
 Treatment with XULTOPHY 100/3.6 for 26 weeks resulted in a statistically significant reduction in mean HbA1c compared to placebo (see Table 6).
 The end of trial dose of XULTOPHY 100/3.6 was 28 units (28 units insulin degludec/1.01 mg liraglutide).
 
-Table 6: Results of a 26 week trial with XULTOPHY 100/3.6 in patients with type 2 diabetes mellitus inadequately controlled on sulfonylurea alone or in combination with metformin
+Table 6: Results of a 26-Week Trial with XULTOPHY 100/3.6 in Patients with Type 2 Diabetes Mellitus Inadequately Controlled on Sulfonylurea Alone or in Combination with Metformin
 
 |  | XULTOPHY 100/3.6 + sulfonylurea### ± metformin | Placebo + sulfonylurea### ± metformin |
 | --- | --- | --- |
@@ -119,7 +119,7 @@ The difference in HbA1c effect observed at 26 weeks may not necessarily reflect 
 
 Table 7: Results of a 26-Week Trial in Patients with Type 2 Diabetes Mellitus Inadequately
 
-Controlled on SGLT2i alone or in combination with Metformin, Pioglitazone and/or DPP4 Inhibitor
+Controlled on SGLT2i Alone or in Combination with Metformin, Pioglitazone and/or DPP4 Inhibitor
 
 |  | XULTOPHY 100/3.6 + SGLT2i ± metformin± pioglitazone | Insulin Glargine U-100+ SGLT2i ± metformin± pioglitazone |
 | --- | --- | --- |

@@ -7,9 +7,11 @@ The XULTOPHY 100/3.6 pen dials in one unit increments.
 
 | Dosage Unit/Strength | Package size | NDC # |
 | --- | --- | --- |
-| 3 mL XULTOPHY 100/3.6 disposable prefilled pen(100 units/mL insulin degludec and 3.6 mg/mL liraglutide) | Package of 5 | 0169-2911-15 |
+| 3 mL single-patient-use XULTOPHY 100/3.6 pen(100 units/mL insulin degludec and 3.6 mg/mL liraglutide) | Package of 5 | 0169-2911-15 |
 
 ## 16.2 Recommended Storage
+
+Dispense in the original sealed carton with the enclosed Instructions for Use.
 
 Prior to first use, XULTOPHY 100/3.6 should be stored between 2°C and 8°C (36°F to 46°F) until the expiration date printed on the label.
 Store prefilled pens in the carton so they will stay clean and protected from light.
