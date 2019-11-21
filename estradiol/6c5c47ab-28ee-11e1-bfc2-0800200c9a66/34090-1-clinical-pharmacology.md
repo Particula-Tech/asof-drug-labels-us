@@ -22,9 +22,6 @@ There are no pharmacodynamic data for MINIVELLE.
 
 ## 12.3 Pharmacokinetics
 
-Systemic estrogen exposures across different estrogen products should not be compared.
-These comparisons can be unreliable and misleading when there are differences in route of administration, estrogen components, dosing, or analytical methods that were used across the studies.
-
 Absorption
 
 In a single-dose, two way-crossover clinical study conducted in 96 healthy, non-smoking postmenopausal women under fed condition, MINIVELLE (0.1 mg per day) was bioequivalent to Vivelle (0.1 mg per day) based on estradiol exposure (AUC 0-84) and estradiol peak concentration (C max) following a single-dose on the lower abdomen for 84 hours.
