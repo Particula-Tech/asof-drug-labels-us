@@ -12,6 +12,8 @@ FIASP (insulin aspart injection) 100 units of insulin aspart per mL (U-100) is a
 
 ## 16.2 Recommended Storage
 
+Dispense in the original sealed carton with the enclosed Instructions for Use.
+
 Unused FIASP vials should be stored between 2° to 8°C (36° to 46°F) in a refrigerator, but not in or near a freezing compartment.
 FIASP should not be exposed to excessive heat or light and must never be frozen.
 Do not freeze FIASP and do not use FIASP if it has been frozen.
