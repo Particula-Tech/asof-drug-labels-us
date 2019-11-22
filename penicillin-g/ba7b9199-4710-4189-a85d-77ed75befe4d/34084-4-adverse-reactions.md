@@ -21,7 +21,7 @@ Urogenital: Nephropathy.
 
 The following adverse events have been temporally associated with parenteral administrations of penicillin G benzathine, although a causal relationship has not necessarily been established:
 
-Body as a Whole: Hypersensitivity reactions including allergic vasculitis, pruritus, fatigue, asthenia, and pain; aggravation of existing disorder; headache.
+Body as a Whole: Hypersensitivity reactions including allergic vasculitis, pruritus, fatigue, asthenia, and pain; aggravation of existing disorder; headache, Nicolau syndrome.
 
 Cardiovascular: Cardiac arrest; hypotension; tachycardia; palpitations; pulmonary hypertension; pulmonary embolism; vasodilation; vasovagal reaction; cerebrovascular accident; syncope.
 
