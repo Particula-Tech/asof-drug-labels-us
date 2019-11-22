@@ -3,7 +3,7 @@
 ## Supine Hypertension
 
 The most potentially serious adverse reaction associated with midodrine hydrochloride tablets therapy is marked elevation of supine arterial blood pressure (supine hypertension).
-Systolic pressures of about 200 mmHg were seen overall in about 13.4% of patients given 10 mg of midodrine hydrochloride tablets.
+Systolic pressure of about 200 mmHg was seen overall in about 13.4% of patients given 10 mg of midodrine hydrochloride tablets.
 Systolic elevations of this degree were most likely to be observed in patients with relatively elevated pre-treatment systolic blood pressures (mean 170 mmHg).
 There is no experience in patients with initial supine systolic pressure above 180 mmHg, as those patients were excluded from the clinical trials.
 Use of midodrine hydrochloride tablets in such patients is not recommended.
@@ -73,8 +73,6 @@ Studies investigating the mutagenic potential of midodrine hydrochloride tablets
 Other than the dominant lethal assay in male mice, where no impairment of fertility was observed, there have been no studies on the effects of midodrine hydrochloride tablets on fertility.
 
 ## Pregnancy
-
-### Pregnancy Category C
 
 Midodrine hydrochloride tablets increased the rate of embryo resorption, reduced fetal body weight in rats and rabbits, and decreased fetal survival in rabbits when given in doses 13 (rat) and 7 (rabbit) times the maximum human dose based on body surface area (mg/m2).
 There are no adequate and well-controlled studies in pregnant women.
