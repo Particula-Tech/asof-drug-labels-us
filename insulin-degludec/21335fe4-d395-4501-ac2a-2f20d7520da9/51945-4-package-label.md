@@ -33,3 +33,5 @@ Store at 36°F – 46°F (2°C – 8°C).
 Do not freeze.
 
 Protect from light.
+
+Dispense in this sealed carton.
