@@ -8,7 +8,7 @@ The following reactions to orally administered verapamil occurred at rates great
 | Constipation 7.3% Dyspnea 1.4% Dizziness 3.3% Bradycardia Nausea 2.7% (HR < 50/min) 1.4% Hypotension 2.5% AV block Headache 2.2% (total 1º, 2º, 3º) 1.2% Edema 1.9% (2º and 3º) 0.8% CHF, Pulmonary Rash 1.2% edema 1.8% Flushing 0.6% Fatigue 1.7% |  |
 | --- | --- |
 
-Elevated Liver Enzymes (see WARNINGS)
+Elevated liver enzymes (see WARNINGS)
 
 In clinical trials related to the control of ventricular response in digitalized patients who had atrial fibrillation or flutter, ventricular rates below 50/min at rest occurred in 15% of patients and asymptomatic hypotension occurred in 5% of patients.
 

@@ -34,7 +34,7 @@ Cardioversion has been used safely and effectively after oral verapamil hydrochl
 The effect of verapamil on AV conduction and the SA node may cause asymptomatic first-degree AV block and transient bradycardia, sometimes accompanied by nodal escape rhythms.
 PR-interval prolongation is correlated with verapamil plasma concentrations, especially during the early titration phase of therapy.
 Higher degrees of AV block, however, were infrequently (0.8%) observed.
-Marked first-degree block or progressive development to second or third-degree AV block, requires a reduction in dosage or, in rare instances, discontinuation of verapamil hydrochloride and institution of appropriate therapy, depending upon the clinical situation.
+Marked first-degree block or progressive development to second- or third-degree AV block, requires a reduction in dosage or, in rare instances, discontinuation of verapamil hydrochloride and institution of appropriate therapy, depending upon the clinical situation.
 
 ## Patients with hypertrophic cardiomyopathy (IHSS):
 
@@ -70,17 +70,28 @@ These patients should be carefully monitored for abnormal prolongation of the PR
 
 ## Drug interactions
 
-HMG-CoA reductase inhibitors: The use of HMG-CoA reductase inhibitors that are CYP3A4 substrates in combination with verapamil has been associated with reports of myopathy/rhabdomyolysis.
+Cytochrome inducers/inhibitors:
+
+In vitro metabolic studies indicate that verapamil is metabolized by cytochrome P450 CYP3A4, CYPIA2, CYP2C8, CYP2C9, and CYP2CI8.
+Clinically significant interactions have been reported with inhibitors of CYP3A4 (e.g., erythromycin, ritonavir) causing elevation of plasma levels of verapamil while inducers of CYP3A4 (e.g., rifampin) have caused a lowering of plasma levels of verapamil.
+
+HMG-CoA reductase inhibitors:
+
+The use of HMG-CoA reductase inhibitors that are CYP3A4 substrates in combination with verapamil has been associated with reports of myopathy/rhabdomyolysis.
 
 Co-administration of multiple doses of 10 mg of verapamil with 80 mg simvastatin resulted in exposure to simvastatin 2.5-fold that following simvastatin alone.
 Limit the dose of simvastatin in patients on verapamil to 10 mg daily.
 Limit the daily dose of lovastatin to 40 mg.
 Lower starting and maintenance doses of other CYP3A4 substrates (e.g., atorvastatin) may be required as verapamil may increase the plasma concentration of these drugs.
 
-Ivabradine: Concurrent use of verapamil increases exposure to ivabradine and may exacerbate bradycardia and conduction disturbances.
+Ivabradine:
+
+Concurrent use of verapamil increases exposure to ivabradine and may exacerbate bradycardia and conduction disturbances.
 Avoid co-administration of verapamil and ivabradine.
 
-Beta-blockers: Concomitant therapy with beta-adrenergic blockers and verapamil may result in additive negative effects on heart rate, atrioventricular conduction and/or cardiac contractility.
+Beta-blockers:
+
+Concomitant therapy with beta-adrenergic blockers and verapamil may result in additive negative effects on heart rate, atrioventricular conduction and/or cardiac contractility.
 The combination of sustained-release verapamil and beta-adrenergic blocking agents has not been studied.
 However, there have been reports of excessive bradycardia and AV block, including complete heart block, when the combination has been used for the treatment of hypertension.
 For hypertensive patients, the risks of combined therapy may outweigh the potential benefits.
@@ -91,7 +102,9 @@ Asymptomatic bradycardia (36 beats/min) with a wandering atrial pacemaker has be
 A decrease in metoprolol and propranolol clearance has been observed when either drug is administered concomitantly with verapamil.
 A variable effect has been seen when verapamil and atenolol were given together.
 
-Digitalis: Clinical use of verapamil in digitalized patients has shown the combination to be well tolerated if digoxin doses are properly adjusted.
+Digitalis:
+
+Clinical use of verapamil in digitalized patients has shown the combination to be well tolerated if digoxin doses are properly adjusted.
 However, chronic verapamil treatment can increase serum digoxin levels by 50% to 75% during the first week of therapy, and this can result in digitalis toxicity.
 In patients with hepatic cirrhosis the influence of verapamil on digoxin kinetics is magnified.
 Verapamil may reduce total body clearance and extrarenal clearance of digitoxin by 27% and 29%, respectively.
@@ -99,7 +112,9 @@ Maintenance and digitalization doses should be reduced when verapamil is adminis
 Whenever over-digitalization is suspected, the daily dose of digitalis should be reduced or temporarily discontinued.
 On discontinuation of verapamil hydrochloride use, the patient should be reassessed to avoid under-digitalization.
 
-Antihypertensive agents: Verapamil administered concomitantly with oral antihypertensive agents (e.g., vasodilators, angiotensin-converting enzyme inhibitors, diuretics, beta-blockers) will usually have an additive effect on lowering blood pressure.
+Antihypertensive agents:
+
+Verapamil administered concomitantly with oral antihypertensive agents (e.g., vasodilators, angiotensin-converting enzyme inhibitors, diuretics, beta-blockers) will usually have an additive effect on lowering blood pressure.
 Patients receiving these combinations should be appropriately monitored.
 Concomitant use of agents that attenuate alpha-adrenergic function with verapamil may result in a reduction in blood pressure that is excessive in some patients.
 Such an effect was observed in one study following the concomitant administration of verapamil and prazosin.
@@ -120,9 +135,9 @@ There has been a report of increased quinidine levels during verapamil therapy.
 
 Other agents:
 
-Alcohol: Verapamil has been found to significantly inhibit ethanol elimination significantly, resulting in elevated blood ethanol concentrations that may prolong the intoxicating effects of alcohol (see CLINICAL PHARMACOLOGY, Pharmacokinetics and metabolism).
+Alcohol: Verapamil has been found to inhibit ethanol elimination significantly, resulting in elevated blood ethanol concentrations that may prolong the intoxicating effects of alcohol (see CLINICAL PHARMACOLOGY, Pharmacokinetics and metabolism).
 
-Nitrates:Verapamil has been given concomitantly with short- and long-acting nitrates without any undesirable drug interactions.
+Nitrates: Verapamil has been given concomitantly with short- and long-acting nitrates without any undesirable drug interactions.
 The pharmacologic profile of both drugs and the clinical experience suggest beneficial interactions.
 
 Cimetidine: The interaction between cimetidine and chronically administered verapamil has not been studied.
@@ -138,9 +153,9 @@ Rifampin: Therapy with rifampin may markedly reduce oral verapamil bioavailabili
 
 Phenobarbital: Phenobarbital therapy may increase verapamil clearance.
 
-Cyclosporine: Verapamil therapy may increase serum levels of cyclosporine.
+Cyclosporin: Verapamil therapy may increase serum levels of cyclosporin.
 
-Theophylline: Verapamil therapy may inhibit the clearance and increase the plasma levels of theophylline.
+Theophylline: Verapamil may inhibit the clearance and increase the plasma levels of theophylline.
 
 Inhalation anesthetics: Animal experiments have shown that inhalation anesthetics depress cardiovascular activity by decreasing the inward movement of calcium ions.
 When used concomitantly, inhalation anesthetics and calcium antagonists, such as verapamil, should each be titrated carefully to avoid excessive cardiovascular depression.
@@ -153,7 +168,7 @@ It may be necessary to decrease the dose of verapamil and/or the dose of the neu
 
 Telithromycin: Hypotension and bradyarrhythmias have been observed in patients receiving concurrent telithromycin, an antibiotic in the ketolide class.
 
-Clonidine:Sinus bradycardia resulting in hospitalization and pacemaker insertion has been reported in association with the use of clonidine concurrently with verapamil.
+Clonidine: Sinus bradycardia resulting in hospitalization and pacemaker insertion has been reported in association with the use of clonidine concurrently with verapamil.
 Monitor heart rate in patients receiving concomitant verapamil and clonidine.
 
 Mammalian target of rapamycin (mTOR) inhibitors: In a study of 25 healthy volunteers with co‑administration of verapamil with sirolimus, whole blood sirolimus Cmax and AUC were increased 130% and 120%, respectively.
@@ -171,7 +186,7 @@ Verapamil was not mutagenic in the Ames test in 5 test strains at 3 mg per plate
 Studies in female rats at daily dietary doses up to 5.5 times (55 mg/kg/day) the maximum recommended human dose did not show impaired fertility.
 Effects on male fertility have not been determined.
 
-## Pregnancy
+## Pregnancy:
 
 Reproduction studies have been performed in rabbits and rats at oral doses up to 1.5 (15 mg/kg/day) and 6 (60 mg/kg/day) times the human oral daily dose, respectively, and have revealed no evidence of teratogenicity.
 In the rat, however, this multiple of the human dose was embryocidal and retarded fetal growth and development, probably because of adverse maternal effects reflected in reduced weight gains of the dams.
@@ -180,17 +195,17 @@ There are no adequate and well-controlled studies in pregnant women.
 Because animal reproduction studies are not always predictive of human response, this drug should be used during pregnancy only if clearly needed.
 Verapamil crosses the placental barrier and can be detected in umbilical vein blood at delivery.
 
-## Labor and delivery
+## Labor and delivery:
 
 It is not known whether the use of verapamil during labor or delivery has immediate or delayed adverse effects on the fetus, or whether it prolongs the duration of labor or increases the need for forceps delivery or other obstetric intervention.
 Such adverse experiences have not been reported in the literature, despite a long history of use of verapamil in Europe in the treatment of cardiac side effects of beta-adrenergic agonist agents used to treat premature labor.
 
-## Nursing mothers
+## Nursing mothers:
 
 Verapamil is excreted in human milk.
 Because of the potential for adverse reactions in nursing infants from verapamil, nursing should be discontinued while verapamil is administered.
 
-## Pediatric use
+## Pediatric use:
 
 Safety and efficacy of verapamil hydrochloride extended-release tablets in pediatric patients below the age of 18 years have not been established.
 

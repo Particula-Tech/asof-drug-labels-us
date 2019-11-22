@@ -14,7 +14,7 @@ Endoscopy might reasonably be considered in cases of massive overdose when sympt
 Treatment of overdosage should be supportive.
 Beta-adrenergic stimulation or parenteral administration of calcium solutions may increase calcium ion flux across the slow channel and have been used effectively in treatment of deliberate overdosage with verapamil.
 Continued treatment with large doses of calcium may produce a response.
-In a few reported cases, overdose with calcium channel blockers that was initially refractory to atropine became more responsive to this treatment when the patients received large doses (close to 1 gram/hour for more than 24 hr) of calcium chloride.
+In a few reported cases, overdose with calcium channel blockers that was initially refractory to atropine became more responsive to this treatment when the patients received large doses (close to 1 g/hour for more than 24 hr) of calcium chloride.
 Verapamil cannot be removed by hemodialysis.
 Clinically significant hypotensive reactions or high degree AV block should be treated with vasopressor agents or cardiac pacing, respectively.
 Asystole should be handled by the usual measures including cardiopulmonary resuscitation.

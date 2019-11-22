@@ -9,13 +9,13 @@ The structural formula of verapamil HCl, USP is given below:
 1. C27H38N2O4·HCl M.W.
    491.06 g/mol
 
-Benzeneacetonitrile, α[3-[[2-(3,4-dimethoxyphenyl)ethyl]methylamino]propyl]-3,4- dimethoxy-α-(1-methylethyl) hydrochloride
+Benzeneacetonitrile, α-[3-[[2-(3,4-dimethoxyphenyl)ethyl]methylamino]propyl]-3,4-dimethoxy-α-(1-methylethyl) hydrochloride
 
 Verapamil HCl, USP is an almost white, crystalline powder, practically free of odor, with a bitter taste.
 It is soluble in water, freely soluble in chloroform, sparingly soluble in alcohol and practically insoluble in ether.
 Verapamil HCl, USP is not chemically related to other cardio active drugs.
 
-In addition to verapamil HCl, USP, the Verapamil Hydrochloride Extended-Release Tablets, USP contain the following ingredients: colloidal silicon dioxide, sodium alginate, hypromellose, magnesium stearate, microcrystalline cellulose, povidone, polyethylene glycol and titanium dioxide.
+In addition to verapamil HCl, USP, the Verapamil Hydrochloride Extended-Release Tablets, USP contain the following inactive ingredients: colloidal silicon dioxide, hypromellose, magnesium stearate, microcrystalline cellulose, polyethylene glycol, povidone, sodium alginate, and titanium dioxide.
 The following are the color additives per tablet strength:
 
 | Strength (mg) | Color Additive(s) |
