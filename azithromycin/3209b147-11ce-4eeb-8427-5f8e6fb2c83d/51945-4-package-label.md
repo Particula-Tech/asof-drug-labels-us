@@ -28,7 +28,7 @@ TEVA
 
 # Package/Label Display Panel
 
-## Azithromycin for Oral Suspension USP 200 mg per 5 mL, 300 mg Carton Text
+## Azithromycin for Oral Suspension USP 200 mg per 5 mL, 600 mg Carton Text
 
 NDC 0093-2026-23
 
