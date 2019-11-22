@@ -36,7 +36,7 @@ Do not inject into or near an artery or nerve.
 
 Injection into or near a nerve may result in permanent neurological damage.
 
-Inadvertent intravascular administration, including inadvertent direct intra-arterial injection or injection immediately adjacent to arteries, of Bicillin L-A and other penicillin preparations has resulted in severe neurovascular damage, including transverse myelitis with permanent paralysis, gangrene requiring amputation of digits and more proximal portions of extremities, and necrosis and sloughing at and surrounding the injection site.
+Inadvertent intravascular administration, including inadvertent direct intra-arterial injection or injection immediately adjacent to arteries, of Bicillin L-A and other penicillin preparations has resulted in severe neurovascular damage, including transverse myelitis with permanent paralysis, gangrene requiring amputation of digits and more proximal portions of extremities, and necrosis and sloughing at and surrounding the injection site consistent with the diagnosis of Nicolau syndrome.
 Such severe effects have been reported following injections into the buttock, thigh, and deltoid areas.
 Other serious complications of suspected intravascular administration which have been reported include immediate pallor, mottling, or cyanosis of the extremity both distal and proximal to the injection site, followed by bleb formation; severe edema requiring anterior and/or posterior compartment fasciotomy in the lower extremity.
 The above-described severe effects and complications have most often occurred in infants and small children.
