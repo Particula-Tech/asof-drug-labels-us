@@ -11,9 +11,11 @@ The LANTUS SoloStar prefilled pen dials in 1-unit increments.
 
 Needles are not included in the packs.
 
-BD Ultra-Fine™ needlesOther brands listed are the trademarks of their respective owners and are not trademarks of sanofi-aventis U.S. LLC to be used in conjunction with SoloStar are sold separately and are manufactured by BD.
+BD Ultra-Fine® needlesOther brands listed are the trademarks of their respective owners and are not trademarks of sanofi-aventis U.S. LLC to be used in conjunction with SoloStar prefilled pens are sold separately and are manufactured by BD.
 
 ## 16.2 Storage
+
+Dispense in the original sealed carton with the enclosed Instructions for Use.
 
 LANTUS should not be stored in the freezer and should not be allowed to freeze.
 Discard LANTUS if it has been frozen.
@@ -21,7 +23,7 @@ Protect LANTUS from direct heat and light.
 
 Storage conditions are summarized in the following table.
 
-|  | (36°F–46°F [2°C–8°C]) | (below 86°F [30°C]) | (See Temperature Below) |
+|  | (36°F–46°F [2°C–8°C]) | (below 86°F [30°C]) | (see temperature below) |
 | --- | --- | --- | --- |
 |  | Not in-use (unopened) | Not in-use (unopened) | In-use (opened) |
 |  | Refrigerated | Room Temperature |  |

@@ -128,29 +128,29 @@ The incidences of severe symptomatic hypoglycemia were similar between groups [s
 
 Table 11: Type 2 Diabetes Mellitus – Adult
 
-|  | LANTUS | NPH | LANTUS | NPH | LANTUS | NPH |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | Study E |  | Study F |  | Study G |  |
-| Treatment duration | 52 weeks |  | 28 weeks |  | 5 years |  |
-| Treatment in combination with | Oral agents |  | Regular insulin |  | Regular insulin |  |
-| Number of subjects treated | 289 | 281 | 259 | 259 | 513 | 504 |
-| HbA1c |  |  |  |  |  |  |
-| Baseline mean | 9.0 | 8.9 | 8.6 | 8.5 | 8.4 | 8.3 |
-| Adjusted mean change from baseline | -0.5 | -0.4 | -0.4 | -0.6 | -0.6 | -0.8 |
-| LANTUS – NPH | -0.1 |  | +0.2 |  | +0.2 |  |
-| 95% CI for Treatment difference | (-0.3; +0.1) |  | (0.0; +0.4) |  | (+0.1; +0.4) |  |
-| Basal insulin doseIn Study G, the baseline dose of basal or total insulin was the first available on-treatment dose prescribed during the study (on visit month 1.5) |  |  |  |  |  |  |
-| Baseline mean | 14 | 15 | 44.1 | 45.5 | 39 | 44 |
-| Mean change from baseline | +12 | +9 | -1 | +7 | +23 | +30 |
-| Total insulin dose |  |  |  |  |  |  |
-| Baseline mean | 14 | 15 | 64 | 67 | 48 | 53 |
-| Mean change from baseline | +12 | +9 | +10 | +13 | +41 | +40 |
-| Fasting blood glucose (mg/dL) |  |  |  |  |  |  |
-| Baseline mean | 179 | 180 | 164 | 166 | 190 | 180 |
-| Adj. mean change from baseline | -49 | -46 | -24 | -22 | -45 | -44 |
-| Body weight (kg) |  |  |  |  |  |  |
-| Baseline mean | 83.5 | 82.1 | 89.6 | 90.7 | 100 | 99 |
-| Adj. mean change from baseline | 2.0 | 1.9 | 0.4 | 1.4 | 3.7 | 4.8 |
+|  | LANTUS | NPH | LANTUS | NPH | LANTUS | NPH |  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+|  | Study E |  | Study F |  | Study G |  |  |
+| Treatment duration | 52 weeks |  | 28 weeks |  | 5 years |  |  |
+| Treatment in combination with | Oral agents |  | Regular insulin |  | Regular insulin |  |  |
+| Number of subjects treated | 289 | 281 | 259 | 259 | 513 | 504 |  |
+| HbA1c |  |  |  |  |  |  |  |
+| Baseline mean | 9.0 | 8.9 | 8.6 | 8.5 | 8.4 | 8.3 |  |
+| Adjusted mean change from baseline | -0.5 | -0.4 | -0.4 | -0.6 | -0.6 | -0.8 |  |
+| LANTUS – NPH | -0.1 |  | +0.2 |  | +0.2 |  |  |
+| 95% CI for Treatment difference | (-0.3; +0.1) |  | (0.0; +0.4) |  | (+0.1; +0.4) |  |  |
+| Basal insulin doseIn Study G, the baseline dose of basal or total insulin was the first available on-treatment dose prescribed during the study (on visit month 1.5) |  |  |  |  |  |  |  |
+| Baseline mean | 14 | 15 | 44.1 | 45.5 | 39 | 44 |  |
+| Mean change from baseline | +12 | +9 | -1 | +7 | +23 | +30 |  |
+| Total insulin dose |  |  |  |  |  |  |  |
+| Baseline mean | 14 | 15 | 64 | 67 | 48 | 53 |  |
+| Mean change from baseline | +12 | +9 | +10 | +13 | +41 | +40 |  |
+| Fasting blood glucose (mg/dL) |  |  |  |  |  |  |  |
+| Baseline mean | 179 | 180 | 164 | 166 | 190 | 180 |  |
+| Adj. mean change from baseline | -49 | -46 | -24 | -22 | -45 | -44 |  |
+| Body weight (kg) |  |  |  |  |  |  |  |
+| Baseline mean | 83.5 | 82.1 | 89.6 | 90.7 | 100 | 99 |  |
+| Adj. mean change from baseline | 2.0 | 1.9 | 0.4 | 1.4 | 3.7 | 4.8 |  |
 
 LANTUS Timing of Daily Dosing (see Table 12)
 
@@ -204,7 +204,7 @@ Mean baseline HbA1c was 8.4%.
 The primary outcome was progression by 3 or more steps on the ETDRS scale at study endpoint.
 Patients with prespecified postbaseline eye procedures (pan-retinal photocoagulation for proliferative or severe nonproliferative diabetic retinopathy, local photocoagulation for new vessels, and vitrectomy for diabetic retinopathy) were also considered as 3-step progressors regardless of actual change in ETDRS score from baseline.
 Retinopathy graders were blinded to treatment group assignment.
-The results for the primary endpoint are shown in Table 13 for both the per-protocol and Intent-to-Treat populations, and indicate similarity of LANTUS to NPH in the progression of diabetic retinopathy as assessed by this outcome.
+The results for the primary endpoint are shown in Table 13 for both the per-protocol and intent-to-treat populations, and indicate similarity of LANTUS to NPH in the progression of diabetic retinopathy as assessed by this outcome.
 
 Table 13: Number (%) of Patients with 3 or More Step Progression on ETDRS Scale at Endpoint
 
@@ -254,7 +254,7 @@ Table 14: Cardiovascular Outcomes in ORIGIN – Time to First Event Analyses
 | CV death, nonfatal myocardial infarction, nonfatal stroke, hospitalization for heart failure or revascularization procedure | 1792 (5.5) | 1727 (5.3) | 1.04 (0.97, 1.11) |
 | Components of coprimary endpoints |  |  |  |
 | CV death | 580 | 576 | 1.00 (0.89, 1.13) |
-| Myocardial Infarction (fatal or non-fatal) | 336 | 326 | 1.03 (0.88, 1.19) |
+| Myocardial Infarction (fatal or nonfatal) | 336 | 326 | 1.03 (0.88, 1.19) |
 | Stroke (fatal or nonfatal) | 331 | 319 | 1.03 (0.89, 1.21) |
 | Revascularizations | 908 | 860 | 1.06 (0.96, 1.16) |
 | Hospitalization for heart failure | 310 | 343 | 0.90 (0.77, 1.05) |
