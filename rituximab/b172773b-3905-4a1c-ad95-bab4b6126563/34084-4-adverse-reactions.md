@@ -444,7 +444,7 @@ Because these reactions are reported voluntarily from a population of uncertain 
 - Immune/Autoimmune Events: uveitis, optic neuritis, systemic vasculitis, pleuritis, lupus-like syndrome, serum sickness, polyarticular arthritis, and vasculitis with rash.
 - Infection: viral infections, including progressive multifocal leukoencephalopathy (PML), increase in fatal infections in HIV-associated lymphoma, and a reported increased incidence of Grade 3 and 4 infections [see Warnings and Precautions (5.6)].
 - Neoplasia: disease progression of Kaposi's sarcoma.
-- Skin: severe mucocutaneous reactions.
+- Skin: severe mucocutaneous reactions, pyoderma gangrenosum (including genital presentation).
 - Gastrointestinal: bowel obstruction and perforation.
 - Pulmonary: fatal bronchiolitis obliterans and fatal interstitial lung disease.
 - Nervous system: Posterior Reversible Encephalopathy Syndrome (PRES) / Reversible Posterior Leukoencephalopathy Syndrome (RPLS).
