@@ -34,6 +34,16 @@ NovoFine® Plus or NovoTwist®
 
 disposable needles.
 
+Keep in a refrigerator at 36° to 46°F (2° to 8°C) until first use.
+
+After first use store at 36° to 86°F (2° to 30°C).
+
+Do not freeze.
+
+Protect from light.
+
+Dispense in this sealed carton.
+
 # PRINCIPAL DISPLAY PANEL - PenFill
 
 1. NDC 0169-3205-15 List 320515
