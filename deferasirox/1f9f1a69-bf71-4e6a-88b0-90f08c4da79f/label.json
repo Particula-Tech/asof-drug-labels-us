@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "ANDA210060"
+  ],
+  "inn": "deferasirox",
+  "labeler": "Alembic Pharmaceuticals Inc.",
+  "package_ndcs": [
+    "62332-324-30",
+    "62332-325-30",
+    "62332-326-30"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FOR SUSPENSION",
+      "generic": "deferasirox",
+      "name": "Deferasirox"
+    }
+  ],
+  "setid": "1f9f1a69-bf71-4e6a-88b0-90f08c4da79f",
+  "source": "dailymed"
+}
