@@ -342,18 +342,6 @@ Inform patients that acetaminophen and codeine phosphate tablets may impair the 
 
 Constipation Advise patients of the potential for severe constipation, including management instructions and when to seek medical attention (see ADVERSE REACTIONS and CLINICAL PHARMACOLOGY).
 
-Disposal of Unused Acetaminophen and Codeine Phosphate Tablets
-
-Advise patients to properly dispose of acetaminophen and codeine phosphate tablets.
-
-Advise patients to throw the drug in the household trash following these steps:
-
-1.
-Remove them from their original containers and mix them with an undesirable substance, such as used coffee grounds or kitty litter (this makes the drug less appealing to children and pets, and unrecognizable to people who may intentionally go through the trash seeking drugs).
-
-2.
-Place the mixture in a sealable bag, empty can, or other container to prevent the drug from leaking or breaking out of a garbage bag, or dispose of unused tablets in accordance with local state guidelines and/or regulations.
-
 Drug Interactions
 
 CYP2D6 Inhibitors
@@ -485,7 +473,7 @@ It is not known whether these effects on fertility are reversible (see ADVERSE R
 
 Pregnancy
 
-Teratogenic Effects: Pregnancy Category C
+Teratogenic Effects
 
 Codeine A study in rats and rabbits reported no teratogenic effect of codeine administered during the period of organogenesis in doses ranging from 5 to 120 mg/kg.
 In the rat, doses at the 120 mg/kg level, in the toxic range for the adult animal, were associated with an increase in embryo resorption at the time of implantation.
