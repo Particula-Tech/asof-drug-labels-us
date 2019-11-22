@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA205020"
+  ],
+  "inn": "fosaprepitant",
+  "labeler": "BluePoint Laboratories",
+  "package_ndcs": [
+    "68001-421-22"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION",
+      "generic": "fosaprepitant",
+      "name": "Fosaprepitant"
+    }
+  ],
+  "setid": "46edae30-d50c-4112-9941-954b13ed5eda",
+  "source": "dailymed"
+}
