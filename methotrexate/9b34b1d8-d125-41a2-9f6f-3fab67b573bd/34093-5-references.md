@@ -20,7 +20,17 @@ CA - A Cancer Journal for Clinicians Sept/Oct 1983; 258-263.
 American Society of Hospital Pharmacists technical assistance bulletin on handling cytotoxic and hazardous drugs.
 Am J Hosp Pharm 1990; 47:1033-1049.
 
-TEVA PHARMACEUTICALS USA, INC. North Wales, PA 19454
+Manufactured In Czech Republic By:
+
+Teva Czech Industries, s.r.o.
+
+Opava-Komarov, Czech Republic
+
+Manufactured For:
+
+TEVA PHARMACEUTICALS USA, INC.
+
+North Wales, PA 19454
 
 Rev.
 C 3/2018
