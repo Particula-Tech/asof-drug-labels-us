@@ -68,7 +68,7 @@ The mean BMI was approximately 29.7 kg/m2.
 
 NOVOLOG was administered by subcutaneous injection immediately prior to meals and regular human insulin was administered by subcutaneous injection30 minutes before meals.
 NPH insulin was administered as the basal insulin in either single or divided daily doses.
-Changes in HbAlc were comparable for the two treatment regimens.
+Changes in HbA1c were comparable for the two treatment regimens.
 
 Table 5.
 Subcutaneous NOVOLOG Administration in Type 2 Diabetes (6 months; n=176)

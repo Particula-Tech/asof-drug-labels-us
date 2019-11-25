@@ -8,21 +8,12 @@ Available information from published randomized controlled trials with insulin a
 There are risks to the mother and fetus associated with poorly controlled diabetes in pregnancy [see Clinical Considerations].
 
 In animal reproduction studies, administration of subcutaneous insulin aspart to pregnant rats and rabbits during the period of organogenesis did not cause adverse developmental effects at exposures 8-times and equal to the human subcutaneous dose of 1 unit/kg/day, respectively.
+Pre- and post-implantation losses and visceral/skeletal abnormalities were seen at higher exposures, which are considered secondary to maternal hypoglycemia.
+These effects were similar to those observed in rats administered regular human insulin [see Data].
 
-Pre- and post-implantation losses and visceral/skeletal abnormalities were seen at higher
-
-exposures, which are considered secondary to maternal hypoglycemia.
-These effects were
-
-similar to those observed in rats administered regular human insulin [see Data].
-
-The estimated background risk of major birth defects is 6-10% in women with pre-gestational
-
-diabetes with a HbA1c >7% and has been reported to be as high as 20-25% in women with a HbA1c >10%.
+The estimated background risk of major birth defects is 6-10% in women with pre-gestational diabetes with a HbA1c >7% and has been reported to be as high as 20-25% in women with a HbA1c >10%.
 The estimated background risk of miscarriage for the indicated population is unknown.
-In the U.S. general population, the estimated background risk of major birth defects
-
-and miscarriage in clinically recognized pregnancies is 2-4% and 15-20%, respectively.
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2-4% and 15-20%, respectively.
 
 Clinical Considerations
 
@@ -42,7 +33,7 @@ majority of the trials.
 
 Animal Data
 
-Fertility, embryo-fetal and pre-and postnatal development studies have been performed with insulin aspart and regular human insulin in rats and rabbits.
+Fertility, embryo-fetal and pre- and postnatal development studies have been performed with insulin aspart and regular human insulin in rats and rabbits.
 In a combined fertility and embryo-fetal development study in rats, insulin aspart was administered before mating, during mating, and throughout pregnancy.
 Further, in a pre- and postnatal development study insulin aspart was given throughout pregnancy and during lactation to rats.
 In an embryo-fetal development study insulin aspart was given to female rabbits during organogenesis.
@@ -63,7 +54,7 @@ The developmental and health benefits of breastfeeding should be considered alon
 
 ## 8.4 Pediatric Use
 
-NOVOLOG is approved for use in children for subcutaneous daily injections and for subcutaneous continuous infusion by external insulin pump [See Clinical Studies (14.1, 14.2)].
+NOVOLOG is approved for use in children for subcutaneous daily injections and for subcutaneous continuous infusion by external insulin pump [see Clinical Studies (14.1, 14.2)].
 NOVOLOG has not been studied in pediatric patients younger than 2 years of age.
 NOVOLOG has not been studied in pediatric patients with type 2 diabetes.
 

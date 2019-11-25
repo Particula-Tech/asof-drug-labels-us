@@ -7,18 +7,20 @@
 
 ## 6.1 Clinical Trial Experience
 
-1. Because clinical trials are conducted under widely varying designs, the adverse reaction rates reported in one clinical trial may not be easily compared to those rates reported in another clinical trial, and may not reflect the rates actually observed in clinical practice.
-   The safety of NOVOLOG was evaluated in two treat-to-target trials of 6 months duration, conducted in subjects with type 1 diabetes or type 2 diabetes [see Clinical Studies (14)].
-2. The data in Table 1 reflect the exposure of 596 patients with type 1 diabetes to NOVOLOG in one clincal trial with a mean exposure duration to NOVOLOG of 24 weeks.
-   The mean age was 38.9 years.
-   Fifty-one percent were male, 94% were Caucasian, 2% were Black and 4% were other races.
-   The mean body mass index (BMI) was 25.6 kg/m2.
-   The mean duration of diabetes was 15.7 years and the mean HbA1c at baseline was 7.9%.
-3. The data in Table 2 reflect the exposure of 91 patients with type 2 diabetes to NOVOLOG in one clincal trial with a mean exposure duration to NOVOLOG of 24 weeks.
-   The mean age was 56.6 years.
-   Sixty-three percent were male, 76% were Caucasian, 9% were Black and 15% were other races.
-   The mean BMI was 29.7 kg/m2.
-   The mean duration of diabetes was 12.7 years and the mean HbA1c at baseline was 8.1%.
+Because clinical trials are conducted under widely varying designs, the adverse reaction rates reported in one clinical trial may not be easily compared to those rates reported in another clinical trial, and may not reflect the rates actually observed in clinical practice.
+The safety of NOVOLOG was evaluated in two treat-to-target trials of 6 months duration, conducted in subjects with type 1 diabetes or type 2 diabetes [see Clinical Studies (14)].
+
+The data in Table 1 reflect the exposure of 596 patients with type 1 diabetes to NOVOLOG in one clinical trial with a mean exposure duration to NOVOLOG of 24 weeks.
+The mean age was 38.9 years.
+Fifty-one percent were male, 94% were Caucasian, 2% were Black and 4% were other races.
+The mean body mass index (BMI) was 25.6 kg/m2.
+The mean duration of diabetes was 15.7 years and the mean HbA1c at baseline was 7.9%.
+
+The data in Table 2 reflect the exposure of 91 patients with type 2 diabetes to NOVOLOG in one clinical trial with a mean exposure duration to NOVOLOG of 24 weeks.
+The mean age was 56.6 years.
+Sixty-three percent were male, 76% were Caucasian, 9% were Black and 15% were other races.
+The mean BMI was 29.7 kg/m2.
+The mean duration of diabetes was 12.7 years and the mean HbA1c at baseline was 8.1%.
 
 Common adverse reactions were defined as events occurring in ≥5%, excluding hypoglycemia, of the population studied.
 Common adverse events occurring at the same rate or greater for NOVOLOG-treated subjects than in comparator-treated subjects during clinical trials in patients with type 1 diabetes mellitus and type 2 diabetes mellitus (other than hypoglycemia) are listed in Table 1 and Table 2, respectively.
@@ -60,7 +62,7 @@ The incidence of severe hypoglycemia in adult patients receiving subcutaneous NO
 
 The incidence of severe hypoglycemia in adult and pediatric patients with type 1 diabetes mellitus, receiving NOVOLOG via continuous subcutaneous insulin infusion by external pump was 2% at 16 weeks and 10% at 16 weeks respectively.
 
-No severe hypoglycemic episodes were reported in adult patients with type 2 diabetes mellitus receiving NOVOLOG via continuous subcutanuous insulin infusion by external pump at 16 weeks.
+No severe hypoglycemic episodes were reported in adult patients with type 2 diabetes mellitus receiving NOVOLOG via continuous subcutaneous insulin infusion by external pump at 16 weeks.
 
 Allergic Reactions
 
@@ -92,7 +94,7 @@ The detection of antibody formation is highly dependent on the sensitivity and s
 Additionally, the observed incidence of antibody (including neutralizing antibody) positivity in an assay may be influenced by several factors including assay methodology, sample handling, timing of sample collection, concomitant medications, and underlying disease.
 For these reasons, comparison of the incidence of antibodies to NOVOLOG in the studies described below with the incidence of antibodies in other studies or to other products may be misleading.
 
-In a 6-month study with a 6 month extension in adult subjects with type 1 diabetes, 99.8% of patients who received NOVOLOG were positive for anti-insulin antibodies (AIA) at least once during the study, including 97.2% that were positive at baseline.
+In a 6-month study with a 6-month extension in adult subjects with type 1 diabetes, 99.8% of patients who received NOVOLOG were positive for anti-insulin antibodies (AIA) at least once during the study, including 97.2% that were positive at baseline.
 A total of 92.1% of patients who received NOVOLOG were positive for anti-drug antibodies (ADA) at least once during the study, including 64.6% that were positive at baseline.
 
 In a phase 3 type 1 diabetes clinical trial of NOVOLOG, initial increase in titers of antibodies to insulin, followed by a decrease to baseline values, was observed in regular human insulin and insulin aspart treatment groups with similar incidences.
@@ -104,3 +106,6 @@ The following adverse reactions have been identified during post-approval use of
 Because these adverse reactions are reported voluntarily from a population of uncertain size, it is generally not possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 Medication errors have been reported in which other insulins have been accidentally substituted for NOVOLOG [see Warnings and Precautions (5.4)].
+
+Localized cutaneous amyloidosis at the injection site has occurred with insulin aspart.
+Hyperglycemia has been reported with repeated insulin injections into areas of localized cutaneous amyloidosis; hypoglycemia has been reported with a sudden change to an unaffected injection site.

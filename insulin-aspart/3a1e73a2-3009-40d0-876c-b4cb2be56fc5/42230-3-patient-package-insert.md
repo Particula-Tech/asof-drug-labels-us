@@ -38,6 +38,12 @@ How should I take NovoLog?
   Ask your healthcare provider what your blood sugars should be and when you should check your blood sugar levels.
 - •Do not reuse or share your needles with other people.
   You may give other people a serious infection or get a serious infection from them.
+- 
+- •NovoLog can be injected under the skin (subcutaneously) of your stomach area (abdomen), buttocks, upper legs (thighs) or upper arms, or by continuous infusion under the skin (subcutaneously) through an insulin pump into an area of your body recommended in the instructions that come with your insulin pump.
+- •Change (rotate) your injection sites within the area you choose with each dose to reduce your risk of getting lipodystrophy (pits in skin or thickened skin) and localized cutaneous amyloidosis (skin with lumps) at the injection sites.
+  - oDo not use the exact same spot for each injection.
+  - oDo not inject where the skin has pits, is thickened, or has lumps.
+  - oDo not inject where the skin is tender, bruised, scaly or hard, or into scars or damaged skin.
 
 What should I avoid while taking NovoLog?
 
@@ -104,7 +110,7 @@ For more information, go to www.novonordisk-us.com or call 1-800-727-6500.
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 
-Revised: 03/2017
+Revised: 11/2019
 
 INSTRUCTIONS FOR USE
 
@@ -112,7 +118,7 @@ NovoLog® (NŌ-vō-log)
 
 (insulin aspart injection)
 
-10 mL vial (100 Units/mL, U-100)
+10 mL multiple-dose vial (100 Units/mL, U-100)
 
 Read this Instructions for Use before you start taking NovoLog and each time you get a refill.
 There may be new information.
@@ -159,10 +165,17 @@ Step 9: Pull the syringe out of the vial’s rubber stopper (See Figure I).
 
 - •Inject your NovoLog exactly as your healthcare provider has shown you.
   Your healthcare provider should tell you if you need to pinch the skin before injecting.
-- •NovoLogcan be injected under the skin (subcutaneously) of your stomach area, buttocks, upper legs or upper arms, infused in an insulin pump, or given through a needle in your arm (intravenously) by your healthcare provider.
-- •If you inject NovoLog, change (rotate) your injection sites within the area you choose for each dose.
+- •NovoLogcan be injected under the skin (subcutaneously) of your stomach area, buttocks, upper legs or upper arms, infused in an insulin pump (continuous subcutaneous infusion into an area of your body recommended in the instructions that come with your insulin pump), or given through a needle in your arm (intravenously) by your healthcare provider.
+- •If you inject NovoLog,change (rotate) your injection sites within the area you choose for each dose to reduce your risk of getting lipodystrophy (pits in skin or thickened skin) and localized cutaneous amyloidosis (skin with lumps) at the injection sites.
   Do not use the same injection site for each injection.
+  Do not inject where the skin has pits, is thickened, or has lumps.
+  Do not inject where the skin is tender, bruised, scaly or hard, or into scars or damaged skin.
 - •If you use NovoLog in an insulin pump, you should change your insertion site every 3 days.
+  NovoLog should be given into an area of your body recommended in the instructions that come with your insulin pump.
+  Change (rotate) your insertion sites within the area you choose for each insertion to reduce your risk of getting lipodystrophy (pits in skin or thickened skin) and localized cutaneous amyloidosis (skin with lumps) at the insertion sites.
+  Do not insert into the exact same spot for each insertion.
+  Do not insert where the skin has pits, is thickened, or has lumps.
+  Do not insert where the skin is tender, bruised, scaly or hard, or into scars or damaged skin.
   The insulin in the reservoir should be changed at least every 6 days even if you have not used all of the insulin.
 - •If you use NovoLog in an insulin pump, see your insulin pump manual for instructions or talk to your healthcare provider.
 - •NPH insulin is the only type of insulin that can be mixed with NovoLog.
@@ -203,7 +216,7 @@ After your injection:
   For more information about the safe sharps disposal, and for specific information about sharps disposal in the state that you live in, go to the FDA’s website at: http://www.fda.gov/safesharpsdisposal.Do not dispose of your used sharps disposal container in your household trash unless your community guidelines permit this.
   Do not recycle your used sharps disposal container.
 
-How should I store NovoLog®?
+How should I store NovoLog?
 
 - •Do not freeze NovoLog.
   Do not use NovoLog if it has been frozen.
@@ -234,7 +247,7 @@ NovoLog® is a registered trademark of Novo Nordisk A/S.
 
 Patent Information: http://novonordisk-us.com/patients/products/product-patents.html
 
-© 2002-2018 Novo Nordisk
+© 2002-2019 Novo Nordisk
 
 For information about NovoLog contact:
 
@@ -248,7 +261,7 @@ Plainsboro, New Jersey 08536
 
 www.novonordisk-us.com
 
-Revised: 12/2018
+Revised: 11/2019
 
 INSTRUCTIONS FOR USE
 
@@ -259,7 +272,7 @@ NovoLog® (NŌ-vō-log) PenFill® 3 mL cartridge 100 Units/mL (U-100)
 - •Do not share your PenFill cartridge or PenFill cartridge compatible insulin delivery device with other people, even if the needle has been changed.
   You may give other people a serious infection, or get a serious infection from them.
 - •Your healthcare provider should show you or your caregiver how to inject NovoLog the right way before you inject it for the first time.
-- •NovoLog PenFillcartridge 100 Units/mL is a prefilled cartridge containing 300 units of NovoLog (insulin aspart injection) 100 Units/mL insulin.
+- •NovoLog PenFillcartridge 100 Units/mL is a prefilled, single-patient-use cartridge containing 300 units of NovoLog (insulin aspart injection) 100 Units/mL insulin.
 - •After you insert the PenFill cartridge in your device, you can use it for multiple injections.
   Read the instruction manual that comes with your insulin delivery device for complete instructions on how to use the PenFill cartridge with the device.
 - •People who are blind or have vision problems should not use this PenFill cartridge without help from a person trained to use the PenFill cartridge with the device.
@@ -371,8 +384,10 @@ Step 7:
 
 - (Figure I)
 
-- •For each injection, change (rotate) your injection site within the area of skin that you use.
+- •Change (rotate) your injection sites within the area you choose for each dose to reduce your risk of getting lipodystrophy (pits in skin or thickened skin) and localized cutaneous amyloidosis (skin with lumps) at the injection sites.
   Do not use the same injection site for each injection.
+  Do not inject where the skin has pits, is thickened, or has lumps.
+  Do not inject where the skin is tender, bruised, scaly or hard, or into scars or damaged skin.
 - •Cleanyour injection site with an alcohol swab.
   Let your skin dry.
   Do not touch this area again before injecting.
@@ -453,7 +468,7 @@ GeneralInformation about the safe and effective use of NovoLog.
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
-© 2002-2018 Novo Nordisk
+© 2002-2019 Novo Nordisk
 
 Manufactured by:
 
@@ -461,7 +476,7 @@ Novo Nordisk A/S
 
 DK-2880 Bagsvaerd, Denmark
 
-Revised: 12/2018
+Revised: 11/2019
 
 INSTRUCTIONS FOR USE
 
@@ -471,7 +486,7 @@ NovoLog® (NŌ-vō-log) FlexTouch® Pen
 
 - •Do not share your NovoLog FlexTouch Pen with other people, even if the needle has been is changed.
   You may give other people a serious infection, or get a serious infection from them.
-- •NovoLog FlexTouch Pen (“Pen”) is a prefilled disposable pen containing 300 units of U-100 NovoLog (insulin aspart injection) insulin.
+- •NovoLog FlexTouch Pen (“Pen”) is a prefilled, single-patient-use disposable pen containing 300 units of U-100 NovoLog (insulin aspart injection) insulin.
   You can inject from 1 to 80 units in a single injection.
   The units can be increased by 1 unit at a time.
 - •People who are blind or have vision problems should not use this Pen without help from a person trained to use the Pen.
@@ -556,8 +571,8 @@ Step 9:
   Press and hold in the dose button until the dose counter shows “0”.
   The “0” must line up with the dose pointer.
 - •A drop of insulin should be seen at the needle tip (See Figure J).
-  - •If you do not see a drop of insulin, repeat steps 7 to 9, no more than 6 times.
-  - •If you still do not see a drop of insulin, change the needle and repeat steps 7 to 9.
+  - oIf you do not see a drop of insulin, repeat steps 7 to 9, no more than 6 times.
+  - oIf you still do not see a drop of insulin, change the needle and repeat steps 7 to 9.
 
 (Figure J)
 
@@ -567,9 +582,9 @@ Step 10:
 
 - •Turn the dose selector to select the number of units you need to inject.
   The dose pointer should line up with your dose (See Figure K).
-  - •If you select the wrong dose, you can turn the dose selector forwards or backwards to the correct dose.
-  - •The even numbers are printed on the dial.
-  - •The odd numbers are shown as lines.
+  - oIf you select the wrong dose, you can turn the dose selector forwards or backwards to the correct dose.
+  - oThe even numbers are printed on the dial.
+  - oThe odd numbers are shown as lines.
 
 (Figure K)
 
@@ -578,18 +593,21 @@ Step 10:
 (Figure L)
 
 - •To see how much insulin is left in your NovoLog FlexTouch Pen:
-  - •Turn the dose selector until it stops.
+  - oTurn the dose selector until it stops.
     The dose counter will line up with the number of units of insulin that is left in your Pen.
     If the dose counter shows 80, there are at least 80 units left in your Pen.
-  - •If the dose counter shows less than 80, the number shown in the dose counter is the number of units left in your Pen.
+  - oIf the dose counter shows less than 80, the number shown in the dose counter is the number of units left in your Pen.
 
 Giving your injection:
 
 - •Inject your NovoLog exactly as your healthcare provider has shown you.
   Your healthcare provider should tell you if you need to pinch the skin before injecting.
 - •NovoLog can be injected under the skin (subcutaneously) of your stomach area (abdomen), buttocks, upper legs (thighs) or upper arms.
-- •For each injection, change (rotate) your injection site within the area of skin that you use.
+- •Change (rotate) your injection sites within the area you choose for each dose to reduce your risk of getting lipodystrophy (pits in skin or thickened skin) and localized cutaneous amyloidosis (skin with lumps) at the injection sites.
+  For each injection, change (rotate) your injection site within the area of skin that you use.
   Do not use the same injection site for each injection.
+  Do not inject where the skin has pits, is thickened, or has lumps.
+  Do not inject where the skin is tender, bruised, scaly or hard, or into scars or damaged skin.
 
 Step 11:
 
@@ -601,7 +619,7 @@ Step 11:
 Step 12:
 
 - •Insert the needle into your skin (See Figure N).
-  - •Make sure you can see the dose counter.
+  - oMake sure you can see the dose counter.
     Do not cover it with your fingers, this can stop your injection.
 
 (Figure N)
@@ -609,7 +627,7 @@ Step 12:
 Step 13:
 
 - •Press and hold down the dose button until the dose counter shows “0” (See Figure O).
-  - •The “0” must line up with the dose pointer.
+  - oThe “0” must line up with the dose pointer.
     You may then hear or feel a click.
 
 (Figure O)
@@ -619,15 +637,15 @@ Step 13:
 (Figure P)
 
 - 
-  - •When the dose counter returns to “0”, you will not get your full dose until 6 seconds later.
-  - •If the needle is removed before you count to 6, you may see a stream of insulin coming from the needle tip.
-  - •If you see a stream of insulin coming from the needle tip you will not get your full dose.
+  - oWhen the dose counter returns to “0”, you will not get your full dose until 6 seconds later.
+  - oIf the needle is removed before you count to 6, you may see a stream of insulin coming from the needle tip.
+  - oIf you see a stream of insulin coming from the needle tip you will not get your full dose.
     If this happens you should check your blood sugar levels more often because you may need more insulin.
 
 Step 14:
 
 - •Pull the needle out of your skin (See Figure Q).
-  - •If you see blood after you take the needle out of your skin, press the injection site lightly with a piece of gauze or an alcohol swab.
+  - oIf you see blood after you take the needle out of your skin, press the injection site lightly with a piece of gauze or an alcohol swab.
     Do not rub the area.
 
 (Figure Q)
@@ -635,7 +653,7 @@ Step 14:
 Step 15:
 
 - •Carefully remove the needle from the Pen and throw it away (See Figure R).
-  - •Do not recap the needle.
+  - oDo not recap the needle.
     Recapping the needle can lead to needle stick injury.
 
 (Figure R)
@@ -645,7 +663,7 @@ Step 15:
 (Figure S)
 
 - 
-  - •Do not store the Pen with the needle attached.
+  - oDo not store the Pen with the needle attached.
     Storing without the needle attached helps prevent leaking, blocking of the needle, and air from entering the Pen.
 
 Step 16:
@@ -659,11 +677,10 @@ After your injection:
 - •You can put your used NovoLog FlexTouch Pen and needles in a FDA-cleared sharps disposal container right away after use.
   Do not throw away (dispose of) loose needles and Pens in your household trash.
 - •If you do not have a FDA-cleared sharps disposal container, you may use a household container that is:
-  - •made of a heavy-duty plastic
-  - •can be closed with a tight-fitting, puncture-resistant lid, without sharps being able to come out
-  - •upright and stable during use
-  - •leak-resistant
-  - •properly labeled to warn of hazardous waste inside the container.
+  - omade of a heavy-duty plastic,
+  - ocan be closed with a tight-fitting, puncture-resistant lid, without sharps being able to come out,
+  - oupright and stable during use, and
+  - oleak-resistant and properly labeled to warn of hazardous waste inside the container.
 - •When your sharps disposal container is almost full, you will need to follow your community guidelines for the right way to dispose of your sharps disposal container.
   There may be state or local laws about how you should throw away used needles and syringes.
   Do not reuse or share your needles or syringes with other people.
@@ -696,17 +713,19 @@ This Instructions for Use has been approved by the U.S. Food and Drug Administra
 
 Manufactured by: Novo Nordisk A/S DK-2880 Bagsvaerd, Denmark
 
-Revised: 12/2018
+Revised: 11/2019
 
 For more information go to
 
 www.novotraining.com/novologflextouch/us02
 
-© 2002-2018 Novo Nordisk
+© 2002-2019 Novo Nordisk
 
 INSTRUCTIONS FOR USE
 
-NovoLog® FlexPen®
+NovoLog® (NŌ-vō-log) FlexPen®
+
+(insulin aspart injection)
 
 Introduction
 
@@ -715,9 +734,9 @@ Please read the following instructions carefully before using your NovoLog FlexP
 Do not share your NovoLog FlexPen with other people, even if the needle has been changed.
 You may give other people a serious infection, or get a serious infection from them.
 
-NovoLog FlexPen is a disposable dial-a-dose insulin pen.
+NovoLog FlexPen is a disposable, single-patient-use, dial-a-dose insulin pen.
 You can select doses from 1 to 60 units in increments of 1 unit.
-NovoLog FlexPen is designed to be used with NovoFine, NovoFine Plus or NovoTwist needles
+NovoLog FlexPen is designed to be used with NovoFine, NovoFine Plus or NovoTwist needles.
 
 - Δ People who are blind or have vision problems should not use this Pen without help from a person trained to use the Pen.
 
@@ -725,9 +744,9 @@ Getting ready
 
 Make sure you have the following items:
 
-- •NovoLog FlexPen
-- •New NovoFine, NovoFine Plus or NovoTwist needle
-- •Alcohol swabs
+- ▪NovoLog FlexPen
+- ▪New NovoFine, NovoFine Plus or NovoTwist needle
+- ▪Alcohol swabs
 
 Preparing your NovoLog FlexPen
 
@@ -803,8 +822,10 @@ Wipe the skin with an alcohol swab and let the area dry.
 
 NovoLog can be injected under the skin (subcutaneously) of your stomach area, buttocks, upper legs (thighs), or upper arms.
 
-For each injection, change (rotate) your injection site within the area of skin that you use.
+Change (rotate) your injection sites within the area you choose for each dose to reduce your risk of getting lipodystrophy (pits in skin or thickened skin) and localized cutaneous amyloidosis (skin with lumps) at the injection sites.
 Do not use the same injection site for each injection.
+Do not inject where the skin has pits, is thickened, or has lumps.
+Do not inject where the skin is tender, bruised, scaly or hard, or into scars or damaged skin.
 
 I. Insert the needle into your skin.
 
@@ -900,4 +921,4 @@ Do not leave it in a car or other location where it can get too hot or too cold.
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
-Revised: 12/2018
+Revised: 11/2019

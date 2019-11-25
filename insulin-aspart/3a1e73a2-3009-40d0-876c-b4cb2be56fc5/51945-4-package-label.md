@@ -68,6 +68,8 @@ Avoid freezing.
 
 Protect from light.
 
+Dispense in this sealed carton.
+
 # PRINCIPAL DISPLAY PANEL - 3 mL NovoLog FlexTouch
 
 NDC 0169-6338-10 List 633810
@@ -96,7 +98,9 @@ Avoid freezing.
 
 Protect from light.
 
-# PRINCIPAL DISPLAY PANEL - Insulin Diluting Medium
+Dispense in this sealed carton.
+
+# PRINCIPAL DISPLAY PANEL – Insulin Diluting Medium
 
 List: 200190 NDC 0169-2001-90
 

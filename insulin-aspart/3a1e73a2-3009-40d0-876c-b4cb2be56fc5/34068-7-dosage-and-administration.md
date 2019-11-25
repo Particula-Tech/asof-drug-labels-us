@@ -15,7 +15,9 @@
 Subcutaneous Injection
 
 - •Inject NOVOLOG subcutaneously within 5-10 minutes before a meal into the abdominal area, thigh, buttocks or upper arm.
-- •Rotate injection sites within the same region from one injection to the next to reduce the risk of lipodystrophy [see Adverse Reactions (6.1)].
+- •Rotate injection sites within the same region from one injection to the next to reduce the risk of lipodystrophy and localized cutaneous amyloidosis.
+  Do not inject into areas of lipodystrophy or localized cutaneous amyloidosis [see Warnings and Precautions (5.2) and Adverse Reactions (6.1,6.3)].
+- •During changes to a patient’s insulin regimen, increase the frequency of blood glucose monitoring [see Warnings and Precautions (5.2)].
 - •The NOVOLOG FlexPen and FlexTouch dial in 1-unit increments.
 - •NOVOLOG administered by subcutaneous injection should generally be used in regimens with an intermediate- or long-acting insulin.
 - •NOVOLOG may be diluted with Insulin Diluting Medium for NOVOLOG for subcutaneous injection.
@@ -26,8 +28,9 @@ Continuous Subcutaneous Infusion (Insulin Pump)
 
 - •Use NOVOLOG in pump systems specifically indicated for insulin infusion.
 - •Train patients using continuous subcutaneous insulin fusion pump therapy to administer insulin by injection and have alternate insulin therapy available in case of pump failure.
-- •Administer NOVOLOG by continuous subcutaneous infusion into the subcutaneous tissue of the abdominal wall.
-  Rotate infusion sites within the same region to reduce the risk of lipodystrophy [see Adverse Reactions (6.1)].
+- •Administer NOVOLOG by continuous subcutaneous infusion in a region recommended in the instructions from the pump manufacturer.
+  Rotate infusion sites within the same region to reduce the risk of lipodystrophy or localized cutaneous amyloidosis [see Warnings and Precautions (5.2) and Adverse Reactions (6.1, 6.3)].
+- •During changes to a patient’s insulin regimen, increase the frequency of blood glucose monitoring [see Warnings and Precautions (5.2)].
 - •Follow healthcare provider recommendations when setting basal and meal time infusion rate.
 - •Change the NOVOLOG in the reservoir at least every 6 days.
   Follow the NOVOLOG-specific information for in-use time because NOVOLOG-specific information may differ from general pump manual instructions.

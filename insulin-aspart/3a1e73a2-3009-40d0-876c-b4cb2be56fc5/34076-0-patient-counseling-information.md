@@ -4,11 +4,11 @@ Advise the patient to read the FDA-approved patient labeling (Patient Informatio
 
 Never Share a NOVOLOG FlexPen or a NOVOLOG FlexTouch, PenFill Cartridge or PenFill Cartridge Device Between Patients
 
-Advise patients that they must never share NOVOLOG FlexPen, NOVOLOG FlexTouch, PenFill cartrige or PenFill cartridge devices with another person even if the needle is changed, because doing so carries a risk for transmission of blood-borne pathogens.
+Advise patients that they must never share NOVOLOG FlexPen, NOVOLOG FlexTouch, PenFill cartridge or PenFill cartridge devices with another person even if the needle is changed, because doing so carries a risk for transmission of blood-borne pathogens.
 Advise patients using NOVOLOG vials not to share needles or syringes with another person.
 Sharing poses a risk for transmission of blood-borne pathogens [see Warnings and Precautions (5.1)].
 
-Hypoglycemia
+Hyperglycemia or Hypoglycemia
 
 Inform patients that hypoglycemia is the most common adverse reaction with insulin.
 Instruct patients on self-management procedures including glucose monitoring, proper injection technique, and management of hypoglycemia and hyperglycemia, especially at initiation of NOVOLOG therapy.
@@ -18,9 +18,11 @@ Instruct patients on the management of hypoglycemia [see Warnings and Precaution
 Inform patients that their ability to concentrate and react may be impaired as a result of hypoglycemia.
 Advise patients who have frequent hypoglycemia or reduced or absent warning signs of hypoglycemia to use caution when driving or operating machinery.
 
+Advise patients that changes in insulin regimen can predispose to hyperglycemia or hypoglycemia and that changes in insulin regimen should be made under close medical supervision [see Warnings and Precautions (5.2)].
+
 Hypoglycemia with Medication Errors
 
-Instruct patients to always check the insulin label before each injection to avoid mix-ups between insulin products[see Warnings and Precautions (5.3)].
+Instruct patients to always check the insulin label before each injection to avoid mix-ups between insulin products [see Warnings and Precautions (5.3)].
 
 Hypersensitivity Reactions
 
@@ -57,15 +59,15 @@ Before using an insulin pump with NOVOLOG, read the pump label to make sure the 
 
 Rx only
 
-Date of Issue: 12/2018
+Date of Issue: 11/2019
 
-Version: 26
+Version: 27
 
 Novo Nordisk®, NOVOLOG®, PenFill®, Novolin®, FlexPen®, FlexTouch®, NovoFine®, and NovoTwist® are registered trademarks of Novo Nordisk A/S.
 
 Patent Information: http://novonordisk-us.com/patients/products/product-patents.html
 
-© 2002-2018 Novo Nordisk
+© 2002-2019 Novo Nordisk
 
 Manufactured by:
 
