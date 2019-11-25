@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "ANDA210945"
+  ],
+  "inn": "deferasirox",
+  "labeler": "MSN LABORATORIES PRIVATE LIMITED",
+  "package_ndcs": [
+    "69539-073-30",
+    "69539-073-99",
+    "69539-075-30",
+    "69539-075-99"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "deferasirox",
+      "name": "Deferasirox"
+    }
+  ],
+  "setid": "0354cbc7-9b32-4513-976a-2ef2da39b6b3",
+  "source": "dailymed"
+}
