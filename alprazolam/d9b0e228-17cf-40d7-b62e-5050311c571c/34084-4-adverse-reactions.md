@@ -16,7 +16,9 @@ Additionally, for anxiety disorders the cited figures can provide the prescriber
 
 ## Treatment-Emergent Adverse Events Reported in Placebo-Controlled Trials of Anxiety Disorders
 
-1. ANXIETY DISORDERS
+- ANXIETY DISORDERS
+
+ANXIETY DISORDERS
 
 |  | Treatment-EmergentSymptom IncidenceEvents reported by 1% or more of alprazolam patients are included. |  | Incidence ofInterventionBecause of Symptom |
 | --- | --- | --- | --- |
@@ -140,7 +142,9 @@ Panic disorder has been associated with primary and secondary major depressive d
 
 In a larger database comprised of both controlled and uncontrolled studies in which 641 patients received alprazolam, discontinuation-emergent symptoms which occurred at a rate of over 5% in patients treated with alprazolam and at a greater rate than the placebo treated group were as follows:
 
-1. DISCONTINUATION-EMERGENT SYMPTOM INCIDENCE
+- DISCONTINUATION-EMERGENT SYMPTOM INCIDENCE
+
+DISCONTINUATION-EMERGENT SYMPTOM INCIDENCE
 
 | Percentage of 641 Alprazolam-TreatedPanic Disorder Patients Reporting Events |  |  |  |
 | --- | --- | --- | --- |
