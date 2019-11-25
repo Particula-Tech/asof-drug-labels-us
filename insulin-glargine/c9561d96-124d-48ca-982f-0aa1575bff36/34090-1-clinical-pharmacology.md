@@ -41,7 +41,7 @@ Mean serum insulin concentrations declined to the lower limit of quantitation of
 
 Steady-state insulin concentrations are reached by at least 5 days of once-daily subcutaneous administration of 0.4 U/kg to 0.6 U/kg doses of TOUJEO over 8 days in patients with type 1 diabetes mellitus.
 
-After subcutaneous injection of TOUJEO, the intra-subject variability, defined as the coefficient of variation for the insulin exposure during 24 hours was 21.0% at steady state.
+After subcutaneous injection of TOUJEO, the intra-subject variability, defined as the coefficient of variation for the insulin exposure during 24 hours, was 21.0% at steady state.
 
 Elimination
 

@@ -25,15 +25,15 @@ Table 4: Type 1 Diabetes Mellitus – Adult (TOUJEO plus mealtime insulin versus
 | --- | --- | --- |
 | Treatment duration | 26 weeks |  |
 | Treatment in combination with | Fast-acting insulin analogue |  |
-| Number of subjects treated (mITTmITT: Modified intention-to-treat.) | 273 | 273 |
+| Number of subjects treated (mITTmITT: Modified intention-to-treat population.) | 273 | 273 |
 | HbA1c |  |  |
 | Baseline mean | 8.13 | 8.12 |
-| Adjusted Mean change from baseline | -0.40 | -0.44 |
-| Adjusted Mean differenceTreatment difference: TOUJEO – LANTUS. [95% Confidence Interval] | 0.04 [-0.10 to 0.18] |  |
+| Adjusted mean change from baseline | -0.40 | -0.44 |
+| Adjusted mean differenceTreatment difference: TOUJEO – LANTUS. [95% Confidence Interval] | 0.04 [-0.10 to 0.18] |  |
 | Fasting Plasma Glucose mg/dL |  |  |
 | Baseline mean | 186 | 199 |
-| Adjusted Mean change from baseline | -17 | -20 |
-| Adjusted Mean difference [95% Confidence Interval] | 3 [-10 to 16] |  |
+| Adjusted mean change from baseline | -17 | -20 |
+| Adjusted mean difference [95% Confidence Interval] | 3 [-10 to 16] |  |
 
 ## 14.3 Clinical Studies in Adult Patients with Type 2 Diabetes
 

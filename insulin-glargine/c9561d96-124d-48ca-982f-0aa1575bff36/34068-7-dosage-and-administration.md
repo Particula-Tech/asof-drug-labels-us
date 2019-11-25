@@ -1,6 +1,6 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-## 2.1 General Dosing Instructions
+## 2.1 General Dosing and Administration Instructions
 
 - TOUJEO is available in 2 disposable prefilled pens:
   - TOUJEO SoloStar contains 450 units of TOUJEO U-300.
@@ -9,7 +9,9 @@
     It delivers doses in 2 unit increments and can deliver up to 160 units in a single injection.
     It is recommended for patients requiring at least 20 units per day.
 - Inject TOUJEO subcutaneously once a day into the abdominal area, thigh, or deltoid at the same time each day.
-- Rotate injection sites within the same region from one injection to the next to reduce the risk of lipodystrophy [see Adverse Reactions (6.1)].
+- Rotate injection sites within the same region from one injection to the next to reduce the risk of lipodystrophy and localized cutaneous amyloidosis.
+  Do not inject into areas of lipodystrophy or localized cutaneous amyloidosis [see Warnings and Precautions (5.2), Adverse Reactions (6)].
+- During changes to a patient's insulin regimen, increase the frequency of blood glucose monitoring [see Warnings and Precautions (5.2)].
 - Individualize and titrate the dosage of TOUJEO based on the individual's metabolic needs, blood glucose monitoring results, and glycemic control goal.
 - To minimize the risk of hypoglycemia, titrate the dose of TOUJEO no more frequently than every 3 to 4 days.
 - Dosage adjustments may be needed with changes in physical activity, changes in meal patterns (i.e., macronutrient content or timing of food intake), changes in renal or hepatic function or during acute illness to minimize the risk of hypoglycemia or hyperglycemia [see Warnings and Precautions (5.2) and Use in Specific Populations (8.6, 8.7)].

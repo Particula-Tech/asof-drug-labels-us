@@ -104,3 +104,11 @@ Ninety percent of the AIA-positive patients on TOUJEO with antibody test at base
 
 The detection of antibody formation is highly dependent on the sensitivity and specificity of the assay and may be influenced by several factors such as: assay methodology, sample handling, timing of sample collection, concomitant medication, and underlying disease.
 For these reasons, comparison of the incidence of antibodies to TOUJEO with the incidence of antibodies in other studies or to other products may be misleading.
+
+## 6.3 Postmarketing Experience
+
+The following additional adverse reactions have been identified during postapproval use of TOUJEO.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+Localized cutaneous amyloidosis at the injection site has occurred.
+Hyperglycemia has been reported with repeated insulin injections into areas of localized cutaneous amyloidosis; hypoglycemia has been reported with a sudden change to an unaffected injection site.

@@ -7,18 +7,26 @@ Pen sharing poses a risk for transmission of blood-borne pathogens.
 
 ## 5.2 Hyperglycemia or Hypoglycemia with Changes in Insulin Regimen
 
-Changes in insulin strength, manufacturer, type, or method of administration may affect glycemic control and predispose to hypoglycemia [see Warnings and Precautions (5.3)] or hyperglycemia.
-These changes should be made cautiously and only under close medical supervision, and the frequency of blood glucose monitoring should be increased.
+Changes in Insulin Regimen Including Changes to Administration Site
+
+Changes in an insulin regimen (e.g., insulin strength, manufacturer, type, injection site or method of administration) may affect glycemic control and predispose to hypoglycemia [see Warnings and Precautions (5.3)] or hyperglycemia.
+Repeated insulin injections into areas of lipodystrophy or localized cutaneous amyloidosis have been reported to result in hyperglycemia; and a sudden change in the injection site (to unaffected area) has been reported to result in hypoglycemia [see Adverse Reactions (6)].
+
+Make any changes to a patient's insulin regimen under close medical supervision with increased frequency of blood glucose monitoring.
+Advise patients who have repeatedly injected into areas of lipodystrophy or localized cutaneous amyloidosis to change the injection site to unaffected areas and closely monitor for hypoglycemia.
 For patients with type 2 diabetes, dosage adjustments of concomitant oral antidiabetic products may be needed.
+
+Changing to TOUJEO from other Insulins
 
 On a unit-to-unit basis, TOUJEO has a lower glucose lowering effect than LANTUS [see Clinical Pharmacology (12.2)].
 In clinical trials, patients who changed to TOUJEO from other basal insulins experienced higher average fasting plasma glucose levels in the first weeks of therapy compared to patients who were changed to LANTUS.
-To minimize the risk of hyperglycemia when initiating TOUJEO monitor glucose daily, titrate TOUJEO according to labeling instructions, and adjust coadministered glucose-lowering therapies per standard of care [see Dosage and Administration (2.2, 2.3)].
 Higher doses of TOUJEO were required to achieve similar levels of glucose control compared to LANTUS in clinical trials [see Clinical Studies (14.1)].
 
 The onset of action of TOUJEO develops over 6 hours following an injection.
 In type 1 diabetes patients treated with IV insulin, consider the longer onset of action of TOUJEO before stopping IV insulin.
 The full glucose lowering effect may not be apparent for at least 5 days [see Dosage and Administration (2.2) and Clinical Pharmacology (12.2)].
+
+To minimize the risk of hyperglycemia when initiating TOUJEO monitor glucose daily, titrate TOUJEO as described in this prescribing information, and adjust coadministered glucose-lowering therapies per standard of care [see Dosage and Administration (2.2, 2.3)].
 
 ## 5.3 Hypoglycemia
 

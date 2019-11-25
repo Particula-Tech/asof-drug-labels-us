@@ -1,4 +1,4 @@
-Instructions for Use TOUJEO® SoloStar® (Too-Jay-o) (insulin glargine injection) 1.5 mL disposable prefilled pen
+Instructions for Use TOUJEO® SoloStar® (Too-Jay-o) (insulin glargine injection) 1.5 mL single-patient-use prefilled pen
 
 Read this first
 
@@ -21,6 +21,7 @@ Important information
 - Do not use your pen if it is damaged or if you are not sure that it is working properly.
 - Always perform a safety test (see Step 3).
 - Always carry a spare pen and spare needles in case they are lost or stop working.
+- Change (rotate) your injection sites within the area you choose for each dose (see "Places to inject").
 
 Learn to inject
 
@@ -42,7 +43,8 @@ Places to inject
 
 - Inject your insulin exactly as your healthcare provider has shown you.
 - Inject your insulin under the skin (subcutaneously) of your upper legs (thighs), upper arms, or stomach area (abdomen).
-- Change (rotate) your injection sites within the area you choose for each dose.
+- Change (rotate) your injection sites within the area you choose for each dose to reduce your risk of getting lipodystrophy (pits in skin or thickened skin) and localized cutaneous amyloidosis (skin with lumps) at the injection sites.
+- Do not inject where the skin has pits, is thickened, or has lumps.
 - Do not inject where the skin is tender, bruised, scaly or hard, or into scars or damaged skin.
 
 Get to know your pen
@@ -246,15 +248,15 @@ Throwing your pen away
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
+Revised: November 2019
+
 sanofi-aventis U.S. LLC Bridgewater, NJ 08807 A SANOFI COMPANY
 
-©2018 sanofi-aventis U.S. LLC
-
-Revised: October 2018
+©2019 sanofi-aventis U.S. LLC
 
 # Instructions for Use
 
-TOUJEO® Max SoloStar® (Too-Jay-o) (insulin glargine injection) 3 mL disposable prefilled pen
+TOUJEO® Max SoloStar® (Too-Jay-o) (insulin glargine injection) 3 mL single-patient-use prefilled pen
 
 Read this first
 
@@ -277,6 +279,7 @@ Important information
 - Do not use your pen if it is damaged or if you are not sure that it is working properly.
 - Always perform a safety test (see Step 3).
 - Always carry a spare pen and spare needles in case they are lost or stop working.
+- Change (rotate) your injection sites within the area you choose for each dose (see "Places to inject").
 
 Learn to inject
 
@@ -298,7 +301,8 @@ Places to inject
 
 - Inject your insulin exactly as your healthcare provider has shown you.
 - Inject your insulin under the skin (subcutaneously) of your upper legs (thighs), upper arms, or stomach area (abdomen).
-- Change (rotate) your injection sites within the area you choose for each dose.
+- Change (rotate) your injection sites within the area you choose for each dose to reduce your risk of getting lipodystrophy (pits in skin or thickened skin) and localized cutaneous amyloidosis (skin with lumps) at the injection sites.
+- Do not inject where the skin has pits, is thickened, or has lumps.
 - Do not inject where the skin is tender, bruised, scaly or hard, or into scars or damaged skin.
 
 Get to know your pen
@@ -499,8 +503,8 @@ Throwing your pen away
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
+Revised: November 2019
+
 sanofi-aventis U.S. LLC Bridgewater, NJ 08807 A SANOFI COMPANY
 
-©2018 sanofi-aventis U.S. LLC
-
-Revised: October 2018
+©2019 sanofi-aventis U.S. LLC
