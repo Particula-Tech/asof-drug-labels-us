@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "ANDA211824"
+  ],
+  "inn": "deferasirox",
+  "labeler": "Alembic Pharmaceuticals Limited",
+  "package_ndcs": [
+    "46708-410-30",
+    "46708-410-91",
+    "46708-412-30",
+    "46708-412-91"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "deferasirox",
+      "name": "DEFERASIROX"
+    }
+  ],
+  "setid": "dd9450f4-7c95-4322-8806-9820570f5aa2",
+  "source": "dailymed"
+}
