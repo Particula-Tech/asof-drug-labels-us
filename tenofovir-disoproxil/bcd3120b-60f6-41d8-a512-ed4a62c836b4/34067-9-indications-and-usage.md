@@ -2,7 +2,7 @@
 
 ## 1.1 HIV-1 Infection
 
-Tenofovir disoproxil fumarate is indicated in combination with other antiretroviral agents for the treatment of human immunodeficiency virus type 1 (HIV-1) infection in adults and pediatric patients 2 years of age and older weighing at least 10 kg.
+Tenofovir disoproxil fumarate is indicated in combination with other antiretroviral agents for the treatment of Human Immunodeficiency virus type 1 (HIV-1) infection in adults and pediatric patients 2 years of age and older weighing at least 10 kg.
 
 ## 1.2 Chronic Hepatitis B
 

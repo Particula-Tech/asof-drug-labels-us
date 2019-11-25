@@ -29,7 +29,7 @@ Tenofovir disoproxil fumarate tablet is a prescription medicine used to:
 
 - treat HIV-1 infection when used with other anti-HIV-1 medicines in adults and children 2 years of age and older who weigh at least 22 pounds (10 kg).
   HIV is the virus that causes AIDS (Acquired Immune Deficiency Syndrome).
-- treat HBV infection in adults and children 2 years of age and older who weigh at least 22 pounds (10 kg).
+- treat HBV infection in adults and children 12 years of age and older who weigh at least 22 pounds (10 kg).
   It is not known if Tenofovir Disoproxil Fumarate is safe and effective in children under 2 years of age.
 
 What should I tell my healthcare provider before taking tenofovir disoproxil fumarate tablet?
@@ -69,7 +69,6 @@ How should I take tenofovir disoproxil fumarate tablet?
 - Take tenofovir disoproxil fumarate tablet at the same time every day.
 - For adults and children 2 years of age and older who weigh at least 77 pounds (35 kg), the usual dose of tenofovir disoproxil fumarate. is one 300 mg tablet each day.
 - For children 2 years of age and older who weigh between 37 pounds (17 kg) and 77 pounds (35 kg), your healthcare provider will prescribe the right dose of tenofovir disoproxil fumarate. tablets based on your child's body weight.
-- Adults and children 2 years of age and older who weigh at least 22 pounds (10 kg) and who are unable to swallow tenofovir disoproxil fumarate tablets whole, may take tenofovir disoproxil fumarat powder.
 - Tell your healthcare provider if you or your child has problems with swallowing tablets.
 - If your healthcare provider prescribes tenofovir disoproxil fumarate. powder for you or your child, see the "Instructions for Use" that comes with your Tenofovir Disoproxil Fumarate powder for information about the right way to measure and take tenofovir disoproxil fumarate. powder.
 - Take tenofovir disoproxil fumarate. tablets by mouth, with or without food.
@@ -82,18 +81,15 @@ What are the possible side effects of tenofovir disoproxil fumarate tablet?
 
 Tenofovir disoproxil fumarate tablet may cause serious side effects, including:
 
-See "What is the most important information I should know about tenofovir disoproxil fumarate tablet?
-
-New or worse kidney problems, including kidney failure.
-Your healthcare provider should do blood and urine tests to check your kidneys before you start and during treatment with tenofovir disoproxil fumarate.
-Your healthcare provider may tell you to take tenofovir disoproxil fumarate less often, or to stop taking tenofovir disoproxil fumarate if you get new or worse kidney problems.
-
-- Changes in your immune system (Immune Reconstitution Syndrome) can happen when you start taking HIV medicines.
+- See "What is the most important information I should know about tenofovir disoproxil fumarate tablet?
+- New or worse kidney problems, including kidney failure.
+  Your healthcare provider should do blood and urine tests to check your kidneys before you start and during treatment with tenofovir disoproxil fumarate.
+  Your healthcare provider may tell you to take tenofovir disoproxil fumarate less often, or to stop taking tenofovir disoproxil fumarate if you get new or worse kidney problems.
+- Changes in your immune system (Immune Reconstitution Syndrome) can happen when an HIV-1 infected person starts taking HIV medicines.
   Your immune system may get stronger and begin to fight infections that have been hidden in your body for a long time.
-  Tell your healthcare provider if you start having new symptoms after starting your tenofovir disoproxil fumarate for the treatment of HIV-1 infection.
-  HIV medicine.
-- Bone problems can happen in some people who take tenofovir disoproxil fumarate tablet.
-  Bone problems include bone pain, softening or thinning which may lead to fractures.
+  Tell your healthcare provider right away if you start having new symptoms after starting your tenofovir disoproxil fumarate for the treatment of HIV-1 infection.
+- Bone problems can happen in some children or adults who take tenofovir disoproxil fumarate.
+  Bone problems include bone pain, softening or thinning of bones,which may lead to fractures.
   Your healthcare provider may need to do tests to check your bones or your child's bones
 - Too much lactic acid in your blood (lactic acidosis).
   Too much lactic acid is a serious but rare medical emergency that can lead to death.
@@ -104,22 +100,16 @@ Your healthcare provider may tell you to take tenofovir disoproxil fumarate less
 
 The most common side effects in all people who take tenofovir disoproxil fumarate are:
 
-- nausea
-- rash
-- diarrhea
+- nausea • pain
+- rash • depression
+- diarrhea • weakness
 - headache
-- pain
-- depression
-- weakness
 
 In some people with advanced HBV-infection, other common side effects may include:
 
-- fever
-- itching
-- vomiting
-- stomach-area pain
-- dizziness
-- sleeping problems
+- fever • stomach-area pain
+- itching • dizziness
+- vomiting • sleeping problems
 
 These are not all the possible side effects of tenofovir disoproxil fumarate.
 
@@ -135,7 +125,7 @@ How should I store tenofovir disoproxil fumarate tablet?
 
 Keep tenofovir disoproxil fumarate tablet and all medicines out of the reach of children.
 
-General information about tenofovir disoproxil fumarate tablet:
+General information about the safe and effective use tenofovir disoproxil fumarate tablet.
 
 Medicines are sometimes prescribed for purposes other than those listed in a patient information leaflet.
 Do not use tenofovir disoproxil fumarate tablet for a condition for which it was not prescribed.
@@ -172,7 +162,7 @@ Strides Pharma Inc.
 
 East Brunswick, NJ 08816
 
-Revised: 07/2019
+Revised: 10/2019
 
 COMPLERA, DESCOVY, GENVOYA, HARVONI, HEPSERA, ODEFSEY, STRIBILD, TRUVADA, VEMLIDY and TENOFOVIR DISOPROXIL FUMARATE are registered trademarks of Gilead Sciences Inc., or its related companies.
 ATRIPLA is a registered trademark of Bristol-Myers Squibb & Gilead Sciences, LLC.

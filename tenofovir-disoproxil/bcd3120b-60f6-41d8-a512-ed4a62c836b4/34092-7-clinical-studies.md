@@ -2,8 +2,6 @@
 
 ## 14.1 Overview of Clinical Trials
 
-14.1 Overview of Clinical Trials
-
 The efficacy and safety of tenofovir disoproxil fumarate in adults and pediatric subjects were evaluated in the trials summarized in Table 19.
 
 Table 19 Trials Conducted with Tenofovir Disoproxil Fumarate in Adults and Pediatric Subjects for HIV-1 Treatment and Chronic HBV Treatment
@@ -32,7 +30,7 @@ However, due to Gilead Sciences, Inc.'s marketing exclusivity rights, this drug 
 
 Treatment-Naïve Subjects: Trial 903
 
-Data through 144 weeks are reported for Study 903, a double-blind, active-controlled multicenter trial comparing tenofovir disoproxil fumarate (300 mg once daily) administered in combination with lamivudine and efavirenz versus stavudine (d4T), lamivudine, and efavirenz in 600 antiretroviral-naïve subjects.
+Data through 144 weeks are reported for Trial 903, a double-blind, active-controlled multicenter trial comparing tenofovir disoproxil fumarate (300 mg once daily) administered in combination with lamivudine and efavirenz versus stavudine (d4T), lamivudine, and efavirenz in 600 antiretroviral-naïve subjects.
 Subjects had a mean age of 36 years (range 18-64), 74% were male, 64% were Caucasian and 20% were Black.
 The mean baseline CD4+ cell count was 279 cells/mm3 (range 3-956) and median baseline plasma HIV-1 RNA was 77,600 copies/mL (range 417-5,130,000).
 Subjects were stratified by baseline HIV-1 RNA and CD4+ cell count.
@@ -64,7 +62,7 @@ Through 144 weeks, 11 subjects in the tenofovir disoproxil fumarate group and 9 
 
 Treatment-Naïve Subjects: Trial 934
 
-Data through 144 weeks are reported for Study 934, a randomized, open-label, active-controlled multicenter trial comparing emtricitabine + tenofovir disoproxil fumarate administered in combination with efavirenz versus zidovudine/lamivudine fixed-dose combination administered in combination with efavirenz in 511 antiretroviral-naïve subjects.
+Data through 144 weeks are reported for Trial 934, a randomized, open-label, active-controlled multicenter trial comparing emtricitabine + tenofovir disoproxil fumarate administered in combination with efavirenz versus zidovudine/lamivudine fixed-dose combination administered in combination with efavirenz in 511 antiretroviral-naïve subjects.
 From Weeks 96 to 144 of the trial, subjects received a fixed-dose combination of emtricitabine and tenofovir with efavirenz in place of emtricitabine + tenofovir disoproxil fumarate with efavirenz.
 Subjects had a mean age of 38 years (range 18-80), 86% were male, 59% were Caucasian and 23% were Black.
 The mean baseline CD4+ cell count was 245 cells/mm3 (range 2-1191) and median baseline plasma HIV-1 RNA was 5.01 log10 copies/mL (range 3.56-6.54).
@@ -176,17 +174,17 @@ Treatment Beyond 48 Weeks: Trials 0102 and 0103
 
 In Trials 0102 (HBeAg-negative) and 0103 (HBeAg-positive), subjects who completed double-blind treatment (389 and 196 subjects who were originally randomized to tenofovir disoproxil fumarate and HEPSERA, respectively) were eligible to roll over to open-label tenofovir disoproxil fumarate with no interruption in treatment.
 
-In Trial 0102, 266 of 347 subjects who entered the open-label period (77%) continued in the study through Week 384.
+In Trial 0102, 266 of 347 subjects who entered the open-label period (77%) continued in the Trial through Week 384.
 Among subjects randomized to tenofovir disoproxil fumarate followed by open-label treatment with tenofovir disoproxil fumarate, 73% had HBV DNA <400 copies/ml (69 IU/ml), and 63% had ALT normalization at Week 384.
 Among subjects randomized to HEPSERA followed by open-label treatment with tenofovir disoproxil fumarate, 80% had HBV DNA <400 copies/mL (69 IU/mL) and 70% had ALT normalization through Week 384.
 At Week 384, both HBsAg loss and seroconversion were approximately 1% in both treatment groups.
 
-In Trial 0103, 146 of 238 subjects who entered the open-label period (61%) continued in the study through Week 384.
+In Trial 0103, 146 of 238 subjects who entered the open-label period (61%) continued in the Trial through Week 384.
 Among subjects randomized to tenofovir disoproxil fumarate, 49% had HBV DNA <400 copies/mL (69 IU/mL), 42% had ALT normalization, and 20% had HBeAg loss (13% seroconversion to anti-HBe antibody) through Week 384.
 Among subjects randomized to HEPSERA followed by open-label treatment with tenofovir disoproxil fumarate, 56% had HBV DNA <400 copies/mL (69 IU/mL), 50% had ALT normalization, and 28% had HBeAg loss (19% seroconversion to anti-HBe antibody) through Week 384.
 At Week 384, HBsAg loss and seroconversion were 11% and 8% respectively, in subjects initially randomized to tenofovir disoproxil fumarate and 12% and 10%, respectively, in subjects initially randomized to HEPSERA.
 
-Of the originally randomized and treated 641 subjects in the two studies, liver biopsy data from 328 subjects who received continuing open-label treatment with tenofovir disoproxil fumarate monotherapy were available for analysis at baseline, Week 48 and Week 240.
+Of the originally randomized and treated 641 subjects in the two Trials, liver biopsy data from 328 subjects who received continuing open-label treatment with tenofovir disoproxil fumarate monotherapy were available for analysis at baseline, Week 48 and Week 240.
 There were no apparent differences between the subset of subjects who had liver biopsy data at Week 240 and those subjects remaining on open-label tenofovir disoproxil fumarate without biopsy data that would be expected to affect histological outcomes at Week 240.
 Among the 328 subjects evaluated, the observed histological response rates were 80% and 88% at Week 48 and Week 240, respectively.
 In the subjects without cirrhosis at baseline (Ishak fibrosis score 0-4), 92% (216/235) and 95% (223/235) had either improvement or no change in Ishak fibrosis score at Week 48 and Week 240, respectively.

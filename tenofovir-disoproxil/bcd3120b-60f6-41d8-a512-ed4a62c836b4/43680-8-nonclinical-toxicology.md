@@ -13,6 +13,11 @@ Mutagenesis
 Tenofovir disoproxil fumarate was mutagenic in the in vitro mouse lymphoma assay and negative in an in vitro bacterial mutagenicity test (Ames test).
 In an in vivo mouse micronucleus assay, tenofovir disoproxil fumarate was negative when administered to male mice.
 
+Impairment of Fertility
+
+There were no effects on fertility, mating performance or early embryonic development when tenofovir disoproxil fumarate was administered to male rats at a dose equivalent to 10 times the human dose based on body surface area comparisons for 28 days prior to mating and to female rats for 15 days prior to mating through day seven of gestation.
+There was, however, an alteration of the estrous cycle in female rats.
+
 ## 13.2 Animal Toxicology and/or Pharmacology
 
 Tenofovir and tenofovir disoproxil fumarate administered in toxicology studies to rats, dogs, and monkeys at exposures (based on AUCs) greater than or equal to 6 fold those observed in humans caused bone toxicity.

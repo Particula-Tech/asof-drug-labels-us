@@ -2,7 +2,7 @@
 
 The following adverse reactions are discussed in other sections of the labeling:
 
-- Severe Acute Exacerbation of Hepatitis B in Patients with HBV Infection [See Boxed Warning, Warnings and Precautions (5.1)].
+- Severe Acute Exacerbation of Hepatitis B in Patients with HBV Infection [See Warnings and Precautions (5.1)].
 - New Onset or Worsening Renal Impairment [See Warnings and Precautions (5.2)].
 - Immune Reconstitution Syndrome [see Warnings and Precautions (5.4)].
 - Bone Loss and Mineralization Defects [see Warnings and Precautions (5.5)].
@@ -189,7 +189,7 @@ Table 9 Grade 3-4 Laboratory Abnormalities Reported in ≥1% of Tenofovir Disopr
 
 Adverse Reactions from Clinical Trials Experience in HIV-1 Infected Pediatric Subjects 2 Years and Older
 
-Assessment of adverse reactions is based on two randomized trials (Studies 352 and 321) in 184 HIV-1 infected pediatric subjects (2 years to less than 18 years of age) who received treatment with tenofovir disoproxil fumarate (N=93) or placebo/active comparator (N=91) in combination with other antiretroviral agents for 48 weeks [see clinical studies (14.3)].
+Assessment of adverse reactions is based on two randomized trials (Trials 352 and 321) in 184 HIV-1 infected pediatric subjects (2 years to less than 18 years of age) who received treatment with tenofovir disoproxil fumarate (N=93) or placebo/active comparator (N=91) in combination with other antiretroviral agents for 48 weeks [see clinical studies (14.3)].
 The adverse reactions observed in subjects who received treatment with tenofovir disoproxil fumarate were consistent with those observed in clinical trials in adults.
 
 In Trial 352, 89 pediatric subjects (2 years to less than 12 years of age) received tenofovir disoproxil fumarate for a median exposure of 104 weeks.
@@ -230,7 +230,7 @@ Table 10 Grades 3-4 Laboratory Abnormalities Reported in ≥1% of Tenofovir Diso
 | ALT (M: >215 U/L; F: >170 U/L) | 10% | 6% |
 
 The overall incidence of on-treatment ALT flares (defined as serum ALT greater than 2 × baseline and greater than 10 × ULN, with or without associated symptoms) was similar between tenofovir disoproxil fumarate (2.6%) and HEPSERA (2%).
-ALT flares generally occurred within the first 4 to 8 weeks of treatment and were accompanied by decreases in HBV DNA levels.
+ALT flares generally occurred within the first 4-8 weeks of treatment and were accompanied by decreases in HBV DNA levels.
 No subject had evidence of decompensation.
 ALT flares typically resolved within 4 to 8 weeks without changes in study medication.
 
@@ -246,7 +246,7 @@ Four of 45 (9%) subjects experienced a confirmed increase in serum creatinine of
 Three of these subjects (each of whom had a Child-Pugh score greater than or equal to 10 and MELD score greater than or equal to 14 at entry) developed renal failure.
 Because both tenofovir disoproxil fumarate and decompensated liver disease may have an impact on renal function, the contribution of tenofovir disoproxil fumarate to renal impairment in this population is difficult to ascertain.
 
-One of 45 subjects experienced as on-treatment hepatic flare during the 48 Week trial.
+One of 45 subjects experienced an on-treatment hepatic flare during the 48 Week trial.
 
 Adverse Reactions from Clinical Trials Experience in HBV-Infected Pediatric Subjects 12 Years and Older
 
@@ -262,7 +262,7 @@ Table 11 Change in Bone Mineral Density from Baseline in Pediatric Subjects 2 Ye
 | --- | --- | --- |
 | Tenofovir disoproxil fumarate (N=52) | Placebo (N=54) |  |
 | Mean percentage change in BMD Lumbar spine Total body | +5% +3% | +8% +5% |
-| Cumulative incidence of ≤ 4% decrease in BMD |  |  |
+| Cumulative incidence of ≥ 4% decrease in BMD |  |  |
 | Lumbar spine | 6% | 4% |
 | Total body | 0% | 2% |
 | Baseline BMD Z-score (mean) |  |  |
@@ -317,6 +317,6 @@ acute renal failure, renal failure, acute tubular necrosis, Fanconi syndrome, pr
 
 General Disorders and Administration Site Conditions
 
-Asthenia
+asthenia
 
 The following adverse reactions, listed under the body system headings above, may occur as a consequence of proximal renal tubulopathy: rhabdomyolysis, osteomalacia, hypokalemia, muscular weakness, myopathy, hypophosphatemia.

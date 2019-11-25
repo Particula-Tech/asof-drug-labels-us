@@ -2,6 +2,7 @@
 
 Tenofovir disoproxil fumarate (a prodrug of tenofovir) is a fumaric acid salt of bisisopropoxycarbonyloxymethyl ester derivative of tenofovir.
 In vivo tenofovir disoproxil fumarate is converted to tenofovir, an acyclic nucleoside phosphonate (nucleotide) analog of adenosine 5'-monophosphate.
+
 Tenofovir exhibits activity against HIV-1 reverse transcriptase.
 
 The chemical name of tenofovir disoproxil fumarate is 9-[(R)-2-[[bis[[(isopropoxycarbonyl)oxy]methoxy]phosphinyl]methoxy]propyl]adenine fumarate (1:1).

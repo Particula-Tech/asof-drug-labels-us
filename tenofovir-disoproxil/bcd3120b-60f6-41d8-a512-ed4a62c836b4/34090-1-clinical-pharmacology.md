@@ -56,7 +56,7 @@ Tenofovir pharmacokinetics are similar in male and female subjects.
 Pediatric Patients
 
 Steady-state pharmacokinetics of tenofovir were evaluated in HIV-1 infected pediatric subjects 12 to less than 18 years of age (Table 13).
-Tenofovir exposure achieved in these pediatric subjects receiving oral once daily doses of tenofovir disoproxil fumarate 300 mg (tablet) or 8 mg/kg of body weight (powder) up to a maximum dose of 300 mg was similar to exposures achieved in adults receiving once-daily doses of tenofovir disoproxil fumarate 300 mg.
+Tenofovir exposure achieved in these pediatric subjects receiving oral once daily doses of tenofovir disoproxil fumarate 300 mg (tablet) was similar to exposures achieved in adults receiving once-daily doses of tenofovir disoproxil fumarate 300 mg.
 
 Table 13 Mean (± SD) Tenofovir Pharmacokinetic Parameters for H0049V-1 infected Pediatric Patients 12 years and older for the Tablet
 
@@ -129,7 +129,7 @@ Table 15 Drug Interactions: Changes in Pharmacokinetic Parameters for Tenofovira
 | Tipranavir/ Ritonavirn | 500/100 twice daily | 22 | ↓ 23 (↓ 32 to ↓ 13) | ↓ 2 (↓ 9 to ↑ 5) | ↑ 7 (↓ 2 to ↑ 17) |
 | 750/200 twice daily (23 doses) | 20 | ↓ 38 (↓ 46 to ↓ 29) | ↑ 2 (↓ 6 to ↑ 10) | ↑ 14 (↑ 1 to ↑ 27) |  |
 | a. Subjects received tenofovir disoproxil fumarate 300 mg once daily. |  |  |  |  |  |
-| b. Increase =↑; Decrease = ↑; No Effect = |  |  |  |  |  |
+| b. Increase =↑; Decrease = ↓; No Effect ↔ |  |  |  |  |  |
 | c. Reyataz Prescribing Information. |  |  |  |  |  |
 | d. Prezista Prescribing Information. |  |  |  |  |  |
 | e. Data generated from simultaneous dosing with HARVONI (ledipasvir/sofosbuvir). Staggered administration (12 hours apart) provided similar results. |  |  |  |  |  |
@@ -209,7 +209,7 @@ One patient in the tenofovir disoproxil fumarate arm developed the K70E substitu
 Other substitutions resulting in resistance to tenofovir disoproxil fumarate were not identified in this trial.
 
 In Trial 934 of treatment-naïve subjects (tenofovir disoproxil fumarate + EMTRIVA + efavirenz versus zidovudine (AZT)/lamivudine (3TC) + efavirenz) [See Clinical Studies (14.2)], genotypic analysis performed on HIV-1 isolates from all confirmed virologic failure subjects with greater than 400 copies/mL of HIV-1 RNA at Week 144 or early discontinuation showed development of efavirenz resistance-associated substitutions occurred most frequently and was similar between the two treatment arms The M184V substitution, associated with resistance to EMTRIVA and lamivudine, was observed in 2/19 of analyzed subject isolates in the tenofovir disoproxil fumarate + EMTRIVA group and in 10/29 analyzed subject isolates in the zidovudine/lamivudine group.
-Through 144 weeks of Study 934, no subjects have developed a detectable K65R substitution in their HIV-1 as analyzed through standard genotypic analysis.
+Through 144 weeks of Trial 934, no subjects have developed a detectable K65R substitution in their HIV-1 as analyzed through standard genotypic analysis.
 
 Cross-Resistance
 
@@ -219,10 +219,10 @@ HIV-1 isolates with this substitution also show reduced susceptibility to emtric
 Therefore, cross-resistance among these drugs may occur in patients whose virus harbors the K65R or K70E substitution.
 HIV-1 isolates from subjects (N=20) whose HIV-1 expressed a mean of three zidovudine-associated reverse transcriptase substitutions (M41L, D67N, K70R, L210W, T215Y/F, or K219Q/E/N), showed a 3.1-fold decrease in the susceptibility to tenofovir.
 
-In Trials 902 and 907 conducted in treatment-experienced subjects (tenofovir disoproxil fumarate + Standard Background Therapy (SBT) compared to Placebo + SBT) [See Clinical Studies (14.1)], 14/304 (5%) of the tenofovir disoproxil fumarate-treated subjects with virologic failure through Week 96 had > 1.4-fold (median 2.7-fold) reduced susceptibility to tenofovir.
+In Trials 902 and 907 conducted in treatment-experienced subjects (tenofovir disoproxil fumarate + Standard Background Therapy (SBT) compared to Placebo + SBT) [See Clinical Studies (14.2))], 14/304 (5%) of the tenofovir disoproxil fumarate-treated subjects with virologic failure through Week 96 had > 1.4-fold (median 2.7-fold) reduced susceptibility to tenofovir.
 Genotypic analysis of the baseline and failure isolates showed the development of the K65R substitution in the HIV-1 reverse transcriptase gene.
 
-The virologic response to tenofovir disoproxil fumarate therapy has been evaluated with respect to baseline viral genotype (N=222) in treatment-experienced subjects participating in Studies 902 and 907.In these clinical trials, 94% of the participants evaluated had baseline HIV-1 isolates expressing at least one NRTI substitution.
+The virologic response to tenofovir disoproxil fumarate therapy has been evaluated with respect to baseline viral genotype (N=222) in treatment-experienced subjects participating in Trials 902 and 907.In these clinical trials, 94% of the participants evaluated had baseline HIV-1 isolates expressing at least one NRTI substitution.
 Virologic responses for subjects in the genotype substudy were similar to the overall trial results.
 
 Several exploratory analyses were conducted to evaluate the effect of specific substitutions and substitutional patterns on virologic outcome.
@@ -264,7 +264,7 @@ In cell culture combination antiviral activity studies of tenofovir with HBV Nrt
 Resistance
 
 Cumulative tenofovir disoproxil fumarate genotypic resistance has been evaluated annually for up to 384 weeks in Trailss 0102, 0103, 0106,0108, and 0121[see Clinical Studies (14.4)] with the paired HBV reverse transcriptase amino acid sequences of the pre-treatment and on-treatment isolates from subjects who received at least 24 weeks of tenofovir disoproxil fumarate monotherapy and remained viremic with HBV DNA ≥ 400 copies/mL (69 IU/mL) at the end of each study year (or at discontinuation of tenofovir disoproxil fumarate monotherapy) using an as-treated analysis.
-In the nucleotide-naïve population from Studies 0102 and 0103, HBeAg-positive subjects had a higher baseline viral load than HBeAg-negative subjects and a significantly higher proportion of the subjects remained viremic at their last time point on tenofovir disoproxil fumarate monotherapy (15% versus 5%, respectively).
+In the nucleotide-naïve population from Trials 0102 and 0103, HBeAg-positive subjects had a higher baseline viral load than HBeAg-negative subjects and a significantly higher proportion of the subjects remained viremic at their last time point on tenofovir disoproxil fumarate monotherapy (15% versus 5%, respectively).
 
 HBV isolates from these subjects who remained viremic showed treatment-emergent substitutions (Table 18); however, no specific substitutions occurred at a sufficient frequency to be associated with resistance to tenofovir disoproxil fumarate (genotypic and phenotypic analyses).
 
@@ -276,7 +276,7 @@ Table 18 Amino Acid Substitutions in Viremic Subjects across HBV Trials of Tenof
 | Viremic at Last Time Point on tenofovir disoproxil fumarate | 38/417 (9%) | 37/247 (15%) | 9/136 (7%) | 7/39 (18%) |
 | Treatment-Emergent Amino Acid Substitutionse | 18f/32 (56%) | 11g/31 (35%) | 6h/8 (75%) | 3/5 (60%) |
 | a Nucleotide-naïve subjects from Trials 0102 (N=246) and 0103 (N=171) receiving up to 384 weeks of treatment with tenofovir disoproxil fumarate. |  |  |  |  |
-| b HEPSERA-experienced subjects from Trials 0102/0103 (N=195) and 0106 (N=52) receiving up to 336 weeks of treatment with tenofovir disoproxil fumarate after switching to tenofovir disoproxil fumarate from HEPSERA. Study 0106, a randomized, double blind, 168-week Phase 2 trail, has been completed. |  |  |  |  |
+| b HEPSERA-experienced subjects from Trials 0102/0103 (N=195) and 0106 (N=52) receiving up to 336 weeks of treatment with tenofovir disoproxil fumarate after switching to tenofovir disoproxil fumarate from HEPSERA. Trial 0106, a randomized, double blind, 168-week Phase 2 trail, has been completed. |  |  |  |  |
 | c Lamivudine-resistant subjects from Trial 0121 (N=136) receiving up to 96 weeks of treatment with tenofovir disoproxil fumarate after switching to tenofovir disoproxil fumarate from lamivudine |  |  |  |  |
 | d Subjects with decompensated liver disease from Trial 0108 (N=39) receiving up to 48 weeks of treatment with tenofovir disoproxil fumarate. |  |  |  |  |
 | e Denominator includes those subjects who were viremic at last time point on tenofovir disoproxil fumarate monotherapy and had evaluable paired genotypic data. |  |  |  |  |
@@ -296,6 +296,6 @@ HBV strains expressing the rtL180M, rtT184G, rtS202G/I, rtM204V, and rtM250V sub
 HBV strains expressing the adefovir resistance-associated substitutions rtA181V and/or rtN236T showed reductions in susceptibility to tenofovir ranging from 2.9- to 10-fold that of wild type virus.
 Strains containing the rtA181T substitution showed changes in susceptibility to tenofovir ranging from 0.9- to 1.5-fold that of wild type virus.
 
-One hundred fifty-two subjects initiating tenofovir disoproxil fumarate therapy in Studies 0102, 0103, 0106, 0108, and 0121 harbored HBV with known resistance substitutions to HBV NrtIs: 14 with adefovir resistance-associated substitutions (rtA181S/T/V and/or rtN236T), 135 with lamivudine resistance-associated substitutions (rtM204I/V), and 3 with both adefovir and lamivudine resistance-associated substitutions.
+One hundred fifty-two subjects initiating tenofovir disoproxil fumarate therapy in Trials 0102, 0103, 0106, 0108, and 0121 harbored HBV with known resistance substitutions to HBV NrtIs: 14 with adefovir resistance-associated substitutions (rtA181S/T/V and/or rtN236T), 135 with lamivudine resistance-associated substitutions (rtM204I/V), and 3 with both adefovir and lamivudine resistance-associated substitutions.
 Following up to 384 weeks of tenofovir disoproxil fumarate treatment, 10 of the 14 subjects with adefovir-resistant HBV, 124 of the 135 subjects with lamivudine-resistant HBV, and 2 of the 3 subjects with both adefovir- and lamivudine-resistant HBV achieved and maintained virologic suppression (HBV DNA less than 400 copies/mL [69 IU/mL]).
 Three of the 5 subjects whose virus harbored both the rtA181T/V and rtN236T substitutions remained viremic.

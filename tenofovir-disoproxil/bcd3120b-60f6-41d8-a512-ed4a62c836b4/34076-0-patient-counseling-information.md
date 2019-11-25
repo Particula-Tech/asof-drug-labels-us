@@ -51,8 +51,6 @@ Treatment Duration
 Advise patients that in the treatment of chronic hepatitis B, the optimal duration of treatment is unknown.
 The relationship between response and long-term prevention of outcomes such as hepatocellular carcinoma is not known.
 
-TENOFOVIR DISOPROXIL FUMARATE, ATRIPLA, COMPLERA, EPCLUSA, HARVONI, HEPSERA, SOVALDI, STRIBILD, TRUVADA and all other trademarks referenced herein are the property of their respective owners.
-
 Manufactured by:
 
 Strides Pharma Science Limited
@@ -65,4 +63,6 @@ Strides Pharma Inc.
 
 East Brunswick, NJ 08816
 
-Revised: 07/2019
+Revised: 10/2019
+
+TENOFOVIR DISOPROXIL FUMARATE, ATRIPLA, COMPLERA, EPCLUSA, HARVONI, HEPSERA, SOVALDI, STRIBILD, TRUVADA and all other trademarks referenced herein are the property of their respective owners.

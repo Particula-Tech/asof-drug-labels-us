@@ -15,7 +15,7 @@ Renal impairment, including cases of acute renal failure and Fanconi syndrome (r
 Prior to initiation and during use of tenofovir disoproxil fumarate, on a clinically appropriate schedule, assess serum creatinine, estimated creatinine clearance, urine glucose, and urine protein in all patients.
 In patients with chronic kidney disease, also assess serum phosphorus.
 
-Dosing interval adjustment of tenofovir disoproxil fumarate and close monitoring of renal function are recommended in all patients with creatinine clearance below 50 mL/min [See Dosage and Administration (2.4)].
+Dosing interval adjustment of tenofovir disoproxil fumarate and close monitoring of renal function are recommended in all patients with creatinine clearance below 50 ml/min [See Dosage and Administration (2.4)].
 No safety or efficacy data are available in patients with renal impairment who received tenofovir disoproxil fumarate using these dosing guidelines, so the potential benefit of tenofovir disoproxil fumarate therapy should be assessed against the potential risk of renal toxicity.
 
 Tenofovir disoproxil fumarate should be avoided with concurrent or recent use of a nephrotoxic agent (e.g., high-dose or multiple non-steroidal anti-inflammatory drugs (NSAIDs)) [See Drug Interactions (7.1)].
@@ -37,7 +37,7 @@ It is also recommended that all patients with HIV-1 be tested for the presence o
 Immune reconstitution syndrome has been reported in HIV-1 infected patients treated with combination antiretroviral therapy, including tenofovir disoproxil fumarate.
 During the initial phase of combination antiretroviral treatment, HIV-1 infected patients whose immune system responds may develop an inflammatory response to indolent or residual opportunistic infections (such as Mycobacterium avium infection, cytomegalovirus, Pneumocystis jirovecii pneumonia [PCP], or tuberculosis), which may necessitate further evaluation and treatment.
 
-Autoimmune disorders (such as Graves' disease, polymyositis, and Guillain-Barr¡SR syndrome) have also been reported to occur in the setting of immune reconstitution; however, the time to onset is more variable, and can occur many months after initiation of treatment.
+Autoimmune disorders (such as Graves' disease, polymyositis, and Guillain-Barre syndrome) have also been reported to occur in the setting of immune reconstitution; however, the time to onset is more variable, and can occur many months after initiation of treatment.
 
 ## 5.5 Bone Loss and Mineralization Defects
 

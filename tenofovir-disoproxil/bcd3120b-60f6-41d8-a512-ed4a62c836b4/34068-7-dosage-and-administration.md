@@ -19,13 +19,14 @@ Weight should be monitored periodically and the Tenofovir disoproxil fumarate do
 
 Table 1 Recommended Dosing for Patients 2 Years and Older and Weighing at Least 17 kg Using Tenofovir disoproxil fumarate
 
-| Body Weight (kg) | Dosing of Tenofovir disoproxil fumarate Tablets |
+| Body Weight (kg) | Dosing of Tenofovir Disoproxil Fumarate Tablets |
 | --- | --- |
+| 17 to less than 22 | one 150 mg tablet once daily |
+| 22 to less than 28 | one 200 mg tablet once daily |
+| 28 to less than 35 | one 250 mg tablet once daily |
 | at least 35 | one 300 mg tablet once daily |
 
 ## 2.4 Dosage Adjustment in Patients with Renal Impairment
-
-2.4 Dose Adjustment for Renal Impairment in Adults
 
 Significant increase in drug exposures occurred when tenofovir disoproxil fumarate was administered to subjects with moderate to severe renal impairment (creatinine clearance below 50 mL/min).
 Table 3 provides dosage interval adjustment for patients with renal impairment.
