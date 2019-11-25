@@ -1,0 +1,27 @@
+{
+  "application_numbers": [
+    "ANDA213057"
+  ],
+  "inn": "isosorbide-dinitrate",
+  "labeler": "Zydus Pharmaceuticals (USA) Inc.",
+  "package_ndcs": [
+    "70710-1148-0",
+    "70710-1148-1",
+    "70710-1149-0",
+    "70710-1149-1",
+    "70710-1150-0",
+    "70710-1150-1",
+    "70710-1151-0",
+    "70710-1151-1",
+    "70710-1152-1"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "isosorbide dinitrate",
+      "name": "Isosorbide dinitrate"
+    }
+  ],
+  "setid": "16818b32-ee5e-4e07-b848-31e892c4b98a",
+  "source": "dailymed"
+}
