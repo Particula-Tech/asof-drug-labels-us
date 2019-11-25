@@ -12,9 +12,10 @@
 - Post-irradiation erythema can occur in patients who have received previous irradiation therapy [see Warnings and Precautions (5.7)].
 - Advise patients of the symptoms of potential pulmonary toxicity and instruct them to seek prompt medical attention in the event of pyrexia, cough, dyspnea, or other respiratory symptoms [see Warnings and Precautions (5.9)].
 
-Teva Pharmaceuticals USA, Inc.
+Manufactured In Czech Republic By: Teva Czech Industries, s.r.o.
+Opava-Komarov, Czech Republic
 
-North Wales, PA 19454
+Manufactured For: Teva Pharmaceuticals USA, Inc. North Wales, PA 19454
 
 Rev.
-F 8/2019
+G 9/2019
