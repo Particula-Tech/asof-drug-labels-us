@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA019125"
+  ],
+  "inn": "chlorhexidine",
+  "labeler": "Xttrium Laboratories, Inc.",
+  "package_ndcs": [
+    "0116-0407-01"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "chlorhexidine gluconate",
+      "name": "ANTISEPTIC SKIN CLEANSER"
+    }
+  ],
+  "setid": "4a9eda34-d85c-4b66-e054-00144ff88e88",
+  "source": "dailymed"
+}
