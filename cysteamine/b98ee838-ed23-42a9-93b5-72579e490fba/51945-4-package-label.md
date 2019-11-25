@@ -2,7 +2,7 @@
 
 NDC 54482-020-01
 
-cystaran®
+cystaran ®
 
 (cysteamine ophthalmic solution) 0.44%
 

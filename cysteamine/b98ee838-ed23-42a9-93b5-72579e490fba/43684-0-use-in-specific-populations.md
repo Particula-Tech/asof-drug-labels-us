@@ -13,7 +13,7 @@ Nonteratogenic Effects: Cysteamine was fetotoxic, resulting in intrauterine deat
 ## 8.3 Nursing Mothers
 
 It is not known whether oral cysteamine is excreted in human milk.
-Because many drugs are excreted in human milk and because of the manifested potential of cysteamine for developmental toxicity in suckling rat pups when it was administered to their lactating mothers at an oral dose of 375 mg/kg/day (2,250 mg/m2/day, 1.7 times the recommended human dose based on body surface area), a decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother.
+Because many drugs are excreted in human milk and because of the manifested potential of cysteamine for developmental toxicity in suckling rat pups when it was administered to their lactating mothers at an oral dose of 375 mg/kg/day (2,250 mg/m 2/day, 1.7 times the recommended human dose based on body surface area), a decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother.
 The incremental increase in systemic cysteamine levels derived from drug applied topically to the eye in patients treated with oral cysteamine is negligible.
 
 ## 8.4 Pediatric Use
