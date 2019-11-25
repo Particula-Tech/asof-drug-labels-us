@@ -1,0 +1,27 @@
+{
+  "application_numbers": [
+    "ANDA075215"
+  ],
+  "inn": "labetalol",
+  "labeler": "Method Pharmaceuticals, LLC",
+  "package_ndcs": [
+    "58657-602-01",
+    "58657-602-10",
+    "58657-602-50",
+    "58657-603-01",
+    "58657-603-10",
+    "58657-603-50",
+    "58657-604-01",
+    "58657-604-10",
+    "58657-604-50"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "labetalol hydrochloride",
+      "name": "Labetalol Hydrochloride"
+    }
+  ],
+  "setid": "733d6e32-ac90-4796-bf25-9d5887c897a5",
+  "source": "dailymed"
+}
