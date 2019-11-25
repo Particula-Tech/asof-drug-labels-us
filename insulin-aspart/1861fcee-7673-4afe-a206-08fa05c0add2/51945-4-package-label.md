@@ -53,4 +53,4 @@ Keep in a cold place.
 Avoid freezing.
 Protect from light.
 
-novo nordisk®
+Dispense in this sealed carton.

@@ -8,15 +8,17 @@ Sharing poses a risk for transmission of blood-borne pathogens.
 
 ## 5.2 Hyperglycemia or Hypoglycemia with Changes in Insulin Regimen
 
-Changes in insulin strength, manufacturer, type, or method of administration may affect glycemic control and predispose to hypoglycemia [see Warnings and Precautions (5.3)]or hyperglycemia.
-These changes should be made cautiously and only under close medical supervision, and the frequency of blood glucose monitoring should be increased.
+Changes in an insulin regimen (e.g., insulin strength, manufacturer, type, injection site or method of administration) may affect glycemic control and predispose to hypoglycemia [see Warnings and Precautions (5.3)] or hyperglycemia.
+Repeated insulin injections into areas of lipodystrophy or localized cutaneous amyloidosis have been reported to result in hyperglycemia; and a sudden change in the injection site (to an unaffected area) has been reported to result in hypoglycemia [see Adverse Reactions (6.1, 6.3)].
+Make any changes to a patient’s insulin regimen under close medical supervision with increased frequency of blood glucose monitoring.
+Advise patients who have repeatedly injected into areas of lipodystrophy or localized cutaneous amyloidosis to change the injection site to unaffected areas and closely monitor for hypoglycemia.
 For patients with type 2 diabetes, dosage adjustments of concomitant anti-diabetic products may be needed.
 
 ## 5.3 Hypoglycemia
 
 Hypoglycemia is the most common adverse effect of all insulin therapies, including NOVOLOG MIX 70/30.
 Severe hypoglycemia can cause seizures, may lead to unconsciousness, may be life threatening or cause death.
-Hypoglycemia can impair concentration ability and reaction time; this may place an individual and others at risk in situations where these abilities are important (e.g. driving or operating other machinery).
+Hypoglycemia can impair concentration ability and reaction time; this may place an individual and others at risk in situations where these abilities are important (e.g., driving or operating other machinery).
 
 Hypoglycemia can happen suddenly and symptoms may differ in each individual and change over time in the same individual.
 Symptomatic awareness of hypoglycemia may be less pronounced in patients with longstanding diabetes in patients with diabetic nerve disease, in patients using medications that block the sympathetic nervous system (e.g., beta-blockers) [see Drug Interactions (7)], or in patients who experience recurrent hypoglycemia.

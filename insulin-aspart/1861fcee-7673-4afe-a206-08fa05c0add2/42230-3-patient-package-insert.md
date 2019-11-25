@@ -42,6 +42,11 @@ How should I take NovoLog Mix 70/30?
   Ask your healthcare provider what your blood sugars should be and when you should check your blood sugar levels.
 - •Do not reuse or share your needles or syringes with other people.
   You may give other people a serious infection or get a serious infection from them.
+- •NovoLog Mix 70/30 is injected under the skin (subcutaneously) of your stomach area, buttocks, upper legs, or upper arms.
+- •Change (rotate) your injections sites within the same area you choose with each dose to reduce your risk of getting lypodystrophy (pits in skin or thickened skin) and localized cutaneous amyloidosis (skin with lumps) at the injection sites.
+  - oDo not use the exact same spot for each injection.
+  - oDo not inject where skin has pits, is thickened, or has lumps.
+  - oDo not inject where the skin is tender, bruised, scaly or hard, or into scars or damaged skin.
 
 What should I avoid while taking NovoLog Mix 70/30?
 
@@ -108,7 +113,7 @@ For more information, go to www.novonordisk-us.com or call 1-800-727-6500.
 
 This Patient Information has been approved by the U.S. Food and Drug Administration
 
-Revised: 05/2017
+Revised: 11/2019
 
 INSTRUCTIONS FOR USE
 
@@ -116,7 +121,7 @@ NovoLog® Mix 70/30 (NŌ-vō-Log-MIX-SEV-en-tee-THIR-tee)
 
 (insulin aspart protamine and insulin aspart injectable suspension)
 
-10 mL vial (100 Units/mL, U-100)
+10 mL multiple-dose vial (100 Units/mL, U-100)
 
 Read this Instructions for Use before you start taking NovoLog Mix 70/30 and each time you get a refill.
 There may be new information.
@@ -171,8 +176,10 @@ Giving your injection:
 - •Inject your NovoLog Mix 70/30 exactly as your healthcare provider has shown you.
   Your healthcare provider should tell you if you need to pinch the skin before injecting.
 - •NovoLogMix 70/30 is injected under the skin (subcutaneously) of your stomach area, buttocks, upper legs, or upper arms.
-- •Change (rotate) your injection sites within the area you choose for each dose.
+- •Change (rotate) your injection sites within the area you choose for each dose to reduce your risk of getting lipodystrophy (pits in skin or thickened skin) and localized cutaneous amyloidosis (skin with lumps) at the injections sites.
   Do not use the same injection site for each injection.
+  Do not inject where the skin has pits, thickened, or has lumps.
+  Do not inject where the skin is tender, bruised, scaly or hard, or into scars or damaged skin.
 
 Step 11: Choose your injection site and wipe the skin with an alcohol swab.
 Let the injection site dry before you inject your dose (See Figure K).
@@ -194,11 +201,11 @@ After your injection:
 - •Put the empty insulin vials, used needles and syringes in a FDA-cleared sharps disposal container right away after use.
   Do not throw away (dispose of) loose needles and syringes in your household trash.
 - •If you do not have a FDA-cleared sharps disposal container, you may use a household container that is:
-  - •made of a heavy-duty plastic,
-  - •can be closed with a tight-fitting, puncture-resistant lid, without sharps being able to come out,
-  - •upright and stable during use,
-  - •leak-resistant, and
-  - •properly labeled to warn of hazardous waste inside the container.
+  - omade of a heavy-duty plastic,
+  - ocan be closed with a tight-fitting, puncture-resistant lid, without sharps being able to come out,
+  - oupright and stable during use,
+  - oleak-resistant, and
+  - oproperly labeled to warn of hazardous waste inside the container.
 - •When your sharps disposal container is almost full, you will need to follow your community guidelines for the right way to dispose of your sharps disposal container.
   There may be state or local laws about how you should throw away used needles and syringes.
   For more information about the safe sharps disposal, and for specific information about sharps disposal in the state that you live in, go to the FDA’s website at: http://www.fda.gov/safesharpsdisposal.Do not dispose of your used sharps disposal container in your household trash unless your community guidelines permit this.
@@ -215,7 +222,7 @@ How should I store NovoLog Mix 70/30?
 - •Unopened vials should be thrown away after 28 days, if they are stored at room temperature.
 - After vials have been opened:
 - •Opened NovoLog Mix 70/30 vials can be stored in the refrigerator at 36OF to 46OF (2OC to 8OC) or at room temperature below 86°F (30°C) for up to 28 days.
-- •Throw away all opened Novolog Mix 70/30 vials after 28 days, even if they still have insulin left in them.
+- •Throw away all opened NovoLog Mix 70/30 vials after 28 days, even if they still have insulin left in them.
 
 General information about the safe and effective use of NovoLog Mix 70/30
 
@@ -231,13 +238,13 @@ Novo Nordisk A/S
 
 DK-2880 Bagsvaerd, Denmark
 
-Revised: 12/2018
+Revised: 11/2019
 
 NovoLog® is a registered trademark of Novo Nordisk A/S.
 
 PATENT Information: http://novonordisk-us.com/patients/products/product-patents.html
 
-© 2002-2018 Novo Nordisk
+© 2002-2019 Novo Nordisk
 
 For information about NovoLog Mix 70/30 contact:
 
@@ -266,7 +273,7 @@ You should read the instructions even if you have used NovoLog Mix 70/30 FlexPen
 Do not share your NovoLog Mix 70/30 FlexPen with other people, even if the needle has been changed.
 You may give other people a serious infection, or get a serious infection from them.
 
-NovoLog Mix 70/30 FlexPen is a disposable dial-a-dose insulin pen.
+NovoLog Mix 70/30 FlexPen is a disposable, single-patient-use dial-a-dose insulin pen.
 You can select doses from 1 to 60 units in increments of 1 unit.
 NovoLog Mix 70/30 FlexPen is designed to be used with NovoFine, NovoFine Plus or NovoTwist needles.
 
@@ -373,8 +380,10 @@ Giving the injection
   Your healthcare provider should tell you if you need to pinch the skin before injecting.
   Wipe the skin with an alcohol swab and let the area dry.
 - •NovoLog Mix 70/30 can be injected under the skin (subcutaneously) of your stomach area, buttocks, upper legs (thighs), or upper arms.
-- •For each injection, change (rotate) your injection site within the area of skin that you use.
+- •Change (rotate) your injection sites within the area you choose for each dose to reduce your risk of getting lipodystrophy (pits in skin or thickened skin) and localized cutaneous amyloidosis (skin with lumps) at the injection site.
   Do not use the same injection site for each injection.
+  Do not inject where the skin has pits, is thickened, or has lumps.
+  Do not inject where the skin is tender, bruised, scaly or hard, or into scars or damaged skin.
 
 K. Insert the needle into your skin.
 
@@ -399,11 +408,11 @@ This helps to prevent infection, leakage of insulin, and will help to make sure 
 - •Put your used needles in a FDA-cleared sharps disposal container right away after use.
   Do not throw away (dispose of) loose needles in your household trash.
 - •If you do not have a FDA-cleared sharps disposal container, carefully slip the needle into the outer needle cap and throw it away in a household container that is:
-  - •made of a heavy-duty plastic
-  - •can be closed with a tight-fitting, puncture-resistant lid, without sharps being able to come out,
-  - •upright and stable during use,
-  - •leak-resistant, and
-  - •properly labeled to warn of hazardous waste inside the container
+  - omade of a heavy-duty plastic,
+  - ocan be closed with a tight-fitting, puncture-resistant lid, without sharps being able to come out,
+  - oupright and stable during use,
+  - oleak-resistant, and
+  - oproperly labeled to warn of hazardous waste inside the container
 - •When your sharps disposal container is almost full, you will need to follow your community guidelines for the right way to dispose of your sharps disposal container.
   There may be state or local laws about how you should throw away used needles and syringes.
   For more information about the safe sharps disposal, and for specific information about sharps disposal in the state that you live in, go to the FDA’s website at: http://www.fda.gov/safesharpsdisposal.
@@ -425,12 +434,12 @@ How should I store NovoLog Mix 70/30 FlexPen?
 - •Keep NovoLog Mix 70/30 away from heat or light.
 - •Store the NovoLog Mix 70/30 FlexPen without the needle attached.
 - •Unused NovoLog Mix 70/30 FlexPen:
-- •Store unused NovoLog Mix 70/30 FlexPen in the refrigerator at 36°F to 46°F (2°C to 8°C).
-- •Unused NovoLog Mix 70/30 FlexPen may be used until the expiration date printed on the label, if kept in the refrigerator.
-- •Unused NovoLog Mix 70/30 FlexPen should be thrown away after 14 days, if it is stored at room temperature.
+- oStore unused NovoLog Mix 70/30 FlexPen in the refrigerator at 36°F to 46°F (2°C to 8°C).
+- oUnused NovoLog Mix 70/30 FlexPen may be used until the expiration date printed on the label, if kept in the refrigerator.
+- oUnused NovoLog Mix 70/30 FlexPen should be thrown away after 14 days, if it is stored at room temperature.
 - •In-Use NovoLog Mix 70/30 FlexPen:
-- •Store the FlexPen you are currently using at room temperature below 86°F (30°C) for up to 14 days.
-- •The NovoLog Mix 70/30 FlexPen you are using should be thrown away after 14 days, even if it still has insulin left in it.
+- oStore the FlexPen you are currently using at room temperature below 86°F (30°C) for up to 14 days.
+- oThe NovoLog Mix 70/30 FlexPen you are using should be thrown away after 14 days, even if it still has insulin left in it.
 
 Maintenance
 
@@ -464,4 +473,4 @@ Do not leave it in a car or other location where it can get too hot or too cold.
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
-Revised: 12/2018
+Revised: 11/2019

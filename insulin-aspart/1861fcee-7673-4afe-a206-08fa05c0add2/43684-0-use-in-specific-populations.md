@@ -32,7 +32,7 @@ However, these studies cannot definitely establish the absence of any risk becau
 
 Animal Data
 
-Fertility, embryo-fetal and pre-and postnatal development studies have been performed with insulin aspart and regular human insulin in rats and rabbits.
+Fertility, embryo-fetal and pre- and postnatal development studies have been performed with insulin aspart and regular human insulin in rats and rabbits.
 In a combined fertility and embryo-fetal development study in rats, insulin aspart was administered before mating, during mating, and throughout pregnancy.
 Further, in a pre- and postnatal development study insulin aspart was given throughout pregnancy and during lactation to rats.
 In an embryo-fetal development study insulin aspart was given to female rabbits during organogenesis.
