@@ -14,16 +14,13 @@ A Recombinant Granulocyte Colony Stimulating Factor (rG-CSF) derived from E Coli
 
 300 mcg
 
-300 mcg/1 mL
-
-(3 x 107 Units/1 mL)
+300 mcg/1 mL (3 x 107 Units/1 mL)
 
 For Subcutaneous or Intravenous Use Only
 
 Sterile Solution – No Preservative
 
 Refrigerate at 2º to 8ºC (36º to 46ºF).
-
 Avoid Shaking.
 
 Amgen Inc. Thousand Oaks, CA 91320 U.S.A.
@@ -73,19 +70,20 @@ Neupogen® SingleJect®
 
 A Recombinant Granulocyte Colony Stimulating Factor (rG-CSF) derived from E Coli
 
-Single Dose Prefilled Syringe with 27 Gauge Needle
-
 300 mcg
+
+Single Dose Prefilled Syringe with 27 Gauge Needle
 
 300 mcg/0.5 mL
 
-For Subcutaneous or Intravenous Use Only
+For Subcutaneous Use Only
 
 This Product Contains Dry Natural Rubber
 
 Sterile Solution – No Preservative
 
 Refrigerate at 2º to 8ºC (36º to 46ºF).
+
 Avoid Shaking.
 
 Rx Only
@@ -108,13 +106,13 @@ Neupogen® SingleJect®
 
 A Recombinant Granulocyte Colony Stimulating Factor (rG-CSF) derived from E Coli
 
-Single Dose Prefilled Syringes with 27 Gauge Needles
-
 300 mcg
+
+Single Dose Prefilled Syringes with 27 Gauge Needles
 
 300 mcg/0.5 mL
 
-For Subcutaneous or Intravenous Use Only
+For Subcutaneous Use Only
 
 This Product Contains Dry Natural Rubber
 
@@ -151,13 +149,14 @@ Single Dose Prefilled Syringe with 27 Gauge Needle
 
 480 mcg/0.8 mL
 
-For Subcutaneous or Intravenous Use Only
+For Subcutaneous Use Only
 
 This Product Contains Dry Natural Rubber
 
 Sterile Solution – No Preservative
 
 Refrigerate at 2º to 8ºC (36º to 46ºF).
+
 Avoid Shaking.
 
 Rx Only
@@ -186,7 +185,7 @@ Single Dose Prefilled Syringes with 27 Gauge Needles
 
 480 mcg/0.8 mL
 
-For Subcutaneous or Intravenous Use Only
+For Subcutaneous Use Only
 
 This Product Contains Dry Natural Rubber
 
