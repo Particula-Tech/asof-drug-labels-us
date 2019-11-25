@@ -178,7 +178,7 @@ Nervous System Disorders: coordination abnormal, depressed level of consciousnes
 
 Psychiatric Disorders: altered mental status (including aggression, delirium), hallucinations
 
-Skin and Subcutaneous Tissue Disorders: Drug Rash with Eosinophilia and Systemic Symptoms (DRESS syndrome)
+Skin and Subcutaneous Tissue Disorders: Acute Generalized Exanthematous Pustulosis (AGEP), Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS syndrome)
 
 ## 6.3 Adverse Laboratory Changes in Clinical Trials
 
