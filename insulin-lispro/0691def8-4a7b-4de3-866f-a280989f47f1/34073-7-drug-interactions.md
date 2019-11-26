@@ -2,7 +2,7 @@
 
 ## 7.1 Drugs that May Increase the Risk of Hypoglycemia
 
-The risk of hypoglycemia associated with ADMELOG use may be increased when coadministered with antidiabetic agents, salicylates, sulfonamide antibiotics, monoamine oxidase inhibitors, fluoxetine, pramlintide, disopyramide, fibrates, propoxyphene, pentoxifylline, ACE inhibitors, angiotensin II receptor blocking agents, and somatostatin analogs (e.g., octreotide).
+The risk of hypoglycemia associated with ADMELOG use may be increased when coadministered with antidiabetic agents, salicylates, sulfonamide antibiotics, monoamine oxidase inhibitors, fluoxetine, pramlintide, disopyramide, fibrates, pentoxifylline, ACE inhibitors, angiotensin II receptor blocking agents, and somatostatin analogs (e.g., octreotide).
 Dose adjustment and increased frequency of glucose monitoring may be required when ADMELOG is coadministered with these drugs.
 
 ## 7.2 Drugs that May Decrease the Blood Glucose Lowering Effect of ADMELOG

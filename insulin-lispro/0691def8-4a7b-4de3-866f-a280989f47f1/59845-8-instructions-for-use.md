@@ -67,11 +67,13 @@ Giving your ADMELOG injection with a syringe
 
 - Inject your insulin exactly as your healthcare provider has shown you.
 - ADMELOG starts acting fast, so give your injection within 15 minutes before or right after you eat a meal.
-- Change (rotate) your injection site for each injection.
 
 Step 7:
 
 - Choose your injection site: ADMELOG is injected under the skin (subcutaneously) of your upper arms, thighs, buttocks, or stomach area (abdomen).
+- Change (rotate) your injection sites within the area you choose for each dose to reduce your risk of getting lipodystrophy (pits in the skin or thickened skin) and localized cutaneous amyloidosis (skin with lumps) at the injection sites.
+- Do not inject where the skin has pits, is thickened, or has lumps.
+- Do not inject where the skin is tender, bruised, scaly or hard, or into scars or damaged skin.
 
 - Wipe the skin with an alcohol swab to clean the injection site.
   Let the injection site dry before you inject your dose.
@@ -94,7 +96,12 @@ Step 9:
 
 Giving your ADMELOG using an insulin pump
 
+- ADMELOG should be inserted into an area of your body recommended in the instructions that come with your insulin pump.
 - Change your insertion site every 3 days.
+- Change (rotate) your insertion sites within the area you choose for each insertion to reduce your risk of getting lipodystrophy (pits in skin or thickened skin) and localized cutaneous amyloidosis (skin with lumps) at the injection sites.
+  Do not insert into the exact same spot for each injection.
+  Do not insert where the skin has pits, is thickened, or has lumps.
+  Do not insert where the skin is tender, bruised, scaly or hard, or into scars or damaged skin.
 - Change the insulin in the reservoir at least every 7 days, even if you have not used all of the insulin.
 - Do not dilute or mix ADMELOG with any other type of insulin in your insulin pump.
 - See your insulin pump manual for instructions or talk to your healthcare provider.
@@ -140,9 +147,9 @@ sanofi-aventis U.S. LLC, Bridgewater, NJ 08807, A SANOFI COMPANY
 
 ADMELOG is a registered trademark of sanofi-aventis U.S. LLC.
 
-Revised: October 2018
+Revised: November 2019
 
-# Instructions for Use ADMELOG® SoloStar® (ad-mah-log) (insulin lispro injection) for subcutaneous use 3 mL disposable prefilled pen (100 Units/mL, U-100)
+# Instructions for Use ADMELOG® SoloStar® (ad-mah-log) (insulin lispro injection) for subcutaneous use 3 mL single-patient-use prefilled pen (100 Units/mL, U-100)
 
 Read this first
 
@@ -165,6 +172,7 @@ Important information
   If you do, you might get the wrong dose of ADMELOG and/or increase the chance of getting an infection.
 - Always perform a safety test (see Step 3).
 - Always carry a spare pen and spare needles in case they got lost or stop working.
+- Change (rotate) your injection sites within the area you choose for each dose (see "Places to inject").
 
 Learn to inject
 
@@ -185,6 +193,12 @@ Extra items you will need:
   (See "Throwing your pen away").
 
 Places to inject
+
+- Inject your insulin exactly as your healthcare provider has shown you.
+- Inject your insulin under the skin (subcutaneously) of your upper legs (thighs), upper arms, or stomach area (abdomen).
+- Change (rotate) your injection sites within the area you choose for each dose to reduce your risk of getting lipodystrophy (pits in skin or thickened skin) and localized cutaneous amyloidosis (skin with lumps) at the injection sites.
+- Do not inject where the skin has pits, is thickened, or has lumps.
+- Do not inject where the skin is tender, bruised, scaly or hard, or into scars or damaged skin.
 
 Get to know your pen
 
@@ -395,8 +409,8 @@ This Instructions for Use has been approved by the U.S. Food and Drug Administra
 
 sanofi-aventis U.S. LLC Bridgewater, NJ 08807 A SANOFI COMPANY
 
-Revised: November 2018
+Revised: November 2019
 
-©2018 sanofi-aventis U.S. LLC
+©2019 sanofi-aventis U.S. LLC
 
 ADMELOG and SoloStar are registered trademarks of sanofi-aventis U.S. LLC.

@@ -16,13 +16,17 @@ Subcutaneous Injection
 - Administer the dose of ADMELOG within fifteen minutes before a meal or immediately after a meal.
 - ADMELOG administered by subcutaneous injection should generally be used in regimens with intermediate or long-acting insulin.
 - ADMELOG should be administered by subcutaneous injection in the abdominal wall, thigh, upper arm, or buttocks.
-  Rotate injection site within the same region (abdomen, thigh, upper arm, or buttocks) from one injection to the next to reduce the risk of lipodystrophy [see Adverse Reactions (6.1)].
+  Rotate injection site within the same region (abdomen, thigh, upper arm, or buttocks) from one injection to the next to reduce the risk of lipodystrophy and localized cutaneous amyloidosis.
+  Do not inject into areas of lipodystrophy or localized cutaneous amyloidosis [see Warnings and Precautions (5.2), Adverse Reactions (6)].
+- During changes to a patient's insulin regimen, increase the frequency of blood glucose monitoring [see Warnings and Precautions (5.2)].
 - The ADMELOG SoloStar prefilled pen dials in 1-unit increments.
 
 Continuous Subcutaneous Infusion (Insulin Pump)
 
-- Administer ADMELOG by continuous subcutaneous infusion into the subcutaneous tissue of the abdominal wall.
-  Rotate infusion sites within the same region to reduce the risk of lipodystrophy [see Adverse Reactions (6.1)].
+- Administer ADMELOG by continuous subcutaneous infusion in a region recommended in the instructions from the pump manufacturer.
+  Rotate infusion sites within the same region to reduce the risk of lipodystrophy and localized cutaneous amyloidosis.
+  Do not inject into areas of lipodystrophy or localized cutaneous amyloidosis [see Warnings and Precautions (5.2), Adverse Reactions (6)].
+- During changes to a patient's insulin regimen, increase the frequency of blood glucose monitoring [see Warnings and Precautions (5.2)].
 - Follow healthcare provider recommendations when setting basal and mealtime infusion rate.
 - Do NOT dilute or mix ADMELOG when administering by continuous subcutaneous infusion.
 - Change ADMELOG in the pump reservoir at least every 7 days.

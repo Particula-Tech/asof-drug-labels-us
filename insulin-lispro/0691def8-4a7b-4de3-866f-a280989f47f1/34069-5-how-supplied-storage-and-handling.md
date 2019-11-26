@@ -18,6 +18,8 @@ The ADMELOG SoloStar prefilled pen dials in 1-unit increments.
 
 ## 16.2 Storage and Handling
 
+Dispense in the original sealed carton with the enclosed Instructions for Use.
+
 Do not use after the expiration date.
 
 Not in-use (unopened) ADMELOG should be stored in a refrigerator (36°F-46°F [2°C-8°C]), but not in the freezer.
@@ -32,7 +34,7 @@ See table below:
 | --- | --- | --- | --- |
 | 10 mL multiple-dose vial | 28 days | Until expiration date | 28 days refrigerated/room temperature |
 | 3 mL multiple-dose vial | 28 days | Until expiration date | 28 days refrigerated/room temperature |
-| 3 mL single patient use SoloStar prefilled pen | 28 days | Until expiration date | 28 days Do not refrigerate. |
+| 3 mL single-patient-use SoloStar prefilled pen | 28 days | Until expiration date | 28 days Do not refrigerate. |
 
 Use in an External Insulin Pump
 
@@ -49,7 +51,7 @@ Do not dilute ADMELOG used in an external insulin pump.
 Diluted ADMELOG for Subcutaneous Injection
 
 ADMELOG may be diluted with sterile 0.9% sodium chloride for subcutaneous injection.
-Diluting one part ADMELOG to one part 0.9% sodium chloride will yield a concentration one-half that of ADMELOG (equivalent to U-50).
+Diluting one-part ADMELOG to one-part 0.9% sodium chloride will yield a concentration one-half that of ADMELOG (equivalent to U-50).
 
 ## 16.4 Admixture for Intravenous Administration
 

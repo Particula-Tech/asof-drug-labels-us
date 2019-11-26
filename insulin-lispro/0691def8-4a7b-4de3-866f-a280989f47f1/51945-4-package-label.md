@@ -30,6 +30,8 @@ Do not mix with other insulins
 
 Five 3 mL Prefilled Pens
 
+Dispense in this sealed carton
+
 SANOFI
 
 # PRINCIPAL DISPLAY PANEL - 3 mL Vial Carton

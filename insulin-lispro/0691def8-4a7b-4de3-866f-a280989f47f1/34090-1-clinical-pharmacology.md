@@ -4,7 +4,7 @@
 
 Regulation of glucose metabolism is the primary activity of insulins and insulin analogs, including insulin lispro products.
 Insulins lower blood glucose by stimulating peripheral glucose uptake by skeletal muscle and fat, and by inhibiting hepatic glucose production.
-Insulins inhibit lipolysis and proteolysis, and enhance protein synthesis.
+Insulins inhibit lipolysis and proteolysis and enhance protein synthesis.
 
 ## 12.2 Pharmacodynamics
 
@@ -23,7 +23,7 @@ The rate of insulin absorption, and consequently the onset of activity are known
 Intravenous Administration
 
 The glucose lowering effect of intravenous administration of another insulin lispro product, 100 units/mL, was tested in 21 patients with type 1 diabetes.
-For the study, the patients' usual doses of insulin were held and blood glucose concentrations were allowed to reach a stable range of 200 to 260 mg/dL during a one to three hour run-in phase.
+For the study, the patients' usual doses of insulin were held, and blood glucose concentrations were allowed to reach a stable range of 200 to 260 mg/dL during a one to three-hour run-in phase.
 The run-in phase was followed by a 6-hour assessment phase.
 During the assessment phase, patients received intravenous infusion of another insulin lispro product, 100 units/mL, at an initial infusion rate of 0.5 units/hour.
 The infusion rate could be adjusted at regular timed intervals to achieve and maintain blood glucose concentrations between 100 to 160 mg/dL.

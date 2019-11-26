@@ -55,7 +55,7 @@ However, long-term glycemic control decreases the risk of diabetic retinopathy a
 Lipodystrophy
 
 Long-term use of insulin, including ADMELOG, can cause lipodystrophy at the site of repeated insulin injections or infusion.
-Lipodystrophy includes lipohypertrophy (thickening of adipose tissue) and lipoatrophy (thinning of adipose tissue), and may affect insulin absorption.
+Lipodystrophy includes lipohypertrophy (thickening of adipose tissue) and lipoatrophy (thinning of adipose tissue) and may affect insulin absorption.
 Rotate insulin injection or infusion sites within the same region to reduce the risk of lipodystrophy [see Dosage and Administration (2.2)].
 
 Weight Gain
@@ -105,3 +105,6 @@ The following additional adverse reactions have been identified during postappro
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 Medication errors in which other insulins have been accidentally substituted for another insulin lispro product, 100 units/mL, have been identified during postapproval use [see Patient Counseling Information (17)].
+
+Localized cutaneous amyloidosis at the injection site has occurred.
+Hyperglycemia has been reported with repeated insulin injections into areas of localized cutaneous amyloidosis; hypoglycemia has been reported with a sudden change to an unaffected injection site.
