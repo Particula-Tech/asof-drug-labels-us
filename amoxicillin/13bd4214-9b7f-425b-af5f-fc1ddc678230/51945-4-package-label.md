@@ -1,36 +1,32 @@
 # 250 mg Capsule Label
 
-NDC 0781-2020-31
+NDC 0781-2020-01
 
 Amoxicillin
 
-Capsules,
-
-USP
+Capsules, USP
 
 250 mg
 
-Rx only
+Rx Only
 
-30 Capsules
+100 Capsules
 
 SANDOZ
 
 # 500 mg Capsule Label
 
-NDC 0781-2613-31
+NDC 0781-2613-01
 
 Amoxicillin
 
-Capsules,
-
-USP
+Capsules, USP
 
 500 mg
 
-Rx only
+Rx Only
 
-30 Capsules
+100 Capsules
 
 SANDOZ
 
@@ -44,7 +40,7 @@ Tablets, USP
 
 500 mg
 
-Rx only
+Rx Only
 
 20 Tablets
 
@@ -60,7 +56,7 @@ Tablets, USP
 
 875 mg
 
-Rx only
+Rx Only
 
 20 Tablets
 
@@ -70,13 +66,13 @@ SANDOZ
 
 NDC 0781-6039-58
 
-Amoxicillin
+Amoxicillin for
 
-for Oral
-
-Suspension, USP
+Oral Suspension, USP
 
 125 mg/5 mL
+
+Rx Only
 
 When reconstituted, each 5 mL
 
@@ -86,7 +82,7 @@ amoxicillin trihydrate equivalent
 
 to 125 mg amoxicillin.
 
-80 mL Rx only
+80 mL
 
 (when reconstituted)
 
@@ -96,25 +92,23 @@ SANDOZ
 
 NDC 0781-6156-52
 
-Amoxicillin
+Amoxicillin for
 
-for Oral
-
-Suspension, USP
+Oral Suspension, USP
 
 200 mg/5 mL
 
+Rx Only
+
 When reconstituted, each 5 mL
 
-(1 teaspoonful) will contain
+(1 teaspoonful) will contain amoxicillin
 
-amoxicillin trihydrate equivalent
+trihydrate equivalent to 200 mg
 
-to 200 mg amoxicillin.
+amoxicillin.
 
-50 mL Rx only
-
-(when reconstituted)
+50 mL (when reconstituted)
 
 SANDOZ
 
@@ -122,13 +116,13 @@ SANDOZ
 
 NDC 0781-6041-58
 
-Amoxicillin
+Amoxicillin for
 
-for Oral
-
-Suspension, USP
+Oral Suspension, USP
 
 250 mg/5 mL
+
+Rx Only
 
 When reconstituted, each 5 mL
 
@@ -138,7 +132,7 @@ amoxicillin trihydrate equivalent
 
 to 250 mg amoxicillin.
 
-80 mL Rx only
+80 mL
 
 (when reconstituted)
 
@@ -148,24 +142,22 @@ SANDOZ
 
 NDC 0781-6157-52
 
-Amoxicillin
+Amoxicillin for
 
-for Oral
-
-Suspension, USP
+Oral Suspension, USP
 
 400 mg/5 mL
 
+Rx Only
+
 When reconstituted, each 5 mL
 
-(1 teaspoonful) will contain
+(1 teaspoonful) will contain amoxicillin
 
-amoxicillin trihydrate equivalent
+trihydrate equivalent to 400 mg
 
-to 400 mg amoxicillin.
+amoxicillin.
 
-50 mL Rx only
-
-(when reconstituted)
+50 mL (when reconstituted)
 
 SANDOZ

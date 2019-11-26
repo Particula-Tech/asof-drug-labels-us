@@ -12,9 +12,9 @@ Dosing Recommendations for Adult and Pediatric Patients > 3 Months of Age
 
 | Infection | SeverityDosing for infections caused by bacteria that are intermediate in their susceptibility to amoxicillin should follow the recommendations for severe infections. | Usual Adult Dose | Usual Dose for Children > 3 MonthsThe children’s dosage is intended for individuals whose weight is less than 40 kg. Children weighing 40 kg or more should be dosed according to the adult recommendations. |
 | --- | --- | --- | --- |
-| Ear/Nose/Throat Skin/Skin Structure Genitourinary Tract | Mild/Moderate | 500 mg every 12 hours or 250 mg every 8 hours | 25 mg/kg/day in divided doses every 12 hours or 20 mg/kg/day in divided doses every 8 hours |
-|  | Severe | 875 mg every 12 hours or 500 mg every 8 hours | 45 mg/kg/day in divided doses every 12 hours or 40 mg/kg/day in divided doses every 8 hours |
-| Lower Respiratory Tract | Mild/Moderate or Severe | 875 mg every 12 hours or 500 mg every 8 hours | 45 mg/kg/day in divided doses every 12 hours or40 mg/kg/day in divided dosesevery 8 hours |
+| Ear/Nose/ThroatSkin/Skin StructureGenitourinary Tract | Mild/Moderate | 500 mg every 12 hours or250 mg every 8 hours | 25 mg/kg/day in divided dosesevery 12 hoursor20 mg/kg/day in divided dosesevery 8 hours |
+|  | Severe | 875 mg every 12 hours or500 mg every 8 hours | 45 mg/kg/day in divided dosesevery 12 hoursor40 mg/kg/day in divided dosesevery 8 hours |
+| Lower RespiratoryTract | Mild/Moderate orSevere | 875 mg every 12 hours or500 mg every 8 hours | 45 mg/kg/day in divided dosesevery 12 hoursor40 mg/kg/day in divided dosesevery 8 hours |
 
 ## 2.2 Dosing in Neonates and Infants Aged ≤ 12 Weeks (≤ 3 Months)
 

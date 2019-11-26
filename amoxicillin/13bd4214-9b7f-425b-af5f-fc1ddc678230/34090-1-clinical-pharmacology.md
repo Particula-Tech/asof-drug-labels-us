@@ -12,7 +12,7 @@ The effect of food on the absorption of amoxicillin from the tablets and suspens
 
 Orally administered doses of 250-mg and 500-mg amoxicillin capsules result in average peak blood levels 1 to 2 hours after administration in the range of 3.5 mcg/mL to 5 mcg/mL and 5.5 mcg/mL to 7.5 mcg/mL, respectively.
 
-Mean amoxicillin pharmacokinetic parameters from an open, two-part, single-dose crossover bioequivalence study in 27 adults comparing 875 mg of amoxicillin with 875 mg of amoxicillin and clavulanate potassium showed that the 875-mg tablet of amoxicillin produces an AUC0-∞ of 35.4 ± 8.1 mcg•hr/mL and a Cmax of 13.8 ± 4.1 mcg/mL.
+Mean amoxicillin pharmacokinetic parameters from an open, two-part, single-dose crossover bioequivalence study in 27 adults comparing 875 mg of amoxicillin with 875 mg of amoxicillin and clavulanate potassium showed that the 875 mg tablet of amoxicillin produces an AUC0-∞ of 35.4 ± 8.1 mcg•hr/mL and a Cmax of 13.8 ± 4.1 mcg/mL.
 Dosing was at the start of a light meal following an overnight fast.
 
 Orally administered doses of amoxicillin suspension, 125 mg/5 mL and 250 mg/5 mL, result in average peak blood levels 1 to 2 hours after administration in the range of 1.5 mcg/mL to 3 mcg/mL and 3.5 mcg/mL to 5 mcg/mL, respectively.
@@ -79,7 +79,7 @@ Susceptibility to amoxicillin of Streptococcus pneumoniae (non-meningitis isolat
 The interpretive criteria for S. pneumoniae to amoxicillin are provided in Table 44.
 
 Table 4.
-Susceptibility Interpretive Criteria for Amoxicillin
+Susceptibility Test Interpretive Criteria for Amoxicillin
 
 |  | Susceptible | Intermediate | Resistant | Susceptible | Intermediate | Resistant |
 | --- | --- | --- | --- | --- | --- | --- |
