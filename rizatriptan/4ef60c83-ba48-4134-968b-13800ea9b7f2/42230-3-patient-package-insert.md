@@ -1,6 +1,6 @@
 # Patient Information
 
-RIZATRIPTAN BENZOATE (RYE-za-TRIP-tan BEN-zo-ATE) TABLETS USP 5 mg and 10 mg
+Rizatriptan Benzoate (RYE-za-TRIP-tan BEN-zo-ATE) Tablets USP
 
 Read this Patient Information before you start taking rizatriptan benzoate tablets and each time you get a refill.
 There may be new information.
@@ -9,8 +9,7 @@ This information does not take the place of talking to your doctor about your me
 What is rizatriptan benzoate?
 
 Rizatriptan benzoate is a prescription medicine that belongs to a class of medicines called Triptans.
-
-Rizatriptan benzoate is available as a traditional tablet and as an orally disintegrating tablet.
+Rizatriptan benzoate is available as a tablet.
 
 Rizatriptan benzoate tablets are used to treat migraine attacks with or without aura in adults and in children 6 to 17 years of age.
 
@@ -35,7 +34,7 @@ Do not take rizatriptan benzoate tablets if you:
 - have taken other Triptan medicines in the last 24 hours
 - have taken ergot-containing medicines in the last 24 hours
 - have hemiplegic or basilar migraines
-- take monoamine oxidase (MAO) inhibitor or have taken a MAO inhibitor within the last 2 weeks
+- take a monoamine oxidase (MAO) inhibitor or have taken a MAO inhibitor within the last 2 weeks
 - are allergic to rizatriptan benzoate or any of the ingredients in rizatriptan benzoate tablets.
   See the end of this leaflet for a complete list of ingredients in rizatriptan benzoate tablets.
 
@@ -67,7 +66,6 @@ Before you take rizatriptan benzoate tablets, tell your doctor if you:
 Tell your doctor about all the medicines you take, including prescription and nonprescription medicines, vitamins, and herbal supplements.
 
 Rizatriptan benzoate tablets and other medicines may affect each other causing side effects.
-
 Rizatriptan benzoate tablets may affect the way other medicines work, and other medicines may affect how rizatriptan benzoate tablets work.
 
 Especially tell your doctor if you take:
@@ -156,7 +154,7 @@ You may report side effects to FDA at 1-800-FDA-1088.
 
 How should I store rizatriptan benzoate tablets?
 
-- Store rizatriptan benzoate tablets at room temperature between 20° to 25°C (68° to 77°F).
+- Store rizatriptan benzoate tablets at room temperature between 68° to 77°F (20° to 25°C).
 - Safely throw away medicine that is out of date or no longer needed.
 
 Keep rizatriptan benzoate tablets and all medicines out of the reach of children.
@@ -174,9 +172,9 @@ You can ask your pharmacist or doctor for information about rizatriptan benzoate
 
 For more information, call 1-888-838-2872.
 
-What are the ingredients in rizatriptan benzoate tablets USP?
+What are the ingredients in rizatriptan benzoate tablets?
 
-Active ingredient: rizatriptan benzoate, USP.
+Active ingredient: rizatriptan benzoate.
 
 Inactive ingredients: lactose monohydrate, magnesium stearate, microcrystalline cellulose, pregelatinized corn starch, and sodium starch glycolate.
 
@@ -186,15 +184,15 @@ All brand names listed are the registered trademarks of their respective owners 
 
 Manufactured In Canada By:
 
-TEVA CANADA LIMITED
+Teva Canada Limited
 
 Toronto, Canada M1B 2K9
 
 Manufactured For:
 
-TEVA PHARMACEUTICALS USA, INC.
+Teva Pharmaceuticals USA, Inc.
 
 North Wales, PA 19454
 
 Rev.
-C 11/2015
+D 10/2019

@@ -60,7 +60,7 @@ The patient population was historically non-responsive to NSAIDs and acetaminoph
 Patients were instructed to treat a single migraine attack with headache pain of moderate to severe intensity.
 The treatment phase of the study had two stages.
 Stage 1 was used to identify placebo non-responders, who then entered into Stage 2, in which patients were randomized to rizatriptan benzoate orally disintegrating tablets or placebo.
-Using a weight-based dosing strategy, patients 20 kg to < 40 kg (44 lb to < 88 lb) received rizatriptan benzoate orally disintegrating tablets 5 mg or placebo, and patients ≥ 40 kg (88 lb) received rizatriptan benzoate orally disintegrating tablets 10 mg or placebo.
+Using a weight-based dosing strategy, patients 20 kg to < 40 kg (44 lbs to < 88 lbs) received rizatriptan benzoate orally disintegrating tablets 5 mg or placebo, and patients ≥ 40 kg (88 lbs) received rizatriptan benzoate orally disintegrating tablets 10 mg or placebo.
 
 The mean age for the studied patient population was 13 years.
 Sixty-one percent of the patients were Caucasian, and fifty-six percent of the patients were female.

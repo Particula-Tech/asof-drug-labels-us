@@ -1,8 +1,8 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-See FDA-Approved Patient Labeling (Patient Information).
+Advise the patient to read the FDA-approved patient labeling (Patient Information).
 
-Risk of Myocardial Ischemia and/or Infarction, Prinzmetal's Angina, Other Vasospasm-related Events, and Cerebrovascular Events
+Risk of Myocardial Ischemia and/or Infarction, Prinzmetal's Angina, Other Vasospasm-Related Events, and Cerebrovascular Events
 
 Inform patients that rizatriptan benzoate tablets may cause serious cardiovascular side effects such as myocardial infarction or stroke.
 Although serious cardiovascular events can occur without warning symptoms, patients should be alert for the signs and symptoms of chest pain, shortness of breath, weakness, slurring of speech, and should ask for medical advice when observing any indicative sign or symptoms.
@@ -16,9 +16,9 @@ Pregnancy
 
 Inform patients that rizatriptan benzoate tablets should not be used during pregnancy unless the potential benefit justifies the potential risk to the fetus [see Use in Specific Populations (8.1)].
 
-Nursing Mothers
+Lactation
 
-Advise patients to notify their healthcare provider if they are breastfeeding or plan to breastfeed [see Use in Specific Populations (8.3)].
+Advise patients to notify their healthcare provider if they are breastfeeding or plan to breastfeed [see Use in Specific Populations (8.2)].
 
 Ability To Perform Complex Tasks
 
@@ -30,15 +30,15 @@ Inform patients that use of acute migraine drugs for 10 or more days per month m
 
 Manufactured In Canada By:
 
-TEVA CANADA LIMITED
+Teva Canada Limited
 
 Toronto, Canada M1B 2K9
 
 Manufactured For:
 
-TEVA PHARMACEUTICALS USA, INC.
+Teva Pharmaceuticals USA, Inc.
 
 North Wales, PA 19454
 
 Rev.
-E 11/2015
+F 10/2019

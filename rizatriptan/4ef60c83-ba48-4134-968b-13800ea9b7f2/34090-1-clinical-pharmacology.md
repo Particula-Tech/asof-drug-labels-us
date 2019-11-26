@@ -48,7 +48,7 @@ Special Populations
 Geriatric: Rizatriptan pharmacokinetics in healthy elderly non-migraineur volunteers (age 65 to 77 years) were similar to those in younger non-migraineur volunteers (age 18 to 45 years).
 
 Pediatric: The pharmacokinetics of rizatriptan was determined in pediatric migraineurs 6 to 17 years of age.
-Exposures following single dose administration of 5 mg rizatriptan benzoate orally disintegrating tablets to pediatric patients weighing 20 to 39 kg (44 to 87 lb) or 10 mg rizatripan benzoate orally disintegrating tablets to pediatric patients weighing ≥ 40 kg (88 lb) were similar to those observed following single dose administration of 10 mg rizatriptan benzoate orally disintegrating tablets to adults.
+Exposures following single dose administration of 5 mg rizatriptan benzoate orally disintegrating tablets to pediatric patients weighing 20 to 39 kg (44 to 87 lbs) or 10 mg rizatripan benzoate orally disintegrating tablets to pediatric patients weighing ≥ 40 kg (88 lbs) were similar to those observed following single dose administration of 10 mg rizatriptan benzoate orally disintegrating tablets to adults.
 
 Gender: The mean AUC0-∞ and Cmax of rizatriptan (10 mg orally) were about 30% and 11% higher in females as compared to males, respectively, while Tmax occurred at approximately the same time.
 

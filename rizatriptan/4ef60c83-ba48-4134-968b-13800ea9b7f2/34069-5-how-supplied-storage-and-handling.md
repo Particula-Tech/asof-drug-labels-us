@@ -1,10 +1,10 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-Rizatriptan benzoate tablets USP are supplied as follows:
+Rizatriptan Benzoate Tablets USP are supplied as follows:
 
-5 mg (base) – white to off-white, capsule-shaped tablets, one side of the tablet debossed with the number “93”, the other side debossed with the number “7471”, in unit dose boxes of 18 (6x3), NDC 0093-7471-43.
+5 mg (base) – white to off-white, unscored, capsule-shaped tablets, one side of the tablet debossed with the number “93”, the other side debossed with the number “7471”, in unit dose boxes of 18 (6x3), NDC 0093-7471-43.
 
-10 mg (base) – white to off-white, capsule-shaped tablets, one side of the tablet debossed with the number “93”, the other side debossed with the number “7472”, in unit dose boxes of 18 (6x3), NDC 0093-7472-43.
+10 mg (base) – white to off-white, unscored, capsule-shaped tablets, one side of the tablet debossed with the number “93”, the other side debossed with the number “7472”, in unit dose boxes of 18 (6x3), NDC 0093-7472-43.
 
 Storage
 
