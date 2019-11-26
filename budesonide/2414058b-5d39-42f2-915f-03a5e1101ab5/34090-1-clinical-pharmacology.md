@@ -3,7 +3,7 @@
 ## 12.1 Mechanism of Action
 
 Budesonide is an anti-inflammatory corticosteroid that exhibits potent glucocorticoid activity and weak mineralocorticoid activity.
-In standard in vitro and animal models, budesonide has approximately a 200-fold higher affinity for the glucocorticoid receptor and a 1000-fold higher topical anti-inflammatory potency than cortisol (rat croton oil ear edema assay).
+In standard in vitro and animal models, budesonide has approximately a 200 fold higher affinity for the glucocorticoid receptor and a 1000 fold higher topical anti-inflammatory potency than cortisol (rat croton oil ear edema assay).
 As a measure of systemic activity, budesonide is 40 times more potent than cortisol when administered subcutaneously and 25 times more potent when administered orally in the rat thymus involution assay.
 The clinical significance of these findings is unknown.
 
@@ -35,18 +35,18 @@ Pre-treatment with budesonide administered as 1600 mcg daily (800 mcg twice dail
 
 HPA Axis Effects
 
-The effects of budesonide inhalation suspension on the hypothalamic-pituitary-adrenal (HPA) axis were studied in three, 12-week, double-blind, placebo-controlled studies in 293 pediatric patients, 6 months to 8 years of age, with persistent asthma.
+The effects of budesonide inhalation suspension on the hypothalamic-pituitary-adrenal (HPA) axis were studied in three, 12 week, double-blind, placebo-controlled studies in 293 pediatric patients, 6 months to 8 years of age, with persistent asthma.
 For most patients, the ability to increase cortisol production in response to stress, as assessed by the short cosyntropin (ACTH) stimulation test, remained intact with budesonide inhalation suspension treatment at recommended doses.
-In the subgroup of children age 6 months to 2 years (n=21) treated with a total daily dose of budesonide inhalation suspension up to 1 mg or placebo, the mean change from baseline in ACTH-stimulated cortisol levels showed a decline in peak stimulated cortisol at 12 weeks compared to an increase in the placebo group.
+In the subgroup of children age 6 months to 2 years (n = 21) receiving a total daily dose of budesonide inhalation suspension equivalent to 0.25 mg (n=5), 0.5 mg (n=5), 1 mg (n=8), or placebo (n=3), the mean change from baseline in ACTH-stimulated cortisol levels showed a decline in peak stimulated cortisol at 12 weeks compared to an increase in the placebo group.
 These mean differences were not statistically significant compared to placebo.
-Another 12-week study was conducted in 141 pediatric patients 6 to 12 months of age with mild to moderate asthma or recurrent/persistent wheezing.
-All patients were treated with a total daily dose of either 0.5 mg or 1 mg of budesonide inhalation suspension or placebo.
+Another 12 week study in 141 pediatric patients 6 to 12 months of age with mild to moderate asthma or recurrent/persistent wheezing was conducted.
+All patients were randomized to receive either 0.5 mg or 1 mg of budesonide inhalation suspension or placebo once daily.
 A total of 28, 17, and 31 patients in the budesonide inhalation suspension 0.5 mg, 1 mg, and placebo arms respectively, had an evaluation of serum cortisol levels post-ACTH stimulation both at baseline and at the end of the study.
 The mean change from baseline to Week 12 ACTH-stimulated minus basal plasma cortisol levels did not indicate adrenal suppression in patients treated with budesonide inhalation suspension versus placebo.
-However, 7 patients in this study (4 of whom received budesonide inhalation suspension 0.5 mg, 2 of whom received budesonide inhalation suspension 1 mg and 1 of whom received placebo) showed a shift from normal baseline stimulated cortisol level (≥500 nmol/L) to a subnormal level (<500 nmol/L) at Week 12.
+However, 7 patients in this study (4 of whom received budesonide inhalation suspension 0.5 mg, 2 of whom received budesonide inhalation suspension 1 mg and 1 of whom received placebo) showed a shift from normal baseline stimulated cortisol level (≥ 500 nmol/L) to a subnormal level (< 500 nmol/L) at Week 12.
 In 4 of these patients receiving budesonide inhalation suspension, the cortisol values were near the cutoff value of 500 nmol/L.
 
-The effects of budesonide inhalation suspension at doses of 0.5 mg twice daily, and 1 mg and 2 mg twice daily (2 times and 4 times the highest recommended total daily dose, respectively) on 24-hour urinary cortisol excretion were studied in 18 patients between 6 to 15 years of age with persistent asthma in a cross-over study design (4 weeks of treatment per dose level).
+The effects of budesonide inhalation suspension at doses of 0.5 mg twice daily, and 1 mg and 2 mg twice daily (2 times and 4 times the highest recommended total daily dose, respectively) on 24 hour urinary cortisol excretion were studied in 18 patients between 6 to 15 years of age with persistent asthma in a cross-over study design (4 weeks of treatment per dose level).
 There was a dose-related decrease in urinary cortisol excretion at 2 and 4 times the recommended daily dose.
 The two higher doses of budesonide inhalation suspension (1 and 2 mg twice daily) showed statistically significantly reduced (43 to 52%) urinary cortisol excretion compared to the run-in period.
 The highest recommended dose of budesonide inhalation suspension, 1 mg total daily dose, did not show statistically significantly reduced urinary cortisol excretion compared to the run-in period.
@@ -57,7 +57,7 @@ Budesonide inhalation suspension, like other inhaled corticosteroid products, ma
 
 Absorption:
 
-In asthmatic children 4 to 6 years of age, the total absolute bioavailability (ie, lung + oral) following administration of budesonide inhalation suspension via jet nebulizer was approximately 6% of the labeled dose.
+In asthmatic children 4 to 6 years of age, the total absolute bioavailability (i.e., lung + oral) following administration of budesonide inhalation suspension via jet nebulizer was approximately 6% of the labeled dose.
 
 In children, a peak plasma concentration of 2.6 nmol/L was obtained approximately 20 minutes after nebulization of a 1 mg dose.
 Systemic exposure, as measured by AUC and Cmax, is similar for young children and adults after inhalation of the same dose of budesonide inhalation suspension.
@@ -102,12 +102,12 @@ The disposition of budesonide when delivered by inhalation from a dry powder inh
 Systemic exposure to budesonide in these women appears to be comparable to that in non-lactating women with asthma from other studies.
 Breast milk obtained over eight hours post-dose revealed that the maximum concentration of budesonide for the 400 and 800 mcg doses was 0.39 and 0.78 nmol/L, respectively, and occurred within 45 minutes after dosing.
 The estimated oral daily dose of budesonide from breast milk to the infant is approximately 0.007 and 0.014 mcg/kg/day for the two dose regimens used in this study, which represents approximately 0.3% to 1% of the dose inhaled by the mother.
-Budesonide levels in plasma samples obtained from five infants at about 90 minutes after breast-feeding (and about 140 minutes after drug administration to the mother) were below quantifiable levels (<0.02 nmol/L in four infants and <0.04 nmol/L in one infant) [see Use In Specific Populations, Nursing Mothers (8.3)].
+Budesonide levels in plasma samples obtained from five infants at about 90 minutes after breast-feeding (and about 140 minutes after drug administration to the mother) were below quantifiable levels (<0.02 nmol/L in four infants and <0.04 nmol/L in one infant) [see Use in Specific Populations (8.3)].
 
 Drug-Drug Interactions
 
 Inhibitors of cytochrome P450 enzymes
 
-Ketoconazole: Ketoconazole, a strong inhibitor of cytochrome P450 (CYP) isoenzyme 3A4 (CYP3A4), the main metabolic enzyme for corticosteroids, increased plasma levels of orally ingested budesonide [see Warnings and Precautions (5.12) and Drug Interactions (7.1)].
+Ketoconazole: Ketoconazole, a strong inhibitor of cytochrome P450 (CYP) isoenzyme 3A4 (CYP3A4), the main metabolic enzyme for corticosteroids, increased plasma levels of orally ingested budesonide [see Warnings and Precautions (5.12), Drug Interactions (7.1)].
 
 Cimetidine: At recommended doses, cimetidine, a non-specific inhibitor of CYP enzymes, had a slight but clinically insignificant effect on the pharmacokinetics of oral budesonide.

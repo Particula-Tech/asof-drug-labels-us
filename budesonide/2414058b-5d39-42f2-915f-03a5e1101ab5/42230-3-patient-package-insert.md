@@ -40,7 +40,7 @@ What should I tell my healthcare provider before using budesonide inhalation sus
 Before your child uses budesonide inhalation suspension, tell your healthcare provider if your child:
 
 - has an allergy.
-  See the section “Who should not use budesonide inhalation suspension?
+  See the section “Who should not use budesonide inhalation suspension?"
   There is a complete list of ingredients in budesonide inhalation suspension at the end of this leaflet.
 - has or recently had chicken pox or measles, or has recently been near anyone with chicken pox or measles.
 - has or had tuberculosis of the respiratory tract.
@@ -60,7 +60,7 @@ Budesonide inhalation suspension may not be right for children who have had any 
   - does not eat well (poor nutrition)
   - takes bone thinning medicines (such as anticonvulsant medicines or corticosteroids) for a long time.
 - has an eye problem such as increased pressure in the eye, glaucoma or cataracts.
-- has liver problems
+- has liver problems.
 - is planning to have surgery.
 - has any other medical conditions.
 - is pregnant or plans to become pregnant.
@@ -77,7 +77,7 @@ Especially tell your healthcare provider if your child takes:
 - corticosteroids
 - anti-seizure medicine (anticonvulsants)
 - medicines that suppress the immune system (immunosuppressant)
-- ketoconazale (Nizoral)
+- ketoconazole (Nizoral)
 - certain medicines that can affect how your liver breaks down medicine
 
 Ask your healthcare provider or pharmacist for a list of these medicines, if you are not sure.
@@ -166,11 +166,11 @@ Tell your healthcare provider if your child has any side effect that bothers him
 For more information, ask your healthcare provider or pharmacist.
 
 Call your healthcare provider for medical advice about side effects.
-You may report side effects to TEVA USA, PHARMACOVIGILANCE at 1-866-832-8537 or drug.safety@tevapharm.com; or the FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
+You may report side effects to Teva Pharmaceuticals USA, Inc. at 1-888-838-2872 or the FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
 
 How should I store budesonide inhalation suspension?
 
-- Store budesonide inhalation suspension in an upright position between 20° to 25°C (68° to 77°F).
+- Store budesonide inhalation suspension in an upright position between 68°F to 77°F (20°C to 25°C).
 - Keep budesonide inhalation suspension in the aluminum foil envelope to protect from light until ready to use.
 - After a budesonide inhalation suspension vial is opened it should be used right away.
 - Budesonide inhalation suspension vials can be stored for 2 weeks after opening the protective aluminum foil envelope.
@@ -210,50 +210,34 @@ Budesonide inhalation suspension is a liquid that is turned into a mist by a neb
 The face mask should be properly adjusted to optimize delivery and to avoid exposing the eyes to the nebulized medication.
 Corticosteroid effects on the skin can be avoided if the face is washed after the use of a face mask.
 
-HOW TO USE BUDESONIDE INHALATION SUSPENSION
-
 1.
-Assemble the nebulizer according to the instructions supplied by the manufacturer.
+Budesonide inhalation suspension vials come in a sealed protective aluminum foil envelope.
+
+- Do not open the sealed pouch until you are ready to use a dose of budesonide inhalation suspension.
+- Open the sealed foil envelope along the dotted line and take out 1 single-dose vial from the strip.
+  See Figure 1.
+- Record the date that you opened the foil in the space provided on the envelope.
+
+Return the unopened budesonide inhalation suspension vials on the strip back into the foil envelope before storing.
 
 2.
-Open the sealed aluminum foil envelope and remove one (1) single-dose vial from the strip (Figure 1).
-Record the date that you open the foil on the front of the envelope in the space provided.
-Place the unused vials remaining on the strip back into the aluminum foil envelope before storing.
-This will protect the medication from light.
-Budesonide inhalation suspension should be stored upright at room temperature, 20° to 25°C (68° to 77°F).
-Do not refrigerate or freeze.
+Gently shake the budesonide inhalation suspension vial using a circular motion as shown in Figure 2.
 
 3.
-Gently shake the vial using a circular motion as shown in Figure 2.
+Hold the budesonide inhalation suspension vial upright without squeezing the vial and open by twisting off the top as shown in Figure 3.
 
 4.
-Hold the vial upright without squeezing and open by twisting off the top (Figure 3).
+Place the open end of the budesonide inhalation suspension vial into the nebulizer cup (reservoir) and slowly squeeze all of the medicine from the vial into the nebulizer medicine cup as shown in Figure 4.
+Throw away the empty vial.
 
 5.
-Place the open end of the vial into the nebulizer cup and slowly squeeze out all of the contents as shown in Figure 4.
+Use your jet nebulizer as directed.
 
-6.
-If using a face mask, make sure that the mask fits tightly so that the mist does not get into the child’s eyes.
-Turn on the compressor to begin nebulizing the medication.
-Use the nebulizer as directed.
-Continue the treatment with budesonide inhalation suspension until mist is no longer coming out of the mouthpiece/face mask (usually about 5 to 10 minutes).
-
-7.
-Throw away the empty vial.
-See the CLEANING OF EQUIPMENT section below and "How should I store budesonide inhalation suspension?" section of the patient information for additional information.
-
-NOTE:
-
-1. As with other inhaled corticosteroids, rinse your child's mouth with water after each dose to reduce the risk of developing thrush.
-2. Wash your child's face after treatment to avoid possible skin irritation.
-
-CLEANING OF EQUIPMENT
-
-The nebulizer cup and the mouthpiece or the face mask should be cleaned according to the instructions supplied by the manufacturer.
+All brand names listed are the registered trademarks of their respective owners and are not trademarks of Teva Pharmaceuticals USA.
 
 Manufactured In England By: Norton Healthcare Limited T/A IVAX Pharmaceuticals UK Runcorn, Cheshire WA7 3FA England
 
-Manufactured For: TEVA PHARMACEUTICALS USA, INC. North Wales, PA 19454
+Manufactured For: Teva Pharmaceuticals USA, Inc. North Wales, PA 19454
 
 Rev.
-F 2/2016
+G 10/2019

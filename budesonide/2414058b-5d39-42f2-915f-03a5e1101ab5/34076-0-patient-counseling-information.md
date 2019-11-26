@@ -1,6 +1,6 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-## 17.1 Administration with a Jet Nebulizer
+## 17.1 Administration With a Jet Nebulizer
 
 Patients should be advised that budesonide inhalation suspension should be administered with a jet nebulizer connected to a compressor with an adequate air flow, equipped with a mouthpiece or suitable face mask.
 Ultrasonic nebulizers are not suitable for the adequate administration of budesonide inhalation suspension and, therefore, are not recommended.
@@ -10,26 +10,26 @@ Budesonide inhalation suspension should be administered separately in the nebuli
 ## 17.2 Oral Candidiasis
 
 Patients should be advised that localized infections with Candida albicans occurred in the mouth and pharynx in some patients.
-If oropharyngeal candidiasis develops, it should be treated with appropriate local or systemic (i.e. oral) antifungal therapy while still continuing therapy with budesonide inhalation suspension, but at times therapy with budesonide inhalation suspension may need to be temporarily interrupted under close medical supervision.
+If oropharyngeal candidiasis develops, it should be treated with appropriate local or systemic (i.e., oral) antifungal therapy while still continuing therapy with budesonide inhalation suspension, but at times therapy with budesonide inhalation suspension may need to be temporarily interrupted under close medical supervision.
 Rinsing the mouth after inhalation is advised [see Warnings and Precautions (5.1)].
 
 ## 17.3 Not for Acute Symptoms
 
 Budesonide inhalation suspension is not meant to relieve acute asthma symptoms and extra doses should not be used for that purpose.
 Acute symptoms should be treated with an inhaled, short-acting beta2-agonist such as albuterol.
-(The healthcare professional should provide that patient with such medication and instruct the patient in how it should be used.)
+(The healthcare professional should provide that patient with such medication and instruct the patient in how it should be used).
 Patients should be instructed to notify their healthcare professional immediately if they experience any of the following:
 
 - Decreasing effectiveness of inhaled, short-acting beta2-agonists
 - Need for more inhalations than usual of inhaled, short-acting beta2-agonists
 - Significant decrease in lung function as outlined by the physician
 
-Patients should not stop therapy with budesonide inhalation suspension without physician/provider guidance since symptoms may recur after discontinuation [see Warnings and Precautions (5.2)]
+Patients should not stop therapy with budesonide inhalation suspension without physician/provider guidance since symptoms may recur after discontinuation [see Warnings and Precautions (5.2)].
 
-## 17.4 Hypersensitivity including Anaphylaxis
+## 17.4 Hypersensitivity Including Anaphylaxis
 
 Hypersensitivity reactions including anaphylaxis, rash, contact dermatitis, urticaria, angioedema, and bronchospasm have been reported with use of budesonide inhalation suspension.
-Discontinue budesonide inhalation suspension if such reactions occur [see Contraindications (4); Warnings and Precautions (5.3)].
+Discontinue budesonide inhalation suspension if such reactions occur [see Contraindications (4), Warnings and Precautions (5.3)].
 
 ## 17.5 Immunosuppression
 
@@ -58,17 +58,15 @@ Long-term use of inhaled corticosteroids may increase the risk of some eye probl
 
 ## 17.10 Use Daily
 
-Patients should be advised to use budesonide inhalation suspension at regular intervals twice a day, since its effectiveness depends on regular use.
+Patients should be advised to use budesonide inhalation suspension at regular intervals once or twice a day, since its effectiveness depends on regular use.
 Maximum benefit may not be achieved for 4 to 6 weeks or longer after starting treatment.
 If symptoms do not improve in that time frame or if the condition worsens, patients should be instructed to contact their healthcare professional.
-
-## 17.11 FDA-Approved Patient Labeling
 
 See accompanying Patient Information and Instructions for Use.
 
 Manufactured In England By: Norton Healthcare Limited T/A IVAX Pharmaceuticals UK Runcorn, Cheshire WA7 3FA England
 
-Manufactured For: TEVA PHARMACEUTICALS USA, INC. North Wales, PA 19454
+Manufactured For: Teva Pharmaceuticals USA, Inc. North Wales, PA 19454
 
 Rev.
-F 2/2016
+G 10/2019

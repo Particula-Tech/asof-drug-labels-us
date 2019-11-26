@@ -2,14 +2,14 @@
 
 Systemic and inhaled corticosteroid use may result in the following:
 
-- Candida albicans infection [see Warnings and Precautions (5.1)]
-- Hypersensitivity reactions including anaphylaxis [see Warnings and Precautions (5.3)]
+- Candida albicans Infection [see Warnings and Precautions (5.1)]
+- Hypersensitivity Reactions Including Anaphylaxis [see Warnings and Precautions (5.3)]
 - Immunosuppression [see Warnings and Precautions (5.4)]
-- Hypercorticism and adrenal suppression [see Warnings and Precautions (5.6)]
-- Reduction in bone mineral density [see Warnings and Precautions (5.7)]
-- Growth effects in pediatric patients [see Warnings and Precautions (5.8) and Use in Specific Populations, Pediatric Use (8.4)]
-- Glaucoma, increased intraocular pressure and cataracts [see Warnings and Precautions (5.9)]
-- Eosinophilic conditions and Churg-Strauss syndrome [see Warnings and Precautions (5.11)]
+- Hypercorticism and Adrenal Suppression [see Warnings and Precautions (5.6)]
+- Reduction in Bone Mineral Density [see Warnings and Precautions (5.7)]
+- Growth Effects in Pediatric Patients [see Warnings and Precautions (5.8), Use in Specific Populations (8.4)]
+- Glaucoma, Increased Intraocular Pressure and Cataracts [see Warnings and Precautions (5.9)]
+- Eosinophilic Conditions and Churg-Strauss Syndrome [see Warnings and Precautions (5.11)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -20,9 +20,9 @@ The incidence and nature of adverse events reported for budesonide inhalation su
 The following table shows the incidence of adverse events in U.S. controlled clinical trials, regardless of relationship to treatment, in patients previously receiving bronchodilators and/or inhaled corticosteroids.
 This population included a total of 605 male and 340 female patients and 78.4% were Caucasian, 13.8% African American, 5.5% Hispanic and 2.3% Other.
 
-Table 1 - Adverse Reactions occurring at an incidence of ≥3% in at least one active treatment group where the incidence was higher with budesonide inhalation suspension than placebo
+Table 1 - Adverse Reactions Occurring at an Incidence of ≥3% in at Least One Active Treatment Group Where the Incidence was Higher With Budesonide Inhalation Suspension Than Placebo
 
-|  |  | Budesonide |  |  |
+|  |  | Budesonide Inhalation Suspension |  |  |
 | --- | --- | --- | --- | --- |
 |  | Vehicle Placebo (n = 227) % | Total Daily Dose |  |  |
 |  | 0.25 mg (n=178) % | 0.5 mg (n = 223) % | 1 mg (n = 317) % |  |
@@ -49,7 +49,7 @@ Table 1 - Adverse Reactions occurring at an incidence of ≥3% in at least one a
 | Skin and Appendages Disorders |  |  |  |  |
 | Rash | 3 | <1 | 4 | 2 |
 
-The information below includes all adverse reactions by system organ class with an incidence of 1 to <3%, in at least one budesonide inhalation suspension treatment group where the incidence was higher with budesonide inhalation suspension than with placebo, regardless of relationship to treatment.
+The information below includes all adverse reactions by system organ class with an incidence of 1 to < 3%, in at least one budesonide inhalation suspension treatment group where the incidence was higher with budesonide inhalation suspension than with placebo, regardless of relationship to treatment.
 
 Blood and lymphatic system disorders: cervical lymphadenopathy
 
@@ -77,19 +77,19 @@ Skin and subcutaneous tissue disorders: contact dermatitis, eczema, pustular ras
 
 The incidence of reported adverse events was similar between the 447 budesonide inhalation suspension-treated (mean total daily dose 0.5 to 1 mg) and 223 conventional therapy-treated pediatric asthma patients followed for one year in three open-label studies.
 
-## 6.2 Post-marketing Experience
+## 6.2 Postmarketing Experience
 
 The following adverse reactions have been reported during post-approval use of budesonide inhalation suspension.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 Some of these adverse reactions may also have been observed in clinical studies with budesonide inhalation suspension.
 
-Endocrine disorders: symptoms of hypocorticism and hypercorticism [see Warnings and Precautions (5.5)]
+Endocrine disorders: symptoms of hypocorticism and hypercorticism [see Warnings and Precautions (5.6)]
 
 Eye disorders: cataracts, glaucoma, increased intraocular pressure [see Warnings and Precautions (5.9)]
 
 General disorders and administration site conditions: fever, pain
 
-Immune system disorders: immediate and delayed hypersensitivity reactions including, anaphylaxis, angioedema, bronchospasm, rash, contact dermatitis, and urticaria [see Contraindications (4) and Warnings and Precautions (5.10)]
+Immune system disorders: immediate and delayed hypersensitivity reactions including, anaphylaxis, angioedema, bronchospasm, rash, contact dermatitis, and urticaria [see Contraindications (4), Warnings and Precautions (5.10)]
 
 Infection and Infestation: sinusitis, pharyngitis, bronchitis
 
@@ -103,4 +103,4 @@ Respiratory, thoracic, and mediastinal disorders: cough, dysphonia and throat ir
 
 Skin and subcutaneous tissue disorders: skin bruising, facial skin irritation
 
-Cases of growth suppression have been reported for inhaled corticosteroids including post-marketing reports for budesonide inhalation suspension [see Warnings and Precautions (5.8) and Use In Specific Populations, Pediatric Use (8.4)].
+Cases of growth suppression have been reported for inhaled corticosteroids including postmarketing reports for budesonide inhalation suspension [see Warnings and Precautions (5.8), Use in Specific Populations (8.4)].
