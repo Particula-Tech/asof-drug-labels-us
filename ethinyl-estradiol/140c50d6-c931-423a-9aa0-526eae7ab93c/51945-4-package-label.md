@@ -67,7 +67,7 @@ Twenty-one yellow
 
 tablets each containing 1 mg norethindrone, USP and 0.035 mg
 
-ethinyl estradiol, USP, and 7 white inert tablets.
+ethinyl estradiol, USP; and 7 white inert tablets.
 
 Rx only
 
