@@ -71,6 +71,11 @@ These patients should be carefully monitored for abnormal prolongation of the PR
 
 ## Drug interactions
 
+### Cytochrome inducers/inhibitors
+
+In vitro metabolic studies indicate that verapamil is metabolized by cytochrome P450 CYP3A4, CYP1A2, CYP2C8, CYP2C9, and CYP2C18.
+Clinically significant interactions have been reported with inhibitors of CYP3A4 (e.g., erythromycin, ritonavir) causing elevation of plasma levels of verapamil while inducers of CYP3A4 (e.g., rifampin) have caused a lowering of plasma levels of verapamil.
+
 ### HMG-CoA reductase inhibitors
 
 The use of HMG-CoA reductase inhibitors that are CYP3A4 substrates in combination with verapamil has been associated with reports of myopathy/rhabdomyolysis.
