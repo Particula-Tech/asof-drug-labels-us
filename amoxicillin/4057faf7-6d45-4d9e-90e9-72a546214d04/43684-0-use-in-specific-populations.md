@@ -2,27 +2,40 @@
 
 ## 8.1 Pregnancy
 
-Teratogenic Effects.
-Pregnancy Category B. Reproduction studies have been performed in mice and rats at doses up to 2000 mg/kg (12.5 and 25 times the human dose in mg/m2) and have revealed no evidence of impaired fertility or harm to the fetus due to amoxicillin.
-There are, however, no adequate and well-controlled studies in pregnant women.
-Because animal reproduction studies are not always predictive of human response, this drug should be used during pregnancy only if clearly needed.
+Risk Summary
 
-## 8.2 Labor and Delivery
+Available data from published epidemiologic studies and pharmacovigilance case reports over several decades with amoxicillin use have not established drug-associated risks of major birth defects, miscarriage, or adverse maternal or fetal outcomes (see Data).
+No adverse developmental effects were observed in animal reproduction studies with administration of amoxicillin to pregnant mice and rats at doses up to 12.5 and 25 times the recommended human dose (see Data).
 
-Oral ampicillin-class antibiotics are poorly absorbed during labor.
-Studies in guinea pigs showed that intravenous administration of ampicillin slightly decreased the uterine tone and frequency of contractions but moderately increased the height and duration of contractions.
-However, it is not known whether use of amoxicillin in humans during labor or delivery has immediate or delayed adverse effects on the fetus, prolongs the duration of labor, or increases the likelihood that forceps delivery or other obstetrical intervention or resuscitation of the newborn will be necessary.
+The estimated background risk of major birth defects and miscarriage for the indicated population is unknown.
+All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively.
 
-## 8.3 Nursing Mothers
+Data
 
-Penicillins have been shown to be excreted in human milk.
-Amoxicillin use by nursing mothers may lead to sensitization of infants.
-Caution should be exercised when amoxicillin is administered to a nursing woman.
+Human Data
+
+While available studies cannot definitively establish the absence of risk, published epidemiological data and post-marketing case reports have not reported a consistent association with amoxicillin and major birth defects, miscarriage, or adverse maternal or fetal outcomes when amoxicillin was used during pregnancy.
+Available studies have methodologic limitations, including small sample size, retrospective data collection, under-capture of non-live births, exposure misclassification and inconsistent comparator groups.
+
+Animal Data
+
+Reproduction studies have been performed in mice and rats at doses up to 2,000 mg/kg (12.5 and 25 times the human dose based on body surface area comparison) and have revealed no evidence of harm to the fetus due to amoxicillin.
+
+## 8.2 Lactation
+
+Risk Summary
+
+Data from a published clinical lactation study reports that amoxicillin is present in human milk.
+Published adverse effects with amoxicillin exposure in the breastfed infant include diarrhea.
+
+There are no data on the effects of amoxicillin on milk production.
+The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for MOXATAG and any potential adverse effects on the breast-fed child from MOXATAG or from the underlying maternal condition.
 
 ## 8.4 Pediatric Use
 
-The safety and effectiveness of MOXATAG in pediatric patients 12 years of age and older have been established based on results of a clinical trial that included adults and pediatric patients (12 years and older).
-[see Clinical Studies (14)] Sixty-three (21%) of the study participants were pediatric patients 12 years of age and older.
+The safety and effectiveness of MOXATAG in pediatric patients 12 years of age and older have been established based on results of a clinical trial that included adults and pediatric patients (12 years and older) [see Clinical Studies (14)].
+Sixty-three (21%) of the study participants were pediatric patients 12 years of age and older.
 There were no significant differences in treatment response or adverse reactions from adults.
 
 The safety and effectiveness of MOXATAG in pediatric patients younger than 12 years has not been established.

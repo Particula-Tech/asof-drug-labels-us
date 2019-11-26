@@ -1,13 +1,16 @@
-Principal Display Panel - Bottle Label
+Principal Display Panel - 30 Tablets Bottle Label
 
 NDC 58463-002-30
 
-30 tablets
+moxatag®
 
-moxatag® (amoxicillin extended-release tablets)
+(amoxicillin extended-release tablets)
 
 775 mg
 
-Pragma™
+30 Tablets Rx only
 
-Rx only Rev 0514 PBL-002
+Pragma®
+
+Rev.
+1118 PBL-002

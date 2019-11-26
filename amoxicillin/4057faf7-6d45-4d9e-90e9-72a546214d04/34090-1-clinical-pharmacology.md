@@ -2,8 +2,7 @@
 
 ## 12.1 Mechanism of Action
 
-Amoxicillin is an antibacterial drug.
-[see Clinical Pharmacology (12.4)]
+Amoxicillin is an antibacterial drug [see Microbiology (12.4)].
 
 ## 12.3 Pharmacokinetics
 
@@ -41,52 +40,29 @@ Mechanism of Action
 Amoxicillin is similar to penicillin in its bacterial action against susceptible organisms during the stage of active multiplication.
 It acts through the inhibition of cell wall biosynthesis that leads to the death of the bacteria.
 
-Mechanism of Resistance
+Resistance
 
 To date there are no known mechanisms of resistance to penicillin or amoxicillin in Streptococcus pyogenes.
 
 Antimicrobial Activity
 
-Amoxicillin has been shown to be active in vitro against isolates of the microorganism S. pyogenes and in clinical infections as described in the INDICATIONS AND USAGE section.
+MOXATAG has been shown to be active against most isolates of the following microorganism, both in vitro and in clinical infections [see Indications and Usage (1)].
 
-Gram-Positive Bacteria:
+Aerobic bacteria
 
-Streptococcus pyogenes
+- Gram-Positive Bacteria
+- Streptococcus pyogenes
 
 The following in vitro data are available, but their clinical significance is unknown.
-At least 90% of the following microorganisms exhibit an in vitro minimum inhibitory concentration (MIC) less than or equal to the susceptibility breakpoint of amoxicillin (as determined by susceptibility tests using the class representative agents penicillin or ampicillin).
+At least 90 percent of the following bacteria exhibit an in vitro minimum inhibitory concentration (MIC) less than or equal to the susceptible breakpoint for amoxicillin (as determined by susceptibility tests using the class representative agents penicillin or ampicillin) against isolates of similar genus or organism group.
+However, the efficacy of amoxicillin in treating clinical infections caused by these bacteria has not been established in adequate and well-controlled clinical trials.
 
-Gram-Positive Bacteria:
+Aerobic bacteria
 
-Streptococcus spp.
-(Group B, C, and G; Beta-hemolytic)
+- Gram-Positive Bacteria
+- Streptococcus spp.
+  (Group B, C, and G; Beta-hemolytic)
 
-Susceptibility Test Methods:
+Susceptibility Testing
 
-When available, the clinical microbiology laboratory should provide cumulative in vitro susceptibility test results for antimicrobial drugs used in local hospitals and practice areas to the physician as periodic reports that describe the susceptibility profile of nosocomial and community-acquired pathogens.
-These reports should aid the physician in selecting the most effective antimicrobial.
-
-Dilution Techniques
-
-Quantitative methods are used to determine antimicrobial MICs.
-These MICs provide estimates of the susceptibility of bacteria to antimicrobial compounds.
-The MICs should be determined using a standardized method (broth or agar)1,2.
-
-Susceptibility of beta-hemolytic streptococcal isolates to amoxicillin may be inferred by testing penicillin.
-An organism that is susceptible to penicillin can be considered susceptible to amoxicillin when used for approved indications2.
-If testing is performed, any beta hemolytic streptococcal isolate found to be nonsusceptible should be reidentified, retested, and if confirmed, submitted to a public health laboratory.
-
-Quality Control
-
-Standardized susceptibility test procedures1,2 require the use of laboratory controls to monitor and ensure the accuracy and precision of the supplies and reagents used in the assay, and the techniques of the individuals performing the test.
-Standard amoxicillin powder should provide the following range of MIC values provided in Table 22.
-
-Table 2.
-Acceptable Quality Control Ranges for Amoxicillina
-
-| Quality Control Organism | Minimum Inhibitory Concentrations (mcg/mL) | Disk Diffusion Zone Diameters (mm) |
-| --- | --- | --- |
-| Streptococcus pneumoniae ATCCb 49619 | 0.03–0.12 | --- |
-| Klebsiella pneumoniae ATCC 700603 | >128 | --- |
-| aQC limits for testing E. coli 35218 when tested on Haemophilus Test Medium (HTM) are greater than 256 mcg/mL for amoxicillin; testing amoxicillin may help to determine if the isolate has maintained its ability to produce beta-lactamase2. |  |  |
-| bATCC = American Type Culture Collection |  |  |
+For specific information regarding susceptibility test interpretive criteria, and associated test methods and quality control standards recognized by FDA for this drug, please see https://www.fda.gov/STIC.

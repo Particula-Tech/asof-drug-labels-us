@@ -9,7 +9,10 @@ The PPb population included mITT patients who had post-therapy cultures, were co
 Table 3.
 Bacteriological Eradication Rates in Patients with Tonsillitis and/or Pharyngitis
 
-| Study Population | MOXATAG | Penicillin VK | Rate Difference 95% CI (%) |
+| Study Population | MOXATAG | Penicillin VK | Rate Difference |
 | --- | --- | --- | --- |
-| PPb | 198/233 (85.0%) | 191/229 (83.4%) | 1.6 (-5.1, 8.2) |
-| mITT | 204/256 (79.7%) | 206/264 (78.0%) | 1.7 (-5.4, 8.7) |
+|  |  |  | 95% CI (%) |
+| PPb | 198/233 | 191/229 | 1.6 (-5.1, 8.2) |
+|  | (85.0%) | (83.4%) |  |
+| mITT | 204/256 | 206/264 | 1.7 (-5.4, 8.7) |
+|  | (79.7%) | (78.0%) |  |

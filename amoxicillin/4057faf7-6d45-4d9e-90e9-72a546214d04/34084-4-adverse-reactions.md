@@ -1,8 +1,13 @@
 # 6. ADVERSE REACTIONS
 
-Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+The following clinically significant adverse reactions are described elsewhere in the labeling:
 
-## 6.1 Clinical Study Experience
+- Anaphylaxis and Hypersensitivity Reactions [see Warnings and Precautions (5.1)]
+- Clostridioides difficile-Associated Diarrhea (CDAD) [see Warnings and Precautions (5.2)]
+
+## 6.1 Clinical Trials Experience
+
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
 Tonsillitis and/or Pharyngitis
 
@@ -18,7 +23,7 @@ Drug-Related Treatment-Emergent Adverse Reactions by System Organ Class Experien
 
 |  | Number (%) of patients |  |
 | --- | --- | --- |
-| System Organ Class/Preferred Term* | MOXATAG (N =302) | Penicillin VK (N = 306) |
+| System Organ Class/Preferred Term* | MOXATAG (N=302) | Penicillin VK (N=306) |
 | Patients with at least one drug-related treatment-emergent adverse event | 32 (10.6) | 45 (14.7) |
 | Infections and infestations |  |  |
 | Vulvovaginal mycotic infection | 6 (2.0) | 8 (2.6) |
@@ -38,10 +43,9 @@ The following adverse reactions have been reported for other products containing
 Infections and Infestations: Mucocutaneous candidiasis.
 
 Gastrointestinal: Nausea, vomiting, diarrhea, and hemorrhagic/pseudomembranous colitis.
-
 Onset of pseudomembranous colitis symptoms may occur during or after antibiotic treatment.
 
-Hypersensitivity Reactions: Anaphylaxis (See Warnings and Precautions).
+Hypersensitivity Reactions: Anaphylaxis (see Warnings and Precautions).
 
 Serum sickness like reactions, erythematous maculopapular rashes, erythema multiforme, Stevens-Johnson Syndrome, exfoliative dermatitis, toxic epidermal necrolysis, acute generalized exanthematous pustulosis, hypersensitivity vasculitis and urticaria have been reported.
 (NOTE: These hypersensitivity reactions may be controlled with antihistamines and, if necessary, systemic corticosteroids.
@@ -53,7 +57,7 @@ Hepatic dysfunction including cholestatic jaundice, hepatic cholestasis and acut
 Hemic and Lymphatic Systems: Anemia, including hemolytic anemia, thrombocytopenia, thrombocytopenic purpura, eosinophilia, leukopenia, and agranulocytosis have been reported during therapy with penicillins.
 These reactions are usually reversible on discontinuation of therapy and are believed to be hypersensitivity phenomena.
 
-Central Nervous System: Reversible hyperactivity, agitation, anxiety, insomnia, confusion, convulsions, behavioral changes, and/or dizziness have been reported rarely.
+Central Nervous System: Reversible hyperactivity, agitation, anxiety, insomnia, confusion, convulsions, behavioral changes, aseptic meningitis, and/or dizziness have been reported rarely.
 
 Renal: Crystalluria has also been reported.
 

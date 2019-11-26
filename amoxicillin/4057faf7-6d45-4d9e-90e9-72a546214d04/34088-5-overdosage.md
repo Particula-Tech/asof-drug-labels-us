@@ -2,10 +2,9 @@
 
 In case of overdose, discontinue medication, treat symptomatically, and institute supportive measures as required.
 If the overdose is very recent and there is no contraindication, an attempt at emesis or other means of removal of drug from the stomach may be performed.
-A prospective study of 51 pediatric patients at a poison-control center suggested that overdosages of less than 250 mg/kg of amoxicillin are not associated with significant clinical symptoms and do not require gastric emptying.
+A prospective study of 51 pediatric patients at a poison-control center suggested that over dosages of less than 250 mg/kg of amoxicillin are not associated with significant clinical symptoms and do not require gastric emptying.
 
 Interstitial nephritis resulting in oliguric renal failure has been reported in a small number of patients after overdosage with amoxicillin.
-
 Crystalluria, in some cases leading to renal failure, has also been reported after amoxicillin overdosage in adult and pediatric patients.
 In case of overdosage, adequate fluid intake and diuresis should be maintained to reduce the risk of amoxicillin crystalluria.
 
