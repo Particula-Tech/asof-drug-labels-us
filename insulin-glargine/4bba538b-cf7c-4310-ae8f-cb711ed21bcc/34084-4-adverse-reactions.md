@@ -42,7 +42,7 @@ Table 4: Hypoglycemic Episodes in SOLIQUA-Treated Patients with T2DM
 
 |  | SOLIQUA 100/33 Study A N=469 | SOLIQUA 100/33 Study B N=365 |
 | --- | --- | --- |
-| Severe symptomatic hypoglycemiaDefined as an event requiring assistance of another person to actively administer carbohydrate, glucagon, or other resuscitative actions (%) | 0 | 1.1 |
+| Severe symptomatic hypoglycemiaDefined as an event requiring assistance of another person to actively administer carbohydrate, glucagon, or other resuscitative actions. (%) | 0 | 1.1 |
 | Hypoglycemia (self-monitored plasma glucose <54 mg/dL) (%) | 8.1 | 17.8 |
 
 Gastrointestinal Adverse Reactions
@@ -112,3 +112,11 @@ A higher incidence of allergic reactions and injection-site reactions occurred i
 Anti-lixisenatide antibody characterization studies have demonstrated the potential for development of antibodies cross-reactive with endogenous GLP-1 and glucagon, but their incidence has not been fully determined and the clinical significance of these antibodies is not currently known.
 
 No information regarding the presence of neutralizing antibodies is currently available.
+
+## 6.3 Postmarketing Experience
+
+The following additional adverse reactions have been identified during postapproval use.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+Localized cutaneous amyloidosis at the injection site has occurred with insulins.
+Hyperglycemia has been reported with repeated insulin injections into areas of localized cutaneous amyloidosis; hypoglycemia has been reported with a sudden change to an unaffected injection site.

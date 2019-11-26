@@ -88,7 +88,7 @@ Table 6: Results of a 30-Week Study in Patients with Type 2 Diabetes Mellitus In
 
 |  | SOLIQUA 100/33 | Insulin Glargine 100 units/mL |
 | --- | --- | --- |
-| Number of Subjects (randomized and treated) | 365 | 365 |
+| Number of subjects (randomized and treated) | 365 | 365 |
 | HbA1c (%) |  |  |
 | Baseline (mean; post run-in phase) | 8.1 | 8.1 |
 | End of study (mean) | 6.9 | 7.5 |
@@ -96,7 +96,7 @@ Table 6: Results of a 30-Week Study in Patients with Type 2 Diabetes Mellitus In
 | Difference vs insulin glargine | -0.5 |  |
 | [95% confidence interval] | [-0.6, -0.4]p<0.01; The trial was designed to show the contribution of the GLP-1 component to glucose lowering. The insulin glargine dose in this trial was capped at a maximum dose of 60 units and the dosing algorithm was selected to isolate the effect of the GLP-1 component. At the end of the trial, the doses of insulin glargine were equivalent between treatment groups. The mean final dose of SOLIQUA 100/33 and insulin glargine at week 30 was 46.7 units (for SOLIQUA 100/33: 46.7 units insulin glargine/15.6 mcg lixisenatide). The difference in effect observed in the trial may not necessarily reflect the effect that will be observed in the care setting where alternative insulin glargine dosage can be used. |  |
 | Patients [n (%)] reaching HbA1c <7% at week 30Patients with missing HbA1c measurement at Week 30 were considered non-responders. | 201 (55.1%) | 108 (29.6%) |
-| Fasting Plasma Glucose (mg/dL) |  |  |
+| Fasting plasma glucose (mg/dL) |  |  |
 | Baseline (mean) | 132.3 | 132.0 |
 | End of study (mean) | 121.9 | 120.5 |
 | LS change from baseline (mean) | -5.7 | -7.0 |

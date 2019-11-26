@@ -98,7 +98,9 @@ Do not administer an extra dose or increase the dose to make up for the missed d
 - Visually inspect for particulate matter and discoloration prior to administration.
   Only use SOLIQUA 100/33 if the solution is clear and colorless to almost colorless.
 - Inject SOLIQUA 100/33 subcutaneously into the abdominal area, thigh, or upper arm.
-- Rotate injection sites within the same region from one injection to the next to reduce the risk of lipodystrophy [see Adverse Reactions (6.1)].
+- Rotate injection sites within the same region from one injection to the next to reduce the risk of lipodystrophy and localized cutaneous amyloidosis.
+  Do not inject into areas of lipodystrophy or localized cutaneous amyloidosis [see Warnings and Precautions (5.2), Adverse Reactions (6)].
+- During changes to a patient's insulin regimen, increase the frequency of blood glucose monitoring [see Warnings and Precautions (5.4)].
 - Do not administer intravenously, intramuscularly, or via an insulin pump.
 - Use SOLIQUA 100/33 with caution in patients with visual impairment who may rely on audible clicks to dial their dose.
 - The SOLIQUA 100/33 pen dials in 1 unit increments.

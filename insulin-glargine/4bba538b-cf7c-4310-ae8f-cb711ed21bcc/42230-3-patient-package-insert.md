@@ -21,8 +21,7 @@ Important information
   If you reuse needles, you might not get your dose (underdosing) or get too much (overdosing).
 - Do not use SOLIQUA 100/33 in an insulin pump or inject SOLIQUA 100/33 into your vein (intravenously) or muscle (intramuscularly).
 - Do not mix SOLIQUA 100/33 in any other type of insulin or liquid medicine prior to injection.
-- Change (rotate) your injection sites within the area you chose with each dose.
-  Do not use the same spot for each injection, to avoid skin thickening or pits at the injection site (lipodystrophy).
+- Change (rotate) your injection sites within the area you chose with each dose (see "Places to inject").
 
 Learn to inject
 
@@ -43,6 +42,12 @@ Supplies you will need:
 - a puncture-resistant container for used needles and pens (see "Throwing your pen away" at the end of this Instructions for Use)
 
 Places to inject
+
+- Inject your SOLIQUA 100/33 dose exactly as your healthcare provider has shown you.
+- Inject your SOLIQUA 100/33 dose under the skin (subcutaneously) of your upper legs (thighs), upper arms, or stomach area (abdomen).
+- Change (rotate) your injection sites within the area you choose for each dose to reduce your risk of getting lipodystrophy (pits in skin or thickened skin) and localized cutaneous amyloidosis (skin with lumps) at the injection sites.
+- Do not inject where the skin has pits, is thickened, or has lumps.
+- Do not inject where the skin is tender, bruised, scaly or hard, or into scars or damaged skin.
 
 Get to know your pen
 
@@ -247,10 +252,10 @@ Throwing your pen away
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
+Revised: November 2019
+
 sanofi-aventis U.S. LLC Bridgewater, NJ 08807 A SANOFI COMPANY
 
-© 2017 sanofi-aventis U.S. LLC
+© 2019 sanofi-aventis U.S. LLC
 
 SOLIQUA and SoloStar are registered trademarks of sanofi-aventis U.S. LLC.
-
-Approved: October 2017

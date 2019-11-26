@@ -1,4 +1,4 @@
-# PRINCIPAL DISPLAY PANEL - 5 Syringe Carton
+# PRINCIPAL DISPLAY PANEL - 5 Pen Carton
 
 NDC 0024-5761-05 Rx ONLY
 
@@ -6,8 +6,6 @@ SOLIQUA® 100/33 (insulin glargine and lixisenatide injection) For Single Patien
 
 Solution for injection in a SoloStar® disposable insulin delivery device Never remove medication using a syringe Do not mix with other insulins For subcutaneous injection only Use only if solution is clear and colorless with no particles visible
 
-*Needles not included (see back panel)
-
-Five 3 mL prefilled pens (15 mL total) Dispense with the medication guide
+*Needles not included (see back panel) Five 3 mL prefilled pens (15 mL total) – Dispense in this sealed carton Dispense with the medication guide
 
 SANOFI

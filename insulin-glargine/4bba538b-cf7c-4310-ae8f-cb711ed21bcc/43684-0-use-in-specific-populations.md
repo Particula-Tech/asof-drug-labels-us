@@ -7,7 +7,7 @@ Risk Summary
 Based on animal reproduction studies, there may be risks to the fetus from exposure to lixisenatide, a component of SOLIQUA 100/33, during pregnancy.
 SOLIQUA 100/33 should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 
-The limited available data with SOLIQUA 100/33 and lixisenatide in pregnant women are not sufficient to inform a drug-associated risk of major birth defects and miscarriage.
+The limited available data with SOLIQUA 100/33 and lixisenatide in pregnant women is not sufficient to inform a drug-associated risk of major birth defects and miscarriage.
 Published studies with insulin glargine use during pregnancy have not reported a clear association with insulin glargine and major birth defect or miscarriage risk [see Data].
 There are risks to the mother and fetus associated with poorly controlled diabetes in pregnancy [see Clinical Considerations].
 

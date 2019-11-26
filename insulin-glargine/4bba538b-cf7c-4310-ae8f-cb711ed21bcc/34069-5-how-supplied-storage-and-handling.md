@@ -6,12 +6,14 @@ SOLIQUA 100/33 is an injection supplied as a sterile, clear, colorless to almost
 
 | Dosage Unit/Strength | Package size | NDC # |
 | --- | --- | --- |
-| 3 mL SOLIQUA 100/33 disposable prefilled pen 100 units/mL insulin glargine and 33 mcg/mL lixisenatide | Package of 5 | 0024-5761-05 |
+| 3 mL SOLIQUA 100/33 single-patient-use prefilled pen 100 units/mL insulin glargine and 33 mcg/mL lixisenatide | Package of 5 | 0024-5761-05 |
 
 Needles are not included.
 Only use needles that are compatible for use with SOLIQUA 100/33 prefilled pen.
 
 ## 16.2 Storage
+
+Dispense in the original sealed carton with the enclosed Instructions for Use.
 
 Prior to first use, SOLIQUA 100/33 pen should be stored in a refrigerator, 36°F–46°F (2°C–8°C).
 Do not freeze.

@@ -119,6 +119,6 @@ The tmax of digoxin was delayed by 1.5 hour and the Cmax was reduced by 26%.
 
 Ramipril
 
-After concomitant administration of lixisenatide 20 mcg and ramipril 5 mg during 6 days, the AUC of ramipril was increased by 21% while the Cmax was decreased by 63%.
+After concomitant administration of lixisenatide 20 mcg and ramipril 5 mg for 6 days, the AUC of ramipril was increased by 21% while the Cmax was decreased by 63%.
 The AUC and Cmax of the active metabolite (ramiprilat) were not affected.
 The tmax of ramipril and ramiprilat were delayed by approximately 2.5 hours.

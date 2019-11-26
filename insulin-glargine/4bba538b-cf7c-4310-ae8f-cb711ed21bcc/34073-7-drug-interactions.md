@@ -6,7 +6,7 @@ A number of medications affect glucose metabolism and may require dose adjustmen
 
 | Drugs That May Increase the Risk of Hypoglycemia |  |
 | --- | --- |
-| Drugs: | Antidiabetic agents, ACE inhibitors, angiotensin II receptor blocking agents, disopyramide, fibrates, fluoxetine, monoamine oxidase inhibitors, pentoxifylline, pramlintide, propoxyphene, salicylates, somatostatin analogs (e.g., octreotide), and sulfonamide antibiotics. |
+| Drugs: | Antidiabetic agents, ACE inhibitors, angiotensin II receptor blocking agents, disopyramide, fibrates, fluoxetine, monoamine oxidase inhibitors, pentoxifylline, pramlintide, salicylates, somatostatin analogs (e.g., octreotide), and sulfonamide antibiotics. |
 | Intervention: | Dose reductions and increased frequency of glucose monitoring may be required when SOLIQUA 100/33 is coadministered with these drugs. |
 | Drugs That May Decrease the Blood Glucose Lowering Effect of SOLIQUA 100/33 |  |
 | Drugs: | Atypical antipsychotics (e.g., olanzapine and clozapine), corticosteroids, danazol, diuretics, estrogens, glucagon, isoniazid, niacin, oral contraceptives, phenothiazines, progestogens (e.g., in oral contraceptives), protease inhibitors, somatropin, sympathomimetic agents (e.g., albuterol, epinephrine, terbutaline), and thyroid hormones. |

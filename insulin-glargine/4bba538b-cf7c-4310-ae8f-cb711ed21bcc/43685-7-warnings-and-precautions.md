@@ -28,8 +28,11 @@ Sharing of the pen poses a risk for transmission of blood-borne pathogens.
 
 ## 5.4 Hyperglycemia or Hypoglycemia with Changes in Insulin Regimen
 
-Changes in SOLIQUA 100/33 regimen may affect glycemic control and predispose to hypoglycemia or hyperglycemia.
-These changes should be made cautiously and only under close medical supervision, and the frequency of blood glucose monitoring should be increased.
+Changes in insulin regimen (e.g., insulin strength, manufacturer, type, injection site or method of administration) may affect glycemic control and predispose to hypoglycemia [see Warnings and Precautions (5.6)] or hyperglycemia.
+Repeated insulin injections into areas of lipodystrophy or localized cutaneous amyloidosis have been reported to result in hyperglycemia; and a sudden change in the injection site (to unaffected area) has been reported to result in hypoglycemia [see Adverse Reactions (6.)].
+
+Make any changes to a patient's insulin regimen under close medical supervision with increased frequency of blood glucose monitoring.
+Advise patients who have repeatedly injected into areas of lipodystrophy or localized cutaneous amyloidosis to change the injection site to unaffected areas and closely monitor for hypoglycemia.
 Adjustments in concomitant oral antidiabetic treatment may be needed.
 When converting from basal insulin therapy or a GLP-1 receptor agonist to SOLIQUA 100/33 follow dosing recommendations [see Dosage and Administration (2.2, 2.3)].
 
