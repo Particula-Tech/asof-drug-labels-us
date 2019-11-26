@@ -17,7 +17,7 @@ The following serious adverse reactions are described below and elsewhere in the
 - Hyponatremia [see Warnings and Precautions (5.13)]
 - Urinary Hesitation and Retention [see Warnings and Precautions (5.15)]
 
-## 6.1 Clinical Trial Data Sources
+## 6.1 Clinical Studies Experience
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
@@ -33,7 +33,7 @@ Information describing two additional clinical studies in which efficacy was not
 Other pediatric use information for patients ages 7 to 17 years is approved for Eli Lilly and Company, Inc.'s CYMBALTA® (duloxetine) delayed-release capsules.
 However, due to Eli Lilly and Company, Inc.'s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
 
-## 6.2 Adverse Reactions Reported as Reasons for Discontinuation of Treatment in Adult Placebo-Controlled Trials
+Adverse Reactions Reported as Reasons for Discontinuation of Treatment in Adult Placebo-Controlled Trials
 
 Major Depressive Disorder - Approximately 8.4% (319/3779) of the patients who received duloxetine delayed-release capsules in placebo-controlled trials for MDD discontinued treatment due to an adverse reaction, compared with 4.6% (117/2536) of the patients receiving placebo.
 Nausea (duloxetine delayed-release capsules 1.1%, placebo 0.4%) was the only common adverse reaction reported as a reason for discontinuation and considered to be drug-related (i.e., discontinuation occurring in at least 1% of the duloxetine delayed-release capsule-treated patients and at a rate of at least twice that of placebo).
@@ -53,7 +53,7 @@ Common adverse reactions reported as a reason for discontinuation and considered
 Chronic Low Back Pain - Approximately 16.5% (99/600) of the patients who received duloxetine delayed-release capsules in 13-week, placebo-controlled trials for CLBP discontinued treatment due to an adverse reaction, compared with 6.3% (28/441) for placebo.
 Common adverse reactions reported as a reason for discontinuation and considered to be drug-related (as defined above) included nausea (duloxetine delayed-release capsules 3.0%, placebo 0.7%), and somnolence (duloxetine delayed-release capsules 1.0%, placebo 0.0%).
 
-## 6.3 Most Common Adult Adverse Reactions
+Most Common Adult Adverse Reactions
 
 Pooled Trials for all Approved Indications - The most commonly observed adverse reactions in duloxetine delayed-release capsule-treated patients (incidence of at least 5% and at least twice the incidence in placebo patients) were nausea, dry mouth, somnolence, constipation, decreased appetite, and hyperhidrosis.
 
@@ -65,7 +65,7 @@ Chronic Pain due to Osteoarthritis - The most commonly observed adverse reaction
 
 Chronic Low Back Pain - The most commonly observed adverse reactions in duloxetine delayed-release capsule-treated patients (as defined above) were nausea, dry mouth, insomnia, somnolence, constipation, dizziness, and fatigue.
 
-## 6.4 Adverse Reactions Occurring at an Incidence of 5% or More Among Duloxetine Delayed-Release Capsule-Treated Patients in Adult Placebo-Controlled Trials
+Adverse Reactions Occurring at an Incidence of 5% or More Among Duloxetine Delayed-Release Capsule-Treated Patients in Adult Placebo-Controlled Trials
 
 Table 2 gives the incidence of treatment-emergent adverse reactions in placebo-controlled trials for approved indications that occurred in 5% or more of patients treated with duloxetine delayed-release capsules and with an incidence greater than placebo.
 
@@ -87,14 +87,14 @@ Table 2: Treatment-Emergent Adverse Reactions: Incidence of 5% or More and Great
 | Decreased appetitec | 7 | 2 |
 | Hyperhidrosisc | 6 | 1 |
 | Abdominal painf | 5 | 4 |
-| a The inclusion of an event in the table is determined based on the percentages before rounding; however, the percentages displayed in the table are rounded to the nearest integer. |  |  |
-| b Also includes asthenia. |  |  |
-| c Events for which there was a significant dose-dependent relationship in fixed-dose studies, excluding three MDD studies which did not have a placebo lead-in period or dose titration. |  |  |
-| d Also includes initial insomnia, middle insomnia, and early morning awakening. |  |  |
-| e Also includes hypersomnia and sedation. |  |  |
-| f Also includes abdominal discomfort, abdominal pain lower, abdominal pain upper, abdominal tenderness, and gastrointestinal pain. |  |  |
+| aThe inclusion of an event in the table is determined based on the percentages before rounding; however, the percentages displayed in the table are rounded to the nearest integer. |  |  |
+| bAlso includes asthenia. |  |  |
+| cEvents for which there was a significant dose-dependent relationship in fixed-dose studies, excluding three MDD studies which did not have a placebo lead-in period or dose titration. |  |  |
+| dAlso includes initial insomnia, middle insomnia, and early morning awakening. |  |  |
+| eAlso includes hypersomnia and sedation. |  |  |
+| fAlso includes abdominal discomfort, abdominal pain lower, abdominal pain upper, abdominal tenderness, and gastrointestinal pain. |  |  |
 
-## 6.5 Adverse Reactions Occurring at an Incidence of 2% or More Among Duloxetine Delayed-Release Capsule-Treated Patients in Adult Placebo-Controlled Trials
+Adverse Reactions Occurring at an Incidence of 2% or More Among Duloxetine Delayed-Release Capsule-Treated Patients in Adult Placebo-Controlled Trials
 
 Pooled MDD and GAD Trials - Table 3 gives the incidence of treatment-emergent adverse reactions in MDD and GAD placebo-controlled trials for approved indications that occurred in 2% or more of patients treated with duloxetine delayed-release capsules and with an incidence greater than placebo.
 
@@ -137,15 +137,15 @@ Table 3: Treatment-Emergent Adverse Reactions: Incidence of 2% or More and Great
 | Yawning | 2 | <1 |
 | Skin and Subcutaneous Tissue Disorders |  |  |
 | Hyperhidrosis | 6 | 2 |
-| a The inclusion of an event in the table is determined based on the percentages before rounding; however, the percentages displayed in the table are rounded to the nearest integer. |  |  |
-| c Events for which there was a significant dose-dependent relationship in fixed-dose studies, excluding three MDD studies which did not have a placebo lead-in period or dose titration. |  |  |
-| d Also includes abdominal pain upper, abdominal pain lower, abdominal tenderness, abdominal discomfort, and gastrointestinal pain |  |  |
-| e Also includes asthenia |  |  |
-| f Also includes hypersomnia and sedation |  |  |
-| g Also includes initial insomnia, middle insomnia, and early morning awakening |  |  |
+| aThe inclusion of an event in the table is determined based on the percentages before rounding; however, the percentages displayed in the table are rounded to the nearest integer. |  |  |
+| cEvents for which there was a significant dose-dependent relationship in fixed-dose studies, excluding three MDD studies which did not have a placebo lead-in period or dose titration. |  |  |
+| dAlso includes abdominal pain upper, abdominal pain lower, abdominal tenderness, abdominal discomfort, and gastrointestinal pain |  |  |
+| eAlso includes asthenia |  |  |
+| fAlso includes hypersomnia and sedation |  |  |
+| gAlso includes initial insomnia, middle insomnia, and early morning awakening |  |  |
 | hAlso includes feeling jittery, nervousness, restlessness, tension and psychomotor hyperactivity |  |  |
-| i Also includes loss of libido |  |  |
-| j Also includes anorgasmia |  |  |
+| iAlso includes loss of libido |  |  |
+| jAlso includes anorgasmia |  |  |
 
 DPNP, FM, OA, and CLBP - Table 4 gives the incidence of treatment-emergent adverse events that occurred in 2% or more of patients treated with duloxetine delayed-release capsules (determined prior to rounding) in the premarketing acute phase of DPNP, FM, OA, and CLBP placebo-controlled trials and with an incidence greater than placebo.
 
@@ -194,20 +194,20 @@ Table 4: Treatment-Emergent Adverse Reactions: Incidence of 2% or More and Great
 | Vascular Disorders |  |  |
 | Flushingk | 3 | 1 |
 | Blood pressure increasedl | 2 | 1 |
-| a The inclusion of an event in the table is determined based on the percentages before rounding; however, the percentages displayed in the table are rounded to the nearest integer. |  |  |
-| b Incidence of 120 mg/day is significantly greater than the incidence for 60 mg/day. |  |  |
-| c Also includes abdominal discomfort, abdominal pain lower, abdominal pain upper, abdominal tenderness and gastrointestinal pain |  |  |
-| d Also includes asthenia |  |  |
-| e Also includes myalgia and neck pain |  |  |
-| f Also includes hypersomnia and sedation |  |  |
-| g Also includes hypoaesthesia, hypoaesthesia facial, genital hypoaesthesia and paraesthesia oral |  |  |
-| h Also includes initial insomnia, middle insomnia, and early morning awakening. |  |  |
-| i Also includes feeling jittery, nervousness, restlessness, tension and psychomotor hyperactivity |  |  |
-| j Also includes ejaculation failure |  |  |
-| k Also includes hot flush |  |  |
-| l Also includes blood pressure diastolic increased, blood pressure systolic increased, diastolic hypertension, essential hypertension, hypertension, hypertensive crisis, labile hypertension, orthostatic hypertension, secondary hypertension, and systolic hypertension |  |  |
+| aThe inclusion of an event in the table is determined based on the percentages before rounding; however, the percentages displayed in the table are rounded to the nearest integer. |  |  |
+| bIncidence of 120 mg/day is significantly greater than the incidence for 60 mg/day. |  |  |
+| cAlso includes abdominal discomfort, abdominal pain lower, abdominal pain upper, abdominal tenderness and gastrointestinal pain |  |  |
+| dAlso includes asthenia |  |  |
+| eAlso includes myalgia and neck pain |  |  |
+| fAlso includes hypersomnia and sedation |  |  |
+| gAlso includes hypoaesthesia, hypoaesthesia facial, genital hypoaesthesia and paraesthesia oral |  |  |
+| hAlso includes initial insomnia, middle insomnia, and early morning awakening. |  |  |
+| iAlso includes feeling jittery, nervousness, restlessness, tension and psychomotor hyperactivity |  |  |
+| jAlso includes ejaculation failure |  |  |
+| kAlso includes hot flush |  |  |
+| lAlso includes blood pressure diastolic increased, blood pressure systolic increased, diastolic hypertension, essential hypertension, hypertension, hypertensive crisis, labile hypertension, orthostatic hypertension, secondary hypertension, and systolic hypertension |  |  |
 
-## 6.6 Effects on Male and Female Sexual Function in Adults
+Effects on Male and Female Sexual Function in Adults
 
 Changes in sexual desire, sexual performance and sexual satisfaction often occur as manifestations of psychiatric disorders or diabetes, but they may also be a consequence of pharmacologic treatment.
 Because adverse sexual reactions are presumed to be voluntarily underreported, the Arizona Sexual Experience Scale (ASEX), a validated measure designed to identify sexual side effects, was used prospectively in 4 MDD placebo-controlled trials.
@@ -231,29 +231,29 @@ Table 5: Mean Change in ASEX Scores by Gender in MDD Placebo-Controlled Trials
 | (men); Lubrication (women) |  |  |  |  |
 | Item 4 - Ease of reaching orgasm | 0.40c | -0.24 | -0.09 | -0.13 |
 | Item 5 - Orgasm satisfaction | 0.09 | -0.13 | -0.11 | -0.17 |
-| a n=Number of patients with non-missing change score for ASEX total |  |  |  |  |
-| b p=0.013 versus placebo |  |  |  |  |
-| c p<0.001 versus placebo |  |  |  |  |
+| an=Number of patients with non-missing change score for ASEX total |  |  |  |  |
+| bp=0.013 versus placebo |  |  |  |  |
+| cp<0.001 versus placebo |  |  |  |  |
 
-## 6.7 Vital Sign Changes in Adults
+Vital Sign Changes in Adults
 
 In placebo-controlled clinical trials across approved indications for change from baseline to endpoint, duloxetine delayed-release capsules treatment was associated with mean increases of 0.23 mm Hg in systolic blood pressure and 0.73 mm Hg in diastolic blood pressure compared to mean decreases of 1.09 mm Hg systolic and 0.55 mm Hg diastolic in placebo-treated patients.
 There was no significant difference in the frequency of sustained (3 consecutive visits) elevated blood pressure [see Warnings and Precautions (5.3, 5.11)].
 
 Duloxetine delayed-release capsules treatment, for up to 26 weeks in placebo-controlled trials across approved indications, typically caused a small increase in heart rate for change from baseline to endpoint compared to placebo of up to 1.37 beats per minute (increase of 1.20 beats per minute in duloxetine delayed-release capsule-treated patients, decrease of 0.17 beats per minute in placebo-treated patients).
 
-## 6.8 Laboratory Changes in Adults
+Laboratory Changes in Adults
 
 Duloxetine delayed-release capsules treatment in placebo-controlled clinical trials across approved indications, was associated with small mean increases from baseline to endpoint in ALT, AST, CPK, and alkaline phosphatase; infrequent, modest, transient, abnormal values were observed for these analytes in duloxetine delayed-release capsule-treated patients when compared with placebo-treated patients [see Warnings and Precautions (5.2)].
 High bicarbonate, cholesterol, and abnormal (high or low) potassium, were observed more frequently in duloxetine delayed-release capsule-treated patients compared to placebo.
 
-## 6.9 Electrocardiogram Changes in Adults
+Electrocardiogram Changes in Adults
 
 The effect of duloxetine delayed-release capsules 160 mg and 200 mg administered twice daily to steady state was evaluated in a randomized, double-blinded, two-way crossover study in 117 healthy female subjects.
 No QT interval prolongation was detected.
 Duloxetine delayed-release capsules appear to be associated with concentration-dependent but not clinically meaningful QT shortening.
 
-## 6.10 Other Adverse Reactions Observed During the Premarketing and Postmarketing Clinical Trial Evaluation of Duloxetine Delayed-Release Capsules in Adults
+Other Adverse Reactions Observed During the Premarketing and Postmarketing Clinical Trial Evaluation of Duloxetine Delayed-Release Capsules in Adults
 
 Following is a list of treatment-emergent adverse reactions reported by patients treated with duloxetine delayed-release capsules in clinical trials.
 In clinical trials of all indications, 34,756 patients were treated with duloxetine delayed-release capsules.
@@ -298,7 +298,7 @@ Skin and Subcutaneous Tissue Disorders - Frequent: pruritus; Infrequent: cold sw
 
 Vascular Disorders - Frequent: hot flush; Infrequent: flushing, orthostatic hypotension, and peripheral coldness.
 
-## 6.11 Adverse Reactions Observed in Children and Adolescent Placebo-Controlled Clinical Trials
+Adverse Reactions Observed in Children and Adolescent Placebo-Controlled Clinical Trials
 
 The adverse drug reaction profile observed in pediatric clinical trials (children and adolescents) was consistent with the adverse drug reaction profile observed in adult clinical trials.
 The specific adverse drug reactions observed in adult patients can be expected to be observed in pediatric patients (children and adolescents) [see Adverse Reactions (6.5)].
@@ -334,12 +334,12 @@ Table 6: Treatment-Emergent Adverse Reactions: Incidence of 2% or More and Great
 | Respiratory, Thoracic, and Mediastinal Disorders |  |  |
 | Oropharyngeal Pain | 4 | 2 |
 | Cough | 3 | 1 |
-| a The inclusion of an event in the table is determined based on the percentages before rounding; however, the percentages displayed in the table are rounded to the nearest integer. |  |  |
-| b Also includes abdominal pain upper, abdominal pain lower, abdominal tenderness, abdominal discomfort, and gastrointestinal pain. |  |  |
-| c Also includes asthenia. |  |  |
-| d Frequency based on weight measurement meeting potentially clinically significant threshold of greater than or equal to 3.5% weight loss (N=467 duloxetine delayed-release capsules; N=354 Placebo). |  |  |
-| e Also includes hypersomnia and sedation. |  |  |
-| f Also includes initial insomnia, insomnia, middle insomnia, and terminal insomnia. |  |  |
+| aThe inclusion of an event in the table is determined based on the percentages before rounding; however, the percentages displayed in the table are rounded to the nearest integer. |  |  |
+| bAlso includes abdominal pain upper, abdominal pain lower, abdominal tenderness, abdominal discomfort, and gastrointestinal pain. |  |  |
+| cAlso includes asthenia. |  |  |
+| dFrequency based on weight measurement meeting potentially clinically significant threshold of greater than or equal to 3.5% weight loss (N=467 duloxetine delayed-release capsules; N=354 Placebo). |  |  |
+| eAlso includes hypersomnia and sedation. |  |  |
+| fAlso includes initial insomnia, insomnia, middle insomnia, and terminal insomnia. |  |  |
 
 Other adverse reactions that occurred at an incidence of less than 2% but were reported by more duloxetine delayed-release capsule-treated patients than placebo treated patients and are associated duloxetine delayed-release capsules treatment: abnormal dreams (including nightmare), anxiety, flushing (including hot flush), hyperhidrosis, palpitations, pulse increased, and tremor.
 
@@ -355,7 +355,7 @@ Information describing two additional clinical studies in which efficacy was not
 Other pediatric use information for patients ages 7 to 17 years is approved for Eli Lilly and Company, Inc.'s CYMBALTA® (duloxetine) delayed-release capsules.
 However, due to Eli Lilly and Company, Inc.'s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
 
-## 6.12 Postmarketing Spontaneous Reports
+## 6.2 Postmarketing Experience
 
 The following adverse reactions have been identified during post approval use of duloxetine delayed-release capsules.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.

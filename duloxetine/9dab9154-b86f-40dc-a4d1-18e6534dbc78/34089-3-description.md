@@ -1,6 +1,6 @@
 # 11 DESCRIPTION
 
-Duloxetine delayed-release capsules, USP are a selective serotonin and norepinephrine reuptake inhibitor (SSNRI) for oral administration.
+Duloxetine Delayed-Release Capsules, USP are a selective serotonin and norepinephrine reuptake inhibitor (SNRI) for oral administration.
 Its chemical designation is (+)-(S)-N-methyl-γ-(1-naphthyloxy)-2-thiophenepropylamine hydrochloride.
 The structural formula is:
 

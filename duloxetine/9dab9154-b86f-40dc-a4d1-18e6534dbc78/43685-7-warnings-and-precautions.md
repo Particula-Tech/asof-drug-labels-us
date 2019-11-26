@@ -101,14 +101,15 @@ Duloxetine delayed-release capsules should be discontinued before initiating tre
 If concomitant use of duloxetine delayed-release capsules with other serotonergic drugs including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, buspirone, tryptophan, amphetamines, and St. John’s Wort is clinically warranted, patients should be made aware of a potential increased risk for serotonin syndrome, particularly during treatment initiation and dose increases.
 Treatment with duloxetine delayed-release capsules and any concomitant serotonergic agents, should be discontinued immediately if the above events occur and supportive symptomatic treatment should be initiated.
 
-## 5.5 Abnormal Bleeding
+## 5.5 Increased Risk of Bleeding
 
-SSRIs and SNRIs, including duloxetine delayed-release capsules, may increase the risk of bleeding events.
-Concomitant use of aspirin, nonsteroidal anti-inflammatory drugs, warfarin, and other anti-coagulants may add to this risk.
+Drugs that interfere with serotonin reuptake inhibition, including duloxetine delayed-release capsules, may increase the risk of bleeding events.
 Case reports and epidemiological studies (case-control and cohort design) have demonstrated an association between use of drugs that interfere with serotonin reuptake and the occurrence of gastrointestinal bleeding.
-Bleeding events related to SSRIs and SNRIs use have ranged from ecchymoses, hematomas, epistaxis, and petechiae to life-threatening hemorrhages.
+A post-marketing study showed a higher incidence of postpartum hemorrhage in mothers taking duloxetine.
+Other bleeding events related to SSRI and SNRI use have ranged from ecchymoses, hematomas, epistaxis, and petechiae to life-threatening hemorrhages.
+Concomitant use of aspirin, nonsteroidal anti-inflammatory drugs (NSAIDs), warfarin, and other anti-coagulants may add to this risk.
 
-Patients should be cautioned about the risk of bleeding associated with the concomitant use of duloxetine delayed-release capsules and NSAIDs, aspirin, or other drugs that affect coagulation.
+Inform patients about the risk of bleeding associated with the concomitant use of duloxetine delayed-release capsules and NSAIDs, aspirin, or other drugs that affect coagulation [see Drug Interactions (7.4)].
 
 ## 5.6 Severe Skin Reactions
 
@@ -163,15 +164,15 @@ Both CYP1A2 and CYP2D6 are responsible for duloxetine delayed-release metabolism
 
 Potential for Other Drugs to Affect Duloxetine Delayed-Release Capsules
 
-CYP1A2 Inhibitors - Coadministration of duloxetine delayed-release capsules with potent CYP1A2 inhibitors should be avoided [see Drug Interactions (7.1)].
+CYP1A2 Inhibitors - Co-administration of duloxetine delayed-release capsules with potent CYP1A2 inhibitors should be avoided [see Drug Interactions (7.1)].
 
 CYP2D6 Inhibitors - Because CYP2D6 is involved in duloxetine delayed-release capsules metabolism, concomitant use of duloxetine delayed-release capsules with potent inhibitors of CYP2D6 would be expected to, and does, result in higher concentrations (on average of 60%) of duloxetine delayed-release capsules [see Drug Interactions (7.2)].
 
 Potential for Duloxetine Delayed-Release Capsules to Affect Other Drugs
 
-Drugs Metabolized by CYP2D6 - Coadministration of duloxetine delayed-release capsules with drugs that are extensively metabolized by CYP2D6 and that have a narrow therapeutic index, including certain antidepressants (tricyclic antidepressants [TCAs], such as nortriptyline, amitriptyline, and imipramine), phenothiazines and Type 1C antiarrhythmics (e.g., propafenone, flecainide), should be approached with caution.
-Plasma TCA concentrations may need to be monitored and the dose of the TCA may need to be reduced if a TCA is coadministered with duloxetine delayed-release capsules.
-Because of the risk of serious ventricular arrhythmias and sudden death potentially associated with elevated plasma levels of thioridazine, duloxetine delayed-release capsules and thioridazine should not be coadministered [see Drug Interactions (7.9)].
+Drugs Metabolized by CYP2D6 - Co-administration of duloxetine delayed-release capsules with drugs that are extensively metabolized by CYP2D6 and that have a narrow therapeutic index, including certain antidepressants (tricyclic antidepressants [TCAs], such as nortriptyline, amitriptyline, and imipramine), phenothiazines and Type 1C antiarrhythmics (e.g., propafenone, flecainide), should be approached with caution.
+Plasma TCA concentrations may need to be monitored and the dose of the TCA may need to be reduced if a TCA is co-administered with duloxetine delayed-release capsules.
+Because of the risk of serious ventricular arrhythmias and sudden death potentially associated with elevated plasma levels of thioridazine, duloxetine delayed-release capsules and thioridazine should not be co-administered [see Drug Interactions (7.9)].
 
 Other Clinically Important Drug Interactions
 
@@ -220,7 +221,3 @@ If symptoms of urinary hesitation develop during treatment with duloxetine delay
 
 In postmarketing experience, cases of urinary retention have been observed.
 In some instances of urinary retention associated with duloxetine delayed-release capsule use, hospitalization and/or catheterization has been needed.
-
-## 5.16 Laboratory Tests
-
-No specific laboratory tests are recommended.

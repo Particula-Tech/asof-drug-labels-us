@@ -18,3 +18,5 @@ Capsules are supplied in bottles of 30 (NDC 0228-2892-03) and bottles of 1000 (0
 Store at 25°C (77°F); excursions permitted to 15° to 30°C (59° to 86°F) [See USP Controlled Room Temperature].
 
 Dispense in a tight, light-resistant container as defined in the USP.
+
+KEEP THIS AND ALL MEDICATIONS OUT OF THE REACH OF CHILDREN.

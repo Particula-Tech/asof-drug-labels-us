@@ -2,8 +2,6 @@
 
 Duloxetine (doo lox' e teen) Delayed-Release Capsules
 
-Rx Only
-
 Read this Medication Guide before you start taking duloxetine delayed-release capsules and each time you get a refill.
 There may be new information.
 This information does not take the place of talking to your healthcare provider about your medical condition or treatment.
@@ -51,7 +49,9 @@ In an emergency, call 911.
 What else do I need to know about antidepressant medicines?
 
 - Never stop an antidepressant medicine without first talking to a healthcare provider.
-- Stopping an antidepressant medicine suddenly can cause other symptoms.
+
+Stopping an antidepressant medicine suddenly can cause other symptoms.
+
 - Antidepressants are medicines used to treat depression and other illnesses.
   It is important to discuss all the risks of treating depression and also the risks of not treating it.
   Patients should discuss all treatment choices with your healthcare provider, not just the use of antidepressants.
@@ -101,10 +101,11 @@ Before starting duloxetine delayed-release capsules, tell your healthcare provid
 - have delayed stomach emptying
 - have or had bleeding problems
 - are pregnant or plan to become pregnant.
-  It is not known if duloxetine delayed-release capsules will harm your unborn baby.
-  Talk to your healthcare provider about the benefits and risks of treating depression or other conditions with duloxetine delayed-release capsules during pregnancy.
+  Duloxetine delayed-release capsules may harm your unborn baby.
+  Talk to your healthcare provider about the risk to your unborn baby if you take duloxetine delayed-release capsules during pregnancy.
+  - Tell your healthcare provider right away if you become pregnant or think you are pregnant during treatment with duloxetine delayed-release capsules.
 - are breastfeeding or plan to breastfeed.
-  Duloxetine hydrochloride can pass into your breast milk.
+  Duloxetine hydrochloride passes into your breast milk and may harm your baby.
   Talk to your healthcare provider about the best way to feed your baby while taking duloxetine delayed-release capsules.
 
 Tell your healthcare provider about all the medicines that you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements.
@@ -306,5 +307,5 @@ Manufactured by: Actavis Elizabeth LLC Elizabeth, NJ 07207 USA
 
 Distributed by: Actavis Pharma, Inc. Parsippany, NJ 07054 USA
 
-Iss.
-2/2018
+Rev.
+A 10/2019

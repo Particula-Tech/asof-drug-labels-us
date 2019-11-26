@@ -1,10 +1,10 @@
 # 7 DRUG INTERACTIONS
 
-Both CYP1A2 and CYP2D6 are responsible for duloxetine hydrochloride metabolism.
+Both CYP1A2 and CYP2D6 are responsible for duloxetine metabolism.
 
 ## 7.1 Inhibitors of CYP1A2
 
-When duloxetine 60 mg was coadministered with fluvoxamine 100 mg, a potent CYP1A2 inhibitor, to male subjects (n=14) duloxetine AUC was increased approximately 6-fold, the Cmax was increased about 2.5-fold, and duloxetine t1/2 was increased approximately 3-fold.
+When duloxetine 60 mg was co-administered with fluvoxamine 100 mg, a potent CYP1A2 inhibitor, to male subjects (n=14) duloxetine AUC was increased approximately 6-fold, the Cmax was increased about 2.5-fold, and duloxetine t1/2 was increased approximately 3-fold.
 Other drugs that inhibit CYP1A2 metabolism include cimetidine and quinolone antimicrobials such as ciprofloxacin and enoxacin [see Warnings and Precautions (5.12)].
 
 ## 7.2 Inhibitors of CYP2D6
@@ -20,18 +20,18 @@ Concomitant administration of duloxetine 40 mg twice daily with fluvoxamine 100 
 
 Serotonin release by platelets plays an important role in hemostasis.
 Epidemiological studies of the case-control and cohort design that have demonstrated an association between use of psychotropic drugs that interfere with serotonin reuptake and the occurrence of upper gastrointestinal bleeding have also shown that concurrent use of an NSAID or aspirin may potentiate this risk of bleeding.
-Altered anticoagulant effects, including increased bleeding, have been reported when SSRIs or SNRIs are coadministered with warfarin.
+Altered anticoagulant effects, including increased bleeding, have been reported when SSRIs or SNRIs are co-administered with warfarin.
 Concomitant administration of warfarin (2 to 9 mg once daily) under steady state conditions with duloxetine 60 or 120 mg once daily for up to 14 days in healthy subjects (n=15) did not significantly change INR from baseline (mean INR changes ranged from 0.05 to +0.07).
 The total warfarin (protein bound plus free drug) pharmacokinetics (AUCτ,ss, Cmax,ss or tmax,ss) for both R- and S-warfarin were not altered by duloxetine.
 Because of the potential effect of duloxetine on platelets, patients receiving warfarin therapy should be carefully monitored when duloxetine is initiated or discontinued [see Warnings and Precautions (5.5)].
 
 ## 7.5 Lorazepam
 
-Under steady-state conditions for duloxetine (60 mg Q 12 hours) and lorazepam (2 mg Q 12 hours), the pharmacokinetics of duloxetine were not affected by coadministration.
+Under steady-state conditions for duloxetine (60 mg Q 12 hours) and lorazepam (2 mg Q 12 hours), the pharmacokinetics of duloxetine were not affected by co-administration.
 
 ## 7.6 Temazepam
 
-Under steady-state conditions for duloxetine (20 mg qhs) and temazepam (30 mg qhs), the pharmacokinetics of duloxetine were not affected by coadministration.
+Under steady-state conditions for duloxetine (20 mg qhs) and temazepam (30 mg qhs), the pharmacokinetics of duloxetine were not affected by co-administration.
 
 ## 7.7 Drugs that Affect Gastric Acidity
 
@@ -39,14 +39,14 @@ Duloxetine delayed-release capsules have an enteric coating that resists dissolu
 In extremely acidic conditions, duloxetine delayed-release capsules, unprotected by the enteric coating, may undergo hydrolysis to form naphthol.
 Caution is advised in using duloxetine delayed-release capsules in patients with conditions that may slow gastric emptying (e.g., some diabetics).
 Drugs that raise the gastrointestinal pH may lead to an earlier release of duloxetine.
-However, coadministration of duloxetine delayed-release capsules with aluminum- and magnesium-containing antacids (51 mEq) or duloxetine delayed-release capsules with famotidine, had no significant effect on the rate or extent of duloxetine absorption after administration of a 40 mg oral dose.
+However, co-administration of duloxetine delayed-release capsules with aluminum- and magnesium-containing antacids (51 mEq) or duloxetine delayed-release capsules with famotidine, had no significant effect on the rate or extent of duloxetine absorption after administration of a 40 mg oral dose.
 It is unknown whether the concomitant administration of proton pump inhibitors affects duloxetine absorption [see Warnings and Precautions (5.14)].
 
 ## 7.8 Drugs Metabolized by CYP1A2
 
 In vitro drug interaction studies demonstrate that duloxetine does not induce CYP1A2 activity.
 Therefore, an increase in the metabolism of CYP1A2 substrates (e.g., theophylline, caffeine) resulting from induction is not anticipated, although clinical studies of induction have not been performed.
-Duloxetine is an inhibitor of the CYP1A2 isoform in in vitro studies, and in two clinical studies the average (90% confidence interval) increase in theophylline AUC was 7% (1% to 15%) and 20% (13% to 27%) when coadministered with duloxetine (60 mg twice daily).
+Duloxetine is an inhibitor of the CYP1A2 isoform in in vitro studies, and in two clinical studies the average (90% confidence interval) increase in theophylline AUC was 7% (1% to 15%) and 20% (13% to 27%) when co-administered with duloxetine (60 mg twice daily).
 
 ## 7.9 Drugs Metabolized by CYP2D6
 
@@ -90,4 +90,4 @@ Substantial intercurrent ethanol use was present in each of these cases, and thi
 ## 7.17 Drugs Highly Bound to Plasma Protein
 
 Because duloxetine is highly bound to plasma protein, administration of duloxetine delayed-release capsules to a patient taking another drug that is highly protein bound may cause increased free concentrations of the other drug, potentially resulting in adverse reactions.
-However, coadministration of duloxetine (60 mg or 120 mg) with warfarin (2 mg to 9 mg), a highly protein-bound drug, did not result in significant changes in INR and in the pharmacokinetics of either total S-or total R-warfarin (protein bound plus free drug) [see Drug Interactions (7.4)].
+However, co-administration of duloxetine (60 mg or 120 mg) with warfarin (2 mg to 9 mg), a highly protein-bound drug, did not result in significant changes in INR and in the pharmacokinetics of either total S-or total R-warfarin (protein bound plus free drug) [see Drug Interactions (7.4)].

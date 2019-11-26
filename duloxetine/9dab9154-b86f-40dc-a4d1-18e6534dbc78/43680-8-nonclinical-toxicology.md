@@ -14,3 +14,6 @@ Mutagenesis - Duloxetine was not mutagenic in the in vitro bacterial reverse mut
 Additionally, duloxetine was not genotoxic in an in vitro mammalian forward gene mutation assay in mouse lymphoma cells or in an in vitro unscheduled DNA synthesis (UDS) assay in primary rat hepatocytes, and did not induce sister chromatid exchange in Chinese hamster bone marrow in vivo.
 
 Impairment of Fertility - Duloxetine administered orally to either male or female rats prior to and throughout mating at doses up to 45 mg/kg/day (4 times the MRHD) did not alter mating or fertility.
+
+Pediatric use information for patients ages 7 to 17 years is approved for Eli Lilly and Company, Inc.'s CYMBALTA® (duloxetine) delayed-release capsules.
+However, due to Eli Lilly and Company, Inc.'s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
