@@ -12,8 +12,6 @@ Intravenous infusion of 500 mg of erythromycin lactobionate at a constant rate o
 
 Microbiology
 
-Erythromycin is a macrolide antibiotic with activity against Gram-positive and Gram-negative bacteria.
-
 Mechanism of Action
 
 Erythromycin acts by inhibition of protein synthesis by binding 50 S ribosomal subunits of susceptible organisms.
@@ -22,22 +20,23 @@ It does not affect nucleic acid synthesis.
 Resistance
 
 Resistance to erythromycin in S. aureus may emerge during therapy.
+Many isolates of Haemophilus influenzae are resistant to erythromycin but are susceptible to erythromycin and sulfonamides when used concomitantly.
 
-Erythromycin has been shown to be active against most strains of the following organisms both in vitro and in clinical infections (See INDICATIONS AND USAGE):
-
-Interactions with Other Antibiotics
+Interactions With Other Antimicrobials
 
 Antagonism has been demonstrated in vitro between erythromycin and clindamycin, lincomycin and chloramphenicol.
 
-Many strains of Haemophilus influenzae are resistant to erythromycin, but are susceptible to erythromycin and sulfonamides used concomitantly.
+Antimicrobial Activity
 
-Gram-positive bacteria Aerobic
+Aerobic bacteria
+
+Gram-positive bacteria
 
 Corynebacterium diphtheriae
 
 Corynebacterium minutissimum
 
-Staphylococcus aureus (methicillin-susceptible strains only)
+Staphylococcus aureus
 
 Streptococcus pneumoniae
 
@@ -53,8 +52,11 @@ Other Microorganisms
 
 Mycoplasma pneumoniae
 
-At least 90 percent of the following microorganisms exhibit an in vitro minimum inhibitory concentration (MIC) less than or equal to the susceptible breakpoint for erythromycin.
-However, the efficacy of erythromycin in treating clinical infections due to these microorganisms has not been established in adequate and well-controlled trials.
+The following in vitro data are available, but their clinical significance is unknown.
+At least 90 percent of the following bacteria exhibit an in vitro minimum inhibitory concentration (MIC) less than or equal to the susceptible breakpoint for erythromycin against isolates of similar genus or organism group.
+However, the efficacy of erythromycin in treating clinical infections caused by these bacteria has not been established in adequate and well-controlled clinical trials.
+
+Aerobic bacteria
 
 Gram-negative bacteria
 

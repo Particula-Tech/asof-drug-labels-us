@@ -4,7 +4,7 @@ Erythrocin Lactobionate-IV (erythromycin lactobionate for injection, USP) is ind
 Intravenous therapy should be replaced by oral administration at the appropriate time.
 
 Upper respiratory tract infections of mild to moderate degree caused by Streptococcus pyogenes (Group A beta-hemolytic streptococci); Streptococcus pneumoniae (Diplococcus pneumoniae); Haemophilus influenzae (when used concomitantly with adequate doses of sulfonamides, since many strains of H. influenzae are not susceptible to the erythromycin concentrations ordinarily achieved).
-(See appropriate sulfonamide labeling for prescribing information.)
+(See appropriate sulfonamide labeling for prescribing information).
 
 Lower respiratory tract infections of mild to moderate severity caused by Streptococcus pyogenes (Group A beta-hemolytic streptococci); Streptococcus pneumoniae (Diplococcus pneumoniae).
 

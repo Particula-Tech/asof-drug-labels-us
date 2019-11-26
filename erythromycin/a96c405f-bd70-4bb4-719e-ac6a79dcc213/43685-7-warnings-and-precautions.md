@@ -1,29 +1,47 @@
 # WARNINGS
 
+Hepatotoxicity
+
 There have been reports of hepatic dysfunction, with or without jaundice occurring in patients receiving oral erythromycin products.
+Since erythromycin is principally excreted by the liver, monitor for liver toxicity when erythromycin is administered to patients with impaired hepatic function (See CLINICAL PHARMACOLOGY).
 
-Clostridium difficile associated diarrhea (CDAD) has been reported with the use of nearly all antibacterial agents, including erythromycin, and may range in severity from mild diarrhea to fatal colitis.
-Treatment with antibacterial agents alters the normal flora of the colon leading to overgrowth of C. difficile.
+Clostridium difficile-Associated Diarrhea
 
-C. difficile produces toxins A and B which contribute to the development of CDAD.
+Clostridium difficile-associated diarrhea (CDAD) has been reported with the use of nearly all antibacterial agents, including erythromycin, and may range in severity from mild diarrhea to fatal colitis.
+Treatment with antibacterial agents alters the normal flora of the colon, leading to overgrowth of C. difficile.
+
+C. difficile produces toxins A and B, which contribute to the development of CDAD.
 Hypertoxin producing strains of C. difficile cause increased morbidity and mortality, as these infections can be refractory to antimicrobial therapy and may require colectomy.
 CDAD must be considered in all patients who present with diarrhea following antibiotic use.
-Careful medical history is necessary since CDAD has been reported to occur over two months after the administration of antibacterial agents.
+Careful medical history is necessary since CDAD has been reported to occur over 2 months after the administration of antibacterial agents.
 
 If CDAD is suspected or confirmed, ongoing antibiotic use not directed against C. difficile may need to be discontinued.
 Appropriate fluid and electrolyte management, protein supplementation, antibiotic treatment of C. difficile, and surgical evaluation should be instituted as clinically indicated.
+
+QT Prolongation
 
 Life-threatening episodes of ventricular tachycardia associated with prolonged QT intervals (torsades de pointes) have been reported in some patients after intravenous administration of erythromycin lactobionate.
 
 Susceptibility to the development of torsades de pointes arrhythmias, a rare but serious cardiac condition, is related to electrolyte imbalance, hepatic dysfunction, myocardial ischemia, left ventricular dysfunction, idiopathic Q-T prolongation, and concurrent antiarrhythmic therapy.3 Elderly patients exhibit a greater frequency of decreased hepatic function, cardiac function, and of concomitant disease and other drug therapy, and therefore should be monitored carefully during ErythrocinTM therapy.
 
+Infantile Hypertrophic Pyloric Stenosis (IHPS)
+
+There have been reports of IHPS occurring in infants following erythromycin therapy.
+Since erythromycin may be used in the treatment of conditions in infants which are associated with significant mortality or morbidity (such as pertussis or chlamydia), the benefit of erythromycin therapy needs to be weighed against the potential risk of developing IHPS.
+Parents or caregivers of infants receiving erythromycin should be informed to contact their physician if vomiting or irritability with feeding occurs.
+
+Drug Interactions
+
+Serious adverse reactions have been reported in patients taking erythromycin concomitantly with CYP3A4 substrates.
+These include colchicine toxicity with colchicine; rhabdomyolysis with simvastatin, lovastatin, and atorvastatin; and hypotension with calcium channel blockers metabolized by CYP3A4 (e.g. verapamil, amlodipine, diltiazem, vasospasm and ischemia with ergotamine/dihydroergotamine) (See PRECAUTIONS – Drug Interactions).
+
 # PRECAUTIONS
 
-General
-
-Since erythromycin is principally excreted by the liver, caution should be exercised when erythromycin is administered to patients with impaired hepatic function (See CLINICAL PHARMACOLOGY and WARNINGS).
+Exacerbation of Myasthenia gravis
 
 There have been reports that erythromycin may aggravate the weakness of patients with myasthenia gravis.
+
+Development of Drug-Resistant Bacteria
 
 Prolonged or repeated use of erythromycin may result in an overgrowth of non-susceptible bacteria or fungi.
 If superinfection occurs, erythromycin should be discontinued and appropriate therapy instituted.
@@ -38,6 +56,9 @@ Erythromycin interferes with the fluorometric determination of urinary catechola
 
 Drug Interactions
 
+Erythromycin administration in patients receiving 3-hydroxy-3-methylglutaryl-coenzyme A (HMG CoA) reductase inhibitors (statins) that are extensively metabolized by cytochrome P450 isoform 3A4 (e.g., lovastatin or simvastatin) has been reported to cause increased risk of myopathy, including rhabdomyolysis.
+Do not administer erythromycin with lovastatin or simvastatin (See CONTRAINDICATIONS).
+
 Erythromycin use in patients who are receiving high doses of theophylline may be associated with an increase of serum theophylline levels and potential theophylline toxicity.
 In case of theophylline toxicity and/or elevated serum theophylline levels, the dose of theophylline should be reduced while the patient is receiving concomitant erythromycin therapy.
 
@@ -48,7 +69,20 @@ Erythromycin administration in patients receiving carbamazepine has been reporte
 
 Concomitant administration of erythromycin and digoxin has been reported to result in elevated serum digoxin levels.
 
-There have been reports of increased anticoagulant effects when erythromycin and oral anticoagulants were used concomitantly.
+There have been reports of increased anticoagulant effects, which may be more pronounced in elderly when erythromycin and oral anticoagulants (e.g., warfarin) are used concomitantly.
+
+Colchicine is a substrate for both CYP3A4 and the efflux transporter P-glycoprotein (P-gp).
+Erythromycin is considered a moderate inhibitor of CYP3A4.
+A significant increase in colchicine plasma concentration is anticipated when co-administered with moderate CYP3A4 inhibitors such as erythromycin.
+If co-administration of colchicine and erythromycin is necessary, the starting dose of colchicine may need to be reduced, and the maximum colchicine dose should be lowered.
+Patients should be monitored for clinical symptoms of colchicine toxicity (See WARNINGS).
+
+Erythromycin has been reported to increase the systemic exposure (AUC) of sildenafil.
+Reduction of sildenafil dosage should be considered (See sildenafil prescribing information).
+
+Erythromycin has been reported to decrease the clearance of triazolam, midazolam and related benzodiazepines, and thus may increase the pharmacological effect of these benzodiazepines.
+
+Post-marketing reports indicate that co-administration of erythromycin with ergotamine or dihydroergotamine has been associated with acute ergot toxicity characterized by vasospasm and ischemia of the central nervous system, extremities and other tissues (See CONTRAINDICATIONS).
 
 Erythromycin has been reported to significantly alter the metabolism of the nonsedating antihistamines, terfenadine and astemizole, when taken concomitantly.
 Rare cases of serious cardiovascular adverse events, including electrocardiographic QT/QTc interval prolongation, cardiac arrest, torsades de pointes, and other ventricular arrhythmias, have been observed (See CONTRAINDICATIONS).
@@ -57,6 +91,14 @@ In addition, deaths have been reported rarely with concomitant administration of
 The use of erythromycin in patients concurrently taking drugs metabolized by the cytochrome P450 system may be associated with elevations in serum levels of these other drugs.
 There have been reports of interactions of erythromycin with carbamazepine, cyclosporine, hexobarbital, phenytoin, alfentanil, disopyramide, bromocriptine, valproate, terfenadine, and astemizole.
 Serum concentrations of drugs metabolized by the cytochrome P450 system should be monitored closely in patients concurrently receiving erythromycin.
+
+Hypotension, bradyarrhythmias and lactic acidosis have been observed in patients receiving concurrent verapamil, a calcium-channel blocker.
+
+Cimetidine may inhibit the metabolism of erythromycin, which may lead to an increased plasma concentration.
+
+Erythromycin has been reported to decrease the clearance of racemic zopiclone and, thus, may also decrease the clearance of eszopiclone, the S-enantiomer of racemic zopiclone.
+Accordingly, erythromycin may increase the pharmacodynamic effects of eszopiclone.
+Dose reduction of eszopiclone may be necessary (See eszopiclone prescribing information).
 
 Carcinogenesis, Mutagenesis, Impairment of Fertility
 
@@ -91,7 +133,7 @@ Elderly patients, particularly those with reduced renal or hepatic function, may
 
 Elderly patients may be more susceptible to the development of torsades de pointes arrhythmias than younger patients (See ADVERSE REACTIONS).
 
-Elderly patients may experience increased effects of oral anticoagulant therapy while undergoing treatment with ErythrocinTM (See PRECAUTIONS, Drug Interactions).
+Elderly patients may experience increased effects of oral anticoagulant therapy while undergoing treatment with ErythrocinTM (See PRECAUTIONS – Drug Interactions).
 
 Erythromycin Lactobionate does not contain sodium.
 
