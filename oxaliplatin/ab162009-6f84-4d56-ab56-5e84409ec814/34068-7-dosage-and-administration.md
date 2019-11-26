@@ -13,6 +13,8 @@ Day 1: Oxaliplatin injection 85 mg/m2 intravenous infusion in 250 to 500 mL 5% D
 
 Day 2: Leucovorin 200 mg/m2 intravenous infusion over 120 minutes, followed by 5-fluorouracil 400 mg/m2 intravenous bolus given over 2 to 4 minutes, followed by 5-fluorouracil 600 mg/m2 intravenous infusion in 500 mL 5% Dextrose injection (recommended) as a 22-hour continuous infusion.
 
+Figure 1
+
 The administration of oxaliplatin injection does not require prehydration.
 Premedication with antiemetics, including 5-HT3 blockers with or without dexamethasone, is recommended.
 
