@@ -8,7 +8,9 @@ Store at 20°C to 25°C (68°F to 77°F).
 [See USP Controlled Room Temperature.]
 
 Protect from light in original carton.
-Handle and dispose of Topotecan Hydrochloride for Injection consistent with recommendations for the handling and disposal of hazardous drugs1.
+
+Topotecan Hydrochloride for Injection is a cytotoxic drug.
+Follow applicable handling and disposal procedures.1
 
 Sterile, Nonpyrogenic, preservative-free.
 

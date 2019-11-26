@@ -44,7 +44,7 @@ The median duration of response was 5 months (4.6 weeks to 9.6 months).
 The time to progression was 2.6 months (5 days to 1.4 years).
 The median survival was 1.3 years (1.4 weeks, to 2.2 years).
 
-## 14.2 Small Cell Lung Cancer
+## 14.2 Small Cell Lung Cancer (SCLC)
 
 The efficacy of topotecan hydrochloride for injection was evaluated in 426 patients with recurrent or progressive small cell lung cancer (SCLC) in a randomized, comparative trial and in 3 single-arm trials.
 
@@ -58,7 +58,7 @@ The efficacy outcome measures were overall response rate, response duration, tim
 The results of the trial did not show statistically significant improvements in response rate, response duration, time to progression, or OS as shown in Table 5.
 
 Table 5.
-Efficacy Results in Patients with Small Cell Lung Cancer Sensitive to First-Line Chemotherapy in Study 090
+Efficacy Results in Patients With Small Cell Lung Cancer Sensitive to First-Line Chemotherapy in Study 090
 
 | Parameter | Topotecan Hydrochloride for Injection(n = 107) | CAVb(n = 104) |
 | --- | --- | --- |
@@ -87,7 +87,7 @@ Each symptom was rated on a 4-category scale with an improvement defined as a ch
 Limitations in interpretation of the rating scale and responses preclude formal statistical analysis.
 
 Table 6.
-Symptom Improvementa in Patients with Small Cell Lung Cancer in Study 090
+Symptom Improvementa in Patients With Small Cell Lung Cancer in Study 090
 
 | Symptom | Topotecan Hydrochloride for Injection(n = 107) |  | CAV (n = 104) |  |
 | --- | --- | --- | --- | --- |

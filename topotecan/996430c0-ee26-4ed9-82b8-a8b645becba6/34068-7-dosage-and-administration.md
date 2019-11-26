@@ -17,7 +17,7 @@ The recommended dosage of topotecan hydrochloride for injection is 1.5 mg/m2 by 
 
 The recommended dosage of topotecan hydrochloride for injection is 0.75 mg/m2 by intravenous infusion over 30 minutes daily on Days 1, 2, and 3, in combination with cisplatin 50 mg/m2 on Day 1, of a 21-day cycle.
 
-## 2.5 Dose Modifications for Adverse Reactions
+## 2.5 Dosage Modifications for Adverse Reactions
 
 Hematologic
 
@@ -43,3 +43,6 @@ For topotecan hydrochloride for injection as a single agent, reduce the dose to 
   Discard any unused portion.
 - Store reconstituted product diluted for infusion at approximately 20°C to 25°C (68°F to 77°F) protected from light for no more than 24 hours.
   Discard after 24 hours.
+
+Topotecan hydrochloride for injection is a cytotoxic drug.
+Follow applicable handling and disposal procedures.1

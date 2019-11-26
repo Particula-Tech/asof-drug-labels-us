@@ -32,9 +32,9 @@ Asthenia and Fatigue
 Advise patients that topotecan hydrochloride for injection may cause asthenia or fatigue.
 These symptoms may impair the ability to safely drive or operate machinery.
 
-Manufactured by: Sindan Pharma SRL 11 Ion Mihalache Blvd Bucharest 1, Romania 011171
+Manufactured In Romania By: Sindan Pharma SRL 11 Ion Mihalache Blvd Bucharest 1, Romania 011171
 
-Distributed by: Actavis Pharma, Inc. Parsippany, NJ 07054 USA
+Distributed By: Actavis Pharma, Inc. Parsippany, NJ 07054 USA
 
 Rev.
-A 4/2019
+B 10/2019

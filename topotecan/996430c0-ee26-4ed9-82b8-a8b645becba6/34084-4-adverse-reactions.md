@@ -3,7 +3,7 @@
 The following serious adverse reactions are described elsewhere in the labeling:
 
 - Myelosuppression [see Warnings and Precautions (5.1)]
-- Interstitial Lung Disease [see Warnings and Precautions (5.2)]
+- Interstitial Lung Disease (ILD) [see Warnings and Precautions (5.2)]
 - Extravasation and Tissue Injury [see Warnings and Precautions (5.3)]
 
 ## 6.1 Clinical Trials Experience
@@ -18,7 +18,7 @@ The safety of topotecan hydrochloride for injection was evaluated in a randomize
 Table 1 shows the incidence of Grade 3 and 4 hematologic and non-hematologic adverse reactions that occurred in patients receiving topotecan hydrochloride for injection.
 
 Table 1.
-Adverse Reactions Occurring in Greater than or Equal to 5% of Patients with Ovarian Cancer in Study 039
+Adverse Reactions Occurring in Greater than or Equal to 5% of Patients With Ovarian Cancer in Study 039
 
 |  | Topotecan Hydrochloride for Injection | Paclitaxel |
 | --- | --- | --- |
@@ -53,7 +53,7 @@ The safety of topotecan hydrochloride for injection was evaluated in randomized,
 Table 2 shows the Grade 3 or 4 hematologic and non-hematologic adverse reactions in patients with SCLC.
 
 Table 2.
-Adverse Reactions Occurring in Greater than or Equal to 5% of Patients with Small Cell Lung Cancer in Study 090
+Adverse Reactions Occurring in Greater than or Equal to 5% of Patients With Small Cell Lung Cancer in Study 090
 
 | Adverse Reactions | Topotecan Hydrochloride for Injection(n = 107) | CAVc (n = 104) |
 | --- | --- | --- |
@@ -81,7 +81,7 @@ b Pain includes body pain, skeletal pain, and back pain.
 
 c CAV = cyclophosphamide, doxorubicin and vincristine.
 
-Hepatobiliary Disorders in Ovarian and Small Cell Lung Cancer
+Hepatobiliary Disorders in Ovarian and Small Cell Lung Cancer (SCLC)
 
 Based on the combined experience of 453 patients with metastatic ovarian cancer and 426 patients with SCLC treated with topotecan hydrochloride for injection, Grade 3 or 4 increases aspartate transaminase (AST) or alanine transaminase (ALT) occurred in 4% and Grade 3 or 4 elevated bilirubin occurred in less than 2%.
 
@@ -91,7 +91,7 @@ The safety of topotecan hydrochloride for injection was evaluated in a comparati
 Table 3 shows the hematologic and non-hematologic adverse reactions in patients with cervical cancer.
 
 Table 3.
-Adverse Reactions Occurring in Greater than or Equal to 5% of Patients with Cervical Cancer (Between-Arm Difference ≥ 2%)a in Study GOG 0179
+Adverse Reactions Occurring in Greater than or Equal to 5% of Patients With Cervical Cancer (Between-Arm Difference ≥ 2%)a in Study GOG 0179
 
 | Adverse Reaction | Topotecan Hydrochloride for Injection with Cisplatin (n = 140)% | Cisplatin n = 144)% |
 | --- | --- | --- |
