@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "ANDA209470"
+  ],
+  "inn": "colchicine",
+  "labeler": "Mylan Pharmaceuticals Inc.",
+  "package_ndcs": [
+    "0378-1086-01",
+    "0378-1086-05",
+    "0378-1086-77",
+    "0378-1086-93"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "colchicine",
+      "name": "Colchicine"
+    }
+  ],
+  "setid": "85acf34c-06c6-40ea-95f4-060d5de99277",
+  "source": "dailymed"
+}
