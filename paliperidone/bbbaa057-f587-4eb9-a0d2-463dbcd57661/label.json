@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "ANDA204452"
+  ],
+  "inn": "paliperidone",
+  "labeler": "Amerigen Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "43975-349-03",
+    "43975-350-03",
+    "43975-351-03",
+    "43975-352-03"
+  ],
+  "products": [
+    {
+      "form": "TABLET, EXTENDED RELEASE",
+      "generic": "paliperidone",
+      "name": "PALIPERIDONE"
+    }
+  ],
+  "setid": "bbbaa057-f587-4eb9-a0d2-463dbcd57661",
+  "source": "dailymed"
+}
