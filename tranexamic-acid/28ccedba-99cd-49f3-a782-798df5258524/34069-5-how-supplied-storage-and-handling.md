@@ -1,8 +1,8 @@
 # HOW SUPPLIED
 
-Tranexamic Acid Injection is a clear, colorless solution.
+Tranexamic Acid Injection, USP is a clear, colorless solution.
 
-Tranexamic Acid Injection, 1000 mg/10 mL (100 mg/mL) Single-use Vial (NDC 23155-166-31), 10 Vials packaged in a carton (NDC 23155-166-41).
+Tranexamic Acid Injection, USP, 1000 mg/10 mL (100 mg/mL) Single-dose Vial (NDC 23155-166-31), 10 Vials packaged in a carton (NDC 23155-166-41).
 
 STORAGE
 
@@ -10,7 +10,7 @@ Store at 20째 to 25째C (68째 to 77째F); excursions permitted between 15째 to 30�
 
 Rx only
 
-Manufactured for:
+Distributed by:
 
 Heritage Pharmaceuticals Inc.
 
@@ -21,4 +21,4 @@ East Brunswick, NJ 08816
 Made In India
 
 Rev.
-10/17
+07/19

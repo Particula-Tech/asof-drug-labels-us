@@ -2,7 +2,7 @@
 
 NDC 23155-166-31
 
-TRANEXAMIC ACID Injection
+Tranexamic Acid Injection, USP
 
 1000 mg/10 mL
 
@@ -12,13 +12,13 @@ Intravenous Injection
 
 Rx only
 
-10 mL Single-use Vial
+10 mL Single-Dose Vial
 
 # Principal display panel-carton
 
 NDC 23155-166-41
 
-TRANEXAMIC ACID Injection
+Tranexamic Acid Injection, USP
 
 1000 mg/10 mL
 
@@ -28,4 +28,4 @@ Intravenous Injection
 
 Rx only
 
-10 x10 mL Single-use Vials
+10 x10 mL Single-Dose Vials

@@ -1,6 +1,6 @@
 # CONTRAINDICATIONS
 
-Tranexamic acid injection is contraindicated:
+Tranexamic acid injection, USP is contraindicated:
 
 1. In patients with acquired defective color vision, since this prohibits measuring one endpoint that should be followed as a measure of toxicity (see WARNINGS).
 2. In patients with subarachnoid hemorrhage.
