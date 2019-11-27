@@ -1,11 +1,3 @@
-Pacific Pharma®
+# PRINCIPAL DISPLAY PANEL
 
-NDC 60758-773-05
-
-KETOROLAC TROMETHAMINE ophthalmic solution, 0.4%
-
-5mL
-
-sterile
-
-Rx only
+NDC 60758-773-05 Ketorolac Tromethamine ophthalmic solution, 0.4% 5 mL Sterile Rx Only

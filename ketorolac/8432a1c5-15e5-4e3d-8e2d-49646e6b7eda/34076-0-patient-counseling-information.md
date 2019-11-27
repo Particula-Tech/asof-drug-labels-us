@@ -1,0 +1,40 @@
+# 17 PATIENT COUNSELING INFORMATION
+
+Slow or Delayed Healing
+
+Inform patients of the possibility that slow or delayed healing may occur while using nonsteroidal anti-inflammatory drugs (NSAIDs).
+
+Avoiding Contamination of the Product
+
+Instruct patients to avoid allowing the tip of the bottle to contact the eye or surrounding structures because this could cause the tip to become contaminated by common bacteria known to cause ocular infections.
+Serious damage to the eye and subsequent loss of vision may result from using contaminated solutions.
+
+Also, to avoid the potential for cross-contamination, the patient should be advised to use one bottle for each eye following bilateral ocular surgery.
+The use of the same bottle of topical eye drops for both eyes following bilateral ocular surgery is not recommended.
+
+Contact Lens Wear
+
+Advise patients that ketorolac tromethamine solution should not be administered while wearing contact lenses.
+
+Intercurrent Ocular Conditions
+
+Advise patients that if they develop an intercurrent ocular condition (e.g., trauma or infection) or have ocular surgery, they should immediately seek their physician’s advice concerning the continued use of ketorolac tromethamine ophthalmic solution.
+
+Concomitant Topical Ocular Therapy
+
+Advise patients that if more than one topical ophthalmic medication is being used, the medicines should be administered at least 5 minutes apart.
+
+© 2019 Allergan.
+All rights reserved.
+
+All trademarks are the property of their respective owners.
+
+Patented: See: www.allergan.com/products/patents
+
+Distributed for
+
+Allergan USA, Inc.
+
+Madison, NJ 07940
+
+v1.0USPI0773
