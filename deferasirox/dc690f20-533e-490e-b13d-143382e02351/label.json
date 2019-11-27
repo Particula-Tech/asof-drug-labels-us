@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "ANDA210920"
+  ],
+  "inn": "deferasirox",
+  "labeler": "Bionpharma Inc.",
+  "package_ndcs": [
+    "69452-159-13",
+    "69452-160-13",
+    "69452-161-13"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FOR SUSPENSION",
+      "generic": "deferasirox",
+      "name": "Deferasirox"
+    }
+  ],
+  "setid": "dc690f20-533e-490e-b13d-143382e02351",
+  "source": "dailymed"
+}
