@@ -6,7 +6,7 @@
 | --- | --- | --- | --- |
 | Shape/color | capsule/light yellow | capsule/white | capsule/pink |
 | Branding on capsule cap/body | “TCR” on cap and “0.5” on body | “TCR” on cap and “1” on body | “TCR” on cap and “5” on body |
-| 100 count bottle | NDC 16729-041-01 | NDC 16729-042-01 | NDC 16729-043-01 |
+| 100 count bottle comes with a child-resistant package | NDC 16729-041-01 | NDC 16729-042-01 | NDC 16729-043-01 |
 
 Store and Dispense
 
