@@ -1,19 +1,18 @@
 # 5 WARNINGS AND PRECAUTIONS
 
-## 5.1 Lack of Interchangeability between Botulinum Toxin Products
+## 5.1 Spread of Toxin Effect
 
-The potency Units of DYSPORT are specific to the preparation and assay method utilized.
-They are not interchangeable with other preparations of botulinum toxin products and, therefore, units of biological activity of DYSPORT cannot be compared to or converted into units of any other botulinum toxin products assessed with any other specific assay method [see Description (11)].
-
-## 5.2 Spread of Toxin Effect
-
-Post-marketing safety data from DYSPORT and other approved botulinum toxins suggest that botulinum toxin effects may, in some cases, be observed beyond the site of local injection.
+Postmarketing safety data from DYSPORTand other approved botulinum toxins suggest that botulinum toxin effects may, in some cases, be observed beyond the site of local injection.
 The symptoms are consistent with the mechanism of action of botulinum toxin and may include asthenia, generalized muscle weakness, diplopia, blurred vision, ptosis, dysphagia, dysphonia, dysarthria, urinary incontinence and breathing difficulties.
 These symptoms have been reported hours to weeks after injection.
 Swallowing and breathing difficulties can be life-threatening and there have been reports of death related to spread of toxin effects.
 The risk of symptoms is probably greatest in children treated for spasticity but symptoms can also occur in adults treated for spasticity and other conditions, particularly in those patients who have underlying conditions that would predispose them to these symptoms.
-In unapproved uses, including upper limb spasticity in children and approved indications, symptoms consistent with spread of toxin effect have been reported at doses comparable to or lower than the maximum recommended total dose.
-[see Use in Specific Populations (8.4)].
+In unapproved uses and approved indications, symptoms consistent with spread of toxin effect have been reported at doses comparable to or lower than the maximum recommended total dose.
+
+## 5.2 Lack of Interchangeability between Botulinum Toxin Products
+
+The potency Units of DYSPORT are specific to the preparation and assay method utilized.
+They are not interchangeable with other preparations of botulinum toxin products and, therefore, units of biological activity of DYSPORT cannot be compared to or converted into units of any other botulinum toxin products assessed with any other specific assay method [see Description (11)].
 
 ## 5.3 Hypersensitivity Reactions
 
@@ -26,30 +25,30 @@ If such a serious hypersensitivity reaction occurs, discontinue further injectio
 Treatment with DYSPORT and other botulinum toxin products can result in swallowing or breathing difficulties.
 Patients with pre-existing swallowing or breathing difficulties may be more susceptible to these complications.
 In most cases, this is a consequence of weakening of muscles in the area of injection that are involved in breathing or swallowing.
-When distant effects occur, additional respiratory muscles may be involved [see Warnings and Precautions (5.2)].
+When distant effects occur, additional respiratory muscles may be involved [see Boxed Warning and Warnings and Precautions (5.2)].
 
 Deaths as a complication of severe dysphagia have been reported after treatment with botulinum toxin.
-Dysphagia may persist for several weeks, and require use of a feeding tube to maintain adequate nutrition and hydration.
+Dysphagia may persist for several weeks and require use of a feeding tube to maintain adequate nutrition and hydration.
 Aspiration may result from severe dysphagia and is a particular risk when treating patients in whom swallowing or respiratory function is already compromised.
 
 Treatment of cervical dystonia with botulinum toxins may weaken neck muscles that serve as accessory muscles of ventilation.
 This may result in a critical loss of breathing capacity in patients with respiratory disorders who may have become dependent upon these accessory muscles.
 There have been post-marketing reports of serious breathing difficulties, including respiratory failure.
 Patients treated with botulinum toxin may require immediate medical attention should they develop problems with swallowing, speech or respiratory disorders.
-These reactions can occur within hours to weeks after injection with botulinum toxin [see Warnings and Precautions (5.2), Adverse Reactions (6.1), Clinical Pharmacology (12.2)].
+These reactions can occur within hours to weeks after injection with botulinum toxin [see Boxed Warning, Warnings and Precautions (5.2), Adverse Reactions (6.1), Clinical Pharmacology (12.2)].
 
 ## 5.5 Facial Anatomy in the Treatment of Glabellar Lines
 
-Caution should be exercised when administering DYSPORT to patients with surgical alterations to the facial anatomy, excessive weakness or atrophy in the target muscle(s), marked facial asymmetry, inflammation at the injection site(s), ptosis, excessive dermatochalasis, deep dermal scarring, thick sebaceous skin [see Dosage and Administration (2.3)] or the inability to substantially lessen glabellar lines by physically spreading them apart [see Clinical Studies (14.2)].
+Caution should be exercised when administering DYSPORT to patients with surgical alterations to the facial anatomy, excessive weakness or atrophy in the target muscle(s), marked facial asymmetry, inflammation at the injection site(s), ptosis, excessive dermatochalasis, deep dermal scarring, thick sebaceous skin [see Dosage and Administration (2.4)] or the inability to substantially lessen glabellar lines by physically spreading them apart [see Clinical Studies (14.2)].
 
 Do not exceed the recommended dosage and frequency of administration of DYSPORT.
 In clinical trials, subjects who received a higher dose of DYSPORT had an increased incidence of eyelid ptosis.
 
 ## 5.6 Dry Eye with the Treatment of Glabellar Lines
 
-Dry eye has been reported with the use of DYSPORT in the treatment of glabellar lines [see Adverse Reactions (6.2)].
+Dry eye has been reported with the use of DYSPORT in the treatment of glabellar lines [see Adverse Reactions (6.3)].
 Reduced tear production, reduced blinking, and corneal disorders, may occur with use of botulinum toxins, including DYSPORT.
-If symptoms of dry eye (e.g., eye irritation, photophobia, or visual changes) persist, consider referring patient to an opththalmologist [see Warnings and Precautions 5.2].
+If symptoms of dry eye (e.g., eye irritation, photophobia, or visual changes) persist, consider referring patient to an opththalmologist [see Boxed Warning and Warnings and Precautions 5.2].
 
 ## 5.7 Pre-existing Neuromuscular Disorders
 

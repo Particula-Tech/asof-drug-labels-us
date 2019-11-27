@@ -8,7 +8,7 @@ DYSPORT produced embryo-fetal toxicity in relation to maternal toxicity when giv
 In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2-4% and 15-20%, respectively.
 The background risk of major birth defects and miscarriage for the indicated population is unknown.
 
-Data In a study in which pregnant rats received daily intramuscular injections of DYSPORT (2.2, 6.6, or 22 Units/kg on gestation days 6 through 17 or intermittently 44 Units/kg on gestation days 6 and 12 only) during organogenesis, increased early embryonic death was observed with both schedules at the highest tested doses (22 and 44 Units/kg), which were associated with maternal toxicity.
+Data Animal Data In a study in which pregnant rats received daily intramuscular injections of DYSPORT (2.2, 6.6, or 22 Units/kg on gestation days 6 through 17 or intermittently 44 Units/kg on gestation days 6 and 12 only) during organogenesis, increased early embryonic death was observed with both schedules at the highest tested doses (22 and 44 Units/kg), which were associated with maternal toxicity.
 The no-effect dose for embryo-fetal developmental toxicity was 2.2 Units/kg (less than maximum recommended human [MRHD] on a body weight basis).
 
 In a study in which pregnant rabbits received daily intramuscular injections of DYSPORT® (0.3, 3.3 or 6.7 Units/kg) on gestation days 6 through 19 or intermittently (13.3 Units/kg on gestation days 6 and 13 only) during organogenesis, no embryofetal data were available at the highest dose administered daily (6.7 Units/kg) because of premature death in all does at that dose.
@@ -28,27 +28,32 @@ The development and health benefits of breastfeeding should be considered along 
 
 Infertility
 
-In rats, DYSPORT produced adverse effects on mating behavior and fertility [see Carcinogenesis, Mutagenesis, Impairment of Fertility (13.1)].
+In rats, DYSPORT produced adverse effects on mating behavior and fertility [see Nonclinical Toxicology (13.1)].
 
 ## 8.4 Pediatric Use
 
 Cervical Dystonia
 
-Safety and effectiveness in pediatric patients have not been established [see Warnings and Precautions (5.2)].
+Safety and effectiveness in pediatric patients have not been established [see Boxed Warning and Warnings and Precautions (5.2)].
 
 Glabellar Lines
 
 DYSPORT is not recommended for use in pediatric patients less than 18 years of age.
 
-Upper Limb Spasticity
+Upper Limb Spasticity, Excluding Spasticity Caused by Cerebral Palsy
 
-Safety and effectiveness in pediatric patients have not been established [see Warnings and Precautions (5.2)].
+Safety and effectiveness have been established in pediatric patients 2 years of age and older [see Warnings and Precautions (5.1), Adverse Reactions (6.1), and Clinical Studies (14.4)].
+The safety and effectiveness of DYSPORT have been established by evidence from adequate and well-controlled studies of DYSPORT in patients 2 years of age and older with upper limb spasticity.
+A pediatric assessment for DYSPORT demonstrates that DYSPORT is safe and effective in another pediatric population.
+However, DYSPORT is not approved for such patient population due to marketing exclusivity for another botulinum toxin.
+Safety and effectiveness in pediatric patients below the age of 2 years have not been established [see Boxed Warning and Warnings and Precautions (5.2)].
 
 Lower Limb Spasticity in Pediatric Patients
 
-The safety and effectiveness of DYSPORT injected into proximal muscles of the lower limb for the treatment of spasticity in pediatric patients has not been established [see Warnings and Precautions (5.2) and Adverse Reactions (6.1)].
-
-Safety and effectiveness in pediatric patients with lower limb spasticity below 2 years of age have not been evaluated [see Warnings and Precautions (5.2)].
+Safety and effectiveness have been established in pediatric patients 2 years of age and older [see Warnings and Precautions (5.1), Adverse Reactions (6.1), and Clinical Studies (14.4)].
+The safety and effectiveness of DYSPORT have been established by evidence from adequate and well-controlled studies of DYSPORT in patients 2 years of age and older with lower limb spasticity.
+The safety and effectiveness of DYSPORT injected into proximal muscles of the lower limb for the treatment of spasticity in pediatric patients has not been established [see Boxed Warning, Warnings and Precautions (5.2) and Adverse Reactions (6.1)].
+Safety and effectiveness in pediatric patients below the age of 2 years have not been established [see Boxed Warning, Warnings and Precautions (5.2)]
 
 Juvenile Animal Data
 
@@ -65,13 +70,13 @@ Therefore, the effects of DYSPORT throughout postnatal development were not adeq
 Cervical Dystonia
 
 There were insufficient numbers of patients aged 65 years and over in the clinical studies to determine whether they respond differently than younger patients.
-In general, elderly patients should be observed to evaluate their tolerability of DYSPORT, due to the greater frequency of concomitant disease and other drug therapy [see Dosage and Administration (2.1)].
+In general, elderly patients should be observed to evaluate their tolerability of DYSPORT, due to the greater frequency of concomitant disease and other drug therapy [see Dosage and Administration (2.3)].
 
 Glabellar Lines
 
 Of the total number of subjects in the placebo-controlled clinical studies of DYSPORT, 8 (1%) were 65 years and over.
 Efficacy was not observed in subjects aged 65 years and over [see Clinical Studies (14.2)].
-For the entire safety database of geriatric subjects, although there was no increase in the incidence of eyelid ptosis, geriatric subjects did have an increase in the number of ocular adverse reactions compared to younger subjects (11% vs. 5%) [see Dosage and Administration (2.2)].
+For the entire safety database of geriatric subjects, although there was no increase in the incidence of eyelid ptosis, geriatric subjects did have an increase in the number of ocular adverse reactions compared to younger subjects (11% vs. 5%) [see Dosage and Administration (2.4)].
 
 Adult Spasticity Upper Limb Spasticity
 

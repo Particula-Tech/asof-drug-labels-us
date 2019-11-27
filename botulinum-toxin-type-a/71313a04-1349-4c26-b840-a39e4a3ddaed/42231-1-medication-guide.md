@@ -26,20 +26,20 @@ What is DYSPORT?
 
 DYSPORT is a prescription medicine that is injected into muscles and used:
 
-• to treat cervical dystonia (CD) in adults • to improve the look of moderate to severe frown lines between the eyebrows (glabellar lines) in adults younger than 65 years of age for a short period of time (temporary) • to treat increased muscle stiffness in adults with spasticity • to treat increased muscle stiffness in children 2 years of age and older with lower limb spasticity.
+- to treat cervical dystonia (CD) in adults
+- to improve the look of moderate to severe frown lines between the eyebrows (glabellar lines) in adults younger than 65 years of age for a short period of time (temporary)
+- to treat increased muscle stiffness in adults with spasticity
+- to treat increased muscle stiffness in children 2 years of age and older with upper limb spasticity, excluding spasticity caused by cerebral palsy
+- to treat increased muscle stiffness in children 2 years of age and older with lower limb spasticity
 
-CD is caused by muscle spasms in the neck.
-These spasms cause abnormal position of the head and often neck pain.
-After DYSPORT is injected into muscles; those muscles are weakened for up to 12 to 16 weeks or longer.
-This may help lessen your symptoms.
-Frown lines (wrinkles) happen because the muscles that control facial expression are used often (muscle tightening over and over).
-After DYSPORT is injected into the muscles that control facial expression, the medicine stops the tightening of these muscles for up to 4 months.
+It is not known whether DYSPORT is safe or effective in people younger than:
 
-Upper limb spasticity in adults is caused by muscle spasms in the elbow, wrist, and finger muscles.
-Lower limb spasticity in adults is caused by muscle spasms in the toe and ankle muscles.
-These spasms cause an abnormal position of these muscles.
-After DYSPORT is injected into the muscles, those muscles are weakened for up to 12 to 16 weeks or longer.
-This may help lessen your symptoms
+- 18 years of age for the treatment of cervical dystonia
+- 18 years of age for the treatment of glabellar lines
+- 2 years of age for the treatment of spasticity
+
+It is not known whether DYSPORT is safe or effective for the treatment of other types of muscle spasms.
+It is not known whether DYSPORT is safe or effective for the treatment of other wrinkles.
 
 Lower limb spasticity in children is caused by muscle spasms in calf muscles.
 These spasms cause an abnormal position of these muscles.
@@ -50,8 +50,13 @@ This may help lessen your symptoms.
 
 Who should not take DYSPORT?
 
-Do not take DYSPORT if you: • are allergic to DYSPORT or any of the ingredients in DYSPORT.
-See the end of this Medication Guide for a list of ingredients in DYSPORT • are allergic to cow's milk protein • had an allergic reaction to any other botulinum toxin product such as Myobloc® (rimabotulinumtoxinB), Botox® (onabotulinumtoxinA), or Xeomin® (incobotulinumtoxinA). • have a skin infection at the planned injection site
+Do not take DYSPORT if you:
+
+- are allergic to DYSPORT or any of the ingredients in DYSPORT.
+  See the end of this Medication Guide for a list of ingredients in DYSPORT
+- are allergic to cow's milk protein
+- had an allergic reaction to any other botulinum toxin product such as Myobloc® (rimabotulinumtoxinB), Botox® (onabotulinumtoxinA), or Xeomin® (incobotulinumtoxinA)
+- have a skin infection at the planned injection site
 
 What should I tell my doctor before taking DYSPORT?
 Tell your doctor about all your medical conditions, including if you:
@@ -94,16 +99,16 @@ Ask your doctor if you are not sure if your medicine is one that is listed above
 Know the medicines you take.
 Keep a list of your medicines with you to show your doctor and pharmacist each time you get a new medicine.
 
-How should I take DYSPORT?
+How will I receive DYSPORT?
 
 - DYSPORT is an injection that your doctor will give you
 - DYSPORT is injected into the affected muscles
 - If you are and adult, your doctor may give you another dose of DYSPORT after 12 weeks or longer, if it is needed
-- If you are an adult being treated for CD or spasticity or you are a child (2 to 17 years of age) being treated for lower limb spasticity, your doctor may change your dose of DYSPORT, until you and your doctor find the best dose for you.
-  Children should not be retreated sooner than every 12 weeks.
+- If you are an adult being treated for CD or spasticity or you are a child (2 to 17 years of age) being treated for spasticity, your doctor may change your dose of DYSPORT, until you and your doctor find the best dose for you.
+  Children should not be retreated sooner than every 12 - 16 weeks.
 - The dose of DYSPORT is not the same as the dose of any other botulinum toxin product
 
-What should I avoid while taking DYSPORT?
+What should I avoid while receiving DYSPORT?
 
 DYSPORT may cause loss of strength or general muscle weakness, blurred vision, or drooping eyelids within hours to weeks of taking DYSPORT.
 If this happens, do not drive a car, operate machinery, or do other dangerous activities.
@@ -123,6 +128,7 @@ The most common side effects of DYSPORT in people with cervical dystonia include
 - problems speaking
 - eye problems
 - difficulty swallowing
+- injection site pain or discomfort
 - headache
 
 The most common side effects of DYSPORT in people with glabellar lines include:
@@ -140,19 +146,21 @@ The most common side effects of DYSPORT in people with glabellar lines include:
 
 The most common side effects of DYSPORT in adults with upper limb spasticity include:
 
-• urinary tract infection • muscle weakness • musculoskeletal pain • fall • depression • stuffy or runny nose and sore throat • dizziness
+• muscle weakness
 
 The most common side effects of DYSPORT in adults with lower limb spasticity include:
 
 - muscle weakness
 - pain in your arms or legs
-- fall
+
+The most common side effects of DYSPORT in children (2 to 17 years of age) with upper limb spasticity include:
+
+- upper respiratory tract infection
+- sore throat
 
 The most common side effects of DYSPORT in children (2 to 17 years of age) with lower limb spasticity include:
 
-- upper respiratory infection
 - stuffy or runny nose and sore throat
-- flu
 - cough
 - fever
 
@@ -178,10 +186,10 @@ What are the ingredients in DYSPORT?
 Active ingredient: (botulinum toxin Type A) Inactive ingredients: human albumin and lactose.
 DYSPORT may contain cow's milk protein.
 
-Distributed by: Ipsen Biopharmaceuticals, Inc. Basking Ridge, NJ 07920 and Galderma Laboratories, L.P.
+Distributed by: Ipsen Biopharmaceuticals, Inc. Cambridge, MA 02142 and Galderma Laboratories, L.P.
 Fort Worth, TX 76177; Manufactured by: Ipsen Biopharma Ltd., Wrexham, LL13 9UF, UK U.S. License No. 1787 For more information about DYSPORT, call 855-463-5127 or go to www.dysport.com or www.DysportUSA.com.
 This Medication Guide has been approved by the U.S. Food and Drug Administration
 
-Revised 1/2019 DYSPORT is a registered trademark of Ipsen Biopharm Limited.
+Revised 9/2019 DYSPORT is a registered trademark of Ipsen Biopharm Limited.
 Botox, Xeomin and Myobloc are registered trademarks of their respective owners. © 2019.
 All rights reserved.
