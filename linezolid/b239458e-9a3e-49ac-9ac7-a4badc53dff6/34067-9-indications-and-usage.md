@@ -11,7 +11,7 @@ Community-acquired pneumonia caused by Streptococcus pneumoniae, including cases
 
 ## 1.2 Skin and Skin Structure Infections
 
-Complicated skin and skin structure infections, including diabetic foot infections, without concomitant osteomyelitis, caused by Staphylococcus aureus (methicillin-susceptible and -resistant isolates), Streptococcus pyogenes, or Streptococcus agalactiae.
+Complicated skin and skin structure infections, including diabetic foot infections, without concomitant osteomyelitis, caused by Staphylococcus aureus (methicillin-susceptible and resistant isolates), Streptococcus pyogenes, or Streptococcus agalactiae.
 Linezolid has not been studied in the treatment of decubitus ulcers [see Clinical Studies (14)].
 Uncomplicated skin and skin structure infections caused by Staphylococcus aureus (methicillin-susceptible isolates only) or Streptococcus pyogenes [see Clinical Studies (14)].
 
@@ -21,7 +21,7 @@ Vancomycin-resistant Enterococcus faecium infections, including cases with concu
 
 ## 1.4 Usage
 
-To reduce the development of drug-resistant bacteria and maintain the effectiveness of linezolid and other antibacterial drugs, linezolid should be used only to treat or prevent infections that are proven or strongly suspected to be caused by susceptible bacteria.
+To reduce the development of drug-resistant bacteria and maintain the effectiveness of linezolid and other antibacterial drugs, linezolid should be used only to treat infections that are proven or strongly suspected to be caused by susceptible bacteria.
 When culture and susceptibility information are available, they should be considered in selecting or modifying antibacterial therapy.
 In the absence of such data, local epidemiology and susceptibility patterns may contribute to the empiric selection of therapy.
 The safety and efficacy of linezolid given for longer than 28 days have not been evaluated in controlled clinical trials.

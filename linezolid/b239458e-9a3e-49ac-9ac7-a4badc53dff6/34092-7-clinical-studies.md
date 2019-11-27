@@ -9,11 +9,12 @@ Injection 600 mg every 12 hours, and the other group received vancomycin 1 g eve
 Both groups received concomitant aztreonam (1 to 2 g every 8 hours intravenously), which could be continued if clinically indicated.
 There were 203 linezolid-treated and 193 vancomycin-treated patients enrolled in the study.
 One hundred twenty-two (60%) linezolid-treated patients and 103 (53%) vancomycin-treated patients were clinically evaluable.
-The cure rates in clinically evaluable patients were 57% for linezolid-treated patients and 60% for vancomycin¬-treated patients.
+The cure rates in clinically evaluable patients were 57% for linezolid-treated patients and 60% for vancomycin­-treated patients.
 The cure rates in clinically evaluable patients with ventilator-associated pneumonia were 47% for linezolid-treated patients and 40% for vancomycin-treated patients.
 A modified intent-to-treat (MITT) analysis of 94 linezolid-treated patients and 83 vancomycin-treated patients included subjects who had a pathogen isolated before treatment.
-The cure rates in the MITT analysis were 57% in linezolid-treated patients and 46% in vancomycin¬treated patients.
+The cure rates in the MITT analysis were 57% in linezolid-treated patients and 46% in vancomycin­treated patients.
 The cure rates by pathogen for microbiologically evaluable patients are presented in Table 14.
+
 Table 14.
 Cure Rates at the Test-of-Cure Visit for Microbiologically Evaluable Adult Patients with Nosocomial Pneumonia
 
@@ -24,7 +25,9 @@ Cure Rates at the Test-of-Cure Visit for Microbiologically Evaluable Adult Patie
 | Methicillin-resistant S. aureus | 13/22 (59) | 7/10 (70) |
 | Streptococcus pneumoniae | 9/9 (100) | 9/10 (90) |
 
-Complicated Skin and Skin Structure Infections Adult patients with clinically documented complicated skin and skin structure infections were enrolled in a randomized, multi-center, double-blind, double-dummy trial comparing study medications administered intravenously followed by medications given orally for a total of 10 to 21 days of treatment.
+Complicated Skin and Skin Structure Infections
+
+Adult patients with clinically documented complicated skin and skin structure infections were enrolled in a randomized, multi-center, double-blind, double-dummy trial comparing study medications administered intravenously followed by medications given orally for a total of 10 to 21 days of treatment.
 One group of patients received linezolid I.V.
 Injection 600 mg every 12 hours followed by linezolid tablets 600 mg every 12 hours; the other group received oxacillin 2 g every 6 hours intravenously followed by dicloxacillin 500 mg every 6 hours orally.
 Patients could receive concomitant aztreonam if clinically indicated.
@@ -68,6 +71,7 @@ A critical post-hoc analysis focused on 121 linezolid-treated and 60 comparator-
 Based upon that analysis, the cure rates were 71% (86/121) in the linezolid-treated patients and 63% (38/60) in the comparator-treated patients.
 None of the above analyses were adjusted for the use of adjunctive therapies.
 The cure rates by pathogen for microbiologically evaluable patients are presented in Table16.
+
 Table 16.
 Cure Rates at the Test-of-Cure Visit for Microbiologically Evaluable Adult Patients with Diabetic Foot Infections
 
@@ -78,13 +82,16 @@ Cure Rates at the Test-of-Cure Visit for Microbiologically Evaluable Adult Patie
 | Methicillin-resistant S. aureus | 12/17 (71) | 2/3 (67) |
 | Streptococcus agalactiae | 25/29 (86) | 9/16 (56) |
 
-Vancomycin-Resistant Enterococcal Infections Adult patients with documented or suspected vancomycin-resistant enterococcal infection were enrolled in a randomized, multi-center, double-blind trial comparing a high dose of linezolid (600 mg) with a low dose of linezolid (200 mg) given every 12 hours either intravenously (IV) or orally for 7 to 28 days.
+Vancomycin-Resistant Enterococcal Infections
+
+Adult patients with documented or suspected vancomycin-resistant enterococcal infection were enrolled in a randomized, multi-center, double-blind trial comparing a high dose of linezolid (600 mg) with a low dose of linezolid (200 mg) given every 12 hours either intravenously (IV) or orally for 7 to 28 days.
 Patients could receive concomitant aztreonam or aminoglycosides.
 There were 79 patients randomized to high-dose linezolid and 66 to low-dose linezolid.
 The intent-to-treat (ITT) population with documented vancomycin-resistant enterococcal infection at baseline consisted of 65 patients in the high-dose arm and 52 in the low-dose arm.
 The cure rates for the ITT population with documented vancomycin-resistant enterococcal infection at baseline are presented in Table 17 by source of infection.
 These cure rates do not include patients with missing or indeterminate outcomes.
 The cure rate was higher in the high-dose arm than in the low-dose arm, although the difference was not statistically significant at the 0.05 level.
+
 Table 17.
 Cure Rates at the Test-of-Cure Visit for ITT Adult Patients with Documented Vancomycin-Resistant Enterococcal Infections at Baseline
 
