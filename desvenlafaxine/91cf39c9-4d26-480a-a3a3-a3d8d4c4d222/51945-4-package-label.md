@@ -1,9 +1,10 @@
 # PACKAGE LABEL.PRINCIPAL DISPLAY PANEL- 50 mg
 
-NDC 63304-191-30 DESVENLAFAXINE EXTENDED-RELEASE TABLETS 50 mg PHARMACIST: Dispense the accompanying Medication Guide to each patient.
-SUN PHARMA Rx only 30 Tablets
+Desvenlafaxine Extended-Release Tablets 50 mg (30 Tablets in 1 Bottle) Each tablet contains 50 mg desvenlafaxine.
+63304-191-30
 
 # PACKAGE LABEL.PRINCIPAL DISPLAY PANEL- 100 mg
 
-NDC 63304-192-30 DESVENLAFAXINE EXTENDED-RELEASE TABLETS 100 mg PHARMACIST: Dispense the accompanying Medication Guide to each patient.
-SUN PHARMA Rx only 30 Tablets
+Desvenlafaxine Extended-Release Tablets 100 mg (30 Tablets in 1 Bottle) Each tablet contains 100 mg desvenlafaxine.
+
+63304-192-30
