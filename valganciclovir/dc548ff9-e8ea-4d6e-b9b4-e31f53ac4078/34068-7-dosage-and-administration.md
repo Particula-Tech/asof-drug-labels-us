@@ -34,7 +34,7 @@ The k values used in the modified Schwartz formula are based on pediatric patien
 
 | Schwartz Creatinine Clearance (mL / min / 1.73m2) = | k × Height (cm) |  |
 | --- | --- | --- |
-| Serum Creatinine(mg / dL) |  |  |
+| Serum Creatinine (mg / dL) |  |  |
 
 Table 1 k Values According to Pediatric Patient AgeThe k values provided are based on the Jaffe method of measuring serum creatinine, and may require correction when enzymatic methods are used1.
 
