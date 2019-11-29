@@ -188,7 +188,7 @@ Insert one implant into the cannula (Figure 8), re-insert the obturator, and gen
 Do not force the implant beyond the end of the cannula with the obturator.
 There should be at least 5 mm between the incision and the implant when the implant is properly positioned.
 
-Figure 8 Figure 9
+Figure 8Figure 9
 
 Step 17.
 While holding the obturator fixed in place on the arm, retract the cannula along the obturator, leaving the implant in place (Figure 10).
@@ -349,7 +349,7 @@ Use the technique of spreading and closing with either the iris scissors or mosq
 If the implant is encapsulated use the scalpel to shave the tissue sheath and carefully dissect the tissue around the implant.
 The implant can then be removed.
 
-Figure 15 Figure 16 Step 12.
+Figure 15Figure 16 Step 12.
 Retract the next visible implant toward the incisional opening.
 You may see tenting of the skin at this point if the surrounding tissue is still adhering to the implant.
 Maintain gentle traction on the implant while you continue to dissect proximally and distally until the implant is free of all adhering tissue.
