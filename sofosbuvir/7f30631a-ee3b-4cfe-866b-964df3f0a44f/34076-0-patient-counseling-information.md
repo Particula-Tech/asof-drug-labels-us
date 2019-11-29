@@ -9,7 +9,7 @@ Advise patients to tell their healthcare provider if they have a history of HBV 
 
 Serious Symptomatic Bradycardia When Coadministered with Amiodarone
 
-Advise patients to seek medical evaluation immediately for symptoms of bradycardia such as near-fainting or fainting, dizziness or lightheadedness, malaise, weakness, excessive tiredness, shortness of breath, chest pain, confusion or memory problems [see Warnings and Precautions (5.2), Adverse Reactions (6.2), and Drug Interactions (7.3)].
+Advise patients to seek medical evaluation immediately for symptoms of bradycardia such as near-fainting or fainting, dizziness or lightheadedness, malaise, weakness, excessive tiredness, shortness of breath, chest pain, confusion, or memory problems [see Warnings and Precautions (5.2), Adverse Reactions (6.2), and Drug Interactions (7.3)].
 
 Drug Interactions
 
@@ -25,3 +25,11 @@ Pregnancy
 
 Advise patients to avoid pregnancy during combination treatment with EPCLUSA and ribavirin and for 6 months after completion of treatment.
 Inform patients to notify their healthcare provider immediately in the event of a pregnancy [see Use in Specific Populations (8.1)].
+
+Manufactured and distributed by: Gilead Sciences, Inc. Foster City, CA 94404
+
+EPCLUSA, ATRIPLA, COMPLERA, GENVOYA, HARVONI, and STRIBILD are trademarks of Gilead Sciences, Inc., or its related companies.
+All other trademarks referenced herein are the property of their respective owners.
+
+© 2019 Gilead Sciences, Inc. All rights reserved.
+208341-GS-006

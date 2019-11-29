@@ -37,9 +37,9 @@ Due to amiodarone's long half-life, patients discontinuing amiodarone just prior
 Patients who develop signs or symptoms of bradycardia should seek medical evaluation immediately.
 Symptoms may include near-fainting or fainting, dizziness or lightheadedness, malaise, weakness, excessive tiredness, shortness of breath, chest pains, confusion, or memory problems [see Adverse Reactions (6.2) and Drug Interactions (7.3)].
 
-## 5.3 Risk of Reduced Therapeutic Effect Due to Concomitant Use of EPCLUSA with Inducers of P-gp and/or Moderate to Potent Inducers of CYP
+## 5.3 Risk of Reduced Therapeutic Effect Due to Concomitant Use of EPCLUSA with Inducers of P-gp and/or Moderate to Strong Inducers of CYP
 
-Drugs that are inducers of P-gp and/or moderate to potent inducers of CYP2B6, CYP2C8, or CYP3A4 (e.g., rifampin, St. John's wort, carbamazepine) may significantly decrease plasma concentrations of sofosbuvir and/or velpatasvir, leading to potentially reduced therapeutic effect of EPCLUSA.
+Drugs that are inducers of P-gp and/or moderate to strong inducers of CYP2B6, CYP2C8, or CYP3A4 (e.g., rifampin, St. John's wort, carbamazepine) may significantly decrease plasma concentrations of sofosbuvir and/or velpatasvir, leading to potentially reduced therapeutic effect of EPCLUSA.
 The use of these agents with EPCLUSA is not recommended [see Drug Interactions (7.3)].
 
 ## 5.4 Risks Associated with Ribavirin and EPCLUSA Combination Treatment

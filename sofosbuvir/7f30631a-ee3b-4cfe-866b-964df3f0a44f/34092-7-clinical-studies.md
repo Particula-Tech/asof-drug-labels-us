@@ -3,18 +3,19 @@
 ## 14.1 Description of Clinical Trials
 
 Table 9 presents the clinical trial design including different treatment groups that were conducted with EPCLUSA with and without ribavirin in subjects with chronic hepatitis C (HCV) genotype 1, 2, 3, 4, 5, and 6 infection.
-For detailed description of trial design and recommended regimen and duration [see Dosage and Administration (2) and Clinical Studies (14.2, 14.3, and 14.4)].
+For detailed description of trial design and recommended regimen and duration [see Dosage and Administration (2) and Clinical Studies (14.2, 14.3, 14.4, and 14.5)].
 
 Table 9 Trials Conducted with EPCLUSA in Subjects with Genotype 1, 2, 3, 4, 5, or 6 HCV Infection
 
 | Trial | Population | EPCLUSA and Comparator Groups (Number of Subjects Treated) |
 | --- | --- | --- |
-| ASTRAL-1 | Genotype 1, 2, 4, 5, and 6 TN and TE, without cirrhosis or with compensated cirrhosis | EPCLUSA 12 weeks (624) Placebo 12 weeks (116) |
-| ASTRAL-2 | Genotype 2 TN and TE, without cirrhosis or with compensated cirrhosis | EPCLUSA 12 weeks (134) SOF + RBV 12 weeks (132) |
-| ASTRAL-3 | Genotype 3 TN and TE, without cirrhosis or with compensated cirrhosis | EPCLUSA 12 weeks (277) SOF + RBV 24 weeks (275) |
-| ASTRAL-4 | Genotype 1, 2, 3, 4, 5, and 6 TN and TE, with CP class B decompensated cirrhosis | EPCLUSA 12 weeks (90) EPCLUSA + RBV 12 weeks (87) EPCLUSA 24 weeks (90) |
-| ASTRAL-5 | Genotype 1, 2, 3, 4, 5, and 6 HCV/HIV-1 coinfected TN and TE, without cirrhosis or with compensated cirrhosis | EPCLUSA 12 weeks (106) |
-| TN = treatment-naïve subjects; TE = treatment-experienced subjects are those who have failed a peginterferon alfa/ribavirin based regimen with or without an HCV protease inhibitor (boceprevir, simeprevir, or telaprevir); SOF = sofosbuvir; RBV = ribavirin; CP = Child-Pugh. |  |  |
+| ASTRAL-1 Double-blind, placebo-controlled. (NCT02201940) | Genotype 1, 2, 4, 5, and 6 TN and TE, without cirrhosis or with compensated cirrhosis | EPCLUSA 12 weeks (624) Placebo 12 weeks (116) |
+| ASTRAL-2 Open-label. (NCT02220998) | Genotype 2 TN and TE TE = treatment-experienced subjects are those who have failed a peginterferon alfa/ribavirin based regimen with or without an HCV protease inhibitor (boceprevir, simeprevir, or telaprevir)., without cirrhosis or with compensated cirrhosis | EPCLUSA 12 weeks (134) SOF + RBV 12 weeks (132) |
+| ASTRAL-3 (NCT02201953) | Genotype 3 TN and TE, without cirrhosis or with compensated cirrhosis | EPCLUSA 12 weeks (277) SOF + RBV 24 weeks (275) |
+| ASTRAL-4 (NCT02201901) | Genotype 1, 2, 3, 4, 5, and 6 TN and TE, with CP class B decompensated cirrhosis | EPCLUSA 12 weeks (90) EPCLUSA + RBV 12 weeks (87) EPCLUSA 24 weeks (90) |
+| ASTRAL-5 (NCT02480712) | Genotype 1, 2, 3, 4, 5, and 6 HCV/HIV-1 coinfected TN and TE, without cirrhosis or with compensated cirrhosis | EPCLUSA 12 weeks (106) |
+| 4062 (NCT03036852) | Genotype 1, 2, 3, 4, and 6 TN and TE TE = treatment-experienced subjects are those who have failed a peginterferon alfa/ribavirin or interferon/ribavirin based regimen. without cirrhosis or with compensated cirrhosis, with ESRD requiring dialysis | EPCLUSA 12 weeks (59) |
+| TN = treatment-naïve subjects; SOF = sofosbuvir; RBV = ribavirin; CP = Child-Pugh; ESRD = End Stage Renal Disease. |  |  |
 
 The ribavirin dosage was weight-based (1000 mg daily administered in two divided doses for subjects less than 75 kg and 1200 mg for those greater than or equal to 75 kg) and administered in two divided doses when used in combination with sofosbuvir in the ASTRAL-2 and ASTRAL-3 trials or in combination with EPCLUSA in the ASTRAL-4 trial.
 Ribavirin dosage adjustments were performed according to the ribavirin prescribing information.
@@ -48,7 +49,7 @@ Table 10 Study ASTRAL-1: Virologic Outcomes by HCV Genotype in EPCLUSA-Treated S
 | Outcome for Subjects without SVR |  |  |  |  |  |  |  |  |
 | On-Treatment Virologic Failure | 0/624 | 0/210 | 0/118 | 0/328 | 0/104 | 0/116 | 0/35 | 0/41 |
 | RelapseThe denominator for relapse is the number of subjects with HCV RNA <LLOQ at their last on-treatment assessment. | <1% (2/623) | <1% (1/209) | 1% (1/118) | 1% (2/327) | 0/104 | 0/116 | 0/35 | 0/41 |
-| Other Other includes subjects who did not achieve SVR and did not meet virologic failure criteria. | 1% (4/624) | 1% (3/210) | 0/118 | 1% (3/328) | 0/104 | 0/116 | 3% (1/35) | 0/41 |
+| OtherOther includes subjects who did not achieve SVR and did not meet virologic failure criteria. | 1% (4/624) | 1% (3/210) | 0/118 | 1% (3/328) | 0/104 | 0/116 | 3% (1/35) | 0/41 |
 | GT = genotype; no subjects in the placebo group achieved SVR12. |  |  |  |  |  |  |  |  |
 
 Genotype 2 HCV Infected Adults (ASTRAL-2)
@@ -101,7 +102,7 @@ SVR12 for selected subgroups are presented in Table 13.
 
 Table 13 Study ASTRAL-3: SVR12 by Prior Treatment and Presence/Absence of Compensated Cirrhosis in Subjects with Genotype 3 HCV
 
-|  | Treatment-Naïve (N=206) | Treatment-Experienced (N=71) | Treatment-Naïve (N=201) | Treatment-Experienced (N=69) |
+| Treatment-Naïve (N=206) | Treatment-Experienced (N=71) | Treatment-Naïve (N=201) | Treatment-Experienced (N=69) |  |
 | --- | --- | --- | --- | --- |
 |  | EPCLUSA 12 Weeks |  | SOF + RBV 24 WeeksFive subjects with missing cirrhosis status in the SOF + RBV 24-week group were excluded from this subgroup analysis. |  |
 | Without cirrhosis | 98% (160/163) | 94% (31/33)One treatment-experienced subject without cirrhosis treated with EPCLUSA had genotype 1a HCV infection at failure, indicating HCV re-infection, and is therefore excluded from this analysis. | 90% (141/156) | 71% (22/31) |
@@ -110,20 +111,20 @@ Table 13 Study ASTRAL-3: SVR12 by Prior Treatment and Presence/Absence of Compen
 
 ## 14.3 Clinical Trial in Subjects Coinfected with HCV and HIV-1
 
-ASTRAL-5 was an open-label trial that evaluated 12 weeks of treatment with EPCLUSA in subjects with genotype 1, 2, 3, 4, 5 or 6 HCV infection who were coinfected with HIV-1.
+ASTRAL-5 was an open-label trial that evaluated 12 weeks of treatment with EPCLUSA in subjects with genotype 1, 2, 3, 4, 5, or 6 HCV infection who were coinfected with HIV-1.
 Subjects were on a stable HIV-1 antiretroviral therapy that included emtricitabine/tenofovir disoproxil fumarate or abacavir/lamivudine administered with atazanavir/ritonavir, darunavir/ritonavir, lopinavir/ritonavir, rilpivirine, raltegravir or elvitegravir/cobicistat.
 
-Of the 106 treated subjects, the median age was 57 years (range: 25 to 72); 86% of the subjects were male; 51% were White; 45% were Black; 22% had a baseline body mass index at least 30 kg/m2; the proportions of patients with genotype 1, 2, 3, or 4 HCV infection were 74%; 10%; 11%, and 5% respectively; no subjects with genotype 5 or 6 HCV were treated with EPCLUSA; 77% had non- CC IL28B alleles (CT or TT); 74% had baseline HCV RNA levels of at least 800,000 IU/mL; 18% had compensated cirrhosis; and 29% were treatment experienced.
-The overall mean CD4+ count was 598 cells/µL (range: 183–1513 cells/µL) and 57% of subjects had CD4+ counts > 500 cells/µL.
+Of the 106 treated subjects, the median age was 57 years (range: 25 to 72); 86% of the subjects were male; 51% were White; 45% were Black; 22% had a baseline body mass index at least 30 kg/m2; the proportions of patients with genotype 1, 2, 3, or 4 HCV infection were 74%, 10%, 11%, and 5%, respectively; no subjects with genotype 5 or 6 HCV were treated with EPCLUSA; 77% had non-CC IL28B alleles (CT or TT); 74% had baseline HCV RNA levels of at least 800,000 IU/mL; 18% had compensated cirrhosis; and 29% were treatment experienced.
+The overall mean CD4+ count was 598 cells/µL (range: 183−1513 cells/µL) and 57% of subjects had CD4+ counts > 500 cells/μL.
 
 Table 14 presents the SVR12 for the ASTRAL-5 trial by HCV genotype.
 
 Table 14 Study ASTRAL-5: Virologic Outcomes by HCV Genotype in Subjects Coinfected with HIV-1 without Cirrhosis or with Compensated Cirrhosis (12 Weeks After Treatment)
 
-|  | GT-1a (N=66) | GT-1b (N=12) | Total (N=78) | GT-2 (N=11) | GT-3 (N=12) | GT-4 (N=5) |  |
+| GT-1a (N=66) | GT-1b (N=12) | Total (N=78) |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 |  | EPCLUSA 12 Weeks (N=106) |  |  |  |  |  |  |
-|  | Total (all GTs) (N=106) | GT-1 |  |  |  |  |  |
+| Total (all GTs) (N=106) | GT-1 |  |  | GT-2 (N=11) | GT-3 (N=12) | GT-4 (N=5) |  |
 | SVR12 | 95% (101/106) | 95% (63/66) | 92% (11/12) | 95% (74/78) | 100% (11/11) | 92% (11/12) | 100% (5/5) |
 | Outcome for Subjects without SVR |  |  |  |  |  |  |  |
 | On-Treatment Virologic Failure | 0/106 | 0/66 | 0/12 | 0/78 | 0/11 | 0/12 | 0/5 |
@@ -139,7 +140,7 @@ Subjects were randomized in a 1:1:1 ratio to treatment with EPCLUSA for 12 weeks
 Randomization was stratified by HCV genotype (1, 2, 3, 4, 5, 6, and indeterminate).
 
 Demographics and baseline characteristics were balanced across the treatment groups.
-Of the 267 treated subjects, the median age was 59 years (range: 40 to 73); 70% of the subjects were male; 90% were White, 6% were Black; 42% had a baseline body mass index at least 30 kg/m2.
+Of the 267 treated subjects, the median age was 59 years (range: 40 to 73); 70% of the subjects were male; 90% were White; 6% were Black; 42% had a baseline body mass index at least 30 kg/m2.
 The proportions of subjects with genotype 1, 2, 3, 4, or 6 HCV were 78%, 4%, 15%, 3%, and less than 1% (1 subject), respectively.
 No subjects with genotype 5 HCV infection were enrolled.
 76% had non-CC IL28B alleles (CT or TT); 56% had baseline HCV RNA levels at least 800,000 IU/mL; 55% were treatment-experienced; and 95% of subjects had Model for End Stage Liver Disease (MELD) score less than or equal to 15 at baseline.
@@ -160,7 +161,15 @@ Table 15 Study ASTRAL-4: Virologic Outcomes in Subjects with Decompensated Cirrh
 | Genotype 1 | 96% (65/68) | 1% (1/68)This subject with genotype 1a experienced relapse. |
 | Genotype 1a | 94% (51/54) | 2% (1/54) |
 | Genotype 1b | 100% (14/14) | 0% (0/14) |
-| Genotype 3 | 85% (11/13) | 15% (2/13)One subject had on-treatment virologic failure; pharmacokinetic data from this subject was consistent with non-adherence. |
+| Genotype 3 | 85% (11/13) | 15% (2/13)One subject had on-treatment virologic failure; pharmacokinetic data from this subject was consistent with non- adherence. |
 | RBV = ribavirin. |  |  |
 
 All subjects with genotype 2 (N=4) and genotype 4 (N=2) HCV infection treated with EPCLUSA and ribavirin achieved SVR12.
+
+## 14.5 Clinical Trial in Subjects with Severe Renal Impairment Requiring Dialysis
+
+Trial 4062 was an open-label clinical trial that evaluated 12 weeks of treatment with EPCLUSA in 59 HCV-infected adults with ESRD requiring dialysis.
+The proportions of subjects with genotype 1, 2, 3, 4, 6 or indeterminate HCV infection were 42%,12%, 27%, 7%, 3%, and 8%, respectively.
+At baseline, 29% of subjects had cirrhosis, 22% were treatment-experienced (subjects with prior exposure to any HCV NS5A inhibitor were excluded), 92% were on hemodialysis, and 8% were on peritoneal dialysis; mean duration on dialysis was 7 years (range: 0 to 40 years).
+The overall SVR rate was 95% (56/59).
+Of the subjects completing 12 weeks of EPCLUSA, 1 subject experienced virologic relapse.

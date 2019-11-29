@@ -50,30 +50,34 @@ Less Common Adverse Reactions Reported in Clinical Trials
 
 The following adverse reactions occurred in less than 5% of subjects without cirrhosis or with compensated cirrhosis treated with EPCLUSA for 12 weeks and are included because of a potential causal relationship.
 
-- Rash: In the ASTRAL-1 study, rash occurred in 2% of subjects treated with EPCLUSA and in 1% of subjects treated with placebo.
-  No serious adverse reactions of rash occurred and all rashes were mild or moderate in severity.
+Rash: In the ASTRAL-1 study, rash occurred in 2% of subjects treated with EPCLUSA and in 1% of subjects treated with placebo.
+No serious adverse reactions of rash occurred, and all rashes were mild or moderate in severity.
 
-- Depression: In the ASTRAL-1 study, depressed mood occurred in 1% of subjects treated with EPCLUSA and was not reported by any subject taking placebo.
-  No serious adverse reactions of depressed mood occurred and all events were mild or moderate in severity.
+Depression: In the ASTRAL-1 study, depressed mood occurred in 1% of subjects treated with EPCLUSA and was not reported by any subject taking placebo.
+No serious adverse reactions of depressed mood occurred, and all events were mild or moderate in severity.
 
 The following adverse reactions occurred in less than 10% of subjects with decompensated cirrhosis (ASTRAL-4) treated with EPCLUSA with ribavirin for 12 weeks and are included because of a potential causal relationship.
 
-- Rash: Rash occurred in 5% of subjects treated with EPCLUSA with ribavirin.
-  No serious adverse reactions of rash occurred and all rashes were mild or moderate in severity.
+Rash: Rash occurred in 5% of subjects treated with EPCLUSA with ribavirin.
+No serious adverse reactions of rash occurred, and all rashes were mild or moderate in severity.
 
 Laboratory Abnormalities
 
-- Lipase Elevations: In ASTRAL-1, isolated, asymptomatic lipase elevations of greater than 3×ULN were observed in 3% and 1% of subjects treated with EPCLUSA and placebo for 12 weeks, respectively; and in 6% and 3% of subjects treated with EPCLUSA in ASTRAL-2 and ASTRAL-3, respectively.
-- 
-- In the Phase 3 trial of subjects with decompensated cirrhosis (ASTRAL-4), lipase was assessed when amylase values were greater than or equal to 1.5×ULN.
-  Isolated, asymptomatic lipase elevations of greater than 3×ULN were observed in 2% of subjects treated with EPCLUSA with ribavirin for 12 weeks.
+Lipase Elevations: In ASTRAL-1, isolated, asymptomatic lipase elevations of greater than 3×ULN were observed in 3% and 1% of subjects treated with EPCLUSA and placebo for 12 weeks, respectively; and in 6% and 3% of subjects treated with EPCLUSA in ASTRAL-2 and ASTRAL-3, respectively.
 
-- Creatine Kinase: In ASTRAL-1, isolated, asymptomatic creatine kinase elevations greater than or equal to 10×ULN were reported in 1% and 0% of subjects treated with EPCLUSA and placebo for 12 weeks, respectively; and in 2% and 1% of subjects treated with EPCLUSA in ASTRAL-2 and ASTRAL-3, respectively.
-- 
-- In the Phase 3 trial with decompensated cirrhosis (ASTRAL-4), isolated, asymptomatic creatine kinase elevations greater than or equal to 10×ULN were reported in 1% of subjects treated with EPCLUSA with ribavirin for 12 weeks.
+In the Phase 3 trial of subjects with decompensated cirrhosis (ASTRAL-4), lipase was assessed when amylase values were greater than or equal to 1.5×ULN.
+Isolated, asymptomatic lipase elevations of greater than 3×ULN were observed in 2% of subjects treated with EPCLUSA with ribavirin for 12 weeks.
 
-- Indirect Bilirubin: Increases in indirect bilirubin up to 3 mg/dL above baseline were noted among HIV-1/HCV coinfected subjects treated with EPCLUSA and an atazanavir/ritonavir-based antiretroviral regimen.
-  The elevated indirect bilirubin values were not associated with clinical adverse events and all subjects completed 12 weeks of EPCLUSA without dose adjustment or treatment interruption of either EPCLUSA or HIV antiretroviral agents.
+Creatine Kinase: In ASTRAL-1, isolated, asymptomatic creatine kinase elevations greater than or equal to 10×ULN were reported in 1% and 0% of subjects treated with EPCLUSA and placebo for 12 weeks, respectively; and in 2% and 1% of subjects treated with EPCLUSA in ASTRAL-2 and ASTRAL-3, respectively.
+
+In the Phase 3 trial with decompensated cirrhosis (ASTRAL-4), isolated, asymptomatic creatine kinase elevations greater than or equal to 10×ULN were reported in 1% of subjects treated with EPCLUSA with ribavirin for 12 weeks.
+
+Indirect Bilirubin: Increases in indirect bilirubin up to 3 mg/dL above baseline were noted among HIV-1/HCV coinfected subjects treated with EPCLUSA and an atazanavir/ritonavir-based antiretroviral regimen.
+The elevated indirect bilirubin values were not associated with clinical adverse events, and all subjects completed 12 weeks of EPCLUSA without dose adjustment or treatment interruption of either EPCLUSA or HIV antiretroviral agents.
+
+Adverse Reactions in Adults with Severe Renal Impairment Requiring Dialysis
+
+In an open-label trial (Trial 4062), in which a total of 59 adults with HCV with compensated liver disease (with or without cirrhosis) and ESRD requiring dialysis received EPCLUSA for 12 weeks, the most common adverse reaction was nausea (7%) [see Clinical Studies (14.5)].
 
 ## 6.2 Postmarketing Experience
 
