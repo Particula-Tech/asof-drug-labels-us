@@ -32,13 +32,13 @@ The daily dosage of ribavirin is weight-based (1000 mg for patients <75 kg and 1
 In patients with decompensated cirrhosis, the starting dosage of ribavirin is 600 mg and can be titrated up to 1000 mg for patients <75 kg and 1200 mg for those ≥75 kg in two divided doses with food.
 If the starting dosage of ribavirin is not well tolerated, the dosage should be reduced as clinically indicated based on hemoglobin levels.
 
-For further information on ribavirin dosing and dosage modifications, refer to the ribavirin prescribing information [see Clinical Studies (14.5)].
+For further information on ribavirin dosing and dosage modifications, refer to the ribavirin prescribing information [see Dosage and Administration (2.4), Use in Specific Populations (8.6), and Clinical Studies (14.5)].
 
 ## 2.4 Recommended Dosage in Pediatric Patients 3 Years of Age and Older
 
 The recommended dosage of HARVONI in pediatric patients 3 years of age and older with genotype 1, 4, 5, or 6 HCV using HARVONI tablets or oral pellets is based on weight (Table 2).
 Table 3 provides the weight-based dosage of ribavirin when used in combination with HARVONI for pediatric patients.
-Take HARVONI tablets or pellets (with or without food) once daily [see Dosage and Administration (2.5), Clinical Pharmacology (12.3), and Clinical Studies (14.6)].
+Take HARVONI tablets or pellets (with or without food) once daily [see Dosage and Administration (2.5), Clinical Pharmacology (12.3), and Clinical Studies (14.7)].
 HARVONI pellets can be taken in pediatric patients who cannot swallow the tablet formulation.
 
 Table 2 Dosing for Pediatric Patients 3 Years and Older Using HARVONI Tablets or Oral Pellets
@@ -66,6 +66,8 @@ If HARVONI pellets are administered with food, sprinkle the pellets on one or mo
 Examples of non-acidic foods include pudding, chocolate syrup, mashed potato, and ice cream.
 Take HARVONI pellets within 30 minutes of gently mixing with food and swallow the entire contents without chewing to avoid a bitter aftertaste.
 
-## 2.6 Severe Renal Impairment and End Stage Renal Disease
+## 2.6 Renal Impairment
 
-No dosage recommendation can be given for patients with severe renal impairment (estimated Glomerular Filtration Rate [eGFR] less than 30 mL/min/1.73 m2) or with end stage renal disease (ESRD) due to higher exposures (up to 20-fold) of the predominant sofosbuvir metabolite [see Use in Specific Populations (8.6) and Clinical Pharmacology (12.3)].
+No dosage adjustment of HARVONI is recommended in patients with any degree of renal impairment, including end stage renal disease (ESRD) on dialysis [see Dosage and Administration (2.3)].
+Take HARVONI with or without ribavirin according to the recommendations in Table 1 [see Adverse Reactions (6.1), Use in Specific Populations (8.6), and Clinical Studies (14.6)].
+Refer to ribavirin tablet prescribing information for ribavirin dosage modification for patients with CrCl less than or equal to 50 mL per minute.

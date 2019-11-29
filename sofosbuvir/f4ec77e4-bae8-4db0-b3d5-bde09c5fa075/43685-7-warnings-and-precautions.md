@@ -34,12 +34,12 @@ Patients who are taking HARVONI who need to start amiodarone therapy due to no o
 Due to amiodarone's long half-life, patients discontinuing amiodarone just prior to starting HARVONI should also undergo similar cardiac monitoring as outlined above.
 
 Patients who develop signs or symptoms of bradycardia should seek medical evaluation immediately.
-Symptoms may include near-fainting or fainting, dizziness or lightheadedness, malaise, weakness, excessive tiredness, shortness of breath, chest pains, confusion or memory problems [see Adverse Reactions (6.2), Drug Interactions (7.2)].
+Symptoms may include near-fainting or fainting, dizziness or lightheadedness, malaise, weakness, excessive tiredness, shortness of breath, chest pains, confusion, or memory problems [see Adverse Reactions (6.2), Drug Interactions (7.2)].
 
 ## 5.3 Risk of Reduced Therapeutic Effect Due to Use with P-gp Inducers
 
-The concomitant use of HARVONI and P-gp inducers (e.g., rifampin, St. John's wort) may significantly decrease ledipasvir and sofosbuvir plasma concentrations and may lead to a reduced therapeutic effect of HARVONI.
-Therefore, the use of HARVONI with P-gp inducers (e.g., rifampin or St. John's wort) is not recommended [see Drug Interactions (7.2)].
+The concomitant use of HARVONI and P-gp inducers may significantly decrease ledipasvir and sofosbuvir plasma concentrations and may lead to a reduced therapeutic effect of HARVONI.
+Therefore, the use of HARVONI with P-gp inducers (e.g., rifampin, St. John's wort) is not recommended [see Drug Interactions (7.2)].
 
 ## 5.4 Risks Associated with Ribavirin Combination Treatment
 

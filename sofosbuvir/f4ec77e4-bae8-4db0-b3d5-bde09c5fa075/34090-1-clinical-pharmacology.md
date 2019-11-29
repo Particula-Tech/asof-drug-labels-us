@@ -2,7 +2,7 @@
 
 ## 12.1 Mechanism of Action
 
-HARVONI is a fixed-dose combination of ledipasvir and sofosbuvir which are direct-acting antiviral agents against the hepatitis C virus [see Microbiology (12.4)].
+HARVONI is a fixed-dose combination of ledipasvir and sofosbuvir, which are direct-acting antiviral agents against the hepatitis C virus [see Microbiology (12.4)].
 
 ## 12.2 Pharmacodynamics
 
@@ -10,10 +10,10 @@ Cardiac Electrophysiology
 
 Thorough QT studies have been conducted for ledipasvir and sofosbuvir.
 
-The effect of ledipasvir 120 mg twice daily (2.67 times the maximum recommended dosage) for 10 days on QTc interval was evaluated in a randomized, multiple-dose, placebo-, and active-controlled (moxifloxacin 400 mg) three period crossover thorough QT trial in 59 healthy subjects.
+The effect of ledipasvir 120 mg twice daily (2.67 times the maximum recommended dosage) for 10 days on QTc interval was evaluated in a randomized, multiple-dose, placebo-, and active-controlled (moxifloxacin 400 mg) three-period crossover thorough QT trial in 59 healthy subjects.
 At the dose of 120 mg twice daily (2.67 times the maximum recommended dosage), ledipasvir does not prolong QTc interval to any clinically relevant extent.
 
-The effect of sofosbuvir 400 mg (maximum recommended dosage) and 1200 mg (three times the maximum recommended dosage) on QTc interval was evaluated in a randomized, single-dose, placebo-, and active-controlled (moxifloxacin 400 mg) four period crossover thorough QT trial in 59 healthy subjects.
+The effect of sofosbuvir 400 mg (maximum recommended dosage) and 1200 mg (three times the maximum recommended dosage) on QTc interval was evaluated in a randomized, single-dose, placebo-, and active-controlled (moxifloxacin 400 mg) four-period crossover thorough QT trial in 59 healthy subjects.
 At a dose three times the maximum recommended dose, sofosbuvir does not prolong QTc to any clinically relevant extent.
 
 ## 12.3 Pharmacokinetics
@@ -91,7 +91,7 @@ Table 7 Pharmacokinetic Properties of the Components of HARVONI in HCV-Infected 
 | <17 kgLedipasvir N=9; Sofosbuvir N=9; GS-331007 N=9 | 33.75/150 mg | AUCtau (ng∙hr/mL) | 7460 (31.0) | 1720 (23.2) | 12200 (15.2) |
 | Cmax (ng/mL) | 405 (25.7) | 791 (16.6) | 1070 (13.0) |  |  |
 
-The pharmacokinetics of ledipasvir, sofosbuvir, and GS-331007 have not been established in pediatric subjects less than 3 years of age [see Use in Specific Populations (8.4), and Clinical Studies (14.6)].
+The pharmacokinetics of ledipasvir, sofosbuvir, and GS-331007 have not been established in pediatric subjects less than 3 years of age [see Use in Specific Populations (8.4) and Clinical Studies (14.7)].
 
 Geriatric Patients: Population pharmacokinetic analysis in HCV-infected subjects showed that within the age range (18 to 80 years) analyzed, age did not have a clinically relevant effect on the exposure to ledipasvir, sofosbuvir, and GS-331007 [see Use in Specific Populations (8.5)].
 
@@ -101,7 +101,10 @@ No clinically relevant differences in ledipasvir pharmacokinetics were observed 
 The pharmacokinetics of sofosbuvir were studied in HCV negative subjects with mild (eGFR between 50 to less than 80 mL/min/1.73 m2), moderate (eGFR between 30 to less than 50 mL/min/1.73 m2), severe renal impairment (eGFR less than 30 mL/min/1.73 m2), and subjects with ESRD requiring hemodialysis following a single 400 mg dose of sofosbuvir.
 Relative to subjects with normal renal function (eGFR greater than 80 mL/min/1.73 m2), the sofosbuvir AUC0–inf was 61%, 107%, and 171% higher in mild, moderate, and severe renal impairment, while the GS-331007 AUC0–inf was 55%, 88%, and 451% higher, respectively.
 In subjects with ESRD, relative to subjects with normal renal function, sofosbuvir and GS-331007 AUC0–inf was 28% and 1280% higher when sofosbuvir was dosed 1 hour before hemodialysis compared with 60% and 2070% higher when sofosbuvir was dosed 1 hour after hemodialysis, respectively.
-A 4 hour hemodialysis session removed approximately 18% of administered dose [see Dosage and Administration (2.6) and Use in Specific Populations (8.6)].
+A 4-hour hemodialysis session removed approximately 18% of administered dose [see Dosage and Administration (2.6) and Use in Specific Populations (8.6)].
+
+The pharmacokinetics of ledipasvir, sofosbuvir, and GS-331007 were studied in HCV-infected subjects with severe renal impairment or ESRD requiring dialysis treated with HARVONI for 8, 12, or 24 weeks.
+The results were generally consistent with those observed in HCV-negative subjects with ESRD requiring dialysis.
 
 Patients with Hepatic Impairment: The pharmacokinetics of ledipasvir were studied with a single dose of 90 mg ledipasvir in HCV negative subjects with severe hepatic impairment (Child-Pugh Class C). Ledipasvir plasma exposure (AUC0–inf) was similar in subjects with severe hepatic impairment and control subjects with normal hepatic function.
 Population pharmacokinetics analysis in HCV-infected subjects indicated that cirrhosis (including decompensated cirrhosis) had no clinically relevant effect on the exposure of ledipasvir [see Use in Specific Populations (8.7)].
@@ -133,6 +136,8 @@ Table 8 Drug Interactions: Changes in Pharmacokinetic Parameters for Ledipasvir,
 | Atazanavir/ ritonavir + emtricitabine/ tenofovir DFData generated from simultaneous dosing with HARVONI. Staggered administration (12 hours apart) of atazanavir/ritonavir + emtricitabine/tenofovir DF or darunavir/ritonavir + emtricitabine/tenofovir DF and HARVONI provided similar results.,The effects of atazanavir/ritonavir on ledipasvir and sofosbuvir are similar with or without the presence of emtricitabine/tenofovir DF. | 300/100 + 200/300 once daily | 90 once daily | 400 once daily | 24 | ledipasvir | 1.68 (1.54, 1.84) | 1.96 (1.74, 2.21) | 2.18 (1.91, 2.50) |
 | sofosbuvir | 1.01 (0.88, 1.15) | 1.11 (1.02, 1.21) | NA |  |  |  |  |  |
 | GS-331007 | 1.17 (1.12, 1.23) | 1.31 (1.25, 1.36) | 1.42 (1.34, 1.49) |  |  |  |  |  |
+| Carbamazepine | 300 twice daily | ND | 400 single dose | 24 | sofosbuvir | 0.52 (0.43, 0.62) | 0.52 (0.46, 0.59) | NA |
+|  | GS-331007 | 1.04 (0.97, 1.11) | 0.99 (0.94, 1.04) | NA |  |  |  |  |
 | Cyclosporine | 600 single dose | ND | 400 single dose | 19 | sofosbuvir | 2.54 (1.87, 3.45) | 4.53 (3.26, 6.30) | NA |
 | GS-331007 | 0.60 (0.53, 0.69) | 1.04 (0.90, 1.20) | NA |  |  |  |  |  |
 | Darunavir/ ritonavir | 800/100 once daily | 90 once daily | ND | 23 | ledipasvir | 1.45 (1.34, 1.56) | 1.39 (1.28, 1.49) | 1.39 (1.29, 1.51) |
@@ -159,13 +164,16 @@ Table 8 Drug Interactions: Changes in Pharmacokinetic Parameters for Ledipasvir,
 | sofosbuvir | 1.12 (0.88, 1.42) | 1.00 (0.80, 1.25) | NA |  |  |  |  |  |
 | GS-331007 | 1.14 (1.01, 1.29) | 1.03 (0.96, 1.12) | NA |  |  |  |  |  |
 | 20 once daily 2 hours prior to ledipasvir | 30 single dose | ND | 17 | ledipasvir | 0.52 (0.41, 0.66) | 0.58 (0.48, 0.71) | NA |  |
+| Rifabutin | 300 once daily | ND | 400 single dose | 20 | sofosbuvir | 0.64 (0.53, 0.77) | 0.76 (0.63, 0.91) | NA |
+| GS-331007 | 1.15 (1.03, 1.27) | 1.03 (0.95, 1.12) | NA |  |  |  |  |  |
 | Rifampin | 600 once daily | 90 single doseThis study was conducted in the presence of two other investigational HCV direct-acting agents. | ND | 31 | ledipasvir | 0.65 (0.56, 0.76) | 0.41 (0.36, 0.48) | NA |
 | ND | 400 single dose | 17 | sofosbuvir | 0.23 (0.19, 0.29) | 0.28 (0.24, 0.32) | NA |  |  |
 | GS-331007 | 1.23 (1.14, 1.34) | 0.95 (0.88, 1.03) | NA |  |  |  |  |  |
 | Simeprevir | 150 once daily | 30 once daily | ND | 22 | ledipasvir | 1.81 (1.69, 2.94) | 1.92 (1.77, 2.07) | NA |
 | Tacrolimus | 5 single dose | ND | 400 single dose | 16 | sofosbuvir | 0.97 (0.65, 1.43) | 1.13 (0.81, 1.57) | NA |
 | GS-331007 | 0.97 (0.83, 1.14) | 1.00 (0.87, 1.13) | NA |  |  |  |  |  |
-| NA = not available/not applicable, ND = not dosed. tenofovir DF = tenofovir disoproxil fumarate |  |  |  |  |  |  |  |  |
+| NA = not available/not applicable, ND = not dosed. |  |  |  |  |  |  |  |  |
+| tenofovir DF = tenofovir disoproxil fumarate |  |  |  |  |  |  |  |  |
 
 No effect on the pharmacokinetic parameters of ledipasvir, sofosbuvir, and GS-331007 was observed with raltegravir and the combination of abacavir and lamivudine; emtricitabine, rilpivirine, and tenofovir disoproxil fumarate; or dolutegravir, emtricitabine, and tenofovir disoproxil fumarate.
 
@@ -200,12 +208,15 @@ Table 9 Drug Interactions: Changes in Pharmacokinetic Parameters for Coadministe
 | ND | 400 once daily | 1.18 (0.99, 1.41) | 1.19 (0.98, 1.45) | 1.23 (1.00, 1.51) |  |  |  |
 | Ethinyl estradiol | 90 once daily | ND | 1.40 (1.18, 1.66) | 1.20 (1.04, 1.39) | 0.98 (0.79, 1.22) |  |  |
 | ND | 400 once daily | 1.15 (0.97, 1.36) | 1.09 (0.94, 1.26) | 0.99 (0.80, 1.23) |  |  |  |
+| Midazolam | 2.5 single dose | 90 single dose | ND | 30 | 1.07 (1.00, 1.14) | 0.99 (0.95, 1.04) | NA |
+| 0.95 (0.87, 1.04) | 0.89 (0.84, 0.95) | NA |  |  |  |  |  |
 | Raltegravir | 400 twice daily | 90 once daily | ND | 28 | 0.82 (0.66, 1.02) | 0.85 (0.70, 1.02) | 1.15 (0.90, 1.46) |
 | ND | 400 single dose | 19 | 0.57 (0.44, 0.75) | 0.73 (0.59, 0.91) | 0.95 (0.81, 1.12) |  |  |
 | Simeprevir | 150 once daily | 30 once daily | ND | 22 | 2.61 (2.39, 2.86) | 2.69 (2.44, 2.96) | NA |
 | Tacrolimus | 5 single dose | ND | 400 single dose | 16 | 0.73 (0.59, 0.90) | 1.09 (0.84, 1.40) | NA |
 | Tenofovir DF | 300 once dailyAdministered as ATRIPLA (efavirenz, emtricitabine, tenofovir DF). The effects of HARVONI on tenofovir exposures are similar when tenofovir is administered as ATRIPLA, COMPLERA, or TRUVADA + dolutegravir. | 90 once daily | 400 once daily | 15 | 1.79 (1.56, 2.04) | 1.98 (1.77, 2.23) | 2.63 (2.32, 2.97) |
-| NA = not available/not applicable, ND = not dosed. tenofovir DF = tenofovir disoproxil fumarate |  |  |  |  |  |  |  |
+| NA = not available/not applicable, ND = not dosed. |  |  |  |  |  |  |  |
+| tenofovir DF = tenofovir disoproxil fumarate |  |  |  |  |  |  |  |
 
 No effect on the pharmacokinetic parameters of the following coadministered drugs was observed with ledipasvir or sofosbuvir: abacavir, cyclosporine, darunavir/ritonavir, dolutegravir, efavirenz, emtricitabine, lamivudine, methadone, or rilpivirine.
 
@@ -226,12 +237,12 @@ Antiviral Activity
 In HCV replicon assays, the EC50 values of ledipasvir against full-length replicons from genotypes 1a and 1b were 0.031 nM and 0.004 nM, respectively.
 The median EC50 values of ledipasvir against chimeric replicons encoding NS5A sequences from clinical isolates from treatment-naïve HCV-infected subjects were 0.
 02 nM for genotype 1a (range 0.007–1.0 nM; N=23) and 0.006 nM for genotype 1b (range 0.002–1.0 nM; N=34).
-Ledipasvir had median EC50 values ranging between 0.002 nM to 0.16 nM against 11 genotype 4 subtypes (4a, 4d, 4n, 4r, 4o, 4c, 4f, 4k, 4l, 4m and 4t).
+Ledipasvir had median EC50 values ranging between 0.002 nM to 0.16 nM against 11 genotype 4 subtypes (4a, 4d, 4n, 4r, 4o, 4c, 4f, 4k, 4l, 4m, and 4t).
 The median EC50 value for subtype 4b was 199.6 nM (range 0.66–1799 nM; N=3); the two 4b isolates with EC50 values greater than 100 nM had NS5A resistance-associated polymorphisms L30S+M31M+P58S+Y93H.
 The median EC50 value of ledipasvir was 0.03 nM against genotype 5a isolates (range 0.008–0.081 nM; N=35).
 For genotype 6, the EC50 values for ledipasvir varied by subtype.
 Subtypes 6a and 6h had median EC50 values of 0.55 and 0.17 nM, respectively.
-For subtypes 6e, 6l, 6n, 6q, 6k and 6m, the median EC50 values ranged from 60.6 nM to 430.1 nM.
+For subtypes 6e, 6l, 6n, 6q, 6k, and 6m, the median EC50 values ranged from 60.6 nM to 430.1 nM.
 
 In HCV replicon assays, the EC50 values of sofosbuvir against full-length replicons from genotypes 1a, 1b, and 4a, and chimeric 1b replicons encoding NS5B from genotypes 5a or 6a ranged from 14–110 nM.
 The median EC50 value of sofosbuvir against chimeric replicons encoding NS5B sequences from clinical isolates was 62 nM for genotype 1a (range 29–128 nM; N=67) and 102 nM for genotype 1b (range 45–170 nM; N=29).
@@ -306,15 +317,15 @@ Analyses were conducted to explore the association between pre-existing baseline
 In the pooled analysis of the Phase 3 trials, 23% (370/1589) of subjects' virus had baseline NS5A polymorphisms at resistance-associated positions (any change from reference at NS5A amino acid positions 24, 28, 30, 31, 58, 92, or 93) identified by population or analysis of deep nucleotide sequences with a 15% frequency threshold.
 
 In treatment-naïve subjects whose virus had baseline NS5A polymorphisms at resistance-associated positions in Studies ION-1 and ION-3, relapse rates were 6% (3/48) after 8 weeks and 1% (1/113) after 12 weeks of treatment with HARVONI.
-Relapse rates among subjects without baseline NS5A polymorphisms at resistance-associated positions were 5% (8/167) after 8 weeks and 1% (3/306) after 12 weeks treatment with HARVONI.
+Relapse rates among subjects without baseline NS5A polymorphisms at resistance-associated positions were 5% (8/167) after 8 weeks and 1% (3/306) after 12 weeks of treatment with HARVONI.
 
 In treatment-experienced subjects in Study ION-2 whose virus had baseline NS5A polymorphisms at resistance-associated positions, relapse rates were 22% (5/23) after 12 weeks and 0% (0/19) after 24 weeks of treatment with HARVONI.
-In another study in treatment-experienced subjects (SIRIUS), 0/15 (0%) subjects with NS5A polymorphisms at resistance-associated positions relapsed after 12 weeks of treatment with HARVONI + RBV compared to 2/15 (13%) subjects treated with 24 weeks of HARVONI.
+In another study in treatment-experienced subjects (SIRIUS), 0/15 (0%) subjects with NS5A polymorphisms at resistance-associated positions relapsed after 12 weeks of treatment with HARVONI + ribavirin compared to 2/15 (13%) subjects treated with 24 weeks of HARVONI.
 
 SVR was achieved in all 24 subjects (N=20 with L159F+C316N; N=1 with L159F; and N=3 with N142T) who had baseline polymorphisms associated with resistance to sofosbuvir and/or other NS5B nucleoside inhibitors.
 The NS5B S282T substitution associated with resistance to sofosbuvir was not detected in the baseline NS5B sequence of any subject in Phase 3 trials by population or deep nucleotide sequence analysis.
 
-In the SOLAR-1 and SOLAR-2 trials (liver transplant recipients or subjects with decompensated liver disease), after 12 weeks of treatment with HARVONI and RBV, relapse rates were 7% (5/71) and 5% (10/217) in genotype 1 subjects with and without baseline NS5A polymorphisms at resistance-associated positions, respectively.
+In the SOLAR-1 and SOLAR-2 trials (liver transplant recipients or subjects with decompensated liver disease), after 12 weeks of treatment with HARVONI and ribavirin, relapse rates were 7% (5/71) and 5% (10/217) in genotype 1 subjects with and without baseline NS5A polymorphisms at resistance-associated positions, respectively.
 
 In the Phase 3 trials and SOLAR trials, the specific baseline NS5A resistance-associated polymorphisms observed among subjects who relapsed were M28T/V, Q30H/R, L31M, H58D/P, and Y93H/N in genotype 1a, and L28M, L31M, A92T, and Y93H in genotype 1b.
 Subjects with multiple NS5A polymorphisms at resistance-associated positions appeared to have higher relapse rates.
