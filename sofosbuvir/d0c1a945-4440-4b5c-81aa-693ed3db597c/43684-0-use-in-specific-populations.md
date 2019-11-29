@@ -21,7 +21,7 @@ Sofosbuvir: Sofosbuvir was administered orally to pregnant rats (up to 500 mg/kg
 No significant effects on embryo-fetal (rats and rabbits) or pre/postnatal (rats) development were observed at the highest doses tested.
 The systemic exposures (AUC) of the predominant circulating metabolite of sofosbuvir (GS-331007) during gestation were approximately 4 (rats) and 10 (rabbits) times the exposure in humans at the RHD.
 
-Velpatasvir: Velpatasvir was administered orally to pregnant mice (up to 1000 mg/kg/day), rats (up to 200 mg/kg/day) and rabbits (up to 300 mg/kg/day) on gestation days 6 to 15, 6 to 17, and 7 to 20, respectively, and also to rats (oral doses up to 200 mg/kg) on gestation day 6 to lactation/post-partum day 20.
+Velpatasvir: Velpatasvir was administered orally to pregnant mice (up to 1000 mg/kg/day), rats (up to 200 mg/kg/day), and rabbits (up to 300 mg/kg/day) on gestation days 6 to 15, 6 to 17, and 7 to 20, respectively, and also to rats (oral doses up to 200 mg/kg) on gestation day 6 to lactation/post-partum day 20.
 No significant effects on embryo-fetal (mice, rats, and rabbits) or pre/postnatal (rats) development were observed at the highest doses tested.
 The systemic exposures (AUC) of velpatasvir during gestation were approximately 31 (mice), 6 (rats), and 0.4 (rabbits) times the exposure in humans at the RHD.
 
@@ -42,7 +42,7 @@ Data
 
 Sofosbuvir: No effects of sofosbuvir on growth and postnatal development were observed in nursing pups at the highest dose tested in rats.
 Maternal systemic exposure (AUC) to the predominant circulating metabolite of sofosbuvir (GS-331007) was approximately 5 times the exposure in humans at the RHD, with exposure of approximately 2% that of maternal exposure observed in nursing pups on lactation day 10.
-In a lactation study, sofosbuvir metabolites (primarily GS-331007) were excreted into the milk of lactating rats following administration of a single oral dose of sofosbuvir (20 mg/kg) on lactation day 2, with milk concentrations of approximately 10% that of maternal plasma concentrations observed 1 hour post-dose.
+In a lactation study, sofosbuvir metabolites (primarily GS-331007) were excreted into the milk of lactating rats following administration of a single oral dose of sofosbuvir (20 mg/kg) on lactation day 2, with milk concentrations of approximately 10% that of maternal plasma concentrations observed 1-hour post-dose.
 
 Velpatasvir: No effects of velpatasvir on growth and postnatal development were observed in nursing pups at the highest dose tested in rats.
 Maternal systemic exposure (AUC) to velpatasvir was approximately 5 times the exposure in humans at the RHD.
@@ -65,13 +65,12 @@ No dosage adjustment of sofosbuvir and velpatasvir tablets is warranted in geria
 
 ## 8.6 Renal Impairment
 
-No dosage adjustment of sofosbuvir and velpatasvir tablets is required for patients with mild or moderate renal impairment.
-The safety and efficacy of sofosbuvir and velpatasvir tablets have not been established in patients with severe renal impairment (eGFR less than 30 mL/min/1.73 m2) or ESRD requiring hemodialysis.
-No dosage recommendation can be given for patients with severe renal impairment or ESRD [see Dosage and Administration (2.3) and Clinical Pharmacology (12.3)].
-Refer to ribavirin prescribing information regarding use of ribavirin in patients with renal impairment.
+No dosage adjustment of sofosbuvir and velpatasvir tablets is recommended for patients with mild, moderate, or severe renal impairment, including ESRD requiring dialysis [see Dosage and Administration (2.3), Adverse Reactions (6.1), Clinical Pharmacology (12.3), and Clinical Studies (14.5)].
+No safety data are available in subjects with both decompensated cirrhosis and severe renal impairment, including ESRD requiring dialysis.
+Refer to ribavirin tablet prescribing information regarding use of ribavirin in patients with renal impairment.
 
 ## 8.7 Hepatic Impairment
 
-No dosage adjustment of sofosbuvir and velpatasvir tablets is required for patients with mild, moderate, or severe hepatic impairment (Child-Pugh Class A, B, or C) [see Adverse Reactions (6.1), Clinical Pharmacology (12.3), and Clinical Studies (14)].
+No dosage adjustment of sofosbuvir and velpatasvir tablets is recommended for patients with mild, moderate, or severe hepatic impairment (Child-Pugh Class A, B, or C) [see Adverse Reactions (6.1), Clinical Pharmacology (12.3), and Clinical Studies (14)].
 
 Clinical and hepatic laboratory monitoring (including direct bilirubin), as clinically indicated, is recommended for patients with decompensated cirrhosis receiving treatment with sofosbuvir and velpatasvir tablets and ribavirin [see Adverse Reactions (6.1)].
