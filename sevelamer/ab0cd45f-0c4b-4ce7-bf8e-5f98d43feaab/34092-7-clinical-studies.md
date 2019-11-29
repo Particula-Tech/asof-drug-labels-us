@@ -13,8 +13,22 @@ Study dose during the cross-over period was determined based on the sevelamer hy
 The phosphorus levels at the end of each of the two cross-over periods were similar.
 Average actual daily dose was 6 g/day divided among meals for both treatments.
 Thirty-nine of those completing the cross-over portion of the study were entered into a two-week washout period during which patients were instructed not to take any phosphate binders; this confirmed the activity of sevelamer in this study.
-Pediatric use information is approved for Genzyme Corporation’s Renvela (sevelamer carbonate) tablets and Renvela (sevelamer carbonate) for oral suspension.
-However, due to Genzyme Corporation’s marketing exclusivity rights, these drug products are not labeled with that pediatric information.
+
+## 14.3 Clinical Study of Sevelamer Carbonate Tablets in Pediatric Patients
+
+A clinical study with sevelamer carbonate was conducted in 101 patients 6 to 18 years of age with chronic kidney disease.
+This study included a washout period for patients on a phosphate binder, a 2-week, double-blind, Fixed Dose Period (FDP) in which patients were randomized to sevelamer carbonate (n=50) or placebo (n=51), and a 26-week, open-label, sevelamer carbonate Dose Titration Period (DTP).
+Most patients were 13 to 18 years of age (73%) and had a BSA ≥1.2 m2 (84%).
+Approximately 78% of patients were CKD patients on dialysis.
+
+Sevelamer carbonate significantly reduced serum phosphorus through Week 2 (primary endpoint) by an LS Mean difference of -0.90 (SE 0.27) mg/dL compared to placebo (p=0.001).
+A similar treatment response was observed in patients who received sevelamer carbonate during the 6-month open-label DTP.
+Approximately 30% of subjects reached their target serum phosphorus.
+The median prescribed daily dose was approximately 7 g per day during the titration period.
+
+The results of the primary efficacy endpoint were consistent by BSA subgroup.
+In contrast, a treatment effect was not observed in subjects with a baseline serum phosphorus below 7 mg/dL, many of whom were the subjects 6 to <13 years of age or the subjects not on dialysis (Figure 2).
+Note: LS Mean difference of Sevelamer Carbonate – Placebo, based on ANCOVA within subgroup and with treatment as fixed effect and screening BSA and baseline serum phosphorus as covariates.
 
 ## 14.4 Sevelamer Hydrochloride Versus Active-Control, Cross-Over Study in Hemodialysis Patients
 
