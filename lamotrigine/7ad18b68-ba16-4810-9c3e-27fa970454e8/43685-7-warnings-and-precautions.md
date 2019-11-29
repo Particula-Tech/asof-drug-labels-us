@@ -1,6 +1,6 @@
 # 5 WARNINGS AND PRECAUTIONS
 
-## 5.1 Serious Skin Rashes [see Boxed Warning]
+## Serious Skin Rashes [see Boxed Warning]
 
 Pediatric Population
 

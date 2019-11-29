@@ -1,6 +1,6 @@
 # 12 CLINICAL PHARMACOLOGY
 
-## 12.1 Mechanism of Actions
+## 12.1 Mechanism of Action
 
 The precise mechanism(s) by which lamotrigine exerts its anticonvulsant action are unknown.
 In animal models designed to detect anticonvulsant activity, lamotrigine was effective in preventing seizure spread in the maximum electroshock (MES) and pentylenetetrazol (scMet) tests, and prevented seizures in the visually and electrically evoked after-discharge (EEAD) tests for antiepileptic activity.
@@ -8,7 +8,7 @@ Lamotrigine also displayed inhibitory properties in the kindling model in rats b
 The relevance of these models to human epilepsy, however, is not known.
 
 One proposed mechanism of action of lamotrigine, the relevance of which remains to be established in humans, involves an effect on sodium channels.
-In virto pharmacological studies suggest that lamotrigine inhibits voltage-sensitive sodium channels, thereby stabilizing neuronal membranes and consequently modulating presynaptic transmitter release of excitatory amino acids (e.g., glutamate and aspartate).
+In vitro pharmacological studies suggest that lamotrigine inhibits voltage-sensitive sodium channels, thereby stabilizing neuronal membranes and consequently modulating presynaptic transmitter release of excitatory amino acids (e.g., glutamate and aspartate).
 
 Effect of Lamotrigine on N-Methyl d-Aspartate-Receptor-Mediated Activity
 
@@ -58,7 +58,7 @@ Mean Pharmacokinetic Parametersa in Healthy Volunteers and Adult Subjects with E
 | Healthy volunteers taking no other medications: Single-dose SUBVENITE Multiple-dose SUBVENITE | 179 36 | 2.2 (0.25 to 12.0) 1.7 (0.5 to 4.0) | 32.8 (14.0 to 103.0) 25.4 (11.6 to 61.6) | 0.44 (0.12 to 1.10) 0.58 (0.24 to 1.15) |
 | Healthy volunteers taking valproate: Single-dose SUBVENITE Multiple-dose SUBVENITE | 6 18 | 1.8 (1.0 to 4.0) 1.9 (0.5 to 3.5) | 48.3 (31.5 to 88.6) 70.3 (41.9 to 113.5) | 0.30 (0.14 to 0.42) 0.18 (0.12 to 0.33) |
 | Subjects with epilepsy taking valproate only: Single-dose SUBVENITE | 4 | 4.8 (1.8 to 8.4) | 58.8 (30.5 to 88.8) | 0.28 (0.16 to 0.40) |
-| Subjects with epilepsy taking carbamazepine, phenytoin, phenobarbital, or primidonebplus valproate: Single-dose SUBVENITE | 25 | 3.8 (1.0 to 10.0) | 27.2 (11.2 to 51.6) | 0.53 (0.27 to 1.04) |
+| Subjects with epilepsy taking carbamazepine, phenytoin, phenobarbital, or primidoneb plus valproate: Single-dose SUBVENITE | 25 | 3.8 (1.0 to 10.0) | 27.2 (11.2 to 51.6) | 0.53 (0.27 to 1.04) |
 | Subjects with epilepsy taking carbamazepine, phenytoin, phenobarbital, or primidone:b Single-dose SUBVENITE Multiple-dose SUBVENITE | 24 17 | 2.3 (0.5 to 5.0) 2.0 (0.75 to 5.93) | 14.4 (6.4 to 30.4) 12.6 (7.5 to 23.1) | 1.10 (0.51 to 2.22) 1.21 (0.66 to 1.82) |
 | a The majority of parameter means determined in each study had coefficients of variation between 20% and 40% for half-life and CL/F and between 30% and 70% for Tmax. The overall mean values were calculated from individual study means that were weighted based on the number of volunteers/subjects in each study. The numbers in parentheses below each parameter mean represent the range of individual volunteer/subject values across studies. |  |  |  |  |
 | b Carbamazepine, phenytoin, phenobarbital, and primidone have been shown to increase the apparent clearance of lamotrigine. Estrogen-containing oral contraceptives and other drugs, such as rifampin and protease inhibitors lopinavir/ritonavir and atazanavir/ritonavir, that induce lamotrigine glucuronidation have also been shown to increase the apparent clearance of lamotrigine [see Drug Interactions (7)]. |  |  |  |  |
@@ -113,9 +113,9 @@ The net effects of drug interactions with lamotrigine are summarized in Tables 1
 Table 15.
 Summary of Drug Interactions with Lamotrigine
 
-| Drug | Drug PlasmaConcentration withAdjunctiveLamotriginea | Lamotrigine PlasmaConcentration with Adjunctive Drugsb |
+| Drug | Drug Plasma Concentration with Adjunctive Lamotriginea | Lamotrigine Plasma Concentration with Adjunctive Drugsb |
 | --- | --- | --- |
-| Oral contraceptives (e.g., ethinylestradiol/levonorgestrel)c | ↔d | ↓ |
+| Oral contraceptives (e.g., ethinyl estradiol/levonorgestrel)c | ↔d | ↓ |
 | Aripiprazole | Not assessed | ↔e |
 | Atazanavir/ritonavir | ↔f | ↓ |
 | Bupropion | Not assessed | ↔ |

@@ -4,6 +4,6 @@ TORRENT PHARMACEUTICALS LTD., Bharuch- 392 130, INDIA
 
 For:
 
-OWP Pharmaceuticals, Inc., 931 W. Hawthorne Lane, West Chicago, IL 60185.
+OWP Pharmaceuticals, Inc., 400 E. Diehl Road, Suite 400, Naperville, IL 60563
 
-OWOSSUBMG0617 8070369 Revised August 2018
+OWOSSUBPI1019 8076980 Revised October 2019

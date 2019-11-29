@@ -10,7 +10,7 @@ Therefore, it is important that the dosing recommendations be followed closely.
 
 The risk of nonserious rash may be increased when the recommended initial dose and/or the rate of dose escalation for SUBVENITE is exceeded and in patients with a history of allergy or rash to other AEDs.
 
-SUBVENITE Starter Kits provide SUBVENITE at doses consistent with the recommended titration schedule for the first 5 weeks of treatment, based upon concomitant medications, for patients with epilepsy (older than 12 years) and bipolar I disorder (adults) and are intended to help reduce the potential for rash.
+SUBVENITE Starter Kits provide SUBVENITE at doses consistent with the recommended titration schedule for the first 5 weeks of treatment, based upon concomitant medications for patients with epilepsy (older than 12 years) and bipolar I disorder (adults) and are intended to help reduce the potential for rash.
 The use of SUBVENITE Starter Kits is recommended for appropriate patients who are starting or restarting SUBVENITE [see How Supplied/Storage and Handling (16)].
 
 It is recommended that SUBVENITE not be restarted in patients who discontinued due to rash associated with prior treatment with lamotrigine unless the potential benefits clearly outweigh the risks.
@@ -111,7 +111,7 @@ Escalation Regimen for SUBVENITE in Patients Older than 12 Years with Epilepsy
 | Weeks 1 and 2 | 25 mg every other day | 25 mg every day | 50 mg/day |
 | Weeks 3 and 4 | 25 mg every day | 50 mg/day | 100 mg/day(in 2 divided doses) |
 | Week 5 onward to maintenance | Increase by 25 to 50 mg/day every 1 to 2 weeks. | Increase by 50 mg/day every 1 to 2 weeks. | Increase by 100 mg/day every 1 to 2 weeks. |
-| Usual maintenance dose | 100 to 200 mg/daywith valproatealone100 to 400 mg/daywith valproate andother drugs thatinduceglucuronidation(in 1 or 2 divided doses) | 225 to 375 mg/day(in 2 divided doses) | 300 to 500 mg/day(in 2 divided doses) |
+| Usual maintenance dose | 100 to 200 mg/day with valproate alone100 to 400 mg/day with valproate andother drugs that induce glucuronidation(in 1 or 2 divided doses) | 225 to 375 mg/day(in 2 divided doses) | 300 to 500 mg/day(in 2 divided doses) |
 | a Valproate has been shown to inhibit glucuronidation and decrease the apparent clearance of lamotrigine [see Drug Interactions (7), Clinical Pharmacology (12.3)]. |  |  |  |
 | b Drugs that induce lamotrigine glucuronidation and increase clearance, other than the specified antiepileptic drugs, include estrogen-containing oral contraceptives, rifampin, and the protease inhibitors lopinavir/ritonavir and atazanavir/ritonavir. Dosing recommendations for oral contraceptives and the protease inhibitor atazanavir/ritonavir can be found in General Dosing Considerations [see Dosage and Administration (2.1)]. Patients on rifampin and the protease inhibitor lopinavir/ritonavir should follow the same dosing titration/maintenance regimen used with antiepileptic drugs that induce glucuronidation and increase clearance [see Dosage and Administration (2.1), Drug Interactions (7), and Clinical Pharmacology (12.3)]. |  |  |  |
 
@@ -132,10 +132,10 @@ Escalation Regimen for SUBVENITE in Patients Aged 2 to 12 Years with Epilepsy
 
 |  | In Patients TAKING Valproatea | In Patients NOT TAKING Carbamazepine, Phenytoin, Phenobarbital, Primidoneb, or Valproatea | In Patients TAKING Carbamazepine, Phenytoin, Phenobarbital, or Primidoneband NOT TAKING Valproatea |
 | --- | --- | --- | --- |
-| Weeks 1 and 2 | 0.15 mg/kg/dayin 1 or 2 divided doses, rounded down to the nearest whole tablet (see Table 3 for weight-based dosing guide) | 0.3 mg/kg/dayin 1 or 2 divided doses, rounded down to the nearest whole tablet | 0.6 mg/kg/dayin 2 divided doses, rounded down to the nearest whole tablet |
-| Weeks 3 and 4 | 0.3 mg/kg/dayin 1 or 2 divided doses, rounded down to the nearest whole tablet (see Table 3 for weight-based dosing guide) | 0.6 mg/kg/dayin 2 divided doses, rounded down to the nearest whole tablet | 1.2 mg/kg/dayin 2 divided doses, rounded down to the nearest whole tablet |
+| Weeks 1 and 2 | 0.15 mg/kg/day in 1 or 2 divided doses, rounded down to the nearest whole tablet (see Table 3 for weight-based dosing guide) | 0.3 mg/kg/day in 1 or 2 divided doses, rounded down to the nearest whole tablet | 0.6 mg/kg/day in 2 divided doses, rounded down to the nearest whole tablet |
+| Weeks 3 and 4 | 0.3 mg/kg/day in 1 or 2 divided doses, rounded down to the nearest whole tablet (see Table 3 for weight-based dosing guide) | 0.6 mg/kg/day in 2 divided doses, rounded down to the nearest whole tablet | 1.2 mg/kg/day in 2 divided doses, rounded down to the nearest whole tablet |
 | Week 5 onward to maintenance | The dose should be increased every 1 to 2 weeks as follows: calculate 0.3 mg/kg/day, round this amount down to the nearest whole tablet, and add this amount to the previously administered daily dose. | The dose should be increased every 1 to 2 weeks as follows: calculate 0.6 mg/kg/day, round this amount down to the nearest whole tablet, and add this amount to the previously administered daily dose. | The dose should be increased every 1 to 2 weeks as follows: calculate 1.2 mg/kg/day, round this amount down to the nearest whole tablet, and add this amount to the previously administered daily dose. |
-| Usual Maintenance Dose | 1 to 5 mg/kg/day(maximum 200 mg/day in 1 or 2 divided doses) 1 to 3 mg/kg/daywith valproate alone | 4.5 to 7.5 mg/kg/day(maximum 300 mg/day in 2 divided doses) | 5 to 15 mg/kg/day(maximum 400 mg/day in 2 divided doses) |
+| Usual Maintenance Dose | 1 to 5 mg/kg/day (maximum 200 mg/day in 1 or 2 divided doses) 1 to 3 mg/kg/day with valproate alone | 4.5 to 7.5 mg/kg/day (maximum 300 mg/day in 2 divided doses) | 5 to 15 mg/kg/day (maximum 400 mg/day in 2 divided doses) |
 | Maintenance dose in patients less than 30 kg | May need to be increased by as much as 50%, based on clinical response. | May need to be increased by as much as 50%, based on clinical response. | May need to be increased by as much as 50%, based on clinical response. |
 | Note: Only whole tablets should be used for dosing. |  |  |  |
 | a Valproate has been shown to inhibit glucuronidation and decrease the apparent clearance of lamotrigine [see Drug Interactions (7), Clinical Pharmacology (12.3)]. |  |  |  |

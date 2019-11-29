@@ -30,25 +30,32 @@ To provide information regarding the effects of in utero exposure to SUBVENITE, 
 This can be done by calling the toll-free number 1-888-233-2334 and must be done by patients themselves.
 Information on the registry can also be found at the website http://www.aedpregnancyregistry.org.
 
-## 8.2 Labor and Delivery
+## 8.2 Lactation
 
-The effect of SUBVENITE on labor and delivery in humans is unknown.
+Risk Summary
 
-## 8.3 Nursing Mothers
+Lamotrigine is present in milk from lactating women taking SUBVENITE (see Data).
+Neonates and young infants are at risk for high serum levels because maternal serum and milk levels can rise to high levels postpartum if lamotrigine dosage has been increased during pregnancy but is not reduced after delivery to the pre-pregnancy dosage.
+Glucuronidation is required for drug clearance.
+Glucuronidation capacity is immature in the infant and this may also contribute to the level of lamotrigine exposure.
+Events including rash, apnea, drowsiness, poor sucking, and poor weight gain (requiring hospitalization in some cases) have been reported in infants who have been milk-fed by mothers using lamotrigine; whether or not these events caused by lamotrigine is unknown.
+No data are available on the effects of the drug on milk production.
 
-Lamotrigine is present in milk from lactating women taking SUBVENITE.
-Data from multiple small studies indicate that lamotrigine plasma levels in human milk-fed infants have been reported to be as high as 50% of the maternal serum levels.
-Neonates and young infants are at risk for high serum levels because maternal serum and milk levels can rise to high levels postpartum if lamotrigine dosage has been increased during pregnancy but not later reduced to the pre-pregnancy dosage.
-Lamotrigine exposure is further increased due to the immaturity of the infant glucuronidation capacity needed for drug clearance.
-Events including apnea, drowsiness, and poor sucking have been reported in infants who have been human milk-fed by mothers using lamotrigine; whether or not these events were caused by lamotrigine is unknown.
+The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for SUBVENITE and any potential adverse effects on the breastfed infant from SUBVENITE or from the underlying maternal condition.
+
+Clinical Considerations
+
 Human milk-fed infants should be closely monitored for adverse events resulting from lamotrigine.
 Measurement of infant serum levels should be performed to rule out toxicity if concerns arise.
 Human milk-feeding should be discontinued in infants with lamotrigine toxicity.
-Caution should be exercised when SUBVENITE is administered to a nursing woman.
+
+Data
+
+Data from multiple small studies indicate that lamotrigine plasma levels in nursing infants have been reported to be as high as 50% of maternal plasma concentrations.
 
 ## 8.4 Pediatric Use
 
-Epilepsy
+﻿Epilepsy
 
 SUBVENITE is indicated as adjunctive therapy in patients aged 2 years and older for partial-onset seizures, the generalized seizures of Lennox-Gastaut syndrome, and PGTC seizures.
 
@@ -57,15 +64,17 @@ SUBVENITE was associated with an increased risk for infectious adverse reactions
 Infectious adverse reactions included bronchiolitis, bronchitis, ear infection, eye infection, otitis externa, pharyngitis, urinary tract infection, and viral infection.
 Respiratory adverse reactions included nasal congestion, cough, and apnea.
 
-Bipolar Disorder Safety and efficacy of SUBVENITE for the maintenance treatment of bipolar disorder were not established in a double-blind, randomized withdrawal, placebo-controlled trial that evaluated 301 pediatric patients aged 10 to 17 years with a current manic/hypomanic, depressed, or mixed mood episode as defined by DSM-IV-TR.
-In the randomized phase of the trial, adverse reactions that occurred in at least 5% of patients taking SUBVENITE (n = 87) and were twice as common compared with patients taking placebo (n = 86) were influenza (SUBVENITE 8%, placebo 2%), oropharyngeal pain(SUBVENITE 8%, placebo 2%), vomiting (SUBVENITE 6%, placebo 2%), contact dermatitis (SUBVENITE 5%, placebo 2%), upper abdominal pain (SUBVENITE 5%, placebo 1%), and suicidal ideation (SUBVENITE 5%, placebo 0%).
+﻿Bipolar Disorder
 
-Juvenile Animal Data
+Safety and efficacy of SUBVENITE for the maintenance treatment of bipolar disorder were not established in a double-blind, randomized withdrawal, placebo-controlled trial that evaluated 301 pediatric patients aged 10 to 17 years with a current manic/hypomanic, depressed, or mixed mood episode as defined by DSM-IV-TR.
+In the randomized phase of the trial, adverse reactions that occurred in at least 5% of patients taking placebo (n = 86) were influenza (SUBVENITE 8%, placebo 2%), oropharyngeal pain (SUBVENITE 8%, placebo 2%), vomiting (SUBVENITE 6%, placebo 2%), upper abdominal pain (SUBVENITE 5%, placebo 1%), and suicidal ideation (SUBVENITE 5%, placebo 0%).
 
-In a juvenile animal study in which lamotrigine (oral doses of 5, 15, or 30 mg/kg) was administered to young rats (postnatal days 7 to 62), decreased viability and growth were seen at the highest dose tested and long-term behavioral abnormalities (decreased locomotor activity, increased reactivity, and learning deficits in animals tested as adults) were observed at the 2 highest doses.
-The no-effect dose for adverse effects on neurobehavioral development is less than the human dose of 400 mg/day on a mg/m2basis.
+﻿Juvenile Animal Data
 
-## 8.5 Geriatric Use
+In a juvenile animal study in which lamotrigine (oral doses of 0, 5, 15, or 30 mg/kg) was administered to young rats from postnatal day 7 to 62, decreased viability and growth were seen at the highest dose tested and long-term neurobehavioral abnormalities (decreased locomotor activity, increased reactivity, and learning deficits in animals tested as adults) were observed at the 2 highest doses.
+The no-effect dose for adverse developmental effects in juvenile animals is less than the human dose of 400 mg/day on a mg/m2 basis.
+
+### 8.5 Geriatric Use
 
 Clinical trials of SUBVENITE for epilepsy and bipolar disorder did not include sufficient numbers of patients aged 65 years and older to determine whether they respond differently from younger patients or exhibit a different safety profile than that of younger patients.
 In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function and of concomitant disease or other drug therapy.

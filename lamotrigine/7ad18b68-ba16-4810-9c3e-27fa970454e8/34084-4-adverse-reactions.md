@@ -84,7 +84,7 @@ Controlled Monotherapy Trial in Adults with Partial-Onset Seizures: Table 10 lis
 Table 10.
 Adverse Reactions in a Controlled Monotherapy Trial in Adult Patients with Partial-Onset Seizuresa,b
 
-| Body System/Adverse Reaction | Percent of Patients Receiving SUBVENITEcas Monotherapy (n = 43) | Percent of Patients Receiving Low-Dose ValproatedMonotherapy (n = 44) |
+| Body System/Adverse Reaction | Percent of Patients Receiving SUBVENITEc as Monotherapy (n = 43) | Percent of Patients Receiving Low-Dose ValproatedMonotherapy (n = 44) |
 | --- | --- | --- |
 | Body as a whole Pain Infection Chest pain | 5 5 5 | 0 2 2 |
 | Digestive Vomiting Dyspepsia Nausea | 9 7 7 | 0 2 2 |

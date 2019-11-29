@@ -4,7 +4,8 @@ SUBVENITE (Sub-VE-nite) lamotrigine tablets, USP
 
 What is the most important information I should know about SUBVENITE?
 
-1.SUBVENITE may cause a serious skin rash that may cause you to be hospitalized or even cause death.
+1.
+SUBVENITE may cause a serious skin rash that may cause you to be hospitalized or even cause death.
 
 There is no way to tell if a mild rash will become more serious.
 A serious skin rash can happen at any time during your treatment with SUBVENITE, but is more likely to happen within the first 2 to 8 weeks of treatment.
@@ -88,7 +89,7 @@ Call your healthcare provider right away if you have any of the following sympto
 - confusion
 - drowsiness
 
-Meningitis has many causes other thanSUBVENITE, which your doctor would check for if you developed meningitis while taking SUBVENITE.
+Meningitis has many causes other than SUBVENITE, which your doctor would check for if you developed meningitis while taking SUBVENITE.
 
 SUBVENITE can cause other serious side effects.
 For more information ask your healthcare provider or pharmacist.
@@ -223,7 +224,7 @@ You can ask your healthcare provider or pharmacist for information about SUBVENI
 For more information, call 1-800-273-6729.
 
 What are the ingredients in SUBVENITE?
-SUBVENITE(lamotrigine) tablets, USP
+SUBVENITE (lamotrigine) tablets, USP
 
 Active ingredient: lamotrigine, USP.
 
@@ -239,6 +240,6 @@ TORRENT PHARMACEUTICALS LTD., Bharuch-392 130, INDIA.
 
 For:
 
-OWP Pharmaceuticals, Inc., 931 W. Hawthorne Lane, West Chicago, IL 60185.
+OWP Pharmaceuticals, Inc., 400 E. Diehl Road, Suite 400, Naperville, IL 60563.
 
-OWOSSUBPI0617 8070370 Revised August 2018
+OWOSSUBMGI1019 8076980 Revised October 2019
