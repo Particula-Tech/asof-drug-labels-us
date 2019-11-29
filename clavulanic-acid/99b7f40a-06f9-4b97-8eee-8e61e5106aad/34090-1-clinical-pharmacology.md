@@ -62,11 +62,11 @@ Amoxicillin/clavulanic acid has been shown to be active against most isolates of
 
 Gram-positive bacteria
 
-Streptococcus pneumonia (including isolates with penicillin MICs ≤2 mcg/mL)
+Streptococcus pneumoniae (including isolates with penicillin MICs ≤2 mcg/mL)
 
 Gram-negative bacteria:
 
-Haemophilusinfluenzae (including beta-lactamase-producing isolates)
+Haemophilus influenzae (including beta-lactamase-producing isolates)
 
 Moraxella catarrhalis (including beta-lactamase-producing isolates)
 
@@ -89,7 +89,7 @@ Dilution Technique
 
 Quantitative methods are used to determine antimicrobial minimum inhibitory concentrations (MICs).
 These MICs provide estimates of the susceptibility of bacteria to antimicrobial compounds.
-The MICs should be determined using a standard test method1,2 (broth for S. pneumoniaeand H. influenzae).
+The MICs should be determined using a standard test method1,2 (broth for S. pneumoniae and H. influenzae).
 The recommended dilution pattern utilizes a constant amoxicillin/clavulanate potassium ratio of 2 to 1 in all tubes with varying amounts of amoxicillin.
 MICs are expressed in terms of the amoxicillin concentration in the presence of clavulanic acid at a constant 2 parts amoxicillin to 1 part clavulanic acid.
 The MIC values should be interpreted according to criteria provided in Table 3.
@@ -107,8 +107,8 @@ Susceptibility Test Result Interpretive Criteria for Amoxicillin/Clavulanate Pot
 | Timepoint | Minimum Inhibitory Concentration (mcg/mL) |  |  | Disk Diffusion(Zone Diameter in mm) |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
 | Pathogen | S | I | R | S | I | R |
-| Streptococcus pneumonia (non-meningitis isolates) | ≤2/1 | 4/2 | ≥8/4 | Not Applicable (NA) |  |  |
-| Haemophilusinfluenzae | ≤4/2 | N/A | ≥8/4 | ≥20 | N/A | ≤19 |
+| Streptococcus pneumoniae (non-meningitis isolates) | ≤2/1 | 4/2 | ≥8/4 | Not Applicable (NA) |  |  |
+| Haemophilus influenzae | ≤4/2 | N/A | ≥8/4 | ≥20 | N/A | ≤19 |
 
 S=Susceptible, I=Intermediate, R=Resistant
 
@@ -134,21 +134,10 @@ Acceptable Quality Control Ranges for Amoxicillin/Clavulanate Potassium
 
 | Quality Control Organism | Minimum Inhibitory Concentration (mcg/mL) | Disk Diffusion (Zone Diameter in mm) |
 | --- | --- | --- |
-| Enterococcus faecalis ATCC®129212 | 0.25/0.12 to 1/0.5 | N/A |
+| Enterococcus faecalis ATCC®ATCC =American Type Culture Collection29212 | 0.25/0.12 to 1/0.5 | N/A |
 | Escherichia coli ATCC® 25922 | 2/1 to 8/4 | 18 to 24 |
-| Escherichia coli ATCC® 352181,2 | 4/2 to 16/8 | 17 to 22 |
-| HaemophilusinfluenzaeATCC 49247 | 2/1 to 16/8 | 15 to 23 |
+| Escherichia coli ATCC® 35218QC strain recommended when testing beta-lactam/beta-lactamase inhibitors2.,This strain may lose its plasmid and develop susceptibility to beta-lactam antimicrobial agents after repeated transfers onto culture media. Minimize by removing new culture from storage at least monthly or whenever the strain begins to show decreased MICs to ampicillin, piperacillin, or ticarcillin2. | 4/2 to 16/8 | 17 to 22 |
+| Haemophilus influenzaeATCC 49247 | 2/1 to 16/8 | 15 to 23 |
 | Staphylococcus aureusATCC® 25923 | N/A | 28 to 36 |
 | Staphylococcus aureus ATCC® 29213 | 0.12/0.06 to 0.5/0.25 | N/A |
-| Streptococcus pneumonia ATCC 49619 | 0.03/0.015 to 0.12/0.06 | N/A |
-
-- 
-  - 
-    - 
-      - 
-        - 
-          - 
-            - 1.ATCC =American Type Culture Collection
-            - 2.QC strain recommended when testing beta-lactam/beta-lactamase inhibitors2.
-            - 3.This strain may lose its plasmid and develop susceptibility to beta-lactam antimicrobial agents after repeated transfers onto culture media.
-              Minimize by removing new culture from storage at least monthly or whenever the strain begins to show decreased MICs to ampicillin, piperacillin, or ticarcillin2.
+| Streptococcus pneumoniaeATCC 49619 | 0.03/0.015 to 0.12/0.06 | N/A |

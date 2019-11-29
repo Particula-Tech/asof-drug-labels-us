@@ -13,6 +13,6 @@ Amoxicillin and Clavulanate Potassium for Oral Suspension, USP is indicated for 
 
 [see CLINICAL PHARMACOLOGY, Microbiology (12.4)].
 
-NOTE: Acute otitis media due to S. pneumoniaealone can be treated with amoxicillin.
-Amoxicillin and clavulanate potassium for oral suspension, USP is not indicated for the treatment of acute otitis media due to S. pneumoniaewith penicillin MIC ≥ 4 mcg /mL.
-Therapy may be instituted prior to obtaining the results from bacteriological studies when there is reason to believe the infection may involve both S. pneumoniae(penicillin MIC ≤ 2 mcg/mL) and the β-lactamase-producing organisms listed above.
+NOTE: Acute otitis media due to S. pneumoniae alone can be treated with amoxicillin.
+Amoxicillin and clavulanate potassium for oral suspension, USP is not indicated for the treatment of acute otitis media due to S. pneumoniae with penicillin MIC ≥ 4 mcg /mL.
+Therapy may be instituted prior to obtaining the results from bacteriological studies when there is reason to believe the infection may involve both S. pneumoniae (penicillin MIC ≤ 2 mcg/mL) and the β-lactamase-producing organisms listed above.
