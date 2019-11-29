@@ -14,7 +14,7 @@ Before prescribing zidovudine tablets, children should be assessed for the abili
 If a child is unable to reliably swallow a zidovudine tablet, the zidovudine syrup formulation should be prescribed.
 
 The recommended oral dosage in pediatric patients aged 4 weeks to less than 18 years and weighing greater than or equal to 4 kg is provided in Table 1.
-Zidovudine syrup should be used to provide accurate dosage when tablets are not appropriate.
+Zidovudine syrup should be used to provide accurate dosage when whole tablets are not appropriate.
 
 Table 1.
 Recommended Pediatric Oral Dosage of Zidovudine Tablets
@@ -46,14 +46,12 @@ Neonates unable to receive oral dosing may be administered zidovudine intravenou
 See Table 2 for dosing recommendations.
 
 Table 2.
-Recommended Neonatal Dosages of Zidovudine
+Recommended Neonatal Dosages of zidovudine
 
 | Route | Total Daily Dose | Dose and Dosage Regimen |
 | --- | --- | --- |
 | Oral | 8 mg/kg/day | 2 mg/kg every 6 hours |
 | Intravenous | 6 mg/kg/day | 1.5 mg/kg infused over 30 minutes, every 6 hours |
-
-Use an appropriate-sized syringe with 0.1 mL graduation to ensure accurate dosing of the syrup formulation in neonates.
 
 ## 2.4 Patients with Severe Anemia and/or Neutropenia
 
@@ -63,7 +61,8 @@ If marrow recovery occurs following dose interruption, resumption in dose may be
 
 ## 2.5 Patients with Renal Impairment
 
-In patients maintained on hemodialysis or peritoneal dialysis or with creatinine clearance (CrCl) by Cockcroft-Gault less than 15 mL per min, the recommended oral dosage is 100 mg every 6 to 8 hours [see Use in Specific Populations (8.6), Clinical Pharmacology (12.3)].
+In patients maintained on hemodialysis or peritoneal dialysis or with creatinine clearance (CrCl) by Cockcroft-Gault less than 15 mL per min, the recommended oral dosage is 100 mg every 6 to 8 hours.
+The intravenous dosing regimen equivalent to the oral administration of 100 mg every 6 to 8 hours is approximately 1 mg per kg every 6 to 8 hours [see Use in Specific Populations (8.6), Clinical Pharmacology (12.3)].
 
 ## 2.6 Patients with Hepatic Impairment
 

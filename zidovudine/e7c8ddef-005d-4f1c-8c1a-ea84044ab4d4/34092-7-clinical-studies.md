@@ -17,17 +17,17 @@ Subsequent trials showed that the clinical benefit of monotherapy with zidovudin
 
 ACTG 300 was a multi-center, randomized, double-blind trial that provided for comparison of EPIVIR plus zidovudine to didanosine monotherapy.
 A total of 471 symptomatic, HIV-1-infected therapy-naive pediatric subjects were enrolled in these 2 treatment arms.
-The median age was 2.7 years (range: 6 weeks to 14 years), the mean baseline CD4+ cell count was 868 cells per mm3, and the mean baseline plasma HIV-1 RNA was 5 log10 copies per mL.
+The median age was 2.7 years (range: 6 weeks to 14 years), the mean baseline CD4+ cell count was 868 cells per mm3, and the mean baseline plasma HIV-1 RNA was 5.0 log10 copies per mL.
 The median duration that subjects remained on trial was approximately 10 months.
 Results are summarized in Table 11.
 
 Table 11.
 Number of Subjects (%) Reaching a Primary Clinical Endpoint (Disease Progression or Death)
 
-| Endpoint | EPIVIR plus Zidovudine (n = 236) | Didanosine (n = 235) |
+| Endpoint | EPIVIR plus Zidovudine Tablets (n = 236) | Didanosine (n = 235) |
 | --- | --- | --- |
 | HIV disease progression or death (total) | 15 (6.4%) | 37 (15.7%) |
-| Physical growth failure | 7 (3%) | 6 (2.6%) |
+| Physical growth failure | 7 (3.0%) | 6 (2.6%) |
 | Central nervous system deterioration | 4 (1.7%) | 12 (5.1%) |
 | CDC Clinical Category C | 2 (0.8%) | 8 (3.4%) |
 | Death | 2 (0.8%) | 11 (4.7%) |

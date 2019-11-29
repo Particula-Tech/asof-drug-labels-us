@@ -6,13 +6,13 @@ Carcinogenesis
 
 Zidovudine was administered orally at 3 dosage levels to separate groups of mice and rats (60 females and 60 males in each group).
 Initial single daily doses were 30, 60, and 120 mg per kg per day in mice and 80, 220, and 600 mg per kg per day in rats.
-The doses in mice were reduced to 20, 30, and 40 mg per kg per day after Day 90 because of treatment-related anemia, whereas in rats only the high dose was reduced to 450 mg per kg per day on Day 91 and then to 300 mg per kg per day on Day 279.
+The doses in mice were reduced to 20, 30, and 40 mg per kg per day after day 90 because of treatment-related anemia, whereas in rats only the high dose was reduced to 450 mg per kg per day on Day 91 and then to 300 mg per kg per day on Day 279.
 
-In mice, 7 late-appearing (after 19 months) vaginal neoplasms (5 non-metastasizing squamous cell carcinomas, 1 squamous cell papilloma, and 1 squamous polyp) occurred in animals given the highest dose.
+In mice, 7 late-appearing (after 19 months) vaginal neoplasms (5 nonmetastasizing squamous cell carcinomas, 1 squamous cell papilloma, and 1 squamous polyp) occurred in animals given the highest dose.
 One late-appearing squamous cell papilloma occurred in the vagina of a middle-dose animal.
 No vaginal tumors were found at the lowest dose.
 
-In rats, 2 late-appearing (after 20 months), non-metastasizing vaginal squamous cell carcinomas occurred in animals given the highest dose.
+In rats, 2 late-appearing (after 20 months), nonmetastasizing vaginal squamous cell carcinomas occurred in animals given the highest dose.
 No vaginal tumors occurred at the low or middle dose in rats.
 No other drug-related tumors were observed in either sex of either species.
 

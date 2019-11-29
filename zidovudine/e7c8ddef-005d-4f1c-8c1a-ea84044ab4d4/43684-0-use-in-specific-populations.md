@@ -53,15 +53,15 @@ However, there were no signs of fetal malformations at doses up to 600 mg per kg
 
 Risk Summary
 
-The Centers for Disease Control and Prevention recommends that HIV-1-infected mothers in the United States not breastfeed their infants to avoid risking postnatal transmission of HIV-1 infection.
+The Centers for Disease Control and Prevention recommend that HIV-1-infected mothers in the United States not breastfeed their infants to avoid risking postnatal transmission of HIV-1 infection.
 Zidovudine is present in human milk.
 There is no information on the effects of zidovudine on the breastfed infant or the effects of the drug on milk production.
-Because of the potential for (1) HIV-1 transmission (in HIV-negative infants), (2) developing viral resistance (in HIV-positive infants), and (3) adverse reactions in a breastfed infant instruct mothers not to breastfeed if they are receiving zidovudine.
+Because of the potential for (1) HIV-1 transmission (in HIV negative infants), (2) developing viral resistance (in HIV positive infants), and (3) adverse reactions in a breastfed infant, instruct mothers not to breastfeed if they are receiving zidovudine.
 
 ## 8.4 Pediatric Use
 
 Zidovudine has been studied in HIV-1-infected pediatric subjects aged at least 6 weeks who had HIV-1-related symptoms or who were asymptomatic with abnormal laboratory values indicating significant HIV-1-related immunosuppression.
-Zidovudine has also been studied in neonates perinatally exposed to HIV-1 [see Dosage and Administration (2.2), Adverse Reactions (6.1), Clinical Pharmacology (12.3), Clinical Studies (14.2), (14.3)].
+Zidovudine has also been studied in neonates perinatally exposed to HIV-1 [see Dosage and Administration (2.2), Adverse Reactions (6.1), Clinical Pharmacology (12.3), Clinical Studies (14.2, 14.3)].
 
 ## 8.5 Geriatric Use
 
