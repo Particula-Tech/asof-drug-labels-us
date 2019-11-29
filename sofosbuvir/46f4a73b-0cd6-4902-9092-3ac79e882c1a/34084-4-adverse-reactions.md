@@ -12,13 +12,13 @@ If ledipasvir and sofosbuvir is administered with ribavirin to adults, refer to 
 
 Clinical Trials in Adult Subjects
 
-The safety assessment of ledipasvir and sofosbuvir was based on pooled data from three randomized, open-label Phase 3 clinical trials (ION-3, ION-1, and ION-2) of subjects with genotype 1 HCV with compensated liver disease (with and without cirrhosis) including 215, 539, and 326 subjects who received ledipasvir and sofosbuvir tablets (90 mg/400 mg) once daily by mouth for 8, 12 and 24 weeks, respectively [see Clinical Studies (14)].
+The safety assessment of ledipasvir and sofosbuvir was based on pooled data from three randomized, open-label Phase 3 clinical trials (ION-3, ION-1, and ION-2) of subjects with genotype 1 HCV with compensated liver disease (with and without cirrhosis) including 215, 539, and 326 subjects who received ledipasvir and sofosbuvir tablets (90 mg/400 mg) once daily by mouth for 8, 12, and 24 weeks, respectively [see Clinical Studies (14)].
 
 The proportion of subjects who permanently discontinued treatment due to adverse events was 0%, less than 1%, and 1% for subjects receiving ledipasvir and sofosbuvir for 8, 12, and 24 weeks, respectively.
 
 The most common adverse reactions (at least 10%) were fatigue and headache in subjects treated with 8, 12, or 24 weeks of ledipasvir and sofosbuvir.
 
-Table 4 lists adverse reactions (adverse events assessed as causally related by the investigator, all grades) observed in at least 5% of subjects receiving 8, 12, or 24 weeks treatment with ledipasvir and sofosbuvir in clinical trials.
+Table 4 lists adverse reactions (adverse events assessed as causally related by the investigator, all grades) observed in at least 5% of subjects receiving 8, 12, or 24 weeks of treatment with ledipasvir and sofosbuvir in clinical trials.
 The majority of adverse reactions presented in Table 4 occurred at severity of grade 1.
 The side-by-side tabulation is to simplify presentation; direct comparison across trials should not be made due to differing trial designs.
 
@@ -44,7 +44,7 @@ Subjects were randomized to receive 24 weeks of ledipasvir and sofosbuvir tablet
 Table 5 presents the adverse reactions, as defined above, that occurred with at least 5% greater frequency in subjects treated with 24 weeks of ledipasvir and sofosbuvir or 12 weeks of ledipasvir and sofosbuvir + ribavirin, compared to those reported for 12 weeks of placebo.
 The majority of the adverse reactions presented in Table 5 were Grade 1 or 2 in severity.
 
-Table 5 Adverse Reactions with ≥5% Greater Frequency Reported in Treatment-Experienced Subjects with Cirrhosis Receiving Ledipasvir and Sofosbuvir for 24 Weeks or Ledipasvir and Sofosbuvir + RBV for 12 Weeks Compared to Placebo for 12 weeks
+Table 5 Adverse Reactions with ≥5% Greater Frequency Reported in Treatment-Experienced Subjects with Cirrhosis Receiving Ledipasvir and Sofosbuvir for 24 Weeks or Ledipasvir and Sofosbuvir + Ribavirin for 12 Weeks Compared to Placebo for 12 weeks
 
 |  | Ledipasvir and Sofosbuvir 24 weeks (N=78) | Ledipasvir and Sofosbuvir + RBV 12 weeks (N=76) | Placebo 12 weeks (N=77) |
 | --- | --- | --- | --- |
@@ -56,6 +56,7 @@ Table 5 Adverse Reactions with ≥5% Greater Frequency Reported in Treatment-Exp
 | Dyspnea | 3% | 9% | 1% |
 | Irritability | 8% | 7% | 1% |
 | Dizziness | 5% | 1% | 0 |
+| RBV=ribavirin |  |  |  |
 
 Adverse Reactions in Subjects Coinfected with HIV-1
 
@@ -65,27 +66,25 @@ The most common adverse reactions occurring in at least 10% of subjects were hea
 
 Adverse Reactions in Liver Transplant Recipients and/or Subjects with Decompensated Cirrhosis
 
-The safety assessment of ledipasvir and sofosbuvir with ribavirin (RBV) in liver transplant recipients and/or those who had decompensated liver disease was based on pooled data from two Phase 2 open-label clinical trials including 336 subjects who received ledipasvir and sofosbuvir tablets (90 mg/400 mg) plus RBV for 12 weeks.
+The safety assessment of ledipasvir and sofosbuvir with ribavirin in liver transplant recipients and/or those who had decompensated liver disease was based on pooled data from two Phase 2 open-label clinical trials including 336 subjects who received ledipasvir and sofosbuvir tablets (90 mg/400 mg) plus ribavirin for 12 weeks.
 Subjects with Child-Pugh-Turcotte (CPT) scores greater than 12 were excluded from the trials [see Clinical Studies (14.5)].
 
 The adverse events observed were consistent with the expected clinical sequelae of liver transplantation and/or decompensated liver disease, or the known safety profile of ledipasvir and sofosbuvir and/or ribavirin.
 
-Decreases in hemoglobin to less than 10 g/dL and 8.5 g/dL during treatment were observed in 38% and 13% of subjects treated with ledipasvir and sofosbuvir plus RBV for 12 weeks, respectively.
-Ribavirin was permanently discontinued in 11% of subjects treated with ledipasvir and sofosbuvir plus RBV for 12 weeks.
+Decreases in hemoglobin to less than 10 g/dL and 8.5 g/dL during treatment were observed in 38% and 13% of subjects treated with ledipasvir and sofosbuvir plus ribavirin for 12 weeks, respectively.
+Ribavirin was permanently discontinued in 11% of subjects treated with ledipasvir and sofosbuvir plus ribavirin for 12 weeks.
 
 Liver Transplant Recipients with Compensated Liver Disease:
 
-Among the 174 liver transplant recipients with compensated liver disease who received ledipasvir and sofosbuvir tablets (90 mg/400 mg) with RBV for 12 weeks, 2 (1%) subjects permanently discontinued ledipasvir and sofosbuvir due to an adverse event.
+Among the 174 liver transplant recipients with compensated liver disease who received ledipasvir and sofosbuvir tablets (90 mg/400 mg) with ribavirin for 12 weeks, 2 (1%) subjects permanently discontinued ledipasvir and sofosbuvir due to an adverse event.
 
 Subjects with Decompensated Liver Disease:
 
-Among the 162 subjects with decompensated liver disease (pre- or post-transplant) who received ledipasvir and sofosbuvir tablets (90 mg/400 mg) with RBV for 12 weeks, 7 (4%) subjects died, 4 (2%) subjects underwent liver transplantation, and 1 subject (<1%) underwent liver transplantation and died during treatment or within 30 days after discontinuation of treatment.
+Among the 162 subjects with decompensated liver disease (pre- or post-transplant) who received ledipasvir and sofosbuvir tablets (90 mg/400 mg) with ribavirin for 12 weeks, 7 (4%) subjects died, 4 (2%) subjects underwent liver transplantation, and 1 subject (<1%) underwent liver transplantation and died during treatment or within 30 days after discontinuation of treatment.
 Because these events occurred in patients with advanced liver disease who are at risk of progression of liver disease including liver failure and death, it is not possible to reliably assess the contribution of drug effect to outcomes.
 A total of 4 (2%) subjects permanently discontinued ledipasvir and sofosbuvir due to an adverse event.
 
-Less Common Adverse Reactions Reported in Clinical Trials (less than 5%):
-
-The following adverse reactions occurred in less than 5% of subjects receiving ledipasvir and sofosbuvir tablets (90 mg/400 mg) in any one trial.
+Less Common Adverse Reactions Reported in Clinical Trials (less than 5%): The following adverse reactions occurred in less than 5% of subjects receiving ledipasvir and sofosbuvir tablets (90 mg/400 mg) in any one trial.
 These events have been included because of their seriousness or assessment of potential causal relationship.
 
 Psychiatric disorders: depression (including in subjects with pre-existing history of psychiatric illness).
@@ -96,7 +95,7 @@ Suicidal ideation and suicide have occurred in less than 1% of subjects treated 
 Laboratory Abnormalities
 
 Bilirubin Elevations: Bilirubin elevations of greater than 1.5×ULN were observed in 3%, less than 1%, and 2% of subjects treated with ledipasvir and sofosbuvir tablets (90 mg/400 mg) for 8, 12, and 24 weeks, respectively.
-Bilirubin elevations of greater than 1.5×ULN were observed in 3%, 11%, and 3% of subjects with compensated cirrhosis treated with placebo, ledipasvir and sofosbuvir + ribavirin for 12 weeks and ledipasvir and sofosbuvir for 24 weeks, respectively, in the SIRIUS trial.
+Bilirubin elevations of greater than 1.5×ULN were observed in 3%, 11%, and 3% of subjects with compensated cirrhosis treated with placebo, ledipasvir and sofosbuvir + ribavirin for 12 weeks, and ledipasvir and sofosbuvir for 24 weeks, respectively, in the SIRIUS trial.
 
 Lipase Elevations: Transient, asymptomatic lipase elevations of greater than 3×ULN were observed in less than 1%, 2%, and 3% of subjects treated with ledipasvir and sofosbuvir tablets (90 mg/400 mg) for 8, 12, and 24 weeks, respectively.
 Transient, asymptomatic lipase elevations of greater than 3×ULN were observed in 1%, 3%, and 9% of subjects with compensated cirrhosis treated with placebo, ledipasvir and sofosbuvir + ribavirin for 12 weeks, and ledipasvir and sofosbuvir for 24 weeks, respectively, in the SIRIUS trial.
@@ -105,13 +104,20 @@ Creatine Kinase: Creatine kinase was not assessed in Phase 3 trials ION-3, ION-1
 Creatine kinase was assessed in the ION-4 trial.
 Isolated, asymptomatic creatine kinase elevations of greater than or equal to 10×ULN was observed in 1% of subjects treated with ledipasvir and sofosbuvir tablets (90 mg/400 mg) for 12 weeks in the ION-4 trial and has also been previously reported in subjects treated with sofosbuvir in combination with ribavirin or peginterferon/ribavirin in other clinical trials.
 
+Adverse Reactions in Adults with Severe Renal Impairment, Including those on Dialysis
+
+In an open-label trial (Trial 0154) in which adults with HCV with compensated liver disease (with or without cirrhosis) and severe renal impairment received ledipasvir and sofosbuvir tablets (90 mg/400 mg) for 12 weeks (N=18), the most common adverse reaction was fatigue (17%) [see Clinical Studies (14.6)].
+
+In an open-label clinical trial, Trial 4063, a total of 95 adults with HCV with compensated liver disease (with or without cirrhosis) and ESRD requiring dialysis received ledipasvir and sofosbuvir tablets (90 mg/400 mg) for 8 (n=45), 12 (n=31), or 24 (n=19) weeks.
+The most common adverse reactions were insomnia and headache (each reported in 4% of subjects overall) [see Clinical Studies (14.6)].
+
 Adverse Reactions in Pediatric Subjects 3 Years of Age and Older
 
 The safety assessment of ledipasvir and sofosbuvir tablets (90 mg/400 mg), ledipasvir and sofosbuvir (HARVONI) tablets (45 mg/200 mg), or ledipasvir and sofosbuvir (HARVONI) oral pellets in pediatric subjects 3 years of age and older is based on data from a Phase 2, open-label clinical trial (Study 1116).
 In total, 226 subjects were enrolled, which included 223 subjects without cirrhosis or with compensated cirrhosis who were treated with ledipasvir and sofosbuvir for 12 weeks; one genotype 1 treatment-experienced subject with cirrhosis who was treated with ledipasvir and sofosbuvir for 24 weeks; and two genotype 3 subjects who were treated with ledipasvir and sofosbuvir + ribavirin for 24 weeks.
 The adverse reactions observed were consistent with those observed in clinical studies of ledipasvir and sofosbuvir tablets (90 mg/400 mg) in adults.
 Limited safety data are available in pediatric subjects receiving ledipasvir and sofosbuvir for 24 weeks.
-No Grade 3 or 4 adverse reactions or discontinuation due to an adverse reaction was observed in those pediatric subjects receiving ledipasvir and sofosbuvir for 24 weeks [see Clinical Studies (14.6)].
+No Grade 3 or 4 adverse reactions or discontinuation due to an adverse reaction was observed in those pediatric subjects receiving ledipasvir and sofosbuvir for 24 weeks [see Clinical Studies (14.7)].
 
 ## 6.2 Postmarketing Experience
 
@@ -124,6 +130,4 @@ Serious symptomatic bradycardia has been reported in patients taking amiodarone 
 
 Skin and Subcutaneous Tissue Disorders
 
-Skin rashes, sometimes with blisters or angioedema-like swelling
-
-Angioedema
+Skin rashes, sometimes with blisters or angioedema-like swelling Angioedema

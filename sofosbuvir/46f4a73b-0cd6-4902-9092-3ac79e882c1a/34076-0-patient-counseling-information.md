@@ -9,7 +9,7 @@ Advise patients to tell their healthcare provider if they have a history of HBV 
 
 Serious Symptomatic Bradycardia When Coadministered with Amiodarone
 
-Advise patients to seek medical evaluation immediately for symptoms of bradycardia such as near-fainting or fainting, dizziness or lightheadedness, malaise, weakness, excessive tiredness, shortness of breath, chest pain, confusion or memory problems [see Warnings and Precautions (5.2), Adverse Reactions (6.2), and Drug Interactions (7.2)].
+Advise patients to seek medical evaluation immediately for symptoms of bradycardia such as near-fainting or fainting, dizziness or lightheadedness, malaise, weakness, excessive tiredness, shortness of breath, chest pain, confusion, or memory problems [see Warnings and Precautions (5.2), Adverse Reactions (6.2), and Drug Interactions (7.2)].
 
 Drug Interactions
 

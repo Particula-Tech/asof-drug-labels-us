@@ -59,8 +59,11 @@ Refer to ribavirin prescribing information for additional information.
 
 The safety, pharmacokinetics, and efficacy of ledipasvir and sofosbuvir for treatment of HCV genotype 1 and 4 infection in treatment-naïve and treatment-experienced pediatric patients 3 years of age and older without cirrhosis or with compensated cirrhosis have been established in an open-label, multicenter clinical trial (Study 1116, N=226; 186 treatment-naïve, 40 treatment-experienced) and are comparable to that observed in adults.
 
-The safety and efficacy of ledipasvir and sofosbuvir for treatment of HCV genotypes 5 or 6 infection in pediatric patients 3 years of age and older without cirrhosis or with compensated cirrhosis is supported by comparable ledipasvir, sofosbuvir, and GS-331007 exposures between adults and pediatric patients with HCV genotype 1 and 4, and similar efficacy and exposures across HCV genotypes 1, 4, 5, and 6 in adults [see Dosage and Administration (2.2 and 2.4), Adverse Reactions (6.1), Clinical Pharmacology (12.3), and Clinical Studies (14.3 and 14.6)].
+The safety and efficacy of ledipasvir and sofosbuvir for treatment of HCV genotypes 5 or 6 infection in pediatric patients 3 years of age and older are supported by comparable ledipasvir, sofosbuvir, and GS-331007 exposures between adults and pediatric patients [see Dosage and Administration (2.2 and 2.4), Adverse Reactions (6.1), Clinical Pharmacology (12.3), and Clinical Studies (14.3, 14.6, 14.7)].
 Similar rationale is used to support dosing recommendations for pediatric patients with HCV genotype 1 infection who have decompensated cirrhosis (Child-Pugh B or C) and for pediatric patients with HCV genotype 1 and 4 infection who are liver transplant recipients without cirrhosis or with compensated cirrhosis.
+
+In patients with severe renal impairment, including those requiring dialysis, exposures of GS-331007, the inactive metabolite of sofosbuvir, are increased [see Clinical Pharmacology (12.3)].
+No data are available regarding the safety of ledipasvir and sofosbuvir in pediatric patients with renal impairment [see Use in Specific Populations (8.6)].
 
 The safety and efficacy of ledipasvir and sofosbuvir have not been established in pediatric patients less than 3 years of age.
 
@@ -72,13 +75,13 @@ No dosage adjustment of ledipasvir and sofosbuvir is warranted in geriatric pati
 
 ## 8.6 Renal Impairment
 
-No dosage adjustment of ledipasvir and sofosbuvir is required for patients with mild or moderate renal impairment.
-The safety and efficacy of ledipasvir and sofosbuvir have not been established in patients with severe renal impairment (eGFR less than 30 mL/min/1.73 m2) or ESRD requiring hemodialysis.
-No dosage recommendation can be given for patients with severe renal impairment or ESRD [see Dosage and Administration (2.6) and Clinical Pharmacology (12.3)].
-Refer to ribavirin prescribing information regarding use in patients with renal impairment.
+No dosage adjustment of ledipasvir and sofosbuvir is recommended for patients with mild, moderate, or severe renal impairment, including ESRD requiring dialysis [see Dosage and Administration (2.4), Adverse Reactions (6.1), Clinical Pharmacology (12.3), and Clinical Studies (14.6)].
+No safety data are available in subjects with both decompensated cirrhosis and severe renal impairment, including those on dialysis.
+Additionally, no safety data are available in pediatric patients with renal impairment [see Use in Specific Populations (8.4)].
+Refer to ribavirin tablet prescribing information regarding use in patients with renal impairment.
 
 ## 8.7 Hepatic Impairment
 
-No dosage adjustment of ledipasvir and sofosbuvir is required for patients with mild, moderate, or severe hepatic impairment (Child-Pugh Class A, B, or C) [see Dosage and Administration (2.3), Clinical Pharmacology (12.3) and Clinical Studies (14.5)].
+No dosage adjustment of ledipasvir and sofosbuvir is recommended for patients with mild, moderate, or severe hepatic impairment (Child-Pugh Class A, B, or C) [see Dosage and Administration (2.3), Clinical Pharmacology (12.3) and Clinical Studies (14.5)].
 
 Clinical and hepatic laboratory monitoring, as clinically indicated, is recommended for patients with decompensated cirrhosis receiving treatment with ledipasvir and sofosbuvir and ribavirin [see Adverse Reactions (6.1)].
