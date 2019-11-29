@@ -10,7 +10,7 @@ Abacavir sulfate, USP is a white to off-white powder.
 Soluble in water, slightly soluble in methanol.
 It has an octanol per water (pH 3.3) partition coefficient (log P) of approximately 1 by UV-spectrometry at 25°C.
 Abacavir tablets, USP are for oral administration.
-Each tablet contains abacavir sulfate, USP equivalent to 300 mg of abacavir as active ingredient and the following inactive ingredients: microcrystalline cellulose, sodium starch glycolate, colloidal silicon dioxide, magnesium starate.
+Each tablet contains abacavir sulfate, USP equivalent to 300 mg of abacavir as active ingredient and the following inactive ingredients: microcrystalline cellulose, sodium starch glycolate, colloidal silicon dioxide, magnesium stearate.
 The tablets are coated with opadry yellow which contains hypromellose, titanium dioxide, triacetin, iron oxide yellow, polysorbate 80.
 In vivo, abacavir sulfate, USP dissociates to its free base, abacavir.
 All dosages for abacavir sulfate, USP are expressed in terms of abacavir.
