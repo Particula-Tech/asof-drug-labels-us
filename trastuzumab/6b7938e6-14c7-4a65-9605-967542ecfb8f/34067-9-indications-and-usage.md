@@ -17,7 +17,7 @@ Ogivri is indicated:
 - •In combination with paclitaxel for first-line treatment of HER2-overexpressing metastatic breast cancer
 - •As a single agent for treatment of HER2-overexpressing breast cancer in patients who have received one or more chemotherapy regimens for metastatic disease.
 
-Select patients for therapy based on an FDA-approved companion diagnostic for a trastuzumab product[see Dosage and Administration (2.1)].
+Select patients for therapy based on an FDA-approved companion diagnostic for a trastuzumab product [see Dosage and Administration (2.1)].
 
 ## 1.3 Metastatic Gastric Cancer
 

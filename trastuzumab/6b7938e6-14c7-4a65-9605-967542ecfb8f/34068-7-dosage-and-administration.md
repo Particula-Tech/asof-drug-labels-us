@@ -83,7 +83,7 @@ In patients with known hypersensitivity to benzyl alcohol, reconstitute with 20 
 
 Use appropriate aseptic technique when performing the following reconstitution steps:
 
-- •Using a sterile syringe, slowly inject the 20 mL of diluent into the vial containing the lyophilized powder of Ogiri, which has a cake-like appearance.
+- •Using a sterile syringe, slowly inject the 20 mL of diluent into the vial containing the lyophilized powder of Ogivri, which has a cake-like appearance.
   The stream of diluent should be directed into the lyophilized cake.
   The reconstituted vial yields a solution for multiple-dose use, containing 21 mg/mL trastuzumab-dkst.
 - •Swirl the vial gently to aid reconstitution.
@@ -126,7 +126,7 @@ Use appropriate aseptic technique when performing the following reconstitution s
   Inspect visually for particulates and discoloration.
   The solution should be free of visible particulates, clear to slightly opalescent and colorless to pale yellow.
 - •Use the Ogivri solution immediately following reconstitution with SWFI, as it contains no preservative and is intended for single-dose only.
-  If not used immediately, store the reconstituted Ogivri solution for up to 4 hours at 2° to 8°C (36° to 46°F); discard any unused Ogivri after 4 hours.
+  If not used immediately, store the reconstituted Ogivri solution for up to 24 hours at 2° to 8°C (36° to 46°F); discard any unused Ogivri after 24 hours.
   Do not freeze.
 
 ### Dilution
@@ -136,7 +136,7 @@ Use appropriate aseptic technique when performing the following reconstitution s
 - •Withdraw this amount from the vial and add it to an infusion bag containing 250 mL of 0.9% Sodium Chloride Injection, USP.
   DO NOT USE DEXTROSE (5%) SOLUTION.
 - •Gently invert the bag to mix the solution.
-- •The solution of Ogivri for infusion diluted in polyvinylchloride or polyethylene bags containing 0.9% Sodium Chloride Injection, USP, should be stored at 2° to 8°C (36° to 46°F) for no more than 4 hours prior to use.
-  Discard after 4 hours.
+- •The solution of Ogivri for infusion diluted in polyvinylchloride or polyethylene bags containing 0.9% Sodium Chloride Injection, USP, should be stored at 2° to 8°C (36° to 46°F) for no more than 24 hours prior to use.
+  Discard after 24 hours.
   This storage time is additional to the time allowed for the reconstituted vials.
   Do not freeze.
