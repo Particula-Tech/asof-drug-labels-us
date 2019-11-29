@@ -117,10 +117,6 @@ Once your acne is under control, you should continue regular application of tret
 Call your doctor for medical advice about side effects.
 You may report side effects to FDA at 1-800-FDA-1088.
 
-Manufactured by: G&W Laboratories, Inc. 111 Coolidge Street South Plainfield, NJ 07080 USA
-
 Distributed by: Actavis Pharma, Inc. Parsippany, NJ 07054 USA
 
-Revised - May 2017
-
-I600-5820/24A GW7213
+Revised - November 2019

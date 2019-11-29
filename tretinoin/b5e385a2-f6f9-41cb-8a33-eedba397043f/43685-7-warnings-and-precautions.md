@@ -45,8 +45,6 @@ In oral Segment I and Segment III studies in rats with tretinoin, decreased surv
 
 ## Pregnancy:
 
-Pregnancy Category C.
-
 ### Teratogenic Effects
 
 Oral tretinoin has been shown to be teratogenic in rats, mice, rabbits, hamsters, and subhuman primates.

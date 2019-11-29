@@ -7,10 +7,6 @@ Avoid freezing.
 
 Keep this and all medications out of the reach of children.
 
-Manufactured by: G&W Laboratories, Inc. 111 Coolidge Street South Plainfield, NJ 07080 USA
-
 Distributed by: Actavis Pharma, Inc. Parsippany, NJ 07054 USA
 
-Revised - May 2017
-
-I600-5820/24A GW7213
+Revised - November 2019
