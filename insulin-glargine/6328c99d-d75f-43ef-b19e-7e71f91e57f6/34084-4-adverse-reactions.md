@@ -71,7 +71,7 @@ Table 4: Adverse Events in a 28-Week Clinical Trial of Children and Adolescents 
 Severe Hypoglycemia
 
 Hypoglycemia is the most commonly observed adverse reaction in patients using insulin, including LANTUS [see Warnings and Precautions (5.3)].
-Tables 5, and 6 and 7 summarize the incidence of severe hypoglycemia in the LANTUS individual clinical trials.
+Tables 5, and 6, and 7 summarize the incidence of severe hypoglycemia in the LANTUS individual clinical trials.
 Severe symptomatic hypoglycemia was defined as an event with symptoms consistent with hypoglycemia requiring the assistance of another person and associated with either a blood glucose below 50 mg/dL (≤56 mg/dL in the 5-year trial and ≤36 mg/dL in the ORIGIN trial) or prompt recovery after oral carbohydrate, intravenous glucose or glucagon administration.
 
 Percentages of LANTUS-treated adult patients experiencing severe symptomatic hypoglycemia in the LANTUS clinical trials [see Clinical Studies (14)] were comparable to percentages of NPH-treated patients for all treatment regimens (see Tables 5 and 6).
@@ -143,3 +143,6 @@ Because these reactions are reported voluntarily from a population of uncertain 
 
 Medication errors have been reported in which other insulins, particularly rapid-acting insulins, have been accidentally administered instead of LANTUS [see Patient Counseling Information (17)].
 To avoid medication errors between LANTUS and other insulins, patients should be instructed to always verify the insulin label before each injection.
+
+Localized cutaneous amyloidosis at the injection site has occurred.
+Hyperglycemia has been reported with repeated insulin injections into areas of localized cutaneous amyloidosis; hypoglycemia has been reported with a sudden change to an unaffected injection site.

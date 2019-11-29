@@ -4,11 +4,11 @@
 
 Risk Summary
 
-Published studies with use of insulin glargine during pregnancy have not reported a clear association with insulin glargine and adverse developmental outcomes (see Data).
-There are risks to the mother and fetus associated with poorly controlled diabetes in pregnancy (see Clinical Considerations).
+Published studies with use of insulin glargine during pregnancy have not reported a clear association with insulin glargine and adverse developmental outcomes [see Data].
+There are risks to the mother and fetus associated with poorly controlled diabetes in pregnancy [see Clinical Considerations].
 
 Rats and rabbits were exposed to insulin glargine in animal reproduction studies during organogenesis, respectively 50 times and 10 times the human subcutaneous dose of 0.2 units/kg/day.
-Overall, the effects of insulin glargine did not generally differ from those observed with regular human insulin (see Data).
+Overall, the effects of insulin glargine did not generally differ from those observed with regular human insulin [see Data].
 
 The estimated background risk of major birth defects is 6% to 10% in women with pregestational diabetes with an HbA1c >7 and has been reported to be as high as 20% to 25% in women with a HbA1c >10.
 The estimated background risk of miscarriage for the indicated population is unknown.

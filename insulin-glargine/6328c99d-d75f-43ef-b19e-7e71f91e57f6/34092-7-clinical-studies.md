@@ -206,7 +206,7 @@ Mean baseline HbA1c was 8.4%.
 The primary outcome was progression by 3 or more steps on the ETDRS scale at study endpoint.
 Patients with prespecified postbaseline eye procedures (pan-retinal photocoagulation for proliferative or severe nonproliferative diabetic retinopathy, local photocoagulation for new vessels, and vitrectomy for diabetic retinopathy) were also considered as 3-step progressors regardless of actual change in ETDRS score from baseline.
 Retinopathy graders were blinded to treatment group assignment.
-The results for the primary endpoint are shown in Table 13 for both the per-protocol and Intent-to-Treat populations, and indicate similarity of LANTUS to NPH in the progression of diabetic retinopathy as assessed by this outcome.
+The results for the primary endpoint are shown in Table 13 for both the per-protocol and intent-to-treat populations, and indicate similarity of LANTUS to NPH in the progression of diabetic retinopathy as assessed by this outcome.
 
 Table 13: Number (%) of Patients with 3 or More Step Progression on ETDRS Scale at Endpoint
 
@@ -256,7 +256,7 @@ Table 14: Cardiovascular Outcomes in ORIGIN – Time to First Event Analyses
 | CV death, nonfatal myocardial infarction, nonfatal stroke, hospitalization for heart failure or revascularization procedure | 1792 (5.5) | 1727 (5.3) | 1.04 (0.97, 1.11) |
 | Components of coprimary endpoints |  |  |  |
 | CV death | 580 | 576 | 1.00 (0.89, 1.13) |
-| Myocardial Infarction (fatal or non-fatal) | 336 | 326 | 1.03 (0.88, 1.19) |
+| Myocardial Infarction (fatal or nonfatal) | 336 | 326 | 1.03 (0.88, 1.19) |
 | Stroke (fatal or nonfatal) | 331 | 319 | 1.03 (0.89, 1.21) |
 | Revascularizations | 908 | 860 | 1.06 (0.96, 1.16) |
 | Hospitalization for heart failure | 310 | 343 | 0.90 (0.77, 1.05) |

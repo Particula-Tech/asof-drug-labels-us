@@ -5,7 +5,9 @@
 - Administer LANTUS subcutaneously once daily at any time of day but at the same time every day.
 - Prior to initiation of LANTUS, train patients on proper use and injection technique.
 - Patient should follow the Instructions for Use to correctly administer LANTUS.
-- Administer LANTUS subcutaneously into the abdominal area, thigh, or deltoid, and rotate injection sites within the same region from one injection to the next to reduce the risk of lipodystrophy [see Adverse Reactions (6.1)].
+- Administer LANTUS subcutaneously into the abdominal area, thigh, or deltoid, and rotate injection sites within the same region from one injection to the next to reduce the risk of lipodystrophy and localized cutaneous amyloidosis.
+  Do not inject into areas of lipodystrophy or localized cutaneous amyloidosis [see Warnings and Precautions (5.2), Adverse Reactions (6)].
+- During changes to a patient's insulin regimen, increase the frequency of blood glucose monitoring [see Warnings and Precautions (5.2)].
 - Visually inspect LANTUS vials and SoloStar prefilled pens for particulate matter and discoloration prior to administration.
   Only use if the solution is clear and colorless with no visible particles.
 - The LANTUS SoloStar prefilled pen dials in 1-unit increments.
@@ -38,7 +40,7 @@ Type 2 Diabetes
 
 - If changing patients from once-daily TOUJEO (insulin glargine) 300 units/mL to once-daily LANTUS, the recommended initial LANTUS dose is 80% of the TOUJEO dose that is being discontinued.
   This dose reduction will lower the likelihood of hypoglycemia [see Warnings and Precautions (5.3)].
-- If changing from a treatment regimen with an intermediate or long-acting insulin to a regimen with LANTUS, a change in the dose of the basal insulin may be required and the amount and timing of the shorter-acting insulins and doses of any oral antidiabetic drugs may be needed to be adjusted.
+- If changing from a treatment regimen with an intermediate or long-acting insulin to a regimen with LANTUS, a change in the dose of the basal insulin may be required and the amount and timing of the shorter-acting insulins and doses of any oral antidiabetic drugs may need to be adjusted.
 - If changing patients from once-daily NPH insulin to once-daily LANTUS, the recommended initial LANTUS dose is the same as the dose of NPH that is being discontinued.
 - If changing patients from twice-daily NPH insulin to once-daily LANTUS, the recommended initial LANTUS dosage is 80% of the total NPH dose that is being discontinued.
   This dosage reduction will lower the likelihood of hypoglycemia [see Warnings and Precautions (5.3)].

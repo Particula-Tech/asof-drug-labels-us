@@ -1,12 +1,10 @@
 # PRINCIPAL DISPLAY PANEL - 10 mL Vial Package
 
-NDC 0088-5021-01 Rx ONLY
+NDC 0088-5021-01 Rx only
 
 Lantus® insulin glargine injection
 
-100 units/mL (U-100)
-
-For subcutaneous injection only
+100 units/mL (U-100) For subcutaneous injection only
 
 Do not mix with other insulins
 
@@ -14,9 +12,9 @@ Use only if solution is clear and colorless with no particles visible
 
 Use with U-100 syringe only
 
-One 10 mL Vial
+One 10 mL multiple-dose vial
 
-NOVAPLUS®
+novaplus™
 
 # PRINCIPAL DISPLAY PANEL - 3 mL Syringe Package
 
