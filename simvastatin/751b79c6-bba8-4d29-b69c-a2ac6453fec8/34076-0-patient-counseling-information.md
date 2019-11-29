@@ -27,5 +27,6 @@ Patients should be advised that if they become pregnant they should stop taking 
 Women who are breastfeeding should not use simvastatin.
 Patients who have a lipid disorder and are breastfeeding should be advised to discuss the options with their healthcare professional.
 
-Manufactured for: Camber Pharmaceuticals Inc. Piscataway, NJ 08854 Manufactured By: HETEROTM HETERO LABS LIMITED 2032790 22-110, I.D.A., Jeedimetla, Hyderabad – 500 055, India.
-Barcode Revised: 12/2015
+Manufactured for: Camber Pharmaceuticals Inc. Piscataway, NJ 08854 By: HETEROTM Hetero Labs Limited Jeedimetla, Hyderabad – 500 055, India. or By: Annora Pharma Pvt.
+Ltd. Sangareddy -502313, Telangana, India.
+Revised:09/2019
