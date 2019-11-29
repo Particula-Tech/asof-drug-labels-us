@@ -81,7 +81,7 @@ In subjects with varying degrees of hepatic impairment (Child-Pugh Class A, B, o
 The mean clearance values for patients with mild, moderate, and severe hepatic impairment were 74%, 64% and 53% of those observed in the normal healthy subjects, respectively.
 Mean clearances for free drug were 59%, 51% and 32% of those observed in the normal healthy subjects, respectively.
 
-Although Precedex is dosed to effect, it may be necessary to consider dose reduction in subjects with hepatic impairment [see Dosage and Administration (2.2), Warnings and Precautions (5.7)].
+Although Precedex is dosed to effect, it may be necessary to consider dose reduction in subjects with hepatic impairment [see Dosage and Administration (2.2), Warnings and Precautions (5.8)].
 
 Renal Impairment
 
