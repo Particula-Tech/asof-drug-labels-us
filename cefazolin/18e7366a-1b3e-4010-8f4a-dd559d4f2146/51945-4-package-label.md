@@ -1,31 +1,35 @@
 # 500 mg Label
 
-NDC 0781-3450-70
+NDC 0781-3450-95
 
-Cefazolin for
-
-Injection, USP
+Cefazolin for Injection, USP
 
 500 mg per vial
 
-For I.M. or I.V. use Sterile
+Rx Only
 
-Rx only Single-Use Vial
+For I.M. or I.V. use
 
-SANDOZ
+Sterile
+
+10 x 500 mg Vials
+
+SANDOZ – A Novartis Division
 
 # 1 g Label
 
-NDC 0781-3451-70
+NDC 0781-3451-96
 
-Cefazolin for
-
-Injection, USP
+Cefazolin for Injection, USP
 
 1 gram per vial
 
-For I.M. or I.V. use Sterile
+Rx Only
 
-Rx only Single-Use Vial
+For I.M. or I.V. use
 
-SANDOZ
+Sterile
+
+25 x 1 g Vials
+
+SANDOZ – A Novartis Division
