@@ -15,9 +15,13 @@ Consider supplementation.
 
 ## 8.4 Pediatric Use
 
+The safety and efficacy of sevelamer carbonate in lowering serum phosphorus levels was studied in patients 6 years of age and older with CKD.
+In this study, sevelamer carbonate was apparently less effective in children with a low baseline serum phosphorus, which described children <13 years of age and children not on dialysis.
+Given its mechanism of action, sevelamer carbonate is expected to be effective in lowering serum phosphorus levels in pediatric patients with CKD.
+Most adverse events that were reported as related, or possibly related, to sevelamer carbonate were gastrointestinal in nature.
+No new risks or safety signals were identified with the use of sevelamer carbonate in the trial.
+
 Sevelamer carbonate has not been studied in pediatric patients below 6 years of age.
-Pediatric use information is approved for Genzyme Corporation’s Renvela (sevelamer carbonate) tablets and Renvela (sevelamer carbonate) for oral suspension.
-However, due to Genzyme Corporation’s marketing exclusivity rights, these drug products are not labeled with that pediatric information.
 
 ## 8.5 Geriatric Use
 

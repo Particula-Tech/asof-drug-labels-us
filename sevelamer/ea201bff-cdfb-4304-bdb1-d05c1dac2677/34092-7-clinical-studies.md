@@ -3,7 +3,7 @@
 The ability of sevelamer to control serum phosphorus in CKD patients on dialysis was predominantly determined from the effects of the hydrochloride salt to bind phosphate.
 Six clinical trials used sevelamer hydrochloride and three clinical trials used sevelamer carbonate.
 The sevelamer hydrochloride studies include one double-blind, placebo-controlled 2-week study (sevelamer N=24); two open-label, uncontrolled, 8-week studies (sevelamer N=220) and three active-controlled open-label studies with treatment durations of 8 to 52 weeks (sevelamer N=256).
-The sevelamer carbonate studies include one open-label, active-controlled, cross-over study with two 4-week treatment periods using sevelamer carbonate powder (N=31) and one randomized, parallel, open-label study using sevelamer carbonate powder (N=144) dosed once daily or sevelamer hydrochloride tablets (N=73) dosed three times daily for 24 weeks.
+The sevelamer carbonate studies include one double-blind, active-controlled, cross-over study with two 8-week treatment periods using sevelamer carbonate tablets (N=79), one open-label, active-controlled, cross-over study with two 4-week treatment periods using sevelamer carbonate powder (N=31) and one randomized, parallel, open-label study using sevelamer carbonate powder (N=144) dosed once daily or sevelamer hydrochloride tablets (N=73) dosed three times daily for 24 weeks.
 Six of the active-controlled studies are described here (three sevelamer carbonate and three sevelamer hydrochloride studies).
 
 ## 14.2 Cross-Over Study of Sevelamer Carbonate Powder and Sevelamer Hydrochloride Tablets
@@ -12,8 +12,26 @@ Stage 5 CKD patients on hemodialysis were entered into a four-week sevelamer hyd
 Study dose during the cross-over period was determined based on the sevelamer hydrochloride dose during the run-in period on a gram per gram basis.
 The phosphorus levels at the end of each of the two cross-over periods were similar.
 Average actual daily dose was 6 g/day divided among meals for sevelamer carbonate powder and 6.4 g/day divided among meals for sevelamer hydrochloride tablets.
-Pediatric use information is approved for Genzyme Corporation’s Renvela (sevelamer carbonate) tablets and Renvela (sevelamer carbonate) for oral suspension.
-However, due to Genzyme Corporation’s marketing exclusivity rights, these drug products are not labeled with that pediatric information.
+
+## 14.3 Clinical Study of Sevelamer Carbonate Powder in Pediatric Patients
+
+A clinical study with sevelamer carbonate was conducted in 101 patients 6 to 18 years of age with chronic kidney disease.
+This study included a washout period for patients on a phosphate binder, a 2-week, double-blind, Fixed Dose Period (FDP) in which patients were randomized to sevelamer carbonate (n=50) or placebo (n=51), and a 26-week, open-label, sevelamer carbonate Dose Titration Period (DTP).
+Most patients were 13 to 18 years of age (73%) and had a BSA ≥1.2 m2 (84%).
+Approximately 78% of patients were CKD patients on dialysis.
+
+Sevelamer carbonate significantly reduced serum phosphorus through Week 2 (primary endpoint) by an LS Mean difference of -0.90 (SE 0.27) mg/dL compared to placebo (p=0.001).
+A similar treatment response was observed in patients who received sevelamer carbonate during the 6-month open-label DTP.
+Approximately 30% of subjects reached their target serum phosphorus.
+The median prescribed daily dose was approximately 7 g per day during the titration period.
+
+The results of the primary efficacy endpoint were consistent by BSA subgroup.
+In contrast, a treatment effect was not observed in subjects with a baseline serum phosphorus below 7 mg/dL, many of whom were the subjects 6 to <13 years of age or the subjects not on dialysis (Figure 2).
+
+Figure 2.
+Change in serum phosphorus (mg/dL) from baseline to Week 2 by subgroup
+
+Note: LS Mean difference of Sevelamer Carbonate – Placebo, based on ANCOVA within subgroup and with treatment as fixed effect and screening BSA and baseline serum phosphorus as covariates.
 
 ## 14.4 Sevelamer Hydrochloride Versus Active-Control, Cross-Over Study in Hemodialysis Patients
 
