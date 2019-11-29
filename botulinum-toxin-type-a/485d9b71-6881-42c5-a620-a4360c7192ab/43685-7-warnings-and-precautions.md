@@ -36,7 +36,7 @@ One fatal case of anaphylaxis has been reported in which lidocaine was used as t
 
 ## 5.5 Cardiovascular System
 
-There have been reports following administration of BOTOX of adverse events involving the cardiovascular system, including arrhythmia and myocardial infarction, some with fatal outcomes.
+There have been reports following administration of BOTOX/Botox Cosmetic of adverse events involving the cardiovascular system, including arrhythmia and myocardial infarction, some with fatal outcomes.
 Some of these patients had risk factors including pre-existing cardiovascular disease.
 Use caution when administering to patients with pre-existing cardiovascular disease.
 
@@ -72,16 +72,22 @@ Caution should be used when BOTOX Cosmetic treatment is used in the presence of 
 
 ## 5.9 Corneal Exposure and Ulceration in Patients Treated with BOTOX for Blepharospasm
 
-Reduced blinking from BOTOX Cosmetic injection of the orbicularis muscle can lead to corneal exposure, persistent epithelial defect, and corneal ulceration, especially in patients with VII nerve disorders.
-Vigorous treatment of any epithelial defect should be employed.
+Reduced blinking from injection of botulinum toxin products in or near the orbicularis oculi muscle can lead to corneal exposure, persistent corneal epithelial defect, and corneal ulceration, especially in patients with VII nerve disorders.
+
+Vigorous treatment of any corneal epithelial defect should be employed.
 This may require protective drops, ointment, therapeutic soft contact lenses, or closure of the eye by patching or other means.
 
-## 5.10 Spatial Disorientation, Double Vision or Past-pointing in Patients Treated for Strabismus
+## 5.10 Dry Eye in Patients Treated with BOTOX Cosmetic
+
+There have been reports of dry eye associated with BOTOX Cosmetic injection in or near the orbicularis oculi muscle.
+If symptoms of dry eye (e.g., eye irritation, photophobia, or visual changes) persist, consider referring patients to an ophthalmologist [see Warnings and Precautions (5.9)].
+
+## 5.11Spatial Disorientation, Double Vision or Past-pointing in Patients Treated for Strabismus
 
 Inducing paralysis in one or more extraocular muscles may produce spatial disorientation, double vision or past pointing.
 Covering the affected eye may alleviate these symptoms.
 
-## 5.11Human Albumin and Transmission of Viral Diseases
+## 5.12Human Albumin and Transmission of Viral Diseases
 
 This product contains albumin, a derivative of human blood.
 Based on effective donor screening and product manufacturing processes, it carries an extremely remote risk for transmission of viral diseases and variant Creutzfeldt-Jakob disease (vCJD).

@@ -13,6 +13,12 @@ The safety and effectiveness of dosing with BOTOX Cosmetic more frequently than 
 The safe and effective use of BOTOX Cosmetic depends upon proper storage of the product, selection of the correct dose, and proper reconstitution and administration techniques.
 Physicians administering BOTOX Cosmetic must understand the relevant neuromuscular and structural anatomy of the area involved and any alterations to the anatomy due to prior surgical procedures and disease.
 
+Do not use BOTOX Cosmetic and contact Allergan (1-800-890-4345) if:
+
+- the carton labeling does not contain an intact seal with a translucent silver Allergan logo (on both ends of the carton) or the seal has a black circle with a diagonal line through it (i.e., prohibition sign),
+- the vial label does not contain a holographic film containing the name “Allergan” within rainbow colored horizontal lines, or
+- the U.S. License number 1145 is not present on the vial label and carton labeling [see How Supplied/Storage and Handling (16)].
+
 ## 2.2Preparation and Dilution Technique
 
 BOTOX Cosmetic is supplied in single-use 50 Units and 100 Units per vial.
@@ -97,10 +103,17 @@ The recommended total dose for treatment of forehead lines (20 Units [0.5 mL]) i
 
 When identifying the location of the appropriate injection sites in the frontalis muscle, assess the overall relationship between the size of the subject’s forehead, and the distribution of frontalis muscle activity.
 
-Locate the following horizontal treatment rows by light palpation of the forehead at rest and maximum eyebrow elevation: • Superior Margin of Frontalis Activity: approximately 1 cm above the most superior forehead crease • Lower Treatment Row: midway between the superior margin of frontalis activity and the eyebrow, at least 2 cm above the eyebrow • Upper Treatment Row: midway between the superior margin of frontalis activity and lower treatment row
+Locate the following horizontal treatment rows by light palpation of the forehead at rest and maximum eyebrow elevation:
+
+- Superior Margin of Frontalis Activity: approximately 1 cm above the most superior forehead crease
+- Lower Treatment Row: midway between the superior margin of frontalis activity and the eyebrow, at least 2 cm above the eyebrow
+- Upper Treatment Row: midway between the superior margin of frontalis activity and lower treatment row
 
 Inject 4 Units (0.1 mL) of reconstituted BOTOX Cosmetic into 5 sites in the frontalis muscle, for a total of 20 Units (0.5 mL).
-Place the 5 injections at the intersection of the horizontal treatment rows with the following vertical landmarks (see Figure 4): • On the lower treatment row at the midline of the face, and 0.5 – 1.5 cm medial to the palpated temporal fusion line (temporal crest); repeat for the other side. • On the upper treatment row, midway between the lateral and medial sites on the lower treatment row; repeat for the other side.
+Place the 5 injections at the intersection of the horizontal treatment rows with the following vertical landmarks (see Figure 4):
+
+- On the lower treatment row at the midline of the face, and 0.5 – 1.5 cm medial to the palpated temporal fusion line (temporal crest); repeat for the other side.
+- On the upper treatment row, midway between the lateral and medial sites on the lower treatment row; repeat for the other side.
 
 Figure 4:
 

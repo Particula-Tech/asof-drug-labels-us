@@ -93,7 +93,7 @@ Hypoacusis; tinnitus; vertigo
 
 Eye disorders
 
-Diplopia; lagophthalmos; strabismus; visual disturbances; vision blurred
+Diplopia; dry eye; lagophthalmos; strabismus; visual disturbances; vision blurred
 
 Gastrointestinal disorders
 
@@ -109,7 +109,7 @@ Anorexia
 
 Musculoskeletal and connective tissue disorders
 
-Muscle atrophy; myalgia
+Localized muscle twitching/involuntary muscle contractions; muscle atrophy; myalgia
 
 Nervous system disorders
 

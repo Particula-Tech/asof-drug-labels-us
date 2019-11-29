@@ -12,18 +12,27 @@ Ability to Operate Machinery or Vehicles
 
 Patients should be counseled that if loss of strength, muscle weakness, blurred vision, or drooping eyelids occur, they should avoid driving a car or engaging in other potentially hazardous activities.
 
+Ophthalmic Adverse Reactions
+
+Inform patients that Botox Cosmetic injection may cause eye dryness.
+Advise patients to report symptoms of eye dryness (e.g., eye pain, eye irritation, photosensitivity, or changes in vision) to their doctor.
+
 Manufactured by: Allergan Pharmaceuticals Ireland
 
 a subsidiary of: Allergan, Inc.
 
-2525 Dupont Dr.
+U.S. License number 1145
 
-Irvine, CA 92612
+Distributed by: Allergan USA, Inc.
 
-© 2017 Allergan.
+Madison, NJ 07940
+
+© 2019 Allergan.
 All rights reserved.
 
 All trademarks are the property of their respective owners.
 
 Patented.
 See: www.allergan.com/patents
+
+v1.0USPI3919
