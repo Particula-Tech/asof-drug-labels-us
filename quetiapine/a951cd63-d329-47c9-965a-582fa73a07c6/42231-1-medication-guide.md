@@ -91,10 +91,11 @@ Before you take quetiapine tablets, tell your healthcare provider if you have or
 - any other medical condition
 - pregnancy or plans to become pregnant.
   It is not known if quetiapine tablets will harm your unborn baby.
-- Breast-feeding or plans to breast-feed.
+- If you become pregnant while receiving quetiapine tablets, talk to your healthcare provider about registering with the National Pregnancy Registry for Atypical Antipsychotics.
+  You can register by calling 1-866-961-2388 or go to http://womensmentalhealth.org/clinical-and-research-programs/pregnancyregistry/
+- breast-feeding or plans to breast-feed.
   Quetiapine can pass into your breast milk.
-  You and your healthcare provider should decide if you will take quetiapine tablets or breast-feed.
-  You should not do both.
+  Talk to your healthcare provider about the best way to feed your baby if you receive quetiapine tablets.
 - if you have or have had a condition where you cannot completely empty your bladder (urinary retention), have an enlarged prostate, or constipation, or increased pressure inside your eyes.
 
 Tell the healthcare provider about all the medicines that you take or recently have taken including prescription medicines, over-the-counter medicines, herbal supplements and vitamins.
@@ -269,4 +270,4 @@ United States.
 
 MADE IN INDIA.
 
-Rev: March 2019 ID#: 258597
+Rev: December 2019 ID#: 263030

@@ -33,13 +33,13 @@ The primary efficacy variable was the mean change from baseline in total Positiv
 Quetiapine at 400 mg/day and 800 mg/day was superior to placebo in the reduction of PANSS total score.
 The primary efficacy results of this study in the treatment of schizophrenia in adolescents is presented in Table 19.
 
-Table 19: Schizophrenia Short-Term Trials
+$ Table19:SchizophreniaShort-TermTrials
 
 | Study Number | Treatment Group | Primary Efficacy Endpoint: BPRS Total |  |  |
 | --- | --- | --- | --- | --- |
-|  |  | Mean Baseline Score (SD) | LS Mean Change from Baseline (SE) | Placebo-subtracted DifferenceDifference (drug minus placebo) in least-squares mean change from baseline. (95% CI) |
+|  |  | Mean Baseline Score (SD) | LS Mean Change from Baseline (SE) | Placebo-subtracted Difference Difference (drug minus placebo) in least-squares mean change from baseline. (95% CI) |
 |  | Quetiapine (75 mg/day) | 45.7 (10.9) | -2.2 (2.0) | -4.0 (-11.2, 3.3) |
-|  | Quetiapine (150 mg/day)Doses that are statistically significant superior to placebo. | 47.2 (10.1) | -8.7 (2.1) | -10.4 (-17.8, -3.0) |
+|  | Quetiapine (150 mg/day) Doses that are statistically significant superior to placebo. | 47.2 (10.1) | -8.7 (2.1) | -10.4 (-17.8, -3.0) |
 | Study 1 | Quetiapine (300 mg/day) | 45.3 (10.9) | -8.6 (2.1) | -10.3 (-17.6, -3.0) |
 |  | Quetiapine (600 mg/day) | 43.5 (11.3) | -7.7 (2.1) | -9.4 (-16.7, -2.1) |
 |  | Quetiapine (750 mg/day) | 45.7 (11.0) | -6.3 (2.0) | -8.0 (-15.2, -0.8) |
@@ -48,15 +48,15 @@ Table 19: Schizophrenia Short-Term Trials
 | Study 2 | Quetiapine (750 mg/day) | 41.0 (9.6) | -8.7 (1.6) | -7.8 (-12.2, -3.4) |
 |  | Placebo | 38.4 (9.7) | -1.0 (1.6) | -- |
 |  | Quetiapine (450 mg/day BID) | 42.1 (10.7) | -10.0 (1.3) | -4.6 (-7.8, -1.4) |
-| Study 3 | Quetiapine (450 mg/day TID)Doses that are statistically significant superior to quetiapine 50 mg BID. | 42.7 (10.4) | -8.6 (1.3) | -3.2 (-6.4, 0.0) |
+| Study 3 | Quetiapine (450 mg/day TID) Doses that are statistically significant superior to quetiapine 50 mg BID. | 42.7 (10.4) | -8.6 (1.3) | -3.2 (-6.4, 0.0) |
 |  | Quetiapine (50 mg BID) | 41.7 (10.0) | -5.4 (1.3) | -- |
 |  |  | Primary Efficacy Endpoint: PANSS Total |  |  |
 |  |  | Mean Baseline Score (SD) | LS Mean Change from Baseline (SE) | Placebo-subtracted Difference (95% CI) |
 |  | Quetiapine (400 mg/day) | 96.2 (17.7) | -27.3 (2.6) | -8.2 (-16.1, -0.3) |
 | Study 4 | Quetiapine (800 mg/day) | 96.9 (15.3) | -28.4 (1.8) | -9.3 (-16.2, -2.4) |
 |  | Placebo | 96.2 (17.7) | -19.2 (3.0) | -- |
-| SD:standard deviation; SE: standard error; LS Mean: least-squares mean; |  |  |  |  |
-| CI:unadjusted confidence interval. |  |  |  |  |
+| SD: standard deviation; SE: standard error; LS Mean: least-squares mean; |  |  |  |  |
+| CI: unadjusted confidence interval. |  |  |  |  |
 
 ## 14.2 Bipolar Disorder
 

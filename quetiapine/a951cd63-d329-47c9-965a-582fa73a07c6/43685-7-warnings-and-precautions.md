@@ -241,7 +241,7 @@ Whether antipsychotic drug products differ in their potential to cause tardive d
 The risk of developing tardive dyskinesia and the likelihood that it will become irreversible are believed to increase as the duration of treatment and the total cumulative dose of antipsychotic drugs administered to the patient increase.
 However, the syndrome can develop, although much less commonly, after relatively brief treatment periods at low doses or may even arise after discontinuation of treatment.
 
-There is no known treatment for established cases of tardive dyskinesia, although the syndrome may remit, partially or completely, if antipsychotic treatment is withdrawn.
+Tardive dyskinesia may remit, partially or completely, if antipsychotic treatment is withdrawn.
 Antipsychotic treatment, itself, however, may suppress (or partially suppress) the signs and symptoms of the syndrome and thereby may possibly mask the underlying process.
 The effect that symptomatic suppression has upon the long-term course of the syndrome is unknown.
 
@@ -332,7 +332,7 @@ Of the quetiapine treated patients with elevated TSH levels, 3 had simultaneous 
 About 0.7% (26/3489) of quetiapine patients did experience TSH increases in monotherapy studies.
 Some patients with TSH increases needed replacement thyroid treatment.
 
-In all quetiapine trials, the incidence of significant shifts in thyroid hormones and TSH were1: decrease in free T4 (<0.8 LLN), 2.0% (357/17513); decrease in total T4 (<0.8LLN), 4.0% (75/1861); decrease in free T3 (<0.8LLN), 0.4% (53/13766); decrease in total T3 (<0.8LLN), 2.0% (26/1312), and increase in TSH (>5mIU/L), 4.9% (956/19412).
+In all quetiapine trials, the incidence of shifts in thyroid hormones and TSH were1: decrease in free T4 (<0.8 LLN), 2.0% (357/17513); decrease in total T4 (<0.8LLN), 4.0% (75/1861); decrease in free T3 (<0.8LLN), 0.4% (53/13766); decrease in total T3 (<0.8LLN), 2.0% (26/1312), and increase in TSH (>5mIU/L), 4.9% (956/19412).
 In eight patients, where TBG was measured, levels of TBG were unchanged.
 
 1 Based on shifts from normal baseline to potentially clinically important value at anytime post-baseline.

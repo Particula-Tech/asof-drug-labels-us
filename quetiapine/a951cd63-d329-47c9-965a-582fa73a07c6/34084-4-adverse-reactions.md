@@ -29,10 +29,10 @@ Because clinical studies are conducted under widely varying conditions, adverse 
 
 Adults
 
-The information below is derived from a clinical trial database for quetiapine consisting of over 4300 patients.
+The information below is derived from a clinical trial database for quetiapine consisting of over 4,300 patients.
 This database includes 698 patients exposed to quetiapine for the treatment of bipolar depression, 405 patients exposed to quetiapine for the treatment of acute bipolar mania (monotherapy and adjunct therapy), 646 patients exposed to quetiapine for the maintenance treatment of bipolar I disorder as adjunct therapy, and approximately 2600 patients and/or normal subjects exposed to 1 or more doses of quetiapine for the treatment of schizophrenia.
 
-Of these approximately 4300 subjects, approximately 4000 (2300 in schizophrenia, 405 in acute bipolar mania, 698 in bipolar depression, and 646 for the maintenance treatment of bipolar I disorder) were patients who participated in multiple dose effectiveness trials, and their experience corresponded to approximately 2400 patient-years.
+Of these approximately 4,300 subjects, approximately 4000 (2300 in schizophrenia, 405 in acute bipolar mania, 698 in bipolar depression, and 646 for the maintenance treatment of bipolar I disorder) were patients who participated in multiple dose effectiveness trials, and their experience corresponded to approximately 2400 patient-years.
 The conditions and duration of treatment with quetiapine varied greatly and included (in overlapping categories) open-label and double-blind phases of studies, inpatients and outpatients, fixed-dose and dose-titration studies, and short-term or longer-term exposure.
 Adverse reactions were assessed by collecting adverse reactions, results of physical examinations, vital signs, weights, laboratory analyses, ECGs, and results of ophthalmologic examinations.
 
@@ -342,8 +342,6 @@ Table 15 presents a listing of patients with adverse reactions potentially assoc
 
 In Tables 15 to 16 dystonic event included nuchal rigidity, hypertonia, and muscle rigidity; parkinsonism included cogwheel rigidity and tremor; akathisia included akathisia only; dyskinetic event included tardive dyskinesia, dyskinesia, and choreoathetosis; and other extrapyramidal event included restlessness and extrapyramidal disorder.
 
-Table 15: Adverse Reactions Associated with Extrapyramidal Symptoms in the Placebo-Controlled Trial in Adolescent Patients with Schizophrenia (6-week duration)
-
 | Preferred Term | Quetiapine 400 mg/day (N=73) |  | Quetiapine 800 mg/day (N=74) |  | All Quetiapine (N=147) |  | Placebo (N=75) |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 |  | n | % | n | % | n | % | n | % |
@@ -351,18 +349,16 @@ Table 15: Adverse Reactions Associated with Extrapyramidal Symptoms in the Place
 | Parkinsonism | 4 | 5.5 | 4 | 5.4 | 8 | 5.4 | 2 | 2.7 |
 | Akathisia | 3 | 4.1 | 4 | 5.4 | 7 | 4.8 | 3 | 4.0 |
 | Dyskinetic event | 2 | 2.7 | 0 | 0.0 | 2 | 1.4 | 0 | 0.0 |
-| Other Extrapyramidal event | 2 | 2.7 | 2 | 2.7 | 4 | 2.7 | 0 | 0.0 |
+| Other Extrapyramidal Event | 2 | 2.7 | 2 | 2.7 | 4 | 2.7 | 0 | 0.0 |
 
 Table 16 presents a listing of patients with adverse reactions associated with extrapyramidal symptoms in a short-term placebo-controlled monotherapy trial in children and adolescent patients with bipolar mania (3-week duration).
 
-Table 16: Adverse Reactions Associated with Extrapyramidal Symptoms in a Placebo-Controlled Trial in Children and Adolescent Patients with Bipolar I Mania (3-week duration)
-
-| Preferred TermThere were no adverse experiences with the preferred term of dystonic or dyskinetic events. | Quetiapine 400 mg/day (N=95) |  | Quetiapine 600 mg/day (N=98) |  | All Quetiapine (N=193) |  | Placebo (N=90) |  |
+| Preferred Term There were no adverse experiences with the preferred term of dystonic or dyskinetic events. | Quetiapine 400 mg/day (N=95) |  | Quetiapine 600 mg/day (N=98) |  | All Quetiapine (N=193) |  | Placebo (N=90) |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 |  | n | % | n | % | n | % | n | % |
 | Parkinsonism | 2 | 2.1 | 1 | 1.0 | 3 | 1.6 | 1 | 1.1 |
 | Akathisia | 1 | 1.0 | 1 | 1.0 | 2 | 1.0 | 0 | 0.0 |
-| Other Extrapyramidal event | 1 | 1.1 | 1 | 1.0 | 2 | 1.0 | 0 | 0.0 |
+| Other Extrapyramidal Event | 1 | 1.1 | 1 | 1.0 | 2 | 1.0 | 0 | 0.0 |
 
 Laboratory, ECG and Vital Sign Changes Observed in Clinical Studies
 

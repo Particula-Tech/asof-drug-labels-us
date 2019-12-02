@@ -37,7 +37,7 @@ Elderly patients should be started on quetiapine 50 mg/day and the dose can be i
 ## 2.4 Dose Modifications in Hepatically Impaired Patients
 
 Patients with hepatic impairment should be started on 25 mg/day.
-The dose should be increased daily in increments of 25 mg/day to 50 mg/day to an effective dose, depending on the clinical response and tolerability of the patient.
+The dose should be increased daily in increments of 25 mg/day to 50 mg/day to an effective dose, depending on the clinical response and tolerability of the patients.
 
 ## 2.5 Dose Modifications when used with CYP3A4 Inhibitors
 
