@@ -37,7 +37,7 @@ Before you take ranolazine extended-release tablets, tell your doctor if you:
 - are pregnant or plan to become pregnant.
   It is not known if ranolazine extended-release tablets will harm your unborn baby.
 - are breast-feeding or plan to breast-feed.
-  It is not known if ranolazine extended-release tablets passes into your breast milk.
+  It is not known if ranolazine passes into your breast milk.
   You and your doctor should decide if you will breast-feed.
 
 Tell your doctor about all the medicines you take, including all prescription and nonprescription medicines, vitamins, and herbal supplements.
@@ -62,7 +62,7 @@ How should I take ranolazine extended-release tablets?
 - Take ranolazine extended-release tablets exactly as your doctor tells you.
 - Your doctor will tell you how much ranolazine extended-release tablets to take and when to take it.
 - Do not change your dose unless your doctor tells you to.
-- Tell your doctor if you still have symptoms of angina after starting Ranolazine extended-release tablets.
+- Tell your doctor if you still have symptoms of angina after starting ranolazine extended-release tablets.
 - Take ranolazine extended-release tablets by mouth, with or without food.
 - Swallow the ranolazine extended-release tablets whole.
   Do not crush, break, or chew ranolazine extended-release tablets before swallowing.
@@ -131,15 +131,15 @@ What are the ingredients in ranolazine extended-release tablets?
 
 Active ingredient: ranolazine
 
-Inactive ingredients: 500 mg tablet: hypromellose, magnesium stearate, methacrylic acid and ethyl acrylate copolymer, sodium lauryl sulfate, polysorbate 80, microcrystalline cellulose, polyethylene glycol, sodium hydroxide, titanium dioxide, polyvinyl alcohol, talc, Iron Oxide Yellow, and Iron Oxide Red.
+Inactive ingredients: 500 mg tablet: hypromellose, magnesium stearate, methacrylic acid and ethyl acrylate copolymer (sodium lauryl sulfate and polysorbate 80), microcrystalline cellulose, polyethylene glycol, sodium hydroxide, titanium dioxide, polyvinyl alcohol, talc, Iron Oxide Yellow, and Iron Oxide Red.
 
-1000 mg tablet: hypromellose, magnesium stearate, methacrylic acid and ethyl acrylate copolymer, sodium lauryl sulfate, polysorbate 80, microcrystalline cellulose, polyethylene glycol, sodium hydroxide, titanium dioxide, polyvinyl alcohol, talc, Iron oxide Yellow and Iron Oxide Red (Non-Irradiated).
+1000 mg tablet: hypromellose, magnesium stearate, methacrylic acid and ethyl acrylate copolymer (sodium lauryl sulfate and polysorbate 80), microcrystalline cellulose, polyethylene glycol, sodium hydroxide, titanium dioxide, polyvinyl alcohol, talc, Iron oxide Yellow and Iron Oxide Red (Non-Irradiated).
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 
 Marketed by: Ajanta Pharma USA Inc. Bridgewater, NJ 08807.
 
 Manufactured by: Ajanta Pharma Limited Z-103/A, Dahej SEZ - Part II Bharuch, Gujarat 392130, India
 
-Revised: 08/2019
+Revised: 11/2019
 
 # All trademarks are the properties of their respective owners

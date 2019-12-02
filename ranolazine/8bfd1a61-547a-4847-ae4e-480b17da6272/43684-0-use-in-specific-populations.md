@@ -59,5 +59,5 @@ No dose adjustment of ranolazine extended-release tablets is required in patient
 
 A population pharmacokinetic evaluation of data from angina patients and healthy subjects showed no effect of diabetes on ranolazine pharmacokinetics.
 No dose adjustment is required in patients with diabetes.
-A Ranolazine extended-release tablet produces small reductions in HbA1c in patients with diabetes, the clinical significance of which is unknown.
+Ranolazine extended-release tablet produces small reductions in HbA1c in patients with diabetes, the clinical significance of which is unknown.
 Ranolazine extended-release tablets should not be considered a treatment for diabetes.

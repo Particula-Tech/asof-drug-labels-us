@@ -12,4 +12,5 @@ Ranolazine extended-release tablets are available in:
 | Unit-of-Use Bottle (60 Tablets) | 500 mg | 27241-125-02 |
 | Unit-of-Use Bottle (60 Tablets) | 1000 mg | 27241-126-02 |
 
-Store Ranolazine extended-release tablets at 20° to 25°C (68° to 77°F); excursions permitted to 15° to 30°C (59° to 86°F) (See USP Controlled Room Temperature)
+Store at 20°C to 25°C (68°F to 77°F); excursions permitted between 15°C to 30°C (59°F to 86°F).
+[See USP Controlled Room Temperature.]

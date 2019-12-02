@@ -35,8 +35,7 @@ Administration
   Inform patients that if a dose is missed, to take the usual dose at the next scheduled time.
   The next dose should not be doubled.
   Inform patients that doses of ranolazine extended-release tablets higher than 1000 mg twice daily should not be used [see Dosage and Administration (2)].
-
-Advise patients to inform their physician of any other medications taken concurrently with ranolazine extended-release tablets, including over-the-counter medications.
+- Advise patients to inform their physician of any other medications taken concurrently with ranolazine extended-release tablets, including over-the-counter medications.
 
 Marketed by: Ajanta Pharma USA Inc. Bridgewater, NJ 08807.
 
