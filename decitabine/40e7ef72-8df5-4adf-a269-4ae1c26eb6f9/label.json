@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA206033"
+  ],
+  "inn": "decitabine",
+  "labeler": "Amneal Pharmaceuticals LLC",
+  "package_ndcs": [
+    "70121-1644-1"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION",
+      "generic": "decitabine",
+      "name": "Decitabine"
+    }
+  ],
+  "setid": "40e7ef72-8df5-4adf-a269-4ae1c26eb6f9",
+  "source": "dailymed"
+}
