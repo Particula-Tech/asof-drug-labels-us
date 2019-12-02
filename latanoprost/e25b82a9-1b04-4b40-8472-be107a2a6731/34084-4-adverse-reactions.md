@@ -17,7 +17,7 @@ Patients received 50 mcg/mL Latanoprost Ophthalmic Solution once daily or 5 mg/m
 The patient population studied had a mean age of 65±10 years.
 Seven percent of patients withdrew before the 6-month endpoint.
 
-Table 1: Ocular Adverse Reactions and ocular signs/symptoms reported by 5–15% of patients receiving Latanoprost
+Table1:OcularAdverseReactionsandOcularSigns/SymptomsReportedby5–15%ofPatients Receiving Latanoprost
 
 |  | Adverse Reactions (incidence (%)) |  |
 | --- | --- | --- |
@@ -29,11 +29,11 @@ Table 1: Ocular Adverse Reactions and ocular signs/symptoms reported by 5–15% 
 | Blurred vision | 8 | 8 |
 | Itching | 8 | 8 |
 | Burning | 7 | 8 |
-| Increased pigmentation of the iris | 7 | 0 |
+| Increased pigmentation of the Iris | 7 | 0 |
 
 Less than 1% of the patients treated with Latanoprost Ophthalmic Solution required discontinuation of therapy because of intolerance to conjunctival hyperemia.
 
-Table 2: Adverse Reactions that were reported in 1–5% of patients receiving Latanoprost
+Table2:AdverseReactions That Were Reportedin1–5%ofPatients ReceivingLatanoprost
 
 |  | Adverse Reactions (incidence (%)) |  |
 | --- | --- | --- |
@@ -60,11 +60,11 @@ The following reactions have been identified during post marketing use of Latano
 Because they are reported voluntarily from a population of unknown size, it is not always possible to reliably estimates their frequency or establish a causal relationship to drug exposure.
 The reactions, which have been chosen for inclusion due to either their seriousness, frequency of reporting, possible causal connection to Latanoprost Ophthalmic Solution, or a combination of these factors, include:
 
-Nervous System disorders: dizziness, headache, and toxic epidermal necrolysis
+Nervous System disorders: Dizziness, headache, toxic epidermal necrolysis
 
-Eye Disorders: eyelash and vellus hair changes of the eyelid (increased length, thickness, pigmentation, and number of eyelashes); keratitis; corneal edema and erosions; intraocular inflammation (iritis/uveitis); macular edema, including cystoid macular edema; trichiasis; periorbital and lid changes resulting in deepening of the eyelid sulcus; iris cyst; eyelid skin darkening; localized skin reaction on the eyelids; conjunctivitis; pseudopemphigoid of the ocular conjunctiva.
+Eye Disorders: Eyelash and vellus hair changes of the eyelid (increased length, thickness, pigmentation, and number of eyelashes); keratitis; corneal edema and erosions; intraocular inflammation (iritis/uveitis); macular edema, including cystoid macular edema; trichiasis; periorbital and lid changes resulting in deepening of the eyelid sulcus; iris cyst; eyelid skin darkening; localized skin reaction on the eyelids; conjunctivitis; pseudopemphigoid of the ocular conjunctiva.
 
-Respiratory, Thoracic and Mediastinal Disorders: asthma and exacerbation of asthma; dyspnea
+Respiratory, Thoracic and Mediastinal Disorders: Asthma and exacerbation of asthma; dyspnea
 
 Skin and Subcutaneous Tissue Disorders: Pruritus
 
@@ -72,4 +72,4 @@ Infections and Infestations: Herpes keratitis
 
 Cardiac Disorders: Angina; palpitation; angina unstable
 
-General Disorders and Administration Site Conditions:Chest pain
+General Disorders and Administration Site Conditions: Chest pain
