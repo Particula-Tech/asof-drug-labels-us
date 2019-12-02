@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "ANDA210384"
+  ],
+  "inn": "pilocarpine",
+  "labeler": "Somerset Therapeutics, LLC",
+  "package_ndcs": [
+    "70069-181-01",
+    "70069-191-01",
+    "70069-201-01"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION/ DROPS",
+      "generic": "pilocarpine hydrochloride ophthalmic solution",
+      "name": "Pilocarpine Hydrochloride"
+    }
+  ],
+  "setid": "84428e9a-f486-44d9-ad93-4ea9069a6787",
+  "source": "dailymed"
+}
