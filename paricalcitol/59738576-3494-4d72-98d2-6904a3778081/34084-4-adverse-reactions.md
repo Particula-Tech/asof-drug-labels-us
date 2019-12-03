@@ -62,9 +62,12 @@ Adverse Reactions by Body System Occurring in ≥ 2% of Subjects in the Paricalc
 | Vascular Disorders |  |  |  |  |
 | Hypertension | 7 | (7%) | 4 | (4%) |
 | Hypotension | 5 | (5%) | 3 | (3%) |
-| a. Includes only events more common in the paricalcitol treatment group. |  |  |  |  |
 
-Additional Adverse Reactions The following additional adverse reactions occurred in <2% of the paricalcitol-treated adult patients in the above double-blind, placebo-controlled clinical trial.
+a. Includes only events more common in the paricalcitol treatment group.
+
+Additional Adverse Reactions
+
+The following additional adverse reactions occurred in <2% of the paricalcitol-treated adult patients in the above double-blind, placebo-controlled clinical trial.
 
 Gastrointestinal Disorders: Dry mouth
 
@@ -74,9 +77,8 @@ Nervous System Disorders: Dysgeusia
 
 Skin and Subcutaneous Tissue Disorders: Urticaria Pediatric use information for patients 10 to 16 years of age is approved for AbbVie Inc.’s Zemplar (paricalcitol) capsules.
 However, due to AbbVie Inc.’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
-CKD Stage 5
 
-Adults
+CKD Stage 5 Adults
 
 The safety of paricalcitol capsules has been evaluated in one 12-week, double-blind, placebo-controlled, multicenter clinical study involving 88 CKD Stage 5 patients.
 Sixty-one patients received paricalcitol capsules and 27 patients received placebo.
@@ -115,7 +117,8 @@ Adverse Reactions by Body System Occurring in ≥ 2% of Subjects in the Paricalc
 | Insomnia | 3 | (5%) | 0 | (0%) |
 | Renal and Urinary Disorders |  |  |  |  |
 | Renal Failure Chronic | 2 | (3%) | 0 | (0%) |
-| a. Includes only events more common in the paricalcitol treatment group. |  |  |  |  |
+
+a. Includes only events more common in the paricalcitol treatment group.
 
 Additional Adverse Reactions
 
