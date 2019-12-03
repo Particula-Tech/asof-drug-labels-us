@@ -4,6 +4,10 @@ When using olanzapine and fluoxetine in combination, also refer to the Adverse R
 
 ## 6.1 Clinical Trials Experience
 
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect or predict the rates observed in practice.
+
+Clinical Trials in Adults
+
 The information below for olanzapine is derived from a clinical trial database for olanzapine consisting of 10,504 adult patients with approximately 4765 patient-years of exposure to oral olanzapine.
 This database includes: (1) 2500 patients who participated in multiple-dose oral olanzapine premarketing trials in schizophrenia and Alzheimer’s disease representing approximately 1122 patient-years of exposure as of February 14, 1995; (2) 182 patients who participated in oral olanzapine premarketing bipolar I disorder (manic or mixed episodes) trials representing approximately 66 patient-years of exposure; (3) 191 patients who participated in an oral olanzapine trial of patients having various psychiatric symptoms in association with Alzheimer’s disease representing approximately 29 patient-years of exposure; (4) 5788 additional patients from 88 oral olanzapine clinical trials as of December 31, 2001; (5) 1843 additional patients from 41 olanzapine clinical trials as of October 31, 2011.
 Also included below is information from the premarketing 6-week clinical study database for olanzapine in combination with lithium or valproate, consisting of 224 patients who participated in bipolar I disorder (manic or mixed episodes) trials with approximately 22 patient-years of exposure.
@@ -27,11 +31,11 @@ The entire label should be read to gain a complete understanding of the safety p
 
 The prescriber should be aware that the figures in the tables and tabulations cannot be used to predict the incidence of side effects in the course of usual medical practice where patient characteristics and other factors differ from those that prevailed in the clinical trials.
 Similarly, the cited frequencies cannot be compared with figures obtained from other clinical investigations involving different treatments, uses, and investigators.
-The cited figures, however, do provide the prescribing physician with some basis for estimating the relative contribution of drug and nondrug factors to the adverse reactions incidence in the population studied.
+The cited figures, however, do provide the prescribing healthcare provider with some basis for estimating the relative contribution of drug and nondrug factors to the adverse reactions incidence in the population studied.
 
 Incidence of Adverse Reactions in Short-Term, Placebo-Controlled and Combination Trials
 
-The following findings are based on premarketing trials of oral olanzapine for Schizophrenia, Bipolar I Disorder (manic or mixed episodes), a subsequent trial of patients having various psychiatric symptoms in association with Alzheimer’s disease, and premarketing combination trials.
+The following findings are based on premarketing trials of oral olanzapine for Schizophrenia, bipolar I disorder (manic or mixed episodes), a subsequent trial of patients having various psychiatric symptoms in association with Alzheimer’s disease, and premarketing combination trials.
 
 Adverse Reactions Associated with Discontinuation of Treatment in Short-Term, Placebo-Controlled Trials
 
@@ -138,9 +142,9 @@ Table 12: Percentage of Patients from a Schizophrenia Trial with Treatment-Emerg
 | Somnolence | 16 | 20 | 30 | 39 |
 | Tremor | 3 | 0 | 5 | 7 |
 
-Commonly Observed Adverse Reactions in Short-Term Trials of Oral Olanzapine ias Adjunct to Lithium or Valproate
+Commonly Observed Adverse Reactions in Short-Term Trials of Oral Olanzapine as Adjunct to Lithium or Valproate
 
-In the bipolar I disorder (manic or mixed episodes) combination placebo-controlled trials, the most commonly observed adverse reactions associated with the combination of olanzapine and lithium or valproate (incidence of ≥5% and at least twice placebo) were:
+In the bipolar I disorder (manic or mixed episodes) adjunct placebo-controlled trials, the most commonly observed adverse reactions associated with the combination of olanzapine and lithium or valproate (incidence of ≥5% and at least twice placebo) were:
 
 Table 13: Common Treatment-Emergent Adverse Reactions Associated with the Use of Oral Olanzapine in 6-Week Adjunct to Lithium or Valproate Trials — Bipolar I Disorder (Manic or Mixed Episodes)
 
@@ -158,11 +162,11 @@ Table 13: Common Treatment-Emergent Adverse Reactions Associated with the Use of
 | Amnesia | 5 | 2 |
 | Paresthesia | 5 | 2 |
 
-Adverse Reactions Occurring at an Incidence of 2% or More Among Oral Olanzapine-Treated Patients in Short-Term Trials of Olanzapine as Adjunct to Lithium or Valproate
+Adverse Reactions Occurring at an Incidence of 2% or More among Oral Olanzapine-Treated Patients in Short-Term Trials of Olanzapine as Adjunct to Lithium or Valproate
 
 Table 14 enumerates the incidence, rounded to the nearest percent, of treatment-emergent adverse reactions that occurred in 2% or more of patients treated with the combination of olanzapine (doses ≥5 mg/day) and lithium or valproate and with incidence greater than lithium or valproate alone who participated in the acute phase of placebo-controlled combination trials.
 
-Table 14: Treatment-Emergent Adverse Reactions: Incidence in Short-Term, Placebo-Controlled Clinical Trials of Oral Olanzapine in Combination with Lithium or Valproate
+Table 14: Treatment-Emergent Adverse Reactions: Incidence in Short-Term, Placebo-Controlled Clinical Trials of Oral Olanzapine as Adjunct to with Lithium or Valproate
 
 | Body System/Adverse Reaction | Percentage of Patients Reporting Event |  |
 | --- | --- | --- |
@@ -214,7 +218,7 @@ a Denominator used was for females only (olanzapine, N=128; placebo, N=51).
 
 For specific information about the adverse reactions observed with lithium or valproate, refer to the Adverse Reactions section of the package inserts for these other products.
 
-## 6.2 Extrapyramidal Symptoms
+### Extrapyramidal Symptoms
 
 The following table enumerates the percentage of patients with treatment-emergent extrapyramidal symptoms as assessed by categorical analyses of formal rating scales during acute therapy in a controlled clinical trial comparing oral olanzapine at 3 fixed doses with placebo in the treatment of schizophrenia in a 6-week trial.
 
@@ -254,6 +258,8 @@ d Patients with the following COSTART terms were counted in this category: bucco
 
 e Patients with the following COSTART terms were counted in this category: movement disorder, myoclonus, twitching.
 
+The following table enumerates the percentage of adolescent patients with treatment-emergent extrapyramidal symptoms as assessed by spontaneously reported adverse reactions during acute therapy (dose range: 2.5 to 20 mg/day).
+
 Table 18: Treatment-Emergent Extrapyramidal Symptoms Assessed by Adverse Reactions Incidence in Placebo-Controlled Clinical Trials of Oral Olanzapine in Schizophrenia and Bipolar I Disorder — Adolescents
 
 |  | Percentage of Patients Reporting Event |  |
@@ -273,7 +279,7 @@ Dystonic symptoms include: spasm of the neck muscles, sometimes progressing to t
 While these symptoms can occur at low doses, the frequency and severity are greater with high potency and at higher doses of first generation antipsychotic drugs.
 In general, an elevated risk of acute dystonia may be observed in males and younger age groups receiving antipsychotics; however, events of dystonia have been reported infrequently (<1%) with olanzapine use.
 
-## 6.3 Other Adverse Reactions
+### Other Adverse Reactions
 
 Other Adverse Reactions Observed During the Clinical Trial Evaluation of Oral Olanzapine
 
@@ -400,12 +406,12 @@ ECG Changes — In pooled studies of adults as well as pooled studies of adolesc
 Olanzapine use was associated with a mean increase in heart rate compared to placebo (adults: +2.4 beats per minute vs no change with placebo; adolescents: +6.3 beats per minute vs -5.1 beats per minute with placebo).
 This increase in heart rate may be related to olanzapine’s potential for inducing orthostatic changes [see Warnings and Precautions (5.7)].
 
-## 6.4 Postmarketing Experience
+## 6.2 Postmarketing Experience
 
 The following adverse reactions have been identified during post-approval use of olanzapine.
 Because these reactions are reported voluntarily from a population of uncertain size, it is difficult to reliably estimate their frequency or evaluate a causal relationship to drug exposure.
 
-Adverse reactions reported since market introduction that were temporally (but not necessarily causally) related to olanzapine therapy include the following: allergic reaction (e.g., anaphylactoid reaction, angioedema, pruritus or urticaria), cholestatic or mixed liver injury, diabetic coma, diabetic ketoacidosis, discontinuation reaction (diaphoresis, nausea or vomiting, Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS)), hepatitis, jaundice, neutropenia, pancreatitis, priapism, rash, restless legs syndrome, rhabdomyolysis, stuttering1 and venous thromboembolic events (including pulmonary embolism and deep venous thrombosis).
+Adverse reactions reported since market introduction that were temporally (but not necessarily causally) related to olanzapine therapy include the following: allergic reaction (e.g., anaphylactoid reaction, angioedema, pruritus or urticaria), cholestatic or mixed liver injury, diabetic coma, diabetic ketoacidosis, discontinuation reaction (diaphoresis, nausea or vomiting), Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS), hepatitis, jaundice, neutropenia, pancreatitis, priapism, rash, restless legs syndrome, rhabdomyolysis, stuttering1 and venous thromboembolic events (including pulmonary embolism and deep venous thrombosis).
 Random cholesterol levels of ≥240 mg/dL and random triglyceride levels of ≥1000 mg/dL have been reported.
 
 1 Stuttering was only studied in oral and long acting injection (LAI) formulations.

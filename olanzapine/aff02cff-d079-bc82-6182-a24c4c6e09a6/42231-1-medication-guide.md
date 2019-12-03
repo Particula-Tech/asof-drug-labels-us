@@ -1,6 +1,8 @@
 Medication Guide
 
-Olanzapine Orally Disintegrating Tablets
+Olanzapine Orally Disintegrating Tablets USP
+
+(oh lan' za peen)
 
 Read the Medication Guide that comes with olanzapine orally disintegrating tablets before you start taking them and each time you get a refill.
 There may be new information.
@@ -121,14 +123,15 @@ Before starting olanzapine orally disintegrating tablets, tell your doctor if yo
 - any other medical condition
 - are pregnant or plan to become pregnant.
   It is not known if olanzapine orally disintegrating tablets will harm your unborn baby.
+  - If you become pregnant while receiving olanzapine orally disintegrating tablets, talk to your healthcare provider about registering with the National Pregnancy Registry for Atypical Antipsychotics.
+    You can register by calling 1-866-961-2388 or go to http://womensmentalhealth.org/clinical-and­research-programs/pregnancyregistry/.
 - are breast-feeding or plan to breast-feed.
-  Olanzapine can pass into your breast milk and may harm your baby.
-  You should not breast-feed while taking olanzapine orally disintegrating tablets.
-  Talk to your doctor about the best way to feed your baby if you take olanzapine orally disintegratingtablets.
+  Olanzapine passes into your breast milk.
+  Talk to your doctor about the best way to feed your baby if you take olanzapine orally disintegrating tablets.
 
 Tell your doctor if you exercise a lot or are in hot places often.
 
-The symptoms of Bipolar I Disorder or schizophrenia may include thoughts of suicide or of hurting yourself or others.
+The symptoms of bipolar I disorder or schizophrenia may include thoughts of suicide or of hurting yourself or others.
 If you have these thoughts at any time, tell your doctor or go to an emergency room right away.
 
 Tell your doctor about all the medicines that you take, including prescription and non-prescription medicines, vitamins, and herbal supplements.
@@ -144,7 +147,7 @@ Do not start or stop any medicine while taking olanzapine orally disintegrating 
   If it is almost time for the next dose, just skip the missed dose and take your next dose at the regular time.
   Do not take two doses of olanzapine orally disintegrating tablets at the same time.
 - To prevent serious side effects, do not stop taking olanzapine orally disintegrating tablets suddenly.
-  If you need to stop taking olanzapinetablets, your doctor can tell you how to safely stop taking it.
+  If you need to stop taking olanzapine orally disintegrating tablets, your doctor can tell you how to safely stop taking it.
 - If you take too much olanzapineorally disintegratingtablets, call your doctor or poison control center at 1-800-222-1222 right away, or get emergency treatment.
 - Olanzapine orally disintegrating tablets can be taken with or without food.
 - Olanzapine orally disintegrating tablets are usually taken one time each day.
@@ -215,6 +218,8 @@ You may report side effects to FDA at 1-800-FDA-1088.
 - Keep olanzapine orally disintegrating tablets away from light.
 - Keep olanzapine orally disintegrating tablets dry and away from moisture.
 
+Keep olanzapine orally disintegrating tablets and all medicines out of the reach of children.
+
 ## General information about olanzapineorally disintegratingtablets
 
 Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide.
@@ -245,6 +250,6 @@ Dr. Reddy’s Laboratories Limited
 
 Bachupally - 500 090 INDIA
 
-Revised: 0518
+Revised: 1119
 
 Dispense with Medication Guide available at:www.drreddys.com/medguide/olanzapineodtabs.pdf
