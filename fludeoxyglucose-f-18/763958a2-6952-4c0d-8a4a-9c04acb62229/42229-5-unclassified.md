@@ -1,3 +1,3 @@
-Manufactured by: UCSF Radiopharmaceutical Facility 185 Berry Street Suite 350 San Francisco, CA 94107
+Manufactured and Distributed by:
 
-Distributed by: UCSF Radiopharmaceutical Facility 185 Berry Street Suite 350 San Francisco, CA 94107
+UCSF Radiopharmaceutical Facility 185 Berry Street Suite 350 San Francisco, CA 94107
