@@ -11,7 +11,7 @@ Risk of Bleeding:
 Embryo-Fetal Toxicity:
 
 - •Advise females of reproductive potential of the potential risk to a fetus and to use effective contraception during treatment with FASLODEX and for one year after the last dose.
-  Advise females to inform their healthcare provider of a known or suspected pregnancy [see Warnings and Precautions (5.4) and Use in Specific Populations (8.1),(8.3)].
+  Advise females to inform their healthcare provider of a known or suspected pregnancy [see Warnings and Precautions (5.4) and Use in Specific Populations (8.1), (8.3)].
 
 Lactation:
 
@@ -19,4 +19,4 @@ Lactation:
 
 Combination Therapy
 
-- •When FASLODEX is used in combination with palbociclib, abemaciclib, or ribociclib, refer to the respective Full Prescribing Information for Patient Counseling Information.
+When FASLODEX is used in combination with palbociclib, abemaciclib, or ribociclib, refer to the respective Full Prescribing Information for Patient Counseling Information.

@@ -204,7 +204,8 @@ Table 6: Laboratory Abnormalities in PALOMA-3
 | Platelets decreased | 62 | 2 | 1 | 10 | 0 | 0 |
 | Aspartate aminotransferase increased | 43 | 4 | 0 | 48 | 4 | 0 |
 | Alanine aminotransferase increased | 36 | 2 | 0 | 34 | 0 | 0 |
-| N=number of patients; WBC=white blood cells. |  |  |  |  |  |  |
+
+N=number of patients; WBC=white blood cells.
 
 Combination Therapy with Abemaciclib (MONARCH 2)
 
@@ -342,7 +343,7 @@ Table 10: Laboratory Abnormalities Occurring in ≥10% of Patients in MONALEESA-
 
 | All Grades % | Grade 3 % | Grade 4 % | All Grades % | Grade 3 % | Grade 4 % |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| Laboratory parameters | FASLODEX plus Ribociclib N=483 |  |  | FASLODEX plus Placebo N=241 |  |  |
+| Laboratory Parameters | FASLODEX plus Ribociclib N=483 |  |  | FASLODEX plus Placebo N=241 |  |  |
 | Hematology |  |  |  |  |  |  |
 | Leukocyte count decreased | 95 | 25 | <1 | 26 | <1 | 0 |
 | Neutrophil count decreased | 92 | 46 | 7 | 21 | <1 | 0 |
