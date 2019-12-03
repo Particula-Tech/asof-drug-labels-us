@@ -34,8 +34,6 @@ NDC 68382-137-01 in bottle of 100 tablets
 
 NDC 68382-137-10 in bottle of 1,000 tablets
 
-NDC 68382-137-40 in bottle of 5,000 tablets
-
 NDC 68382-137-77 in cartons of 100 tablets (10 x 10 unit-dose)
 
 Storage:
