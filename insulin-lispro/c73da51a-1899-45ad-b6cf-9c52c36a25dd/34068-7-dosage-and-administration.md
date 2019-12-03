@@ -12,7 +12,9 @@
 - Inspect HUMALOG Mix75/25 visually before use.
   Do not use if discoloration or particulate matter is seen.
 - Administer HUMALOG Mix75/25 by subcutaneous injection into the abdominal wall, thigh, upper arm, or buttocks.
-- Rotate the injection site within the same region from one injection to the next to reduce the risk of lipodystrophy [see Adverse Reactions (6)].
+- Rotate the injection site within the same region from one injection to the next to reduce the risk of lipodystrophy and localized cutaneous amyloidosis.
+  Do not inject into areas of lipodystrophy or localized cutaneous amyloidosis [see Warnings and Precautions (5.2) and Adverse Reactions (6)].
+- During changes to a patient's insulin regimen, increase the frequency of blood glucose monitoring [see Warnings and Precautions (5.2)].
 - The HUMALOG Mix75/25 KwikPen dials in 1 unit increments.
 - Use HUMALOG Mix75/25 KwikPen with caution in patients with visual impairment that may rely on audible clicks to dial their dose.
 - Do not administer HUMALOG Mix75/25 intravenously, intramuscularly or by a continuous subcutaneous insulin infusion pump.

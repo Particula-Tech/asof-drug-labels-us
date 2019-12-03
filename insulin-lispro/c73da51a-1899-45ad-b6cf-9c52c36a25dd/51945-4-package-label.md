@@ -36,11 +36,9 @@ insulin lispro protamine and insulin lispro injectable suspension
 
 For Single Patient Use Only
 
-HP-8797
+Dispense in this sealed carton.
 
 U-100
-
-Rx only
 
 100 units per mL
 
@@ -51,6 +49,8 @@ This device is recommended for use with Becton, Dickinson and Company's insulin 
 For subcutaneous use only.
 
 prefilled insulin delivery device
+
+Rx only
 
 5 x 3 mL Prefilled Pens
 
