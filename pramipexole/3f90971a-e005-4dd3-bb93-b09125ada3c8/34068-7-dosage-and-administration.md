@@ -40,7 +40,7 @@ Table 2 Dosing of Pramipexole Dihydrochloride tablets in Parkinson’s Disease P
 | --- | --- | --- |
 | Normal to mild impairment (creatinine Cl > 50 mL/min) | 0.125 three times a day | 1.5 three times a day |
 | Moderate impairment (creatinine Cl = 30 to 50 mL/min) | 0.125 twice a day | 0.75 three times a day |
-| Severe impairment (creatinine Cl = 15 to <30 mL/min) | 0.125 once a day | 1.5 once a day |
+| Severe impairment (creatinine Cl =15 to <30 mL/min) | 0.125 once a day | 1.5 once a day |
 | Very severe impairment (creatinine Cl <15 mL/min and hemodialysis patients) | The use of pramipexole dihydrochloride tablets has not been adequately studied in this group of patients. |  |
 
 Discontinuation of Treatment Pramipexole dihydrochloride tablets may be tapered off at a rate of 0.75 mg per day until the daily dose has been reduced to 0.75 mg.
