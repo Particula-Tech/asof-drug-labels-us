@@ -54,7 +54,7 @@ Accordingly, patients should be advised not to drive or operate machinery until 
 ## 5.3 QT Shortening
 
 Formal cardiac ECG studies demonstrated shortening of the QT interval (mean = 20 msec, for doses ≥2,400 mg twice daily) with rufinamide.
-In a placebo-controlled study of the QT interval, a higher percentage of rufinamide-treated subjects (46% at 2,400 mg, 46% at 3,200 mg, and 65% at 4,800 mg) had a QT shortening of greater than 20 msec at Tmax compared to placebo (5 to 10%).
+In a placebo-controlled study of the QT interval, a higher percentage of rufinamide-treated subjects (46% at 2,400 mg, 46% at 3,200 mg, and 65% at 4,800 mg) had a QT shortening of greater than 20 msec at T max compared to placebo (5 to 10%).
 
 Reductions of the QT interval below 300 msec were not observed in the formal QT studies with doses up to 7,200 mg per day.
 Moreover, there was no signal for drug-induced sudden death or ventricular arrhythmias.
@@ -96,4 +96,4 @@ In all controlled trials that included patients with different epilepsies, 11 of
 ## 5.7 Leukopenia
 
 Rufinamide has been shown to reduce white cell count.
-Leukopenia (white cell count < 3X109 L) was more commonly observed in rufinamide-treated patients 43 of 1,171 (3.7%) than placebo-treated patients, 7 of 579 (1.2%) in all controlled trials.
+Leukopenia (white cell count < 3X10 9 L) was more commonly observed in rufinamide-treated patients 43 of 1,171 (3.7%) than placebo-treated patients, 7 of 579 (1.2%) in all controlled trials.

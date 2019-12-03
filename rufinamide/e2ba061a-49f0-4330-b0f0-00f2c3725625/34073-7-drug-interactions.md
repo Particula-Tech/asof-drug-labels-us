@@ -2,7 +2,7 @@
 
 ## 7.1 Effects of Rufinamide on other AEDs
 
-Population pharmacokinetic analysis of average concentration at steady state of carbamazepine, lamotrigine, phenobarbital, phenytoin, topiramate, and valproate showed that typical rufinamide Cavss levels had little effect on the pharmacokinetics of other AEDs.
+Population pharmacokinetic analysis of average concentration at steady state of carbamazepine, lamotrigine, phenobarbital, phenytoin, topiramate, and valproate showed that typical rufinamide C avss levels had little effect on the pharmacokinetics of other AEDs.
 Any effects, when they occur, have been more marked in the pediatric population.
 
 Table 6 summarizes the drug-drug interactions of rufinamide with other AEDs.
@@ -11,17 +11,17 @@ Table 6: Summary of drug-drug interactions of rufinamide with other antiepilepti
 
 | AED Co-administered | Influence of Rufinamide on AED concentrationa) | Influence of AED on Rufinamide concentration |
 | --- | --- | --- |
-| Carbamazepine | Decrease by 7 to 13%b) | Decrease by 19 to 26% Dependent on dose of carbamazepine |
-| Lamotrigine | Decrease by 7 to 13%b) | No Effect |
-| Phenobarbital | Increase by 8 to 13%b) | Decrease by 25 to 46%c)’ d) Independent of dose or concentration of phenobarbital |
-| Phenytoin | Increase by 7 to 21%b) | Decrease by 25 to 46%c)’ d) Independent of dose or concentration of phenytoin |
+| Carbamazepine | Decrease by 7 to 13% b) | Decrease by 19 to 26% Dependent on dose of carbamazepine |
+| Lamotrigine | Decrease by 7 to 13% b) | No Effect |
+| Phenobarbital | Increase by 8 to 13% b) | Decrease by 25 to 46% c)’ d) Independent of dose or concentration of phenobarbital |
+| Phenytoin | Increase by 7 to 21% b) | Decrease by 25 to 46% c)’ d) Independent of dose or concentration of phenytoin |
 | Topiramate | No Effect | No Effect |
-| Valproate | No Effect | Increase by <16 to 70%c) Dependent on concentration of valproate |
-| Primidone | Not Investigated | Decrease by 25 to 46%c)’ d) Independent of dose or concentration of primidone |
+| Valproate | No Effect | Increase by <16 to 70% c) Dependent on concentration of valproate |
+| Primidone | Not Investigated | Decrease by 25 to 46% c)’ d) Independent of dose or concentration of primidone |
 | Benzodiazepines e) | Not Investigated | No Effect |
 | a) Predictions are based on rufinamide concentrations at the maximum recommended dose of rufinamide. b) Maximum changes predicted to be in pediatric patients and in adult patients who achieve significantly higher levels of rufinamide, as the effect of rufinamide on these AEDs is concentration-dependent. c) Larger effects in pediatric patients at high doses/concentrations of AEDs. d) Phenobarbital, primidone and phenytoin were treated as a single covariate (phenobarbital-type inducers) to examine the effect of these agents on rufinamide clearance. e) All compounds of the benzodiazepine class were pooled to examine for ‘class effect’ on rufinamide clearance. |  |  |
 
-Phenytoin: The decrease in clearance of phenytoin estimated at typical levels of rufinamide (Cavss 15 mcg/mL) is predicted to increase plasma levels of phenytoin by 7 to 21%.
+Phenytoin: The decrease in clearance of phenytoin estimated at typical levels of rufinamide (C avss 15 mcg/mL) is predicted to increase plasma levels of phenytoin by 7 to 21%.
 As phenytoin is known to have non-linear pharmacokinetics (clearance becomes saturated at higher doses), it is possible that exposure will be greater than the model prediction.
 
 ## 7.2 Effects of Other AEDs on Rufinamide

@@ -7,7 +7,7 @@ Carcinogenesis
 Rufinamide was given in the diet to mice at 40, 120, and 400 mg/kg per day and to rats at 20, 60, and 200 mg/kg per day for 2 years.
 The doses in mice were associated with plasma AUCs 0.1 to 1 times the human plasma AUC at the maximum recommended human dose (MRHD, 3,200 mg/day).
 Increased incidences of tumors (benign bone tumors (osteomas) and/or hepatocellular adenomas and carcinomas) were observed in mice at all doses.
-Increased incidences of thyroid follicular adenomas were observed in rats at all but the low dose; the low dose is < 0.1 times the MRHD on a mg/m2 basis.
+Increased incidences of thyroid follicular adenomas were observed in rats at all but the low dose; the low dose is < 0.1 times the MRHD on a mg/m 2 basis.
 
 Mutagenesis
 
