@@ -6,7 +6,7 @@ Risk Summary
 
 Data from a postmarketing retrospective cohort study indicate that use of duloxetine in the month before delivery may be associated with an increased risk of postpartum hemorrhage.
 Data from published literature and from a postmarketing retrospective cohort study have not identified a clear drug-associated risk of major birth defects or other adverse developmental outcomes (see Data).
-There are risks associated with untreated depression and fibromyalgia in pregnancy, and with exposure to SNRIs and SSRIs, including duloxetine delayed-release capsules, during pregnancy (see Clinical Considerations).
+There are risks associated with untreated depression in pregnancy, and with exposure to SNRIs and SSRIs, including duloxetine delayed-release capsules, during pregnancy (see Clinical Considerations).
 
 In rats and rabbits treated with duloxetine during the period of organogenesis, fetal weights were decreased but there was no evidence of developmental effects at doses up to 3 and 6 times, respectively, the maximum recommended human dose (MRHD) of 120 mg/day given to adolescents on a mg/m2 basis.
 When duloxetine was administered orally to pregnant rats throughout gestation and lactation, pup weights at birth and pup survival to 1 day postpartum were decreased at a dose 2 times the MRHD given to adolescents on a mg/m2 basis.
@@ -24,9 +24,6 @@ Disease-associated Maternal and/or Embryo/Fetal Risk
 Women who discontinue antidepressants during pregnancy are more likely to experience a relapse of major depression than women who continue antidepressants.
 This finding is from a prospective, longitudinal study that followed 201 pregnant women with a history of major depressive disorder who were euthymic and taking antidepressants at the beginning of pregnancy.
 Consider the risk of untreated depression when discontinuing or changing treatment with antidepressant medication during pregnancy and postpartum.
-
-Pregnant women with fibromyalgia are at increased risk for adverse maternal and infant outcomes including preterm premature rupture of membranes, preterm birth, small for gestational age, intrauterine growth restriction, placental disruption, and venous thrombosis.
-It is not known if these adverse maternal and fetal outcomes are a direct result of fibromyalgia or other comorbid factors.
 
 Maternal Adverse Reactions
 

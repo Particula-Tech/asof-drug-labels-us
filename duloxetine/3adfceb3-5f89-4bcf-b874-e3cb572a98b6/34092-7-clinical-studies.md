@@ -164,4 +164,5 @@ After 13 weeks of treatment, patients taking duloxetine delayed-release capsules
 
 In Study OA-1, for various degrees of improvement in pain from baseline to study endpoint, Figure 7 shows the fraction of patients achieving that degree of improvement.
 The figure is cumulative, so that patients whose change from baseline is, for example, 50%, are also included at every level of improvement below 50%.
-Patients who did not complete the study were assigned the value of 0% improvement. on Figure 9: Percentage of Patients Achieving Various Levels of Pain Relief as Measured by 24-Hour Average Pain Severity – OA-1
+Patients who did not complete the study were assigned the value of 0% improvement.
+Figure 9: Percentage of Patients Achieving Various Levels of Pain Relief as Measured by 24-Hour Average Pain Severity – OA-1

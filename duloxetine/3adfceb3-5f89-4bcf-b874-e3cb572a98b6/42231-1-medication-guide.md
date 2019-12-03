@@ -98,15 +98,12 @@ Before starting duloxetine delayed-release capsules, tell your healthcare provid
 - have low sodium levels in your blood
 - have delayed stomach emptying
 - have or had bleeding problems
-
 - are pregnant or plan to become pregnant.
   Duloxetine delayed-release capsules may harm your unborn baby.
   Talk to your healthcare provider about the risk to your unborn baby if you take duloxetine delayed-release capsules during pregnancy.
-
 - Tell your healthcare provider right away if you become pregnant or think you are pregnant during treatment with duloxetine delayed-release capsules.
-
 - are breastfeeding or plan to breastfeed.
-  Duloxetine delayed-release capsules passes into your breast milk and may harm your baby.
+  Duloxetine passes into your breast milk and may harm your baby.
   Talk to your healthcare provider about the best way to feed your baby while taking duloxetine delayed-release capsules.
 
 Tell your healthcare provider about all the medicines that you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements.
@@ -129,7 +126,6 @@ Especially tell your healthcare provider if you take:
   Mellaril together with duloxetine delayed-release capsules can cause serious heart rhythm problems or sudden death.
 
 Ask your healthcare provider for a list of these medicines if you are not sure.
-
 Do not take duloxetine delayed-release capsules with any other medicine that contain duloxetine.
 
 How should I take duloxetine delayed-release capsules?
