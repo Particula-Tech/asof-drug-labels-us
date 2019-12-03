@@ -1,39 +1,39 @@
 # 1 gram Label
 
-NCD 0781-3412-15
+NCD 0781-3412-92 Rx Only
 
-Single use ADD-Vantage® vial
+Ampicillin for
 
-Ampicillin
+Injection, USP
 
-for Injection, USP
+1 gram
 
-1 gram Rx only
+10 Single-Dose ADD-Vantage® Vials
 
 For Intravenous Use Only
 
-For use only with the ADD-Vantage®
+For use only with the
 
-diluent container.
+ADD-Vantage® diluent container.
 
-SANDOZ
+SANDOZ – A Novartis Division
 
 # 2 grams Label
 
-NCD 0781-3413-15
+NCD 0781-3413-92 Rx Only
 
-Single use ADD-Vantage® vial
+Ampicillin for
 
-Ampicillin
+Injection, USP
 
-for Injection, USP
+1 grams
 
-2 grams Rx only
+10 Single-Dose ADD-Vantage® Vials
 
 For Intravenous Use Only
 
-For use only with the ADD-Vantage®
+For use only with the
 
-diluent container.
+ADD-Vantage® diluent container.
 
-SANDOZ
+SANDOZ – A Novartis Division
