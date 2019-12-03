@@ -1,8 +1,8 @@
 # Package/Label Display Panel
 
-## Carvedilol Tablets USP 3.125 mg 500s Label Text
+## Carvedilol Tablets USP 3.125 mg 100s Label Text
 
-NDC 0093-0051-05
+NDC 0093-0051-01
 
 Carvedilol
 
@@ -16,15 +16,15 @@ ATTACHED PATIENT INFORMATION LEAFLET
 
 Rx only
 
-500 TABLETS
+100 TABLETS
 
 TEVA
 
 # Package/Label Display Panel
 
-## Carvedilol Tablets USP 6.25 mg 500s Label Text
+## Carvedilol Tablets USP 6.25 mg 100s Label Text
 
-NDC 0093-0135-05
+NDC 0093-0135-01
 
 Carvedilol
 
@@ -38,15 +38,15 @@ ATTACHED PATIENT INFORMATION LEAFLET
 
 Rx only
 
-500 TABLETS
+100 TABLETS
 
 TEVA
 
 # Package/Label Display Panel
 
-## Carvedilol Tablets USP 12.5 mg 500s Label Text
+## Carvedilol Tablets USP 12.5 mg 100s Label Text
 
-NDC 0093-7295-05
+NDC 0093-7295-01
 
 Carvedilol
 
@@ -60,15 +60,15 @@ ATTACHED PATIENT INFORMATION LEAFLET
 
 Rx only
 
-500 TABLETS
+100 TABLETS
 
 TEVA
 
 # Package/Label Display Panel
 
-## Carvedilol Tablets USP 25 mg 500s Label Text
+## Carvedilol Tablets USP 25 mg 100s Label Text
 
-NDC 0093-7296-05
+NDC 0093-7296-01
 
 Carvedilol
 
@@ -82,6 +82,6 @@ ATTACHED PATIENT INFORMATION LEAFLET
 
 Rx only
 
-500 TABLETS
+100 TABLETS
 
 TEVA
