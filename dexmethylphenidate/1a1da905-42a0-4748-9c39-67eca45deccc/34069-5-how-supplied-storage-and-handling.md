@@ -20,4 +20,4 @@ Disposal
 Comply with local laws and regulations on drug disposal of CNS stimulants.
 Dispose of remaining, unused, or expired Focalin XR by a medicine takeback program or by a medicine take-back program or by an authorized collector registered with the Drug Enforcement Administration.
 If no take-back program or authorized collector is available, mix Focalin XR with an undesirable, non-toxic substance to make it less appealing to children and pets.
-Place the mixture in a container such as a sealed plastic bag and discard Focalin XR in the household trash.
+Place the mixture in a container, such as a sealed plastic bag and discard Focalin XR in the household trash.

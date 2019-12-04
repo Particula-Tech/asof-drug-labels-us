@@ -8,7 +8,7 @@ The mode of therapeutic action in ADHD is not known.
 ## 12.2 Pharmacodynamics
 
 Dexmethylphenidate is the more pharmacologically active d-enantiomer of racemic methylphenidate.
-Methylphenidate is thought to block the reuptake of norepinephrine and dopamine into the presynaptic neuron and increase the release of these monoamines into the extraneuronal space.
+Methylphenidate blocks the reuptake of norepinephrine and dopamine into the presynaptic neuron and increase the release of these monoamines into the extraneuronal space.
 
 Cardiac Electrophysiology
 
@@ -20,7 +20,7 @@ Absorption
 
 Focalin XR produces a bi-modal plasma concentration-time profile (i.e., 2 distinct peaks approximately 4 hours apart) when orally administered to healthy adults.
 The initial rate of absorption for Focalin XR is similar to that of Focalin tablets as shown by the similar rate parameters between the 2 formulations, i.e., first peak concentration (Cmax1), and time to the first peak (tmax1), which is reached in 1.5 hours (typical range 1 to 4 hours).
-The mean time to the interpeak minimum (tminip) is slightly shorter, and time to the second peak (tmax2) is slightly longer for Focalin XR given once daily (about 6.5 hours, range 4.5 to 7 hours) compared to Focalin tablets given in 2 doses 4 hours apart (see Figure 1), although the ranges observed are greater for Focalin XR.
+The mean time to the interpeak minimum (tminip) is slightly shorter, and time to the second peak (tmax2) is slightly longer for Focalin XR given once daily (about 6.5 hours; range, 4.5 to 7 hours) compared to Focalin tablets given in 2 doses 4 hours apart (see Figure 1), although the ranges observed are greater for Focalin XR.
 
 Focalin XR given once daily exhibits a lower second peak concentration (Cmax2), higher interpeak minimum concentrations (Cminip), and fewer peak and trough fluctuations than Focalin tablets given in 2 doses given 4 hours apart.
 This is due to an earlier onset and more prolonged absorption from the delayed-release beads (see Figure 1).
@@ -73,7 +73,7 @@ There is insufficient experience with the use of Focalin XR to detect ethnic var
 Pediatric Patients
 
 The pharmacokinetics of dexmethylphenidate after Focalin XR administration have not been studied in pediatrics less than 18 years of age.
-When a similar formulation of racemic methylphenidate was examined in 15 patients between 10 and 12 years of age and 3 patients with ADHD between 7 and 9 years of age, the time to the first peak was similar, although the time until the between peak minimum, and the time until the second peak were delayed and more variable in pediatric patients compared to adults.
+When a similar formulation of racemic methylphenidate was examined in 15 patients between 10 and 12 years of age, and 3 patients with ADHD between 7 and 9 years of age, the time to the first peak was similar, although the time until the between peak minimum, and the time until the second peak were delayed and more variable in pediatric patients compared to adults.
 After administration of the same dose to pediatric patients and adults, concentrations in pediatric patients were approximately twice the concentrations observed in adults.
 This higher exposure is almost completely due to smaller body size as no relevant age-related differences in dexmethylphenidate pharmacokinetic parameters (i.e., clearance and volume of distribution) are observed after normalization to dose and weight.
 

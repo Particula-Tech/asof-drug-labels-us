@@ -1,8 +1,6 @@
-PRINCIPAL DISPLAY PANEL
+# PRINCIPAL DISPLAY PANEL
 
-Package Label – 5 mg
-
-Rx Only NDC 0078-0430-05
+NDC 0078-0430-05 Rx only
 
 Focalin XR®
 
@@ -16,11 +14,11 @@ extended-release capsules
 
 Dispense with Medication Guide attached or provided separately.
 
-PRINCIPAL DISPLAY PANEL
+NOVARTIS
 
-Package Label – 10 mg
+# PRINCIPAL DISPLAY PANEL
 
-Rx Only NDC 0078-0431-05
+NDC 0078-0431-05 Rx only
 
 Focalin XR®
 
@@ -34,11 +32,11 @@ extended-release capsules
 
 Dispense with Medication Guide attached or provided separately.
 
-PRINCIPAL DISPLAY PANEL
+NOVARTIS
 
-Package Label – 15 mg
+# PRINCIPAL DISPLAY PANEL
 
-Rx Only NDC 0078-0493-05
+NDC 0078-0493-05 Rx only
 
 Focalin XR®
 
@@ -52,11 +50,11 @@ extended-release capsules
 
 Dispense with Medication Guide attached or provided separately.
 
-PRINCIPAL DISPLAY PANEL
+NOVARTIS
 
-Package Label – 20 mg
+# PRINCIPAL DISPLAY PANEL
 
-Rx Only NDC 0078-0432-05
+NDC 0078-0432-05 Rx only
 
 Focalin XR®
 
@@ -70,11 +68,11 @@ extended-release capsules
 
 Dispense with Medication Guide attached or provided separately.
 
-PRINCIPAL DISPLAY PANEL
+NOVARTIS
 
-Package Label – 25 mg
+# PRINCIPAL DISPLAY PANEL
 
-Rx Only NDC 0078-0608-05
+NDC 0078-0608-05 Rx only
 
 Focalin XR®
 
@@ -86,13 +84,15 @@ extended-release capsules
 
 100 capsules
 
+Dispense in tight container (USP).
+
 Dispense with Medication Guide attached or provided separately.
 
-PRINCIPAL DISPLAY PANEL
+NOVARTIS
 
-Package Label – 30 mg
+# PRINCIPAL DISPLAY PANEL
 
-Rx Only NDC 0078-0433-05
+NDC 0078-0433-05 Rx only
 
 Focalin XR®
 
@@ -104,13 +104,15 @@ extended-release capsules
 
 100 capsules
 
+Dispense in tight container (USP).
+
 Dispense with Medication Guide attached or provided separately.
 
-PRINCIPAL DISPLAY PANEL
+NOVARTIS
 
-Package Label – 35 mg
+# PRINCIPAL DISPLAY PANEL
 
-Rx Only NDC 0078-0609-05
+NDC 0078-0609-05 Rx only
 
 Focalin XR®
 
@@ -122,13 +124,15 @@ extended-release capsules
 
 100 capsules
 
+Dispense in tight container (USP).
+
 Dispense with Medication Guide attached or provided separately.
 
-PRINCIPAL DISPLAY PANEL
+NOVARTIS
 
-Package Label – 40 mg
+# PRINCIPAL DISPLAY PANEL
 
-Rx Only NDC 0078-0434-05
+NDC 0078-0434-05 Rx only
 
 Focalin XR®
 
@@ -143,3 +147,5 @@ extended-release capsules
 Dispense in tight container (USP).
 
 Dispense with Medication Guide attached or provided separately.
+
+NOVARTIS

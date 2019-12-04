@@ -12,8 +12,8 @@ Advise patients to dispose of remaining, unused, or expired Focalin XR by a medi
 
 Serious Cardiovascular Risks
 
-Advise patients that there is a potential serious cardiovascular risk including sudden death, myocardial infarction, stroke, and hypertension with Focalin XR use.
-Instruct patients to contact a healthcare provider immediately if they develop symptoms such as exertional chest pain, unexplained syncope, or other symptoms suggestive of cardiac disease [see Warnings and Precautions (5.2)].
+Advise patients that there is a potential serious cardiovascular risk, including sudden death, myocardial infarction, stroke, and hypertension with Focalin XR use.
+Instruct patients to contact a healthcare provider immediately if they develop symptoms, such as exertional chest pain, unexplained syncope, or other symptoms suggestive of cardiac disease [see Warnings and Precautions (5.2)].
 
 Blood Pressure and Heart Rate Increases
 
@@ -28,7 +28,7 @@ Priapism
 Advise patients of the possibility of painful or prolonged penile erections (priapism).
 Instruct them to seek immediate medical attention in the event of priapism [see Warnings and Precautions (5.5)].
 
-Circulation Problems in Fingers and Toes (Peripheral Vasculopathy, including Raynaud’s Phenomenon)
+Circulation Problems in Fingers and Toes (Peripheral Vasculopathy, Including Raynaud’s Phenomenon)
 
 Instruct patients beginning treatment with Focalin XR about the risk of peripheral vasculopathy, including Raynaud’s phenomenon, and associated signs and symptoms: fingers or toes may feel numb, cool, painful, and/or may change color from pale, to blue, to red.
 Instruct patients to report to their physician any new numbness, pain, skin color change, or sensitivity to temperature in fingers or toes.
@@ -40,6 +40,10 @@ Suppression of Growth
 
 Advise patients that Focalin XR may cause slowing of growth and weight loss [see Warnings and Precautions (5.7)].
 
+Pregnancy Registry
+
+Advise patients that there is a pregnancy exposure registry that monitors pregnancy outcomes in patients exposed to ADHD medications, including Focalin XR, during pregnancy [see Use in Specific Populations (8.1)].
+
 Distributed by: Novartis Pharmaceuticals Corporation East Hanover, New Jersey 07936
 
-T2019-11B
+T2019-133

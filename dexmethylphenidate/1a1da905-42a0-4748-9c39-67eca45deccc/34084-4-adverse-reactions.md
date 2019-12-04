@@ -3,13 +3,13 @@
 The following are discussed in more detail in other sections of the labeling:
 
 - Abuse and Dependence [see Boxed Warning, Warnings and Precautions (5.1), Drug Abuse and Dependence (9.2, 9.3)]
-- Known hypersensitivity to methylphenidate or other ingredients of FOCALIN XR [see Contraindications (4)]
+- Known hypersensitivity to methylphenidate or other ingredients of Focalin XR [see Contraindications (4)]
 - Hypertensive Crisis with Concomitant Use of Monoamine Oxidase Inhibitors [see Contraindications (4), Drug Interactions (7.1)]
 - Serious Cardiovascular Reactions [see Warnings and Precautions (5.2)]
 - Blood Pressure and Heart Rate Increases [see Warnings and Precautions[(5.3)]
 - Psychiatric Adverse Reactions [see Warnings and Precautions (5.4)]
 - Priapism [see Warnings and Precautions (5.5)]
-- Peripheral Vasculopathy, including Raynaud’s Phenomenon [see Warnings and Precautions (5.6)]
+- Peripheral Vasculopathy, Including Raynaud’s Phenomenon [see Warnings and Precautions (5.6)]
 - Long-Term Suppression of Growth [see Warnings and Precautions (5.7)]
 
 ## 6.1 Clinical Trials Experience
@@ -22,7 +22,7 @@ The safety data in this section is based on data from a 7-week controlled clinic
 
 This study was a randomized, double-blind, placebo-controlled, parallel-group study to evaluate the time of onset, duration of efficacy, tolerability, safety of Focalin XR 5 mg to 30 mg/day who met DSM-IV criteria for ADHD [see Clinical Studies (14.1)].
 
-Most Common Adverse Reactions (incidence of greater than or equal to 5% and at least twice placebo): dyspepsia, decreased appetite, headache and anxiety.
+Most Common Adverse Reactions (incidence of greater than or equal to 5% and at least twice placebo): dyspepsia, decreased appetite, headache, and anxiety.
 
 Adverse Reactions Leading to Discontinuation: 50 of 684 (7.3%) pediatric patients treated with Focalin (dexmethylphenidate) immediate-release tablets experienced an adverse reaction that resulted in discontinuation.
 The most common reasons for discontinuation were twitching (described as motor or vocal tics), anorexia, insomnia, and tachycardia (approximately 1% each).
@@ -42,6 +42,7 @@ Table 1: Common Adverse Reactions in Pediatric Patients (6 to 17 years of age) w
 | Headache | 25% | 11% |
 | Psychiatric Disorders | 26% | 15% |
 | Anxiety | 6% | 0% |
+| Abbreviation: attention deficit hyperactivity disorder. |  |  |
 
 Table 2 below enumerates the incidence of dose-related adverse reactions that occurred during a fixed-dose, double-blind, placebo-controlled trial in pediatric patients with ADHD taking Focalin XR up to 30 mg daily versus placebo.
 The table includes only those reactions that occurred in patients treated with Focalin XR for which the incidence was at least 5% and greater than the incidence among placebo-treated patients.
@@ -62,6 +63,7 @@ Table 2: Dose-Related Adverse Reactions in Pediatric Patients (6 to 17 years of 
 | Irritability | 0% | 2% | 5% | 0% |
 | Nasal Congestion | 0% | 0% | 5% | 0% |
 | Pruritus | 0% | 0% | 3% | 0% |
+| Abbreviation: attention deficit hyperactivity disorder. |  |  |  |  |
 
 Clinical Trials Experience with Focalin XR in Adult Patients with ADHD
 
@@ -128,7 +130,7 @@ Metabolism and Nutrition Disorders: decreased appetite, reduced weight gain, and
 
 Psychiatric Disorders: insomnia, anxiety, restlessness, agitation, psychosis (sometimes with visual and tactile hallucinations), depressed mood
 
-Nervous System Disorders: headache, dizziness, tremor, dyskinesia including choreoatheetoid movements, drowsiness, convulsions, cerebrovascular disorders (including vasculitis, cerebral hemorrhages and cerebrovascular accidents), serotonin syndrome in combination with serotonergic drugs
+Nervous System Disorders: headache, dizziness, tremor, dyskinesia, including choreoathetoid movements, drowsiness, convulsions, cerebrovascular disorders (including vasculitis, cerebral hemorrhages and cerebrovascular accidents), serotonin syndrome in combination with serotonergic drugs
 
 Eye Disorders: blurred vision, difficulties in visual accommodation
 
@@ -148,13 +150,13 @@ Investigations: weight loss (adult ADHD patients)
 
 Additional Adverse Reactions Reported with Other Methylphenidate Products
 
-The list below shows adverse reactions not listed with Ritalin and Focalin formulations [see Adverse Reactions (6.2)] that have been reported with other methylphenidate products based on clinical trials data and post-marketing spontaneous reports.
+The list below shows adverse reactions not listed with Ritalin and Focalin formulations that have been reported with other methylphenidate products based on clinical trials data and post-marketing spontaneous reports.
 
 Blood and Lymphatic Disorders: pancytopenia
 
-Immune System Disorders: hypersensitivity reactions such as auricular swelling, bullous conditions, eruptions, exanthemas
+Immune System Disorders: hypersensitivity reactions, such as auricular swelling, bullous conditions, eruptions, exanthemas
 
-Psychiatric Disorders: affect lability, mania, disorientation, libido changes,
+Psychiatric Disorders: affect lability, mania, disorientation, libido changes
 
 Nervous System Disorders: migraine
 
