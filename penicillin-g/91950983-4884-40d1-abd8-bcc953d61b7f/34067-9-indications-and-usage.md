@@ -9,19 +9,19 @@ Appropriate culture and susceptibility tests should be done before treatment in 
 | --- | --- |
 | Septicemia, empyema, pneumonia, pericarditis, endocarditis, meningitis | Streptococcus pyogenes (group A β-hemolytic streptococcus), other β-hemolytic streptococci including groups C, H, G, L and M, Streptococcus pneumoniae and Staphylococcus species (non-penicillinase producing strains) |
 | Anthrax | Bacillus anthracis |
-| Actinomycosis (cervicofacial disease and thoracic and abdominal disease) | ActinomycesIsraelil |
+| Actinomycosis (cervicofacial disease and thoracic and abdominal disease) | Actinomyces Israelil |
 | Botulism (adjunctive therapy to antitoxin), gas gangrene, and tetanus (adjunctive therapy to human tetanus immune globulin) | Clostridium species |
 | Diphtheria (adjunctive therapy to antitoxin and prevention of the carrier state) | Corynebacterium diphtheriae |
-| Erysipelothrix endocarditis | Erysipelothrixrhusiopthiae |
+| Erysipelothrix endocarditis | Erysipelothrix rhusiopthiae |
 | Fusospirochetosis (severe infections of the oropharynx [Vincent’s], lower respiratory tract and genital area) | Fusobacterium species and spirochetes |
 | Listeria infections including meningitis and endocarditis | Listeria monocytogenes |
-| Pasteurella infections including bacteremia and meningitis | Pasteurellamultocida |
-| Haverhill fever | Streptobacillusmoniliformis |
-| Rat-bite fever | Spirillum minus or Streptobacillusmoniliformis |
+| Pasteurella infections including bacteremia and meningitis | Pasteurella multocida |
+| Haverhill fever | Streptobacillus moniliformis |
+| Rat-bite fever | Spirillum minus or Streptobacillus moniliformis |
 | Disseminated gonococcal infections | Neisseria gonorrhoeae (penicillin-susceptible) |
 | Syphilis (congenital and neurosyphilis) | Treponema pallidum |
 | Meningococcal meningitis and/or septicemia | Neisseria meningitidis |
-| Gram-negative bacillary infections (bacteremias) | Escherichia coli, Enterobacter aerogenes, Alcaligenesfaecalis, salmonella, shigella and Proteus mirabilis, Penicillin G is not the drug of choice in the treatment of gram-negative bacillary infections. |
+| Gram-negative bacillary infections (bacteremias) | Escherichia coli, Enterobacter aerogenes, Alcaligenes faecalis, salmonella, shigella and Proteus mirabilis, Penicillin G is not the drug of choice in the treatment of gram-negative bacillary infections. |
 
 To reduce the development of drug-resistant bacteria and maintain the effectiveness of Penicillin G Potassium and other antibacterial drugs, Penicillin G Potassium should be used only to treat or prevent infections that are proven or strongly suspected to be caused by susceptible bacteria.
 When culture and susceptibility information are available, they should be considered in selecting or modifying antibacterial therapy.

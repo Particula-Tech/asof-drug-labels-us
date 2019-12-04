@@ -53,7 +53,7 @@ See CDC recommendations.4
 ## Drug Interactions
 
 Bacteriostatic antibacterials (i.e., chloramphenicol, erythromycins, sulfonamides or tetracyclines) may antagonize the bactericidal effect of penicillin, and concurrent use of these drugs should be avoided.
-This has been documented in vitro,however, the clinical significance of this interaction is not well-documented.
+This has been documented in vitro, however, the clinical significance of this interaction is not well-documented.
 
 Penicillin blood levels may be prolonged by concurrent administration of probenecid which blocks the renal tubular secretion of penicillins.
 

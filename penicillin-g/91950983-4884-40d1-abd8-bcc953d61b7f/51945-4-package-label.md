@@ -1,6 +1,6 @@
 # 5 million unit Label
 
-NDC 0781-6135-95
+NDC 0781-6135-95 Rx Only
 
 Buffered Penicillin G
 
@@ -14,7 +14,7 @@ Injection, USP
 
 For IM or IV use
 
-10 Vials Rx only
+10 Vials
 
 SANDOZ
 
@@ -26,9 +26,9 @@ Buffered
 
 Penicillin G
 
-Potassium
+Potassium for
 
-for Injection, USP
+Injection, USP
 
 20,000,000 Units*
 
@@ -36,8 +36,8 @@ for Injection, USP
 
 For IV use
 
-Rx only
+Rx Only
 
 1 Vial
 
-SANDOZ
+SANDOZ – A Novartis Division
