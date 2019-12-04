@@ -25,16 +25,16 @@ The recommended dose is 100 mg/m2 administered intravenously over 30 minutes on 
 
 Dose Delays, Dose Modifications and Reinitiation of Therapy for CLL:
 
-TREANDA administration should be delayed in the event of Grade 4 hematologic toxicity or clinically significant ≥ Grade 2 non-hematologic toxicity.
-Once non-hematologic toxicity has recovered to ≤ Grade 1 and/or the blood counts have improved [Absolute Neutrophil Count (ANC) ≥ 1 x 109/L, platelets ≥ 75 x 109/L], TREANDA can be reinitiated at the discretion of the treating physician.
-In addition, dose reduction may be warranted.
+Delay TREANDA administration in the event of Grade 4 hematologic toxicity or clinically significant ≥ Grade 2 non-hematologic toxicity.
+Once non-hematologic toxicity has recovered to less than or equal to Grade 1 and/or the blood counts have improved [Absolute Neutrophil Count (ANC) ≥ 1 x 109/L, platelets ≥ 75 x 109/L], reinitiate TREANDA at the discretion of the treating physician.
+In addition, consider dose reduction.
 [see Warnings and Precautions (5.1)]
 
 Dose modifications for hematologic toxicity: for Grade 3 or greater toxicity, reduce the dose to 50 mg/m2 on Days 1 and 2 of each cycle; if Grade 3 or greater toxicity recurs, reduce the dose to 25 mg/m2 on Days 1 and 2 of each cycle.
 
 Dose modifications for non-hematologic toxicity: for clinically significant Grade 3 or greater toxicity, reduce the dose to 50 mg/m2 on Days 1 and 2 of each cycle.
 
-Dose re-escalation in subsequent cycles may be considered at the discretion of the treating physician.
+Consider dose re-escalation in subsequent cycles at the discretion of the treating physician.
 
 ## 2.3 Dosing Instructions for NHL
 
@@ -44,9 +44,9 @@ The recommended dose is 120 mg/m2 administered intravenously over 60 minutes on 
 
 Dose Delays, Dose Modifications and Reinitiation of Therapy for NHL:
 
-TREANDA administration should be delayed in the event of a Grade 4 hematologic toxicity or clinically significant ≥ Grade 2 non-hematologic toxicity.
-Once non-hematologic toxicity has recovered to ≤ Grade 1 and/or the blood counts have improved [Absolute Neutrophil Count (ANC) ≥ 1 x 109/L, platelets ≥ 75 x 109/L], TREANDA can be reinitiated at the discretion of the treating physician.
-In addition, dose reduction may be warranted.
+Delay TREANDA administration in the event of a Grade 4 hematologic toxicity or clinically significant greater than or equal to Grade 2 non-hematologic toxicity.
+Once non-hematologic toxicity has recovered to ≤ Grade 1 and/or the blood counts have improved [Absolute Neutrophil Count (ANC) ≥ 1 x 109/L, platelets ≥ 75 x 109/L], reinitiate TREANDA at the discretion of the treating physician.
+In addition, consider dose reduction.
 [see Warnings and Precautions (5.1)]
 
 Dose modifications for hematologic toxicity: for Grade 4 toxicity, reduce the dose to 90 mg/m2 on Days 1 and 2 of each cycle; if Grade 4 toxicity recurs, reduce the dose to 60 mg/m2 on Days 1 and 2 of each cycle.
@@ -85,7 +85,7 @@ TREANDA for Injection (25 mg/vial or 100 mg/vial lyophilized powder)
 
 If a closed system transfer device or adapter that contains polycarbonate or ABS is to be used as supplemental protection during preparation1, only use TREANDA for Injection, the lyophilized formulation.
 
-- Each vial of TREANDA for Injection is intended for single dose only.
+- Each vial of TREANDA for Injection is intended for single-dose only.
 - Aseptically reconstitute each TREANDA for Injection vial as follows:
   - 25 mg TREANDA for Injection vial: Add 5 mL of only Sterile Water for Injection, USP.
   - 100 mg TREANDA for Injection vial: Add 20 mL of only Sterile Water for Injection, USP.
@@ -103,8 +103,6 @@ If a closed system transfer device or adapter that contains polycarbonate or ABS
 Use Sterile Water for Injection, USP, for reconstitution and then either 0.9% Sodium Chloride Injection, USP, or 2.5% Dextrose/0.45% Sodium Chloride Injection, USP, for dilution, as outlined above.
 No other diluents have been shown to be compatible.
 
-General Information
-
 Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration whenever solution and container permit.
 Any unused solution should be discarded according to institutional procedures for antineoplastics.
 
@@ -115,10 +113,10 @@ The admixture should be prepared as close as possible to the time of patient adm
 
 TREANDA Injection (45 mg/0.5 mL or 180 mg/2 mL solution)
 
-Once diluted with either 0.9% Sodium Chloride Injection, USP, or 2.5% Dextrose/0.45% Sodium Chloride Injection, USP, the final admixture is stable for 24 hours when stored under refrigerated conditions at 2-8°C (36-46°F) or for 2 hours when stored at room temperature (15-30°C or 59-86°F) and room light.
+Once diluted with either 0.9% Sodium Chloride Injection, USP, or 2.5% Dextrose/0.45% Sodium Chloride Injection, USP, the final admixture is stable for 24 hours stored under refrigerated conditions at 2°-8°C (36°-46°F) or for 2 hours when stored at room temperature (15°-30°C or 59°-86°F) and room light.
 Administration of diluted TREANDA Injection must be completed within this period.
 
 TREANDA for Injection (25 mg/vial or 100 mg/vial lyophilized powder)
 
-Once diluted with either 0.9% Sodium Chloride Injection, USP, or 2.5% Dextrose/0.45% Sodium Chloride Injection, USP, the final admixture is stable for 24 hours when stored under refrigerated conditions at 2-8°C (36-46°F) or for 3 hours when stored at room temperature (15-30°C or 59-86°F) and room light.
+Once diluted with either 0.9% Sodium Chloride Injection, USP, or 2.5% Dextrose/0.45% Sodium Chloride Injection, USP, the final admixture is stable for 24 hours stored under refrigerated conditions at 2°-8°C (36°-46°F) or for 3 hours when stored at room temperature (15°-30°C or 59°-86°F) and room light.
 Administration of reconstituted and diluted TREANDA for Injection must be completed within this period.

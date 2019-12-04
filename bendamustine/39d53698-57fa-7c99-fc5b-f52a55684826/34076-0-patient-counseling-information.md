@@ -33,19 +33,26 @@ Rash
 Advise patients that a rash or itching may occur during treatment with TREANDA.
 Advise patients to immediately report severe or worsening rash or itching [see Warnings and Precautions (5.5)].
 
-Pregnancy and Nursing
+Embryo-Fetal Toxicity
 
-TREANDA can cause fetal harm.
-Women should be advised to avoid becoming pregnant throughout treatment and for 3 months after TREANDA therapy has stopped.
-Men receiving TREANDA should use reliable contraception for the same time period.
-Advise patients to report pregnancy immediately.
-Advise patients to avoid nursing while receiving TREANDA [see Use in Specific Populations (8.1)].
+Advise pregnant women and females of reproductive potential of the potential risk to a fetus.
+Advise females to inform their healthcare provider of a known or suspected pregnancy [see Warnings and Precautions (5.9), Use in Specific Populations (8.1, 8.3), and Nonclinical Toxicology (13.1)].
+Advise female patients of reproductive potential to use effective contraception during treatment with TREANDA and for at least 6 months after the final dose [see Use in Specific Populations (8.1, 8.3)].
+Advise males with female partners of reproductive potential to use effective contraception during treatment with TREANDA and for at least 3 months after the final dose [see Use in Specific Populations (8.3), and Nonclinical Toxicology (13.1)].
+
+Lactation
+
+Advise females not to breastfeed during treatment with TREANDA and for at least 1 week after the final dose [see Use in Specific Populations (8.2)].
+
+Infertility
+
+Advise males of reproductive potential that TREANDA may impair fertility [see Use in Specific Populations (8.3)].
 
 Distributed By: Teva Pharmaceuticals USA, Inc. North Wales, PA 19454 TREANDA is a trademark of Cephalon, Inc. or its affiliates.
 
-©2008-2017 Cephalon, Inc., a wholly-owned subsidiary of Teva Pharmaceutical Industries, Ltd. or its affiliates.
+©2008-2019 Cephalon, Inc., a wholly-owned subsidiary of Teva Pharmaceutical Industries, Ltd. or its affiliates.
 
 United States Patent Nos. 8436190, 8445524, 8609863, 8669279, 8791270, 8883836, 8895756, 9533955.
 All rights reserved.
 
-TRE-015
+TRE-016

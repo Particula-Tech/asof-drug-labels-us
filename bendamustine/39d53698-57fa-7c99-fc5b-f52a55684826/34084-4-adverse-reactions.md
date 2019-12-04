@@ -1,6 +1,6 @@
 # 6 ADVERSE REACTIONS
 
-The following serious adverse reactions have been associated with TREANDA in clinical trials and are discussed in greater detail in other sections of the label.
+The following clinically significant adverse reactions have been associated with TREANDA in clinical trials and are discussed in greater detail in other sections of the label.
 
 - Myelosuppression [see Warnings and Precautions (5.1)]
 - Infections [see Warnings and Precautions (5.2)]
@@ -17,16 +17,17 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 
 Chronic Lymphocytic Leukemia
 
-The data described below reflect exposure to TREANDA in 153 patients with CLL studied in an active-controlled, randomized trial.
-The population was 45-77 years of age, 63% male, 100% white, and were treatment naïve.
+The data described below reflect exposure to TREANDA in 153 patients.
+TREANDA was studied in an active-controlled, randomized trial.
+The population was 45-77 years of age, 63% male, 100% white, and had treatment naïve CLL.
 All patients started the study at a dose of 100 mg/m2 intravenously over 30 minutes on Days 1 and 2 every 28 days.
 
 Adverse reactions were reported according to NCI CTC v.2.0.
-Non-hematologic adverse reactions (any grade) in the TREANDA group that occurred with a frequency greater than 15% were pyrexia (24%), nausea (20%), and vomiting (16%).
+In the randomized CLL clinical study, non-hematologic adverse reactions (any grade) in the TREANDA group that occurred with a frequency greater than 15% were pyrexia (24%), nausea (20%), and vomiting (16%).
 
 Other adverse reactions seen frequently in one or more studies included asthenia, fatigue, malaise, and weakness; dry mouth; somnolence; cough; constipation; headache; mucosal inflammation and stomatitis.
 
-Worsening hypertension was reported in 4 patients treated with TREANDA in the CLL trial and in none treated with chlorambucil.
+Worsening hypertension was reported in 4 patients treated with TREANDA in the randomized CLL clinical study and in none treated with chlorambucil.
 Three of these 4 adverse reactions were described as a hypertensive crisis and were managed with oral medications and resolved.
 
 The most frequent adverse reactions leading to study withdrawal for patients receiving TREANDA were hypersensitivity (2%) and pyrexia (1%).
@@ -38,7 +39,7 @@ Table 1: Non- Hematologic Adverse Reactions Occurring in Randomized CLL Clinical
 |  | Number (%) of patients |  |  |  |
 | --- | --- | --- | --- | --- |
 |  | TREANDA (N=153) |  | Chlorambucil (N=143) |  |
-| System organ class Preferred term | All Grades | Grade 3/4 | All Grades | Grade 3/4 |
+| Body System/ Adverse Reaction | All Grades | Grade 3/4 | All Grades | Grade 3/4 |
 | Total number of patients with at least 1 adverse reaction | 121 (79) | 52 (34) | 96 (67) | 25 (17) |
 | Gastrointestinal disorders |  |  |  |  |
 | Nausea | 31 (20) | 1 (<1) | 21 (15) | 1 (<1) |
@@ -80,7 +81,7 @@ Table 2: Incidence of Hematology Laboratory Abnormalities in Patients Who Receiv
 | Lymphocytes Decreased | 102 (68) | 70 (47) | 27 (19) | 6 (4) |
 | Neutrophils Decreased | 113 (75) | 65 (43) | 86 (61) | 30 (21) |
 
-In the CLL trial, 34% of patients had bilirubin elevations, some without associated significant elevations in AST and ALT.
+In the randomized CLL trial, 34% of patients had bilirubin elevations, some without associated significant elevations in AST and ALT.
 Grade 3 or 4 increased bilirubin occurred in 3% of patients.
 Increases in AST and ALT of Grade 3 or 4 were limited to 1% and 3% of patients, respectively.
 Patients treated with TREANDA may also have changes in their creatinine levels.
@@ -97,11 +98,11 @@ The adverse reactions occurring in at least 5% of the NHL patients, regardless o
 The most common non-hematologic adverse reactions (≥30%) were nausea (75%), fatigue (57%), vomiting (40%), diarrhea (37%) and pyrexia (34%).
 The most common non-hematologic Grade 3 or 4 adverse reactions (≥5%) were fatigue (11%), febrile neutropenia (6%), and pneumonia, hypokalemia and dehydration, each reported in 5% of patients.
 
-Table 3: Non-Hematologic Adverse Reactions Occurring in at Least 5% of NHL Patients Treated with TREANDA by System Organ Class and Preferred Term (N=176)
+Table 3: Non-Hematologic Adverse Reactions Occurring in at Least 5% of NHL Patients Treated with TREANDA (N=176)
 
-| System organ class | Number (%) of patients* |  |
+| Body System/ Adverse | Number (%) of patients* |  |
 | --- | --- | --- |
-| Preferred term | All Grades | Grade 3/4 |
+| Reaction | All Grades | Grade 3/4 |
 | Total number of patients with at least 1 adverse reaction | 176 (100) | 94 (53) |
 | Cardiac disorders |  |  |
 | Tachycardia | 13 (7) | 0 |
@@ -170,7 +171,7 @@ Table 3: Non-Hematologic Adverse Reactions Occurring in at Least 5% of NHL Patie
 | Hyperhidrosis | 8 (5) | 0 |
 | Vascular disorders |  |  |
 | Hypotension | 10 (6) | 2 (1) |
-| *Patients may have reported more than 1 adverse reaction. NOTE: Patients counted only once in each preferred term category and once in each system organ class category. |  |  |
+| *Patients may have reported more than 1 adverse reaction. NOTE: Patients counted only once in each adverse reaction category and once in each body system category. |  |  |
 
 Hematologic toxicities, based on laboratory values and CTC grade, in NHL patients treated in both single arm studies combined are described in Table 4.
 Clinically important chemistry laboratory values that were new or worsened from baseline and occurred in >1% of patients at Grade 3 or 4, in NHL patients treated in both single arm studies combined were hyperglycemia (3%), elevated creatinine (2%), hyponatremia (2%), and hypocalcemia (2%).

@@ -5,7 +5,7 @@
 TREANDA caused severe myelosuppression (Grade 3-4) in 98% of patients in the two NHL studies (see Table 4).
 Three patients (2%) died from myelosuppression-related adverse reactions; one each from neutropenic sepsis, diffuse alveolar hemorrhage with Grade 3 thrombocytopenia, and pneumonia from an opportunistic infection (CMV).
 
-In the event of treatment-related myelosuppression, monitor leukocytes, platelets, hemoglobin (Hgb), and neutrophils frequently.
+Monitor complete blood counts, including leukocytes, platelets, hemoglobin (Hgb), and neutrophils frequently.
 In the clinical trials, blood counts were monitored every week initially.
 Hematologic nadirs were observed predominantly in the third week of therapy.
 Myelosuppression may require dose delays and/or subsequent dose reductions if recovery to the recommended values has not occurred by the first day of the next scheduled cycle.
@@ -60,14 +60,17 @@ Monitor liver chemistry tests prior to and during bendamustine therapy.
 ## 5.7 Other Malignancies
 
 There are reports of pre-malignant and malignant diseases that have developed in patients who have been treated with TREANDA, including myelodysplastic syndrome, myeloproliferative disorders, acute myeloid leukemia and bronchial carcinoma.
+The association with bendamustine hydrochloride therapy has not been determined.
 
 ## 5.8 Extravasation Injury
 
-TREANDA extravasations have been reported in post marketing resulting in hospitalizations from erythema, marked swelling, and pain.
+TREANDA extravasations have been reported in postmarketing resulting in hospitalizations from erythema, marked swelling, and pain.
 Assure good venous access prior to starting TREANDA infusion and monitor the intravenous infusion site for redness, swelling, pain, infection, and necrosis during and after administration of TREANDA.
 
-## 5.9 Embryo-fetal Toxicity
+## 5.9 Embryo-Fetal Toxicity
 
-TREANDA can cause fetal harm when administered to a pregnant woman.
-Single intraperitoneal doses of bendamustine in mice and rats administered during organogenesis caused an increase in resorptions, skeletal and visceral malformations, and decreased fetal body weights.
-[see Use in Specific Populations (8.1)]
+Based on findings from animal reproduction studies and the drug’s mechanism of action, TREANDA can cause fetal harm when administered to a pregnant woman.
+Single intraperitoneal doses of bendamustine (that approximated the maximum recommended human dose based on body surface area) to pregnant mice and rats during organogenesis caused adverse developmental outcomes, including an increase in resorptions, skeletal and visceral malformations, and decreased fetal body weights.
+Advise pregnant women of the potential risk to a fetus.
+Advise females of reproductive potential to use an effective method of contraception during treatment with TREANDA and for at least 6 months after the final dose.
+Advise males with female partners of reproductive potential to use effective contraception during treatment with TREANDA and for at least 3 months after the final dose [see Use in Specific Populations (8.1, 8.3) and Clinical Pharmacology (12.1)]
