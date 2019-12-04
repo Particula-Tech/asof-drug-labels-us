@@ -16,8 +16,6 @@ Symptomatic Gastroesophageal Reflux Disease
 
 Esomeprazole Magnesium Delayed-release Capsules is indicated for short-term treatment (4 to 8 weeks) of heartburn and other symptoms associated with GERD in adults and children 1 year or older.
 
-.
-
 ## 1.2 Risk Reduction of NSAID-Associated Gastric Ulcer
 
 Esomeprazole Magnesium Delayed-release Capsules is indicated for the reduction in the occurrence of gastric ulcers associated with continuous NSAID therapy in patients at risk for developing gastric ulcers.

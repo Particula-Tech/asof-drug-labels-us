@@ -4,8 +4,8 @@ Esomeprazole Magnesium (ES-oh-MEP-ra-zole mag-NEE-zee-um)
 
 Delayed-release Capsules, USP
 
-CIA77978B Rev.
-06/2018
+CIA77978C Rev.
+11/2019
 
 Read the Medication Guide that comes with Esomeprazole Magnesium Delayed-release Capsules before you start taking Esomeprazole Magnesium Delayed-release Capsules and each time you get a refill.
 There may be new information.
@@ -76,7 +76,7 @@ Before you take Esomeprazole Magnesium Delayed-release Capsules, tell your docto
 - are pregnant or plan to become pregnant.
   It is not known if Esomeprazole Magnesium Delayed-release Capsules can harm your unborn baby.
 - are breastfeeding or planning to breastfeed.
-  Esomeprazole Magnesium Delayed-release Capsules may pass into your breastmilk.
+  Esomeprazole Magnesium Delayed-release Capsules may pass into your breast milk.
   Talk to your doctor about the best way to feed your baby if you take Esomeprazole Magnesium Delayed-release Capsules.
 
 Tell your doctor about all of the medicines you take, including prescription and non-prescription drugs, vitamins and herbal supplements.
@@ -236,11 +236,11 @@ Esomeprazole Magnesium Delayed-release Capsules:
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Distributed by: Lannett Company, Inc. Philadelphia, PA 19154
+Distributed by: Lannett Company, Inc. Philadelphia, PA 19136
 
-CIA77978B
+CIA77978C
 
 Rev.
-06/2018
+11/2019
 
 All brand names are the trademarks of their respective owners.

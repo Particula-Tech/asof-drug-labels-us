@@ -28,15 +28,11 @@ Administration
 - For patients who are advised to open the Esomeprazole Magnesium Delayed-release Capsules before taking them, instruct them in the proper technique for administration [see Dosage and Administration (2)] and tell them to follow the dosing instructions in the PATIENT INFORMATION insert included in the package.
   Instruct patients to rinse the syringe with water after each use.
 
-Distributed by:
+Distributed by: Lannett Company, Inc. Philadelphia, PA 19136
 
-Lannett Company, Inc.
-
-Philadelphia, PA 19154
-
-CIA77977B
+CIA77977C
 
 Rev.
-06/2018
+11/2019
 
 All brand names are the trademarks of their respective owners.

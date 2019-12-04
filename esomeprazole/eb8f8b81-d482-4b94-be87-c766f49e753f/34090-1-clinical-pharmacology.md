@@ -147,7 +147,7 @@ See Table 6.
 
 Table 6: Summary of PK Parameters in 1 to 11 Year Olds with GERD following 5 Days of Once-Daily Oral Esomeprazole Treatment
 
-|  | 1 to 5 Year Olds | 6 to 11 Year Old |  |  |
+|  | 1 to 5 Year Olds | 6 to 11 Year Olds |  |  |
 | --- | --- | --- | --- | --- |
 | Parameter | 10 mg (N=8) | 10 mg (N=7) | 20 mg (N=6) |  |
 | AUC (μmol*h/L)1 | 4.83 | 3.70 | 6.28 |  |
