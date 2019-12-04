@@ -3,12 +3,12 @@
 ## 8.1 Pregnancy
 
 Risk Summary There are no adequate and well-controlled studies with esomeprazole in pregnant women.
-Esomeprazole is the S-isomer of omeprazole.
+Esomeprazole is the s-isomer of omeprazole.
 Available epidemiologic data fail to demonstrate an increased risk of major congenital malformations or other adverse pregnancy outcomes with first trimester omeprazole use.
 Reproduction studies in rats and rabbits resulted in dose-dependent embryo-lethality at omeprazole doses that were approximately 3.4 to 34 times an oral human dose of 40 mg (based on a body surface area for a 60 kg person).
 Teratogenicity was not observed in animal reproduction studies with administration of oral esomeprazole magnesium in rats and rabbits with doses about 68 times and 42 times, respectively, an oral human dose of 40 mg (based on a body surface area basis for a 60 kg person).
 Changes in bone morphology were observed in offspring of rats dosed through most of pregnancy and lactation at doses equal to or greater than approximately 34 times an oral human dose of 40 mg.
-When maternal administration was confined to gestation only, there were no effects on bone physeal morphology in the offspring at any age [see Data].
+When maternal administration was confined to gestation only, there were no effects on bone physeal morphology in the offspring at any age (see Data).
 The estimated background risks of major birth defects and miscarriage for the indicated population are unknown.
 All pregnancies have a background risk of birth defect, loss or other adverse outcomes.
 In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively.
@@ -48,23 +48,24 @@ The developmental and health benefits of breastfeeding should be considered alon
 
 ## 8.4 Pediatric Use
 
-The safety and effectiveness of esomeprazole sodium for injection have been established in pediatric patients 1 month to 17 years of age for short-term treatment of GERD with Erosive Esophagitis [see Clinical Pharmacology (12.3)].
-However, effectiveness has not been established in patients less than 1 month of age.
-1 month to 17 years of age Use of esomeprazole sodium for injection in pediatric patients 1 month to 17 years of age for short-term treatment of GERD with Erosive Esophagitis is supported by: a) results observed from a pharmacokinetic (PK) study on esomeprazole sodium for injection performed in pediatric patients, b) predictions from a population PK model comparing I.V.
-PK data between adult and pediatric patients, and c) relationship between exposure and pharmacodynamic results obtained from adult I.V. and pediatric oral data and d) PK results already included in the current approved labeling and from adequate and well-controlled studies that supported the approval of esomeprazole sodium for injection for adults.
-Neonates 0 to 1 month of age Following administration of esomeprazole sodium for injection in neonates the geometric mean (range) for CL was 0.17 L/h/kg (0.04 L/h/kg to 0.32 L/h/kg).
-The safety and effectiveness of esomeprazole sodium for injection in neonates have not been established.
+The safety and effectiveness of esomeprazole have been established in pediatric patients 1 month to 17 years of age for the short-term treatment of GERD with EE, as an alternative to oral therapy when oral esomeprazole is not possible or appropriate.
+Use of esomeprazole in this age group is based on extrapolation of adult efficacy to children and the selection of dose based on exposure-matching of pediatrics to adults supported by the following evidence: a) results observed from a pharmacokinetic (PK) study on esomeprazole for injection in pediatric patients, b) predictions from a population PK model comparing I.V.
+PK data between adult and pediatric patients, and c) relationship between exposure and pharmacodynamic results obtained from adult I.V. and pediatric oral data and d) PK results from adequate and well-controlled studies that supported the approval of esomeprazole in adults [see Adverse Reactions (6.1), Clinical Pharmacology (12.3), Clinical Studies (14.1)].
+The safety and effectiveness of esomeprazole have not been established in patients less than 1 month of age for the treatment of GERD with EE or for risk reduction of rebleeding of gastric or duodenal ulcer following therapeutic endoscopy.
 Juvenile Animal Data In a juvenile rat toxicity study, esomeprazole was administered with both magnesium and strontium salts at oral doses about 34 to 68 times a daily human dose of 40 mg based on body surface area.
 Increases in death were seen at the high dose, and at all doses of esomeprazole, there were decreases in body weight, body weight gain, femur weight and femur length, and decreases in overall growth [see Nonclinical Toxicology (13.2)].
 
 ## 8.5 Geriatric Use
 
-Of the total number of patients who received oral esomeprazole in clinical trials, 1,459 were 65 to 74 years of age and 354 patients were ≥ 75 years of age.
-No overall differences in safety and efficacy were observed between the elderly and younger individuals, and other reported clinical experience has not identified differences in responses between the elderly and younger patients, but greater sensitivity of some older individuals cannot be ruled out.
+In a clinical trial of patients with bleeding gastric or duodenal ulcers, 52% of 375 patients randomized to esomeprazole were 65 years of age and over.
+No overall differences in safety and efficacy were observed between the elderly and younger individuals, and other reported clinical experience with esomeprazole and oral esomeprazole has not identified differences in responses between the elderly and younger patients, but greater sensitivity of some older individuals cannot be ruled out.
 
 ## 8.6 Hepatic Impairment
 
-For adult patients with GERD, no dosage adjustment is necessary in patients with mild to moderate hepatic insufficiency (Child-Pugh Classes A and B). For patients with severe hepatic insufficiency (Child-Pugh Class C) a dose of 20 mg once daily should not be exceeded [see Dosage and Administration (2), Clinical Pharmacology (12.3)].
-For adult patients with bleeding gastric or duodenal ulcers and liver impairment, no dosage adjustment of the initial esomeprazole 80 mg infusion is necessary.
-For adult patients with mild to moderate liver impairment (Child-Pugh Classes A and B), a maximum continuous infusion of esomeprazole 6 mg/h should not be exceeded.
-For adult patients with severe liver impairment (Child-Pugh Class C), a maximum continuous infusion of 4 mg/h should not be exceeded [see Dosage and Administration (2.2), Clinical Pharmacology (12.3)].
+GERD with EE Exposure to esomeprazole was increased substantially in patients with severe hepatic impairment (Child-Pugh Class C) but not in patients with mild to moderate hepatic impairment (Child-Pugh Classes A and B) compared to patients with normal liver function [see Clinical Pharmacology (12.3)].
+For adult patients, no dosage adjustment is necessary for mild to moderate hepatic impairment.
+For patients with severe hepatic impairment the maximum recommended dosage is 20 mg once daily [see Dosage and Administration (2.3)].
+Risk Reduction of Rebleeding of Gastric or Duodenal Ulcers following Therapeutic Endoscopy There are no pharmacokinetic data available for esomeprazole administered as continuous intravenous administration in patients with hepatic impairment.
+Exposure to intravenous omeprazole, of which esomeprazole is an enantiomer, increased in patients with all degrees of hepatic impairment compared to subjects with normal liver function [see Clinical Pharmacology (12.3)].
+For adult patients, no dosage adjustment of the initial esomeprazole 80 mg loading dose is necessary for patients with any degree of hepatic impairment.
+Reduce the rate of the continuous infusion to 6 mg/hour for patients with mild to moderate liver impairment (Child-Pugh Classes A and B) and to 4 mg/hour for patients with severe hepatic impairment (Child-Pugh Class C) [see Dosage and Administration (2.3)].

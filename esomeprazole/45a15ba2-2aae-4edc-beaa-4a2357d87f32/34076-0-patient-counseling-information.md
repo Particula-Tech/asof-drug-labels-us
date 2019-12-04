@@ -9,16 +9,16 @@ Adverse Reactions Advise patients to report to their healthcare provider if they
 - Cutaneous and Systemic Lupus Erythematosus [see Warnings and Precaution (5.5)]
 - Hypomagnesemia [see Warnings and Precautions (5.7)]
 
-Drug Interactions
+Drug Interactions Advise patients to report to their healthcare provider before they start treatment with any of the following:
 
-- Advise patients to let their healthcare provider know if they are taking, or begin taking other medications, because esomeprazole can interfere with antiretroviral drugs and drugs that are affected by gastric pH changes [see Drug Interactions (7)].
+- Rilpivirine-containing products [see Contraindications (4)]
+- Clopidogrel [see Warnings and Precautions (5.6)]
+- St. John’s Wort or rifampin [see Warnings and Precautions (5.8)]
+- High-dose methotrexate [see Warnings and Precautions (5.10)]
 
 Administration
 
-- Let patients know that antacids may be used while taking esomeprazole.
-- Advise patients to immediately report and seek care for diarrhea that does not improve.
-  This may be a sign of Clostridium difficile-associated diarrhea [see Warnings and Precautions (5.3)].
-- Advise patients to immediately report and seek care for any cardiovascular or neurological symptoms including palpitations, dizziness, seizures, and tetany as these may be signs of hypomagnesemia [see Warnings and Precautions (5.7)].
+- Inform patients that antacids may be used while taking esomeprazole.
 
 Distributed by: AuroMedics Pharma LLC 279 Princeton-Hightstown Rd.
 E. Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad – 500038 India

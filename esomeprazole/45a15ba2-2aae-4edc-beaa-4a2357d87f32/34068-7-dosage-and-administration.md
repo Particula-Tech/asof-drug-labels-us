@@ -1,13 +1,67 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-General Information
+## 2.1 Dosage for GERD with EE
 
-Esomeprazole sodium for injection should not be administered concomitantly with any other medications through the same intravenous site and/or tubing.
-The intravenous line should always be flushed with either 0.9% Sodium Chloride Injection, USP, Lactated Ringer’s Injection, USP or 5% Dextrose Injection, USP both prior to and after administration of esomeprazole sodium for injection.
-The admixture should be stored at room temperature up to 30°C (86°F) and should be administered within the designated time period as listed in Table 1 below.
-No refrigeration is required.
+Adult Patients
 
-Table 1: Storage Time for Final (diluted) Product
+The recommended adult dosage is either 20 mg or 40 mg esomeprazole sodium for injection given once daily by intravenous injection (over at least 3 minutes) or intravenous infusion (10 minutes to 30 minutes) for up to 10 days [see Dosage and Administration (2.4)].
+
+Pediatric Patients
+
+The recommended dosage for pediatric patients is based on age and body weight as shown in Table 1 below.
+Administer as an intravenous infusion over 10 to 30 minutes once daily for up to 10 days [see Dosage and Administration (2.4)].
+
+Table 1: Recommended Pediatric Dosage Regimen for GERD with EE
+
+| Age and Body Weight |  | Dosage Regimen |
+| --- | --- | --- |
+| 1 month to less than 1 year of age |  | 0.5 mg/kg once daily |
+| 1 year to 17 years | less than 55 kg | 10 mg once daily |
+| 55 kg or greater | 20 mg once daily |  |
+
+Completion of Treatment
+
+- The safety and effectiveness of esomeprazole sodium for injection for more than 10 days have not been demonstrated.
+- As soon as oral therapy is possible or appropriate, discontinue intravenous therapy with esomeprazole sodium for injection and continue with oral esomeprazole therapy.
+
+## 2.2 Dosage for Risk Reduction of Rebleeding of Gastric or Duodenal Ulcers following Therapeutic Endoscopy in Adults
+
+The recommended adult dosage is 80 mg esomeprazole sodium for injection administered as an intravenous infusion over 30 minutes followed by a continuous infusion of 8 mg/hour for a total treatment duration of 72 hours (i.e., includes initial 30-minute loading dose plus 71.5 hours of continuous infusion) [see Dosage and Administration (2.5)].
+Intravenous therapy is aimed solely at the acute initial management of bleeding gastric or duodenal ulcers and does not constitute full treatment.
+Administer oral acid-suppressive therapy following intravenous therapy for a full course of treatment.
+
+## 2.3 Dosage Adjustment for Hepatic Impairment
+
+GERD with EE For patients with severe hepatic impairment (Child-Pugh Class C), the maximum dosage is 20 mg once daily [see Use in Specific Populations (8.6)].
+Risk Reduction of Rebleeding of Gastric or Duodenal Ulcers following Therapeutic Endoscopy in Adults For patients with mild to moderate hepatic impairment (Child-Pugh Classes A and B, respectively), administered 80 mg as an intravenous infusion over 30 minutes, followed by a continuous infusion of 6 mg/hour for 71.5 hours.
+For patients with severe hepatic impairment (Child-Pugh Class C), administered 80 mg as an intravenous infusion over 30 minutes, followed by a continuous infusion of 4 mg/hour for 71.5 hours [see Use in Specific Populations (8.6)].
+
+## 2.4 Preparation and Administration Instructions for GERD with EE
+
+Do not administer esomeprazole sodium for injection concomitantly with any other medications through the same intravenous site and/or tubing.
+Oral antacids may be used during treatment with esomeprazole sodium for injection.
+Intravenous Injection Over At Least 3 Minutes in Adult Patients
+
+1. Reconstitute esomeprazole sodium for injection with 5 mL of 0.9% Sodium Chloride Injection, USP.
+2. Withdraw the desired dose of the reconstituted esomeprazole sodium for injection solution for a 20 mg or 40 mg dose.
+3. Discard any unused portion of esomeprazole sodium for injection solution remaining in the vial.
+4. Inspect the reconstituted esomeprazole sodium for injection solution visually for particulate matter and discoloration prior to and during administration.
+5. Administer as an intravenous injection over no less than 3 minutes.
+6. Flush the intravenous line with either 0.9% Sodium Chloride Injection, USP, Lactated Ringer’s Injection, USP or 5% Dextrose Injection, USP both prior to and after administration of esomeprazole sodium for injection.
+
+Intravenous Infusion Over 10 Minutes to 30 Minutes in Adult and Pediatric Patients
+
+1. Reconstitute the contents of one vial of esomeprazole sodium for injection with 5 mL of 0.9% Sodium Chloride Injection, USP, Lactated Ringer’s Injection, USP or 5% Dextrose Injection, USP.
+2. Further dilute the resulting solution with 45 mL of 0.9% Sodium Chloride Injection, USP, Lactated Ringer’s Injection, USP or 5% Dextrose Injection, USP to a final concentration of 0.8 mg/mL.
+3. Withdraw the desired dose of the reconstituted esomeprazole sodium for injection solution for an adult or pediatric dose.
+4. Discard any unused portion of esomeprazole sodium for injection solution remaining in the vial.
+5. Inspect the reconstituted esomeprazole sodium for injection solution visually for particulate matter and discoloration prior to and during administration.
+6. Administer intravenously over 10 minutes to 30 minutes.
+7. Flush the intravenous line with either 0.9% Sodium Chloride Injection, USP, Lactated Ringer’s Injection, USP or 5% Dextrose Injection, USP both prior to and after administration of esomeprazole sodium for injection.
+
+Storage Store the final (diluted) esomeprazole sodium for injection solution at room temperature up to 30°C (86°F) and administer within the designated time period as listed in Table 2 below.
+
+Table 2: Storage Time for Final (diluted) Esomeprazole Sodium for Injection Solution
 
 | Diluent | Administer within: |
 | --- | --- |
@@ -15,50 +69,26 @@ Table 1: Storage Time for Final (diluted) Product
 | Lactated Ringer’s Injection, USP | 12 hours |
 | 5% Dextrose Injection, USP | 6 hours |
 
-Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration, whenever solution and container permit.
-As soon as oral therapy is possible or appropriate, intravenous therapy with esomeprazole sodium for injection should be discontinued and the therapy should be continued orally.
+## 2.5 Preparation and Administration Instructions for Risk Reduction of Rebleeding of Gastric or Duodenal Ulcers in Adults
 
-## 2.1 GERD with Erosive Esophagitis
+Do not administer esomeprazole sodium for injection concomitantly with any other medications through the same intravenous site and/or tubing.
+Oral antacids may be used during treatment with esomeprazole sodium for injection.
+Loading Dose (80 mg)
 
-Adult Patients
+1. Reconstitute each of two 40 mg vials of esomeprazole sodium for injection with 5 mL of 0.9% Sodium Chloride Injection, USP.
+2. Further dilute the resulting solution in 100 mL 0.9% Sodium Chloride Injection, USP.
+3. Inspect the reconstituted esomeprazole sodium for injection solution visually for particulate matter and discoloration prior to and during administration.
+4. Administer intravenously over 30 minutes.
+5. Flush the intravenous line with either 0.9% Sodium Chloride Injection, USP, Lactated Ringer’s Injection, USP or 5% Dextrose Injection, USP both prior to and after administration of esomeprazole sodium for injection.
 
-The recommended adult dose is either 20 mg or 40 mg esomeprazole given once daily by intravenous injection (no less than 3 minutes) or intravenous infusion (10 minutes to 30 minutes).
-Safety and efficacy of esomeprazole sodium for injection as a treatment of GERD patients with erosive esophagitis for more than 10 days have not been demonstrated.
+Continuous Infusion
 
-Dosage adjustment is not required in patients with mild to moderate liver impairment (Child-Pugh Classes A and B). For patients with severe liver impairment (Child-Pugh Class C), a maximum dose of 20 mg once daily of esomeprazole should not be exceeded [see Use in Specific Populations (8.6), Clinical Pharmacology (12.3)].
-Pediatric Patients
+1. Reconstitute each of two 40 mg vials of esomeprazole sodium for injection with 5 mL of 0.9% Sodium Chloride Injection, USP.
+2. Further dilute the reconstituted esomeprazole sodium for injection solution in 100 mL 0.9% Sodium Chloride Injection, USP.
+3. Inspect the reconstituted esomeprazole sodium for injection solution visually for particulate matter and discoloration prior to and during administration.
+4. Administer intravenously as a continuous infusion at a rate of 8 mg/hour for 71.5 hours.
+5. Flush the intravenous line with either 0.9% Sodium Chloride Injection, USP, Lactated Ringer’s Injection, USP or 5% Dextrose Injection, USP both prior to and after administration of esomeprazole sodium for injection.
 
-The recommended doses for children ages 1 month to 17 years, inclusive, are provided below.
-Dose should be infused over 10 minutes to 30 minutes.
+Storage
 
-1 year to 17 years: Body weight less than 55 kg: 10 mg Body weight 55 kg or greater: 20 mg 1 month to less than 1 year of age: 0.5 mg/kg
-
-## 2.2 Risk Reduction of Rebleeding of Gastric or Duodenal Ulcers following Therapeutic Endoscopy in Adults
-
-Adult dose is 80 mg administered as an intravenous infusion over 30 minutes followed by a continuous infusion of 8 mg/h for a total treatment duration of 72 hours (i.e., includes initial 30-minute dose plus 71.5 hours of continuous infusion).
-Intravenous therapy is aimed solely at the acute initial management of bleeding gastric or duodenal ulcers and does not constitute full treatment.
-Intravenous therapy should be followed by oral acid-suppressive therapy.
-For patients with liver impairment, no dosage adjustment of the initial esomeprazole 80 mg infusion is necessary.
-For patients with mild to moderate liver impairment (Child-Pugh Classes A and B), a maximum continuous infusion of esomeprazole 6 mg/h should not be exceeded.
-For patients with severe liver impairment (Child-Pugh Class C), a maximum continuous infusion of 4 mg/h should not be exceeded [see Use in Specific Populations (8.6), Clinical Pharmacology (12.3)].
-
-## 2.3 Preparation and Administration Instructions
-
-General Information The reconstituted solution of esomeprazole sodium for injection should be stored at room temperature up to 30°C (86°F) and administered within 12 hours after reconstitution.
-(Administer within 6 hours if 5% Dextrose Injection is used after reconstitution).
-No refrigeration is required [see Dosage and Administration (2), Table 1].
-Gastroesophageal Reflux Disease (GERD) with Erosive Esophagitis Preparation Instructions for Adult Patients Intravenous Injection (20 mg or 40 mg vial) over no less than 3 minutes
-
-The freeze-dried powder should be reconstituted with 5 mL of 0.9% Sodium Chloride Injection, USP.
-Withdraw 5 mL of the reconstituted solution and administer as an intravenous injection over no less than 3 minutes.
-Preparation Instructions for Pediatric Patients Intravenous Infusion (20 mg or 40 mg) over 10 minutes to 30 minutes A solution for intravenous infusion is prepared by first reconstituting the contents of one vial* with 5 mL of 0.9% Sodium Chloride Injection, USP, Lactated Ringer’s Injection, USP or 5% Dextrose Injection, USP and further diluting the resulting solution to a final volume of 50 mL.
-The resultant concentration after diluting to a final volume of 50 mL is 0.8 mg/mL (for 40 mg vial) and 0.4 mg/mL (for 20 mg vial).
-The solution (admixture) should be administered as an intravenous infusion over a period of 10 minutes to 30 minutes. * For patients 1 month to less than 1 year of age, first calculate the dose (0.5 mg/kg) to determine the vial size needed.
-Risk Reduction of Rebleeding of Gastric or Duodenal Ulcers in Adults Preparation Instructions for Loading dose (80 mg) to be given over 30 minutes The loading dose of 80 mg is prepared by reconstituting two 40 mg vials.
-Reconstitute each 40 mg vial with 5 mL of 0.9% Sodium Chloride Injection, USP.
-The contents of the two vials should be further diluted in 100 mL 0.9% Sodium Chloride Injection, USP for intravenous use.
-Administer over 30 minutes.
-Preparation Instructions for Continuous Infusion to be given at 8 mg/hour for 71.5 hours The continuous infusion is prepared by using two 40 mg vials.
-Reconstitute each 40 mg vial with 5 mL each of 0.9% Sodium Chloride Injection, USP.
-The contents of the two vials should be further diluted in 100 mL 0.9% Sodium Chloride Injection, USP for intravenous use.
-Administer at a rate of 8 mg/hour for 71.5 hours.
+- Store the final (diluted) esomeprazole sodium for injection solution at room temperature up to 30°C (86°F) and administer within 12 hours.
