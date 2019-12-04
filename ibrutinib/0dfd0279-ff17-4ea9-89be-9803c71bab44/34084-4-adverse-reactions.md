@@ -148,7 +148,7 @@ RESONATE
 
 Adverse reactions and laboratory abnormalities described below in Tables 5 and 6 reflect exposure to IMBRUVICA with a median duration of 8.6 months and exposure to ofatumumab with a median of 5.3 months in RESONATE in patients with previously treated CLL/SLL.
 
-Table 5: Adverse Reactions Reported in ≥ 10% of Patients and at Least 2% Greater in the IMBRUVICA Treated Arm in Patients with CLL/SLL in RESONATE
+Table 5: Adverse Reactions Reported in ≥ 10% of Patients in the IMBRUVICA Treated Arm in Patients with CLL/SLL in RESONATE
 
 | All Grades (%) | Grade 3 or Higher (%) | All Grades (%) | Grade 3 or Higher (%) |  |
 | --- | --- | --- | --- | --- |
@@ -173,6 +173,10 @@ Table 5: Adverse Reactions Reported in ≥ 10% of Patients and at Least 2% Great
 | Musculoskeletal and connective tissue disorders |  |  |  |  |
 | Musculoskeletal pain | 28 | 2 | 18 | 1 |
 | Arthralgia | 17 | 1 | 7 | 0 |
+| Muscle spasms | 13 | 0 | 8 | 0 |
+| Respiratory, thoracic and mediastinal disorders |  |  |  |  |
+| Cough | 19 | 0 | 23 | 1 |
+| Dyspnea | 12 | 2 | 10 | 1 |
 | Nervous system disorders |  |  |  |  |
 | Headache | 14 | 1 | 6 | 0 |
 | Dizziness | 11 | 0 | 5 | 0 |
@@ -180,7 +184,7 @@ Table 5: Adverse Reactions Reported in ≥ 10% of Patients and at Least 2% Great
 | Contusion | 11 | 0 | 3 | 0 |
 | Eye disorders |  |  |  |  |
 | Vision blurred | 10 | 0 | 3 | 0 |
-| Subjects with multiple events for a given adverse reaction (ADR) term are counted once only for each ADR term. The body system and individual ADR terms are sorted in descending frequency order in the IMBRUVICA arm. |  |  |  |  |
+| The body system and individual ADR terms are sorted in descending frequency order in the IMBRUVICA arm. |  |  |  |  |
 
 Table 6: Treatment-Emergent Hematologic Laboratory Abnormalities in Patients with CLL/SLL in RESONATE
 
@@ -194,17 +198,22 @@ Table 6: Treatment-Emergent Hematologic Laboratory Abnormalities in Patients wit
 
 RESONATE-2
 
-Adverse reactions described below in Table 7 reflect exposure to IMBRUVICA with a median duration of 17.4 months.
+Adverse reactions and laboratory abnormalities described below in Tables 7 and 8 reflect exposure to IMBRUVICA with a median duration of 17.4 months.
 The median exposure to chlorambucil was 7.1 months in RESONATE-2.
 
-Table 7: Adverse Reactions Reported in ≥ 10% of Patients and at Least 2% Greater in the IMBRUVICA Treated Arm in Patients with CLL/SLL in RESONATE-2
+Table 7: Adverse Reactions Reported in ≥ 10% of Patients in the IMBRUVICA Treated Arm in Patients with CLL/SLL in RESONATE-2
 
 | All Grades (%) | Grade 3 or Higher (%) | All Grades (%) | Grade 3 or Higher (%) |  |
 | --- | --- | --- | --- | --- |
 | Body System Adverse Reaction | IMBRUVICA (N=135) |  | Chlorambucil (N=132) |  |
 | Gastrointestinal disorders |  |  |  |  |
 | Diarrhea | 42 | 4 | 17 | 0 |
+| Nausea | 22 | 1 | 39 | 1 |
+| Constipation | 16 | 1 | 16 | 0 |
 | StomatitisIncludes multiple ADR terms | 14 | 1 | 4 | 1 |
+| Vomiting | 13 | 0 | 20 | 1 |
+| Abdominal pain | 13 | 3 | 11 | 1 |
+| Dyspepsia | 11 | 0 | 2 | 0 |
 | Musculoskeletal and connective tissue disorders |  |  |  |  |
 | Musculoskeletal pain | 36 | 4 | 20 | 0 |
 | Arthralgia | 16 | 1 | 7 | 1 |
@@ -218,25 +227,41 @@ Table 7: Adverse Reactions Reported in ≥ 10% of Patients and at Least 2% Great
 | Rash | 21 | 4 | 12 | 2 |
 | Bruising | 19 | 0 | 7 | 0 |
 | Infections and infestations |  |  |  |  |
+| Upper respiratory tract infection | 17 | 2 | 17 | 2 |
 | Skin infection | 15 | 2 | 3 | 1 |
 | Pneumonia | 14 | 8 | 7 | 4 |
 | Urinary tract infections | 10 | 1 | 8 | 1 |
 | Respiratory, thoracic and mediastinal disorders |  |  |  |  |
 | Cough | 22 | 0 | 15 | 0 |
+| Dyspnea | 10 | 1 | 10 | 0 |
 | General disorders and administration site conditions |  |  |  |  |
+| Fatigue | 30 | 1 | 38 | 5 |
 | Peripheral edema | 19 | 1 | 9 | 0 |
 | Pyrexia | 17 | 0 | 14 | 2 |
 | Vascular disorders |  |  |  |  |
 | Hypertension | 14 | 4 | 1 | 0 |
 | Nervous system disorders |  |  |  |  |
 | Headache | 12 | 1 | 10 | 2 |
+| Dizziness | 11 | 0 | 12 | 1 |
+| Investigations |  |  |  |  |
+| Weight decreased | 10 | 0 | 12 | 0 |
 | Subjects with multiple events for a given ADR term are counted once only for each ADR term. The body system and individual ADR terms are sorted in descending frequency order in the IMBRUVICA arm. |  |  |  |  |
+
+Table 8: Treatment-Emergent Hematologic Laboratory Abnormalities in Patients with CLL/SLL in RESONATE-2
+
+| All Grades (%) | Grade 3 or 4 (%) | All Grades (%) | Grade 3 or 4 (%) |  |
+| --- | --- | --- | --- | --- |
+|  | IMBRUVICA (N=135) |  | Chlorambucil (N=132) |  |
+| Neutrophils Decreased | 55 | 28 | 67 | 31 |
+| Platelets Decreased | 47 | 7 | 58 | 14 |
+| Hemoglobin Decreased | 36 | 0 | 39 | 2 |
+| Treatment-emergent Grade 4 thrombocytopenia (1% in the IMBRUVICA arm vs 3% in the chlorambucil arm) and neutropenia (11% in the IMBRUVICA arm vs 12% in the chlorambucil arm) occurred in patients. |  |  |  |  |
 
 HELIOS
 
-Adverse reactions described below in Table 8 reflect exposure to IMBRUVICA + BR with a median duration of 14.7 months and exposure to placebo + BR with a median of 12.8 months in HELIOS in patients with previously treated CLL/SLL.
+Adverse reactions described below in Table 9 reflect exposure to IMBRUVICA + BR with a median duration of 14.7 months and exposure to placebo + BR with a median of 12.8 months in HELIOS in patients with previously treated CLL/SLL.
 
-Table 8: Adverse Reactions Reported in at Least 10% of Patients and at Least 2% Greater in the IMBRUVICA Arm in Patients with CLL/SLL in HELIOS
+Table 9: Adverse Reactions Reported in at Least 10% of Patients and at Least 2% Greater in the IMBRUVICA Arm in Patients with CLL/SLL in HELIOS
 
 | All Grades (%) | Grade 3 or Higher (%) | All Grades (%) | Grade 3 or Higher (%) |  |
 | --- | --- | --- | --- | --- |
@@ -270,13 +295,13 @@ The frequency of Grade 3 and 4 atrial fibrillation was 3% in patients treated wi
 
 iLLUMINATE
 
-Adverse reactions described below in Table 9 reflect exposure to IMBRUVICA + obinutuzumab with a median duration of 29.3 months and exposure to chlorambucil + obinutuzumab with a median of 5.1 months in iLLUMINATE in patients with previously untreated CLL/SLL.
+Adverse reactions described below in Table 10 reflect exposure to IMBRUVICA + obinutuzumab with a median duration of 29.3 months and exposure to chlorambucil + obinutuzumab with a median of 5.1 months in iLLUMINATE in patients with previously untreated CLL/SLL.
 
-Table 9: Adverse Reactions Reported in at Least 10% of Patients in the IMBRUVICA Arm in Patients with CLL/SLL in iLLUMINATE
+Table 10: Adverse Reactions Reported in at Least 10% of Patients in the IMBRUVICA Arm in Patients with CLL/SLL in iLLUMINATE
 
 | All Grades (%) | Grade 3 or Higher (%) | All Grades (%) | Grade 3 or Higher (%) |  |
 | --- | --- | --- | --- | --- |
-| Body System Adverse ReactionThe data are not an adequate basis for comparison of ADR rates between treatment arms. | IMBRUVICA + Obinutuzumab (N=113) |  | Chlorambucil + Obinutuzumab (N=115) |  |
+| Body System Adverse Reaction | IMBRUVICA + Obinutuzumab (N=113) |  | Chlorambucil + Obinutuzumab (N=115) |  |
 | Blood and lymphatic system disorders |  |  |  |  |
 | NeutropeniaIncludes multiple ADR terms | 48 | 39 | 64 | 48 |
 | Thrombocytopenia | 36 | 19 | 28 | 11 |
@@ -334,9 +359,9 @@ Adverse reactions leading to dose reduction occurred in 13% of patients.
 
 Study 1118 and INNOVATE Monotherapy Arm
 
-Adverse reactions and laboratory abnormalities described below in Tables 10 and 11 reflect exposure to IMBRUVICA with a median duration of 11.7 months in Study 1118 and 33 months in the INNOVATE Monotherapy Arm.
+Adverse reactions and laboratory abnormalities described below in Tables 11 and 12 reflect exposure to IMBRUVICA with a median duration of 11.7 months in Study 1118 and 33 months in the INNOVATE Monotherapy Arm.
 
-Table 10: Non-Hematologic Adverse Reactions in ≥ 10% in Patients with WM in Study 1118 and the INNOVATE Monotherapy Arm (N=94)
+Table 11: Non-Hematologic Adverse Reactions in ≥ 10% in Patients with WM in Study 1118 and the INNOVATE Monotherapy Arm (N=94)
 
 | Body System | Adverse Reaction | All Grades (%) | Grade 3 or Higher (%) |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -362,7 +387,7 @@ Table 10: Non-Hematologic Adverse Reactions in ≥ 10% in Patients with WM in St
 | Respiratory, thoracic and mediastinal disorders | Cough | 13 | 0 |  |  |
 | The body system and individual ADR preferred terms are sorted in descending frequency order. |  |  |  |  |  |
 
-Table 11: Treatment-Emergent Hematologic Laboratory Abnormalities in Patients with WM in Study 1118 and the INNOVATE Monotherapy Arm (N=94)
+Table 12: Treatment-Emergent Hematologic Laboratory Abnormalities in Patients with WM in Study 1118 and the INNOVATE Monotherapy Arm (N=94)
 
 |  | All Grades (%) | Grade 3 or 4 (%) |
 | --- | --- | --- |
@@ -374,9 +399,9 @@ Table 11: Treatment-Emergent Hematologic Laboratory Abnormalities in Patients wi
 
 INNOVATE
 
-Adverse reactions described below in Table 12 reflect exposure to IMBRUVICA + R with a median duration of 25.8 months and exposure to placebo + R with a median duration of 15.5 months in patients with treatment naïve or previously treated WM in INNOVATE.
+Adverse reactions described below in Table 13 reflect exposure to IMBRUVICA + R with a median duration of 25.8 months and exposure to placebo + R with a median duration of 15.5 months in patients with treatment naïve or previously treated WM in INNOVATE.
 
-Table 12: Adverse Reactions Reported in at Least 10% of Patients and at Least 2% Greater in the IMBRUVICA Arm in Patients with WM in INNOVATE
+Table 13: Adverse Reactions Reported in at Least 10% of Patients and at Least 2% Greater in the IMBRUVICA Arm in Patients with WM in INNOVATE
 
 | All Grades (%) | Grade 3 or Higher (%) | All Grades (%) | Grade 3 or Higher (%) |  |
 | --- | --- | --- | --- | --- |
@@ -423,9 +448,9 @@ Grade 3 or 4 infusion related reactions were observed in 1% of patients treated 
 
 Study 1121
 
-Adverse reactions and laboratory abnormalities described below in Tables 13 and 14 reflect exposure to IMBRUVICA with a median duration of 11.6 months in Study 1121.
+Adverse reactions and laboratory abnormalities described below in Tables 14 and 15 reflect exposure to IMBRUVICA with a median duration of 11.6 months in Study 1121.
 
-Table 13: Non-Hematologic Adverse Reactions in ≥ 10% in Patients with MZL in Study 1121 (N=63)
+Table 14: Non-Hematologic Adverse Reactions in ≥ 10% in Patients with MZL in Study 1121 (N=63)
 
 | Body System | Adverse Reaction | All Grades (%) | Grade 3 or Higher (%) |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -463,7 +488,7 @@ Table 13: Non-Hematologic Adverse Reactions in ≥ 10% in Patients with MZL in S
 | Psychiatric disorders | Anxiety | 16 | 2 |  |  |
 | The body system and individual ADR preferred terms are sorted in descending frequency order. |  |  |  |  |  |
 
-Table 14: Treatment-Emergent Hematologic Laboratory Abnormalities in Patients with MZL in Study 1121 (N=63)
+Table 15: Treatment-Emergent Hematologic Laboratory Abnormalities in Patients with MZL in Study 1121 (N=63)
 
 |  | All Grades (%) | Grade 3 or 4 (%) |
 | --- | --- | --- |
@@ -484,9 +509,9 @@ Twenty-four percent of patients receiving IMBRUVICA in the cGVHD trial discontin
 The most common adverse reactions leading to discontinuation were fatigue and pneumonia.
 Adverse reactions leading to dose reduction occurred in 26% of patients.
 
-Adverse reactions and laboratory abnormalities described below in Tables 15 and 16 reflect exposure to IMBRUVICA with a median duration of 4.4 months in the cGVHD trial.
+Adverse reactions and laboratory abnormalities described below in Tables 16 and 17 reflect exposure to IMBRUVICA with a median duration of 4.4 months in the cGVHD trial.
 
-Table 15: Non-Hematologic Adverse Reactions in ≥ 10% of Patients with cGVHD (N=42)
+Table 16: Non-Hematologic Adverse Reactions in ≥ 10% of Patients with cGVHD (N=42)
 
 | Body System | Adverse Reaction | All Grades (%) | Grade 3 or Higher (%) |
 | --- | --- | --- | --- |
@@ -512,7 +537,7 @@ Table 15: Non-Hematologic Adverse Reactions in ≥ 10% of Patients with cGVHD (N
 | Metabolism and nutrition disorders | Hypokalemia | 12 | 7 |
 | The system organ class and individual ADR preferred terms are sorted in descending frequency order. |  |  |  |
 
-Table 16: Treatment-Emergent Hematologic Laboratory Abnormalities in Patients with cGVHD (N=42)
+Table 17: Treatment-Emergent Hematologic Laboratory Abnormalities in Patients with cGVHD (N=42)
 
 | All Grades (%) | Grade 3 or 4 (%) |  |
 | --- | --- | --- |
@@ -544,6 +569,15 @@ In randomized controlled trials (n=1605; median treatment duration of 14.8 month
 The median time to first onset was 91 days (range, 0 to 617) versus 100 days (range, 2 to 477) in IMBRUVICA-treated patients compared to the control arm, respectively.
 Of the patients who reported visual disturbances, 60% versus 71% had complete resolution and 40% versus 29% had not reported resolution at the time of analysis in IMBRUVICA-treated patients compared to the control arm, respectively.
 The median time from onset to resolution was 37 days (range, 1 to 457) versus 26 days (range, 1 to 721) in IMBRUVICA-treated subjects compared to the control arm, respectively.
+
+Long-Term Safety
+
+The safety data from long-term follow-up over 5 years of 1,178 patients (treatment-naïve CLL/SLL n=162, relapsed/refractory CLL/SLL n=646, and relapsed/refractory MCL n=370) treated with IMBRUVICA were analyzed.
+The median treatment duration for CLL/SLL was 51 months (range, 0.2 to 98 months).
+The median treatment duration for MCL was 11 months (range, 0 to 87 months).
+The cumulative rate of hypertension increased over time with prolonged IMBRUVICA treatment.
+The prevalence for Grade 3 or greater hypertension was 4% (year 0-1), 6% (year 1-2), 8% (year 2-3), 9% (year 3-4), and 9% (year 4-5).
+The incidence for the 5-year period was 11%.
 
 ## 6.2 Postmarketing Experience
 
