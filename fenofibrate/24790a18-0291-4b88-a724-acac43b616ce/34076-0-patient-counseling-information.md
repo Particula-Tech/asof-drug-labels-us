@@ -15,7 +15,7 @@ Patients should be advised:
 
 Distributed by:
 
-Lupin Pharma
+Lupin Pharmaceuticals, Inc.
 
 Baltimore, Maryland 21202
 
@@ -23,10 +23,12 @@ United States
 
 Address Medical Inquiries to:
 
-Lupin Pharma Medical Inquiries
+Lupin Pharmaceuticals Inc.
 
 111 South Calvert Street, 21st Floor
 
 Baltimore, MD 21202
 
 or Call: 1-800-399-2561
+
+April 28, 2019

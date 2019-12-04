@@ -12,7 +12,7 @@ Rx only
 
 30 capsules
 
-Lupin Pharma
+Lupin Pharmaceuticals Inc.
 
 NDA 27437-110-06
 
@@ -26,4 +26,4 @@ Rx only
 
 30 capsules
 
-Lupin Pharma
+Lupin Pharmaceuticals Inc.

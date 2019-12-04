@@ -31,7 +31,7 @@ Fenofibrate is converted by ester hydrolysis in the body to fenofibric acid whic
 
 • Absorption: The absolute bioavailability of fenofibrate cannot be determined as the compound is virtually insoluble in aqueous media suitable for injection.
 However, fenofibrate is well absorbed from the gastrointestinal tract.
-Following oral administration in healthy volunteers, approximately 60% of a single dose of radio-labeled fenofibrate appeared in urine, primarily as fenofibric acid and its glucuronate conjugate, and 25% was excreted in the feces.
+Following oral administration in healthy volunteers, approximately 60% of a single dose of radiolabeled fenofibrate appeared in urine, primarily as fenofibric acid and its glucuronate conjugate, and 25% was excreted in the feces.
 Peak plasma levels of fenofibric acid from Antara occur within 4 to 8 hours after administration.
 There was less than dose-proportional increase in the systemic exposure of fenofibric acid from 43 mg and 130 mg of fenofibrate under fasting conditions.
 
