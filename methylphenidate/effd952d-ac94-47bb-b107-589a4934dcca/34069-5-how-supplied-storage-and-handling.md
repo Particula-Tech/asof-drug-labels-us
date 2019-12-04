@@ -8,8 +8,7 @@
 
 40 mg extended-release capsules (NDC 0078-0372-05) light brown, (imprinted NVR R40) supplied in bottles of 100
 
-Store at 20°C to 25°C (68°F to 77°F), excursions permitted 15°C to 30°C (59°F to 86°F).
-[See USP controlled room temperature]
+Store at 20°C to 25°C (68°F to 77°F), excursions permitted 15°C to 30°C (59°F to 86°F) [See USP controlled room temperature].
 
 Dispense in tight container (USP).
 
@@ -18,4 +17,4 @@ Disposal
 Comply with local laws and regulations on drug disposal of CNS stimulants.
 Dispose of remaining, unused, or expired Ritalin LA by a medicine takeback program or by an authorized collector registered with the Drug Enforcement Administration.
 If no take-back program or authorized collector is available, mix Ritalin LA with an undesirable, nontoxic substance to make it less appealing to children and pets.
-Place the mixture in a container such as a sealed plastic bag and discard Ritalin LA in the household trash.
+Place the mixture in a container, such as a sealed plastic bag and discard Ritalin LA in the household trash.

@@ -4,15 +4,15 @@ The following are discussed in more detail in other sections of the labeling:
 
 - Abuse and Dependence [see Boxed Warning, Warnings and Precautions (5.1), Drug Abuse and Dependence (9.2, 9.3)]
 - Known hypersensitivity to methylphenidate or other ingredients of Ritalin LA [see Contraindications (4)]
-- Hypertensive crisis when used concomitantly with monoamine oxidase inhibitors [see Contraindications (4), Drug Interactions (7.1)]
-- Serious cardiovascular reactions [see Warnings and Precautions (5.2)]
-- Blood pressure and heart rate increases [see Warnings and Precautions (5.3)]
-- Psychiatric adverse reactions [see Warnings and Precautions (5.4)]
+- Hypertensive crisis when used concomitantly with Monoamine Oxidase Inhibitors [see Contraindications (4), Drug Interactions (7.1)]
+- Serious Cardiovascular Reactions [see Warnings and Precautions (5.2)]
+- Blood Pressure and Heart Rate Increases [see Warnings and Precautions (5.3)]
+- Psychiatric Adverse Reactions [see Warnings and Precautions (5.4)]
 - Priapism [see Warnings and Precautions (5.5)]
-- Peripheral vasculopathy, including Raynaud’s phenomenon [see Warnings and Precautions (5.6)]
-- Long-term suppression of growth [see Warnings and Precautions (5.7)]
+- Peripheral Vasculopathy, Including Raynaud’s Phenomenon [see Warnings and Precautions (5.6)]
+- Long-term Suppression of Growth [see Warnings and Precautions (5.7)]
 
-## 6.1 Clinical Trial Experience
+## 6.1 Clinical Trials Experience
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
@@ -22,7 +22,7 @@ The subjects received Ritalin LA in doses of 10 to 40 mg per day.
 Safety of Ritalin LA was assessed by evaluating frequency and nature of adverse events, routine laboratory tests, vital signs, and body weight.
 A placebo-controlled, double-blind, parallel-group study was conducted to evaluate the efficacy and safety of Ritalin LA in children with ADHD aged 6 to 12 years.
 All subjects received Ritalin LA for up to 4 weeks, and had their dose optimally adjusted, prior to entering the double-blind phase of the trial.
-In the 2-week double-blind treatment phase of this study, patients received either placebo or Ritalin LA at their individually-titrated dose (range 10-40 mg).
+In the 2-week double-blind treatment phase of this study, patients received either placebo or Ritalin LA at their individually-titrated dose (range, 10-40 mg).
 
 Adverse reactions with an incidence greater than 5% during the initial 4-week single-blind Ritalin LA titration period of this study were headache, insomnia, upper abdominal pain, appetite decreased, and anorexia.
 
@@ -35,7 +35,7 @@ Table 2: Adverse Reactions in Greater Than 2% Ritalin LA-Treated Subjects in the
 | Anorexia | 2 (3.1) | 0 (0.0) |
 | Insomnia | 2 (3.1) | 0 (0.0) |
 
-Adverse Events Associated With Discontinuation of Treatment
+Adverse Events Associated with Discontinuation of Treatment
 
 In the 2-week double-blind treatment phase of a placebo-controlled parallel-group study in children with ADHD, one Ritalin LA-treated subject (1/65, 1.5%) discontinued due to an adverse event (depressed mood).
 
@@ -48,7 +48,7 @@ The adverse events leading to discontinuation were anger (2 patients), hypomania
 The following adverse reactions have been identified during the post approval use of methylphenidate products.
 Because these reactions were reported voluntarily from a population of uncertain size, it is not always possible to estimate their frequency reliably or to establish a causal relationship to drug exposure.
 
-Adverse Reactions Reported with Ritalin, Ritalin-SR, and Ritalin-LA
+Adverse Reactions Reported with Ritalin, Ritalin-SR, and Ritalin LA
 
 Infections and Infestations: nasopharyngitis
 
@@ -60,7 +60,7 @@ Metabolism and Nutrition Disorders: decreased appetite, reduced weight gain, and
 
 Psychiatric Disorders: insomnia, anxiety, restlessness, agitation, psychosis (sometimes with visual and tactile hallucinations), depressed mood
 
-Nervous System Disorders: headache, dizziness, tremor, dyskinesia including choreoathetoid movements, drowsiness, convulsions, cerebrovascular disorders (including vasculitis, cerebral hemorrhages and cerebrovascular accidents), serotonin syndrome in combination with serotonergic drugs
+Nervous System Disorders: headache, dizziness, tremor, dyskinesia, including choreoathetoid movements, drowsiness, convulsions, cerebrovascular disorders (including vasculitis, cerebral hemorrhages and cerebrovascular accidents), serotonin syndrome in combination with serotonergic drugs
 
 Eye Disorders: blurred vision, difficulties in visual accommodation
 
@@ -84,7 +84,7 @@ The list below shows adverse reactions not listed with Ritalin, Ritalin-SR, or R
 
 Blood and Lymphatic Disorders: pancytopenia
 
-Immune System Disorders: hypersensitivity reactions such as auricular swelling, bullous conditions, eruptions, exanthemas
+Immune System Disorders: hypersensitivity reactions, such as auricular swelling, bullous conditions, eruptions, exanthemas
 
 Psychiatric Disorders: affect lability, mania, disorientation, libido changes
 

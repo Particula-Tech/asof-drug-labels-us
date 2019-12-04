@@ -12,8 +12,8 @@ Advise patients to dispose of remaining, unused, or expired Ritalin LA by a medi
 
 Serious Cardiovascular Risks
 
-Advise patients that there is a potential serious cardiovascular risk including sudden death, myocardial infarction, stroke, and hypertension with Ritalin LA use.
-Instruct patients to contact a healthcare provider immediately if they develop symptoms such as exertional chest pain, unexplained syncope, or other symptoms suggestive of cardiac disease [see Warnings and Precautions (5.2)].
+Advise patients that there is a potential serious cardiovascular risk, including sudden death, myocardial infarction, stroke, and hypertension with Ritalin LA use.
+Instruct patients to contact a healthcare provider immediately if they develop symptoms, such as exertional chest pain, unexplained syncope, or other symptoms suggestive of cardiac disease [see Warnings and Precautions (5.2)].
 
 Blood Pressure and Heart Rate Increases
 
@@ -30,7 +30,7 @@ Instruct them to seek immediate medical attention in the event of priapism [see 
 
 Circulation Problems in Fingers and Toes [Peripheral Vasculopathy, Including Raynaud’s Phenomenon]
 
-Instruct patients beginning treatment with Ritalin LA about the risk of peripheral vasculopathy, including Raynaud’s Phenomenon, and associated signs and symptoms: fingers or toes may feel numb, cool, painful, and/or may change color from pale, to blue, to red.
+Instruct patients beginning treatment with Ritalin LA about the risk of peripheral vasculopathy, including Raynaud’s phenomenon, and associated signs and symptoms: fingers or toes may feel numb, cool, painful, and/or may change color from pale, to blue, to red.
 Instruct patients to report to their physician any new numbness, pain, skin color change, or sensitivity to temperature in fingers or toes.
 
 Instruct patients to call their physician immediately with any signs of unexplained wounds appearing on fingers or toes while taking Ritalin LA.
@@ -45,6 +45,10 @@ Alcohol Effect
 Advise patients to avoid alcohol while taking Ritalin LA.
 Consumption of alcohol while taking Ritalin LA may result in a more rapid release of the dose of methylphenidate [see Clinical Pharmacology (12.3)].
 
+Pregnancy Registry
+
+Advise patients that there is a pregnancy exposure registry that monitors pregnancy outcomes in patients exposed to Ritalin LA during pregnancy [see Use in Specific Populations (8.1)].
+
 Distributed by: Novartis Pharmaceuticals Corporation East Hanover, New Jersey 07936
 
-T2019-13B
+T2019-129

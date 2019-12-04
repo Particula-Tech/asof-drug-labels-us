@@ -2,30 +2,30 @@
 
 ## 12.1 Mechanism of Action
 
-Methylphenidate hydrochloride is a central nervous system (CNS) stimulant.
+Methylphenidate hydrochloride is a CNS stimulant.
 The mode of therapeutic action in ADHD is not known.
 
 ## 12.2 Pharmacodynamics
 
 Methylphenidate is a racemic mixture comprised of the d- and l-threo enantiomers.
 The d-threo enantiomer is more pharmacologically active than the l-threo enantiomer.
-Methylphenidate is thought to block the reuptake of norepinephrine and dopamine into the presynaptic neuron and increase the release of these monoamines into the extraneuronal space.
+Methylphenidate blocks the reuptake of norepinephrine and dopamine into the presynaptic neuron and increase the release of these monoamines into the extraneuronal space.
 
 Cardiac Electrophysiology
 
 A formal QT study has not been conducted in patients taking Ritalin LA.
 
 The effect of dexmethylphenidate, the pharmacologically active d-enantiomer of Ritalin, on the QT interval was evaluated in a double-blind, placebo- and open-label active (moxifloxacin)-controlled study following single doses of dexmethylphenidate XR 40 mg (maximum recommended adult total daily dosage) in 75 healthy volunteers.
-ECGs were collected up to 12 hours postdose.
+Electrocardiograms were collected up to 12 hours postdose.
 Frederica’s method for heart rate correction was employed to derive the corrected QT interval (QTcF).
-The maximum mean prolongation of QTcF intervals was less than 5 ms, and the upper limit of the 90% confidence interval (CI) was below 10 ms for all time matched comparisons versus placebo.
+The maximum mean prolongation of QTcF intervals was less than 5 ms, and the upper limit of the 90% confidence interval was below 10 ms for all time matched comparisons versus placebo.
 This was below the threshold of clinical concern and there was no evident-exposure response relationship.
 
 ## 12.3 Pharmacokinetics
 
 Ritalin LA produces a bi-modal plasma concentration-time profile (i.e., 2 distinct peaks approximately 4 hours apart) when administered orally to children diagnosed with ADHD and healthy adults.
 
-No accumulation of methylphenidate is expected following multiple once daily oral dosing with Ritalin LA, however, there is a slight upward trend in the methylphenidate area under the curve (AUC) and peak plasma concentrations (Cmax1 and Cmax2) after oral administration of Ritalin LA 20 mg and 40 mg capsules to adults.
+No accumulation of methylphenidate is expected following multiple once daily oral dosing with Ritalin LA, however, there is a slight upward trend in the methylphenidate area under the curve and peak plasma concentrations (Cmax1 and Cmax2) after oral administration of Ritalin LA 20 mg and 40 mg capsules to adults.
 
 Absorption
 
@@ -44,7 +44,7 @@ Table 4: Mean ± SD and Range of Pharmacokinetic Parameters of Methylphenidate A
 
 | Population | Children |  | Adult Males |  |
 | --- | --- | --- | --- | --- |
-| Formulation Dose | Ritalin® 10 mg & 10 mg | Ritalin LA® 20 mg | Ritalin® 10 mg & 10 mg | Ritalin LA® 20 mg |
+| Formulation Dose | Ritalin 10 mg & 10 mg | Ritalin LA 20 mg | Ritalin 10 mg & 10 mg | Ritalin LA 20 mg |
 | N | 21 | 18 | 9 | 8 |
 | Tlag (h) | 0.24 ± 0.44 | 0.28 ± 0.46 | 1.0 ± 0.5 | 0.7 ± 0.2 |
 |  | 0 - 1 | 0 - 1 | 0.7 - 1.3 | 0.3 - 1.0 |
@@ -91,7 +91,7 @@ The volume of distribution was 2.65 ± 1.11 L/kg for d-methylphenidate and 1.80 
 Elimination
 
 The systemic clearance is 0.40 ± 0.12 L/h/kg for d-methylphenidate and 0.73 ± 0.28 L/h/kg for l-methylphenidate.
-In studies with Ritalin LA and Ritalin tablets in adults, methylphenidate from Ritalin tablets is eliminated from plasma with an average half-life of about 3.5 hours, (range 1.3 to 7.7 hours).
+In studies with Ritalin LA and Ritalin tablets in adults, methylphenidate from Ritalin tablets is eliminated from plasma with an average half-life of about 3.5 hours, (range, 1.3 to 7.7 hours).
 In children the average half-life is about 2.5 hours, with a range of about 1.5 to 5.0 hours.
 The rapid half-life in both children and adults may result in un-measurable concentrations between the morning and mid-day doses with Ritalin tablets.
 No accumulation of methylphenidate is expected following multiple once a day oral dosing with Ritalin LA.

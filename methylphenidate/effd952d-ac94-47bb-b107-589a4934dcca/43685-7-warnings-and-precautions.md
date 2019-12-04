@@ -7,14 +7,14 @@ Assess the risk of abuse prior to prescribing, and monitor for signs of abuse an
 
 ## 5.2 Serious Cardiovascular Reactions
 
-Sudden death, stroke and myocardial infarction have been reported in adults with CNS-stimulant treatment at recommended doses.
+Sudden death, stroke, and myocardial infarction have been reported in adults with CNS-stimulant treatment at recommended doses.
 Sudden death has been reported in pediatric patients with structural cardiac abnormalities and other serious heart problems taking CNS stimulants at recommended doses for ADHD.
 Avoid use in patients with known structural cardiac abnormalities, cardiomyopathy, serious heart rhythm abnormalities, coronary artery disease, and other serious heart problems.
 Further evaluate patients who develop exertional chest pain, unexplained syncope, or arrhythmias during Ritalin LA treatment.
 
 ## 5.3 Blood Pressure and Heart Rate Increases
 
-CNS stimulants cause an increase in blood pressure (mean increase approximately 2 to 4 mmHg) and heart rate (mean increase approximately 3 to 6 bpm).
+CNS stimulants cause an increase in blood pressure (mean increase approximately 2 to 4 mmHg) and heart rate (mean increase approximately 3 to 6 beats per minute).
 Individuals may have larger increases.
 Monitor all patients for hypertension and tachycardia.
 
@@ -42,9 +42,9 @@ Priapism was not reported with drug initiation but developed after some time on 
 Priapism has also appeared during a period of drug withdrawal (drug holidays or during discontinuation).
 Patients who develop abnormally sustained or frequent and painful erections should seek immediate medical attention.
 
-## 5.6 Peripheral Vasculopathy, including Raynaud’s Phenomenon
+## 5.6 Peripheral Vasculopathy, Including Raynaud’s Phenomenon
 
-Stimulants, including Ritalin LA, used to treat ADHD are associated with peripheral vasculopathy, including Raynaud’s phenomenon.
+CNS stimulants, including Ritalin LA, used to treat ADHD are associated with peripheral vasculopathy, including Raynaud’s phenomenon.
 Signs and symptoms are usually intermittent and mild; however, very rare sequelae include digital ulceration and/or soft tissue breakdown.
 Effects of peripheral vasculopathy, including Raynaud’s phenomenon, were observed in post-marketing reports at different times and at therapeutic doses in all age groups throughout the course of treatment.
 Signs and symptoms generally improve after reduction in dose or discontinuation of drug.

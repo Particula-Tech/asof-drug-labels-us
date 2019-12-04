@@ -1,79 +1,55 @@
 # PRINCIPAL DISPLAY PANEL
 
-Package Label – 10mg
+NDC 0078-0424-05 Rx only
 
-Rx Only NDC 0078-0424-05
-
-Ritalin LA® (methylphenidate HCl)
-
-extended-release capsules
+Ritalin LA® (methylphenidate HCl) extended-release capsules
 
 10 mg
 
 100 capsules
 
-Dispense with Medication
+Dispense with Medication Guide attached or provided separately.
 
-Guide attached or provided
-
-separately.
+NOVARTIS
 
 # PRINCIPAL DISPLAY PANEL
 
-Package Label – 20mg
+NDC 0078-0370-05 Rx only
 
-Rx Only NDC 0078-0370-05
-
-Ritalin LA® (methylphenidate HCl)
-
-extended-release capsules
+Ritalin LA® (methylphenidate HCl) extended-release capsules
 
 20 mg
 
 100 capsules
 
-Dispense with Medication
+Dispense with Medication Guide attached or provided separately.
 
-Guide attached or provided
-
-separately.
+NOVARTIS
 
 # PRINCIPAL DISPLAY PANEL
 
-Package Label – 30mg
+NDC 0078-0371-05 Rx only
 
-Rx Only NDC 0078-0371-05
-
-Ritalin LA® (methylphenidate HCl)
-
-extended-release capsules
+Ritalin LA® (methylphenidate HCl) extended-release capsules
 
 30 mg
 
 100 capsules
 
-Dispense with Medication
+Dispense with Medication Guide attached or provided separately.
 
-Guide attached or provided
-
-separately.
+NOVARTIS
 
 # PRINCIPAL DISPLAY PANEL
 
-Package Label – 40mg
+NDC 0078-0372-05 Rx only
 
-Rx Only NDC 0078-0372-05
-
-Ritalin LA® (methylphenidate HCl)
-
-extended-release capsules
+Ritalin LA® (methylphenidate HCl) extended-release capsules
 
 40 mg
 
 100 capsules
 
-Dispense with Medication
+Dispense with Medication Guide attached or provided separately.
 
-Guide attached or provided
-
-separately.
+NOVARTIS
