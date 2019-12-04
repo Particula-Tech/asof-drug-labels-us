@@ -47,7 +47,11 @@ The developmental and health benefits of breastfeeding should be considered alon
 
 ## 8.4 Pediatric Use
 
-The safety and effectiveness of TOUJEO have not been established in pediatric patients.
+The safety and effectiveness of TOUJEO to improve glycemic control in type 1 and type 2 diabetes mellitus have been established in pediatric patients 6 years of age and older.
+
+The use of TOUJEO for this indication is supported by evidence from an adequate and well-controlled study in 463 pediatric patients 6 to 17 years of age with type 1 diabetes mellitus [see Clinical Studies (14.2)] and from studies in adults with diabetes mellitus [see Clinical Pharmacology (12.3), Clinical Studies (14.3)].
+
+The safety and effectiveness of TOUJEO have not been established in pediatric patients less than 6 years of age.
 
 ## 8.5 Geriatric Use
 

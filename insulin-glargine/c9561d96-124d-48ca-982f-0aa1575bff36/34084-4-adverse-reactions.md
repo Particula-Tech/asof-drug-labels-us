@@ -25,9 +25,10 @@ At baseline, mean eGFR was 79 mL/min/1.73 m2 and 27% of patients had an eGFR ≥
 The mean BMI was 35 kg/m2.
 HbA1c at baseline was greater or equal to 8% in 66% of patients.
 
-Common adverse reactions were defined as reactions occurring in ≥5% of the population studied.
+TOUJEO was studied in 233 pediatric patients (6–17 years of age) with type 1 diabetes for a mean duration of 26 weeks [See Clinical Studies (14.1)].
 
-Common adverse reactions occurring for TOUJEO-treated subjects during clinical trials in patients with type 1 diabetes mellitus and type 2 diabetes mellitus are listed in Table 1 and Table 2, respectively.
+Common adverse reactions (occurring ≥5%) in TOUJEO-treated subjects during clinical trials in adult patients with type 1 diabetes mellitus and type 2 diabetes mellitus are listed in Table 1 and Table 2, respectively.
+Common adverse reactions for TOUJEO-treated pediatric subjects with type 1 diabetes mellitus were similar to the adverse reactions listed in Table 1.
 Hypoglycemia is discussed in a dedicated subsection below.
 
 Table 1: Adverse Reactions in Two Pooled Clinical Trials of 26 Weeks and 16 Weeks Duration in Adults with Type 1 Diabetes (with incidence ≥5%)
@@ -47,14 +48,19 @@ Table 2: Adverse Reactions in Three Pooled Clinical Trials of 26 Weeks Duration 
 Hypoglycemia
 
 Hypoglycemia is the most commonly observed adverse reaction in patients using insulin, including TOUJEO [see Warnings and Precautions (5.3)].
-In the TOUJEO program, severe hypoglycemia was defined as an event requiring assistance of another person to administer a resuscitative action and documented symptomatic hypoglycemia was defined as an event with typical symptoms of hypoglycemia accompanied by a self-monitored or plasma glucose value equal to or less than 54 mg/dL.
+The rates of reported hypoglycemia depend on the definition of hypoglycemia used, diabetes type, insulin dose, intensity of glucose control, background therapies, and other intrinsic and extrinsic patient factors.
+For these reasons, comparing rates of hypoglycemia in clinical trials for TOUJEO with the incidence of hypoglycemia for other products may be misleading and also may not be representative of hypoglycemia rates that will occur in clinical practice.
 
-The incidence of severe hypoglycemia in patients with type 1 diabetes receiving TOUJEO as part of a multiple daily injection regimen was 6.6% at 26 weeks.
-The incidence of documented symptomatic hypoglycemia was 69% at 26 weeks.
-There were no clinically important differences in hypoglycemia between TOUJEO and LANTUS among type 1 diabetes patients.
+In the TOUJEO adult program, severe hypoglycemia was defined as an event requiring assistance of another person to administer a resuscitative action.
+In the pediatric program, severe hypoglycemia was defined as an event with semiconsciousness, unconsciousness, coma and/or convulsions in a patient who had altered mental status and could not assist in his own care, and who may have required glucagon or intravenous glucose.
 
-The incidence of severe hypoglycemia in patients with type 2 diabetes was 5% at 26 weeks in patients receiving TOUJEO as part of a multiple daily injection regimen, and 1.0% and 0.9% respectively at 26 weeks in the two studies where patients received TOUJEO as part of a basal-insulin only regimen.
-The incidence of documented symptomatic hypoglycemia in patients with type 2 diabetes receiving TOUJEO ranged from 8% to 37% at 26 weeks and the highest risk was again seen in patients receiving TOUJEO as part of a multiple daily injection regimen.
+The incidence of severe hypoglycemia in adult patients with type 1 diabetes receiving TOUJEO as part of a multiple daily injection regimen was 6.6% at 26 weeks.
+The incidence of hypoglycemia with a glucose level less than 54 mg/dL with or without symptoms was 77.7% at 26 weeks.
+
+The incidence of severe hypoglycemia in pediatric patients with type 1 diabetes receiving TOUJEO as part of a multiple daily injection regimen was 6% at 26 weeks and the incidence of hypoglycemia accompanied by a self-monitored or plasma glucose value less than 54 mg/dL regardless of symptoms was 80.3%.
+
+The incidence of severe hypoglycemia in adult patients with type 2 diabetes was 5% at 26 weeks in patients receiving TOUJEO as part of a multiple daily injection regimen, and 1.0% and 0.9% respectively at 26 weeks in the two studies where patients received TOUJEO as part of a basal-insulin only regimen.
+The incidence of hypoglycemia accompanied by a self-monitored or plasma glucose value less than 54 mg/dL regardless of symptoms in patients with type 2 diabetes receiving TOUJEO ranged from 9% to 44.6% at 26 weeks and the highest risk was again seen in patients receiving TOUJEO as part of a multiple daily injection regimen.
 
 Insulin Initiation and Intensification of Glucose Control
 

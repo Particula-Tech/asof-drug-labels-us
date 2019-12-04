@@ -2,15 +2,15 @@
 
 ## 5.1 Never Share a TOUJEO SoloStar or TOUJEO Max SoloStar Pen Between Patients
 
-TOUJEO SoloStar or TOUJEO Max SoloStar disposable prefilled pens must never be shared between patients, even if the needle is changed.
+TOUJEO SoloStar or TOUJEO Max SoloStar single-patient-use prefilled pens must never be shared between patients, even if the needle is changed.
 Pen sharing poses a risk for transmission of blood-borne pathogens.
 
 ## 5.2 Hyperglycemia or Hypoglycemia with Changes in Insulin Regimen
 
 Changes in Insulin Regimen Including Changes to Administration Site
 
-Changes in an insulin regimen (e.g., insulin strength, manufacturer, type, injection site or method of administration) may affect glycemic control and predispose to hypoglycemia [see Warnings and Precautions (5.3)] or hyperglycemia.
-Repeated insulin injections into areas of lipodystrophy or localized cutaneous amyloidosis have been reported to result in hyperglycemia; and a sudden change in the injection site (to unaffected area) has been reported to result in hypoglycemia [see Adverse Reactions (6)].
+Changes in an insulin regimen (e.g., insulin strength, manufacturer, type, injection site, or method of administration) may affect glycemic control and predispose to hypoglycemia [see Warnings and Precautions (5.3)] or hyperglycemia.
+Repeated insulin injections into areas of lipodystrophy or localized cutaneous amyloidosis have been reported to result in hyperglycemia, and a sudden change in the injection site (to unaffected area) has been reported to result in hypoglycemia [see Adverse Reactions (6)].
 
 Make any changes to a patient's insulin regimen under close medical supervision with increased frequency of blood glucose monitoring.
 Advise patients who have repeatedly injected into areas of lipodystrophy or localized cutaneous amyloidosis to change the injection site to unaffected areas and closely monitor for hypoglycemia.
@@ -48,7 +48,7 @@ Risk Mitigation Strategies for Hypoglycemia
 Patients and caregivers must be educated to recognize and manage hypoglycemia.
 Self-monitoring of blood glucose plays an essential role in the prevention and management of hypoglycemia.
 In patients at higher risk for hypoglycemia and patients who have reduced symptomatic awareness of hypoglycemia, increased frequency of blood glucose monitoring is recommended.
-To minimize the risk of hypoglycemia do not administer TOUJEO intravenously, intramuscularly, or in an insulin pump, or dilute or mix TOUJEO with any other insulin products or solutions.
+To minimize the risk of hypoglycemia, do not administer TOUJEO intravenously, intramuscularly or in an insulin pump, or dilute or mix TOUJEO with any other insulin products or solutions.
 
 ## 5.4 Medication Errors
 

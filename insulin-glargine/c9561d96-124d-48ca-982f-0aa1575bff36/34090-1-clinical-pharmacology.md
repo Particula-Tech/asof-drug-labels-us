@@ -50,6 +50,12 @@ The in vitro activity of M1 and M2 were similar to that of human insulin.
 
 Specific Populations
 
-Age (Geriatric Population and Pediatric Population), Race, and Sex: Effect of age, race, and sex on the pharmacokinetics of TOUJEO has not been evaluated.
+Pediatrics
 
-Obesity: Effect of BMI on the pharmacokinetics of TOUJEO has not been evaluated.
+Population pharmacokinetic analysis was conducted for TOUJEO based on concentration data of its main metabolite M1 using data from 75 pediatric patients (6 to <18 years of age) with type 1 diabetes.
+The findings with regard to the effect of body weight on systemic exposure of M1 are generally consistent with findings in adults.
+
+Elderly, race, sex, and obesity
+
+Effect of age ≥65, race, and sex on the pharmacokinetics of TOUJEO has not been evaluated.
+When weight is taken into account as a covariate on clearance, BMI is not an additional covariate.

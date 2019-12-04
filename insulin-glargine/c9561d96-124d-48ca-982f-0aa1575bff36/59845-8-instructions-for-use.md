@@ -43,7 +43,7 @@ Places to inject
 
 - Inject your insulin exactly as your healthcare provider has shown you.
 - Inject your insulin under the skin (subcutaneously) of your upper legs (thighs), upper arms, or stomach area (abdomen).
-- Change (rotate) your injection sites within the area you choose for each dose to reduce your risk of getting lipodystrophy (pits in skin or thickened skin) and localized cutaneous amyloidosis (skin with lumps) at the injection sites.
+- Change (rotate) your injection sites within the area you choose for each dose to reduce your risk of getting pits or thickening of the skin (lipodystrophy) and lumps in the skin (localized cutaneous amyloidosis) at the injection sites.
 - Do not inject where the skin has pits, is thickened, or has lumps.
 - Do not inject where the skin is tender, bruised, scaly or hard, or into scars or damaged skin.
 
@@ -71,7 +71,7 @@ Step 2: Attach a new needle
 - Do not re-use needles.
   Always use a new sterile needle for each injection.
   This helps stop blocked needles, contamination and infection.
-- Always use needlesThe brands listed are the registered trademarks of their respective owners and are not trademarks of sanofi-aventis U.S. LLC. from BD (such as BD Ultra-Fine®), Ypsomed (such as Clickfine®), or Owen Mumford (such as Unifine® Pentips®).
+- Always use needles* from BD (such as BD Ultra-Fine®), Ypsomed (such as Clickfine®), or Owen Mumford (such as Unifine® Pentips®).
 
 - 2ATake a new needle and peel off the protective seal.
 - 2BKeep the needle straight and screw it onto the pen until fixed.
@@ -254,6 +254,8 @@ sanofi-aventis U.S. LLC Bridgewater, NJ 08807 A SANOFI COMPANY
 
 ©2019 sanofi-aventis U.S. LLC
 
+* The brands listed are the registered trademarks of their respective owners and are not trademarks of sanofi-aventis U.S. LLC.
+
 # Instructions for Use
 
 TOUJEO® Max SoloStar® (Too-Jay-o) (insulin glargine injection) 3 mL single-patient-use prefilled pen
@@ -301,7 +303,7 @@ Places to inject
 
 - Inject your insulin exactly as your healthcare provider has shown you.
 - Inject your insulin under the skin (subcutaneously) of your upper legs (thighs), upper arms, or stomach area (abdomen).
-- Change (rotate) your injection sites within the area you choose for each dose to reduce your risk of getting lipodystrophy (pits in skin or thickened skin) and localized cutaneous amyloidosis (skin with lumps) at the injection sites.
+- Change (rotate) your injection sites within the area you choose for each dose to reduce your risk of getting pits or thickening of the skin (lipodystrophy) and lumps in the skin (localized cutaneous amyloidosis) at the injection sites.
 - Do not inject where the skin has pits, is thickened, or has lumps.
 - Do not inject where the skin is tender, bruised, scaly or hard, or into scars or damaged skin.
 
@@ -329,7 +331,7 @@ Step 2: Attach a new needle
 - Do not re-use needles.
   Always use a new sterile needle for each injection.
   This helps stop blocked needles, contamination and infection.
-- Always use needlesThe brands listed are the registered trademarks of their respective owners and are not trademarks of sanofi-aventis U.S. LLC. from BD (such as BD Ultra-Fine®), Ypsomed (such as Clickfine®), or Owen Mumford (such as Unifine® Pentips®) that are 8 mm long or shorter.
+- Always use needles* from BD (such as BD Ultra-Fine®), Ypsomed (such as Clickfine®), or Owen Mumford (such as Unifine® Pentips®) that are 8 mm long or shorter.
 
 - 2ATake a new needle and peel off the protective seal.
 - 2BKeep the needle straight and screw it onto the pen until fixed.
@@ -508,3 +510,5 @@ Revised: November 2019
 sanofi-aventis U.S. LLC Bridgewater, NJ 08807 A SANOFI COMPANY
 
 ©2019 sanofi-aventis U.S. LLC
+
+* The brands listed are the registered trademarks of their respective owners and are not trademarks of sanofi-aventis U.S. LLC.
