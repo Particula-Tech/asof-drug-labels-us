@@ -39,4 +39,4 @@ Similarly, patients on valproate should begin at a BANZEL dose lower than 10 mg/
 ## 7.3Effects of BANZEL on Hormonal Contraceptives
 
 Female patients of childbearing age should be warned that the concurrent use of BANZEL with hormonal contraceptives may render this method of contraception less effective.
-Additional non-hormonal forms of contraception are recommended when using BANZEL [see Clinical Pharmacology (12.3) and Patient Counseling Information (17)].
+Additional non-hormonal forms of contraception are recommended when using BANZEL [see Use in Specific Populations (8.3), Clinical Pharmacology (12.3) and Patient Counseling Information (17)].

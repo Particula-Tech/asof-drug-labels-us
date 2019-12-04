@@ -48,7 +48,7 @@ Rufinamide is a weak inhibitor of CYP 2E1.
 It did not show significant inhibition of other CYP enzymes.
 Rufinamide is a weak inducer of CYP 3A4 enzymes.
 
-Rufinamide did not show any significant inhibition of P-glycoprotein in an invitro study.
+Rufinamide did not show any significant inhibition of P-glycoprotein in an in vitro study.
 
 Elimination/Excretion
 
@@ -91,7 +91,7 @@ Based on in vivo drug interaction studies with triazolam and oral contraceptives
 
 - Co-administration and pre-treatment of BANZEL (400 mg twice daily) and triazolam resulted in a 37% decrease in AUC and a 23% decrease in Cmax of triazolam, a CYP 3A4 substrate.
 - Co-administration of BANZEL (800 mg twice daily for 14 days) and Ortho-Novum 1/35® resulted in a mean decrease in the ethinyl estradiol AUC0-24 of 22% and Cmax by 31% and norethindrone AUC0-24 by 14% and Cmax by 18%, respectively.
-  The clinical significance of this decrease is unknown [see Drug Interactions (7.3)].
+  The clinical significance of this decrease is unknown [see Drug Interactions (7.3) and Use in Specific Populations (8.3)].
 
 Rufinamide is metabolized by carboxylesterases.
 Drugs that may induce the activity of carboxylesterases may increase the clearance of rufinamide.

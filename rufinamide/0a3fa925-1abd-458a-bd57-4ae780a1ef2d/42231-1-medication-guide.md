@@ -73,9 +73,8 @@ Before you take BANZEL, tell your healthcare provider if you:
   You can enroll in this registry by calling 1-888-233-2334.
   The purpose of this registry is to collect information about the safety of antiepileptic medicines during pregnancy.
 - are breastfeeding or plan to breastfeed.
-  BANZEL may pass into your breast milk.
-  You and your healthcare provider should decide if you will take BANZEL or breastfeed.
-  You should not do both.
+  It is not known if BANZEL will pass into your breast milk.
+  Talk to your healthcare provider about the best way to feed your baby if you take BANZEL.
 
 Tell your healthcare provider about all the medicines you take, including prescription and non-prescription medicines, vitamins, and herbal supplements.
 
@@ -196,8 +195,8 @@ The oral suspension does contain carbohydrates.
 
 Distributed by Eisai Inc., Woodcliff Lake, NJ 07677
 
-Revised June 2015
+Revised: 11/2019
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-© 2015 Eisai Inc.
+© 2019 Eisai Inc.
