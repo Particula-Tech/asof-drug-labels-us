@@ -9,17 +9,17 @@ Appropriate culture and susceptibility tests should be done before treatment in 
 | --- | --- |
 | Septicemia, empyema,pneumonia, pericarditis,endocarditis, meningitis | Streptococcus pyogenes(group A β-hemolyticstreptococcus), otherβ-hemolytic streptococciincluding groups C, H, G, Land M, Streptococcuspneumoniae andStaphylococcus species (non-penicillinase producing strains) |
 | Anthrax | Bacillus anthracis |
-| Actinomycosis (cervico-facial disease andthoracic and abdominaldisease) | ActinomycesIsraelil |
+| Actinomycosis (cervico-facial disease andthoracic and abdominaldisease) | Actinomyces Israelil |
 | Botulism (adjunctivetherapy to antitoxin),gas gangrene, andtetanus (adjunctivetherapy to humantetanus immune globulin) | Clostridium species |
 | Diphtheria (adjunctivetherapy to antitoxin andprevention of the carrierstate) | Corynebacteriumdiphtheriae |
 | Erysipelothrix endocarditis | Erysipelothrixrhusiopthiae |
 | Fusospirochetosis(severe infections of theoropharynx [Vincent’s],lower respiratory tractand genital area) | Fusobacterium speciesand spirochetes |
 | Listeria infectionsincluding meningitis andendocarditis | Listeria monocytogenes |
-| Pasteurella infectionsincluding bacteremia andmeningitis | Pasteurellamultocida |
+| Pasteurella infectionsincluding bacteremia andmeningitis | Pasteurella multocida |
 | Haverhill fever | Streptobacillusmoniliformis |
 | Rat-bite fever | Spirillum minus orStreptobacillusmoniliformis |
 | Disseminated gonococcalinfections | Neisseria gonorrhoeae(penicillin-susceptible) |
-| Syphilis (congenital andneurosyphilis) | Treponemapallidum |
+| Syphilis (congenital andneurosyphilis) | Treponema pallidum |
 | Meningococcalmeningitis and/orsepticemia | Neisseria meningitidis |
 | Gram-negative bacillaryinfections (bacteremias) | Escherichia coli,Enterobacter aerogenes,Alcaligenes faecalis,salmonella, shigella andProteus mirabilis, Penicillin Gis not the drug of choice in thetreatment of gram-negativebacillary infections. |
 

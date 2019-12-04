@@ -41,9 +41,9 @@ Penicillin G is bactericidal against penicillin-susceptible microorganisms durin
 It acts by inhibiting biosynthesis of cell-wall mucopeptide.
 It is not active against the penicillinase-producing bacteria, which include many strains of staphylococci.
 Penicillin G is highly active in vitro against staphylococci (except penicillinase-producing strains), streptococci (groups A, B, C, G, H, L and M), pneumococci and Neisseria meningitidis.
-Other organisms susceptible in vitro to penicillin G are Neisseria gonorrhoeae, Corynebacteriumdiphtheriae, Bacillus anthracis, clostridia, Actinomyces species, Spirillum minus, Streptobacillusmonillformis, Listeria monocytogenes, and leptospira; Treponemapallidum is extremely susceptible.
+Other organisms susceptible in vitro to penicillin G are Neisseria gonorrhoeae, Corynebacterium diphtheriae, Bacillus anthracis, clostridia, Actinomyces species, Spirillum minus, Streptobacillus monillformis, Listeria monocytogenes, and leptospira; Treponema pallidum is extremely susceptible.
 
-Some species of gram-negative bacilli were previously considered susceptible to very high intravenous doses of penicillin G (up to 80 million units/day) including some strains of Escherichia coli, Proteus mirabilis, salmonella, shigella, Enterobacteraerogenes (formerly Aerobacteraerogenes) and Alcaligenesfaecalis.
+Some species of gram-negative bacilli were previously considered susceptible to very high intravenous doses of penicillin G (up to 80 million units/day) including some strains of Escherichia coli, Proteus mirabilis, salmonella, shigella, Enterobacter aerogenes (formerly Aerobacter aerogenes) and Alcaligenes faecalis.
 Penicillin G is no longer considered a drug of choice for infections caused by these organisms.
 
 ## Susceptibility Testing
