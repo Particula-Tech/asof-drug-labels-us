@@ -9,5 +9,4 @@ XYOSTED (testosterone enanthate) injection is an androgen indicated for testoste
 
 Limitations of Use:
 
-- Safety and efficacy of XYOSTED in adult males with “age-related hypogonadism” (also referred to as “late-onset hypogonadism”) have not been established.
 - Safety and efficacy of XYOSTED in males less than 18 years old have not been established [see Use in Specific Populations (8.4)].

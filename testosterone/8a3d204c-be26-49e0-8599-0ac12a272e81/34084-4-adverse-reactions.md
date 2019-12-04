@@ -61,8 +61,8 @@ BP Increases in the 6-Month Clinical Study
 
 In the 6-month clinical study, 24-hour ambulatory blood pressure monitoring (ABPM) was conducted in 133 patients, 113 of whom completed the study.
 ABPM was conducted at 3 distinct 24-hour time periods: at Baseline and following 6 and 12 weeks of XYOSTED therapy.
-A total of 78 patients had acceptable ABPM recordings at all three time periods.
-In that group, the mean change in systolic BP from baseline to Week 12 (n=62) was + 3.9 mmHg (90% CI 1.8-6.0) and the mean change in diastolic BP was 1.5 mmHg (95% CI 0.5-2.5).
+A total of 62 patients had acceptable ABPM recordings at baseline and Week 12.
+In that group, the mean change in systolic BP from baseline to Week 12 was + 3.9 mmHg (95% CI 1.4-6.4) and the mean change in diastolic BP was + 1.5 mmHg (95% CI 0.4-2.6).
 
 Increases in Hematocrit
 
