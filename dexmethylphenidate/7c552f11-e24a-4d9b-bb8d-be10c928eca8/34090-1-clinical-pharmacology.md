@@ -3,14 +3,14 @@
 ## 12.1 Mechanism of Action
 
 Dexmethylphenidate hydrochloride is a CNS stimulant.
-The exact mode of therapeutic action in ADHD is not known.
+The mode of therapeutic action in ADHD is not known.
 
 ## 12.2 Pharmacodynamics
 
 Pharmacodynamics
 
 Dexmethylphenidate is the more pharmacologically active d-enantiomer of racemic methylphenidate.
-Methylphenidate is thought to block the reuptake of norepinephrine and dopamine into the presynaptic neuron and increase the release of these monoamines into the extraneuronal space.
+Methylphenidate blocks the reuptake of norepinephrine and dopamine into the presynaptic neuron and increase the release of these monoamines into the extraneuronal space.
 
 Cardiac Electrophysiology
 

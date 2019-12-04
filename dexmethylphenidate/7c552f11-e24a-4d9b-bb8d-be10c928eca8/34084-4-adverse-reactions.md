@@ -9,7 +9,7 @@ The following are discussed in more detail in other sections of the labeling:
 - Blood Pressure and Heart Rate Increases [see Warnings and Precautions (5.3)]
 - Psychiatric Adverse Reactions [see Warnings and Precautions (5.4)]
 - Priapism [see Warnings and Precautions (5.5)]
-- Peripheral Vasculopathy, including Raynaud’s phenomenon [see Warnings and Precautions (5.6)]
+- Peripheral Vasculopathy, Including Raynaud’s phenomenon [see Warnings and Precautions (5.6)]
 - Long-term Suppression of Growth [see Warnings and Precautions (5.7)]
 
 ## 6.1 Clinical Trials Experience
@@ -38,6 +38,7 @@ Table 1: Common Adverse Reactions in Pediatric Patients (6 to 17 years of age) w
 |  | Fever | 5% | 1% |
 | Digestive System | Anorexia | 6% | 1% |
 |  | Nausea | 9% | 1% |
+| Abbreviation: ADHD,Attention Deficit Hyperactivity Disorder. |  |  |  |
 
 ## 6.2 Postmarketing Experience
 
@@ -46,7 +47,7 @@ Because these reactions are reported voluntarily from a population of uncertain 
 
 Musculoskeletal: rhabdomyolysis
 
-Immune System Disorders: hypersensitivity reactions such as angioedema, anaphylactic reactions
+Immune System Disorders: hypersensitivity reactions, such as angioedema, anaphylactic reactions
 
 Adverse Reactions Reported with all Ritalin and Focalin Formulations
 
@@ -63,7 +64,7 @@ Metabolism and Nutrition Disorders: decreased appetite, reduced weight gain, and
 
 Psychiatric Disorders: insomnia, anxiety, restlessness, agitation, psychosis (sometimes with visual and tactile hallucinations), depressed mood
 
-Nervous System Disorders: headache, dizziness, tremor, dyskinesia including choreoatheetoid movements, drowsiness, convulsions, cerebrovascular disorders (including vasculitis, cerebral hemorrhages and cerebrovascular accidents), serotonin syndrome in combination with serotonergic drugs
+Nervous System Disorders: headache, dizziness, tremor, dyskinesia, including choreoatheetoid movements, drowsiness, convulsions, cerebrovascular disorders (including vasculitis, cerebral hemorrhages and cerebrovascular accidents), serotonin syndrome in combination with serotonergic drugs
 
 Eye Disorders: blurred vision, difficulties in visual accommodation
 
@@ -83,11 +84,11 @@ Investigations: weight loss (adult ADHD patients)
 
 Additional Adverse Reactions Reported with Other Methylphenidate-Containing Products
 
-The list below shows adverse reactions not listed with Ritalin and Focalin formulations [see Adverse Reactions (6.2)] that have been reported with other methylphenidate products based on clinical trials data and post-marketing spontaneous reports.
+The list below shows adverse reactions not listed with Ritalin and Focalin formulations that have been reported with other methylphenidate products based on clinical trials data and post-marketing spontaneous reports.
 
 Blood and Lymphatic Disorders: pancytopenia
 
-Immune System Disorders: hypersensitivity reactions such as auricular swelling
+Immune System Disorders: hypersensitivity reactions, such as auricular swelling
 
 Psychiatric Disorders: affect lability, mania, disorientation, libido changes
 
