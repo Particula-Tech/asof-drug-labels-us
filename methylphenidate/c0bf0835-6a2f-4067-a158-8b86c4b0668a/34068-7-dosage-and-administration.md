@@ -2,17 +2,17 @@
 
 ## 2.1 Pretreatment Screening
 
-Prior to treating pediatric patients and adults with central nervous system (CNS) stimulants, including Ritalin or Ritalin-SR, assess for the presence of cardiac disease (i.e., perform a careful history including family history of sudden death or ventricular arrhythmia, and physical examination) [see Warnings and Precautions (5.2)].
+Prior to treating pediatric patients and adults with central nervous system (CNS) stimulants, including Ritalin or Ritalin-SR, assess for the presence of cardiac disease (i.e., perform a careful history, including family history of sudden death or ventricular arrhythmia, and physical examination) [see Warnings and Precautions (5.2)].
 
 Assess the risk of abuse prior to prescribing, and monitor for signs of abuse and dependence while on therapy.
-Maintain careful prescription records, educate patients about abuse, monitor for signs of abuse and overdose, and periodically reevaluate the need for Ritalin or Ritalin-SR use [see Boxed Warning, Warnings and Precautions (5.1), Drug Abuse and Dependence (9)].
+Maintain careful prescription records, educate patients about abuse, monitor for signs of abuse and overdose, and periodically reevaluate the need for Ritalin or Ritalin-SR use [see Boxed Warning, Warnings and Precautions (5.1), Drug Abuse and Dependence (9.2, 9.3)].
 
 ## 2.2 General Dosing Information
 
 Ritalin Tablets
 
 Pediatric Patients 6 years and Older: Start with 5 mg orally twice daily (before breakfast and lunch).
-Increase dosage gradually, in increments of 5 to 10 mg weekly.
+Increase dosage gradually, in increments of 5-to 10-mg weekly.
 Daily dosage above 60 mg is not recommended.
 
 Adults: Average dosage is 20 to 30 mg daily.

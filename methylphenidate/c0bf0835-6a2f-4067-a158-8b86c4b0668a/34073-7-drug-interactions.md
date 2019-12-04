@@ -9,7 +9,7 @@ Table 1: Clinically Important Drug Interactions with Ritalin and Ritalin-SR
 | Monoamine Oxidase Inhibitors (MAOI) |  |
 | --- | --- |
 | Clinical Impact | Concomitant use of MAOIs and CNS stimulants, including Ritalin and Ritalin-SR can cause hypertensive crisis. Potential outcomes include death, stroke, myocardial infarction, aortic dissection, ophthalmological complications, eclampsia, pulmonary edema, and renal failure [see Contraindications (4)]. |
-| Intervention | Concomitant use of Ritalin or Ritalin-SR with monoamine oxidase inhibitors (MAOIs) or within 14 days after discontinuing MAOI treatment is contraindicated. |
+| Intervention | Concomitant use of Ritalin or Ritalin-SR with MAOIs or within 14 days after discontinuing MAOI treatment is contraindicated. |
 | Examples | selegiline, tranylcypromine, isocarboxazid, phenelzine, linezolid, methylene blue |
 | Antihypertensive Drugs |  |
 | Clinical Impact | Ritalin and Ritalin-SR may decrease the effectiveness of drugs used to treat hypertension [see Warnings and Precautions (5.3)]. |

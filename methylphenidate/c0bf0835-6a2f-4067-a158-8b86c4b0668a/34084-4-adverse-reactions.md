@@ -9,7 +9,7 @@ The following are discussed in more detail in other sections of the labeling:
 - Blood Pressure and Heart Rate Increases [see Warnings and Precautions (5.3)]
 - Psychiatric Adverse Reactions [see Warnings and Precautions (5.4)]
 - Priapism [see Warnings and Precautions (5.5)]
-- Peripheral Vasculopathy, including Raynaud’s Phenomenon [see Warnings and Precautions (5.6)]
+- Peripheral Vasculopathy, Including Raynaud’s Phenomenon [see Warnings and Precautions (5.6)]
 - Long-term Suppression of Growth [see Warnings and Precautions (5.7)]
 
 The following adverse reactions associated with the use of all Ritalin, Ritalin-SR, and other methylphenidate products were identified in clinical trials, spontaneous reports, and literature.
@@ -21,13 +21,13 @@ Infections and Infestations: nasopharyngitis
 
 Blood and the Lymphatic System Disorders: leukopenia, thrombocytopenia, anemia
 
-Immune System Disorders: hypersensitivity reactions, including angioedema and anaphylaxis
+Immune System Disorders: hypersensitivity reactions, including angioedema, and anaphylaxis
 
 Metabolism and Nutrition Disorders: decreased appetite, reduced weight gain, and suppression of growth during prolonged use in pediatric patients
 
 Psychiatric Disorders: insomnia, anxiety, restlessness, agitation, psychosis (sometimes with visual and tactile hallucinations), depressed mood
 
-Nervous System Disorders: headache, dizziness, tremor, dyskinesia including choreoatheetoid movements, drowsiness, convulsions, cerebrovascular disorders (including vasculitis, cerebral hemorrhages and cerebrovascular accidents), serotonin syndrome in combination with serotonergic drugs
+Nervous System Disorders: headache, dizziness, tremor, dyskinesia, including choreoatheetoid movements, drowsiness, convulsions, cerebrovascular disorders (including vasculitis, cerebral hemorrhages and cerebrovascular accidents), serotonin syndrome in combination with serotonergic drugs
 
 Eye Disorders: blurred vision, difficulties in visual accommodation
 
@@ -51,9 +51,9 @@ The list below shows adverse reactions not listed for Ritalin and Ritalin-SR tha
 
 Blood and Lymphatic Disorders: pancytopenia
 
-Immune System Disorders: hypersensitivity reactions such as auricular swelling, bullous conditions, eruptions, exanthemas
+Immune System Disorders: hypersensitivity reactions, such as auricular swelling, bullous conditions, eruptions, exanthemas
 
-Psychiatric Disorders: affect lability, mania, disorientation and libido changes
+Psychiatric Disorders: affect lability, mania, disorientation, and libido changes
 
 Nervous System Disorders: migraine
 

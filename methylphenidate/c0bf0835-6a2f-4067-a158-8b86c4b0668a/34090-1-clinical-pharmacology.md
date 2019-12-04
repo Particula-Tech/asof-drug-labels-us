@@ -9,16 +9,16 @@ The mode of therapeutic action in ADHD and narcolepsy is not known.
 
 Methylphenidate is a racemic mixture comprised of the d- and l-threo enantiomers.
 The d-threo enantiomer is more pharmacologically active than the l-threo enantiomer.
-Methylphenidate is thought to block the reuptake of norepinephrine and dopamine into the presynaptic neuron and increase the release of these monoamines into the extraneuronal space.
+Methylphenidate blocks the reuptake of norepinephrine and dopamine into the presynaptic neuron and increase the release of these monoamines into the extraneuronal space.
 
 Cardiac Electrophysiology
 
 A formal QT study has not been conducted in patients taking Ritalin and Ritalin-SR.
 
 The effect of dexmethylphenidate, the pharmacologically active d-enantiomer of Ritalin, on the QT interval was evaluated in a double-blind, placebo- and open-label active (moxifloxacin)-controlled study following single doses of dexmethlyphenidate XR 40 mg (maximum recommended adult total daily dosage) in 75 healthy volunteers.
-Electrocardiograms (ECGs) were collected up to 12 hours postdose.
+Electrocardiograms were collected up to 12 hours postdose.
 Frederica’s method for heart rate correction was employed to derive the corrected QT interval (QTcF).
-The maximum mean prolongation of QTcF intervals was less than 5 ms, and the upper limit of the 90% confidence interval (CI) was below 10 ms for all time-matched comparisons versus placebo.
+The maximum mean prolongation of QTcF intervals was less than 5 ms, and the upper limit of the 90% confidence interval was below 10 ms for all time-matched comparisons versus placebo.
 This was below the threshold of clinical concern and there was no evident exposure response relationship.
 
 ## 12.3 Pharmacokinetics
@@ -32,7 +32,7 @@ An average of 67% of SR tablet dose was excreted in children as compared to 86% 
 
 Effect of Food
 
-After a high-fat meal, both area under the curve (AUC) (by 25 %) and Cmax (by 27 %) are higher.
+After a high-fat meal, both area under the curve (by 25 %) and Cmax (by 27 %) are higher.
 Time to Cmax (Tmax) is faster after a high-fat meal (median Tmax: 2.5 hours) as compared to without food (median Tmax: 3 hours).
 
 Distribution

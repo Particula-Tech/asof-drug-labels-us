@@ -14,4 +14,4 @@ Its molecular weight is 269.77 g/mol.
 
 Ritalin tablets contains the following inactive ingredients: D&C Yellow No. 10 (5-mg and 20-mg tablets), FD&C Green No. 3 (10-mg tablets), lactose, magnesium stearate, polyethylene glycol, starch (5-mg and 10-mg tablets), sucrose, talc, and tragacanth (20-mg tablets).
 
-Ritalin-SR extended-release tablets contains the following inactive ingredients: Cetostearyl alcohol, lactose, magnesium stearate, mineral oil, povidone, titanium dioxide, and zein.
+Ritalin-SR extended-release tablets contains the following inactive ingredients: cetostearyl alcohol, lactose, magnesium stearate, mineral oil, povidone, titanium dioxide, and zein.
