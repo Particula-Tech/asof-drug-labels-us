@@ -3,7 +3,7 @@
 The following adverse reactions are described in more detail in other sections of the prescribing information:
 
 - Hypersensitivity reactions to sertraline [See Contraindications (4)]
-- QT prolongation and ventricular arrhythmias when taken with pimozide [See Contraindications (4)]
+- QTc prolongation and ventricular arrhythmias when taken with pimozide [See Contraindications (4), Clinical Pharmacology (12.2)]
 - Suicidal thoughts and behaviors [See Warnings and Precautions (5.1)]
 - Serotonin syndrome [See Contraindications (4), Warnings and Precautions (5.2), Drug Interactions (7.1)]
 - Increased risk of bleeding [See Warnings and Precautions (5.3)]
@@ -146,14 +146,14 @@ Skin and subcutaneous tissue disorders - alopecia; cold sweat; dermatitis; derma
 
 Vascular disorders - hemorrhage, hypertension, vasodilation
 
-## 6.2 Postmarketing Experience
+## 6.2 Post-marketing Experience
 
 The following adverse reactions have been identified during postapproval use of sertraline.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 Bleeding or clotting disorders - increased coagulation times (altered platelet function)
 
-Cardiac disorders – AV block, bradycardia, atrial arrhythmias, QT-interval prolongation, ventricular tachycardia (including Torsade de Pointes)
+Cardiac disorders – AV block, bradycardia, atrial arrhythmias, QTc-interval prolongation, ventricular tachycardia (including Torsade de Pointes) [See Clinical Pharmacology (12.2)]
 
 Endocrine disorders -gynecomastia, hyperprolactinemia, menstrual irregularities, SIADH
 
@@ -161,11 +161,11 @@ Eye disorders - blindness, optic neuritis, cataract
 
 Hepatobiliary disorders – severe liver events (including hepatitis, jaundice, liver failure with some fatal outcomes), pancreatitis
 
-Hemic and Lymphatic – agranulocytosis, aplastic anemia and pancytopenia, leukopenia, thrombocytopenia, lupus-like syndrome, serum sickness
+Hemic and lymphatic disorders – agranulocytosis, aplastic anemia and pancytopenia, leukopenia, thrombocytopenia, lupus-like syndrome, serum sickness
 
 Immune system disorders - angioedema
 
-Metabolism and nutrition disorders – hyponatremia, hyperglycemia Musculoskeletal and connective tissue disorders - trismus Nervous system disorders -serotonin syndrome, extrapyramidal symptoms (including akathisia and dystonia), oculogyric crisis
+Metabolism and nutrition disorders – hyponatremia, hyperglycemia Musculoskeletal and connective tissue disorders - rhabdomyolysis, trismus Nervous system disorders -serotonin syndrome, extrapyramidal symptoms (including akathisia and dystonia), oculogyric crisis
 
 Psychiatric disorders – psychosis, enuresis, paroniria
 
