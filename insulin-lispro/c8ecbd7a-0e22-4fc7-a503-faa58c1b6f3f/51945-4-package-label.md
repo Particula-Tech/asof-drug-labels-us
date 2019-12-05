@@ -28,11 +28,9 @@ insulin lispro injection
 
 For Single Patient Use Only
 
-HP-8799
+Dispense in this sealed carton.
 
 U-100
-
-Rx only
 
 100 units per mL
 
@@ -41,6 +39,8 @@ Needles not included
 This device is recommended for use with Becton, Dickinson and Company's insulin pen needles
 
 prefilled insulin delivery device
+
+Rx only
 
 5 x 3 mL Prefilled Pens
 
@@ -74,6 +74,8 @@ Lilly
 
 PACKAGE CARTON – HUMALOG U200 KwikPen 2ct
 
+Dispense in this sealed carton.
+
 NDC 0002-7712-27
 
 Humalog KwikPen®
@@ -102,6 +104,8 @@ DO NOT TRANSFER TO A SYRINGE SEVERE OVERDOSE CAN RESULT
 
 PACKAGE CARTON – HUMALOG Junior KwikPen
 
+Dispense in this sealed carton.
+
 NDC 0002-7714-59
 
 Humalog®
@@ -129,3 +133,37 @@ NEEDLES NOT INCLUDED
 This device is recommended for use with Becton, Dickinson and Company's insulin pen needles.
 
 Lilly
+
+PACKAGE CARTON – HUMALOG Tempo Pen
+
+NDC 0002-8213-05
+
+Humalog®
+
+Tempo PenTM
+
+insulin lispro injection
+
+For Single Patient Use Only
+
+HP-8213
+
+Dispense in this sealed carton.
+
+U-100
+
+100 units per mL
+
+Needles not included
+
+This device is recommended for use with Becton, Dickinson and Company's insulin pen needles
+
+For subcutaneous use only.
+
+prefilled insulin delivery device
+
+Rx only
+
+5 x 3 mL Prefilled Pens
+
+Read Insulin Delivery Device Instructions for Use

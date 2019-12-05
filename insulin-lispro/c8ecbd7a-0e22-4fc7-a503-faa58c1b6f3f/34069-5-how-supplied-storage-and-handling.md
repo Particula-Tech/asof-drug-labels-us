@@ -2,28 +2,35 @@
 
 ## 16.1 How Supplied
 
-HUMALOG injection is a clear and colorless solution available as:
+HUMALOG (insulin lispro injection) is a clear and colorless solution available as:
 
-| HUMALOG | Total Volume | Concentration | Total Units Available in Presentation | NDC Number | Max Dose per Injection | Dose Increment | Package Size |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| U-100 multiple-dose vial | 10 mL | 100 units/mL | 1000 units | 0002-7510-01 | n/a | n/a | 1 vial |
-| U-100 multiple-dose vial | 3 mL | 100 units/mL | 300 units | 0002-7510-17 | n/a | n/a | 1 vial |
-| U-100 single-patient-use cartridge1 | 3 mL | 100 units/mL | 300 units | 0002-7516-59 | n/a | n/a | 5 cartridges |
-| U-100 single-patient-use KwikPen | 3 mL | 100 units/mL | 300 units | 0002-8799-59 | 60 units | 1 unit | 5 pens |
-| U-100 single-patient-use Junior KwikPen | 3 mL | 100 units/mL | 300 units | 0002-7714-59 | 30 units | 0.5 units | 5 pens |
-| U-200 single-patient-use KwikPen | 3 mL | 200 units/mL | 600 units | 0002-7712-27 | 60 units | 1 unit | 2 pens |
+| HUMALOG | Total Volume | Concentration | Total Units Available in Presentation | NDC Number | Package Size |
+| --- | --- | --- | --- | --- | --- |
+| U-100 multiple-dose vial | 10 mL | 100 units/mL | 1000 units | 0002-7510-01 | 1 vial |
+| U-100 multiple-dose vial | 3 mL | 100 units/mL | 300 units | 0002-7510-17 | 1 vial |
+| U-100 single-patient-use cartridge1 | 3 mL | 100 units/mL | 300 units | 0002-7516-59 | 5 cartridges |
+| U-100 single-patient-use KwikPen | 3 mL | 100 units/mL | 300 units | 0002-8799-59 | 5 pens |
+| U-100 single-patient-use Tempo Pena | 3 mL | 100 units/mL | 300 units | 0002-8213-05 | 5 pens |
+| U-100 single-patient-use Junior KwikPen | 3 mL | 100 units/mL | 300 units | 0002-7714-59 | 5 pens |
+| U-200 single-patient-use KwikPen | 3 mL | 200 units/mL | 600 units | 0002-7712-27 | 2 pens |
+| a Tempo Pen contains a component that allows for data connectivity when used with a compatible transmitter. |  |  |  |  |  |
 
-Each prefilled KwikPen, cartridge, and reusable pen compatible with Lilly 3 mL cartridges is for use by a single patient.
-HUMALOG KwikPens, cartridges, and reusable pens compatible with Lilly 3 mL cartridges must never be shared between patients, even if the needle is changed.
+The U-100 KwikPen, U-100 Tempo Pen, and U-200 KwikPen dial in 1 unit increments.
+The U-100 Junior KwikPen dials in 0.5 unit increments.
+
+Each prefilled pen, cartridge, and reusable pen compatible with Lilly 3 mL cartridges is for single-patient-use only.
+HUMALOG prefilled pens, cartridges, and reusable pens compatible with Lilly 3 mL cartridges must never be shared between patients, even if the needle is changed.
 Patients using HUMALOG vials must never share needles or syringes with another person.
 
 ## 16.2 Storage and Handling
+
+Dispense in the original sealed carton with the enclosed Instructions for Use.
 
 Do not use after the expiration date.
 
 Unopened HUMALOG should be stored in a refrigerator (36° to 46°F [2° to 8°C]), but not in the freezer.
 Do not use HUMALOG if it has been frozen.
-In-use HUMALOG vials, cartridges, and HUMALOG KwikPen should be stored at room temperature, below 86°F (30°C) and must be used within 28 days or be discarded, even if they still contain HUMALOG.
+In-use HUMALOG vials, cartridges, and HUMALOG prefilled pens should be stored at room temperature, below 86°F (30°C) and must be used within 28 days or be discarded, even if they still contain HUMALOG.
 Protect from direct heat and light.
 See table below:
 
@@ -34,6 +41,7 @@ See table below:
 | 3 mL multiple-dose vial | 28 days | Until expiration date | 28 days, refrigerated/room temperature. |
 | 3 mL single-patient-use cartridge | 28 days | Until expiration date | 28 days, Do not refrigerate. |
 | 3 mL single-patient-use Humalog KwikPen | 28 days | Until expiration date | 28 days, Do not refrigerate. |
+| 3 mL single-patient-use Humalog Tempo Pen | 28 days | Until expiration date | 28 days, Do not refrigerate. |
 | 3 mL single-patient-use Humalog Junior KwikPen | 28 days | Until expiration date | 28 days, Do not refrigerate. |
 | HUMALOG U-200 |  |  |  |
 | 3 mL single-patient use Humalog KwikPen | 28 days | Until expiration date | 28 days, Do not refrigerate. |

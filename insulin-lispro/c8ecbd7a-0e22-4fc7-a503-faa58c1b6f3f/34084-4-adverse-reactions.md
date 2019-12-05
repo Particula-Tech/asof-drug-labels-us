@@ -109,4 +109,7 @@ HUMALOG U-100
 The following additional adverse reactions have been identified during post-approval use of HUMALOG.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Medication errors in which other insulins have been accidentally substituted for HUMALOG have been identified during postapproval use [see Patient Counseling Information (17.4)].
+Medication errors in which other insulins have been accidentally substituted for HUMALOG have been identified during post-approval use [see Patient Counseling Information (17)].
+
+Localized cutaneous amyloidosis at the injection site has occurred.
+Hyperglycemia has been reported with repeated insulin injections into areas of localized cutaneous amyloidosis; hypoglycemia has been reported with a sudden change to an unaffected injection site.

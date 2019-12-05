@@ -1,15 +1,19 @@
 # 5 WARNINGS AND PRECAUTIONS
 
-## 5.1 Never Share a HUMALOG KwikPen, Cartridge, Reusable Pen Compatible with Lilly 3 mL Cartridges1, or Syringe Between Patients
+## 5.1 Never Share a HUMALOG Prefilled Pen, Cartridge, Reusable Pen Compatible with Lilly 3 mL Cartridges1, or Syringe Between Patients
 
-HUMALOG KwikPens, cartridges, and reusable pens compatible with Lilly 3 mL cartridges must never be shared between patients, even if the needle is changed.
+HUMALOG prefilled pens, cartridges, and reusable pens compatible with Lilly 3 mL cartridges must never be shared between patients, even if the needle is changed.
 Patients using HUMALOG vials must never share needles or syringes with another person.
 Sharing poses a risk for transmission of blood-borne pathogens.
 
-## 5.2 Hyper- or Hypoglycemia with Changes in Insulin Regimen
+## 5.2 Hyperglycemia or Hypoglycemia with Changes in Insulin Regimen
 
-Changes in insulin strength, manufacturer, type, or method of administration may affect glycemic control and predispose to hypoglycemia [see Warnings and Precautions (5.3)] or hyperglycemia.
-These changes should be made cautiously and under close medical supervision and the frequency of blood glucose monitoring should be increased.
+Changes in an insulin regimen (e.g., insulin strength, manufacturer, type, injection site or method of administration) may affect glycemic control and predispose to hypoglycemia [see Warnings and Precautions (5.3)] or hyperglycemia.
+Repeated insulin injections into areas of lipodystrophy or localized cutaneous amyloidosis have been reported to result in hyperglycemia; and a sudden change in the injection site (to an unaffected area) has been reported to result in hypoglycemia [see Adverse Reactions (6)].
+
+Make any changes to a patient's insulin regimen under close medical supervision with increased frequency of blood glucose monitoring.
+Advise patients who have repeatedly injected into areas of lipodystrophy or localized cutaneous amyloidosis to change the injection site to unaffected areas and closely monitor for hypoglycemia.
+For patients with type 2 diabetes, dosage adjustments of concomitant antidiabetic products may be needed.
 
 ## 5.3 Hypoglycemia
 
@@ -65,4 +69,4 @@ If heart failure develops, it should be managed according to current standards o
 Malfunction of the insulin pump or insulin infusion set or insulin degradation can rapidly lead to hyperglycemia and ketoacidosis.
 Prompt identification and correction of the cause of hyperglycemia or ketosis is necessary.
 Interim subcutaneous injections with HUMALOG may be required.
-Patients using continuous subcutaneous insulin infusion pump therapy must be trained to administer insulin by injection and have alternate insulin therapy available in case of pump failure [see How Supplied/Storage and Handling (16.2) and Patient Counseling Information (17.6)].
+Patients using continuous subcutaneous insulin infusion pump therapy must be trained to administer insulin by injection and have alternate insulin therapy available in case of pump failure [see How Supplied/Storage and Handling (16.2) and Patient Counseling Information (17)].
