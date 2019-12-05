@@ -47,10 +47,10 @@ For the majority of women, oral contraceptives can be taken safely.
 However, there are some women who are at high risk of developing certain serious diseases that can be life-threatening or may cause temporary or permanent disability or death.
 The risks associated with taking oral contraceptives increase significantly if you:
 
-1. •smoke
-2. •have high blood pressure, diabetes, high cholesterol, or a tendency to form blood clots, or are obese
-3. •have or have had clotting disorders, heart attack, stroke, angina pectoris, cancer of the breast or sex organs, jaundice, malignant or benign liver tumors, or major surgery with prolonged immobilization
-4. •have headaches with neurological symptoms
+1. 1.smoke
+2. 2.have high blood pressure, diabetes, high cholesterol, or a tendency to form blood clots, or are obese
+3. 3.have or have had clotting disorders, heart attack, stroke, angina pectoris, cancer of the breast or sex organs, jaundice, malignant or benign liver tumors, or major surgery with prolonged immobilization
+4. 4.have headaches with neurological symptoms
 
 You should not take the pill if you suspect you are pregnant or have unexplained vaginal bleeding.
 
@@ -161,8 +161,8 @@ BEFORE YOU START TAKING LEVONORGESTREL AND ETHINYL ESTRADIOL
 4. 4.Pick the day label strip that starts with the first day of your period (this is the day you start bleeding or spotting, even if it is almost midnight when the bleeding begins).
 5. 5.Place the day label strip on the tablet blister card over the area that has the days of the week (starting with Sunday) imprinted in the plastic.
 
-1. 6.When it comes time to take levonorgestrel and ethinyl estradiol, you will take each pill until the blister card is empty.
-2. 7.BE SURE YOU HAVE READY AT ALL TIMES: ANOTHER KIND OF NONHORMONAL BIRTH CONTROL (such as condoms and/or spermicide) to use as a back-up in case you miss pills.
+1. 1.When it comes time to take levonorgestrel and ethinyl estradiol, you will take each pill until the blister card is empty.
+2. 2.BE SURE YOU HAVE READY AT ALL TIMES: ANOTHER KIND OF NONHORMONAL BIRTH CONTROL (such as condoms and/or spermicide) to use as a back-up in case you miss pills.
    AN EXTRA, FULL PILL PACK.
 
 WHEN TO START THE FIRST PACK OF LEVONORGESTREL AND ETHINYL ESTRADIOL

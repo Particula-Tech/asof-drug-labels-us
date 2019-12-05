@@ -42,24 +42,24 @@ Although cardiovascular disease risks may be increased with oral contraceptive u
 Some women should not use the pill.
 For example, you should not take the pill if you have any of the following conditions:
 
-1. •History of heart attack or stroke.
-2. •Blood clots in the legs (thrombophlebitis), lungs (pulmonary embolism), or eyes.
-3. •History of blood clots in the deep veins of your legs.
-4. •Hereditary or acquired blood clotting disorders
-5. •Chest pain (angina pectoris).
-6. •Known or suspected breast cancer or cancer of the lining of the uterus, cervix or vagina, or certain hormonally-sensitive cancers.
-7. •Unexplained vaginal bleeding (until a diagnosis is reached by your health care professional).
-8. •Liver tumor (benign or cancerous) or active liver disease.
-9. •Take any Hepatitis C drug combination containing ombitasvir/paritaprevir/ritonavir, with or without dasabuvir.
+1. 1.History of heart attack or stroke.
+2. 2.Blood clots in the legs (thrombophlebitis), lungs (pulmonary embolism), or eyes.
+3. 3.History of blood clots in the deep veins of your legs.
+4. 4.Hereditary or acquired blood clotting disorders
+5. 5.Chest pain (angina pectoris).
+6. 6.Known or suspected breast cancer or cancer of the lining of the uterus, cervix or vagina, or certain hormonally-sensitive cancers.
+7. 7.Unexplained vaginal bleeding (until a diagnosis is reached by your health care professional).
+8. 8.Liver tumor (benign or cancerous) or active liver disease.
+9. 9.Take any Hepatitis C drug combination containing ombitasvir/paritaprevir/ritonavir, with or without dasabuvir.
    This may increase levels of the liver enzyme "alanine aminotransferase" (ALT) in the blood.
-10. •Yellowing of the whites of the eyes or of the skin (jaundice) during pregnancy or during previous use of the pill.
-11. •Known or suspected pregnancy.
-12. •A need for surgery with prolonged bedrest.
-13. •Heart valve or heart rhythm disorders that may be associated with formation of blood clots.
-14. •Diabetes affecting your circulation.
-15. •Headaches with neurological symptoms such as aura.
-16. •Uncontrolled high blood pressure.
-17. •Allergy or hypersensitivity to any of the components of levonorgestrel and ethinyl estradiol tablets
+10. 10.Yellowing of the whites of the eyes or of the skin (jaundice) during pregnancy or during previous use of the pill.
+11. 11.Known or suspected pregnancy.
+12. 12.A need for surgery with prolonged bedrest.
+13. 13.Heart valve or heart rhythm disorders that may be associated with formation of blood clots.
+14. 14.Diabetes affecting your circulation.
+15. 15.Headaches with neurological symptoms such as aura.
+16. 16.Uncontrolled high blood pressure.
+17. 17.Allergy or hypersensitivity to any of the components of levonorgestrel and ethinyl estradiol tablets
 
 Tell your health care professional if you have had any of these conditions.
 Your health care professional can recommend another method of birth control.
@@ -68,15 +68,15 @@ Your health care professional can recommend another method of birth control.
 
 Tell your health care professional if you or any family member has ever had:
 
-1. •Breast nodules, fibrocystic disease of the breast, an abnormal breast X-ray or mammogram.
-2. •Diabetes.
-3. •Elevated cholesterol or triglycerides.
-4. •High blood pressure.
-5. •A tendency to form blood clots.
-6. •Migraine or other headaches or epilepsy.
-7. •Depression.
-8. •Gallbladder, liver, heart, or kidney disease.
-9. •History of scanty or irregular menstrual periods.
+1. 1.Breast nodules, fibrocystic disease of the breast, an abnormal breast X-ray or mammogram.
+2. 2.Diabetes.
+3. 3.Elevated cholesterol or triglycerides.
+4. 4.High blood pressure.
+5. 5.A tendency to form blood clots.
+6. 6.Migraine or other headaches or epilepsy.
+7. 7.Depression.
+8. 8.Gallbladder, liver, heart, or kidney disease.
+9. 9.History of scanty or irregular menstrual periods.
 
 Women with any of these conditions should be checked often by their health care professional if they choose to use oral contraceptives.
 Also, be sure to inform your health care professional if you smoke or are on any medications.
@@ -198,15 +198,15 @@ Older women, as all women, who take oral contraceptives, should take an oral con
 
 If any of these adverse effects occur while you are taking oral contraceptives, call your health care professional immediately:
 
-1. •Sharp chest pain, coughing of blood, or sudden shortness of breath (indicating a possible clot in the lung).
-2. •Pain in the calf (indicating a possible clot in the leg).
-3. •Crushing chest pain or heaviness in the chest (indicating a possible heart attack).
-4. •Sudden severe headache or vomiting, dizziness or fainting, disturbances of vision or speech, weakness, or numbness in an arm or leg (indicating a possible stroke).
-5. •Sudden partial or complete loss of vision (indicating a possible clot in the eye).
-6. •Breast lumps (indicating possible breast cancer or fibrocystic disease of the breast; ask your health care professional to show you how to examine your breasts).
-7. •Severe pain or tenderness in the stomach area (indicating a possibly ruptured liver tumor).
-8. •Difficulty in sleeping, weakness, lack of energy, fatigue, or change in mood (possibly indicating severe depression).
-9. •Jaundice or a yellowing of the skin or eyeballs, accompanied frequently by fever, fatigue, loss of appetite, dark-colored urine, or light-colored bowel movements (indicating possible liver problems).
+1. 1.Sharp chest pain, coughing of blood, or sudden shortness of breath (indicating a possible clot in the lung).
+2. 2.Pain in the calf (indicating a possible clot in the leg).
+3. 3.Crushing chest pain or heaviness in the chest (indicating a possible heart attack).
+4. 4.Sudden severe headache or vomiting, dizziness or fainting, disturbances of vision or speech, weakness, or numbness in an arm or leg (indicating a possible stroke).
+5. 5.Sudden partial or complete loss of vision (indicating a possible clot in the eye).
+6. 6.Breast lumps (indicating possible breast cancer or fibrocystic disease of the breast; ask your health care professional to show you how to examine your breasts).
+7. 7.Severe pain or tenderness in the stomach area (indicating a possibly ruptured liver tumor).
+8. 8.Difficulty in sleeping, weakness, lack of energy, fatigue, or change in mood (possibly indicating severe depression).
+9. 9.Jaundice or a yellowing of the skin or eyeballs, accompanied frequently by fever, fatigue, loss of appetite, dark-colored urine, or light-colored bowel movements (indicating possible liver problems).
 
 ## SIDE EFFECTS OF ORAL CONTRACEPTIVES
 
@@ -351,8 +351,8 @@ Before You Start Taking levonorgestrel and ethinyl estradiol:
 4. 4.Pick the day label strip that starts with the first day of your period (this is the day you start bleeding or spotting, even if it is almost midnight when the bleeding begins).
 5. 5.Place the day label strip on the tablet blister card over the area that has the days of the week (starting with Sunday) imprinted in the plastic.
 
-1. 6.When it comes time to take levonorgestrel and ethinyl estradiol, you will take each pill until the blister card is empty.
-2. 7.BE SURE YOU HAVE READY AT ALL TIMES: ANOTHER KIND OF NONHORMONAL BIRTH CONTROL (such as condoms and/or spermicide) to use as a back-up in case you miss pills.
+1. 1.When it comes time to take levonorgestrel and ethinyl estradiol, you will take each pill until the blister card is empty.
+2. 2.BE SURE YOU HAVE READY AT ALL TIMES: ANOTHER KIND OF NONHORMONAL BIRTH CONTROL (such as condoms and/or spermicide) to use as a back-up in case you miss pills.
    AN EXTRA, FULL PILL PACK.
 
 ## WHEN TO START THE FIRST PACK OF LEVONORGESTREL AND ETHINYL ESTRADIOL
@@ -436,14 +436,14 @@ This drug has been prescribed specifically for you; do not give it to others who
 In addition to preventing pregnancy, some information suggests that the use of oral contraceptives provide certain other benefits.
 The benefits are:
 
-1. •Decreased blood loss, and less iron may be lost.
+1. 1.Decreased blood loss, and less iron may be lost.
    Therefore, anemia due to iron deficiency is less likely to occur.
-2. •Pain or other cycle-related symptoms may occur less frequently.
-3. •Ovarian cysts may occur less frequently.
-4. •Ectopic (tubal) pregnancy may occur less frequently.
-5. •Noncancerous cysts or lumps in the breast may occur less frequently.
-6. •Acute pelvic inflammatory disease may occur less frequently.
-7. •Oral contraceptive use may provide some protection against developing two forms of cancer: cancer of the ovaries and cancer of the lining of the uterus.
+2. 2.Pain or other cycle-related symptoms may occur less frequently.
+3. 3.Ovarian cysts may occur less frequently.
+4. 4.Ectopic (tubal) pregnancy may occur less frequently.
+5. 5.Noncancerous cysts or lumps in the breast may occur less frequently.
+6. 6.Acute pelvic inflammatory disease may occur less frequently.
+7. 7.Oral contraceptive use may provide some protection against developing two forms of cancer: cancer of the ovaries and cancer of the lining of the uterus.
 
 If you want more information about birth-control pills, ask your health care professional or pharmacist.
 They have a more technical leaflet called the Professional Labeling which you may wish to read.
