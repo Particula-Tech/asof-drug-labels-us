@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA209356"
+  ],
+  "inn": "sucralfate",
+  "labeler": "Amneal Pharmaceuticals LLC",
+  "package_ndcs": [
+    "65162-062-05"
+  ],
+  "products": [
+    {
+      "form": "SUSPENSION",
+      "generic": "sucralfate oral",
+      "name": "Sucralfate"
+    }
+  ],
+  "setid": "4350b771-76a9-4e00-93f0-a18c71288f83",
+  "source": "dailymed"
+}
