@@ -231,7 +231,7 @@ Table 14: Treatment-Emergent Adverse Reactions: Incidence in Short-Term, Placebo
 
 For specific information about the adverse reactions observed with lithium or valproate, refer to the Adverse Reactions section of the package inserts for these other products.
 
-## 6.2 Extrapyramidal Symptoms
+Extrapyramidal Symptoms
 
 The following table enumerates the percentage of patients with treatment-emergent extrapyramidal symptoms as assessed by categorical analyses of formal rating scales during acute therapy in a controlled clinical trial comparing oral olanzapine at 3 fixed doses with placebo in the treatment of schizophrenia in a 6-week trial.
 
@@ -276,7 +276,7 @@ Dystonic symptoms include: spasm of the neck muscles, sometimes progressing to t
 While these symptoms can occur at low doses, the frequency and severity are greater with high potency and at higher doses of first generation antipsychotic drugs.
 In general, an elevated risk of acute dystonia may be observed in males and younger age groups receiving antipsychotics; however, events of dystonia have been reported infrequently (<1%) with olanzapine use.
 
-## 6.3 Other Adverse Reactions
+Other Adverse Reactions
 
 Other Adverse Reactions Observed During the Clinical Trial Evaluation of Oral Olanzapine
 
@@ -363,7 +363,7 @@ Table 22: Treatment-Emergent Adverse Reactions of ≥2% Incidence among Adolesce
 | Arthralgia | 2 | 0 |
 | Musculoskeletal stiffness | 2 | 0 |
 
-### Vital Signs and Laboratory Studies
+Vital Signs and Laboratory Studies
 
 Vital Sign Changes — Oral olanzapine was associated with orthostatic hypotension and tachycardia in clinical trials [see Warnings and Precautions (5)].
 
@@ -397,7 +397,7 @@ ECG Changes — In pooled studies of adults as well as pooled studies of adolesc
 Olanzapine use was associated with a mean increase in heart rate compared to placebo (adults: +2.4 beats per minute vs no change with placebo; adolescents: +6.3 beats per minute vs -5.1 beats per minute with placebo).
 This increase in heart rate may be related to olanzapine’s potential for inducing orthostatic changes [see Warnings and Precautions (5.7)].
 
-## 6.4 Postmarketing Experience
+## 6.2 Postmarketing Experience
 
 The following adverse reactions have been identified during post-approval use of olanzapine.
 Because these reactions are reported voluntarily from a population of uncertain size, it is difficult to reliably estimate their frequency or evaluate a causal relationship to drug exposure.

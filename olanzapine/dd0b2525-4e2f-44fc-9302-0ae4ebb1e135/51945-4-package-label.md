@@ -1,8 +1,4 @@
-# Package/Label Display Panel, Part 1 of 2
-
-# Package/Label Display Panel, Part 2 of 2
-
-## Olanzapine Orally Disintegrating Tablets USP 5 mg 30s Carton Text
+# Package/Label Display Panel
 
 NDC 0093-5245-65
 
@@ -22,11 +18,7 @@ Rx only
 
 TEVA
 
-# Package/Label Display Panel, Part 1 of 2
-
-# Package/Label Display Panel, Part 2 of 2
-
-## Olanzapine Orally Disintegrating Tablets USP 10 mg 30s Carton Text
+# Package/Label Display Panel
 
 NDC 0093-5246-65
 
@@ -46,11 +38,7 @@ Rx only
 
 TEVA
 
-# Package/Label Display Panel, Part 1 of 2
-
-# Package/Label Display Panel, Part 2 of 2
-
-## Olanzapine Orally Disintegrating Tablets USP 15 mg 30s Carton Text
+# Package/Label Display Panel
 
 NDC 0093-5247-65
 
@@ -70,11 +58,7 @@ Rx only
 
 TEVA
 
-# Package/Label Display Panel, Part 1 of 2
-
-# Package/Label Display Panel, Part 2 of 2
-
-## Olanzapine Orally Disintegrating Tablets USP 20 mg 30s Carton Text
+# Package/Label Display Panel
 
 NDC 0093-5248-65
 

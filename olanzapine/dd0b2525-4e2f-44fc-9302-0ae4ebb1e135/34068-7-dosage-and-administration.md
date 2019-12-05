@@ -17,7 +17,7 @@ Dosing in Special Populations — The recommended starting dose is 5 mg in patie
 When indicated, dose escalation should be performed with caution in these patients.
 
 Maintenance Treatment — The effectiveness of oral olanzapine, 10 mg/day to 20 mg/day, in maintaining treatment response in schizophrenic patients who had been stable on olanzapine for approximately 8 weeks and were then followed for relapse has been demonstrated in a placebo-controlled trial [see Clinical Studies (14.1)].
-The physician who elects to use olanzapine for extended periods should periodically reevaluate the long-term usefulness of the drug for the individual patient.
+The healthcare provider who elects to use olanzapine for extended periods should periodically reevaluate the long-term usefulness of the drug for the individual patient.
 
 Adolescents
 
@@ -43,7 +43,7 @@ Short-term (3 to 4 weeks) antimanic efficacy was demonstrated in a dose range of
 The safety of doses above 20 mg/day has not been evaluated in clinical trials [see Clinical Studies (14.2)].
 
 Maintenance Monotherapy — The benefit of maintaining bipolar I patients on monotherapy with olanzapine orally disintegrating tablets at a dose of 5 to 20 mg/day, after achieving a responder status for an average duration of 2 weeks, was demonstrated in a controlled trial [see Clinical Studies (14.2)].
-The physician who elects to use olanzapine orally disintegrating tablets for extended periods should periodically reevaluate the long-term usefulness of the drug for the individual patient.
+The healthcare provider who elects to use olanzapine orally disintegrating tablets for extended periods should periodically reevaluate the long-term usefulness of the drug for the individual patient.
 
 Dose Selection for Adjunctive Treatment — When administered as adjunctive treatment to lithium or valproate, olanzapine orally disintegrating tablets dosing should generally begin with 10 mg once-a-day without regard to meals.
 
@@ -99,7 +99,7 @@ Table 1: Approximate Dose Correspondence Between Symbyax* and the Combination of
 | 3 mg olanzapine/25 mg fluoxetine 6 mg olanzapine/25 mg fluoxetine 12 mg olanzapine/25 mg fluoxetine 6 mg olanzapine/50 mg fluoxetine 12 mg olanzapine/50 mg fluoxetine | 2.5 5 10+2.5 5 10+2.5 | 20 20 20 40+10 40+10 |
 
 While there is no body of evidence to answer the question of how long a patient treated with olanzapine and fluoxetine in combination should remain on it, it is generally accepted that bipolar I disorder, including the depressive episodes associated with bipolar I disorder, is a chronic illness requiring chronic treatment.
-The physician should periodically reexamine the need for continued pharmacotherapy.
+The healthcare provider should periodically reexamine the need for continued pharmacotherapy.
 
 Olanzapine monotherapy is not indicated for the treatment of depressive episodes associated with bipolar I disorder.
 
@@ -117,7 +117,7 @@ Table 1 above demonstrates the appropriate individual component doses of olanzap
 Dosage adjustments, if indicated, should be made with the individual components according to efficacy and tolerability.
 
 While there is no body of evidence to answer the question of how long a patient treated with olanzapine orally disintegrating tablets and fluoxetine in combination should remain on it, it is generally accepted that treatment resistant depression (major depressive disorder in adult patients who do not respond to 2 separate trials of different antidepressants of adequate dose and duration in the current episode) is a chronic illness requiring chronic treatment.
-The physician should periodically reexamine the need for continued pharmacotherapy.
+The healthcare provider should periodically reexamine the need for continued pharmacotherapy.
 
 Safety of co-administration of doses above 18 mg olanzapine with 75 mg fluoxetine has not been evaluated in clinical studies.
 
