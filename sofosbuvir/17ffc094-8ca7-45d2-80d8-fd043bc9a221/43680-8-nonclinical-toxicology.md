@@ -4,16 +4,16 @@
 
 Carcinogenesis and Mutagenesis
 
-Sofosbuvir: Sofosbuvir was not genotoxic in a battery of in vitro or in vivo assays, including bacterial mutagenicity, chromosome aberration using human peripheral blood lymphocytes and in vivo mouse micronucleus assays.
+Sofosbuvir: Sofosbuvir was not genotoxic in a battery of in vitro or in vivo assays, including bacterial mutagenicity, chromosome aberration using human peripheral blood lymphocytes, and in vivo mouse micronucleus assays.
 
 Sofosbuvir was not carcinogenic in a 2-year mouse study (up to 200 mg/kg/day in males and 600 mg/kg/day in females) and in a 2-year rat study (up to 750 mg/kg/day), resulting in exposures of the predominant circulating metabolite GS-331007 of approximately 4 and 17 times (in male and female mice, respectively) and 9 times (in rats) the exposure in humans at the recommended human dose (RHD).
 
 Velpatasvir: Velpatasvir was not genotoxic in a battery of in vitro or in vivo assays, including bacterial mutagenicity, chromosome aberration using human peripheral blood lymphocytes, and in vivo rat micronucleus assays.
 
-Velpatasvir was not carcinogenic in a 26-week transgenic mouse study (up to 1000 mg/kg/day).
-A carcinogenicity study in rats is ongoing.
+Velpatasvir was not carcinogenic in a 6-month rasH2 transgenic mouse study (up to 1000 mg/kg/day) and a 2-year rat carcinogenicity study (up to 200 mg/kg/day).
+The exposure of VEL in the 2-year rat study was approximately 6 times the exposure in humans at the RHD.
 
-Voxilaprevir: Voxilaprevir was not genotoxic in a battery of in vitro or in vivo assays, including bacterial mutagenicity, chromosome aberration using human peripheral blood lymphocytes and in vivo rat micronucleus assays.
+Voxilaprevir: Voxilaprevir was not genotoxic in a battery of in vitro or in vivo assays, including bacterial mutagenicity, chromosome aberration using human peripheral blood lymphocytes, and in vivo rat micronucleus assays.
 
 Carcinogenicity studies for voxilaprevir have not been conducted.
 

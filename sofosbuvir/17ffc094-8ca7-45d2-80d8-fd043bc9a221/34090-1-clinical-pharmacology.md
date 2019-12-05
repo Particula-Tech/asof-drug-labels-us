@@ -78,6 +78,11 @@ No clinically relevant differences in velpatasvir pharmacokinetics were observed
 The pharmacokinetics of voxilaprevir were studied with a single dose of 100 mg voxilaprevir in HCV-negative subjects with severe renal impairment (eGFR < 30 mL/min by Cockcroft-Gault).
 No clinically relevant differences in voxilaprevir pharmacokinetics were observed between healthy subjects and subjects with severe renal impairment.
 
+The pharmacokinetics of sofosbuvir, GS-331007, and velpatasvir were studied in HCV-infected subjects with ESRD requiring dialysis treated with once daily sofosbuvir/velpatasvir 400/100 mg for 12 weeks.
+The results were consistent with those observed in HCV negative subjects with ESRD requiring dialysis.
+The pharmacokinetics of voxilaprevir have not been studied in subjects with ESRD.
+However, voxilaprevir exposure following administration of VOSEVI is not expected to be meaningfully altered in HCV-infected subjects with ESRD requiring dialysis compared to subjects with normal renal function.
+
 Patients with Hepatic Impairment:
 
 The pharmacokinetics of sofosbuvir were studied following 7-day dosing of 400 mg sofosbuvir in HCV-infected subjects with moderate and severe hepatic impairment (Child-Pugh B and C). Relative to subjects with normal hepatic function, the sofosbuvir AUC0–24 was 126% and 143% higher in subjects with moderate and severe hepatic impairment, respectively, while the GS-331007 AUC0–24 was 18% and 9% higher, respectively.
@@ -99,7 +104,7 @@ In clinical pharmacology studies, both sofosbuvir and the primary circulating me
 Sofosbuvir, velpatasvir, and voxilaprevir are substrates of drug transporters P-gp and BCRP while GS-331007 is not.
 Voxilaprevir, and to a lesser extent velpatasvir, are also substrates of OATP1B1 and OATP1B3.
 In vitro, slow metabolic turnover of velpatasvir by CYP2B6, CYP2C8, and CYP3A4 and of voxilaprevir by CYP1A2, CYP2C8, and primarily CYP3A4 was observed.
-Inducers of P-gp and/or moderate to potent inducers of CYP2B6, CYP2C8, or CYP3A4 (e.g., St. John's wort, carbamazepine) may significantly decrease plasma concentrations of sofosbuvir, velpatasvir, and/or voxilaprevir leading to reduced therapeutic effect of VOSEVI [see Contraindications (4), Warnings and Precautions (5.4), and Drug Interactions (7.3)].
+Inducers of P-gp and/or moderate to strong inducers of CYP2B6, CYP2C8, or CYP3A4 (e.g., St. John's wort, carbamazepine) may significantly decrease plasma concentrations of sofosbuvir, velpatasvir, and/or voxilaprevir leading to reduced therapeutic effect of VOSEVI [see Contraindications (4), Warnings and Precautions (5.4), and Drug Interactions (7.3)].
 Coadministration with drugs that inhibit P-gp and/or BCRP may increase sofosbuvir, velpatasvir, and/or voxilaprevir plasma concentrations without increasing GS-331007 plasma concentration.
 Coadministration with drugs that inhibit OATP may increase voxilaprevir plasma concentrations.
 Drugs that inhibit CYP2B6, CYP2C8, or CYP3A4 may increase plasma concentration of velpatasvir and/or voxilaprevir.
@@ -110,22 +115,24 @@ Sofosbuvir and GS-331007 are not inhibitors or inducers of CYP or UGT1A1 enzymes
 Velpatasvir is an inhibitor of drug transporters P-gp, BCRP, OATP1B1, OATP1B3, and OATP2B1, and its involvement in drug interactions with these transporters is primarily limited to the process of absorption.
 At clinically relevant concentrations, velpatasvir is not an inhibitor of hepatic transporters OATP1A2 or OCT1, renal transporters OCT2, OAT1, OAT3 or MATE1, or CYP or UGT1A1 enzymes.
 
-Voxilaprevir is an inhibitor of drug transporters P-gp, BCRP, OATP1B1 and OATP1B3, and its involvement in drug interactions with these transporters is primarily limited to the process of absorption.
-At clinically relevant concentrations, voxilaprevir is not an inhibitor of hepatic transporters OCT1, renal transporters OCT2, OAT1, OAT3 or MATE1, or CYP or UGT1A1 enzymes.
+Voxilaprevir is an inhibitor of drug transporters P-gp, BCRP, OATP1B1, and OATP1B3, and its involvement in drug interactions with these transporters is primarily limited to the process of absorption.
+At clinically relevant concentrations, voxilaprevir is not an inhibitor of hepatic transporters OCT1, renal transporters OCT2, OAT1, OAT3, or MATE1, or CYP or UGT1A1 enzymes.
 
 The effects of coadministered drugs on the exposure of sofosbuvir, GS-331007, velpatasvir, and voxilaprevir are shown in Table 6.
 The effects of sofosbuvir, velpatasvir, voxilaprevir, sofosbuvir/velpatasvir, or VOSEVI on the exposure of coadministered drugs are shown in Table 7 [see Drug Interactions (7)].
 
 Table 6 Drug Interactions: Changes in Pharmacokinetic Parameters for Sofosbuvir, GS-331007, Velpatasvir, and Voxilaprevir in the Presence of the Coadministered DrugAll interaction studies conducted in healthy volunteers.
 
-| N | Component | Cmax | AUC | Cmin |  |  |  |  |
+| Component | Cmax | AUC | Cmin |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Coadministered Drug |  | Sofosbuvir (SOF)/ Velpatasvir (VEL)/Voxilaprevir (VOX) |  |  | Geometric Mean Ratio (90% CI) of Sofosbuvir, GS-331007, Velpatasvir, and Voxilaprevir PK With/Without Coadministered Drug No Effect=1.00 |  |  |  |
+| Coadministered Drug |  | Sofosbuvir (SOF)/ Velpatasvir (VEL)/Voxilaprevir (VOX) |  | N | Geometric Mean Ratio (90% CI) of Sofosbuvir, GS-331007, Velpatasvir, and Voxilaprevir PK With/Without Coadministered Drug No Effect=1.00 |  |  |  |
 | Drug | Dosage (mg) | Active Component | Dosage (mg) |  |  |  |  |  |
 | Atazanavir + ritonavir | 300 + 100 single dose | SOF/VEL/VOX | 400/100/100 single dose | 15 | sofosbuvir | 1.29 (1.09, 1.52) | 1.40 (1.25, 1.57) | NA |
 | GS-331007 | 1.05 (0.99, 1.12) | 1.25 (1.16, 1.36) | NA |  |  |  |  |  |
 | velpatasvir | 1.29 (1.07, 1.56) | 1.93 (1.58, 2.36) | NA |  |  |  |  |  |
 | voxilaprevir | 4.42 (3.65, 5.35) | 4.31 (3.76, 4.93) | NA |  |  |  |  |  |
+| Carbamazepine | 300 twice daily | SOF | 400 single dose | 24 | sofosbuvir | 0.52 (0.43, 0.62) | 0.52 (0.46, 0.59) | NA |
+| GS-331007 | 1.04 (0.97, 1.11) | 0.99 (0.94, 1.04) | NA |  |  |  |  |  |
 | Cyclosporine | 600 single dose | SOF | 400 single dose | 19 | sofosbuvir | 2.54 (1.87, 3.45) | 4.53 (3.26, 6.30) | NA |
 | GS-331007 | 0.60 (0.53, 0.69) | 1.04 (0.90, 1.20) | NA |  |  |  |  |  |
 | VEL | 100 single dose | 12 | velpatasvir | 1.56 (1.22, 2.01) | 2.03 (1.51, 2.71) | NA |  |  |
@@ -155,6 +162,8 @@ Table 6 Drug Interactions: Changes in Pharmacokinetic Parameters for Sofosbuvir,
 | GS-331007 | 1.19 (1.13, 1.26) | 0.99 (0.97, 1.01) | NA |  |  |  |  |  |
 | velpatasvir | 0.49 (0.43, 0.55) | 0.49 (0.43, 0.55) | NA |  |  |  |  |  |
 | voxilaprevir | 1.08 (0.96, 1.22) | 0.95 (0.88, 1.03) | NA |  |  |  |  |  |
+| Rifabutin | 300 once daily | SOF | 400 single dose | 20 | Sofosbuvir | 0.64 (0.53, 0.77) | 0.76 (0.63, 0.91) | NA |
+| GS-331007 | 1.15 (1.03, 1.27) | 1.03 (0.95, 1.12) | NA |  |  |  |  |  |
 | Rifampin | 600 once daily | SOF | 400 single dose | 17 | sofosbuvir | 0.23 (0.19, 0.29) | 0.28 (0.24, 0.32) | NA |
 | GS-331007 | 1.23 (1.14, 1.34) | 0.95 (0.88, 1.03) | NA |  |  |  |  |  |
 | VEL | 100 single dose | 12 | velpatasvir | 0.29 (0.23, 0.37) | 0.18 (0.15, 0.22) | NA |  |  |
@@ -170,9 +179,9 @@ No effect on the pharmacokinetic parameters of sofosbuvir, GS-331007, velpatasvi
 
 Table 7 Changes in Pharmacokinetic Parameters for Coadministered Drug in the Presence of Sofosbuvir, Velpatasvir, Voxilaprevir, or VOSEVIAll interaction studies conducted in healthy volunteers.
 
-| N | Cmax | AUC | Cmin |  |  |  |  |
+| Cmax | AUC | Cmin |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Coadministered Drug |  | Sofosbuvir (SOF)/ Velpatasvir (VEL)/Voxilaprevir (VOX) |  |  | Geometric Mean Ratio (90% CI) of Coadministered Drug PK With/Without Sofosbuvir, Velpatasvir, Voxilaprevir, or VOSEVI No Effect=1.00 |  |  |
+| Coadministered Drug |  | Sofosbuvir (SOF)/ Velpatasvir (VEL)/Voxilaprevir (VOX) |  | N | Geometric Mean Ratio (90% CI) of Coadministered Drug PK With/Without Sofosbuvir, Velpatasvir, Voxilaprevir, or VOSEVI No Effect=1.00 |  |  |
 | Drug | Dosage (mg) | Active Component | Dosage (mg) |  |  |  |  |
 | Atorvastatin | 40 single dose | SOF/VEL | 400/100 once daily | 26 | 1.68 (1.49, 1.89) | 1.54 (1.45, 1.64) | NA |
 | Cyclosporine | 600 single dose | SOF | 400 single dose | 19 | 1.06 (0.94, 1.18) | 0.98 (0.85, 1.14) | NA |
@@ -231,9 +240,9 @@ Resistance
 
 In Cell Culture
 
-HCV replicons with reduced susceptibility to sofosbuvir have been selected in cell culture for multiple genotypes including 1b, 2a, 2b, 3a, 4a, 5a and 6a.
+HCV replicons with reduced susceptibility to sofosbuvir have been selected in cell culture for multiple genotypes including 1b, 2a, 2b, 3a, 4a, 5a, and 6a.
 Reduced susceptibility to sofosbuvir was associated with the nucleotide analog NS5B polymerase inhibitor resistance substitution, S282T, in all replicon genotypes examined.
-An M289L substitution emerged along with the S282T substitution in genotypes 2a, 5 and 6 replicons.
+An M289L substitution emerged along with the S282T substitution in genotypes 2a, 5, and 6 replicons.
 Site-directed mutagenesis of the S282T substitution in replicons of genotype 1 to 6 conferred 2- to 18-fold reduced susceptibility to sofosbuvir.
 
 HCV genotype 1a, 1b, 2a, 3a, 4a, 5a, and 6a replicon variants with reduced susceptibility to velpatasvir were selected in cell culture.
@@ -259,7 +268,7 @@ Of the 2 genotype 1a virologic failure subjects, one subject with virologic brea
 
 Of the 4 genotype 3a virologic failure subjects, one subject had virus with emergent NS5A resistance-associated substitution E92K.
 Two subjects had virus with Y93H at relapse that was enriched from baseline.
-The remaining subject had virus with the NS5A resistance-associated substitution A30K at baseline and relapse and emergence of low-level Q41K (2%), V55A (3%) and R155M (1%) substitutions in NS3 at relapse.
+The remaining subject had virus with the NS5A resistance-associated substitution A30K at baseline and relapse and emergence of low-level Q41K (2%), V55A (3%), and R155M (1%) substitutions in NS3 at relapse.
 
 The genotype 4d subject who relapsed had virus with emergent NS5A resistance-associated substitution Y93H.
 
@@ -271,7 +280,7 @@ No NS3/4A protease inhibitor or nucleotide analog NS5B inhibitor substitutions w
 
 Persistence of Resistance-Associated Substitutions
 
-No data are available on the persistence of sofosbuvir, velpatasvir or voxilaprevir resistance-associated substitutions.
+No data are available on the persistence of sofosbuvir, velpatasvir, or voxilaprevir resistance-associated substitutions.
 NS5A inhibitor resistance-associated substitutions observed with administration of other NS5A inhibitors have been found to persist for longer than 1 year in most patients.
 The long-term clinical impact of the emergence or persistence of virus containing sofosbuvir, velpatasvir, or voxilaprevir resistance-associated substitutions is unknown.
 
@@ -285,11 +294,11 @@ Overall, the presence of baseline NS3/4A protease inhibitor, NS5A inhibitor, and
 For subjects treated with VOSEVI for 12 weeks, SVR12 rates in subjects with or without baseline NS3 and NS5A resistance-associated substitutions in the POLARIS-1 and POLARIS-4 trials were all greater than or equal to 97%.
 
 In POLARIS 1, which included NS5A inhibitor-experienced subjects, 79% (206/260) of subjects had baseline NS5A resistance-associated substitutions across all genotypes.
-The most prevalent NS5A resistance-associated substitutions were at primary resistance-associated amino acid positions 30 (97/206; 47%), 31 (58/206; 28%) and 93 (103/206; 50%).
+The most prevalent NS5A resistance-associated substitutions were at primary resistance-associated amino acid positions 30 (97/206; 47%), 31 (58/206; 28%), and 93 (103/206; 50%).
 Fifty-five percent (n=113/206) of the subjects had a single NS5A resistance-associated substitution, while 2 resistance-associated substitutions were detected in 65/206 subjects (32%) and 3 or more were detected in 28/206 subjects (14%).
 Overall prevalence of NS3/4A protease inhibitor resistance-associated substitutions across all genotypes was 15% (37/248).
 The most prevalent NS3 resistance-associated substitutions were at positions 36 (5/17; 29%) and 168 (7/17; 41%) in genotype 1a and position 56 in genotype 1b (8/12; 67%).
-Substitutions at positions 36, 56, or 168 were detected in 1–2 subjects for each genotype 2, 3 or 4.
+Substitutions at positions 36, 56, or 168 were detected in 1-2 subjects for each genotype 2, 3, or 4.
 
 In POLARIS-4, which included DAA-experienced subjects who had not received an NS5A inhibitor, 32% (57/177) of subjects who received 12 weeks of VOSEVI had baseline NS5A inhibitor resistance-associated substitutions.
 Most of the subjects had a single NS5A resistance-associated substitution (n=40; 70%).

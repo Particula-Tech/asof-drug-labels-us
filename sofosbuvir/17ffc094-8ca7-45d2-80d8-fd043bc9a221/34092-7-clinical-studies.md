@@ -8,8 +8,8 @@ Table 8 Trials Conducted With VOSEVI in DAA-Experienced Subjects With HCV Infect
 
 | Trial | Population | Study Arms and Comparator Groups (Number of Subjects Treated) |
 | --- | --- | --- |
-| POLARIS-1 | Genotype 1, 2, 3, 4, 5, or 6 NS5A inhibitor-experiencedIn clinical trials, prior NS5A inhibitor experience included daclatasvir, elbasvir, ledipasvir, ombitasvir, or velpatasvir., without cirrhosis or with compensated cirrhosis | VOSEVI 12 weeks (263) Placebo 12 weeks (152) |
-| POLARIS-4 | Genotype 1, 2, 3, or 4 DAA-experiencedIn clinical trials, prior treatment experience included sofosbuvir with or without any of the following: peginterferon alfa/ribavirin, ribavirin, HCV NS3/4A protease inhibitor (boceprevir, simeprevir, or telaprevir). who have not received an NS5A inhibitor, without cirrhosis or with compensated cirrhosis | VOSEVI 12 weeks (182) SOF/VEL 12 weeks (151) |
+| POLARIS-1Double-blind, placebo-controlled. (NCT02607735) | Genotype 1, 2, 3, 4, 5, or 6 NS5A inhibitor-experiencedIn clinical trials, prior NS5A inhibitor experience included daclatasvir, elbasvir, ledipasvir, ombitasvir, or velpatasvir., without cirrhosis or with compensated cirrhosis | VOSEVI 12 weeks (263) Placebo 12 weeks (152) |
+| POLARIS-4Open-label. (NCT02639247) | Genotype 1, 2, 3, or 4 DAA-experiencedIn clinical trials, prior treatment experience included sofosbuvir with or without any of the following: peginterferon alfa/ribavirin, ribavirin, HCV NS3/4A protease inhibitor (boceprevir, simeprevir, or telaprevir). who have not received an NS5A inhibitor, without cirrhosis or with compensated cirrhosis | VOSEVI 12 weeks (182) SOF/VEL 12 weeks (151) |
 | DAA: direct-acting antiviral; SOF: sofosbuvir; VEL: velpatasvir |  |  |
 
 Serum HCV RNA values were measured during the clinical trials using the COBAS AmpliPrep/COBAS Taqman HCV test (version 2.0) with a lower limit of quantification (LLOQ) of 15 IU/mL.
@@ -57,7 +57,7 @@ No subjects with genotype 5 or 6 were enrolled.
 
 Demographics and baseline characteristics were generally balanced across treatment groups.
 Of the 333 treated subjects, the median age was 58 years (range: 24 to 85); 77% of the subjects were male; 87% were White, 9% were Black; 8% were Hispanic or Latino; 35% had a baseline body mass index at least 30 kg/m2; 81% had non-CC IL28B genotypes (CT or TT); 75% had baseline HCV RNA levels at least 800,000 IU/mL; and 46% had compensated cirrhosis.
-In the POLARIS-4 trial, prior DAA regimens contained sofosbuvir (85%) with the following: peginterferon alfa and ribavirin or ribavirin (69%), HCV NS3/4A protease inhibitor (boceprevir, simeprevir, or telaprevir; 15%) and investigational DAA (<1%).
+In the POLARIS-4 trial, prior DAA regimens contained sofosbuvir (85%) with the following: peginterferon alfa and ribavirin or ribavirin (69%), HCV NS3/4A protease inhibitor (boceprevir, simeprevir, or telaprevir; 15%), and investigational DAA (<1%).
 Of the 15% of subjects without prior sofosbuvir exposure, most received investigational HCV DAAs or approved HCV NS3/4A protease inhibitors, with or without peginterferon alfa and ribavirin.
 
 Treatment with VOSEVI for 12 weeks resulted in numerically higher SVR12 rates than treatment with sofosbuvir/velpatasvir for 12 weeks in subjects with HCV genotype 1a and 3 infection.

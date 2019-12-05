@@ -6,7 +6,7 @@ Sofosbuvir, velpatasvir, and voxilaprevir are substrates of drug transporters P-
 Voxilaprevir is also a substrate of OATP1B1 and OATP1B3.
 In vitro, slow metabolic turnover of velpatasvir by CYP2B6, CYP2C8, and CYP3A4 and of voxilaprevir by CYP1A2, CYP2C8, and primarily CYP3A4 was observed.
 
-Drugs that are inducers of P-gp and/or moderate to potent inducers of CYP2B6, CYP2C8, or CYP3A4 (e.g., St. John's wort, carbamazepine) may significantly decrease plasma concentrations of sofosbuvir, velpatasvir, and/or voxilaprevir leading to reduced therapeutic effect of VOSEVI.
+Drugs that are inducers of P-gp and/or moderate to strong inducers of CYP2B6, CYP2C8, or CYP3A4 (e.g., St. John's wort, carbamazepine) may significantly decrease plasma concentrations of sofosbuvir, velpatasvir, and/or voxilaprevir leading to reduced therapeutic effect of VOSEVI.
 The use of these agents with VOSEVI is not recommended [see Warnings and Precautions (5.4) and Clinical Pharmacology (12.3)].
 VOSEVI may be coadministered with P-gp, BCRP, and CYP inhibitors.
 The use of OATP inhibitors which may substantially increase exposure of voxilaprevir (e.g., cyclosporine) with VOSEVI is not recommended [see Clinical Pharmacology (12.3)].
@@ -24,8 +24,7 @@ Clearance of HCV infection with direct acting antivirals may lead to changes in 
 For example, altered blood glucose control resulting in serious symptomatic hypoglycemia has been reported in diabetic patients in postmarketing case reports and published epidemiological studies.
 Management of hypoglycemia in these cases required either discontinuation or dose modification of concomitant medications used for diabetes treatment.
 
-Frequent monitoring of relevant laboratory parameters (e.g.
-International Normalized Ratio [INR] in patients taking warfarin, blood glucose levels in diabetic patients) or drug concentrations of concomitant medications such as cytochrome P450 substrates with a narrow therapeutic index (e.g. certain immunosuppressants) is recommended to ensure safe and effective use.
+Frequent monitoring of relevant laboratory parameters (e.g., International Normalized Ratio [INR] in patients taking warfarin, blood glucose levels in diabetic patients) or drug concentrations of concomitant medications such as cytochrome P450 substrates with a narrow therapeutic index (e.g., certain immunosuppressants) is recommended to ensure safe and effective use.
 Dose adjustments of concomitant medications may be necessary.
 
 Table 3 provides a listing of established or potentially clinically significant drug interactions.
@@ -35,18 +34,17 @@ Table 3 Potentially Significant Drug Interactions: Alteration in Dose or Regimen
 
 | Concomitant Drug Class: Drug Name | Effect on Concentration↓ = decrease, ↑ = increase. | Clinical Effect/Recommendation |
 | --- | --- | --- |
-| Acid Reducing Agents: |  |  |
-|  | ↓ velpatasvir | Velpatasvir solubility decreases as pH increases. Drugs that increase gastric pH are expected to decrease concentration of velpatasvir. |
-| Antacids (e.g., aluminum and magnesium hydroxide) |  | Separate antacid and VOSEVI administration by 4 hours. |
-| H2-receptor antagonists (e.g., famotidine)These interactions have been studied in healthy adults. |  | H2-receptor antagonists may be administered simultaneously with or staggered from VOSEVI at a dose that does not exceed doses comparable with famotidine 40 mg twice daily. |
-| Proton-pump inhibitors (e.g., omeprazole) |  | Omeprazole 20 mg can be administered with VOSEVI. Use with other proton pump-inhibitors has not been studied. |
+| Acid Reducing Agents: | ↓ velpatasvir | Velpatasvir solubility decreases as pH increases. Drugs that increase gastric pH are expected to decrease concentration of velpatasvir. |
+| Antacids (e.g., aluminum and magnesium hydroxide) | Separate antacid and VOSEVI administration by 4 hours. |  |
+| H2-receptor antagonists (e.g., famotidine)These interactions have been studied in healthy adults. | H2-receptor antagonists may be administered simultaneously with or staggered from VOSEVI at a dose that does not exceed doses comparable with famotidine 40 mg twice daily. |  |
+| Proton-pump inhibitors (e.g., omeprazole) | Omeprazole 20 mg can be administered with VOSEVI. Use with other proton pump-inhibitors has not been studied. |  |
 | Antiarrhythmics: |  |  |
 | amiodarone | Effect on amiodarone, sofosbuvir, velpatasvir, and voxilaprevir concentrations unknown | Coadministration of amiodarone with VOSEVI may result in serious symptomatic bradycardia. The mechanism of this effect is unknown. Coadministration of amiodarone with VOSEVI is not recommended; if coadministration is required, cardiac monitoring is recommended [see Warnings and Precautions (5.3)]. |
 | digoxin | ↑ digoxin | Therapeutic concentration monitoring of digoxin is recommended when coadministered with VOSEVI. Refer to digoxin prescribing information for monitoring and dose modification recommendations for concentration increases with unclear magnitude. |
 | Anticoagulants: |  |  |
 | dabigatran etexilate | ↑ dabigatran | Clinical monitoring of dabigatran is recommended when coadministered with VOSEVI. Refer to dabigatran etexilate prescribing information for dose modification recommendations in the setting of moderate renal impairment. |
 | Anticonvulsants: |  |  |
-| carbamazepine phenytoin phenobarbital oxcarbazepine | ↓ sofosbuvir ↓ velpatasvir ↓ voxilaprevir | Coadministration is not recommended. |
+| carbamazepine phenytoin phenobarbital | ↓ sofosbuvir ↓ velpatasvir ↓ voxilaprevir | Coadministration is not recommended. |
 | Antimycobacterials: |  |  |
 | rifampin | ↓ sofosbuvir ↓ velpatasvir ↑ voxilaprevir (single dose) ↓ voxilaprevir (multiple dose) | Coadministration with rifampin is contraindicated [see Contraindications (4)]. |
 | rifabutin rifapentine | ↓ sofosbuvir ↓ velpatasvir ↓ voxilaprevir | Coadministration is not recommended. |
@@ -62,7 +60,7 @@ Table 3 Potentially Significant Drug Interactions: Alteration in Dose or Regimen
 | rosuvastatin | ↑ rosuvastatin | Coadministration of VOSEVI with rosuvastatin may significantly increase the concentration of rosuvastatin which is associated with increased risk of myopathy, including rhabdomyolysis. Coadministration of VOSEVI with rosuvastatin is not recommended. |
 | pitavastatin | ↑ pitavastatin | Coadministration with VOSEVI may increase the concentration of pitavastatin and is not recommended, due to an increased risk of myopathy, including rhabdomyolysis. |
 | atorvastatin fluvastatin lovastatin simvastatin | ↑ atorvastatin ↑ fluvastatin ↑ lovastatin ↑ simvastatin | Coadministration with VOSEVI may increase the concentrations of atorvastatin, fluvastatin, lovastatin, and simvastatin. Increased statin concentrations may increase the risk of myopathy, including rhabdomyolysis. Use the lowest approved statin dose. If higher doses are needed, use the lowest necessary statin dose based on a risk/benefit assessment. |
-| Immunosuppresants: |  |  |
+| Immunosuppressants: |  |  |
 | cyclosporine | ↑ voxilaprevir | Coadministration of voxilaprevir with cyclosporine has been shown to substantially increase the plasma concentration of voxilaprevir, the safety of which has not been established. Coadministration of VOSEVI with cyclosporine is not recommended. |
 
 ## 7.4 Drugs without Clinically Significant Interactions with VOSEVI

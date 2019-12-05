@@ -25,7 +25,7 @@ The systemic exposures (AUC) of velpatasvir during gestation were approximately 
 
 Voxilaprevir: Voxilaprevir was administered orally to pregnant rats (up to 100 mg/kg/day) and rabbits (up to 600 mg/kg/day) from gestation days 6 to 17, and 7 to 19, respectively, and also to rats (oral doses up to 100 mg/kg) on gestation day 6 to lactation/post-partum day 20.
 No significant effects on embryo-fetal (rats and rabbits) or pre/postnatal (rats) development were observed at the highest doses tested.
-The systemic exposures (AUC) of voxilaprevir during gestation were approximately 141 (rats), and 4 (rabbits) times the exposure in humans at the RHD.
+The systemic exposures (AUC) of voxilaprevir during gestation were approximately 141 (rats) and 4 (rabbits) times the exposure in humans at the RHD.
 
 ## 8.2 Lactation
 
@@ -62,11 +62,9 @@ No dosage adjustment of VOSEVI is warranted in geriatric patients [see Clinical 
 
 ## 8.6 Renal Impairment
 
-No dosage adjustment of VOSEVI is required for patients with mild or moderate renal impairment.
-The safety and efficacy of VOSEVI have not been established in patients with severe renal impairment (eGFR less than 30 mL/min/1.73 m2) or ESRD requiring hemodialysis.
-No dosage recommendation can be given for patients with severe renal impairment or ESRD due to higher exposures (up to 20-fold) of the predominant sofosbuvir metabolite in these patients [see Dosage and Administration (2.3) and Clinical Pharmacology (12.3)].
+No dosage adjustment of VOSEVI is recommended for patients with mild, moderate, or severe renal impairment, including ESRD requiring dialysis [see Dosage and Administration (2.3) and Clinical Pharmacology (12.3)].
 
 ## 8.7 Hepatic Impairment
 
-No dosage adjustment of VOSEVI is required for patients with mild hepatic impairment (Child-Pugh A). VOSEVI is not recommended in patients with moderate or severe hepatic impairment (Child-Pugh B or C) due to the higher exposures of voxilaprevir (up to 6-fold in non-HCV infected subjects); the safety and efficacy have not been established in HCV-infected patients with moderate or severe hepatic impairment [see Dosage and Administration (2.4) and Clinical Pharmacology (12.3)].
+No dosage adjustment of VOSEVI is recommended for patients with mild hepatic impairment (Child-Pugh A). VOSEVI is not recommended in patients with moderate or severe hepatic impairment (Child-Pugh B or C) due to the higher exposures of voxilaprevir (up to 6-fold in non-HCV infected subjects); the safety and efficacy have not been established in HCV-infected patients with moderate or severe hepatic impairment [see Dosage and Administration (2.4) and Clinical Pharmacology (12.3)].
 Postmarketing cases of hepatic decompensation/failure have been reported in these patients [see Warnings and Precautions (5.2)].

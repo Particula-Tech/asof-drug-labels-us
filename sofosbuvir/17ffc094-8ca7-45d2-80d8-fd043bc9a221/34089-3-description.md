@@ -19,7 +19,7 @@ It has the following structural formula:
 
 Velpatasvir is practically insoluble (less than 0.1 mg/mL) above pH 5, slightly soluble (3.6 mg/mL) at pH 2, and soluble (greater than 36 mg/mL) at pH 1.2.
 
-Voxilaprevir: The IUPAC name for voxilaprevir is (1aR,5S,8S,9S,10R,22aR)-5-tert-butyl-N-{(1R,2R)-2-(difluoromethyl)-1-[(1-methylcyclopropanesulfonyl) carbamoyl] cyclopropyl}-9-ethyl-18,18-difluoro-14-methoxy-3,6-dioxo-1,1a,3,4,5,6,9,10,18,19,20,21, 22,22a-tetradecahydro-8H-7,10-methanocyclopropa[18,19][1,10,3,6] dioxadiazacyclononadecino[11,12-b]quinoxaline-8-carboxamide.
+Voxilaprevir: The IUPAC name for voxilaprevir is (1aR,5S,8S,9S,10R,22aR)-5-tert-butyl-N-{(1R,2R)-2-(difluoromethyl)-1-[(1-methylcyclopropanesulfonyl) carbamoyl]cyclopropyl}-9-ethyl-18,18-difluoro-14-methoxy-3,6-dioxo-1,1a,3,4,5,6,9,10,18,19,20,21,22,22a-tetradecahydro-8H-7,10-methanocyclopropa[18,19][1,10,3,6]dioxadiazacyclononadecino[11,12-b]quinoxaline-8-carboxamide.
 It has a molecular formula of C40H52F4N6O9S and a molecular weight of 868.9.
 It has the following structural formula:
 
