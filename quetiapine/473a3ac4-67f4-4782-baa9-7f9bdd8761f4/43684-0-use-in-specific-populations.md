@@ -76,7 +76,7 @@ Based on the pharmacologic action of quetiapine (D2 antagonism), treatment with 
 
 ## 8.4 Pediatric Use
 
-Safety and effectiveness of SEROQUEL XR is supported by studies of SEROQUEL for schizophrenia in adolescent patients 13-17 years of age and in bipolar mania in children and adolescent patients 10-17 years of age [see Clinical Studies (14.1 and 14.2)].
+Safety and effectiveness of SEROQUEL XR is supported by studies of SEROQUEL for schizophrenia in adolescent patients 13 - 17 years of age and in bipolar mania in children and adolescent patients 10 - 17 years of age [see Clinical Studies (14.1 and 14.2)].
 
 In general, the adverse reactions observed in children and adolescents during the clinical trials with SEROQUEL were similar to those in the adult population with few exceptions.
 Increases in systolic and diastolic blood pressure occurred in children and adolescents and did not occur in adults.
@@ -85,19 +85,19 @@ Orthostatic hypotension occurred more frequently in adults (4-7%) compared to ch
 Bipolar Depression
 
 The effectiveness of SEROQUEL XR for the treatment of bipolar depression in patients under the age of 18 years has not been established.
-One 8-week trial was conducted to evaluate the safety and efficacy of SEROQUEL XR in the treatment of bipolar depression in pediatric patients 10-17 years of age.
-The primary objective of the study was to evaluate whether SEROQUEL XR at a dose of 150 to 300 mg/day demonstrated superior efficacy (as measured by change in CDRS-R total score from baseline to end of 8 weeks) compared to placebo in children and adolescents 10-17 years of age with bipolar depression.
+One 8-week trial was conducted to evaluate the safety and efficacy of SEROQUEL XR in the treatment of bipolar depression in pediatric patients 10 - 17 years of age.
+The primary objective of the study was to evaluate whether SEROQUEL XR at a dose of 150 to 300 mg/day demonstrated superior efficacy (as measured by change in CDRS-R total score from baseline to end of 8 weeks) compared to placebo in children and adolescents 10 - 17 years of age with bipolar depression.
 A total of 193 patients with bipolar depression were randomized to placebo or SEROQUEL XR.
 The primary results of this study did not show a difference between SEROQUEL XR and placebo in decreasing depression symptoms in children and adolescents with bipolar disorder.
 In this study, patients treated with SEROQUEL XR exhibited metabolic changes, weight gain, increases in blood pressure and increases in heart rate [see Warnings and Precautions (5.5, 5.9) and Adverse Reactions (6.1)].
 
-Some differences in the pharmacokinetics of quetiapine were noted between children/adolescents (10-17 years of age) and adults.
+Some differences in the pharmacokinetics of quetiapine were noted between children/adolescents (10 - 17 years of age) and adults.
 When adjusted for weight, the AUC and Cmax of quetiapine were 41% and 39% lower, respectively, in children and adolescents compared to adults.
 The pharmacokinetics of the active metabolite, norquetiapine, were similar between children/adolescents and adults after adjusting for weight [see Clinical Pharmacology (12.3)].
 
 Schizophrenia
 
-The efficacy and safety of SEROQUEL XR in the treatment of schizophrenia in adolescents aged 13-17 years is supported by one 6-week, double-blind, placebo-controlled trial with SEROQUEL [see Indications and Usage (1.1), Dosage and Administration (2.2), Adverse Reactions (6.1), and Clinical Studies (14.1)].
+The efficacy and safety of SEROQUEL XR in the treatment of schizophrenia in adolescents aged 13 - 17 years is supported by one 6-week, double-blind, placebo-controlled trial with SEROQUEL [see Indications and Usage (1.1), Dosage and Administration (2.2), Adverse Reactions (6.1), and Clinical Studies (14.1)].
 
 Safety and effectiveness of SEROQUEL XR in pediatric patients less than 13 years of age with schizophrenia have not been established.
 

@@ -31,9 +31,9 @@ Table 2: Drug-Placebo Difference in Number of Cases of Suicidality per 1000 Pati
 | --- | --- |
 |  | Increases Compared to Placebo |
 | <18 | 14 additional cases |
-| 18–24 | 5 additional cases |
+| 18-24 | 5 additional cases |
 |  | Decreases Compared to Placebo |
-| 25–64 | 1 fewer case |
+| 25-64 | 1 fewer case |
 | ≥65 | 6 fewer cases |
 
 No suicides occurred in any of the pediatric trials.
@@ -105,9 +105,9 @@ Adults:
 
 Table 3: Fasting Glucose-Proportion of Patients Shifting to ≥126 mg/dL in Short-Term (≤12 weeks) Placebo-Controlled StudiesIncludes SEROQUEL and SEROQUEL XR data.
 
-| Laboratory Analyte | Category Change (At Least Once) from Baseline | Treatment Arm | N | Patients n (%) |
+| Laboratory Analyte | Category Change(At Least Once) from Baseline | Treatment Arm | N | Patientsn (%) |
 | --- | --- | --- | --- | --- |
-| Fasting Glucose | Normal to High (<100 mg/dL to ≥126 mg/dL) | Quetiapine | 2907 | 71 (2.4%) |
+| Fasting Glucose | Normal to High(<100 mg/dL to ≥126 mg/dL) | Quetiapine | 2907 | 71 (2.4%) |
 | Placebo | 1346 | 19 (1.4%) |  |  |
 | Borderline to High (≥100 mg/dL and <126 mg/dL to ≥126 mg/dL) | Quetiapine | 572 | 67 (11.7%) |  |
 | Placebo | 279 | 33 (11.8%) |  |  |
@@ -115,7 +115,7 @@ Table 3: Fasting Glucose-Proportion of Patients Shifting to ≥126 mg/dL in Shor
 In a 24-week trial (active-controlled, 115 patients treated with SEROQUEL) designed to evaluate glycemic status with oral glucose tolerance testing of all patients, at week 24 the incidence of post-glucose challenge glucose level ≥200 mg/dL was 1.7% and the incidence of a fasting blood glucose level ≥126 mg/dL was 2.6%.
 The mean change in fasting glucose from baseline was 3.2 mg/dL and mean change in 2-hour glucose from baseline was -1.8 mg/dL for quetiapine.
 
-In 2 long-term placebo-controlled randomized withdrawal clinical trials for bipolar I disorder maintenance, mean exposure of 213 days for SEROQUEL (646 patients) and 152 days for placebo (680 patients), the mean change in glucose from baseline was +5.0 mg/dL for quetiapine and –0.05 mg/dL for placebo.
+In 2 long-term placebo-controlled randomized withdrawal clinical trials for bipolar I disorder maintenance, mean exposure of 213 days for SEROQUEL (646 patients) and 152 days for placebo (680 patients), the mean change in glucose from baseline was +5.0 mg/dL for quetiapine and -0.05 mg/dL for placebo.
 The exposure-adjusted rate of any increased blood glucose level (≥126 mg/dL) for patients more than 8 hours since a meal (however, some patients may not have been precluded from calorie intake from fluids during fasting period) was 18.0 per 100 patient years for SEROQUEL (10.7% of patients; n=556) and 9.5 for placebo per 100 patient years (4.6% of patients; n=581).
 
 Table 4 shows the percentage of patients with shifts in blood glucose to ≥126 mg/dL from normal baseline in MDD adjunct therapy trials by dose.
@@ -135,8 +135,8 @@ In a placebo-controlled SEROQUEL XR monotherapy study (8 weeks duration) of chil
 In this study, there were no patients in the SEROQUEL XR or placebo-treated groups with a baseline normal fasting glucose level (<100 mg/dL) that had an increase in blood glucose level ≥126 mg/dL.
 There was one patient in the SEROQUEL XR group with a baseline borderline fasting glucose level (≥100 mg/dL and <126 mg/dL) who had an increase in blood glucose level of >126 mg/dL compared to zero patients in the placebo group.
 
-In a placebo-controlled SEROQUEL monotherapy study of adolescent patients (13–17 years of age) with schizophrenia (6 weeks duration), the mean change in fasting glucose levels for SEROQUEL (n=138) compared to placebo (n=67) was –0.75 mg/dL versus –1.70 mg/dL.
-In a placebo-controlled SEROQUEL monotherapy study of children and adolescent patients (10-17 years of age) with bipolar mania (3 weeks duration), the mean change in fasting glucose level for SEROQUEL (n=170) compared to placebo (n=81) was 3.62 mg/dL versus –1.17 mg/dL.
+In a placebo-controlled SEROQUEL monotherapy study of adolescent patients (13-17 years of age) with schizophrenia (6 weeks duration), the mean change in fasting glucose levels for SEROQUEL (n=138) compared to placebo (n=67) was -0.75 mg/dL versus -1.70 mg/dL.
+In a placebo-controlled SEROQUEL monotherapy study of children and adolescent patients (10-17 years of age) with bipolar mania (3 weeks duration), the mean change in fasting glucose level for SEROQUEL (n=170) compared to placebo (n=81) was 3.62 mg/dL versus -1.17 mg/dL.
 No patient in either study with a baseline normal fasting glucose level (<100 mg/dL) or a baseline borderline fasting glucose level (≥100 mg/dL and <126 mg/dL) had a blood glucose level of ≥126 mg/dL.
 
 Dyslipidemia
@@ -165,7 +165,7 @@ Table 5: Percentage of Adult Patients with Shifts in Total Cholesterol, Triglyce
 | Placebo | 125 | 8 (6%) |  |  |
 | Major Depressive Disorder (Adjunct Therapy) | SEROQUEL XR | 458 | 75 (16%) |  |
 | Placebo | 223 | 18 (8%) |  |  |
-| LDL-Cholesterol ≥160 mg/dL | Schizophrenia | SEROQUEL XR | 691 | 47 (7%) |
+| LDL-Cholesterol≥ 160 mg/dL | Schizophrenia | SEROQUEL XR | 691 | 47 (7%) |
 | Placebo | 227 | 17 (8%) |  |  |
 | Bipolar Depression | SEROQUEL XR | 86 | 3 (4%) |  |
 | Placebo | 104 | 2 (2%) |  |  |
@@ -173,7 +173,7 @@ Table 5: Percentage of Adult Patients with Shifts in Total Cholesterol, Triglyce
 | Placebo | 135 | 2 (2%) |  |  |
 | Major Depressive Disorder (Adjunct Therapy) | SEROQUEL XR | 457 | 51 (11%) |  |
 | Placebo | 219 | 21 (10%) |  |  |
-| HDL-Cholesterol ≤40 mg/dL | Schizophrenia | SEROQUEL XR | 600 | 87 (15%) |
+| HDL-Cholesterol≤ 40 mg/dL | Schizophrenia | SEROQUEL XR | 600 | 87 (15%) |
 | Placebo | 195 | 23 (12%) |  |  |
 | Bipolar Depression | SEROQUEL XR | 78 | 7 (9%) |  |
 | Placebo | 83 | 6 (7%) |  |  |
@@ -191,18 +191,18 @@ Table 6 shows the percentage of patients in MDD adjunctive therapy trials with c
 
 Table 6: Percentage of Patients with Shifts in Total Cholesterol, Triglycerides, LDL-Cholesterol, and HDL-Cholesterol from Baseline to Clinically Significant Levels in MDD Adjunctive Therapy Trials by Dose
 
-| Laboratory Analyte | Treatment Arm6 weeks duration | N | Patientsn (%) |
+| LaboratoryAnalyte | Treatment Arm6 weeks duration | N | Patientsn (%) |
 | --- | --- | --- | --- |
-| Cholesterol ≥240 mg/dL | SEROQUEL XR 150 mg | 223 | 41 (18%) |
+| Cholesterol≥ 240 mg/dL | SEROQUEL XR 150 mg | 223 | 41 (18%) |
 | SEROQUEL XR 300 mg | 197 | 26 (13%) |  |
 | Placebo | 213 | 15 (7%) |  |
-| Triglycerides ≥200 mg/dL | SEROQUEL XR 150 mg | 232 | 36 (16%) |
+| Triglycerides≥ 200 mg/dL | SEROQUEL XR 150 mg | 232 | 36 (16%) |
 | SEROQUEL XR 300 mg | 226 | 39 (17%) |  |
 | Placebo | 223 | 18 (8%) |  |
-| LDL-Cholesterol ≥160 mg/dL | SEROQUEL XR 150 mg | 242 | 29 (12%) |
+| LDL-Cholesterol≥ 160 mg/dL | SEROQUEL XR 150 mg | 242 | 29 (12%) |
 | SEROQUEL XR 300 mg | 215 | 22 (10%) |  |
 | Placebo | 219 | 21 (10%) |  |
-| HDL-Cholesterol ≤40 mg/dL | SEROQUEL XR 150 mg | 238 | 14 (6%) |
+| HDL-Cholesterol≤ 40 mg/dL | SEROQUEL XR 150 mg | 238 | 14 (6%) |
 | SEROQUEL XR 300 mg | 232 | 20 (9%) |  |
 | Placebo | 230 | 19 (8%) |  |
 
@@ -212,7 +212,7 @@ Safety and effectiveness of SEROQUEL XR is supported by studies of SEROQUEL in c
 
 In a placebo-controlled SEROQUEL XR monotherapy study (8 weeks duration) of children and adolescent patients (10-17 years of age) with bipolar depression, in which efficacy was not established, the percentage of children and adolescents with shifts in total cholesterol (≥200 mg/dL), triglycerides (≥150 mg/dL), LDL-cholesterol (≥130 mg/dL), and HDL-cholesterol (≤40 mg/dL) from baseline to clinically significant levels were: total cholesterol 8% (7/83) for SEROQUEL XR vs. 6% (5/84) for placebo; triglycerides 28% (22/80) for SEROQUEL XR vs. 9% (7/82) for placebo; LDL-cholesterol 2% (2/86) for SEROQUEL XR vs. 4% (3/85) for placebo and HDL-cholesterol 20% (13/65) for SEROQUEL XR vs 15% (11/74) for placebo.
 
-Table 7 shows the percentage of children and adolescents with shifts in total cholesterol, triglycerides, LDL-cholesterol, and HDL-cholesterol from baseline to clinically significant levels by indication in clinical trials with SEROQUEL in adolescents (13–17 years) with schizophrenia and in children and adolescents (10–17 years) with bipolar mania.
+Table 7 shows the percentage of children and adolescents with shifts in total cholesterol, triglycerides, LDL-cholesterol, and HDL-cholesterol from baseline to clinically significant levels by indication in clinical trials with SEROQUEL in adolescents (13-17 years) with schizophrenia and in children and adolescents (10-17 years) with bipolar mania.
 
 Table 7: Percentage of Children and Adolescents with Shifts in Total Cholesterol, Triglycerides, LDL-Cholesterol, and HDL-Cholesterol from Baseline to Clinically Significant Levels by Indication
 
@@ -290,7 +290,7 @@ The mean change in body weight in the schizophrenia trial was 2.0 kg in the SERO
 
 In an open-label study that enrolled patients from the above two pediatric trials, 63% of patients (241/380) completed 26 weeks of therapy with SEROQUEL.
 After 26 weeks of treatment, the mean increase in body weight was 4.4 kg.
-Forty-five percent of the patients gained ≥7% of their body weight, not adjusted for normal growth.
+Forty-five percent of the patients gained ≥ 7% of their body weight, not adjusted for normal growth.
 In order to adjust for normal growth over 26 weeks, an increase of at least 0.5 standard deviation from baseline in BMI was used as a measure of a clinically significant change; 18.3% of patients on SEROQUEL met this criterion after 26 weeks of treatment.
 
 When treating pediatric patients with SEROQUEL for any indication, weight gain should be assessed against that expected for normal growth.
@@ -333,7 +333,7 @@ For patients with diseases, conditions, or medications that could exacerbate the
 
 ## 5.9 Increases in Blood Pressure (Children and Adolescents)
 
-Safety and effectiveness of SEROQUEL XR is supported by studies of SEROQUEL in children and adolescent patients 10-17 years of age [see Clinical Studies (14.1 and 14.2)].
+Safety and effectiveness of SEROQUEL XR is supported by studies of SEROQUEL in children and adolescent patients 10 - 17 years of age [see Clinical Studies (14.1 and 14.2)].
 
 In a placebo-controlled SEROQUEL XR clinical trial (8 weeks duration) in children and adolescents (10-17 years of age) with bipolar depression, in which efficacy was not established, the incidence of increases at any time in systolic blood pressure (≥20 mmHg) was 6.5% (6/92) for SEROQUEL XR and 6.0% (6/100) for placebo; the incidence of increases at any time in diastolic blood pressure (≥10 mmHg) was 46.7% (43/92) for SEROQUEL XR and 36.0% (36/100) for placebo.
 
@@ -394,22 +394,27 @@ In SEROQUEL XR clinical trials across all indications 1.8% (24/1336) of patients
 About 0.7% (26/3489) of SEROQUEL patients did experience TSH increases in monotherapy studies.
 Some patients with TSH increases needed replacement thyroid treatment.
 
-In all quetiapine trials, the incidence of shifts in thyroid hormones and TSH were: decrease in free T4 (<0.8 LLN), 2.0% (357/17513); decrease in total T4 (<0.8 LLN), 4.0% (75/1861); decrease in free T3 (<0.8 LLN), 0.4% (53/13766); decrease in total T3 (<0.8 LLN), 2.0% (26/1312), and increase in TSH (>5 mIU/L), 4.9% (956/19412).
+In all quetiapine trials, the incidence of shifts in thyroid hormones and TSH were1: decrease in free T4 (<0.8 LLN), 2.0% (357/17513); decrease in total T4 (<0.8 LLN), 4.0% (75/1861); decrease in free T3(<0.8 LLN), 0.4% (53/13766); decrease in total T3(<0.8 LLN), 2.0% (26/1312), and increase in TSH (>5 mIU/L), 4.9% (956/19412).
 In eight patients, where TBG was measured, levels of TBG were unchanged.
+
+________________________
+
+1Based on shifts from normal baseline to potentially clinically important value at anytime post-baseline.
+Shifts in total T4, free T4, total T3 and free T3 are defined as <0.8 x LLN (pmol/L) and shift in TSH is >5 mIU/L at any time.
 
 Table 11 shows the incidence of these shifts in short term placebo-controlled clinical trials.
 
 Table 11: Incidence of Shifts in Thyroid Hormone Levels and TSH in Short-term Placebo-controlled Clinical TrialsBased on shifts from normal baseline to potentially clinically important value at anytime post-baseline.
-Shifts in total T4, free T4, total T3, and free T3 are defined as <0.8 x LLN (pmol/L) and shift in TSH is >5 mIU/L at any timeIncludes SEROQUEL and SEROQUEL XR data.
+Shifts in total T4, free T4, total T3, and free T3 are defined as <0.8 x LLN (pmol/L) and shift in TSH is >5 mIU/L at any time.Includes SEROQUEL and SEROQUEL XR data.
 
 | Total T4 |  | Free T4 |  | Total T3 |  | Free T3 |  | TSH |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Quetiapine | Placebo | Quetiapine | Placebo | Quetiapine | Placebo | Quetiapine | Placebo | Quetiapine | Placebo |
-| 3.4%(37/1097) | 0.6%(4/651) | 0.7%(52/7218) | 0.1%(4/3668) | 0.5% (2/369) | 0.0% (0/113) | 0.2%(11/5673) | 0.0%(1/2679) | 3.2% (240/7587) | 2.7% (105/3912) |
+| 3.4%(37/1097) | 0.6%(4/651) | 0.7%(52/7218) | 0.1%(4/3668) | 0.5%(2/369) | 0.0%(0/113) | 0.2%(11/5673) | 0.0%(1/2679) | 3.2%(240/7587) | 2.7%(105/3912) |
 
 In short-term placebo-controlled monotherapy trials, the incidence of reciprocal shifts in T3 and TSH was 0.0 % for both quetiapine (1/4800) and placebo (0/2190) and for T4 and TSH the shifts were 0.1% (7/6154) for quetiapine versus 0.0 % (1/3007) for placebo.
 
-Children and Adolescents: Safety and effectiveness of SEROQUEL XR is supported by studies of SEROQUEL in children and adolescent patients 10-17 years of age [see Clinical Studies (14.1 and 14.2)].
+Children and Adolescents: Safety and effectiveness of SEROQUEL XR is supported by studies of SEROQUEL in children and adolescent patients 10 - 17 years of age [see Clinical Studies (14.1 and 14.2)].
 
 In acute placebo-controlled trials in children and adolescent patients with schizophrenia (6-week duration) or bipolar mania (3-week duration), the incidence of shifts at any time for SEROQUEL treated patients and placebo-treated patients for elevated TSH was 2.9% (8/280) vs. 0.7% (1/138), respectively, and for decreased total thyroxine was 2.8% (8/289) vs. 0% (0/145), respectively.
 Of the SEROQUEL treated patients with elevated TSH levels, 1 had simultaneous low free T4 level at end of treatment.
@@ -418,7 +423,7 @@ Of the SEROQUEL treated patients with elevated TSH levels, 1 had simultaneous lo
 
 Adults: During clinical trials with quetiapine across all indications, the incidence of shifts in prolactin levels to a clinically significant value occurred in 3.6% (158/4416) of patients treated with quetiapine compared to 2.6% (51/1968) on placebo.
 
-Children and Adolescents: Safety and effectiveness of SEROQUEL XR is supported by studies of SEROQUEL in children and adolescent patients 10-17 years of age [see Clinical Studies (14.1 and 14.2)].
+Children and Adolescents: Safety and effectiveness of SEROQUEL XR is supported by studies of SEROQUEL in children and adolescent patients 10 - 17 years of age [see Clinical Studies (14.1 and 14.2)].
 In acute placebo-controlled trials in children and adolescent patients with bipolar mania (3-week duration) or schizophrenia (6-week duration), the incidence of shifts in prolactin levels to a value (>20 µg/L males; >26 µg/L females at any time) was 13.4% (18/134) for SEROQUEL compared to 4% (3/75) for placebo in males and 8.7% (9/104) for SEROQUEL compared to 0% (0/39) for placebo in females.
 
 Like other drugs that antagonize dopamine D2 receptors, SEROQUEL XR elevates prolactin levels in some patients and the elevation may persist during chronic administration.
@@ -459,7 +464,7 @@ SEROQUEL XR and other antipsychotic drugs should be used cautiously in patients 
 Acute withdrawal symptoms, such as insomnia, nausea, and vomiting have been described after abrupt cessation of atypical antipsychotic drugs, including quetiapine fumarate.
 In short-term placebo-controlled, monotherapy clinical trials with SEROQUEL XR that included a discontinuation phase which evaluated discontinuation symptoms, the aggregated incidence of patients experiencing one or more discontinuation symptoms after abrupt cessation was 12.1% (241/1993) for SEROQUEL XR and 6.7% (71/1065) for placebo.
 The incidence of the individual adverse reactions (i.e., insomnia, nausea, headache, diarrhea, vomiting, dizziness, and irritability) did not exceed 5.3% in any treatment group and usually resolved after 1-week post-discontinuation.
-Gradual dose reduction is advised [see Use in Specific Populations (8.1)]
+Gradual dose reduction is advised [see Use in Specific Populations (8.1)].
 
 ## 5.20 Anticholinergic (antimuscarinic) Effects
 

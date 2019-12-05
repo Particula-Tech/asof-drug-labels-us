@@ -10,7 +10,7 @@ Efficacy was supported by three 6-week trials in adults with schizophrenia and o
 
 SEROQUEL XR is indicated for the acute treatment of manic or mixed episodes associated with bipolar I disorder, both as monotherapy and as an adjunct to lithium or divalproex.
 The efficacy of SEROQUEL XR in manic or mixed episodes of bipolar I disorder was established in one 3-week trial in adults with manic or mixed episodes associated with bipolar I disorder.
-Efficacy was supported by two 12-week monotherapy trials and one 3-week adjunctive trial in adults with manic episodes associated with bipolar I disorder as well as one 3-week monotherapy trial in children and adolescents (10-17 years) with manic episodes associated with bipolar I disorder treated with SEROQUEL [see Clinical Studies (14.2)].
+Efficacy was supported by two 12-week monotherapy trials and one 3-week adjunctive trial in adults with manic episodes associated with bipolar I disorder as well as one 3-week monotherapy trial in children and adolescents (10 - 17 years) with manic episodes associated with bipolar I disorder treated with SEROQUEL [see Clinical Studies (14.2)].
 
 SEROQUEL XR is indicated for the acute treatment of depressive episodes associated with bipolar disorder.
 The efficacy of SEROQUEL XR was established in one 8-week trial in adults with bipolar I or II disorder and supported by two 8-week trials in adults with bipolar I or II disorder treated with SEROQUEL [see Clinical Studies (14.2)].

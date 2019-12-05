@@ -18,11 +18,11 @@ Table 1: Recommended Dosing for SEROQUEL XR
 | Indication | Initial Dose and Titration | Recommended Dose | Maximum Dose |
 | --- | --- | --- | --- |
 | Schizophrenia - Adults | Day 1: 300 mg/dayDose increases can be made at intervals as short as 1 day and in increments of up to 300 mg/day | 400-800 mg/day | 800 mg/day |
-| Schizophrenia - Adolescents (13 to17 years) | Day 1: 50 mg/dayDay 2: 100 mg/dayDay 3: 200 mg/dayDay 4: 300 mg/dayDay 5: 400 mg/day | 400-800 mg/day | 800 mg/day |
-| Schizophrenia Maintenance - Monotherapy – Adults | Not applicable | 400-800 mg/day | 800 mg/day |
-| Bipolar I Disorder manic or mixed - Acute monotherapy or adjunct to lithium or divalproex – Adults | Day 1: 300 mg/day Day 2: 600 mg/dayDay 3: between 400 and 800 mg/day | 400-800 mg/day | 800 mg/day |
-| Bipolar I Disorder, manic -Acute monotherapy - Children and Adolescents (10 to 17 years) | Day 1: 50 mg/dayDay 2: 100 mg/dayDay 3: 200 mg/dayDay 4: 300 mg/dayDay 5: 400 mg/day | 400-600 mg/day | 600 mg/day |
-| Bipolar Disorder, Depressive Episodes –Adults | Day 1: 50 mg/dayDay 2: 100 mg/dayDay 3: 200 mg/dayDay 4: 300 mg/day | 300 mg/day | 300 mg/day |
+| Schizophrenia - Adolescents (13 to 17 years) | Day 1: 50 mg/dayDay 2: 100 mg/dayDay 3: 200 mg/dayDay 4: 300 mg/dayDay 5: 400 mg/day | 400-800 mg/day | 800 mg/day |
+| Schizophrenia Maintenance - Monotherapy - Adults | Not applicable | 400-800 mg/day | 800 mg/day |
+| Bipolar I Disorder manic or mixed - Acute monotherapy or adjunct to lithium or divalproex - Adults | Day 1: 300 mg/day Day 2: 600 mg/dayDay 3: between 400 and 800 mg/day | 400-800 mg/day | 800 mg/day |
+| Bipolar I Disorder, manic - Acute monotherapy - Children and Adolescents (10 to 17 years) | Day 1: 50 mg/dayDay 2: 100 mg/dayDay 3: 200 mg/dayDay 4: 300 mg/dayDay 5: 400 mg/day | 400-600 mg/day | 600 mg/day |
+| Bipolar Disorder, Depressive Episodes - Adults | Day 1: 50 mg/dayDay 2: 100 mg/dayDay 3: 200 mg/dayDay 4: 300 mg/day | 300 mg/day | 300 mg/day |
 | Bipolar I Disorder Maintenance - Adjunct to lithium or divalproex - Adults | Not applicable | 400-800 mg/day | 800 mg/day |
 | Major Depressive Disorder - Adjunctive Therapy with Antidepressants - Adults | Day 1: 50 mg/dayDay 2: 50 mg/dayDay 3: 150 mg/day | 150-300 mg/day | 300 mg/day |
 

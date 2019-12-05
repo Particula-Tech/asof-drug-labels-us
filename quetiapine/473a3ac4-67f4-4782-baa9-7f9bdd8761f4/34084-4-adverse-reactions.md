@@ -44,10 +44,14 @@ Bipolar I Disorder, Manic or Mixed Episodes:
 There were no adverse reactions leading to discontinuation that occurred at an incidence of ≥2% for SEROQUEL XR in the bipolar mania trial.
 
 Bipolar Disorder, Depressive Episode: In a single clinical trial in patients with bipolar depression, 14% (19/137) of patients on SEROQUEL XR discontinued due to an adverse reaction compared to 4% (5/140) on placebo.
-Somnolence Somnolence combines adverse reaction terms somnolence and sedation was the only adverse reaction leading to discontinuation that occurred at an incidence of ≥2% in SEROQUEL XR in the bipolar depression trial.
+Somnolence2 was the only adverse reaction leading to discontinuation that occurred at an incidence of ≥2% in SEROQUEL XR in the bipolar depression trial.
 
 MDD, Adjunctive Therapy: In adjunctive therapy clinical trials in patients with MDD, 12.1% (76/627) of patients on SEROQUEL XR discontinued due to adverse reaction compared to 1.9% (6/309) on placebo.
-Somnolence was the only adverse reaction leading to discontinuation that occurred at an incidence of ≥2% in SEROQUEL XR in MDD trials.
+Somnolence2 was the only adverse reaction leading to discontinuation that occurred at an incidence of ≥2% in SEROQUEL XR in MDD trials.
+
+______________
+
+2Somnolence combines adverse reaction terms somnolence and sedation.
 
 Commonly Observed Adverse Reactions in Short-Term, Placebo-Controlled Trials:
 
@@ -178,7 +182,7 @@ Table 15: Adverse Reactions in Placebo-Controlled Adjunctive Therapy Clinical Tr
 | Irritability | 4% | 2% | 3% |
 | Extrapyramidal SymptomsExtrapyramidal symptoms include the terms: cogwheel rigidity, drooling, dyskinesia, extrapyramidal disorder, hypertonia, hypokinesia, psychomotor hyperactivity, restlessness, and tremor. | 4% | 6% | 4% |
 | Vomiting | 3% | 1% | 1% |
-| Upper RespiratoryTract Infection | 3% | 2% | 2% |
+| Upper Respiratory Tract Infection | 3% | 2% | 2% |
 | Weight Increased | 3% | 5% | 0% |
 | Increased Appetite | 3% | 5% | 3% |
 | Back Pain | 3% | 3% | 1% |

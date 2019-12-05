@@ -2,14 +2,14 @@
 
 ## 14.1 Schizophrenia
 
-Short-term Trials – Adults
+Short-term Trials - Adults
 
 The efficacy of SEROQUEL XR in the treatment of schizophrenia was demonstrated in 1 short-term, 6-week, fixed-dose, placebo-controlled trial of inpatients and outpatients with schizophrenia (n=573) who met DSM-IV criteria for schizophrenia.
 SEROQUEL XR (once daily) was administered as 300 mg on Day 1, and the dose was increased to either 400 mg or 600 mg by Day 2, or 800 mg by Day 3.
 The primary endpoint was the change from baseline of the Positive and Negative Syndrome Scale (PANSS) total score at the end of treatment (Day 42).
 SEROQUEL XR doses of 400 mg, 600 mg and 800 mg once daily were superior to placebo in the PANSS total score at Day 42 (study 1 in Table 26).
 
-Short-term Trials –Adolescents (ages 13-17)
+Short-term Trials -Adolescents (ages 13-17)
 
 The efficacy of SEROQUEL XR in the treatment of schizophrenia in adolescents (13-17 years of age) was supported by a 6-week, double-blind, placebo-controlled trial.
 Patients who met DSM-IV diagnostic criteria for schizophrenia were randomized into one of three treatment groups: SEROQUEL 400 mg/day (n=73), SEROQUEL 800 mg/day (n=74), or placebo (n=75).
@@ -84,7 +84,7 @@ The majority of patients in this trial taking SEROQUEL were dosed in a range bet
 
 Children and Adolescents (ages 10-17)
 
-The efficacy of SEROQUEL XR in the acute treatment of manic episodes associated with bipolar I disorder in children and adolescents (10-17 years of age) was extrapolated from a 3-week, double-blind, placebo-controlled, multicenter trial.
+The efficacy of SEROQUEL XR in the acute treatment of manic episodes associated with bipolar I disorder in children and adolescents (10 - 17 years of age) was extrapolated from a 3-week, double-blind, placebo-controlled, multicenter trial.
 Patients who met DSM-IV diagnostic criteria for a manic episode were randomized into one of three treatment groups: SEROQUEL 400 mg/day (n=95), SEROQUEL 600 mg/day (n=98), or placebo (n=91).
 Study medication was initiated at 50 mg/day and on day 2 increased to 100 mg/day (divided doses given two or three times daily).
 Subsequently, the dose was titrated to a target dose of 400 mg/day or 600 mg/day using increments of 100 mg/day, given in divided doses two or three times daily.
@@ -95,14 +95,14 @@ Table 27: Mania Trials
 
 | Study Number | Treatment Group | Primary Efficacy Measure: YMRS Total |  |  |
 | --- | --- | --- | --- | --- |
-| Mean Baseline Score (SD)Adult data mean baseline score is based on patients included in the primary analysis; pediatric mean baseline score is based on all patients in the ITT population. | LS Mean Change from Baseline (SE) | Placebo-subtracted DifferenceDifference (drug minus placebo) in least-squares mean change from baseline. (95% CI) |  |  |
+| Mean Baseline Score (SD)Adult data mean baseline score is based on patients included in the primary analysis; pediatric mean baseline score is based on all patients in the ITT population. | LS Mean Change from Baseline (SE) | Placebo-subtracted DifferenceIncluded in the trial as an active comparator.(95% CI) |  |  |
 | Study 1 | SEROQUEL XR (400-800 mg/day)Doses that are statistically significantly superior to placebo. | 28.8 (5.4) | -14.3 (0.9) | -3.8 (-5.7, -2.0) |
 | Placebo | 28.4 (5.1) | -10.5 (0.9) | -- |  |
 | Study 2 | SEROQUEL (200-800 mg/day) | 34.0 (6.1) | -12.3 (1.3) | -4.0 (-7.0, -1.0) |
-| Haloperidol,Included in the trial as an active comparator. | 32.3 (6.0) | -15.7 (1.3) | -7.4 (-10.4, -4.4) |  |
+| Haloperidol | 32.3 (6.0) | -15.7 (1.3) | -7.4 (-10.4, -4.4) |  |
 | Placebo | 33.1 (6.6) | -8.3 (1.3) | -- |  |
 | Study 3 | SEROQUEL (200-800 mg/day) | 32.7 (6.5) | -14.6 (1.5) | -7.9 (-10.9, -5.0) |
-| Lithium, | 33.3 (7.1) | -15.2 (1.6) | -8.5 (-11.5, -5.5) |  |
+| Lithium | 33.3 (7.1) | -15.2 (1.6) | -8.5 (-11.5, -5.5) |  |
 | Placebo + mood stabilizer | 34.0 (6.9) | -6.7 (1.6) | -- |  |
 | Study 4 | SEROQUEL (200-800 mg/day) + mood stabilizer | 31.5 (5.8) | -13.8 (1.6) | -3.8 (-7.1, -0.6) |
 | Placebo + mood stabilizer | 31.1 (5.5) | -10 (1.5) | -- |  |
@@ -173,7 +173,7 @@ The efficacy of SEROQUEL XR as adjunctive therapy to antidepressants in the trea
 SEROQUEL XR 150 mg/day or 300 mg/day was given as adjunctive therapy to existing antidepressant therapy in patients who had previously shown an inadequate response to at least one antidepressant.
 SEROQUEL XR was administered as 50 mg/day on Days 1 and 2, and increased to 150 mg/day on Day 3 for both dose groups.
 On Day 5, the dose was increased to 300 mg/day in the 300 mg/day fixed-dose group.
-Inadequate response was defined as having continued depressive symptoms for the current episode [Hamilton Depression Rating Scale (HAM-D) total score of ≥20] despite using an antidepressant for 6 weeks at or above the minimally effective labelled dose.
+Inadequate response was defined as having continued depressive symptoms for the current episode [Hamilton Depression Rating Scale (HAM-D) total score of ≥ 20] despite using an antidepressant for 6 weeks at or above the minimally effective labelled dose.
 The mean HAM-D total score at entry was 24, and 17% of patients scored 28 or greater.
 Patients were on various antidepressants prior to study entry including SSRI’s (paroxetine, fluoxetine, sertraline, escitalopram, or citalopram), SNRI’s, (duloxetine and venlafaxine,) TCA (amitriptyline), and other (bupropion).
 
