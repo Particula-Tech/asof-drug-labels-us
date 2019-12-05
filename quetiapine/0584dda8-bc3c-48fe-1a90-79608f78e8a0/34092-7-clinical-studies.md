@@ -50,6 +50,8 @@ Table 19: Schizophrenia Short-Term Trials
 | Study 3 | SEROQUEL (450 mg/day BID) | 42.1 (10.7) | -10.0 (1.3) | -4.6 (-7.8, -1.4) |
 | SEROQUEL (450 mg/day TID)Doses that are statistically significant superior to SEROQUEL 50 mg BID. | 42.7 (10.4) | -8.6 (1.3) | -3.2 (-6.4, 0.0) |  |
 | SEROQUEL (50 mg BID) | 41.7 (10.0) | -5.4 (1.3) | -- |  |
+|  |  | Primary Efficacy Endpoint: PANSS Total |  |  |
+| Mean BaselineScore (SD) | LS Mean Changefrom Baseline (SE) | Placebo-subtractedDifference (95% CI) |  |  |
 | Study 4 | SEROQUEL (400 mg/day) | 96.2 (17.7) | -27.3 (2.6) | -8.2 (-16.1, -0.3) |
 | SEROQUEL (800 mg/day) | 96.9 (15.3) | -28.4 (1.8) | -9.3 (-16.2, -2.4) |  |
 | Placebo | 96.2 (17.7) | -19.2 (3.0) | -- |  |

@@ -180,7 +180,7 @@ Table 5: Percentage of Children and Adolescents with Shifts in Total Cholesterol
 | Bipolar Mania | SEROQUEL | 154 | 16 (10%) |  |
 | Placebo | 61 | 4 (7%) |  |  |
 
-In a placebo-controlled SEROQUEL XR monotherapy study (8 weeks duration) of children and adolescent patients (10-17 years of age) with bipolar depression, in which efficacy was not established, the percentage of children and adolescents with shifts in total cholesterol (≥200 mg/dL), triglycerides (≥150 mg/dL), LDL-cholesterol (≥130 mg/dL), and HDL-cholesterol (≤40 mg/dL) from baseline to clinically significant levels were: total cholesterol 8% (7/83) for SEROQUEL XR vs. 6% (5/84) for placebo; triglycerides 28% (22/80) for SEROQUEL XR vs. 9% (7/82) for placebo; LDL-cholesterol 2% (2/86) for SEROQUEL XR vs. 4% (3/85) for placebo and HDL-cholesterol 20% (13/65) for SEROQUEL XR vs. 15% (11/74) for placebo.
+In a placebo-controlled SEROQUEL XR monotherapy study (8 weeks duration) of children and adolescent patients (10-17 years of age) with bipolar depression, in which efficacy was not established, the percentage of children and adolescents with shifts in total cholesterol (≥200 mg/dL), triglycerides (≥150 mg/dL), LDL-cholesterol (≥ 130 mg/dL), and HDL-cholesterol (≤40 mg/dL) from baseline to clinically significant levels were: total cholesterol 8% (7/83) for SEROQUEL XR vs. 6% (5/84) for placebo; triglycerides 28% (22/80) for SEROQUEL XR vs. 9% (7/82) for placebo; LDL-cholesterol 2% (2/86) for SEROQUEL XR vs. 4% (3/85) for placebo and HDL-cholesterol 20% (13/65) for SEROQUEL XR vs. 15% (11/74) for placebo.
 
 Weight Gain
 
@@ -327,14 +327,18 @@ Of the SEROQUEL treated patients with elevated TSH levels, 3 had simultaneous lo
 About 0.7% (26/3489) of SEROQUEL patients did experience TSH increases in monotherapy studies.
 Some patients with TSH increases needed replacement thyroid treatment.
 
-In all quetiapine trials, the incidence of shifts in thyroid hormones and TSH were Based on shifts from normal baseline to potentially clinically important value at any time post-baseline.
-Shifts in total T4, free T4, total T3 and free T3 are defined as M0.8 x LLN (pmol/L) and shift in TSH is >5 mlU/L at any time.: decrease in free T4 (<0.8 LLN), 2.0% (357/17513); decrease in total T4 (<0.8LLN), 4.0% (75/1861); decrease in free T3 (<0.8LLN), 0.4% (53/13766); decrease in total T3 (<0.8 LLN), 2.0% (26/1312), and increase in TSH (>5mIU/L), 4.9% (956/19412).
+In all quetiapine trials, the incidence of shifts in thyroid hormones and TSH were1: decrease in free T4 (<0.8 LLN), 2.0% (357/17513); decrease in total T4 (<0.8LLN), 4.0% (75/1861); decrease in free T3 (<0.8 LLN), 0.4% (53/13766); decrease in total T3 (<0.8LLN), 2.0% (26/1312), and increase in TSH (>5mIU/L), 4.9% (956/19412).
 In eight patients, where TBG was measured, levels of TBG were unchanged.
 
 Table 8 shows the incidence of these shifts in short-term placebo-controlled clinical trials.
 
+____________
+
+1. 1Based on shifts from normal baseline to potentially clinically important value at anytime post-baseline.
+   Shifts in total T4, free T4, total T3 and free T3 are defined as <0.8 x LLN (pmol/L) and shift in TSH is >5 mlU/L at any time.
+
 Table 8: Incidence of Shifts in Thyroid Hormone Levels and TSH in Short-Term Placebo-Controlled Clinical TrialsBased on shifts from normal baseline to potentially clinically important value at any time post-baseline.
-Shifts in total T4, free T4, total T3, and free T3 are defined as <0.8 x LLN (pmol/L) and shift in TSH is >5 mlU/L at any time., Includes SEROQUEL and SEROQUEL XR data.
+Shifts in total T4, free T4, total T3, and free T3 are defined as <0.8 x LLN (pmol/L) and shift in TSH is >5 mlU/L at any time.Includes SEROQUEL and SEROQUEL XR data.
 
 | Total T4 |  | Free T4 |  | Total T3 |  | Free T3 |  | TSH |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |

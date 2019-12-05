@@ -245,9 +245,9 @@ In therapy for schizophrenia (up to 6 weeks), the most commonly observed adverse
 
 In bipolar mania therapy (up to 3 weeks) the most commonly observed adverse reactions associated with the use of quetiapine in children and adolescents (incidence of 5% or greater and quetiapine incidence at least twice that for placebo) were somnolence (53%), dizziness (18%), fatigue (11%), increased appetite (9%), nausea (8%), vomiting (8%), tachycardia (7%), dry mouth (7%), and weight increased (6%).
 
-In an acute (8-week) SEROQUEL XR trial in children and adolescents (10-17 years of age) with bipolar depression, in which efficacy was not established, the most commonly observed adverse reactions associated with the use of SEROQUEL XR (incidence of 5% or greater and at least twice that for placebo) were dizziness (7%), diarrhea (5%), fatigue (5%), and nausea (5%).
+In an acute (8-week) SEROQUEL XR trial in children and adolescents (10-17 years of age) with bipolar depression, in which efficacy was not established, the most commonly observed adverse reactions associated with the use of SEROQUEL XR (incidence of 5% or greater and at least twice that for placebo) were dizziness 7%, diarrhea 5%, fatigue 5%, and nausea 5%.
 
-Adverse Reactions Occurring at an Incidence of ≥2% among SEROQUEL Treated Patients in Short-Term, Placebo-Controlled Trials
+Adverse Reactions Occurring at an Incidence of ≥ 2% among SEROQUEL Treated Patients in Short-Term, Placebo-Controlled Trials
 
 Schizophrenia (Adolescents, 13-17 years old)
 

@@ -10,6 +10,7 @@ The active metabolite, N-desalkyl quetiapine (norquetiapine), has similar activi
 
 Quetiapine and its metabolite, norquetiapine, have affinity for multiple neurotransmitter receptors with norquetiapine binding with higher affinity than quetiapine in general.
 The Ki values for quetiapine and norquetiapine at the dopamine D1 are 428/99.8 nM, at D2 626/489nM, at serotonin 5HT1A 1040/191 nM at 5HT2A 38/2.9 nM, at histamine H1 4.4/1.1 nM, at muscarinic M1 1086/38.3 nM, and at adrenergic α1b 14.6/46.4 nM and, at α2 receptors 617/1290 nM, respectively.
+
 Quetiapine and norquetiapine lack appreciable affinity to the benzodiazepine receptors.
 
 Effect on QT Interval
@@ -30,7 +31,7 @@ Quetiapine is unlikely to interfere with the metabolism of drugs metabolized by 
 
 Children and Adolescents
 
-At steady-state, the pharmacokinetics of the parent compound, in children and adolescents (10-17 years of age), were similar to adults.
+At steady state the pharmacokinetics of the parent compound, in children and adolescents (10-17 years of age), were similar to adults.
 However, when adjusted for dose and weight, AUC and Cmax of the parent compound were 41% and 39% lower, respectively, in children and adolescents than in adults.
 For the active metabolite, norquetiapine, AUC and Cmax were 45% and 31% higher, respectively, in children and adolescents than in adults.
 When adjusted for dose and weight, the pharmacokinetics of the metabolite, norquetiapine, was similar between children and adolescents and adults [see Use in Specific Populations (8.4)].
@@ -59,7 +60,7 @@ In vitro studies using human liver microsomes revealed that the cytochrome P450 
 
 Age
 
-Oral clearance of quetiapine was reduced by 40% in elderly patients (≥65 years, n=9) compared to young patients (n=12), and dosing adjustment may be necessary [see Dosage and Administration (2.3)].
+Oral clearance of quetiapine was reduced by 40% in elderly patients (≥ 65 years, n=9) compared to young patients (n=12), and dosing adjustment may be necessary [see Dosage and Administration (2.3)].
 
 Gender
 
@@ -75,7 +76,7 @@ Smoking has no effect on the oral clearance of quetiapine.
 
 Renal Insufficiency
 
-Patients with severe renal impairment (Clcr=10-30 mL/min/1.73 m2, n=8) had a 25% lower mean oral clearance than normal subjects (Clcr >80 mL/min/1.73 m2, n=8), but plasma quetiapine concentrations in the subjects with renal insufficiency were within the range of concentrations seen in normal subjects receiving the same dose.
+Patients with severe renal impairment (Clcr=10-30 mL/min/1.73 m2, n=8) had a 25% lower mean oral clearance than normal subjects (Clcr > 80 mL/min/1.73 m2, n=8), but plasma quetiapine concentrations in the subjects with renal insufficiency were within the range of concentrations seen in normal subjects receiving the same dose.
 Dosage adjustment is therefore not needed in these patients [see Use in Specific Populations (8.6)].
 
 Hepatic Insufficiency
