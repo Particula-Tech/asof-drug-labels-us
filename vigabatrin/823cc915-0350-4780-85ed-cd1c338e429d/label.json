@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA211592"
+  ],
+  "inn": "vigabatrin",
+  "labeler": "Cipla USA, Inc.",
+  "package_ndcs": [
+    "69097-964-53"
+  ],
+  "products": [
+    {
+      "form": "POWDER, FOR SOLUTION",
+      "generic": "vigabatrin",
+      "name": "VIGABATRIN"
+    }
+  ],
+  "setid": "823cc915-0350-4780-85ed-cd1c338e429d",
+  "source": "dailymed"
+}
