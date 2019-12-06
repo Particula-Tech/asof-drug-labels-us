@@ -1,5 +1,2 @@
-LANOXIN is a registered trademark of GlaxoSmithKline
-
-Manufactured for: Concordia Pharmaceuticals Inc. St. Michael, Barbados BB11005
-
-©2015, Concordia Pharmaceuticals Inc. All rights reserved.
+LANOXIN is a registered trademark of GlaxoSmithKline Mfd. for: Concordia Pharmaceuticals Distributed by: Amdipharm Limited, 17 Northwood House, Dublin 9, Ireland ©2015.
+All rights reserved.
