@@ -20,9 +20,9 @@ Manufactured by:
 
 Emcure Pharmaceuticals Ltd.,
 
-Hinjawadi, Pune, India.
+Sanand, Ahmedabad, India.
 
-Manufactured for:
+Distributed by:
 
 Heritage Pharmaceuticals Inc.
 
@@ -31,4 +31,4 @@ East Brunswick, NJ 08816
 1.866.901.DRUGS (3784)
 
 Rev.
-09/17
+03/19
