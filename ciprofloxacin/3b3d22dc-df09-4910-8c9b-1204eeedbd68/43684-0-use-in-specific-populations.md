@@ -20,7 +20,7 @@ The study did not reveal any clear adverse reactions due to in utero exposure to
 No differences in the rates of prematurity, spontaneous abortions, or birth weight were seen in women exposed to ciprofloxacin during pregnancy.2,3 However, these small postmarketing epidemiology studies, of which most experience is from short term, first trimester exposure, are insufficient to evaluate the risk for less common defects or to permit reliable and definitive conclusions regarding the safety of ciprofloxacin in pregnant women and their developing fetuses.
 
 Reproduction studies have been performed in rats and mice using oral doses up to 100 mg/kg (0.6 and 0.3 times the maximum daily human dose based upon body surface area, respectively) and have revealed no evidence of harm to the fetus due to ciprofloxacin.
-In rabbits, oral ciprofloxacin dose levels of 30 and 100 mg/kg (approximately 0.4-and 1.3-times the highest recommended therapeutic dose based upon body surface area) produced gastrointestinal toxicity resulting in maternal weight loss and an increased incidence of abortion, but no teratogenicity was observed at either dose level.
+In rabbits, oral ciprofloxacin dose levels of 30 and 100 mg/kg (approximately 0.4- and 1.3-times the highest recommended therapeutic dose based upon body surface area) produced gastrointestinal toxicity resulting in maternal weight loss and an increased incidence of abortion, but no teratogenicity was observed at either dose level.
 After intravenous administration of doses up to 20 mg/kg (approximately 0.3-times the highest recommended therapeutic dose based upon body surface area), no maternal toxicity was produced and no embryotoxicity or teratogenicity was observed.
 
 ## 8.3 Nursing Mothers
@@ -59,6 +59,8 @@ Tendinitis or tendon rupture can involve the Achilles, hand, shoulder, or other 
 Caution should be used when prescribing ciprofloxacin tablets to elderly patients especially those on corticosteroids.
 Patients should be informed of this potential adverse reaction and advised to discontinue ciprofloxacin tablets and contact their healthcare provider if any symptoms of tendinitis or tendon rupture occur [see Boxed Warning, Warnings and Precautions (5.2), and Adverse Reactions (6.2)].
 
+Epidemiologic studies report an increased rate of aortic aneurysm and dissection within two months following use of fluoroquinolones, particularly in elderly patients [see Warnings and Precautions (5.9)].
+
 In a retrospective analysis of 23 multiple-dose controlled clinical trials of ciprofloxacin tablets encompassing over 3500 ciprofloxacin-treated patients, 25% of patients were greater than or equal to 65 years of age and 10% were greater than or equal to 75 years of age.
 No overall differences in safety or effectiveness were observed between these subjects and younger subjects, and other reported clinical experience has not identified differences in responses between the elderly and younger patients, but greater sensitivity of some older individuals on any drug therapy cannot be ruled out.
 Ciprofloxacin is known to be substantially excreted by the kidney, and the risk of adverse reactions may be greater in patients with impaired renal function.
@@ -67,8 +69,6 @@ However, since some older individuals experience reduced renal function by virtu
 
 In general, elderly patients may be more susceptible to drug-associated effects on the QT interval.
 Therefore, precaution should be taken when using ciprofloxacin tablets with concomitant drugs that can result in prolongation of the QT interval (for example, class IA or class III antiarrhythmics) or in patients with risk factors for torsade de pointes (for example, known QT prolongation, uncorrected hypokalemia) [see Warnings and Precautions (5.12)].
-
-Epidemiologic studies report an increased rate of aortic aneurysm and dissection within two months following use of fluoroquinolones, particularly in elderly patients [see Warnings and Precautions (5.8)].
 
 ## 8.6 Renal Impairment
 

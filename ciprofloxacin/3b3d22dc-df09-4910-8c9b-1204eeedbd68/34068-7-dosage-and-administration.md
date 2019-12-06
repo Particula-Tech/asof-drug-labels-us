@@ -87,6 +87,10 @@ Table 4: Recommended Starting and Maintenance Doses for Adult Patients with Impa
 
 When only the serum creatinine concentration is known, the following formulas may be used to estimate creatinine clearance:
 
+Men - Creatinine clearance (mL/min) = Weight (kg) x (140–age)
+
+72 x serum creatinine (mg/dL)
+
 Women - 0.85 x the value calculated for men.
 
 The serum creatinine should represent a steady state of renal function.

@@ -9,8 +9,8 @@ The following serious and otherwise important adverse drug reactions are discuss
 - Exacerbation of Myasthenia Gravis [see Warnings and Precautions (5.5)]
 - Other Serious and Sometimes Fatal Adverse Reactions [see Warnings and Precautions (5.6)]
 - Hypersensitivity Reactions [see Warnings and Precautions (5.7)]
-- Risk of Aortic Aneurysm and Dissection [see Warnings and Precautions (5.8)]
-- Hepatotoxicity [see Warnings and Precautions (5.9)]
+- Hepatotoxicity [see Warnings and Precautions (5.8)]
+- Risk of Aortic Aneurysm and Dissection [see Warnings and Precautions (5.9)]
 - Serious Adverse Reactions with Concomitant Theophylline [see Warnings and Precautions (5.10)]
 - Clostridium difficile-Associated Diarrhea [see Warnings and Precautions (5.11)]
 - Prolongation of the QT Interval [see Warnings and Precautions (5.12)]
@@ -22,9 +22,7 @@ The following serious and otherwise important adverse drug reactions are discuss
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-Adult Patients
-
-During clinical investigations with oral and parenteral ciprofloxacin, 49,038 patients received courses of the drug.
+Adult Patients During clinical investigations with oral and parenteral ciprofloxacin, 49,038 patients received courses of the drug.
 
 The most frequently reported adverse reactions, from clinical trials of all formulations, all dosages, all drug-therapy durations, and for all indications of ciprofloxacin therapy were nausea (2.5%), diarrhea (1.6%), liver function tests abnormal (1.3%), vomiting (1%), and rash (1%).
 
@@ -34,7 +32,7 @@ Table 8: Medically Important Adverse Reactions That Occurred In less than 1% of 
 | --- | --- |
 | Body as a Whole | Headache Abdominal Pain/Discomfort Pain |
 | Cardiovascular | Syncope Angina Pectoris Myocardial Infarction Cardiopulmonary Arrest Tachycardia Hypotension |
-| Central Nervous System | Restlessness Dizziness Insomnia Nightmares Hallucinations Paranoia Psychosis (toxic) Manic Reaction Irritability Tremor Ataxia Seizures (including Status Epilepticus) Malaise Anorexia Phobia Depersonalization Depression (potentially culminating in self-injurious behavior such as suicidal ideations/thoughts and attempted or completed suicide) Paresthesia Abnormal Gait Migraine |
+| Central Nervous System | Restlessness Dizziness Insomnia Nightmares Hallucinations Paranoia Psychosis (toxic) Manic Reaction Irritability Tremor Ataxia Seizures (including Status Epilepticus) Malaise Anorexia Phobia Depersonalization Depression (potentially culminating in self-injurious behavior, such as suicidal ideations/thoughts and attempted or completed suicide) Paresthesia Abnormal Gait Migraine |
 | Gastrointestinal | Intestinal Perforation Gastrointestinal Bleeding Cholestatic Jaundice Hepatitis Pancreatitis |
 | Hemic/Lymphatic | Petechia |
 | Metabolic/Nutritional | Hyperglycemia Hypoglycemia |
@@ -127,7 +125,7 @@ Table 10: Postmarketing Reports of Adverse Drug Reactions
 
 Changes in laboratory parameters while on ciprofloxacin tablets are listed below:
 
-Hepatic-Elevations of ALT (SGPT), AST (SGOT), alkaline phosphatase, LDH, serum bilirubin.
+Hepatic -Elevations of ALT (SGPT), AST (SGOT), alkaline phosphatase, LDH, serum bilirubin.
 
 Hematologic-Eosinophilia, leukopenia, decreased blood platelets, elevated blood platelets, pancytopenia.
 

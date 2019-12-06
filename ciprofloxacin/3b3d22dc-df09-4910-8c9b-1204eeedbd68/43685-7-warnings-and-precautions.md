@@ -5,7 +5,7 @@
 Fluoroquinolones, including ciprofloxacin tablets, have been associated with disabling and potentially irreversible serious adverse reactions from different body systems that can occur together in the same patient.
 Commonly seen adverse reactions include tendinitis, tendon rupture, arthralgia, myalgia, peripheral neuropathy, and central nervous system effects (hallucinations, anxiety, depression, insomnia, severe headaches, and confusion).
 These reactions can occur within hours to weeks after starting ciprofloxacin tablets.
-Patients of any age or without pre-existing risk factors have experienced these adverse reactions [see Warnings and Precautions (5.2, 5.3, 5.4, 5.8)].
+Patients of any age or without pre-existing risk factors have experienced these adverse reactions [see Warnings and Precautions (5.2, 5.3, 5.4)].
 
 Discontinue ciprofloxacin tablets immediately at the first signs or symptoms of any serious adverse reaction.
 In addition, avoid the use of fluoroquinolones, including ciprofloxacin tablets, in patients who have experienced any of these serious adverse reactions associated with fluoroquinolones.
@@ -80,13 +80,7 @@ Some reactions were accompanied by cardiovascular collapse, loss of consciousnes
 Only a few patients had a history of hypersensitivity reactions.
 Serious anaphylactic reactions require immediate emergency treatment with epinephrine and other resuscitation measures, including oxygen, intravenous fluids, intravenous antihistamines, corticosteroids, pressor amines, and airway management, including intubation, as indicated [see Adverse Reactions (6.1)].
 
-## 5.8 Risk of Aortic Aneurysm and Dissection
-
-Epidemiologic studies report an increased rate of aortic aneurysm and dissection within two months following use of fluoroquinolones, particularly in elderly patients.
-The cause for the increased risk has not been identified.
-In patients with a known aortic aneurysm or patients who are at greater risk for aortic aneurysms, reserve ciprofloxacin tablets for use only when there are no alternative antibacterial treatments available.
-
-## 5.9 Hepatotoxicity
+## 5.8 Hepatotoxicity
 
 Cases of severe hepatotoxicity, including hepatic necrosis, life-threatening hepatic failure, and fatal events, have been reported with ciprofloxacin tablets.
 Acute liver injury is rapid in onset (range 1-39 days), and is often associated with hypersensitivity.
@@ -95,6 +89,12 @@ Most patients with fatal outcomes were older than 55 years old.
 In the event of any signs and symptoms of hepatitis (such as anorexia, jaundice, dark urine, pruritus, or tender abdomen), discontinue treatment immediately.
 
 There can be a temporary increase in transaminases, alkaline phosphatase, or cholestatic jaundice, especially in patients with previous liver damage, who are treated with ciprofloxacin tablets [see Adverse Reactions (6.2, 6.3)].
+
+## 5.9 Risk of Aortic Aneurysm and Dissection
+
+Epidemiologic studies report an increased rate of aortic aneurysm and dissection within two months following use of fluoroquinolones, particularly in elderly patients.
+The cause for the increased risk has not been identified.
+In patients with a known aortic aneurysm or patients who are at greater risk for aortic aneurysms, reserve ciprofloxacin tablets for use only when there are no alternative antibacterial treatments available.
 
 ## 5.10 Serious Adverse Reactions with Concomitant Theophylline
 
@@ -145,10 +145,10 @@ Discontinue ciprofloxacin tablets if phototoxicity occurs [see Adverse Reactions
 
 Prescribing ciprofloxacin tablets in the absence of a proven or strongly suspected bacterial infection or a prophylactic indication is unlikely to provide benefit to the patient and increases the risk of the development of drug-resistant bacteria.
 
-## 5.16 Potential Risks with Concomitant Use of Drugs Metabolized by Cytochrome P450 1A2 Enzymes
+## 5.16 Potential Risks With Concomitant Use of Drugs Metabolized by Cytochrome P450 1A2 Enzymes
 
 Ciprofloxacin tablets are an inhibitor of the hepatic CYP1A2 enzyme pathway.
-Co-administration of ciprofloxacin tablets and other drugs primarily metabolized by CYP1A2 (for example, theophylline, methylxanthines, caffeine, tizanidine, ropinirole, clozapine, olanzapine and zolpidem) results in increased plasma concentrations of the co-administered drug and could lead to clinically significant pharmacodynamic adverse reactions of the co-administered drug [see Drug Interactions (7) and Clinical Pharmacology (12.3)].
+Co-administration of ciprofloxacin tablets and other drugs primarily metabolized by CYP1A2 (for example, theophylline, methylxanthines, caffeine, tizanidine, ropinirole, clozapine, olanzapine and zolpidem), results in increased plasma concentrations of the co-administered drug and could lead to clinically significant pharmacodynamic adverse reactions of the co-administered drug [see Drug Interactions (7) and Clinical Pharmacology (12.3)].
 
 ## 5.17 Interference with Timely Diagnosis of Syphilis
 
@@ -168,6 +168,5 @@ Hydrate patients well to prevent the formation of highly concentrated urine [see
 
 Fluoroquinolones, including ciprofloxacin tablets have been associated with disturbances of blood glucose, including symptomatic hyperglycemia and hypoglycemia, usually in diabetic patients receiving concomitant treatment with an oral hypoglycemic agent (for example, glyburide) or with insulin.
 In these patients, careful monitoring of blood glucose is recommended.
-
 Severe cases of hypoglycemia resulting in coma or death have been reported.
 If a hypoglycemic reaction occurs in a patient being treated with ciprofloxacin tablets, discontinue ciprofloxacin tablets and initiate appropriate therapy immediately [see Adverse Reactions (6.1), Drug Interactions (7)]

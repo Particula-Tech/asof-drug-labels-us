@@ -83,11 +83,6 @@ Fluoroquinolones like ciprofloxacin tablets may cause worsening of myasthenia gr
 Tell your healthcare provider if you have a history of myasthenia gravis before you start taking ciprofloxacin tablets.
 Call your healthcare provider right away if you have any worsening muscle weakness or breathing problems.
 
-5.
-Aortic aneurysm and dissection.
-Tell your healthcare provider if you have ever been told that you have an aortic aneurysm, a swelling of the large artery that carries blood from the heart to the body.
-Get emergency medical help right away if you have sudden chest, stomach, or back pain.
-
 What are ciprofloxacin tablets?
 
 Ciprofloxacin tablets are a fluoroquinolone antibacterial medicine used in adults age 18 years and older to treat certain infections caused by certain germs called bacteria.
@@ -135,7 +130,6 @@ Before you take Ciprofloxacin tablets, tell your healthcare provider if you:
 
 - have tendon problems; ciprofloxacin tablets should not be used in patients who have a history of tendon problems
 - have a disease that causes muscle weakness (myasthenia gravis); ciprofloxacin tablets should not be used in patients who have a known history of myasthenia gravis
-- have an aortic aneurysm
 - have liver problems
 - have central nervous system problems (such as epilepsy)
 - have nerve problems; ciprofloxacin tablets should not be used in patients who have a history of a nerve problem called peripheral neuropathy
@@ -150,9 +144,8 @@ Before you take Ciprofloxacin tablets, tell your healthcare provider if you:
   It is not known if ciprofloxacin tablets will harm your unborn baby.
 - are breastfeeding or plan to breastfeed.
   Ciprofloxacin tablets passes into breast milk.
-
-You and your healthcare provider should decide whether you will take ciprofloxacin tablets or breastfeed.
-You should not do both.
+  You and your healthcare provider should decide whether you will take ciprofloxacin tablets or breastfeed.
+  You should not do both.
 
 Tell your healthcare provider about all the medicines you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements.
 
@@ -224,6 +217,10 @@ Skin rash may be a sign of a more serious reaction to ciprofloxacin tablets.
 Stop taking ciprofloxacin tablets and tell your healthcare provider right away if you have yellowing of your skin or white part of your eyes, or if you have dark urine.
 These can be signs of a serious reaction to ciprofloxacin tablets (a liver problem).
 
+- Aortic aneurysm and dissection.
+  Tell your healthcare provider if you have ever been told that you have an aortic aneurysm, a swelling of the large artery that carries blood from the heart to the body.
+  Get emergency medical help right away if you have sudden chest, stomach, or back pain.
+
 - Intestine infection (Pseudomembranous colitis).
   Pseudomembranous colitis can happen with many antibacterial medicines, including ciprofloxacin tablets.
   Call your healthcare provider right away if you get watery diarrhea, diarrhea that does not go away, or bloody stools.
@@ -282,6 +279,8 @@ This Medication Guide summarizes the most important information about ciprofloxa
 If you would like more information about ciprofloxacin tablets, talk with your healthcare provider.
 You can ask your healthcare provider or pharmacist for information about ciprofloxacin tablets that is written for healthcare professionals.
 
+For more Information contact Hikma Pharmaceuticals USA Inc. at 1-877-233-2001.
+
 What are the ingredients in ciprofloxacin tablets?
 
 - Active ingredient: ciprofloxacin hydrochloride
@@ -295,4 +294,4 @@ Distributed by: West-Ward Pharmaceuticals Corp. Eatontown, NJ 07724 USA
 Manufactured by: HIKMA Pharmaceuticals P.O.
 Box 182400 Amman 11118 – Jordan
 
-Revised March 2019
+Revised August 2019

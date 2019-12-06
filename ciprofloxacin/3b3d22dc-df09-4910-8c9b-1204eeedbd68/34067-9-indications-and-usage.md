@@ -25,7 +25,7 @@ The efficacy of ciprofloxacin in the eradication of the chronic typhoid carrier 
 
 ## 1.6 Uncomplicated Cervical and Urethral Gonorrhea
 
-Ciprofloxacin tablets are indicated in adult patients for treatment of uncomplicated cervical and urethral gonorrhea due to Neisseria gonorrhoeae [see Warnings and Precautions (5.16)].
+Ciprofloxacin tablets are indicated in adult patients for treatment of uncomplicated cervical and urethral gonorrhea due to Neisseria gonorrhoeae [see Warnings and Precautions (5.17)].
 
 ## 1.7 Inhalational Anthrax (Post-Exposure)
 

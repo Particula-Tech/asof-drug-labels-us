@@ -34,7 +34,7 @@ Table 13: Steady-state Cmax and AUC of Ciprofloxacin Following Administration of
 
 | Parameters | 500 mg | 400 mg | 750 mg | 400 mg |
 | --- | --- | --- | --- | --- |
-|  | every 12 hours, orally | every 12 hours, intravenous | every 12 hours, orally. | every 8 hours, intravenous |
+|  | every 12 hours, orally | every 12 hours, intravenous | every 12 hours, orally | every 12 hours, intravenous |
 | AUC (mcg•hr/mL) | 13.71 | 12.71 | 31.62 | 32.93 |
 | Cmax (mcg/mL) | 2.97 | 4.56 | 3.59 | 4.07 |
 
@@ -198,6 +198,6 @@ Gram-positive bacteria Staphylococcus haemolyticus (methicillin-susceptible isol
 
 Gram-negative bacteria Acinetobacter Iwoffi Aeromonas hydrophila Edwardsiella tarda Enterobacter aerogenes Klebsiella oxytoca Legionella pneumophila Pasteurella multocida Salmonella enteritidis Vibrio cholerae Vibrio parahaemolyticus Vibrio vulnificus Yersinia enterocolitica
 
-Susceptibility Test Methods
+Susceptibility Testing
 
 For specific information regarding susceptibility test interpretive criteria and associated test methods and quality control standards recognized by FDA for this drug, please see: https://www.fda.gov/STIC.
