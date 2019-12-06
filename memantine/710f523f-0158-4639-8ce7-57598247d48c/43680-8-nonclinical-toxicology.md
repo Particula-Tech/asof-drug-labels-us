@@ -2,15 +2,21 @@
 
 ## 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
 
+Carcinogenesis
+
 There was no evidence of carcinogenicity in a 113-week oral study in mice at doses up to 40 mg/kg/day (7 times the maximum recommended human dose [MRHD] on a mg/m2 basis).
 There was also no evidence of carcinogenicity in rats orally dosed at up to 40 mg/kg/day for 71 weeks followed by 20 mg/kg/day (14 and 7 times the MRHD on a mg/m2 basis, respectively) through 128 weeks.
+
+Mutagenesis
 
 Memantine produced no evidence of genotoxic potential when evaluated in the in vitro S. typhimurium or E. coli reverse mutation assay, an in vitro chromosomal aberration test in human lymphocytes, an in vivo cytogenetics assay for chromosome damage in rats, and the in vivo mouse micronucleus assay.
 The results were equivocal in an in vitro gene mutation assay using Chinese hamster V79 cells.
 
+Impairment of Fertility
+
 No impairment of fertility or reproductive performance was seen in rats administered up to 18 mg/kg/day (6 times the MRHD on a mg/m2 basis) orally from 14 days prior to mating through gestation and lactation in females, or for 60 days prior to mating in males.
 
-## 13.2Animal Toxicology and /or Pharmacology
+## 13.2Animal Toxicology and/or Pharmacology
 
 Memantine induced neuronal lesions (vacuolation and necrosis) in the multipolar and pyramidal cells in cortical layers III and IV of the posterior cingulate and retrosplenial neocortices in rats, similar to those which are known to occur in rodents administered other NMDA receptor antagonists.
 Lesions were seen after a single dose of memantine.

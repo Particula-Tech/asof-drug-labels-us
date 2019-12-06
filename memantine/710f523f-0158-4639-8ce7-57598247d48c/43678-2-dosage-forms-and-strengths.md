@@ -1,6 +1,6 @@
 # 3DOSAGE FORMS AND STRENGTHS
 
-Each capsule contains 7 mg, 14 mg, 21 mg, or 28 mg of memantine HCl.
+Each capsule contains 7 mg, 14 mg, 21 mg, or 28 mg of memantine hydrochloride.
 
 - The 7 mg capsules are a yellow opaque capsule, with “FLI 7 mg” black imprint.
 - The 14 mg capsules are a yellow cap and dark green opaque body capsule, with “FLI 14 mg” black imprint on the yellow cap.

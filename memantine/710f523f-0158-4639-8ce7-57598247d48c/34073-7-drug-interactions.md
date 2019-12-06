@@ -1,12 +1,12 @@
 # 7DRUG INTERACTIONS
 
-## 7.1 Drugs That Make the Urine Alkaline
+## 7.1 Drugs That Make Urine Alkaline
 
 The clearance of memantine was reduced by about 80% under alkaline urine conditions at pH 8.
 Therefore, alterations of urine pH towards the alkaline condition may lead to an accumulation of the drug with a possible increase in adverse effects.
 Urine pH is altered by diet, drugs (e.g. carbonic anhydrase inhibitors, sodium bicarbonate) and clinical state of the patient (e.g. renal tubular acidosis or severe infections of the urinary tract).
 Hence, memantine should be used with caution under these conditions.
 
-## 7.2Use with other N-methyl-D-aspartate (NMDA) Antagonists
+## 7.2Use with Other N-methyl-D-aspartate (NMDA) Antagonists
 
 The combined use of NAMENDA XR with other NMDA antagonists (amantadine, ketamine, and dextromethorphan) has not been systematically evaluated and such use should be approached with caution.

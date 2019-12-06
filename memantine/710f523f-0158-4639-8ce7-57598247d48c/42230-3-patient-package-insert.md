@@ -1,17 +1,17 @@
 Patient Information
 
-NAMENDA XR [Nuh-MEN-dah Eks-Are]
+NAMENDA XR® [Nuh-MEN-dah Eks-Are]
 
 (memantine hydrochloride) Extended-Release Capsules
 
-Read this Patient Information that comes with NAMENDA XR before you start taking it and each time you get a refill.
+Read this Patient Information that comes with NAMENDA XR® before you start taking it and each time you get a refill.
 There may be new information.
 This information does not take the place of talking to your doctor about your medical condition or your treatment.
 
 What is NAMENDA XR?
 
 NAMENDA XR is a prescription medicine used for the treatment of moderate to severe dementia in people with Alzheimer’s disease.
-NAMENDA XR belongs to a class of medicines called NMDA (N-methyl-D-aspartate) inhibitors.
+NAMENDA XR belongs to a class of medicines called N-methyl-D-aspartate (NMDA) inhibitors.
 
 It is not known if NAMENDA XR is safe and effective in children.
 
@@ -32,8 +32,8 @@ Before you take NAMENDA XR, tell your doctor if you:
 - are pregnant or plan to become pregnant.
   It is not known if NAMENDA XR will harm your unborn baby.
 - are breastfeeding or plan to breastfeed.
-  It is not known if NAMENDA XR passes into your breast milk.
-  You and your doctor should decide if you will take NAMENDA XR or breastfeed.
+  It is not known if memantine passes into your breast milk.
+  Talk to your doctor about the best way to feed your baby if you take NAMENDA XR.
 
 Tell your doctor about all the medicines you take, including prescription and non-prescription medicines, vitamins, and herbal supplements.
 
@@ -62,7 +62,7 @@ How should I take NAMENDA XR?
 - If you forget to take one dose of NAMENDA XR, do not double up on the next dose.
   You should take only the next dose as scheduled.
 - If you have forgotten to take NAMENDA XR for several days, you should not take the next dose until you talk to your doctor.
-- If you take too much NAMENDA XR, call your doctor or poison control center at 1-800-222-1222 right away, or go to the nearest hospital emergency room.
+- If you take too much NAMENDA XR, call your doctor or poison control center at 1-800-222-1222, or go to the nearest hospital emergency room right away.
 
 What are the possible side effects of NAMENDA XR?
 
@@ -70,8 +70,8 @@ NAMENDA XR may cause side effects, including:
 
 The most common side effects of NAMENDA XR include:
 
-- Headache
-- Diarrhea
+- headache
+- diarrhea
 - dizziness
 
 These are not all the possible side effects of NAMENDA XR.
@@ -82,7 +82,7 @@ You may report side effects to FDA at 1-800-FDA-1088.
 
 How should I store NAMENDA XR?
 
-- Store NAMENDA XR at room temperature between 68°F to 77°F (20°C to 25°C).
+Store NAMENDA XR at room temperature between 68°F to 77°F (20°C to 25°C).
 
 What are the ingredients in NAMENDA XR?
 
@@ -107,21 +107,15 @@ For more information about NAMENDA XR, go to www.namendaxr.com, or call Allergan
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 
-Distributed by:
+Made in Ireland
 
-Allergan USA, Inc.
-
-Irvine, CA 92612
-
-Manufactured by:
-
-Forest Laboratories Ireland Ltd
-
-Licensed from Merz Pharmaceuticals GmbH
-
-Revised: 10/2016
-
-© 2017 Allergan.
-All rights reserved
+Distributed by: Allergan USA, Inc. Madison, NJ 07940 Licensed from Merz Pharmaceuticals GmbH & Co. KGaA
 
 NAMENDA XR® is a registered trademark of Merz Pharma GmbH & Co. KGaA
+
+Allergan® and its design are trademarks of Allergan, Inc.
+
+Revised: 11/2019
+
+© 2019 Allergan.
+All rights reserved.

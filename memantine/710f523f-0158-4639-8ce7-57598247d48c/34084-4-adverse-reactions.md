@@ -17,32 +17,32 @@ The most commonly observed adverse reactions seen in patients administered NAMEN
 
 Table 1 lists adverse reactions that were observed at an incidence of ≥ 2% in the NAMENDA XR group and occurred at a rate greater than placebo.
 
-Table 1: Adverse reactions observed with a frequency of ≥ 2% in the NAMENDA XR group and at a rate greater than placebo
+Table 1: Adverse Reactions Observed with a Frequency of ≥ 2% in the NAMENDA XR Group and at a Rate Greater than Placebo
 
-| Adverse reaction | Placebo (n = 335) % | NAMENDA XR 28mg (n = 341) % |
+| Adverse Reaction | Placebo (n=335) % | NAMENDA XR 28 mg (n=341) % |
 | --- | --- | --- |
 | Gastrointestinal Disorders |  |  |
 | Diarrhea | 4 | 5 |
 | Constipation | 1 | 3 |
 | Abdominal pain | 1 | 2 |
 | Vomiting | 1 | 2 |
-| Infections and infestations |  |  |
+| Infections and Infestations |  |  |
 | Influenza | 3 | 4 |
 | Investigations |  |  |
 | Weight, increased | 1 | 3 |
-| Musculoskeletal and connective tissue disorders |  |  |
+| Musculoskeletal and Connective Tissue Disorders |  |  |
 | Back pain | 1 | 3 |
-| Nervous system disorders |  |  |
+| Nervous System Disorders |  |  |
 | Headache | 5 | 6 |
 | Dizziness | 1 | 5 |
 | Somnolence | 1 | 3 |
-| Psychiatric disorders |  |  |
+| Psychiatric Disorders |  |  |
 | Anxiety | 3 | 4 |
 | Depression | 1 | 3 |
 | Aggression | 1 | 2 |
-| Renal and urinary disorders |  |  |
+| Renal and Urinary Disorders |  |  |
 | Urinary incontinence | 1 | 2 |
-| Vascular disorders |  |  |
+| Vascular Disorders |  |  |
 | Hypertension | 2 | 4 |
 | Hypotension | 1 | 2 |
 
@@ -62,7 +62,7 @@ Blood and Lymphatic System Disorders: agranulocytosis, leukopenia (including neu
 
 Cardiac Disorders: cardiac failure congestive.
 
-Gastrointestinal disorders: pancreatitis.
+Gastrointestinal Disorders: pancreatitis.
 
 Hepatobiliary Disorders: hepatitis.
 

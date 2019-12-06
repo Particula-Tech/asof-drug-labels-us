@@ -13,11 +13,24 @@ Advise the patient to read the FDA-approved patient labeling (Patient Informatio
   If a patient fails to take NAMENDA XR for several days, dosing should not be resumed without consulting that patient’s healthcare professional.
 - Advise patients and caregivers that NAMENDA XR may cause headache, diarrhea, and dizziness.
 
-Distributed by: Allergan USA, Inc. Irvine, CA 92612
+Made in Ireland.
 
-Manufactured by: Forest Laboratories Ireland Ltd
+Distributed by:
 
-Licensed from Merz Pharmaceuticals GmbH
+Allergan USA, Inc.
 
-© 2017 Allergan.
-All rights reserved
+Madison, NJ 07940
+
+Licensed from Merz Pharmaceuticals GmbH & Co.
+
+NAMENDA XR® is a registered trademark of Merz Pharma GmbH & Co KGaA
+
+All other trademarks are the property of their respective owners.
+
+Allergan and its design are trademarks of Allergan, Inc.
+
+Patented.
+See www.allergan.com/patents
+
+© 2019 Allergan.
+All rights reserved.
