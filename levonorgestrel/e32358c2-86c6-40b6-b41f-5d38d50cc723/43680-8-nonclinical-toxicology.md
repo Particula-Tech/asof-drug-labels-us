@@ -2,4 +2,4 @@
 
 ## 13.1Carcinogenesis, Mutagenesis, Impairment of Fertility
 
-[See Warnings and Precautions (5.9).]
+[see Warnings and Precautions (5.9).]
