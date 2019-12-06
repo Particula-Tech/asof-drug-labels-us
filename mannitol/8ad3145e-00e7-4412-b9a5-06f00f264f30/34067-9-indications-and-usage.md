@@ -1,12 +1,12 @@
-# INDICATIONS AND USAGE
+# 1 INDICATIONS AND USAGE
 
-Mannitol intravenous (Mannitol Injection, USP) is indicated for the following purposes in adults and pediatric patients.
+Mannitol Injection is indicated for the following purposes in adults and pediatric patients.
 
-## Therapeutic Use
+Therapeutic Use
 
-1. Reduction of intracranial pressure and brain mass.
-2. Reduction of high intraocular pressure when the pressure cannot be lowered by other means.
+- Reduction of intracranial pressure and brain mass.
+- Reduction of high intraocular pressure.
 
-## Diagnostic Use
+Diagnostic Use
 
 Measurement of glomerular filtration rate.
