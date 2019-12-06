@@ -1,208 +1,3 @@
-# PRINCIPAL DISPLAY PANEL - 0.3 mg / 1.5 mg Blister Card
-
-28 Tablets NDC 0046-1105-11
-
-WEEK 1 WEEK 2 WEEK 3 WEEK 4
-
-Pfizer
-
-PREMPRO® (conjugated estrogens/medroxyprogesterone acetate tablets)
-
-Rx only
-
-0.3 mg / 1.5 mg
-
-Each cream tablet contains 0.3 mg of Premarin® brand of conjugated estrogens and 1.5 mg of medroxyprogesterone acetate.
-
-Directions for Use: Take one tablet each day until all tablets have been taken.
-See accompanying information.
-
-Store at 20° to 25°C (68° to 77°F); excursions permitted to 15° to 30°C (59° to 86°F).
-[See USP Controlled Room Temperature]
-
-Note: Package not child resistant.
-Keep this and all medications out of the reach of children.
-
-PREMPRO 0.3 mg/1.5 mg
-
-Distributed by Wyeth Pharmaceuticals Inc A subsidiary of Pfizer Inc Philadelphia, PA 19101
-
-MADE IN IRELAND
-
-www.PREMPRO.com
-
-WEEK 1 WEEK 2 WEEK 3 WEEK 4
-
-LOT As per P.O.
-EXP As per P.O.
-
-PAA059861
-
-# PRINCIPAL DISPLAY PANEL - 0.3 mg / 1.5 mg Blister Carton
-
-NDC 0046-1105-11
-
-Rx only
-
-Pfizer PREMPRO ® (conjugated estrogens/ medroxyprogesterone acetate tablets)
-
-0.3 mg / 1.5 mg
-
-Package contains 1 blister card of 28 tablets. www.PREMPRO.com
-
-# PRINCIPAL DISPLAY PANEL - 0.45 mg / 1.5 mg Blister Card
-
-28 Tablets NDC 0046-1106-11
-
-WEEK 1 WEEK 2 WEEK 3 WEEK 4
-
-Pfizer
-
-PREMPRO® (conjugated estrogens/medroxyprogesterone acetate tablets)
-
-Rx only
-
-0.45 mg / 1.5 mg
-
-Each gold tablet contains 0.45 mg of Premarin® brand of conjugated estrogens and 1.5 mg of medroxyprogesterone acetate.
-
-Directions for Use: Take one tablet each day until all tablets have been taken.
-See accompanying information.
-
-Store at 20° to 25°C (68° to 77°F); excursions permitted to 15° to 30°C (59° to 86°F).
-[See USP Controlled Room Temperature]
-
-Note: Package not child resistant.
-Keep this and all medications out of the reach of children.
-
-PREMPRO 0.45 mg/1.5 mg
-
-Distributed by Wyeth Pharmaceuticals Inc A subsidiary of Pfizer Inc Philadelphia, PA 19101
-
-MADE IN IRELAND
-
-www.PREMPRO.com
-
-WEEK 1 WEEK 2 WEEK 3 WEEK 4
-
-LOT As per P.O.
-EXP As per P.O.
-
-PAA059798
-
-# PRINCIPAL DISPLAY PANEL - 0.45 mg / 1.5 mg Blister Carton
-
-NDC 0046-1106-11
-
-Rx only
-
-Pfizer PREMPRO ® (conjugated estrogens/ medroxyprogesterone acetate tablets)
-
-0.45 mg / 1.5 mg
-
-Package contains 1 blister card of 28 tablets. www.PREMPRO.com
-
-# PRINCIPAL DISPLAY PANEL - 0.625 mg / 2.5 mg Tablet Blister Card
-
-28 Tablets NDC 0046-1107-11
-
-WEEK 1 WEEK 2 WEEK 3 WEEK 4
-
-Pfizer
-
-PREMPRO® (conjugated estrogens/medroxyprogesterone acetate tablets)
-
-0.625 mg / 2.5 mg
-
-Each peach tablet contains 0.625 mg of Premarin® brand of conjugated estrogens and 2.5 mg of medroxyprogesterone acetate.
-
-Directions for Use: Take one tablet each day until all tablets have been taken.
-See accompanying information.
-
-Store at 20° to 25°C (68° to 77°F); excursions permitted to 15° to 30°C (59° to 86°F).
-[See USP Controlled Room Temperature]
-
-Note: Package not child resistant.
-Keep this and all medications out of the reach of children.
-
-PREMPRO 0.625 mg/2.5 mg
-
-Distributed by Wyeth Pharmaceuticals Inc A subsidiary of Pfizer Inc Philadelphia, PA 19101
-
-Rx only
-
-www.PREMPRO.com
-
-WEEK 1 WEEK 2 WEEK 3 WEEK 4
-
-LOT As per P.O.
-EXP As per P.O.
-
-14413900
-
-# PRINCIPAL DISPLAY PANEL - 0.625 mg / 2.5 mg Tablet Blister Card Carton
-
-NDC 0046-1107-11
-
-Pfizer PREMPRO® (conjugated estrogens/ medroxyprogesterone acetate tablets)
-
-0.625 mg / 2.5 mg
-
-Rx only
-
-Package contains 1 blister card of 28 tablets. www.PREMPRO.com
-
-# PRINCIPAL DISPLAY PANEL - 0.625 mg / 5 mg Blister Card
-
-28 Tablets NDC 0046-1108-11
-
-WEEK 1 WEEK 2 WEEK 3 WEEK 4
-
-Pfizer
-
-PREMPRO® (conjugated estrogens/medroxyprogesterone acetate tablets)
-
-Rx only
-
-0.625 mg / 5 mg
-
-Each light-blue tablet contains 0.625 mg of Premarin® brand of conjugated estrogens and 5 mg of medroxyprogesterone acetate.
-
-Directions for Use: Take one tablet each day until all tablets have been taken.
-See accompanying information.
-
-Store at 20° to 25°C (68° to 77°F); excursions permitted to 15° to 30°C (59° to 86°F).
-[See USP Controlled Room Temperature]
-
-Note: Package not child resistant.
-Keep this and all medications out of the reach of children.
-
-PREMPRO 0.625 mg/5 mg
-
-Distributed by Wyeth Pharmaceuticals Inc A subsidiary of Pfizer Inc Philadelphia, PA 19101
-
-MADE IN USA (includes foreign content)
-
-www.PREMPRO.com
-
-WEEK 1 WEEK 2 WEEK 3 WEEK 4
-
-LOT XXXXXXX EXP XXXXXX
-
-12944302
-
-# PRINCIPAL DISPLAY PANEL - 0.625 mg / 5 mg Tablet Blister Card Carton
-
-NDC 0046-1108-11
-
-Rx only
-
-Pfizer PREMPRO® (conjugated estrogens/ medroxyprogesterone acetate tablets)
-
-0.625 mg / 5 mg
-
-Package contains 1 blister card of 28 tablets. www.PREMPRO.com
-
 # PRINCIPAL DISPLAY PANEL - 28 Tablet 0.625 mg / 5 mg Blister Pack
 
 START HERE Rx only NDC 0046-2575-12
@@ -236,3 +31,207 @@ PREMPHASE® (conjugated estrogens/medroxyprogesterone acetate tablets)
 Package contains 1 blister card of 28 tablets
 
 Rx only
+
+# PRINCIPAL DISPLAY PANEL - 0.3 mg / 1.5 mg Blister Card
+
+28 Tablets NDC 0046-1105-11
+
+WEEK 1 WEEK 2 WEEK 3 WEEK 4
+
+Pfizer
+
+PREMPRO® (conjugated estrogens/medroxyprogesterone acetate tablets)
+
+0.3 mg / 1.5 mg
+
+Each cream tablet contains 0.3 mg of Premarin® brand of conjugated estrogens and 1.5 mg of medroxyprogesterone acetate.
+
+Directions for Use: Take one tablet each day until all tablets have been taken.
+See accompanying information.
+
+Store at 20° to 25°C (68° to 77°F); excursions permitted to 15° to 30°C (59° to 86°F).
+[See USP Controlled Room Temperature]
+
+Note: Package not child resistant.
+Keep this and all medications out of the reach of children.
+
+PREMPRO 0.3 mg/1.5 mg
+
+Distributed by Wyeth Pharmaceuticals LLC A subsidiary of Pfizer Inc Philadelphia, PA 19101
+
+www.PREMPRO.com
+
+Rx only
+
+PAA118009
+
+WEEK 1 WEEK 2 WEEK 3 WEEK 4
+
+LOT XXXXXXX EXP YYYY MMM
+
+# PRINCIPAL DISPLAY PANEL - 0.3 mg / 1.5 mg Blister Card Carton
+
+NDC 0046-1105-11
+
+Pfizer
+
+PREMPRO® (conjugated estrogens/ medroxyprogesterone acetate tablets)
+
+0.3 mg / 1.5 mg
+
+Package contains 1 blister card of 28 tablets.
+
+www.PREMPRO.com Rx only
+
+# PRINCIPAL DISPLAY PANEL - 0.45 mg / 1.5 mg Blister Card
+
+28 Tablets NDC 0046-1106-11
+
+WEEK 1 WEEK 2 WEEK 3 WEEK 4
+
+Pfizer
+
+PREMPRO® (conjugated estrogens/medroxyprogesterone acetate tablets)
+
+0.45 mg / 1.5 mg
+
+Each gold tablet contains 0.45 mg of Premarin® brand of conjugated estrogens and 1.5 mg of medroxyprogesterone acetate.
+
+Directions for Use: Take one tablet each day until all tablets have been taken.
+See accompanying information.
+
+Store at 20° to 25°C (68° to 77°F); excursions permitted to 15° to 30°C (59° to 86°F).
+[See USP Controlled Room Temperature]
+
+Note: Package not child resistant.
+Keep this and all medications out of the reach of children.
+
+PREMPRO 0.45 mg/1.5 mg
+
+Distributed by Wyeth Pharmaceuticals LLC A subsidiary of Pfizer Inc Philadelphia, PA 19101
+
+www.PREMPRO.com
+
+Rx only
+
+PAA118010
+
+WEEK 1 WEEK 2 WEEK 3 WEEK 4
+
+LOT XXXXXXX EXP YYYY MMM
+
+# PRINCIPAL DISPLAY PANEL - 0.45 mg / 1.5 mg Blister Card Carton
+
+NDC 0046-1106-11
+
+Pfizer
+
+PREMPRO® (conjugated estrogens/ medroxyprogesterone acetate tablets)
+
+0.45 mg / 1.5 mg
+
+Package contains 1 blister card of 28 tablets.
+
+www.PREMPRO.com Rx only
+
+# PRINCIPAL DISPLAY PANEL - 0.625 mg / 2.5 mg Tablet Blister Card
+
+28 Tablets NDC 0046-1107-11
+
+WEEK 1 WEEK 2 WEEK 3 WEEK 4
+
+Pfizer
+
+PREMPRO® (conjugated estrogens/medroxyprogesterone acetate tablets)
+
+0.625 mg / 2.5 mg
+
+Each peach tablet contains 0.625 mg of Premarin® brand of conjugated estrogens and 2.5 mg of medroxyprogesterone acetate.
+
+Directions for Use: Take one tablet each day until all tablets have been taken.
+See accompanying information.
+
+Store at 20° to 25°C (68° to 77°F); excursions permitted to 15° to 30°C (59° to 86°F).
+[See USP Controlled Room Temperature]
+
+Note: Package not child resistant.
+Keep this and all medications out of the reach of children.
+
+MADE IN IRELAND
+
+PREMPRO 0.625 mg/2.5 mg
+
+Distributed by Wyeth Pharmaceuticals LLC A subsidiary of Pfizer Inc Philadelphia, PA 19101
+
+Rx only
+
+www.PREMPRO.com
+
+PAA118021
+
+WEEK 1 WEEK 2 WEEK 3 WEEK 4
+
+LOT XXXXXXX EXP YYYY MMM
+
+# PRINCIPAL DISPLAY PANEL - 0.625 mg / 2.5 mg Tablet Blister Card Carton
+
+NDC 0046-1107-11
+
+Pfizer PREMPRO® (conjugated estrogens/ medroxyprogesterone acetate tablets)
+
+0.625 mg / 2.5 mg
+
+Rx only
+
+Package contains 1 blister card of 28 tablets. www.PREMPRO.com
+
+# PRINCIPAL DISPLAY PANEL - 0.625 mg / 5 mg Tablet Blister Card
+
+28 Tablets NDC 0046-1108-11
+
+WEEK 1 WEEK 2 WEEK 3 WEEK 4
+
+Pfizer
+
+PREMPRO® (conjugated estrogens/medroxyprogesterone acetate tablets)
+
+Rx only
+
+0.625 mg / 5 mg
+
+Each light-blue tablet contains 0.625 mg of Premarin® brand of conjugated estrogens and 5 mg of medroxyprogesterone acetate.
+
+Directions for Use: Take one tablet each day until all tablets have been taken.
+See accompanying information.
+
+Store at 20° to 25°C (68° to 77°F); excursions permitted to 15° to 30°C (59° to 86°F).
+[See USP Controlled Room Temperature]
+
+Note: Package not child resistant.
+Keep this and all medications out of the reach of children.
+
+MADE IN IRELAND
+
+PREMPRO 0.625 mg/5 mg
+
+Distributed by Wyeth Pharmaceuticals LLC A subsidiary of Pfizer Inc Philadelphia, PA 19101
+
+www.PREMPRO.com
+
+PAA118022
+
+WEEK 1 WEEK 2 WEEK 3 WEEK 4
+
+LOT XXXXXXX EXP YYYY MMM
+
+# PRINCIPAL DISPLAY PANEL - 0.625 mg / 5 mg Tablet Blister Card Carton
+
+NDC 0046-1108-11
+
+Rx only
+
+Pfizer PREMPRO® (conjugated estrogens/ medroxyprogesterone acetate tablets)
+
+0.625 mg / 5 mg
+
+Package contains 1 blister card of 28 tablets. www.PREMPRO.com
