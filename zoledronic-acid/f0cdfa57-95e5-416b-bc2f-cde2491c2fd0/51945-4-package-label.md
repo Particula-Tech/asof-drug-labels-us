@@ -1,18 +1,24 @@
-PRINCIPAL DISPLAY PANEL
+# PRINCIPAL DISPLAY PANEL
 
-Package Label – 4 mg / 5 mL
+NDC 0078-0387-25
 
-Rx Only NDC 0078-0387-25
+Zometa®
 
-Zometa® (zoledronic acid) Injection
+(zoledronic acid)
 
-4 mg / 5 mL
+Injection
 
-Concentrate for Intravenous Infusion
+4 mg / 5 mL (0.8 mg / mL)
 
-1 vial
+For Intravenous Infusion after Dilution
 
-Sterile Concentrate
+Single-dose
+
+Discard unsed portion.
+
+One 5 mL vial
+
+Sterile
 
 Not for direct injection.
 Dose must be diluted.
@@ -21,24 +27,29 @@ See package insert for Preparation of Solution.
 
 Do not mix with calcium-containing infusion solutions.
 
-PRINCIPAL DISPLAY PANEL
+Rx only
 
-Package Label – 4 mg / 100 mL
+NOVARTIS
 
-Rx Only NDC 0078-0590-61
+# PRINCIPAL DISPLAY PANEL
 
-Zometa®
+NDC 0078-0590-61
+
+ZOMETA®
 
 (zoledronic acid) Injection
 
 Sterile Solution
 
-4 mg / 100 mL
+100 mL bottle
+
+4 mg/100 mL (0.04 mg/mL)
 
 Solution for Intravenous Infusion
 
-Single use only.
-Discard unused portion.
+Single-dose
+
+Discard unsed portion.
 
 For more information visit
 
@@ -46,6 +57,10 @@ www.us.zometa.com
 
 or call
 
-1-866-4-Zometa
+1-866-4-ZOMETA
 
 (1-866-496-6382)
+
+NOVARTIS
+
+Rx only
