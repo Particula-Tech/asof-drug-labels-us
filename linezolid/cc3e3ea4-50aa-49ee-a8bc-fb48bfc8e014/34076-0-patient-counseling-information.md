@@ -23,8 +23,4 @@ Patients should be advised that:
 
 Manufactured for:
 
-Made in Norway
-
-451296A
-
-Issued: June 2015
+Lake Zurich, IL 60047 Made in Norway www.fresenius-kabi.com/us 451296C Revised: June 2019

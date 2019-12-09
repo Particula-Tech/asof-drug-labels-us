@@ -7,18 +7,17 @@ The recommended dosage for linezolid formulations for the treatment of infection
 Table 1.
 Dosage Guidelines for Linezolid
 
-| Infection* | Dosage and Route of Administration |  | Recommended Duration of Treatment (consecutive days) |
+| Infection* | Dosage, Route and Frequency of Administration |  | Recommended Duration of Treatment (consecutive days) |
 | --- | --- | --- | --- |
 | Pediatric Patients†(Birth through 11 Years of Age) | Adults and Adolescents (12 Years and Older) |  |  |
-| Nosocomial pneumonia | 10 mg/kg intravenously or oral‡ every 8 hours | 600 mg intravenously or oral‡ every 12 hours | 10 to 14 |
+| Nosocomial pneumonia | 10 mg/kg intravenously or oral ‡ every 8 hours | 600 mg intravenously or oral ‡ every 12 hours | 10 to 14 |
 | Community-acquired pneumonia, including concurrent bacteremia |  |  |  |
 | Complicated skin and skin structure infections |  |  |  |
-| Vancomycin-resistant Enterococcus faecium infections, including concurrent bacteremia | 10 mg/kg intravenously or oral‡ every 8 hours | 600 mg intravenously or oral‡ every 12 hours | 14 to 28 |
-| Uncomplicated skin and skin structure infections | Less than 5 yrs: 10 mg/kg oral‡ every 8 hours 5 to 11 yrs: 10 mg/kg oral‡ every 12 hours | Adults: 400 mg oral‡ every 12 hours Adolescents: 600 mg oral‡ every 12 hours | 10 to 14 |
+| Vancomycin-resistant Enterococcus faecium infections, including concurrent bacteremia | 10 mg/kg intravenously or oral ‡ every 8 hours | 600 mg intravenously or oral ‡ every 12 hours | 14 to 28 |
 
 * Due to the designated pathogens [see Indications and Usage (1)].
 
-† Neonates less than 7 days: Most pre-term neonates less than 7 days of age (gestational age less than 34 weeks) have lower systemic linezolid clearance values and larger AUC values than many full-term neonates and older infants.
+†Neonates less than 7days: Most pre-term neonates less than 7 days of age (gestational age less than 34 weeks) have lower systemic linezolid clearance values and larger AUC values than many full-term neonates and older infants.
 These neonates should be initiated with a dosing regimen of 10 mg/kg every 12 hours.
 Consideration may be given to the use of 10 mg/kg every 8 hours regimen in neonates with a sub-optimal clinical response.
 All neonatal patients should receive 10 mg/kg every 8 hours by 7 days of life [see Use in Specific Populations (8.4) and Clinical Pharmacology (12.3)].
@@ -47,7 +46,7 @@ If the same intravenous line is used for sequential infusion of several drugs, t
 
 ## 2.3 Compatibilities
 
-Compatible intravenous solutions include 0.9% Sodium Chloride Injection, 5% Dextrose Injection, and Lactated Ringer’s Injection.
+Compatible intravenous solutions include 0.9% Sodium Chloride Injection, USP, 5% Dextrose Injection, USP, and Lactated Ringer’s Injection, USP.
 
 ## 2.4 Incompatibilities
 

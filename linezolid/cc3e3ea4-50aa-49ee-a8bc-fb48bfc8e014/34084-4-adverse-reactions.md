@@ -56,7 +56,7 @@ Table 3 shows the incidence of all-causality, treatment-emergent adverse reactio
 Table 3.
 Incidence (%) of Treatment-Emergent Adverse Reactions Occurring in > 1% of Pediatric Patients (and > 1 Patient) in Either Treatment Group in Comparator-Controlled Clinical Trials
 
-| ADVERSE REACTIONS | Uncomplicated Skin and Skin Structure Infections* |  | All Other Indications† |  |
+| ADVERSE REACTIONS | Uncomplicated Skin and Skin Structure Infections* |  | All Other Indications † |  |
 | --- | --- | --- | --- | --- |
 | Linezolid (n=248) | Cefadroxil (n=251) | Linezolid (n=215) | Vancomycin (n=101) |  |
 | Diarrhea | 7.8 | 8 | 10.8 | 12.1 |
@@ -100,11 +100,11 @@ Percent of Adult Patients who Experienced at Least One Substantially Abnormal* H
 
 | Laboratory Assay | Uncomplicated Skin and Skin Structure Infections |  | All Other Indications |  |
 | --- | --- | --- | --- | --- |
-| Linezolid 400 mg every 12 hours | Clarithromycin 250 mg every 12 hours | Linezolid 600 mg every 12 hours | All Other Comparators† |  |
+| Linezolid 400 mg every 12 hours | Clarithromycin 250 mg every 12 hours | Linezolid 600 mg every 12 hours | All Other Comparators † |  |
 | Hemoglobin (g/dL) | 0.9 | 0 | 7.1 | 6.6 |
-| Platelet count (x 103/mm3) | 0.7 | 0.8 | 3 | 1.8 |
-| WBC (x 103/mm3) | 0.2 | 0.6 | 2.2 | 1.3 |
-| Neutrophils (x 103/mm3) | 0 | 0.2 | 1.1 | 1.2 |
+| Platelet count (x 10 3/mm 3) | 0.7 | 0.8 | 3 | 1.8 |
+| WBC (x 10 3/mm 3) | 0.2 | 0.6 | 2.2 | 1.3 |
+| Neutrophils (x 10 3/mm 3) | 0 | 0.2 | 1.1 | 1.2 |
 
 * < 75% (< 50% for neutrophils) of Lower Limit of Normal (LLN) for values normal at baseline; < 75% (< 50% for neutrophils) of LLN and of baseline for values abnormal at baseline.
 
@@ -115,7 +115,7 @@ Percent of Adult Patients who Experienced at Least One Substantially Abnormal* S
 
 | Laboratory Assay | Uncomplicated Skin and Skin Structure Infections |  | All Other Indications |  |
 | --- | --- | --- | --- | --- |
-| Linezolid 400 mg every 12 hours | Clarithromycin 250 mg every 12 hours | Linezolid 600 mg every 12 hours | All Other Comparators† |  |
+| Linezolid 400 mg every 12 hours | Clarithromycin 250 mg every 12 hours | Linezolid 600 mg every 12 hours | All Other Comparators † |  |
 | AST (U/L) | 1.7 | 1.3 | 5 | 6.8 |
 | ALT (U/L) | 1.7 | 1.7 | 9.6 | 9.3 |
 | LDH (U/L) | 0.2 | 0.2 | 1.8 | 1.5 |
@@ -133,13 +133,13 @@ Percent of Adult Patients who Experienced at Least One Substantially Abnormal* S
 Table 6.
 Percent of Pediatric Patients who Experienced at Least One Substantially Abnormal* Hematology Laboratory Value in Comparator-Controlled Clinical Trials with Linezolid
 
-| Laboratory Assay | Uncomplicated Skin and Skin Structure Infections† |  | All Other Indications‡ |  |
+| Laboratory Assay | Uncomplicated Skin and Skin Structure Infections † |  | All Other Indications ‡ |  |
 | --- | --- | --- | --- | --- |
 | Linezolid | Cefadroxil | Linezolid | Vancomycin |  |
 | Hemoglobin (g/dL) | 0 | 0 | 15.7 | 12.4 |
-| Platelet count (x 103/mm3) | 0 | 0.4 | 12.9 | 13.4 |
-| WBC (x 103/mm3) | 0.8 | 0.8 | 12.4 | 10.3 |
-| Neutrophils (x 103/mm3) | 1.2 | 0.8 | 5.9 | 4.3 |
+| Platelet count (x 10 3/mm 3) | 0 | 0.4 | 12.9 | 13.4 |
+| WBC (x 10 3/mm 3) | 0.8 | 0.8 | 12.4 | 10.3 |
+| Neutrophils (x 10 3/mm 3) | 1.2 | 0.8 | 5.9 | 4.3 |
 
 * < 75% (< 50% for neutrophils) of Lower Limit of Normal (LLN) for values normal at baseline; < 75% (< 50% for neutrophils) of LLN and < 75% (< 50% for neutrophils, < 90% for hemoglobin if baseline < LLN) of baseline for values abnormal at baseline.
 
@@ -151,7 +151,7 @@ Patients 12 years or older received linezolid 600 mg by mouth every 12 hours or 
 Table 7.
 Percent of Pediatric Patients who Experienced at Least One Substantially Abnormal* Serum Chemistry Laboratory Value in Comparator-Controlled Clinical Trials with Linezolid
 
-| Laboratory Assay | Uncomplicated Skin and Skin Structure Infections† |  | All Other Indications‡ |  |
+| Laboratory Assay | Uncomplicated Skin and Skin Structure Infections † |  | All Other Indications ‡ |  |
 | --- | --- | --- | --- | --- |
 | Linezolid | Cefadroxil | Linezolid | Vancomycin |  |
 | ALT (U/L) | 0 | 0 | 10.1 | 12.5 |
@@ -170,15 +170,15 @@ Patients 12 years or older received linezolid 600 mg by mouth every 12 hours or 
 ## 6.2 Postmarketing Experience
 
 The following adverse reactions have been identified during postapproval use of linezolid.
-Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure:
 
-Myelosuppression (including anemia, leukopenia, pancytopenia, and thrombocytopenia) has been reported during postmarketing use of linezolid [see Warnings and Precautions (5.1)].
-Peripheral neuropathy, and optic neuropathy sometimes progressing to loss of vision, have been reported in patients treated with linezolid [see Warnings and Precautions (5.2)].
-Lactic acidosis has been reported with the use of linezolid [see Warnings and Precautions (5.7)].
-Although these reports have primarily been in patients treated for longer than the maximum recommended duration of 28 days, these events have also been reported in patients receiving shorter courses of therapy.
-Serotonin syndrome has been reported in patients receiving concomitant serotonergic agents, including antidepressants such as selective serotonin reuptake inhibitors (SSRIs) and linezolid [see Warnings and Precautions (5.3)].
-Convulsions have been reported with the use of linezolid [see Warnings and Precautions (5.8)].
-Anaphylaxis, angioedema, and bullous skin disorders such as those described as Stevens-Johnson syndrome have been reported.
-Superficial tooth discoloration and tongue discoloration have been reported with the use of linezolid.
-The tooth discoloration was removable with professional dental cleaning (manual descaling) in cases with known outcome.
-Hypoglycemia, including symptomatic episodes, has been reported [see Warnings and Precautions (5.9)].
+- Myelosuppression (including anemia, leukopenia, pancytopenia, and thrombocytopenia) [see Warnings and Precautions (5.1)]; sideroblastic anemia.
+- Peripheral neuropathy, and optic neuropathy sometimes progressing to loss of vision [see Warnings and Precautions (5.2)].
+- Lactic acidosis [see Warnings and Precautions (5.7)].
+  Although these reports have primarily been in patients treated for longer than the maximum recommended duration of 28 days, these events have also been reported in patients receiving shorter courses of therapy.
+- Serotonin syndrome has been reported in patients receiving concomitant serotonergic agents, including antidepressants such as selective serotonin reuptake inhibitors (SSRIs) and linezolid [see Warnings and Precautions (5.3)].
+- Convulsions [see Warnings and Precautions (5.8)].
+- Anaphylaxis, angioedema, and bullous skin disorders including severe cutaneous adverse reactions (SCAR) such as toxic epidermal necrolysis and Stevens-Johnson syndrome.
+- Superficial tooth discoloration and tongue discoloration have been reported with the use of linezolid.
+  The tooth discoloration was removable with professional dental cleaning (manual descaling) in cases with known outcome.
+- Hypoglycemia, including symptomatic episodes [see Warnings and Precautions (5.9)].

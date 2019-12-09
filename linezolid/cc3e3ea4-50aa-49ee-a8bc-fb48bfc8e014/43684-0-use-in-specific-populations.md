@@ -49,7 +49,7 @@ Therefore, the use of linezolid for the empiric treatment of pediatric patients 
 The pharmacokinetics of linezolid have been evaluated in pediatric patients from birth to 17 years of age.
 In general, weight-based clearance of linezolid gradually decreases with increasing age of pediatric patients.
 However, in preterm (gestational age < 34 weeks) neonates < 7 days of age, linezolid clearance is often lower than in full-term neonates < 7 days of age.
-Consequently, preterm neonates < 7 days of age may need an alternative linezolid dosing regimen of 10 mg/kg every 12 hours [see Dosage and Administration (2.1) and Clinical Pharmacology (12.3)].
+Consequently, preterm neonates < 7 days of age may need an alternative linezolid dosing regimen of 10 mg/kg every 12 hours [seeDosage and Administration (2.1) and Clinical Pharmacology (12.3)].
 
 In limited clinical experience, 5 out of 6 (83%) pediatric patients with infections due to Gram-positive pathogens with minimum inhibitory concentrations (MICs) of 4 mcg/mL treated with linezolid had clinical cures.
 However, pediatric patients exhibit wider variability in linezolid clearance and systemic exposure (AUC) compared with adults.
