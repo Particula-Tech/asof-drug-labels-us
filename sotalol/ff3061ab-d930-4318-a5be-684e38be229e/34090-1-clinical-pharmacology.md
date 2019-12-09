@@ -10,8 +10,8 @@ Sotalol does not have partial agonist or membrane stabilizing activity.
 
 Although significant beta-blockade occurs at oral doses as low as 25 mg, significant Class III effects are seen only at daily doses of 160 mg and above.
 
-In children, a Class III electrophysiological effect can be seen at daily doses of 210 mg/m2 body surface area (BSA).
-A reduction of the resting heart rate due to the beta-blocking effect of sotalol is observed at daily doses ≥90 mg/m2 in children.
+In children, a Class III electrophysiological effect can be seen at daily doses of 210 mg/m 2 body surface area (BSA).
+A reduction of the resting heart rate due to the beta-blocking effect of sotalol is observed at daily doses ≥90 mg/m 2 in children.
 
 ## 12.2 Pharmacodynamics
 
@@ -27,12 +27,12 @@ In a small study (n=25) of patients with implanted defibrillators treated concur
 In a dose-response trial comparing three dose levels of sotalol, 80 mg, 120 mg, and 160 mg with placebo given q12h (or q24h in patients with a reduced renal creatinine clearance) for the prevention of recurrence of symptomatic atrial fibrillation (AFIB)/flutter (AFL), the mean ventricular rate during recurrence of AFIB/AFL was 125, 107, 110 and 99 beats/min in the placebo, 80 mg, 120 mg and 160 mg dose groups, respectively (p<0.017) for each sotalol dose group versus placebo).
 In another placebo controlled trial in which sotalol was titrated to a dose between 160 and 320 mg/day in patients with chronic AFIB, the mean ventricular rate during recurrence of AFIB was 107 and 84 beats/min in the placebo and sotalol groups, respectively (p<0.001).
 
-Twenty-five children in an unblinded, multicenter trial with supraventricular (SVT) and/or ventricular (VT) tachyarrhythmias, aged between 3 days and 12 years (mostly neonates and infants), received an ascending titration regimen with daily doses of 30, 90 and 210 mg/m2 with dosing every 8 hours for a total of 9 doses.
+Twenty-five children in an unblinded, multicenter trial with supraventricular (SVT) and/or ventricular (VT) tachyarrhythmias, aged between 3 days and 12 years (mostly neonates and infants), received an ascending titration regimen with daily doses of 30, 90 and 210 mg/m 2 with dosing every 8 hours for a total of 9 doses.
 During steady-state, the respective average increases above baseline of the QTc interval, in ms (%), were 2(+1%), 14(+4%) and 29(+7%) ms at the 3 dose levels.
 The respective mean maximum increases above baseline of the QTc interval, in ms (%), were 23(+6%), 36(+9%) and 55(+14%) ms at the 3 dose levels.
 The steady-state percent increases in the RR interval were 3, 9 and 12%.
-The smallest children (BSA <0.33m2) showed a tendency for larger Class III effects (ΔQTc) and an increased frequency of prolongations of the QTc interval as compared with the larger children (BSA ≥0.33m2).
-The beta-blocking effects also tended to be greater in the smaller children (BSA<0.33m2).
+The smallest children (BSA <0.33m2) showed a tendency for larger Class III effects (ΔQTc) and an increased frequency of prolongations of the QTc interval as compared with the larger children (BSA ≥0.33m 2).
+The beta-blocking effects also tended to be greater in the smaller children (BSA<0.33m 2).
 Both the Class III and beta-blocking effects of sotalol were linearly related with the plasma concentrations.
 
 Hemodynamics: In a study of systemic hemodynamic function measured invasively in 12 patients with a mean LV ejection fraction of 37% and ventricular tachycardia (9 sustained and 3 non-sustained), a median dose of 160 mg twice daily of sotalol produced a 28% reduction in heart rate and a 24% decrease in cardiac index at 2 hours post-dosing at steady-state.
@@ -65,10 +65,10 @@ The absorption of sotalol was reduced by approximately 20% compared to fasting w
 Since sotalol is not subject to first-pass metabolism, patients with hepatic impairment show no alteration in clearance of sotalol.
 
 The combined analysis of two unblinded, multicenter trials (a single dose and a multiple dose study) with 59 children, aged between 3 days and 12 years, showed the pharmacokinetics of sotalol to be first order.
-A daily dose of 30 mg/m2 of sotalol was administered in the single dose study and daily doses of 30, 90 and 210 mg/m2 were administered q8h in the multi-dose study.
+A daily dose of 30 mg/m 2 of sotalol was administered in the single dose study and daily doses of 30, 90 and 210 mg/m 2 were administered q8h in the multi-dose study.
 After rapid absorption with peak levels occurring on average between 2-3 hours following administration, sotalol was eliminated with a mean half-life of 9.5 hours.
 Steady-state was reached after 1-2 days.
 The average peak to trough concentration ratio was 2.
 BSA was the most important covariate and more relevant than age for the pharmacokinetics of sotalol.
-The smallest children (BSA <0.33 m2) exhibited a greater drug exposure (+59%) than the larger children who showed a uniform drug concentration profile.
+The smallest children (BSA <0.33 m 2) exhibited a greater drug exposure (+59%) than the larger children who showed a uniform drug concentration profile.
 The intersubject variation for oral clearance was 22%.

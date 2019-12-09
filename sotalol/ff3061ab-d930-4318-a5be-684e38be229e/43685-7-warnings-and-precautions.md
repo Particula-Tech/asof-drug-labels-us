@@ -78,7 +78,7 @@ There is a direct relationship between renal function, as measured by serum crea
 ## 5.11 Non-Allergic Bronchospasm
 
 Patients with bronchospastic diseases should, in general, not receive beta-blockers.
-If sotalol is to be administered, use the smallest effective dose, to minimize inhibition of bronchodilation produced by endogenous or exogenous catecholamine stimulation of beta2 receptors.
+If sotalol is to be administered, use the smallest effective dose, to minimize inhibition of bronchodilation produced by endogenous or exogenous catecholamine stimulation of beta 2 receptors.
 
 ## 5.12 Diabetes
 

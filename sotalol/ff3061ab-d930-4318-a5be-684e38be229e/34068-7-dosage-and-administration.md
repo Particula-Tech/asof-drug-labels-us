@@ -84,16 +84,16 @@ As in adults the following precautionary measures should be considered when init
 For children aged about 2 years and greater, with normal renal function, doses normalized for body surface area are appropriate for both initial and incremental dosing.
 Since the Class III potency in children [see Clinical Pharmacology (12.2)] is not very different from that in adults, reaching plasma concentrations that occur within the adult dose range is an appropriate guide.
 From pediatric pharmacokinetic data the following is recommended.
-For initiation of treatment, 30 mg/m2 three times a day (90 mg/m2 total daily dose) is approximately equivalent to the initial 160 mg total oral daily dose for adults.
-Subsequent titration to a maximum of 60 mg/m2 (approximately equivalent to the 360 mg total daily dose for adults) can then occur.
+For initiation of treatment, 30 mg/m 2 three times a day (90 mg/m 2 total daily dose) is approximately equivalent to the initial 160 mg total oral daily dose for adults.
+Subsequent titration to a maximum of 60 mg/m 2 (approximately equivalent to the 360 mg total daily dose for adults) can then occur.
 Titration should be guided by clinical response, heart rate and QTc, with increased dosing being carried out in-hospital.
 At least 36 hours should be allowed between dose increments to attain steady-state plasma concentrations of sotalol in patients with age-adjusted normal renal function.
 
 For children about 2 years or younger the above pediatric dosage should be reduced by a factor that depends heavily upon age, as shown in the following graph which shows age plotted on a logarithmic scale in months.
 
-For a child aged 20 months, the dosing suggested for children with normal renal function aged 2 years or greater should be multiplied by about 0.97; the initial starting dose would be (30 × 0.97) = 29.1 mg/m2, administered orally three times daily.
-For a child aged 1 month, the starting dose should be multiplied by 0.68; the initial starting dose would be (30 × 0.68) = 20 mg/m2, administered orally three times daily.
-For a child aged 1 week, the initial starting oral dose should be multiplied by 0.3; the starting dose would be (30 × 0.3) = 9 mg/m2.
+For a child aged 20 months, the dosing suggested for children with normal renal function aged 2 years or greater should be multiplied by about 0.97; the initial starting dose would be (30 × 0.97) = 29.1 mg/m 2, administered orally three times daily.
+For a child aged 1 month, the starting dose should be multiplied by 0.68; the initial starting dose would be (30 × 0.68) = 20 mg/m 2, administered orally three times daily.
+For a child aged 1 week, the initial starting oral dose should be multiplied by 0.3; the starting dose would be (30 × 0.3) = 9 mg/m 2.
 Similar calculations should be made for increased doses as titration proceeds.
 Since the half-life of sotalol decreases with decreasing age (below about 2 years), time to steady-state will also increase.
 Thus, in neonates the time to steady-state may be as long as a week or longer.
