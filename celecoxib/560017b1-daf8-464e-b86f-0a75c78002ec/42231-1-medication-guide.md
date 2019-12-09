@@ -143,12 +143,6 @@ Baltimore, Maryland 21202
 
 United States.
 
-Manufactured by:
+MADE IN INDIA
 
-Lupin Limited
-
-Goa 403 722
-
-INDIA.
-
-Revised: July 2019 ID#: 260972
+Revised: November 2019 ID#: 262417

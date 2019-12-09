@@ -20,15 +20,13 @@ NDC 68180-396-02 bottle of 500
 
 NDC 68180-396-03 bottle of 1000
 
-Celecoxib Capsules, 200 mg are size "0" capsules having gold opaque cap, imprinted with 'LU' in black ink and white opaque body imprinted with 'N43' in black ink, containing white to off-white powder.
+Celecoxib Capsules, 200 mg are size "1" capsules having gold opaque cap, imprinted with 'LU' in black ink and white opaque body imprinted with 'N43' in black ink, containing white to off-white powder.
 
 NDC Number Size
 
-NDC 68180-397-01 bottle of 100
+NDC 68180-399-01 bottle of 100
 
-NDC 68180-397-02 bottle of 500
-
-NDC 68180-397-03 bottle of 1000
+NDC 68180-399-02 bottle of 500
 
 Celecoxib Capsules, 400 mg are size "00EL" capsules having green opaque cap, imprinted with 'LU' in black ink and white opaque body imprinted with 'N44' in black ink, containing white to off-white powder.
 
