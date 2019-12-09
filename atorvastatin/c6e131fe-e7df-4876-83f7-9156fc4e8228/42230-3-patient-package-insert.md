@@ -73,6 +73,7 @@ Especially tell your doctor if you take medicines for:
 - heart failure
 - HIV or AIDS
 - hepatitis C virus
+- anti-virals
 
 Know all the medicines you take.
 Keep a list of them with you to show your doctor and pharmacist.
@@ -173,4 +174,4 @@ Active Ingredient: atorvastatin calcium
 
 Inactive Ingredients: calcium carbonate, USP; candelilla wax, FCC; croscarmellose sodium, NF; hydroxypropyl cellulose, NF; lactose monohydrate, NF; magnesium stearate, NF; microcrystalline cellulose, NF; Opadry White YS-1-7040 (hypromellose, polyethylene glycol, talc, titanium dioxide); polysorbate 80, NF; simethicone emulsion.
 
-LAB-0348-10.0 April 2019
+LAB-0348-11.0 November 2019
