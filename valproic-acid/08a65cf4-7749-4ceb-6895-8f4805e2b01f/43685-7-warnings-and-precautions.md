@@ -113,7 +113,7 @@ The risk did not vary substantially by age (5-100 years) in the clinical trials 
 Table 1 shows absolute and relative risk by indication for all evaluated AEDs.
 
 Table 1.
-Risk by indication for antiepileptic drugs in the pooled analysis
+Risk by Indication for Antiepileptic Drugs in the Pooled Analysis
 
 | Indication | Placebo Patients with Events Per 1,000 Patients | Drug Patients with Events Per 1,000 Patients | Relative Risk: Incidence of Events in Drug Patients/Incidence in Placebo Patients | Risk Difference: Additional Drug Patients with Events Per 1,000 Patients |
 | --- | --- | --- | --- | --- |
@@ -127,9 +127,6 @@ The relative risk for suicidal thoughts or behavior was higher in clinical trial
 Anyone considering prescribing Depakote or any other AED must balance the risk of suicidal thoughts or behavior with the risk of untreated illness.
 Epilepsy and many other illnesses for which AEDs are prescribed are themselves associated with morbidity and mortality and an increased risk of suicidal thoughts and behavior.
 Should suicidal thoughts and behavior emerge during treatment, the prescriber needs to consider whether the emergence of these symptoms in any given patient may be related to the illness being treated.
-
-Patients, their caregivers, and families should be informed that AEDs increase the risk of suicidal thoughts and behavior and should be advised of the need to be alert for the emergence or worsening of the signs and symptoms of depression, any unusual changes in mood or behavior, or the emergence of suicidal thoughts, behavior, or thoughts about self-harm.
-Behaviors of concern should be reported immediately to healthcare providers.
 
 ## 5.8 Bleeding and Other Hematopoietic Disorders
 
@@ -178,7 +175,7 @@ Clinical management and assessment should include examination of blood ammonia l
 
 Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS), also known as Multiorgan Hypersensitivity, has been reported in patients taking valproate.
 DRESS may be fatal or life-threatening.
-DRESS typically, although not exclusively, presents with fever, rash, and/or lymphadenopathy, in association with other organ system involvement, such as hepatitis, nephritis, hematological abnormalities, myocarditis, or myositis sometimes resembling an acute viral infection.
+DRESS typically, although not exclusively, presents with fever, rash, lymphadenopathy, and/or facial swelling, in association with other organ system involvement, such as hepatitis, nephritis, hematological abnormalities, myocarditis, or myositis sometimes resembling an acute viral infection.
 Eosinophilia is often present.
 Because this disorder is variable in its expression, other organ systems not noted here may be involved.
 It is important to note that early manifestations of hypersensitivity, such as fever or lymphadenopathy, may be present even though rash is not evident.

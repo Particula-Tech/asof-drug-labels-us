@@ -28,17 +28,17 @@ Vomiting was the only reaction that was reported by significantly (p ≤ 0.05) m
 Table 2.
 Adverse Reactions Reported by > 5% of Depakote-Treated Patients During Placebo-Controlled Trials of Acute Mania1
 
-| Adverse Reaction | Depakote (n = 89) | Placebo (n = 97) |
+| Adverse Reaction | Depakote (n = 89) % | Placebo (n = 97) % |
 | --- | --- | --- |
-| Nausea | 22% | 15% |
-| Somnolence | 19% | 12% |
-| Dizziness | 12% | 4% |
-| Vomiting | 12% | 3% |
-| Accidental Injury | 11% | 5% |
-| Asthenia | 10% | 7% |
-| Abdominal Pain | 9% | 8% |
-| Dyspepsia | 9% | 8% |
-| Rash | 6% | 3% |
+| Nausea | 22 | 15 |
+| Somnolence | 19 | 12 |
+| Dizziness | 12 | 4 |
+| Vomiting | 12 | 3 |
+| Accidental Injury | 11 | 5 |
+| Asthenia | 10 | 7 |
+| Abdominal Pain | 9 | 8 |
+| Dyspepsia | 9 | 8 |
+| Rash | 6 | 3 |
 | 1 The following adverse reactions occurred at an equal or greater incidence for placebo than for Depakote: back pain, headache, constipation, diarrhea, tremor, and pharyngitis. |  |  |
 
 The following additional adverse reactions were reported by greater than 1% but not more than 5% of the 89 Depakote-treated patients in controlled clinical trials:
@@ -76,7 +76,7 @@ Since patients were also treated with other antiepilepsy drugs, it is not possib
 Table 3.
 Adverse Reactions Reported by ≥ 5% of Patients Treated with Depakote During Placebo-Controlled Trial of Adjunctive Therapy for Complex Partial Seizures
 
-| Body System/Reaction | Depakote (%) (n = 77) | Placebo (%) (n = 70) |
+| Body System/Reaction | Depakote (n = 77) % | Placebo (n = 70) % |
 | --- | --- | --- |
 | Body as a Whole |  |  |
 | Headache | 31 | 21 |
@@ -116,7 +116,7 @@ Since patients were being titrated off another antiepilepsy drug during the firs
 Table 4.
 Adverse Reactions Reported by ≥ 5% of Patients in the High Dose Group in the Controlled Trial of Valproate Monotherapy for Complex Partial Seizures1
 
-| Body System/Reaction | High Dose (%) (n = 131) | Low Dose (%) (n = 134) |
+| Body System/Reaction | High Dose (n = 131) % | Low Dose (n = 134) % |
 | --- | --- | --- |
 | Body as a Whole |  |  |
 | Asthenia | 21 | 10 |
@@ -189,24 +189,24 @@ Table 5 includes those adverse reactions reported for patients in the placebo-co
 Table 5.
 Adverse Reactions Reported by > 5% of Depakote-Treated Patients During Migraine Placebo-Controlled Trials with a Greater Incidence Than Patients Taking Placebo1
 
-| Body System Reaction | Depakote (N = 202) | Placebo (N = 81) |
+| Body System Reaction | Depakote (N = 202) % | Placebo (N = 81) % |
 | --- | --- | --- |
 | Gastrointestinal System |  |  |
-| Nausea | 31% | 10% |
-| Dyspepsia | 13% | 9% |
-| Diarrhea | 12% | 7% |
-| Vomiting | 11% | 1% |
-| Abdominal Pain | 9% | 4% |
-| Increased Appetite | 6% | 4% |
+| Nausea | 31 | 10 |
+| Dyspepsia | 13 | 9 |
+| Diarrhea | 12 | 7 |
+| Vomiting | 11 | 1 |
+| Abdominal Pain | 9 | 4 |
+| Increased Appetite | 6 | 4 |
 | Nervous System |  |  |
-| Asthenia | 20% | 9% |
-| Somnolence | 17% | 5% |
-| Dizziness | 12% | 6% |
-| Tremor | 9% | 0% |
+| Asthenia | 20 | 9 |
+| Somnolence | 17 | 5 |
+| Dizziness | 12 | 6 |
+| Tremor | 9 | 0 |
 | Other |  |  |
-| Weight Gain | 8% | 2% |
-| Back Pain | 8% | 6% |
-| Alopecia | 7% | 1% |
+| Weight Gain | 8 | 2 |
+| Back Pain | 8 | 6 |
+| Alopecia | 7 | 1 |
 | 1 The following adverse reactions occurred in at least 5% of Depakote-treated patients and at an equal or greater incidence for placebo than for Depakote: flu syndrome and pharyngitis. |  |  |
 
 The following additional adverse reactions were reported by greater than 1% but not more than 5% of the 202 Depakote-treated patients in the controlled clinical trials:
@@ -233,7 +233,7 @@ Special Senses: Conjunctivitis, ear disorder, taste perversion, and tinnitus.
 
 Urogenital System: Cystitis, metrorrhagia, and vaginal hemorrhage.
 
-## 6.4 Post-Marketing Experience
+## 6.4 Postmarketing Experience
 
 The following adverse reactions have been identified during post approval use of Depakote.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
