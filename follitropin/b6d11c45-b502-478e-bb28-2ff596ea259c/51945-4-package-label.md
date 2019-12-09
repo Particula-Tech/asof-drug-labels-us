@@ -51,3 +51,21 @@ Rx only
 1 Gonal-f® RFF Redi-ject® 14 needles for injection (29 gauge) * revised formulation female
 
 EMD SERONO
+
+# PRINCIPAL DISPLAY PANEL - 150 IU Kit Carton
+
+NDC 44087-1118-1
+
+GONAL-f ® RFF Redi-ject®
+
+150 IU / 0.25 mL
+
+(follitropin alfa injection)
+
+For subcutaneous injection Do not shake
+
+Rx only
+
+1 Gonal-f® RFF Redi-ject® 4 needles for injection (29 gauge) * revised formulation female
+
+EMD SERONO

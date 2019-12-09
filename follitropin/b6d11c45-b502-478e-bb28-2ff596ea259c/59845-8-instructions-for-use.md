@@ -20,7 +20,7 @@ Warning: Do not reuse needles.
 
 Warning: Do not share the pen and needles with another person, because doing so can cause an infection.
 
-- The pen comes in 3 different IU amounts
+- The pen comes in 4 different IU amounts
 
 - Use the attached treatment diary to make sure you take the correct dose.
   Consult your healthcare provider on proper use of your treatment diary.
@@ -151,7 +151,7 @@ Important
     Always inject the amount you wrote in Column 7 of the treatment diary to complete your dose.
   - –Refer to the treatment diary for sample entries.
 
-Note: The pen contains extra medicine to ensure that you receive the full amount indicated on the pen (300 IU, 450 IU, or 900 IU).
+Note: The pen contains extra medicine to ensure that you receive the full amount indicated on the pen (150IU, 300 IU, 450 IU, or 900 IU).
 
 Appendix A: Completing an incomplete dose
 
@@ -206,10 +206,10 @@ EMD Serono, Inc
 
 Rockland, MA 02370
 
-EMD Serono, Inc. is an affiliate of Merck: KGaA, Darmstadt, Germany
+EMD Serono, Inc. is an affiliate of Merck KGaA, Darmstadt, Germany
 
 ©2017 EMD Serono, Inc.
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
-Revised: November 2017
+Revised: November 2019
