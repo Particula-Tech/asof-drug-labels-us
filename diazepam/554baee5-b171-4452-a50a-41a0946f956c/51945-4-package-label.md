@@ -1,4 +1,4 @@
-# PRINCIPAL DISPLAY PANEL - 2 mg Tablet Carton Label
+# PRINCIPAL DISPLAY PANEL - 2 mg Tablet Bottle Label
 
 NDC 0140-0004-01
 
@@ -18,7 +18,7 @@ Roche
 
 10185528
 
-# PRINCIPAL DISPLAY PANEL - 5 mg Tablet Carton Label
+# PRINCIPAL DISPLAY PANEL - 5 mg Tablet Bottle Label
 
 NDC 0140-0005-01
 
@@ -38,7 +38,7 @@ Roche
 
 10185529
 
-# PRINCIPAL DISPLAY PANEL - 10 mg Tablet Carton Label
+# PRINCIPAL DISPLAY PANEL - 10 mg Tablet Bottle Label
 
 NDC 0140-0006-01
 
