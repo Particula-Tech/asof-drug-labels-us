@@ -45,8 +45,8 @@ Manufactured by DPT Laboratories Ltd. San Antonio, TX 78215
 
 For Encore Dermatology, Inc. Scottsdale, AZ 85254
 
-IMPOYZ is a trademark of Encore Dermatology, Inc.
+IMPOYZ is a registered trademark of Encore Dermatology, Inc.
 
 www.encorederm.com
 
-Revised: 12/2017
+Revised: 11/2019
