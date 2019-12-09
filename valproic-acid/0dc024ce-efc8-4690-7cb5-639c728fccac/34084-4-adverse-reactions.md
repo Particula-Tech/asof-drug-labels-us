@@ -25,18 +25,18 @@ Table 3 summarizes those adverse reactions reported for patients in these trials
 
 | Table 3. Adverse Reactions Reported by > 5% of Depakote-Treated Patients During Placebo-Controlled Trials of Acute Mania1 |  |  |
 | --- | --- | --- |
-| Adverse Event | Depakote ER (n=338) | Placebo (n=263) |
-| Somnolence | 26% | 14% |
-| Dyspepsia | 23% | 11% |
-| Nausea | 19% | 13% |
-| Vomiting | 13% | 5% |
-| Diarrhea | 12% | 8% |
-| Dizziness | 12% | 7% |
-| Pain | 11% | 10% |
-| Abdominal Pain | 10% | 5% |
-| Accidental Injury | 6% | 5% |
-| Asthenia | 6% | 5% |
-| Pharyngitis | 6% | 5% |
+| Adverse Event | Depakote ER (n=338) % | Placebo (n=263) % |
+| Somnolence | 26 | 14 |
+| Dyspepsia | 23 | 11 |
+| Nausea | 19 | 13 |
+| Vomiting | 13 | 5 |
+| Diarrhea | 12 | 8 |
+| Dizziness | 12 | 7 |
+| Pain | 11 | 10 |
+| Abdominal Pain | 10 | 5 |
+| Accidental Injury | 6 | 5 |
+| Asthenia | 6 | 5 |
+| Pharyngitis | 6 | 5 |
 | 1 The following adverse reactions/event occurred at an equal or greater incidence for placebo than for Depakote ER: headache |  |  |
 
 The following additional adverse reactions were reported by greater than 1% of the Depakote ER-treated patients in controlled clinical trials:
@@ -73,7 +73,7 @@ Since patients were also treated with other antiepilepsy drugs, it is not possib
 
 | Table 4. Adverse Reactions Reported by ≥ 5% of Patients Treated with Valproate During Placebo-Controlled Trial of Adjunctive Therapy for Complex Partial Seizures |  |  |
 | --- | --- | --- |
-| Body System/Event | Depakote (%) (N=77) | Placebo (%) (N=70) |
+| Body System/Event | Depakote (N=77) % | Placebo (N=70) % |
 | Body as a Whole |  |  |
 | Headache | 31 | 21 |
 | Asthenia | 27 | 7 |
@@ -111,7 +111,7 @@ Since patients were being titrated off another antiepilepsy drug during the firs
 
 | Table 5. Adverse Reactions Reported by ≥ 5% of Patients in the High Dose Group in the Controlled Trial of Valproate Monotherapy for Complex Partial Seizures1 |  |  |
 | --- | --- | --- |
-| Body System/Event | High Dose (%) (n=131) | Low Dose (%) (n=134) |
+| Body System/Event | High Dose (n=131) % | Low Dose (n=134) % |
 | Body as a Whole |  |  |
 | Asthenia | 21 | 10 |
 | Digestive System |  |  |
@@ -182,17 +182,17 @@ Table 6 includes those adverse reactions reported for patients in the placebo-co
 
 | Table 6. Adverse Reactions Reported by >5% of Depakote ER-Treated Patients During the Migraine Placebo-Controlled Trial with a Greater Incidence than Patients Taking Placebo1 |  |  |
 | --- | --- | --- |
-| Body System Event | Depakote ER (n=122) | Placebo (n=115) |
+| Body System Event | Depakote ER (n=122) % | Placebo (n=115) % |
 | Gastrointestinal System |  |  |
-| Nausea | 15% | 9% |
-| Dyspepsia | 7% | 4% |
-| Diarrhea | 7% | 3% |
-| Vomiting | 7% | 2% |
-| Abdominal Pain | 7% | 5% |
+| Nausea | 15 | 9 |
+| Dyspepsia | 7 | 4 |
+| Diarrhea | 7 | 3 |
+| Vomiting | 7 | 2 |
+| Abdominal Pain | 7 | 5 |
 | Nervous System |  |  |
-| Somnolence | 7% | 2% |
+| Somnolence | 7 | 2 |
 | Other |  |  |
-| Infection | 15% | 14% |
+| Infection | 15 | 14 |
 | 1 The following adverse reactions occurred in greater than 5% of Depakote ER-treated patients and at a greater incidence for placebo than for Depakote ER: asthenia and flu syndrome. |  |  |
 
 The following additional adverse reactions were reported by greater than 1% but not more than 5% of Depakote ER-treated patients and with a greater incidence than placebo in the placebo-controlled clinical trial for migraine prophylaxis:
@@ -215,23 +215,23 @@ Table 7 includes those adverse reactions reported for patients in the placebo-co
 
 | Table 7. Adverse Reactions Reported by > 5% of Valproate-Treated Patients During Migraine Placebo-Controlled Trials with a Greater Incidence than Patients Taking Placebo1 |  |  |
 | --- | --- | --- |
-| Body System Reaction | Depakote (n=202) | Placebo (n=81) |
+| Body System Reaction | Depakote (n=202) % | Placebo (n=81) % |
 | Gastrointestinal System |  |  |
-| Nausea | 31% | 10% |
-| Dyspepsia | 13% | 9% |
-| Diarrhea | 12% | 7% |
-| Vomiting | 11% | 1% |
-| Abdominal Pain | 9% | 4% |
-| Increased Appetite | 6% | 4% |
+| Nausea | 31 | 10 |
+| Dyspepsia | 13 | 9 |
+| Diarrhea | 12 | 7 |
+| Vomiting | 11 | 1 |
+| Abdominal Pain | 9 | 4 |
+| Increased Appetite | 6 | 4 |
 | Nervous System |  |  |
-| Asthenia | 20% | 9% |
-| Somnolence | 17% | 5% |
-| Dizziness | 12% | 6% |
-| Tremor | 9% | 0% |
+| Asthenia | 20 | 9 |
+| Somnolence | 17 | 5 |
+| Dizziness | 12 | 6 |
+| Tremor | 9 | 0 |
 | Other |  |  |
-| Weight Gain | 8% | 2% |
-| Back Pain | 8% | 6% |
-| Alopecia | 7% | 1% |
+| Weight Gain | 8 | 2 |
+| Back Pain | 8 | 6 |
+| Alopecia | 7 | 1 |
 | 1 The following adverse reactions occurred in greater than 5% of Depakote-treated patients and at a greater incidence for placebo than for Depakote: flu syndrome and pharyngitis. |  |  |
 
 The following additional adverse reactions were reported by greater than 1% but not more than 5% of the 202 valproate-treated patients in the controlled clinical trials:
@@ -256,7 +256,7 @@ Skin and Appendages: Pruritus.
 
 Urogenital System: Metrorrhagia.
 
-## 6.4 Post-Marketing Experience
+## 6.4 Postmarketing Experience
 
 The following adverse reactions have been identified during post approval use of Depakote.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.

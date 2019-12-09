@@ -49,6 +49,8 @@ Instruct patients to notify their healthcare provider if they notice a medicatio
 
 - 250 mg is Mfd. by AbbVie LTD, Barceloneta, PR 00617 500 mg is Mfd. by AbbVie Inc., North Chicago, IL 60064 U.S.A. or AbbVie LTD, Barceloneta, PR 00617 For AbbVie Inc., North Chicago, IL 60064 U.S.A.
 
-©2019 AbbVie Inc. Revised: February 2019
+©2000-2019 AbbVie Inc.
 
-03-B890
+Revised: November 2019
+
+03-C084
