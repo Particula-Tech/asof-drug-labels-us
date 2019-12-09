@@ -10,7 +10,7 @@ For intravenous infusion only.
 Not to be administered by other routes.
 Hyperosmotic, must be diluted.
 
-Single-use vial.
+Single-dose vial.
 Discard unused portion
 
 Rx ONLY
@@ -29,7 +29,7 @@ For intravenous infusion only.
 Not to be administered by other routes.
 Hyperosmotic, must be diluted.
 
-Single-use vial.
+Single-dose vial.
 Discard unused portion
 
 Rx ONLY

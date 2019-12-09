@@ -1,6 +1,6 @@
 # 3 DOSAGE FORMS AND STRENGTHS
 
-ZALTRAP is available as:
+ZALTRAP is a clear, colorless to pale-yellow solution available as:
 
-- 100 mg per 4 mL (25 mg per mL) solution, single-use vial
-- 200 mg per 8 mL (25 mg per mL) solution, single-use vial
+- Injection: 100 mg/4 mL (25 mg/mL) solution in a single-dose vial
+- Injection: 200 mg/8 mL (25 mg/mL) solution in a single-dose vial

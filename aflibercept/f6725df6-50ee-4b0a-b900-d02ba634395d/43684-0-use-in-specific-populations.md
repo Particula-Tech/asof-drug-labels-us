@@ -2,32 +2,58 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Category C
+Risk Summary
+
+Based on findings from animal reproduction studies and its mechanism of action [see Clinical Pharmacology (12.1)], ZALTRAP can cause fetal harm when administered to pregnant women.
+There is insufficient data in pregnant women exposed to ZALTRAP to assess the risks.
+Administration of ziv-aflibercept during the period of organogenesis was embryotoxic and teratogenic in rabbits at exposure levels approximately 0.3 times the human exposure at the 4 mg per kg dose (see Data).
+Advise pregnant women of the potential risk to a fetus.
+
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively.
+
+Data
+
+Animal data
+
+In pregnant rabbits, administration of ziv-aflibercept during the period of organogenesis resulted in an increase in postimplantation loss and external (including anasarca, umbilical hernia, diaphragmatic hernia and gastroschisis, cleft palate, ectrodactyly, and anal atresia), visceral (heart, great vessels, and arteries), and skeletal fetal malformations (including fused vertebrae, sternebrae, and ribs, supernumerary arches and ribs, and incomplete ossification) at doses greater than or equal to 3 mg per kg, administered once every 3 days (approximately 0.3 times the human exposure at the 4 mg per kg dose based on AUC).
+
+## 8.2 Lactation
 
 Risk Summary
 
-There are no adequate and well-controlled studies with ZALTRAP in pregnant women.
-ZALTRAP was embryotoxic and teratogenic in rabbits at exposure levels lower than human exposures at the recommended dose, with increased incidences of external, visceral, and skeletal fetal malformations.
-ZALTRAP should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
+There are no data on the presence of ziv-aflibercept in human milk, or the effects of ziv-aflibercept on the breastfed infant or on milk production.
+Because of the potential for serious adverse reactions in breastfed infants, advise women not to breastfeed during treatment with ZALTRAP and for 1 month following the last dose.
 
-Animal Data
+## 8.3 Females and Males of Reproductive Potential
 
-Ziv-aflibercept produced embryo-fetal toxicity when administered every 3 days during organogenesis in pregnant rabbits at all intravenous doses tested, ≥ 3 mg per kg.
-Adverse embryo-fetal effects included increased incidences of postimplantation losses and external (including anasarca, umbilical hernia, diaphragmatic hernia and gastroschisis, cleft palate, ectrodactyly, and atresia), visceral (in the heart, great vessels, and arteries), and skeletal fetal malformations (including fused vertebrae, sternebrae, and ribs; supernumerary arches and ribs, and incomplete ossification).
-Administration of the 3 mg per kg dose to rabbits resulted in systemic exposure (AUC) that was approximately 30% of the AUC in patients at the recommended dose.
-The incidence and severity of fetal anomalies increased with increasing dose.
+Pregnancy Testing
 
-## 8.3 Nursing Mothers
+Verify the pregnancy status in females of reproductive potential prior to initiating ZALTRAP.
 
-It is not known whether ZALTRAP is excreted in human milk.
-Because many drugs are excreted in human milk and because of the potential for serious adverse reactions in nursing infants from ZALTRAP, a decision should be made whether to discontinue nursing or discontinue the drug, taking into account the importance of the drug to the mother.
+Contraception
+
+Based on data from animal studies and its mechanism of action, ZALTRAP can cause fetal harm when administered to pregnant women [see Use in Specific Populations (8.1)].
+
+Females
+
+Advise female patients of reproductive potential to use effective contraception during treatment with ZALTRAP and for 1 month following the last dose.
+
+Infertility
+
+Advise female and male patients of reproductive potential that ZALTRAP may impair reproductive function and fertility [see Nonclinical Toxicology (13.1)].
 
 ## 8.4 Pediatric Use
 
 The safety and effectiveness in pediatric patients have not been established.
-In a dose-escalation, safety, and tolerability study, 21 patients ages 2 to 21 years (median age 12.9) with solid tumors received ZALTRAP at doses ranging from 2 to 3 mg/kg, IV, every two weeks.
-The pharmacokinetics of free ziv-aflibercept were evaluated in 8 of these patients (ages 5 to 17 years) [see Clinical Pharmacology (12.3)].
-The maximum tolerated dose in the study was 2.5 mg/kg, below the dose known to be safe and effective in adults with mCRC.
+Safety and efficacy were assessed, but not established in a dose-escalation, safety, and tolerability study (NCT00622414) in 21 patients with solid tumors 2 to 21 years of age (median age 12.9).
+The mean elimination half-life of free ziv-aflibercept determined after the first dose in 8 pediatric patients aged 5 to 17 years was within the range of values previously observed in adults.
+The maximum tolerated dose based on body weight in these pediatric patients was lower than the dose known to be safe and effective in adults with mCRC.
+
+Juvenile Animal Toxicity Data
+
+Weekly/every-two-weeks intravenous administration of ziv-aflibercept at dose of 3 mg per kg (approximately 0.6 times the human exposure at the 4 mg per kg dose based on AUC) to growing young adult (sexually mature) cynomolgus monkeys for up to 6 months resulted in changes in the bone (effects on growth plate and the axial and appendicular skeleton), nasal cavity (atrophy/loss of the septum and/or turbinates), kidney (glomerulopathy with inflammation), ovary (decreased number of maturing follicles, granulosa cells, and/or theca cells), and adrenal gland (decreased vacuolation with inflammation).
+In another study in sexually immature cynomolgus monkeys (treated intravenously for 3 months), there were similar effects.
+The skeletal and nasal cavity effects were not reversible after a post-dosing recovery period.
 
 ## 8.5 Geriatric Use
 
@@ -37,23 +63,11 @@ Monitor elderly patients more closely for diarrhea and dehydration [see Warnings
 
 The effect of ZALTRAP on overall survival was similar in patients <65 years old and ≥65 years old who received ZALTRAP/FOLFIRI.
 
-No dose adjustment of ZALTRAP is recommended for patients greater than or equal to 65 years of age.
+## 8.6 Renal Impairment
 
-## 8.6 Hepatic Impairment
+No dosage modification is recommended for patients with renal impairment [see Clinical Pharmacology (12.3)].
 
-No dedicated clinical studies have been conducted to evaluate the effect of hepatic impairment on the pharmacokinetics of ziv-aflibercept.
+## 8.7 Hepatic Impairment
 
-Based on a population PK analysis with data from 1507 patients, ziv-aflibercept exposure in patients with mild and moderate hepatic impairment were similar to those in patients with normal hepatic function [see Clinical Pharmacology (12.3)].
-There are no data available for patients with severe hepatic impairment.
-
-## 8.7 Renal Impairment
-
-No dedicated clinical studies have been conducted to evaluate the effect of renal impairment on the pharmacokinetics of ziv-aflibercept.
-
-Based on a population PK analysis with data from 1507 patients, ziv-aflibercept exposure in patients with mild, moderate, and severe renal impairment were similar to those in patients with normal renal function [see Clinical Pharmacology (12.3)].
-
-## 8.8 Females and Males of Reproductive Potential
-
-Male and female reproductive function and fertility may be compromised during treatment with ZALTRAP, as suggested by findings in monkeys [see Nonclinical Toxicology (13.1)].
-These animal findings were reversible within 18 weeks after cessation of treatment.
-Females and males of reproductive potential should use highly effective contraception during and up to a minimum of 3 months after the last dose of treatment.
+No dosage modification is recommended for patients with mild (total bilirubin >1 to 1.5 times upper limit normal [ULN] and any aspartate transaminase [AST]) and moderate (total bilirubin >1.5 to 3 times ULN and any AST) hepatic impairment [see Clinical Pharmacology (12.3)].
+ZALTRAP has not been studied in patients with severe hepatic impairment (total bilirubin >3 times ULN and any AST).

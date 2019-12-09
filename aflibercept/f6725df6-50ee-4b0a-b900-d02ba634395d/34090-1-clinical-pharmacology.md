@@ -9,34 +9,39 @@ This inhibition can result in decreased neovascularization and decreased vascula
 In animals, ziv-aflibercept was shown to inhibit the proliferation of endothelial cells, thereby inhibiting the growth of new blood vessels.
 Ziv-aflibercept inhibited the growth of xenotransplanted colon tumors in mice.
 
+## 12.2 Pharmacodynamics
+
+Cardiac Electrophysiology
+
+The effect of 6 mg per kg intravenous ZALTRAP every three weeks on QTc interval was evaluated in 87 patients with solid tumors in a randomized, placebo-controlled study.
+No large changes in the mean QT interval from baseline (i.e., greater than 20 ms as corrected for placebo) based on Fridericia correction method were detected in the study.
+However, a small increase in the mean QTc interval (i.e., less than 10 ms) cannot be excluded due to limitations of the study design.
+
 ## 12.3 Pharmacokinetics
 
-Plasma concentrations of free and VEGF-bound ziv-aflibercept were measured using specific enzyme-linked immunosorbent assays (ELISAs).
-Free ziv-aflibercept concentrations appear to exhibit linear pharmacokinetics in the dose range of 2–9 mg/kg.
-Following 4 mg/kg every two weeks intravenous administration of ZALTRAP, the elimination half-life of free ziv-aflibercept was approximately 6 days (range 4–7 days).
+Plasma concentrations of free and VEGF-bound ziv-aflibercept were measured using specific enzyme-linked immunosorbent assays (ELISA).
+Free ziv-aflibercept concentrations appear to exhibit linear pharmacokinetics in the dose range of 2 mg per kg to 9 mg per kg.
 Steady state concentrations of free ziv-aflibercept were reached by the second dose.
-The accumulation ratio for free ziv-aflibercept was approximately 1.2 after administration of 4 mg/kg every two weeks.
+The accumulation ratio for free ziv-aflibercept was approximately 1.2 after administration of 4 mg per kg every two weeks.
+
+Elimination
+
+Following a dose of 4 mg per kg every two weeks administered intravenously, the elimination half-life of free ziv-aflibercept was approximately 6 days (range 4–7 days).
 
 Specific Populations
 
-Based on a population pharmacokinetic analysis, age, race, and gender did not have a clinically important effect on the exposure of free ziv-aflibercept.
+Based on a population pharmacokinetic analysis, age, race, and sex did not have a clinically important effect on the exposure of free ziv-aflibercept.
 Patients weighing ≥100 kg had a 29% increase in systemic exposure compared to patients weighing 50 to 100 kg.
 
-Hepatic impairment
+Patients with hepatic impairment
 
-Based on a population pharmacokinetic analysis which included patients with mild (total bilirubin >1.0×–1.5× ULN and any SGOT/AST, n=63) and moderate (total bilirubin >1.5×–3× ULN and any SGOT/AST, n=5) hepatic impairment, there was no effect of total bilirubin, aspartate amino transferase, and alanine amino transferase on the clearance of free ziv-aflibercept.
-There is no data available for patients with severe hepatic impairment (total bilirubin >3× ULN and any SGOT/AST).
+Based on a population pharmacokinetic analysis which included patients with mild (total bilirubin >1 to 1.5 times ULN and any AST, n=63) and moderate (total bilirubin >1.5 to 3 times ULN and any AST, n=5) hepatic impairment, there was no effect of total bilirubin, AST, and alanine aminotransferase on the clearance of free ziv-aflibercept.
+There are no data available for patients with severe hepatic impairment (total bilirubin >3 times ULN and any AST).
 
-Renal impairment
+Patients with renal impairment
 
 Based on a population pharmacokinetic analysis which included patients with mild (CLCR 50–80 mL/min, n=549), moderate (CLCR 30–50 mL/min, n=96), and severe renal impairment (CLCR <30 mL/min, n=5), there was no clinically important effect of creatinine clearance on the clearance of free ziv-aflibercept.
 
-Pediatrics
+Drug Interaction Studies
 
-Following intravenous administration of ZALTRAP 2.0 mg/kg, 2.5 mg/kg, or 3.0 mg/kg every two weeks to 8 pediatric patients with solid tumors (ages 5 to 17 years), the mean elimination half-life of free ziv-aflibercept, determined after the first dose, was approximately 4 days (range 3–6 days).
-
-## 12.6 Cardiac Electrophysiology
-
-The effect of 6 mg/kg intravenous ZALTRAP every three weeks on QTc interval was evaluated in 87 patients with solid tumors in a randomized, placebo-controlled study.
-No large changes in the mean QT interval from baseline (i.e., greater than 20 ms as corrected for placebo) based on Fridericia correction method were detected in the study.
-However, a small increase in the mean QTc interval (i.e., less than 10 ms) cannot be excluded due to limitations of the study design.
+No clinically meaningful interaction was found between ziv-aflibercept and irinotecan or fluorouracil based on cross-study comparisons and population pharmacokinetic analyses.
