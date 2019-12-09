@@ -1,5 +1,7 @@
 # ADVERSE REACTIONS:
 
+To report SUSPECTED ADVERSE REACTIONS, contact Fresenius Kabi USA, LLC at 1-800-551-7176 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
+
 Reactions to ropivacaine are characteristic of those associated with other amide-type local anesthetics.
 A major cause of adverse reactions to this group of drugs may be associated with excessive plasma levels, which may be due to overdosage, unintentional intravascular injection or slow metabolic degradation.
 
@@ -8,7 +10,10 @@ The reference drug was usually bupivacaine.
 The studies used a variety of premedications, sedatives, and surgical procedures of varying length.
 A total of 3,988 patients have been exposed to Naropin at concentrations up to 1% in clinical trials.
 Each patient was counted once for each type of adverse event.
-Incidence ≥ 5% For the indications of epidural administration in surgery, cesarean section, postoperative pain management, peripheral nerve block, and local infiltration, the following treatment-emergent adverse events were reported with an incidence of ≥5% in all clinical studies (N=3988): hypotension (37%), nausea (24.8%), vomiting (11.6%), bradycardia (9.3%), fever (9.2%), pain (8%), postoperative complications (7.1%), anemia (6.1%), paresthesia (5.6%), headache (5.1%), pruritus (5.1%), and back pain (5%).
+
+## Incidence ≥5%
+
+For the indications of epidural administration in surgery, cesarean section, postoperative pain management, peripheral nerve block, and local infiltration, the following treatment-emergent adverse events were reported with an incidence of ≥ 5% in all clinical studies (N=3988): hypotension (37%), nausea (24.8%), vomiting (11.6%), bradycardia (9.3%), fever (9.2%), pain (8%), postoperative complications (7.1%), anemia (6.1%), paresthesia (5.6%), headache (5.1%), pruritus (5.1%), and back pain (5%).
 
 ## Incidence 1 to 5%
 
@@ -20,7 +25,7 @@ The reported adverse events are derived from controlled clinical studies with Na
 Table 3A and 3B list adverse events (number and percentage) that occurred in at least 1% of Naropin-treated patients in these studies.
 The majority of patients receiving concentrations higher than 5 mg/mL (0.5%) were treated with Naropin.
 
-Table 3A Adverse Events Reported in ≥ 1% of Adult Patients Receiving Regional or Local Anesthesia (Surgery, Labor, Cesarean Section, Postoperative Pain Management, Peripheral Nerve Block and Local Infiltration)
+Table 3A Adverse Events Reported in ≥1% of Adult Patients Receiving Regional or Local Anesthesia (Surgery, Labor, Cesarean Section, Postoperative Pain Management, Peripheral Nerve Block and Local Infiltration)
 
 | Adverse Reaction | Naropin total N=1661 |  | Bupivacaine total N=1433 |  |
 | --- | --- | --- | --- | --- |
@@ -45,9 +50,9 @@ Table 3A Adverse Events Reported in ≥ 1% of Adult Patients Receiving Regional 
 | Breast disorder, breast-feeding | 21 | (1.3) | 12 | (0.8) |
 | Rhinitis | 18 | (1.1) | 13 | (0.9) |
 
-Table 3B Adverse Events Reported in ≥ 1% of Fetuses or Neonates of Mothers Who Received Regional Anesthesia (Cesarean Section and Labor Studies)
+Table 3B Adverse Events Reported in ≥1% of Fetuses or Neonates of Mothers Who Received Regional Anesthesia (Cesarean Section and Labor Studies)
 
-| Adverse Reaction | Naropin total N=639 |  | Bupivacaine total N=573 |  |
+| Adverse Reaction | Naropin total N = 639 |  | Bupivacaine total N = 573 |  |
 | --- | --- | --- | --- | --- |
 | N | (%) | N | (%) |  |
 | Fetal bradycardia | 77 | (12.1) | 68 | (11.9) |
@@ -88,7 +93,7 @@ Musculoskeletal System - myalgia
 
 Myo/Endo/Pericardium - ST segment changes, myocardial infarction
 
-Nervous System - tremor, Horner’s syndrome, paresis, dyskinesia, neuropathy, vertigo, coma, convulsion, hypokinesia, hypotonia, ptosis, stupor
+Nervous System - tremor, Horner's syndrome, paresis, dyskinesia, neuropathy, vertigo, coma, convulsion, hypokinesia, hypotonia, ptosis, stupor
 
 Psychiatric Disorders - agitation, confusion, somnolence, nervousness, amnesia, hallucination, emotional lability, insomnia, nightmares
 
@@ -109,8 +114,8 @@ Table 4 Common Events (Epidural Administration)
 
 | Adverse Reaction | Naropin |  |  |  |  |  | Bupivacaine |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 5 mg/mL total N=256 |  | 7.5 mg/mL total N=297 |  | 10 mg/mL total N=207 |  | 5 mg/mL total N=236 |  | 7.5 mg/mL total N=174 |  |  |
-| N | (%) | N | (%) | N | (%) | N | (%) | N | (%) |  |
+|  | 5 mg/mL total N=256 |  | 7.5 mg/mL total N=297 |  | 10 mg/mL total N=207 |  | 5 mg/mL total N=236 |  | 7.5 mg/mL total N=174 |  |
+|  | N | (%) | N | (%) | N | (%) | N | (%) | N | (%) |
 | hypotension | 99 | (38.7) | 146 | (49.2) | 113 | (54.6) | 91 | (38.6) | 89 | (51.1) |
 | nausea | 34 | (13.3) | 68 | (22.9) |  |  | 41 | (17.4) | 36 | (20.7) |
 | bradycardia | 29 | (11.3) | 58 | (19.5) | 40 | (19.3) | 32 | (13.6) | 25 | (14.4) |
@@ -128,12 +133,12 @@ In Table 6, the adverse events for Naropin are broken down by gender.
 
 Table 5 Effects of Age on Hypotension (Epidural Administration) Total N: Naropin = 760, Bupivacaine = 410
 
-| AGE | Naropin |  |  |  |  |  | Bupivacaine |  |  |  |
+|  | Naropin |  |  |  |  |  | Bupivacaine |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 5 mg/mL |  | 7.5 mg/mL |  | 10 mg/mL |  | 5 mg/mL |  | 7.5 mg/mL |  |  |
+| AGE | 5 mg/mL |  | 7.5 mg/mL |  | 10 mg/mL |  | 5 mg/mL |  | 7.5 mg/mL |  |
 |  | N | (%) | N | (%) | N | (%) | N | (%) | N | (%) |
-| <65 | 68 | (32.2) | 99 | (43.2) | 87 | (51.5) | 64 | (33.5) | 73 | (48.3) |
-| ≥65 | 31 | (68.9) | 47 | (69.1) | 26 | (68.4) | 27 | (60) | 16 | (69.6) |
+| < 65 | 68 | (32.2) | 99 | (43.2) | 87 | (51.5) | 64 | (33.5) | 73 | (48.3) |
+| ≥ 65 | 31 | (68.9) | 47 | (69.1) | 26 | (68.4) | 27 | (60) | 16 | (69.6) |
 
 Table 6 Most Common Adverse Events by Gender (Epidural Administration) Total N: Females = 405, Males = 355
 
@@ -165,7 +170,7 @@ This may lead to secondary cardiac arrest if untreated.
 Factors influencing plasma protein binding, such as acidosis, systemic diseases that alter protein production or competition with other drugs for protein binding sites, may diminish individual tolerance.
 
 Epidural administration of Naropin has, in some cases, as with other local anesthetics, been associated with transient increases in temperature to >38.5°C.
-This occurred more frequently at doses of Naropin >16 mg/h.
+This occurred more frequently at doses of Naropin > 16 mg/h.
 
 ## Neurologic Reactions
 

@@ -4,7 +4,7 @@ Rx only
 
 Therapy with Naropin should be discontinued at the first sign of toxicity.
 No specific information is available for the treatment of toxicity with Naropin; therefore, treatment should be symptomatic and supportive.
-The first consideration is prevention, best accomplished by incremental injection of Naropin, careful and constant monitoring of cardiovascular and respiratory vital signs and the patient’s state of consciousness after each local anesthetic and during continuous infusion.
+The first consideration is prevention, best accomplished by incremental injection of Naropin, careful and constant monitoring of cardiovascular and respiratory vital signs and the patient's state of consciousness after each local anesthetic and during continuous infusion.
 At the first sign of change in mental status, oxygen should be administered.
 
 The first step in the management of systemic toxic reactions, as well as underventilation or apnea due to unintentional subarachnoid injection of drug solution, consists of immediate attention to the establishment and maintenance of a patent airway and effective assisted or controlled ventilation with 100% oxygen with a delivery system capable of permitting immediate positive airway pressure by mask.
@@ -32,5 +32,3 @@ The supine position is dangerous in pregnant women at term because of aortocaval
 Therefore, during treatment of systemic toxicity, maternal hypotension or fetal bradycardia following regional block, the parturient should be maintained in the left lateral decubitus position if possible, or manual displacement of the uterus off the great vessels should be accomplished.
 Resuscitation of obstetrical patients may take longer than resuscitation of non-pregnant patients and closed-chest cardiac compression may be ineffective.
 Rapid delivery of the fetus may improve the response to resuscitative efforts.
-
-Lake Zurich, IL 60047 www.fresenius-kabi.us Revised: May 2017

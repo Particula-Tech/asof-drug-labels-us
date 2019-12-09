@@ -1,60 +1,51 @@
 # HOW SUPPLIED:
 
-Naropin ® Syringes
+Naropin® Single Dose Vials
 
-| Product No. | NDC No. | Strength | Size |
+| Product Code | Unit of Sale | Strength | Each |
 | --- | --- | --- | --- |
-| 278597 | 63323-285-97 | 20 mg per 10 mL (2 mg per mL) | 10 mL prefilled syringe in a package of five. |
-| 278697 | 63323-286-97 | 50 mg per 10 mL (5 mg per mL) | 10 mL prefilled syringe in a package of five. |
+| 278513 | NDC 63323-285-13 Unit of 25 | 0.2% 20 mg per 10 mL (2 mg per mL) | NDC 63323-285-03 10 mL single dose vial |
+| 278523 | NDC 63323-285-23 Unit of 25 | 0.2% 40 mg per 20 mL (2 mg per mL) | NDC 63323-285-07 20 mL single dose vial |
+| 278623 | NDC 63323-286-23 Unit of 25 | 0.5% 100 mg per 20 mL (5 mg per mL) | NDC 63323-286-05 20 mL single dose vial |
+| 278630 | NDC 63323-286-30 Individually Packaged | 0.5% 150 mg per 30 mL (5 mg per mL) | NDC 63323-286-30 30 mL single dose vial |
+| 278631 | NDC 63323-286-31 Unit of 5 | 0.5% 150 mg per 30 mL (5 mg per mL) | NDC 63323-286-09 30 mL single dose vial |
+| 278635 | NDC 63323-286-35 Unit of 25 | 0.5% 150 mg per 30 mL (5 mg per mL) | NDC 63323-286-11 30 mL single dose vial |
+| 278721 | NDC 63323-287-21 Unit of 25 | 0.75% 150 mg per 20 mL (7.5 mg per mL) | NDC 63323-287-03 20 mL single dose vial |
+| 278811 | NDC 63323-288-11 Unit of 25 | 1% 100 mg per 10 mL (10 mg per mL) | NDC 63323-288-03 10 mL single dose vial |
+| 278821 | NDC 63323-288-21 Unit of 25 | 1% 200 mg per 20 mL (10 mg per mL) | NDC 63323-288-07 20 mL single dose vial |
 
-Do NOT place syringe on a sterile field.
+Naropin® Single Dose Infusion Bottles
+
+| Product Code | Unit of Sale | Strength | Each |
+| --- | --- | --- | --- |
+| 278565 | NDC 63323-285-65 Individual bottles sold as a case of 12 | 0.2% 200 mg per 100 mL (2 mg per mL) | NDC 63323-285-65 100 mL Single Dose Infusion Bottle |
+| 278564 | NDC 63323-285-64 Individual bottles sold as a case of 12 | 0.2% 400 mg per 200 mL (2 mg per mL) | NDC 63323-285-64 200 mL Single Dose Infusion Bottle |
+| 278600 | NDC 63323-286-00 Unit of 12 | 0.5% 500 mg per 100 mL (5 mg per mL) | NDC 63323-286-03 100 mL Single Dose Infusion Bottle |
+| 278663 | NDC 63323-286-63 Unit of 12 | 0.5% 1,000 mg per 200 mL (5 mg per mL) | NDC 63323-286-33 200 mL Single Dose Infusion Bottle |
 
 Naropin ® is also available as follows:
 
-Naropin ® Plastic Ampule Sterile-Pak: Boxes of 5
+Naropin® Plastic Ampule Sterile-Pak: Boxes of 5
 
 polypropylene ampules fitting both Luer-lock and Luer-slip (tapered syringes)
 
-| Product No. | NDC No. | Strength | Ampule Size |
+| Product Code | Unit of Sale | Strength | Each |
 | --- | --- | --- | --- |
-| 278510 | 63323-285-10 | 20 mg/10 mL (2 mg/mL) | 10 mL |
-| 278520 | 63323-285-20 | 40 mg/20 mL (2 mg/mL) | 20 mL |
-| 278620 | 63323-286-20 | 100 mg/20 mL (5 mg/mL) | 20 mL |
-| 278720 | 63323-287-20 | 150 mg/20 mL (7.5 mg/mL) | 20 mL |
-| 278810 | 63323-288-10 | 100 mg/10 mL (10 mg/mL) | 10 mL |
-| 278820 | 63323-288-20 | 200 mg/20 mL (10 mg/mL) | 20 mL |
+| 278510 | NDC 63323-285-10 Unit of 5 | 0.2% 20 mg per 10 mL (2 mg per mL) | NDC 63323-285-01 10 mL Plastic Ampule |
+| 278520 | NDC 63323-285-20 Unit of 5 | 0.2% 40 mg per 20 mL (2 mg per mL) | NDC 63323-285-06 20 mL Plastic Ampule |
+| 278620 | NDC 63323-286-20 Unit of 5 | 0.5% 100 mg per 20 mL (5 mg per mL) | NDC 63323-286-01 20 mL Plastic Ampule |
+| 278720 | NDC 63323-287-20 Unit of 5 | 0.75% 150 mg per 20 mL (7.5 mg per mL) | NDC 63323-287-01 20 mL Plastic Ampule |
+| 278810 | NDC 63323-288-10 Unit of 5 | 1% 100 mg per 10 mL (10 mg per mL) | NDC 63323-288-01 10 mL Plastic Ampule |
+| 278820 | NDC 63323-288-20 Unit of 5 | 1% 200 mg per 20 mL (10 mg per mL) | NDC 63323-288-06 20 mL Plastic Ampule |
 
-Naropin ® free flex® Bags
-
-| Product No. | NDC No. | Strength | Size |
-| --- | --- | --- | --- |
-| 278561 | 63323-285-61 | 200 mg/100 mL (2 mg/mL) | 100 mL freeflex®bag. |
-| 278563 | 63323-285-63 | 400 mg/200 mL (2 mg/mL) | 250 mL freeflex®bag. |
+Naropin® freeflex® Bags
 
 This container is not made with natural rubber latex or polyvinyl chloride (PVC), Non-DEHP.
 
-Naropin ® Single Dose Vials
-
-| Product No. | NDC No. | Strength | Size |
+| Product Code | Unit of Sale | Strength | Each |
 | --- | --- | --- | --- |
-| 278513 | 63323-285-13 | 20 mg/10 mL (2 mg/mL) | 10 mL fill, in a 10 mL single dose vial, in packages of 25. |
-| 278523 | 63323-285-23 | 40 mg/20 mL (2 mg/mL) | 20 mL fill, in a 20 mL single dose vial, in packages of 25. |
-| 278623 | 63323-286-23 | 100 mg/20 mL (5 mg/mL) | 20 mL fill, in a 20 mL single dose vial, in packages of 25. |
-| 278630 | 63323-286-30 | 150 mg/30 mL (5 mg/mL) | 30 mL fill, in a 30 mL single dose vial packaged individually. |
-| 278631 | 63323-286-31 | 150 mg/30mL (5 mg/mL) | 30 mL fill, in a 30 mL single dose vial Sterile-Pak in boxes of 5. |
-| 278635 | 63323-286-35 | 150 mg/30 mL (5 mg/mL) | 30 mL fill, in a 30 mL single dose vial, in packages of 25. |
-| 278721 | 63323-287-21 | 150 mg/20 mL (7.5 mg/mL) | 20 mL fill, in a 20 mL single dose vial, in packages of 25. |
-| 278811 | 63323-288-11 | 100 mg/10 mL (10 mg/mL) | 10 mL fill, in a 10 mL single dose vial, in packages of 25. |
-| 278821 | 63323-288-21 | 200 mg/20 mL (10 mg/mL) | 20 mL fill, in a 20 mL single dose vial, in packages of 25. |
-
-Naropin ® Single Dose Infusion Bottles
-
-| Product No. | NDC No. | Strength | Size |
-| --- | --- | --- | --- |
-| 278565 | 63323-285-65 | 200 mg/100 mL (2 mg/mL) | 100 mL Infusion Bottle. |
-| 278564 | 63323-285-64 | 400 mg/200 mL (2 mg/mL) | 200 mL Infusion Bottle. |
-| 278600 | 63323-286-00 | 500 mg/100 mL (5 mg/mL) | 100 mL Infusion Bottle. |
-| 278663 | 63323-286-63 | 1000 mg/200 mL (5 mg/mL) | 200 mL Infusion Bottle. |
+| 278561 | NDC 63323-285-61 Unit of 24 | 0.2% 200 mg per 100 mL (2 mg per mL) | NDC 63323-285-02 100 mL Single Dose freeflex® Bag |
+| 278563 | NDC 63323-285-63 Unit of 24 | 0.2% 400 mg per 200 mL (2 mg per mL) | NDC 63323-285-04 200 mL fill, in a 250 mL Single Dose freeflex® Bag |
 
 The solubility of ropivacaine is limited at pH above 6.
 Thus, care must be taken as precipitation may occur if Naropin is mixed with alkaline solutions.
@@ -67,7 +58,7 @@ When a container is required to have a sterile outside, a Sterile-Pak should be 
 Glass containers may, as an alternative, be autoclaved once.
 Stability has been demonstrated using a targeted F 0 of 7 minutes at 121°C.
 
-Solutions should be stored at 20° to 25°C (68° to 77°F) [see USP Controlled Room Temperature].
+Solutions should be stored at 20º to 25°C (68º to 77°F) [see USP Controlled Room Temperature].
 
 The container closure is not made with natural rubber latex.
 
@@ -76,3 +67,5 @@ Any solution remaining from an opened container should be discarded promptly.
 In addition, continuous infusion bottles should not be left in place for more than 24 hours.
 
 NAROPIN is a trademark of Fresenius Kabi USA, LLC.
+
+Lake Zurich, IL 60047 www.fresenius-kabi.com/us Revised: August 2019
