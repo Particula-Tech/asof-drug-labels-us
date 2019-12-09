@@ -31,7 +31,7 @@ Table 20: Efficacy Results in Hormone-Receptor Positive, HER-2 Negative Breast C
 | Independent radiological review | 11.0 (9.7, 15.0) | 4.1 (2.9, 5.6) | 0.38a (0.3, 0.5) | < 0.0001b |  |
 | Best overall response (%, 95% CI) |  |  |  |  |  |
 | Objective response rate (ORR)c | 12.6% (9.8, 15.9) | 1.7% (0.5, 4.2) | n/ad |  |  |
-| aHazard ratio is obtained from the stratified Cox proportional-hazards model by sensitivity to prior hormonal therapy and presence of visceral metastasis bp-value is obtained from the one-sided log-rank test stratified by sensitivity to prior hormonal therapy and presence of visceral metastasis cObjective response rate = proportion of patients with CR or PR dNot applicable |  |  |  |  |  |
+| aHazard ratio is obtained from the stratified Cox proportional-hazards model by sensitivity to prior hormonal therapy and presence of visceral metastasis. bp-value is obtained from the one-sided log-rank test stratified by sensitivity to prior hormonal therapy and presence of visceral metastasis. cObjective response rate = proportion of patients with CR or PR. dNot applicable. |  |  |  |  |  |
 
 Figure 1: Kaplan-Meier Curves for Progression-Free Survival by Investigator Radiological Review in Hormone Receptor-Positive, HER-2 Negative Breast Cancer in BOLERO-2
 
@@ -47,7 +47,7 @@ After documented radiological progression, patients randomized to placebo could 
 Other outcome measures included ORR, response duration, and OS.
 
 Patients were randomized 1:1 to receive either AFINITOR 10 mg once daily (n = 207) or placebo (n = 203).
-Demographics were well balanced (median age 58 years, 55% male, 79% White).
+Demographics were well balanced (median age 58 years, 55% male, 79% white).
 Of the 203 patients randomized to BSC, 172 patients (85%) received AFINITOR following documented radiologic progression.
 
 The trial demonstrated a statistically significant improvement in PFS (Table 21 and Figure 2).
@@ -62,7 +62,7 @@ Table 21: Progression-Free Survival Results in PNET in RADIANT-3
 | Investigator radiological review |  | 11.0 (8.4, 13.9) | 4.6 (3.1, 5.4) | 0.35 (0.27, 0.45) | < 0.001 |
 | Central radiological review |  | 13.7 (11.2, 18.8) | 5.7 (5.4, 8.3) | 0.38 (0.28, 0.51) | < 0.001 |
 | Adjudicated radiological reviewa |  | 11.4 (10.8, 14.8) | 5.4 (4.3, 5.6) | 0.34 (0.26, 0.44) | < 0.001 |
-| aIncludes adjudication for discrepant assessments between investigator radiological review and central radiological review |  |  |  |  |  |
+| aIncludes adjudication for discrepant assessments between investigator radiological review and central radiological review. |  |  |  |  |  |
 
 Figure 2: Kaplan-Meier Curves for Progression-Free Survival by Investigator Radiological Review in PNET in RADIANT-3
 
@@ -78,7 +78,7 @@ The major efficacy outcome measure was PFS based on independent radiological ass
 Additional efficacy outcome measures were OS and ORR.
 
 A total of 302 patients were randomized, 205 to the AFINITOR arm and 97 to the placebo arm.
-The median age was 63 years (22 to 86 years); 47% were male; 76% were White; 74% had WHO performance status of 0 and 26% had WHO performance status of 1.
+The median age was 63 years (22 to 86 years); 47% were male; 76% were white; 74% had WHO performance status of 0 and 26% had WHO performance status of 1.
 The most common primary sites of tumor were lung (30%), ileum (24%), and rectum (13%).
 
 The study demonstrated a statistically significant improvement in PFS per independent radiological review (Table 22 and Figure 3).
@@ -96,7 +96,7 @@ Table 22: Progression-Free Survival in NET of GI or Lung Origin in RADIANT-4
 | Hazard Ratio (95% CI)a | 0.48 (0.35, 0.67) |  |
 | p-valueb | < 0.001 |  |
 | Overall Response Rate | 2% | 1% |
-| a Hazard ratio is obtained from the stratified Cox model. b p-value is obtained from the stratified log-rank test. |  |  |
+| aHazard ratio is obtained from the stratified Cox model. bp-value is obtained from the stratified log-rank test. |  |  |
 
 Figure 3: Kaplan-Meier Curves for Progression-Free Survival in NET of GI or Lung Origin in RADIANT-4
 
@@ -117,7 +117,7 @@ After documented radiological progression, patients randomized to placebo could 
 Other outcome measures included OS.
 
 In total, 416 patients were randomized 2:1 to receive AFINITOR (n = 277) or placebo (n = 139).
-Demographics were well balanced between the arms (median age 61 years; 77% male, 88% White, 74% received prior sunitinib or sorafenib, and 26% received both sequentially).
+Demographics were well balanced between the arms (median age 61 years; 77% male, 88% white, 74% received prior sunitinib or sorafenib, and 26% received both sequentially).
 
 AFINITOR was superior to placebo for PFS (Table 23 and Figure 4).
 The treatment effect was similar across prognostic scores and prior sorafenib and/or sunitinib.
@@ -147,7 +147,7 @@ The primary analyses of efficacy outcome measures were limited to the blinded tr
 The comparative angiomyolipoma response rate analysis was stratified by use of enzyme-inducing antiepileptic drugs (EIAEDs) at randomization (yes vs. no).
 
 Of the 118 patients enrolled, 79 were randomized to AFINITOR and 39 to placebo.
-The median age was 31 years (18 to 61 years), 34% were male, and 89% were White.
+The median age was 31 years (18 to 61 years), 34% were male, and 89% were white.
 At baseline, 17% of patients were receiving EIAEDs.
 On central radiology review at baseline, 92% of patients had at least 1 angiomyolipoma of ≥ 3 cm in longest diameter, 29% had angiomyolipomas ≥ 8 cm, 78% had bilateral angiomyolipomas, and 97% had skin lesions.
 The median values for the sum of all target renal angiomyolipoma lesions at baseline were 85 cm3 (9 to 1612 cm3) and 120 cm3 (3 to 4520 cm3) in the AFINITOR and placebo arms, respectively.
@@ -198,7 +198,7 @@ The primary analysis of SEGA response rate was limited to the blinded treatment 
 The analysis of SEGA response rate was stratified by use of enzyme-inducing antiepileptic drugs (EIAEDs) at randomization (yes vs. no).
 
 Of the 117 patients enrolled, 78 were randomized to AFINITOR and 39 to placebo.
-The median age was 9.5 years (0.8 to 26 years); a total of 20 patients were < 3 years, 54 patients were 3 to < 12 years, 27 patients were 12 to < 18 years, and 16 patients were ≥ 18 years; 57% were male, and 93% were White.
+The median age was 9.5 years (0.8 to 26 years); a total of 20 patients were < 3 years, 54 patients were 3 to < 12 years, 27 patients were 12 to < 18 years, and 16 patients were ≥ 18 years; 57% were male, and 93% were white.
 At baseline, 18% of patients were receiving EIAEDs.
 Based on central radiology review at baseline, 98% of patients had at least one SEGA lesion ≥ 1.0 cm in longest diameter, 79% had bilateral SEGAs, 43% had ≥ 2 target SEGA lesions, 26% had growth in or into the inferior surface of the ventricle, 9% had evidence of growth beyond the subependymal tissue adjacent to the ventricle, and 7% had radiographic evidence of hydrocephalus.
 The median values for the sum of all target SEGA lesions at baseline were 1.63 cm3 (0.18 to 25.15 cm3) and 1.30 cm3 (0.32 to 9.75 cm3) in the AFINITOR and placebo arms respectively.
@@ -219,7 +219,7 @@ Table 25: Subependymal Giant Cell Astrocytoma Response Rate in TSC-Associated SE
 | Primary analysis |  |  |  |
 | SEGA response ratea - (%) | 35 | 0 | < 0.0001 |
 | 95% CI | 24, 46 | 0, 9 |  |
-| aPer independent central radiology review |  |  |  |
+| aPer independent central radiology review. |  |  |  |
 
 Patients randomized to placebo were permitted to receive AFINITOR at the time of SEGA progression or after the primary analysis, whichever occurred first.
 After the primary analysis, patients treated with AFINITOR underwent additional follow-up MRI scans to assess tumor status until discontinuation of treatment or completion of 4 years of follow-up after the last patient was randomized.
@@ -239,7 +239,7 @@ The major efficacy outcome measure was the reduction in volume of the largest SE
 Progression was defined as an increase in volume of the largest SEGA lesion over baseline that was ≥ 25% over the nadir observed on study.
 
 A total of 28 patients received AFINITOR for a median duration of 5.7 years (5 months to 6.9 years); 82% of the 28 patients remained on AFINITOR for at least 5 years.
-The median age was 11 years (3 to 34 years), 61% male, 86% White.
+The median age was 11 years (3 to 34 years), 61% male, 86% white.
 
 At the primary analysis, 32% of the 28 patients (95% CI: 16%, 52%) had an objective response at 6 months, defined as at least a 50% decrease in volume of the largest SEGA lesion.
 At the completion of the study, the median duration of durable response was 12 months (3 months to 6.3 years).
@@ -263,7 +263,7 @@ Additional efficacy outcome measures included response rate, defined as at least
 
 A total of 366 patients were randomized to AFINITOR DISPERZ LT (n = 117), AFINITOR DISPERZ HT (n = 130) or placebo (n = 119).
 Median age was 10.1 years (2.2 to 56 years); 28% of patients were < 6 years, 31% were 6 to < 12 years, 22% were 12 to < 18 years, and 18% were ≥ 18 years).
-The majority were White (65%) and male (52%).
+The majority were white (65%) and male (52%).
 The most common major features of TSC were cortical tubers (92%), hypomelanotic macules (84%), and subependymal nodules (83%).
 While 17% of the patients had SEGA, 42% had renal angiomyolipoma, and 9% had both SEGA and renal angiomyolipoma; no patients were receiving treatment with AFINITOR or AFINITOR DISPERZ for these manifestations of TSC.
 During the Baseline phase, 65% of patients had complex partial seizures, 52% had secondarily generalized seizures, 19% had simple partial seizures, and 2% had generalized onset seizures.
@@ -285,4 +285,4 @@ Table 26: Percentage Reduction in Seizure Frequency and Response Rate in TSC-Ass
 | Response rate |  |  |  |
 | Responders, n (%) | 28.2 | 40 | 15.1 |
 | 95% CId | 20.3, 37.3 | 31.5, 49.0 | 9.2, 22.8 |
-| aIf patient discontinued before starting the Maintenance period, then the Titration period is used b95% CI of the median based on bootstrap percentiles cp-values were for superiority vs. placebo, and obtained from rank ANCOVA with Baseline seizure frequency as covariate, stratified by age subgroup dExact 95% CI obtained using Clopper-Pearson method |  |  |  |
+| aIf patient discontinued before starting the Maintenance period, then the Titration period is used. b95% CI of the median based on bootstrap percentiles. cp-values were for superiority vs. placebo, and obtained from rank ANCOVA with Baseline seizure frequency as covariate, stratified by age subgroup. dExact 95% CI obtained using Clopper-Pearson method. |  |  |  |
