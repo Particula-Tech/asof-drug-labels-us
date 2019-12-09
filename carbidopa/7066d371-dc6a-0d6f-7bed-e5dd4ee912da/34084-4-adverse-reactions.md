@@ -12,9 +12,8 @@ The following serious adverse reactions are discussed below and elsewhere in lab
 - Dyskinesia [see Warnings and Precautions (5.8)]
 - Neuropathy [see Warnings and Precautions (5.9)]
 - Cardiovascular Ischemic Events [see Warnings and Precautions (5.10)]
-- Melanoma [see Warnings and Precautions (5.11)]
-- Laboratory Test Abnormalities [see Warnings and Precautions (5.12)]
-- Glaucoma [see Warnings and Precautions (5.13)]
+- Laboratory Test Abnormalities [see Warnings and Precautions (5.11)]
+- Glaucoma [see Warnings and Precautions (5.12)]
 
 ## 6.1 Clinical Trials Experience
 

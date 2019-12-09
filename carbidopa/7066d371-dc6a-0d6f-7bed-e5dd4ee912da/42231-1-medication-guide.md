@@ -67,7 +67,6 @@ Before you use DUOPA, tell your healthcare provider if you:
 - have trouble controlling your muscles (dyskinesia)
 - have nerve problems (peripheral neuropathy)
 - have or have had heart problems, an abnormal heart rate or have had a heart attack in the past
-- have or have had a type of skin cancer called melanoma
 - have or have had high blood pressure (hypertension)
 - have eye problems that cause increased pressure in your eye (glaucoma)
 - have a history of attacks of suddenly falling asleep and without warning
@@ -166,10 +165,6 @@ DUOPA may cause serious side effects, including:
 - Progressive weakness or numbness or loss of sensation in the fingers or feet (neuropathy).
 - Heart attack or other heart problems.
   Tell your healthcare provider if you have experienced increased blood pressure, a fast or irregular heartbeat or chest pain.
-- Skin cancer (melanoma).
-  Parkinson's disease may be associated with a higher chance of having melanoma than people who do not have Parkinson’s disease.
-  It is not known if the chance of having melanoma is higher because of the medicines used to treat Parkinson’s disease, like DUOPA, or from the Parkinson’s disease.
-  People who use DUOPA should have their skin checked regularly for melanoma by a qualified healthcare professional.
 - Abnormal blood tests.
   DUOPA may cause changes in certain blood tests, especially certain hormone and kidney function blood tests.
 - Worsening of the increased pressure in your eyes (glaucoma).
@@ -227,4 +222,4 @@ This Medication Guide has been approved by the U.S. Food and Drug Administration
 
 Manufactured by AbbVie Inc., North Chicago, IL 60064, USA or by Fresenius Kabi Norge AS, 1788 Halden, Norway For AbbVie Inc. North Chicago, IL 60064, USA
 
-03-B402 Revised: September 2016
+03-C094 Revised: December 2019

@@ -88,15 +88,7 @@ Monitor patients periodically for signs of neuropathy after starting DUOPA, espe
 In clinical studies, myocardial infarction and arrhythmia were reported in patients taking carbidopa-levodopa.
 Ask patients about symptoms of ischemic heart disease and arrhythmia, especially those with a history of myocardial infarction or cardiac arrhythmias.
 
-## 5.11 Melanoma
-
-Epidemiological studies have shown that patients with Parkinson’s disease have a higher risk (2 to approximately 6-fold higher) of developing melanoma than the general population.
-Whether the increased risk observed was due to Parkinson’s disease or other factors, such as drugs used to treat Parkinson’s disease, is unclear.
-In the clinical studies, 2 of 416 (0.5%) DUOPA-treated patients developed melanoma.
-
-Appropriately qualified health care providers (e.g., dermatologists) should perform periodic skin examinations to monitor for melanoma in patients receiving DUOPA.
-
-## 5.12 Laboratory Test Abnormalities
+## 5.11 Laboratory Test Abnormalities
 
 DUOPA may increase the risk for elevated (above the upper limit of normal for the reference range) blood urea nitrogen (BUN) and creatine phosphokinase (CPK).
 In the controlled clinical trial, the shift from a low or normal value at baseline to an increased BUN value was greater for DUOPA-treated patients (13%) than for patients treated with oral immediate-release carbidopa-levodopa (4%).
@@ -106,7 +98,7 @@ The incidence of patients with an increased CPK (>3 times the upper limit of nor
 
 Patients taking levodopa or carbidopa-levodopa may have increased levels of catecholamines and their metabolites in plasma and urine giving false positive results suggesting the diagnosis of pheochromocytoma in patients on levodopa and carbidopa-levodopa.
 
-## 5.13 Glaucoma
+## 5.12 Glaucoma
 
 Carbidopa-levodopa may cause increased intraocular pressure in patients with glaucoma.
 Monitor intraocular pressure in patients with glaucoma after starting DUOPA.

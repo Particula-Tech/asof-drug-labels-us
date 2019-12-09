@@ -63,15 +63,14 @@ Neuropathy
 
 Inform patients that neuropathy may develop or they may experience worsening neuropathy on DUOPA, and to contact their healthcare provider if they develop any symptoms or features suggesting neuropathy [see Warnings and Precautions (5.9)].
 
-Melanoma
+Pregnancy
 
-Advise patients with Parkinson’s disease that they have a higher risk of developing melanoma.
-Advise patients to have their skin examined on a regular basis by a qualified healthcare provider (e.g., dermatologist) when using DUOPA [see Warnings and Precautions (5.11)].
+Advise patients to notify their healthcare provider if they become pregnant during treatment or plan to become pregnant during therapy [see Use in Specific Populations (8.1)].
 
-Nursing Mothers
+Lactation
 
-Because of the possibility that carbidopa or levodopa may be excreted in human milk, a decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother [see Use in Specific Populations (8.3)].
+Advise patients to notify their healthcare provider if they are breastfeeding or plan to breastfeed [see Use in Specific Populations (8.2)].
 
 Manufactured by AbbVie Inc., North Chicago, IL 60064, USA or by Fresenius Kabi Norge AS, 1788 Halden, Norway For AbbVie Inc. North Chicago, IL 60064, USA
 
-03-B402 September 2016
+03-C094 December 2019
