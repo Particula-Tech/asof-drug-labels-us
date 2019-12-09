@@ -210,15 +210,11 @@ But if it bothers you a lot or lasts longer than a few days, call your healthcar
 For Best Results, Stay with Your Patch Program
 
 - Replace your patch twice each week, on the 2 days you have chosen.
-  Until it becomes a habit, try:
-  - Marking your schedule on the inside flap of the patch box;
-  - Marking the days on your calendar;
-  - Linking the days you change your patch to other things that always happen on those days (e.g., an exercise class, meetings, etc.).
-- Handle each patch with care.
-  - Make sure the skin is clean, dry, and free of lotion and powder.
-  - Try to avoid touching the sticky surface when applying the patch.
-  - Be careful while changing clothes, washing or drying off, so that you do not catch the patch with your clothes or the towel.
-  - If the patch starts to lift, simply press it back in place.
+  Until it becomes a habit, try: ♦ Marking your schedule on the inside flap of the patch box; ♦ Marking the days on your calendar;
+
+♦ Linking the days you change your patch to other things that always happen on those days (e.g., an exercise class, meetings, etc.).
+
+- Handle each patch with care. ♦ Make sure the skin is clean, dry, and free of lotion and powder. ♦ Try to avoid touching the sticky surface when applying the patch. ♦ Be careful while changing clothes, washing or drying off, so that you do not catch the patch with your clothes or the towel. ♦ If the patch starts to lift, simply press it back in place.
 - Keep working with your healthcare provider, pharmacist, or other healthcare professional.
   Ask questions.
   If you have concerns, talk them over - don’t just stop using the patch on your own.
