@@ -29,36 +29,36 @@ Adverse reactions reported by at least 0.5% of all subjects/patients in clinical
 Table 1.
 Adverse Reactions Reported During Studies of Depacon
 
-| Body System/Reaction | N = 463 |
+| Body System/Reaction | N = 463 % |
 | --- | --- |
 | Body as a Whole |  |
-| Chest Pain | 1.7% |
-| Headache | 4.3% |
-| Injection Site Inflammation | 0.6% |
-| Injection Site Pain | 2.6% |
-| Injection Site Reaction | 2.4% |
-| Pain (unspecified) | 1.3% |
+| Headache | 4.3 |
+| Injection Site Pain | 2.6 |
+| Injection Site Reaction | 2.4 |
+| Chest Pain | 1.7 |
+| Pain (unspecified) | 1.3 |
+| Injection Site Inflammation | 0.6 |
 | Cardiovascular |  |
-| Vasodilation | 0.9% |
+| Vasodilation | 0.9 |
 | Dermatologic |  |
-| Sweating | 0.9% |
+| Sweating | 0.9 |
 | Digestive System |  |
-| Abdominal Pain | 1.1% |
-| Diarrhea | 0.9% |
-| Nausea | 3.2% |
-| Vomiting | 1.3% |
+| Nausea | 3.2 |
+| Vomiting | 1.3 |
+| Abdominal Pain | 1.1 |
+| Diarrhea | 0.9 |
 | Nervous System |  |
-| Dizziness | 5.2% |
-| Euphoria | 0.9% |
-| Hypesthesia | 0.6% |
-| Nervousness | 0.9% |
-| Paresthesia | 0.9% |
-| Somnolence | 1.7% |
-| Tremor | 0.6% |
+| Dizziness | 5.2 |
+| Somnolence | 1.7 |
+| Euphoria | 0.9 |
+| Nervousness | 0.9 |
+| Paresthesia | 0.9 |
+| Hypesthesia | 0.6 |
+| Tremor | 0.6 |
 | Respiratory |  |
-| Pharyngitis | 0.6% |
+| Pharyngitis | 0.6 |
 | Special Senses |  |
-| Taste Perversion | 1.9% |
+| Taste Perversion | 1.9 |
 
 In a separate clinical safety trial, 112 patients with epilepsy were given infusions of Depacon (up to 15 mg/kg) over 5 to 10 minutes (1.5-3.0 mg/kg/min).
 The common adverse reactions (> 2%) were somnolence (10.7%), dizziness (7.1%), paresthesia (7.1%), asthenia (7.1%), nausea (6.3%), and headache (2.7%).
@@ -80,7 +80,7 @@ Since patients were also treated with other antiepilepsy drugs, it is not possib
 Table 2.
 Adverse Reactions Reported by ≥ 5% of Patients Treated with Depakote During Placebo-Controlled Trial of Adjunctive Therapy for Complex Partial Seizures
 
-| Body System/Reaction | Depakote (%) (n = 77) | Placebo (%) (n = 70) |
+| Body System/Reaction | Depakote (n = 77) % | Placebo (n = 70) % |
 | --- | --- | --- |
 | Body as a Whole |  |  |
 | Headache | 31 | 21 |
@@ -120,7 +120,7 @@ Since patients were being titrated off another antiepilepsy drug during the firs
 Table 3.
 Adverse Reactions Reported by ≥ 5% of Patients in the High Dose Group in the Controlled Trial of Valproate Monotherapy for Complex Partial Seizures1
 
-| Body System/Reaction | High Dose (%) (n = 131) | Low Dose (%) (n = 134) |
+| Body System/Reaction | High Dose (n = 131) % | Low Dose (n = 134) % |
 | --- | --- | --- |
 | Body as a Whole |  |  |
 | Asthenia | 21 | 10 |
@@ -211,7 +211,7 @@ Digestive System: Dry mouth, stomatitis.
 
 Urogenital System: Cystitis, metrorrhagia, and vaginal hemorrhage.
 
-## 6.4 Post-Marketing Experience
+## 6.4 Postmarketing Experience
 
 The following adverse reactions have been identified during post approval use of Depakote.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
