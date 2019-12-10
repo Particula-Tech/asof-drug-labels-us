@@ -24,7 +24,7 @@ The broad-based nature of this mode of action may explain the lack of acquired b
 
 ## Interactions with Other Antibiotics
 
-Antagonism has been demonstrated in vitro between nitrofurantoin and quinolone antimicrobials.
+Antagonism has been demonstrated in-vitro between nitrofurantoin and quinolone antimicrobials.
 The clinical significance of this finding is unknown.
 
 ## Development of Resistance
@@ -32,7 +32,7 @@ The clinical significance of this finding is unknown.
 Development of resistance to nitrofurantoin has not been a significant problem since its introduction in 1953.
 Cross-resistance with antibiotics and sulfonamides has not been observed, and transferable resistance is, at most, a very rare phenomenon.
 
-Nitrofurantoin has been shown to be active against most strains of the following bacteria both in vitro and in clinical infections (see INDICATIONS AND USAGE).
+Nitrofurantoin has been shown to be active against most strains of the following bacteria both in-vitro and in clinical infections (see INDICATIONS AND USAGE).
 
 ## Aerobic and facultative Gram-positive microorganisms:
 
@@ -42,7 +42,7 @@ Staphylococcus saprophyticus
 
 Escherichia coli
 
-At least 90 percent of the following microorganisms exhibit an in vitro minimum inhibitory concentration (MIC) less than or equal to the susceptible breakpoint for nitrofurantoin.
+At least 90 percent of the following microorganisms exhibit an in-vitro minimum inhibitory concentration (MIC) less than or equal to the susceptible breakpoint for nitrofurantoin.
 However, the efficacy of nitrofurantoin in treating clinical infections due to these microorganisms has not been established in adequate and well-controlled trials.
 
 ## Aerobic and facultative Gram-positive microorganisms:
