@@ -1,6 +1,6 @@
 # PATIENT INFORMATION
 
-Metformin Hydrochloride Extended-Release Tablets, USP (met for' min hye'' droe klor' ide)
+Metformin Hydrochloride Extended-Release Tablets, USP (met for′ min hye″ droe klor′ ide)
 
 Read the Patient Information that comes with metformin hydrochloride extended-release tablets before you start taking it and each time you get a refill.
 There may be new information.
@@ -134,13 +134,9 @@ What are the side effects of metformin hydrochloride extended-release tablets?
 
 Call your doctor right away if you have any of the following symptoms, which could be signs of lactic acidosis:
 
-- you feel cold in your hands or feet
-- you feel dizzy or lightheaded
-- you have a slow or irregular heartbeat
-- you feel very weak or tired
-- you have trouble breathing
-- you feel sleepy or drowsy
-- you have stomach pains, nausea or vomiting
+| you feel cold in your hands or feetyou have a slow or irregular heartbeatyou have trouble breathing | you feel dizzy or lightheadedyou feel very weak or tiredyou feel sleepy or drowsy |
+| --- | --- |
+| you have stomach pains, nausea or vomiting |  |
 
 Most people who have had lactic acidosis with metformin have other things that, combined with the metformin, led to the lactic acidosis.
 Tell your doctor if you have any of the following, because you have a higher chance for getting lactic acidosis with metformin hydrochloride extended-release tablets if you:
@@ -204,4 +200,4 @@ Manufactured by: CSPC Ouyi Pharmaceutical Co., Ltd. Shijiazhuang, Hebei, China, 
 Manufactured for: TAGI Pharma, Inc. South Beloit, IL 61080
 
 Rev.
-09/2018
+10/2018

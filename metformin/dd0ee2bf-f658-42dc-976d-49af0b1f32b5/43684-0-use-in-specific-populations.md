@@ -8,7 +8,7 @@ Limited data with metformin hydrochloride extended-release tablets in pregnant w
 Published studies with metformin use during pregnancy have not reported a clear association with metformin and major birth defect or miscarriage risk [see Data].
 There are risks to the mother and fetus associated with poorly controlled diabetes mellitus in pregnancy [see Clinical Considerations].
 
-No adverse developmental effects were observed when metformin was administered to pregnant Sprague Dawley rats and rabbits during the period of organogenesis at doses up to 2- and 5­ times, respectively, a 2,550 mg clinical dose, based on body surface area [see Data].
+No adverse developmental effects were observed when metformin was administered to pregnant Sprague Dawley rats and rabbits during the period of organogenesis at doses up to 2- and 5-times, respectively, a 2,550 mg clinical dose, based on body surface area [see Data].
 
 The estimated background risk of major birth defects is 6% to 10% in women with pre-gestational diabetes mellitus with an HbA1C > 7 and has been reported to be as high as 20% to 25% in women with a HbA1C > 10.
 The estimated background risk of miscarriage for the indicated population is unknown.

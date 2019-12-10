@@ -92,7 +92,7 @@ In Vivo Assessment of Drug Interactions
 
 Table 4: Effect of Coadministered Drug on Plasma Metformin Systemic Exposure
 
-|  |  |  |  | AUCAUC = AUC (INF) | Cmax |
+|  | AUCAUC = AUC (INF) | Cmax |  |  |  |
 | --- | --- | --- | --- | --- | --- |
 | Coadministered Drug | Dose of Coadministered DrugAll metformin and coadministered drugs were given as single doses | Dose of Metformin | Geometric Mean Ratio (ratio with/without coadministered drug) No Effect = 1.00 |  |  |
 | No dosing adjustments required for the following: |  |  |  |  |  |
@@ -108,7 +108,7 @@ Table 4: Effect of Coadministered Drug on Plasma Metformin Systemic Exposure
 
 Table 5: Effect of Metformin on Coadministered Drug Systemic Exposure
 
-|  |  |  |  | AUCAUC = AUC (INF) unless otherwise noted | Cmax |
+|  | AUCAUC = AUC (INF) unless otherwise noted | Cmax |  |  |  |
 | --- | --- | --- | --- | --- | --- |
 | Coadministered Drug | Dose of Coadministered DrugAll metformin and coadministered drugs were given as single doses | Dose of Metformin | Geometric Mean Ratio (ratio with/without metformin) No Effect = 1.00 |  |  |
 | No dosing adjustments required for the following: |  |  |  |  |  |
