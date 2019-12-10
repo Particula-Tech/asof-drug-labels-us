@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA201786"
+  ],
+  "inn": "latanoprost",
+  "labeler": "Somerset Therapeutics, LLC",
+  "package_ndcs": [
+    "70069-421-01",
+    "70069-421-03"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION/ DROPS",
+      "generic": "latanoprost",
+      "name": "LATANOPROST"
+    }
+  ],
+  "setid": "5d0b99ad-f05a-44c7-ac61-26b5a533ea8d",
+  "source": "dailymed"
+}
