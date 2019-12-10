@@ -70,9 +70,9 @@ The following table is a guide for the initial daily dose of Depakene (valproic 
 Table 1.
 Initial Daily Dose
 
-| (Kg) | (Lb) | Dose 1 | Dose 2 | Dose 3 |  |
-| --- | --- | --- | --- | --- | --- |
 | Weight |  | Total Daily Dose (mg) | Number of Capsules or Teaspoons of Syrup |  |  |
+| --- | --- | --- | --- | --- | --- |
+| (Kg) | (Lb) | Dose 1 | Dose 2 | Dose 3 |  |
 | 10 - 24.9 | 22 - 54.9 | 250 | 0 | 0 | 1 |
 | 25 - 39.9 | 55 - 87.9 | 500 | 1 | 0 | 1 |
 | 40 - 59.9 | 88 - 131.9 | 750 | 1 | 1 | 1 |
@@ -101,4 +101,4 @@ Patients who experience G.I. irritation may benefit from administration of the d
 
 ## 2.3 Dosing in Patients Taking Rufinamide
 
-Patients stabilized on rufinamide before being prescribed valproate should begin valproate therapy at a low dose, and titrate to a clinically effective dose [see Drug Interactions (7.2)].
+Patients stabilized on rufinamide before being prescribed valproate should begin valproate therapy at a low dose and titrate to a clinically effective dose [see Drug Interactions (7.2)].

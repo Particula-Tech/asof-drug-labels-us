@@ -28,7 +28,7 @@ Since patients were also treated with other antiepilepsy drugs, it is not possib
 Table 3.
 Adverse Reactions Reported by ≥ 5% of Patients Treated with Depakote During Placebo-Controlled Trial of Adjunctive Therapy for Complex Partial Seizures
 
-| Body System/Reaction | Depakote (%) (n = 77) | Placebo (%) (n = 70) |
+| Body System/Reaction | Depakote (n = 77) % | Placebo (n = 70) % |
 | --- | --- | --- |
 | Body as a Whole |  |  |
 | Headache | 31 | 21 |
@@ -68,7 +68,7 @@ Since patients were being titrated off another antiepilepsy drug during the firs
 Table 4.
 Adverse Reactions Reported by ≥ 5% of Patients in the High Dose Group in the Controlled Trial of Depakote Monotherapy for Complex Partial Seizures1
 
-| Body System/Reaction | High Dose (%) (n = 131) | Low Dose (%) (n = 134) |
+| Body System/Reaction | High Dose (n = 131) % | Low Dose (n = 134) % |
 | --- | --- | --- |
 | Body as a Whole |  |  |
 | Asthenia | 21 | 10 |
@@ -159,7 +159,7 @@ Digestive System: Dry mouth, stomatitis.
 
 Urogenital System: Cystitis, metrorrhagia, and vaginal hemorrhage.
 
-## 6.4 Post-Marketing Experience
+## 6.4 Postmarketing Experience
 
 The following adverse reactions have been identified during post approval use of Depakote.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.

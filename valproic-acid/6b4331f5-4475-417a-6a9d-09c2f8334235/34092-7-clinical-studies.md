@@ -6,7 +6,7 @@ The studies described in the following section were conducted using Depakote (di
 
 The efficacy of Depakote in reducing the incidence of complex partial seizures (CPS) that occur in isolation or in association with other seizure types was established in two controlled trials.
 
-In one, multi-clinic, placebo controlled study employing an add-on design (adjunctive therapy), 144 patients who continued to suffer eight or more CPS per 8 weeks during an 8 week period of monotherapy with doses of either carbamazepine or phenytoin sufficient to assure plasma concentrations within the "therapeutic range" were randomized to receive, in addition to their original antiepilepsy drug (AED), either Depakote or placebo.
+In one, multi-clinic, placebo-controlled study employing an add-on design (adjunctive therapy), 144 patients who continued to suffer eight or more CPS per 8 weeks during an 8 week period of monotherapy with doses of either carbamazepine or phenytoin sufficient to assure plasma concentrations within the "therapeutic range" were randomized to receive, in addition to their original antiepilepsy drug (AED), either Depakote or placebo.
 Randomized patients were to be followed for a total of 16 weeks.
 The following table presents the findings.
 
