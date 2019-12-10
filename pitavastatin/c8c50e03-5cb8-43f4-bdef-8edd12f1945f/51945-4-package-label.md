@@ -8,16 +8,6 @@ Zypitamag (Pitavastatin) Tablets, 1 mg
 
 Rx only
 
-NDC 25208-200-10
-
-Zypitamag (Pitavastatin) Tablets, 1 mg
-
-7 Tablets Blister Carton
-
-Rx only
-
-Professional Sample-Not For Sale
-
 NDC 25208-201-09
 
 Zypitamag (Pitavastatin) Tablets, 2 mg
