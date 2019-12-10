@@ -2,9 +2,7 @@ MEDICATION GUIDE Daytrana® (day-TRON-ah) (methylphenidate transdermal system) C
 
 | Only Use Daytrana on Your Skin |
 | --- |
-
 | Important: Daytrana is a federally controlled substance (CII) because it can be abused or lead to dependence. Keep Daytrana in a safe place to protect it from theft. Selling or giving away Daytrana may harm others and is against the law. Tell your doctor if you have ever abused or been dependent on alcohol, prescription medicine or street drugs. |
-| --- |
 
 What is the most important information I should know about Daytrana?
 
@@ -70,19 +68,21 @@ Talk to your healthcare provider before taking this medicine if you have any of 
 
 What should I tell my doctor before using Daytrana?
 
-Before you start using Daytrana, tell your doctor if you have:
+Before you start using Daytrana, tell your doctor if you:
 
-- heart problems, heart defects, high blood pressure
-- mental problems including psychosis, mania, bipolar illness, or depression
-- seizures or have had an abnormal brain wave test (EEG)
-- circulation problems in fingers or toes
-- skin problems such as eczema or psoriasis, or have skin reactions to soaps, lotions, make-up, or adhesives (glues)
+- have heart problems, heart defects, high blood pressure
+- have mental problems including psychosis, mania, bipolar illness, or depression
+- have seizures or have had an abnormal brain wave test (EEG)
+- have circulation problems in fingers or toes
+- have skin problems such as eczema or psoriasis, or have skin reactions to soaps, lotions, make-up, or adhesives (glues)
 - are pregnant or plan to become pregnant.
   It is not known if Daytrana will harm your unborn baby.
-  Talk to your doctor if you are pregnant or plan to become pregnant.
+  - There is a pregnancy registry for females who are exposed to ADHD medications, including Daytrana during pregnancy.
+    The purpose of the registry is to collect information about the health of females exposed to Daytrana and their baby.
+    If you or your child becomes pregnant during treatment with Daytrana, talk to your healthcare provider about registering with the National Pregnancy Registry of ADHD Medications at 1-866-961-2388 or visit online at https://womensmentalhealth.org/adhd-medications/.
 - are breast feeding or plan to breast feed.
-  It is not known if Daytrana passes into your breast milk.
-  You and your doctor should decide if you will use Daytrana or breastfeed.
+  Daytrana passes into your breast milk.
+  Talk to your healthcare provider about the best way to feed your baby during treatment with Daytrana.
 - a history of vitiligo and/or a family history of vitiligo
 
 Tell your doctor about all of the medicines you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements.
