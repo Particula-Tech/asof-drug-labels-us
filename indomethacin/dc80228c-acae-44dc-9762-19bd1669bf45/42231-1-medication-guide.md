@@ -179,9 +179,9 @@ KVK-TECH INC.
 
 Newtown, PA 18940
 
-Item ID # 006030/06
+Item ID # 006030/07
 
-Manufacturer’s Code: 10702 07/15
+Manufacturer’s Code: 10702 01/19
 
 For more information, go to www.kvktech.com or call our customer service at 215-579-1842.
 
