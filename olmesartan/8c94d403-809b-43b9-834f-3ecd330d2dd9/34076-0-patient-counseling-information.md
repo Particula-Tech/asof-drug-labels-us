@@ -1,6 +1,11 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-Pregnancy: Female patients of childbearing age should be told about the consequences of exposure to olmesartan medoxomil during pregnancy.
+Pregnancy: Advise female patients of childbearing age about the consequences of exposure to olmesartan medoxomil during pregnancy.
 Discuss treatment options with women planning to become pregnant.
-Patients should be asked to report pregnancies to their physicians as soon as possible.
-Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad - 500 038, India Revised: 07/2018
+Tell patients to report pregnancies to their physicians as soon as possible [see Warnings and Precautions (5.1) and Use in Specific Populations (8.1)].
+
+Lactation: Advise nursing women not to breastfeed during treatment with olmesartan medoxomil [see Use in Specific Populations (8.2)].
+
+Hyperkalemia: Advise patients not to use potassium supplements or salt substitutes that contain potassium without consulting their healthcare provider [see Drug Interactions (7.1)].
+
+Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 038, India Revised: 12/2019
