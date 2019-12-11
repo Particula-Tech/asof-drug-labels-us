@@ -62,24 +62,17 @@ Do not attempt to remove excess medicine from the bottle.
 
 How should I store Dorzolamide Hydrochloride Ophthalmic Solution?
 
-• Store Dorzolamide Hydrochloride Ophthalmic Solution at 2° - 25°C (36° -77°F).
-
-• Protect from light
-
-• Safely throw away medicine that is out of date or no longer needed.
-
-• If you have any eye or skin reactions, especially conjunctivitis or eyelid reactions to dorzolamide hydrochloride ophthalmic solution, stop using it and call your doctor right away.
-
-• If you have eye surgery or have a problem such as trauma or infection of your eye while using dorzolamide hydrochloride ophthalmic solution, call your doctor right away.
-
-• If you do not handle eye medicines the right way the medicine can become contaminated.
-If the tip of the dispenser touches your eye or areas around your eye, the tip can become contaminated with bacteria which can cause an eye infection and other serious problems including loss of eyesight.
-
-• If you use other eye medicines dropped onto the eye like dorzolamide hydrochloride ophthalmic solution, use the medicines at least 5 minutes before or after you use dorzolamide hydrochloride ophthalmic solution.
-
-• Dorzolamide hydrochloride ophthalmic solution contains benzalkonium chloride which may be absorbed by soft contact lenses.
-If you wear contact lenses, remove them before you use your dorzolamide hydrochloride ophthalmic solution.
-You can place your contact lenses back into your eyes 15 minutes after using your dorzolamide hydrochloride ophthalmic solution.
+- •Store Dorzolamide Hydrochloride Ophthalmic Solution at 2° - 25°C (36° -77°F).
+- •Protect from light
+- •Safely throw away medicine that is out of date or no longer needed.
+- •If you have any eye or skin reactions, especially conjunctivitis or eyelid reactions to dorzolamide hydrochloride ophthalmic solution, stop using it and call your doctor right away.
+- •If you have eye surgery or have a problem such as trauma or infection of your eye while using dorzolamide hydrochloride ophthalmic solution, call your doctor right away.
+- •If you do not handle eye medicines the right way the medicine can become contaminated.
+  If the tip of the dispenser touches your eye or areas around your eye, the tip can become contaminated with bacteria which can cause an eye infection and other serious problems including loss of eyesight.
+- •If you use other eye medicines dropped onto the eye like dorzolamide hydrochloride ophthalmic solution, use the medicines at least 5 minutes before or after you use dorzolamide hydrochloride ophthalmic solution.
+- •Dorzolamide hydrochloride ophthalmic solution contains benzalkonium chloride which may be absorbed by soft contact lenses.
+  If you wear contact lenses, remove them before you use your dorzolamide hydrochloride ophthalmic solution.
+  You can place your contact lenses back into your eyes 15 minutes after using your dorzolamide hydrochloride ophthalmic solution.
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 

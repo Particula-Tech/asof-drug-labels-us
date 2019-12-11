@@ -2,7 +2,11 @@
 
 NDC 61314-019-10
 
-Dorzolamide HCl Ophthalmic Solution
+Dorzolamide HCl
+
+Ophthalmic
+
+Solution
 
 2%*
 
