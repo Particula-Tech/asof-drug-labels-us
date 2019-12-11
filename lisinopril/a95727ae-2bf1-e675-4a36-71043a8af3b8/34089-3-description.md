@@ -13,6 +13,6 @@ Inactive Ingredients:
 
 2.5 mg tablets - calcium phosphate, magnesium stearate, mannitol, starch.
 
-5, 10, 20 and 30 mg tablets - calcium phosphate, magnesium stearate, mannitol, red ferric oxide, starch.
+5 mg, 10 mg, 20 mg and 30 mg tablets - calcium phosphate, magnesium stearate, mannitol, red ferric oxide, starch.
 
 40 mg tablets - calcium phosphate, magnesium stearate, mannitol, starch, yellow ferric oxide.
