@@ -3,8 +3,9 @@
     "NDA021980"
   ],
   "inn": "fluorescein",
-  "labeler": "Alcon Laboratories, Inc.",
+  "labeler": "Alcon, Inc.",
   "package_ndcs": [
+    "0065-0092-05",
     "0065-0092-65"
   ],
   "products": [
