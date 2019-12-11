@@ -22,8 +22,8 @@ Avoid concomitant use of ELIQUIS with combined P-gp and strong CYP3A4 inducers (
 
 Coadministration of antiplatelet agents, fibrinolytics, heparin, aspirin, and chronic NSAID use increases the risk of bleeding.
 
-APPRAISE-2, a placebo-controlled clinical trial of apixaban in high-risk, post-acute coronary syndrome patients treated with aspirin or the combination of aspirin and clopidogrel, was terminated early due to a higher rate of bleeding with apixaban compared to placebo.
-The rate of ISTH major bleeding was 2.8% per year with apixaban versus 0.6% per year with placebo in patients receiving single antiplatelet therapy and was 5.9% per year with apixaban versus 2.5% per year with placebo in those receiving dual antiplatelet therapy.
+APPRAISE-2, a placebo-controlled clinical trial of ELIQUIS in high-risk, post-acute coronary syndrome patients treated with aspirin or the combination of aspirin and clopidogrel, was terminated early due to a higher rate of bleeding with ELIQUIS compared to placebo.
+The rate of ISTH major bleeding was 2.8% per year with ELIQUIS versus 0.6% per year with placebo in patients receiving single antiplatelet therapy and was 5.9% per year with ELIQUIS versus 2.5% per year with placebo in those receiving dual antiplatelet therapy.
 
 In ARISTOTLE, concomitant use of aspirin increased the bleeding risk on ELIQUIS from 1.8% per year to 3.4% per year and concomitant use of aspirin and warfarin increased the bleeding risk from 2.7% per year to 4.6% per year.
 In this clinical trial, there was limited (2.3%) use of dual antiplatelet therapy with ELIQUIS.

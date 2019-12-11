@@ -31,7 +31,7 @@ The clinical relevance of this increase in ETP is unknown.
 
 Pharmacodynamic drug interaction studies with aspirin, clopidogrel, aspirin and clopidogrel, prasugrel, enoxaparin, and naproxen were conducted.
 No pharmacodynamic interactions were observed with aspirin, clopidogrel, or prasugrel [see Warnings and Precautions (5.2)].
-A 50% to 60% increase in anti-FXa activity was observed when apixaban was coadministered with enoxaparin or naproxen.
+A 50% to 60% increase in anti-FXa activity was observed when ELIQUIS was coadministered with enoxaparin or naproxen.
 
 ### Specific Populations
 

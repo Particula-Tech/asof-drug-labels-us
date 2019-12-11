@@ -27,7 +27,7 @@ Activated oral charcoal reduces absorption of apixaban, thereby lowering apixaba
 Hemodialysis does not appear to have a substantial impact on apixaban exposure [see Clinical Pharmacology (12.3)].
 Protamine sulfate and vitamin K are not expected to affect the anticoagulant activity of apixaban.
 There is no experience with antifibrinolytic agents (tranexamic acid, aminocaproic acid) in individuals receiving apixaban.
-There is no experience with systemic hemostatics (desmopressin and aprotinin) in individuals receiving apixaban, and they are not expected to be effective as a reversal agent.
+There is no experience with systemic hemostatics (desmopressin) in individuals receiving ELIQUIS, and they are not expected to be effective as a reversal agent.
 
 ## 5.3 Spinal/Epidural Anesthesia or Puncture
 
@@ -52,8 +52,7 @@ Therefore, use of ELIQUIS is not recommended in these patients.
 
 Initiation of ELIQUIS is not recommended as an alternative to unfractionated heparin for the initial treatment of patients with PE who present with hemodynamic instability or who may receive thrombolysis or pulmonary embolectomy.
 
-## 5.6 Patients with Antiphospholipid Syndrome
+## 5.6 Increased Risk of Thrombosis in Patients with Triple Positive Antiphospholipid Syndrome
 
-Direct-acting oral anticoagulants (DOACs) including ELIQUIS are not recommended for patients with a history of thrombosis who are diagnosed with antiphospholipid syndrome (APS).
-In particular for patients that are triple positive (positive for lupus anticoagulant, anticardiolipin, and anti-beta 2 glycoprotein I antibodies), treatment with DOACs could be associated with increased rates of recurrent thrombotic events compared with vitamin K antagonist therapy.
-The efficacy and safety of ELIQUIS in patients with APS have not been established.
+Direct-acting oral anticoagulants (DOACs), including ELIQUIS, are not recommended for use in patients with triple-positive antiphospholipid syndrome (APS).
+For patients with APS (especially those who are triple positive [positive for lupus anticoagulant, anticardiolipin, and anti-beta 2-glycoprotein I antibodies]), treatment with DOACs has been associated with increased rates of recurrent thrombotic events compared with vitamin K antagonist therapy.

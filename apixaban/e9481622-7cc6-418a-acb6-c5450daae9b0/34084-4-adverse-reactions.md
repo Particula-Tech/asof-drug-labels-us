@@ -1,10 +1,10 @@
 # 6 ADVERSE REACTIONS
 
-The following serious adverse reactions are discussed in greater detail in other sections of the prescribing information.
+The following clinically significant adverse reactions are discussed in greater detail in other sections of the prescribing information.
 
-- •Increased risk of thrombotic events after premature discontinuation [see Warnings and Precautions (5.1)]
+- •Increased Risk of Thrombotic Events After Premature Discontinuation [see Warnings and Precautions (5.1)]
 - •Bleeding [see Warnings and Precautions (5.2)]
-- •Spinal/epidural anesthesia or puncture [see Warnings and Precautions (5.3)]
+- •Spinal/Epidural Anesthesia or Puncture [see Warnings and Precautions (5.3)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -41,7 +41,7 @@ Table 1: Bleeding Events in Patients with Nonvalvular Atrial Fibrillation in ARI
    Any type of hemorrhagic stroke was adjudicated and counted as an intracranial major bleed. § On-treatment analysis based on the safety population, compared to ITT analysis presented in Section 14. ¶ GI bleed includes upper GI, lower GI, and rectal bleeding. ** Fatal bleeding is an adjudicated death with the primary cause of death as intracranial bleeding or non-intracranial bleeding during the on-treatment period.
 
 In ARISTOTLE, the results for major bleeding were generally consistent across most major subgroups including age, weight, CHADS2 score (a scale from 0 to 6 used to estimate risk of stroke, with higher scores predicting greater risk), prior warfarin use, geographic region, and aspirin use at randomization (Figure 1).
-Subjects treated with apixaban with diabetes bled more (3.0% per year) than did subjects without diabetes (1.9% per year).
+Subjects treated with ELIQUIS with diabetes bled more (3% per year) than did subjects without diabetes (1.9% per year).
 
 Figure 1: Major Bleeding Hazard Ratios by Baseline Characteristics – ARISTOTLE Study
 
@@ -85,7 +85,7 @@ Table 3: Bleeding During the Treatment Period in Patients Undergoing Elective Hi
 | Bleed at critical site§ | 1 (0.04%) | 1 (0.04%) | 1 (0.07%) | 2 (0.13%) | 1 (0.06%) | 4 (0.25%) |
 | Major + CRNM¶ | 129 (4.83%) | 134 (5.04%) | 53 (3.53%) | 72 (4.77%) | 46 (2.88%) | 68 (4.28%) |
 | All | 313 (11.71%) | 334 (12.56%) | 104 (6.93%) | 126 (8.36%) | 85 (5.33%) | 108 (6.80%) |
-| * All bleeding criteria included surgical site bleeding. † Includes 13 subjects with major bleeding events that occurred before the first dose of apixaban (administered 12 to 24 hours post-surgery). ‡ Includes 5 subjects with major bleeding events that occurred before the first dose of apixaban (administered 12 to 24 hours post-surgery). § Intracranial, intraspinal, intraocular, pericardial, an operated joint requiring re-operation or intervention, intramuscular with compartment syndrome, or retroperitoneal. Bleeding into an operated joint requiring re-operation or intervention was present in all patients with this category of bleeding. Events and event rates include one enoxaparin-treated patient in ADVANCE-1 who also had intracranial hemorrhage. ¶ CRNM = clinically relevant nonmajor. |  |  |  |  |  |  |
+| * All bleeding criteria included surgical site bleeding. † Includes 13 subjects with major bleeding events that occurred before the first dose of ELIQUIS (administered 12 to 24 hours post-surgery). ‡ Includes 5 subjects with major bleeding events that occurred before the first dose of ELIQUIS (administered 12 to 24 hours post-surgery). § Intracranial, intraspinal, intraocular, pericardial, an operated joint requiring re-operation or intervention, intramuscular with compartment syndrome, or retroperitoneal. Bleeding into an operated joint requiring re-operation or intervention was present in all patients with this category of bleeding. Events and event rates include one enoxaparin-treated patient in ADVANCE-1 who also had intracranial hemorrhage. ¶ CRNM = clinically relevant nonmajor. |  |  |  |  |  |  |
 
 Adverse reactions occurring in ≥1% of patients undergoing hip or knee replacement surgery in the 1 Phase II study and the 3 Phase III studies are listed in Table 4.
 
@@ -102,7 +102,7 @@ Table 4: Adverse Reactions Occurring in ≥1% of Patients in Either Group Underg
 | Aspartate aminotransferase increased | 47 (0.8) | 69 (1.2) |
 | Gamma-glutamyltransferase increased | 38 (0.6) | 65 (1.1) |
 
-Less common adverse reactions in apixaban-treated patients undergoing hip or knee replacement surgery occurring at a frequency of ≥0.1% to <1%:
+Less common adverse reactions in ELIQUIS-treated patients undergoing hip or knee replacement surgery occurring at a frequency of ≥0.1% to <1%:
 
 Blood and lymphatic system disorders: thrombocytopenia (including platelet count decreases)
 
@@ -118,7 +118,7 @@ Renal and urinary disorders: hematuria (including respective laboratory paramete
 
 Injury, poisoning, and procedural complications: wound secretion, incision-site hemorrhage (including incision-site hematoma), operative hemorrhage
 
-Less common adverse reactions in apixaban-treated patients undergoing hip or knee replacement surgery occurring at a frequency of <0.1%:
+Less common adverse reactions in ELIQUIS-treated patients undergoing hip or knee replacement surgery occurring at a frequency of <0.1%:
 
 Gingival bleeding, hemoptysis, hypersensitivity, muscle hemorrhage, ocular hemorrhage (including conjunctival hemorrhage), rectal hemorrhage
 

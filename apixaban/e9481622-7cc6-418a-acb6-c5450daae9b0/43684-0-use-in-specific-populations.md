@@ -21,7 +21,7 @@ Published data describe that women with a previous history of venous thrombosis 
 
 Fetal/Neonatal adverse reactions
 
-Use of anticoagulants, including apixaban, may increase the risk of bleeding in the fetus and neonate.
+Use of anticoagulants, including ELIQUIS, may increase the risk of bleeding in the fetus and neonate.
 
 Labor or delivery
 

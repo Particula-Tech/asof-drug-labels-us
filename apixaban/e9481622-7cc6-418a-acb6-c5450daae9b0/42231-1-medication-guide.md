@@ -49,7 +49,7 @@ What is the most important information I should know about ELIQUIS?
   - ●you have a history of problems with your spine or have had surgery on your spine
 - If you take ELIQUIS and receive spinal anesthesia or have a spinal puncture, your doctor should watch you closely for symptoms of spinal or epidural blood clots or bleeding.
   Tell your doctor right away if you have tingling, numbness, or muscle weakness, especially in your legs and feet.
-- ●ELIQUIS is not for patients who have antiphospholipid syndrome (APS).
+- ●ELIQUIS is not for use in people with antiphospholipid syndrome (APS), especially with positive triple antibody testing, who have a history of blood clots.
 
 What is ELIQUIS?
 
@@ -74,7 +74,7 @@ What should I tell my doctor before taking ELIQUIS?
 Before you take ELIQUIS, tell your doctor if you:
 
 - ●have kidney or liver problems
-- ●have a condition called antiphospholipid syndrome
+- ●have antiphospholipid syndrome
 - ●have any other medical condition
 - ●have ever had bleeding problems
 - ●are pregnant or plan to become pregnant.
@@ -164,4 +164,4 @@ COUMADIN® is a registered trademark of Bristol-Myers Squibb Pharma Company.
 
 All other trademarks are property of their respective companies.
 
-[PRINT CODES] Revised June 2019
+Revised November 2019
