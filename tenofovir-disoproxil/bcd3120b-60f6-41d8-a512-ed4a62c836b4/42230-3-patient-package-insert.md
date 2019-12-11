@@ -36,12 +36,12 @@ What should I tell my healthcare provider before taking tenofovir disoproxil fum
 
 Before you take tenofovir disoproxil fumarate tablet, tell your healthcare provider about all of your medical conditions, including if you:
 
-- have liver problems, including hepatitis B (HBV) infection.
-- have kidney problems or receive kidney dialysis treatment.
-- have bone problems.
-- have HIV infection.
+- have liver problems, including hepatitis B (HBV) infection
+- have kidney problems or receive kidney dialysis treatment
+- have bone problems
+- have HIV infection
 - are pregnant or plan to become pregnant.
-  Tell your healthcare provider if you become pregnant during treatment with tenofovir disoproxil fumarate.
+  Tell your healthcare provider if you become pregnant during treatment with tenofovir disoproxil fumarate
 
 Pregnancy Registry.
 There is a pregnancy registry for women who take antiviral medicines during pregnancy.
@@ -52,7 +52,7 @@ Talk to your healthcare provider about how you can take part in this registry.
   - Do not breastfeed if you have HIV-1 because of the risk of passing HIV-1 to your baby.
   - If you take tenofovir disoproxil fumarate for treatment of HBV infection, talk with your healthcare provider about the best way to feed your baby.
 
-Tell your healthcare provider about all the medicines you take, including prescription and non-prescription medicines, vitamins and herbal supplements.
+Tell your healthcare provider about all the medicines you take, including prescription and non-prescription medicines, vitamins, and herbal supplements.
 
 Some medicines may interact with Tenofovir Disoproxil Fumarate.
 Keep a list of your medicines and show it to your healthcare provider and pharmacist when you get a new medicine.
@@ -68,7 +68,7 @@ How should I take tenofovir disoproxil fumarate tablet?
   Stay under a healthcare provider's care when taking tenofovir disoproxil fumarate.
 - Take tenofovir disoproxil fumarate tablet at the same time every day.
 - For adults and children 2 years of age and older who weigh at least 77 pounds (35 kg), the usual dose of tenofovir disoproxil fumarate. is one 300 mg tablet each day.
-- For children 2 years of age and older who weigh between 37 pounds (17 kg) and 77 pounds (35 kg), your healthcare provider will prescribe the right dose of tenofovir disoproxil fumarate. tablets based on your child's body weight.
+- For children 2 years of age and older who weigh between 37 pounds (17 kg) and 77 pounds (35 kg), your healthcare provider will prescribe the right dose of tenofovir disoproxil fumarate tablets based on your child's body weight.
 - Tell your healthcare provider if you or your child has problems with swallowing tablets.
 - If your healthcare provider prescribes tenofovir disoproxil fumarate. powder for you or your child, see the "Instructions for Use" that comes with your Tenofovir Disoproxil Fumarate powder for information about the right way to measure and take tenofovir disoproxil fumarate. powder.
 - Take tenofovir disoproxil fumarate. tablets by mouth, with or without food.
@@ -120,8 +120,8 @@ How should I store tenofovir disoproxil fumarate tablet?
 
 - Store tenofovir disoproxil fumarate tablets at room temperature between 68 °F to 77 °F (20 °C to 25 °C).
 - Keep tenofovir disoproxil fumarate tablets in the original container.
-- Do not use tenofovir disoproxil fumarate tablets if the seal over the bottle opening is broken or missing.
 - Keep the bottle tightly closed.
+- Do not use tenofovir disoproxil fumarate tablets if the seal over the bottle opening is broken or missing.
 
 Keep tenofovir disoproxil fumarate tablet and all medicines out of the reach of children.
 
@@ -162,7 +162,7 @@ Strides Pharma Inc.
 
 East Brunswick, NJ 08816
 
-Revised: 10/2019
+Revised: 12/2019
 
 COMPLERA, DESCOVY, GENVOYA, HARVONI, HEPSERA, ODEFSEY, STRIBILD, TRUVADA, VEMLIDY and TENOFOVIR DISOPROXIL FUMARATE are registered trademarks of Gilead Sciences Inc., or its related companies.
 ATRIPLA is a registered trademark of Bristol-Myers Squibb & Gilead Sciences, LLC.

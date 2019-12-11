@@ -28,7 +28,7 @@ Table 4 provides the treatment-emergent adverse reactions (Grades 2-4) occurring
 
 Table 4 Selected Adverse Reactionsa (Grades 2–4) Reported in ≥5% in Any Treatment Group in Trial 903 (0–144 Weeks)
 
-|  | tenofovir disoproxil fumarate +3TC+EFV | d4T+3TC+EFV |
+|  | Tenofovir disoproxil fumarate +3TC+EFV | d4T+3TC+EFV |
 | --- | --- | --- |
 | N=299 | N=301 |  |
 | Rash eventb | 18% | 12% |
@@ -57,7 +57,7 @@ Table 4 Selected Adverse Reactionsa (Grades 2–4) Reported in ≥5% in Any Trea
 | d. Peripheral neuropathy includes peripheral neuritis and neuropathy. |  |  |
 
 Laboratory Abnormalities: Table 5 provides a list of laboratory abnormalities (Grades 3-4) observed in Trial 903.
-With the exception of fasting cholesterol and fasting triglyceride elevations that were more common in the d4T group (40% and 9%) compared with tenofovir disoproxil fumarate (19% and 1%) respectively, laboratory abnormalities observed in this trial occurred with similar frequency in the tenofovir disoproxil fumarate and d4T treatment arms.
+With the exception of fasting cholesterol and fasting triglyceride elevations that were more common in the d4T group (40% and 9%) compared with tenofovir disoproxil fumarate group (19% and 1%) respectively, laboratory abnormalities observed in this trial occurred with similar frequency in the tenofovir disoproxil fumarate and d4T treatment arms.
 
 Table 5 Grades 3-4 Laboratory Abnormalities Reported in ≥1% of Tenofovir Disoproxil Fumarate-Treated Subjects in Trial 903 (0–144 Weeks)
 
@@ -130,7 +130,7 @@ Table 7 Significant Laboratory Abnormalities Reported in ≥1% of Subjects in An
 
 Clinical Trials in Treatment-Experienced HIV-1 Infected Adult Subjects
 
-In Trial 907, the adverse reactions seen in HIV-1 infected treatment experienced subjects were generally consistent with those seen in treatment naïve subjects including mild to moderate gastrointestinal events, such as nausea, diarrhea, vomiting, and flatulence.
+In Trial 907, the adverse reactions seen in HIV-1 infected treatment experienced subjects were generally consistent with those seen in treatment naïve subjects, including mild to moderate gastrointestinal events, such as nausea, diarrhea, vomiting, and flatulence.
 Less than 1% of subjects discontinued participation in the clinical trials due to gastrointestinal adverse reactions.Table 8 provides the treatment-emergent adverse reactions (Grades 2-4) occurring in greater than or equal to 3% of subjects treated in any treatment group.
 
 Table 8 Selected Adverse Reactionsa (Grades 2–4) Reported in ≥3% in Any Treatment Group in Trial 907 (0–48 Weeks)
@@ -194,15 +194,15 @@ The adverse reactions observed in subjects who received treatment with tenofovir
 
 In Trial 352, 89 pediatric subjects (2 years to less than 12 years of age) received tenofovir disoproxil fumarate for a median exposure of 104 weeks.
 Of these, 4 subjects discontinued from the trial due to adverse reactions consistent with proximal renal tubulopathy.
-Three of these 4 subjects presented with hypophosphatemia and also had decreases in total body or spine BMD Z score [See Warnings and Precautions (5.5)].
+Three of these 4 subjects presented with hypophosphatemia and also had decreases in total body or spine BMD Z-score [See Warnings and Precautions (5.5)].
 
-Changes in Bone Mineral Density: Trial 321 (12 years to less than 18 years of age), the mean rate of BMD gain at Week 48 was less in the tenofovir disoproxil fumarate group compared to the placebo group.
+Changes in Bone Mineral Density: In Trial 321 (12 years to less than 18 years of age), the mean rate of BMD gain at Week 48 was less in the tenofovir disoproxil fumarate group compared to the placebo group.
 Six tenofovir disoproxil fumarate. treated subjects and one placebo-treated subject had significant (greater than 4%) lumbar spine BMD loss at Week 48.
 Changes from baseline BMD Z-scores were -0.341 for lumbar spine and -0.458 for total body in the 28 subjects who were treated with tenofovir disoproxil fumarate for 96 weeks.
 In Trial 352 (2 years to less than 12 years of age), the mean rate of BMD gain in lumbar spine at Week 48 was similar between the tenofovir disoproxil fumarate and the d4Tor AZT treatment groups.
 Total body BMD gain was less in the tenofovir disoproxil fumarate group compared to the d4T or AZT treatment groups.
 One tenofovir disoproxil fumarate -treated subject and none of the d4T or AZT-treated subjects experienced significant (greater than 4%) lumbar spine BMD loss at Week 48.
-Changes from baseline in BMD Z scores were -0.012 for lumbar spine and -0.338 for total body in the 64 subjects who were treated with tenofovir disoproxil fumarate for 96 weeks.
+Changes from baseline in BMD Z-scores were -0.012 for lumbar spine and -0.338 for total body in the 64 subjects who were treated with tenofovir disoproxil fumarate for 96 weeks.
 In both trials, skeletal growth (height) appeared to be unaffected for the duration of the clinical trials [See Warnings and Precautions (5.5)].
 
 Adverse Reactions from Clinical Trials Experience in HBV-Infected Adults

@@ -37,6 +37,8 @@ Table 3 Dosage Interval Adjustment for Adult Patients with Altered Creatinine Cl
 |  | Creatinine Clearance (mL/min)Calculated using ideal (lean) body weight. |  |  | Hemodialysis Patients |
 | --- | --- | --- | --- | --- |
 |  | 50 or greater | 30–49 | 10–29 |  |
-| Recommended 300 mg Dosing interval | Every 24 hours | Every 48 hours | Every 72 to 96 hours | Every 7 days or after a total of approximately 12 hours of dialysis Generally once weekly assuming three hemodialysis sessions a week of approximately 4 hours duration. Tenofovir disoproxil fumarate should be administered following completion of dialysis. |
+| Recommended 300 mg Dosing interval | Every 24 hours | Every 48 hours | Every 72 to 96 hours | Every 7 days or after a total of approximately 12 hours of dialysis Generally once weekly assuming 3 hemodialysis sessions a week of approximately 4 hours' duration. Tenofovir disoproxil fumarate should be administered following completion of dialysis. |
+
+No data are available to make dosage recommendations in patients with creatinine clearance below 10 mL/min who are not on hemodialysis.
 
 No data are available to make dose recommendations in pediatric patients with renal impairment.

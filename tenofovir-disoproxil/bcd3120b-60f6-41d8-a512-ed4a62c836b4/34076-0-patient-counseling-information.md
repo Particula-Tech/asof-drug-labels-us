@@ -63,6 +63,6 @@ Strides Pharma Inc.
 
 East Brunswick, NJ 08816
 
-Revised: 10/2019
+Revised: 12/2019
 
-TENOFOVIR DISOPROXIL FUMARATE, ATRIPLA, COMPLERA, EPCLUSA, HARVONI, HEPSERA, SOVALDI, STRIBILD, TRUVADA and all other trademarks referenced herein are the property of their respective owners.
+VIREAD, ATRIPLA, COMPLERA, EPCLUSA, HARVONI, HEPSERA, SOVALDI, STRIBILD, TRUVADA and all other trademarks referenced herein are the property of their respective owners.

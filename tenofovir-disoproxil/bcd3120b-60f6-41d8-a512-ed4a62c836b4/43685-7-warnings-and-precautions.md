@@ -18,8 +18,8 @@ In patients with chronic kidney disease, also assess serum phosphorus.
 Dosing interval adjustment of tenofovir disoproxil fumarate and close monitoring of renal function are recommended in all patients with creatinine clearance below 50 ml/min [See Dosage and Administration (2.4)].
 No safety or efficacy data are available in patients with renal impairment who received tenofovir disoproxil fumarate using these dosing guidelines, so the potential benefit of tenofovir disoproxil fumarate therapy should be assessed against the potential risk of renal toxicity.
 
-Tenofovir disoproxil fumarate should be avoided with concurrent or recent use of a nephrotoxic agent (e.g., high-dose or multiple non-steroidal anti-inflammatory drugs (NSAIDs)) [See Drug Interactions (7.1)].
-Cases of acute renal failure after initiation of high dose or multiple NSAIDs have been reported in HIV-infected patients with risk factors for renal dysfunction who appeared stable on TDF.
+Tenofovir disoproxil fumarate should be avoided with concurrent or recent use of a nephrotoxic agent (e.g., high-dose or multiple non-steroidal anti-inflammatory drugs [NSAIDs]) [See Drug Interactions (7.1)].
+Cases of acute renal failure after initiation of high-dose or multiple NSAIDs have been reported in HIV-infected patients with risk factors for renal dysfunction who appeared stable on TDF.
 Some patients required hospitalization and renal replacement therapy.
 Alternatives to NSAIDs should be considered, if needed, in patients at risk for renal dysfunction.
 
@@ -43,11 +43,10 @@ Autoimmune disorders (such as Graves' disease, polymyositis, and Guillain-Barre 
 
 Bone Mineral Density
 
-In clinical trials in HIV-1 infected adults, tenofovir disoproxil fumarate was associated with slightly greater decreases in bone mineral density (BMD) and increases in biochemical markers of bone metabolism, suggesting increased bone turnover relative to comparators.
-[See Adverse Reactions (6.1)].
+In clinical trials in HIV-1 infected adults, tenofovir disoproxil fumarate was associated with slightly greater decreases in bone mineral density (BMD) and increases in biochemical markers of bone metabolism, suggesting increased bone turnover relative to comparators [See Adverse Reactions (6.1)].
 Serum parathyroid hormone levels and 1,25 Vitamin D levels were also higher in subjects receiving tenofovir disoproxil fumarate.
 
-Clinical trials evaluating tenofovir disoproxil fumarate in pediatric were conducted.
+Clinical trials evaluating tenofovir disoproxil fumarate in pediatric subjects were conducted.
 Under normal circumstances, BMD increases rapidly in pediatric patients.
 In HIV-1 infected subjects 2 years to less than 18 years of age, bone effects were similar to those observed in adult subjects and suggest increased bone turnover.
 Total body BMD gain was less in the tenofovir disoproxil fumarate-treated HIV-1 infected pediatric subjects as compared to the control groups.

@@ -89,7 +89,7 @@ At Week 72, 88% of subjects in the tenofovir disoproxil fumarate group and 0% of
 The effects of tenofovir disoproxil fumarate -associated changes in BMD and biochemical markers on long-term bone health and future fracture risk in chronic HBV-infected pediatric patients 2 years and older are unknown.
 The long-term effect of lower spine and total body BMD on skeletal growth in pediatric patients 2 years and older, and in particular, the effects of long-duration exposure in younger children is unknown [see Warnings and Precautions (5.5), Adverse Reactions (6.1)].
 
-Safety and effectiveness of tenofovir disoproxil fumarate in chronic HBV-infected pediatric patients younger than 2 years of age and weighing less than 10 kg have not been established
+Safety and effectiveness of tenofovir disoproxil fumarate in chronic HBV-infected pediatric patients younger than 2 years of age and weighing less than 10 kg have not been established.
 
 Pediatric use information is approved for Gilead Sciences, Inc.'s VIREAD® (tenofovir disoproxil fumarate) tablets.
 However, due to Gilead Sciences, Inc.'s marketing exclusivity rights, this drug product is not labeled with that pediatric information

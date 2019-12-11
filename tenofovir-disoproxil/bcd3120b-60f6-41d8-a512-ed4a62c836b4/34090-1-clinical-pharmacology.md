@@ -45,11 +45,11 @@ Cmax and AUC of tenofovir are 0.33 ± 0.12 µg/mL and 3.32 ± 1.37 µg·hr/mL fo
 
 Specific Populations
 
-Race:
+Race
 
 There were insufficient numbers from racial and ethnic groups other than Caucasian to adequately determine potential pharmacokinetic differences among these populations.
 
-Gender:
+Gender
 
 Tenofovir pharmacokinetics are similar in male and female subjects.
 
@@ -68,7 +68,7 @@ Table 13 Mean (± SD) Tenofovir Pharmacokinetic Parameters for H0049V-1 infected
 
 Tenofovir exposures in HBV-infected pediatric subjects (12 years to less than 18 years of age) receiving oral once-daily doses of tenofovir disoproxil fumarate 300 mg tablet were comparable to exposures achieved in HIV-1 infected adult subjects receiving identical doses.
 
-Geriatric Patients:
+Geriatric Patients
 
 Pharmacokinetic trials have not been performed in the elderly (65 years and older).
 
@@ -146,7 +146,7 @@ Table 15 Drug Interactions: Changes in Pharmacokinetic Parameters for Tenofovira
 
 No effect on the pharmacokinetic parameters of the following coadministered drugs was observed with Tenofovir Disoproxil Fumarate: abacavir, didanosine (buffered tablets), emtricitabine, entecavir, and lamivudine.
 
-Table 16 Drug Interactions: Changes in Pharmacokinetic Parameters for Co-Administered Drug in the Presence of Tenofovir Disoproxil Fumarate
+Table 16 Drug Interactions: Changes in Pharmacokinetic Parameters for Coadministered Drug in the Presence of Tenofovir Disoproxil Fumarate
 
 | Coadministered Drug | Dose of Coadministered Drug (mg) | N | % Change of Coadministered Drug Pharmacokinetic Parametersa (90% Cl) |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -168,7 +168,7 @@ Table 16 Drug Interactions: Changes in Pharmacokinetic Parameters for Co-Adminis
 | a Increase = ↑; Decrease = ↓; No Effect = ↔; NA = Not Applicable |  |  |  |  |  |
 | b Reyataz Prescribing Information |  |  |  |  |  |
 | c In HIV-infected subjects, addition of tenofovir DF to atazanavir 300 mg plus ritonavir 100 mg, resulted in AUC and Cmin values of atazanavir that were 2.3- and 4-fold higher than the respective values observed for atazanavir 400 mg when given alone. |  |  |  |  |  |
-| d Prezista Prescribing Information |  |  |  |  |  |
+| d Prezista Prescribing Information. |  |  |  |  |  |
 | e Videx EC Prescribing Information. Subjects received didanosine enteric-coated capsules. |  |  |  |  |  |
 | f 373 kcal, 8.2 g fat |  |  |  |  |  |
 | g Compared with didanosine (enteric-coated) 400 mg administered alone under fasting conditions. |  |  |  |  |  |
@@ -193,8 +193,8 @@ Antiviral Activity
 
 The antiviral activity of tenofovir against laboratory and clinical isolates of HIV-1 was assessed in lymphoblastoid cell lines, primary monocyte/macrophage cells and peripheral blood lymphocytes.
 The EC50 (50% effective concentration) values for tenofovir were in the range of 0.04 μM to 8.5 μM.
-In drug combination studies, tenofovir was not antagonistic with HIV-1 NRTIs (abacavir, didanosine, lamivudine, stavudine, zalcitabine, zidovudine), non-nucleoside reverse transcriptase inhibitors (efavirenz, nevirapine), and protease inhibitors (amprenavir, indinavir, nelfinavir, ritonavir, saquinavir).
-Tenofovir displayed antiviral activity in cell culture against HIV-1 clades A, B, C, D, E, F, G, and O (EC50 values ranged from 0.5 μM to 2.2 μM) and strain specific activity against HIV-2 (EC50 values ranged from 1.6 μM to 5.5 μM).
+In drug combination studies, tenofovir was not antagonistic with HIV-1 NRTIs (abacavir, didanosine, lamivudine, stavudine, zidovudine), NNRTIs (efavirenz, nevirapine), and protease inhibitors (amprenavir, indinavir, nelfinavir, ritonavir, saquinavir).
+Tenofovir displayed antiviral activity in cell culture against HIV-1 clades A, B, C, D, E, F, G, and O (EC50 values ranged from 0.5 μM to 2.2 μM) and strain-specific activity against HIV-2 (EC50 values ranged from 1.6 μM to 5.5 μM).
 
 Resistance
 
@@ -263,7 +263,7 @@ In cell culture combination antiviral activity studies of tenofovir with HBV Nrt
 
 Resistance
 
-Cumulative tenofovir disoproxil fumarate genotypic resistance has been evaluated annually for up to 384 weeks in Trailss 0102, 0103, 0106,0108, and 0121[see Clinical Studies (14.4)] with the paired HBV reverse transcriptase amino acid sequences of the pre-treatment and on-treatment isolates from subjects who received at least 24 weeks of tenofovir disoproxil fumarate monotherapy and remained viremic with HBV DNA ≥ 400 copies/mL (69 IU/mL) at the end of each study year (or at discontinuation of tenofovir disoproxil fumarate monotherapy) using an as-treated analysis.
+Cumulative tenofovir disoproxil fumarate genotypic resistance has been evaluated annually for up to 384 weeks in Trailss 0102, 0103, 0106,0108, and 0121[see Clinical Studies (14.4)] with the paired HBV reverse transcriptase amino acid sequences of the pretreatment and on-treatment isolates from subjects who received at least 24 weeks of tenofovir disoproxil fumarate monotherapy and remained viremic with HBV DNA ≥ 400 copies/mL (69 IU/mL) at the end of each study year (or at discontinuation of tenofovir disoproxil fumarate monotherapy) using an as-treated analysis.
 In the nucleotide-naïve population from Trials 0102 and 0103, HBeAg-positive subjects had a higher baseline viral load than HBeAg-negative subjects and a significantly higher proportion of the subjects remained viremic at their last time point on tenofovir disoproxil fumarate monotherapy (15% versus 5%, respectively).
 
 HBV isolates from these subjects who remained viremic showed treatment-emergent substitutions (Table 18); however, no specific substitutions occurred at a sufficient frequency to be associated with resistance to tenofovir disoproxil fumarate (genotypic and phenotypic analyses).
@@ -277,7 +277,7 @@ Table 18 Amino Acid Substitutions in Viremic Subjects across HBV Trials of Tenof
 | Treatment-Emergent Amino Acid Substitutionse | 18f/32 (56%) | 11g/31 (35%) | 6h/8 (75%) | 3/5 (60%) |
 | a Nucleotide-naïve subjects from Trials 0102 (N=246) and 0103 (N=171) receiving up to 384 weeks of treatment with tenofovir disoproxil fumarate. |  |  |  |  |
 | b HEPSERA-experienced subjects from Trials 0102/0103 (N=195) and 0106 (N=52) receiving up to 336 weeks of treatment with tenofovir disoproxil fumarate after switching to tenofovir disoproxil fumarate from HEPSERA. Trial 0106, a randomized, double blind, 168-week Phase 2 trail, has been completed. |  |  |  |  |
-| c Lamivudine-resistant subjects from Trial 0121 (N=136) receiving up to 96 weeks of treatment with tenofovir disoproxil fumarate after switching to tenofovir disoproxil fumarate from lamivudine |  |  |  |  |
+| c Lamivudine-resistant subjects from Trial 0121 (N=136) receiving up to 96 weeks of treatment with tenofovir disoproxil fumarate after switching to tenofovir disoproxil fumarate from lamivudine. |  |  |  |  |
 | d Subjects with decompensated liver disease from Trial 0108 (N=39) receiving up to 48 weeks of treatment with tenofovir disoproxil fumarate. |  |  |  |  |
 | e Denominator includes those subjects who were viremic at last time point on tenofovir disoproxil fumarate monotherapy and had evaluable paired genotypic data. |  |  |  |  |
 | f Of the 18 subjects with treatment-emergent amino acid substitutions during Trials 0102 and 0103, 5 subjects had substitutions at conserved sites and 13 subjects had substitutions only at polymorphic sites, and 8 subjects had only transient substitutions that were not detected at the last time point on tenofovir disoproxil fumarate. |  |  |  |  |
@@ -286,7 +286,7 @@ Table 18 Amino Acid Substitutions in Viremic Subjects across HBV Trials of Tenof
 
 Cross-Resistance
 
-Cross-resistance has been observed between HBV NrtIs
+Cross-resistance has been observed between HBV NrtIs.
 
 In cell based assays, HBV strains expressing the rtV173L, rtL180M, and rtM204I/V substitutions associated with resistance to lamivudine and telbivudine showed a susceptibility to tenofovir ranging from 0.7- to 3.4-fold that of wild type virus.
 The rtL180M and rtM204I/V double substitutions conferred 3.4-fold reduced susceptibility to tenofovir.
@@ -297,5 +297,5 @@ HBV strains expressing the adefovir resistance-associated substitutions rtA181V 
 Strains containing the rtA181T substitution showed changes in susceptibility to tenofovir ranging from 0.9- to 1.5-fold that of wild type virus.
 
 One hundred fifty-two subjects initiating tenofovir disoproxil fumarate therapy in Trials 0102, 0103, 0106, 0108, and 0121 harbored HBV with known resistance substitutions to HBV NrtIs: 14 with adefovir resistance-associated substitutions (rtA181S/T/V and/or rtN236T), 135 with lamivudine resistance-associated substitutions (rtM204I/V), and 3 with both adefovir and lamivudine resistance-associated substitutions.
-Following up to 384 weeks of tenofovir disoproxil fumarate treatment, 10 of the 14 subjects with adefovir-resistant HBV, 124 of the 135 subjects with lamivudine-resistant HBV, and 2 of the 3 subjects with both adefovir- and lamivudine-resistant HBV achieved and maintained virologic suppression (HBV DNA less than 400 copies/mL [69 IU/mL]).
+Following up to 384 weeks of tenofovir disoproxil fumarate treatment, 10 of the 14 subjects with adefovir-resistant HBV, 124 of the 135 subjects with lamivudine-resistant HBV, and 2 of the 3 subjects with both adefovir- and lamivudine-resistant HBV achieved and maintained virologic suppression (HBV DNA < 400 copies/mL [69 IU/mL]).
 Three of the 5 subjects whose virus harbored both the rtA181T/V and rtN236T substitutions remained viremic.
