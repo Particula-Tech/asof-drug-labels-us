@@ -15,13 +15,13 @@ Physicians administering BOTOX Cosmetic must understand the relevant neuromuscul
 
 Do not use BOTOX Cosmetic and contact Allergan (1-800-890-4345) if:
 
-- the carton labeling does not contain an intact seal with a translucent silver Allergan logo (on both ends of the carton) or the seal has a black circle with a diagonal line through it (i.e., prohibition sign),
-- the vial label does not contain a holographic film containing the name “Allergan” within rainbow colored horizontal lines, or
-- the U.S. License number 1145 is not present on the vial label and carton labeling [see How Supplied/Storage and Handling (16)].
+- The carton labeling does not contain an intact seal with a translucent silver Allergan logo (on both ends of the carton) or the seal has a black circle with a diagonal line through it (i.e., prohibition sign),
+- The vial label does not contain a holographic film containing the name “Allergan” within rainbow colored horizontal lines, or
+- The U.S. License number 1145 is not present on the vial label and carton labeling [see How Supplied/Storage and Handling (16)]
 
 ## 2.2Preparation and Dilution Technique
 
-BOTOX Cosmetic is supplied in single-use 50 Units and 100 Units per vial.
+BOTOX Cosmetic is supplied in single-dose 50 Units and 100 Units per vial.
 Prior to intramuscular injection, reconstitute each vacuum-dried vial of BOTOX Cosmetic with sterile, preservative-free 0.9% Sodium Chloride Injection USP (see Table 1).
 Draw up the proper amount of diluent in the appropriate size needle and syringe to obtain a reconstituted solution at a concentration of 4 Units/0.1 mL and a total treatment dose of 20 Units in 0.5 mL for glabellar lines, 24 Units in 0.6 mL for lateral canthal lines, and 40 Units in 1 mL for forehead lines and glabellar lines.
 Then slowly inject the diluent into the vial.
@@ -30,7 +30,7 @@ Gently mix BOTOX Cosmetic with the saline by rotating the vial.
 Record the date and time of reconstitution on the space on the label.
 BOTOX Cosmetic should be administered within 24 hours after reconstitution.
 During this time period, reconstituted BOTOX Cosmetic should be stored in a refrigerator (2° to 8°C).
-BOTOX Cosmetic vials are for single-use only.
+BOTOX Cosmetic vials are for single-dose only.
 Discard any remaining solution.
 
 Table 1: Dilution Instructions for BOTOX Cosmetic Vials (100 Units and 50 Units)

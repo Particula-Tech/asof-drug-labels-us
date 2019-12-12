@@ -14,24 +14,16 @@ Patients should be counseled that if loss of strength, muscle weakness, blurred 
 
 Ophthalmic Adverse Reactions
 
-Inform patients that Botox Cosmetic injection may cause eye dryness.
+Inform patients that BOTOX Cosmetic injection may cause eye dryness.
 Advise patients to report symptoms of eye dryness (e.g., eye pain, eye irritation, photosensitivity, or changes in vision) to their doctor.
 
-Manufactured by: Allergan Pharmaceuticals Ireland
+Manufactured by: Allergan Pharmaceuticals Ireland a subsidiary of: Allergan, Inc. U.S. License number 1145
 
-a subsidiary of: Allergan, Inc.
+Distributed by: Allergan USA, Inc. Madison, NJ 07940
 
-U.S. License number 1145
-
-Distributed by: Allergan USA, Inc.
-
-Madison, NJ 07940
-
-© 2019 Allergan.
+© 2020 Allergan.
 All rights reserved.
-
 All trademarks are the property of their respective owners.
-
 Patented.
 See: www.allergan.com/patents
 

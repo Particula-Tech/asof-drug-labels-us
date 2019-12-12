@@ -36,7 +36,7 @@ One fatal case of anaphylaxis has been reported in which lidocaine was used as t
 
 ## 5.5 Cardiovascular System
 
-There have been reports following administration of BOTOX/Botox Cosmetic of adverse events involving the cardiovascular system, including arrhythmia and myocardial infarction, some with fatal outcomes.
+There have been reports following administration of BOTOX/BOTOX Cosmetic of adverse events involving the cardiovascular system, including arrhythmia and myocardial infarction, some with fatal outcomes.
 Some of these patients had risk factors including pre-existing cardiovascular disease.
 Use caution when administering to patients with pre-existing cardiovascular disease.
 
