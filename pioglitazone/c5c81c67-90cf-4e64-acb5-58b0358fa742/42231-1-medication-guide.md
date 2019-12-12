@@ -1,6 +1,6 @@
 # MEDICATION GUIDE
 
-Pioglitazone (pye oh gli′ ta zone) Tablets USP Read this Medication Guide carefully before you start taking pioglitazone tablets and each time you get a refill.
+Pioglitazone (pye oh gli′ ta zone) Tablets Read this Medication Guide carefully before you start taking pioglitazone tablets and each time you get a refill.
 There may be new information.
 This information does not take the place of talking with your doctor about your medical condition or your treatment.
 If you have any questions about pioglitazone tablets, ask your doctor or pharmacist.
@@ -148,7 +148,7 @@ You may report side effects to FDA at 1-800-FDA-1088.
 
 How should I store pioglitazone tablets?
 
-- Store pioglitazone tablets at 20° to 25°C (68° to 77°F).
+- Store pioglitazone tablets at (68° to 77°F) 20° to 25°C.
   Keep pioglitazone tablets in the original container and protect from light
 - Keep the pioglitazone tablet bottle tightly closed and keep tablets dry
 - Keep pioglitazone tablets and all medicines out of the reach of children
@@ -165,26 +165,18 @@ If you would like more information, talk with your doctor.
 You can ask your doctor or pharmacist for information about pioglitazone tablets that is written for healthcare professionals.
 For more information, call 1-888-838-2872.
 
-What are the ingredients in pioglitazone tablets USP?
+What are the ingredients in pioglitazone tablets?
 
-Active Ingredient: pioglitazone hydrochloride, USP
+Active Ingredient: pioglitazone hydrochloride
 
 Inactive Ingredients: carboxymethylcellulose calcium, hydroxypropyl cellulose, magnesium stearate, and mannitol.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Manufactured In Israel By:
+Manufactured In Czech Republic By: Teva Czech Industries, s.r.o.
+Opava-Komarov, Czech Republic
 
-Teva Pharmaceutical Ind.
-Ltd.
-
-Jerusalem, 9777402, Israel
-
-Manufactured For:
-
-Teva Pharmaceuticals USA, Inc.
-
-North Wales, PA 19454
+Manufactured For: Teva Pharmaceuticals USA, Inc. North Wales, PA 19454
 
 Rev.
-B 12/2016
+C 5/2019
