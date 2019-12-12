@@ -128,22 +128,33 @@ Cytomegalovirus (CMV) prophylaxis is recommended for 3 months after transplantat
 
 ## 5.15 Embryo-Fetal Toxicity
 
-Based on animal studies and the mechanism of action [see Clinical Pharmacology (12.1)], sirolimus may cause fetal harm when administered to a pregnant woman.
-In animal studies, mTOR inhibitors caused embryo-fetal toxicity when administered during the period of organogenesis at maternal exposures that were equal to or less than human exposures at the recommended lowest starting dose.
+Based on animal studies and the mechanism of action [see Clinical Pharmacology (12.1)], sirolimus can cause fetal harm when administered to a pregnant woman.
+In animal studies, sirolimus caused embryo-fetal toxicity when administered during the period of organogenesis at maternal exposures that were equal to or less than human exposures at the recommended lowest starting dose.
 Advise pregnant women of the potential risk to a fetus.
-Advise women of childbearing potential to avoid becoming pregnant and to use effective contraception while using sirolimus and for 12 weeks after ending treatment.
+Advise female patients of reproductive potential to avoid becoming pregnant and to use highly effective contraception while using sirolimus and for 12 weeks after ending treatment.
 [see Use in Specific Populations (8.1)]
 
-## 5.16 Different Sirolimus Trough Concentration Reported between Chromatographic and Immunoassay Methodologies
+## 5.16 Male Infertility
+
+Azoospermia or oligospermia may be observed [see Adverse Reactions (6.2), Nonclinical Toxicology (13.1)].
+Sirolimus is an anti-proliferative drug and affects rapidly dividing cells like the germ cells.
+
+## 5.17 Different Sirolimus Trough Concentration Reported between Chromatographic and Immunoassay Methodologies
 
 Currently in clinical practice, sirolimus whole blood concentrations are being measured by various chromatographic and immunoassay methodologies.
 Patient sample concentration values from different assays may not be interchangeable [see Dosage and Administration (2.5)].
 
-## 5.17 Skin Cancer Events
+## 5.18 Skin Cancer Events
 
 Patients on immunosuppressive therapy are at increased risk for skin cancer.
-Exposure to sunlight and ultraviolet (UV) light should be limited by wearing protective clothing and using a sunscreen with a high protection factor [see Adverse Reactions (6.1, 6.2, 6.7)].
+Exposure to sunlight and ultraviolet (UV) light should be limited by wearing protective clothing and using a broad spectrum sunscreen with a high protection factor [see Adverse Reactions (6.1, 6.2, 6.7)].
 
-## 5.18 Interaction with Strong Inhibitors and Inducers of CYP3A4 and/or P-gp
+## 5.19 Immunizations
+
+The use of live vaccines should be avoided during treatment with sirolimus; live vaccines may include, but are not limited to, the following: measles, mumps, rubella, oral polio, BCG, yellow fever, varicella, and TY21a typhoid.
+Immunosuppressants may affect response to vaccination.
+Therefore, during treatment with sirolimus, vaccination may be less effective.
+
+## 5.20 Interaction with Strong Inhibitors and Inducers of CYP3A4 and/or P-gp
 
 Avoid concomitant use of sirolimus with strong inhibitors of CYP3A4 and/or P-gp (such as ketoconazole, voriconazole, itraconazole, erythromycin, telithromycin, or clarithromycin) or strong inducers of CYP3A4 and/or P-gp (such as rifampin or rifabutin) [see Drug Interactions (7.2)].

@@ -49,14 +49,13 @@ Before taking sirolimus, tell your doctor if you:
 - have skin cancer or it runs in your family
 - have high cholesterol or triglycerides (fat in your blood)
 - are pregnant or are a female who can become pregnant.
-  Sirolimus may harm your unborn baby.
+  Sirolimus can harm your unborn baby.
   You should not become pregnant during treatment with sirolimus and for 12 weeks after ending treatment with sirolimus.
   In order to avoid pregnancy, a female who can get pregnant should use effective birth control during treatment and for 12 weeks after your final dose of sirolimus.
   Talk with your doctor about what birth control method is right for you during this time.
   Tell your doctor right away if you become pregnant or think you are pregnant during treatment with sirolimus or within 12 weeks after your final dose of sirolimus.
-- It is not known whether sirolimus passes into breast milk.
-  You and your doctor should decide if you will take sirolimus or breastfeed.
-  You should not do both.
+- It is not known whether sirolimus passes into breast milk; however there is a risk of serious side effects in breastfed infants.
+  You and your doctor should decide about the best way to feed your baby if you take Sirolimus.
 
 Tell your doctor about all the medicines you take, including prescription and over-the-counter medicines, vitamins and herbal supplements.
 Using sirolimus with certain medicines may affect each other causing serious side effects.
@@ -102,7 +101,7 @@ What should I avoid while taking Sirolimus Oral Solution?
 - Avoid receiving live vaccines while taking sirolimus.
   Some vaccines may not work as well while you are taking sirolimus.
 - Limit your time in sunlight and UV light.
-  Cover your skin with clothing and use a sunscreen with a high protection factor because of the increased risk for skin cancer with sirolimus.
+  Cover your skin with clothing and use a broad spectrum sunscreen with a high protection factor because of the increased risk for skin cancer with sirolimus.
 
 What are the possible side effects of sirolimus?
 
@@ -148,6 +147,10 @@ Sirolimus may cause serious side effects, including:
 - Blood clotting problems.
   When sirolimus is taken with cyclosporine or tacrolimus, you may develop a blood clotting problem.
   Tell your doctor if you get any unexplained bleeding or bruising.
+- Possible harm to your unborn baby.
+  Sirolimus can harm your unborn baby.
+  You should not become pregnant during treatment with Sirolimus and for 12 weeks after ending treatment with Sirolimus.
+  See "What should I tell my doctor before taking Sirolimus?".
 
 The most common side effects of sirolimus in people with renal transplant include:
 
@@ -161,6 +164,13 @@ The most common side effects of sirolimus in people with renal transplant includ
 - nausea
 - low platelet count (cells that help blood to clot)
 - high blood sugar (diabetes)
+
+Other side effects that may occur with sirolimus:
+
+- Sirolimus may affect fertility in females and may affect your ability to become pregnant.
+  Talk to your healthcare provider if this is a concern for you.
+- Sirolimus may affect fertility in males and may affect your ability to father a child.
+  Talk to your healthcare provider if this is a concern for you.
 
 Tell your doctor if you have any side effect that bothers you or that does not go away.
 
@@ -178,7 +188,7 @@ How should I store Sirolimus Oral Solution?
 - When a bottle of Sirolimus Oral Solution is opened, it should be used within 1 month.
 - Use any diluted Sirolimus Oral Solution right away.
 
-Do not use Sirolimus Oral Solution after the expiration date, which is located on the carton.
+Do not use Sirolimus Oral Solution after the expiration date.
 The expiration date refers to the last day of that month.
 Safely throw away medicine that is out of date or no longer needed.
 

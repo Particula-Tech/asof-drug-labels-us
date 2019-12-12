@@ -8,12 +8,14 @@ The following adverse reactions are discussed in greater detail in other section
 - Hypersensitivity reactions [see Warnings and Precautions (5.4)]
 - Exfoliative dermatitis [see Warnings and Precautions (5.4)]
 - Angioedema [see Warnings and Precautions (5.5)]
-- Fluid Accumulation and Impairment of Wound Healing [see Warnings and Precautions (5.6)]
+- Fluid accumulation and impairment of wound healing [see Warnings and Precautions (5.6)]
 - Hypertriglyceridemia, hypercholesterolemia [see Warnings and Precautions (5.7)]
 - Decline in renal function in long-term combination of cyclosporine with sirolimus [see Warnings and Precautions (5.8)]
 - Proteinuria [see Warnings and Precautions (5.9)]
 - Interstitial lung disease [see Warnings and Precautions (5.11)]
 - Increased risk of calcineurin inhibitor-induced HUS/TTP/TMA [see Warnings and Precautions (5.13)].
+- Embryo-fetal toxicity [see Warnings and Precautions (5.15)]
+- Male infertility [see Warnings and Precautions (5.16)]
 
 The most common (≥ 30%) adverse reactions observed with sirolimus in clinical studies for organ rejection prophylaxis in recipients of renal transplantation are: peripheral edema, hypertriglyceridemia, hypertension, hypercholesterolemia, creatinine increased, constipation, abdominal pain, diarrhea, headache, fever, urinary tract infection, anemia, nausea, arthralgia, pain, and thrombocytopenia.
 
@@ -127,7 +129,7 @@ The incidence of malignancies in Study 3 [see Clinical Studies (14.2)] is presen
 In Study 3, the incidence of lymphoma/lymphoproliferative disease was similar in all treatment groups.
 The overall incidence of malignancy was higher in patients receiving sirolimus plus cyclosporine compared with patients who had cyclosporine withdrawn.
 Conclusions regarding these differences in the incidence of malignancy could not be made because Study 3 was not designed to consider malignancy risk factors or systematically screen subjects for malignancy.
-In addition, more patients in the sirolimus with cyclosporine group had a pretransplantation history of skin carcinoma.
+In addition, more patients in the sirolimus with cyclosporine group had a pre-transplantation history of skin carcinoma.
 
 | TABLE 3: INCIDENCE (%) OF MALIGNANCIES IN STUDY 3 (CYCLOSPORINE WITHDRAWAL STUDY) AT 36 MONTHS POST-TRANSPLANTa,b |  |  |  |
 | --- | --- | --- | --- |

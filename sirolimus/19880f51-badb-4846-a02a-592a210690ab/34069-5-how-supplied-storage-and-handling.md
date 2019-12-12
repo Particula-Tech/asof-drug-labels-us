@@ -3,7 +3,7 @@
 Since sirolimus is not absorbed through the skin, there are no special precautions.
 However, if direct contact of the oral solution occurs with the skin or eyes, wash skin thoroughly with soap and water; rinse eyes with plain water.
 
-Do not use Sirolimus Oral Solution after the expiration date that is located on the carton.
+Do not use Sirolimus Oral Solution after the expiration date.
 The expiration date refers to the last day of that month.
 
 ## 16.1 Sirolimus Oral Solution

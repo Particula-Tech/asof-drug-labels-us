@@ -8,6 +8,7 @@ In cells, sirolimus binds to the immunophilin, FK Binding Protein-12 (FKBP-12), 
 The sirolimus: FKBP-12 complex has no effect on calcineurin activity.
 This complex binds to and inhibits the activation of the mammalian target of rapamycin (mTOR), a key regulatory kinase.
 This inhibition suppresses cytokine-driven T-cell proliferation, inhibiting the progression from the G1 to the S phase of the cell cycle.
+Mammalian target of rapamycin (mTOR) inhibitors such as sirolimus have been shown in vitro to inhibit production of certain growth factors that may affect angiogenesis, fibroblast proliferation, and vascular permeability.
 
 Studies in experimental models show that sirolimus prolongs allograft (kidney, heart, skin, islet, small bowel, pancreatico-duodenal, and bone marrow) survival in mice, rats, pigs, and/or primates.
 Sirolimus reverses acute rejection of heart and kidney allografts in rats and prolongs the graft survival in presensitized rats.
@@ -41,7 +42,7 @@ The pharmacokinetic parameters of sirolimus in low- to moderate-immunologic risk
 
 Whole blood trough sirolimus concentrations, as measured by LC/MS/MS in renal transplant patients, were significantly correlated with AUCt, ss.
 Upon repeated, twice-daily administration without an initial loading dose in a multiple-dose study, the average trough concentration of sirolimus increases approximately 2- to 3-fold over the initial 6 days of therapy, at which time steady-state is reached.
-A loading dose of 3 times the maintenance dose will provide near steady-state concentrations within 1 day in most patients [see Dosage and Administration (2.3, 2.5), Warning and Precautions (5.16)].
+A loading dose of 3 times the maintenance dose will provide near steady-state concentrations within 1 day in most patients [see Dosage and Administration (2.3, 2.5), Warning and Precautions (5.17)].
 
 Absorption
 
@@ -68,7 +69,7 @@ Metabolism
 Sirolimus is a substrate for both CYP3A4 and P-gp.
 Sirolimus is extensively metabolized in the intestinal wall and liver and undergoes counter-transport from enterocytes of the small intestine into the gut lumen.
 Inhibitors of CYP3A4 and P-gp increase sirolimus concentrations.
-Inducers of CYP3A4 and P-gp decrease sirolimus concentrations [see Warnings and Precautions (5.18) and Drug Interactions (7)].
+Inducers of CYP3A4 and P-gp decrease sirolimus concentrations [see Warnings and Precautions (5.20) and Drug Interactions (7)].
 Sirolimus is extensively metabolized by O-demethylation and/or hydroxylation.
 Seven (7) major metabolites, including hydroxy, demethyl, and hydroxydemethyl, are identifiable in whole blood.
 Some of these metabolites are also detectable in plasma, fecal, and urine samples.
@@ -223,7 +224,7 @@ Sirolimus and these drugs may be co-administered without dose adjustments.
 
 Other Drug-Drug Interactions
 
-Co-administration of sirolimus with other known strong inhibitors of CYP3A4 and/or P-gp (such as voriconazole, itraconazole, telithromycin, or clarithromycin) or other known strong inducers of CYP3A4 and/or P-gp (such as rifabutin) is not recommended [see Warnings and Precautions (5.18), Drug Interactions (7.2)].
+Co-administration of sirolimus with other known strong inhibitors of CYP3A4 and/or P-gp (such as voriconazole, itraconazole, telithromycin, or clarithromycin) or other known strong inducers of CYP3A4 and/or P-gp (such as rifabutin) is not recommended [see Warnings and Precautions (5.20), Drug Interactions (7.2)].
 In patients in whom strong inhibitors or inducers of CYP3A4 are indicated, alternative therapeutic agents with less potential for inhibition or induction of CYP3A4 should be considered.
 
 Care should be exercised when drugs or other substances that are substrates and/or inhibitors or inducers of CYP3A4 are administered concomitantly with sirolimus.
