@@ -7,7 +7,7 @@ For patent information: www.merck.com/product/patent/home.html
 
 Copyright © 2011-2019 Merck Sharp & Dohme B.V., a subsidiary of Merck & Co., Inc. All rights reserved.
 
-uspi-mk8415-iptx-1910r021
+uspi-mk8415-iptx-1911r022
 
 Manufactured for: Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC., Whitehouse Station, NJ 08889, USA
 

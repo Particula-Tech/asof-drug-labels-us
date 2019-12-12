@@ -12,7 +12,7 @@ Complications related to insertion and removal procedures, such as pain, paresth
 If NEXPLANON is inserted deeply (intramuscular or in the fascia), neural or vascular injury may occur.
 To help reduce the risk of neural or vascular injury, NEXPLANON should be inserted subdermally just under the skin at the inner side of the non-dominant upper arm overlying the triceps muscle about 8-10 cm (3-4 inches) from the medial epicondyle of the humerus and 3-5 cm (1.25-2 inches) posterior to (below) the sulcus (groove) between the biceps and triceps muscles.
 This location is intended to avoid the large blood vessels and nerves lying within and surrounding the sulcus.
-Deep insertions of NEXPLANON have been associated with paraesthesia (due to neural injury), migration of the implant (due to intramuscular or fascial insertion), and intravascular insertion.
+Deep insertions of NEXPLANON have been associated with paresthesia (due to neural injury), migration of the implant (due to intramuscular or fascial insertion), and intravascular insertion.
 If infection develops at the insertion site, start suitable treatment.
 If the infection persists, the implant should be removed.
 Incomplete insertions or infections may lead to expulsion.

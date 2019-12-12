@@ -18,7 +18,7 @@ Co-administration of certain HCs and strong or moderate CYP3A4 inhibitors such a
 
 Human Immunodeficiency Virus (HIV)/Hepatitis C Virus (HCV) protease inhibitors and non-nucleoside reverse transcriptase inhibitors:
 
-Significant changes (increase or decrease) in the plasma concentrations of progestin have been noted in cases of co-administration with HIV protease inhibitors (decrease [e.g., nelfinavir, ritonavir, darunavir/ritonavir, (fos)amprenavir/ritonavir, lopinavir/ritonavir, and tipranavir/ritonavir] or increase [e.g., indinavir and atazanavir/ritonavir])/HCV protease inhibitors (decrease [e.g., boceprevir and telaprevir]) or with non-nucleoside reverse transcriptase inhibitors (decrease [e.g., nevirapine, efavirenz] or increase [e.g., etravirene]).
+Significant changes (increase or decrease) in the plasma concentrations of progestin have been noted in cases of co-administration with HIV protease inhibitors (decrease [e.g., nelfinavir, ritonavir, darunavir/ritonavir, (fos)amprenavir/ritonavir, lopinavir/ritonavir, and tipranavir/ritonavir] or increase [e.g., indinavir and atazanavir/ritonavir])/HCV protease inhibitors (decrease [e.g., boceprevir and telaprevir]) or with non-nucleoside reverse transcriptase inhibitors (decrease [e.g., nevirapine, efavirenz] or increase [e.g., etravirine]).
 These changes may be clinically relevant in some cases.
 
 Consult the prescribing information of anti-viral and anti-retroviral concomitant medications to identify potential interactions.
