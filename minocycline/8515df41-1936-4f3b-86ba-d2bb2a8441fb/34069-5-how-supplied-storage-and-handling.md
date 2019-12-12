@@ -7,7 +7,7 @@ NDC 65976-100-01 1 unit-dose cartridge with desiccant in a heat-sealed, foil-lam
 NDC 65976-100-24 12 unit-dose cartridges in 1 tray with desiccant in a heat-sealed, foil-laminated, resealable pouch.
 There are 2 pouches in each box.
 
-Each unit-dose cartridge contains the product identifier "OP-1."
+Each unit-dose cartridge contains the product identifier “OP-1.”
 
 ## Storage Conditions
 

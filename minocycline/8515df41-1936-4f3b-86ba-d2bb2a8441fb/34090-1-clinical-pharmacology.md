@@ -83,8 +83,8 @@ Table 4: Mean Pocket Depth Change in Subjects with Mean Baseline PD ≥5 mm, ≥
 | Mean Baseline Pocket Depth | SRP Alone | SRP + Vehicle | SRP + ARESTIN | SRP Alone | SRP + Vehicle | SRP + ARESTIN |
 | --- | --- | --- | --- | --- | --- | --- |
 | Study OPI-103A |  |  |  | Study OPI-103B |  |  |
-| ≥5 mm (n) | -1.04 mm(124) | -0.90 mm(123) | -1.20 mmStatistically significant comparison between SRP + ARESTIN and SRP alone(121) | -1.32 mm(126) | -1.30 mm(126) | -1.63 mm(128) |
-| ≥6 mm (n) | -0.91 mm(34) | -0.77 mm(46) | -1.40 mm(45) | -1.33 mm(37) | -1.46 mm(40) | -1.69 mm(25) |
+| ≥5 mm (n) | -1.04 mm(124) | -0.90 mm(123) | -1.20 mm*(121) | -1.32 mm(126) | -1.30 mm(126) | -1.63 mm*(128) |
+| ≥6 mm (n) | -0.91 mm(34) | -0.77 mm(46) | -1.40 mm*(45) | -1.33 mm(37) | -1.46 mm(40) | -1.69 mm*(25) |
 | ≥7 mm (n) | -1.10 mm(4) | -0.46 mm(5) | -1.91 mm(3) | -1.72 mm(3) | -1.11 mm(3) | -2.84 mm(2) |
 
 The combined data from these 2 studies also show that for pockets 5 mm to 7 mm at baseline, greater reductions in pocket depth occurred in pockets that were deeper at baseline.
