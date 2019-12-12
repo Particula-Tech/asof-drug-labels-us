@@ -36,10 +36,10 @@ Pharmacologically mediated reductions in maternal body weight gain and food cons
 Early pregnancy losses and increased incidences of minor visceral (kidney, liver) and skeletal (sternebra) fetal abnormalities were observed at ≥0.0025 mg/kg/day, at clinically relevant exposures.
 
 In an embryofetal development study in pregnant cynomolgus monkeys, subcutaneous doses of 0.015, 0.075, and 0.15 mg/kg twice weekly (1.0-, 5.2-, and 14.9-fold the MRHD) were administered throughout organogenesis, from Gestation Day 16 to 50.
-Pharmacologically mediated, marked initial maternal body weight loss and reductions in body weight gain and food consumption coincided with the occurrence of sporadic abnormalities (vertebra, sternebra, ribs) at ≥0.075 mg/kg twice weekly (>5X human exposure).
+Pharmacologically mediated, marked initial maternal body weight loss and reductions in body weight gain and food consumption coincided with the occurrence of sporadic abnormalities (vertebra, sternebra, ribs) at ≥0.075 mg/kg twice weekly (≥5X human exposure).
 
 In a pre- and postnatal development study in pregnant cynomolgus monkeys, subcutaneous doses of 0.015, 0.075, and 0.15 mg/kg twice weekly (0.7-, 3.3-, and 7.2-fold the MRHD) were administered from Gestation Day 16 to 140.
-Pharmacologically mediated marked initial maternal body weight loss and reductions in body weight gain and food consumption coincided with an increase in early pregnancy losses and led to delivery of slightly smaller offspring at ≥0.075 mg/kg twice weekly (>3X human exposure).
+Pharmacologically mediated marked initial maternal body weight loss and reductions in body weight gain and food consumption coincided with an increase in early pregnancy losses and led to delivery of slightly smaller offspring at ≥0.075 mg/kg twice weekly (≥3X human exposure).
 
 ## 8.2 Lactation
 
