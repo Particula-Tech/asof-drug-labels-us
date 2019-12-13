@@ -2,10 +2,11 @@
 
 The following serious adverse reactions in zolpidem-treated patients are discussed in greater detail in other sections of the labeling:
 
-- CNS-depressant effects and next-day impairment [see Warnings and Precautions (5.1)]
-- Serious anaphylactic and anaphylactoid reactions [see Warnings and Precautions (5.3)]
-- Abnormal thinking and behavioral changes, and complex behaviors [see Warnings and Precautions (5.4)]
-- Withdrawal effects [see Warnings and Precautions (5.7)]
+- Complex Sleep Behaviors [See Warnings and Precautions (5.1)]
+- CNS-Depressant Effects and Next-Day Impairment [see Warnings and Precautions (5.2)]
+- Serious Anaphylactic and Anaphylactoid Reactions [see Warnings and Precautions (5.2)]
+- Abnormal Thinking and Behavioral Changes [see Warnings and Precautions (5.5)]
+- Withdrawal Effects [see Warnings and Precautions (5.8)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -32,11 +33,3 @@ Table 1: Summary of Adverse Reactions (≥ 2%) in Outpatient, Double-Blind, Para
 | Fatigue | 1% | 0% |
 | Nervous System Disorders | 5% | 3% |
 | Headache | 3% | 1% |
-
-## 6.2 Postmarketing Experience
-
-The following adverse reactions have been identified during post-approval use of Zolpidem Tartrate Sublingual Tablets.
-Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to establish a causal relationship to drug exposure.
-
-- Application site reactions, primarily in the sublingual area, have been reported.
-  These application site reactions included oral ulcers, blisters, and mucosal inflammation.

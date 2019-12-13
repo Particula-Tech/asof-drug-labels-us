@@ -6,7 +6,7 @@ Zolpidem Tartrate Sublingual Tablets 1.75 mg are white to off white, round, flat
 
 NDC 43386-762-30: Carton of 30 unit-dose pouches
 
-Zolpidem Tartrate Sublingual Tablets 3.5 are white to off white, round, flat faced beveled edged debossed with "NP" on one side and plain on the other side and supplied as:
+Zolpidem Tartrate Sublingual Tablets 3.5 mg are white to off white, round, flat faced beveled edged debossed with "NP" on one side and plain on the other side and supplied as:
 
 NDC 43386-761-30: Carton of 30 unit-dose pouches
 

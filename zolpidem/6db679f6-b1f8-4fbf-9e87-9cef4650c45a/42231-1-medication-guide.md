@@ -21,10 +21,11 @@ If you do not follow the Instructions for Use, you might be drowsy in the mornin
 
 Zolpidem Tartrate Sublingual Tablet may cause serious side effects, including:
 
-- After taking Zolpidem Tartrate Sublingual Tablet, you may get up out of bed while not being fully awake and do an activity that you do not know you are doing.
+- Complex sleep behaviors that have caused serious injury and death.
+  After taking Zolpidem Tartrate Sublingual Tablets, you may get up out of bed while not being fully awake and do an activity that you do not know you are doing (complex sleep behaviors).
   The next morning, you may not remember that you did anything during the night.
+  These activities may occur with Zolpidem Tartrate Sublingual Tablets whether or not you drink alcohol or take other medicines that make you sleepy
 
-You have a higher chance for doing these activities if you drank alcohol that day or take other medicines that make you sleepy with Zolpidem Tartrate Sublingual Tablet.
 Reported activities include:
 
 - driving a car ("sleep-driving")
@@ -33,12 +34,13 @@ Reported activities include:
 - having sex
 - sleep-walking
 
-Call your healthcare provider right away if you find out that you have done any of the above activities after taking Zolpidem Tartrate Sublingual Tablet.
+Stop taking Zolpidem Tartrate Sublingual Tablet and call your healthcare provider right away if you find out that you have done any of the above activities after taking Zolpidem Tartrate Sublingual Tablet.
 
 Important:
 
 1. Take Zolpidem Tartrate Sublingual Tablet exactly as prescribed
 2. Do not take Zolpidem Tartrate Sublingual Tablet if you:
+   - have ever experienced a complex sleep behavior (such as driving a car, making and eating food, talking on the phone or having sex while not fully awake) after taking Zolpidem Tartrate Sublingual Tablet
    - drank alcohol that day or before bed.
    - took another medicine to help you sleep.
    - do not have at least 4 hours of bedtime remaining.
@@ -59,6 +61,7 @@ Tell your doctor if you have ever abused or have been dependent on alcohol, pres
 
 Who should not take Zolpidem Tartrate Sublingual Tablet?
 
+- Do not take Zolpidem Tartrate Sublingual Tablets if you have ever had a complex sleep behavior happen after taking Zolpidem Tartrate Sublingual Tablets.
 - Do not take Zolpidem Tartrate Sublingual Tablet if you are allergic to zolpidem or any other ingredients in Zolpidem Tartrate Sublingual Tablet.
   See the end of this Medication Guide for a complete list of ingredients in Zolpidem Tartrate Sublingual Tablet.
 - Do not take Zolpidem Tartrate Sublingual Tablet if you have had an allergic reaction to drugs containing zolpidem, such as Ambien, Ambien CR, Edluar, or Zolpimist.
@@ -103,7 +106,7 @@ What are the possible side effects of Zolpidem Tartrate Sublingual Tablet?
 
 Zolpidem Tartrate Sublingual Tablet may cause serious side effects, including:
 
-- getting out of bed while not being fully awake and do an activity that you do not know you are doing.
+- getting out of bed while not being fully awake and doing an activity that you do not know you are doing.
   (See "What is the most important information I should know about Zolpidem Tartrate Sublingual Tablet?")
 - abnormal thoughts and behavior.
   Symptoms include more outgoing or aggressive behavior than normal, confusion, agitation, hallucinations, worsening of depression, and suicidal thoughts or actions.
@@ -169,7 +172,7 @@ Manufactured for:
 Lupin Pharmaceuticals, Inc. Baltimore, MD 21202
 
 Rev.
-09/2016
+09/2019
 
 Instructions for Use
 
@@ -193,7 +196,7 @@ Before you go to bed:
 
 - Place only 1 Zolpidem Tartrate Sublingual Tablet pouch by your bed, and have a clock or watch nearby (see Figure A).
 
-- Store all other Zolpidem Tartrate Sublingual Tablet pouches with your other medicines away from your bedside.
+- Store all other unopened Zolpidem Tartrate Sublingual Tablet pouches with your other medicines away from your bedside.
 - Only remove the blister from the Zolpidem Tartrate Sublingual Tablet pouch when you are ready to use it.
 - You can either use the Zolpidem Tartrate Sublingual Tablet Dosing Time Chart (see Figure B) or the Dosing Time Tool (see Figure C) that comes with Zolpidem Tartrate Sublingual Tablet to find the latest time during the night you can take Zolpidem Tartrate Sublingual Tablet.
 
@@ -253,7 +256,7 @@ Lupin Pharmaceuticals, Inc.
 
 Baltimore, MD 21202
 
-PI7610000203
+PI7610000204
 
 Rev.
-09/2016
+09/2019

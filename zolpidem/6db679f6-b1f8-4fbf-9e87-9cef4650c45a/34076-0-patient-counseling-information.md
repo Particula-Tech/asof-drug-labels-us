@@ -7,6 +7,12 @@ Inform patients of the availability of a Medication Guide and instruct them to r
 Review the Zolpidem Tartrate Sublingual Tablets Medication Guide with every patient prior to initiation of treatment.
 Instruct patients or caregivers that Zolpidem Tartrate Sublingual Tablets should be taken only as prescribed.
 
+Complex Sleep Behaviors
+
+Instruct patients and their families that Zolpidem Tartrate Sublingual Tablets may cause complex sleep behaviors, including sleep-walking, sleep-driving, preparing and eating food, making phone calls, or having sex while not being fully awake.
+Serious injuries and death have occurred during complex sleep behavior episodes.
+Tell patients to discontinue Zolpidem Tartrate Sublingual Tablets and notify their healthcare provider immediately if they develop any of these symptoms [see Boxed Warning, Warnings and Precautions (5.1)]
+
 CNS depressant Effects and Next-Day Impairment
 
 Tell patients that Zolpidem Tartrate Sublingual Tablets has the potential to cause next-day impairment, and that this risk is increased if dosing instructions are not carefully followed.
@@ -16,10 +22,6 @@ Severe Anaphylactic and Anaphylactoid Reactions
 
 Inform patients that severe anaphylactic and anaphylactoid reactions have occurred with zolpidem.
 Describe the signs/symptoms of these reactions and advise patients to seek medical attention immediately if any of them occur.
-
-Sleep-driving and Other Complex Behaviors
-
-Instruct patients to inform their families that zolpidem has been associated with "sleepdriving" and other complex behaviors while not being fully awake (preparing and eating food, making phone calls, or having sex), and tell patients and their families to call their healthcare providers immediately if they develop any of these symptoms.
 
 Suicide
 
@@ -54,7 +56,7 @@ Lupin Pharmaceuticals, Inc.
 
 Baltimore, MD 21202
 
-PI7610000203
+PI7610000204
 
 Rev.
-09/2016
+09/2019
