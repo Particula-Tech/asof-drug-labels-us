@@ -17,3 +17,5 @@ It has a pKa of 3.70 (based on extrapolation of values obtained from methanolic 
 
 SPORANOX® Capsules contain 100 mg of itraconazole coated on sugar spheres (composed of sucrose, maize starch, and purified water).
 Inactive ingredients are hard gelatin capsule, hypromellose, polyethylene glycol (PEG) 20,000, titanium dioxide, FD&C Blue No. 1, FD&C Blue No. 2, D&C Red No. 22 and D&C Red No. 28.
+
+Meets USP Dissolution Test 2.

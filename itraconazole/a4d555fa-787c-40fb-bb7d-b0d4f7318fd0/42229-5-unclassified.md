@@ -1,6 +1,6 @@
 © 2001 Janssen Pharmaceutical Companies
 
-Revised: 3/2019
+Revised: December 2019
 
 Product of Ireland
 
