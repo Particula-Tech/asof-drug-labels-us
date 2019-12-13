@@ -60,7 +60,9 @@ Gender: No pharmacokinetic difference between males and females has been observe
 Race: The influence of race on the pharmacokinetics of fenofibrate has not been studied; however, fenofibrate is not metabolized by enzymes known for exhibiting inter-ethnic variability.
 
 Renal Impairment: The pharmacokinetics of fenofibric acid was examined in patients with mild, moderate, and severe renal impairment.
-Patients with severe renal impairment (creatinine clearance [CrCl ≤ 30 mL/min] < 30 mL/min or estimated glomerular filtration rate [eGFR] <30 mL/min/1.73 m2) showed 2.7-fold increase in exposure for fenofibric acid and increased accumulation of fenofibric acid during chronic dosing compared to that of healthy subjects.
+Patients with severe renal impairment (creatinine clearance [CrCl ≤ 30 mL/min] < 30 mL/min or estimated glomerular filtration rate
+
+[eGFR] <30 mL/min/1.73 m2) showed 2.7-fold increase in exposure for fenofibric acid and increased accumulation of fenofibric acid during chronic dosing compared to that of healthy subjects.
 Patients with mild to moderate renal impairment (CrCl 30-80 mL/min or eGFR 30-59 mL/min/1.73 m2) had similar exposure but an increase in the half-life for fenofibric acid compared to that of healthy subjects.
 Based on these findings, avoid use of Triglide in patients with mild or moderate renal impairment.
 Triglide is contraindicated for patients with severe renal impairment, including end-stage renal disease (ESRD) or those receiving dialysis [see Contraindications (4) and Use in Special Populations (8.6)].
