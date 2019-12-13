@@ -83,7 +83,7 @@ Rilpivirine: In animals, no studies have been conducted to assess the excretion 
 
 ## 8.4 Pediatric Use
 
-The safety and effectivness of COMPLERA as a complete regimen for the treatment of HIV-1 infection was established in pediatric subjects 12 years of age and older with body weight greater than or equal to 35 kg [see Dosage and Administration (2.2)].
+The safety and effectiveness of COMPLERA as a complete regimen for the treatment of HIV-1 infection was established in pediatric subjects 12 years of age and older with body weight greater than or equal to 35 kg [see Dosage and Administration (2.2)].
 Use of COMPLERA in this age group weighing at least 35 kg is supported by adequate and well-controlled studies of RPV+FTC+TDF in adults with HIV-1 infection as well as data from pediatric studies of the individual components of COMPLERA (RPV, FTC, and TDF) [see Clinical Pharmacology (12.3), and Clinical Studies (14.2)].
 
 COMPLERA should only be administered to pediatric patients with a body weight greater than or equal to 35 kg.

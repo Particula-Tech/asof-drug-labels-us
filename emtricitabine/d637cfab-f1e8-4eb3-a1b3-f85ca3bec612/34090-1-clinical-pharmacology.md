@@ -16,7 +16,7 @@ Steady-state administration of RPV 75 mg once daily and 300 mg once daily result
 
 ## 12.3 Pharmacokinetics
 
-COMPLERA: Under fed conditions (total calorie content of the meal was approximately 400 kcal with approximately 13 grams of fat), RPV, FTC, and tenofovir exposures were similar when comparing COMPLERA to EMTRIVA® capsules (200 mg) plus Edurant tablets (25 mg) plus VIREAD® tablets (300 mg) following single-dose administration to healthy subjects (N=34).
+COMPLERA: Under fed conditions (total calorie content of the meal was approximately 400 kcal with approximately 13 grams of fat), RPV, FTC, and tenofovir exposures were similar when comparing COMPLERA to EMTRIVA capsules (200 mg) plus Edurant tablets (25 mg) plus VIREAD tablets (300 mg) following single-dose administration to healthy subjects (N=34).
 
 Single-dose administration of COMPLERA tablets to healthy subjects under fasted conditions provided approximately 25% higher exposure of RPV compared to administration of EMTRIVA capsules (200 mg) plus Edurant tablets (25 mg) plus VIREAD tablets (300 mg), while exposures of FTC and tenofovir were comparable (N=15).
 
@@ -140,7 +140,7 @@ Table 8: Pharmacokinetic Results of Total RPV After Administration of RPV 25 mg 
 | Cmin, ng/mL | 84.0 ± 58.8 | 54.3 ± 25.8 | 52.9 ± 24.4 |
 | Cmax, ng/mL | 167 ± 101 | 121 ± 45.9 | 123 ± 47.5 |
 | tmax, h | 4.00 (2.03−25.08) | 4.00 (1.00−9.00) | 4.00 (2.00−24.93) |
-| AUC24h, ng.h/mL | 2,714 ± 1,535 | 1,792 ± 711 | 1,762 ± 662 |
+| AUC24h, ng∙h/mL | 2,714 ± 1,535 | 1,792 ± 711 | 1,762 ± 662 |
 
 Drug Interaction Studies
 
@@ -186,7 +186,7 @@ Table 9 Drug Interactions: Changes in Pharmacokinetic Parameters for RPV in the 
 | Simeprevir | 25 once daily | 150 once daily | 23 | ↑ 4 (↓ 5 to ↑ 13) | ↑ 12 (↑ 5 to ↑ 19) | ↑ 25 (↑ 16 to ↑ 35) |
 | Sildenafil | 50 single dose | 75 once daily | 16 | ↓8 (↓15 to ↓1) | ↓2 (↓8 to ↑5) | ↑4 (↓2 to ↑9) |
 | Sofosbuvir/ Velpatasvir | 400/100 once daily | 25 once dailyStudy conducted with COMPLERA coadministered with EPCLUSA (sofosbuvir/velpatasvir). | 24 | ↓7 (↓12 to ↓2) | ↓5 (↓10 to 0) | ↓4 (↓10 to ↑3) |
-| Sofosbuvir/ Velpatasvir/ VoxilaprevirStudy conducted with ODEFSEY (FTC/RPV/tenofovir alafenamide). | 400/100/100 + 100 voxilaprevirStudy conducted with additional voxilaprevir 100 mg to achieve voxilaprevir exposures expected in HCV-infected patients. once daily | 25 once daily | 30 | ↓21 (↓26 to ↓16) | ↓20 (↓24 to ↓15) | ↓18 (↓23 to ↓13) |
+| Sofosbuvir/ Velpatasvir/ VoxilaprevirStudy conducted with ODEFSEY® (FTC/RPV/tenofovir alafenamide). | 400/100/100 + 100 voxilaprevirStudy conducted with additional voxilaprevir 100 mg to achieve voxilaprevir exposures expected in HCV-infected patients. once daily | 25 once daily | 30 | ↓21 (↓26 to ↓16) | ↓20 (↓24 to ↓15) | ↓18 (↓23 to ↓13) |
 | TDF | 300 once daily | 150 once daily | 16 | ↓4 (↓19 to ↑13) | ↑1 (↓13 to ↑18) | ↓1 (↓17 to ↑16) |
 | NA=not available |  |  |  |  |  |  |
 

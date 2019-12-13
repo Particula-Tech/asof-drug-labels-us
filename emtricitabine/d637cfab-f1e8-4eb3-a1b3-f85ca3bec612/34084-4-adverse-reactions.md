@@ -142,7 +142,7 @@ The pharmacokinetic exposure of RPV in coinfected subjects was comparable to tha
 Adverse Reactions from Clinical Trials Experience in Pediatric Subjects
 
 Emtricitabine: In addition to the adverse reactions reported in adults, anemia and hyperpigmentation were observed in 7% and 32%, respectively, of pediatric subjects (3 months to less than 18 years of age) who received treatment with FTC in the larger of two open-label, uncontrolled pediatric trials (N=116).
-For additional information, please consult the EMTRIVA prescribing information.
+For additional information, please consult the EMTRIVA® prescribing information.
 
 Rilpivirine: The safety assessment is based on the Week 48 analysis of the single-arm, open-label Phase 2 trial, TMC278-C213, in which 36 antiretroviral treatment-naïve HIV-1-infected subjects 12 to less than 18 years of age and weighing at least 32 kg received RPV (25 mg once daily) in combination with other antiretroviral agents.
 The median duration of exposure for subjects was 63.5 weeks.
@@ -166,7 +166,7 @@ Overall, there were no serious adverse events, deaths, or treatment discontinuat
 The clinical significance of the abnormal 250 micrograms ACTH stimulation tests is not known.
 
 Tenofovir DF: In a pediatric clinical trial conducted in subjects 12 to less than 18 years of age, the adverse reactions observed in pediatric subjects who received treatment with TDF were consistent with those observed in clinical trials of TDF in adults [see Warnings and Precautions (5.6)].
-For additional information, including information on bone mineral density changes, please consult the VIREAD prescribing information.
+For additional information, including information on bone mineral density changes, please consult the VIREAD® prescribing information.
 
 ## 6.2 Postmarketing Experience
 
