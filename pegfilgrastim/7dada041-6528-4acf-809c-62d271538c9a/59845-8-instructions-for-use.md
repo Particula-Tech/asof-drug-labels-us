@@ -147,4 +147,4 @@ Manufactured by: Sandoz Inc. Princeton, NJ 08540
 
 US License No. 2003 Product of Slovenia.
 
-Issued: August/2019
+Issued: November/2019

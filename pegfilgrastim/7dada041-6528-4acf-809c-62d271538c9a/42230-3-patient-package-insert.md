@@ -13,4 +13,4 @@
 | Manufactured by: Sandoz Inc. Princeton, NJ 08540 US License No. 2003Product of Slovenia.For more information, visit www.ziextenzo.com or call 1-800-525-8747 |
 
 1. This Patient Information has been approved by the U.S. Food and Drug Administration.
-   Issued: August 2019
+   Issued: November 2019
