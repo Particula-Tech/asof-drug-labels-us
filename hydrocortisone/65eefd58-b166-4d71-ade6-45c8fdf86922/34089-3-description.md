@@ -3,12 +3,15 @@
 SOLU-CORTEF Sterile Powder is an anti-inflammatory glucocorticoid that contains hydrocortisone sodium succinate as the active ingredient.
 SOLU-CORTEF Sterile Powder is available in several packages for intravenous or intramuscular administration.
 
-100 mg Plain—Vials containing hydrocortisone sodium succinate equivalent to 100 mg hydrocortisone, 0.8 mg monobasic sodium phosphate anhydrous, 8.73 mg dibasic sodium phosphate dried.
+## 100 mg Plain
+
+Vials containing hydrocortisone sodium succinate equivalent to 100 mg hydrocortisone, 0.8 mg monobasic sodium phosphate anhydrous, 8.73 mg dibasic sodium phosphate dried.
 SOLU-CORTEF 100 mg plain does not contain diluent (see DOSAGE AND ADMINISTRATION, Preparation of Solutions).
+
+ACT-O-VIAL® System (Single-Dose Vial) in four strengths:
 
 |  | Each 2 mL contains (when mixed): | Each 2 mL contains (when mixed): | Each 4 mL contains (when mixed): | Each 8 mL contains (when mixed): |
 | --- | --- | --- | --- | --- |
-| ACT-O-VIAL® System (Single-Dose Vial) in four strengths: |  |  |  |  |
 |  | 100 mg ACT-O-VIAL | 250 mg ACT-O-VIAL | 500 mg ACT-O-VIAL | 1000 mg ACT-O-VIAL |
 | Hydrocortisone sodium succinate | equiv. to 100 mg Hydrocortisone | equiv. to 250 mg Hydrocortisone | equiv. to 500 mg Hydrocortisone | equiv. to 1000 mg Hydrocortisone |
 | Monobasic sodium phosphate anhydrous | 0.8 mg | 2 mg | 4 mg | 8 mg |

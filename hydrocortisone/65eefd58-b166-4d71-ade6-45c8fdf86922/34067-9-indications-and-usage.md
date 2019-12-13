@@ -1,6 +1,6 @@
 # INDICATIONS AND USAGE
 
-When oral therapy is not feasible, and the strength, dosage form, and route of administration of the drug reasonably lend the preparation to the treatment of the condition, the intravenous or intramusculat use of SOLU-CORTEF Sterile Powder is indicated as follows:
+When oral therapy is not feasible, and the strength, dosage form, and route of administration of the drug reasonably lend the preparation to the treatment of the condition, the intravenous or intramuscular use of SOLU-CORTEF Sterile Powder is indicated as follows:
 
 ## Allergic states
 
@@ -32,7 +32,7 @@ For the palliative management of leukemias and lymphomas.
 
 ## Nervous System
 
-Acute exacerbations of multiple sclerosis; cerebral edema associated with primary or metastatic brain tumor, or craniotomy.
+Cerebral edema associated with primary or metastatic brain tumor, or craniotomy.
 
 ## Ophthalmic diseases
 

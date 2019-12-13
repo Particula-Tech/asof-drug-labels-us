@@ -1,6 +1,6 @@
 # DOSAGE AND ADMINISTRATION
 
-Because of possible physical incompatilitbilites, SOLU-CORTEF should not be diluted or mixed with other solutions.
+Because of possible physical incompatibilities, SOLU-CORTEF should not be diluted or mixed with other solutions.
 
 Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration, whenever solution and container permit.
 
@@ -23,8 +23,6 @@ Situations that may make dosage adjustments necessary are changes in clinical st
 In this latter situation, it may be necessary to increase the dosage of the corticosteroid for a period of time consistent with the patient's condition.
 If after long-term therapy the drug is to be stopped, it is recommended that it be withdrawn gradually rather than abruptly.
 
-In the treatment of acute exacerbations of multiple sclerosis, daily doses of 800 mg of hydrocortisone for a week followed by 320 mg every other day for one month are recommended (see PRECAUTIONS, Neurologic-psychiatric).
-
 In pediatric patients, the initial dose of hydrocortisone may vary depending on the specific disease entity being treated.
 The range of initial doses is 0.56 to 8 mg/kg/day in three or four divided doses (20 to 240 mg/m2bsa/day).
 For the purpose of comparison, the following is the equivalent milligram dosage of the various glucocorticoids:
@@ -39,10 +37,15 @@ For the purpose of comparison, the following is the equivalent milligram dosage 
 These dose relationships apply only to oral or intravenous administration of these compounds.
 When these substances or their derivatives are injected intramuscularly or into joint spaces, their relative properties may be greatly altered.
 
-## Preparation of Solutions 100 mg Plain
+## Preparation of Solutions
+
+### 100 mg Plain
 
 For intravenous or intramuscular injection, prepare solution by aseptically adding not more than 2 mL of Bacteriostatic Water for Injection or Bacteriostatic Sodium Chloride Injection to the contents of one vial.
 For intravenous infusion, first prepare solution by adding not more than 2 mL of Bacteriostatic Water for Injection to the vial; this solution may then be added to 100 to 1000 mL of the following: 5% dextrose in water (or isotonic saline solution or 5% dextrose in isotonic saline solution if patient is not on sodium restriction).
+
+This product, like many other steroid formulations, is sensitive to heat.
+Therefore, it should not be autoclaved when it is desirable to sterilize the exterior of the vial.
 
 ## DIRECTIONS FOR USING THE ACT-O-VIAL SYSTEM
 

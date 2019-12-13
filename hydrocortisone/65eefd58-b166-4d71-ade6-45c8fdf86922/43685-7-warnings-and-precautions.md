@@ -31,8 +31,7 @@ Literature reports suggest an apparent association between use of corticosteroid
 
 ## Endocrine
 
-Hypothalamic-pituitary adrenal (HPA) axis suppression.
-Cushing's syndrome, and hyperglycemia.
+Hypothalamic-pituitary adrenal (HPA) axis suppression, Cushing's syndrome, and hyperglycemia.
 Monitor patients for these conditions with chronic use.
 Corticosteroids can produce reversible HPA axis suppression with the potential for glucocorticosteroid insufficiency after withdrawal of treatment.
 Drug induced secondary adrenocortical insufficiency may be minimized by gradual reduction of dosage.
@@ -44,12 +43,12 @@ This type of relative insufficiency may persist for months after discontinuation
 
 Patients who are on corticosteroids are more susceptible to infections than are healthy individuals.
 There may be decreased resistance and inability to localize infection when corticosteroids are used.
-Infection with any pathogen (viral, bacterial, fungal, protozoan or helminthic) in any location of the body may be associated with the use of corticosteroids alone or in combination with other immunosuppressive agents.
+Infection with any pathogen (viral, bacterial, fungal, protozoan, or helminthic) in any location of the body may be associated with the use of corticosteroids alone or in combination with other immunosuppressive agents.
 
 These infections may be mild, but can be severe and at times fatal.
 With increasing doses of corticosteroids, the rate of occurrence of infectious complications increases.
 Corticosteroids may also mask some signs of current infection.
-Do not use intra-articularly, intrabursally or for intratendinous administration for local effect in the presence of acute local infection.
+Do not use intra-articularly, intrabursally, or for intratendinous administration for local effect in the presence of acute local infection.
 
 ### Fungal infections
 
@@ -79,7 +78,7 @@ During prolonged corticosteroid therapy, these patients should receive chemoprop
 
 Administration of live or live, attenuated vaccines is contraindicated in patients receiving immunosuppressive doses of corticosteroids.
 Killed or inactivated vaccines may be administered.
-However, the reponse to such vaccines cannot be predicted.
+However, the response to such vaccines cannot be predicted.
 Immunization procedures may be undertaken in patients who are receiving corticosteroids as replacement therapy (e.g., for Addison's disease).
 
 ### Viral infections
@@ -107,8 +106,6 @@ Corticosteroids should not be used in active ocular herpes simplex.
 
 ## General
 
-This product, like many other steroid formulations, is sensitive to heat.
-Therefore, it should not be autoclaved when it is desirable to sterilize the exterior of the vial.
 The lowest possible dose of corticosteroid should be used to control the condition under treatment.
 When reduction in dosage is possible, the reduction should be gradual.
 
@@ -144,10 +141,6 @@ Special consideration should be given to patients at increased risk of osteoporo
 Local injection of a steroid into a previously infected site is not usually recommended.
 
 ## Neurologic-psychiatric
-
-Although controlled clinical trials have shown corticosteroids to be effective in speeding the resolution of acute exacerbations of multiple sclerosis, they do not show that corticosteroids affect the ultimate outcome or natural history of the disease.
-The studies do show that relatively high doses of corticosteroids are necessary to demonstrate a significant effect.
-(See DOSAGE AND ADMINISTRATION.)
 
 An acute myopathy has been observed with the use of high doses of corticosteroids, most often occurring in patients with disorders of neuromuscular transmission (e.g., myasthenia gravis), or in patients receiving concomitant therapy with neuromuscular blocking drugs (e.g., pancuronium).
 This acute myopathy is generalized, may involve ocular and respiratory muscles, and may result in quadriparesis.
@@ -206,10 +199,7 @@ Because corticosteroids may increase blood glucose concentrations, dosage adjust
 ### Antitubercular drugs
 
 Serum concentrations of isoniazid may be decreased.
-
-### Cholestyramine
-
-Cholestyramine may increase the clearance of corticosteroids.
+Cholestyramine: Cholestyramine may increase the clearance of corticosteroids.
 
 ### Cyclosporine
 
