@@ -63,7 +63,7 @@ There were no differences in plasma concentrations of rosuvastatin between men a
 Pediatric use information for patients ages 8 to less than 10 years is approved for AstraZeneca’s CRESTOR (rosuvastatin calcium) tablets.
 However, due to AstraZeneca’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
 
-GeriatricPatients
+Geriatric Patients
 
 There were no differences in plasma concentrations of rosuvastatin between the nonelderly and elderly populations (age ≥65 years).
 
@@ -115,22 +115,22 @@ Effect of Coadministered Drugs on Rosuvastatin Systemic Exposure
 | Fluconazole 200 mg QD for 11 days | 80 mg | 1.1(1 to 1.3)3 | 1.1(0.9 to 1.4)3 |
 | Erythromycin 500 mg QID for 7 days | 80 mg | 0.8(0.7 to 0.9)3 | 0.7(0.5 to 0.9)3 |
 
-1. 1Single dose unless otherwise noted.
-2. 2Clinically significant [see Dosage and Administration (2) and Warnings and Precautions (5)]
-3. 3Mean ratio with 90% CI (with/without coadministered drug, e.g., 1= no change, 0.7 = 30% decrease, 11=11 fold increase in exposure)
+- 1Single dose unless otherwise noted.
+- 2Clinically significant [see Dosage and Administration (2) and Warnings and Precautions (5)]
+- 3Mean ratio with 90% CI (with/without coadministered drug, e.g., 1= no change, 0.7 = 30% decrease, 11=11 fold increase in exposure)
 
 Table 5.
 Effect of Rosuvastatin Coadministration on Systemic Exposure To Other Drugs
 
 | Rosuvastatin Dosage Regimen | Coadministered Drug |  |  |
 | --- | --- | --- | --- |
-|  |  | Mean Ratio (ratio with/without coadministered drug)No Effect = 1.0 |  |
+|  |  | Mean Ratio (ratio with/without coadministered drug)No Effect = 1 |  |
 |  | Name and Dose | Change in AUC | Change in Cmax |
-| 40 mg QD for 10 days | Warfarin125 mg single dose | R-Warfarin1(1 to 1.1)2S-Warfarin1.1(1 to 1.1)2 | R-Warfarin1(0.9 to 1)2S-Warfarin1(0.9 to 1.1)2 |
+| 40 mg QD for 10 days | Warfarin125 mg single dose | R-Warfarin1(1 to 1.1)2S-Warfarin1.1(1 to 1.1)2 | R-Warfarin1(0.9 to 1)2S-Warfarin1.0(0.9 to 1.1)2 |
 | 40 mg QD for 12 days | Digoxin 0.5 mg single dose | 1(0.9 to 1.2)2 | 1(0.9 to 1.2)2 |
-| 40 mg QD for 28 days | Oral Contraceptive(ethinyl estradiol 0.035 mg & norgestrel 0.18, 0.215 and 0.250 mg) QD for 21 days | EE 1.3(1.2 to 1.3)2NG 1.3(1.3 to 1.4)2 | EE 1.3(1.2 to 1.3)2NG 1.2(1.1 to 1.3)2 |
+| 40 mg QD for 28 days | Oral Contraceptive(ethinyl estradiol 0.035 mg & norgestrel 0.18, 0.215 and 0.250 mg) QD for 21 Days | EE 1.3(1.2 to 1.3)2NG 1.3(1.3 to 1.4)2 | EE 1.3(1.2 to 1.3)2NG 1.2(1.1 to 1.3)2 |
 
-1. EE = ethinyl estradiol, NG = norgestrel 1Clinically significant pharmacodynamic effects [see Warnings and Precautions (5.3)] 2Mean ratio with 90% CI (with/without coadministered drug, e.g., 1= no change, 0.7=30% decrease, 11=11-fold increase in exposure)
+- EE = ethinyl estradiol, NG = norgestrel 1Clinically significant pharmacodynamic effects [see Warnings and Precautions (5.3)] 2Mean ratio with 90% CI (with/without coadministered drug, e.g., 1= no change, 0.7=30% decrease, 11=11-fold increase in exposure)
 
 ## 12.5 Pharmacogenomics
 

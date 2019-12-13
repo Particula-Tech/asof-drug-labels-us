@@ -24,9 +24,9 @@ Rosuvastatin calcium reduced non HDL-C (primary end point) and circulating remna
 Results are shown in the table below.
 
 Table 10.
-Lipid-modifying Effects of Rosuvastatin 10 mg and 20 mg in Primary Dysbetalipoproteinemia (Type III hyperlipoproteinemia) After Six Weeks by Median Percent Change (95% CI) from Baseline (N=32))
+Lipid-modifying Effects of Rosuvastatin 10 mg and 20 mg in Primary Dysbetalipoproteinemia (Type III hyperlipoproteinemia) After Six Weeks by Median Percent Change (95% CI) from Baseline (N=32)
 
-|  | Median at Baseline (mg/dL) | Median percent change from baseline(95 % CI)rosuvastatin calcium10 mg | Median percent change from baseline(95% CI)rosuvastatin calcium20 mg |
+|  | Median at Baseline (mg/dL) | Median percent change from baseline(95 % CI)Rosuvastatin Calcium10 mg | Median percent change from baseline(95% CI)Rosuvastatin Calcium20 mg |
 | --- | --- | --- | --- |
 | Total-C | 342.5 | -43.3 (-46.9,-37.5) | -47.6 (-51.6,-42.8) |
 | Triglycerides | 503.5 | -40.1 (-44.9, -33.6) | -43 (-52.5, -33.1) |

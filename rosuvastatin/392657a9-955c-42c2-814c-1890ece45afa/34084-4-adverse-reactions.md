@@ -60,8 +60,8 @@ Adverse Reactions1 Reported in ≥2% of Patients Treated with Rosuvastatin Calci
 | Abdominal pain | 2.4 | 1.8 |
 | ALT >3 x ULN2 | 2.2 | 0.7 |
 
-1. 1Adverse reactions by MedDRA preferred term.
-2. 2Frequency recorded as abnormal laboratory value.
+- 1Adverse reactions by MedDRA preferred term.
+- 2Frequency recorded as abnormal laboratory value.
 
 Table 3.
 Adverse Reactions1 Reported in ≥ 2% of Patients Treated with Rosuvastatin Calcium and > Placebo in a Trial (% of Patients)
@@ -74,7 +74,7 @@ Adverse Reactions1 Reported in ≥ 2% of Patients Treated with Rosuvastatin Calc
 | Diabetes mellitus | 2.8 | 2.3 |
 | Nausea | 2.4 | 2.3 |
 
-1. 1Treatment-emergent adverse reactions by MedDRA preferred term.
+- 1Treatment-emergent adverse reactions by MedDRA preferred term.
 
 ## 6.2 Postmarketing Experience
 

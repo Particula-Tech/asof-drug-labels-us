@@ -49,8 +49,8 @@ Advise females of reproductive potential to use effective contraception during t
 
 ## 8.4 Pediatric Use
 
-Pediatric use information for patients 7 to 17 years of age is approved for AstraZeneca’sCRESTOR (rosuvastatin calcium) tablets.
-However, due to AstraZeneca’s marketingexclusivity rights, this drug product is not labeled with that pediatric information.
+Pediatric use information for patients 7 to 17 years of age is approved for AstraZeneca’s CRESTOR (rosuvastatin calcium) tablets.
+However, due to AstraZeneca’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
 
 ## 8.5 Geriatric Use
 

@@ -1,4 +1,6 @@
-# PATIENT INFORMATION Rosuvastatin Calcium (roe-SOO-va-STAT-in KAL-see-um) Tablets
+# PATIENT INFORMATION
+
+Rosuvastatin Calcium (roe-SOO-va-STAT-in KAL-see-um) Tablets, USP
 
 Read this Patient Information carefully before you start taking rosuvastatin calcium tablets and each time you get a refill.
 If you have any questions about rosuvastatin calcium tablets, ask your doctor.
@@ -135,9 +137,9 @@ Keep rosuvastatin calcium tablets and all medicines out of the reach of children
 
 What are the Ingredients in rosuvastatin calcium tablets?
 
-Active Ingredient: rosuvastatin as rosuvastatin calcium
+Active Ingredient: rosuvastatin as rosuvastatin calcium, USP
 
-Inactive Ingredients: crospovidone, lactose monohydrate, hypromellose, magnesium stearate, microcrystalline cellulose, sodium bicarbonate, titanium dioxide, triacetin and ferric oxide red.
+Inactive Ingredients: crospovidone, ferric oxide red, hypromellose, lactose monohydrate, magnesium stearate, microcrystalline cellulose, sodium bicarbonate, titanium dioxide and triacetin.
 
 General Information about the safe and effective use of rosuvastatin calcium tablets
 
@@ -152,13 +154,15 @@ This Patient Information has been approved by the U.S. Food and Drug Administrat
 
 Manufactured by:
 
-Glenmark Pharmaceuticals Ltd. Colvale-Bardez, Goa 403 513, India
+Glenmark Pharmaceuticals Ltd. Colvale-Bardez, Goa 403513, India
 
 Manufactured for:
 
 Glenmark Pharmaceuticals Inc., USA Mahwah, NJ 07430
 
 Questions?
-1 (888)721-7115 www.glenmarkpharma.com/usa
+1 (888) 721-7115
 
-January 2019
+www.glenmarkpharma-us.com
+
+November 2019
