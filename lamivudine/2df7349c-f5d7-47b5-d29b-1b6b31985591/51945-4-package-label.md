@@ -61,4 +61,3 @@ Epivir-HBV is a registered trademark
 
 1. 10000000146472 Rev.
    5/17
-2. 
