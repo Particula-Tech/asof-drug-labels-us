@@ -35,6 +35,6 @@ Use Robinul with caution in the elderly and in all patients with:
 
 - Autonomic neuropathy.
 - Hepatic or renal disease.
-- Ulcerative colitis–large doses may suppress intestinal motility to the point of producing a paralytic ileus and for this reason may precipitate or aggravate “toxic megacolon,” a serious complication of the disease.
+- Ulcerative colitis–large doses may suppress intestinal motility to the point of producing a paralytic ileus and for this reason may precipitate or aggravate "toxic megacolon," a serious complication of the disease.
 - Hyperthyroidism, coronary heart disease, congestive heart failure, cardiac tachyarrhythmias, tachycardia, hypertension and prostatic hypertrophy.
 - Hiatal hernia associated with reflux esophagitis, since anticholinergic drugs may aggravate this condition.
