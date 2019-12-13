@@ -15,4 +15,6 @@ Distributed by:
 
 Sun Pharmaceutical Industries, Inc. Cranbury, NJ 08512
 
-Revised 06/2017 Printed in U.S.A.
+Revised 05/2018 Printed in U.S.A.
+
+USPI-CEV-0518-r100
