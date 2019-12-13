@@ -8,6 +8,4 @@ In addition, they modify the body's immune responses to diverse stimuli.
 
 Rx only
 
-LAB-0117-3.0
-
-September 2016
+LAB-0117-4.0 Revised November 2019
