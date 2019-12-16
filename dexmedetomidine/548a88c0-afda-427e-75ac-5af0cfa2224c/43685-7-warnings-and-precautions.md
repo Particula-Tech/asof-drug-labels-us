@@ -51,11 +51,6 @@ In adult subjects, withdrawal symptoms were not seen after discontinuation of sh
 
 Use of dexmedetomidine beyond 24 hours has been associated with tolerance and tachyphylaxis and a dose-related increase in adverse reactions [see Adverse Reactions (6.1)].
 
-## 5.7 Hyperthermia
-
-Dexmedetomidine may induce hyperthermia that may be resistant to traditional cooling methods.
-Dexmedetomidine should be discontinued and hyperthermia should be managed with conventional medical measures.
-
-## 5.8 Hepatic Impairment
+## 5.7 Hepatic Impairment
 
 Since Precedex clearance decreases with severity of hepatic impairment, dose reduction should be considered in patients with impaired hepatic function [see Dosage and Administration (2.2)].
