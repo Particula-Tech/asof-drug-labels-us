@@ -1,6 +1,6 @@
 # 13 NONCLINICAL TOXICOLOGY
 
-## 13.1 Carcinogenesis & Mutagenesis & Impairment Of Fertility
+## 13.1 Carcinogenesis, Mutagenesis, Impairment Of Fertility
 
 Carcinogenesis Racemic citalopram was administered in the diet to NMRI/BOM strain mice and COBS WI strain rats for 18 and 24 months, respectively.
 There was no evidence for carcinogenicity of racemic citalopram in mice receiving up to 240 mg/kg/day.
@@ -14,7 +14,7 @@ It was not clastogenic in the in vitro chromosomal aberration assay in human lym
 Impairment of Fertility When racemic citalopram was administered orally to 16 male and 24 female rats prior to and throughout mating and gestation at doses of 32, 48, and 72 mg/kg/day, mating was decreased at all doses, and fertility was decreased at doses ≥ 32 mg/kg/day.
 Gestation duration was increased at 48 mg/kg/day.
 
-## 13.2 Animal Pharmacology & OR Toxicology
+## 13.2 Animal Toxicology and /or Pharmacology
 
 Retinal Changes in Rats Pathologic changes (degeneration/atrophy) were observed in the retinas of albino rats in the 2-year carcinogenicity study with racemic citalopram.
 There was an increase in both incidence and severity of retinal pathology in both male and female rats receiving 80 mg/kg/day.

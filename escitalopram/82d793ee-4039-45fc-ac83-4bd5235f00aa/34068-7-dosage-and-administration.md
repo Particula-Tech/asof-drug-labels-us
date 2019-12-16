@@ -5,13 +5,13 @@ Escitalopram oxalate oral solution should be administered once daily, in the mor
 ## 2.1 Major Depressive Disorder
 
 Initial Treatment Adolescents The recommended dose of escitalopram oxalate oral solution is 10 mg once daily.
-A flexible-dose trial of escitalopram oxalate oral solution (10 to 20 mg/day) demonstrated the effectiveness of escitalopram oxalate oral solution [ see Clinical Studies (14.1) ].
+A flexible-dose trial of escitalopram oxalate oral solution (10 to 20 mg/day) demonstrated the effectiveness of escitalopram oxalate oral solution [see Clinical Studies (14.1)].
 If the dose is increased to 20 mg, this should occur after a minimum of three weeks.
 Adults The recommended dose of escitalopram oxalate oral solution is 10 mg once daily.
-A fixed-dose trial of escitalopram oxalate oral solution demonstrated the effectiveness of both 10 mg and 20 mg of escitalopram oxalate oral solution, but failed to demonstrate a greater benefit of 20 mg over 10 mg [ see Clinical Studies (14.1) ].
+A fixed-dose trial of escitalopram oxalate oral solution demonstrated the effectiveness of both 10 mg and 20 mg of escitalopram oxalate oral solution, but failed to demonstrate a greater benefit of 20 mg over 10 mg [see Clinical Studies (14.1)].
 If the dose is increased to 20 mg, this should occur after a minimum of one week.
 Maintenance Treatment It is generally agreed that acute episodes of major depressive disorder require several months or longer of sustained pharmacological therapy beyond response to the acute episode.
-Systematic evaluation of continuing escitalopram oxalate oral solution 10 or 20 mg/day in adults patients with major depressive disorder who responded while taking escitalopram oxalate oral solution during an 8-week, acute-treatment phase demonstrated a benefit of such maintenance treatment [ see Clinical Studies (14.1) ].
+Systematic evaluation of continuing escitalopram oxalate oral solution 10 or 20 mg/day in adults patients with major depressive disorder who responded while taking escitalopram oxalate oral solution during an 8-week, acute-treatment phase demonstrated a benefit of such maintenance treatment [see Clinical Studies (14.1)].
 Nevertheless, the physician who elects to use escitalopram oxalate oral solution for extended periods should periodically re-evaluate the long-term usefulness of the drug for the individual patient.
 Patients should be periodically reassessed to determine the need for maintenance treatment.
 
@@ -31,13 +31,24 @@ Escitalopram oxalate oral solution should be used with caution in patients with 
 
 ## 2.4 Discontinuation of Treatment with Escitalopram oxalate oral solution
 
-Symptoms associated with discontinuation of escitalopram oxalate oral solution and other SSRIs and SNRIs have been reported [ see Warnings and Precautions (5.3) ].
+Symptoms associated with discontinuation of escitalopram oxalate oral solution and other SSRIs and SNRIs have been reported [see Warnings and Precautions (5.3)].
 Patients should be monitored for these symptoms when discontinuing treatment.
 A gradual reduction in the dose rather than abrupt cessation is recommended whenever possible.
 If intolerable symptoms occur following a decrease in the dose or upon discontinuation of treatment, then resuming the previously prescribed dose may be considered.
 Subsequently, the physician may continue decreasing the dose but at a more gradual rate.
 
-## 2.5 Switching Patients To or From a Monoamine Oxidase Inhibitor
+## 2.5 Switching a Patient To or From a Monoamine Oxidase Inhibitor (MAOI) Intended to Treat Psychiatric Disorders
 
-At least 14 days should elapse between discontinuation of an MAOI and initiation of escitalopram oxalate oral solution therapy.
-Similarly, at least 14 days should be allowed after stopping escitalopram oxalate oral solution before starting an MAOI [ see Contraindications (4.1) and Warnings and Precautions (5.10) ].
+At least 14 days should elapse between discontinuation of an MAOI intended to treat psychiatric disorders and initiation of therapy with escitalopram oxalate oral solution.
+Conversely, at least 14 days should be allowed after stopping escitalopram oxalate oral solution before starting an MAOI intended to treat psychiatric disorders [see Contraindications (4.1)].
+
+## 2.6 Use of escitalopram oxalate with Other MAOIs such as Linezolid or Methylene Blue
+
+Do not start escitalopram oxalate oral solution in a patient who is being treated with linezolid or intravenous methylene blue because there is an increased risk of serotonin syndrome.
+In a patient who requires more urgent treatment of a psychiatric condition, other interventions, including hospitalization, should be considered [see Contraindications (4.1)].
+In some cases, a patient already receiving escitalopram oxalate oral solution therapy may require urgent treatment with linezolid or intravenous methylene blue.
+If acceptable alternatives to linezolid or intravenous methylene blue treatment are not available and the potential benefits of linezolid or intravenous methylene blue treatment are judged to outweigh the risks of serotonin syndrome in a particular patient, escitalopram oxalate oral solution should be stopped promptly, and linezolid or intravenous methylene blue can be administered.
+The patient should be monitored for symptoms of serotonin syndrome for 2 weeks or until 24 hours after the last dose of linezolid or intravenous methylene blue, whichever comes first.
+Therapy with escitalopram oxalate oral solution may be resumed 24 hours after the last dose of linezolid or intravenous methylene blue [see Warnings and Precautions (5.2)].
+The risk of administering methylene blue by non-intravenous routes (such as oral tablets or by local injection) or in intravenous doses much lower than 1 mg/kg with escitalopram oxalate oral solution is unclear.
+The clinician should, nevertheless, be aware of the possibility of emergent symptoms of serotonin syndrome with such use [see Warnings and Precautions (5.2)].

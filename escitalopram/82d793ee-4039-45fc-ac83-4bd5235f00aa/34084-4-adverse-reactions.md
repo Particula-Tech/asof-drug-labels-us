@@ -150,7 +150,7 @@ Accordingly, estimates of the incidence of untoward sexual experience and perfor
 | Libido Decreased |  | 3% | 1% |
 | Anorgasmia |  | 3% | <1% |
 
-There are no adequately designed studies examining sexual dysfunction with escitalopram oxalate treatment.
+There are no adequately designed studies examining sexual dysfunction with escitalopram treatment.
 Priapism has been reported with all SSRIs.
 While it is difficult to know the precise risk of sexual dysfunction associated with the use of SSRIs, physicians should routinely inquire about such possible side effects.
 Vital Sign Changes Escitalopram oxalate and placebo groups were compared with respect to (1) mean change from baseline in vital signs (pulse, systolic blood pressure, and diastolic blood pressure) and (2) the incidence of patients meeting criteria for potentially clinically significant changes from baseline in these variables.
@@ -192,12 +192,12 @@ However, because these adverse reactions were reported voluntarily from a popula
 These events include: Blood and Lymphatic System Disorders: anemia, agranulocytis, aplastic anemia, hemolytic anemia, idiopathic thrombocytopenia purpura, leukopenia, thrombocytopenia.
 Cardiac Disorders: atrial fibrillation, bradycardia, cardiac failure, myocardial infarction, tachycardia, torsade de pointes, ventricular arrhythmia, ventricular tachycardia.
 Ear and labyrinth disorders: vertigo Endocrine Disorders: diabetes mellitus, hyperprolactinemia, SIADH.
-Eye Disorders: diplopia, glaucoma, mydriasis, visual disturbance.
+Eye Disorders: angle closure glaucoma, diplopia, mydriasis, visual disturbance.
 Gastrointestinal Disorder: dysphagia, gastrointestinal hemorrhage, gastroesophageal reflux, pancreatitis, rectal hemorrhage.
 General Disorders and Administration Site Conditions: abnormal gait, asthenia, edema, fall, feeling abnormal, malaise.
 Hepatobiliary Disorders: fulminant hepatitis, hepatic failure, hepatic necrosis, hepatitis.
 Immune System Disorders: allergic reaction, anaphylaxis.
-Investigations: bilirubin increased, decreased weight, electrocardiogram QT prolongation,hepatic enzymes increased, hypercholesterolemia, INR increased, prothrombin decreased.
+Investigations: bilirubin increased, decreased weight, electrocardiogram QT prolongation, hepatic enzymes increased, hypercholesterolemia, INR increased, prothrombin decreased.
 Metabolism and Nutrition Disorders: hyperglycemia, hypoglycemia, hypokalemia, hyponatremia.
 Musculoskeletal and Connective Tissue Disorders: muscle cramp, muscle stiffness, muscle weakness, rhabdomyolysis.
 Nervous System Disorders: akathisia, amnesia, ataxia, choreoathetosis, cerebrovascular accident, dysarthria, dyskinesia, dystonia, extrapyramidal disorders, grand mal seizures (or convulsions), hypoaesthesia, myoclonus, nystagmus, Parkinsonism, restless legs, seizures, syncope, tardive dyskinesia, tremor.

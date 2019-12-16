@@ -3,7 +3,7 @@
 ## 14.1 Major Depressive Disorder
 
 Adolescents The efficacy of escitalopram oxalate as an acute treatment for major depressive disorder in adolescent patients was established in an 8-week, flexible-dose, placebo-controlled study that compared escitalopram oxalate 10 to 20 mg/day to placebo in outpatients 12 to 17 years of age inclusive who met DSM-IV criteria for major depressive disorder.
-The primary outcome was change from baseline to endpoint in the Children’s Depression Rating Scale - Revised (CDRS-R).
+The primary outcome was change from baseline to endpoint in the Children's Depression Rating Scale - Revised (CDRS-R).
 In this study, escitalopram oxalate showed statistically significant greater mean improvement compared to placebo on the CDRS-R.
 The efficacy of escitalopram oxalate in the acute treatment of major depressive disorder in adolescents was established, in part, on the basis of extrapolation from the 8-week, flexible-dose, placebo-controlled study with racemic citalopram 20 to 40 mg/day.
 In this outpatient study in children and adolescents 7 to 17 years of age who met DSM-IV criteria for major depressive disorder, citalopram treatment showed statistically significant greater mean improvement from baseline, compared to placebo, on the CDRS-R; the positive results for this trial largely came from the adolescent subgroup.

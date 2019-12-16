@@ -59,7 +59,6 @@ Escitalopram AUC and half-life were increased by approximately 50% in elderly su
 10 mg is the recommended dose for elderly patients [see Dosage and Administration (2.3)].
 
 Gender - Based on data from single- and multiple-dose studies measuring escitalopram in elderly, young adults, and adolescents, no dosage adjustment on the basis of gender is needed.
-
 Reduced hepatic function - Citalopram oral clearance was reduced by 37% and half life was doubled in patients with reduced hepatic function compared to normal subjects.
 10 mg is the recommended dose of escitalopram for most hepatically impaired patients [see Dosage and Administration (2.3)].
 
