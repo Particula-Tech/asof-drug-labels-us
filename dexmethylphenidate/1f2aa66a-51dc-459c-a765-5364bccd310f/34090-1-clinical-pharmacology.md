@@ -2,13 +2,13 @@
 
 ## 12.1 Mechanism of Action
 
-Dexmethylphenidate hydrochloride is a CNS stimulant.
-The exact mode of therapeutic action in ADHD is not known.
+Dexmethylphenidate hydrochloride is a central nervous system (CNS) stimulant.
+The mode of therapeutic action in ADHD is not known.
 
 ## 12.2 Pharmacodynamics
 
 Dexmethylphenidate is the more pharmacologically active d-enantiomer of racemic methylphenidate.
-Methylphenidate is thought to block the reuptake of norepinephrine and dopamine into the presynaptic neuron and increase the release of these monoamines into the extraneuronal space.
+Methylphenidate blocks the reuptake of norepinephrine and dopamine into the presynaptic neuron and increase the release of these monoamines into the extraneuronal space.
 
 Cardiac Electrophysiology
 
@@ -63,7 +63,7 @@ Male and Female Patients
 Pharmacokinetic parameters were similar for boys and girls (mean age 10 years).
 
 In a single dose study conducted in adults, the mean dexmethylphenidate AUC0-inf values (adjusted for body weight) following single two 10 mg doses of dexmethylphenidate hydrochloride were 25% to 35% higher in adult female volunteers (n = 6) compared to male volunteers (n = 9).
-Both tmax and t1/2 were comparable for males and females.
+Both Tmax and t1/2 were comparable for males and females.
 
 Racial or Ethnic Groups
 

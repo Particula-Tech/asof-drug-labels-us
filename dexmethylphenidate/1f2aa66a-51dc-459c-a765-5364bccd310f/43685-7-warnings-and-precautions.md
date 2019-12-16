@@ -42,7 +42,7 @@ Priapism was not reported with drug initiation but developed after some time on 
 Priapism has also appeared during a period of drug withdrawal (drug holidays or during discontinuation).
 Patients who develop abnormally sustained or frequent and painful erections should seek immediate medical attention.
 
-## 5.6 Peripheral Vasculopathy, including Raynaud’s Phenomenon
+## 5.6 Peripheral Vasculopathy, Including Raynaud’s Phenomenon
 
 CNS stimulants, including dexmethylphenidate hydrochloride tablets, used to treat ADHD are associated with peripheral vasculopathy, including Raynaud’s phenomenon.
 Signs and symptoms are usually intermittent and mild; however, very rare sequelae include digital ulceration and/or soft tissue breakdown.
