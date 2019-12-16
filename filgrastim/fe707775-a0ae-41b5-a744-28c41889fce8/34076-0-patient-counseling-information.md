@@ -22,6 +22,7 @@ Advise patients of the following risks and potential risks with ZARXIO:
 - •Cutaneous vasculitis may occur, which may be signaled by purpura or erythema.
   Advise patients to report signs or symptoms of vasculitis to their physician immediately [see Warnings and Precautions (5.11)].
 - •Advise females of reproductive potential that ZARXIO should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus [see Use in Specific Populations (8.1)].
+- 
 
 Instruct patients who self-administer ZARXIO using the prefilled syringe of the:
 
