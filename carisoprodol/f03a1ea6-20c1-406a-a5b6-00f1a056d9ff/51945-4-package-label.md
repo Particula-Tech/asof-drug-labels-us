@@ -2,7 +2,9 @@
 
 NDC 52536-682-10
 
-Carisoprodol Tablets, USP CIV 250 mg
+Carisoprodol Tablets, USP 250 mg
+
+CIV
 
 Rx only 100 Tablets
 
@@ -10,6 +12,8 @@ Rx only 100 Tablets
 
 NDC 52536-688-10
 
-Carisoprodol Tablets, USP CIV 350 mg
+Carisoprodol Tablets, USP 350 mg
+
+CIV
 
 Rx only 100 Tablets
