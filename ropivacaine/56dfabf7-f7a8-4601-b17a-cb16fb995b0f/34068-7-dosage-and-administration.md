@@ -4,7 +4,7 @@ The rapid injection of a large volume of local anesthetic solution should be avo
 The smallest dose and concentration required to produce the desired result should be administered.
 
 There have been adverse event reports of chondrolysis in patients receiving intra-articular infusions of local anesthetics following arthroscopic and other surgical procedures.
-Naropin is not approved for this use (see WARNINGS and DOSAGE AND ADMINISTRATION).
+Naropin is not approved for this use (see WARNINGSand DOSAGE AND ADMINISTRATION).
 
 The dose of any local anesthetic administered varies with the anesthetic procedure, the area to be anesthetized, the vascularity of the tissues, the number of neuronal segments to be blocked, the depth of anesthesia and degree of muscle relaxation required, the duration of anesthesia desired, individual tolerance, and the physical condition of the patient.
 Patients in poor general condition due to aging or other compromising factors such as partial or complete heart conduction block, advanced liver disease or severe renal dysfunction require special attention although regional anesthesia is frequently indicated in these patients.
@@ -27,21 +27,21 @@ Table 7 Dosage Recommendations
 | Lumbar Epidural | 5 | (0.5%) | 20 to 30 | 100 to 150 | 15 to 25 | 2 to 4 |
 | Administration | 7.5 | (0.75%) | 15 to 20 | 113 to 150 | 10 to 20 | 3 to 5 |
 | Cesarean Section |  |  |  |  |  |  |
-| Thoracic Epidural | 5 | (0.5%) | 5 to 15 | 25 to 75 | 10 to 20 | n/a= Not Applicable |
+| Thoracic Epidural | 5 | (0.5%) | 5 to 15 | 25 to 75 | 10 to 20 | n/a = Not Applicable |
 | Administration | 7.5 | (0.75%) | 5 to 15 | 38 to 113 | 10 to 20 | n/a |
 | Surgery |  |  |  |  |  |  |
-| Major Nerve Block= The dose for a major nerve block must be adjusted according to site of administration and patient status. Supraclavicular brachial plexus blocks may be associated with a higher frequency of serious adverse reactions, regardless of the local anesthetic used (see PRECAUTIONS). | 5 | (0.5%) | 35 to 50 | 175 to 250 | 15 to 30 | 5 to 8 |
+| Major Nerve Block = The dose for a major nerve block must be adjusted according to site of administration and patient status. Supraclavicular brachial plexus blocks may be associated with a higher frequency of serious adverse reactions, regardless of the local anesthetic used (see PRECAUTIONS). | 5 | (0.5%) | 35 to 50 | 175 to 250 | 15 to 30 | 5 to 8 |
 | (eg, brachial plexus block) | 7.5 | (0.75%) | 10 to 40 | 75 to 300 | 10 to 25 | 6 to 10 |
 | Field Block | 5 | (0.5%) | 1 to 40 | 5 to 200 | 1 to 15 | 2 to 6 |
 | (eg, minor nerve blocks and infiltration) |  |  |  |  |  |  |
 | LABOR PAIN MANAGEMENT |  |  |  |  |  |  |
 | Lumbar Epidural Administration |  |  |  |  |  |  |
 | Initial Dose | 2 | (0.2%) | 10 to 20 | 20 to 40 | 10 to 15 | 0.5 to 1.5 |
-| Continuous infusion= Median dose of 21 mg per hour was administered by continuous infusion or by incremental injections (top-ups) over a median delivery time of 5.5 hours. | 2 | (0.2%) | 6 to 14 mL/h | 12 to 28 mg/h | n/a | n/a |
+| Continuous infusion = Median dose of 21 mg per hour was administered by continuous infusion or by incremental injections (top-ups) over a median delivery time of 5.5 hours. | 2 | (0.2%) | 6 to 14 mL/h | 12 to 28 mg/h | n/a | n/a |
 | Incremental injections (top-up) | 2 | (0.2%) | 10 to 15 mL/h | 20 to 30 mg/h | n/a | n/a |
 | POSTOPERATIVE PAIN MANAGEMENT |  |  |  |  |  |  |
 | Lumbar Epidural Administration |  |  |  |  |  |  |
-| Continuous infusion= Cumulative doses up to 770 mg of Naropin over 24 hours (intraoperative block plus postoperative infusion); Continuous epidural infusion at rates up to 28 mg per hour for 72 hours have been well tolerated in adults, ie, 2016 mg plus surgical dose of approximately 100 to 150 mg as top-up. | 2 | (0.2%) | 6 to 14 mL/h | 12 to 28 mg/h | n/a | n/a |
+| Continuous infusion = Cumulative doses up to 770 mg of Naropin over 24 hours (intraoperative block plus postoperative infusion); Continuous epidural infusion at rates up to 28 mg per hour for 72 hours have been well tolerated in adults, ie, 2016 mg plus surgical dose of approximately 100 to 150 mg as top-up. | 2 | (0.2%) | 6 to 14 mL/h | 12 to 28 mg/h | n/a | n/a |
 | Thoracic Epidural Administration | 2 | (0.2%) | 6 to 14 mL/h | 12 to 28 mg/h | n/a | n/a |
 | Continuous infusion |  |  |  |  |  |  |
 | Infiltration | 2 | (0.2%) | 1 to 100 | 2 to 200 | 1 to 5 | 2 to 6 |

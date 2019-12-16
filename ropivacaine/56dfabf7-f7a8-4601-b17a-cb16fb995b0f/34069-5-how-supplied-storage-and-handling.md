@@ -6,7 +6,7 @@ Naropin (ropivacaine HCl Injection, USP) is supplied as follows:
 | --- | --- | --- | --- |
 | NP278827 | 63323-288-27 | 1% (10 mg/mL) | 20 mL plastic ampule packaged in fives. |
 
-Naropin® is also available as follows:
+Naropin ® is also available as follows:
 
 | Product No. | NDC No. | Strength | Size |
 | --- | --- | --- | --- |
@@ -22,7 +22,7 @@ When chemical disinfection of the container surface is desired, either isopropyl
 It is recommended that chemical disinfection be accomplished by wiping the ampule or vial stopper thoroughly with cotton or gauze that has been moistened with the recommended alcohol just prior to use.
 When a container is required to have a sterile outside, a Sterile-Pak should be chosen.
 Glass containers may, as an alternative, be autoclaved once.
-Stability has been demonstrated using a targeted F0 of 7 minutes at 121°C.
+Stability has been demonstrated using a targeted F 0 of 7 minutes at 121°C.
 Solutions should be stored at 20º to 25°C (68º to 77°F) [see USP Controlled Room Temperature].
 
 This container closure is not made with natural rubber latex.

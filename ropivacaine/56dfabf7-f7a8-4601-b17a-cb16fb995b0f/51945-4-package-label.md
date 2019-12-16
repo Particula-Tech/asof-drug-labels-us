@@ -4,7 +4,7 @@ NDC 63323-288-27
 
 NP278827
 
-Naropin® (ropivacaine HCl Injection, USP) 1% 200 mg/20 mL (10 mg/mL)
+Naropin ® (ropivacaine HCl Injection, USP) 1% 200 mg/20 mL (10 mg/mL)
 
 Not for Inhalation.
 
@@ -18,7 +18,7 @@ NDC 63323-288-27
 
 NP278827
 
-Naropin® (ropivacaine HCl Injection, USP)
+Naropin ® (ropivacaine HCl Injection, USP)
 
 Sterile-Pak
 
@@ -34,7 +34,7 @@ NDC 63323-288-27
 
 NP278827
 
-Naropin® (ropivacaine HCl Injection, USP) 1% 200 mg/20 mL (10 mg/mL)
+Naropin ® (ropivacaine HCl Injection, USP) 1% 200 mg/20 mL (10 mg/mL)
 
 For Epidural Administration Only.
 
