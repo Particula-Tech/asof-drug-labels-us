@@ -12,9 +12,9 @@ Inhalation Suspension
 
 1 mg/2 mL
 
-Each unit-dose ampule delivers 2 mL of a sterile suspension
+Each unit-dose ampule delivers 2 mL of a sterile suspension containing
 
-containing 1 mg of micronized budesonide.
+1 mg of micronized budesonide.
 
 Sterile Unit-Dose Ampules
 

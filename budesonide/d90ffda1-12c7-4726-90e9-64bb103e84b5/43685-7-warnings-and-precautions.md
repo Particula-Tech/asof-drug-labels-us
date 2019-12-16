@@ -27,14 +27,13 @@ In children or adults who have not had these diseases, or been properly immunize
 How the dose, route, and duration of corticosteroid administration affect the risk of developing a disseminated infection is not known.
 The contribution of the underlying disease and/or prior corticosteroid treatment to the risk is also not known.
 If exposed to chicken pox, therapy with varicella zoster immune globulin (VZIG) or pooled intravenous immunoglobulin (IVIG), as appropriate, may be indicated.
-If exposed to measles, prophylaxis with pooled intramuscular immunoglobulin (IG) may be indicated.
-(See the respective package inserts for complete VZIG and IG prescribing information.)
+If exposed to measles, prophylaxis with pooled intramuscular immunoglobulin (IG) may be indicated (see the respective package inserts for complete VZIG and IG prescribing information).
 If chicken pox develops, treatment with antiviral agents may be considered.
 
 The clinical course of chicken pox or measles infection in patients on inhaled corticosteroids has not been studied.
 However, a clinical study has examined the immune responsiveness of asthma patients 12 months to 8 years of age who were treated with budesonide inhalation suspension.
-An open-label non-randomized clinical study examined the immune responsiveness of varicella vaccine in 243 asthma patients 12 months to 8 years of age who were treated with budesonide inhalation suspension 0.25 mg to 1 mg daily (n = 151) or noncorticosteroid asthma therapy (n = 92) (i.e., beta2-agonists, leukotriene receptor antagonists, cromones).
-The percentage of patients developing a seroprotective antibody titer of ≥ 5 (gpELISA value) in response to the vaccination was similar in patients treated with budesonide inhalation suspension (85%) compared to patients treated with non-corticosteroid asthma therapy (90%).
+An open-label non-randomized clinical study examined the immune responsiveness of varicella vaccine in 243 asthma patients 12 months to 8 years of age who were treated with budesonide inhalation suspension 0.25 mg to 1 mg daily (n = 151) or non-corticosteroid asthma therapy (n = 92) (i.e., beta2-agonists, leukotriene receptor antagonists, cromones).
+The percentage of patients developing a seroprotective antibody titer of ≥ 5.0 (gpELISA value) in response to the vaccination was similar in patients treated with budesonide inhalation suspension (85%) compared to patients treated with non-corticosteroid asthma therapy (90%).
 No patient treated with budesonide inhalation suspension developed chicken pox as a result of vaccination.
 
 Inhaled corticosteroids should be used with caution, if at all, in patients with active or quiescent tuberculosis infection of the respiratory tract, untreated systemic fungal, bacterial, viral, or parasitic infections; or ocular herpes simplex.
@@ -68,7 +67,7 @@ During withdrawal from oral corticosteroids, patients may experience symptoms of
 
 ## 5.6 Hypercorticism and Adrenal Suppression
 
-Budesonide inhalation suspension, will often help control asthma symptoms with less suppression of HPA function than therapeutically equivalent oral doses of prednisone.
+Budesonide inhalation suspension will often help control asthma symptoms with less suppression of HPA function than therapeutically equivalent oral doses of prednisone.
 Since individual sensitivity to effects on cortisol production exists, physicians should consider this information when prescribing budesonide inhalation suspension.
 Because of the possibility of systemic absorption of inhaled corticosteroids, patients treated with budesonide inhalation suspension should be observed carefully for any evidence of systemic corticosteroid effects.
 Particular care should be taken in observing patients post-operatively or during periods of stress for evidence of inadequate adrenal response.
@@ -85,7 +84,7 @@ Patients with major risk factors for decreased bone mineral content, such as pro
 
 Orally inhaled corticosteroids, including budesonide, may cause a reduction in growth velocity when administered to pediatric patients.
 Monitor the growth of pediatric patients receiving budesonide inhalation suspension routinely (e.g., via stadiometry).
-To minimize the systemic effects of orally inhaled corticosteroids, including budesonide inhalation suspension, each patient should be titrated to his/her lowest effective dose [see Use In Specific Populations, Pediatric Use (8.4)].
+To minimize the systemic effects of orally inhaled corticosteroids, including budesonide inhalation suspension, each patient should be titrated to his/her lowest effective dose [see Use in Specific Populations (8.4)].
 
 ## 5.9 Glaucoma and Cataracts
 
@@ -108,4 +107,4 @@ A causal relationship between budesonide and these underlying conditions has not
 
 ## 5.12 Drug Interactions With Strong Cytochrome P450 3A4 Inhibitors
 
-Caution should be exercised when considering the coadministration of budesonide inhalation suspension with ketoconazole, and other known strong CYP3A4 inhibitors (e.g., ritonavir, atazanavir, clarithromycin, indinavir, itraconazole, nefazodone, nelfinavir, saquinavir, telithromycin) because adverse effects related to increased systemic exposure to budesonide may occur [see Drug Interactions (7.1) and Clinical Pharmacology, Clinical Pharmacokinetics (12.3)].
+Caution should be exercised when considering the coadministration of budesonide inhalation suspension with ketoconazole, and other known strong CYP3A4 inhibitors (e.g., ritonavir, atazanavir, clarithromycin, indinavir, itraconazole, nefazodone, nelfinavir, saquinavir, telithromycin) because adverse effects related to increased systemic exposure to budesonide may occur [see Drug Interactions (7.1), Clinical Pharmacology (12.3)].

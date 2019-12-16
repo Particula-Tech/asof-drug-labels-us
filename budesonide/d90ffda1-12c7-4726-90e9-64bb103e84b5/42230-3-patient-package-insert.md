@@ -60,7 +60,7 @@ Budesonide inhalation suspension may not be right for children who have had any 
   - does not eat well (poor nutrition)
   - takes bone thinning medicines (such as anticonvulsant medicines or corticosteroids) for a long time.
 - has an eye problem such as increased pressure in the eye, glaucoma or cataracts.
-- has liver problems
+- has liver problems.
 - is planning to have surgery.
 - has any other medical conditions.
 - is pregnant or plans to become pregnant.
@@ -77,7 +77,7 @@ Especially tell your healthcare provider if your child takes:
 - corticosteroids
 - anti-seizure medicine (anticonvulsants)
 - medicines that suppress the immune system (immunosuppressant)
-- ketoconazale (Nizoral)
+- ketoconazole (Nizoral)
 - certain medicines that can affect how your liver breaks down medicine
 
 Ask your healthcare provider or pharmacist for a list of these medicines, if you are not sure.
@@ -166,7 +166,7 @@ Tell your healthcare provider if your child has any side effect that bothers him
 For more information, ask your healthcare provider or pharmacist.
 
 Call your healthcare provider for medical advice about side effects.
-You may report side effects to TEVA USA, PHARMACOVIGILANCE at 1-866-832-8537 or the FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
+You may report side effects to Teva Pharmaceuticals USA, Inc. at 1-888-838-2872 or the FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
 
 How should I store budesonide inhalation suspension?
 
@@ -243,9 +243,9 @@ Runcorn, Cheshire WA7 3FA England
 
 Manufactured For:
 
-TEVA PHARMACEUTICALS USA, INC.
+Teva Pharmaceuticals USA, Inc.
 
 North Wales, PA 19454
 
-Iss.
-8/2015
+Rev.
+A 10/2019

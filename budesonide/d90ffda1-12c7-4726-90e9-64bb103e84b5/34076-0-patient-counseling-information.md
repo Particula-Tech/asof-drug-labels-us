@@ -17,19 +17,19 @@ Rinsing the mouth after inhalation is advised [see Warnings and Precautions (5.1
 
 Budesonide inhalation suspension is not meant to relieve acute asthma symptoms and extra doses should not be used for that purpose.
 Acute symptoms should be treated with an inhaled, short-acting beta2-agonist such as albuterol.
-(The healthcare professional should provide that patient with such medication and instruct the patient in how it should be used.)
+(The healthcare professional should provide that patient with such medication and instruct the patient in how it should be used).
 Patients should be instructed to notify their healthcare professional immediately if they experience any of the following:
 
 - Decreasing effectiveness of inhaled, short-acting beta2-agonists
 - Need for more inhalations than usual of inhaled, short-acting beta2-agonists
 - Significant decrease in lung function as outlined by the physician
 
-Patients should not stop therapy with budesonide inhalation suspension without physician/provider guidance since symptoms may recur after discontinuation [see Warnings and Precautions (5.2)]
+Patients should not stop therapy with budesonide inhalation suspension without physician/provider guidance since symptoms may recur after discontinuation [see Warnings and Precautions (5.2)].
 
 ## 17.4 Hypersensitivity Including Anaphylaxis
 
 Hypersensitivity reactions including anaphylaxis, rash, contact dermatitis, urticaria, angioedema, and bronchospasm have been reported with use of budesonide inhalation suspension.
-Discontinue budesonide inhalation suspension if such reactions occur [see Contraindications (4); Warning and Precautions (5.3)].
+Discontinue budesonide inhalation suspension if such reactions occur [see Contraindications (4), Warnings and Precautions (5.3)].
 
 ## 17.5 Immunosuppression
 
@@ -62,8 +62,6 @@ Patients should be advised to use budesonide inhalation suspension at regular in
 Maximum benefit may not be achieved for 4 to 6 weeks or longer after starting treatment.
 If symptoms do not improve in that time frame or if the condition worsens, patients should be instructed to contact their healthcare professional.
 
-## 17.11 FDA-Approved Patient Labeling
-
 See accompanying Patient Information and Instructions for Use.
 
 Manufactured In England By:
@@ -74,9 +72,9 @@ Runcorn, Cheshire WA7 3FA England
 
 Manufactured For:
 
-TEVA PHARMACEUTICALS USA, INC.
+Teva Pharmaceuticals USA, Inc.
 
 North Wales, PA 19454
 
-Iss.
-8/2015
+Rev.
+A 10/2019

@@ -16,7 +16,7 @@ Symptom reduction in response to budesonide inhalation suspension occurred acros
 Statistically significant reductions in the need for bronchodilator therapy were also observed at all the doses of budesonide inhalation suspension studied.
 
 Improvements in lung function were associated with budesonide inhalation suspension in the subgroup of patients capable of performing lung function testing.
-Statistically significant increases were seen in FEV1 [budesonide inhalation suspension 0.5 mg once daily and 1 mg once daily (one study); 0.5 mg twice daily] and morning PEF [budesonide inhalation solution 1 mg once daily (one study); 0.25 mg twice daily; 0.5 mg twice daily] compared to placebo.
+Statistically significant increases were seen in FEV1 [budesonide inhalation suspension 0.5 mg once daily and 1 mg once daily (one study); 0.5 mg twice daily] and morning PEF [budesonide inhalation suspension 1 mg once daily (one study); 0.25 mg twice daily; 0.5 mg twice daily] compared to placebo.
 
 A numerical reduction in nighttime and daytime symptom scores (0 to 3 scale) of asthma was observed within 2 to 8 days, although maximum benefit was not achieved for 4 to 6 weeks after starting treatment.
 The reduction in nighttime and daytime asthma symptom scores was maintained throughout the 12 weeks of the double-blind trials.
@@ -35,7 +35,7 @@ Patients Previously Maintained on Inhaled Corticosteroids
 
 The efficacy of budesonide inhalation suspension at doses of 0.25 mg and 0.5 mg twice daily was evaluated in 133 pediatric asthma patients, 4 to 8 years of age, previously maintained on inhaled corticosteroids (mean FEV1 79.5% predicted; mean baseline nighttime asthma symptom scores of the treatment groups ranged from 1.04 to 1.18; mean baseline dose of beclomethasone dipropionate of 265 mcg/day, ranging between 42 to 1008 mcg/day; mean baseline dose of triamcinolone acetonide of 572 mcg/day, ranging between 200 to 1200 mcg/day).
 The changes from baseline to Weeks 0 to 12 in nighttime asthma symptom scores are shown in Figure 2.
-Nighttime asthma symptom scores showed statistically significant decreases in patients treated with budesonide inhalation suspension compared to placebo.
+Nighttime asthma symptom scores showed statistically significant decrease in patients treated with budesonide inhalation suspension compared to placebo.
 Similar decreases were also observed for daytime asthma symptom scores.
 
 Statistically significant increases in FEV1 compared to placebo were observed with budesonide inhalation suspension at a dose of 0.5 mg twice daily and in morning PEF for both doses (0.25 mg and 0.5 mg twice daily).
