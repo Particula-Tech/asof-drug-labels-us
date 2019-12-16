@@ -1,10 +1,17 @@
 # MEDICATION GUIDE
 
-Levetiracetam Tablets USP (lee'' ve tye ra' se tam) Read this Medication Guide before you start taking levetiracetam tablets and each time you get a refill.
+Levetiracetam Tablets USP, for oral use
+
+(lee'' ve tye ra' se tam)
+
+Read this Medication Guide before you start taking levetiracetam tablets and each time you get a refill.
 There may be new information.
 This information does not take the place of talking to your healthcare provider about your medical condition or treatment.
+
 What is the most important information I should know about levetiracetam tablets?
+
 Like other antiepileptic drugs, levetiracetam tablets may cause suicidal thoughts or actions in a very small number of people, about 1 in 500 people taking it.
+
 Call a healthcare provider right away if you have any of these symptoms, especially if they are new, worse, or worry you:
 
 - thoughts about suicide or dying
@@ -31,55 +38,59 @@ How can I watch for early symptoms of suicidal thoughts and actions?
 
 - Pay attention to any changes, especially sudden changes, in mood, behaviors, thoughts, or feelings.
 - Keep all follow-up visits with your healthcare provider as scheduled.
-- Call your healthcare provider between visits as needed, especially if you are worried about symptoms.
+
+Call your healthcare provider between visits as needed, especially if you are worried about symptoms
 
 What are levetiracetam tablets?
 
+Levetiracetam tablets are a prescription medicine taken by mouth that is used to treat partial-onset seizures in people 1 month of age and older.
+
 Levetiracetam tablets are a prescription medicine taken by mouth that is used with other medicines to treat:
 
-- partial onset seizures in people 1 month of age and older with epilepsy
-- myoclonic seizures in people 12 years of age and older with juvenile myoclonic epilepsy
+- myoclonic seizures in people 12 years of age and older with juvenile myoclonic epilepsy.
 - primary generalized tonic-clonic seizures in people 6 years of age and older with certain types of generalized epilepsy.
 
-It is not known if levetiracetam tablets are safe or effective in children under 1 month of age.
+It is not known if levetiracetam tablets are safe or effective in children under:
+
+- 1 month of age to treat partial-onset seizures
+- 12 years of age to treat myoclonic seizures
+- 6 years of age to treat primary generalized tonic-clonic seizures
+
 Before taking your medicine, make sure you have received the correct medicine.
 Compare the name above with the name on your bottle and the appearance of your medicine with the description of levetiracetam tablets provided below.
 Tell your pharmacist immediately if you think you have been given the wrong medicine.
-Levetiracetam Tablets, 250 mg are blue oval shaped biconvex film-coated tablets debossed with a deep break line separating ‘E’ and ‘10’ on one side and plain on the other side.
-Levetiracetam Tablets, 500 mg are yellow oval shaped biconvex film-coated tablets debossed with a deep break line separating ‘E’ and ‘11’ on one side and plain on the other side.
-Levetiracetam Tablets, 750 mg are orange oval shaped biconvex film-coated tablets debossed with a deep break line separating ‘E’ and ‘12’ on one side and plain on the other side.
-Levetiracetam Tablets, 1000 mg are white to off-white modified oval shaped biconvex film-coated tablets debossed with a deep breakline separating ‘E’ and ‘13’ on one side and plain on the other side.
 
 Who should not take levetiracetam tablets?
 
 Do not take levetiracetam tablets if you are allergic to levetiracetam.
 
 What should I tell my healthcare provider before starting levetiracetam tablets?
+
 Before taking levetiracetam tablets, tell your healthcare provider about all of your medical conditions, including if you:
 
-- have or have had depression, mood problems or suicidal thoughts or behavior
-- have kidney problems
+- have or have had depression, mood problems or suicidal thoughts or behavior.
+- have kidney problems.
 - are pregnant or planning to become pregnant.
   It is not known if levetiracetam tablets will harm your unborn baby.
   You and your healthcare provider will have to decide if you should take levetiracetam tablets while you are pregnant.
   If you become pregnant while taking levetiracetam tablets, talk to your healthcare provider about registering with the North American Antiepileptic Drug Pregnancy Registry.
-  You can enroll in this registry by calling 1-888-233-2334.
+  You can enroll in this registry by calling 1-888-233-2334 or go to http://www.aedpregnancyregistry.org.
   The purpose of this registry is to collect information about the safety of levetiracetam tablets and other antiepileptic medicine during pregnancy.
-- are breastfeeding.
-  Levetiracetam can pass into your milk and may harm your baby.
-  You and your healthcare provider should discuss whether you should take levetiracetam tablets or breast-feed; you should not do both.
+- are breastfeeding or plan to breastfeed. levetiracetam can pass into your breast milk.
+  It is not known if the levetiracetam that passes into your breast milk can harm your baby.
+  Talk to your doctor about the best way to feed your baby while you receive levetiracetam tablets.
 
-Tell your healthcare provider about all the medicines you take, including prescription and nonprescription medicines, vitamins, and herbal supplements.
+Tell your healthcare provider about all the medicines you take, including prescription and over-the counter medicines, vitamins, and herbal supplements.
 Do not start a new medicine without first talking with your healthcare provider.
 
 Know the medicines you take.
 Keep a list of them to show your healthcare provider and pharmacist each time you get a new medicine.
-How should I take levetiracetam tablets?
-Take levetiracetam tablets exactly as prescribed.
 
+How should I take levetiracetam tablets?
+
+- Take levetiracetam tablets exactly as your healthcare provider tells you to take them.
 - Your healthcare provider will tell you how much levetiracetam tablets to take and when to take them.
-  Levetiracetam tablets are usually taken twice a day.
-  Take levetiracetam tablets at the same times each day.
+  Levetiracetam tablets are usually taken 2 times each day.
 - Your healthcare provider may change your dose.
   Do not change your dose without talking to your healthcare provider.
 - Take levetiracetam tablets with or without food.
@@ -89,31 +100,29 @@ Take levetiracetam tablets exactly as prescribed.
 - If your healthcare provider has prescribed levetiracetam oral solution, be sure to ask your pharmacist for a medicine dropper or medicine cup to help you measure the correct amount of levetiracetam oral solution.
   Do not use a household teaspoon.
   Ask your pharmacist for instructions on how to use the measuring device the right way.
-- If you miss a dose of levetiracetam tablets, take it as soon as you remember.
-  If it is almost time for your next dose, just skip the missed dose.
-  Take the next dose at your regular time.
-  Do not take two doses at the same time.
 - If you take too much levetiracetam tablets, call your local Poison Control Center or go to the nearest emergency room right away.
 
 What should I avoid while taking levetiracetam tablets?
 
 Do not drive, operate machinery or do other dangerous activities until you know how levetiracetam tablets affect you.
 Levetiracetam tablets may make you dizzy or sleepy.
+
 What are the possible side effects of levetiracetam tablets?
 
-- See “What is the most important information I should know about levetiracetam tablets?”
+Levetiracetam tablets can cause serious side effects including:
 
-Levetiracetam tablets can cause serious side effects.
+See “What is the most important information I should know about levetiracetam tablets?”
+
 Call your healthcare provider right away if you have any of these symptoms:
 
 - mood and behavior changes such as aggression, agitation, anger, anxiety, apathy, mood swings, depression, hostility, and irritability.
   A few people may get psychotic symptoms such as hallucinations (seeing or hearing things that are really not there), delusions (false or strange thoughts or beliefs) and unusual behavior.
 - extreme sleepiness, tiredness, and weakness
-- problems with muscle coordination (problems walking and moving)
 - allergic reactions such as swelling of the face, lips, eyes, tongue, and throat, trouble swallowing or breathing, and hives.
 - a skin rash.
   Serious skin rashes can happen after you start taking levetiracetam tablets.
   There is no way to tell if a mild rash will become a serious reaction.
+- problems with muscle coordination (problems walking and moving)
 
 The most common side effects seen in people who take levetiracetam tablets include:
 
@@ -122,34 +131,49 @@ The most common side effects seen in people who take levetiracetam tablets inclu
 - infection
 - dizziness
 
-The most common side effects seen in children who take levetiracetam tablets include, in addition to those listed above:
+The most common side effects seen in children who take levetiracetam tablets include, in addition to those listed above include:
 
 - tiredness
 - acting aggressive
-- nasal congestion
 - decreased appetite
+- nasal congestion
 - irritability
 
-These side effects can happen at any time but happen more often within the first 4 weeks of treatment except for infection.
 Tell your healthcare provider if you have any side effect that bothers you or that does not go away.
+
 These are not all the possible side effects of levetiracetam tablets.
 For more information, ask your healthcare provider or pharmacist.
+
 Call your doctor for medical advice about side effects.
 You may report side effects to FDA at 1-800-FDA-1088.
+
 How should I store levetiracetam tablets?
 
 - Store levetiracetam tablets at room temperature, 15° to 30°C (59° to 86°F) away from heat and light.
 - Keep levetiracetam tablets and all medicines out of the reach of children.
 
-General information about levetiracetam tablets Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide.
+General information about the safe and effective use of levetiracetam tablets.
+
+Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide.
 Do not use levetiracetam tablets for a condition for which it was not prescribed.
 Do not give levetiracetam tablets to other people, even if they have the same symptoms that you have.
 They may harm them.
-This Medication Guide summarizes the most important information about levetiracetam tablets.
-If you would like more information, talk with your healthcare provider.
 You can ask your pharmacist or healthcare provider for information about levetiracetam tablets that is written for health professionals.
-You can also get information about levetiracetam tablets by calling 1-866-850-2876.
-What are the ingredients of levetiracetam tablets?
-Active ingredient: levetiracetam Inactive ingredients: corn starch, colloidal silicon dioxide, povidone, talc, magnesium stearate, hypromellose, titanium dioxide, polyethylene glycol, purified water and additional agents listed below: 250 mg tablets: FD&C Blue #2/indigo carmine aluminum lake 500 mg tablets: iron oxide yellow 750 mg tablets: FD&C Yellow #6/sunset yellow FCF aluminum lake, FD&C Blue #2/indigo carmine aluminum lake and iron oxide red.
+
+What are the ingredients in levetiracetam tablets?
+
+Active ingredient: levetiracetam
+
+Inactive ingredients: corn starch, colloidal silicon dioxide, povidone, talc, magnesium stearate, hypromellose, titanium dioxide, polyethylene glycol, purified water and additional agents listed below:
+
+250 mg tablets: FD&C Blue #2/indigo carmine aluminum lake
+
+500 mg tablets: iron oxide yellow
+
+750 mg tablets: FD&C Yellow #6/sunset yellow FCF aluminum lake, FD&C Blue #2/indigo carmine aluminum lake and iron oxide red.
+
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
-Dispense with Medication Guide available at: www.aurobindousa.com/product-medication-guides Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 038, India Revised: 11/2017
+
+Dispense with Medication Guide available at: www.aurobindousa.com/product-medication-guides
+
+Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 038, India Revised: 12/2019
