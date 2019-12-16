@@ -112,12 +112,10 @@ Rx only
 
 Marketed by: Teva Respiratory, LLC Frazer, PA 19355
 
-Manufactured by: Teva Pharmaceutical Industries Ltd. Jerusalem, Israel
-
-Copyright ©2018 Teva Respiratory, LLC
+Copyright ©2019 Teva Respiratory, LLC
 
 All rights reserved.
 
 United States Patent Nos. 6701917, 6718972, 6748947, 6871646, 7540282, 8006690, 8651103, 8714149, 8978966, 9066957, 9216260, 9415008, 9463288, 9616024, 9731087.
-FPSPI-002 Rev.
-March 2018
+FPSPI-003 Rev.
+February 2019

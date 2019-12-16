@@ -1,7 +1,5 @@
 # Package/Label Display Panel
 
-## Fluticasone Propionate 55 mcg and Salmeterol 14 mcg Inhalation Powder, 60 Metered Inhalations Carton Text
-
 NDC 0093-3607-82
 
 Fluticasone Propionate
@@ -36,8 +34,6 @@ TEVA
 
 # Package/Label Display Panel
 
-## Fluticasone Propionate 113 mcg and Salmeterol 14 mcg Inhalation Powder, 60 Metered Inhalations Carton Text
-
 NDC 0093-3608-82
 
 Fluticasone Propionate
@@ -71,8 +67,6 @@ Rx only
 TEVA
 
 # Package/Label Display Panel
-
-## Fluticasone Propionate 232 mcg and Salmeterol 14 mcg Inhalation Powder, 60 Metered Inhalations Carton Text
 
 NDC 0093-3609-82
 

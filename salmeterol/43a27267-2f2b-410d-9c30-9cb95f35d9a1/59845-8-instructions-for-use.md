@@ -167,9 +167,9 @@ Support
 
 These Instructions for Use have been approved by the U.S. Food and Drug Administration.
 
-Marketed by: Teva Respiratory, LLC, Frazer, PA 19355; Manufactured by: Teva Pharmaceutical Industries, Ltd., Jerusalem, Israel; Copyright ©2018, Teva Respiratory, LLC; All rights reserved.
+Marketed by: Teva Respiratory, LLC, Frazer, PA 19355; Copyright ©2019, Teva Respiratory, LLC; All rights reserved.
 
-FPSIFU-002
+FPSIFU-003
 
 Rev.
-March 2018
+February 2019
