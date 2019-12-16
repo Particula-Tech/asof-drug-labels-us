@@ -50,15 +50,13 @@ Effects of Sensipar on iPTH, Ca x P, Serum Calcium, and Serum Phosphorus in 6-mo
 |  | Median Percent Change |  |  | -1.0 | -9.0 | -2.4 | -12.4 | -5.6 | -8.6 |
 | ** p < 0.001 compared with placebo; p-values presented for primary endpoint only. a iPTH value based on averaging over the evaluation phase (defined as weeks 13 to 26 in studies 1 and 2 and weeks 17 to 26 in study 3). Values shown are medians unless indicated otherwise. |  |  |  |  |  |  |  |  |  |
 
-Figure 1.
-Mean (SE) iPTH Values (Pooled Phase 3 Studies)
+| Figure 1. Mean (SE) iPTH Values (Pooled Phase 3 Studies) |
+| --- |
+| Data are presented for patients who completed the studies; Placebo (n = 342), Sensipar (n = 439). |
 
-Data are presented for patients who completed the studies; Placebo (n = 342), Sensipar (n = 439).
-
-Figure 2.
-Mean (SE) Ca x P Values (Pooled Phase 3 Studies)
-
-Data are presented for patients who completed the studies; Placebo (n = 342), Sensipar (n = 439).
+| Figure 2. Mean (SE) Ca x P Values (Pooled Phase 3 Studies) |
+| --- |
+| Data are presented for patients who completed the studies; Placebo (n = 342), Sensipar (n = 439). |
 
 Reductions in iPTH and Ca x P were maintained for up to 12 months of treatment.
 
@@ -80,13 +78,9 @@ At the end of the titration phase, the mean (SE) serum calcium was 12.4 (0.5) mg
 Figure 3 illustrates mean serum calcium (mg/dL) over time for all patients still on study at each time point from the beginning of titration to study visit week 80.
 Daily dose during the study ranged from 30 mg twice daily to 90 mg four times daily.
 
-Figure 3.
-Serum Calcium Values in Patients with Parathyroid Carcinoma Receiving Sensipar at Baseline, Titration, and Maintenance Phase
-
-n = Number of patients with non-missing values at the timepoint.
-
-End of Titration (EOT) phase could occur at any visit from week 2 to 16.
-Patients at EOT are those who completed titration.
+| Figure 3. Serum Calcium Values in Patients with Parathyroid Carcinoma Receiving Sensipar at Baseline, Titration, and Maintenance Phase |
+| --- |
+| n = Number of patients with non-missing values at the timepoint. End of Titration (EOT) phase could occur at any visit from week 2 to 16. Patients at EOT are those who completed titration. |
 
 ## 14.3 Patients with Hypercalcemia Due to Primary Hyperparathyroidism
 
@@ -103,13 +97,9 @@ At the end of the titration phase the mean (SE) serum calcium was 10.4 (0.3) mg/
 Figure 4 illustrates mean serum calcium (mg/dL) over time for all patients still on study at each time point from the beginning of titration to study visit week 80.
 Daily dose during the study ranged from 30 mg twice a day to 90 mg four times a day.
 
-Figure 4.
-Mean Serum Calcium (SE) at Baseline, End of Titration, and Scheduled Maintenance Visits (Patients with Severe intractable primary HPT)
-
-n = Number of patients with non-missing values at the timepoint.
-
-End of Titration (EOT) phase could occur at any visit from week 2 to 16.
-Patients at EOT are those who completed titration.
+| Figure 4. Mean Serum Calcium (SE) at Baseline, End of Titration, and Scheduled Maintenance Visits (Patients with Severe intractable primary HPT) |
+| --- |
+| n = Number of patients with non-missing values at the timepoint. End of Titration (EOT) phase could occur at any visit from week 2 to 16. Patients at EOT are those who completed titration. |
 
 Sixty-seven patients with primary HPT who met criteria for parathyroidectomy on the basis of corrected total serum calcium (> 11.3 mg/dL [2.82 mmol/L] and ≤ 12.5 mg/dL [3.12 mmol/L]), but who were unable to undergo parathyroidectomy participated in a randomized, double-blind, placebo-controlled study.
 A total of 33 patients were randomized to Sensipar and 34 patients randomized to placebo.

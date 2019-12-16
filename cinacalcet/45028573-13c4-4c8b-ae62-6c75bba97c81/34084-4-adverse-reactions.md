@@ -21,22 +21,21 @@ Seizures were observed in 1.4% (13/910) of Sensipar-treated patients and 0.7% (5
 Table 1.
 Adverse Reactions with Frequency ≥ 5% in Patients on Dialysis in Short-Term Studies for up to 6 Months
 
-|  |  | Placebo | Sensipar |  |
-| --- | --- | --- | --- | --- |
-|  |  | (n = 470) | (n = 656) |  |
-| Event*: |  | (%) | (%) |  |
-| Nausea |  | 19 | 31 |  |
-| Vomiting |  | 15 | 27 |  |
-| Diarrhea |  | 20 | 21 |  |
-| Myalgia |  | 14 | 15 |  |
-| Dizziness |  | 8 | 10 |  |
-| Hypertension |  | 5 | 7 |  |
-| Asthenia |  | 4 | 7 |  |
-| Anorexia |  | 4 | 6 |  |
-| Pain Chest, Non-Cardiac |  | 4 | 6 |  |
-| Dialysis Access Site Infection |  | 4 | 5 |  |
-
-*Included are events that were reported at a greater incidence in the Sensipar group than in the placebo group.
+|  |  | Placebo | Sensipar |
+| --- | --- | --- | --- |
+|  |  | (n = 470) | (n = 656) |
+| Event*: |  | (%) | (%) |
+| Nausea |  | 19 | 31 |
+| Vomiting |  | 15 | 27 |
+| Diarrhea |  | 20 | 21 |
+| Myalgia |  | 14 | 15 |
+| Dizziness |  | 8 | 10 |
+| Hypertension |  | 5 | 7 |
+| Asthenia |  | 4 | 7 |
+| Anorexia |  | 4 | 6 |
+| Pain Chest, Non-Cardiac |  | 4 | 6 |
+| Dialysis Access Site Infection |  | 4 | 5 |
+| *Included are events that were reported at a greater incidence in the Sensipar group than in the placebo group. |  |  |  |
 
 In a randomized, double-blind placebo-controlled study of 3883 patients with secondary HPT and CKD receiving dialysis in which patients were treated for up to 64 months (mean duration of treatment was 21 months in the Sensipar group), the most frequently reported adverse reactions (incidence of ≥ 5% in the Sensipar group and a difference ≥ 1% compared to placebo) are listed in Table 2.
 
@@ -46,7 +45,8 @@ Frequency of Adverse Reactions in Dialysis Patients Treated for up to 64 Months 
 |  | Placebo (n = 1923) | Sensipar (n = 1938) |
 | --- | --- | --- |
 |  | 3699 subject-years | 4044 subject-years |
-| Percent of subjects reporting Adverse Reactions (%) | 90.9 | 93.2 |
+| Percent of subjects reporting | 90.9 | 93.2 |
+| Adverse Reactions (%) |  |  |
 | Nausea | 15.5 | 29.1 |
 | Vomiting | 13.7 | 25.6 |
 | Diarrhea | 18.7 | 20.5 |
@@ -65,12 +65,7 @@ Frequency of Adverse Reactions in Dialysis Patients Treated for up to 64 Months 
 | Decreased appetite | 3.5 | 5.9 |
 | Asthenia | 3.8 | 5.4 |
 | Constipation | 3.8 | 5.0 |
-
-1 Adverse reactions that occurred in ≥ 5% frequency in the Sensipar group and a difference ≥ 1% compared to the placebo group (Safety Analysis Set).
-
-Crude incidence rate = 100 * Total number of subjects with event/ n
-
-n = Number of subjects receiving at least one dose of study drug.
+| 1 Adverse reactions that occurred in ≥ 5% frequency in the Sensipar group and a difference ≥ 1% compared to the placebo group (Safety Analysis Set). Crude incidence rate = 100 * Total number of subjects with event/ n n = Number of subjects receiving at least one dose of study drug. |  |  |
 
 Additional adverse reaction rates from the long-term, randomized, double-blind placebo-controlled study for Sensipar versus placebo are as follows: seizure (2.5%, 1.6%), rash (2.2%, 1.9%), hypersensitivity reactions (9.4%, 8.3%).
 
@@ -95,7 +90,8 @@ Adverse Reactions with Frequency ≥ 10% in a Single-Arm, Open-Label Study in Pa
 | --- | --- | --- | --- | --- |
 |  | Parathyroid Carcinoma (n = 29) |  | Intractable pHPT (n = 17) | Total (n = 46) |
 |  | n (%) | n (%) |  | n (%) |
-| Number of Subjects Reporting Adverse Reactions | 28 (97) | 17 (100) |  | 45 (98) |
+| Number of Subjects Reporting Adverse | 28 (97) | 17 (100) |  | 45 (98) |
+| Reactions |  |  |  |  |
 | Nausea | 19 (66) | 10 (59) |  | 29 (63) |
 | Vomiting | 15 (52) | 6 (35) |  | 21 (46) |
 | Paresthesia | 4 (14) | 5 (29) |  | 9 (20) |
@@ -112,10 +108,7 @@ Adverse Reactions with Frequency ≥ 10% in a Single-Arm, Open-Label Study in Pa
 | Headache | 6 (21) | 0 (0) |  | 6 (13) |
 | Infection Upper Respiratory | 3 (10) | 2 (12) |  | 5 (11) |
 | Pain Limb | 3 (10) | 2 (12) |  | 5 (11) |
-
-n = Number of subjects receiving at least one dose of study drug.
-
-pHPT = primary hyperparathyroidism.
+| n = Number of subjects receiving at least one dose of study drug. pHPT = primary hyperparathyroidism. |  |  |  |  |
 
 In a randomized double-blind, placebo-controlled study of 67 patients with primary hyperparathyroidism for whom parathyroidectomy would be indicated on the basis of serum calcium levels, but who are unable to undergo surgery, the most common adverse reactions are listed in Table 4.
 
@@ -128,8 +121,7 @@ Adverse Reactions Occurring in ≥ 10% of Subjects in a Double-Blind, Placebo-Co
 | Muscle spasms | 0 (0) | 6 (18) |
 | Headache | 2 (6) | 4 (12) |
 | Back pain | 2 (6) | 4 (12) |
-
-n = Number of subjects receiving at least one dose of study drug Coded using MedDRA version 16.0.
+| n = Number of subjects receiving at least one dose of study drug Coded using MedDRA version 16.0. |  |  |
 
 Hypocalcemia
 
@@ -150,3 +142,4 @@ Because these reactions are reported voluntarily from a population of uncertain 
 - Rash and hypersensitivity reactions (including angioedema and urticaria), and myalgia
 - Isolated, idiosyncratic cases of hypotension, worsening heart failure, and/or arrhythmia have been reported in patients with impaired cardiac function
 - Gastrointestinal bleeding
+- Chondrocalcinosis pyrophosphate (acute pseudogout)

@@ -3,7 +3,7 @@
 ## 12.1 Mechanism of Action
 
 The calcium-sensing receptor on the surface of the chief cell of the parathyroid gland is the principal regulator of PTH synthesis and secretion.
-Cinacalcet, the active ingredient in Sensipar, directly lowers PTH levels by increasing the sensitivity of the calcium-sensing receptor to extracellular calcium.
+Cinacalcet, the active ingredient in Sensipar, is a calcimimetic agent that directly lowers PTH levels by increasing the sensitivity of the calcium-sensing receptor to activation by extracellular calcium.
 The reduction in PTH is associated with a concomitant decrease in serum calcium levels.
 
 ## 12.2 Pharmacodynamics
@@ -74,8 +74,7 @@ Effect of co-administered drugs on cinacalcet
 | 1500 mg calcium carbonate, single dose | 100 mg | ↓6% | ↓5% |  |  |
 | 80 mg pantoprazole daily for 3 days | 90 mg on day 3 | ↑1% | ↓3% |  |  |
 | 2400 mg sevelamer HCl three times a day for 2 days | 90 mg on day 1 with first dose of sevelamer | ↓4% | ↓7% |  |  |
-
-*Single dose.
+| *Single dose. |  |  |  |  |  |
 
 Table 6.
 Effect of cinacalcet co-administration on other drugs
@@ -87,9 +86,4 @@ Effect of cinacalcet co-administration on other drugs
 | 90 mg daily for 7 days to CYP2D6 extensive metabolizers | 50 mg desipramine† | ↑264% | ↑75% |  |
 | 90 mg daily for 5 days | 2 mg midazolam† | ↑5% | ↓5% |  |
 | 25 or 100 mg single dose to CYP2D6 extensive metabolizers | 50 mg amitriptyline single dose | ↑21-22% for amitriptyline ↑17-23% for nortriptyline‡ | ↑13-21% for amitriptyline ↑11-15% for nortriptyline‡ |  |
-
-*No significant change in prothrombin time.
-
-†Single dose on day 5.
-
-‡Nortriptyline is an active metabolite of amitriptyline.
+| *No significant change in prothrombin time. †Single dose on day 5. ‡Nortriptyline is an active metabolite of amitriptyline. |  |  |  |  |
