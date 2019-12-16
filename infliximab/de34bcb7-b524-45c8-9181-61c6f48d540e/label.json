@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "BLA761086"
+  ],
+  "inn": "infliximab",
+  "labeler": "Amgen Inc",
+  "package_ndcs": [
+    "55513-670-01"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION",
+      "generic": "infliximab-axxq",
+      "name": "AVSOLA"
+    }
+  ],
+  "setid": "de34bcb7-b524-45c8-9181-61c6f48d540e",
+  "source": "dailymed"
+}
