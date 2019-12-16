@@ -39,7 +39,7 @@ It is also not known whether methocarbamol can cause fetal harm when administere
 Methocarbamol tablets USP should be given to a pregnant woman only if clearly needed.
 Safe use of methocarbamol tablets USP has not been established with regard to possible adverse effects upon fetal development.
 There have been reports of fetal and congenital abnormalities following in utero exposure to methocarbamol.
-Therefore, methocarbamol tablets USP should not be used in women who are or may become pregnant and particularly during early pregnancy unless in the judgment of the physician the potential benefits outweigh the possible hazards ( see WARNINGS ).
+Therefore, methocarbamol tablets USP should not be used in women who are or may become pregnant and particularly during early pregnancy unless in the judgment of the physician the potential benefits outweigh the possible hazards (see WARNINGS).
 
 ## Nursing Mothers
 
