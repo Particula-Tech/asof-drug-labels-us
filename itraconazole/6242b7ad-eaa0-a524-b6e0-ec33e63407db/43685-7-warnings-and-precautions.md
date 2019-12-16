@@ -138,7 +138,7 @@ Table 1 Drug Interactions with Itraconazole Capsules that Affect Concomitant Dru
 | Digoxin |  | Monitor for adverse reactions. Concomitant drug dose reduction may be necessary. |
 | Antibacterials |  |  |
 | BedaquilineBased on 400 mg bedaquiline once daily for 2 weeks. |  | Concomitant Itraconazole Capsules not recommended for more than 2 weeks at any time during bedaquiline treatment. |
-| Rifabutin |  | Not recommended 2 weeks before, during, and 2 weeks after Itraconazole Capsules treatment.See also Table 2. |
+| Rifabutin |  | Not recommended 2 weeks before, during, and 2 weeks after Itraconazole Capsules treatment. See also Table 2. |
 | Clarithromycin |  | Monitor for adverse reactions. Concomitant drug dose reduction may be necessary. See also Table 2. |
 | Trimetrexate |  | Monitor for adverse reactions. Concomitant drug dose reduction may be necessary. |
 | Anticoagulants and Antiplatelets |  |  |

@@ -1,6 +1,6 @@
 For more information call 1-800-667-8570.
 
-Revised: 3/2019
+Revised: December 2019
 
 Product of Ireland
 
