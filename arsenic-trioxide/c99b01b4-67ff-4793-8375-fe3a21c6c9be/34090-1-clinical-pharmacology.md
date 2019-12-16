@@ -4,7 +4,7 @@
 
 The mechanism of action of arsenic trioxide injection is not completely understood.
 Arsenic trioxide causes morphological changes and DNA fragmentation characteristic of apoptosis in NB4 human promyelocytic leukemia cells in vitro.
-Arsenic trioxide also causes damage or degradation of the fusion protein promyelocytic leukemia (PML)retinoic acid receptor (RAR)-alpha.
+Arsenic trioxide also causes damage or degradation of the fusion protein promyelocytic leukemia (PML)-retinoic acid receptor (RAR)-alpha.
 
 ## 12.2 Pharmacodynamics
 
@@ -26,7 +26,7 @@ Plasma concentration of AsIIIdeclined in a biphasic manner with a mean eliminati
 The daily exposure to AsIII(mean AUC0-24) was 194 ng·hr/mL (n=5) on Day 1 of Cycle 1 and 332 ng·hr/mL (n=6) on Day 25 of Cycle 1, which represents an approximate 2-fold accumulation.
 The primary pentavalent metabolites, MMAVand DMAV, are slow to appear in plasma (approximately 10-24 hours after first administration of arsenic trioxide), but, due to their longer half-life, accumulate more upon multiple dosing than does AsIII.
 The mean estimated terminal elimination half-lives of the metabolites MMAVand DMAVare 32 hours and 72 hours, respectively.
-Approximate accumulation ranged from 1.4- to 8-fold following multiple dosing as compared to single dose administration.
+Approximate accumulation ranged from 1.4- to 8-fold following multiple dosing as compared to single-dose administration.
 AsVis present in plasma only at relatively low levels.
 
 Distribution
@@ -55,7 +55,7 @@ Patients with Renal Impairment
 
 The effect of renal impairment on the pharmacokinetics of AsIII, AsV, and the pentavalent metabolites MMAV and DMAV was evaluated in 20 patients with advanced malignancies.
 Patients were classified as having normal renal function (creatinine clearance [CrCl] > 80 mL/min, n=6), mild renal impairment (CrCl 50-80 mL/min, n=5), moderate renal impairment (CrCl 30-49 mL/min, n=6), or severe renal impairment (CrCl < 30 mL/min, n=3).
-Following twice weekly administration of 0.15 mg/kg over a 2-hour infusion, the mean AUC0-∞ for AsIII was comparable among the normal, mild and moderate renal impairment groups.
+Following twice-weekly administration of 0.15 mg/kg over a 2-hour infusion, the mean AUC0-∞ for AsIII was comparable among the normal, mild and moderate renal impairment groups.
 However, in the severe renal impairment group, the mean AUC0-∞ for AsIII was approximately 48% higher than that in the normal group.
 
 Systemic exposure to MMAVand DMAVtended to be larger in patients with renal impairment; however, the clinical consequences of this increased exposure are not known.

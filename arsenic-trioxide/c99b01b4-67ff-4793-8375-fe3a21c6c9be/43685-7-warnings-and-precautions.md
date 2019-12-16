@@ -20,7 +20,7 @@ There are no data on the effect of arsenic trioxide injection on the QTc interva
 The risk of torsade de pointes is related to the extent of QTc prolongation, concomitant administration of QTc prolonging drugs, a history of torsade de pointes, pre-existing QTc interval prolongation, congestive heart failure, administration of potassium-wasting diuretics, or other conditions that result in hypokalemia or hypomagnesemia.
 The risk may be increased when arsenic trioxide injection is coadministered with medications that can lead to electrolyte abnormalities (such as diuretics or amphotericin B) [see Drug Interactions (7)].
 
-Prior to initiating therapy with arsenic trioxide injection, assess the QTc interval by electrocardiogram, correct pre- existing electrolyte abnormalities, and consider discontinuing drugs known to prolong QTc interval.
+Prior to initiating therapy with arsenic trioxide injection, assess the QTc interval by electrocardiogram, correct pre-existing electrolyte abnormalities, and consider discontinuing drugs known to prolong QTc interval.
 Do not administer arsenic trioxide injection to patients with ventricular arrhythmia or prolonged QTc.
 If possible, discontinue drugs that are known to prolong the QTc interval.
 If it is not possible to discontinue the interacting drug, perform cardiac monitoring frequently [see Drug Interactions (7)].
@@ -31,19 +31,34 @@ For patients who develop a QTc greater than 500 msec, immediately withhold treat
 Correct electrolyte abnormalities.
 When the QTc normalizes, resume arsenic trioxide injection at a reduced dose [see Dosage and Administration (2.2)].
 
-## 5.3 Hepatotoxicity
+## 5.3 Encephalopathy
+
+Serious encephalopathies were reported in patients receiving arsenic trioxide injection.
+Monitor patients for neurological symptoms such as confusion, decreased level of consciousness, seizures, cognitive deficits, ataxia, visual symptoms and ocular motor dysfunction.
+Advise patients and caregivers of the need for close observation.
+
+Wernicke's Encephalopathy
+
+Wernicke's encephalopathy occurred in patients receiving arsenic trioxide injection.
+Wernicke's encephalopathy is a neurologic emergency that can be prevented and treated with thiamine.
+Consider testing thiamine levels in patients at risk for thiamine deficiency (e.g., chronic alcohol use, malabsorption, nutritional deficiency, concomitant use of furosemide).
+Administer parenteral thiamine in patients with or at risk for thiamine deficiency.
+Monitor patients for neurological symptoms and nutritional status while receiving arsenic trioxide injection.
+If Wernicke's encephalopathy is suspected, immediately interrupt arsenic trioxide injection and initiate parenteral thiamine.
+
+## 5.4 Hepatotoxicity
 
 During treatment with arsenic trioxide injection, monitor liver chemistries at least 2-3 times per week through recovery from toxicities.
 Withhold treatment with arsenic trioxide injection if elevations in AST), alkaline phosphatase, and/or serum bilirubin occur to greater than 5 times the upper limit of normal [see Dosage and Administration (2.2)].
 
 Long-term liver abnormalities can occur in APL patients treated with arsenic trioxide injection.
 
-## 5.4 Carcinogenesis
+## 5.5 Carcinogenesis
 
 The active ingredient of arsenic trioxide injection, arsenic trioxide, is a human carcinogen.
 Monitor patients for the development of second primary malignancies.
 
-## 5.5 Embryo-Fetal Toxicity
+## 5.6 Embryo-Fetal Toxicity
 
 Arsenic trioxide injection can cause fetal harm when administered to a pregnant woman.
 Arsenic trioxide was embryolethal and teratogenic in rats when administered on gestation day 9 at a dose approximately 10 times the recommended human daily dose on a mg/m2 basis.
