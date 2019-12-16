@@ -49,11 +49,11 @@ Monitoring infected patients for clinical and laboratory signs of active HBV or 
 
 ## 5.4 Blood Dyscrasias: Neutropenia and Pure Red Cell Aplasia (PRCA)
 
-Severe neutropenia [absolute neutrophil count (ANC) <0.5 x 103/L] developed in transplant patients receiving mycophenolate mofetil 3 g daily [see Adverse Reactions (6.1)].
+Severe neutropenia [absolute neutrophil count (ANC) <0.5 x 103/µL] developed in transplant patients receiving mycophenolate mofetil 3 g daily [see Adverse Reactions (6.1)].
 Patients receiving mycophenolate mofetil should be monitored for neutropenia.
 Neutropenia has been observed most frequently in the period from 31 to 180 days post-transplant in patients treated for prevention of kidney, heart and liver rejection.
 The development of neutropenia may be related to mycophenolate mofetil itself, concomitant medications, viral infections, or a combination of these causes.
-If neutropenia develops (ANC <1.3 x 103/L), dosing with mycophenolate mofetil should be interrupted or the dose reduced, appropriate diagnostic tests performed, and the patient managed appropriately [see Dosage and Administration (2.5)].
+If neutropenia develops (ANC <1.3 x 103/µL), dosing with mycophenolate mofetil should be interrupted or the dose reduced, appropriate diagnostic tests performed, and the patient managed appropriately [see Dosage and Administration (2.5)].
 
 Patients receiving mycophenolate mofetil should be instructed to report immediately any evidence of infection, unexpected bruising, bleeding or any other manifestation of bone marrow depression.
 

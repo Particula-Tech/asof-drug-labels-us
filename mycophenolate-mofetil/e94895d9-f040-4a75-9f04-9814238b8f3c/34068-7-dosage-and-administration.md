@@ -57,4 +57,4 @@ These patients should be carefully monitored [see Clinical Pharmacology (12.3)].
 
 Neutropenia:
 
-If neutropenia develops (ANC <1.3 x 103/L), dosing with mycophenolate mofetil should be interrupted or reduced, appropriate diagnostic tests performed, and the patient managed appropriately [see Warnings and Precautions (5.4) andAdverse Reactions (6.1)].
+If neutropenia develops (ANC <1.3 x 103/µL), dosing with mycophenolate mofetil should be interrupted or reduced, appropriate diagnostic tests performed, and the patient managed appropriately [see Warnings and Precautions (5.4) andAdverse Reactions (6.1)].
