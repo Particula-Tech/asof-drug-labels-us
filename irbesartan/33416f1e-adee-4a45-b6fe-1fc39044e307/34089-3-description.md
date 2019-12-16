@@ -1,4 +1,4 @@
-# DESCRIPTION
+# 11 DESCRIPTION
 
 Irbesartan USP is an angiotensin II receptor (AT1 subtype) antagonist.
 Irbesartan USP is a non-peptide compound, chemically described as a 2-butyl-3-[p-(o-1H-tetrazol-5-ylphenyl)benzyl]-1,3-diazaspiro[4.4]non-1-en-4-one.
