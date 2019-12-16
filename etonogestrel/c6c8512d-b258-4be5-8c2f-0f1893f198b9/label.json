@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA210830"
+  ],
+  "inn": "etonogestrel",
+  "labeler": "Amneal Pharmaceuticals LLC",
+  "package_ndcs": [
+    "65162-469-32",
+    "65162-469-35"
+  ],
+  "products": [
+    {
+      "form": "RING",
+      "generic": "etonogestrel and ethinyl estradiol",
+      "name": "EluRyng"
+    }
+  ],
+  "setid": "c6c8512d-b258-4be5-8c2f-0f1893f198b9",
+  "source": "dailymed"
+}
