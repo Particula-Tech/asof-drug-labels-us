@@ -139,11 +139,10 @@ This Patient Information has been approved by the U.S. Food and Drug Administrat
 
 Manufactured for: Amring Pharmaceuticals Inc. Berwyn, PA 19312
 
-By: Mikart, Inc. Atlanta, GA 30318
-
-Code APR3013011
+Manufactured by: Mikart, LLC.
+Atlanta, GA 30318
 
 Rev.
-03/2016
+03/2019
 
 1221E00
