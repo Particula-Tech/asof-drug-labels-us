@@ -1,11 +1,8 @@
-# 4 CONTRAINDICATIONS
+# CONTRAINDICATIONS
 
-Mannitol Injection is contraindicated in patients with:
-
-- Well established anuria due to severe renal disease.
-- Severe pulmonary congestion or frank pulmonary edema.
-- Active intracranial bleeding except during craniotomy.
-- Severe dehydration.
-- Progressive heart failure or pulmonary congestion after institution of mannitol therapy.
-
-Do not administer to patients with a known hypersensitivity to mannitol.
+1. Well established anuria due to severe renal disease.
+2. Severe pulmonary congestion or frank pulmonary edema.
+3. Active intracranial bleeding except during craniotomy.
+4. Severe dehydration.
+5. Progressive heart failure or pulmonary congestion after institution of mannitol therapy.
+6. Do not administer to patients with a known hypersensitivity to mannitol.

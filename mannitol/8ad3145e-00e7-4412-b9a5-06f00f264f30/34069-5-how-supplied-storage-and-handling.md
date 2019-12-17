@@ -1,10 +1,10 @@
-# 16 HOW SUPPLIED/STORAGE AND HANDLING
+# HOW SUPPLIED
 
-Mannitol Injection, USP is supplied in single-dose containers as follows:
+Mannitol Intravenous (Mannitol Injection, USP) is supplied in single-dose containers as follows:
 
-| Unit of Sale | Concentration |
-| --- | --- |
-| NDC 0409-4031-01 Tray of 25 single-dose fliptop vials | 12.5 g/50 mL (250 mg/mL) |
+| Unit of Sale | Concentration | Each |
+| --- | --- | --- |
+| NDC 0409-4031-01 Tray containing 25 | 12.5 g/50 mL (250 mg/mL) | NDC 0409-4031-16 50 mL Single-dose Fliptop Vial |
 
 NOTE: Crystals may form in mannitol solutions especially if the solutions are chilled.
 To dissolve the crystals, warm the bottle in hot water at 80°C and periodically shake vigorously.
@@ -16,7 +16,3 @@ When infusing 25% mannitol concentrations, the administration set should include
 Protect from freezing.
 Store at 20 to 25°C (68 to 77°F).
 [See USP Controlled Room Temperature.]
-
-INSTRUCTlONS FOR USE
-
-Remove cover and cleanse stopper with antiseptic before use.
