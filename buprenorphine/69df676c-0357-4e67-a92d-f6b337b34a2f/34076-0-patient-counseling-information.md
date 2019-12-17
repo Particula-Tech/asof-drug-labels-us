@@ -9,47 +9,35 @@ Instruct patients not to share BELBUCA with others and to take steps to protect 
 
 Life-Threatening Respiratory Depression
 
-Inform patients of the risk of life-threatening respiratory depression, including information that the risk is greatest when starting BELBUCA or when the dosage is increased, and that it can occur even at recommended doses [see Warnings and Precautions (5.2)].
+Inform patients of the risk of life-threatening respiratory depression, including information that the risk is greatest when starting BELBUCA or when the dose is increased and that it can occur even at recommended doses [see Warnings and Precautions (5.2)].
 Advise patients how to recognize respiratory depression and to seek medical attention if breathing difficulties develop.
 
 Accidental Exposure
 
 Inform patients that accidental exposure, especially in children, may result in respiratory depression or death [see Warnings and Precautions (5.2)].
-Instruct patients to take steps to store BELBUCA securely and to dispose of unused BELBUCA by opening unused packages and flushing the film down the toilet [see Dosage and Administration (2.8)].
+Instruct patients to take steps to store BELBUCA securely and to dispose of unused BELBUCA by opening unused packages and flushing the film down the toilet.
 
-Interactions with Benzodiazepines and Other CNS Depressants
+Interaction with Alcohol and other CNS Depressants
 
-Inform patients and caregivers that potentially fatal additive effects may occur if BELBUCA is used with benzodiazepines or other CNS depressants, including alcohol, and not to use these concomitantly unless supervised by a healthcare provider [see Warnings and Precautions (5.4), Drug Interactions (7)].
-
-Serotonin Syndrome
-
-Inform patients that BELBUCA could cause a rare but potentially life-threatening condition resulting from concomitant administration of serotonergic drugs.
-Warn patients of the symptoms of serotonin syndrome and to seek medical attention right away if symptoms develop.
-Instruct patients to inform their physicians if they are taking, or plan to take serotonergic medications [see Drug Interactions (7)].
-
-Adrenal Insufficiency
-
-Inform patients that BELBUCA could cause adrenal insufficiency, a potentially life-threatening condition.
-Adrenal insufficiency may present with non-specific symptoms and signs such as nausea, vomiting, anorexia, fatigue, weakness, dizziness, and low blood pressure.
-Advise patients to seek medical attention if they experience a constellation of these symptoms [see Warnings and Precautions (5.6)].
+Inform patients that potentially serious additive effects may occur if BELBUCA is used with alcohol or other CNS depressants and not to use such drugs unless supervised by a health care provider [see Warnings and Precautions (5.4)].
 
 Interaction with Benzodiazepines
 
 Warn patients that it is extremely dangerous to self-administer benzodiazepines while taking BELBUCA, and warn patients to use benzodiazepines concurrently with BELBUCA only as directed by their physician [see Drug Interactions (7)].
 
-Important Administration Instructions
-
-Instruct patients how to properly use BELBUCA, including the following:
-
-- To carefully follow instructions for the application of BELBUCA and to avoid eating or drinking until it dissolves.
-- To apply BELBUCA once daily, or every twelve (12) hours at the same time or times each day.
-- To avoid applying BELBUCA to areas of the mouth with any open sores or lesions.
-- To not use BELBUCA if the pouch seal is broken or the buccal film is cut, damaged, or changed in any way.
-
 Hypotension
 
 Inform patients that BELBUCA may cause orthostatic hypotension and syncope.
-Instruct patients how to recognize symptoms of low blood pressure and how to reduce the risk of serious consequences should hypotension occur (e.g., sit or lie down, carefully rise from a sitting or lying position) [see Warnings and Precautions (5.10)].
+Instruct patients how to recognize symptoms of low blood pressure and how to reduce the risk of serious consequences should hypotension occur (e.g., sit or lie down, carefully rise from a sitting or lying position) [see Warnings and Precautions (5.12)].
+
+Constipation
+
+Advise patients of the potential for severe constipation, including management instructions andwhen to seek medical attention [see Warnings and Precautions (5.13)].
+
+Driving or Operating Heavy Machinery
+
+Inform patients that BELBUCA may impair the ability to perform potentially hazardous activities such as driving a car or operating heavy machinery.
+Advise patients not to perform such tasks until they know how they will react to the medication [see Warnings and Precautions (5.16)].
 
 Anaphylaxis
 
@@ -70,16 +58,16 @@ Lactation
 
 Advise patients that breastfeeding is not recommended during treatment with BELBUCA [see Use in Specific Populations (8.2)].
 
-Constipation
+Important Administration Instructions
 
-Advise patients of the potential for severe constipation, including management instructions and when to seek medical attention [see Warnings and Precautions (5.13)].
+Instruct patients how to properly use BELBUCA, including the following:
 
-Driving or Operating Heavy Machinery
+1. To carefully follow instructions for the application of BELBUCA and to avoid eating or drinking until it dissolves.
+2. To apply BELBUCA once daily, or every twelve (12) hours at the same time or times each day.
+3. To avoid applying BELBUCA to areas of the mouth with any open sores or lesions.
+4. To not use BELBUCA if the pouch seal is broken or the buccal film is cut, damaged, or changed in any way.
 
-Inform patients that BELBUCA may impair the ability to perform potentially hazardous activities such as driving a car or operating heavy machinery.
-Advise patients not to perform such tasks until they know how they will react to the medication [see Warnings and Precautions (5.16)].
-
-Disposal of Unused BELBUCA
+Disposal
 
 Instruct patients to dispose of BELBUCA as soon as it is no longer needed.
 To dispose of unused BELBUCA film, inform the patient to:
@@ -88,14 +76,16 @@ To dispose of unused BELBUCA film, inform the patient to:
 2. Drop the BELBUCA films into toilet and flush.
 3. Discard foil packaging in trash.
 
-Instruct patients not to flush BELBUCA down the toilet in the foil packages or cartons [see Dosage and Administration (2.8)].
+Instruct patients not to flush BELBUCA down the toilet in thefoil packages or cartons [s ee Dosage and Administration (2.8)].
 
 Healthcare professionals can telephone Endo Pharmaceuticals (1-800-462-3636) for information on this product.
 
-Distributed by: Endo Pharmaceuticals Inc. Malvern, PA 19355
+Distributed by:
+
+Endo Pharmaceuticals Inc. Malvern, PA 19355
 
 BELBUCA is a trademark of Endo International plc or one of its affiliates.
 
-©2016 Endo Pharmaceuticals Inc. All rights reserved.
+©2015 Endo Pharmaceuticals Inc. All rights reserved.
 
-117833
+116340

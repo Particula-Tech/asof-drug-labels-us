@@ -4,18 +4,13 @@
 
 Risk Summary
 
-Prolonged use of opioid analgesics during pregnancy may cause neonatal opioid withdrawal syndrome [see Warnings and Precautions (5.3)].
 There are no adequate and well-controlled studies of BELBUCA or buprenorphine in pregnant women.
 Limited published data on use of buprenorphine, the active ingredient in BELBUCA, in pregnancy, have not shown an increased risk of major malformations.
-Reproductive and developmental studies in rats and rabbits identified adverse events at approximately 2 times the maximum recommended human dose (MRHD) of 1.8 mg/day of BELBUCA.
-Embryofetal death was observed in both rats and rabbits administered buprenorphine during the period of organogenesis at doses approximately 54 and 2.2 times, respectively, the MRHD of 1.8 mg/day of buprenorphine.
-Pre-and postnatal development studies in rats demonstrated increased neonatal deaths at 2.7 times and above and dystocia at approximately 27 times the MRHD of 1.8 mg/day of buprenorphine.
-No clear teratogenic effects were seen when buprenorphine was administered during organogenesis with a range of doses 5 times or greater than the MRHD of 1.8 mg/day of buprenorphine.
-However, increases in skeletal abnormalities were noted in rats and rabbits administered buprenorphine daily during organogenesis at doses approximately 5.4 and 10.8 times the MRHD of 1.8 mg/day of buprenorphine, respectively.
-In a few studies, some events such as acephalus and omphalocele were also observed but these findings were not clearly treatment-related [see Data].
+In animal reproduction studies, embryofetal death was observed in both rats and rabbits administered buprenorphine during the period of organogenesis via the oral route of administration at doses approximately 53 to 11 times the maximum recommended human dose (MRHD), respectively.
+In pre- and post-natal development studies in rats, dystocia was observed after treatment with buprenorphine via the IM route of administration at a dose approximately 27 times the MRHD, and increased neonatal death was observed after treatment via the oral, IM, and SC routes of administration at doses approximately 4, 3, and 0.5 times the MRHD, respectively.
+No teratogenic effects were observed in rats treated with buprenorphine via the oral, IM, and IV routes of administration during organogenesis at doses approximately 853, 27, and 4 times the MRHD, respectively, or in rabbits treated with buprenorphine via the oral, SC, and IV routes of administration at doses approximately 267, 53, and 9 times the MRHD, respectively.
+However, in a few studies, some events such as acephalus, omphalocele, and skeletal abnormalities were observed but these findings were not clearly treatment-related [see Data].
 
-The estimated background risk of major birth defects and miscarriage for the indicated population is unknown.
-Adverse outcomes in pregnancy can occur regardless of the health of the mother or the use of medications.
 In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2-4% and 15-20%, respectively.
 
 Clinical Considerations
@@ -23,9 +18,7 @@ Clinical Considerations
 Fetal/Neonatal Adverse Reactions
 
 Prolonged use of opioid analgesics during pregnancy for medical or nonmedical purposes can result in physical dependence in the neonate and neonatal opioid withdrawal syndrome shortly after birth.
-Neonatal opioid withdrawal syndrome presents as irritability, hyperactivity and abnormal sleep pattern, high pitched cry, tremor, vomiting, diarrhea, and failure to gain weight.
-The onset, duration, and severity of neonatal opioid withdrawal syndrome vary based on the specific opioid used, duration of use, timing and amount of last maternal use, and rate of elimination of the drug by the newborn.
-Observe newborns for symptoms of neonatal opioid withdrawal syndrome and manage accordingly [see Warnings and Precautions (5.3)].
+Observe newborns for symptoms of neonatal opioid withdrawal syndrome, including poor feeding, diarrhea, irritability, tremor, rigidity, and seizures, and manage accordingly [see Warnings and Precautions (5.3)].
 
 Labor or Delivery
 
@@ -39,27 +32,15 @@ Data
 
 Animal Data
 
-The exposure margins listed below are based on body surface area comparisons (mg/m2) to MRHD of 1.8 mg buprenorphine via BELBUCA.
+Buprenorphine administration during organogenesis was not teratogenic in rats or rabbits after intramuscular (IM) or subcutaneous (SC) doses up to 5 mg/kg/day (estimated exposure was approximately 27 and 53 times, respectively, the maximum recommended human dose (MRHD) for buccal BELBUCA of 1.8 mg on a mg/m 2 basis), after IV doses up to 0.8 mg/kg/day (estimated exposure was approximately 4 and 9 times, respectively, the MRHD), or after oral doses up to 160 mg/kg/day in rats (estimated exposure was approximately 853 times the MRHD) and 25 mg/kg/day in rabbits (estimated exposure was approximately 267 times the MRHD).
+Significant increases in skeletal abnormalities (e.g., extra thoracic vertebra or thoraco-lumbar ribs) were noted in rats after SC administration of 1 mg/kg/day and up (estimated exposure was approximately 5 times the MRHD), but were not observed at oral doses up to 160 mg/kg/day (estimated exposure was approximately 853 times the MRHD.
+Increases in skeletal abnormalities in rabbits after IM administration of 5 mg/kg/day (estimated exposure was approximately 53 times the MRHD) or oral administration of 1 mg/kg/day or greater estimated exposure was approximately 11 times the MRHD) were not statistically significant.
 
-Following oral administration to rats no teratogenic effects were observed at buprenorphine doses up to 250 mg/kg/day (estimated exposure approximately 1351 times the MRHD of 1.8 mg).
-Following oral administration to rabbits, no teratogenic effects were observed at buprenorphine doses up to 40 mg/kg/day (estimated exposure approximately 432 times the MRHD of 1.8 mg).
-No definitive drug-related teratogenic effects were observed in rats and rabbits at IM doses up to 30 mg/kg/day (estimated exposure approximately 161 times and 324 times, respectively, the MRHD of 1.8 mg).
-Acephalus was observed in one rabbit fetus from the low-dose group and omphalocele was observed in two rabbit fetuses from the same litter in the mid-dose group; no findings were observed in fetuses from the high-dose group.
-Following oral administration of buprenorphine to rats, dose-related post-implantation losses, evidenced by increases in the numbers of early resorptions with consequent reductions in the numbers of fetuses, were observed at doses of 10 mg/kg/day or greater (estimated exposure approximately 54 times the MRHD of 1.8 mg).
+In rabbits, buprenorphine produced statistically significant pre-implantation losses at oral doses of 1 mg/kg/day or greater (estimated exposure was approximately 11 times the MRHD) and post-implantation losses that were statistically significant at IV doses of 0.2 mg/kg/day or greater (estimated exposure was approximately 2 times the MRHD).
 
-In the rabbit, increased post-implantation losses occurred at an oral dose of 40 mg/kg/day.
-Following IM administration in the rat and the rabbit, post-implantation losses, as evidenced by decreases in live fetuses and increases in resorptions, occurred at 30 mg/kg/day.
-
-Buprenorphine was not teratogenic in rats or rabbits after IM or subcutaneous (SC) doses up to 5 mg/kg/day (estimated exposure was approximately 27 and 54 times, respectively, the MRHD of 1.8 mg), after IV doses up to 0.8 mg/kg/day (estimated exposure was approximately 4.3 and 8.7 times, respectively, the MRHD of 1.8 mg), or after oral doses up to 160 mg/kg/day in rats (estimated exposure was approximately 865 times the MRHD of 1.8 mg) and 25 mg/kg/day in rabbits (estimated exposure was approximately 270 times the MRHD of 1.8 mg).
-Significant increases in skeletal abnormalities (e.g., extra thoracic vertebra or thoraco-lumbar ribs) were noted in rats after SC administration of 1 mg/kg/day and up (estimated exposure was approximately 5.4 times the MRHD of 1.8 mg), but were not observed at oral doses up to 160 mg/kg/day.
-
-Increases in skeletal abnormalities in rabbits after IM administration of 5 mg/kg/day (estimated exposure was approximately 54 times the MRHD of 1.8 mg) or oral administration of 1 mg/kg/day or greater (estimated exposure was approximately 10.8 times the MRHD of 1.8 mg) were not statistically significant.
-
-In rabbits, buprenorphine produced statistically significant pre-implantation losses at oral doses of 1 mg/kg/day or greater and post-implantation losses that were statistically significant at IV doses of 0.2 mg/kg/day or greater (estimated exposure approximately 2.2 times the MRHD of 1.8 mg).
-
-Dystocia was noted in pregnant rats treated intramuscularly with buprenorphine during gestation and lactation at 5 mg/kg/day (approximately 27 times the MRHD of 1.8 mg).
-Fertility, pre-, and post-natal development studies with buprenorphine in rats indicated increases in neonatal mortality after oral doses of 0.8 mg/kg/day and up (approximately 4.3 times the MRHD of 1.8 mg), after IM doses of 0.5 mg/kg/day and up (approximately 2.7 times the MRHD of 1.8 mg), and after SC doses of 0.1 mg/kg/day and up (approximately 0.5 times the MRHD of 1.8 mg).
-An apparent lack of milk production during these studies occurrence of righting reflex and startle response were noted in rat pups at an oral dose of 80 mg/kg/day (approximately 432 times the MRHD of 1.8 mg).
+Dystocia was noted in pregnant rats treated intramuscularly with buprenorphine 5 mg/kg/day (approximately 27 times the MRHD).
+Fertility, peri- and post-natal development studies with buprenorphine in rats indicated increases in neonatal mortality after oral doses of 0.8 mg/kg/day and up (approximately 4 times the MRHD), after IM doses of 0.5 mg/kg/day and up (approximately 3 times the MRHD), and after SC doses of 0.1 mg/kg/day and up (approximately 0.5 times the MRHD).
+Delays in the occurrence of righting reflex and startle response were noted in rat pups at an oral dose of 80 mg/kg/day (approximately 427 times the MRHD).
 
 ## 8.2 Lactation
 
@@ -67,11 +48,11 @@ Risk Summary
 
 Based on two studies in 13 lactating women being treated for opioid dependence and their breastfed infants, buprenorphine and its metabolite norbuprenorphine are present in low levels in human milk and infant urine, and available data have not shown adverse reactions in breastfed infants [see Data].
 There are no data on the effects of BELBUCA on milk production.
-Because of the potential for serious adverse reactions, including excess sedation and respiratory depression in a breastfed infant, advise patients that breastfeeding is not recommended during treatment with BELBUCA.
+Because of the potential for serious adverse reactions, including excess sedation and respiratory depression in a breastfed infant, advise patients that breastfeeding is not recommended during treatment with BELBUCA
 
 Clinical Considerations
 
-Monitor infants exposed to BELBUCA through breast milk for excess sedation and respiratory depression.
+Infants exposed to BELBUCA through breast milk should ­be monitored for excess sedation and respiratory depression.
 Withdrawal symptoms can occur in breastfed infants when maternal administration of buprenorphine is stopped or when breast-feeding is stopped.
 
 Data
@@ -83,13 +64,6 @@ Based on limited data from a study of seven lactating women being treated for op
 Based on the limited data from this study, and assuming milk consumption of 150 mL/kg/day, an exclusively breastfed infant would receive an estimated mean of 0.55 mcg/kg/day of buprenorphine and 0.29 mcg/kg/day of norbuprenorphine, which are 0.38% and 0.18% of the maternal weight-adjusted dose.
 
 No adverse reactions were observed in the infants in these two studies.
-
-## 8.3 Females and Males of Reproductive Potential
-
-Infertility
-
-Chronic use of opioids may cause reduced fertility in females and males of reproductive potential.
-It is not known whether these effects on fertility are reversible [see Clinical Pharmacology (12.2), Nonclinical Toxicology (13.1)].
 
 ## 8.4 Pediatric Use
 
@@ -103,11 +77,7 @@ The incidences of selected BELBUCA-related adverse effects were higher in older 
 
 No notable differences in pharmacokinetics were observed from population pharmacokinetic analysis in subjects aged 65 compared to younger subjects.
 Other reported clinical experience with buprenorphine has not identified differences in responses between the elderly and younger patients.
-Although specific dose adjustments on the basis of advanced age are not required for pharmacokinetic reasons, use caution in the elderly population to ensure safe use.
-Titrate the dosage of BELBUCA slowly in geriatric patients and monitor closely for signs of central nervous system and respiratory depression [see Warnings and Precautions (5.5),and Clinical Pharmacology (12.3)].
-
-Buprenorphine is known to be substantially excreted by the kidney, and the risk of adverse reactions to this drug may be greater in patients with impaired renal function.
-Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection, and it may be useful to monitor renal function.
+Although specific dose adjustments on the basis of advanced age are not required for pharmacokinetic reasons, use caution in the elderly population to ensure safe use [see Clinical Pharmacology (12.3)].
 
 ## 8.6 Hepatic Impairment
 
@@ -119,4 +89,8 @@ Buprenorphine is extensively metabolized in the liver and buprenorphine plasma l
 Given that increased buprenorphine plasma levels are associated with a greater risk of toxicity and overdose, a dosage reduction in patients with severe hepatic impairment (i.e., Child-Pugh C) is recommended [see Dosage and Administration (2.5)].
 Monitor patients with severe hepatic impairment for signs and symptoms of overdose.
 A dosage reduction in patients with moderate hepatic impairment (Child-Pugh B) is not needed, however, monitor these patients for signs and symptoms of toxicity or overdose.
-A dosage reduction in patients with mild hepatic impairment (Child-Pugh A) is not needed [see Dosage and Administration (2.5), Warnings and Precautions (5.10) and Clinical Pharmacology (12.3)].
+A dosage reduction in patients with mild hepatic impairment (Child-Pugh A) is not needed [see Dosage and Administration (2.5), Warnings and Precautions (5.11) and Clinical Pharmacology (12.3)].
+
+## 8.7 Renal Impairment
+
+No differences in buprenorphine pharmacokinetics were observed between 9 dialysis-dependent patients and 6 patients with normal renal function following IV administration of 0.3 mg buprenorphine.

@@ -1,6 +1,6 @@
 Medication Guide
 
-BELBUCATM (bel-BUE-kuh)
+BELBUCA TM (bel-BUE-kuh)
 
 (buprenorphine) buccal film, CIII
 
@@ -15,7 +15,6 @@ Important information about BELBUCA:
 
 - Get emergency help right away if you take too much BELBUCA (overdose).
   When you first start taking BELBUCA, when your dose is changed, or if you take too much (overdose), serious or life-threatening breathing problems that can lead to death may occur.
-- Taking BELBUCA with other opioid medicines, benzodiazepines, alcohol, or other central nervous system depressants (including street drugs) can cause severe drowsiness, decreased awareness, breathing problems, coma, and death.
 - Never give anyone else your BELBUCA.
   They could die from taking it.
   Store BELBUCA away from children and in a safe place to prevent stealing or abuse.
@@ -49,13 +48,10 @@ While using BELBUCA:
 
 - Do not change your dose.
   Apply BELBUCA exactly as prescribed by your healthcare provider.
-  Use the lowest effective dose possible for the shortest time needed.
 - See the detailed Instructions for Use for information about how to apply BELBUCA.
 - Do not apply BELBUCA if the package seal is broken or the film is cut, damaged, or changed in any way.
 - After the film has adhered to your cheek, avoid eating or drinking until the film has completely dissolved, usually within 30 minutes.
 - Avoid touching or moving the buccal film with your tongue or fingers.
-- Do not chew, swallow, snort or inject BELBUCA.
-  This will result in uncontrolled delivery of buprenorphine and may cause you to overdose and die.
 - Call your healthcare provider if the dose you are using does not control your pain.
 - Do not stop using BELBUCA without talking to your healthcare provider.
 - After you stop using BELBUCA, remove any unused film from the foil pack and flush down the toilet.
@@ -75,17 +71,17 @@ The possible side effects of BELBUCA are:
 
 Get emergency medical help if you have:
 
-- trouble breathing, shortness of breath, fast heartbeat, chest pain, swelling of your face, tongue or throat, extreme drowsiness, light-headedness when changing positions, feeling faint, agitation, high body temperature, trouble walking, stiff muscles, or mental changes such as confusion.
+- trouble breathing, shortness of breath, fast heartbeat, chest pain, swelling of your face, tongue or throat, extreme drowsiness, light-headedness when changing positions, or you are feeling faint.
 
 These are not all the possible side effects of BELBUCA.
 Call your doctor for medical advice about side effects.
 You may report side effects to FDA at 1-800-FDA-1088.
 For more information go to dailymed.nlm.nih.gov
 
-Distributed by: Endo Pharmaceuticals Inc., Malvern, PA 19355, www.endo.com or call 1-800-462-3636.
+Marketed by: Endo Pharmaceuticals Inc., Malvern, PA 19355, www.endo.com or call 1-800-462-3636.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Issue: December 2016
+Issue: October 2015
 
-117832
+116116
