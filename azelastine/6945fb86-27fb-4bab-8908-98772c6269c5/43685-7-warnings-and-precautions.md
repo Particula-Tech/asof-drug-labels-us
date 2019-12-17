@@ -28,7 +28,7 @@ The numbers of corpora lutea and implantations were decreased; however, the impl
 ## Pregnancy
 
 Teratogenic Effects: Pregnancy Category C. Azelastine hydrochloride has been shown to be embryotoxic, fetotoxic, and teratogenic (external and skeletal abnormalities) in mice at an oral dose of 68.6 mg/kg/day (57,000 times the recommended ocular human use level).
-At an oral dose of 30 mg/kg/day (25,000 times the recommended ocular human use level), delayed ossification (undeveloped metacarpus) and the incidence of 14thrib were increased in rats.
+At an oral dose of 30 mg/kg/day (25,000 times the recommended ocular human use level), delayed ossification (undeveloped metacarpus) and the incidence of 14th rib were increased in rats.
 At 68.6 mg/kg/day (57,000 times the maximum recommended ocular human use level) azelastine hydrochloride caused resorption and fetotoxic effects in rats.
 The relevance to humans of these skeletal findings noted at only high drug exposure levels is unknown.
 
