@@ -1,6 +1,6 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-How to Use the DROP-TAINER® Bottle
+How to Use The DROP-TAINER® Bottle
 
 The DROP-TAINER® bottle is designed to assure the delivery of a precise dose of medication.
 Before using your DROP-TAINER® bottle, read the complete instructions carefully.
@@ -45,7 +45,7 @@ Replace screw cap by turning until firmly touching the bottle.
 Patients should be instructed to avoid allowing the tip of the dispensing container to contact the eye(s) or surrounding structures.
 Patients should also be instructed that ocular solutions, if handled improperly, could become contaminated by common bacteria known to cause ocular infections.
 Serious damage to the eye(s) and subsequent loss of vision may result from using contaminated solutions.
-[see Warnings and Precautions (5.8)]
+[seeWarnings and Precautions (5.8)]
 
 Patients should be advised that if they have ocular surgery or develop an intercurrent ocular condition (e.g., trauma or infection), they should immediately seek their physician's advice concerning the continued use of the present multidose container.
 
@@ -62,7 +62,7 @@ Patients should be advised that transient blurred vision or visual disturbance, 
 
 **DROP-TAINER® is a registered trademark of Alcon Research, Ltd.
 
-Manufactured by:
+Manufactured by
 
 Alcon Laboratories, Inc.
 

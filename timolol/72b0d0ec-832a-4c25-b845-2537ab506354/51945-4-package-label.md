@@ -1,31 +1,51 @@
-# PRINCIPAL DISPLAY PANEL
+# PACKAGE/LABEL PRINCIPAL DISPLAY PANEL
 
 NDC 61314-224-05
 
-Timolol GFS
+Timolol
 
-Timolol maleate ophthalmic gel forming solution
+GFS
+
+Timolol maleate
+
+ophthalmic
+
+gel forming
+
+solution
 
 0.25%
 
 Rx only
 
-5 mL STERILE
+STERILE
+
+5 mL
 
 SANDOZ
 
-# Package/Label Display Panel
+# PACKAGE/LABEL PRINCIPAL DISPLAY PANEL
 
-NDC 61314-224-05
+NDC 61314-225-05
 
-Timolol GFS
+Timolol
 
-Timolol maleate ophthalmic gel forming solution
+GFS
+
+Timolol maleate
+
+ophthalmic
+
+gel forming
+
+solution
 
 0.5%
 
 Rx only
 
-5 mL STERILE
+STERILE
+
+5 mL
 
 SANDOZ
