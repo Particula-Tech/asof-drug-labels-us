@@ -31,7 +31,7 @@ You and your doctor should decide if you will take valsartan tablet or breast-fe
 Talk with your doctor about the best way to feed your baby if you take valsartan tablets. • have ever had a reaction called angioedema, to another blood pressure medicine.
 Angioedema causes swelling of the face, lips, tongue and/or throat, and may cause difficulty breathing.
 Tell your doctor about all the medicines you take including prescription and nonprescription medicines, vitamins and herbal supplements.
-Especially tell your doctor if you take: • other medicines for high blood pressure or a heart problem • water pills (also called “diuretics”) • potassium supplements.
+Especially tell your doctor if you take: • other medicines for high blood pressure or a heart problem • water pills (also called "diuretics") • potassium supplements.
 Your doctor may check the amount of potassium in your blood periodically • a salt substitute.
 Your doctor may check the amount of potassium in your blood periodically • Nonsteroidal anti-inflammatory drugs (like ibuprofen or naproxen) • certain antibiotics (rifamycin group), a drug used to protect against transplant rejection (cyclosporine) or an antiretroviral drug used to treat HIV/AIDS infection (ritonavir).
 These drugs may increase the effect of valsartan. • Lithium, a medicine used in some types of depression Know the medicines you take.
@@ -58,7 +58,7 @@ Call your doctor if you get swelling in your feet, ankles, or hands, or unexplai
 If you have heart failure, your doctor should check your kidney function before prescribing valsartan tablets.
 The most common side effects of valsartan tablets used to treat people with high blood pressure include: • headache • dizziness • flu symptoms • tiredness • stomach (abdominal) pain Side effects were generally mild and brief.
 They generally have not caused patients to stop taking valsartan tablets.
-The most common side effects of valsartan tablets used to treat people with heart failure include: • dizziness • low blood pressure • diarrhea • joint and back pain • tiredness • high blood potassium Tell your doctor if you get any side effect that bothers you or that does not go away.
+The most common side effects of valsartan tablets used to treat people with heart failure include: • dizziness • low blood pressure • diarrhea • joint and back pain • tiredness • high blood potassium Common side effects of valsartan tablets used to treat people after a heart attack which caused them to stop taking the drug include: • low blood pressure • cough • high blood creatinine (decreased kidney function) • rash Tell your doctor if you get any side effect that bothers you or that does not go away.
 These are not all the possible side effects of valsartan tablets.
 For a complete list, ask your doctor or pharmacist.
 How do I store valsartan tablets? • Store valsartan tablets at 20° to 25°C (68° to 77°F) [see USP Controlled Room Temperature]. • Keep valsartan tablets in a closed container in a dry place. • Store bottles of valsartan suspension at room temperature less than 86ºF (30ºC) for up to 30 days, or refrigerate between 35ºF to 46ºF (2ºC to 8ºC) for up to 75 days. • Keep valsartan tablets and all medicines out of the reach of children.
@@ -69,22 +69,20 @@ It may harm them.
 This leaflet summarizes the most important information about valsartan tablets.
 If you would like more information, talk with your doctor.
 You can ask your doctor or pharmacist for information about valsartan tablets that is written for health professionals.
+For more information, call 1-866-495-1995.
 Call your healthcare provider for medical advice about side effects.
 You may report side effects to FDA at 1-800-FDA-1088.
 What are the ingredients in valsartan tablets?
 Active ingredient: valsartan, USP Inactive ingredients: croscarmellose sodium, hypromellose, magnesium stearate, mannitol, microcrystalline cellulose, polyethylene glycol, povidone, and titanium dioxide.
 In addition to this 40 mg contains iron oxide yellow, 80 mg contains iron oxide red, 160 mg contains iron oxides (yellow and red) and 320 mg contains iron oxides (yellow, red and black).
 This Patient Information has been approved by the U.S. Food and Drug Administration.
+Medication Guide available at http://camberpharma.com/medication-guides.
 
 Manufactured for:
 
-Camber Pharmaceuticals, Inc., 2040229
+Camber Pharmaceuticals, Inc.
 
 Piscataway, NJ 08854
 
-By:HETEROTM
-
-Hetero Labs Limited,Unit V, Polepally,
-
-Jadcherla, Mahaboob Nagar-509 301, India.
-Revised: February 2017
+By: HETEROTM HETERO LABS LIMITED, Unit V, Polepally, Jadcherla, Mahaboob Nagar-509 301, India.
+Revised: 09/ 2019

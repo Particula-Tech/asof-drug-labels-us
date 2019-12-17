@@ -5,7 +5,7 @@
 Valsartan tablets are indicated for the treatment of hypertension, to lower blood pressure.
 Lowering blood pressure reduces the risk of fatal and nonfatal cardiovascular events, primarily strokes and myocardial infarctions.
 These benefits have been seen in controlled trials of antihypertensive drugs from a wide variety of pharmacologic classes including the class to which valsartan principally belongs.
-There are no controlled trials in hypertensive patients demonstrating risk reduction with valsartan tablets, USP.
+There are no controlled trials in hypertensive patients demonstrating risk reduction with valsartan tablets.
 
 Control of high blood pressure should be part of comprehensive cardiovascular risk management, including, as appropriate, lipid control, diabetes management, antithrombotic therapy, smoking cessation, exercise, and limited sodium intake.
 Many patients will require more than one drug to achieve blood pressure goals.
@@ -24,6 +24,9 @@ Valsartan tablets may be used alone or in combination with other antihypertensiv
 
 ## 1.2 Heart Failure
 
-Valsartan tablets are indicated for the treatment of heart failure (NYHA class II to IV).
-In a controlled clinical trial, valsartan tablets significantly reduced hospitalizations for heart failure.
-There is no evidence that valsartan tablets provide added benefits when it is used with an adequate dose of an ACE inhibitor [see Clinical Studies (14.2)].
+Valsartan tablets are indicated to reduce the risk of hospitalization for heart failure in patients with heart failure (NYHA class II to IV).
+There is no evidence that valsartan tablets provides added benefits when it is used with an adequate dose of an ACE inhibitor [see Clinical Studies (14.2)].
+
+## 1.3 Post-Myocardial Infarction
+
+In clinically stable patients with left ventricular failure or left ventricular dysfunction following myocardial infarction, valsartan tablets are indicated to reduce the risk of cardiovascular mortality [see Clinical Studies (14.3)].
