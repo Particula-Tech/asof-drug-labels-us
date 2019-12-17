@@ -252,6 +252,6 @@ This Medication Guide has been approved by the U.S. Food and Drug Administration
 
 ©1989-2019 AbbVie Inc.
 
-Revised: November 2019
+Revised: December 2019
 
-03-C085
+03-C085-R31
