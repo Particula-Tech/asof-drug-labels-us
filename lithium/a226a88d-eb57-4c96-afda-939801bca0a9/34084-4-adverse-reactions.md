@@ -26,7 +26,7 @@ Gastrointestinal: Anorexia, nausea, vomiting, diarrhea, gastritis, salivary glan
 
 Genitourinary: Glycosuria, decreased creatinine clearance, albuminuria, oliguria, and symptoms of nephrogenic diabetes insipidus including polyuria, thirst and polydipsia.
 
-Dermatologic: Drying and thinning of hair, alopecia, anesthesia of skin, acne, chronic folliculitis, xerosis cutis, psoriasis or its exacerbation, generalized pruritus with or without rash, cutaneous ulcers, angioedema.
+Dermatologic: Drying and thinning of hair, alopecia, anesthesia of skin, chronic folliculitis, xerosis cutis, psoriasis onset or exacerbation, generalized pruritus with or without rash, cutaneous ulcers, angioedema, drug reaction with eosinophilia and systemic symptoms (DRESS).
 
 Autonomic Nervous System: Blurred vision, dry mouth, impotence/sexual dysfunction.
 
