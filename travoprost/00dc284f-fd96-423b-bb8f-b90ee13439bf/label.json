@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA205050"
+  ],
+  "inn": "travoprost",
+  "labeler": "Mylan Pharmaceuticals Inc.",
+  "package_ndcs": [
+    "0378-9651-32",
+    "0378-9651-50"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION/ DROPS",
+      "generic": "travoprost ophthalmic solution, 0.004%",
+      "name": "Travoprost Ophthalmic Solution, 0.004%"
+    }
+  ],
+  "setid": "00dc284f-fd96-423b-bb8f-b90ee13439bf",
+  "source": "dailymed"
+}
