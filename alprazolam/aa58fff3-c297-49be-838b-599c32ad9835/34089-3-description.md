@@ -1,6 +1,6 @@
-# DESCRIPTION
+# 11 DESCRIPTION
 
-XANAX XR Tablets contain alprazolam which is a triazolo analog of the 1,4 benzodiazepine class of central nervous system-active compounds.
+XANAX XR tablets contain alprazolam which is a triazolo analog of the 1,4 benzodiazepine class of CNS-active compounds.
 
 The chemical name of alprazolam is 8-chloro-1-methyl-6-phenyl-4H-s-triazolo [4,3-α] [1,4] benzodiazepine.
 The molecular formula is C17H13ClN4 which corresponds to a molecular weight of 308.76.

@@ -1,4 +1,17 @@
-# ADVERSE REACTIONS
+# 6 ADVERSE REACTIONS
+
+The following clinically significant adverse reactions are described elsewhere in the labeling:
+
+- Risks from Concomitant Use with Opioids [see Warnings and Precautions (5.1)]
+- Dependence and Withdrawal Reactions, Including Seizures [see Warnings and Precautions (5.2)]
+- Effects on Driving and Operating Machinery [see Warnings and Precautions (5.3)]
+- Risk of Fetal Harm [see Warnings and Precautions (5.4)]
+- Risk of Suicide in Patients with Depression [see Warnings and Precautions (5.6)]
+- Use in Patients with Concomitant Illness [see Warnings and Precautions (5.9)]
+
+## 6.1 Clinical Trials Experience
+
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
 The information included in the subsection on Adverse Events Observed in Short-Term, Placebo-Controlled Trials with XANAX XR Tablets is based on pooled data of five 6- and 8-week placebo-controlled clinical studies in panic disorder.
 
@@ -7,16 +20,16 @@ The stated frequencies of adverse events represent the proportion of individuals
 An event was considered treatment emergent if it occurred for the first time or worsened during therapy following baseline evaluation.
 In the tables and tabulations that follow, standard MedDRA terminology (version 4.0) was used to classify reported adverse events.
 
-## Adverse Events Observed in Short-Term, Placebo-Controlled Trials of XANAX XR
+Adverse Events Observed in Short-Term, Placebo-Controlled Trials of XANAX XR
 
-### Adverse Events Reported as Reasons for Discontinuation of Treatment in Placebo-Controlled Trials
+Adverse Events Reported as Reasons for Discontinuation of Treatment in Placebo-Controlled Trials
 
-Approximately 17% of the 531 patients who received XANAX XR in placebo-controlled clinical trials for panic disorder had at least one adverse event that led to discontinuation compared to 8% of 349 placebo-treated patients.
-The most common events leading to discontinuation and considered to be drug-related (ie, leading to discontinuation in at least 1% of the patients treated with XANAX XR at a rate at least twice that of placebo) are shown in the following table.
+Approximately 17% of the 531 patients who received XANAX XR in placebo-controlled clinical trials for panic disorder had at least 1 adverse event that led to discontinuation compared to 8% of 349 placebo-treated patients.
+The most common events leading to discontinuation and considered to be drug-related (ie, leading to discontinuation in at least 1% of the patients treated with XANAX XR at a rate at least twice that of placebo) are shown in Table 1.
 
-Common Adverse Events Leading to Discontinuation of Treatment in Placebo-Controlled Trials
+Table 1: Common Adverse Events Leading to Discontinuation of Treatment in Placebo-Controlled Trials
 
-|  | XANAX XR (n=531) | Placebo (n=349) |
+| XANAX XR (n=531) | Placebo (n=349) |  |
 | --- | --- | --- |
 | System Organ Class/Adverse Event | Percentage of Patients Discontinuing Due to Adverse Events |  |
 | Nervous system disorders |  |  |
@@ -30,18 +43,18 @@ Common Adverse Events Leading to Discontinuation of Treatment in Placebo-Control
 | Psychiatric disorders |  |  |
 | Depression | 2.5 | 1.2 |
 
-### Adverse Events Occurring at an Incidence of 1% or More Among Patients Treated with XANAX XR
+Adverse Events Occurring at an Incidence of 1% or More Among Patients Treated with XANAX XR
 
 The prescriber should be aware that adverse event incidence cannot be used to predict the incidence of adverse events in the course of usual medical practice where patient characteristics and other factors differ from those which prevailed in the clinical trials.
 Similarly, the cited frequencies cannot be compared with event incidence obtained from other clinical investigations involving different treatments, uses, and investigators.
 The cited values, however, do provide the prescribing physician with some basis for estimating the relative contribution of drug and non-drug factors to the adverse event incidence rate in the population studied.
 
 The following table shows the incidence of treatment-emergent adverse events that occurred during 6- to 8-week placebo-controlled trials in 1% or more of patients treated with XANAX XR where the incidence in patients treated with XANAX XR was greater than the incidence in placebo-treated patients.
-The most commonly observed adverse events in panic disorder patients treated with XANAX XR (incidence of 5% or greater and at least twice the incidence in placebo patients) were: sedation, somnolence, memory impairment, dysarthria, coordination abnormal, ataxia, libido decreased (see table).
+The most commonly observed adverse events in panic disorder patients treated with XANAX XR (incidence of 5% or greater and at least twice the incidence in placebo patients) were: sedation, somnolence, memory impairment, dysarthria, coordination abnormal, ataxia, libido decreased (see Table 2).
 
-Treatment-Emergent Adverse Events: Incidence in Short-Term, Placebo-Controlled Clinical Trials with XANAX XR
+Table 2: Treatment-Emergent Adverse Events: Incidence in Short-Term, Placebo-Controlled Clinical Trials with XANAX XR
 
-|  | XANAX XR (n=531) | Placebo (n=349) |
+| XANAX XR (n=531) | Placebo (n=349) |  |
 | --- | --- | --- |
 | System Organ Class/Adverse Event | Percentage of Patients Reporting Adverse Event |  |
 | Nervous system disorders |  |  |
@@ -101,7 +114,7 @@ Treatment-Emergent Adverse Events: Incidence in Short-Term, Placebo-Controlled C
 | Skin and subcutaneous tissue disorders |  |  |
 | Pruritis | 1.1 | 0.9 |
 
-### Other Adverse Events Observed During the Premarketing Evaluation of XANAX XR Tablets
+Other Adverse Events Observed During the Premarketing Evaluation of XANAX XR Tablets
 
 Following is a list of MedDRA terms that reflect treatment-emergent adverse events reported by 531 patients with panic disorder treated with XANAX XR.
 All potentially important reported events are included except those already listed in the above table or elsewhere in labeling, those events for which a drug cause was remote, those event terms that were so general as to be uninformative, and those events that occurred at rates similar to background rates in the general population.
@@ -132,18 +145,18 @@ Skin and subcutaneous tissue disorders: Frequent: sweating increased; Infrequent
 
 Vascular disorders: Infrequent: hypotension
 
-The categories of adverse events reported in the clinical development program for XANAX Tablets in the treatment of panic disorder differ somewhat from those reported for XANAX XR Tablets because the clinical trials with XANAX Tablets and XANAX XR Tablets used different standard medical nomenclature for reporting the adverse events.
-Nevertheless, the types of adverse events reported in the clinical trials with XANAX Tablets were generally the same as those reported in the clinical trials with XANAX XR Tablets.
+The categories of adverse events reported in the clinical development program for XANAX tablets in the treatment of panic disorder differ somewhat from those reported for XANAX XR tablets because the clinical trials with XANAX tablets and XANAX XR tablets used different standard medical nomenclature for reporting the adverse events.
+Nevertheless, the types of adverse events reported in the clinical trials with XANAX tablets were generally the same as those reported in the clinical trials with XANAX XR tablets.
 
-### Discontinuation-Emergent Adverse Events Occurring at an Incidence of 5% or More Among Patients Treated with XANAX XR
+Discontinuation-Emergent Adverse Events Occurring at an Incidence of 5% or More Among Patients Treated with XANAX XR
 
-The following table shows the incidence of discontinuation-emergent adverse events that occurred during short-term, placebo-controlled trials in 5% or more of patients treated with XANAX XR where the incidence in patients treated with XANAX XR was two times greater than the incidence in placebo-treated patients.
+Table 3 shows the incidence of discontinuation-emergent adverse events that occurred during short-term, placebo-controlled trials in 5% or more of patients treated with XANAX XR where the incidence in patients treated with XANAX XR was 2 times greater than the incidence in placebo-treated patients.
 
-Discontinuation-Emergent Symptoms: Incidence in Short-Term, Placebo-Controlled Trials with XANAX XR
+Table 3: Discontinuation-Emergent Symptoms: Incidence in Short-Term, Placebo-Controlled Trials with XANAX XR
 
-|  | XANAX XR (n=422) | Placebo (n=261) |
+| XANAX XR (n=422) | Placebo (n=261) |  |
 | --- | --- | --- |
-| System Organ Class/AdverseEvent | Percentage of Patients Reporting Adverse Event |  |
+| System Organ Class/Adverse Event | Percentage of Patients Reporting Adverse Event |  |
 | Nervous system disorders |  |  |
 | Tremor | 28.2 | 10.7 |
 | Headache | 26.5 | 12.6 |
@@ -167,10 +180,10 @@ Discontinuation-Emergent Symptoms: Incidence in Short-Term, Placebo-Controlled T
 | Vascular disorders |  |  |
 | Hot flushes | 5.9 | 2.7 |
 
-There have also been reports of withdrawal seizures upon rapid decrease or abrupt discontinuation of alprazolam (see WARNINGS).
+There have also been reports of withdrawal seizures upon rapid decrease or abrupt discontinuation of alprazolam [see Warning and Precuations (5.2)].
 
-To discontinue treatment in patients taking XANAX XR Tablets, the dosage should be reduced slowly in keeping with good medical practice.
-It is suggested that the daily dosage of XANAX XR Tablets be decreased by no more than 0.5 mg every three days (see DOSAGE AND ADMINISTRATION).
+To discontinue treatment in patients taking XANAX XR tablets, the dosage should be reduced slowly in keeping with good medical practice.
+It is suggested that the daily dosage of XANAX XR tablets be decreased by no more than 0.5 mg every 3 days [see Dosage and Administration (2.6)].
 Some patients may benefit from an even slower dosage reduction.
 In a controlled postmarketing discontinuation study of panic disorder patients which compared this recommended taper schedule with a slower taper schedule, no difference was observed between the groups in the proportion of patients who tapered to zero dose; however, the slower schedule was associated with a reduction in symptoms associated with a withdrawal syndrome.
 
@@ -180,9 +193,9 @@ Should any of the above events occur, alprazolam should be discontinued.
 Isolated published reports involving small numbers of patients have suggested that patients who have borderline personality disorder, a prior history of violent or aggressive behavior, or alcohol or substance abuse may be at risk for such events.
 Instances of irritability, hostility, and intrusive thoughts have been reported during discontinuation of alprazolam in patients with posttraumatic stress disorder.
 
-## Post Introduction Reports
+## 6.2 Postmarketing Experience
 
-Various adverse drug reactions have been reported in association with the use of XANAX Tablets since market introduction.
-The majority of these reactions were reported through the medical event voluntary reporting system.
-Because of the spontaneous nature of the reporting of medical events and the lack of controls, a causal relationship to the use of XANAX Tablets cannot be readily determined.
-Reported events include: gastrointestinal disorder, hypomania, mania, liver enzyme elevations, hepatitis, jaundice, hepatic failure, Stevens-Johnson syndrome, photosensitivity reaction, angioedema, peripheral edema, menstruation irregular, hyperprolactinemia, gynecomastia, and galactorrhea (see PRECAUTIONS).
+The following adverse reactions have been identified during post approval use of XANAX XR.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+Reported events include: gastrointestinal disorder, hypomania, mania, liver enzyme elevations, hepatitis, jaundice, hepatic failure, Stevens-Johnson syndrome, photosensitivity reaction, angioedema, peripheral edema, menstruation irregular, hyperprolactinemia, gynecomastia, and galactorrhea
