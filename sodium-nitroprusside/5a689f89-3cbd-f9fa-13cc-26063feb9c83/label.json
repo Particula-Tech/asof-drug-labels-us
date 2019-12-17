@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA210114"
+  ],
+  "inn": "sodium-nitroprusside",
+  "labeler": "Dr.Reddy's Laboratories Inc.,",
+  "package_ndcs": [
+    "43598-587-23"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "sodium nitroprusside",
+      "name": "Sodium Nitroprusside"
+    }
+  ],
+  "setid": "5a689f89-3cbd-f9fa-13cc-26063feb9c83",
+  "source": "dailymed"
+}
