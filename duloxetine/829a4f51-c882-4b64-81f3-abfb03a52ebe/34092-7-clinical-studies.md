@@ -3,12 +3,9 @@
 The efficacy of duloxetine has been established in the following adequate and well-controlled trials:
 
 - Major Depressive Disorder (MDD): 4 short-term and 1 maintenance trial in adults [see CLINICAL STUDIES (14.1)].
-- Generalized Anxiety Disorder (GAD): 3 short-term trials in adults, 1 maintenance trial in adults [see CLINICAL STUDIES (14.2)].
+- Generalized Anxiety Disorder (GAD): 3 short-term trials in adults, 1 maintenance trial in adults, and 1 short-term trial in children and adolescents [see CLINICAL STUDIES (14.2)].
 - Diabetic Peripheral Neuropathic Pain (DPNP): Two 12-week trials in adults [see CLINICAL STUDIES (14.3)].
 - Chronic Musculoskeletal Pain: Two 12- to 13-week trials in adult patients with chronic low back pain (CLBP) and one 13-week trial in adult patients with chronic pain due to osteoarthritis [see CLINICAL STUDIES (14.5)].
-
-Pediatric use information for patient's ages 7 to 17 years is approved for Eli Lilly and Company, Inc.'s CYMBALTA® (duloxetine) delayed-release capsules.
-However, due to Eli Lilly and Company, Inc.'s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
 
 ## 14.1 Major Depressive Disorder
 
@@ -63,24 +60,37 @@ Patients taking duloxetine experienced a statistically significantly longer time
 
 Subgroup analyses did not indicate that there were any differences in treatment outcomes as a function of age or gender.
 
+The efficacy of duloxetine in the treatment of patients ≥65 years of age with generalized anxiety disorder was established in one 10-week flexible-dose, randomized, double-blind, placebo-controlled trial in adults ≥65 years of age meeting the DSM-IV criteria for GAD.
+In this study, the starting dose was 30 mg once daily for 2 weeks before further dose increases in 30 mg increments at treatment weeks 2, 4, and 7 up to 120 mg once daily were allowed based on investigator judgment of clinical response and tolerability.
+The mean dose for patients completing the 10-week acute treatment phase was 50.95 mg.
+Patients treated with duloxetine (N=151) demonstrated significantly greater improvement compared with placebo (N=140) on mean change from baseline to endpoint as measured by the Hamilton Anxiety Rating Scale total score (Study 5 in Table 8).
+
+The efficacy of duloxetine in the treatment of pediatric patients 7 to 17 years of age with generalized anxiety disorder (GAD) was established in 1 flexible-dose randomized, double-blind, placebo-controlled trial in pediatric outpatients with GAD (based on DSM-IV criteria).
+
+In this study, the starting dose was 30 mg once daily for 2 weeks.
+Further dose increases in 30 mg increments up to 120 mg once daily were allowed based on investigator judgment of clinical response and tolerability.
+The mean dose for patients completing the 10-week treatment phase was 57.6 mg/day.
+In this study, duloxetine (N=135) demonstrated superiority over placebo (N=137) from baseline to endpoint as measured by greater improvement in the Pediatric Anxiety Rating Scale (PARS) for GAD severity score (Study 6 in Table 8).
+
 Table 8: Summary of the Primary Efficacy Results for Studies in General Anxiety Disorder
 
 | Study Number | Treatment Group | Primary Efficacy Measure |  |  |
 | --- | --- | --- | --- | --- |
-|  |  | Mean Baseline Score (SD) | LS Mean Change from Baseline (SE) | Placebo-subtracted Differencea (95% CI) |
-| Study 1 | Duloxetine (60 mg/day)b | 25.1 (7.18) | -12.8 (0.68) | -4.4 (-6.2, -2.5) |
-| (HAM-A) | Duloxetine (120 mg/day)b | 25.1 (7.24) | -12.5 (0.67) | -4.1 (-5.9, -2.3) |
-|  | Placebo | 25.8 (7.66) | -8.4 (0.67) | -- |
-| Study 2 | Duloxetine (60 to 120 mg/day)b | 22.5 (7.44) | -8.1 (0.70) | -2.2 (-4.2, -0.3) |
-| (HAM-A) | Placebo | 23.5 (7.91) | -5.9 (0.70) | -- |
-| Study 3 | Duloxetine (60 to 120 mg/day)b | 25.8 (5.66) | -11.8 (0.69) | -2.6 (-4.5, -0.7) |
-| (HAM-A) | Placebo | 25.0 (5.82) | -9.2 (0.67) | -- |
+| Mean Baseline Score (SD) | LS Mean Change from Baseline (SE) | Placebo-subtracted Differencea (95% CI) |  |  |
+| Study 1 (HAM-A) | Duloxetine (60 mg/day)b | 25.1 (7.18) | -12.8 (0.68) | -4.4 (-6.2, -2.5) |
+| Duloxetine (120 mg/day)b | 25.1 (7.24) | -12.5 (0.67) | -4.1 (-5.9, -2.3) |  |
+| Placebo | 25.8 (7.66) | -8.4 (0.67) | -- |  |
+| Study 2 (HAM-A) | Duloxetine (60 to 120 mg/day)b | 22.5 (7.44) | -8.1 (0.70) | -2.2 (-4.2, -0.3) |
+| Placebo | 23.5 (7.91) | -5.9 (0.70) | -- |  |
+| Study 3 (HAM-A) | Duloxetine (60 to 120 mg/day)b | 25.8 (5.66) | -11.8 (0.69) | -2.6 (-4.5, -0.7) |
+| Placebo | 25.0 (5.82) | -9.2 (0.67) | -- |  |
+| Study 5 (Elderly) (HAM-A) | Duloxetine (60-120 mg/day)b | 24.6 (6.21) | -15.9 (0.63) | -4.2 (-5.9, -2.5) |
+| Placebo | 24.5 (7.05) | -11.7 (0.67) | - |  |
+| Study 6 (Pediatric) (PARS for GAD) | Duloxetine (30-120 mg/day)b | 17.5 (1.98) | -9.7 (0.50) | -2.7 (-4.0, -1.3) |
+| Placebo | 17.4 (2.24) | -7.1 (0.50) | - |  |
 | SD: standard deviation; SE: standard error; LS Mean: least-squares mean; CI: confidence interval, not adjusted for multiplicity in trials where multiple dose groups were included. |  |  |  |  |
 | a Difference (drug minus placebo) in least squares mean change from baseline. |  |  |  |  |
 | b Dose statistically significantly superior to placebo. |  |  |  |  |
-
-Pediatric use information for patient's ages 7 to 17 years is approved for Eli Lilly and Company, Inc.'s CYMBALTA® (duloxetine) delayed-release capsules.
-However, due to Eli Lilly and Company, Inc.'s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
 
 ## 14.3 Diabetic Peripheral Neuropathic Pain
 

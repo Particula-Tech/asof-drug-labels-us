@@ -28,8 +28,22 @@ Nevertheless, if a decision is made to increase the dose beyond 60 mg once daily
 The safety of doses above 120 mg once daily has not been adequately evaluated.
 Periodically reassess to determine the continued need for maintenance treatment and the appropriate dose for such treatment [see CLINICAL STUDIES (14.2)].
 
-Pediatric use information for patient's ages 7 to 17 years is approved for Eli Lilly and Company, Inc.'s CYMBALTA® (duloxetine) delayed-release capsules.
-However, due to Eli Lilly and Company, Inc.'s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
+Elderly
+
+Initiate duloxetine delayed-release capsules at a dose of 30 mg once daily for 2 weeks before considering an increase to the target dose of 60 mg.
+Thereafter, patients may benefit from doses above 60 mg once daily.
+If a decision is made to increase the dose beyond 60 mg once daily, increase dose in increments of 30 mg once daily.
+The maximum dose studied was 120 mg per day.
+Safety of doses above 120 mg once daily has not been adequately evaluated [see CLINICAL STUDIES (14.2)].
+
+Children and Adolescents (7 to 17 years of age)
+
+Initiate duloxetine delayed-release capsules at a dose of 30 mg once daily for 2 weeks before considering an increase to 60 mg.
+The recommended dose range is 30 to 60 mg once daily.
+Some patients may benefit from doses above 60 mg once daily.
+If a decision is made to increase the dose beyond 60 mg once daily, increase dose in increments of 30 mg once daily.
+The maximum dose studied was 120 mg per day.
+The safety of doses above 120 mg once daily has not been evaluated [see CLINICAL STUDIES (14.2)].
 
 ## 2.3 Dosage for Treatment of Diabetic Peripheral Neuropathic Pain
 

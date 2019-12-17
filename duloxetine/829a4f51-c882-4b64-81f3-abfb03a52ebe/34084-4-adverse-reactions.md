@@ -17,7 +17,7 @@ The following serious adverse reactions are described below and elsewhere in the
 - Hyponatremia [see WARNINGS AND PRECAUTIONS (5.13)]
 - Urinary Hesitation and Retention [see WARNINGS AND PRECAUTIONS (5.15)]
 
-## 6.1 Clinical Trial Data Sources
+## 6.1 Clinical Studies Experience
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
@@ -30,12 +30,16 @@ Adults
 The data described below reflect exposure to duloxetine in placebo-controlled trials for MDD (N=3779), GAD (N=1018), OA (N=503), CLBP (N=600), DPNP (N=906), and another indication (N=1294).
 The population studied was 17 to 89 years of age; 65.7%, 60.8%, 60.6%, 42.9%, and 94.4% female; and 81.8%, 72.6%, 85.3%, 74.0%, and 85.7% Caucasian for MDD, GAD, OA and CLBP, DPNP, and another indication, respectively.
 Most patients received doses of a total of 60 to 120 mg per day [see CLINICAL STUDIES (14)].
+The data below do not include results of the trial examining the efficacy of duloxetine in patients ≥ 65 years old for the treatment of generalized anxiety disorder; however, the adverse reactions observed in this geriatric sample were generally similar to adverse reactions in the overall adult population.
 
-Information describing two additional clinical studies in which efficacy was not demonstrated in patients ages 7 to 17 years is approved for Eli Lilly and Company, Inc.'s CYMBALTA® (duloxetine) delayed-release capsules.
-Other pediatric use information for patients ages 7 to 17 years is approved for Eli Lilly and Company, Inc.'s CYMBALTA® (duloxetine) delayed-release capsules.
-However, due to Eli Lilly and Company, Inc.'s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
+Children and Adolescents
 
-## 6.2 Adverse Reactions Reported as Reasons for Discontinuation of Treatment in Adult Placebo-Controlled Trials
+The data described below reflect exposure to duloxetine in pediatric, 10-week, placebo-controlled trials for MDD (N=341) and GAD (N=135).
+The population studied (N=476) was 7 to 17 years of age with 42.4% children age 7 to 11 years of age, 50.6% female, and 68.6% white.
+Patients received 30 to 120 mg per day during placebo-controlled acute treatment studies.
+Additional data come from the overall total of 822 pediatric patients (age 7 to 17 years of age) with 41.7% children age 7 to 11 years of age and 51.8% female exposed to duloxetine in MDD and GAD clinical trials up to 36-weeks in length, in which most patients received 30 to 120 mg per day.
+
+Adverse Reactions Reported as Reasons for Discontinuation of Treatment in Adult Placebo-Controlled Trials
 
 Major Depressive Disorder
 
@@ -62,7 +66,7 @@ Chronic Low Back Pain
 Approximately 16.5% (99/600) of the patients who received duloxetine in 13-week, placebo-controlled trials for CLBP discontinued treatment due to an adverse reaction, compared with 6.3% (28/441) for placebo.
 Common adverse reactions reported as a reason for discontinuation and considered to be drug-related (as defined above) included nausea (duloxetine 3.0%, placebo 0.7%), and somnolence (duloxetine 1.0%, placebo 0.0%).
 
-## 6.3 Most Common Adult Adverse Reactions
+Most Common Adult Adverse Reactions
 
 Pooled Trials for all Approved Indications
 
@@ -80,7 +84,7 @@ Chronic Low Back Pain
 
 The most commonly observed adverse reactions in duloxetine-treated patients (as defined above) were nausea, dry mouth, insomnia, somnolence, constipation, dizziness, and fatigue.
 
-## 6.4 Adverse Reactions Occurring at an Incidence of 5% or More Among Duloxetine-Treated Patients in Adult Placebo- Controlled Trials
+Adverse Reactions Occurring at an Incidence of 5% or More Among Duloxetine-Treated Patients in Adult Placebo-Controlled Trials
 
 Table 2 gives the incidence of treatment-emergent adverse reactions in placebo-controlled trials for approved indications that occurred in 5% or more of patients treated with duloxetine and with an incidence greater than placebo.
 
@@ -107,7 +111,7 @@ Table 2: Treatment-Emergent Adverse Reactions: Incidence of 5% or More and Great
 | eAlso includes hypersomnia and sedation. |  |  |
 | fAlso includes abdominal discomfort, abdominal pain lower, abdominal pain upper, abdominal tenderness, and gastrointestinal pain. |  |  |
 
-## 6.5 Adverse Reactions Occurring at an Incidence of 2% or More Among Duloxetine-Treated Patients in Adult Placebo-Controlled Trials
+Adverse Reactions Occurring at an Incidence of 2% or More Among Duloxetine-Treated Patients in Adult Placebo-Controlled Trials
 
 Pooled MDD and GAD Trials
 
@@ -151,15 +155,16 @@ Table 3: Treatment-Emergent Adverse Reactions: Incidence of 2% or More and Great
 | Yawning | 2 | <1 |
 | Skin and Subcutaneous Tissue Disorders |  |  |
 | Hyperhidrosis | 6 | 2 |
-| aThe inclusion of an event in the table is determined based on the percentages before rounding; however, the percentages displayed in the table are rounded to the nearest integer. |  |  |
+| a The inclusion of an event in the table is determined based on the percentages before rounding; however, the percentages displayed in the table are rounded to the nearest integer. |  |  |
+| b For GAD, there were no adverse events that were significantly different between treatments in adults ≥65 years that were also not significant in the adults <65 years. |  |  |
 | c Events for which there was a significant dose-dependent relationship in fixed-dose studies, excluding three MDD studies which did not have a placebo lead-in period or dose titration. |  |  |
-| d Also includes abdominal pain upper, abdominal pain lower, abdominal tenderness, abdominal discomfort, and gastrointestinal pain |  |  |
-| e Also includes asthenia |  |  |
-| f Also includes hypersomnia and sedation |  |  |
-| g Also includes initial insomnia, middle insomnia, and early morning awakening |  |  |
-| h Also includes feeling jittery, nervousness, restlessness, tension and psychomotor hyperactivity |  |  |
-| i Also includes loss of libido |  |  |
-| j Also includes anorgasmia |  |  |
+| d Also includes abdominal pain upper, abdominal pain lower, abdominal tenderness, abdominal discomfort, and gastrointestinal pain. |  |  |
+| e Also includes asthenia. |  |  |
+| f Also includes hypersomnia and sedation. |  |  |
+| g Also includes initial insomnia, middle insomnia, and early morning awakening. |  |  |
+| h Also includes feeling jittery, nervousness, restlessness, tension and psychomotor hyperactivity. |  |  |
+| i Also includes loss of libido. |  |  |
+| j Also includes anorgasmia. |  |  |
 
 DPNP, another indication, OA, and CLBP
 
@@ -221,7 +226,7 @@ Table 4: Treatment-Emergent Adverse Reactions: Incidence of 2% or More and Great
 | k Also includes hot flush |  |  |
 | l Also includes blood pressure diastolic increased, blood pressure systolic increased, diastolic hypertension, essential hypertension, hypertension, hypertensive crisis, labile hypertension, orthostatic hypertension, secondary hypertension, and systolic hypertension |  |  |
 
-## 6.6 Effects on Male and Female Sexual Function in Adults
+Effects on Male and Female Sexual Function in Adults
 
 Changes in sexual desire, sexual performance and sexual satisfaction often occur as manifestations of psychiatric disorders or diabetes, but they may also be a consequence of pharmacologic treatment.
 Because adverse sexual reactions are presumed to be voluntarily underreported, the Arizona Sexual Experience Scale (ASEX), a validated measure designed to identify sexual side effects, was used prospectively in 4 MDD placebo-controlled trials.
@@ -247,25 +252,25 @@ Table 5: Mean Change in ASEX Scores by Gender in MDD Placebo-Controlled Trials
 | b p=0.013 versus placebo |  |  |  |  |
 | c p<0.001 versus placebo |  |  |  |  |
 
-## 6.7 Vital Sign Changes in Adults
+Vital Sign Changes in Adults
 
 In placebo-controlled clinical trials across approved indications for change from baseline to endpoint, duloxetine treatment was associated with mean increases of 0.23 mm Hg in systolic blood pressure and 0.73 mm Hg in diastolic blood pressure compared to mean decreases of 1.09 mm Hg systolic and 0.55 mm Hg diastolic in placebo-treated patients.
 There was no significant difference in the frequency of sustained (3 consecutive visits) elevated blood pressure [see WARNINGS AND PRECAUTIONS (5.3, 5.11)].
 
 Duloxetine treatment, for up to 26 weeks in placebo-controlled trials across approved indications, typically caused a small increase in heart rate for change from baseline to endpoint compared to placebo of up to 1.37 beats per minute (increase of 1.20 beats per minute in duloxetine-treated patients, decrease of 0.17 beats per minute in placebo-treated patients).
 
-## 6.8 Laboratory Changes in Adults
+Laboratory Changes in Adults
 
 Duloxetine treatment in placebo-controlled clinical trials across approved indications, was associated with small mean increases from baseline to endpoint in ALT, AST, CPK, and alkaline phosphatase; infrequent, modest, transient, abnormal values were observed for these analytes in duloxetine-treated patients when compared with placebo-treated patients [see WARNINGS AND PRECAUTIONS (5.2)].
 High bicarbonate, cholesterol, and abnormal (high or low) potassium, were observed more frequently in duloxetine treated patients compared to placebo.
 
-## 6.9 Electrocardiogram Changes in Adults
+Electrocardiogram Changes in Adults
 
 The effect of duloxetine 160 mg and 200 mg administered twice daily to steady state was evaluated in a randomized, double-blinded, two-way crossover study in 117 healthy female subjects.
 No QT interval prolongation was detected.
 Duloxetine appears to be associated with concentration-dependent but not clinically meaningful QT shortening.
 
-## 6.10 Other Adverse Reactions Observed During the Premarketing and Postmarketing Clinical Trial Evaluation of Duloxetine in Adults
+Other Adverse Reactions Observed During the Premarketing and Postmarketing Clinical Trial Evaluation of Duloxetine in Adults
 
 Following is a list of treatment-emergent adverse reactions reported by patients treated with duloxetine in clinical trials.
 In clinical trials of all indications, 34,756 patients were treated with duloxetine.
@@ -342,13 +347,13 @@ Vascular Disorders
 
 Frequent: hot flush; Infrequent: flushing, orthostatic hypotension, and peripheral coldness.
 
-## 6.11 Adverse Reactions Observed in Children and Adolescent Placebo-Controlled Clinical Trials
+Adverse Reactions Observed in Children and Adolescent Placebo-Controlled Clinical Trials
 
 The adverse drug reaction profile observed in pediatric clinical trials (children and adolescents) was consistent with the adverse drug reaction profile observed in adult clinical trials.
 The specific adverse drug reactions observed in adult patients can be expected to be observed in pediatric patients (children and adolescents) [see ADVERSE REACTIONS (6.5)].
 The most common (≥5% and twice placebo) adverse reactions observed in pediatric clinical trials include: nausea, diarrhea, decreased weight, and dizziness.
 
-Table 6 provides the incidence of treatment-emergent adverse reactions in pediatric placebo-controlled trials that occurred in greater than 2% of patients treated with duloxetine and with an incidence greater than placebo.
+Table 6 provides the incidence of treatment-emergent adverse reactions in MDD and GAD pediatric placebo-controlled trials that occurred in greater than 2% of patients treated with duloxetine and with an incidence greater than placebo.
 
 Table 6: Treatment-Emergent Adverse Reactions: Incidence of 2% or More and Greater than Placebo in three 10-week Pediatric Placebo-Controlled Trialsa
 
@@ -377,15 +382,14 @@ The most commonly reported symptoms following discontinuation of duloxetine in p
 Growth (Height and Weight)
 
 Decreased appetite and weight loss have been observed in association with the use of SSRIs and SNRIs.
+Pediatric patients treated with duloxetine in clinical trials experienced a 0.1kg mean decrease in weight at 10 weeks, compared with a mean weight gain of approximately 0.9 kg in placebo-treated patients.
+The proportion of patients who experienced a clinically significant decrease in weight (≥3.5%) was greater in the duloxetine group than in the placebo group (14% and 6%, respectively).
+Subsequently, over the 4- to 6-month uncontrolled extension periods, duloxetine -treated patients on average trended toward recovery to their expected baseline weight percentile based on population data from age- and sex-matched peers.
 In studies up to 9 months, duloxetine-treated pediatric patients experienced an increase in height of 1.7 cm on average (2.2 cm increase in children [7 to 11 years of age] and 1.3 cm increase in adolescents [12 to 17 years of age]).
 While height increase was observed during these studies, a mean decrease of 1% in height percentile was observed (decrease of 2% in children [7 to 11 years of age] and increase of 0.3% in adolescents [12 to 17 years of age]).
 Weight and height should be monitored regularly in children and adolescents treated with duloxetine.
 
-Information describing two additional clinical studies in which efficacy was not demonstrated in patients ages 7 to 17 years is approved for Eli Lilly and Company, Inc.'s CYMBALTA® (duloxetine) delayed-release capsules.
-Other pediatric use information for patients ages 7 to 17 years is approved for Eli Lilly and Company, Inc.'s CYMBALTA® (duloxetine) delayed-release capsules.
-However, due to Eli Lilly and Company, Inc.'s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
-
-## 6.12 Postmarketing Spontaneous Reports
+## 6.2 Postmarketing Spontaneous Reports
 
 The following adverse reactions have been identified during post approval use of duloxetine.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.

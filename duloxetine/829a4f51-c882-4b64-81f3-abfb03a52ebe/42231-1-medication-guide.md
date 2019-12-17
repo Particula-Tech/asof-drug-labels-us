@@ -55,7 +55,7 @@ What else do I need to know about antidepressant medicines?
   Keep a list of all medicines to show your healthcare provider.
   Do not start new medicines without first checking with your healthcare provider.
 
-What are duloxetine delayed-release capsules?
+What is duloxetine delayed-release capsule?
 
 Duloxetine delayed-release capsule is a prescription medicine used to treat a certain type of depression called Major Depressive Disorder (MDD).
 Duloxetine delayed-release capsule belongs to a class of medicines known as SNRIs (or serotonin-norepinephrine reuptake inhibitors).
@@ -92,10 +92,11 @@ Before starting duloxetine delayed-release capsules, tell your healthcare provid
 - have delayed stomach emptying
 - have or had bleeding problems
 - are pregnant or plan to become pregnant.
-  It is not known if duloxetine delayed-release capsules will harm your unborn baby.
-  Talk to your healthcare provider about the benefits and risks of treating depression or other conditions with duloxetine delayed-release capsules during pregnancy.
+  Duloxetine delayed-release capsules may harm your unborn baby.
+  Talk to your healthcare provider about the risk to your unborn baby if you take duloxetine delayed-release capsules during pregnancy.
+- Tell your healthcare provider right away if you become pregnant or think you are pregnant during treatment with duloxetine delayed-release capsules.
 - are breastfeeding or plan to breastfeed.
-  Duloxetine can pass into your breast milk.
+  Duloxetine passes into your breast milk and may harm your baby.
   Talk to your healthcare provider about the best way to feed your baby while taking duloxetine delayed-release capsules.
 
 Tell your healthcare provider about all the medicines that you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements.
@@ -265,7 +266,7 @@ You may report side effects to 1-800-FDA-1088.
 
 How should I store duloxetine delayed-release capsules?
 
-Store at 25°C (77°F); excursions permitted to 15° to 30°C (59° to 86°F) [see USP Controlled Room Temperature].
+Store duloxetine delayed-release capsules at room temperature between 68°F to 77°F (20°C to 25°C).
 
 Keep duloxetine delayed-release capsules and all medicines out of the reach of children.
 
@@ -311,4 +312,4 @@ Goa 403722
 
 INDIA
 
-Revised: February 02, 2017 ID#: 250691
+Revised: January 2020 ID#: 262907

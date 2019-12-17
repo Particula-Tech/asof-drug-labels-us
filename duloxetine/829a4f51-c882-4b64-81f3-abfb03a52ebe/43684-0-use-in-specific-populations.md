@@ -2,70 +2,104 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Category C
-
 Risk Summary
 
-There are no adequate and well-controlled studies of duloxetine administration in pregnant women.
-In animal studies with duloxetine, fetal weights were decreased but there was no evidence of teratogenicity in pregnant rats and rabbits at oral doses administered during the period of organogenesis up to 4 and 7 times the maximum recommended human dose (MRHD) of 120 mg/day, respectively.
-When duloxetine was administered orally to pregnant rats throughout gestation and lactation, pup weights at birth and pup survival to 1 day postpartum were decreased at a dose 2 times the MRHD.
+Data from a postmarketing retrospective cohort study indicate that use of duloxetine in the month before delivery may be associated with an increased risk of postpartum hemorrhage.
+Data from published literature and from a postmarketing retrospective cohort study have not identified a clear drug-associated risk of major birth defects or other adverse developmental outcomes (see Data).
+There are risks associated with untreated depression and fibromyalgia in pregnancy, and with exposure to SNRIs and SSRIs, including duloxetine, during pregnancy (see Clinical Considerations).
+
+In rats and rabbits treated with duloxetine during the period of organogenesis, fetal weights were decreased but there was no evidence of developmental effects at doses up to 3 and 6 times, respectively, the maximum recommended human dose (MRHD) of 120 mg/day given to adolescents on a mg/m2 basis.
+When duloxetine was administered orally to pregnant rats throughout gestation and lactation, pup weights at birth and pup survival to 1 day postpartum were decreased at a dose 2 times the MRHD given to adolescents on a mg/m2 basis.
 At this dose, pup behaviors consistent with increased reactivity, such as increased startle response to noise and decreased habituation of locomotor activity were observed.
 Post-weaning growth was not adversely affected.
-Duloxetine should be used in pregnancy only if the potential benefit justifies the potential risk to the fetus.
+
+The estimated background risk of major birth defects and miscarriage for the indicated population is unknown.
+All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively.
 
 Clinical Considerations
 
+Disease-associated Maternal and/or Embryo/Fetal Risk:
+
+Women who discontinue antidepressants during pregnancy are more likely to experience a relapse of major depression than women who continue antidepressants.
+This finding is from a prospective, longitudinal study that followed 201 pregnant women with a history of major depressive disorder who were euthymic and taking antidepressants at the beginning of pregnancy.
+Consider the risk of untreated depression when discontinuing or changing treatment with antidepressant medication during pregnancy and postpartum.
+
+Pregnant women with fibromyalgia are at increased risk for adverse maternal and infant outcomes including preterm premature rupture of membranes, preterm birth, small for gestational age, intrauterine growth restriction, placental disruption, and venous thrombosis.
+It is not known if these adverse maternal and fetal outcomes are a direct result of fibromyalgia or other comorbid factors.
+
+Maternal Adverse Reactions:
+
+Use of duloxetine in the month before delivery may be associated with an increased risk of postpartum hemorrhage [see WARNINGS AND PRECAUTIONS (5.5)].
+
 Fetal/Neonatal Adverse Reaction:
 
-Neonates exposed during pregnancy to serotonin - norepinephrine reuptake inhibitors (SNRIs) or selective serotonin reuptake inhibitors (SSRIs) have developed complications requiring prolonged hospitalization, respiratory support, and tube feeding which can arise immediately upon delivery.
+Neonates exposed to duloxetine and other SNRIs or SSRIs late in the third trimester have developed complications requiring prolonged hospitalization, respiratory support, and tube feeding.
+Such complications can arise immediately upon delivery.
 Reported clinical findings have included respiratory distress, cyanosis, apnea, seizures, temperature instability, feeding difficulty, vomiting, hypoglycemia, hypotonia, hypertonia, hyperreflexia, tremor, jitteriness, irritability, and constant crying.
-These features are consistent with either a direct toxic effect of the SNRIs or SSRIs, or possibly, a drug discontinuation syndrome.
+These findings are consistent with either a direct toxic effect of the SNRIs or SSRIs, or possibly, a drug discontinuation syndrome.
 It should be noted that, in some cases, the clinical picture is consistent with serotonin syndrome [see WARNINGS AND PRECAUTIONS (5.4)].
 
 Data
+
+Human Data:
+
+Data from a postmarketing retrospective claims-based cohort study found an increased risk for postpartum hemorrhage among 955 pregnant women exposed to duloxetine in the last month of pregnancy compared to 4,128,460 unexposed pregnant women (adjusted relative risk: 1.53; 95% CI: 1.08 to 2.18).
+The same study did not find a clinically meaningful increase in the risk for major birth defects in the comparison of 2532 women exposed to duloxetine in the first trimester of pregnancy to 1,284,827 unexposed women after adjusting for several confounders.
+Methodologic limitations include possible residual confounding, misclassification of exposure and outcomes, lack of direct measures of disease severity, and lack of information about alcohol use, nutrition, and over-the-counter medication exposures.
 
 Animal Data:
 
 In animal reproduction studies, duloxetine has been shown to have adverse effects on embryo/fetal and postnatal development.
 
-When duloxetine was administered orally to pregnant rats and rabbits during the period of organogenesis, there was no evidence of teratogenicity at doses up to 45 mg/kg/day (4 times the maximum recommended human dose (MRHD) of 120 mg/day on a mg/m2 basis, in rat; 7 times the MRHD in rabbit).
-However, fetal weights were decreased at this dose, with a no-effect dose of 10 mg/kg/day approximately equal to the MRHD in rats; 2 times the MRHD in rabbits).
+When duloxetine was administered orally to pregnant rats and rabbits during the period of organogenesis, there was no evidence of malformations or developmental variations at doses up to 45 mg/kg/day [3 and 6 times, respectively, the MRHD of 120 mg/day given to adolescents on a mg/m2 basis].
+However, fetal weights were decreased at this dose, with a no-effect dose of 10 mg/kg/day (approximately equal to the MRHD in rats and 2 times the MRHD in rabbits).
 
-When duloxetine was administered orally to pregnant rats throughout gestation and lactation, the survival of pups to 1 day postpartum and pup body weights at birth and during the lactation period were decreased at a dose of 30 mg/kg/day (2 times the MRHD); the no-effect dose was 10 mg/kg/day.
+When duloxetine was administered orally to pregnant rats throughout gestation and lactation, the survival of pups to 1 day postpartum and pup body weights at birth and during the lactation period were decreased at a dose of 30 mg/kg/day (2 times the MRHD given to adolescents on a mg/m2 basis); the no-effect dose was 10 mg/kg/day.
 Furthermore, behaviors consistent with increased reactivity, such as increased startle response to noise and decreased habituation of locomotor activity, were observed in pups following maternal exposure to 30 mg/kg/day.
 Post-weaning growth and reproductive performance of the progeny were not affected adversely by maternal duloxetine treatment.
 
-## 8.3 Nursing Mothers
+## 8.3 Lactation
 
 Risk Summary
 
-Duloxetine is present in human milk.
-In a published study, lactating women who were weaning their infants were given duloxetine.
-At steady state, the concentration of duloxetine in breast milk was approximately 25% that of maternal plasma.
-The estimated daily infant dose was approximately 0.14% of the maternal dose.
-The developmental and health benefits of human milk feeding should be considered along with the mother's clinical need for duloxetine and any potential adverse effects on the milk-fed child from the drug or from the underlying maternal condition.
-Exercise caution when duloxetine is administered to a nursing woman.
+Data from published literature report the presence of duloxetine in human milk (see Data).
+There are reports of sedation, poor feeding, and poor weight gain in infants exposed to duloxetine through breast milk (see Clinical Considerations).
+There are no data on the effect of duloxetine on milk production.
+
+The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for duloxetine and any potential adverse effects on the breastfed child from duloxetine or from the underlying maternal condition.
+
+Clinical Considerations
+
+Infants exposed to duloxetine should be monitored for sedation, poor feeding and poor weight gain.
 
 Data
 
-The disposition of duloxetine was studied in 6 lactating women who were at least 12 weeks postpartum and had elected to wean their infants.
+Disposition of duloxetine was studied in 6 lactating women who were at least 12 weeks postpartum and had elected to wean their infants.
 The women were given 40 mg of duloxetine twice daily for 3.5 days.
 The peak concentration measured in breast milk occurred at a median of 3 hours after the dose.
-The amount of duloxetine in breast milk was approximately 7 mcg/day while on that dose; the estimated daily infant dose was approximately 2 mcg/kg/day.
+The amount of duloxetine in breast milk was approximately 7 mcg/day while on that dose; the estimated daily infant dose was approximately 2 mcg/kg/day, which is less than 1% of the maternal dose.
 The presence of duloxetine metabolites in breast milk was not examined.
 
 ## 8.4 Pediatric Use
 
+Generalized Anxiety Disorder
+
+In pediatric patients aged 7 to 17 years, efficacy was demonstrated in one 10 week, placebo-controlled trial.
+The study included 272 pediatric patients with GAD of which 47% were 7 to 11 years of age. duloxetine demonstrated superiority over placebo as measured by greater improvement in the Pediatric Anxiety Rating Scale (PARS) for GAD severity score [see CLINICAL STUDIES (14.2)].
 The safety and effectiveness in pediatric patients less than 7 years of age have not been established.
 
-Safety and effectiveness of duloxetine have not been established in pediatric patients less than 18 years of age with MDD.
+Major Depressive Disorder
 
+Efficacy was not demonstrated in two 10-week, placebo-controlled trials with 800 pediatric patients with MDD, age 7 to 17.
+Neither duloxetine nor an active control (indicated for treatment of pediatric depression) was superior to placebo.
+The safety and effectiveness in pediatric patients less than 7 years of age have not been established.
+
+The most frequently observed adverse reactions in the clinical trials included nausea, headache, decreased weight, and abdominal pain.
 Decreased appetite and weight loss have been observed in association with the use of SSRIs and SNRIs.
 Perform regular monitoring of weight and growth in children and adolescents treated with an SNRI such as duloxetine [see ADVERSE REACTIONS (6.11)].
 
-Information describing two additional clinical studies in which efficacy was not demonstrated in patients ages 7 to 17 years is approved for Eli Lilly and Company, Inc.'s CYMBALTA® (duloxetine) delayed-release capsules.
-Other pediatric use information for patients ages 7 to 17 years is approved for Eli Lilly and Company, Inc.'s CYMBALTA® (duloxetine) delayed-release capsules.
-However, due to Eli Lilly and Company, Inc.'s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
+Use of duloxetine in a child or adolescent must balance the potential risks with the clinical need [see BOXED WARNING and WARNINGS AND PRECAUTIONS (5.1)].
 
 Animal Data
 
