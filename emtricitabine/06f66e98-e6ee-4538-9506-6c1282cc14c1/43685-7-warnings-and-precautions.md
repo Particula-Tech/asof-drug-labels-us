@@ -47,7 +47,7 @@ Renal impairment, including cases of acute renal failure and Fanconi syndrome (r
 In clinical trials of FTC+TAF with cobicistat (COBI) plus elvitegravir (EVG) in HIV-1 infected patients there have been no cases of Fanconi syndrome or Proximal Renal Tubulopathy (PRT).
 In clinical trials of FTC+TAF with EVG+COBI in treatment-naïve subjects and in virally suppressed subjects switched to FTC+TAF with EVG+COBI with estimated creatinine clearance greater than 50 mL per minute, renal serious adverse events or discontinuations due to renal adverse reactions were encountered in less than 1% of participants treated with FTC+TAF with EVG+COBI.
 In a study of virally suppressed subjects with baseline estimated creatinine clearance between 30 and 69 mL per minute treated with FTC+TAF with EVG+COBI for a median duration of 43 weeks, FTC+TAF with EVG+COBI was permanently discontinued due to worsening renal function in two of 80 (3%) subjects with a baseline estimated creatinine clearance between 30 and 50 mL per minute [see Adverse Reactions (6.1)].
-DESCOVY is not recommended in individuals with estimated creatinine clearance below 30 mL per minute because data in this population are insufficient.
+DESCOVY is not recommended in individuals with estimated creatinine clearance of 15 to below 30 mL per minute, or in individuals with estimated creatinine clearance below 15 mL per minute who are not receiving chronic hemodialysis.
 
 Individuals taking tenofovir prodrugs who have impaired renal function and those taking nephrotoxic agents including non-steroidal anti-inflammatory drugs are at increased risk of developing renal-related adverse reactions.
 

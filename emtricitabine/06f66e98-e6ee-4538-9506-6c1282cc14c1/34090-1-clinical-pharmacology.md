@@ -89,16 +89,16 @@ Based on population pharmacokinetic analyses, there are no clinically meaningful
 
 Patients with Renal Impairment
 
-The pharmacokinetics of FTC+TAF combined with EVG+COBI in HIV-infected subjects with renal impairment (eGFR 30 to 69 mL per minute by Cockcroft-Gault method) were evaluated in a subset of virologically-suppressed subjects in an open-label trial (Table 10).
+The pharmacokinetics of FTC+TAF combined with EVG+COBI in HIV-1 infected subjects with renal impairment (eGFR 30 to 69 mL per minute by Cockcroft-Gault method), and in HIV-1 infected subjects with ESRD (eGFR less than 15 mL per minute by Cockcroft-Gault method) receiving chronic hemodialysis were evaluated in subsets of virologically-suppressed subjects in open-label trials.
+The pharmacokinetics of TAF were similar among healthy subjects, subjects with mild or moderate renal impairment, and subjects with ESRD receiving chronic hemodialysis; increases in FTC and TFV exposures in subjects with renal impairment were not considered clinically relevant (Table 10).
 
-Table 10 Pharmacokinetics of the Components of DESCOVY and a Metabolite of TAF (Tenofovir) in HIV-Infected Adults with Renal Impairment Compared to Subjects with Normal Renal FunctionTrial in HIV-infected adults with renal impairment treated with FTC+TAF with EVG+COBI.
+Table 10 Pharmacokinetics of the Components of DESCOVY and a Metabolite of TAF (Tenofovir) in HIV-Infected Adults with Renal Impairment Compared to Subjects with Normal Renal Function
 
-| Creatinine Clearance | ≥90 mL per minute (N=18)From a phase 2 trial in HIV-infected adults with normal renal function treated with FTC+TAF with EVG+COBI. | 60–89 mL per minute (N=11)These subjects had an eGFR ranging from 60 to 69 mL per minute. | 30–59 mL per minute (N=18) |
-| --- | --- | --- | --- |
-|  | AUCtau (microgram∙hour per mL) Mean (CV%) |  |  |
-| Emtricitabine | 11.4 (11.9) | 17.6 (18.2) | 23.0 (23.6) |
-| Tenofovir AlafenamideAUClast | 0.23 (47.2) | 0.24 (45.6) | 0.26 (58.8) |
-| Tenofovir | 0.32 (14.9) | 0.46 (31.5) | 0.61 (28.4) |
+| Estimated Creatinine ClearanceBy Cockcroft-Gault method. | ≥90 mL per minute (N=18)From a phase 2 trial in HIV-infected adults with normal renal function treated with FTC+TAF with EVG+COBI. | 60–89 mL per minute (N=11)These subjects had an eGFR ranging from 60 to 69 mL per minute. | 30–59 mL per minute (N=18)From a phase 3 trial in HIV-1 infected adults with renal impairment treated with FTC+TAF with EVG+COBI. | <15 mL per minute (N=12)From a phase 3 trial in HIV-1 infected adults with ESRD receiving chronic hemodialysis treated with FTC+TAF with EVG+COBI; PK assessed prior to hemodialysis following 3 consecutive daily doses of FTC+TAF with EVG+COBI. |
+| --- | --- | --- | --- | --- |
+|  | AUCtau (microgram∙hour per mL) Mean (CV%) |  |  |  |
+| Emtricitabine | 11.4 (11.9) | 17.6 (18.2) | 23.0 (23.6) | 62.9 (48.0)N = 11. |
+| Tenofovir | 0.32 (14.9) | 0.46 (31.5) | 0.61 (28.4) | 8.72 (39.4)N = 10. |
 
 Patients with Hepatic Impairment
 
@@ -166,12 +166,12 @@ Tenofovir diphosphate is a weak inhibitor of mammalian DNA polymerases that incl
 Antiviral Activity in Cell Culture
 
 Emtricitabine: The antiviral activity of FTC against laboratory and clinical isolates of HIV-1 was assessed in T lymphoblastoid cell lines, the MAGI-CCR5 cell line, and primary peripheral blood mononuclear cells.
-The EC50 values for FTC were in the range of 0.0013–0.64 micromolar.
-FTC displayed antiviral activity in cell culture against HIV-1 clades A, B, C, D, E, F, and G (EC50 values ranged from 0.007–0.075 micromolar) and showed strain specific activity against HIV-2 (EC50 values ranged from 0.007–1.5 micromolar).
+The EC50 values for FTC were in the range of 1.3–640 nM.
+FTC displayed antiviral activity in cell culture against HIV-1 clades A, B, C, D, E, F, and G (EC50 values ranged from 7–75 nM) and showed strain specific activity against HIV-2 (EC50 values ranged from 7–1,500 nM).
 
 In a study of FTC with a broad panel of representatives from the major classes of approved anti-HIV agents (NRTIs, non-nucleoside reverse transcriptase inhibitors [NNRTIs], integrase strand transfer inhibitors [INSTIs], and PIs) no antagonism was observed for these combinations.
 
-Tenofovir Alafenamide: The antiviral activity of TAF against laboratory and clinical isolates of HIV-1 subtype B was assessed in lymphoblastoid cell lines, PBMCs, primary monocyte/macrophage cells and CD4-T lymphocytes.
+Tenofovir Alafenamide: The antiviral activity of TAF against laboratory and clinical isolates of HIV-1 subtype B was assessed in lymphoblastoid cell lines, PBMCs, primary monocyte/macrophage cells and CD4+-T lymphocytes.
 The EC50 values for TAF ranged from 2.0 to 14.7 nM.
 
 TAF displayed antiviral activity in cell culture against all HIV-1 groups (M, N, O), including sub-types A, B, C, D, E, F, and G (EC50 values ranged from 0.10 to 12.0 nM) and strain specific activity against HIV-2 (EC50 values ranged from 0.91 to 2.63 nM).

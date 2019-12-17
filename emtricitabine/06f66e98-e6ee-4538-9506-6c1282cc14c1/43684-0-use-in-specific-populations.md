@@ -99,8 +99,12 @@ No differences in safety or efficacy have been observed between elderly subjects
 
 ## 8.6 Renal Impairment
 
-DESCOVY is not recommended in individuals with severe renal impairment (estimated creatinine clearance below 30 mL per minute).
-No dosage adjustment of DESCOVY is recommended in individuals with estimated creatinine clearance greater than or equal to 30 mL per minute [see Dosage and Administration (2.5) and Clinical Studies (14.2)].
+No dosage adjustment of DESCOVY is recommended in individuals with estimated creatinine clearance greater than or equal to 30 mL per minute, or in adults with ESRD (estimated creatinine clearance below 15 mL per minute) who are receiving chronic hemodialysis.
+On days of hemodialysis, administer the daily dose of DESCOVY after completion of hemodialysis treatment.
+
+Safety and effectiveness of DESCOVY coadministered with an HIV-1 protease inhibitor that is administered with either ritonavir or cobicistat have not been established in patients with ESRD [see Dosage and Administration (2.3)].
+
+DESCOVY is not recommended in individuals with severe renal impairment (estimated creatinine clearance of 15 to below 30 mL per minute), or in individuals with ESRD who are not receiving chronic hemodialysis, as the safety of DESCOVY has not been established in these populations [see Dosage and Administration (2.5) and Clinical Studies (14.2)].
 
 ## 8.7 Hepatic Impairment
 

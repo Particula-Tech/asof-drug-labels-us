@@ -38,6 +38,12 @@ In 799 virologically-suppressed TDF-treated adult subjects that switched to FTC+
 BMD declines of 5% or greater at the lumbar spine were experienced by 1% of FTC+TAF with EVG+COBI subjects.
 BMD declines of 7% or greater at the femoral neck were experienced by 1% of FTC+TAF with EVG+COBI subjects.
 
+Adverse Reactions in a Clinical Trial of FTC+TAF with EVG+COBI in Virologically-Suppressed Adults with End Stage Renal Disease (ESRD) Receiving Chronic Hemodialysis
+
+In a 48-week trial of virologically-suppressed HIV-1 infected adult subjects with end stage renal disease (ESRD) (estimated creatinine clearance of less than 15 mL/min) on chronic hemodialysis treated with FTC+TAF with EVG+COBI (N=55), the most commonly reported adverse reaction (adverse event assessed as causally related by investigator and all grades) was nausea (7%).
+Serious adverse events were reported in 53% of subjects and the most common serious adverse events were pneumonia (13%), fluid overload (7%), hyperkalemia (7%) and osteomyelitis (7%).
+Overall 5% of subjects permanently discontinued treatment due to an adverse event.
+
 Adverse Reactions in Clinical Trials in Pediatric Subjects with HIV-1 Infection
 
 In an open-label trial of antiretroviral treatment-naïve HIV-1 infected pediatric subjects between the ages of 12 to less than 18 years weighing at least 35 kg through 48 weeks (N=50; Cohort 1) and virologically-suppressed subjects between the ages of 6 to less than 12 years weighing at least 25 kg (N=23; Cohort 2) who received FTC+TAF with EVG+COBI through 24 weeks, with the exception of a decrease in the mean CD4+ cell count observed in cohort 2, the safety of this combination was similar to that of adults.
@@ -129,8 +135,8 @@ Table 4 Fasting Lipid Values, Mean Change from Baseline, Reported in HIV-1 Uninf
 
 ## 6.2 Postmarketing Experience
 
-The following reactions have been identified during postapproval use of products containing TAF.
-Because these events are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+The following adverse reactions have been identified during post-approval use of products containing TAF.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 Skin and Subcutaneous Tissue Disorders
 
