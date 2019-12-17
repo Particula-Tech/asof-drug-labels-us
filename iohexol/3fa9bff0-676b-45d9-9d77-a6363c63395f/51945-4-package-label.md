@@ -11,9 +11,6 @@ NOVAPLUS®
 500 mL
 
 For Injection or Oral Use.
-
-Multi-Dose Bottle.
-
 Sterile Aqueous Solution
 
 DO NOT USE IF TAMPER-EVIDENT RING IS BROKEN OR MISSING
@@ -26,8 +23,6 @@ NDC 0407-1414-88
 
 Omnipaque™ (iohexol) Injection
 
-NOT FOR INTRATHECAL USE
-
 NOVAPLUS®
 
 350 mg Iodine/mL
@@ -36,9 +31,7 @@ NOVAPLUS®
 
 For Injection or Oral Use.
 
-Multi-Dose Bottle.
-
-Sterile Aqueous Solution
+Sterile Aqueous Solution Not for Intrathecal Use
 
 DO NOT USE IF TAMPER-EVIDENT RING IS BROKEN OR MISSING
 

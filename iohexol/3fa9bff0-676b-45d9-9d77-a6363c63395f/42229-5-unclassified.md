@@ -71,11 +71,14 @@ Good patient management should be exercised at all times to minimize the potenti
 
 NOVAPLUS ®
 
-Distributed by GE Healthcare Inc., Marlborough, MA 01752 U.S.A. Manufactured by GE Healthcare (Shanghai) Co., Ltd. Shanghai, China Product of Norwegian Origin.
+Distributed by GE Healthcare Inc., Marlborough, MA 01752 U.S.A.
+
+Product of Norwegian Origin.
 
 Omnipaque is a trademark of GE Healthcare or one of its subsidiaries.
 GE and the GE Monogram are trademarks of General Electric Company.
 NOVAPLUS is a registered trademark of Vizient, Inc.
 
-© 2017 General Electric Company - All rights reserved.
-OVH-5K-CHI Revised April 2017
+© 2019 General Electric Company - All rights reserved.
+
+Revised July 2019
