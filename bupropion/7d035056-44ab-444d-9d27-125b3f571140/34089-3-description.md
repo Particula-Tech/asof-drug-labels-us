@@ -4,7 +4,7 @@ Bupropion hydrochloride tablets, USP an antidepressant of the aminoketone class,
 Its structure closely resembles that of diethylpropion; it is related to phenylethylamines.
 It is designated as (±)-1-(3-chlorophenyl)-2-[(1,1-dimethylethyl)amino]-1-propanone hydrochloride.
 The molecular weight is 276.21g/mol.
-The molecular formula is C13H18ClNO•HCl.
+The molecular formula is C 13H 18ClNO•HCl.
 Bupropion hydrochloride powder is white to off-white crystalline, and highly soluble in water.
 It has a bitter taste and produces the sensation of local anesthesia on the oral mucosa.
 The structural formula is:

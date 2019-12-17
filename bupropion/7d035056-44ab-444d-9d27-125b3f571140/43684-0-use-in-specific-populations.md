@@ -26,11 +26,11 @@ The NBDPS and United Healthcare database study did not find an association betwe
 
 For the findings of LVOTO and VSD, the studies were limited by the small number of exposed cases, inconsistent findings among studies, and the potential for chance findings from multiple comparisons in case control studies.
 
-Animal Data In studies conducted in rats and rabbits, bupropion was administered orally during the period of organogenesis at doses of up to 450 and 150 mg per kg per day, respectively (approximately 11 and 7 times the MRHD, respectively, on a mg per m2 basis).
-No clear evidence of teratogenic activity was found in either species; however, in rabbits, slightly increased incidences of fetal malformations and skeletal variations were observed at the lowest dose tested (25 mg per kg per day, approximately equal to the MRHD on a mg per m2 basis) and greater.
+Animal Data In studies conducted in rats and rabbits, bupropion was administered orally during the period of organogenesis at doses of up to 450 and 150 mg per kg per day, respectively (approximately 11 and 7 times the MRHD, respectively, on a mg per m 2 basis).
+No clear evidence of teratogenic activity was found in either species; however, in rabbits, slightly increased incidences of fetal malformations and skeletal variations were observed at the lowest dose tested (25 mg per kg per day, approximately equal to the MRHD on a mg per m 2 basis) and greater.
 Decreased fetal weights were observed at 50 mg per kg and greater.
 
-When rats were administered bupropion at oral doses of up to 300 mg per kg per day (approximately 7 times the MRHD on a mg per m2 basis) prior to mating and throughout pregnancy and lactation, there were no apparent adverse effects on offspring development.
+When rats were administered bupropion at oral doses of up to 300 mg per kg per day (approximately 7 times the MRHD on a mg per m 2 basis) prior to mating and throughout pregnancy and lactation, there were no apparent adverse effects on offspring development.
 
 ## 8.3 Nursing Mothers
 
