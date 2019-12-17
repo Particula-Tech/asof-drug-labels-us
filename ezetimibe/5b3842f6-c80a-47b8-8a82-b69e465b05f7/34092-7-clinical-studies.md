@@ -10,7 +10,7 @@ Monotherapy
 In two multicenter, double-blind, placebo-controlled, 12-week studies in 1719 patients with primary hyperlipidemia, ezetimibe significantly lowered total-C, LDL-C, Apo B, non-HDL-C, and TG, and increased HDL-C compared to placebo (see Table 6).
 Reduction in LDL-C was consistent across age, sex, and baseline LDL-C.
 
-1. TABLE 6: Response to Ezetimibe in Patients with Primary Hyperlipidemia (Mean* % Change from Untreated Baseline †)
+- TABLE 6: Response to Ezetimibe in Patients with Primary Hyperlipidemia (Mean* % Change from Untreated Baseline†)
 
 | Study 1‡ | Treatment Group | N | Total-C | LDL-C | Apo B | Non-HDL-C | TG* | HDL-C |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
