@@ -17,18 +17,18 @@ Important:
 
 Open the BELBUCA package:
 
-- Hold the foil package as shown below (see Figure C). Fold along the dotted line at the top of the foil package.
-- Keep folded and tear down or cut with scissors at the notch in the direction of the scissors on the dotted line (see Figure D). Tear all the way to the bottom.
+- Hold the foil package as shown below (see Figure A). Fold along the dotted line at the top of the foil package.
+- Keep folded and tear down or cut with scissors at the notch in the direction of the scissors on the dotted line (see Figure B). Tear all the way to the bottom.
   Be careful to avoid cutting and damaging the BELBUCA buccal film when using scissors.
-- Remove BELBUCA film from the foil package (see Figure E).
+- Remove BELBUCA film from the foil package (see Figure C).
 
 Use BELBUCA buccal film as follows:
 
 - 1.Use your tongue to wet the inside of your cheek or rinse your mouth with water to moisten the area in your mouth before you place BELBUCA.
-- 2.Hold the BELBUCA buccal film with clean, dry fingers with the yellow side facing up (see Figure F).
+- 2.Hold the BELBUCA buccal film with clean, dry fingers with the yellow side facing up (see Figure D).
 - 3.Using a finger, place the yellow side of the BELBUCA buccal film against the inside of your moistened cheek.
-  Press and hold the BELBUCA buccal film in place for 5 seconds and then take your finger away (see Figure G)
-- 4.The BELBUCA buccal film will stick to the inside of your cheek (see Figure H).
+  Press and hold the BELBUCA buccal film in place for 5 seconds and then take your finger away (see Figure E).
+- 4.The BELBUCA buccal film will stick to the inside of your cheek (see Figure F).
 - 5.Leave the BELBUCA buccal film in place until it has completely dissolved, usually within 30 minutes after you apply it.
   - Avoid eating food or drinking liquids until BELBUCA buccal film has dissolved.
   - Avoid touching or moving BELBUCA buccal film with your tongue or finger after it is in place.
@@ -44,4 +44,4 @@ BELBUCA is a trademark of BioDelivery Sciences International, Inc.
 
 ©2019 BioDelivery Sciences International, Inc. All rights reserved.
 
-BEL-001-MG-OCT2019
+BEL-002-MG-DEC2019

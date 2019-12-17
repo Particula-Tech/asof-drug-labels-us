@@ -69,17 +69,17 @@ Table 4: Adverse Events Reported in ≥ 5% of Patients during the Open-Label Tit
 
 The most common (≥ 5%), common (≥ 1% to < 5%), and least common (< 1%) adverse reactions reported by patients taking BELBUCA in the controlled and open-label clinical studies are presented below:
 
-Most common adverse reactions (≥ 5%): nausea, constipation, headache, vomiting, fatigue, dizziness, somnolence, diarrhea, dry mouth, and upper respiratory tract infection.
+Most common adverse reactions (≥ 5%): nausea, constipation, headache, vomiting, fatigue, dizziness, and somnolence.
 
 Common (≥ 1% to < 5%) adverse reactions (organized by MedDRA [Medical Dictionary for Regulatory Activities] System Organ Class):
 
 Blood and lymphatic system disorders: anemia
 
-Gastrointestinal disorders: abdominal pain
+Gastrointestinal disorders: abdominal pain, diarrhea, dry mouth
 
 General disorders and administration site conditions: peripheral edema, pyrexia, drug withdrawal syndrome
 
-Infections and infestations: urinary tract infection, nasopharyngitis, sinusitis, bronchitis, gastroenteritis
+Infections and infestations: upper respiratory tract infection, urinary tract infection, nasopharyngitis, sinusitis, bronchitis, gastroenteritis
 
 Injury, poisoning, and procedural complications: contusion, fall
 
