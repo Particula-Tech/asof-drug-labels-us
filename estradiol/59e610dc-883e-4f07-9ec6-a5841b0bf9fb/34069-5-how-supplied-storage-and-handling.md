@@ -2,13 +2,17 @@
 
 ## 16.1 How Supplied
 
-Divigel (estradiol gel) 0.1% is a clear, colorless, smooth, opalescent gel supplied in single-dose foil packets of 0.25, 0.5, 0.75, and 1.0 g, corresponding to 0.25, 0.5, 0.75, and 1.0 mg estradiol, respectively.
+Divigel (estradiol gel) 0.1% is a clear, colorless, smooth, opalescent gel supplied in single-dose foil packets of 0.25, 0.5, 0.75, 1.0, and 1.25 grams, corresponding to 0.25, 0.5, 0.75, 1.0, and 1.25 mg estradiol, respectively.
 
-NDC 68025-065-30, carton of 30 packets, 0.25 mg estradiol per single-dose foil packet NDC 68025-066-30, carton of 30 packets, 0.5 mg estradiol per single-dose foil packet
+NDC 68025-065-30, carton of 30 packets, 0.25 mg estradiol per single-dose foil packet
+
+NDC 68025-066-30, carton of 30 packets, 0.5 mg estradiol per single-dose foil packet
 
 NDC 68025-083-30, carton of 30 packets, 0.75 mg estradiol per single-dose foil packet
 
 NDC 68025-067-30, carton of 30 packets, 1.0 mg estradiol per single-dose foil packet
+
+NDC 68025-086-30, carton of 30 packets, 1.25 mg estradiol per single-dose foil packet
 
 Keep out of the reach of children.
 

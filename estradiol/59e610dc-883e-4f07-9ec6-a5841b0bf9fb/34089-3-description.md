@@ -1,9 +1,9 @@
 # 11 DESCRIPTION
 
-Divigel (estradiol gel) 0.1 percent, an estrogen gel, is a clear, colorless gel, which is odorless when dry.
+Divigel (estradiol gel) 0.1 percent, is a clear, colorless gel, which is odorless when dry.
 It is designed to deliver sustained circulating concentrations of estradiol when applied once daily to the skin.
 The gel is applied to a small area (200 cm2) of the thigh in a thin layer.
-Divigel is available in four doses of 0.25, 0.5, 0.75, and 1.0 g for topical application (corresponding to 0.25, 0.5, 0.75, and 1.0 mg estradiol, respectively).
+Divigel is available in five doses of 0.25, 0.5, 0.75, 1.0, and 1.25 grams for topical application (corresponding to 0.25, 0.5, 0.75, 1.0, and 1.25 mg estradiol, respectively).
 
 The active component of the topical gel is estradiol.
 

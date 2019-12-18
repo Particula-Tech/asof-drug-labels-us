@@ -10,43 +10,43 @@ The following serious adverse reactions are discussed elsewhere in the labeling:
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
 Divigel was studied at doses of 0.25, 0.5 and 1.0 gram per day in a 12-week, double-blind, placebo-controlled study that included a total of 495 postmenopausal women (86.5 percent Caucasian).
-The adverse events that occurred at a rate greater than 5 percent and greater than placebo in any of the treatment groups are summarized in Table 1.
+The adverse reactions that occurred at a rate greater than 5 percent and greater than placebo in any of the treatment groups are summarized in Table 1.
 
-Table 1: Number (%) of Subjects with Common Adverse Reactions* in a 12-Week Placebo-Controlled Study of Divigel
-
-| SYSTEM ORGAN CLASS Preferred Term | 0.25 g/day N=122 n (%) | 0.5 g/day N=123 n (%) | 1.0 g/day N=125 n (%) | N=125 n (%) |
-| --- | --- | --- | --- | --- |
-|  | Divigel |  |  | Placebo |
-| INFECTIONS & INFESTATIONS |  |  |  |  |
-| Nasopharyngitis | 7 (5.7) | 5 (4.1) | 6 (4.8) | 5 (4.0) |
-| Upper Respiratory Tract Infection | 7 (5.7) | 3 (2.4) | 2 (1.6) | 2 (1.6) |
-| Vaginal mycosis | 1 (0.8) | 3 (2.4) | 8 (6.4) | 4 (3.2) |
-| REPRODUCTIVE SYSTEM & BREAST DISORDERS |  |  |  |  |
-| Breast Tenderness | 3 (2.5) | 7 (5.7) | 11 (8.8) | 2 (1.6) |
-| Metrorrhagia | 5 (4.1) | 7 (5.7) | 12 (9.6) | 2 (1.6) |
-| *Adverse reactions reported by >5 percent of patients in any treatment group. |  |  |  |  |
-
-In a 12-week placebo-controlled study of Divigel, application site reactions were seen in <1 percent of subjects.
+In a 12-week placebo-controlled study of Divigel, application site reactions were seen in <1 percent of participating women.
 
 ## 6.2 Postmarketing Experience
 
 The following adverse reactions have been identified during post-approval use of Divigel.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Genitourinary System Amenorrhea, dysmenorrhea, ovarian cyst, vaginal discharge
+Genitourinary System
 
-Breasts Gynecomastia
+Amenorrhea, dysmenorrhea, ovarian cyst, vaginal discharge
 
-Cardiovascular Palpitations, ventricular extrasystoles
+Breasts
 
-Gastrointestinal Flatulence
+Gynecomastia
 
-Skin Rash pruritic, urticaria
+Cardiovascular
 
-Eyes Retinal vein occlusion
+Palpitations, ventricular extrasystoles
 
-Central Nervous System Tremor
+Gastrointestinal
 
-Miscellaneous Arthralgia, application site rash, asthenia, chest discomfort, fatigue, feeling abnormal, heart rate increased, insomnia, malaise, muscle spasms, pain in extremity, weight increased
+Flatulence
 
-Additional postmarketing adverse reactions have been reported in patients receiving other forms of hormone therapy.
+Skin
+
+Rash pruritic, urticaria
+
+Eyes
+
+Retinal vein occlusion
+
+Central Nervous System
+
+Tremor
+
+Miscellaneous
+
+Arthralgia, application site rash, asthenia, chest discomfort, fatigue, feeling abnormal, heart rate increased, insomnia, malaise, muscle spasms, pain in extremity, weight increased

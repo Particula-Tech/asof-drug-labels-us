@@ -4,19 +4,20 @@
 
 Risk Summary
 
-There are no data with the use of Divigel in in pregnant women; however, epidemiologic studies and meta-analyses have not found an increased risk of genital or nongenital birth defects (including cardiac anomalies and limb-reduction defects) following exposure to combined hormonal contraceptives (estrogen and progestins) before conception or during early pregnancy.
+Divigel is not indicated for use in pregnant women.
+There are no data with the use of Divigel in pregnant women; however, epidemiologic studies and meta-analyses have not found an increased risk of genital or nongenital birth defects (including cardiac anomalies and limb-reduction defects) following exposure to combined hormonal contraceptives (estrogen and progestins) before conception or during early pregnancy.
+Animal studies to evaluate embryo/fetal toxicity were not conducted with Divigel.
 
 ## 8.2 Lactation
 
 Risk Summary
 
-Divigel is not indicated for use in females of reproductive potential.
-Estrogens are present in human milk and can reduce milk production in breast-feeding females.
-This reduction can occur at any time but is less likely to occur once breast-feeding is well-established.
+Estrogens are present in human milk and can reduce milk production in breast-feeding women.
+This reduction can occur at any time but is less likely to occur once breast-feeding is well ­established.
 
 ## 8.4 Pediatric Use
 
-Divigel is not indicated in children.
+Divigel is not indicated for use in pediatric patients.
 Clinical studies have not been conducted in the pediatric population.
 
 ## 8.5 Geriatric Use

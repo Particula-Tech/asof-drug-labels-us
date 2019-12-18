@@ -1,12 +1,12 @@
 # 4 CONTRAINDICATIONS
 
-Divigel should not be used in women with any of the following conditions:
+Divigel is contraindicated in women with any of the following conditions:
 
-- Undiagnosed abnormal genital bleeding
-- Known, suspected, or history of breast cancer
-- Known or suspected estrogen-dependent neoplasia
-- Active DVT, PE, or history of these conditions
-- Active arterial thromboembolic disease (for example, stroke and MI), or a history of these conditions
-- Known anaphylactic reaction or angioedema to Divigel
-- Known liver impairment or disease
-- Known protein C, protein S, or antithrombin deficiency, or other known thrombophilic disorders
+- Undiagnosed abnormal genital bleeding [see Warning and Precautions (5.2)]
+- Breast cancer or history of breast cancer [see Warning and Precautions (5.2)]
+- Estrogen-dependent neoplasia [see Warning and Precautions (5.2)]
+- Active DVT, PE, or history of these conditions [see Warning and Precautions (5.1)]
+- Active arterial thromboembolic disease (e.g. stroke and MI), or a history of these conditions [see Warning and Precautions (5.1)]
+- Known anaphylactic reaction, angioedema, or hypersensitivity to Divigel
+- Hepatic impairment or disease
+- Protein C, protein S, or antithrombin deficiency, or other known thrombophilic disorders

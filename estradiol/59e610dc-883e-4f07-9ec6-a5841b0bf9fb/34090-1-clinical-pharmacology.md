@@ -1,7 +1,5 @@
 # 12 CLINICAL PHARMACOLOGY
 
-Divigel provides estrogen therapy by delivering estradiol, the major estrogenic hormone secreted by the human ovary, to the systemic circulation following topical application.
-
 ## 12.1 Mechanism of Action
 
 Endogenous estrogens are largely responsible for the development and maintenance of the female reproductive system and secondary sexual characteristics.
@@ -20,7 +18,8 @@ Estrogens act to reduce the elevated levels of these hormones seen in postmenopa
 
 ## 12.2 Pharmacodynamics
 
-Currently, there are no pharmacodynamic data known for Divigel.
+Generally, a serum estrogen concentration does not predict an individual woman’s therapeutic response to Divigel nor her risk for adverse outcomes.
+Likewise, exposure comparisons across different estrogen products to infer efficacy or safety for the individual woman may not be valid.
 
 ## 12.3 Pharmacokinetics
 
@@ -28,18 +27,7 @@ Absorption
 
 Estradiol diffuses across intact skin and into the systemic circulation by a passive absorption process, with diffusion across the stratum corneum being the rate-limiting factor.
 
-In a 14-day, Phase 1, multiple-dose study, Divigel demonstrated linear and approximately dose-proportional estradiol pharmacokinetics at steady state for both AUC0-24 and Cmax following once daily dosing to the skin of either the right or left upper thigh (Table 2).
-
-Table 2: Mean (%CV) Pharmacokinetic Parameters for Estradiol (uncorrected for baseline) on Day 14 Following Multiple Daily Doses of Divigel 0.1%
-
-| Parameter (units) | Divigel 0.25 g | Divigel 0.5 g | Divigel 1.0 g |
-| --- | --- | --- | --- |
-| AUC0-24 (pg∙h/mL) | 236 (94) | 504 (149) | 732 (81) |
-| Cmax (pg/mL) | 14.7 (84) | 28.4 (139) | 51.5 (86) |
-| Cavg (pg/mL) | 9.8 (92) | 21 (148) | 30.5 (81) |
-| tmax* (h) | 16 (0, 72) | 10 (0, 72) | 8 (0, 48) |
-| E2:E1 ratio | 0.42 | 0.65 | 0.65 |
-| *Median (Min, Max). |  |  |  |
+In a 14-day, Phase 1, multiple-dose study, Divigel demonstrated linear and approximately dose- proportional estradiol pharmacokinetics at steady state for both AUC0-24 and Cmax following once daily dosing to the skin of either the right or left upper thigh (Table 2).
 
 Steady-state serum concentration of estradiol are achieved by day 12 following daily application of Divigel to the skin of the upper thigh.
 The mean (SD) serum estradiol levels following once daily dosing at day 14 are shown in Figure 1.
@@ -71,17 +59,13 @@ Excretion
 Estradiol, estrone, and estriol are excreted in the urine along with glucuronide and sulfate conjugates.
 The apparent terminal half-life for estradiol was about 10 hours following administration of Divigel.
 
-Use in Specific Populations
-
-No pharmacokinetic studies were conducted in specific populations, including patients with renal or hepatic impairment.
-
 Potential for Estradiol Transfer
 
-The effect of estradiol transfer was evaluated in healthy postmenopausal women who topically applied 1.0 g of Divigel (single dose) on one thigh.
+The effect of estradiol transfer was evaluated in healthy postmenopausal women who topically applied 1.0 gram of Divigel (single dose) on one thigh.
 One and 8 hours after gel application, they engaged in direct thigh-to-arm contact with a partner for 15 minutes.
 While some elevation of estradiol levels over baseline was seen in the male subjects, the degree of transferability in this study was inconclusive.
 
 Effects of Washing
 
-The effect of application site washing on skin surface levels and serum concentrations of estradiol was determined in 16 healthy postmenopausal women after application of 1.0 g of Divigel to a 200 cm2 area on the thigh.
+The effect of application site washing on skin surface levels and serum concentrations of estradiol was determined in 16 healthy postmenopausal women after application of 1.0 gram of Divigel to a 200 cm2 area on the thigh.
 Washing the application site with soap and water 1 hour after application removed all detectable amounts of estradiol from the surface of the skin, and resulted in a 30 to 38 percent decrease in the mean total 24-hour exposure to estradiol.
