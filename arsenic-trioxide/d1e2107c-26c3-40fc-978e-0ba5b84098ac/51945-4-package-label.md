@@ -6,11 +6,23 @@ Arsenic Trioxide Injection
 
 10 mg/10 mL (1 mg/mL)
 
-For Intravenous Use Only Caution: Cytotoxic Agent 10mL Single-Dose Vial Rx only
+For Intravenous Use Only Caution: Cytotoxic Agent 10 mL Single-Dose Vial Rx only
 
-AMRING PHARMACEUTICALS INC.
+AMRING PHARMACEUTICALS, INC.
 
-NDC 69918-720-10 10 x 10 mL Unit-Dose Vials
+NDC 69918-720-02 Rx Only
+
+Arsenic Trioxide Injection
+
+10 mg/10 mL (1 mg/mL)
+
+For Intravenous Use Only
+
+2 x 10 mL Single-Dose Vials
+
+AMRING PHARMACEUTICALS, INC.
+
+NDC 69918-720-10 10 x 10 mL Single-Dose Vials
 
 Arsenic Trioxide Injection
 
@@ -18,4 +30,4 @@ Arsenic Trioxide Injection
 
 For Intravenous Use Only Rx only
 
-AMRING PHARMACEUTICALS INC.
+AMRING PHARMACEUTICALS, INC.
