@@ -1,6 +1,6 @@
-Information for the Patient About— Nitro-Dur® (nitroglycerin) Transdermal Infusion System
+Information for the Patient About— Nitro-Dur ® (nitroglycerin) Transdermal Infusion System
 
-Summary NITRO-DUR® is a unique method of administering nitroglycerin to the bloodstream.
+Summary NITRO-DUR ® is a unique method of administering nitroglycerin to the bloodstream.
 NITRO-DUR eliminates the swallowing of pills or the application of a messy ointment.
 Nitroglycerin is a medication your doctor has prescribed for you to help reduce the frequency and severity of angina attacks (chest pain).
 

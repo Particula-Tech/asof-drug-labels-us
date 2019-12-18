@@ -32,7 +32,7 @@ Notwithstanding these observations, there are case reports of significant methem
 None of the affected patients had been thought to be unusually susceptible.
 
 Methemoglobin levels are available from most clinical laboratories.
-The diagnosis should be suspected in patients who exhibit signs of impaired oxygen delivery despite adequate cardiac output and adequate arterial PO2.
+The diagnosis should be suspected in patients who exhibit signs of impaired oxygen delivery despite adequate cardiac output and adequate arterial PO 2.
 Classically, methemoglobinemic blood is described as chocolate brown, without color change on exposure to air.
 
 Methemoglobinemia should be treated with methylene blue if the patient develops cardiac or CNS effects of hypoxia.
