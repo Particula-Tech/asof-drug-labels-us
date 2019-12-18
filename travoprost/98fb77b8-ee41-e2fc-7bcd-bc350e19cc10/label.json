@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA203431"
+  ],
+  "inn": "travoprost",
+  "labeler": "Apotex Corp.",
+  "package_ndcs": [
+    "60505-0593-1",
+    "60505-0593-4"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "travoprost",
+      "name": "Travoprost"
+    }
+  ],
+  "setid": "98fb77b8-ee41-e2fc-7bcd-bc350e19cc10",
+  "source": "dailymed"
+}
