@@ -1,4 +1,4 @@
-# WARNING
+# BOXED WARNING
 
-Lithium toxicity is closely related to serum lithium levels, and can occur at doses close to therapeutic levels.
-Facilities for prompt and accurate serum lithium determinations should be available before initiating therapy (see DOSAGE AND ADMINISTRATION).
+WARNING: LITHIUM TOXICITY Lithium toxicity is closely related to serum lithium concentrations, and can occur at doses close to therapeutic concentrations.
+Facilities for prompt and accurate serum lithium determinations should be available before initiating treatment [see Dosage and Administration (2.6), Warnings and Precautions (5.1)].
