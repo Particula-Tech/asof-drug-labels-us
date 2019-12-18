@@ -5,12 +5,13 @@
   "inn": "bupivacaine",
   "labeler": "Hospira, Inc.",
   "package_ndcs": [
-    "0409-3613-01"
+    "0409-3613-01",
+    "0409-3613-11"
   ],
   "products": [
     {
       "form": "INJECTION, SOLUTION",
-      "generic": "bupivacaine hydrochloride",
+      "generic": "bupivacaine hydrochloride in dextrose",
       "name": "Bupivacaine"
     }
   ],
