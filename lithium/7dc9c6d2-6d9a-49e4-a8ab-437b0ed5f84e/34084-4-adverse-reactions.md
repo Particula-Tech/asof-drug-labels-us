@@ -17,7 +17,7 @@ The following adverse reactions are described in greater detail in other section
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
 
-Pediatric Patients (7 to 17 years)
+Pediatric Patients (7 to 17 years):
 
 Bipolar I Disorder: The following findings are based on an 8-week, placebo-controlled study for acute manic or mixed episodes of bipolar I disorder in pediatric patients 7 to 17 years (N= 81).
 In this study, lithium was administered at daily doses ranging from 300 to 3600 (mean dose 1483 mg ± 584) with serum levels ranging from 0 to 2.0 (mean level 0.98 mEq/L ± 0.47).
@@ -50,7 +50,7 @@ Table 3: Adverse Reactions Reported in 2% or More of Pediatric Patients on Lithi
 | Skin and subcutaneous tissue disorders |  |  |
 | Rash/dermatitis | 0 | 13 |
 
-Adult Patients
+Adult Patients:
 
 The following adverse reactions have been identified following use of lithium.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
@@ -67,7 +67,7 @@ Gastrointestinal: anorexia, nausea, vomiting, diarrhea, gastritis, salivary glan
 
 Genitourinary: glycosuria, decreased creatinine clearance, albuminuria, oliguria, and symptoms of nephrogenic diabetes insipidus including polyuria, thirst, and polydipsia.
 
-Dermatologic: drying and thinning of hair, alopecia, anesthesia of skin, chronic folliculitis, xerosis cutis, psoriasis onset or exacerbation, generalized pruritus with or without rash, cutaneous ulcers, angioedema.
+Dermatologic: drying and thinning of hair, alopecia, anesthesia of skin, chronic folliculitis, xerosis cutis, psoriasis onset or exacerbation, generalized pruritus with or without rash, cutaneous ulcers, angioedema, drug reaction with eosinophilia and systemic symptoms (DRESS).
 
 Autonomic Nervous System: blurred vision, dry mouth, impotence/sexual dysfunction.
 

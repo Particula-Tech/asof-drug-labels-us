@@ -14,7 +14,7 @@ Fine hand tremor, polyuria, and thirst may occur during initial therapy for the 
 Nausea and general discomfort may also appear during the first few days of lithium administration.
 These adverse reactions may subside with continued treatment, concomitant administration with food, or temporary reduction or cessation of dosage.
 
-Table.
+Table 1.
 Lithium Dosing for Bipolar I Disorder
 
 | Patient Group | Formulation | Starting Dose | Dose Titration | Acute Goal |  | Maintenance Goal |  |

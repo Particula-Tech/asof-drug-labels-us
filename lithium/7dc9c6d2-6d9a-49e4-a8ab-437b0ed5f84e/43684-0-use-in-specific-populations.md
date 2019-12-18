@@ -2,7 +2,7 @@
 
 ## 8.1 Pregnancy
 
-Risk Summary
+Risk Summary:
 
 Lithium may cause harm when administered to a pregnant woman.
 Early voluntary reports to international birth registries suggested an increase in cardiovascular malformations, especially for Ebstein’s anomaly, with first trimester use of lithium.
@@ -15,7 +15,7 @@ Advise pregnant women of the potential risk to a fetus.
 The background risk of major birth defects and miscarriage for the indicated population(s) is unknown.
 In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively.
 
-Clinical Considerations
+Clinical Considerations:
 
 Dose Adjustments During Pregnancy and the Postpartum Period: If the decision is made to continue lithium treatment during pregnancy, serum lithium concentrations should be monitored and the dosage adjusted during pregnancy.
 Two to three days prior to delivery, lithium dosage should be decreased or discontinued to reduce the risk of maternal and/or neonatal toxicity.
@@ -30,7 +30,7 @@ Consider fetal echocardiography between 16 and 20 weeks gestation in a woman wit
 
 ## 8.2 Lactation
 
-Risk Summary
+Risk Summary:
 
 Limited published data reports the presence of lithium carbonate in human milk with breast milk levels measured at 0.12 to 0.7 mEq or 40 to 45% of maternal plasma levels.
 Infants exposed to lithium during breastfeeding may have plasma levels that are 30 to 40% of maternal plasma levels.
@@ -39,7 +39,7 @@ Increased prolactin levels have been measured in lactating women, but the effect
 Breastfeeding is not recommended with maternal lithium use; however, if a woman chooses to breastfeed, the infant should be closely monitored for signs of lithium toxicity.
 Discontinue breastfeeding if a breastfed infant develops lithium toxicity.
 
-Clinical Considerations
+Clinical Considerations:
 
 Consider regular monitoring of lithium levels and thyroid function in a breastfed infant.
 
