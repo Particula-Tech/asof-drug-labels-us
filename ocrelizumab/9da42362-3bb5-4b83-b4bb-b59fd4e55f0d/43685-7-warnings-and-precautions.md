@@ -2,7 +2,7 @@
 
 ## 5.1 Infusion Reactions
 
-OCREVUS can cause infusion reactions, which can include pruritus, rash, urticaria, erythema, bronchospasm, throat irritation, oropharyngeal pain, dyspnea, pharyngeal or laryngeal edema, flushing, hypotension, pyrexia, fatigue, headache, dizziness, nausea, and tachycardia.
+OCREVUS can cause infusion reactions, which can include pruritus, rash, urticaria, erythema, bronchospasm, throat irritation, oropharyngeal pain, dyspnea, pharyngeal or laryngeal edema, flushing, hypotension, pyrexia, fatigue, headache, dizziness, nausea, tachycardia, and anaphylaxis.
 In multiple sclerosis (MS) clinical trials, the incidence of infusion reactions in OCREVUS-treated patients [who received methylprednisolone (or an equivalent steroid) and possibly other pre-medication to reduce the risk of infusion reactions prior to each infusion] was 34 to 40%, with the highest incidence with the first infusion.
 There were no fatal infusion reactions, but 0.3% of OCREVUS-treated MS patients experienced infusion reactions that were serious, some requiring hospitalization.
 
