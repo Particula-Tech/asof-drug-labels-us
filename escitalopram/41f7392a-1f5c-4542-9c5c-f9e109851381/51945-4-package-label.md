@@ -2,7 +2,7 @@
 
 Escitalopram Tablets USP
 
-5 mg - Bottle of 30s
+5 mg - Bottle of 100s
 
 NDC- 68180-137-06
 
