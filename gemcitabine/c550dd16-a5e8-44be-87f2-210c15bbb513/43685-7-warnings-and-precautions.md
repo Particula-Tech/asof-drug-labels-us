@@ -4,7 +4,7 @@
 
 In clinical trials evaluating the maximum tolerated dose of gemcitabine, prolongation of the infusion time beyond 60 minutes or more frequent than weekly dosing resulted in an increased incidence of clinically significant hypotension, severe flu-like symptoms, myelosuppression, and asthenia.
 The half-life of gemcitabine is influenced by the length of the infusion [see Clinical Pharmacology (12.3)].
-Refer to the recommended gemcitabine dosage [see Dosage and Administration (2.1, 2.2,2.3, 2.4)].
+Refer to the recommended gemcitabine dosage [see Dosage and Administration (2.1, 2.2,2.3,2.4)].
 
 ## 5.2 Myelosuppression
 
@@ -51,7 +51,7 @@ Advise male patients with female partners of reproductive potential to use effec
 ## 5.7 Exacerbation of Radiation Therapy Toxicity
 
 Gemcitabine is not recommended for use in combination with radiation therapy.
-Concurrent (given together or ≤7 days apart) Life-threatening mucositis, especially esophagitis and pneumonitis occurred in a trial in which gemcitabine was administered at a dose of 1,000 mg/m2 to patients with non-small cell lung cancer for up to 6 consecutive weeks concurrently with thoracic radiation.
+Concurrent (given together or ≤7 days apart) Life-threatening mucositis, especially esophagitis and pneumonitis occurred in a trial in which gemcitabine was administered at a dose of 1,000 mg/m 2 to patients with non-small cell lung cancer for up to 6 consecutive weeks concurrently with thoracic radiation.
 Non-concurrent (given >7 days apart) Excessive toxicity has not been observed when gemcitabine is administered more than 7 days before or after radiation.
 Radiation recall has been reported in patients who receive gemcitabine after prior radiation.
 

@@ -3,7 +3,7 @@
 GeGemcitabine is a nucleoside metabolic inhibitor.
 Gemcitabine hydrochloride is 2′-deoxy-2′, 2′-difluorocytidine monohydrochloride (β-isomer) with the following structural formula:
 
-The empirical formula for gemcitabine hydrochloride is C9H11F2N3O4 • HCl.
+The empirical formula for gemcitabine hydrochloride is C 9H 11F 2N 3O 4 • HCl.
 It has a molecular weight of 299.66 g/mol.
 Gemcitabine hydrochloride is soluble in water, slightly soluble in methanol, and practically insoluble in ethanol and polar organic solvents.
 Gemcitabine for Injection, USP is a sterile white to off-white lyophilized powder or cake and available as 200 mg, 1 g and 2 g single-dose vials for intravenous use only.

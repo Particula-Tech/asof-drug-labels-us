@@ -9,6 +9,7 @@ Gemcitabine for Injection, USP is a sterile white to off-white lyophilized powde
 | FK102600 | NDC 63323-126-03 Individually packaged | 2 grams per vial |
 
 Gemcitabine for Injection, USP is a cytotoxic drug.
-Follow applicable special handling and disposal procedures.1 Store at controlled room temperature 20ºC to 25ºC (68ºF to 77ºF); excursions permitted between 15ºC and 30ºC (59ºF and 86ºF) [see USP Controlled Room Temperature].
+Follow applicable special handling and disposal procedures.
+1 Store at controlled room temperature 20ºC to 25ºC (68ºF to 77ºF); excursions permitted between 15ºC and 30ºC (59ºF and 86ºF) [see USP Controlled Room Temperature].
 
 The container closure is not made with natural rubber latex.

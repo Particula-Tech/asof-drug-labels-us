@@ -9,9 +9,9 @@ Advise pregnant women of the potential risk to a fetus [see Use in Special Popul
 
 In the U.S. general population, the estimated background risk of major birth defects and miscarriages in clinically recognized pregnancies 2-4% and 15-20% respectively.
 Data Animal Data Gemcitabine is embryotoxic in mice.
-Daily dosing of gemcitabine to pregnant mice increased the incidence of fetal malformation (cleft palate, incomplete ossification) at doses of 1.5 mg/kg/day [approximately 0.005 times the 1000 mg/m2 clinical dose based on body surface area (BSA)].
+Daily dosing of gemcitabine to pregnant mice increased the incidence of fetal malformation (cleft palate, incomplete ossification) at doses of 1.5 mg/kg/day [approximately 0.005 times the 1000 mg/m 2 clinical dose based on body surface area (BSA)].
 Gemcitabine was embryotoxic and fetotoxic in rabbits.
-Daily dosing of gemcitabine to pregnant rabbits resulted in fetotoxicity (decreased fetal viability, reduced litter sizes, and developmental delays) and increased the incidence of fetal malformations (fused pulmonary artery, absence of gall bladder) at doses of 0.1 mg/kg/day (approximately 0.002 times the 1000 mg/m2 clinical dose based on BSA).
+Daily dosing of gemcitabine to pregnant rabbits resulted in fetotoxicity (decreased fetal viability, reduced litter sizes, and developmental delays) and increased the incidence of fetal malformations (fused pulmonary artery, absence of gall bladder) at doses of 0.1 mg/kg/day (approximately 0.002 times the 1000 mg/m 2 clinical dose based on BSA).
 
 ## 8.2 Lactation
 
@@ -37,8 +37,8 @@ It is not known whether these effects on fertility are reversible [see Nonclinic
 
 The safety and effectiveness of gemcitabine have not been established in pediatric patients.
 The safety and pharmacokinetics of gemcitabine were evaluated in a trial in pediatric patients with refractory leukemia.
-The maximum tolerated dose was 10 mg/m2/min for 360 minutes weekly for three weeks followed by a one-week rest period.
-The safety and activity of gemcitabine were evaluated in a trial of pediatric patients with relapsed acute lymphoblastic leukemia (22 patients) and acute myelogenous leukemia (10 patients) at a dose of 10 mg/m2/min administered over 360 minutes weekly for three weeks followed by a one-week rest period.
+The maximum tolerated dose was 10 mg/m 2/min for 360 minutes weekly for three weeks followed by a one-week rest period.
+The safety and activity of gemcitabine were evaluated in a trial of pediatric patients with relapsed acute lymphoblastic leukemia (22 patients) and acute myelogenous leukemia (10 patients) at a dose of 10 mg/m 2/min administered over 360 minutes weekly for three weeks followed by a one-week rest period.
 Patients with M1 or M2 bone marrow on Day 28 who did not experience unacceptable toxicity were eligible to receive a maximum of one additional four-week course.
 Toxicities observed included myelosuppression, febrile neutropenia, increased serum transaminases, nausea, and rash/desquamation.
 No meaningful clinical activity was observed in this trial.
