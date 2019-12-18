@@ -13,14 +13,14 @@ Continued approval for this indication may be contingent upon verification and d
 
 ## 1.2 Non-Small Cell Lung Cancer
 
-- TECENTRIQ, in combination with bevacizumab, paclitaxel, and carboplatin, is indicated for the first-line treatment of adult patients with metastatic non-squamous non-small cell lung cancer (NSq NSCLC) with no EGFR or ALK genomic tumor aberrations.
+- TECENTRIQ, in combination with bevacizumab, paclitaxel, and carboplatin, is indicated for the first-line treatment of adult patients with metastatic non-squamous non-small cell lung cancer (NSCLC) with no EGFR or ALK genomic tumor aberrations.
+- TECENTRIQ, in combination with paclitaxel protein-bound and carboplatin, is indicated for the first-line treatment of adult patients with metastatic non-squamous NSCLC with no EGFR or ALK genomic tumor aberrations.
 - TECENTRIQ, as a single-agent, is indicated for the treatment of adult patients with metastatic NSCLC who have disease progression during or following platinum-containing chemotherapy.
   Patients with EGFR or ALK genomic tumor aberrations should have disease progression on FDA-approved therapy for NSCLC harboring these aberrations prior to receiving TECENTRIQ.
 
 ## 1.3 Locally Advanced or Metastatic Triple-Negative Breast Cancer
 
 TECENTRIQ, in combination with paclitaxel protein-bound, is indicated for the treatment of adult patients with unresectable locally advanced or metastatic triple-negative breast cancer (TNBC) whose tumors express PD-L1 (PD-L1 stained tumor-infiltrating immune cells [IC] of any intensity covering ≥ 1% of the tumor area), as determined by an FDA-approved test [see Dosage and Administration (2.1)].
-
 This indication is approved under accelerated approval based on progression free survival [see Clinical Studies (14.3)].
 Continued approval for this indication may be contingent upon verification and description of clinical benefit in a confirmatory trial(s).
 

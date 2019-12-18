@@ -21,20 +21,25 @@ If the first infusion is tolerated, all subsequent infusions may be delivered ov
 
 ## 2.3 Recommended Dosage for NSCLC
 
-The recommended dosage of TECENTRIQ as a single agent is:
+Single Agent
+
+The recommended dosage of TECENTRIQ is:
 
 - 840 mg every 2 weeks or
 - 1200 mg every 3 weeks or
 - 1680 mg every 4 weeks
 
-administered intravenously until disease progression or unacceptable toxicity.
+administered intravenously over 60 minutes until disease progression or unacceptable toxicity.
+If the first infusion is tolerated, all subsequent infusions may be delivered over 30 minutes.
 
-The recommended dosage of TECENTRIQ is 1200 mg every 3 weeks intravenously, when administered in combination with bevacizumab, paclitaxel, and carboplatin, until disease progression or unacceptable toxicity.
-Administer TECENTRIQ prior to chemotherapy or other antineoplastic drugs when given on the same day.
+TECENTRIQ with Platinum-based Chemotherapy
 
-Refer to the Prescribing Information for the chemotherapy agents or other antineoplastic drugs administered in combination with TECENTRIQ for recommended dosing information.
+The recommended dosage of TECENTRIQ is 1200 mg intravenously every 3 weeks until disease progression or unacceptable toxicity.
 
-Following completion of 4-6 cycles of paclitaxel and carboplatin, and if bevacizumab is discontinued, the recommended dosage of TECENTRIQ is:
+Administer TECENTRIQ prior to chemotherapy and bevacizumab when given on the same day.
+Refer to the Prescribing Information for the chemotherapy agents or bevacizumab administered in combination with TECENTRIQ for recommended dosing information.
+
+Following completion of 4-6 cycles of chemotherapy, and if bevacizumab is discontinued, the recommended dosage of TECENTRIQ is:
 
 - 840 mg every 2 weeks or
 - 1200 mg every 3 weeks or
@@ -47,20 +52,20 @@ If the first infusion is tolerated, all subsequent infusions may be delivered ov
 
 ## 2.4 Recommended Dosage for Locally Advanced or Metastatic TNBC
 
-The recommended dosage of TECENTRIQ is 840 mg administered as an intravenous infusion over 60 minutes, followed by 100 mg/m2 paclitaxel protein-bound.
+The recommended dosage of TECENTRIQ is 840 mg administered intravenously over 60 minutes, followed by 100 mg/m2 paclitaxel protein-bound.
 
 For each 28 day cycle, TECENTRIQ is administered on days 1 and 15, and paclitaxel protein-bound is administered on days 1, 8, and 15 until disease progression or unacceptable toxicity.
 
 TECENTRIQ and paclitaxel protein-bound may be discontinued for toxicity independently of each other.
 
 If the first infusion is tolerated, all subsequent infusions may be delivered over 30 minutes.
-See also the prescribing information for paclitaxel protein-bound prior to initiation.
+Refer to the Prescribing Information for paclitaxel protein-bound for recommended dosing information.
 
 ## 2.5 Recommended Dosage for SCLC
 
 The recommended dosage of TECENTRIQ is 1200 mg intravenously every 3 weeks, when administered in combination with carboplatin and etoposide, until disease progression or unacceptable toxicity.
-Administer TECENTRIQ prior to chemotherapy when given on the same day.
 
+Administer TECENTRIQ prior to chemotherapy when given on the same day.
 Refer to the Prescribing Information for the chemotherapy agents administered in combination with TECENTRIQ for recommended dosing information.
 
 Following completion of 4 cycles of carboplatin and etoposide, the recommended dosage of TECENTRIQ is:
@@ -111,7 +116,7 @@ Prepare the solution for infusion as follows:
 
 - Select the appropriate vial(s) based on the prescribed dose.
 - Withdraw the required volume of TECENTRIQ from the vial(s).
-- Dilute into a 250 mL polyvinyl chloride (PVC), polyethylene (PE), or polyolefin (PO) infusion bag containing 0.9% Sodium Chloride Injection, USP.
+- Dilute into a 250 mL a polyvinyl chloride (PVC), polyethylene (PE), or polyolefin (PO) infusion bag containing 0.9% Sodium Chloride Injection, USP.
 - Dilute with only 0.9% Sodium Chloride Injection, USP.
 - Mix diluted solution by gentle inversion.
   Do not shake.
