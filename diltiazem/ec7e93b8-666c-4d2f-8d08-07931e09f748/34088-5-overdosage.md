@@ -1,7 +1,7 @@
 # OVERDOSAGE
 
-The oral LD50's in mice and rats range from 415 to 740 mg/kg and from 560 to 810 mg/kg, respectively.
-The intravenous LD50's in these species were 60 and 38 mg/kg, respectively.
+The oral LD50’s in mice and rats range from 415 to 740 mg/kg and from 560 to 810 mg/kg, respectively.
+The intravenous LD50’s in these species were 60 and 38 mg/kg, respectively.
 The oral LD50 in dogs is considered to be in excess of 50 mg/kg, while lethality was seen in monkeys at 360 mg/kg.
 
 The toxic dose in man is not known.

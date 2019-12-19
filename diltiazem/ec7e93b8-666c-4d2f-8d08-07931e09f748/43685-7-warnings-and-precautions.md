@@ -5,7 +5,7 @@
 Diltiazem prolongs AV node refractory periods without significantly prolonging sinus node recovery time, except in patients with sick sinus syndrome.
 This effect may rarely result in abnormally slow heart rates (particularly in patients with sick sinus syndrome) or second- or third-degree AV block (9 of 2,111 patients or 0.43%).
 Concomitant use of diltiazem with beta-blockers or digitalis may result in additive effects on cardiac conduction.
-A patient with Prinzmetal's angina developed periods of asystole (2 to 5 seconds) after a single dose of 60 mg of diltiazem.
+A patient with Prinzmetal’s angina developed periods of asystole (2 to 5 seconds) after a single dose of 60 mg of diltiazem.
 (See ADVERSE REACTIONS.)
 
 ## Congestive Heart Failure
@@ -65,7 +65,7 @@ If combination therapy is initiated or withdrawn in conjunction with propranolol
 
 A study in six healthy volunteers has shown a significant increase in peak diltiazem plasma levels (58%) and area-under-the-curve (53%) after a 1-week course of cimetidine at 1,200 mg per day and a single dose of diltiazem 60 mg.
 Ranitidine produced smaller, nonsignificant increases.
-The effect may be mediated by cimetidine's known inhibition of hepatic cytochrome P-450, the enzyme system responsible for the first-pass metabolism of diltiazem.
+The effect may be mediated by cimetidine’s known inhibition of hepatic cytochrome P-450, the enzyme system responsible for the first-pass metabolism of diltiazem.
 Patients currently receiving diltiazem therapy should be carefully monitored for a change in pharmacological effect when initiating and discontinuing therapy with cimetidine.
 An adjustment in the diltiazem dose may be warranted.
 
@@ -100,7 +100,7 @@ No intrinsic effect on fertility was observed in rats.
 
 ## Pregnancy
 
-### Teratogenic Effects. Pregnancy Category C
+### Teratogenic Effects.
 
 Reproduction studies have been conducted in mice, rats, and rabbits.
 Administration of doses ranging from five to ten times greater (on a mg/kg basis) than the daily recommended therapeutic dose has resulted in embryo and fetal lethality.

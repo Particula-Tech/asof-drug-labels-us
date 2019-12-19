@@ -11,9 +11,10 @@ The most common events observed in clinical studies (over 2,100 patients) of ang
 
 Double Blind Placebo Controlled Hypertension Trials
 
-|  | # pts (%) | # pts (%) |
+|  | No. pts (%) | No. pts (%) |
 | --- | --- | --- |
-| Adverse | Diltiazem N = 315 | Placebo N = 211 |
+|  | Diltiazem | Placebo |
+| Adverse | N = 315 | N = 211 |
 | Headache | 38 (12%) | 17 (8%) |
 | AV block |  |  |
 | first degree | 24 (7.6%) | 4 (1.9%) |

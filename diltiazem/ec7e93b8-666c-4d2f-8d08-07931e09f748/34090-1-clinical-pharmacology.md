@@ -50,7 +50,7 @@ There is a departure from linearity when dose strengths are increased; the half-
 A study that compared patients with normal hepatic function to patients with cirrhosis found an increase in half-life and a 69% increase in bioavailability in the hepatically impaired patients.
 A single study in nine patients with severely impaired renal function showed no difference in the pharmacokinetic profile of diltiazem compared to patients with normal renal function.
 
-## Diltiazem Hydrochloride Extended-release Capsules, USP (Twice-a-Day Dosage)
+## Diltiazem Hydrochloride Extended-Release Capsules (Twice-a-Day Dosage)
 
 A single 120 mg dose of the capsule results in detectable plasma levels within 2 to 3 hours and peak plasma levels at 6 to 11 hours.
 The apparent elimination half-life after single or multiple dosing is 5 to 7 hours.
