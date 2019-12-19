@@ -211,7 +211,7 @@ Before first use
 
 - Keep new pens in the refrigerator between 36°F to 46°F (2°C to 8°C).
 - Do not freeze.
-  If you accidently freeze your pen, throw it away.
+  If you accidentally freeze your pen, throw it away.
 
 After first use
 
