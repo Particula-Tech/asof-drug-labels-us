@@ -25,7 +25,7 @@ The average duration of exposure was 82 to 84 days in the active treatment group
 
 Table 2: Adverse Reactions with ≥3% Incidence with AIRDUO RESPICLICK, and More Common than Placebo in Subjects with Asthma
 
-| Adverse Reaction | ARMONAIR RESPICLICK 55 mcg (n=129) % | ARMONAIR RESPICLICK 113 mcg (n=274) % | ARMONAIR RESPICLICK 232 mcg (n=146) % | AIRDUO RESPICLICK 55/14 mcg (n=128) % | AIRDUO RESPICLICK 113/14 mcg (n=269) % | AIRDUO RESPICLICK 232/14 mcg (n=145) % | Placebo (n=273) % |
+| Adverse Reaction | ARMONAIR RESPICLICK55 mcg(n=129)% | ARMONAIR RESPICLICK113 mcg(n=274)% | ARMONAIR RESPICLICK232 mcg(n=146)% | AIRDUO RESPICLICK55/14 mcg(n=128)% | AIRDUO RESPICLICK113/14 mcg(n=269)% | AIRDUO RESPICLICK232/14 mcg (n=145)% | Placebo (n=273)% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Infections and infestations |  |  |  |  |  |  |  |
 | Nasopharyngitis | 5.4 | 5.8 | 4.8 | 8.6 | 4.8 | 6.9 | 4.4 |

@@ -1,18 +1,10 @@
 Instructions for Use
 
-AIRDUO RESPICLICK® (ayr´due oh res-pē-klik)
+AIRDUO RESPICLICK® (ayr´due oh res-pē-klik) (fluticasone propionate and salmeterol) inhalation powder 55 mcg/14 mcg
 
-(fluticasone propionate and salmeterol) inhalation powder 55 mcg/14 mcg
+AIRDUO RESPICLICK (ayr´due oh res-pē-klik) (fluticasone propionate and salmeterol) inhalation powder 113 mcg/14 mcg
 
-AIRDUO RESPICLICK (ayr´due oh res-pē-klik)
-
-(fluticasone propionate and salmeterol) inhalation powder 113 mcg/14 mcg
-
-AIRDUO RESPICLICK (ayr´due oh res-pē-klik)
-
-(fluticasone propionate and salmeterol) inhalation powder 232 mcg/14 mcg
-
-for oral inhalation use
+AIRDUO RESPICLICK (ayr´due oh res-pē-klik) (fluticasone propionate and salmeterol) inhalation powder 232 mcg/14 mcg for oral inhalation use
 
 Your AIRDUO RESPICLICK Inhaler
 
@@ -144,9 +136,9 @@ Support
 
 These Instructions for Use have been approved by the U.S. Food and Drug Administration.
 
-Marketed by: Teva Respiratory, LLC, Frazer, PA 19355; Manufactured by: Teva Pharmaceutical Industries, Ltd., Jerusalem, Israel; Copyright ©2018, Teva Respiratory, LLC; All rights reserved.
+Marketed by: Teva Respiratory, LLC, Frazer, PA 19355; Copyright ©2019, Teva Respiratory, LLC; All rights reserved.
 
-AIRDIFU-003
+AIRDIFU-004
 
 Rev.
-March 2018
+February 2019

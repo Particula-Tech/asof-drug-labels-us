@@ -6,12 +6,8 @@ Patients should be given the following information:
 
 Serious Asthma Events
 
-Inform patients with asthma that LABA when used alone increases the risk of asthma-related
-
-hospitalization and asthma-related death.
-Available data show that when ICS and LABA are
-
-used together, such as with AIRDUO RESPICLICK, there is not a significant increase in the risk of these events.
+Inform patients with asthma that LABA when used alone increases the risk of asthma-related hospitalization and asthma-related death.
+Available data show that when ICS and LABA are used together, such as with AIRDUO RESPICLICK, there is not a significant increase in the risk of these events.
 
 Not for Acute Symptoms
 
@@ -112,15 +108,13 @@ Rx only
 
 Marketed by: Teva Respiratory, LLC Frazer, PA 19355
 
-Manufactured by: Teva Pharmaceutical Industries Ltd. Jerusalem, Israel
-
-Copyright ©2018 Teva Respiratory, LLC
+Copyright ©2019 Teva Respiratory, LLC
 
 All rights reserved.
 
 United States Patent Nos. 6701917, 6718972, 6748947, 6871646, 7540282, 8006690, 8651103, 8714149, 8978966, 9066957, 9216260, 9415008, 9463288, 9616024, 9731087.
 
-AIRDPI-003
+AIRDPI-004
 
 Rev.
-March 2018
+February 2019

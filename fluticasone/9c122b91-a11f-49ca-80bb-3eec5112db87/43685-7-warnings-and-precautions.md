@@ -35,9 +35,7 @@ ICS = Inhaled Corticosteroid; LABA = Long-acting Beta2-adrenergic Agonist.
 a Randomized subjects who had taken at least 1 dose of study drug.
 Planned treatment used for analysis.
 
-b Estimated using a Cox proportional hazards model for time to first event with baseline hazards
-
-stratified by each of the 3 trials.
+b Estimated using a Cox proportional hazards model for time to first event with baseline hazards stratified by each of the 3 trials.
 
 c Number of subjects with events that occurred within 6 months after the first use of study drug or 7 days after the last date of study drug, whichever date was later.
 Subjects can have one or more events, but only the first event was counted for analysis.

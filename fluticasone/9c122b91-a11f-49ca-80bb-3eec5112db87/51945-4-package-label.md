@@ -1,7 +1,3 @@
-# Package/Label Display Panel
-
-## AirDuo™ RespiClick® (fluticasone propionate 55 mcg and salmeterol 14 mcg) Inhalation Powder, 60 Metered Inhalations Carton Text
-
 TEVA
 
 NDC 59310-805-06
@@ -36,10 +32,6 @@ information on product use and handling.
 
 ATTENTION: Dispense with enclosed Medication Guide.
 
-# Package/Label Display Panel
-
-## AirDuo™ RespiClick® (fluticasone propionate 113 mcg and salmeterol 14 mcg) Inhalation Powder, 60 Metered Inhalations Carton Text
-
 TEVA
 
 NDC 59310-812-06
@@ -73,10 +65,6 @@ Instructions for Use for detailed
 information on product use and handling.
 
 ATTENTION: Dispense with enclosed Medication Guide.
-
-# Package/Label Display Panel
-
-## AirDuo™ RespiClick® (fluticasone propionate 232 mcg and salmeterol 14 mcg) Inhalation Powder, 60 Metered Inhalations Carton Text
 
 TEVA
 
