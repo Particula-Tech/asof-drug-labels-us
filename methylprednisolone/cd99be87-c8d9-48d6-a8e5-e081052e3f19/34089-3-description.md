@@ -13,18 +13,19 @@ SOLU-MEDROL is available in preservative and preservative-free formulations:
 
 Preservative-free Formulations
 
-| 40 mg Act-O-Vial System (Single-Use Vial)—Each mL (when mixed) contains methylprednisolone sodium succinate equivalent to 40 mg methylprednisolone; also 1.6 mg monobasic sodium phosphate anhydrous; 17.46 mg dibasic sodium phosphate dried; and 25 mg lactose hydrous. |
+| 40 mg Act-O-Vial System (Single-Dose Vial)—Each mL (when mixed) contains methylprednisolone sodium succinate equivalent to 40 mg methylprednisolone; also 1.6 mg monobasic sodium phosphate anhydrous; 17.46 mg dibasic sodium phosphate dried; and 25 mg lactose hydrous. |
 | --- |
-| 125 mg Act-O-Vial System (SingleUse Vial)—Each 2 mL (when mixed) contains methylprednisolone sodium succinate equivalent to 125 mg methylprednisolone; also 1.6 mg monobasic sodium phosphate anhydrous; and 17.4 mg dibasic sodium phosphate dried. |
-| 500 mg Act-O-Vial System (SingleUse Vial)—Each 4 mL (when mixed) contains methylprednisolone sodium succinate equivalent to 500 mg methylprednisolone; also 6.4 mg monobasic sodium phosphate anhydrous; and 69.6 mg dibasic sodium phosphate dried. |
-| 1 gram Act-O-Vial System (SingleUse Vial)—Each 8 mL (when mixed) contains methylprednisolone sodium succinate equivalent to 1 gram methylprednisolone; also 12.8 mg monobasic sodium phosphate anhydrous; and 139.2 mg dibasic sodium phosphate dried. |
+| 125 mg Act-O-Vial System (Single-Dose Vial)—Each 2 mL (when mixed) contains methylprednisolone sodium succinate equivalent to 125 mg methylprednisolone; also 1.6 mg monobasic sodium phosphate anhydrous; and 17.4 mg dibasic sodium phosphate dried. |
+| 500 mg Act-O-Vial System (Single-Dose Vial)—Each 4 mL (when mixed) contains methylprednisolone sodium succinate equivalent to 500 mg methylprednisolone; also 6.4 mg monobasic sodium phosphate anhydrous; and 69.6 mg dibasic sodium phosphate dried. |
+| 1 gram Act-O-Vial System (Single-Dose Vial)—Each 8 mL (when mixed) contains methylprednisolone sodium succinate equivalent to 1 gram methylprednisolone; also 12.8 mg monobasic sodium phosphate anhydrous; and 139.2 mg dibasic sodium phosphate dried. |
 
 Formulations preserved with Benzyl Alcohol
 
 | 500 mg Vial—Each 8 mL (when mixed as directed) contains methylprednisolone sodium succinate equivalent to 500 mg methylprednisolone; also 6.4 mg monobasic sodium phosphate anhydrous; 69.6 mg dibasic sodium phosphate dried. This package does not contain diluent. Recommended diluent (Bacteriostatic water) contains benzyl alcohol as a preservative. |
 | --- |
 | 1 gram Vial—Each 16 mL (when mixed as directed) contains methylprednisolone sodium succinate equivalent to 1 gram methylprednisolone; also 12.8 mg monobasic sodium phosphate anhydrous; 139.2 mg dibasic sodium phosphate dried. This package does not contain diluent. Recommended diluent (Bacteriostatic water) contains benzyl alcohol as a preservative. |
-| 2 gram Vial with Diluent—Each 30.6 mL (when mixed as directed) contains methylprednisolone sodium succinate equivalent to 2 grams methylprednisolone; also 25.6 mg monobasic sodium phosphate anhydrous; 278 mg dibasic sodium phosphate dried; 273 mg benzyl alcohol added as preservative. The packaged diluent (Bacteriostatic Water for Injection) contains benzyl alcohol as a preservative. |
+| 2 gram Vial—Each 30.6 mL (when mixed as directed) contains methylprednisolone sodium succinate equivalent to 2 grams methylprednisolone; also 25.6 mg monobasic sodium phosphate anhydrous; 278 mg dibasic sodium phosphate dried. This package does not contain diluent. Recommended diluent (Bacteriostatic water) contains benzyl alcohol as a preservative. |
+| 2 gram Vial with Diluent—Each 30.6 mL (when mixed as directed) contains methylprednisolone sodium succinate equivalent to 2 grams methylprednisolone; also 25.6 mg monobasic sodium phosphate anhydrous; 278 mg dibasic sodium phosphate dried. The packaged diluent (Bacteriostatic Water for Injection) contains benzyl alcohol as a preservative. |
 | IMPORTANT — Use only the accompanying diluent or Bacteriostatic Water For Injection with Benzyl Alcohol when reconstituting SOLU-MEDROL. Use within 48 hours after mixing. |
 
 When necessary, the pH of each formula was adjusted with sodium hydroxide so that the pH of the reconstituted solution is within the USP specified range of 7 to 8 and the tonicities are, for the 40 mg per mL solution, 0.50 osmolar; for the 125 mg per 2 mL solution, 0.40 osmolar; for the 1 gram per 8 mL solution, 0.44 osmolar; for the 2 gram per 30.6 mL solutions, 0.42 osmolar.
