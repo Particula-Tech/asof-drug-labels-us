@@ -57,6 +57,25 @@ SEE INSERT.
 
 Hospira
 
+# PRINCIPAL DISPLAY PANEL - 1 g Vial Carton
+
+Fliptop Vial Sterile Powder
+
+10 Units/NDC 0409-6533-21
+
+Vancomycin Hydrochloride for Injection, USP
+
+For Intravenous Use.
+
+Equivalent to 1 g Vancomycin
+
+MUST BE FURTHER DILUTED BEFORE USE.
+SEE INSERT.
+
+Distributed by Hospira, Inc., Lake Forest, IL 60045 USA
+
+Hospira
+
 # PRINCIPAL DISPLAY PANEL - 500 mg Vial Label
 
 Sterile Powder
