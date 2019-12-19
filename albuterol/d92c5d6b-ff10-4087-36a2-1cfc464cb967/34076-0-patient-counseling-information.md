@@ -32,9 +32,9 @@ Common Adverse Effects
 
 Common adverse effects of treatment with inhaled albuterol include palpitations, chest pain, rapid heart rate, tremor, and nervousness.
 
-Pregnancy
+Pregnancy Exposure Registry
 
-Advise patients who are pregnant or nursing to contact their physicians about the use of VENTOLIN HFA.
+Inform women there is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to asthma medications, including VENTOLIN HFA, during pregnancy and that they can enroll in the Pregnancy Exposure Registry by calling 1-877-311-8972 or by visiting https://mothertobaby.org/ongoing-study/asthma [see Use in Specific Populations (8.1)].
 
 VENTOLIN is owned by or licensed to the GSK group of companies.
 
@@ -45,6 +45,6 @@ GlaxoSmithKline
 
 Research Triangle Park, NC 27709
 
-©2017 GSK group of companies or its licensor.
+©2019 GSK group of companies or its licensor.
 
-VNT:10PI
+VNT:11PI

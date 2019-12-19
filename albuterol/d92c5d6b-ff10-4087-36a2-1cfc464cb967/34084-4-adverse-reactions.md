@@ -21,7 +21,7 @@ Adult and Adolescent Subjects Aged 12 Years and Older
 
 The two 12-week, randomized, double-blind trials in 610 adult and adolescent subjects with asthma that compared VENTOLIN HFA, a CFC 11/12-propelled albuterol inhaler, and an HFA-134a placebo inhaler.
 Overall, the incidence and nature of the adverse reactions reported for VENTOLIN HFA and a CFC 11/12-propelled albuterol inhaler were comparable.
-Table 1 lists the incidence of all adverse reactions (whether considered by the investigator to be related or unrelated to drug) from these trials that occurred at a rate of 3% or greater in the group treated with VENTOLIN HFA and more frequently in the group treated with VENTOLIN HFA than in the HFA-134a placebo inhaler group.
+Table 1 lists the incidence of all adverse reactions (whether considered by the investigator to be related or unrelated to drug) from these trials that occurred at a rate of ≥3% in the group treated with VENTOLIN HFA and more frequently in the group treated with VENTOLIN HFA than in the HFA-134a placebo inhaler group.
 
 Table 1.
 Adverse Reactions with VENTOLIN HFA with ≥3% Incidence and More Common than Placebo in Adult and Adolescent Subjects
@@ -38,7 +38,7 @@ Adverse Reactions with VENTOLIN HFA with ≥3% Incidence and More Common than Pl
 | Musculoskeletal |  |  |  |
 | Musculoskeletal pain | 5 | 5 | 4 |
 
-Adverse reactions reported by less than 3% of the adult and adolescent subjects receiving VENTOLIN HFA and by a greater proportion of subjects receiving VENTOLIN HFA than receiving HFA-134a placebo inhaler and that have the potential to be related to VENTOLIN HFA include diarrhea, laryngitis, oropharyngeal edema, cough, lung disorders, tachycardia, and extrasystoles.
+Adverse reactions reported by <3% of the adult and adolescent subjects receiving VENTOLIN HFA and by a greater proportion of subjects receiving VENTOLIN HFA than receiving HFA-134a placebo inhaler and that have the potential to be related to VENTOLIN HFA include diarrhea, laryngitis, oropharyngeal edema, cough, lung disorders, tachycardia, and extrasystoles.
 Palpitations and dizziness have also been observed with VENTOLIN HFA.
 
 Pediatric Subjects Aged 4 to 11 Years

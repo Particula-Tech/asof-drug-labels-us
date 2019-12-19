@@ -22,7 +22,7 @@ Day 1
 
 Week 12
 
-In the responder population (greater than or equal to 15% increase in FEV1 within 30 minutes postdose) treated with VENTOLIN HFA, the mean time to onset of a 15% increase in FEV1 over the pretreatment value was 5.4 minutes, and the mean time to peak effect was 56 minutes.
+In the responder population (≥15% increase in FEV1 within 30 minutes postdose) treated with VENTOLIN HFA, the mean time to onset of a 15% increase in FEV1 over the pretreatment value was 5.4 minutes, and the mean time to peak effect was 56 minutes.
 The mean duration of effect as measured by a 15% increase in FEV1 over the pretreatment value was approximately 4 hours.
 In some subjects, duration of effect was as long as 6 hours.
 
