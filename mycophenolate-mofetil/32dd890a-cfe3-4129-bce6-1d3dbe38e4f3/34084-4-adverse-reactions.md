@@ -163,5 +163,5 @@ Because these reactions are reported voluntarily from a population of uncertain 
 - Hematologic and Lymphatic: Bone marrow failure, cases of pure red cell aplasia (PRCA) and hypogammaglobulinemia have been reported in patients treated with mycophenolate mofetil in combination with other immunosuppressive agents [see Warnings and Precautions (5.4)].
 - Immune: Hypersensitivity, hypogammaglobinemia.
 - Infections: Meningitis, infectious endocarditis, tuberculosis, atypical mycobacterial infection, progressive multifocal leukoencephalopathy, BK virus infection, viral reactivation of hepatitis B and hepatitis C [see Warnings and Precautions (5.3)].
-- Respiratory: Bronchiectasis, interstitial lung disorders, fatal pulmonary fibrosis, have been reported rarely and should be considered in the differential diagnosis of pulmonary symptoms ranging from dyspnea to respiratory failure in post-transplant patients receiving mycophenolate mofetil.
+- Respiratory: Bronchiectasis, interstitial lung disease, fatal pulmonary fibrosis, have been reported rarely and should be considered in the differential diagnosis of pulmonary symptoms ranging from dyspnea to respiratory failure in post-transplant patients receiving mycophenolate mofetil.
 - Vascular: Lymphocele
