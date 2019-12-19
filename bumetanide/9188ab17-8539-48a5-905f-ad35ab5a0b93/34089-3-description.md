@@ -7,4 +7,4 @@ It is a practically white powder having a calculated molecular weight of 364.42,
 
 C17H20N2O5S
 
-USP Dissolution Test Pending.
+Meets USP Dissolution Test 2.
