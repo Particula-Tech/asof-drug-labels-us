@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA020457"
+  ],
+  "inn": "etoposide",
+  "labeler": "H2-Pharma, LLC",
+  "package_ndcs": [
+    "61269-410-20"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION",
+      "generic": "etoposide phosphate",
+      "name": "ETOPOPHOS"
+    }
+  ],
+  "setid": "7499fc35-fae8-44ad-bbab-9a1a589bf3ee",
+  "source": "dailymed"
+}
