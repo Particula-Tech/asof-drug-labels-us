@@ -4,7 +4,7 @@
 
 Docetaxel Injection, USP 20 mg/mL
 
-Single use vial.
+Single-dose vial.
 Discard unused portion.
 
 For Intravenous Use only
@@ -19,7 +19,7 @@ LOT EXP
 
 20 mg/mL
 
-1 x 1 mL Single use vial Discard unused portion.
+1 x 1 mL Single-dose vial Discard unused portion.
 
 NDC 0409-0366-01
 
@@ -38,7 +38,7 @@ See package insert for complete instructions.
 
 # PRINCIPAL DISPLAY PANEL - 4 mL Vial Label
 
-4 mL Multi-use Vial Sterile NDC 0409-0367-01
+4 mL Multiple-dose Vial Sterile NDC 0409-0367-01
 
 Docetaxel Injection, USP 80 mg/4 mL
 
@@ -50,11 +50,13 @@ Ready to add to infusion solution.
 Check concentration prior to preparation.
 See package insert for complete instructions.
 
+LOT EXP
+
 # PRINCIPAL DISPLAY PANEL - 4 mL Vial Carton
 
 80 mg/4 mL (20 mg/mL)
 
-1 x 4 mL Multi-use vial
+1 x 4 mL Multiple-dose vial
 
 NDC 0409-0367-01
 
@@ -73,7 +75,7 @@ See package insert for complete instructions.
 
 # PRINCIPAL DISPLAY PANEL - 8 mL Vial Label
 
-8 mL Multi-use Vial Sterile NDC 0409-0368-01
+8 mL Multiple-dose Vial Sterile NDC 0409-0368-01
 
 Docetaxel Injection, USP 160 mg/8 mL
 
@@ -89,7 +91,7 @@ See package insert for complete instructions.
 
 160 mg/8 mL (20 mg/mL)
 
-1 x 8 mL Multi-use vial
+1 x 8 mL Multiple-dose vial
 
 NDC 0409-0368-01
 
