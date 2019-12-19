@@ -37,6 +37,6 @@ Fort Worth, TX 76177 USA
 
 Made in Canada.
 
-Issued: April 2018
+Issued: July 2018
 
 P52476-2

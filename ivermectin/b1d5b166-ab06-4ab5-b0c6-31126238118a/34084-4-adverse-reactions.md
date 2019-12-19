@@ -9,5 +9,5 @@ Adverse reactions, reported in ≤ 1% of subjects treated with SOOLANTRA cream f
 
 ## 6.2 Postmarketing Experience
 
-Because adverse reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
-Local adverse reactions: contact dermatitis and allergic dermatitis.
+Because adverse reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a casual relationship to drug exposure.
+Postmarketing reports for adverse reactions to SOOLANTRA Cream included: contact dermatitis and allergic dermatitis.
