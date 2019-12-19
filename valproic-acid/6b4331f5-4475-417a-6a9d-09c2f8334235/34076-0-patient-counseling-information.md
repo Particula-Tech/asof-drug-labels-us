@@ -45,7 +45,7 @@ Instruct patients that a fever associated with other organ system involvement (r
 
 ©1978-2019 AbbVie Inc.
 
-Revised: November 2019
+Revised: December 2019
 
 Depakene Capsules
 
