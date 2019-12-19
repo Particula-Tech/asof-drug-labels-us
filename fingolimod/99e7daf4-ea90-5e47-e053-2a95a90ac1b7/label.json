@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "ANDA207939"
+  ],
+  "inn": "fingolimod",
+  "labeler": "Rising Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "64980-449-03",
+    "64980-449-07",
+    "64980-449-28",
+    "64980-449-97"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "fingolimod hcl",
+      "name": "fingolimod"
+    }
+  ],
+  "setid": "99e7daf4-ea90-5e47-e053-2a95a90ac1b7",
+  "source": "dailymed"
+}
