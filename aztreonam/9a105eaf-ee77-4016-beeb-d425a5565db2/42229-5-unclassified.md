@@ -3,6 +3,6 @@ To reduce the development of drug-resistant bacteria and maintain the effectiven
 AZACTAM and the Bristol-Myers Squibb logo are registered trademarks of Bristol-Myers Squibb Company.
 All other trademarks are the property of their respective owners.
 
-Manufactured by: Bristol-Myers Squibb Company Princeton, NJ 08543 USA Made in Italy
+Manufactured by: Bristol-Myers Squibb Company Princeton, NJ 08543 USA
 
-Print code Rev September 2018
+Rev December 2019

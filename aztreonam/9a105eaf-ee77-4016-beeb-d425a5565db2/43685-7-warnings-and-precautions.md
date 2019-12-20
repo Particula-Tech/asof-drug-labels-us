@@ -90,9 +90,9 @@ Sufficient data are not available for pediatric patients under 9 months of age o
 ## Geriatric Use
 
 Clinical studies of AZACTAM did not include sufficient numbers of subjects aged 65 years and over to determine whether they respond differently from younger subjects.
-Other reported clinical experience has not identified differences in responses between the elderly and younger patients.9-12 In general, dose selection for an elderly patient should be cautious, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy.
+Other reported clinical experience has not identified differences in responses between the elderly and younger patients.In general, dose selection for an elderly patient should be cautious, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy.
 
-In elderly patients, the mean serum half-life of aztreonam increased and the renal clearance decreased, consistent with the age-related decrease in creatinine clearance.1-4 Since aztreonam is known to be substantially excreted by the kidney, the risk of toxic reactions to this drug may be greater in patients with impaired renal function.
+In elderly patients, the mean serum half-life of aztreonam increased and the renal clearance decreased, consistent with the age-related decrease in creatinine clearance.Since aztreonam is known to be substantially excreted by the kidney, the risk of toxic reactions to this drug may be greater in patients with impaired renal function.
 Because elderly patients are more likely to have decreased renal function, renal function should be monitored and dosage adjustments made accordingly (see DOSAGE AND ADMINISTRATION: Renal Impairment in Adult Patients and Dosage in the Elderly).
 
 AZACTAM contains no sodium.
