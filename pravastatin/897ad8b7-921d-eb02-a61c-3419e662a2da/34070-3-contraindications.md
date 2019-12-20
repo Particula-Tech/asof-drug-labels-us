@@ -14,7 +14,7 @@ Atherosclerosis is a chronic process and discontinuation of lipid-lowering drugs
 Cholesterol and other products of cholesterol biosynthesis are essential components for fetal development (including synthesis of steroids and cell membranes).
 Since statins decrease cholesterol synthesis and possibly the synthesis of other biologically active substances derived from cholesterol, they are contraindicated during pregnancy and in nursing mothers.
 PRAVASTATIN SHOULD BE ADMINISTERED TO WOMEN OF CHILDBEARING AGE ONLY WHEN SUCH PATIENTS ARE HIGHLY UNLIKELY TO CONCEIVE AND HAVE BEEN INFORMED OF THE POTENTIAL HAZARDS.
-If the patient becomes pregnant while taking this class of drug, therapy should be discontinued immediately and the patient apprised of the potential hazard to the fetus [see Use in Specific Populations (8.1,8.3)].
+If the patient becomes pregnant while taking this class of drug, therapy should be discontinued immediately and the patient apprised of the potential hazard to the fetus [see Use in Specific Populations (8.1, 8.3)].
 
 ## 4.4 Lactation
 
