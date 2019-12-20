@@ -41,15 +41,28 @@ Advise patients of the possible additive sedative effects when taking other CNS 
 
 Pregnancy and Breast-feeding
 
-Instruct patients to notify their physicians if they become pregnant or intend to become pregnant during therapy [see Use in Specific Populations (8.1)].
+Advise patients to notify their healthcare provider if they become pregnant or intend to become pregnant during RYTARY therapy [see Use in Specific Populations (8.1)].
 
-Instruct patients to notify their physicians if they intend to breast-feed or are breast-feeding an infant [see Use in Specific Populations (8.3)].
+Advise female patients to notify their physicians if they intend to breast-feed or are breast-feeding an infant [see Use in Specific Populations (8.2)].
 
-Manufactured By: Bora Pharmaceutical Laboratories Inc. Jhunan, Taiwan
+_________________________________________________________________________________________________________________________
 
-Distributed by: Amneal Specialty, a division of Amneal Pharmaceuticals LLC Bridgewater, NJ 08807
+Manufactured By:
 
-1566-04
+Bora Pharmaceutical Laboratories Inc.
 
-Rev.
-01-2019-00
+Jhunan, Taiwan
+
+Distributed by:
+
+Amneal Specialty, a division of Amneal Pharmaceuticals LLC
+
+Bridgewater, NJ 08807
+
+Printed in USA
+
+Copyright 2019 Amneal Pharmaceuticals LLC
+
+All rights reserved
+
+1566-05

@@ -2,21 +2,33 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Category C There are no adequate and well-controlled studies in pregnant women.
-It has been reported from individual cases that levodopa crosses the human placental barrier, enters the fetus, and is metabolized.
-In animal studies, carbidopa-levodopa has been shown to be developmentally toxic (including teratogenic effects) at clinically relevant doses.
-RYTARY should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
+Risk Summary
+
+There are no adequate data on the developmental risk associated with the use of RYTARY in pregnant women.
+In animal studies, carbidopa-levodopa has been shown to be developmentally toxic (including teratogenic effects) at clinically relevant doses (see Data).
+
+The estimated background risk of major birth defects and miscarriage in the indicated population is unknown.
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively.
+
+Data
+
+Animal Data
 
 When administered to pregnant rabbits throughout organogenesis, carbidopa-levodopa caused both visceral and skeletal malformation in fetuses at all doses and ratios of carbidopa-levodopa tested.
 No teratogenic effects were observed when carbidopa-levodopa was administered to pregnant mice throughout organogenesis.
 
-There was a decrease in the number of live pups delivered by rats receiving carbidopa-levodopa during organogenesis.
+There was a decrease in the number of live pups delivered by rats receiving carbidopa-levodopa during organogenesis
 
-## 8.3 Nursing Mothers
+## 8.2 Lactation
 
+Risk Summary
+
+Levodopa has been detected in human milk after administration of carbidopa-levodopa.
+There are no data on the presence of carbidopa in human milk, the effects of levodopa or carbidopa on the breastfed infant, or the effects on milk production.
+However, inhibition of lactation may occur because levodopa decreases secretion of prolactin in humans.
 Carbidopa is excreted in rat milk.
-In a study of one nursing mother with Parkinson's disease, excretion of levodopa in human milk was reported.
-Caution should be exercised when RYTARY is administered to a nursing woman.
+
+The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for RYTARY and any potential adverse effects on the breastfed infant from RYTARY or from the underlying maternal condition.
 
 ## 8.4 Pediatric Use
 

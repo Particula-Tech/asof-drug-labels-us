@@ -9,8 +9,7 @@ The following serious adverse reactions are discussed below and elsewhere in the
 - Impulse Control/Compulsive Behaviors [see Warnings and Precautions (5.5)]
 - Dyskinesia [see Warnings and Precautions (5.6)]
 - Peptic Ulcer Disease [see Warnings and Precautions (5.7)]
-- Glaucoma [see Warnings and Precautions (5.8)]
-- Melanoma [see Warnings and Precautions (5.9)]
+- Glaucoma [see Warnings and Precautions (5.8)
 
 ## 6.1 Clinical Trials Experience
 

@@ -2,7 +2,7 @@
 
 ## 16.1 How Supplied
 
-RYTARY (carbidopa and levodopa) Extended-release Capsules are available in the following strengths:
+RYTARY (carbidopa and levodopa) Extended-Release Capsules are available in the following strengths:
 
 - 23.75 mg Carbidopa and 95 mg of Levodopa: blue and white capsule imprinted with IPX066 on the capsule cap and 95 on the capsule body.
   They are available as follows: Bottles of 100: (NDC 64896-661-01) Bottles of 240: (NDC 64896-661-43)

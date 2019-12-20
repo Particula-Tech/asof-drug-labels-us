@@ -11,7 +11,7 @@ Patients receiving RYTARY initiated treatment at 23.75 mg / 95 mg three times da
 The dose was increased on Day 4 and the maximum study dose (97.5 mg / 390 mg TID) was achieved by Day 22.
 
 The clinical outcome measure in Study 1 was the mean change from baseline in the sum of the Unified Parkinson’s Disease Rating Scale (UPDRS) Part II (activities of daily living) score, and UPDRS Part III (motor score) for RYTARY, compared to placebo at Week 30 (or early termination).
-The mean score decrease (i.e. improvement) from baseline to Week 30 for each of the three RYTARY dosage groups was significantly greater than for placebo.
+The mean score decrease (i.e., improvement) from baseline to Week 30 for each of the three RYTARY dosage groups was significantly greater than for placebo.
 The results of Study 1 are shown in Table 4.
 
 Table 4: Study 1: Change from Baseline in UPDRS Part II plus Part III Score at Week 30 (or at Early Termination) in Levodopa-Naïve Patients with Early Parkinson’s Disease

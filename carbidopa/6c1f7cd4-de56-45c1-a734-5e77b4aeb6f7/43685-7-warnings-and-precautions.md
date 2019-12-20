@@ -63,10 +63,3 @@ Treatment with RYTARY may increase the possibility of upper gastrointestinal hem
 
 RYTARY may cause increased intraocular pressure in patients with glaucoma.
 Monitor intraocular pressure in patients with glaucoma after starting RYTARY.
-
-## 5.9 Melanoma
-
-Epidemiological studies have shown that patients with Parkinson's disease have a higher risk (2- to approximately 6-fold higher) of developing melanoma than the general population.
-Whether the increased risk observed was due to Parkinson's disease or other factors, such as drugs used to treat Parkinson's disease, is unclear.
-
-Perform periodic skin examinations to monitor for melanoma in patients receiving RYTARY.

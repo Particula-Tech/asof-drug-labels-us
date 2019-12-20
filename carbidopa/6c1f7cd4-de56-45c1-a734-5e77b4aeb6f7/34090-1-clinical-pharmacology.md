@@ -35,7 +35,7 @@ The bioavailability of levodopa from RYTARY in patients was approximately 70% re
 For comparable doses, RYTARY results in a levodopa peak concentration (Cmax) that is 30% that of immediate-release carbidopa-levodopa.
 Following an initial peak at about one hour, plasma concentrations are maintained for about 4 to 5 hours before declining.
 
-In patients with Parkinson’s disease, multiple-dose pharmacokinetics was comparable to single-dose pharmacokinetics, i.e. there was minimal accumulation of levodopa.
+In patients with Parkinson’s disease, multiple-dose pharmacokinetics was comparable to single-dose pharmacokinetics, i.e., there was minimal accumulation of levodopa.
 Variation in levodopa peak to trough plasma concentrations at steady-state defined as (Cmax-Cmin)/Cavg was approximately 1.5 for RYTARY compared to approximately 3.2 for immediate-release levodopa.
 
 Distribution
