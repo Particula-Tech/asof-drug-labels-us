@@ -1,6 +1,6 @@
 # 7 DRUG INTERACTIONS
 
-## 7.1 Not Recommended with Other Antireteroviral Medications
+## 7.1 Not Recommended with Other Antiretroviral Medications
 
 Because ODEFSEY is a complete regimen, coadministration with other antiretroviral medications for the treatment of HIV-1 infection is not recommended.
 

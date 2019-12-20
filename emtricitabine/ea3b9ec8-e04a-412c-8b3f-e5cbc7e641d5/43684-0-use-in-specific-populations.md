@@ -9,7 +9,7 @@ Healthcare providers are encouraged to register patients by calling the Antiretr
 
 Risk Summary
 
-Available data from the APR show no increase in the risk of overall major birth defects with first trimester exposure for emticitabine (FTC) or rilpivirine (RPV) compared with the background rate for major birth defects of 2.7% in a US reference population of the Metropolitan Atlanta Congenital Defects Program (MACDP) (see Data).
+Available data from the APR show no increase in the risk of overall major birth defects with first trimester exposure for emtricitabine (FTC) or rilpivirine (RPV) compared with the background rate for major birth defects of 2.7% in a US reference population of the Metropolitan Atlanta Congenital Defects Program (MACDP) (see Data).
 There are insufficient tenofovir alafenamide (TAF) data from the APR to adequately assess the risk of major birth defects.
 In a clinical trial, total rilpivirine exposures were generally lower during pregnancy compared to the postpartum period [see Clinical Pharmacology (12.3)].
 The rate of miscarriage for individual drugs is not reported in the APR.
@@ -108,8 +108,11 @@ Clinical trials of RPV did not include sufficient numbers of subjects aged 65 ye
 
 ## 8.6 Renal Impairment
 
-ODEFSEY is not recommended in patients with severe renal impairment (estimated creatinine clearance below 30 mL per minute).
-No dosage adjustment of ODEFSEY is recommended in patients with estimated creatinine clearance greater than or equal to 30 mL per minute [see Dosage and Administration (2.2) and Clinical Pharmacology (12.3)].
+No dosage adjustment of ODEFSEY is recommended in patients with estimated creatinine clearance greater than or equal to 30 mL per minute.
+ODEFSEY should be used with caution in adults patients with ESRD (estimated creatinine clearance below 15mL per minute) who are receiving chronic hemodialysis and increased monitoring is recommended for RPV-related adverse effects in patients with ESRD, as RPV concentrations may be increased due to alteration of drug absorption, distribution, and metabolism secondary to renal dysfunction.
+On days of hemodialysis, administer the daily dose of ODEFSEY after completion of hemodialysis treatment [see Dosage and Administration (2.4) and Clinical Pharmacology (12.3)].
+
+ODEFSEY is not recommended in patients with severe renal impairment (estimated creatinine clearance of 15 to below 30 mL per minute), or in patients with ESRD who are not receiving chronic hemodialysis, as the safety of ODEFSEY has not been established in these populations [see Dosage and Administration (2.4) and Clinical Pharmacology (12.3)].
 
 ## 8.7 Hepatic Impairment
 

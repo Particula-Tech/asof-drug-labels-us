@@ -6,7 +6,7 @@ Test patients with HIV-1 for the presence of hepatitis B virus (HBV) before or w
 
 Severe acute exacerbations of hepatitis B (e.g., liver decompensation and liver failure) have been reported in patients who are coinfected with HIV-1 and HBV and have discontinued products containing FTC and/or TDF, and may occur with discontinuation of ODEFSEY.
 Patients coinfected with HIV-1 and HBV who discontinue ODEFSEY should be closely monitored with both clinical and laboratory follow-up for at least several months after stopping treatment with ODEFSEY.
-If appropriate, initiation of anti-hepatitis B therapy may be warranted, especially in patients with advanced liver disease or cirrhosis, since post treatment exacerbation of hepatitis may lead to hepatic decompensation and liver failure.
+If appropriate, anti-hepatitis B therapy may be warranted, especially in patients with advanced liver disease or cirrhosis, since post treatment exacerbation of hepatitis may lead to hepatic decompensation and liver failure.
 
 ## 5.2 Skin and Hypersensitivity Reactions
 
@@ -45,9 +45,9 @@ Suicidal ideation and suicide attempt were reported in 1 subject.
 
 Renal impairment, including cases of acute renal failure and Fanconi syndrome (renal tubular injury with severe hypophosphatemia), has been reported with the use of tenofovir prodrugs in both animal toxicology studies and human trials.
 In clinical trials of FTC+TAF with EVG+COBI, there have been no cases of Fanconi syndrome or proximal renal tubulopathy (PRT).
-In clinical trials of FTC+TAF with EVG+COBI in treatment-naïve subjects and in virologically-suppressed subjects switched to FTC+TAF with EVG+COBI with eGFRs greater than 50 mL per minute, renal serious adverse events or discontinuations due to renal adverse reactions were encountered in less than 1% of participants treated with FTC+TAF with EVG+COBI.
-In a study of virologically-suppressed subjects with baseline eGFRs between 30 and 69 mL per minute treated with FTC+TAF with EVG+COBI for a median duration of 43 weeks, FTC+TAF with EVG+COBI was permanently discontinued due to worsening renal function in two of 80 (3%) subjects with a baseline eGFR between 30 and 50 mL per minute [see Adverse Reactions (6.1)].
-ODEFSEY is not recommended in patients with estimated creatinine clearance below 30 mL per minute because data in this population are insufficient.
+In clinical trials of FTC+TAF with EVG+COBI in treatment-naïve subjects and in virologically-suppressed subjects switched to FTC+TAF with EVG+COBI with estimated creatinine clearance greater than 50 mL per minute, renal serious adverse events or discontinuations due to renal adverse reactions were encountered in less than 1% of participants treated with FTC+TAF with EVG+COBI.
+In a study of virologically-suppressed subjects with baseline estimated creatinine clearance between 30 and 69 mL per minute treated with FTC+TAF with EVG+COBI for a median duration of 43 weeks, FTC+TAF with EVG+COBI was permanently discontinued due to worsening renal function in two of 80 (3%) subjects with a baseline estimated creatinine clearance between 30 and 50 mL per minute [see Adverse Reactions (6.1)].
+ODEFSEY is not recommended in patients with estimated creatinine clearance of 15 to below 30 mL per minute, or in patients with estimated creatinine clearance below 15 mL per minute who are not receiving chronic hemodialysis.
 
 Patients taking tenofovir prodrugs who have impaired renal function and those taking nephrotoxic agents, including nonsteroidal anti-inflammatory drugs are at increased risk of developing renal-related adverse reactions.
 
@@ -77,4 +77,4 @@ Treatment with ODEFSEY should be suspended in any patient who develops clinical 
 Immune reconstitution syndrome has been reported in patients treated with combination antiretroviral therapy, including FTC and RPV, both components of ODEFSEY.
 During the initial phase of combination antiretroviral treatment, patients whose immune system responds may develop an inflammatory response to indolent or residual opportunistic infections [such as Mycobacterium avium infection, cytomegalovirus, Pneumocystis jirovecii pneumonia (PCP), or tuberculosis], which may necessitate further evaluation and treatment.
 
-Autoimmune disorders (such as Graves' disease, polymyositis, and Guillain-Barré syndrome) have also been reported to occur in the setting of immune reconstitution, however, the time to onset is more variable, and can occur many months after initiation of treatment.
+Autoimmune disorders (such as Graves' disease, polymyositis, Guillain-Barré syndrome, and autoimmune hepatitis) have also been reported to occur in the setting of immune reconstitution, however, the time to onset is more variable, and can occur many months after initiation of treatment.

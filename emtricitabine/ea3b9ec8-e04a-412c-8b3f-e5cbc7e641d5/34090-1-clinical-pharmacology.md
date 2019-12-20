@@ -81,16 +81,16 @@ Patients with Renal Impairment
 Rilpivirine: Population pharmacokinetic analysis indicated that RPV exposure was similar in HIV-1 infected subjects with eGFR 60 to 89 mL per minute by Cockcroft-Gault method relative to HIV-1 infected subjects with normal renal function.
 There is limited or no information regarding the pharmacokinetics of RPV in patients with moderate or severe renal impairment or in patients with end-stage renal disease [see Use in Specific Populations (8.6)].
 
-Tenofovir Alafenamide: The pharmacokinetics of FTC+TAF with EVG+COBI in HIV-1 infected subjects with renal impairment (eGFR 30 to 69 mL per minute by Cockcroft-Gault method) were evaluated within a subset of virologically-suppressed subjects in an open-label trial (Table 6).
+Emtricitabine and Tenofovir Alafenamide: The pharmacokinetics of FTC+TAF with EVG+COBI in HIV-1 infected subjects with renal impairment (eGFR 30 to 69 mL per minute by Cockcroft-Gault method), and in HIV-1 infected subjects with ESRD (estimated creatinine clearance of less than 15 mL per minute by Cockcroft-Gault method) receiving chronic hemodialysis were evaluated in subsets of virologically-suppressed subjects in open-label trials.
+The pharmacokinetics of TAF were similar among healthy subjects, subjects with mild or moderate renal impairment, and subjects with ESRD receiving chronic hemodialysis; increases in FTC and TFV exposures in subjects with renal impairment were not considered clinically relevant (Table 6).
 
-Table 6 Pharmacokinetics of the FTC, TAF, and a Metabolite of TAF (Tenofovir) in HIV-Infected Adults with Renal Impairment as Compared to Subjects with Normal Renal Function
+Table 6 Pharmacokinetics of FTC and a Metabolite of TAF (Tenofovir) in HIV-Infected Adults with Renal Impairment as Compared to Subjects with Normal Renal Function
 
-| Creatinine Clearance | ≥90 mL per minute (N=18)From a phase 2 trial in HIV-infected adults with normal renal function treated with FTC+TAF with EVG+COBI. | 60–89 mL per minute (N=11)These subjects had an eGFR ranging from 60 to 69 mL per minute. | 30–59 mL per minute (N=18) |
-| --- | --- | --- | --- |
-|  | AUCtau (microgram-hour per mL) Mean (CV%) |  |  |
-| Emtricitabine | 11.4 (11.9) | 17.6 (18.2) | 23.0 (23.6) |
-| Tenofovir AlafenamideAUClast | 0.23 (47.2) | 0.24 (45.6) | 0.26 (58.8) |
-| Tenofovir | 0.32 (14.9) | 0.46 (31.5) | 0.61 (28.4) |
+| Estimated Creatinine ClearanceBy Cockcroft-Gault method. | ≥90 mL per minute (N=18)From a phase 2 trial in HIV-infected adults with normal renal function treated with FTC+TAF with EVG+COBI. | 60–89 mL per minute (N=11)These subjects had an eGFR ranging from 60 to 69 mL per minute. | 30–59 mL per minute (N=18)From a phase 3 trial in HIV infected adults with renal impairment treated with FTC+TAF with EVG+COBI. | <15 mL per minute (N=12)From a phase 3 trial in HIV infected adults with ESRD receiving chronic hemodialysis treated with FTC+TAF with EVG+COBI; PK assessed prior to hemodialysis following 3 consecutive daily doses of FTC+TAF with EVG+COBI. |
+| --- | --- | --- | --- | --- |
+|  | AUCtau (microgram-hour per mL) Mean (CV%) |  |  |  |
+| Emtricitabine | 11.4 (11.9) | 17.6 (18.2) | 23.0 (23.6) | 62.9 (48.0)N=11. |
+| Tenofovir | 0.32 (14.9) | 0.46 (31.5) | 0.61 (28.4) | 8.72 (39.4)N=10. |
 
 Patients with Hepatic Impairment
 
@@ -284,8 +284,8 @@ Genotypic resistance developed in 7 of 14 evaluable subjects.
 The resistance–associated substitutions that emerged were M184V/I (N=7) and K65R (N=1).
 Three subjects had virus with emergent R, H, or E at the polymorphic Q207 residue in reverse transcriptase.
 
-Rilpivirine: In the Week 96 pooled resistance analysis for adult subjects receiving RPV or efavirenz in combination with FTC/TDF, the emergence of resistance was greater among subjects' viruses in the RPV+FTC/TDF arm compared to the efavirenz + FTC/TDF arm and was dependent on baseline viral load.
-In the Week 96 resistance analysis, 14% (77/550) of the subjects in the RPV+FTC/TDF arm and 8% (43/546) of the subjects in the efavirenz + FTC/TDF arm qualified for resistance analysis; 61% (47/77) of the subjects who qualified for resistance analysis (resistance-analysis subjects) in the RPV+FTC/TDF arm had virus with genotypic and/or phenotypic resistance to RPV compared to 42% (18/43) of the resistance-analysis subjects in the efavirenz + FTC/TDF arm who had genotypic and/or phenotypic resistance to efavirenz.
+Rilpivirine: In the Week 96 pooled resistance analysis for adult subjects receiving RPV or efavirenz in combination with FTC/TDF, the emergence of resistance was greater among subjects' viruses in the RPV+FTC/TDF arm compared to the efavirenz+FTC/TDF arm and was dependent on baseline viral load.
+In the Week 96 resistance analysis, 14% (77/550) of the subjects in the RPV+FTC/TDF arm and 8% (43/546) of the subjects in the efavirenz+FTC/TDF arm qualified for resistance analysis; 61% (47/77) of the subjects who qualified for resistance analysis (resistance-analysis subjects) in the RPV+FTC/TDF arm had virus with genotypic and/or phenotypic resistance to RPV compared to 42% (18/43) of the resistance-analysis subjects in the efavirenz+FTC/TDF arm who had genotypic and/or phenotypic resistance to efavirenz.
 Moreover, genotypic and/or phenotypic resistance to emtricitabine or tenofovir emerged in viruses from 57% (44/77) of the resistance-analysis subjects in the RPV arm compared to 26% (11/43) in the efavirenz arm.
 
 Emerging NNRTI substitutions in the RPV resistance analysis of subjects' viruses included V90I, K101E/P/T, E138K/A/Q/G, V179I/L, Y181C/I, V189I, H221Y, F227C/L, and M230L, which were associated with an RPV phenotypic fold change range of 2.6–621.

@@ -110,8 +110,10 @@ Two subjects had significant (greater than 4%) lumbar spine BMD loss at Week 24.
 
 ## 6.2 Postmarketing Experience
 
-The following adverse reactions have been identified during postmarketing experience in patients receiving RPV-containing regimens.
+The following adverse reactions have been identified during postmarketing experience in patients receiving RPV or TAF-containing regimens.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+Rilpivirine:
 
 Metabolism and Nutrition Disorders
 
@@ -124,3 +126,9 @@ Severe skin and hypersensitivity reactions including DRESS (Drug Reaction with E
 Renal and Urinary Disorders
 
 Nephrotic syndrome
+
+Tenofovir alafenamide:
+
+Skin and Subcutaneous Tissue Disorders
+
+Angioedema, urticaria, and rash

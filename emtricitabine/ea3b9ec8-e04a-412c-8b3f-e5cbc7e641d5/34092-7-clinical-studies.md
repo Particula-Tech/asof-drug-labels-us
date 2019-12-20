@@ -28,7 +28,7 @@ Table 12 Virologic Outcomes of Trials 1216 and 1160 at Week 48Week 48 window was
 | Discontinued Study Drug Due to Other Reasons and Last Available HIV-1 RNA <50 copies/mLIncludes subjects who discontinued for reasons other than an AE, death, or lack or loss of efficacy; e.g., withdrew consent, loss to follow-up, etc. | 4% | 4% | 5% | 5% |
 | Missing Data During Window but on Study Drug | <1% | 1% | 1% | 1% |
 
-## 14.2 Clinical Trial Results for Adult Subjects with no Antiretroviral Treatment History for Components of ODEFSEY
+## 14.2 Clinical Trial Results for Adult Subjects with no Antiretroviral Treatment History and Adults with Renal Impairment for Components of ODEFSEY
 
 The efficacy of RPV, FTC, and TAF in the treatment of HIV-1 infection in adults as initial therapy in those with no antiretroviral treatment history [see Indications and Usage (1)] was established in trials of:
 
@@ -39,7 +39,7 @@ The efficacy of RPV, FTC, and TAF in the treatment of HIV-1 infection in adults 
 - FTC+TAF with EVG+COBI in HIV-1 infected adults as initial therapy in those with no antiretroviral treatment history (n=866).
   The virologic response rate (i.e., HIV-1 RNA less than 50 copies per mL) was 92% at Week 48.
 
-In the clinical trial of 248 HIV-1 infected adult patients with estimated creatinine clearance greater than 30 mL per minute but less than 70 mL per minute, 95% (235/248) of the combined populations of treatment-naïve (N=6) begun on FTC+TAF with EVG+COBI and those previously virologically-suppressed on other regimens (N=242) and switched to FTC+TAF with EVG +COBI had HIV-RNA levels less than 50 copies per mL at Week 24.
+In the clinical trial of 248 HIV-1 infected adults with estimated creatinine clearance greater than 30 mL per minute but less than 70 mL per minute, 95% (235/248) of the combined populations of treatment-naïve (N=6) begun on FTC+TAF with EVG+COBI and those previously virologically-suppressed on other regimens (N=242) and switched to FTC+TAF with EVG +COBI had HIV-1 RNA levels less than 50 copies per mL at Week 24.
 
 ## 14.3 Clinical Trial Results for Pediatric Subjects Aged 12 to Less than 18 Years Old with no Antiretroviral Treatment History for Components of ODEFSEY
 

@@ -11,6 +11,4 @@ Rilpivirine (RPV): Human experience of overdose with RPV is limited.
 There is no specific antidote for overdose with RPV.
 Since RPV is highly bound to plasma protein, dialysis is unlikely to result in significant removal of RPV.
 
-Administration of activated charcoal may be used to aid in removal of unabsorbed active substance.
-
 Tenofovir Alafenamide (TAF): Tenofovir is efficiently removed by hemodialysis with an extraction coefficient of approximately 54%.
