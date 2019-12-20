@@ -143,7 +143,7 @@ This Patient Information Leaflet summarizes the most important information about
 If you would like more information, talk to your healthcare provider.
 You can ask your pharmacist or healthcare provider for information about AUVI-Q that is written for health professionals.
 
-For more information and video instructions on the use of AUVI-Q, go to www.auvi-q.com or call 1-844-828-8472.
+For more information and video instructions on the use of AUVI-Q, go to www.auvi-q.com or call 1-877-302-8847.
 
 What are the ingredients in AUVI-Q?
 Active ingredient: epinephrine.
