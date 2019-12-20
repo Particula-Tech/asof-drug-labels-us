@@ -8,7 +8,7 @@ For Intravenous Use Only.
 
 WARNING: SEE INSERT REGARDING CONTRAINDICATION IN SEVERE RENAL IMPAIRMENT.
 
-Hospira, Inc., Lake Forest, IL 60045 USA
+Distributed by Hospira, Inc., Lake Forest, IL 60045 USA
 
 # PRINCIPAL DISPLAY PANEL - 50 mL Vial Tray
 
