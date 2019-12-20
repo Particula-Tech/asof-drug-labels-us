@@ -7,7 +7,7 @@ To avoid medication errors, prescribers and pharmacists must be aware that hydro
 Hydromorphone hydrochloride extended-release tablets should be prescribed only by healthcare professionals who are knowledgeable in the use of potent opioids for the management of chronic pain.
 
 Due to the risk of respiratory depression, hydromorphone hydrochloride extended-release tablets are only indicated for use in patients who are already opioid-tolerant.
-Discontinue or taper all other extended-release opioids when beginning hydromorphone hydrochloride extended-release tablets therapy.
+Discontinue or taper all other extended-release opioids when beginning hydromorphone hydrochloride extended-release tablet therapy.
 As hydromorphone hydrochloride extended-release tablets are only for use in opioid-tolerant patients, do not begin any patient on hydromorphone hydrochloride extended-release tablets as the first opioid.
 
 Patients who are opioid-tolerant are those receiving, for one week or longer, at least 60 mg of oral morphine per day, at least 25 mcg transdermal fentanyl per hour, at least 30 mg of oral oxycodone per day, at least 8 mg of oral hydromorphone per day, at least 25 mg oral oxymorphone per day, at least 60 mg oral hydrocodone per day, or an equianalgesic dose of another opioid.
@@ -27,13 +27,13 @@ Patients receiving oral immediate-release hydromorphone may be converted to hydr
 
 Conversion from Other Oral Opioids to Hydromorphone Hydrochloride Extended-Release Tablets
 
-Discontinue all other around-the-clock opioid drugs when hydromorphone hydrochloride extended-release tablets therapy is initiated.
+Discontinue all other around-the-clock opioid drugs when hydromorphone hydrochloride extended-release tablet therapy is initiated.
 
 There is substantial inter-patient variability in the relative potency of different opioid drugs and opioid formulations.
 Therefore, a conservative approach is advised when determining the total daily dosage of hydromorphone hydrochloride extended-release tablets.
 It is safer to underestimate a patient's 24-hour oral hydromorphone dosage and provide rescue medication (e.g., immediate-release opioid) than to overestimate the 24-hour oral hydromorphone dosage and manage an adverse reaction due to overdose.
 
-In a hydromorphone hydrochloride extended-release tablets clinical trial with an open-label titration period, patients were converted from their prior opioid to hydromorphone hydrochloride extended-release tablets using the Table 1 as a guide for the initial hydromorphone hydrochloride extended-release tablets dose.
+In a hydromorphone hydrochloride extended-release tablet clinical trial with an open-label titration period, patients were converted from their prior opioid to hydromorphone hydrochloride extended-release tablets using the Table 1 as a guide for the initial hydromorphone hydrochloride extended-release tablets dose.
 The recommended starting dose of hydromorphone hydrochloride extended-release tablets is 50% of the calculated estimate of daily hydromorphone requirement.
 Calculate the estimated daily hydromorphone requirement using Table 1.
 
@@ -41,7 +41,7 @@ Consider the following when using the information in Table 1:
 
 • This is not a table of equianalgesic doses.
 
-• The conversion factors in this table are only for the conversion from one of the listed oral opioid analgesics to hydromorphone hydrochloride extended release-tablets.
+• The conversion factors in this table are only for the conversion from one of the listed oral opioid analgesics to hydromorphone hydrochloride extended-release tablets.
 
 • The table cannot be used to convert from hydromorphone hydrochloride extended-release tablets to another opioid.
 Doing so will result in an overestimation of the dose of the new opioid and may result in fatal overdose.
@@ -70,14 +70,10 @@ Example conversion from a single opioid to hydromorphone hydrochloride extended-
 Step 1: Sum the total daily dose of the opioid
 
 - •30 mg of oxycodone 2 times daily = 60 mg total daily dose of oxycodone
-
-Step 2: Calculate the approximate equivalent dose of oral hydromorphone based on the total daily dose of the current opioid using Table 1
-
+- Step 2: Calculate the approximate equivalent dose of oral hydromorphone based on the total daily dose of the current opioid using Table 1
 - •60 mg total daily dose of oxycodone x Conversion Factor of 0.4 = 24 mg of oral hydromorphone daily
-
-Step 3: Calculate the approximate starting dose of hydromorphone hydrochloride extended-release tablets to be given every 24 hours, which is 50% of the calculated oral hydromorphone dose.
-Round down, if necessary, to the appropriate hydromorphone hydrochloride extended-release tablet strengths available.
-
+- Step 3: Calculate the approximate starting dose of hydromorphone hydrochloride extended-release tablets to be given every 24 hours, which is 50% of the calculated oral hydromorphone dose.
+  Round down, if necessary, to the appropriate hydromorphone hydrochloride extended-release tablet strengths available.
 - •50% of 24 mg results in an initial dose of 12 mg of hydromorphone hydrochloride extended-release tablets once daily
 - •Adjust individually for each patient
 
@@ -92,19 +88,14 @@ Then reduce the hydromorphone hydrochloride extended-release tablets dose by 50%
 
 For example:
 
-Step 1: Identify the dose of transdermal fentanyl.
-
-- •75 mg of transdermal fentanyl
-
-Step 2: Use the conversion factor of 25 mcg/hr fentanyl transdermal patch to 12 mg of hydromorphone hydrochloride extended-release tablets.
-
-- •75 mg of transdermal fentanyl: 36 mg total daily dose of hydromorphone hydrochloride extended-release tablets
-
-Step 3: Calculate the approximate starting dose of hydromorphone hydrochloride extended-release tablets to be given every 24 hours, which is 50% of the converted dose.
-Round down, if necessary, to the appropriate hydromorphone hydrochloride extended-release tablet strengths available.
-
-- •50% of 36 mg results in an initial dose of 18 mg, which would be rounded down to 16 mg of hydromorphone hydrochloride extended-release tablets once daily
-- •Adjust individually for each patient
+1. Step 1: Identify the dose of transdermal fentanyl.
+2. •75 mg of transdermal fentanyl
+3. Step 2: Use the conversion factor of 25 mcg/hr fentanyl transdermal patch to 12 mg of hydromorphone hydrochloride extended-release tablets.
+4. •75 mg of transdermal fentanyl: 36 mg total daily dose of hydromorphone hydrochloride extended-release tablets
+5. Step 3: Calculate the approximate starting dose of hydromorphone hydrochloride extended-release tablets to be given every 24 hours, which is 50% of the converted dose.
+   Round down, if necessary, to the appropriate hydromorphone hydrochloride extended-release tablet strengths available.
+6. •50% of 36 mg results in an initial dose of 18 mg, which would be rounded down to 16 mg of hydromorphone hydrochloride extended-release tablets once daily
+7. •Adjust individually for each patient
 
 Conversion from Methadone to Hydromorphone Hydrochloride Extended-Release Tablets
 
@@ -128,13 +119,33 @@ If the level of pain increases after dose stabilization, attempt to identify the
 If unacceptable opioid-related adverse reactions are observed, the subsequent doses may be reduced.
 Adjust the dose to obtain an appropriate balance between management of pain and opioid-related adverse reactions.
 
-## 2.4 Discontinuation of Hydromorphone Hydrochloride Extended-Release Tablets
+## 2.4 Safe Reduction or Discontinuation of Hydromorphone Hydrochloride Extended-Release Tablets
 
-When a patient no longer requires therapy with hydromorphone hydrochloride extended-release tablets, taper doses gradually, by 25% to 50% every 2 to 3 days while monitoring carefully for signs and symptoms of withdrawal.
-If the patient develops these signs or symptoms, raise the dose to the previous level and taper more slowly, either by increasing the interval between decreases, decreasing the amount of change in dose, or both.
-Do not abruptly discontinue hydromorphone hydrochloride extended-release tablets.
+Do not abruptly discontinue hydromorphone hydrochloride extended-release tablets in patients who may be physically dependent on opioids.
+Rapid discontinuation of opioid analgesics in patients who are physically dependent on opioids has resulted in serious withdrawal symptoms, uncontrolled pain, and suicide.
+Rapid discontinuation has also been associated with attempts to find other sources of opioid analgesics, which may be confused with drug-seeking for abuse.
+Patients may also attempt to treat their pain or withdrawal symptoms with illicit opioids, such as heroin, and other substances.
 
-To dispose of unused hydromorphone hydrochloride extended-release tablets flush all remaining tablets down the toilet or remit to authorities at a certified drug take-back program.
+When a decision has been made to decrease the dose or discontinue therapy in an opioid-dependent patient taking hydromorphone hydrochloride extended-release tablets, there are a variety of factors that should be considered, including the dose of hydromorphone hydrochloride extended-release tablets the patient has been taking, the duration of treatment, the type of pain being treated, and the physical and psychological attributes of the patient.
+It is important to ensure ongoing care of the patient and to agree on an appropriate tapering schedule and follow-up plan so that patient and provider goals and expectations are clear and realistic.
+When opioid analgesics are being discontinued due to a suspected substance use disorder, evaluate and treat the patient, or refer for evaluation and treatment of the substance use disorder.
+Treatment should include evidence-based approaches, such as medication assisted treatment of opioid use disorder.
+Complex patients with comorbid pain and substance use disorders may benefit from referral to a specialist.
+
+There are no standard opioid tapering schedules that are suitable for all patients.
+Good clinical practice dictates a patient-specific plan to taper the dose of the opioid gradually.
+For patients on hydromorphone hydrochloride extended-release tablets who are physically opioid-dependent, initiate the taper by a small enough increment (e.g., no greater than 10% to 25% of the total daily dose) to avoid withdrawal symptoms, and proceed with dose-lowering at an interval of every 2 to 4 weeks.
+Patients who have been taking opioids for briefer periods of time may tolerate a more rapid taper.
+
+It may be necessary to provide the patient with lower dosage strengths to accomplish a successful taper.
+Reassess the patient frequently to manage pain and withdrawal symptoms, should they emerge.
+Common withdrawal symptoms include restlessness, lacrimation, rhinorrhea, yawning, perspiration, chills, myalgia, and mydriasis.
+Other signs and symptoms also may develop, including irritability, anxiety, backache, joint pain, weakness, abdominal cramps, insomnia, nausea, anorexia, vomiting, diarrhea, or increased blood pressure, respiratory rate, or heart rate.
+If withdrawal symptoms arise, it may be necessary to pause the taper for a period of time or raise the dose of the opioid analgesic to the previous dose, and then proceed with a slower taper.
+In addition, monitor patients for any changes in mood, emergence of suicidal thoughts, or use of other substances.
+
+When managing patients taking opioid analgesics, particularly those who have been treated for a long duration and/or with high doses for chronic pain, ensure that a multimodal approach to pain management, including mental health support (if needed), is in place prior to initiating an opioid analgesic taper.
+A multimodal approach to pain management may optimize the treatment of chronic pain, as well as assist with the successful tapering of the opioid analgesic [see Warnings and Precautions (5.12), Drug Abuse and Dependence (9.3)].
 
 ## 2.5 Dosage Modifications in Patients with Moderate Hepatic Impairment
 

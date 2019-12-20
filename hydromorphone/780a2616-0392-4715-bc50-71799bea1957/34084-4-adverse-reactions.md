@@ -3,7 +3,7 @@
 The following serious adverse reactions are discussed elsewhere in the labeling:
 
 - •Addiction, Abuse, and Misuse [see Warnings and Precautions (5.1)]
-- •Life Threatening Respiratory Depression [see Warnings and Precautions (5.3)]
+- •Life-Threatening Respiratory Depression [see Warnings and Precautions (5.3)]
 - •Neonatal Opioid Withdrawal Syndrome [see Warnings and Precautions (5.4)]
 - •Interactions with Benzodiazepine or Other CNS Depressants [see Warnings and Precautions (5.5)]
 - •Adrenal Insufficiency [see Warnings and Precautions (5.7)]
@@ -33,9 +33,9 @@ Table 2.
 
 Number (%) of Patients with Adverse Reactions Reported in ≥ 2% of Patients with Moderate to Severe Low Back Pain During the Open-Label Titration Phase or Double-Blind Treatment Phase by Preferred Term
 
-| Preferred Term | Open-Label Titration Phase | Double-Blind Treatment Phase |  |
+| Preferred Term | Open-Label Titration PhaseHydromorphone Hydrochloride Extended-Release Tablets (N=447) | Double-Blind Treatment Phase |  |
 | --- | --- | --- | --- |
-|  | Hydromorphone Hydrochloride Extended-Release Tablets(N=447) | Hydromorphone Hydrochloride Extended-Release Tablets(N=134) | Placebo(N=134) |
+| Hydromorphone Hydrochloride Extended-Release Tablets (N=134) | Placebo(N=134) |  |  |
 | Constipation | 69 (15) | 10 (7) | 5 (4) |
 | Nausea | 53 (12) | 12 (9) | 10 (7) |
 | Somnolence | 39 (9) | 1 (1) | 0 (0) |
@@ -49,7 +49,7 @@ Number (%) of Patients with Adverse Reactions Reported in ≥ 2% of Patients wit
 | Hyperhidrosis | 13 (3) | 2 (1) | 2 (1) |
 | Anorexia/Decreased Appetite | 10 (2) | 2 (1) | 0 (0) |
 | Arthralgia | 9 (2) | 8 (6) | 3 (2) |
-| Abdominal pain | 9 (2) | 4 (3) | 3 (2) |
+| Abdominal Pain | 9 (2) | 4 (3) | 3 (2) |
 | Muscle Spasms | 5 (1) | 3 (2) | 1 (1) |
 | Weight Decreased | 3 (1) | 4 (3) | 3 (2) |
 

@@ -16,7 +16,7 @@ Healthcare providers are strongly encouraged to
 - •emphasize to patients and their caregivers the importance of reading the Medication Guide every time it is provided by their pharmacist, and
 - •consider other tools to improve patient, household, and community safety.
 
-Life-threatening Respiratory Depression
+Life-Threatening Respiratory Depression
 
 Serious, life-threatening, or fatal respiratory depression may occur with use of hydromorphone hydrochloride extended-release tablets.
 Monitor for respiratory depression, especially during initiation of hydromorphone hydrochloride extended-release tablets or following a dose increase.
@@ -24,7 +24,7 @@ Instruct patients to swallow hydromorphone hydrochloride extended-release tablet
 
 Accidental Ingestion
 
-Accidental ingestion of even one dose of hydromorphone hydrochloride extended release-tablets, especially by children, can result in a fatal overdose of hydromorphone [see Warnings and Precautions (5.3)].
+Accidental ingestion of even one dose of hydromorphone hydrochloride extended-release tablets, especially by children, can result in a fatal overdose of hydromorphone [see Warnings and Precautions (5.3)].
 
 Neonatal Opioid Withdrawal Syndrome
 

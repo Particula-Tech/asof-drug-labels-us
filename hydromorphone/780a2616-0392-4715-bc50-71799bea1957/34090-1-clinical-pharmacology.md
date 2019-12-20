@@ -37,7 +37,7 @@ Effects on the Cardiovascular System
 
 Hydromorphone produces peripheral vasodilation which may result in orthostatic hypotension or syncope.
 Release of histamine may be induced by hydromorphone and can contribute to opioid-induced hypotension.
-Manifestations of histamine release or peripheral vasodilation may include pruritus, flushing, red eyes, sweating, and/or orthostatic hypotension.
+Manifestations of histamine release or peripheral vasodilation may include pruritus, flushing, red eyes, sweating and/or orthostatic hypotension.
 
 Effects on the Endocrine System
 
@@ -53,15 +53,15 @@ Opioids have been shown to have a variety of effects on components of the immune
 The clinical significance of these findings is unknown.
 Overall, the effects of opioids appear to be modestly immunosuppressive.
 
-Concentration -Efficacy Relationships
+Concentration-Efficacy Relationships
 
 The minimum effective analgesic concentration will vary widely among patients, especially among patients who have been previously treated with potent agonist opioids.
-The minimum effective analgesic concentration of hydromorphone for any individual patient may increase over time due to an increase in pain, the development of a new pain syndrome, and/or the development of analgesic tolerance [see Dosage and Administration (2.1, 2.3)].
+The minimum effective analgesic concentration of hydromorphone for any individual patient may increase over time due to an increase in pain, the development of a new pain syndrome, and/or the development of analgesic tolerance [see Dosage and Administration (2.1), (2.3)].
 
-Concentration -Adverse Reaction Relationships
+Concentration-Adverse Reaction Relationships
 
 There is a relationship between increasing hydromorphone plasma concentration and increasing frequency of dose-related opioid adverse reactions such as nausea, vomiting, CNS effects, and respiratory depression.
-In opioid-tolerant patients, the situation may be altered by the development of tolerance to opioid-related adverse reactions [see Dosage and Administration (2.1, 2.2, 2.3)].
+In opioid-tolerant patients, the situation may be altered by the development of tolerance to opioid-related adverse reactions [see Dosage and Administration (2.1), (2.2), (2.3)].
 
 ## 12.3 Pharmacokinetics
 
@@ -101,7 +101,7 @@ NA = not applicable
 
 ‡ Cmin 2.15 (0.87) ng/mL
 
-§ Cmin 1.47 (0.42) ng/Ml
+§ Cmin 1.47 (0.42) ng/mL
 
 Food Effect
 

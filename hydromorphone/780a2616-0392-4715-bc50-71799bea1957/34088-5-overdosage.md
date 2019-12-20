@@ -20,5 +20,5 @@ Hydromorphone hydrochloride extended-release tablets will continue to release hy
 If the response to opioid antagonist is suboptimal or only brief in nature, administer additional antagonist as directed by the product's prescribing information.
 
 In an individual physically dependent on opioids, administration of the recommended usual dosage of the antagonist will precipitate an acute withdrawal syndrome.
-The severity of the withdrawal symptoms experiences will depend on the degree of physical dependence and the dose of the antagonist administered.
+The severity of the withdrawal symptoms experienced will depend on the degree of physical dependence and the dose of the antagonist administered.
 If a decision is made to treat serious respiratory depression in the physically dependent patient, administration of the antagonist should be initiated with care and by titration with smaller than usual doses of the antagonist.

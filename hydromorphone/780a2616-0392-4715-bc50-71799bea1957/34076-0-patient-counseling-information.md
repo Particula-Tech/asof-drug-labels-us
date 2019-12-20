@@ -2,12 +2,21 @@
 
 Advise the patient to read the FDA-approved patient labeling (Medication Guide)
 
+Storage and Disposal
+
+Because of the risks associated with accidental ingestion, misuse, and abuse, advise patients to store hydromorphone hydrochloride extended-release tablets securely, out of sight and reach of children, and in a location not accessible by others, including visitors to the home [see Warnings and Precautions (5.1, 5.2), Drug Abuse and Dependence (9.2)].
+Inform patients that leaving hydromorphone hydrochloride extended-release tablets unsecured can pose a deadly risk to others in the home.
+
+Advise patients and caregivers that when medicines are no longer needed, they should be disposed of promptly.
+Expired, unwanted, or unused hydromorphone hydrochloride extended-release tablets should be disposed of by flushing the unused medication down the toilet if a drug take-back option is not readily available.
+Inform patients that they can visit www.fda.gov/drugdisposal for a complete list of medicines recommended for disposal by flushing, as well as additional information on disposal of unused medicines.
+
 Addiction, Abuse, and Misuse
 
 Inform patients that the use of hydromorphone hydrochloride extended-release tablets, even when taken as recommended, can result in addiction, abuse, and misuse, which can lead to overdose or death [see Warnings and Precautions (5.1)].
 Instruct patients not to share hydromorphone hydrochloride extended-release tablets with others and to take steps to protect hydromorphone hydrochloride extended-release tablets from theft or misuse.
 
-Life-threatening Respiratory Depression
+1. Life-Threatening Respiratory Depression
 
 Inform patients of the risk of life-threatening respiratory depression, including information that the risk is greatest when starting hydromorphone hydrochloride extended-release tablets or when the dose is increased, and that it can occur even at recommended doses [see Warnings and Precautions (5.3)].
 Advise patients how to recognize respiratory depression and to seek medical attention if breathing difficulties develop.
@@ -15,7 +24,6 @@ Advise patients how to recognize respiratory depression and to seek medical atte
 Accidental Ingestion
 
 Inform patients that accidental ingestion, especially by children, may result in respiratory depression or death [see Warnings and Precautions (5.3)].
-Instruct patients to take steps to store hydromorphone hydrochloride extended-release tablets securely and to dispose of unused hydromorphone hydrochloride extended-release tablets by flushing the tablets down the toilet.
 
 Interactions with Benzodiazepines and Other CNS Depressants
 
@@ -25,12 +33,12 @@ Serotonin Syndrome
 
 Inform patients that hydromorphone hydrochloride extended-release tablets could cause a rare but potentially life-threatening condition resulting from concomitant administration of serotonergic drugs.
 Warn patients of the symptoms of serotonin syndrome and to seek medical attention right away if symptoms develop.
-Instruct patients to inform their healthcare providers if they are taking, or plan to take serotonergic medications [see Drug Interactions 7].
+Instruct patients to inform their healthcare providers if they are taking, or plan to take serotonergic medications [see Drug Interactions (7)].
 
 MAOI Interaction
 
 Inform patients to avoid taking hydromorphone hydrochloride extended-release tablets while using any drugs that inhibit monoamine oxidase.
-Patients should not start MAOIs while taking hydromorphone hydrochloride extended release tablets [see Drug Interactions 7].
+Patients should not start MAOIs while taking hydromorphone hydrochloride extended-release tablets [see Drug Interactions (7)].
 
 Adrenal Insufficiency
 
@@ -47,8 +55,10 @@ Instruct patients how to properly take hydromorphone hydrochloride extended-rele
     Taking cut, broken, chewed, crushed, or dissolved hydromorphone hydrochloride extended-release tablets can result in a fatal overdose [see Dosage and Administration (2.1)].
 - 
   - •Using hydromorphone hydrochloride extended-release tablets exactly as prescribed to reduce the risk of life-threatening adverse reactions (e.g., respiratory depression)
-- 
-  - •Do not discontinue hydromorphone hydrochloride extended-release tablets without first discussing the need for a tapering regimen with the prescriber [see Dosage and Administration (2.4)].
+
+Important Discontinuation Instructions
+
+In order to avoid developing withdrawal symptoms, instruct patients not to discontinue hydromorphone hydrochloride extended-release tablets without first discussing a tapering plan with the prescriber [see Dosage and Administration (2.4)].
 
 Gastrointestinal Blockage
 
@@ -83,7 +93,7 @@ Advise patients that breastfeeding is not recommended during treatment with hydr
 Infertility
 
 Inform patients that chronic use of opioids may cause reduced fertility.
-It is not known whether these effects on fertility are reversible [Use in Specific Populations (8.3)].
+It is not known whether these effects on fertility are reversible [see Use in Specific Populations (8.3)].
 
 Driving or Operating Heavy Machinery
 
@@ -93,10 +103,6 @@ Advise patients not to perform such tasks until they know how they will react to
 Constipation
 
 Advise patients of the potential for severe constipation, including management instructions and when to seek medical attention [see Adverse Reactions (6.1), Clinical Pharmacology (12.2)].
-
-Disposal Of Unused Hydromorphone Hydrochloride Extended-Release Tablets
-
-Advise patients to flush the unused tablets down the toilet when hydromorphone hydrochloride extended-release tablets are no longer needed.
 
 Manufactured By
 

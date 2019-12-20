@@ -1,7 +1,5 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-How Supplied
-
 | Hydromorphone Hydrochloride Extended-Release Tablet Strengths |  |  |  |  |
 | --- | --- | --- | --- | --- |
 | Strength | Color | Tablet Description | Bottle Count | NDC |
@@ -11,3 +9,5 @@ How Supplied
 | 32 mg | Pink | Round, biconvex, imprinted with “P297” over “32” on one side | 100 | 0574-0297-01 |
 
 Store at 20° to 25°C (68° to 77°F) [see USP Controlled Room Temperature].
+
+Store hydromorphone hydrochloride extended-release tablets securely and dispose of properly [see Patient Counseling Information (17)].

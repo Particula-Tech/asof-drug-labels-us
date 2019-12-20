@@ -14,7 +14,7 @@ Important information about hydromorphone hydrochloride extended-release tablets
 
 - 
   - •Get emergency help right away if you take too many hydromorphone hydrochloride extended-release tablets (overdose).
-    When you first start taking hydromorphone hydrochloride extended-release tablets, when your dose is changed, or if you take too much (overdose), serious or life threatening breathing problems that can lead to death may occur.
+    When you first start taking hydromorphone hydrochloride extended-release tablets, when your dose is changed, or if you take too much (overdose), serious or life-threatening breathing problems that can lead to death may occur.
   - •Taking hydromorphone hydrochloride extended-release tablets with other opioid medicines, benzodiazepines, alcohol, or other central nervous system depressants (including street drugs) can cause severe drowsiness, decreased awareness, breathing problems, coma, and death.
   - •Never give anyone else your hydromorphone hydrochloride extended-release tablets.
     They could die from taking it.
