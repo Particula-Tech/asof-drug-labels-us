@@ -38,8 +38,8 @@ Aseptic Meningitis Inform patients that lamotrigine may cause aseptic meningitis
 Instruct them to notify their healthcare providers immediately if they develop signs and symptoms of meningitis such as headache, fever, nausea, vomiting, stiff neck, rash, abnormal sensitivity to light, myalgia, chills, confusion, or drowsiness while taking lamotrigine.
 
 Potential Medication Errors To avoid a medication error of using the wrong drug or formulation, strongly advise patients to visually inspect their tablets to verify that they are lamotrigine, as well as the correct formulation of lamotrigine, each time they fill their prescription [see Dosage Forms and Strengths (3.1), How Supplied/Storage and Handling (16)].
-Refer the patient to the Medication Guide that provides description of the Lamotrigine tablets.
+Refer the patient to the Medication Guide that provides description of the lamotrigine tablets.
 
 Manufactured By:
 
-Jubilant Cadista Pharmaceuticals Inc. Salisbury, MD 21801, USA Rev. # 09/2018.
+Jubilant Cadista Pharmaceuticals Inc. Salisbury, MD 21801, USA Rev. # 09/2019

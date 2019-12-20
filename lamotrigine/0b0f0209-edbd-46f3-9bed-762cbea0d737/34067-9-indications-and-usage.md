@@ -16,5 +16,5 @@ Safety and effectiveness of lamotrigine have not been established (1) as initial
 
 Lamotrigine tablets are indicated for the maintenance treatment of bipolar I disorder to delay the time to occurrence of mood episodes (depression, mania, hypomania, mixed episodes) in patients treated for acute mood episodes with standard therapy [see Clinical Studies (14.1)].
 
-Limitation of Use Treatment of acute manic or mixed episodes is not recommended.
-Effectiveness of Lamotrigine in the acute treatment of mood episodes has not been established.
+Limitations of Use Treatment of acute manic or mixed episodes is not recommended.
+Effectiveness of lamotrigine in the acute treatment of mood episodes has not been established.
