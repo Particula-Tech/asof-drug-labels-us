@@ -12,14 +12,14 @@ Addiction can occur at recommended doses and if the drug is misused or abused.
 Assess each patient's risk for opioid addiction, abuse, or misuse prior to prescribing morphine sulfate extended-release capsules, and monitor all patients receiving morphine sulfate extended-release capsules for the development of these behaviors and conditions.
 Risks are increased in patients with a personal or family history of substance abuse (including drug or alcohol abuse or addiction) or mental illness (e.g., major depression).
 The potential for these risks should not, however, prevent the proper management of pain in any given patient.
-Patients at increased risk may be prescribed opioids such as morphine sulfate extended-release capsules but use in such patients necessitates intensive counseling about the risks and proper use of morphine sulfate extended-release capsules along with intensive monitoring for signs of addiction, abuse, and misuse.
+Patients at increased risk may be prescribed opioids such as morphine sulfate extended-release capsules, but use in such patients necessitates intensive counseling about the risks and proper use of morphine sulfate extended-release capsules along with intensive monitoring for signs of addiction, abuse, and misuse.
 
 Abuse or misuse of morphine sulfate extended-release capsules by crushing, chewing, snorting, or injecting the dissolved product will result in the uncontrolled delivery of morphine and can result in overdose and death [see Overdosage (10)].
 
 Opioids are sought by drug abusers and people with addiction disorders and are subject to criminal diversion.
 Consider these risks when prescribing or dispensing morphine sulfate extended-release capsules.
 Strategies to reduce these risks include prescribing the drug in the smallest appropriate quantity and advising the patient on the proper disposal of unused drug [see Patient Counseling Information (17)].
-Contact local state professional licensing board or state- controlled substances authority for information on how to prevent and detect abuse or diversion of this product.
+Contact local state professional licensing board or state controlled substances authority for information on how to prevent and detect abuse or diversion of this product.
 
 ## 5.2 Opioid Analgesic Risk Evaluation and Mitigation Strategy (REMS)
 
@@ -27,7 +27,7 @@ To ensure that the benefits of opioid analgesics outweigh the risks of addiction
 Under the requirements of the REMS, drug companies with approved opioid analgesic products must make REMS-compliant education programs available to healthcare providers.
 Healthcare providers are strongly encouraged to do all of the following:
 
-- Complete a REMS-compliant education program offered by an accredited provider of continuing education (CE) or another education program that includes all the elements of the FDA Education Blueprint for Health Care Providers Involved in the Management or Support of Patients with Pain.
+- Complete a REMS-compliant education program offered by an accredited provider of continuing education (CE) or another education program that includes all the elements of the FDA Education Blueprint for Healthcare Providers Involved in the Management or Support of Patients with Pain.
 - Discuss the safe use, serious risks, and proper storage and disposal of opioid analgesics with patients and/or their caregivers every time these medicines are prescribed.
   The Patient Counseling Guide (PCG) can be obtained at this link: www.fda.gov/OpioidAnalgesicREMSPCG.
 - Emphasize to patients and their caregivers the importance of reading the Medication Guide that they will receive from their pharmacist every time an opioid analgesic is dispensed to them.
@@ -50,6 +50,10 @@ To reduce the risk of respiratory depression, proper dosing and titration of mor
 Overestimating the morphine sulfate dosage when converting patients from another opioid product can result in fatal overdose with the first dose.
 
 Accidental ingestion of even one dose of morphine sulfate, especially by children, can result in respiratory depression and death due to an overdose of morphine.
+
+Opioids can cause sleep-related breathing disorders including central sleep apnea (CSA) and sleep-related hypoxemia.
+Opioid use increases the risk of CSA in a dose-dependent fashion.
+In patients who present with CSA, consider decreasing the opioid dosage using best practices for opioid taper [see Dosage and Administration (2.4)].
 
 ## 5.4 Neonatal Opioid Withdrawal Syndrome
 
@@ -130,16 +134,17 @@ Monitor patients with biliary tract disease, including acute pancreatitis, for w
 
 ## 5.12 Increased Risk of Seizures in Patients with Seizure Disorders
 
-The morphine in morphine sulfate extended-release capsules may increase the frequency of seizures in patients with seizure disorders and may increase the risk of seizures occurring in other clinical settings associated with seizures.
+The morphine in morphine sulfate extended-release capsules may increase the frequency of seizures in patients with seizure disorders, and may increase the risk of seizures occurring in other clinical settings associated with seizures.
 Monitor patients with a history of seizure disorders for worsened seizure control during morphine sulfate extended-release capsules therapy.
 
 ## 5.13 Withdrawal
 
-Avoid the use of mixed agonist/antagonist analgesics (e.g., pentazocine, nalbuphine, and butorphanol) or partial agonist (e.g., buprenorphine) analgesics in patients who are receiving a full opioid agonist analgesic, including morphine sulfate extended-release capsules.
-In these patients, mixed agonists/antagonists and partial agonist analgesics may reduce the analgesic effect and/or may precipitate withdrawal symptoms [see Drug Interactions (7)].
+Do not abruptly discontinue morphine sulfate extended-release capsules in a patient physically dependent on opioids.
+When discontinuing morphine sulfate extended-release capsules in a physically dependent patient, gradually taper the dosage.
+Rapid tapering of morphine in a patient physically dependent on opioids may lead to a withdrawal syndrome and return of pain [see Dosage and Administration (2.4), Drug Abuse and Dependence (9.3)].
 
-When discontinuing morphine sulfate extended-release capsules, gradually taper the dosage [see Dosage and Administration (2.3)].
-Do not abruptly discontinue morphine sulfate extended-release capsules [see Drug Abuse and Dependence (9.3)].
+Additionally, avoid the use of mixed agonist/antagonist analgesics (e.g., pentazocine, nalbuphine, and butorphanol) or partial agonist (e.g., buprenorphine) analgesics in patients who are receiving a full opioid agonist analgesic, including morphine sulfate extended-release capsules.
+In these patients, mixed agonists/antagonists and partial agonist analgesics may reduce the analgesic effect and/or may precipitate withdrawal symptoms [see Drug Interactions (7)].
 
 ## 5.14 Risks of Driving and Operating Machinery
 

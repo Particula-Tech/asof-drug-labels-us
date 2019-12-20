@@ -2,6 +2,15 @@
 
 Advise the patient to read the FDA-approved patient labeling (Medication Guide and Instructions For Use).
 
+Storage and Disposal
+
+Because of the risks associated with accidental ingestion, misuse, and abuse, advise patients to store morphine sulfate extended-release capsules securely, out of sight and reach of children, and in a location not accessible by others, including visitors to the home [see Warnings and Precautions (5.1, 5.3), Drug Abuse and Dependence (9.2)].
+Inform patients that leaving morphine sulfate extended-release capsules unsecured can pose a deadly risk to others in the home.
+
+Advise patients and caregivers that when medicines are no longer needed, they should be disposed of promptly.
+Expired, unwanted, or unused morphine sulfate extended-release capsules should be disposed of by flushing the unused medication down the toilet if a drug take-back option is not readily available.
+Inform patients that they can visit www.fda.gov/drugdisposal for a complete list of medicines recommended for disposal by flushing, as well as additional information on disposal of unused medicines.
+
 Addiction, Abuse, and Misuse
 
 Inform patients that the use of morphine sulfate extended-release capsules, even when taken as recommended, can result in addiction, abuse, and misuse, which can lead to overdose and death [see Warnings and Precautions (5.1)].
@@ -15,7 +24,6 @@ Advise patients how to recognize respiratory depression and to seek medical atte
 Accidental Ingestion
 
 Inform patients that accidental ingestion, especially by children, may result in respiratory depression or death [see Warnings and Precautions (5.3)].
-Instruct patients to take steps to store morphine sulfate extended-release capsules securely and to dispose of unused morphine sulfate extended-release capsules by flushing the unused capsules down the toilet.
 
 Interactions with Alcohol
 
@@ -50,8 +58,11 @@ Instruct patients how to properly take morphine sulfate extended-release capsule
 
 - Swallow morphine sulfate extended-release capsules whole or sprinkling the capsule contents on applesauce and then swallow immediately without chewing [see Dosage and Administration (2.1, 2.5)]
 - DO NOT crush, chew, or dissolve the pellets contained in the capsules due to a risk of fatal morphine overdose [see Dosage and Administration (2.1)]
-- Use morphine sulfate extended-release capsules exactly as prescribed to reduce the risk of life-threatening adverse reactions (e.g., respiratory depression) [see Warnings and Precautions (5.3)]
-- Do not discontinue morphine sulfate extended-release capsules without first discussing the need for a tapering regimen with the prescriber [see Dosage and Administration (2.4)]
+- Use morphine sulfate extended-release capsules exactly as prescribed to reduce the risk of life-threatening adverse reactions (e.g., respiratory depression) [see Warnings and Precautions (5.3)].
+
+Important Discontinuation Instructions
+
+In order to avoid developing withdrawal symptoms, instruct patients not to discontinue morphine sulfate extended-release capsules without first discussing a tapering plan with the prescriber [see Dosage and Administration (2.4)].
 
 Hypotension
 
@@ -90,7 +101,3 @@ Advise patients not to perform such tasks until they know how they will react to
 Constipation
 
 Advise patients of the potential for severe constipation, including management instructions and when to seek medical attention [see Adverse Reactions (6), Clinical Pharmacology (12.2)].
-
-Disposal of Unused Morphine Sulfate Extended-Release Capsules
-
-Advise patients to flush the unused capsules down the toilet when morphine sulfate extended-release capsules are no longer needed.

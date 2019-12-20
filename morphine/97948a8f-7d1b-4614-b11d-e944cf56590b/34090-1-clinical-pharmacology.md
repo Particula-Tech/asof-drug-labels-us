@@ -82,9 +82,9 @@ Table 2: Mean pharmacokinetic parameters (% coefficient variation) resulting fro
 | Regimen/Dosage Form | AUCFor single dose AUC = AUC0-48h, for multiple dose AUC = AUC0-24h at steady-state,For single dose parameter normalized to 100 mg, for multiple dose parameter normalized to 100 mg per 24 hours (ng∙h/mL) | Cmax (ng/mL) | Tmax (h) | Cmin (ng/mL) | FluctuationSteady-state fluctuation in plasma concentrations = Cmax–Cmin/Cmin |
 | --- | --- | --- | --- | --- | --- |
 | Single Dose (n=24) |  |  |  |  |  |
-| Morphine Sulfate Extended-Release Capsules | 271.0 (19.4) | 15.6 (24.4) | 8.6 (41.1) | naNot applicable | na |
-| Extended-Release Tablet | 304.3 (19.1) | 30.5 (32.1) | 2.5 (52.6) | na | na |
-| Morphine Solution | 362.4 (42.6) | 64.4 (38.2) | 0.9 (55.8) | na | na |
+| Morphine Sulfate Extended-Release Capsules | 271.0 (19.4) | 15.6 (24.4) | 8.6 (41.1) | N/A | N/A |
+| Extended-Release Tablet | 304.3 (19.1) | 30.5 (32.1) | 2.5 (52.6) | N/A | N/A |
+| Morphine Solution | 362.4 (42.6) | 64.4 (38.2) | 0.9 (55.8) | N/A | N/A |
 | Multiple Dose (n=24) |  |  |  |  |  |
 | Morphine Sulfate Extended-Release Capsules Once Daily | 500.9 (38.6) | 37.3 (37.7) | 10.3 (32.2) | 9.9 (52.3) | 3.0 (45.5) |
 | Extended-Release Tablet Twice Daily | 457.3 (40.2) | 36.9 (42.0) | 4.4 (53.0) | 7.6 (60.3) | 4.1 (51.5) |
@@ -125,9 +125,13 @@ The terminal elimination half-life of morphine following a single dose of morphi
 
 Specific Populations
 
-Sex: No meaningful differences between male and female patients were demonstrated in the analysis of the pharmacokinetic data from clinical studies.
+Sex
 
-Race/Ethnicity: Chinese subjects given intravenous morphine in one study had a higher clearance when compared to Caucasian subjects (1852 ± 116 mL/min versus 1495 ± 80 mL/min).
+No meaningful differences between male and female patients were demonstrated in the analysis of the pharmacokinetic data from clinical studies.
+
+Race/Ethnicity
+
+Chinese subjects given intravenous morphine in one study had a higher clearance when compared to Caucasian subjects (1852 ± 116 mL/min versus 1495 ± 80 mL/min).
 
 Hepatic Impairment
 

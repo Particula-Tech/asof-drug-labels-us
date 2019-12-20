@@ -3,7 +3,7 @@
 Addiction, Abuse, and Misuse
 
 Morphine sulfate extended-release capsules expose patients and other users to the risks of opioid addiction, abuse, and misuse, which can lead to overdose and death.
-Assess each patient's risk prior to prescribing morphine sulfate extended-release capsules and monitor all patients regularly for the development of these behaviors and conditions [see Warnings and Precautions (5.1)].
+Assess each patient's risk prior to prescribing morphine sulfate extended-release capsules, and monitor all patients regularly for the development of these behaviors and conditions [see Warnings and Precautions (5.1)].
 
 Opioid Analgesic Risk Evaluation and Mitigation Strategy (REMS)
 
@@ -37,7 +37,7 @@ Interaction with Alcohol
 Instruct patients not to consume alcoholic beverages or use prescription or nonprescription products that contain alcohol while taking morphine sulfate extended-release capsules.
 The co-ingestion of alcohol with morphine sulfate extended-release capsules may result in increased plasma levels and a potentially fatal overdose of morphine [see Warnings and Precautions (5.5)].
 
-Risks From Concomitant Use With Benzodiazepines or Other CNS Depressants
+Risks From Concomitant Use With Benzodiazepines Or Other CNS Depressants
 
 Concomitant use of opioids with benzodiazepines or other central nervous system (CNS) depressants, including alcohol, may result in profound sedation, respiratory depression, coma, and death [see Warnings and Precautions (5.5), Drug Interactions (7)].
 
