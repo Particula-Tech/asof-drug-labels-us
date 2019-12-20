@@ -1,55 +1,73 @@
-# PRINCIPAL DISPLAY PANEL - 40 mg Vial Label
+# PRINCIPAL DISPLAY PANEL - 40 mg/mL Vial Label
 
-NDC 0009-3073-01
+NDC 0009-0280-25
 
-1 mL Single-Dose Vial Depo-Medrol®
-
-(methylprednisolone acetate injectable suspension, USP)
+DEPO-MEDROL® methylprednisolone acetate injectable suspension, USP
 
 40 mg/mL
 
-Rx only
+For IM, intrasynovial and soft tissue injection only.
 
-# PRINCIPAL DISPLAY PANEL - 40 mg Vial Carton
+10 mL Multidose Vial
 
-NDC 0009-3073-03 Contains 25 of NDC 0009-3073-01
+Rx ONLY
 
-25—1 mL Single-Dose Vials Depo-Medrol®
+NOVAPLUS®
 
-(methylprednisolone acetate injectable suspension, USP)
+# PRINCIPAL DISPLAY PANEL - 40 mg/mL Vial Carton
+
+NDC 0009-0280-24
+
+DEPO-MEDROL®
+
+methylprednisolone acetate injectable suspension, USP
 
 40 mg/mL
 
-For intramuscular, intrasynovial and soft tissue injection only NOT for IV use
+For intramuscular, intrasynovial and soft tissue injection only
 
-Pfizer Injectables
+NOT for IV use
 
-Rx only
+5 mL Multidose Vial
 
-# PRINCIPAL DISPLAY PANEL - 80 mg Vial Label
+Rx ONLY
 
-NDC 0009-3475-01
+Contains Benzyl Alcohol as a Preservative
 
-1 mL Single-Dose Vial Depo-Medrol®
+NOVAPLUS®
 
-(methylprednisolone acetate injectable suspension, USP)
+# PRINCIPAL DISPLAY PANEL - 80 mg/mL Vial Label
 
-80 mg/mL
+NDC 0009-0306-24
 
-Rx only
-
-# PRINCIPAL DISPLAY PANEL - 80 mg Vial Carton
-
-NDC 0009-3475-03 Contains 25 of NDC 0009-3475-01
-
-25—1 mL Single-Dose Vials Depo-Medrol®
-
-(methylprednisolone acetate injectable suspension, USP)
+DEPO-MEDROL® methylprednisolone acetate injectable suspension, USP
 
 80 mg/mL
 
-For intramuscular, intrasynovial and soft tissue injection only NOT for IV use
+5 mL Multidose Vial
 
-Pfizer Injectables
+Rx ONLY
 
-Rx only
+NOVAPLUS®
+
+# PRINCIPAL DISPLAY PANEL - 80 mg/mL Vial Carton
+
+NDC 0009-0306-24
+
+DEPO-MEDROL®
+
+methylprednisolone acetate injectable suspension, USP
+
+80 mg/mL
+
+For intramuscular, intrasynovial and soft tissue injection only
+
+NOT for IV use
+
+5 mL Multidose Vial
+
+Rx ONLY
+
+Contains Benzyl Alcohol as a Preservative
+
+NOVAPLUS®

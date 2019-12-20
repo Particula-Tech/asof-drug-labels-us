@@ -12,11 +12,11 @@ Endocrine: Decreased carbohydrate and glucose tolerance, development of cushingo
 
 Fluid and electrolyte disturbances: Congestive heart failure in susceptible patients, fluid retention, hypokalemic alkalosis, potassium loss, sodium retention.
 
-Gastrointestinal: Abdominal distention, bowel/bladder dysfunction (after intrathecal administration), elevation in serum liver enzyme levels (usually reversible upon discontinuation), hepatomegaly, increased appetite, nausea, pancreatitis, peptic ulcer with possible subsequent perforation and hemorrhage, perforation of the small and large intestine (particularly in patients with inflammatory bowel disease), ulcerative esophagitis.
+Gastrointestinal: Abdominal distention, bowel/bladder dysfunction (after intrathecal administration), elevation in serum liver enzymes levels (usually reversible upon discontinuation), hepatomegaly, increased appetite, nausea, pancreatitis, peptic ulcer with possible subsequent perforation and hemorrhage, perforation of the small and large intestine (particularly in patients with inflammatory bowel disease), ulcerative esophagitis.
 
 Metabolic: Negative nitrogen balance due to protein catabolism.
 
-Musculoskeletal: Aseptic necrosis of femoral and humeral heads, calcinosis (following intra-articular or intra-lesional use), Charcot-like arthropathy, loss of muscle mass, muscle weakness, osteoporosis, pathologic fracture of long bones, postinjection flare (following intra-articular use), steroid myopathy, tendon rupture, vertebral compression fractures.
+Musculoskeletal: Aseptic necrosis of femoral and humeral heads, calcinosis (following intra-articular or intralesional use), Charcot-like arthropathy, loss of muscle mass, muscle weakness, osteoporosis, pathologic fracture of long bones, postinjection flare (following intra-articular use), steroid myopathy, tendon rupture, vertebral compression fractures.
 
 Neurologic/Psychiatric: Convulsions, depression, emotional instability, euphoria, headache, increased intracranial pressure with papilledema (pseudotumor cerebri) usually following discontinuation of treatment, insomnia, mood swings, neuritis, neuropathy, paresthesia, personality changes, psychic disorders, vertigo.
 
@@ -32,4 +32,4 @@ Intranasal: Allergic reactions, rhinitis, temporary/permanent visual impairment 
 
 Ophthalmic: Increased intraocular pressure, infection, ocular and periocular inflammation including allergic reactions, residue or slough at injection site, temporary/permanent visual impairment including blindness.
 
-Miscellaneous injection sites (scalp, tonsillar fauces, sphenopalatine ganglion): blindness.
+Miscellaneous injection sites: (scalp, tonsillar fauces, sphenopalatine ganglion): Blindness.
