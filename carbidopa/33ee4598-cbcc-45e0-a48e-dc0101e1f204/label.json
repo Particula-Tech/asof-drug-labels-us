@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA211055"
+  ],
+  "inn": "carbidopa",
+  "labeler": "NorthStar Rx LLC",
+  "package_ndcs": [
+    "16714-067-01"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "carbidopa",
+      "name": "Carbidopa"
+    }
+  ],
+  "setid": "33ee4598-cbcc-45e0-a48e-dc0101e1f204",
+  "source": "dailymed"
+}
