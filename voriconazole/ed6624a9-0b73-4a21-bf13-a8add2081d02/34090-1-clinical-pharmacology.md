@@ -202,7 +202,7 @@ Therefore, there is potential for voriconazole and its major metabolite to incre
 
 The systemic exposure of the following drugs is significantly increased or is expected to be significantly increased by co-administration of voriconazole and their use is contraindicated:
 
-Sirolimus (CYP3A4 substrate)–Repeat dose administration of oral voriconazole (400 mg every 12 hours for 1 day, then 200 mg every 12 hours for 8 days) increased the Cmax and AUC of sirolimus (2 mg single-dose) an average of 7-fold (90% CI: 5.7, 7.5) and 11- fold (90% CI: 9.9, 12.6), respectively, in healthy male subjects.
+Sirolimus (CYP3A4 substrate)–Repeat dose administration of oral voriconazole (400 mg every 12 hours for 1 day, then 200 mg every 12 hours for 8 days) increased the Cmax and AUC of sirolimus (2 mg single dose) an average of 7-fold (90% CI: 5.7, 7.5) and 11-fold (90% CI: 9.9, 12.6), respectively, in healthy male subjects.
 Co-administration of voriconazole and sirolimus is contraindicated [see Contraindications (4) and Warnings and Precautions (5.12)].
 
 Cisapride, pimozide and quinidine (CYP3A4 substrates)–Although not studied in vitro or in vivo, concomitant administration of voriconazole with cisapride, pimozide or quinidine may result in inhibition of the metabolism of these drugs.
@@ -226,7 +226,7 @@ Reduction in the dose of alfentanil or other opiates that are also metabolized b
 Fentanyl (CYP3A4 substrate): In an independent published study, concomitant use of voriconazole (400 mg every 12 hours on Day 1, then 200 mg every 12 hours on Day 2) with a single intravenous dose of fentanyl (5 mcg/kg) resulted in an increase in the mean AUC0-∞ of fentanyl by 1.4-fold (range 0.81- to 2.04-fold).
 When voriconazole is co-administered with fentanyl IV, oral or transdermal dosage forms, extended and frequent monitoring of patients for respiratory depression and other fentanyl-associated adverse events is recommended, and fentanyl dosage should be reduced if warranted [see Warnings and Precautions (5.12)].
 
-Oxycodone (CYP3A4 substrate): In an independent published study, co-administration of multiple-doses of oral voriconazole (400 mg every 12 hours, on Day 1 followed by five doses of 200 mg every 12 hours on Days 2 to 4) with a single 10 mg oral dose of oxycodone on Day 3 resulted in an increase in the mean Cmax and AUC0–∞ of oxycodone by 1.7-fold (range 1.4- to 2.2-fold) and 3.6- fold (range 2.7- to 5.6-fold), respectively.
+Oxycodone (CYP3A4 substrate): In an independent published study, co-administration of multiple-doses of oral voriconazole (400 mg every 12 hours, on Day 1 followed by five doses of 200 mg every 12 hours on Days 2 to 4) with a single 10 mg oral dose of oxycodone on Day 3 resulted in an increase in the mean Cmax and AUC0–∞ of oxycodone by 1.7-fold (range 1.4- to 2.2-fold) and 3.6-fold (range 2.7- to 5.6-fold), respectively.
 The mean elimination half-life of oxycodone was also increased by 2.0-fold (range 1.4- to 2.5-fold).
 Voriconazole also increased the visual effects (heterophoria and miosis) of oxycodone.
 A reduction in oxycodone dosage may be needed during voriconazole treatment to avoid opioid related adverse effects.
@@ -243,12 +243,12 @@ Increased plasma concentrations of methadone have been associated with toxicity 
 Frequent monitoring for adverse events and toxicity related to methadone is recommended during co-administration.
 Dose reduction of methadone may be needed [see Warnings and Precautions (5.12)].
 
-Tacrolimus (CYP3A4 substrate)–Repeat oral dose administration of voriconazole (400 mg every 12 hours x 1 day, then 200 mg every 12 hours x 6 days) increased tacrolimus (0.1 mg/kg single-dose) Cmax and AUCτ in healthy subjects by an average of 2-fold (90% CI: 1.9, 2.5) and 3-fold (90% CI: 2.7, 3.8), respectively.
+Tacrolimus (CYP3A4 substrate)–Repeat oral dose administration of voriconazole (400 mg every 12 hours x 1 day, then 200 mg every 12 hours x 6 days) increased tacrolimus (0.1 mg/kg single dose) Cmax and AUCτ in healthy subjects by an average of 2-fold (90% CI: 1.9, 2.5) and 3-fold (90% CI: 2.7, 3.8), respectively.
 When initiating therapy with voriconazole in patients already receiving tacrolimus, it is recommended that the tacrolimus dose be reduced to one-third of the original dose and followed with frequent monitoring of the tacrolimus blood levels.
 Increased tacrolimus levels have been associated with nephrotoxicity.
 When voriconazole is discontinued, tacrolimus levels should be carefully monitored and the dose increased as necessary [see Warnings and Precautions (5.12)].
 
-Warfarin (CYP2C9 substrate)–Co-administration of voriconazole (300 mg every 12 hours x 12 days) with warfarin (30 mg single-dose) significantly increased maximum prothrombin time by approximately 2 times that of placebo in healthy subjects.
+Warfarin (CYP2C9 substrate)–Co-administration of voriconazole (300 mg every 12 hours x 12 days) with warfarin (30 mg single dose) significantly increased maximum prothrombin time by approximately 2 times that of placebo in healthy subjects.
 Close monitoring of prothrombin time or other suitable anticoagulation tests is recommended if warfarin and voriconazole are co-administered and the warfarin dose adjusted accordingly [see Warnings and Precautions (5.12)].
 
 Oral Coumarin Anticoagulants (CYP2C9, CYP3A4 substrates)–Although not studied in vitro or in vivo, voriconazole may increase the plasma concentrations of coumarin anticoagulants and therefore may cause an increase in prothrombin time.
@@ -274,7 +274,7 @@ Frequent monitoring of blood glucose and appropriate adjustment (i.e. reduction)
 Vinca Alkaloids (CYP3A4 substrates)–Although not studied in vitro or in vivo, voriconazole may increase the plasma concentrations of the vinca alkaloids (e.g., vincristine and vinblastine) and lead to neurotoxicity.
 Therefore, reserve azole antifungals, including voriconazole, for patients receiving a vinca alkaloid, including vincristine, who have no alternative antifungal treatment options [see Warnings and Precautions (5.12)].
 
-Non-Steroidal Anti-Inflammatory Drugs (NSAIDs; CYP2C9 substrates): In two independent published studies, single-doses of ibuprofen (400 mg) and diclofenac (50 mg) were co-administered with the last dose of voriconazole (400 mg every 12 hours on Day 1, followed by 200 mg every 12 hours on Day 2).
+Non-Steroidal Anti-Inflammatory Drugs (NSAIDs; CYP2C9 substrates): In two independent published studies, single doses of ibuprofen (400 mg) and diclofenac (50 mg) were co-administered with the last dose of voriconazole (400 mg every 12 hours on Day 1, followed by 200 mg every 12 hours on Day 2).
 Voriconazole increased the mean Cmax and AUC of the pharmacologically active isomer, S (+)-ibuprofen by 20% and 100%, respectively.
 Voriconazole increased the mean Cmax and AUC of diclofenac by 114% and 78%, respectively.
 
@@ -284,7 +284,7 @@ Patients receiving voriconazole concomitantly with other NSAIDs (e.g., celecoxib
 No significant pharmacokinetic interactions were observed when voriconazole was co-administered with the following agents.
 Therefore, no dosage adjustment for these agents is recommended:
 
-Prednisolone (CYP3A4 substrate)–Voriconazole (200 mg every 12 hours x 30 days) increased Cmax and AUC of prednisolone (60 mg single-dose) by an average of 11% and 34%, respectively, in healthy subjects.
+Prednisolone (CYP3A4 substrate)–Voriconazole (200 mg every 12 hours x 30 days) increased Cmax and AUC of prednisolone (60 mg single dose) by an average of 11% and 34%, respectively, in healthy subjects.
 
 Digoxin (P-glycoprotein mediated transport)–Voriconazole (200 mg every 12 hours x 12 days) had no significant effect on steady-state Cmax and AUCτ of digoxin (0.25 mg once daily for 10 days) in healthy subjects.
 
@@ -356,7 +356,7 @@ Dose adjustments are required when voriconazole is co-administered with efaviren
 Mechanism of Action
 
 Voriconazole is an azole antifungal drug.
-The primary mode of action of voriconazole is the inhibition of fungal cytochrome P-450- mediated 14 alpha-lanosterol demethylation, an essential step in fungal ergosterol biosynthesis.
+The primary mode of action of voriconazole is the inhibition of fungal cytochrome P-450-mediated 14 alpha-lanosterol demethylation, an essential step in fungal ergosterol biosynthesis.
 The accumulation of 14 alpha-methyl sterols correlates with the subsequent loss of ergosterol in the fungal cell wall and may be responsible for the antifungal activity of voriconazole.
 
 Resistance

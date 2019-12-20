@@ -1,6 +1,6 @@
 # INSTRUCTIONS FOR USE
 
-Voriconazole (vor” i kon’ a zole) for Oral Suspension
+Voriconazole (vor” i kon’ a zole) for Oral Suspension, 40 mg/mL
 
 Read this Instructions for Use before you start taking voriconazole for oral suspension and each time you get a refill.
 There may be new information.
@@ -14,7 +14,7 @@ Important information:
   Your pharmacist will mix (reconstitute) the medicine before it is dispensed to you.
   If voriconazole for oral suspension is still in powder form, do not use it.
   Return it to your pharmacist.
-- Always use the oral dispenser provided with voriconazole for oral suspension to make sure you measure the right amount of voriconazole for oral suspension.
+- Always use the oral dispenser provided with voriconazole for oral suspension to make sure you measure the right amount of voriconazole oral suspension.
 - Shake the closed bottle of mixed (reconstituted) oral suspension well for about 10 seconds before each use.
 
 Each pack contains:
@@ -96,4 +96,4 @@ For current full prescribing information, please visit www.amneal.com or call 1-
 Distributed by: Amneal Pharmaceuticals LLC Bridgewater, NJ 08807
 
 Rev.
-05-2019-03
+10-2019-04

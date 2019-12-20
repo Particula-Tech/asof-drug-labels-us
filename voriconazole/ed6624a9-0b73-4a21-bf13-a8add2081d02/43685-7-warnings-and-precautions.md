@@ -81,7 +81,8 @@ Patient management should include laboratory evaluation of renal (particularly s
 
 ## 5.10 Pancreatitis
 
-Pancreatitis has been observed in patients undergoing treatment with voriconazole [see Adverse Reactions (6.1, 6.2)] Patients with risk factors for acute pancreatitis (e.g., recent chemotherapy, hematopoietic stem cell transplantation [HSCT]) should be monitored for the development of pancreatitis during voriconazole treatment.
+Pancreatitis has been observed in patients undergoing treatment with voriconazole [see Adverse Reactions (6.1, 6.2)].
+Patients with risk factors for acute pancreatitis (e.g., recent chemotherapy, hematopoietic stem cell transplantation [HSCT]) should be monitored for the development of pancreatitis during voriconazole treatment.
 
 ## 5.11 Skeletal Adverse Reactions
 
