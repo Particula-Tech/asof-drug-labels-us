@@ -104,7 +104,7 @@ Table 5: Efficacy Results of Study 2
 
 Effects on “On” time did not differ by age, sex, weight, disease severity at baseline, levodopa dose and concurrent treatment with dopamine agonists or selegiline.
 
-Withdrawal of entacapone:
+Withdrawal of Entacapone:
 
 In Study 2, abrupt withdrawal of entacapone, without alteration of the dose of carbidopa/levodopa, resulted in a significant worsening of fluctuations, compared to placebo.
 In some cases, symptoms were slightly worse than at baseline, but returned to approximately baseline severity within 2 weeks following levodopa dose increase on average by 80 mg.

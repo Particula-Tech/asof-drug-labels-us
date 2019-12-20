@@ -7,11 +7,10 @@ Carcinogenesis
 In rats, oral administration of carbidopa-levodopa for 2 years resulted in no evidence of carcinogenicity at doses of approximately 2 times (carbidopa)-4 times (levodopa) the maximum recommended human dose (MRHD).
 
 Two-year carcinogenicity studies of entacapone were conducted in mice and rats.
-Mice were treated once daily by oral gavage with doses of 20, 100, or 600 mg/kg/day (0.05, 0.3, or 2 times the MRHD on a mg/m2 basis).
-Because of a high incidence of premature mortality in mice receiving the highest dose of entacapone, the mouse study is not an adequate assessment of carcinogenicity.
-Rats were treated with entacapone at oral doses of 20, 90, or 400 mg/kg/day.
-An increased incidence of renal tubular adenomas and carcinomas was found in male rats treated with the highest dose of entacapone.
-Plasma exposures (AUC) associated with the highest dose not associated with increased renal tumors were approximately 5 times that in humans at the MRHD of entacapone.
+In mice, no increase in tumors was observed at oral doses of 100, 200 and 400 mg/kg/day.
+At the highest dose tested, plasma exposures (AUC) were 4 times higher than that in humans at the maximum recommended daily dose (MRDD) of 1,600 mg.
+In rats administered oral doses of 20, 90, or 400 mg/kg/day, an increased incidence of renal tubular adenomas and carcinomas was observed in males at the highest dose tested.
+Plasma AUCs at the higher dose not associated with increased renal tumors (90 mg/kg/day) were approximately 5 times that in humans at the MRDD of entacapone.
 
 The carcinogenic potential of entacapone administered in combination with carbidopa-levodopa has not been evaluated.
 

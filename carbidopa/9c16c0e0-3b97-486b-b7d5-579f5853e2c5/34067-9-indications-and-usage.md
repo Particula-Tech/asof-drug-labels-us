@@ -1,6 +1,6 @@
 # 1 INDICATIONS AND USAGE
 
-Carbidopa, levodopa and entacapone tablets, a combination drug consisting of levodopa, carbidopa (dopa decarboxylase inhibitor), and entacapone (catechol-O-methyltransferase-COMT inhibitor) is indicated for the treatment of Parkinson's disease.
+Carbidopa, levodopa and entacapone tablets, a combination drug consisting of levodopa, carbidopa (dopa decarboxylase inhibitor), and entacapone (catechol-O-methyltransferase-COMT inhibitor) are indicated for the treatment of Parkinson's disease.
 
 Carbidopa, levodopa and entacapone tablets can be used:
 

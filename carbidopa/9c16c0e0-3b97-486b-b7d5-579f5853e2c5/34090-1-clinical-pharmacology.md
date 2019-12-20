@@ -25,7 +25,7 @@ When decarboxylation of levodopa is prevented by carbidopa, COMT becomes the maj
 ## 12.3 Pharmacokinetics
 
 The pharmacokinetics of carbidopa, levodopa and entacapone tablets has been studied in healthy subjects (age 45 years to 75 years).
-Overall, following administration of corresponding doses of levodopa, carbidopa and entacapone as carbidopa, levodopa and entacapone tablets or as carbidopa and levodopa product plus entacapone tablets, the mean plasma concentrations of levodopa, carbidopa, and entacapone are comparable.
+Overall, following administration of corresponding doses of levodopa, carbidopa and entacapone as carbidopa, levodopa and entacapone tablets or as carbidopa and levodopa product plus Comtan (entacapone) tablets, the mean plasma concentrations of levodopa, carbidopa, and entacapone are comparable.
 
 Absorption and Distribution
 
