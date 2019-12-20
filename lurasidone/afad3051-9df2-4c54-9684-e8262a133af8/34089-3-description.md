@@ -3,7 +3,7 @@
 LATUDA is an atypical antipsychotic belonging to the chemical class of benzisothiazol derivatives.
 
 Its chemical name is (3aR,4S,7R,7aS)-2-{(1R,2R)-2-[4-(1,2-benzisothiazol-3-yl)piperazin-1-ylmethyl] cyclohexylmethyl}hexahydro-4,7-methano-2H-isoindole-1,3-dione hydrochloride.
-Its molecular formula is C28H36N4O2S·HCl and its molecular weight is 529.14.
+Its molecular formula is C28H36N4O2S•HCl and its molecular weight is 529.14.
 
 The chemical structure is:
 

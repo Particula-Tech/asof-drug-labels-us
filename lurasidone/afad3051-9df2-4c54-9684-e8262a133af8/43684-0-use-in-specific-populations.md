@@ -69,10 +69,18 @@ Irritability Associated with Autistic Disorder
 
 The effectiveness of LATUDA in pediatric patients for the treatment of irritability associated with autistic disorder has not been established.
 
-Efficacy was not demonstrated in a 6-week study evaluating LATUDA 20 mg/day and 60 mg/day for the treatment of pediatric patients 6 to 17 years of age with irritability associated with autistic disorder diagnosed by Diagnostic and Statistical Manual of Mental Disorder s, 4th Ed., Text Revision [DSM-IV-TR] criteria.
+Efficacy was not demonstrated in a 6-week study evaluating LATUDA 20 mg/day and 60 mg/day for the treatment of pediatric patients 6 to 17 years of age with irritability associated with autistic disorder diagnosed by Diagnostic and Statistical Manual of Mental Disorders, 4th Ed., Text Revision [DSM-IV-TR] criteria.
 The primary objective of the study as measured by improvement from Baseline in the irritability subscale of the Aberrant Behavior Checklist (ABC) at Endpoint (Week 6) was not met.
 A total of 149 patients were randomized to LATUDA or placebo.
-Vomiting occurred at a higher rate than reported in other LATUDA studies (4/49 or 8% for 20mg, 14/51 or 27% for 60mg, and 2/49 or 4% for placebo), particularly in children ages 6 to 12 (13 out of 18 patients on LATUDA with vomiting).
+Vomiting occurred at a higher rate than reported in other LATUDA studies (4/49 or 8% for 20 mg, 14/51 or 27% for 60 mg, and 2/49 or 4% for placebo), particularly in children ages 6 to 12 (13 out of 18 patients on LATUDA with vomiting).
+
+In a long-term, open-label study that enrolled pediatric patients (age 6 to 17 years) with schizophrenia, bipolar depression, or autistic disorder from three short-term, placebo-controlled trials, 54% (378/701) received lurasidone for 104 weeks.
+There was one adverse event in this trial that was considered possibly drug-related and has not been reported in adults receiving lurasidone: a 10 year old male experienced a prolonged, painful erection, consistent with priapism, that led to treatment discontinuation.
+
+In this trial, the mean increase in height from open-label baseline to Week 104 was 4.94 cm.
+To adjust for normal growth, z-scores were derived (measured in standard deviations [SD]), which normalize for the natural growth of children and adolescents by comparisons to age- and sex-matched population standards.
+A z-score change <0.5 SD is considered not clinically significant.
+In this trial, the mean change in height z-score from open-label baseline to Week 104 was +0.05 SD, indicating minimal deviation from the normal growth curve.
 
 Juvenile animal studies
 
@@ -100,7 +108,7 @@ LATUDA is not approved for the treatment of patients with dementia-related psych
 
 Reduce the maximum recommended dosage in patients with moderate or severe renal impairment (CLcr<50 mL/minute).
 Patients with impaired renal function (CLcr<50 mL/minute) had higher exposure to lurasidone than patients with normal renal function [see Clinical Pharmacology (12.3)].
-Greater exposure may increase the risk of LATUDA-associated adverse reactions [see Dosage and Administration (2.4)]
+Greater exposure may increase the risk of LATUDA-associated adverse reactions [see Dosage and Administration (2.4)].
 
 ## 8.7 Hepatic Impairment
 

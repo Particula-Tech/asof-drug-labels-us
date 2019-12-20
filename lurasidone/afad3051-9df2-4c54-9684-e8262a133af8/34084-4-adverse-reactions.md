@@ -165,7 +165,7 @@ Schizophrenia
 
 The following findings are based on the short-term, placebo-controlled adolescent study for schizophrenia in which LATUDA was administered at daily doses ranging from 40 (N=110) to 80 mg (N=104).
 
-Commonly Observed Adverse Reactions: The most common adverse reactions (incidence ≥5% and at least twice the rate of placebo) in adolescent patients (13 to 17 years) treated with LATUDA were somnolence, nausea, akathisia, extrapyramidal symptoms (non-akathisia, 40mg only), vomiting, and rhinorrhea/rhinitis (80mg only).
+Commonly Observed Adverse Reactions: The most common adverse reactions (incidence ≥5% and at least twice the rate of placebo) in adolescent patients (13 to 17 years) treated with LATUDA were somnolence, nausea, akathisia, extrapyramidal symptoms (non-akathisia, 40 mg only), vomiting, and rhinorrhea/rhinitis (80 mg only).
 
 Adverse Reactions Associated with Discontinuation of Treatment: The incidence of discontinuation due to adverse reactions between LATUDA- and placebo-treated adolescent patients (13 to 17 years) was 4% and 8%, respectively.
 
@@ -452,7 +452,7 @@ Psychiatric Disorders: Infrequent: abnormal dreams, panic attack, sleep disorder
 
 Renal and Urinary Disorders: Infrequent: dysuria; Rare: renal failure
 
-Reproductive System and Breast Disorders: Infrequent: amenorrhea, dysmenorrhea; Rare: breast enlargement, breast pain, galactorrhea, erectile dysfunction
+Reproductive System and Breast Disorders: Infrequent: amenorrhea, dysmenorrhea; Rare: breast enlargement, breast pain, galactorrhea, erectile dysfunction, priapism
 
 Skin and Subcutaneous Tissue Disorders: Frequent: rash, pruritus; Rare: angioedema
 
@@ -521,6 +521,11 @@ Table 33: Serum Creatinine Shifts from Normal at Baseline to High at Study End-P
 | Laboratory Parameter | Placebo (N=155) | LATUDA 20 to 80 mg/day (N=163) |
 | --- | --- | --- |
 | Serum Creatinine Elevated | 4.5% | 6.7% |
+
+Pediatric Patients (6 to 17 years)
+
+In a 104-week, open-label study in pediatric patients with schizophrenia, bipolar depression, or autistic disorder, the mean change from baseline to Week 104 in serum creatinine was +0.07 mg/dL.
+In patients with a normal serum creatinine at baseline, 6% experienced a shift to high at endpoint.
 
 ## 6.2 Postmarketing Experience
 

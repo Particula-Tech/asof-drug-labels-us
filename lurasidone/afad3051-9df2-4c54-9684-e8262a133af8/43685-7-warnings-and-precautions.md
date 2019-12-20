@@ -156,6 +156,10 @@ Pediatric Patients (10 to 17 years)
 In studies of pediatric patients 10 to 17 years and adults with bipolar depression, changes in fasting glucose were similar.
 In the 6-week, placebo-controlled study of pediatric patients with bipolar depression, mean change in fasting glucose was +1.6 mg/dL for LATUDA 20 to 80 mg/day (n=145) and -0.5 mg/dL for placebo (n=145).
 
+Pediatric Patients (6 to 17 years)
+
+In a 104-week, open-label study in pediatric patients with schizophrenia, bipolar depression, or autistic disorder, 7% of patients with a normal baseline fasting glucose experienced a shift to high at endpoint while taking lurasidone.
+
 Dyslipidemia
 
 Undesirable alterations in lipids have been observed in patients treated with atypical antipsychotics.
@@ -164,7 +168,7 @@ Schizophrenia
 
 Adults
 
-Pooled data from short-term, placebo-controlled schizophrenia studies are presented in Table 6: Change in Fasting Lipids in Adult Schizophrenia Studies
+Pooled data from short-term, placebo-controlled schizophrenia studies are presented in Table 6.
 
 Table 6: Change in Fasting Lipids in Adult Schizophrenia Studies
 
@@ -227,11 +231,16 @@ Table 8: Change in Fasting Lipids in the Adult Adjunctive Therapy Bipolar Depres
 | Triglycerides (≥ 200 mg/dL) | 8.6% (21/243) | 10.8% (28/260) |
 | Patients were randomized to flexibly dosed LATUDA 20 to 120 mg/day or placebo as adjunctive therapy with lithium or valproate. |  |  |
 
-In the uncontrolled, open-label, longer-term bipolar depression study, patients who received LATUDA, as adjunctive therapy with either lithium or valproate in the short-term study and continued in the longer-term study, had a mean change in total cholesterol and triglycerides of -0.9 (n=88) and +5.3 (n=88) mg/dL at week 24, respectively.
+In the uncontrolled, open-label, longer-term bipolar depression study, patients who received LATUDA as adjunctive therapy with either lithium or valproate in the short-term study and continued in the longer-term study, had a mean change in total cholesterol and triglycerides of -0.9 (n=88) and +5.3 (n=88) mg/dL at week 24, respectively.
 
 Pediatric Patients (10 to 17 years)
 
 In the 6-week, placebo-controlled bipolar depression study with pediatric patients 10 to 17 years, mean change in fasting cholesterol was -6.3 mg/dL for LATUDA 20 to 80 mg/day (n=144) and -1.4 mg/dL for placebo (n=145), and mean change in fasting triglyceride was -7.6 mg/dL for LATUDA 20 to 80 mg/day (n=144) and +5.9 mg/dL for placebo (n=145).
+
+Pediatric Patients (6 to 17 years)
+
+In a 104-week, open-label study of pediatric patients with schizophrenia, bipolar depression, or autistic disorder, shifts in baseline fasting cholesterol from normal to high at endpoint were reported in 12% (total cholesterol), 3% (LDL cholesterol), and shifts in baseline from normal to low were reported in 27% (HDL cholesterol) of patients taking lurasidone.
+Of patients with normal baseline fasting triglycerides, 12% experienced shifts to high.
 
 Weight Gain
 
@@ -318,6 +327,14 @@ Table 13: Mean Change in Weight (kg) from Baseline in the Bipolar Depression Stu
 |  | Placebo (n=170) | 20 to 80 mg/day (n=175) |
 | All Patients | +0.5 | +0.7 |
 
+Pediatric Patients (6 to 17 years)
+
+In a long-term, open-label study that enrolled pediatric patients with schizophrenia, bipolar depression, or autistic disorder from three short-term, placebo-controlled trials, 54% (378/701) received lurasidone for 104 weeks.
+The mean increase in weight from open-label baseline to Week 104 was 5.85 kg.
+To adjust for normal growth, z-scores were derived (measured in standard deviations [SD]), which normalize for the natural growth of children and adolescents by comparisons to age- and sex-matched population standards.
+A z-score change <0.5 SD is considered not clinically significant.
+In this trial, the mean change in z-score from open-label baseline to Week 104 was -0.06 SD for body weight and -0.13 SD for body mass index (BMI), indicating minimal deviation from the normal curve for weight gain.
+
 ## 5.7 Hyperprolactinemia
 
 As with other drugs that antagonize dopamine D2 receptors, LATUDA elevates prolactin levels.
@@ -352,7 +369,7 @@ The proportion of patients with prolactin elevations ≥5× upper limit of norma
 The proportion of female patients with prolactin elevations ≥5x ULN was 5.7% for LATUDA-treated patients and = 2.0% for placebo-treated female patients.
 The proportion of male patients with prolactin elevations ≥5x ULN was 1.6% and 0.6% for placebo-treated male patients.
 
-In the uncontrolled longer-term schizophrenia studies (primarily open-label extension studies), LATUDA was associated with a median change in prolactin of -0.9 ng/mL at week 24 (n=357), -5.3ng/mL at week 36 (n=190) and -2.2 ng/mL at week 52 (n=307).
+In the uncontrolled longer-term schizophrenia studies (primarily open-label extension studies), LATUDA was associated with a median change in prolactin of -0.9 ng/mL at week 24 (n=357), -5.3 ng/mL at week 36 (n=190) and -2.2 ng/mL at week 52 (n=307).
 
 Adolescents
 
@@ -438,6 +455,14 @@ Table 18: Median Change in Prolactin (ng/mL) from Baseline in the Bipolar Depres
 The proportion of patients with prolactin elevations ≥5x ULN was 0% for LATUDA-treated patients and 0.6% for placebo-treated patients.
 The proportion of female patients with prolactin elevations ≥5x ULN was 0% for LATUDA-treated patients and 1.3% for placebo-treated female patients.
 No male patients in the placebo or LATUDA treatment groups had prolactin elevations ≥5x ULN.
+
+Pediatric Patients (6 to 17 years)
+
+In a 104-week, open-label study of pediatric patients with schizophrenia, bipolar depression, or autistic disorder, the median changes from baseline to endpoint in serum prolactin levels were -0.20 ng/mL (all patients), -0.30 ng/mL (females), and -0.05 ng/mL (males).
+The proportions of patients with a markedly high prolactin level (≥5 times the upper limit of normal) at any time during open-label treatment were 2% (all patients), 3% (females), and 1% (males).
+
+Adverse events among females in this trial that are potentially prolactin-related include galactorrhea (0.6%).
+Among male patients in this study, decreased libido was reported in one patient (0.2%) and there were no reports of impotence, gynecomastia, or galactorrhea.
 
 ## 5.8 Leukopenia, Neutropenia and Agranulocytosis
 
@@ -543,7 +568,7 @@ Adults
 
 Monotherapy
 
-In the adult short-term, flexible-dosed, placebo-controlled monotherapy bipolar depression study, somnolence was reported by 7.3% (12/164) and 13.8% (23/167) with LATUDA 20 to 60 mg and 80 to120 mg, respectively compared to 6.5% (11/168) of placebo patients.
+In the adult short-term, flexible-dosed, placebo-controlled monotherapy bipolar depression study, somnolence was reported by 7.3% (12/164) and 13.8% (23/167) with LATUDA 20 to 60 mg and 80 to 120 mg, respectively compared to 6.5% (11/168) of placebo patients.
 
 Adjunctive Therapy with Lithium or Valproate
 

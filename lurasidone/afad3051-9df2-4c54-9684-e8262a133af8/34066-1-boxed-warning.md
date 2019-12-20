@@ -8,5 +8,4 @@ LATUDA is not approved for the treatment of patients with dementia-related psych
 Suicidal Thoughts and Behaviors
 
 Antidepressants increased the risk of suicidal thoughts and behavior in pediatric and young adults in short-term studies.
-Closely monitor all antidepressant-treated patients for clinical worsening, and for emergence of suicidal thoughts and behaviors.
-[see Warnings and Precautions (5.2)].
+Closely monitor all antidepressant-treated patients for clinical worsening, and for emergence of suicidal thoughts and behaviors [see Warnings and Precautions (5.2)].

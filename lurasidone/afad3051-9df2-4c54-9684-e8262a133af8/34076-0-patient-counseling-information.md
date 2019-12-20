@@ -9,7 +9,7 @@ Advise patients and caregivers to look for the emergence of suicidality, especia
 Neuroleptic Malignant Syndrome
 
 Counsel patients about a potentially fatal adverse reaction referred to as Neuroleptic Malignant Syndrome (NMS).
-Advise patients, family members, or caregivers to contact healthcare provider or to report to the emergency room if they experience signs and symptoms of NMS [see Warnings and Precautions (5.4)].
+Advise patients, family members, or caregivers to contact the healthcare provider or to report to the emergency room if they experience signs and symptoms of NMS [see Warnings and Precautions (5.4)].
 
 Tardive Dyskinesia
 
@@ -60,6 +60,8 @@ For Customer Service, call 1-888-394-7377.
 For Medical Information, call 1-800-739-0565.
 To report suspected adverse reactions, call 1-877-737-7226.
 
+10092-02
+
 LATUDA is a registered trademark of Sumitomo Dainippon Pharma Co. Ltd. Sunovion Pharmaceuticals Inc. is a U.S. subsidiary of Sumitomo Dainippon Pharma Co. Ltd.
 
-© 2018 Sunovion Pharmaceuticals Inc.
+© 2019 Sunovion Pharmaceuticals Inc.
