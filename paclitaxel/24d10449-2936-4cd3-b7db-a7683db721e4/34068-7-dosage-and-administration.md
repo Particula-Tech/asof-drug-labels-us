@@ -1,44 +1,37 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-## 2.1 Metastatic Breast Cancer
+## 2.1 Recommended Dosage for Metastatic Breast Cancer
 
 After failure of combination chemotherapy for metastatic breast cancer or relapse within 6 months of adjuvant chemotherapy, the recommended regimen for ABRAXANE is 260 mg/m2 administered intravenously over 30 minutes every 3 weeks.
 
-## 2.2 Non-Small Cell Lung Cancer
+## 2.2 Recommended Dosage for Non-Small Cell Lung Cancer
 
 The recommended dose of ABRAXANE is 100 mg/m2 administered as an intravenous infusion over 30 minutes on Days 1, 8, and 15 of each 21-day cycle.
-Administer carboplatin on Day 1 of each 21 day cycle immediately after ABRAXANE [see Clinical Studies (14.2)].
+Administer carboplatin on Day 1 of each 21-day cycle immediately after ABRAXANE [see Clinical Studies (14.2)].
 
-## 2.3 Adenocarcinoma of the Pancreas
+## 2.3 Recommended Dosage for Adenocarcinoma of the Pancreas
 
 The recommended dose of ABRAXANE is 125 mg/m2 administered as an intravenous infusion over 30-40 minutes on Days 1, 8 and 15 of each 28-day cycle.
 Administer gemcitabine immediately after ABRAXANE on Days 1, 8 and 15 of each 28-day cycle [see Clinical Studies (14.3)].
 
-## 2.4 Dosage in Patients with Hepatic Impairment
+## 2.4 Dosage Modifications for Hepatic Impairment
 
-For patients with mild hepatic impairment (total bilirubin greater than ULN and less than or equal to 1.5 x ULN and aspartate aminotransferase [AST] less than or equal to 10 x ULN), no dose adjustments are required, regardless of indication.
+For patients with moderate or severe hepatic impairment, reduce the starting dose of ABRAXANE as shown in Table 1.
 
-Do not administer ABRAXANE to patients with metastatic adenocarcinoma of the pancreas who have moderate to severe hepatic impairment.
+Table 1: Recommendations for Starting Dose in Patients with Moderate and Severe Hepatic Impairment
 
-Do not administer ABRAXANE to patients with total bilirubin greater than 5 x ULN or AST greater than 10 x ULN regardless of indication as these patients have not been studied.
-
-Recommendations for dosage adjustment for the first course of therapy are shown in Table 1.
-
-Table 1: Recommendations for Starting Dose in Patients with Hepatic Impairment
-
-|  | SGOT (AST) Levels |  | Bilirubin Levels | ABRAXANE Dosea |  |  |
+|  | AST Levels |  | Bilirubin Levels | ABRAXANE Dosea |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-|  |  | MBC | NSCLC c | Pancreatic c Adenocarcinoma |  |  |
-| Mild | < 10 x ULN | AND | > ULN to ≤ 1.5 x ULN | 260 mg/m2 | 100 mg/m2 | 125 mg/m2 |
-| Moderate | < 10 x ULN | AND | >1.5 to ≤ 3 x ULN | 200 mg/m2 b | 80 mg/m2 b | not recommended |
+|  |  | MBC | NSCLC c | Adenocarcinoma of Pancreasc |  |  |
+| Moderate | < 10 x ULN | AND | > 1.5 to ≤ 3 x ULN | 200 mg/m2 b | 80 mg/m2 b | not recommended |
 | Severe | < 10 x ULN | AND | > 3 to ≤ 5 x ULN | 200 mg/m2 b | 80 mg/m2 b | not recommended |
 |  | > 10 x ULN | OR | > 5 x ULN | not recommended | not recommended | not recommended |
-| MBC = Metastatic Breast Cancer; NSCLC = Non-Small Cell Lung Cancer. |  |  |  |  |  |  |
+| AST = Aspartate Aminotransferase; MBC = Metastatic Breast Cancer; NSCLC = Non-Small Cell Lung Cancer; ULN = Upper limit of normal. |  |  |  |  |  |  |
 | a Dosage recommendations are for the first course of therapy. The need for further dose adjustments in subsequent courses should be based on individual tolerance. |  |  |  |  |  |  |
 | b A dose increase to 260 mg/m2 for patients with metastatic breast cancer or 100 mg/m2 for patients with non-small cell lung cancer in subsequent courses should be considered if the patient tolerates the reduced dose for two cycles. |  |  |  |  |  |  |
 | c Patients with bilirubin levels above the upper limit of normal were excluded from clinical trials for pancreatic or lung cancer. |  |  |  |  |  |  |
 
-## 2.5 Dose Reduction/Discontinuation Recommendations
+## 2.5 Dosage Modifications for Adverse Reactions
 
 Metastatic Breast Cancer Patients who experience severe neutropenia (neutrophils less than 500 cells/mm3 for a week or longer) or severe sensory neuropathy during ABRAXANE therapy should have dosage reduced to 220 mg/m2 for subsequent courses of ABRAXANE.
 For recurrence of severe neutropenia or severe sensory neuropathy, additional dose reduction should be made to 180 mg/m2.
@@ -46,15 +39,15 @@ For Grade 3 sensory neuropathy hold treatment until resolution to Grade 1 or 2, 
 
 Non-Small Cell Lung Cancer
 
-- Do not administer ABRAXANE on Day 1 of a cycle until absolute neutrophil count (ANC) is at least 1500 cells/mm3 and platelet count is at least 100,000 cells/mm3 [see Contraindications (4), Warnings and Precautions (5.1) and Adverse Reactions (6.2)].
+- Do not administer ABRAXANE on Day 1 of a cycle until absolute neutrophil count (ANC) is at least 1500 cells/mm3 and platelet count is at least 100,000 cells/mm3 [see Contraindications (4), Warnings and Precautions (5.1) and Adverse Reactions (6.1)].
 - In patients who develop severe neutropenia or thrombocytopenia withhold treatment until counts recover to an absolute neutrophil count of at least 1500 cells/mm3 and platelet count of at least 100,000 cells/mm3 on Day 1 or to an absolute neutrophil count of at least 500 cells/mm3 and platelet count of at least 50,000 cells/mm3 on Days 8 or 15 of the cycle.
   Upon resumption of dosing, permanently reduce ABRAXANE and carboplatin doses as outlined in Table 2.
 - Withhold ABRAXANE for Grade 3-4 peripheral neuropathy.
-  Resume ABRAXANE and carboplatin at reduced doses (see Table 2) when peripheral neuropathy improves to Grade 1 or completely resolves [see Warnings and Precautions (5.2) and Adverse Reactions (6.2)].
+  Resume ABRAXANE and carboplatin at reduced doses (see Table 2) when peripheral neuropathy improves to Grade 1 or completely resolves [see Warnings and Precautions (5.2) and Adverse Reactions (6.11)].
 
-Table 2: Permanent Dose Reductions for Hematologic and Neurologic Adverse Drug Reactions in NSCLC
+Table 2: Permanent Dose Reductions for Hematologic and Neurologic Adverse Reactions in NSCLC
 
-| Adverse Drug Reaction | Occurrence | Weekly ABRAXANE Dose (mg/m2) | Every 3-Week Carboplatin Dose (AUC mg•min/mL) |
+| Adverse Reaction | Occurrence | Weekly ABRAXANE Dose (mg/m2) | Every 3-Week Carboplatin Dose (AUC mg•min/mL) |
 | --- | --- | --- | --- |
 | Neutropenic Fever (ANC less than 500/mm3 with fever >38°C) OR Delay of next cycle by more than 7 days for ANC less than 1500/mm3 OR ANC less than 500/mm3 for more than 7 days | First | 75 | 4.5 |
 | Second | 50 | 3 |  |
@@ -94,11 +87,11 @@ Table 4: Dose Recommendation and Modifications for Neutropenia and/or Thrombocyt
 |  | < 500 | OR | < 50,000 | Withhold doses |
 | ANC = Absolute Neutrophil Count |  |  |  |  |
 
-Recommended dose modifications for other adverse drug reactions in patients with adenocarcinoma of the pancreas are provided in Table 5.
+Recommended dose modifications for other adverse reactions in patients with adenocarcinoma of the pancreas are provided in Table 5.
 
-Table 5: Dose Modifications for Other Adverse Drug Reactions in Patients with Adenocarcinoma of the Pancreas
+Table 5: Dose Modifications for Other Adverse Reactions in Patients with Adenocarcinoma of the Pancreas
 
-| Adverse Drug Reaction | ABRAXANE | Gemcitabine |  |
+| Adverse Reaction | ABRAXANE | Gemcitabine |  |
 | --- | --- | --- | --- |
 | Febrile Neutropenia: Grade 3 or 4 | Withhold until fever resolves and ANC ≥ 1500; resume at next lower dose level |  |  |
 | Peripheral Neuropathy: Grade 3 or 4 | Withhold until improves to ≤ Grade 1; resume at next lower dose level | No dose reduction |  |
@@ -107,14 +100,14 @@ Table 5: Dose Modifications for Other Adverse Drug Reactions in Patients with Ad
 
 ## 2.6 Preparation and Administration Precautions
 
-ABRAXANE is a cytotoxic drug and, as with other potentially toxic paclitaxel compounds, caution should be exercised in handling ABRAXANE.
-The use of gloves is recommended.
+ABRAXANE is a cytotoxic drug.
+Follow applicable special handling and disposal procedures.1 The use of gloves is recommended.
 If ABRAXANE (lyophilized cake or reconstituted suspension) contacts the skin, wash the skin immediately and thoroughly with soap and water.
 Following topical exposure to paclitaxel, events may include tingling, burning and redness.
 If ABRAXANE contacts mucous membranes, the membranes should be flushed thoroughly with water.
 
 Given the possibility of extravasation, it is advisable to closely monitor the infusion site for possible infiltration during drug administration.
-Limiting the infusion of ABRAXANE to 30 minutes, as directed, reduces the likelihood of infusion-related reactions [see Adverse Reactions (6.4)].
+Limiting the infusion of ABRAXANE to 30 minutes, as directed, reduces the likelihood of infusion-related reactions [see Adverse Reactions (6.1)].
 
 Premedication to prevent hypersensitivity reactions is generally not needed prior to the administration of ABRAXANE.
 Premedication may be needed in patients who have had prior hypersensitivity reactions to ABRAXANE.

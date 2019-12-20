@@ -18,7 +18,7 @@ Resume treatment with appropriate dose reduction if recommended [see Dosage and 
 
 ## 5.2 Nervous System
 
-Sensory neuropathy is dose- and schedule-dependent [see Adverse Reactions (6.1, 6.2, 6.3)].
+Sensory neuropathy is dose- and schedule-dependent [see Adverse Reactions (6.1)].
 The occurrence of Grade 1 or 2 sensory neuropathy does not generally require dose modification.
 If ≥ Grade 3 sensory neuropathy develops, withhold ABRAXANE treatment until resolution to Grade 1 or 2 for metastatic breast cancer or until resolution to ≤ Grade 1 for NSCLC and pancreatic cancer followed by a dose reduction for all subsequent courses of ABRAXANE [see Dosage and Administration (2.5)].
 
@@ -48,7 +48,7 @@ Because the exposure and toxicity of paclitaxel can be increased with hepatic im
 Patients with hepatic impairment may be at increased risk of toxicity, particularly from myelosuppression; such patients should be closely monitored for development of profound myelosuppression.
 ABRAXANE is not recommended in patients who have total bilirubin >5 x ULN or AST >10 x ULN.
 In addition, ABRAXANE is not recommended in patients with metastatic adenocarcinoma of the pancreas who have moderate to severe hepatic impairment (total bilirubin >1.5 x ULN and AST ≤10 x ULN).
-The starting dose should be reduced for patients with moderate or severe hepatic impairment [see Dosage and Administration (2.4), Use in Specific Populations (8.6) and Clinical Pharmacology (12.3)].
+The starting dose should be reduced for patients with moderate or severe hepatic impairment [see Dosage and Administration (2.4), Use in Specific Populations (8.7), Clinical Pharmacology (12.3)].
 
 ## 5.7 Albumin (Human)
 
@@ -63,6 +63,6 @@ Based on mechanism of action and findings in animals, ABRAXANE can cause fetal h
 In animal reproduction studies, administration of paclitaxel formulated as albumin-bound particles to rats during pregnancy at doses lower than the maximum recommended human dose, based on body surface area, caused embryo-fetal toxicities, including intrauterine mortality, increased resorptions, reduced numbers of live fetuses, and malformations.
 
 Advise females of reproductive potential of the potential risk to a fetus.
-Advise females of reproductive potential to use effective contraception and avoid becoming pregnant during treatment with ABRAXANE and for at least six months after the last dose of ABRAXANE [see Use in Specific Populations (8.1, 8.3) and Clinical Pharmacology (12.1)].
+Advise females of reproductive potential to use effective contraception and avoid becoming pregnant during treatment with ABRAXANE and for at least six months after the last dose of ABRAXANE [see Use in Specific Populations (8.1, 8.3), Clinical Pharmacology (12.1)].
 
-Based on findings from genetic toxicity and animal reproduction studies, advise male patients with female partners of reproductive potential to use effective contraception and avoid fathering a child during treatment with ABRAXANE and for at least three months after the last dose of ABRAXANE [see Use in Specific Populations (8.1, 8.3) and Nonclinical Toxicology (13.1)].
+Based on findings from genetic toxicity and animal reproduction studies, advise male patients with female partners of reproductive potential to use effective contraception and avoid fathering a child during treatment with ABRAXANE and for at least three months after the last dose of ABRAXANE [see Use in Specific Populations (8.1, 8.3), Nonclinical Toxicology (13.1)].

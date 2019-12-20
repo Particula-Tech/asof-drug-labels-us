@@ -7,8 +7,7 @@ Risk Summary
 Based on its mechanism of action and findings in animals, ABRAXANE can cause fetal harm when administered to a pregnant woman [see Clinical Pharmacology (12.1)].
 There are no available human data to inform the drug-associated risk.
 
-In animal reproduction studies, administration of paclitaxel formulated as albumin-bound particles to pregnant rats during the period of organogenesis resulted in embryo-fetal toxicity at doses approximately 2% of the daily maximum recommended human dose on a mg/m2 basis.
-[see Data].
+In animal reproduction studies, administration of paclitaxel formulated as albumin-bound particles to pregnant rats during the period of organogenesis resulted in embryo-fetal toxicity at doses approximately 2% of the daily maximum recommended human dose on a mg/m2 basis (see Data.).
 Advise females of reproductive potential of the potential risk to a fetus.
 
 The background rate of major birth defects and miscarriage is unknown for the indicated population.
@@ -26,7 +25,7 @@ Fetal anomalies included soft tissue and skeletal malformations, such as eye bul
 Risk Summary
 
 There are no data on the presence of paclitaxel in human milk, or its effect on the breastfed child or on milk production.
-In animal studies, paclitaxel and/or its metabolites were excreted into the milk of lactating rats [see Data].
+In animal studies, paclitaxel and/or its metabolites were excreted into the milk of lactating rats (see Data).
 Because of the potential for serious adverse reactions in a breastfed child from ABRAXANE, advise lactating women not to breastfeed during treatment with ABRAXANE and for two weeks after the last dose.
 
 Data
@@ -61,7 +60,12 @@ Based on findings in animals, ABRAXANE may impair fertility in females and males
 
 ## 8.4 Pediatric Use
 
-The safety and effectiveness of ABRAXANE in pediatric patients have not been evaluated.
+Safety and effectiveness in pediatric patients have not been established.
+Pharmacokinetics, safety, and antitumor activity of ABRAXANE were assessed in an open-label, dose escalation, dose expansion study (NCT01962103) in 96 pediatric patients aged 1.4 to < 17 years with recurrent or refractory pediatric solid tumors.
+The maximum tolerated dose (MTD) normalized for body surface area (BSA) was lower in pediatric patients compared to adults.
+No new safety signals were observed in pediatric patients across these studies.
+
+Paclitaxel protein-bound exposures normalized by dose were higher in 96 pediatric patients (aged 1.4 to < 17 years) as compared to those in adults.
 
 ## 8.5 Geriatric Use
 
@@ -80,14 +84,14 @@ No overall differences in effectiveness were observed between patients who were 
 Diarrhea, decreased appetite, dehydration and epistaxis were more frequent in patients 65 years or older compared with patients younger than 65 years old.
 Clinical studies of ABRAXANE did not include sufficient number of patients with pancreatic cancer who were 75 years and older to determine whether they respond differently from younger patients.
 
-## 8.6 Patients with Hepatic Impairment
+## 8.6 Renal Impairment
 
-The exposure to paclitaxel may be higher in patients with hepatic impairment than in patients with normal hepatic function.
-Reduce ABRAXANE starting dose in patients with moderate to severe hepatic impairment.
+No adjustment of the starting ABRAXANE dose is required for patients with mild to moderate renal impairment (estimated creatinine clearance 30 to <90 mL/min) [see Clinical Pharmacology (12.3)].
+There are insufficient data to permit dosage recommendations in patients with severe renal impairment or end stage renal disease (estimated creatinine clearance <30 mL/min).
+
+## 8.7 Hepatic Impairment
+
+No adjustment of the starting ABRAXANE dose is required for patients with mild hepatic impairment (total bilirubin > ULN and ≤ 1.5 x ULN and aspartate aminotransferase [AST] ≤ 10 x ULN).
+Reduce ABRAXANE starting dose in patients with moderate to severe hepatic impairment [see Dosage and Administration (2.4) and Clinical Pharmacology (12.3)].
 Do not administer ABRAXANE to patients with total bilirubin > 5 x ULN or AST > 10 x ULN [see Dosage and Administration (2.4), Warnings and Precautions (5.6) and Clinical Pharmacology (12.3)].
 Do not administer to patients with metastatic adenocarcinoma of the pancreas who have moderate to severe hepatic impairment [see Dosage and Administration (2.4)].
-
-## 8.7 Patients with Renal Impairment
-
-Adjustment of the starting ABRAXANE dose is not required for patients with mild to moderate renal impairment (estimated creatinine clearance ≥30 to <90 mL/min) [see Clinical Pharmacology (12.3)].
-There are insufficient data to permit dosage recommendations in patients with severe renal impairment or end stage renal disease (estimated creatinine clearance <30 mL/min).

@@ -34,7 +34,7 @@ Table 11: Efficacy Results from Randomized Metastatic Breast Cancer Trial
 
 ## 14.2 Non-Small Cell Lung Cancer
 
-A multicenter, randomized, open-label study was conducted in 1052 chemonaive patients with Stage IIIb/IV non-small cell lung cancer to compare ABRAXANE in combination with carboplatin to paclitaxel injection in combination with carboplatin as first-line treatment in patients with advanced non-small cell lung cancer.
+A multicenter, randomized, open-label study was conducted in 1052 chemotherapy naive patients with Stage IIIb/IV non-small cell lung cancer to compare ABRAXANE in combination with carboplatin to paclitaxel injection in combination with carboplatin as first-line treatment in patients with advanced non-small cell lung cancer.
 ABRAXANE was administered as an intravenous infusion over 30 minutes at a dose of 100 mg/m2 on Days 1, 8, and 15 of each 21-day cycle.
 Paclitaxel injection was administered as an intravenous infusion over 3 hours at a dose of 200 mg/m2, following premedication.
 In both treatment arms carboplatin at a dose of AUC = 6 mg•min/mL was administered intravenously on Day 1 of each 21-day cycle after completion of ABRAXANE/paclitaxel infusion.
@@ -70,6 +70,7 @@ Key eligibility criteria were Karnofsky Performance Status (KPS) ≥70, normal b
 Patients with rapid decline in KPS (≥10%) or serum albumin (≥20%) during the 14 day screening period prior to study randomization were ineligible.
 
 A total of 861 patients were randomized (1:1) to the ABRAXANE/gemcitabine arm (N=431) or to the gemcitabine arm (N=430).
+
 Randomization was stratified by geographic region (Australia, Western Europe, Eastern Europe, or North America), KPS (70 to 80 versus 90 to 100), and presence of liver metastasis (yes versus no). Patients randomized to ABRAXANE/gemcitabine received ABRAXANE 125 mg/m2 as an intravenous infusion over 30-40 minutes followed by gemcitabine 1000 mg/m2 as an intravenous infusion over 30-40 minutes on Days 1, 8, and 15 of each 28-day cycle.
 Patients randomized to gemcitabine received 1000 mg/m2 as an intravenous infusion over 30-40 minutes weekly for 7 weeks followed by a 1-week rest period in Cycle 1 then as 1000 mg/m2 on Days 1, 8 and 15 of each subsequent 28-day cycle.
 Patients in both arms received treatment until disease progression or unacceptable toxicity.
