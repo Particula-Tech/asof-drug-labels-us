@@ -2,26 +2,34 @@
 
 ## 8.1 Pregnancy
 
-Teratogenic Effects
+Risk Summary
 
-Pregnancy Category B. Acyclovir was not teratogenic in the mouse, rabbit or rat at exposures greatly in excess of human exposure.
-There are no adequate and well-controlled trials of systemic acyclovir in pregnant women.
-A prospective epidemiologic registry of acyclovir use during pregnancy between 1984 and 1999 followed 749 pregnancies in women exposed to systemic acyclovir during the first trimester of pregnancy resulting in 756 outcomes.
-The occurrence rate of birth defects approximated that found in the general population.
-However, the size of the registry was insufficient to evaluate the risk for less common defects or to permit reliable or definitive conclusions regarding the safety of acyclovir in pregnant women and their developing fetuses.
-
-Corticosteroids are generally teratogenic in laboratory animals when administered systemically at relatively low-dosage levels.
-The more potent corticosteroids have been shown to be teratogenic after dermal application in laboratory animals.
+There are no available data on XERESE use in pregnant women.
+However, published observational studies over decades of use of topical acyclovir and low and medium potency topical corticosteroids during pregnancy have not established any association between use of these products and major birth defects, miscarriage, or adverse maternal or fetal outcomes (see Data).
 
 Animal reproduction studies have not been conducted with XERESE.
-No trials have been performed in pregnant women.
-Systemic exposure of acyclovir and hydrocortisone following topical administration of XERESE is minimal.
+Systemic exposure of acyclovir and hydrocortisone following topical administration of XERESE is expected to be minimal.
+Animal reproduction studies with systemic exposure of acyclovir and hydrocortisone have been conducted.
+Refer to acyclovir and hydrocortisone prescribing information for additional details.
 
-## 8.3 Nursing Mothers
+The estimated background risk of major birth defects and miscarriage for the indicated population is unknown.
+All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively.
 
-It is not known whether topically applied acyclovir or hydrocortisone is excreted in breast milk.
-Systemic exposure following topical administration of either drug is expected to be below detection limits.
-Because many drugs are excreted in human milk, caution should be exercised when XERESE is administered to a nursing woman.
+Data
+
+Human Data
+
+While available studies cannot definitively establish the absence of risk, published data from multiple large observational studies have not established an association with the use of topical acyclovir or low and medium potency topical corticosteroids (including hydrocortisone) during pregnancy and major birth defects, miscarriage, or adverse maternal or fetal outcomes.
+Available studies have methodological limitations including whether women who filled a prescription actually took the medication, non-randomized design, retrospective data collection, and the inability to control for confounders such as underlying maternal disease and use of concomitant medications.
+
+## 8.2 Lactation
+
+1. Risk Summary
+2. There are no data on the presence of acyclovir or hydrocortisone in human milk following topical administration.
+   There are no data on the effects of acyclovir or hydrocortisone on the breastfed infant or on milk production.
+   Systemic exposure following topical administration of either drug is expected to be minimal.
+   The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for XERESE and any potential adverse effects on the breastfed child from XERESE or from the underlying maternal condition.
 
 ## 8.4 Pediatric Use
 

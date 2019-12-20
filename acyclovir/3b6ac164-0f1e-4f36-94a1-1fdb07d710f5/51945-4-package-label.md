@@ -1,4 +1,4 @@
-Principal Display Panel - 5 g Carton
+## Principal Display Panel - 5 g Carton
 
 NDC 0187-5104-01 Rx only XERESE® (Acyclovir and Hydrocortisone) Cream 5%/1%
 

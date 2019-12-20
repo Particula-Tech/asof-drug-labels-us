@@ -1,7 +1,7 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
 XERESE is supplied in a plastic-laminated aluminum tube containing 5 g of XERESE.
-Each gram of XERESE contains 5% (w/w) acyclovir and 1% (w/w) hydrocortisone in an aqueous cream base.
+Each gram of XERESE contains 50 mg (equivalent to 5%, w/w) acyclovir and 10 mg (equivalent to 1%, w/w) hydrocortisone in an aqueous cream base.
 
 NDC 0187-5104-01: 5 g tubes
 

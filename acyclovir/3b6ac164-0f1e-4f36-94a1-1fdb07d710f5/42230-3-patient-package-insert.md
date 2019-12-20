@@ -3,13 +3,14 @@ FDA-Approved Patient Labeling
 PATIENT INFORMATION XERESE® (sûr-eeze) (acyclovir and hydrocortisone) Cream 5%/1%
 
 Important information: XERESE is for use on cold sores on the lips and around the mouth only.
-XERESE should not be used in eyes, mouth, nose or on your genitals.
+XERESE should not be used in your eyes, mouth, nose or on your genitals.
 
 What is XERESE?
 
 - •XERESE is a prescription medicine used in people 6 years of age and older to shorten the healing time of cold sores (herpes labialis) and lower the chance of a cold sore becoming worse (ulcerating).
 - •XERESE is not a cure for cold sores.
-- •It is not known if XERESE is safe and effective in children less than 6 years of age.
+
+It is not known if XERESE is safe and effective in children less than 6 years of age.
 
 What should I tell my healthcare provider before using XERESE?
 
@@ -20,6 +21,7 @@ Before using XERESE, tell your healthcare provider about all of your medical con
   It is not known if XERESE will harm your unborn baby.
 - •are breastfeeding or plan to breastfeed.
   It is not known if XERESE passes into your breast milk.
+  Talk with your healthcare provider about the best way to feed your baby if you use XERESE.
 
 Tell your healthcare provider about all the medicines you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements.
 
@@ -28,7 +30,7 @@ How should I use XERESE?
 - •Use XERESE exactly as your healthcare provider tells you to use it.
 - •Use XERESE as soon as you have the first symptom of a cold sore such as itching, redness, burning or tingling or when the cold sore appears.
 - •Apply XERESE over the affected area, including the outer edge of the cold sore.
-- •Do not rub the cold sore because this may cause the cold sore to spread to other areas around your mouth, or make your cold sore worse.
+- •Do not rub the cold sore because this may cause the cold sore to spread to other areas around your mouth or make your cold sore worse.
 - •Do not cover the cold sore or the area around the cold sore with a bandage.
 - •Do not use other skin products (such as make-up, sun screen or lip balm) or other skin medicine on the cold sore or the area around the cold sore.
 - •Tell your healthcare provider if your cold sore is not better in 2 weeks.
@@ -49,13 +51,13 @@ How should I store XERESE?
 
 Keep XERESE and all medicines out of the reach of children.
 
-General information about the safe and effective use of XERESE
+General information about the safe and effective use of XERESE.
 
 Medicines are sometimes prescribed for purposes other than those listed in a Patient Information leaflet.
 Do not use XERESE for a condition for which it was not prescribed.
 Do not give XERESE to other people, even if they have the same symptoms that you have.
 It may harm them.
-You can ask your pharmacist or healthcare provider for information about XERESE that is written for health professionals.
+You can ask your pharmacist or healthcare provider for information about XERESE that is written for healthcare professionals.
 
 What are the ingredients in XERESE?
 
@@ -64,17 +66,28 @@ Active ingredients: acyclovir and hydrocortisone
 Inactive ingredients: cetostearyl alcohol, citric acid monohydrate, isopropyl myristate, mineral oil, Poloxamer 188, propylene glycol, sodium lauryl sulfate, purified water, USP, sodium hydroxide, and white petrolatum.
 May also contain hydrochloric acid.
 
-Manufactured for: Bausch Health US, LLC Bridgewater, NJ 08807 USA
+Distributed by:
 
-By: Bausch Health Companies Inc. Laval, Quebec H7L 4A8, Canada Product under license from Meda Pharma S.A.R.L., Luxembourg by Bausch Health Ireland Limited, Dublin, Ireland U.S. Patent Number: 7,223,387
+Bausch Health US, LLC
+
+Bridgewater, NJ 08807 USA
+
+Manufactured by:
+
+Contract Pharmaceuticals Limited (CPL)
+
+Mississauga, Ontario L5N 6L6, Canada
+
+Product under license from Meda Pharma S.A.R.L., Luxembourg by Bausch Health Ireland Limited, Dublin, Ireland
+
+U.S. Patent Number: 7,223,387
 
 XERESE is a trademark of Meda Pharma S.A.R.L. used under license.
 
 Zovirax is a registered trademark of the GlaxoSmithKline group of companies.
 
-© 2019 Bausch Health Companies Inc. or its affiliates For more information call 1-800-321-4576.
-This Patient Information has been approved by the U.S. Food and Drug Administration.
-Rev.
-03/2019
+© 2019 Bausch Health Companies Inc. or its affiliates
 
-9587301
+1. For more information call 1-800-321-4576.
+   This Patient Information has been approved by the U.S. Food and Drug Administration.
+   Revised: 12/2019
