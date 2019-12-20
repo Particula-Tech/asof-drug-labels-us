@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "ANDA210333"
+  ],
+  "inn": "phenylephrine",
+  "labeler": "Meitheal Pharmaceuticals Inc.",
+  "package_ndcs": [
+    "71288-808-75",
+    "71288-808-76",
+    "71288-808-77"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "phenylephrine hydrochloride",
+      "name": "PHENYLEPHRINE HYDROCHLORIDE"
+    }
+  ],
+  "setid": "943638b7-527b-4724-a6b7-2018862396d4",
+  "source": "dailymed"
+}
