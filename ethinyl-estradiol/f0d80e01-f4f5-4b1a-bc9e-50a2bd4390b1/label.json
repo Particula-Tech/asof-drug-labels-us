@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA021187"
+  ],
+  "inn": "ethinyl-estradiol",
+  "labeler": "Prasco Laboratories",
+  "package_ndcs": [
+    "66993-605-36",
+    "66993-605-81"
+  ],
+  "products": [
+    {
+      "form": "INSERT, EXTENDED RELEASE",
+      "generic": "etonogestrel and ethinyl estradiol",
+      "name": "Etonogestrel/Ethinyl Estradiol"
+    }
+  ],
+  "setid": "f0d80e01-f4f5-4b1a-bc9e-50a2bd4390b1",
+  "source": "dailymed"
+}
