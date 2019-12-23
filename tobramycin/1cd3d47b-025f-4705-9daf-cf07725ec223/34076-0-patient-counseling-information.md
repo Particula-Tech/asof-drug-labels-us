@@ -37,12 +37,20 @@ Inform patients of adverse reactions associated with aminoglycosides such as nep
 
 Inform patients of the need to monitor hearing, serum concentrations of tobramycin, or renal function as necessary during treatment with BETHKIS.
 
-## 17.5 Pregnancy
+## 17.5 Embryo-Fetal Toxicity
 
 Inform patients that aminoglycosides can cause fetal harm when administered to a pregnant woman.
 Advise them to inform their doctor if they are pregnant, become pregnant, or plan to become pregnant.
 
-## 17.6 Storage Instructions
+## 17.6 Administration
+
+Patients should be informed about what to do in the event they miss a dose of BETHKIS:
+
+- In case a dose of BETHKIS is missed and there are at least 6 hours until the next dose, patients should be instructed to take the prescribed dose of BETHKIS as soon as possible.
+  Otherwise, the missed dose should not be taken and the patient should resume the usual dosing schedule.
+- Patients should be advised to contact their healthcare provider if they have questions.
+
+## 17.7 Storage Instructions
 
 You should store BETHKIS ampules in a refrigerator (36-46 °F or 2-8 °C).
 However, when you don’t have a refrigerator available (e.g., transporting your BETHKIS), you may store the foil pouches (opened or unopened) at room temperature (up to 77 °F/25 °C) for up to 28 days.
@@ -54,16 +62,20 @@ Unrefrigerated BETHKIS, which is normally colorless to pale yellow, may darken w
 You should not use BETHKIS if it is cloudy, if there are particles in the solution, or if it has been stored at room temperature for more than 28 days.
 You should not use BETHKIS beyond the expiration date stamped on the ampule.
 
-## 17.7 Additional Information
-
 Nebulizers and Compressors: 1-800-327-8632
 
 BETHKIS: 1-888-661-9260
 
-Rx Only U.S. Patent 6,987,094.
+U.S. Patent 6,987,094.
 
-Manufactured for Chiesi USA, Inc. by Catalent Pharma Solutions, LLC Woodstock, Illinois 60098
+Manufactured for Chiesi USA, Inc.
 
-© Chiesi USA, Inc. 2018 Printed in USA
+by Catalent Pharma Solutions, LLC
 
-CTB-004-0416-04B-SPL-2
+Woodstock, Illinois 60098
+
+© Chiesi USA, Inc. 2019
+
+Printed in USA
+
+CTB-004-1018-05-SPL

@@ -58,6 +58,6 @@ Skin and subcutaneous tissue disorders: Hypersensitivity, pruritus, urticaria, r
 
 Nervous system disorders: Aphonia, dysgeusia
 
-Respiratory, thoracic, and mediastinal disorders: Bronchospasm [see Warnings and Precautions (5.4)], oropharyngeal pain
+Respiratory, thoracic, and mediastinal disorders:Bronchospasm [see Warnings and Precautions (5.4)], oropharyngeal pain
 
 Metabolism and Nutrition Disorders: Decreased appetite

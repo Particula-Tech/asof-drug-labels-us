@@ -4,7 +4,7 @@
 
 Concurrent and/or sequential use of BETHKIS with other drugs with neurotoxic, nephrotoxic, or ototoxic potential should be avoided.
 
-## 7.2 Ethacrynic Acid, Furosemide, Urea, or Mannitol
+## 7.2 Diuretics
 
 Some diuretics can enhance aminoglycoside toxicity by altering antibiotic concentrations in serum and tissue.
 Therefore, BETHKIS should not be administered concomitantly with ethacrynic acid, furosemide, urea, or intravenous mannitol.

@@ -2,23 +2,48 @@
 
 ## 8.1 Pregnancy
 
-Teratogenic Effects-Pregnancy Category D
+### Risk Summary
+
+Aminoglycosides can cause fetal harm.
+Published literature reports that use of streptomycin, an aminoglycoside, can cause total, irreversible, bilateral congenital deafness when administered to a pregnant woman [Warnings and Precautions (5.6)].
+Although there are no available data on use of BETHKIS in pregnant women to be able to inform a drug-associated risk of major birth defects, miscarriage, or adverse maternal or fetal outcomes, systemic absorption of tobramycin following inhaled administration is expected to be minimal [see Clinical Pharmacology (12.3)].
+There are risks to the mother associated with cystic fibrosis in pregnancy (see Clinical Considerations).
+In animal reproduction studies with subcutaneous administration of tobramycin in pregnant rats and rabbits during organogenesis there were no adverse developmental outcomes; however, ototoxicity was not evaluated in the offspring from these studies (see Data).
+Advise pregnant women of the potential risk to a fetus.
+
+The estimated background risk of major birth defects and miscarriage for the indicated populations are unknown.
+All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively.
+
+### Clinical Considerations
+
+Disease-Associated Maternal and/or Embryo/Fetal Risk
+
+Cystic fibrosis may increase the risk for preterm delivery.
+
+### Data
+
+Animal Data
 
 No reproduction toxicology studies have been conducted with inhaled tobramycin.
-However, subcutaneous administration of tobramycin at doses of 100 mg or 20 mg/kg/day during organogenesis was not teratogenic in rats or rabbits, respectively.
-Subcutaneous doses of tobramycin ≥ 40mg/kg/day were severely maternally toxic to rabbits and precluded the evaluation of teratogenicity.
-Aminoglycosides can cause fetal harm (e.g., congenital deafness) when administered to a pregnant woman.
-Ototoxicity was not evaluated in offspring during nonclinical reproduction toxicity studies with tobramycin.
-If tobramycin is used during pregnancy, or if the patient becomes pregnant while taking tobramycin, the patient should be apprised of the potential hazard to the fetus.
+However, subcutaneous administration of tobramycin at doses of up to 100 (rat) or 20 (rabbit) mg/kg/day during organogenesis was not associated with adverse developmental outcomes.
+Subcutaneous doses of tobramycin ≥ 40mg/kg/day were severely maternally toxic to rabbits and precluded the evaluation of adverse developmental outcomes.
+Ototoxicity was not evaluated in offspring during nonclinical reproductive toxicity studies with tobramycin.
 
-## 8.2 Labor and Delivery
+## 8.2 Lactation
 
-The safety and efficacy of BETHKIS have not been studied in the puerperal patient.
+### Risk Summary
 
-## 8.3 Nursing Mothers
+There are no data on the presence of tobramycin in either human or animal milk, the effects on the breastfed infant, or the effects on milk production following oral inhalation of BETHKIS.
+Limited published data on other formulations of tobramycin in lactating women indicate that tobramycin is present in human milk.
+However, systemic absorption of tobramycin following inhaled administration is expected to be minimal [see Clinical Pharmacology (12.3)].
+Tobramycin may cause alteration in the intestinal flora of the breastfeeding infant (see Clinical Considerations).
+The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for BETHKIS and any potential adverse effects on the breastfed child from BETHKIS or from the underlying maternal condition.
 
-It is not known if tobramycin will reach sufficient concentrations after administration by inhalation to be excreted in human breast milk.
-Because of the potential for ototoxicity and nephrotoxicity in infants, a decision should be made whether to terminate nursing or discontinue tobramycin therapy, taking into account the importance of the drug to the mother.
+### Clinical Considerations
+
+Tobramycin may cause intestinal flora alteration.
+Advise a woman to monitor the breastfed infant for loose or bloody stools and candidiasis (thrush, diaper rash).
 
 ## 8.4 Pediatric Use
 
