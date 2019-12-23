@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA201532"
+  ],
+  "inn": "eribulin",
+  "labeler": "BSP Pharmaceuticals SpA",
+  "package_ndcs": [
+    "43624-002-01"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "eribulin mesylate",
+      "name": "Halaven"
+    }
+  ],
+  "setid": "8fc8fe1d-59fe-4e43-a95c-e7aa13422cd6",
+  "source": "dailymed"
+}
