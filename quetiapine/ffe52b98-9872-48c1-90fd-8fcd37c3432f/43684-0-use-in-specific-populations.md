@@ -2,47 +2,77 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Category C:
+Pregnancy Exposure Registry
+
+There is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to atypical antipsychotics, including quetiapine, during pregnancy.
+Healthcare providers are encouraged to register patients by contacting the National Pregnancy Registry for Atypical Antipsychotics at 1-866-961-2388 or online at http://womensmentalhealth.org/clinical-and-research-programs/pregnancyregistry/.
 
 Risk Summary
 
-There are no adequate and well-controlled studies of quetiapine use in pregnant women.
-In limited published literature, there were no major malformations associated with quetiapine exposure during pregnancy.
-In animal studies, embryo-fetal toxicity occurred.
-Quetiapine should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
+Neonates exposed to antipsychotic drugs (including quetiapine) during the third trimester are at risk for extrapyramidal and/or withdrawal symptoms following delivery (see Clinical Considerations).
+Overall available data from published epidemiologic studies of pregnant women exposed to quetiapine have not established a drug-associated risk of major birth defects, miscarriage, or adverse maternal or fetal outcomes (see Data).
+There are risks to the mother associated with untreated schizophrenia, bipolar I, or major depressive disorder, and with exposure to antipsychotics, including quetiapine, during pregnancy (see Clinical Considerations).
+
+In animal studies, embryo-fetal toxicity occurred including delays in skeletal ossification at approximately 1 and 2 times the maximum recommended human dose (MRHD) of 800 mg/day in both rats and rabbits, and an increased incidence of carpal/tarsal flexure (minor soft tissue anomaly) in rabbit fetuses at approximately 2 times the MRHD.
+In addition, fetal weights were decreased in both species.
+Maternal toxicity (observed as decreased body weights and/or death) occurred at 2 times the MRHD in rats and approximately 1-2 times the MRHD in rabbits.
+The estimated background risk of major birth defects and miscarriage for the indicated populations is unkown.
+All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively.
+
+Clinical Considerations
+
+Disease-associated maternal and/or fetal risk
+
+There is a risk to the mother from untreated schizophrenia, or bipolar I disorder, including increased risk of relapse, hospitalization, and suicide.
+Schizophrenia and bipolar I disorder are associated with increased adverse perinatal outcomes, including preterm birth.
+It is not known if this is a direct result of the illness or other comorbid factors.
+
+A prospective, longitudinal study followed 201 pregnant women with a history of major depressive disorder who were euthymic and taking antidepressants at the beginning of pregnancy.
+The women who discontinued antidepressants during pregnancy were more likely to experience a relapse of major depression than women who continued antidepressants.
+Consider the risk of untreated depression when discontinuing or changing treatment with antidepressant medication during pregnancy and postpartum.
+
+Fetal/neonatal adverse reactions
+
+Extrapyramidal and/or withdrawal symptoms, including agitation, hypertonia, hypotonia, tremor, somnolence, respiratory distress, and feeding disorder have been reported in neonates who were exposed to antipsychotic drugs, including quetiapine, during the third trimester of pregnancy.
+These symptoms varied in severity.
+Monitor neonates for extrapyramidal and/or withdrawal symptoms and manage symptoms appropriately.
+Some neonates recovered within hours or days without specific treatment; others required prolonged hospitalization.
+
+Data
 
 Human Data
 
-There are limited published data on the use of quetiapine for treatment of schizophrenia and other psychiatric disorders during pregnancy.
-In a prospective observational study, 21 women exposed to quetiapine and other psychoactive medications during pregnancy delivered infants with no major malformations.
-Among 42 other infants born to pregnant women who used quetiapine during pregnancy, there were no major malformations reported (one study of 36 women, 6 case reports).
-Due to the limited number of exposed pregnancies, these postmarketing data do not reliably estimate the frequency or absence of adverse outcomes.
-Neonates exposed to antipsychotic drugs (including quetiapine), during the third trimester of pregnancy are at risk for extrapyramidal and/or withdrawal symptoms following delivery.
-There have been reports of agitation, hypertonia, hypotonia, tremor, somnolence, respiratory distress and feeding disorder in these neonates.
-These complications have varied in severity; while in some cases symptoms have been self-limited, in other cases neonates have required intensive care unit support and prolonged hospitalization.
+Published data from observational studies, birth registries, and case reports on the use of atypical antipsychotics during pregnancy do not report a clear association with antipsychotics and major birth defects.
+A retrospective cohort study from a Medicaid database of 9258 women exposed to antipsychotics during pregnancy did not indicate an overall increased risk of major birth defects.
 
 Animal Data
 
-When pregnant rats and rabbits were exposed to quetiapine during organogenesis, there was no teratogenic effect at doses up to 2.4 times the maximum recommended human dose (MRHD) for schizophrenia of 800 mg/day based on mg/m2 body surface area.
-However, there was evidence of embryo-fetal toxicity, which included delays in skeletal ossification occurring at approximately 1 and 2 times the MRHD of 800 mg/day in both rats and rabbits, and an increased incidence of carpal/tarsal flexure (minor soft tissue anomaly) in rabbit fetuses at approximately 2 times the MRHD.
+When pregnant rats and rabbits were exposed to quetiapine during organogenesis, there was no teratogenic effect in fetuses.
+Doses were 25, 50 and 200 mg/kg in rats and 25, 50 and 100 mg/kg in rabbits which are approximately 0.3, 0.6 and 2-times (rats) and 0.6, 1 and 2-times (rabbits) the MRHD for schizophrenia of 800 mg/day based on mg/m2 body surface area.
+However, there was evidence of embryo-fetal toxicity including delays in skeletal ossification at approximately 1 and 2 times the MRHD of 800 mg/day in both rats and rabbits, and an increased incidence of carpal/tarsal flexure (minor soft tissue anomaly) in rabbit fetuses at approximately 2 times the MRHD.
 In addition, fetal weights were decreased in both species.
 Maternal toxicity (observed as decreased body weights and/or death) occurred at 2 times the MRHD in rats and approximately 1 to 2 times the MRHD (all doses tested) in rabbits.
 
-In a peri/postnatal reproductive study in rats, no drug-related effects were observed when pregnant dams were treated with quetiapine at doses 0.01, 0.12, and 0.24 times the MRHD of 800 mg/day based on mg/m2 body surface area.
+In a peri/postnatal reproductive study in rats, no drug-related effects were observed when pregnant dams were treated with quetiapine at doses 0.01, 0.1, and 0.2 times the MRHD of 800 mg/day based on mg/m2 body surface area.
 However, in a preliminary peri/postnatal study, there were increases in fetal and pup death, and decreases in mean litter weight at 3 times the MRHD.
 
-## 8.2 Labor and Delivery
+## 8.2 Lactation
 
-The effect of quetiapine on labor and delivery in humans is unknown.
+Risk Summary
 
-## 8.3 Nursing Mothers
+Limited data from published literature report the presence of quetiapine in human breast milk at relative infant dose of <1% of the maternal weight-adjusted dosage.
+There are no consistent adverse events that have been reported in infants exposed to quetiapine through breast milk.
+There is no information on the effects of quetiapine on milk production.
+The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for quetiapine and any potential adverse effects on the breastfed child from quetiapine or from the mother’s underlying condition.
 
-Quetiapine was excreted into human milk.
-Because of the potential for serious adverse reactions in nursing infants from quetiapine, a decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother’s health.
+## 8.3 Females and Males of Reproductive Potential
 
-In published case reports, the level of quetiapine in breast milk ranged from undetectable to 170 mcg/L.
-The estimated infant dose ranged from 0.09% to 0.43% of the weight-adjusted maternal dose.
-Based on a limited number (N=8) of mother/infant pairs, calculated infant daily doses range from less than 0.01 mg/kg (at a maternal daily dose up to 100 mg quetiapine) to 0.1 mg/kg (at a maternal daily dose of 400 mg).
+Infertility
+
+Females
+
+Based on the pharmacologic action of quetiapine (D2 antagonism), treatment with quetiapine may result in an increase in serum prolactin levels, which may lead to a reversible reduction in fertility in females of reproductive potential [see Warnings and Precautions (5.15)].
 
 ## 8.4 Pediatric Use
 
@@ -63,7 +93,7 @@ The safety and effectiveness of quetiapine in the maintenance treatment of schiz
 
 Bipolar Mania
 
-The efficacy and safety of quetiapine in the treatment of mania in children and adolescents ages 10 to 17 years with Bipolar I disorder was demonstrated in a 3-week, double-blind, placebo controlled, multicenter trial [see Indications and Usage (1.2), Dosage and Administration (2.3), Adverse Reactions (6.1), and Clinical Studies (14.2)].
+The efficacy and safety of quetiapine in the treatment of mania in children and adolescents ages 10 to 17 years with bipolar I disorder was demonstrated in a 3-week, double-blind, placebo controlled, multicenter trial [see Indications and Usage (1.2), Dosage and Administration (2.3), Adverse Reactions (6.1), and Clinical Studies (14.2)].
 
 Safety and effectiveness of quetiapine in pediatric patients less than 10 years of age with bipolar mania have not been established.
 

@@ -1,12 +1,6 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-See FDA-approved patient labeling (Medication Guide)
-
-Prescribers or other health professionals should inform patients, their families, and their caregivers about the benefits and risks associated with treatment with quetiapine tablets and should counsel them in its appropriate use.
-A patient Medication Guide about “Antidepressant Medicines, Depression and other Serious Mental Illness, and Suicidal Thoughts or Actions” is available for quetiapine tablets.
-The prescriber or health professional should instruct patients, their families, and their caregivers to read the Medication Guide and should assist them in understanding its contents.
-Patients should be given the opportunity to discuss the contents of the Medication Guide and to obtain answers to any questions they may have.
-The complete text of the Medication Guide is reprinted at the end of this document.
+Advise the patient to read the FDA-approved patient labeling (Medication Guide).
 
 Patients should be advised of the following issues and asked to alert their prescriber if these occur while taking quetiapine tablets.
 
@@ -58,8 +52,7 @@ Patients should be advised to talk to their doctor as soon as possible if they h
 Interference with Cognitive and Motor Performance
 
 Patients should be advised of the risk of somnolence or sedation (which may lead to falls), especially during the period of initial dose titration.
-Patients should be cautioned about performing any activity requiring mental alertness, such as operating a motor vehicle (including automobiles) or operating machinery, until they are reasonably certain quetiapine therapy does not affect them adversely.
-[see Warnings and Precautions (5.16)].
+Patients should be cautioned about performing any activity requiring mental alertness, such as operating a motor vehicle (including automobiles) or operating machinery, until they are reasonably certain quetiapine therapy does not affect them adversely [see Warnings and Precautions (5.16)].
 
 Heat Exposure and Dehydration
 
@@ -67,13 +60,18 @@ Patients should be advised regarding appropriate care in avoiding overheating an
 
 Concomitant Medication
 
-As with other medications, patients should be advised to notify their physicians if they are taking, or plan to take, any prescription or over-the-counter drugs.
-[see Drug Interactions (7.1)].
+As with other medications, patients should be advised to notify their physicians if they are taking, or plan to take, any prescription or over-the-counter drugs [see Drug Interactions (7.1)].
 
-Pregnancy and Nursing
+Pregnancy
 
-Patients should be advised to notify their physician if they become pregnant or intend to become pregnant during therapy with quetiapine tablets.
-[see Use in Specific Populations (8.1) and (8.3)].
+Advise pregnant women to notify their healthcare provider if they become pregnant or intend to become pregnant during treatment with quetiapine tablets.
+Advise patients that quetiapine tablets may cause extrapyramidal and/or withdrawal symptoms (agitation, hypertonia, hypotonia, tremor, somnolence, respiratory distress, and feeding disorder) in a neonate.
+Advise patients that there is a pregnancy registry that monitors pregnancy outcomes in women exposed to quetiapine tablets during pregnancy [see Use in Specific Populations (8.1)].
+
+Infertility
+
+Advise females of reproductive potential that quetiapine tablets may impair fertility due to an increase in serum prolactin levels.
+The effects on fertility are reversible [see Use in Specific Populations (8.3)].
 
 Need for Comprehensive Treatment Program
 
