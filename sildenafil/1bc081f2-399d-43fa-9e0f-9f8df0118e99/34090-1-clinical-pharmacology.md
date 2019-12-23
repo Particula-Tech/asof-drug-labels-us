@@ -19,18 +19,18 @@ The inhibition of PDE-5 in these tissues by sildenafil may be the basis for the 
 
 Effects of Sildenafil Citrate on Hemodynamic Measures
 
-Patients on all sildenafil citrate doses achieved a statistically significant reduction in mean pulmonary arterial pressure (mPAP) compared to those on placebo in a study with no background vasodilators [Study 1 in Clinical Studies (14)].
+Patients on all sildenafil citrate doses achieved a statistically significant reduction in mean pulmonary arterial pressure (mPAP) compared to those on placebo in a study with no background vasodilators [Study 1inClinical Studies (14)].
 Data on other hemodynamic measures for the sildenafil tablets 20 mg three times a day and placebo dosing regimens is displayed in Table 3.
 The relationship between these effects and improvements in 6-minute walk distance is unknown.
 
 Table 3.
 Changes from Baseline in Hemodynamic Parameters at Week 12 [mean (95% CI)] for the Sildenafil Tablets 20 mg Three Times a Day and Placebo Group
 
-|  | Placebo (n = 65)* | Sildenafil Tablets 20 mg three times a day (n = 65)* |
+|  | Placebo (n = 65) * | Sildenafil Tablets 20 mg three times a day (n = 65) * |
 | --- | --- | --- |
 | mPAP (mmHg) | 0.6 (-0.8, 2.0) | -2.1 (-4.3, 0.0) |
-| PVR (dyn.s/cm5) | 49 (-54, 153) | -122 (-217, -27) |
-| SVR (dyn.s/cm5) | -78 (-197, 41) | -167 (-307, -26) |
+| PVR (dyn.s/cm 5) | 49 (-54, 153) | -122 (-217, -27) |
+| SVR (dyn.s/cm 5) | -78 (-197, 41) | -167 (-307, -26) |
 | RAP (mmHg) | 0.3 (-0.9, 1.5) | -0.8 (-1.9, 0.3) |
 | CO (L/min) | -0.1 (-0.4, 0.2) | 0.4 (0.1, 0.7) |
 | HR (beats/min) | -1.3 (-4.1, 1.4) | -3.7 (-5.9, -1.4) |
@@ -67,7 +67,7 @@ Absorption and Distribution
 
 Sildenafil citrate is rapidly absorbed after oral administration, with a mean absolute bioavailability of 41% (25 to 63%).
 Maximum observed plasma concentrations are reached within 30 to 120 minutes (median 60 minutes) of oral dosing in the fasted state.
-When sildenafil citrate is taken with a high-fat meal, the rate of absorption is reduced, with a mean delay in Tmax of 60 minutes and a mean reduction in Cmax of 29%.
+When sildenafil citrate is taken with a high-fat meal, the rate of absorption is reduced, with a mean delay in T max of 60 minutes and a mean reduction in C max of 29%.
 The mean steady state volume of distribution (Vss) for sildenafil is 105 L, indicating distribution into the tissues.
 Sildenafil and its major circulating N-desmethyl metabolite are both approximately 96% bound to plasma proteins.
 Protein binding is independent of total drug concentrations.
@@ -92,7 +92,7 @@ The dataset available for the population pharmacokinetic evaluation contained a 
 None of these factors had a significant impact on sildenafil pharmacokinetics in patients with PAH.
 
 In patients with PAH, the average steady-state concentrations were 20 to 50% higher when compared to those of healthy volunteers.
-There was also a doubling of Cmin levels compared to healthy volunteers.
+There was also a doubling of C min levels compared to healthy volunteers.
 Both findings suggest a lower clearance and/or a higher oral bioavailability of sildenafil in patients with PAH compared to healthy volunteers.
 
 Geriatric Patients
@@ -103,12 +103,12 @@ Due to age-differences in plasma protein binding, the corresponding increase in 
 Renal Impairment
 
 In volunteers with mild (CLcr = 50 to 80 mL/min) and moderate (CLcr = 30 to 49 mL/min) renal impairment, the pharmacokinetics of a single oral dose of sildenafil (50 mg) was not altered.
-In volunteers with severe (CLcr less than 30 mL/min) renal impairment, sildenafil clearance was reduced, resulting in approximately doubling of AUC and Cmax compared to age-matched volunteers with no renal impairment.
-In addition, N-desmethyl metabolite AUC and Cmax values were significantly increased 200 % and 79 %, respectively, in subjects with severe renal impairment compared to subjects with normal renal function.
+In volunteers with severe (CLcr less than 30 mL/min) renal impairment, sildenafil clearance was reduced, resulting in approximately doubling of AUC and C max compared to age-matched volunteers with no renal impairment.
+In addition, N-desmethyl metabolite AUC and C max values were significantly increased 200 % and 79 %, respectively, in subjects with severe renal impairment compared to subjects with normal renal function.
 
 Hepatic Impairment
 
-In volunteers with mild to moderate hepatic cirrhosis (Child-Pugh class A and B), sildenafil clearance was reduced, resulting in increases in AUC (84%) and Cmax (47%) compared to age-matched volunteers with no hepatic impairment.
+In volunteers with mild to moderate hepatic cirrhosis (Child-Pugh class A and B), sildenafil clearance was reduced, resulting in increases in AUC (84%) and C max (47%) compared to age-matched volunteers with no hepatic impairment.
 Patients with severe hepatic impairment (Child-Pugh class C) have not been studied.
 
 Drug Interaction Studies
@@ -118,7 +118,7 @@ In vitro studies
 Sildenafil metabolism is principally mediated by the CYP3A (major route) and CYP2C9 (minor route) cytochrome P450 isoforms.
 Therefore, inhibitors of these isoenzymes may reduce sildenafil clearance and inducers of these isoenzymes may increase sildenafil clearance.
 
-Sildenafil is a weak inhibitor of the cytochrome P450 isoforms 1A2, 2C9, 2C19, 2D6, 2E1 and 3A (IC50 greater than150 µM).
+Sildenafil is a weak inhibitor of the cytochrome P450 isoforms 1A2, 2C9, 2C19, 2D6, 2E1 and 3A (IC 50 greater than150 µM).
 
 Sildenafil is not expected to affect the pharmacokinetics of compounds which are substrates of these CYP enzymes at clinically relevant concentrations.
 

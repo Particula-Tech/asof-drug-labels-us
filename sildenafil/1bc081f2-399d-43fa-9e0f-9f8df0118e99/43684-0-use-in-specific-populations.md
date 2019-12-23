@@ -5,8 +5,8 @@
 Pregnancy Category B
 
 There are no adequate and well-controlled studies of sildenafil in pregnant women.
-No evidence of teratogenicity, embryotoxicity, or fetotoxicity was observed in pregnant rats or rabbits dosed with sildenafil 200 mg/kg/day during organogenesis, a level that is, on a mg/m2 basis, 32- and 68-times, respectively, the recommended human dose (RHD) of 20 mg three times a day.
-In a rat pre- and postnatal development study, the no-observed-adverse-effect dose was 30 mg/kg/day (equivalent to 5-times the RHD on a mg/m2 basis).
+No evidence of teratogenicity, embryotoxicity, or fetotoxicity was observed in pregnant rats or rabbits dosed with sildenafil 200 mg/kg/day during organogenesis, a level that is, on a mg/m 2 basis, 32- and 68-times, respectively, the recommended human dose (RHD) of 20 mg three times a day.
+In a rat pre- and postnatal development study, the no-observed-adverse-effect dose was 30 mg/kg/day (equivalent to 5-times the RHD on a mg/m 2 basis).
 
 ## 8.2 Labor and Delivery
 

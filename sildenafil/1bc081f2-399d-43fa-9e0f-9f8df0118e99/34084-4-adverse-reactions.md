@@ -2,12 +2,12 @@
 
 The following serious adverse events are discussed elsewhere in the labeling:
 
-- Mortality with pediatric use[see Warnings and Precautions (5.1) and Use in Specific Populations (8.4)]
+- Mortality with pediatric use [see Warnings and Precautions (5.1) and Use in Specific Populations (8.4)]
 - Hypotension [see Warnings and Precautions (5.2)]
 - Vision loss [see Warnings and Precautions (5.5)]
 - Hearing loss [see Warnings and Precautions (5.6)]
 - Priapism [see Warnings and Precautions (5.8)]
-- Vaso-occlusive crisis [see Warnings and Precautions (5.9)]
+- Vaso-occlusive crisis [seeWarnings and Precautions (5.9)]
 
 ## 6.1 Clinical Trials Experience
 

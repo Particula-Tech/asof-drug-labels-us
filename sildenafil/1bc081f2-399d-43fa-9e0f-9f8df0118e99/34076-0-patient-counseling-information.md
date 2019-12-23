@@ -61,7 +61,7 @@ Your heart has to work hard to pump blood into your lungs.
 Sildenafil tablets improve the ability to exercise and can slow down worsening changes in your physical condition.
 
 - Sildenafil tablets are not for use in children
-- Adding sildenafil tablets to another medication used to treat PAH, bosentan (Tracleer®) does not result in improvement in your ability to exercise.
+- Adding sildenafil tablets to another medication used to treat PAH, bosentan (Tracleer ®) does not result in improvement in your ability to exercise.
 
 Sildenafil tablet contains the same medicine as sildenafil citrate tablets, 25 mg, 50 mg and 100 mg, which are used to treat erectile dysfunction (impotence).
 Do not take sildenafil tablets, 20 mg with sildenafil citrate tablets, 25 mg, 50 mg and 100 mg or other PDE-5 inhibitors.
@@ -71,13 +71,13 @@ Who should not take sildenafil tablet?
 Do not take sildenafil tablets if you:
 
 - take nitrate medicines.
-  See "What is the most important information I should know about sildenafil tablets?
+  See " What is the most important information I should know about sildenafil tablets?
   "
 - take guanylate cyclase stimulator medicines.
-  See "What is the most important information I should know about sildenafil tablets?
+  See " What is the most important information I should know about sildenafil tablets?
   "
 - are allergic to sildenafil or any other ingredient in sildenafil tablets.
-  See "What are the ingredients in sildenafil tablets?" at the end of this leaflet.
+  See " What are the ingredients in sildenafil tablets?" at the end of this leaflet.
 
 What should I tell my doctor before taking sildenafil tablets?
 
@@ -103,13 +103,13 @@ The doses of some of your medicines may need to be adjusted while you take silde
 Especially tell your doctor if you take
 
 - Nitrate medicines.
-  See "What is the most important information I should know about sildenafil tablets?
+  See " What is the most important information I should know about sildenafil tablets?
   "
 - Riociguat (Adempas).
-  See "What is the most important information I should know about sildenafil tablets?
+  See " What is the most important information I should know about sildenafil tablets?
   "
-- Ritonavir (Norvir®) or other medicines used to treat HIV infection
-- Ketoconazole (Nizoral®)
+- Ritonavir (Norvir ®) or other medicines used to treat HIV infection
+- Ketoconazole (Nizoral ®)
 - Itraconazole (Sporanox)
 - High blood pressure medicine
 
