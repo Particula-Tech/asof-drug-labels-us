@@ -5,9 +5,9 @@ Hepatotoxicity
 There have been reports of hepatic dysfunction, with or without jaundice occurring in patients receiving oral erythromycin products.
 Since erythromycin is principally excreted by the liver, monitor for liver toxicity when erythromycin is administered to patients with impaired hepatic function (See CLINICAL PHARMACOLOGY).
 
-Clostridium difficile-Associated Diarrhea
+Clostridioides difficile-Associated Diarrhea
 
-Clostridium difficile-associated diarrhea (CDAD) has been reported with the use of nearly all antibacterial agents, including erythromycin, and may range in severity from mild diarrhea to fatal colitis.
+Clostridioides difficile-associated diarrhea (CDAD) has been reported with the use of nearly all antibacterial agents, including erythromycin, and may range in severity from mild diarrhea to fatal colitis.
 Treatment with antibacterial agents alters the normal flora of the colon, leading to overgrowth of C. difficile.
 
 C. difficile produces toxins A and B, which contribute to the development of CDAD.
