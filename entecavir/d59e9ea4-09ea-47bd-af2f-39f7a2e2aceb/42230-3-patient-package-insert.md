@@ -169,16 +169,20 @@ Tablet film-coat: titanium dioxide, hypromellose, polyethylene glycol and iron o
 Pediatric use information is approved for Bristol-Myers Squibb Company's Baraclude® (entecavir) tablets.
 However, due to Bristol-Myers Squibb Company's marketing exclusivity rights, this drug product is not labeled with that information.
 
-Manufactured by: Cipla, Limited,
+Manufactured by:
+
+Cipla, Limited,
 
 Indore SEZ, Pithampur, INDIA.
 
-Manufactured for: Cipla USA, Inc.
+Manufactured for:
 
-1560 Sawgrass Corporate Parkway,
+Cipla USA, Inc.
 
-Suite 130, Sunrise, FL 33323
+10 Independence Boulevard, Suit 300,
+
+Warren, NJ 07059
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 
-Revised: 04/2019
+Revised: 12/2019

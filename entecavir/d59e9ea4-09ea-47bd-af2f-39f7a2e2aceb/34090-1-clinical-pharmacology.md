@@ -54,11 +54,11 @@ Dosage adjustment of entecavir should be based on the renal function of the pati
 Pediatrics:
 
 The steady-state pharmacokinetics of entecavir were evaluated in nucleoside-inhibitor- naïve and lamivudine-experienced HBeAg-positive pediatric subjects 2 to less than 18 years of age with compensated liver disease.
-Results are shown in Table 6.
+Results are shown in Table 7.
 Entecavir exposure among nucleoside-inhibitor-naïve subjects was similar to the exposure achieved in adults receiving once-daily doses of 0.5 mg.
 Entecavir exposure among lamivudine-experienced subjects was similar to the exposure achieved in adults receiving once-daily doses of 1 mg.
 
-Table 6: Pharmacokinetic Parameters in Pediatric Subjects
+Table 7: Pharmacokinetic Parameters in Pediatric Subjects
 
 |  | Nucleoside-Inhibitor-Naïvea n=24 | Lamivudine-Experiencedb n=19 |
 | --- | --- | --- |
@@ -69,19 +69,20 @@ Table 6: Pharmacokinetic Parameters in Pediatric Subjects
 | b Subjects received once-daily doses of 0.030 mg/kg up to a maximum of 1 mg. |  |  |
 
 Renal impairment: The pharmacokinetics of entecavir following a single 1 mg dose were studied in subjects (without chronic hepatitis B virus infection) with selected degrees of renal impairment, including subjects whose renal impairment was managed by hemodialysis or continuous ambulatory peritoneal dialysis (CAPD).
-Results are shown in Table 7 [see Dosage and Administration (2.4)].
+Results are shown in Table 8 [see Dosage and Administration (2.4)].
 
-| Table 7: | Pharmacokinetic Parameters in Subjects With Selected Degrees of Renal Function |  |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  |  | Renal Function Group |  |  |  |  |  |  |  |
-|  | Baseline Creatinine Clearance (mL/min) |  |  |  |  |  |  |  |  |
-|  | Unimpaired >80 n=6 |  | Mild >50–≤80 n=6 | Moderate 30–50 n=6 | Severe <30 n=6 | Severe Managed with Hemodialysisa n=6 |  | Severe Managed with CAPD n=4 |  |
-| Cmax (ng/mL) (CV%) | 8.1 (30.7) |  | 10.4 (37.2) | 10.5 (22.7) | 15.3 (33.8) | 15.4 (56.4) |  | 16.6 (29.7) |  |
-| AUC(0–T) (ng•h/mL) (CV) | 27.9 (25.6) |  | 51.5 (22.8) | 69.5 (22.7) | 145.7 (31.5) | 233.9 (28.4) |  | 221.8 (11.6) |  |
-| CLR (mL/min) (SD) | 383.2 (101.8) |  | 197.9 (78.1) | 135.6 (31.6) | 40.3 (10.1) | NA |  | NA |  |
-| CLT/F (mL/min) (SD) | 588.1 (153.7) |  | 309.2 (62.6) | 226.3 (60.1) | 100.6 (29.1) | 50.6 (16.5) |  | 35.7 (19.6) |  |
-| a Dosed immediately following hemodialysis. |  |  |  |  |  |  |  |  |  |
-| CLR = renal clearance; CLT/F = apparent oral clearance. |  |  |  |  |  |  |  |  |  |
+Table 8: Pharmacokinetic Parameters in Subjects with Selected Degrees of Renal Function
+
+|  | Renal Function Group |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | Baseline Creatinine Clearance (mL/min) |  |  |  |  |  |
+|  | Unimpaired >80 n=6 | Mild >50–≤80 n=6 | Moderate 30–50 n=6 | Severe <30 n=6 | Severe Managed with Hemodialysisa n=6 | Severe Managed with CAPD n=4 |
+| Cmax (ng/mL) (CV%) | 8.1 (30.7) | 10.4 (37.2) | 10.5 (22.7) | 15.3 (33.8) | 15.4 (56.4) | 16.6 (29.7) |
+| AUC(0–T) (ng•h/mL) (CV) | 27.9 (25.6) | 51.5 (22.8) | 69.5 (22.7) | 145.7 (31.5) | 233.9 (28.4) | 221.8 (11.6) |
+| CLR (mL/min) (SD) | 383.2 (101.8) | 197.9 (78.1) | 135.6 (31.6) | 40.3 (10.1) | NA | NA |
+| CLT/F (mL/min) (SD) | 588.1 (153.7) | 309.2 (62.6) | 226.3 (60.1) | 100.6 (29.1) | 50.6 (16.5) | 35.7 (19.6) |
+| a Dosed immediately following hemodialysis. |  |  |  |  |  |  |
+| CLR = renal clearance; CLT/F = apparent oral clearance. |  |  |  |  |  |  |
 
 Following a single 1 mg dose of entecavir administered 2 hours before the hemodialysis session, hemodialysis removed approximately 13% of the entecavir dose over 4 hours.
 CAPD removed approximately 0.3% of the dose over 7 days [see Dosage and Administration (2.4)].

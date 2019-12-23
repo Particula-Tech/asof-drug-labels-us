@@ -21,8 +21,6 @@ The recommended dose of entecavir tablets for chronic hepatitis B virus infectio
 Table 1 describes the recommended dose of entecavir tablets for pediatric patients 2 years of age or older and weighing at least 10 kg.
 The oral solution should be used for patients with body weight up to 30 kg.
 
-Table 1: Dosing Schedule for Pediatric Patients
-
 | Table 1: Dosing Schedule for Pediatric Patients |  |  |
 | --- | --- | --- |
 |  | Recommended Once-Daily Dose of Oral Solution (mL) |  |
@@ -36,7 +34,7 @@ Table 1: Dosing Schedule for Pediatric Patients
 | greater than 26 to 30 | 9 | 18 |
 | greater than 30 | 10 | 20 |
 | a Children with body weight greater than 30 kg should receive 10 mL (0.5 mg) of oral solution or one 0.5 mg tablet once daily. |  |  |
-| b Children with body weight greater than 30 kg should receive 20 mL (1 mg) of oral solution or one 1 mg tablet once daily |  |  |
+| b Children with body weight greater than 30 kg should receive 20 mL (1 mg) of oral solution or one 1 mg tablet once daily. |  |  |
 
 ## 2.4 Renal Impairment
 
@@ -44,14 +42,15 @@ In adult subjects with renal impairment, the apparent oral clearance of entecavi
 Dosage adjustment is recommended for patients with creatinine clearance less than 50 mL/min, including patients on hemodialysis or continuous ambulatory peritoneal dialysis (CAPD), as shown in Table 2.
 The once-daily dosing regimens are preferred.
 
-| Table 2: | Recommended Dosage of Entecavir Tablets in Adult Patients with Renal Impairment |  |
-| --- | --- | --- |
+Table 2: Recommended Dosage of Entecavir Tablets in Adult Patients with Renal Impairment
+
 | Creatinine Clearance (mL/min) | Usual Dose (0.5mg) | Lamivudine-Refractory or Decompensated Liver Disease (1mg) |
+| --- | --- | --- |
 | 50 or greater | 0.5mg once daily | 1mg once daily |
 | 30 to less than 50 | 0.25 mg once dailya OR 0.5mg every 48 hours | 0.5mg once daily OR 1mg every 48 hours |
 | 10 to less than 30 | 0.15 mg once dailya OR 0.5mg every 72 hours | 0.3 mg once dailya OR 1mg every 72 hours |
 | Less than 10 Hemodialysis a or CAPD | 0.05 mg once dailya OR 0.5mg every 7 days | 0.1 mg once dailya OR 1mg every 7 days |
-| a For doses less than 0.5 mg, entecavir oral solution is recommended |  |  |
+| a For doses less than 0.5 mg, entecavir oral solution is recommended. |  |  |
 | b If administered on a hemodialysis day, administer entecavir tablet after the hemodialysis session. |  |  |
 
 Although there are insufficient data to recommend a specific dose adjustment of entecavir tablets in pediatric patients with renal impairment, a reduction in the dose or an increase in the dosing interval similar to adjustments for adults should be considered.

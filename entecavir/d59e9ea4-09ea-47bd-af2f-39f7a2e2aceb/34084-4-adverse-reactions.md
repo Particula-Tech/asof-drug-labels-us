@@ -23,10 +23,11 @@ One percent of entecavir -treated subjects in these four studies compared with 4
 
 Clinical adverse reactions of moderate-severe intensity and considered at least possibly related to treatment occurring during therapy in four clinical studies in which entecavir was compared with lamivudine are presented in Table 3.
 
-| Table 3: | Clinical Adverse Reactions a of Mode rate Severe Intensity (Grades 2-4) Reported in Entecavir Clinical Trials Through 2 Years |  |  |  |
+Table 3: Clinical Adverse Reactions a of Mode rate Severe Intensity (Grades 2-4) Reported in Entecavir Clinical Trials Through 2 Years
+
+| Body System/ Adverse Reaction | Nucleoside- Inhibitor-Naïve b |  | Lamivudine-Refractory c |  |
 | --- | --- | --- | --- | --- |
-|  | Nucleoside- Inhibitor-Naïve b |  | Lamivudine-Refractory c |  |
-| Body System/ Adverse Reaction | Entecavir 0.5mg n= 679 | Lamivudine 100mg n= 668 | Entecavir 1mg n= 183 | Lamivudine 100mg n= 190 |
+| Entecavir 0.5mg n= 679 | Lamivudine 100mg n= 668 | Entecavir 1mg n= 183 | Lamivudine 100mg n= 190 |  |
 | Any Grade 2-4 adverse reaction a | 15% | 18% | 22% | 23% |
 | Gastrointestinal |  |  |  |  |
 | Diarrhea | <1% | 0 | 1% | 0 |
@@ -49,10 +50,11 @@ Laboratory Abnormalities
 
 Frequencies of selected treatment-emergent laboratory abnormalities reported during therapy in four clinical trials of entecavir compared with lamivudine are listed in Table 4.
 
-| Table 4: | Selected Treatment-Emergent a Laboratory Abnormalities Reported in Four Entecavir Clinical Trials Through 2 Years |  |  |  |
+Table 4: Selected Treatment-Emergent a Laboratory Abnormalities Reported in Four Entecavir Clinical Trials Through 2 Years
+
+| Test | Nucleoside- Inhibitor-Naïveb |  | Lamivudine- Refractoryc |  |
 | --- | --- | --- | --- | --- |
-|  | Nucleoside- Inhibitor-Naïveb |  | Lamivudine- Refractoryc |  |
-| Test | Entecavir 0.5mg n= 679 | Lamivudine 100mg n= 668 | Entecavir 1mg n= 183 | Lamivudine 100mg n= 190 |
+| Entecavir 0.5mg n= 679 | Lamivudine 100mg n= 668 | Entecavir 1mg n= 183 | Lamivudine 100mg n= 190 |  |
 | Any Grade 3-4 laboratory abnormalityd | 35% | 36% | 37% | 45% |
 | ALT>10 x ULN and >2 x baseline | 2% | 4% | 2% | 11% |
 | ALT>5 x ULN | 11% | 16% | 12% | 24% |
@@ -85,15 +87,16 @@ In these studies, a subset of subjects was allowed to discontinue treatment at o
 If entecavir is discontinued without regard to treatment response, the rate of post-treatment flares could be higher.
 [See Warnings and Precautions (5.1)].
 
-| Table 5: | Exacerbations of Hepatitis During Subjects in Studies AI463022, |  | Off-Treatment Follow-up, AI463027, and AI463026 |
-| --- | --- | --- | --- |
-|  | Subjects with ALT Elevations >10 | x ULN and >2 x Referencea |  |
-|  | Entecavir | Lamivudine |  |
-| Nucleoside-inhibitor-naïve |  |  |  |
-| HBeAg-positive | 4/174 (2%) | 13/147 (9%) |  |
-| HBeAg-negative | 24/302 (8%) | 30/270 (11%) |  |
-| Lamivudine-refractory | 6/52 (12%) | 0/16 |  |
-| a Reference is the minimum of the baseline or last measurement at end of dosing. Median time to off-treatment exacerbation was 23 weeks for entecavir -treated subjects and 10 weeks for lamivudine-treated subjects. |  |  |  |
+Table 5: Exacerbations of Hepatitis During Off-Treatment Follow-up,Subjects in Studies AI463022, AI463027, and AI463026
+
+|  | Subjects with ALT Elevations >10 | x ULN and >2 x Referencea |
+| --- | --- | --- |
+|  | Entecavir | Lamivudine |
+| Nucleoside-inhibitor-naïve |  |  |
+| HBeAg-positive | 4/174 (2%) | 13/147 (9%) |
+| HBeAg-negative | 24/302 (8%) | 30/270 (11%) |
+| Lamivudine-refractory | 6/52 (12%) | 0/16 |
+| a Reference is the minimum of the baseline or last measurement at end of dosing. Median time to off-treatment exacerbation was 23 weeks for entecavir -treated subjects and 10 weeks for lamivudine-treated subjects. |  |  |
 
 Decompensated Liver Disease
 
@@ -119,12 +122,41 @@ Among 65 subjects receiving entecavir in an open-label, post-liver transplant tr
 
 Clinical Trial Experience in Pediatric Subjects
 
-The safety of entecavir in pediatric subjects 2 to less than 18 years of age is based on two ongoing clinical trials in subjects with chronic HBV infection (one Phase 2 pharmacokinetic trial [AI463028] and one Phase 3 trial [AI463189]).
-These trials provide experience in 168 HBeAg-positive subjects treated with entecavir for a median duration of 72 weeks.
+The safety of entecavir in pediatric subjects 2 to less than 18 years of age is based on two clinical trials in subjects with chronic HBV infection (one Phase 2 pharmacokinetic trial [AI463028] and one Phase 3 trial [AI463189]).
+These trials provided experience in 168 HBeAg-positive subjects treated with entecavir for a median duration of 72 weeks.
 The adverse reactions observed in pediatric subjects who received treatment with entecavir were consistent with those observed in clinical trials of entecavir in adults.
 Adverse drug reactions reported in greater than 1% of pediatric subjects included abdominal pain, rash events, poor palatability ("product taste abnormal"), nausea, diarrhea, and vomiting.
 
 ## 6.3 Postmarketing Experience
+
+Data from Long-Term Observational Study
+
+Study AI463080 was a randomized, global, observational, open-label Phase 4 study to assess long-term risks and benefits of entecavir (0.5 mg/day or 1 mg/day) treatment as compared to other standard-of-care HBV nucleos(t)ide analogues in subjects with chronic HBV infection.
+
+A total of 12,378 patients were treated with entecavir (n=6,216) or other HBV nucleos(t)ide treatment [non-entecavir (ETV)] (n=6,162).
+Patients were evaluated at baseline and subsequently every 6 months for up to 10 years.
+The principal clinical outcome events assessed during the study were overall malignant neoplasms, liver-related HBV disease progression, HCC, non-HCC malignant neoplasms, and death.
+The study showed that entecavir was not significantly associated with an increased risk of malignant neoplasms compared to other standard-of-care HBV nucleos(t)ides, as assessed by either the composite endpoint of overall malignant neoplasms or the individual endpoint of non-HCC malignant neoplasms.
+The most commonly reported malignancy in both the entecavir and non-ETV groups was HCC followed by gastrointestinal malignancies.
+The data also showed that long-term entecavir use was not associated with a lower occurrence of HBV disease progression or a lower rate of death overall compared to other HBV nucleos(t)ides.
+The principal clinical outcome event assessments are shown in Table 6.
+
+Table 6: Principal Analyses of Time to Adjudicated Events – Randomized Treated Subjects
+
+| Endpointc | Number of Subjects with Events |  |  |
+| --- | --- | --- | --- |
+| Entec avir N=6,2 16 | Non- ETV N=6,16 2 | Hazard Ratio [Entecavir: Non-ETV] (CIa) |  |
+| Primary Endpoints Overall malignant neoplasm Liver-related HBV disease progression Death Secondary Endpoints Non-HCC malignant neoplasm HCC | 331 350 238 95 240b | 337 375 264 81 263 | 0.93 (0.800, 1.084) 0.89 (0.769, 1.030) 0.85 (0.713, 1.012) 1.10 (0.817, 1.478) 0.87 (0.727, 1.032) |
+| Analyses were stratified by geographic region and prior HBV nucleos(t)ide experience. |  |  |  |
+| a 95.03% CI for overall malignant neoplasm, death, and liver-related HBV disease progression; 95% CI for non-HCC malignant neoplasm and HCC. |  |  |  |
+| b One subject had a pre-treatment HCC event and was excluded from the analysis. |  |  |  |
+| c Overall malignant neoplasm is a composite event of HCC or non-HCC malignant neoplasm. Liver-related HBV disease progression is a composite event of liver-related death, HCC, or non-HCC HBV disease progression. |  |  |  |
+| CI = confidence interval; N = total number of subjects. |  |  |  |
+
+Limitations of the study included population changes over the long-term follow-up period and more frequent post-randomization treatment changes in the non-ETV group.
+In addition, the study was underpowered to demonstrate a difference in the non-HCC malignancy rate because of the lower than expected background rate.
+
+Adverse Reactions from Postmarketing Spontaneous Reports
 
 The following adverse reactions have been reported during postmarketing use of entecavir.
 Because these reactions were reported voluntarily from a population of unknown size, it is not possible to reliably estimate their frequency or establish a causal relationship to entecavir exposure.

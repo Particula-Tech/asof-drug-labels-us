@@ -31,7 +31,7 @@ There were no signs of embryofetal toxicity when pregnant animals received oral 
 In a pre/postnatal development study, entecavir was administered orally to pregnant rats at 0.3, 3, and 30 mg per kg per day from gestation day 6 to lactation/post-partum day 20.
 No adverse effects on the offspring occurred at up to the highest dose evaluated, resulting in exposures (AUC) greater than 94 times those in humans at the MRHD.
 
-## 8.6 Lactation
+## 8.2 Lactation
 
 Risk Summary
 
@@ -62,7 +62,7 @@ Clinical studies of entecavir did not include sufficient numbers of subjects age
 Entecavir is substantially excreted by the kidney, and the risk of toxic reactions to this drug may be greater in patients with impaired renal function.
 Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection, and it may be useful to monitor renal function [see Dosage and Administration (2.4)].
 
-## 8.7 Racial/Ethnic Groups
+## 8.6 Racial/Ethnic Groups
 
 There are no significant racial differences in entecavir pharmacokinetics.
 The safety and efficacy of entecavir 0.5 mg once daily were assessed in a single-arm, open-label trial of HBeAg-positive or -negative, nucleoside-inhibitor-naïve, Black/African American (n=40) and Hispanic (n=6) subjects with chronic HBV infection.
@@ -72,17 +72,17 @@ Safety data were similar to those observed in the larger controlled clinical tri
 
 Because of low enrollment, safety and efficacy have not been established in the US Hispanic population.
 
-## 8.8 Renal Impairment
+## 8.7 Renal Impairment
 
 Dosage adjustment of entecavir is recommended for patients with creatinine clearance less than 50 mL/min, including patients on hemodialysis or CAPD [see Dosage and Administration (2.4) and Clinical Pharmacology (12.3)].
 
-## 8.9 Liver Transplant Recipients
+## 8.8 Liver Transplant Recipients
 
 The safety and efficacy of entecavir were assessed in a single-arm, open-label trial in 65 subjects who received a liver transplant for complications of chronic HBV infection.
 Eligible subjects who had HBV DNA less than 172 IU/mL (approximately 1000 copies/mL) at the time of transplant were treated with entecavir 1 mg once daily in addition to usual post-transplantation management, including hepatitis B immune globulin.
 The trial population was 82% male, 39% Caucasian, and 37% Asian, with a mean age of 49 years; 89% of subjects had HBeAg-negative disease at the time of transplant.
 
-Four of the 65 subjects received 4 weeks or less of entecavir (2 deaths, 1 retransplantation, and 1 protocol violation) and were not considered evaluable.
+Four of the 65 subjects received 4 weeks or less of entecavir (2 deaths, 1 re-transplantation, and 1 protocol violation) and were not considered evaluable.
 Of the 61 subjects who received more than 4 weeks of entecavir, 60 received hepatitis B immune globulin post-transplant.
 Fifty-three subjects (82% of all 65 subjects treated) completed the trial and had HBV DNA measurements at or after 72 weeks treatment post-transplant.
 All 53 subjects had HBV DNA <50 IU/mL (approximately 300 copies/mL).

@@ -9,5 +9,5 @@ Entecavir tablets, USP are available in the following strengths and configuratio
 
 Storage
 
-Entecavir tablets, USP should be stored in a tightly closed container at 25° C (77° F); excursions permitted between 15–30° C (59–86° F) [see USP Controlled Room Temperature].
+Entecavir tablets, USP should be stored in a tightly closed container at 25° C (77° F); excursions permitted between 15°C–30°C (59°F–86°F) [see USP Controlled Room Temperature].
 Protect from light.

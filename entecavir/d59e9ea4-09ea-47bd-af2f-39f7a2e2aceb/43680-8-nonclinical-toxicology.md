@@ -6,6 +6,7 @@ Carcinogenesis
 
 Long-term oral carcinogenicity studies of entecavir in mice and rats were carried out at exposures up to approximately 42 times (mice) and 35 times (rats) those observed in humans at the highest recommended dose of 1 mg/day.
 In mouse and rat studies, entecavir was positive for carcinogenic findings.
+It is not known how predictive the results of rodent carcinogenicity studies may be for humans [see Adverse Reactions (6.2)].
 
 In mice, lung adenomas were increased in males and females at exposures 3 and 40 times those in humans.
 Lung carcinomas in both male and female mice were increased at exposures 40 times those in humans.
@@ -16,8 +17,6 @@ Vascular tumors in female mice (hemangiomas of ovaries and uterus and hemangiosa
 In rats, hepatocellular adenomas were increased in females at exposures 24 times those in humans; combined adenomas and carcinomas were also increased in females at exposures 24 times those in humans.
 Brain gliomas were induced in both males and females at exposures 35 and 24 times those in humans.
 Skin fibromas were induced in females at exposures 4 times those in humans.
-
-It is not known how predictive the results of rodent carcinogenicity studies may be for humans.
 
 Mutagenesis
 

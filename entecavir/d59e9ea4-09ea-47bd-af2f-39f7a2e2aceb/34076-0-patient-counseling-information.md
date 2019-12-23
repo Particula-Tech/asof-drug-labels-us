@@ -42,10 +42,10 @@ Manufactured for:
 
 Cipla USA, Inc.
 
-1560 Sawgrass Corporate Parkway,
+10 Independence Boulevard, Suit 300,
 
-Suite 130, Sunrise, FL 33323
+Warren, NJ 07059
 
 Disclaimer: Other brands listed are the registered trademarks of their respective owners and are not of Cipla Ltd.
 
-Revised: 04/2019
+Revised: 12/2019
