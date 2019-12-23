@@ -20,6 +20,11 @@ Inform the patient that PML is characterized by a progression of deficits and us
 Instruct the patient of the importance of contacting their doctor if they develop any symptoms suggestive of PML.
 Inform the patient that typical symptoms associated with PML are diverse, progress over days to weeks, and include progressive weakness on one side of the body or clumsiness of limbs, disturbance of vision, and changes in thinking, memory, and orientation leading to confusion and personality changes [see Warnings and Precautions (5.2)].
 
+Herpes Zoster and Other Serious Opportunistic Infections
+
+Inform patients that herpes zoster and other serious opportunistic infections have occurred in patients who received TECFIDERA.
+Instruct the patient of the importance of contacting their doctor if they develop any signs or symptoms associated with herpes zoster or other serious opportunistic infections [see Warnings and Precautions (5.3)].
+
 Lymphocyte Counts
 
 Inform patients that TECFIDERA may decrease lymphocyte counts.
@@ -44,7 +49,7 @@ Instruct patients that if they are pregnant or plan to become pregnant while tak
 
 Encourage patients to enroll in the TECFIDERA Pregnancy Registry if they become pregnant while taking TECFIDERA [see Use in Specific Populations (8.1)].
 
-41347-10
+41347-11
 
 Manufactured for: Biogen Inc. Cambridge, MA 02142
 

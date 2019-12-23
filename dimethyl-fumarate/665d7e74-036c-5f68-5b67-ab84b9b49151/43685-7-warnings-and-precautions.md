@@ -11,12 +11,12 @@ Patients should be instructed to discontinue TECFIDERA and seek immediate medica
 Progressive multifocal leukoencephalopathy (PML) has occurred in patients with MS treated with TECFIDERA.
 PML is an opportunistic viral infection of the brain caused by the JC virus (JCV) that typically only occurs in patients who are immunocompromised, and that usually leads to death or severe disability.
 A fatal case of PML occurred in a patient who received TECFIDERA for 4 years while enrolled in a clinical trial.
-During the clinical trial, the patient experienced prolonged lymphopenia (lymphocyte counts predominantly <0.5x109/L for 3.5 years) while taking TECFIDERA [see Warnings and Precautions (5.3)].
+During the clinical trial, the patient experienced prolonged lymphopenia (lymphocyte counts predominantly <0.5x109/L for 3.5 years) while taking TECFIDERA [see Warnings and Precautions (5.4)].
 The patient had no other identified systemic medical conditions resulting in compromised immune system function and had not previously been treated with natalizumab, which has a known association with PML.
 The patient was also not taking any immunosuppressive or immunomodulatory medications concomitantly.
 
-PML has also occurred in the postmarketing setting in the presence of lymphopenia (<0.8x109/L) persisting for more than 6 months.
-While the role of lymphopenia in these cases is uncertain, the majority of cases occurred in patients with lymphocyte counts <0.5x 109/L.
+PML has also occurred in the postmarketing setting in the presence of lymphopenia (<0.9x109/L).
+While the role of lymphopenia in these cases is uncertain, the PML cases have occurred predominantly in patients with lymphocyte counts <0.8x109/L persisting for more than 6 months.
 
 At the first sign or symptom suggestive of PML, withhold TECFIDERA and perform an appropriate diagnostic evaluation.
 Typical symptoms associated with PML are diverse, progress over days to weeks, and include progressive weakness on one side of the body or clumsiness of limbs, disturbance of vision, and changes in thinking, memory, and orientation leading to confusion and personality changes.
@@ -28,7 +28,21 @@ Therefore, monitoring with MRI for signs that may be consistent with PML may be 
 Lower PML-related mortality and morbidity have been reported following discontinuation of another MS medication associated with PML in patients with PML who were initially asymptomatic compared to patients with PML who had characteristic clinical signs and symptoms at diagnosis.
 It is not known whether these differences are due to early detection and discontinuation of MS treatment or due to differences in disease in these patients.
 
-## 5.3 Lymphopenia
+## 5.3 Herpes Zoster and Other Serious Opportunistic Infections
+
+Serious cases of herpes zoster have occurred with TECFIDERA, including disseminated herpes zoster, herpes zoster ophthalmicus, herpes zoster meningoencephalitis, and herpes zoster meningomyelitis.
+These events may occur at any time during treatment.
+Monitor patients on TECFIDERA for signs and symptoms of herpes zoster.
+If herpes zoster occurs, appropriate treatment for herpes zoster should be administered.
+
+Other serious opportunistic infections have occurred with TECFIDERA, including cases of serious viral (herpes simplex virus, West Nile virus, cytomegalovirus), fungal (Candida and Aspergillus), and bacterial (Nocardia, Listeria monocytogenes, Mycobacterium tuberculosis) infections.
+These infections have been reported in patients with reduced absolute lymphocyte counts (ALC) as well as in patients with normal ALC.
+These infections have affected the brain, meninges, spinal cord, gastrointestinal tract, lungs, skin, eye, and ear.
+Patients with symptoms and signs consistent with any of these infections should undergo prompt diagnostic evaluation and receive appropriate treatment.
+
+Consider withholding TECFIDERA treatment in patients with herpes zoster or other serious infections until the infection has resolved [see Adverse Reactions (6.2)].
+
+## 5.4 Lymphopenia
 
 TECFIDERA may decrease lymphocyte counts.
 In the MS placebo controlled trials, mean lymphocyte counts decreased by approximately 30% during the first year of treatment with TECFIDERA and then remained stable.
@@ -46,7 +60,7 @@ Given the potential for delayed recovery of lymphocyte counts, continue to obtai
 Consider withholding treatment from patients with serious infections until resolution.
 Decisions about whether or not to restart TECFIDERA should be individualized based on clinical circumstances.
 
-## 5.4 Liver Injury
+## 5.5 Liver Injury
 
 Clinically significant cases of liver injury have been reported in patients treated with TECFIDERA in the postmarketing setting.
 The onset has ranged from a few days to several months after initiation of treatment with TECFIDERA.
@@ -61,7 +75,7 @@ Elevations of hepatic transaminases (most no greater than 3 times the upper limi
 Obtain serum aminotransferase, alkaline phosphatase (ALP), and total bilirubin levels prior to treatment with TECFIDERA and during treatment, as clinically indicated.
 Discontinue TECFIDERA if clinically significant liver injury induced by TECFIDERA is suspected.
 
-## 5.5 Flushing
+## 5.6 Flushing
 
 TECFIDERA may cause flushing (e.g., warmth, redness, itching, and/or burning sensation).
 In clinical trials, 40% of TECFIDERA treated patients experienced flushing.

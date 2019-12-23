@@ -4,9 +4,10 @@ The following important adverse reactions are described elsewhere in labeling:
 
 - Anaphylaxis and Angioedema [see Warnings and Precautions (5.1)].
 - Progressive multifocal leukoencephalopathy [see Warnings and Precautions (5.2)].
-- Lymphopenia [see Warnings and Precautions (5.3)].
-- Liver Injury [see Warnings and Precautions (5.4)].
-- Flushing [see Warnings and Precautions (5.5)].
+- Herpes Zoster and Other Serious Opportunistic Infections [see Warnings and Precautions (5.3)].
+- Lymphopenia [see Warnings and Precautions (5.4)].
+- Liver Injury [see Warnings and Precautions (5.5)].
+- Flushing [see Warnings and Precautions (5.6)].
 
 ## 6.1 Clinical Trials Experience
 
@@ -66,4 +67,6 @@ The adverse reaction profile of TECFIDERA in the uncontrolled clinical studies w
 The following adverse reaction has been identified during post approval use of TECFIDERA.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Liver function abnormalities (elevations in transaminases ≥ 3 times ULN with concomitant elevations in total bilirubin > 2 times ULN) have been reported following TECFIDERA administration in post marketing experience [See Warnings and Precautions (5.4)].
+Liver function abnormalities (elevations in transaminases ≥ 3 times ULN with concomitant elevations in total bilirubin > 2 times ULN) have been reported following TECFIDERA administration in post marketing experience [See Warnings and Precautions (5.5)].
+
+Herpes zoster infection and other serious opportunistic infections have has been reported with TECFIDERA administration in postmarketing experience [See Warnings and Precautions (5.3)].

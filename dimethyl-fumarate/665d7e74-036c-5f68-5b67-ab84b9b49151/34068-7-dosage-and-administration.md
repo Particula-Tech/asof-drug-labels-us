@@ -16,6 +16,6 @@ TECFIDERA can be taken with or without food.
 
 ## 2.2 Blood Tests Prior to Initiation of Therapy
 
-Obtain a complete blood cell count (CBC) including lymphocyte count before initiation of therapy [see Warnings and Precautions (5.3)].
+Obtain a complete blood cell count (CBC) including lymphocyte count before initiation of therapy [see Warnings and Precautions (5.4)].
 
-Obtain serum aminotransferase, alkaline phosphatase, and total bilirubin levels prior to treatment with TECFIDERA [see Warnings and Precautions (5.4)].
+Obtain serum aminotransferase, alkaline phosphatase, and total bilirubin levels prior to treatment with TECFIDERA [see Warnings and Precautions (5.5)].
