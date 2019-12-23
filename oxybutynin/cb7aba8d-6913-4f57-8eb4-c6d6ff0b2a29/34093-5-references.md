@@ -13,7 +13,9 @@
    Drugs & Aging.
    1995; 6(3): 243-262.
 
-TEVA PHARMACEUTICALS USA, INC. North Wales, PA 19454
+Manufactured In Bulgaria By: Balkanpharma Dupnitsa AD Dupnitsa 2600, Bulgaria
+
+Manufactured For: Teva Pharmaceuticals USA, Inc. North Wales, PA 19454
 
 Rev.
 D 9/2015
