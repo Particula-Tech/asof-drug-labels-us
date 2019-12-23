@@ -69,10 +69,12 @@ Good patient management should be exercised at all times to minimize the potenti
    The container should not be removed from the aseptic area during the entire 8 hour period.
 4. The temperature of the container should not exceed 37°C, after the closure has been entered.
 
-Distributed by GE Healthcare Inc., Marlborough, MA 01752 U.S.A. Manufactured by GE Healthcare (Shanghai) Co., Ltd. Shanghai, China Product of Norwegian Origin.
+Distributed by GE Healthcare Inc.,
+
+Marlborough, MA 01752 U.S.A. Product of Norwegian Origin.
 
 Omnipaque is a trademark of GE Healthcare or one of its subsidiaries.
 GE and the GE Monogram are trademarks of General Electric Company.
 
-© 2017 General Electric Company - All rights reserved.
-ONC-4L-CHI Revised April 2017
+© 2019 General Electric Company - All rights reserved.
+Revised July 2019

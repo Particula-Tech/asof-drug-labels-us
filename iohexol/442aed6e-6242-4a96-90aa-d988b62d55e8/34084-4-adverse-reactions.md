@@ -44,7 +44,7 @@ In addition, malaise, weakness, convulsion, EEG changes, meningism, hyperreflexi
 
 Profound mental disturbances have also been reported.
 They consisted of various forms and degrees of aphasia, mental confusion, or disorientation.
-The onset is usually at 8 to 10 hou rs and lasts for about 24 hours, without aftereffects.
+The onset is usually at 8 to 10 hours and lasts for about 24 hours, without aftereffects.
 Apprehension, agitation, or progressive withdrawal in several instances to the point of somnolence, stupor, and coma have been reported, as well as transitory hearing loss or other auditory symptoms and visual disturbances, including unilateral or bilateral loss of vision which may last for hours.
 In one case, persistent cortical loss of vision has been reported in association with convulsions.
 Ventricular block has been reported; amnesia of varying degrees may be present for the reaction event.
