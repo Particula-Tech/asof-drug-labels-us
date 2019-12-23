@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA022036"
+  ],
+  "inn": "doxepin",
+  "labeler": "Currax Pharmaceuticals LLC dba Cypress, Hawthorn, Macoven",
+  "package_ndcs": [
+    "44183-103-30",
+    "44183-106-30"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "doxepin hydrochloride",
+      "name": "doxepin hydrochloride"
+    }
+  ],
+  "setid": "5b4dba99-6b66-4091-94f1-bf5f021c688a",
+  "source": "dailymed"
+}
