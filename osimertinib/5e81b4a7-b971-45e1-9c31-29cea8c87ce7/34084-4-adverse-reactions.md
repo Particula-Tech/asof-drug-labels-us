@@ -10,6 +10,8 @@ Cardiomyopathy [see Warnings and Precautions (5.3)]
 
 Keratitis [see Warnings and Precautions (5.4)]
 
+Erythema multiforme and Stevens-Johnson syndrome [see Warnings and Precautions (5.5)]
+
 ## 6.1 Clinical Trials Experience
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
@@ -35,7 +37,7 @@ Tables 2 and 3 summarize common adverse reactions and laboratory abnormalities w
 FLAURA was not designed to demonstrate a statistically significant reduction in adverse reaction rates for TAGRISSO, or for the control arm, for any adverse reaction listed in Tables 2 and 3.
 
 Table 2.
-Adverse Reactions Occurring in ≥10% of Patients Receiving TAGRISSO in FLAURAa
+Adverse Reactions Occurring in ≥10% of Patients Receiving TAGRISSO in FLAURANCI CTCAE v4.0
 
 | Adverse Reaction | TAGRISSO(N=279) |  | EGFR TKI comparator(gefitinib or erlotinib)(N=277) |  |
 | --- | --- | --- | --- | --- |
@@ -49,7 +51,7 @@ Adverse Reactions Occurring in ≥10% of Patients Receiving TAGRISSO in FLAURAa
 | Skin Disorders |  |  |  |  |
 | RashIncludes rash, rash generalized, rash erythematous, rash macular, rash maculo-papular, rash papular, rash pustular, rash pruritic, rash vesicular, rash follicular, erythema, folliculitis, acne, dermatitis, dermatitis acneiform, drug eruption, skin erosion. | 58 | 1.1 | 78 | 6.9 |
 | Dry skinIncludes dry skin, skin fissures, xerosis, eczema, xeroderma. | 36 | 0.4 | 36 | 1.1 |
-| Nail toxicityIncludes nail bed disorder, nail bed inflammation, nail bed infection, nail discoloration, nail pigmentation, nail disorder, nail toxicity, nail dystrophy, nail infection, nail ridging, onychoclasis, onycholysis, onychomadesis, onychomalacia, paronychia. | 35 | 0.4 | 33 | 0.7 |
+| Nail toxicityIncludes nail bed disorder, nail bed inflammation, nail bed infection, nail discoloration, nail pigmentation, nail disorder, nail toxicity, nail dystrophy, nail infection, nail ridging, onychalgia, onychoclasis, onycholysis, onychomadesis, onychomalacia, paronychia. | 35 | 0.4 | 33 | 0.7 |
 | PruritusIncludes pruritus, pruritus generalized, eyelid pruritus. | 17 | 0.4 | 17 | 0 |
 | Metabolism and Nutrition Disorders |  |  |  |  |
 | Decreased appetite | 20 | 2.5 | 19 | 1.8 |
@@ -65,7 +67,6 @@ Adverse Reactions Occurring in ≥10% of Patients Receiving TAGRISSO in FLAURAa
 | Pyrexia | 10 | 0 | 4 | 0.4 |
 | Infection and Infestation Disorders |  |  |  |  |
 | Upper Respiratory Tract Infection | 10 | 0 | 7 | 0 |
-| aNCI CTCAE v4.0 |  |  |  |  |
 
 Table 3.
 Laboratory Abnormalities Worsening from Baseline in ≥ 20% of Patients in FLAURA
@@ -110,11 +111,11 @@ Tables 4 and 5 summarize common adverse reactions and laboratory abnormalities w
 AURA3 was not designed to demonstrate a statistically significant reduction in adverse reaction rates for TAGRISSO, or for the control arm, for any adverse reaction listed in Tables 4 and 5.
 
 Table 4.
-Adverse Reactions Occurring in ≥10% of Patients Receiving TAGRISSO in AURA3a
+Adverse Reactions Occurring in ≥10% of Patients Receiving TAGRISSO in AURA3NCI CTCAE v4.0.
 
 | Adverse Reaction | TAGRISSO(N=279) |  |  | Chemotherapy(Pemetrexed/Cisplatin orPemetrexed/Carboplatin)(N=136) |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| All GradesNo grade 4 events were reported.(%) |  | Grade 3/4(%) | All Grade(%) |  | Grade 3/4(%) |  |
+| All GradesNo grade 4 events were reported.(%) |  | Grade 3/4(%) | All Grades(%) |  | Grade 3/4(%) |  |
 | Gastrointestinal Disorders |  |  |  |  |  |  |
 | Diarrhea | 41 | 1.1 |  | 11 | 1.5 |  |
 | Nausea | 16 | 0.7 |  | 49 | 3.7 |  |
@@ -134,12 +135,11 @@ Adverse Reactions Occurring in ≥10% of Patients Receiving TAGRISSO in AURA3a
 | Back pain | 10 |  | 0.4 | 9 |  | 0.7 |
 | General Disorders and Administration Site Conditions |  |  |  |  |  |  |
 | FatigueIncludes fatigue, asthenia. | 22 | 1.8 |  | 40 | 5.1 |  |
-| aNCI CTCAE v4.0. |  |  |  |  |  |  |
 
 Table 5.
 Laboratory Abnormalities Worsening from Baseline in ≥20% of Patients in AURA3
 
-| Laboratory AbnormalityNCI CTCAE v4.0Each test incidence, except for hyperglycemia, is based on the number of patients who had both baseline and at least one on-study laboratory measurement available (TAGRISSO 279, EGFR TKI comparator 131) | TAGRISSO(N=279) |  | Chemotherapy (Pemetrexed/Cisplatin or Pemetrexed/Carboplatin)(N=131) |  |  |
+| Laboratory AbnormalityNCI CTCAE v4.0Each test incidence, except for hyperglycemia, is based on the number of patients who had both baseline and at least one on-study laboratory measurement available (TAGRISSO 279, chemotherapy 131) | TAGRISSO(N=279) |  | Chemotherapy (Pemetrexed/Cisplatin or Pemetrexed/Carboplatin)(N=131) |  |  |
 | --- | --- | --- | --- | --- | --- |
 | Change from Baseline All Grades(%) | Change from Baseline to Grade 3 or Grade 4(%) | Change from BaselineAll Grades(%) |  | Change from Baseline to Grade 3 or Grade 4(%) |  |
 | Hematology |  |  |  |  |  |
@@ -153,3 +153,10 @@ Laboratory Abnormalities Worsening from Baseline in ≥20% of Patients in AURA3
 | HyperglycemiaHyperglycemia is based on the number of patients who had both baseline and at least one on-study laboratory measurement available (TAGRISSO 270, Chemotherapy 5; fasting glucose was not a protocol requirement for patients in the chemotherapy arm) | 20 | 0 |  | NA | NA |
 | Hypokalemia | 9.0 | 1.4 |  | 18 | 1.5 |
 | NA=not applicable |  |  |  |  |  |
+
+## 6.2 Postmarketing Experience
+
+The following adverse reactions have been identified during post-approval use of TAGRISSO.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+Cutaneous:Stevens-Johnson syndrome, erythema multiforme

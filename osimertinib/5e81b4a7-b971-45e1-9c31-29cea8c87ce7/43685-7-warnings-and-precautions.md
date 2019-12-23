@@ -32,7 +32,12 @@ For symptomatic congestive heart failure, permanently discontinue TAGRISSO [see 
 Keratitis was reported in 0.7% of 1142 patients treated with TAGRISSO in clinical trials.
 Promptly refer patients with signs and symptoms suggestive of keratitis (such as eye inflammation, lacrimation, light sensitivity, blurred vision, eye pain and/or red eye) to an ophthalmologist.
 
-## 5.5 Embryo-Fetal Toxicity
+## 5.5 Erythema Multiforme and Stevens-Johnson Syndrome
+
+Postmarketing cases consistent with Stevens-Johnson syndrome (SJS) and erythema multiforme major (EMM) have been reported in patients receiving TAGRISSO.
+Withhold TAGRISSO if SJS or EMM is suspected and permanently discontinue if confirmed.
+
+## 5.6 Embryo-Fetal Toxicity
 
 Based on data from animal studies and its mechanism of action, TAGRISSO can cause fetal harm when administered to a pregnant woman.
 In animal reproduction studies, osimertinib caused post-implantation fetal loss when administered during early development at a dose exposure 1.5 times the exposure at the recommended clinical dose.

@@ -36,7 +36,7 @@ Efficacy Results in FLAURA according to Investigator Assessment
 | Hazard Ratio (95% CI)Stratified by ethnicity (Asian vs. non-Asian) and mutation status (Ex19del vs. L858R)Pike estimator | 0.46 (0.37, 0.57) |  |
 | p-valueStratified log-rank test | P < 0.0001 |  |
 | Overall Response Rate (ORR)Confirmed responses |  |  |
-| ORR % (95% CI) | 77 (71, 82) | 69 (63, 74) |
+| ORR, % (95% CI) | 77 (71, 82) | 69 (63, 74) |
 | Complete response, % | 2% | 1% |
 | Partial response, % | 75% | 68% |
 | Duration of Response (DoR) |  |  |
@@ -83,7 +83,7 @@ The baseline demographic and disease characteristics of the overall trial popula
 Fifty-four percent (54%) of patients had extra-thoracic visceral metastases, including 34% with central nervous system (CNS) metastases (including 11% with measurable CNS metastases) and 23% with liver metastases.
 Forty-two percent (42%) of patients had metastatic bone disease.
 
-In AURA3, there was a statistically significant improvement in PFS in the patients randomized to TAGRISSO compared to chemotherapy (See Table 8 and Figure 2).
+In AURA3, there was a statistically significant improvement in PFS in the patients randomized to TAGRISSO compared to chemotherapy (see Table 8 and Figure 2).
 Overall survival data were not mature at the time of the PFS analysis.
 
 Table 8.
@@ -98,7 +98,7 @@ Efficacy Results According to Investigator Assessment in AURA3
 | Median PFS in months (95% CI) | 10.1 (8.3, 12.3) | 4.4 (4.2, 5.6) |
 | Hazard Ratio (95% CI)Stratified by ethnicity (Asian vs. non-Asian)Pike estimator | 0.30 (0.23,0.41) |  |
 | P-valueStratified log-rank test | <0.001 |  |
-| Overall Response RateConfirmed |  |  |
+| Overall Response Rate |  |  |
 | Overall Response Rate | 65% | 29% |
 | (95% CI) | (59%, 70%) | (21%, 37%) |
 | Complete response | 1% | 1% |
@@ -121,10 +121,10 @@ CNS ORR and DoR by BICR in Patients with Measurable CNS Lesions at Baseline in A
 
 |  | TAGRISSON=30 | ChemotherapyN=16 |
 | --- | --- | --- |
-| CNS Tumor Response AssessmentAccording to RECIST v1.1Based on confirmed response |  |  |
+| CNS Tumor Response AssessmentAccording to RECIST v1.1.Based on confirmed response. |  |  |
 | CNS ORR, % (95% CI) | 57% (37, 75) | 25% (7, 52) |
 | Complete response | 7% | 0 |
-| Duration of CNS ResponseBased on patients with response only; DoR definedas the time from the date of first documented response (complete response or partial response) until progression or death event. |  |  |
+| Duration of CNS ResponseBased on patients with response only; DoR defined as the time from the date of first documented response (complete response or partial response) until progression or death event. |  |  |
 | Number of responders | 17 | 4 |
 | Response Duration ≥ 6 months | 47% | 0 |
 | Response Duration ≥ 9 months | 12% | 0 |

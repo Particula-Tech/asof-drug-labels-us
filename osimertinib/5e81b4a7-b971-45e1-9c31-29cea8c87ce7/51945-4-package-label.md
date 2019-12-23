@@ -2,11 +2,11 @@
 
 NDC 0310-1349-30 30 Tablets
 
-Tagrisso™
+Tagrisso®
 
 osimertinib
 
-40 mg tablets
+40 mg per tablets
 
 Rx only
 
@@ -16,11 +16,11 @@ AstraZeneca
 
 NDC 0310-1350-30 30 Tablets
 
-Tagrisso™
+Tagrisso®
 
 osimertinib
 
-80 mg tablets
+80 mg per tablets
 
 Rx only
 

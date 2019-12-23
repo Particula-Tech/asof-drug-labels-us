@@ -37,11 +37,12 @@ Recommended Dosage Modifications for TAGRISSO
 
 | Target Organ | Adverse ReactionAdverse reactions graded by the National Cancer Institute Common Terminology Criteria for Adverse Events version 4.0 (NCI CTCAE v4.0). | Dosage Modification |
 | --- | --- | --- |
-| Pulmonary | Interstitial lung disease (ILD)/Pneumonitis | Permanently discontinue TAGRISSO. |
-| Cardiac | QTcQTc = QT interval corrected for heart rate interval greater than 500 msec on at least 2 separate ECGsECGs = Electrocardiograms | Withhold TAGRISSO until QTc interval is less than 481 msec or recovery to baseline if baseline QTc is greater than or equal to 481 msec, then resume at 40 mg dose. |
+| Pulmonary [see Warnings and Precautions (5.1)] | Interstitial lung disease (ILD)/Pneumonitis | Permanently discontinue TAGRISSO. |
+| Cardiac [see Warnings and Precautions (5.2, 5.3)] | QTcQTc = QT interval corrected for heart rate interval greater than 500 msec on at least 2 separate ECGsECGs = Electrocardiograms | Withhold TAGRISSO until QTc interval is less than 481 msec or recovery to baseline if baseline QTc is greater than or equal to 481 msec, then resume at 40 mg dose. |
 | QTc interval prolongation with signs/symptoms of life-threatening arrhythmia | Permanently discontinue TAGRISSO. |  |
 | Symptomatic congestive heart failure | Permanently discontinue TAGRISSO. |  |
-| Other | Adverse reaction of Grade 3 or greater severity | Withhold TAGRISSO for up to 3 weeks. |
+| Cutaneous [see Warnings and Precautions (5.5)] | Stevens-Johnson syndrome (SJS), Erythema Multiforme Major (EMM) | Withhold TAGRISSO if suspected and permanently discontinue if confirmed. |
+| Other [see Adverse Reactions (6.1)] | Adverse reaction of Grade 3 or greater severity | Withhold TAGRISSO for up to 3 weeks. |
 | If improvement to Grade 0-2 within 3 weeks | Resume at 80 mg or 40 mg daily. |  |
 | If no improvement within 3 weeks | Permanently discontinue TAGRISSO. |  |
 

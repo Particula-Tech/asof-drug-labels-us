@@ -16,7 +16,7 @@ No dose adjustments are required when TAGRISSO is used with moderate and/or weak
 Co-administering TAGRISSO with a breast cancer resistant protein (BCRP) or P-glycoprotein (P-gp) substrate increased the exposure of the substrate compared to administering it alone [see Clinical Pharmacology (12.3)].
 Increased BCRP or P-gp substrate exposure may increase the risk of exposure-related toxicity.
 
-Monitor for adverse reactions of the BCRP or P-gp substrate, unless otherwise instructed in its approved labeling, when coadministered with TAGRISSO.
+Monitor for adverse reactions of the BCRP or P-gp substrate, unless otherwise instructed in its approved labeling, when co-administered with TAGRISSO.
 
 ## 7.3 Drugs That Prolong the QTc Interval
 
