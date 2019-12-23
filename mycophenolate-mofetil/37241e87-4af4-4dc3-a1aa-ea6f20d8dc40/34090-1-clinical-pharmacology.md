@@ -24,11 +24,10 @@ In 12 healthy volunteers, the mean absolute bioavailability of oral MMF relative
 Two 500 mg CELLCEPT tablets have been shown to be bioequivalent to four 250 mg CELLCEPT capsules.
 Five mL of the 200 mg/mL constituted CELLCEPT oral suspension have been shown to be bioequivalent to four 250 mg capsules.
 
-The mean (± SD) pharmacokinetic parameters estimates for MPA following the administration of MMF given as single doses to healthy volunteers, and multiple doses to kidney, heart, and liver transplant patients are shown in Table 8.
-The area under the plasma-concentration time curve (AUC) for MPA appears to increase in a dose-proportional fashion in kidney transplant patients receiving multiple oral doses of MMF up to a daily dose of 3 g (1.5 g twice daily) (see Table 8).
+The mean (±SD) pharmacokinetic parameters estimates for MPA following the administration of MMF given as single doses to healthy volunteers, and multiple doses to kidney, heart, and liver transplant patients, are shown in Table 8.
+The area under the plasma-concentration time curve (AUC) for MPA appears to increase in a dose-proportional fashion in kidney transplant patients receiving multiple oral doses of MMF up to a daily dose of 3 g (1.5g twice daily) (see Table 8).
 
-Table 8.
-Pharmacokinetic Parameters for MPA [mean (±SD)] Following Administration of MMF to Healthy Volunteers (Single Dose), and Kidney, Heart, and Liver Transplant Patients (Multiple Doses)
+Table 8 Pharmacokinetic Parameters for MPA [mean (±SD)] Following Administration of MMF to Healthy Volunteers (Single Dose), and Kidney, Heart, and Liver Transplant Patients (Multiple Doses)
 
 | Healthy Volunteers | Dose/Route | Tmax (h) | Cmax (mcg/mL) | Total AUC (mcg∙h/mL) |
 | --- | --- | --- | --- | --- |
@@ -65,7 +64,7 @@ At clinically relevant concentrations, MPA is 97% bound to plasma albumin.
 The phenolic glucuronide metabolite of MPA (MPAG) is 82% bound to plasma albumin at MPAG concentration ranges that are normally seen in stable kidney transplant patients; however, at higher MPAG concentrations (observed in patients with kidney impairment or delayed kidney graft function), the binding of MPA may be reduced as a result of competition between MPAG and MPA for protein binding.
 Mean blood to plasma ratio of radioactivity concentrations was approximately 0.6 indicating that MPA and MPAG do not extensively distribute into the cellular fractions of blood.
 
-In vitro studies to evaluate the effect of other agents on the binding of MPA to human serum albumin (HSA) or plasma proteins showed that salicylate (at 25 mg/dL with human serum albumin) and MPAG (at ≥460 mcg/mL with plasma proteins) increased the free fraction of MPA.
+In vitro studies to evaluate the effect of other agents on the binding of MPA to human serum albumin (HSA) or plasma proteins showed that salicylate (at 25 mg/dL with human serum albumin) and MPAG (at ≥ 460 mcg/mL with plasma proteins) increased the free fraction of MPA.
 MPA at concentrations as high as 100 mcg/mL had little effect on the binding of warfarin, digoxin or propranolol, but decreased the binding of theophylline from 53% to 45% and phenytoin from 90% to 87%.
 
 Elimination
@@ -90,7 +89,7 @@ Negligible amount of drug is excreted as MPA (less than 1% of dose) in the urine
 Orally administered radiolabeled MMF resulted in complete recovery of the administered dose, with 93% of the administered dose recovered in the urine and 6% recovered in feces.
 Most (about 87%) of the administered dose is excreted in the urine as MPAG.
 At clinically encountered concentrations, MPA and MPAG are usually not removed by hemodialysis.
-However, at high MPAG plasma concentrations (>100 mcg/mL), small amounts of MPAG are removed.
+However, at high MPAG plasma concentrations (> 100 mcg/mL), small amounts of MPAG are removed.
 
 Increased plasma concentrations of MMF metabolites (MPA 50% increase and MPAG about a 3-fold to 6-fold increase) are observed in patients with renal insufficiency [see Specific Populations].
 
@@ -101,11 +100,11 @@ Patients with Renal Impairment
 The mean (±SD) pharmacokinetic parameters for MPA following the administration of oral MMF given as single doses to non-transplant subjects with renal impairment are presented in Table 9.
 
 In a single-dose study, MMF was administered as a capsule or as an intravenous infusion over 40 minutes.
-Plasma MPA AUC observed after oral dosing to volunteers with severe chronic renal impairment (GFR <25 mL/min/1.73 m2) was about 75% higher relative to that observed in healthy volunteers (GFR >80 mL/min/1.73 m2).
+Plasma MPA AUC observed after oral dosing to volunteers with severe chronic renal impairment (GFR < 25 mL/min/1.73 m2) was about 75% higher relative to that observed in healthy volunteers (GFR > 80 mL/min/1.73 m2).
 In addition, the single-dose plasma MPAG AUC was 3-fold to 6-fold higher in volunteers with severe renal impairment than in volunteers with mild renal impairment or healthy volunteers, consistent with the known renal elimination of MPAG.
 No data are available on the safety of long-term exposure to this level of MPAG.
 
-Plasma MPA AUC observed after single-dose (1 g) intravenous dosing to volunteers (n=4) with severe chronic renal impairment (GFR <25 mL/min/1.73 m2) was 62.4 mcg∙h/mL (±19.3).
+Plasma MPA AUC observed after single-dose (1 g) intravenous dosing to volunteers (n=4) with severe chronic renal impairment (GFR < 25 mL/min/1.73 m2) was 62.4 mcg∙h/mL (±19.3).
 Multiple dosing of MMF in patients with severe chronic renal impairment has not been studied.
 
 Patients with Delayed Graft Function or Nonfunction
@@ -120,7 +119,7 @@ Accumulation of MPA was about 1-fold to 2-fold.
 
 The pharmacokinetics of MMF are not altered by hemodialysis.
 Hemodialysis usually does not remove MPA or MPAG.
-At high concentrations of MPAG (>100 mcg/mL), hemodialysis removes only small amounts of MPAG.
+At high concentrations of MPAG (> 100 mcg/mL), hemodialysis removes only small amounts of MPAG.
 
 Patients with Hepatic Impairment
 
@@ -131,8 +130,7 @@ However, it should be noted that for unexplained reasons, the healthy volunteers
 In a single-dose (1 g intravenous) study of 6 volunteers with severe hepatic impairment (aminopyrine breath test less than 0.2% of dose) due to alcoholic cirrhosis, MMF was rapidly converted to MPA.
 MPA AUC was 44.1 mcg∙h/mL (±15.5).
 
-Table 9.
-Pharmacokinetic Parameters for MPA [mean (±SD)] Following Single Doses of MMF Capsules in Chronic Renal and Hepatic Impairment
+Table 9 Pharmacokinetic Parameters for MPA [mean (±SD)] Following Single Doses of MMF Capsules in Chronic Renal and Hepatic Impairment
 
 | Pharmacokinetic Parameters for Renal Impairment |  |  |  |  |
 | --- | --- | --- | --- | --- |
@@ -151,8 +149,7 @@ Pediatric Patients
 The pharmacokinetic parameters of MPA and MPAG have been evaluated in 55 pediatric patients (ranging from 1 year to 18 years of age) receiving CELLCEPT oral suspension at a dose of 600 mg/m2 twice daily (up to a maximum of 1 g twice daily) after allogeneic kidney transplantation.
 The pharmacokinetic data for MPA is provided in Table 10.
 
-Table 10.
-Mean (±SD) Computed Pharmacokinetic Parameters for MPA by Age and Time After Allogeneic Kidney Transplantation
+Table 10 Mean (±SD) Computed Pharmacokinetic Parameters for MPA by Age and Time after Allogeneic Kidney Transplantation
 
 | Age Group | (n) | Time | Tmax (h) |  | Dose Adjustedadjusted to a dose of 600 mg/m2 Cmax (mcg/mL) |  | Dose Adjusted AUC0-12 (mcg∙h/mL) |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -180,7 +177,7 @@ MPA AUC values were similar in the early and late post-transplant period across 
 Male and Female Patients
 
 Data obtained from several studies were pooled to look at any gender-related differences in the pharmacokinetics of MPA (data were adjusted to 1 g oral dose).
-Mean (±SD) MPA AUC(0-12h) for males (n=79) was 32.0 (±14.5) and for females (n=41) was 36.5 (±18.8) mcg∙h/mL while mean (±SD) MPA Cmax was 9.96 (±6.19) in the males and 10.6 (±5.64) mcg/mL in the females.
+Mean (±SD) MPA AUC (0-12h) for males (n=79) was 32.0 (±14.5) and for females (n=41) was 36.5 (±18.8) mcg∙h/mL while mean (±SD) MPA Cmax was 9.96 (±6.19) in the males and 10.6 (±5.64) mcg/mL in the females.
 These differences are not of clinical significance.
 
 Geriatric Patients
@@ -221,7 +218,7 @@ This information should be taken into consideration when MMF is used without cyc
 
 Drugs Affecting Glucuronidation
 
-Concomitant administration of drugs inhibiting glucuronidation of MPA may increase MPA exposure (e.g., increase of MPA AUC(0-∞) by 35% was observed with concomitant administration of isavuconazole).
+Concomitant administration of drugs inhibiting glucuronidation of MPA may increase MPA exposure (e.g., increase of MPA AUC (0-∞) by 35% was observed with concomitant administration of isavuconazole).
 
 Concomitant administration of telmisartan and CELLCEPT resulted in an approximately 30% decrease in MPA concentrations.
 Telmisartan changes MPA's elimination by enhancing PPAR gamma (peroxisome proliferator-activated receptor gamma) expression, which in turn results in an enhanced UGT1A9 expression and glucuronidation activity.
@@ -241,7 +238,7 @@ There was large inter-patient variability (%CV in the range of 60% to 70%) in th
 
 Sevelamer
 
-Concomitant administration of sevelamer and MMF in adult and pediatric patients decreased the mean MPA Cmax and AUC(0-12h) by 36% and 26% respectively.
+Concomitant administration of sevelamer and MMF in adult and pediatric patients decreased the mean MPA Cmax and AUC (0-12h) by 36% and 26% respectively.
 
 Antimicrobials
 

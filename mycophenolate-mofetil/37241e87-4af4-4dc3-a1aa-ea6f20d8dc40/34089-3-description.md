@@ -28,8 +28,8 @@ CELLCEPT Intravenous is the hydrochloride salt of MMF.
 The chemical name for the hydrochloride salt of MMF is 2-morpholinoethyl (E)-6-(1,3-dihydro-4-hydroxy-6-methoxy-7-methyl-3-oxo-5-isobenzofuranyl)-4-methyl-4-hexenoate hydrochloride.
 It has an empirical formula of C23H31NO7 HCl and a molecular weight of 469.96.
 
-CELLCEPT Intravenous is available as a sterile white to off-white lyophilized powder in vials containing MMF hydrochloride for administration by intravenous infusion only.
-Each vial of CELLCEPT Intravenous contains the equivalent of 500 mg MMF as the hydrochloride salt.
+CELLCEPT Intravenous is available as a sterile white to off-white lyophilized powder in single-dose vials containing MMF hydrochloride for administration by intravenous infusion only.
+Each vial contains 500 mg of mycophenolate mofetil equivalent to 542 mg of mycophenolate mofetil hydrochloride.
 The inactive ingredients are polysorbate 80, 25 mg, and citric acid, 5 mg.
-Sodium hydroxide may have been used in the manufacture of CELLCEPT Intravenous to adjust the pH.
+Sodium hydroxide or hydrochloric acid may have been used in the manufacture of CELLCEPT Intravenous to adjust the pH.
 Reconstitution and dilution with 5% Dextrose Injection USP yields a slightly yellow solution of MMF, 6 mg/mL [see Dosage and Administration (2.6)].

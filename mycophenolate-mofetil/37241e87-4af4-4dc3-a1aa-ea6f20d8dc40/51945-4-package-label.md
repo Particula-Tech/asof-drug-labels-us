@@ -17,7 +17,7 @@ For additional Medication Guides call 1-800-617-8191 or visit www.gene.com/gene/
 
 Genentech
 
-10163788
+10208963
 
 # PRINCIPAL DISPLAY PANEL - 500 mg Tablet Bottle Carton
 
@@ -38,7 +38,7 @@ For additional Medication Guides call 1-800-617-8191 or visit www.gene.com/gene/
 
 Genentech
 
-10163787
+10208961
 
 # PRINCIPAL DISPLAY PANEL - 500 mg Vial Carton
 

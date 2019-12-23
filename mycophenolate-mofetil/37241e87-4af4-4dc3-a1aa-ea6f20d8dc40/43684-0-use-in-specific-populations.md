@@ -76,8 +76,7 @@ Patients must use acceptable birth control during the entire CELLCEPT therapy, a
 
 Patients should be aware that CELLCEPT reduces blood levels of the hormones from the oral contraceptive pill and could theoretically reduce its effectiveness [see Drug Interactions (7.2)].
 
-Table 7.
-Acceptable Contraception Methods for Females of Reproductive Potential
+Table 7 Acceptable Contraception Methods For Females Of Reproductive Potential
 
 | Pick from the following birth control options: |  |  |  |
 | --- | --- | --- | --- |

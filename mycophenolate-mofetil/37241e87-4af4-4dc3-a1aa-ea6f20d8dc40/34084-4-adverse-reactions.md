@@ -34,8 +34,7 @@ Approximately 53% of the kidney transplant patients, 65% of the heart transplant
 Adverse reactions reported in ≥ 20% of patients in the CELLCEPT treatment groups are presented below.
 The safety data of three kidney transplantation studies are pooled together.
 
-Table 3.
-Adverse Reactions in Controlled Studies of De Novo Kidney, Heart or Liver Transplantation Reported in ≥20% of Patients in the CELLCEPT Group
+Table 3 Adverse Reactions in Controlled Studies of De Novo Kidney, Heart or Liver Transplantation Reported in ≥20% of Patients in the CELLCEPT Group
 
 | System Organ Class | % | % | % | % | % | % | % |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -92,8 +91,8 @@ Adverse Reactions in Controlled Studies of De Novo Kidney, Heart or Liver Transp
 | Blood urea increased | - | - | - | 36.7 | 34.3 | - | - |
 | General disorders and administration site conditions |  |  |  |  |  |  |  |
 | Asthenia | - | - | - | 49.1 | 41.2 | 35.4 | 33.8 |
-| Edema"Edema" includes peripheral edema, facial edema, scrotal edema. | 21.0 | 28.2 | 8.4 | 67.5 | 55.7 | 48.4 | 47.7 |
-| Pain"Pain" includes musculoskeletal pain (myalgia, neck pain, back pain). | 24.8 | 32.2 | 9.6 | 79.2 | 77.5 | 74.0 | 77.5 |
+| Edema "Edema" includes peripheral edema, facial edema, scrotal edema. | 21.0 | 28.2 | 8.4 | 67.5 | 55.7 | 48.4 | 47.7 |
+| Pain "Pain" includes musculoskeletal pain (myalgia, neck pain, back pain). | 24.8 | 32.2 | 9.6 | 79.2 | 77.5 | 74.0 | 77.5 |
 | Pyrexia | - | - | - | 56.4 | 53.6 | 52.3 | 56.1 |
 
 In the three de novo kidney studies, patients receiving 2 g/day of CELLCEPT had an overall better safety profile than did patients receiving 3 g/day of CELLCEPT.
@@ -104,7 +103,7 @@ Three-year safety data in kidney and heart transplant patients did not reveal an
 In pediatric patients, PTLD was observed in 1.35% (2/148) by 12 months post-transplant.
 
 Cytopenias, including leukopenia, anemia, thrombocytopenia and pancytopenia are a known risk associated with mycophenolate and may lead or contribute to the occurrence of infections and hemorrhages [see Warnings and Precautions (5.3)].
-Severe neutropenia (ANC <0.5 × 103/µL) developed in up to 2.0% of kidney transplant patients, up to 2.8% of heart transplant patients and up to 3.6% of liver transplant patients receiving CELLCEPT 3 g daily [see Warnings and Precautions (5.4) and Dosage and Administration (2.5)].
+Severe neutropenia (ANC <0.5 × 103/µL) developed in up to 2% of kidney transplant patients, up to 2.8% of heart transplant patients and up to 3.6% of liver transplant patients receiving CELLCEPT 3 g daily [see Warnings and Precautions (5.4) and Dosage and Administration (2.5)].
 
 The most common opportunistic infections in patients receiving CELLCEPT with other immunosuppressants were mucocutaneous candida, CMV viremia/syndrome, and herpes simplex.
 The proportion of patients with CMV viremia/syndrome was 13.5%.
@@ -113,12 +112,12 @@ In patients receiving CELLCEPT (2 g or 3 g) in controlled studies for prevention
 The most serious gastrointestinal disorders reported were ulceration and hemorrhage, which are known risks associated with CELLCEPT.
 Mouth, esophageal, gastric, duodenal, and intestinal ulcers often complicated by hemorrhage, as well as hematemesis, melena, and hemorrhagic forms of gastritis and colitis were commonly reported during the pivotal clinical trials, while the most common gastrointestinal disorders were diarrhea, nausea and vomiting.
 Endoscopic investigation of patients with CELLCEPT-related diarrhea revealed isolated cases of intestinal villous atrophy [see Warnings and Precautions (5.5)].
+
 The following adverse reactions were reported with 3% to <20% incidence in kidney, heart, and liver transplant patients treated with CELLCEPT, in combination with cyclosporine and corticosteroids.
 
-Table 4.
-Adverse Reactions in Controlled Studies of De Novo Kidney, Heart or Liver Transplantation Reported in 3% to <20% of Patients Treated with CELLCEPT in Combination with Cyclosporine and Corticosteroids
+Table 4 Adverse Reactions in Controlled Studies of De Novo Kidney, Heart or Liver Transplantation Reported in 3% to <20% of Patients Treated with CELLCEPT in Combination with Cyclosporine and Corticosteroids
 
-| Body System | Adverse Reactions |
+| System Organ Class | Adverse Reactions |
 | --- | --- |
 | Body as a Whole | cellulitis, chills, hernia, malaise |
 | Infections and Infestations | fungal infections |
@@ -153,7 +152,7 @@ Adverse reactions attributable to peripheral venous infusion were phlebitis and 
 The following adverse reactions have been identified during post-approval use of CELLCEPT.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure:
 
-- Embryo-Fetal Toxicity: Congenital malformations, and spontaneous abortions, mainly in the first trimester, have been reported following exposure to mycophenolate mofetil (MMF) in combination with other immunosuppressants during pregnancy [see Warnings and Precautions (5.1), and Use in Specific Populations (8.1), (8.3)].
+- Embryo-Fetal Toxicity: Congenital malformations and spontaneous abortions, mainly in the first trimester, have been reported following exposure to mycophenolate mofetil (MMF) in combination with other immunosuppressants during pregnancy [see Warnings and Precautions (5.1), and Use in Specific Populations (8.1), (8.3)].
   Congenital malformations include:
   - -Facial malformations: cleft lip, cleft palate, micrognathia, hypertelorism of the orbits
   - -Abnormalities of the ear and eye: abnormally formed or absent external/middle ear, coloboma, microphthalmos
@@ -162,7 +161,7 @@ Because these reactions are reported voluntarily from a population of uncertain 
   - -Esophageal malformations: esophageal atresia
   - -Nervous system malformations: such as spina bifida.
 - Cardiovascular: Venous thrombosis has been reported in patients treated with CELLCEPT administered intravenously.
-- Digestive: colitis, pancreatitis.
+- Digestive: Colitis, pancreatitis
 - Hematologic and Lymphatic: Bone marrow failure, cases of pure red cell aplasia (PRCA) and hypogammaglobulinemia have been reported in patients treated with CELLCEPT in combination with other immunosuppressive agents [see Warnings and Precautions (5.4)].
 - Immune: Hypersensitivity, hypogammaglobinemia.
 - Infections: Meningitis, infectious endocarditis, tuberculosis, atypical mycobacterial infection, progressive multifocal leukoencephalopathy, BK virus infection, viral reactivation of hepatitis B and hepatitis C, protozoal infections [see Warnings and Precautions (5.3)].

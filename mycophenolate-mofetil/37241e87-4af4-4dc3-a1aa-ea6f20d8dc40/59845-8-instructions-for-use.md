@@ -41,5 +41,3 @@ Keep CELLCEPT Oral Suspension and all medicines out of the reach of children.
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
 Revised: August 2018
-
-Representative sample of labeling (see the HOW SUPPLIED section for complete listing):

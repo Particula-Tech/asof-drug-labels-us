@@ -2,8 +2,7 @@
 
 ## 7.1 Effect of Other Drugs on CELLCEPT
 
-Table 5.
-Drug Interactions with CELLCEPT that Affect Mycophenolic Acid (MPA) Exposure
+Table 5 Drug Interactions with CELLCEPT that Affect Mycophenolic Acid (MPA) Exposure
 
 | Antacids with Magnesium or Aluminum Hydroxide |  |
 | --- | --- |
@@ -28,8 +27,7 @@ Drug Interactions with CELLCEPT that Affect Mycophenolic Acid (MPA) Exposure
 
 ## 7.2 Effect of CELLCEPT on Other Drugs
 
-Table 6.
-Drug Interactions with CELLCEPT that Affect Other Drugs
+Table 6 Drug Interactions with CELLCEPT that Affect Other Drugs
 
 | Drugs that Undergo Renal Tubular Secretion |  |
 | --- | --- |

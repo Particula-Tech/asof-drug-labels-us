@@ -15,8 +15,7 @@ CELLCEPT, in combination with corticosteroids and cyclosporine, reduced (statist
 Patients who prematurely discontinued treatment were followed for the occurrence of death or graft loss, and the cumulative incidence of graft loss and patient death combined are summarized in Table 12.
 Patients who prematurely discontinued treatment were not followed for the occurrence of acute rejection after termination.
 
-Table 11.
-Treatment Failure in De Novo Kidney Transplantation Studies
+Table 11 Treatment Failure in De Novo Kidney Transplantation Studies
 
 | USA Study | CELLCEPT 2 g/day | CELLCEPT 3 g/day | AZA 1 to 2 mg/kg/day |
 | --- | --- | --- | --- |
@@ -25,9 +24,8 @@ Treatment Failure in De Novo Kidney Transplantation Studies
 | All treatment failures | 31.1% | 31.3% | 47.6% |
 | Early termination without prior acute rejection | 9.6% | 12.7% | 6.0% |
 | Biopsy-proven rejection episode on treatment | 19.8% | 17.5% | 38.0% |
-| Europe/Canada/Australia Study | CELLCEPT 2 g/day | CELLCEPT 3 g/day | AZA 100 to 150 mg/day |
-| (N=503 patients) | (n=173 patients) | (n=164 patients) | (n=166 patients) |
-|  | No induction treatment administered; all 3 groups received cyclosporine and corticosteroids |  |  |
+| Europe/Canada/Australia Study (N=503 patients) | CELLCEPT 2 g/day (n=173 patients) | CELLCEPT 3 g/day (n=164 patients) | AZA 100 to 150 mg/day (n=166 patients) |
+| No induction treatment administered; all 3 groups received cyclosporine and corticosteroids. |  |  |  |
 | All treatment failures | 38.2% | 34.8% | 50.0% |
 | Early termination without prior acute rejection | 13.9% | 15.2% | 10.2% |
 | Biopsy-proven rejection episode on treatment | 19.7% | 15.9% | 35.5% |
@@ -43,8 +41,7 @@ No advantage of CELLCEPT at 12 months with respect to graft loss or patient deat
 Numerically, patients receiving CELLCEPT 2 g/day and 3 g/day experienced a better outcome than controls in all three studies; patients receiving CELLCEPT 2 g/day experienced a better outcome than CELLCEPT 3 g/day in two of the three studies.
 Patients in all treatment groups who terminated treatment early were found to have a poor outcome with respect to graft loss or patient death at 1 year.
 
-Table 12.
-De Novo Kidney Transplantation Studies Cumulative Incidence of Combined Graft Loss or Patient Death at 12 Months
+Table 12 De Novo Kidney Transplantation Studies Cumulative Incidence of Combined Graft Loss or Patient Death at 12 Months
 
 | Study | CELLCEPT 2 g/day | CELLCEPT 3 g/day | Control (AZA or Placebo) |
 | --- | --- | --- | --- |
@@ -52,7 +49,7 @@ De Novo Kidney Transplantation Studies Cumulative Incidence of Combined Graft Lo
 | Europe/Canada/Australia | 11.7% | 11.0% | 13.6% |
 | Europe | 8.5% | 10.0% | 11.5% |
 
-Pediatrics - De Novo Kidney transplantation PK Study with Long Term Follow-Up
+Pediatrics- De Novo Kidney transplantation PK Study with Long Term Follow-Up
 
 One open-label, safety and pharmacokinetic study of CELLCEPT oral suspension 600 mg/m2 twice daily (up to 1 g twice daily) in combination with cyclosporine and corticosteroids was performed at centers in the United States (9), Europe (5) and Australia (1) in 100 pediatric patients (3 months to 18 years of age) for the prevention of renal allograft rejection.
 CELLCEPT was well tolerated in pediatric patients [see Adverse Reactions (6.1)], and the pharmacokinetics profile was similar to that seen in adult patients dosed with 1 g twice daily CELLCEPT capsules [see Clinical Pharmacology (12.3)].
@@ -73,14 +70,13 @@ The analyses of the endpoints showed:
 - Rejection: No difference was established between CELLCEPT and AZA with respect to biopsy-proven rejection with hemodynamic compromise.
 - Survival: CELLCEPT was shown to be at least as effective as AZA in preventing death or re-transplantation at 1 year (see Table 13).
 
-Table 13.
-De Novo Heart Transplantation Study Rejection at 6 Months/Death or Re-transplantation at 1 Year
+Table 13 De Novo Heart Transplantation Study Rejection at 6 Months/Death or Re-transplantation at 1 Year
 
 |  | AZA N = 323 | CELLCEPT N = 327 | AZA N = 289 | CELLCEPT N = 289 |
 | --- | --- | --- | --- | --- |
 |  | All Patients (ITT) |  | Treated Patients |  |
 | Biopsy-proven rejection with hemodynamic compromise at 6 monthsHemodynamic compromise occurred if any of the following criteria were met: pulmonary capillary wedge pressure ≥20 mm or a 25% increase; cardiac index <2.0 L/min/m2 or a 25% decrease; ejection fraction ≤30%; pulmonary artery oxygen saturation ≤60% or a 25% decrease; presence of new S3 gallop; fractional shortening was ≤20% or a 25% decrease; inotropic support required to manage the clinical condition. | 121 (38%) | 120 (37%) | 100 (35%) | 92 (32%) |
-| Death or retransplantation at 1 year | 49 (15.2%) | 42 (12.8%) | 33 (11.4%) | 18 (6.2%) |
+| Death or re-transplantation at 1 year | 49 (15.2%) | 42 (12.8%) | 33 (11.4%) | 18 (6.2%) |
 
 ## 14.3 Liver Transplantation
 
@@ -93,8 +89,7 @@ Patients who prematurely discontinued treatment were followed for the occurrence
 
 In combination with corticosteroids and cyclosporine, CELLCEPT demonstrated a lower rate of acute rejection at 6 months and a similar rate of death or re-transplantation at 1 year compared to AZA (Table 14).
 
-Table 14.
-De Novo Liver Transplantation Study Rejection at 6 Months/Death or Retransplantation at 1 Year
+Table 14 De Novo Liver Transplantation Study Rejection at 6 Months/Death or Retransplantation at 1 Year
 
 |  | AZA N = 287 | CELLCEPT N = 278 |
 | --- | --- | --- |

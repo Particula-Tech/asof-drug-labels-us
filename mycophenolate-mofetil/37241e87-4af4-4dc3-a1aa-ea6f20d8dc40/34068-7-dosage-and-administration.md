@@ -27,7 +27,8 @@ CELLCEPT Intravenous is recommended for patients unable to take oral CELLCEPT.
 CELLCEPT Intravenous should be administered within 24 hours following transplant.
 CELLCEPT Intravenous can be administered for up to 14 days; however, patients should be switched to oral CELLCEPT as soon as they can tolerate oral medication.
 
-CELLCEPT Intravenous must be reconstituted before use [see Dosage and Administration (2.6)].CELLCEPT Intravenous is incompatible with other intravenous infusion solutions and should not be mixed or administered concurrently via the same infusion catheter with other intravenous drugs or infusion admixtures.
+CELLCEPT Intravenous must be reconstituted before use [see Dosage and Administration (2.6)].
+CELLCEPT Intravenous is incompatible with other intravenous infusion solutions and should not be mixed or administered concurrently via the same infusion catheter with other intravenous drugs or infusion admixtures.
 
 CELLCEPT Intravenous must not be administered as a bolus.
 Following reconstitution, CELLCEPT Intravenous must be administered by slow intravenous infusion over a period of no less than 2 hours by either peripheral or central vein, as rapid infusion increases the risk of local adverse reactions such as phlebitis and thrombosis [see Adverse Reactions (6.1)].
@@ -40,11 +41,11 @@ The recommended dose for adult kidney transplant patients is 1 g orally or intra
 
 Pediatrics (3 months and older)
 
-Pediatric dosing is based on body surface area (BSA).The recommended dose of CELLCEPT oral suspension for pediatric kidney transplant patients 3 months and older is 600 mg/m2, administered twice daily (maximum daily dose of 2 g or 10 mL of the oral suspension).
-Pediatric patients with BSA ≥1.25 m2 may be dosed with capsules or tablets as follows:
+Pediatric dosing is based on body surface area (BSA).
+The recommended dose of CELLCEPT oral suspension for pediatric kidney transplant patients 3 months and older is 600 mg/m2, administered twice daily (maximum daily dose of 2g or 10 mL of the oral suspension).
+Pediatric patients with BSA ≥ 1.25 m2 may be dosed with capsules or tablets as follows:
 
-Table 1.
-Pediatric Dosing Using Capsules or Tablets for Pediatric Kidney Transplant
+Table 1 Pediatric Dosing Using Capsules or Tablets for Pediatric Kidney Transplant
 
 | Body Surface Area | Dosing |
 | --- | --- |
@@ -106,7 +107,7 @@ The following are the steps for reconstitution:
 8. Dispense with the "Instruction for Use" and oral dispensers.
    Alert patients to read the important handling information described in the instructions for use.
 
-Store reconstituted suspension at 25°C (77°F); excursions permitted to 15° to 30°C (59° to 86°F).
+Store reconstituted suspension at 25°C (77°F); excursions permitted to 15°C to 30°C (59°F to 86°F).
 Storage in a refrigerator at 2° C to 8°C (36°F to 46°F) is acceptable.
 Do not freeze.
 Discard any unused portion 60 days after constitution.
@@ -122,8 +123,7 @@ Before proceeding with the preparation steps for CELLCEPT Intravenous read the g
 CELLCEPT Intravenous must be reconstituted and further diluted.
 A detailed description of the preparation is given below.
 
-Table 2.
-Preparation Instructions of CELLCEPT Intravenous for Pharmacists
+Table 2 Preparation Instructions of CELLCEPT Intravenous for Pharmacists
 
 | Preparation of the 1g dose | Reconstitute two (2) vials of CELLCEPT Intravenous by injecting 14 mL of 5% Dextrose Injection USP into each vial. Gently shake the vial to dissolve the drug.Inspect the resulting slightly yellow solution for particulate matter and discoloration prior to further dilution. Discard the vials if particulate matter or discoloration is observed.Dilute the contents of the two reconstituted vials (approximately 2 × 15 mL) into 140 mL of 5% Dextrose Injection USP.Inspect the resulting infusion solution and discard if particulate matter or discoloration is observed. |
 | --- | --- |
@@ -131,5 +131,6 @@ Preparation Instructions of CELLCEPT Intravenous for Pharmacists
 
 The administration of the infusion should be initiated within 4 hours of reconstitution and dilution of the drug product.
 Keep solutions at 25°C (77°F); excursions permitted to 15°C to 30°C (59°F to 86°F).
+Discard unused portion of the reconstituted solutions.
 
 CELLCEPT Injection should not be mixed or administered concurrently via the same infusion catheter with other intravenous drugs or infusion admixtures.
