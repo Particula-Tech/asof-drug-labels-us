@@ -8,9 +8,9 @@ Orally Disintegrating Tablets
 
 15 mg
 
-Each tablet contains
+Each tablet contains:
 
-- lansoprazole, USP as enteric-coated pellets 15 mg
+lansoprazole, USP as enteric-coated pellets 15 mg
 
 Phenylketonurics: contains phenylalanine 4.05 mg per tablet.
 
@@ -34,7 +34,7 @@ Orally Disintegrating Tablets
 
 Each tablet contains
 
-- lansoprazole, USP as enteric-coated pellets 30 mg
+lansoprazole, USP as enteric-coated pellets 30 mg
 
 Phenylketonurics: contains phenylalanine 8.11 mg per tablet.
 
