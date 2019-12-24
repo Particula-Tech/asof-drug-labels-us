@@ -22,7 +22,7 @@ Decreased carbohydrate and glucose tolerance, development of cushingoid state, h
 
 ## Fluid and Electrolyte Disturbances
 
-Congestive heart failure in susceptible patients, fluid retention, hypokalemic alkalosis, potassium loss, sodium retention.
+Congestive heart failure in susceptible patients, fluid retention, hypokalemic alkalosis, potassium loss, sodium retention, tumor lysis syndrome.
 
 ## Gastrointestinal
 
@@ -42,7 +42,7 @@ Convulsions, depression, emotional instability, euphoria, headache, increased in
 
 ## Ophthalmic
 
-Exophthalmos, glaucoma, increased intraocular pressure, posterior subcapsular cataracts.
+Exophthalmos, glaucoma, increased intraocular pressure, posterior subcapsular cataracts, vision blurred.
 
 ## Other
 

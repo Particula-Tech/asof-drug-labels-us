@@ -17,7 +17,7 @@ Literature reports suggest an apparent association between use of corticosteroid
 
 ## Endocrine
 
-Corticosteroids can produce reversible hypothalamic-pituitary adrenal (HPA) axis suppression with the potential for corticosteroid insufficiency after withdrawal of treatment.
+Corticosteroids can produce reversible hypothalamic-pituitary adrenal (HPA) axis suppression with the potential for glucocorticosteroid insufficiency after withdrawal of treatment.
 Adrenocortical insufficiency may result from too rapid withdrawal of corticosteroids and may be minimized by gradual reduction of dosage.
 This type of relative insufficiency may persist for months after discontinuation of therapy; therefore, in any situation of stress occurring during that period, hormone therapy should be reinstituted.
 If the patient is receiving steroids already, dosage may have to be increased.
@@ -36,10 +36,14 @@ These infections may be mild to severe.
 With increasing doses of corticosteroids, the rate of occurrence of infectious complications increases.
 Corticosteroids may also mask some signs of current infection.
 
-Fungal Infections:Corticosteroids may exacerbate systemic fungal infections and therefore should not be used in the presence of such infections unless they are needed to control life-threatening drug reactions.
+Fungal Infections
+
+Corticosteroids may exacerbate systemic fungal infections and therefore should not be used in the presence of such infections unless they are needed to control life-threatening drug reactions.
 There have been cases reported in which concomitant use of amphotericin B and hydrocortisone was followed by cardiac enlargement and congestive heart failure (see PRECAUTIONS: Drug Interactions: Amphotericin B injection and potassium-depleting agents).
 
-Special Pathogens: Latent disease may be activated or there may be an exacerbation of intercurrent infections due to pathogens, including those caused by Amoeba, Candida, Cryptococcus, Mycobacterium, Nocardia, Pneumocystis, Toxoplasma.
+Special Pathogens
+
+Latent disease may be activated or there may be an exacerbation of intercurrent infections due to pathogens, including those caused by Amoeba, Candida, Cryptococcus, Mycobacterium, Nocardia, Pneumocystis, Toxoplasma.
 
 It is recommended that latent amebiasis or active amebiasis be ruled out before initiating corticosteroid therapy in any patient who has spent time in the tropics or any patient with unexplained diarrhea.
 
@@ -48,17 +52,23 @@ In such patients, corticosteroid-induced immunosuppression may lead to Strongylo
 
 Corticosteroids should not be used in cerebral malaria.
 
-Tuberculosis: The use of corticosteroids in active tuberculosis should be restricted to those cases of fulminating or disseminated tuberculosis in which the corticosteroid is used for the management of the disease in conjunction with an appropriate antituberculous regimen.
+Tuberculosis
+
+The use of corticosteroids in active tuberculosis should be restricted to those cases of fulminating or disseminated tuberculosis in which the corticosteroid is used for the management of the disease in conjunction with an appropriate antituberculous regimen.
 
 If corticosteroids are indicated in patients with latent tuberculosis or tuberculin reactivity, close observation is necessary as reactivation of the disease may occur.
 During prolonged corticosteroid therapy, these patients should receive chemoprophylaxis.
 
-Vaccination: Administration of live or live, attenuated vaccines is contraindicated in patients receiving immunosuppressive doses of corticosteroids.
+Vaccination
+
+Administration of live or live, attenuated vaccines is contraindicated in patients receiving immunosuppressive doses of corticosteroids.
 Killed or inactivated vaccines may be administered.
 However, the response to such vaccines cannot be predicted.
 Immunization procedures may be undertaken in patients who are receiving corticosteroids as replacement therapy, e.g., for Addison's disease.
 
-Viral Infections: Chickenpox and measles can have a more serious or even fatal course in pediatric and adult patients on corticosteroids.
+Viral Infections
+
+Chickenpox and measles can have a more serious or even fatal course in pediatric and adult patients on corticosteroids.
 In pediatric and adult patients who have not had these diseases, particular care should be taken to avoid exposure.
 The contribution of the underlying disease and/or prior corticosteroid treatment to the risk is also not known.
 If exposed to chickenpox, prophylaxis with varicella zoster immune globulin (VZIG) may be indicated.
@@ -69,6 +79,7 @@ If chickenpox develops, treatment with antiviral agents should be considered.
 ## Ophthalmic
 
 Use of corticosteroids may produce posterior subcapsular cataracts, glaucoma with possible damage to the optic nerves, and may enhance the establishment of secondary ocular infections due to bacteria, fungi, or viruses.
+Consider referral to an ophthalmologist for patients who develop ocular symptoms or use corticosteroid-containing products for more than 6 weeks.
 The use of oral corticosteroids is not recommended in the treatment of optic neuritis and may lead to an increase in the risk of new episodes.
 Corticosteroids should not be used in active ocular herpes simplex.
 
@@ -86,7 +97,7 @@ Discontinuation of corticosteroids may result in clinical improvement.
 
 ## Cardio-Renal
 
-As sodium retention with resultant edema and potassium loss may occur in patients receiving corticosteroids, these agents should be used with caution in patients with congestive heart failure, hypertension, or renal insufficiency
+As sodium retention with resultant edema and potassium loss may occur in patients receiving corticosteroids, these agents should be used with caution in patients with congestive heart failure, hypertension, or renal insufficiency.
 
 ## Endocrine
 
@@ -130,7 +141,7 @@ If steroid therapy is continued for more than 6 weeks, intraocular pressure shou
 
 Patients should be warned not to discontinue the use of corticosteroids abruptly or without medical supervision.
 As prolonged use may cause adrenal insufficiency and make patients dependent on corticosteroids, they should advise any medical attendants that they are taking corticosteroids and they should seek medical advice at once should they develop an acute illness including fever or other signs of infection.
-Following prolonged therapy, withdrawal of corticosteroids may result in symptoms of the corticosteroid withdrawal syndrome including, myalgia, arthralgia, and malaise.
+Following prolonged therapy, withdrawal of corticosteroids may result in symptoms of the corticosteroid withdrawal syndrome including myalgia, arthralgia, and malaise.
 
 Persons who are on corticosteroids should be warned to avoid exposure to chickenpox or measles.
 Patients should also be advised that if they are exposed, medical advice should be sought without delay.
@@ -139,44 +150,48 @@ Patients should also be advised that if they are exposed, medical advice should 
 
 Aminoglutethimide: Aminoglutethimide may diminish adrenal suppression by corticosteroids.
 
-Amphotericin B Injection and Potassium-depleting agents: When corticosteroids are administered concomitantly with potassium-depleting agents (e.g., amphotericin B, diuretics), patients should be observed closely for development of hypokalemia.
+Amphotericin B injection and potassium-depleting agents: When corticosteroids are administered concomitantly with potassium-depleting agents (e.g., amphotericin B, diuretics), patients should be observed closely for development of hypokalemia.
 In addition, there have been cases reported in which concomitant use of amphotericin B and hydrocortisone was followed by cardiac enlargement and congestive heart failure.
 
-Antibiotics: Macrolide antibiotics have been reported to cause a significant decrease in corticosteroid clearance (see Drug Interactions: Hepatic Enzyme Inducers, Inhibitors and Substrates).
+Antibiotics: Macrolide antibiotics have been reported to cause a significant decrease in corticosteroid clearance (see Drug Interactions, CYP 3A4 Inducers,CYP 3A4 Inhibitors, and CYP 3A4 Substrates).
 
 Anticholinesterases: Concomitant use of anticholinesterase agents and corticosteroids may produce severe weakness in patients with myasthenia gravis.
 If possible, anticholinesterase agents should be withdrawn at least 24 hours before initiating corticosteroid therapy.
 
-Anticoagulants, Oral: Co-administration of corticosteroids and warfarin usually results in inhibition of response to warfarin, although there have been some conflicting reports.
+Anticoagulants, oral: Co-administration of corticosteroids and warfarin usually results in inhibition of response to warfarin, although there have been some conflicting reports.
 Therefore, coagulation indices should be monitored frequently to maintain the desired anticoagulant effect.
 
 Antidiabetics: Because corticosteroids may increase blood glucose concentrations, dosage adjustments of antidiabetic agents may be required.
 
-Antitubercular Drugs: Serum concentrations of isoniazid may be decreased.
+Antitubercular drugs: Serum concentrations of isoniazid may be decreased.
 
 Cholestyramine: Cholestyramine may increase the clearance of corticosteroids.
 
 Cyclosporine: Increased activity of both cyclosporine and corticosteroids may occur when the two are used concurrently.
 Convulsions have been reported with this concurrent use.
 
-Dexamethasone Suppression Test (DST): False-negative results in the dexamethasone suppression test (DST) in patients being treated with indomethacin have been reported.
+Dexamethasone suppression test (DST): False-negative results in the dexamethasone suppression test (DST) in patients being treated with indomethacin have been reported.
 Thus, results of the DST should be interpreted with caution in these patients.
 
-Digitalis Glycosides: Patients on digitalis glycosides may be at increased risk of arrhythmias due to hypokalemia.
+Digitalis glycosides: Patients on digitalis glycosides may be at increased risk of arrhythmias due to hypokalemia.
 
 Ephedrine: Ephedrine may enhance the metabolic clearance of corticosteroids, resulting in decreased blood levels and lessened physiologic activity, thus requiring an increase in corticosteroid dosage.
 
-Estrogens, Including Oral Contraceptives: Estrogens may decrease the hepatic metabolism of certain corticosteroids, thereby increasing their effect.
+Estrogens, including oral contraceptives: Estrogens may decrease the hepatic metabolism of certain corticosteroids, thereby increasing their effect.
 
-Hepatic Enzyme Inducers, Inhibitors and Substrates: Drugs which induce cytochrome P450 3A4 (CYP 3A4) enzyme activity (e.g., barbiturates, phenytoin, carbamazepine, rifampin) may enhance the metabolism of corticosteroids and require that the dosage of the corticosteroid be increased.
-Drugs which inhibit CYP 3A4 (e.g., ketoconazole, macrolide antibiotics such as erythromycin) have the potential to result in increased plasma concentrations of corticosteroids.
-Dexamethasone is a moderate inducer of CYP 3A4.
-Co-adminstration with other drugs that are metabolized by CYP 3A4 (e.g., indinavir, erythromycin) may increase their clearance, resulting in decreased plasma concentration.
+CYP 3A4 Inducers: Dexamethasone is metabolized by CYP 3A4.
+Drugs which induce cytochrome P450 3A4 (CYP 3A4) enzyme activity (e.g., barbiturates, phenytoin, carbamazepine, rifampin) may enhance the metabolism of corticosteroids and require that the dosage of the corticosteroid be increased.
 
-Ketoconazole: Ketoconazole has been reported to decrease the metabolism of certain corticosteroids by up to 60%, leading to increased risk of corticosteroid side effects.
+CYP 3A4 Inhibitors: Concomitant administration of dexamethasone with erythromycin, a moderate CYP 3A4 inhibitor, has the potential to result in increased plasma concentrations of dexamethasone.
+Ketoconazole, a strong CYP3A4 inhibitor, has been reported to decrease the metabolism of certain corticosteroids by up to 60%, leading to increased risk of corticosteroid side effects.
 In addition, ketoconazole alone can inhibit adrenal corticosteroid synthesis and may cause adrenal insufficiency during corticosteroid withdrawal.
+Co-administration with other drugs which strongly inhibit CYP 3A4 (e.g., itraconazole, clarithromycin, ritonavir, cobicistat-containing products) may lead to increased plasma concentrations of corticosteroids and potentially increase the risk for systemic corticosteroid side effects.
+Consider the benefit of co-administration versus the potential risk of systemic corticosteroid effects, in which case patients should be monitored for systemic corticosteroid side effects.
 
-Nonsteroidal Anti-Inflammatory Agents (NSAIDS): Concomitant use of aspirin (or other nonsteroidal antiinflammatory agents) and corticosteroids increases the risk of gastrointestinal side effects.
+CYP 3A4 Substrates: Dexamethasone is a moderate inducer of CYP 3A4.
+Co-administration with other drugs that are metabolized by CYP 3A4 (e.g., indinavir, erythromycin) may increase their clearance, resulting in decreased plasma concentration.
+
+Nonsteroidal Anti-Inflammatory Agents (NSAIDS): Concomitant use of aspirin (or other nonsteroidal anti-inflammatory agents) and corticosteroids increases the risk of gastrointestinal side effects.
 Aspirin should be used cautiously in conjunction with corticosteroids in hypoprothrombinemia.
 The clearance of salicylates may be increased with concurrent use of corticosteroids.
 

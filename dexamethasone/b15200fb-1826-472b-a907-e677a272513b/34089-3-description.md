@@ -12,6 +12,6 @@ In addition, the oral solution contains the following inactive ingredients: alco
 Dexamethasone, a synthetic adrenocortical steroid, is a white to practically white, odorless, crystalline powder.
 It is stable in air.
 It is practically insoluble in water.
-The molecular formula is C22H29FO5.
+The empirical formula is C22H29FO5.
 The molecular weight is 392.47.
 It is designated chemically as 9-fluoro-11β,17,21-trihydroxy-16α-methylpregna-1,4-diene,3,20-dione and the structural formula is:
