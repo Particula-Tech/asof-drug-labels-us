@@ -16,4 +16,5 @@
   - PDE5 Inhibitor: sildenafil (Revatio®) when used for the treatment of pulmonary arterial hypertension
   - Sedative/Hypnotics: triazolam, orally administered midazolam
 - NORVIR is contraindicated with drugs that are potent CYP3A inducers where significantly reduced ritonavir plasma concentrations may be associated with the potential for loss of virologic response and possible resistance and cross-resistance [see Drug Interactions (7.2) and Clinical Pharmacology (12.3)].
+  - Anticancer Agents: apalutamide
   - Herbal Products: St. John's Wort (hypericum perforatum)
