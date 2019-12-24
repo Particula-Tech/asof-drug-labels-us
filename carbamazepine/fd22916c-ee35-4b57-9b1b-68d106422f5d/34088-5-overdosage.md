@@ -12,39 +12,25 @@ In a study of carbamazepine intoxications, peak serum levels of carbamazepine be
 Peak serum levels of carbamazepine 19.9 to 39.9 mcg/mL were associated with increased incidences of severe toxicity (e.g., 9 out of 33 patients were in a coma), while peak levels above 40 mcg/mL were always (3 out of 3 patients) associated with a severe toxicity-like coma.
 Likewise, the incidences of seizures and requirement for mechanical ventilation were correlated with plasma concentrations.
 
-Signs and Symptoms
+Signs and Symptoms Respiration
 
-Respiration
+Irregular breathing, respiratory depression
 
-Irregular breathing, respiratory depression.
+Cardiovascular System Tachycardia, hypotension or hypertension, shock, conduction disorders
 
-Cardiovascular System
-
-Tachycardia, hypotension or hypertension, shock, conduction disorders.
-
-Neurological Disturbances
-
-Impairment of consciousness ranging in severity to deep coma.
+Neurological Disturbances Impairment of consciousness ranging in severity to deep coma.
 Convulsions, especially in small children.
 Motor restlessness, muscular twitching, tremor, athetoid movements, opisthotonos, ataxia, drowsiness, dizziness, mydriasis, nystagmus, adiadochokinesia, ballism, psychomotor disturbances, dysmetria.
 Initial hyperreflexia, followed by hyporeflexia.
 
-Gastrointestinal Tract
+Gastrointestinal Tract Nausea, vomiting
 
-Nausea, vomiting.
+Kidneys and Bladder Anuria or oliguria, urinary retention
 
-Kidneys and Bladder
-
-Anuria or oliguria, urinary retention.
-
-Laboratory Findings
-
-Isolated instances of overdosage have included leukocytosis, reduced leukocyte count, glycosuria, and acetonuria.
+Laboratory Findings Isolated instances of overdosage have included leukocytosis, reduced leukocyte count, glycosuria, and acetonuria.
 Electrocardiogram may show dysrhythmias.
 
-Combined Poisoning
-
-When alcohol, tricyclic antidepressants, barbiturates, or hydantoins are taken at the same time, the signs and symptoms of acute poisoning with carbamazepine may be aggravated or modified.
+Combined Poisoning When alcohol, tricyclic antidepressants, barbiturates, or hydantoins are taken at the same time, the signs and symptoms of acute poisoning with carbamazepine may be aggravated or modified.
 
 ## 10.2 Management of Overdosage
 

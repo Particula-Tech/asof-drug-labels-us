@@ -20,7 +20,7 @@ The prevalence of the HLA-B*1502 allele may be higher in Asian populations: Hong
 HLA-B*1502 is largely absent in individuals not of Asian origin (e.g., Caucasians, African-Americans, Hispanics, and Native Americans).
 The accuracy of estimated rates of the HLA-B*1502 allele in these populations may be limited by wide variability in rates within ethnic groups, the difficulty in ascertaining ethnic ancestry, and the likelihood of mixed ancestry.
 
-The HLA-B*1502 allele has not been found to predict risk of less severe adverse cutaneous reactions from carbamazepine, such as maculopapular rash, hypersensitivity syndrome or non-serious rash (maculopapular eruption [MPE]) or Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS) [see Warnings and Precautions (5.4)].
+The HLA-B*1502 allele has not been found to predict risk of less severe adverse cutaneous reactions from carbamazepine, such as maculopapular rash, hypersensitivity syndrome, or non-serious rash (maculopapular eruption [MPE]) or Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS) [see Warnings and Precautions (5.4)].
 
 Limited evidence suggests that HLA-B*1502 may be a risk factor for the development of SJS/TEN in patients of Chinese ancestry taking other antiepileptic drugs (AED) associated with SJS/TEN, including phenytoin.
 Consideration should be given to avoiding use of other drugs associated with SJS/TEN in HLA-B*1502-positive patients, when alternative therapies are otherwise equally acceptable.
@@ -75,18 +75,25 @@ It is important to note that early manifestations of hypersensitivity (e.g., fev
 If such signs or symptoms are present, the patient should be evaluated immediately.
 CARNEXIV should be discontinued if an alternative etiology for the signs or symptoms cannot be established.
 
-Hypersensitivity Hypersensitivity reactions to carbamazepine have been reported in patients who previously experienced this reaction to antiepileptics including oxcarbazepine, phenytoin, primidone, and phenobarbital.
+## 5.5 Hypersensitivity
+
+Cases of anaphylaxis and angioedema involving the larynx, glottis, lips, and eyelids have been reported in patients after taking the first or subsequent doses of oral carbamazepine.
+Angioedema associated with laryngeal edema can be fatal.
+If a patient develops any of these reactions after treatment with CARNEXIV, the drug should be discontinued and an alternative treatment started.
+These patients should not be rechallenged with the drug.
+
+Hypersensitivity reactions to carbamazepine have also been reported in patients who previously experienced this reaction to antiepileptics including oxcarbazepine, phenytoin, primidone, and phenobarbital.
 A history of hypersensitivity reactions should be obtained for patients and their immediate family members.
 If such history is present, benefits and risks should be carefully considered, and the signs and symptoms of hypersensitivity should be carefully monitored.
 
 Patients should be informed that about a third of patients who have had hypersensitivity reactions to carbamazepine also experience hypersensitivity reactions with oxcarbazepine (Trileptal®).
 
-## 5.5 Suicidal Behavior and Ideation
+## 5.6 Suicidal Behavior and Ideation
 
 Antiepileptic drugs (AEDs), including CARNEXIV, increase the risk of suicidal thoughts or behavior in patients taking these drugs for any indication.
 Patients treated with any AED for any indication should be monitored for the emergence or worsening of depression, suicidal thoughts or behavior, and/or any unusual changes in mood or behavior.
 
-Pooled analyses of 199 placebo-controlled clinical trials (mono- and adjunctive therapy) of 11 different AEDs showed that patients randomized to one of the AEDs had approximately twice the risk (adjusted Relative Risk: 1.8, 95% CI:1.2, 2.7) of suicidal thinking or behavior compared to patients randomized to placebo.
+Pooled analyses of 199 placebo-controlled clinical trials (mono- and adjunctive therapy) of 11 different AEDs showed that patients randomized to one of the AEDs had approximately twice the risk (adjusted Relative Risk: 1.8, 95% CI: 1.2, 2.7) of suicidal thinking or behavior compared to patients randomized to placebo.
 In these trials, which had a median treatment duration of 12 weeks, the estimated incidence rate of suicidal behavior or ideation among 27,863 AED-treated patients was 0.43%, compared to 0.24% among 16,029 placebo-treated patients, representing an increase of approximately one case of suicidal thinking or behavior for every 530 patients treated.
 There were 4 suicides in drug-treated patients in the trials and none in placebo-treated patients, but the number is too small to allow any conclusion about drug effect on suicide.
 
@@ -118,7 +125,7 @@ Should suicidal thoughts and behavior emerge during treatment, the prescriber ne
 Patients, their caregivers, and families should be informed that AEDs increase the risk of suicidal thoughts and behaviors and should be advised of the need to be alert for the emergence or worsening of the signs and symptoms of depression, any unusual changes in mood or behavior, or the emergence of suicidal thoughts, behavior, or thoughts about self-harm.
 Behaviors of concern should be reported immediately to healthcare providers.
 
-## 5.6 Embryofetal Toxicity
+## 5.7 Embryofetal Toxicity
 
 CARNEXIV can cause fetal harm when administered to a pregnant woman [see Use in Specific Populations (8.1)].
 Pregnancy registry and epidemiological data demonstrate an association between the use of carbamazepine during pregnancy and congenital malformations, including spina bifida and malformations involving other body systems (e.g., craniofacial defects and cardiovascular malformations).
@@ -130,12 +137,12 @@ In animal studies, administration of carbamazepine during pregnancy resulted in 
 
 If CARNEXIV is used during pregnancy, or if the patient becomes pregnant while taking CARNEXIV, the patient should be informed of the potential risk to the fetus.
 
-## 5.7 Abrupt Discontinuation and Seizure Risk
+## 5.8 Abrupt Discontinuation and Seizure Risk
 
 Because of the risk of seizure and other withdrawal signs/symptoms, do not discontinue CARNEXIV abruptly.
 Patients with seizure disorders are at increased risk of developing seizures and status epilepticus with attendant hypoxia and threat to life.
 
-## 5.8 Hyponatremia
+## 5.9 Hyponatremia
 
 Hyponatremia can occur as a result of treatment with CARNEXIV.
 In many cases, the hyponatremia appears to be caused by the syndrome of inappropriate antidiuretic hormone secretion (SIADH).
@@ -144,13 +151,13 @@ Elderly patients and patients treated with diuretics are at greater risk of deve
 Signs and symptoms of hyponatremia include headache, new or increased seizure frequency, difficulty concentrating, memory impairment, confusion, weakness, and unsteadiness, which can lead to falls.
 Consider discontinuing CARNEXIV in patients with symptomatic hyponatremia.
 
-## 5.9 Potential Impairment of Neurologic Function
+## 5.10 Potential Impairment of Neurologic Function
 
 Carbamazepine has the potential to cause impairment in judgment, cognition, motor function, and motor coordination.
 It also may cause dizziness, ataxia, and drowsiness.
 Caution patients about operating hazardous machinery, including automobiles, until they are reasonably certain that carbamazepine does not affect them adversely.
 
-## 5.10 Hepatic Toxicity
+## 5.11 Hepatic Toxicity
 
 Hepatic effects, ranging from slight elevations in liver enzymes to rare cases of hepatic failure, have been reported.
 In some cases, hepatic effects may progress despite discontinuation of the drug.
@@ -162,12 +169,12 @@ As an example, there has been a report of vanishing bile duct syndrome associate
 Baseline and periodic evaluations of liver function, particularly in patients with a history of liver disease, must be performed during treatment with this drug since liver damage may occur.
 In the case of active liver disease, or with newly occurring or worsening clinical or laboratory evidence of liver dysfunction or hepatic damage, discontinue CARNEXIV based on clinical judgment.
 
-## 5.11 Increased Intraocular Pressure
+## 5.12 Increased Intraocular Pressure
 
 Carbamazepine has mild anticholinergic activity.
 In patients with a history of increased intraocular pressure, consider assessing intraocular pressure before initiating treatment and periodically during therapy.
 
-## 5.12 Hepatic Porphyria
+## 5.13 Hepatic Porphyria
 
 The use of CARNEXIV should be avoided in patients with a history of hepatic porphyria (e.g., acute intermittent porphyria, variegate porphyria, porphyria cutanea tarda).
 Acute attacks have been reported in such patients receiving carbamazepine therapy.

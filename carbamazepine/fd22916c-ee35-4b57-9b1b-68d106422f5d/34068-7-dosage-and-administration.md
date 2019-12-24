@@ -61,17 +61,17 @@ CARNEXIV should generally not be used in patients with moderate or severe renal 
 ## 2.4 Serum Level Monitoring
 
 Monitor serum carbamazepine concentrations in conditions in which alterations in carbamazepine metabolism can occur.
-This includes patients who have hepatic impairment and patients on drugs that either induce or inhibit carbamazepine metabolism [see Warnings and Precautions (5.10, 5.12), Drug Interactions (7.2) and Use in Specific Populations (8.7)].
+This includes patients who have hepatic impairment and patients on drugs that either induce or inhibit carbamazepine metabolism [see Warnings and Precautions (5.11, 5.13), Drug Interactions (7.2) and Use in Specific Populations (8.7)].
 
 ## 2.5 Laboratory Testing Prior to Carbamazepine Initiation
 
 Prior to initial treatment with carbamazepine, test patients with ancestry in genetically at-risk populations for the presence of the HLA-B*1502 allele.
 The high resolution genotype test is positive if one or two HLA-B*1502 alleles are present.
-Avoid use of CARNEXIV in patients testing positive for the allele, unless the benefit clearly outweighs the risk [see Boxed Warning and Warnings and Precautions (5.1)].
+Avoid use of CARNEXIV in patients testing positive for the allele, unless the benefit clearly outweighs the risk [seeBoxed Warning and Warnings and Precautions (5.1)].
 
 Complete pretreatment blood counts, including platelets and possibly reticulocytes and serum iron, should be obtained as a baseline.
 If a patient in the course of treatment exhibits low or decreased white blood cell or platelet counts, the patient should be monitored closely.
 Discontinuation of CARNEXIV should be considered if any evidence of significant bone marrow depression develops [see Warnings and Precautions (5.2)].
 
 Baseline and periodic evaluations of liver function, particularly in patients with a history of liver disease, must be performed during treatment with carbamazepine because liver damage may occur.
-Discontinue CARNEXIV in cases of aggravated liver dysfunction or active liver disease [see Warnings and Precautions (5.10)].
+Discontinue CARNEXIV in cases of aggravated liver dysfunction or active liver disease [see Warnings and Precautions (5.11)].
