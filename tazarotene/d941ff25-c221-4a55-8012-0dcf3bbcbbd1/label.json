@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "NDA211882"
+  ],
+  "inn": "tazarotene",
+  "labeler": "Bausch Health US LLC",
+  "package_ndcs": [
+    "0187-2098-03",
+    "0187-2098-10",
+    "0187-2098-45"
+  ],
+  "products": [
+    {
+      "form": "LOTION",
+      "generic": "tazarotene",
+      "name": "Arazlo"
+    }
+  ],
+  "setid": "d941ff25-c221-4a55-8012-0dcf3bbcbbd1",
+  "source": "dailymed"
+}
