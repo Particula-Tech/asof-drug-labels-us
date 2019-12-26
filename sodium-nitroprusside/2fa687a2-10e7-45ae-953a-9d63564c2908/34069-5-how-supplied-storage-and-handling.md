@@ -9,6 +9,8 @@ Store at 20° to 25°C (68° to 77°F) [see USP Controlled Room Temperature].
 
 To protect sodium nitroprusside injection from light, it should be stored in its carton until it is used.
 
+Discard unused portion.
+
 Manufactured by:
 
 Amneal Pharmaceuticals Pvt.
@@ -25,4 +27,4 @@ Amneal Pharmaceuticals LLC
 Bridgewater, NJ 08807
 
 Rev.
-05-2019-03
+11-2019-04
