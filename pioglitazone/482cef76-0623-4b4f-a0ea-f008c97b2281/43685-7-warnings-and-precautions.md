@@ -30,23 +30,30 @@ For patients with lesser elevations of serum ALT or bilirubin and with an altern
 
 ## 5.4 Urinary Bladder Tumors
 
+1.72]). with pioglitazone hydrochloride, while others did.
 Tumors were observed in the urinary bladder of male rats in the two-year carcinogenicity study [see Nonclinical Toxicology (13.1)].
 In addition, during the three year PROactive clinical trial, 14 patients out of 2605 (0.54%) randomized to pioglitazone hydrochloride and 5 out of 2633 (0.19%) randomized to placebo were diagnosed with bladder cancer.
 After excluding patients in whom exposure to study drug was less than one year at the time of diagnosis of bladder cancer, there were 6 (0.23%) cases on pioglitazone hydrochloride and two (0.08%) cases on placebo.
 After completion of the trial, a large subset of patients was observed for up to 10 additional years, with little additional exposure to pioglitazone hydrochloride.
-During the 13 years of both PROactive and observational follow-up, the occurrence of bladder cancer did not differ between patients randomized to pioglitazone hydrochloride or placebo (HR =1.00; [95% CI: 0.59−1.72]).
+During the 13 years of both PROactive and observational follow-up, the occurrence of bladder cancer did not differ between patients randomized to pioglitazone hydrochloride or placebo (HR =1.00; [95% CI: 0.59− 1.72]).
 Findings regarding the risk of bladder cancer in patients exposed to pioglitazone hydrochloride vary among observational studies; some did not find an increased risk of bladder cancer associated with pioglitazone hydrochloride, while others did.
 
+hydrochloride, compared to those never exposed to pioglitazone hydrochloride (HR =1.06 [95% CI 0.89−1.26]).
 A large prospective10-year observational cohort study conducted in the United States found no statistically significant increase in the risk of bladder cancer in diabetic patients ever exposed to pioglitazone hydrochloride, compared to those never exposed to pioglitazone hydrochloride (HR =1.06 [95% CI 0.89−1.26]).
 
+: 1.63; [95% CI: 1.22−2.19]).
 A retrospective cohort study conducted with data from the United Kingdom found a statistically significant association between ever exposure to pioglitazone hydrochloride and bladder cancer (HR: 1.63; [95% CI: 1.22−2.19]).
 
+between cumulative dose or cumulative duration of exposure to pioglitazone hydrochloride and bladder cancer were not detected in some studies including the 10-year observational study in the U.S., but were in others.
+Inconsistent findings and limitations inherent in these and other studies preclude conclusive interpretations of the observational data.
 Associations between cumulative dose or cumulative duration of exposure to pioglitazone hydrochloride and bladder cancer were not detected in some studies including the 10-year observational study in the U.S., but were in others.
 Inconsistent findings and limitations inherent in these and other studies preclude conclusive interpretations of the observational data.
 
+tumors.
 Pioglitazone hydrochloride may be associated with an increase in the risk of urinary bladder tumors.
 There are insufficient data to determine whether pioglitazone is a tumor promoter for urinary bladder tumors.
 
+hydrochloride should be considered in patients with a prior history of bladder cancer.
 Consequently, pioglitazone hydrochloride should not be used in patients with active bladder cancer and the benefits of glycemic control versus unknown risks for cancer recurrence with pioglitazone hydrochloride should be considered in patients with a prior history of bladder cancer.
 
 ## 5.5 Edema

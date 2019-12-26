@@ -48,7 +48,7 @@ Table 2.
 |  | 16-Week Placebo-Controlled Trial Adverse Events Reported in > 5% of Patients and More Commonly in Patients Treated with Pioglitazone Tablets 30 mg + Sulfonylurea than in Patients Treated with Placebo + Sulfonylurea |  |  |  |
 | --- | --- | --- | --- | --- |
 | % of Patients |  |  |  |  |
-| Placebo + Sulfonylurea N=187 | Pioglitazone Hydrochloride15 mg + Sulfonylurea N=184 |  | Pioglitazone Hydrochloride 30 mg + Sulfonylurea N=189 |  |
+| Placebo + Sulfonylurea N=187 | Pioglitazone Hydrochloride15 mg + Sulfonylurea N=184 |  | Pioglitazone Hydrochloride30 mg + Sulfonylurea N=189 |  |
 | Edema | 2.1 | 1.6 |  | 12.7 |
 | Headache | 3.7 | 4.3 |  | 5.3 |
 | Flatulence | 0.5 | 2.7 |  | 6.3 |
@@ -217,7 +217,7 @@ Tables 10 and 11 summarize the changes in body weight with pioglitazone hydrochl
 Table 10.
 Weight Changes (kg) from Baseline During Randomized, Double-Blind Clinical Trials
 
-| Median (25th/75th percentile) | Median (25th/75th percentile) | Median (25th/75th percentile) | Median (25th/75th percentile) |  |  |
+| Median (25 th/75 th percentile) | Median (25 th/75 th percentile) | Median (25 th/75 th percentile) | Median (25 th/75 th percentile) |  |  |
 | --- | --- | --- | --- | --- | --- |
 |  |  | Control Group (Placebo) | Pioglitazone Hydrochloride 15 mg | Pioglitazone Hydrochloride 30 mg | Pioglitazone Hydrochloride 45 mg |
 | Mono therapy (16 to 26 weeks) |  | -1.4 (-2.7/0.0) N=256 | 0.9 (-0.5/3.4) N=79 | 1.0 (-0.9/3.4) N=188 | 2.6 (0.2/5.4) N=79 |
@@ -228,7 +228,7 @@ Weight Changes (kg) from Baseline During Randomized, Double-Blind Clinical Trial
 Table 11.
 Median Change in Body Weight in Patients Treated with Pioglitazone Hydrochloride Versus Patients Treated with Placebo During the Double-Blind Treatment Period in the PROactive Trial
 
-| Median (25th/75th percentile) | Median (25th/75th percentile) |  |
+| Median (25 th/75 th percentile) | Median (25 th/75 th percentile) |  |
 | --- | --- | --- |
 |  | Placebo | Pioglitazone Hydrochloride |
 | Change from Baseline to Final Visit (kg) | -0.5 (-3.3, 2.0) N=2581 | +3.6 (0.0, 7.5) N=2560 |

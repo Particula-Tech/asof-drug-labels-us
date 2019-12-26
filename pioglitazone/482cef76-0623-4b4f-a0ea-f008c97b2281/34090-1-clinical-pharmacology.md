@@ -35,7 +35,7 @@ Lipids in a 26-Week Placebo-Controlled Monotherapy Dose-Ranging Study
 | --- | --- | --- | --- | --- |
 | Triglycerides (mg/dL) | N=79 | N=79 | N=84 | N=77 |
 | Baseline (mean) | 263 | 284 | 261 | 260 |
-| Percent change from baseline (adjusted meanAdjusted for baseline, pooled center, and pooled center by treatment interaction) | 4.8% | -9.0%p < 0.05 versus placebo | -9.6% | -9.3% |
+| Percent change from baseline (adjusted mean Adjusted for baseline, pooled center, and pooled center by treatment interaction) | 4.8% | -9.0% p < 0.05 versus placebo | -9.6% | -9.3% |
 | HDL Cholesterol (mg/dL) | N=79 | N=79 | N=83 | N=77 |
 | Baseline (mean) | 42 | 40 | 41 | 41 |
 | Percent change from baseline (adjusted mean) | 8.1% | 14.1% | 12.2% | 19.1% |
@@ -53,9 +53,9 @@ In the two other monotherapy studies (16 weeks and 24 weeks) and in combination 
 Following once-daily administration of pioglitazone hydrochloride, steady-state serum concentrations of both pioglitazone and its major active metabolites, M-III (keto derivative of pioglitazone) and M-IV (hydroxyl derivative of pioglitazone), are achieved within 7 days.
 At steady-state, M-III and M-IV reach serum concentrations equal to or greater than that of pioglitazone.
 At steady-state, in both healthy volunteers and patients with type 2 diabetes, pioglitazone comprises approximately 30% to 50% of the peak total pioglitazone serum concentrations (pioglitazone plus active metabolites) and 20% to 25% of the total AUC.
-Cmax, AUC, and trough serum concentrations (Cmin) for pioglitazone and M-III and M-IV, increased proportionally with administered doses of 15 mg and 30 mg per day.
-Absorption: Following oral administration of pioglitazone, Tmax of pioglitazone was within two hours.
-Food delays the Tmax to three to four hours but does not alter the extent of absorption (AUC).
+C max, AUC, and trough serum concentrations (C min) for pioglitazone and M-III and M-IV, increased proportionally with administered doses of 15 mg and 30 mg per day.
+Absorption: Following oral administration of pioglitazone, T max of pioglitazone was within two hours.
+Food delays the T max to three to four hours but does not alter the extent of absorption (AUC).
 Distribution: The mean apparent volume of distribution (Vd/F) of pioglitazone following single-dose administration is 0.63 ± 0.41 (mean ± SD) L/kg of body weight.
 Pioglitazone is extensively protein bound (> 99%) in human serum, principally to serum albumin.
 Pioglitazone also binds to other serum proteins, but with lower affinity.
@@ -68,7 +68,7 @@ Urinary 6ß-hydroxycortisol/cortisol ratios measured in patients treated with pi
 Excretion and Elimination: Following oral administration, approximately 15% to 30% of the pioglitazone dose is recovered in the urine.
 Renal elimination of pioglitazone is negligible, and the drug is excreted primarily as metabolites and their conjugates.
 It is presumed that most of the oral dose is excreted into the bile either unchanged or as metabolites and eliminated in the feces.
-The mean serum half-life (t1/2) of pioglitazone and its metabolites (M-III and M-IV) range from three to seven hours and 16 to 24 hours, respectively.
+The mean serum half-life (t 1/2) of pioglitazone and its metabolites (M-III and M-IV) range from three to seven hours and 16 to 24 hours, respectively.
 Pioglitazone has an apparent clearance, CL/F, calculated to be five to seven L/hr.
 Renal Impairment: The serum elimination half-life of pioglitazone, M-III, and M-IV remains unchanged in patients with moderate (creatinine clearance [CLcr] 30 to 50 mL/min) and severe (CLcr < 30 mL/min) renal impairment when compared to subjects with normal renal function.
 Therefore, no dose adjustment in patients with renal impairment is required.
@@ -91,8 +91,8 @@ Effect of Pioglitazone Coadministration on Systemic Exposure of Other Drugs
 
 | Coadministered Drug |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
-| Pioglitazone Dosage Regimen (mg)Daily for 7 days unless otherwise noted | Name and Dose Regimens | Change in AUC% change (with/without coadministered drug and no change = 0%); symbols of ↑ and ↓ indicate the exposure increase and decrease, respectively. |  | Change in Cmax |  |
-| 45 mg (N = 12) | WarfarinPioglitazone has no clinically significant effect on prothrombin time |  |  |  |  |
+| Pioglitazone Dosage Regimen (mg) Daily for 7 days unless otherwise noted | Name and Dose Regimens | Change in AUC % change (with/without coadministered drug and no change = 0%); symbols of ↑ and ↓ indicate the exposure increase and decrease, respectively. |  | Change in C max |  |
+| 45 mg (N = 12) | Warfarin Pioglitazone has no clinically significant effect on prothrombin time |  |  |  |  |
 | Daily loading then maintenance doses based PT and INR values Quick's Value = 35 ± 5% | R-Warfarin | ↓ 3% | R-Warfarin | ↓ 2% |  |
 | S-Warfarin | ↓ 1% | S-Warfarin | ↑ 1% |  |  |
 | 45 mg (N = 12) | Digoxin |  |  |  |  |
