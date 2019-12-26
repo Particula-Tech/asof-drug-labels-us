@@ -4,14 +4,4 @@ Adverse reactions to phenylephrine hydrochloride are primarily attributable to e
 Adverse reactions reported in published clinical studies, observational trials, and case reports of phenylephrine hydrochloride are listed below by body system.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to estimate their frequency reliably or to establish a causal relationship to drug exposure.
 
-Cardiac disorders: Reflex bradycardia, lowered cardiac output, ischemia, hypertension, arrhythmias
-
-Gastrointestinal disorders: Epigastric pain, vomiting, nausea
-
-Nervous system disorders: Headache, blurred vision, neck pain, tremors
-
-Vascular disorders: Hypertensive crisis
-
-Respiratory, Thoracic and Mediastinal Disorders: Dyspnea
-
-Skin and subcutaneous tissue disorders: Pruritis
+Cardiac disorders: Reflex bradycardia, lowered cardiac output, ischemia, hypertension, arrhythmias Gastrointestinal disorders: Epigastric pain, vomiting, nausea Nervous system disorders: Headache, blurred vision, neck pain, tremors Vascular disorders: Hypertensive crisis Respiratory, Thoracic and Mediastinal Disorders: Dyspnea Skin and subcutaneous tissue disorders: Pruritis
