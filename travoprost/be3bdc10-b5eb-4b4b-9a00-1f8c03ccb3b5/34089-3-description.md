@@ -1,0 +1,11 @@
+# 11 DESCRIPTION
+
+Travoprost is a synthetic prostaglandin F analogue.
+Its chemical name is [1R-[1α(Z),2β(1E,3R*),3α,5α]]-7-[3,5Dihydroxy-2-[3-hydroxy-4-[3(trifluoromethyl)phenoxy]-1-butenyl]cyclopentyl]-5heptenoic acid, 1-methylethylester.
+It has a molecular formula of C26H35F3O6 and a molecular weight of 500.55.
+The chemical structure of travoprost is:
+
+Travoprost is a clear, colorless and viscous oil that is very soluble in acetonitrile, methanol, octanol, and chloroform.
+It is practically insoluble in water.
+Travoprost Ophthalmic Solution 0.004% is supplied as sterile, buffered aqueous solution of travoprost with a pH of approximately 6.0 and an osmolality of approximately 290 mOsmol/kg.
+Travoprost ophthalmic solution contains Active: travoprost 0.04 mg/mL; Preservative: benzalkonium chloride 0.015% w/v; Inactives: polyoxyl 40 hydrogenated castor oil, tromethamine, boric acid, mannitol, edetate disodium, sodium hydroxide and/or hydrochloric acid (to adjust pH)and water for injection.

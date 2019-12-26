@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA210458"
+  ],
+  "inn": "travoprost",
+  "labeler": "Alembic Pharmaceuticals Inc.",
+  "package_ndcs": [
+    "62332-510-05",
+    "62332-510-25"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION/ DROPS",
+      "generic": "travoprost ophthalmic solution usp, 0.004%",
+      "name": "Travoprost Ophthalmic Solution USP, 0.004%"
+    }
+  ],
+  "setid": "be3bdc10-b5eb-4b4b-9a00-1f8c03ccb3b5",
+  "source": "dailymed"
+}
