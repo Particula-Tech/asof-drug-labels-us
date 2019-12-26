@@ -1,6 +1,6 @@
 MEDICATION GUIDE Amiodarone Hydrochloride
 
-(A-mi-OH-da-rone HYE-droe-KLOR-ide) Tablets
+(a" mee oh' da rone hye" droe klor' ide) Tablets, USP
 
 What is the most important information I should know about amiodarone hydrochloride tablets?
 Amiodarone hydrochloride tablets can cause serious side effects that can lead to death, including:
