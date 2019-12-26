@@ -109,4 +109,4 @@ Manufactured for: Pierre Fabre Pharmaceuticals, Inc., Parsippany, NJ 07054
 
 For more information, call 1-855-PFPHARM (737-4276)
 
-This Medication Guide has been approved by the U.S. Food and Drug Administration Issued: Jan 2015
+This Medication Guide has been approved by the U.S. Food and Drug Administration Issued: Jun 2016

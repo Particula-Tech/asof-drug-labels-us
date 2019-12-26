@@ -12,6 +12,7 @@ When access to beta-receptor sites is blocked by propranolol, chronotropic, inot
 
 Propranolol selectively blocks beta-adrenergic receptors, leaving alpha-adrenergic responses intact.
 There are two well-characterized subtypes of beta receptors (beta1 and beta2); propranolol interacts with both subtypes equally.
+
 Beta1-adrenergic receptors are found primarily in the heart.
 Blockade of cardiac beta1-adrenergic receptors leads to a decrease in the activity of both normal and ectopic pacemaker cells and a decrease in A-V nodal conduction velocity.
 Blockade of cardiac beta1-adrenergic receptors also decreases the myocardial force of contraction and may provoke cardiac decompensation in patients with minimal cardiac reserve.

@@ -2,4 +2,4 @@
 
 Oral solution: 4.28 mg/mL propranolol hydrochloride.
 
-Alcohol, paraben and sugar free.
+Alcohol-, paraben- and sugar-free.

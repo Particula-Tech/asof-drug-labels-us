@@ -57,8 +57,8 @@ Because these reactions are reported voluntarily from a population of uncertain 
 
 These adverse reactions are as follows:
 
-Blood and lymphatic system disorders: Agranulocytosis
+Blood and lymphatic system disorders:Agranulocytosis
 
 Psychiatric disorders: Hallucination
 
-Skin and subcutaneous tissues disorders: Purpura
+Skin and subcutaneous tissues disorders: Purpura, dermatitis psoriasform, dermatitis diaper

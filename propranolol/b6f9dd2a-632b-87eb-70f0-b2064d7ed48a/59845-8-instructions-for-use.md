@@ -120,7 +120,3 @@ Manufactured for:
 Pierre Fabre Pharmaceuticals, Inc.
 
 Parsippany, NJ 07054
-
-Made in France
-
-Issued: May 2015
