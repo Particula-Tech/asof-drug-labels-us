@@ -80,9 +80,9 @@ Table 5: Effect of Coadministered Drug on Plasma Metformin Systemic Exposure
 | Nifedipine |  |  | 10 mg |  | 850 mg | metformin 1.16 1.21 |
 | Propranolol |  |  | 40 mg |  | 850 mg | metformin 0.90 0.94 |
 | Ibuprofen |  |  | 400 mg |  | 850 mg | metformin 1.05 1.07 |
-| Cationic drugs eliminated by renal tubular secretion may reduce metformin elimination [See Drug Interactions (7)] |  |  |  |  |  |  |
+| Cationic drugs eliminated by renal tubular secretion may reduce metformin elimination [See Warnings and Precautions (5.9) and Drug Interactions (7.2)] |  |  |  |  |  |  |
 | Cimetidine |  |  | 400 mg |  | 850 mg | metformin 1.40 1.61 |
-| Carbonic anhydrase inhibitors may cause metabolic acidosis [See Drug Interactions (7)] |  |  |  |  |  |  |
+| Carbonic anhydrase inhibitors may cause metabolic acidosis [See Warnings and Precautions (5.9) and Drug Interactions (7.1)] |  |  |  |  |  |  |
 | Topiramate |  |  | 100 mg§ |  | 500 mg§ | metformin 1.25§ 1.17 |
 
 * All metformin and coadministered drugs were given as single doses † AUC = AUC(INF) ‡ Ratio of arithmetic means § At steady state with topiramate 100 mg every 12 hours and metformin 500 mg every 12 hours; AUC = AUC0-12h

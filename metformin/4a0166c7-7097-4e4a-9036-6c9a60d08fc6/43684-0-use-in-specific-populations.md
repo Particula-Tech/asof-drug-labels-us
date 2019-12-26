@@ -51,7 +51,7 @@ GLUCOPHAGE XR Safety and effectiveness of GLUCOPHAGE XR in pediatric patients ha
 
 Controlled clinical studies of GLUCOPHAGE/GLUCOPHAGE XR did not include sufficient numbers of elderly patients to determine whether they respond differently from younger patients.
 In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy and the higher risk of lactic acidosis.
-Assess renal function more frequently in elderly patients [see Warnings and Precautions (5.1)].
+Assess renal function more frequently in elderly patients [see Warnings and Precautions (.15)].
 
 ## 8.6 Renal Impairment
 

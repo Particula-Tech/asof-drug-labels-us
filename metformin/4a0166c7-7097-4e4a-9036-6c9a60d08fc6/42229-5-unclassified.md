@@ -2,10 +2,8 @@
 
 The following adverse reactions are also discussed elsewhere in the labeling:
 
-- Lactic Acidosis [see Boxed Warning and Warnings and Precautions (5.1)]
-
+- Lactic Acidosis [see Boxed WarningandWarnings and Precautions (5.1)]
 - Vitamin B12 Deficiency [see Warnings and Precautions (5.2)]
-
 - Hypoglycemia [see Warnings and Precautions (5.3)]
 
 ## 6.1 Clinical Studies Experience
@@ -281,4 +279,4 @@ GLUCOPHAGE® is a registered trademark of Merck Santé S.A.S., a subsidiary of M
 
 Other brands listed are the trademarks of their respective owners.
 
-Distributed by: Bristol-Myers Squibb Company Princeton, NJ 08543 USA 3976400 1397294 Rev May 2018
+Distributed by: Bristol-Myers Squibb Company Princeton, NJ 08543 USA Rev May 2018

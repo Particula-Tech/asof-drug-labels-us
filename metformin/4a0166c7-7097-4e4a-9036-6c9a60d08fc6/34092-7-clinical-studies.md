@@ -17,7 +17,6 @@ Table 7: Mean Change in Fasting Plasma Glucose and HbA1c at Week 29 Comparing GL
 
 Mean baseline body weight was 201 lbs and 206 lbs in the GLUCOPHAGE and placebo arms, respectively.
 Mean change in body weight from baseline to week 29 was -1.4 lbs and -2.4 lbs in the GLUCOPHAGE and placebo arms, respectively.
-
 A 29-week, double-blind, placebo-controlled study of GLUCOPHAGE and glyburide, alone and in combination, was conducted in obese patients with type 2 diabetes mellitus who had failed to achieve adequate glycemic control while on maximum doses of glyburide (baseline FPG of approximately 250 mg/dL).
 Patients randomized to the combination arm started therapy with GLUCOPHAGE 500 mg and glyburide 20 mg.
 At the end of each week of the first 4 weeks of the trial, these patients had their dosages of GLUCOPHAGE increased by 500 mg if they had failed to reach target fasting plasma glucose.
@@ -71,7 +70,7 @@ Table 10: Mean Changes from Baseline* in HbA1c and Fasting Plasma Glucose at Wee
 
 |  |  |  | GLUCOPHAGE XR |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  |  | 500 mgOnceDaily | 1000 mgOnce Daily | 1500 mgOnceDaily | 2000 mgOnceDaily | 1000 mgOnceDaily |  | Placebo |
+|  |  | 500 mgOnceDaily | 1000 mgOnce Daily | 1500 mgOnceDaily | 2000 mgOnceDaily | 1000 mgTwiceDaily |  | Placebo |
 |  | Hemoglobin A1c (%) | (n=115) | (n=115) | (n=111) | (n=125) | (n=112) |  | (n=111) |
 |  | Baseline | 8.2 | 8.4 | 8.3 | 8.4 | 8.4 |  | 8.4 |
 |  | Change at FINAL VISIT | -0.4 | -0.6 | -0.9 | -0.8 | -1.1 |  | 0.1 |
@@ -89,7 +88,7 @@ Mean change in body weight from baseline to week 16 was -1.3 lbs, -1.3 lbs, -0.7
 A 24-week, double-blind, randomized study of GLUCOPHAGE XR, taken once daily with the evening meal, and GLUCOPHAGE, taken twice daily (with breakfast and evening meal), was conducted in patients with type 2 diabetes mellitus who had been treated with GLUCOPHAGE 500 mg twice daily for at least 8 weeks prior to study entry.
 The results are shown in Table 11.
 
-Table 11: Mean Changes from Baseline in HbA1c and Fasting Plasma Glucose at Week 24 Comparing GLUCOPHAGE XR vs GLUCOPHAGE in Patients with Type 2 Diabetes Mellitus
+Table 11: Mean Changes from Baseline* in HbA1c and Fasting Plasma Glucose at Week 24 Comparing GLUCOPHAGE XR vs GLUCOPHAGE in Patients with Type 2 Diabetes Mellitus
 
 |  | GLUCOPHAGE 500 mg Twice Daily | GLUCOPHAGE XR |  |
 | --- | --- | --- | --- |

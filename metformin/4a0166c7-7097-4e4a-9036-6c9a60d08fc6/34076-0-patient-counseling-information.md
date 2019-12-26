@@ -17,4 +17,4 @@ GLUCOPHAGE XR Administration Information: Inform patients that GLUCOPHAGE XR mus
 
 Distributed by: Bristol-Myers Squibb Company Princeton, NJ 08543 USA GLUCOPHAGE® is a registered trademark of Merck Santé S.A.S., a subsidiary of Merck KGaA of Darmstadt, Germany, licensed to Bristol-Myers Squibb Company.
 
-3976400 1397294 Rev May 2018
+Rev December 2019

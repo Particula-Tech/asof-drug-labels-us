@@ -48,7 +48,7 @@ Clinical recommendations based upon the patient’s renal function include [see 
 In GLUCOPHAGE clinical trials of 29-week duration, a decrease to subnormal levels of previously normal serum vitamin B12 levels was observed in approximately 7% of patients.
 Such decrease, possibly due to interference with B12 absorption from the B12-intrinsic factor complex, may be associated with anemia but appears to be rapidly reversible with discontinuation of GLUCOPHAGE or vitamin B12 supplementation.
 Certain individuals (those with inadequate vitamin B12 or calcium intake or absorption) appear to be predisposed to developing subnormal vitamin B12 levels.
-Measure hematologic parameters on an annual basis and vitamin B12 at 2 to 3 year intervals in patients on GLUCOPHAGE/GLUCOPHAGE XR and manage any abnormalities [see Adverse Reactions (6.1)].
+Measure hematologic parameters on an annual basis and vitamin B12 at 2 to 3 year intervals in patients on GLUCOPHAGE/GLUCOPHAGE XR and manage any abnormalities [see Adverse Reactions(6.1)].
 
 ## 5.3 Hypoglycemia with Concomitant Use with Insulin and Insulin Secretagogues
 
