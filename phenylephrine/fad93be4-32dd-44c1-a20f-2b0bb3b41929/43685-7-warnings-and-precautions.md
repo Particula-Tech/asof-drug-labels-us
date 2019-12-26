@@ -20,7 +20,7 @@ Phenylephrine hydrochloride can cause severe bradycardia and decreased cardiac o
 
 ## 5.5 Allergic Reactions
 
-Phenylephrine hydrochloride contains sodium metabisulfite, a sulfite that may cause allergic-type reactions, including anaphylactic symptoms and life-threatening or less severe asthmatic episodes in certain susceptible people.
+Phenylephrine hydrochloride injection contains sodium metabisulfite, a sulfite that may cause allergic-type reactions, including anaphylactic symptoms and life-threatening or less severe asthmatic episodes in certain susceptible people.
 The overall prevalence of sulfite sensitivity in the general population is unknown and probably low.
 Sulfite sensitivity is seen more frequently in asthmatic than in nonasthmatic people.
 

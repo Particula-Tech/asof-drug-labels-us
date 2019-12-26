@@ -23,4 +23,4 @@ The increasing blood pressure effect of phenylephrine hydrochloride is decreased
 - Calcium channel blockers, such as nifedipine
 - Benzodiazepines
 - ACE inhibitors
-- Centrally acting sympatholytic agents, such as reserpine, guanfacine.
+- Centrally acting sympatholytic agents, such as reserpine, guanfacine

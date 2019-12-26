@@ -1,21 +1,9 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-If applicable, inform patients, family member, or caregiver that certain medical conditions and medications might influence how phenylephrine hydrochloride injection works.
+If applicable, inform patient, family member, or caregiver that certain medical conditions and medications might influence how phenylephrine hydrochloride injection works.
 
-Manufactured by:
+Manufactured by: Amneal Pharmaceuticals Pvt.
+Ltd. Parenteral Unit Ahmedabad 382213, INDIA
 
-Amneal Pharmaceuticals Pvt.
-Ltd.
-
-Parenteral Unit
-
-Ahmedabad 382213, INDIA
-
-Distributed by:
-
-Amneal Biosciences LLC
-
-Bridgewater, NJ 08807
-
-Rev.
-04-2018-00
+Distributed by: Amneal Pharmaceuticals LLC Bridgewater, NJ 08807 Rev.
+12-2019-02

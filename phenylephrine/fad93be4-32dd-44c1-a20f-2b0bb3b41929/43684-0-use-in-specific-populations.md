@@ -2,41 +2,56 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Category C
-
 Risk Summary
 
-There are no adequate or well-controlled studies with phenylephrine hydrochloride injection in pregnant women, nor have animal reproduction studies been conducted.
-Published studies in normotensive pregnant rabbits report early onset labor, increased fetal lethality, and adverse placental effects with subcutaneous phenylephrine administration during gestation at doses approximately 1.9-times the total daily human dose.
-Published studies in normotensive pregnant sheep report decreased uterine blood flow and decreased PaO2 in the fetus with intravenous phenylephrine administration during late gestation at doses less than and similar to the human dose.
-It is not known whether phenylephrine hydrochloride, can cause fetal harm when administered to a pregnant woman.
-Phenylephrine hydrochloride, should be given to a pregnant woman only if the potential benefit justifies the potential risk to the fetus.
+Data from randomized controlled trials and meta-analyses with phenylephrine hydrochloride use in pregnant women during Cesarean section have not established a drug-associated risk of major birth defects and miscarriage.
+These studies have not identified an adverse effect on maternal outcomes or infant Apgar scores [see Data].
+There are no data on the use of phenylephrine during the first or second trimester.
+In animal reproduction and development studies in normotensive animals, evidence of fetal malformations was noted when phenylephrine was administered during organogenesis via a 1-hour infusion at 1.2 times the human daily dose (HDD) of 10 mg/60 kg/day.
+Decreased pup weights were noted in offspring of pregnant rats treated with 2.9 times the HDD [See Data].
+The estimated background risk of major birth defects and miscarriage for the indicated population are unknown.
+All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively.
 
 Clinical Considerations
 
-Labor and Delivery
+Disease-Associated Maternal and/or Embryofetal Risk
 
-The most common maternal adverse reactions reported in published studies of phenylephrine use during neuraxial anesthesia during Cesarean delivery include nausea and vomiting, bradycardia, reactive hypertension, and transient arrhythmias.
-Phenylephrine, when administered during labor or delivery, does not appear to alter either neonatal Apgar scores or umbilical artery blood-gas status.
+Untreated hypotension associated with spinal anesthesia for Cesarean section is associated with an increase in maternal nausea and vomiting.
+A sustained decrease in uterine blood flow due to maternal hypotension may result in fetal bradycardia and acidosis.
 
 Data
 
+Human Data
+
+Published randomized controlled trials over several decades, which compared the use of phenylephrine hydrochloride injection to other similar agents in pregnant women during Cesarean section, have not identified adverse maternal or infant outcomes.
+At recommended doses, phenylephrine does not appear to affect fetal heart rate or fetal heart rate variability to a significant degree.
+
+There are no studies on the safety of phenylephrine hydrochloride injection exposure during the period of organogenesis, and therefore, it is not possible to draw any conclusions on the risk of birth defects following exposure to phenylephrine hydrochloride injection during pregnancy.
+In addition, there are no data on the risk of miscarriage following fetal exposure to phenylephrine hydrochloride injection.
+
 Animal Data
 
-Studies in the published literature evaluating subcutaneously administered phenylephrine (0.33 mg/kg, TID) in normotensive pregnant rabbits reported fetal deaths, adverse histopathology findings in the placenta (necrosis, calcification and thickened vascular walls with narrowed lumen) and possible teratogenic effects (one incidence of clubbed feet, partial development of the intestine) when treatment was initiated during the first trimester or later; and premature labor when treatment was initiated at the second trimester or later.
-The doses administered were 1.9- times the total daily human dose of 10 mg/day based on a body surface area comparison.
-Published studies in pregnant normotensive sheep demonstrate that intravenous phenylephrine (4 mcg/kg/min for 30 minutes, equivalent to 3.6 to 4.1 mcg/kg/min human equivalent dose based on body surface area) administered during the third trimester of pregnancy decreased uterine blood flow by 42%.
-This dose is 1.1- to 1.2-times the human bolus dose of 200 mcg/60 kg person based on body surface area.
-Mean fetal blood pressure and heart rate fluctuated above and below controls by about 7% during the infusion.
-Fetal PaO2 was significantly decreased by approximately 26% of control during the infusion.
-Likewise, PaCO2 was increased and pH was decreased.
-The clinical significance of these findings is not clear; however, the results suggest the potential for cardiovascular effects on the fetus when phenylephrine is used during pregnancy.
+No clear malformations or fetal toxicity were reported when normotensive pregnant rabbits were treated with phenylephrine via continuous intravenous infusion over 1 hour (0.5 mg/kg/day; approximately equivalent to a HDD based on body surface area) from Gestation Day 7 to 19.
+At this dose, which demonstrated no maternal toxicity, there was evidence of developmental delay (altered ossification of sternebra).
 
-## 8.3 Nursing Mothers
+In a non-GLP dose range-finding study in normotensive pregnant rabbits, fetal lethality and cranial, paw, and limb malformations were noted following treatment with 1.2 mg/kg/day of phenylephrine via continuous intravenous infusion over 1 hour (2.3-times the HDD).
+This dose was clearly maternally toxic (increased mortality and significant body weight loss).
+An increase in the incidence of limb malformation (hyperextension of the forepaw) coincident with high fetal mortality was noted in a single litter at 0.6 mg/kg/day (1.2-times the HDD) in the absence of maternal toxicity.
 
-It is not known whether phenylephrine is present in human milk.
-The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for phenylephrine hydrochloride and any potential adverse effects on the breastfed child from the drug or from the underlying maternal condition.
-Exercise caution when phenylephrine hydrochloride injection is administered to a nursing woman.
+No malformations or embryo-fetal toxicity were reported when normotensive pregnant rats were treated with up to 3 mg/kg/day phenylephrine via continuous intravenous infusion over 1 hour (2.9-times the HDD) from Gestation Day 6 to 17.
+This dose was associated with some maternal toxicity (decreased food consumption and body weights).
+
+Decreased pup weights were reported in a pre-and postnatal development toxicity study in which normotensive pregnant rats were administered phenylephrine via continuous intravenous infusion over 1 hour (0.3, 1.0, or 3.0 mg/kg/day; 0.29, 1, or 2.9 times the HDD) from Gestation Day 6 through Lactation Day 21).
+No adverse effects on growth and development (learning and memory, sexual development, and fertility) were noted in the offspring of pregnant rats at any dose tested.
+Maternal toxicities (mortality late in gestation and during lactation period, decreased food consumption and body weight) occurred at 1 and 3 mg/kg/day of phenylephrine (equivalent to and 2.9 times the HDD, respectively).
+
+## 8.2 Lactation
+
+Risk Summary
+
+There are no data on the presence of phenylephrine hydrochloride or its metabolite in human or animal milk, the effects on the breastfed infant, or the effects on milk production.
+The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for phenylephrine hydrochloride and any potential adverse effects on the breastfed infant from phenylephrine hydrochloride or from the underlying maternal condition.
 
 ## 8.4 Pediatric Use
 
@@ -51,7 +66,7 @@ In general, dose selection for an elderly patient should be cautious, usually st
 ## 8.6 Hepatic Impairment
 
 In patients with liver cirrhosis [Child Pugh Class B and Class C], dose-response data indicate decreased responsiveness to phenylephrine.
-Start dosing in the recommended dose range but consider that you may need to give more phenylephrine in this population.
+Start dosing in the recommended dose range, but more phenylephrine may be needed in this population.
 
 ## 8.7 Renal Impairment
 
