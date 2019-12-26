@@ -1,146 +1,54 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-## 2.1 Recommended Dosing and Dose Modification Guidelines
+## 2.1 Recommended Dosage and Dosage Modifications for Newly Diagnosed Glioblastoma
 
-Dosage of TEMOZOLOMIDE must be adjusted according to nadir neutrophil and platelet counts in the previous cycle and the neutrophil and platelet counts at the time of initiating the next cycle.
-For TEMOZOLOMIDE dosage calculations based on body surface area (BSA) see Table 5.
-For suggested capsule combinations on a daily dose see Table 6.
-Patients with Newly Diagnosed High Grade Glioma: Concomitant Phase: TEMOZOLOMIDE is administered at 75 mg/m2 daily for 42-days concomitant with focal radiotherapy (60 Gy administered in 30 fractions) followed by maintenance TEMOZOLOMIDE for 6 cycles.
-Focal RT includes the tumor bed or resection site with a 2 to 3 cm margin.
-No dose reductions are recommended during the concomitant phase; however, dose interruptions or discontinuation may occur based on toxicity.
-The TEMOZOLOMIDE dose should be continued throughout the 42-day concomitant period up to 49 days if all of the following conditions are met: absolute neutrophil count greater than or equal to 1.5 x 109/L, platelet count greater than or equal to 100 x 109/L, common toxicity criteria (CTC) nonhematological toxicity less than or equal to Grade 1 (except for alopecia, nausea, and vomiting).
-During treatment a complete blood count should be obtained weekly.
-Temozolomide dosing should be interrupted or discontinued during concomitant phase according to the hematological and nonhematological toxicity criteria as noted in Table 1 Pneumocystis pneumonia (PCP) prophylaxis is required during the concomitant administration of TEMOZOLOMIDE and radiotherapy, and should be continued in patients who develop lymphocytopenia until recovery from lymphocytopenia (CTC Grade less than or equal to 1).
-TABLE 1: Temozolomide Dosing Interruption or Discontinuation During Concomitant Radiotherapy and Temozolomide
+Administer TEMOZOLOMIDE either orally once daily for 42 consecutive days during the concomitant phase with focal radiotherapy and then once daily on Days 1 to 5 of each 28-day cycle for 6 cycles during the maintenance phase.
+Provide Pneumocystis pneumonia (PCP) prophylaxis during the concomitant phase and continue in patients who develop lymphocytopenia until resolution to grade 1 or less [see Warnings and Precautions (5.3)].
+Concomitant Phase The recommended dosage of TEMOZOLOMIDE is 75 mg/m2 either orally or intravenously once daily for 42 days (up to 49 days) concomitant with focal radiotherapy (60 Gy administered in 30 fractions).
+Focal radiotherapy includes the tumor bed or resection site with a 2- to 3-cm margin.
+Obtain a complete blood count weekly.
+No dose reductions are recommended during the concomitant phase.
+The recommended dosage modifications during the concomitant phase are provided in Table 1.
+TABLE 1: Temozolomide Dosage Modifications During Concomitant Phase
 
-| Toxicity | TMZ Interruption* | TMZ Discontinuation |
+| Adverse Reaction | Interruption | Discontinuation |
 | --- | --- | --- |
-| Absolute Neutrophil Count | greater than or equal to 0.5 and less than 1.5 x 109/L | less than 0.5 x 109/L |
-| Platelet Count | greater than or equal to 10 and less than 100 x 109/L | less than 10 x 109/L |
-| CTC Nonhematological Toxicity (except for alopecia, nausea, vomiting) | CTC Grade 2 | CTC Grade 3 or 4 |
+| Absolute Neutrophil Count | Withhold TEMOZOLOMIDE if ANC is greater than or equal to 0.5 x 109/L and less than 1.5 x 109/L. Resume TEMOZOLOMIDE when ANC is greater than or equal to 1.5 x 109/L. | Discontinue TEMOZOLOMIDE if platelet count is less than 0.5 x 109/L. |
+| Platelet Count | Withhold TEMOZOLOMIDE if platelet count is greater than or equal to 10 x 109/L and less than 100 x 109/L. Resume TEMODAR when platelet count is greater than or equal to 100 x 109/L. | Discontinue TEMOZOLOMIDE if platelet count is less than 10 x 109/L. |
+| Non-hematological Adverse Reaction (except for alopecia, nausea, vomiting) | Withhold TEMOZOLOMIDE if Grade 2 adverse reaction occurs. Resume TEMODAR when resolution to Grade 1 or less. | Discontinue TEMOZOLOMIDE if Grade 3 or 4 adverse reaction occurs. |
 
-TMZ = temozolomide; CTC = Common Toxicity Criteria. * Treatment with concomitant TMZ could be continued when all of the following conditions were met: absolute neutrophil count greater than or equal to 1.5 x 109/L; platelet count greater than or equal to 100 x 109/L; CTC nonhematological toxicity less than or equal to Grade 1 (except for alopecia, nausea, vomiting).
-Maintenance Phase: Cycle 1: Four weeks after completing the TEMOZOLOMIDE + RT phase, TEMOZOLOMIDE is administered for an additional 6 cycles of maintenance treatment.
-Dosage in Cycle 1 (maintenance) is 150 mg/m2 once daily for 5 days followed by 23 days without treatment.
-Cycles 2 to 6: At the start of Cycle 2, the dose can be escalated to 200 mg/m2, if the CTC nonhematologic toxicity for Cycle 1 is Grade less than or equal to 2 (except for alopecia, nausea, and vomiting), absolute neutrophil count (ANC) is greater than or equal to 1.5 x 109/L, and the platelet count is greater than or equal to 100 x 109/L.
-The dose remains at 200 mg/m2 per day for the first 5 days of each subsequent cycle except if toxicity occurs.
-If the dose was not escalated at Cycle 2, escalation should not be done in subsequent cycles.
-Dose Reduction or Discontinuation During Maintenance: Dose reductions during the maintenance phase should be applied according to Tables 2 and 3 During treatment, a complete blood count should be obtained on Day 22 (21 days after the first dose of TEMOZOLOMIDE) or within 48 hours of that day, and weekly until the ANC is above 1.5 x 109/L (1500/µL) and the platelet count exceeds 100 x 109/L (100,000/µL).
-The next cycle of TEMOZOLOMIDE should not be started until the ANC and platelet count exceed these levels.
-Dose reductions during the next cycle should be based on the lowest blood counts and worst nonhematologic toxicity during the previous cycle.
-Dose reductions or discontinuations during the maintenance phase should be applied according to Tables 2 and 3.
-TABLE 2: Temozolomide Dose Levels for Maintenance Treatment
+Maintenance Phase Beginning 4 weeks after Concomitant Phase completion, administer TEMOZOLOMIDE either orally or intravenously once daily on Days 1 to 5 of each 28-day cycle for 6 cycles.
+The recommended dosage of TEMOZOLOMIDE is as follows: Cycle 1: 150 mg/m2 per day Cycles 2 to 6: May increase to 200 mg/m2 per day if the following conditions are met before starting cycle 2.
+If the dose was not escalated at the onset of Cycle 2, do not increase the dose for Cycles 3 to 6. o Nonhematologic toxicity is grade 2 or less (except for alopecia, nausea, and vomiting) o ANC is greater than or equal to 1.5 x 109/L and o Platelet count is greater than or equal to 100 x 109/L.
+Obtain a complete blood count on Day 22 and then weekly until the ANC is above 1.5 x 109/L and the platelet count is above 100 x 109/L.
+Do not start the next cycle until the ANC and platelet count exceed these levels.
+The recommended dosage modifications during the maintenance phase are provided in Table 2.
+If TEMOZOLOMIDE is withheld, reduce the dose for the next cycle by 50 mg/m2 per day.
+Permanently discontinue TEMOZOLOMIDE in patients who are unable to tolerate a dose of 100 mg/m2 per day.
+TABLE 2: Temozolomide Dosage Modifications During Maintenance Treatment
 
-| Dose Level | Dose (mg/m2/day) | Remarks |
+| Toxicity | Interruption | Discontinuation |
 | --- | --- | --- |
-| -1 | 100 | Reduction for prior toxicity |
-| 0 | 150 | Dose during Cycle 1 |
-| 1 | 200 | Dose during Cycles 2 to 6 in absence of toxicity |
+| Absolute Neutrophil Count | Withhold TEMOZOLOMIDE if ANC less than 1 x 109/L. When ANC is above 1.5 x 109/L, resume TEMODAR at reduced dose for the next cycle. | Unable to tolerate a dose of 100 mg/m2 per day. |
+| Platelet Count | Withhold TEMOZOLOMIDE if platelet less than 50 x 109/L. When platelet count is above 100 x 109/L, resume TEMOZOLOMIDE at reduced dose for the next cycle. | Unable to tolerate a dose of 100 mg/m2 per day. |
+| Non-hematological Adverse Reaction (except for alopecia, nausea, vomiting) | Withhold TEMOZOLOMIDE if Grade 3 adverse reaction. When resolved to grade 1 or less, resume TEMOZOLOMIDE at reduced dose for the next cycle. | Recurrent Grade 3 after dose reduction. Grade 4 Unable to tolerate a dose of 100 mg/m2 per day. |
 
-TABLE 3: Temozolomide Dose Reduction or Discontinuation During Maintenance Treatment
+## 2.2 Recommended Dosage and Dosage Modifications for Refractory Anaplastic Astrocytoma
 
-| Toxicity | Reduce TMZ by 1 Dose Level* | Discontinue TMZ |
-| --- | --- | --- |
-| Absolute Neutrophil Count | less than 1 x 109/L | See footnote† |
-| Platelet Count | less than 50 x 109/L | See footnote† |
-| CTC Nonhematological Toxicity (except for alopecia, nausea, vomiting) | CTC Grade 3 | CTC Grade 4† |
-
-TMZ = temozolomide; CTC = Common Toxicity Criteria.
-
-*TMZ dose levels are listed in Table 2.
-
-† TMZ is to be discontinued if dose reduction to less than 100 mg/ m2 is required or if the same
-
-Grade 3 nonhematological toxicity (except for alopecia, nausea, vomiting) recurs after dose
-
-reduction.
-
-Patients with Refractory Anaplastic Astrocytoma: For adults the initial dose is 150 mg/ m2 once daily for 5 consecutive days per 28-day treatment cycle.
-For adult patients, if both the nadir and day of dosing (Day 29, Day 1 of next cycle) ANC are greater than or equal to 1.5 x 109/L (1500/μL) and both the nadir and Day 29, Day 1 of next cycle platelet counts are greater than or equal to 100 x 109/L (100,000/μL), the TEMOZOLOMIDE dose may be increased to 200 mg/m2/day for 5 consecutive days per 28-day treatment cycle.
-During treatment, a complete blood count should be obtained on Day 22 (21 days after the first dose) or within 48 hours of that day, and weekly until the ANC is above 1.5 x 109/L (1500/μL) and the platelet count exceeds 100 x 109/L (100,000/μL).
-The next cycle of TEMOZOLOMIDE should not be started until the ANC and platelet count exceed these levels.
-If the ANC falls to less than 1 x 109/L (1000/μL) or the platelet count is less than 50 x 109/L (50,000/μL) during any cycle, the next cycle should be reduced by 50 mg/m2, but not below 100 mg/m2, the lowest recommended dose (see Table 4).
-TEMOZOLOMIDE therapy can be continued until disease progression.
+The recommended initial dosage of TEMOZOLOMIDE is 150 mg/m2 once daily on Days 1 to 5 of each 28-day cycle.
+Increase the TEMOZOLOMIDE dose to 200 mg/m2 per day if the following conditions are met at the nadir and on Day 1 of the next cycle: • ANC is greater than or equal to 1.5 x 109/L and • Platelet count is greater than or equal to 100 x 109/L Continue TEMOZOLOMIDE until disease progression or unacceptable toxicity.
 In the clinical trial, treatment could be continued for a maximum of 2 years, but the optimum duration of therapy is not known.
-TABLE 4: Dosing Modification Table
+Obtain a complete blood count on Day 22 and then weekly until the ANC is above 1.5 x 109/L and the platelet count is above 100 x 109/L.
+Do not start the next cycle until the ANC and platelet count exceed these levels.
+If the ANC is less than 1 x 109/L or the platelet count is less than 50 x 109/L during any cycle, reduce the TEMOZOLOMIDE dose for the next cycle by 50 mg/m2 per day.
+Permanently discontinue TEMOZOLOMIDE in patients who are unable to tolerate a dose of 100 mg/m2 per day.
 
-TABLE 5: Daily Dose Calculations by Body Surface Area (BSA)
+## 2.3 Preparation and Administration
 
-| Total BSA (m2) | 75 mg/m2 (mg daily) | 150 mg/m2 (mg daily) | 200 mg/m2 (mg daily) |
-| --- | --- | --- | --- |
-| 1.0 | 75 | 150 | 200 |
-| 1.1 | 82.5 | 165 | 220 |
-| 1.2 | 90 | 180 | 240 |
-| 1.3 | 97.5 | 195 | 260 |
-| 1.4 | 105 | 210 | 280 |
-| 1.5 | 112.5 | 225 | 300 |
-| 1.6 | 120 | 240 | 320 |
-| 1.7 | 127.5 | 255 | 340 |
-| 1.8 | 135 | 270 | 360 |
-| 1.9 | 142.5 | 285 | 380 |
-| 2.0 | 150 | 300 | 400 |
-| 2.1 | 157.5 | 315 | 420 |
-| 2.2 | 165 | 330 | 440 |
-| 2.3 | 172.5 | 345 | 460 |
-| 2.4 | 180 | 360 | 480 |
-| 2.5 | 187.5 | 375 | 500 |
-
-TABLE 6: Suggested Capsule Combinations Based on Daily Dose in Adults
-
-| Number of Daily Capsules by Strength (mg) |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- |
-| Total Daily Dose (mg) | 250 mg | 180 mg | 140 mg | 100 mg | 20 mg | 5 mg |
-| 75 | 0 | 0 | 0 | 0 | 3 | 3 |
-| 82.5 | 0 | 0 | 0 | 0 | 4 | 0 |
-| 90 | 0 | 0 | 0 | 0 | 4 | 2 |
-| 97.5 | 0 | 0 | 0 | 1 | 0 | 0 |
-| 105 | 0 | 0 | 0 | 1 | 0 | 1 |
-| 112.5 | 0 | 0 | 0 | 1 | 0 | 2 |
-| 120 | 0 | 0 | 0 | 1 | 1 | 0 |
-| 127.5 | 0 | 0 | 0 | 1 | 1 | 1 |
-| 135 | 0 | 0 | 0 | 1 | 1 | 3 |
-| 142.5 | 0 | 0 | 1 | 0 | 0 | 0 |
-| 150 | 0 | 0 | 1 | 0 | 0 | 2 |
-| 157.5 | 0 | 0 | 1 | 0 | 1 | 0 |
-| 165 | 0 | 0 | 1 | 0 | 1 | 1 |
-| 172.5 | 0 | 0 | 1 | 0 | 1 | 2 |
-| 180 | 0 | 1 | 0 | 0 | 0 | 0 |
-| 187.5 | 0 | 1 | 0 | 0 | 0 | 1 |
-| 195 | 0 | 1 | 0 | 0 | 0 | 3 |
-| 200 | 0 | 1 | 0 | 0 | 1 | 0 |
-| 210 | 0 | 0 | 0 | 2 | 0 | 2 |
-| 220 | 0 | 0 | 0 | 2 | 1 | 0 |
-| 225 | 0 | 0 | 0 | 2 | 1 | 1 |
-| 240 | 0 | 0 | 1 | 1 | 0 | 0 |
-| 255 | 1 | 0 | 0 | 0 | 0 | 1 |
-| 260 | 1 | 0 | 0 | 0 | 0 | 2 |
-| 270 | 1 | 0 | 0 | 0 | 1 | 0 |
-| 280 | 0 | 0 | 2 | 0 | 0 | 0 |
-| 285 | 0 | 0 | 2 | 0 | 0 | 1 |
-| 300 | 0 | 0 | 0 | 3 | 0 | 0 |
-| 315 | 0 | 0 | 0 | 3 | 0 | 3 |
-| 320 | 0 | 1 | 1 | 0 | 0 | 0 |
-| 330 | 0 | 1 | 1 | 0 | 0 | 2 |
-| 340 | 0 | 1 | 1 | 0 | 1 | 0 |
-| 345 | 0 | 1 | 1 | 0 | 1 | 1 |
-| 360 | 0 | 2 | 0 | 0 | 0 | 0 |
-| 375 | 0 | 2 | 0 | 0 | 0 | 3 |
-| 380 | 0 | 1 | 0 | 2 | 0 | 0 |
-| 400 | 0 | 0 | 0 | 4 | 0 | 0 |
-| 420 | 0 | 0 | 3 | 0 | 0 | 0 |
-| 440 | 0 | 0 | 3 | 0 | 1 | 0 |
-| 460 | 0 | 2 | 0 | 1 | 0 | 0 |
-| 480 | 0 | 1 | 0 | 3 | 0 | 0 |
-| 500 | 2 | 0 | 0 | 0 | 0 | 0 |
-
-## 2.2 Preparation and Administration
-
-TEMOZOLOMIDE Capsules: In clinical trials, TEMOZOLOMIDE was administered under both fasting and nonfasting conditions; however, absorption is affected by food [see Clinical Pharmacology (12.3)], and consistency of administration with respect to food is recommended.
-There are no dietary restrictions with TEMOZOLOMIDE.
-To reduce nausea and vomiting, TEMOZOLOMIDE should be taken on an empty stomach.
-Bedtime administration may be advised.
-Antiemetic therapy may be administered prior to and/or following administration of TEMOZOLOMIDE.
-
-TEMOZOLOMIDE Capsules should not be opened or chewed.
-They should be swallowed whole with a glass of water.
-If capsules are accidentally opened or damaged, precautions should be taken to avoid inhalation or contact with the skin or mucous membranes [see How Supplied/Storage and Handling (16.1)].
+TEMOZOLOMIDE is a cytotoxic drug.
+Follow applicable special handling and disposal procedures.1 TEMOZOLOMIDE capsules Administer TEMOZOLOMIDE consistently with respect to food (fasting vs. nonfasting) [see Clinical Pharmacology (12.3)].
+To reduce nausea and vomiting, take TEMOZOLOMIDE on an empty stomach or at bedtime and consider antiemetic therapy prior to and/or following TEMOZOLOMIDE administration.
+Swallow TEMOZOLOMIDE capsules whole.
+Do not open or chew capsules.
+If capsules are accidentally opened or damaged, take precautions to avoid inhalation or contact with the skin or mucous membranes.
+In case of powder contact, the hands should be washed.

@@ -1,6 +1,4 @@
 # 4 CONTRAINDICATIONS
 
-## 4.1 Hypersensitivity
-
-TEMOZOLOMIDE is contraindicated in patients who have a history of hypersensitivity reaction (such as urticaria, allergic reaction including anaphylaxis, toxic epidermal necrolysis, and Stevens-Johnson syndrome) to any of its components.
-TEMOZOLOMIDE is also contraindicated in patients who have a history of hypersensitivity to dacarbazine (DTIC), since both drugs are metabolized to 5-(3-methyltriazen-1-yl)-imidazole-4-carboxamide (MTIC).
+TEMOZOLOMIDE is contraindicated in patients with a history of hypersensitivity reactions to: • temozolomide or any other ingredients in TEMOZOLOMIDE; and • dacarbazine, since both temozolomide and dacarbazine are metabolized to the same active metabolite 5-(3-methyltriazen-1-yl)-imidazole-4-carboxamide.
+Reactions to TEMOZOLOMIDE have included anaphylaxis [see Adverse Reactions (6.2)].

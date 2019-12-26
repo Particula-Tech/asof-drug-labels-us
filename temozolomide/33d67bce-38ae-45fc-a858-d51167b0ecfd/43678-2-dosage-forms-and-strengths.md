@@ -1,6 +1,6 @@
-# 3 DOSAGE FORMS & STRENGTHS
+# 3 DOSAGE FORMS AND STRENGTHS
 
-· TEMOZOLOMIDE Capsules for oral administration
+· TEMOZOLOMIDE Capsules, USP for oral administration
 
 5-mg: Capsules have opaque white bodies with opaque green caps.
 The capsule body is imprinted with the dosage strength.
