@@ -107,7 +107,7 @@ In the SAD trials, 82% of patients were treated with 300 mg per day, and 18% wer
 The mean daily dose was 270 mg per day.
 The mean duration of bupropion exposure was 126 days.
 
-In a clinical trial of bupropion immediate-release in MDD subjects with stable congestive heart failure (N=36), bupropion was associated with an exacerbation of pre-existing hypertension in 2 subjects, leading to discontinuation of bupropion treatment.
+In a clinical trial of bupropion immediate-release in MDD subjects with stable congestive heart failure (CHF) (N=36), bupropion was associated with an exacerbation of pre-existing hypertension in 2 subjects, leading to discontinuation of bupropion treatment.
 There are no controlled studies assessing the safety of bupropion in patients with a recent history of myocardial infarction or unstable cardiac disease.
 
 ## 5.5 Activation of Mania/Hypomania

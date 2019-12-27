@@ -45,7 +45,7 @@ Table 2: Treatment Discontinuation Due to Adverse Reactions in Placebo-Controlle
 In clinical trials with bupropion HCl immediate-release, 10% of patients and volunteers discontinued due to an adverse reaction.
 Reactions resulting in discontinuation (in addition to those listed above for the sustained-release formulation) included vomiting, seizures, and sleep disturbances.
 
-Adverse Reactions Occurring at an Incidence of greater than 1% in Patients Treated with Bupropion HCl Immediate-Release or Bupropion HCl Sustained-Release in MDD
+Adverse Reactions Occurring at an Incidence of >1% in Patients Treated with Bupropion HCl Immediate-Release or Bupropion HCl Sustained-Release in MDD
 
 Table 3 summarizes the adverse reactions that occurred in placebo-controlled trials in patients treated with bupropion HCl sustained-release 300 mg/day and 400 mg/day.
 These include reactions that occurred in either the 300 mg or 400 mg group at an incidence of 1% or more and were more frequent than in the placebo group.
@@ -58,7 +58,7 @@ Table 3: Adverse Reactions in Placebo-Controlled Trials in Patients with MDD
 | Infection | 6% |  | 8% | 9% |
 | Abdominal pain | 2% |  | 3% | 9% |
 | Asthenia | 2% |  | 2% | 4% |
-| Chest Pain | 1% |  | 3% | 4% |
+| Chest pain | 1% |  | 3% | 4% |
 | Pain | 2% |  | 2% | 3% |
 | Fever | __ |  | 1% | 2% |
 | Cardiovascular Palpitation | 2% |  | 2% | 6% |

@@ -20,7 +20,7 @@ Periodically reassess the need for maintenance treatment and the appropriate dos
 
 The recommended starting dose for SAD is 150 mg once daily.
 After 7 days of dosing, the dose may be increased to the target dose of 300 mg once daily in the morning.
-Doses above 300 mg of bupropion HCl extended-release were not assessed in the SAD trials.
+Doses above 300 mg of bupropion hydrochloride extended-release were not assessed in the SAD trials.
 
 For the prevention of seasonal MDD episodes associated with SAD, initiate bupropion hydrochloride extended-release tablets (XL) in the autumn, prior to the onset of depressive symptoms.
 Continue treatment through the winter season.

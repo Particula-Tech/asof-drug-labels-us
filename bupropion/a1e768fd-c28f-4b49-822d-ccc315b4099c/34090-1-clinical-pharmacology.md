@@ -4,7 +4,7 @@
 
 The mechanism of action of bupropion is unknown, as is the case with other antidepressants.
 However, it is presumed that this action is mediated by noradrenergic and/or dopaminergic mechanisms.
-Bupropion is a relatively weak inhibitor of the neuronal uptake of norepinephrine and dopamine, and does not inhibit monoamine oxidase or the reuptake of serotonin.
+Bupropion is a relatively weak inhibitor of the neuronal uptake of norepinephrine and dopamine and does not inhibit monoamine oxidase or the reuptake of serotonin.
 
 ## 12.3 Pharmacokinetics
 

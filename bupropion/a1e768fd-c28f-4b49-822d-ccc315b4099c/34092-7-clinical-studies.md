@@ -24,12 +24,12 @@ Although there are no independent trials demonstrating the efficacy of bupropion
 
 The efficacy of bupropion hydrochloride extended-release tablets (XL) in the prevention of seasonal major depressive episodes associated with SAD was established in 3 randomized, double-blind, placebo-controlled trials in adult outpatients with a history of MDD with an autumn-winter seasonal pattern (as defined by DSM-IV criteria).
 Bupropion treatment was initiated prior to the onset of symptoms in the autumn (September to November).
-Treatment was discontinued following a 2 week taper that began during the first week of spring (fourth week of March), resulting in a treatment duration of approximately 4 to 6 months for the majority of patients.
+Treatment was discontinued following a 2-week taper that began during the first week of spring (fourth week of March), resulting in a treatment duration of approximately 4 to 6 months for the majority of patients.
 Patients were randomized to treatment with bupropion hydrochloride extended-release tablets (XL) or placebo.
 The initial bupropion dose was 150 mg once daily for 1 week, followed by up-titration to 300 mg once daily.
 Patients who were deemed by the investigator to be unlikely or unable to tolerate 300 mg once daily were allowed to remain on, or had their dose reduced to, 150 mg once daily.
 The mean bupropion doses in the 3 trials ranged from 257 mg to 280 mg per day.
-Approximately 59% of patients continued in the study for 3 to 6 months; 26% continued for ˂3 months, 15% continued for greater than 6 months.
+Approximately 59% of patients continued in the study for 3 to 6 months; 26% continued for ˂3 months, 15% continued for >6 months.
 
 To enter the trials, patients must have had a low level of depressive symptoms, as demonstrated by a score of ˂7 on the Hamilton Depression Rating Scale-17 (HAMD17) and a HAMD24 score of ˂14.
 The primary efficacy measure was the Structured Interview Guide for the Hamilton Depression Rating Scale, Seasonal Affective Disorders (SIGH-SAD), which is identical to the HAMD24.

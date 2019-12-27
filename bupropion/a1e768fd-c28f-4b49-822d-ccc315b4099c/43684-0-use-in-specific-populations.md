@@ -2,30 +2,44 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Category C
+Pregnancy Exposure Registry
+
+There is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to antidepressants during pregnancy.
+Healthcare providers are encouraged to register patients by calling the National Pregnancy Registry for Antidepressants at 1-844-405-6185 or visiting online at https://womensmentalhealth.org/clinical-and-research-programs/pregnancyregistry/antidepressants/.
 
 Risk Summary
 
-Data from epidemiological studies including pregnant women exposed to bupropion in the first trimester indicate no increased risk of congenital malformations overall.
-All pregnancies regardless of drug exposure have a background rate of 2% to 4% for major malformations and 15% to 20% for pregnancy loss.
-No clear evidence of teratogenic activity was found in reproductive developmental studies conducted in rats and rabbits.
-However, in rabbits, slightly increased incidences of fetal malformations and skeletal variations were observed at doses approximately equal to the maximum recommended human dose (MRHD) and greater and decreased fetal weights were seen at doses twice the MRHD and greater.
-Bupropion hydrochloride extended-release tablets (XL) should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
+Data from epidemiological studies of pregnant women exposed to bupropion in the first trimester have not identified an increased risk of congenital malformations overall (see Data).
+There are risks to the mother associated with untreated depression (see Clinical Considerations).
+When bupropion was administered to pregnant rats during organogenesis, there was no evidence of fetal malformations at doses up to approximately 10 times the maximum recommended human dose (MRHD) of 450 mg/day.
+When given to pregnant rabbits during organogenesis, non-dose-related increases in incidence of fetal malformations and skeletal variations were observed at doses approximately equal to the MRHD and greater.
+Decreased fetal weights were seen at doses twice the MRHD and greater (see Animal Data).
+
+The estimated background risk for major birth defects and miscarriage are unknown for the indicated population.
+All pregnancies have a background rate of birth defect, loss, or other adverse outcomes.
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively.
 
 Clinical Considerations
 
-Consider the risk of untreated depression when discontinuing or changing treatment with antidepressant medications during pregnancy and postpartum.
+Disease-associated maternal and/or embryo/fetal risk
+
+A prospective, longitudinal study followed 201 pregnant women with a history of major depressive disorder who were euthymic and taking antidepressants during pregnancy at the beginning of pregnancy.
+The women who discontinued antidepressants during pregnancy were more likely to experience a relapse of major depression than women who continued antidepressants.
+Consider the risks to the mother of untreated depression and potential effects on the fetus when discontinuing or changing treatment with antidepressant medications during pregnancy and postpartum.
+
+Data
 
 Human Data
 
-Data from an international bupropion Pregnancy registry (675 first trimester exposures) and a retrospective cohort study using the United Healthcare database (1,213 first trimester exposures) did not show an increased risk for malformations overall.
+Data from the international bupropion Pregnancy Registry (675 first trimester exposures) and a retrospective cohort study using the United Healthcare database (1,213 first trimester exposures) did not show an increased risk for malformations overall.
+The Registry was not designed or powered to evaluate specific defects but suggested a possible increase in cardiac malformations.
 
 No increased risk for cardiovascular malformations overall has been observed after bupropion exposure during the first trimester.
 The prospectively observed rate of cardiovascular malformations in pregnancies with exposure to bupropion in the first trimester from the international Pregnancy Registry was 1.3% (9 cardiovascular malformations/675 first-trimester maternal bupropion exposures), which is similar to the background rate of cardiovascular malformations (approximately 1%).
-Data from the United Healthcare database and a case-controlled study (6,853 infants with cardiovascular malformations and 5,753 with non-cardiovascular malformations) from the National Birth Defects Prevention Study (NBDPS) did not show an increased risk for cardiovascular malformations overall after bupropion exposure during the first trimester.
+Data from the United Healthcare database, which has a limited number of exposed cases with cardiovascular malformations, and a case-controlled study (6,853 infants with cardiovascular malformations and 5,753 with non-cardiovascular malformations) from the National Birth Defects Prevention Study (NBDPS) did not show an increased risk for cardiovascular malformations overall after bupropion exposure during the first trimester.
 
 Study findings on bupropion exposure during the first trimester and risk left ventricular outflow tract obstruction (LVOTO) are inconsistent and do not allow conclusions regarding possible association.
-The United Healthcare database lacked sufficient power to evaluate this association; the NBDPS found increased risk for LVOTO (n = 10; adjusted OR = 2.6; 95% CI 1.2, 5.7) and the Slone Epidemiology case control study did not find increased risk for LVOTO.
+The United Healthcare database lacked sufficient power to evaluate this association; the NBDPS found increased risk for LVOTO (n = 10; adjusted odds ratio (OR) = 2.6; 95% CI 1.2, 5.7) and the Slone Epidemiology case control study did not find increased risk for LVOTO.
 
 Study findings on bupropion exposure during the first trimester and risk for ventricular septal defect (VSD) are inconsistent and do not allow conclusions regarding a possible association.
 The Slone Epidemiology Study found an increased risk for VSD following first trimester maternal bupropion exposure (n = 17; adjusted OR = 2.5; 95% CI: 1.3, 5.0) but did not find an increased risk for any other cardiovascular malformations studied (including LVOTO as above).
@@ -35,17 +49,29 @@ For the findings of LVOTO and VSD, the studies were limited by the small number 
 
 Animal Data
 
-In studies conducted in rats and rabbits, bupropion was administered orally at doses of up to 450 and 150 mg/kg/day, respectively (approximately 11 and 7 times the MRHD, respectively, on a mg/m2 basis), during the period of organogenesis.
-No clear evidence of teratogenic activity was found in either species; however, in rabbits, slightly increased incidences of fetal malformations and skeletal variations were observed at the lowest dose tested (25 mg/kg/day, approximately equal to the MRHD on a mg/m2 basis) and greater.
-Decreased fetal weights were observed at 50 mg/kg and greater.
-When rats were administered bupropion at oral doses of up to 300 mg/kg/day (approximately 7 times the MRHD on a mg/m2 basis) prior to mating and throughout pregnancy and lactation, there were no apparent adverse effects on offspring development.
+In studies conducted in pregnant rats and rabbits, bupropion was administered orally during the period of organogenesis at doses of up to 450 and 150 mg/kg/day, respectively (approximately 10 and 6 times the MRHD, respectively, on a mg/m2 basis).
+There was no evidence of fetal malformations in rats.
+When given to pregnant rabbits during organogenesis, non-dose-related increases in incidence of fetal malformations and skeletal variations were observed at the lowest dose tested (25 mg/kg/day, approximately equal to the MRHD on a mg/m2 basis) and greater.
+Decreased fetal weights were observed at doses of 50 mg/kg/day (approximately 2 times the MRHD on a mg/m2 basis) and greater.
+No maternal toxicity was evident at doses of 50 mg/kg/day or less.
 
-## 8.3 Nursing Mothers
+In a pre- and postnatal development study, bupropion administered orally to pregnant rats at doses of up to 150 mg/kg/day (approximately 3 times the MRHD on a mg/m2 basis) from embryonic implantation through lactation had no effect on pup growth or development.
 
-Bupropion and its metabolites are present in human milk.
+## 8.2 Lactation
+
+Risk Summary
+
+Data from published literature report the presence of bupropion and its metabolites in human milk (see Data).
+There are no data on the effects of bupropion or its metabolites on milk production.
+Limited data from postmarketing reports have not identified a clear association of adverse reactions in the breastfed infant.
+The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for bupropion hydrochloride extended-release tablets (XL) and any potential adverse effects on the breastfed child from bupropion hydrochloride extended-release tablets (XL) or from the underlying maternal condition.
+
+Data
+
 In a lactation study of ten women, levels of orally dosed bupropion and its active metabolites were measured in expressed milk.
 The average daily infant exposure (assuming 150 mL/kg daily consumption) to bupropion and its active metabolites was 2% of the maternal weight-adjusted dose.
-Exercise caution when bupropion hydrochloride extended-release tablets (XL) are administered to a nursing woman.
+Postmarketing reports have described seizures in breastfed infants.
+The relationship of bupropion exposure and these seizures is unclear.
 
 ## 8.4 Pediatric Use
 

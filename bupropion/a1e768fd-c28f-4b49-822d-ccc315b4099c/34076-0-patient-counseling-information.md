@@ -20,7 +20,7 @@ Symptoms such as these may be associated with an increased risk for suicidal thi
 
 Neuropsychiatric Adverse Events and Suicide Risk in Smoking Cessation Treatment
 
-Although bupropion hydrochloride extended-release tablets (XL) are not indicated for smoking cessation treatment, it contains the same active ingredient as ZYBAN® which is approved for this use.
+Although bupropion hydrochloride extended-release tablets (XL) are not indicated for smoking cessation treatment, it contains the same active ingredient as ZYBAN which is approved for this use.
 Inform patients that some patients have experienced changes in mood (including depression and mania), psychosis, hallucinations, paranoia, delusions, homicidal ideation, aggression, hostility, agitation, anxiety, and panic, as well as suicidal ideation and suicide when attempting to quit smoking while taking bupropion.
 Instruct patients to discontinue bupropion hydrochloride extended-release tablets (XL) and contact a healthcare professional if they experience such symptoms [see Warnings and Precautions (5.2) and Adverse Reactions (6.2)].
 
@@ -38,7 +38,7 @@ Angle-Closure Glaucoma
 
 Patients should be advised that taking bupropion hydrochloride extended-release tablets (XL) can cause mild pupillary dilation, which in susceptible individuals, can lead to an episode of angle-closure glaucoma.
 Pre-existing glaucoma is almost always open-angle glaucoma because angle-closure glaucoma, when diagnosed, can be treated definitively with iridectomy.
-Open-angle glaucoma is not a risk factor for angle closure glaucoma.
+Open-angle glaucoma is not a risk factor for angle-closure glaucoma.
 Patients may wish to be examined to determine whether they are susceptible to angle closure, and have a prophylactic procedure (e.g., iridectomy), if they are susceptible [see Warnings and Precautions (5.7)].
 
 Bupropion-Containing Products
@@ -58,12 +58,8 @@ Counsel patients to notify their healthcare provider if they are taking or plan 
 
 Pregnancy
 
-Advise patients to notify their healthcare provider if they become pregnant or intend to become pregnant during therapy.
-
-Precautions for Nursing Mothers
-
-Communicate with the patient and pediatric healthcare provider regarding the infant’s exposure to bupropion through human milk.
-Instruct patients to immediately contact the infant’s healthcare provider if they note any side effect in the infant that concerns them or is persistent.
+Advise patients to notify their healthcare provider if they become pregnant or intend to become pregnant during therapy with bupropion hydrochloride extended-release tablets (XL).
+Advise patients that there is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to bupropion hydrochloride extended-release tablets (XL) during pregnancy [see Use in Specific Populations (8.1)].
 
 Administration Information
 
@@ -78,4 +74,5 @@ Manufactured by: Actavis Laboratories FL, Inc. Fort Lauderdale, FL 33314 USA
 
 Distributed by: Actavis Pharma, Inc. Parsippany, NJ 07054 USA
 
-Revised:September 2017
+Rev.
+A 12/2019
