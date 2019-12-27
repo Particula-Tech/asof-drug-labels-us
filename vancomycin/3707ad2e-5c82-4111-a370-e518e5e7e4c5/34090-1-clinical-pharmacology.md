@@ -39,4 +39,4 @@ Gram-positive bacteria
 
 Anaerobic gram-positive bacteria
 
-Clostridium difficile isolates associated with C. difficile associated diarrhea.
+1. Clostridium difficile isolates associated with C. difficile associated diarrhea.

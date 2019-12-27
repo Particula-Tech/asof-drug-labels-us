@@ -49,5 +49,5 @@ Thrombocytopenia has been reported.
 
 Miscellaneous: Patients have been reported to have had anaphylaxis, drug fever, chills, nausea, eosinophilia, rashes (including exfoliative dermatitis), Stevens-Johnson syndrome, toxic epidermal necrolysis, and rare cases of vasculitis in association with the administration of vancomycin.
 
-A condition has been reported that is similar to the IV–induced syndrome with symptoms consistent with anaphylactoid reactions, including hypotension, wheezing, dyspnea, urticaria, pruritus, flushing of the upper body (“Red Man Syndrome”), pain and muscle spasm of the chest and back.
+A condition has been reported that is similar to the IV-induced syndrome with symptoms consistent with anaphylactoid reactions, including hypotension, wheezing, dyspnea, urticaria, pruritus, flushing of the upper body (“Red Man Syndrome”), pain and muscle spasm of the chest and back.
 These reactions usually resolve within 20 minutes but may persist for several hours.
