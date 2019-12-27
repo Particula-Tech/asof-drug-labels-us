@@ -2,7 +2,7 @@
 
 ## 14.1 Outcomes in Adults
 
-0At 48 Weeks The safety and efficacy of entecavir tablets in adults were evaluated in three Phase 3 active-controlled trials.
+At 48 Weeks The safety and efficacy of entecavir tablets in adults were evaluated in three Phase 3 active-controlled trials.
 These studies included 1633 subjects 16 years of age or older with chronic hepatitis B virus infection (serum HBsAg-positive for at least 6 months) accompanied by evidence of viral replication (detectable serum HBV DNA, as measured by the bDNA hybridization or PCR assay).
 Subjects had persistently elevated ALT levels at least 1.3 times ULN and chronic inflammation on liver biopsy compatible with a diagnosis of chronic viral hepatitis.
 The safety and efficacy of entecavir tablets were also evaluated in a study of 191 HBV-infected subjects with decompensated liver disease and in a study of 68 subjects co­infected with HBV and HIV.
@@ -15,15 +15,16 @@ The mean age of subjects was 44 years, 76% were male, 39% were Asian, 58% were C
 At baseline, subjects had a mean Knodell Necroinflammatory Score of 7.8, mean serum HBV DNA as measured by Roche COBAS Amplicor PCR assay was 7.58 log10 copies/mL, and mean serum ALT level was 142 U/L.
 Paired, adequate liver biopsy samples were available for 88% of subjects.
 In Studies AI463022 and AI463027, entecavir tablets were superior to lamivudine on the primary efficacy endpoint of Histologic Improvement, defined as a 2-point or greater reduction in Knodell Necroinflammatory Score with no worsening in Knodell Fibrosis Score at Week 48, and on the secondary efficacy measures of reduction in viral load and ALT normalization.
-Histologic Improvement and change in Ishak Fibrosis Score are shown in Table 6.
-Selected virologic, biochemical, and serologic outcome measures are shown in Table 7.
+Histologic Improvement and change in Ishak Fibrosis Score are shown in Table 8.
+Selected virologic, biochemical, and serologic outcome measures are shown in Table 9.
 
-| Table 6: | Histologic Improvement and Change in Ishak Fibrosis Score at Week 48, Nucleoside-Inhibitor-Naïve Subjects in Studies AI463022 and AI463027 |  |  |  |
+| Table 8: | Histologic Improvement and Change in Ishak Fibrosis Score at Week 48, Nucleoside-Inhibitor-Naïve Subjects in Studies AI463022 and AI463027 |  |  |  |
 | --- | --- | --- | --- | --- |
 |  | Study AI463022 (HBeAg-Positive) |  | Study AI463027 (HBeAg-Negative) |  |
 |  | Entecavir Tablets 0.5 mg n=314a | Lamivudine 100 mg n=314 a | Entecavir Tablets 0.5 mg n=296 a | Lamivudine 100 mg n=287 a |
 | Histologic Improvement (Knodell Scores) |  |  |  |  |
 | Improvementb | 72% | 62% | 70% | 61% |
+| No impovement | 21% | 24% | 19% | 26% |
 | Ishak Fibrosis Score |  |  |  |  |
 | Improvementc | 39% | 35% | 36% | 38% |
 | No change | 46% | 40% | 41% | 34% |
@@ -32,7 +33,7 @@ Selected virologic, biochemical, and serologic outcome measures are shown in Tab
 
 a Subjects with evaluable baseline histology (baseline Knodell Necroinflammatory Score >2). b >2-point decrease in Knodell Necroinflammatory Score from baseline with no worsening of the Knodell Fibrosis Score. c For Ishak Fibrosis Score, improvement = >1-point decrease from baseline and worsening = >1-point increase from baseline.
 
-| Table 7: | Selected Virologic, Biochemical, and Serologic Endpoints at Week 48, Nucleoside-Inhibitor-Naïve Subjects in Studies AI463022 and AI463027 |  |  |  |  |
+| Table 9: | Selected Virologic, Biochemical, and Serologic Endpoints at Week 48, Nucleoside-Inhibitor-Naïve Subjects in Studies AI463022 and AI463027 |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
 |  |  | Study AI463022 (HBeAg-Positive) |  | Study AI463027 (HBeAg-Negative) |  |
 |  |  | Entecavir Tablets 0.5 mg n=354 | Lamivudine 100 mg n=355 | Entecavir Tablets 0.5 mg n=325 | Lamivudine 100 mg n=313 |
@@ -51,10 +52,10 @@ The mean duration of prior lamivudine therapy was 2.7 years, and 85% had lamivud
 At baseline, subjects had a mean Knodell Necroinflammatory Score of 6.5, mean serum HBV DNA as measured by Roche COBAS Amplicor PCR assay was 9.36 log10 copies/mL, and mean serum ALT level was 128 U/L.
 Paired, adequate liver biopsy samples were available for 87% of subjects.
 Entecavir tablets were superior to lamivudine on a primary endpoint of Histologic Improvement (using the Knodell Score at Week 48).
-These results and change in Ishak Fibrosis Score are shown in Table 8.
-Table 9 shows selected virologic, biochemical, and serologic endpoints.
+These results and change in Ishak Fibrosis Score are shown in Table 10.
+Table 11 shows selected virologic, biochemical, and serologic endpoints.
 
-| Table 8: | Histologic Improvement and Change in Ishak Fibrosis Score at Week 48, Lamivudine-Refractory Subjects in Study AI463026 |  |  |
+| Table 10: | Histologic Improvement and Change in Ishak Fibrosis Score at Week 48, Lamivudine-Refractory Subjects in Study AI463026 |  |  |
 | --- | --- | --- | --- |
 |  |  | Entecavir Tablets 1 mg n=124a | Lamivudine 100 mg n=116a |
 | Histologic Improvement (Knodell Scores) |  |  |  |
@@ -68,7 +69,7 @@ Table 9 shows selected virologic, biochemical, and serologic endpoints.
 
 a Subjects with evaluable baseline histology (baseline Knodell Necroinflammatory Score >2). b ≥2-point decrease in Knodell Necroinflammatory Score from baseline with no worsening of the Knodell Fibrosis Score. c For Ishak Fibrosis Score, improvement = >1-point decrease from baseline and worsening = >1-point increase from baseline.
 
-| Table 9: | Selected Virologic, Biochemical, and Serologic Endpoints at Week 48, Lamivudine-Refractory Subjects in Study AI463026 |  |  |
+| Table 11: | Selected Virologic, Biochemical, and Serologic Endpoints at Week 48, Lamivudine-Refractory Subjects in Study AI463026 |  |  |
 | --- | --- | --- | --- |
 |  |  | Entecavir Tablets 1 mg n=141 | Lamivudine 100 mg n=145 |
 | HBV DNAa |  |  |  |
@@ -85,9 +86,9 @@ Two subjects randomized to treatment with adefovir dipivoxil actually received t
 The mean age of subjects was 52 years, 74% were male, 54% were Asian, 33% were Caucasian, and 5% were Black/African American.
 At baseline, subjects had a mean serum HBV DNA by PCR of 7.83 log10 copies/mL and mean ALT level of 100 U/L; 54% of subjects were HBeAg­positive; 35% had genotypic evidence of lamivudine resistance.
 The baseline mean CTP score was 8.6.
-Results for selected study endpoints at Week 48 are shown in Table 10.
+Results for selected study endpoints at Week 48 are shown in Table 12.
 
-| Table 10: | Selected Endpoints at Week 48, Subjects with Decompensated Liver Disease, Study AI463048 |  |  |
+| Table 12: | Selected Endpoints at Week 48, Subjects with Decompensated Liver Disease, Study AI463048 |  |  |
 | --- | --- | --- | --- |
 |  |  | Entecavir Tablets 1 mg n=100a | Adefovir Dipivoxil 10 mg n=91a |
 | HBV DNAb |  |  |  |
@@ -103,11 +104,11 @@ Subjects continued their lamivudine-containing HAART regimen (lamivudine dose 30
 At baseline, subjects had a mean serum HBV DNA level by PCR of 9.13 log10 copies/mL.
 Ninety-nine percent of subjects were HBeAg-positive at baseline, with a mean baseline ALT level of 71.5 U/L.
 Median HIV RNA level remained stable at approximately 2 log10 copies/mL through 24 weeks of blinded therapy.
-Virologic and biochemical endpoints at Week 24 are shown in Table 11.
+Virologic and biochemical endpoints at Week 24 are shown in Table 13.
 There are no data in patients with HIV/HBV co-infection who have not received prior lamivudine therapy.
 Entecavir tablets have not been evaluated in HIV/HBV co-infected patients who were not simultaneously receiving effective HIV treatment [see Warnings and Precautions (5.2)].
 
-| Table 11: | Virologic and Biochemical Endpoints at Week 24, Study AI463038 |  |  |
+| Table 13: | Virologic and Biochemical Endpoints at Week 24, Study AI463038 |  |  |
 | --- | --- | --- | --- |
 |  |  | Entecavir Tablets 1 mga n=51 | Placeboa n=17 |
 | HBV DNAb |  |  |  |
@@ -116,7 +117,6 @@ Entecavir tablets have not been evaluated in HIV/HBV co-infected patients who we
 | ALT normalization (<1 x ULN) |  | 34%c | 8%c |
 
 a All subjects also received a lamivudine-containing HAART regimen. b Roche COBAS Amplicor PCR assay (LLOQ = 300 copies/mL). c Percentage of subjects with abnormal ALT (>1 x ULN) at baseline who achieved ALT normalization (n=35 for entecavir tablets and n=12 for placebo).
-
 For subjects originally assigned to entecavir tablets, at the end of the open-label phase (Week 48), 8% of subjects had HBV DNA <300 copies/mL by PCR, the mean change from baseline HBV DNA by PCR was −4.20 log10 copies/mL, and 37% of subjects with abnormal ALT at baseline had ALT normalization (≤1 x ULN).
 Beyond 48 Weeks The optimal duration of therapy with entecavir tablets are unknown.
 According to protocol-mandated criteria in the Phase 3 clinical trials, subjects discontinued entecavir tablets or lamivudine treatment after 52 weeks according to a definition of response based on HBV virologic suppression (<0.7 MEq/mL by bDNA assay) and loss of HBeAg (in HBeAg-positive subjects) or ALT <1.25 x ULN (in HBeAg-negative subjects) at Week 48.
@@ -133,11 +133,20 @@ In this small cohort continuing treatment in Year 2, 22 entecavir tablets and 16
 Among nucleoside-inhibitor-naïve, HBeAg-negative subjects, 275(85%) entecavir tablets subjects and 245 (78%) lamivudine subjects met the definition of response at Week 48, discontinued study drugs, and were followed off treatment for 24 weeks.
 In this cohort, very few subjects in each treatment arm had HBV DNA <300 copies/mL by PCR at the end of follow-up.
 At the end of follow-up, 126 (46%) entecavir tablets subjects and 84 (34%) lamivudine subjects had ALT ≤1 x ULN.
-
 Lamivudine-refractory Subjects Among lamivudine-refractory subjects (Study A1463026), 77 (55%) entecavir tablets-treated subjects and 3 (2%) lamivudine subjects continued blinded treatment for up to 96 weeks.
-In this cohort of entecavir tablets subjects, 31 (40%) subjects achieved HBV DNA <300 copies/mL, 62 (81%) subjects had ALT ≤1 x ULN, and 8 (10%) subjects demonstrated HBeAg seroconversion at the end of dosing.
+In this cohort of entecavir tablets subjects, 31 (40%) subjects achieved HBV DNA <300 copies/mL, 62 (81%) subjects had ALT ≤1 x ULN, and 8 (10%) subjects demonstrated HBeAg seroconversion at the end of dosing..
 
 ## 14.2 Outcomes in Pediatric Subjects
 
-Pediatric use information is approved for Bristol-Myers Squibb Company' s Baraclude® (entecavir) tablets.
-However, due to Bristol-Myers Squibb Company’s marketing exclusivity rights, this drug product is not labeled with that information.
+The pharmacokinetics, safety and antiviral activity of entecavir tablets in pediatric subjects were initially assessed in Study AI463028.
+Twenty-four treatment-naïve and 19 lamivudine experienced HBeAg-positive pediatric subjects 2 to less than 18 years of age with compensated CHB and elevated ALT were treated with entecavir tablets 0.015 mg/kg (up to 0.5 mg) or 0.03 mg/kg (up to 1 mg) once daily.
+Fifty-eight percent (14/24) of treatment-naïve subjects and 47% (9/19) of lamivudine-experienced subjects achieved HBV DNA <50 IU/mL at Week 48 and ALT normalized in 83% (20/24) of treatment-naïve and 95% (18/19) of lamivudine-experienced subjects.
+Safety and antiviral efficacy were confirmed in Study AI463189, an ongoing study of entecavir tablets among 180 nucleoside-inhibitor-treatment-naïve pediatric subjects 2 to less than 18 years of age with HBeAg-positive chronic hepatitis B infection, compensated liver disease, and elevated ALT.
+Subjects were randomized 2:1 to receive blinded treatment with entecavir tablets 0.015 mg/kg up to 0.5 mg/day (N=120) or placebo (N=60).
+The randomization was stratified by age group (2 to 6 years; >6 to 12 years; and >12 to <18 years).
+Baseline demographics and HBV disease characteristics were comparable between the 2 treatment arms and across age cohorts.
+At study entry, the mean HBV DNA was 8.1 log10 IU/mL and mean ALT was 103 U/L.
+The primary efficacy endpoint was a composite of HBeAg seroconversion and serum HBV DNA <50 IU/mL at Week 48 assessed in the first 123 subjects reaching 48 weeks of blinded treatment.
+Twenty-four percent (20/82) of subjects in the entecavir tablets -treated group and 2% (1/41) of subjects in the placebo-treated group met the primary endpoint.
+Forty-six percent (38/82) of entecavir tablets treated subjects and 2% (1/41) of placebo-treated subjects achieved HBV DNA <50 IU/mL at Week 48.
+ALT normalization occurred in 67% (55/82) of entecavir tablets -treated subjects and 22% (9/41) of placebo-treated subjects; 24% (20/82) of entecavir tablets -treated subjects and 12% (5/41) of placebo-treated subjects had HBeAg seroconversion.

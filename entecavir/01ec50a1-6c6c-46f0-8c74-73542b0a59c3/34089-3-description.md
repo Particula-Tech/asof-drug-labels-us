@@ -1,6 +1,6 @@
 # 11 DESCRIPTION
 
-Entecavir tablet is a guanosine nucleoside analogue with selective activity against HBV.
+Entecavir tablet USP is a guanosine nucleoside analogue with selective activity against HBV.
 The chemical name for entecavir is 2-Amino-1,9-dihydro-9-[(1S, 3R, 4S)-4­hydroxy-3-(Hydroxymethyl)-2-methylenecyclopentyl]-6H-purin-6-one, Monohydrate.
 Its molecular formula is C12H15N5O3•H2O, which corresponds to a molecular weight of 295.29.
 Entecavir has the following structural formula:

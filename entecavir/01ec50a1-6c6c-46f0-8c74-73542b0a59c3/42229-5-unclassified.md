@@ -77,4 +77,4 @@ Pediatric use information is approved for Bristol-Myers Squibb Company’s Barac
 However, due to Bristol-Myers Squibb Company’s marketing exclusivity rights, this drug product is not labeled with that information.
 
 Manufactured for: Camber Pharmaceuticals, Inc. Piscataway, NJ 08854.
-Manufactured by: By: HETEROTM HETERO LABS LIMITED, Unit V, Polepally, Jadcherla, Mahaboob Nagar-509 301, India This Patient Information has been approved by the U.S. Food and Drug Administration.
+Manufactured by: By: HETEROTM HETERO LABS LIMITED, Unit V, Polepally, Jadcherla, Mahabubnagar-509 301, India This Patient Information has been approved by the U.S. Food and Drug Administration.
