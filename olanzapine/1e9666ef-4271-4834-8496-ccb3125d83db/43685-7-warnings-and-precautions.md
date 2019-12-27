@@ -5,7 +5,7 @@
 Increased Mortality
 
 Elderly patients with dementia-related psychosis treated with antipsychotic drugs are at an increased risk of death.
-Olanzapine for injection is not approved for the treatment of patients with dementia-related psychosis [see Boxed Warning, Warnings and Precautions (5.14) and Patient Counseling Information (17.2)].
+Olanzapine for injection is not approved for the treatment of patients with dementia-related psychosis [see Boxed Warning, Warnings and Precautions (5.14), and Patient Counseling Information (17)].
 
 In placebo-controlled clinical trials of elderly patients with dementia-related psychosis, the incidence of death in olanzapine-treated patients was significantly greater than placebo-treated patients (3.5% vs 1.5%, respectively).
 
@@ -13,7 +13,7 @@ Cerebrovascular Adverse Events (CVAE), Including Stroke
 
 Cerebrovascular adverse events (e.g., stroke, transient ischemic attack), including fatalities, were reported in patients in trials of olanzapine in elderly patients with dementia-related psychosis.
 In placebo-controlled trials, there was a significantly higher incidence of cerebrovascular adverse events in patients treated with olanzapine compared to patients treated with placebo.
-Olanzapine is not approved for the treatment of patients with dementia-related psychosis [seeBoxed Warning and Patient Counseling Information (17.2)].
+Olanzapine is not approved for the treatment of patients with dementia-related psychosis [see Boxed Warning and Patient Counseling Information (17)].
 
 ## 5.2 Suicide
 
@@ -34,14 +34,14 @@ The management of NMS should include: 1) immediate discontinuation of antipsycho
 There is no general agreement about specific pharmacological treatment regimens for NMS.
 
 If a patient requires antipsychotic drug treatment after recovery from NMS, the potential reintroduction of drug therapy should be carefully considered.
-The patient should be carefully monitored, since recurrences of NMS have been reported [see Patient Counseling Information(17.3)].
+The patient should be carefully monitored, since recurrences of NMS have been reported [see Patient Counseling Information (17)].
 
 ## 5.4 Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS)
 
 Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS) has been reported with olanzapine exposure.
 DRESS may present with a cutaneous reaction (such as rash or exfoliative dermatitis), eosinophilia, fever, and/or lymphadenopathy with systemic complications such as hepatitis, nephritis, pneumonitis, myocarditis, and/or pericarditis.
 DRESS is sometimes fatal.
-Discontinue olanzapine if DRESS is suspected [see Patient Counseling Information (17.4)].
+Discontinue olanzapine if DRESS is suspected [see Patient Counseling Information (17)].
 
 ## 5.5 Metabolic Changes
 
@@ -51,12 +51,12 @@ Olanzapine's specific metabolic profile is presented below.
 
 Hyperglycemia and Diabetes Mellitus
 
-Physicians should consider the risks and benefits when prescribing olanzapine to patients with an established diagnosis of diabetes mellitus, or having borderline increased blood glucose level (fasting 100 to 126 mg/dL, nonfasting 140 to 200 mg/dL).
+Healthcare providers should consider the risks and benefits when prescribing olanzapine to patients with an established diagnosis of diabetes mellitus, or having borderline increased blood glucose level (fasting 100 to 126 mg/dL, nonfasting 140 to 200 mg/dL).
 Patients taking olanzapine should be monitored regularly for worsening of glucose control.
 Patients starting treatment with olanzapine should undergo fasting blood glucose testing at the beginning of treatment and periodically during treatment.
 Any patient treated with atypical antipsychotics should be monitored for symptoms of hyperglycemia including polydipsia, polyuria, polyphagia, and weakness.
 Patients who develop symptoms of hyperglycemia during treatment with atypical antipsychotics should undergo fasting blood glucose testing.
-In some cases, hyperglycemia has resolved when the atypical antipsychotic was discontinued; however, some patients required continuation of anti-diabetic treatment despite discontinuation of the suspect drug [see Patient Counseling Information(17.5)].
+In some cases, hyperglycemia has resolved when the atypical antipsychotic was discontinued; however, some patients required continuation of anti-diabetic treatment despite discontinuation of the suspect drug [see Patient Counseling Information (17)].
 
 Hyperglycemia, in some cases extreme and associated with ketoacidosis or hyperosmolar coma or death, has been reported in patients treated with atypical antipsychotics including olanzapine.
 Assessment of the relationship between atypical antipsychotic use and glucose abnormalities is complicated by the possibility of an increased background risk of diabetes mellitus in patients with schizophrenia and the increasing incidence of diabetes mellitus in the general population.
@@ -115,7 +115,7 @@ Table 3: Changes in Fasting Glucose Levels from Adolescent Olanzapine Monotherap
 Dyslipidemia
 
 Undesirable alterations in lipids have been observed with olanzapine use.
-Clinical monitoring, including baseline and periodic follow-up lipid evaluations in patients using olanzapine, is recommended [see Patient Counseling Information(17.6)].
+Clinical monitoring, including baseline and periodic follow-up lipid evaluations in patients using olanzapine, is recommended [see Patient Counseling Information (17)].
 
 Clinically significant, and sometimes very high (>500 mg/dL), elevations in triglyceride levels have been observed with olanzapine use.
 Modest mean increases in total cholesterol have also been seen with olanzapine use.
@@ -164,7 +164,7 @@ In phase 1 of CATIE, the mean increase in total cholesterol was 9.4 mg/dL.
 Olanzapine Monotherapy in Adolescents
 
 The safety and efficacy of olanzapine have not been established in patients under the age of 13 years.
-In an analysis of 3 placebo-controlled olanzapine monotherapy studies of adolescents, including those with schizophrenia (6 weeks) or bipolar I disorder (manic or mixed episodes) (3 weeks), olanzapine-treated adolescents had increases from baseline in mean fasting total cholesterol, LDL cholesterol, and triglycerides of 12.9 mg/dL, 6.5 mg/dL, and 28.4 mg/dL, respectively, compared to increases from baseline in mean fasting total cholesterol and LDL cholesterol of 1.3 mg/dL and 1mg/dL, and a decrease in triglycerides of 1.1 mg/dL for placebo-treated adolescents.
+In an analysis of 3 placebo-controlled olanzapine monotherapy studies of adolescents, including those with schizophrenia (6 weeks) or bipolar I disorder (manic or mixed episodes) (3 weeks), olanzapine-treated adolescents had increases from baseline in mean fasting total cholesterol, LDL cholesterol, and triglycerides of 12.9 mg/dL, 6.5 mg/dL, and 28.4 mg/dL, respectively, compared to increases from baseline in mean fasting total cholesterol and LDL cholesterol of 1.3 mg/dL and 1 mg/dL, and a decrease in triglycerides of 1.1 mg/dL for placebo-treated adolescents.
 For fasting HDL cholesterol, no clinically meaningful differences were observed between olanzapine-treated adolescents and placebo-treated adolescents.
 
 In long-term studies (at least 24 weeks), adolescents had increases from baseline in mean fasting total cholesterol, LDL cholesterol, and triglycerides of 5.5 mg/dL, 5.4 mg/dL, and 20.5 mg/dL, respectively, and a mean decrease in fasting HDL cholesterol of 4.5 mg/dL.
@@ -199,7 +199,7 @@ Table 5: Changes in Fasting Lipids Values from Adolescent Olanzapine Monotherapy
 Weight Gain
 
 Potential consequences of weight gain should be considered prior to starting olanzapine.
-Patients receiving olanzapine should receive regular monitoring of weight [see Patient Counseling Information(17.7)].
+Patients receiving olanzapine should receive regular monitoring of weight [see Patient Counseling Information(17)].
 
 Olanzapine Monotherapy in Adults
 
@@ -277,7 +277,7 @@ Whether antipsychotic drug products differ in their potential to cause tardive d
 The risk of developing tardive dyskinesia and the likelihood that it will become irreversible are believed to increase as the duration of treatment and the total cumulative dose of antipsychotic drugs administered to the patient increase.
 However, the syndrome can develop, although much less commonly, after relatively brief treatment periods at low doses or may even arise after discontinuation of treatment.
 
-There is no known treatment for established cases of tardive dyskinesia, although the syndrome may remit, partially or completely, if antipsychotic treatment is withdrawn.
+Tardive dyskinesia may remit, partially or completely, if antipsychotic treatment is withdrawn.
 Antipsychotic treatment, itself, however, may suppress (or partially suppress) the signs and symptoms of the syndrome and thereby may possibly mask the underlying process.
 The effect that symptomatic suppression has upon the long-term course of the syndrome is unknown.
 
@@ -293,15 +293,15 @@ For specific information about the warnings of lithium or valproate, refer to th
 
 ## 5.7 Orthostatic Hypotension
 
-Olanzapine may induce orthostatic hypotension associated with dizziness, tachycardia, bradycardia and, in some patients, syncope, especially during the initial dose-titration period, probably reflecting its α1-adrenergic antagonistic properties [see Patient Counseling Information(17.8)].
+Olanzapine may induce orthostatic hypotension associated with dizziness, tachycardia, bradycardia and, in some patients, syncope, especially during the initial dose-titration period, probably reflecting its α1-adrenergic antagonistic properties [see Patient Counseling Information (17)].
 
 From an analysis of the vital sign data in an integrated database of 41 completed clinical studies in adult patients treated with oral olanzapine, orthostatic hypotension was recorded in ≥20% (1277/6030) of patients.
 
-For oral olanzapine therapy, the risk of orthostatic hypotension and syncope may be minimized by initiating therapy with 5 mg QD [see Dosage and Administration(2)].
+For oral olanzapine therapy, the risk of orthostatic hypotension and syncope may be minimized by initiating therapy with 5 mg QD [see Dosage and Administration (2)].
 A more gradual titration to the target dose should be considered if hypotension occurs.
 
 Hypotension, bradycardia with or without hypotension, tachycardia, and syncope were also reported during the clinical trials with intramuscular olanzapine for injection.
-In an open-label clinical pharmacology study in nonagitated patients with schizophrenia in which the safety and tolerability of intramuscular olanzapine were evaluated under a maximal dosing regimen (three 10 mg doses administered 4 hours apart), approximately one-third of these patients experienced a significant orthostatic decrease in systolic blood pressure (i.e., decrease ≥30 mmHg) [see Dosage and Administration(2.4)].
+In an open-label clinical pharmacology study in nonagitated patients with schizophrenia in which the safety and tolerability of intramuscular olanzapine were evaluated under a maximal dosing regimen (three 10 mg doses administered 4 hours apart), approximately one-third of these patients experienced a significant orthostatic decrease in systolic blood pressure (i.e., decrease ≥30 mmHg) [see Dosage and Administration (2.4)].
 Syncope was reported in 0.6% (15/2500) of olanzapine-treated patients in phase 2 to 3 oral olanzapine studies and in 0.3% (2/722) of olanzapine-treated patients with agitation in the intramuscular olanzapine for injection studies.
 Three normal volunteers in phase 1 studies with intramuscular olanzapine experienced hypotension, bradycardia, and sinus pauses of up to 6 seconds that spontaneously resolved (in 2 cases the reactions occurred on intramuscular olanzapine, and in 1 case, on oral olanzapine).
 The risk for this sequence of hypotension, bradycardia, and sinus pause may be greater in nonpsychiatric patients compared to psychiatric patients who are possibly more adapted to certain effects of psychotropic drugs.
@@ -309,13 +309,13 @@ For intramuscular olanzapine for injection therapy, patients should remain recum
 
 Olanzapine should be used with particular caution in patients with known cardiovascular disease (history of myocardial infarction or ischemia, heart failure, or conduction abnormalities), cerebrovascular disease, and conditions which would predispose patients to hypotension (dehydration, hypovolemia, and treatment with antihypertensive medications) where the occurrence of syncope, or hypotension and/or bradycardia might put the patient at increased medical risk.
 
-Caution is necessary in patients who receive treatment with other drugs having effects that can induce hypotension, bradycardia, respiratory or central nervous system depression [see Drug Interactions(7)].
+Caution is necessary in patients who receive treatment with other drugs having effects that can induce hypotension, bradycardia, respiratory or central nervous system depression [see Drug Interactions (7)].
 Concomitant administration of intramuscular olanzapine and parenteral benzodiazepine is not recommended due to the potential for excessive sedation and cardiorespiratory depression.
 
 ## 5.8 Falls
 
 Olanzapine may cause somnolence, postural hypotension, motor and sensory instability, which may lead to falls and, consequently, fractures or other injuries.
-For patients with diseases, conditions, or medications that could exacerbate these effects, complete fall risk assessments when initiating antipsychotic treatment and recurrently for patients on longterm antipsychotic therapy.
+For patients with diseases, conditions, or medications that could exacerbate these effects, complete fall risk assessments when initiating antipsychotic treatment and recurrently for patients on long-term antipsychotic therapy.
 
 ## 5.9 Leukopenia, Neutropenia, and Agranulocytosis
 
@@ -350,12 +350,12 @@ Somnolence was a commonly reported adverse reaction associated with olanzapine t
 This adverse reaction was also dose related.
 Somnolence led to discontinuation in 0.4% (9/2500) of patients in the premarketing database.
 
-Since olanzapine has the potential to impair judgment, thinking, or motor skills, patients should be cautioned about operating hazardous machinery, including automobiles, until they are reasonably certain that olanzapine therapy does not affect them adversely [see Patient Counseling Information(17.9)].
+Since olanzapine has the potential to impair judgment, thinking, or motor skills, patients should be cautioned about operating hazardous machinery, including automobiles, until they are reasonably certain that olanzapine therapy does not affect them adversely [see Patient Counseling Information (17)].
 
 ## 5.13 Body Temperature Regulation
 
 Disruption of the body's ability to reduce core body temperature has been attributed to antipsychotic agents.
-Appropriate care is advised when prescribing olanzapine for patients who will be experiencing conditions which may contribute to an elevation in core body temperature, e.g., exercising strenuously, exposure to extreme heat, receiving concomitant medication with anticholinergic activity, or being subject to dehydration [see Patient Counseling Information (17.10)].
+Appropriate care is advised when prescribing olanzapine for patients who will be experiencing conditions which may contribute to an elevation in core body temperature, e.g., exercising strenuously, exposure to extreme heat, receiving concomitant medication with anticholinergic activity, or being subject to dehydration [see Patient Counseling Information (17)].
 
 ## 5.14 Use in Patients with Concomitant Illness
 
@@ -368,7 +368,7 @@ Such adverse reactions were not often the basis for discontinuations from olanza
 In 5 placebo-controlled studies of olanzapine in elderly patients with dementia-related psychosis (n=1184), the following treatment-emergent adverse reactions were reported in olanzapine-treated patients at an incidence of at least 2% and significantly greater than placebo-treated patients: falls, somnolence, peripheral edema, abnormal gait, urinary incontinence, lethargy, increased weight, asthenia, pyrexia, pneumonia, dry mouth and visual hallucinations.
 The rate of discontinuation due to adverse reactions was greater with olanzapine than placebo (13% vs 7%).
 Elderly patients with dementia-related psychosis treated with olanzapine are at an increased risk of death compared to placebo.
-Olanzapine is not approved for the treatment of patients with dementia-related psychosis [see Boxed Warning, Warnings and Precautions (5.1) and Patient Counseling Information (17.2)].
+Olanzapine is not approved for the treatment of patients with dementia-related psychosis [see Boxed Warning, Warnings and Precautions (5.1), and Patient Counseling Information (17)].
 
 Olanzapine has not been evaluated or used to any appreciable extent in patients with a recent history of myocardial infarction or unstable heart disease.
 Patients with these diagnoses were excluded from premarketing clinical studies.
@@ -383,7 +383,7 @@ Galactorrhea, amenorrhea, gynecomastia, and impotence have been reported in pati
 Long-standing hyperprolactinemia when associated with hypogonadism may lead to decreased bone density in both female and male subjects.
 
 Tissue culture experiments indicate that approximately one-third of human breast cancers are prolactin dependent in vitro, a factor of potential importance if the prescription of these drugs is contemplated in a patient with previously detected breast cancer.
-As is common with compounds which increase prolactin release, an increase in mammary gland neoplasia was observed in the olanzapine carcinogenicity studies conducted in mice and rats [see Nonclinical Toxicology(13.1)].
+As is common with compounds which increase prolactin release, an increase in mammary gland neoplasia was observed in the olanzapine carcinogenicity studies conducted in mice and rats [see Nonclinical Toxicology (13.1)].
 Neither clinical studies nor epidemiologic studies conducted to date have shown an association between chronic administration of this class of drugs and tumorigenesis in humans; the available evidence is considered too limited to be conclusive at this time.
 
 In placebo-controlled olanzapine clinical studies (up to 12 weeks), changes from normal to high in prolactin concentrations were observed in 30% of adults treated with olanzapine as compared to 10.5% of adults treated with placebo.
@@ -399,7 +399,7 @@ In a pooled analysis from clinical trials including 454 adolescents treated with
 3 Based on a search of the following terms: breast discharge, enlargement or swelling, galactorrhea, gynecomastia, and lactation disorder.
 
 Dose group differences with respect to prolactin elevation have been observed.
-In a single 8-week randomized, double-blind, fixed-dose study comparing 10 (N=199), 20 (N=200) and 40 (N=200) mg/day of oral olanzapine in adult patients with schizophrenia or schizoaffective disorder, incidence of prolactin elevation >24.2 ng/mL (female) or >18.77 ng/mL (male) at any time during the trial (10 mg/day: 31.2%; 20 mg/day: 42.7%; 40 mg/day: 61.1%) indicated significant differences between 10 vs 40 mg/day and 20 vs. 40 mg/day.
+In a single 8-week randomized, double-blind, fixed-dose study comparing 10 (N=199), 20 (N=200) and 40 (N=200) mg/day of oral olanzapine in adult patients with schizophrenia or schizoaffective disorder, incidence of prolactin elevation >24.2 ng/mL (female) or >18.77 ng/mL (male) at any time during the trial (10 mg/day: 31.2%; 20 mg/day: 42.7%; 40 mg/day: 61.1%) indicated significant differences between 10 vs 40 mg/day and 20 vs 40 mg/day.
 
 ## 5.16 Use in Combination with Lithium, or Valproate
 
@@ -407,4 +407,4 @@ When using olanzapine in combination with lithium or valproate, the prescriber s
 
 ## 5.17 Laboratory Tests
 
-Fasting blood glucose testing and lipid profile at the beginning of, and periodically during, treatment is recommended [see Warnings and Precautions (5.5) and Patient Counseling Information (17.5, 17.6)].
+Fasting blood glucose testing and lipid profile at the beginning of, and periodically during, treatment is recommended [see Warnings and Precautions (5.5) and Patient Counseling Information (17)].

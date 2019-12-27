@@ -6,7 +6,7 @@ The risks of using olanzapine in combination with other drugs have not been exte
 
 Diazepam
 
-The co-administration of diazepam with olanzapine potentiated the orthostatic hypotension observed with olanzapine [see Drug Interactions(7.2)].
+The co-administration of diazepam with olanzapine potentiated the orthostatic hypotension observed with olanzapine [see Drug Interactions (7.2)].
 
 Cimetidine and Antacids
 
@@ -21,7 +21,7 @@ Higher daily doses of carbamazepine may cause an even greater increase in olanza
 Alcohol
 
 Ethanol (45 mg/70 kg single dose) did not have an effect on olanzapine pharmacokinetics.
-The co-administration of alcohol (i.e., ethanol) with olanzapine potentiated the orthostatic hypotension observed with olanzapine [seeDrug Interactions (7.2)].
+The co-administration of alcohol (i.e., ethanol) with olanzapine potentiated the orthostatic hypotension observed with olanzapine [see Drug Interactions (7.2)].
 
 Inhibitors of CYP1A2
 
@@ -39,7 +39,7 @@ The magnitude of the impact of this factor is small in comparison to the overall
 
 Warfarin
 
-Warfarin (20 mg single dose) did not affect olanzapine pharmacokinetics [see Drug Interactions(7.2)].
+Warfarin (20 mg single dose) did not affect olanzapine pharmacokinetics [see Drug Interactions (7.2)].
 
 Inducers of CYP1A2 or Glucuronyl Transferase
 
@@ -67,18 +67,17 @@ Olanzapine may antagonize the effects of levodopa and dopamine agonists.
 Lorazepam (IM)
 
 Administration of intramuscular lorazepam (2 mg) 1 hour after intramuscular olanzapine for injection (5 mg) did not significantly affect the pharmacokinetics of olanzapine, unconjugated lorazepam, or total lorazepam.
-However, this co-administration of intramuscular lorazepam and intramuscular olanzapine for injection added to the somnolence observed with either drug alone [see Warnings and Precautions(5.7)].
+However, this co-administration of intramuscular lorazepam and intramuscular olanzapine for injection added to the somnolence observed with either drug alone [see Warnings and Precautions (5.7)].
 
 Lithium
 
 Multiple doses of olanzapine (10 mg for 8 days) did not influence the kinetics of lithium.
-Therefore, concomitant olanzapine administration does not require dosage adjustment of lithium [see Warnings and Precautions(5.16)].
+Therefore, concomitant olanzapine administration does not require dosage adjustment of lithium [see Warnings and Precautions (5.16)].
 
 Valproate
 
 Olanzapine (10 mg daily for 2 weeks) did not affect the steady state plasma concentrations of valproate.
-Therefore, concomitant olanzapine administration does not require dosage adjustment of valproate.
-[see Warnings and Precautions (5.16)].
+Therefore, concomitant olanzapine administration does not require dosage adjustment of valproate [see Warnings and Precautions (5.16)].
 
 Effect of Olanzapine on Drug Metabolizing Enzymes
 
@@ -91,16 +90,16 @@ Single doses of olanzapine did not affect the pharmacokinetics of imipramine or 
 
 Warfarin
 
-Single doses of olanzapine did not affect the pharmacokinetics of warfarin [see Drug Interactions(7.1)].
+Single doses of olanzapine did not affect the pharmacokinetics of warfarin [see Drug Interactions (7.1)].
 
 Diazepam
 
 Olanzapine did not influence the pharmacokinetics of diazepam or its active metabolite N-desmethyldiazepam.
-However, diazepam co-administered with olanzapine increased the orthostatic hypotension observed with either drug given alone [see Drug Interactions(7.1)].
+However, diazepam co-administered with olanzapine increased the orthostatic hypotension observed with either drug given alone [see Drug Interactions (7.1)].
 
 Alcohol
 
-Multiple doses of olanzapine did not influence the kinetics of ethanol [see Drug Interactions(7.1)].
+Multiple doses of olanzapine did not influence the kinetics of ethanol [see Drug Interactions (7.1)].
 
 Biperiden
 

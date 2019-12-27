@@ -29,7 +29,7 @@ The entire label should be read to gain a complete understanding of the safety p
 
 The prescriber should be aware that the figures in the tables and tabulations cannot be used to predict the incidence of side effects in the course of usual medical practice where patient characteristics and other factors differ from those that prevailed in the clinical trials.
 Similarly, the cited frequencies cannot be compared with figures obtained from other clinical investigations involving different treatments, uses, and investigators.
-The cited figures, however, do provide the prescribing physician with some basis for estimating the relative contribution of drug and nondrug factors to the adverse reactions incidence in the population studied.
+The cited figures, however, do provide the prescribing healthcare provider with some basis for estimating the relative contribution of drug and nondrug factors to the adverse reactions incidence in the population studied.
 
 Incidence of Adverse Reactions in Short-Term, Placebo-Controlled and Combination Trials
 
@@ -53,9 +53,7 @@ Commonly Observed Adverse Reactions in Short-Term, Placebo-Controlled Trials
 
 The most commonly observed adverse reactions associated with the use of oral olanzapine (incidence of 5% or greater) and not observed at an equivalent incidence among placebo-treated patients (olanzapine incidence at least twice that for placebo) were:
 
-Table 9: Common Treatment-Emergent Adverse Reactions Associated
-
-with the Use of Oral Olanzapine in 6-Week Trials — SCHIZOPHRENIA
+Table 9: Common Treatment-Emergent Adverse Reactions Associated with the Use of Oral Olanzapine in 6-Week Trials — SCHIZOPHRENIA
 
 |  | Percentage of Patients Reporting Event |  |
 | --- | --- | --- |
@@ -86,11 +84,11 @@ Table 10: Common Treatment-Emergent Adverse Reactions Associated with the Use of
 Olanzapine Intramuscular — There was 1 adverse reaction (somnolence) observed at an incidence of 5% or greater among intramuscular olanzapine for injection-treated patients and not observed at an equivalent incidence among placebo-treated patients (olanzapine incidence at least twice that for placebo) during the placebo-controlled premarketing studies.
 The incidence of somnolence during the 24 hour IM treatment period in clinical trials in agitated patients with schizophrenia or bipolar I mania was 6% for intramuscular olanzapine for injection and 3% for placebo.
 
-Adverse Reactions Occurring at an Incidence of 2% or More among Oral Olanzapine-Treated Patients in Short-Term,Placebo-Controlled Trials
+Adverse Reactions Occurring at an Incidence of 2% or More among Oral Olanzapine-Treated Patients in Short-Term, Placebo-Controlled Trials
 
 Table 11 enumerates the incidence, rounded to the nearest percent, of treatment-emergent adverse reactions that occurred in 2% or more of patients treated with oral olanzapine (doses ≥2.5 mg/day) and with incidence greater than placebo who participated in the acute phase of placebo-controlled trials.
 
-Table 11: Treatment-Emergent Adverse Reactions:Incidence in Short-Term, Placebo-Controlled Clinical Trials with Oral Olanzapine
+Table 11: Treatment-Emergent Adverse Reactions: Incidence in Short-Term, Placebo-Controlled Clinical Trials with Oral Olanzapine
 
 |  | Percentage of Patients Reporting Event |  |
 | --- | --- | --- |
@@ -255,7 +253,7 @@ Table 15: Treatment-Emergent Adverse Reactions: Incidence in Short-Term (24 Hour
 | Dizziness | 4 | 2 |
 | Tremor | 1 | 0 |
 
-## 6.2 Extrapyramidal Symptoms
+### Extrapyramidal Symptoms
 
 The following table enumerates the percentage of patients with treatment-emergent extrapyramidal symptoms as assessed by categorical analyses of formal rating scales during acute therapy in a controlled clinical trial comparing oral olanzapine at 3 fixed doses with placebo in the treatment of schizophrenia in a 6-week trial.
 
@@ -312,7 +310,7 @@ Table 18: Treatment-Emergent Extrapyramidal Symptoms Assessed by Adverse Reactio
 *Categories are based on Standard MedDRA Queries (SMQ) for extrapyramidal symptoms as defined in MedDRA version 12.0.
 
 The following table enumerates the percentage of patients with treatment-emergent extrapyramidal symptoms as assessed by categorical analyses of formal rating scales during controlled clinical trials comparing fixed doses of intramuscular olanzapine for injection with placebo in agitation.
-Patients in each dose group could receive up to 3 injections during the trials [see Clinical Studies(14.3)].
+Patients in each dose group could receive up to 3 injections during the trials [see Clinical Studies (14.3)].
 Patient assessments were conducted during the 24 hours following the initial dose of intramuscular olanzapine for injection.
 
 Table 19: Treatment-Emergent Extrapyramidal Symptoms Assessed by Rating Scales Incidence in a Fixed Dose, Placebo-Controlled Clinical Trial of Intramuscular Olanzapine for Injection in Agitated Patients with Schizophrenia
@@ -351,12 +349,14 @@ Table 20: Treatment-Emergent Extrapyramidal Symptoms Assessed by Adverse Reactio
 
 ¶Patients with the following COSTART terms were counted in this category: movement disorder, myoclonus, twitching.
 
-Dystonia, Class Effect: Symptoms of dystonia, prolonged abnormal contractions of muscle groups, may occur in susceptible individuals during the first few days of treatment.
+Dystonia, Class Effect
+
+Symptoms of dystonia, prolonged abnormal contractions of muscle groups, may occur in susceptible individuals during the first few days of treatment.
 Dystonic symptoms include: spasm of the neck muscles, sometimes progressing to tightness of the throat, swallowing difficulty, difficulty breathing, and/or protrusion of the tongue.
 While these symptoms can occur at low doses, the frequency and severity are greater with high potency and at higher doses of first generation antipsychotic drugs.
 In general, an elevated risk of acute dystonia may be observed in males and younger age groups receiving antipsychotics; however, events of dystonia have been reported infrequently (<1%) with olanzapine use.
 
-## 6.3 Other Adverse Reactions
+### Other Adverse Reactions
 
 Other Adverse Reactions Observed During the Clinical Trial Evaluation of Oral Olanzapine
 
@@ -372,7 +372,7 @@ Digestive System — Infrequent: abdominal distension, nausea and vomiting, tong
 
 Hemic and Lymphatic System — Infrequent: thrombocytopenia.
 
-Metabolic and Nutritional Disorders — Frequent: alkaline phosphatase increased, Infrequent: bilirubinemia, hypoproteinemia.
+Metabolic and Nutritional Disorders — Frequent: alkaline phosphatase increased; Infrequent: bilirubinemia, hypoproteinemia.
 
 Musculoskeletal System — Rare: osteoporosis.
 
@@ -503,9 +503,9 @@ ECG Changes
 
 In pooled studies of adults as well as pooled studies of adolescents, there were no significant differences between olanzapine and placebo in the proportions of patients experiencing potentially important changes in ECG parameters, including QT, QTc (Fridericia corrected), and PR intervals.
 Olanzapine use was associated with a mean increase in heart rate compared to placebo (adults: +2.4 beats per minute vs no change with placebo; adolescents: +6.3 beats per minute vs -5.1 beats per minute with placebo).
-This increase in heart rate may be related to olanzapine’s potential for inducing orthostatic changes [see Warnings and Precautions(5.7)].
+This increase in heart rate may be related to olanzapine’s potential for inducing orthostatic changes [see Warnings and Precautions (5.7)].
 
-## 6.4 Postmarketing Experience
+## 6.2 Postmarketing Experience
 
 The following adverse reactions have been identified during post-approval use of olanzapine injection.
 Because these reactions are reported voluntarily from a population of uncertain size, it is difficult to reliably estimate their frequency or evaluate a causal relationship to drug exposure.

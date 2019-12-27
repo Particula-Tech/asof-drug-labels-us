@@ -6,11 +6,11 @@ Dose Selection for Agitated Adult Patients with Schizophrenia and Bipolar I Mani
 
 The efficacy of intramuscular olanzapine for injection in controlling agitation in these disorders was demonstrated in a dose range of 2.5 mg to 10 mg.
 The recommended dose in these patients is 10 mg.
-A lower dose of 5 or 7.5 mg may be considered when clinical factors warrant [see Clinical Studies(14.3)].
+A lower dose of 5 or 7.5 mg may be considered when clinical factors warrant [see Clinical Studies (14.3)].
 If agitation warranting additional intramuscular doses persists following the initial dose, subsequent doses up to 10 mg may be given.
 However, the efficacy of repeated doses of intramuscular olanzapine for injection in agitated patients has not been systematically evaluated in controlled clinical trials.
 Also, the safety of total daily doses greater than 30 mg, or 10 mg injections given more frequently than 2 hours after the initial dose, and 4 hours after the second dose have not been evaluated in clinical trials.
-Maximal dosing of intramuscular olanzapine (e.g., 3 doses of 10 mg administered 2 to 4 hours apart) may be associated with a substantial occurrence of significant orthostatic hypotension [see Warnings and Precautions(5.7)].
+Maximal dosing of intramuscular olanzapine (e.g., 3 doses of 10 mg administered 2 to 4 hours apart) may be associated with a substantial occurrence of significant orthostatic hypotension [see Warnings and Precautions (5.7)].
 Thus, it is recommended that patients requiring subsequent intramuscular injections be assessed for orthostatic hypotension prior to the administration of any subsequent doses of intramuscular olanzapine for injection.
 The administration of an additional dose to a patient with a clinically significant postural change in systolic blood pressure is not recommended.
 
@@ -19,7 +19,7 @@ If ongoing olanzapine therapy is clinically indicated, oral olanzapine may be in
 Intramuscular Dosing in Special Populations
 
 A dose of 5 mg/injection should be considered for geriatric patients or when other clinical factors warrant.
-A lower dose of 2.5 mg/injection should be considered for patients who otherwise might be debilitated, be predisposed to hypotensive reactions, or be more pharmacodynamically sensitive to olanzapine [see Warnings and Precautions(5.14),Drug Interactions (7), and Clinical Pharmacology (12.3)].
+A lower dose of 2.5 mg/injection should be considered for patients who otherwise might be debilitated, be predisposed to hypotensive reactions, or be more pharmacodynamically sensitive to olanzapine [see Warnings and Precautions (5.14), Drug Interactions (7), and Clinical Pharmacology (12.3)].
 
 Administration of Olanzapine for Injection
 

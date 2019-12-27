@@ -2,20 +2,14 @@
 
 ## 12.1 Mechanism of Action
 
-The mechanism of action of olanzapine, as with other drugs having efficacy in schizophrenia, is unknown.
-However, it has been proposed that this drug's efficacy in schizophrenia is mediated through a combination of dopamine and serotonin type 2 (5HT2) antagonism.
-The mechanism of action of olanzapine in the treatment of acute manic or mixed episodes associated with bipolar I disorder is unknown.
+The mechanism of action of olanzapine, in the listed indications is unclear.
+However, the efficacy of olanzapine in schizophrenia could be mediated through a combination of dopamine and serotonin type 2 (5HT2) antagonism.
 
 ## 12.2 Pharmacodynamics
 
 Olanzapine binds with high affinity to the following receptors: serotonin 5HT2A/2C, 5HT6 (Ki=4, 11, and 5 nM, respectively), dopamine D1-4 (Ki=11-31 nM), histamine H1 (Ki=7 nM), and adrenergic α1 receptors (Ki =19 nM).
 Olanzapine is an antagonist with moderate affinity binding for serotonin 5HT3 (Ki=57 nM) and muscarinic M1-5 (Ki=73, 96, 132, 32, and 48 nM, respectively).
-Olanzapine binds weakly to GABAA, BZD, and β-adrenergic receptors (Ki>10 μM).
-
-Antagonism at receptors other than dopamine and 5HT2 may explain some of the other therapeutic and side effects of olanzapine.
-Olanzapine's antagonism of muscarinic M1-5 receptors may explain its anticholinergic-like effects.
-Olanzapine's antagonism of histamine H1 receptors may explain the somnolence observed with this drug.
-Olanzapine's antagonism of adrenergic α1 receptors may explain the orthostatic hypotension observed with this drug.
+Olanzapine binds with low affinity to GABAA, BZD, and β-adrenergic receptors (Ki>10 μM).
 
 ## 12.3 Pharmacokinetics
 
@@ -71,7 +65,7 @@ Although the presence of hepatic impairment may be expected to reduce the cleara
 Geriatric
 
 In a study involving 24 healthy subjects, the mean elimination half-life of olanzapine was about 1.5 times greater in elderly (≥65 years) than in nonelderly subjects (<65 years).
-Caution should be used in dosing the elderly, especially if there are other factors that might additively influence drug metabolism and/or pharmacodynamic sensitivity [see Dosage and Administration(2)].
+Caution should be used in dosing the elderly, especially if there are other factors that might additively influence drug metabolism and/or pharmacodynamic sensitivity [see Dosage and Administration (2)].
 
 Gender
 
@@ -92,6 +86,6 @@ Combined Effects
 
 The combined effects of age, smoking, and gender could lead to substantial pharmacokinetic differences in populations.
 The clearance in young smoking males, for example, may be 3 times higher than that in elderly nonsmoking females.
-Dosing modification may be necessary in patients who exhibit a combination of factors that may result in slower metabolism of olanzapine [see Dosage and Administration(2)].
+Dosing modification may be necessary in patients who exhibit a combination of factors that may result in slower metabolism of olanzapine [see Dosage and Administration (2)].
 
 Adolescents (ages 13 to 17 years) — In clinical studies, most adolescents were nonsmokers and this population had a lower average body weight, which resulted in higher average olanzapine exposure compared to adults.
