@@ -1,6 +1,15 @@
 # 13 NONCLINICAL TOXICOLOGY
 
-## 13.1 Carcinogenesis & Mutagenesis & Impairment Of Fertility
+## 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
 
-No increase in tumors was seen in rats receiving baclofen orally for two years at approximately 30 to 60 times on a mg/kg basis, or 10 to 20 times on a mg/m 2 basis, the maximum oral dose recommended for human use.
+Carcinogenesis
+
+No increase in tumors was seen in rats receiving baclofen orally for two years.
+
+Mutagenesis
+
 Mutagenicity assays with baclofen have not been performed.
+
+Impairment of Fertility
+
+Studies to assess the potential for adverse effects of baclofen on fertility have not been conducted.

@@ -1,9 +1,8 @@
 # 6 ADVERSE REACTIONS
 
-Because clinical studies are conducted under widely varying conditions, adverse reaction rates observed in the clinical studies of a drug cannot be directly compared to rates in the clinical studies of another drug and may not reflect the rates observed in clinical practice.
-In a recent clinical study, 153 adult and pediatric patients with spasticity of spinal cord or cerebral origin were treated with Gablofen 3,000 mcg/mL.
-The adverse reactions seen in this study were similar to that found with lower concentrations of Gablofen.
-6.1 Spasticity of Spinal Cord Origin Most Common Adverse Reactions in Patients with Spasticity of Spinal Origin In pre- and post-marketing clinical trials, the most common adverse reactions associated with use of intrathecal baclofen which were not seen at an equivalent incidence among placebo-treated patients were: somnolence, dizziness, nausea, hypotension, headache, convulsions and hypotonia.
+6.1 Spasticity of Spinal Cord Origin
+
+Most Common Adverse Reactions in Patients with Spasticity of Spinal Origin In pre- and post-marketing clinical trials, the most common adverse reactions associated with use of intrathecal baclofen which were not seen at an equivalent incidence among placebo-treated patients were: somnolence, dizziness, nausea, hypotension, headache, convulsions and hypotonia.
 Adverse Reactions Associated with Discontinuation of Treatment 8/474 patients with spasticity of spinal cord origin receiving long term infusion of intrathecal baclofen in pre- and post-marketing clinical studies in the U.S. discontinued treatment due to adverse reactions.
 These include: pump pocket infections (3), meningitis (2), wound dehiscence (1), gynecological fibroids (1) and pump overpressurization (1) with unknown, if any, sequela.
 Eleven patients who developed coma secondary to overdose had their treatment temporarily suspended, but all were subsequently re-started and were not, therefore, considered to be true discontinuations.
@@ -114,17 +113,16 @@ Table 2: Most Common (≥1%) Adverse Reactions in Patients with Spasticity of Ce
 | Diarrhea | 0.5 | 0.7 | 2.0 |
 | Peripheral Edema | 0.0 | 0.0 | 3.3 |
 | Thinking Abnormal | 0.5 | 1.3 | 0.7 |
-| Impotence | 0.5 | 0.0 | 1.3 |
-| Agitation | 0.0 | 0.0 | 2.0 |
-| Asthenia | 0.5 | 0.0 | 1.3 |
+| Agitation | 0.5 | 0.0 | 1.3 |
+| Asthenia | 0.0 | 0.0 | 2.0 |
 | Chills | 0.5 | 0.0 | 1.3 |
 | Coma | 0.5 | 0.0 | 1.3 |
-| Dry Mouth | 0.0 | 0.0 | 2.0 |
-| Pneumonia | 0.5 | 0.7 | 0.7 |
-| Speech Disorder | 0.5 | 0.0 | 1.3 |
-| Tremor | 0.0 | 0.0 | 2.0 |
+| Dry Mouth | 0.5 | 0.0 | 1.3 |
+| Pneumonia | 0.0 | 0.0 | 2.0 |
+| Speech Disorder | 0.5 | 0.7 | 0.7 |
+| Tremor | 0.5 | 0.0 | 1.3 |
 | Urinary Incontinence | 0.0 | 0.0 | 2.0 |
-| Urination Impaired | 2.4 | 14.4 | 34.7 |
+| Urination Impaired | 0.0 | 0.0 | 2.0 |
 
 * Following administration of test bolus † Two month period following implant ‡ Beyond two months following implant N=Total number of patients entering each period.
 211 patients received drug; (1 of 212) received placebo only The more common (1% or more) adverse reactions reported in the prospectively followed 211 patients exposed to intrathecal baclofen have been reported.

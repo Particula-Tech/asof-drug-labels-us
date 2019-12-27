@@ -2,7 +2,7 @@
 
 5.1 Risk of Life-Threatening Overdose During Pump Refills
 
-Use extreme caution when filling pumps equipped with an injection port that allows direct access to the intrathecal catheter.
+Use extreme caution when filling the Medtronic SynchroMed ® II Programmable Pump which is equipped with an injection port that allows direct access to the intrathecal catheter.
 Direct injection into the catheter through the catheter access port may cause a life-threatening overdose.
 
 Reservoir refilling must be performed by fully trained and qualified personnel following the directions provided by the pump manufacturer.
@@ -21,7 +21,7 @@ Procedures should also be put in place while refilling implantable intrathecal p
 
 5.3 Prescriber, Caregiver and Patient Training and Screening Procedure/Post-Implantation Environment
 
-GABLOFEN is for use in single bolus intrathecal injections (via a catheter placed in the lumbar intrathecal space or injection by lumbar puncture) and in implantable pumps labeled for intrathecal administration of GABLOFEN.
+GABLOFEN is for use in single bolus intrathecal injections (via a catheter placed in the lumbar intrathecal space or injection by lumbar puncture) and in the implantable Medtronic SynchroMed® II Programmable Pump or other pumps labeled for intrathecal administration of GABLOFEN.
 Because of the possibility of potentially life-threatening CNS depression, cardiovascular collapse, and/or respiratory failure, physicians must be adequately trained and educated in chronic intrathecal infusion therapy.
 
 The pump system should not be implanted until the patient's response to bolus GABLOFEN injection is adequately evaluated.
@@ -47,8 +47,8 @@ In cases reported to date, overdose has generally been related to pump malfuncti
 
 Extreme caution must be used when filling the implantable pump.
 
-Pumps should only be refilled through the reservoir refill septum.
-Use extreme caution when filling a pump which is equipped with an injection port that allows direct access to the intrathecal catheter.
+Medtronic SynchroMed ® II Programmable Pump should only be refilled through the reservoir refill septum.
+The Medtronic SynchroMed ® II Programmable Pump is also equipped with a catheter access port that allows direct access to the intrathecal catheter.
 Direct injection into this catheter access port may cause a life-threatening overdose.
 
 5.5 Withdrawal

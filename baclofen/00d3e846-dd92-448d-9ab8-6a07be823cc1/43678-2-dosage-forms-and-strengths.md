@@ -1,4 +1,4 @@
-# 3 DOSAGE FORMS & STRENGTHS
+# 3 DOSAGE FORMS AND STRENGTHS
 
 GABLOFEN is a sterile, pyrogen-free, isotonic solution free of antioxidants, preservatives or other potentially neurotoxic additives indicated only for intrathecal administration.
 The drug is stable in solution at 37°C and compatible with CSF.
