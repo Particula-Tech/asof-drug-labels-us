@@ -1,63 +1,55 @@
 # Package/Label Display Panel
 
-## Pravastatin Sodium Tablets USP 10 mg 1000s Label Text
+## Pravastatin Sodium Tablets USP 10 mg 90s Label Text
 
-NDC 0093-0771-10
+NDC 0093-0771-98
 
-Pravastatin
-
-Sodium Tablets USP 10 mg
+Pravastatin Sodium Tablets USP 10 mg
 
 Rx only
 
-1000 TABLETS
+90 TABLETS
 
 TEVA
 
 # Package/Label Display Panel
 
-## Pravastatin Sodium Tablets USP 20 mg 1000s Label Text
+## Pravastatin Sodium Tablets USP 20 mg 90s Label Text
 
-NDC 0093-7201-10
+NDC 0093-7201-98
 
-Pravastatin
-
-Sodium Tablets USP 20 mg
+Pravastatin Sodium Tablets USP 20 mg
 
 Rx only
 
-1000 TABLETS
+90 TABLETS
 
 TEVA
 
 # Package/Label Display Panel
 
-## Pravastatin Sodium Tablets USP 40 mg 1000s Label Text
+## Pravastatin Sodium Tablets USP 40 mg 90s Label Text
 
-NDC 0093-7202-10
+NDC 0093-7202-98
 
-Pravastatin
-
-Sodium Tablets USP 40 mg
+Pravastatin Sodium Tablets USP 40 mg
 
 Rx only
 
-1000 TABLETS
+90 TABLETS
 
 TEVA
 
 # Package/Label Display Panel
 
-## Pravastatin Sodium Tablets USP 80 mg 1000s Label Text
+## Pravastatin Sodium Tablets USP 80 mg 90s Label Text
 
-NDC 0093-7270-10
+NDC 0093-7270-98
 
-Pravastatin
-
-Sodium Tablets, USP 80 mg
+Pravastatin Sodium Tablets, USP 80 mg
 
 Rx only
 
-1000 TABLETS
+90 TABLETS
 
 TEVA
