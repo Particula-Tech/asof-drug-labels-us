@@ -1,11 +1,14 @@
-Distributed by: Amarin Pharma Inc. Bedminster, NJ, USA
+AMARIN®
 
-Manufactured for: Amarin Pharmaceuticals Ireland Limited Dublin, Ireland +1-855-VASCEPA (+1-855-827-2372)
+VASCEPA® (icosapent ethyl)
 
-www.VASCEPA.com
+Distributed by: Amarin Pharma, Inc. Bridgewater, NJ, USA
+
+Manufactured for: Amarin Pharmaceuticals Ireland Limited Dublin, Ireland
 
 VASCEPA is a registered trademark of the Amarin group of companies
 
-©2016 Amarin Pharma, Inc. Bedminster NJ 07921 All rights reserved
+©2019 Amarin Pharma, Inc. Bridgewater NJ 08807.
+All rights reserved
 
-P00120K 2/2017
+P00120M 12/2019

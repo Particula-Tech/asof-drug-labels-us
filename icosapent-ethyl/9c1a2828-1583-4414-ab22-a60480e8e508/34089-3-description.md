@@ -1,6 +1,6 @@
 # 11 DESCRIPTION
 
-VASCEPA, a lipid-regulating agent, is supplied as either a 0.5-gram or a 1-gram amber-colored, liquid-filled soft gelatin capsule for oral administration.
+VASCEPA, a lipid-regulating agent, is supplied as either a 0.5 gram or a 1 gram amber-colored, liquid-filled soft gelatin capsule for oral use.
 
 Each VASCEPA capsule contains either 0.5 grams of icosapent ethyl (in a 0.5 gram capsule) or 1 gram of icosapent ethyl (in a 1 gram capsule).
 Icosapent ethyl is an ethyl ester of the omega-3 fatty acid eicosapentaenoic acid (EPA).

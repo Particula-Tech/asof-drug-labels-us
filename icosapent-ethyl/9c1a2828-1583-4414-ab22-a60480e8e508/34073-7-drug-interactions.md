@@ -1,7 +1,7 @@
 # 7 DRUG INTERACTIONS
 
-## 7.1 Anticoagulants
+## 7.1 Increased Bleeding Risk with Anticoagulants and Antiplatelet Agents
 
 Some published studies with omega-3 fatty acids have demonstrated prolongation of bleeding time.
 The prolongation of bleeding time reported in those studies has not exceeded normal limits and did not produce clinically significant bleeding episodes.
-Patients receiving treatment with VASCEPA and other drugs affecting coagulation (e.g., anti-platelet agents) should be monitored periodically.
+Monitor patients receiving VASCEPA and concomitant anticoagulants and/or antiplatelet agents for bleeding.

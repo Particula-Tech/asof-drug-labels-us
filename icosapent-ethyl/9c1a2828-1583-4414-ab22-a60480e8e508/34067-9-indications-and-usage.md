@@ -1,14 +1,12 @@
 # 1 INDICATIONS AND USAGE
 
-VASCEPA® (icosapent ethyl) is indicated as an adjunct to diet to reduce triglyceride (TG) levels in adult patients with severe (≥500 mg/dL) hypertriglyceridemia.
+VASCEPA® (icosapent ethyl) is indicated:
 
-Usage Considerations: Patients should be placed on an appropriate lipid-lowering diet and exercise regimen before receiving VASCEPA and should continue this diet and exercise regimen with VASCEPA.
-
-Attempts should be made to control any medical problems such as diabetes mellitus, hypothyroidism, and alcohol intake that may contribute to lipid abnormalities.
-Medications known to exacerbate hypertriglyceridemia (such as beta blockers, thiazides, estrogens) should be discontinued or changed, if possible, prior to consideration of TG-lowering drug therapy.
+- as an adjunct to maximally tolerated statin therapy to reduce the risk of myocardial infarction, stroke, coronary revascularization, and unstable angina requiring hospitalization in adult patients with elevated triglyceride (TG) levels (≥ 150 mg/dL) and
+  - established cardiovascular disease or
+  - diabetes mellitus and 2 or more additional risk factors for cardiovascular disease.
+- as an adjunct to diet to reduce TG levels in adult patients with severe (≥ 500 mg/dL) hypertriglyceridemia.
 
 Limitations of Use:
 
 The effect of VASCEPA on the risk for pancreatitis in patients with severe hypertriglyceridemia has not been determined.
-
-The effect of VASCEPA on cardiovascular mortality and morbidity in patients with severe hypertriglyceridemia has not been determined.
