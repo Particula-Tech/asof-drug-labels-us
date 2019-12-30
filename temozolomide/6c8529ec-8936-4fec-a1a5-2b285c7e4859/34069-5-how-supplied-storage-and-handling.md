@@ -32,7 +32,7 @@ Bottles of 5: NDC 65162-803-51
 
 Bottles of 14: NDC 65162-803-14
 
-Temozolomide capsules, 140 mg, are supplised as size “0” hard gelatin capsules with blue opaque color caps imprinted “AMNEAL” and white opaque color bodies imprinted “804” with black ink.
+Temozolomide capsules, 140 mg, are supplied as size “0” hard gelatin capsules with blue opaque color caps imprinted “AMNEAL” and white opaque color bodies imprinted “804” with black ink.
 
 They are available as follows:
 

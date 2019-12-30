@@ -1,7 +1,5 @@
 # PATIENT INFORMATION
 
-Patient Information
-
 Temozolomide (TEM-oh-ZOE-loe-mide) Capsules
 
 What is the most important information I should know about temozolomide capsules?
@@ -44,7 +42,7 @@ Tell your doctor about all your medical conditions, including if you:
   You and your doctor should decide if you will breast-feed or take temozolomide capsules.
   You should not do both without talking with your doctor.
 
-Tell your doctor about all the medicines you take, including prescription and nonprescription medicines, vitamins, and herbal supplements.
+Tell your doctor about all the medicines you take, including prescription and non-prescription medicines, vitamins, and herbal supplements.
 Especially tell your doctor if you take a medicine that contains valproic acid (Stavzor®, Depakene®).
 
 Know the medicines you take.
@@ -229,9 +227,9 @@ Temozolomide Capsules 180 mg: The red cap contains FD&C Blue #1, FD&C Red #40, g
 
 Temozolomide Capsules 250 mg: The white cap contains gelatin and titanium dioxide.
 
-*The trademarks depicted in this piece are owned by their respective companies.
+*The trademarks depicted herein are owned by their respective companies.
 
 Distributed by: Amneal Pharmaceuticals LLC Bridgewater, NJ 08807
 
 Rev.
-1-2017-02
+12-2017-03

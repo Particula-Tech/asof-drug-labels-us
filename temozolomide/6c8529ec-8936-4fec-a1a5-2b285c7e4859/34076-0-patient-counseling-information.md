@@ -1,8 +1,6 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-See FDA-Approved Patient Labeling (Patient Information).
-
-## 17.1 Information for the Patient
+Advise the patient to read the FDA-approved patient labeling (Patient Information).
 
 Physicians should discuss the following with their patients:
 
@@ -14,7 +12,11 @@ Physicians should discuss the following with their patients:
 
 - The medication should be kept away from children and pets.
 
-Distributed by: Amneal Pharmaceuticals LLC Bridgewater, NJ 08807
+Distributed by:
+
+Amneal Pharmaceuticals LLC
+
+Bridgewater, NJ 08807
 
 Rev.
-08-2017-05
+12-2017-06

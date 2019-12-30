@@ -2,7 +2,7 @@
 
 ## 12.1 Mechanism of Action
 
-Temozolomide is not directly active but undergoes rapid nonenzymatic conversion at physiologic pH to the reactive compound 5-(3-methyltriazen1-yl)-imidazole-4-carboxamide (MTIC).
+Temozolomide is not directly active but undergoes rapid nonenzymatic conversion at physiologic pH to the reactive compound 5-(3-methyltriazen-1-yl)-imidazole-4-carboxamide (MTIC).
 The cytotoxicity of MTIC is thought to be primarily due to alkylation of DNA.
 Alkylation (methylation) occurs mainly at the O6 and N7 positions of guanine.
 

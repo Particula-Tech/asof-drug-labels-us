@@ -10,13 +10,11 @@ The most common adverse reactions across the cumulative temozolomide experience 
 Forty-nine percent (49%) of patients treated with temozolomide reported one or more severe or life-threatening reactions, most commonly fatigue (13%), convulsions (6%), headache (5%), and thrombocytopenia (5%).
 Overall, the pattern of reactions during the maintenance phase was consistent with the known safety profile of temozolomide.
 
-TABLE 7: Number (%) of Patients with Adverse Reactions:
-
-All and Severe/Life Threatening (Incidence of 5% or Greater)
+TABLE 7: Number (%) of Patients with Adverse Reactions: All and Severe/Life Threatening (Incidence of 5% or Greater)
 
 |  | Concomitant Phase RT Alone (n=285) |  |  |  | Concomitant Phase RT+TMZ (n=288)* |  |  |  | Maintenance Phase TMZ (n=224) |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  | All |  | Grade ≥3 |  | All |  | Grade ≥3 |  | All |  | Grade ≥3 |  |
+|  | All |  | Grade ≥ 3 |  | All |  | Grade ≥ 3 |  | All |  | Grade ≥ 3 |  |
 | Subjects Reporting any Adverse Reaction | 258 | (91) | 74 | (26) | 266 | (92) | 80 | (28) | 206 | (92) | 82 | (37) |
 | Body as a Whole - General Disorders |  |  |  |  |  |  |  |  |  |  |  |  |
 | Anorexia | 25 | (9) | 1 | (<1) | 56 | (19) | 2 | (1) | 61 | (27) | 3 | (1) |
@@ -62,7 +60,7 @@ All and Severe/Life Threatening (Incidence of 5% or Greater)
 *One patient who was randomized to RT only arm received RT+temozolomide.
 RT+TMZ=radiotherapy plus temozolomide; NOS=not otherwise specified.
 
-Note: Grade 5 (fatal) adverse reactions are included in the Grade ≥3 column.
+Note: Grade 5 (fatal) adverse reactions are included in the Grade ≥ 3 column.
 
 Myelosuppression (neutropenia and thrombocytopenia), which is a known dose-limiting toxicity for most cytotoxic agents, including temozolomide, was observed.
 When laboratory abnormalities and adverse reactions were combined, Grade 3 or Grade 4 neutrophil abnormalities including neutropenic reactions were observed in 8% of the patients, and Grade 3 or Grade 4 platelet abnormalities, including thrombocytopenic reactions, were observed in 14% of the patients treated with temozolomide.
@@ -86,7 +84,7 @@ In the entire safety database for which hematologic data exist (N=932), 7% (4/61
 For patients less than or equal to age 70, 7% (62/871) and 5.5% (48/879) experienced Grade 4 neutropenia or thrombocytopenia in the first cycle, respectively.
 Pancytopenia, leukopenia, and anemia have also been reported.
 
-TABLE 8: Adverse Reactions in the Anaplastic Astrocytoma Trial in Adults (≥5%)
+TABLE 8: Adverse Reactions in the Anaplastic Astrocytoma Trial in Adults (≥ 5%)
 
 |  |  | No. (%) of Temozolomide Patients (N=158) |  |
 | --- | --- | --- | --- |
@@ -153,9 +151,7 @@ TABLE 8: Adverse Reactions in the Anaplastic Astrocytoma Trial in Adults (≥5%)
 
 *Blurred vision; visual deficit; vision changes; vision troubles
 
-TABLE 9: Adverse Hematologic Effects (Grade 3 to 4) in the Anaplastic Astrocytoma
-
-Trial in Adults
+TABLE 9: Adverse Hematologic Effects (Grade 3 to 4) in the Anaplastic Astrocytoma Trial in Adults
 
 |  | Temozolomide* |
 | --- | --- |
@@ -167,7 +163,7 @@ Trial in Adults
 
 *Change from Grade 0 to 2 at baseline to Grade 3 or 4 during treatment.
 
-Temozolomide for injection delivers equivalent temozolomide dose and exposure to both temozolomide and 5-(3-methyltriazen-1-yl)-imidazole-4carboxamide (MTIC) as the corresponding temozolomide capsules.
+Temozolomide for injection delivers equivalent temozolomide dose and exposure to both temozolomide and 5-(3-methyltriazen-1-yl)-imidazole-4-carboxamide (MTIC) as the corresponding temozolomide capsules.
 Adverse reactions probably related to treatment that were reported from the 2 studies with the intravenous formulation (n=35) that were not reported in studies using the temozolomide capsules were: pain, irritation, pruritus, warmth, swelling, and erythema at infusion site as well as the following adverse reactions: petechiae and hematoma.
 
 ## 6.2 Postmarketing Experience
@@ -184,7 +180,7 @@ Hematopoietic disorders: Prolonged pancytopenia, which may result in aplastic an
 
 Hepatobiliary disorders: Fatal and severe hepatotoxicity, elevation of liver enzymes, hyperbilirubinemia, cholestasis, and hepatitis [see Warnings and Precautions (5.5)].
 
-Infections and infestations: Opportunistic infections including Pneumocystis pneumonia (PCP) [see Warnings and Precautions (5.3)], primary and reactivated cytomegalovirus (CMV), and reactivation of hepatitis B infections including some cases with fatal outcomes.
+Infections and infestations: Serious opportunistic infections, including some cases with fatal outcomes, can occur with bacterial, viral (primary and reactivated), fungal, and protozoan organisms.
 
 Pulmonary disorders: Interstitial pneumonitis, pneumonitis, alveolitis, and pulmonary fibrosis.
 

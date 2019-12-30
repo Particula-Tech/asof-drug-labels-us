@@ -30,8 +30,7 @@ TABLE 10: Adverse Reactions Reported in the Pediatric Cooperative Group Trial (�
 
 |  | No. (%) of Temozolomide Patients (N=122)* |  |
 | --- | --- | --- |
-| Body System/Organ Class | All Reactions | Grade 3/4 |
-| Adverse Reaction |  |  |
+| Body System/Organ Class Adverse Reaction | All Reactions | Grade 3/4 |
 | Subjects Reporting an AE | 107 (88) | 69 (57) |
 | Body as a Whole |  |  |
 | Central and Peripheral Nervous System |  |  |
@@ -58,7 +57,7 @@ In general, dose selection for an elderly patient should be cautious, reflecting
 
 In the anaplastic astrocytoma study population, patients 70 years of age or older had a higher incidence of Grade 4 neutropenia and Grade 4 thrombocytopenia (2/8; 25%, P=0.31 and 2/10; 20%, P=0.09, respectively) in the first cycle of therapy than patients under 70 years of age [see Warnings and Precautions (5.1) and Adverse Reactions (6.1)].
 
-In newly diagnosed patients with glioblastoma multiforme, the adverse reaction profile was similar in younger patients (<65 years) vs. older (≥65 years).
+In newly diagnosed patients with glioblastoma multiforme, the adverse reaction profile was similar in younger patients (< 65 years) vs. older (≥ 65 years).
 
 ## 8.6 Renal Impairment
 

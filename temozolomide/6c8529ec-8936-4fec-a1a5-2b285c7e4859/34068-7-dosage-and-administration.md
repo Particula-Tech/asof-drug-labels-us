@@ -14,9 +14,7 @@ During treatment a complete blood count should be obtained weekly.
 Temozolomide dosing should be interrupted or discontinued during concomitant phase according to the hematological and nonhematological toxicity criteria as noted in Table 1.
 Pneumocystis pneumonia (PCP) prophylaxis is required during the concomitant administration of temozolomide capsules and radiotherapy, and should be continued in patients who develop lymphocytopenia until recovery from lymphocytopenia (CTC Grade less than or equal to 1).
 
-TABLE 1: Temozolomide Dosing Interruption or Discontinuation
-
-During Concomitant Radiotherapy and Temozolomide
+TABLE 1: Temozolomide Dosing Interruption or Discontinuation During Concomitant Radiotherapy and Temozolomide
 
 | Toxicity | TMZ Interruption* | TMZ Discontinuation |
 | --- | --- | --- |
@@ -38,7 +36,7 @@ If the dose was not escalated at Cycle 2, escalation should not be done in subse
 
 Dose Reduction or Discontinuation During Maintenance: Dose reductions during the maintenance phase should be applied according to Tables 2 and 3.
 
-During treatment, a complete blood count should be obtained on Day 22 (21 days after the first dose of temozolomide capsules) or within 48 hours of that day, and weekly until the ANC is above 1.5 x 109/L (1500/μL) and the platelet count exceeds 100 x 109/L (100,000/μL).
+During treatment, a complete blood count should be obtained on Day 22 (21 days after the first dose of temozolomide capsules) or within 48 hours of that day, and weekly until the ANC is above 1.5 x 109/L (1,500/μL) and the platelet count exceeds 100 x 109/L (100,000/μL).
 The next cycle of temozolomide capsules should not be started until the ANC and platelet count exceed these levels.
 Dose reductions during the next cycle should be based on the lowest blood counts and worst nonhematologic toxicity during the previous cycle.
 Dose reductions or discontinuations during the maintenance phase should be applied according to Tables 2 and 3.
@@ -65,10 +63,10 @@ TABLE 3: Temozolomide Dose Reduction or Discontinuation During Maintenance Treat
 TMZ=temozolomide; CTC=Common Toxicity Criteria.
 
 Patients with Refractory Anaplastic Astrocytoma: For adults the initial dose is 150 mg/m2 once daily for 5 consecutive days per 28-day treatment cycle.
-For adult patients, if both the nadir and day of dosing (Day 29, Day 1 of next cycle) ANC are greater than or equal to 1.5 x 109/L (1500/μL) and both the nadir and Day 29, Day 1 of next cycle platelet counts are greater than or equal to 100 x 109/L (100,000/μL), the temozolomide capsules dose may be increased to 200 mg/m2/day for 5 consecutive days per 28-day treatment cycle.
-During treatment, a complete blood count should be obtained on Day 22 (21 days after the first dose) or within 48 hours of that day, and weekly until the ANC is above 1.5 x 109/L (1500/μL) and the platelet count exceeds 100 x 109/L (100,000/μL).
+For adult patients, if both the nadir and day of dosing (Day 29, Day 1 of next cycle) ANC are greater than or equal to 1.5 x 109/L (1,500/μL) and both the nadir and Day 29, Day 1 of next cycle platelet counts are greater than or equal to 100 x 109/L (100,000/μL), the temozolomide capsules dose may be increased to 200 mg/m2/day for 5 consecutive days per 28-day treatment cycle.
+During treatment, a complete blood count should be obtained on Day 22 (21 days after the first dose) or within 48 hours of that day, and weekly until the ANC is above 1.5 x 109/L (1,500/μL) and the platelet count exceeds 100 x 109/L (100,000/μL).
 The next cycle of temozolomide capsules should not be started until the ANC and platelet count exceed these levels.
-If the ANC falls to less than 1 x 109/L (1000/μL) or the platelet count is less than 50 x 109/L (50,000/μL) during any cycle, the next cycle should be reduced by 50 mg/m2, but not below 100 mg/m2, the lowest recommended dose (see Table 4).
+If the ANC falls to less than 1 x 109/L (1,000/μL) or the platelet count is less than 50 x 109/L (50,000/μL) during any cycle, the next cycle should be reduced by 50 mg/m2, but not below 100 mg/m2, the lowest recommended dose (see Table 4).
 Temozolomide capsules therapy can be continued until disease progression.
 In the clinical trial, treatment could be continued for a maximum of 2 years, but the optimum duration of therapy is not known.
 
