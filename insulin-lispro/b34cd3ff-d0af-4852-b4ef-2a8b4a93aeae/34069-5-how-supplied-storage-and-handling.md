@@ -16,6 +16,8 @@ The HUMALOG Mix50/50 KwikPen dials in 1 unit increments.
 
 ## 16.2 Storage and Handling
 
+Dispense in the original sealed carton with the enclosed Instructions for Use.
+
 Do not use after the expiration date.
 Protect from direct heat and light.
 Do not freeze.

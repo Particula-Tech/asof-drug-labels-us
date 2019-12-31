@@ -5,9 +5,9 @@ Advise the patient to read the FDA-approved patient labeling (Patient Informatio
 Never Share a HUMALOG Mix50/50 KwikPen or Syringe Between Patients
 
 Advise patients using Humalog Mix50/50 vials or Humalog Mix50/50 KwikPen not to share needles, syringes, or KwikPen with another person.
-Sharing poses a risk for transmission of blood-borne pathogens.
+Sharing poses a risk for transmission of blood-borne pathogens [see Warnings and Precautions (5.1)].
 
-Hypoglycemia
+Hyperglycemia or Hypoglycemia
 
 Inform patients that hypoglycemia is the most common adverse reaction with insulin.
 Instruct patients on self-management procedures including glucose monitoring, proper injection technique, and management of hypoglycemia and hyperglycemia, especially at initiation of HUMALOG Mix50/50 therapy.
@@ -16,6 +16,8 @@ Instruct patients on the management of hypoglycemia [see Warnings and Precaution
 
 Inform patients that their ability to concentrate and react may be impaired as a result of hypoglycemia.
 Advise patients who have frequent hypoglycemia or reduced or absent warning signs of hypoglycemia to use caution when driving or operating machinery.
+
+Advise patients that changes in insulin regimen can predispose to hyperglycemia or hypoglycemia and that changes in insulin regimen should be made under close medical supervision [see Warnings and Precautions (5.2)].
 
 Hypoglycemia due to Medication Errors
 
@@ -29,4 +31,4 @@ Inform patients on the symptoms of hypersensitivity reactions and to seek medica
 Marketed by: Lilly USA, LLC, Indianapolis, IN 46285, USA Copyright © 1999, 2019, Eli Lilly and Company.
 All rights reserved.
 
-LOG5050-0004-USPI-20190917
+LOG5050-0005-USPI-20191115

@@ -6,7 +6,7 @@ HUMALOG® (HU-ma-log) Mix50/50™
 
 for subcutaneous use
 
-10 mL vial (100 units/mL)
+10 mL multiple-dose vial (100 units/mL)
 
 Read this Instructions for Use before you start taking HUMALOG Mix50/50 and each time you get a new vial.
 There may be new information.
@@ -17,7 +17,7 @@ You may give other people a serious infection or get a serious infection from th
 
 Supplies needed to give your injection
 
-- a HUMALOG Mix50/50 vial
+- a multiple-dose HUMALOG Mix50/50 vial
 - a U-100 insulin syringe and needle
 - 2 alcohol swabs
 - gauze
@@ -56,7 +56,9 @@ Giving your HUMALOG Mix50/50 Injection
 
 - Inject your insulin exactly as your healthcare provider has shown you.
   Your healthcare provider should tell you if you should pinch the skin before injecting.
-- Change (rotate) your injection site for each injection.
+- Change (rotate) your injection sites within the area you choose for each dose to reduce your risk of getting lipodystrophy (pits in skin or thickened skin) and localized cutaneous amyloidosis (skin with lumps) at the injection sites.
+- Do not inject where the skin has pits, is thickened, or has lumps.
+- Do not inject where the skin is tender, bruised, scaly or hard, or into scars or damaged skin.
 
 | Step 11: Choose your injection site. HUMALOG Mix50/50 is injected under the skin (subcutaneously) of your stomach area (abdomen), buttocks, upper legs or upper arms. Wipe the skin with an alcohol swab. Let the injection site dry before you inject your dose. |  |
 | --- | --- |
@@ -108,12 +110,12 @@ This Instructions for Use has been approved by the U.S. Food and Drug Administra
 
 Humalog® and Humalog® Mix50/50™ are registered trademarks of Eli Lilly and Company.
 
-Revised: 09/2018
+Revised: 11/2019
 
-Marketed by: Lilly USA, LLC, Indianapolis, IN 46285, USA Copyright © 1999, 2018, Eli Lilly and Company.
+Marketed by: Lilly USA, LLC, Indianapolis, IN 46285, USA Copyright © 1999, 2019, Eli Lilly and Company.
 All rights reserved.
 
-LOG5050VL-0001-IFU-20180926
+LOG5050VL-0002-IFU-20191115
 
 Instructions for Use
 
@@ -123,7 +125,7 @@ HUMALOG® (HU-ma-log) Mix50/50™ KwikPen®
 
 for subcutaneous use
 
-3 mL pen (100 units/mL)
+3 mL single-patient-use pen (100 units/mL)
 
 Read this Instructions for Use before you start taking HUMALOG Mix50/50 and each time you get another KwikPen.
 There may be new information.
@@ -132,7 +134,7 @@ This information does not take the place of talking to your healthcare provider 
 Do not share your HUMALOG Mix50/50 KwikPen with other people, even if the needle has been changed.
 You may give other people a serious infection or get a serious infection from them.
 
-HUMALOG Mix50/50 KwikPen (“Pen”) is a disposable prefilled pen containing 300 units of HUMALOG Mix50/50.
+HUMALOG Mix50/50 KwikPen (“Pen”) is a disposable single-patient-use prefilled pen containing 300 units of HUMALOG Mix50/50.
 
 - You can give yourself more than 1 dose from the Pen.
 - By turning the Dose Knob, you can dial doses from 1 to 60 units in 1 unit increments.
@@ -207,7 +209,9 @@ Selecting your dose
 Giving your injection
 
 - Inject your insulin as your healthcare provider has shown you.
-- Change (rotate) your injection site for each injection.
+- Change (rotate) your injection sites within the area you choose for each dose to reduce your risk of getting lipodystrophy (pits in skin or thickened skin) and localized cutaneous amyloidosis (skin with lumps) at the injection sites.
+- Do not inject where the skin has pits, is thickened, or has lumps.
+- Do not inject where the skin is tender, bruised, scaly or hard, or into scars or damaged skin.
 - Do not try to change your dose while injecting.
 
 | Step 12: Choose your injection site. HUMALOG Mix50/50 is injected under the skin (subcutaneously) of your stomach area, buttocks, upper legs or upper arms. Wipe your skin with an alcohol swab, and let your skin dry before you inject your dose. |  |
@@ -284,14 +288,14 @@ This Instructions for Use has been approved by the U.S. Food and Drug Administra
 
 HUMALOG® Mix50/50™ and HUMALOG® Mix50/50™ KwikPen® are trademarks of Eli Lilly and Company.
 
-Revised: September 2018
+Revised: November 2019
 
 Marketed by: Lilly USA, LLC Indianapolis, IN 46285, USA
 
-Copyright © 2007, 2018, Eli Lilly and Company.
+Copyright © 2007, 2019, Eli Lilly and Company.
 All rights reserved.
 
-| HUMALOG Mix50/50 KwikPen meets the current dose accuracy and functional requirements of ISO 11608-1:2014. |
+| HUMALOG Mix50/50 KwikPen meets the current dose accuracy and functional requirements of ISO 11608-1. |
 | --- |
 
-LOG5050KP-0003-IFU-20180926
+LOG5050KP-0004-IFU-20191115

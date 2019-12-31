@@ -34,11 +34,11 @@ Animal Data
 
 Animal reproduction studies have not been performed with HUMALOG Mix50/50.
 However, subcutaneous reproduction and teratology studies have been conducted with insulin lispro (a component of HUMALOG Mix50/50).
-In a combined fertility and embryo-fetal development study, female rats were given subcutaneous insulin lispro injections of 1, 5, and 20 units/kg/day (0.2, 0.8 and 3 times the human subcutaneous dose of 1 unit insulin lispro/kg/day, based on units/body surface area, respectively) from 2 weeks prior to cohabitation through Gestation Day 19.
+In a combined fertility and embryo-fetal development study, female rats were given subcutaneous insulin lispro injections of 1, 5, and 20 units/kg/day (0.2, 0.8, and 3 times the human subcutaneous dose of 1 unit insulin lispro/kg/day, based on units/body surface area, respectively) from 2 weeks prior to cohabitation through Gestation Day 19.
 There were no adverse effects on female fertility, implantation, or fetal viability and morphology.
 However, fetal growth retardation was produced at the 20 units/kg/day-dose as indicated by decreased fetal weight and an increased incidence of fetal runts/litter.
 
-In an embryo-fetal development study in pregnant rabbits, insulin lispro doses of 0.1, 0.25, and 0.75 unit/kg/day (0.03, 0.08, and 0.24 times the human subcutaneous dose of 1 unit insulin lispro/kg/day, based on units/body surface area, respectively) were injected subcutaneously on Gestation days 7 through 19.
+In an embryo-fetal development study in pregnant rabbits, insulin lispro doses of 0.1, 0.25, and 0.75 unit/kg/day (0.03, 0.08, and 0.2 times the human subcutaneous dose of 1 unit insulin lispro/kg/day, based on units/body surface area, respectively) were injected subcutaneously on Gestation days 7 through 19.
 There were no adverse effects on fetal viability, weight, and morphology at any dose.
 
 ## 8.2 Lactation

@@ -39,6 +39,11 @@ Lipodystrophy
 
 Administration of insulin subcutaneously, including HUMALOG Mix50/50, has resulted in lipoatrophy (depression in the skin) or lipohypertrophy (enlargement or thickening of tissue) [see Dosage and Administration (2.1)] in some patients.
 
+Localized cutaneous amyloidosis
+
+Localized cutaneous amyloidosis at the injection site has occurred.
+Hyperglycemia has been reported with repeated insulin injections into areas of localized cutaneous amyloidosis; hypoglycemia has been reported with a sudden change to an unaffected injection site.
+
 Medication Errors
 
 Medication errors in which other insulins have been accidentally substituted for HUMALOG Mix50/50 have been identified during postapproval use.

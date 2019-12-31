@@ -7,12 +7,14 @@
   Resuspension is easier when the insulin has reached room temperature.
 - To resuspend vial, carefully invert the vial at least 10 times until the suspension appears uniformly white and cloudy.
   Inject immediately.
-- To resuspend KwikPen, gently roll the KwikPen at least 10 times and then carefully invert the Kwikpen at least 10 times until the suspension appears uniformly white and cloudy.
+- To resuspend KwikPen, gently roll the KwikPen at least 10 times and then carefully invert the KwikPen at least 10 times until the suspension appears uniformly white and cloudy.
   Inject immediately.
 - Inspect HUMALOG Mix50/50 visually before use.
   Do not use if discoloration or particulate matter is seen.
 - Administer HUMALOG Mix50/50 by subcutaneous injection into the abdominal wall, thigh, upper arm, or buttocks.
-- Rotate the injection site within the same region from one injection to the next to reduce the risk of lipodystrophy [see Adverse Reactions (6)].
+- Rotate the injection site within the same region from one injection to the next to reduce the risk of lipodystrophy and localized cutaneous amyloidosis.
+  Do not inject into areas of lipodystrophy or localized cutaneous amyloidosis [see Warnings and Precautions (5.2) and Adverse Reactions (6)].
+- During changes to a patient's insulin regimen, increase the frequency of blood glucose monitoring [see Warnings and Precautions (5.2)].
 - The HUMALOG Mix50/50 KwikPen dials in 1 unit increments.
 - Use HUMALOG Mix5050 KwikPen with caution in patients with visual impairment that may rely on audible clicks to dial their dose.
 - Do not administer HUMALOG Mix50/50 intravenously, intramuscularly or by a continuous subcutaneous insulin infusion pump.
