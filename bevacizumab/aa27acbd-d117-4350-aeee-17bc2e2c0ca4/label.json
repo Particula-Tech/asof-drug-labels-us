@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "BLA761099"
+  ],
+  "inn": "bevacizumab",
+  "labeler": "Pfizer Laboratories Div Pfizer Inc",
+  "package_ndcs": [
+    "0069-0315-01",
+    "0069-0342-01"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "bevacizumab-bvzr",
+      "name": "Zirabev"
+    }
+  ],
+  "setid": "aa27acbd-d117-4350-aeee-17bc2e2c0ca4",
+  "source": "dailymed"
+}
