@@ -1,7 +1,7 @@
 # WARNINGS
 
 A theoretical hazard may exist for patients being treated with lactulose solution who may be required to undergo electrocautery procedures during proctoscopy or colonoscopy.
-Accumulation of H 2 gas in significant concentration in the presence of an electrical spark may result in an explosive reaction.
+Accumulation of H2 gas in significant concentration in the presence of an electrical spark may result in an explosive reaction.
 Although this complication has not been reported with lactulose, patients on lactulose therapy undergoing such procedures should have a thorough bowel cleansing with a non-fermentable solution.
 Insufflation of CO2 as an additional safeguard may be pursued but is considered to be a redundant measure.
 
@@ -9,7 +9,7 @@ Insufflation of CO2 as an additional safeguard may be pursued but is considered 
 
 ## General
 
-Since lactulose solution contains galactose (less than1.6 g/15 mL) and lactose (less than 1.2 g/15 mL), it should be used with caution in diabetics.
+Since lactulose solution contains galactose (less than 1.6 g/15 mL) and lactose (less than 1.2 g/15 mL), it should be used with caution in diabetics.
 
 ## Information for Patients
 
@@ -30,15 +30,15 @@ There are no known human data on long-term potential for carcinogenicity, mutage
 
 There are no known animal data on long-term potential for mutagenicity.
 
-Administration of lactulose solution in the diet of mice for 18 months in concentrations of 3 and 10 percent (V/W) did not produce any evidence of carcinogenicity.
+Administration of lactulose solution in the diet of mice for 18 months in concentrations of 3 and 10 percent (v/w) did not produce any evidence of carcinogenicity.
 
-In studies in mice, rats, and rabbits, doses of lactulose solution up to 6 or 12 mL/kg/day produced no deleterious effects in breeding, conception, or parturition.
+In studies of mice, rats, and rabbits, doses of lactulose solution up to 6 or 12 mL/kg/day produced no deleterious effects in breeding, conception, or parturition.
 
 ## Pregnancy
 
 ### Teratogenic Effects
 
-#### Pregnancy Category B
+Pregnancy Category B
 
 Reproduction studies have been performed in mice, rats, and rabbits at doses up to 3 or 6 times the usual human oral dose and have revealed no evidence of impaired fertility or harm to the fetus due to lactulose.
 There are, however, no adequate and well-controlled studies in pregnant women.

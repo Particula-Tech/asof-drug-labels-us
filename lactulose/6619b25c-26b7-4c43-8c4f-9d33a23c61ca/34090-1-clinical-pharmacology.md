@@ -1,6 +1,6 @@
 # CLINICAL PHARMACOLOGY
 
-Lactulose is poorly absorbed from the gastrointestinal tract, and no enzyme capable of hydrolysis of this disaccharide is present in human gastrointestinal tissue.
+Lactulose is poorly absorbed from the gastrointestinal tract and no enzyme capable of hydrolysis of this disaccharide is present in human gastrointestinal tissue.
 As a result, oral doses of lactulose solution reach the colon virtually unchanged.
 In the colon, lactulose is broken down primarily to lactic acid, and also to small amounts of formic and acetic acids, by the action of colonic bacteria, which results in an increase in osmotic pressure and slight acidification of the colonic contents.
 This in turn causes an increase in stool water content and softens the stool.
