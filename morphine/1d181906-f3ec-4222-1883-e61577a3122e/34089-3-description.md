@@ -14,4 +14,4 @@ The octanol:water partition coefficient of morphine is 1.42 at physiologic pH an
 Each mL of preservative-free morphine sulfate injection contains morphine sulfate, USP 0.5 mg (5 mg/10 mL) or 1 mg (10 mg/ 10 mL) and sodium chloride 9 mg in Water for Injection.
 The pH range is 2.5 – 6.5.
 Contains no preservative.
-Each 10 mL container of preservative-free morphine sulfate injection is intended for SINGLE USE ONLY.
+Each 10 mL container of preservative-free morphine sulfate injection is intended for SINGLE DOSE ONLY.

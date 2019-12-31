@@ -80,23 +80,23 @@ Epidural Administration
 
 Morphine, injected into the epidural space, is rapidly absorbed into the general circulation.
 Absorption is so rapid that the plasma concentration-time profiles closely resemble those obtained after intravenous or intramuscular administration.
-Peak plasma concentrations averaging 33–40 ng/mL (range 5–62 ng/mL) are achieved within 10 to 15 minutes after administration of 3 mg of morphine.
+Peak plasma concentrations averaging 33 to 40 ng/mL (range 5 to 62 ng/mL) are achieved within 10 to 15 minutes after administration of 3 mg of morphine.
 Plasma concentrations decline in a multiexponential fashion.
-The terminal half-life is reported to range from 39 to 249 minutes (mean of 90 ± 34.3 min) and, though somewhat shorter, is similar in magnitude as values reported after intravenous and intramuscular administration (1.5–4.5 h). CSF concentrations of morphine, after epidural doses of 2 to 6 mg in postoperative patients, have been reported to be 50 to 250 times higher than corresponding plasma concentrations.
+The terminal half-life is reported to range from 39 to 249 minutes (mean of 90 ± 34.3 min) and, though somewhat shorter, is similar in magnitude as values reported after intravenous and intramuscular administration (1.5 to 4.5 h). CSF concentrations of morphine, after epidural doses of 2 to 6 mg in postoperative patients, have been reported to be 50 to 250 times higher than corresponding plasma concentrations.
 The CSF levels of morphine exceed those in plasma after only 15 minutes and are detectable for as long as 20 hours after the injection of 2 mg of epidural morphine.
 Approximately 4% of the dose injected epidurally reaches the CSF.
 This corresponds to the relative minimum effective epidural and intrathecal doses of 5 mg and 0.25 mg, respectively.
 The disposition of morphine in the CSF follows a biphasic pattern, with an early half-life of 1.5 h and a late phase half-life of about 6 h. Morphine crosses the dura slowly, with an absorption half-life across the dura averaging 22 minutes.
-Maximum CSF concentrations are seen 60–90 minutes after injection.
+Maximum CSF concentrations are seen 60 to 90 minutes after injection.
 Minimum effective CSF concentrations for postoperative analgesia average 150 ng/mL (range < 1–380 ng/mL).
 
 Intrathecal Administration
 
 The intrathecal route of administration circumvents meningeal diffusion barriers and, therefore, lower doses of morphine produce comparable analgesia to that induced by the epidural route.
-After intrathecal bolus injection of morphine, there is a rapid initial distribution phase lasting 15–30 minutes and a half-life in the CSF of 42–136 min (mean 90 ± 16 min). Derived from limited data, it appears that the disposition of morphine in the CSF, from 15 minutes postintrathecal administration to the end of a six-hour observation period, represents a combination of the distribution and elimination phases.
+After intrathecal bolus injection of morphine, there is a rapid initial distribution phase lasting 15 to 30 minutes and a half-life in the CSF of 42 to 136 min (mean 90 ± 16 min). Derived from limited data, it appears that the disposition of morphine in the CSF, from 15 minutes postintrathecal administration to the end of a six-hour observation period, represents a combination of the distribution and elimination phases.
 Morphine concentrations in the CSF averaged 332 ± 137 ng/mL at 6 hours, following a bolus dose of 0.3 mg of morphine.
 The apparent volume of distribution of morphine in the intrathecal space is about 22 ± 8 mL.
 
-Time-to-peak plasma concentrations, however, are similar (5–10 min) after either epidural or intrathecal bolus administration of morphine.
+Time-to-peak plasma concentrations, however, are similar (5 to 10 min) after either epidural or intrathecal bolus administration of morphine.
 Maximum plasma morphine concentrations after 0.3 mg intrathecal morphine have been reported from < 1 to 7.8 ng/mL.
-The minimum analgesic morphine plasma concentration during Patient-Controlled Analgesia (PCA) has been reported as 20–40 ng/mL, suggesting that any analgesic contribution from systemic redistribution would be minimal after the first 30–60 minutes with epidural administration and virtually absent with intrathecal administration of morphine.
+The minimum analgesic morphine plasma concentration during Patient-Controlled Analgesia (PCA) has been reported as 20 to 40 ng/mL, suggesting that any analgesic contribution from systemic redistribution would be minimal after the first 30 to 60 minutes with epidural administration and virtually absent with intrathecal administration of morphine.

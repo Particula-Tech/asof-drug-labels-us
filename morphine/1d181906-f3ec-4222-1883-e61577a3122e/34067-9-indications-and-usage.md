@@ -7,4 +7,4 @@ Preservative-free morphine sulfate injection is indicated for:
 
 Limitation of Use
 
-Preservative-free morphine sulfate injection is not for use in continuous microinfusion devices.
+Preservative-free morphine sulfate injection is not for use in Continuous Microinfusion Devices.

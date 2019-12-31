@@ -42,6 +42,10 @@ The facility must be equipped to resuscitate patients with severe opiate overdos
 To reduce the risk of respiratory depression, proper dosing and titration of preservative-free morphine sulfate injection are essential [see Dosage and Administration (2)].
 Overestimating the preservative-free morphine sulfate injection dosage can result in a fatal overdose with the first dose.
 
+Opioids can cause sleep-related breathing disorders including central sleep apnea (CSA) and sleep-related hypoxemia.
+Opioid use increases the risk of CSA in a dose-dependent fashion.
+In patients who present with CSA, consider decreasing the opioid dosage using best practices for opioid taper [see Dosage and Administration (2.6)].
+
 ## 5.3 Addiction, Abuse, and Misuse
 
 Preservative-free morphine sulfate injection contains morphine, a Schedule II controlled substance.
