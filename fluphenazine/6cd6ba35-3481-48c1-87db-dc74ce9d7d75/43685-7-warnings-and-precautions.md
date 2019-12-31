@@ -1,6 +1,6 @@
 # WARNINGS
 
-## Increased Mortality in Elderly Patients with Dementia-Related Psychosis
+## Increased Mortality in Elderly Patients with Dementia-Related Psychosis:
 
 Elderly patients with dementia-related psychosis treated with antipsychotic drugs are at an increased risk of death.
 Fluphenazine hydrochloride is not approved for the treatment of patients with dementia-related psychosis (see BOXED WARNING).
@@ -100,7 +100,7 @@ Reports suggest that these symptoms can be reduced if concomitant antiparkinsoni
 Facilities should be available for periodic checking of hepatic function, renal function and the blood picture.
 Renal function of patients on long-term therapy should be monitored; if BUN (blood urea nitrogen) becomes abnormal, treatment should be discontinued.
 
-As with any phenothiazine, the physician should be alert to the possible development of "silent pneumonias" in patients under treatment with fluphenazine hydrochloride.
+As with any phenothiazine, the physician should be alert to the possible development of “silent pneumonias” in patients under treatment with fluphenazine hydrochloride.
 
 ## Leukopenia, Neutropenia and Agranulocytosis:
 
