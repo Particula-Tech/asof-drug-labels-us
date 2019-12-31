@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA021234"
+  ],
+  "inn": "diclofenac",
+  "labeler": "Teva Pharmaceuticals USA Inc.",
+  "package_ndcs": [
+    "0093-3727-50",
+    "0093-3727-55"
+  ],
+  "products": [
+    {
+      "form": "SYSTEM",
+      "generic": "diclofenac epolamine",
+      "name": "diclofenac epolamine"
+    }
+  ],
+  "setid": "d7bfe17d-e88e-4792-bfba-cea56ed96c3b",
+  "source": "dailymed"
+}
