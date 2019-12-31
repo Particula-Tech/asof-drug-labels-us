@@ -25,6 +25,7 @@ Absorption and Bioavailability
 
 The pharmacokinetic profile for BASAGLAR was determined after subcutaneous administration of a single 0.5 U/kg dose in a euglycemic clamp study conducted in 91 healthy subjects.
 The insulin serum concentrations indicated a slow and prolonged absorption and a relatively constant concentration/time profile over 24 hours with no pronounced peak.
+
 The median time to maximum serum insulin concentration was 12 hours after injection.
 On average, serum insulin concentrations declined to baseline by approximately 24 hours.
 The mean observed area under the serum insulin concentration-time curve from time zero to 24 hours and peak serum insulin concentration were 1720 pmol*hr/L and 103 pmol/L, respectively.

@@ -2,9 +2,9 @@
 
 See FDA-approved patient labeling (Patient Information and Instructions for Use).
 
-Never Share a BASAGLAR KwikPen Between Patients
+Never Share a BASAGLAR Prefilled Pen Between Patients
 
-Advise patients that they must never share a BASAGLAR KwikPen with another person, even if the needle is changed, because doing so carries a risk for transmission of blood-borne pathogens [see Warnings and Precautions (5.1)].
+Advise patients that they must never share a BASAGLAR prefilled pen with another person, even if the needle is changed, because doing so carries a risk for transmission of blood-borne pathogens [see Warnings and Precautions (5.1)].
 
 Hyperglycemia or Hypoglycemia
 
@@ -14,9 +14,7 @@ Inform patients that the ability to concentrate and react may be impaired as a r
 This may present a risk in situations where these abilities are especially important, such as driving or operating other machinery.
 Advise patients who have frequent hypoglycemia or reduced or absent warning signs of hypoglycemia to use caution when driving or operating machinery.
 
-Advise patients that changes in insulin regimen can predispose to hyper- or hypoglycemia.
-
-Advise patients that changes in insulin regimen should be made under close medical supervision [see Warnings and Precautions (5.2)].
+Advise patients that changes in insulin regimen can predispose to hyperglycemia or hypoglycemia and that changes in insulin regimen should be made under close medical supervision [see Warnings and Precautions (5.2)].
 
 Medication errors
 
@@ -33,7 +31,7 @@ Patients should be instructed on self-management procedures including glucose mo
 Patients must be instructed on handling of special situations such as intercurrent conditions (illness, stress, or emotional disturbances), an inadequate or skipped insulin dose, inadvertent administration of an increased insulin dose, inadequate food intake, and skipped meals [see Warnings and Precautions (5.3)].
 Refer patients to the BASAGLAR “Patient Information” for additional information about the potential side effects of insulin therapy, including lipodystrophy (and the need to rotate injection sites within the same body region), weight gain, allergic reactions, and hypoglycemia.
 
-Literature revised September 2018
+Literature revised November 2019
 
 Marketed by: Lilly USA, LLC, Indianapolis, IN 46285, USA
 
@@ -41,7 +39,7 @@ And
 
 Boehringer Ingelheim Pharmaceuticals, Inc., Ridgefield, CT 06877, USA
 
-Copyright © 2015, 2018, Eli Lilly and Company.
+Copyright © 2015, 2019, Eli Lilly and Company.
 All rights reserved.
 
-BASKP-0003-USPI-20180905
+BAS-0004-USPI-20191115

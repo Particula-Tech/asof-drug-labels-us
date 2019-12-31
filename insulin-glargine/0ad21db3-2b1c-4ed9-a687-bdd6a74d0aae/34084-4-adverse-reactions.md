@@ -136,8 +136,10 @@ For these reasons, comparison of the incidence of antibodies to BASAGLAR with th
 ## 6.3 Postmarketing Experience
 
 The following adverse reactions have been identified during post-approval use of another insulin glargine product, 100 units/mL.
-
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to estimate reliably their frequency or establish a causal relationship to drug exposure.
 
 Medication errors have been reported in which other insulin products, particularly rapid-acting insulins, have been accidentally administered instead of an insulin glargine product.
 To avoid medication errors between insulin glargine products and other insulin products, patients should be instructed to always verify the insulin label before each injection.
+
+Localized cutaneous amyloidosis at the injection site has occurred.
+Hyperglycemia has been reported with repeated insulin injections into areas of localized cutaneous amyloidosis; hypoglycemia has been reported with a sudden change to an unaffected injection site.

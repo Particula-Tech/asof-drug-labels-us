@@ -4,7 +4,9 @@
 
 Risk Summary
 
-Published studies with use of insulin glargine products during pregnancy have not reported a clear association with insulin glargine products and adverse developmental outcomes (see Data).
+Published studies with use of insulin glargine products during pregnancy have not reported a clear
+
+association with insulin glargine products and adverse developmental outcomes (see Data).
 There are risks to the mother and fetus associated with poorly controlled diabetes in pregnancy (see Clinical Considerations).
 In animal reproduction studies, another insulin glargine product was administered to rats before, during and throughout pregnancy at doses up to 7 times the clinical dose of 10 units/day and to rabbits during organogenesis at doses approximately 2 times the clinical dose of 10 units/day.
 The effects of this other insulin glargine product did not generally differ from those observed with regular human insulin in rats or rabbits (see Data).
@@ -17,7 +19,7 @@ Clinical Considerations
 
 Disease-associated maternal and/or embryo/fetal risk
 
-Poorly controlled diabetes in pregnancy increases the maternal risk for diabetic ketoacidosis, pre-eclampsia, spontaneous abortions, preterm delivery, stillbirth and delivery complications.
+Poorly controlled diabetes in pregnancy increases the maternal risk for diabetic ketoacidosis, pre-eclampsia, spontaneous abortions, preterm delivery, and delivery complications.
 Poorly controlled diabetes increases the fetal risk for major birth defects, stillbirth, and macrosomia related morbidity.
 
 Data

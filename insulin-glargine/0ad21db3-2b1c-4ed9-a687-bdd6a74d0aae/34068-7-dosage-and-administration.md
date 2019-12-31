@@ -4,10 +4,12 @@
 
 - Always check insulin labels before administration [see Warnings and Precautions (5.4)].
 - Train patients on proper use and injection technique before initiating BASAGLAR.
-- Visually inspect BASAGLAR KwikPen for particulate matter and discoloration prior to administration.
+- Visually inspect BASAGLAR prefilled pens for particulate matter and discoloration prior to administration.
   Only use if the solution is clear and colorless with no visible particles.
 - Inject between 1 and 80 units per injection.
-- Administer BASAGLAR subcutaneously into the abdominal area, thigh, or deltoid, and rotate injection sites within the same region from one injection to the next to reduce the risk of lipodystrophy [see Adverse Reactions (6.1)].
+- Administer BASAGLAR subcutaneously into the abdominal area, thigh, or deltoid, and rotate injection sites within the same region from one injection to the next to reduce the risk of lipodystrophy and localized cutaneous amyloidosis.
+  Do not inject into areas of lipodystrophy or localized cutaneous amyloidosis [see Warnings and Precautions (5.2) and Adverse Reactions (6)].
+- During changes to a patient's insulin regimen, increase the frequency of blood glucose monitoring [see Warnings and Precautions (5.2)].
 - Use BASAGLAR with caution in patients with visual impairment that may rely on audible clicks to dial their dose.
 - Do not dilute or mix BASAGLAR with any other insulin or solution as the onset of action or time to peak effect of BASAGLAR and the mixed insulin may be altered in an unpredictable manner.
 - Do not administer intravenously or via an insulin pump because this could result in severe hypoglycemia.
@@ -18,7 +20,7 @@
 - Inject BASAGLAR subcutaneously once daily at any time of day but at the same time every day.
 - Individualize and titrate the dosage of BASAGLAR based on the individual's metabolic needs, blood glucose monitoring results and glycemic control goal.
 - Dosage adjustments may be needed with changes in physical activity, changes in meal patterns (i.e., macronutrient content or timing of food intake), during acute illness, or changes in renal or hepatic function and should be made under medical supervision with appropriate glucose monitoring [see Warnings and Precautions (5.2)].
-- The BASAGLAR KwikPen dials in 1 unit increments.
+- The BASAGLAR prefilled pens each dials in 1 unit increments and delivers a maximum dose of 80 units per injection.
 
 ## 2.3 Initiation of BASAGLAR Therapy
 
