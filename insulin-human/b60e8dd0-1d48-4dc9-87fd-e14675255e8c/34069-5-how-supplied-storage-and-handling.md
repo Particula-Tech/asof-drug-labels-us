@@ -12,6 +12,8 @@ The HUMULIN R U-500 KwikPen dials in 5 unit increments.
 
 ## 16.2 Storage and Handling
 
+Dispense in the original sealed carton with the enclosed Instructions for Use.
+
 Protect from heat and light.
 Do not freeze.
 Do not use HUMULIN R U-500 after the expiration date printed on the label or if it has been frozen.

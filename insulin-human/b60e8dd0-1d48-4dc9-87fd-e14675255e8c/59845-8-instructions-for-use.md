@@ -1,4 +1,4 @@
-| Instructions for Use Humulin® R U-500 insulin human injection (500 units/mL, 20 mL vial) |
+| Instructions for Use Humulin® R U-500 insulin human injection (500 units/mL, 20 mL multiple-dose vial) |
 | --- |
 
 Please read these instructions before use.
@@ -35,7 +35,7 @@ Additional Safety Information
 
 | Supplies |  |
 | --- | --- |
-| Humulin R U-500 vial U-500 Syringe(BD [Becton, Dickinson and Company] syringes recommended) 2 alcohol swabs 1 sharps container |  |
+| Humulin R U-500 multiple-dose vial U-500 Syringe (BD [Becton, Dickinson and Company] syringes recommended) 2 alcohol swabs 1 sharps container |  |
 
 Before You Start
 
@@ -75,7 +75,9 @@ Prepare
 Inject
 
 - Inject your insulin exactly as your healthcare provider has shown you.
-- Change (rotate) your injection site for each injection.
+- Change (rotate) your injection sites within the area you choose for each dose to reduce your risk of getting lipodystrophy (pits in skin or thickened skin) and localized cutaneous amyloidosis (skin with lumps) at the injection sites.
+  Do not inject where the skin has pits, is thickened, or has lumps.
+  Do not inject where the skin is tender, bruised, scaly or hard, or into scars or damaged skin.
 
 | Step 10: Choose your injection site. Humulin R U-500 is injected under the skin (subcutaneously). You may inject into your stomach area, buttocks, upper legs, or upper arms. Wipe the skin with an alcohol swab. Let the injection site dry before you inject your dose. |  |
 | --- | --- |
@@ -139,18 +141,16 @@ Humulin® is a trademark of Eli Lilly and Company.
 
 Marketed by: Lilly USA, LLC, Indianapolis, IN 46285, USA
 
-Copyright © 1996, 2016, Eli Lilly and Company.
+Copyright © 1996, 2019, Eli Lilly and Company.
 All rights reserved.
 
-Literature issued: July 2016
+Literature issued: November 2019
 
-Lilly (red script)
-
-LINR500VL-0002-IFU-20160708
+LINR500VL-0003-IFU-20191115
 
 Instructions for Use HUMULIN® R U-500 KwikPen®
 
-insulin human injection U-500 (500 units/mL, 3 mL pen)
+insulin human injection U-500 (500 units/mL, 3 mL single-patient-use pen)
 
 | Important: Know your dose of HUMULIN R U-500 insulin. The Pen delivers your dose in insulin units. Insulin units may not be the same as syringe markings. Ask your health care provider what your dose should be for your Pen.Your HUMULIN® R U-500 KwikPen® (Pen) works differently from other pens. It dials 5 insulin units with each click. Do not count clicks of the dose knob to select your dose. You may not get enough insulin or you may get too much insulin. HUMULIN R U-500 is a concentrated insulin. Do not transfer HUMULIN R U-500 insulin from your Pen into a syringe. A severe overdose can happen, causing very low blood sugar, which may put your life in danger. |
 | --- |
@@ -162,7 +162,7 @@ This information does not take the place of talking to your healthcare provider 
 Do not share your HUMULIN R U-500 Pen with other people, even if the needle has been changed.
 You may give other people a serious infection or get a serious infection from them.
 
-HUMULIN R U-500 KwikPen (“Pen”) is a disposable prefilled pen containing 1500 units of HUMULIN R. You can give yourself more than 1 dose from the Pen.
+HUMULIN R U-500 KwikPen (“Pen”) is a disposable single-patient-use prefilled pen containing 1500 units of HUMULIN R. You can give yourself more than 1 dose from the Pen.
 Each turn (click) of the Dose Knob dials 5 units of insulin.
 You can give from 5 to 300 units in a single injection.
 The plunger only moves a little with each injection, and you may not notice that it moves.
@@ -233,7 +233,9 @@ Ask your healthcare provider what your dose should be for this Pen.
 Giving your injection
 
 - Inject your insulin as your healthcare provider has shown you.
-- Change (rotate) your injection site for each injection.
+- Change (rotate) your injection sites within the area you choose for each dose to reduce your risk of getting lipodystrophy (pits in skin or thickened skin) and localized cutaneous amyloidosis (skin with lumps) at the injection sites.
+  Do not inject where the skin has pits, is thickened, or has lumps.
+  Do not inject where the skin is tender, bruised, scaly or hard, or into scars or damaged skin.
 - Do not try to change your dose while injecting.
 
 | Step 9: Choose your injection site. HUMULIN is injected under the skin (subcutaneously) of your stomach area, buttocks, upper legs or upper arms. Wipe your skin with an alcohol swab, and let your skin dry before you inject your dose. |  |  |
@@ -324,11 +326,9 @@ Indianapolis, IN 46285, USA
 Copyright © 2015, 2019, Eli Lilly and Company.
 All rights reserved.
 
-| HUMULIN R U-500 KwikPen meets the current dose accuracy and functional requirements of ISO 11608-1:2014. |
+| HUMULIN R U-500 KwikPen meets the current dose accuracy and functional requirements of ISO 11608-1. |
 | --- |
 
-Document revision date: August 2019
+Document revision date: November 2019
 
-Lilly (red script)
-
-LINR500KP-0003-IFU-20190822
+LINR500KP-0004-IFU-20191115

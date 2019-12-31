@@ -22,6 +22,11 @@ Long-term use of insulin, including HUMULIN R U-500, can cause lipodystrophy at 
 Lipodystrophy includes lipohypertrophy (thickening of adipose tissue) and lipoatrophy (thinning of adipose tissue) and may affect insulin absorption.
 Rotate insulin injections sites within the same region to reduce the risk of lipodystrophy [see Dosage and Administration (2.1)].
 
+Localized Cutaneous Amyloidosis
+
+Localized cutaneous amyloidosis at the injection site has occurred.
+Hyperglycemia has been reported with repeated insulin injections into areas of localized cutaneous amyloidosis; hypoglycemia has been reported with a sudden change to an unaffected injection site.
+
 Injection Site Reactions
 
 Patients taking HUMULIN R U-500 may experience injection site reactions, including injection site hematoma, pain, hemorrhage, erythema, nodules, swelling, discoloration, pruritus, warmth, and injection site mass.

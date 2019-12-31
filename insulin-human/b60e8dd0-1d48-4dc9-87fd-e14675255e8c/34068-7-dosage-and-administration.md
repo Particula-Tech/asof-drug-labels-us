@@ -14,7 +14,9 @@
 - Inspect HUMULIN R U-500 visually for particulate matter and discoloration.
   Only use HUMULIN R U-500 if the solution appears clear and colorless.
 - Instruct patients to inject HUMULIN R U-500 subcutaneously into the thigh, upper arm, abdomen, or buttocks.
-- Rotate injection sites within the same region from one injection to the next to reduce the risk of lipodystrophy [see Adverse Reactions (6)].
+- Rotate injection sites within the same region from one injection to the next to reduce the risk of lipodystrophy and localized cutaneous amyloidosis.
+  Do not inject into areas of lipodystrophy or localized cutaneous amyloidosis [see Warnings and Precautions (5.3) and Adverse Reactions (6)].
+- During changes to a patient's insulin regimen, increase the frequency of blood glucose monitoring [see Warnings and Precautions (5.3)].
 - Use HUMULIN R U-500 KwikPen with caution in patients with visual impairment that may rely on audible clicks to dial their dose.
 - DO NOT administer HUMULIN R U-500 intravenously or intramuscularly.
 - DO NOT dilute or mix HUMULIN R U-500 with any other insulin products or solutions.

@@ -13,6 +13,7 @@ When using HUMULIN R U-500 from a vial, patients should be counseled to use only
 
 Patients should be instructed on self-management procedures including glucose monitoring, proper injection technique, and management of hypoglycemia and hyperglycemia, especially at initiation of HUMULIN R U-500 therapy.
 Patients must be instructed on handling of special situations such as intercurrent conditions (illness, stress, or emotional disturbances), an inadequate or skipped insulin dose, inadvertent administration of an increased insulin dose, inadequate food intake, and skipped meals.
+Advise patients that changes in insulin regimen can predispose to hyperglycemia or hypoglycemia and that changes in insulin regimen should be made under close medical supervision.
 Refer patients to the HUMULIN R U-500 Patient Information Leaflet for additional information [see Warnings and Precautions (5)].
 
 Inspect HUMULIN R U-500 visually for particulate matter and discoloration.
@@ -20,11 +21,11 @@ Only use HUMULIN R U-500 if the solution appears clear and colorless.
 
 Do not dilute or mix HUMULIN R U-500 with any other insulin products or solutions [see Dosage and Administration (2.1)].
 
-Literature Revised: August 2019
+Literature Revised: November 2019
 
 Marketed by: Lilly USA, LLC, Indianapolis, IN 46285, USA
 
 Copyright © 1997, 2019, Eli Lilly and Company.
 All rights reserved.
 
-LINR500-0007-USPI-20190822
+LINR500-0008-USPI-20191115

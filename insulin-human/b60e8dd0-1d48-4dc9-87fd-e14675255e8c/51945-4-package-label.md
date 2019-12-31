@@ -30,6 +30,8 @@ Lilly
 
 # PACKAGE CARTON – HUMULIN R U-500 KwikPen 3 mL (500 Units per mL)
 
+Dispense in this sealed carton
+
 NDC 0002-8824-27
 
 Humulin®R U-500 KwikPen®
