@@ -36,14 +36,14 @@ If serum creatinine has increased by 50% or more compared to a prior value, the 
 3.
 Patients must be well hydrated, and must be treated with sodium bicarbonate for urinary alkalinization.
 
-a. Administer 1,000 mL/m2 of intravenous fluid over 6 hours prior to initiation of the methotrexate infusion.
-Continue hydration at 125 mL/m2/hr (3 liters/m2/day) during the methotrexate infusion, and for 2 days after the infusion has been completed.
+a. Administer 1,000 mL/m 2 of intravenous fluid over 6 hours prior to initiation of the methotrexate infusion.
+Continue hydration at 125 mL/m 2/hr (3 liters/m 2/day) during the methotrexate infusion, and for 2 days after the infusion has been completed.
 
 b. Alkalinize urine to maintain pH above 7.0 during methotrexate infusion and leucovorin calcium therapy.
 This can be accomplished by the administration of sodium bicarbonate orally or by incorporation into a separate intravenous solution.
 
 4.
-Repeat serum creatinine and serum methotrexate 24 hours after starting methotrexate and at least once daily until the methotrexate level is below 5x10-8 mol/L (0.05 micromolar).
+Repeat serum creatinine and serum methotrexate 24 hours after starting methotrexate and at least once daily until the methotrexate level is below 5x10 -8 mol/L (0.05 micromolar).
 
 5.
 The table below provides guidelines for leucovorin calcium dosage based upon serum methotrexate levels.
@@ -77,12 +77,12 @@ Divided oral dosages of 2.5 mg at 12 hour intervals for 3 doses given as a cours
 
 Polyarticular-Course Juvenile Rheumatoid Arthritis
 
-The recommended starting dose is 10 mg/m2 given once weekly.
+The recommended starting dose is 10 mg/m 2 given once weekly.
 
 For either adult RA or polyarticular-course JRA, dosages may be adjusted gradually to achieve an optimal response.
 Limited experience shows a significant increase in the incidence and severity of serious toxic reactions, especially bone marrow suppression, at doses greater than 20 mg/wk in adults.
-Although there is experience with doses up to 30 mg/m2/wk in children, there are too few published data to assess how doses over 20 mg/m2/wk might affect the risk of serious toxicity in children.
-Experience does suggest, however, that children receiving 20 to 30 mg/m2/wk (0.65 to 1 mg/kg/wk) may have better absorption and fewer gastrointestinal side effects if methotrexate is administered either intramuscularly or subcutaneously.
+Although there is experience with doses up to 30 mg/m 2/wk in children, there are too few published data to assess how doses over 20 mg/m 2/wk might affect the risk of serious toxicity in children.
+Experience does suggest, however, that children receiving 20 to 30 mg/m 2/wk (0.65 to 1 mg/kg/wk) may have better absorption and fewer gastrointestinal side effects if methotrexate is administered either intramuscularly or subcutaneously.
 
 Therapeutic response usually begins within 3 to 6 weeks and the patient may continue to improve for another 12 weeks or more.
 
@@ -119,7 +119,8 @@ The use of methotrexate may permit the return to conventional topical therapy, w
 # HANDLING AND DISPOSAL:
 
 Procedures for proper handling and disposal of anticancer drugs should be considered.
-Several guidelines on this subject have been published.1-7 There is no general agreement that all of the procedures recommended in the guidelines are necessary or appropriate.
+Several guidelines on this subject have been published.
+1-7 There is no general agreement that all of the procedures recommended in the guidelines are necessary or appropriate.
 
 # DILUTION INSTRUCTIONS FOR LIQUID METHOTREXATE INJECTION PRODUCT:
 

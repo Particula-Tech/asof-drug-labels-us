@@ -30,9 +30,9 @@ In young adults and older patients, clinical remission is more difficult to obta
 
 Methotrexate alone or in combination with steroids was used initially for induction of remission in acute lymphoblastic leukemias.
 More recently corticosteroid therapy, in combination with other antileukemic drugs or in cyclic combinations with methotrexate included, has appeared to produce rapid and effective remissions.
-When used for induction, methotrexate in doses of 3.3 mg/m2 in combination with 60 mg/m2 of prednisone, given daily, produced remissions in 50% of patients treated, usually within a period of 4 to 6 weeks.
+When used for induction, methotrexate in doses of 3.3 mg/m 2 in combination with 60 mg/m 2 of prednisone, given daily, produced remissions in 50% of patients treated, usually within a period of 4 to 6 weeks.
 Methotrexate in combination with other agents appears to be the drug of choice for securing maintenance of drug-induced remissions.
-When remission is achieved and supportive care has produced general clinical improvement, maintenance therapy is initiated, as follows: Methotrexate is administered 2 times weekly either by mouth or intramuscularly in total weekly doses of 30 mg/m2.
+When remission is achieved and supportive care has produced general clinical improvement, maintenance therapy is initiated, as follows: Methotrexate is administered 2 times weekly either by mouth or intramuscularly in total weekly doses of 30 mg/m 2.
 It has also been given in doses of 2.5 mg/kg intravenously every 14 days.
 If and when relapse does occur, reinduction of remission can again usually be obtained by repeating the initial induction regimen.
 
@@ -59,17 +59,17 @@ Osteosarcoma
 
 An effective adjuvant chemotherapy regimen requires the administration of several cytotoxic chemotherapeutic agents.
 In addition to high-dose methotrexate with leucovorin rescue, these agents may include doxorubicin, cisplatin, and the combination of bleomycin, cyclophosphamide and dactinomycin (BCD) in the doses and schedule shown in the table below.
-The starting dose for high-dose methotrexate treatment is 12 grams/m2.
-If this dose is not sufficient to produce a peak serum methotrexate concentration of 1,000 micromolar (10-3 mol/L) at the end of the methotrexate infusion, the dose may be escalated to 15 grams/m2 in subsequent treatments.
+The starting dose for high-dose methotrexate treatment is 12 grams/m 2.
+If this dose is not sufficient to produce a peak serum methotrexate concentration of 1,000 micromolar (10 -3 mol/L) at the end of the methotrexate infusion, the dose may be escalated to 15 grams/m 2 in subsequent treatments.
 If the patient is vomiting or is unable to tolerate oral medication, leucovorin is given intravenously or intramuscularly at the same dose and schedule.
 
 | Drug* | Dose* | Treatment Week After Surgery |
 | --- | --- | --- |
-| Methotrexate | 12 g/m2 IV as 4 hour infusion (starting dose) | 4,5,6,7,11,12,15, 16,29,30,44,45 |
+| Methotrexate | 12 g/m 2 IV as 4 hour infusion (starting dose) | 4,5,6,7,11,12,15, 16,29,30,44,45 |
 | Leucovorin | 15 mg orally every six hours for 10 doses starting at 24 hours after start of methotrexate infusion. | _ _ _ |
-| Doxorubicin† as a single drug | 30 mg/m2/day IV x 3 days | 8,17 |
-| Doxorubicin† Cisplatin† | 50 mg/m2 IV 100 mg/m2 IV | 20,23,33,36 20,23,33,36 |
-| Bleomycin† Cyclophosphamide† Dactinomycin† | 15 units/m2 IV x 2 days 600 mg/m2 IV x 2 days 0.6 mg/m2 IV x 2 days | 2,13,26,39,42 2,13,26,39,42 2,13,26,39,42 |
+| Doxorubicin † as a single drug | 30 mg/m 2/day IV x 3 days | 8,17 |
+| Doxorubicin † Cisplatin † | 50 mg/m 2 IV 100 mg/m 2 IV | 20,23,33,36 20,23,33,36 |
+| Bleomycin † Cyclophosphamide † Dactinomycin † | 15 units/m 2 IV x 2 days 600 mg/m 2 IV x 2 days 0.6 mg/m 2 IV x 2 days | 2,13,26,39,42 2,13,26,39,42 2,13,26,39,42 |
 
 *Link MP, Goorin AM, Miser AW, et al: The effect of adjuvant chemotherapy on relapse-free survival in patients with osteosarcoma of the extremity.
 N Engl J of Med 1986; 314(No.25):1600-1606.
