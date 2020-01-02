@@ -6,7 +6,7 @@ The following serious adverse reactions are described below and elsewhere in the
 
 • Interstitial Lung Disease [see Warnings and Precautions (5.3)]
 
-• Extravasation and Tissue Injury[see Warnings and Precautions (5.5)]
+• Extravasation and Tissue Injury [see Warnings and Precautions (5.5)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -22,15 +22,15 @@ Adverse Reactions Experienced by ≥ 5% of Ovarian Cancer Patients Randomized to
 | Adverse Reaction | Topotecan Hydrochloride (n = 112) | Paclitaxel (n = 114) |
 | --- | --- | --- |
 | Hematologic Grade 3/4 | % | % |
-| Grade 4 neutropenia (< 500 cells/mm3) | 80 | 21 |
+| Grade 4 neutropenia (< 500 cells/mm 3) | 80 | 21 |
 | Grade 3/4 anemia (Hgb < 8 g/dL) | 41 | 6 |
-| Grade 4 thrombocytopenia (< 25,000 plts/mm3) | 27 | 3 |
+| Grade 4 thrombocytopenia (< 25,000 plts/mm 3) | 27 | 3 |
 | Febrile neutropenia | 23 | 4 |
 | Non-hematologic Grade 3/4 | % | % |
-| Infections and infestations Sepsisa | 5 | 2 |
+| Infections and infestations Sepsis a | 5 | 2 |
 | Respiratory, thoracic, and mediastinal disorders Dyspnea | 6 | 5 |
 | Gastrointestinal disorders Abdominal pain Constipation Diarrhea Intestinal obstruction Nausea Vomiting | 5 5 6 5 10 10 | 4 0 1 4 2 3 |
-| General disorders and administrative site conditions Fatigue Asthenia Painb | 7 5 5 | 6 3 7 |
+| General disorders and administrative site conditions Fatigue Asthenia Pain b | 7 5 5 | 6 3 7 |
 
 a Death related to sepsis occurred in 2% of patients receiving topotecan hydrochloride and 0% of patients receiving paclitaxel.
 
@@ -46,15 +46,15 @@ Adverse Reactions Experienced by ≥ 5% of Small Cell Lung Cancer Patients Rando
 | Adverse Reaction | Topotecan Hydrochloride (n = 107) | CAV (n = 104) |
 | --- | --- | --- |
 | Hematologic Grade 3/4 | % | % |
-| Grade 4 neutropenia (< 500 cells/mm3) | 70 | 72 |
+| Grade 4 neutropenia (< 500 cells/mm 3) | 70 | 72 |
 | Grade 3/4 anemia (Hgb < 8 g/dL) | 42 | 20 |
-| Grade 4 thrombocytopenia (< 25,000 plts/mm3) | 29 | 5 |
+| Grade 4 thrombocytopenia (< 25,000 plts/mm 3) | 29 | 5 |
 | Febrile neutropenia | 28 | 26 |
 | Non-hematologic Grade 3/4 | % | % |
-| Infections and infestations Sepsisa | 5 | 5 |
+| Infections and infestations Sepsis a | 5 | 5 |
 | Respiratory, thoracic, and mediastinal disorders Dyspnea Pneumonia | 9 8 | 14 6 |
 | Gastrointestinal disorders Abdominal pain Nausea | 6 8 | 4 6 |
-| General disorders and administrative site conditions Fatigue Asthenia Painb | 6 9 5 | 10 7 7 |
+| General disorders and administrative site conditions Fatigue Asthenia Pain b | 6 9 5 | 10 7 7 |
 
 a Death related to sepsis occurred in 3% of patients receiving topotecan hydrochloride and 1% of patients receiving CAV.
 
@@ -70,16 +70,16 @@ In the comparative trial with topotecan hydrochloride plus cisplatin versus cisp
 Table 3 shows the hematologic and non-hematologic adverse reactions in patients with cervical cancer.
 
 Table 3.
-Adverse Reactions Experienced by ≥ 5% of Patients with Cervical Cancer Randomized to Receive Topotecan Hydrochloride plus Cisplatin or Cisplatin Monotherapy (Between-Arm Difference ≥ 2%)a
+Adverse Reactions Experienced by ≥ 5% of Patients with Cervical Cancer Randomized to Receive Topotecan Hydrochloride plus Cisplatin or Cisplatin Monotherapy (Between-Arm Difference ≥ 2%) a
 
 | Adverse Reaction | Topotecan Hydrochloride plus Cisplatin (n = 140) % | Cisplatin (n = 144) % |
 | --- | --- | --- |
 | Hematologic |  |  |
-| Neutropenia Grade 3 (< 1,000 to 500 cells/mm3) Grade 4 (< 500 cells/mm3) | 26 48 | 1 1 |
+| Neutropenia Grade 3 (< 1,000 to 500 cells/mm 3) Grade 4 (< 500 cells/mm 3) | 26 48 | 1 1 |
 | Anemia Grade 3 (Hgb < 8 to 6.5 g/dL) Grade 4 (Hgb < 6.5 g/dL) | 34 6 | 19 3 |
-| Thrombocytopenia Grade 3 (< 50,000 to 10,000 cells/mm3) Grade 4 (< 10,000 cells/mm3) | 26 7 | 3 0 |
-| Non-hematologicb,c |  |  |
-| General disorders and administrative site conditions Constitutionald Paine | 69 59 | 62 50 |
+| Thrombocytopenia Grade 3 (< 50,000 to 10,000 cells/mm 3) Grade 4 (< 10,000 cells/mm 3) | 26 7 | 3 0 |
+| Non-hematologic b,c |  |  |
+| General disorders and administrative site conditions Constitutional d Pain e | 69 59 | 62 50 |
 | Gastrointestinal disorders Vomiting Stomatitis-pharyngitis Other | 40 6 63 | 37 0 56 |
 | Dermatologyf | 48 | 20 |
 | Infection-febrile neutropeniaf | 28 | 18 |

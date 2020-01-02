@@ -9,7 +9,7 @@ Mammalian cells cannot efficiently repair these double-strand breaks.
 
 ## 12.3 Pharmacokinetics
 
-Following administration of topotecan hydrochloride for injection at doses of 0.5 to 1.5 mg/m2 administered as a 30-minute infusion to cancer patients, topotecan exhibited multiexponential pharmacokinetics with a terminal half-life of 2 to 3 hours.
+Following administration of topotecan hydrochloride for injection at doses of 0.5 to 1.5 mg/m 2 administered as a 30-minute infusion to cancer patients, topotecan exhibited multiexponential pharmacokinetics with a terminal half-life of 2 to 3 hours.
 Total exposure (AUC) is approximately dose-proportional.
 
 Distribution
@@ -51,7 +51,7 @@ Drug Interactions
 
 Effects of Topotecan on Drug-Metabolizing Enzymes: In vitro inhibition studies using marker substrates for human P450 CYP1A2, CYP2A6, CYP2C8/9, CYP2C19, CYP2D6, CYP2E, CYP3A, or CYP4A or dihydropyrimidine dehydrogenase indicate that the activities of these enzymes were not altered by topotecan.
 
-Cisplatin: Administration of cisplatin (60 or 75 mg/m2 on Day 1) before topotecan (0.75 mg/m2/day on Days 1 to 5) in 9 patients with ovarian cancer had no significant effect on the Cmax and AUC of total topotecan.
+Cisplatin: Administration of cisplatin (60 or 75 mg/m 2 on Day 1) before topotecan (0.75 mg/m 2/day on Days 1 to 5) in 9 patients with ovarian cancer had no significant effect on the C max and AUC of total topotecan.
 
-Topotecan (0.3 mg/m2 IV daily on Days 2 to 6) had no effect on the pharmacokinetics of free platinum in 15 patients with ovarian cancer who were administered cisplatin 50 mg/m2 (n = 9) or 75 mg/m2 (n = 6) on Day 2 after paclitaxel 110 mg/m2 on Day 1.
-Topotecan (0.75 mg/m2 IV daily on Days 1 to 5) had no effect on dose-normalized (60 mg/m2) Cmax values of free platinum in 13 patients with ovarian cancer who were administered 60 mg/m2 (n = 10) or 75 mg/m2 (n = 3) cisplatin on Day 1.
+Topotecan (0.3 mg/m 2 IV daily on Days 2 to 6) had no effect on the pharmacokinetics of free platinum in 15 patients with ovarian cancer who were administered cisplatin 50 mg/m 2 (n = 9) or 75 mg/m 2 (n = 6) on Day 2 after paclitaxel 110 mg/m 2 on Day 1.
+Topotecan (0.75 mg/m 2 IV daily on Days 1 to 5) had no effect on dose-normalized (60 mg/m 2) C max values of free platinum in 13 patients with ovarian cancer who were administered 60 mg/m 2 (n = 10) or 75 mg/m 2 (n = 3) cisplatin on Day 1.

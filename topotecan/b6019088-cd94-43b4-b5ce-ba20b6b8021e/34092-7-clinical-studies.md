@@ -4,9 +4,9 @@
 
 Topotecan hydrochloride was studied in 2 clinical trials of 223 patients given topotecan with metastatic ovarian carcinoma.
 All patients had disease that had recurred on, or was unresponsive to, a platinum-containing regimen.
-Patients in these 2 trials received an initial dose of 1.5 mg/m2 given by intravenous infusion over 30 minutes for 5 consecutive days, starting on Day 1 of a 21-day course.
+Patients in these 2 trials received an initial dose of 1.5 mg/m 2 given by intravenous infusion over 30 minutes for 5 consecutive days, starting on Day 1 of a 21-day course.
 
-One trial was a randomized trial of 112 patients treated with topotecan hydrochloride (1.5 mg/m2/day × 5 days starting on Day 1 of a 21-day course) and 114 patients treated with paclitaxel (175 mg/m2 over 3 hours on Day 1 of a 21-day course).
+One trial was a randomized trial of 112 patients treated with topotecan hydrochloride (1.5 mg/m 2/day × 5 days starting on Day 1 of a 21-day course) and 114 patients treated with paclitaxel (175 mg/m 2 over 3 hours on Day 1 of a 21-day course).
 All patients had recurrent ovarian cancer after a platinum-containing regimen or had not responded to at least 1 prior platinum-containing regimen.
 Patients who did not respond to the trial therapy, or who progressed, could be given the alternative treatment.
 The efficacy outcome measures were response rate, response duration, and time to progression.
@@ -18,7 +18,7 @@ Efficacy of Topotecan Hydrochloride versus Paclitaxel in Ovarian Cancer
 | Parameter | Topotecan Hydrochloride (n = 112) | Paclitaxel (n = 114) |
 | --- | --- | --- |
 | Overall response rate (95% CI) Complete response rate Partial response rate | 21% (13% to 28%) 5% 16% | 14% (8% to 20%) 3% 11% |
-| Response durationa (months) Median (95% CI) | 6.0 (5.1 to 7.6) | 5.0 (3.7 to 7.8) |
+| Response duration a (months) Median (95% CI) | 6.0 (5.1 to 7.6) | 5.0 (3.7 to 7.8) |
 | Time to progression (months) Median (95% CI) HR (Topotecan hydrochloride: paclitaxel) (95% CI) | 4.4 (2.8 to 5.4) 3.4 (2.7 to 4.2) 0.76 (0.57 to 1.02) |  |
 | Survival (months) Median (95% CI) HR (Topotecan hydrochloride: paclitaxel) (95% CI) | 14.5 (10.7 to 16.5) 12.2 (9.7 to 15.8) 0.97 (0.71 to 1.34) |  |
 
@@ -41,7 +41,7 @@ The median survival was 67.9 weeks (range: 1.4 to 112.9 weeks).
 Topotecan hydrochloride was studied in 426 patients with recurrent or progressive small cell lung cancer in 1 randomized, comparative trial and in 3 single-arm trials.
 Randomized Comparative Trial
 
-In a randomized, comparative, Phase 3 trial, 107 patients were treated with topotecan hydrochloride (1.5 mg/m2/day × 5 days starting on Day 1 of a 21-day course) and 104 patients were treated with CAV (1,000 mg/m2 cyclophosphamide, 45 mg/m2 doxorubicin, 2 mg vincristine administered sequentially on Day 1 of a 21-day course).
+In a randomized, comparative, Phase 3 trial, 107 patients were treated with topotecan hydrochloride (1.5 mg/m 2/day × 5 days starting on Day 1 of a 21-day course) and 104 patients were treated with CAV (1,000 mg/m 2 cyclophosphamide, 45 mg/m 2 doxorubicin, 2 mg vincristine administered sequentially on Day 1 of a 21-day course).
 All patients were considered sensitive to first-line chemotherapy (responders who then subsequently progressed greater than or equal to 60 days after completion of first-line therapy).
 A total of 77% of patients treated with topotecan hydrochloride and 79% of patients treated with CAV received platinum/etoposide with or without other agents as first-line chemotherapy.
 The efficacy outcome measures were response rate and duration of response.
@@ -52,7 +52,7 @@ Efficacy of Topotecan Hydrochloride versus CAV (cyclophosphamide-doxorubicin-vin
 
 | Parameter | Topotecan Hydrochloride (n = 107) | CAV (n = 104) |
 | --- | --- | --- |
-| Overall response rate (95% CI) Complete response rate Partial response rate Response durationa (months) Median (95% CI) | 24% (16% to 32%) 18% (11% to 26%) 0% 1% 24% 17% 3.3 (3.0 to 4.1) 3.5 (3.0 to 5.3) |  |
+| Overall response rate (95% CI) Complete response rate Partial response rate Response duration a (months) Median (95% CI) | 24% (16% to 32%) 18% (11% to 26%) 0% 1% 24% 17% 3.3 (3.0 to 4.1) 3.5 (3.0 to 5.3) |  |
 | Time to progression (months) Median (95% CI) HR (Topotecan hydrochloride:CAV) (95% CI) | 3.1 (2.6 to 4.1) 2.8 (2.5 to 3.2) 0.92 (0.69 to 1.22) |  |
 | Survival (months) Median (95% CI) HR (Topotecan hydrochloride:CAV) (95% CI) | 5.8 (4.7 to 6.8) 5.7 (5.0 to 7.0) 1.04 (0.78 to 1.39) |  |
 
@@ -72,7 +72,7 @@ Percentage of Patients with Symptom Improvementa: Topotecan Hydrochloride versus
 
 | Symptom | Topotecan Hydrochloride(n = 107) |  | CAV(n = 104) |  |
 | --- | --- | --- | --- | --- |
-| nb | (%) | nb | (%) |  |
+| n b | (%) | n b | (%) |  |
 | Shortness of breath | 68 | (28) | 61 | (7) |
 | Interference with daily activity | 67 | (27) | 63 | (11) |
 | Fatigue | 70 | (23) | 65 | (9) |
@@ -94,7 +94,7 @@ Median time to progression and median survival were similar in all 3 trials and 
 
 ## 14.3 Cervical Cancer
 
-In a comparative trial, 147 eligible women were randomized to topotecan hydrochloride (0.75 mg/m2/day IV over 30 minutes x 3 consecutive days starting on Day 1 of a 21-day course) plus cisplatin (50 mg/m2 on Day 1) and 146 eligible women were randomized to cisplatin (50 mg/m2 IV on Day 1 of a 21-day course).
+In a comparative trial, 147 eligible women were randomized to topotecan hydrochloride (0.75 mg/m 2/day IV over 30 minutes x 3 consecutive days starting on Day 1 of a 21-day course) plus cisplatin (50 mg/m 2 on Day 1) and 146 eligible women were randomized to cisplatin (50 mg/m 2 IV on Day 1 of a 21-day course).
 All patients had histologically confirmed Stage IV-B, recurrent, or persistent carcinoma of the cervix considered not amenable to curative treatment with surgery and/or radiation.
 Fifty-six percent (56%) of patients treated with topotecan hydrochloride plus cisplatin and 56% of patients treated with cisplatin had received prior cisplatin with or without other agents as first-line chemotherapy.
 

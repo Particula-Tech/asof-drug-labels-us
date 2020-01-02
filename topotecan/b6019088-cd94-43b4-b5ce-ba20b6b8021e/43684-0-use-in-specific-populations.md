@@ -12,9 +12,9 @@ The background risk of major birth defects and miscarriage for the indicated pop
 
 Data
 
-Animal Data: In rabbits, a dose of 0.10 mg/kg/day (about equal to the clinical dose on a mg/m2 basis) given on Days 6 through 20 of gestation caused maternal toxicity, embryolethality, and reduced fetal body weight.
-In the rat, a dose of 0.23 mg/kg/day (about equal to the clinical dose on a mg/m2 basis) given for 14 days before mating through gestation Day 6 caused fetal resorption, microphthalmia, pre-implant loss, and mild maternal toxicity.
-Administration of an intravenous dose of 0.10 mg/kg/day (about half the clinical dose on a mg/m2 basis) given to rats on Days 6 through 17 of gestation caused an increase in post-implantation mortality.
+Animal Data: In rabbits, a dose of 0.10 mg/kg/day (about equal to the clinical dose on a mg/m 2 basis) given on Days 6 through 20 of gestation caused maternal toxicity, embryolethality, and reduced fetal body weight.
+In the rat, a dose of 0.23 mg/kg/day (about equal to the clinical dose on a mg/m 2 basis) given for 14 days before mating through gestation Day 6 caused fetal resorption, microphthalmia, pre-implant loss, and mild maternal toxicity.
+Administration of an intravenous dose of 0.10 mg/kg/day (about half the clinical dose on a mg/m 2 basis) given to rats on Days 6 through 17 of gestation caused an increase in post-implantation mortality.
 This dose also caused an increase in total fetal malformations.
 The most frequent malformations were of the eye (microphthalmia, anophthalmia, rosette formation of the retina, coloboma of the retina, ectopic orbit), brain (dilated lateral and third ventricles), skull, and vertebrae.
 
@@ -22,7 +22,7 @@ The most frequent malformations were of the eye (microphthalmia, anophthalmia, r
 
 Risk Summary It is not known whether this drug is present in human milk; however, topotecan is excreted in rat milk at high concentrations [see Data].
 Because many drugs are present in human milk and because of the potential for serious adverse reactions in nursing infants with topotecan hydrochloride, advise nursing mothers to discontinue breastfeeding during treatment with topotecan hydrochloride.
-Data Animal Data: Following intravenous administration of topotecan to lactating rats at a dose of 4.72 mg/m2 (about twice the clinical dose on a mg/m2 basis), topotecan was excreted into milk at concentrations up to 48-fold higher than those in plasma.
+Data Animal Data: Following intravenous administration of topotecan to lactating rats at a dose of 4.72 mg/m 2 (about twice the clinical dose on a mg/m 2 basis), topotecan was excreted into milk at concentrations up to 48-fold higher than those in plasma.
 
 ## 8.3 Females and Males of Reproductive Potential
 
