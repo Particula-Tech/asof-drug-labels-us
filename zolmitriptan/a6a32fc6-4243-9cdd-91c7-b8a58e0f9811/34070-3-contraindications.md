@@ -1,6 +1,6 @@
 # 4 CONTRAINDICATIONS
 
-Zolmitriptan is contraindicated in patients with:
+Zolmitriptan is contraindicated in patients with:x
 
 - Ischemic coronary artery disease (angina pectoris, history of myocardial infarction, or documented silent ischemia), other significant underlying cardiovascular disease, or coronary artery vasospasm including Prinzmetal’s angina [see Warnings and Precautions (5.1)]
 - Wolff-Parkinson-White Syndrome or arrhythmias associated with other cardiac accessory conduction pathway disorders [see Warnings and Precautions (5.2)]
