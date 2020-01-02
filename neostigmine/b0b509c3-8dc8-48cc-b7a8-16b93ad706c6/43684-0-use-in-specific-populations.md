@@ -19,14 +19,14 @@ Data
 
 Animal Data
 
-In embryofetal development studies, rats and rabbits were administered neostigmine methylsulfate at human equivalent doses (HED, on a mg/m2 basis) of 1.6, 4 and 8.1 mcg/kg/day 3.2, 8.1, and
+In embryofetal development studies, rats and rabbits were administered neostigmine methylsulfate at human equivalent doses (HED, on a mg/m 2 basis) of 1.6, 4 and 8.1 mcg/kg/day 3.2, 8.1, and
 
 13 mcg/kg/day, respectively, during the period of organogenesis (Gestation Days 6 through 17 for rats and Gestation Days 6 through 18 for rabbits).
 There was no evidence for a teratogenic effect in rats and rabbits up to HED 8.1 and 13 mcg/kg/day, which are approximately 0.097-times and 0.16-times the MRHD of 5 mg/60 kg, respectively in the presence of minimal maternal toxicity (tremors, ataxia, and prostration).
 The studies resulted in exposures in the animals well below predicted exposures in humans.
 
 In a pre- and postnatal development study in rats, neostigmine methylsulfate was administered to pregnant female rats at human equivalent doses (HED) of 1.6, 4 and 8.1 mcg/kg/day from Day 6 of gestation through Day 20 of lactation, with weaning on Day 21.
-There were no adverse effects on physical development, behavior, learning ability, or fertility in the offspring occurred at HED doses up 8.1 mcg/kg/day which is 0.097-times the MRHD of 5 mg/60 kg on a mg/m2 basis in the presence of minimal maternal toxicity (tremors, ataxia, and prostration).
+There were no adverse effects on physical development, behavior, learning ability, or fertility in the offspring occurred at HED doses up 8.1 mcg/kg/day which is 0.097-times the MRHD of 5 mg/60 kg on a mg/m 2 basis in the presence of minimal maternal toxicity (tremors, ataxia, and prostration).
 The studies resulted in exposures in the animals well below predicted exposures in humans.
 
 ## 8.2 Lactation
