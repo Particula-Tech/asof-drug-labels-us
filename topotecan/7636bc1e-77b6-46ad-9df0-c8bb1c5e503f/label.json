@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA204406"
+  ],
+  "inn": "topotecan",
+  "labeler": "Accord Healthcare Inc.",
+  "package_ndcs": [
+    "16729-243-30",
+    "16729-243-31"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "topotecan",
+      "name": "Topotecan"
+    }
+  ],
+  "setid": "7636bc1e-77b6-46ad-9df0-c8bb1c5e503f",
+  "source": "dailymed"
+}
