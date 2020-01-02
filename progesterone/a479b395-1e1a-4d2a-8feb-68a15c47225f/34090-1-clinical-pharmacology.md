@@ -9,7 +9,7 @@ Inhibits (at the usual dose range) the secretion of pituitary gonadotropins, whi
 Absorption
 
 After intramuscular administration of 10 mg of progesterone in oil maximum plasma concentrations (geometric mean of 7 ng/mL) were reached within approximately 8 hours after injection and plasma concentrations remained above baseline for about 24 hours after injection.
-Injection of 10, 25, and 50 mg resulted in geometric mean values for maximum plasma concentration (Cmax) of 7, 28, and 50 ng/mL, respectively.
+Injection of 10, 25, and 50 mg resulted in geometric mean values for maximum plasma concentration (C max) of 7, 28, and 50 ng/mL, respectively.
 
 Distribution
 
@@ -42,6 +42,6 @@ Since progesterone is metabolized by the liver, use in patients with liver dysfu
 
 ## Drug Interactions
 
-The metabolism of progesterone by human liver microsomes was inhibited by ketoconazole (IC50 < 01 μM).
+The metabolism of progesterone by human liver microsomes was inhibited by ketoconazole (IC 50 < 01 μM).
 Ketoconazole is a known inhibitor of cytochrome P450 3A4 and these data suggest that ketoconazole or other known inhibitors of this enzyme may increase the bioavailability of progesterone.
 The clinical relevance of the in vitro findings is unknown.

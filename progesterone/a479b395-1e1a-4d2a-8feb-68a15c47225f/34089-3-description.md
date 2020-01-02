@@ -8,7 +8,7 @@ Practically insoluble in water, it is soluble in alcohol, acetone, and dioxane a
 
 It has the following structural formula:
 
-C21H30O2 M.W.
+C 21H 30O 2 M.W.
 314.47
 
 Pregn-4-ene-3, 20-dione
