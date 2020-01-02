@@ -7,7 +7,7 @@ Premature neonates are particularly at risk because their kidneys are immature, 
 Research indicates that patients with impaired kidney function, including premature neonates, who receive parenteral levels of aluminum at greater than 4 to 5 mcg/kg/day accumulate aluminum at levels associated with central nervous system and bone toxicity.
 Tissue loading may occur at even lower rates of administration.
 
-Folic acid alone is improper therapy in the treatment of pernicious anemia and other megaloblastic anemias where Vitamin B12 is deficient.
+Folic acid alone is improper therapy in the treatment of pernicious anemia and other megaloblastic anemias where Vitamin B 12 is deficient.
 
 This product contains benzyl alcohol.
 Benzyl alcohol has been reported to be associated with a fatal “Gasping Syndrome” in premature infants.
