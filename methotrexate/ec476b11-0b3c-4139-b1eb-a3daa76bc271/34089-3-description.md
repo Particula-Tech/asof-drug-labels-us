@@ -6,7 +6,7 @@ Chemically, methotrexate is N-[4-[[(2,4-diamino-6-pteridinyl)-methyl]methylamino
 
 The structural formula is:
 
-C20H22N8O5 M.W.
+C 20H 22N 8O 5 M.W.
 454.45
 
 Methotrexate for Injection, USP, is sterile and non-pyrogenic and may be given by the intramuscular, intravenous, intra-arterial or intrathecal route (see DOSAGE AND ADMINISTRATION).

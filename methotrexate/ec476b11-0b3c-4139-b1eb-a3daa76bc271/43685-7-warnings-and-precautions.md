@@ -123,12 +123,12 @@ Use the preservative-free formulation of methotrexate in neonates.
 There have been reports of fatal ‘gasping syndrome’ in neonates (children less than one month of age) following the administration of intravenous solutions containing the preservative benzyl alcohol.
 Symptoms include a striking onset of gasping respiration, hypotension, bradycardia, and cardiovascular collapse.
 
-Serious neurotoxicity, frequently manifested as generalized or focal seizures, has been reported with unexpectedly increased frequency among pediatric patients with acute lymphoblastic leukemia who were treated with intermediate-dose intravenous methotrexate (1 gm/m2) (see PRECAUTIONS, Organ System Toxicity, Neurologic).
+Serious neurotoxicity, frequently manifested as generalized or focal seizures, has been reported with unexpectedly increased frequency among pediatric patients with acute lymphoblastic leukemia who were treated with intermediate-dose intravenous methotrexate (1 gm/m 2) (see PRECAUTIONS, Organ System Toxicity, Neurologic).
 
 ## Geriatric Use
 
 Clinical studies of methotrexate did not include sufficient numbers of subjects age 65 and over to determine whether they respond differently from younger subjects.
-In general, dose selection for an elderly patient should be cautious reflecting the greater frequency of decreased hepatic and renal function, decreased folate stores, concomitant disease or other drug therapy (i.e., that interfere with renal function, methotrexate or folate metabolism) in this population (see PRECAUTIONS,Drug Interactions).
+In general, dose selection for an elderly patient should be cautious reflecting the greater frequency of decreased hepatic and renal function, decreased folate stores, concomitant disease or other drug therapy (i.e., that interfere with renal function, methotrexate or folate metabolism) in this population (see PRECAUTIONS, Drug Interactions).
 Since decline in renal function may be associated with increases in adverse events and serum creatinine measurements may over estimate renal function in the elderly, more accurate methods (i.e., creatinine clearance) should be considered.
 Serum methotrexate levels may also be helpful.
 Elderly patients should be closely monitored for early signs of hepatic, bone marrow and renal toxicity.
@@ -146,7 +146,7 @@ Hematologic
 
 Methotrexate can suppress hematopoiesis and cause anemia, aplastic anemia, pancytopenia, leukopenia, neutropenia, and/or thrombocytopenia.
 In patients with malignancy and pre-existing hematopoietic impairment, the drug should be used with caution, if at all.
-In controlled clinical trials in rheumatoid arthritis (n=128), leukopenia (WBC <3000/mm3) was seen in 2 patients, thrombocytopenia (platelets <100,000/mm3) in 6 patients, and pancytopenia in 2 patients.
+In controlled clinical trials in rheumatoid arthritis (n=128), leukopenia (WBC <3000/mm 3) was seen in 2 patients, thrombocytopenia (platelets <100,000/mm 3) in 6 patients, and pancytopenia in 2 patients.
 
 In psoriasis and rheumatoid arthritis, methotrexate should be stopped immediately if there is a significant drop in blood counts.
 In the treatment of neoplastic diseases, methotrexate should be continued only if the potential benefit warrants the risk of severe myelosuppression.
@@ -196,7 +196,7 @@ When a patient presents with pulmonary symptoms, the possibility of Pneumocystis
 Neurologic
 
 There have been reports of leukoencephalopathy following intravenous administration of methotrexate to patients who have had craniospinal irradiation.
-Serious neurotoxicity, frequently manifested as generalized or focal seizures, has been reported with unexpectedly increased frequency among pediatric patients with acute lymphoblastic leukemia who were treated with intermediate-dose intravenous methotrexate (1 gm/m2).
+Serious neurotoxicity, frequently manifested as generalized or focal seizures, has been reported with unexpectedly increased frequency among pediatric patients with acute lymphoblastic leukemia who were treated with intermediate-dose intravenous methotrexate (1 gm/m 2).
 Symptomatic patients were commonly noted to have leukoencephalopathy and/or microangiopathic calcifications on diagnostic imaging studies.
 Chronic leukoencephalopathy has also been reported in patients who received repeated doses of high-dose methotrexate with leucovorin rescue even without cranial irradiation.
 Discontinuation of methotrexate does not always result in complete recovery.

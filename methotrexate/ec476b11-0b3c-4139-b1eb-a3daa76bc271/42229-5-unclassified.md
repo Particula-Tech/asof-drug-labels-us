@@ -29,9 +29,9 @@ must be measured and documented to be greater than 60 mL/min (even if the serum 
 3.
 Patients must be well hydrated, and must be treated with sodium bicarbonate for urinary alkalinization.
 
-a. Administer 1,000 mL/m2 of intravenous fluid over 6 hours prior to initiation of the methotrexate infusion.
+a. Administer 1,000 mL/m 2 of intravenous fluid over 6 hours prior to initiation of the methotrexate infusion.
 
-Continue hydration at 125 mL/m2/hr (3 liters/m2/day) during the methotrexate infusion, and for 2 days after the
+Continue hydration at 125 mL/m 2/hr (3 liters/m 2/day) during the methotrexate infusion, and for 2 days after the
 
 infusion has been completed.
 
@@ -41,11 +41,11 @@ This can be
 accomplished by the administration of sodium bicarbonate orally or by incorporation into a separate intravenous solution.
 
 4.
-Repeat serum creatinine and serum methotrexate 24 hours after starting methotrexate and at least once daily until the methotrexate level is below 5 x 10-8 mol/L (0.05 micromolar).
+Repeat serum creatinine and serum methotrexate 24 hours after starting methotrexate and at least once daily until the methotrexate level is below 5 x 10 -8 mol/L (0.05 micromolar).
 
 5.
 The table below provides guidelines for leucovorin calcium dosage based upon serum methotrexate levels.
-(See table below.‡)
+(See table below. ‡)
 
 Patients who experience delayed early methotrexate elimination are likely to develop non-reversible oliguric renal failure.
 In addition to appropriate leucovorin therapy, these patients require continuing hydration and urinary alkalinization, and close monitoring of fluid and electrolyte status, until the serum methotrexate level has fallen to below 0.05 micromolar and the renal failure has resolved.
@@ -75,12 +75,12 @@ Divided oral dosages of 2.5 mg at 12 hour intervals for 3 doses given as a cours
 
 Polyarticular-Course Juvenile Rheumatoid Arthritis
 
-The recommended starting dose is 10 mg/m2 given once weekly.
+The recommended starting dose is 10 mg/m 2 given once weekly.
 
 For either adult RA or polyarticular-course JRA dosages may be adjusted gradually to achieve an optimal response.
 Limited experience shows a significant increase in the incidence and severity of serious toxic reactions, especially bone marrow suppression, at doses greater than 20 mg/wk in adults.
-Although there is experience with doses up to 30 mg/m2/wk in children, there are too few published data to assess how doses over 20 mg/m2/wk might affect the risk of serious toxicity in children.
-Experience does suggest, however, that children receiving 20 to 30 mg/m2/wk (0.65 to 1 mg/kg/wk) may have better absorption and fewer gastrointestinal side effects if methotrexate is administered either intramuscularly or subcutaneously.
+Although there is experience with doses up to 30 mg/m 2/wk in children, there are too few published data to assess how doses over 20 mg/m 2/wk might affect the risk of serious toxicity in children.
+Experience does suggest, however, that children receiving 20 to 30 mg/m 2/wk (0.65 to 1 mg/kg/wk) may have better absorption and fewer gastrointestinal side effects if methotrexate is administered either intramuscularly or subcutaneously.
 
 Therapeutic response usually begins within 3 to 6 weeks and the patient may continue to improve for another 12 weeks or more.
 
@@ -88,7 +88,7 @@ The optimal duration of therapy is unknown.
 Limited data available from long-term studies in adults indicate that the initial clinical improvement is maintained for at least two years with continued therapy.
 When methotrexate is discontinued, the arthritis usually worsens within 3 to 6 weeks.
 
-The patient should be fully informed of the risks involved and should be under constant supervision of the physician (see Information for Patients under PRECAUTIONS).
+The patient should be fully informed of the risks involved and should be under constant supervision of the physician (see Information for Patientsunder PRECAUTIONS).
 Assessment of hematologic, hepatic, renal, and pulmonary function should be made by history, physical examination, and laboratory tests before beginning, periodically during, and before reinstituting methotrexate therapy (see PRECAUTIONS).
 Appropriate steps should be taken to avoid conception during methotrexate therapy (see PRECAUTIONS and CONTRAINDICATIONS).
 
@@ -116,7 +116,8 @@ The use of methotrexate may permit the return to conventional topical therapy, w
 # HANDLING AND DISPOSAL:
 
 Procedures for proper handling and disposal of anticancer drugs should be considered.
-Several guidelines on this subject have been published.1-7 There is no general agreement that all of the procedures recommended in the guidelines are necessary or appropriate.
+Several guidelines on this subject have been published.
+1-7 There is no general agreement that all of the procedures recommended in the guidelines are necessary or appropriate.
 
 # RECONSTITUTION OF LYOPHILIZED POWDERS:
 
