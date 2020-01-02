@@ -10,19 +10,19 @@ Dosing for patients with bilirubin > 2 mg/dL cannot be recommended because there
 
 Table 1: Single-Agent Regimens of Irinotecan Hydrochloride Injection and Dose Modifications
 
-| Regimen 1 (weekly)a | 125 mg/m2 intravenous infusion over 90 minutes, days 1, 8, 15, 22 then 2-week rest |  |  |
+| Regimen 1 (weekly) a | 125 mg/m 2 intravenous infusion over 90 minutes, days 1, 8, 15, 22 then 2-week rest |  |  |
 | --- | --- | --- | --- |
-| Starting Dose and Modified Dose Levelsc (mg/m2) |  |  |  |
+| Starting Dose and Modified Dose Levels c (mg/m 2) |  |  |  |
 | Starting Dose | Dose Level -1 | Dose Level -2 |  |
 | 125 | 100 | 75 |  |
-| Regimen 2 (every 3 weeks)b | 350 mg/m2 intravenous infusion over 90 minutes, once every 3 weeksc |  |  |
-| Starting Dose and Modified Dose Levels (mg/m2) |  |  |  |
+| Regimen 2 (every 3 weeks) b | 350 mg/m 2 intravenous infusion over 90 minutes, once every 3 weeks c |  |  |
+| Starting Dose and Modified Dose Levels (mg/m 2) |  |  |  |
 | Starting Dose | Dose Level -1 | Dose Level -2 |  |
 | 350 | 300 | 250 |  |
 
-a Subsequent doses may be adjusted as high as 150 mg/m2 or to as low as 50 mg/m2 in 25 to 50 mg/m2 decrements depending upon individual patient tolerance.
+a Subsequent doses may be adjusted as high as 150 mg/m 2 or to as low as 50 mg/m 2 in 25 to 50 mg/m2 decrements depending upon individual patient tolerance.
 
-b Subsequent doses may be adjusted as low as 200 mg/m2 in 50 mg/m2 decrements depending upon individual patient tolerance.
+b Subsequent doses may be adjusted as low as 200 mg/m 2 in 50 mg/m 2 decrements depending upon individual patient tolerance.
 
 c Provided intolerable toxicity does not develop, treatment with additional cycles may be continued indefinitely as long as patients continue to experience clinical benefit.
 
@@ -32,33 +32,33 @@ Based on recommended dose-levels described in Table 1, Single-Agent Regimens of 
 All dose modifications should be based on the worst preceding toxicity.
 
 Table 2.
-Recommended Dose Modifications For Single-Agent Schedulesa
+Recommended Dose Modifications For Single-Agent Schedules a
 
-A new cycle of therapy should not begin until the granulocyte count has recovered to ≥ 1,500/mm3, and the platelet count has recovered to ≥100,000/mm3, and treatment-related diarrhea is fully resolved.
+A new cycle of therapy should not begin until the granulocyte count has recovered to ≥ 1,500/mm 3, and the platelet count has recovered to ≥100,000/mm 3, and treatment-related diarrhea is fully resolved.
 Treatment should be delayed 1 to 2 weeks to allow for recovery from treatment-related toxicities.
 If the patient has not recovered after a 2-week delay, consideration should be given to discontinuing irinotecan hydrochloride injection.
 
-| Worst Toxicity NCI Gradeb (Value) | During a Cycle of Therapy | At the Start of the Next Cycles of Therapy (After Adequate Recovery), Compared with the Starting Dose in the Previous Cyclea |  |
+| Worst Toxicity NCI Grade b (Value) | During a Cycle of Therapy | At the Start of the Next Cycles of Therapy (After Adequate Recovery), Compared with the Starting Dose in the Previous Cycle a |  |
 | --- | --- | --- | --- |
 | Weekly | Weekly | Once Every 3 Weeks |  |
-| No toxicity | Maintain dose level | ↑ 25 mg/m2 up to a maximum dose of 150 mg/m2 | Maintain dose level |
+| No toxicity | Maintain dose level | ↑ 25 mg/m 2 up to a maximum dose of 150 mg/m 2 | Maintain dose level |
 | Neutropenia |  |  |  |
-| 1 (1,500 to 1,999/mm3) | Maintain dose level | Maintain dose level | Maintain dose level |
-| 2 (1,000 to 1,499/mm3) | ↓ 25 mg/m2 | Maintain dose level | Maintain dose level |
-| 3 (500 to 999/mm3) | Omit dose until resolved to ≤ grade 2, then ↓ 25 mg/m2 | ↓ 25 mg/m2 | ↓ 50 mg/m2 |
-| 4 (˂ 500/mm3) | Omit dose until resolved to ≤ grade 2, then ↓ 50 mg/m2 | ↓ 50 mg/m2 | ↓ 50 mg/m2 |
-| Neutropenic fever | Omit dose until resolved, then ↓ 50 mg/m2 when resolved | ↓ 50 mg/m2 | ↓ 50 mg/m2 |
+| 1 (1,500 to 1,999/mm 3) | Maintain dose level | Maintain dose level | Maintain dose level |
+| 2 (1,000 to 1,499/mm 3) | ↓ 25 mg/m 2 | Maintain dose level | Maintain dose level |
+| 3 (500 to 999/mm 3) | Omit dose until resolved to ≤ grade 2, then ↓ 25 mg/m 2 | ↓ 25 mg/m 2 | ↓ 50 mg/m 2 |
+| 4 (˂ 500/mm 3) | Omit dose until resolved to ≤ grade 2, then ↓ 50 mg/m 2 | ↓ 50 mg/m 2 | ↓ 50 mg/m 2 |
+| Neutropenic fever | Omit dose until resolved, then ↓ 50 mg/m 2 when resolved | ↓ 50 mg/m 2 | ↓ 50 mg/m 2 |
 | Other hematologic toxicities | Dose modifications for leukopenia, thrombocytopenia, and anemia during a cycle of therapy and at the start of subsequent cycles of therapy are also based on NCI toxicity criteria and are the same as recommended for neutropenia above. |  |  |
 | Diarrhea |  |  |  |
-| 1 (2 to 3 stools/day ˃ pretxc) | Maintain dose level | Maintain dose level | Maintain dose level |
-| 2 (4 to 6 stools/day ˃ pretx) | ↓ 25 mg/m2 | Maintain dose level | Maintain dose level |
-| 3 (7 to 9 stools/day ˃ pretx) | Omit dose until resolved to ≤ grade 2, then ↓ 25 mg/m2 | ↓ 25 mg/m2 | ↓ 50 mg/m2 |
-| 4 (≥ 10 stools/day ˃ pretx) | Omit dose until resolved to ≤ grade 2, then ↓ 50 mg/m2 | ↓ 50 mg/m2 | ↓ 50 mg/m2 |
-| Other nonhematologicd toxicities |  |  |  |
+| 1 (2 to 3 stools/day ˃ pretx c) | Maintain dose level | Maintain dose level | Maintain dose level |
+| 2 (4 to 6 stools/day ˃ pretx) | ↓ 25 mg/m 2 | Maintain dose level | Maintain dose level |
+| 3 (7 to 9 stools/day ˃ pretx) | Omit dose until resolved to ≤ grade 2, then ↓ 25 mg/m 2 | ↓ 25 mg/m 2 | ↓ 50 mg/m 2 |
+| 4 (≥ 10 stools/day ˃ pretx) | Omit dose until resolved to ≤ grade 2, then ↓ 50 mg/m 2 | ↓ 50 mg/m 2 | ↓ 50 mg/m 2 |
+| Other nonhematologic d toxicities |  |  |  |
 | 1 | Maintain dose level | Maintain dose level | Maintain dose level |
-| 2 | ↓ 25 mg/m2 | ↓ 25 mg/m2 | ↓ 50 mg/m2 |
-| 3 | Omit dose until resolved to ≤ grade 2, then ↓ 25 mg/m2 | ↓ 25 mg/m2 | ↓ 50 mg/m2 |
-| 4 | Omit dose until resolved to ≤ grade 2, then ↓ 50 mg/m2 | ↓ 50 mg/m2 | ↓ 50 mg/m2 |
+| 2 | ↓ 25 mg/m 2 | ↓ 25 mg/m 2 | ↓ 50 mg/m 2 |
+| 3 | Omit dose until resolved to ≤ grade 2, then ↓ 25 mg/m 2 | ↓ 25 mg/m 2 | ↓ 50 mg/m 2 |
+| 4 | Omit dose until resolved to ≤ grade 2, then ↓ 50 mg/m 2 | ↓ 50 mg/m 2 | ↓ 50 mg/m 2 |
 
 aAll dose modifications should be based on the worst preceding toxicity
 
@@ -76,7 +76,7 @@ However, the precise dose reduction in this patient population is not known, and
 ## 2.3 Premedication
 
 It is recommended that patients receive premedication with antiemetic agents.
-In clinical studies of the weekly dosage schedule, the majority of patients received 10 mg of dexamethasone given in conjunction with another type of antiemetic agent, such as a 5-HT3 blocker (e.g., ondansetron or granisetron).
+In clinical studies of the weekly dosage schedule, the majority of patients received 10 mg of dexamethasone given in conjunction with another type of antiemetic agent, such as a 5-HT 3 blocker (e.g., ondansetron or granisetron).
 Antiemetic agents should be given on the day of treatment, starting at least 30 minutes before administration of irinotecan hydrochloride.
 Physicians should also consider providing patients with an antiemetic regimen (e.g., prochlorperazine) for subsequent use as needed.
 

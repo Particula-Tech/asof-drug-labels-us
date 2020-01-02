@@ -26,28 +26,28 @@ After intravenous infusion of irinotecan in humans, irinotecan plasma concentrat
 The mean terminal elimination half-life of the active metabolite SN-38 is about 10 to 20 hours.
 The half-lives of the lactone (active) forms of irinotecan and SN-38 are similar to those of total irinotecan and SN-38, as the lactone and hydroxy acid forms are in equilibrium.
 
-Over the recommended dose range of 50 to 350 mg/m2, the AUC of irinotecan increases linearly with dose; the AUC of SN-38 increases less than proportionally with dose.
+Over the recommended dose range of 50 to 350 mg/m 2, the AUC of irinotecan increases linearly with dose; the AUC of SN-38 increases less than proportionally with dose.
 Maximum concentrations of the active metabolite SN-38 are generally seen within 1 hour following the end of a 90 minute infusion of irinotecan.
-Pharmacokinetic parameters for irinotecan and SN-38 following a 90 minute infusion of irinotecan at dose levels of 125 and 340 mg/m2 determined in two clinical studies in patients with solid tumors are summarized in Table 5:
+Pharmacokinetic parameters for irinotecan and SN-38 following a 90 minute infusion of irinotecan at dose levels of 125 and 340 mg/m 2 determined in two clinical studies in patients with solid tumors are summarized in Table 5:
 
 Table 5.
 Summary of Mean (± Standard Deviation) Irinotecan and SN-38
 
 Pharmacokinetic Parameters in Patients with Solid Tumors
 
-| Dose (mg/m2) | Irinotecan |  |  |  |  |  | SN-38 |  |  |
+| Dose (mg/m 2) | Irinotecan |  |  |  |  |  | SN-38 |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Cmax (ng/mL) | AUC0-24 (ng•h/mL) | t1/2 (h) | Vz (L/m2) |  | CL (L/h/m2) | Cmax (ng/mL) | AUC0-24 (ng•h/mL) | t1/2 (h) |  |
-| 125 (N=64) | 1,660 ± 797 | 10,200 ± 3,270 | 5.8a ± 0.7 |  | 110 ± 48.5 | 13.3 ± 6.01 | 26.3 ± 11.9 | 229 ± 108 | 10.4a ± 3.1 |
-| 340 (N=6) | 3,392 ± 874 | 20,604 ± 6,027 | 11.7b ± 1 |  | 234 ± 69.6 | 13.9 ± 4 | 56 ± 28.2 | 474 ± 245 | 21b ± 4.3 |
+| C max (ng/mL) | AUC 0-24 (ng•h/mL) | t 1/2 (h) | Vz (L/m 2) |  | CL (L/h/m 2) | C max (ng/mL) | AUC 0-24 (ng•h/mL) | t 1/2 (h) |  |
+| 125 (N=64) | 1,660 ± 797 | 10,200 ± 3,270 | 5.8 a ± 0.7 |  | 110 ± 48.5 | 13.3 ± 6.01 | 26.3 ± 11.9 | 229 ± 108 | 10.4 a ± 3.1 |
+| 340 (N=6) | 3,392 ± 874 | 20,604 ± 6,027 | 11.7 b ± 1 |  | 234 ± 69.6 | 13.9 ± 4 | 56 ± 28.2 | 474 ± 245 | 21 b ± 4.3 |
 
-Cmax - Maximum plasma concentration
+C max - Maximum plasma concentration
 
-AUC0-24 - Area under the plasma concentration-time curve from time 0 to 24 hours after the end of the 90 minute infusion
+AUC 0-24 - Area under the plasma concentration-time curve from time 0 to 24 hours after the end of the 90 minute infusion
 
-t1/2 - Terminal elimination half-life
+t 1/2 - Terminal elimination half-life
 
-Vz - Volume of distribution of terminal elimination phase
+V z - Volume of distribution of terminal elimination phase
 
 CL - Total systemic clearance
 
@@ -69,14 +69,14 @@ Irinotecan can also undergo CYP3A4-mediated oxidative metabolism to several inac
 In vitro studies indicate that irinotecan, SN-38 and another metabolite aminopentane carboxylic acid (APC), do not inhibit cytochrome P-450 isozymes.
 UGT1A1 activity is reduced in individuals with genetic polymorphisms that lead to reduced enzyme activity such as the UGT1A1*28 polymorphism.
 Approximately 10% of the North American population is homozygous for the UGT1A1*28 allele (also referred to as UGT1A1 7/7 genotype).
-In a prospective study, in which irinotecan was administered as a single-agent (350 mg/m2) on a once-every-3-week schedule, patients with the UGT1A1 7/7 genotype had a higher exposure to SN-38 than patients with the wild-type UGT1A1 allele (UGT1A1 6/6 genotype) [see Warnings and Precautions (5.3) and Dosage and Administration (2)].
+In a prospective study, in which irinotecan was administered as a single-agent (350 mg/m 2) on a once-every-3-week schedule, patients with the UGT1A1 7/7 genotype had a higher exposure to SN-38 than patients with the wild-type UGT1A1 allele (UGT1A1 6/6 genotype) [see Warnings and Precautions (5.3) and Dosage and Administration (2)].
 SN-38 glucuronide had 1/50 to 1/100 the activity of SN-38 in cytotoxicity assays using two cell lines in vitro.
 
 Excretion
 
 The disposition of irinotecan has not been fully elucidated in humans.
 The urinary excretion of irinotecan is 11% to 20%; SN-38, < 1%; and SN-38 glucuronide, 3%.
-The cumulative biliary and urinary excretion of irinotecan and its metabolites (SN-38 and SN-38 glucuronide) over a period of 48 hours following administration of irinotecan in two patients ranged from approximately 25% (100 mg/m2) to 50% (300 mg/m2).
+The cumulative biliary and urinary excretion of irinotecan and its metabolites (SN-38 and SN-38 glucuronide) over a period of 48 hours following administration of irinotecan in two patients ranged from approximately 25% (100 mg/m 2) to 50% (300 mg/m 2).
 
 Effect of Age
 
@@ -85,7 +85,7 @@ Results from this trial indicate that there are no differences in the pharmacoki
 
 ≥ 65 years of age.
 In a study of 162 patients that was not prospectively designed to investigate the effect of age, small (less than 18%) but statistically significant differences in dose-normalized irinotecan pharmacokinetic parameters in patients < 65 years of age compared to patients ≥ 65 years of age were observed.
-Although dose-normalized AUC0-24 for SN-38 in patients ≥ 65 years of age was 11% higher than in patients < 65 years of age, this difference was not statistically significant.
+Although dose-normalized AUC 0-24 for SN-38 in patients ≥ 65 years of age was 11% higher than in patients < 65 years of age, this difference was not statistically significant.
 No change in the starting dose is recommended for geriatric patients receiving the weekly dosage schedule of irinotecan [see Dosage and Administration (2)].
 
 Effect of Gender

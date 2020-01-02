@@ -32,8 +32,8 @@ Avoid diuretics or laxatives in patients with diarrhea.
 Deaths due to sepsis following severe neutropenia have been reported in patients treated with irinotecan hydrochloride.
 In the clinical studies evaluating the weekly dosage schedule, neutropenic fever (concurrent NCI grade 4 neutropenia and fever of grade 2 or greater) occurred in 3% of the patients; 6% of patients received G-CSF for the treatment of neutropenia.
 Manage febrile neutropenia promptly with antibiotic support [see Warnings and Precautions (5.2)].
-Hold irinotecan hydrochloride if neutropenic fever occurs or if the absolute neutrophil count drops < 1,000/mm3.
-After recovery to an absolute neutrophil count ≥ 1,000/mm3, subsequent doses of irinotecan hydrochloride should be reduced [see Dosage and Administration (2)].
+Hold irinotecan hydrochloride if neutropenic fever occurs or if the absolute neutrophil count drops < 1,000/mm 3.
+After recovery to an absolute neutrophil count ≥ 1,000/mm 3, subsequent doses of irinotecan hydrochloride should be reduced [see Dosage and Administration (2)].
 
 When evaluated in the trials of weekly administration, the frequency of grade 3 and 4 neutropenia was higher in patients who received previous pelvic/abdominal irradiation than in those who had not received such irradiation (48% [13/27] versus 24% [67/277]; p=0.04).
 Patients who have previously received pelvic/abdominal irradiation are at increased risk of severe myelosuppression following the administration of irinotecan hydrochloride.
@@ -46,7 +46,7 @@ Patients with deficient glucuronidation of bilirubin, such as those with Gilbert
 
 Individuals who are homozygous for the UGT1A1*28 allele (UGT1A1 7/7 genotype) are at increased risk for neutropenia following initiation of irinotecan hydrochloride treatment.
 
-In a study of 66 patients who received single-agent irinotecan hydrochloride (350 mg/m2 once every 3 weeks), the incidence of grade 4 neutropenia in patients homozygous for the UGT1A1*28 allele was 50%, and in patients heterozygous for this allele (UGT1A1 6/7 genotype) the incidence was 12.5%.
+In a study of 66 patients who received single-agent irinotecan hydrochloride (350 mg/m 2 once every 3 weeks), the incidence of grade 4 neutropenia in patients homozygous for the UGT1A1*28 allele was 50%, and in patients heterozygous for this allele (UGT1A1 6/7 genotype) the incidence was 12.5%.
 No grade 4 neutropenia was observed in patients homozygous for the wild-type allele (UGT1A1 6/6 genotype).
 
 When administered in combination with other agents, or as a single-agent, a reduction in the starting dose by at least one level of irinotecan hydrochloride should be considered for patients known to be homozygous for the UGT1A1*28 allele.
@@ -87,8 +87,8 @@ In patients receiving either irinotecan/5-FU/LV or 5-FU/LV in the clinical trial
 ## 5.9 Embryofetal Toxicity
 
 Irinotecan hydrochloride can cause fetal harm when administered to a pregnant woman.
-Irinotecan was embryotoxic in rats and rabbits at doses significantly lower than those administered to humans on a mg/m2 basis.
-In rats, at exposures approximately 0.2 times those achieved in humans at the 125 mg/m2 dose, irinotecan was embryotoxic and resulted in decreased learning ability and female fetal body weight in surviving pups; the drug was teratogenic at lower exposures (approximately 0.025 times the AUC in humans at the 125 mg/m2 dose).
+Irinotecan was embryotoxic in rats and rabbits at doses significantly lower than those administered to humans on a mg/m 2 basis.
+In rats, at exposures approximately 0.2 times those achieved in humans at the 125 mg/m 2 dose, irinotecan was embryotoxic and resulted in decreased learning ability and female fetal body weight in surviving pups; the drug was teratogenic at lower exposures (approximately 0.025 times the AUC in humans at the 125 mg/m 2 dose).
 There are no adequate and well-controlled studies of irinotecan in pregnant women.
 If this drug is used during pregnancy, or if the patient becomes pregnant while taking this drug, the patient should be apprised of the potential hazard to a fetus.
 Women of childbearing potential should be advised to avoid becoming pregnant while receiving treatment with irinotecan hydrochloride.
