@@ -17,4 +17,4 @@ Discard any unused portion.
 
 This container closure is not made with natural rubber latex.
 
-PREMIERProRx® is a registered trademark of Premier Healthcare Alliance, L.P., used under license.
+PREMIERProRx ® is a registered trademark of Premier Healthcare Alliance, L.P., used under license.
