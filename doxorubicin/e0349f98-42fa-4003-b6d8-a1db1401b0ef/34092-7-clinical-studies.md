@@ -30,7 +30,7 @@ Summary of Randomized Trials Comparing Doxorubicin-Containing Regimens Versus CM
 | CMF | 12 | 113 |  |  |  |
 | SE Sweden BCG A (1980) | AC | 6 | 21 | 0.59 (0.22 to 1.61) | 0.53 (0.21 to 1.37) |
 | CMF | 6 | 22 |  |  |  |
-| NSABC Israel Br0283 (1983) | AVbCMF† CMF | 4 6 6 | 55 50 | 0.91 (0.53 to 1.57) | 0.88 (0.47 to 1.63) |
+| NSABC Israel Br0283 (1983) | AVbCMF † CMF | 4 6 6 | 55 50 | 0.91 (0.53 to 1.57) | 0.88 (0.47 to 1.63) |
 | Austrian BCSG 3 (1984) | CMFVA | 6 | 121 | 1.07 (0.73 to 1.55) | 0.93 (0.64 to 1.35) |
 | CMF | 8 | 124 |  |  |  |
 | Combined Studies | Doxorubicin-Containing Regimens |  | 2,157 | 0.91 (0.82 to 1.01) | 0.91 (0.81 to 1.03) |

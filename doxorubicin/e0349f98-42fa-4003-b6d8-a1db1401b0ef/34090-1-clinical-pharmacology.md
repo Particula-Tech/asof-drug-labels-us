@@ -16,16 +16,16 @@ Animal studies have shown activity in a spectrum of experimental tumors, immunos
 ## Pharmacokinetics
 
 Pharmacokinetic studies, determined in patients with various types of tumors undergoing either single or multi-agent therapy have shown that doxorubicin follows a multiphasic disposition after intravenous injection.
-In four patients, doxorubicin has demonstrated dose-independent pharmacokinetics in the dose range of 30 to 70 mg/m2.
+In four patients, doxorubicin has demonstrated dose-independent pharmacokinetics in the dose range of 30 to 70 mg/m 2.
 
 Distribution
 
 The initial distribution half-life of approximately 5 minutes suggests rapid tissue uptake of doxorubicin, while its slow elimination from tissues is reflected by a terminal half-life of 20 to 48 hours.
-Steady-state distribution volume ranges from 809 to 1,214 L/m2 and is indicative of extensive drug uptake into tissues.
+Steady-state distribution volume ranges from 809 to 1,214 L/m 2 and is indicative of extensive drug uptake into tissues.
 Binding of doxorubicin and its major metabolite, doxorubicinol, to plasma proteins is about 74 to 76% and is independent of plasma concentration of doxorubicin up to 1.1 mcg/mL.
 
 Doxorubicin was excreted in the milk of one lactating patient, with peak milk concentration at 24 hours after treatment being approximately 4.4-fold greater than the corresponding plasma concentration.
-Doxorubicin was detectable in the milk up to 72 hours after therapy with 70 mg/m2 of doxorubicin given as a 15-minute intravenous infusion and 100 mg/m2 of cisplatin as a 26-hour intravenous infusion.
+Doxorubicin was detectable in the milk up to 72 hours after therapy with 70 mg/m 2 of doxorubicin given as a 15-minute intravenous infusion and 100 mg/m 2 of cisplatin as a 26-hour intravenous infusion.
 The peak concentration of doxorubicinol in milk at 24 hours was 0.11 mcg/mL and AUC up to 24 hours was 9 mcg•h/mL while the AUC for doxorubicin was 5.4 mcg•h/mL.
 
 Doxorubicin does not cross the blood brain barrier.
@@ -38,7 +38,7 @@ The relative exposure of DOX-OL, i.e., the ratio between the AUC of DOX-OL and t
 
 Excretion
 
-Plasma clearance is in the range 324 to 809 mL/min/m2 and is predominately by metabolism and biliary excretion.
+Plasma clearance is in the range 324 to 809 mL/min/m 2 and is predominately by metabolism and biliary excretion.
 Approximately 40% of the dose appears in the bile in 5 days, while only 5 to 12% of the drug and its metabolites appear in the urine during the same time period.
 In urine, < 3% of the dose was recovered as DOX-OL over 7 days.
 
@@ -49,9 +49,9 @@ There was a significant reduction in clearance without any change in volume of d
 
 Pediatric
 
-Following administration of 10 to 75 mg/m2 doses of doxorubicin to 60 children and adolescents ranging from 2 months to 20 years of age, doxorubicin clearance averaged 1,443 ± 114 mL/min/m2.
-Further analysis demonstrated that clearance in 52 children greater than 2 years of age (1,540 mL/min/m2) was increased compared with adults.
-However, clearance in infants younger than 2 years of age (813 mL/min/m2) was decreased compared with older children and approached the range of clearance values determined in adults.
+Following administration of 10 to 75 mg/m 2 doses of doxorubicin to 60 children and adolescents ranging from 2 months to 20 years of age, doxorubicin clearance averaged 1,443 ± 114 mL/min/m 2.
+Further analysis demonstrated that clearance in 52 children greater than 2 years of age (1,540 mL/min/m 2) was increased compared with adults.
+However, clearance in infants younger than 2 years of age (813 mL/min/m 2) was decreased compared with older children and approached the range of clearance values determined in adults.
 
 Geriatric
 
@@ -59,7 +59,7 @@ While the pharmacokinetics of elderly subjects (≥65 years of age) have been ev
 
 Gender
 
-A published clinical study involving 6 men and 21 women with no prior anthracycline therapy reported a significantly higher median doxorubicin clearance in the men compared to the women (1,088 mL/min/m2 versus 433 mL/min/m2).
+A published clinical study involving 6 men and 21 women with no prior anthracycline therapy reported a significantly higher median doxorubicin clearance in the men compared to the women (1,088 mL/min/m 2 versus 433 mL/min/m 2).
 However, the terminal half-life of doxorubicin was longer in men compared to the women (54 versus 35 hours).
 
 Race

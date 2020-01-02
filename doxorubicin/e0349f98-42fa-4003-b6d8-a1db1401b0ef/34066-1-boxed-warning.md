@@ -3,8 +3,8 @@
 1. Severe local tissue necrosis will occur if there is extravasation during administration (see DOSAGE AND ADMINISTRATION).
    Doxorubicin must not be given by the intramuscular or subcutaneous route.
 2. Myocardial toxicity manifested in its most severe form by potentially fatal congestive heart failure (CHF) may occur either during therapy or months to years after termination of therapy.
-   The probability of developing impaired myocardial function based on a combined index of signs, symptoms and decline in left ventricular ejection fraction (LVEF) is estimated to be 1 to 2% at a total cumulative dose of 300 mg/m2 of doxorubicin, 3 to 5% at a dose of 400 mg/m2, 5 to 8% at 450 mg/m2 and 6 to 20% at 500 mg/m2.
-   The risk of developing CHF increases rapidly with increasing total cumulative doses of doxorubicin in excess of 400 mg/m2.
+   The probability of developing impaired myocardial function based on a combined index of signs, symptoms and decline in left ventricular ejection fraction (LVEF) is estimated to be 1 to 2% at a total cumulative dose of 300 mg/m 2 of doxorubicin, 3 to 5% at a dose of 400 mg/m 2, 5 to 8% at 450 mg/m 2 and 6 to 20% at 500 mg/m 2.
+   The risk of developing CHF increases rapidly with increasing total cumulative doses of doxorubicin in excess of 400 mg/m 2.
    Risk factors (active or dormant cardiovascular disease, prior or concomitant radiotherapy to the mediastinal/pericardial area, previous therapy with other anthracyclines or anthracenediones, concomitant use of other cardiotoxic drugs) may increase the risk of cardiac toxicity.
    Cardiac toxicity with doxorubicin may occur at lower cumulative doses whether or not cardiac risk factors are present.
    Pediatric patients are at increased risk for developing delayed cardiotoxicity.

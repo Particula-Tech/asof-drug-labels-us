@@ -8,7 +8,7 @@ Also, initial treatment with doxorubicin should be preceded by a careful baselin
 Patients should be carefully monitored during treatment for possible clinical complications due to myelosuppression.
 Supportive care may be necessary for the treatment of severe neutropenia and severe infectious complications.
 Monitoring for potential cardiotoxicity is also important, especially with greater cumulative exposure to doxorubicin.
-Doxorubicin may potentiate the toxicity of other anticancer therapies (see PRECAUTIONS, Drug Interactions).
+Doxorubicin may potentiate the toxicity of other anticancer therapies (see PRECAUTIONS,Drug Interactions).
 
 ## Cardiac Function
 
@@ -23,10 +23,10 @@ Delayed cardiomyopathy is manifested by a reduction in LVEF and/or signs and sym
 Subacute effects such as pericarditis/myocarditis have also been reported.
 Life-threatening CHF is the most severe form of anthracycline-induced cardiomyopathy and represents the cumulative dose-limiting toxicity of the drug.
 
-The probability of developing impaired myocardial function, based on a combined index of signs, symptoms and decline in left ventricular ejection fraction (LVEF) is estimated to be 1 to 2% at a total cumulative dose of 300 mg/m2 of doxorubicin, 3 to 5% at a dose of 400 mg/m2, 5 to 8% at a dose of 450 mg/m2 and 6 to 20% at a dose of 500 mg/m2 given in a schedule of a bolus injection once every 3 weeks.
-In a retrospective review, the probability of developing congestive heart failure was reported to be 5/168 (3%) at a cumulative dose of 430 mg/m2 of doxorubicin, 8/110 (7%) at 575 mg/m2, and 3/14 (21%) at 728 mg/m2.
-In a prospective study of doxorubicin in combination with cyclophosphamide, fluorouracil and/or vincristine in patients with breast cancer or small cell lung cancer, the probability of CHF at various cumulative doses of doxorubicin was 1.5% at 300 mg/m2, 4.9% at 400 mg/m2, 7.7% at 450 mg/m2 and 20.5% at 500 mg/m2.
-The risk of developing CHF increases rapidly with increasing total cumulative doses of doxorubicin in excess of 400 mg/m2.
+The probability of developing impaired myocardial function, based on a combined index of signs, symptoms and decline in left ventricular ejection fraction (LVEF) is estimated to be 1 to 2% at a total cumulative dose of 300 mg/m 2 of doxorubicin, 3 to 5% at a dose of 400 mg/m 2, 5 to 8% at a dose of 450 mg/m 2 and 6 to 20% at a dose of 500 mg/m 2 given in a schedule of a bolus injection once every 3 weeks.
+In a retrospective review, the probability of developing congestive heart failure was reported to be 5/168 (3%) at a cumulative dose of 430 mg/m 2 of doxorubicin, 8/110 (7%) at 575 mg/m 2, and 3/14 (21%) at 728 mg/m 2.
+In a prospective study of doxorubicin in combination with cyclophosphamide, fluorouracil and/or vincristine in patients with breast cancer or small cell lung cancer, the probability of CHF at various cumulative doses of doxorubicin was 1.5% at 300 mg/m 2, 4.9% at 400 mg/m 2, 7.7% at 450 mg/m 2 and 20.5% at 500 mg/m 2.
+The risk of developing CHF increases rapidly with increasing total cumulative doses of doxorubicin in excess of 400 mg/m 2.
 
 Cardiotoxicity may occur at lower doses in patients with prior mediastinal/pericardial irradiation, concomitant use of other cardiotoxic drugs, doxorubicin exposure at an early age, and advanced age.
 Data also suggest that pre-existing heart disease is a co-factor for increased risk of doxorubicin cardiotoxicity.
@@ -155,7 +155,7 @@ Two published studies report that initial administration of paclitaxel infused o
 
 Progesterone
 
-In a published study, progesterone was given intravenously to patients with advanced malignancies (ECOG PS< 2) at high doses (up to 10 g over 24 hours) concomitantly with a fixed doxorubicin dose (60 mg/m2) via bolus injection.
+In a published study, progesterone was given intravenously to patients with advanced malignancies (ECOG PS< 2) at high doses (up to 10 g over 24 hours) concomitantly with a fixed doxorubicin dose (60 mg/m 2) via bolus injection.
 Enhanced doxorubicin-induced neutropenia and thrombocytopenia were observed.
 
 Verapamil
@@ -171,8 +171,8 @@ Coma and/or seizures have also been described.
 Dexrazoxane
 
 In a clinical study of women with metastatic breast cancer, the concurrent use of the cardioprotectant, dexrazoxane, with the initiation of a regimen of fluorouracil, doxorubicin, and cyclophosphamide (FAC) was associated with a lower tumor response rate.
-Later initiation of dexrazoxane (after administration of a cumulative doxorubicin dose of 300 mg/m2 of doxorubicin had been given as a component of FAC) was not associated with a reduction in chemotherapy activity.
-Dexrazoxane is only indicated for use in women with metastatic breast cancer who have received a cumulative doxorubicin dose of 300 mg/m2 and are continuing with doxorubicin therapy.
+Later initiation of dexrazoxane (after administration of a cumulative doxorubicin dose of 300 mg/m 2 of doxorubicin had been given as a component of FAC) was not associated with a reduction in chemotherapy activity.
+Dexrazoxane is only indicated for use in women with metastatic breast cancer who have received a cumulative doxorubicin dose of 300 mg/m 2 and are continuing with doxorubicin therapy.
 
 Cytarabine
 
@@ -191,7 +191,7 @@ Acute myeloid leukemia has been reported as a second malignancy after treatment 
 
 Literature reports have also described the following drug interactions
 
-Phenobarbital increases the elimination of doxorubicin; phenytoin levels may be decreased by doxorubicin; streptozocin (Zanosar®) may inhibit hepatic metabolism of doxorubicin; saquinavir in combination with cyclophosphamide, doxorubicin, and etoposide increased mucosal toxicity in patients with HIV-associated non-Hodgkin's lymphoma; and administration of live vaccines to immunosuppressed patients including those undergoing cytotoxic chemotherapy may be hazardous (see WARNINGS).
+Phenobarbital increases the elimination of doxorubicin; phenytoin levels may be decreased by doxorubicin; streptozocin (Zanosar ®) may inhibit hepatic metabolism of doxorubicin; saquinavir in combination with cyclophosphamide, doxorubicin, and etoposide increased mucosal toxicity in patients with HIV-associated non-Hodgkin's lymphoma; and administration of live vaccines to immunosuppressed patients including those undergoing cytotoxic chemotherapy may be hazardous (see WARNINGS).
 
 ## Laboratory Tests
 
@@ -239,7 +239,7 @@ Teratogenic Effects: Pregnancy Category D
 
 ## Nursing Mothers
 
-Doxorubicin and its major metabolite, doxorubicinol have been detected in the milk of at least one lactating patient (see CLINICAL PHARMACOLOGY, Pharmacokinetics).
+Doxorubicin and its major metabolite, doxorubicinol have been detected in the milk of at least one lactating patient (see CLINICAL PHARMACOLOGY,Pharmacokinetics).
 Because of the potential for serious adverse reactions in nursing infants from doxorubicin, mothers should be advised to discontinue nursing during doxorubicin therapy.
 
 ## Pediatric Use

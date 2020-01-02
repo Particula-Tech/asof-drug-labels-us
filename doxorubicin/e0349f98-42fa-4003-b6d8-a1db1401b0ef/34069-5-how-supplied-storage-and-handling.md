@@ -9,7 +9,7 @@ Doxorubicin Hydrochloride Injection, USP, 2 mg per mL, a sterile product which c
 | 88330 | 63323-883-30 | Doxorubicin hydrochloride 50 mg in a 25 mL single dose flip-top vial, packaged individually. |
 | 100161 | 63323-101-61 | Doxorubicin hydrochloride 200 mg in a 100 mL multiple dose vial, packaged individually. |
 
-REFRIGERATE AT: 2° to 8°C (36° to 46°F).
+REFRIGERATE AT:2° to 8°C (36° to 46°F).
 
 Protect from light (keep in outer carton).
 Preservative Free.

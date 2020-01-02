@@ -66,11 +66,11 @@ Relevant Adverse Events in Patients with Early Breast Cancer Involving Axillary 
 | Total cycles | 5,676 | 4,068 |
 | Adverse events, % of patients |  |  |
 | Leukopenia |  |  |
-| Grade 3 (1,000 to 1,999 /mm3) | 3.4 | 9.4 |
-| Grade 4 (<1000/mm3) | 0.3 | 0.3 |
+| Grade 3 (1,000 to 1,999 /mm 3) | 3.4 | 9.4 |
+| Grade 4 (<1000/mm 3) | 0.3 | 0.3 |
 | Thrombocytopenia |  |  |
-| Grade 3 (25,000 to 49,999 /mm3) | 0 | 0.3 |
-| Grade 4 (<25,000 /mm3) | 0.1 | 0 |
+| Grade 3 (25,000 to 49,999 /mm 3) | 0 | 0.3 |
+| Grade 4 (<25,000 /mm 3) | 0.1 | 0 |
 | Shock, sepsis | 1.5 | 0.9 |
 | Systemic infection | 2.4 | 1.2 |
 | Nausea and vomiting |  |  |

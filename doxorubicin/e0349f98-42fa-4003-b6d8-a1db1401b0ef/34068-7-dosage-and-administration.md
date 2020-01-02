@@ -1,6 +1,6 @@
 # DOSAGE AND ADMINISTRATION:
 
-When possible, to reduce the risk of developing cardiotoxicity in patients receiving doxorubicin after stopping treatment with other cardiotoxic agents, especially those with long half-lives such as trastuzumab, doxorubicin-based therapy should be delayed until the other agents have cleared from the circulation (see WARNINGS and PRECAUTIONS, General).
+When possible, to reduce the risk of developing cardiotoxicity in patients receiving doxorubicin after stopping treatment with other cardiotoxic agents, especially those with long half-lives such as trastuzumab, doxorubicin-based therapy should be delayed until the other agents have cleared from the circulation (see WARNINGSand PRECAUTIONS, General).
 
 Care in the administration of doxorubicin will reduce the chance of perivenous infiltration (see WARNINGS).
 It may also decrease the chance of local reactions such as urticaria and erythematous streaking.
@@ -11,21 +11,21 @@ The benefit of local administration of drugs has not been clearly established.
 Because of the progressive nature of extravasation reactions, close observation and plastic surgery consultation is recommended.
 Blistering, ulceration and/or persistent pain are indications for wide excision surgery, followed by split-thickness skin grafting.
 
-The most commonly used dose schedule when used as a single agent is 60 to 75 mg/m2 as a single intravenous injection administered at 21-day intervals.
+The most commonly used dose schedule when used as a single agent is 60 to 75 mg/m 2 as a single intravenous injection administered at 21-day intervals.
 The lower dosage should be given to patients with inadequate marrow reserves due to old age, or prior therapy, or neoplastic marrow infiltration.
 
 Doxorubicin has been used concurrently with other approved chemotherapeutic agents.
 Evidence is available that in some types of neoplastic disease, combination chemotherapy is superior to single agents.
 The benefits and risks of such therapy continue to be elucidated.
-When used in combination with other chemotherapy drugs, the most commonly used dosage of doxorubicin is 40 to 60 mg/m2 given as a single intravenous injection every 21 to 28 days.
+When used in combination with other chemotherapy drugs, the most commonly used dosage of doxorubicin is 40 to 60 mg/m 2 given as a single intravenous injection every 21 to 28 days.
 
-In a large randomized study (NSABP B-15) of patients with early breast cancer involving axillary lymph nodes (see CLINICAL PHARMACOLOGY, CLINICAL STUDIES and ADVERSE REACTIONS, Adverse Reactions in Patients with Early Breast Cancer Receiving Doxorubicin-Containing Adjuvant Therapy), the combination dosage regimen of AC (doxorubicin 60 mg/m2 and cyclophosphamide 600 mg/m2) was administered intravenously on day 1 of each 21-day treatment cycle.
+In a large randomized study (NSABP B-15) of patients with early breast cancer involving axillary lymph nodes (see CLINICAL PHARMACOLOGY, CLINICAL STUDIES and ADVERSE REACTIONS, Adverse Reactions in Patients with Early Breast Cancer Receiving Doxorubicin-Containing Adjuvant Therapy), the combination dosage regimen of AC (doxorubicin 60 mg/m 2 and cyclophosphamide 600 mg/m 2) was administered intravenously on day 1 of each 21-day treatment cycle.
 Four cycles of treatment were administered.
 
 ## Dose Modifications
 
 Patients in the NSABP B-15 study could have dose modifications of AC to 75% of the starting doses for neutropenic fever/infection.
-When necessary, the next cycle of treatment cycle was delayed until the absolute neutrophil count (ANC) was ≥ 1,000 cells/mm3 and the platelet count was ≥ 100,000 cells/mm3 and nonhematologic toxicities had resolved.
+When necessary, the next cycle of treatment cycle was delayed until the absolute neutrophil count (ANC) was ≥ 1,000 cells/mm 3 and the platelet count was ≥ 100,000 cells/mm 3 and nonhematologic toxicities had resolved.
 
 Doxorubicin dosage must be reduced in case of hyperbilirubinemia as follows:
 
@@ -37,7 +37,7 @@ Doxorubicin dosage must be reduced in case of hyperbilirubinemia as follows:
 ## Reconstitution Directions
 
 It is recommended that doxorubicin be slowly administered into the tubing of a freely running intravenous infusion of Sodium Chloride Injection, USP, or 5% Dextrose Injection, USP.
-The tubing should be attached to a Butterfly® needle inserted preferably into a large vein.
+The tubing should be attached to a Butterfly ® needle inserted preferably into a large vein.
 If possible, avoid veins over joints or in extremities with compromised venous or lymphatic drainage.
 The rate of administration is dependent on the size of the vein and the dosage.
 However, the dose should be administered in not less than 3 to 5 minutes.
@@ -54,7 +54,8 @@ Parenteral drug products should be inspected visually for particulate matter and
 ## Handling and Disposal
 
 Procedures for proper handling and disposal of anti-cancer drugs should be considered.
-Several guidelines on this subject have been published.1-4 There is no general agreement that all the procedures recommended in the guidelines are necessary or appropriate.
+Several guidelines on this subject have been published.
+1-4 There is no general agreement that all the procedures recommended in the guidelines are necessary or appropriate.
 However, given the toxic nature of this substance, the following protective recommendations are provided:
 
 - Personnel should be trained in good technique for reconstitution and handling.

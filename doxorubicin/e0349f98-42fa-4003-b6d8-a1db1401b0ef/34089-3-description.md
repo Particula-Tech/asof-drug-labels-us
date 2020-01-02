@@ -2,12 +2,12 @@
 
 Doxorubicin is a cytotoxic anthracycline antibiotic isolated from cultures of Streptomyces peucetius var.caesius.
 Doxorubicin consists of a naphthacenequinone nucleus linked through a glycosidic bond at ring atom 7 to an amino sugar, daunosamine.
-Chemically, doxorubicin hydrochloride is: 5,12-Naphthacenedione, 10-[(3-amino-2,3,6-trideoxy-α-L-lyxo-hexopyranosyl)oxy]-7,8,9,10-tetrahydro-6,8,11-trihydroxy-8-(hydroxylacetyl)-1-methoxy-, hydrochloride (8S-cis)-.
-(8S, 10S)-10-[(3-Amino-2,3,6-trideoxy-α-L-lyxo-hexopyranosyl)-oxy]-8-glycoloyl-7,8,9,10-tetrahydro-6,8,11-trihydroxy-1-methoxy-5,12-naphthacenedione hydrochloride [25316-40-9].
+Chemically, doxorubicin hydrochloride is: 5,12-Naphthacenedione, 10-[(3-amino-2,3,6-trideoxy-α-L- lyxo-hexopyranosyl)oxy]-7,8,9,10-tetrahydro-6,8,11-trihydroxy-8-(hydroxylacetyl)-1-methoxy-, hydrochloride (8 S- cis)-.
+(8 S, 10 S)-10-[(3-Amino-2,3,6-trideoxy-α-L- lyxo-hexopyranosyl)-oxy]-8-glycoloyl-7,8,9,10-tetrahydro-6,8,11-trihydroxy-1-methoxy-5,12-naphthacenedione hydrochloride [25316-40-9].
 
 The structural formula is as follows:
 
-C27H29NO11• HCl M.W.579.99 Doxorubicin binds to nucleic acids, presumably by specific intercalation of the planar anthracycline nucleus with the DNA double helix.
+C 27H 29NO 11• HCl M.W.579.99 Doxorubicin binds to nucleic acids, presumably by specific intercalation of the planar anthracycline nucleus with the DNA double helix.
 The anthracycline ring is lipophilic, but the saturated end of the ring system contains abundant hydroxyl groups adjacent to the amino sugar, producing a hydrophilic center.
 The molecule is amphoteric, containing acidic functions in the ring phenolic groups and a basic function in the sugar amino group.
 It binds to cell membranes as well as plasma proteins.
