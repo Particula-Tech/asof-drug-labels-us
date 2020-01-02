@@ -61,10 +61,10 @@ The incidences of adverse reactions in the table that follows are derived from m
 | ADVERSE DRUG EFFECT | PERCENT RANGE OF REPORTED INCIDENCE |
 | --- | --- |
 | Hematologic toxicity |  |
-| Leukopenia (less than 1,000 WBC/mm3) | 3 to 17 |
-| Leukopenia (less than 4,000 WBC/mm3) | 60 to 91 |
-| Thrombocytopenia (less than 50,000 platelets/mm3) | 1 to 20 |
-| Thrombocytopenia (less than 100,000 platelets/mm3) | 22 to 41 |
+| Leukopenia (less than 1,000 WBC/mm 3) | 3 to 17 |
+| Leukopenia (less than 4,000 WBC/mm 3) | 60 to 91 |
+| Thrombocytopenia (less than 50,000 platelets/mm 3) | 1 to 20 |
+| Thrombocytopenia (less than 100,000 platelets/mm 3) | 22 to 41 |
 | Anemia | 0 to 33 |
 | Gastrointestinal toxicity |  |
 | Nausea and vomiting | 31 to 43 |

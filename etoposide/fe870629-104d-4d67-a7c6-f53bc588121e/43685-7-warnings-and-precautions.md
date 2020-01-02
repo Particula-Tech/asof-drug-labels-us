@@ -4,7 +4,7 @@ Patients being treated with etoposide must be frequently observed for myelosuppr
 Myelosuppression resulting in death has been reported.
 Dose-limiting bone marrow suppression is the most significant toxicity associated with etoposide therapy.
 Therefore, the following studies should be obtained at the start of therapy and prior to each subsequent cycle of etoposide: platelet count, hemoglobin, white blood cell count, and differential.
-The occurrence of a platelet count below 50,000/mm3 or an absolute neutrophil count below 500/mm3 is an indication to withhold further therapy until the blood counts have sufficiently recovered.
+The occurrence of a platelet count below 50,000/mm 3 or an absolute neutrophil count below 500/mm 3 is an indication to withhold further therapy until the blood counts have sufficiently recovered.
 
 Physicians should be aware of the possible occurrence of an anaphylactic reaction manifested by chills, fever, tachycardia, bronchospasm, dyspnea, and hypotension.
 Higher rates of anaphylactic-like reactions have been reported in children who received infusions at concentrations higher than those recommended.
@@ -19,9 +19,9 @@ For parenteral administration, Etoposide Injection, USP should be given only by 
 Etoposide can cause fetal harm when administered to a pregnant woman.
 Etoposide has been shown to be teratogenic in mice and rats.
 
-In rats, an intravenous etoposide dose of 0.4 mg/kg/day (about 1/20th of the human dose on a mg/m2 basis) during organogenesis caused maternal toxicity, embryotoxicity, and teratogenicity (skeletal abnormalities, exencephaly, encephalocele, and anophthalmia); higher doses of 1.2 and 3.6 mg/kg/day (about 1/7th and 1/2 of human dose on a mg/m2 basis) resulted in 90 and 100% embryonic resorptions.
-In mice, a single 1 mg/kg (1/16th of human dose on a mg/m2 basis) dose of etoposide administered intraperitoneally on days 6, 7, or 8 of gestation caused embryotoxicity, cranial abnormalities, and major skeletal malformations.
-An I.P. dose of 1.5 mg/kg (about 1/10th of human dose on a mg/m2 basis) on day 7 of gestation caused an increase in the incidence of intrauterine death and fetal malformations and a significant decrease in the average fetal body weight.
+In rats, an intravenous etoposide dose of 0.4 mg/kg/day (about 1/20th of the human dose on a mg/m 2 basis) during organogenesis caused maternal toxicity, embryotoxicity, and teratogenicity (skeletal abnormalities, exencephaly, encephalocele, and anophthalmia); higher doses of 1.2 and 3.6 mg/kg/day (about 1/7th and 1/2 of human dose on a mg/m 2 basis) resulted in 90 and 100% embryonic resorptions.
+In mice, a single 1 mg/kg (1/16th of human dose on a mg/m 2 basis) dose of etoposide administered intraperitoneally on days 6, 7, or 8 of gestation caused embryotoxicity, cranial abnormalities, and major skeletal malformations.
+An I.P. dose of 1.5 mg/kg (about 1/10th of human dose on a mg/m 2 basis) on day 7 of gestation caused an increase in the incidence of intrauterine death and fetal malformations and a significant decrease in the average fetal body weight.
 
 Women of childbearing potential should be advised to avoid becoming pregnant.
 If this drug is used during pregnancy, or if the patient becomes pregnant while receiving this drug, the patient should be warned of the potential hazard to the fetus.
@@ -64,14 +64,14 @@ Subsequent etoposide dosing should be based on patient tolerance and clinical ef
 
 Data are not available in patients with creatinine clearances < 15 mL/min and further dose reduction should be considered in these patients.
 
-## Carcinogenesis (see WARNINGS), Mutagenesis, Impairment of Fertility
+## Carcinogenesis(see WARNINGS), Mutagenesis, Impairment of Fertility
 
 Etoposide has been shown to be mutagenic in Ames assay.
 
 Treatment of Swiss-Albino mice with 1.5 mg/kg I.P. of etoposide on day 7 of gestation increased the incidence of intrauterine death and fetal malformations as well as significantly decreased the average fetal body weight.
 Maternal weight gain was not affected.
 
-Irreversible testicular atrophy was present in rats treated with etoposide intravenously for 30 days at 0.5 mg/kg/day (about 1/16th of the human dose on a mg/m2 basis).
+Irreversible testicular atrophy was present in rats treated with etoposide intravenously for 30 days at 0.5 mg/kg/day (about 1/16th of the human dose on a mg/m 2 basis).
 
 Pregnancy: Pregnancy Category D.
 

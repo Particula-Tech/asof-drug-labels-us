@@ -11,5 +11,5 @@ Each mL contains 20 mg etoposide, 2 mg citric acid, 30 mg benzyl alcohol, 80 mg 
 Vial headspace contains nitrogen.
 The structural formula is:
 
-C29H32O13 M.W.
+C 29H 32O 13 M.W.
 588.56

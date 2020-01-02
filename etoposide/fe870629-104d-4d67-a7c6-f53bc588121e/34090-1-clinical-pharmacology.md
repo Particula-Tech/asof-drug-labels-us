@@ -1,7 +1,7 @@
 # CLINICAL PHARMACOLOGY:
 
 Etoposide has been shown to cause metaphase arrest in chick fibroblasts.
-Its main effect, however, appears to be at the G2 portion of the cell cycle in mammalian cells.
+Its main effect, however, appears to be at the G 2 portion of the cell cycle in mammalian cells.
 Two different dose-dependent responses are seen.
 At high concentrations (10 mcg/mL or more), lysis of cells entering mitosis is observed.
 At low concentrations (0.3 to 10 mcg/mL), cells are inhibited from entering prophase.
@@ -11,11 +11,11 @@ The predominant macromolecular effect of etoposide appears to be the induction o
 ## Pharmacokinetics
 
 On intravenous administration, the disposition of etoposide is best described as a biphasic process with a distribution half-life of about 1.5 hours and terminal elimination half-life ranging from 4 to 11 hours.
-Total body clearance values range from 33 to 48 mL/min or 16 to 36 mL/min/m2 and, like the terminal elimination half-life, are independent of dose over a range 100 to 600 mg/m2.
-Over the same dose range, the areas under the plasma concentration vs time curves (AUC) and the maximum plasma concentration (Cmax) values increase linearly with dose.
-Etoposide does not accumulate in the plasma following daily administration of 100 mg/m2 for 4 to 5 days.
+Total body clearance values range from 33 to 48 mL/min or 16 to 36 mL/min/m 2 and, like the terminal elimination half-life, are independent of dose over a range 100 to 600 mg/m 2.
+Over the same dose range, the areas under the plasma concentration vs time curves (AUC) and the maximum plasma concentration (C max) values increase linearly with dose.
+Etoposide does not accumulate in the plasma following daily administration of 100 mg/m 2 for 4 to 5 days.
 
-The mean volumes of distribution at steady state fall in the range of 18 to 29 liters or 7 to 17 L/m2.
+The mean volumes of distribution at steady state fall in the range of 18 to 29 liters or 7 to 17 L/m 2.
 Etoposide enters the CSF poorly.
 Although it is detectable in CSF and intracerebral tumors, the concentrations are lower than in extracerebral tumors and in plasma.
 Etoposide concentrations are higher in normal lung than in lung metastases and are similar in primary tumors and normal tissues of the myometrium.
@@ -27,10 +27,10 @@ Etoposide binding ratio correlates directly with serum albumin in patients with 
 The unbound fraction of etoposide significantly correlated with bilirubin in a population of cancer patients.
 Data have suggested a significant inverse correlation between serum albumin concentration and free fraction of etoposide (see PRECAUTIONS).
 
-After intravenous administration of 14C-etoposide (100 to 124 mg/m2), mean recovery of radioactivity in the urine was 56% of the dose at 120 hours, 45% of which was excreted as etoposide; fecal recovery of radioactivity was 44% of the dose at 120 hours.
+After intravenous administration of 14C-etoposide (100 to 124 mg/m 2), mean recovery of radioactivity in the urine was 56% of the dose at 120 hours, 45% of which was excreted as etoposide; fecal recovery of radioactivity was 44% of the dose at 120 hours.
 
 In children, approximately 55% of the dose is excreted in the urine as etoposide in 24 hours.
-The mean renal clearance of etoposide is 7 to 10 mL/min/m2 or about 35% of the total body clearance over a dose range of 80 to 600 mg/m2.
+The mean renal clearance of etoposide is 7 to 10 mL/min/m 2 or about 35% of the total body clearance over a dose range of 80 to 600 mg/m 2.
 Etoposide, therefore, is cleared by both renal and nonrenal processes, i.e., metabolism and biliary excretion.
 The effect of renal disease on plasma etoposide clearance is not known.
 
@@ -41,12 +41,12 @@ Glucuronide and/or sulfate conjugates of etoposide are also excreted in human ur
 Only 8% or less of an intravenous dose is excreted in the urine as radiolabeled metabolites of 14C-etoposide.
 In addition, O-demethylation of the dimethoxyphenol ring occurs through the CYP450 3A4 isoenzyme pathway to produce the corresponding catechol.
 
-After either intravenous infusion or oral capsule administration, the Cmax and AUC values exhibit marked intra- and inter-subject variability.
+After either intravenous infusion or oral capsule administration, the C max and AUC values exhibit marked intra- and inter-subject variability.
 This results in variability in the estimates of the absolute oral bioavailability of etoposide oral capsules.
 
-Cmax and AUC values for orally administered etoposide capsules consistently fall in the same range as the Cmax and AUC values for an intravenous dose of one-half the size of the oral dose.
+C max and AUC values for orally administered etoposide capsules consistently fall in the same range as the C max and AUC values for an intravenous dose of one-half the size of the oral dose.
 The overall mean value of oral capsule bioavailability is approximately 50% (range 25 to 75%).
-The bioavailability of etoposide capsules appears to be linear up to a dose of at least 250 mg/m2.
+The bioavailability of etoposide capsules appears to be linear up to a dose of at least 250 mg/m 2.
 
 There is no evidence of a first-pass effect for etoposide.
 For example, no correlation exists between the absolute oral bioavailability of etoposide capsules and nonrenal clearance.

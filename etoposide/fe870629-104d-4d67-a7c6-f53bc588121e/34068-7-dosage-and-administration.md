@@ -1,12 +1,12 @@
 # DOSAGE AND ADMINISTRATION:
 
-Note: Plastic devices made of acrylic or ABS (a polymer composed of acrylonitrile, butadiene, and styrene) have been reported to crack and leak when used with undiluted Etoposide Injection, USP.
+Note: Plastic devices made of acrylic or ABS (a polymer composed of acrylonitrile, butadiene, and styrene) have been reported to crack and leak when used with undilutedEtoposide Injection, USP.
 
 Etoposide Injection, USP
 
-The usual dose of Etoposide Injection, USP in testicular cancer in combination with other approved chemotherapeutic agents ranges from 50 to 100 mg/m2/day on days 1 through 5 to 100 mg/m2/day on days 1, 3, and 5.
+The usual dose of Etoposide Injection, USP in testicular cancer in combination with other approved chemotherapeutic agents ranges from 50 to 100 mg/m 2/day on days 1 through 5 to 100 mg/m 2/day on days 1, 3, and 5.
 
-In small cell lung cancer, the Etoposide Injection, USP dose in combination with other approved chemotherapeutic drugs ranges from 35 mg/m2/day for 4 days to 50 mg/m2/day for 5 days.
+In small cell lung cancer, the Etoposide Injection, USP dose in combination with other approved chemotherapeutic drugs ranges from 35 mg/m 2/day for 4 days to 50 mg/m 2/day for 5 days.
 
 For recommended dosing adjustments in patients with renal impairment (see PRECAUTIONS).
 
@@ -41,4 +41,5 @@ Unopened vials of Etoposide Injection, USP are stable for 24 months at room temp
 Vials diluted as recommended to a concentration of 0.2 to 0.4 mg/mL are stable for 96 and 24 hours, respectively, at room temperature (25°C) under normal room fluorescent light in both glass and plastic containers.
 
 Procedures for proper handling and disposal of anticancer drugs should be considered.
-Several guidelines on this subject have been published.1-8 There is no general agreement that all of the procedures recommended in the guidelines are necessary or appropriate.
+Several guidelines on this subject have been published.
+1-8 There is no general agreement that all of the procedures recommended in the guidelines are necessary or appropriate.
