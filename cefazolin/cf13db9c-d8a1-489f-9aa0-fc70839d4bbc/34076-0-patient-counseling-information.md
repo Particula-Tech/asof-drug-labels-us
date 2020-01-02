@@ -16,7 +16,7 @@ Rx only SmartPak is a registered trademark of Samson Medical Technologies, L.L.C
 Clinitest is a registered trademark of Siemens Medical Solutions Diagnostics.
 Clinistix is a registered trademark of Bayer Healthcare LLC.
 
-C1100h
+C1100i
 
 Manufactured for
 
