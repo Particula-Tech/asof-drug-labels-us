@@ -26,7 +26,7 @@ The need for continued treatment should be reassessed periodically.
 If signs and symptoms of tardive dyskinesia appear in a patient on neuroleptics, drug discontinuation should be considered.
 However, some patients may require treatment despite the presence of the syndrome.
 
-(For further information about the description of tardive dyskinesia and its clinical detection, please refer to the sections on PRECAUTIONS, Information for Patients, and ADVERSE REACTIONS, Tardive Dyskinesia.)
+(For further information about the description of tardive dyskinesia and its clinical detection, please refer to the sections on PRECAUTIONS,Information for Patients, and ADVERSE REACTIONS, TardiveDyskinesia.)
 
 ## Neuroleptic Malignant Syndrome (NMS)
 
@@ -111,7 +111,7 @@ Possible risk factors for leukopenia/neutropenia include pre-existing low white 
 Patients with a pre-existing low WBC or a history of drug induced leukopenia/neutropenia should have their complete blood count (CBC) monitored frequently during the first few months of therapy and should discontinue Fluphenazine Decanoate Injection, USP at the first sign of a decline in WBC in the absence of other causative factors.
 
 Patients with neutropenia should be carefully monitored for fever or other symptoms or signs of infection and treated promptly if such symptoms or signs occur.
-Patients with severe neutropenia (absolute neutrophil count <1,000/mm3) should discontinue Fluphenazine Decanoate Injection, USP and have their WBC followed until recovery.
+Patients with severe neutropenia (absolute neutrophil count <1,000/mm 3) should discontinue Fluphenazine Decanoate Injection, USP and have their WBC followed until recovery.
 
 ## Information for Patients
 
