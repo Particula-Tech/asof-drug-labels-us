@@ -3,9 +3,9 @@
 Cisatracurium Besylate Injection, USP is a non-depolarizing skeletal muscle relaxant for intravenous administration.
 Compared to other neuromuscular blocking agents, it is intermediate in its onset and duration of action.
 Cisatracurium besylate is one of 10 isomers of atracurium besylate and constitutes approximately 15% of that mixture.
-Cisatracurium besylate is [1R -[1α,2α(1'R*,2'R*)]]-2,2'-[1,5-pentanediylbis[oxy(3-oxo-3,1-propanediyl)]]bis[1-[(3,4-dimethoxyphenyl)methyl]-1,2,3,4-tetrahydro-6,7-dimethoxy-2-methylisoquinolinium] dibenzenesulfonate.
-The molecular formula of the cisatracurium parent bis-cation is C53H72N2O12 and the molecular weight is 929.2.
-The molecular formula of cisatracurium as the besylate salt is C65H82N2O18S2 and the molecular weight is 1243.50.
+Cisatracurium besylate is [1 R -[1α,2α(1' R*,2' R*)]]-2,2'-[1,5-pentanediylbis[oxy(3-oxo-3,1-propanediyl)]]bis[1-[(3,4-dimethoxyphenyl)methyl]-1,2,3,4-tetrahydro-6,7-dimethoxy-2-methylisoquinolinium] dibenzenesulfonate.
+The molecular formula of the cisatracurium parent bis-cation is C 53H 72N 2O 12 and the molecular weight is 929.2.
+The molecular formula of cisatracurium as the besylate salt is C 65H 82N 2O 18S 2 and the molecular weight is 1243.50.
 
 The structural formula of cisatracurium besylate is:
 
