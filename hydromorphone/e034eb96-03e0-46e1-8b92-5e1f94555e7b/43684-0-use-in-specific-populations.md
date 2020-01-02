@@ -97,7 +97,7 @@ Because elderly patients are more likely to have decreased renal function, care 
 The pharmacokinetics of hydromorphone are affected by hepatic impairment.
 Due to increased exposure of hydromorphone, patients with moderate hepatic impairment should be started at one-fourth to one-half the recommended starting dose depending on the degree of hepatic dysfunction and closely monitored during dose titration.
 The pharmacokinetics of hydromorphone in patients with severe hepatic impairment has not been studied.
-A further increase in Cmax and AUC of hydromorphone in this group is expected and should be taken into consideration when selecting a starting dose [see Clinical Pharmacology (12.3].
+A further increase in C max and AUC of hydromorphone in this group is expected and should be taken into consideration when selecting a starting dose [see Clinical Pharmacology (12.3].
 
 ## 8.7 Renal Impairment
 

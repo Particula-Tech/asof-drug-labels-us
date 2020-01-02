@@ -9,7 +9,7 @@ Hydromorphone Hydrochloride Injection [high potency formulation (HPF)] is availa
 Each single dose vial contains 10 mg/mL of hydromorphone hydrochloride with 0.2% sodium citrate and 0.2% citric acid added as a buffer to maintain a pH of between 3.5 and 5.5.
 The chemical name of Hydromorphone Hydrochloride is 4,5α-epoxy-3-hydroxy-17-methylmorphinan-6-one hydrochloride.
 The molecular weight is 321.80.
-Its molecular formula is C17H19NO3·HCl, and it has the following chemical structure:
+Its molecular formula is C 17H 19NO 3·HCl, and it has the following chemical structure:
 
 Hydromorphone hydrochloride is a white or almost white crystalline powder that is freely soluble in water, very slightly soluble in ethanol (96%), and practically insoluble in methylene chloride.
 

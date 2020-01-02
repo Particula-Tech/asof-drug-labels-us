@@ -49,7 +49,7 @@ Overall, the effects of opioids appear to be modestly immunosuppressive.
 Concentration–Efficacy Relationships
 
 The minimum effective analgesic concentration will vary widely among patients, especially among patients who have been previously treated with potent agonist opioids.
-The minimum effective analgesic concentration of hydromorphone for any individual patient may increase over time due to an increase in pain, the development of a new pain syndrome, and/or the development of analgesic tolerance [see Dosage and Administration (2.1, 2.2)].
+The minimum effective analgesic concentration of hydromorphone for any individual patient may increase over time due to an increase in pain, the development of a new pain syndrome, and/or the development of analgesic tolerance [see Dosage and Administration (2.1,2.2)].
 
 Concentration–Adverse Reaction Relationships
 
@@ -81,15 +81,15 @@ Special Populations
 
 Hepatic Impairment
 
-After oral administration of hydromorphone at a single 4 mg dose (2 mg hydromorphone immediate-release tablets), mean exposure to hydromorphone (Cmax and AUC∞) is increased 4-fold in patients with moderate (Child-Pugh Group B) hepatic impairment compared with subjects with normal hepatic function.
+After oral administration of hydromorphone at a single 4 mg dose (2 mg hydromorphone immediate-release tablets), mean exposure to hydromorphone (C max and AUC∞) is increased 4-fold in patients with moderate (Child-Pugh Group B) hepatic impairment compared with subjects with normal hepatic function.
 Patients with moderate hepatic impairment should be started at one-fourth to one-half the recommended starting dose and closely monitored during dose titration.
 The pharmacokinetics of hydromorphone in patients with severe hepatic impairment has not been studied.
-A further increase in Cmax and AUC of hydromorphone in this group is expected and should be taken into consideration when selecting a starting dose [see Use in Specific Populations (8.6)].
+A further increase in C max and AUC of hydromorphone in this group is expected and should be taken into consideration when selecting a starting dose [see Use in Specific Populations (8.6)].
 
 Renal Impairment
 
 The pharmacokinetics of hydromorphone following an oral administration of hydromorphone at a single 4 mg dose (2 mg hydromorphone immediate-release tablets) are affected by renal impairment.
-Mean exposure to hydromorphone (Cmax and AUC0-∞) is increased by 2-fold in patients with moderate (CLcr = 40 - 60 mL/min) renal impairment and increased by 4-fold in patients with severe (CLcr< 30 mL/min) renal impairment compared with normal subjects (CLcr> 80 mL/min).
+Mean exposure to hydromorphone (C max and AUC0-∞) is increased by 2-fold in patients with moderate (CLcr = 40 - 60 mL/min) renal impairment and increased by 4-fold in patients with severe (CLcr< 30 mL/min) renal impairment compared with normal subjects (CLcr> 80 mL/min).
 In addition, in patients with severe renal impairment, hydromorphone appeared to be more slowly eliminated with a longer terminal elimination half-life (40 hr) compared to patients with normal renal function (15 hr). Start patients with renal impairment on one-fourth to one-half the usual starting dose depending on the degree of impairment.
 Patients with renal impairment should be closely monitored during dose titration [see Use in Specific Populations (8.7)].
 
@@ -100,5 +100,5 @@ In the geriatric population, age has no effect on the pharmacokinetics of hydrom
 Sex
 
 Sex has little effect on the pharmacokinetics of hydromorphone.
-Females appear to have a higher Cmax (25%) than males with comparable AUC0-24 values.
-The difference observed in Cmax may not be clinically relevant.
+Females appear to have a higher C max (25%) than males with comparable AUC0-24 values.
+The difference observed in C max may not be clinically relevant.
