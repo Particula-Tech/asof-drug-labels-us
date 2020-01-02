@@ -1,9 +1,15 @@
-© 2002, 2004, 2006, 2016 Novartis
+©2002, 2004, 2006, 2016 Novartis
 
-Distributed by: ALCON LABORATORIES, INC. Fort Worth, Texas 76134 USA
+Distributed by:
+
+ALCON LABORATORIES, INC.
+
+Fort Worth, Texas 76134 USA
+
+Revised: October 2016
 
 ALCON®
 
-A Novartis company
+a Novartis company
 
-T2017-30 March 2017
+9012837-0116
