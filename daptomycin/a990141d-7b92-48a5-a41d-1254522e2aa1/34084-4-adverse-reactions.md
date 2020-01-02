@@ -80,7 +80,7 @@ Gram-negative infections included cholangitis, alcoholic pancreatitis, sternal o
 
 The rates of the most common adverse reactions, organized by System Organ Class (SOC), observed in adult patients with S. aureus bacteremia/endocarditis (receiving 6 mg/kg daptomycin for injection) are displayed in Table 7.
 
-Table 7: Incidence of Adverse Reactions that Occurred in ≥ 5% of Adult Patients in the Daptomycin for Injection Treatment Group and ≥ the Comparator Treatment Group in the S. aureus Bacteremia/Endocarditis Trial
+Table 7: Incidence of Adverse Reactions that Occurred in ≥ 5% of Adult Patients in the Daptomycin for Injection Treatment Group and ≥ the Comparator Treatment Group in theS. aureusBacteremia/Endocarditis Trial
 
 | Adverse Reaction* | Adult Patients n (%) |  |
 | --- | --- | --- |
@@ -158,7 +158,7 @@ Table 8: Incidence of CPK Elevations from Baseline during Therapy in Either the 
 | Daptomycin for Injection 4 mg/kg (N=430) |  | Comparator* (N=459) |  | Daptomycin for Injection 4 mg/kg (N=374) |  | Comparator* (N=392) |  |  |
 | % | n | % | n | % | n | % | n |  |
 | No Increase | 90.7 | 390 | 91.1 | 418 | 91.2 | 341 | 91.1 | 357 |
-| Maximum Value > 1× ULN† | 9.3 | 40 | 8.9 | 41 | 8.8 | 33 | 8.9 | 35 |
+| Maximum Value > 1× ULN † | 9.3 | 40 | 8.9 | 41 | 8.8 | 33 | 8.9 | 35 |
 | > 2× ULN | 4.9 | 21 | 4.8 | 22 | 3.7 | 14 | 3.1 | 12 |
 | > 4× ULN | 1.4 | 6 | 1.5 | 7 | 1.1 | 4 | 1.0 | 4 |
 | > 5× ULN | 1.4 | 6 | 0.4 | 2 | 1.1 | 4 | 0.0 | 0 |

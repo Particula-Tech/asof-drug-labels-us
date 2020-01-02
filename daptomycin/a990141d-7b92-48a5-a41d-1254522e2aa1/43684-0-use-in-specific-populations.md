@@ -26,7 +26,7 @@ Maternal body weight gain and food consumption were decreased at 75 mg/kg/day.
 No embryo/fetal effects were noted at the highest dose of 75 mg/kg/day, a dose approximately 4-fold higher than in humans at the maximum recommended dose of 6 mg/kg (based on body surface area).
 
 In a combined fertility and pre/postnatal development study, daptomycin was administered intravenously to female rats at doses of 2, 25, 75 mg/kg/day from 14-days pre-mating through lactation/postpartum day 20).
-No effects on pre/postnatal development were observed up to the highest dose of 75 mg/kg/day, a dose approximately 2-fold higher than the maximum recommended human dose of 6 mg/kg (based on body surface area)1.
+No effects on pre/postnatal development were observed up to the highest dose of 75 mg/kg/day, a dose approximately 2-fold higher than the maximum recommended human dose of 6 mg/kg (based on body surface area) 1.
 
 ## 8.2 Lactation
 
@@ -55,11 +55,11 @@ In Phase 3 adult clinical trials of cSSSI and S. aureus bacteremia/endocarditis,
 In addition, treatment-emergent adverse events were more common in patients ≥ 65 years of age than in patients < 65 years of age.
 
 The exposure of daptomycin was higher in healthy elderly subjects than in healthy young adult subjects.
-However, no adjustment of daptomycin for injection dosage is warranted for elderly patients with creatinine clearance (CLCR) ≥ 30 mL/min [see Dosage and Administration (2.4) and Clinical Pharmacology (12.3)].
+However, no adjustment of daptomycin for injection dosage is warranted for elderly patients with creatinine clearance (CL CR) ≥ 30 mL/min [see Dosage and Administration (2.4) and Clinical Pharmacology (12.3)].
 
 ## 8.6 Patients with Renal Impairment
 
-Daptomycin is eliminated primarily by the kidneys; therefore, a modification of daptomycin for injection dosage interval is recommended for adult patients with CLCR < 30 mL/min, including patients receiving hemodialysis or continuous ambulatory peritoneal dialysis (CAPD).
-In adult patients with renal impairment, both renal function and creatine phosphokinase (CPK) should be monitored more frequently than once weekly [see Dosage and Administration (2.6), Warnings and Precautions (5.2, 5.8), and Clinical Pharmacology (12.3)].
+Daptomycin is eliminated primarily by the kidneys; therefore, a modification of daptomycin for injection dosage interval is recommended for adult patients with CL CR < 30 mL/min, including patients receiving hemodialysis or continuous ambulatory peritoneal dialysis (CAPD).
+In adult patients with renal impairment, both renal function and creatine phosphokinase (CPK) should be monitored more frequently than once weekly [see Dosage and Administration (2.6), Warnings and Precautions (5.2,5.8), and Clinical Pharmacology (12.3)].
 
 The dosage regimen for daptomycin for injection in pediatric patients with renal impairment has not been established.

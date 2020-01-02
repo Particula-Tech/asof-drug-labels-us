@@ -5,7 +5,7 @@
 Adults with cSSSI Adult patients with clinically documented complicated skin and skin structure infections (cSSSI) (Table 17) were enrolled in two randomized, multinational, multicenter, investigator-blinded trials comparing daptomycin for injection (4 mg/kg IV q24h) with either vancomycin (1 g IV q12h) or an anti-staphylococcal semi-synthetic penicillin (i.e., nafcillin, oxacillin, cloxacillin, or flucloxacillin; 4 to 12 g IV per day).
 Patients could switch to oral therapy after a minimum of 4 days of IV treatment if clinical improvement was demonstrated.
 Patients known to have bacteremia at baseline were excluded.
-Patients with creatinine clearance (CLCR) between 30 and 70 mL/min were to receive a lower dose of daptomycin for injection as specified in the protocol; however, the majority of patients in this subpopulation did not have the dose of daptomycin for injection adjusted.
+Patients with creatinine clearance (CL CR) between 30 and 70 mL/min were to receive a lower dose of daptomycin for injection as specified in the protocol; however, the majority of patients in this subpopulation did not have the dose of daptomycin for injection adjusted.
 
 Table 17: Investigator’s Primary Diagnosis in the cSSSI Trials in Adult Patients (Population: ITT)
 
@@ -15,7 +15,7 @@ Table 17: Investigator’s Primary Diagnosis in the cSSSI Trials in Adult Patien
 | Wound Infection | 99 (38%) / 116 (44%) | 102 (38%) / 108 (37%) | 201 (38%) / 224 (40%) |
 | Major Abscess | 55 (21%) / 43 (16%) | 59 (22%) / 65 (22%) | 114 (21%) / 108 (19%) |
 | Ulcer Infection | 71 (27%) / 75 (28%) | 53 (20%) / 68 (23%) | 124 (23%) / 143 (26%) |
-| Other Infection† | 39 (15%) / 32 (12%) | 56 (21%) / 51 (18%) | 95 (18%) / 83 (15%) |
+| Other Infection † | 39 (15%) / 32 (12%) | 56 (21%) / 51 (18%) | 95 (18%) / 83 (15%) |
 
 * Comparator: vancomycin (1 g IV q12h) or an anti-staphylococcal semi-synthetic penicillin (i.e., nafcillin, oxacillin, cloxacillin, or flucloxacillin; 4 to 12 g/day IV in divided doses).
 
@@ -39,8 +39,8 @@ Table 18: Clinical Success Rates by Infecting Pathogen in the cSSSI Trials in Ad
 | Pathogen | Success Rate n/N (%) |  |
 | --- | --- | --- |
 | Daptomycin for Injection | Comparator* |  |
-| Methicillin-susceptible Staphylococcus aureus (MSSA)† | 170/198 (86%) | 180/207 (87%) |
-| Methicillin-resistant Staphylococcus aureus (MRSA)† | 21/28 (75%) | 25/36 (69%) |
+| Methicillin-susceptible Staphylococcus aureus (MSSA) † | 170/198 (86%) | 180/207 (87%) |
+| Methicillin-resistant Staphylococcus aureus (MRSA) † | 21/28 (75%) | 25/36 (69%) |
 | Streptococcus pyogenes | 79/84 (94%) | 80/88 (91%) |
 | Streptococcus agalactiae | 23/27 (85%) | 22/29 (76%) |
 | Streptococcus dysgalactiae subsp. equisimilis | 8/8 (100%) | 9/11 (82%) |
@@ -91,25 +91,25 @@ The success rates in the PP population were 54.4% (43/79) in patients treated wi
 
 Adjudication Committee success rates are shown in Table 19.
 
-Table 19: Adjudication Committee Success Rates at Test of Cure in the S. aureus Bacteremia/Endocarditis Trial in Adult Patients (Population: ITT)
+Table 19: Adjudication Committee Success Rates at Test of Cure in theS. aureusBacteremia/Endocarditis Trial in Adult Patients (Population: ITT)
 
 | Population | Success Rate n/N (%) |  | Difference: Daptomycin for Injection − Comparator (Confidence Interval) |
 | --- | --- | --- | --- |
 | Daptomycin for Injection 6 mg/kg | Comparator* |  |  |
-| Overall | 53/120 (44%) | 48/115 (42%) | 2.4% (−10.2, 15.1)† |
+| Overall | 53/120 (44%) | 48/115 (42%) | 2.4% (−10.2, 15.1) † |
 | Baseline Pathogen |  |  |  |
-| Methicillin-susceptible S. aureus | 33/74 (45%) | 34/70 (49%) | −4.0% (−22.6, 14.6)‡ |
-| Methicillin-resistant S. aureus | 20/45 (44%) | 14/44 (32%) | 12.6% (−10.2, 35.5)‡ |
-| Entry Diagnosis§ |  |  |  |
-| Definite or Possible Infective Endocarditis | 41/90 (46%) | 37/91 (41%) | 4.9% (−11.6, 21.4)‡ |
-| Not Infective Endocarditis | 12/30 (40%) | 11/24 (46%) | −5.8% (−36.2, 24.5)‡ |
+| Methicillin-susceptible S. aureus | 33/74 (45%) | 34/70 (49%) | −4.0% (−22.6, 14.6) ‡ |
+| Methicillin-resistant S. aureus | 20/45 (44%) | 14/44 (32%) | 12.6% (−10.2, 35.5) ‡ |
+| Entry Diagnosis § |  |  |  |
+| Definite or Possible Infective Endocarditis | 41/90 (46%) | 37/91 (41%) | 4.9% (−11.6, 21.4) ‡ |
+| Not Infective Endocarditis | 12/30 (40%) | 11/24 (46%) | −5.8% (−36.2, 24.5) ‡ |
 | Final Diagnosis |  |  |  |
-| Uncomplicated Bacteremia | 18/32 (56%) | 16/29 (55%) | 1.1% (−31.7, 33.9)¶ |
-| Complicated Bacteremia | 26/60 (43%) | 23/61 (38%) | 5.6% (−17.3, 28.6)¶ |
-| Right-Sided Infective Endocarditis | 8/19 (42%) | 7/16 (44%) | −1.6% (−44.9, 41.6)¶ |
-| Uncomplicated Right-Sided Infective Endocarditis | 3/6 (50%) | 1/4 (25%) | 25.0% (−51.6, 100.0)¶ |
-| Complicated Right-Sided Infective Endocarditis | 5/13 (39%) | 6/12 (50%) | −11.5% (−62.4, 39.4)¶ |
-| Left-Sided Infective Endocarditis | 1/9 (11%) | 2/9 (22%) | −11.1% (−55.9, 33.6)¶ |
+| Uncomplicated Bacteremia | 18/32 (56%) | 16/29 (55%) | 1.1% (−31.7, 33.9) ¶ |
+| Complicated Bacteremia | 26/60 (43%) | 23/61 (38%) | 5.6% (−17.3, 28.6) ¶ |
+| Right-Sided Infective Endocarditis | 8/19 (42%) | 7/16 (44%) | −1.6% (−44.9, 41.6) ¶ |
+| Uncomplicated Right-Sided Infective Endocarditis | 3/6 (50%) | 1/4 (25%) | 25.0% (−51.6, 100.0) ¶ |
+| Complicated Right-Sided Infective Endocarditis | 5/13 (39%) | 6/12 (50%) | −11.5% (−62.4, 39.4) ¶ |
+| Left-Sided Infective Endocarditis | 1/9 (11%) | 2/9 (22%) | −11.1% (−55.9, 33.6) ¶ |
 
 * Comparator: vancomycin (1 g IV q12h) or an anti-staphylococcal semi-synthetic penicillin (i.e., nafcillin, oxacillin, cloxacillin, or flucloxacillin; 2 g IV q4h), each with initial low-dose gentamicin.
 
@@ -117,7 +117,7 @@ Table 19: Adjudication Committee Success Rates at Test of Cure in the S. aureus 
 
 ‡ 97.5% Confidence Interval (adjusted for multiplicity)
 
-§ According to the modified Duke criteria8
+§ According to the modified Duke criteria 8
 
 ¶ 99% Confidence Interval (adjusted for multiplicity)
 
