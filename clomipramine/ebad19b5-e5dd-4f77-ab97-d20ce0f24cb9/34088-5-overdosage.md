@@ -9,9 +9,9 @@ Therefore, hospital monitoring is required as soon as possible.
 ## Human Experience
 
 In U.S. clinical trials, 2 deaths occurred in 12 reported cases of acute overdosage with clomipramine either alone or in combination with other drugs.
-One death involved a patient suspected of ingesting a dose of 7000 mg.
-The second death involved a patient suspected of ingesting a dose of 5750 mg.
-The 10 nonfatal cases involved doses of up to 5000 mg, accompanied by plasma levels of up to 1010 ng/mL.
+One death involved a patient suspected of ingesting a dose of 7,000 mg.
+The second death involved a patient suspected of ingesting a dose of 5,750 mg.
+The 10 nonfatal cases involved doses of up to 5,000 mg, accompanied by plasma levels of up to 1,010 ng/mL.
 All 10 patients completely recovered.
 Among reports from other countries of clomipramine overdose, the lowest dose associated with a fatality was 750 mg.
 Based upon postmarketing reports in the United Kingdom, CMI's lethality in overdose is considered to be similar to that reported for closely related tricyclic compounds marketed as antidepressants.

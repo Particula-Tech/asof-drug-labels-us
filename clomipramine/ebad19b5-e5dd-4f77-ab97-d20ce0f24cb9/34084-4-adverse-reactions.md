@@ -6,7 +6,7 @@ The most commonly observed adverse events associated with the use of clomipramin
 
 ## Leading to Discontinuation of Treatment
 
-Approximately 20% of 3616 patients who received clomipramine hydrochloride in U.S. premarketing clinical trials discontinued treatment because of an adverse event.
+Approximately 20% of 3,616 patients who received clomipramine hydrochloride in U.S. premarketing clinical trials discontinued treatment because of an adverse event.
 Approximately one- half of the patients who discontinued (9% of the total) had multiple complaints, none of which could be classified as primary.
 Where a primary reason for discontinuation could be identified, most patients discontinued because of nervous system complaints (5.4%), primarily somnolence.
 The second-most-frequent reason for discontinuation was digestive system complaints (1.3%), primarily vomiting and nausea.
@@ -146,16 +146,16 @@ Incidence of Treatment-Emergent Adverse Experience in Placebo-Controlled Clinica
 
 ## Other Events Observed During the Premarketing Evaluation of Clomipramine
 
-During clinical testing in the U.S., multiple doses of clomipramine were administered to approximately 3600 subjects.
+During clinical testing in the U.S., multiple doses of clomipramine were administered to approximately 3,600 subjects.
 Untoward events associated with this exposure were recorded by clinical investigators using terminology of their own choosing.
 Consequently, it is not possible to provide a meaningful estimate of the proportion of individuals experiencing adverse events without first grouping similar types of untoward events into a smaller number of standardized event categories.
 
 In the tabulations that follow, a modified World Health Organization dictionary of terminology has been used to classify reported adverse events.
-The frequencies presented, therefore, represent the proportion of the 3525 individuals exposed to clomipramine who experienced an event of the type cited on at least one occasion while receiving clomipramine.
+The frequencies presented, therefore, represent the proportion of the 3,525 individuals exposed to clomipramine who experienced an event of the type cited on at least one occasion while receiving clomipramine.
 All events are included except those already listed in the previous table, those reported in terms so general as to be uninformative, and those in which an association with the drug was remote.
 It is important to emphasize that although the events reported occurred during treatment with clomipramine, they were not necessarily caused by it.
 
-Events are further categorized by body system and listed in order of decreasing frequency according to the following definitions: frequent adverse events are those occurring on one or more occasions in at least 1/100 patients; infrequent adverse events are those occurring in 1/100 to 1/1000 patients; rare events are those occurring in less than 1/1000 patients.
+Events are further categorized by body system and listed in order of decreasing frequency according to the following definitions: frequent adverse events are those occurring on one or more occasions in at least 1/100 patients; infrequent adverse events are those occurring in 1/100 to 1/1,000 patients; rare events are those occurring in less than 1/1,000 patients.
 
 ## Body as a Whole
 

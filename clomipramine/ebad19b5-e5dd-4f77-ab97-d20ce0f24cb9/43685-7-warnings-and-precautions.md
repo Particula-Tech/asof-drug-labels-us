@@ -8,16 +8,16 @@ There has been a long- standing concern, however, that antidepressants may have 
 Pooled analyses of short-term placebo-controlled trials of antidepressant drugs (SSRIs and others) showed that these drugs increase the risk of suicidal thinking and behavior (suicidality) in children, adolescents, and young adults (ages 18 to 24) with major depressive disorder (MDD) and other psychiatric disorders.
 Short-term studies did not show an increase in the risk of suicidality with antidepressants compared to placebo in adults beyond age 24; there was a reduction with antidepressants compared to placebo in adults aged 65 and older.
 
-The pooled analyses of placebo-controlled trials in children and adolescents with MDD, obsessive compulsive disorder (OCD), or other psychiatric disorders included a total of 24 short-term trials of 9 antidepressant drugs in over 4400 patients.
+The pooled analyses of placebo-controlled trials in children and adolescents with MDD, obsessive compulsive disorder (OCD), or other psychiatric disorders included a total of 24 short-term trials of 9 antidepressant drugs in over 4,400 patients.
 The pooled analyses of placebo-controlled trials in adults with MDD or other psychiatric disorders included a total of 295 short-term trials (median duration of 2 months) of 11 antidepressant drugs in over 77,000 patients.
 There was considerable variation in risk of suicidality among drugs, but a tendency toward an increase in the younger patients for almost all drugs studied.
 There were differences in absolute risk of suicidality across the different indications, with the highest incidence in MDD.
 The risk differences (drug vs placebo), however, were relatively stable within age strata and across indications.
-These risk differences (drug-placebo difference in the number of cases of suicidality per 1000 patients treated) are provided in Table 1.
+These risk differences (drug-placebo difference in the number of cases of suicidality per 1,000 patients treated) are provided in Table 1.
 
 Table 1
 
-| Age Range | Drug-Placebo Difference in Number of Cases of Suicidality per 1000 Patients Treated |
+| Age Range | Drug-Placebo Difference in Number of Cases of Suicidality per 1,000 Patients Treated |
 | --- | --- |
 | Increases Compared to Placebo |  |
 | <18 18 to 24 | 14 additional cases 5 additional cases |
@@ -107,7 +107,7 @@ Prescriptions for clomipramine should be written for the smallest quantity of ca
 Cardiovascular Effects
 
 Modest orthostatic decreases in blood pressure and modest tachycardia were each seen in approximately 20% of patients taking clomipramine in clinical trials; but patients were frequently asymptomatic.
-Among approximately 1400 patients treated with CMI in the premarketing experience who had ECGs, 1.5% developed abnormalities during treatment, compared with 3.1% of patients receiving active control drugs and 0.7% of patients receiving placebo.
+Among approximately 1,400 patients treated with CMI in the premarketing experience who had ECGs, 1.5% developed abnormalities during treatment, compared with 3.1% of patients receiving active control drugs and 0.7% of patients receiving placebo.
 The most common ECG changes were PVCs, ST-T wave changes, and intraventricular conduction abnormalities.
 These changes were rarely associated with significant clinical symptoms.
 Nevertheless, caution is necessary in treating patients with known cardiovascular disease, and gradual dose titration is recommended.
