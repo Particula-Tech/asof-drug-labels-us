@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA211196"
+  ],
+  "inn": "penicillamine",
+  "labeler": "Par Pharmaceutical, Inc.",
+  "package_ndcs": [
+    "0254-2000-01"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "penicillamine",
+      "name": "penicillamine"
+    }
+  ],
+  "setid": "72ee469c-f9ef-4bb4-922f-5d71276664a5",
+  "source": "dailymed"
+}
