@@ -1,4 +1,4 @@
-# CARCINOGENESIS, MUTAGENESIS, IMPAIRMENT OF FERTILITY
+# Carcinogenesis, Mutagenesis, Impairment of Fertility
 
 In a 2-year study in Sprague-Dawley rats, caffeine (as caffeine base) administered in drinking water was not carcinogenic in male rats at doses up to 102 mg/kg or in female rats at doses up to 170 mg/kg (approximately 2 and 4 times, respectively, the maximum recommended intravenous loading dose for infants on a mg/m2 basis).
 In an 18- month study in C57BL/6 mice, no evidence of tumorigenicity was seen at dietary doses up to 55 mg/kg (less than the maximum recommended intravenous loading dose for infants on a mg/m2 basis).

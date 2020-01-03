@@ -1,4 +1,4 @@
-# GENERAL
+# General
 
 Apnea of prematurity is a diagnosis of exclusion.
 Other causes of apnea (e.g., central nervous system disorders, primary lung disease, anemia, sepsis, metabolic disturbances, cardiovascular abnormalities, or obstructive apnea) should be ruled out or properly treated prior to initiation of caffeine citrate.

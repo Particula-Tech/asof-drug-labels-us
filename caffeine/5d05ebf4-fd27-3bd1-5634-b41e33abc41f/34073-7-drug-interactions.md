@@ -1,4 +1,4 @@
-# DRUG INTERACTIONS
+# Drug Interactions
 
 Cytochrome P450 1A2 (CYP1A2) is known to be the major enzyme involved in the metabolism of caffeine.
 Therefore, caffeine has the potential to interact with drugs that are substrates for CYP1A2, inhibit CYP1A2, or induce CYP1A2.
