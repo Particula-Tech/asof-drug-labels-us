@@ -267,7 +267,7 @@ Table 20: Efficacy of TAXOTERE in the Induction Treatment of Patients with Inope
 | Chi square test, not adjusted for multiple comparisonsp-value | 0.006 |  |
 | Best overall response (CR + PR) to study treatment [chemotherapy +/- radiotherapy] (%) (95% CI) | 72.3 (65.1–78.8) | 58.6 (51.0–65.8) |
 | p-value | 0.006 |  |
-| A Hazard ratio of less than 1 favors TAXOTERE+Cisplatin+Fluorouracil |  |  |
+| A Hazard ratio of less than 1 favors TAXOTERE+cisplatin+fluorouracil |  |  |
 
 Figure 8: TAX323 Progression-Free Survival K-M Curve
 
