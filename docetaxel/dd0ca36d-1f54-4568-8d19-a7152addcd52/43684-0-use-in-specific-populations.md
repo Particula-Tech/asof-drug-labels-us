@@ -132,7 +132,6 @@ Other reported clinical experience with this treatment regimen has not identifie
 
 ## 8.6 Hepatic Impairment
 
-Patients with bilirubin >ULN should not receive docetaxel.
-Also, patients with AST and/or ALT >1.5 × ULN concomitant with alkaline phosphatase >2.5 × ULN should not receive docetaxel [see Boxed Warning, Warnings and Precautions (5.2), Clinical Pharmacology (12.3)].
+Avoid Docetaxel in patients with bilirubin >ULN and patients with AST and/or ALT >1.5 × ULN concomitant with alkaline phosphatase >2.5 × ULN [see Boxed Warning, Warnings and Precautions (5.2), Clinical Pharmacology (12.3)].
 
 The alcohol content of Docetaxel Injection should be taken into account when given to patients with hepatic impairment [see Warnings and Precautions (5.13)].
