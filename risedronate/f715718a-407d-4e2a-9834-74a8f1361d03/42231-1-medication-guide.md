@@ -89,8 +89,8 @@ Before you start Risedronate Sodium, be sure to talk to your doctor if you:
 - Have low blood calcium
 - Plan to have dental surgery or teeth removed
 - Have kidney problems
-- Have been told you have trouble absorbing minerals in your stomach or intestines (malabsorption syndrome)
-- Are pregnant, or plan to become pregnant.
+- Have been told you have trouble absorbing minerals in your stomach or intestines (malabsorption syndrome)Are pregnant, plan to become pregnant, or suspect that you are pregnant.
+  If you become pregnant while taking Risedronate Sodium, stop taking it and contact your doctor.
   It is not known if Risedronate Sodium can harm your unborn baby.
 - Are breastfeeding or plan to breastfeed.
   It is not known if Risedronate Sodium passes into your milk and may harm your baby.
@@ -192,14 +192,12 @@ This Medication Guide has been approved by the U.S. Food and Drug Administration
 
 For all medical inquiries contact: Greenstone LLC Medical Communications 1-800-438-1985
 
-© 2017 Allergan.
+© 2019 Allergan.
 All rights reserved.
 
 Patented.
 See www.allergan.com/patents.
 
-Content Updated: May 2017
+Content Updated: November 2019
 
 96314-02
-
-73301SH11
