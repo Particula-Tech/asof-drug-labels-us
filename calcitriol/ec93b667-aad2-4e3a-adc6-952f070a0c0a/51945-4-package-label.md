@@ -2,11 +2,7 @@
 
 NDC 0093-7352-01
 
-Calcitriol
-
-Capsules
-
-0.25 mcg
+Calcitriol Capsules 0.25 mcg
 
 Rx only
 
@@ -18,11 +14,7 @@ TEVA
 
 NDC 0093-7353-01
 
-Calcitriol
-
-Capsules
-
-0.5 mcg
+Calcitriol Capsules 0.5 mcg
 
 Rx only
 
