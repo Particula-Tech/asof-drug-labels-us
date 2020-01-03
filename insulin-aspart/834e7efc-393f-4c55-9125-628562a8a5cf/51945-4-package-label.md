@@ -48,7 +48,7 @@ Dispense in this sealed carton.
 
 1. NDC 0169-3205-15 List 320515
 
-Fiasp® PenFill®
+FIASP® PenFill®
 
 (insulin aspart injection)
 

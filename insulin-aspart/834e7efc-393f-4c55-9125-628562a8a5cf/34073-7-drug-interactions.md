@@ -1,8 +1,8 @@
 # 7 DRUG INTERACTIONS
 
-Table 4 includes clinically significant drug interactions with FIASP.
+Table 5 includes clinically significant drug interactions with FIASP.
 
-Table 4.
+Table 5.
 Clinically Significant Drug Interactions with FIASP
 
 | Drugs That May Increase the Risk of Hypoglycemia |  |

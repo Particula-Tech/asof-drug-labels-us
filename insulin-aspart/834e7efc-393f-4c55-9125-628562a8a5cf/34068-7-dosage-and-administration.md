@@ -23,7 +23,7 @@ Subcutaneous Injection:
 Continuous Subcutaneous Infusion (Insulin Pump):
 
 - •Refer to the continuous subcutaneous insulin infusion pump user manual to see if FIASP can be used with the insulin pump.
-  Use FIASP in accordance with the insulin pump systems’ instructions for use.
+  Use FIASP in accordance with the insulin pump system’s instructions for use.
 - •Administer FIASP by continuous subcutaneous infusion in a region recommended in the instructions from the pump manufacturer.
   Rotate infusion sites within the same region to reduce the risk of lipodystrophy and localized cutaneous amyloidosis.
   Do not inject into areas of lipodystrophy or localized cutaneous amyloidosis [see Adverse Reactions (6.1)].

@@ -5,7 +5,7 @@
 FIASP (insulin aspart injection) 100 units of insulin aspart per mL (U-100) is available as a clear and colorless solution in the following presentations and packaging configurations:
 
 1. Carton of one 10 mL multiple-dose vials NDC 0169-3201-11
-2. Carton of five 3 mL single-patient use FIASP FlexTouch pens NDC 0169-3204-15
+2. Carton of five 3 mL single-patient-use FIASP FlexTouch pens NDC 0169-3204-15
 3. Carton of five 3 mL single-patient-use PenFill cartridges* NDC 0169-3205-15
 4. The FIASP FlexTouch pen dials in 1 unit increments.
 5. * FIASP PenFill cartridges are designed for use with Novo Nordisk insulin delivery devices.
@@ -16,20 +16,17 @@ Dispense in the original sealed carton with the enclosed Instructions for Use.
 
 Unused FIASP vials should be stored between 2° to 8°C (36° to 46°F) in a refrigerator, but not in or near a freezing compartment.
 FIASP should not be exposed to excessive heat or light and must never be frozen.
-Do not freeze FIASP and do not use FIASP if it has been frozen.
+Do not use FIASP if it has been frozen.
 FIASP should not be drawn into a syringe and stored for later use.
-Only use the product if it has a clear and almost colorless appearance.
 
 Keep the cap on the pen in order to protect from light.
-Keep unused vials and FIASP FlexTouch in the carton so they will stay clean and protected from light.
+Remove the needle from the FIASP FlexTouch pen after each injection and store without a needle attached.
+Use a new needle for each injection.
+Keep unused vials, FIASP FlexTouch and PenFill Cartridges in the carton so they will stay clean and protected from light.
 
-Always remove the needle after each injection and store FIASP FlexTouch without a needle attached.
-This prevents contamination and/or infection, or leakage of insulin, and will ensure accurate dosing.
-Always use a new needle for each injection to prevent contamination.
+The storage conditions for vials, FIASP FlexTouch pens, and 3 mL PenFill cartridges are summarized in Table 12:
 
-The storage conditions for vials, FIASP FlexTouch pens, and 3 mL PenFill cartridges are summarized in Table 10:
-
-Table 10.
+Table 12.
 Storage Conditions for Vial, FIASP FlexTouch, and PenFill Cartridges
 
 | FIASP presentation | Not in-use (unopened) |  | In-use (opened) |  |

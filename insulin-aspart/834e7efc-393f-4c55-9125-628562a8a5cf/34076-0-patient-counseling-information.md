@@ -43,9 +43,9 @@ Patients Using Continuous Subcutaneous Insulin Pumps
   Instruct patients on the risk of hypoglycemia from pump malfunction.
   If these problems cannot be promptly corrected, instruct patients to resume therapy with subcutaneous insulin injection and contact their physician [see Warnings and Precautions (5) and How Supplied/Storage and Handling (16.2)].
 
-Date of Issue: 11/2019
+Date of Issue: 12/2019
 
-Version: 5
+Version: 6
 
 Novo Nordisk®, FIASP®, NovoLog®, FlexTouch®, and PenFill® are registered trademarks of Novo Nordisk A/S.
 

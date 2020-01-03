@@ -9,8 +9,7 @@ You may give other people a serious infection, or get a serious infection from t
 
 What is FIASP?
 
-- •FIASP is a man-made insulin that is used to control high blood sugar in adults with diabetes mellitus.
-- •It is not known if FIASP is safe and effective in children.
+- •FIASP is a man-made insulin that is used to control high blood sugar in adults and children with diabetes mellitus.
 
 Who should not take FIASP?
 Do not take FIASP if you:
@@ -47,9 +46,7 @@ How should I take FIASP?
 - •Do not reuse or share needles with other people.
   You may give other people a serious infection or get a serious infection from them.
 - •FIASP can be injected under the skin(subcutaneously) of your stomach area, upper legs, or upper arms, or by continuous infusion under the skin (subcutaneously) through an insulin pump into an area of your body recommended in the instructions that come with your insulin pump.
-- •Change (rotate) your injection sites within the area you choose with each dose to reduce your risk of
-- getting lipodystrophy (pits in skin or thickened skin) and localized cutaneous amyloidosis (skin with lumps) at
-- the injection sites.
+- •Change (rotate) your injection sites within the area you choose with each dose to reduce your risk of getting pits in skin or thickened skin (lipodystrophy) and skin with lumps (localized cutaneous amyloidosis) at the injection sites.
 - oDo not use the exact same spot for each injection.
 - oDo not inject where the skin has pits, is thickened, or has lumps.
 - oDo not inject where the skin is tender, bruised, scaly or hard, or into scars or damaged skin.
@@ -82,10 +79,8 @@ FIASP may cause serious side effects that can lead to death, including:
   This can happen even if you have never had heart failure or heart problems before.
   If you already have heart failure it may get worse while you take TZDs with FIASP.
   Your healthcare provider should monitor you closely while you are taking TZDs with FIASP.
-  Tell your healthcare provider if you have any new or worse symptoms of heart failure including:
-  - oShortness of breath, swelling of your ankles or feet, sudden weight gain.
-
-Treatment with TZDs and FIASP may need to be adjusted or stopped by your healthcare provider if you have new or worse heart failure.
+  Tell your healthcare provider if you have any new or worse symptoms of heart failure including shortness of breath, swelling of your ankles or feet, sudden weight gain.
+  Treatment with TZDs and FIASP may need to be adjusted or stopped by your healthcare provider if you have new or worse heart failure.
 
 Your insulin dose may need to change because of:
 
@@ -125,7 +120,7 @@ For more information, go to www.novonordisk-us.com or call 1-800-727-6500.
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 
-Revised: 10/2019
+Revised: 12/2019
 
 Instructions for Use
 
@@ -413,7 +408,7 @@ www.FIASPflextouch.com
 
 Instructions for Use
 
-Fiasp® (fee’asp) PenFill® 3 mL cartridge 100 Units/mL (U-100)
+FIASP® (fee’asp) PenFill® 3 mL cartridge 100 Units/mL (U-100)
 
 (insulin aspart injection)
 

@@ -53,7 +53,11 @@ The developmental and health benefits of breastfeeding should be considered alon
 
 ## 8.4 Pediatric Use
 
-The safety and effectiveness of FIASP in pediatric patients have not been established.
+The safety and effectiveness of FIASP have been established to improve glycemic control in pediatric patients with diabetes mellitus.
+Use of FIASP for this indication is supported by evidence from an adequate and well-controlled study in 777 pediatric patients with type 1 diabetes mellitus aged 2 to 17 years, and from studies in adults with diabetes mellitus [see Clinical Pharmacology (12.3) and Clinical Studies (14)].
+
+Pediatric patients with type 1 diabetes treated with mealtime and postmeal FIASP reported a higher rate of blood glucose confirmed hypoglycemic episodes compared to patients treated with NovoLog; the imbalance was greater during the nocturnal period.
+Monitor blood glucose levels closely in pediatric patients [see Warnings and Precautions (5.3), Clinical Trial Experience (6.1)].
 
 ## 8.5 Geriatric Use
 
