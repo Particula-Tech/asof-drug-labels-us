@@ -16,10 +16,10 @@ Dispense in a well-closed container, as defined in the USP.
 
 Dispense with Medication Guide available at www.aurobindousa.com/product-medication-guides
 
-Distributed by:
+Distributed by: Aurobindo Pharma USA, Inc.
 
-Aurobindo Pharma USA, Inc.
+279 Princeton-Hightstown Road
 
-Dayton, NJ 08810
+East Windsor, NJ 08520
 
-Revised:07/2018
+Revised:09/2019
