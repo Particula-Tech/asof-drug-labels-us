@@ -24,10 +24,10 @@ Table 4: Summary of Mean (SD) Plasma Pharmacokinetic Parameters for Triamcinolon
 
 | Triamcinolone Acetonide PK Parameters1 | ZILRETTA (N=60) | Triamcinolone Acetonide (N=18) |
 | --- | --- | --- |
-| Cmax (pg/mL) | 1143.7 (611.06) | 21062.2 (18466.79) |
-| AUC0-24 hour (pg•h/mL) | 21219.2 (11325.62) | 297545.3 (222402.77) |
-| AUC0-inf (pg•h/mL) | 842149.2 (1062004.97)* | 1567565.0 (1246330.95) † |
-| tmax (h) | 7 (1, 1008) | 6 (2, 24) |
+| Cmax(pg/mL) | 1,143.7 (611.06) | 21,062.2 (18,466.79) |
+| AUC0-24 hour (pg•h/mL) | 21,219.2 (11,325.62) | 297,545.3 (222,402.77) |
+| AUC0-inf (pg•h/mL) | 842,149.2 (1,062,004.97)* | 1,567,565.0 (1,246,330.95) † |
+| tmax (h) | 7 (1, 1,008) | 6 (2, 24) |
 | t1/2 (h) | 633.9 (893.0)* | 146.9 (213.29) † |
 | * 33 patients contributed to the analyses of these parameters |  |  |
 | † 14 patients contributed to the analyses of these parameters |  |  |

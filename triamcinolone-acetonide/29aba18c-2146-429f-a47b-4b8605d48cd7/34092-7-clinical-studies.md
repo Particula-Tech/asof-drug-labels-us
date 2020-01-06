@@ -10,6 +10,4 @@ The primary efficacy endpoint comparing ZILRETTA to placebo was change from base
 ZILRETTA demonstrated a statistically significant reduction in pain intensity at the primary endpoint vs placebo.
 ZILRETTA also demonstrated a reduction in pain intensity scores each week from Weeks 1 through 12 (Figure 1).
 
-In a secondary exploratory analysis, statistical significance was not demonstrated between the ZILRETTA and the active control (immediate-release triamcinolone acetonide) treatment groups for the change from baseline at Week 12 in weekly mean ADP.
-
 Figure 1: Weekly Change from Baseline to Week 12 in Average Daily Pain

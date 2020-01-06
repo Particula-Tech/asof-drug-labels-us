@@ -4,4 +4,5 @@ ZILRETTA (triamcinolone acetonide extended-release injectable suspension) is ind
 
 Limitation of Use
 
-ZILRETTA is not intended for repeat administration [see Dosage and Administration (2.1)].
+The efficacy and safety of repeat administration of ZILRETTA have not been demonstrated.
+[see Dosage and Administration (2.1)].

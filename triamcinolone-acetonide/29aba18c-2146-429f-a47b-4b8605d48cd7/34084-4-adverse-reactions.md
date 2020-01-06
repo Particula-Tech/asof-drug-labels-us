@@ -14,6 +14,8 @@ The following serious adverse reactions are described elsewhere in the labeling.
 - Alternations in Bone Density [see Warnings and Precautions (5.11)]
 - Behavioral and Mood Disturbances [see Warnings and Precautions (5.12)]
 
+## 6.1 Clinical Trials
+
 Because clinical studies are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
 The data below reflect exposure to a single 32 mg intra-articular injection of ZILRETTA in clinical studies in patients with moderate to severe pain due to osteoarthritis of the knee.
@@ -38,7 +40,34 @@ Table 2: Most Commonly Reported Treatment-Emergent Injected Knee Adverse Reactio
 | Joint Swelling | 3% | 2% |
 | Contusions | 2% | 1% |
 
-Corticosteroid Adverse Reactions
+The safety of repeat administration of ZILRETTA was evaluated in a multicenter, open-label, single-arm study in patients with osteoarthritis pain of the knee.
+A total of 179 patients received a repeat injection on or after Week 12 (median 16.6 weeks) and were followed for 52 weeks from the initial injection.
+As assessed by adverse event rates for the periods of baseline to second dose and second dose to the comparable period after the second dose, there were higher rates of reported mild to moderate arthralgia after the second dose (16%) than after the first dose (6%).
+The data from this study are insufficient to fully characterize the safety of repeat administration of ZILRETTA.
+[See also Nonclinical Toxicology (13.2)].
+
+## 6.2 Post-marketing Experience
+
+The following adverse reactions, presented alphabetically by body system, have been identified during post-approval use of ZILRETTA.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+Endocrine: Increased blood glucose (in diabetic patients).
+
+General and administration site conditions: Pain including injection site pain or discomfort and leg pain.
+
+Immune system: Hypersensitivity reactions including pruritis, rash, angioedema, and anaphylaxis [see Contraindications (4), Warnings and Precautions (5.3)].
+
+Infections and Infestations: Septic arthritis [see Warning and Precautions (5.4)].
+
+Musculoskeletal: Arthralgia, joint swelling or effusion, muscle spasms.
+
+Nervous system: Headache.
+
+Reproductive system: Postmenopausal vaginal bleeding (similar to a menstrual period).
+
+Skin and Subcutaneous Tissue: Pruritis.
+
+## 6.3 Corticosteroid Adverse Reactions
 
 The following adverse reactions, presented alphabetically by body system, are from voluntary reports or clinical studies of corticosteroids.
 Because some of these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.

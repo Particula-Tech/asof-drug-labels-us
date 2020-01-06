@@ -5,7 +5,7 @@
 - ZILRETTA is administered as a single intra-articular extended-release injection of triamcinolone acetonide, to deliver 32 mg (5 mL).
 - ZILRETTA is for intra-articular use only and should not be administered by the following routes: epidural, intrathecal, intravenous, intraocular, intramuscular, intradermal, subcutaneous.
 - ZILRETTA is not suitable for use in small joints, such as the hand.
-- The efficacy and safety of repeat administration of ZILRETTA for the management of osteoarthritis pain of the knee have not been evaluated.
+- The efficacy and safety of repeat administration of ZILRETTA have not been demonstrated [see Adverse Reactions (6) and Nonclinical Toxicology (13.2)].
 - The efficacy and safety of ZILRETTA for management of osteoarthritis pain of shoulder and hip have not been evaluated.
 
 ## 2.2 Preparation and Administration of Intra-Articular Suspension
