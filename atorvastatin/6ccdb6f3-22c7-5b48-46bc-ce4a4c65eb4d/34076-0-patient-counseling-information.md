@@ -23,11 +23,3 @@ Advise females of reproductive potential of the risk to a fetus, to use effectiv
 ## 17.4 Lactation
 
 Advise women not to breastfeed during treatment with atorvastatin calcium [see Contraindications (4) and Use in Specific Populations (8.2)].
-
-Manufactured by
-
-Dr. Reddy’s Laboratories Limited
-
-Bachupally – 500 090 INDIA
-
-Revised: 0419

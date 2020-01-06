@@ -76,6 +76,7 @@ Effect of Co-administered Drugs on the Pharmacokinetics of Atorvastatin
 | #Clarithromycin 500 mg BIDb, 9 days | 80 mg QDa for 8 days | 4.54 | 5.38 |
 | #Darunavir 300 mg BIDb/ritonavir 100 mg BIDb, 9 days | 10 mg QDa for 4 days | 3.45 | 2.25 |
 | #Itraconazole 200 mg QDa, 4 days | 40 mg SDc | 3.32 | 1.20 |
+| #Letermovir 480 mg QDa, 10 days | 20 mg SDc | 3.29 | 2.17 |
 | #Fosamprenavir 700 mg BIDb/ritonavir 100 mg BIDb, 14 days | 10 mg QDa for 4 days | 2.53 | 2.84 |
 | #Fosamprenavir 1400 mg BIDb, 14 days | 10 mg QDa for 4 days | 2.30 | 4.04 |
 | #Nelfinavir 1250 mg BIDb, 14 days | 10 mg QDa for 28 days | 1.74 | 2.22 |
@@ -89,8 +90,8 @@ Effect of Co-administered Drugs on the Pharmacokinetics of Atorvastatin
 | Efavirenz 600 mg QDa, 14 days | 10 mg for 3 days | 0.59 | 1.01 |
 | #Rifampin 600 mg QDa, 7 days (co-administered) † | 40 mg SDc | 1.12 | 2.90 |
 | #Rifampin 600 mg QDa, 5 days (doses separated) † | 40 mg SDc | 0.20 | 0.60 |
-| #Gemfibrozil 600mg BIDb, 7 days | 40mg SDc | 1.35 | 1.00 |
-| #Fenofibrate 160mg QDa, 7 days | 40mg SDc | 1.03 | 1.02 |
+| #Gemfibrozil 600 mg BIDb, 7 days | 40 mg SDc | 1.35 | 1.00 |
+| #Fenofibrate 160 mg QDa, 7 days | 40 mg SDc | 1.03 | 1.02 |
 | Boceprevir 800 mg TIDd, 7 days | 40 mg SDc | 2.32 | 2.66 |
 
 & Represents ratio of treatments (co-administered drug plus atorvastatin vs. atorvastatin alone).
