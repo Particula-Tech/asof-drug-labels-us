@@ -138,7 +138,7 @@ In patients with severe hepatic impairment (Child-Pugh class C), fingolimod-phos
 The pharmacokinetics of fingolimod-phosphate was not evaluated in patients with mild or moderate hepatic impairment.
 The apparent elimination half-life of fingolimod is unchanged in subjects with mild hepatic impairment, but is prolonged by about 50% in patients with moderate or severe hepatic impairment.
 
-Patients with severe hepatic impairment (Child-Pugh class C) should be closely monitored, as the risk of adverse reactions is greater [see Warnings and Precautions (5.7)].
+Patients with severe hepatic impairment (Child-Pugh class C) should be closely monitored, as the risk of adverse reactions is greater [see Warnings and Precautions (5.5)].
 
 No dose adjustment is needed in patients with mild or moderate hepatic impairment (Child-Pugh class A and B).
 

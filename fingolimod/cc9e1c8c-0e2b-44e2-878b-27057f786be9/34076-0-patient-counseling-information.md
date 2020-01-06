@@ -45,10 +45,9 @@ Advise patients that they should contact their physician if they experience new 
 
 Fetal Risk
 
-Inform patients that, based on animal studies, GILENYA may cause fetal harm.
-Discuss with women of childbearing age whether they are pregnant, might be pregnant or are trying to become pregnant.
-Advise women of childbearing age of the need for effective contraception during GILENYA treatment and for 2 months after stopping GILENYA.
-Advise the patient that if she should nevertheless become pregnant, she should immediately inform her physician [see Warnings and Precautions (5.8)].
+- Advise pregnant women and females of reproductive potential of the potential risk to a fetus.
+  Advise females to inform their healthcare provider of a known or suspected pregnancy [see Warnings and Precautions (5.8) and Use in Specific Populations (8.1, 8.3)].
+- Advise female patients of reproductive potential to use effective contraception during treatment with GILENYA and for two months after the final dose [see Use in Specific Populations (8.3)].
 
 Severe Increase in Disability After Stopping GILENYA
 
@@ -60,20 +59,20 @@ Malignancies
 Advise patients that basal cell carcinoma and melanoma are associated with use of GILENYA.
 Advise patients that any suspicious skin lesions should be promptly evaluated.
 Advise patients to limit exposure to sunlight and ultraviolet light by wearing protective clothing and using a sunscreen with a high protection factor.
-Inform patients that lymphoma has also occurred in patients receiving GILENYA [see Warnings and Precautions (5.11)].
+Inform patients that lymphoma has also occurred in patients receiving GILENYA [see Warnings and Precautions (5.12)].
 
 Persistence of GILENYA Effects After Drug Discontinuation
 
-Advise patients that GILENYA remains in the blood and continues to have effects, including decreased blood lymphocyte counts, for up to 2 months following the last dose [see Warnings and Precautions (5.12)].
+Advise patients that GILENYA remains in the blood and continues to have effects, including decreased blood lymphocyte counts, for up to 2 months following the last dose [see Warnings and Precautions (5.13)].
 
 Hypersensitivity Reactions
 
-Advise patients that GILENYA may cause hypersensitivity reactions including rash, urticaria, and angioedema.
-Advise patients to contact their physician if they have any symptoms associated with hypersensitivity [see Warnings and Precautions (5.13)].
+Advise patients that GILENYA may cause hypersensitivity reactions, including rash, urticaria, and angioedema.
+Advise patients to contact their physician if they have any symptoms associated with hypersensitivity [see Warnings and Precautions (5.14)].
 
 Pregnancy and Pregnancy Registry
 
 Instruct patients that if they are pregnant or plan to become pregnant while taking GILENYA they should inform their physician.
 Encourage patients to enroll in the GILENYA Pregnancy Registry if they become pregnant while taking GILENYA [see Use in Specific Populations (8.1)].
 
-T2019-92
+T2019-143

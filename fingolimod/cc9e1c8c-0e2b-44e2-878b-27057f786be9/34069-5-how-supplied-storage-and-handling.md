@@ -20,5 +20,5 @@ Carton of 7 capsules containing 1 blister card of 7 capsules per blister card ND
 
 ## 16.2 Storage and Handling
 
-GILENYA capsules should be stored at 25ºC (77ºF); excursions permitted to 15ºC–30ºC (59ºF–86ºF).
+GILENYA capsules should be stored at 20ºC to 25ºC (68ºF-77ºF); excursions permitted to 15ºC to 30ºC (59ºF-86ºF).
 Protect from moisture.

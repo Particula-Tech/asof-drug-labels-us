@@ -5,20 +5,25 @@
 Pregnancy Exposure Registry
 
 There is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to GILENYA during pregnancy.
-Physicians are encouraged to enroll pregnant patients, or pregnant women may register themselves in the GILENYA pregnancy registry by calling 1-877-598-7237, sending an email to gpr@quintiles.com, or visiting www.gilenyapregnancyregistry.com.
+Physicians are encouraged to enroll pregnant patients, or pregnant women may register themselves in the GILENYA Pregnancy Registry by calling 1-877-598-7237, sending an email to gpr@quintiles.com, or visiting www.gilenyapregnancyregistry.com.
 
 Risk Summary
 
-There are no adequate data on the developmental risk associated with the use of GILENYA in pregnant women.
+Based on findings from animal studies, GILENYA may cause fetal harm when administered to a pregnant woman.
+Data from prospective reports to the GILENYA Pregnancy Registry (GPR) are currently not sufficient to allow for an adequate assessment of the drug-associated risk for birth defects and miscarriage in humans.
+
 In oral studies conducted in rats and rabbits, fingolimod demonstrated developmental toxicity, including an increase in malformations (rats) and embryolethality, when given to pregnant animals.
 In rats, the highest no-effect dose was less than the recommended human dose of 0.5 mg/day on a body surface area (mg/m2) basis.
 The most common fetal visceral malformations in rats were persistent truncus arteriosus and ventricular septal defect.
-The receptor affected by fingolimod (sphingosine 1-phosphate receptor) is known to be involved in vascular formation during embryogenesis.
+The receptor affected by fingolimod (sphingosine 1-phosphate receptor) is known to be involved in vascular formation during embryogenesis (see Data).
+Advise pregnant women of the potential risk to a fetus.
 
 In the US general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2%-4% and 15%-20%, respectively.
 The background risk of major birth defects and miscarriage for the indicated population is unknown.
 
 Clinical Considerations
+
+In females planning to become pregnant, GILENYA should be stopped 2 months before planned conception.
 
 The possibility of severe increase in disability should be considered in women who discontinue or are considering discontinuation of GILENYA because of pregnancy or planned pregnancy.
 In many of the cases in which increase in disability was reported after stopping GILENYA, patients had stopped GILENYA because of pregnancy or planned pregnancy [see Warnings and Precautions (5.9)].
@@ -27,8 +32,8 @@ Data
 
 Animal Data
 
-When fingolimod was orally administered to pregnant rats during the period of organogenesis (0, 0.03, 0.1, and 0.3 mg/kg/day or 0, 1, 3, and 10 mg/kg/day), increased incidences of fetal malformations and embryo-fetal deaths were observed at all but the lowest dose tested (0.03 mg/kg/day), which is less than the recommended human dose (RHD) on a mg/m2 basis.
-Oral administration to pregnant rabbits during organogenesis (0, 0.5, 1.5, and 5 mg/kg/day) resulted in increased incidences of embryo-fetal mortality and fetal growth retardation at the mid and high doses.
+When fingolimod was orally administered to pregnant rats during the period of organogenesis (0, 0.03, 0.1, and 0.3 mg/kg/day or 0, 1, 3, and 10 mg/kg/day), increased incidences of fetal malformations and embryofetal deaths were observed at all but the lowest dose tested (0.03 mg/kg/day), which is less than the recommended human dose (RHD) on a mg/m2 basis.
+Oral administration to pregnant rabbits during organogenesis (0, 0.5, 1.5, and 5 mg/kg/day) resulted in increased incidences of embryofetal mortality and fetal growth retardation at the mid and high doses.
 The no-effect dose for these effects in rabbits (0.5 mg/kg/day) is approximately 20 times the RHD on a mg/m2 basis.
 
 When fingolimod was orally administered to female rats during pregnancy and lactation (0, 0.05, 0.15, and 0.5 mg/kg/day), pup survival was decreased at all doses and a neurobehavioral (learning) deficit was seen in offspring at the high dose.
@@ -40,14 +45,19 @@ Risk Summary
 
 There are no data on the presence of fingolimod in human milk, the effects on the breastfed infant, or the effects of the drug on milk production.
 Fingolimod is excreted in the milk of treated rats.
+When a drug is present in animal milk, it is likely that the drug will be present in human milk.
 The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for GILENYA and any potential adverse effects on the breastfed infant from GILENYA or from the underlying maternal condition.
 
 ## 8.3 Females and Males of Reproductive Potential
 
+Pregnancy Testing
+
+The pregnancy status of females of reproductive potential should be verified prior to starting treatment with GILENYA [see Use in Specific Populations (8.1)].
+
 Contraception
 
-Before initiation of GILENYA treatment, women of childbearing potential should be counseled on the potential for a serious risk to the fetus and the need for effective contraception during treatment with GILENYA [see Use in Specific Populations (8.1)].
-Since it takes approximately 2 months to eliminate the compound from the body after stopping treatment, the potential risk to the fetus may persist and women should use effective contraception during this period [see Warnings and Precautions (5.8, 5.12)].
+Before initiation of GILENYA treatment, females of reproductive potential should be counseled on the potential for a serious risk to the fetus and the need for effective contraception during treatment with GILENYA [see Warnings and Precautions (5.8) and Use in Specific Populations (8.1)].
+Since it takes approximately 2 months to eliminate the compound from the body after stopping treatment, the potential risk to the fetus may persist and women should use effective contraception during this period [see Warnings and Precautions (5.8, 5.13)].
 
 ## 8.4 Pediatric Use
 

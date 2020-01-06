@@ -50,13 +50,13 @@ First 6-Hour Monitoring
 Administer the first dose of GILENYA in a setting in which resources to appropriately manage symptomatic bradycardia are available.
 Monitor all patients for 6 hours after the first dose for signs and symptoms of bradycardia with hourly pulse and blood pressure measurement.
 
-Additional Monitoring after 6-Hour Monitoring
+Additional Monitoring After 6-Hour Monitoring
 
 Continue monitoring until the abnormality resolves if any of the following is present (even in the absence of symptoms) after 6 hours:
 
-- The heart rate 6 hours postdose is less than 45 bpm in adults, less than 55 bpm in pediatric patients 12 years of age and older, or less than 60 bpm in pediatric patients 10 or 11 years of age
-- The heart rate 6 hours postdose is at the lowest value postdose suggesting that the maximum pharmacodynamic effect on the heart may not have occurred
-- The ECG 6 hours postdose shows new onset second degree or higher AV block.
+- the heart rate 6 hours postdose is less than 45 bpm in adults, less than 55 bpm in pediatric patients 12 years of age and older, or less than 60 bpm in pediatric patients 10 or 11 years of age;
+- the heart rate 6 hours postdose is at the lowest value postdose suggesting that the maximum pharmacodynamic effect on the heart may not have occurred;
+- the ECG 6 hours postdose shows new onset second degree or higher AV block.
 
 If postdose symptomatic bradycardia occurs, initiate appropriate management, begin continuous ECG monitoring, and continue monitoring until the symptoms have resolved if no pharmacological treatment is required.
 If pharmacological treatment is required, continue monitoring overnight and repeat 6-hour monitoring after the second dose.
@@ -66,13 +66,13 @@ Overnight Monitoring
 Continuous overnight ECG monitoring in a medical facility should be instituted:
 
 - in patients that require pharmacologic intervention for symptomatic bradycardia.
-  In these patients, the first-dose monitoring strategy should be repeated after the second dose of GILENYA
-- in patients with some preexisting heart and cerebrovascular conditions [see Warnings and Precautions (5.1)]
-- in patients with a prolonged QTc interval before dosing or during 6-hour observation, or at additional risk for QT prolongation, or on concurrent therapy with QT prolonging drugs with a known risk of torsades de pointes [see Warnings and Precautions (5.1), Drug Interactions (7.1)]
+  In these patients, the first-dose monitoring strategy should be repeated after the second dose of GILENYA;
+- in patients with some preexisting heart and cerebrovascular conditions [see Warnings and Precautions (5.1)];
+- in patients with a prolonged QTc interval before dosing or during 6-hour observation, or at additional risk for QT prolongation, or on concurrent therapy with QT prolonging drugs with a known risk of torsades de pointes [see Warnings and Precautions (5.1), Drug Interactions (7.1)];
 - in patients receiving concurrent therapy with drugs that slow heart rate or AV conduction [see Drug Interactions (7.5)].
 
 ## 2.5 Monitoring After Reinitiation of Therapy Following Discontinuation
 
 When restarting GILENYA after discontinuation for more than 14 days after the first month of treatment, perform first-dose monitoring, because effects on heart rate and AV conduction may recur on reintroduction of GILENYA treatment [see Dosage and Administration (2.4)].
 The same precautions (first-dose monitoring) as for initial dosing are applicable.
-Within the first 2 weeks of treatment, first-dose procedures are recommended after interruption of 1 day or more; during weeks 3 and 4 of treatment, first-dose procedures are recommended after treatment interruption of more than 7 days.
+Within the first 2 weeks of treatment, first-dose procedures are recommended after interruption of 1 day or more; during Weeks 3 and 4 of treatment, first-dose procedures are recommended after treatment interruption of more than 7 days.

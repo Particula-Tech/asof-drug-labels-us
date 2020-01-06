@@ -11,10 +11,11 @@ The following serious adverse reactions are described elsewhere in labeling:
 - Respiratory Effects [see Warnings and Precautions (5.7)]
 - Fetal Risk [see Warnings and Precautions (5.8)]
 - Severe Increase in Disability After Stopping GILENYA [see Warnings and Precautions (5.9)]
-- Increased Blood Pressure [see Warnings and Precautions (5.10)]
-- Malignancies [see Warnings and Precautions (5.11)]
-- Immune System Effects Following GILENYA Discontinuation [see Warnings and Precautions (5.12)]
-- Hypersensitivity Reactions [see Warnings and Precautions (5.13)]
+- Tumefactive Multiple Sclerosis [see Warnings and Precautions (5.10)]
+- Increased Blood Pressure [see Warnings and Precautions (5.11)]
+- Malignancies [see Warnings and Precautions (5.12)]
+- Immune System Effects Following GILENYA Discontinuation [see Warnings and Precautions (5.13)]
+- Hypersensitivity Reactions [see Warnings and Precautions (5.14)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -33,7 +34,7 @@ Adverse events that led to treatment discontinuation and occurred in more than 1
 
 Table 1 lists adverse reactions in clinical studies in adults that occurred in ≥ 1% of GILENYA-treated patients and ≥ 1% higher rate than for placebo.
 
-Table 1: Adverse Reactions Reported in Adult Studies 1 and 3 (Occurring in ≥ 1% of Patients and Reported for GILENYA 0.5 mg at ≥ 1% Higher Rate than for Placebo)
+Table 1: Adverse Reactions Reported in Adult Studies 1 and 3 (Occurring in ≥ 1% of Patients and Reported for GILENYA 0.5 mg at ≥ 1% Higher Rate Than for Placebo)
 
 | Adverse Drug Reactions | GILENYA 0.5 mg N = 783 % | Placebo N = 773 % |
 | --- | --- | --- |
@@ -102,14 +103,16 @@ In the pediatric study, cases of seizures were reported in 5.6% of GILENYA-treat
 The following adverse reactions have been identified during postapproval use of GILENYA.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
+Blood and Lymphatic System Disorders: Hemolytic anemia and thrombocytopenia
+
 Hepatobiliary Disorders: Liver injury [see Warnings and Precautions (5.5)]
 
-Infections: infections including cryptococcal infections [see Warnings and Precautions (5.2)], progressive multifocal leukoencephalopathy [see Warnings and Precautions (5.3)]
+Infections: infections, including cryptococcal infections [see Warnings and Precautions (5.2)], human papilloma virus (HPV) infection, including papilloma, dysplasia, warts and HPV-related cancer [see Warnings and Precautions (5.2)], progressive multifocal leukoencephalopathy [see Warnings and Precautions (5.3)]
 
 Musculoskeletal and connective tissue disorders: arthralgia, myalgia
 
-Nervous system disorders: posterior reversible encephalopathy syndrome [see Warnings and Precautions (5.5)], seizures, including status epilepticus [see Adverse Reactions (6.1)]
+Nervous system disorders: posterior reversible encephalopathy syndrome [see Warnings and Precautions (5.6)], seizures, including status epilepticus [see Adverse Reactions (6.1)]
 
-Neoplasms, benign, malignant, and unspecified (including cysts and polyps): melanoma, Merkel cell carcinoma, and cutaneous T cell lymphoma (including mycosis fungoides) [see Warnings and Precautions (5.11)]
+Neoplasms, benign, malignant, and unspecified (including cysts and polyps): melanoma, Merkel cell carcinoma, and cutaneous T-cell lymphoma (including mycosis fungoides) [see Warnings and Precautions (5.12)]
 
-Skin and subcutaneous tissue disorders: hypersensitivity [see Warnings and Precautions (5.13)]
+Skin and subcutaneous tissue disorders: hypersensitivity [see Warnings and Precautions (5.14)]

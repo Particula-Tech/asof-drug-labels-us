@@ -94,6 +94,12 @@ Varicella Zoster Virus Antibody Testing/Vaccination
 Patients without a healthcare professional confirmed history of chickenpox or without documentation of a full course of vaccination against VZV should be tested for antibodies to VZV before initiating GILENYA.
 VZV vaccination of antibody-negative patients is recommended prior to commencing treatment with GILENYA, following which initiation of treatment with GILENYA should be postponed for 1 month to allow the full effect of vaccination to occur [see Drug Interactions (7.3), Use in Specific Populations (8.4)].
 
+Human Papilloma Virus (HPV) Infection
+
+Human papilloma virus (HPV) infections, including papilloma, dysplasia, warts, and HPV-related cancer, have been reported in patients treated with GILENYA in the postmarketing setting.
+Vaccination against HPV should be considered prior to treatment initiation with GILENYA, taking into account vaccination recommendations.
+Cancer screening, including Papanicolaou (Pap) test, is recommended as per standard of care for patients using an immunosuppressive therapy.
+
 ## 5.3 Progressive Multifocal Leukoencephalopathy
 
 Cases of progressive multifocal leukoencephalopathy (PML) have occurred in patients with MS who received GILENYA in the postmarketing setting.
@@ -115,7 +121,7 @@ It is not known whether these differences are due to early detection and discont
 ## 5.4 Macular Edema
 
 Fingolimod increases the risk of macular edema.
-Perform an examination of the fundus including the macula in all patients before starting treatment, again 3 to 4 months after starting treatment, and again at any time after a patient reports visual disturbances while on GILENYA therapy.
+Perform an examination of the fundus, including the macula in all patients before starting treatment, again 3 to 4 months after starting treatment, and again at any time after a patient reports visual disturbances while on GILENYA therapy.
 
 A dose-dependent increase in the risk of macular edema occurred in the GILENYA clinical development program.
 
@@ -138,15 +144,15 @@ Patients with a history of uveitis and patients with diabetes mellitus are at in
 The incidence of macular edema is also increased in MS patients with a history of uveitis.
 In the combined clinical trial experience in adult patients with all doses of fingolimod, the rate of macular edema was approximately 20% in MS patients with a history of uveitis versus 0.6% in those without a history of uveitis.
 GILENYA has not been tested in MS patients with diabetes mellitus.
-In addition to the examination of the fundus including the macula prior to treatment and at 3 to 4 months after starting treatment, MS patients with diabetes mellitus or a history of uveitis should have regular follow-up examinations.
+In addition to the examination of the fundus, including the macula prior to treatment and at 3 to 4 months after starting treatment, MS patients with diabetes mellitus or a history of uveitis should have regular follow-up examinations.
 
 ## 5.5 Liver Injury
 
-Clinically significant liver injury has occurred in patients treated with Gilenya in the postmarketing setting.
+Clinically significant liver injury has occurred in patients treated with GILENYA in the postmarketing setting.
 Signs of liver injury, including markedly elevated serum hepatic enzymes and elevated total bilirubin, have occurred as early as ten days after the first dose and have also been reported after prolonged use.
 Cases of acute liver failure requiring liver transplant have been reported.
 
-In 2-year placebo-controlled clinical trials in adult patients, elevation of liver enzymes (ALT, AST and GGT) to 3-fold the upper limit of normal (ULN) or greater occurred in 14% of patients treated with GILENYA 0.5 mg and 3% of patients on placebo.
+In 2-year placebo-controlled clinical trials in adult patients, elevation of liver enzymes (ALT, AST, and GGT) to 3-fold the upper limit of normal (ULN) or greater occurred in 14% of patients treated with GILENYA 0.5 mg and 3% of patients on placebo.
 Elevations 5-fold the ULN or greater occurred in 4.5% of patients on GILENYA and 1% of patients on placebo.
 The majority of elevations occurred within 6 to 9 months.
 In clinical trials, GILENYA was discontinued if the elevation exceeded 5 times the ULN.
@@ -186,8 +192,10 @@ Spirometric evaluation of respiratory function and evaluation of DLCO should be 
 
 ## 5.8 Fetal Risk
 
-Based on animal studies, GILENYA may cause fetal harm.
-Because it takes approximately 2 months to eliminate GILENYA from the body, women of childbearing potential should use effective contraception to avoid pregnancy during and for 2 months after stopping GILENYA treatment.
+Based on findings from animal studies, GILENYA may cause fetal harm when administered to a pregnant woman.
+In animal reproduction studies conducted in rats and rabbits, developmental toxicity was observed with administration of fingolimod at doses less than the recommended human dose.
+Advise pregnant women and females of reproductive potential of the potential risk to a fetus.
+Because it takes approximately 2 months to eliminate GILENYA from the body, advise females of reproductive potential to use effective contraception to avoid pregnancy during and for 2 months after stopping GILENYA treatment [see Use in Specific Populations (8.1, 8.3)].
 
 ## 5.9 Severe Increase in Disability After Stopping GILENYA
 
@@ -197,19 +205,26 @@ The increase in disability generally occurred within 12 weeks after stopping GIL
 
 Monitor patients for development of severe increase in disability following discontinuation of GILENYA and begin appropriate treatment as needed.
 
-## 5.10 Increased Blood Pressure
+## 5.10 Tumefactive Multiple Sclerosis
+
+MS relapses with tumefactive demyelinating lesions on imaging have been observed during GILENYA therapy and after GILENYA discontinuation in the postmarketing setting.
+Most reported cases of tumefactive MS in patients receiving Gilenya have occurred within the first 9 months after GILENYA initiation, but tumefactive MS may occur at any point during treatment.
+Cases of tumefactive MS have also been reported within the first 4 months after Gilenya discontinuation.
+Tumefactive MS should be considered when a severe MS relapse occurs during GILENYA treatment, especially during initiation, or after discontinuation of GILENYA, prompting imaging evaluation and initiation of appropriate treatment.
+
+## 5.11 Increased Blood Pressure
 
 In adult MS controlled clinical trials, patients treated with GILENYA 0.5 mg had an average increase over placebo of approximately 3 mmHg in systolic pressure, and approximately 2 mmHg in diastolic pressure, first detected after approximately 1 month of treatment initiation, and persisting with continued treatment.
 Hypertension was reported as an adverse reaction in 8% of patients on GILENYA 0.5 mg and in 4% of patients on placebo.
 Blood pressure should be monitored during treatment with GILENYA.
 
-## 5.11 Malignancies
+## 5.12 Malignancies
 
 Cutaneous Malignancies
 
 The risk of basal cell carcinoma (BCC) and melanoma is increased in patients treated with GILENYA.
 In two-year placebo-controlled trials in adult patients, the incidence of BCC was 2% in patients on GILENYA 0.5 mg and 1% in patients on placebo [see Adverse Reactions (6.1)].
-Melanoma and Merkel cell carcinoma have been reported with GILENYA in the postmarketing setting.
+Melanoma, squamous cell carcinoma and Merkel cell carcinoma have been reported with GILENYA in the postmarketing setting.
 Periodic skin examination is recommended for all patients, particularly those with risk factors for skin cancer.
 Providers and patients are advised to monitor for suspicious skin lesions.
 If a suspicious skin lesion is observed, it should be promptly evaluated.
@@ -221,13 +236,13 @@ Cases of lymphoma, including both T-cell and B-cell types and CNS lymphoma, have
 The reporting rate of non-Hodgkin lymphoma with GILENYA is greater than that expected in the general population adjusted by age, gender, and region.
 Cutaneous T-cell lymphoma (including mycosis fungoides) has also been reported with GILENYA in the postmarketing setting.
 
-## 5.12 Immune System Effects Following GILENYA Discontinuation
+## 5.13 Immune System Effects Following GILENYA Discontinuation
 
 Fingolimod remains in the blood and has pharmacodynamic effects, including decreased lymphocyte counts, for up to 2 months following the last dose of GILENYA.
 Lymphocyte counts generally return to the normal range within 1–2 months of stopping therapy [see Clinical Pharmacology (12.2)].
 Because of the continuing pharmacodynamic effects of fingolimod, initiating other drugs during this period warrants the same considerations needed for concomitant administration (e.g., risk of additive immunosuppressant effects) [see Drug Interactions (7.4)].
 
-## 5.13 Hypersensitivity Reactions
+## 5.14 Hypersensitivity Reactions
 
 Hypersensitivity reactions, including rash, urticaria, and angioedema have been reported with GILENYA in the postmarketing setting.
 GILENYA is contraindicated in patients with history of hypersensitivity to fingolimod or any of its excipients [see Contraindications (4)].
