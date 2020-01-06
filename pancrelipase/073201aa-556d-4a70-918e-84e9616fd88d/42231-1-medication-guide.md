@@ -125,7 +125,7 @@ You may also report side effects to AbbVie Inc. at 1-800-633-9110.
 
 How should I store CREON?
 
-- Store CREON at room temperature below 77°F (25°C).
+- Store CREON at room temperature 59°F to 77°F (15°C to 25°C).
   Avoid heat.
 - You may store CREON at a temperature between 77°F to 104°F (25°C to 40°C) for up to 30 days.
   Throw away any CREON stored at these temperatures for more than 30 days.
@@ -172,6 +172,6 @@ AbbVie Inc.
 
 North Chicago, IL 60064, U.S.A.
 
-© 2015 AbbVie Inc.
+© 2009-2019 AbbVie Inc.
 
-03-B115 March, 2015
+03-B979 November, 2019

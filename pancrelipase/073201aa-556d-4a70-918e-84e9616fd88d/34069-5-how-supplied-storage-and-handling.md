@@ -46,7 +46,7 @@ Each CREON capsule is available as a two-piece gelatin capsule with blue opaque 
 
 Storage and Handling
 
-CREON must be stored at room temperature up to 25°C (77°F) and protected from moisture.
+CREON must be stored at room temperature 15°C to 25°C (59°F to 77°F) and protected from moisture.
 Temperature excursions are permitted between 25°C to 40°C (77°F and 104°F) for up to 30 days.
 Product should be discarded if exposed to higher temperature and moisture conditions higher than 70%.
 After opening, keep bottle tightly closed between uses to protect from moisture.
