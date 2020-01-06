@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA211908"
+  ],
+  "inn": "ziprasidone",
+  "labeler": "Gland Pharma Limited",
+  "package_ndcs": [
+    "68083-340-01"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION",
+      "generic": "ziprasidone mesylate",
+      "name": "ziprasidone mesylate"
+    }
+  ],
+  "setid": "77a10f48-e300-465f-81b5-54be38daa4b3",
+  "source": "dailymed"
+}
