@@ -9,7 +9,7 @@ The clinical relevance of this finding is unknown.
 
 ## 12.2 Pharmacodynamics
 
-Studies in adult healthy subjects showed that levocetirizine at doses of 2.5 mg and 5 mg inhibited the skin wheal and flare caused by the intradermal injection of histamine.
+Studies in healthy adult subjects showed that levocetirizine at doses of 2.5 mg and 5 mg inhibited the skin wheal and flare caused by the intradermal injection of histamine.
 In contrast, dextrocetirizine exhibited no clear change in the inhibition of the wheal and flare reaction.
 Levocetirizine at a dose of 5 mg inhibited the wheal and flare caused by intradermal injection of histamine in 14 pediatric subjects (aged 6 to 11 years) and the activity persisted for at least 24 hours.
 The clinical relevance of histamine wheal skin testing is unknown.
@@ -21,7 +21,7 @@ Levocetirizine is not expected to have QT/QTc effects because of the results of 
 
 ## 12.3 Pharmacokinetics
 
-Levocetirizine exhibited linear pharmacokinetics over the therapeutic dose range in adult healthy subjects.
+Levocetirizine exhibited linear pharmacokinetics over the therapeutic dose range in healthy adult subjects.
 
 Absorption
 
@@ -47,17 +47,16 @@ Dealkylation pathways are primarily mediated by CYP3A4 while aromatic oxidation 
 
 Elimination
 
-The plasma half-life in adult healthy subjects was about 8 to 9 hours after administration of oral tablets and oral solution, and the mean oral total body clearance for levocetirizine was approximately 0.63 mL/kg/min.
+The plasma half-life in healthy adult subjects was about 8 to 9 hours after administration of oral tablets and oral solution, and the mean oral total body clearance for levocetirizine was approximately 0.63 mL/kg/min.
 The major route of excretion of levocetirizine and its metabolites is via urine, accounting for a mean of 85.4% of the dose.
 Excretion via feces accounts for only 12.9% of the dose.
 Levocetirizine is excreted both by glomerular filtration and active tubular secretion.
 Renal clearance of levocetirizine correlates with that of creatinine clearance.
-In patients with renal impairment the clearance of levocetirizine is reduced [see Dosage and Administration (2.3)].
+In patients with renal impairment the clearance of levocetirizine is reduced [see Dosage and Administration (2.2)].
 
 Drug Interaction Studies
 
 In vitro data on metabolite interaction indicate that levocetirizine is unlikely to produce, or be subject to metabolic interactions.
-
 Levocetirizine at concentrations well above Cmax level achieved within the therapeutic dose ranges is not an inhibitor of CYP isoenzymes 1A2, 2C9, 2C19, 2A1, 2D6, 2E1, and 3A4, and is not an inducer of UGT1A or CYP isoenzymes 1A2, 2C9 and 3A4.
 
 No formal in vivo drug interaction studies have been performed with levocetirizine.
@@ -103,7 +102,7 @@ In end-stage renal disease patients (CLCR < 10 mL/min) levocetirizine is contrai
 The amount of levocetirizine removed during a standard 4-hour hemodialysis procedure was <10%.
 
 The dosage of levocetirizine dihydrochloride should be reduced in patients with mild renal impairment.
-Both the dosage and frequency of administration should be reduced in patients with moderate or severe renal impairment [see Dosage and Administration (2.4)].
+Both the dosage and frequency of administration should be reduced in patients with moderate or severe renal impairment [see Dosage and Administration (2.2)].
 
 Hepatic Impairment
 

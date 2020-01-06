@@ -60,7 +60,7 @@ The clinical efficacy of levocetirizine dihydrochloride in pediatric patients un
 
 Adult Patients 18 Years of Age and Older
 
-The efficacy of levocetirizine dihydrochloride for the treatment of the uncomplicated skin manifestations of chronic idiopathic urticarial was evaluated in two multi-center, randomized, placebo-controlled, double-blind clinical trials of 4 weeks duration in adult patients 18 to 85 years of age with chronic idiopathic urticaria.
+The efficacy of levocetirizine dihydrochloride for the treatment of the uncomplicated skin manifestations of chronic idiopathic urticaria was evaluated in two multi-center, randomized, placebo-controlled, double-blind clinical trials of 4 weeks duration in adult patients 18 to 85 years of age with chronic idiopathic urticaria.
 The two trials included one 4-week dose-ranging trial and one 4-week single-dose level efficacy trial.
 These trials included 423 patients (139 males and 284 females).
 Most patients (>90%) were Caucasian and the mean age was 41.
