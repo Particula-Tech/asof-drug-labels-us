@@ -10,7 +10,7 @@ The recommended loading dose and maintenance doses of CAFCIT follow.
 | Loading Dose | 1 mL/kg | 20 mg/kg | Intravenous* (over 30 minutes) | One time |
 | Maintenance Dose | 0.25 mL/kg | 5 mg/kg | Intravenous* (over 10 minutes) or Orally | Every 24 hours** |
 
-*using a syringe infusion pump **beginning 24 hours after the loading dose
+*Using a syringe infusion pump **Beginning 24 hours after the loading dose
 
 NOTE THAT THE DOSE OF CAFFEINE BASE IS ONE-HALF THE DOSE WHEN EXPRESSED AS CAFFEINE CITRATE (e.g., 20 mg of caffeine citrate is equivalent to 10 mg of caffeine base).
 

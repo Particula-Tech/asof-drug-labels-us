@@ -1,10 +1,13 @@
 # WARNINGS
 
+## Necrotizing Enterocolitis
+
 During the double-blind, placebo-controlled clinical trial, 6 cases of necrotizing enterocolitis developed among the 85 infants studied (caffeine=46, placebo=39), with 3 cases resulting in death.
 Five of the six patients with necrotizing enterocolitis were randomized to or had been exposed to CAFCIT (caffeine citrate).
 
 Reports in the published literature have raised a question regarding the possible association between the use of methylxanthines and development of necrotizing enterocolitis, although a causal relationship between methylxanthine use and necrotizing enterocolitis has not been established.
-Therefore, as with all preterm infants, patients being treated with CAFCIT should be carefully monitored for the development of necrotizing enterocolitis.
+In a published randomized, placebo-controlled, clinical trial that studied the use of caffeine citrate in apnea of prematurity in approximately 2000 patients, necrotizing enterocolitis was not more common in caffeine treated patients compared to placebo.
+As with all preterm infants, patients being treated with CAFCIT should be carefully monitored for the development of necrotizing enterocolitis.
 
 # PRECAUTIONS
 
@@ -17,7 +20,7 @@ Caffeine is a central nervous system stimulant and in cases of caffeine overdose
 CAFCIT should be used with caution in infants with seizure disorders.
 
 The duration of treatment of apnea of prematurity in the placebo-controlled trial was limited to 10 to 12 days.
-The safety and efficacy of CAFCIT for longer periods of treatment have not been established.
+The efficacy of CAFCIT for longer periods of treatment has not been established.
 Safety and efficacy of CAFCIT for use in the prophylactic treatment of sudden infant death syndrome (SIDS) or prior to extubation in mechanically ventilated infants have also not been established.
 
 ## Cardiovascular

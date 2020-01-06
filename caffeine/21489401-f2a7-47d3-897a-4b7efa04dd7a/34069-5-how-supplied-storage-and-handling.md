@@ -17,18 +17,16 @@ Preservative free.
 For single dose only.
 Discard unused portion.
 
-To report SUSPECTED ADVERSE REACTIONS, contact West-Ward Pharmaceutical Corp. at 1-877-845-0689, or the FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
+To report SUSPECTED ADVERSE REACTIONS, contact Hikma Pharmaceuticals USA Inc. at 1-877-845-0689, or the FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
 
 For Product Inquiry call 1-877-845-0689.
 
 Manufactured by:
 
-WEST-WARD
-
-PHARMACEUTICALS
+Hikma Pharmaceuticals USA Inc.
 
 Eatontown, NJ 07724 USA
 
-Revised February 2015
+Revised December 2019
 
-462-708-00
+462-708-01

@@ -44,3 +44,9 @@ Two were randomized to caffeine, and one placebo patient was “rescued” with 
 
 Adverse events described in the published literature include: central nervous system stimulation (i.e., irritability, restlessness, jitteriness), cardiovascular effects (i.e., tachycardia, increased left ventricular output, and increased stroke volume), gastrointestinal effects (i.e., increased gastric aspirate, gastrointestinal intolerance), alterations in serum glucose (i.e., hypoglycemia and hyperglycemia), and renal effects (i.e., increased urine flow rate, increased creatinine clearance, and increased sodium and calcium excretion).
 Published long-term follow-up studies have not shown caffeine to adversely affect neurological development or growth parameters.
+
+A published randomized, placebo-controlled, clinical trial in premature infants with birthweights of 500-1250 grams studied the safety of caffeine citrate in apnea of prematurity (NCT00182312).
+This trial randomized approximately 2000 premature infants with a mean gestational age of 27 weeks at birth.
+The median duration of caffeine therapy was 37 days.
+Prior to discharge home, death, ultrasonographic signs of brain injury, and necrotizing enterocolitis were not more common in the caffeine citrate group compared to the placebo.
+At follow up at both 18 months and 5 years corrected age, death was not more common in the caffeine citrate treated group compared to placebo, nor did caffeine citrate use adversely affect neurodevelopmental outcomes.
