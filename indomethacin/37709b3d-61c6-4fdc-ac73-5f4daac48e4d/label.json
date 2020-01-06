@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA204768"
+  ],
+  "inn": "indomethacin",
+  "labeler": "Basiem",
+  "package_ndcs": [
+    "69597-350-30"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "indomethacin",
+      "name": "Tivorbex"
+    }
+  ],
+  "setid": "37709b3d-61c6-4fdc-ac73-5f4daac48e4d",
+  "source": "dailymed"
+}
