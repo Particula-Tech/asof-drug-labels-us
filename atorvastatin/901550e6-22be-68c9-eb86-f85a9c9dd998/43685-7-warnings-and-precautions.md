@@ -7,7 +7,7 @@ A history of renal impairment may be a risk factor for the development of rhabdo
 Such patients merit closer monitoring for skeletal muscle effects.
 
 Atorvastatin, like other statins, occasionally causes myopathy, defined as muscle aches or muscle weakness in conjunction with increases in creatine phosphokinase (CPK) values >10 times ULN.
-The concomitant use of higher doses of atorvastatin with certain drugs such as cyclosporine andstrong cytochrome P450 3A4 (CYP3A4) inhibitors (e.g.,clarithromycin, itraconazole, and HIV and HCV protease inhibitors) increases the risk of myopathy/rhabdomyolysis.
+The concomitant use of higher doses of atorvastatin with certain drugs such as cyclosporine and strong cytochrome P450 3A4 (CYP3A4) inhibitors (e.g., clarithromycin, itraconazole, and HIV and HCV protease inhibitors) increases the risk of myopathy/rhabdomyolysis.
 
 There have been rare reports of immune-mediated necrotizing myopathy (IMNM), an autoimmune myopathy, associated with statin use.
 IMNM is characterized by: proximal muscle weakness and elevated serum creatine kinase, which persist despite discontinuation of statin treatment; muscle biopsy showing necrotizing myopathy without significant inflammation; improvement with immunosuppressive agents.
@@ -21,15 +21,15 @@ Physicians considering combined therapy of atorvastatin with any of these drugs 
 Lower starting and maintenance doses of atorvastatin should be considered when taken concomitantly with the aforementioned drugs [see Drug Interactions (7)].
 Periodic creatine phosphokinase (CPK) determinations may be considered in such situations, but there is no assurance that such monitoring will prevent the occurrence of severe myopathy.
 
-Prescribing recommendations for interacting agents are summarized in Table 2 [see Dosage and Administration (2.6), Drug Interactions (7), Clinical Pharmacology (12.3)].
+Prescribing recommendations for interacting agents are summarized in Table 2 [see Dosage and Administration (2.6), Drug Interactions (7) and, Clinical Pharmacology (12.3)].
 
 Table 2.
 Drug Interactions Associated with Increased Risk of Myopathy/Rhabdomyolysis
 
 | Interacting Agents | Prescribing Recommendations |
 | --- | --- |
-| Cyclosporine, tipranavir plus ritonavir, glecaprevir plus pibrentasvir | Avoid atorvastatin |
-| Clarithromycin, itraconazole, saquinavir plus ritonavir*, darunavir plus ritonavir, fosamprenavir, fosamprenavir plus ritonavir, elbasvir plus grazoprevir | Do not exceed 20 mg atorvastatin daily |
+| Cyclosporine, tipranavir plus ritonavir, glecaprevir plus pibrentasvir, letermovir when co-administered with cyclosporine | Avoid atorvastatin |
+| Clarithromycin, itraconazole, saquinavir plus ritonavir*, darunavir plus ritonavir, fosamprenavir, fosamprenavir plus ritonavir, elbasvir plus grazoprevir, letermovir | Do not exceed 20 mg atorvastatin daily |
 | Nelfinavir | Do not exceed 40 mg atorvastatin daily |
 | Lopinavir plus ritonavir, simeprevir, fibric acid derivatives, erythromycin, azole antifungals, lipid-modifying doses of niacin, colchicine) | Use with caution and lowest dose necessary |
 

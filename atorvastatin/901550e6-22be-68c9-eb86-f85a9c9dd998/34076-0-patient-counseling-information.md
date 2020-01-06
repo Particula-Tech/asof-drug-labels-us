@@ -26,14 +26,6 @@ Advise females of reproductive potential of the risk to a fetus, to use effectiv
 
 Advise women not to breastfeed during treatment with atorvastatin calcium [see Contraindications (4) and Use in Specific Populations (8.2)].
 
-Manufactured by
-
-Dr. Reddy’s Laboratories Limited
-
-Bachupally – 500 090 INDIA
-
-Revised: 0419
-
 PATIENT INFORMATION
 
 Atorvastatin Calcium Tablets, USP
@@ -79,7 +71,7 @@ Do not take atorvastatin calcium tablets if you:
   Atorvastatin calcium tablets may harm your unborn baby.
   If you get pregnant, stop taking atorvastatin calcium tablets and call your doctor right away.
 - are breast feeding.
-  Atorvastatin calcium tablets can pass into your breast milk and may harm your baby.
+  Atorvastatin calcium can pass into your breast milk and may harm your baby.
 - have liver problems.
 - are allergic to atorvastatin calcium tablets or any of its ingredients.
   The active ingredient is atorvastatin.
@@ -109,6 +101,7 @@ Especially tell your doctor if you take medicines for:
 - heart failure
 - HIV or AIDS
 - hepatitis C virus
+- anti-virals
 
 Know all the medicines you take.Keep a list of them with you to show your doctor and pharmacist.
 
@@ -214,17 +207,11 @@ Dr. Reddy’s Laboratories Limited
 
 Bachupally – 500 090 INDIA
 
-Revised: 0419
-
 or
-
-Manufactured by
-
-Dr. Reddy’s Laboratories Limited
 
 Srikakulam - 532 409 INDIA
 
-Revised: 0419
+Revised: 1219
 
 Dispense with Patient Information Sheet available at:
 

@@ -39,7 +39,16 @@ Atorvastatin AUC was significantly increased with concomitant administration of 
 
 The co-administration of atorvastatin calcium with cyclosporine should be avoided [see Warnings and Precautions(5.1)].
 
-## 7.4 Glecaprevir and Pibrentasvir; Elbasvir and Grazoprevir
+## 7.4 Letermovir
+
+Concomitant administration of atorvastatin 20 mg and letermovir 480 mg daily resulted in an increase in exposure to atorvastatin (ratio of AUC: 3.29) [see Clinical Pharmacology (12.3)].
+Letermovir inhibits efflux transporters P-gp, BCRP, MRP2, OAT2 and hepatic transporter OATP1B1/1B3, thus it increases exposure to atorvastatin.
+Do not exceed 20 mg atorvastatin calcium daily [see Dosage and Administration (2.6)].
+
+The magnitude of CYP3A- and OATP1B1/1B3-mediated drug interactions on co-administered drugs may be different when letermovir is co-administered with cyclosporine.
+Use of atorvastatin calcium is not recommended in patients taking letermovir co-administered with cyclosporine.
+
+## 7.5 Glecaprevir and Pibrentasvir; Elbasvir and Grazoprevir
 
 Concomitant administration of glecaprevir and pibrentasvir or elbasvir and grazoprevir may lead to increased plasma concentrations of atorvastatin and an increased risk of myopathy.
 
@@ -47,37 +56,37 @@ Coadministration of glecaprevir and pibrentasvir with atorvastatin increase plas
 
 Coadministration of elbasvir and grazoprevir with atorvastatin increase plasma concentrations of atorvastatin by 1.9-fold due in part to BCRP, OATP1B1/1B3, and CYP3A inhibition; therefore, the dose of atorvastatin calcium should not exceed 20 mg daily in patients receiving concomitant medications with products containing elbasvir and grazoprevir [see Dosage and Administration (2.6), Warnings and Precautions (5.1), and Clinical Pharmacology (12.3)].
 
-## 7.5 Gemfibrozil
+## 7.6 Gemfibrozil
 
 Due to an increased risk of myopathy/rhabdomyolysis when HMG-CoA reductase inhibitors are co-administered with gemfibrozil, concomitant administration of atorvastatin calcium with gemfibrozil should be avoided [see Warnings and Precautions (5.1)].
 
-## 7.6 Other Fibrates
+## 7.7 Other Fibrates
 
 Because it is known that the risk of myopathy during treatment with HMG-CoA reductase inhibitors is increased with concurrent administration of other fibrates, atorvastatin calcium should be administered with caution when used concomitantly with other fibrates [see Warnings and Precautions (5.1)].
 
-## 7.7 Niacin
+## 7.8 Niacin
 
 The risk of skeletal muscle effects may be enhanced when atorvastatin calcium is used in combination with niacin; a reduction in atorvastatin calcium dosage should be considered in this setting [see Warnings and Precautions (5.1)].
 
-## 7.8 Rifampin or other Inducers of Cytochrome P450 3A4
+## 7.9 Rifampin or other Inducers of Cytochrome P450 3A4
 
 Concomitant administration of atorvastatin calcium with inducers of cytochrome P450 3A4 (e.g., efavirenz, rifampin) can lead to variable reductions in plasma concentrations of atorvastatin.
 Due to the dual interaction mechanism of rifampin, simultaneous co-administration of atorvastatin calcium with rifampin is recommended, as delayed administration of atorvastatin calcium after administration of rifampin has been associated with a significant reduction in atorvastatin plasma concentrations.
 
-## 7.9 Digoxin
+## 7.10 Digoxin
 
 When multiple doses of atorvastatin calcium and digoxin were co-administered, steady state plasma digoxin concentrations increased [see Clinical Pharmacology (12.3)].
 Patients taking digoxin should be monitored appropriately.
 
-## 7.10 Oral Contraceptives
+## 7.11 Oral Contraceptives
 
 Co-administration of atorvastatin calcium and an oral contraceptive increased AUC values for norethindrone and ethinyl estradiol [see Clinical Pharmacology (12.3)].
 These increases should be considered when selecting an oral contraceptive for a woman taking atorvastatin calcium.
 
-## 7.11 Warfarin
+## 7.12 Warfarin
 
 Atorvastatin calcium had no clinically significant effect on prothrombin time when administered to patients receiving chronic warfarin treatment.
 
-## 7.12 Colchicine
+## 7.13 Colchicine
 
 Cases of myopathy, including rhabdomyolysis, have been reported with atorvastatin co-administered with colchicine, and caution should be exercised when prescribing atorvastatin with colchicine.
