@@ -103,18 +103,18 @@ Cefepime has been shown to be active against most isolates of the following micr
 
 Gram-negative bacteria
 
-1. Enterobacter spp.
-2. Escherichia coli
-3. Klebsiella pneumoniae
-4. Proteus mirabilis
-5. Pseudomonas aeruginosa
+- Enterobacter spp.
+- Escherichia coli
+- Klebsiella pneumoniae
+- Proteus mirabilis
+- Pseudomonas aeruginosa
 
 Gram-positive bacteria
 
-1. Staphylococcus aureus (methicillin-susceptible isolates only)
-2. Streptococcus pneumoniae
-3. Streptococcus pyogenes (Lancefield’s Group A streptococci)
-4. Viridans group streptococci
+- Staphylococcus aureus (methicillin-susceptible isolates only)
+- Streptococcus pneumoniae
+- Streptococcus pyogenes (Lancefield’s Group A streptococci)
+- Viridans group streptococci
 
 The following in vitro data are available, but their clinical significance is unknown.
 At least 90 percent of the following bacteria exhibit an in vitro minimum inhibitory concentration (MIC) less than or equal to the susceptible breakpoint for cefepime against isolates of similar genus or organism group.
@@ -122,27 +122,27 @@ However, the efficacy of cefepime in treating clinical infections due to these b
 
 Gram-positive bacteria
 
-1. Staphylococcus epidermidis (methicillin-susceptible isolates only)
-2. Staphylococcus saprophyticus
-3. Streptococcus agalactiae (Lancefield’s Group B streptococci)
+- Staphylococcus epidermidis (methicillin-susceptible isolates only)
+- Staphylococcus saprophyticus
+- Streptococcus agalactiae (Lancefield’s Group B streptococci)
 
 NOTE: Most isolates of enterococci, eg, Enterococcus faecalis, and methicillin-resistant staphylococci are resistant to cefepime.
 
 Gram-negative bacteria
 
-1. Acinetobacter calcoaceticus subsp. lwoffii
-2. Citrobacter diversus
-3. Citrobacter freundii
-4. Enterobacter agglomerans
-5. Haemophilus influenzae
-6. Hafnia alvei
-7. Klebsiella oxytoca
-8. Moraxella catarrhalis
-9. Morganella morganii
-10. Proteus vulgaris
-11. Providencia rettgeri
-12. Providencia stuartii
-13. Serratia marcescens
+- Acinetobacter calcoaceticus subsp. lwoffii
+- Citrobacter diversus
+- Citrobacter freundii
+- Enterobacter agglomerans
+- Haemophilus influenzae
+- Hafnia alvei
+- Klebsiella oxytoca
+- Moraxella catarrhalis
+- Morganella morganii
+- Proteus vulgaris
+- Providencia rettgeri
+- Providencia stuartii
+- Serratia marcescens
 
 NOTE: Cefepime is inactive against many isolates of Stenotrophomonas (formerly Xanthomonas maltophilia and Pseudomonas maltophilia).
 
