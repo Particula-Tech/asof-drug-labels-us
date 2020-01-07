@@ -97,6 +97,7 @@ Effect of Co-administered Drugs on the Pharmacokinetics of Atorvastatin
 | #Clarithromycin 500 mg BIDb, 9 days | 80 mg QDa for 8 days | 4.54 | 5.38 |
 | #Darunavir 300 mg BIDb/ritonavir 100 mg BIDb, 9 days | 10 mg QDa for 4 days | 3.45 | 2.25 |
 | #Itraconazole 200 mg QDa, 4 days | 40 mg SDc | 3.32 | 1.20 |
+| #Letermovir 480 mg QDa, 10 days | 20 mg SDc | 3.29 | 2.17 |
 | #Fosamprenavir 700 mg BID/ritonavir 100 mg BIDb, 14 days | 10 mg QDa for 4 days | 2.53 | 2.84 |
 | #Fosamprenavir 1400 mg BIDb, 14 days | 10 mg QDa for 4 days | 2.30 | 4.04 |
 | #Nelfinavir 1250 mg BIDb, 14 days | 10 mg QDa for 28 days | 1.74 | 2.22 |
@@ -105,7 +106,7 @@ Effect of Co-administered Drugs on the Pharmacokinetics of Atorvastatin
 | Erythromycin 500 mg QIDe, 7 days | 10 mg, SDc | 1.33 | 1.38 |
 | Amlodipine 10 mg, single dose | 80 mg, SDc | 1.18 | 0.91 |
 | Cimetidine 300 mg QIDe, 2 weeks | 10 mg QDa for 2 weeks | 1.00 | 0.89 |
-| Colestipol 10 mg BIDb, 24 weeks | 40 mg QDa for 8 weeks | NA | 0.74** |
+| Colestipol 10 g BIDb, 24 weeks | 40 mg QDa for 8 weeks | NA | 0.74** |
 | Maalox TC® 30 mL QID, 17 days | 10 mg QDa for 15 days | 0.66 | 0.67 |
 | Efavirenz 600 mg QDa, 14 days | 10 mg for 3 days | 0.59 | 1.01 |
 | #Rifampin 600 mg QDa, 7 days (co-administered) † | 40 mg SDc | 1.12 | 2.90 |

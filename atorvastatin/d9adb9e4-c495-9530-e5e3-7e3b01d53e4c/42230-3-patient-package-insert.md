@@ -73,6 +73,7 @@ Especially tell your doctor if you take medicines for:
 - heart failure
 - HIV or AIDS
 - hepatitis C virus
+- anti-virals
 
 Know all the medicines you take.
 Keep a list of them with you to show your doctor and pharmacist.
@@ -179,7 +180,7 @@ APOTEX INC. ATORVASTATIN CALCIUM TABLETS, USP 10 mg, 20 mg, 40 mg, and 80 mg
 | Toronto, Ontario | Weston, Florida |
 | Canada, M9L 1T9 | 33326 |
 
-Revised: May 2019
+Revised: December 2019
 
 Rev.
-16
+17
