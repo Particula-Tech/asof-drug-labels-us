@@ -97,7 +97,7 @@ Montelukast sodium tablets may cause serious side effects.
 - Behavior and mood-related changes.
   Tell your healthcare provider right away if you or your child have any of these symptoms while taking montelukast sodium tablets:
 
-| agitation including aggressive behavior or hostilityattention problemsbad or vivid dreamsdepressiondisorientation (confusion)feeling anxioushallucinations (seeing or hearing things that are not really there) | irritabilitymemory problemsobsessive-compulsive symptomsrestlessnesssleep walkingsuicidal thoughts and actions (including suicide)tremortrouble sleepinguncontrolled muscle movements |
+| agitation including aggressive behavior or hostilityattention problemsbad or vivid dreamsdepressiondisorientation (confusion)feeling anxioushallucinations (seeing or hearing things that are not really there)irritability | memory problemsobsessive-compulsive symptomsrestlessnesssleep walkingstutteringsuicidal thoughts and actions (including suicide)tremortrouble sleepinguncontrolled muscle movements |
 | --- | --- |
 
 - Increase in certain white blood cells (eosinophils) and possible inflamed blood vessels throughout the body (systemic vasculitis).
@@ -148,8 +148,10 @@ You may report side effects to FDA at 1-800-FDA-1088.
 How should I store montelukast sodium tablets?
 
 - Store montelukast sodium tablets at 59°F to 86°F (15°C to 30°C).
+- Bottles of 30’s and 90’s count comes in a child-resistant package.
 - Keep montelukast sodium tablets in the container it comes in.
 - Keep montelukast sodium tablets in a dry place and away from light.
+- Keep montelukast sodium tablets and all medicines out of the reach of children.
 
 General Information about the safe and effective use of montelukast sodium tablets
 
@@ -157,7 +159,6 @@ Medicines are sometimes prescribed for purposes other than those mentioned in Pa
 Do not use montelukast sodium tablets for a condition for which it was not prescribed.
 Do not give montelukast sodium tablets to other people even if they have the same symptoms you have.
 It may harm them.
-Keep montelukast sodium tablets and all medicines out of the reach of children.
 
 This leaflet summarizes information about montelukast sodium tablets.
 If you would like more information, talk to your healthcare provider.
@@ -200,6 +201,6 @@ Dist.- Ahmedabad: 382 210.
 
 INDIA.
 
-10 1653 2 693373
+10 1653 3 600544
 
-Issued March 2019
+Issued September 2019
