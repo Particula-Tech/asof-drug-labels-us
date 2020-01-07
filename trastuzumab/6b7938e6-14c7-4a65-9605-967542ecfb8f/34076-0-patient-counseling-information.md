@@ -18,4 +18,4 @@ Manufactured by: Mylan GmbH Turmstrasse 24 6312 Steinhausen, Switzerland U.S. Li
 
 KR/DRUGS/KTK/28D/351/2005 KR/DRUGS/KTK/28D/7/2006
 
-B:TRAS42B:R1
+B:TRAS1524B:R1 B:TRAS4224B:R1
