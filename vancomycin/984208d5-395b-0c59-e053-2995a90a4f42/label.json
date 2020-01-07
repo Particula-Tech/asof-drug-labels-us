@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "NDA208910"
+  ],
+  "inn": "vancomycin",
+  "labeler": "CutisPharma, Inc.",
+  "package_ndcs": [
+    "65628-015-05",
+    "65628-015-10",
+    "65628-016-05",
+    "65628-016-10"
+  ],
+  "products": [
+    {
+      "form": "KIT",
+      "generic": "vancomycin hydrochloride",
+      "name": "FIRVANQ"
+    }
+  ],
+  "setid": "984208d5-395b-0c59-e053-2995a90a4f42",
+  "source": "dailymed"
+}
