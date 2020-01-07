@@ -220,7 +220,7 @@ Table 7: Percentage of Patients From Placebo-Controlled Trials in Adult Patients
 | --- | --- | --- | --- | --- |
 | Schizophrenia4-6 weeks duration. | Aripiprazole | 852 | 69 (8.1) |  |
 |  | Placebo | 379 | 12 (3.2) |  |
-| Bipolar Mania3 weeks duration. | Aripiprazole | 719 | 16 (2.2) |  |
+| Bipolar Disorder3 weeks duration. | Aripiprazole | 719 | 16 (2.2) |  |
 |  | Placebo | 598 | 16 (2.7) |  |
 
 Pediatric Patients and Adolescents
@@ -238,7 +238,7 @@ Table 8: Percentage of Patients From Placebo-Controlled Monotherapy Trials in Pe
 
 In an open-label trial that enrolled patients from the two placebo-controlled trials of adolescents with schizophrenia (13 to 17 years) and pediatric patients with bipolar disorder (10 to 17 years), 73.2% of patients (238/325) completed 26 weeks of therapy with aripiprazole.
 After 26 weeks, 32.8% of patients gained ≥7% of their body weight, not adjusted for normal growth.
-To adjust for normal growth, z-scores were derived (measured in standard deviations [SD]), which normalize for the natural growth of pediatric patients and adolescents by comparisons to age- and gender-matched population standards.
+To adjust for normal growth, z-scores were derived (measured in standard deviations [SD]), which normalize for the natural growth of pediatric patients and adolescents by comparisons to age-and gender-matched population standards.
 A z-score change <0.5 SD is considered not clinically significant.
 After 26 weeks, the mean change in z-score was 0.09 SD.
 When treating pediatric patients for any indication, weight gain should be monitored and assessed against that expected for normal growth.

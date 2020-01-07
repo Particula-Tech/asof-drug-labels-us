@@ -105,8 +105,7 @@ Pediatric Patients
 The efficacy of aripiprazole in the treatment of bipolar I disorder in pediatric patients (10 to 17 years of age) was evaluated in one 4-week, placebo-controlled trial (n=296) of outpatients who met DSM-IV criteria for bipolar I disorder manic or mixed episodes with or without psychotic features and had a Y-MRS score ≥20 at baseline.
 This double-blind, placebo-controlled trial compared two fixed doses of aripiprazole (10 or 30 mg/day) to placebo.
 The aripiprazole dose was started at 2 mg/day, which was titrated to 5 mg/day after 2 days, and to the target dose in 5 days in the 10 mg/day treatment arm, and in 13 days in the 30 mg/day treatment arm.
-Both doses of aripiprazole were superior to placebo in change from baseline to week 4 on the Y-MRS total score.
-(Study 6 in Table 16).
+Both doses of aripiprazole were superior to placebo in change from baseline to week 4 on the Y-MRS total score (Study 6 in Table 16).
 
 Table 16: Bipolar Studies
 

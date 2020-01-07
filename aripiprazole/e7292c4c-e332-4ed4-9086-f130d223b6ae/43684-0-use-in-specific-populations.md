@@ -81,8 +81,6 @@ The development and health benefits of breastfeeding should be considered along 
 
 ## 8.4 Pediatric Use
 
-Safety and effectiveness in pediatric patients with major depressive disorder or agitation associated with schizophrenia or bipolar mania have not been established.
-
 The pharmacokinetics of aripiprazole and dehydro-aripiprazole in pediatric patients, 10 to 17 years of age, were similar to those in adults after correcting for the differences in body weight [see Clinical Pharmacology (12.3)].
 
 Schizophrenia
@@ -92,12 +90,12 @@ Although maintenance efficacy in pediatric patients has not been systematically 
 
 Bipolar I Disorder
 
-Safety and effectiveness in pediatric patients with bipolar mania were established in a 4-week, placebo-controlled clinical trial in 197 pediatric patients aged 10 to 17 years [see Dosage and Administration (2.2), Adverse Reactions (6.1), and Clinical Studies (14.2)].Although maintenance efficacy in pediatric patients has not been systematically evaluated, maintenance efficacy can be extrapolated from adult data along with comparisons of aripiprazole pharmacokinetic parameters in adult and pediatric patients.
+Safety and effectiveness in pediatric patients with bipolar mania were established in a 4-week, placebo-controlled clinical trial in 197 pediatric patients aged 10 to 17 years [see Dosage and Administration (2.2), Adverse Reactions (6.1), and Clinical Studies (14.2)].
+Although maintenance efficacy in pediatric patients has not been systematically evaluated, maintenance efficacy can be extrapolated from adult data along with comparisons of aripiprazole pharmacokinetic parameters in adult and pediatric patients.
 
 The efficacy of adjunctive aripiprazole with concomitant lithium or valproate in the treatment of manic or mixed episodes in pediatric patients has not been systematically evaluated.
 However, such efficacy and lack of pharmacokinetic interaction between aripiprazole and lithium or valproate can be extrapolated from adult data, along with comparisons of aripiprazole pharmacokinetic parameters in adult and pediatric patients.
 
-Information describing a clinical study in which efficacy was not demonstrated in patients ages 6 to 17 years is approved for Otsuka America Pharmaceutical, Inc.’s ABILIFY® (aripiprazole).
 Additional pediatric use information in patients ages 6 to 18 years is approved for Otsuka America Pharmaceutical, Inc.’s ABILIFY® (aripiprazole) product.
 However, due to Otsuka America Pharmaceutical, Inc.’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
 

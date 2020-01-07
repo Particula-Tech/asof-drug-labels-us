@@ -10,9 +10,9 @@ The following are adverse reactions discussed in more detail in other sections o
 - Neuroleptic Malignant Syndrome (NMS) [see Warnings and Precautions (5.4)]
 - Tardive Dyskinesia [see Warnings and Precautions (5.5)]
 - Metabolic Changes [see Warnings and Precautions (5.6)]
-- Pathological Gambling and Other Compulsive Behaviors [see Warnings and Precautions (5.7)].
+- Pathological Gambling and Other Compulsive Behaviors [see Warnings and Precautions (5.7)]
 - Orthostatic Hypotension [see Warnings and Precautions (5.8)]
-- Falls [see Warnings and Precautions (5.9)].
+- Falls [see Warnings and Precautions (5.9)]
 - Leukopenia, Neutropenia, and Agranulocytosis [see Warnings and Precautions (5.10)]
 - Seizures/Convulsions [see Warnings and Precautions (5.11)]
 - Potential for Cognitive and Motor Impairment [see Warnings and Precautions (5.12)]
@@ -409,4 +409,4 @@ However, due to Otsuka America Pharmaceutical, Inc.’s marketing exclusivity ri
 ## 6.2 Postmarketing Experience
 
 The following adverse reactions have been identified during post-approval use of aripiprazole.
-Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to establish a causal relationship to drug exposure: occurrences of allergic reaction (anaphylactic reaction, angioedema, laryngospasm, pruritus/urticaria, or oropharyngeal spasm), pathological gambling, hiccups and blood glucose fluctuation.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to establish a causal relationship to drug exposure: occurrences of allergic reaction (anaphylactic reaction, angioedema, laryngospasm, pruritus/urticaria, or oropharyngeal spasm), pathological gambling, hiccups, blood glucose fluctuation and drug reaction with eosinophilia and systemic symptoms (DRESS).
