@@ -33,7 +33,6 @@ Closely monitor serum calcium in patients receiving cinacalcet hydrochloride tab
 Patient Education and Hypocalcemia Treatment
 
 Educate patients on the symptoms of hypocalcemia and advise them to contact a healthcare provider if they occur.
-
 If corrected serum calcium falls below the lower limit of normal or symptoms of hypocalcemia develop, start or increase calcium supplementation (including calcium, calcium-containing phosphate binders, and/or vitamin D sterols or increases in dialysate calcium concentration).
 Cinacalcet hydrochloride tablets dose reduction or discontinuation of cinacalcet hydrochloride tablets may be necessary [see Dosage and Administration (2.2)].
 

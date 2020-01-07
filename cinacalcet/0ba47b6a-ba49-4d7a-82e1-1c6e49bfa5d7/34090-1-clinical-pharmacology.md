@@ -3,7 +3,7 @@
 ## 12.1 Mechanism of Action
 
 The calcium-sensing receptor on the surface of the chief cell of the parathyroid gland is the principal regulator of PTH synthesis and secretion.
-Cinacalcet, the active ingredient in cinacalcet hydrochloride tablets, directly lowers PTH levels by increasing the sensitivity of the calcium-sensing receptor to extracellular calcium.
+Cinacalcet, the active ingredient in cinacalcet hydrochloride tablets, is a calcimimetic agent that directly lowers PTH levels by increasing the sensitivity of the calcium-sensing receptor to extracellular calcium.
 The reduction in PTH is associated with a concomitant decrease in serum calcium levels.
 
 ## 12.2 Pharmacodynamics
@@ -63,7 +63,7 @@ Drug Interactions
 
 In vitro studies indicate that cinacalcet is a strong inhibitor of CYP2D6, but not an inhibitor of CYP1A2, CYP2C9, CYP2C19, and CYP3A4.
 In vitro induction studies indicate that cinacalcet hydrochloride tablets is not an inducer of CYP450 enzymes.
-Tables 5 and 6 list the findings from in vivo drug-drug interaction studies
+Tables 5 and 6 list the findings from in vivo drug-drug interaction studies.
 
 Table 5.
 Effect of co-administered drugs on cinacalcet

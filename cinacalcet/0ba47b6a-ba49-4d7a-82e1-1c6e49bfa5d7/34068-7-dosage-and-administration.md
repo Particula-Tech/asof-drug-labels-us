@@ -10,7 +10,7 @@ Cinacalcet hydrochloride tablets are administered orally and should always be ta
 
 The recommended starting oral dose of cinacalcet hydrochloride tablets is 30 mg once daily.
 Serum calcium and serum phosphorus should be measured within 1 week and intact parathyroid hormone iPTH) should be measured 1 to 4 weeks after initiation or dose adjustment of cinacalcet hydrochloride tablets [see Dosage and Administration (2.3)].
-Cinacalcet hydrochloride tablets should be titrated no more frequently than every 2 to 4 weeks through sequential doses of 30 mg, 60 mg, 90 mg, 120mg and 180 mg once daily to target iPTH levels of 150 to 300 pg/mL.
+Cinacalcet hydrochloride tablets should be titrated no more frequently than every 2 to 4 weeks through sequential doses of 30, 60, 90, 120 and 180 mg once daily to target iPTH levels of 150 to 300 pg/mL.
 Serum iPTH levels should be assessed no earlier than 12 hours after dosing with cinacalcet hydrochloride tablets.
 
 Cinacalcet hydrochloride tablets can be used alone or in combination with vitamin D sterols and/ or phosphate binders.

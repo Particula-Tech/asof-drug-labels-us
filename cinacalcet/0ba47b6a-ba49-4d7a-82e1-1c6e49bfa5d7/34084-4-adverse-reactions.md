@@ -64,9 +64,9 @@ Frequency of Adverse Reactions in Dialysis Patients Treated for up to 64 Months 
 | Decreased appetite | 3.5 | 5.9 |
 | Asthenia | 3.8 | 5.4 |
 | Constipation | 3.8 | 5.0 |
-| 1Adverse reactions that occurred in ≥ 5% Frequency in the cinacalcet hydrochloride tablets group and a difference ≥ 1% compared to the placebo group (Safety Analysis Set) |  |  |
+| 1Adverse reactions that occurred in ≥ 5% Frequency in the cinacalcet hydrochloride tablets group and a difference ≥ 1% compared to the placebo group (Safety Analysis Set). |  |  |
 | Crude incidence rate = 100 * Total number of subjects with event/ n |  |  |
-| n=Number of subjects receiving at least one dose of study drug |  |  |
+| n=Number of subjects receiving at least one dose of study drug. |  |  |
 
 Additional adverse reaction rates from the long-term, randomized, double-blind placebo controlled study for cinacalcet hydrochloride tablets versus placebo are as follows: seizure (2.5%, 1.6%), rash (2.2%, 1.9%), hypersensitivity reactions (9.4%, 8.3%).
 
@@ -128,3 +128,4 @@ Because these reactions are reported voluntarily from a population of uncertain 
 - Isolated, idiosyncratic cases of hypotension, worsening heart failure, and/or arrhythmia have been
 - reported in patients with impaired cardiac function
 - Gastrointestinal bleeding
+- Chondrocalcinosis pyrophosphate (acute pseudogout)
