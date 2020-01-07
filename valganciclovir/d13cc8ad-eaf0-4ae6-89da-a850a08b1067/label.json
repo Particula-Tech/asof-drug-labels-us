@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA212234"
+  ],
+  "inn": "valganciclovir",
+  "labeler": "Ajanta Pharma Limited",
+  "package_ndcs": [
+    "27241-158-60"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "valganciclovir",
+      "name": "Valganciclovir"
+    }
+  ],
+  "setid": "d13cc8ad-eaf0-4ae6-89da-a850a08b1067",
+  "source": "dailymed"
+}
