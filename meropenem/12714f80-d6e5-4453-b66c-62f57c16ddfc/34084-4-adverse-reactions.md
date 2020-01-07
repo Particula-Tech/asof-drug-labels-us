@@ -9,7 +9,7 @@ The following are discussed in greater detail in other sections of labeling:
 - Clostridium difficile – associated Diarrhea [see Warnings and Precautions (5.5)]
 - Development of Drug-Resistant Bacteria [see Warnings and Precautions (5.6)]
 - Overgrowth of Nonsusceptible Organisms [see Warnings and Precautions (5.7)]
-- Thrombocytopenia [see Warnings and Precautions (5.8)]
+- Thrombocytopenia[see Warnings and Precautions (5.8)]
 - Potential for Neuromotor Impairment [see Warnings and Precautions (5.9)]
 
 ## 6.1 Adverse Reactions from Clinical Trials
@@ -30,15 +30,12 @@ Local Adverse Reactions
 
 Local adverse events that were reported with Meropenem for injection (I.V.) were as follows:
 
-Inflammation at the injection site 2.4%
-
-Injection site reaction 0.9%
-
-Phlebitis/thrombophlebitis 0.8%
-
-Pain at the injection site 0.4%
-
-Edema at the injection site 0.2%
+| Inflammation at the injection site | 2.4% |
+| --- | --- |
+| Injection site reaction | 0.9% |
+| Phlebitis/thrombophlebitis | 0.8% |
+| Pain at the injection site | 0.4% |
+| Edema at the injection site | 0.2% |
 
 Systemic Adverse Reactions
 
@@ -97,24 +94,21 @@ Pediatric Patients with Serious Bacterial Infections (excluding Bacterial Mening
 Meropenem for injection (I.V.) was studied in 515 pediatric patients (3 months to less than 13 years of age) with serious bacterial infections (excluding meningitis, see next section) at dosages of 10 mg/kg to 20 mg/kg every 8 hours.
 The types of systemic and local adverse events seen in these patients are similar to the adults, with the most common adverse events reported as possibly, probably, or definitely related to Meropenem for injection (I.V.) and their rates of occurrence as follows:
 
-Diarrhea 3.5%
-
-Rash 1.6%
-
-Nausea and Vomiting 0.8%
+| Diarrhea | 3.5% |
+| --- | --- |
+| Rash | 1.6% |
+| Nausea and Vomiting | 0.8% |
 
 Pediatric Patients with Bacterial Meningitis:
 
 Meropenem for injection (I.V.) was studied in 321 pediatric patients (3 months to less than 17 years of age) with meningitis at a dosage of 40 mg/kg every 8 hours.
 The types of systemic and local adverse events seen in these patients are similar to the adults, with the most common adverse reactions reported as possibly, probably, or definitely related to Meropenem for injection (I.V.) and their rates of occurrence as follows:
 
-Diarrhea 4.7%
-
-Rash (mostly diaper area moniliasis) 3.1%
-
-Oral Moniliasis 1.9%
-
-Glossitis 1%
+| Diarrhea | 4.7% |
+| --- | --- |
+| Rash (mostly diaper area moniliasis) | 3.1% |
+| Oral Moniliasis | 1.9% |
+| Glossitis | 1% |
 
 In the meningitis studies, the rates of seizure activity during therapy were comparable between patients with no CNS abnormalities who received meropenem and those who received comparator agents (either cefotaxime or ceftriaxone).
 In the Meropenem for injection (I.V.) treated group, 12/15 patients with seizures had late onset seizures (defined as occurring on day 3 or later) versus 7/20 in the comparator arm.
@@ -127,17 +121,16 @@ The study was open-label, uncontrolled, 98% of the infants received concomitant 
 
 The adverse reactions seen in these patients that were reported and their rates of occurrence are as follows:
 
-Convulsion 5%
-
-Hyperbilirubinemia (conjugated) 4.5%
-
-Vomiting 2.5%
+| Convulsion | 5% |
+| --- | --- |
+| Hyperbilirubinemia (conjugated) | 4.5% |
+| Vomiting | 2.5% |
 
 Adverse Laboratory Changes in Pediatric Patients:
 
 Laboratory changes seen in the pediatric studies, including the meningitis studies, were similar to those reported in the adult studies.
 
-## 6.2 Post-marketing Experience
+## 6.2 Post marketing Experience
 
 The following adverse reactions have been identified during post-approval use of Meropenem for injection (I.V.).
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.

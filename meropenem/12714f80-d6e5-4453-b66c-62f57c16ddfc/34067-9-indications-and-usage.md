@@ -16,6 +16,6 @@ Meropenem for injection, USP (I.V.) has been found to be effective in eliminatin
 
 ## 1.4 Usage
 
-To reduce the development of drug-resistant bacteria and maintain the effectiveness of Meropenem for injection, USP (I.V.) and other antibacterial drugs, Meropenem for injection,USP (I.V.) should only be used to treat or prevent infections that are proven or strongly suspected to be caused by susceptible bacteria.
+To reduce the development of drug-resistant bacteria and maintain the effectiveness of Meropenem for injection, USP (I.V.) and other antibacterial drugs, Meropenem for injection, USP (I.V.) should only be used to treat or prevent infections that are proven or strongly suspected to be caused by susceptible bacteria.
 When culture and susceptibility information are available, they should be considered in selecting or modifying antibacterial therapy.
 In the absence of such data, local epidemiology and susceptibility patterns may contribute to the empiric selection of therapy.

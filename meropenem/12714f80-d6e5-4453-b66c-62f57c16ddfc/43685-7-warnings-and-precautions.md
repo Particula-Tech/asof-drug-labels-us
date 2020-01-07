@@ -35,7 +35,6 @@ The concomitant use of meropenem and valproic acid or divalproex sodium is gener
 Case reports in the literature have shown that co-administration of carbapenems, including meropenem, to patients receiving valproic acid or divalproex sodium results in a reduction in valproic acid concentrations.
 The valproic acid concentrations may drop below the therapeutic range as a result of this interaction, therefore increasing the risk of breakthrough seizures.
 Increasing the dose of valproic acid or divalproex sodium may not be sufficient to overcome this interaction.
-
 Consider administration of antibacterial drugs other than carbapenems to treat infections in patients whose seizures are well controlled on valproic acid or divalproex sodium.
 If administration of Meropenem for injection (I.V.) is necessary, consider supplemental anti-convulsant therapy [see Drug Interactions (7.2)].
 

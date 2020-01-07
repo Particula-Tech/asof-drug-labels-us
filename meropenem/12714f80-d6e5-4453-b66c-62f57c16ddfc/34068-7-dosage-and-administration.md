@@ -4,6 +4,7 @@
 
 The recommended dose of Meropenem for injection (I.V.) is 500 mg given every 8 hours for skin and skin structure infections and 1 gram given every 8 hours for intra-abdominal infections.
 When treating complicated skin and skin structure infections caused by P. aeruginosa, a dose of 1 gram every 8 hours is recommended.
+
 Meropenem for injection (I.V.) should be administered by intravenous infusion over approximately 15 minutes to 30 minutes.
 Doses of 1 gram may also be administered as an intravenous bolus injection (5 mL to 20 mL) over approximately 3 minutes to 5 minutes.
 
@@ -12,13 +13,11 @@ Doses of 1 gram may also be administered as an intravenous bolus injection (5 mL
 Dosage should be reduced in patients with creatinine clearance of 50 mL/min or less.
 (See dosing table below.)
 
-When only serum creatinine is available, the following formula (Cockcroft and Gault equation) 1 may be used to estimate creatinine clearance.
+When only serum creatinine is available, the following formula (Cockcroft and Gault equation)1 may be used to estimate creatinine clearance.
 
-Males: Creatinine Clearance (mL/min)
-
-= Weight (kg) x (140 - age)__
-
-72 x serum creatinine (mg/dL)
+| Males: Creatinine Clearance (mL/min)= | Weight (kg) x (140 – age) |  |
+| --- | --- | --- |
+|  | 72 x serum creatinine (mg/dL) |  |
 
 Females: 0.85 x above value
 
@@ -73,7 +72,7 @@ Dosage Schedule for Pediatric Patients Less than 3 Months of Age with Complicate
 | Infants 32 weeks and older GA and PNA less than 2 weeks | 20 | Every 8 hours |
 | Infants 32 weeks and older GA and PNA 2 weeks and older | 30 | Every 8 hours |
 
-There is no experience in pediatric patients with renal impairment
+There is no experience in pediatric patients with renal impairment.
 
 ## 2.4 Preparation and Administration of Meropenem for injection (I.V.)
 
@@ -117,4 +116,5 @@ Meropenem injection vials re-constituted with sterile Water for Injection for bo
 Intravenous Infusion Administration
 
 Solutions prepared for infusion (Meropenem concentrations ranging from 1 mg/mL to 20 mg/mL) re-constituted with Sodium Chloride Injection 0.9% may be stored for 1 hour at up to 25°C (77°F) or 15 hours at up to 5°C (41°F).
+
 Solutions prepared for infusion (Meropenem concentrations ranging from 1 mg/mL to 20 mg/mL) re-constituted with Dextrose Injection 5% should be used immediately.

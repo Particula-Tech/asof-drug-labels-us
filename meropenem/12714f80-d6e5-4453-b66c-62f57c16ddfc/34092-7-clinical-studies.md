@@ -15,7 +15,7 @@ The success rates for the clinically evaluable population are provided in Table 
 
 Table 7: Success Rates at Test-of-Cure Visit for Clinically Evaluable Population with Complicated Skin and Skin Structure Infections
 
-| Population | Meropenem for Injection (I.V.) n 1/N 2(%) | Imipenem-cilastatin n 1/N 2(%) |
+| Population | Meropenem for injection (I.V.) n1/N2 (%) | Imipenem-cilastatin n1/N2 (%) |
 | --- | --- | --- |
 | Total | 225/261 (86) | 238/287 (83) |
 | Diabetes mellitus | 83/97 (86) | 76/105 (72) |
@@ -24,17 +24,15 @@ Table 7: Success Rates at Test-of-Cure Visit for Clinically Evaluable Population
 | 65 years of age or older | 35/43 (81) | 33/46 (72) |
 | Men | 130/148 (88) | 137/172 (80) |
 | Women | 95/113 (84) | 101/115 (88) |
-
-1 n = number of patients with satisfactory response.
-
-2 N = number of patients in the clinically evaluable population or respective subgroup within treatment groups.
+| 1 n = number of patients with satisfactory response. |  |  |
+| 2 N = number of patients in the clinically evaluable population or respective subgroup within treatment groups. |  |  |
 
 The clinical efficacy rates by pathogen are provided in Table 8.
 The values represent the number of patients clinically cured/number of clinically evaluable patients at the post-treatment follow-up visit, with the percent cure in parentheses (Fully Evaluable analysis set).
 
 Table 8: Clinical Efficacy Rates by Pathogen for Clinically Evaluable Population
 
-| MICROORGANISMS 1 | Meropenem for injection (I.V.) n 2/N 3 (%) 4 | Imipenem-cilastatin n 2/N 3 (%) 4 |
+| MICROORGANISMS1 | Meropenem for injection (I.V.) n2/N3 (%)4 | Imipenem-cilastatin n2/N3 (%)4 |
 | --- | --- | --- |
 | Gram-positive aerobes |  |  |
 | Staphylococcus aureus, methicillin susceptible | 82/88 (93) | 84/100 (84) |
@@ -49,14 +47,10 @@ Table 8: Clinical Efficacy Rates by Pathogen for Clinically Evaluable Population
 | Anaerobes |  |  |
 | Bacteroides fragilis | 10/11 (91) | 9/10 (90) |
 | Peptostreptococcus Species | 10/13 (77) | 14/16 (88) |
-
-1 Patients may have more than one pretreatment pathogen.
-
-2 n = number of patients with satisfactory response.
-
-3 N = number of patients in the clinically evaluable population or subgroup within treatment groups.
-
-4 % = Percent of satisfactory clinical response at follow-up evaluation.
+| 1 Patients may have more than one pretreatment pathogen. |  |  |
+| 2 n = number of patients with satisfactory response. |  |  |
+| 3 N = number of patients in the clinically evaluable population or subgroup within treatment groups. |  |  |
+| 4 % = Percent of satisfactory clinical response at follow-up evaluation. |  |  |
 
 The proportion of patients who discontinued study treatment due to an adverse event was similar for both treatment groups (meropenem, 2.5% and imipenem-cilastatin, 2.7%).
 
@@ -64,9 +58,10 @@ The proportion of patients who discontinued study treatment due to an adverse ev
 
 One controlled clinical study of complicated intra-abdominal infection was performed in the United States where meropenem was compared with clindamycin/tobramycin.
 Three controlled clinical studies of complicated intra-abdominal infections were performed in Europe; meropenem was compared with imipenem (two trials) and cefotaxime/metronidazole (one trial).
+
 Using strict evaluability criteria and microbiologic eradication and clinical cures at follow-up which occurred 7 or more days after completion of therapy, the presumptive microbiologic eradication/clinical cure rates and statistical findings are provided in Table 9:
 
-Table 9: Presumptive Microbiologic Eradication and Clinical Cure Rates at Test-of-Cure Visit in the Evaluable Population with Complicated Intra-Abdominal Infection
+Table 9: Presumptive Microbiologic Eradication and Clinical Cure Rates at Test-of- Cure Visit in the Evaluable Population with Complicated Intra-Abdominal Infection
 
 | Treatment Arm | No. evaluable/ No. enrolled (%) | Microbiologic Eradication Rate | Clinical Cure Rate | Outcome |
 | --- | --- | --- | --- | --- |
@@ -84,14 +79,9 @@ Four hundred forty-six patients (397 pediatric patients 3 months to less than 17
 A comparable number of patients were found to be clinically evaluable (ranging from 61 to 68%) and with a similar distribution of pathogens isolated on initial CSF culture.
 Patients were defined as clinically not cured if any one of the following three criteria were met:
 
-1.
-At the 5-7 week post-completion of therapy visit, the patient had any one of the following: moderate to severe motor, behavior or development deficits, hearing loss of greater than 60 decibels in one or both ears, or blindness.
-
-2.
-During therapy the patient’s clinical status necessitated the addition of other antibacterial drugs.
-
-3.
-Either during or post-therapy, the patient developed a large subdural effusion needing surgical drainage, or a cerebral abscess, or a bacteriologic relapse.
+1. 1 At the 5-7 week post-completion of therapy visit, the patient had any one of the following: moderate to severe motor, behavior or development deficits, hearing loss of greater than 60 decibels in one or both ears, or blindness.
+2. 2 During therapy the patient's clinical status necessitated the addition of other antibacterial drugs.
+3. 3 Either during or post-therapy, the patient developed a large subdural effusion needing surgical drainage, or a cerebral abscess, or a bacteriologic relapse.
 
 Using the definition, the following efficacy rates were obtained, per organism (noted in Table 10).
 The values represent the number of patients clinically cured/number of clinically evaluable patients, with the percent cure in parentheses.
@@ -101,13 +91,17 @@ Table 10: Efficacy rates by Pathogen in the Clinically Evaluable Population with
 | MICROORGANISMS | MEROPENEM FOR INJECTION (I.V.) | COMPARATOR |
 | --- | --- | --- |
 | S. pneumoniae | 17/24 (71) | 19/30 (63) |
-| H. influenzae (+) 1 | 8/10 (80) | 6/6 (100) |
-| H. influenzae (-/NT) 2 | 44/59 (75) | 44/60 (73) |
+| H. influenzae (+)1 | 8/10 (80) | 6/6 (100) |
+| H. influenzae (-/NT)2 | 44/59 (75) | 44/60 (73) |
 | N. meningitidis | 30/35 (86) | 35/39 (90) |
 | Total (including others) | 102/131 (78) | 108/140 (77) |
+| 1 (+) β-lactamase-producing |  |  |
+| 2 (-/NT) non-β-lactamase-producing or not tested |  |  |
 
-1 (+) β-lactamase-producing 2 (-/NT) non-β-lactamase-producing or not tested Sequelae were the most common reason patients were assessed as clinically not cured.
+Sequelae were the most common reason patients were assessed as clinically not cured.
+
 Five patients were found to be bacteriologically not cured, 3 in the comparator group (1 relapse and 2 patients with cerebral abscesses) and 2 in the meropenem group (1 relapse and 1 with continued growth of Pseudomonas aeruginosa).
+
 With respect to hearing loss, 263 of the 271 evaluable patients had at least one hearing test performed post-therapy.
 The following table shows the degree of hearing loss between the meropenem-treated patients and the comparator-treated patients.
 

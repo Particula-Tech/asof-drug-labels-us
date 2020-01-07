@@ -5,6 +5,7 @@ In mice and rats, large intravenous doses of meropenem (2200 mg/kg to 4000 mg/kg
 Intentional overdosing of Meropenem for injection (I.V.) is unlikely, although accidental overdosing might occur if large doses are given to patients with reduced renal function.
 The largest dose of meropenem administered in clinical trials has been 2 grams given intravenously every 8 hours.
 At this dosage, no adverse pharmacological effects or increased safety risks have been observed.
+
 Limited postmarketing experience indicates that if adverse events occur following overdosage, they are consistent with the adverse event profile described in the Adverse Reactions section and are generally mild in severity and resolve on withdrawal or dose reduction.
 Consider symptomatic treatments.
 In individuals with normal renal function, rapid renal elimination takes place.

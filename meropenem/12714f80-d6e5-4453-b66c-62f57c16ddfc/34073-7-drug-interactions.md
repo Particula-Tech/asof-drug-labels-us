@@ -9,5 +9,5 @@ Co-administration of probenecid with meropenem is not recommended.
 
 Case reports in the literature have shown that co-administration of carbapenems, including meropenem, to patients receiving valproic acid or divalproex sodium results in a reduction in valproic acid concentrations.
 The valproic acid concentrations may drop below the therapeutic range as a result of this interaction, therefore increasing the risk of breakthrough seizures.
-Although the mechanism of this interaction is unknown, data from in vitro and animal studies suggest that carbapenems may inhibit the hydrolysis of valproic acid’s glucuronide metabolite (VPA-g) back to valproic acid, thus decreasing the serum concentrations of valproic acid.
+Although the mechanism of this interaction is unknown, data from in vitro and animal studies suggest that carbapenems may inhibit the hydrolysis of valproic acid's glucuronide metabolite (VPA-g) back to valproic acid, thus decreasing the serum concentrations of valproic acid.
 If administration of Meropenem for injection (I.V.) is necessary, then supplemental anti-convulsant therapy should be considered [see Warnings and Precautions (5.4)].

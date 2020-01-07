@@ -15,12 +15,6 @@
 
 Novaplus is a registered trademark of Vizient, Inc.
 
-Manufactured for:
-
-Fresenius Kabi
-
-Lake Zurich, IL 60047
+Manufactured for: Fresenius Kabi Lake Zurich, IL 60047
 
 www.fresenius-kabi.com/us
-
-Revised: August 2018
