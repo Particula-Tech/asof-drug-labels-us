@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA212822"
+  ],
+  "inn": "bupivacaine",
+  "labeler": "Huons Co., Ltd.",
+  "package_ndcs": [
+    "73293-0002-1",
+    "73293-0002-2"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "bupivacaine hydrochloride",
+      "name": "Bupivacaine Hydrochloride"
+    }
+  ],
+  "setid": "2dc693df-3218-4a90-b3f7-21e80966a851",
+  "source": "dailymed"
+}
