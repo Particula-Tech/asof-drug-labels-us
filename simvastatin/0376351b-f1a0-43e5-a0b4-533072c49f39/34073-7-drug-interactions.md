@@ -23,7 +23,6 @@ The risk of myopathy, including rhabdomyolysis, is increased by concomitant admi
 ## 7.4 Niacin
 
 Cases of myopathy/rhabdomyolysis have been observed with simvastatin coadministered with lipid-modifying doses (≥1 g/day niacin) of niacin-containing products.
-
 The risk of myopathy is greater in Chinese patients.
 In a clinical trial (median follow-up 3.9 years) involving patients at high risk of cardiovascular disease and with well-controlled LDL-C levels on simvastatin 40 mg/day with or without ezetimibe 10 mg/day, there was no incremental benefit on cardiovascular outcomes with the addition of lipid-modifying doses (≥1 g/day) of niacin.
 Coadministration of simvastatin with lipid-modifying doses (≥1 g/day) of niacin is not recommended in Chinese patients.
@@ -46,3 +45,9 @@ Simvastatin therapy has not been associated with bleeding or with changes in pro
 ## 7.7 Colchicine
 
 Cases of myopathy, including rhabdomyolysis, have been reported with simvastatin coadministered with colchicine, and caution should be exercised when prescribing simvastatin with colchicine.
+
+## 7.8 Daptomycin
+
+Cases of rhabdomyolysis have been reported with simvastatin administered with daptomycin.
+Both simvastatin and daptomycin can cause myopathy and rhabdomyolysis when given alone and the risk of myopathy and rhabdomyolysis may be increased by coadministration.
+Temporarily suspend simvastatin in patients taking daptomycin [see Warnings and Precautions (5.1)].

@@ -57,13 +57,12 @@ The benefits of the combined use of simvastatin with the following drugs should 
 
 Cases of myopathy, including rhabdomyolysis, have been observed with simvastatin coadministered with lipid-modifying doses (≥1 g/day niacin) of niacin-containing products [see Drug Interactions (7.4)].
 
+Cases of rhabdomyolysis have been reported with simvastatin administered with daptomycin.
+Temporarily suspend simvastatin in patients taking daptomycin [see Drug Interactions (7.8)].
+
 Prescribing recommendations for interacting agents are summarized in Table 1 [see also Dosage and Administration (2.3, 2.4), Drug Interactions (7), Clinical Pharmacology (12.3)].
 
-Table 1:
-
-Drug Interactions Associated with Increased
-
-Risk of Myopathy/Rhabdomyolysis
+Table 1: Drug Interactions Associated with Increased Risk of Myopathy/Rhabdomyolysis
 
 | Interacting Agents | Prescribing Recommendations |
 | --- | --- |
@@ -72,6 +71,7 @@ Risk of Myopathy/Rhabdomyolysis
 | Verapamil Diltiazem Dronedarone | Do not exceed 10 mg simvastatin daily |
 | Amiodarone Amlodipine Ranolazine | Do not exceed 20 mg simvastatin daily |
 | Lomitapide | For patients with HoFH, do not exceed 20 mg simvastatin daily* |
+| Daptomycin | Temporarily suspend simvastatin |
 | Grapefruit juice | Avoid grapefruit juice |
 | * For patients with HoFH who have been taking 80 mg simvastatin chronically (e.g., for 12 months or more) without evidence of muscle toxicity, do not exceed 40 mg simvastatin when taking lomitapide. |  |
 
