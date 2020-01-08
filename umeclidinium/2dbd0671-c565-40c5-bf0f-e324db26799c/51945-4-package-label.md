@@ -2,7 +2,7 @@ PRINCIPAL DISPLAY PANEL
 
 NDC 0173-0869-10
 
-ANOROELLIPTA
+ANORO ELLIPTA
 
 (umeclidinium and vilanterol inhalation powder)
 
@@ -15,9 +15,9 @@ FOR ORAL INHALATION ONLY
 Each blister on one strip contains 62.5 mcg of umeclidinium, magnesium stearate, and lactose monohydrate.
 Each blister on the other strip contains 25 mcg of vilanterol, magnesium stearate, and lactose monohydrate.
 
-1 ELLIPTA® Inhaler containing 30 doses (60 blisters total)
+1 ELLIPTA Inhaler containing 30 doses (60 blisters total)
 
-©2017 the GSK group of companies
+©2019 GSK group of companies or its licensor.
 
-1. DFT-01714-4067587 Rev.
-   5/19
+1. 62000000041323 Rev.
+   7/19
