@@ -40,7 +40,7 @@ Advise breastfeeding women not to apply BRYHALI Lotion directly to the nipple an
 
 Safety and effectiveness of BRYHALI Lotion in pediatric patients under the age of 18 years have not been evaluated.
 
-Because of higher skin surface area to body mass ratios, pediatric patients are at a greater risk than adults of HPA axis suppression and Cushing’s syndrome when they are treated with topical corticosteroids.
+Because of higher skin-surface-area-to-body-mass ratios, pediatric patients are at a greater risk than adults of HPA axis suppression and Cushing’s syndrome when they are treated with topical corticosteroids.
 They are therefore also at greater risk of adrenal insufficiency during or after withdrawal of treatment.
 Adverse reactions including striae have been reported with use of topical corticosteroids in infants and children [see Warnings and Precautions (5.1)].
 

@@ -21,7 +21,7 @@ Recovery of HPA axis function is generally prompt and complete upon discontinuat
 
 Systemic effects of topical corticosteroids may also include Cushing's syndrome, hyperglycemia, and glucosuria.
 Use of more than one corticosteroid-containing product at the same time may increase the total systemic exposure to corticosteroids.
-Pediatric patients may be more susceptible than adults to systemic toxicity from the use of topical corticosteroids due to their larger surface-to-body mass ratios [see Use in Specific Populations (8.4)].
+Pediatric patients may be more susceptible than adults to systemic toxicity from the use of topical corticosteroids due to their larger surface-to-body-mass ratios [see Use in Specific Populations (8.4)].
 
 ## 5.2 Local Adverse Reactions
 
@@ -32,7 +32,8 @@ Some local adverse reactions may be irreversible.
 ## 5.3 Ophthalmic Adverse Reactions
 
 Use of topical corticosteroids may increase the risk of posterior subcapsular cataracts and glaucoma.
-Cataracts and glaucoma have been reported in postmarketing experience with the use of topical corticosteroid products.Advise patients to report any visual symptoms and consider referral to an ophthalmologist for evaluation.
+Cataracts and glaucoma have been reported in postmarketing experience with the use of topical corticosteroid products.
+Advise patients to report any visual symptoms and consider referral to an ophthalmologist for evaluation.
 
 ## 5.4 Concomitant Skin Infections
 

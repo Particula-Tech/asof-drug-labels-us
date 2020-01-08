@@ -14,7 +14,7 @@ Inform patients that BRYHALI Lotion is to be used as directed by the physician a
 Total dosage should not exceed 50 grams per week [see Dosage and Administration (2)].
 
 Instruct patients to avoid bandaging, wrapping or otherwise occluding the treatment area(s), unless directed by physician.
-Advise patients to avoid use on the face, groin, or axillae [see Dosage andAdministration (2)].
+Advise patients to avoid use on the face, groin, or axillae [see Dosage and Administration (2)].
 
 Inform patients that BRYHALI Lotion is for external use only.
 Advise patients that BRYHALI Lotion is not for oral, ophthalmic, or intravaginal use [see Dosage and Administration (2)].
@@ -33,22 +33,12 @@ Local Adverse Reactions
 Inform patients that BRYHALI Lotion may cause local adverse reactions.
 These reactions may be more likely to occur with occlusive use or prolonged use of BRYHALI Lotion [see Warnings and Precautions (5.2)].
 
-Manufactured for:
+Manufactured for: Bausch Health Americas, Inc. Bridgewater, NJ 08807 USA
 
-Dow Pharmaceutical Sciences, a division of Valeant Pharmaceuticals North America LLC
-
-Bridgewater, NJ 08807 USA
-
-By:
-
-Valeant Pharmaceuticals International, Inc.
-
-Laval, Quebec H7L 4A8, Canada
+Manufactured by: Bausch Health Companies Inc. Laval, Quebec H7L 4A8, Canada
 
 U.S. Patent Numbers: 6,517,847 and 8,809,307
 
-Bryhali and Ortho Dermatologics are trademarks of Valeant Pharmaceuticals International, Inc. or its affiliates.
+BRYHALI is a trademark of Bausch Health Companies Inc. or its affiliates.
 
-© 2018 Valeant Pharmaceuticals North America LLC
-
-- 9652102
+© 2019 Bausch health Companies Inc. or its affiliates 9652103

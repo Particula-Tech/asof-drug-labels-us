@@ -17,6 +17,6 @@ Table 2: Primary Efficacy Results at Week 8 in Subjects with Moderate to Severe 
 | --- | --- | --- | --- | --- |
 |  | Trial 1 |  | Trial 2 |  |
 | BRYHALI | Vehicle | BRYHALI | Vehicle |  |
-| IGA Treatment Success at Week 8Treatment success was defined as at least a 2-grade improvement from baseline in IGA score and an IGA score equating to “clear” or “almost clear”. Clear = no evidence of scaling, no evidence of erythema, no evidence of plaque elevation above normal skin level. Almost clear = some plaques with fine scales, faint pink/light red erythema on most plaques, slight or barely perceptible elevation of plaques above normal skin level. | 37% | 8% | 38% | 12% |
+| IGA Treatment Success at Week 8 | 37% | 8% | 38% | 12% |
 
 *The treatment difference at Week 2 in Trial 2 was not statistically significant.

@@ -2,12 +2,12 @@
 
 PATIENT INFORMATION
 
-BRYHALI™ (bry-HAL-ee)
+BRYHALI® (bry-HAL-ee)
 
 (halobetasol propionate) Lotion
 
 Important: BRYHALI is for use on the skin only.
-Do not apply BRYHALI in yourmouth, eyes, or vagina.
+Do not apply BRYHALI in your mouth, eyes, or vagina.
 
 What is BRYHALI?
 
@@ -26,7 +26,7 @@ Before using BRYHALI, tell your doctor about all of your medical conditions, inc
 - •are pregnant or plan to become pregnant.
   It is not known if BRYHALI will harm your unborn baby.
 - •are breastfeeding or plan to breastfeed.
-  It is not known ifBRYHALI passes into your breast milk.
+  It is not known if BRYHALI passes into your breast milk.
   If you use BRYHALI and breastfeed, do not apply BRYHALI to your nipple or areola to avoid getting BRYHALI into your baby’s mouth.
 
 Tell your doctor about all the medicines you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements.
@@ -87,18 +87,14 @@ Active ingredients: halobetasol propionate
 
 Inactive ingredients: carbomer copolymer type B, carbomer homopolymer type A, diethyl sebacate, edetate disodium dihydrate, light mineral oil, methylparaben, propylparaben, purified water, sodium hydroxide, sorbitan monooleate and sorbitol solution, 70%.
 
-Manufactured for: Dow Pharmaceutical Sciences, a division of Valeant Pharmaceuticals North America LLC, Bridgewater, NJ 08807 USA
-
-By: Valeant Pharmaceuticals International, Inc., Laval, Quebec H7L 4A8, Canada
+Manufactured for: Bausch Health Americas, Inc., Bridgewater, NJ 08807 USA Manufactured by: Bausch Health Companies Inc., Laval, Quebec H7L 4A8, Canada
 
 U.S. Patent Numbers: 6,517,847 and 8,809,307
 
-Bryhali and Ortho Dermatologics are trademarks of Valeant Pharmaceuticals International, Inc. or its affiliates.
+BRYHALI is a trademark of Bausch Health Companies Inc. or its affiliates.
 
-© 2018 Valeant Pharmaceuticals North America LLC
+© 2019 Bausch Health Companies Inc. or its affiliates
 
-- For more information, go to www.bauschhealth.com or call 1-800-321-4576
-
-1. This Patient Information has been approved by the U.S. Food and Drug Administration.
-   Issued: 11/2018
-2. 9652102
+- For more information, go to www.bauschhealth.com or call 1-800-321-4576.
+- This Patient Information has been approved by the U.S. Food and Drug Administration.
+- 9652103 Revised: 09/2019
