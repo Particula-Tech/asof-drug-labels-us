@@ -4,7 +4,7 @@ NDC 0310-0280-60 60 tablets
 
 SEROQUEL XR®
 
-(quetiapine fumarate)
+quetiapine fumarate
 
 extended-release tablets
 
@@ -28,7 +28,7 @@ NDC 0310-0281-60 60 tablets
 
 SEROQUEL XR®
 
-(quetiapine fumarate)
+quetiapine fumarate
 
 extended-release tablets
 
@@ -52,7 +52,7 @@ NDC 0310-0282-60 60 tablets
 
 SEROQUEL XR®
 
-(quetiapine fumarate)
+quetiapine fumarate
 
 extended-release tablets
 
@@ -74,7 +74,7 @@ NDC 0310-0283-60 60 tablets
 
 SEROQUEL XR®
 
-(quetiapine fumarate)
+quetiapine fumarate
 
 extended-release tablets
 
@@ -102,7 +102,7 @@ NDC 0310-0284-60 60 tablets
 
 SEROQUEL XR®
 
-(quetiapine fumarate)
+quetiapine fumarate
 
 extended-release tablets
 

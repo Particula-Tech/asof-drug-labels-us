@@ -95,11 +95,11 @@ Table 27: Mania Trials
 
 | Study Number | Treatment Group | Primary Efficacy Measure: YMRS Total |  |  |
 | --- | --- | --- | --- | --- |
-| Mean Baseline Score (SD)Adult data mean baseline score is based on patients included in the primary analysis; pediatric mean baseline score is based on all patients in the ITT population. | LS Mean Change from Baseline (SE) | Placebo-subtracted DifferenceIncluded in the trial as an active comparator.(95% CI) |  |  |
+| Mean Baseline Score (SD)Adult data mean baseline score is based on patients included in the primary analysis; pediatric mean baseline score is based on all patients in the ITT population. | LS Mean Change from Baseline (SE) | Placebo-subtracted DifferenceDifference (drug minus placebo) in least-squares mean change from baseline.(95% CI) |  |  |
 | Study 1 | SEROQUEL XR (400-800 mg/day)Doses that are statistically significantly superior to placebo. | 28.8 (5.4) | -14.3 (0.9) | -3.8 (-5.7, -2.0) |
 | Placebo | 28.4 (5.1) | -10.5 (0.9) | -- |  |
 | Study 2 | SEROQUEL (200-800 mg/day) | 34.0 (6.1) | -12.3 (1.3) | -4.0 (-7.0, -1.0) |
-| Haloperidol | 32.3 (6.0) | -15.7 (1.3) | -7.4 (-10.4, -4.4) |  |
+| HaloperidolIncluded in the trial as an active comparator. | 32.3 (6.0) | -15.7 (1.3) | -7.4 (-10.4, -4.4) |  |
 | Placebo | 33.1 (6.6) | -8.3 (1.3) | -- |  |
 | Study 3 | SEROQUEL (200-800 mg/day) | 32.7 (6.5) | -14.6 (1.5) | -7.9 (-10.9, -5.0) |
 | Lithium | 33.3 (7.1) | -15.2 (1.6) | -8.5 (-11.5, -5.5) |  |
