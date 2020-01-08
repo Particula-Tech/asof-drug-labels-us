@@ -35,9 +35,7 @@ Table 2: CLOZARIL Treatment Recommendations Based on Absolute Neutrophil Count (
 | Moderate Neutropenia (500 to 999/µL)* | Recommend hematology consultationInterrupt treatment for suspected clozapine induced neutropeniaResume treatment once ANC ≥1000/µL | Daily until ANC ≥1000/µL, thenThree times weekly until ANC ≥1500/µLOnce ANC ≥1500/µL, check ANC weekly for 4 weeks, then return to patient’s last “Normal Range” ANC monitoring interval** |
 | Severe Neutropenia (less than 500/µL)* | Recommend hematology consultationInterrupt treatment for suspected clozapine-induced neutropeniaDo not rechallenge unless prescriber determines benefits outweigh risks | Daily until ANC ≥1000/µL, thenThree times weekly until ANC ≥1500/µLIf patient rechallenged, resume treatment as a new patient under “Normal Range” monitoring once ANC ≥1500/µL |
 
-* Confirm all initial reports of ANC less than 1500/ µL with a repeat ANC measurement within 24 hours
-
-** If clinically appropriate
+* Confirm all initial reports of ANC less than 1500/ µL with a repeat ANC measurement within 24 hours ** If clinically appropriate
 
 CLOZARIL Treatment and Monitoring in Patients with Benign Ethnic Neutropenia (see Table 3)
 
@@ -60,8 +58,8 @@ Table 3: Patients with Benign Ethnic Neutropenia (BEN); CLOZARIL Treatment Recom
 | Discontinuation of treatment for reasons other than neutropenia | See Section 2.4 |  |
 | BEN Neutropenia 500 to 999/µL* | Recommend hematology consultationContinue treatment | Three times weekly until ANC ≥ 1000/µL or ≥ patient’s known baselineOnce ANC ≥ 1000/µL or at patient’s known baseline, check ANC weekly for 4 weeks, then return to patient’s last “Normal BEN Range” ANC monitoring interval.** |
 | BEN Severe Neutropenia less than 500/µL* | Recommend hematology consultationInterrupt treatment for suspected clozapine-induced neutropeniaDo not rechallenge unless prescriber determines benefits outweigh risks | Daily until ANC ≥500/µL, thenThree times weekly until ANC ≥ patient’s baselineIf patient rechallenged, resume treatment as a new patient under “Normal Range” monitoring once ANC ≥1000/µL or at patient’s baseline |
-| * Confirm all initial reports of ANC less than 1500/µL with a repeat ANC measurement within 24 hours |  |  |
-| ** If clinically appropriate |  |  |
+
+* Confirm all initial reports of ANC less than 1500/µL with a repeat ANC measurement within 24 hours ** If clinically appropriate
 
 General Guidelines for Management of All Patients with Fever or with Neutropenia
 
@@ -291,7 +289,7 @@ Mean Change in Body Weight (kg) by Duration of Exposure from Studies in Adult Su
 
 | Metabolic parameter | Exposure duration | CLOZARIL(N=669) |  | Olanzapine (N=442) |  | Chlorpromazine (N=155) |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-|  |  | n | Mean | n | Mean | n | Mean |
+| n | Mean | n | Mean | n | Mean |  |  |
 | Weight change from baseline | 2 weeks (Day 11–17) | 6 | +0.9 | 3 | +0.7 | 2 | -0.5 |
 | 4 weeks (Day 21–35) | 23 | +0.7 | 8 | +0.8 | 17 | +0.6 |  |
 | 8 weeks (Day 49–63) | 12 | +1.9 | 13 | +1.8 | 16 | +0.9 |  |
