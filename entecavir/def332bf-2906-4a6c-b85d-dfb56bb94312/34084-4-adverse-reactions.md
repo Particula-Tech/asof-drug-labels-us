@@ -110,16 +110,50 @@ The safety profile of entecavir 1 mg (n=51) in HIV/HBV co-infected subjects enro
 Liver Transplant Recipients Among 65 subjects receiving entecavir in an open-label, post-liver transplant trial [see Use in Specific Populations (8.8)], the frequency and nature of adverse events were consistent with those expected in patients who have received a liver transplant and the known safety profile of entecavir.
 Clinical Trial Experience in Pediatric Subjects
 
-The safety of entecavir in pediatric subjects 2 to less than 18 years of age is based on two ongoing clinical trials in subjects with chronic HBV infection (one Phase 2 pharmacokinetic trial [AI463028] and one Phase 3 trial [AI463189]).
-These trials provide experience in 168 HBeAg-positive subjects treated with entecavir for a median duration of 72 weeks.
+The safety of entecavir in pediatric subjects 2 to less than 18 years of age is based on two clinical trials in subjects with chronic HBV infection (one Phase 2 pharmacokinetic trial [AI463028] and one Phase 3 trial [AI463189]).
+These trials provided experience in 168 HBeAg-positive subjects treated with entecavir for a median duration of 72 weeks.
 The adverse reactions observed in pediatric subjects who received treatment with entecavir were consistent with those observed in clinical trials of entecavir in adults.
 Adverse drug reactions reported in greater than 1% of pediatric subjects included abdominal pain, rash events, poor palatability (“product taste abnormal”), nausea, diarrhea, and vomiting.
 
 ## 6.2 Postmarketing Experience
 
+Data from Long-Term Observational Study
+
+Study AI463080 was a randomized, global, observational, open-label Phase 4 study to assess long-term risks and benefits of entecavir (0.5 mg/day or 1 mg/day) treatment as compared to other standard-of-care HBV nucleos(t)ide analogues in subjects with chronic HBV infection.
+
+A total of 12,378 patients were treated with entecavir (n=6,216) or other HBV nucleos(t)ide treatment [non-entecavir (ETV)] (n=6,162).
+Patients were evaluated at baseline and subsequently every 6 months for up to 10 years.
+The principal clinical outcome events assessed during the study were overall malignant neoplasms, liver-related HBV disease progression, HCC, non-HCC malignant neoplasms, and death.
+The study showed that entecavir was not significantly associated with an increased risk of malignant neoplasms compared to other standard-of-care HBV nucleos(t)ides, as assessed by either the composite endpoint of overall malignant neoplasms or the individual endpoint of non-HCC malignant neoplasms.
+The most commonly reported malignancy in both the entecavir and non-ETV groups was HCC followed by gastrointestinal malignancies.
+The data also showed that long-term entecavir use was not associated with a lower occurrence of HBV disease progression or a lower rate of death overall compared to other HBV nucleos(t)ides.
+The principal clinical outcome event assessments are shown in Table 6.
+
+| Table 6: Principal Analyses of Time to Adjudicated Events - Randomized Treated Subjects |  |  |  |
+| --- | --- | --- | --- |
+| Endpointc | Number of Subjects with Events |  |  |
+| Entecavir N=6,216 | Non-ETV N=6,162 | Hazard Ratio [Entecavir:Non-ETV] (CIa) |  |
+| Primary Endpoints |  |  |  |
+| Overall malignant neoplasm | 331 | 337 | 0.93 (0.800, 1.084) |
+| Liver-related HBV disease progression | 350 | 375 | 0.89 (0.769, 1.030) |
+| Death | 238 | 264 | 0.85 (0.713, 1.012) |
+| Secondary Endpoints |  |  |  |
+| Non-HCC malignant neoplasm | 95 | 81 | 1.10 (0.817, 1.478) |
+| HCC | 240b | 263 | 0.87 (0.727, 1.032) |
+| Analyses were stratified by geographic region and prior HBV nucleos(t)ide experience. a 95.03% CI for overall malignant neoplasm, death, and liver-related HBV disease progression; 95% CI for non-HCC malignant neoplasm and HCC. b One subject had a pre-treatment HCC event and was excluded from the analysis. c Overall malignant neoplasm is a composite event of HCC or non-HCC malignant neoplasm. Liver-related HBV disease progression is a composite event of liver-related death, HCC, or non-HCC HBV disease progression. CI = confidence interval; N = total number of subjects. |  |  |  |
+
+Limitations of the study included population changes over the long-term follow-up period and more frequent post-randomization treatment changes in the non-ETV group.
+In addition, the study was underpowered to demonstrate a difference in the non-HCC malignancy rate because of the lower than expected background rate.
+
+Adverse Reactions from Postmarketing Spontaneous Reports
+
 The following adverse reactions have been reported during postmarketing use of entecavir.
 Because these reactions were reported voluntarily from a population of unknown size, it is not possible to reliably estimate their frequency or establish a causal relationship to entecavir exposure.
+
 Immune system disorders: Anaphylactoid reaction.
+
 Metabolism and nutrition disorders: Lactic acidosis.
+
 Hepatobiliary disorders: Increased transaminases.
+
 Skin and subcutaneous tissue disorders: Alopecia, rash.

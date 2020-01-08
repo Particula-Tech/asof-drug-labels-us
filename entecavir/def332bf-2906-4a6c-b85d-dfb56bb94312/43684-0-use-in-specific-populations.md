@@ -26,7 +26,7 @@ Animal Data
 Entecavir was administered orally to pregnant rats (at 2, 20, and 200 mg per kg per day) and rabbits (at 1, 4, and 16 mg per kg per day) during organogenesis (on gestation Days 6 through 15 [rat] and 6 through 18 [rabbit]).
 In rats, embryofetal toxicity including post-implantation loss, resorptions, tail and vertebral malformations, skeletal variations including reduced ossification (vertebrate, sternebrae, and phalanges) and extra lumbar vertebrae and ribs, and lower fetal body weights were observed at systemic exposures (AUC) 3,100 times those in humans at the MRHD.
 Maternal toxicity was also observed at this dose level.
-In rabbits, embryofetal toxicity including postimplantation loss, resorptions and skeletal variations, including reduced ossification (hyoid) and increased incidence of 13th rib, were observed at systemic exposures (AUC) 883 times those in humans at the MRHD.
+In rabbits, embryofetal toxicity including post-implantation loss, resorptions and skeletal variations, including reduced ossification (hyoid) and increased incidence of 13th rib, were observed at systemic exposures (AUC) 883 times those in humans at the MRHD.
 There were no signs of embryofetal toxicity when pregnant animals received oral entecavir at 28 (rat) and 212 (rabbit) times the human exposure (AUC) at the MRHD.
 In a pre/postnatal development study, entecavir was administered orally to pregnant rats at 0.3, 3, and 30 mg per kg per day from gestation day 6 to lactation/post-partum day 20.
 No adverse effects on the offspring occurred at up to the highest dose evaluated, resulting in exposures (AUC) greater than 94 times those in humans at the MRHD.
@@ -80,7 +80,7 @@ Dosage adjustment of entecavir is recommended for patients with creatinine clear
 The safety and efficacy of entecavir were assessed in a single-arm, open-label trial in 65 subjects who received a liver transplant for complications of chronic HBV infection.
 Eligible subjects who had HBV DNA less than 172 IU/mL (approximately 1000 copies/mL) at the time of transplant were treated with entecavir 1 mg once daily in addition to usual post-transplantation management, including hepatitis B immune globulin.
 The trial population was 82% male, 39% Caucasian, and 37% Asian, with a mean age of 49 years; 89% of subjects had HBeAg-negative disease at the time of transplant.
-Four of the 65 subjects received 4 weeks or less of entecavir (2 deaths, 1 retransplantation, and 1 protocol violation) and were not considered evaluable.
+Four of the 65 subjects received 4 weeks or less of entecavir (2 deaths, 1 re-transplantation, and 1 protocol violation) and were not considered evaluable.
 Of the 61 subjects who received more than 4 weeks of entecavir, 60 received hepatitis B immune globulin post-transplant.
 Fifty-three subjects (82% of all 65 subjects treated) completed the trial and had HBV DNA measurements at or after 72 weeks treatment post-transplant.
 All 53 subjects had HBV DNA <50 IU/mL (approximately 300 copies/mL).

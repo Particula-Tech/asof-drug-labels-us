@@ -30,22 +30,22 @@ Entecavir AUC was 29.3% greater in elderly subjects compared to young subjects.
 The disparity in exposure between elderly and young subjects was most likely attributable to differences in renal function.
 Dosage adjustment of entecavir should be based on the renal function of the patient, rather than age [see Dosage and Administration (2.4)].
 Pediatrics: The steady-state pharmacokinetics of entecavir were evaluated in nucleosideinhibitor-naïve and lamivudine-experienced HBeAg-positive pediatric subjects 2 to less than 18 years of age with compensated liver disease.
-Results are shown in Table 6.
+Results are shown in Table 7.
 Entecavir exposure among nucleoside-inhibitor-naïve subjects was similar to the exposure achieved in adults receiving once-daily doses of 0.5 mg.
 Entecavir exposure among lamivudine-experienced subjects was similar to the exposure achieved in adults receiving once-daily doses of 1 mg.
 
-| Table 6: Pharmacokinetic Parameters in Pediatric Subjects |  |  |
+| Table 7: Pharmacokinetic Parameters in Pediatric Subjects |  |  |
 | --- | --- | --- |
 |  | Nucleoside-Inhibitor-Naivea n=24 | Lamivudine-Experiencedb n=19 |
 | Cmax (ng/mL) (CV%) | 6.31 (30) | 14.48 (31) |
-| AUC(0-24) (ng.h/mL) (CV%) | 18.33 (27) | 38.58 (26) |
+| AUC(0-24) (ng•h/mL) (CV%) | 18.33 (27) | 38.58 (26) |
 | Cmin (ng/mL) (CV%) | 0.28 (22) | 0.47 (23) |
 | a Subjects received once-daily doses of 0.015 mg/kg up to a maximum of 0.5 mg. b Subjects received once-daily doses of 0.030 mg/kg up to a maximum of 1 mg. |  |  |
 
 Renal impairment: The pharmacokinetics of entecavir following a single 1 mg dose were studied in subjects (without chronic hepatitis B virus infection) with selected degrees of renal impairment, including subjects whose renal impairment was managed by hemodialysis or continuous ambulatory peritoneal dialysis (CAPD).
-Results are shown in Table 7 [see Dosage and Administration (2.4)].
+Results are shown in Table 8 [see Dosage and Administration (2.4)].
 
-Table 7: Pharmacokinetic Parameters in Subjects with Selected Degrees of Renal Function
+Table 8: Pharmacokinetic Parameters in Subjects with Selected Degrees of Renal Function
 
 | Renal Function Group |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
