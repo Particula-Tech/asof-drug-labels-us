@@ -1,0 +1,30 @@
+{
+  "application_numbers": [
+    "ANDA078702"
+  ],
+  "inn": "candesartan",
+  "labeler": "Mylan Pharmaceuticals Inc.",
+  "package_ndcs": [
+    "0378-3224-05",
+    "0378-3224-77",
+    "0378-3224-93",
+    "0378-3225-05",
+    "0378-3225-77",
+    "0378-3225-93",
+    "0378-3231-05",
+    "0378-3231-77",
+    "0378-3231-93",
+    "0378-3232-05",
+    "0378-3232-77",
+    "0378-3232-93"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "candesartan cilexetil",
+      "name": "candesartan cilexetil"
+    }
+  ],
+  "setid": "904b357e-97bf-475e-90a5-f0449f2a428e",
+  "source": "dailymed"
+}
