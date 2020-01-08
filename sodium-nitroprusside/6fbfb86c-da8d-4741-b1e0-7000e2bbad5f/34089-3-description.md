@@ -10,6 +10,6 @@ Sodium nitroprusside solution is rapidly degraded by trace contaminants, often w
 (See DOSAGE AND ADMINISTRATION section.)
 The solution is also sensitive to certain wavelengths of light, and it must be protected from light in clinical use.
 
-Sodium Nitroprusside Injection is available as:
+Sodium Nitroprusside Injection is a clear, reddish brown solution and is available as:
 
 50 mg Single Dose Vial – Each 2 mL vial contains the equivalent of 50 mg sodium nitroprusside dihydrate in sterile water for injection.

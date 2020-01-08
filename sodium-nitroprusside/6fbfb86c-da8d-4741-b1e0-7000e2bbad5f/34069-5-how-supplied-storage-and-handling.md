@@ -11,4 +11,4 @@ Manufactured for: Mylan Institutional LLC Rockford, IL 61103 U.S.A.
 
 Manufactured by: Mylan Laboratories Limited Bangalore, India
 
-MARCH 2018
+DECEMBER 2019
