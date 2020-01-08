@@ -113,13 +113,13 @@ CRESTOR 20 mg significantly reduced LDL-C, total cholesterol, ApoB, and non-HDL-
 Table 11.
 Lipid-modifying Effects of Rosuvastatin in Pediatric Patients 7 to 15 years of Age with Homozygous Familial Hypercholesterolemia After 6 Weeks
 
-|  | Placebo(N=13) | CRESTOR 20 mg(N=13) | Percent difference (95% CI) |  |
-| --- | --- | --- | --- | --- |
-| LDL-C (mg/dL) | 481 | 396 | -22.3% (-33.5, -9.1)p=0.005 |  |
-| Total-C (mg/dL) | 539 | 448 | -20.1% (-29.7, -9.1)p=0.003 |  |
-| Non-HDL-C (mg/dL) | 505 | 412 | -22.9% (-33.7, ‑10.3) |  |
-| ApoB (mg/dL) | 268 | 235 | -17.1% (-29.2, -2.9)p=0.024 |  |
-| % Difference estimates are based on transformations of the estimated mean difference in log LDL measurements between CRESTOR and placebo using a mixed model adjusted for study period |  |  |  |  |
+|  | Placebo(N=13) | CRESTOR 20 mg(N=13) | Percent difference (95% CI) |
+| --- | --- | --- | --- |
+| LDL-C (mg/dL) | 481 | 396 | -22.3% (-33.5, -9.1)p=0.005 |
+| Total-C (mg/dL) | 539 | 448 | -20.1% (-29.7, -9.1)p=0.003 |
+| Non-HDL-C (mg/dL) | 505 | 412 | -22.9% (-33.7, ‑10.3) |
+| ApoB (mg/dL) | 268 | 235 | -17.1% (-29.2, -2.9)p=0.024 |
+| % Difference estimates are based on transformations of the estimated mean difference in log LDL measurements between CRESTOR and placebo using a mixed model adjusted for study period |  |  |  |
 
 ## 14.7 Pediatric Patients with Heterozygous Familial Hypercholesterolemia
 
