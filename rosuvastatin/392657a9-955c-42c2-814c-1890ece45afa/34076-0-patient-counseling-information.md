@@ -26,10 +26,6 @@ Liver Enzymes
 It is recommended that liver enzyme tests be performed before the initiation of rosuvastatin calcium and if signs or symptoms of liver injury occur.
 All patients treated with rosuvastatin calcium should be advised to promptly report any symptoms that may indicate liver injury, including fatigue, anorexia, right upper abdominal discomfort, dark urine or jaundice.
 
-Manufactured by:
-
-Glenmark Pharmaceuticals Ltd. Colvale-Bardez, Goa 403513, India
-
 Manufactured for:
 
 Glenmark Pharmaceuticals Inc., USA Mahwah, NJ 07430

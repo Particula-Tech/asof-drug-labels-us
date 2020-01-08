@@ -152,10 +152,6 @@ You can ask your pharmacist or doctor for information about rosuvastatin calcium
 
 This Patient Information has been approved by the U.S. Food and Drug Administration
 
-Manufactured by:
-
-Glenmark Pharmaceuticals Ltd. Colvale-Bardez, Goa 403513, India
-
 Manufactured for:
 
 Glenmark Pharmaceuticals Inc., USA Mahwah, NJ 07430
