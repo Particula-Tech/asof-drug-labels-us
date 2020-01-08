@@ -33,5 +33,5 @@ Dexmethylphenidate hydrochloride tablets are administered orally twice daily, at
 
 ## 2.4 Dose Reduction and Discontinuation
 
-If paradoxical aggravation of symptoms or other adverse reactions occur, reduce the dosage, or if necessary, discontinued dexmethylphenidate hydrochloride tablets.
+If paradoxical aggravation of symptoms or other adverse reactions occur, reduce the dosage, or if necessary, discontinue dexmethylphenidate hydrochloride tablets.
 If improvement is not observed after appropriate dosage adjustment over a one-month period, the drug should be discontinued.

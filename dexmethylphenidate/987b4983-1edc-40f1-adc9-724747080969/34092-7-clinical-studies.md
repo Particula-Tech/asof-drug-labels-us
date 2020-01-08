@@ -1,6 +1,6 @@
 # 14 CLINICAL STUDIES
 
-The efficacy of dexmethylphenidate hydrochloride tablets for the treatment of ADHD was established in two double-blind, parallel-group, placebo-controlled trials in untreated or previously treated patients (ages 6 to 17 years old) who met DSM-IV criteria for ADHD inattentive, hyperactive-impulsive or combined inattentive/hyperactive-impulsive subtypes.
+The efficacy of dexmethylphenidate hydrochloride tablets for the treatment of ADHD was established in two double-blind, parallel-group, placebo-controlled trials in untreated or previously treated patients (ages 6 to 17 years old) who met DSM-IV criteria for ADHD inattentive, hyperactive-impulsive, or combined inattentive/hyperactive-impulsive subtypes.
 The sample was predominantly younger (ages 6 to 12 years); thus, the findings are most pertinent to this age group.
 
 In Study 1, patients were randomized to receive either dexmethylphenidate hydrochloride tablets (5, 10, or 20 mg/day total dose), racemic methylphenidate HCl (10, 20, or 40 mg/day total dose), or placebo in a multicenter, 4-week, parallel group study in 132 pediatric patients.
@@ -18,7 +18,7 @@ Table 3: Summary of Efficacy Results from ADHD Acute-Phase Study in Pediatric Pa
 | Study 1 | Dexmethylphenidate Hydrochloride Tablets5 to 20 mg/dayb (n = 44) | 1.4 (0.7) (n = 42) | - 0.7 (0.7) (n = 42) |
 | Placebo (n = 42) | 1.6 (0.7) (n = 41) | - 0.2 (0.7) (n = 39) |  |
 
-Abbreviation: SD: standard deviation; n = number of patients available at the assessment time point.
+ADHD: Attention Deficit Hyperactivity Disorder, SD: standard deviation; n = number of patients available at the assessment time point.
 
 aAverage of two ratings.
 
@@ -29,13 +29,15 @@ Children took study medication twice a day separated by a 3.5 to 5.5 hour interv
 The primary outcome was proportion of treatment failures at the end of the 2-week withdrawal phase, where treatment failure was defined as a rating of 6 (much worse) or 7 (very much worse) on the Investigator Clinical Global Impression - Improvement (CGI-I).
 Patients continued on dexmethylphenidate hydrochloride tablets showed a statistically significant lower rate of failure over patients who received placebo (Table 4).
 
-Table 4: Summary of Efficacy Results from ADHD Randomized Withdrawal Study in Pediatric Patients (6 to 17 years) (Study 2)
+Table 4: Summary of Efficacy Results From ADHD Randomized Withdrawal Study in Pediatric Patients (6 to 17 years) (Study 2)
 
 | Study Number | Treatment Group | Primary Efficacy Measure: Proportion of Treatment Failurea |  |
 | --- | --- | --- | --- |
 | Number of Treatment Failures/Number of Randomized Patients | Percentage |  |  |
 | Study 2 | Dexmethylphenidate Hydrochloride Tablets5 to 20 mg/dayb | 6/35 | 17.1% |
 | Placebo | 25/40 | 62.5% |  |
+
+ADHD: Attention Deficit Hyperactivity Disorder.
 
 aOne patient did not have the value at Visit 10 and hence not included in this analysis.
 

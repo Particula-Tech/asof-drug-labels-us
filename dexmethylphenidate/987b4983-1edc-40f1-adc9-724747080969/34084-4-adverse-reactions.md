@@ -5,7 +5,7 @@ The following are discussed in more detail in other sections of the labeling:
 - •Abuse and Dependence [see Boxed Warning, Warnings and Precautions (5.1), Drug Abuse and Dependence (9.2, 9.3)]
 - •Known hypersensitivity to methylphenidate or other ingredients of dexmethylphenidate hydrochloride tablets [see Contraindications (4)]
 - •Hypertensive crisis with Concomitant Use of Monoamine Oxidase Inhibitors [see Contraindications (4), Drug Interactions (7.1)]
-- •Serious Cardiovascular Events [see Warnings and Precautions (5.2)]
+- •Serious Cardiovascular Reactions [see Warnings and Precautions (5.2)]
 - •Blood Pressure and Heart Rate Increases [see Warnings and Precautions (5.3)]
 - •Psychiatric Adverse Reactions [see Warnings and Precautions (5.4)]
 - •Priapism [see Warnings and Precautions (5.5)]
@@ -28,7 +28,7 @@ The most common reasons for discontinuation were twitching (described as motor o
 Table 1 enumerates adverse reactions for two, placebo-controlled, parallel group studies in pediatric patients with ADHD taking dexmethylphenidate hydrochloride tablets doses of 5, 10, and 20 mg/day.
 The table includes only those reactions that occurred in patients treated with dexmethylphenidate hydrochloride tablets for which the incidence was at least 5% and twice the incidence among placebo-treated patients.
 
-Table 1: Common Adverse Reactions in Pediatric Patients (6 to 17 years of age) with ADHD
+Table 1: Common Adverse Reactions in Pediatric Patients (6 to 17 years of age) with ADHD*
 
 | System Organ Class | Adverse Reactions | Dexmethylphenidate Hydrochloride Tablets(N = 79) | Placebo(N = 82) |
 | --- | --- | --- | --- |
@@ -37,9 +37,11 @@ Table 1: Common Adverse Reactions in Pediatric Patients (6 to 17 years of age) w
 | Digestive System | Anorexia | 6% | 1% |
 | Nausea | 9% | 1% |  |
 
+* ADHD: Attention Deficit Hyperactivity Disorder
+
 ## 6.2 Postmarketing Experience
 
-The following additional adverse reactions have been identified during postapproval use of dexmethylphenidate.
+The following additional adverse reactions have been identified during post-approval use of dexmethylphenidate.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 Musculoskeletal: rhabdomyolysis
@@ -77,7 +79,7 @@ Musculoskeletal and Connective Tissue Disorders: arthralgia, muscle cramps, rhab
 
 Investigations: weight loss (adult ADHD patients)
 
-Additional Adverse Reactions Reported with Other Methylphenidate-Containing Products The list below shows adverse reactions not listed with methylphenidate hydrochloride and dexmethylphenidate hydrochloride formulations [see Adverse Reactions (6.2)] that have been reported with other methylphenidate products based on clinical trials data and postmarketing spontaneous reports.
+Additional Adverse Reactions Reported with Other Methylphenidate-Containing Products The list below shows adverse reactions not listed with methylphenidate hydrochloride and dexmethylphenidate hydrochloride formulations [see Adverse Reactions (6.2)] that have been reported with other methylphenidate products based on clinical trials data and post-marketing spontaneous reports.
 
 Blood and Lymphatic Disorders: pancytopenia
 
