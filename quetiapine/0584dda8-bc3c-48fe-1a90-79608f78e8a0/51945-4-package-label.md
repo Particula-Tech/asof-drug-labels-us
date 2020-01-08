@@ -4,9 +4,9 @@ NDC 0310-0275-10 100 tablets
 
 SeroQUEL®
 
-(quetiapine fumarate)
+quetiapine fumarate
 
-25mg* tablets
+25 mg tablets
 
 Rx only
 
@@ -24,9 +24,9 @@ NDC 0310-0278-10 100 tablets
 
 SeroQUEL®
 
-(quetiapine fumarate)
+quetiapine fumarate
 
-50mg* tablets
+50 mg tablets
 
 Rx only
 
@@ -44,9 +44,9 @@ NDC 0310-0271-10 100 tablets
 
 SeroQUEL®
 
-(quetiapine fumarate)
+quetiapine fumarate
 
-100mg* tablets
+100 mg tablets
 
 Rx only
 
@@ -64,9 +64,9 @@ NDC 0310-0272-10 100 tablets
 
 SeroQUEL®
 
-(quetiapine fumarate)
+quetiapine fumarate
 
-200mg* tablets
+200 mg tablets
 
 Rx only
 
@@ -84,9 +84,9 @@ NDC 0310-0274-60 60 tablets
 
 SeroQUEL®
 
-(quetiapine fumarate)
+quetiapine fumarate
 
-300mg* tablets
+300 mg tablets
 
 Rx only
 
@@ -104,9 +104,9 @@ NDC 0310-0279-10 100 tablets
 
 SeroQUEL®
 
-(quetiapine fumarate)
+quetiapine fumarate
 
-400mg* tablets
+400 mg tablets
 
 Rx only
 

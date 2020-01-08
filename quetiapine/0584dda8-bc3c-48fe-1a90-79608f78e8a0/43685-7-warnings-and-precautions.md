@@ -396,8 +396,7 @@ SEROQUEL and other antipsychotic drugs should be used cautiously in patients at 
 Acute withdrawal symptoms, such as insomnia, nausea, and vomiting have been described after abrupt cessation of atypical antipsychotic drugs, including SEROQUEL.
 In short-term placebo-controlled, monotherapy clinical trials with SEROQUEL XR that included a discontinuation phase which evaluated discontinuation symptoms, the aggregated incidence of patients experiencing one or more discontinuation symptoms after abrupt cessation was 12.1% (241/1993) for SEROQUEL XR and 6.7% (71/1065) for placebo.
 The incidence of the individual adverse reactions (i.e., insomnia, nausea, headache, diarrhea, vomiting, dizziness, and irritability) did not exceed 5.3% in any treatment group and usually resolved after 1 week post-discontinuation.
-Gradual withdrawal is advised.
-[see Use in Specific Populations (8.1)]
+Gradual withdrawal is advised [see Use in Specific Populations (8.1)].
 
 ## 5.20 Anticholinergic (antimuscarinic) Effects
 
