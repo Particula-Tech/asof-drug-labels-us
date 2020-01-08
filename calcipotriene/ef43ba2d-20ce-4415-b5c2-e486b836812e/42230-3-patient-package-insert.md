@@ -12,7 +12,7 @@ Important information: Taclonex® Ointment is for use on the skin only (topical 
 Do not use Taclonex® Ointment on the face, under arms or on groin area.
 Do not swallow Taclonex® Ointment.
 Another product, Taclonex® Topical Suspension contains the same medicine that is in Taclonex® Ointment and is used to treat plaque psoriasis on the scalp.
-If you use both medicines to treat your plaque psoriasis, be sure to follow your doctor’s directions carefully so that you do not use too much of one or both of these medications.
+If you use both medicines to treat your plaque psoriasis, be sure to follow your doctor's directions carefully so that you do not use too much of one or both of these medications.
 
 What is Taclonex® Ointment?
 Taclonex® Ointment is a prescription medicine that is for use on the skin only (a topical medicine).
@@ -43,7 +43,7 @@ Tell your doctor about all of your health conditions, including if you:
 - are breastfeeding or plan to breastfeed.
   It is not known if Taclonex® Ointment passes into your milk and if it can harm your baby.
   If you use Taclonex® Ointment while breastfeeding, use Taclonex® Ointment on the smallest area of skin and for the shortest time needed.
-  If you use Taclonex® Ointment, do not apply Taclonex® Ointment to your nipple or areola to avoid getting Taclonex® Ointment into your baby’s mouth.
+  If you use Taclonex® Ointment, do not apply Taclonex® Ointment to your nipple or areola to avoid getting Taclonex® Ointment into your baby's mouth.
 
 Tell your doctor about all the medicines you take, including prescription, and nonprescription medicines, vitamins and herbal supplements.
 

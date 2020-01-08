@@ -1,11 +1,19 @@
-# PRINCIPAL DISPLAY PANEL - CARTON 60 G
+# PRINCIPAL DISPLAY PANEL - 60 g Tube Carton
+
+LEO®
 
 NDC 50222-227-04
 
-Taclonex® (calcipotriene 0.005% and betamethasone dipropionate 0.064%) Ointment Rx only For Topical Use Only Net Wt.
+Rx only
+
+Taclonex® (calcipotriene 0.005% and betamethasone dipropionate 0.064%) Ointment
+
+For Topical Use Only
+
+Net Wt.
 60 g
 
-# PRINCIPAL DISPLAY PANEL - CARTON LABEL 100 G
+# PRINCIPAL DISPLAY PANEL - 100 g Tube Carton
 
 NDC 50222-227-81
 

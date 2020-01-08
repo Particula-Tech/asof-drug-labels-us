@@ -62,7 +62,7 @@ Risk Summary
 
 There is no information regarding the presence of topically administered calcipotriene and betamethasone dipropionate in human milk, the effects on the breastfed infant, or the effects on milk production.
 It is not known whether topically administered calcipotriene or corticosteroids could result in sufficient systemic absorption to produce detectable quantities in human milk.
-The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for Taclonex® Ointment and any potential adverse effects on the breastfed child from Taclonex® Ointment or from the underlying maternal condition.
+The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for Taclonex® Ointment and any potential adverse effects on the breastfed child from Taclonex® Ointment or from the underlying maternal condition.
 
 Clinical Considerations
 
@@ -82,7 +82,7 @@ No hypercalcemia was observed but one subject had a possible treatment-related i
 Because of a higher ratio of skin surface area to body mass, pediatric patients are at a greater risk than adults of systemic toxicity when treated with topical drugs.
 They are, therefore, also at greater risk of HPA axis suppression and adrenal insufficiency upon the use of topical corticosteroids [see Warnings and Precautions (5.2)].
 
-Rare systemic toxicities such as Cushing’s syndrome, linear growth retardation, delayed weight gain, and intracranial hypertension have been reported in pediatric patients, especially those with prolonged exposure to large doses of high potency topical corticosteroids.
+Rare systemic toxicities such as Cushing's syndrome, linear growth retardation, delayed weight gain, and intracranial hypertension have been reported in pediatric patients, especially those with prolonged exposure to large doses of high potency topical corticosteroids.
 
 Local adverse reactions including striae have also been reported with use of topical corticosteroids in pediatric patients.
 
