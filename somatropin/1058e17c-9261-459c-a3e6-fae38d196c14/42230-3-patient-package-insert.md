@@ -969,11 +969,11 @@ Revised: 08/2017
 | •Hold the Pen with the needle pointing up. Press and hold in the dose button until the dose counter returns to 0. The 0 must line up with the dose pointer. See figure G. |  |
 | •Check that a drop of Norditropin appears at the needle tip. See figure H. If no Norditropin appears, repeat step 2 up to 6 times.If you still do not see a drop of Norditropin, change the needle and repeat step 2 again.Do not use the Pen if a drop of Norditropin still does not appear after repeating step 2. Call Novo Nordisk at 1-888-668-6444 for help. |  |
 | Step 3. Select your dose |  |
-| •To start, check that the dose counter is set at 0.•Turn the dose selector clockwise to select the dose you need. See figure I. When you have selected your dose, you can proceed to step 4. If there is not enough Norditropin left to select a full dose, see Frequently Asked Questions. |  |
+| •To start, check that the dose counter is set at 0. •Turn the dose selector clockwise to select the dose you need. See figure I. When you have selected your dose, you can proceed to step 4. If there is not enough Norditropin left to select a full dose, see Frequently Asked Questions. |  |
 | The dose counter shows the dose in mg. See figures J and K. Always use the dose counter to select the exact dose. Do not count the Pen clicks. Do not use the Pen scale. |  |
-| If you select the wrong dose, you can turn the dose selector clockwise or counterclockwise to the correct dose. See figure L. The Pen clicks sound and feel differently when the dose selector is turned clockwise, counterclockwise, or if you accidentally force it past the number of mg left. |  |
+| If you select the wrong dose, you can turn the dose selector clockwise or counterclockwise to the correct dose. See figure L.The Pen clicks sound and feel differently when the dose selector is turned clockwise, counterclockwise, or if you accidentally force it past the number of mg left. |  |
 | Step 4. Inject your dose |  |
-| •Norditropin can be injected under the skin (subcutaneously) of your hips, stomach area (abdomen), buttocks, upper legs (thighs), upper arms, or as otherwise instructed by your healthcare provider. Change the injection site every day.•Insert the needle into your skin as your healthcare provider has shown you. See figure M. Make sure you can see the dose counter. Do not cover it with your fingers. This could block the injection. |  |
+| •Norditropin can be injected under the skin (subcutaneously) of your hips, stomach area (abdomen), buttocks, upper legs (thighs), upper arms, or as otherwise instructed by your healthcare provider. Change the injection site every day. •Insert the needle into your skin as your healthcare provider has shown you. See figure M. Make sure you can see the dose counter. Do not cover it with your fingers. This could block the injection. |  |
 | •Press and hold down the dose button until the dose counter shows 0. See figure N. The 0 must line up with the dose pointer. You may then hear or feel a click. •Continue to hold the needle in your skin. •If 0 does not appear in the dose counter after continuously pressing the dose button, your needle may be blocked or damaged, see Frequently Asked Questions. |  |
 | •Keep the needle in your skin after the dose counter has returned to 0. Count slowly to 6 to ensure that the full dose has been delivered. See figure O. |  |
 | •Carefully remove the needle from your skin. See figure P. If blood appears at the injection site, press lightly. Do not rub the area. You may see a drop of Norditropin at the needle tip after injecting. This is normal and does not affect your dose. |  |
@@ -1043,6 +1043,7 @@ Figure H
 1. Insert the Pen into the PenMate.
    Twist the Pen clockwise until you hear or feel a click.
 2. See figure I.
+3. 
 
 The Pen is correctly attached in your PenMate when the display window on the Pen lines up with the insertion button on your PenMate.
 
