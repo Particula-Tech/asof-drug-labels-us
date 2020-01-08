@@ -2,7 +2,8 @@
 
 Budesonide (bue des’oh nide) Inhalation Suspension (2 mL ampules containing 0.25 mg or 0.5 mg)
 
-For inhalation only Do not swallow.
+For inhalation only.
+Do not swallow.
 Only use budesonide inhalation suspension with a jet nebulizer machine that is connected to an air compressor.
 Do not use with an ultrasonic nebulizer.
 
@@ -60,13 +61,13 @@ Budesonide inhalation suspension may not be right for children who have had any 
   - takes bone thinning medicines (such as anticonvulsant medicines or corticosteroids) for a long time.
   - does not eat well (poor nutrition)
 - has an eye problem such as increased pressure in the eye, glaucoma or cataracts.
-- has liver problems
+- has liver problems.
 - is planning to have surgery.
 - has any other medical conditions.
 - is pregnant or plans to become pregnant.
   It is not known if budesonide inhalation suspension will harm your unborn baby.
 - is breast-feeding or plans to breast-feed.
-  Budesonide inhalation suspension can pass into breast milk.
+  Budesonide can pass into breast milk.
   You and your healthcare provider should decide if you will use budesonide inhalation suspension or breast-feed.
 
 Tell your healthcare provider about all the medicine your child takes, including prescription and non-prescription medicines, vitamins, and herbal supplements.
@@ -77,7 +78,7 @@ Especially tell your healthcare provider if your child takes:
 - corticosteroids
 - anti-seizure medicine (anticonvulsants)
 - medicines that suppress the immune system (immunosuppressant)
-- ketoconazale (Nizoral)
+- ketoconazole (Nizoral)
 - certain medicines that can affect how your liver breaks down medicine
 
 Ask your healthcare provider or pharmacist for a list of these medicines, if you are not sure.
@@ -240,4 +241,4 @@ Manufactured for: Amneal Pharmaceuticals LLC Bridgewater, NJ 08807
 Product of Spain
 
 Rev.
-04-2019-00
+09-2019-01

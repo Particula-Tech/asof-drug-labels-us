@@ -14,7 +14,7 @@ In vitro studies indicated that the two forms of budesonide do not interconvert.
 
 The precise mechanism of corticosteroid actions on inflammation in asthma is not well known.
 Inflammation is an important component in the pathogenesis of asthma.
-Corticosteroids have been shown to have a wide range of inhibitory activities against multiple cell types (e.g., mast cells, eosinophils, neutrophils, macrophages, and lymphocytes) and mediators (e.g., histamine, eicosanoids, leukotrienes, and cytokines) involved in allergicand non-allergic-mediated inflammation.
+Corticosteroids have been shown to have a wide range of inhibitory activities against multiple cell types (e.g., mast cells, eosinophils, neutrophils, macrophages, and lymphocytes) and mediators (e.g., histamine, eicosanoids, leukotrienes, and cytokines) involved in allergic- and non-allergic-mediated inflammation.
 The anti-inflammatory actions of corticosteroids may contribute to their efficacy in asthma.
 
 Studies in asthmatic patients have shown a favorable ratio between topical anti-inflammatory activities and systemic corticosteroid effects over a wide dose range of inhaled budesonide in a variety of formulations and delivery systems including an inhalation-driven, multi-dose dry powder inhaler and the inhalation suspension for nebulization.
@@ -107,7 +107,7 @@ The disposition of budesonide when delivered by inhalation from a dry powder inh
 Systemic exposure to budesonide in these women appears to be comparable to that in non-lactating women with asthma from other studies.
 Breast milk obtained over eight hours post-dose revealed that the maximum concentration of budesonide for the 400 and 800 mcg doses was 0.39 and 0.78 nmol/L, respectively, and occurred within 45 minutes after dosing.
 The estimated oral daily dose of budesonide from breast milk to the infant is approximately 0.007 and 0.014 mcg/kg/day for the two dose regimens used in this study, which represents approximately 0.3% to 1% of the dose inhaled by the mother.
-Budesonide levels in plasma samples obtained from five infants at about 90 minutes after breast-feeding (and about 140 minutes after drug administration to the mother) were below quantifiable levels (< 0.02 nmol/L in four infants and < 0.04 nmol/L in one infant) [see Use In Specific Populations, Nursing Mothers (8.3)].
+Budesonide levels in plasma samples obtained from five infants at about 90 minutes after breast-feeding (and about 140 minutes after drug administration to the mother) were below quantifiable levels (< 0.02 nmol/L in four infants and < 0.04 nmol/L in one infant) [see Use in Specific Populations (8.3)].
 
 Drug-Drug Interactions
 

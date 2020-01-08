@@ -24,7 +24,7 @@ Budesonide inhalation suspension should be administered via jet nebulizer connec
 Ultrasonic nebulizers are not suitable for the adequate administration of budesonide inhalation suspension and, therefore, are NOT recommended.
 
 The effects of mixing budesonide inhalation suspension with other nebulizable medications have not been adequately assessed.
-Budesonide inhalation suspension should be administered separately in the nebulizer [see Patient Counseling Information, Administration with a jet nebulizer (17.1)].
+Budesonide inhalation suspension should be administered separately in the nebulizer [see Patient Counseling Information (17.1)].
 
 A Pari-LC-Jet Plus Nebulizer (with face mask or mouthpiece) connected to a Pari Master compressor was used to deliver budesonide inhalation suspension to each patient in 3 U.S. controlled clinical studies.
 The safety and efficacy of budesonide inhalation suspension delivered by other nebulizers and compressors have not been established.

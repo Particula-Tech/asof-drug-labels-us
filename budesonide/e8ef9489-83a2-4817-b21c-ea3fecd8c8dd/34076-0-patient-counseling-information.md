@@ -21,7 +21,7 @@ Acute symptoms should be treated with an inhaled, short-acting beta2-agonist suc
 (The healthcare professional should provide that patient with such medication and instruct the patient in how it should be used.)
 Patients should be instructed to notify their healthcare professional immediately if they experience any of the following:
 
-• Decreasing effectiveness of inhaled, short-acting beta2-agonists
+• Decreasing effectiveness of inhaled, short-acting beta2- agonists
 
 • Need for more inhalations than usual of inhaled, short-acting beta2-agonists
 
@@ -65,8 +65,6 @@ Patients should be advised to use budesonide inhalation suspension at regular in
 Maximum benefit may not be achieved for 4 to 6 weeks or longer after starting treatment.
 If symptoms do not improve in that time frame or if the condition worsens, patients should be instructed to contact their healthcare professional.
 
-## 17.11 FDA-Approved Patient Labeling
-
 See accompanying Patient Information and Instructions for Use.
 
 Manufactured by: Catalent Pharma Solutions Woodstock, IL 60098 USA Manufactured for: Amneal Pharmaceuticals LLC Bridgewater, NJ 08807
@@ -74,4 +72,4 @@ Manufactured by: Catalent Pharma Solutions Woodstock, IL 60098 USA Manufactured 
 Product of Spain
 
 Rev.
-04-2019-00
+09-2019-01

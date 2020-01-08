@@ -24,9 +24,9 @@ The reduction in nighttime and daytime asthma symptom scores was maintained thro
 
 Patients Previously Maintained on Inhaled Corticosteroids
 
-The efficacy of budesonide inhalation suspension at doses of 0.25 mg and 0.5 mg twice daily was evaluated in 133 pediatric asthma patients, 4 to 8 years of age, previously maintained on inhaled corticosteroids (mean FEV1 79.5% predicted; mean baseline nighttime asthma symptom scores of the treatment groups ranged from 1.04 to 1.18; mean baseline dose of beclomethasone dipropionate of 265 mcg/day, ranging between 42 to 1008 mcg/day; mean baseline dose of triamcinolone acetonide of 572 mcg/day, ranging between 200 to 1200 mcg/day).
+The efficacy of budesonide inhalation suspension at doses of 0.25 mg and 0.5 mg twice daily was evaluated in 133 pediatric asthma patients, 4 to 8 years of age, previously maintained on inhaled corticosteroids (mean FEV1 79.5% predicted; mean baseline nighttime asthma symptom scores of the treatment groups ranged from 1.04 to 1.18; mean baseline dose of beclomethasone dipropionate of 265 mcg/day, ranging between 42 mcg/day to 1008 mcg/day; mean baseline dose of triamcinolone acetonide of 572 mcg/day, ranging between 200 mcg/day to 1200 mcg/day).
 The changes from baseline to Weeks 0 to 12 in nighttime asthma symptom scores are shown in Figure 2.
-Night-time asthma symptom scores showed statistically significantly decrease in patients treated with budesonide inhalation suspension compared to placebo.
+Nighttime asthma symptom scores showed statistically significant decrease in patients treated with budesonide inhalation suspension compared to placebo.
 Similar decreases were also observed for daytime asthma symptom scores.
 
 Statistically significant increases in FEV1 compared to placebo were observed with budesonide inhalation suspension at a dose of 0.5 mg twice daily and in morning PEF for both doses (0.25 mg and 0.5 mg twice daily).
@@ -40,7 +40,7 @@ Patients Either Maintained on Bronchodilators Alone or Inhaled Corticosteroid Th
 The efficacy of budesonide inhalation suspension at doses of 0.25 mg twice daily and 0.5 mg twice daily was evaluated in 469 pediatric patients 12 months to 8 years of age (mean baseline nighttime asthma symptom scores of the treatment groups ranged from 1.13 to 1.31).
 Approximately 70% were not previously receiving inhaled corticosteroids.
 The changes from baseline to Weeks 0 to 12 in nighttime asthma symptom scores are shown in Figure 3.
-Budesonide inhalation suspension at doses of 0.25 mg and 0.5 mg twice daily demonstrated statistically significant decreases in nighttime asthma symptom scores compared to placebo.
+Budesonide inhalation suspension at doses of 0.25 mg and 0.5 mg twice daily, demonstrated statistically significant decreases in nighttime asthma symptom scores compared to placebo.
 Similar decreases were also observed for daytime asthma symptom scores.
 
 Budesonide inhalation suspension at a dose of 0.5 mg twice daily resulted in statistically significant increases compared to placebo in FEV1, and at doses of 0.25 mg and 0.5 mg twice daily statistically significant increases in morning PEF.
