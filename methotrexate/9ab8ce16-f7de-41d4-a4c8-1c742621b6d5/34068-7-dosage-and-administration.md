@@ -60,3 +60,7 @@ Visually inspect Otrexup for particulate matter and discoloration prior to admin
 Do not use Otrexup if the seal is broken.
 
 Handle and dispose of Otrexup consistent with recommendations for handling and disposal of cytotoxic drugs1.
+
+## 2.5 Pregnancy testing
+
+Verify the pregnancy status of females of reproductive potential prior to initiating treatment with Otrexup [see Use in Specific Populations (8.1, 8.3)].

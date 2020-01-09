@@ -9,14 +9,12 @@ Prepare to Use Otrexup
 - Check the expiration date on the label.
   Do not use if expired.
 - Check the seal.
-  Do not use Otrexup if the seal is broken.
-  (See Figure B)
+  Do not use Otrexup if the seal is broken (See Figure B).
 - In addition to Otrexup, you will need the following items: 1 alcohol swab and 1 cotton ball or gauze.
 
 Check the Liquid
 
-- Look at the viewing window.
-  (See Figure C)
+- Look at the viewing window (See Figure C).
 - The liquid should be yellow in color and should not have any lumps or particles in it.
 - You may see an air bubble.
   This is normal.
@@ -24,7 +22,7 @@ Check the Liquid
 Choose an Injection Site
 
 - Otrexup should be injected into the stomach (abdomen) or thigh.
-  Do not inject Otrexup within 2 inches of the belly button (navel) (See Figure D)
+  Do not inject Otrexup within 2 inches of the belly button (navel) (See Figure D).
 - Do not inject Otrexup in the arms or any other areas of the body.
 - Do not inject Otrexup in areas where the skin is tender, bruised, red, scaly, hard, or has scars or stretch marks.
 - Wipe the area with an alcohol swab.
@@ -45,8 +43,7 @@ Step 1: Remove Cap (marked 1)
 
 STEP 2: Remove the Safety Clip (marked 2)
 
-- Flip the Safety Clip marked 2.
-  (See Figure F).
+- Flip the Safety Clip marked 2 (See Figure F).
 
 STEP 3: Inject Otrexup
 
@@ -97,6 +94,6 @@ This Instructions for Use has been approved by the U.S. Food and Drug Administra
 Mfd.
 For Antares Pharma, Inc. Ewing, NJ 08628
 
-03/2018
+12/2019
 
-PII-13-001 V10
+PII-13-001 V11

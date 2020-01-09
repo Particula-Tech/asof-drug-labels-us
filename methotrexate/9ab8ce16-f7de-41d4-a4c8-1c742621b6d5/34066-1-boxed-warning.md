@@ -7,10 +7,11 @@ Patients should be closely monitored for bone marrow, liver, lung, skin, and kid
 Patients should be informed by their physician of the risks involved and be under a physician’s care throughout therapy [see Warnings and Precautions (5.1)].
 
 1.
-Methotrexate has been reported to cause fetal death and/or congenital anomalies.
+Methotrexate can cause embryo-fetal toxicity, including fetal death.
 
-Therefore, Otrexup is not recommended for females of childbearing potential unless there is clear medical evidence that the benefits can be expected to outweigh the considered risks [see Warnings and Precautions (5.2)].
-Otrexup is contraindicated in pregnant women [see Contraindications (4)].
+Use is contraindicated during pregnancy.
+Verify the pregnancy status of females of reproductive potential prior to initiating therapy.
+Advise females and males of reproductive potential to use effective contraception during and after treatment with Otrexup [see Contraindications (4), Warnings and Precautions (5.2), and Use in Specific Populations (8.1, 8.3)].
 
 2.
 Methotrexate elimination is reduced in patients with impaired renal functions, ascites, or pleural effusions.

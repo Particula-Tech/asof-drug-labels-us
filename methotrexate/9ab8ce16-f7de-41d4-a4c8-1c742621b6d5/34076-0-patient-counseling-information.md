@@ -20,22 +20,22 @@ Patients should be instructed to use administration sites on the abdomen or the 
 Administration should not be made within 2 inches of the navel.
 Instruct patients not to administer Otrexup to the arms or any other areas of the body, as delineated in the Otrexup Instructions for Use [see Instructions for Use].
 
-Risks of Pregnancy and Reproduction
+Embryo-Fetal Toxicity
 
-Advise patients that Otrexup can cause fetal harm and is contraindicated in pregnancy.
-Advise women of childbearing potential that Otrexup should not be started until pregnancy is excluded.
-Women should be fully counseled on the serious risk to the fetus should they become pregnant while undergoing treatment.
-Inform patients to contact their physician if they suspect that they are pregnant.
+- Advise females of reproductive potential that Otrexup can cause fetal harm and is contraindicated in pregnancy.
+  Advise women of childbearing potential that Otrexup should not be started until pregnancy is excluded.
+  Women should be fully counseled on the serious risk to the fetus should they become pregnant while undergoing treatment.
+  Inform patients to contact their physician if they suspect that they are pregnant [see Boxed Warning, Contraindications (4), Warnings and Precautions (5.2), Use in Specific Populations (8.1)].
+- Advise females of reproductive potential to use effective contraception during Otrexup therapy and for 6 months after the final dose [see Use in Specific Populations (8.3)].
+- Advise males of reproductive potential to use effective contraception during Otrexup therapy and for 3 months after the final dose [see Use in Specific Populations (8.3)].
 
-Advise patients that pregnancy should be avoided if either partner is receiving Otrexup; during and for a minimum of three months after therapy for male patients, and during and for at least one ovulatory cycle after therapy for female patients [see Warnings and Precautions (5.2)].
+Infertility
 
-Discuss the risk of effects on reproduction with both male and female patients taking Otrexup.
+Advise patients of reproductive potential that Otrexup may cause impairment of fertility, oligospermia, and menstrual dysfunction [see Warnings and Precautions (5.2), Use in Specific Populations (8.3)].
 
-Inform patients that methotrexate has been reported to cause impairment of fertility, oligospermia and menstrual dysfunction, during and for a short period after cessation of therapy [see Use in Specific Populations (8.6)].
+Lactation
 
-Nursing Mothers
-
-Inform patients that Otrexup is contraindicated in nursing mothers [see Use in Specific Populations (8.3)].
+Advise females not to breastfeed during treatment with Otrexup and for one week after the final dose [see Use in Specific Populations (8.3)].
 
 Ability to Drive or Operate Machinery
 
@@ -48,6 +48,6 @@ Inform patients and caregivers of the need for proper disposal after use, includ
 
 Address Medical Inquiries to: Antares Pharma, Inc. Medical Communications 100 Princeton South, Suite 300 Ewing, NJ 08628 1-855-Otrexup (1-855-687-3987)
 
-Manufactured for: Antares Pharma, Inc. 100 Princeton South, Suite 300 Ewing, NJ 08628 USA Otrexup™ is the subject of US Patent Nos. RE44,846, 8,021,335, 6,746,429, RE44,847, 8,480,631, 8,562,564, 8,579,865, and 8,945,063.
+Manufactured for: Antares Pharma, Inc. 100 Princeton South, Suite 300 Ewing, NJ 08628 USA Otrexup™ is the subject of US Patent Nos. 8,021,335, 6,746,429, 8,480,631, 8,562,564, 8,579,865, and 8,945,063.
 
-©2018 Antares Pharma, Inc., Ewing, NJ 08628
+©2019 Antares Pharma, Inc., Ewing, NJ 08628

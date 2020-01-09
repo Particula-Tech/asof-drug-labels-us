@@ -92,7 +92,6 @@ Nonlinear elimination due to saturation of renal tubular reabsorption has been o
 Impaired renal function, as well as concurrent use of drugs such as weak organic acids that also undergo tubular secretion, can markedly increase methotrexate serum levels.
 
 Excellent correlation has been reported between methotrexate clearance and endogenous creatinine clearance.
-
 Methotrexate clearance rates vary widely and are generally decreased at higher doses.
 Delayed drug clearance has been identified as one of the major factors responsible for methotrexate toxicity.
 It has been postulated that the toxicity of methotrexate for normal tissues is more dependent upon the duration of exposure to the drug rather than the peak level achieved.

@@ -15,7 +15,6 @@ Most adverse reactions are reversible if detected early.
 When such reactions do occur, the drug should be reduced in dosage or discontinued and appropriate corrective measures should be taken.
 If necessary, this could include the use of leucovorin calcium and/or acute, intermittent hemodialysis with a high-flux dialyzer [see Overdosage (10)].
 If Otrexup therapy is reinstituted, it should be carried out with caution, with adequate consideration of further need for the drug and increased alertness as to possible recurrence of toxicity.
-
 The clinical pharmacology of methotrexate has not been well studied in older individuals.
 Due to diminished hepatic and renal function as well as decreased folate stores in this population, relatively low doses should be considered, and these patients should be closely monitored for early signs of toxicity [see Use in Specific Populations (8.5)].
 
@@ -131,19 +130,19 @@ In patients with significant third space accumulations, it is advisable to evacu
 
 ## 5.2 Embryo-Fetal Toxicity
 
-Methotrexate has been reported to cause fetal death and/or congenital anomalies.
-Therefore, Otrexup is not recommended for females of childbearing potential unless there is clear medical evidence that the benefits can be expected to outweigh the considered risks.
-Otrexup is contraindicated in pregnant women with psoriasis or rheumatoid arthritis.
+Based on published reports and methotrexate’s mechanism of action, methotrexate can cause embryo-fetal toxicity and fetal death when administered to a pregnant woman.
+In pregnant women Otrexup is contraindicated.
+Verify pregnancy status in females of reproductive potential prior to initiating Otrexup.
 
-Females of childbearing potential should not be started on Otrexup until pregnancy is excluded and should be fully counseled on the serious risk to the fetus should they become pregnant while undergoing treatment.
-Appropriate steps should be taken to avoid conception during Otrexup therapy.
-Pregnancy should be avoided if either partner is receiving Otrexup; during and for a minimum of three months after therapy for male patients, and during and for at least one ovulatory cycle after therapy for female patients.
+Advise females of reproductive potential to use effective contraception during treatment with Otrexup and for 6 months after the final dose.
+Advise males of reproductive potential to use effective contraception during Otrexup treatment and for at least 3 months after the final dose [see Contraindications (4), Use in Specific Populations (8.1, 8.3), Clinical Pharmacology (12.1)].
 
 ## 5.3 Effects on Reproduction
 
-Methotrexate has been reported to cause impairment of fertility, oligospermia and menstrual dysfunction in humans, during and for a short period after cessation of therapy.
-
-The risk of effects of reproduction should be discussed with both male and female patients taking Otrexup.
+Based on published reports, methotrexate can cause impairment of fertility, oligospermia, and menstrual dysfunction.
+It is not known if the infertility is reversible in affected patients.
+Discuss the risk of effects on reproduction with female and male patients of reproductive potential.
+[see Use in Specific Populations (8.3)].
 
 ## 5.4 Laboratory Tests
 

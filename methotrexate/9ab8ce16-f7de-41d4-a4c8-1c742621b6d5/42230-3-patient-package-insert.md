@@ -51,7 +51,7 @@ Contraception should be used by both females and males while taking Otrexup.
 Pregnancy should be avoided if either partner is receiving Otrexup:
 
 - for a minimum of 3 months after treatment with Otrexup for males.
-- during and for at least 1 menstrual cycle after treatment with Otrexup for females.
+- during and for 6 months after treatment with Otrexup for females.
 
 Who should not take Otrexup?
 
@@ -63,9 +63,9 @@ Do not take Otrexup if you:
 - Otrexup can pass into your breast milk and may harm your baby.
   Do not breastfeed while taking Otrexup.
   Talk to your doctor about the best way to feed your baby if you take Otrexup.
-- have alcohol problems (alcoholism)
-- have liver problems
-- have problems fighting infection (immunodeficiency syndrome)
+- have alcohol problems (alcoholism).
+- have liver problems.
+- have problems fighting infection (immunodeficiency syndrome).
 - have been told you have (or think you have) a blood disorder such as low levels of white blood cells, red blood cells (anemia), or platelets.
 - have had an allergy to methotrexate or any of the ingredients in Otrexup.
   See the end of this leaflet for a complete list of ingredients in Otrexup.
@@ -162,7 +162,7 @@ How should I dispose of Otrexup?
 
 How should I store Otrexup?
 
-Store Otrexup at room temperature between 68°F to 77°F (20°C to 25°C)
+Store Otrexup at room temperature between 68°F to 77°F (20°C to 25°C).
 
 - Do not freeze
 - Keep Otrexup out of the light.
@@ -190,6 +190,6 @@ Inactive ingredients: hydrochloric acid, sodium chloride, sodium hydroxide and w
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 
-Manufactured for: Antares Pharma, Inc. 100 Princeton South, Suite 300 Ewing, NJ 08628 USA ©2018 Antares Pharma, Inc., Ewing, NJ 08628
+Manufactured for: Antares Pharma, Inc. 100 Princeton South, Suite 300 Ewing, NJ 08628 USA ©2019 Antares Pharma, Inc., Ewing, NJ 08628
 
-Issued: 03/2018
+Issued: 12/2019
