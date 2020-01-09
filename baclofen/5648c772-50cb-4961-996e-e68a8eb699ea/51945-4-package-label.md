@@ -1,7 +1,5 @@
 # Package/Label Display Panel
 
-## Baclofen Tablets USP 10 mg 100s Label Text
-
 NDC 0172-4096-60
 
 Baclofen Tablets USP 10 mg
@@ -13,8 +11,6 @@ Rx only
 TEVA
 
 # Package/Label Display Panel
-
-## Baclofen Tablets USP 20 mg 100s Label Text
 
 NDC 0172-4097-60
 

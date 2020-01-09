@@ -12,15 +12,15 @@ KEEP THIS AND ALL MEDICATIONS OUT OF THE REACH OF CHILDREN.
 
 Manufactured In Croatia By:
 
-PLIVA HRVATSKA d.o.o.
+Pliva Hrvatska d.o.o.
 
 Zagreb, Croatia
 
 Manufactured For:
 
-TEVA PHARMACEUTICALS USA, INC.
+Teva Pharmaceuticals USA, Inc.
 
 North Wales, PA 19454
 
 Rev.
-B 10/2015
+C 12/2019
