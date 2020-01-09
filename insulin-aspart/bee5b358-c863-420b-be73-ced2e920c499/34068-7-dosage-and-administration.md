@@ -15,7 +15,9 @@
 Subcutaneous Injection
 
 - •Inject insulin aspart subcutaneously within 5-10 minutes before a meal into the abdominal area, thigh, buttocks or upper arm.
-- •Rotate injection sites within the same region from one injection to the next to reduce the risk of lipodystrophy [see Adverse Reactions (6.1)].
+- •Rotate injection sites within the same region from one injection to the next to reduce the risk of lipodystrophy and localized cutaneous amyloidosis.
+  Do not inject into areas of lipodystrophy or localized cutaneous amyloidosis [see Warnings and Precautions (5.2) and Adverse Reactions (6.1, 6.3)].
+- •During changes to a patient’s insulin regimen, increase the frequency of blood glucose monitoring [see Warnings and Precautions (5.2)].
 - •The Insulin Aspart FlexPen dial in 1-unit increments.
 - •Insulin aspart administered by subcutaneous injection should generally be used in regimens with an intermediate- or long-acting insulin.
 - •Insulin aspart may be diluted with Insulin Diluting Medium for NovoLog® for subcutaneous injection.
@@ -26,8 +28,9 @@ Continuous Subcutaneous Infusion (Insulin Pump)
 
 - •Use insulin aspart in pump systems specifically indicated for insulin infusion.
 - •Train patients using continuous subcutaneous insulin fusion pump therapy to administer insulin by injection and have alternate insulin therapy available in case of pump failure.
-- •Administer insulin aspart by continuous subcutaneous infusion into the subcutaneous tissue of the abdominal wall.
-  Rotate infusion sites within the same region to reduce the risk of lipodystrophy [see Adverse Reactions (6.1)].
+- •Administer insulin aspart by continuous subcutaneous infusion in a region recommended in the instructions from the pump manufacturer.
+  Rotate infusion sites within the same region to reduce the risk of lipodystrophy or localized cutaneous amyloidosis [see Warnings and Precautions (5.2) and Adverse Reactions (6.1, 6.3)].
+- •During changes to a patient’s insulin regimen, increase the frequency of blood glucose monitoring [see Warnings and Precautions (5.2)].
 - •Follow healthcare provider recommendations when setting basal and meal time infusion rate.
 - •Change the insulin aspart in the reservoir at least every 6 days.
   Follow the insulin aspart-specific information for in-use time because insulin aspart-specific information may differ from general pump manual instructions.

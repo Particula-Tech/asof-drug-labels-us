@@ -36,6 +36,11 @@ How should I take insulin aspart?
   Ask your healthcare provider what your blood sugars should be and when you should check your blood sugar levels.
 - •Do not reuse or share your needles with other people.
   You may give other people a serious infection or get a serious infection from them.
+- •Insulin aspart can be injected under the skin (subcutaneously) of your stomach area (abdomen), buttocks, upper legs (thighs) or upper arms, or by continuous infusion under the skin (subcutaneously) through an insulin pump into an area of your body recommended in the instructions that come with your insulin pump.
+- •Change (rotate) your injection sites within the area you choose with each dose to reduce your risk of getting lipodystrophy (pits in skin or thickened skin) and localized cutaneous amyloidosis (skin with lumps) at the injection sites.
+- oDo not use the exact same spot for each injection.
+- oDo not inject where the skin has pits, is thickened, or has lumps.
+- oDo not inject where the skin is tender, bruised, scaly or hard, or into scars or damaged skin.
 
 What should I avoid while taking insulin aspart?
 
@@ -102,7 +107,7 @@ For more information, call 1-800-727-6500.
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 
-Revised: 08/2019
+Revised: 11/2019
 
 INSTRUCTIONS FOR USE
 
@@ -155,10 +160,17 @@ Step 9: Pull the syringe out of the vial’s rubber stopper (See Figure I).
 
 - •Inject your insulin aspart exactly as your healthcare provider has shown you.
   Your healthcare provider should tell you if you need to pinch the skin before injecting.
-- •Insulin aspart can be injected under the skin (subcutaneously) of your stomach area, buttocks, upper legs or upper arms, infused in an insulin pump, or given through a needle in your arm (intravenously) by your healthcare provider.
-- •If you inject insulin aspart, change (rotate) your injection sites within the area you choose for each dose.
+- •Insulin aspart can be injected under the skin (subcutaneously) of your stomach area, buttocks, upper legs or upper arms, infused in an insulin pump (continuous subcutaneous infusion into an area of your body recommended in the instructions that come with your insulin pump), or given through a needle in your arm (intravenously) by your healthcare provider.
+- •If you inject insulin aspart, change (rotate) your injection sites within the area you choose for each dose to reduce your risk of getting lipodystrophy (pits in skin or thickened skin) and localized cutaneous amyloidosis (skin with lumps) at the injection sites.
   Do not use the same injection site for each injection.
+  Do not inject where the skin has pits, is thickened, or has lumps.
+  Do not inject where the skin is tender, bruised, scaly or hard, or into scars or damaged skin.
 - •If you use insulin aspart in an insulin pump, you should change your insertion site every 3 days.
+  Insulin aspart should be given into an area of your body recommended in the instructions that come with your insulin pump.
+  Change (rotate) your insertion sites within the area you choose for each insertion to reduce your risk of getting lipodystrophy (pits in skin or thickened skin) and localized cutaneous amyloidosis (skin with lumps) at the insertion sites.
+  Do not insert into the exact same spot for each insertion.
+  Do not insert where the skin has pits, is thickened, or has lumps.
+  Do not insert where the skin is tender, bruised, scaly or hard, or into scars or damaged skin.
   The insulin in the reservoir should be changed at least every 6 days even if you have not used all of the insulin.
 - •If you use insulin aspart in an insulin pump, see your insulin pump manual for instructions or talk to your healthcare provider.
 - •NPH insulin is the only type of insulin that can be mixed with insulin aspart.
@@ -234,7 +246,7 @@ Novo Nordisk Pharma, Inc.
 
 1-800-727-6500
 
-Revised: 08/2019
+Revised: 11/2019
 
 INSTRUCTIONS FOR USE
 
@@ -243,7 +255,7 @@ Insulin Aspart PenFill® 3 mL cartridge 100 Units/mL (U-100) Injection
 - •Do not share your PenFill cartridge or PenFill cartridge compatible insulin delivery device with other people, even if the needle has been changed.
   You may give other people a serious infection, or get a serious infection from them.
 - •Your healthcare provider should show you or your caregiver how to inject insulin aspart the right way before you inject it for the first time.
-- •Insulin Aspart PenFillcartridge 100 Units/mL is a prefilled, single-patient use cartridge containing 300 units of insulin aspart.
+- •Insulin Aspart PenFillcartridge 100 Units/mL is a prefilled, single-patient-use cartridge containing 300 units of insulin aspart.
 - •After you insert the PenFill cartridge in your device, you can use it for multiple injections.
   Read the instruction manual that comes with your insulin delivery device for complete instructions on how to use the PenFill cartridge with the device.
 - •People who are blind or have vision problems should not use this PenFill cartridge without help from a person trained to use the PenFill cartridge with the device.
@@ -355,8 +367,10 @@ Step 7:
 
 - (Figure I)
 
-- •For each injection, change (rotate) your injection site within the area of skin that you use.
+- •Change (rotate) your injection sites within the area you choose for each dose to reduce your risk of getting lipodystrophy (pits in skin or thickened skin) and localized cutaneous amyloidosis (skin with lumps) at the injection sites.
   Do not use the same injection site for each injection.
+  Do not inject where the skin has pits, is thickened, or has lumps.
+  Do not inject where the skin is tender, bruised, scaly or hard, or into scars or damaged skin.
 - •Cleanyour injection site with an alcohol swab.
   Let your skin dry.
   Do not touch this area again before injecting.
@@ -445,7 +459,7 @@ Novo Nordisk A/S
 
 DK-2880 Bagsvaerd, Denmark
 
-Revised: 08/2019
+Revised: 11/2019
 
 INSTRUCTIONS FOR USE
 
@@ -462,7 +476,7 @@ You may give other people a serious infection, or get a serious infection from t
 
 Insulin Aspart FlexPen is a disposable, single-patient use, dial-a-dose insulin pen.
 You can select doses from 1 to 60 units in increments of 1 unit.
-Insulin Aspart FlexPen is designed to be used with NovoFine, NovoFine Plus or NovoTwist needles
+Insulin Aspart FlexPen is designed to be used with NovoFine, NovoFine Plus or NovoTwist needles.
 
 - Δ People who are blind or have vision problems should not use this Pen without help from a person trained to use the Pen.
 
@@ -548,8 +562,10 @@ Wipe the skin with an alcohol swab and let the area dry.
 
 Insulin aspart can be injected under the skin (subcutaneously) of your stomach area, buttocks, upper legs (thighs), or upper arms.
 
-For each injection, change (rotate) your injection site within the area of skin that you use.
+Change (rotate) your injection sites within the area you choose for each dose to reduce your risk of getting lipodystrophy (pits in skin or thickened skin) and localized cutaneous amyloidosis (skin with lumps) at the injection sites.
 Do not use the same injection site for each injection.
+Do not inject where the skin has pits, is thickened, or has lumps.
+Do not inject where the skin is tender, bruised, scaly or hard, or into scars or damaged skin.
 
 I. Insert the needle into your skin.
 
@@ -645,4 +661,4 @@ Do not leave it in a car or other location where it can get too hot or too cold.
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
-Revised: 08/2019
+Revised: 11/2019

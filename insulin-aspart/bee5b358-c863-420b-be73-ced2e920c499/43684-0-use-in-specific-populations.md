@@ -9,12 +9,8 @@ There are risks to the mother and fetus associated with poorly controlled diabet
 
 In animal reproduction studies, administration of subcutaneous insulin aspart to pregnant rats and rabbits during the period of organogenesis did not cause adverse developmental effects at exposures 8-times and equal to the human subcutaneous dose of 1 unit/kg/day, respectively.
 
-Pre- and post-implantation losses and visceral/skeletal abnormalities were seen at higher
-
-exposures, which are considered secondary to maternal hypoglycemia.
-These effects were
-
-similar to those observed in rats administered regular human insulin [see Data].
+Pre- and post-implantation losses and visceral/skeletal abnormalities were seen at higher exposures, which are considered secondary to maternal hypoglycemia.
+These effects were similar to those observed in rats administered regular human insulin [see Data].
 
 The estimated background risk of major birth defects is 6-10% in women with pre-gestational
 

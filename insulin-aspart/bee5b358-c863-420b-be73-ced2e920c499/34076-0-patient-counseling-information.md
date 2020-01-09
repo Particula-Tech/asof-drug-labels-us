@@ -8,7 +8,7 @@ Advise patients that they must never share Insulin Aspart FlexPen, PenFill cartr
 Advise patients using insulin aspart vials not to share needles or syringes with another person.
 Sharing poses a risk for transmission of blood-borne pathogens [see Warnings and Precautions (5.1)].
 
-Hypoglycemia
+Hyperglycemia or Hypoglycemia
 
 Inform patients that hypoglycemia is the most common adverse reaction with insulin.
 Instruct patients on self-management procedures including glucose monitoring, proper injection technique, and management of hypoglycemia and hyperglycemia, especially at initiation of insulin aspart therapy.
@@ -17,6 +17,8 @@ Instruct patients on the management of hypoglycemia [see Warnings and Precaution
 
 Inform patients that their ability to concentrate and react may be impaired as a result of hypoglycemia.
 Advise patients who have frequent hypoglycemia or reduced or absent warning signs of hypoglycemia to use caution when driving or operating machinery.
+
+Advise patients that changes in insulin regimen can predispose to hyperglycemia or hypoglycemia and that changes in insulin regimen should be made under close medical supervision [see Warnings and Precautions (5.2)].
 
 Hypoglycemia with Medication Errors
 
@@ -57,9 +59,9 @@ Before using an insulin pump with insulin aspart, read the pump label to make su
 
 Rx only
 
-Date of Issue: 08/2019
+Date of Issue: 11/2019
 
-Version: 1
+Version: 2
 
 Novo Nordisk®, NovoLog®,PenFill®, Novolin®, FlexPen®, NovoFine®, and NovoTwist® are registered trademarks of Novo Nordisk A/S.
 

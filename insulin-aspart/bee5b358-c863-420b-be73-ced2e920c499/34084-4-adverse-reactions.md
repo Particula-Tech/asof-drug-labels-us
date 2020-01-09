@@ -104,3 +104,6 @@ The following adverse reactions have been identified during post-approval use of
 Because these adverse reactions are reported voluntarily from a population of uncertain size, it is generally not possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 Medication errors have been reported in which other insulins have been accidentally substituted for insulin aspart [see Warnings and Precautions (5.4)].
+
+Localized cutaneous amyloidosis at the injection site has occurred with insulin aspart.
+Hyperglycemia has been reported with repeated insulin injections into areas of localized cutaneous amyloidosis; hypoglycemia has been reported with a sudden change to an unaffected injection site.

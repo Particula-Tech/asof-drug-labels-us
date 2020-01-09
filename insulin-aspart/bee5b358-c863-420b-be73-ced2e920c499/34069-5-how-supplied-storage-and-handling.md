@@ -11,9 +11,11 @@ Insulin aspart 100 units of insulin aspart per mL (U-100) is available as a clea
 *Insulin Aspart PenFill cartridges are designed for use with Novo Nordisk insulin delivery devices with NovoFine disposable needles.
 FlexPen can be used with NovoFine or NovoTwist disposable needles.
 
-The Insulin Aspart FlexPen dials in 1-unit increment.
+The Insulin Aspart FlexPen dials in 1-unit increments.
 
 ## 16.2 Recommended Storage
+
+Dispense in the original sealed carton with the enclosed Instructions for Use.
 
 Unused insulin aspart should be stored in a refrigerator between 2° and 8°C (36° to 46°F).
 Do not freeze insulin aspart anddo not use insulin aspart if it has been frozen.
@@ -31,9 +33,9 @@ Storage conditions for vial, PenFill cartridges, and Insulin Aspart FlexPen
 
 | Insulin aspart presentation | Not in-use (unopened) Room Temperature (below 30°C [86°F]) | Not in-use (unopened) Refrigerated | In-use (opened) Room Temperature (below 30°C [86°F]) |
 | --- | --- | --- | --- |
-| 10 mL vial | 28 days | Until expiration date | 28 days (refrigerated/room temperature) |
-| 3 mL PenFill cartridges | 28 days | Until expiration date | 28 days (Do not refrigerate) |
-| 3 mL Insulin Aspart FlexPen | 28 days | Until expiration date | 28 days (Do not refrigerate) |
+| 10 mL multiple-dose vial | 28 days | Until expiration date | 28 days (refrigerated/room temperature) |
+| 3 mL single-patient-use PenFill cartridges | 28 days | Until expiration date | 28 days (Do not refrigerate) |
+| 3 mL single-patient-use Insulin Aspart FlexPen | 28 days | Until expiration date | 28 days (Do not refrigerate) |
 
 Storage in External Insulin Pump:
 
