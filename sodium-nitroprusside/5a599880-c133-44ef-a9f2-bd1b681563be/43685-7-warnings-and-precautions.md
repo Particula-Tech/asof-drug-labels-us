@@ -74,4 +74,4 @@ Because many drugs are excreted in human milk and because of the potential for s
 
 Pediatric Use: Efficacy in the pediatric population was established based on adult trials and supported by the dose-ranging trial (Study 1) and an open label trial of at least 12 hour infusion at a rate that achieved adequate MAP control (Study 2) with pediatric patients on sodium nitroprusside.
 No novel safety issues were seen in these studies in pediatric patients.
-See CLINICAL PHARMACOLOGY and DOSAGE AND ADMINISTRATION.
+See CLINICAL PHARMACOLOGYand DOSAGE AND ADMINISTRATION.
