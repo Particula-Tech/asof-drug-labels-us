@@ -1,16 +1,4 @@
-# PRINCIPAL DISPLAY PANEL - 20 gram Tube
+# Package/Label Display Panel
 
-NDC 0187-5150-20
-
-RENOVA® (TRETINOIN CREAM)
-
-0.02%
-
-TUBE
-
-For Topical Use Only
-
-Rx Only
-
-NET WT.
-20 g
+NDC 0187-5150-40 Rx only RENOVA® (TRETINOIN CREAM) 0.02% TUBE For Topical Use Only Net Wt.
+40 g Ortho Dermatologics

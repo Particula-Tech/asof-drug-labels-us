@@ -20,14 +20,14 @@ Application of larger amounts of medication than recommended has not been shown 
 
 # PRECAUTIONS
 
-## General
+## General:
 
 RENOVA (tretinoin cream) 0.02% should be used only as an adjunct to a comprehensive skin care and sunlight avoidance program (see INDICATIONS AND USAGE).
 
 If a drug sensitivity, chemical irritation, or a systemic adverse reaction develops, use of RENOVA (tretinoin cream) 0.02% should be discontinued.
 Weather extremes, such as wind or cold, may be more irritating to patients using tretinoin-containing products.
 
-## Information for Patients
+## Information for Patients:
 
 RENOVA (tretinoin cream) 0.02% is to be used as described below unless otherwise directed by your physician:
 
@@ -35,11 +35,11 @@ RENOVA (tretinoin cream) 0.02% is to be used as described below unless otherwise
 2. 2.Avoid contact with the eyes, ears, nostrils, angles of the nose, and mouth.
    RENOVA (tretinoin cream) 0.02% may cause severe redness, itching, burning, stinging, and peeling if used on these areas.
 3. 3.In the evening, gently wash your face with a mild soap.
-   Pat skin dry and wait 20-30 minutes before applying RENOVA (tretinoin cream) 0.02%.
-   Apply only a small pearl-sized (about ¼ inch or 5 millimeter diameter) amount of RENOVA (tretinoin cream) 0.02% to your face at one time.
+   Pat skin dry and wait 20 to 30 minutes before applying RENOVA (tretinoin cream) 0.02%.
+   Apply only a small pearl-sized (about ¼ inch or 5 mm diameter) amount of RENOVA (tretinoin cream) 0.02% to your face at one time.
    This should be enough to cover the entire affected area lightly.
-4. 4.Do not wash your face for at least one hour after applying RENOVA (tretinoin cream) 0.02%.
-5. 5.For best results, you are advised not to apply another skin care product or cosmetic for at least one hour after applying RENOVA (tretinoin cream) 0.02%.
+4. 4.Do not wash your face for at least 1 hour after applying RENOVA (tretinoin cream) 0.02%.
+5. 5.For best results, you are advised not to apply another skin care product or cosmetic for at least 1 hour after applying RENOVA (tretinoin cream) 0.02%.
 6. 6.In the morning, apply a moisturizing sunscreen, SPF 15 or greater.
 7. 7.RENOVA (tretinoin cream) 0.02% is a serious medication.
    Do not use RENOVA (tretinoin cream) 0.02% if you are pregnant or attempting to become pregnant.
@@ -49,13 +49,13 @@ RENOVA (tretinoin cream) 0.02% is to be used as described below unless otherwise
 
 Please refer to the Patient Package Insert for additional patient information.
 
-## Drug Interactions
+## Drug Interactions:
 
 Concomitant topical medications, medicated or abrasive soaps, shampoos, cleansers, cosmetics with a strong drying effect, products with high concentrations of alcohol, astringents, spices or lime, permanent wave solutions, electrolysis, hair depilatories or waxes, and products that may irritate the skin should be used with caution in patients being treated with RENOVA (tretinoin cream) 0.02% because they may increase irritation with RENOVA (tretinoin cream) 0.02%.
 
 RENOVA (tretinoin cream) 0.02% should not be administered if the patient is also taking drugs known to be photosensitizers (e.g., thiazides, tetracyclines, fluoroquinolones, phenothiazines, sulfonamides) because of the possibility of augmented phototoxicity.
 
-## Carcinogenesis, Mutagenesis, Impairment of Fertility
+## Carcinogenesis, Mutagenesis, Impairment of Fertility:
 
 In a 91-week dermal study in which CD-1 mice were administered 0.017% and 0.035% formulations of tretinoin, cutaneous squamous cell carcinomas and papillomas in the treatment area were observed in some female mice.
 These concentrations are near the tretinoin concentration of this clinical formulation (0.02%).
@@ -76,7 +76,7 @@ In dermal Segment I fertility studies in rats, slight (not statistically signifi
 A dermal Segment III study with RENOVA (tretinoin cream) 0.02% has not been performed in any species.
 In oral Segment I and Segment III studies in rats with tretinoin, decreased survival of neonates and growth retardation were observed at doses in excess of 2 mg/kg/day (83 times the human topical dose adjusted for total body surface area).
 
-## Pregnancy
+## Pregnancy:
 
 Teratogenic Effects
 
@@ -96,8 +96,8 @@ There are other reports in New Zealand White rabbits administered doses of great
 In contrast, several well-controlled animal studies have shown that dermally applied tretinoin may be fetotoxic, but not overtly teratogenic, in rats and rabbits at doses of 1.0 and 0.5 mg/kg/day, respectively (42 times the maximum human systemic dose adjusted for total body surface area in both species).
 
 With widespread use of any drug, a small number of birth defect reports associated temporally with the administration of the drug would be expected by chance alone.
-Thirty human cases of temporally-associated congenital malformations have been reported during two decades of clinical use of another formulation of topical tretinoin (Retin-A®).
-Although no definite pattern of teratogenicity and no causal association has been established from these cases, 5 of the reports describe the rare birth defect category holoprosencephaly (defects associated with incomplete midline development of the forebrain).
+Thirty human cases of temporally associated congenital malformations have been reported during two decades of clinical use of another formulation of topical tretinoin (Retin-A®).
+Although no definite pattern of teratogenicity and no causal association has been established from these cases, five of the reports describe the rare birth defect category holoprosencephaly (defects associated with incomplete midline development of the forebrain).
 The significance of these spontaneous reports in terms of risk to the fetus is not known.
 
 Non-teratogenic Effects
@@ -108,16 +108,16 @@ Oral tretinoin has been shown to be fetotoxic, resulting in skeletal variations 
 There are, however, no adequate and well-controlled studies in pregnant women.
 RENOVA (tretinoin cream) 0.02% should not be used during pregnancy.
 
-## Nursing Mothers
+## Nursing Mothers:
 
 It is not known whether this drug is excreted in human milk.
 Since many drugs are excreted in human milk, mitigation of fine facial wrinkles with RENOVA (tretinoin cream) 0.02% may be postponed in nursing mothers until after completion of the nursing period.
 
-## Pediatric Use
+## Pediatric Use:
 
 Safety and effectiveness in patients less than 18 years of age have not been established.
 
-## Geriatric Use
+## Geriatric Use:
 
 In clinical studies with RENOVA (tretinoin cream) 0.02%, patients aged 65 to 71 did not demonstrate a significant difference for improvement in fine wrinkling when compared to patients under the age of 65.
 Patients aged 65 and over may demonstrate slightly more irritation, although the differences were not statistically significant in the clinical studies for RENOVA (tretinoin cream) 0.02%.

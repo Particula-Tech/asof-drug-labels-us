@@ -14,10 +14,10 @@ RENOVA (tretinoin cream) 0.02% is a serious medicine.
 Do not use RENOVA (tretinoin cream) 0.02% if you are pregnant or attempting to become pregnant.
 If you become pregnant while using RENOVA (tretinoin cream) 0.02%, please contact your doctor immediately.
 
-Avoid sunlight and other medicines that may increase your sensitivity to sunlight (see "Who should not use RENOVA (tretinoin cream) 0.02%?").
+Avoid sunlight and other medicines that may increase your sensitivity to sunlight (see “Who should not use RENOVA (tretinoin cream) 0.02%?”).
 
 RENOVA (tretinoin cream) 0.02% does not remove wrinkles or repair sun-damaged skin.
-(see "What is RENOVA (tretinoin cream) 0.02%?" for more details.)
+(see “What is RENOVA (tretinoin cream) 0.02%?” for more details.)
 
 What is RENOVA (tretinoin cream) 0.02%?
 
@@ -71,14 +71,14 @@ Therefore, tell your doctor if you are breast feeding.
 How should I use RENOVA (tretinoin cream) 0.02%?
 
 Use RENOVA (tretinoin cream) 0.02% as part of a total skin care and sun avoidance program.
-Follow your doctor's instructions on how to use RENOVA (tretinoin cream) 0.02%.
-RENOVA (tretinoin cream) 0.02% is usually applied to the face once a day in the evening, following the 3 steps listed below:
+Follow your doctor’s instructions on how to use RENOVA (tretinoin cream) 0.02%.
+RENOVA (tretinoin cream) 0.02% is usually applied to the face once a day in the evening, following the three steps listed below:
 
 1. 1.Gently wash your face with a mild soap.
-2. 2.Pat the skin dry and wait 20-30 minutes before applying RENOVA (tretinoin cream) 0.02%.
-3. 3.TUBE: Squeeze a small amount of RENOVA (tretinoin cream) 0.02% (the size of a pearl about ¼ inch or 5 mm diameter) on your fingertip, and apply to your face.
+2. 2.Pat the skin dry and wait 20 to 30 minutes before applying RENOVA (tretinoin cream) 0.02%.
+3. 3.TUBE: Squeeze a small amount of RENOVA (tretinoin cream) 0.02% (the size of a pearl — about 1/4 inch or 5 mm diameter) on your fingertip, and apply to your face.
 
-PUMP: Fully depress the pump twice to dispense a small amount of RENOVA (tretinoin cream) 0.02% (the size of a pearl—about ¼ inch or 5 mm diameter) on your fingertip, and apply to your face.
+PUMP: Fully depress the pump twice to dispense a small amount of RENOVA (tretinoin cream) 0.02% (the size of a pearl—about 1/4 inch or 5 mm diameter) on your fingertip, and apply to your face.
 
 This should be enough to cover your affected area lightly.
 
@@ -87,7 +87,7 @@ RENOVA (tretinoin cream) 0.02% may cause severe redness, itching, burning, sting
 
 Using too much RENOVA (tretinoin cream) 0.02% may increase discomfort and skin redness and peeling.
 
-You may use cosmetics one hour after applying RENOVA (tretinoin cream) 0.02%.
+You may use cosmetics 1 hour after applying RENOVA (tretinoin cream) 0.02%.
 If you do, be sure to clean your face before applying RENOVA (tretinoin cream) 0.02% again.
 Skin moisturizers should be used at least every morning to protect the treated areas from dryness.
 
@@ -127,23 +127,7 @@ This leaflet summarizes the most important information about RENOVA (tretinoin c
 If you would like more information, talk with your doctor.
 You can ask your pharmacist or doctor for information about RENOVA (tretinoin cream) 0.02% that is written for health professionals.
 
-Storage: Store at 25°C (77°F), excursions permitted to 15° to 30°C (59° to 86°F).
+Storage: Store at 25°C (77°F); excursions permitted to 15° to 30°C (59° to 86°F).
 
-Manufactured for: Valeant Pharmaceuticals North America LLC Bridgewater, NJ 08807 USA
-
-By:
-
-Valeant Pharmaceuticals International, Inc.
-
-Laval, Quebec H7L 4A8, Canada
-
-U.S. Patent 6,531,141 Renova is a trademark of Valeant Pharmaceuticals International, Inc. or its affiliates.
-
-©Valeant Pharmaceuticals North America LLC
-
-Rev.
-03/2017
-
-9418702
-
-50104761C
+Manufactured for: Bausch Health US, LLC, Bridgewater, NJ 08807 USA Manufactured by: Bausch Health Companies Inc., Laval, Quebec H7L, 4A8, Canada RENOVA is a trademark of Bausch Health Companies Inc. or its affiliates. © 2019 Bausch Health Companies Inc. or its affiliates Rev.
+09/2019 9418703

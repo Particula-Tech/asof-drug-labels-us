@@ -10,13 +10,13 @@ The physician should review the Patient Package Insert.
 
 RENOVA (tretinoin cream) 0.02% should be applied to the face once a day in the evening, using only enough to cover the entire affected area lightly.
 Patients should gently wash their faces with a mild soap, pat the skin dry, and wait 20 to 30 minutes before applying RENOVA (tretinoin cream) 0.02%.
-The patient should apply a small pearl-sized (about ¼ inch or 5 millimeter diameter) amount of cream to cover the entire affected area lightly.
+The patient should apply a small pearl-sized (about ¼ inch or 5 mm diameter) amount of cream to cover the entire affected area lightly.
 Caution should be taken when applying the cream to avoid the eyes, ears, nostrils, and mouth.
 
 Application of RENOVA (tretinoin cream) 0.02% may cause a transitory feeling of warmth or slight stinging.
 
 Mitigation (palliation) of fine facial wrinkling may occur gradually over the course of therapy.
-Up to six months of therapy may be required before the effects are seen.
+Up to 6 months of therapy may be required before the effects are seen.
 
 With discontinuation of RENOVA (tretinoin cream) 0.02% therapy, some patients may lose the mitigating effects of RENOVA (tretinoin cream) 0.02% on fine facial wrinkles.
 The safety and effectiveness of using RENOVA (tretinoin cream) 0.02% daily for greater than 52 weeks have not been established.

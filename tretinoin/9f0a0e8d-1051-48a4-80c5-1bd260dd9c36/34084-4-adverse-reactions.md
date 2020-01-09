@@ -11,4 +11,4 @@ About 4% of patients had to discontinue use of RENOVA (tretinoin cream) 0.02% be
 Approximately 2% of spontaneous postmarketing adverse event reporting for RENOVA (tretinoin cream) 0.05% were for skin hypo- or hyperpigmentation.
 Other spontaneously reported adverse events for RENOVA (tretinoin cream) 0.05% predominantly appear to be local reactions similar to those seen in clinical trials.
 
-To report SUSPECTED ADVERSE REACTIONS, contact Valeant Pharmaceuticals North America LLC, at 1-800-321-4576 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
+To report SUSPECTED ADVERSE REACTIONS, contact Bausch Health US, LLC at 1-800-321-4576 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.

@@ -11,7 +11,7 @@ No correlation was made between procollagen I propeptide staining with collagen 
 Thus, the relationships between the increased collagen in rodents, increased procollagen I propeptide in humans, and the clinical effects of tretinoin have not yet been clearly defined.
 
 Tretinoin was shown to enhance UV-stimulated melanogenesis in pigmented mice.
-Generalized amyloid deposition in the basal layer of tretinoin-treated skin was noted in a two-year mouse study.
+Generalized amyloid deposition in the basal layer of tretinoin-treated skin was noted in a 2-year mouse study.
 In a different study, hyalinization at tretinoin-treated skin sites was noted at doses beginning at 0.25 mg/kg in CD-1 mice.
 
 The transdermal absorption of tretinoin from various topical formulations ranged from 1% to 31% of applied dose, depending on whether it was applied to healthy skin or dermatitic skin.

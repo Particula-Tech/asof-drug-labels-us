@@ -4,7 +4,7 @@
 
 RENOVA (tretinoin cream) 0.02% is indicated as an adjunctive agent (see second bullet point below) for use in the mitigation (palliation) of fine facial wrinkles in patients who use comprehensive skin care and sunlight avoidance programs.
 RENOVA (tretinoin cream) 0.02% DOES NOT ELIMINATE WRINKLES, REPAIR SUN-DAMAGED SKIN, REVERSE PHOTOAGING, or RESTORE MORE YOUTHFUL or YOUNGER SKIN.
-In double-blinded, vehicle-controlled clinical studies, many patients in the vehicle group achieved desired palliative effects on fine wrinkling of facial skin with the use of comprehensive skin care and sunlight avoidance programs including sunscreens, protective clothing, and non-prescription emollient creams.
+In double-blind, vehicle-controlled clinical studies, many patients in the vehicle group achieved desired palliative effects on fine wrinkling of facial skin with the use of comprehensive skin care and sunlight avoidance programs including sunscreens, protective clothing, and non-prescription emollient creams.
 
 - •RENOVA (tretinoin cream) 0.02% has NOT DEMONSTRATED A MITIGATING EFFECT on significant signs of chronic sunlight exposure such as coarse or deep wrinkling, tactile roughness, mottled hyperpigmentation, lentigines, telangiectasia, skin laxity, keratinocytic atypia, melanocytic atypia, or dermal elastosis.
 - •RENOVA (tretinoin cream) 0.02% should be used under medical supervision as an adjunct to a comprehensive skin care and sunlight avoidance program that includes the use of effective sunscreens (minimum SPF of 15) and protective clothing.
@@ -16,7 +16,7 @@ In double-blinded, vehicle-controlled clinical studies, many patients in the veh
 ## Clinical Trials
 
 Four adequate and well-controlled multi-center trials and one single-center randomized, controlled trial were conducted involving a total of 324 evaluable patients treated with RENOVA (tretinoin cream) 0.02% and 332 evaluable patients treated with the vehicle cream on the face for 24 weeks with a comprehensive skin care and sun avoidance program, to assess the effects on fine and coarse wrinkling, mottled hyperpigmentation, tactile skin roughness, and laxity.
-Patients were evaluated at baseline on a 10 unit scale and changes from that baseline rating were categorized as follows:
+Patients were evaluated at baseline on a 10-unit scale and changes from that baseline rating were categorized as follows:
 
 | Worsening: | Increase of 1 unit or more. |
 | --- | --- |
@@ -33,7 +33,7 @@ Data for fine wrinkling (the indication for which RENOVA (tretinoin cream) 0.02%
 
 FINE WRINKLING IN LIGHTLY PIGMENTED SUBJECTS
 
-|  | Subjects using RENOVA (tretinoin cream) 0.02% + CSPCSP = Comprehensive skin protection and sunlight avoidance programs including use of sunscreens, protective clothing, and non-prescription emollient creams. (N=279) | Vehicle + CSP (N=280) |  |  |
+|  | Subjects Using RENOVA (tretinoin cream) 0.02% + CSP (N=279) | Vehicle + CSP (N=280) |  |  |
 | --- | --- | --- | --- | --- |
 | Worsened | 1% | 3% |  |  |
 | No Change | 40% | 58% |  |  |
