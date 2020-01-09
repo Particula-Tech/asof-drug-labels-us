@@ -1,6 +1,6 @@
 # MEDICATION GUIDE
 
-Colchicine (KOL-chi-seen) Tablets, USP
+Colchicine (kol’ chi seen) Tablets, USP
 
 Read the Medication Guide that comes with colchicine tablets before you start taking it and each time you get a refill.
 There may be new information.
@@ -47,6 +47,7 @@ What are colchicine tablets?
 
 Colchicine tablets are a prescription medicine used to:
 
+- prevent and treat gout flares in adults
 - treat familial Mediterranean fever (FMF) in adults and children age four or older
 
 Colchicine tablets are not a pain medicine, and it should not be taken to treat pain related to other conditions unless specifically prescribed for those conditions.
@@ -92,6 +93,7 @@ How should I take colchicine tablets?
   If it is almost time for your next dose, just skip the missed dose.
   Take the next dose at your regular time.
   Do not take two doses at the same time.
+- If you have a gout flare while taking colchicine tablets daily, report this to your healthcare provider.
 
 What should I avoid while taking colchicine tablets?
 
@@ -112,6 +114,8 @@ Get medical help right away if you have:
 - Feel weak or tired
 - Pale or gray color to your lips, tongue or palms of your hands
 - Severe diarrhea or vomiting
+
+Gout Flares: The most common side effect of colchicine tablets in people who have gout flares is diarrhea.
 
 FMF: The most common side effects of colchicine tablets in people who have FMF are abdominal pain, diarrhea, nausea and vomiting.
 
@@ -153,7 +157,7 @@ This Medication Guide has been approved by the U.S. Food and Drug Administration
 
 Trademarks are the property of their respective owners.
 
-Distributed by: Amneal Pharmaceuticals Bridgewater, NJ 08807
+Distributed by: Amneal Pharmaceuticals LLC Bridgewater, NJ 08807
 
 Rev.
-08-2016-00
+01-2020-01

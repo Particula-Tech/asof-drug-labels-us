@@ -3,7 +3,7 @@
 ## 12.1 Mechanism of Action
 
 The mechanism by which colchicine exerts its beneficial effect in patients with FMF has not been fully elucidated; however, evidence suggests that colchicine may interfere with the intracellular assembly of the inflammasome complex present in neutrophils and monocytes that mediates activation of interleukin-1β.
-Additionally, colchicine disrupts cytoskeletal functions through inhibition of β-tubulin polymerization into microtubules and consequently prevents the activation, degranulation and migration of neutrophils.
+Additionally, colchicine disrupts cytoskeletal functions through inhibition of β-tubulin polymerization into microtubules and consequently prevents the activation, degranulation and migration of neutrophils thought to mediate some gout symptoms.
 
 ## 12.3 Pharmacokinetics
 
@@ -78,8 +78,8 @@ Elderly subjects in this study had a median age of 62 years and a mean (±SD) ag
 A statistically significant difference in creatinine clearance (mean ± SD) was found between the two age groups (132.56 ± 23.16 mL/min for young vs. 87.02 ± 17.92 mL/min for elderly subjects, respectively).
 The following pharmacokinetic parameter values (mean ± SD) were observed for colchicine in the young and elderly subjects, respectively: AUC0-inf (ng/hr/mL) 22.39 ± 6.95 and 25.01 ± 6.92; Cmax (ng/mL) 2.61 ± 0.71 and 2.56 ± 0.97; Tmax (hr) 1.38 ± 0.42 and 1.25 ± 0.43; apparent elimination half-life (hr) 24.92 ± 5.34 and 30.06 ± 10.78; and clearance (mL/min) 0.0321 ± 0.0091 and 0.0292 ± 0.0071.
 
-Clinical studies with colchicine for treatment of FMF did not include sufficient numbers of patients aged 65 years and older to determine whether they respond differently than younger patients.
-In general, dose selection for an elderly patient should be cautious, reflecting the greater frequency of decreased renal function, concomitant disease or other drug therapy [see Dose Modification for Co-administration of Interacting Drugs (2.4) and Geriatric Use (8.5)].
+Clinical studies with colchicine prophylaxis and treatment of gout flares and for treatment of FMF did not include sufficient numbers of patients aged 65 years and older to determine whether they respond differently than younger patients.
+In general, dose selection for an elderly patient with gout should be cautious, reflecting the greater frequency of decreased renal function, concomitant disease or other drug therapy [see Dose Modification for Co-administration of Interacting Drugs (2.4) and Geriatric Use (8.5)].
 
 Renal Impairment: Pharmacokinetics of colchicine in patients with mild and moderate renal impairment is not known.
 A published report described the disposition of colchicine (1 mg) in young adult men and women with FMF who had normal renal function or end-stage renal disease requiring dialysis.

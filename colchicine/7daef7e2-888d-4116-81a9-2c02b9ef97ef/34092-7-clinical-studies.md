@@ -1,5 +1,31 @@
 # 14 CLINICAL STUDIES
 
+The evidence for the efficacy of colchicine in patients with chronic gout is derived from the published literature.
+Two randomized clinical trials assessed the efficacy of colchicine 0.6 mg twice a day for the prophylaxis of gout flares in patients with gout initiating treatment with urate-lowering therapy.
+In both trials, treatment with colchicine decreased the frequency of gout flares.
+
+The efficacy of a low-dosage regimen of oral colchicine (colchicine total dose 1.8 mg over one hour) for treatment of gout flares was assessed in a multicenter, randomized, double-blind, placebo-controlled, parallel group, one-week, dose-comparison study.
+Patients meeting American College of Rheumatology criteria for gout were randomly assigned to three groups: high-dose colchicine (1.2 mg, then 0.6 mg hourly × 6 hours
+
+[4.8 mg total]); low-dose colchicine (1.2 mg, then 0.6 mg in 1 hour [1.8 mg total] followed by five placebo doses hourly); or placebo (two capsules, then one capsule hourly × 6 hours).
+Patients took the first dose within 12 hours of the onset of the flare and recorded pain intensity (11-point Likert scale) and adverse events over 72 hours.
+The efficacy of colchicine was measured based on response to treatment in the target joint, using patient self-assessment of pain at 24 hours following the time of first dose as recorded in the diary.
+A responder was one who achieved at least a 50% reduction in pain score at the 24 hour post dose assessment relative to the pretreatment score and did not use rescue medication prior to the actual time of 24 hour post dose assessment.
+
+Rates of response were similar for the recommended low-dose treatment group (38%) and the non-recommended high-dose group (33%) but were higher as compared to the placebo group (16%) as shown in Table 8.
+
+Table 8.
+Number (%) of Responders Based on Target Joint Pain Score at 24 Hours Post First Dose
+
+| Colchicine Dose Responders n (%) |  | Placebo n (%) (n=58) | % Differences in Proportion |  |
+| --- | --- | --- | --- | --- |
+| Low-Dose (n=74) | High-Dose(n=52) | Low-Dose vs Placebo (95% CI) | High-Dose vs Placebo (95% CI) |  |
+| 28 (38%) | 17 (33%) | 9 (16%) | 22 (8, 37) | 17 (1, 33) |
+
+Figure 1 shows the percentage of patients achieving varying degrees of improvement in pain from baseline at 24 hours.
+
+Figure 1 Pain Relief on Low and High Doses of Colchicine and Placebo (Cumulative)
+
 The evidence for the efficacy of colchicine in patients with FMF is derived from the published literature.
 Three randomized, placebo-controlled studies were identified.
 The three placebo-controlled studies randomized a total of 48 adult patients diagnosed with FMF and reported similar efficacy endpoints as well as inclusion and exclusion criteria.

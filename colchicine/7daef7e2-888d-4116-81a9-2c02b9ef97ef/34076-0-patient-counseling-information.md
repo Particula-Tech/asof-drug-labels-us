@@ -8,7 +8,10 @@ Patients should be advised to take colchicine as prescribed, even if they are fe
 Patients should not alter the dose or discontinue treatment without consulting with their doctor.
 If a dose of colchicine is missed:
 
-- For FMF, take the dose as soon as possible and then return to the normal dosing schedule.
+- For treatment of a gout flare when the patient is not being dosed for prophylaxis, take the missed dose as soon as possible.
+- For treatment of a gout flare during prophylaxis, take the missed dose immediately, wait 12 hours, then resume the previous dosing schedule.
+
+- For prophylaxis without treatment for a gout flare, or FMF, take the dose as soon as possible and then return to the normal dosing schedule.
   However, if a dose is skipped the patient should not double the next dose.
 
 Fatal Overdose
@@ -32,7 +35,7 @@ Neuromuscular Toxicity
 Patients should be informed that muscle pain or weakness, tingling or numbness in fingers or toes may occur with colchicine alone or when it is used with certain other drugs.
 Patients developing any of these signs or symptoms must discontinue colchicine and seek medical evaluation immediately.
 
-Distributed by: Amneal Pharmaceuticals Bridgewater, NJ 08807
+Distributed by: Amneal Pharmaceuticals LLC Bridgewater, NJ 08807
 
 Rev.
-08-2016-00
+01-2020-01

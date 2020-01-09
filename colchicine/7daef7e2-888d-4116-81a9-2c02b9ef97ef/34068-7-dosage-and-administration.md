@@ -1,6 +1,6 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-The long-term use of colchicine, USP is established for FMF.
+The long-term use of colchicine, USP is established for FMF and the prophylaxis of gout flares, but the safety and efficacy of repeat treatment for gout flares has not been evaluated.
 The dosing regimens for colchicine tablets, USP are different for each indication and must be individualized.
 
 The recommended dosage of colchicine tablets, USP depends on the patient’s age, renal function, hepatic function and use of co-administered drugs [see Dose Modification for Co-administration of Interacting Drugs (2.4)].
@@ -8,6 +8,25 @@ The recommended dosage of colchicine tablets, USP depends on the patient’s age
 Colchicine tablets, USP are administered orally without regard to meals.
 
 Colchicine tablets, USP are not an analgesic medication and should not be used to treat pain from other causes.
+
+## 2.1 Gout Flares
+
+Prophylaxis of Gout Flares
+
+The recommended dosage of colchicine tablets, USP for prophylaxis of gout flares for adults and adolescents older than 16 years of age is 0.6 mg once or twice daily.
+The maximum recommended dose for prophylaxis of gout flares is 1.2 mg/day.
+
+An increase in gout flares may occur after initiation of uric acid-lowering therapy, including pegloticase, febuxostat and allopurinol, due to changing serum uric acid levels resulting in mobilization of urate from tissue deposits.
+Colchicine tablets, USP are recommended upon initiation of gout flare prophylaxis with uric acid-lowering therapy.
+Prophylactic therapy may be beneficial for at least the first six months of uric acid-lowering therapy.
+
+Treatment of Gout Flares
+
+The recommended dose of colchicine tablets, USP for treatment of a gout flare is 1.2 mg (two tablets) at the first sign of the flare followed by 0.6 mg (one tablet) one hour later.
+Higher doses have not been found to be more effective.
+The maximum recommended dose for treatment of gout flares is 1.8 mg over a one-hour period.
+Colchicine tablets, USP may be administered for treatment of a gout flare during prophylaxis at doses not to exceed 1.2 mg (two tablets) at the first sign of the flare followed by 0.6 mg (one tablet) one hour later.
+Wait 12 hours and then resume the prophylactic dose.
 
 ## 2.2 FMF
 
@@ -18,6 +37,10 @@ If intolerable side effects develop, the dose should be decreased in increments 
 The total daily colchicine tablets, USP dose may be administered in one to two divided doses.
 
 ## 2.3 Recommended Pediatric Dosage
+
+Prophylaxis and Treatment of Gout Flares
+
+Colchicine tablets, USP are not recommended for pediatric use in prophylaxis or treatment of gout flares.
 
 FMF
 
@@ -38,39 +61,58 @@ If patients are taking or have recently completed treatment with drugs listed in
 Table 1.
 Colchicine Tablets, USP Dose Adjustment for Co-administration with Interacting Drugs if no Alternative Available*
 
-| Strong CYP3A4 Inhibitors† |  |  |  |
-| --- | --- | --- | --- |
-| Drug | Noted or Anticipated Outcome | FMF |  |
-| Original Intended Dosage | Adjusted Dose |  |  |
-| Atazanavir Clarithromycin Darunavir/ Ritonavir‡ Indinavir Itraconazole Ketoconazole Lopinavir/ Ritonavir‡ Nefazodone Nelfinavir Ritonavir Saquinavir Telithromycin Tipranavir/ Ritonavir‡ | Significant increase in colchicine, USP plasma levels*; fatal colchicine, USP toxicity has been reported with clarithromycin, a strong CYP3A4 inhibitor. Similarly, significant increase in colchicine, USP plasma levels is anticipated with other strong CYP3A4 inhibitors. | Maximum daily dose of 1.2 to 2.4 mg | Maximum daily dose of 0.6 mg (may be given as 0.3 mg twice a day) |
-| Moderate CYP3A4 Inhibitors |  |  |  |
-| Drug | Noted or Anticipated Outcome | FMF |  |
-| Original Intended Dosage | Adjusted Dose |  |  |
-| Amprenavir‡ Aprepitant Diltiazem Erythromycin Fluconazole Fosamprenavir‡ (pro-drug of Amprenavir) Grapefruit juice Verapamil | Significant increase in colchicine, USP plasma concentration is anticipated. Neuromuscular toxicity has been reported with diltiazem and verapamil interactions. | Maximum daily dose of 1.2 to 2.4 mg | Maximum daily dose of 1.2 mg (may be given as 0.6 mg twice a day) |
-| P-gp Inhibitors† |  |  |  |
-| Drug | Noted or Anticipated Outcome | FMF |  |
-| Original Intended Dosage | Adjusted Dose |  |  |
-| Cyclosporine Ranolazine | Significant increase in colchicine, USP plasma levels*; fatal colchicine, USP toxicity has been reported with cyclosporine, a P-gp inhibitor. Similarly, significant increase in colchicine, USP plasma levels is anticipated with other P-gp inhibitors. | Maximum daily dose of 1.2 to 2.4 mg | Maximum daily dose of 0.6 mg (may be given as 0.3 mg twice a day) |
+| Strong CYP3A4 Inhibitors† |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Drug | Noted or Anticipated Outcome | Gout Flares |  |  |  |  |  | FMF |  |  |
+| Prophylaxis of Gout Flares |  | Treatment of Gout Flares |  |  |  |  |  |  |  |  |
+| Original Intended Dosage | Adjusted Dose | Original Intended Dosage |  | Adjusted Dose |  | Original Intended Dosage |  | Adjusted Dose |  |  |
+| Atazanavir Clarithromycin Darunavir/ Ritonavir‡ Indinavir Itraconazole Ketoconazole Lopinavir/ Ritonavir‡ Nefazodone Nelfinavir Ritonavir Saquinavir Telithromycin Tipranavir/ Ritonavir‡ | Significant increase in colchicine, USP plasma levels*; fatal colchicine, USP toxicity has been reported with clarithromycin, a strong CYP3A4 inhibitor. Similarly, significant increase in colchicine, USP plasma levels is anticipated with other strong CYP3A4 inhibitors. | 0.6 mg twice a day0.6 mg once a day | 0.3 mg once a day0.3 mg once every other day | 1.2 mg (2 tablets) followed by 0.6 mg (1 tablet) 1 hour later.Dose to be repeated no earlier than 3 days. |  | 0.6 mg (1 tablet) x 1 dose, followed by 0.3 mg (1/2 tablet) 1 hour later. Dose to be repeated no earlier than 3 days. |  | Maximum daily dose of 1.2 to 2.4 mg |  | Maximum daily dose of 0.6 mg (may be given as 0.3 mg twice a day) |
+| Moderate CYP3A4 Inhibitors |  |  |  |  |  |  |  |  |  |  |
+| Drug | Noted or Anticipated Outcome | Gout Flares |  |  |  |  |  | FMF |  |  |
+| Prophylaxis of Gout Flares |  | Treatment of Gout Flares |  |  |  |  |  |  |  |  |
+| Original Intended Dosage | Adjusted Dose | Original Intended Dosage |  | Adjusted Dose |  | Original Intended Dosage |  | Adjusted Dose |  |  |
+| Amprenavir‡ Aprepitant Diltiazem Erythromycin Fluconazole Fosamprenavir‡ (pro-drug of Amprenavir) Grapefruit juice Verapamil | Significant increase in colchicine, USP plasma concentration is anticipated. Neuromuscular toxicity has been reported with diltiazem and verapamil interactions. | 0.6 mg twice a day0.6 mg once a day | 0.3 mg twice a day or 0.6 mg once a day0.3 mg once a day | 1.2 mg (2 tablets) followed by 0.6 mg (1 tablet) 1 hour later.Dose to be repeated no earlier than 3 days. |  | 1.2 mg (2 tablets) x 1 dose. Dose to be repeated no earlier than 3 days. |  | Maximum daily dose of 1.2 to 2.4 mg |  | Maximum daily dose of 1.2 mg (may be given as 0.6 mg twice a day) |
+| P-gp Inhibitors† |  |  |  |  |  |  |  |  |  |  |
+| Drug | Noted or Anticipated Outcome |  |  |  |  |  | FMF |  |  |  |
+| Prophylaxis of Gout Flares |  | Treatment of Gout Flares |  |  |  |  |  |  |  |  |
+| Original Intended Dosage | Adjusted Dose | Original Intended Dosage | Adjusted Dose |  | Original Intended Dosage |  | Adjusted Dose |  |  |  |
+| Cyclosporine Ranolazine | Significant increase in colchicine, USP plasma levels*; fatal colchicine, USP toxicity has been reported with cyclosporine, a P-gp inhibitor. Similarly, significant increase in colchicine, USP plasma levels is anticipated with other P-gp inhibitors. | 0.6 mg twice a day0.6 mg once a day | 0.3 mg once a day0.3 mg once every other day | 1.2 mg (2 tablets) followed by 0.6 mg (1 tablet) 1 hour later.Dose to be repeated no earlier than 3 days. | 0.6 mg (1 tablet) x 1 dose. Dose to be repeated no earlier than 3 days. |  | Maximum daily dose of 1.2 to 2.4 mg |  | Maximum daily dose of 0.6 mg (may be given as 0.3 mg twice a day) |  |
 
-* For magnitude of effect on colchicine, USP plasma concentrations [see Pharmacokinetics (12.3)] † Patients with renal or hepatic impairment should not be given colchicine tablets, USP in conjunction with strong CYP3A4 or P-gp inhibitors [see Contraindications (4)]. ‡ When used in combination with Ritonavir, see dosing recommendations for strong CYP3A4 inhibitors [see Contraindications (4)].
+* For magnitude of effect on colchicine, USP plasma concentrations [see Pharmacokinetics (12.3)]
+
+† Patients with renal or hepatic impairment should not be given colchicine tablets, USP in conjunction with strong CYP3A4 or P-gp inhibitors [see Contraindications (4)].
+
+‡ When used in combination with Ritonavir, see dosing recommendations for strong CYP3A4 inhibitors [see Contraindications (4)].
 
 Table 2.
 Colchicine Tablets, USP Dose Adjustment for Co-administration with Protease Inhibitors
 
-| Protease Inhibitor | Clinical Comment | w/Colchicine – Treatment of FMF |
-| --- | --- | --- |
-| Atazanavir sulfate (Reyataz) | Patients with renal or hepatic impairment should not be given colchicine, USP with Reyataz. | Maximum daily dose of 0.6 mg (may be given as 0.3 mg twice a day) |
-| Darunavir (Prezista) | Patients with renal or hepatic impairment should not be given colchicine, USP with Prezista/ritonavir. | Maximum daily dose of 0.6 mg (may be given as 0.3 mg twice a day) |
-| Fosamprenavir (Lexiva) with Ritonavir | Patients with renal or hepatic impairment should not be given colchicine, USP with Lexiva/ritonavir. | Maximum daily dose of 0.6 mg (may be given as 0.3 mg twice a day) |
-| Fosamprenavir (Lexiva) | Patients with renal or hepatic impairment should not be given colchicine, USP with Lexiva/ritonavir. | Maximum daily dose of 1.2 mg (may be given as 0.6 mg twice a day) |
-| Indinavir (Crixivan) | Patients with renal or hepatic impairment should not be given colchicine, USP with Crixivan | Maximum daily dose of 0.6 mg (may be given as 0.3 mg twice a day) |
-| Lopinavir/Ritonavir (Kaletra) | Patients with renal or hepatic impairment should not be given colchicine, USP with Kaletra | Maximum daily dose of 0.6 mg (may be given as 0.3 mg twice a day) |
-| Nelfinavir mesylate (Viracept) | Patients with renal or hepatic impairment should not be given colchicine, USP with Viracept | Maximum daily dose of 0.6 mg (may be given as 0.3 mg twice a day) |
-| Ritonavir (Norvir) | Patients with renal or hepatic impairment should not be given colchicine, USP with Norvir | Maximum daily dose of 0.6 mg (may be given as 0.3 mg twice a day) |
-| Saquinavir mesylate (Invirase) | Patients with renal or hepatic impairment should not be given colchicine, USP with Invirase/ritonavir | Maximum daily dose of 0.6 mg (may be given as 0.3 mg twice a day) |
-| Tipranavir (Aptivus) | Patients with renal or hepatic impairment should not be given colchicine, USP with Aptivus/ritonavir | Maximum daily dose of 0.6 mg (may be given as 0.3 mg twice a day) |
+| Protease Inhibitor | Clinical Comment | w/Colchicine - Prophylaxis of Gout Flares |  | w/Colchicine –Treatment of Gout Flares | w/Colchicine – Treatment of FMF |
+| --- | --- | --- | --- | --- | --- |
+| Atazanavir sulfate (Reyataz) | Patients with renal or hepatic impairment should not be given colchicine, USP with Reyataz. | Original Dose | Adjusted Dose | 0.6 mg (1 tablet) x 1 dose, followed by 0.3 mg (1/2 tablet) 1 hour later. Dose to be repeated no earlier than 3 days. | Maximum daily dose of 0.6 mg (may be given as 0.3 mg twice a day) |
+| 0.6 mg twice a day0.6 mg once a day | 0.3 mg once a day0.3 mg once every other day |  |  |  |  |
+| Darunavir (Prezista) | Patients with renal or hepatic impairment should not be given colchicine, USP with Prezista/ritonavir. | Original Dose | Adjusted Dose | 0.6 mg (1 tablet) x 1 dose, followed by 0.3 mg (1/2 tablet) 1 hour later. Dose to be repeated no earlier than 3 days. | Maximum daily dose of 0.6 mg (may be given as 0.3 mg twice a day) |
+| 0.6 mg twice a day0.6 mg once a day | 0.3 mg once a day0.3 mg once every other day |  |  |  |  |
+| Fosamprenavir (Lexiva) with Ritonavir | Patients with renal or hepatic impairment should not be given colchicine, USP with Lexiva/ritonavir. | Original Dose | Adjusted Dose | 0.6 mg (1 tablet) x 1 dose, followed by 0.3 mg (1/2 tablet) 1 hour later. Dose to be repeated no earlier than 3 days. | Maximum daily dose of 0.6 mg (may be given as 0.3 mg twice a day) |
+| 0.6 mg twice a day0.6 mg once a day | 0.3 mg once a day0.3 mg once every other day |  |  |  |  |
+| Fosamprenavir (Lexiva) | Patients with renal or hepatic impairment should not be given colchicine, USP with Lexiva/ritonavir. | Original Dose | Adjusted Dose | 1.2 mg (2 tablets) x 1 dose. Dose to be repeated no earlier than 3 days. | Maximum daily dose of 1.2 mg (may be given as 0.6 mg twice a day) |
+| 0.6 mg twice a day0.6 mg once a day | 0.3 mg twice a day or 0.6 mg once a day0.3 mg once a day |  |  |  |  |
+| Indinavir (Crixivan) | Patients with renal or hepatic impairment should not be given colchicine, USP with Crixivan | Original Dose | Adjusted Dose | 0.6 mg (1 tablet) x 1 dose, followed by 0.3 mg (1/2 tablet) 1 hour later. Dose to be repeated no earlier than 3 days. | Maximum daily dose of 0.6 mg (may be given as 0.3 mg twice a day) |
+| 0.6 mg twice a day0.6 mg once a day | 0.3 mg once a day0.3 mg once every other day |  |  |  |  |
+| Lopinavir/Ritonavir (Kaletra) | Patients with renal or hepatic impairment should not be given colchicine, USP with Kaletra | Original Dose | Adjusted Dose | 0.6 mg (1 tablet) x 1 dose, followed by 0.3 mg (1/2 tablet) 1 hour later. Dose to be repeated no earlier than 3 days. | Maximum daily dose of 0.6 mg (may be given as 0.3 mg twice a day) |
+| 0.6 mg twice a day0.6 mg once a day | 0.3 mg once a day0.3 mg once every other day |  |  |  |  |
+| Nelfinavir mesylate (Viracept) | Patients with renal or hepatic impairment should not be given colchicine, USP with Viracept | Original Dose | Adjusted Dose | 0.6 mg (1 tablet) x 1 dose, followed by 0.3 mg (1/2 tablet) 1 hour later. Dose to be repeated no earlier than 3 days. | Maximum daily dose of 0.6 mg (may be given as 0.3 mg twice a day) |
+| 0.6 mg twice a day0.6 mg once a day | 0.3 mg once a day0.3 mg once every other day |  |  |  |  |
+| Ritonavir (Norvir) | Patients with renal or hepatic impairment should not be given colchicine, USP with Norvir | Original Dose | Adjusted Dose | 0.6 mg (1 tablet) x 1 dose, followed by 0.3 mg (1/2 tablet) 1 hour later. Dose to be repeated no earlier than 3 days. | Maximum daily dose of 0.6 mg (may be given as 0.3 mg twice a day) |
+| 0.6 mg twice a day0.6 mg once a day | 0.3 mg once a day0.3 mg once every other day |  |  |  |  |
+| Saquinavir mesylate (Invirase) | Patients with renal or hepatic impairment should not be given colchicine, USP with Invirase/ritonavir | Original Dose | Adjusted Dose | 0.6 mg (1 tablet) x 1 dose, followed by 0.3 mg (1/2 tablet) 1 hour later. Dose to be repeated no earlier than 3 days. | Maximum daily dose of 0.6 mg (may be given as 0.3 mg twice a day) |
+| 0.6 mg twice a day0.6 mg once a day | 0.3 mg once a day0.3 mg once every other day |  |  |  |  |
+| Tipranavir (Aptivus) | Patients with renal or hepatic impairment should not be given colchicine, USP with Aptivus/ritonavir | Original Dose | Adjusted Dose | 0.6 mg (1 tablet) x 1 dose, followed by 0.3 mg (1/2 tablet) 1 hour later. Dose to be repeated no earlier than 3 days. | Maximum daily dose of 0.6 mg (may be given as 0.3 mg twice a day) |
+| 0.6 mg twice a day0.6 mg once a day | 0.3 mg once a day0.3 mg once every other day |  |  |  |  |
 
-## ​2.5 Dose Modification in Renal Impairment
+Treatment of gout flares with colchicine tablets, USP is not recommended in patients receiving prophylactic dose of colchicine tablets, USP and CYP3A4 inhibitors.
+
+## 2.5 Dose Modification in Renal Impairment
 
 Colchicine, USP dosing must be individualized according to the patient's renal function [see Renal Impairment (8.6)].
 
@@ -82,6 +124,24 @@ Clcr = ---------------------------------------- × 0.85 for female patients
 
 72 × serum creatinine (mg/dL)
 
+Gout Flares
+
+Prophylaxis of Gout Flares
+
+For prophylaxis of gout flares in patients with mild (estimated creatinine clearance [Clcr] 50 to 80 mL/min) to moderate (Clcr 30 to 50 mL/min) renal function impairment, adjustment of the recommended dose is not required, but patients should be monitored closely for adverse effects of colchicine.
+However, in patients with severe impairment, the starting dose should be 0.3 mg/day and any increase in dose should be done with close monitoring.
+For the prophylaxis of gout flares in patients undergoing dialysis, the starting doses should be 0.3 mg given twice a week with close monitoring [see Clinical Pharmacology (12.3) and Renal Impairment (8.6)].
+
+Treatment of Gout Flares
+
+For treatment of gout flares in patients with mild (Clcr 50 to 80 mL/min) to moderate (Clcr 30 to 50 mL/min) renal function impairment, adjustment of the recommended dose is not required, but patients should be monitored closely for adverse effects of colchicine.
+However, in patients with severe impairment, while the dose does not need to be adjusted for the treatment of gout flares, a treatment course should be repeated no more than once every two weeks.
+For patients with gout flares requiring repeated courses, consideration should be given to alternate therapy.
+For patients undergoing dialysis, the total recommended dose for the treatment of gout flares should be reduced to a single dose of 0.6 mg (one tablet).
+For these patients, the treatment course should not be repeated more than once every two weeks [see Clinical Pharmacology (12.3) and Renal Impairment (8.6)].
+
+Treatment of gout flares with colchicine tablets, USP is not recommended in patients with renal impairment who are receiving colchicine tablets, USP for prophylaxis.
+
 FMF Caution should be taken in dosing patients with moderate and severe renal impairment and in patients undergoing dialysis.
 For these patients, the dosage should be reduced [see Clinical Pharmacology (12.3)].
 Patients with mild (Clcr 50 to 80 mL/min) and moderate (Clcr 30 to 50 mL/min) renal impairment should be monitored closely for adverse effects of colchicine tablets, USP.
@@ -92,6 +152,21 @@ Dosing can be increased with close monitoring.
 Any increase in dose should be done with adequate monitoring of the patient for adverse effects of colchicine [see Clinical Pharmacology (12.3) and Renal Impairment (8.6)].
 
 ## 2.6 Dose Modification in Hepatic Impairment
+
+Gout Flares
+
+Prophylaxis of Gout Flares
+
+For prophylaxis of gout flares in patients with mild to moderate hepatic function impairment, adjustment of the recommended dose is not required, but patients should be monitored closely for adverse effects of colchicine.
+Dose reduction should be considered for the prophylaxis of gout flares in patients with severe hepatic impairment [see Hepatic Impairment (8.7)].
+
+Treatment of Gout Flares
+
+For treatment of gout flares in patients with mild to moderate hepatic function impairment, adjustment of the recommended dose is not required, but patients should be monitored closely for adverse effects of colchicine.
+However, for the treatment of gout flares in patients with severe impairment, while the dose does not need to be adjusted, a treatment course should be repeated no more than once every two weeks.
+For these patients, requiring repeated courses for the treatment of gout flares, consideration should be given to alternate therapy [see Hepatic Impairment (8.7)].
+
+Treatment of gout flares with colchicine tablets, USP is not recommended in patients with hepatic impairment who are receiving colchicine tablets, USP for prophylaxis.
 
 FMF Patients with mild to moderate hepatic impairment should be monitored closely for adverse effects of colchicine.
 Dose reduction should be considered in patients with severe hepatic impairment [see Hepatic Impairment (8.7)].

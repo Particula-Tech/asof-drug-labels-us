@@ -6,7 +6,7 @@ Colchicine tablets, USP, 0.6 mg, are purple, capsule-shaped, film-coated tablets
 
 They are available as:
 
-Bottles of 30: NDC 65162-710-03 Bottles of 90: NDC 65162-710-09 Bottles of 1000: NDC 65162-710-11
+Bottles of 30: NDC 65162-710-03 Bottles of 90: NDC 65162-710-09 Bottles of 1,000: NDC 65162-710-11
 
 ## 16.2 Storage
 
