@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA211231"
+  ],
+  "inn": "penicillamine",
+  "labeler": "Par Pharmaceutical, Inc.",
+  "package_ndcs": [
+    "49884-146-01"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "penicillamine",
+      "name": "Penicillamine"
+    }
+  ],
+  "setid": "01e79d8f-8c74-4f48-b761-9f225fabf93d",
+  "source": "dailymed"
+}
