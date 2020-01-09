@@ -2,35 +2,60 @@
 
 ## 8.1 Pregnancy
 
-Teratogenic Effects Pregnancy Category C: There are no adequate and well-controlled studies of risedronate in pregnant women.
-Risedronate should be used during pregnancy only if the potential benefit justifies the potential risk to the mother and fetus.
-Bisphosphonates are incorporated into the bone matrix, from which they are gradually released over periods of weeks to years.
-The amount of bisphosphonate incorporation into adult bone, and hence, the amount available for release back into the systemic circulation, is directly related to the dose and duration of bisphosphonate use.
-There are no data on fetal risk in humans.
-However, there is a theoretical risk of fetal harm, predominantly skeletal, if a woman becomes pregnant after completing a course of bisphosphonate therapy.
+Risk Summary
+
+Available data on the use of risedronate in pregnant women are insufficient to inform a drug-associated risk of adverse maternal or fetal outcomes.
+Discontinue risedronate when pregnancy is recognized.
+
+In animal reproduction studies, daily oral administration of risedronate to pregnant rats during organogenesis decreased neonatal survival and body weight at doses approximately 5 and 26 times, respectively, the highest recommended human daily dose of 30 mg (based on body surface area, mg/m2).
+A low incidence of cleft palate was observed in fetuses of dams treated at doses approximately equal to the 30 mg human daily dose.
+Delayed skeletal ossification was observed in fetuses of dams treated at approximately 2.5 to 5 times the 30 mg human daily dose.
+Periparturient mortality due to maternal hypocalcemia occurred in dams and neonates upon daily oral administration of risedronate to pregnant rats during mating and/or gestation starting at doses equivalent to the 30 mg daily human dose.
+
+Bisphosphonates are incorporated into the bone matrix, from which they are gradually released over a period of years.
+The amount of bisphosphonate incorporated into adult bone and available for release into the systemic circulation is directly related to the dose and duration of bisphosphonate use.
+Consequently, based on the mechanism of action of bisphosphonates, there is a potential risk of fetal harm, predominantly skeletal, if a woman becomes pregnant after completing a course of bisphosphonate therapy.
 The impact of variables such as time between cessation of bisphosphonate therapy to conception, the particular bisphosphonate used, and the route of administration (intravenous versus oral) on this risk has not been studied.
-In animal studies, pregnant rats received risedronate sodium during organogenesis at doses 1 to 26 times the human dose of 30 mg/day.
-Survival of neonates was decreased in rats treated during gestation with oral doses approximately 5 times the human dose and body weight was decreased in neonates from dams treated with approximately 26 times the human dose.
-The number of fetuses exhibiting incomplete ossification of sternebrae or skull from dams treated with approximately 2.5 times the human dose was significantly increased compared to controls.
-Both incomplete ossification and unossified sternebrae were increased in rats treated with oral doses approximately 5 times the human dose.
-A low incidence of cleft palate was observed in fetuses from female rats treated with oral doses approximately equal to the human dose.
-The relevance of this finding to human use of risedronate is unclear.
-No significant fetal ossification effects were seen in rabbits treated with oral doses approximately 7 times the human dose (the highest dose tested).
+
+The estimated background risk of major birth defects and miscarriage for the indicated populations is unknown.
+All pregnancies have a background risk of birth defects, loss, or other adverse outcomes.
+In the U.S. general population, the estimated background risks of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively.
+
+Data
+
+Animal Data
+
+In animal studies, pregnant rats received risedronate sodium during organogenesis at doses equivalent to 1 to 26 times the 30 mg human daily dose (based on body surface area, mg/m2).
+Survival of neonates was decreased in dams treated during gestation with oral doses approximately 5 times the human dose, and body weight was decreased in neonates of dams treated with approximately 26 times the human dose.
+A low incidence of cleft palate was observed in fetuses of dams treated with oral doses approximately equal to the human dose.
+The number of fetuses exhibiting incomplete ossification of sternebrae or skull of dams treated with approximately 2.5 times the human dose was significantly increased compared to controls.
+Both incomplete ossification and unossified sternebrae were increased in fetuses of dams treated with oral doses approximately 5 times the human dose.
+
+No significant ossification effects were seen in fetuses of rabbits treated with oral doses approximately 7 times the human dose (the highest dose tested).
 However, 1 of 14 litters were aborted and 1 of 14 litters were delivered prematurely.
-Similar to other bisphosphonates, treatment during mating and gestation with doses of risedronate sodium approximately the same as the 30 mg/day human dose resulted in periparturient hypocalcemia and mortality in pregnant rats allowed to deliver.
-Dosing multiples provided above are based on the recommended human dose of 30 mg/day and normalized using body surface area (mg/m2).
-Actual animal doses were 3.2, 7.1 and 16 mg/kg/day in the rat and 10 mg/kg/day in the rabbit.
 
-## 8.3 Nursing Mothers
+Periparturient mortality due to maternal hypocalcemia occurred in dams and neonates when pregnant rats were treated daily during mating and/or gestation with oral doses equivalent to the human dose or higher.
 
-Risedronate was detected in feeding pups exposed to lactating rats for a 24-hour period post-dosing, indicating a small degree of lacteal transfer.
-It is not known whether risedronate is excreted in human milk.
-Because many drugs are excreted in human milk and because of the potential for serious adverse reactions in nursing infants from risedronate, a decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother.
+## 8.2 Lactation
+
+Risk Summary
+
+There are no data on the presence of risedronate in human milk, the effects on the breastfed infant, or the effects on milk production.
+A small degree of lacteal transfer occurred in nursing rats.
+The concentration of the drug in animal milk does not necessarily predict the concentration of drug in human milk.
+However, when a drug is present in animal milk, it is likely that the drug will be present in human milk.
+The developmental and health benefits of breast-feeding should be considered along with the mother’s clinical need for risedronate and any potential adverse effects on the breast-fed child from risedronate or from the underlying maternal condition.
+
+Data
+
+Animal Data
+
+Risedronate was detected in neonates of lactating rats given a single oral dose of risedronate at 24-hours post-dosing, indicating a small degree of lacteal transfer.
 
 ## 8.4 Pediatric Use
 
 Risedronate is not indicated for use in pediatric patients.
-The safety and effectiveness of risedronate was assessed in a one-year, randomized, double-blind, placebo controlled study of 143 pediatric patients (94 received risedronate) with osteogenesis imperfecta (OI).
+The safety and effectiveness of risedronate was assessed in a one-year, randomized, double-blind, placebo-controlled study of 143 pediatric patients (94 received risedronate) with osteogenesis imperfecta (OI).
 The enrolled population was predominantly patients with mild osteogenesis imperfecta (85% Type-I), aged 4 to less than 16 years, 50% male and 82% Caucasian, with a mean lumbar spine BMD Z-score of -2.08 (2.08 standard deviations below the mean for age-matched controls).
 Patients received either a 2.5 mg (less than or equal to 30 kg body weight) or 5 mg (greater than 30 kg body weight) daily oral dose.
 After one year, an increase in lumbar spine BMD in the risedronate group compared to the placebo group was observed.

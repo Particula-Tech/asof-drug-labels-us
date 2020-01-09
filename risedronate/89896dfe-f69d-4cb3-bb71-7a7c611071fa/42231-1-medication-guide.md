@@ -76,7 +76,8 @@ Before you start risedronate sodium tablets, be sure to talk to your doctor if y
 - Plan to have dental surgery or teeth removed
 - Have kidney problems
 - Have been told you have trouble absorbing minerals in your stomach or intestines (malabsorption syndrome)
-- Are pregnant, or plan to become pregnant.
+- Are pregnant, plan to become pregnant, or suspect that you are pregnant.
+  If you become pregnant while taking risedronate sodium tablets, stop taking it and contact your doctor.
   It is not known if risedronate sodium tablets can harm your unborn baby.
 - Are breastfeeding or plan to breastfeed.
   It is not known if risedronate sodium passes into your milk and may harm your baby.
@@ -153,4 +154,5 @@ What are the ingredients in risedronate sodium tablets?
 Active ingredient: risedronate sodium Inactive ingredients in all dose strengths: crospovidone, hydroxypropyl cellulose, hypromellose, lactose monohydrate, magnesium stearate, microcrystalline cellulose, polyethylene glycol, and titanium dioxide.
 Inactive ingredients specific to a dose strength: 5 mg—colloidal silicon dioxide and iron oxide yellow; 35 mg—colloidal silicon dioxide, iron oxide red, and iron oxide yellow.
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
-Dispense with Medication Guide available at: www.aurobindousa.com/product-medication-guides Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 038, India Revised: 07/2018
+Dispense with Medication Guide available at: www.aurobindousa.com/product-medication-guides Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 038, India The brands listed are trademarks of their respective owners and are not trademarks of Aurobindo Pharma Limited.
+Revised: 01/2020

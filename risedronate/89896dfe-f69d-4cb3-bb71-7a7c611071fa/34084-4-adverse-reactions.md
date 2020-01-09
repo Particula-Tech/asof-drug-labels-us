@@ -223,5 +223,4 @@ Gastrointestinal Adverse Events Events involving upper gastrointestinal irritati
 Musculoskeletal Pain Bone, joint, or muscle pain, described as severe or incapacitating, have been reported rarely [see Warnings and Precautions (5.4)].
 Eye Inflammation Reactions of eye inflammation including iritis and uveitis have been reported rarely.
 Jaw Osteonecrosis Osteonecrosis of the jaw has been reported rarely [see Warnings and Precautions (5.3)].
-
 Pulmonary Asthma exacerbations
