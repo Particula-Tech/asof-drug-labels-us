@@ -9,4 +9,4 @@ The chemical name for clindamycin palmitate hydrochloride is Methyl 7-chloro-6, 
 
 CLEOCIN PEDIATRIC Flavored Granules contain clindamycin palmitate hydrochloride for reconstitution.
 Each 5 mL contains the equivalent of 75 mg clindamycin.
-Inactive ingredients: artificial cherry flavor, dextrin, ethylparaben, pluronic F68, simethicone, sucrose.
+Inactive ingredients: artificial cherry flavor, ethylparaben, pluronic F68, simethicone, sucrose.

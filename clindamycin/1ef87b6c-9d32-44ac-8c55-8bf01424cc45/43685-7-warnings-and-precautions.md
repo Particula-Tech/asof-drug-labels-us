@@ -90,6 +90,7 @@ Fertility studies in rats treated orally with up to 300 mg/kg/day (approximately
 
 ## Pregnancy: Teratogenic Effects
 
+In clinical trials with pregnant women, the systemic administration of clindamycin during the second and third trimesters, has not been associated with an increased frequency of congenital abnormalities.
 Clindamycin should be used during the first trimester of pregnancy only if clearly needed.
 There are no adequate and well-controlled studies in pregnant women during the first trimester of pregnancy.
 Because animal reproduction studies are not always predictive of the human response, this drug should be used during pregnancy only if clearly needed.
