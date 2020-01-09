@@ -40,8 +40,17 @@ How should I take insulin aspart protamine and insulin aspart?
   The amount of insulin and the best time for you to take your insulin may need to change if you take different types of insulin.
 - •Check your blood sugar levels.
   Ask your healthcare provider what your blood sugars should be and when you should check your blood sugar levels.
-- •Do not reuse or share your needles or syringes with other people.
-  You may give other people a serious infection or get a serious infection from them.
+- • Do not reuse or share your needles or syringes with other people.
+  You may give other people a serious
+- infection or get a serious infection from them.
+- • Insulin aspart protamine and insulin aspart is injected under the skin (subcutaneously) of your stomach area,
+- buttocks, upper legs, or upper arms.
+- • Change (rotate) your injections sites within the same area you choose with each dose to reduce your risk of
+- getting lypodystrophy (pits in skin or thickened skin) and localized cutaneous amyloidosis (skin with lumps) at the
+- injection sites.
+- oDo not use the exact same spot for each injection.
+- oDo not inject where skin has pits, is thickened, or has lumps.
+- oDo not inject where the skin is tender, bruised, scaly or hard, or into scars or damaged skin.
 
 What should I avoid while taking insulin aspart protamine and insulin aspart?
 
@@ -108,7 +117,7 @@ For more information call 1-800-727-6500.
 
 This Patient Information has been approved by the U.S. Food and Drug Administration
 
-Revised: 08/2019
+Revised: 11/2019
 
 INSTRUCTIONS FOR USE
 
@@ -171,8 +180,10 @@ Giving your injection:
 - •Inject your insulin aspart protamine and insulin aspart exactly as your healthcare provider has shown you.
   Your healthcare provider should tell you if you need to pinch the skin before injecting.
 - •Insulin aspart protamine and insulin aspart is injected under the skin (subcutaneously) of your stomach area, buttocks, upper legs, or upper arms.
-- •Change (rotate) your injection sites within the area you choose for each dose.
+- •Change (rotate) your injection sites within the area you choose for each dose to reduce your risk of getting lipodystrophy (pits in skin or thickened skin) and localized cutaneous amyloidosis (skin with lumps) at the injections sites.
   Do not use the same injection site for each injection.
+  Do not inject where the skin has pits, thickened, or has lumps.
+  Do not inject where the skin is tender, bruised, scaly or hard, or into scars or damaged skin.
 
 Step 11: Choose your injection site and wipe the skin with an alcohol swab.
 Let the injection site dry before you inject your dose (See Figure K).
@@ -231,7 +242,7 @@ Novo Nordisk A/S
 
 DK-2880 Bagsvaerd, Denmark
 
-Revised: 08/2019
+Revised: 11/2019
 
 PATENT Information: http://novonordisk-us.com/patients/products/product-patents.html
 
@@ -363,8 +374,10 @@ Giving the injection
   Your healthcare provider should tell you if you need to pinch the skin before injecting.
   Wipe the skin with an alcohol swab and let the area dry.
 - •Insulin aspart protamine and insulin aspart can be injected under the skin (subcutaneously) of your stomach area, buttocks, upper legs (thighs), or upper arms.
-- •For each injection, change (rotate) your injection site within the area of skin that you use.
+- •Change (rotate) your injection sites within the area you choose for each dose to reduce your risk of getting lipodystrophy (pits in skin or thickened skin) and localized cutaneous amyloidosis (skin with lumps) at the injection site.
   Do not use the same injection site for each injection.
+  Do not inject where the skin has pits, is thickened, or has lumps.
+  Do not inject where the skin is tender, bruised, scaly or hard, or into scars or damaged skin.
 
 K. Insert the needle into your skin.
 
@@ -454,4 +467,4 @@ Do not leave it in a car or other location where it can get too hot or too cold.
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
-Revised: 08/2019
+Revised: 11/2019
