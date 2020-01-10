@@ -8,17 +8,17 @@ In patients with severe impairment of myocardial function, beta-adrenergic recep
 
 Beta-adrenergic receptor blockade in the bronchi and bronchioles results in increased airway resistance from unopposed parasympathetic activity.
 Such an effect in patients with asthma or other bronchospastic conditions is potentially dangerous.
-Istalol ophthalmic solution, when applied topically on the eye, has the action of reducing elevated as well as normal intraocular pressure, whether or not accompanied by glaucoma.
+ISTALOL ophthalmic solution, when applied topically on the eye, has the action of reducing elevated as well as normal intraocular pressure, whether or not accompanied by glaucoma.
 Elevated intraocular pressure is a major risk factor in the pathogenesis of glaucomatous visual field loss.
 The higher the level of intraocular pressure, the greater the likelihood of glaucomatous visual field loss and optic nerve damage.
-The onset of reduction in intraocular pressure following administration of Istalol® can usually be detected within one-half hour after a single dose.
+The onset of reduction in intraocular pressure following administration of ISTALOL can usually be detected within one-half hour after a single dose.
 The maximum effect usually occurs in one to two hours and significant lowering of intraocular pressure can be maintained for periods as long as 24 hours with a single dose.
-Repeated observations over a period of one year indicate that the intraocular pressure lowering effect of Istalol is well maintained.
-The precise mechanism of the ocular hypotensive action of Istalol is not clearly established at this time.
+Repeated observations over a period of one year indicate that the intraocular pressure lowering effect of ISTALOL is well maintained.
+The precise mechanism of the ocular hypotensive action of ISTALOL is not clearly established at this time.
 Tonography and fluorophotometry studies in man suggest that its predominant action may be related to reduced aqueous formation.
 However, in some studies a slight increase in outflow facility was also observed.
 
 ## 12.3 Pharmacokinetics
 
-In a study of plasma drug concentration in 12 healthy subjects, the systemic exposure to timolol was determined following twice daily administration of Istalol (exaggerated regimen) for eight days.
-With Istalol, mean plasma concentrations of timolol were 0.68 ng/mL and 0.88 ng/mL two hours after the first dose and the dose on the eighth day, respectively.
+In a study of plasma drug concentration in 12 healthy subjects, the systemic exposure to timolol was determined following twice daily administration of ISTALOL (exaggerated regimen) for eight days.
+With ISTALOL, mean plasma concentrations of timolol were 0.68 ng/mL and 0.88 ng/mL two hours after the first dose and the dose on the eighth day, respectively.

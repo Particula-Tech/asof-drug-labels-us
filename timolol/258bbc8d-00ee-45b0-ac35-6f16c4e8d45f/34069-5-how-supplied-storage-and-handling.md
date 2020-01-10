@@ -1,11 +1,8 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-Istalol® (timolol maleate ophthalmic solution) 0.5% is supplied in white LDPE bottles with 15 mm LDPE yellow caps and 15 mm LDPE white dropper tips as follows:
+ISTALOL(timolol maleate ophthalmic solution) 0.5% is supplied in white LDPE bottles with 15 mm PP yellow caps and 15 mm LLDPE white dropper tips as follows:
 
-5 mL in 10 mL container (NDC 24208-004-03)
+1. NDC 24208-004-03 5 mL in 10 mL container
+2. NDC 24208-004-01 2.5 mL in 7.5 mL container
 
-2.5 mL in 7.5 mL container (NDC 24208-004-01)
-
-STORAGE
-
-Store at 15º – 25ºC (59º – 77ºF).
+Storage Store at 15º to 25ºC (59º to 77ºF).

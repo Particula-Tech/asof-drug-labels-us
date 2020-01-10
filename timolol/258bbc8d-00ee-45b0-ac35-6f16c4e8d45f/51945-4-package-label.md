@@ -2,14 +2,18 @@
 
 NDC 24208-004-03
 
-BAUSCH + LOMB
+Rx only
 
 Istalol®
 
 (timolol maleate ophthalmic solution) 0.5%
 
-Rx only
+For topical application in the eye.
+
+5mL
 
 Sterile
+
+BAUSCH + LOMB
 
 Once Daily
