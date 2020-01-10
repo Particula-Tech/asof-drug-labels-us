@@ -45,7 +45,7 @@ Teratogenic Effects
 Studies of teratogenicity were done by the oral route where bioavailability is expected to be approximately 40-60% of the administered dose.
 In rabbits, increased maternal and fetal toxicity were noted at a dosage of 12 μg/kg/day (132 μg/m2/day); a dosage of 36 μg/kg/day (396 μg/m2/day) resulted in a significant increase in the incidence of incomplete ossification of the pubic bones and forelimb phalanges of fetuses.
 In a rat study, a dosage of 54 μg/kg/day (318 μg/m2/day) resulted in a significantly increased incidence of skeletal abnormalities (enlarged fontanelles and extra ribs).
-The enlarged fontanelles are most likely due to calcipotriene’s effect upon calcium metabolism.
+The enlarged fontanelles are most likely due to calcipotriene's effect upon calcium metabolism.
 The estimated maternal and fetal no-effect exposure levels in the rat (43.2 μg/m2/day) and rabbit (17.6 μg/m2/day) studies are approximately equal to the expected human systemic exposure level (18.5 μg/m2/day) from dermal application.
 There are no adequate and well-controlled studies in pregnant women.
 Therefore, Calcipotriene Ointment should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
