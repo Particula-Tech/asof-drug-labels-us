@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA211929"
+  ],
+  "inn": "budesonide",
+  "labeler": "FERRING PHARMACEUTICALS INC.",
+  "package_ndcs": [
+    "55566-1002-1",
+    "55566-1020-1"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "budesonide",
+      "name": "Budesonide"
+    }
+  ],
+  "setid": "0b675429-878d-496e-85af-9e46201a10ea",
+  "source": "dailymed"
+}
