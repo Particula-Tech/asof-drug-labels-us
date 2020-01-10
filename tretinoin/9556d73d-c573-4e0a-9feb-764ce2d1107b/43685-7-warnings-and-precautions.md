@@ -17,7 +17,7 @@ Tretinoin has been reported to cause severe irritation on eczematous skin and sh
 
 Concomitant topical medication, medicated or abrasive soaps and cleansers, soaps and cosmetics that have a strong drying effect, and products with high concentrations of alcohol, astringents, spices or lime should be used with caution because of possible interaction with tretinoin.
 Particular caution should be exercised in using preparations containing sulfur, resorcinol, or salicylic acid with RETIN-A.
-It also is advisable to "rest" a patient's skin until the effects of such preparations subside before use of RETIN-A is begun.
+It also is advisable to “rest” a patient’s skin until the effects of such preparations subside before use of RETIN-A is begun.
 
 ## Carcinogenesis, Mutagenesis, Impairment to Fertility
 
@@ -41,7 +41,7 @@ In oral Segment I and Segment III studies in rats with tretinoin, decreased surv
 
 ## Pregnancy
 
-Teratogenic effects
+Teratogenic Effects
 
 Oral tretinoin has been shown to be teratogenic in rats, mice, hamsters, and subhuman primates.
 It was teratogenic and fetotoxic in Wistar rats when given orally or topically in doses greater than 1 mg/kg/day (8 times the maximum human systemic dose adjusted for total body surface area).
@@ -63,7 +63,7 @@ Thirty human cases of temporally associated congenital malformations have been r
 Although no definite pattern of teratogenicity and no causal association have been established from these cases, five of the reports describe the rare birth defect category holoprosencephaly (defects associated with incomplete midline development of the forebrain).
 The significance of these spontaneous reports in terms of risk to the fetus is not known.
 
-Nonteratogenic effects
+Nonteratogenic Effects
 
 Topical tretinoin has been shown to be fetotoxic in rabbits when administered 0.5 mg/kg/day (8 times the maximum human systemic dose adjusted for total body surface area).
 Oral tretinoin has been shown to be fetotoxic, resulting in skeletal variations and increased intrauterine death in rats when administered 2.5 mg/kg/day (20 times the maximum human systemic dose adjusted for total body surface area).

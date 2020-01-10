@@ -1,7 +1,7 @@
 # DOSAGE AND ADMINISTRATION
 
 RETIN-A Gel or Cream should be applied once a day, before retiring, to the skin where acne lesions appear, using enough to cover the entire affected area lightly.
-Gel: Excessive application results in "pilling" of the gel, which minimizes the likelihood of overapplication by the patient.
+Gel: Excessive application results in “pilling” of the gel, which minimizes the likelihood of overapplication by the patient.
 
 Application may cause a transitory feeling of warmth or slight stinging.
 In cases where it has been necessary to temporarily discontinue therapy or to reduce the frequency of application, therapy may be resumed or frequency of application increased when the patients become able to tolerate the treatment.
@@ -11,7 +11,7 @@ Alterations of vehicle, drug concentration, or dose frequency should be closely 
 During the early weeks of therapy, an apparent exacerbation of inflammatory lesions may occur.
 This is due to the action of the medication on deep, previously unseen lesions and should not be considered a reason to discontinue therapy.
 
-Therapeutic results should be noticed after two to three weeks but more than six weeks of therapy may be required before definite beneficial effects are seen.
+Therapeutic results should be noticed after 2 to 3 weeks but more than 6 weeks of therapy may be required before definite beneficial effects are seen.
 
 Once the acne lesions have responded satisfactorily, it may be possible to maintain the improvement with less frequent applications, or other dosage forms.
 

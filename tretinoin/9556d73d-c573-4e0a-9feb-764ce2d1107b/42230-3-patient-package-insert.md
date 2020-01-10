@@ -4,7 +4,7 @@ RETIN-A® (tretinoin)
 
 Cream • Gel
 
-For Topical Use Only
+For Topical Use Only PATIENT INSTRUCTIONS
 
 Acne Treatment
 
@@ -12,10 +12,8 @@ IMPORTANT
 
 Read Directions Carefully Before Using
 
-Rx only
-
 THIS LEAFLET TELLS YOU ABOUT RETIN-A (TRETINOIN) ACNE TREATMENT AS PRESCRIBED BY YOUR PHYSICIAN.
-THIS PRODUCT IS TO BE USED ONLY ACCORDING TO YOUR DOCTOR'S INSTRUCTIONS, AND IT SHOULD NOT BE APPLIED TO OTHER AREAS OF THE BODY OR TO OTHER GROWTHS OR LESIONS.
+THIS PRODUCT IS TO BE USED ONLY ACCORDING TO YOUR DOCTOR’S INSTRUCTIONS, AND IT SHOULD NOT BE APPLIED TO OTHER AREAS OF THE BODY OR TO OTHER GROWTHS OR LESIONS.
 THE LONG-TERM SAFETY AND EFFECTIVENESS OF THIS PRODUCT IN OTHER DISORDERS HAVE NOT BEEN EVALUATED.
 IF YOU HAVE ANY QUESTIONS, BE SURE TO ASK YOUR DOCTOR.
 
@@ -61,9 +59,9 @@ If you are experiencing severe or persistent irritation, discontinue the use of 
 There have been reports that, in some patients, areas treated with RETIN-A developed a temporary increase or decrease in the amount of skin pigment (color) present.
 The pigment in these areas returned to normal either when the skin was allowed to adjust to RETIN-A or therapy was discontinued.
 
-Use other medication only on your physician's advice.
+Use other medications only on your physician’s advice.
 Only your physician knows which other medications may be helpful during treatment and will recommend them to you if necessary.
-Follow the physician's instructions carefully.
+Follow the physician’s instructions carefully.
 In addition, you should avoid preparations that may dry or irritate your skin.
 These preparations may include certain astringents, toiletries containing alcohol, spices or lime, or certain medicated soaps, shampoos and hair permanent solutions.
 Do not allow anyone else to use this medication.
@@ -74,11 +72,11 @@ The medications you have used in the past might cause unnecessary redness or pee
 If you are pregnant, think you are pregnant or are nursing an infant: No studies have been conducted in humans to establish the safety of RETIN-A in pregnant women.
 If you are pregnant, think you are pregnant, or are nursing a baby, consult your physician before using this medication.
 
-AND WHILE YOU'RE ON RETIN-A THERAPY
+AND WHILE YOU’RE ON RETIN-A THERAPY
 
 Use a mild, non-medicated soap.
 Avoid frequent washings and harsh scrubbing.
-Acne isn't caused by dirt, so no matter how hard you scrub, you can't wash it away.
+Acne isn’t caused by dirt, so no matter how hard you scrub, you can’t wash it away.
 Washing too frequently or scrubbing too roughly may at times actually make your acne worse.
 Wash your skin gently with a mild, bland soap.
 Two or three times a day should be sufficient.
@@ -92,7 +90,7 @@ To get the best results with RETIN-A therapy, it is necessary to use it properly
 Forget about the instructions given for other products and the advice of friends.
 Just stick to the special plan your doctor has laid out for you and be patient.
 Remember, when RETIN-A is used properly, many users see improvement by 12 weeks.
-AGAIN, FOLLOW INSTRUCTIONS – BE PATIENT – DON'T START AND STOP THERAPY ON YOUR OWN – IF YOU HAVE QUESTIONS, ASK YOUR DOCTOR.
+AGAIN, FOLLOW INSTRUCTIONS – BE PATIENT – DON’T START AND STOP THERAPY ON YOUR OWN – IF YOU HAVE QUESTIONS, ASK YOUR DOCTOR.
 
 To help you use the medication correctly, keep these simple instructions in mind.
 
@@ -101,17 +99,17 @@ To help you use the medication correctly, keep these simple instructions in mind
   First, wash with a mild soap and dry your skin gently.
   WAIT 20 TO 30 MINUTES BEFORE APPLYING MEDICATION; it is important for skin to be completely dry in order to minimize possible irritation.
 - •It is better not to use more than the amount suggested by your physician or to apply more frequently than instructed.
-  Too much may irritate the skin, waste medication and won't give faster or better results.
+  Too much may irritate the skin, waste medication and won’t give faster or better results.
 - •Keep the medication away from the corners of the nose, mouth, eyes and open wounds.
   Spread away from these areas when applying.
 - •Cream: Squeeze about a half inch or less of medication onto the fingertip.
-  While that should be enough for your whole face, after you have some experience with the medication you may find you need slightly more or less to do the job.
+  While that should be enough for your whole face, after you have some experience with the medication, you may find you need slightly more or less to do the job.
   The medication should become invisible almost immediately.
   If it is still visible, you are using too much.
   Cover the affected area lightly with RETIN-A (tretinoin) Cream by first dabbing it on your forehead, chin and both cheeks, then spreading it over the entire affected area.
   Smooth gently into the skin.
 - •Gel: Squeeze about a half inch or less of medication onto the fingertip.
-  While that should be enough for your whole face, after you have some experience with the medication you may find you need slightly more or less to do the job.
+  While that should be enough for your whole face, after you have some experience with the medication, you may find you need slightly more or less to do the job.
   The medication should become invisible almost immediately.
   If it is still visible, or if dry flaking occurs from the gel within a minute or so, you are using too much.
   Cover the affected area lightly with RETIN-A (tretinoin) Gel by first dabbing it on your forehead, chin and both cheeks, then spreading it over the entire affected area.
@@ -128,16 +126,16 @@ There may be some discomfort or peeling during the early days of treatment.
 Some patients also notice that their skin begins to take on a blush.
 
 These reactions do not happen to everyone.
-If they do, it is just your skin adjusting to RETIN-A and this usually subsides within two to four weeks.
+If they do, it is just your skin adjusting to RETIN-A and this usually subsides within 2 to 4 weeks.
 These reactions can usually be minimized by following instructions carefully.
 Should the effects become excessively troublesome, consult your doctor.
 
-BY THREE TO SIX WEEKS, some patients notice an appearance of new blemishes (papules and pustules).
+BY 3 TO 6 WEEKS, some patients notice an appearance of new blemishes (papules and pustules).
 At this stage it is important to continue using RETIN-A.
 
 If RETIN-A is going to have a beneficial effect for you, you should notice a continued improvement in your appearance after 6 to 12 weeks of therapy.
-Don't be discouraged if you see no immediate improvement.
-Don't stop treatment at the first signs of improvement.
+Don’t be discouraged if you see no immediate improvement.
+Don’t stop treatment at the first signs of improvement.
 
 Once your acne is under control you should continue regular application of RETIN-A until your physician instructs otherwise.
 
@@ -147,13 +145,15 @@ All questions of a medical nature should be taken up with your doctor.
 For more information about RETIN-A (tretinoin), call our toll-free number: 800-321-4576.
 Call between 9:00 a.m. and 3:00 p.m.
 Eastern Time, Monday through Friday.
+Storage Conditions: RETIN-A Gel, 0.025% and 0.01%: store below 86°F.
+RETIN-A Cream, 0.1%, 0.05%, and 0.025%: store below 80°F.
 
-Manufactured for: Valeant Pharmaceuticals North America LLC Bridgewater, NJ 08807 USA
+Manufactured for: Bausch Health US, LLC Bridgewater, NJ 08807 USA
 
-By: Valeant Pharmaceuticals International, Inc. Laval, Quebec H7L 4A8, Canada
+Manufactured by: Bausch Health Companies Inc. Laval, Quebec H7L 4A8, Canada
 
-Retin-A is a trademark of Valeant Pharmaceuticals International, Inc. or its affiliates.
+Retin-A is a trademark of Bausch Health Companies Inc. or its affiliates.
 
-© Valeant Pharmaceuticals North America LLC
+© 2019 Bausch Health Companies Inc. or its affiliates
 
-9440903 Revised: 06/2018
+9440904 Revised: 09/2019

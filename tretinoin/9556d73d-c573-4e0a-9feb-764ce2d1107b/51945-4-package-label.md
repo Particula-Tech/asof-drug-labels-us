@@ -1,6 +1,6 @@
-# PRINCIPAL DISPLAY PANEL - 0.025% 20 g Cream Carton
+# PRINCIPAL DISPLAY PANEL - 0.025% 45 g Cream Carton
 
-NDC 0187-5160-20
+NDC 0187-5160-45
 
 Retin-A® Cream (tretinoin) 0.025%
 
@@ -11,11 +11,11 @@ Store below 80°F.
 WARNING: Keep out of reach of children.
 
 Net Wt.
-20 g
+45 g
 
-# PRINCIPAL DISPLAY PANEL - 0.05% 20 g Cream Carton
+# PRINCIPAL DISPLAY PANEL - 0.05% 45 g Cream Carton
 
-NDC 0187-5162-20
+NDC 0187-5162-45
 
 Retin-A® Cream (tretinoin) 0.05%
 
@@ -26,11 +26,11 @@ Store below 80°F.
 WARNING: Keep out of reach of children.
 
 Net Wt.
-20 g
+45 g
 
-# PRINCIPAL DISPLAY PANEL - 0.1% 20 g Cream Carton
+# PRINCIPAL DISPLAY PANEL - 0.1% 45 g Cream Carton
 
-NDC 0187-5164-20
+NDC 0187-5164-45
 
 Retin-A® Cream (tretinoin) 0.1%
 
@@ -41,7 +41,7 @@ Store below 80°F.
 WARNING: Keep out of reach of children.
 
 Net Wt.
-20 g
+45 g
 
 # PRINCIPAL DISPLAY PANEL - 0.01% 45 g Gel Carton
 
