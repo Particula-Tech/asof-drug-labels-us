@@ -66,10 +66,6 @@ Growth and development of infants and children on prolonged corticosteroid thera
 Kaposi's sarcoma has been reported to occur in patients receiving corticosteroid therapy.
 Discontinuation of corticosteroids may result in clinical remission.
 
-Although controlled clinical trials have shown corticosteroids to be effective in speeding the resolution of acute exacerbations of multiple sclerosis, they do not show that corticosteroids affect the ultimate outcome or natural history of the disease.
-The studies do show that relatively high doses of corticosteroids are necessary to demonstrate a significant effect.
-(See DOSAGE AND ADMINISTRATION.)
-
 Since complications of treatment with glucocorticoids are dependent on the size of the dose and the duration of treatment, a risk/benefit decision must be made in each individual case as to dose and duration of treatment and as to whether daily or intermittent therapy should be used.
 
 Pheochromocytoma crisis, which can be fatal, has been reported after administration of systemic corticosteroids.

@@ -9,7 +9,3 @@ After a favorable response is noted, the proper maintenance dosage should be det
 It should be kept in mind that constant monitoring is needed in regard to drug dosage.
 Included in the situations which may make dosage adjustments necessary are changes in clinical status secondary to remissions or exacerbations in the disease process, the patient's individual drug responsiveness, and the effect of patient exposure to stressful situations not directly related to the disease entity under treatment; in this latter situation it may be necessary to increase the dosage of hydrocortisone for a period of time consistent with the patient's condition.
 If after long-term therapy the drug is to be stopped, it is recommended that it be withdrawn gradually, rather than abruptly.
-
-## Multiple Sclerosis
-
-In treatment of acute exacerbations of multiple sclerosis, daily doses of 200 mg of prednisolone for a week followed by 80 mg every other day for 1 month have been shown to be effective (20 mg of hydrocortisone is equivalent to 5 mg of prednisolone).

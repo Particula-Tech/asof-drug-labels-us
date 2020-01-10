@@ -46,10 +46,6 @@ To induce a diuresis or remission of proteinuria in the nephrotic syndrome, with
 
 To tide the patient over a critical period of the disease in: Ulcerative colitis Regional enteritis
 
-## 12. Nervous System
-
-Acute exacerbations of multiple sclerosis
-
-## 13. Miscellaneous
+## 12. Miscellaneous
 
 Tuberculous meningitis with subarachnoid block or impending block when used concurrently with appropriate antituberculous chemotherapy Trichinosis with neurologic or myocardial involvement
