@@ -5,7 +5,8 @@ CALDOLOR (ibuprofen) Injection is a clear, colorless, non-pyrogenic, aqueous sol
 - 800 mg/8 mL (100 mg/mL) single dose vial.
   Carton of 25 vials, NDC 66220-287-08
 - 800 mg/200 mL (4 mg/mL) single dose, ready-to-use polypropylene flexible bag.
-  Carton of 20 bags NDC 66220-287-24
+  Case of 20 bags, NDC 66220-284-22.
+  Individual bag, NDC 66220-284-11.
 
 Storage
 
