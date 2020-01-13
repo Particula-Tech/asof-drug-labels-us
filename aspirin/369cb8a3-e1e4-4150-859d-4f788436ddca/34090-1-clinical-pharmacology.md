@@ -11,7 +11,7 @@ This inhibition results in an increase in local concentrations of adenosine whic
 Via this mechanism, platelet aggregation is inhibited in response to various stimuli such as platelet activating factor (PAF), collagen and adenosine diphosphate (ADP).
 
 Dipyridamole inhibits phosphodiesterase (PDE) in various tissues.
-While the inhibition of cAMP-PDE is weak, therapeutic levels of dipyridamole inhibit cyclic-3',5'guanosine monophosphate-PDE (cGMP-PDE), thereby augmenting the increase in cGMP produced by EDRF (endothelium-derived relaxing factor, now identified as nitric oxide).
+While the inhibition of cAMP-PDE is weak, therapeutic levels of dipyridamole inhibit cyclic-3',5'-guanosine monophosphate-PDE (cGMP-PDE), thereby augmenting the increase in cGMP produced by EDRF (endothelium-derived relaxing factor, now identified as nitric oxide).
 
 Aspirin
 

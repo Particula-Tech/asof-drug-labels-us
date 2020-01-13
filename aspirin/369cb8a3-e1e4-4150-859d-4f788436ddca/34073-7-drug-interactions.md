@@ -2,10 +2,12 @@
 
 ## 7.1 Drug Interaction Study Information Obtained From Literature
 
-Adenosine
+Adenosinergic agents (e.g., adenosine, regadenoson)
 
 Dipyridamole has been reported to increase the plasma levels and cardiovascular effects of adenosine.
 Adjustment of adenosine dosage may be necessary.
+Dipyridamole also increases the cardiovascular effects of regadenoson, an adenosine A2A-receptor agonist.
+The potential risk of cardiovascular side effects with intravenous adenosinergic agents may be increased during the testing period when dipyridamole is not held 48 hours prior to stress testing.
 
 Angiotensin Converting Enzyme (ACE) Inhibitors
 

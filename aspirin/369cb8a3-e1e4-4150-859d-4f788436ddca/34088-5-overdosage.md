@@ -4,7 +4,7 @@ Because of the dose ratio of dipyridamole to aspirin, overdosage of aspirin and 
 In case of real or suspected overdose, seek medical attention or contact a Poison Control Center immediately.
 Careful medical management is essential.
 
-Based upon the known hemodynamic effects of dipyridamole, symptoms such as warm feeling, flushes, sweating, restlessness, feeling of weakness and dizziness may occur.
+Based upon the known hemodynamic effects of dipyridamole, symptoms such as warm feeling, flushes, sweating, restlessness, feeling of weakness, and dizziness may occur.
 A drop in blood pressure and tachycardia might also be observed.
 
 Salicylate toxicity may result from acute ingestion (overdose) or chronic intoxication.

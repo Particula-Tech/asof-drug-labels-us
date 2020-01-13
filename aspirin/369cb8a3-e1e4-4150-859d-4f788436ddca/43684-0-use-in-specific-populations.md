@@ -26,7 +26,7 @@ Data
 
 Human Data
 
-Published data from clinical trials, observational studies, case series, and case reports over several decades have not identified a clear association between aspirin dipyridamole use in pregnancy and major birth defects, miscarriage, or adverse maternal or fetal outcomes.
+Published data from clinical trials, observational studies, case series, and case reports over several decades have not identified a clear association between aspirin-dipyridamole use in pregnancy and major birth defects, miscarriage, or adverse maternal or fetal outcomes.
 However, these studies cannot definitively establish the absence of any aspirin-dipyridamole associated risks.
 Methodological limitations of these studies include variability in the timing and dose of drug exposure (e.g., most exposures occurred beyond the first trimester) and the small sample sizes of individual studies.
 

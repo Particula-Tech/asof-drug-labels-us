@@ -1,6 +1,6 @@
 # Patient Information
 
-Aspirin (AS-pir-in) and Extended-release Dipyridamole (dye-pir-ID-a-mole) Capsules
+Aspirin (as’ pir in) and Extended-release Dipyridamole (dye” pir id’ a mol) Capsules
 
 Read this Patient Information before you start taking aspirin and extended-release dipyridamole capsules and each time you get a refill.
 There may be new information.
@@ -44,13 +44,15 @@ Before taking aspirin and extended-release dipyridamole capsules, tell your heal
   Aspirin and extended-release dipyridamole can pass into your milk.
   Talk to your healthcare provider about the best way to feed your baby if you take aspirin and extended-release dipyridamole capsules.
 
+Tell your doctor you are taking aspirin and extended-release dipyridamole capsules if you are scheduled to have a stress test for your heart.
+
 Tell your doctor about all the medicines you take, including prescription and non-prescription medicines, vitamins and herbal supplements.
 Aspirin and extended-release dipyridamole capsules and other medicines may affect each other causing side effects.
 Aspirin and extended-release dipyridamole capsules may affect the way other medicines work, and other medicines may affect how aspirin and extended-release dipyridamole capsules works.
 
 Especially tell your healthcare provider if you take:
 
-- a medicine for high blood pressure, irregular heart beat, or heart failure
+- a medicine for high blood pressure, irregular heartbeat, or heart failure
 - acetazolamide [Diamox®]
 - any blood thinner medicines
 - warfarin sodium [Coumadin®, Jantoven®]
@@ -106,18 +108,15 @@ What should I avoid while using aspirin and extended-release dipyridamole capsul
 - bleeding into your brain (intracranial hemorrhage).
   This can be a medical emergency.
   Get medical help right away if you have any of these symptoms while taking aspirin and extended-release dipyridamole capsules:
-
 - severe headache with drowsiness
 - confusion or memory change
 - pass out (become unconscious)
-
 - bleeding in your stomach or intestine.
 - stomach pain
 - heartburn or nausea
 - vomiting blood or vomit looks like “coffee grounds”
 - red or bloody stools
 - black stools that look like tar
-
 - new or worsening chest pain in some people with heart disease.
   Tell your healthcare provider if you have new chest pain or have any change in your chest pain during treatment with aspirin and extended-release dipyridamole capsules.
 - liver problems, including increased liver function tests and liver failure.
@@ -175,4 +174,4 @@ The imprinting inks contain butyl alcohol, D&C Yellow #10, dehydrated alcohol, F
 Distributed by: Amneal Pharmaceuticals LLC Bridgewater, NJ 08807
 
 Rev.
-01-2019-01
+12-2019-02

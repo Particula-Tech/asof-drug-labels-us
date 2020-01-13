@@ -12,7 +12,7 @@ Stroke Endpoint
 Aspirin and extended-release dipyridamole reduced the risk of stroke by 22.1% compared to aspirin 50 mg/day alone (p = 0.008) and reduced the risk of stroke by 24.4% compared to extended-release dipyridamole 400 mg/day alone (p = 0.002) (Table 3).
 Aspirin and extended-release dipyridamole reduced the risk of stroke by 36.8% compared to placebo (p <0.001).
 
-Table 3 Summary of First Stroke (Fatal or Nonfatal): ESPS2: Intent-to-Treat Population
+Table 3: Summary of First Stroke (Fatal or Nonfatal): ESPS2: Intent-to-Treat Population
 
 |  | Total Number of Patientsn | Number of Patients With Stroke Within 2 Yearsn (%) | Kaplan-Meier Estimate of Survival at 2 Years(95% C.I.) | Gehan-Wilcoxon TestP-value | Risk Reduction at 2 Years | Odds Ratio(95% C.I.) |
 | --- | --- | --- | --- | --- | --- | --- |
