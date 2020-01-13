@@ -71,7 +71,7 @@ UNVARNISHED AREA FOR ON-LINE PRINTING OF LOT & EXP
 Each mL contains: 1.8 mg amiodarone HCl, USP; 18 mg Betadex Sulfobutyl Ether Sodium, NF; 0.362 mg citric acid anhydrous, 0.183 mg sodium citrate dihydrate, and 41.4 mg dextrose anhydrous in water for injection.
 Sodium hydroxide or hydrochloric acid may have been added to adjust pH.
 
-Does not contain polysorbate 80 or benzul alcohol.
+Does not contain polysorbate 80 or benzyl alcohol.
 
 DOSAGE: See package insert for complete information on dosage and administration.
 
@@ -85,20 +85,20 @@ Baxter Healthcare Corporation Deerfield, IL 60015 USA
 
 07-01-77-679
 
-LOT #: NC123456 EXP: MAR 11
+LOT #: NC123456 EXP: JAN 00
 
 Nexterone (amiodarone HCI) Premixed Injection
 
 360 mg/200 mL (1.8 mg/mL)
 
-Bar code (01)50310122326106(17)110300(21)0123456789(10)NC123456
+Barcode (01)10343066360204(17)000131(21)100000017932(10)NC123456
 
 Contains: 10 x 200 mL GALAXY Single-Dose Containers NDC 43066-360-20 Code: 2G3450 Store at 20° to 25°C (68° to 77°F); excursions permitted to 15° to 30°C (59° to 86°F).
 See USP Controlled Room Temperature.
 Protect from freezing.
 Avoid excessive heat.
 
-Bar code GTIN 50310122326106 SERIAL 0123456789 EXP 110300 LOT NC123456
+Bar code (01) 10343066360204 (21) 100000017932 (17) 000131 (10) NC123456
 
 Rx Only Baxter logo Baxter Healthcare Corporation Deerfield, IL 60015 USA 07-06-77-424
 
@@ -186,19 +186,19 @@ Baxter Healthcare Corporation Deerfield, IL 60015 USA
 
 07-01-72-796
 
-LOT #: NC112666 EXP: NOV 19
+LOT #: NC123456 EXP: JAN 00
 
 Nexterone (amiodarone HCI) Premixed Injection
 
 150 mg/100 mL (1.5 mg/mL)
 
-Bar code (01)10343066150102(17)191130(21)000000002677(10)NC112666
+Barcode (01)10343066150102(17)000131(21)100000002437(10)NC123456
 
 Contains: 12 x 100 mL GALAXY Single-Dose Containers NDC 43066-150-10 Code: 2G3451 Store at 20° to 25°C (68° to 77°F); excursions permitted to 15° to 30°C (59° to 86°F).
 See USP Controlled Room Temperature.
 Protect from freezing.
 Avoid excessive heat.
 
-Bar code GTIN 10343066150102 SERIAL 000000003530 EXP 191130 LOT NC112666
+Barcode (01) 1034066150102 (21) 100000002437 (17) 000131 (10) NC123456
 
 Rx Only Baxter logo Baxter Healthcare Corporation Deerfield, IL 60015 USA 07-06-77-423
