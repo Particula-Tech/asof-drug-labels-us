@@ -13,23 +13,23 @@ Loteprednol etabonate had no effect on the duration of gestation or parturition 
 
 Reproductive studies have been performed in rats and rabbits with tobramycin at doses up to 100 mg/kg/day parenterally and have revealed no evidence of impaired fertility or harm to the fetus.
 There are no adequate and well-controlled studies in pregnant women.
-Zylet should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
+ZYLET should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 
 ## 8.3 Nursing Mothers
 
 It is not known whether topical ophthalmic administration of corticosteroids could result in sufficient systemic absorption to produce detectable quantities in human milk.
 Systemic steroids that appear in human milk could suppress growth, interfere with endogenous corticosteroid production, or cause other untoward effects.
-Caution should be exercised when Zylet is administered to a nursing woman.
+Caution should be exercised when ZYLET is administered to a nursing woman.
 
 ## 8.4 Pediatric Use
 
-Two trials were conducted to evaluate the safety and efficacy of Zylet® (loteprednol etabonate and tobramycin ophthalmic suspension) in pediatric subjects age zero to six years; one was in subjects with lid inflammation and the other was in subjects with blepharoconjunctivitis.
+Two trials were conducted to evaluate the safety and efficacy of ZYLET® (loteprednol etabonate and tobramycin ophthalmic suspension) in pediatric subjects age zero to six years; one was in subjects with lid inflammation and the other was in subjects with blepharoconjunctivitis.
 
-In the lid inflammation trial, Zylet with warm compresses did not demonstrate efficacy compared to vehicle with warm compresses.
-Patients received warm compress lid treatment plus Zylet or vehicle for 14 days.
+In the lid inflammation trial, ZYLET with warm compresses did not demonstrate efficacy compared to vehicle with warm compresses.
+Patients received warm compress lid treatment plus ZYLET or vehicle for 14 days.
 The majority of patients in both treatment groups showed reduced lid inflammation.
 
-In the blepharoconjunctivitis trial, Zylet did not demonstrate efficacy compared to vehicle, loteprednol etabonate ophthalmic suspension, or tobramycin ophthalmic solution.
+In the blepharoconjunctivitis trial, ZYLET did not demonstrate efficacy compared to vehicle, loteprednol etabonate ophthalmic suspension, or tobramycin ophthalmic solution.
 There was no difference between treatment groups in mean change from baseline blepharoconjunctivitis score at Day 15.
 
 There were no differences in safety assessments between the treatment groups in either trial.

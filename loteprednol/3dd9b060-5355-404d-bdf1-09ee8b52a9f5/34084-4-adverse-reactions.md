@@ -2,11 +2,11 @@
 
 Adverse reactions have occurred with steroid/anti-infective combination drugs which can be attributed to the steroid component, the anti-infective component, or the combination.
 
-Zylet:
+ZYLET:
 
-In a 42-day safety study comparing Zylet to placebo, ocular adverse reactions included injection (approximately 20%) and superficial punctate keratitis (approximately 15%).
-Increased intraocular pressure was reported in 10% (Zylet) and 4% (placebo) of subjects.
-Nine percent (9%) of Zylet subjects reported burning and stinging upon instillation.
+In a 42-day safety study comparing ZYLET to placebo, ocular adverse reactions included injection (approximately 20%) and superficial punctate keratitis (approximately 15%).
+Increased intraocular pressure was reported in 10% (ZYLET) and 4% (placebo) of subjects.
+Nine percent (9%) of ZYLET subjects reported burning and stinging upon instillation.
 
 Ocular reactions reported with an incidence less than 4% include vision disorders, discharge, itching, lacrimation disorder, photophobia, corneal deposits, ocular discomfort, eyelid disorder, and other unspecified eye disorders.
 

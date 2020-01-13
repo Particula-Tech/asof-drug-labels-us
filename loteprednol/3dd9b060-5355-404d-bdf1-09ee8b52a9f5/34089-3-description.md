@@ -1,6 +1,6 @@
 # 11 DESCRIPTION
 
-Zylet (loteprednol etabonate and tobramycin ophthalmic suspension) is a sterile, multiple dose topical anti-inflammatory corticosteroid and anti-infective combination for ophthalmic use.
+ZYLET (loteprednol etabonate and tobramycin ophthalmic suspension) is a sterile, multiple dose topical anti-inflammatory corticosteroid and anti-infective combination for ophthalmic use.
 Both loteprednol etabonate and tobramycin are white to off-white powders.
 The chemical structures of loteprednol etabonate and tobramycin are shown below.
 

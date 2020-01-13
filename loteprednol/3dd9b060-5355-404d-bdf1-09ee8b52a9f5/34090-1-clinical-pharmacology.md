@@ -24,7 +24,7 @@ Pseudomonas aeruginosa, Escherichia coli, Klebsiella pneumoniae, Enterobacter ae
 
 ## 12.3 Pharmacokinetics
 
-In a controlled clinical study of ocular penetration, the levels of loteprednol etabonate in the aqueous humor were found to be comparable between Lotemax and Zylet treatment groups.
+In a controlled clinical study of ocular penetration, the levels of loteprednol etabonate in the aqueous humor were found to be comparable between Lotemax and ZYLET treatment groups.
 
 Results from a bioavailability study in normal volunteers established that plasma levels of loteprednol etabonate and Δ1 cortienic acid etabonate (PJ 91), its primary, inactive metabolite, were below the limit of quantitation (1 ng/mL) at all sampling times.
 

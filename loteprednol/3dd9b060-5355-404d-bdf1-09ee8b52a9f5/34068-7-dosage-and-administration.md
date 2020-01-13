@@ -2,7 +2,7 @@
 
 ## 2.1 Recommended Dosing
 
-Apply one or two drops of Zylet into the conjunctival sac of the affected eye every four to six hours.
+Apply one or two drops of ZYLET into the conjunctival sac of the affected eye every four to six hours.
 During the initial 24 to 48 hours, the dosing may be increased, to every one to two hours.
 Frequency should be decreased gradually as warranted by improvement in clinical signs.
 Care should be taken not to discontinue therapy prematurely.

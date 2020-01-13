@@ -1,6 +1,6 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-Zylet (loteprednol etabonate and tobramycin ophthalmic suspension) is supplied in a white low density polyethylene plastic bottle with a white controlled drop tip and a white polypropylene cap in the following sizes:
+ZYLET (loteprednol etabonate and tobramycin ophthalmic suspension) is supplied in a white low density polyethylene plastic bottle with a white controlled drop tip and a white polypropylene cap in the following sizes:
 
 5 mL (NDC 24208-358-05) in a 7.5 mL bottle
 
@@ -8,6 +8,6 @@ Zylet (loteprednol etabonate and tobramycin ophthalmic suspension) is supplied i
 
 USE ONLY IF IMPRINTED NECKBAND IS INTACT.
 
-Storage: Store upright at 15º-25ºC (59º-77ºF).
+Storage: Store upright at 15º to 25ºC (59º to 77ºF).
 PROTECT FROM FREEZING.
 SHAKE VIGOROUSLY BEFORE USING.
