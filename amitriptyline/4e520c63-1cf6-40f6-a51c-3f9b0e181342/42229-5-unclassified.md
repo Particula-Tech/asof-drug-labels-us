@@ -10,5 +10,3 @@ Virtually the entire dose is excreted as glucuronide or sulfate conjugate of met
 Other metabolic pathways may be involved.
 
 Distributed by: Sun Pharmaceutical Industries, Inc. Cranbury, NJ 08512
-
-Rev 04, February 2018

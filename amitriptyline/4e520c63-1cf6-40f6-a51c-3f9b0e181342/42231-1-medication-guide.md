@@ -19,25 +19,25 @@ What is the most important information I should know about antidepressant medici
    Some people may have a particularly high risk of having suicidal thoughts or actions.
    These include people who have (or have a family history of) bipolar illness (also called manic-depressive illness) or suicidal thoughts or actions.
 3. 3.How can I watch for and try to prevent suicidal thoughts and actions in myself or a family member?
-   1. •Pay close attention to any changes, especially sudden changes, in mood, behaviors, thoughts, or feelings.
+   1. 1.Pay close attention to any changes, especially sudden changes, in mood, behaviors, thoughts, or feelings.
       This is very important when an antidepressant medicine is started or when the dose is changed.
-   2. •Call the healthcare provider right away to report new or sudden changes in mood, behavior, thoughts, or feelings.
-   3. •Keep all follow-up visits with the healthcare provider as scheduled.
+   2. 2.Call the healthcare provider right away to report new or sudden changes in mood, behavior, thoughts, or feelings.
+   3. 3.Keep all follow-up visits with the healthcare provider as scheduled.
       Call the healthcare provider between visits as needed, especially if you have concerns about symptoms.
 4. Call a healthcare provider right away if you or your family member has any of the following symptoms, especially if they are new, worse, or worry you:
-   1. •thoughts about suicide or dying
-   2. •attempts to commit suicide
-   3. •new or worse depression
-   4. •new or worse anxiety
-   5. •feeling very agitated or restless
-   6. •panic attacks
-   7. •trouble sleeping (insomnia)
-   8. •new or worse irritability
-   9. •acting aggressive, being angry, or violent
-   10. •acting on dangerous impulses
-   11. •an extreme increase in activity and talking (mania)
-   12. •other unusual changes in behavior or mood
-   13. •Visual problems: eye pain, changes in vision, swelling or redness in or around the eye
+   1. 4.thoughts about suicide or dying
+   2. 5.attempts to commit suicide
+   3. 6.new or worse depression
+   4. 7.new or worse anxiety
+   5. 8.feeling very agitated or restless
+   6. 9.panic attacks
+   7. 10.trouble sleeping (insomnia)
+   8. 11.new or worse irritability
+   9. 12.acting aggressive, being angry, or violent
+   10. 13.acting on dangerous impulses
+   11. 14.an extreme increase in activity and talking (mania)
+   12. 15.other unusual changes in behavior or mood
+   13. 16.Visual problems: eye pain, changes in vision, swelling or redness in or around the eye
 
 What else do I need to know about antidepressant medicines?
 
@@ -63,5 +63,3 @@ You may report side effects to FDA at 1-800-FDA-1088.
 This Medication Guide has been approved by the U.S. Food and Drug Administration for all antidepressants.
 
 Distributed by: Sun Pharmaceutical Industries, Inc. Cranbury, NJ 08512
-
-Rev 04, February 2018
