@@ -2,7 +2,7 @@
 
 ## 8.1 Pregnancy
 
-Risk Summary
+Risk Summary:
 
 The data on use of buprenorphine, the active ingredient in Buprenorphine Sublingual Tablets, in pregnancy, are limited; however, these data do not indicate an increased risk of major malformations specifically due to buprenorphine exposure.
 There are limited data from randomized clinical trials in women maintained on buprenorphine that were not designed appropriately to assess the risk of major malformations [see Data].
@@ -20,7 +20,7 @@ The estimated background risks of major birth defects and miscarriage for the in
 All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
 In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2-4% and 15-20%, respectively.
 
-Clinical Considerations
+Clinical Considerations:
 
 Disease-associated Maternal and Embryo-fetal Risk: Untreated opioid addiction in pregnancy is associated with adverse obstetrical outcomes such as low birth weight, preterm birth, and fetal death.
 In addition, untreated opioid addiction often results in continued or relapsing illicit opioid use.
@@ -37,7 +37,7 @@ Observe newborns for signs of neonatal opioid withdrawal syndrome and manage acc
 
 Labor or Delivery: Opioid-dependent women on buprenorphine maintenance therapy may require additional analgesia during labor.
 
-Data
+Data:
 
 Human Data: Studies have been conducted to evaluate neonatal outcomes in women exposed to buprenorphine during pregnancy.
 Limited data from trials, observational studies, case series, and case reports on buprenorphine use in pregnancy do not indicate an increased risk of major malformations specifically due to buprenorphine.
@@ -80,16 +80,16 @@ Delays in the occurrence of righting reflex and startle response were noted in r
 
 ## 8.2 Lactation
 
-Risk Summary
+Risk Summary:
 
 Based on two studies in 13 lactating women maintained on buprenorphine treatment, buprenorphine and its metabolite norbuprenorphine are present in low levels in human milk and, and available data have not shown adverse reactions in breastfed infants.
 The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for buprenorphine sublingual tablets and any potential adverse effects on the breastfed child from the drug or from the underlying maternal condition.
 
-Clinical Considerations
+Clinical Considerations:
 
 Advise breastfeeding women taking Buprenorphine Sublingual Tablets to monitor the infant for increased drowsiness and breathing difficulties.
 
-Data
+Data:
 
 Data were consistent from two studies (N=13) of breastfeeding infants whose mothers were maintained on sublingual doses of buprenorphine ranging from 2.4 to 24 mg/day, showing that the infants were exposed to less than 1% of the maternal daily dose.
 
@@ -100,7 +100,7 @@ Based on the study data, and assuming milk consumption of 150 mL/kg/day, an excl
 
 ## 8.3 Females and Males of Reproductive Potential
 
-Infertility
+Infertility:
 
 Chronic use of opioids may cause reduced fertility in females and males of reproductive potential.
 It is not known whether these effects on fertility are reversible [see Adverse Reactions (6.2), Clinical Pharmacology (12.2), Nonclinical Toxicology (13.1)].

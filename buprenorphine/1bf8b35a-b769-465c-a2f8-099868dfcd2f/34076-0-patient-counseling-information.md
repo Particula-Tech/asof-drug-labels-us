@@ -4,14 +4,14 @@ Advise patients to read the FDA-approved patient labeling (Medication Guide).
 
 Storage and Disposal:
 
-Because of the risks associated with accidental ingestion, misuse, and abuse, advise patients to store Buprenorphine Sublingual Tablets securely, out of sight and reach of children, and in a location not accessible by others, including visitors to the home [see Warnings and Precautions (5.1, 5.2), Abuse (9.2)].
+Because of the risks associated with accidental ingestion, misuse, and abuse, advise patients to store Buprenorphine Sublingual Tablets securely, out of sight and reach of children, and in a location not accessible by others, including visitors to the home [see Warnings and Precautions (5.1, 5.4), Abuse (9.2)].
 Inform patients that leaving Buprenorphine Sublingual Tablets unsecured can pose a deadly risk to others in the home.
 
 Advise patients and caregivers that when medicines are no longer needed, they should be disposed of promptly.
 Expired, unwanted, or unused Buprenorphine Sublingual Tablets should be disposed of by flushing the unused medication down the toilet if a drug take-back option is not readily available.
 Inform patients that they can visit www.fda.gov/drugdisposal for a complete list of medicines recommended for disposal by flushing, as well as additional information on disposal of unused medicines.
 
-Safe Use
+Safe Use:
 
 Before initiating treatment with Buprenorphine Sublingual Tablets, explain the points listed below to caregivers and patients.
 Instruct patients to read the Medication Guide each time Buprenorphine Sublingual Tablets are dispensed because new information may be available.
@@ -51,6 +51,6 @@ Distr. by: Hikma Pharmaceuticals USA Inc.
 
 Eatontown, NJ 07724
 
-C50000231/02
+C50000231/03
 
-Revised April 2019
+Revised September 2019

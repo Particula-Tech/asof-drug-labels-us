@@ -6,7 +6,7 @@ Buprenorphine Sublingual Tablets contain buprenorphine, a partial agonist at the
 
 ## 12.2 Pharmacodynamics
 
-Subjective Effects
+Subjective Effects:
 
 Comparisons of buprenorphine to full opioid agonists such as methadone and hydromorphone suggest that sublingual buprenorphine produces typical opioid agonist effects which are limited by a ceiling effect.
 
@@ -19,7 +19,7 @@ In contrast, the highest dose of the full agonist control always produced the gr
 Agonist objective rating scores remained elevated for the higher doses of buprenorphine (8 to 32 mg) longer than for the lower doses and did not return to baseline until 48 hours after drug administration.
 The onset of effects appeared more rapidly with buprenorphine than with the full agonist control, with most doses nearing peak effect after 100 minutes for buprenorphine compared to 150 minutes for the full agonist control.
 
-Physiologic Effects
+Physiologic Effects:
 
 Buprenorphine in IV (2, 4, 8, 12 and 16 mg) and sublingual (12 mg) doses have been administered to opioid-experienced subjects who were not physically dependent to examine cardiovascular, respiratory and subjective effects at doses comparable to those used for treatment of opioid dependence.
 Compared to placebo, there were no statistically significant differences among any of the treatment conditions for blood pressure, heart rate, respiratory rate, O2 saturation, or skin temperature across time.
@@ -32,7 +32,7 @@ The respiratory effects of sublingual buprenorphine were compared with the effec
 In this study, hypoventilation not requiring medical intervention was reported more frequently after buprenorphine doses of 4 mg and higher than after methadone.
 Both drugs decreased O2 saturation to the same degree.
 
-Effects on the Endocrine System
+Effects on the Endocrine System:
 
 Opioids inhibit the secretion of adrenocorticotropic hormone (ACTH), cortisol, and luteinizing hormone (LH) in humans [see Adverse Reactions (6.2)].
 They also stimulate prolactin, growth hormone (GH) secretion, and pancreatic secretion of insulin and glucagon.
@@ -43,7 +43,7 @@ Patients presenting with symptoms of androgen deficiency should undergo laborato
 
 ## 12.3 Pharmacokinetics
 
-Absorption
+Absorption:
 
 Plasma levels of buprenorphine increased with the sublingual dose of Buprenorphine Sublingual Tablets (Table 4).
 There was wide inter-patient variability in the sublingual absorption of buprenorphine, but within subjects the variability was low.
@@ -60,11 +60,11 @@ Table 4: Pharmacokinetic Parameters of Buprenorphine and Norbuprenorphine after 
 | 16 mg | Buprenorphine | Mean SD | 4.70 2.16 | 1.42 0.50 | 47.09 20.03 | 36.51 13.99 |
 | Norbuprenorphine | Mean SD | 2.65 1.62 | 1.52 1.34 | 92.31 34.74 | 40.35 12.07 |  |
 
-Distribution
+Distribution:
 
 Buprenorphine is approximately 96% protein bound, primarily to alpha and beta globulin.
 
-Elimination
+Elimination:
 
 Metabolism: Buprenorphine undergoes both N-dealkylation to norbuprenorphine and glucuronidation.
 The N-dealkylation pathway is mediated primarily by CYP3A4.
@@ -78,12 +78,12 @@ In feces, almost all of the buprenorphine and norbuprenorphine were free (bupren
 
 When Buprenorphine is administered sublingually, buprenorphine has a mean elimination half-life from plasma ranging from 31 to 35 hours.
 
-Drug Interactions Studies
+Drug Interactions Studies:
 
 CYP3A4 Inhibitors and Inducers: Buprenorphine has been found to be a CYP2D6 and CYP3A4 inhibitor and its major metabolite, norbuprenorphine has been found to be a moderate CYP2D6 inhibitor in in vitro studies employing human liver microsomes.
 However, the relatively low plasma concentrations of buprenorphine and norbuprenorphine resulting from therapeutic doses are not expected to raise significant drug-drug interaction concerns [See Drug Interactions (7)].
 
-Specific Populations
+Specific Populations:
 
 Hepatic Impairment: In a pharmacokinetic study, the disposition of buprenorphine was determined after administering a 2.0/0.5 mg buprenorphine and naloxone sublingual tablet in subjects with varied degrees of hepatic impairment as indicated by Child-Pugh criteria.
 The disposition of buprenorphine in patients with hepatic impairment was compared to disposition in subjects with normal hepatic function.

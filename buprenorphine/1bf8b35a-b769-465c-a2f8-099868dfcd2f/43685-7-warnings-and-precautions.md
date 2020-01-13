@@ -17,7 +17,7 @@ Use Buprenorphine Sublingual Tablets with caution in patients with compromised r
 
 Opioids can cause sleep-related breathing disorders including central sleep apnea (CSA) and sleep-related hypoxemia.
 Opioid use increases the risk of CSA in a dose-dependent fashion.
-In patients who present with CSA, consider decreasing the opioid dosage using best practices for opioid taper [see Dosage and Administration (2.7)].
+In patients who present with CSA, consider decreasing the opioid dosage using best practices for opioid taper [see Dosage and Administration (2.9)].
 
 ## 5.3 Managing Risks From Concomitant Use of Benzodiazepines or Other CNS Depressants
 

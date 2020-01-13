@@ -16,14 +16,14 @@ Share the important information in this Medication Guide with members of your ho
 
 What is the most important information I should know about Buprenorphine Sublingual Tablets?
 
+- •Buprenorphine Sublingual Tablets can cause serious and life-threatening breathing problems.
+  Call your doctor right away or get emergency help if:
+  - •You feel faint, dizzy or confused
+- •Your breathing gets much slower than is normal for you
 - •Never give anyone else your Buprenorphine Sublingual Tablets.
   They could die from taking it.
   Selling or giving away Buprenorphine Sublingual Tablets is against the law.
 - •Store Buprenorphine Sublingual Tablets securely, out of sight and reach of children, and in a location not accessible by others, including visitors to the home.
-- •Buprenorphine Sublingual Tablets can cause serious and life-threatening breathing problems.
-  Call your doctor right away or get emergency help if:
-  - •You feel faint, dizzy or confused
-  - •Your breathing gets much slower than is normal for you
 
 These can be signs of an overdose or other serious problems.
 
@@ -221,6 +221,6 @@ Distr. by: Hikma Pharmaceuticals USA Inc.
 
 Eatontown, NJ 07724
 
-C50000231/02
+C50000231/03
 
-Revised April 2019
+Revised September 2019

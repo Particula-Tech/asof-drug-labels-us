@@ -20,7 +20,7 @@ Provision of multiple refills is not advised early in treatment or without appro
 
 Prior to induction, consideration should be given to the type of opioid dependence (i.e., long- or short-acting opioid products), the time since last opioid use, and the degree or level of opioid dependence.
 
-Patients Dependent on Heroin or Other Short-acting Opioid Products
+Patients Dependent on Heroin or Other Short-acting Opioid Products:
 
 At treatment initiation, the first dose of Buprenorphine Sublingual Tablets should be administered only when objective and clear signs of moderate opioid withdrawal appear, and not less than 4 hours after the patient last used an opioid.
 
