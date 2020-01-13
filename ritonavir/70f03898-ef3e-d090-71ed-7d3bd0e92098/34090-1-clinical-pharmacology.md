@@ -106,7 +106,7 @@ For information about clinical recommendations see Table 3 in Drug Interactions 
 Table 5.
 Drug Interactions - Pharmacokinetic Parameters for Ritonavir in the Presence of the Co-administered Drug
 
-| Co-administered Drug | Dose of Co-administered Drug (mg) | Dose of Ritonavir (mg) | N | AUC % (95% CI) | Cmax (95% CI) | Cmin (95% CI) |
+| Co- administered Drug | Dose of Co- administered Drug (mg) | Dose of Ritonavir (mg) | N | AUC % (95% CI) | Cmax (95% CI) | Cmin (95% CI) |
 | --- | --- | --- | --- | --- | --- | --- |
 | Clarithromycin | 500 q12h, 4 d | 200 q8h, 4 d | 22 | ↑ 12% (2, 23%) | ↑ 15% (2, 28%) | ↑ 14% (-3, 36%) |
 | Didanosine | 200 q12h, 4 d | 600 q12h, 4 d | 12 | ↔ | ↔ | ↔ |
@@ -121,7 +121,7 @@ Drug Interactions - Pharmacokinetic Parameters for Ritonavir in the Presence of 
 Table 6.
 Drug Interactions - Pharmacokinetic Parameters for Co-administered Drug in the Presence of Ritonavir
 
-| Co-administered Drug | Dose of Co-administered Drug (mg) | Dose of Ritonavir (mg) | N | AUC % (95% CI) | Cmax (95% CI) | Cmin (95% CI) |
+| Co- administered Drug | Dose of Co- administered Drug (mg) | Dose of Ritonavir (mg) | N | AUC % (95% CI) | Cmax (95% CI) | Cmin (95% CI) |
 | --- | --- | --- | --- | --- | --- | --- |
 | Alprazolam | 1, single dose | 500 q12h, 10 d | 12 | ↓ 12% (-5, 30%) | ↓ 16% (5, 27%) | ND |
 | Avanafil | 50, single dose | 600 q12h | 146 | ↑ 13-fold | ↑ 2.4-fold | ND |
@@ -138,7 +138,7 @@ Drug Interactions - Pharmacokinetic Parameters for Co-administered Drug in the P
 | Rivaroxaban | 10, single dose (days 0 and 7) | 600 q12h (days 2 to 7) | 12 | ↑ 150% (130-170%)7 | ↑ 60% (40-70%)7 | ND |
 | Rifabutin 25-O-desacetyl rifabutin metabolite | 150 daily, 16 d | 500 q12h, 10 d | 5, 11* | ↑ 4-fold (2.8, 6.1X) ↑ 38-fold (28, 56X) | ↑ 2.5-fold (1.9, 3.4X) ↑ 16-fold (13, 20X) | ↑ 6-fold (3.5, 18.3X) ↑ 181-fold (ND) |
 | Sildenafil | 100, single dose | 500 twice daily, 8 d | 28 | ↑ 11-fold | ↑ 4-fold | ND |
-| Simeprevir | 200 mg qd, 7 d | 100 mg bid,15 d | 12 | ↑ 618% (463%-815%)8 | ↑370% (284%-476%)8 | ↑1335% (929%-1901%)8 |
+| Simeprevir | 200 mg qd, 7 d | 100 mg bid, 15 d | 12 | ↑ 618% (463%-815%)8 | ↑370% (284%-476%)8 | ↑1335% (929%-1901%)8 |
 | Sulfamethoxazole3 | 800, single dose | 500 q12h, 12 d | 15 | ↓ 20% (16, 23%) | ↔ | ND |
 | Tadalafil | 20 mg, single dose | 200 mg q12h |  | ↑ 124% | ↔ | ND |
 | Theophylline | 3 mg/kg q8h, 15 d | 500 q12h, 10 d | 13, 11* | ↓ 43% (42, 45%) | ↓ 32% (29, 34%) | ↓ 57% (55, 59%) |
