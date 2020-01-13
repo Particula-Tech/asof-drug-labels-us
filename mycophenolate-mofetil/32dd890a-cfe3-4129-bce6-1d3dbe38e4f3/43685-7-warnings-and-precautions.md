@@ -72,7 +72,7 @@ Mycophenolate mofetil is an inosine monophosphate dehydrogenase (IMPDH) inhibito
 
 ## 5.7 Immunizations
 
-During treatment with mycophenolate mofetil, the use of live attenuated vaccines should be avoided and patients should be advised that vaccinations may be less effective.
+During treatment with mycophenolate mofetil, the use of live attenuated vaccines should be avoided (e.g., intranasal influenza, measles, mumps, rubella, oral polio, BCG, yellow fever, varicella, and TY21a typhoid vaccines) and patients should be advised that vaccinations may be less effective.
 Advise patients to discuss with the physician before seeking any immunizations.
 
 ## 5.10 Blood Donation

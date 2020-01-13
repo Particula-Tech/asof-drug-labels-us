@@ -23,7 +23,7 @@ Patients should be instructed to take a missed dose as soon as they remember, ex
 
 Adults
 
-The recommended dose for adult kidney transplant patients is 1 g orally infused over no less than 2 hours, twice daily (daily dose of 2 g).
+The recommended dose for adult kidney transplant patients is 1 g orally or intravenously infused over no less than 2 hours, twice daily (daily dose of 2 g).
 
 Pediatrics (3 months and older)
 
