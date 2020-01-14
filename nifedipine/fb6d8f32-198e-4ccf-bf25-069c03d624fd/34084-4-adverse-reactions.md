@@ -62,4 +62,4 @@ Urogenital/Reproductive: dysuria, kidney calculus, nocturia, breast engorgement,
 
 The following adverse events have been reported rarely in patients given nifedipine in coat core or other formulations: allergenic hepatitis, alopecia, anaphylactic reaction, anemia, arthritis with ANA (+), depression, erythromelalgia, exfoliative dermatitis, fever, gingival hyperplasia, gynecomastia, hyperglycemia, jaundice, leukopenia, mood changes, muscle cramps, nervousness, paranoid syndrome, purpura, shakiness, sleep disturbances, Stevens-Johnson syndrome, syncope, taste perversion, thrombocytopenia, toxic epidermal necrolysis, transient blindness at the peak of plasma level, tremor, and urticaria.
 
-To report SUSPECTED ADVERSE REACTIONS, contact Valeant Pharmaceuticals North America LLC at 1-800-321-4576 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
+To report SUSPECTED ADVERSE REACTIONS, contact Oceanside Pharmaceuticals at 1-800-321-4576 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.

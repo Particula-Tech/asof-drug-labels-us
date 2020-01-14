@@ -1,13 +1,13 @@
 # PRINCIPAL DISPLAY PANEL - 100 Tablet Bottle Label
 
-NDC 68682-106-10
+NDC 68682-106-30
+
+Rx only
 
 NIFEdipine Extended-Release Tablets, USP
 
 60 mg
 
-Rx only
+300 Tablets
 
-100 Tablets
-
-OCEANSIDE® PHARMACEUTICALS
+OCEANSIDE PHARMACEUTICALS

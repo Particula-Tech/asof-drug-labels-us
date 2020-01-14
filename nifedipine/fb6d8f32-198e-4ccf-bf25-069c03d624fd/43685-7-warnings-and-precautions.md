@@ -7,7 +7,7 @@ These responses have usually occurred during initial titration or at the time of
 
 Severe hypotension and/or increased fluid volume requirements have been reported in patients who received immediate-release capsules together with a beta-blocking agent and who underwent coronary artery bypass surgery using high-dose fentanyl anesthesia.
 The interaction with high-dose fentanyl appears to be due to the combination of nifedipine and a beta-blocker, but the possibility that it may occur with nifedipine alone, with low doses of fentanyl, in other surgical procedures, or with other narcotic analgesics cannot be ruled out.
-In nifedipine-treated patients where surgery using high-dose fentanyl anesthesia is contemplated, the physician should be aware of these potential problems and, if the patient's condition permits, sufficient time (at least 36 hours) should be allowed for nifedipine to be washed out of the body prior to surgery.
+In nifedipine-treated patients where surgery using high-dose fentanyl anesthesia is contemplated, the physician should be aware of these potential problems and, if the patient’s condition permits, sufficient time (at least 36 hours) should be allowed for nifedipine to be washed out of the body prior to surgery.
 
 ## Increased Angina and/or Myocardial Infarction
 
@@ -66,7 +66,7 @@ Limited clinical studies have demonstrated a moderate but statistically signific
 This is thought to be a function of inhibition of calcium transport across the platelet membrane.
 No clinical significance for these findings has been demonstrated.
 
-Positive direct Coombs' test, with or without hemolytic anemia, has been reported, but a causal relationship between nifedipine administration and positivity of this laboratory test, including hemolysis, could not be determined.
+Positive direct Coombs’ test, with or without hemolytic anemia, has been reported, but a causal relationship between nifedipine administration and positivity of this laboratory test, including hemolysis, could not be determined.
 
 Although nifedipine has been used safely in patients with renal dysfunction and has been reported to exert a beneficial effect in certain cases, rare reversible elevations in BUN and serum creatinine have been reported in patients with pre-existing chronic renal insufficiency.
 The relationship to nifedipine therapy is uncertain in most cases but probable in some.
@@ -85,7 +85,7 @@ Careful monitoring and dose adjustment may be necessary; consider initiating nif
 
 ### Strong CYP3A Inducers
 
-Strong CYP3A inducers, such as rifampin, rifabutin, phenobarbital, phenytoin, carbamazepine, and St. John's Wort reduce the bioavailability and efficacy of nifedipine; therefore nifedipine should not be used in combination with strong CYP3A inducers such as rifampin (see CONTRAINDICATIONS).
+Strong CYP3A inducers, such as rifampin, rifabutin, phenobarbital, phenytoin, carbamazepine, and St. John’s Wort reduce the bioavailability and efficacy of nifedipine; therefore nifedipine should not be used in combination with strong CYP3A inducers such as rifampin (see CONTRAINDICATIONS).
 
 ### Cardiovascular Drugs
 
@@ -272,8 +272,8 @@ The intake of grapefruit juice should be stopped at least 3 days prior to initia
 
 Herbals
 
-St. John's Wort: St. John's Wort is an inducer of CYP3A and may decrease exposure to nifedipine.
-Alternative antihypertensive therapy should be considered in patients in whom St. John's Wort therapy is necessary.
+St. John’s Wort: St. John’s Wort is an inducer of CYP3A and may decrease exposure to nifedipine.
+Alternative antihypertensive therapy should be considered in patients in whom St. John’s Wort therapy is necessary.
 
 CYP2D6 Probe Drug
 
