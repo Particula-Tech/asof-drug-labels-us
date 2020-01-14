@@ -1,6 +1,6 @@
 # HOW SUPPLIED
 
-Nifedipine Extended-Release Tablets, USP are supplied as 90 mg round film-coated tablets as follows:
+Nifedipine Extended-Release Tablets, USP are supplied as 90 mg unscored, round film-coated tablets as follows:
 
 | Strength | Color | Markings |
 | --- | --- | --- |
@@ -8,28 +8,24 @@ Nifedipine Extended-Release Tablets, USP are supplied as 90 mg round film-coated
 
 Nifedipine Extended-Release Tablets, USP are supplied in:
 
-| Strength |  | NDC Code |
+| Strength | Quantity | NDC Number |
 | --- | --- | --- |
 | 90 mg | Bottles of 100 | 68682-107-10 |
 
 The tablets should be protected from light and moisture and stored at 25°C
 
-(77°F); excursions permitted to 15°-30°C (59°-86°F) [see USP Controlled
+(77°F); excursions permitted to 15° to 30°C (59° to 86°F) [see USP Controlled
 
 Room Temperature].
 Dispense in tight, light-resistant containers.
 
-Manufactured by:
+Distributed by: Oceanside Pharmaceuticals, a division of Bausch Health US, LLC Bridgewater, NJ 08807 USA
 
-Valeant Pharmaceuticals International, Inc. Steinbach, MB R5G 1Z7 Canada
+Manufactured by: Bausch Health Companies Inc. Steinbach, MB R5G 1Z7, Canada
 
-Distributed by: Oceanside Pharmaceuticals, a division of Valeant Pharmaceuticals North America LLC
+© 2019 Bausch Health Companies Inc. or its affiliates
 
-Bridgewater, NJ 08807 USA
-
-9495503
-
-20001722
+9495504 20002765
 
 Rev.
-06/2016
+10/2019

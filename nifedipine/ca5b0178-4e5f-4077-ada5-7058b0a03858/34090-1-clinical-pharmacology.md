@@ -66,7 +66,7 @@ The mean trough (24 hours post-dose) blood pressure results from these studies a
 
 MEAN REDUCTIONS IN TROUGH SUPINE BLOOD PRESSURE (mmHg) SYSTOLIC/DIASTOLIC
 
-| NIFEDIPINE EXTENDED-RELEASE DOSE | N | MEAN TROUGH REDUCTIONPlacebo response subtracted. |
+| NIFEDIPINE EXTENDED-RELEASE DOSE | N | MEAN TROUGH REDUCTION |
 | --- | --- | --- |
 | STUDY 1 |  |  |
 | 30 mg | 60 | 5.3/2.9 |
