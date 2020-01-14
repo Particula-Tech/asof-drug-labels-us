@@ -3,11 +3,11 @@
 ## Excessive Hypotension
 
 Although in most angina patients the hypotensive effect of nifedipine is modest and well tolerated, occasional patients have had excessive and poorly tolerated hypotension.
-These responses have usually occurred during initial titration or at the time of subsequent upward dosage adjustment, and may be more likely in patients on concomitant beta blockers.
+These responses have usually occurred during initial titration or at the time of subsequent upward dosage adjustment, and may be more likely in patients on concomitant beta-blockers.
 
 Severe hypotension and/or increased fluid volume requirements have been reported in patients receiving nifedipine together with a beta-blocking agent who underwent coronary artery bypass surgery using high-dose fentanyl anesthesia.
-The interaction with high-dose fentanyl appears to be due to the combination of nifedipine and a beta blocker, but the possibility that it may occur with nifedipine alone, with low doses of fentanyl, in other surgical procedures, or with other narcotic analgesics cannot be ruled out.
-In nifedipine-treated patients where surgery using high-dose fentanyl anesthesia is contemplated, the physician should be aware of these potential problems and if the patient's condition permits, sufficient time (at least 36 hours) should be allowed for nifedipine to be washed out of the body prior to surgery.
+The interaction with high-dose fentanyl appears to be due to the combination of nifedipine and a beta-blocker, but the possibility that it may occur with nifedipine alone, with low doses of fentanyl, in other surgical procedures, or with other narcotic analgesics cannot be ruled out.
+In nifedipine-treated patients where surgery using high-dose fentanyl anesthesia is contemplated, the physician should be aware of these potential problems and if the patient’s condition permits, sufficient time (at least 36 hours) should be allowed for nifedipine to be washed out of the body prior to surgery.
 
 The following information should be taken into account in those patients who are being treated for hypertension as well as angina:
 
@@ -16,15 +16,15 @@ The following information should be taken into account in those patients who are
 Rarely, patients, particularly those who have severe obstructive coronary artery disease, have developed well documented increased frequency, duration and/or severity of angina or acute myocardial infarction on starting nifedipine or at the time of dosage increase.
 The mechanism of this effect is not established.
 
-### Beta Blocker Withdrawal
+### Beta-Blocker Withdrawal
 
-It is important to taper beta blockers if possible, rather than stopping them abruptly before beginning nifedipine.
-Patients recently withdrawn from beta blockers may develop a withdrawal syndrome with increased angina, probably related to increased sensitivity to catecholamines.
+It is important to taper beta-blockers if possible, rather than stopping them abruptly before beginning nifedipine.
+Patients recently withdrawn from beta-blockers may develop a withdrawal syndrome with increased angina, probably related to increased sensitivity to catecholamines.
 Initiation of nifedipine treatment will not prevent this occurrence and on occasion has been reported to increase it.
 
 ### Congestive Heart Failure
 
-Rarely, patients, usually receiving a beta blocker, have developed heart failure after beginning nifedipine.
+Rarely, patients, usually receiving a beta-blocker, have developed heart failure after beginning nifedipine.
 Patients with tight aortic stenosis may be at greater risk for such an event, as the unloading effect of nifedipine would be expected to be of less benefit, owing to the fixed impedance to flow across the aortic valve in these patients.
 
 ### Gastrointestinal Obstruction Requiring Surgery
@@ -118,7 +118,7 @@ Careful monitoring and dose adjustment may be necessary; consider initiating nif
 ### Other Interactions:
 
 Grapefruit Juice: Coadministration of nifedipine with grapefruit juice resulted in approximately a doubling in nifedipine AUC and Cmax with no change in half-life.
-The increased plasma concentrations most likely result from inhibition of CYP 3A4 related first-pass metabolism.
+The increased plasma concentrations most likely result from inhibition of CYP3A4 related first-pass metabolism.
 Avoid ingestion of grapefruit and grapefruit juice should be avoided while taking nifedipine.
 
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility:

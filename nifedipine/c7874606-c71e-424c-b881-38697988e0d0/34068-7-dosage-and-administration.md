@@ -1,6 +1,6 @@
 # DOSAGE AND ADMINISTRATION
 
-Dosage must be adjusted according to each patient's needs.
+Dosage must be adjusted according to each patient’s needs.
 Therapy for either hypertension or angina should be initiated with 30 or 60 mg once daily.
 Nifedipine extended-release tablets should be swallowed whole and should not be bitten or divided.
 In general, titration should proceed over a 7 to 14 day period so that the physician can fully assess the response to each dose level and monitor blood pressure before proceeding to higher doses.
@@ -14,7 +14,7 @@ Therefore, doses greater than 90 mg should be used with caution and only when cl
 
 Avoid coadministration of nifedipine with grapefruit juice (see CLINICAL PHARMACOLOGY and PRECAUTIONS: Other Interactions).
 
-No "rebound effect" has been observed upon discontinuation of nifedipine extended-release tablets.
+No “rebound effect” has been observed upon discontinuation of nifedipine extended-release tablets.
 However, if discontinuation of nifedipine is necessary, sound clinical practice suggests that the dosage should be decreased gradually with close physician supervision.
 
 Care should be taken when dispensing nifedipine extended-release tablets to assure that the extended-release dosage form has been prescribed.
@@ -22,4 +22,4 @@ Care should be taken when dispensing nifedipine extended-release tablets to assu
 ## Coadministration with Other Antianginal Drugs
 
 Sublingual nitroglycerin may be taken as required for the control of acute manifestations of angina, particularly during nifedipine titration.
-See PRECAUTIONS: Drug Interactions, for information on coadministration of nifedipine with beta blockers or long-acting nitrates.
+See PRECAUTIONS: Drug Interactions, for information on coadministration of nifedipine with beta-blockers or long-acting nitrates.

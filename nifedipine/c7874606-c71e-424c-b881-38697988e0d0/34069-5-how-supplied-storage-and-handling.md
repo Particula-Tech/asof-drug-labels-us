@@ -10,7 +10,7 @@ Nifedipine extended-release tablets are supplied in:
 | Bottles of 100 | 60 mg | NDC 68682-109-10 |
 | Bottles of 300 | 60 mg | NDC 68682-109-30 |
 
-Store at 25°C (77°F): excursions permitted to 15°C to 30°C (59°F to 86°F) [See USP Controlled Room Temperature].
+Store at 25°C (77°F); excursions permitted to 15° to 30°C (59° to 86°F) [see USP Controlled Room Temperature].
 
 Protect from moisture and humidity.
 
