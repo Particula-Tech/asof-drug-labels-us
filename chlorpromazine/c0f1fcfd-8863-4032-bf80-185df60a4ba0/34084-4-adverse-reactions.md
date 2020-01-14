@@ -121,7 +121,7 @@ Abnormality of the cerebrospinal fluid proteins has also been reported.
 
 Allergic Reactions of a mild urticarial type or photosensitivity are seen.
 Avoid undue exposure to sun.
-More severe reactions, including exfoliative dermatitis, have been reported occasionally.
+More severe reactions, including exfoliative dermatitis and toxic epidermal necrolysis (TEN), have been reported occasionally.
 
 Contact dermatitis has been reported in nursing personnel; accordingly, the use of rubber gloves when administering chlorpromazine injectable is recommended.
 
