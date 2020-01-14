@@ -3,20 +3,18 @@
 ## 14.1 Ovarian Cancer
 
 The efficacy of gemcitabine was evaluated in a randomized trial (Study 1) conducted in women with advanced ovarian cancer that had relapsed at least 6 months after first-line platinum-based therapy.
-Patients were randomized to receive either gemcitabine hydrochloride 1000 mg/m2 on Days 1 and 8 of each 21-day cycle with carboplatin AUC 4 on Day 1 after gemcitabine hydrochloride administration (n=178) or carboplatin AUC 5 on Day 1 of each 21-day cycle (n=178).
+Patients were randomized to receive either gemcitabine hydrochloride 1000 mg/m2 on Days 1 and 8 of each 21-day cycle with carboplatin AUC 4 on Day 1 after gemcitabine administration (n=178) or carboplatin AUC 5 on Day 1 of each 21-day cycle (n=178).
 The major efficacy outcome measure was progression-free survival (PFS).
 
-Baseline demographics and disease characteristics in gemcitabine plus carboplatin arm were: median age of 59 (range: 36 to 78), 94% ECOG PS 0-1.
-8% had evaluable disease and 92% had bidimensionally measurable disease.
-40% had 6 to 12 months of platinum free interval, 59% had greater than 12 months platinum free interval; and as first-line therapy, 70% had platinum-taxane combination, 29% had platinum non-taxane combination and 1% had platinum monotherapy.
+Baseline demographics and disease characteristics in gemcitabine/carboplatin arm were: median age of 59 years (range: 36 to 78), 94% Eastern Cooperative Oncology Group (ECOG) performance status 0 or 1; 8% had evaluable disease and 92% had bidimensionally measurable disease; 40% had 6 to 12 months of platinum free interval and 59% had >12 months platinum free interval; and as first-line therapy, 70% had platinum-taxane combination, 29% had platinum non-taxane combination and 1% had platinum monotherapy.
 
-Baseline demographics and disease characteristics in the carboplatin arm were: median age of 58 (range 21 to 81), 95% had an Eastern Cooperative Oncology Group (ECOG) performance status of 0-1; 3% had evaluable disease and 96% had bidimensionally measurable disease; 40% had a 6 to 12 month platinum-free interval and 60% had a greater than 12 month platinum-free interval; and as first-line therapy, 71% had a platinum-taxane combination, 28% had platinum-non-taxane combination, and 1% had platinum monotherapy.
+Baseline demographics and disease characteristics in the carboplatin arm were: median age of 58 years (range: 21 to 81), 95% had an ECOG performance status of 0 or 1; 3% had evaluable disease and 96% had bidimensionally measurable disease; 40% had a 6 to 12 month platinum-free interval and 60% had a >12 month platinum-free interval; and as first-line therapy, 71% had a platinum-taxane combination, 28% had platinum-non-taxane combination, and 1% had platinum monotherapy.
 
 A total of 356 patients were enrolled.
 Efficacy results are presented in Table 18 and Figure 1.
-The addition of gemcitabine to carboplatin resulted in statistically significant improvements in PFS and overall response rate.
+The addition of gemcitabine to carboplatin resulted in statistically significant improvements in PFS and overall response rate (ORR).
 Approximately 75% of patients in each arm received additional chemotherapy for disease progression; 13 of 120 patients in the carboplatin alone arm received gemcitabine for treatment of disease progression.
-There was no significant difference in overall survival between the treatment arms.
+There was no significant difference in overall survival (OS) between the treatment arms.
 
 Table 18: Efficacy Results in Study 1
 
@@ -49,7 +47,7 @@ d CR=Complete response.
 
 e PR with PRNM=Partial response with partial response, non-measurable disease.
 
-f Independently reviewed cohort-gemcitabine hydrochloride/carboplatin (n=121), carboplatin (n=101); independent reviewers unable to measure disease detected by sonography or physical exam.
+f Independently reviewed cohort-gemcitabine/carboplatin (n=121) and carboplatin (n=101); independent reviewers unable to measure disease detected by sonography or physical exam.
 
 Figure 1: Kaplan-Meier Curves for Progression-Free Survival in Study 1
 
@@ -60,11 +58,11 @@ Patients were randomized to receive either gemcitabine 1250 mg/m2 on Days 1 and 
 The major efficacy outcome measure was time to documented disease progression.
 
 A total of 529 patients were enrolled.
-Baseline demographics and disease characteristics in the gemcitabine with paclitaxel arm were: median age of 53 (range 26 to 83); 97% had metastatic disease; 70% had baseline Karnofsky Performance Status (KPS) greater than or equal to 90%; 57% had 1 to 2 tumor sites and 43% had 3 or more tumor sites; 73% had visceral disease and 97% had prior anthracycline.
+Baseline demographics and disease characteristics in the gemcitabine with paclitaxel arm were: median age of 53 years (range 26 to 83); 97% had metastatic disease; 70% had baseline Karnofsky Performance Status (KPS) ≥ 90; 57% had 1 to 2 tumor sites and 43% had 3 or more tumor sites; 73% had visceral disease and 97% had prior anthracycline.
 
 Efficacy results are presented in Table 19 and Figure 2.
-The addition of gemcitabine to paclitaxel resulted in statistically significant improvement in time to documented disease progression and overall response rate compared to paclitaxel alone.
-There was no significant difference in overall survival.
+The addition of gemcitabine to paclitaxel resulted in statistically significant improvement in time to documented disease progression and ORR compared to paclitaxel alone.
+There was no significant difference in OS.
 
 Table 19: Efficacy Results in Study 2
 
@@ -108,8 +106,8 @@ Patients were randomized to receive either gemcitabine 1250 mg/m2 on Days 1 and 
 The major efficacy outcome measure was response rate.
 
 A total of 135 patients were enrolled.
-Patient demographics and baseline characteristics in gemcitabine with cisplatin arm were: 93% males, median age 58 years (range 33 to 76); 48% in stage IIIB and 52% stage IV, 45 %; Baseline KPS 70 to 80, 55% Baseline KPS 90 to 100.
-Patient demographics and baseline characteristics in cisplatin arm were: 92% males, median age 60 years (range 35 to 75), 52% in stage IIIB and 49% stage IV NSCLC, 52% Baseline KPS 70 to 80, 49% Baseline KPS 90 to 100.
+Patient demographics and baseline characteristics in gemcitabine/ cisplatin arm were: 93% males; median age of 58 years (range 33 to 76); 48% in stage IIIB and 52% stage IV; 45 %had baseline KPS of 70 to 80 and 55% had baseline KPS of 90 to 100.
+Patient demographics and baseline characteristics in cisplatin arm were: 92% males; median age of 60 years (range 35 to 75); 52% in stage IIIB and 49% stage IV; 52% with baseline KPS of 70 to 80 and 49% with baseline KPS of 90 to 100.
 
 Efficacy results are presented in Table 20.
 There was no significant difference in survival between the two treatment arms.
@@ -159,7 +157,7 @@ The efficacy results are shown in Table 21 and Figure 4.
 Patients treated with gemcitabine had statistically significant increases in clinical benefit response, survival, and time to disease progression compared to those randomized to receive fluorouracil.
 No confirmed objective tumor responses were observed in either treatment arm.
 
-1. Table 21: Efficacy Results in Study 5
+- Table 21: Efficacy Results in Study 5
 
 | Efficacy Parameter | Gemcitabine (N=63) | Fluorouracil (N=63) |
 | --- | --- | --- |

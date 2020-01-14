@@ -26,7 +26,7 @@ Adverse reactions resulting in discontinuation of gemcitabine in 2% of 979 patie
 Tables 7 and 8 present the incidence of selected adverse reactions and laboratory abnormalities reported in patients with various malignancies receiving single agent gemcitabine across 5 clinical trials.
 Additional clinically significant adverse reactions are provided following Table 8.
 
-Table 7: Selected Adverse Reactions Occurring in ≥10% Patients Receiving Single Agent Gemcitabine a
+Table 7: Selected Adverse Reactions Occurring in ≥10% of Patients Receiving Single Agent Gemcitabine a
 
 | All Grades (%) | Grade 3 (%) | Grade 4 (%) |  |
 | --- | --- | --- | --- |
@@ -43,9 +43,9 @@ Table 7: Selected Adverse Reactions Occurring in ≥10% Patients Receiving Singl
 | Somnolence | 11 | <1 | <1 |
 | Paresthesias | 10 | <1 | 0 |
 
-1. a Grade based on criteria from the World Health Organization (WHO).
-2. b For approximately 60% of patients, non-laboratory adverse reactions were graded only if assessed to be possibly drug-related.
-3. c N=699-974; all patients with laboratory or non-laboratory data.
+- a Grade based on criteria from the World Health Organization (WHO).
+- b For approximately 60% of patients, non-laboratory adverse reactions were graded only if assessed to be possibly drug-related.
+- c N=699-974; all patients with laboratory or non-laboratory data.
 
 Table 8: Selected Laboratory Abnormalities Occurring in Patients Receiving Single Agent Gemcitabinea
 
@@ -67,9 +67,9 @@ Table 8: Selected Laboratory Abnormalities Occurring in Patients Receiving Singl
 | Increased BUN | 16 | 0 | 0 |
 | Increased Creatinine | 8 | <1 | 0 |
 
-1. a Grade based on criteria from the WHO.
-2. b Regardless of causality.
-3. c N=699-974; all patients with laboratory or non-laboratory data.
+- a Grade based on criteria from the WHO.
+- b Regardless of causality.
+- c N=699-974; all patients with laboratory or non-laboratory data.
 
 Additional adverse reactions include the following:
 
@@ -101,7 +101,7 @@ Table 9: Adverse Reactions Occurring in >10% of Patients Receiving Gemcitabine w
 | Diarrhea | 25 | 3 | 0 | 14 | <1 | 0 |
 | Stomatitis/Pharyngitis | 22 | <1 | 0 | 13 | 0 | 0 |
 
-a Grade based on National Cancer Institute CTC Version 2.0.
+a Grade based on National Cancer Institute Common Toxicity Criteria (CTC)Version 2.0.
 
 b Regardless of causality.
 
@@ -210,7 +210,7 @@ Table 13: Selected Adverse Reactions Occurring in ≥10% of Patients Receiving G
 | Hypotension | 12 | 1 | 0 | 7 | 1 | 0 |
 | Rash | 11 | 0 | 0 | 3 | 0 | 0 |
 
-a Grade based on National Cancer Institute Common Toxicity Criteria (CTC).
+a Grade based on National Cancer Institute CTC.
 
 b Non-laboratory events were graded only if assessed to be possibly drug-related.
 
@@ -289,7 +289,7 @@ Pain data were not collected.
 
 c N=67-69; all gemcitabine/cisplatin patients with laboratory or non-laboratory data
 
-d N=57-63; all Etoposide/cisplatin patients with laboratory or non-laboratory data
+d N=57-63; all etoposide/cisplatin patients with laboratory or non-laboratory data
 
 e Flu-like syndrome and edema were not graded.
 
@@ -320,7 +320,7 @@ b Regardless of causality.
 
 c N=67-69; all gemcitabine/cisplatin patients with laboratory or non-laboratory data.
 
-d N=57-63; all Etoposide/cisplatin patients with laboratory or non-laboratory data.
+d N=57-63; all etoposide/cisplatin patients with laboratory or non-laboratory data.
 
 e WHO grading scale not applicable to proportion of patients with transfusions.
 
@@ -329,7 +329,7 @@ e WHO grading scale not applicable to proportion of patients with transfusions.
 The following adverse reactions have been identified during postapproval use of gemcitabine.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Blood and lymphatic system: Thrombotic microangiopathy (TMA)
+Blood and Lymphatic System: Thrombotic microangiopathy (TMA)
 
 Cardiovascular: Congestive heart failure, myocardial infarction, arrhythmias, and supraventricular arrhythmias
 

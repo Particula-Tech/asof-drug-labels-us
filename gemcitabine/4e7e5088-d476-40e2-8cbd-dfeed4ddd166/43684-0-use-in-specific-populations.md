@@ -6,7 +6,7 @@ Risk Summary
 
 Based on animal data and its mechanism of action, INFUGEM can cause fetal harm when administered to a pregnant woman [see Clinical Pharmacology (12.1)].
 There are no available data on the use of gemcitabine in pregnant women.
-In animal reproduction studies, gemcitabine was teratogenic, embryotoxic, and fetotoxic in mice and rabbits (see Data).
+In animal reproductive studies, gemcitabine was teratogenic, embryotoxic, and fetotoxic in mice and rabbits (see Data).
 Advise pregnant women of the potential risk to a fetus [see Use in Special Populations (8.3)].
 
 In the U.S. general population, the estimated background risk of major birth defects and miscarriages in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively.
@@ -39,7 +39,7 @@ INFUGEM can cause fetal harm when administered to a pregnant woman [see Use in S
 
 Females
 
-Because of the potential for genotoxicity, advise females of reproductive potential to use effective contraception during treatment with INFUGEM and for 6 months after the final dose of INFUGEM [see Use in Specific Populations (8.1)].
+Because of the potential for genotoxicity, advise females of reproductive potential to use effective contraception during treatment with INFUGEM and for 6 months after the final dose [see Use in Specific Populations (8.1)].
 
 Males
 
@@ -67,7 +67,7 @@ No meaningful clinical activity was observed in this trial.
 In clinical studies which enrolled 979 patients with various malignancies who received single agent gemcitabine, no overall differences in safety were observed between patients aged 65 and older and younger patients, with the exception of a higher rate of Grade 3-4 thrombocytopenia in older patients as compared to younger patients.
 In a randomized trial in women with ovarian cancer (Study 1), 175 women received gemcitabine with carboplatin, of which 29% were age 65 years or older.
 Similar effectiveness was observed between older and younger women.
-There was significantly higher Grade 3-4 neutropenia in women 65 years of age or older [see Dosage and Administration (2.1-2.4)].
+There was significantly higher Grade 3-4 neutropenia in women 65 years of age or older [see Dosage and Administration (2.1)].
 
 Gemcitabine clearance is affected by age; however, there are no recommended dose adjustments based on patients’ age [see Clinical Pharmacology (12.3)].
 
