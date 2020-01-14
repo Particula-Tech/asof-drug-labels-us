@@ -1,14 +1,14 @@
 # DESCRIPTION
 
-Mannitol intravenous (Mannitol Injection, USP) is a sterile, nonpyrogenic solution of mannitol in water for injection available in a concentration of 20% in flexible plastic containers for administration by intravenous infusion only.
+Mannitol Intravenous (Mannitol Injection, USP) is a sterile, nonpyrogenic solution of mannitol in water for injection available in a concentration of 20% in flexible plastic containers.
 
 The content and characteristics of the available concentration is as follows:
 
-| Conc. (%) | g/100 mL | mOsmol/liter (calc.) | pHConcentrations up to 20% may contain sodium bicarbonate for pH adjustment. |
+| Conc. (%) | g/100 mL | mOsmol/liter (calc.) | pHThe 20% concentration may contain sodium bicarbonate for pH adjustment. |
 | --- | --- | --- | --- |
 | 20 | 20 | 1098 | 6.3 (4.5 to 7.0) |
 
-The solutions contain no bacteriostat, antimicrobial agent or added buffer (except for pH adjustment) and each is intended only as a single-dose injection.
+The solution contains no bacteriostat, antimicrobial agent or added buffer (except for pH adjustment) and is intended only as a single-dose injection.
 When smaller doses are required the unused portion should be discarded.
 
 Mannitol Injection, USP is a parenteral obligatory osmotic diuretic.
@@ -16,7 +16,7 @@ Mannitol Injection, USP is a parenteral obligatory osmotic diuretic.
 Mannitol, USP is chemically designated D-mannitol (C6H14O6), a white crystalline powder or free-flowing granules freely soluble in water.
 It has the following structural formula:
 
-Water for Injection, USP is chemically designated H20.
+Water for Injection, USP is chemically designated H2O.
 
 The flexible plastic container is fabricated from a specially formulated polyvinylchloride.
 Water can permeate from inside the container into the overwrap, but not in amounts sufficient to affect the solution significantly.
