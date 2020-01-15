@@ -56,6 +56,8 @@ Tell your healthcare provider right away if you become pregnant while taking asp
 Aspirin and dipyridamole can pass into your milk.
 Talk to your healthcare provider about the best way to feed your baby if you take aspirin and extended-release dipyridamole capsules.
 
+Tell your doctor you are taking aspirin and extended-release dipyridamole capsules if you are scheduled to have a stress test for your heart.
+
 Tell your doctor about all the medicines you take, including prescription and non-prescription medicines, vitamins and herbal supplements.
 Aspirin and extended-release dipyridamole capsules and other medicines may affect each other causing side effects.
 Aspirin and extended-release dipyridamole capsules may affect the way other medicines work, and other medicines may affect how aspirin and extended-release dipyridamole capsules works.
@@ -239,4 +241,4 @@ Princeton, NJ 08540
 
 Made in India
 
-Issued: 1118
+Revised: 1219

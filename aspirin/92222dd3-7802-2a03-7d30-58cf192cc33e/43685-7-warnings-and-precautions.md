@@ -7,7 +7,7 @@ Risk factors for bleeding include the use of other drugs that increase the risk 
 
 Intracranial Hemorrhage
 
-In European Stroke Prevention Study-2 (ESPS2), the annualized event rate for intracranial hemorrhage was 0.39%/year in the aspirin and extended-release dipyridamole capsules group, 0.26%/year in the extended-release dipyridamole (ER-DP) group, 0.24%/year in the aspirin (ASA) group and 0.29%/year in the placebo groups.
+In European Stroke Prevention Study-2 (ESPS2), the annualized event rate for intracranial hemorrhage was 0.39%/year in the aspirin and extended-release dipyridamole capsules group, 0.26%/year in the extended-release dipyridamole (ER-DP) group, 0.24%/year in the aspirin (ASA) group, and 0.29%/year in the placebo groups.
 
 Gastrointestinal (GI) Side Effects
 
@@ -44,6 +44,12 @@ For stroke or TIA patients for whom aspirin is indicated to prevent recurrent my
 
 Dipyridamole produces peripheral vasodilation, which can exacerbate pre-existing hypotension.
 
-## 5.6 General
+## 5.6 Stress Testing with Intravenous Dipyridamole and Other Adenosinergic Agents
+
+Clinical experience suggests that patients being treated with aspirin and extended-release dipyridamole who also require pharmacological stress testing with intravenous dipyridamole or other adenosinergic agents (e.g. adenosine, regadenoson) should interrupt aspirin and extended-release dipyridamole capsules for 24 to 48 hours prior to stress testing [see Drug Interactions (7.1)].
+
+Intake of aspirin and extended-release dipyridamole capsules 24 to 48 hours prior to stress testing with intravenous dipyridamole or other adrenosinergic agents may increase the risk for cardiovascular side effects of these agents and impair the sensitivity of the test.
+
+## 5.7 General
 
 Aspirin and extended-release dipyridamole capsules are not interchangeable with the individual components of aspirin and dipyridamole tablets.

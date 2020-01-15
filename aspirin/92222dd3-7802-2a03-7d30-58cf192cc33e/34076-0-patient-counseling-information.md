@@ -18,6 +18,10 @@ Advise patients to notify their healthcare provider if they become pregnant or i
 Some patients may experience headaches upon treatment initiation; these are usually transient.
 In case of intolerable headaches, tell patients to contact their physician.
 
+Stress Test
+
+Instruct patients who are scheduled to undergo a pharmacologic stress test to tell their healthcare provider that they are taking aspirin and extended-release dipyridamole capsules.
+
 • Dosage and Administration
 
 Tell patients that aspirin and extended-release dipyridamole capsules should be swallowed whole, and not chewed or crushed.
@@ -38,4 +42,4 @@ Princeton, NJ 08540
 
 Made in India
 
-Issued: 1118
+Revised: 1219

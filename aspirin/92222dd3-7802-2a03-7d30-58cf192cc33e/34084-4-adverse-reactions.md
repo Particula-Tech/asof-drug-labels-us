@@ -2,11 +2,11 @@
 
 The following adverse reactions are discussed elsewhere in the labeling:
 
-• Hypersensitivity [see Contraindications (4.1)].
+• Hypersensitivity [see Contraindications (4.1)]
 
-• Allergy [see Contraindications (4.2)].
+• Allergy [see Contraindications (4.2)]
 
-• Risk of Bleeding [see Warnings and Precautions (5.1)].
+• Risk of Bleeding [see Warnings and Precautions (5.1)]
 
 ## 6.1 Clinical Trials Experience
 
