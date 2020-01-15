@@ -17,7 +17,7 @@ Each tablet contains: Dextroamphetamine Sulfate USP.......
 
 PHARMACIST: Dispense the Medication Guide provided separately to each patient.
 
-MallinckrodtTM
+Mallinckrodt™
 
 L00D14
 
@@ -42,7 +42,7 @@ Each tablet contains: Dextroamphetamine Sulfate USP.......
 
 PHARMACIST: Dispense the Medication Guide provided separately to each patient.
 
-MallinckrodtTM
+Mallinckrodt™
 
 L00D17
 
