@@ -1,0 +1,9 @@
+| Instructions for UseEMEND® (EE-mend) (aprepitant) for oral suspension Read the Patient Information and Instructions for Use for EMEND for oral suspension before you take or before you give a dose to your childTake by mouth only |  |  |
+| --- | --- | --- |
+| How to give a dose of EMEND for oral suspension |  |  |
+| The healthcare provider has prepared the dose of EMEND for you or your child. |  |  |
+| 1.You will get EMEND in an oral dosing dispenser |  | 2.Keep the oral dosing dispenser in the refrigerator until you give EMEND to yourself or your child |
+|  |  | Store EMEND in the refrigerator between 36°F to 46°F (2°C to 8°C). Use EMEND within 2 days of getting the medicine from the healthcare provider.When ready to use, EMEND can be kept at room temperature, between 68°F to 77°F (20°C to 25°C) for up to 3 hours.Keep EMEND and all medicines out of the reach of children. |
+| 3.Give EMEND |  | 4.Throw away the oral dosing dispenser and cap |
+| The color of the medicine in the oral dosing dispenser may be different shades of pink (light pink to dark pink). This is normal and the medicine is okay to use. Take the cap off the oral dosing dispenser.Place the tip of the oral dosing dispenser in your mouth or in your child's mouth along the inner cheek on either the right or left side.Slowly push the plunger all the way down to give all of the medicine in the oral dosing dispenser. Call the healthcare provider if you or your child is not able to take the prescribed dose. |  |  |
+|  |  | For more information go to www.emend.com or call 1-800-622-4477. This Instructions for Use has been approved by the U.S. Food and Drug Administration. Distributed by: Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC., Whitehouse Station, NJ 08889, USA For patent information: www.merck.com/product/patent/home.html Copyright © 2015 Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. All rights reserved. Issued: 12/2015 usifu-mk0869-mf-1512r000 |
