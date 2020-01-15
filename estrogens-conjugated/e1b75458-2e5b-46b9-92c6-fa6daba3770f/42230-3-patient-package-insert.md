@@ -50,14 +50,10 @@ Do not take DUAVEE if you:
   If you have or have had cancer, talk with your healthcare provider about whether you should use DUAVEE.
 - currently have or have had liver problems
 - have been diagnosed with a bleeding disorder
-- think you may be pregnant.
+- are pregnant.
   DUAVEE is not for pregnant women.
   If you think you may be pregnant, you should have a pregnancy test and know the results.
   Do not take DUAVEE if the test is positive and talk to your healthcare provider.
-- are breastfeeding or plan to breastfeed.
-  It is not known if DUAVEE passes into your breast milk.
-  You and your healthcare provider should decide if you will take DUAVEE or breastfeed.
-  You should not do both.
 
 What should I tell my healthcare provider before taking DUAVEE?
 
@@ -196,4 +192,4 @@ This Patient Information has been approved by the U.S. Food and Drug Administrat
 This product's label may have been updated.
 For current full prescribing information, please visit www.pfizer.com.
 
-LAB-0583-2.0 Revised December 2018
+LAB-0583-3.0 Revised December 2019

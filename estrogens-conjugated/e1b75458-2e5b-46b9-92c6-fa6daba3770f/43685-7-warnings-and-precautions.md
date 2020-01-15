@@ -145,6 +145,7 @@ Estrogens may cause an exacerbation of asthma, diabetes mellitus, epilepsy, migr
 
 There is no indication for premenopausal use of DUAVEE.
 The efficacy and safety of DUAVEE in premenopausal women have not been established, and its use is not recommended.
+Additionally, there is concern regarding inadvertent drug exposure in pregnancy in women of reproductive potential who become pregnant, due to risk of fetal harm [see Use in Specific Populations (8.1)].
 
 ## 5.16 Laboratory Tests
 

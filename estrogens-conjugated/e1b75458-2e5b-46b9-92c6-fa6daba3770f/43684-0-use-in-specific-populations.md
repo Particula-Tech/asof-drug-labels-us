@@ -2,22 +2,54 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Category X [see Contraindications (4)]
+Risk Summary
 
-DUAVEE must not be used in women who are or may become pregnant.
+DUAVEE is contraindicated for use in pregnant women and is not indicated for use in females of reproductive potential [see Contraindications (4), Warnings and Precautions (5.15)].
 
-No studies were performed on animals to evaluate the effects on reproduction with conjugated estrogens/bazedoxifene.
+Conjugated Estrogens (CE)
 
-Administration of bazedoxifene to rats at maternally toxic dosages ≥ 1 mg/kg/day (≥ 0.3 times the human area under the curve (AUC) at the 20 mg dose) resulted in reduced numbers of live fetuses and/or reductions in fetal body weights.
+There are no data with the use of conjugated estrogens in pregnant women; however, epidemiologic studies and meta-analyses have not found an increased risk of genital and non-genital birth defects (including cardiac anomalies and limb-reduction defects) following exposure to combined hormonal contraceptives before conception or during early pregnancy.
+
+Bazedoxifene
+
+There are no available data on bazedoxifene use in pregnant women to inform a drug associated risk of adverse developmental outcomes.
+Animal studies have shown that oral bazedoxifene administered during the period of organogenesis to pregnant rats or rabbits at 0.3 and 2 times, respectively, the exposure at the maximum recommended dose, can cause fetal harm [see Data].
+Based on mechanism of action, bazedoxifene may block the important functions that estrogen has during all stages of pregnancy [see Clinical Pharmacology (12.1)].
+
+Data
+
+Animal data
+
+Bazedoxifene
+
+Administration of bazedoxifene to rats at maternally toxic dosages ≥1 mg/kg/day (≥ 0.3 times the human area under the curve (AUC) at the 20 mg dose) resulted in reduced numbers of live fetuses and/or reductions in fetal body weights.
 No fetal developmental anomalies were observed.
-In studies conducted with pregnant rabbits treated with bazedoxifene, abortion and an increased incidence of heart (ventricular septal defect) and skeletal system (ossification delays, misshapen or misaligned bones, primarily of the spine and skull) anomalies in the fetuses were present at maternally toxic dosages of ≥ 0.5 mg/kg/day (2 times the human AUC at the 20 mg dose).
+In studies conducted with pregnant rabbits treated with bazedoxifene, abortion and an increased incidence of heart (ventricular septal defect) and skeletal system (ossification delays, misshapen or misaligned bones, primarily of the spine and skull) anomalies in the fetuses were present at maternally toxic dosages of ≥ 0.5 mg/kg/day (≥ 2 times the human AUC at the 20 mg dose).
 
-## 8.3 Nursing Mothers
+## 8.2 Lactation
 
-DUAVEE should not be used by lactating women [see Contraindications (4)].
-It is not known whether this drug is excreted in human milk.
-Detectable amounts of estrogens have been identified in the milk of mothers receiving conjugated estrogens.
-Estrogen administration to nursing mothers has been shown to decrease the quantity and quality of the milk.
+Risk Summary
+
+DUAVEE is not indicated for use in females of reproductive potential [see Warnings and Precautions (5.15)].
+
+Conjugated Estrogens
+
+Estrogens are present in human milk and can reduce milk production in breast-feeding females.
+This reduction can occur at any time but is less likely to occur once breast-feeding is well-established.
+
+Bazedoxifene
+
+There are no data on the presence of bazedoxifene in either human or animal breast milk, the effect on the breastfed infant, or the effects on milk production.
+Based on mechanism of action, bazedoxifene may block the important functions that estrogen has in mammary tissue during lactation [see Clinical Pharmacology (12.1)].
+
+## 8.3 Females and Males of Reproductive Potential
+
+Infertility
+
+Bazedoxifene
+
+Based on animal data, bazedoxifene administration may adversely affect female fertility.
+However, clinical fertility studies with bazedoxifene have not been conducted [see Nonclinical Toxicology (13.1)].
 
 ## 8.4 Pediatric Use
 

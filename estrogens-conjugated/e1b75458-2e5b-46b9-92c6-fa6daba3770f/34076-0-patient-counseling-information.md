@@ -30,6 +30,3 @@ Inform postmenopausal women of possible less serious but common adverse reaction
 ## 17.6 Calcium and Vitamin D Intake
 
 Advise patients to add supplemental calcium and/or vitamin D to the diet if daily intake is inadequate.
-
-This product's label may have been updated.
-For current full prescribing information, please visit www.pfizer.com.
