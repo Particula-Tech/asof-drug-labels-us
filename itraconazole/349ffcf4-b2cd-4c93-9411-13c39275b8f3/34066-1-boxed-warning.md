@@ -14,4 +14,4 @@ In addition, coadministration with colchicine, fesoterodine, and solifenacin is 
 See PRECAUTIONS: Drug Interactions Section for specific examples.
 Coadministration with itraconazole can cause elevated plasma concentrations of these drugs and may increase or prolong both the pharmacologic effects and/or adverse reactions to these drugs.
 For example, increased plasma concentrations of some of these drugs can lead to QT prolongation and ventricular tachyarrhythmias including occurrences of torsades de pointes, a potentially fatal arrhythmia.
-See CONTRAINDICATIONS and WARNINGS Sections, and PRECAUTIONS: Drug Interactions Section for specific examples.
+See CONTRAINDICATIONS and WARNINGSSections, and PRECAUTIONS: Drug Interactions Section for specific examples.

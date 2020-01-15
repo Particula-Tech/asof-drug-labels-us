@@ -158,4 +158,4 @@ Ascend Laboratories, LLC
 
 Parsippany, NJ 07054
 
-Revised: June, 2019 PT 2269-01
+Revised: November, 2019

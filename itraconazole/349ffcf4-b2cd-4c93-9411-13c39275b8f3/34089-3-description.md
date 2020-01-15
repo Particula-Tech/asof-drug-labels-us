@@ -16,3 +16,4 @@ Freely soluble in methylene chloride,sparingly soluble in tetrahydrofuran,very s
 
 Itraconazole Capsules contain 100 mg of itraconazole coated on sugar spheres (composed of sucrose, maize starch and purified water).
 Inactive ingredients are hard gelatin capsule, hypromellose, poloxamer 188,ethanol absolute,methylene chloride,polyethylene glycol 20000,talc,colloidal silicon dioxide,SLS,titanium dioxide,FD&C blue 1,FD&C red 40,FD&C red 3 and white ink (containing: shellac, dehydrated alcohol, isopropyl alcohol, butyl alcohol, propylene glycol, strong ammonia solution, titanium dioxide and potassium hydroxide).
+FDA approved dissolution test specifications differ from USP

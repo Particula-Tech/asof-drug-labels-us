@@ -16,7 +16,7 @@ Concomitant administration of these drugs with Itraconazole Capsules is contrain
 
 Cardiac Disease
 
-Itraconazole Capsules should not be administered for the treatment of onychomycos is in patients with evidence of ventricular dysfunction such as congestive heart failure (CHF) or a history of CHF.
+Itraconazole Capsules should not be administered for the treatment of onychomycosis in patients with evidence of ventricular dysfunction such as congestive heart failure (CHF) or a history of CHF.
 Itraconazole Capsules should not be used for other indications in patients with evidence of ventricular dysfunction unless the benefit clearly outweighs the risk.
 
 For patients with risk factors for congestive heart failure, physicians should carefully review the risks and benefits of Itraconazole Capsules therapy.
