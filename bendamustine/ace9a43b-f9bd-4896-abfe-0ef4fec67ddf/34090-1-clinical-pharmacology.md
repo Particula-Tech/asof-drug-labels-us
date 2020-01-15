@@ -40,7 +40,7 @@ Bendamustine clearance in humans is approximately 700 mL/min.
 Metabolism
 
 Bendamustine is extensively metabolized via hydrolytic, oxidative, and conjugative pathways.
-Bendamustine is primarily metabolized via hydrolysis to monohyrdroxy (HP1) and dihydroxybendamustine (HP2) metabolites with low cytotoxic activity in vitro.
+Bendamustine is primarily metabolized via hydrolysis to monohydroxy (HP1) and dihydroxybendamustine (HP2) metabolites with low cytotoxic activity in vitro.
 Two active minor metabolites, M3 and M4, are primarily formed via CYP1A2 in vitro.
 M3 and M4 concentrations of these metabolites in plasma are 1/10th and 1/100th that of the parent compound, respectively.
 
