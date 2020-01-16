@@ -2,9 +2,10 @@
 
 NDC 0187-3012-20 Rx Only
 
-Mestinon® (pyridostigmine bromide) Oral Solution, USP
+Mestinon® (pyridostigmine bromide).
+Oral Solution, USP
 
-5 mL = 60 mg 1 Pint (473 mL)
+1 Pint (473 mL) 5 mL = 60 mg
 
 5 mL (1 teaspoonful) contains 60 mg pyridostigmine bromide.
 
@@ -28,13 +29,13 @@ VALEANT Pharmaceuticals North America LLC
 
 # PRINCIPAL DISPLAY PANEL - 180 mg Bottle Label
 
-NDC 0187-3013-30 Rx OnlyPull here
+NDC 0187-3013-30 Rx Only Pull here
 
 Mestinon® (pyridostigmine bromide) TIMESPAN®
 
 180 mg
 
-Each tablet contains180 mg pyridostigmine bromide n a specially constructed tablet for sustained release
+Each tablet contains180 mg pyridostigmine bromide in a specially constructed tablet for sustained release
 
 30 Tablets
 

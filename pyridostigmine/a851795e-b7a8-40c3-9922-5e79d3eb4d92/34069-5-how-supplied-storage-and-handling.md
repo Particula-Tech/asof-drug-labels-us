@@ -1,11 +1,11 @@
-# HOW SUPPLIED
+# HOW SUPPLIED:
 
 Oral Solution, 60 mg pyridostigmine bromide per teaspoonful (5 mL) and 5% alcohol - bottles of 16 fluid ounces (1 pint) (NDC 0187-3012-20).
 
 Tablets, 60 mg pyridostigmine bromide each - bottles of 100 (NDC 0187-3010-30).
 
-Timespan Tablets, 180 mg pyridostigmine bromide each - bottles of 30 (NDC 0187-3013-30).
-Note: Because of the hygroscopic nature of the Timespan Tablets, mottling may occur.
+TIMESPAN tablets, 180 mg pyridostigmine bromide each - bottles of 30 (NDC 0187-3013-30).
+Note: Because of the hygroscopic nature of the TIMESPAN tablets, mottling may occur.
 This does not affect their efficacy.
 
-Store Mestinon (pyridostigmine bromide) Oral Solution, USP, Tablets, and Timespan Tablets at 25°C (77°F); excursions permitted to 15°-30°C (59°-86°F).
+Store MESTINON (pyridostigmine bromide) Oral Solution, USP, Tablets, and TIMESPAN tablets at 25°C (77°F); excursions permitted to 15°-30°C (59°-86°F).
