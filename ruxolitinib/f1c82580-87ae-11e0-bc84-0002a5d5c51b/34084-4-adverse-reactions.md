@@ -121,11 +121,11 @@ Weight gain, hypertension, and urinary tract infections
 
 Clinically relevant laboratory abnormalities are shown in Table 14.
 
-Table 14: Polycythemia Vera: Selected Laboratory Abnormalities in the Open-Label, Active-controlled Study up to Week 32 of Randomized TreatmentPresented values are worst Grade values regardless of baseline
+Table 14: Polycythemia Vera: Selected Laboratory Abnormalities in the Open-Label, Active-controlled Study up to Week 32 of Randomized TreatmentNational Cancer Institute Common Terminology Criteria for Adverse Events, version 3.0
 
 |  | Jakafi (N=110) |  |  | Best Available Therapy (N=111) |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| Laboratory Parameter | All GradesNational Cancer Institute Common Terminology Criteria for Adverse Events, version 3.0 (%) | Grade 3 (%) | Grade 4 (%) | All Grades (%) | Grade 3 (%) | Grade 4 (%) |
+| Laboratory Parameter | All Gradesincludes dizziness and vertigo (%) | Grade 3 (%) | Grade 4 (%) | All Grades (%) | Grade 3 (%) | Grade 4 (%) |
 | Hematology |  |  |  |  |  |  |
 | Anemia | 72 | <1 | <1 | 58 | 0 | 0 |
 | Thrombocytopenia | 27 | 5 | <1 | 24 | 3 | <1 |
@@ -172,7 +172,7 @@ Table 16: Acute Graft Versus Host Disease: Selected Laboratory Abnormalities Wor
 |  | Jakafi (N=71) |  |
 | --- | --- | --- |
 |  | Worst grade during treatment |  |
-| Laboratory Parameter | All GradesNational Cancer Institute Common Terminology Criteria for Adverse Events, version 4.03 NA = Not applicable (%) | Grade 3-4 (%) |
+| Laboratory Parameter | All Grades* (%) | Grade 3-4 (%) |
 | Hematology |  |  |
 | Anemia | 75 | 45 |
 | Thrombocytopenia | 75 | 61 |
