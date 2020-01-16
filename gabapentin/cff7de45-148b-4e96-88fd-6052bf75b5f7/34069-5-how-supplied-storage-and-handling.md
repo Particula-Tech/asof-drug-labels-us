@@ -31,7 +31,8 @@ Gabapentin capsules, tablets, and oral solution are supplied as follows:
 250 mg per 5 mL oral solution:
 
 - Clear colorless to slightly yellow solution; each 5 mL of oral solution contains 250 mg of gabapentin; available in:
-- Bottles containing 470 mL: NDC 59762-5025-1
+- Glass bottles containing 470 mL: NDC 59762-5025-1
+- Bottles containing 470 mL: NDC 59762-5050-1
 
 Store gabapentin tablets and capsules at 25°C (77°F); excursions permitted between 15°C to 30°C (59°F to 86°F) [see USP Controlled Room Temperature].
 
