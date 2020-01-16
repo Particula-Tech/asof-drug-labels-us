@@ -1,17 +1,9 @@
-# WARNINGS:
+# 5WARNINGS AND PRECAUTIONS
 
-Not for Injection.
-Topical Use Only.
-Prolonged use of a topical ocular anesthetic is not recommended.
-It may produce permanent corneal opacification with accompanying visual loss.
-Avoid contamination-do not touch tip of sterile dropper used to dispense solution to any surface.
-Replace container closure immediately after using.
+## 5.1 Corneal Toxicity
 
-# PRECAUTIONS:
+Prolonged use or abuse may lead to corneal epithelial toxicity which may manifest as epithelial defects and progress to permanent corneal opacification with accompanying visual loss.
 
-This product should be used cautiously and sparingly in patients with known allergies, cardiac disease, or hyperthyroidism.
-The long-term toxicity is unknown; prolonged use may possibly delay wound healing.
-Although exceedingly rare with ophthalmic application of local anesthetics, it should be borne in mind that systemic toxicity manifested by central nervous systems stimulation followed by depression may occur.
-Protection of the eye from irritation, chemicals, foreign bodies and rubbing during the period of anesthesia is very important.
-Tonometers soaked in sterilizing or detergent solutions should be thoroughly rinsed with sterile distilled water prior to use.
-Patients should be advised to avoid touching the eye until the anesthesia has worn off.
+## 5.2 Corneal Injury Due to Insensitivity
+
+Patient should not touch the eye for approximately 20 minutes after using this anesthetic as accidental injuries can occur due to insensitivity of the eye.

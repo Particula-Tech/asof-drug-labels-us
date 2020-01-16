@@ -1,15 +1,26 @@
-# USE IN SPECIFIC POPULATIONS
+# 8USE IN SPECIFIC POPULATIONS
 
-## Pregnancy: Pregnancy Category C.
+## 8.1 Pregnancy
 
-Animal reproductive studies have not been conducted with Fluorescein Sodium and Benoxinate Hydrochloride Ophthalmic Solution USP, 0.25%/0.4%.
-It is also not known whether Fluorescein Sodium and Benoxinate Hydrochloride Ophthalmic Solution USP, 0.25%/0.4% can cause fetal harm when administered to a pregnant woman or can affect reproduction capacity.
-Fluorescein Sodium and Benoxinate Hydrochloride Ophthalmic Solution USP, 0.25%/0.4% should be given to a pregnant woman only if clearly needed.
+Risk Summary
 
-## Nursing Mothers:
+There are no available data on the use of Altafluor Benox in pregnant women to inform any drug associated risk.
+Adequate animal reproduction studies have not been conducted with fluorescein sodium and/or benoxinate hydrochloride.
+Altafluor Benox should be given to a pregnant woman only if clearly needed.
 
-Caution should be exercised when Fluorescein Sodium and Benoxinate Hydrochloride Ophthalmic Solution USP, 0.25%/0.4% is administered to a nursing woman.
+## 8.2 Lactation
 
-## Pediatric Use:
+Risk Summary
 
-Safety and effectiveness in pediatric patients have not been established.
+There are no data on the presence of fluorescein sodium or benoxinate hydrochloride in human milk after ocular administration of Altafluor Benox, the effects on the breastfed infant, or the effects on milk production.
+
+The developmental and health benefits of breastfeeding should be considered, along with the mother’s clinical need for Altafluor Benox and any potential adverse effects on the breastfed infant from Altafluor Benox.
+
+## 8.4 Pediatric Use
+
+The safety and effectiveness of Altafluor Benox have been established for pediatric patients.
+Use of Altafluor Benox is supported in pediatric patients by evidence from adequate and well controlled studies.
+
+## 8.5 Geriatric Use
+
+No overall differences in safety or effectiveness have been observed between elderly and younger patients.
