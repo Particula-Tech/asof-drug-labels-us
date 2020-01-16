@@ -13,5 +13,5 @@ Oxygen, IV fluids, vasopressors, and other supportive measures should be employe
 In the case of overdose, the primary management should be the re-establishment of adequate ventilation with mechanical assistance of respiration, if required.
 Naloxone may be of value for the management of buprenorphine overdose.
 Higher than normal doses and repeated administration may be necessary.
-The long duration of action of buprenorphine should be taken into consideration when determining the length of treatment and medical surveillance needed to reverse the effects of an overdose.
+The long duration of action of Buprenorphine Sublingual Tablets should be taken into consideration when determining the length of treatment and medical surveillance needed to reverse the effects of an overdose.
 Insufficient duration of monitoring may put patients at risk.

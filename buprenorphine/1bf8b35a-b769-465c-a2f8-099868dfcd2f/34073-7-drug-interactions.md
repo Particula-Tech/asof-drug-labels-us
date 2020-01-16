@@ -19,7 +19,7 @@ Clinically Significant Drug Interactions
 | Intervention: | If concomitant use is necessary, consider increasing the Buprenorphine Sublingual Tablets dosage until stable drug effects are achieved. Monitor for signs of opioid withdrawal. If a CYP3A4 inducer is discontinued, consider Buprenorphine Sublingual Tablets dosage reduction and monitor for signs of respiratory depression. |
 | Examples: | Rifampin, carbamazepine, phenytoin |
 | Antiretrovirals: Non-nucleoside reverse transcriptase inhibitors (NNRTIs) |  |
-| Clinical Impact: | Non-nucleoside reverse transcriptase inhibitors (NNRTIs) are metabolized principally by CYP3A4. Efavirenz, nevirapine, and etravirine are known CYP3A inducers, whereas delaviridine is a CYP3A inhibitor. Significant pharmacokinetic interactions between NNRTIs (e.g., efavirenz and delavirdine) and buprenorphine have been shown in clinical studies, but these pharmacokinetic interactions did not result in any significant pharmacodynamic effects. |
+| Clinical Impact: | Non-nucleoside reverse transcriptase inhibitors (NNRTIs) are metabolized principally by CYP3A4. Efavirenz, nevirapine, and etravirine are known CYP3A inducers, whereas delavirdine is a CYP3A inhibitor. Significant pharmacokinetic interactions between NNRTIs (e.g., efavirenz and delavirdine) and buprenorphine have been shown in clinical studies, but these pharmacokinetic interactions did not result in any significant pharmacodynamic effects. |
 | Intervention: | Patients who are on chronic Buprenorphine Sublingual Tablets treatment should have their dose monitored if NNRTIs are added to their treatment regimen. |
 | Examples: | efavirenz, nevirapine, etravirine, delavirdine |
 | Antiretrovirals: Protease inhibitors (PIs) |  |
@@ -45,4 +45,4 @@ Clinically Significant Drug Interactions
 | Intervention: | Monitor patients for signs of diminished diuresis and/or effects on blood pressure and increase the dosage of the diuretic as needed. |
 | Anticholinergic Drugs |  |
 | Clinical Impact: | The concomitant use of anticholinergic drugs may increase the risk of urinary retention and/or severe constipation, which may lead to paralytic ileus. |
-| Intervention: | Monitor patients for signs of urinary retention or reduced gastric motility when Buprenorphine Sublingual Tablets is used concomitantly with anticholinergic drugs. |
+| Intervention: | Monitor patients for signs of urinary retention or reduced gastric motility when Buprenorphine Sublingual Tablets are used concomitantly with anticholinergic drugs. |

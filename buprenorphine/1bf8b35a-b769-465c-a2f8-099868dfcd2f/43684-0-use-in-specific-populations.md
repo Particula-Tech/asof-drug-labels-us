@@ -22,20 +22,20 @@ In the U.S. general population, the estimated background risk of major birth def
 
 Clinical Considerations:
 
-Disease-associated Maternal and Embryo-fetal Risk: Untreated opioid addiction in pregnancy is associated with adverse obstetrical outcomes such as low birth weight, preterm birth, and fetal death.
+Disease-associated maternal and embryo-fetal risk: Untreated opioid addiction in pregnancy is associated with adverse obstetrical outcomes such as low birth weight, preterm birth, and fetal death.
 In addition, untreated opioid addiction often results in continued or relapsing illicit opioid use.
 
-Dose Adjustment during Pregnancy and the Postpartum Period: Dosage adjustments of buprenorphine may be required during pregnancy, even if the patient was maintained on a stable dose prior to pregnancy.
+Dose adjustment during pregnancy and the postpartum period: Dosage adjustments of buprenorphine may be required during pregnancy, even if the patient was maintained on a stable dose prior to pregnancy.
 Withdrawal signs and symptoms should be monitored closely and the dose adjusted as necessary.
 
-Fetal/Neonatal Adverse Reactions: Neonatal opioid withdrawal syndrome may occur in newborn infants of mothers who are receiving treatment with Buprenorphine Sublingual Tablets.
+Fetal/neonatal adverse reactions: Neonatal opioid withdrawal syndrome may occur in newborn infants of mothers who are receiving treatment with Buprenorphine Sublingual Tablets.
 
 Neonatal opioid withdrawal syndrome presents as irritability, hyperactivity and abnormal sleep pattern, high pitched cry, tremor, vomiting, diarrhea, and/or failure to gain weight.
 Signs of neonatal withdrawal usually occur in the first days after birth.
 The duration and severity of neonatal opioid withdrawal syndrome may vary.
 Observe newborns for signs of neonatal opioid withdrawal syndrome and manage accordingly [see Warnings and Precautions (5.5)].
 
-Labor or Delivery: Opioid-dependent women on buprenorphine maintenance therapy may require additional analgesia during labor.
+Labor or delivery: Opioid-dependent women on buprenorphine maintenance therapy may require additional analgesia during labor.
 
 Data:
 
@@ -52,7 +52,7 @@ A total of 28 of the 86 women in the buprenorphine group (33%) and 16 of the 89 
 Among women who remained in treatment until delivery, there was no difference between buprenorphine-treated and methadone-treated groups in the number of neonates requiring NOWS treatment or in the peak severity of NOWS.
 Buprenorphine-exposed neonates required less morphine (mean total dose, 1.1 mg vs. 10.4 mg), had shorter hospital stays (10.0 days vs. 17.5 days), and shorter duration of treatment for NOWS (4.1 days vs. 9.9 days) compared to the methadone-exposed group.
 
-There were no differences between groups in other primary outcomes (neonatal head circumference,) or secondary outcomes (weight and length at birth, preterm birth, gestational age at delivery, and 1- minute and 5-minute Apgar scores), or in the rates of maternal or neonatal adverse events.
+There were no differences between groups in other primary outcomes (neonatal head circumference,) or secondary outcomes (weight and length at birth, preterm birth, gestational age at delivery, and 1-minute and 5-minute Apgar scores), or in the rates of maternal or neonatal adverse events.
 The outcomes among mothers who discontinued treatment before delivery and may have relapsed to illicit opioid use are not known.
 Because of the imbalance in discontinuation rates between the buprenorphine and methadone groups, the study findings are difficult to interpret.
 
@@ -82,12 +82,12 @@ Delays in the occurrence of righting reflex and startle response were noted in r
 
 Risk Summary:
 
-Based on two studies in 13 lactating women maintained on buprenorphine treatment, buprenorphine and its metabolite norbuprenorphine are present in low levels in human milk and, and available data have not shown adverse reactions in breastfed infants.
-The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for buprenorphine sublingual tablets and any potential adverse effects on the breastfed child from the drug or from the underlying maternal condition.
+Based on two studies in 13 lactating women maintained on buprenorphine treatment, buprenorphine and its metabolite norbuprenorphine were present in low levels in human milk and available data have not shown adverse reactions in breastfed infants.
+The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for Buprenorphine Sublingual Tablets and any potential adverse effects on the breastfed child from the drug or from the underlying maternal condition.
 
 Clinical Considerations:
 
-Advise breastfeeding women taking Buprenorphine Sublingual Tablets to monitor the infant for increased drowsiness and breathing difficulties.
+Advise breastfeeding women taking buprenorphine products to monitor the infant for increased drowsiness and breathing difficulties.
 
 Data:
 
@@ -107,21 +107,21 @@ It is not known whether these effects on fertility are reversible [see Adverse R
 
 ## 8.4 Pediatric Use
 
-The safety and effectiveness of Buprenorphine Sublingual Tablets has not been established in pediatric patients.
+The safety and effectiveness of Buprenorphine Sublingual Tablets have not been established in pediatric patients.
 
 ## 8.5 Geriatric Use
 
-Clinical studies of Buprenorphine Sublingual Tablets, Buprenorphine and Naloxone Sublingual Film, or Buprenorphine and Naloxone Sublingual Tablets did not include sufficient numbers of subjects aged 65 and over to determine whether they responded differently than younger subjects.
+Clinical studies of buprenorphine sublingual tablets, buprenorphine and naloxone sublingual film, or buprenorphine and naloxone sublingual tablets did not include sufficient numbers of subjects aged 65 and over to determine whether they responded differently than younger subjects.
 Other reported clinical experience has not identified differences in responses between the elderly and younger patients.
 
 Due to possible decreased hepatic, renal, or cardiac function and of concomitant disease or other drug therapy in geriatric patients, the decision to prescribe Buprenorphine Sublingual Tablets should be made cautiously in individuals 65 years of age or older and these patients should be monitored for signs and symptoms of toxicity or overdose.
 
 ## 8.6 Hepatic Impairment
 
-The effect of hepatic impairment on the pharmacokinetics of buprenorphine were evaluated in a pharmacokinetic study.
+The effects of hepatic impairment on the pharmacokinetics of buprenorphine were evaluated in a pharmacokinetic study.
 Buprenorphine is extensively metabolized in the liver and buprenorphine plasma levels were found to be higher and the half-life was found to be longer in subjects with moderate and severe hepatic impairment, but not in subjects with mild hepatic impairment.
 
-For patients with severe hepatic impairment, a dose adjustment is recommended, and patients with moderate or severe hepatic impairment should be monitored for signs and symptoms of toxicity or overdose caused by increased levels of buprenorphine [see Dosage and Administration (2.7), Warnings and Precautions (5.12) and Clinical Pharmacology (12.3)].
+For patients with severe hepatic impairment, a dose adjustment is recommended, and patients with moderate or severe hepatic impairment should be monitored for signs and symptoms of toxicity or overdose caused by increased levels of buprenorphine [see Dosage and Administration (2.7), Warnings and Precautions (5.12), Clinical Pharmacology (12.3)].
 
 ## 8.7 Renal Impairment
 

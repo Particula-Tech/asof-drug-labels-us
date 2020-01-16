@@ -47,9 +47,10 @@ Absorption:
 
 Plasma levels of buprenorphine increased with the sublingual dose of Buprenorphine Sublingual Tablets (Table 4).
 There was wide inter-patient variability in the sublingual absorption of buprenorphine, but within subjects the variability was low.
-Both Cmax and AUC of buprenorphine increased in a linear fashion with the increase in dose (in the range of 4 to 16 mg), although the increase was not directly dose-proportional.
+Both Cmax and AUC of buprenorphine increased in a linear fashion with the increase in dose (in the range of 4 mg to 16 mg), although the increase was not directly dose-proportional.
 
-Table 4: Pharmacokinetic Parameters of Buprenorphine and Norbuprenorphine after the Sublingual Administration of Buprenorphine Sublingual Tablets
+Table 4.
+Pharmacokinetic Parameters of Buprenorphine and Norbuprenorphine after the sublingual administration of Buprenorphine Sublingual Tablets
 
 | Dose | Analyte | Mean SD | Cmax (ng/mL) | Tmax (h) | AUCinf (h•ng/mL) | t1/2 (h) |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -69,30 +70,31 @@ Elimination:
 Metabolism: Buprenorphine undergoes both N-dealkylation to norbuprenorphine and glucuronidation.
 The N-dealkylation pathway is mediated primarily by CYP3A4.
 Norbuprenorphine, the major metabolite, can further undergo glucuronidation.
-Norbuprenorphine has been found to bind opioid receptors in vitro; however, it has not known whether norbuprenorphine contributes to the overall effect of Buprenorphine Sublingual Tablets.
+Norbuprenorphine has been found to bind opioid receptors in vitro; however, it is not known whether norbuprenorphine contributes to the overall effect of Buprenorphine Sublingual Tablets.
 
 Excretion: A mass balance study of buprenorphine showed complete recovery of radiolabel in urine (30%) and feces (69%) collected up to 11 days after dosing.
 Almost all of the dose was accounted for in terms of buprenorphine, norbuprenorphine, and two unidentified buprenorphine metabolites.
 In urine, most of buprenorphine and norbuprenorphine was conjugated (buprenorphine, 1% free and 9.4% conjugated; norbuprenorphine, 2.7% free and 11% conjugated).
 In feces, almost all of the buprenorphine and norbuprenorphine were free (buprenorphine, 33% free and 5% conjugated; norbuprenorphine, 21% free and 2% conjugated).
 
-When Buprenorphine is administered sublingually, buprenorphine has a mean elimination half-life from plasma ranging from 31 to 35 hours.
+When Buprenorphine Sublingual Tablets are administered sublingually, buprenorphine has a mean elimination half-life from plasma ranging from 31 to 35 hours.
 
 Drug Interactions Studies:
 
 CYP3A4 Inhibitors and Inducers: Buprenorphine has been found to be a CYP2D6 and CYP3A4 inhibitor and its major metabolite, norbuprenorphine has been found to be a moderate CYP2D6 inhibitor in in vitro studies employing human liver microsomes.
-However, the relatively low plasma concentrations of buprenorphine and norbuprenorphine resulting from therapeutic doses are not expected to raise significant drug-drug interaction concerns [See Drug Interactions (7)].
+However, the relatively low plasma concentrations of buprenorphine and norbuprenorphine resulting from therapeutic doses are not expected to raise significant drug-drug interaction concerns [see Drug Interactions (7)].
 
 Specific Populations:
 
-Hepatic Impairment: In a pharmacokinetic study, the disposition of buprenorphine was determined after administering a 2.0/0.5 mg buprenorphine and naloxone sublingual tablet in subjects with varied degrees of hepatic impairment as indicated by Child-Pugh criteria.
+Hepatic Impairment: In a pharmacokinetic study, the disposition of buprenorphine was determined after administering a 2.0 mg/0.5 mg buprenorphine and naloxone sublingual tablet in subjects with varied degrees of hepatic impairment as indicated by Child-Pugh criteria.
 The disposition of buprenorphine in patients with hepatic impairment was compared to disposition in subjects with normal hepatic function.
 
 In subjects with mild hepatic impairment, the changes in mean Cmax, AUC0-last, and half-life values of buprenorphine were not clinically significant.
 
-For subjects with moderate and severe hepatic impairment, mean Cmax, AUC0-last, and half-life values of buprenorphine were increased (Table 5) [see Warnings and Precautions (5.12) and Use in Specific Populations (8.6)].
+For subjects with moderate and severe hepatic impairment, mean Cmax, AUC0-last, and half-life values of buprenorphine were increased (Table 5) [see Warnings and Precautions (5.12), Use in Specific Populations (8.6)].
 
-Table 5: Changes in Buprenorphine Pharmacokinetic Parameters in Subjects with Moderate and Severe Hepatic Impairment
+Table 5.
+Changes in Buprenorphine Pharmacokinetic Parameters in Subjects with Moderate and Severe Hepatic Impairment
 
 | Hepatic Impairment | PK Parameters | Increase in buprenorphine compared to healthy subjects |
 | --- | --- | --- |

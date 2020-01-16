@@ -8,5 +8,5 @@ It has the following chemical structure:
 
 - 
 
-Buprenorphine hydrochloride USP has the molecular formula C29H41NO4 • HCl and the molecular weight is 504.12.
-It is a white or almost white crystalline powder, sparingly soluble in water, freely soluble in methanol, soluble in alcohol and practically insoluble in cyclohexane.
+Buprenorphine hydrochloride USP has the molecular formula C29H41NO4 • HCl and the molecular weight is 504.10.
+It is a white or almost white crystalline powder, sparingly soluble in water, freely soluble in methanol, soluble in alcohol and practically insoluble in cyclohexane, acetone, and ethylacetate.

@@ -7,7 +7,7 @@ Prescribe and dispense buprenorphine with appropriate precautions to minimize ri
 Clinical monitoring appropriate to the patient’s level of stability is essential.
 Multiple refills should not be prescribed early in treatment or without appropriate patient follow-up visits [see Drug Abuse and Dependence (9.2)].
 
-## 5.2 Risk of Respiratory and Central Nervous System (CNS) Depression
+## 5.2 Risk of Life-Threatening Respiratory and Central Nervous System (CNS) Depression
 
 Buprenorphine has been associated with life-threatening respiratory depression and death.
 Many, but not all, post-marketing reports regarding coma and death involved misuse by self-injection or were associated with the concomitant use of benzodiazepines or other CNS depressants, including alcohol.
@@ -19,7 +19,7 @@ Opioids can cause sleep-related breathing disorders including central sleep apne
 Opioid use increases the risk of CSA in a dose-dependent fashion.
 In patients who present with CSA, consider decreasing the opioid dosage using best practices for opioid taper [see Dosage and Administration (2.9)].
 
-## 5.3 Managing Risks From Concomitant Use of Benzodiazepines or Other CNS Depressants
+## 5.3 Managing Risks from Concomitant Use of Benzodiazepines or Other CNS Depressants
 
 Concomitant use of buprenorphine and benzodiazepines or other CNS depressants increases the risk of adverse reactions including overdose and death.
 Medication-assisted treatment of opioid use disorder, however, should not be categorically denied to patients taking these drugs.
@@ -41,7 +41,7 @@ Before co-prescribing benzodiazepines, ensure that patients are appropriately di
 Ensure that other healthcare providers prescribing benzodiazepines or other CNS depressants are aware of the patient’s buprenorphine treatment and coordinate care to minimize the risks associated with concomitant use.
 
 In addition, take measures to confirm that patients are taking their medications as prescribed and are not diverting or supplementing with illicit drugs.
-Toxicology screening should test for prescribed and illicit benzodiazepines [see Drug Interactions (7)].
+Toxicology screening should test for prescribed and illicit benzodiazepines [see DrugInteractions (7)].
 
 ## 5.4 Unintentional Pediatric Exposure
 
@@ -71,8 +71,7 @@ The information available does not identify any particular opioids as being more
 ## 5.7 Risk of Opioid Withdrawal with Abrupt Discontinuation
 
 Buprenorphine is a partial agonist at the mu-opioid receptor and chronic administration produces physical dependence of the opioid type, characterized by withdrawal signs and symptoms upon abrupt discontinuation or rapid taper.
-The withdrawal syndrome is typically milder than seen with full agonists and may be delayed in onset.
-[see Drug Abuse and Dependence (9.3)].
+The withdrawal syndrome is typically milder than seen with full agonists and may be delayed in onset [see Drug Abuse and Dependence (9.3)].
 When discontinuing Buprenorphine Sublingual Tablets, gradually taper the dosage [see Dosage and Administration (2.9)].
 
 ## 5.8 Risk of Hepatitis, Hepatic Events
@@ -108,7 +107,7 @@ Buprenorphine Sublingual Tablets are not appropriate as an analgesic.
 
 In a pharmacokinetic study, buprenorphine plasma levels were found to be higher and the half-life was found to be longer in subjects with moderate and severe hepatic impairment, but not in subjects with mild hepatic impairment.
 
-For patients with severe hepatic impairment, a dose adjustment is recommended, and patients with moderate or severe hepatic impairment should be monitored for signs and symptoms of toxicity or overdose caused by increased levels of buprenorphine [see Dosage and Administration (2.7) and Use in Specific Populations (8.6)]
+For patients with severe hepatic impairment, a dose adjustment is recommended, and patients with moderate or severe hepatic impairment should be monitored for signs and symptoms of toxicity or overdose caused by increased levels of buprenorphine [see Dosage and Administration (2.7), Use in Specific Populations (8.6)].
 
 ## 5.13 Impairment of Ability to Drive or Operate Machinery
 

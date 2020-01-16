@@ -2,23 +2,23 @@
 
 Advise patients to read the FDA-approved patient labeling (Medication Guide).
 
-Storage and Disposal:
+## Storage and Disposal
 
 Because of the risks associated with accidental ingestion, misuse, and abuse, advise patients to store Buprenorphine Sublingual Tablets securely, out of sight and reach of children, and in a location not accessible by others, including visitors to the home [see Warnings and Precautions (5.1, 5.4), Abuse (9.2)].
 Inform patients that leaving Buprenorphine Sublingual Tablets unsecured can pose a deadly risk to others in the home.
 
 Advise patients and caregivers that when medicines are no longer needed, they should be disposed of promptly.
-Expired, unwanted, or unused Buprenorphine Sublingual Tablets should be disposed of by flushing the unused medication down the toilet if a drug take-back option is not readily available.
+Expired, unwanted, or unused Buprenorphine Sublingual Tablets should be disposed of by flushing the unused medication down the toilet, if a drug take-back option is not readily available.
 Inform patients that they can visit www.fda.gov/drugdisposal for a complete list of medicines recommended for disposal by flushing, as well as additional information on disposal of unused medicines.
 
-Safe Use:
+## Safe Use
 
 Before initiating treatment with Buprenorphine Sublingual Tablets, explain the points listed below to caregivers and patients.
 Instruct patients to read the Medication Guide each time Buprenorphine Sublingual Tablets are dispensed because new information may be available.
 
 - •Inform patients and caregivers that potentially fatal additive effects may occur if Buprenorphine Sublingual Tablets are used with benzodiazepines or other CNS depressants, including alcohol.
   Counsel patients that such medications should not be used concomitantly unless supervised by a health care provider [see Warnings and Precautions (5.2, 5.3), Drug Interactions (7)].
-- •Advise patients that Buprenorphine Sublingual Tablets contains an opioid that can be a target for people who abuse prescription medications or street drugs, to keep their tablets in a safe place, and to protect them from theft.
+- •Advise patients that Buprenorphine Sublingual Tablets contain an opioid that can be a target for people who abuse prescription medications or street drugs, to keep their tablets in a safe place, and to protect them from theft.
 - •Instruct patients to keep Buprenorphine Sublingual Tablets in a secure place, out of the sight and reach of children.
   Accidental or deliberate ingestion by a child may cause respiratory depression that can result in death.
   Advise patients to seek medical attention immediately if a child is exposed to Buprenorphine Sublingual Tablets.
@@ -51,6 +51,6 @@ Distr. by: Hikma Pharmaceuticals USA Inc.
 
 Eatontown, NJ 07724
 
-C50000231/03
+C50000231/04
 
-Revised September 2019
+Revised November 2019
