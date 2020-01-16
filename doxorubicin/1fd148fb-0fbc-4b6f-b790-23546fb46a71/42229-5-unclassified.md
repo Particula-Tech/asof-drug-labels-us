@@ -1,1 +1,4 @@
-LAB-0073-14.0
+This product's label may have been updated.
+For full prescribing information, please visit www.pfizer.com.
+
+LAB-0073-15.0
