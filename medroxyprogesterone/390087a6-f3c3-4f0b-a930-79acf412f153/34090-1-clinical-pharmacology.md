@@ -1,83 +1,87 @@
-# CLINICAL PHARMACOLOGY
+# 12 CLINICAL PHARMACOLOGY
 
-depo-subQ provera 104 (medroxyprogesterone acetate injectable suspension), when administered at 104 mg/0.65 mL to women every 3 months (12 to 14 weeks), inhibits the secretion of gonadotropins, which prevents follicular maturation and ovulation and causes endometrial thinning.
-These actions produce its contraceptive effect.
+## 12.1 Mechanism of Action
 
-Supression of serum estradiol concentrations and a possible direct action of depo-subQ provera 104 on the lesions of endometriosis are likely to be responsible for the therapeutic effect on endometriosis-associated pain.
+Depo-subQ provera 104 inhibits the secretion of gonadotropins, which primarily prevents follicular maturation and ovulation and causes thickening of cervical mucus.
+These actions contribute to its contraceptive effect.
 
-## Pharmacokinetics
+Suppression of serum estradiol concentrations is likely to be responsible for the therapeutic effect on endometriosis-associated pain.
 
-The pharmacokinetic parameters of medroxyprogesterone acetate (MPA) following a single SC injection of depo-subQ provera 104 are shown in Table 1 and Figure 1.
+## 12.2 Pharmacodynamics
 
-Table 1.
-Pharmacokinetic Parameters of MPA after a Single SC Injection of depo-subQ provera 104 in Healthy Women (n = 42)
+The following laboratory tests are expected to be affected by progestins including depo-subQ provera 104:
+
+- Plasma and urinary steroid levels are decreased (e.g., progesterone, estradiol, pregnanediol, testosterone, cortisol).
+- Gonadotropin levels are decreased.
+- Sex-hormone-binding-globulin concentrations are decreased.
+- Histology specimens may demonstrate changes consistent with progestin effects.
+
+The following laboratory tests may be affected by depo-subQ provera 104, however the clinical significance is unknown:
+
+- Protein-bound iodine and butanol extractable protein-bound iodine may increase.
+- T3-uptake values may decrease.
+- Coagulation test values for prothrombin (Factor II), and Factors VII, VIII, IX, and X may increase.
+- Sulfobromophthalein and other liver function test values may be increased.
+- The effects of medroxyprogesterone acetate on lipid metabolism are inconsistent.
+  Both increases and decreases in total cholesterol, triglycerides, low-density lipoprotein (LDL) cholesterol, and high-density lipoprotein (HDL) cholesterol have been observed in studies.
+
+## 12.3 Pharmacokinetics
+
+The pharmacokinetic parameters of MPA following a single subcutaneous injection of depo-subQ provera 104 in healthy women (n=42) are shown in Table 2 and Figure P.
+
+Table 2.
+Pharmacokinetic Parameters of MPA after a Single Subcutaneous Injection of depo-subQ provera 104 in Healthy Women
 
 |  | Cmax (ng/mL) | Tmax (day) | C91 (ng/mL) | AUC0–91 (ng∙day/mL) | AUC0–∞ (ng∙day/mL) | t½ (day) |
 | --- | --- | --- | --- | --- | --- | --- |
 | Mean | 1.56 | 8.8 | 0.402 | 66.98 | 92.84 | 43 |
 | Min | 0.53 | 2.0 | 0.133 | 20.63 | 31.36 | 16 |
 | Max | 3.08 | 80.0 | 0.733 | 139.79 | 162.29 | 114 |
-| Cmax = peak serum concentration; Tmax = time when Cmax is observed; C91 = serum concentration at 91 days; AUC0–91 and AUC0–∞ = area under the concentration-time curve over 91 days or infinity, respectively; t½ = terminal half-life |  |  |  |  |  |  |
+| Abbreviations: Cmax=peak serum concentration; Tmax=time when Cmax is observed; C91=serum concentration at 91 days; AUC0–91 and AUC0–∞=area under the concentration-time curve over 91 days or infinity, respectively; t½=terminal half-life. |  |  |  |  |  |  |
 
-### Absorption
+Following subcutaneous administration of single depo-subQ provera 104 doses ranging from 50 to 150 mg (0.48 and 1.4 times the recommended dose, respectively), the AUC and Cmin (Day 91) increased with higher doses, but there was considerable overlap across dose levels.
+Serum MPA concentrations at Day 91 increased in a dose proportional manner but Cmax did not appear to increase proportionally with increasing dose.
+The AUC data were suggestive of dose linearity.
 
-Following a single SC injection of depo-subQ provera 104, serum MPA concentrations reach ≥ 0.2 ng/mL within 24 hours.
-The mean Tmax is attained approximately 1 week after injection.
+Absorption
 
-In a study to assess accumulation and the achievement of steady state following multiple SC administrations, trough concentrations of MPA were determined after 6, 12, and 24 months, and in a subset of 8 subjects, bi-weekly concentrations were determined within one dosing interval in the second year of administration.
-The mean (SD) MPA trough concentrations were 0.67 (0.36) ng/mL (n=157), 0.79 (0.36) ng/mL (n=144), and 0.87 (0.33) ng/mL (n=106) at 6, 12 and 24 months, respectively.
+Following a single subcutaneous injection of depo-subQ provera 104 in healthy women, serum MPA concentrations reached ≥0.2 ng/mL within 24 hours.
+The mean Tmax was attained approximately 1 week after injection.
 
-### Effect of Injection Site
+In a study to assess accumulation and the achievement of steady state following multiple subcutaneous administrations, trough concentrations of MPA were determined after 6, 12, and 24 months, and in a subset of 8 subjects, bi-weekly concentrations were determined within one dosing interval in the second year of administration.
+The mean (SD) MPA trough concentrations were 0.67 (0.36) ng/mL (n=157), 0.79 (0.36) ng/mL (n=144), and 0.87 (0.33) ng/mL (n=106) at 6, 12, and 24 months, respectively.
 
-depo-subQ provera 104 was administered into the anterior thigh or the abdomen to evaluate effects on the MPA concentration-time profile.
-MPA trough concentrations (Cmin; Day 91) were similar for the two injection locations.
+Depo-subQ provera 104 was administered subcutaneously into the anterior thigh or the abdomen to evaluate effects of injection site location on the MPA concentration-time profile.
+MPA trough concentrations (Cmin; Day 91) were similar for the two injection site locations.
 
-### Distribution
+Distribution
 
 Plasma protein binding of MPA averages 86%.
 MPA binding occurs primarily to serum albumin.
 No binding of MPA occurs with sex-hormone-binding globulin (SHBG).
 
-### Metabolism
+Elimination
+
+Metabolism
 
 MPA is extensively metabolized in the liver by P450 enzymes.
 Its metabolism primarily involves ring A and/or side-chain reduction, loss of the acetyl group, hydroxylation in the 2-, 6-, and 21-positions or a combination of these positions, resulting in more than 10 metabolites.
 
-### Excretion
+Excretion
 
-Residual MPA concentrations at the end of the first dosing interval (12 to 14 weeks) of depo-subQ provera 104 are generally below 0.5 ng/mL, consistent with its apparent terminal half-life of ~40 days after SC administration.
-Most MPA metabolites are excreted in the urine as glucuronide conjugates with only small amounts excreted as sulfates.
+Residual MPA concentrations at the end of the first dosing interval (12 to 14 weeks) of depo-subQ provera 104 were generally below 0.5 ng/mL, consistent with its apparent terminal half-life of ~40 days after subcutaneous administration.
+Most MPA metabolites were excreted in the urine as glucuronide conjugates with only small amounts excreted as sulfates.
 
-### Linearity/Non-Linearity
+Specific Populations
 
-Following a single SC administration of doses ranging from 50 to 150 mg, the AUC and Cmin (Day 91) increased with higher doses of depo-subQ provera 104, but there was considerable overlap across dose levels.
-Serum MPA concentrations at Day 91 increased in a dose proportional manner but Cmax did not appear to increase proportionally with increasing dose.
-The AUC data were suggestive of dose linearity.
+Racial Groups
 
-## Special Populations
+There were no significant differences in the pharmacokinetics and/or pharmacodynamics of MPA after subcutaneous administration of depo-subQ provera 104 in African-American, Caucasian, and Asian women.
 
-### Race
-
-There were no significant differences in the pharmacokinetics and/or pharmacodynamics of MPA after SC administration of depo-subQ provera 104 in African-American and Caucasian women.
-The pharmacokinetics/pharmacodynamics of depo-subQ provera 104 were evaluated in Asian women in a separate study and also found to be similar to African-American and Caucasian women.
-
-### Effect of Body Weight
+Effect of Body Weight
 
 Although total MPA exposure was lower in obese women, no dosage adjustment of depo-subQ provera 104 is necessary based on body weight.
-The effect of body weight on the pharmacokinetics of MPA following a single dose was assessed in a subset of women (n = 42, body mass index [BMI] ranged from 18.2 to 46.7 kg/m2).
-The AUC0–91 values for MPA were 71.6, 67.9, and 46.3 ng∙day/mL in women with BMI categories of ≤ 28 kg/m2, >28–38 kg/m2, and >38 kg/m2, respectively.
-The mean MPA Cmax was 1.74 ng/mL in women with BMI ≤ 28 kg/m2, 1.53 ng/mL in women with BMI >28–38 kg/m2, and 1.02 ng/mL in women with BMI > 38 kg/m2, respectively.
+The effect of body weight on the pharmacokinetics of MPA following a single dose was assessed in a subset of women [n=42, body mass index (BMI) ranged from 18.2 to 46.7 kg/m2].
+The AUC0–91 values for MPA were 71.6, 67.9, and 46.3 ng∙day/mL in women with BMI categories of ≤28 kg/m2, >28–38 kg/m2, and >38 kg/m2, respectively.
+The mean MPA Cmax was 1.74 ng/mL in women with BMI ≤28 kg/m2, 1.53 ng/mL in women with BMI >28–38 kg/m2, and 1.02 ng/mL in women with BMI >38 kg/m2, respectively.
 The MPA trough (Cmin) concentrations had a tendency to be lower in women with BMI >38 kg/m2.
-
-### Hepatic Insufficiency
-
-No clinical studies have evaluated the effect of hepatic disease on the disposition of depo-subQ provera 104.
-However, steroid hormones may be poorly metabolized in patients with severe liver dysfunction (see CONTRAINDICATIONS).
-
-### Renal Insufficiency
-
-No clinical studies have evaluated the effect of renal disease on the pharmacokinetics of depo-subQ provera 104.
-
-## Drug-Drug Interactions
-
-See PRECAUTIONS, section 9

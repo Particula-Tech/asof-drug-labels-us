@@ -1,8 +1,4 @@
-Physician Information
+This product's labeling may have been updated.
+To see the current prescribing information, please visit www.pfizer.com.
 
-Rx only
-
-This product's label may have been updated.
-For current full prescribing information, please visit www.pfizer.com
-
-LAB-0295-14.0 December 2016
+LAB-0295-15.0

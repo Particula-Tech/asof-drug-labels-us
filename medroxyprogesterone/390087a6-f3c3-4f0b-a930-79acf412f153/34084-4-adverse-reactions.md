@@ -1,77 +1,117 @@
-# ADVERSE REACTIONS
+# 6 ADVERSE REACTIONS
 
-In five clinical studies of depo-subQ provera 104 involving 2,325 women (282 treated for up to 6 months, 1,780 treated for up to 1 year and 263 treated for up to 2 years), 9% of women discontinued treatment for adverse reactions.
-Among these 212 women, the most common reasons for discontinuation were:
+The following important adverse reactions are described in more detail in other sections of the prescribing information:
 
-- Uterine bleeding irregularities (35%, n=75)
-- Increased weight (18%, n=39)
-- Decreased libido (11%, n=23)
-- Acne (10%, n=21)
-- Injection site reactions (6%, n=12)
+- Loss of bone mineral density [see Warnings and Precautions (5.1)]
+- Arterial and venous thromboembolic disorders [see Warnings and Precautions (5.2)]
+- Anaphylaxis [see Warnings and Precautions (5.5)]
+- Fluid retention [see Warnings and Precautions (5.6)]
+- Delayed return of ovulation or fertility [see Warnings and Precautions (5.8)]
+- Depression [see Warnings and Precautions (5.9)]
+- Injection site reactions [see Warnings and Precautions (5.10)]
+- Bleeding irregularities [see Warnings and Precautions (5.11)]
 
-Adverse reactions reported by 5% or more of all women in these clinical trials included:
+## 6.1 Clinical Trials Experience
 
-- Headache (9%)
-- Intermenstrual bleeding (7%)
-- Increased weight (6%)
-- Amenorrhea (6%)
-- Injection site reactions (5%)
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-Adverse reactions reported by 1% to <5% of all women in these clinical trials included:
+The data described below reflect exposure to depo-subQ provera 104 in five clinical trials involving 2325 women including 2043 women who received treatment for contraception (1780 treated up to 1 year and 263 treated for up to 2 years) and 282 women for endometriosis for up to 6 months.
+In these pooled trials, 9% of women discontinued treatment due to an adverse reaction and the most common reason for discontinuation was dysfunctional uterine bleeding (3%).
 
-General disorders: fatigue, injection site pain
+Adverse Reactions in the Contraception Adult Studies
 
-Gastrointestinal disorders: abdominal distention, abdominal pain, diarrhea, nausea
+Table 1 presents frequently reported adverse reactions (>1%) in the contraception pooled studies.
+In these studies, the most frequently reported adverse reactions (>5%) were dysfunctional uterine bleeding (e.g., irregular, increased, decreased, or spotting), headache, increased weight, amenorrhea, and injection site reactions (e.g., pain/tenderness, nodule/lump, persistent atrophy/indentation/dimpling or lipodystrophy).
 
-Infections: bronchitis, influenza, nasopharyngitis, pharyngitis, sinusitis, upper respiratory tract infection, urinary tract infection, vaginal candidiasis, vaginitis, vaginitis bacterial
+The frequency reported is based on the all-causality incidence in the pooled results of the three contraception studies.
+Closely related "Adverse Reaction" terms were grouped but individual patients reporting two or more grouped events were only counted once.
 
-Investigations: abnormal cervix smear
+Table 1.
+Frequently Reported Adverse Reactions in the Contraception Studies (>1%)
 
-Musculoskeletal, connective tissue, and bone disorders: arthralgia, back pain, limb pain
+| Adverse Reaction | Frequency |
+| --- | --- |
+| Dysfunctional uterine bleeding (irregular, increase, decrease, spotting) | 18% |
+| Headache | 9% |
+| Increased weight (see below) | 7% |
+| Amenorrhea | 6% |
+| Injection site reactions (such as pain/tenderness, nodule/lump, persistent atrophy/indentation/dimpling, lipodystrophy) | 6% |
+| Vaginitis, including candidiasis and bacterial | 5% |
+| Abdominal pain | 4% |
+| Urinary tract infections | 4% |
+| Acne | 4% |
+| Depression | 3% |
+| Decreased libido | 3% |
+| Nausea | 3% |
+| Back pain | 3% |
+| Breast pain/tenderness | 2% |
+| Fatigue | 2% |
+| Anxiety | 1% |
+| Irritability | 1% |
+| Dizziness | 1% |
 
-Nervous system disorders: dizziness, insomnia
+Dysfunctional Uterine Bleeding
 
-Psychiatric disorders: anxiety, depression, irritability, decreased libido
+The extent of bleeding and spotting in the three contraception trials is presented in Figure N; data from the endometriosis trials are presented in Figure O [see Warnings and Precautions (5.1)].
 
-Reproductive system and breast disorders: breast pain, breast tenderness, dysmenorrhea, menometrorrhagia, menorrhagia, menstruation irregular, uterine hemorrhage, vaginal hemorrhage
+Figure N. Mean Number of Bleeding or Spotting Days in the Subgroup of Women with Bleeding or Spotting Among Women Treated with depo-subQ provera 104 in Contraception Studies
 
-Skin disorders: acne
+| N=Number of subjects with bleeding or spotting during indicated month. |
+| --- |
 
-Vascular disorders: hot flushes
+Figure O. Mean Number of Bleeding or Spotting Days in the Subgroup of Women with Bleeding or Spotting Among Women Treated with depo-subQ provera 104 in Endometriosis Studies
 
-## Postmarketing Experience
+| N=Number of subjects with bleeding or spotting during indicated month. |
+| --- |
 
-Anaphylactic reaction, anaphylactoid reaction, angioedema, and drug hypersensitivity have been reported with depo-subQ provera 104.
-There have been rare cases of osteoporosis including osteoporotic fractures reported postmarketing in patients taking DEPO-PROVERA Contraceptive Injection.
+Weight Gain
 
-The following additional reactions have been reported with Depo-Provera Contraceptive Injection and may occur with use of depo-subQ provera 104:
+In three large clinical trials, the mean weight gain in depo-subQ provera 104 treated patients was 3.5 lb (1.6 kg) in the first year of use.
+Half (50%) of women remained within 4.9 lb (2.2 kg) of their initial body weight; 12% of women lost more than 4.9 lb (2.2 kg), and 38% of women gained more than 5.1 lb (2.3 kg).
+In a small, 2-year study comparing depo-subQ provera 104 to DMPA-IM, the mean weight gain observed for women using depo-subQ provera 104 [7.5 lb (3.4 kg)] was similar to the mean weight gain for women using DMPA-IM [7.7 lb (3.5 kg)].
 
-General disorders: asthenia, axillary swelling, chills, chest pain, fever, excessive thirst, injection site nodule/lump, injection site pain/tenderness, injection site persistent atrophy/indentation/dimpling, injection site reactions
+Other Adverse Reactions Observed in Contraception Clinical Trials with depo-subQ provera 104
 
-Blood and lymphatic system disorders: anemia, blood dyscrasia
+Other adverse reactions occurring at an incidence of <1% in women who received depo-subQ provera 104 were as follows:
 
-Cardiac disorders: tachycardia
+- Neoplasms benign, malignant and unspecified (including cysts and polyps): breast lump
+- Blood and lymphatic system disorders: anemia
+- Immune system disorders: drug hypersensitivity
+- Metabolism and nutrition disorders: weight decreased, fluid retention
+- Nervous system disorders: facial palsy, syncope, paresthesia, somnolence
+- Cardiac disorders: tachycardia
+- Vascular disorders: hot flushes
+- Respiratory, thoracic and mediastinal disorders: asthma, dyspnea
+- Gastrointestinal disorders: diarrhea, abdominal distension
+- Skin and subcutaneous tissue disorders: urticaria, pruritus, dry skin
+- Reproductive system and breast disorders: dysmenorrhea, galactorrhea, dyspareunia
+- General disorders and administration site conditions: chest pain
 
-Gastrointestinal disorders: gastrointestinal disturbances, rectal bleeding
+Adverse Reactions in the Endometriosis Adult Studies
 
-Hepato-biliary disorders: jaundice
+The safety profile of depo-subQ provera 104 in endometriosis clinical trials was similar to the safety profile of depo-subQ provera 104 in the contraception studies with the exception of the following adverse reactions which were more frequently reported in patients with endometriosis: abdominal pain, diarrhea, nausea, and back pain.
 
-Infections: genitourinary infections
+In endometriosis studies, subjects recorded daily the occurrence and severity of hot flushes.
+Of the depo-subQ provera 104 users, 29% reported experiencing moderate or severe hot flushes at baseline, 36% at Month 3, and 27% at Month 6.
+Of the leuprolide users, 33% reported experiencing moderate or severe hot flushes at baseline, 74% at Month 3, and 69% at Month 6.
 
-Investigations: decreased glucose tolerance
+Adverse Reactions in the Adolescent Contraception Study
 
-Musculoskeletal, connective tissue, and bone disorders: loss of bone mineral density, scleroderma
+Depo-sub-Q provera 104 and DMPA-IM clinical trials reported similar safety profiles in adult study populations (see Table 1 above).
+Accordingly, a similar safety profile is expected for adolescents receiving depo-subQ provera 104 as for adolescents receiving DMPA-IM.
 
-Neoplasms: breast cancer, cervical cancer
+The safety profile of DMPA-IM for prevention of pregnancy in adolescents was observed to be generally similar to the safety profile of adult women using DMPA-IM for prevention of pregnancy, with the exception of the following adverse reactions which were reported more frequently by adolescents: abdominal pain, diarrhea, back pain, weight increased, depression, headache, and dysmenorrhea.
 
-Nervous system disorders: convulsions, facial palsy, fainting, paralysis, paresthesia, somnolence
+## 6.2 Postmarketing Experience
 
-Psychiatric disorders: increased libido, nervousness
+The following adverse reactions have been identified during post-approval use of DMPA-IM.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not possible to reliably estimate their frequency or establish a causal relationship to drug exposure:
 
-Reproductive system and breast disorders: breast lumps, galactorrhea, nipple discharge or bleeding, oligomenorrhea, prevention of lactation, prolonged anovulation, unexpected pregnancy, uterine hyperplasia, vaginal cyst
-
-Respiratory disorders: asthma, dyspnea, hoarseness
-
-Skin disorders: dry skin, increased body odor, melasma, pruritus, urticaria
-
-Vascular disorders: deep vein thrombosis, pulmonary embolus, thrombophlebitis
+- Immune system disorders: anaphylactic reaction, anaphylactoid reaction, angioedema
+- Vascular disorders: pulmonary embolism, deep vein thrombosis, thrombophlebitis
+- Musculoskeletal and connective tissue disorders: osteoporosis (including osteoporotic fractures)
+- Reproductive system and breast disorders: prolonged anovulation, unexpected pregnancy, uterine hyperplasia
+- Respiratory, thoracic and mediastinal disorders: hoarseness
+- Skin and subcutaneous tissue disorders: increased body odor
+- Gastrointestinal disorders: gastrointestinal disturbances
+- General disorders and administration site conditions: axillary swelling, chills, thirst

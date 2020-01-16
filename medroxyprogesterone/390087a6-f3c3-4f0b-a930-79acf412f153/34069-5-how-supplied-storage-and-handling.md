@@ -1,8 +1,12 @@
-# HOW SUPPLIED
+# 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-depo-subQ provera 104 for subcutaneous use (medroxyprogesterone acetate injectable suspension 104 mg/0.65 mL) is available as a pre-filled syringe, packaged with a 26-gauge × 3/8 inch Terumo® Surguard™ needle in the following presentation:
+## 16.1 How Supplied
 
-| NDC 0009-4709-13 | 0.65 mL single-use, disposable syringe |
-| --- | --- |
+Depo-subQ provera 104 medroxyprogesterone acetate injectable suspension (104 mg/0.65 mL) is available in a single dose, disposable pre-filled syringe and is packaged with a 26-gauge × 3/8-inch Terumo SurGuard® needle.
 
-Store at controlled room temperature 20° to 25° C (68° to 77°F) [see USP].
+NDC 0009-4709-13
+
+## 16.2 Storage
+
+Store at controlled room temperature 20° C to 25° C (68° F to 77°F) [see USP].
+Do not refrigerate.
