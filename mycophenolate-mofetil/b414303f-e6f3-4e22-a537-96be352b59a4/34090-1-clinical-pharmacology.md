@@ -27,8 +27,7 @@ Five mL of the 200 mg/mL constituted mycophenolate mofetil oral suspension have 
 The mean (±SD) pharmacokinetic parameters estimates for MPA following the administration of MMF given as single doses to healthy volunteers, and multiple doses to kidney, heart, and liver transplant patients, are shown in Table 8.
 The area under the plasma- concentration time curve (AUC) for MPA appears to increase in a dose-proportional fashion in kidney transplant patients receiving multiple oral doses of MMF up to a daily dose of 3 g (1.5g twice daily) (see Table 8).
 
-Table 8.
-Pharmacokinetic Parameters for MPA [mean (±SD)] Following Administration of MMF to Healthy Volunteers (Single Dose), and Kidney, Heart, and Liver Transplant Patients (Multiple Doses)
+Table 8 Pharmacokinetic Parameters for MPA [mean (±SD)] Following Administration of MMF to Healthy Volunteers (Single Dose), and Kidney, Heart, and Liver Transplant Patients (Multiple Doses)
 
 | Healthy Volunteers | Dose/Route | Tmax(h) | Cmax(mcg/mL) | Total AUC (mcg•h/mL) |
 | --- | --- | --- | --- | --- |
@@ -89,7 +88,7 @@ At clinically relevant concentrations, MPA is 97% bound to plasma albumin.
 The phenolic glucuronide metabolite of MPA (MPAG) is 82% bound to plasma albumin at MPAG concentration ranges that are normally seen in stable kidney transplant patients; however, at higher MPAG concentrations (observed in patients with kidney impairment or delayed kidney graft function), the binding of MPA may be reduced as a result of competition between MPAG and MPA for protein binding.
 Mean blood to plasma ratio of radioactivity concentrations was approximately 0.6 indicating that MPA and MPAG do not extensively distribute into the cellular fractions of blood.
 
-In vitro studies to evaluate the effect of other agents on the binding of MPA to human serum albumin (HSA) or plasma proteins showed that salicylate (at 25 mg/dL with human serum albumin) and MPAG (at ≥ 460 mcg/mL with plasma proteins) increased the free fraction of MPA.
+In vitro studies to evaluate the effect of other agents on the binding of MPA to human serum albumin (HSA) or plasma proteins showed that salicylate (at 25 mg/dL with human serum albumin) and MPAG (at ≥460 mcg/mL with plasma proteins) increased the free fraction of MPA.
 MPA at concentrations as high as 100 mcg/mL had little effect on the binding of warfarin, digoxin or propranolol, but decreased the binding of theophylline from 53% to 45% and phenytoin from 90% to 87%.
 
 Elimination
@@ -114,7 +113,7 @@ Negligible amount of drug is excreted as MPA (less than 1% of dose) in the urine
 Orally administered radiolabeled MMF resulted in complete recovery of the administered dose, with 93% of the administered dose recovered in the urine and 6% recovered in feces.
 Most (about 87%) of the administered dose is excreted in the urine as MPAG.
 At clinically encountered concentrations, MPA and MPAG are usually not removed by hemodialysis.
-However, at high MPAG plasma concentrations (> 100 mcg/mL), small amounts of MPAG are removed.
+However, at high MPAG plasma concentrations (>100 mcg/mL), small amounts of MPAG are removed.
 
 Increased plasma concentrations of MMF metabolites (MPA 50% increase and MPAG about a 3-fold to 6-fold increase) are observed in patients with renal insufficiency [see Specific Populations].
 
@@ -125,11 +124,11 @@ Patients with Renal Impairment
 The mean (±SD) pharmacokinetic parameters for MPA following the administration of oral MMF given as single doses to non-transplant subjects with renal impairment are presented in Table 9.
 
 In a single-dose study, MMF was administered as a capsule or as an intravenous infusion over 40 minutes.
-Plasma MPA AUC observed after oral dosing to volunteers with severe chronic renal impairment (GFR < 25 mL/min/1.73 m2) was about 75% higher relative to that observed in healthy volunteers (GFR > 80 mL/min/1.73 m2).
+Plasma MPA AUC observed after oral dosing to volunteers with severe chronic renal impairment (GFR <25 mL/min/1.73 m2) was about 75% higher relative to that observed in healthy volunteers (GFR >80 mL/min/1.73 m2).
 In addition, the single-dose plasma MPAG AUC was 3-fold to 6-fold higher in volunteers with severe renal impairment than in volunteers with mild renal impairment or healthy volunteers, consistent with the known renal elimination of MPAG.
 No data are available on the safety of long-term exposure to this level of MPAG.
 
-Plasma MPA AUC observed after single-dose (1 g) intravenous dosing to volunteers (n=4) with severe chronic renal impairment (GFR < 25 mL/min/1.73 m2) was 62.4 mcg•h/mL (±19.3).
+Plasma MPA AUC observed after single-dose (1 g) intravenous dosing to volunteers (n=4) with severe chronic renal impairment (GFR <25 mL/min/1.73 m2) was 62.4 mcg•h/mL (±19.3).
 Multiple dosing of MMF in patients with severe chronic renal impairment has not been studied.
 
 Patients with Delayed Graft Function or Nonfunction
@@ -144,7 +143,7 @@ Accumulation of MPA was about 1-fold to 2-fold.
 
 The pharmacokinetics of MMF are not altered by hemodialysis.
 Hemodialysis usually does not remove MPA or MPAG.
-At high concentrations of MPAG (> 100 mcg/mL), hemodialysis removes only small amounts of MPAG.
+At high concentrations of MPAG (>100 mcg/mL), hemodialysis removes only small amounts of MPAG.
 
 Patients with Hepatic Impairment
 
@@ -155,8 +154,7 @@ However, it should be noted that for unexplained reasons, the healthy volunteers
 In a single-dose (1 g intravenous) study of 6 volunteers with severe hepatic impairment (aminopyrine breath test less than 0.2% of dose) due to alcoholic cirrhosis, MMF was rapidly converted to MPA.
 MPA AUC was 44.1 mcg•h/mL (±15.5).
 
-Table 9.
-Pharmacokinetic Parameters for MPA [mean (±SD)] Following Single Doses of MMF Capsules in Chronic Renal and Hepatic Impairment
+Table 9 Pharmacokinetic Parameters for MPA [mean (±SD)] Following Single Doses of MMF Capsules in Chronic Renal and Hepatic Impairment
 
 | Pharmacokinetic Parameters for Renal Impairment |  |  |  |  |
 | --- | --- | --- | --- | --- |
@@ -185,8 +183,25 @@ Pediatric Patients
 The pharmacokinetic parameters of MPA and MPAG have been evaluated in 55 pediatric patients (ranging from 1 year to 18 years of age) receiving mycophenolate mofetil oral suspension at a dose of 600 mg/m2 twice daily (up to a maximum of 1 g twice daily) after allogeneic kidney transplantation.
 The pharmacokinetic data for MPA is provided in Table 10.
 
-Table 10.
-Mean (±SD) Computed Pharmacokinetic Parameters for MPA by Age and Time after Allogeneic Kidney Transplantation
+Table 10 Mean (±SD) Computed Pharmacokinetic Parameters for MPA by Age and Time after Allogeneic Kidney Transplantation
+
+| Age Group (n) | Time | Tmax(h) | Dose AdjustedaCmax(mcg/mL) | Dose Adjusteda AUC0-12(mcg•h/mL) |
+| --- | --- | --- | --- | --- |
+| Early (Day 7) |  |  |  |  |
+| 1 to less than 2 yr (6)d |  | 3.03 (4.70) | 10.3 (5.80) | 22.5 (6.66) |
+| 1 to less than 6 yr (17) |  | 1.63 (2.85) | 13.2 (7.16) | 27.4 (9.54) |
+| 6 to less than 12 yr (16) |  | 0.940 (0.546) | 13.1 (6.30) | 33.2 (12.1) |
+| 12 to 18 yr (21) |  | 1.16 (0.830) | 11.7 (10.7) | 26.3 (9.14)b |
+| Late (Month 3) |  |  |  |  |
+| 1 to less than 2 yr (4)d |  | 0.725 (0.276) | 23.8 (13.4) | 47.4 (14.7) |
+| 1 to less than 6 yr (15) |  | 0.989 (0.511) | 22.7 (10.1) | 49.7 (18.2) |
+| 6 to less than 12 yr (14) |  | 1.21 (0.532) | 27.8 (14.3) | 61.9 (19.6) |
+| 12 to 18 yr (17) |  | 0.978 (0.484) | 17.9 (9.57) | 53.6 (20.3)c |
+| Late (Month 9) |  |  |  |  |
+| 1 to less than 2 yr (4)d |  | 0.604 (0.208) | 25.6 (4.25) | 55.8 (11.6) |
+| 1 to less than 6 yr (12) |  | 0.869 (0.479) | 30.4 (9.16) | 61.0 (10.7) |
+| 6 to less than 12 yr (11) |  | 1.12 (0.462) | 29.2 (12.6) | 66.8 (21.2) |
+| 12 to 18 yr (14) |  | 1.09 (0.518) | 18.1 (7.29) | 56.7 (14.0) |
 
 a adjusted to a dose of 600 mg/m2 b n=20 c n=16 d a subset of 1 to <6 yr
 
@@ -198,7 +213,7 @@ MPA AUC values were similar in the early and late post-transplant period across 
 Male and Female Patients
 
 Data obtained from several studies were pooled to look at any gender-related differences in the pharmacokinetics of MPA (data were adjusted to 1 g oral dose).
-Mean (±SD) MPA AUC (0-12h) for males (n=79) was 32.0 (±14.5) and for females (n=41) was 36.5 (±18.8) mcg•h/mL while mean (±SD) MPA Cmax was 9.96 (±6.19) in the males and 10.6 (±5.64) mcg/mL in the females.
+Mean (±SD) MPA AUC(0-12h) for males (n=79) was 32.0 (±14.5) and for females (n=41) was 36.5 (±18.8) mcg•h/mL while mean (±SD) MPA Cmax was 9.96 (±6.19) in the males and 10.6 (±5.64) mcg/mL in the females.
 These differences are not of clinical significance.
 
 Geriatric Patients
@@ -229,9 +244,7 @@ This decrease is consistent with interruption of enterohepatic recirculation whi
 
 Cyclosporine
 
-Cyclosporine (Sandimmune®) pharmacokinetics (at doses of 275 to 415 mg/day) were unaffected by single and multiple doses of 1.5 g twice daily of MMF in 10 stable kidney
-
-transplant patients.
+Cyclosporine (Sandimmune®) pharmacokinetics (at doses of 275 to 415 mg/day) were unaffected by single and multiple doses of 1.5 g twice daily of MMF in 10 stable kidney transplant patients.
 The mean (±SD) AUC(0-12h) and Cmax of cyclosporine after 14 days of multiple doses of MMF were 3290 (±822) ng•h/mL and 753 (±161) ng/mL, respectively, compared to 3245 (±1088) ng•h/mL and 700 (±246) ng/mL, respectively, 1 week before administration of MMF.
 
 Cyclosporine A interferes with MPA enterohepatic recirculation.
@@ -272,7 +285,7 @@ Information concerning antibiotics is as follows:
   The mean (±SD) AUC and Cmax of MPA after concomitant administration were 75.2 (±19.8) mcg•h/mL and 34.0 (±6.6) mg/mL, respectively, compared to 79.2 (±27.9) mcg•h/mL and 34.2 (±10.7) mcg/mL, respectively, after administration of MMF alone.
 
 - Norfloxacin and Metronidazole: Following single-dose administration of MMF (1 g) to 11 healthy volunteers on day 4 of a 5-day course of a combination of norfloxacin and metronidazole, the mean MPA AUC(0-48h) was significantly reduced by 33% compared to the administration of MMF alone (p<0.05).
-  The mean (±SD) MPA AUC(0-48h) after coadministration of MMF with norfloxacin or metronidazole separately was 48.3 (±24) mcg·h/mL and 42.7 (±23) mcg·h/mL, respectively, compared with 56.2 (±24) mcg·h/mL after administration of MMF alone.
+  The mean (±SD) MPA AUC(0-48h) after coadministration of MMF with norfloxacin or metronidazole separately was 48.3 (±24) mcg•h/mL and 42.7 (±23) mcg•h/mL, respectively, compared with 56.2 (±24) mcg•h/mL after administration of MMF alone.
 
 - Ciprofloxacin and Amoxicillin Plus Clavulanic Acid: A total of 64 mycophenolate mofetil capsule-treated kidney transplant recipients received either oral ciprofloxacin 500 mg twice daily or amoxicillin plus clavulanic acid 375 mg three times daily for 7 or at least 14 days, respectively.
   Approximately 50% reductions in median trough MPA concentrations (pre­ dose) from baseline (mycophenolate mofetil capsules alone) were observed in 3 days following commencement of oral ciprofloxacin or amoxicillin plus clavulanic acid.

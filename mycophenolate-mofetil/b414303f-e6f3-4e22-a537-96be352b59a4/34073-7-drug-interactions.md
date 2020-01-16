@@ -2,8 +2,7 @@
 
 ## 7.1 Effect of Other Drugs on Mycophenolate Mofetil Capsules
 
-Table 5.
-Drug Interactions with Mycophenolate Mofetil Capsules that Affect Mycophenolic Acid (MPA) Exposure
+Table 5 Drug Interactions with Mycophenolate Mofetil Capsules that Affect Mycophenolic Acid (MPA) Exposure
 
 | Antacids with Magnesium or Aluminum Hydroxide |  |
 | --- | --- |
@@ -28,8 +27,7 @@ Drug Interactions with Mycophenolate Mofetil Capsules that Affect Mycophenolic A
 
 ## 7.2 Effect of Mycophenolate Mofetil Capsules on Other Drugs
 
-Table 6.
-Drug Interactions with Mycophenolate Mofetil Capsules that Affect Other Drugs
+Table 6 Drug Interactions with Mycophenolate Mofetil Capsules that Affect Other Drugs
 
 | Drugs that Undergo Renal Tubular Secretion |  |
 | --- | --- |

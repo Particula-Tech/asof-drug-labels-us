@@ -1,6 +1,6 @@
 # PRINCIPAL DISPLAY PANEL
 
-NDC 0093-7334-05
+NDC 0093-7334-01
 
 Mycophenolate
 
@@ -16,7 +16,7 @@ Medication Guide to each patient.
 
 Rx only
 
-500 CAPSULES
+100 CAPSULES
 
 TEVA
 

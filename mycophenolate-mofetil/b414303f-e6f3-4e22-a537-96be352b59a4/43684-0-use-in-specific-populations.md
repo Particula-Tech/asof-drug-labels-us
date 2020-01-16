@@ -76,8 +76,7 @@ Patients must use acceptable birth control during the entire mycophenolate mofet
 
 Patients should be aware that mycophenolate mofetil capsules reduce blood levels of the hormones from the oral contraceptive pill and could theoretically reduce its effectiveness [see Drug Interactions (7.2)].
 
-Table 7.
-Acceptable Contraception Methods For Females Of Reproductive Potential
+Table 7 Acceptable Contraception Methods For Females Of Reproductive Potential
 
 Pick from the following birth control options:
 

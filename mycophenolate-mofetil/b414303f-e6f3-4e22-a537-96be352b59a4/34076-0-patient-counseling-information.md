@@ -32,7 +32,7 @@ This recommendation is based on findings of animal studies [see Use in Specific 
 
 - Inform patients that they are at increased risk of developing lymphomas and other malignancies, particularly of the skin, due to immunosuppression [see Warnings and Precautions (5.2)].
 
-- Advise patients to limit exposure to sunlight and ultraviolet (UV) light by wearing protective clothing and use of sunscreen with high protection factor.
+- Advise patients to limit exposure to sunlight and ultraviolet (UV) light by wearing protective clothing and use of broad-spectrum sunscreen with high protection factor.
 
 ## 17.3 Increased Risk of Serious Infections
 
@@ -85,4 +85,4 @@ Opava-Komarov, Czech Republic
 Manufactured For: Teva Pharmaceuticals USA, Inc. North Wales, PA 19454
 
 Rev.
-N 2/2019
+O 12/2019
