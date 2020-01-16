@@ -4,6 +4,9 @@ NDC 0378-6688-77
 
 Pantoprazole Sodium Delayed-Release Tablets, USP 20 mg
 
+Swallow tablets whole.
+Do NOT split, chew, or crush tablets.
+
 PHARMACIST: Dispense the accompanying Medication Guide to each patient.
 
 Rx only 90 Tablets
@@ -14,9 +17,6 @@ Meets USP Dissolution Test 3.
 
 Usual Dosage: See accompanying prescribing information.
 
-Swallow tablets whole.
-Do NOT split, chew, or crush tablets.
-
 Keep this and all medication out of the reach of children.
 
 Store at 20° to 25°C (68° to 77°F).
@@ -26,7 +26,7 @@ Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
 Made in India
 
-RMX6688MM6
+RMX6688MM7
 
 Mylan.com
 
@@ -42,6 +42,9 @@ NDC 0378-6689-77
 
 Pantoprazole Sodium Delayed-Release Tablets, USP 40 mg
 
+Swallow tablets whole.
+Do NOT split, chew, or crush tablets.
+
 PHARMACIST: Dispense the accompanying Medication Guide to each patient.
 
 Rx only 90 Tablets
@@ -52,9 +55,6 @@ Meets USP Dissolution Test 3.
 
 Usual Dosage: See accompanying prescribing information.
 
-Swallow tablets whole.
-Do NOT split, chew, or crush tablets.
-
 Keep this and all medication out of the reach of children.
 
 Store at 20° to 25°C (68° to 77°F).
@@ -64,7 +64,7 @@ Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
 Made in India
 
-RMX6689MM6
+RMX6689MM7
 
 Mylan.com
 
