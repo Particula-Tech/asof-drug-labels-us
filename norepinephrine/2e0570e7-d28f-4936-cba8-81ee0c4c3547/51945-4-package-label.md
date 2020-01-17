@@ -1,17 +1,17 @@
 # PRINCIPAL DISPLAY PANEL - 4 mg/4 mL Ampul Label
 
-RL-1470 (9/05)
+RL10021
 
-NDC 0409-1443-04 4 mL
+NDC 0409-1443-14 4 mL
 
-Levophed® norepinephrine bitartrate injection, USP 4 mg/4 mL 1 mg per mL
-
-Rx only
+Levophed™ norepinephrine bitartrate injection, USP 4 mg/4 mL (1 mg/mL) Rx only
 
 Each mL contains norepinephrine bitartrate equal to 1 mg norepinephrine base.
-FOR IV INFUSION ONLY.
+
+FOR INTRAVENOUS INFUSION ONLY.
 DILUTE BEFORE USE.
 PROTECT FROM LIGHT.
+
 Hospira, Inc. Lake Forest, IL 60045 USA
 
 # PRINCIPAL DISPLAY PANEL - 4 mg/4 mL Ampul Box
