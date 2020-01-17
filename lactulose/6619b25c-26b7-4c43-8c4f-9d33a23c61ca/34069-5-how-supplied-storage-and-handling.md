@@ -2,13 +2,13 @@
 
 Lactulose Solution USP 10 g/15 mL is available as follows:
 
-NDC 0527-5120-68: 8 fl oz (237 mL) bottle
+NDC 0527-5125-68: 8 fl oz (237 mL) bottle
 
-NDC 0527-5120-70: 16 fl oz (473 mL) bottle
+NDC 0527-5125-70: 16 fl oz (473 mL) bottle
 
-NDC 0527-5120-78: 32 fl oz (946 mL) bottle
+NDC 0527-5125-78: 32 fl oz (946 mL) bottle
 
-NDC 0527-5120-82: 64 fl oz (1892 mL) bottle
+NDC 0527-5125-82: 64 fl oz (1892 mL) bottle
 
 Lactulose solution contains lactulose 667 mg/mL (10 g/15 mL).
 
@@ -35,7 +35,7 @@ Lannett Company, Inc.
 
 Philadelphia, PA 19136
 
-L6868A
+L6868B
 
 Rev.
-07/19
+01/20
