@@ -4,13 +4,13 @@
 
 Use of MMF during pregnancy is associated with an increased risk of first trimester pregnancy loss and an increased risk of congenital malformations, especially external ear and other facial abnormalities including cleft lip and palate, and anomalies of the distal limbs, heart, esophagus, kidney and nervous system.
 Females of reproductive potential must be made aware of these risks and must be counseled regarding pregnancy prevention and planning.
-Avoid use of MMF during pregnancy if safer treatment options are available [see Use in Specific Populations(8.1, 8.3)].
+Avoid use of MMF during pregnancy if safer treatment options are available [see Use in Specific Populations (8.1, 8.3)].
 
 ## 5.2 Lymphoma and Other Malignancies
 
 Patients receiving immunosuppressants, including mycophenolate mofetil, are at increased risk of developing lymphomas and other malignancies, particularly of the skin [see Adverse Reactions (6.1)].
 The risk appears to be related to the intensity and duration of immunosuppression rather than to the use of any specific agent.
-For patients with increased risk for skin cancer, exposure to sunlight and UV light should be limited by wearing protective clothing and using a sunscreen with a high protection factor.
+For patients with increased risk for skin cancer, exposure to sunlight and UV light should be limited by wearing protective clothing and using a broad-spectrum sunscreen with a high protection factor.
 
 Post-transplant lymphoproliferative disorder (PTLD) developed in 0.4% to 1% of patients receiving mycophenolate mofetil (2 g or 3 g) with other immunosuppressive agents in controlled clinical trials of kidney, heart and liver transplant patients [see Adverse Reactions (6.1)].
 The majority of PTLD cases appear to be related to Epstein Barr Virus (EBV) infection.
@@ -74,12 +74,12 @@ Mycophenolate mofetil is an inosine monophosphate dehydrogenase (IMPDH) inhibito
 
 ## 5.7 Immunizations
 
-During treatment with mycophenolate mofetil, the use of live attenuated vaccines should be avoided and patients should be advised that vaccinations may be less effective.
+During treatment with mycophenolate mofetil, the use of live attenuated vaccines should be avoided (e.g., intranasal influenza, measles, mumps, rubella, oral polio, BCG, yellow fever, varicella, and TY21a typhoid vaccines) and patients should be advised that vaccinations may be less effective.
 Advise patients to discuss with the physician before seeking any immunizations.
 
 ## 5.8 Local Reactions with Rapid Intravenous Administration
 
-Mycophenolate mofetil intravenous solution must not be administered by rapid or bolus intravenous injection as rapid infusion increases the risk of local adverse reactions such as phlebitis and thrombosis [see Adverse Reactions(6.1)].
+Mycophenolate mofetil intravenous solution must not be administered by rapid or bolus intravenous injection as rapid infusion increases the risk of local adverse reactions such as phlebitis and thrombosis [see Adverse Reactions (6.1)].
 
 ## 5.10 Blood Donation
 
@@ -87,7 +87,7 @@ Patients should not donate blood during therapy and for at least 6 weeks followi
 
 ## 5.11 Semen Donation
 
-Based on animal data, men should not donate semen during therapy and for 90 days following discontinuation of mycophenolate mofetil [see Use In Specific Populations (8.3)].
+Based on animal data, men should not donate semen during therapy and for 90 days following discontinuation of mycophenolate mofetil [see Use in Specific Populations (8.3)].
 
 ## 5.12 Effect of Concomitant Medications on Mycophenolic Acid Concentrations
 

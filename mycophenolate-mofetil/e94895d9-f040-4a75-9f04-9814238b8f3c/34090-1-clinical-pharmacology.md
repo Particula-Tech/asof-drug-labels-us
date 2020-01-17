@@ -27,8 +27,7 @@ Five mL of the 200 mg/mL constituted mycophenolate mofetil oral suspension have 
 The mean (±SD) pharmacokinetic parameters estimates for MPA following the administration of MMF given as single doses to healthy volunteers, and multiple doses to kidney, heart, and liver transplant patients, are shown in Table 8.
 The area under the plasma-concentration time curve (AUC) for MPA appears to increase in a dose-proportional fashion in kidney transplant patients receiving multiple oral doses of MMF up to a daily dose of 3 g (1.5g twice daily) (see Table 8).
 
-Table 8.
-Pharmacokinetic Parameters for MPA [mean (±SD)] Following Administration of MMF to Healthy Volunteers (Single Dose), and Kidney, Heart, and Liver Transplant Patients (Multiple Doses)
+1. Table 8 Pharmacokinetic Parameters for MPA [mean (±SD)] Following Administration of MMF to Healthy Volunteers (Single Dose), and Kidney, Heart, and Liver Transplant Patients (Multiple Doses)
 
 | Healthy Volunteers | Dose/Route | Tmax(h) | Cmax(mcg/mL) | Total AUC (mcg•h/mL) |
 | --- | --- | --- | --- | --- |
@@ -119,8 +118,7 @@ However, it should be noted that for unexplained reasons, the healthy volunteers
 In a single-dose (1 g intravenous) study of 6 volunteers with severe hepatic impairment (aminopyrine breath test less than 0.2% of dose) due to alcoholic cirrhosis, MMF was rapidly converted to MPA.
 MPA AUC was 44.1 mcg•h/mL (±15.5).
 
-Table 9.
-Pharmacokinetic Parameters for MPA [mean (±SD)] Following Single Doses of MMF Capsules in Chronic Renal and Hepatic Impairment
+1. Table 9 Pharmacokinetic Parameters for MPA [mean (±SD)] Following Single Doses of MMF Capsules in Chronic Renal and Hepatic Impairment
 
 | Pharmacokinetic Parameters for Renal Impairment |  |  |  |  |
 | --- | --- | --- | --- | --- |
@@ -137,8 +135,7 @@ Pharmacokinetic Parameters for MPA [mean (±SD)] Following Single Doses of MMF C
 Pediatric Patients: The pharmacokinetic parameters of MPA and MPAG have been evaluated in 55 pediatric patients (ranging from 1 year to 18 years of age) receiving mycophenolate mofetil oral suspension at a dose of 600 mg/m2 twice daily (up to a maximum of 1 g twice daily) after allogeneic kidney transplantation.
 The pharmacokinetic data for MPA is provided in Table 10.
 
-Table 10.
-Mean (±SD) Computed Pharmacokinetic Parameters for MPA by Age and Time after Allogeneic Kidney Transplantation
+1. Table 10 Mean (±SD) Computed Pharmacokinetic Parameters for MPA by Age and Time after Allogeneic Kidney Transplantation
 
 | Age Group (n) |  | Time | Tmax (h) |  | Dose Adjustedadjusted to a dose of 600 mg/m2Cmax(mcg/mL) |  | Dose AdjustedAUC0-12(mcg•h/mL) |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |

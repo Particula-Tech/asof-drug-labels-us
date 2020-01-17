@@ -34,8 +34,7 @@ Approximately 53% of the kidney transplant patients, 65% of the heart transplant
 Adverse reactions reported in ≥20% of patients in the mycophenolate mofetil treatment groups are presented below.
 The safety data of three kidney transplantation studies are pooled together.
 
-Table 3.
-Adverse Reactions in Controlled Studies of De Novo Kidney, Heart or Liver Transplantation Reported in ≥20% of Patients in the Mycophenolate Mofetil Group
+1. Table 3 Adverse Reactions in Controlled Studies of De Novo Kidney, Heart or Liver Transplantation Reported in ≥20% of Patients in the Mycophenolate Mofetil Group
 
 | Adverse drug reaction (MedDRA)System Organ Class | Kidney Studies |  |  | Heart Study |  | Liver Study |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -116,8 +115,7 @@ Endoscopic investigation of patients with mycophenolate mofetil-related diarrhea
 
 The following adverse reactions were reported with 3% to <20% incidence in kidney, heart, and liver transplant patients treated with mycophenolate mofetil, in combination with cyclosporine and corticosteroids.
 
-Table 4.
-Adverse Reactions in Controlled Studies of De Novo Kidney, Heart or Liver Transplantation Reported in 3% to <20% of Patients Treated with Mycophenolate Mofetil in Combination with Cyclosporine and Corticosteroids
+1. Table 4 Adverse Reactions in Controlled Studies of De Novo Kidney, Heart or Liver Transplantation Reported in 3% to <20% of Patients Treated with Mycophenolate Mofetil in Combination with Cyclosporine and Corticosteroids
 
 | System Organ Class | Adverse Reactions |
 | --- | --- |
