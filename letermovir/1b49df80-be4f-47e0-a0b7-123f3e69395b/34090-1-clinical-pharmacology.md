@@ -164,22 +164,20 @@ Viral Resistance
 
 In Cell Culture
 
-CMV mutants with reduced susceptibility to letermovir have been selected in cell culture and the resistance mutations map to UL56.
-Resistance-associated substitutions occur between amino acid positions pUL56 231 and 369 (V231A/L, V236L/M, E237D, L241P, T244K/R, L257I, F261C/L/S, Y321C, C325F/R/Y, M329T, R369G/M/S).
-EC50 values for virus expressing these substitutions are 13- to 5,870-fold higher than those for the wild-type reference virus.
+CMV mutants with reduced susceptibility to letermovir have been selected in cell culture and the resistance mutations map to UL51, UL56, and UL89.
+Resistance-associated substitutions were found in pUL51 (P91S), pUL56 (C25F, S229F, V231A/L, N232Y, V236A/L/M, E237D, L241P, T244K/R, L254F, L257F/I, K258E, F261C/L/S, Y321C, C325F/R/W/Y, L328V, M329T, A365S, N368D, R369G/M/S), and pUL89 (N320H, D344E).
+EC50 values for recombinant CMV mutants expressing these substitutions are 1.6- to 9,300-fold higher than those for the wild-type reference virus.
 
 In Clinical Studies
 
 In a Phase 2b trial evaluating letermovir or placebo in 131 HSCT recipients, DNA sequence analysis of a select region of UL56 (amino acids 231 to 369) was performed on samples obtained from 12 letermovir-treated subjects who experienced prophylaxis failure and for whom on-treatment samples were available for analysis.
 One subject had a letermovir resistance substitution, pUL56 V236M.
 
-In a Phase 3 trial (P001), DNA sequence analysis of the entire coding regions of UL56 and UL89 was performed on samples obtained from 28 letermovir-treated subjects who had received at least one dose of study drug and experienced prophylaxis failure and for whom samples were available for analysis.
-Two subjects were identified as having a letermovir-resistance substitution, pUL56 V236M or C325W.
-These substitutions were identified from on-treatment samples [see Clinical Studies (14)].
-A virus from a third subject who experienced prophylaxis failure had a pUL56 E237G substitution at low frequency (<5%), and while pUL56 E237D was associated with resistance in cell culture, the clinical significance of this substitution at this frequency is unknown.
+In a Phase 3 trial (P001), DNA sequence analysis of the entire coding regions of UL56 and UL89 was performed on samples obtained from 50 letermovir-treated subjects who had received at least one dose of study drug and experienced prophylaxis failure and for whom samples were available for analysis.
+The pUL56 substitutions V236M, E237G, C325W, and R369T were detected in 3 subjects; however, no 2 subjects had substitutions at the same positions.
 
 Cross Resistance
 
 Cross resistance is not likely with drugs outside of this class.
 Letermovir is fully active against viral populations with substitutions conferring resistance to CMV DNA polymerase inhibitors (cidofovir, foscarnet, and ganciclovir).
-These DNA polymerase inhibitors are fully active against viral populations with substitutions conferring resistance to letermovir.
+These DNA polymerase inhibitors are expected to be fully active against viral populations with substitutions conferring resistance to letermovir.

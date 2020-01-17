@@ -6,7 +6,7 @@ The trademarks depicted herein are owned by their respective companies.
 
 Copyright © 2017-2019 Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. All rights reserved.
 
-uspi-mk8228-mf-1908r002
+uspi-mk8228-mf-1912r003
 
 Distributed by: Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO.,INC., Whitehouse Station, NJ 08889, USA
 
