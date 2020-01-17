@@ -21,5 +21,4 @@ See table below for product composition of each single-dose vial or prefilled sy
 | sorbitol | 50 mg | 80 mg | 25 mg | 40 mg |
 | water for Injection |  |  |  |  |
 | USP q.s. ad* | 1 mL | 1.6 mL | 0.5 mL | 0.8 mL |
-
-* quantity sufficient to make
+| * quantity sufficient to make |  |  |  |  |

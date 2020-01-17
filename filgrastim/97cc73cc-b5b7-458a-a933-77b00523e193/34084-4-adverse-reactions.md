@@ -59,8 +59,7 @@ Adverse Reactions in Patients with Cancer Receiving Myelosuppressive Chemotherap
 | Investigations |  |  |
 | Blood lactate dehydrogenase increased | 6% | 1% |
 | Blood alkaline phosphatase increased | 6% | 1% |
-
-* Percent difference (NEUPOGEN – Placebo) was 4%.
+| * Percent difference (NEUPOGEN – Placebo) was 4%. |  |  |
 
 Adverse events with ≥ 5% higher incidence in NEUPOGEN patients compared to placebo and associated with the sequelae of the underlying malignancy or cytotoxic chemotherapy delivered included anemia, constipation, diarrhea, oral pain, vomiting, asthenia, malaise, edema peripheral, hemoglobin decreased, decreased appetite, oropharyngeal pain, and alopecia.
 

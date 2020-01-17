@@ -4,9 +4,9 @@ NDC 55513-530-10
 
 10 – 1 mL Single Dose Vials
 
-Amgen®
+AMGEN®
 
-Neupogen®
+NEUPOGEN®
 
 (filgrastim) for injection
 
@@ -35,7 +35,7 @@ NDC 55513-546-10
 
 AMGEN®
 
-Neupogen®
+NEUPOGEN®
 
 (filgrastim) for injection
 
@@ -64,7 +64,7 @@ NDC 55513-924-91
 
 AMGEN®
 
-Neupogen® SingleJect®
+NEUPOGEN® SingleJect®
 
 (filgrastim) injection
 
@@ -100,7 +100,7 @@ NDC 55513-924-10
 
 AMGEN®
 
-Neupogen® SingleJect®
+NEUPOGEN® SingleJect®
 
 (filgrastim) injection
 
@@ -137,7 +137,7 @@ NDC 55513-209-91
 
 AMGEN®
 
-Neupogen® SingleJect®
+NEUPOGEN® SingleJect®
 
 (filgrastim) injection
 
@@ -173,7 +173,7 @@ NDC 55513-209-10
 
 AMGEN®
 
-Neupogen® SingleJect®
+NEUPOGEN® SingleJect®
 
 (filgrastim) injection
 

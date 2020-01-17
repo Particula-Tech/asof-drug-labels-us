@@ -29,8 +29,7 @@ Recommended Dosage Adjustments During Neutrophil Recovery in Patients with Cance
 | When ANC greater than 1,000/mm3 for 3 consecutive days | Reduce to 5 mcg/kg/daya |
 | Then, if ANC remains greater than 1,000/mm3 for 3 more consecutive days | Discontinue NEUPOGEN |
 | Then, if ANC decreases to less than 1,000/mm3 | Resume at 5 mcg/kg/day |
-
-a If ANC decreases to less than 1,000/mm3 at any time during the 5 mcg/kg/day administration‚ increase NEUPOGEN to 10 mcg/kg/day‚ and then follow the above steps.
+| a If ANC decreases to less than 1,000/mm3 at any time during the 5 mcg/kg/day administration‚ increase NEUPOGEN to 10 mcg/kg/day‚ and then follow the above steps. |  |
 
 ## 2.3 Dosage in Patients Undergoing Autologous Peripheral Blood Progenitor Cell Collection and Therapy
 

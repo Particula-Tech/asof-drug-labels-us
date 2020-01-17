@@ -1,9 +1,6 @@
-Instructions for Use NEUPOGEN® (nu-po-jen) (filgrastim) Injection
-
-Single-Dose Prefilled Syringe
-
-| Guide to parts |  |  |  |
+| Instructions for Use NEUPOGEN® (nu-po-jen) (filgrastim) Injection Single-Dose Prefilled Syringe |  |  |  |
 | --- | --- | --- | --- |
+| Guide to parts |  |  |  |
 | Before use |  | After use |  |
 
 Important: The needle is covered by the gray needle cap before use.
@@ -207,7 +204,8 @@ Amgen Inc. One Amgen Center Drive Thousand Oaks, California 91320-1799 U.S. Lice
 
 v1
 
-Instructions for Use NEUPOGEN® (nu-po-jen) (filgrastim) Injection Single-Dose Vial
+| Instructions for Use NEUPOGEN® (nu-po-jen) (filgrastim) Injection Single-Dose Vial |
+| --- |
 
 Important
 
@@ -267,8 +265,7 @@ On a clean, well-lit work surface, place the:
 - 2 alcohol wipes
 - Cotton ball or gauze pad
 - Adhesive bandage
-
-Sharps disposal container
+- Sharps disposal container
 
 - Only use the disposable syringes and needles that your healthcare provider prescribes.
 - Only use the syringes and needles 1 time.
