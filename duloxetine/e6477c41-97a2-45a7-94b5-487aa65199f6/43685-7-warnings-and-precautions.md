@@ -67,16 +67,17 @@ The risk of falling appears to be related to the degree of orthostatic decrease 
 In an analysis of patients from all placebo-controlled trials, patients treated with duloxetine reported a higher rate of falls compared to patients treated with placebo Risk appears to be related to the presence of orthostatic decrease in blood pressure.
 The risk of blood pressure decreases may be greater in patients taking concomitant medications that induce orthostatic hypotension (such as antihypertensives) or are potent CYP1A2 inhibitors [see Warnings and Precautions (5.12) and Drug Interactions (7.1)]and in patients taking duloxetine at doses above 60 mg daily.
 Consideration should be given to dose reduction or discontinuation of duloxetine in patients who experience symptomatic orthostatic hypotension, falls and/or syncope during duloxetine therapy.
-Risk of falling also appeared to be proportional to a patient’s underlying risk for falls and appeared to increase steadily with age.
-As elderly patients tend to have a higher underlying risk o falls due to a higher prevalence of risk factors such as use of multiple medications, medical comorbidities and gait disturbances, the impact of increasing age by itself is unclear.
-Falls with serious consequences including bone fractures and hospitalizations have been reported [see Adverse Reactions (6.10)and Patient Counseling Information (17)].
+Risk of falling also appeared to be proportional to a patient's underlying risk for falls and appeared to increase steadily with age.
+As elderly patients tend to have a higher underlying risk for falls due to a higher prevalence of risk factors such as use of multiple medications, medical comorbidities and gait disturbances, the impact of increasing age by itself is unclear.
+Falls with serious consequences including bone fractures and hospitalizations have been reported [see Adverse Reactions (6.10) and Patient Counseling Information (17)].
 
 ## 5.4 Serotonin Syndrome
 
 The development of a potentially life-threatening serotonin syndrome has been reported with SNRIs and SSRIs, including duloxetine, alone but particularly with concomitant use of other serotonergic drugs (including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, tryptophan, buspirone,amphetamines, and St. John’s Wort) and with drugs that impair metabolism of serotonin (in particular, MAOIs, both those intended to treat psychiatric disorders and also others, such as linezolid and intravenous methylene blue).
 Serotonin syndrome symptoms may include mental status changes (e.g., agitation, hallucinations, delirium, and coma), autonomic instability (e.g., tachycardia, labile blood pressure, dizziness, diaphoresis, flushing, hyperthermia), neuromuscular symptoms (e.g., tremor, rigidity, myoclonus, hyperreflexia, incoordination), seizures, and/or gastrointestinal symptoms (e.g., nausea, vomiting, diarrhea).
 Patients should be monitored for the emergence of serotonin syndrome.
-The concomitant use of duloxetine with MAOIs intended to treat psychiatric disorders is contraindicated. duloxetine should also not be started in a patient who is being treated with MAOIs such as linezolid or intravenous methylene blue.
+The concomitant use of duloxetine with MAOIs intended to treat psychiatric disorders is contraindicated.
+Duloxetine should also not be started in a patient who is being treated with MAOIs such as linezolid or intravenous methylene blue.
 All reports with methylene blue that provided information on the route of administration involved intravenous administration in the dose range of 1 mg/kg to 8 mg/kg.
 No reports involved the administration of methylene blue by other routes (such as oral tablets or local tissue injection) or at lower doses.
 There may be circumstances when it is necessary to initiate treatment with an MAOI such as linezolid or intravenous methylene blue in a patient taking duloxetine.
@@ -84,13 +85,14 @@ Duloxetine should be discontinued before initiating treatment with the MAOI [see
 If concomitant use of duloxetine with other serotonergic drugs including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, buspirone, tryptophan,amphetamines,and St. John’s Wort is clinically warranted, patients should be made aware of a potential increased risk for serotonin syndrome, particularly during treatment initiation and dose increases.
 Treatment with duloxetine and any concomitant serotonergic agents, should be discontinued immediately if the above events occur and supportive symptomatic treatment should be initiated.
 
-## 5.5 Abnormal Bleeding
+## 5.5 Increased Risk of Bleeding
 
-SSRIs and SNRIs, including duloxetine, may increase the risk of bleeding events.
-Concomitant use of aspirin, nonsteroidal anti-inflammatory drugs, warfarin, and other anti-coagulants may add to this risk.
+Drugs that interfere with serotonin reuptake inhibition, including duloxetine, may increase the risk of bleeding events.
 Case reports and epidemiological studies (case-control and cohort design) have demonstrated an association between use of drugs that interfere with serotonin reuptake and the occurrence of gastrointestinal bleeding.
-Bleeding events related to SSRIs and SNRIs use have ranged from ecchymoses, hematomas, epistaxis, and petechiae to life-threatening hemorrhages.
-Patients should be cautioned about the risk of bleeding associated with the concomitant use of duloxetine and NSAIDs, aspirin, or other drugs that affect coagulation.
+A post- marketing study showed a higher incidence of postpartum hemorrhage in mothers taking duloxetine.
+Other bleeding events related to SSRI and SNRI use have ranged from ecchymoses, hematomas, epistaxis, and petechiae to life- threatening hemorrhages.
+Concomitant use of aspirin, nonsteroidal anti-inflammatory drugs (NSAIDs), warfarin, and other anti-coagulants may add to this risk.
+Inform patients about the risk of bleeding associated with the concomitant use of duloxetine and NSAIDs, aspirin, or other drugs that affect coagulation [see Drug Interactions (7.4)].
 
 ## 5.6 Severe Skin Reactions
 
@@ -99,7 +101,7 @@ The reporting rate of SJS associated with duloxetine use exceeds the general pop
 The reporting rate is generally accepted to be an underestimate due to underreporting.
 Duloxetine should be discontinued at the first appearance of blisters, peeling rash, mucosal erosions, or any other sign of hypersensitivity if no other etiology can be identified.
 
-## 5.7 Discontinuation of Treatment with duloxetine
+## 5.7 Discontinuation of Treatment with Duloxetine
 
 Discontinuation symptoms have been systematically evaluated in patients taking duloxetine.
 Following abrupt or tapered discontinuation in adult placebo-controlled clinical trials, the following symptoms occurred at 1% or greater and at a significantly higher rate in duloxetine -treated patients compared to those discontinuing from placebo: dizziness, headache, nausea, diarrhea, paresthesia, irritability, vomiting, insomnia, anxiety, hyperhidrosis, and fatigue.
@@ -112,7 +114,7 @@ Subsequently, the physician may continue decreasing the dose but at a more gradu
 
 ## 5.8 Activation of Mania/Hypomania
 
-In adult placebo-controlled trials in patients with major depressive disorder, activation of mania or hypomania was reported in 0.1% (4/3779) of duloxetine -treated patients and 0.4% (1/2536) of placebo-treated patients.
+In adult placebo-controlled trials in patients with major depressive disorder, activation of mania or hypomania was reported in 0.1% (4/3779) of duloxetine -treated patients and 0.04% (1/2536) of placebo-treated patients.
 No activation of mania or hypomania was reported in DPNP, GAD, or chronic musculoskeletal pain placebo-controlled trials.
 Activation of mania or hypomania has been reported in a small proportion of patients with mood disorders who were treated with other marketed drugs effective in the treatment of major depressive disorder.
 As with these other agents, duloxetine should be used cautiously in patients with a history of mania.
@@ -192,7 +194,3 @@ Duloxetine is in a class of drugs known to affect urethral resistance.
 If symptoms of urinary hesitation develop during treatment with duloxetine, consideration should be given to the possibility that they might be drug-related.
 In post marketing experience, cases of urinary retention have been observed.
 In some instances of urinary retention associated with duloxetine use, hospitalization and/or catheterization has been needed.
-
-## 5.16 Laboratory Tests
-
-No specific laboratory tests are recommended.

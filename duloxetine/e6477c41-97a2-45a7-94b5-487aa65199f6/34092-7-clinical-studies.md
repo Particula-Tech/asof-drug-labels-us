@@ -1,6 +1,6 @@
 # 14 CLINICAL STUDIES
 
-The efficacy of duloxetine has been established in the following adequate and well-controlled trials
+The efficacy of duloxetine has been established in the following adequate and well-controlled trials:
 
 - Major Depressive Disorder (MDD): 4 short-term and 1 maintenance trial in adults [see Clinical Studies (14.1)].
 - Generalized Anxiety Disorder (GAD): 3 short-term trials in adults, 1 maintenance trial in adults [see Clinical Studies (14.2)].
@@ -59,7 +59,7 @@ Table 8: Summary of the Primary Efficacy Results for Studies in General Anxiety 
 | --- | --- | --- | --- | --- |
 | Mean Baseline Score (SD) | LS Mean Change from Baseline (SE) | Placebo-subtracted Differencea (95% CI) |  |  |
 | Study 1 (HAM-A) | Duloxetine (60 mg/day)b Duloxetine (120 mg/day)b Placebo | 25.1 (7.18) 25.1 (7.24) 25.8 (7.66) | -12.8 (0.68) -12.5 (0.67) -8.4 (0.67) | -4.4 (-6.2, -2.5) -4.1 (-5.9, -2.3) -- |
-| Study 2 (HAM-A) | Duloxetine (60-120 mg/day)b Placebo | 22.5 (7.44) 23.5 (7.91) | -8.1 (0.70) -5.9 (0.70) | -2.2 (-4.0, -0.3) - |
+| Study 2 (HAM-A) | Duloxetine (60-120 mg/day)b Placebo | 22.5 (7.44) 23.5 (7.91) | -8.1 (0.70) -5.9 (0.70) | -2.2 (-4.2, -0.3) - |
 | Study 3 (HAM-A) | Duloxetine (60-120 mg/day)b Placebo | 25.8 (5.66) 25.0 (5.82) | -11.8 (0.69) -9.2 (0.67) | -2.6 (-4.5, -0.7) --- |
 
 SD: standard deviation; SE: standard error; LS Mean: least-squares mean; CI: confidence interval, not adjusted for multiplicity in trials where multiple dose groups were included.
@@ -81,7 +81,7 @@ Both studies compared duloxetine 60 mg once daily or 60 mg twice daily with plac
 DPNP-1 additionally compared duloxetine 20 mg with placebo.
 A total of 457 patients (342 duloxetine, 115 placebo) were enrolled in DPNP-1 and a total of 334 patients (226 duloxetine, 108 placebo) were enrolled in DPNP-2.
 Treatment with duloxetine 60 mg one or two times a day statistically significantly improved the endpoint mean pain scores from baseline and increased the proportion of patients with at least a 50% reduction in pain scores from baseline.
-For various degrees of improvement in pain from baseline to study endpoint, Figures 1 and 2 show the fraction of patients achieving that degree of improvement.
+For various degrees of improvement in pain from baseline to study endpoint, Figures 3 and 4 show the fraction of patients achieving that degree of improvement.
 The figures are cumulative, so that patients whose change from baseline is, for example, 50%, are also included at every level of improvement below 50%.
 Patients who did not complete the study were assigned 0% improvement.
 Some patients experienced a decrease in pain as early as week 1, which persisted throughout the study.
@@ -109,7 +109,7 @@ Subgroup analyses did not indicate that there were differences in treatment outc
 
 Study CLBP-2:
 
-Four hundred and four patients were randomized to receive fixed doses of duloxetine daily or a matching placebo (N=59 on duloxetine 20 mg, N=116 on CYMBALTA 60 mg, N=112 on duloxetine 120 mg, N=117 on placebo) and 267 (66%) completed the entire 13week study.
+Four hundred and four patients were randomized to receive fixed doses of duloxetine daily or a matching placebo (N=59 on duloxetine 20 mg, N=116 on duloxetine 60 mg, N=112 on duloxetine 120 mg, N=117 on placebo) and 267 (66%) completed the entire 13week study.
 After 13 weeks of treatment, none of the three duloxetine doses showed a statistically significant difference in pain reduction compared to placebo.
 
 Study CLBP-3:

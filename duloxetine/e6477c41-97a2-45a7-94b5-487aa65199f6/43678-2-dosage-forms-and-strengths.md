@@ -1,4 +1,4 @@
-# 3 DOSAGE FORMS & STRENGTHS
+# 3 DOSAGE FORMS AND STRENGTHS
 
 Duloxetine is available as delayed release capsules:
 

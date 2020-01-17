@@ -4,7 +4,7 @@ Duloxetine Delayed-Release Capsules USP
 
 (doo-LOX-e-teen)
 
-Read this Medication Guide that comes with duloxetine before you start taking it and each time you get a refill.
+Read this Medication Guide before you start taking duloxetine and each time you get a refill.
 There may be new information.
 This information does not take the place of talking to your healthcare provider about your medical condition or treatment.
 
@@ -99,10 +99,11 @@ Before starting duloxetine, tell your healthcare provider if you:
 - have delayed stomach emptying
 - have or had bleeding problems
 - are pregnant or plan to become pregnant.
-  It is not known if duloxetine will harm your unborn baby.
-  Talk to your healthcare provider about the benefits and risks of treating depression or other conditions with duloxetine during pregnancy.
+  Duloxetine may harm your unborn baby.
+  Talk to your healthcare provider about the risk to your unborn baby if you take duloxetine during pregnancy.
+- Tell your healthcare provider right away if you become pregnant or think you are pregnant during treatment with duloxetine.
 - are breastfeeding or plan to breastfeed.
-  Duloxetine can pass into your breast milk.
+  Duloxetine passes into your breast milk and may harm your baby.
   Talk to your healthcare provider about the best way to feed your baby while taking duloxetine.
 
 Tell your healthcare provider about all the medicines that you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements.
@@ -313,4 +314,4 @@ Ascend Laboratories, LLC
 
 Parsippany, NJ 07054
 
-Revised: October,2018 PT2473-01
+Revised: December, 2019 PT2473-02

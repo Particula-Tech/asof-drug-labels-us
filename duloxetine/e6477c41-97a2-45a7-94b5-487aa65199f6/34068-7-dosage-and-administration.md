@@ -1,4 +1,4 @@
-# 2 DOSAGE & ADMINISTRATION
+# 2 DOSAGE AND ADMINISTRATION
 
 Swallow Duloxetine Delayed-Release Capsules USP whole.
 Do not chew or crush.
@@ -46,7 +46,7 @@ There is no evidence that higher doses confer additional benefit, even in patien
 Hepatic Impairment — Avoid use in patients with chronic liver disease or cirrhosis [see Warnings and Precautions (5.14)and Use in Specific Populations (8.9)].
 Severe Renal Impairment — Avoid use in patients with severe renal impairment, GFR <30 mL/min [see Warnings and Precautions (5.14) and Use in Specific Populations (8.10)].
 
-## 2.7 Discontinuing duloxetine
+## 2.7 Discontinuing Duloxetine
 
 Adverse reactions after discontinuation of duloxetine, after abrupt or tapered discontinuation, include: dizziness, headache, nausea, diarrhea, paresthesia, irritability, vomiting, insomnia, anxiety, hyperhidrosis, and fatigue.
 A gradual reduction in dosage rather than abrupt cessation is recommended whenever possible [see Warnings and Precautions (5.7)].
@@ -56,13 +56,13 @@ A gradual reduction in dosage rather than abrupt cessation is recommended whenev
 At least 14 days should elapse between discontinuation of an MAOI intended to treat psychiatric disorders and initiation of therapy with duloxetine.
 Conversely, at least 5 days should be allowed after stopping duloxetine before starting an MAOI intended to treat psychiatric disorders [see Contraindications (4)].
 
-## 2.9 Use of duloxetine with Other MAOIs such as Linezolid or Methylene Blue
+## 2.9 Use of Duloxetine with Other MAOIs such as Linezolid or Methylene Blue
 
 Do not start duloxetine in a patient who is being treated with linezolid or intravenous methylene blue because there is an increased risk of serotonin syndrome.
 In a patient who requires more urgent treatment of a psychiatric condition, other interventions, including hospitalization, should be considered [see Contraindications (4)].
 In some cases, a patient already receiving duloxetine therapy may require urgent treatment with linezolid or intravenous methylene blue.
 If acceptable alternatives to linezolid or intravenous methylene blue treatment are not available and the potential benefits of linezolid or intravenous methylene blue treatment are judged to outweigh the risks of serotonin syndrome in a particular patient, duloxetine should be stopped promptly, and linezolid or intravenous methylene blue can be administered.
 The patient should be monitored for symptoms of serotonin syndrome for 5 days or until 24 hours after the last dose of linezolid or intravenous methylene blue, whichever comes first.
-Therapy with duloxetine A may be resumed 24 hours after the last dose of linezolid or intravenous methylene blue [see Warnings and Precautions (5.4)].
+Therapy with duloxetine may be resumed 24 hours after the last dose of linezolid or intravenous methylene blue [see Warnings and Precautions (5.4)].
 The risk of administering methylene blue by non-intravenous routes (such as oral tablets or by local injection) or in intravenous doses much lower than 1 mg/kg with duloxetine is unclear.
 The clinician should, nevertheless, be aware of the possibility of emergent symptoms of serotonin syndrome with such use [see Warnings and Precautions (5.4)].
