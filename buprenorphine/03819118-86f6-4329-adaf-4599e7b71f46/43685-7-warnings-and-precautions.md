@@ -7,7 +7,7 @@ Prescribe and dispense buprenorphine with appropriate precautions to minimize ri
 Clinical monitoring appropriate to the patient’s level of stability is essential.
 Multiple refills should not be prescribed early in treatment or without appropriate patient follow-up visits [see Drug Abuse and Dependence (9.2)].
 
-## 5.2 Life-Threatening Respiratory and Central Nervous System (CNS) Depression
+## 5.2 Risk of Life-Threatening Respiratory and Central Nervous System (CNS) Depression
 
 Buprenorphine has been associated with life-threatening respiratory depression and death.
 Many, but not all, postmarketing reports regarding coma and death involved misuses by self-injection or were associated with the concomitant use of benzodiazepines or other CNS depressants, including alcohol.

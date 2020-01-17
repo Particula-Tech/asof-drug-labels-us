@@ -10,8 +10,8 @@ Under the Drug Addiction Treatment Act (DATA) codified at 21 U.S.C.
 Buprenorphine Sublingual Tablets are administered sublingually as a single daily dose.
 
 Buprenorphine Sublingual Tablets do not contain naloxone HCl and is preferred for use only during induction.
-Following induction, Buprenorphine and Naloxone Sublingual Film or Buprenorphine and Naloxone Sublingual Tablet is preferred due to the presence of naloxone when clinical use includes unsupervised administration.
-The use of Buprenorphine Sublingual Tablets for unsupervised administration should be limited to those patients who cannot tolerate Buprenorphine and Naloxone Sublingual Film or Buprenorphine and Naloxone Sublingual Tablet; for example, those patients who have been shown to be hypersensitive to naloxone.
+Following induction, buprenorphine and naloxone sublingual film or buprenorphine and naloxone sublingual tablet is preferred due to the presence of naloxone when clinical use includes unsupervised administration.
+The use of Buprenorphine Sublingual Tablets for unsupervised administration should be limited to those patients who cannot tolerate buprenorphine and naloxone sublingual film or buprenorphine and naloxone sublingual tablet; for example, those patients who have been shown to be hypersensitive to naloxone.
 
 Medication should be prescribed in consideration of the frequency of visits.
 Provision of multiple refills is not advised early in treatment or without appropriate patient follow-up visits.
@@ -26,7 +26,7 @@ At treatment initiation, the first dose of Buprenorphine Sublingual Tablets shou
 
 It is recommended that an adequate treatment dose, titrated to clinical effectiveness, should be achieved as rapidly as possible.
 The dosing on the initial day of treatment may be given in 2 mg to 4 mg increments if preferred.
-In some studies, gradual induction over several days led to a high rate of drop-out of buprenorphine patients during the induction period.
+In some studies, gradual induction over several days led to a high rate of dropout of buprenorphine patients during the induction period.
 
 In a one-month study, patients received 8 mg of Buprenorphine Sublingual Tablets on Day 1 and 16 mg Buprenorphine Sublingual Tablets on Day 2.
 From Day 3 onward, patients received either buprenorphine and naloxone sublingual tablet or Buprenorphine Sublingual Tablet at the same buprenorphine dose as Day 2 based on their assigned treatment.
@@ -43,7 +43,7 @@ Withdrawal appears more likely in patients maintained on higher doses of methado
 ## 2.4 Maintenance
 
 - Buprenorphine and naloxone is preferred for maintenance treatment.
-- Where buprenorphine is used in maintenance in patients who cannot tolerate the presence of naloxone, the dosage of buprenorphine should be progressively adjusted in increments / decrements of 2 mg or 4 mg buprenorphine to a level that holds the patient in treatment and suppresses opioid withdrawal signs and symptoms.
+- Where buprenorphine is used in maintenance in patients who cannot tolerate the presence of naloxone, the dosage of buprenorphine should be progressively adjusted in increments/decrements of 2 mg or 4 mg buprenorphine to a level that holds the patient in treatment and suppresses opioid withdrawal signs and symptoms.
 - After treatment induction and stabilization, the maintenance dose of Buprenorphine Sublingual Tablets is generally in the range of 4 mg to 24 mg buprenorphine per day depending on the individual patient.
   The recommended target dosage of Buprenorphine Sublingual Tablets is 16 mg as a single daily dose.
   Dosages higher than 24 mg have not been demonstrated to provide any clinical advantage.

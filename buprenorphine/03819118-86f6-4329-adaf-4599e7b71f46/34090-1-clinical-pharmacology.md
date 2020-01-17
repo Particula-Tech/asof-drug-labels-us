@@ -10,25 +10,25 @@ Subjective Effects
 
 Comparisons of buprenorphine to full opioid agonists such as methadone and hydromorphone suggest that sublingual buprenorphine produces typical opioid agonist effects which are limited by a ceiling effect.
 
-Opioid agonist ceiling-effects were also observed in a double-blind, parallel group, dose-ranging comparison of single doses of buprenorphine sublingual solution (1 mg, 2 mg, 4 mg, 8 mg, 16 mg, or 32 mg), placebo and a full agonist control at various doses.
+Opioid agonist ceiling-effects were also observed in a double-blind, parallel group, dose-ranging comparison of single doses of buprenorphine sublingual solution (1, 2, 4, 8, 16, or 32 mg), placebo and a full agonist control at various doses.
 The treatments were given in ascending dose order at intervals of at least one week to 16 opioid-experienced subjects who were not physically dependent.
 Both active drugs produced typical opioid agonist effects.
 For all measures for which the drugs produced an effect, buprenorphine produced a dose-related response.
 However, in each case, there was a dose that produced no further effect.
 In contrast, the highest dose of the full agonist control always produced the greatest effects.
-Agonist objective rating scores remained elevated for the higher doses of buprenorphine (8 mg to 32 mg) longer than for the lower doses and did not return to baseline until 48 hours after drug administration.
+Agonist objective rating scores remained elevated for the higher doses of buprenorphine (8 to 32 mg) longer than for the lower doses and did not return to baseline until 48 hours after drug administration.
 The onset of effects appeared more rapidly with buprenorphine than with the full agonist control, with most doses nearing peak effect after 100 minutes for buprenorphine compared to 150 minutes for the full agonist control.
 
 Physiologic Effects
 
-Buprenorphine in IV (2 mg, 4 mg, 8 mg, 12 mg and 16 mg) and sublingual (12 mg) doses has been administered to opioid-experienced subjects who were not physically dependent to examine cardiovascular, respiratory and subjective effects at doses comparable to those used for treatment of opioid dependence.
+Buprenorphine in IV (2, 4, 8, 12 and 16 mg) and sublingual (12 mg) doses has been administered to opioid-experienced subjects who were not physically dependent to examine cardiovascular, respiratory and subjective effects at doses comparable to those used for treatment of opioid dependence.
 Compared to placebo, there were no statistically significant differences among any of the treatment conditions for blood pressure, heart rate, respiratory rate, O2 saturation, or skin temperature across time.
 Systolic BP was higher in the 8 mg group than placebo (3-hour AUC values).
 Minimum and maximum effects were similar across all treatments.
 Subjects remained responsive to low voice and responded to computer prompts.
 Some subjects showed irritability, but no other changes were observed.
 
-The respiratory effects of sublingual buprenorphine were compared with the effects of methadone in a double-blind, parallel group, dose ranging comparison of single doses of buprenorphine sublingual solution (1 mg, 2 mg, 4 mg, 8 mg, 16 mg, or 32 mg) and oral methadone (15 mg, 30 mg, 45 mg, or 60 mg) in non-dependent, opioid-experienced volunteers.
+The respiratory effects of sublingual buprenorphine were compared with the effects of methadone in a double-blind, parallel group, dose ranging comparison of single doses of buprenorphine sublingual solution (1, 2, 4, 8, 16, or 32 mg) and oral methadone (15, 30, 45, or 60 mg) in non-dependent, opioid-experienced volunteers.
 In this study, hypoventilation not requiring medical intervention was reported more frequently after buprenorphine doses of 4 mg and higher than after methadone.
 Both drugs decreased O2 saturation to the same degree.
 

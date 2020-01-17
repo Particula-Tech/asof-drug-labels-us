@@ -14,6 +14,4 @@ Dispense in a tight, light-resistant container as defined in USP.
 
 CAUTION: DEA Order Form Required.
 
-Advise patients to store buprenorphine-containing medications safely and out of sight and reach of children and to destroy any unused medication appropriately [see Patient Counseling Information (17)].
-
 Store Buprenorphine Sublingual Tablets securely and dispose of properly [see Patient Counseling Information (17)].
