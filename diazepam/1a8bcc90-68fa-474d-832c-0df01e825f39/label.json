@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "NDA211635"
+  ],
+  "inn": "diazepam",
+  "labeler": "Neurelis, Inc",
+  "package_ndcs": [
+    "72252-505-02",
+    "72252-510-02",
+    "72252-515-04",
+    "72252-520-04"
+  ],
+  "products": [
+    {
+      "form": "SPRAY",
+      "generic": "diazepam",
+      "name": "Valtoco"
+    }
+  ],
+  "setid": "1a8bcc90-68fa-474d-832c-0df01e825f39",
+  "source": "dailymed"
+}
