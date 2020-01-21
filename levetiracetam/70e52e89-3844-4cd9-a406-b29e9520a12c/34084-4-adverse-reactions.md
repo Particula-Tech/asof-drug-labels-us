@@ -18,55 +18,46 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 The adverse reactions that result from levetiracetam injection use include all of those reported for levetiracetam tablets and oral solution.
 Equivalent doses of intravenous (IV) levetiracetam and oral levetiracetam result in equivalent Cmax, Cmin, and total systemic exposure to levetiracetam when the IV levetiracetam is administered as a 15-minute infusion.
 
-The prescriber should be aware that the adverse reaction incidence figures in the following tables, obtained when levetiracetam was added to concurrent AED therapy, cannot be used to predict the frequency of adverse reactions in the course of usual medical practice where patient characteristics and other factors may differ from those prevailing during clinical trials.
-Similarly, the cited frequencies cannot be directly compared with figures obtained from other clinical investigations involving different treatments, uses, or investigators.
-An inspection of these frequencies, however, does provide the prescriber with one basis to estimate the relative contribution of drug and non-drug factors to the adverse reaction incidences in the population studied.
+### Partial-Onset Seizures
 
-### Partial Onset Seizures
+In controlled clinical studies using levetiracetam tablets in adults with partial-onset seizures [see Clinical Studies (14.1)], the most common adverse reactions in adult patients receiving levetiracetam in combination with other AEDs, for events with rates greater than placebo, were somnolence, asthenia, infection and dizziness.
 
-In controlled clinical studies using levetiracetam tablets in adults with partial onset seizures, the most common adverse reactions in adult patients receiving levetiracetam in combination with other AEDs, for events with rates greater than placebo, were somnolence, asthenia, infection and dizziness.
-
-Of the most common adverse reactions in adults experiencing partial onset seizures, asthenia, somnolence and dizziness occurred predominantly during the first 4 weeks of treatment with levetiracetam.
+Of the most common adverse reactions in adults experiencing partial-onset seizures, asthenia, somnolence and dizziness occurred predominantly during the first 4 weeks of treatment with levetiracetam.
 
 Table 2 lists adverse reactions that occurred in at least 1% of adult epilepsy patients receiving levetiracetam tablets in placebo-controlled studies and were numerically more common than in patients treated with placebo.
 In these studies, either levetiracetam or placebo was added to concurrent AED therapy.
 Adverse reactions were usually mild to moderate in intensity.
 
-Table 2: Incidence (%) Of Adverse Reactions In Placebo-Controlled, Add-On Studies In Adults Experiencing Partial Onset Seizures By Body System (Adverse Reactions Occurred In At Least 1% Of Levetiracetam-Treated Patients And Occurred More Frequently Than Placebo-Treated Patients)
+Table 2: Adverse ReactionsAdverse reactions occurred in at least 1% of levetiracetam-treated patients and occurred more frequently than placebo-treated patients In Placebo-Controlled, Adjunctive Studies In Adults Experiencing Partial-Onset Seizures
 
-| Body System/ Adverse Reaction | Levetiracetam (N=769)% | Placebo (N=439)% |
+| Adverse Reaction | Levetiracetam (N=769)% | Placebo (N=439)% |
 | --- | --- | --- |
-| Body as a Whole |  |  |
 | Asthenia | 15 | 9 |
+| Somnolence | 15 | 8 |
 | Headache | 14 | 13 |
 | Infection | 13 | 8 |
-| Pain | 7 | 6 |
-| Digestive System |  |  |
-| Anorexia | 3 | 2 |
-| Nervous System |  |  |
-| Somnolence | 15 | 8 |
 | Dizziness | 9 | 4 |
+| Pain | 7 | 6 |
+| Pharyngitis | 6 | 4 |
 | Depression | 4 | 2 |
 | Nervousness | 4 | 2 |
+| Rhinitis | 4 | 3 |
+| Anorexia | 3 | 2 |
 | Ataxia | 3 | 1 |
 | Vertigo | 3 | 1 |
 | Amnesia | 2 | 1 |
 | Anxiety | 2 | 1 |
+| Cough Increased | 2 | 1 |
+| Diplopia | 2 | 1 |
+| Emotional Lability | 2 | 0 |
 | Hostility | 2 | 1 |
 | Paresthesia | 2 | 1 |
-| Emotional Lability | 2 | 0 |
-| Respiratory System |  |  |
-| Pharyngitis | 6 | 4 |
-| Rhinitis | 4 | 3 |
-| Cough Increased | 2 | 1 |
 | Sinusitis | 2 | 1 |
-| Special Senses |  |  |
-| Diplopia | 2 | 1 |
 
 In controlled adult clinical studies using levetiracetam tablets, 15% of patients receiving levetiracetam and 12% receiving placebo either discontinued or had a dose reduction as a result of an adverse reaction.
 Table 3 lists the most common (>1%) adverse reactions that resulted in discontinuation or dose reduction and that occurred more frequently in levetiracetam-treated patients than in placebo-treated patients.
 
-Table 3: Adverse Reactions that Most Commonly Resulted in Discontinuation or Dose Reduction That Occurred More Frequently in Levetiracetam-Treated Patients in Placebo-Controlled Studies in Adult Patients Experiencing Partial Onset Seizures
+Table 3: Adverse Reactions that Resulted in Discontinuation or Dose Reduction in Placebo-Controlled Studies in Adults Experiencing Partial-Onset Seizures
 
 | Adverse Reaction | Levetiracetam (N=769) % | Placebo (N=439) % |
 | --- | --- | --- |
@@ -84,26 +75,21 @@ Table 4 lists adverse reactions that occurred in at least 5% of juvenile myoclon
 In this study, either levetiracetam or placebo was added to concurrent AED therapy.
 Adverse reactions were usually mild to moderate in intensity.
 
-Table 4: Incidence (%) of Adverse Reactions in a Placebo-Controlled, Add-On Study in Patients with Myoclonic Seizures by Body System (Adverse Reactions Occurred in at Least 5% of Levetiracetam-Treated Patients and Occurred More Frequently than Placebo-Treated Patients)
+Table 4: Adverse ReactionsAdverse reactions occurred in at least 5% of levetiracetam-treated patients and occurred more frequently than placebo-treated patients in a Placebo-Controlled, Adjunctive Study in Patients 12 Years of Age and Older with Myoclonic Seizures
 
-| Body System/ Adverse Reaction | Levetiracetam (N=60) % | Placebo (N=60) % |
+| Adverse Reaction | Levetiracetam (N=60) % | Placebo (N=60) % |
 | --- | --- | --- |
-| Ear and labyrinth disorders |  |  |
-| Vertigo | 5 | 3 |
-| Infections and infestations |  |  |
-| Pharyngitis | 7 | 0 |
-| Influenza | 5 | 2 |
-| Musculoskeletal and connective tissue disorders |  |  |
-| Neck pain | 8 | 2 |
-| Nervous system disorders |  |  |
 | Somnolence | 12 | 2 |
-| Psychiatric disorders |  |  |
+| Neck pain | 8 | 2 |
+| Pharyngitis | 7 | 0 |
 | Depression | 5 | 2 |
+| Influenza | 5 | 2 |
+| Vertigo | 5 | 3 |
 
 In the placebo-controlled study using levetiracetam tablets in patients with JME, 8% of patients receiving levetiracetam and 2% receiving placebo either discontinued or had a dose reduction as a result of an adverse reaction.
 The adverse reactions that led to discontinuation or dose reduction and that occurred more frequently in levetiracetam-treated patients than in placebo-treated patients are presented in Table 5.
 
-Table 5: Adverse Reactions that Resulted in Discontinuation or Dose Reduction That Occurred More Frequently In Levetiracetam-Treated Patients In The Placebo-Controlled Study In Patients with Juvenile Myoclonic Epilepsy
+Table 5: Adverse Reactions that Resulted in Discontinuation or Dose Reduction in Patients with Juvenile Myoclonic Epilepsy
 
 | Adverse Reaction | Levetiracetam (N=60) % | Placebo (N=60) % |
 | --- | --- | --- |
@@ -127,17 +113,13 @@ In the controlled clinical study that included patients with PGTC seizures, the 
 Table 6 lists adverse reactions that occurred in at least 5% of idiopathic generalized epilepsy patients experiencing PGTC seizures treated with levetiracetam and were numerically more common than in patients treated with placebo.
 In this study, either levetiracetam or placebo was added to concurrent AED therapy.
 
-Table 6: Incidence (%) of Adverse Reactions in a Placebo-Controlled, Add-On Study in Patients with PGTC Seizures by MedDRA System Organ Class (Adverse Reactions Occurred in at Least 5% of Levetiracetam-Treated Patients and Occurred More Frequently than Placebo-Treated Patients)
+Table 6: Adverse ReactionsAdverse reactions occurred in at least 5% of levetiracetam-treated patients and occurred more frequently than placebo-treated patients in a Placebo-Controlled, Adjunctive Study in Patients with PGTC Seizures
 
-| Body System/ Adverse Reaction | Levetiracetam (N=79) % | Placebo (N=84) % |
+| Adverse Reaction | Levetiracetam (N=79) % | Placebo (N=84) % |
 | --- | --- | --- |
-| Gastrointestinal disorders |  |  |
-| Diarrhea | 8 | 7 |
-| General disorders and administration site conditions |  |  |
-| Fatigue | 10 | 8 |
-| Infections and infestations |  |  |
 | Nasopharyngitis | 14 | 5 |
-| Psychiatric disorders |  |  |
+| Fatigue | 10 | 8 |
+| Diarrhea | 8 | 7 |
 | Irritability | 6 | 2 |
 | Mood swings | 5 | 1 |
 

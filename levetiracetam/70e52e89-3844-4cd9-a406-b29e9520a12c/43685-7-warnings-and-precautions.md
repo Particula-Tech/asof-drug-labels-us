@@ -3,7 +3,7 @@
 ## 5.1 Psychiatric Reactions
 
 In some patients levetiracetam causes behavioral abnormalities.
-The incidences of behavioral abnormalities in the myoclonic and primary generalized tonic-clonic seizure studies were comparable to those of the adult partial onset seizure studies.
+The incidences of behavioral abnormalities in the myoclonic and primary generalized tonic-clonic seizure studies were comparable to those of the adult partial-onset seizure studies.
 
 A total of 13.3% of adult levetiracetam-treated patients compared to 6.2% of placebo patients experienced non-psychotic behavioral symptoms (reported as aggression, agitation, anger, anxiety, apathy, depersonalization, depression, emotional lability, hostility, irritability, and nervousness).
 
@@ -20,17 +20,17 @@ The above psychiatric signs and symptoms should be monitored.
 ## 5.2 Somnolence and Fatigue
 
 In some patients, levetiracetam causes somnolence and fatigue.
-The incidences of somnolence and fatigue provided below are from controlled adult partial onset seizure studies.
-In general, the incidences of somnolence and fatigue in the myoclonic and primary generalized tonic-clonic studies were comparable to those of the adult partial onset seizure studies.
+The incidences of somnolence and fatigue provided below are from controlled adult partial-onset seizure studies.
+In general, the incidences of somnolence and fatigue in the myoclonic and primary generalized tonic-clonic studies were comparable to those of the adult partial-onset seizure studies.
 
-In controlled trials of adult patients with epilepsy experiencing partial onset seizures, 14.8% of levetiracetam-treated patients reported somnolence, compared to 8.4% of placebo patients.
+In controlled trials of adult patients with epilepsy experiencing partial-onset seizures, 14.8% of levetiracetam-treated patients reported somnolence, compared to 8.4% of placebo patients.
 There was no clear dose response up to 3000 mg/day.
 In a study where there was no titration, about 45% of patients receiving 4000 mg/day reported somnolence.
 The somnolence was considered serious in 0.3% of the treated patients, compared to 0% in the placebo group.
 About 3% of levetiracetam-treated patients discontinued treatment due to somnolence, compared to 0.7% of placebo patients.
 In 1.4% of treated patients and in 0.9% of placebo patients the dose was reduced, while 0.3% of the treated patients were hospitalized due to somnolence.
 
-In controlled trials of adult patients with epilepsy experiencing partial onset seizures, 14.7% of levetiracetam-treated patients reported asthenia, compared to 9.1% of placebo patients.
+In controlled trials of adult patients with epilepsy experiencing partial-onset seizures, 14.7% of levetiracetam-treated patients reported asthenia, compared to 9.1% of placebo patients.
 Treatment was discontinued due to asthenia in 0.8% of treated patients as compared to 0.5% of placebo patients.
 In 0.5% of treated patients and in 0.2% of placebo patients the dose was reduced due to asthenia.
 
@@ -56,7 +56,7 @@ If signs or symptoms suggest SJS/TEN, use of this drug should not be resumed and
 
 ## 5.5 Coordination Difficulties
 
-Coordination difficulties were only observed in the adult partial onset seizure studies.
+Coordination difficulties were only observed in the adult partial-onset seizure studies.
 A total of 3.4% of adult levetiracetam-treated patients experienced coordination difficulties, (reported as either ataxia, abnormal gait, or incoordination) compared to 1.6% of placebo patients.
 A total of 0.4% of patients in controlled trials discontinued levetiracetam treatment due to ataxia, compared to 0% of placebo patients.
 In 0.7% of treated patients and in 0.2% of placebo patients the dose was reduced due to coordination difficulties, while one of the treated patients was hospitalized due to worsening of pre-existing ataxia.
@@ -66,7 +66,8 @@ Patients should be monitored for these signs and symptoms and advised not to dri
 
 ## 5.6 Withdrawal Seizures
 
-Antiepileptic drugs, including levetiracetam, should be withdrawn gradually to minimize the potential of increased seizure frequency.
+As with most antiepileptic drugs, levetiracetam should be withdrawn gradually because of the risk of increased seizure frequency and status epilepticus.
+But if withdrawal is needed because of a serious adverse reaction, rapid discontinuation can be considered.
 
 ## 5.7 Hematologic Abnormalities
 
@@ -75,9 +76,9 @@ Hematologic abnormalities occurred in clinical trials and included decreases in 
 Cases of agranulocytosis, pancytopenia, and thrombocytopenia have been reported in the postmarketing setting.
 A complete blood count is recommended in patients experiencing significant weakness, pyrexia, recurrent infections, or coagulation disorders.
 
-### Partial Onset Seizures
+### Partial-Onset Seizures
 
-In controlled clinical studies using an oral formulation of levetiracetam in adult patients with partial onset seizures, minor but statistically significant decreases compared to placebo in total mean RBC (0.03 × 106/mm3), mean hemoglobin (0.09 g/dL), and mean hematocrit (0.38%), were seen in levetiracetam-treated patients.
+In controlled clinical studies using an oral formulation of levetiracetam in adult patients with partial-onset seizures, minor but statistically significant decreases compared to placebo in total mean RBC (0.03 × 106/mm3), mean hemoglobin (0.09 g/dL), and mean hematocrit (0.38%), were seen in levetiracetam-treated patients.
 
 A total of 3.2% of levetiracetam-treated and 1.8% of placebo-treated patients had at least one possibly significant (≤2.8 × 109/L) decreased WBC, and 2.4% of levetiracetam-treated and 1.4% of placebo-treated patients had at least one possibly significant (≤1.0 × 109/L) decreased neutrophil count.
 Of the levetiracetam-treated patients with a low neutrophil count, all but one rose towards or to baseline with continued treatment.

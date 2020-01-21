@@ -20,14 +20,10 @@ Advise patients that serious dermatological adverse reactions have occurred in p
 Pregnancy
 
 Advise patients to notify their healthcare provider if they become pregnant or intend to become pregnant during levetiracetam therapy.
-Encourage patients to enroll in the North American Antiepileptic Drug (NAAED) pregnancy registry if they become pregnant.
-This registry is collecting information about the safety of antiepileptic drugs during pregnancy.
-To enroll, patients can call the toll free number 1-888-233-2334 [see Use In Specific Populations (8.1)].
+Encourage patients to enroll in the North American Antiepileptic Drug (NAAED) pregnancy registry if they become pregnant [see Use In Specific Populations (8.1)].
 
 Manufactured for: Mylan Institutional LLC Rockford, IL 61103 U.S.A
 
 Manufactured by: InfoRLife SA Campascio, Switzerland
 
-HQ:LEVETIJ:R7
-
-L52USLEVET08
+HQ:LEVETIJ:R8 L52USLEVET09

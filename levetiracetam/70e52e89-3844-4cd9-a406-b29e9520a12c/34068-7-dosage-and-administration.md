@@ -3,9 +3,9 @@
 ## 2.1 General Information – Administration
 
 Levetiracetam in Sodium Chloride Injection is for intravenous use only.
-It is available in three different concentrations single-use 100 mL bag, each containing a different total dosage of levetiracetam: 500 mg (5 mg/mL), 1000 mg (10 mg/mL), or 1500 mg (15 mg/mL).
+It is available in three different concentrations single-dose 100 mL bag, each containing a different total dosage of levetiracetam: 500 mg (5 mg/mL), 1000 mg (10 mg/mL), or 1500 mg (15 mg/mL).
 
-A single 100 mL bag should be administered intravenously over a 15-minute IV infusion period.
+A single-dose 100 mL bag should be administered intravenously over a 15-minute IV infusion period.
 
 Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration whenever solution and container permit.
 
@@ -16,7 +16,7 @@ Any unused portion of the Levetiracetam in Sodium Chloride Injection contents sh
 
 Levetiracetam can be initiated with either intravenous or oral administration.
 
-### Partial Onset Seizures
+### Partial-Onset Seizures
 
 In clinical trials of oral levetiracetam, daily doses of 1000 mg, 2000 mg, and 3000 mg, given as twice-daily dosing, were shown to be effective.
 Although in some studies there was a tendency toward greater response with higher dose [see Clinical Studies (14.1)], a consistent increase in response with increased dose has not been shown.
@@ -73,3 +73,7 @@ Do not store or reuse.
 Levetiracetam in Sodium Chloride Injection is found to be physically compatible and chemically stable for at least 24 hours when mixed with lorazepam, diazepam, and valproate sodium and stored at controlled room temperature 15° to 30°C (59° to 86°F).
 
 There are no data to support the physical compatibility of levetiracetam injection with antiepileptic drugs that are not listed above.
+
+## 2.7 Discontinuation of Levetiracetam
+
+Avoid abrupt withdrawal from levetiracetam in order to reduce the risk of increased seizure frequency and status epilepticus [see Warnings and Precautions (5.6)].
