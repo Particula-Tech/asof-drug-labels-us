@@ -32,12 +32,12 @@ Ultravate Cream should not be used in the treatment of rosacea or perioral derma
 
 Patients using Ultravate Cream should receive the following information and instructions:
 
-1. The medication is to be used as directed by the physician.
+1. 1.The medication is to be used as directed by the physician.
    It is for external use only.
    Avoid contact with the eyes.
-2. The medication should not be used for any disorder other than that for which it was prescribed.
-3. The treated skin area should not be bandaged, otherwise covered or wrapped, so as to be occlusive unless directed by the physician.
-4. Patients should report to their physician any signs of local adverse reactions.
+2. 2.The medication should not be used for any disorder other than that for which it was prescribed.
+3. 3.The treated skin area should not be bandaged, otherwise covered or wrapped, so as to be occlusive unless directed by the physician.
+4. 4.Patients should report to their physician any signs of local adverse reactions.
 
 ## Laboratory Tests
 
