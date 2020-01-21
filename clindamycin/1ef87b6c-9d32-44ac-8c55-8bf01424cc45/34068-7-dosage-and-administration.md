@@ -11,6 +11,7 @@ Severe infections: 13–16 mg/kg/day (6.5–8 mg/lb/day) divided into 3 or 4 equ
 More severe infections: 17–25 mg/kg/day (8.5–12.5 mg/lb/day) divided into 3 or 4 equal doses.
 
 In pediatric patients weighing 10 kg or less, ½ teaspoon (37.5 mg) three times a day should be considered the minimum recommended dose.
+Clindamycin should be dosed based on total body weight regardless of obesity.
 
 Serious infections due to anaerobic bacteria are usually treated with CLEOCIN PHOSPHATE® Sterile Solution.
 However, in clinically appropriate circumstances, the physician may elect to initiate treatment or continue treatment with CLEOCIN PEDIATRIC.

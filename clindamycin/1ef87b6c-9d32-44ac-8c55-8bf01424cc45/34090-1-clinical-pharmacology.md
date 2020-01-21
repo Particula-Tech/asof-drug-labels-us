@@ -31,16 +31,20 @@ The average serum half-life after doses of CLEOCIN PEDIATRIC is approximately tw
 
 ### Special Populations
 
-#### Renal Impairment
+#### Patients with Renal Impairment
 
 Serum half-life of clindamycin is increased slightly in patients with markedly reduced renal function.
 Hemodialysis and peritoneal dialysis are not effective in removing clindamycin from the serum.
 
-#### Use in Elderly
+#### Elderly Patients
 
 Pharmacokinetic studies in elderly volunteers (61-79 years) and younger adults (18-39 years) indicate that age alone does not alter clindamycin pharmacokinetics (clearance, elimination half-life, volume of distribution, and area under the serum concentration-time curve) after IV administration of clindamycin phosphate.
 After oral administration of clindamycin hydrochloride, elimination half-life is increased to approximately 4.0 hours (range 3.4 – 5.1 h) in the elderly compared to 3.2 hours (range 2.1 – 4.2 h) in younger adults; administration of clindamycin palmitate HCl resulted in a similar elimination half-life value of about 4.5 hours in elderly subjects.
 However, the extent of absorption is not different between age groups and no dosage alteration is necessary for the elderly with normal hepatic function and normal (age-adjusted) renal function1.
+
+#### Obese Children and Obese Young Adults
+
+An analysis of pharmacokinetic data in obese children and obese young adults (2–20 years) demonstrated that clindamycin clearance and volume of distribution normalized by total body weight in these patients are comparable to those in children (and young adults) with normal body weight.
 
 ## Microbiology
 
