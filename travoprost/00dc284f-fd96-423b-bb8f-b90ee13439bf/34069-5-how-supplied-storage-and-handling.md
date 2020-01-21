@@ -1,8 +1,8 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-Travoprost Ophthalmic Solution, USP (Ionic Buffered Solution) 0.004% is a clear colorless, sterile, aqueous solution of travoprost, USP (0.04 mg/mL).
+Travoprost ophthalmic solution USP, (ionic buffered solution) 0.004% is a clear colorless, sterile, aqueous solution of travoprost, USP (0.04 mg/mL).
 
-Travoprost ophthalmic solution (Ionic Buffered Solution) is supplied as a 2.5 mL or 5 mL solution in a 5 mL natural colored low density polyethylene bottle with a turquoise, high density polyethylene, tamper evident screw cap and a low density polyethylene nozzle.
+Travoprost ophthalmic solution, USP (ionic buffered solution) is supplied as a 2.5 mL or 5 mL solution in a 5 mL natural colored low density polyethylene bottle with a turquoise, high density polyethylene, tamper evident screw cap and a low density polyethylene nozzle.
 
 2.5 mL fill
 
