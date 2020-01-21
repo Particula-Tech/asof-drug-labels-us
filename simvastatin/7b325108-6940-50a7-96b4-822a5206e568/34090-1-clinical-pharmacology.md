@@ -41,6 +41,8 @@ For example, cyclosporine has been shown to increase the AUC of statins; althoug
 The risk of myopathy is increased by high levels of HMG-CoA reductase inhibitory activity in plasma.
 Inhibitors of CYP3A4 can raise the plasma levels of HMG-CoA reductase inhibitory activity and increase the risk of myopathy [see Warnings and Precautions (5.1) and Drug Interactions (7.1)].
 
+TABLE 3:Effect of Coadministered Drugs or Grapefruit Juice on Simvastatin Systemic Exposure
+
 In a study of 12 healthy volunteers, simvastatin at the 80-mg dose had no effect on the metabolism of the probe cytochrome P450 isoform 3A4 (CYP3A4) substrates midazolam and erythromycin.
 This indicates that simvastatin is not an inhibitor of CYP3A4, and, therefore, is not expected to affect the plasma levels of other drugs metabolized by CYP3A4.
 

@@ -70,3 +70,11 @@ Caution should be exercised when simvastatin is administered to patients with se
 ## 8.7 Hepatic Impairment
 
 Simvastatin is contraindicated in patients with active liver disease which may include unexplained persistent elevations in hepatic transaminase levels [see Contraindications (4) and Warnings and Precautions (5.2)].
+
+## 8.8 Chinese Patients
+
+In a clinical trial in which patients at high risk of cardiovascular disease were treated with simvastatin40 mg/day (median follow-up 3.9 years), the incidence of myopathy was approximately 0.05% for nonChinese patients (n=7367) compared with 0.24% for Chinese patients (n=5468).
+The incidence ofmyopathy for Chinese patients on simvastatin 40 mg/day or ezetimibe/simvastatin 10/40 mg/daycoadministered with extended-release niacin 2 g/day was 1.24%.
+
+Chinese patients may be at higher risk for myopathy, monitor patients appropriately.
+Coadministrationof simvastatin with lipid-modifying doses (≥1 g/day niacin) of niacin-containing products is not recommended in Chinese patients [see Warnings and Precautions (5.1), Drug Interactions (7.4)].
