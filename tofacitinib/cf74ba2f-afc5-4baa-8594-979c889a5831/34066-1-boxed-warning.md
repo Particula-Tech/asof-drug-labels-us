@@ -31,7 +31,8 @@ Epstein Barr Virus-associated post-transplant lymphoproliferative disorder has b
 
 THROMBOSIS
 
-Thrombosis, including pulmonary embolism, deep venous thrombosis, and arterial thrombosis, has been observed at an increased incidence in rheumatoid arthritis patients who were 50 years of age and older with at least one CV risk factor treated with XELJANZ 10 mg twice daily compared to XELJANZ 5 mg twice daily or TNF blockers in a large, ongoing postmarketing safety study.
+Thrombosis, including pulmonary embolism, deep venous thrombosis, and arterial thrombosis have occurred in patients treated with XELJANZ and other Janus kinase inhibitors used to treat inflammatory conditions.
+Rheumatoid arthritis patients who were 50 years of age and older with at least one CV risk factor treated with XELJANZ 10 mg twice daily compared to XELJANZ 5 mg twice daily or TNF blockers in a large, ongoing postmarketing safety study had an observed increase in incidence of these events.
 Many of these events were serious and some resulted in death.
 Avoid XELJANZ/XELJANZ XR in patients at risk.
 Discontinue XELJANZ/XELJANZ XR and promptly evaluate patients with symptoms of thrombosis [see Warnings and Precautions (5.4)].

@@ -21,8 +21,6 @@ Although other doses of XELJANZ have been studied, the recommended dose of XELJA
 The recommended dose for XELJANZ XR is 11 mg once daily.
 A dosage of XELJANZ 10 mg twice daily or XELJANZ XR 22 mg once daily is not a recommended regimen for the treatment of rheumatoid arthritis [see Dosage and Administration (2.2)].
 
-The recommended dose for XELJANZ XR is 11 mg once daily.
-
 The following data includes two Phase 2 and five Phase 3 double-blind, controlled, multicenter trials.
 In these trials, patients were randomized to doses of XELJANZ 5 mg twice daily (292 patients) and 10 mg twice daily (306 patients) monotherapy, XELJANZ 5 mg twice daily (1044 patients) and 10 mg twice daily (1043 patients) in combination with DMARDs (including methotrexate) and placebo (809 patients).
 All seven protocols included provisions for patients taking placebo to receive treatment with XELJANZ at Month 3 or Month 6 either by patient response (based on uncontrolled disease activity) or by design, so that adverse events cannot always be unambiguously attributed to a given treatment.

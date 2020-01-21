@@ -54,13 +54,13 @@ The primary endpoints were mean change from baseline in van der Heijde-modified 
 
 Clinical Response
 
-The percentages of XELJANZ-treated patients achieving ACR20, ACR50, and ACR70 responses in Studies RA-I, IV, and V are shown in Table 7.
+The percentages of XELJANZ-treated patients achieving ACR20, ACR50, and ACR70 responses in Studies RA-I, IV, and V are shown in Table 8.
 Similar results were observed with Studies RA-II and III.
 In trials RA-I through V, patients treated with 5 mg twice daily XELJANZ had higher ACR20, ACR50, and ACR70 response rates versus placebo, with or without background DMARD treatment, at Month 3 and Month 6.
 Higher ACR20 response rates were observed within 2 weeks compared to placebo.
 In the 12-month trials, ACR response rates in XELJANZ-treated patients were consistent at 6 and 12 months.
 
-Table 7: Proportion of Patients with an ACR Response
+Table 8: Proportion of Patients with an ACR Response
 
 |  | 122 | 243 | 160 | 321 | 132 | 133 |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -78,9 +78,9 @@ Table 7: Proportion of Patients with an ACR Response
 | Month 3 | 6% | 15% | 3% | 11% | 2% | 14% |
 | Month 6 | NA | 22% | 1% | 14% | NA | 16% |
 
-In Study RA-IV, a greater proportion of patients treated with XELJANZ 5 mg twice daily plus MTX achieved a low level of disease activity as measured by a DAS28-4(ESR) less than 2.6 at 6 months compared to those treated with MTX alone (Table 8).
+In Study RA-IV, a greater proportion of patients treated with XELJANZ 5 mg twice daily plus MTX achieved a low level of disease activity as measured by a DAS28-4(ESR) less than 2.6 at 6 months compared to those treated with MTX alone (Table 9).
 
-Table 8: Proportion of Patients with DAS28-4(ESR) Less Than 2.6 with Number of Residual Active Joints
+Table 9: Proportion of Patients with DAS28-4(ESR) Less Than 2.6 with Number of Residual Active Joints
 
 |  | 160 | 321 |
 | --- | --- | --- |
@@ -92,10 +92,10 @@ Table 8: Proportion of Patients with DAS28-4(ESR) Less Than 2.6 with Number of R
 | Of responders, proportion with 2 active joints (n) | 0 | 32% (6) |
 | Of responders, proportion with 3 or more active joints (n) | 50% (1) | 21% (4) |
 
-The results of the components of the ACR response criteria for Study RA-IV are shown in Table 9.
+The results of the components of the ACR response criteria for Study RA-IV are shown in Table 10.
 Similar results were observed for XELJANZ in Studies RA-I, II, III, V, and VI.
 
-Table 9: Components of ACR Response at Month 3
+Table 10: Components of ACR Response at Month 3
 
 | Component (mean) Data shown is mean (Standard Deviation) at Month 3. | Baseline | Month 3 | Baseline | Month 3 |
 | --- | --- | --- | --- | --- |
@@ -131,7 +131,7 @@ Analyses of erosion and joint space narrowing scores were consistent with the ov
 
 In the MTX group, 55% of patients experienced no radiographic progression at Month 6 compared to 73% of patients treated with XELJANZ 5 mg twice daily.
 
-Table 10: Radiographic Changes at Months 6 and 12
+Table 11: Radiographic Changes at Months 6 and 12
 
 |  | Study IV |  |  |
 | --- | --- | --- | --- |
@@ -182,9 +182,9 @@ At the Month 3 visit, placebo patients were advanced in a blinded fashion to a p
 
 Clinical Response
 
-At Month 3, patients treated with XELJANZ 5 mg twice daily had higher (p≤0.05) response rates versus placebo for ACR20, ACR50, and ACR70 in Study PsA-I and for ACR20 and ACR50 in Study PsA-II; ACR70 response rates were also higher for XELJANZ 5 mg twice daily versus placebo in Study PsA-II, although the differences versus placebo were not statistically significant (p>0.05) (Tables 11 and 12).
+At Month 3, patients treated with XELJANZ 5 mg twice daily had higher (p≤0.05) response rates versus placebo for ACR20, ACR50, and ACR70 in Study PsA-I and for ACR20 and ACR50 in Study PsA-II; ACR70 response rates were also higher for XELJANZ 5 mg twice daily versus placebo in Study PsA-II, although the differences versus placebo were not statistically significant (p>0.05) (Tables 12 and 13).
 
-Table 11: Proportion of Patients with an ACR Response in Study PsA-ISubjects received one concomitant nonbiologic DMARD.
+Table 12: Proportion of Patients with an ACR Response in Study PsA-ISubjects received one concomitant nonbiologic DMARD.
 [Nonbiologic DMARD Inadequate Responders (TNF Blocker-Naïve)]
 
 |  | Response Rate | Response Rate | Difference (%) 95% CI from Placebo |
@@ -197,7 +197,7 @@ Table 11: Proportion of Patients with an ACR Response in Study PsA-ISubjects rec
 | ACR70 | 5% | 17% | 12.1 (3.9, 20.2) |
 | Subjects with missing data were treated as non-responders. |  |  |  |
 
-Table 12: Proportion of Patients with an ACR Response in Study PsA-IISubjects received one concomitant nonbiologic DMARD.
+Table 13: Proportion of Patients with an ACR Response in Study PsA-IISubjects received one concomitant nonbiologic DMARD.
 (TNF Blocker Inadequate Responders)
 
 |  | Response Rate | Response Rate | Difference (%) 95% CI from Placebo |
@@ -210,9 +210,9 @@ Table 12: Proportion of Patients with an ACR Response in Study PsA-IISubjects re
 | ACR70 | 10% | 17% | 6.9 (-1.3, 15.1) |
 | Subjects with missing data were treated as non-responders. |  |  |  |
 
-Improvements from baseline in the ACR response criteria components for both studies are shown in Table 13.
+Improvements from baseline in the ACR response criteria components for both studies are shown in Table 14.
 
-Table 13: Components of ACR Response at Baseline and Month 3 in Studies PsA-I and PsA-II
+Table 14: Components of ACR Response at Baseline and Month 3 in Studies PsA-I and PsA-II
 
 | N at Baseline | 105 | 107 | 131 | 131 |
 | --- | --- | --- | --- | --- |
@@ -255,9 +255,9 @@ In patients with active psoriatic arthritis evidence of benefit in enthesitis an
 Physical Function
 
 Improvement in physical functioning was measured by the HAQ-DI.
-Patients receiving XELJANZ 5 mg twice daily demonstrated significantly greater improvement (p ≤0.05) from baseline in physical functioning compared to placebo at Month 3 (Table 14).
+Patients receiving XELJANZ 5 mg twice daily demonstrated significantly greater improvement (p ≤0.05) from baseline in physical functioning compared to placebo at Month 3 (Table 15).
 
-Table 14: Change from Baseline in HAQ-DI in Studies PsA-I and PsA-II
+Table 15: Change from Baseline in HAQ-DI in Studies PsA-I and PsA-II
 
 | NN is the total number of subjects in the statistical analysis. | 104 | 107 | 131 | 129 |
 | --- | --- | --- | --- | --- |
@@ -302,9 +302,9 @@ The baseline clinical characteristics were generally similar between the XELJANZ
 
 The primary endpoint of Study UC-I and Study UC-II was the proportion of patients in remission at Week 8, and the key secondary endpoint was the proportion of patients with improvement of endoscopic appearance of the mucosa at Week 8.
 
-The efficacy results of Study UC-I and Study UC-II based on the centrally read endoscopy results are shown in Table 15.
+The efficacy results of Study UC-I and Study UC-II based on the centrally read endoscopy results are shown in Table 16.
 
-Table 15: Proportion of Patients Meeting Primary and Key Secondary Efficacy Endpoints at Week 8 (Induction Study UC-I and Study UC-II, Central Endoscopy Read)
+Table 16: Proportion of Patients Meeting Primary and Key Secondary Efficacy Endpoints at Week 8 (Induction Study UC-I and Study UC-II, Central Endoscopy Read)
 
 | Study UC-I |  |  |  |
 | --- | --- | --- | --- |
@@ -371,9 +371,9 @@ At baseline of Study UC-III:
 The primary endpoint was the proportion of patients in remission at Week 52.
 There were 2 key secondary endpoints: the proportion of patients with improvement of endoscopic appearance at Week 52, and the proportion of patients with sustained corticosteroid-free remission at both Week 24 and Week 52 among patients in remission at baseline of Study UC-III.
 
-The efficacy results of Study UC-III based on the centrally read endoscopy results are summarized in Table 16.
+The efficacy results of Study UC-III based on the centrally read endoscopy results are summarized in Table 17.
 
-Table 16: Proportion of Patients Meeting Primary and Key Secondary Efficacy Endpoints in Maintenance Study UC-III (Central Endoscopy Read)
+Table 17: Proportion of Patients Meeting Primary and Key Secondary Efficacy Endpoints in Maintenance Study UC-III (Central Endoscopy Read)
 
 | Endpoint | Placebo | XELJANZ 5 mg Twice Daily | XELJANZ 10 mg Twice Daily | XELJANZ 5 mg Twice Daily | XELJANZ 10 mg Twice Daily |
 | --- | --- | --- | --- | --- | --- |

@@ -35,9 +35,19 @@ Steady state concentrations are achieved in 24–48 hours with negligible accumu
 
 XELJANZ XR
 
-Following oral administration of XELJANZ XR, peak plasma concentrations are reached at 4 hours and half-life is about 6 hours.
+Following oral administration of XELJANZ XR, peak plasma concentrations are reached at 4 hours and half-life is about 6 to 8 hours.
 Steady state concentrations are achieved within 48 hours with negligible accumulation after once daily administration.
-AUC and Cmax of tofacitinib for XELJANZ XR 11 mg administered once daily are equivalent to those of XELJANZ 5 mg administered twice daily.
+
+Table 6: Pharmacokinetic Parameters of XELJANZ/ XELJANZ XR Following Multiple Oral Dosing
+
+| Dosing Regimen | 5 mg Twice Daily | 10 mg Twice Daily | 11 mg Once Daily | 22 mg Once Daily |
+| --- | --- | --- | --- | --- |
+| PK ParametersValues represent the geometric mean, except T max, for which is the median (range) is shown. (CV%) | XELJANZ |  | XELJANZ XR |  |
+| AUC24 (ng.hr/mL) | 263.4 (15) | 539.6 (22) | 269.0 (18) | 596.6 (19) |
+| Cmax (ng/mL) | 42.7 (26) | 84.7 (18) | 38.2 (15) | 83.8 (25) |
+| Cmin (ng/mL) | 1.41 (40) | 3.10 (54) | 1.07 (69) | 3.11 (43) |
+| Tmax (hours) | 1.0 (0.5 to14.0Values beyond 12 hours were after the evening dose which was administered 12 hours after the morning dose of twice-daily XELJANZ) | 0.8 (0.5 to 14.0) | 4.0 (3.0 to 4.0) | 4.0 (2.0 to 4.0) |
+| Abbreviations: AUC24 = area under the concentration-time profile from time 0 to 24 hours; Cmax = maximum plasma concentration; Cmin = minimum plasma concentration; Tmax = time to Cmax; CV = Coefficient of variation. |  |  |  |  |
 
 Absorption
 
@@ -49,7 +59,8 @@ In clinical trials, XELJANZ was administered without regard to meals [see Dosage
 
 XELJANZ XR
 
-Coadministration of XELJANZ XR with a high-fat meal resulted in no changes in AUC while Cmax was increased by 27% and Tmax was extended by approximately 1 hour.
+Coadministration of XELJANZ XR 11 and 22 mg with a high-fat meal resulted in no changes in AUC while Cmax was increased by 27% and 19% respectively.
+Tmax was extended by approximately 1 hour for both XELJANZ XR 11 and 22 mg.
 
 Distribution
 
@@ -67,9 +78,9 @@ The pharmacologic activity of tofacitinib is attributed to the parent molecule.
 Pharmacokinetics in Patient Populations
 
 Population pharmacokinetic analyses indicated that pharmacokinetic characteristics were similar between patients with rheumatoid arthritis, psoriatic arthritis, and UC.
-The coefficient of variation (%) in AUC of tofacitinib were generally similar across different disease patients, ranging from 22% to 34% (Table 6).
+The coefficient of variation (%) in AUC of tofacitinib were generally similar across different disease patients, ranging from 22% to 34% (Table 7).
 
-Table 6.
+Table 7.
 XELJANZ Exposure in Patient Populations at 5 mg Twice Daily and 10 mg Twice Daily Doses
 
 | Rheumatoid Arthritis | Psoriatic Arthritis | Ulcerative Colitis | Ulcerative Colitis |  |

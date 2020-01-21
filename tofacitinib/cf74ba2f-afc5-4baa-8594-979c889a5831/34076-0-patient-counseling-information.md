@@ -8,7 +8,7 @@ Inform patients that XELJANZ/XELJANZ XR may lower the ability of their immune sy
 Advise patients not to start taking XELJANZ/XELJANZ XR if they have an active infection.
 Instruct patients to contact their healthcare provider immediately during treatment if symptoms suggesting infection appear in order to ensure rapid evaluation and appropriate treatment [see Warnings and Precautions (5.1)].
 
-Advise patients that the risk of herpes zoster, some cases of which can be serious, is increased in patients treated with XELJANZ [see Warnings and Precautions (5.1)].
+Advise patients that the risk of herpes zoster, some cases of which can be serious, is increased in patients treated with XELJANZ/XELJANZ XR [see Warnings and Precautions (5.1)].
 
 Malignancies and Lymphoproliferative Disorders
 

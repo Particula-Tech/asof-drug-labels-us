@@ -15,6 +15,6 @@ XELJANZ/XELJANZ XR is indicated for the treatment of adult patients with active 
 
 Ulcerative Colitis
 
-XELJANZ is indicated for the treatment of adult patients with moderately to severely active ulcerative colitis (UC), who have an inadequate response or who are intolerant to TNF blockers.
+XELJANZ/XELJANZ XR is indicated for the treatment of adult patients with moderately to severely active ulcerative colitis (UC), who have an inadequate response or who are intolerant to TNF blockers.
 
-- Limitations of Use: Use of XELJANZ in combination with biological therapies for UC or with potent immunosuppressants such as azathioprine and cyclosporine is not recommended.
+- Limitations of Use: Use of XELJANZ/XELJANZ XR in combination with biological therapies for UC or with potent immunosuppressants such as azathioprine and cyclosporine is not recommended.

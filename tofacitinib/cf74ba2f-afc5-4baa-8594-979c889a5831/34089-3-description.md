@@ -16,5 +16,9 @@ XELJANZ is supplied for oral administration as a 10 mg blue round, immediate-rel
 Each 10 mg tablet of XELJANZ contains 10 mg tofacitinib (equivalent to 16.16 mg of tofacitinib citrate) and the following inactive ingredients: croscarmellose sodium, FD&C Blue #1/Brilliant Blue FCF Aluminum Lake, FD&C Blue #2/Indigo Carmine Aluminum Lake, HPMC 2910/Hypromellose 6cP, lactose monohydrate, macrogol/PEG3350, magnesium stearate, microcrystalline cellulose, titanium dioxide, and triacetin.
 
 XELJANZ XR is supplied for oral administration as a 11 mg pink, oval, extended-release film-coated tablet with a drilled hole at one end of the tablet band.
-Each 11 mg tablet of XELJANZ XR contains 11 mg tofacitinib (equivalent to 17.77 mg tofacitinib citrate) and the following inactive ingredients: cellulose acetate, copovidone, hydroxyethyl cellulose, hydroxypropylcellulose, HPMC 2910/Hypromellose, magnesium stearate, red iron oxide, sorbitol, titanium dioxide and triacetin.
+Each 11 mg tablet of XELJANZ XR contains 11 mg tofacitinib (equivalent to 17.77 mg tofacitinib citrate) and the following inactive ingredients: cellulose acetate, copovidone, hydroxyethyl cellulose, hydroxypropyl cellulose, HPMC 2910/Hypromellose, magnesium stearate, red iron oxide, sorbitol, titanium dioxide and triacetin.
 Printing ink contains, ammonium hydroxide, ferrosoferric oxide/black iron oxide, propylene glycol, and shellac glaze.
+
+XELJANZ XR is supplied for oral administration as a 22 mg beige, oval, extended-release film-coated tablet with a drilled hole at one end of the tablet band.
+Each 22 mg tablet of XELJANZ XR contains 22 mg tofacitinib (equivalent to 35.54 mg tofacitinib citrate) and the following inactive ingredients: cellulose acetate, copovidone, FD&C Blue #2 Aluminum Lake, hydroxyethyl cellulose, hydroxypropyl cellulose, HPMC 2910/Hypromellose, magnesium stearate, red iron oxide, sorbitol, titanium dioxide, triacetin, and yellow iron oxide.
+Printing ink contains ammonium hydroxide, ferrosoferric oxide/black iron oxide, propylene glycol, and shellac glaze.

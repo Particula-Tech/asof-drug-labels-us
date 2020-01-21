@@ -85,7 +85,8 @@ In the UC population, treatment with XELJANZ 10 mg twice daily was associated wi
 
 ## 5.4 Thrombosis
 
-Thrombosis, including pulmonary embolism, deep venous thrombosis, and arterial thrombosis, was observed at an increased incidence in patients with rheumatoid arthritis 50 years of age and older with at least one CV risk factor treated with XELJANZ 10 mg twice daily compared to XELJANZ 5 mg twice daily or TNF blockers in a large, ongoing postmarketing study.
+Thrombosis, including pulmonary embolism, deep venous thrombosis, and arterial thrombosis, have occurred in patients treated with XELJANZ and other Janus kinase (JAK) inhibitors used to treat inflammatory conditions.
+Patients with rheumatoid arthritis 50 years of age and older with at least one CV risk factor treated with XELJANZ 10 mg twice daily compared to XELJANZ 5 mg twice daily or TNF blockers in a large, ongoing postmarketing study had an observed increase in incidence of these events.
 Many of these events were serious and some resulted in death [see Warnings and Precautions (5.2)].
 
 A dosage of XELJANZ 10 mg twice daily or XELJANZ XR 22 mg once daily is not recommended for the treatment of RA or PsA [see Dosage and Administration (2.2)].

@@ -99,9 +99,7 @@ As there is a higher incidence of infection in diabetic population in general, c
 Moderate and Severe Impairment
 
 XELJANZ-treated patients with moderate or severe renal impairment had greater tofacitinib blood concentrations than XELJANZ-treated patients with normal renal function.
-Therefore, dosage adjustment of XELJANZ is recommended in patients with moderate or severe renal impairment (including but not limited to those with severe insufficiency who are undergoing hemodialysis).
-
-- Rheumatoid arthritis and psoriatic arthritis patients with moderate or severe renal impairment receiving XELJANZ XR should switch to XELJANZ and adjust the dosage [see Dosage and Administration (2.2)].
+Therefore, dosage adjustment of XELJANZ/XELJANZ XR is recommended in patients with moderate or severe renal impairment (including but not limited to those with severe insufficiency who are undergoing hemodialysis) [see Dosage and Administration (2.2, 2.3)].
 
 Mild impairment
 
@@ -117,9 +115,7 @@ Moderate Impairment
 
 XELJANZ-treated patients with moderate hepatic impairment had greater tofacitinib blood concentration than XELJANZ-treated patients with normal hepatic function [see Clinical Pharmacology (12.3)].
 Higher blood concentrations may increase the risk of some adverse reactions.
-Therefore, dosage adjustment of XELJANZ is recommended in patients with moderate hepatic impairment [see Dosage and Administration (2.2, 2.3)].
-
-- Rheumatoid arthritis and psoriatic arthritis patients receiving XELJANZ XR should switch to XELJANZ and adjust the dosage [see Dosage and Administration (2.2)].
+Therefore, dosage adjustment of XELJANZ/XELJANZ XR is recommended in patients with moderate hepatic impairment [see Dosage and Administration (2.2, 2.3)].
 
 Mild Impairment
 
