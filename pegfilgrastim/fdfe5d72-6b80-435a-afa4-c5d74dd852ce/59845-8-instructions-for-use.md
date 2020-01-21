@@ -8,14 +8,17 @@
 | --- |
 | READ THE FOLLOWING INSTRUCTIONS BEFORE USING NEULASTA ONPRO KIT |
 | Warning: Do not use Neulasta Onpro kit to deliver any other drug product. |
-| See Prescribing Information for information on Neulasta. The on-body injector is for adult patients only. The on-body injector is not recommended for patients with Hematopoietic Subsyndrome of Acute Radiation Syndrome. Store Neulasta Onpro kit in the refrigerator at 36°F to 46°F (2°C to 8°C) until ready for use. If Neulasta Onpro kit is stored at room temperature for more than 12 hours, do not use. Start again with a new Neulasta Onpro kit. Keep the prefilled syringe in Neulasta Onpro kit carton until use to protect from light. For patients who have had severe skin reactions to acrylic adhesives, consider the benefit:risk profile before administering pegfilgrastim via the on-body injector for Neulasta. The on-body injector should be applied to intact, non-irritated skin on the abdomen or back of the arm. The back of the arm may only be used if there is a caregiver available to monitor the status of the on-body injector. The on-body injector has a self-adhesive backing to attach it to the skin. Do not use additional materials to hold it in place as this could dislodge the cannula and lead to a missed or incomplete dose of Neulasta. Do not freeze Neulasta Onpro kit. Do not shake the prefilled syringe. Do not separate the components of Neulasta Onpro kit until ready for use. Do not modify the on-body injector. Do not warm Neulasta Onpro kit components using a heat source. Do not use Neulasta Onpro kit if expiry date on the carton or any of Neulasta Onpro kit components has passed. Do not use if the name Neulasta does not appear on Neulasta Onpro kit carton. Do not attempt to reapply the on-body injector. Do not use if either the on-body injector or prefilled syringe is dropped. Start again with a new Neulasta Onpro kit. |
+| See Prescribing Information for information on Neulasta. The on-body injector is for adult patients only. The on-body injector is not recommended for patients with Hematopoietic Subsyndrome of Acute Radiation Syndrome. Store Neulasta Onpro kit in the refrigerator at 36°F to 46°F (2°C to 8°C) until ready for use. If Neulasta Onpro kit is stored at room temperature for more than 12 hours, do not use. Start again with a new Neulasta Onpro kit. Keep the prefilled syringe in Neulasta Onpro kit carton until use to protect from light. For patients who have had severe skin reactions to acrylic adhesives, consider the benefit:risk profile before administering pegfilgrastim via the on-body injector for Neulasta. The on-body injector should be applied to intact, non-irritated skin on the abdomen or back of the arm. The back of the arm may only be used if there is a caregiver available to monitor the status of the on-body injector. The on-body injector has a self-adhesive backing to attach it to the skin. Do not use other materials to hold it in place that could cover audio/visual indicators or compress the on-body injector against the patient’s skin, as this could dislodge the cannula and lead to a missed or incomplete dose of Neulasta. Do not freeze Neulasta Onpro kit. Do not shake the prefilled syringe. Do not separate the components of Neulasta Onpro kit until ready for use. Do not modify the on-body injector. Do not warm Neulasta Onpro kit components using a heat source. Do not use Neulasta Onpro kit if expiry date on the carton or any of Neulasta Onpro kit components has passed. Do not use if the name Neulasta does not appear on Neulasta Onpro kit carton. Do not attempt to reapply the on-body injector. Do not use if either the on-body injector or prefilled syringe is dropped. Start again with a new Neulasta Onpro kit. |
 | For all questions, call Amgen at 1-800-772-6436. If a patient calls you regarding any on-body injector problems, call Amgen at 1-800-772-6436. |
 
-| Step 1: Prepare |  |  |  |
-| --- | --- | --- | --- |
-| A |  | Remove Neulasta Onpro kit from the refrigerator. Place the syringe tray and on-body injector tray on a clean, well lit work surface. Allow to come to room temperature for 30 minutes prior to activating. Check to make sure it contains: |  |
-|  | One Neulasta prefilled syringe One on-body injector for Neulasta Neulasta Patient Information Neulasta Prescribing Information |  | Instructions for Use for healthcare provider Instructions for Use for patient Reference Guide |
-| Do not use the on-body injector if its packaging has been previously opened. |  |  |  |
+| Step 1: Prepare |  |  |
+| --- | --- | --- |
+| A | Remove Neulasta Onpro kit from the refrigerator. Place the syringe tray and on-body injector tray on a clean, well lit work surface. Allow to come to room temperature for 30 minutes prior to activating. Check to make sure it contains: |  |
+|  | • One Neulasta prefilled syringe | • Instructions for Use for healthcare provider |
+|  | • One on-body injector for Neulasta | • Instructions for Use for patient |
+|  | • Neulasta Patient Information | • Reference Guide |
+|  | • Neulasta Prescribing Information |  |
+| Do not use the on-body injector if its packaging has been previously opened. |  |  |
 
 | B | Choose the patient’s injection site. |
 | --- | --- |
@@ -29,9 +32,9 @@
 |  | 3. | Remove the blue needle cover from back of the on-body injector. |  |
 |  | 4. | Peel away the two pieces of white adhesive backing from the back of the on-body injector. |  |
 |  | 5. | Attach the on-body injector to the back of patient’s upper arm or abdomen. |  |
-| The on-body injector will deploy the cannula in three minutes, even if not applied to the patient. If not on patient’s body in three minutes, do not use the on-body injector. Start again with a new Neulasta Onpro kit. |  |  |  |
+| The on-body injector will deploy the cannula in three minutes, even if not applied to the patient. If not on patient’s body in three minutes, do not use the on-body Injector. Start again with a new Neulasta Onpro kit. |  |  |  |
 | CClean an area on the injection site larger than the on-body injector adhesive backing. |  |  |  |
-| Thoroughly cleaning the site will help the on-body injector adhere to the skin. Do not use any cleaner other than alcohol, especially those containing oils, lotions, or aloe. Make sure the skin is oil-free prior to applying the on-body injector. Allow the skin to completely dry. Do not touch this area again before attaching the on-body injector. |  |  |  |
+| Thoroughly clean the site with alcohol to enhance on-body injector adherence to the skin. Only use alcohol to clean the skin. Make sure the skin is oil-free prior to applying the on-body injector. Allow the skin to completely dry. Do not touch this area again before attaching the on-body injector. |  |  |  |
 
 | Step 2: Get Ready |  |
 | --- | --- |
@@ -83,7 +86,7 @@ Neulasta prefilled syringe gray needle cap contains dry natural rubber, which is
 | Step 4: Finish |  |
 | --- | --- |
 | A | Fill in the Dose Delivery Information section in the patient instructions. Be sure to include when the on-body injector was applied, when the dose will begin, and your contact information. Review this information with the patient. |
-| Review each step in the patient instructions with the patient. Give the patient the instructions for use, reference guide, patient information and prescribing information to take home. Before the patient goes home, make sure the patient understands: The on-body injector will always flash a slow green light to let them know it is working properly. After approximately 27 hours, a series of beeps will signal that the dose delivery will begin in two minutes. When the dose delivery starts it will take about 45 minutes to complete. During this time, the on-body injector will flash a fast green light. The patient should remain in a place where they can monitor the on-body injector for the entire dose delivery. The patient should avoid activities and settings that may interfere with monitoring during the dosing of Neulasta administered by the on-body injector. For example, avoid traveling, driving, or operating heavy machinery during hours 26-29 following application of the on-body injector (this includes the approximately 45 minute delivery period plus an hour post-delivery). If the patient has an allergic reaction during the delivery of Neulasta, the patient should remove the on-body injector and call his or her healthcare provider or seek emergency care right away. If placed on the back of the arm, remind the patient that a caregiver must be available to monitor the on-body injector. The on-body injector has a self-adhesive backing to attach it to the skin, do not use additional materials to hold it in place as this could dislodge the cannula and lead to a missed or incomplete dose of Neulasta. When the dose delivery is complete, the patient or caregiver will hear a long beep and see a solid green light. If the red error light is on, the adhesive is noticeably wet (saturated), or the on-body injector is dislodged, the patient should contact their healthcare provider immediately as they may need a replacement dose. Always dispose of the empty on-body injector in a sharps disposal container as instructed by your healthcare provider or by state or local laws. Keep the on-body injector at least four inches away from electrical equipment such as cell phones, cordless telephones, microwaves and other common appliances. Failure to keep the on-body injector at least this recommended distance may interfere with operation and can lead to a missed or incomplete dose of Neulasta. |  |
+| Review each step in the patient instructions with the patient. Give the patient the instructions for use, reference guide, patient information and prescribing information to take home. Before the patient goes home, make sure the patient understands: The on-body injector will always flash a slow green light to let them know it is working properly. After approximately 27 hours, a series of beeps will signal that the dose delivery will begin in two minutes. When the dose delivery starts it will take about 45 minutes to complete. During this time, the on-body injector will flash a fast green light. The patient should remain in a place where they can monitor the on-body injector for the entire dose delivery. The patient should avoid activities and settings that may interfere with monitoring during the dosing of Neulasta administered by the on-body injector. For example, avoid traveling, driving, or operating heavy machinery during hours 26-29 following application of the on-body injector (this includes the approximately 45 minute delivery period plus an hour post-delivery). If the patient has an allergic reaction during the delivery of Neulasta, the patient should remove the on-body injector and call his or her healthcare provider or seek emergency care right away. If placed on the back of the arm, remind the patient that a caregiver must be available to monitor the on-body injector. The on-body injector has a self-adhesive backing to attach it to the skin. Do not use other materials to hold it in place that could cover audio/visual indicators or compress the on-body injector against the patient’s skin, as this could dislodge the cannula and lead to a missed or incomplete dose of Neulasta. When the dose delivery is complete, the patient or caregiver will hear a long beep and see a solid green light. If the red error light is on, the adhesive is noticeably wet (saturated), or the on-body injector is dislodged, the patient should contact their healthcare provider immediately as they may need a replacement dose. Always dispose of the empty on-body injector in a sharps disposal container as instructed by your healthcare provider or by state or local laws. Keep the on-body injector at least four inches away from electrical equipment such as cell phones, cordless telephones, microwaves and other common appliances. Failure to keep the on-body injector at least this recommended distance may interfere with operation and can lead to a missed or incomplete dose of Neulasta. |  |
 
 | If at any time the on-body injector beeps continuously for five minutes, and the status light is flashing red, take the on-body injector off of the patient. Do not apply the on-body injector to the patient if red error light is on. Do not leave the on-body injector on the patient if red error light is on. In all cases, do not use. Start over with a new Neulasta Onpro kit, and call Amgen at 1-800-772-6436. |
 | --- |
@@ -100,13 +103,13 @@ Manufactured by: Amgen Inc. One Amgen Center Drive Thousand Oaks, California 913
 
 Patent: http://pat.amgen.com/onpro/
 
-© 2002 to 2018 Amgen Inc. All rights reserved.
+© 2002 to 2020 Amgen Inc. All rights reserved.
 
 www.neulasta.com
 
-1-844-MYNEULASTA (1-844-696-3852) Issued: 06/2018
+1-844-MYNEULASTA (1-844-696-3852) Issued: 01/2020
 
-v8
+V9
 
 Do not expose the on-body injector for Neulasta to the following environments as the on-body injector may be damaged and the patient could be injured:
 
@@ -212,6 +215,8 @@ Tell your healthcare provider if you have had severe skin reactions to acrylic a
 
 The on-body injector is for adult patients only.
 
+Before your next scheduled Neulasta dose, avoid use of lotions, creams, or oils on your arms and stomach area (abdomen) to help keep the device on your skin.
+
 Avoid activities and places that may interfere with monitoring during the dosing of Neulasta administered by the on-body injector.
 For example, avoid traveling, driving, or operating heavy machinery during hours 26-29 following application of the on-body injector for Neulasta (this includes the 45-minute dose delivery period plus an hour post-delivery).
 
@@ -287,7 +292,7 @@ Properly dispose of the on-body injector:
 - To participate in Amgen’s voluntary disposal program, please call 1-844-MYNEULASTA (1-844-696-3852) or visit www.neulasta.com to enroll.
 - For more information about safe sharps disposal, and for specific information about sharps disposal in the state that you live in, go to FDA’s website at: http://www.fda.gov/safesharpsdisposal.
 
-Risks
+Risks:
 
 You can avoid most risks related to using the on-body injector for Neulasta by following the Patient Instructions for Use.
 Immediately call your healthcare provider if any of the following occur:
@@ -310,16 +315,16 @@ Immediately call your healthcare provider if any of the following occur:
 | Dose Delivery Information |  |  |
 | --- | --- | --- |
 | Your on-body injector was applied: |  |  |
-| __________________________________________________________ |  |  |
+| ______________________________________________________________ |  |  |
 | Day | Time | AM / PM |
 | Your dose delivery will start around: |  |  |
-| __________________________________________________________ |  |  |
+| ______________________________________________________________ |  |  |
 | Day | Time | AM / PM |
 | Name of Healthcare Provider: |  |  |
-| __________________________________________________________ |  |  |
+| ______________________________________________________________ |  |  |
 | Last, First |  |  |
 | Healthcare Provider contact number: |  |  |
-| __________________________________________________________ |  |  |
+| ______________________________________________________________ |  |  |
 | On-body injector lot number: |  |  |
 
 | Important Information |  |
@@ -331,9 +336,9 @@ Immediately call your healthcare provider if any of the following occur:
 | The on-body injector should be applied to intact, non-irritated skin on the stomach area (abdomen) or back of the arm. The back of the arm may only be used if there is a caregiver available to monitor the status of the on-body injector. |  |
 | Call your healthcare provider immediately if you have severe pain or skin discomfort around your on-body injector. |  |
 | Be careful not to bump the on-body injector or knock the on-body injector off your body. |  |
-| The on-body injector has a self-adhesive backing to attach it to the skin, do not use additional materials to hold it in place as this could dislodge the cannula and lead to a missed or incomplete dose of Neulasta. If the on-body injector at any time comes away from your skin before your full dose delivery, do not reapply it. Call your healthcare provider immediately as you may need a replacement dose. Avoid getting body lotions, creams, oils or cleaning agents near the on-body injector as these products may loosen the adhesive. |  |
-| Keep the on-body injector dry for the last 3 hours prior to the dose delivery start. Only expose the on-body injector to temperatures between 41°F and 104°F (5°C and 40°C). After on-body injector removal, properly dispose of it in a sharps disposal container as instructed by your healthcare provider or by state or local laws. Keep the on-body injector at least 4 inches away from electrical equipment such as cell phones, cordless telephones, microwaves and other common appliances. Failure to keep the on-body injector at least this recommended distance may interfere with operation and can lead to a missed or incomplete dose of Neulasta. |  |
-| Do not use bath tubs, hot tubs, whirlpools, or saunas while wearing the on-body injector. This may affect your medicine. Do not expose the on-body injector to direct sunlight. If the on-body injector is exposed to direct sunlight for more than 1 hour, it may affect your medicine. Wear the on-body injector under clothing. Do not sleep on the on-body injector or apply pressure during wear, especially during dose delivery. This may affect on-body injector performance. Do not peel off or disturb the on-body injector adhesive before your full dose is complete. This may result in a missed or incomplete dose of Neulasta. A healthcare provider who is familiar with Neulasta should answer your questions. For general questions or support call 1-844-MYNEULASTA (1-844-696-3852) or visit www.neulasta.com. |  |
+| The on-body injector has a self-adhesive backing to attach it to the skin. Do not use other materials to hold it in place that could cover audio/visual indicators or compress the on-body injector against the patient’s skin, as this could dislodge the cannula and lead to a missed or incomplete dose of Neulasta. If the on-body injector at any time comes away from your skin before your full dose delivery, do not reapply it. Call your healthcare provider immediately as you may need a replacement dose. Avoid getting body lotions, creams, oils or cleaning agents near the on-body injector as these products may loosen the adhesive. Before your next scheduled Neulasta dose, avoid use of lotions, creams, or oils on your arms and stomach area (abdomen). |  |
+| Keep the on-body injector dry for the last 3 hours prior to the dose delivery start. Only expose the on-body injector to temperatures between 41°F and 104°F (5°C-40°C). After on-body injector removal, properly dispose of it in a sharps disposal container as instructed by your healthcare provider or by state or local laws. Keep the on-body injector at least 4 inches away from electrical equipment such as cell phones, cordless telephones, microwaves and other common appliances. Failure to keep the on-body injector at least this recommended distance may interfere with operation and can lead to a missed or incomplete dose of Neulasta. |  |
+| Do not use bath tubs, hot tubs, whirlpools, or saunas while wearing the on-body injector. This may affect your medicine. Do not expose the on-body injector to direct sunlight. If the on-body injector is exposed to direct sunlight for more than 1 hour, it may affect your medicine. Wear the on-body injector under clothing. Do not sleep on the on-body injector or apply pressure during wear, especially during dose delivery. This may affect the on-body injector performance. Do not peel off or disturb the on-body injector’s adhesive before your full dose is complete. This may result in a missed or incomplete dose of Neulasta. A healthcare provider who is familiar with Neulasta should answer your questions. For general questions or support call 1-844-MYNEULASTA (1-844-696-3852) or visit www.neulasta.com. |  |
 
 | Guide to Parts for On-body Injector for Neulasta |  |
 | --- | --- |
@@ -351,32 +356,33 @@ On-body Injector Placement
 | A | For the next 27 hours, occasionally check the status light for at least 10 seconds. If the status light is flashing green, it is okay. |
 | If the on-body injector for Neulasta was placed on the back of your arm, a caregiver must be available to monitor the status of the on-body injector. Be careful not to bump the on-body injector, or knock the on-body injector off your body. If at any time you hear beeping, check the status light. If it is flashing red, call your healthcare provider immediately, as you may need a replacement dose. |  |
 
-| B | After about 27 hours, your on-body injector will produce a series of beeps to let you know your dose delivery is about to begin. Dose delivery will start and take about 45-minutes to complete. The on-body injector will flash a fast green light. |  |
+| B | After about 27 hours, your on-body injector will produce a series of beeps to let you know your dose delivery is about to begin. |  |
 | --- | --- | --- |
+|  | Dose delivery will start and take about 45-minutes to complete. The on-body injector will flash a fast green light. |  |
 |  | If at any time you hear beeping, check the status light. If it is flashing red, call your healthcare provider immediately, as you may need a replacement dose. |  |
 
-| Step 2: Monitor Dose Delivery |  |
-| --- | --- |
-| If the adhesive becomes noticeably wet (saturated) with fluid, or you see dripping, call your healthcare provider immediately, as you may need a replacement dose. |  |
+| Step 2: Monitor Dose Delivery |
+| --- |
+| If the adhesive becomes noticeably wet (saturated) with fluid, or you see dripping, call your healthcare provider immediately, as you may need a replacement dose. |
 
 | A |  | Your dose delivery will take around 45-minutes to complete. |
 | --- | --- | --- |
 |  | During this time, the on-body injector will flash a fast green light. You may hear a series of clicks. This is okay. When dose delivery is complete, a long beep will sound and the status light will be solid green. |  |
 
-| Step 3: Remove On-body Injector When Dose Delivery Is Complete |  |  |
-| --- | --- | --- |
-| A | After the beep, check the color of the status light. |  |
-| Check to see if the status light is SOLID GREEN or has switched off. This means the dose is complete. If the dose is complete, go to the next step. |  | If you see the status light is flashing red, your on-body injector is not functioning properly. Remember, any time you see a status light flashing red, call your healthcare provider immediately, as you may need a replacement dose. |
+| Step 3: Remove On-body Injector When Dose Delivery Is Complete |  |  |  |
+| --- | --- | --- | --- |
+| A | After the beep, check the color of the status light. |  |  |
+|  |  | Check to see if the status light is SOLID GREEN or has switched off. This means the dose is complete. If the dose is complete, go to the next step. | If you see the status light is flashing red, your on-body injector is not functioning properly. Remember, any time you see a status light flashing red, call your healthcare provider immediately, as you may need a replacement dose. |
 
 | B |  | Grab the edge of the adhesive pad. Slowly peel off the on-body injector. |  |
 | --- | --- | --- | --- |
 |  | If medicine has leaked or the adhesive is noticeably wet (saturated), call your healthcare provider immediately, as you may not have received your full dose and you may need a replacement dose. Remove any extra adhesive using soap and water. |  |  |
 |  | Do not grasp the on-body injector itself to try to pull it off of your body. |  |  |
 
-| Step 4: Finish |  |  |
-| --- | --- | --- |
-|  | You should see a black line next to the EMPTY indicator. If the on-body injector is not empty, call your healthcare provider immediately, as you may need a replacement dose. |  |
-|  | Check your status light again. Watch for at least 10 seconds. If the status light is solid green or it has switched off, it is okay. If you hear beeping, or when you check the status light and it is flashing red, call your healthcare provider immediately. After on-body injector removal, place the on-body injector in a sharps disposal container whether the needle is exposed or not. If the needle is exposed, call your healthcare provider immediately. |  |
+| Step 4: Finish |  |
+| --- | --- |
+|  | You should see a black line next to the EMPTY indicator. If the on-body injector is not empty, call your healthcare provider immediately, as you may need a replacement dose. |
+|  | Check your status light again. Watch for at least 10 seconds. If the status light is solid green or it has switched off, it is okay. If you hear beeping, or when you check the status light and it is flashing red, call your healthcare provider immediately. After on-body injector removal, place the on-body injector in a sharps disposal container whether the needle is exposed or not. If the needle is exposed, call your healthcare provider immediately. |
 
 | A | Record the end state of your on-body injector. |  |  |
 | --- | --- | --- | --- |
@@ -409,15 +415,15 @@ Manufactured by: Amgen Inc. One Amgen Center Drive Thousand Oaks, California 913
 
 Patent: http://pat.amgen.com/onpro/
 
-© 2002 to 2018 Amgen Inc. All rights reserved.
+© 2002 to 2020 Amgen Inc. All rights reserved.
 
-www.neulasta.com
+http://www.neulasta.com
 
 1-844-MYNEULASTA (1-844-696-3852)
 
-Issued: 06/2018
+Issued: 01/2020
 
-v7
+v8
 
 Instructions for Use
 

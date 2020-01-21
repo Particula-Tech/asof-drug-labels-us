@@ -1,6 +1,6 @@
 # 6ADVERSE REACTIONS
 
-The following serious adverse reactions are discussed in greater detail in other sections of the labeling:
+The following clinically significant adverse reactions are discussed in greater detail in other sections of the labeling:
 
 - Splenic Rupture [see Warnings and Precautions (5.1)]
 - Acute Respiratory Distress Syndrome [see Warnings and Precautions (5.2)]
@@ -30,11 +30,9 @@ The ethnicity was 66% Caucasian, 31% Hispanic, 2% Black, and < 1% Asian, Native 
 
 The most common adverse reactions occurring in ≥ 5% of patients and with a between-group difference of ≥ 5% higher in the pegfilgrastim arm in placebo-controlled clinical trials are bone pain and pain in extremity.
 
-Table 2.
-Adverse Reactions with ≥ 5% Higher Incidence in Neulasta Patients Compared to Placebo in Study 3
-
-| Body System Adverse Reaction | Placebo (N = 461) | Neulasta 6 mg SC on Day 2 (N = 467) |
+| Table 2. Adverse Reactions with ≥ 5% Higher Incidence in Neulasta Patients Compared to Placebo in Study 3 |  |  |
 | --- | --- | --- |
+| Body System Adverse Reaction | Placebo (N = 461) | Neulasta 6 mg SC on Day 2 (N = 467) |
 | Musculoskeletal and connective tissue disorders |  |  |
 | Bone pain | 26% | 31% |
 | Pain in extremity | 4% | 9% |
