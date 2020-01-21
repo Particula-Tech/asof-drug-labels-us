@@ -136,7 +136,7 @@ This Patient Information has been approved by the U.S. Food and Drug Administrat
 
 Manufactured for: Ferring Pharmaceuticals Inc. Parsippany, NJ 07054
 
-By: Mikart, Inc. Atlanta, GA 30318
+By: Mikart, LLC Atlanta, GA 30318
 
 Rev.
-08/2016 6540-05
+04/2019
