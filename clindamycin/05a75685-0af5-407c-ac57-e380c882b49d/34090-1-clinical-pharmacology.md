@@ -50,6 +50,10 @@ Average Peak and Trough Serum Concentrations of Active Clindamycin After Dosing 
 | 5–7 mg/kg IM | 8 |  |
 | 3–5 mg/kg IM | 4 |  |
 
+### Obese Children and Obese Young Adults
+
+An analysis of pharmacokinetic data in obese children and obese young adults (2–20 years) demonstrated that clindamycin clearance and volume of distribution normalized by total body weight in these patients are comparable to those in children (and young adults) with normal body weight.
+
 ## Microbiology
 
 ### Mechanism of Action

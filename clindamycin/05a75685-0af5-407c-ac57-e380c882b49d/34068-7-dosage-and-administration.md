@@ -44,6 +44,7 @@ The lower dosage may be adequate for small prematures.
 
 20 to 40 mg/kg/day in 3 or 4 equal doses.
 The higher doses would be used for more severe infections.
+Clindamycin should be dosed based on total body weight regardless of obesity.
 As an alternative to dosing on a body weight basis, pediatric patients may be dosed on the basis of square meters body surface: 350 mg/m2/day for serious infections and 450 mg/m2/day for more severe infections.
 
 Parenteral therapy may be changed to oral CLEOCIN PEDIATRIC® Flavored Granules (clindamycin palmitate hydrochloride) or CLEOCIN HCl® Capsules (clindamycin hydrochloride) when the condition warrants and at the discretion of the physician.
