@@ -20,7 +20,7 @@ PROMACTA was administered to 330 patients for at least 6 months and 218 patients
 Table 8 presents the most common adverse drug reactions (experienced by greater than or equal to 3% of patients receiving PROMACTA) from the three placebo-controlled trials, with a higher incidence in PROMACTA versus placebo.
 
 Table 8.
-Adverse Reactions (≥ 3%) from Three Placebo-controlled Trials in Adults with Chronic Immune Thrombocytopenia
+Adverse Reactions (≥ 3%) From Three Placebo-controlled Trials in Adults With Chronic Immune Thrombocytopenia
 
 | Adverse Reaction | PROMACTA 50 mg n = 241(%) | Placebon = 128(%) |
 | --- | --- | --- |
@@ -46,7 +46,7 @@ Among 302 patients with chronic ITP who received PROMACTA in the single-arm exte
 Table 9 presents the most common treatment-related adverse reactions (experienced by greater than or equal to 3% of patients receiving PROMACTA) from the extension trial.
 
 Table 9.
-Treatment-related Adverse Reactions (≥ 3%) from Extension Trial in Adults with Chronic Immune Thrombocytopenia
+Treatment-related Adverse Reactions (≥ 3%) From Extension Trial in Adults With Chronic Immune Thrombocytopenia
 
 | Adverse Reaction | PROMACTA 50 mg n = 302(%) |
 | --- | --- |
@@ -81,7 +81,7 @@ Pediatric Patients: The data described below reflect median exposure to PROMACTA
 Table 10 presents the most common adverse drug reactions (experienced by greater than or equal to 3% of pediatric patients 1 year and older receiving PROMACTA) across the two placebo-controlled trials, with a higher incidence for PROMACTA versus placebo.
 
 Table 10.
-Adverse Reactions (≥ 3%) with a Higher Incidence for PROMACTA versus Placebo from Two Placebo-controlled Trials in Pediatric Patients 1 Year and Older with Chronic Immune Thrombocytopenia
+Adverse Reactions (≥ 3%) With a Higher Incidence for PROMACTA Versus Placebo From Two Placebo-controlled Trials in Pediatric Patients 1 Year and Older With Chronic Immune Thrombocytopenia
 
 |  | PROMACTA | Placebo |
 | --- | --- | --- |
@@ -108,7 +108,7 @@ Chronic Hepatitis C-associated Thrombocytopenia: In the two placebo-controlled t
 Table 11 presents the most common adverse drug reactions (experienced by greater than or equal to 10% of patients receiving PROMACTA compared with placebo).
 
 Table 11.
-Adverse Reactions (≥ 10% and Greater than Placebo) from Two Placebo-controlled Trials in Adults with Chronic Hepatitis C
+Adverse Reactions (≥ 10% and Greater Than Placebo) From Two Placebo-controlled Trials in Adults With Chronic Hepatitis C
 
 | Adverse Reaction | PROMACTA+ Peginterferon/Ribavirinn = 955(%) | Placebo+ Peginterferon/Ribavirinn = 484(%) |
 | --- | --- | --- |
@@ -155,7 +155,7 @@ The median duration of exposure to PROMACTA in this cohort was 183 days with 70%
 Table 12 presents the most common adverse reactions (experienced by greater than or equal to 5% of patients) associated with PROMACTA in the D1-M6 cohort.
 
 Table 12.
-Adverse Reactions (≥ 5%) from One Open-label Trial in First-line Treatment of Patients with Severe Aplastic Anemia
+Adverse Reactions (≥ 5%) From One Open-label Trial in First-line Treatment of Patients With Severe Aplastic Anemia
 
 | Adverse Reaction | PROMACTA n = 92 (%) |
 | --- | --- |
@@ -192,7 +192,7 @@ Eleven patients (26%) were treated for greater than 6 months and 7 patients (16%
 The most common adverse reactions (greater than or equal to 20%) were nausea, fatigue, cough, diarrhea, and headache.
 
 Table 13.
-Adverse Reactions (≥ 10%) from One Open-label Trial in Adults with Refractory Severe Aplastic Anemia
+Adverse Reactions (≥ 10%) From One Open-label Trial in Adults With Refractory Severe Aplastic Anemia
 
 | Adverse Reaction | PROMACTAn = 43(%) |
 | --- | --- |

@@ -20,13 +20,13 @@ Pediatric Patients with ITP Aged 1 to 5 Years: Initiate PROMACTA at a dose of 25
 Monitoring and Dose Adjustment: After initiating PROMACTA, adjust the dose to achieve and maintain a platelet count greater than or equal to 50 x 109/L as necessary to reduce the risk for bleeding.
 Do not exceed a dose of 75 mg daily.
 Monitor clinical hematology and liver tests regularly throughout therapy with PROMACTA and modify the dosage regimen of PROMACTA based on platelet counts as outlined in Table 1.
-During therapy with PROMACTA, assess CBCs with differentials, including platelet counts, weekly until a stable platelet count has been achieved.
+During therapy with PROMACTA, assess complete blood counts (CBCs) with differentials, including platelet counts, weekly until a stable platelet count has been achieved.
 Obtain CBCs with differentials, including platelet counts, monthly thereafter.
 
 When switching between the oral suspension and tablet, assess platelet counts weekly for 2 weeks, and then follow standard monthly monitoring.
 
 Table 1.
-Dose Adjustments of PROMACTA in Patients with Chronic Immune Thrombocytopenia
+Dose Adjustments of PROMACTA in Patients With Chronic Immune Thrombocytopenia
 
 | Platelet Count Result | Dose Adjustment or Response |
 | --- | --- |
@@ -65,7 +65,7 @@ Monitor clinical hematology and liver tests regularly throughout therapy with PR
 For specific dosage instructions for peginterferon or ribavirin, refer to their respective prescribing information.
 
 Table 2.
-Dose Adjustments of PROMACTA in Adults with Thrombocytopenia due to Chronic Hepatitis C
+Dose Adjustments of PROMACTA in Adults With Thrombocytopenia Due to Chronic Hepatitis C
 
 | Platelet Count Result | Dose Adjustment or Response |
 | --- | --- |
@@ -102,11 +102,11 @@ Recommended Initial PROMACTA Dose Regimen in the First-Line Treatment of Severe 
 
 For patients with severe aplastic anemia of Asian ancestry (such as Chinese, Japanese, Taiwanese, Korean, or Thai) or those with mild, moderate, or severe hepatic impairment (Child-Pugh Class A, B, C), decrease the initial PROMACTA dose by 50% as listed in Table 4 [see Use in Specific Populations (8.6, 8.7), Clinical Pharmacology (12.3)].
 
-If baseline ALT or AST levels are > 6 x ULN, do not initiate PROMACTA until transaminase levels are < 5 x ULN.
+If baseline alanine aminotransferase (ALT) or aspartate aminotransferase (AST) levels are > 6 x upper limit of normal (ULN), do not initiate PROMACTA until transaminase levels are < 5 x ULN.
 Determine the initial dose for these patients based on Table 3 or Table 4.
 
 Table 4.
-Recommended Initial PROMACTA Dose Regimen for Patients of Asian Ancestry or Those with Mild, Moderate, or Severe Hepatic Impairment (Child-Pugh Class A, B, C) in the First-Line Treatment of Severe Aplastic Anemia
+Recommended Initial PROMACTA Dose Regimen for Patients of Asian Ancestry or Those With Mild, Moderate, or Severe Hepatic Impairment (Child-Pugh Class A, B, C) in the First-Line Treatment of Severe Aplastic Anemia
 
 | Age | Dose Regimen |
 | --- | --- |
@@ -153,7 +153,7 @@ Do not exceed a dose of 150 mg daily.
 Monitor clinical hematology and liver tests regularly throughout therapy with PROMACTA and modify the dosage regimen of PROMACTA based on platelet counts as outlined in Table 7.
 
 Table 7.
-Dose Adjustments of PROMACTA in Patients with Refractory Severe Aplastic Anemia
+Dose Adjustments of PROMACTA in Patients With Refractory Severe Aplastic Anemia
 
 | Platelet Count Result | Dose Adjustment or Response |
 | --- | --- |
@@ -164,7 +164,7 @@ Dose Adjustments of PROMACTA in Patients with Refractory Severe Aplastic Anemia
 
 For patients who achieve tri-lineage response, including transfusion independence, lasting at least 8 weeks: the dose of PROMACTA may be reduced by 50% [see Clinical Studies (14.3)].
 If counts remain stable after 8 weeks at the reduced dose, then discontinue PROMACTA and monitor blood counts.
-If platelet counts drop to less than 30 x 109/L, hemoglobin to less than 9 g/dL, or ANC to less than 0.5 x 109/L, PROMACTA may be reinitiated at the previous effective dose.
+If platelet counts drop to less than 30 x 109/L, hemoglobin to less than 9 g/dL, or absolute neutrophil count (ANC) to less than 0.5 x 109/L, PROMACTA may be reinitiated at the previous effective dose.
 
 Discontinuation: If no hematologic response has occurred after 16 weeks of therapy with PROMACTA, discontinue therapy.
 If new cytogenetic abnormalities are observed, consider discontinuation of PROMACTA [see Adverse Reactions (6.1)].

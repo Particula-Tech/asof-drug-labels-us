@@ -8,7 +8,7 @@ Take PROMACTA at least 2 hours before or 4 hours after any medications or produc
 
 ## 7.2 Transporters
 
-Use caution when concomitantly administering PROMACTA and drugs that are substrates of OATP1B1 (e.g., atorvastatin, bosentan, ezetimibe, fluvastatin, glyburide, olmesartan, pitavastatin, pravastatin, rosuvastatin, repaglinide, rifampin, simvastatin acid, SN-38 [active metabolite of irinotecan], valsartan) or BCRP (e.g., imatinib, irinotecan, lapatinib, methotrexate, mitoxantrone, rosuvastatin, sulfasalazine, topotecan).
+Use caution when concomitantly administering PROMACTA and drugs that are substrates of OATP1B1 (e.g., atorvastatin, bosentan, ezetimibe, fluvastatin, glyburide, olmesartan, pitavastatin, pravastatin, rosuvastatin, repaglinide, rifampin, simvastatin acid, SN-38 [active metabolite of irinotecan], valsartan) or breast cancer resistance protein (BCRP) (e.g., imatinib, irinotecan, lapatinib, methotrexate, mitoxantrone, rosuvastatin, sulfasalazine, topotecan).
 Monitor patients closely for signs and symptoms of excessive exposure to the drugs that are substrates of OATP1B1 or BCRP and consider reduction of the dose of these drugs, if appropriate.
 In clinical trials with PROMACTA, a dose reduction of rosuvastatin by 50% was recommended.
 
@@ -17,8 +17,8 @@ In clinical trials with PROMACTA, a dose reduction of rosuvastatin by 50% was re
 HIV Protease Inhibitors: No dose adjustment is recommended when PROMACTA is coadministered with lopinavir/ritonavir (LPV/RTV).
 Drug interactions with other HIV protease inhibitors have not been evaluated.
 
-Hepatitis C Virus (HCV) Protease Inhibitors: No dose adjustments are recommended when PROMACTA is coadministered with boceprevir or telaprevir.
-Drug interactions with other HCV protease inhibitors have not been evaluated.
+Hepatitis C Virus Protease Inhibitors: No dose adjustments are recommended when PROMACTA is coadministered with boceprevir or telaprevir.
+Drug interactions with other hepatitis c virus (HCV) protease inhibitors have not been evaluated.
 
 ## 7.4 Peginterferon alfa-2a/b Therapy
 

@@ -16,7 +16,7 @@ At doses up to 150 mg (the maximum recommended dose) daily for 5 days, PROMACTA 
 ## 12.3 Pharmacokinetics
 
 Eltrombopag demonstrated a dose-proportional increase in exposure between doses of 50 to 150 mg/day in healthy adult subjects.
-Eltrombopag AUC was approximately 1.7 fold higher in patients with chronic ITP and approximately 2.8-fold higher in patients with HCV compared to healthy subjects.
+Eltrombopag AUC was approximately 1.7-fold higher in patients with chronic ITP and approximately 2.8-fold higher in patients with HCV compared to healthy subjects.
 Steady-state was achieved after approximately 1 week of once daily treatment, with geometric mean accumulation ratio of 1.56 (90% confidence interval 1.20, 1.63) at 75 mg/day.
 Eltrombopag AUC was approximately 3.2 fold higher in patients with definitive immunosuppressive therapy-naïve severe aplastic anemia compared to healthy subjects suggesting higher relative exposure compared to healthy subjects or patients with ITP and similar exposure compared to patients with chronic hepatitis C. Eltrombopag for oral suspension delivered 22% higher plasma AUC0-INF than the tablet formulation.
 
@@ -33,9 +33,9 @@ The calcium content of this meal may have also contributed to this decrease in e
 The effect of administration of a single 25-mg dose of eltrombopag for oral suspension with a high-calcium, moderate-fat, moderate calorie meal on AUC0-INF and Cmax in healthy adult subjects is presented in Table 14.
 
 Table 14.
-Effect on Plasma Eltrombopag Pharmacokinetic Parameters After Administration of a Single 25-mg Dose of Eltrombopag for Oral Suspension with a High Calcium Meala in Healthy Adult Subjects
+Effect on Plasma Eltrombopag Pharmacokinetic Parameters After Administration of a Single 25-mg Dose of Eltrombopag for Oral Suspension With a High Calcium Meala in Healthy Adult Subjects
 
-| Timing of eltrombopag for oral suspension dose | Mean (90% CI) reduction in plasma eltrombopag AUC0-INF | Mean (90% CI) reduction in plasma eltrombopag Cmax |
+| Timing of Eltrombopag for Oral Suspension Dose | Mean (90% CI) Reduction in Plasma Eltrombopag AUC0-INF | Mean (90% CI) Reduction in Plasma Eltrombopag Cmax |
 | --- | --- | --- |
 | With a high-calcium, moderate-fat, moderate-calorie meal | 75% (71%, 88%) | 79% (76%, 82%) |
 | 2 hours after the high-calcium, moderate-fat, moderate-calorie meal | 47% (40%, 53%) | 48% (40%, 54%) |
@@ -102,7 +102,7 @@ Plasma eltrombopag AUC(0-τ) and Cmax in pediatric patients aged 12 to 17 years 
 The pharmacokinetic parameters of eltrombopag in pediatric patients with ITP are shown in Table 15.
 
 Table 15.
-Geometric Mean (95% CI) Steady-state Plasma Eltrombopag Pharmacokinetic Parametersa in Patients with ITP (Normalized to a Once-daily 50-mg Dose)
+Geometric Mean (95% CI) Steady-state Plasma Eltrombopag Pharmacokinetic Parametersa in Patients With ITP (Normalized to a Once-daily 50-mg Dose)
 
 |  | Cmaxb | AUC(0-τ)b |
 | --- | --- | --- |
