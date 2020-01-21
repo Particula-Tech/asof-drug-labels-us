@@ -32,4 +32,5 @@ In adult patients taking propranolol, only the 5 mg dose of rizatriptan benzoate
 
 ### Pediatric Patients
 
-For pediatric patients weighing ≥40 kg (88 lb) taking propranolol, only a single 5-mg dose of rizatriptan benzoate orally disintegrating tablets is recommended (maximum dose of 5 mg in a 24-hour period). rizatriptan benzoate orally disintegrating tablets should not be prescribed to propranolol-treated pediatric patients who weigh less than 40 kg (88 lb) [see Drug Interactions (7.1) and Clinical Pharmacology (12.3)].
+For pediatric patients weighing 40 kg (88 lb) or more, taking propranolol, only a single 5-mg dose of rizatriptan benzoate orally disintegrating tablets is recommended (maximum dose of 5 mg in a 24-hour period).
+Rizatriptan benzoate orally disintegrating tablets should not be prescribed to propranolol-treated pediatric patients who weigh less than 40 kg (88 lb) [see Drug Interactions (7.1) and Clinical Pharmacology (12.3)].

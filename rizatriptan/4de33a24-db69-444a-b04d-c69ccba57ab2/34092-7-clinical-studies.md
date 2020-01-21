@@ -34,20 +34,20 @@ Because studies are conducted at different times, with different samples of pati
 
 The estimated probability of achieving an initial headache response within 2 hours following treatment in pooled Studies 1, 2, 3, and 4 is depicted in Figure 1.
 
-Figure 1: Estimated Probability of Achieving an Initial Headache Response by 2 Hours in Pooled Studies 1, 2, 3, and 4††
+Figure 1: Estimated Probability of Achieving an Initial Headache Response by 2 Hours in Pooled Studies 1, 2, 3, and 4*
 
-†† Figure 1 shows the Kaplan-Meier plot of the probability over time of obtaining headache response (no or mild pain) following treatment with rizatriptan benzoate tablets or placebo.
+* Figure 1 shows the Kaplan-Meier plot of the probability over time of obtaining headache response (no or mild pain) following treatment with rizatriptan benzoate tablets or placebo.
 The averages displayed are based on pooled data from 4 placebo-controlled, outpatient trials providing evidence of efficacy (Studies 1, 2, 3, and 4).
 Patients taking additional treatment or not achieving headache response prior to 2 hours were censored at 2 hours.
 
-For patients with migraine-associated photophobia, phonophobia, and nausea at baseline, there was a decreased incidence of these symptoms following administration of rizatriptan benzoate tablets compared to placebo.
+For patients with migraine-associated photophobia, phonophobia, and nausea at baseline, there was a decreased incidence of these symptoms following administration of rizatriptan benzoate compared to placebo.
 
 Two to 24 hours following the initial dose of study treatment, patients were allowed to use additional treatment for pain response in the form of a second dose of study treatment or other medication.
 The estimated probability of patients taking a second dose or other medication for migraine over the 24 hours following the initial dose of study treatment is summarized in Figure 2.
 
-Figure 2: Estimated Probability of Patients Taking a Second Dose of Rizatriptan Benzoate Tablets or Other Medication for Migraines Over the 24 Hours Following the Initial Dose of Study Treatment in Pooled Studies 1, 2, 3, and 4†††
+Figure 2: Estimated Probability of Patients Taking a Second Dose of Rizatriptan Benzoate Tablets or Other Medication for Migraines Over the 24 Hours Following the Initial Dose of Study Treatment in Pooled Studies 1, 2, 3, and 4*
 
-††† This Kaplan-Meier plot is based on data obtained in 4 placebo-controlled outpatient clinical trials (Studies 1, 2, 3, and 4).
+* This Kaplan-Meier plot is based on data obtained in 4 placebo-controlled outpatient clinical trials (Studies 1, 2, 3, and 4).
 Patients not using additional treatments were censored at 24 hours.
 The plot includes both patients who had headache response at 2 hours and those who had no response to the initial dose.
 Remedication was not allowed within 2 hours post- dose.
@@ -78,9 +78,9 @@ Table 3: Response Rates 2 Hours Following Treatment of Initial Headache in Studi
 
 The estimated probability of achieving an initial headache response by 2 hours following treatment with rizatriptan benzoate orally disintegrating tablets in pooled Studies 5 and 6 is depicted in Figure 3.
 
-Figure 3: Estimated Probability of Achieving an Initial Headache Response with Rizatriptan Benzoate Orally Disintegrating Tablets by 2 Hours in Pooled Studies 5 and 6‡
+Figure 3: Estimated Probability of Achieving an Initial Headache Response with Rizatriptan Benzoate Orally Disintegrating Tablets by 2 Hours in Pooled Studies 5 and 6*
 
-‡ Figure 3 shows the Kaplan-Meier plot of the probability over time of obtaining headache response (no or mild pain) following treatment with rizatriptan benzoate orally disintegrating tablets or placebo.
+* Figure 3 shows the Kaplan-Meier plot of the probability over time of obtaining headache response (no or mild pain) following treatment with rizatriptan benzoate orally disintegrating tablets or placebo.
 The averages displayed are based on pooled data from 2 placebo-controlled, outpatient trials providing evidence of efficacy (Studies 5 and 6).
 Patients taking additional treatment or not achieving headache response prior to 2 hours were censored at 2 hours.
 
@@ -89,27 +89,27 @@ For patients with migraine-associated photophobia and phonophobia at baseline, t
 Two to 24 hours following the initial dose of study treatment, patients were allowed to use additional treatment for pain response in the form of a second dose of study treatment or other medication.
 The estimated probability of patients taking a second dose or other medication for migraine over the 24 hours following the initial dose of study treatment is summarized in Figure 4.
 
-Figure 4: Estimated Probability of Patients Taking a Second Dose of Rizatriptan Benzoate Orally Disintegrating Tablets or Other Medication for Migraines Over the 24 Hours Following the Initial Dose of Study Treatment in Pooled Studies 5 and 6‡‡
+Figure 4: Estimated Probability of Patients Taking a Second Dose of Rizatriptan Benzoate Orally Disintegrating Tablets or Other Medication for Migraines Over the 24 Hours Following the Initial Dose of Study Treatment in Pooled Studies 5 and 6*
 
-‡‡ This Kaplan-Meier plot is based on data obtained in 2 placebo-controlled outpatient clinical trials (Studies 5 and 6).
+* This Kaplan-Meier plot is based on data obtained in 2 placebo-controlled outpatient clinical trials (Studies 5 and 6).
 Patients not using additional treatments were censored at 24 hours.
 The plot includes both patients who had headache response at 2 hours and those who had no response to the initial dose.
 Remedication was not allowed within 2 hours post-dose.
 
 ## 14.2 Pediatric Patients 6 to 17 Years of Age
 
-The efficacy of rizatriptan in pediatric patients 6 to 17 years was evaluated in a multicenter, randomized, double-blind, placebo-controlled, parallel group clinical trial (Study 7).
+The efficacy of rizatriptan benzoate in pediatric patients 6 to 17 years was evaluated in a multicenter, randomized, double-blind, placebo-controlled, parallel group clinical trial (Study 7).
 Patients had to have at least a 6-month history of migraine attacks (with or without aura) usually lasting 3 hours or more (when untreated).
 The patient population was historically non-responsive to NSAIDs and acetaminophen therapy.
 
 Patients were instructed to treat a single migraine attack with headache pain of moderate to severe intensity.
 The treatment phase of the study had two stages.
-Stage 1 was used to identify placebo non-responders, who then entered into Stage 2, in which patients were randomized to rizatriptan or placebo.
-Using a weight-based dosing strategy, patients 20 kg to <40 kg (44 lb to <88 lb) received rizatriptan 5 mg or placebo, and patients ≥40 kg (88 lb) received rizatriptan 10 mg or placebo.
+Stage 1 was used to identify placebo non-responders, who then entered into Stage 2, in which patients were randomized to rizatriptan benzoate or placebo.
+Using a weight-based dosing strategy, patients 20 kg to <40 kg (44 lb to <88 lb) received rizatriptan benzoate 5 mg or placebo, and patients ≥40 kg (88 lb) received rizatriptan benzoate 10 mg or placebo.
 
 The mean age for the studied patient population was 13 years.
 Sixty-one percent of the patients were Caucasian, and fifty-six percent of the patients were female.
-The percentage of patients achieving the primary efficacy endpoint of no headache pain at 2 hours after treatment was significantly greater in patients who received rizatriptan, compared with those who received placebo (33% vs. 24%).
+The percentage of patients achieving the primary efficacy endpoint of no headache pain at 2 hours after treatment was significantly greater in patients who received rizatriptan benzoate, compared with those who received placebo (33% vs. 24%).
 Study 7 results are summarized in Table 4.
 
 Table 4: Response Rates 2 Hours Following Treatment of Initial Headache in Pediatric Patients 6 to 17 Years of Age in Study 7
@@ -123,7 +123,7 @@ n = Number of evaluable patients with no headache pain at 2 hours post-dose
 
 m = Number of evaluable patients in population.
 
-The observed percentage of pediatric patients achieving no headache pain within 2 hours following initial treatment with rizatriptan is shown in Figure 5.
+The observed percentage of pediatric patients achieving no headache pain within 2 hours following initial treatment with rizatriptan benzoate is shown in Figure 5.
 
 Figure 5: Observed Percentage of Patients Reporting No Headache Pain by 2 Hours Post-Dose in Study 7
 

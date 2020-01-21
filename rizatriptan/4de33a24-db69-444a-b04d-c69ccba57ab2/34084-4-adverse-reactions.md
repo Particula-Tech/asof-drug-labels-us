@@ -4,7 +4,7 @@ The following adverse reactions are discussed in more detail in other sections o
 
 - •Myocardial Ischemia, Myocardial Infarction, and Prinzmetal's Angina [see Warnings and Precautions (5.1)].
 - •Arrhythmias [see Warnings and Precautions (5.2)].
-- •Chest and or Throat, Neck and/or Jaw Pain/Tightness/Pressure [see Warnings and Precautions (5.3)].
+- •Chest, Throat, Neck and/or Jaw Pain/Tightness/Pressure [see Warnings and Precautions (5.3)].
 - •Cerebrovascular Events [see Warnings and Precautions (5.4)].
 - •Other Vasospasm Reactions [see Warnings and Precautions (5.5)].
 - •Medication Overuse Headache [see Warnings and Precautions (5.6)].
@@ -29,7 +29,7 @@ Table 1: Incidence (≥2% and Greater than Placebo) of Adverse Reactions after a
 
 |  | % of Patients |  |  |
 | --- | --- | --- | --- |
-| Adverse Reactions | Rizatriptan Benzoate Tablets 5 mg(N=977) | Rizatriptan Benzoate Tablets 10 mg(N=1167) | Placebo(N=627) |
+| Adverse Reactions | Rizatriptan Benzoate 5 mg(N=977) | Rizatriptan Benzoate 10 mg(N=1167) | Placebo(N=627) |
 | Atypical Sensations | 4 | 5 | 4 |
 | Paresthesia | 3 | 4 | <2 |
 | Pain and other Pressure Sensations | 6 | 9 | 3 |

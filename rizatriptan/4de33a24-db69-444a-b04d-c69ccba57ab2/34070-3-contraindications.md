@@ -9,6 +9,6 @@ Rizatriptan benzoate orally disintegrating tablets are contraindicated in patien
 - •Ischemic bowel disease [see Warnings and Precautions (5.5)].
 - •Uncontrolled hypertension [see Warnings and Precautions (5.8)].
 - •Recent use (i.e., within 24 hours) of another 5-HT1 agonist, ergotamine-containing medication, or ergot-type medication (such as dihydroergotamine or methysergide) [see Drug Interactions (7.2 and 7.3)].
-- •Hemiplegic or basilar migraine.
+- •Hemiplegic or basilar migraine [see Indications and Usage (1)].
 - •Concurrent administration or recent discontinuation (i.e., within 2 weeks) of a MAO-A inhibitor [see Drug Interactions (7.5) and Clinical Pharmacology (12.3)].
-- •Hypersensitivity to rizatriptan benzoate tablets or rizatriptan benzoate orally disintegrating tablets (angioedema and anaphylaxis seen) [see Adverse Reactions (6.2)].
+- •Hypersensitivity to rizatriptan benzoate tablets or rizatriptan benzoate orally disintegrating tablets or any of the excipients (angioedema and anaphylaxis seen) [see Adverse Reactions (6.2)].

@@ -49,7 +49,7 @@ Rizatriptan is not an inhibitor of the activities of human liver cytochrome P450
 Geriatric: Rizatriptan pharmacokinetics in healthy elderly non-migraineur volunteers (age 65 to 77 years) were similar to those in younger non-migraineur volunteers (age 18 to 45 years).
 
 Pediatric: The pharmacokinetics of rizatriptan was determined in pediatric migraineurs 6 to 17 years of age.
-Exposures following single dose administration of 5 mg rizatriptan to pediatric patients weighing 20 to 39 kg (44 to 87 lb) or 10 mg rizatriptan to pediatric patients weighing ≥40 kg (88 lb) were similar to those observed following single dose administration of 10 mg rizatriptan to adults.
+Exposures following single dose administration of 5 mg rizatriptan benzoate orally disintegrating tablets to pediatric patients weighing 20 to 39 kg (44 to 87 lb) or 10 mg rizatriptan benzoate orally disintegrating tablets to pediatric patients weighing ≥40 kg (88 lb) were similar to those observed following single dose administration of 10 mg rizatriptan benzoate orally disintegrating tablets to adults.
 
 Gender: The mean AUC0 to ∞ and Cmax of rizatriptan (10 mg orally) were about 30% and 11% higher in females as compared to males, respectively, while Tmax occurred at approximately the same time.
 
@@ -66,7 +66,7 @@ Race: Pharmacokinetic data revealed no significant differences between African A
 
 Monoamine oxidase inhibitors: Rizatriptan is principally metabolized via monoamine oxidase, ‘A’ subtype (MAO-A).
 Plasma concentrations of rizatriptan may be increased by drugs that are selective MAO-A inhibitors (e.g., moclobemide) or nonselective MAO inhibitors [type A and B] (e.g., isocarboxazid, phenelzine, tranylcypromine, and pargyline).
-In a drug interaction study, when rizatriptan 10 mg was administered to subjects (n=12) receiving concomitant therapy with the selective, reversible MAO-A inhibitor, moclobemide 150 mg t.i.d., there were mean increases in rizatriptan AUC and Cmax of 119% and 41% respectively; and the AUC of the active N-monodesmethyl metabolite of rizatriptan was increased more than 400%.
+In a drug interaction study, when rizatriptan benzoate 10 mg was administered to subjects (n=12) receiving concomitant therapy with the selective, reversible MAO-A inhibitor, moclobemide 150 mg t.i.d., there were mean increases in rizatriptan AUC and Cmax of 119% and 41% respectively; and the AUC of the active N-monodesmethyl metabolite of rizatriptan was increased more than 400%.
 The interaction would be expected to be greater with irreversible MAO inhibitors.
 No pharmacokinetic interaction is anticipated in patients receiving selective MAO-B inhibitors [see Contraindications (4) and Drug Interactions (7.5)].
 
@@ -78,4 +78,4 @@ No pharmacokinetic interactions were observed.
 
 Paroxetine: In a study of the interaction between the selective serotonin reuptake inhibitor (SSRI) paroxetine 20 mg/day for two weeks and a single dose of rizatriptan benzoate 10 mg in healthy subjects (n=12), neither the plasma concentrations of rizatriptan nor its safety profile were affected by paroxetine [see Warnings and Precautions (5.7), Drug Interactions (7.4), and Patient Counseling Information (17)].
 
-Oral contraceptives: In a study of concurrent administration of an oral contraceptive during 6 days of administration of rizatriptan (10 to 30 mg/day) in healthy female volunteers (n=18), rizatriptan did not affect plasma concentrations of ethinyl estradiol or norethindrone.
+Oral contraceptives: In a study of concurrent administration of an oral contraceptive during 6 days of administration of rizatriptan benzoate (10 to 30 mg/day) in healthy female volunteers (n=18), rizatriptan did not affect plasma concentrations of ethinyl estradiol or norethindrone.

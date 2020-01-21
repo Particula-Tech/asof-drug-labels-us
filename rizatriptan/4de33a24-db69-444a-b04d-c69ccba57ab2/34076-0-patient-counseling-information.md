@@ -1,6 +1,6 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-See FDA-Approved Patient Labeling (Patient Information).
+Advise the patient to read the FDA-approved patient labeling (Patient Information).
 
 Risk of Myocardial Ischemia and/or Infarction, Prinzmetal's Angina, Other Vasospasm-related Events, and Cerebrovascular Events
 
@@ -16,11 +16,11 @@ Pregnancy
 
 Inform patients that rizatriptan benzoate should not be used during pregnancy unless the potential benefit justifies the potential risk to the fetus [see Use in Specific Populations (8.1)].
 
-Nursing Mothers
+Lactation
 
-Advise patients to notify their healthcare provider if they are breastfeeding or plan to breastfeed [see Use in Specific Populations (8.3)].
+Advise patients to notify their healthcare provider if they are breastfeeding or plan to breastfeed [see Use in Specific Populations (8.2)].
 
-Ability To Perform Complex Tasks
+Ability to Perform Complex Tasks
 
 Since migraines or treatment with rizatriptan benzoate may cause somnolence and dizziness, instruct patients to evaluate their ability to perform complex tasks during migraine attacks and after administration of rizatriptan benzoate.
 
@@ -39,7 +39,7 @@ Each 5 mg orally disintegrating tablet contains 2.24 mg phenylalanine, and each 
 
 Manufactured by:
 
-Glenmark Pharmaceuticals Ltd.
+Glenmark Pharmaceuticals Limited
 
 Colvale-Bardez, Goa 403 513, India
 
@@ -50,8 +50,8 @@ Glenmark Pharmaceuticals Inc., USA
 Mahwah, NJ 07430
 
 Questions?
-1 (888)721-7115
+1 (888) 721-7115
 
-www.glenmarkpharma.com/usa
+www.glenmarkpharma-us.com
 
-February 2019
+November 2019
