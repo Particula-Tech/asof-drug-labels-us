@@ -11,7 +11,7 @@ For more information, call Endo Pharmaceuticals at 1-800-462-3636.
 
 Manufactured for: Endo Pharmaceuticals Inc. Malvern, PA 19355
 
-LIDODERM® is a registered trademark of Hind Health Care, Inc.
+LIDODERM ® is a registered trademark of Hind Health Care, Inc.
 
 © 2018 Endo Pharmaceuticals Inc. All rights reserved.
 

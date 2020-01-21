@@ -9,11 +9,11 @@ The penetration of lidocaine into intact skin after application of LIDODERM is s
 ## Pharmacokinetics
 
 Absorption The amount of lidocaine systemically absorbed from LIDODERM is directly related to both the duration of application and the surface area over which it is applied.
-In a pharmacokinetic study, three LIDODERM patches were applied over an area of 420 cm2 of intact skin on the back of normal volunteers for 12 hours.
+In a pharmacokinetic study, three LIDODERM patches were applied over an area of 420 cm 2 of intact skin on the back of normal volunteers for 12 hours.
 Blood samples were withdrawn for determination of lidocaine concentration during the application and for 12 hours after removal of patches.
 The results are summarized in Table 1.
 
-| LIDODERM Patch | Application Site | Area (cm2) | Dose Absorbed (mg) | Cmax mcg/mL) | Tmax (hr) |
+| LIDODERM Patch | Application Site | Area (cm 2) | Dose Absorbed (mg) | C max mcg/mL) | T max (hr) |
 | --- | --- | --- | --- | --- | --- |
 | Table 1 Absorption of lidocaine from LIDODERM Normal volunteers (n = 15, 12-hour wearing time) |  |  |  |  |  |
 | 3 patches (2100 mg) | Back | 420 | 64 ± 32 | 0.13 ± 0.06 | 11 hr |

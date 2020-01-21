@@ -7,4 +7,4 @@ Dialysis is of negligible value in the treatment of acute overdose with lidocain
 
 In the absence of massive topical overdose or oral ingestion, evaluation of symptoms of toxicity should include consideration of other etiologies for the clinical effects, or overdosage from other sources of lidocaine or other local anesthetics.
 
-The oral LD50 of lidocaine HCl is 459 (346-773) mg/kg (as the salt) in non-fasted female rats and 214 (159-324) mg/kg (as the salt) in fasted female rats, which are equivalent to roughly 4000 mg and 2000 mg, respectively, in a 60 to 70 kg man based on the equivalent surface area dosage conversion factors between species.
+The oral LD 50 of lidocaine HCl is 459 (346-773) mg/kg (as the salt) in non-fasted female rats and 214 (159-324) mg/kg (as the salt) in fasted female rats, which are equivalent to roughly 4000 mg and 2000 mg, respectively, in a 60 to 70 kg man based on the equivalent surface area dosage conversion factors between species.
