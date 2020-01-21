@@ -21,6 +21,12 @@ X-GEN Pharmaceuticals, Inc.
 
 Big Flats NY, 14814
 
+Manufactured by:
+
+Exela Pharma Sciences
+
+Lenoir, NC 28645
+
 TRAN-PI-06
 
 December 2017

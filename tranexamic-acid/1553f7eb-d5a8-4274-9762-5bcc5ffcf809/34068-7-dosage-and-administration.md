@@ -11,7 +11,13 @@ Note: For patients with moderate to severe impaired renal function, the followin
 | 250 to 500 (2.83 to 5.66 mg/dL) | 10 mg/kg daily |
 | >500 (>5.66 mg/dL) | 10 mg/kg every 48 hours or 5 mg/kg every 24 hours |
 
-For intravenous infusion, tranexamic acid injection may be mixed with most solutions for infusion such as electrolyte solutions, carbohydrate solutions, amino acid solutions and Dextran solutions.
-Heparin may be added to tranexamic acid injection.
+For intravenous infusion, Tranexamic Acid Injection may be mixed with most solutions for infusion such as electrolyte solutions, carbohydrate solutions, amino acid solutions and Dextran solutions.
+Heparin may be added to Tranexamic Acid Injection.
 Tranexamic acid injection should NOT be mixed with blood.
 The drug is a synthetic amino acid, and should NOT be mixed with solutions containing penicillin.
+
+Single-dose vials and ampules
+
+Discard Tranexamic Acid Injection vial or ampule and any remaining portion in the vial/ampule after single use.
+
+The diluted mixture may be stored for up to 4 hours at room temperature prior to patient administration.

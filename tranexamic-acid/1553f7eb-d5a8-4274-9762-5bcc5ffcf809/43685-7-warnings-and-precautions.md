@@ -47,11 +47,11 @@ Female mice were not included in this experiment.
 Hyperplasia of the biliary tract and cholangioma and adenocarcinoma of the intrahepatic biliary system have been reported in one strain of rats after dietary administration of doses exceeding the maximum tolerated dose for 22 months.
 Hyperplastic, but not neoplastic, lesions were reported at lower doses.
 Subsequent long-term dietary administration studies in a different strain of rat, each with an exposure level equal to the maximum level employed in the earlier experiment, have failed to show such hyperplastic/neoplastic changes in the liver.
-No mutagenic activity has been demonstrated in several in vitro and in vivo test systems.
+No mutagenic activity has been demonstrated in several in vitro and invivo test systems.
 
 There are no clinical or nonclinical data to assess the effects of tranexamic acid on fertility.
 
-## Pregnancy (Category B)
+## Pregnancy
 
 Reproduction studies performed in mice, rats, and rabbits have not revealed any evidence of impaired fertility or adverse effects on the fetus due to tranexamic acid.
 
@@ -71,7 +71,7 @@ Caution should be exercised when tranexamic acid is administered to a nursing wo
 ## Pediatric Use
 
 The drug has had limited use in pediatric patients, principally in connection with tooth extraction.
-The limited data suggest that dosing instructions for adults can be used for pediatric patients needing tranexamic acid therapy.
+The limited data suggest that dosing instructions for adults can be used for pediatric patients needing Tranexamic Acid Injection therapy.
 
 ## Geriatric Use
 

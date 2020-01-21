@@ -12,3 +12,5 @@ Convulsion, cromatopsia, and visual impairment have also been reported.
 However, due to the spontaneous nature of the reporting of medical events and the lack of controls, the actual incidence and causal relationship of drug and event cannot be determined.
 
 Anaphylaxis or anaphylactoid reaction have been reported that are suggestive of a causal relationship (see WARNINGS).
+
+To report SUSPECTED ADVERSE REACTIONS, contact X-GEN Pharmaceuticals at 1-607-562-2700 or the FDA at 1-800-FDA-1088 or WWW.fda.gov/medwatch
