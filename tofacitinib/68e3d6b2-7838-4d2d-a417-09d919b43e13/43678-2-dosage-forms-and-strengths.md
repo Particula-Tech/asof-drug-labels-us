@@ -8,3 +8,4 @@ XELJANZ Tablets:
 XELJANZ XR Tablets:
 
 - 11 mg tofacitinib: Pink, oval, extended-release film-coated tablets with a drilled hole at one end of the tablet band and "JKI 11" printed on one side of the tablet.
+- 22 mg tofacitinib: Beige, oval, extended-release film-coated tablets with a drilled hole at one end of the tablet band and "JKI 22" printed on one side of the tablet.

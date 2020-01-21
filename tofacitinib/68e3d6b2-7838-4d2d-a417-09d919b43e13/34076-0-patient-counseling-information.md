@@ -8,16 +8,24 @@ Inform patients that XELJANZ/XELJANZ XR may lower the ability of their immune sy
 Advise patients not to start taking XELJANZ/XELJANZ XR if they have an active infection.
 Instruct patients to contact their healthcare provider immediately during treatment if symptoms suggesting infection appear in order to ensure rapid evaluation and appropriate treatment [see Warnings and Precautions (5.1)].
 
-Advise patients that the risk of herpes zoster, some cases of which can be serious, is increased in patients treated with XELJANZ [see Warnings and Precautions (5.1)].
+Advise patients that the risk of herpes zoster, some cases of which can be serious, is increased in patients treated with XELJANZ/XELJANZ XR [see Warnings and Precautions (5.1)].
 
 Malignancies and Lymphoproliferative Disorders
 
 Inform patients that XELJANZ/XELJANZ XR may increase their risk of certain cancers, and that lymphoma and other cancers have been observed in patients taking XELJANZ.
-Instruct patients to inform their healthcare provider if they have ever had any type of cancer [see Warnings and Precautions (5.2)].
+Instruct patients to inform their healthcare provider if they have ever had any type of cancer [see Warnings and Precautions (5.3)].
+
+Thrombosis
+
+Advise patients to stop taking XELJANZ/XELJANZ XR and to call their healthcare provider right away if they experience any symptoms of thrombosis (sudden shortness of breath, chest pain worsened with breathing, swelling of leg or arm, leg pain or tenderness, red or discolored skin in the affected leg or arm) [see Warnings and Precautions (5.4)].
+
+Hypersensitivity
+
+Advise patients to stop taking XELJANZ/XELJANZ XR and to call their healthcare provider right away if they experience any symptoms of allergic reactions while taking XELJANZ/XELJANZ XR [see Warnings and Precautions (5.6)].
 
 Important Information on Laboratory Abnormalities
 
-Inform patients that XELJANZ/XELJANZ XR may affect certain lab test results, and that blood tests are required before and during XELJANZ/XELJANZ XR treatment [see Warnings and Precautions (5.4)].
+Inform patients that XELJANZ/XELJANZ XR may affect certain lab test results, and that blood tests are required before and during XELJANZ/XELJANZ XR treatment [see Warnings and Precautions (5.7)].
 
 Pregnancy
 
@@ -32,7 +40,8 @@ Advise women not to breastfeed during treatment with XELJANZ/XELJANZ XR and for 
 
 Infertility
 
-Advise females of reproductive potential that XELJANZ/XELJANZ XR may impair fertility [see Use in Specific Populations (8.3), Nonclinical Toxicology (13.1)] It is not known if this effect is reversible.
+Advise females of reproductive potential that XELJANZ/XELJANZ XR may impair fertility [see Use in Specific Populations (8.3), Nonclinical Toxicology (13.1)].
+It is not known if this effect is reversible.
 
 Residual Tablet Shell
 

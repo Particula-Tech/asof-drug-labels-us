@@ -43,3 +43,21 @@ Xeljanz® (tofacitinib) tablets
 10mg Is Recommended Only In Ulcerative Colitis
 
 60 Tablets Rx only
+
+# PRINCIPAL DISPLAY PANEL - 22 mg Tablet Bottle Label
+
+PROFESSIONAL SAMPLE-NOT FOR SALE ALWAYS DISPENSE WITH MEDICATION GUIDE
+
+Pfizer
+
+NDC 63539-502-30
+
+Xeljanz® XR (tofacitinib) tablets
+
+Extended Release Tablets
+
+22 mg*
+
+22mg Is Recommended Only In Ulcerative Colitis
+
+30 Tablets Rx only

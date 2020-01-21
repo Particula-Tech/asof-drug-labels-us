@@ -2,19 +2,19 @@
 
 Rheumatoid Arthritis
 
-XELJANZ/XELJANZ XR is indicated for the treatment of adult patients with moderately to severely active rheumatoid arthritis who have had an inadequate response or intolerance to methotrexate.
+XELJANZ/XELJANZ XR is indicated for the treatment of adult patients with moderately to severely active rheumatoid arthritis (RA) who have had an inadequate response or intolerance to methotrexate.
 It may be used as monotherapy or in combination with methotrexate or other nonbiologic disease-modifying antirheumatic drugs (DMARDs).
 
 - Limitations of Use: Use of XELJANZ/XELJANZ XR in combination with biologic DMARDs or with potent immunosuppressants such as azathioprine and cyclosporine is not recommended.
 
 Psoriatic Arthritis
 
-XELJANZ/XELJANZ XR is indicated for the treatment of adult patients with active psoriatic arthritis who have had an inadequate response or intolerance to methotrexate or other disease-modifying antirheumatic drugs (DMARDs).
+XELJANZ/XELJANZ XR is indicated for the treatment of adult patients with active psoriatic arthritis (PsA) who have had an inadequate response or intolerance to methotrexate or other disease-modifying antirheumatic drugs (DMARDs).
 
 - Limitations of Use: Use of XELJANZ/XELJANZ XR in combination with biologic DMARDs or with potent immunosuppressants such as azathioprine and cyclosporine is not recommended.
 
 Ulcerative Colitis
 
-XELJANZ is indicated for the treatment of adult patients with moderately to severely active ulcerative colitis (UC).
+XELJANZ/XELJANZ XR is indicated for the treatment of adult patients with moderately to severely active ulcerative colitis (UC), who have an inadequate response or who are intolerant to TNF blockers.
 
-- Limitations of Use: Use of XELJANZ in combination with biological therapies for UC or with potent immunosuppressants such as azathioprine and cyclosporine is not recommended.
+- Limitations of Use: Use of XELJANZ/XELJANZ XR in combination with biological therapies for UC or with potent immunosuppressants such as azathioprine and cyclosporine is not recommended.
