@@ -25,6 +25,6 @@ Special Senses – keratitis and mydriasis;
 
 Skin and Appendages – pruritus and diaphoresis;
 
-Miscellaneous - neuroleptic malignant syndrome (see WARNINGS), allergic reactions including anaphylactic reactions, edema, fever, pathological gambling, increased libido including hypersexuality and impulse control symptoms.
+Miscellaneous - neuroleptic malignant syndrome (see WARNINGS), allergic reactions including anaphylactic reactions, edema and fever.
 
 Laboratory Test – elevated: CPK, BUN, serum creatinine, alkaline phosphatase, LDH, bilirubin, GGT, SGOT, and SGPT.

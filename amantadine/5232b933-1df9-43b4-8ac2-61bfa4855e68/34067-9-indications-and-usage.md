@@ -9,6 +9,7 @@ Following vaccination during an influenza A outbreak, amantadine hydrochloride c
 
 Influenza A Treatment: Amantadine hydrochloride capsules are also indicated in the treatment of uncomplicated respiratory tract illness caused by influenza A virus strains especially when administered early in the course of illness.
 There are no well-controlled clinical studies demonstrating that treatment with amantadine hydrochloride capsules will avoid the development of influenza A virus pneumonitis or other complications in high risk patients.
+
 There is no clinical evidence indicating that amantadine hydrochloride capsules are effective in the prophylaxis or treatment of viral respiratory tract illnesses other than those caused by influenza A virus strains.
 
 The following points should be considered before initiating treatment or prophylaxis with amantadine hydrochloride capsules:

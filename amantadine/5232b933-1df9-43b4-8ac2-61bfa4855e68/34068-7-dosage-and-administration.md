@@ -27,10 +27,10 @@ Therefore, there are no data which demonstrate that this dose is as effective as
 Prophylactic dosing should be started in anticipation of an influenza A outbreak and before or after contact with individuals with influenza A virus respiratory tract illness.
 
 Amantadine hydrochloride capsules should be continued daily for at least 10 days following a known exposure.
-If amantadine hydrochloride capsules are used chemoprophylactically in conjunction with inactivated influenza A virus vaccine until protective antibody responses develop, then it should be administered for 2 to 4 weeks after the vaccine has been given.
-When inactivated influenza A virus vaccine is unavailable or contraindicated, Amantadine hydrochloride capsules should be administered for the duration of known influenza A in the community because of repeated and unknown exposure.
+If amantadine hydrochloride capsules are used chemo prophylactically in conjunction with inactivated influenza A virus vaccine until protective antibody responses develop, then it should be administered for 2 to 4 weeks after the vaccine has been given.
+When inactivated influenza A virus vaccine is unavailable or contraindicated, Amantadine hydrochloride should be administered for the duration of known influenza A in the community because of repeated and unknown exposure.
 
-Treatment of influenza A virus illness should be started as soon as possible, preferably within 24 to 48 hours after onset of signs and symptoms, and should be continued for 24 to 48 hours after the disappearance of signs and symptoms.
+Treatment of influenza A virus illness should be started as soon as possible, preferably within 24 to 48 hours after onset of signs and symptoms and should be continued for 24 to 48 hours after the disappearance of signs and symptoms.
 
 ## Dosage for Parkinsonism:
 
@@ -55,11 +55,11 @@ Dosage for Concomitant Therapy
 Some patients who do not respond to anticholinergic antiparkinson drugs may respond to amantadine hydrochloride capsules.
 When amantadine hydrochloride capsules or anticholinergic antiparkinson drugs are each used with marginal benefit, concomitant use may produce additional benefit.
 
-When amantadine hydrochloride capsules and levodopa are initiated concurrently, the patient can exhibit rapid therapeutic benefits.
+When amantadine hydrochloride and levodopa are initiated concurrently, the patient can exhibit rapid therapeutic benefits.
 Amantadine hydrochloride capsules should be held constant at 100 mg daily or twice daily while the daily dose of levodopa is gradually increased to optimal benefit.
 
-When amantadine hydrochloride capsules are added to optimal well-tolerated doses of levodopa, additional benefit may result, including smoothing out the fluctuations in improvement which sometimes occur in patients on levodopa alone.
-Patients who require a reduction in their usual dose of levodopa because of development of side effects may possibly regain lost benefit with the addition of amantadine hydrochloride capsules.
+When amantadine hydrochloride is added to optimal well-tolerated doses of levodopa, additional benefit may result, including smoothing out the fluctuations in improvement which sometimes occur in patients on levodopa alone.
+Patients who require a reduction in their usual dose of levodopa because of development of side effects may possibly regain lost benefit with the addition of amantadine hydrochloride.
 
 ## Dosage for Drug-Induced Extrapyramidal Reactions:
 

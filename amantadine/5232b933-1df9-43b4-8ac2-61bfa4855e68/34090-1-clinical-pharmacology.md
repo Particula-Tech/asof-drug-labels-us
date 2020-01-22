@@ -22,7 +22,7 @@ The quantitative relationship between the in vitro sensitivity of influenza A va
 Mechanism of Action
 
 Parkinson's Disease: The mechanism of action of amantadine in the treatment of Parkinson's disease and drug-induced extrapyramidal reactions is not known.
-Data from earlier animal studies suggest that amantadine may have direct and indirect effects on dopamine neurons.
+Data from earlier animal studies suggest that amantadine hydrochloride may have direct and indirect effects on dopamine neurons.
 More recent studies have demonstrated that amantadine is a weak, non-competitive NMDA receptor antagonist (K1= 10µM).
 Although amantadine has not been shown to possess direct anticholinergic activity in animal studies, clinically, it exhibits anticholinergic-like side effects such as dry mouth, urinary retention, and constipation.
 
@@ -65,12 +65,12 @@ Following the administration of amantadine 100 mg as a single dose, the mean ± 
 
 The apparent oral plasma clearance of amantadine is reduced and the plasma half-life and plasma concentrations are increased in healthy elderly individuals age 60 and older.
 After single dose administration of 25 to 75 mg to 7 healthy, elderly male volunteers, the apparent plasma clearance of amantadine was 0.10 ± 0.04 L/hr/kg (range 0.06 to 0.17 L/hr/kg) and the half-life was 29 ± 7 hours (range 20 to 41 hours).
-Whether these changes are due to decline in renal function or other age related factors is not known.
+Whether these changes are due to decline in renal function or other age-related factors is not known.
 
-In a study of young healthy subjects (n=20), mean renal clearance of amantadine, normalized for body mass index, was 1.5 fold higher in males compared to females (p<0.032).
+In a study of young healthy subjects (n=20), mean renal clearance of amantadine, normalized for body mass index, was 1.5-fold higher in males compared to females (p<0.032).
 
 Compared with otherwise healthy adult individuals, the clearance of amantadine is significantly reduced in adult patients with renal insufficiency.
-The elimination half-life increases two to three fold or greater when creatinine clearance is less than 40 mL/min/1.73 m2 and averages eight days in patients on chronic maintenance hemodialysis.
+The elimination half-life increases two to three-fold or greater when creatinine clearance is less than 40 mL/min/1.73 m2 and averages eight days in patients on chronic maintenance hemodialysis.
 Amantadine is removed in negligible amounts by hemodialysis.
 
 The pH of the urine has been reported to influence the excretion rate of amantadine hydrochloride.

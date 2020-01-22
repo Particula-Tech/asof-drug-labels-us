@@ -6,22 +6,24 @@ Acute toxicity may be attributable to the anticholinergic effects of amantadine.
 Drug overdose has resulted in cardiac, respiratory, renal or central nervous system toxicity.
 Cardiac dysfunction includes arrhythmia, tachycardia and hypertension (see OVERDOSAGE).
 
+Deaths due to drug accumulation (overdose) have been reported in patients with renal impairment, who were prescribed higher than recommended dose of amantadine hydrochloride for their level of renal function [see Dosage and Administration: Dosage for Impairment Renal Function and Overdosage].
+
 Suicide Attempts: Suicide attempts, some of which have been fatal, have been reported in patients treated with amantadine hydrochloride, many of whom received short courses for influenza treatment or prophylaxis.
 The incidence of suicide attempts is not known and the pathophysiologic mechanism is not understood.
 Suicide attempts and suicidal ideation have been reported in patients with and without prior history of psychiatric illness.
 Amantadine hydrochloride can exacerbate mental problems in patients with a history of psychiatric disorders or substance abuse.
 Patients who attempt suicide may exhibit abnormal mental states which include disorientation, confusion, depression, personality changes, agitation, aggressive behavior, hallucinations, paranoia, other psychotic reactions and somnolence or insomnia.
-Because of the possibility of serious adverse effects, caution should be observed when prescribing amantadine hydrochloride capsules to patients being treated with drugs having CNS effects, or for whom the potential risks outweigh the benefit of treatment.
+Because of the possibility of serious adverse effects, caution should be observed when prescribing amantadine hydrochloride to patients being treated with drugs having CNS effects, or for whom the potential risks outweigh the benefit of treatment.
 
 CNS Effects: Patients with a history of epilepsy or other “seizures” should be observed closely for possible increased seizure activity.
 
-Patients receiving amantadine hydrochloride capsules who note central nervous system effects or blurring of vision should be cautioned against driving or working in situations where alertness and adequate motor coordination are important.
+Patients receiving amantadine hydrochloride who note central nervous system effects or blurring of vision should be cautioned against driving or working in situations where alertness and adequate motor coordination are important.
 
 Other: Patients with a history of congestive heart failure or peripheral edema should be followed closely as there are patients who developed congestive heart failure while receiving amantadine hydrochloride capsules.
 
 Patients with Parkinson's disease improving on amantadine hydrochloride capsules should resume normal activities gradually and cautiously, consistent with other medical considerations, such as the presence of osteoporosis or phlebothrombosis.
 
-Because amantadine hydrochloride capsules has anticholinergic effects and may cause mydriasis, it should not be given to patients with untreated angle closure glaucoma.
+Because amantadine hydrochloride has anticholinergic effects and may cause mydriasis, it should not be given to patients with untreated angle closure glaucoma.
 
 # PRECAUTIONS
 
@@ -42,16 +44,22 @@ Other important considerations in the differential diagnosis include central ant
 The management of NMS should include: 1) intensive symptomatic treatment and medical monitoring, and 2) treatment of any concomitant serious medical problems for which specific treatments are available.
 Dopamine agonists, such as bromocriptine, and muscle relaxants, such as dantrolene are often used in the treatment of NMS, however, their effectiveness has not been demonstrated in controlled studies.
 
-Renal disease: Because amantadine hydrochloride is mainly excreted in the urine, it accumulates in the plasma and in the body when renal function declines.
+Renal Disease: Because amantadine hydrochloride is mainly excreted in the urine, it accumulates in the plasma and in the body when renal function declines.
 Thus, the dose of amantadine hydrochloride should be reduced in patients with renal impairment and in individuals who are 65 years of age or older (see DOSAGE AND ADMINISTRATION: Dosage for Impaired Renal Function).
 
-Liver disease: Care should be exercised when administering amantadine hydrochloride to patients with liver disease.
+Liver Disease: Care should be exercised when administering amantadine hydrochloride to patients with liver disease.
 Rare instances of reversible elevation of liver enzymes have been reported in patients receiving amantadine hydrochloride, though a specific relationship between the drug and such changes has not been established.
+
+Impulse Control/Compulsive Behaviors: Post-marketing reports suggest that patients with anti-Parkinson medications can experience intense urges to gamble, increased sexual urges, intense urges to spend money uncontrollably, and other intense urges.
+Patients may be unable to control these urges while taking one or more of the medications that are generally used for the treatment of Parkinson's disease and that increase central dopaminergic tone, including amantadine hydrochloride.
+In some cases, although not all, these urges were reported to have stopped when the dose was reduced, or the medication was discontinued.
+Because patients may not recognize these behaviors as abnormal it is important for prescribers to specifically ask patients or their caregivers about the development of new or increased gambling urges, sexual urges, uncontrolled spending or other urges while being treated with amantadine hydrochloride.
+Physicians should consider dose reduction or stopping the medication if a patient develops such urges while taking amantadine hydrochloride.
 
 Melanoma: Epidemiological studies have shown that patients with Parkinson's disease have a higher risk (2- to approximately 6-fold higher) of developing melanoma than the general population.
 Whether the increased risk observed was due to Parkinson's disease or other factors, such as drugs used to treat Parkinson's disease, is unclear.
 
-For the reasons stated above, patients and providers are advised to monitor for melanomas frequently and on a regular basis when using amantadine hydrochloride capsules for any indication.
+For the reasons stated above, patients and providers are advised to monitor for melanomas frequently and on a regular basis when using amantadine hydrochloride for any indication.
 Ideally, periodic skin examinations should be performed by appropriately qualified individuals (e.g., dermatologists).
 
 Other: The dose of amantadine hydrochloride may need careful adjustment in patients with congestive heart failure, peripheral edema, or orthostatic hypotension.

@@ -20,19 +20,13 @@ Consult physician before discontinuing medication.
 
 Seek medical attention immediately if it is suspected that an overdose of medication has been taken.
 
-There have been reports of patients experiencing intense urges to gamble, increased sexual urges and other intense urges and the inability to control these urges while taking one or more of the medications that increase central dopaminergic tone and that are generally used for the treatment of Parkinson's disease, including amantadine.
-Although it is not proven that the medications caused these events, these urges were reported to have stopped in some cases when the dose was reduced or the medication was stopped.
-Prescribers should ask patients about the development of new or increased gambling urges, sexual urges or other urges while being treated with amantadine.
-Patients should inform their physician if they experience new or increased gambling urges, increased sexual urges or other intense urges while taking amantadine.
-Physicians should consider dose reduction or stopping the medication if a patient develops such urges while taking amantadine.
-
 Drug Interactions
 
 Careful observation is required when amantadine hydrochloride is administered concurrently with central nervous system stimulants.
 Agents with anticholinergic properties may potentiate the anticholinergic-like side effects of amantadine.
 
 Coadministration of thioridazine has been reported to worsen the tremor in elderly patients with Parkinson's disease, however, it is not known if other phenothiazines produce a similar response.
-Coadministration of triamterene and hydrochlorothiazide capsules resulted in a higher plasma amantadine concentration in a 61 year-old man receiving amantadine hydrochloride capsules 100 mg t.i.d. for Parkinson's disease.1 It is not known which of the components of triamterene and hydrochlorothiazide capsules contributed to the observation or if related drugs produce a similar response.
+Coadministration of triamterene and hydrochlorothiazide capsules resulted in a higher plasma amantadine concentration in a 61 year-old man receiving amantadine (hydrochloride capsules) 100 mg t.i.d. for Parkinson's disease.1 It is not known which of the components of triamterene and hydrochlorothiazide capsules contributed to the observation or if related drugs produce a similar response.
 
 Coadministration of quinine or quinidine with amantadine was shown to reduce the renal clearance of amantadine by about 30%.
 
@@ -43,7 +37,7 @@ Trivalent inactivated influenza vaccine can be administered at any time relative
 
 Carcinogenesis and Mutagenesis
 
-Long-term in vivo animal studies designed to evaluate the carcinogenic potential of amantadine hydrochloride have not been performed.
+Long-term in vivo animal studies designed to evaluate the carcinogenic potential of amantadine have not been performed.
 In several in vitro assays for gene mutation, amantadine hydrochloride did not increase the number of spontaneously observed mutations in four strains of Salmonella typhimurium (Ames Test) or in a mammalian cell line (Chinese Hamster Ovary cells) when incubations were performed either with or without a liver metabolic activation extract.
 Further, there was no evidence of chromosome damage observed in an in vitro test using freshly derived and stimulated human peripheral blood lymphocytes (with and without metabolic activation) or in an in vivo mouse bone marrow micronucleus test (140 to 550 mg/kg; estimated human equivalent doses of 11.7 to 45.8 mg/kg based on body surface area conversion).
 
@@ -56,8 +50,6 @@ There were no effects on fertility at a dose level of 10 mg/kg/day (or 0.3 times
 Failed fertility has been reported during human in vitro fertilization (IVF) when the sperm donor ingested amantadine 2 weeks prior to, and during the IVF cycle.
 
 Pregnancy
-
-Pregnancy Category C
 
 The effect of amantadine on embryofetal and peri-postnatal development has not been adequately tested, that is, in studies conducted under Good Laboratory Practice (GLP) and according to current recommended methodology.
 However, in two non-GLP studies in rats in which females were dosed from 5 days prior to mating to Day 6 of gestation or on Days 7 to 14 of gestation, amantadine hydrochloride produced increases in embryonic death at an oral dose of 100 mg/kg (or 3 times the maximum recommended human dose on a mg/m2 basis).
@@ -84,4 +76,4 @@ Usage in the Elderly
 
 Because amantadine hydrochloride is primarily excreted in the urine, it accumulates in the plasma and in the body when renal function declines.
 Thus, the dose of amantadine hydrochloride should be reduced in patients with renal impairment and in individuals who are 65 years of age or older.
-The dose of amantadine hydrochloride capsules may need reduction in patients with congestive heart failure, peripheral edema, or orthostatic hypotension (see DOSAGE AND ADMINISTRATION).
+The dose of amantadine hydrochloride may need reduction in patients with congestive heart failure, peripheral edema, or orthostatic hypotension (see DOSAGE AND ADMINISTRATION).

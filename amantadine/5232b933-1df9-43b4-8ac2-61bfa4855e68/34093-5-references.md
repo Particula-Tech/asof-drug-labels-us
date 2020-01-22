@@ -20,4 +20,4 @@ Berkowitz, J. Pediatr.
 
 Manufactured for UPSHER-SMITH LABORATORIES, LLC Maple Grove, MN 55369 MADE IN CANADA
 
-Revised 0617
+Revised 1019
