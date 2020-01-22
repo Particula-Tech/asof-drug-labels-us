@@ -12,7 +12,7 @@ Clinical studies and studies in experimental animals have been conducted to comp
 In some of the clinical studies and in the animal studies, tobramycin caused nephrotoxicity significantly less frequently than gentamicin.
 In some other clinical studies, no significant difference in the incidence of nephrotoxicity between tobramycin and gentamicin was found.
 
-Other reported adverse reactions possibly related to tobramycin include anemia, granulocytopenia, and thrombocytopenia; and fever, rash, exfoliative dermatitis, itching, urticaria, nausea, vomiting, diarrhea, headache, lethargy, pain at the injection site, mental confusion, and disorientation.
-Laboratory abnormalities possibly related to tobramycin include increased serum transaminases (AST, ALT); increased serum LDH and bilirubin; decreased serum calcium, magnesium, sodium, and potassium; and leukopenia, leukocytosis, and eosinophilia.
+Other reported adverse reactions possibly related to tobramycin sulfate include anemia, granulocytopenia, and thrombocytopenia; and fever, rash, exfoliative dermatitis, itching, urticaria, nausea, vomiting, diarrhea, headache, lethargy, pain at the injection site, mental confusion, and disorientation.
+Laboratory abnormalities possibly related to tobramycin include increased serum transaminases (SGOT, SGPT); increased serum LDH and bilirubin; decreased serum calcium, magnesium, sodium, and potassium; and leukopenia, leukocytosis, and eosinophilia.
 
-To report SUSPECTED ADVERSE EVENTS, contact FDA at 1-800-FDA-1088 or www.fda.gov.
+To report SUSPECTED ADVERSE REACTIONS, contact X-GEN Pharmaceuticals Inc. at 1-866-390-4411 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.

@@ -1,6 +1,6 @@
 # OVERDOSAGE
 
-Signs and Symptoms- The severity of the signs and symptoms following a tobramycin overdose are dependent on the dose administered, the patient’s renal function, state of hydration, and age and whether or not other medications with similar toxicities are being administered concurrently.
+Signs and Symptoms-The severity of the signs and symptoms following a tobramycin overdose are dependent on the dose administered, the patient’s renal function, state of hydration, and age and whether or not other medications with similar toxicities are being administered concurrently.
 Toxicity may occur in patients treated more than 10 days, in adults given more than 5 mg/kg/day, in pediatric patients given more than 7.5 mg/kg/day, or in patients with reduced renal function where dose has not been appropriately adjusted.
 
 Nephrotoxicity following the parenteral administration of an aminoglycoside is most closely related to the area under the curve of the serum concentration versus time graph.
@@ -25,7 +25,7 @@ In managing overdosage, consider the possibility of multiple drug overdoses, int
 The initial intervention in a tobramycin overdose is to establish an airway and ensure oxygenation and ventilation.
 Resuscitative measures should be initiated promptly if respiratory paralysis occurs.
 
-Patients who have received an overdose of tobramycin and who have normal renal function should be adequately hydrated to maintain a urine output of 3 to 5 mL/kg/hr.
+Patients that have received an overdose of tobramycin and who have normal renal function should be adequately hydrated to maintain a urine output of 3 to 5 mL/kg/hr.
 Fluid balance, creatinine clearance, and tobramycin plasma levels should be carefully monitored until the serum tobramycin level falls below 2 mcg/mL.
 
 Patients in whom the elimination half-life is greater than 2 hours or whose renal function is abnormal may require more aggressive therapy.
