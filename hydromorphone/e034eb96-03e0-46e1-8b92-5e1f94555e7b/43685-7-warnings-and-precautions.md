@@ -41,6 +41,10 @@ Overestimating the Hydromorphone Hydrochloride Injection or Hydromorphone Hydroc
 Hydromorphone Hydrochloride Injection (HPF) is for use in opioid-tolerant patients only.
 Administration of this formulation may cause fatal respiratory depression when administered to patients who are not tolerant to the respiratory depressant effects of opioids.
 
+Opioids can cause sleep-related breathing disorders including central sleep apnea (CSA) and sleep-related hypoxemia.
+Opioid use increases the risk of CSA in a dose-dependent fashion.
+In patients who present with CSA, consider decreasing the opioid dosage using best practices for opioid taper [see Dosage and Administration (2.6)].
+
 ## 5.4 Neonatal Opioid Withdrawal Syndrome
 
 Prolonged use of Hydromorphone Hydrochloride Injection or Hydromorphone Hydrochloride Injection [high potency formulation (HPF)] during pregnancy can result in withdrawal in the neonate.
