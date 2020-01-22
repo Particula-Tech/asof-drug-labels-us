@@ -2,26 +2,39 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Category C
+Risk Summary
 
-Safety in pregnant women has not been established.
-There are no adequate and well controlled studies of fenofibrate in pregnant women.
+Limited available data with fenofibrate use in pregnant women are insufficient to determine a drug associated risk of major birth defects, miscarriage or adverse maternal or fetal outcomes.
+In animal reproduction studies, no evidence of embryo-fetal toxicity was observed with oral administration of fenofibrate in rats and rabbits during organogenesis at doses less than or equivalent to the maximum recommended clinical dose of 160 mg daily, based on body surface area (mg/m2).
+Adverse reproductive outcomes occurred at higher doses in the presence of maternal toxicity (see Data).
 Fenofibrate should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 
-In female rats given oral dietary doses of 15, 75, and 300 mg/kg/day of fenofibrate from 15 days prior to mating through weaning, maternal toxicity was observed at 0.3 times the MRHD, based on body surface area comparisons; mg/m2.
+The estimated background risk of major birth defects and miscarriage for the indicated population is unknown.
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively.
 
-In pregnant rats given oral dietary doses of 14, 127, and 361 mg/kg/day from gestation day 6 to 15 during the period of organogenesis, adverse developmental findings were not observed at 14 mg/kg/day (less than 1 times the MRHD, based on body surface area comparisons; mg/m2).
-At higher multiples of human doses evidence of maternal toxicity was observed.
+Data
 
-In pregnant rabbits given oral gavage doses of 15, 150, and 300 mg/kg/day from gestation day 6 to 18 during the period of organogenesis and allowed to deliver, aborted litters were observed at 150 mg/kg/day (10 times the MRHD, based on body surface area comparisons: mg/m2).
-No developmental findings were observed at 15 mg/kg/day (at less than 1 times the MRHD, based on body surface area comparisons; mg/m2).
+Animal Data
 
-In pregnant rats given oral dietary doses of 15, 75, and 300 mg/kg/day from gestation day 15 through lactation day 21 (weaning), maternal toxicity was observed at less than 1 times the maximum recommended human dose (MRHD), based on body surface area comparisons; mg/m2.
+In pregnant rats given oral dietary doses of 14, 127, and 361 mg/kg/day from gestation day 6 to 15 during the period of organogenesis, no adverse developmental findings were observed at 14 mg/kg/day (less than the clinical exposure at the maximum recommended human dose [MRHD] of 300 mg fenofibrate daily, equivalent to 160 mg fenofibrate daily, based on body surface area comparisons).
+Increased fetal skeletal malformations were observed at maternally toxic doses (361 mg/kg/day, corresponding to 12 times the clinical exposure at the MRHD) that significantly suppressed maternal body weight gain.
 
-## 8.3 Nursing Mothers
+In pregnant rabbits given oral gavage doses of 15, 150, and 300 mg/kg/day from gestation day 6 to 18 during the period of organogenesis and allowed to deliver, no adverse developmental findings were observed at 15 mg/kg/day (a dose that approximates the clinical exposure at the MRHD, based on body surface area comparisons).
+Aborted litters were observed at maternally toxic doses (≥ 150 mg/kg/day, corresponding to ≥ 10 times the clinical exposure at the MRHD) that suppressed maternal body weight gain.
 
-Fenofibrate should not be used in nursing mothers.
-A decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother.
+In pregnant rats given oral dietary doses of 15, 75, and 300 mg/kg/day from gestation day 15 through lactation day 21 (weaning), no adverse developmental effects were observed at 15 mg/kg/day (less than the clinical exposure at the MRHD, based on body surface area comparisons), despite maternal toxicity (decreased weight gain).
+Post-implantation loss was observed at ≥ 75 mg/kg/day (≥ 2 times the clinical exposure at the MRHD) in the presence of maternal toxicity (decreased weight gain).
+Decreased pup survival was noted at 300 mg/kg/day
+
+(10 times the clinical exposure at the MRHD), which was associated with decreased maternal body weight gain/maternal neglect.
+
+## 8.2 Lactation
+
+Risk Summary
+
+There is no available information on the presence of fenofibrate in human milk, effects of the drug on the breastfed infant, or the effects on milk production.
+Fenofibrate is present in the milk of rats, and is therefore likely to be present in human milk.
+Because of the potential for serious adverse reactions in breastfed infants, such as disruption of infant lipid metabolism, women should not breastfeed during treatment with fenofibrate and for 5 days after the final dose [see Contraindications (4)].
 
 ## 8.4 Pediatric Use
 
