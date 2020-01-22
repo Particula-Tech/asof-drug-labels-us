@@ -26,8 +26,8 @@ Appropriate fluid and electrolyte management, protein supplementation, antibioti
 Penicillin should be used with caution in individuals with histories of significant allergies and/or asthma (see WARNINGS).
 Whenever allergic reactions occur, penicillin should be withdrawn unless, in the opinion of the physician, the condition being treated is life-threatening and amenable only to penicillin therapy.
 
-Penicillin G Sodium for lnjection, USP by the intravenous route in high doses (above 10 million units) should be administered slowly because of the potential adverse effects of electrolyte imbalance from the sodium content of the penicillin.
-Penicillin G Sodium for lnjection, USP contains 1.68 mEq of sodium per million units of penicillin G.
+Penicillin G Sodium for injection, USP by the intravenous route in high doses (above 10 million units) should be administered slowly because of the potential adverse effects of electrolyte imbalance from the sodium content of the penicillin.
+Penicillin G Sodium for injection, USP contains 1.68 mEq of sodium per million units of penicillin G.
 
 The use of antibiotics may promote overgrowth of nonsusceptible organisms, including fungi.
 Indwelling intravenous catheters encourage superinfections.

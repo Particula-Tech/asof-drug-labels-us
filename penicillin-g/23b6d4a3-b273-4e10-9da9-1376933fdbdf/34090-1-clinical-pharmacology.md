@@ -68,14 +68,14 @@ Table 1: Susceptibility Interpretive Criteria
 | --- | --- | --- | --- | --- | --- | --- |
 |  | Susceptibility Test Result Interpretive Criteria |  |  |  |  |  |
 |  | S | I | R | S | I | R |
-| Staphylococcus spp. | ≥29 | - | ≤28 | ≤0.12 | - | ≥0.25 |
-| Neisseria gonorrhoeae | ≥47 | 27-46 | ≤26 | ≤0.06 | 0.12-1 | ≥2 |
-| Streptococcus spp.(beta-hemolytic group) | ≥24 | - | - | ≤0.12 | - | - |
-| Streptococcus spp.(viridans group) |  |  |  | ≤0.12 | 0.25-2 | ≥4 |
-| Streptococcuspneumoniae (meningitis isolates) |  |  |  | ≤0.06 | - | ≥0.12 |
-| Streptococcuspneumoniae (non-meningitis isolates) |  |  |  | ≤2 | 4 | ≥8 |
-| Neisseria meningitidis |  |  |  | ≤ 0.06 | 0.12-0.25 | ≥0.5 |
-| Bacillus anthracis |  |  |  | ≤0.12 |  | ≥0.25 |
+| Staphylococcus spp. | ≥ 29 | - | ≤ 28 | ≤ 0.12 | - | ≥ 0.25 |
+| Neisseria gonorrhoeae | ≥ 47 | 27 to 46 | ≤ 26 | ≤ 0.06 | 0.12 to 1 | ≥ 2 |
+| Streptococcus spp.(beta-hemolytic group) | ≥ 24 | - | - | ≤ 0.12 | - | - |
+| Streptococcus spp.(viridans group) |  |  |  | ≤ 0.12 | 0.25 to 2 | ≥ 4 |
+| Streptococcuspneumoniae (meningitis isolates) |  |  |  | ≤ 0.06 | - | ≥ 0.12 |
+| Streptococcuspneumoniae (non-meningitis isolates) |  |  |  | ≤ 2 | 4 | ≥ 8 |
+| Neisseria meningitidis |  |  |  | ≤ 0.06 | 0.12 to 0.25 | ≥ 0.5 |
+| Bacillus anthracis |  |  |  | ≤ 0.12 |  | ≥ 0.25 |
 
 A report of “susceptible” indicates that the pathogen is likely to be inhibited by usually achievable concentrations of the antimicrobial compound in the blood.
 A report of “Intermediate” (I) indicates that the result should be considered equivocal, if the microorganism is not fully susceptible to alternative, clinically feasible drugs, the test should be repeated.
@@ -94,8 +94,8 @@ Acceptable Quality Control Ranges
 | Microorganism | Disk diffusion (Zone diameter ranges in mm) | Minimal Inhibitory Concentration Range (MIC in mcg/mL) |
 | --- | --- | --- |
 |  | Acceptable Quality Control Ranges |  |
-| Enterococcus faecalisATCC® 29212 |  | 1-4 |
-| Neisseria gonorrhoeaeATCC® 49226 | 26-34 | 0.25-1(agar dilution method) |
-| Staphylococcus aureusATCC® 25923 | 26-37 |  |
-| Staphylococcus aureusATCC® 29213 |  | 0.25-2 |
-| Streptococcus pneumoniaeATCC® 49619 | 24-30 | 0.25-1 |
+| Enterococcus faecalisATCC® 29212 |  | 1 to 4 |
+| Neisseria gonorrhoeaeATCC® 49226 | 26 to 34 | 0.25 to 1(agar dilution method) |
+| Staphylococcus aureusATCC® 25923 | 26 to 37 |  |
+| Staphylococcus aureusATCC® 29213 |  | 0.25 to 2 |
+| Streptococcus pneumoniaeATCC® 49619 | 24 to 30 | 0.25 to 1 |

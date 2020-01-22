@@ -13,10 +13,10 @@
    CLSI document M07-A9.
    Clinical and Laboratory Standards Institute, 950 West Valley Road, Suite 2500, Wayne, Pennsylvania 19087, USA, 2012.
 
-46079166
+46264231
 
-05-2014M
+January 2020
 
-Manufactured in Austria by Sandoz GmbH
+Manufactured in Austria by Sandoz GmbH for
 
-for Sandoz Inc., Princeton, NJ 08540
+Sandoz Inc., Princeton, NJ 08540

@@ -1,39 +1,35 @@
 # DOSAGE AND ADMINISTRATION
 
-Penicillin G Sodium for lnjection, USP may be given intravenously or intramuscularly.
+Penicillin G Sodium for injection, USP may be given intravenously or intramuscularly.
 The usual dose recommendations are as follows:
 
 ## Adult Patients
 
 | Clinical Indication | Dosage |
 | --- | --- |
-| Serious infections due tosusceptible strains ofstreptococci (includingS. pneumoniae) andstaphylococci-septicemia,empyema, pneumonia,pericarditis, endocarditis andmeningitis | 5 to 24 million units/daydepending on the infectionand its severity administeredin equally divided dosesevery 4 to 6 hours |
-| Anthrax | Minimum of 8 millionunits/day in divided dosesevery 6 hours. Higher dosesmay be required dependingon susceptibility of organism. |
-| Actinomycosis |  |
-| Cervicofacial disease | 1 to 6 million units/day(*) |
-| Thoracic and abdominal disease | 10 to 20 million units/day(*) |
+| Serious infections due to susceptible strains ofstreptococci (including S. pneumoniae) andstaphylococci-septicemia, empyema, pneumonia,pericarditis, endocarditis and meningitis | 5 to 24 million units/day depending on the infection and its severity administered in equally divided doses every 4 to 6 hours |
+| Anthrax | Minimum of 8 million units/day in divided doses every 6 hours. Higher doses may be required depending on susceptibility of organism. |
+| Actinomycosis Cervicofacial disease Thoracic and abdominal disease | 1 to 6 million units/day(*)10 to 20 million units/day(*) |
 | Clostridial infections Botulism (adjunctive therapy to antitoxin) Gas gangrene (debridement and/or surgery as indicated) Tetanus (adjunctive therapy to human tetanus immune globulin) | 20 million units/day(*) |
-| Diphtheria (adjunctive therapyto antitoxin and for theprevention of the carrier state) | 2 to 3 million units/day individed doses for 10 to12 days(*) |
-| Erysipelothrixendocarditis | 12 to 20 million units/day for4 to 6 weeks(*) |
-| Fusospirochetosis(severe infections of theoropharnyx [Vincent’s], lowerrespiratory tractand genital area) | 5 to 10 millionunits/day(*) |
-| Listeria infections |  |
-| Meningitis | 15 to 20 million units/day for2 weeks(*) |
-| Endocarditis | 15 to 20 million units/day for4 weeks(*) |
-| Pasteurella infections includingbacteremia and meningitis | 4 to 6 million units/day for2 weeks(*) |
-| Haverhill fever, Rat-bite fever | 12 to 20 million units/day for3 to 4 weeks(*) |
-| Disseminated gonococcalinfections, such as meningitisendocarditis, arthritis, etc.,caused by penicillin-susceptible organisms | 10 million units/day(*);duration depends on the typeof infection |
-| Syphilis (neurosyphilis) | 12 to 24 million units/day, as2 to 4 MU every 4 hours for10 to 14 days; many expertsrecommend additionaltherapy with Benzathine PCNG 2.4 MU IM weekly for3 doses after completion ofIV therapy |
-| Meningococcal meningitisand/or septicemia | 24 million units/day as2 million units every 2 hours |
-| Serious infections, such aspneumonia and endocarditis,due to susceptible strains ofstreptococci (including S.pneumoniae) andmeningococcus | 150,000 units/kg/daydivided in equal doses every4 to 6 hours; durationdepends on infectingorganism and type ofinfection |
-| Meningitis caused bysusceptible strains ofpneumococcus andmeningococcus | 250,000 units/kg/daydivided in equal doses every4 hours for 7 to 14 daysdepending on the infectingorganism (maximum dose of12 to 20 million units/day) |
-| DisseminatedGonococcal infections(penicillin-susceptiblestrains) | weight less than 45 kg: |
-| Arthritis | 100,000 units/kg/day in4 equally divided doses for7 to 10 days |
-| Meningitis | 250,000 units/kg/day inequal doses every4 hours for 10 to 14 days |
-| Endocarditis | 250,000 units/kg/day inequal doses every 4 hoursfor 4 weeks |
-| Arthritis, meningitis,endocarditis | weight 45 kg or greater:10 million units/day in4 equally divided doses withthe duration of therapydepending on the type ofinfection |
-| Syphilis (congenital andneurosyphilis) after thenewborn period | 200,000 to 300,000units/kg/day (administered as50,000 units/kg every 4 to 6hours) for 10 to 14 days |
-| Diphtheria (adjunctive therapyto antitoxin and for preventionof the carrier state) | 150,000 to 250,000units/kg/day in equal dosesevery 6 hours for 7 to 10days |
-| Rat-bite fever; Haverhill fever(with endocarditis caused byS. moniliformis) | 150,000 to 250,000units/kg/day in equal dosesevery 4 hours for 4 weeks |
+| Diphtheria (adjunctive therapy to antitoxin and for the prevention of the carrier state) | 2 to 3 million units/day in divided doses for 10 to12 days(*) |
+| Erysipelothrixendocarditis | 12 to 20 million units/day for 4 to 6 weeks(*) |
+| Fusospirochetosis(severe infections of the oropharnyx [Vincent’s], lower respiratory tract and genital area) | 5 to 10 million units/day(*) |
+| Listeria infections Meningitis Endocarditis | 15 to 20 million units/day for 2 weeks(*)15 to 20 million units/day for 4 weeks(*) |
+| Pasteurella infections including bacteremia and meningitis | 4 to 6 million units/day for 2 weeks(*) |
+| Haverhill fever, Rat-bite fever | 12 to 20 million units/day for 3 to 4 weeks(*) |
+| Disseminated gonococcal infections, such as meningitis endocarditis, arthritis, etc., caused by penicillin- susceptible organisms | 10 million units/day(*);duration depends on the type of infection |
+| Syphilis (neurosyphilis) | 12 to 24 million units/day, as 2 to 4 MU every 4 hours for 10 to 14 days; many experts recommend additional therapy with Benzathine PCN G 2.4 MU IM weekly for 3 doses after completion ofIV therapy |
+| Meningococcal meningitis and/or septicemia | 24 million units/day as 2 million units every 2 hours |
+| Serious infections, such as pneumonia and endocarditis, due to susceptible strains ofstreptococci (including S. pneumoniae) andmeningococcus | 150,000 units/kg/day divided in equal doses every4 to 6 hours; duration depends on infecting organism and type of infection |
+| Meningitis caused by susceptible strains of pneumococcus and meningococcus | 250,000 units/kg/day divided in equal doses every4 hours for 7 to 14 days depending on the infectingorganism (maximum dose of 12 to 20 million units/day) |
+| Disseminated Gonococcal infections (penicillin-susceptible strains) | weight less than 45 kg: |
+| Arthritis | 100,000 units/kg/day in 4 equally divided doses for 7 to 10 days |
+| Meningitis | 250,000 units/kg/day in equal doses every 4 hours for 10 to 14 days |
+| Endocarditis | 250,000 units/kg/day in equal doses every 4 hoursfor 4 weeks |
+| Arthritis, meningitis, endocarditis | weight 45 kg or greater:10 million units/day in 4 equally divided doses with the duration of therapy depending on the type of infection |
+| Syphilis (congenital and neurosyphilis) after thenewborn period | 200,000 to 300,000 units/kg/day (administered as50,000 units/kg every 4 to 6 hours) for 10 to 14 days |
+| Diphtheria (adjunctive therapy to antitoxin and for prevention of the carrier state) | 150,000 to 250,000 units/kg/day in equal dosesevery 6 hours for 7 to 10 days |
+| Rat-bite fever; Haverhill fever (with endocarditis caused by S. moniliformis) | 150,000 to 250,000 units/kg/day in equal dosesevery 4 hours for 4 weeks |
 
 *Because of its short half-life, Penicillin G is administered in divided doses, usually every 4 to 6 hours with the exception of meningococcal meningitis/septicemia, i.e., every 2 hours.
 
