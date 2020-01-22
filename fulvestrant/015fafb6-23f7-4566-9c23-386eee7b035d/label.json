@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA209714"
+  ],
+  "inn": "fulvestrant",
+  "labeler": "Meitheal Pharmaceuticals Inc",
+  "package_ndcs": [
+    "71288-555-85",
+    "71288-555-86"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "fulvestrant",
+      "name": "Fulvestrant"
+    }
+  ],
+  "setid": "015fafb6-23f7-4566-9c23-386eee7b035d",
+  "source": "dailymed"
+}
