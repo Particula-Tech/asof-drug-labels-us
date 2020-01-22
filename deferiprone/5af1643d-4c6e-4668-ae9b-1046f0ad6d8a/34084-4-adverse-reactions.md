@@ -15,7 +15,7 @@ The most common adverse reactions reported during clinical trials were chromatur
 
 The table below lists the adverse drug reactions that occurred in at least 1% of patients treated with deferiprone in clinical trials.
 
-Table 2: Adverse drug reactions occurring in ≥ 1% of 642 defferiprone-treated patients
+Table 2: Adverse drug reactions occurring in ≥ 1% of 642 deferiprone-treated patients
 
 | Preferred Term |  |
 | --- | --- |
