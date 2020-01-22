@@ -9,7 +9,7 @@ Table 1 Recommended Adult Dosing for the Prevention of Nausea and Vomiting Assoc
 
 |  | Day 1 | Day 2 | Day 3 | Day 4 |
 | --- | --- | --- | --- | --- |
-| Fosaprepitant for injection | 150 mg intravenously over 20 to 30 minutes approximately 30 minutes prior to chemotherapy | none | none | none |
+| Fosaprepitant for injection | 150 mg intravenously over 20 to 30 minutes | none | none | none |
 | Dexamethasone* | 12 mg orally | 8 mg orally | 8 mg orally twice daily | 8 mg orally twice daily |
 | 5-HT3 antagonist | See selected 5-HT3 antagonist prescribing information for the recommended dosage | none | none | none |
 
@@ -21,7 +21,7 @@ Table 2 Recommended Adult Dosing for the Prevention of Nausea and Vomiting Assoc
 
 |  | Day 1 |
 | --- | --- |
-| Fosaprepitant for injection | 150 mg intravenously over 20 to 30 minutes approximately 30 minutes prior to chemotherapy |
+| Fosaprepitant for injection | 150 mg intravenously over 20 to 30 minutes |
 | Dexamethasone* | 12 mg orally |
 | 5-HT3 antagonist | See selected 5-HT3 antagonist prescribing information for the recommended dosage |
 
@@ -47,5 +47,5 @@ Fosaprepitant for injection is incompatible with any solutions containing divale
 
 Storage The reconstituted final drug solution is stable for 24 hours at ambient room temperature [at or below 25°C (77°F)].
 
-Pediatric use information is approved for Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc.’s Emend (fosaprepitant) for injection.
+Pediatric use information is approved for Merck Sharp & Dohme Corp., a subsidary of Merck & Co., Inc.’s Emend (fosaprepitant) for injection.
 However, due to Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc.’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.

@@ -46,4 +46,4 @@ Biological E. Limited Plot No.4, Survey no. 542/P, Biotech Park Phase-II, Kolthu
 The brands listed in the above sections “Who should not receive fosaprepitant for injection?” and “How will I receive fosaprepitant for injection?” are the registered trademarks of their respective owners and are not trademarks of Biological E. Limited.
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
-Revised: October 2018
+Revised: December 2019
