@@ -85,14 +85,14 @@ Relative and Absolute Risk Seen in the Estrogen-Alone Substudy of WHIa
 | Overall mortalityc,d | 1.04 (0.88-1.22) | 79 | 75 |
 | Global Indexg | 1.02 (0.92-1.13) | 206 | 201 |
 
-1. a)Adapted from numerous WHI publications.
+1. 1.Adapted from numerous WHI publications.
    WHI publications can be viewed at www.nhlbi.nih.gov/whi.
-2. b)Nominal confidence intervals unadjusted for multiple looks and multiple comparisons.
-3. c)Results are based on centrally adjudicated data for an average follow-up of 7.1 years.
-4. d)Not included in “global index”.
-5. e)Results are based on an average follow-up of 6.8 years.
-6. f)All deaths, except from breast or colorectal cancer, definite or probable CHD, PE or cerebrovascular disease.
-7. g)A subset of the events was combined in a "global index", defined as the earliest occurrence of CHD events, invasive breast cancer, stroke, pulmonary embolism, endometrial cancer, colorectal cancer, hip fracture, or death due to other causes.
+2. 2.Nominal confidence intervals unadjusted for multiple looks and multiple comparisons.
+3. 3.Results are based on centrally adjudicated data for an average follow-up of 7.1 years.
+4. 4.Not included in “global index”.
+5. 5.Results are based on an average follow-up of 6.8 years.
+6. 6.All deaths, except from breast or colorectal cancer, definite or probable CHD, PE or cerebrovascular disease.
+7. 7.A subset of the events was combined in a "global index", defined as the earliest occurrence of CHD events, invasive breast cancer, stroke, pulmonary embolism, endometrial cancer, colorectal cancer, hip fracture, or death due to other causes.
 
 For those outcomes included in the WHI "global index" that reached statistical significance, the absolute excess risks per 10,000 women-years in the group treated with CE-alone was 12 more strokes, while the absolute risk reduction per 10,000 women-years was 7 fewer hip fractures.9 The absolute excess risk of events included in the "global index" was a non-significant 5 events per 10,000 women-years.
 There was no difference between the groups in terms of all-cause mortality.
@@ -140,14 +140,14 @@ Table 5: Relative and Absolute Risk Seen in the Estrogen Plus Progestin Substudy
 | Overall mortalityf | 1.00 (0.83-1.19) | 52 | 52 |
 | Global Indexg | 1.13 (1.02-1.25) | 184 | 165 |
 
-1. a)Adapted from numerous WHI publications.
+1. 1.Adapted from numerous WHI publications.
    WHI publications can be viewed at www.nhlbi.nih.gov/whi.
-2. b)Results are based on centrally adjudicated data.
-3. c)Nominal confidence intervals unadjusted for multiple looks and multiple comparisons.
-4. d)Not included in “global index”.
-5. e)Includes metastatic and non-metastatic breast cancer, with the exception of in situ breast cancer.
-6. f)All deaths, except from breast or colorectal cancer, definite or probable CHD, PE or cerebrovascular disease.
-7. g)A subset of the events was combined in a "global index", defined as the earliest occurrence of CHD events, invasive breast cancer, stroke, pulmonary embolism, endometrial cancer, colorectal cancer, hip fracture, or death due to other causes.
+2. 2.Results are based on centrally adjudicated data.
+3. 3.Nominal confidence intervals unadjusted for multiple looks and multiple comparisons.
+4. 4.Not included in “global index”.
+5. 5.Includes metastatic and non-metastatic breast cancer, with the exception of in situ breast cancer.
+6. 6.All deaths, except from breast or colorectal cancer, definite or probable CHD, PE or cerebrovascular disease.
+7. 7.A subset of the events was combined in a "global index", defined as the earliest occurrence of CHD events, invasive breast cancer, stroke, pulmonary embolism, endometrial cancer, colorectal cancer, hip fracture, or death due to other causes.
 
 Timing of initiation of estrogen plus progestin therapy relative to the start of menopause may affect the overall risk benefit profile.
 The WHI estrogen plus progestin substudy stratified by age showed in women 50 to 59 years of age a non-significant trend toward reduced risk for overall mortality [HR 0.69 (95 percent CI, 0.44-1.07)].

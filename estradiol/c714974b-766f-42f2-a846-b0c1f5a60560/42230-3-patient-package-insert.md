@@ -69,7 +69,6 @@ Before you use the Estradiol Transdermal System, tell your healthcare provider i
 - Your healthcare provider may need to check you more carefully if you have certain conditions, such as asthma (wheezing), epilepsy (seizures), diabetes, migraine, endometriosis, lupus, angioedema (swelling of face and tongue), or problems with your heart, liver, thyroid, kidneys, or have high calcium levels in your blood.
 - •are going to have surgery or will be on bed rest
 - Your healthcare provider will let you know if you need to stop using the Estradiol Transdermal System.
-
 - •are breastfeeding
 - The hormone in the Estradiol Transdermal System can pass into your breast milk.
 - Tell your healthcare provider about all the medicines you take, including prescription and nonprescription medicines, vitamins, and herbal supplements.

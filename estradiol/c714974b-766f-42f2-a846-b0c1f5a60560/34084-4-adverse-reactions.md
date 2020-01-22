@@ -27,9 +27,9 @@ Table 1: Treatment-Emergent Adverse Reactions Reported at a Frequency of ≥5 Pe
 | Respiratory System URTI Pharyngitis Sinusitis Rhinitis | 15%6%0.5%4%2% | 26%17%3%4%4% | 29%17%7%5%6% | 14%8%3%3%1% |
 | Skin and Appendages Pruritus | 19%0.5% | 12%6% | 12%3% | 15%6% |
 
-1. a)Adverse reactions occurring at rate of ≥5 percent in the Estradiol Transdermal System trials of clinical efficacy versus placebo and versus active comparator; and trial of the Estradiol Transdermal System versus placebo for the prevention of osteoporosis
-2. b)Adverse reactions occurring at rate of ≥5 percent in the Estradiol Transdermal System trials of clinical efficacy versus placebo and versus active comparator
-3. c)Adverse reactions occurring in placebo group in the Estradiol Transdermal System trial of clinical efficacy versus placebo
+1. 1.Adverse reactions occurring at rate of ≥5 percent in the Estradiol Transdermal System trials of clinical efficacy versus placebo and versus active comparator; and trial of the Estradiol Transdermal System versus placebo for the prevention of osteoporosis
+2. 2.Adverse reactions occurring at rate of ≥5 percent in the Estradiol Transdermal System trials of clinical efficacy versus placebo and versus active comparator
+3. 3.Adverse reactions occurring in placebo group in the Estradiol Transdermal System trial of clinical efficacy versus placebo
 
 ## 6.2 Postmarketing Experience
 
