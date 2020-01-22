@@ -65,16 +65,30 @@ For elevated liver enzymes, interrupt KEYTRUDA and axitinib and consider adminis
 
 With the combination of KEYTRUDA and axitinib, Grades 3 and 4 increased ALT (20%) and increased AST (13%) were seen.
 The median time to onset of increased ALT was 2.3 months (range: 7 days to 19.8 months).
-Sixty-one percent of the patients with increased ALT received systemic corticosteroids.
+Fifty-nine percent of the patients with increased ALT received systemic corticosteroids.
 In patients with ALT ≥3 times ULN (Grades 2-4, n=116), ALT resolved to Grades 0-1 in 94%.
 Among the 92 patients who were rechallenged with either KEYTRUDA (3%) or axitinib (31%) administered as a single agent or with both (50%), 55% had no recurrence of ALT >3 times ULN.
 
 ## 5.4 Immune-Mediated Endocrinopathies
 
+Adrenal Insufficiency
+
+KEYTRUDA can cause adrenal insufficiency (primary and secondary).
+Monitor for signs and symptoms of adrenal insufficiency.
+Administer corticosteroids and hormone replacement as clinically indicated.
+Withhold KEYTRUDA for moderate (Grade 2) adrenal insufficiency and withhold or discontinue KEYTRUDA for severe (Grade 3) or life-threatening (Grade 4) adrenal insufficiency [see Dosage and Administration (2.17) and Adverse Reactions (6.1)].
+
+Adrenal insufficiency occurred in 0.8% (22/2799) of patients receiving KEYTRUDA, including Grade 4 (<0.1%), Grade 3 (0.3%), and Grade 2 (0.3%) adrenal insufficiency.
+The median time to onset was 5.3 months (range: 26 days to 16.6 months), and the median duration was not reached (range: 4 days to 1.9+ years).
+Adrenal insufficiency led to permanent discontinuation of KEYTRUDA in <0.1% of patients and withholding of KEYTRUDA in 0.3% of patients.
+
+Systemic corticosteroids were required in 77% (17/22) of patients with adrenal insufficiency, including 9% who received high-dose corticosteroids (prednisone ≥40 mg per day or equivalent) for median duration of 4 days (range: 1 to 6 days) followed by corticosteroid taper.
+Adrenal insufficiency resolved in 23% of the patients.
+
 Hypophysitis
 
 KEYTRUDA can cause hypophysitis.
-Monitor for signs and symptoms of hypophysitis (including hypopituitarism and adrenal insufficiency).
+Monitor for signs and symptoms of hypophysitis (including hypopituitarism).
 Administer corticosteroids and hormone replacement as clinically indicated.
 Withhold KEYTRUDA for moderate (Grade 2) hypophysitis and withhold or discontinue KEYTRUDA for severe (Grade 3) or life-threatening (Grade 4) hypophysitis [see Dosage and Administration (2.17) and Adverse Reactions (6.1)].
 

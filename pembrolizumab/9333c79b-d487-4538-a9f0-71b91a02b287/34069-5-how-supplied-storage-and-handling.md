@@ -1,11 +1,5 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-KEYTRUDA for injection (white to off-white lyophilized powder):
-
-Carton containing one 50 mg single-dose vial (NDC 0006-3029-02)
-
-Store vials under refrigeration at 2°C to 8°C (36°F to 46°F).
-
 KEYTRUDA injection (clear to slightly opalescent, colorless to slightly yellow solution):
 
 Carton containing one 100 mg/4 mL (25 mg/mL), single-dose vial (NDC 0006-3026-02)

@@ -9,6 +9,7 @@ Immune-Mediated Adverse Reactions
   - Pneumonitis: Advise patients to contact their healthcare provider immediately for new or worsening cough, chest pain, or shortness of breath [see Warnings and Precautions (5.1)].
   - Colitis: Advise patients to contact their healthcare provider immediately for diarrhea or severe abdominal pain [see Warnings and Precautions (5.2)].
   - Hepatitis: Advise patients to contact their healthcare provider immediately for jaundice, severe nausea or vomiting, or easy bruising or bleeding [see Warnings and Precautions (5.3)].
+  - Adrenal Insufficiency: Advise patients to contact their healthcare provider immediately for extreme weakness, dizziness, or fainting [see Warnings and Precautions (5.4)].
   - Hypophysitis: Advise patients to contact their healthcare provider immediately for persistent or unusual headache, extreme weakness, dizziness or fainting, or vision changes [see Warnings and Precautions (5.4)].
   - Hyperthyroidism and Hypothyroidism: Advise patients to contact their healthcare provider immediately for signs or symptoms of hyperthyroidism and hypothyroidism [see Warnings and Precautions (5.4)].
   - Type 1 Diabetes Mellitus: Advise patients to contact their healthcare provider immediately for signs or symptoms of type 1 diabetes [see Warnings and Precautions (5.4)].

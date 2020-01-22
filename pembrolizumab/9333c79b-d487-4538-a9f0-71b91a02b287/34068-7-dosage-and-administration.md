@@ -53,7 +53,9 @@ The recommended dose of KEYTRUDA in pediatric patients is 2 mg/kg (up to a maxim
 
 ## 2.8 Recommended Dosage for Urothelial Carcinoma
 
-The recommended dose of KEYTRUDA is 200 mg administered as an intravenous infusion over 30 minutes every 3 weeks until disease progression or unacceptable toxicity, or up to 24 months in patients without disease progression.
+The recommended dose of KEYTRUDA in patients with locally advanced or metastatic urothelial carcinoma is 200 mg administered as an intravenous infusion over 30 minutes every 3 weeks until disease progression or unacceptable toxicity, or up to 24 months in patients without disease progression.
+
+The recommended dose of KEYTRUDA in patients with high-risk BCG-unresponsive non-muscle invasive bladder cancer is 200 mg administered as an intravenous infusion over 30 minutes every 3 weeks until persistent or recurrent high-risk NMIBC, disease progression or unacceptable toxicity, or up to 24 months in patients without disease progression.
 
 ## 2.9 Recommended Dosage for MSI-H Cancer
 
@@ -140,43 +142,31 @@ Withhold, dose reduce, or discontinue lenvatinib in accordance with the instruct
 
 ## 2.18 Preparation and Administration
 
-Reconstitution of KEYTRUDA for Injection (Lyophilized Powder)
-
-- Add 2.3 mL of Sterile Water for Injection, USP by injecting the water along the walls of the vial and not directly on the lyophilized powder (resulting concentration 25 mg/mL).
-- Slowly swirl the vial.
-  Allow up to 5 minutes for the bubbles to clear.
-  Do not shake the vial.
-
 Preparation for Intravenous Infusion
 
 - Visually inspect the solution for particulate matter and discoloration.
   The solution is clear to slightly opalescent, colorless to slightly yellow.
   Discard the vial if visible particles are observed.
-- Dilute KEYTRUDA injection (solution) or reconstituted lyophilized powder prior to intravenous administration.
+- Dilute KEYTRUDA injection (solution) prior to intravenous administration.
 - Withdraw the required volume from the vial(s) of KEYTRUDA and transfer into an intravenous (IV) bag containing 0.9% Sodium Chloride Injection, USP or 5% Dextrose Injection, USP.
   Mix diluted solution by gentle inversion.
+  Do not shake.
   The final concentration of the diluted solution should be between 1 mg/mL to 10 mg/mL.
 - Discard any unused portion left in the vial.
 
-Storage of Reconstituted and Diluted Solutions
+Storage of Diluted Solution
 
 The product does not contain a preservative.
-
-Store the reconstituted and diluted solution from the KEYTRUDA 50 mg vial either:
-
-- At room temperature for no more than 6 hours from the time of reconstitution.
-  This includes room temperature storage of reconstituted vials, storage of the diluted solution, and the duration of infusion.
-- Under refrigeration at 2°C to 8°C (36°F to 46°F) for no more than 24 hours from the time of reconstitution.
-  If refrigerated, allow the diluted solution to come to room temperature prior to administration.
 
 Store the diluted solution from the KEYTRUDA 100 mg/4 mL vial either:
 
 - At room temperature for no more than 6 hours from the time of dilution.
   This includes room temperature storage of the diluted solution, and the duration of infusion.
-- Under refrigeration at 2°C to 8°C (36°F to 46°F) for no more than 24 hours from the time of dilution.
+- Under refrigeration at 2°C to 8°C (36°F to 46°F) for no more than 96 hours from the time of dilution.
   If refrigerated, allow the diluted solution to come to room temperature prior to administration.
+  Do not shake.
 
-Discard after 6 hours at room temperature or after 24 hours under refrigeration.
+Discard after 6 hours at room temperature or after 96 hours under refrigeration.
 
 Do not freeze.
 
