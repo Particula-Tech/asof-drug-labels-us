@@ -10,20 +10,20 @@ The pharmacodynamic parameter for piperacillin/tazobactam that is most predictiv
 
 ## 12.3 Pharmacokinetics
 
-The mean and coefficients of variation (CV%) for the pharmacokinetic parameters of piperacillin and tazobactam after multiple intravenous doses are summarized in Table 5.
+The mean and coefficients of variation (CV%) for the pharmacokinetic parameters of piperacillin and tazobactam after multiple intravenous doses are summarized in Table 6.
 
-| Table 5: Mean (CV%) Piperacillin and Tazobactam PK Parameters Piperacillin |  |  |  |  |  |  |
+| Table 6. Mean (CV%) Piperacillin and Tazobactam PK Parameters Piperacillin |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
 | Piperacillin |  |  |  |  |  |  |
 | Piperacillin/Tazobactam Dosea | Cmax mcg/mL | AUCb mcg•h/mL | CL mL/min | V L | T1/2 h | CLR mL/min |
-| 2.25 g | 134 | 131 (14) | 257 | 17.4 | 0.79 | - |
+| 2.25 g | 134 | 131 (14) | 257 | 17.4 | 0.79 | -- |
 | 3.375 g | 242 | 242 (10) | 207 | 15.1 | 0.84 | 140 |
-| 4.5 g | 298 | 322 (16) | 210 | 15.4 | 0.84 | - |
+| 4.5 g | 298 | 322 (16) | 210 | 15.4 | 0.84 | -- |
 | Tazobactam |  |  |  |  |  |  |
 | Piperacillin/Tazobactam Dosea | Cmax mcg/mL | AUCb mcg•h/mL | CL mL/min | V L | T1/2 h | CLR mL/min |
-| 2.25 g | 15 | 16.0 (21) | 258 | 17.0 | 0.77 | - |
+| 2.25 g | 15 | 16.0 (21) | 258 | 17.0 | 0.77 | -- |
 | 3.375 g | 24 | 25.0 (8) | 251 | 14.8 | 0.68 | 166 |
-| 4.5 g | 34 | 39.8 (15) | 206 | 14.7 | 0.82 | - |
+| 4.5 g | 34 | 39.8 (15) | 206 | 14.7 | 0.82 | -- |
 | aPiperacillin and tazobactam were given in combination, infused over 30 minutes. bNumbers in parentheses are coefficients of variation (CV%). |  |  |  |  |  |  |
 
 Peak plasma concentrations of piperacillin and tazobactam are attained immediately after completion of an intravenous infusion of piperacillin and tazobactam for injection.
@@ -38,9 +38,9 @@ Protein binding of the tazobactam metabolite is negligible.
 
 Piperacillin and tazobactam are widely distributed into tissues and body fluids including intestinal mucosa, gallbladder, lung, female reproductive tissues (uterus, ovary, and fallopian tube), interstitial fluid, and bile.
 Mean tissue concentrations are generally 50% to 100% of those in plasma.
-Distribution of piperacillin and tazobactam into cerebrospinal fluid is low in subjects with non-inflamed meninges, as with other penicillins (see Table 6).
+Distribution of piperacillin and tazobactam into cerebrospinal fluid is low in subjects with non-inflamed meninges, as with other penicillins (see Table 7).
 
-| Table 6: Piperacillin/Tazobactam Concentrations in Selected Tissues and Fluids after Single 4 g/0.5 g 30-min IV Infusion of Piperacillin and Tazobactam for Injection |  |  |  |  |  |  |
+| Table 7. Piperacillin/Tazobactam Concentrations in Selected Tissues and Fluids after Single 4 g/0.5 g 30-min IV Infusion of Piperacillin and Tazobactam for Injection |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
 | Tissue or Fluid | Na | Sampling periodb (h) | Mean PIP Concentration Range (mg/L) | Tissue:Plasma Range | Tazo Concentration Range (mg/L) | Tazo Tissue:Plasma Range |
 | Skin | 35 | 0.5 – 4.5 | 34.8 – 94.2 | 0.60 – 1.1 | 4.0 – 7.7 | 0.49 – 0.93 |
@@ -67,7 +67,7 @@ Piperacillin, tazobactam and desethyl piperacillin are also secreted into the bi
 
 Specific Populations
 
-Renal impairment
+Renal Impairment
 
 After the administration of single doses of piperacillin/tazobactam to subjects with renal impairment, the half-life of piperacillin and of tazobactam increases with decreasing creatinine clearance.
 At creatinine clearance below 20 mL/min, the increase in half-life is twofold for piperacillin and fourfold for tazobactam compared to subjects with normal renal function.
@@ -76,7 +76,7 @@ See Dosage and Administration (2) for specific recommendations for the treatment
 
 Hemodialysis removes 30% to 40% of a piperacillin/tazobactam dose with an additional 5% of the tazobactam dose removed as the tazobactam metabolite.
 Peritoneal dialysis removes approximately 6% and 21% of the piperacillin and tazobactam doses, respectively, with up to 16% of the tazobactam dose removed as the tazobactam metabolite.
-For dosage recommendations for patients undergoing hemodialysis [see Dosage and Administration (2).]
+For dosage recommendations for patients undergoing hemodialysis [see Dosage and Administration (2)].
 
 Hepatic Impairment
 
@@ -89,13 +89,13 @@ Piperacillin and tazobactam pharmacokinetics were studied in pediatric patients 
 The clearance of both compounds is slower in the younger patients compared to older children and adults.
 
 In a population PK analysis, estimated clearance for 9 month-old to 12 year-old patients was comparable to adults, with a population mean (SE) value of 5.64 (0.34) mL/min/kg.
-The piperacillin clearance estimate is 80% of this value for pediatric patients 2-9 months old.
+The piperacillin clearance estimate is 80% of this value for pediatric patients 2 to 9 months old.
 In patients younger than 2 months of age, clearance of piperacillin is slower compared to older children; however, it is not adequately characterized for dosing recommendations.
 The population mean (SE) for piperacillin distribution volume is 0.243 (0.011) L/kg and is independent of age.
 
 Geriatrics
 
-The impact of age on the pharmacokinetics of piperacillin and tazobactam was evaluated in healthy male subjects, aged 18-35 years (n=6) and aged 65 to 80 years (n=12).
+The impact of age on the pharmacokinetics of piperacillin and tazobactam was evaluated in healthy male subjects, aged 18 to 35 years (n=6) and aged 65 to 80 years (n=12).
 Mean half-life for piperacilln and tazobactam was 32% and 55% higher, respectively, in the elderly compared to the younger subjects.
 This difference may be due to age-related changes in creatinine clearance.
 

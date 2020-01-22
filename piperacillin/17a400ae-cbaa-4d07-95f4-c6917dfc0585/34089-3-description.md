@@ -10,9 +10,10 @@ The chemical structure of piperacillin sodium is:
 Tazobactam sodium, a derivative of the penicillin nucleus, is a penicillanic acid sulfone.
 Its chemical name is sodium (2S,3S,5R)-3-methyl-7-oxo-3-(1H-1,2,3-triazol-1-ylmethyl)-4-thia-1-azabicyclo[3.2.0]heptane-2-carboxylate-4,4-dioxide.
 The chemical formula is C10H11N4NaO5S and the molecular weight is 322.3.
+
 The chemical structure of tazobactam sodium is:
 
-Piperacillin and Tazobactam for Injection, piperacillin/tazobactam parenteral combination, is a white to off-white sterile, cryodesiccated powder consisting of piperacillin and tazobactam as their sodium salts packaged in glass bottles.
+Piperacillin and Tazobactam for Injection, piperacillin/tazobactam parenteral combination, is a white to off-white sterile, powder consisting of piperacillin and tazobactam as their sodium salts packaged in glass bottles.
 The product does not contain excipients or preservatives.
 
 The pharmacy bulk package bottle is a container of sterile preparation which contains many single doses for parenteral use.
@@ -21,3 +22,5 @@ The contents are intended for use in a pharmacy admixture program and are restri
 Each Piperacillin and Tazobactam for Injection 40.5 g pharmacy bulk package bottle contains piperacillin sodium equivalent to 36 grams of piperacillin and tazobactam sodium equivalent to 4.5 g of tazobactam sufficient for delivery of multiple doses.
 
 Piperacillin and Tazobactam for Injection is a monosodium salt of piperacillin and a monosodium salt of tazobactam containing a total of 2.35 mEq (54 mg) of sodium (Na+) per gram of piperacillin in the combination product.
+
+USP Organic Impurities Test Pending
