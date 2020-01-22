@@ -46,7 +46,7 @@ No evidence of teratogenicity due to ritonavir was observed in rats and rabbits 
 Developmental toxicity observed in rats (early resorptions, decreased fetal body weight and ossification delays and developmental variations) occurred at a maternally toxic dose, at an exposure equivalent to approximately 1/3 lower than human exposure at the recommended daily dose.
 A slight increase in the incidence of cryptorchidism was also noted in rats (at a maternally toxic dose) at an exposure approximately 1/5 lower than human exposure at the recommended daily dose.
 Developmental toxicity was observed in rabbits (resorptions, decreased litter size and decreased fetal weights) at maternally toxic doses approximately 1.8 times higher than the recommended daily dose, based on a body surface area conversion factor.
-In pre- and postnatal development study in rats, ritonavir was administered at doses of 0, 15, 35, and 60 mg/kg/day from gestation day 6 through postnatal day 20.
+In pre-and postnatal development study in rats, ritonavir was administered at doses of 0, 15, 35, and 60 mg/kg/day from gestation day 6 through postnatal day 20.
 At doses of 60 mg/kg/day, no developmental toxicity was noted with ritonavir dosage equivalent to 1/2 of the recommended daily dose, based on a body surface area conversion factor.
 
 ## 8.2 Lactation
