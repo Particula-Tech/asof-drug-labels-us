@@ -7,5 +7,6 @@
 - XOLEGEL may be irritating to mucus membranes.
   Contact with the eyes, nostrils, and mouth should be avoided.
 - As with any topical medication, patients should wash their hands after application.
+- Advise breastfeeding women not to apply XOLEGEL directly to the nipple and areola to avoid direct infant exposure.
 - This medication should not be used for any disorder other than that for which it has been prescribed.
 - Patients should report any signs of adverse reactions to their health care provider.

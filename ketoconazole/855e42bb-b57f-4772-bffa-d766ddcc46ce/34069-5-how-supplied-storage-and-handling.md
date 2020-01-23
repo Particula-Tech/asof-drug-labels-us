@@ -3,7 +3,6 @@
 ## 16.1 How Supplied
 
 XOLEGEL® (ketoconazole) Gel, 2% is supplied in 45-gram (NDC 16110-080-45) white-coated aluminum tubes with white caps, and is dispensed with FDA-Approved Patient Labeling.
-(17.2)
 
 ## 16.2 Storage and Handling
 

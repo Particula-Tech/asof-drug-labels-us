@@ -2,26 +2,28 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Category C:
+Risk Summary There are no available data on XOLEGEL use in pregnant women to evaluate for a drug associated risk of major birth defects, miscarriage, or adverse maternal or fetal outcomes.
 
-There are no adequate and well controlled trials in pregnant women.
-XOLEGEL should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
+In animal reproduction studies with pregnant rats, structural abnormalities (syndactylia and oligodactylia) were observed following oral doses of ketoconazole during organogenesis (see Data).
+The available data do not allow calculation of relevant comparisons between the systemic exposure of ketoconazole observed in animal studies to the systemic exposure observed in humans after topical use of XOLEGEL.
 
-Reproductive toxicity studies have not been performed with XOLEGEL.
-Ketoconazole was tested for its effects on offspring in the rat at oral doses of 10, 20, 40, 80, and 160 mg/kg.
-Ketoconazole was teratogenic (syndactylia and oligodactylia) at 80 mg/kg/day and embryotoxic at 160 mg/kg/day (76 and 152 times the human dose, respectively).
-However, these effects may be related to maternal toxicity, which was also seen at these dose levels.
+The estimated background risk of major birth defects and miscarriage for the indicated population is unknown.
+All pregnancies have a background risk of birth defect, loss or other adverse outcomes.
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2%-4% and 15%-20%, respectively.
 
-Oral doses of 10, 20, 40, 80, and 160 mg/kg were studied in pre- and postnatal development studies in rats.
-Doses of 40 mg/kg (38 times the human dose) and above were associated with maternal toxicity, an increase in the length of gestation, and an increase in the number of stillborn fetuses.
-These doses of ketoconazole were also toxic to the offspring, resulting in a decrease in fetal/pup weights and viability.
+Data Animal Data Oral administration of ketoconazole at 80 mg/kg/day to pregnant rats during organogenesis was associated with structural abnormalities (syndactylia and oligodactylia).
+However, these effects may be related to maternal toxicity, which was also seen at this and higher dose levels.
 
-## 8.3 Nursing Mothers
+In oral peri- and postnatal development studies in rats, maternal toxicity, prolonged gestation, embryolethality and fetotoxicity were observed at ketoconazole doses of 40 mg/kg/day and higher.
 
-It is not known whether XOLEGEL is excreted in human milk.
-Because many drugs are excreted in human milk, caution should be exercised when XOLEGEL is administered to a nursing woman.
+## 8.2 Lactation
 
-If used during lactation and XOLEGEL is applied to the chest, care should be taken to avoid accidental ingestion by the infant.
+Risk Summary There are no data available on the presence of ketoconazole in human milk, its effects on the breastfed infant, or its effects on milk production.
+After topical application, ketoconazole concentrations in plasma are low and therefore concentrations in human breast milk are likely to be low [see Clinical Pharmacology (12.3)].
+
+The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for XOLEGEL and any potential adverse effects on the breastfed infant from XOLEGEL or from the underlying maternal condition.
+
+Clinical Considerations Advise breastfeeding women not to apply XOLEGEL directly to the nipple and areola to avoid direct infant exposure.
 
 ## 8.4 Pediatric Use
 

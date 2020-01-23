@@ -1,4 +1,8 @@
-PATIENT INFORMATION XOLEGEL® (Xol-a-gel) (ketoconazole) Gel, 2%
+PATIENT INFORMATION
+
+XOLEGEL® (Xol-a-gel)
+
+(ketoconazole) Gel, 2%
 
 Read the Patient Information that comes with XOLEGEL carefully before you start using it and each time you get a refill.
 There may be new information.
@@ -88,14 +92,12 @@ Inactive ingredients: dehydrated alcohol, ascorbic acid, butylated hydroxytoluen
 
 This Patient Information leaflet has been approved by the U.S. Food and Drug Administration.
 
-The Patient Information leaflet was last revised: May 2012
+The Patient Information leaflet was last revised: May 2012.
 
-Manufactured by DPT Laboratories, Ltd., San Antonio, TX 78215
+Manufactured for Almirall, LLC Exton, PA 19341
 
-For Aqua Pharmaceuticals, An Almirall Company Exton, PA 19341
+Revised 12/2019 XOLEGEL is a registered trademark of Almirall, LLC.
 
-Revised 06/2016 XOLEGEL is a registered trademark of Aqua Pharmaceuticals.
+© 2019 Almirall.
 
-© 2016 Aqua Pharmaceuticals
-
-AQUA PHARMACEUTICALS
+almirall
