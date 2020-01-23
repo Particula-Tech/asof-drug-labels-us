@@ -11,4 +11,6 @@ Tablets
 - 600 mg: white elliptical film-coated scored tablets debossed with "NT" and "16" on one side
 - 800 mg: white elliptical film-coated scored tablets debossed with "NT" and "26" on one side
 
-Oral solution: 250 mg per 5 mL (50 mg per mL), clear colorless to slightly yellow solution
+Oral solution
+
+- 250 mg per 5 mL (50 mg per mL), clear colorless to slightly yellow solution

@@ -24,7 +24,7 @@ NEURONTIN (gabapentin) capsules, tablets, and oral solution are supplied as foll
 
 250 mg per 5 mL oral solution:
 
-- Clear colorless to slightly yellow solution; each 5 mL of oral solution contains 250 mg of gabapentin; available in: Bottles containing 470 mL: NDC 0071-2012-23
+- Clear colorless to slightly yellow solution; each 5 mL of oral solution contains 250 mg of gabapentin; available in: Glass bottles containing 470 mL: NDC 0071-2012-23 Bottles containing 470 mL: NDC 0071-2012-44
 
 Store NEURONTIN Tablets and Capsules at 25°C (77°F); excursions permitted between 15°C to 30°C (59°F to 86°F) [see USP Controlled Room Temperature].
 
