@@ -18,11 +18,7 @@ Cipla
 
 Distributed and Marketed by:
 
-Cipla USA, Inc.
-
-9100 S. Dadeland Blvd.,
-
-Suite 1500 Miami, FL 33156
+Cipla USA, Inc. 1560 Sawgrass Corporate Parkway, Suite 130, Sunrise, FL 33323
 
 under license of Helsinn Healthcare SA, Switzerland.
 
@@ -61,8 +57,4 @@ Cipla
 
 Distributed and Marketed by:
 
-Cipla USA, Inc.
-
-9100 S. Dadeland Blvd.,
-
-Suite 1500 Miami, FL 33156
+Cipla USA, Inc. 1560 Sawgrass Corporate Parkway, Suite 130, Sunrise, FL 33323
