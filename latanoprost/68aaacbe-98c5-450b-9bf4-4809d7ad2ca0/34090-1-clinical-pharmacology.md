@@ -20,7 +20,7 @@ Latanoprost is absorbed through the cornea where the isopropyl ester prodrug is 
 
 Distribution
 
-The distribution volume in humans is 0.16 + 0.02 L/kg.
+The distribution volume in humans is 0.16 ± 0.02 L/kg.
 The acid of latanoprost can be measured in aqueous humor during the first 4 hours, and in plasma only during the first hour after local administration.
 Studies in man indicate that the peak concentration in the aqueous humor is reached about two hours after topical administration.
 

@@ -30,14 +30,16 @@ Lenses may be reinserted 15 minutes following administration of Latanoprost Opht
 
 If more than one topical ophthalmic drug is being used, the drugs should be administered at least five (5) minutes apart.
 
+Distributed by:
+
 Bausch + Lomb, a division of
 
-Valeant Pharmaceuticals North America LLC
+Bausch Health US, LLC
 
 Bridgewater, NJ 08807 USA
 
-© Bausch & Lomb Incorporated
+© 2020 Bausch & Lomb Incorporated or its affiliates
 
-9144708 (folded)
+9144709 (folded)
 
-9144808 (flat)
+9144809 (flat)
