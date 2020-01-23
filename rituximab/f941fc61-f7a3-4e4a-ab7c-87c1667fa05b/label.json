@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "BLA761103"
+  ],
+  "inn": "rituximab",
+  "labeler": "Pfizer Laboratories Div Pfizer Inc",
+  "package_ndcs": [
+    "0069-0238-01",
+    "0069-0249-01"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "rituximab-pvvr",
+      "name": "Ruxience"
+    }
+  ],
+  "setid": "f941fc61-f7a3-4e4a-ab7c-87c1667fa05b",
+  "source": "dailymed"
+}
