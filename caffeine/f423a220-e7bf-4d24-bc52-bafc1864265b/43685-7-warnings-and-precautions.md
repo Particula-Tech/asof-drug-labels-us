@@ -35,12 +35,12 @@ Serum concentrations of caffeine should be monitored and dose administration of 
 
 Parents/caregivers of patients receiving caffeine citrate oral solution should receive the following instructions:
 
-1. Caffeine citrate oral solution does not contain any preservatives and each vial is for single use only.
+1. 1.Caffeine citrate oral solution does not contain any preservatives and each vial is for single use only.
    Any unused portion of the medication should be discarded.
-2. It is important that the dose of caffeine citrate oral solution be measured accurately, i.e., with a 1cc or other appropriate syringe.
-3. Consult your physician if the baby continues to have apnea events; do not increase the dose of caffeine citrate oral solution without medical consultation.
-4. Consult your physician if the baby begins to demonstrate signs of gastrointestinal intolerance, such as abdominal distention, vomiting, or bloody stools, or seems lethargic.
-5. Caffeine citrate oral solution should be inspected visually for particulate matter and discoloration prior to its administration.
+2. 2.It is important that the dose of caffeine citrate oral solution be measured accurately, i.e., with a 1cc or other appropriate syringe.
+3. 3.Consult your physician if the baby continues to have apnea events; do not increase the dose of caffeine citrate oral solution without medical consultation.
+4. 4.Consult your physician if the baby begins to demonstrate signs of gastrointestinal intolerance, such as abdominal distention, vomiting, or bloody stools, or seems lethargic.
+5. 5.Caffeine citrate oral solution should be inspected visually for particulate matter and discoloration prior to its administration.
    Vials containing discolored solution or visible particulate matter should be discarded.
 
 ## Laboratory Tests
@@ -83,7 +83,7 @@ In addition, caffeine was not clastogenic in an in vivo mouse micronucleus assay
 Caffeine (as caffeine base) administered to male rats at 50 mg/kg/day subcutaneously (approximately equal to the maximum recommended intravenous loading dose for infants on a mg/m2 basis) for four days prior to mating with untreated females, caused decreased male reproductive performance in addition to causing embryotoxicity.
 In addition, long-term exposure to high oral doses of caffeine (3.0 g over 7 weeks) was toxic to rat testes as manifested by spermatogenic cell degeneration.
 
-### Pregnancy: Pregnancy Category C
+## Pregnancy Category C
 
 Concern for the teratogenicity of caffeine is not relevant when administered to infants.
 In studies performed in adult animals, caffeine (as caffeine base) administered to pregnant mice as sustained release pellets at 50 mg/kg (less than the maximum recommended intravenous loading dose for infants on a mg/m2 basis), during the period of organogenesis, caused a low incidence of cleft palate and exencephaly in the fetuses.

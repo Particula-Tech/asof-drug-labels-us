@@ -22,6 +22,8 @@ Discard unused portion.
 
 ATTENTION PHARMACIST: Detach "Instructions for Use" from the package insert and dispense with caffeine citrate oral solution prescription.
 
-Manufactured and Distributed by: Exela Pharma Sciences, LLC Lenoir, NC 28645 USA
+Manufactured and Distributed by:
 
-Revised: December 2014
+Exela Pharma Sciences, LLC Lenoir, NC 28645 USA
+
+Revised: May 2018

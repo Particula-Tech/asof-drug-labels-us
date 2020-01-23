@@ -14,7 +14,7 @@ Most of these effects have been attributed to antagonism of adenosine receptors,
 
 ### Absorption
 
-After oral administration of 10 mg caffeine base/kg to preterm neonates, the peak plasma level (Cmax) for caffeine ranged from 6-10 mg/L and the mean time to reach peak concentration (Tmax) ranged from 30 minutes to 2 hours.
+After oral administration of 10 mg caffeine base/kg to preterm neonates, the peak plasma level (Cmax) for caffeine ranged from 6 to 10 mg/L and the mean time to reach peak concentration (Tmax) ranged from 30 minutes to 2 hours.
 The Tmax was not affected by formula feeding.
 The absolute bioavailability, however, was not fully examined in preterm neonates.
 
@@ -22,7 +22,7 @@ The absolute bioavailability, however, was not fully examined in preterm neonate
 
 Caffeine is rapidly distributed into the brain.
 Caffeine levels in the cerebrospinal fluid of preterm neonates approximate their plasma levels.
-The mean volume of distribution of caffeine in infants (0.8-0.9 L/kg) is slightly higher than that in adults (0.6 L/kg).
+The mean volume of distribution of caffeine in infants (0.8 to 0.9 L/kg) is slightly higher than that in adults (0.6 L/kg).
 Plasma protein binding data are not available for neonates or infants.
 In adults, the mean plasma protein binding in vitro is reported to be approximately 36%.
 

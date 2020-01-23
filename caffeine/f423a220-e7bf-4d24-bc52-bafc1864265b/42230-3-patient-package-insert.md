@@ -48,7 +48,7 @@ Do not open the vial until it is time for your baby to receive the dose of medic
 Use each vial only once.
 After you remove your baby’s dose, throw away the vial and all medicine left in the opened vial.
 
-Ten (10) vials of caffeine citrate oral solution are packaged in a child-resistant container.
+Five (5) or Ten (10) vials of caffeine citrate oral solution are packaged in a child-resistant container.
 Caffeine citrate oral solution vials are NOT CHILD-RESISTANT.
 Always store vials of caffeine citrate oral solution in the child-resistant container.
 Follow the instructions below to open the child-resistant container, to open a vial of caffeine citrate oral solution, and to remove a dose of medicine from the vial.
@@ -57,19 +57,20 @@ To open the child-resistant container that holds the vials of caffeine citrate o
 
 (Instructions with pictures are also printed on the top of the container.)
 
-1. Hold the bottom-half of the child-resistant container with one hand and push the lower semicircular section on the front of the container with your thumb.
-2. With your other hand, pull the cover up until you hear it click.
-3. While holding the ends of the bottom half of the container with both hands, place both index fingers on the two semicircular locking tabs on the sides of the container.
-4. Press the two tabs and raise the cover up.
+1. 1.
+   Hold the bottom-half of the child-resistant container with one hand and push the lower semicircular section on the front of the container with your thumb.
+2. 2.With your other hand, pull the cover up until you hear it click.
+3. 3.While holding the ends of the bottom half of the container with both hands, place both index fingers on the two semicircular locking tabs on the sides of the container.
+4. 4.Press the two tabs and raise the cover up.
 
 To open a vial of caffeine citrate oral solution:
 
-1. Hold the blue plastic top between the thumb and index finger.
+1. 1.Hold the blue plastic top between the thumb and index finger.
    Use your thumb to flip the blue plastic top completely off the vial.
-2. Carefully lift up the metal ring.
-3. Pull the metal ring away from the vial and then pull it down towards the bottom of the vial without twisting the ring.
-4. After you pull the ring down and the metal band around the top of the vial is completely broken through, carefully remove the rest of the metal band by pulling it out and away from the vial.
-5. Being careful not to spill any medicine, remove the rubber stopper from the top of the vial.
+2. 2.Carefully lift up the metal ring.
+3. 3.Pull the metal ring away from the vial and then pull it down towards the bottom of the vial without twisting the ring.
+4. 4.After you pull the ring down and the metal band around the top of the vial is completely broken through, carefully remove the rest of the metal band by pulling it out and away from the vial.
+5. 5.Being careful not to spill any medicine, remove the rubber stopper from the top of the vial.
 
 To remove the prescribed dose from the vial:
 
@@ -77,13 +78,13 @@ You will need a small syringe to measure the exact amount of medicine that your 
 Your baby’s doctor, nurse or pharmacist will give you this small syringe.
 Note that a milliliter (mL) is the same as a cubic centimeter (cc).
 
-1. Insert the tip of the syringe in the medicine and pull up on the plunger to draw the medicine into the syringe.
+1. 1.Insert the tip of the syringe in the medicine and pull up on the plunger to draw the medicine into the syringe.
    Remove slightly more of the medicine than the exact amount to be given to your baby.
-2. Turn the syringe tip up so that any air in it rises to the top.
+2. 2.Turn the syringe tip up so that any air in it rises to the top.
    Remove the air by gently pushing up on the syringe plunger.
    Continue to push the syringe plunger up to remove any extra medicine in the syringe, until only the exact number of milliliters (or cubic centimeters) that your baby’s doctor prescribed remains in the syringe.
-3. Give the caffeine citrate oral solution to your baby as your baby’s doctor instructed.
-4. Throw away the sharp metal pieces, the rubber stopper, the open vial, and any medicine that remains in it after your baby receives the dose.
+3. 3.Give the caffeine citrate oral solution to your baby as your baby’s doctor instructed.
+4. 4.Throw away the sharp metal pieces, the rubber stopper, the open vial, and any medicine that remains in it after your baby receives the dose.
 
 What are possible side effects of caffeine citrate?
 
@@ -91,22 +92,24 @@ Your baby may or may not develop side effects from taking caffeine citrate.
 Each baby is different.
 If your baby develops one or more of the following symptoms, speak with your baby’s doctor right away:
 
-- restlessness, jitteriness, or shakiness
-- faster heart beat
-- increased urination (increased diaper wetting)
+- •restlessness, jitteriness, or shakiness
+- •faster heart beat
+- •increased urination (increased diaper wetting)
 
 The following symptoms may be caused by serious bowel or stomach problems.
 Call your baby’s doctor right away if your baby develops:
 
-- bloated abdomen (stomach area)
-- vomiting
-- bloody stools (bloody bowel movements)
-- loss of energy, lethargy (acting sluggish)
+- •bloated abdomen (stomach area)
+- •vomiting
+- •bloody stools (bloody bowel movements)
+- •loss of energy, lethargy (acting sluggish)
 
 This is not a complete list of side effects reported with caffeine citrate oral solution.
 If you have a concern about your baby, speak with your baby’s doctor.
 If you want more information about caffeine citrate oral solution, speak with your baby’s doctor or pharmacist.
 
-Manufactured and Distributed by: Exela Pharma Sciences, LLC Lenoir, NC 28645 USA
+Manufactured and Distributed by:
 
-Revised: December 2014
+Exela Pharma Sciences, LLC Lenoir, NC 28645 USA
+
+Revised: May 2018
