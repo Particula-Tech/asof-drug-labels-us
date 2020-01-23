@@ -20,7 +20,7 @@ DONEPEZIL HYDROCHLORIDE PATIENT PACKAGE INSERT
 
 Donepezil (doe NEP e zil) Hydrochloride Tablets, USP
 
-- Tablets: 5 mg and 10 mg
+- •Tablets: 5 mg and 10 mg
 
 Read the Patient Information that comes with donepezil hydrochloride before the patient starts taking it and each time you get a refill.
 There may be new information.
@@ -36,10 +36,10 @@ Donepezil hydrochloride can help with mental function and with doing daily tasks
 Donepezil hydrochloride does not work the same in all people.
 Some people may:
 
-- Seem much better
-- Get better in small ways or stay the same
-- Get worse over time but slower than expected
-- Not change and then get worse as expected
+- •Seem much better
+- •Get better in small ways or stay the same
+- •Get worse over time but slower than expected
+- •Not change and then get worse as expected
 
 Donepezil hydrochloride does not cure Alzheimer's disease.
 All patients with Alzheimer's disease get worse over time, even if they take donepezil hydrochloride.
@@ -57,16 +57,16 @@ What should I tell the doctor before the patient takes donepezil hydrochloride?
 Tell the doctor about all the patient's present or past health problems.
 Include:
 
-- Any heart problems including problems with irregular, slow, or fast heartbeats
-- Asthma or lung problems
-- A seizure
-- Stomach ulcers
-- Difficulty passing urine
-- Liver or kidney problems
-- Trouble swallowing tablets
-- Present pregnancy or plans to become pregnant.
+- •Any heart problems including problems with irregular, slow, or fast heartbeats
+- •Asthma or lung problems
+- •A seizure
+- •Stomach ulcers
+- •Difficulty passing urine
+- •Liver or kidney problems
+- •Trouble swallowing tablets
+- •Present pregnancy or plans to become pregnant.
   It is not known if donepezil hydrochloride can harm an unborn baby.
-- Present breast-feeding.
+- •Present breast-feeding.
   It is not known if donepezil hydrochloride passes into breast milk.
   Donepezil hydrochloride is not for women who are breast-feeding.
 
@@ -81,9 +81,9 @@ Taking NSAIDs and donepezil hydrochloride together may make the patient more lik
 Donepezil hydrochloride taken with certain medicines used for anesthesia may cause side effects.
 Tell the responsible doctor or dentist that the patient takes donepezil hydrochloride before the patient has:
 
-- surgery
-- medical procedures
-- dental surgery or procedures
+- •surgery
+- •medical procedures
+- •dental surgery or procedures
 
 Know the medicines that the patient takes.
 Keep a list of all the patient's medicines.
@@ -91,50 +91,50 @@ Show it to the doctor or pharmacist before the patient starts a new medicine.
 
 How should the patient take donepezil hydrochloride?
 
-- Give donepezil hydrochloride exactly as prescribed by the doctor.
+- •Give donepezil hydrochloride exactly as prescribed by the doctor.
   Do not stop donepezil hydrochloride or change the dose yourself.
   Talk with the doctor first.
-- Give donepezil hydrochloride one time each day.
+- •Give donepezil hydrochloride one time each day.
   Donepezil hydrochloride can be taken with or without food.
-- If you miss giving the patient a dose of donepezil hydrochloride, just wait.
+- •If you miss giving the patient a dose of donepezil hydrochloride, just wait.
   Give only the next dose at the usual time.
   Do not give 2 doses at the same time.
-- If donepezil hydrochloride is missed for 7 days or more, talk with the doctor before starting again.
-- If the patient takes too much donepezil hydrochloride at one time, call the doctor or poison control center, or go to the emergency room right away.
+- •If donepezil hydrochloride is missed for 7 days or more, talk with the doctor before starting again.
+- •If the patient takes too much donepezil hydrochloride at one time, call the doctor or poison control center, or go to the emergency room right away.
 
 What are the possible side effects of donepezil hydrochloride?
 
 Donepezil hydrochloride may cause the following serious side effects:
 
-- slow heartbeat and fainting.
+- •slow heartbeat and fainting.
   This happens more often in people with heart problems.
   Call the doctor right away if the patient faints while taking donepezil hydrochloride.
-- more stomach acid.
+- •more stomach acid.
   This raises the chance of ulcers and bleeding.
   The risk is higher for patients who had ulcers, or take aspirin or other NSAIDs.
-- worsening of lung problems in people with asthma or other lung disease.
-- seizures.
-- difficulty passing urine.
+- •worsening of lung problems in people with asthma or other lung disease.
+- •seizures.
+- •difficulty passing urine.
 
 Call the doctor right away if the patient has:
 
-- fainting.
-- heartburn or stomach pain that is new or won't go away.
-- nausea or vomiting, blood in the vomit, dark vomit that looks like coffee grounds.
-- bowel movements or stools that look like black tar.
-- new or worse asthma or breathing problems.
-- seizures.
-- difficulty passing urine.
+- •fainting.
+- •heartburn or stomach pain that is new or won't go away.
+- •nausea or vomiting, blood in the vomit, dark vomit that looks like coffee grounds.
+- •bowel movements or stools that look like black tar.
+- •new or worse asthma or breathing problems.
+- •seizures.
+- •difficulty passing urine.
 
 The most common side effects of donepezil hydrochloride are:
 
-- nausea
-- diarrhea
-- not sleeping well
-- vomiting
-- muscle cramps
-- feeling tired
-- not wanting to eat
+- •nausea
+- •diarrhea
+- •not sleeping well
+- •vomiting
+- •muscle cramps
+- •feeling tired
+- •not wanting to eat
 
 These side effects may get better after the patient takes donepezil hydrochloride for a while.
 This is not a complete list of side effects with donepezil hydrochloride.

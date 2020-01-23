@@ -2,7 +2,7 @@
 
 ## 7.1 Use with Anticholinergics
 
-Because of their mechanism of action, cholinesterase inhibitors have the potential to interfere with the activity of anticholinergic medications.
+1. Because of their mechanism of action, cholinesterase inhibitors have the potential to interfere with the activity of anticholinergic medications.
 
 ## 7.2 Use with Cholinomimetics and Other Cholinesterase Inhibitors
 

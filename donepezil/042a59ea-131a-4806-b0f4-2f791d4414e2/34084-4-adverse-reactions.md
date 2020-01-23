@@ -2,12 +2,12 @@
 
 The following serious adverse reactions are described below and elsewhere in the labeling:
 
-- Cardiovascular Conditions [see Warnings and Precautions (5.2)]
-- Nausea and Vomiting [see Warnings and Precautions (5.3)]
-- Peptic Ulcer Disease and GI Bleeding [see Warnings and Precautions (5.4)]
-- Genitourinary Conditions [see Warnings and Precautions (5.6)]
-- Neurological Conditions: Seizures [see Warnings and Precautions (5.7)]
-- Pulmonary Conditions [see Warnings and Precautions (5.8)]
+- •Cardiovascular Conditions [see Warnings and Precautions (5.2)]
+- •Nausea and Vomiting [see Warnings and Precautions (5.3)]
+- •Peptic Ulcer Disease and GI Bleeding [see Warnings and Precautions (5.4)]
+- •Genitourinary Conditions [see Warnings and Precautions (5.6)]
+- •Neurological Conditions: Seizures [see Warnings and Precautions (5.7)]
+- •Pulmonary Conditions [see Warnings and Precautions (5.8)]
 
 ## 6.1 Clinical Trials Experience
 
