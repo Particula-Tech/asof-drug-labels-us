@@ -16,5 +16,5 @@ Buspirone Hydrochloride Tablets, USP are available as:
 |  | 180 tablets in a HDPE bottle | NDC: 64380-743-18 |  |
 | 30 mg | 60 tablets in a HDPE bottle | NDC: 64380-744-03 | White to off white rectangular uncoated functionally scored tablet with bisected score lines on one side and trisected score line with engraved '10' on each trisection of other side. |
 
-Store at 20 °C to 25 °C (68 °C to 77 °F); excursions permitted between 15 °C to 30 °C (59 °F to 86 °F) [See USP controlled room temperature].
+Store at 20 °C to 25 °C (68 °F to 77 °F); excursions permitted between 15 °C to 30 °C (59 °F to 86 °F) [See USP controlled room temperature].
 Dispense in a tight, light-resistant container (USP).
