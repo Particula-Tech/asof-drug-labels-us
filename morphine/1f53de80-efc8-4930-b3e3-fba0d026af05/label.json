@@ -1,0 +1,28 @@
+{
+  "application_numbers": [
+    "NDA204223"
+  ],
+  "inn": "morphine",
+  "labeler": "Fresenius Kabi, USA LLC",
+  "package_ndcs": [
+    "76045-004-01",
+    "76045-004-11",
+    "76045-005-01",
+    "76045-005-11",
+    "76045-006-01",
+    "76045-006-11",
+    "76045-007-01",
+    "76045-007-11",
+    "76045-008-01",
+    "76045-008-11"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "morphine sulfate",
+      "name": "Morphine Sulfate"
+    }
+  ],
+  "setid": "1f53de80-efc8-4930-b3e3-fba0d026af05",
+  "source": "dailymed"
+}
