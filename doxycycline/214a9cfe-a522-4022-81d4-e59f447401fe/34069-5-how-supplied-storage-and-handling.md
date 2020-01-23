@@ -12,7 +12,6 @@ HOW SUPPLIED: Doxycycline hyclate capsules and tablets are available as follows:
 
 | c. Tablet-equivalent to 100 mg doxycycline (light orange film coated tablet) in: |  |  |  |
 | --- | --- | --- | --- |
-|  | Bottles of 20 tablets | NDC 53489-120-60 | debossed MP 37 |
 |  | Bottles of 50 tablets | NDC 53489-120-02 | debossed MP 37 |
 |  | Bottles of 500 tablets | NDC 53489-120-05 | debossed MP 37 |
 

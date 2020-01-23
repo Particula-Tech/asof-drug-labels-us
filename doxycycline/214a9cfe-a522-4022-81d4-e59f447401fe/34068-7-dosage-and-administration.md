@@ -51,6 +51,6 @@ Prophylaxis should be continued daily during travel in the malarious area and fo
 
 Inhalational anthrax (post-exposure):
 
-1. ADULTS: 100 mg of doxycycline, by mouth, twice a day for 60 days.
-2. CHILDREN: weighing less than 45 kg; 2.2 mg/kg of body weight by mouth, twice a day for 60 days.
-   Children weighing 45 kg or more should receive the adult dose.
+- ADULTS: 100 mg of doxycycline, by mouth, twice a day for 60 days.
+- CHILDREN: weighing less than 45 kg; 2.2 mg/kg of body weight by mouth, twice a day for 60 days.
+  Children weighing 45 kg or more should receive the adult dose.
