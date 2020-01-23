@@ -7,8 +7,7 @@ Table 1 in Section 2.5 details the equivalent amounts of active ingredient in th
 
 Structural Formula:
 
-|  | C9H13N | MW 135.21 |  |
-| --- | --- | --- | --- |
+C9H13N MW 135.21
 
 ADZENYS ER is an extended-release oral suspension containing approximately equal amounts of immediate-release and delayed-release amphetamine.
 
