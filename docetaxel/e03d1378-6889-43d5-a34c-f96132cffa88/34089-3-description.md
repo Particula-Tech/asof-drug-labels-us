@@ -9,6 +9,6 @@ Docetaxel is a white to almost-white powder with an empirical formula of C43H53N
 It is highly lipophilic and practically insoluble in water.
 
 Docetaxel Injection is a clear, colorless to pale yellow solution.
-Docetaxel Injection is sterile, non-pyrogenic, and is available in multiple dose vials, supplied as 20 mg/2 mL, 80 mg/8 mL and 160 mg/16 mL.
+Docetaxel Injection is sterile, non-pyrogenic, and is available in multiple-dose vials, supplied as 20 mg/2 mL, 80 mg/8 mL and 160 mg/16 mL.
 
 Each mL of Docetaxel Injection contains 10 mg docetaxel, 275.9 mg alcohol 96% (v/v), 4 mg citric acid, 648 mg polyethylene glycol 300, and 80 mg polysorbate 80.

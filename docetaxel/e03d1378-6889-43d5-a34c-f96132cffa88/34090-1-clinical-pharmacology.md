@@ -10,7 +10,7 @@ Docetaxel's binding to microtubules does not alter the number of protofilaments 
 ## 12.3 Pharmacokinetics
 
 Absorption: The pharmacokinetics of docetaxel have been evaluated in cancer patients after administration of 20 mg/m2 to 115 mg/m2 in phase 1 studies.
-The area under the curve (AUC) was dose proportional following doses of 70 mg/m2 to 115 mg/m2 with intravenous infusion times of 1 to 2 hours.
+The area under the curve (AUC) was dose proportional following doses of 70 mg/m2 to 115 mg/m2 with infusion times of 1 to 2 hours.
 Docetaxel's pharmacokinetic profile is consistent with a three-compartment pharmacokinetic model, with half-lives for the α, β, and γ phases of 4 min, 36 min, and 11.1 hr, respectively.
 Mean total body clearance was 21 L/h/m2.
 
@@ -26,23 +26,26 @@ Docetaxel was eliminated in both the urine and feces following oxidative metabol
 Within 7 days, urinary and fecal excretion accounted for approximately 6% and 75% of the administered radioactivity, respectively.
 About 80% of the radioactivity recovered in feces is excreted during the first 48 hours as 1 major and 3 minor metabolites with very small amounts (less than 8%) of unchanged drug.
 
+Specific Populations
+
 Effect of Age: A population pharmacokinetic analysis was carried out after docetaxel treatment of 535 patients dosed at 100 mg/m2.
 Pharmacokinetic parameters estimated by this analysis were very close to those estimated from phase 1 studies.
 The pharmacokinetics of docetaxel were not influenced by age.
 
 Effect of Gender: The population pharmacokinetics analysis described above also indicated that gender did not influence the pharmacokinetics of docetaxel.
 
-Hepatic Impairment: The population pharmacokinetic analysis described above indicated that in patients with clinical chemistry data suggestive of mild to moderate liver impairment (AST and/or ALT >1.5 times ULN concomitant with alkaline phosphatase >2.5 times ULN), total body clearance was lowered by an average of 27%, resulting in a 38% increase in systemic exposure (AUC).
+Hepatic Impairment:The population pharmacokinetic analysis described above indicated that in patients with clinical chemistry data suggestive of mild to moderate liver impairment (AST and/or ALT >1.5 times ULN concomitant with alkaline phosphatase >2.5 times ULN), total body clearance was lowered by an average of 27%, resulting in a 38% increase in systemic exposure (AUC).
 This average, however, includes a substantial range and there is, at present, no measurement that would allow recommendation for dose adjustment in such patients.
 Patients with combined abnormalities of transaminase and alkaline phosphatase should not be treated with Docetaxel Injection.
-Patients with severe hepatic impairment have not been studied.
-[see Warnings and Precautions (5.2) and Use in Specific Populations (8.6)].
+Patients with severe hepatic impairment have not been studied [see Warnings and Precautions (5.2), Use in Specific Populations (8.6)].
 
-Effect of Race: Mean total body clearance for Japanese patients dosed at the range of 10 mg/m2 to 90 mg/m2 was similar to that of European/American populations dosed at 100 mg/m2, suggesting no significant difference in the elimination of docetaxel in the two populations.
+Effect of Race:Mean total body clearance for Japanese patients dosed at the range of 10 mg/m2 to 90 mg/m2 was similar to that of European/American populations dosed at 100 mg/m2, suggesting no significant difference in the elimination of docetaxel in the two populations.
+
+Drug Interaction Studies
 
 Effect of Ketoconazole: The effect of ketoconazole (a strong CYP3A4 inhibitor) on the pharmacokinetics of docetaxel was investigated in 7 cancer patients.
 Patients were randomized to receive either docetaxel (100 mg/m2 intravenous) alone or docetaxel (10 mg/m2 intravenous) in combination with ketoconazole (200 mg orally once daily for 3 days) in a crossover design with a 3-week washout period.
-The results of this study indicated that the mean dose-normalized AUC of docetaxel was increased 2.2-fold and its clearance was reduced by 49% when docetaxel was co-administration with ketoconazole [see Dosage and Administration (2.7) and Drug Interactions (7)].
+The results of this study indicated that the mean dose-normalized AUC of docetaxel was increased 2.2-fold and its clearance was reduced by 49% when docetaxel was co-administration with ketoconazole [see Dosage and Administration (2.7), Drug Interactions (7)].
 
 Effect of Combination Therapies:
 
@@ -50,7 +53,7 @@ Effect of Combination Therapies:
 - •Cisplatin: Clearance of docetaxel in combination therapy with cisplatin was similar to that previously observed following monotherapy with docetaxel.
   The pharmacokinetic profile of cisplatin in combination therapy with docetaxel was similar to that observed with cisplatin alone.
 - •Cisplatin and Fluorouracil: The combined administration of docetaxel, cisplatin and fluorouracil in 12 patients with solid tumors had no influence on the pharmacokinetics of each individual drug.
-- •Prednisone: A population pharmacokinetic analysis of plasma data from 40 patients with hormone-refractory metastatic prostate cancer indicated that docetaxel systemic clearance in combination with prednisone is similar to that observed following administration of docetaxel alone.
+- •Prednisone: A population pharmacokinetic analysis of plasma data from 40 patients with metastatic castration-resistant prostate cancer indicated that docetaxel systemic clearance in combination with prednisone is similar to that observed following administration of docetaxel alone.
 - •Cyclophosphamide and Doxorubicin: A study was conducted in 30 patients with advanced breast cancer to determine the potential for drug-drug-interactions between docetaxel (75 mg/m2), doxorubicin (50 mg/m2), and cyclophosphamide (500 mg/m2) when administered in combination.
   The co-administration of docetaxel had no effect on the pharmacokinetics of doxorubicin and cyclophosphamide when the three drugs were given in combination compared to co-administration of doxorubicin and cyclophosphamide only.
   In addition, doxorubicin and cyclophosphamide had no effect on docetaxel plasma clearance when the three drugs were given in combination compared to historical data for docetaxel monotherapy.

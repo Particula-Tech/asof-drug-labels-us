@@ -2,7 +2,7 @@
 
 ## 16.1 How Supplied
 
-Docetaxel Injection is supplied in a multiple dose vial as a sterile, pyrogen-free solution.
+Docetaxel Injection is supplied in a multiple-dose vial as a sterile, pyrogen-free solution.
 Docetaxel Injection requires NO prior dilution with a diluent and is ready to add to the infusion solution.
 The following strengths are available:
 
@@ -18,9 +18,9 @@ Store between 2°C and 25°C (36°F and 77°F).
 Retain in the original package to protect from bright light.
 Freezing does not adversely affect the product.
 
-After initial puncture, Docetaxel Injection multiple dose vials are stable for 28 days when stored between 2ºC to 8ºC and at room temperature, with or without protection from light.
+After initial puncture, Docetaxel Injection multiple-dose vials are stable for 28 days when stored between 2ºC to 8ºC and at room temperature, with or without protection from light.
 
 ## 16.3 Handling and Disposal
 
-Procedures for proper handling and disposal of anticancer drugs should be considered.
-Several guidelines on this subject have been published [see References (15)].
+Docetaxel Injection is a cytotoxic drug.
+Follow applicable special handling and disposal procedures.1
