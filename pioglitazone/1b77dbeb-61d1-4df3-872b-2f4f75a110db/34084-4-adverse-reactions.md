@@ -46,29 +46,29 @@ Terms that are reported represent those that occurred at an incidence of >5% and
 Table 2.
 16- to 24-Week Clinical Trials of Pioglitazone Tablets Add-on to Sulfonylurea
 
-| N=187 | N=184 |  | N=189 |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-|  | 16-Week Placebo-Controlled Trial |  |  |  |  |  |  |
-| Adverse Events Reported in >5% of Patients and More Commonly in Patients Treated with Pioglitazone Tablets 30 mg + Sulfonylurea than in Patients Treated with Placebo + Sulfonylurea |  |  |  |  |  |  |  |
-| % of Patients |  |  |  |  |  |  |  |
-| Placebo | Pioglitazone Tablets 15 mg |  | Pioglitazone Tablets 30 mg |  |  |  |  |
-| + Sulfonylurea | + Sulfonylurea |  | + Sulfonylurea |  |  |  |  |
-| Edema | 2.1 | 1.6 |  | 12.7 |  |  |  |
-| Headache | 3.7 | 4.3 |  | 5.3 |  |  |  |
-| Flatulence | 0.5 | 2.7 |  | 6.3 |  |  |  |
-| Weight Increased | 0 | 2.7 |  | 5.3 |  |  |  |
-|  | 24-Week Non-Controlled Double-Blind Trial |  |  |  |  |  |  |
-| Adverse Events Reported in >5% of Patients and More Commonly in Patients Treated with Pioglitazone Tablets 45 mg + Sulfonylurea than in Patients Treated with Pioglitazone Tablets 30 mg + Sulfonylurea |  |  |  |  |  |  |  |
-| % of Patients |  |  |  |  |  |  |  |
-| Pioglitazone Tablets 30 mg |  | Pioglitazone Tablets 45 mg |  |  |  |  |  |
-| + Sulfonylurea |  | + Sulfonylurea |  |  |  |  |  |
-| N=351 |  | N=351 |  |  |  |  |  |
-| Hypoglycemia | 13.4 |  | 15.7 |  |  |  |  |
-| Edema | 10.5 |  | 23.1 |  |  |  |  |
-| Upper Respiratory Tract Infection | 12.3 |  | 14.8 |  |  |  |  |
-| Weight Increased | 9.1 |  | 13.4 |  |  |  |  |
-| Urinary Tract Infection | 5.7 |  | 6.8 |  |  |  |  |
-| Note: The preferred terms of edema peripheral, generalized edema, pitting edema and fluid retention were combined to form the aggregate term of “edema.” |  |  |  |  |  |  |  |
+| N=187 | N=184 | N=189 |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 16-Week Placebo-Controlled Trial |  |  |  |  |  |
+| Adverse Events Reported in >5% of Patients and More Commonly in Patients Treated with Pioglitazone Tablets 30 mg + Sulfonylurea than in Patients Treated with Placebo + Sulfonylurea |  |  |  |  |  |  |
+| % of Patients |  |  |  |  |  |  |
+| Placebo | Pioglitazone Tablets 15 mg | Pioglitazone Tablets 30 mg |  |  |  |  |
+| + Sulfonylurea | + Sulfonylurea | + Sulfonylurea |  |  |  |  |
+| Edema | 2.1 | 1.6 | 12.7 |  |  |  |
+| Headache | 3.7 | 4.3 | 5.3 |  |  |  |
+| Flatulence | 0.5 | 2.7 | 6.3 |  |  |  |
+| Weight Increased | 0 | 2.7 | 5.3 |  |  |  |
+|  | 24-Week Non-Controlled Double-Blind Trial |  |  |  |  |  |
+| Adverse Events Reported in >5% of Patients and More Commonly in Patients Treated with Pioglitazone Tablets 45 mg + Sulfonylurea than in Patients Treated with Pioglitazone Tablets 30 mg + Sulfonylurea |  |  |  |  |  |  |
+| % of Patients |  |  |  |  |  |  |
+| Pioglitazone Tablets 30 mg | Pioglitazone Tablets 45 mg |  |  |  |  |  |
+| + Sulfonylurea | + Sulfonylurea |  |  |  |  |  |
+| N=351 | N=351 |  |  |  |  |  |
+| Hypoglycemia | 13.4 | 15.7 |  |  |  |  |
+| Edema | 10.5 | 23.1 |  |  |  |  |
+| Upper Respiratory Tract Infection | 12.3 | 14.8 |  |  |  |  |
+| Weight Increased | 9.1 | 13.4 |  |  |  |  |
+| Urinary Tract Infection | 5.7 | 6.8 |  |  |  |  |
+| Note: The preferred terms of edema peripheral, generalized edema, pitting edema and fluid retention were combined to form the aggregate term of “edema.” |  |  |  |  |  |  |
 
 A summary of the overall incidence and types of common adverse events reported in trials of pioglitazone tablets add-on to metformin is provided in Table 3.
 Terms that are reported represent those that occurred at an incidence of >5% and more commonly with the highest tested dose of pioglitazone tablets.
@@ -76,26 +76,26 @@ Terms that are reported represent those that occurred at an incidence of >5% and
 Table 3.
 16- to 24-Week Clinical Trials of Pioglitazone Tablets Add-on to Metformin
 
-| N=160 | N=168 |  |  |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  | 16-Week Placebo-Controlled Trial |  |  |  |  |  |  |  |  |  |
-| Adverse Events Reported in >5% of Patients and More Commonly in Patients Treated with Pioglitazone Tablets + Metformin than in Patients Treated with Placebo + Metformin |  |  |  |  |  |  |  |  |  |  |
-| % of Patients |  |  |  |  |  |  |  |  |  |  |
-| Placebo | Pioglitazone Tablets 30 mg |  |  |  |  |  |  |  |  |  |
-| + Metformin | + Metformin |  |  |  |  |  |  |  |  |  |
-| Edema | 2.5 | 6.0 |  |  |  |  |  |  |  |  |
-| Headache | 1.9 | 6.0 |  |  |  |  |  |  |  |  |
-|  | 24-Week Non-Controlled Double-Blind Trial |  |  |  |  |  |  |  |  |  |
-| Adverse Events Reported in >5% of Patients and More Commonly in Patients Treated with Pioglitazone Tablets 45 mg + Metformin than in Patients Treated with Pioglitazone Tablets 30 mg + Metformin |  |  |  |  |  |  |  |  |  |  |
-| % of Patients |  |  |  |  |  |  |  |  |  |  |
-| Pioglitazone Tablets 30 mg | Pioglitazone Tablets 45 mg |  |  |  |  |  |  |  |  |  |
-| + Metformin | + Metformin |  |  |  |  |  |  |  |  |  |
-| N=411 | N=416 |  |  |  |  |  |  |  |  |  |
-| Upper Respiratory Tract Infection | 12.4 | 13.5 |  |  |  |  |  |  |  |  |
-| Edema | 5.8 | 13.9 |  |  |  |  |  |  |  |  |
-| Headache | 5.4 | 5.8 |  |  |  |  |  |  |  |  |
-| Weight Increased | 2.9 | 6.7 |  |  |  |  |  |  |  |  |
-| Note: The preferred terms of edema peripheral, generalized edema, pitting edema and fluid retention were combined to form the aggregate term of “edema.” |  |  |  |  |  |  |  |  |  |  |
+| N=160 | N=168 |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  | 16-Week Placebo-Controlled Trial |  |  |  |  |  |  |  |  |
+| Adverse Events Reported in >5% of Patients and More Commonly in Patients Treated with Pioglitazone Tablets + Metformin than in Patients Treated with Placebo + Metformin |  |  |  |  |  |  |  |  |  |
+| % of Patients |  |  |  |  |  |  |  |  |  |
+| Placebo | Pioglitazone Tablets 30 mg |  |  |  |  |  |  |  |  |
+| + Metformin | + Metformin |  |  |  |  |  |  |  |  |
+| Edema | 2.5 | 6.0 |  |  |  |  |  |  |  |
+| Headache | 1.9 | 6.0 |  |  |  |  |  |  |  |
+|  | 24-Week Non-Controlled Double-Blind Trial |  |  |  |  |  |  |  |  |
+| Adverse Events Reported in >5% of Patients and More Commonly in Patients Treated with Pioglitazone Tablets 45 mg + Metformin than in Patients Treated with Pioglitazone Tablets 30 mg + Metformin |  |  |  |  |  |  |  |  |  |
+| % of Patients |  |  |  |  |  |  |  |  |  |
+| Pioglitazone Tablets 30 mg | Pioglitazone Tablets 45 mg |  |  |  |  |  |  |  |  |
+| + Metformin | + Metformin |  |  |  |  |  |  |  |  |
+| N=411 | N=416 |  |  |  |  |  |  |  |  |
+| Upper Respiratory Tract Infection | 12.4 | 13.5 |  |  |  |  |  |  |  |
+| Edema | 5.8 | 13.9 |  |  |  |  |  |  |  |
+| Headache | 5.4 | 5.8 |  |  |  |  |  |  |  |
+| Weight Increased | 2.9 | 6.7 |  |  |  |  |  |  |  |
+| Note: The preferred terms of edema peripheral, generalized edema, pitting edema and fluid retention were combined to form the aggregate term of “edema.” |  |  |  |  |  |  |  |  |  |
 
 Table 4 summarizes the incidence and types of common adverse events reported in trials of pioglitazone tablets add-on to insulin.
 Terms that are reported represent those that occurred at an incidence of >5% and more commonly with the highest tested dose of pioglitazone tablets.
@@ -103,37 +103,37 @@ Terms that are reported represent those that occurred at an incidence of >5% and
 Table 4.
 16- to 24-Week Clinical Trials of Pioglitazone Tablets Add-on to Insulin
 
-| N=187 | N=191 | N=188 |  |  |  |  |  |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  | 16-Week Placebo-Controlled Trial |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Adverse Events Reported in > 5% of Patients and More Commonly in Patients Treated with Pioglitazone Tablets 30 mg + Insulin than in Patients Treated with Placebo + Insulin |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| % of Patients |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Placebo | Pioglitazone Tablets 15 mg | Pioglitazone Tablets 30 mg |  |  |  |  |  |  |  |  |  |  |  |  |
-| + Insulin | + Insulin | + Insulin |  |  |  |  |  |  |  |  |  |  |  |  |
-| Hypoglycemia | 4.8 | 7.9 | 15.4 |  |  |  |  |  |  |  |  |  |  |  |
-| Edema | 7.0 | 12.6 | 17.6 |  |  |  |  |  |  |  |  |  |  |  |
-| Upper Respiratory Tract Infection | 9.6 | 8.4 | 14.9 |  |  |  |  |  |  |  |  |  |  |  |
-| Headache | 3.2 | 3.1 | 6.9 |  |  |  |  |  |  |  |  |  |  |  |
-| Weight Increased | 0.5 | 5.2 | 6.4 |  |  |  |  |  |  |  |  |  |  |  |
-| Back Pain | 4.3 | 2.1 | 5.3 |  |  |  |  |  |  |  |  |  |  |  |
-| Dizziness | 3.7 | 2.6 | 5.3 |  |  |  |  |  |  |  |  |  |  |  |
-| Flatulence | 1.6 | 3.7 | 5.3 |  |  |  |  |  |  |  |  |  |  |  |
-|  | 24-Week Non-Controlled Double-Blind Trial |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Adverse Events Reported in > 5% of Patients and More Commonly in Patients Treated with Pioglitazone Tablets 45 mg + Insulin than in Patients Treated with Pioglitazone Tablets 30 mg + Insulin |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| % of Patients |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Pioglitazone Tablets 30 mg |  | Pioglitazone Tablets 45 mg |  |  |  |  |  |  |  |  |  |  |  |  |
-| + Insulin |  | + Insulin |  |  |  |  |  |  |  |  |  |  |  |  |
-| N=345 |  | N=345 |  |  |  |  |  |  |  |  |  |  |  |  |
-| Hypoglycemia | 43.5 |  | 47.8 |  |  |  |  |  |  |  |  |  |  |  |
-| Edema | 22.0 |  | 26.1 |  |  |  |  |  |  |  |  |  |  |  |
-| Weight Increased | 7.2 |  | 13.9 |  |  |  |  |  |  |  |  |  |  |  |
-| Urinary Tract Infection | 4.9 |  | 8.7 |  |  |  |  |  |  |  |  |  |  |  |
-| Diarrhea | 5.5 |  | 5.8 |  |  |  |  |  |  |  |  |  |  |  |
-| Back Pain | 3.8 |  | 6.4 |  |  |  |  |  |  |  |  |  |  |  |
-| Blood Creatine Phosphokinase Increased | 4.6 |  | 5.5 |  |  |  |  |  |  |  |  |  |  |  |
-| Sinusitis | 4.6 |  | 5.5 |  |  |  |  |  |  |  |  |  |  |  |
-| Hypertension | 4.1 |  | 5.5 |  |  |  |  |  |  |  |  |  |  |  |
-| Note: The preferred terms of edema peripheral, generalized edema, pitting edema and fluid retention were combined to form the aggregate term of “edema.” |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| N=187 | N=191 | N=188 |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  | 16-Week Placebo-Controlled Trial |  |  |  |  |  |  |  |  |  |  |  |  |
+| Adverse Events Reported in > 5% of Patients and More Commonly in Patients Treated with Pioglitazone Tablets 30 mg + Insulin than in Patients Treated with Placebo + Insulin |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| % of Patients |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Placebo | Pioglitazone Tablets 15 mg | Pioglitazone Tablets 30 mg |  |  |  |  |  |  |  |  |  |  |  |
+| + Insulin | + Insulin | + Insulin |  |  |  |  |  |  |  |  |  |  |  |
+| Hypoglycemia | 4.8 | 7.9 | 15.4 |  |  |  |  |  |  |  |  |  |  |
+| Edema | 7.0 | 12.6 | 17.6 |  |  |  |  |  |  |  |  |  |  |
+| Upper Respiratory Tract Infection | 9.6 | 8.4 | 14.9 |  |  |  |  |  |  |  |  |  |  |
+| Headache | 3.2 | 3.1 | 6.9 |  |  |  |  |  |  |  |  |  |  |
+| Weight Increased | 0.5 | 5.2 | 6.4 |  |  |  |  |  |  |  |  |  |  |
+| Back Pain | 4.3 | 2.1 | 5.3 |  |  |  |  |  |  |  |  |  |  |
+| Dizziness | 3.7 | 2.6 | 5.3 |  |  |  |  |  |  |  |  |  |  |
+| Flatulence | 1.6 | 3.7 | 5.3 |  |  |  |  |  |  |  |  |  |  |
+|  | 24-Week Non-Controlled Double-Blind Trial |  |  |  |  |  |  |  |  |  |  |  |  |
+| Adverse Events Reported in > 5% of Patients and More Commonly in Patients Treated with Pioglitazone Tablets 45 mg + Insulin than in Patients Treated with Pioglitazone Tablets 30 mg + Insulin |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| % of Patients |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Pioglitazone Tablets 30 mg |  | Pioglitazone Tablets 45 mg |  |  |  |  |  |  |  |  |  |  |  |
+| + Insulin |  | + Insulin |  |  |  |  |  |  |  |  |  |  |  |
+| N=345 |  | N=345 |  |  |  |  |  |  |  |  |  |  |  |
+| Hypoglycemia | 43.5 |  | 47.8 |  |  |  |  |  |  |  |  |  |  |
+| Edema | 22.0 |  | 26.1 |  |  |  |  |  |  |  |  |  |  |
+| Weight Increased | 7.2 |  | 13.9 |  |  |  |  |  |  |  |  |  |  |
+| Urinary Tract Infection | 4.9 |  | 8.7 |  |  |  |  |  |  |  |  |  |  |
+| Diarrhea | 5.5 |  | 5.8 |  |  |  |  |  |  |  |  |  |  |
+| Back Pain | 3.8 |  | 6.4 |  |  |  |  |  |  |  |  |  |  |
+| Blood Creatine Phosphokinase Increased | 4.6 |  | 5.5 |  |  |  |  |  |  |  |  |  |  |
+| Sinusitis | 4.6 |  | 5.5 |  |  |  |  |  |  |  |  |  |  |
+| Hypertension | 4.1 |  | 5.5 |  |  |  |  |  |  |  |  |  |  |
+| Note: The preferred terms of edema peripheral, generalized edema, pitting edema and fluid retention were combined to form the aggregate term of “edema.” |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 A summary of the overall incidence and types of common adverse events reported in the PROactive trial is provided in Table 5.
 Terms that are reported represent those that occurred at an incidence of >5% and more commonly in patients treated with pioglitazone tablets than in patients who received placebo.
@@ -141,17 +141,17 @@ Terms that are reported represent those that occurred at an incidence of >5% and
 Table 5.
 PROactive Trial: Incidence and Types of Adverse Events Reported in >5% of Patients Treated with Pioglitazone Tablets and More Commonly than Placebo
 
-| N=2633 | N=2605 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  | % of Patients |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Placebo | Pioglitazone Tablets |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Hypoglycemia | 18.8 | 27.3 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Edema | 15.3 | 26.7 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Cardiac Failure | 6.1 | 8.1 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Pain in Extremity | 5.7 | 6.4 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Back Pain | 5.1 | 5.5 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Chest Pain | 5.0 | 5.1 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Mean duration of patient follow-up was 34.5 months. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| N=2633 | N=2605 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  | % of Patients |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Placebo | Pioglitazone Tablets |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Hypoglycemia | 18.8 | 27.3 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Edema | 15.3 | 26.7 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Cardiac Failure | 6.1 | 8.1 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Pain in Extremity | 5.7 | 6.4 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Back Pain | 5.1 | 5.5 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Chest Pain | 5.0 | 5.1 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Mean duration of patient follow-up was 34.5 months. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 Congestive Heart Failure
 
@@ -161,27 +161,27 @@ None of the events were fatal.
 Table 6.
 Treatment–Emergent Adverse Events of Congestive Heart Failure (CHF)
 
-| Patients Treated with Pioglitazone Tablets or Placebo Added on to a Sulfonylurea |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-|  | Number (%) of Patients |  |  |  |  |  |  |
-| Placebo-Controlled Trial (16 weeks) |  |  |  | Non-Controlled Double-Blind Trial (24 weeks) |  |  |  |
-| Placebo + Sulfonylurea N=187 | Pioglitazone Tablets 15 mg + Sulfonylurea N=184 | Pioglitazone Tablets 30 mg + Sulfonylurea N=189 |  | Pioglitazone Tablets 30 mg + Sulfonylurea N=351 |  | Pioglitazone Tablets 45 mg + Sulfonylurea N=351 |  |
-| At least one congestive heart failure event | 2 (1.1%) | 0 | 0 |  | 1 (0.3%) |  | 6 (1.7%) |
-| Hospitalized | 2 (1.1%) | 0 | 0 |  | 0 |  | 2 (0.6%) |
-| Patients Treated with Pioglitazone Tablets or Placebo Added on to Insulin |  |  |  |  |  |  |  |
-|  | Number (%) of Patients |  |  |  |  |  |  |
-| Placebo-Controlled Trial (16 weeks) |  |  |  | Non-Controlled Double-Blind Trial (24 weeks) |  |  |  |
-| Placebo + Insulin | Pioglitazone Tablets 15 mg + Insulin N=191 | Pioglitazone Tablets 30 mg + Insulin N=188 |  | Pioglitazone Tablets 30 mg + Insulin N=345 |  | Pioglitazone Tablets 45 mg + Insulin N=345 |  |
-| N=187 |  |  |  |  |  |  |  |
-| At least one congestive heart failure event | 0 | 2 (1.0%) | 2 (1.1%) |  | 3 (0.9%) |  | 5 (1.4%) |
-| Hospitalized | 0 | 2 (1.0%) | 1 (0.5%) |  | 1 (0.3%) |  | 3 (0.9%) |
-| Patients Treated with Pioglitazone Tablets or Placebo Added on to Metformin |  |  |  |  |  |  |  |
-|  | Number (%) of Patients |  |  |  |  |  |  |
-| Placebo-Controlled Trial (16 weeks) |  |  | Non-Controlled Double-Blind Trial (24 weeks) |  |  |  |  |
-| Placebo + Metformin | Pioglitazone Tablets 30 mg + Metformin N=168 |  | Pioglitazone Tablets 30 mg + Metformin N=411 |  | Pioglitazone Tablets 45 mg + Metformin |  |  |
-| N=160 | N=416 |  |  |  |  |  |  |
-| At least one congestive heart failure event | 0 | 1 (0.6%) |  | 0 |  | 1 (0.2%) |  |
-| Hospitalized | 0 | 1 (0.6%) |  | 0 |  | 1 (0.2%) |  |
+| Patients Treated with Pioglitazone Tablets or Placebo Added on to a Sulfonylurea |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+|  | Number (%) of Patients |  |  |  |  |
+| Placebo-Controlled Trial (16 weeks) |  |  | Non-Controlled Double-Blind Trial (24 weeks) |  |  |
+| Placebo + Sulfonylurea N=187 | Pioglitazone Tablets 15 mg + Sulfonylurea N=184 | Pioglitazone Tablets 30 mg + Sulfonylurea N=189 | Pioglitazone Tablets 30 mg + Sulfonylurea N=351 | Pioglitazone Tablets 45 mg + Sulfonylurea N=351 |  |
+| At least one congestive heart failure event | 2 (1.1%) | 0 | 0 | 1 (0.3%) | 6 (1.7%) |
+| Hospitalized | 2 (1.1%) | 0 | 0 | 0 | 2 (0.6%) |
+| Patients Treated with Pioglitazone Tablets or Placebo Added on to Insulin |  |  |  |  |  |
+|  | Number (%) of Patients |  |  |  |  |
+| Placebo-Controlled Trial (16 weeks) |  |  | Non-Controlled Double-Blind Trial (24 weeks) |  |  |
+| Placebo + Insulin | Pioglitazone Tablets 15 mg + Insulin N=191 | Pioglitazone Tablets 30 mg + Insulin N=188 | Pioglitazone Tablets 30 mg + Insulin N=345 | Pioglitazone Tablets 45 mg + Insulin N=345 |  |
+| N=187 |  |  |  |  |  |
+| At least one congestive heart failure event | 0 | 2 (1.0%) | 2 (1.1%) | 3 (0.9%) | 5 (1.4%) |
+| Hospitalized | 0 | 2 (1.0%) | 1 (0.5%) | 1 (0.3%) | 3 (0.9%) |
+| Patients Treated with Pioglitazone Tablets or Placebo Added on to Metformin |  |  |  |  |  |
+|  | Number (%) of Patients |  |  |  |  |
+| Placebo-Controlled Trial (16 weeks) |  | Non-Controlled Double-Blind Trial (24 weeks) |  |  |  |
+| Placebo + Metformin | Pioglitazone Tablets 30 mg + Metformin N=168 | Pioglitazone Tablets 30 mg + Metformin N=411 | Pioglitazone Tablets 45 mg + Metformin |  |  |
+| N=160 | N=416 |  |  |  |  |
+| At least one congestive heart failure event | 0 | 1 (0.6%) | 0 | 1 (0.2%) |  |
+| Hospitalized | 0 | 1 (0.6%) | 0 | 1 (0.2%) |  |
 
 Patients with type 2 diabetes and NYHA class II or early class III congestive heart failure were randomized to receive 24 weeks of double-blind treatment with either pioglitazone tablets at daily doses of 30 mg to 45 mg (n=262) or glyburide at daily doses of 10 mg to 15 mg (n=256).
 A summary of the incidence of adverse events related to congestive heart failure reported in this study is provided in Table 7.
@@ -227,20 +227,20 @@ The number of first occurrences and total individual events contributing to the 
 Table 9.
 PROactive: Number of First and Total Events for Each Component within the Cardiovascular Composite Endpoint
 
-| Cardiovascular Events | Placebo |  | Pioglitazone Tablets |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| N=2633 |  | N=2605 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| First Events | Total events | First Events | Total events |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| n (%) | n | n (%) | n |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Any event | 572 (21.7) | 900 | 514 (19.7) | 803 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| All-cause mortality | 122 (4.6) | 186 | 110 (4.2) | 177 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Nonfatal myocardial infarction (MI) | 118 (4.5) | 157 | 105 (4.0) | 131 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Stroke | 96 (3.6) | 119 | 76 (2.9) | 92 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Acute coronary syndrome | 63 (2.4) | 78 | 42 (1.6) | 65 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Cardiac intervention (CABG/PCI) | 101 (3.8) | 240 | 101 (3.9) | 195 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Major leg amputation | 15 (0.6) | 28 | 9 (0.3) | 28 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Leg revascularization | 57 (2.2) | 92 | 71 (2.7) | 115 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| CABG = coronary artery bypass grafting; PCI = percutaneous intervention |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Cardiovascular Events | Placebo |  | Pioglitazone Tablets |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| N=2633 |  | N=2605 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| First Events | Total events | First Events | Total events |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| n (%) | n | n (%) | n |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Any event | 572 (21.7) | 900 | 514 (19.7) | 803 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| All-cause mortality | 122 (4.6) | 186 | 110 (4.2) | 177 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Nonfatal myocardial infarction (MI) | 118 (4.5) | 157 | 105 (4.0) | 131 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Stroke | 96 (3.6) | 119 | 76 (2.9) | 92 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Acute coronary syndrome | 63 (2.4) | 78 | 42 (1.6) | 65 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Cardiac intervention (CABG/PCI) | 101 (3.8) | 240 | 101 (3.9) | 195 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Major leg amputation | 15 (0.6) | 28 | 9 (0.3) | 28 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Leg revascularization | 57 (2.2) | 92 | 71 (2.7) | 115 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| CABG = coronary artery bypass grafting; PCI = percutaneous intervention |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 Weight Gain
 
@@ -264,13 +264,13 @@ Weight Changes (kg) from Baseline During Randomized, Double-Blind Clinical Trial
 Table 11.
 Median Change in Body Weight in Patients Treated with Pioglitazone Tablets Versus Patients Treated with Placebo During the Double-Blind Treatment Period in the PROactive Trial
 
-|  | Placebo | Pioglitazone Tablets |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Median | Median |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| (25th/75th percentile) | (25th/75th percentile) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Change from baseline to final visit (kg) | -0.5 (-3.3, 2.0) | +3.6 (0.0, 7.5) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| N=2581 | N=2560 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Note: Median exposure for both Pioglitazone Tablets and Placebo was 2.7 years. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  | Placebo | Pioglitazone Tablets |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Median | Median |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| (25th/75th percentile) | (25th/75th percentile) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Change from baseline to final visit (kg) | -0.5 (-3.3, 2.0) | +3.6 (0.0, 7.5) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| N=2581 | N=2560 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Note: Median exposure for both Pioglitazone Tablets and Placebo was 2.7 years. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 Edema
 
@@ -281,27 +281,27 @@ A summary of the frequency and types of edema adverse events occurring in clinic
 Table 12.
 Adverse Events of Edema in Patients Treated with Pioglitazone Tablets
 
-|  |  | Number (%) of Patients |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Placebo | Pioglitazone Tablets 15 mg | Pioglitazone Tablets 30 mg | Pioglitazone Tablets 45 mg |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Monotherapy (16 to 26 weeks) |  | 3 (1.2%) | 2 (2.5%) | 13 (4.7%) | 11 (6.5%) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| N=259 | N= 81 | N= 275 | N=169 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Combined Therapy(16 to 24 weeks) | Sulfonylurea | 4 (2.1%) | 3 (1.6%) | 61 (11.3%) | 81 (23.1%) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| N=187 | N=184 | N=540 | N=351 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Metformin | 4 (2.5%) | N/A | 34 (5.9%) | 58 (13.9%) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| N=160 | N=579 | N=416 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Insulin | 13 (7.0%) N=187 | 24 (12.6%) N=191 | 109 (20.5%) N=533 | 90 (26.1%) N=345 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Note: The preferred terms of edema peripheral, generalized edema, pitting edema and fluid retention were combined to form the aggregate term of “edema.” |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  |  | Number (%) of Patients |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Placebo | Pioglitazone Tablets 15 mg | Pioglitazone Tablets 30 mg | Pioglitazone Tablets 45 mg |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Monotherapy (16 to 26 weeks) |  | 3 (1.2%) | 2 (2.5%) | 13 (4.7%) | 11 (6.5%) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| N=259 | N= 81 | N= 275 | N=169 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Combined Therapy(16 to 24 weeks) | Sulfonylurea | 4 (2.1%) | 3 (1.6%) | 61 (11.3%) | 81 (23.1%) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| N=187 | N=184 | N=540 | N=351 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Metformin | 4 (2.5%) | N/A | 34 (5.9%) | 58 (13.9%) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| N=160 | N=579 | N=416 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Insulin | 13 (7.0%) N=187 | 24 (12.6%) N=191 | 109 (20.5%) N=533 | 90 (26.1%) N=345 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Note: The preferred terms of edema peripheral, generalized edema, pitting edema and fluid retention were combined to form the aggregate term of “edema.” |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 Table 13.
 Adverse Events of Edema in Patients in the PROactive Trial
 
-| Number (%) of Patients |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Placebo | Pioglitazone Tablets |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| N=2633 | N=2605 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| 419 (15.9%) | 712 (27.3%) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Note: The preferred terms of edema peripheral, generalized edema, pitting edema and fluid retention were combined to form the aggregate term of “edema.” |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Number (%) of Patients |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Placebo | Pioglitazone Tablets |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| N=2633 | N=2605 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 419 (15.9%) | 712 (27.3%) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Note: The preferred terms of edema peripheral, generalized edema, pitting edema and fluid retention were combined to form the aggregate term of “edema.” |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 Hepatic Effects
 
