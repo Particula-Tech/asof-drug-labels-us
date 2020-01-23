@@ -14,7 +14,7 @@ Recovery of HPA-axis function is generally prompt and complete upon discontinuat
 Infrequently, signs and symptoms of corticosteroid withdrawal may occur, requiring supplemental systemic corticosteroids.
 
 Children may absorb proportionally larger amounts of topical corticosteroids and thus be more susceptible to systemic toxicity.
-[See PRECAUTIONS, Pediatric Use].
+[See PRECAUTIONS, Pediatric Use.]
 
 If irritation develops, topical corticosteroids should be discontinued and appropriate therapy instituted.
 In the presence of dermatological infections, the use of an appropriate antifungal or antibacterial agent should be instituted.
@@ -36,7 +36,7 @@ Patients using topical corticosteroids should receive the following information 
 
 Note: The animal multiples of human exposure calculations in this label were based on body surface area comparisons for an adult (i.e., mg/m2/day dose comparisons) assuming 100% human percutaneous absorption of a maximum topical human dose (MTHD) for hydrocortisone butyrate cream (25 g).
 
-In a 2-year dermal rat carcinogenicity study with Locoid Lotion, hydrocortisone butyrate was administered to Sprague-Dawley rats at topical doses of 0.05, 0.15, and 0.3 mg/kg/day in males and 0.1, 0.25, and 0.5 mg/kg/day in females (0.1% lotion).
+In a 2-year dermal rat carcinogenicity study with LOCOID® lotion, hydrocortisone butyrate was administered to Sprague-Dawley rats at topical doses of 0.05, 0.15, and 0.3 mg/kg/day in males and 0.1, 0.25, and 0.5 mg/kg/day in females (0.1% lotion).
 No drug-related tumors were noted in this study up to the highest doses evaluated in this study of 0.3 mg/kg/day in males (0.1X MTHD) and 0.5 mg/kg/day in females (0.2X MTHD).
 
 Hydrocortisone butyrate revealed no evidence of mutagenic or clastogenic potential based on the results of two in vitro genotoxicity tests (Ames test and L5178Y/TK+/- mouse lymphoma assay) and one in vivo genotoxicity test (mouse micronucleus assay).
@@ -61,7 +61,7 @@ No treatment-related effects on embryofetal toxicity or teratogenicity were note
 Subcutaneous doses of 0.1, 0.2, and 0.3 mg/kg/day hydrocortisone butyrate were administered to pregnant female rabbits during gestation days 7 – 20.
 An increased incidence of abortion was noted at 0.3 mg/kg/day (0.2X MTHD).
 In the absence of maternal toxicity, a dose-dependent decrease in fetal body weight was noted at doses ≥0.1 mg/kg/day (0.1X MTHD).
-Additional indicators of embryofetal toxicity (i.e. reduction in litter size, decreased number of viable fetuses, increased post-implantation loss) were noted at doses ≥0.2 mg/kg/day (0.2X MTHD).
+Additional indicators of embryofetal toxicity (i.e., reduction in litter size, decreased number of viable fetuses, increased post-implantation loss) were noted at doses ≥0.2 mg/kg/day (0.2X MTHD).
 Additional fetal effects noted in this study included delayed ossification noted at doses ≥0.1 mg/kg/day and an increased incidence of fetal malformations (primarily skeletal malformations) noted at doses ≥0.2 mg/kg/day.
 A dose at which no treatment-related effects on embryofetal toxicity or teratogenicity were observed was not established in this study.
 

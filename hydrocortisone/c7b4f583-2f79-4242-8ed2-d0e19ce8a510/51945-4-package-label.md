@@ -6,7 +6,7 @@ Rx only
 
 Locoid® (hydrocortisone butyrate)
 
-Cream, 0.1%
+cream, 0.1%
 
 FOR TOPICAL USE ONLY
 
@@ -14,3 +14,5 @@ NOT FOR OPHTHALMIC USE
 
 Net Wt.
 15 g
+
+Ortho Dermatologics
