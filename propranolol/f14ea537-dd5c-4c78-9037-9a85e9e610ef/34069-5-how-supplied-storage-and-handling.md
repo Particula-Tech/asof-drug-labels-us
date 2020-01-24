@@ -2,7 +2,7 @@
 
 Propranolol Hydrochloride Injection, USP, 1 mg/mL is supplied as follows:
 
-| ProductNo. | NDCNo. | per mL | Volume |
+| Product No. | NDC No. | per mL | Volume |
 | --- | --- | --- | --- |
 | 600401 | 63323-604-01 | 1 mg | 1 mL in a 2 mL vial |
 

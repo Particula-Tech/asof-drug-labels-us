@@ -32,7 +32,7 @@ Hypoglycemia has been reported after prolonged physical exertion and in patients
 
 Beta-adrenergic blockade may mask certain clinical signs of hyperthyroidism.
 Therefore, abrupt withdrawal of propranolol may be followed by an exacerbation of symptoms of hyperthyroidism, including thyroid storm.
-Propranolol may change thyroid-function tests, increasing T 4 and reverse T 3 and decreasing T 3.
+Propranolol may change thyroid-function tests, increasing T4 and reverse T3 and decreasing T3.
 
 ## Wolff-Parkinson-White Syndrome
 
@@ -70,7 +70,7 @@ In severe heart failure, the use of propranolol has been associated with increas
 ## Drug Interactions
 
 Caution should be exercised when propranolol is administered with drugs that have an effect on CYP2D6, 1A2, or 2C19 metabolic pathways.
-Coadministration of such drugs with propranolol may lead to clinically relevant drug interactions and changes in its efficacy and/or toxicity (see CLINICAL PHARMACOLOGY,Drug Interactions).
+Coadministration of such drugs with propranolol may lead to clinically relevant drug interactions and changes in its efficacy and/or toxicity (see CLINICAL PHARMACOLOGY, Drug Interactions).
 
 Cardiovascular Drugs
 
@@ -190,7 +190,7 @@ Safety and effectiveness of propranolol in pediatric patients have not been esta
 
 Clinical studies of intravenous propranolol did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
 Elderly subjects have decreased clearance and a longer mean elimination half-life.
-These findings suggest that dose adjustment of propranolol injection may be required for elderly patients (see CLINICAL PHARMACOLOGY,Special Populations,Geriatric).
+These findings suggest that dose adjustment of propranolol injection may be required for elderly patients (see CLINICAL PHARMACOLOGY, Special Populations, Geriatric).
 In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of the decreased hepatic, renal or cardiac function, and of concomitant disease or other drug therapy.
 
 ## Hepatic Insufficiency

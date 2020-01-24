@@ -12,13 +12,13 @@ The significance of the membrane action in the treatment of arrhythmias is uncer
 ## Mechanism of Action
 
 The effects of propranolol are due to selective blockade of beta-adrenergic receptors, leaving alpha-adrenergic responses intact.
-There are two well-characterized subtypes of beta receptors (beta 1 and beta 2); propranolol interacts with both subtypes equally.
-Beta 1-adrenergic receptors are found primarily in the heart.
-Blockade of cardiac beta 1-adrenergic receptors leads to a decrease in the activity of both normal and ectopic pacemaker cells and a decrease in A-V nodal conduction velocity.
+There are two well-characterized subtypes of beta receptors (beta1 and beta2); propranolol interacts with both subtypes equally.
+Beta1-adrenergic receptors are found primarily in the heart.
+Blockade of cardiac beta1-adrenergic receptors leads to a decrease in the activity of both normal and ectopic pacemaker cells and a decrease in A-V nodal conduction velocity.
 All of these actions can contribute to antiarrhythmic activity and control of ventricular rate during arrhythmias.
-Blockade of cardiac beta 1-adrenergic receptors also decreases the myocardial force of contraction and may provoke cardiac decompensation in patients with minimal cardiac reserve.
+Blockade of cardiac beta1-adrenergic receptors also decreases the myocardial force of contraction and may provoke cardiac decompensation in patients with minimal cardiac reserve.
 
-Beta 2-adrenergic receptors are found predominantly in smooth muscle-vascular, bronchial, gastrointestinal and genitourinary.
+Beta2-adrenergic receptors are found predominantly in smooth muscle-vascular, bronchial, gastrointestinal and genitourinary.
 Blockade of these receptors results in constriction.
 Clinically, propranolol may exacerbate respiratory symptoms in patients with obstructive pulmonary diseases such as asthma and emphysema (see CONTRAINDICATIONS and WARNINGS).
 
@@ -28,14 +28,14 @@ Propranolol’s beta-blocking effects are attributable to its S(-) enantiomer.
 
 Distribution
 
-Propranolol has a distribution half-life (T 1/2 alpha) of 5 to 10 minutes and a volume of distribution of about 4 to 5 L/kg.
+Propranolol has a distribution half-life (T1/2 alpha) of 5 to 10 minutes and a volume of distribution of about 4 to 5 L/kg.
 Approximately 90% of circulating propranolol is bound to plasma proteins.
 The binding is enantiomer-selective.
 The S-isomer is preferentially bound to alpha1 glycoprotein and the R-isomer is preferentially bound to albumin.
 
 Metabolism and Elimination
 
-The elimination half-life (T 1/2 alpha) is between 2 and 5.5 hours.
+The elimination half-life (T1/2 alpha) is between 2 and 5.5 hours.
 Propranolol is extensively metabolized with most metabolites appearing in the urine.
 The major metabolites include propranolol glucuronide, naphthyloxylactic acid, and glucuronic acid and sulfate conjugates of 4-hydroxy propranolol.
 Following single-dose intravenous administration, side-chain oxidative products account for approximately 40% of the metabolites, direct conjugation products account for approximately 45 to 50% of metabolites, and ring oxidative products account for approximately 10 to 15% of metabolites.
@@ -77,7 +77,7 @@ Renal Insufficiency
 The pharmacokinetics of propranolol and its metabolites were evaluated in 15 subjects with varying degrees of renal function after propranolol administration via the intravenous and oral routes.
 When compared with normal subjects, an increase in fecal excretion of propranolol conjugates was observed in patients with increased renal impairment.
 Propranolol was also evaluated in 5 patients with chronic renal failure, 6 patients on regular dialysis, and 5 healthy subjects, following a single oral dose of 40 mg of propranolol.
-The peak plasma concentrations (C max) of propranolol in the chronic renal failure group were 2- to 3-fold higher (161 ng/mL) than those observed in the dialysis patients (47 ng/mL) and in the healthy subjects (26 ng/mL).
+The peak plasma concentrations (Cmax) of propranolol in the chronic renal failure group were 2- to 3-fold higher (161 ng/mL) than those observed in the dialysis patients (47 ng/mL) and in the healthy subjects (26 ng/mL).
 Propranolol plasma clearance was also reduced in the patients with chronic renal failure.
 
 Chronic renal failure has been associated with a decrease in drug metabolism via downregulation of hepatic cytochrome P450 activity.
@@ -99,7 +99,7 @@ Dosage adjustment does not seem necessary in either patient population based on 
 
 Interactions with Substrates, Inhibitors or Inducers of Cytochrome P-450 Enzymes
 
-Because propranolol’s metabolism involves multiple pathways in the cytochrome P-450 system (CYP2D6, 1A2, 2C19), administration of propranolol with drugs that are metabolized by, or affect the activity (induction or inhibition) of one or more of these pathways may lead to clinically relevant drug interactions (see PRECAUTIONS,Drug Interactions).
+Because propranolol’s metabolism involves multiple pathways in the cytochrome P-450 system (CYP2D6, 1A2, 2C19), administration of propranolol with drugs that are metabolized by, or affect the activity (induction or inhibition) of one or more of these pathways may lead to clinically relevant drug interactions (see PRECAUTIONS, Drug Interactions).
 
 Substrates or Inhibitors of CYP2D6
 
@@ -132,9 +132,9 @@ The metabolism of lidocaine is inhibited by coadministration of propranolol, res
 
 Calcium Channel Blockers
 
-The mean C max and AUC of propranolol are increased respectively, by 50% and 30% by coadministration of nisoldipine and by 80% and 47%, by coadministration of nicardipine.
+The mean Cmax and AUC of propranolol are increased respectively, by 50% and 30% by coadministration of nisoldipine and by 80% and 47%, by coadministration of nicardipine.
 
-The mean values of C max and AUC of nifedipine are increased by 64% and 79%, respectively, by coadministration of propranolol.
+The mean values of Cmax and AUC of nifedipine are increased by 64% and 79%, respectively, by coadministration of propranolol.
 
 Propranolol does not affect the pharmacokinetics of verapamil and norverapamil.
 Verapamil does not affect the pharmacokinetics of propranolol.
@@ -143,7 +143,7 @@ Non-Cardiovascular Drugs
 
 Migraine Drugs
 
-Administration of zolmitriptan or rizatriptan with propranolol resulted in increased concentrations of zolmitriptan (AUC increased by 56% and C max by 37%) or rizatriptan (the AUC and C max were increased by 67% and 75%, respectively).
+Administration of zolmitriptan or rizatriptan with propranolol resulted in increased concentrations of zolmitriptan (AUC increased by 56% and Cmax by 37%) or rizatriptan (the AUC and Cmax were increased by 67% and 75%, respectively).
 
 Theophylline
 
