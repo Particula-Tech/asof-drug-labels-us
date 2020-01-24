@@ -2,11 +2,11 @@
 
 ## 7.1 Anesthetics, Sedatives, Hypnotics, Opioids
 
-Coadministration of dexmedetomidine hydrochloride injection with anesthetics, sedatives, hypnotics, and opioids is likely to lead to an enhancement of effects.
+Co-administration of dexmedetomidine injection with anesthetics, sedatives, hypnotics, and opioids is likely to lead to an enhancement of effects.
 Specific studies have confirmed these effects with sevoflurane, isoflurane, propofol, alfentanil, and midazolam.
-No pharmacokinetic interactions between dexmedetomidine hydrochloride injection and isoflurane, propofol, alfentanil and midazolam have been demonstrated.
-However, due to possible pharmacodynamic interactions, when coadministered with dexmedetomidine hydrochloride injection, a reduction in dosage of dexmedetomidine hydrochloride injection or the concomitant anesthetic, sedative, hypnotic or opioid may be required.
+No pharmacokinetic interactions between dexmedetomidine injection and isoflurane, propofol, alfentanil and midazolam have been demonstrated.
+However, due to possible pharmacodynamic interactions, when co-administered with dexmedetomidine injection, a reduction in dosage of dexmedetomidine injection or the concomitant anesthetic, sedative, hypnotic or opioid may be required.
 
 ## 7.2 Neuromuscular Blockers
 
-In one study of ten healthy adult volunteers, administration of dexmedetomidine hydrochloride injection for 45 minutes at a plasma concentration of one ng/mL resulted in no clinically meaningful increases in the magnitude of neuromuscular blockade associated with rocuronium administration.
+In one study of 10 healthy adult volunteers, administration of dexmedetomidine injection for 45 minutes at a plasma concentration of one ng/mL resulted in no clinically meaningful increases in the magnitude of neuromuscular blockade associated with rocuronium administration.

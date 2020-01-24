@@ -1,8 +1,8 @@
-PRINCIPAL DISPLAY PANEL - 200 mcg*/2 mL
+PRINCIPAL DISPLAY PANEL - 200 mcg/2 mL
 
 NDC 67457-251-02
 
-Dexmedetomidine Hydrochloride Injection 200 mcg*/2 mL (100 mcg/mL)Dexmedetomidine
+Dexmedetomidine Injection, USP 200 mcg/2 mL (100 mcg/mL) Dexmedetomidine
 
 For Intravenous Infusion Only
 
@@ -14,7 +14,7 @@ Sterile, Nonpyrogenic
 
 Preservative free
 
-*Each mL contains: 118 mcg of dexmedetomidine hydrochloride equivalent to 100 mcg of dexmedetomidine; sodium chloride, 9 mg; water for injection, q.s.
+Each mL contains: 118 mcg of dexmedetomidine hydrochloride equivalent to 100 mcg of dexmedetomidine; sodium chloride, 9 mg; water for injection, q.s.
 The solution is preservative free and contains no additives or chemical stabilizers. pH is 4.5 to 7.0.
 
 Usual Dosage: See accompanying prescribing information.
@@ -22,9 +22,11 @@ Usual Dosage: See accompanying prescribing information.
 Store at 20° to 25°C (68° to 77°F).
 [See USP Controlled Room Temperature.]
 
+Must be diluted with 0.9% Sodium Chloride Injection USP for intravenous use.
+
 Discard unused portion.
 
-MI:251:25C:R6
+MI:251:25C:R7
 
 Manufactured for: Mylan Institutional LLC Rockford, IL 61103 U.S.A.
 
