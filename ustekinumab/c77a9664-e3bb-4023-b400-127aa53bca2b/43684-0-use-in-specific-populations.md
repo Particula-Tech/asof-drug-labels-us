@@ -2,11 +2,6 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Exposure Registry
-
-There is a pregnancy registry that monitors pregnancy outcomes in women exposed to STELARA® during pregnancy.
-Patients should be encouraged to enroll by calling 1-877-311-8972.
-
 Risk Summary
 
 Limited data on the use of STELARA® in pregnant women are insufficient to inform a drug associated risk [see Data].

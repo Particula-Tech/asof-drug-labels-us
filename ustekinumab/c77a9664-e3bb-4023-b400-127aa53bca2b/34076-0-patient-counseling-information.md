@@ -19,10 +19,6 @@ Immunizations
 
 Inform patients that STELARA® can interfere with the usual response to immunizations and that they should avoid live vaccines [see Warnings and Precautions (5.7)].
 
-Pregnancy Registry
-
-Inform patients that there is a pregnancy registry to monitor fetal outcomes of pregnant women exposed to STELARA® [see Use in Specific Populations (8.1)].
-
 Administration
 
 Instruct patients to follow sharps disposal recommendations, as described in the Instructions for Use.
