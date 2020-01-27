@@ -9,3 +9,15 @@ Descovy® (emtricitabine and tenofovir alafenamide) Tablets
 Note to pharmacist: Do not cover ALERT box with pharmacy label.
 
 ALERT: Find out about medicines that should NOT be taken with Discovy®
+
+# PRINCIPAL DISPLAY PANEL - 30 Tablet Blister Pack
+
+NDC 61958-2002-2 30 tablet blister pack
+
+Descovy® (emtricitabine and tenofovir alafenamide) tablets 200 mg / 25 mg
+
+Rx only
+
+Note to pharmacist: Do not cover ALERT box with pharmacy label.
+
+ALERT: Find out about medicines that should NOT be taken with Descovy
