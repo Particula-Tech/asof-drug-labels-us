@@ -2,7 +2,7 @@
 
 ## 5.1 Drug Products with the Same Active Ingredient
 
-Risedronate Sodium contains the same active ingredient found in Atelvia®.
+Risedronate Sodium contains the same active ingredient found in Atelvia.
 A patient being treated with Atelvia should not receive Risedronate Sodium.
 
 ## 5.2 Upper Gastrointestinal Adverse Reactions

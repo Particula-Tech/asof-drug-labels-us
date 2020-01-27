@@ -18,25 +18,48 @@ The most common adverse reactions reported in greater than 10 percent of subject
 Table 1 lists adverse events from the Phase 3 postmenopausal osteoporosis trials reported in greater than or equal to 5% of patients.
 Adverse events are shown without attribution of causality.
 
-Table 1 Adverse Events Occurring at a Frequency greater than or equal to 5% in Either Treatment Group Combined Phase 3 Postmenopausal Osteoporosis Treatment Trials
-
-| Body System | Placebo N = 1619 | 5 mg Risedronate Sodium N = 1613 |
+| Table 1 Adverse Events Occurring at a Frequency greater than or equal to 5% in Either Treatment Group Combined Phase 3 Postmenopausal Osteoporosis Treatment Trials |  |  |
 | --- | --- | --- |
+| Body System | Placebo N = 1619 | 5 mg Risedronate Sodium N = 1613 |
 |  | % | % |
 | Body as a Whole |  |  |
-| Infection Back Pain Accidental Injury Pain Abdominal Pain Flu Syndrome Headache Asthenia Neck Pain Chest Pain Allergic Reaction | 29.9 26.1 16.8 14.0 9.9 11.6 10.8 4.5 4.7 5.1 5.9 | 31.1 28.0 16.9 14.1 12.2 10.5 9.9 5.4 5.4 5.0 3.8 |
+| Infection | 29.9 | 31.1 |
+| Back Pain | 26.1 | 28.0 |
+| Accidental Injury | 16.8 | 16.9 |
+| Pain | 14.0 | 14.1 |
+| Abdominal Pain | 9.9 | 12.2 |
+| Flu Syndrome | 11.6 | 10.5 |
+| Headache | 10.8 | 9.9 |
+| Asthenia | 4.5 | 5.4 |
+| Neck Pain | 4.7 | 5.4 |
+| Chest Pain | 5.1 | 5.0 |
+| Allergic Reaction | 5.9 | 3.8 |
 | Cardiovascular System |  |  |
 | Hypertension | 9.8 | 10.5 |
 | Digestive System |  |  |
-| Constipation Diarrhea Dyspepsia Nausea | 12.6 10.0 10.6 11.2 | 12.9 10.8 10.8 10.5 |
+| Constipation | 12.6 | 12.9 |
+| Diarrhea | 10.0 | 10.8 |
+| Dyspepsia | 10.6 | 10.8 |
+| Nausea | 11.2 | 10.5 |
 | Metabolic & Nutritional Disorders |  |  |
 | Peripheral Edema | 8.8 | 7.7 |
 | Musculoskeletal System |  |  |
-| Arthralgia Arthritis Traumatic Bone Fracture Joint Disorder Myalgia Bone Pain | 22.1 10.1 12.3 5.3 6.2 4.8 | 23.7 9.6 9.3 7.0 6.7 5.3 |
+| Arthralgia | 22.1 | 23.7 |
+| Arthritis | 10.1 | 9.6 |
+| Traumatic Bone Fracture | 12.3 | 9.3 |
+| Joint Disorder | 5.3 | 7.0 |
+| Myalgia | 6.2 | 6.7 |
+| Bone Pain | 4.8 | 5.3 |
 | Nervous System |  |  |
-| Dizziness Depression Insomnia | 5.7 6.1 4.6 | 7.1 6.8 5.0 |
+| Dizziness | 5.7 | 7.1 |
+| Depression | 6.1 | 6.8 |
+| Insomnia | 4.6 | 5.0 |
 | Respiratory System |  |  |
-| Bronchitis Sinusitis Rhinitis Pharyngitis Increased Cough | 10.4 9.1 5.1 5.0 6.3 | 10.0 8.7 6.2 6.0 5.9 |
+| Bronchitis | 10.4 | 10.0 |
+| Sinusitis | 9.1 | 8.7 |
+| Rhinitis | 5.1 | 6.2 |
+| Pharyngitis | 5.0 | 6.0 |
+| Increased Cough | 6.3 | 5.9 |
 | Skin and Appendages |  |  |
 | Rash | 7.1 | 7.9 |
 | Special Senses |  |  |
@@ -70,7 +93,7 @@ The incidence of serious adverse events was 7.1% in the Risedronate Sodium 5 mg 
 The percentage of patients who withdrew from the study due to adverse events was 11.9% in the Risedronate Sodium 5 mg daily group and 11.5% in the Risedronate Sodium 35 mg once-a-week group.
 The overall safety and tolerability profiles of the two dosing regimens were similar.
 
-Gastrointestinal Adverse Events​: The incidence of gastrointestinal adverse events was similar between the Risedronate Sodium 5 mg daily group and the Risedronate Sodium 35 mg once-aweek group: dyspepsia (6.9% versus 7.6%), diarrhea (6.3% versus 4.9%), and abdominal pain (7.3% versus 7.6%).
+Gastrointestinal Adverse Events​: The incidence of gastrointestinal adverse events was similar between the Risedronate Sodium 5 mg daily group and the Risedronate Sodium 35 mg once-a-week group: dyspepsia (6.9% versus 7.6%), diarrhea (6.3% versus 4.9%), and abdominal pain (7.3% versus 7.6%).
 
 Musculoskeletal Adverse Events​: Arthralgia was reported in 11.5% of patients in the Risedronate Sodium 5 mg daily group and 14.2% of patients in the Risedronate Sodium 35 mg once-a-week group.
 Myalgia was reported by 4.6% of patients in the Risedronate Sodium 5 mg daily group and 6.2% of patients in the Risedronate Sodium 35 mg once-a-week group.
@@ -171,28 +194,32 @@ Risedronate Sodium has been studied in 392 patients with Paget’s disease of bo
 As in trials of Risedronate Sodium for other indications, the adverse experiences reported in the Paget’s disease trials have generally been mild or moderate, have not required discontinuation of treatment, and have not appeared to be related to patient age, gender, or race.
 
 The safety of Risedronate Sodium was assessed in a randomized, double-blind, active-controlled study of 122 patients aged 34 to 85 years.
-The duration of the trial was 540 days, with 61 patients exposed to Risedronate Sodium and 61 patients exposed to Didronel®.
+The duration of the trial was 540 days, with 61 patients exposed to Risedronate Sodium and 61 patients exposed to Didronel.
 The adverse event profile was similar for Risedronate Sodium and Didronel: 6.6% (4/61) of patients treated with Risedronate Sodium 30 mg daily for 2 months discontinued treatment due to adverse events, compared to 8.2% (5/61) of patients treated with Didronel 400 mg daily for 6 months.
 Table 2 lists adverse events reported in greater than or equal to 5% of Risedronate Sodium-treated patients in Phase 3 Paget’s disease trials.
 Adverse events shown are considered to be possibly or probably causally related in at least one patient.
 
-Table 2 Adverse Events Reported in greater than or equal to 5% of Risedronate Sodium-Treated Patients* in Phase 3 Paget’s Disease Trials
-
-| Body System | 30 mg/day x 2 months Risedronate Sodium % (N = 61) | 400 mg/day x 6 months Didronel % (N = 61) |
+| Table 2 Adverse Events Reported in greater than or equal to 5% of Risedronate Sodium-Treated Patients* in Phase 3 Paget's Disease Trials |  |  |
 | --- | --- | --- |
+| Body System | 30 mg/day x 2 months Risedronate Sodium % (N = 61) | 400 mg/day x 6 months Didronel % (N = 61) |
 | Body as a Whole |  |  |
-| Flu Syndrome Chest Pain | 9.8 6.6 | 1.6 3.3 |
+| Flu Syndrome | 9.8 | 1.6 |
+| Chest Pain | 6.6 | 3.3 |
 | Gastrointestinal |  |  |
-| Diarrhea Abdominal Pain Nausea Constipation | 19.7 11.5 9.8 6.6 | 14.8 8.2 9.8 8.2 |
+| Diarrhea | 19.7 | 14.8 |
+| Abdominal Pain | 11.5 | 8.2 |
+| Nausea | 9.8 | 9.8 |
+| Constipation | 6.6 | 8.2 |
 | Metabolic and Nutritional Disorders |  |  |
 | Peripheral Edema | 8.2 | 6.6 |
 | Musculoskeletal |  |  |
 | Arthralgia | 32.8 | 29.5 |
 | Nervous |  |  |
-| Headache Dizziness | 18.0 6.6 | 16.4 4.9 |
+| Headache | 18.0 | 16.4 |
+| Dizziness | 6.6 | 4.9 |
 | Skin and Appendages |  |  |
 | Rash | 11.5 | 8.2 |
-| * Considered to be possibly or probably causally related in at least one patient. |  |  |
+| *Considered to be possibly or probably causally related in at least one patient. |  |  |
 
 Gastrointestinal Adverse Events: During the first year of the study (treatment and nontreatment follow-up), the proportion of patients who reported upper gastrointestinal adverse events was similar between the treatment groups; no patients reported severe upper gastrointestinal adverse events.
 The incidence of diarrhea was 19.7% in the Risedronate Sodium group and 14.8% in the Didronel group; none were serious or resulted in withdrawal.
@@ -215,4 +242,4 @@ Eye Inflammation Reactions of eye inflammation including iritis and uveitis have
 
 Jaw Osteonecrosis Osteonecrosis of the jaw has been reported rarely [see Warnings and Precautions (5.3)].
 
-Pulmonary Asthma exacerbation.
+Pulmonary Asthma exacerbations.

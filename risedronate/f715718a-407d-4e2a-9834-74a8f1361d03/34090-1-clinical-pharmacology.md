@@ -44,15 +44,15 @@ Dosing 1 hour prior to breakfast reduces the extent of absorption by 30% compare
 Dosing either 0.5 hours prior to breakfast or 2 hours after dinner (evening meal) results in a similar extent of absorption.
 Risedronate Sodium is effective when administered at least 30 minutes before breakfast.
 
-Distribution The mean steady-state volume of distribution for Risedronate is 13.8 L/kg in humans.
+Distribution The mean steady-state volume of distribution for risedronate is 13.8 L/kg in humans.
 Human plasma protein binding of drug is about 24%.
-Preclinical studies in rats and dogs dosed intravenously with single doses of [14C] Risedronate indicate that approximately 60% of the dose is distributed to bone.
+Preclinical studies in rats and dogs dosed intravenously with single doses of [14C] risedronate indicate that approximately 60% of the dose is distributed to bone.
 The remainder of the dose is excreted in the urine.
-After multiple oral dosing in rats, the uptake of Risedronate in soft tissues was in the range of 0.001% to 0.01%.
+After multiple oral dosing in rats, the uptake of risedronate in soft tissues was in the range of 0.001% to 0.01%.
 
-Metabolism There is no evidence of systemic metabolism of Risedronate.
+Metabolism There is no evidence of systemic metabolism of risedronate.
 
-Excretion In young healthy subjects, approximately half of the absorbed dose of Risedronate was excreted in urine within 24 hours, and 85% of an intravenous dose was recovered in the urine over 28 days.
+Excretion In young healthy subjects, approximately half of the absorbed dose of risedronate was excreted in urine within 24 hours, and 85% of an intravenous dose was recovered in the urine over 28 days.
 Based on simultaneous modeling of serum and urine data, mean renal clearance was 105 mL/min (CV = 34%) and mean total clearance was 122 mL/min (CV = 19%), with the difference primarily reflecting nonrenal clearance or clearance due to adsorption to bone.
 The renal clearance is not concentration dependent, and there is a linear relationship between renal clearance and creatinine clearance.
 Unabsorbed drug is eliminated unchanged in feces.
@@ -68,11 +68,11 @@ No dosage adjustment is necessary.
 Race​: Pharmacokinetic differences due to race have not been studied.
 
 Renal Impairment​: Risedronate is excreted unchanged primarily via the kidney.
-As compared to persons with normal renal function, the renal clearance of Risedronate was decreased by about 70% in patients with creatinine clearance of approximately 30 mL/min.
+As compared to persons with normal renal function, the renal clearance of risedronate was decreased by about 70% in patients with creatinine clearance of approximately 30 mL/min.
 Risedronate Sodium is not recommended for use in patients with severe renal impairment (creatinine clearance less than 30 mL/min) because of lack of clinical experience.
 No dosage adjustment is necessary in patients with a creatinine clearance greater than or equal to 30 mL/min.
 
-Hepatic Impairment​: No studies have been performed to assess Risedronate’s safety or efficacy in patients with hepatic impairment.
+Hepatic Impairment​: No studies have been performed to assess risedronate’s safety or efficacy in patients with hepatic impairment.
 Risedronate is not metabolized in rat, dog, and human liver preparations.
 Insignificant amounts (less than 0.1% of intravenous dose) of drug are excreted in the bile in rats.
 Therefore, dosage adjustment is unlikely to be needed in patients with hepatic impairment.

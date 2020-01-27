@@ -11,11 +11,11 @@ What is the most important information I should know about Risedronate Sodium?
 
 Risedronate Sodium can cause serious side effects including:
 
-- Esophagus problems
-- Low calcium levels in your blood (hypocalcemia)
-- Severe jaw bone problems (osteonecrosis)
-- Bone, joint, or muscle pain
-- Unusual thigh bone fractures
+1. Esophagus problems
+2. Low calcium levels in your blood (hypocalcemia)
+3. Severe jaw bone problems (osteonecrosis)
+4. Bone, joint, or muscle pain
+5. Unusual thigh bone fractures
 
 1.
 Esophagus problems.
@@ -89,7 +89,8 @@ Before you start Risedronate Sodium, be sure to talk to your doctor if you:
 - Have low blood calcium
 - Plan to have dental surgery or teeth removed
 - Have kidney problems
-- Have been told you have trouble absorbing minerals in your stomach or intestines (malabsorption syndrome)Are pregnant, plan to become pregnant, or suspect that you are pregnant.
+- Have been told you have trouble absorbing minerals in your stomach or intestines (malabsorption syndrome)
+- Are pregnant, plan to become pregnant, or suspect that you are pregnant.
   If you become pregnant while taking Risedronate Sodium, stop taking it and contact your doctor.
   It is not known if Risedronate Sodium can harm your unborn baby.
 - Are breastfeeding or plan to breastfeed.
@@ -112,13 +113,13 @@ How should I take Risedronate Sodium?
 - Take Risedronate Sodium exactly as your doctor tells you.
   Your doctor may change your dose of Risedronate Sodium if needed.
 - Risedronate Sodium works only if taken on an empty stomach.
-- Take 1 Risedronate Sodium, after you get up for the day and before taking your first food, drink, or other medicine.
+- Take 1 Risedronate Sodium tablet, after you get up for the day and before taking your first food, drink, or other medicine.
 - Take Risedronate Sodium while you are sitting or standing.
 - Do not chew or suck on a tablet of Risedronate Sodium.
-- Swallow Risedronate Sodium with a full glass (6 to 8 ounces) of plain water only.
+- Swallow Risedronate Sodium tablet with a full glass (6 to 8 ounces) of plain water only.
 - Do not take Risedronate Sodium with mineral water, coffee, tea, soda, or juice.
 
-After swallowing Risedronate Sodium, wait at least 30 minutes:
+After swallowing Risedronate Sodium tablet, wait at least 30 minutes:
 
 - Before you lie down.
   You may sit, stand or walk, and do normal activities like reading.

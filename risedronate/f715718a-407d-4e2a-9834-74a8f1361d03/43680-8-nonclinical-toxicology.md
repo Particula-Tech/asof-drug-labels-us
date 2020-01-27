@@ -27,13 +27,13 @@ Actual doses were 24 mg/kg/day in rats, 32 mg/kg/day in mice, and 8, 16 and 40 m
 Risedronate demonstrated potent anti-osteoclast, antiresorptive activity in ovariectomized rats and minipigs.
 Bone mass and biomechanical strength were increased dose-dependently at daily oral doses up to 4 and 25 times the human recommended oral dose of 5 mg for rats and minipigs, respectively.
 Risedronate treatment maintained the positive correlation between BMD and bone strength and did not have a negative effect on bone structure or mineralization.
-In intact dogs, Risedronate induced positive bone balance at the level of the bone remodeling unit at oral doses ranging from 0.5 to 1.5 times the 5 mg/day human daily dose.
+In intact dogs, risedronate induced positive bone balance at the level of the bone remodeling unit at oral doses ranging from 0.5 to 1.5 times the 5 mg/day human daily dose.
 
-In dogs treated with an oral dose approximately 5 times the human daily dose, Risedronate caused a delay in fracture healing of the radius.
+In dogs treated with an oral dose approximately 5 times the human daily dose, risedronate caused a delay in fracture healing of the radius.
 The observed delay in fracture healing is similar to other bisphosphonates.
 This effect did not occur at a dose approximately 0.5 times the human daily dose.
 
-The Schenk rat assay, based on histologic examination of the epiphyses of growing rats after drug treatment, demonstrated that Risedronate did not interfere with bone mineralization even at the highest dose tested, which was approximately 3500 times the lowest antiresorptive dose in this model (1.5 mcg/kg/day) and approximately 800 times the human daily dose of 5 mg.
+The Schenk rat assay, based on histologic examination of the epiphyses of growing rats after drug treatment, demonstrated that risedronate did not interfere with bone mineralization even at the highest dose tested, which was approximately 3500 times the lowest antiresorptive dose in this model (1.5 mcg/kg/day) and approximately 800 times the human daily dose of 5 mg.
 This indicates that Risedronate Sodium administered at the therapeutic dose is unlikely to induce osteomalacia.
 
 Dosing multiples provided above are based on the recommended human dose of 5 mg/day and normalized using body surface area (mg/m2).

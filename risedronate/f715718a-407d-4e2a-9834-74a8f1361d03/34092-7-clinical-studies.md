@@ -15,21 +15,28 @@ The primary endpoint for these studies was the incidence of new and worsening ve
 Risedronate Sodium 5 mg daily significantly reduced the incidence of new and worsening vertebral fractures and of new vertebral fractures in both VERT NA and VERT MN at all time points (Table 3).
 The reduction in risk seen in the subgroup of patients who had 2 or more vertebral fractures at study entry was similar to that seen in the overall study population.
 
-Table 3 The Effect of Risedronate Sodium on the Risk of Vertebral Fractures
-
-| VERT NA | Proportion of Patients with Fracture (%)* |  |  |  |  |
-| --- | --- | --- | --- | --- | --- |
-|  | Placebo N = 678 | Risedronate Sodium 5 mg N = 696 |  | Absolute Risk Reduction (%) | Relative Risk Reduction (%) |
-| New and Worsening |  |  |  |  |  |
-| 0 - 1 Year 0 - 2 Years 0 - 3 Years | 7.2 12.8 18.5 |  | 3.9 8.0 13.9 | 3.3 4.8 4.6 | 49 42 33 |
-| New |  |  |  |  |  |
-| 0 - 1 Year 0 - 2 Years 0 - 3 Years | 6.4 11.7 16.3 |  | 2.4 5.8 11.3 | 4.0 5.9 5.0 | 65 55 41 |
-| VERT MN | Placebo N = 346 |  | Risedronate Sodium 5 mg N = 344 | Absolute Risk Reduction (%) | Relative Risk Reduction (%) |
-| New and Worsening |  |  |  |  |  |
-| 0 - 1 Year 0 - 2 Years 0 - 3 Years | 15.3 28.3 34.0 |  | 8.2 13.9 21.8 | 7.1 14.4 12.2 | 50 56 46 |
-| New |  |  |  |  |  |
-| 0 - 1 Year 0 - 2 Years 0 - 3 Years | 13.3 24.7 29.0 |  | 5.6 11.6 18.1 | 7.7 13.1 10.9 | 61 59 49 |
-| *Calculated by Kaplan-Meier methodology. |  |  |  |  |  |
+| Table 3 The Effect of Risedronate Sodium on the Risk of Vertebral Fractures |  |  |  |  |
+| --- | --- | --- | --- | --- |
+|  | Proportion of Patients with Fracture (%)a |  |  |  |
+| VERT NA | Placebo N = 678 | Risedronate Sodium 5 mg N = 696 | Absolute Risk Reduction (%) | Relative Risk Reduction (%) |
+| New and Worsening |  |  |  |  |
+| 0 - 1 Year | 7.2 | 3.9 | 3.3 | 49 |
+| 0 - 2 Years | 12.8 | 8.0 | 4.8 | 42 |
+| 0 - 3 Years | 18.5 | 13.9 | 4.6 | 33 |
+| New |  |  |  |  |
+| 0 - 1 Year | 6.4 | 2.4 | 4.0 | 65 |
+| 0 - 2 Years | 11.7 | 5.8 | 5.9 | 55 |
+| 0 - 3 Years | 16.3 | 11.3 | 5.0 | 41 |
+| VERT MN | Placebo N = 346 | Risedronate Sodium 5 mg N = 344 | Absolute Risk Reduction (%) | Relative Risk Reduction (%) |
+| New and Worsening |  |  |  |  |
+| 0 - 1 Year | 15.3 | 8.2 | 7.1 | 50 |
+| 0 - 2 Years | 28.3 | 13.9 | 14.4 | 56 |
+| 0 - 3 Years | 34.0 | 21.8 | 12.2 | 46 |
+| New |  |  |  |  |
+| 0 - 1 Year | 13.3 | 5.6 | 7.7 | 61 |
+| 0 - 2 Years | 24.7 | 11.6 | 13.1 | 59 |
+| 0 - 3 Years | 29.0 | 18.1 | 10.9 | 49 |
+| a Calculated by Kaplan-Meier methodology. |  |  |  |  |
 
 Effect on Osteoporosis-Related Nonvertebral Fractures In VERT MN and VERT NA, a prospectively planned efficacy endpoint was defined consisting of all radiographically confirmed fractures of skeletal sites accepted as associated with osteoporosis.
 Fractures at these sites were collectively referred to as osteoporosis-related nonvertebral fractures.
