@@ -15,7 +15,7 @@ The amount of medication in each actuation cannot be assured after this point, e
 
 Storage
 
-Store at 25°C (77°F); excursions permitted to 15° to 30°C (59° to 86°F) [see USP Controlled Room Temperature].
+Store at 20°C to 25°C (68°F to 77°F); excursions permitted to 15°C to 30°C (59°F to 86°F) [see USP Controlled Room Temperature].
 For optimal results, the canister should be at room temperature before use.
 
 Contents Under Pressure: Do not puncture.

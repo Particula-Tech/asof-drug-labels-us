@@ -7,25 +7,25 @@ Anticholinergics prevent the increases in intracellular concentration of Ca++ wh
 
 ## 12.2 Pharmacodynamics
 
-### Cardiovascular effects
+Cardiovascular effects
 
 At recommended doses, ipratropium bromide does not produce clinically significant changes in pulse rate or blood pressure.
 
-### Ocular effects
+Ocular effects
 
 In studies without a positive control, ipratropium bromide did not alter pupil size, accommodation, or visual acuity.
 
-### Mucociliary clearance and respiratory secretions
+Mucociliary clearance and respiratory secretions
 
 Controlled clinical studies have demonstrated that ipratropium bromide does not alter either mucociliary clearance or the volume or viscosity of respiratory secretions.
 
 ## 12.3 Pharmacokinetics
 
-Following administration by oral inhalation from a metered dose inhaler, the majority of the delivered dose is deposited in the gastrointestinal tract and, to a lesser extent, in the lung, the intended site of action.
+Following administration by oral inhalation from a metered-dose inhaler, the majority of the delivered dose is deposited in the gastrointestinal tract and, to a lesser extent, in the lung, the intended site of action.
 Ipratropium bromide is a quaternary amine and hence is not readily absorbed into the systemic circulation either from the surface of the lung or from the gastrointestinal tract as confirmed by blood level and renal excretion studies.
 
 The half-life of elimination is about 2 hours after inhalation or intravenous administration.
-Ipratropium bromide is minimally bound (0 to 9% in vitro) to plasma albumin and α1-acid glycoprotein.
+Ipratropium bromide is minimally bound (0% to 9% in vitro) to plasma albumin and α1-acid glycoprotein.
 It is partially metabolized to inactive ester hydrolysis products.
 Following intravenous administration, approximately one-half of the dose is excreted unchanged in the urine.
 
@@ -33,11 +33,11 @@ A pharmacokinetic study with 29 chronic obstructive pulmonary disease (COPD) pat
 Plasma ipratropium concentrations declined to 24±15 pg/mL by six hours.
 When these patients were administered 4 inhalations QID (16 inhalations/day=336 mcg) for one week, the mean peak plasma ipratropium concentration increased to 82±39 pg/mL with a trough (6 hour) concentration of 28±12 pg/mL at steady state.
 
-### Specific Populations
+Specific Populations
 
 Geriatric Patients
 
-In the pharmacokinetic study with 29 COPD patients, a subset of 14 patients were > 65 years of age.
+In the pharmacokinetic study with 29 COPD patients, a subset of 14 patients were >65 years of age.
 Mean peak plasma ipratropium concentrations of 56±24 pg/mL were obtained following a single administration of 4 inhalations (21 mcg/puff) of ATROVENT HFA (84 mcg).
 When these 14 patients were administered 4 inhalations four times a day (16 inhalations/day) for one week, the mean peak plasma ipratropium concentration only increased to 84±50 pg/mL indicating that the pharmacokinetic behavior of ipratropium bromide in the geriatric population is consistent with younger patients.
 

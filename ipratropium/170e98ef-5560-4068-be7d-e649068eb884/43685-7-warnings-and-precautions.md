@@ -7,7 +7,7 @@ ATROVENT HFA is a bronchodilator for the maintenance treatment of bronchospasm a
 ## 5.2 Hypersensitivity Reactions, Including Anaphylaxis
 
 Hypersensitivity reactions including urticaria, angioedema, rash, bronchospasm, anaphylaxis, and oropharyngeal edema may occur after the administration of ATROVENT HFA.
-In clinical trials and post marketing experience with ipratropium containing products, hypersensitivity reactions such as skin rash, pruritus, angioedema of tongue, lips and face, urticaria (including giant urticaria), laryngospasm and anaphylactic reactions have been reported [see Adverse Reactions (6.1, 6.2)].
+In clinical trials and postmarketing experience with ipratropium-containing products, hypersensitivity reactions such as skin rash, pruritus, angioedema of tongue, lips and face, urticaria (including giant urticaria), laryngospasm and anaphylactic reactions have been reported [see Adverse Reactions (6.1, 6.2)].
 If such a reaction occurs, therapy with ATROVENT HFA should be stopped at once and alternative treatment should be considered [see Contraindications (4)].
 
 ## 5.3 Paradoxical Bronchospasm
@@ -19,7 +19,7 @@ If this occurs, treatment with ATROVENT HFA should be stopped and other treatmen
 
 ATROVENT HFA is an anticholinergic and its use may increase intraocular pressure.
 This may result in precipitation or worsening of narrow-angle glaucoma.
-Therefore, ATROVENT HFA should be used with caution in patients with narrow-angle glaucoma.
+Therefore, ATROVENT HFA should be used with caution in patients with narrow-angle glaucoma [see Drug Interactions (7.1)].
 
 Patients should avoid spraying ATROVENT HFA into their eyes.
 If a patient sprays ATROVENT HFA into their eyes, they may cause eye pain or discomfort, temporary blurring of vision, mydriasis, visual halos or colored images in association with red eyes from conjunctival and corneal congestion.

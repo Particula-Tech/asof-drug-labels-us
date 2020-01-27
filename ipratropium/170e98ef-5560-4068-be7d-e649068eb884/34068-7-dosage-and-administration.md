@@ -14,4 +14,4 @@ Each inhaler provides sufficient medication for 200 actuations.
 The inhaler should be discarded after the labeled number of actuations has been used.
 The amount of medication in each actuation cannot be assured after this point, even though the canister is not completely empty.
 
-Patients should be instructed on the proper use of their inhaler [see Patient Counseling Information (17.7)].
+Patients should be instructed on the proper use of their inhaler [see Patient Counseling Information (17)].

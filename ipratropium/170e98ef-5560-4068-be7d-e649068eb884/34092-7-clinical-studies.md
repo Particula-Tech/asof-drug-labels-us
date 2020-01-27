@@ -1,9 +1,9 @@
 # 14 CLINICAL STUDIES
 
 Conclusions regarding the efficacy of ATROVENT HFA were derived from two randomized, double-blind, controlled clinical studies.
-These studies enrolled males and females ages 40 years and older, with a history of COPD, a smoking history of > 10 pack-years, an FEV1 < 65% and an FEV1/FVC < 70%.
+These studies enrolled males and females ages 40 years and older, with a history of COPD, a smoking history of >10 pack-years, an FEV1 <65% and an FEV1/FVC <70%.
 
-One of the studies was a 12-week randomized, double-blind active and placebo controlled study in which 505 of the 507 randomized COPD patients were evaluated for the safety and efficacy of 42 mcg (n=124) and 84 mcg (n=126) ATROVENT HFA in comparison to 42 mcg (n=127) ATROVENT CFC and their respective placebos (HFA n=62, CFC n=66).
+One of the studies was a 12-week randomized, double-blind active, and placebo-controlled study in which 505 of the 507 randomized COPD patients were evaluated for the safety and efficacy of 42 mcg (n=124) and 84 mcg (n=126) ATROVENT HFA in comparison to 42 mcg (n=127) ATROVENT CFC and their respective placebos (HFA n=62, CFC n=66).
 Data for both placebo HFA and placebo CFC were combined in the evaluation.
 
 Serial FEV1 (shown in Figure 1, below, as means adjusted for center and baseline effects on test day 1 and test day 85 (primary endpoint)) demonstrated that 1 dose (2 inhalations/21 mcg each) of ATROVENT HFA produced significantly greater improvement in pulmonary function than placebo.
