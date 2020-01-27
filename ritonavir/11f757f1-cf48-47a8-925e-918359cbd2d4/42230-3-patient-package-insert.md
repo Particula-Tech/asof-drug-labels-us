@@ -21,29 +21,30 @@ Do not take ritonavir tablets if you or your child:
 - are allergic to ritonavir or any of the ingredients in ritonavir tablets.
   See the end of this leaflet for a complete list of ingredients in ritonavir tablets.
 - If you take any of the following medicines:
-  - alfuzosin
-  - ranolazine
-  - dronedarone
-  - colchicine, if you have kidney or liver problems.
-  - lurasidone
-  - pimozide
-  - amiodarone
-  - ergot-containing medicines including:
-    - dihydroergotamine mesylate
-    - ergotamine tartrate
-    - methylergonovine maleate
-  - cisapride
-  - flecainide
-  - lovastatin
-  - simvastatin
-  - lomitapide
-  - sildenafil (REVATIO®) only when used for treating the lung problem, pulmonary arterial hypertension (PAH)
-  - triazolam
-  - midazolam when taken by mouth
-  - propafenone
-  - quinidine
-  - St. John’s Wort (Hypericum perforatum) or a product that contains St. John’s wort
-  - voriconazole if your ritonavir tablets dose is 400 mg every 12 hours or greater
+- alfuzosin
+- apalutamide
+- ranolazine
+- dronedarone
+- colchicine, if you have kidney or liver problems.
+- lurasidone
+- pimozide
+- amiodarone
+- ergot-containing medicines including:
+- dihydroergotamine mesylate
+- ergotamine tartrate
+- methylergonovine maleate
+- cisapride
+- flecainide
+- lovastatin
+- simvastatin
+- lomitapide
+- sildenafil (REVATIO®) only when used for treating the lung problem, pulmonary arterial hypertension (PAH)
+- triazolam
+- midazolam when taken by mouth
+- propafenone
+- quinidine
+- St. John’s Wort (Hypericum perforatum) or a product that contains St. John’s wort
+- voriconazole if your ritonavir tablets dose is 400 mg every 12 hours or greater
 
 Serious problems can happen if you or your child takes any of these medicines with ritonavir tablets.
 
@@ -208,4 +209,4 @@ This Patient Information has been approved by the U.S. Food and Drug Administrat
 
 Dispense with Patient Information available at: www.aurobindousa.com/product-medication-guides
 
-Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 038, India Revised: 09/2019
+Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 038, India Revised: 01/2020
