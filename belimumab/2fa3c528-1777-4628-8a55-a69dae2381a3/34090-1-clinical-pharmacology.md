@@ -14,7 +14,9 @@ Memory cells increased initially and slowly declined toward baseline levels by W
 Treatment with BENLYSTA in adult patients led to reductions in IgG and anti-double-stranded DNA antibodies (anti-dsDNA) which were observed as early as Week 8 and sustained through Week 52.
 In patients with low complement levels at baseline, treatment led to increases in complement C3 and C4 as early as Week 12 and were sustained through Week 52.
 
-In Trial 4 (pediatric dosing) the pharmacodynamic response was consistent with the adult data.
+The pharmacodynamic response observed in black patients (Trial 4) was consistent with the previous studies.
+
+In Trial 5 (pediatric dosing) the pharmacodynamic response was consistent with the adult data.
 
 The clinical relevance of above mentioned pharmacodynamic biomarkers has not been established.
 
@@ -64,7 +66,7 @@ Age: Age did not significantly influence the pharmacokinetics of belimumab, wher
 
 Geriatric Patients: Limited pharmacokinetic data are available for elderly patients as less than 2% of the subjects included in the pharmacokinetic analysis were 65 years or older [see Use in Specific Populations (8.5)].
 
-Pediatric Patients: The pharmacokinetic parameters are based on individual parameter estimates from a population pharmacokinetic analysis of 53 pediatric patients (Trial 4).
+Pediatric Patients: The pharmacokinetic parameters are based on individual parameter estimates from a population pharmacokinetic analysis of 53 pediatric patients (Trial 5).
 Following IV administration of 10 mg/kg on Days 0, 14, and 28, and at 4‑week intervals thereafter, belimumab exposures were similar between pediatric and adult subjects with SLE.
 Steady-state geometric mean Cmax, Cmin, Cavg, and AUC values were 305, 42, 92 mcg/mL, and 2,569 daymcg/mL in the 5- to 11-year-old group, and 317, 52, 112 mcg/mL and 3,126 daymcg/mL in the 12- to 17-year-old group.
 [See Use in Specific Populations (8.4).]
@@ -72,8 +74,9 @@ Steady-state geometric mean Cmax, Cmin, Cavg, and AUC values were 305, 42, 92 mc
 Male and Female Patients: Gender did not significantly influence belimumab pharmacokinetics in the largely female trial population (94% with intravenous dosing; 85% with subcutaneous dosing).
 
 Racial Groups: Race did not significantly influence belimumab pharmacokinetics.
-The racial distribution with intravenous administration was 53% white, 16% Asian, 16% Alaska native/American Indian, and 14% black.
-The racial distribution with subcutaneous administration was 61% white, 20% Asian, 11% black, and 6% Alaska native/American Indian.
+The racial distribution with intravenous administration was 53% white, 16% Asian, 16% Alaska native/American Indian, and 14% black in Trials 1, 2, and 3.
+Trial 4 enrolled only black patients.
+The racial distribution with subcutaneous administration (Trial 6) was 61% white, 20% Asian, 11% black, and 6% Alaska native/American Indian.
 
 Weight: Body weight and body mass index (BMI) had no clinically relevant effect on the pharmacokinetics of belimumab administered subcutaneously in adults.
 No dose adjustment is recommended based on weight or BMI for subcutaneous administration.

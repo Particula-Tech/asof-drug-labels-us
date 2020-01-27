@@ -27,11 +27,11 @@ Important Warnings
 
 - •The prefilled syringe should be used only 1 time and then thrown away.
   See below, “Dispose of used prefilled syringe and inspect.”
-  - •Do not share your BENLYSTA prefilled syringe with other people.
+  - oDo not share your BENLYSTA prefilled syringe with other people.
     You may give other people a serious infection, or get a serious infection from them.
-  - •Do not shake the prefilled syringe.
-  - •Do not use if dropped onto a hard surface.
-  - •Do not remove the Needle Cap until right before the injection.
+  - oDo not shake the prefilled syringe.
+  - oDo not use if dropped onto a hard surface.
+  - oDo not remove the Needle Cap until right before the injection.
 
 BENLYSTA Prefilled Syringe Parts
 

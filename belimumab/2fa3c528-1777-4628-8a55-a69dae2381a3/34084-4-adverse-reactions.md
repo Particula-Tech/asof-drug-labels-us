@@ -51,14 +51,16 @@ Incidence of Adverse Reactions Occurring in at Least 3% of Adult Patients Treate
 | Leukopenia | 4 | 2 |
 | Gastroenteritis viral | 3 | 1 |
 
+Black/African-American Patients: The safety of BENLYSTA 10 mg/kg administered intravenously plus standard therapy (n = 331) compared with placebo plus standard therapy (n = 165) in black patients (Trial 4) was consistent with the known safety profile of BENLYSTA administered intravenously plus standard therapy in the overall population [see Clinical Studies (14.1)].
+
 Pediatric Patients
 
-The safety of BENLYSTA administered intravenously plus standard therapy (n = 53) compared with placebo plus standard therapy (n = 40) was evaluated in 93 pediatric patients (Trial 4).
+The safety of BENLYSTA administered intravenously plus standard therapy (n = 53) compared with placebo plus standard therapy (n = 40) was evaluated in 93 pediatric patients (Trial 5).
 The adverse reactions observed were consistent with those observed in adults [see Clinical Studies (14.1)].
 
 ## 6.2 Clinical Trials Experience with Subcutaneous Administration in Adults
 
-The data described below reflect exposure to BENLYSTA administered subcutaneously plus standard therapy compared with placebo plus standard therapy in 836 patients in a controlled trial (Trial 5).
+The data described below reflect exposure to BENLYSTA administered subcutaneously plus standard therapy compared with placebo plus standard therapy in 836 patients in a controlled trial (Trial 6).
 In addition to standard therapy, patients received BENLYSTA 200 mg (n = 556) or placebo (n = 280) (2:1 randomization) once weekly for up to 52 weeks [see Clinical Studies (14.2)].
 
 The overall population had a mean age of 39 years (range: 18 to 77), 94% were female, and 60% were white.
@@ -91,8 +93,9 @@ In Trials 2 and 3 (intravenous dosing in adults), anti-belimumab antibodies were
 The reported frequency for the group receiving 10 mg/kg may underestimate the actual frequency due to lower assay sensitivity in the presence of high drug concentrations.
 Neutralizing antibodies were detected in 3 patients receiving BENLYSTA 1 mg/kg.
 Three patients with anti-belimumab antibodies experienced mild infusion reactions of nausea, erythematous rash, pruritus, eyelid edema, headache, and dyspnea; none of the reactions was life-threatening.
-In Trial 4 (intravenous dosing in pediatric patients), there was no formation of anti-belimumab antibodies in 53 patients receiving BENLYSTA 10 mg/kg plus standard therapy during the 52-week placebo‑controlled period.
-In Trial 5 (subcutaneous dosing in adults), there was no formation of anti‑belimumab antibodies in 556 patients receiving BENLYSTA 200 mg during the 52-week placebo-controlled period.
+In Trial 4 (intravenous dosing in adult black patients), anti-belimumab antibodies were detected in 2 of 321 (0.6%) patients receiving BENLYSTA 10 mg/kg during the 52-week, placebo-controlled period.
+In Trial 5 (intravenous dosing in pediatric patients), there was no formation of anti-belimumab antibodies in 53 patients receiving BENLYSTA 10 mg/kg plus standard therapy during the 52-week, placebo‑controlled period.
+In Trial 6 (subcutaneous dosing in adults), there was no formation of anti‑belimumab antibodies in 556 patients receiving BENLYSTA 200 mg during the 52-week, placebo-controlled period.
 
 The clinical relevance of the presence of anti-belimumab antibodies is not known.
 

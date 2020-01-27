@@ -2,7 +2,7 @@
 
 ## 14.1 Clinical Trials Experience with Intravenous Administration
 
-The safety and effectiveness of BENLYSTA administered intravenously plus standard therapy were evaluated in 3 randomized, double‑blind, placebo‑controlled trials involving 2,133 adult patients (Trial 1, NCT #00071487, Trial 2, NCT #00410384, and Trial 3, NCT #00424476), and one trial involving 93 pediatric patients (Trial 4, NCT #01649765) with SLE according to the American College of Rheumatology criteria.
+The safety and effectiveness of BENLYSTA administered intravenously plus standard therapy were evaluated in 4 randomized, double‑blind, placebo‑controlled trials involving 2,581 adult patients (Trial 1, NCT #00071487, Trial 2, NCT #00410384, Trial 3, NCT #00424476, and Trial 4 NCT #01632241), and one trial involving 93 pediatric patients (Trial 5, NCT #01649765) with SLE according to the American College of Rheumatology criteria.
 Patients with severe active lupus nephritis and severe active CNS lupus were excluded.
 Patients were on a stable standard therapy SLE treatment regimen comprising any of the following (alone or in combination): corticosteroids, antimalarials, NSAIDs, and immunosuppressives.
 Use of other biologics and intravenous cyclophosphamide was not permitted.
@@ -16,7 +16,7 @@ No significant differences between any of the groups receiving BENLYSTA and the 
 Exploratory analysis of this trial identified a subgroup of patients (72%) who were autoantibody positive in whom BENLYSTA appeared to offer benefit.
 The results of this trial informed the design of Trials 2 and 3 and led to the selection of a target population and indication that is limited to autoantibody-positive SLE patients.
 
-Trials 2 and 3: BENLYSTA 1 mg/kg and 10 mg/kg - Intravenous
+Trials 2, 3 and 4: BENLYSTA 1 mg/kg and 10 mg/kg - Intravenous
 
 Trials 2 and 3 were randomized, double‑blind, placebo‑controlled trials in patients with SLE that were similar in design except duration - Trial 2 (N = 819) was 76 weeks’ duration and Trial 3 (N = 865) was 52 weeks’ duration.
 Patients had active SLE disease with a SELENA‑SLEDAI score ≥6 and positive autoantibody test results at screening.
@@ -54,8 +54,8 @@ Clinical Response Rate in Patients with SLE after 52 Weeks of Treatment
 
 |  | Trial 2 |  |  | Trial 3 |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| Response | Placebo + Standard Therapy(n = 275) | BENLYSTA1 mg/kg + Standard Therapyb(n = 271) | BENLYSTA10 mg/kg + Standard Therapy(n = 273) | Placebo + Standard Therapy(n = 287) | BENLYSTA1 mg/kg + Standard Therapyb(n = 288) | BENLYSTA10 mg/kg + Standard Therapy(n = 290) |
-| SLE Responder Index-4 (SRI-4)a | 34% | 41% (P = 0.104) | 43% (P = 0.021) | 44% | 51% (P = 0.013) | 58% (P <0.001) |
+| Response | Placebo +Standard Therapy(n = 275) | BENLYSTA1 mg/kg + Standard Therapyb(n = 271) | BENLYSTA10 mg/kg + Standard Therapy(n = 273) | Placebo +Standard Therapy(n = 287) | BENLYSTA1 mg/kg + Standard Therapyb(n = 288) | BENLYSTA10 mg/kg + Standard Therapy(n = 290) |
+| SLE Responder Index-4 (SRI-4)a | 34% | 41% P = 0.104 | 43% P = 0.021 | 44% | 51% P = 0.013 | 58% P <0.001 |
 | Odds Ratio (95% CI) vs. placebo |  | 1.3 (0.9, 1.9) | 1.5 (1.1, 2.2) |  | 1.6 (1.1, 2.2) | 1.8 (1.3, 2.6) |
 | Components of SLE Responder Index-4 (SRI-4) |  |  |  |  |  |  |
 | Percent of patients with reduction in SELENA-SLEDAI ≥4 | 36% | 43% | 47% | 46% | 53% | 58% |
@@ -65,9 +65,29 @@ Clinical Response Rate in Patients with SLE after 52 Weeks of Treatment
 
 The reduction in disease activity seen in the SRI-4 was related primarily to improvement in the most commonly involved organ systems; namely, mucocutaneous, musculoskeletal, and immune.
 
-Effect in Black/African-American Patients: Exploratory sub-group analyses of SRI-4 response rate in black patients (n = 148) were performed.
+Effect in Black/African-American Patients: In Trials 2 and 3, exploratory sub-group analyses of SRI-4 response rate in black patients (n = 148) were performed.
 The SRI-4 response rate in black patients in groups receiving BENLYSTA plus standard therapy was less than that in the group receiving placebo plus standard therapy (22/50 or 44% for placebo, 15/48 or 31% for BENLYSTA 1 mg/kg, and 18/50 or 36% for BENLYSTA 10 mg/kg).
-Although no definitive conclusion can be drawn from this subgroup analysis, caution should be used when considering treatment with BENLYSTA in black/African-American patients.
+
+Trial 4 was a 2:1 randomized, placebo-controlled trial in black patients (N = 448) conducted in North America, South America, Europe, and Africa (same study design as Trials 2 and 3 with exceptions of patients having a baseline SELENA-SLEDAI score of >8 and using the modified SLEDAI-2K scoring for proteinuria).
+The population had a mean age of 39 years (range: 18 to 71) and 97% were female.
+The proportion of black patients achieving an SRI-S2K response at Week 52 (primary endpoint), and the individual components of the endpoint, were higher in the group receiving BENLYSTA 10 mg/kg plus standard therapy relative to the group receiving placebo plus standard therapy.
+However, the treatment difference was not statistically significant (Table 5).
+
+Table 5.
+Clinical Response Rate in Black Patients with SLE after 52 Weeks of Treatment (Trial 4)
+
+| Response | Placebo +Standard Therapy(n = 149) | BENLYSTA10 mg/kg +Standard Therapy(n = 299) |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| SLE Responder Index (SRI-S2K)a | 42% | 49% |  |  |  |  |  |  |  |
+| Odds Ratio (95% CI) |  | 1.4 (0.9, 2.1)P = 0.107 |  |  |  |  |  |  |  |
+| Components of SLE Responder Index (SRI-S2K) |  |  |  |  |  |  |  |  |  |
+| Percent of patients with reduction in SELENA‑SLEDAI-S2K ≥4 | 42% | 50% |  |  |  |  |  |  |  |
+| Odds Ratio (95% CI) |  | 1.5 (1.0, 2.2) |  |  |  |  |  |  |  |
+| Percent of patients with no worsening by BILAG index | 62% | 68% |  |  |  |  |  |  |  |
+| Odds Ratio (95% CI) |  | 1.2 (0.8, 1.9) |  |  |  |  |  |  |  |
+| Percent of patients with no worsening by PGA | 64% | 70% |  |  |  |  |  |  |  |
+| Odds Ratio (95% CI) |  | 1.3 (0.8, 1.9) |  |  |  |  |  |  |  |
+| a Patients dropping out of the trial early or experiencing certain increases in background medication were considered as failures in these analyses. A higher proportion of patients receiving placebo were considered as failures for this reason compared with the group receiving BENLYSTA. |  |  |  |  |  |  |  |  |  |
 
 Effect on Concomitant Steroid Treatment: In Trial 2 and Trial 3, 46% and 69% of patients, respectively, were receiving prednisone at doses >7.5 mg/day at baseline.
 The proportion of patients able to reduce their average prednisone dose by at least 25% to ≤7.5 mg/day during Weeks 40 through 52 was not consistently significantly different for BENLYSTA plus standard therapy relative to placebo plus standard therapy in both trials.
@@ -79,7 +99,7 @@ The proportion of patients having at least 1 severe flare over 52 weeks was not 
 In Trial 2, 18% of patients receiving BENLYSTA 10 mg/kg plus standard therapy and 16% of patients receiving BENLYSTA 1 mg/kg plus standard therapy had a severe flare compared with 24% of patients receiving placebo plus standard therapy.
 In Trial 3, 14%, 18%, and 23% of patients receiving BENLYSTA 10 mg/kg, BENLYSTA 1 mg/kg and placebo, respectively, plus standard therapy had a severe flare.
 
-Trial 4: BENLYSTA 10 mg/kg in Pediatric Patients - Intravenous
+Trial 5: BENLYSTA 10 mg/kg in Pediatric Patients - Intravenous
 
 The safety and efficacy of BENLYSTA was evaluated in an international, randomized, double-blind, placebo‑controlled, 52-week, pharmacokinetics (PK), efficacy and safety study conducted in 93 pediatric patients with a clinical diagnosis of SLE according to the American College of Rheumatology classification criteria.
 Patients had active SLE disease, defined as a SELENA-SLEDAI score ≥6 and positive autoantibodies at screening as defined in the adult trials.
@@ -92,35 +112,35 @@ Overall, 19% of pediatric patients had some degree of renal activity and less th
 Randomization into age-related treatment cohorts was stratified by screening SELENA-SLEDAI scores (6 to 12 vs >13) and age (5 to 11 years vs 12 to 17 years).
 
 The primary efficacy endpoint was the SLE Responder Index (SRI-4) at Week 52, as described in the adult intravenous trials.
-There was a numerically higher proportion of pediatric patients achieving a response in SRI‑4 and its components in pediatric patients receiving BENLYSTA plus standard therapy compared with placebo plus standard therapy (Table 5).
+There was a numerically higher proportion of pediatric patients achieving a response in SRI‑4 and its components in pediatric patients receiving BENLYSTA plus standard therapy compared with placebo plus standard therapy (Table 6).
 
-Table 5.
+Table 6.
 Pediatric Response Rate at Week 52a
 
-| Response | Placebo(n = 40) | BENLYSTA10 mg/kg(n = 53) |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| SLE Responder Index | 44% | 53% |  |  |  |  |  |  |  |
-| Odds Ratio(95% CI) vs. Placebo |  | 1.49(0.64, 3.46) |  |  |  |  |  |  |  |
-| Components of SLE Responder Index |  |  |  |  |  |  |  |  |  |
-| Percent of patients with reduction in SELENA‑SLEDAI ≥4 | 44% | 55% |  |  |  |  |  |  |  |
-| Percent of patients with no worsening by BILAG index | 62% | 74% |  |  |  |  |  |  |  |
-| Percent of patients with no worsening by PGA | 67% | 76% |  |  |  |  |  |  |  |
-| Other endpoints |  |  |  |  |  |  |  |  |  |
-| SRI-6 using SELENA SLEDAI ≥6-point reduction | 34% | 41% |  |  |  |  |  |  |  |
-| Proportion of subjects with a sustained SRI response | 41% | 43% |  |  |  |  |  |  |  |
-| a Based on a non-powered trial. |  |  |  |  |  |  |  |  |  |
+| Response | Placebo(n = 40) | BENLYSTA10 mg/kg(n = 53) |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| SLE Responder Index | 44% | 53% |  |  |  |  |  |  |  |  |  |  |
+| Odds Ratio(95% CI) vs. Placebo |  | 1.49(0.64, 3.46) |  |  |  |  |  |  |  |  |  |  |
+| Components of SLE Responder Index |  |  |  |  |  |  |  |  |  |  |  |  |
+| Percent of patients with reduction in SELENA‑SLEDAI ≥4 | 44% | 55% |  |  |  |  |  |  |  |  |  |  |
+| Percent of patients with no worsening by BILAG index | 62% | 74% |  |  |  |  |  |  |  |  |  |  |
+| Percent of patients with no worsening by PGA | 67% | 76% |  |  |  |  |  |  |  |  |  |  |
+| Other endpoints |  |  |  |  |  |  |  |  |  |  |  |  |
+| SRI-6 using SELENA SLEDAI ≥6-point reduction | 34% | 41% |  |  |  |  |  |  |  |  |  |  |
+| Proportion of subjects with a sustained SRI response | 41% | 43% |  |  |  |  |  |  |  |  |  |  |
+| a Based on a non-powered trial. |  |  |  |  |  |  |  |  |  |  |  |  |
 
 Effect on Concomitant Steroid Treatment: At baseline, 95% of pediatric patients were receiving prednisone.
 Among those pediatric patients, 20% of pediatric patients receiving BENLYSTA plus standard therapy reduced their average prednisone dose by at least 25% per day during Weeks 44 through 52 compared with 21% of pediatric patients on placebo plus standard therapy.
 
-Effect on Severe SLE Flares: In Trial 4, the probability of experiencing a severe SLE flare, as measured by the modified SELENA-SLEDAI Flare Index, excluding severe flares triggered only by an increase of the SELENA-SLEDAI score to >12, was calculated.
+Effect on Severe SLE Flares: In Trial 5, the probability of experiencing a severe SLE flare, as measured by the modified SELENA-SLEDAI Flare Index, excluding severe flares triggered only by an increase of the SELENA-SLEDAI score to >12, was calculated.
 The proportion of pediatric patients reporting at least one severe flare during the study was numerically lower in pediatric patients receiving BENLYSTA plus standard therapy (23%) compared with those receiving placebo plus standard therapy (43%).
 Pediatric patients receiving BENLYSTA 10 mg/kg plus standard therapy had a 62% lower risk of experiencing a severe flare during the 52 weeks of observation, relative to the placebo plus standard therapy group.
 Of the pediatric patients experiencing a severe flare, the median time to the first severe flare was 160 days in pediatric patients receiving BENLYSTA plus standard therapy compared with 82 days in pediatric patients receiving placebo plus standard therapy.
 
 ## 14.2 Clinical Trials Experience with Subcutaneous Administration in Adults
 
-The safety and effectiveness of BENLYSTA administered subcutaneously were evaluated in a randomized, double‑blind, placebo‑controlled trial involving 836 adult patients with SLE according to the American College of Rheumatology criteria (Trial 5, NCT #01484496).
+The safety and effectiveness of BENLYSTA administered subcutaneously were evaluated in a randomized, double‑blind, placebo‑controlled trial involving 836 adult patients with SLE according to the American College of Rheumatology criteria (Trial 6, NCT #01484496).
 Patients with severe active lupus nephritis and severe active CNS lupus were excluded.
 The trial (2:1 randomization) evaluated BENLYSTA 200 mg once weekly plus standard therapy (n = 556) compared with placebo once weekly plus standard therapy (n = 280) over 52 weeks in patients with active SLE disease.
 Patients had to have a SELENA-SLEDAI score of ≥8 and positive autoantibody test (anti-nuclear antibody [ANA] and/or anti-double-stranded DNA [anti-dsDNA]) results at screening.
@@ -142,9 +162,9 @@ The primary efficacy endpoint was the SLE Responder Index-4 (SRI-4) at Week 52 a
 Secondary efficacy endpoints included time to first severe flare (as measured by the modified SELENA-SLEDAI SLE Flare Index) and the proportion of patients receiving prednisone >7.5 mg/day at baseline whose average prednisone dose had been reduced by ≥25% to ≤7.5 mg/day during Weeks 40 through 52.
 
 The proportion of patients achieving an SRI-4 response was significantly higher in patients receiving BENLYSTA plus standard therapy compared with placebo plus standard therapy.
-The trends comparing the treatment groups with respect to the probability of response for the individual components of the endpoint were consistent with that of the SRI-4 (Table 6).
+The trends comparing the treatment groups with respect to the probability of response for the individual components of the endpoint were consistent with that of the SRI-4 (Table 7).
 
-Table 6.
+Table 7.
 Clinical Response Rate in Patients with SLE after 52 Weeks of Treatment
 
 | Response | Placebo +Standard Therapy(n = 279) | BENLYSTA +Standard Therapy(n = 554) |
@@ -167,8 +187,7 @@ Proportion (%) of SRI-4 Responders (+/- Standard Error) by Visita
 a The same patients may not have responded at each timepoint.
 
 Effect in Black/African-American Patients: Exploratory sub-group analyses of SRI-4 response rate in black patients (n = 91) were performed.
-The SRI-4 response rate was slightly higher in black patients receiving BENLYSTA plus standard therapy (26/58 or 45%) compared with the group receiving placebo plus standard therapy (13/33 or 39%), but the treatment difference was not as large as that observed in the overall population and no definitive conclusion can be drawn from this subgroup analysis.
-Caution should be used when considering treatment with BENLYSTA in black/African-American patients.
+The SRI-4 response rate in black patients receiving BENLYSTA plus standard therapy was 45% (26/58) compared with 39% (13/33) in the group receiving placebo plus standard therapy [see Use in Specific Populations (8.8)].
 
 Effect on Concomitant Steroid Treatment: At baseline, 60% of patients were receiving prednisone at doses >7.5 mg/day.
 Among these patients, 18% of patients receiving BENLYSTA plus standard therapy reduced their average prednisone dose by at least 25% to ≤7.5 mg/day during Weeks 40 through 52 compared with 12% of patients on placebo plus standard therapy; this difference was not statistically significant (OR = 1.65 [95% CI: 0.95, 2.84]).

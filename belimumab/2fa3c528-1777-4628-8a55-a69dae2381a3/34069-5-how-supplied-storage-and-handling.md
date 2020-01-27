@@ -3,14 +3,14 @@
 ## 16.1 Intravenous Infusion
 
 BENLYSTA (belimumab) for injection is a sterile, preservative-free, lyophilized powder for reconstitution and dilution prior to intravenous infusion provided in single-dose glass vials with a rubber stopper (not made with natural rubber latex) and a flip-off seal.
-Each 5-mL vial contains 120 mg of belimumab.
-Each 20-mL vial contains 400 mg of belimumab.
+Each 5-mL vial contains 120°mg of belimumab.
+Each 20-mL vial contains 400°mg of belimumab.
 
 BENLYSTA vials are supplied as follows:
 
 120 mg belimumab in a 5-mL single-dose vial (NDC 49401-101-01)
 
-400 mg belimumab in a 20-mL single-dose vial (NDC 49401-102-01)
+400°mg belimumab in a 20-mL single-dose vial (NDC 49401-102-01)
 
 Refrigerate vials at 36°F to 46°F (2°C to 8°C).
 Store vials in the original carton until use to protect from light.
