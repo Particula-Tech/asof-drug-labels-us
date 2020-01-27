@@ -66,7 +66,7 @@ Pregnancy:
 
 Advise pregnant women to notify their healthcare provider if they become pregnant or intend to become pregnant during treatment with quetiapine.
 Advise patients that quetiapine may cause extrapyramidal and/or withdrawal symptoms (agitation, hypertonia, hypotonia, tremor, somnolence, respiratory distress, and feeding disorder) in a neonate.
-Advise patients that there is a pregnancy registry that monitors pregnancy outcomes in women exposed to quetiapine during pregnancy.
+Advise patients that there is a pregnancy registry that monitors pregnancy outcomes in women exposed to quetiapine during pregnancy [see Use in Specific Populations (8.1)].
 
 Infertility:
 
@@ -82,6 +82,6 @@ The decision to prescribe atypical antipsychotic medication will depend upon the
 
 Distr. by: West-Ward Pharmaceuticals Corp. Eatontown, NJ 07724
 
-10004966/06
+10004966/07
 
-Revised September 2019
+Revised January 2020

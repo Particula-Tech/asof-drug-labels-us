@@ -338,6 +338,10 @@ Children and Adolescents:
 In acute placebo-controlled trials in children and adolescent patients with schizophrenia (6-week duration) or bipolar mania (3-week duration), the incidence of shifts for thyroid function values at any time for quetiapine treated patients and placebo-treated patients for elevated TSH was 2.9% (8/280) vs. 0.7% (1/138), respectively and for decreased total thyroxine was 2.8% (8/289) vs. 0% (0/145, respectively).
 Of the quetiapine treated patients with elevated TSH levels, 1 had simultaneous low free T4 level at end of treatment.
 
+1. 1.
+   Based on shifts from normal baseline to potentially clinically important value at any time post-baseline.
+   Shifts in total T4, free T4, total T3 and free T3 are defined as M0.8 x LLN (pmol/L) and shift in TSH is >5 mlU.L at any time.
+
 ## 5.15 Hyperprolactinemia
 
 Adults:

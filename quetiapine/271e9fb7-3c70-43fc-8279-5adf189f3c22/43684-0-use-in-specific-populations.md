@@ -7,9 +7,7 @@ Pregnancy Exposure Registry:
 There is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to atypical antipsychotics, including quetiapine, during pregnancy.
 Healthcare providers are encouraged to register patients by contacting the National Pregnancy Registry for Atypical Antipsychotics at 1-866-961-2388 or online at http://womensmentalhealth.org/clinical-and-research-programs/pregnancyregistry/.
 
-Risk Summary
-
-Neonates exposed to antipsychotic drugs (including quetiapine) during the third trimester are at risk for extrapyramidal and/or withdrawal symptoms following delivery (see Clinical Considerations).
+Risk Summary: Neonates exposed to antipsychotic drugs (including quetiapine) during the third trimester are at risk for extrapyramidal and/or withdrawal symptoms following delivery (see Clinical Considerations).
 Overall available data from published epidemiologic studies of pregnant women exposed to quetiapine have not established a drug-associated risk of major birth defects, miscarriage, or adverse maternal or fetal outcomes (see Data).
 There are risks to the mother associated with untreated schizophrenia, bipolar I, or major depressive disorder, and with exposure to antipsychotics, including quetiapine, during pregnancy (see Clinical Considerations).
 
@@ -21,11 +19,9 @@ The estimated background risk of major birth defects and miscarriage for the ind
 All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
 In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively.
 
-Clinical Considerations
+Clinical Considerations:
 
-Disease-associated maternal and/or fetal risk
-
-There is a risk to the mother from untreated schizophrenia, or bipolar I disorder, including increased risk of relapse, hospitalization, and suicide.
+Disease-associated maternal and/or fetal risk: There is a risk to the mother from untreated schizophrenia, or bipolar I disorder, including increased risk of relapse, hospitalization, and suicide.
 Schizophrenia and bipolar I disorder are associated with increased adverse perinatal outcomes, including preterm birth.
 It is not known if this is a direct result of the illness or other comorbid factors.
 
@@ -33,23 +29,17 @@ A prospective, longitudinal study followed 201 pregnant women with a history of 
 The women who discontinued antidepressants during pregnancy were more likely to experience a relapse of major depression than women who continued antidepressants.
 Consider the risk of untreated depression when discontinuing or changing treatment with antidepressant medication during pregnancy and postpartum.
 
-Fetal/neonatal adverse reactions
-
-Extrapyramidal and/or withdrawal symptoms, including agitation, hypertonia, hypotonia, tremor, somnolence, respiratory distress, and feeding disorder have been reported in neonates who were exposed to antipsychotic drugs, including quetiapine, during the third trimester of pregnancy.
+Fetal/neonatal adverse reactions: Extrapyramidal and/or withdrawal symptoms, including agitation, hypertonia, hypotonia, tremor, somnolence, respiratory distress, and feeding disorder have been reported in neonates who were exposed to antipsychotic drugs, including quetiapine, during the third trimester of pregnancy.
 These symptoms varied in severity.
 Monitor neonates for extrapyramidal and/or withdrawal symptoms and manage symptoms appropriately.
 Some neonates recovered within hours or days without specific treatment; others required prolonged hospitalization.
 
 Data:
 
-Human Data
-
-Published data from observational studies, birth registries, and case reports on the use of atypical antipsychotics during pregnancy do not report a clear association with antipsychotics and major birth defects.
+Human Data: Published data from observational studies, birth registries, and case reports on the use of atypical antipsychotics during pregnancy do not report a clear association with antipsychotics and major birth defects.
 A retrospective cohort study from a Medicaid database of 9258 women exposed to antipsychotics during pregnancy did not indicate an overall increased risk of major birth defects.
 
-Animal Data
-
-When pregnant rats and rabbits were exposed to quetiapine during organogenesis, there was no teratogenic effect in fetuses.
+Animal Data: When pregnant rats and rabbits were exposed to quetiapine during organogenesis, there was no teratogenic effect in fetuses.
 Doses were 25, 50 and 200 mg/kg in rats and 25, 50 and 100 mg/kg in rabbits which are approximately 0.3, 0.6 and 2-times (rats) and 0.6, 1 and 2-times (rabbits) the MRHD for schizophrenia of 800 mg/day based on mg/m2 body surface area.
 However, there was evidence of embryo-fetal toxicity including delays in skeletal ossification at approximately 1 and 2 times the MRHD of 800 mg/day in both rats and rabbits, and an increased incidence of carpal/tarsal flexure (minor soft tissue anomaly) in rabbit fetuses at approximately 2 times the MRHD.
 In addition, fetal weights were decreased in both species.
@@ -71,9 +61,7 @@ The developmental and health benefits of breastfeeding should be considered alon
 
 Infertility:
 
-Females
-
-Based on the pharmacologic action of quetiapine (D2 antagonism), treatment with quetiapine may result in an increase in serum prolactin levels, which may lead to a reversible reduction in fertility in females of reproductive potential [see Warnings and Precautions (5.15)].
+Females: Based on the pharmacologic action of quetiapine (D2 antagonism), treatment with quetiapine may result in an increase in serum prolactin levels, which may lead to a reversible reduction in fertility in females of reproductive potential [see Warnings and Precautions (5.15)].
 
 ## 8.4 Pediatric Use
 
@@ -83,7 +71,7 @@ Orthostatic hypotension occurred more frequently in adults (4 to 7%) compared to
 
 Schizophrenia:
 
-The efficacy and safety of quetiapine in the treatment of schizophrenia in adolescents aged 13 to 17 years were demonstrated in one 6-week, double-blind, placebo-controlled trial [see Indications and Usage (1.1),Dosage and Administration (2.2),Adverse Reactions (6.1), and Clinical Studies (14.1)].
+The efficacy and safety of quetiapine in the treatment of schizophrenia in adolescents aged 13 to 17 years were demonstrated in one 6-week, double-blind, placebo-controlled trial [see Indications and Usage (1.1), Dosage and Administration (2.2), Adverse Reactions (6.1), and Clinical Studies (14.1)].
 
 Safety and effectiveness of quetiapine in pediatric patients less than 13 years of age with schizophrenia have not been established.
 
@@ -94,7 +82,7 @@ The safety and effectiveness of quetiapine in the maintenance treatment of schiz
 
 BipolarMania:
 
-The efficacy and safety of quetiapine in the treatment of mania in children and adolescents ages 10 to 17 years with bipolar I disorder was demonstrated in a 3-week, double-blind, placebo controlled, multicenter trial [see Indications and Usage (1.2),Dosage and Administration (2.3),Adverse Reactions (6.1), and Clinical Studies (14.2)].
+The efficacy and safety of quetiapine in the treatment of mania in children and adolescents ages 10 to 17 years with bipolar I disorder was demonstrated in a 3-week, double-blind, placebo controlled, multicenter trial [see Indications and Usage (1.2), Dosage and Administration (2.3), Adverse Reactions (6.1), and Clinical Studies (14.2)].
 
 Safety and effectiveness of quetiapine in pediatric patients less than 10 years of age with bipolar mania have not been established.
 
@@ -112,7 +100,7 @@ The pharmacokinetics of the active metabolite, norquetiapine, were similar betwe
 Of the approximately 3,700 patients in clinical studies with quetiapine, 7% (232) were 65 years of age or over.
 In general, there was no indication of any different tolerability of quetiapine in the elderly compared to younger adults.
 Nevertheless, the presence of factors that might decrease pharmacokinetic clearance, increase the pharmacodynamic response to quetiapine, or cause poorer tolerance or orthostasis, should lead to consideration of a lower starting dose, slower titration, and careful monitoring during the initial dosing period in the elderly.
-The mean plasma clearance of quetiapine was reduced by 30% to 50% in elderly patients when compared to younger patients [see Clinical Pharmacology (12.3) and Dosage and Administration (2.3)].
+The mean plasma clearance of quetiapine was reduced by 30% to 50% in elderly patients when compared to younger patients [see Clinical Pharmacology (12.3) andDosage and Administration (2.3)].
 
 ## 8.6 Renal Impairment
 

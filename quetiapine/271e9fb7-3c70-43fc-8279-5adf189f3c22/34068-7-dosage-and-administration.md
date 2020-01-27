@@ -23,7 +23,7 @@ Table 1: Recommended Dosing for Quetiapine Tablets
 
 Maintenance Treatment for Schizophrenia and Bipolar I Disorder:
 
-Maintenance Treatment: Patients should be periodically reassessed to determine the need for maintenance treatment and the appropriate dose for such treatment [see Clinical Studies (14.2)].
+Maintenance Treatment: Patients should be periodically reassessed to determine the need for maintenance treatment and the appropriate dose for such treatment [seeClinical Studies (14.2)].
 
 ## 2.3 Dose Modifications in Elderly Patients
 

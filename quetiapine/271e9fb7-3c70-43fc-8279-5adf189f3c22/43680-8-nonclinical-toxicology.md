@@ -7,7 +7,7 @@ Carcinogenesis:
 Carcinogenicity studies were conducted in C57BL mice and Wistar rats.
 Quetiapine was administered in the diet to mice at doses of 20, 75, 250, and 750 mg/kg and to rats by gavage at doses of 25, 75, and 250 mg/kg for two years.
 These doses are equivalent to 0.1, 0.5, 1.5, and 4.5 times the MRHD of 800 mg/day based on mg/m2 body surface area (mice) or 0.3, 1, and 3 times the MRHD based on mg/m2 body surface area (rats).
-There were statistically significant increases in thyroid gland follicular adenomas in male mice at doses 1.5 and 4.5 times the MRHD on mg/m2 body surface area and in male rats at a dose of 3 times the MRHD on mg/m2 body surface area.
+There were statistically significant increases in thyroid gland follicular adenomas in male mice at doses 1.5 and 4.5 times the MRHD based on mg/m2 body surface area and in male rats at a dose of 3 times the MRHD based on mg/m2 body surface area.
 Mammary gland adenocarcinomas were statistically significantly increased in female rats at all doses tested (0.3, 1, and 3 times the MRHD on mg/m2 body surface area).
 
 Thyroid follicular cell adenomas may have resulted from chronic stimulation of the thyroid gland by thyroid stimulating hormone (TSH) resulting from enhanced metabolism and clearance of thyroxine by rodent liver.
@@ -27,14 +27,14 @@ The clastogenic potential of quetiapine was tested in the in vitro chromosomal a
 
 Impairment of Fertility:
 
-Quetiapine decreased mating and fertility in male Sprague-Dawley rats at oral doses of 50 and 150 mg/kg or approximately 1 and 3 times the MRHD of 800 mg/day on mg/m2 body surface area.
+Quetiapine decreased mating and fertility in male Sprague-Dawley rats at oral doses of 50 and 150 mg/kg or approximately 1 and 3 times the MRHD of 800 mg/day based on mg/m2 body surface area.
 Drug-related effects included increases in interval to mate and in the number of matings required for successful impregnation.
 These effects continued to be observed at 3 times the MRHD even after a two-week period without treatment.
-The no-effect dose for impaired mating and fertility in male rats was 25 mg/kg, or 0.3 times the MRHD dose on mg/m2 body surface area.
-Quetiapine adversely affected mating and fertility in female Sprague-Dawley rats at an oral dose approximately 1 times the MRHD of 800 mg/day on mg/m2 body surface area.
+The no-effect dose for impaired mating and fertility in male rats was 25 mg/kg, or 0.3 times the MRHD dose based on mg/m2 body surface area.
+Quetiapine adversely affected mating and fertility in female Sprague-Dawley rats at an oral dose approximately 1 times the MRHD of 800 mg/day based on mg/m2 body surface area.
 Drug-related effects included decreases in matings and in matings resulting in pregnancy, and an increase in the interval to mate.
-An increase in irregular estrus cycles was observed at doses of 10 and 50 mg/kg, or approximately 0.1 and 1 times the MRHD of 800 mg/day on mg/m2 body surface area.
-The no-effect dose in female rats was 1 mg/kg, or 0.01 times the MRHD of 800 mg/day on mg/m2 body surface area.
+An increase in irregular estrus cycles was observed at doses of 10 and 50 mg/kg, or approximately 0.1 and 1 times the MRHD of 800 mg/day based on mg/m2 body surface area.
+The no-effect dose in female rats was 1 mg/kg, or 0.01 times the MRHD of 800 mg/day based on mg/m2 body surface area.
 
 ## 13.2 Animal Toxicology and/or Pharmacology
 
@@ -45,9 +45,9 @@ Pigment deposition was shown to be irreversible in rats.
 The identity of the pigment could not be determined, but was found to be co-localized with quetiapine in thyroid gland follicular epithelial cells.
 The functional effects and the relevance of this finding to human risk are unknown.
 
-In dogs receiving quetiapine for 6 or 12 months, but not for 1 month, focal triangular cataracts occurred at the junction of posterior sutures in the outer cortex of the lens at a dose of 100 mg/kg, or 4 times the MRHD of 800 mg/day on mg/m2 body surface area.
+In dogs receiving quetiapine for 6 or 12 months, but not for 1 month, focal triangular cataracts occurred at the junction of posterior sutures in the outer cortex of the lens at a dose of 100 mg/kg, or 4 times the MRHD of 800 mg/day based on mg/m2 body surface area.
 This finding may be due to inhibition of cholesterol biosynthesis by quetiapine.
 Quetiapine caused a dose-related reduction in plasma cholesterol levels in repeat-dose dog and monkey studies; however, there was no correlation between plasma cholesterol and the presence of cataracts in individual dogs.
 The appearance of delta-8-cholestanol in plasma is consistent with inhibition of a late stage in cholesterol biosynthesis in these species.
 There also was a 25% reduction in cholesterol content of the outer cortex of the lens observed in a special study in quetiapine treated female dogs.
-Drug-related cataracts have not been seen in any other species; however, in a 1-year study in monkeys, a striated appearance of the anterior lens surface was detected in 2/7 females at a dose of 225 mg/kg or 5.5 times the MRHD of 800 mg/day on mg/m2 body surface area.
+Drug-related cataracts have not been seen in any other species; however, in a 1-year study in monkeys, a striated appearance of the anterior lens surface was detected in 2/7 females at a dose of 225 mg/kg or 5.5 times the MRHD of 800 mg/day based on mg/m2 body surface area.
