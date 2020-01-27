@@ -11,11 +11,12 @@ The immediate use of atropine in cholinergic crisis is also recommended.
 
 Atropine may also be used to abolish or obtund gastrointestinal side effects or other muscarinic reactions; but such use, by masking signs of overdosage, can lead to inadvertent induction of cholinergic crisis.
 
-For detailed information on the management of patients with myasthenia gravis, the physician is referred to one of the excellent reviews such as those by Osserman and Genkins,2 Grob3 or Schwab.4,5
+For detailed information on the management of patients with myasthenia gravis, the physician is referred to one of the excellent reviews such as those by Osserman and Genkins2, Grob3 or Schwab4,5.
 
 # PRECAUTIONS
 
-Pyridostigmine is mainly excreted unchanged by the kidney.6,7,8 Therefore, lower doses may be required in patients with renal disease, and treatment should be based on titration of drug dosage to effect.6,7
+Pyridostigmine is mainly excreted unchanged by the kidney6,7,8.
+Therefore, lower doses may be required in patients with renal disease, and treatment should be based on titration of drug dosage to effect6,7.
 
 Pregnancy
 

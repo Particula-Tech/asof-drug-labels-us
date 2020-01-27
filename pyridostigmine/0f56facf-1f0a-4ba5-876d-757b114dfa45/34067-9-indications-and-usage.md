@@ -1,3 +1,3 @@
 # INDICATIONS AND USAGE
 
-Pyridostigmine bromide is useful in the treatment of myasthenia gravis.
+Pyridostigmine bromide tablets are useful in the treatment of myasthenia gravis.
