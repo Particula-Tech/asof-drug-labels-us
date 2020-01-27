@@ -1,0 +1,33 @@
+{
+  "application_numbers": [
+    "ANDA213368"
+  ],
+  "inn": "chlorpromazine",
+  "labeler": "Cadila Healthcare Limited",
+  "package_ndcs": [
+    "70771-1506-1",
+    "70771-1506-2",
+    "70771-1506-4",
+    "70771-1507-1",
+    "70771-1507-2",
+    "70771-1507-4",
+    "70771-1508-1",
+    "70771-1508-2",
+    "70771-1508-4",
+    "70771-1509-1",
+    "70771-1509-2",
+    "70771-1509-4",
+    "70771-1510-1",
+    "70771-1510-2",
+    "70771-1510-4"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "chlorpromazine hydrochloride",
+      "name": "Chlorpromazine hydrochloride"
+    }
+  ],
+  "setid": "0ea5e0c6-0062-4be3-96f2-62397da3e77d",
+  "source": "dailymed"
+}
