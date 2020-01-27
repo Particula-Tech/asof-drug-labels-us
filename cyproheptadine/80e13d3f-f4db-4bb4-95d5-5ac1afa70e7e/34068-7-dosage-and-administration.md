@@ -21,6 +21,6 @@ The dose is not to exceed 16 mg a day.
 ## Adults
 
 The total daily dose for adults should not exceed 0.5 mg/kg/day.
-The therapeutic range is 4 to 20 mg a day, with the majority of patients requiring 12 to 16 mg a day.
+The therapeutic range is 4 mg to 20 mg a day, with the majority of patients requiring 12 mg to 16 mg a day.
 An occasional patient may require as much as 32 mg a day for adequate relief.
 It is suggested that dosage be initiated with 4 mg (1 tablet) three times a day and adjusted according to the size and response of the patient.
