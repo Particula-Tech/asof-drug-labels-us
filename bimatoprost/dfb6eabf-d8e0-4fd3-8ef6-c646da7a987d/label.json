@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA210515"
+  ],
+  "inn": "bimatoprost",
+  "labeler": "Alembic Pharmaceuticals Inc.",
+  "package_ndcs": [
+    "62332-511-05"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION/ DROPS",
+      "generic": "bimatoprost",
+      "name": "bimatoprost"
+    }
+  ],
+  "setid": "dfb6eabf-d8e0-4fd3-8ef6-c646da7a987d",
+  "source": "dailymed"
+}
