@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA211589"
+  ],
+  "inn": "succinylcholine",
+  "labeler": "Somerset Therapeutics, LLC",
+  "package_ndcs": [
+    "70069-301-01",
+    "70069-301-25"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "succinylcholine chloride",
+      "name": "Succinylcholine Chloride"
+    }
+  ],
+  "setid": "499a4ba0-d466-4342-88da-9f1eb6098692",
+  "source": "dailymed"
+}
