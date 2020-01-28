@@ -145,6 +145,6 @@ This Patient Information has been approved by the U.S. Food and Drug Administrat
 Manufactured by: ScieGen Pharmaceuticals Inc Hauppauge, NY 11788 USA
 
 Rev.
-05/19
+11/19
 
 All trademarks are the property of their respective owners.

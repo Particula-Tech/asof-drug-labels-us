@@ -58,7 +58,7 @@ More marked and progressive increases in serum creatinine, associated with incre
 The following adverse reactions have been identified during postapproval use of Ranolazine extended-release tablets.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure:
 
-Nervous System Disorders – Tremor, paresthesia, abnormal coordination, and other serious neurologic adverse events have been reported to occur, sometimes concurrently, in patients taking ranolazine.
+Nervous System Disorders – Abnormal coordination, myoclonus, paresthesia, tremor, and other serious neurologic adverse events have been reported to occur, sometimes concurrently, in patients taking ranolazine.
 The onset of events was often associated with an increase in ranolazine dose or exposure.
 Many patients reported symptom resolution following drug discontinuation or dose decrease.
 
