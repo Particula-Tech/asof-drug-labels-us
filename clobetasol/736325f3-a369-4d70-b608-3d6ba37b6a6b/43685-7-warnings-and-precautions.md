@@ -11,7 +11,7 @@ If HPA axis suppression is noted, an attempt should be made to withdraw the drug
 Recovery of HPA axis function is generally prompt and complete upon discontinuation of the drug.
 Infrequently, signs and symptoms of steroid withdrawal may occur, requiring supplemental systemic corticosteroids.
 
-Pediatric patients may absorb proportionally larger amounts of topical corticosteroids and thus be more susceptible to systemic toxicity (see PRECAUTION: Pediatric Use).
+Pediatric patients may absorb proportionally larger amounts of topical corticosteroids and thus be more susceptible to systemic toxicity (see PRECAUTIONS: Pediatric Use).
 
 If irritation develops, topical corticosteroids should be discontinued and appropriate therapy instituted.
 Irritation is possible if clobetasol propionate topical solution contacts the eye.
@@ -47,7 +47,7 @@ Studies in the rat following subcutaneous administration at dosage levels up to 
 
 Clobetasol propionate was nonmutagenic in 3 different test systems: the Ames test, the Saccharomyces cerevisiae gene conversion assay and the E. coli B WP2 fluctuation test.
 
-Pregnancy: Teratogenic effects - Pregnancy Category C. Corticosteroids have been shown to be teratogenic in laboratory animals when administered systemically at relatively low dosage levels.
+Pregnancy: Teratogenic effects - Corticosteroids have been shown to be teratogenic in laboratory animals when administered systemically at relatively low dosage levels.
 Some corticosteroids have been shown to be teratogenic after dermal application to laboratory animals.
 
 Clobetasol propionate has not been tested for teratogenicity when applied topically; however, it is absorbed percutaneously, and when administered subcutaneously it was a significant teratogen in both the rabbit and the mouse.
