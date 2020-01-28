@@ -2,28 +2,27 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Category B There are no adequate and well-controlled studies of acetylcysteine in pregnant women.
-However, limited case reports of pregnant women exposed to acetylcysteine during various trimesters did not report any adverse maternal, fetal or neonatal outcomes.
-There are published reports on four pregnant women with acetaminophen toxicity, who were treated with oral or intravenous acetylcysteine at the time of delivery.
-Acetylcysteine crossed the placenta and was measurable following delivery in serum and cord blood of three viable infants and in cardiac blood of a fourth infant at autopsy (22 weeks gestational age who died 3 hours after birth).
-No adverse sequelae developed in the three viable infants.
-All mothers recovered and none of the infants had evidence of acetaminophen poisoning.
-Reproduction studies were performed in rats at oral doses up to 2,000 mg/kg/day (1.1 times the recommended total human intravenous dose of 300 mg/kg based on body surface area comparison) and in rabbits at oral doses up to 1,000 mg/kg/day (1.1 times the recommended total human intravenous dose of 300 mg/kg based on body surface area comparison).
-No effects on fertility or harm to the fetus due to acetylcysteine were observed.
+Risk Summary Limited published case reports and case series of pregnant women exposed to acetylcysteine during various trimesters are not sufficient to inform any drug associated risk.
+Delaying treatment of acetaminophen overdose may increase the risk of maternal or fetal morbidity and mortality [see Clinical Considerations].
+Reproduction studies in rats and rabbits following oral administration of acetylcysteine during the period of organogenesis at doses similar to the total intravenous dose (based on the body surface area) did not cause any adverse effects to the fetus.
+The estimated background risk of major birth defects and miscarriage for the indicated population is unknown.
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively.
 
-## 8.3 Nursing Mothers
+### Clinical Considerations
 
-It is not known whether acetylcysteine is present in human milk.
-Because many drugs are excreted in human milk, caution should be exercised when acetylcysteine is administered to a nursing woman.
-Based on the pharmacokinetics of acetylcysteine, it should be nearly completely cleared 30 hours after administration.
-Nursing women may consider resuming nursing 30 hours after administration.
+Disease-Associated Maternal and/or Embryo/Fetal Risk Acetaminophen and acetylcysteine cross the placenta.
+Delaying treatment in pregnant women with acetaminophen overdose and potentially toxic acetaminophen plasma levels may increase the risk of maternal and fetal morbidity and mortality.
+Data Animal Data Reproduction studies have been performed following administration of acetylcysteine during the period of organogenesis in rats at oral doses up to 2,000 mg/kg/day (1.1 times the recommended total human intravenous dose of 300 mg/kg based on body surface area comparison) and in rabbits at oral doses up to 1,000 mg/kg/day (1.1 times the recommended total human intravenous dose of 300 mg/kg based on body surface area comparison).
+No adverse developmental outcomes due to acetylcysteine were observed.
+
+## 8.2 Lactation
+
+Risk Summary There are no data on the presence of acetylcysteine in human milk, the effects on the breastfed infant, or the effects on milk production.
+The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for acetylcysteine and any potential adverse effects on the breastfed child from acetylcysteine or from the underlying maternal condition.
+Clinical Considerations Based on the pharmacokinetic data, acetylcysteine should be nearly completely cleared 30 hours after administration.
+Breastfeeding women may consider pumping and discarding their milk for 30 hours after administration.
 
 ## 8.4 Pediatric Use
 
-No adverse effects were noted during intravenous infusion with acetylcysteine at a mean rate of 4.2 mg/kg/h for 24 hours to 10 preterm newborns ranging in gestational age from 25 to 31 weeks and in weight from 500 to 1,380 grams in one study or in 6 newborns ranging in gestational age from 26 to 30 weeks and in weight from 520 to 1,335 grams infused with acetylcysteine at 0.1 to 1.3 mg/kg/h for 6 days.
-Elimination of acetylcysteine was slower in these infants than in adults; mean elimination half-life was 11 hours.
-There are no adequate and well-controlled studies in pediatric patients.
-
-## 8.5 Geriatric Use
-
-The clinical studies do not provide a sufficient number of geriatric subjects to determine whether the elderly respond differently.
+Safety and effectiveness of acetylcysteine in pediatric patients have not been established by adequate and well-controlled studies.
+Use of acetylcysteine in pediatric patients 5 kg and greater is based on clinical practice [see Dosage and Administration (2.4)].

@@ -1,23 +1,22 @@
 # 5 WARNINGS AND PRECAUTIONS
 
-## 5.1 Anaphylactoid Reactions
+## 5.1 Hypersensitivity Reactions
 
-Serious anaphylactoid reactions, including death in a patient with asthma, have been reported in patients administered acetylcysteine intravenously.
+Serious acute hypersensitivity reactions during acetylcysteine administration including rash, hypotension, wheezing, and/or shortness of breath, have been observed in patients receiving intravenous acetylcysteine for acetaminophen overdose and occurred soon after initiation of the infusion [see Adverse Reactions (6.1)].
+If a severe hypersensitivity reaction occurs, immediately stop the infusion of acetylcysteine and initiate appropriate treatment.
+One patient with asthma developed bronchospasm and died after intravenous administration of acetylcysteine.
+Acetylcysteine should be used with caution in patients with asthma, or where there is a history of bronchospasm.
+Patients with asthma should be closely monitored during initiation of acetylcysteine therapy and throughout acetylcysteine therapy.
 Acute flushing and erythema of the skin may occur in patients receiving acetylcysteine intravenously.
 These reactions usually occur 30 to 60 minutes after initiating the infusion and often resolve spontaneously despite continued infusion of acetylcysteine.
-Anaphylactoid reactions (defined as the occurrence of an acute hypersensitivity reaction during acetylcysteine administration including rash, hypotension, wheezing, and/or shortness of breath), have been observed in patients receiving intravenous acetylcysteine for acetaminophen overdose and occurred soon after initiation of the infusion [see Adverse Reactions (6.1)].
-If a reaction to acetylcysteine involves more than simply flushing and erythema of the skin, it should be treated as an anaphylactoid reaction.
-This usually entails administering antihistaminic drugs and in severe cases may require administration of epinephrine.
-In addition, the acetylcysteine infusion may be interrupted until treatment of the anaphylactoid symptoms has been initiated and then carefully restarted.
-If the anaphylactoid reaction returns upon reinitiation of treatment or increases in severity, intravenous acetylcysteine should be discontinued and alternative patient management should be considered.
+If a reaction to acetylcysteine involves more than simply flushing and erythema of the skin, it should be treated as a hypersensitivity reaction.
+Management of less severe hypersensitivity reactions should be based upon the severity of the reaction and include temporary interruption of the infusion and/or administration of antihistaminic drugs.
+The acetylcysteine infusion may be carefully restarted after treatment of the hypersensitivity symptoms has been initiated; however, if the hypersensitivity reaction returns upon re-initiation of treatment or increases in severity, acetylcysteine should be discontinued and alternative patient management should be considered.
 
-## 5.2 Monitoring Patients with Asthma
+## 5.2 Fluid Overload
 
-Acetylcysteine should be used with caution in patients with asthma, or where there is a history of bronchospasm.
-
-## 5.3 Volume Adjustment: Patients less than 40 kg and Requiring Fluid Restriction
-
-The total volume administered should be adjusted for patients less than 40 kg and for those requiring fluid restriction.
+The total volume of acetylcysteine administered should be adjusted for patients less than 40 kg and for those requiring fluid restriction.
 To avoid fluid overload, the volume of diluent should be reduced as needed [see Dosage and Administration (2)].
 If volume is not adjusted fluid overload can occur, potentially resulting in hyponatremia, seizure and death.
-For specific treatment information regarding the clinical management of acetaminophen overdose, please contact your regional poison center at 1-800-222-1222, or alternatively, a special health professional assistance line for acetaminophen overdose at 1-800-525-6115.
+Intravenous administration of acetylcysteine can cause fluid overload, potentially resulting in hyponatremia, seizure and death.
+To avoid fluid overload, use the recommended dilution shown in Tables 2, 3 and 4 [see Dosage and Administration (2.4)].
