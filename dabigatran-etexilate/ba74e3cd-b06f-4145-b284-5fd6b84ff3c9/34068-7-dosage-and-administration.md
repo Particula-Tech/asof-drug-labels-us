@@ -7,14 +7,14 @@
 | Reduction in Risk of Stroke and Systemic Embolism in Non-valvular AF | CrCl >30 mL/min: | 150 mg twice daily |
 | CrCl 15 to 30 mL/min: | 75 mg twice daily |  |
 | CrCl <15 mL/min or on dialysis: | Dosing recommendations cannot be provided |  |
-| CrCl 30 to 50 mL/min with concomitant use of P-gp inhibitors: | Reduce dose to 75 mg twice daily if given with P-gp inhibitors dronedarone or systemic ketoconazole. |  |
-| CrCl <30 mL/min with concomitant use of P-gp inhibitors: | Avoid co-administration |  |
-| Treatment of DVT and PE Reduction in the Risk of Recurrence of DVT and PE | CrCl >30 mL/min: | 150 mg twice daily |
-| CrCl ≤30 mL/min or on dialysis: | Dosing recommendations cannot be provided |  |
-| CrCl <50 mL/min with concomitant use of P-gp inhibitors: | Avoid co-administration |  |
+|  | CrCl 30 to 50 mL/min with concomitant use of P-gp inhibitors: | Reduce dose to 75 mg twice daily if given with P-gp inhibitors dronedarone or systemic ketoconazole. |
+|  | CrCl <30 mL/min with concomitant use of P-gp inhibitors: | Avoid co-administration |
+| Treatment of DVT and PE | CrCl >30 mL/min: | 150 mg twice daily |
+| Reduction in the Risk of Recurrence of DVT and PE | CrCl ≤30 mL/min or on dialysis: | Dosing recommendations cannot be provided |
+|  | CrCl <50 mL/min with concomitant use of P-gp inhibitors: | Avoid co-administration |
 | Prophylaxis of DVT and PE Following Hip Replacement Surgery | CrCl >30 mL/min: | 110 mg for first day, then 220 mg once daily |
-| CrCl ≤30 mL/min or on dialysis: | Dosing recommendations cannot be provided |  |
-| CrCl <50 mL/min with concomitant use of P-gp inhibitors: | Avoid co-administration |  |
+|  | CrCl ≤30 mL/min or on dialysis: | Dosing recommendations cannot be provided |
+|  | CrCl <50 mL/min with concomitant use of P-gp inhibitors: | Avoid co-administration |
 
 Reduction of Risk of Stroke and Systemic Embolism in Non-valvular Atrial Fibrillation
 
@@ -82,7 +82,7 @@ When converting from PRADAXA to warfarin, adjust the starting time of warfarin b
 - For CrCl 15-30 mL/min, start warfarin 1 day before discontinuing PRADAXA.
 - For CrCl <15 mL/min, no recommendations can be made.
 
-Because PRADAXA can increase INR, the INR will better reflect warfarin’s effect only after PRADAXA has been stopped for at least 2 days [see Clinical Pharmacology (12.2)].
+Because PRADAXA can increase INR, the INR will better reflect warfarin's effect only after PRADAXA has been stopped for at least 2 days [see Clinical Pharmacology (12.2)].
 
 ## 2.5 Converting from or to Parenteral Anticoagulants
 

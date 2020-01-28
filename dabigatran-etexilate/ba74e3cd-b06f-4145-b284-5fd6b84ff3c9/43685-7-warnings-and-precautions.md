@@ -12,7 +12,7 @@ Promptly evaluate any signs or symptoms of blood loss (e.g., a drop in hemoglobi
 Discontinue PRADAXA in patients with active pathological bleeding [see Dosage and Administration (2.2)].
 
 Risk factors for bleeding include the concomitant use of other drugs that increase the risk of bleeding (e.g., anti-platelet agents, heparin, fibrinolytic therapy, and chronic use of NSAIDs).
-PRADAXA’s anticoagulant activity and half-life are increased in patients with renal impairment [see Clinical Pharmacology (12.2)].
+PRADAXA's anticoagulant activity and half-life are increased in patients with renal impairment [see Clinical Pharmacology (12.2)].
 
 Reversal of Anticoagulant Effect:
 
@@ -39,7 +39,7 @@ If signs or symptoms of spinal hematoma are suspected, initiate urgent diagnosis
 
 ## 5.4 Thromboembolic and Bleeding Events in Patients with Prosthetic Heart Valves
 
-The safety and efficacy of PRADAXA in patients with bileaflet mechanical prosthetic heart valves was evaluated in the RE-ALIGN trial, in which patients with bileaflet mechanical prosthetic heart valves (recently implanted or implanted more than three months prior to enrollment) were randomized to dose adjusted warfarin or 150, 220, or 300 mg of PRADAXA twice a day.
+The safety and efficacy of PRADAXA in patients with bileaflet mechanical prosthetic heart valves was evaluated in the RE-ALIGN trial, in which patients with bileaflet mechanical prosthetic heart valves (recently implanted or implanted more than three months prior to enrollment) were randomized to dose adjusted warfarin or 150 mg, 220 mg, or 300 mg of PRADAXA twice a day.
 RE-ALIGN was terminated early due to the occurrence of significantly more thromboembolic events (valve thrombosis, stroke, transient ischemic attack, and myocardial infarction) and an excess of major bleeding (predominantly post-operative pericardial effusions requiring intervention for hemodynamic compromise) in the PRADAXA treatment arm as compared to the warfarin treatment arm.
 These bleeding and thromboembolic events were seen both in patients who were initiated on PRADAXA post-operatively within three days of mechanical bileaflet valve implantation, as well as in patients whose valves had been implanted more than three months prior to enrollment.
 Therefore, the use of PRADAXA is contraindicated in patients with mechanical prosthetic valves [see Contraindications (4)].
@@ -65,3 +65,8 @@ Avoid use of PRADAXA and concomitant P-gp inhibitors in patients with CrCl <50 m
 Prophylaxis of Deep Vein Thrombosis and Pulmonary Embolism Following Hip Replacement Surgery
 
 Avoid use of PRADAXA and concomitant P-gp inhibitors in patients with CrCl <50 mL/min [see Drug Interactions (7.3) and Use in Specific Populations (8.6)].
+
+## 5.6 Increased Risk of Thrombosis in Patients with Triple-Positive Antiphospholipid Syndrome
+
+Direct-acting oral anticoagulants (DOACs), including PRADAXA, are not recommended for use in patients with triple-positive antiphospholipid syndrome (APS).
+For patients with APS (especially those who are triple-positive [positive for lupus anticoagulant, anticardiolipin, and anti-beta 2-glycoprotein I antibodies]), treatment with DOACs has been associated with increased rates of recurrent thrombotic events compared with vitamin K antagonist therapy.

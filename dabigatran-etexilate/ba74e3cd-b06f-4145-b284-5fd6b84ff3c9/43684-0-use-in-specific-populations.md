@@ -15,17 +15,29 @@ The estimated background risk of major birth defects and miscarriage for the ind
 All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
 In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2-4% and 15-20%, respectively.
 
-Clinical Considerations Disease-associated maternal and/or embryo/fetal risk Pregnancy confers an increased risk for thromboembolism that is higher for women with underlying thromboembolic disease and certain high-risk pregnancy conditions.
+Clinical Considerations
+
+Disease-associated maternal and/or embryo/fetal risk
+
+Pregnancy confers an increased risk for thromboembolism that is higher for women with underlying thromboembolic disease and certain high-risk pregnancy conditions.
 Published data describe that women with a previous history of venous thrombosis are at high risk for recurrence during pregnancy.
 
-Fetal/Neonatal adverse reaction Use of anticoagulants, including PRADAXA, may increase the risk of bleeding in the fetus and neonate.
+Fetal/Neonatal adverse reaction
+
+Use of anticoagulants, including PRADAXA, may increase the risk of bleeding in the fetus and neonate.
 Monitor neonates for bleeding [see Warnings and Precautions (5.2)].
 
-Labor or delivery All patients receiving anticoagulants, including pregnant women, are at risk for bleeding.
+Labor or delivery
+
+All patients receiving anticoagulants, including pregnant women, are at risk for bleeding.
 PRADAXA use during labor or delivery in women who are receiving neuraxial anesthesia may result in epidural or spinal hematomas.
 Consider discontinuation or use of shorter acting anticoagulant as delivery approaches [see Warnings and Precautions (5.2, 5.3)].
 
-Data Animal Data Dabigatran has been shown to decrease the number of implantations when male and female rats were treated at a dosage of 70 mg/kg (about 2.6 to 3.0 times the human exposure at MRHD of 300 mg/day based on area under the curve [AUC] comparisons) prior to mating and up to implantation (gestation Day 6).
+Data
+
+Animal Data
+
+Dabigatran has been shown to decrease the number of implantations when male and female rats were treated at a dosage of 70 mg/kg (about 2.6 to 3.0 times the human exposure at MRHD of 300 mg/day based on area under the curve [AUC] comparisons) prior to mating and up to implantation (gestation Day 6).
 Treatment of pregnant rats after implantation with dabigatran at the same dose increased the number of dead offspring and caused excess vaginal/uterine bleeding close to parturition.
 Dabigatran administered to pregnant rats and rabbits during organogenesis up to maternally toxic doses of 200 mg/kg (8 and 13 times the human exposure, respectively, at a MRHD of 300 mg/day based on AUC comparisons) did not induce major malformations, but increased the incidence of delayed or irregular ossification of fetal skull bones and vertebrae in the rat.
 
@@ -33,7 +45,9 @@ Death of offspring and mother rats during labor in association with uterine blee
 
 ## 8.2 Lactation
 
-Risk Summary There are no data on the presence of dabigatran in human milk, the effects on the breastfed child, or on milk production.
+Risk Summary
+
+There are no data on the presence of dabigatran in human milk, the effects on the breastfed child, or on milk production.
 Dabigatran and/or its metabolites were present in rat milk.
 Breastfeeding is not recommended during treatment with PRADAXA.
 
@@ -63,7 +77,9 @@ Patients with severe renal impairment (CrCl ≤30 mL/min) were excluded from RE-
 Dosing recommendations for patients with CrCl ≤30 mL/min or on dialysis cannot be provided.
 Avoid use of PRADAXA with concomitant P-gp inhibitors in patients with CrCl <50 mL/min [see Warnings and Precautions (5.5), Drug Interactions (7.2), and Clinical Pharmacology (12.3)].
 
-Prophylaxis of Deep Vein Thrombosis and Pulmonary Embolism Following Hip Replacement Surgery Patients with severe renal impairment (CrCl <30 mL/min) were excluded from RE-NOVATE and RE-NOVATE II.
+Prophylaxis of Deep Vein Thrombosis and Pulmonary Embolism Following Hip Replacement Surgery
+
+Patients with severe renal impairment (CrCl <30 mL/min) were excluded from RE-NOVATE and RE-NOVATE II.
 
 Dosing recommendations for patients with CrCl <30 mL/min or on dialysis cannot be provided.
 

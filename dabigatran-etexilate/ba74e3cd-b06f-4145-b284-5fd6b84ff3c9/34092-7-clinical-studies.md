@@ -11,11 +11,11 @@ The clinical evidence for the efficacy of PRADAXA was derived from RE-LY (Random
 - Age ≥65 years and one of the following: diabetes mellitus, coronary artery disease (CAD), or hypertension
 
 The primary objective of this study was to determine if PRADAXA was non-inferior to warfarin in reducing the occurrence of the composite endpoint, stroke (ischemic and hemorrhagic) and systemic embolism.
-The study was designed to ensure that PRADAXA preserved more than 50% of warfarin’s effect as established by previous randomized, placebo-controlled trials of warfarin in atrial fibrillation.
+The study was designed to ensure that PRADAXA preserved more than 50% of warfarin's effect as established by previous randomized, placebo-controlled trials of warfarin in atrial fibrillation.
 Statistical superiority was also analyzed.
 
 A total of 18,113 patients were randomized and followed for a median of 2 years.
-The patients’ mean age was 71.5 years and the mean CHADS2 score was 2.1.
+The patients' mean age was 71.5 years and the mean CHADS2 score was 2.1.
 The patient population was 64% male, 70% Caucasian, 16% Asian, and 1% black.
 Twenty percent of patients had a history of a stroke or TIA and 50% were Vitamin K antagonist (VKA) naïve, defined as less than 2 months total lifetime exposure to a VKA.
 Thirty-two percent of the population had never been exposed to a VKA.
@@ -90,19 +90,19 @@ PRADAXA was demonstrated to be non-inferior to warfarin (dosed to target INR of 
 
 Table 11 Primary Efficacy Endpoint for RE-COVER and RE-COVER II – Modified ITTa Population
 
-|  |  | PRADAXA 150 mg twice daily N (%) | Warfarin N (%) | Hazard ratio vs. warfarin (95% CI) |
-| --- | --- | --- | --- | --- |
-| RE-COVER |  | N=1274 | N=1265 |  |
-| Primary Composite Endpointb |  | 34 (2.7) | 32 (2.5) | 1.05 (0.65, 1.70) |
-|  | Fatal PEc | 1 (0.1) | 3 (0.2) |  |
-|  | Symptomatic non-fatal PEc | 16 (1.3) | 8 (0.6) |  |
-|  | Symptomatic recurrent DVTc | 17 (1.3) | 23 (1.8) |  |
-| RE-COVER II |  | N=1279 | N=1289 |  |
-| Primary Composite Endpointb |  | 34 (2.7) | 30 (2.3) | 1.13 (0.69, 1.85) |
-|  | Fatal PEc | 3 (0.2) | 0 |  |
-|  | Symptomatic non-fatal PEc | 9 (0.7) | 15 (1.2) |  |
-|  | Symptomatic recurrent DVTc | 30 (2.3) | 17 (1.3) |  |
-| aModified ITT analyses population consists of all randomized patients who received at least one dose of study medication. bNumber of patients with one or more event. cNumber of events. For patients with multiple events each event is counted independently. |  |  |  |  |
+|  | PRADAXA 150 mg twice daily N (%) | Warfarin N (%) | Hazard ratio vs. warfarin (95% CI) |
+| --- | --- | --- | --- |
+| RE-COVER | N=1274 | N=1265 |  |
+| Primary Composite Endpointb | 34 (2.7) | 32 (2.5) | 1.05 (0.65, 1.70) |
+| Fatal PEc | 1 (0.1) | 3 (0.2) |  |
+| Symptomatic non-fatal PEc | 16 (1.3) | 8 (0.6) |  |
+| Symptomatic recurrent DVTc | 17 (1.3) | 23 (1.8) |  |
+| RE-COVER II | N=1279 | N=1289 |  |
+| Primary Composite Endpointb | 34 (2.7) | 30 (2.3) | 1.13 (0.69, 1.85) |
+| Fatal PEc | 3 (0.2) | 0 |  |
+| Symptomatic non-fatal PEc | 9 (0.7) | 15 (1.2) |  |
+| Symptomatic recurrent DVTc | 30 (2.3) | 17 (1.3) |  |
+| aModified ITT analyses population consists of all randomized patients who received at least one dose of study medication. bNumber of patients with one or more event. cNumber of events. For patients with multiple events each event is counted independently. |  |  |  |
 
 In the randomized, parallel group, double-blind, pivotal trial, RE-MEDY, patients received PRADAXA 150 mg twice daily or warfarin (dosed to target INR of 2 to 3) following 3 to 12 months of treatment with anticoagulation therapy for an acute VTE.
 The median treatment duration during the treatment period was 534 days.
@@ -118,13 +118,13 @@ If the non-inferiority margin was derived based on the 50% retention of the uppe
 
 Table 12 Primary Efficacy Endpoint for RE-MEDY – Modified ITTa Population
 
-|  |  | PRADAXA 150 mg twice daily N=1430 N (%) | Warfarin N=1426 N (%) | Hazard ratio vs. warfarin (95% CI) |
-| --- | --- | --- | --- | --- |
-| Primary Composite Endpointb |  | 26 (1.8) | 18 (1.3) | 1.44 (0.78, 2.64) |
-|  | Fatal PEc | 1 (0.07) | 1 (0.07) |  |
-|  | Symptomatic non-fatal PEc | 10 (0.7) | 5 (0.4) |  |
-|  | Symptomatic recurrent DVTc | 17 (1.2) | 13 (0.9) |  |
-| aModified ITT analyses population consists of all randomized patients who received at least one dose of study medication. bNumber of patients with one or more event. cNumber of events. For patients with multiple events each event is counted independently. |  |  |  |  |
+|  | PRADAXA 150 mg twice daily N=1430 N (%) | Warfarin N=1426 N (%) | Hazard ratio vs. warfarin (95% CI) |
+| --- | --- | --- | --- |
+| Primary Composite Endpointb | 26 (1.8) | 18 (1.3) | 1.44 (0.78, 2.64) |
+| Fatal PEc | 1 (0.07) | 1 (0.07) |  |
+| Symptomatic non-fatal PEc | 10 (0.7) | 5 (0.4) |  |
+| Symptomatic recurrent DVTc | 17 (1.2) | 13 (0.9) |  |
+| aModified ITT analyses population consists of all randomized patients who received at least one dose of study medication. bNumber of patients with one or more event. cNumber of events. For patients with multiple events each event is counted independently. |  |  |  |
 
 In a randomized, parallel group, double-blind, pivotal trial, RE-SONATE, patients received PRADAXA 150 mg twice daily or placebo following 6 to 18 months of treatment with anticoagulation therapy for an acute VTE.
 The median treatment duration was 182 days.
@@ -136,13 +136,13 @@ Based on the outcome of the primary composite endpoint (fatal PE, unexplained de
 
 Table 13 Primary Efficacy Endpoint for RE-SONATE – Modified ITTa Population
 
-|  |  | PRADAXA 150 mg twice daily N=681 N (%) | Placebo N=662 N (%) | Hazard ratio vs. placebo (95% CI) |
-| --- | --- | --- | --- | --- |
-| Primary Composite Endpointb |  | 3 (0.4) | 37 (5.6) | 0.08 (0.02, 0.25) p-value <0.0001 |
-|  | Fatal PE and unexplained deathc | 0 | 2 (0.3) |  |
-|  | Symptomatic non-fatal PEc | 1 (0.1) | 14 (2.1) |  |
-|  | Symptomatic recurrent DVTc | 2 (0.3) | 23 (3.5) |  |
-| aModified ITT analyses population consists of all randomized patients who received at least one dose of study medication. bNumber of patients with one or more events. cNumber of events. For patients with multiple events each event is counted independently. |  |  |  |  |
+|  | PRADAXA 150 mg twice daily N=681 N (%) | Placebo N=662 N (%) | Hazard ratio vs. placebo (95% CI) |
+| --- | --- | --- | --- |
+| Primary Composite Endpointb | 3 (0.4) | 37 (5.6) | 0.08 (0.02, 0.25) p-value <0.0001 |
+| Fatal PE and unexplained deathc | 0 | 2 (0.3) |  |
+| Symptomatic non-fatal PEc | 1 (0.1) | 14 (2.1) |  |
+| Symptomatic recurrent DVTc | 2 (0.3) | 23 (3.5) |  |
+| aModified ITT analyses population consists of all randomized patients who received at least one dose of study medication. bNumber of patients with one or more events. cNumber of events. For patients with multiple events each event is counted independently. |  |  |  |
 
 ## 14.3 Prophylaxis of Deep Vein Thrombosis and Pulmonary Embolism Following Hip Replacement Surgery
 

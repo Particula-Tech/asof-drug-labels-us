@@ -2,7 +2,7 @@
 
 Advise the patient to read the FDA-approved patient labeling (Medication Guide).
 
-## 17.1 Instructions for Patients
+Instructions for Patients
 
 - Tell patients to take PRADAXA exactly as prescribed.
 - Remind patients not to discontinue PRADAXA without talking to the health care provider who prescribed it.
@@ -14,9 +14,11 @@ Advise the patient to read the FDA-approved patient labeling (Medication Guide).
 - Advise patients not to chew or break the capsules before swallowing them and not to open the capsules and take the pellets alone.
 - Advise patients that the capsule should be taken with a full glass of water.
 
-## 17.2 Bleeding
+[see Boxed Warning, Dosage and Administration (2.3)]
 
-Inform patients that they may bleed more easily, may bleed longer, and should call their health care provider for any signs or symptoms of bleeding.
+Bleeding
+
+Inform patients that they may bleed more easily, may bleed longer, and should call their health care provider for any signs or symptoms of bleeding [see Warnings and Precautions (5.2)].
 
 Instruct patients to seek emergency care right away if they have any of the following, which may be a sign or symptom of serious bleeding:
 
@@ -38,7 +40,7 @@ Instruct patients to call their health care provider or to get prompt medical at
 If patients have had neuraxial anesthesia or spinal puncture, and particularly, if they are taking concomitant NSAIDs or platelet inhibitors, advise patients to watch for signs and symptoms of spinal or epidural hematoma, such as back pain, tingling, numbness (especially in the lower limbs), muscle weakness, and stool or urine incontinence.
 If any of these symptoms occur, advise the patient to contact his or her physician immediately [see Boxed Warning].
 
-## 17.3 Gastrointestinal Adverse Reactions
+Gastrointestinal Adverse Reactions
 
 Instruct patients to call their health care provider if they experience any signs or symptoms of dyspepsia or gastritis:
 
@@ -46,28 +48,24 @@ Instruct patients to call their health care provider if they experience any sign
 - Abdominal pain or discomfort
 - Epigastric discomfort, GERD (gastric indigestion)
 
-## 17.4 Invasive or Surgical Procedures
+[see Adverse Reactions (6.1)]
 
-Instruct patients to inform their health care provider that they are taking PRADAXA before any invasive procedure (including dental procedures) is scheduled.
+Invasive or Surgical Procedures
 
-## 17.5 Concomitant Medications
+Instruct patients to inform their health care provider that they are taking PRADAXA before any invasive procedure (including dental procedures) is scheduled [see Dosage and Administration (2.6)].
 
-Ask patients to list all prescription medications, over-the-counter medications, or dietary supplements they are taking or plan to take so their health care provider knows about other treatments that may affect bleeding risk (e.g., aspirin or NSAIDs) or dabigatran exposure (e.g., dronedarone or systemic ketoconazole).
+Concomitant Medications
 
-## 17.6 Prosthetic Heart Valves
+Ask patients to list all prescription medications, over-the-counter medications, or dietary supplements they are taking or plan to take so their health care provider knows about other treatments that may affect bleeding risk (e.g., aspirin or NSAIDs) or dabigatran exposure (e.g., dronedarone or systemic ketoconazole) [see Warnings and Precautions (5.2, 5.5)].
 
-Instruct patients to inform their health care provider if they will have or have had surgery to place a prosthetic heart valve.
+Prosthetic Heart Valves
 
-## 17.7 Pregnancy
+Instruct patients to inform their health care provider if they will have or have had surgery to place a prosthetic heart valve [see Warnings and Precautions (5.4)].
+
+Pregnancy
 
 Advise patients to inform their healthcare provider immediately if they become pregnant or intend to become pregnant during treatment with PRADAXA [see Use in Specific Populations (8.1)].
 
-## 17.8 Lactation
+Lactation
 
 Advise patients not to breastfeed if they are taking PRADAXA [see Use in Specific Populations (8.2)].
-
-Distributed by: Boehringer Ingelheim Pharmaceuticals, Inc. Ridgefield, CT 06877 USA
-
-Copyright 2018 Boehringer Ingelheim Pharmaceuticals, Inc. ALL RIGHTS RESERVED
-
-IT5060AKC142018

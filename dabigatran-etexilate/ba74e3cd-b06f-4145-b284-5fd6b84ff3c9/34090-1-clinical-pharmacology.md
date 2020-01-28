@@ -11,7 +11,7 @@ Both free and clot-bound thrombin, and thrombin-induced platelet aggregation are
 At recommended therapeutic doses, dabigatran etexilate prolongs the coagulation markers such as aPTT, ECT, and TT.
 INR is relatively insensitive to the exposure to dabigatran and cannot be interpreted the same way as used for warfarin monitoring.
 
-The aPTT test provides an approximation of PRADAXA’s anticoagulant effect.
+The aPTT test provides an approximation of PRADAXA's anticoagulant effect.
 The average time course for effects on aPTT, following approved dosing regimens in patients with various degrees of renal impairment is shown in Figure 2.
 The curves represent mean levels without confidence intervals; variations should be expected when measuring aPTT.
 While advice cannot be provided on the level of recovery of aPTT needed in any particular clinical setting, the curves can be used to estimate the time to get to a particular level of recovery, even when the time since the last dose of PRADAXA is not precisely known.
@@ -55,7 +55,7 @@ Distribution
 Dabigatran is approximately 35% bound to human plasma proteins.
 The red blood cell to plasma partitioning of dabigatran measured as total radioactivity is less than 0.3.
 The volume of distribution of dabigatran is 50 to 70 L. Dabigatran pharmacokinetics are dose proportional after single doses of 10 to 400 mg.
-Given twice daily, dabigatran’s accumulation factor is approximately two.
+Given twice daily, dabigatran's accumulation factor is approximately two.
 
 Elimination
 
@@ -82,10 +82,10 @@ Table 8 Impact of Renal Impairment on Dabigatran Pharmacokinetics
 
 | Renal Function | CrCl (mL/min) | Increase in AUC | Increase in Cmax | t1/2 (h) |
 | --- | --- | --- | --- | --- |
-| Normal | ≥ 80 | 1x | 1x | 13 |
-| Mild | 50-80 | 1.5x | 1.1x | 15 |
-| Moderate | 30-50 | 3.2x | 1.7x | 18 |
-| Severe+ | 15-30 | 6.3x | 2.1x | 27 |
+| Normal | ≥ 80 | 1× | 1× | 13 |
+| Mild | 50-80 | 1.5× | 1.1× | 15 |
+| Moderate | 30-50 | 3.2× | 1.7× | 18 |
+| Severe+ | 15-30 | 6.3× | 2.1× | 27 |
 | +Patients with severe renal impairment were not studied in RE-LY, RE-COVER and RE-NOVATE II. Dosing recommendations in subjects with severe renal impairment are based on pharmacokinetic modeling [see Dosage and Administration (2.1, 2.2) and Use in Specific Populations (8.6)]. |  |  |  |  |
 
 Hepatic Impairment
@@ -109,4 +109,6 @@ The Perpetrator and Dabigatran Etexilate Dose and Dosing Frequency are given as 
 In RE-LY, dabigatran plasma samples were also collected.
 The concomitant use of proton pump inhibitors, H2 antagonists, and digoxin did not appreciably change the trough concentration of dabigatran.
 
-Impact of Dabigatran on Other Drugs In clinical studies exploring CYP3A4, CYP2C9, P-gp and other pathways, dabigatran did not meaningfully alter the pharmacokinetics of amiodarone, atorvastatin, clarithromycin, diclofenac, clopidogrel, digoxin, pantoprazole, or ranitidine.
+Impact of Dabigatran on Other Drugs
+
+In clinical studies exploring CYP3A4, CYP2C9, P-gp and other pathways, dabigatran did not meaningfully alter the pharmacokinetics of amiodarone, atorvastatin, clarithromycin, diclofenac, clopidogrel, digoxin, pantoprazole, or ranitidine.

@@ -1,33 +1,63 @@
 PRADAXA (dabigatran etexilate mesylate) 75 mg capsules NDC 0597-0149-54
 
-PRADAXA (dabigatran etexilate mesylate) 75 mg capsules NDC 0597-0149-60
+# PRINCIPAL DISPLAY PANEL - 110 mg Capsule Bottle Carton
 
-PRADAXA (dabigatran etexilate mesylate) 75 mg capsules NDC 0597-0149-54
+NDC 0597-0108-54
 
-PRADAXA (dabigatran etexilate mesylate) 110 mg capsules NDC 0597-0108-54
+DISPENSE IN THIS UNIT OF USE CONTAINER WITH ENCLOSED MEDICATION GUIDE
 
-PRADAXA (dabigatran etexilate mesylate) 110mg capsules NDC 0597-0108-60
+Pradaxa® (dabigatran etexilate) Capsules
 
-PRADAXA (dabigatran etexilate mesylate) 110 mg capsules NDC 0597-0108-54
+110 mg*
+
+Swallow capsule whole.
+
+Once opened, the product must be used within 4 months.
+
+60 capsules
+
+Rx only
+
+Boehringer Ingelheim
 
 PRADAXA (dabigatran etexilate mesylate) 150 mg capsules NDC 0597-0135-54
 
-PRADAXA (dabigatran etexilate mesylate) 150 mg capsules NDC 0597-0135-60
+# PRINCIPAL DISPLAY PANEL - 75 mg Capsule Bottle Carton
 
-PRADAXA (dabigatran etexilate mesylate) 150 mg capsules NDC 0597-0135-12
+NDC 0597-0355-09
 
-PRADAXA (dabigatran etexilate mesylate) 150 mg capsules NDC 0597-0135-54
+DISPENSE IN THIS UNIT OF USE CONTAINER WITH ENCLOSED MEDICATION GUIDE
 
-PRADAXA (dabigatran etexilate mesylate) 75 mg capsules NDC 0597-0355-09
+Pradaxa® (dabigatran etexilate) Capsules
 
-PRADAXA (dabigatran etexilate mesylate) 75 mg capsules NDC 0597-0355-56
+75 mg*
 
-PRADAXA (dabigatran etexilate mesylate) 150 mg capsules NDC 0597-0360-42
+Swallow capsule whole.
 
-PRADAXA (dabigatran etexilate mesylate) 150 mg capsules NDC 0597-0360-55
+Once opened, the product must be used within 4 months.
 
-PRADAXA (dabigatran etexilate mesylate) 150 mg capsules NDC 0597-0360-82
+60 capsules
 
-PRADAXA (dabigatran etexilate mesylate) 75 mg capsules NDC 0597-0355-09
+Rx only
 
-PRADAXA (dabigatran etexilate mesylate) 150 mg capsules NDC 0597-0360-55
+Boehringer Ingelheim
+
+# PRINCIPAL DISPLAY PANEL - 150 mg Capsule Bottle Carton
+
+NDC 0597-0360-55
+
+DISPENSE IN THIS UNIT OF USE CONTAINER WITH ENCLOSED MEDICATION GUIDE
+
+Pradaxa® (dabigatran etexilate) Capsules
+
+150 mg*
+
+Swallow capsule whole.
+
+Once opened, the product must be used within 4 months.
+
+60 capsules
+
+Rx only
+
+Boehringer Ingelheim
