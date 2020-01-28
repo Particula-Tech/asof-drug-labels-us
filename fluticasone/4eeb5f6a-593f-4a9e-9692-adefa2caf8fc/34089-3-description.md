@@ -2,7 +2,7 @@
 
 ADVAIR DISKUS 100/50, ADVAIR DISKUS 250/50, and ADVAIR DISKUS 500/50 are combinations of fluticasone propionate and salmeterol xinafoate.
 
-One active component of ADVAIR DISKUS is fluticasone propionate, a corticosteroid having the chemical name S-(fluoromethyl) 6α,9-difluoro-11β,17-dihy droxy-16α-methyl-3-oxoandrosta-1,4-diene-17β-carbothioate, 17-propionate and the following chemical structure:
+One active component of ADVAIR DISKUS is fluticasone propionate, a corticosteroid having the chemical name S-(fluoromethyl) 6α,9-difluoro-11β,17-dihydroxy-16α-methyl-3-oxoandrosta-1,4-diene-17β-carbothioate, 17-propionate and the following chemical structure:
 
 Fluticasone propionate is a white powder with a molecular weight of 500.6, and the empirical formula is C25H31F3O5S.
 It is practically insoluble in water, freely soluble in dimethyl sulfoxide and dimethylformamide, and slightly soluble in methanol and 95% ethanol.
