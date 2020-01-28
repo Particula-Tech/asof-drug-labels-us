@@ -1,4 +1,4 @@
-# 20 mg per 20 mL Carton
+# 20 mg Carton
 
 NDC 0781-3420-80
 
@@ -10,6 +10,8 @@ Injection
 
 (1 mg/mL)
 
+Rx Only
+
 For Subcutaneous or
 
 Intravenous Infusion
@@ -18,15 +20,13 @@ Only
 
 Sterile
 
-20 mL Multi-dose Vial
+20 mL
 
-Rx only
+Multi-Dose Vial
 
-SANDOZ
+SANDOZ – A Novartis Division
 
-a Novartis company
-
-# 50 mg per 20 mL Carton
+# 50 mg Carton
 
 NDC 0781-3425-80
 
@@ -38,6 +38,8 @@ Injection
 
 (2.5 mg/mL)
 
+Rx Only
+
 For Subcutaneous or
 
 Intravenous Infusion
@@ -46,15 +48,13 @@ Only
 
 Sterile
 
-20 mL Multi-dose Vial
+20 mL
 
-Rx only
+Multi-Dose Vial
 
-SANDOZ
+SANDOZ – A Novartis Division
 
-a Novartis company
-
-# 100 mg per 20 mL Carton
+# 100 mg Carton
 
 NDC 0781-3427-80
 
@@ -66,6 +66,8 @@ Injection
 
 (5 mg/mL)
 
+Rx Only
+
 For Subcutaneous or
 
 Intravenous Infusion
@@ -74,15 +76,13 @@ Only
 
 Sterile
 
-20 mL Multi-dose Vial
+20 mL
 
-Rx only
+Multi-Dose Vial
 
-SANDOZ
+SANDOZ – A Novartis Division
 
-a Novartis company
-
-# 200 mg per 20 mL Carton
+# 200 mg Carton
 
 NDC 0781-3430-80
 
@@ -94,6 +94,8 @@ Injection
 
 (10 mg/mL)
 
+Rx Only
+
 For Subcutaneous or
 
 Intravenous Infusion
@@ -102,30 +104,32 @@ Only
 
 Sterile
 
-20 mL Multi-dose Vial
+20 mL
 
-Rx only
+Multi-Dose Vial
 
-SANDOZ
-
-a Novartis company
+SANDOZ – A Novartis Division
 
 # Sterile Diluent
 
 NDC 0781-6021-94
 
-Sterile Diluent for
+Sterile Diluent
 
-Treprostinil Injection
+For Treprostinil
 
-Contains drug diluent for use only with
+Injection
 
-intravenous infusion of treprostinil injection
+Contains drug diluent
 
-50 mL Single-dose Vial
+for use only with intravenous
+
+infusion of treprostinil injection.
+
+1 x 50 mL Single-dose Vial
 
 Discard unused portion.
 
 Rx Only
 
-SANDOZ
+SANDOZ – A Novartis Division

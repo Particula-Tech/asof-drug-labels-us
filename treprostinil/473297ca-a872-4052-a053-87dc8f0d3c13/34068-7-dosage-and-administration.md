@@ -50,7 +50,7 @@ Treprostinil injection is administered by subcutaneous or intravenous infusion a
 
 For administration of Undiluted Treprostinil Injection the rate is calculated using the following formula:
 
-| Undiluted Infusion Rate (mL/hr) | = | Dose(ng/kg/min) | × | Weight(kg) | × | 0.00006 Conversion factor of 0.00006 = 60 min/hour x 0.000001 mg/ng |
+| Undiluted Infusion Rate (mL/hr) | = | Dose(ng/kg/min) | × | Weight(kg) | × | 0.00006Conversion factor of 0.00006 = 60 min/hour x 0.000001 mg/ng |
 | --- | --- | --- | --- | --- | --- | --- |
 | Treprostinil Injection Vial Strength (mg/mL) |  |  |  |  |  |  |
 

@@ -6,8 +6,8 @@ Risk Summary
 
 Limited case reports of treprostinil use in pregnant women are insufficient to inform a drug- associated risk of adverse developmental outcomes.
 However, there are risks to the mother and the fetus associated with pulmonary arterial hypertension (see Clinical Considerations).
-In animal studies, no adverse reproductive and developmental effects were seen in rats at about 123 and 48 times the human exposure based on C max and AUC, respectively.
-In rabbits, external fetal and soft tissue malformations and skeletal malformations were observed at about 7 and 5 times the human exposure based on C max and AUC, respectively (see Data).
+In animal studies, no adverse reproductive and developmental effects were seen in rats at about 123 and 48 times the human exposure based on Cmax and AUC, respectively.
+In rabbits, external fetal and soft tissue malformations and skeletal malformations were observed at about 7 and 5 times the human exposure based on Cmax and AUC, respectively (see Data).
 
 The estimated background risk of major birth defects and miscarriage for the indicated populations is unknown.
 All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
@@ -28,7 +28,7 @@ In rats, continuous subcutaneous infusion of treprostinil from implantation to t
 In studies with orally administered treprostinil diolamine, no adverse effect doses for fetal viability/growth, fetal development (teratogenicity), and postnatal development were determined in rats.
 In pregnant rats, no evidence of harm to the fetus was observed following oral administration of treprostinil diolamine at the highest dose tested (20 mg/kg/day), which represents about 123 and 48 times the human exposure, when based on Cmax and AUC of the average subcutaneous infusion rate achieved in clinical trials, respectively.
 In pregnant rabbits, external fetal and soft tissue malformations and fetal skeletal malformation occurred.
-The dose at which no adverse effects were seen (0.5 mg/kg/day) represents about 7 and 5 times the human exposure, when based on C max and AUC of the average subcutaneous infusion rate achieved in clinical trials, respectively.
+The dose at which no adverse effects were seen (0.5 mg/kg/day) represents about 7 and 5 times the human exposure, when based on Cmax and AUC of the average subcutaneous infusion rate achieved in clinical trials, respectively.
 No treprostinil treatment-related effects on labor and delivery were seen in animal studies.
 Animal reproduction studies are not always predictive of human response.
 

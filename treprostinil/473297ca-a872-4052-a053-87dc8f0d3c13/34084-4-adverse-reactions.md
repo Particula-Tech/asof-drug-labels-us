@@ -19,7 +19,7 @@ Table 3: Percentages of Subjects Reporting Subcutaneous Infusion Site Adverse Ev
 | --- | --- | --- | --- | --- |
 |  | Reaction |  | Pain |  |
 | Severe | 1 | 38 | 2 | 39 |
-| Requiring narcotics based on prescriptions for narcotics, not actual use | NA medications used to treat infusion site pain were not distinguished from those used to treat site reactions | NA | 1 | 32 |
+| Requiring narcoticsbased on prescriptions for narcotics, not actual use | NAmedications used to treat infusion site pain were not distinguished from those used to treat site reactions | NA | 1 | 32 |
 | Leading to discontinuation | 0 | 3 | 0 | 7 |
 
 Other adverse events included diarrhea, jaw pain, edema, vasodilatation and nausea, and these are generally considered to be related to the pharmacologic effects of treprostinil injection, whether administered subcutaneously or intravenously.

@@ -10,13 +10,11 @@ Inform patients and their caregivers to seek medical attention if they experienc
 
 The brands listed are trademarks of their respective owners and are not trademarks of Sandoz Inc.
 
-Manufactured in Canada by
-
-Sandoz Canada Inc. for
+Distributed by
 
 Sandoz Inc., Princeton, NJ 08540
 
 Rev.
-October 2018
+April 2019
 
-46239247
+46239048

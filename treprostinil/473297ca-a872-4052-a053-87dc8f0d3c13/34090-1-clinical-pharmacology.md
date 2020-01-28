@@ -50,18 +50,18 @@ Based on in vitro studies treprostinil does not inhibit or induce major CYP enzy
 
 #### Hepatic Insufficiency
 
-In patients with portopulmonary hypertension and mild (n=4) or moderate (n=5) hepatic insufficiency, treprostinil injection at a subcutaneous dose of 10 ng/kg/min for 150 minutes had a C max that was 2-fold and 4-fold, respectively, and an AUC 0-∞ that was 3-fold and 5-fold, respectively, values observed in healthy subjects.
+In patients with portopulmonary hypertension and mild (n=4) or moderate (n=5) hepatic insufficiency, treprostinil injection at a subcutaneous dose of 10 ng/kg/min for 150 minutes had a Cmax that was 2-fold and 4-fold, respectively, and an AUC0-∞ that was 3-fold and 5-fold, respectively, values observed in healthy subjects.
 Clearance in patients with hepatic insufficiency was reduced by up to 80% compared to healthy adults.
 
 #### Renal Impairment
 
-In patients with severe renal impairment requiring dialysis (n=8), administration of a single 1 mg dose of orally administered treprostinil pre- and post-dialysis resulted in an AUC 0-inf that was not significantly altered compared to healthy subjects.
+In patients with severe renal impairment requiring dialysis (n=8), administration of a single 1 mg dose of orally administered treprostinil pre- and post-dialysis resulted in an AUC0-inf that was not significantly altered compared to healthy subjects.
 
 #### Drug Interaction Studies
 
 Effect of CYP2C8 Inhibitors and Inducers on Treprostinil
 
-Co-administration of an oral formulation of treprostinil (treprostinil diolamine) with gemfibrozil (600 mg twice a day), a CYP2C8 enzyme inhibitor, doubles the AUC and C max of treprostinil in healthy adults.
+Co-administration of an oral formulation of treprostinil (treprostinil diolamine) with gemfibrozil (600 mg twice a day), a CYP2C8 enzyme inhibitor, doubles the AUC and Cmax of treprostinil in healthy adults.
 Co-administration of an oral formulation of treprostinil (treprostinil diolamine) with rifampin (600 mg/day), a CYP2C8 enzyme inducer, decreases AUC of treprostinil by 22%.
 
 Effect of Treprostinil on Cytochrome P450 Enzymes
