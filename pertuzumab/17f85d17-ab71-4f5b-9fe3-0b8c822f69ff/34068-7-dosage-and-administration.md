@@ -14,12 +14,14 @@ The initial dose of PERJETA is 840 mg administered as a 60-minute intravenous in
 
 When administered with PERJETA, the recommended initial dose of trastuzumab is 8 mg/kg administered as a 90-minute intravenous infusion, followed every 3 weeks by a dose of 6 mg/kg administered as an intravenous infusion over 30 to 90 minutes.
 
-PERJETA, trastuzumab, and taxane should be administered sequentially.
-PERJETA and trastuzumab can be given in any order.
-Taxane should be administered after PERJETA and trastuzumab.
-An observation period of 30 to 60 minutes is recommended after each PERJETA infusion and before commencement of any subsequent infusion of trastuzumab or taxane [see Warnings and Precautions (5.3)].
+When administered with PERJETA, the recommended initial dose of Herceptin Hylecta is 600 mg/10,000 units (600 mg trastuzumab and 10,000 units hyaluronidase) administered subcutaneously over approximately 2-5 minutes once every three weeks irrespective of the patient's body weight.
 
-In patients receiving an anthracycline-based regimen, PERJETA and trastuzumab should be administered following completion of the anthracycline.
+PERJETA, trastuzumab or Herceptin Hylecta, and taxane should be administered sequentially.
+PERJETA and trastuzumab or Herceptin Hylecta can be given in any order.
+Taxane should be administered after PERJETA and trastuzumab or Herceptin Hylecta.
+An observation period of 30 to 60 minutes is recommended after each PERJETA infusion and before commencement of any subsequent administration of trastuzumab or Herceptin Hylecta, or taxane [see Warnings and Precautions (5.3)].
+
+In patients receiving an anthracycline-based regimen, PERJETA and trastuzumab or Herceptin Hylecta should be administered following completion of the anthracycline.
 
 Metastatic Breast Cancer (MBC)
 
@@ -30,25 +32,30 @@ Neoadjuvant Treatment of Breast Cancer
 
 PERJETA should be administered every 3 weeks for 3 to 6 cycles as part of one of the following treatment regimens for early breast cancer [see Clinical Studies (14.2)]:
 
-- Four preoperative cycles of PERJETA in combination with trastuzumab and docetaxel followed by 3 postoperative cycles of fluorouracil, epirubicin, and cyclophosphamide (FEC) as given in NeoSphere
-- Three or four preoperative cycles of FEC alone followed by 3 or 4 preoperative cycles of PERJETA in combination with docetaxel and trastuzumab as given in TRYPHAENA and BERENICE, respectively
-- Six preoperative cycles of PERJETA in combination with docetaxel, carboplatin, and trastuzumab (TCH) (escalation of docetaxel above 75 mg/m2 is not recommended) as given in TRYPHAENA
-- Four preoperative cycles of dose-dense doxorubicin and cyclophosphamide (ddAC) alone followed by 4 preoperative cycles of PERJETA in combination with paclitaxel and trastuzumab as given in BERENICE
+- Four preoperative cycles of PERJETA in combination with trastuzumab or Herceptin Hylecta and docetaxel followed by 3 postoperative cycles of fluorouracil, epirubicin, and cyclophosphamide (FEC) as given in NeoSphere
+- Three or four preoperative cycles of FEC alone followed by 3 or 4 preoperative cycles of PERJETA in combination with docetaxel and trastuzumab or Herceptin Hylecta as given in TRYPHAENA and BERENICE, respectively
+- Six preoperative cycles of PERJETA in combination with docetaxel, carboplatin, and trastuzumab (TCH) or Herceptin Hylecta (escalation of docetaxel above 75 mg/m2 is not recommended) as given in TRYPHAENA
+- Four preoperative cycles of dose-dense doxorubicin and cyclophosphamide (ddAC) alone followed by 4 preoperative cycles of PERJETA in combination with paclitaxel and trastuzumab or Herceptin Hylecta as given in BERENICE
 
-Following surgery, patients should continue to receive PERJETA and trastuzumab to complete 1 year of treatment (up to 18 cycles).
+Following surgery, patients should continue to receive PERJETA and trastuzumab or Herceptin Hylecta to complete 1 year of treatment (up to 18 cycles).
 
 Adjuvant Treatment of Breast Cancer
 
-PERJETA should be administered in combination with trastuzumab every 3 weeks for a total of 1 year (up to 18 cycles) or until disease recurrence or unmanageable toxicity, whichever occurs first, as part of a complete regimen for early breast cancer, including standard anthracycline- and/or taxane-based chemotherapy as given in APHINITY.
-PERJETA and trastuzumab should start on Day 1 of the first taxane-containing cycle [see Clinical Studies (14.3)].
+PERJETA should be administered in combination with trastuzumab or Herceptin Hylecta every 3 weeks for a total of 1 year (up to 18 cycles) or until disease recurrence or unmanageable toxicity, whichever occurs first, as part of a complete regimen for early breast cancer, including standard anthracycline- and/or taxane-based chemotherapy as given in APHINITY.
+PERJETA and trastuzumab or Herceptin Hylecta should start on Day 1 of the first taxane-containing cycle [see Clinical Studies (14.3)].
 
 ## 2.3 Dose Modification
 
-For delayed or missed doses, if the time between two sequential infusions is less than 6 weeks, the 420 mg dose of PERJETA should be administered.
-Do not wait until the next planned dose.
-If the time between two sequential infusions is 6 weeks or more, the initial dose of 840 mg PERJETA should be re-administered as a 60-minute intravenous infusion followed every 3 weeks thereafter by a dose of 420 mg administered as an intravenous infusion over 30 to 60 minutes.
+For recommendations on delayed or missed doses, please refer to Table 1.
 
-PERJETA should be discontinued if trastuzumab treatment is discontinued.
+Table 1 Recommendations regarding delayed or missed doses
+
+| Time between two sequential doses | Perjeta | Trastuzumab | Herceptin Hylecta |
+| --- | --- | --- | --- |
+| < 6 weeks | The 420 mg dose of Perjeta IV should be administered as soon as possible. Do not wait until the next planned dose. | The 6 mg/kg dose of trastuzumab IV should be administered as soon as possible. Do not wait until the next planned dose. | The fixed dose of 600 mg Herceptin Hylecta should be administered as soon as possible. Do not wait until the next planned dose. |
+| ≥ 6 weeks | The loading dose of 840 mg Perjeta IV should be re-administered as a 60 minute infusion, followed by a maintenance dose of 420 mg IV administered over a period of 30 to 60 minutes every 3 weeks thereafter. | The loading dose of 8 mg/kg of trastuzumab IV should be re- administered over approximately 90 minutes, followed by a maintenance dose of 6 mg/kg IV administered over a period of 30 or 90 minutes every 3 weeks thereafter. |  |
+
+PERJETA should be discontinued if trastuzumab or Herceptin Hylecta treatment is discontinued.
 
 Dose reductions are not recommended for PERJETA.
 
@@ -56,16 +63,16 @@ For chemotherapy dose modifications, see relevant prescribing information.
 
 Left Ventricular Ejection Fraction (LVEF):
 
-Assess left ventricular ejection fraction (LVEF) prior to initiation of PERJETA and at regular intervals during treatment as indicated in Table 1.
-The recommendations on dose modifications in the event of LVEF dysfunction are also indicated in Table 1 [see Warnings and Precautions (5.1)].
+Assess left ventricular ejection fraction (LVEF) prior to initiation of PERJETA and at regular intervals during treatment as indicated in Table 2.
+The recommendations on dose modifications in the event of LVEF dysfunction are also indicated in Table 2 [see Warnings and Precautions (5.1)].
 
-Table 1 Dose Modifications for Left Ventricular Dysfunction
+Table 2 Dose Modifications for Left Ventricular Dysfunction
 
-|  | Pre-treatment LVEF: | Monitor LVEF every: | Withhold PERJETA and trastuzumab for at least 3 weeks for an LVEF decrease to: |  | Resume PERJETA and trastuzumab after 3 weeks if LVEF has recovered to: |  |
+|  | Pre-treatment LVEF: | Monitor LVEF every: | Withhold PERJETA and trastuzumab or Herceptin Hylecta for at least 3 weeks for an LVEF decrease to: |  | Resume PERJETA and trastuzumab or Herceptin Hylecta after 3 weeks if LVEF has recovered to: |  |
 | --- | --- | --- | --- | --- | --- | --- |
 | Metastatic Breast Cancer | ≥ 50% | ~12 weeks | Either |  | Either |  |
 | <40% | 40%-45% with a fall of ≥10%-points below pre-treatment value | >45% | 40%-45% with a fall of <10%-points below pre-treatment value |  |  |  |
-| Early Breast Cancer | ≥ 55%For patients receiving anthracycline-based chemotherapy, a LVEF of ≥ 50% is required after completion of anthracyclines, before starting PERJETA and trastuzumab | ~12 weeks (once during neoadjuvant therapy) | <50% with a fall of ≥10%-points below pre-treatment value |  | Either |  |
+| Early Breast Cancer | ≥ 55%For patients receiving anthracycline-based chemotherapy, a LVEF of ≥ 50% is required after completion of anthracyclines, before starting PERJETA and trastuzumab or Herceptin Hylecta | ~12 weeks (once during neoadjuvant therapy) | <50% with a fall of ≥10%-points below pre-treatment value |  | Either |  |
 | ≥50% | <10% points below pre-treatment value |  |  |  |  |  |
 
 Infusion-Related Reactions

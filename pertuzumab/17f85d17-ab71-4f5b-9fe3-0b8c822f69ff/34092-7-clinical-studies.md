@@ -36,11 +36,11 @@ In the subgroup of patients with hormone receptor-positive disease (n=388), the 
 In the subgroup of patients with disease limited to non-visceral metastasis (n=178), the hazard ratio was 0.96 (95% CI: 0.61, 1.52).
 
 At the time of the final PFS analysis, 165 patients had died, and more deaths had occurred in the placebo-treated group (23.6%) compared with the PERJETA-treated group (17.2%); OS was not mature and interim OS analysis results did not meet the pre-specified stopping boundary for statistical significance.
-The final analysis of OS (Table 7, Figure 2) was performed when 389 patients had died (221 in the placebo-treated group and 168 in the PERJETA-treated group).
+The final analysis of OS (Table 8, Figure 2) was performed when 389 patients had died (221 in the placebo-treated group and 168 in the PERJETA-treated group).
 A statistically significant OS improvement in favor of the PERJETA-treated group was demonstrated [HR=0.68 (95% CI; 0.56, 0.84), p=0.0002] with an increase in median OS of 15.7 months (median OS of 56.5 months in the PERJETA-treated group vs. 40.8 months in the placebo-treated group).
 OS results in patient subgroups were consistent with those observed for IRF-assessed PFS with the exception of the subgroup of patients with disease limited to non-visceral metastasis [HR=1.11 (95% CI: 0.66, 1.85)].
 
-Table 7 Summary of Efficacy from CLEOPATRA
+Table 8 Summary of Efficacy from CLEOPATRA
 
 | Parameter | PERJETA + trastuzumab + docetaxel n=402 | Placebo + trastuzumab + docetaxel n=406 | HR (95% CI) | p-value |
 | --- | --- | --- | --- | --- |
@@ -83,11 +83,11 @@ Demographics were well balanced (median age was 49 – 50 years old, the majorit
 Overall, 7% of patients had inflammatory cancer, 32% had locally advanced cancer, and 61% had operable cancer.
 Approximately half the patients in each treatment group had hormone receptor-positive disease (defined as ER-positive and/or PgR-positive).
 
-The efficacy results are summarized in Table 8.
+The efficacy results are summarized in Table 9.
 Statistically significant improvements in pCR rates by both the study and FDA-preferred definitions were observed in patients receiving PERJETA plus trastuzumab and docetaxel compared to patients receiving trastuzumab plus docetaxel.
 The pCR rates and magnitude of improvement with PERJETA were lower in the subgroup of patients with hormone receptor-positive tumors compared to patients with hormone receptor-negative tumors.
 
-Table 8 Summary of Efficacy from NeoSphere
+Table 9 Summary of Efficacy from NeoSphere
 
 | Endpoint/Study Population | H+T | Ptz+H+T | Ptz+H | Ptz+T |
 | --- | --- | --- | --- | --- |
@@ -171,9 +171,9 @@ Seventy-eight percent received an anthracycline containing regimen.
 
 PERJETA-treated patients and placebo-treated patients both received a median number of 18 cycles of anti-HER2 therapy.
 After a median follow-up of 45.4 months, a statistically significant improvement in IDFS was demonstrated in patients randomized to receive PERJETA compared with patients randomized to receive placebo.
-The efficacy results from APHINITY are summarized in Tables 9 and 10 and in Figure 3.
+The efficacy results from APHINITY are summarized in Tables 10 and 11 and in Figure 3.
 
-Table 9 Efficacy Results from APHINITY
+Table 10 Efficacy Results from APHINITY
 
 |  | PERJETA + trastuzumab + chemotherapy N=2400 | Placebo + trastuzumab + chemotherapy N=2404 |
 | --- | --- | --- |
@@ -198,7 +198,7 @@ Table 9 Efficacy Results from APHINITY
 
 Figure 3 Kaplan-Meier Curve of Invasive Disease Free Survival from APHINITY (ITT Population)
 
-Table 10 Efficacy Results by Baseline Disease Characteristics and Adjuvant Chemotherapy from APHINITYExploratory analyses without adjusting multiple comparisons, therefore, results are considered descriptive.
+Table 11 Efficacy Results by Baseline Disease Characteristics and Adjuvant Chemotherapy from APHINITYExploratory analyses without adjusting multiple comparisons, therefore, results are considered descriptive.
 
 | PERJETA + trastuzumab + chemotherapy | Placebo + trastuzumab + chemotherapy | PERJETA + trastuzumab + chemotherapy | Placebo + trastuzumab + chemotherapy |  |  |
 | --- | --- | --- | --- | --- | --- |

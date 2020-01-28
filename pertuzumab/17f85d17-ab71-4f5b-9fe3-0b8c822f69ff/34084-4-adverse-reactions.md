@@ -13,14 +13,14 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 
 Metastatic Breast Cancer (MBC)
 
-The adverse reactions described in Table 2 were identified in 804 patients with HER2-positive metastatic breast cancer treated in CLEOPATRA.
+The adverse reactions described in Table 3 were identified in 804 patients with HER2-positive metastatic breast cancer treated in CLEOPATRA.
 Patients were randomized to receive either PERJETA in combination with trastuzumab and docetaxel or placebo in combination with trastuzumab and docetaxel.
 The median duration of study treatment was 18.1 months for patients in the PERJETA-treated group and 11.8 months for patients in the placebo-treated group.
 No dose adjustment was permitted for PERJETA or trastuzumab.
 Adverse reactions resulting in permanent discontinuation of all study therapy were 6% in the PERJETA-treated group and 5% for patients in the placebo-treated group.
 The most common adverse reactions (>1%) that led to discontinuation of all study therapy was left ventricular dysfunction (1% for patients in the PERJETA-treated group and 2% for patients in the placebo-treated group).
 The most common adverse reactions that led to discontinuation of docetaxel alone were edema, fatigue, edema peripheral, neuropathy peripheral, neutropenia, nail disorder and pleural effusion.
-Table 2 reports the adverse reactions that occurred in at least 10% of patients in the PERJETA-treated group.
+Table 3 reports the adverse reactions that occurred in at least 10% of patients in the PERJETA-treated group.
 The safety profile of PERJETA remained unchanged with an additional 2.75 years of follow-up (median total follow-up of 50 months) in CLEOPATRA.
 
 The most common adverse reactions (> 30%) seen with PERJETA in combination with trastuzumab and docetaxel were diarrhea, alopecia, neutropenia, nausea, fatigue, rash, and peripheral neuropathy.
@@ -28,7 +28,7 @@ The most common NCI - CTCAE v3.0 Grade 3 – 4 adverse reactions (> 2%) were neu
 An increased incidence of febrile neutropenia was observed for Asian patients in both treatment arms compared with patients of other races and from other geographic regions.
 Among Asian patients, the incidence of febrile neutropenia was higher in the pertuzumab-treated group (26%) compared with the placebo-treated group (12%).
 
-Table 2 Summary of Adverse Reactions Occurring in ≥ 10% of Patients on the PERJETA Treatment Arm in CLEOPATRA
+Table 3 Summary of Adverse Reactions Occurring in ≥ 10% of Patients on the PERJETA Treatment Arm in CLEOPATRA
 
 |  | All Grades % | Grades 3 – 4 % | All Grades % | Grades 3 – 4 % |
 | --- | --- | --- | --- | --- |
@@ -91,9 +91,9 @@ In NeoSphere, the most common adverse reactions seen with PERJETA in combination
 The most common adverse reactions (> 30%) were alopecia, neutropenia, diarrhea, and nausea.
 The most common NCI – CTCAE v3.0 Grade 3 – 4 adverse reactions (> 2%) were neutropenia, febrile neutropenia, leukopenia, and diarrhea.
 In this group, one patient permanently discontinued neoadjuvant treatment due to an adverse event.
-Table 3 reports the adverse reactions that occurred in patients who received neoadjuvant treatment with PERJETA for breast cancer in NeoSphere.
+Table 4 reports the adverse reactions that occurred in patients who received neoadjuvant treatment with PERJETA for breast cancer in NeoSphere.
 
-Table 3 Summary of Adverse Reactions Occurring in ≥ 10% in the Neoadjuvant Setting for Patients Receiving PERJETA in NeoSphere
+Table 4 Summary of Adverse Reactions Occurring in ≥ 10% in the Neoadjuvant Setting for Patients Receiving PERJETA in NeoSphere
 
 |  | All Grades % | Grades 3 – 4 % | All Grades % | Grades 3 – 4 % | All Grades % | Grades 3 – 4 % | All Grades % | Grades 3 – 4 % |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -147,9 +147,9 @@ The most common NCI-CTCAE (version 3) Grade 3 – 4 adverse reactions (> 2%) wer
 
 Adverse reactions resulting in permanent discontinuation of any component of neoadjuvant treatment occurred in 7% of patients receiving PERJETA in combination with trastuzumab and docetaxel following FEC, and 8% for patients receiving PERJETA in combination with TCH.
 The most common adverse reactions (>2%) resulting in permanent discontinuation of PERJETA were left ventricular dysfunction, drug hypersensitivity, and neutropenia.
-Table 4 reports the adverse reactions that occurred in patients who received neoadjuvant treatment with PERJETA for breast cancer in TRYPHAENA.
+Table 5 reports the adverse reactions that occurred in patients who received neoadjuvant treatment with PERJETA for breast cancer in TRYPHAENA.
 
-Table 4 Summary of Adverse Reactions Occurring in ≥ 10% of Patients Receiving Neoadjuvant Treatment with PERJETA in TRYPHAENA
+Table 5 Summary of Adverse Reactions Occurring in ≥ 10% of Patients Receiving Neoadjuvant Treatment with PERJETA in TRYPHAENA
 
 |  | All Grades % | Grades 3 – 4 % | All Grades % | Grades 3 – 4 % | All Grades % | Grades 3 – 4 % |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -221,9 +221,9 @@ The most common Grade 3 – 4 adverse reactions (> 2%) were febrile neutropenia,
 
 Adverse reactions resulting in permanent discontinuation of any component of neoadjuvant treatment were 14% for patients receiving PERJETA in combination with trastuzumab and paclitaxel following ddAC and 8% for patients receiving PERJETA in combination with trastuzumab and docetaxel following FEC.
 The most common adverse reactions (>1%) resulting in permanent discontinuation of any component of neoadjuvant treatment were neuropathy peripheral, ejection fraction decreased, diarrhea, neutropenia and infusion related reaction.
-Table 5 reports the adverse reactions that occurred in patients who received neoadjuvant treatment with PERJETA for breast cancer in BERENICE.
+Table 6 reports the adverse reactions that occurred in patients who received neoadjuvant treatment with PERJETA for breast cancer in BERENICE.
 
-Table 5 Summary of Adverse Reactions Occurring in ≥ 10% of Patients Receiving Neoadjuvant Treatment with PERJETA in BERENICE
+Table 6 Summary of Adverse Reactions Occurring in ≥ 10% of Patients Receiving Neoadjuvant Treatment with PERJETA in BERENICE
 
 |  | All Grades % | Grades 3 – 4 % | All Grades % | Grades 3 – 4 % |
 | --- | --- | --- | --- | --- |
@@ -297,13 +297,13 @@ Infections and infestations: Upper respiratory tract infection (7% in the ddAC/P
 
 Adjuvant Treatment of Breast Cancer (APHINITY)
 
-The adverse reactions described in Table 6 were identified in 4769 patients with HER2-positive early breast cancer treated in APHINITY.
+The adverse reactions described in Table 7 were identified in 4769 patients with HER2-positive early breast cancer treated in APHINITY.
 Patients were randomized to receive either PERJETA in combination with trastuzumab and chemotherapy or placebo in combination with trastuzumab and chemotherapy.
 
 Adverse reactions resulting in permanent discontinuation of any study therapy were 13% for patients in the PERJETA-treated group and 12% for patients in the placebo-treated group.
 Adverse reactions resulting in permanent discontinuation of PERJETA or placebo was 7% and 6%, respectively.
 The most common adverse reactions (>0.5%) resulting in permanent discontinuation of any study treatment were ejection fraction decreased, neuropathy peripheral, diarrhea, and cardiac failure.
-Table 6 reports the adverse reactions that occurred in at least 10% of patients in the PERJETA-treated group.
+Table 7 reports the adverse reactions that occurred in at least 10% of patients in the PERJETA-treated group.
 
 When PERJETA was administered in combination with trastuzumab and chemotherapy, the most common adverse reactions (> 30%) were diarrhea, nausea, alopecia, fatigue, peripheral neuropathy, and vomiting.
 The most common Grade 3 – 4 adverse reactions (> 2%) were neutropenia, febrile neutropenia, diarrhea, neutrophil count decreased, anemia, white blood cell count decreased, leukopenia, fatigue, nausea, and stomatitis.
@@ -314,7 +314,7 @@ The median duration of all Grades diarrhea was 8 days for the PERJETA-treated gr
 The median duration of Grade ≥3 diarrhea was 20 days for the PERJETA-treated group vs. 8 days for the placebo-treated group.
 More patients required hospitalization for diarrhea as a serious adverse event in the PERJETA-treated group (2.4%) than in the placebo-treated group (0.7%).
 
-Table 6 Summary of Adverse Reactions Occurring in ≥ 10% of Patients Receiving Adjuvant Treatment with PERJETA in APHINITY
+Table 7 Summary of Adverse Reactions Occurring in ≥ 10% of Patients Receiving Adjuvant Treatment with PERJETA in APHINITY
 
 |  | All Grades % | Grades 3 – 4 % | All Grades % | Grades 3 – 4 % |
 | --- | --- | --- | --- | --- |
