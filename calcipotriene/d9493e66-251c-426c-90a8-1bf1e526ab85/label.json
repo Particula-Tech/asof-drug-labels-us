@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA021852"
+  ],
+  "inn": "calcipotriene",
+  "labeler": "Prasco Laboratories",
+  "package_ndcs": [
+    "66993-938-61",
+    "66993-938-65"
+  ],
+  "products": [
+    {
+      "form": "OINTMENT",
+      "generic": "calcipotriene and betamethasone dipropionate",
+      "name": "Calcipotriene and Betamethasone Dipropionate"
+    }
+  ],
+  "setid": "d9493e66-251c-426c-90a8-1bf1e526ab85",
+  "source": "dailymed"
+}
