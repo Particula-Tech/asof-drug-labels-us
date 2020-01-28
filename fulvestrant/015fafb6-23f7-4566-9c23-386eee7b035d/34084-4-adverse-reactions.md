@@ -370,7 +370,7 @@ Table 10: Laboratory Abnormalities Occurring in ≥10% of Patients in MONALEESA-
 | Platelet count decreased | 33 | <1 | 1 | 11 | 0 | 0 |
 | Chemistry |  |  |  |  |  |  |
 | Creatinine increased | 65 | <1 | <1 | 33 | <1 | 0 |
-| Gamma-glutamyl transferase | 52 | 6 | 1 | 49 | 8 | 2 |
+| Gamma-glutamyl transferase increased | 52 | 6 | 1 | 49 | 8 | 2 |
 | Aspartate aminotransferase increased | 49 | 5 | 2 | 43 | 3 | 0 |
 | Alanine aminotransferase increased | 44 | 8 | 3 | 37 | 2 | 0 |
 | Glucose serum decreased | 23 | 0 | 0 | 18 | 0 | 0 |
