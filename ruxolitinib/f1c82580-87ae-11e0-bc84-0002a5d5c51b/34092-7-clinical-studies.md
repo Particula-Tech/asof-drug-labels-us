@@ -134,7 +134,7 @@ Of the 25 patients who achieved a primary response at Week 32, 19 (76% of the re
 In an assessment of the individual components that make up the primary endpoint, there were 66 (60%) patients with hematocrit control on the Jakafi arm vs. 21 (19%) patients on best available therapy at Week 32; 51 (77% of hematocrit responders) patients on the Jakafi arm maintained hematocrit control through Week 80.
 There were 44 (40%) patients with spleen volume reduction from baseline greater than or equal to 35% on the Jakafi arm vs. 1 (<1%) patient on best available therapy at Week 32; 43 (98% of spleen volume reduction responders) patients on the Jakafi arm maintained spleen volume reduction through Week 80.
 
-## 14.3 Acute Graft Versus Host Disease
+## 14.3 Acute Graft-Versus-Host Disease
 
 Study 4 (NCT02953678) was an open-label, single-arm, multicenter study of Jakafi for treatment of patients with steroid-refractory acute GVHD Grades 2 to 4 (Mount Sinai Acute GVHD International Consortium (MAGIC) criteria) occurring after allogeneic hematopoietic stem cell transplantation.
 Jakafi was administered at 5 mg twice daily, and the dose could be increased to 10 mg twice daily after 3 days in the absence of toxicity.

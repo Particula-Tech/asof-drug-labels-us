@@ -23,9 +23,9 @@ The three most frequent nonhematologic adverse reactions were bruising, dizzines
 
 Discontinuation for adverse events, regardless of causality, was observed in 11% of patients treated with Jakafi and 11% of patients treated with placebo.
 
-Table 11 presents the most common adverse reactions occurring in patients who received Jakafi in the double-blind, placebo-controlled study during randomized treatment.
+Table 11 presents the most common nonhematologic adverse reactions occurring in patients who received Jakafi in the double-blind, placebo-controlled study during randomized treatment.
 
-Table 11: Myelofibrosis: Adverse Reactions Occurring in Patients on Jakafi in the Double-blind, Placebo-controlled Study During Randomized Treatment
+Table 11: Myelofibrosis: Nonhematologic Adverse Reactions Occurring in Patients on Jakafi in the Double-blind, Placebo-controlled Study During Randomized Treatment
 
 |  | Jakafi (N=155) |  |  | Placebo (N=151) |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -65,7 +65,7 @@ In the two Phase 3 clinical studies, 1% of patients reduced or stopped Jakafi be
 
 Table 12 provides the frequency and severity of clinical hematology abnormalities reported for patients receiving treatment with Jakafi or placebo in the placebo-controlled study.
 
-Table 12: Myelofibrosis: Worst Hematology Laboratory Abnormalities in the Placebo-Controlled Study*
+Table 12: Myelofibrosis: Worst Hematology Laboratory Abnormalities in the Placebo-Controlled StudyPresented values are worst Grade values regardless of baseline
 
 |  | Jakafi (N=155) |  |  | Placebo (N=151) |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -88,44 +88,33 @@ Additional Data from the Placebo-Controlled Study
 ## 6.2 Clinical Trial Experience in Polycythemia Vera
 
 In a randomized, open-label, active-controlled study, 110 patients with PV resistant to or intolerant of hydroxyurea received Jakafi and 111 patients received best available therapy [see Clinical Studies (14.2)].
-The most frequent adverse drug reaction was anemia.
+The most frequent adverse reaction was anemia.
 Discontinuation for adverse events, regardless of causality, was observed in 4% of patients treated with Jakafi.
-Table 13 presents the most frequent nonhematologic treatment emergent adverse events occurring up to Week 32.
+Table 13 presents the most frequent nonhematologic adverse reactions occurring up to Week 32.
 
-Table 13: Polycythemia Vera: Treatment Emergent Adverse Events Occurring in ≥ 6% of Patients on Jakafi in the Open-Label, Active-controlled Study up to Week 32 of Randomized Treatment
+Table 13: Polycythemia Vera: Nonhematologic Adverse Reactions Occurring in ≥ 5% of Patients on Jakafi in the Open-Label, Active-controlled Study up to Week 32 of Randomized Treatment
 
 |  | Jakafi (N=110) |  | Best Available Therapy (N=111) |  |
 | --- | --- | --- | --- | --- |
-| Adverse Events | All GradesNational Cancer Institute Common Terminology Criteria for Adverse Events (CTCAE), version 3.0 (%) | Grade 3-4 (%) | All Grades (%) | Grade 3-4 (%) |
-| Headache | 16 | <1 | 19 | <1 |
-| Abdominal Painincludes abdominal pain, abdominal pain lower, and abdominal pain upper | 15 | <1 | 15 | <1 |
+| Adverse Reactions | All GradesNational Cancer Institute Common Terminology Criteria for Adverse Events (CTCAE), version 3.0 (%) | Grade 3-4 (%) | All Grades (%) | Grade 3-4 (%) |
 | Diarrhea | 15 | 0 | 7 | <1 |
 | Dizzinessincludes dizziness and vertigo | 15 | 0 | 13 | 0 |
-| Fatigue | 15 | 0 | 15 | 3 |
-| Pruritus | 14 | <1 | 23 | 4 |
 | Dyspneaincludes dyspnea and dyspnea exertional | 13 | 3 | 4 | 0 |
 | Muscle Spasms | 12 | <1 | 5 | 0 |
-| Nasopharyngitis | 9 | 0 | 8 | 0 |
 | Constipation | 8 | 0 | 3 | 0 |
-| Cough | 8 | 0 | 5 | 0 |
-| Edemaincludes edema and peripheral edema | 8 | 0 | 7 | 0 |
-| Arthralgia | 7 | 0 | 6 | <1 |
-| Asthenia | 7 | 0 | 11 | 2 |
-| Epistaxis | 6 | 0 | 3 | 0 |
 | Herpes Zosterincludes herpes zoster and post-herpetic neuralgia | 6 | <1 | 0 | 0 |
 | Nausea | 6 | 0 | 4 | 0 |
-
-Other clinically important treatment emergent adverse events observed in less than 6% of patients treated with Jakafi were:
-
-Weight gain, hypertension, and urinary tract infections
+| Weight Gainincludes weight increased and abnormal weight gain | 6 | 0 | <1 | 0 |
+| Urinary Tract Infectionsincludes urinary tract infection and cystitis | 6 | 0 | 3 | 0 |
+| Hypertension | 5 | <1 | 3 | <1 |
 
 Clinically relevant laboratory abnormalities are shown in Table 14.
 
-Table 14: Polycythemia Vera: Selected Laboratory Abnormalities in the Open-Label, Active-controlled Study up to Week 32 of Randomized TreatmentNational Cancer Institute Common Terminology Criteria for Adverse Events, version 3.0
+Table 14: Polycythemia Vera: Selected Laboratory Abnormalities in the Open-Label, Active-controlled Study up to Week 32 of Randomized TreatmentPresented values are worst Grade values regardless of baseline
 
 |  | Jakafi (N=110) |  |  | Best Available Therapy (N=111) |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| Laboratory Parameter | All Gradesincludes dizziness and vertigo (%) | Grade 3 (%) | Grade 4 (%) | All Grades (%) | Grade 3 (%) | Grade 4 (%) |
+| Laboratory Parameter | All GradesNational Cancer Institute Common Terminology Criteria for Adverse Events, version 3.0 (%) | Grade 3 (%) | Grade 4 (%) | All Grades (%) | Grade 3 (%) | Grade 4 (%) |
 | Hematology |  |  |  |  |  |  |
 | Anemia | 72 | <1 | <1 | 58 | 0 | 0 |
 | Thrombocytopenia | 27 | 5 | <1 | 24 | 3 | <1 |
@@ -146,7 +135,7 @@ An adverse reaction resulting in treatment discontinuation occurred in 31% of pa
 The most common adverse reaction leading to treatment discontinuation was infection (10%).
 Table 15 shows the adverse reactions other than laboratory abnormalities.
 
-Table 15: Acute Graft Versus Host Disease: Nonhematological Adverse Reactions Occurring in ≥ 15% of Patients in the Open-Label, Single-Cohort Study
+Table 15: Acute Graft-Versus-Host Disease: Nonhematologic Adverse Reactions Occurring in ≥ 15% of Patients in the Open-Label, Single-Cohort Study
 
 |  | Jakafi (N=71) |  |
 | --- | --- | --- |
@@ -167,12 +156,12 @@ Table 15: Acute Graft Versus Host Disease: Nonhematological Adverse Reactions Oc
 
 Selected laboratory abnormalities during treatment with Jakafi are shown in Table 16.
 
-Table 16: Acute Graft Versus Host Disease: Selected Laboratory Abnormalities Worsening from Baseline in the Open-Label, Single Cohort Study
+Table 16: Acute Graft-Versus-Host Disease: Selected Laboratory Abnormalities Worsening from Baseline in the Open-Label, Single Cohort Study
 
 |  | Jakafi (N=71) |  |
 | --- | --- | --- |
 |  | Worst grade during treatment |  |
-| Laboratory Parameter | All Grades* (%) | Grade 3-4 (%) |
+| Laboratory Parameter | All GradesNational Cancer Institute Common Terminology Criteria for Adverse Events, version 4.03 (%) | Grade 3-4 (%) |
 | Hematology |  |  |
 | Anemia | 75 | 45 |
 | Thrombocytopenia | 75 | 61 |

@@ -4,7 +4,7 @@ Fluconazole
 
 Concomitant administration of Jakafi with fluconazole doses greater than 200 mg daily may increase ruxolitinib exposure due to inhibition of both the CYP3A4 and CYP2C9 metabolic pathways [see Clinical Pharmacology (12.3)].
 Increased exposure may increase the risk of exposure-related adverse reactions.
-Avoid the concomitant use of Jakafi with fluconazole doses of greater than 200 mg daily except in patients with acute GVHD[see Dosage and Administration (2.4)].
+Avoid the concomitant use of Jakafi with fluconazole doses of greater than 200 mg daily except in patients with acute GVHD [see Dosage and Administration (2.4)].
 
 Strong CYP3A4 inhibitors
 

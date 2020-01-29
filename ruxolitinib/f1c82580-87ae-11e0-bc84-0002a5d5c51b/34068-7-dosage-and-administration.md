@@ -170,7 +170,7 @@ Consider dose increases in patients who meet all of the following conditions:
 3. Hemoglobin greater than or equal to 12 g/dL
 4. ANC greater than or equal to 1.5 X 109/L
 
-## 2.3 Acute Graft Versus Host Disease
+## 2.3 Acute Graft-Versus-Host Disease
 
 The recommended starting dose of Jakafi is 5 mg given orally twice daily.
 Consider increasing the dose to 10 mg twice daily after at least 3 days of treatment if the ANC and platelet counts are not decreased by 50% or more relative to the first day of dosing with Jakafi.
@@ -179,7 +179,7 @@ Tapering of Jakafi may be considered after 6 months of treatment in patients wit
 Taper Jakafi by one dose level approximately every 8 weeks (10 mg twice daily to 5 mg twice daily to 5 mg once daily).
 If acute GVHD signs or symptoms recur during or after the taper of Jakafi, consider retreatment.
 
-Dose Modification Guidelines for Patients with Acute Graft Versus Host Disease
+Dose Modification Guidelines for Patients with Acute Graft-Versus-Host Disease
 
 Evaluate blood parameters before and during treatment with Jakafi.
 Dose reductions should be considered for platelet counts, ANCs or bilirubin value as described in Table 7.

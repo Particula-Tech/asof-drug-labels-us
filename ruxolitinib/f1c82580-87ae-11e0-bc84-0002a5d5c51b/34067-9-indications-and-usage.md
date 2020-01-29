@@ -8,6 +8,6 @@ Jakafi is indicated for treatment of intermediate or high-risk myelofibrosis (MF
 
 Jakafi is indicated for treatment of polycythemia vera (PV) in adults who have had an inadequate response to or are intolerant of hydroxyurea.
 
-## 1.3 Acute Graft Versus Host Disease
+## 1.3 Acute Graft-Versus-Host Disease
 
 Jakafi is indicated for treatment of steroid-refractory acute graft-versus-host disease (GVHD) in adult and pediatric patients 12 years and older.
