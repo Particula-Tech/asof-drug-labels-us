@@ -17,9 +17,11 @@ The adult/adolescent population was 92 female, 110 male and 163 white, 19 black,
 The data from pediatric subjects are based upon 1 clinical trial in which 46 subjects with asthma aged 4 to 11 years were treated with albuterol sulfate HFA 2 inhalations 4 times daily for 2 weeks’ duration.
 The population was 21 female, 25 male and 25 white, 17 black, 3 Hispanic, 1 other.
 
-Adult and Adolescent Subjects Aged 12 Years and Older: The two 12-week, randomized, double-blind trials in 610 adult and adolescent subjects with asthma that compared albuterol sulfate HFA, a CFC 11/12-propelled albuterol inhaler, and an HFA-134a placebo inhaler.
-Overall, the incidence and nature of the adverse reactions reported for albuterol sulfate HFA and a CFC 11/12-propelled albuterol inhaler were comparable.
-Table 1 lists the incidence of all adverse reactions (whether considered by the investigator to be related or unrelated to drug) from these trials that occurred at a rate of 3% or greater in the group treated with albuterol sulfate HFA and more frequently in the group treated with albuterol sulfate HFA than in the HFA-134a placebo inhaler group.
+Adult and Adolescent Subjects Aged 12 Years and Older
+
+The two 12-week, randomized, double-blind trials in 610 adult and adolescent subjects with asthma that compared albuterol sulfate HFA, a CFC 11/12-propelled albuterol inhaler, and an HFA-134a placebo inhaler.
+Overall, the incidence and nature of the adverse reactions reported for albuterol sulfate HFA and a CFC 11/12‑propelled albuterol inhaler were comparable.
+Table 1 lists the incidence of all adverse reactions (whether considered by the investigator to be related or unrelated to drug) from these trials that occurred at a rate of ≥3% in the group treated with albuterol sulfate HFA and more frequently in the group treated with albuterol sulfate HFA than in the HFA-134a placebo inhaler group.
 
 Table 1.
 Adverse Reactions with Albuterol Sulfate HFA with ≥3% Incidence and More Common than Placebo in Adult and Adolescent Subjects
@@ -36,13 +38,15 @@ Adverse Reactions with Albuterol Sulfate HFA with ≥3% Incidence and More Commo
 | Musculoskeletal |  |  |  |
 | Musculoskeletal pain | 5 | 5 | 4 |
 
-Adverse reactions reported by less than 3% of the adult and adolescent subjects receiving albuterol sulfate HFA and by a greater proportion of subjects receiving albuterol sulfate HFA than receiving HFA-134a placebo inhaler and that have the potential to be related to albuterol sulfate HFA include diarrhea, laryngitis, oropharyngeal edema, cough, lung disorders, tachycardia, and extrasystoles.
+Adverse reactions reported by <3% of the adult and adolescent subjects receiving albuterol sulfate HFA and by a greater proportion of subjects receiving albuterol sulfate HFA than receiving HFA-134a placebo inhaler and that have the potential to be related to albuterol sulfate HFA include diarrhea, laryngitis, oropharyngeal edema, cough, lung disorders, tachycardia, and extrasystoles.
 Palpitations and dizziness have also been observed with albuterol sulfate HFA.
 
-Pediatric Subjects Aged 4 to 11 Years: Results from the 2-week clinical trial in pediatric subjects with asthma aged 4 to 11 years showed that this pediatric population had an adverse reaction profile similar to that of the adult and adolescent populations.
+Pediatric Subjects Aged 4 to 11 Years
+
+Results from the 2-week clinical trial in pediatric subjects with asthma aged 4 to 11 years showed that this pediatric population had an adverse reaction profile similar to that of the adult and adolescent populations.
 
 Three trials have been conducted to evaluate the safety and efficacy of albuterol sulfate HFA in subjects between birth and 4 years of age.
-The results of these trials did not establish the efficacy of albuterol sulfate HFA in this age-group [see Use in Specific Populations (8.4)].
+The results of these trials did not establish the efficacy of albuterol sulfate HFA in this age group [see Use in Specific Populations (8.4)].
 Since the efficacy of albuterol sulfate HFA has not been demonstrated in children between birth and 48 months of age, the safety of albuterol sulfate HFA in this age-group cannot be established.
 However, the safety profile observed in the pediatric population younger than 4 years was comparable to that observed in the older pediatric subjects and in adults and adolescents.
 Where adverse reaction incidence rates were greater in subjects younger than 4 years compared with older subjects, the higher incidence rates were noted in all treatment arms, including placebo.

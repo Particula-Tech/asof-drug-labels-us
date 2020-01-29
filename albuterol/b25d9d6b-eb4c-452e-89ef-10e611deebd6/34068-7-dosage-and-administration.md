@@ -13,8 +13,12 @@ For prevention of exercise-induced bronchospasm, the usual dosage for adults and
 
 Albuterol Sulfate HFA should be administered by the orally inhaled route only.
 
-Priming: Priming Albuterol Sulfate HFA is essential to ensure appropriate albuterol content in each actuation.
+Priming
+
+Priming Albuterol Sulfate HFA is essential to ensure appropriate albuterol content in each actuation.
 Prime Albuterol Sulfate HFA before using for the first time, when the inhaler has not been used for more than 2 weeks, or when the inhaler has been dropped.
 To prime Albuterol Sulfate HFA, release 4 sprays into the air away from the face, shaking well before each spray.
 
-Cleaning: To ensure proper dosing and to prevent actuator orifice blockage, wash the actuator with warm water and let it air-dry completely at least once a week.
+Cleaning
+
+To ensure proper dosing and to prevent actuator orifice blockage, wash the actuator with warm water and let it air-dry completely at least once a week.

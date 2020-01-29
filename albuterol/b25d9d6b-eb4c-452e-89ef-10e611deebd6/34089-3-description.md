@@ -9,7 +9,7 @@ It is soluble in water and slightly soluble in ethanol.
 The World Health Organization recommended name for albuterol base is salbutamol.
 
 Albuterol Sulfate HFA is a blue plastic inhaler with a blue strapcap containing a pressurized metered-dose aerosol canister fitted with a counter.
-Each canister contains a microcrystalline suspension of albuterol sulfate in propellant HFA-134a (1,1,1,2-tetrafluoroethane).
+Each canister contains a microcrystalline suspension of albuterol sulfate in propellant HFA‑134a (1,1,1,2‑tetrafluoroethane).
 It contains no other excipients.
 
 After priming, each actuation of the inhaler delivers 120 mcg of albuterol sulfate, USP in 75 mg of suspension from the valve and 108 mcg of albuterol sulfate, USP from the mouthpiece (equivalent to 90 mcg of albuterol base from the mouthpiece).

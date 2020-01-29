@@ -2,7 +2,7 @@
 
 Albuterol Sulfate HFA Inhalation Aerosol is supplied in the following box of 1 as a pressurized aluminum canister fitted with a counter and supplied with a blue plastic actuator with a blue strapcap:
 
-- NDC 66993-019-68 18-g canister containing 200 actuations
+NDC 66993-019-68 18-g canister containing 200 actuations
 
 Each inhaler is sealed in a moisture-protective foil pouch with a desiccant that should be discarded when the pouch is opened.
 Each inhaler is packaged with a Patient Information leaflet.
