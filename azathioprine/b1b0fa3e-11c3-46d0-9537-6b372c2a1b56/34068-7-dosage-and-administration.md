@@ -1,13 +1,5 @@
 # DOSAGE AND ADMINISTRATION
 
-TPMT TESTING CANNOT SUBSTITUTE FOR COMPLETE BLOOD COUNT (CBC) MONITORING IN PATIENTS RECEIVING AZATHIOPRINE TABLETS.
-TPMT genotyping or phenotyping can be used to identify patients with absent or reduced TPMT activity.
-Patients with low or absent TPMT activity are at an increased risk of developing severe, life-threatening myelotoxicity from azathioprine tablets if conventional doses are given.
-Physicians may consider alternative therapies for patients who have low or absent TPMT activity (homozygous for non-functional alleles).
-Azathioprine tablets should be administered with caution to patients having one non-functional allele (heterozygous) who are at risk for reduced TPMT activity that may lead to toxicity if conventional doses are given.
-Dosage reduction is recommended in patients with reduced TPMT activity.
-Early drug discontinuation may be considered in patients with abnormal CBC results that do not respond to dose reduction.
-
 ## Renal Homotransplantation
 
 The dose of azathioprine tablets required to prevent rejection and minimize toxicity will vary with individual patients; this necessitates careful management.
@@ -31,9 +23,23 @@ Maintenance therapy should be at the lowest effective dose, and the dose given c
 The optimum duration of maintenance azathioprine tablets has not been determined.
 Azathioprine tablets can be discontinued abruptly, but delayed effects are possible.
 
+## Patients with TPMT and/or NUDT15 Deficiency
+
+Consider testing for TPMT and NUDT15 deficiency in patients who experience severe bone marrow toxicities.
+Early drug discontinuation may be considered in patients with abnormal CBC results that do not respond to dose reduction (see CLINICAL PHARMACOLOGY, WARNINGS: Cytopenias, and PRECAUTIONS: Laboratory Tests).
+
+Homozygous deficiency in either TPMT or NUDT15
+
+Because of the risk of increased toxicity, consider alternative therapies for patients who are known to have TPMT or NUDT15 deficiency (see CLINICAL PHARMACOLOGY, WARNINGS: Cytopenias, and PRECAUTIONS: Laboratory Tests).
+
+Heterozygous deficiency in TPMT and/or NUDT15
+
+Because of the risk of increased toxicity, dosage reduction is recommended in patients known to have heterozygous deficiency of TPMT or NUDT15.
+Patients who are heterozygous for both TPMT and NUDT15 deficiency may require more substantial dosage reductions (see CLINICAL PHARMACOLOGY, WARNINGS: Cytopenias, and PRECAUTIONS: Laboratory Tests).
+
 ## Use in Renal Dysfunction
 
 Relatively oliguric patients, especially those with tubular necrosis in the immediate postcadaveric transplant period, may have delayed clearance of azathioprine tablets or its metabolites, may be particularly sensitive to this drug, and are usually given lower doses.
 
 Procedures for proper handling and disposal of this immunosuppressive antimetabolite drug should be considered.
-Several guidelines on this subject have been published.25-31 There is no general agreement that all of the procedures recommended in the guidelines are necessary or appropriate.
+Several guidelines on this subject have been published.15-21 There is no general agreement that all of the procedures recommended in the guidelines are necessary or appropriate.

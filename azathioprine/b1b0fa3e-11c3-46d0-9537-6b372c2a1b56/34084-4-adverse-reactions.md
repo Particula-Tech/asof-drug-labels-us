@@ -23,8 +23,7 @@ Dose reduction or temporary withdrawal may result in reversal of these toxicitie
 Infection may occur as a secondary manifestation of bone marrow suppression or leukopenia, but the incidence of infection in renal homotransplantation is 30 to 60 times that in rheumatoid arthritis.
 Anemias, including macrocytic anemia and/or bleeding have been reported.
 
-TPMT genotyping or phenotyping can help identify patients with low or absent TPMT activity (homozygous for non-functional alleles) who are at increased risk for severe, life-threatening myelosuppression from azathioprine tablets (see CLINICAL PHARMACOLOGY, WARNINGSand PRECAUTIONS: Laboratory Tests).
-Death associated with pancytopenia has been reported in patients with absent TPMT activity receiving azathioprine.6, 20
+Patients with low or absent TPMT or NUDT15 activity are at increased risk for severe, life-threatening myelosuppression from azathioprine (see CLINICAL PHARMACOLOGY, WARNINGS: Cytopenias and PRECAUTIONS: Laboratory Tests, DOSAGE AND ADMINISTRATION).
 
 ## Gastrointestinal
 
@@ -35,7 +34,7 @@ Vomiting with abdominal pain may occur rarely with a hypersensitivity pancreatit
 Hepatotoxicity manifest by elevation of serum alkaline phosphatase, bilirubin, and/or serum transaminases is known to occur following azathioprine use, primarily in allograft recipients.
 Hepatotoxicity has been uncommon (less than 1%) in rheumatoid arthritis patients.
 Hepatotoxicity following transplantation most often occurs within 6 months of transplantation and is generally reversible after interruption of azathioprine tablets.
-A rare, but life-threatening hepatic veno-occlusive disease associated with chronic administration of azathioprine has been described in transplant patients and in one patient receiving azathioprine tablets for panuveitis.21, 22, 23 Periodic measurement of serum transaminases, alkaline phosphatase, and bilirubin is indicated for early detection of hepatotoxicity.
+A rare, but life-threatening hepatic veno-occlusive disease associated with chronic administration of azathioprine has been described in transplant patients and in one patient receiving azathioprine tablets for panuveitis.11, 12, 13Periodic measurement of serum transaminases, alkaline phosphatase, and bilirubin is indicated for early detection of hepatotoxicity.
 If hepatic veno-occlusive disease is clinically suspected, azathioprine tablets should be permanently withdrawn.
 
 ## Others

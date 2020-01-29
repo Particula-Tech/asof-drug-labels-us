@@ -6,28 +6,30 @@ This is not an estimate of the half-life of azathioprine itself, but is the deca
 Because of extensive metabolism, only a fraction of the radioactivity is present as azathioprine.
 Usual doses produce blood levels of azathioprine, and of mercaptopurine derived from it, which are low (<1 mcg/mL).
 Blood levels are of little predictive value for therapy since the magnitude and duration of clinical effects correlate with thiopurine nucleotide levels in tissues rather than with plasma drug levels.
-Azathioprine and mercaptopurine are moderately bound to serum proteins (30%) and are partially dialyzable (see OVERDOSAGE).
+Azathioprine and mercaptopurine are moderately bound to serum proteins (30%) and are partially dialyzable see OVERDOSAGE.
 
 Azathioprine is metabolized to 6-mercaptopurine (6-MP).
 Both compounds are rapidly eliminated from blood and are oxidized or methylated in erythrocytes and liver; no azathioprine or mercaptopurine is detectable in urine after 8 hours.
-Activation of 6-mercaptopurine occurs via hypoxanthine-guanine phosphoribosyltransferase (HGPRT) and a series of multi-enzymatic processes involving kinases to form 6-thioguanine nucleotides (6-TGNs) as major metabolites (see Metabolism Scheme in Figure 1).
+Activation of 6-mercaptopurine occurs via hypoxanthine-guanine phosphoribosyltransferase (HGPRT) and a series of multi-enzymatic processes involving kinases to form 6-thioguanine nucleotides (6-TGNs) as major metabolites.
 The cytotoxicity of azathioprine is due, in part, to the incorporation of 6-TGN into DNA.
 
-6-MP undergoes two major inactivation routes (Figure 1).
+6-MP undergoes two major inactivation routes.
 One is thiol methylation, which is catalyzed by the enzyme thiopurine S-methyltransferase (TPMT), to form the inactive metabolite methyl-6-MP (6-MeMP).
-TPMT activity is controlled by a genetic polymorphism.1, 2, 3 For Caucasians and African Americans, approximately 10% of the population inherit one non-functional TPMT allele (heterozygous) conferring intermediate TPMT activity, and 0.3% inherit two TPMT non-functional alleles (homozygous) for low or absent TPMT activity.
-Non-functional alleles are less common in Asians.
-TPMT activity correlates inversely with 6-TGN levels in erythrocytes and presumably other hematopoietic tissues, since these cells have negligible xanthine oxidase (involved in the other inactivation pathway) activities, leaving TPMT methylation as the only inactivation pathway.
-Patients with intermediate TPMT activity may be at increased risk of myelotoxicity if receiving conventional doses of azathioprine tablets.
-Patients with low or absent TPMT activity are at an increased risk of developing severe, life-threatening myelotoxicity if receiving conventional doses of azathioprine tablets.4-9 TPMT genotyping or phenotyping (red blood cell TPMT activity) can help identify patients who are at an increased risk for developing azathioprine tablets toxicity.2, 3, 7, 8, 9 Accurate phenotyping (red blood cell TPMT activity) results are not possible in patients who have received recent blood transfusions (see WARNINGS, PRECAUTIONS: Drug Interactions, PRECAUTIONS: Laboratory Testsand ADVERSE REACTIONSsections).
-
-Figure 1.
-Metabolism pathway of azathioprine: competing pathways result in inactivation by TPMT or XO, or incorporation of cytotoxic nucleotides into DNA.
-
-GMPS: Guanosine monophosphate synthetase; HGPRT: Hypoxanthine-guanine-phosphoribosyl-transferase; IMPD: Inosine monophosphate dehydrogenase; MeMP: Methylmercaptopurine; MeMPN: Methylmercaptopurine nucleotide; TGN: Thioguanine nucleotides; TIMP: Thioinosine monophosphate; TPMT: Thiopurine S-methyltransferase; TU: Thiouric acid; XO: Xanthine oxidase) (Adapted from Pharmacogenomics 2002; 3:89-98; and Cancer Res 2001; 61:5810-5816.)
-
 Another inactivation pathway is oxidation, which is catalyzed by xanthine oxidase (XO) to form 6-thiouric acid.
-The inhibition of xanthine oxidase in patients receiving allopurinol (ZYLOPRIM®) is the basis for the azathioprine dosage reduction required in these patients (see PRECAUTIONS: Drug Interactions).
+The nucleotide diphosphatase (NUDT15) enzyme is involved in conversion of the 6-TGNs to inactive 6-TG monophosphates.
+TPMT activity correlates inversely with 6-TGN levels in erythrocytes and presumably other hematopoietic tissues, since these cells have negligible xanthine oxidase (involved in the other inactivation pathway) activities.
+
+Genetic polymorphisms influence TPMT and NUDT15 activity.
+Several published studies indicate that patients with reduced TPMT or NUDT15 activity receiving usual doses of 6-MP or azathioprine, accumulate excessive cellular concentrations of active 6-TGNs, and are at higher risk for severe myelosuppression.
+Because of the risk of toxicity, patients with TPMT or NUDT15 deficiency require alternative therapy or dose modification (see DOSAGE and ADMINISTRATION).
+
+Approximately 0.3% (1:300) of patients of European or African ancestry have two loss-of-function alleles of the TPMT gene and have little or no TPMT activity (homozygous deficient or poor metabolizers), and approximately 10% of patients have one loss-of-function TPMT allele leading to intermediate TPMT activity (heterozygous deficient or intermediate metabolizers).
+The TPMT*2, TPMT*3A, and TPMT*3C alleles account for about 95% of individuals with reduced levels of TPMT activity.
+NUDT15 deficiency is detected in <1% of patients of European or African ancestry.
+Among patients of East Asian ancestry (i.e., Chinese, Japanese, Vietnamese), 2% have two loss-of-function alleles of the NUDT15 gene, and approximately 21% have one loss-of-function allele.
+The p.R139C variant of NUDT15 (present on the *2 and *3 alleles) is the most commonly observed, but other less common loss-of-function NUDT15 alleles have been observed.
+
+Inhibition of xanthine oxidase (XO) may cause increased plasma concentrations of azathioprine or its metabolites leading to toxicity (see PRECAUTIONS: Drug Interactions).
 Proportions of metabolites are different in individual patients, and this presumably accounts for variable magnitude and duration of drug effects.
 Renal clearance is probably not important in predicting biological effectiveness or toxicities, although dose reduction is practiced in patients with poor renal function.
 
