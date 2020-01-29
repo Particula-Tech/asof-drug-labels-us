@@ -23,4 +23,4 @@ If the response to an opioid antagonist is suboptimal or only brief in nature, a
 
 In an individual physically dependent on opioids, administration of the recommended usual dosage of the antagonist will precipitate an acute withdrawal syndrome.
 The severity of the withdrawal symptoms experienced will depend on the degree of physical dependence and the dose of the antagonist administered.
-If a decision is made to treat serious respiratory depression in the physically dependent patient, administration of the antagonist should be initiated with care and by titration with smaller than usual doses of the antagonist.
+If a decision is made to treat serious respiratory depression in the physically-dependent patient, administration of the antagonist should be initiated with care and by titration with smaller than usual doses of the antagonist.

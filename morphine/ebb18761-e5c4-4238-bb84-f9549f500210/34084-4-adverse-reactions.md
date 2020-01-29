@@ -2,8 +2,8 @@
 
 The following serious adverse reactions are described, or described in greater detail, in other sections:
 
-- Addiction, Abuse, and Misuse [see Warnings and Precautions (5.3)]
 - Life-Threatening Respiratory Depression [see Warnings and Precautions (5.2)]
+- Addiction, Abuse, and Misuse [see Warnings and Precautions (5.3)]
 - Neonatal Opioid Withdrawal Syndrome [see Warnings and Precautions (5.4)]
 - Interactions with Benzodiazepines or Other CNS Depressants [see Warnings and Precautions (5.5)]
 - Myoclonic Activity [see Warnings and Precautions (5.6)]
@@ -12,8 +12,8 @@ The following serious adverse reactions are described, or described in greater d
 - Gastrointestinal Adverse Reactions [see Warnings and Precautions (5.13)]
 - Seizures [see Warnings and Precautions (5.14)]
 - Withdrawal [see Warnings and Precautions (5.15)]
-- Urinary Retention [see Warnings and Precautions (5.16)]
-- Orthostatic Hypotension [see Warnings and Precautions (5.17)]
+- Urinary Retention [see Warnings and Precautions (5.17)]
+- Orthostatic Hypotension [see Warnings and Precautions (5.18)]
 
 The following adverse reactions associated with the use of morphine were identified in clinical studies or postmarketing reports.
 Because some of these reactions were reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
@@ -40,6 +40,6 @@ Serotonin syndrome: Cases of serotonin syndrome, a potentially life-threatening 
 
 Adrenal insufficiency: Cases of adrenal insufficiency have been reported with opioid use, more often following greater than one month of use.
 
-Anaphylaxis:Anaphylaxis has been reported with ingredients contained in DURAMORPH.
+Anaphylaxis: Anaphylaxis has been reported with ingredients contained in DURAMORPH.
 
 Androgen deficiency: Cases of androgen deficiency have occurred with chronic use of opioids [see Clinical Pharmacology (12.2)].

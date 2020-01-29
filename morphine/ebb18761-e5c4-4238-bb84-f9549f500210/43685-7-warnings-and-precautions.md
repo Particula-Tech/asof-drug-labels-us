@@ -21,7 +21,7 @@ Parenteral administration of narcotics in patients receiving epidural or intrath
 
 ## 5.2 Life-Threatening Respiratory Depression
 
-Serious, life-threatening, or fatal; respiratory depression has been reported with the use of opioids, even when used as recommended.
+Serious, life-threatening, or fatal respiratory depression has been reported with the use of opioids, even when used as recommended.
 Respiratory depression, if not immediately recognized and treated, may lead to respiratory arrest and death.
 
 Management of respiratory depression may include close observation, supportive measures, and use of opioid antagonists, depending on the patient’s clinical status [see Overdosage (10)].
@@ -41,6 +41,10 @@ The facility must be equipped to resuscitate patients with severe opiate overdos
 
 To reduce the risk of respiratory depression, proper dosing and titration of DURAMORPH are essential [see Dosage and Administration (2)].
 Overestimating the DURAMORPH dosage can result in a fatal overdose with the first dose.
+
+Opioids can cause sleep-related breathing disorders including central sleep apnea (CSA) and sleep-related hypoxemia.
+Opioid use increases the risk of CSA in a dose-dependent fashion.
+In patients who present with CSA, consider decreasing the opioid dosage using best practices for opioid taper [see Dosage and Administration (2.6)]
 
 ## 5.3 Addiction, Abuse, and Misuse
 
@@ -153,7 +157,7 @@ Opioids may cause increases in serum amylase.
 Monitor patients with biliary tract disease, including acute pancreatitis, for worsening symptoms.
 As significant morphine is released into the systemic circulation from neuraxial administration, the ensuing smooth muscle hypertonicity may result in biliary colic.
 
-## 5.14 Risks of Seizures
+## 5.14 Risk of Seizures
 
 The morphine in DURAMORPH may increase the frequency of seizures in patients with seizure disorders, and may increase the risk of seizures occurring in other clinical setting associated with seizures.
 Monitor patients with a history of seizure disorders for worsened seizure control during DURAMORPH therapy.
@@ -162,19 +166,24 @@ Excitation of the central nervous system, resulting in convulsions, may accompan
 
 ## 5.15 Withdrawal
 
-Avoid the use of mixed agonist/antagonist (e.g., pentazocine, nalbuphine, and butorphanol) or partial agonist (e.g., buprenorphine) analgesics in patients, mixed agonist/antagonist and partial agonist analgesics, including DURAMORPH.
+Avoid the use of mixed agonist/antagonist (e.g., pentazocine, nalbuphine, and butorphanol) or partial agonist (e.g., buprenorphine) analgesics in patients who are receiving a full opioid agonist analgesic, including DURAMORPH.
 In these patients, mixed agonist/antagonist and partial agonist analgesics may reduce the analgesic effect and/or precipitate withdrawal symptoms.
 
 When discontinuing DURAMORPH, gradually taper the dosage [see Dosage and Administration (2.6)].
 Do not abruptly discontinue DURAMORPH [see Drug Abuse and Dependence (9.3)].
 
-## 5.16 Risks of Use in Patients with Urinary System Disorders
+## 5.16 Risks of Driving and Operating Machinery
 
-Urinary retention, which may persist 10 to 20 hours following single epidural or intrathecal administration, is a frequently associated with neuraxial opioid administration and must be anticipated, more frequently in male patients than female patients.
+DURAMORPH may impair the mental or physical abilities needed to perform potentially hazardous activities such as driving a car or operating machinery.
+Warn patients not to drive or operate dangerous machinery unless they are tolerant to the effects of DURAMORPH and know how they will react to the medication.
+
+## 5.17 Risks of Use in Patients with Urinary System Disorders
+
+Urinary retention, which may persist 10 to 20 hours following single epidural or intrathecal administration, is frequently associated with neuraxial opioid administration and must be anticipated, more frequently in male patients than female patients.
 Urinary retention may also occur during the first several days of hospitalization for the initiation of continuous intrathecal or epidural morphine therapy.
 Early recognition of difficulty in urination and prompt intervention in cases of urinary retention is indicated.
 Patients who develop urinary retention have responded to cholinomimetic treatment and/or judicious use of catheters.
 
-## 5.17 Risks of Use in Ambulatory Patients
+## 5.18 Risks of Use in Ambulatory Patients
 
 Patients with reduced circulating blood volume, impaired myocardial function or on sympatholytic drugs should be monitored for the possible occurrence of orthostatic hypotension, a frequent complication in single-dose neuraxial morphine analgesia.

@@ -58,13 +58,13 @@ Adult Dosage: Intrathecal dosage is usually 1/10 that of epidural dosage.
 A single injection of 0.2 to 1 mg may provide satisfactory pain relief for up to 24 hours.
 (Caution: this is only 0.4 to 2 mL of the 5 mg/10 mL ampul or 0.2 to 1 mL of the 10 mg/10 mL ampul of DURAMORPH).
 
-- Do not inject intrathecally more than 2 mL of the 5 mg/10 mL ampul or 1 mL of the 10 mg/10 mLampul.
+- Do not inject intrathecally more than 2 mL of the 5 mg/10 mL ampul or 1 mL of the 10 mg/10 mL ampul.
 - Repeated intrathecal injections of DURAMORPH are not recommended.
-  If pain recurs, consider consider alternative routes of administration
+  If pain recurs, consider alternative routes of administration
 - A constant intravenous infusion of naloxone, 0.6 mg/hr, for 24 hours after intrathecal injection may be used to reduce the incidence of potential side effects.
 
 ## 2.6 Discontinuation of DURAMORPH
 
-When a patient who has been treated with a regimen of opioid analgesics including DURAMORPH regularly and may be physically dependant no longer requires therapy with DURAMORPH, taper the dose gradually while monitoring carefully for signs and symptoms of withdrawal.
+When a patient who has been treated with a regimen of opioid analgesics including DURAMORPH regularly and may be physically dependant or no longer requires therapy with DURAMORPH, taper the dose gradually while monitoring carefully for signs and symptoms of withdrawal.
 If the patient develops these signs or symptoms, raise the dose to the previous level and taper more slowly, either by increasing the interval between decreases, decreasing the amount of change in dose, or both.
 Do not abruptly discontinue DURAMORPH in a physically-dependent patient [see Warnings and Precautions (5.12), Drug Abuse and Dependence (9.3)].
