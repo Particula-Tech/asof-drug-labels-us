@@ -31,6 +31,7 @@ Sirolimus Oral Solution
 For Oral Use Only.
 
 Each mL contains 1 mg sirolimus.
+
 1.5%-2.5% ethanol.
 
 Also contains a mixture of propylene glycol and phosphatidylcholine derived from soy lecithin (and other components) and polysorbate 80.
@@ -54,6 +55,7 @@ Sirolimus Oral Solution
 For Oral Use Only.
 
 Each mL contains 1 mg sirolimus.
+
 1.5%-2.5% ethanol.
 
 Also contains a mixture of propylene glycol and phosphatidylcholine derived from soy lecithin (and other components) and polysorbate 80.
