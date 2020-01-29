@@ -2,7 +2,7 @@
 
 INFUMORPH (preservative-free morphine sulfate sterile solution), is, a preservative-free solution, supplied in amber ampuls for epidural or intrathecal administration via a continuous microinfusion device as follows:
 
-NDC 0641-6039-01 INFUMORPH 200 200 mg/20 mL (10 m/mL) Single Use amber ampuls packaged individually
+NDC 0641-6039-01 INFUMORPH 200 200 mg/20 mL (10 mg/mL) Single Use amber ampuls packaged individually
 
 NDC 0641-6040-01 INFUMORPH 500 500 mg/20 mL (25 mg/mL) Single Use amber ampuls packaged individually
 
@@ -18,6 +18,6 @@ Each 20 mL ampul of INFUMORPH is intended for SINGLE USE ONLY.
 Discard any unused portion.
 Do not heat-sterilize.
 
-To report SUSPECTED ADVERSE REACTIONS, contact West-Ward Pharmaceuticals Corp. at 1-877-845-0689, or the FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
+To report SUSPECTED ADVERSE REACTIONS, contact Hikma Pharmaceuticals USA Inc. at 1-877-845-0689, or the FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
 
 For Product Inquiry call 1-877-845-0689.

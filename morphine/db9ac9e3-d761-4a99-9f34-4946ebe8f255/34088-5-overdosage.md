@@ -3,7 +3,7 @@
 Clinical Presentation
 
 Acute overdose with INFUMORPH can be manifested by respiratory depression, somnolence progressing to stupor or coma, skeletal muscle flaccidity, cold and clammy skin, constricted pupils, and, in some cases, pulmonary edema, bradycardia, hypotension, partial or complete airway obstruction, atypical snoring, and death.
-Marked mydriasis rather than miosis may be seen with hypoxia in overdose situations [See Clinical Pharmacology (12.2)].
+Marked mydriasis rather than miosis may be seen with hypoxia in overdose situations [see Clinical Pharmacology (12.2)].
 
 Treatment of Overdose
 
@@ -23,4 +23,4 @@ If the response to an opioid antagonist is suboptimal or only brief in nature, a
 
 In an individual physically dependent on opioids, administration of the recommended usual dosage of the antagonist will precipitate an acute withdrawal syndrome.
 The severity of the withdrawal symptoms experienced will depend on the degree of physical dependence and the dose of the antagonist administered.
-If a decision is made to treat serious respiratory depression in the physically dependent patient, administration of the antagonist should be begun with care and by titration with smaller than usual doses of the antagonist.
+If a decision is made to treat serious respiratory depression in the physically-dependent patient, administration of the antagonist should be begun with care and by titration with smaller than usual doses of the antagonist.

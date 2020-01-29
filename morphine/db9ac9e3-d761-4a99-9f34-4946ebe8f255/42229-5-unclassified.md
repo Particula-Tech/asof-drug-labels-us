@@ -1,7 +1,7 @@
 Manufactured by:
 
-WEST-WARD A HIKMA COMPANY Eatontown, NJ 07724 USA
+Hikma Pharmaceuticals USA Inc. Eatontown, NJ 07724 USA
 
-Revised: December 2016
+Revised: January 2020
 
-462-217-02
+462-217-03

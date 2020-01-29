@@ -16,7 +16,7 @@ For safety reasons, it is recommended that administration of INFUMORPH 200 and 5
 
 ## 5.2 Life-Threatening Respiratory Depression
 
-Serious, life-threatening, or fatal; respiratory depression has been reported with the use of opioids, even when used as recommended.
+Serious, life-threatening, or fatal respiratory depression has been reported with the use of opioids, even when used as recommended.
 Respiratory depression, if not immediately recognized and treated, may lead to respiratory arrest and death.
 Management of respiratory depression may include close observation, supportive measures, and use of opioid antagonists, depending on the patient’s clinical status [see Overdosage (10)].
 Carbon dioxide (CO2) retention from opioid-induced respiratory depression can exacerbate the sedating effects of opioids.
@@ -35,14 +35,16 @@ Overestimating the INFUMORPH dosage when converting patients from another opioid
 
 IMPROPER OR ERRONEOUS SUBSTITUTION OF INFUMORPH 200 or 500 (10 or 25 mg/mL, respectively) FOR REGULAR DURAMORPH (0.5 or 1 mg/mL) IS LIKELY TO RESULT IN SERIOUS OVERDOSAGE, LEADING TO SEIZURES, RESPIRATORY DEPRESSION, AND DEATH.
 
+Opioids can cause sleep-related breathing disorders including central sleep apnea (CSA) and sleep-related hypoxemia.
+Opioid use increases the risk of CSA in a dose-dependent fashion.
+In patients who present with CSA, consider decreasing the opioid dosage using best practices for opioid taper [see Dosage and Administration (2.6)].
+
 ## 5.3 Addiction, Abuse, and Misuse
 
 INFUMORPH contains morphine, a Schedule II controlled substance.
 As an opioid, INFUMORPH exposes users to the risks of addiction, abuse, and misuse [see Drug Abuse and Dependence (9)].
 
-Although the risk of addiction in any individual is unknown, it can occur in patients appropriately prescribed
-
-INFUMORPH.
+Although the risk of addiction in any individual is unknown, it can occur in patients appropriately prescribed INFUMORPH.
 Addiction can occur at recommended dosages and if the drug is misused or abused.
 
 Assess each patient’s risk for opioid addiction, abuse, or misuse prior to prescribing INFUMORPH, and monitor all patients receiving INFUMORPH for the development of these behaviors and conditions.
@@ -56,7 +58,8 @@ Strategies to reduce these risks include prescribing the drug in the smallest ap
 Contact local state professional licensing board or state controlled substances authority for information on how to prevent and detect abuse or diversion of this product.
 
 Each ampul of INFUMORPH contains a large amount of a potent narcotic which has been associated with abuse and dependence among health care providers.
-Due to the limited indications for this product, the risk of overdosage and the risk of its diversion and abuse, it is recommended that special measures must be taken to control this product within the hospital or clinic.INFUMORPH should be subject to rigid accounting, rigorous control of wastage, and restricted access.
+Due to the limited indications for this product, the risk of overdosage and the risk of its diversion and abuse, it is recommended that special measures must be taken to control this product within the hospital or clinic.
+INFUMORPH should be subject to rigid accounting, rigorous control of wastage, and restricted access.
 
 ## 5.4 Neonatal Opioid Withdrawal Syndrome
 
@@ -153,27 +156,27 @@ Opioids may cause increases in serum amylase.
 Monitor patients with biliary tract disease, including acute pancreatitis for worsening symptoms.
 As significant morphine is released into the systemic circulation from neuraxial administration, the ensuing smooth muscle hypertonicity may result in biliary colic.
 
-## 5.14 Increased Risks of Seizures in Patients with Seizure Disorders
+## 5.14 Increased Risk of Seizures in Patients with Seizure Disorders
 
 The morphine in INFUMORPH may increase the frequency of seizures in patients with seizure disorders, and may increase the risk of seizures occurring in other clinical setting associated with seizures.
 Monitor patients with a history of seizure disorders for worsened seizure control during INFUMORPH therapy.
 
 ## 5.15 Withdrawal
 
-Avoid the use of mixed agonist/antagonist (e.g., pentazocine, nalbuphine, and butorphanol) or partial agonist (e.g., buprenorphine) analgesics in patients, mixed agonist/antagonist and partial agonist analgesics, including INFUMORPH.
+Avoid the use of mixed agonist/antagonist (e.g., pentazocine, nalbuphine, and butorphanol) or partial agonist (e.g., buprenorphine) analgesics in patients who are receiving a full opioid agonist analgesic, including INFUMORPH.
 In these patients, mixed agonist/antagonist and partial agonist analgesics may reduce the analgesic effect and/or precipitate withdrawal symptoms.
 
 When discontinuing INFUMORPH, gradually taper the dosage [see Dosage and Administration (2.6)].
 Do not abruptly discontinue INFUMORPH [see Drug Abuse and Dependence (9.3)].
 
-## 5.16 Risk of Driving and Operating Machinery
+## 5.16 Risks of Driving and Operating Machinery
 
 INFUMORPH may impair the mental or physical abilities needed to perform potentially hazardous activities such as driving a car or operating machinery.
 Warn patients not to drive or operate dangerous machinery unless they are tolerant to the effects of INFUMORPH and know how they will react to the medication [see Patient Counseling Information (17)].
 
 ## 5.17 Risks of Use in Patients with Urinary System Disorders
 
-Urinary retention, which may persist 10 to 20 hours following single epidural or intrathecal administration, is a frequently associated with neuraxial opioid administration and must be anticipated, more frequently in male patients than female patients.
+Urinary retention, which may persist 10 to 20 hours following single epidural or intrathecal administration, is frequently associated with neuraxial opioid administration and must be anticipated, more frequently in male patients than female patients.
 Urinary retention may also occur during the first several days of hospitalization for the initiation of continuous intrathecal or epidural morphine therapy.
 Early recognition of difficulty in urination and prompt intervention in cases of urinary retention is indicated.
 Patients who develop urinary retention have responded to cholinomimetic treatment and/or judicious use of catheters.

@@ -2,11 +2,11 @@
 
 The following serious adverse reactions are described, or described in greater detail, in other sections:
 
-- Addiction, Abuse, and Misuse [see Warnings and Precautions (5.3)]
 - Life-Threatening Respiratory Depression [see Warnings and Precautions (5.2)]
+- Addiction, Abuse, and Misuse [see Warnings and Precautions (5.3)]
 - Neonatal Opioid Withdrawal Syndrome [see Warnings and Precautions (5.4)]
 - Interactions with CNS Benzodiazepines or Other Depressants [see Warnings and Precautions (5.5)]
-- Inflammatory Masses [see Warnings and Precautions (5.1)]
+- Inflammatory Masses [see Warnings and Precautions (5.6)]
 - Myoclonic Activity [see Warnings and Precautions (5.7)]
 - Adrenal Insufficiency [see Warnings and Precautions (5.10)]
 - Severe Hypotension [see Warnings and Precautions (5.11)]
@@ -39,6 +39,6 @@ Serotonin syndrome: Cases of serotonin syndrome, a potentially life-threatening 
 
 Adrenal insufficiency: Cases of adrenal insufficiency have been reported with opioid use, more often following greater than one month of use.
 
-Anaphylaxis:Anaphylaxis has been reported with ingredients contained in INFUMORPH.
+Anaphylaxis: Anaphylaxis has been reported with ingredients contained in INFUMORPH.
 
 Androgen deficiency: Cases of androgen deficiency have occurred with chronic use of opioids [see Clinical Pharmacology (12.2)].

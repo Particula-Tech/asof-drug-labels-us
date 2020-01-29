@@ -7,7 +7,7 @@ INFUMORPH should be administered by or under the direction of a physician experi
 - Because of the risk of delayed respiratory depression, patients should be observed in a fully equipped and staffed environment for at least 24 hours after each test dose and, as indicated, for the first several days after surgery.
 - Because epidural administration has been associated with less potential for immediate or late adverse effects than intrathecal administration, the epidural route should be used whenever possible.
 - For safety reasons, it is recommended that administration of INFUMORPH 200 and 500 (10 and 25 mg/mL, respectively) by the intrathecal route be limited to the lumbar area.
-- INFUMORPH 200 and 500 (10 and 25 mg/ml, respectively) should not be used for single-dose neuraxial injection because lower doses can be more reliably administered with the standard preparation of DURAMORPH (0.5 and 1 mg/mL).
+- INFUMORPH 200 and 500 (10 and 25 mg/mL, respectively) should not be used for single-dose neuraxial injection because lower doses can be more reliably administered with the standard preparation of DURAMORPH (0.5 and 1 mg/mL).
 
 Candidates for neuraxial administration of INFUMORPH in a continuous microinfusion device should be hospitalized to provide for adequate patient monitoring during assessment of response to single doses of intrathecal or epidural morphine.
 Hospitalization should be maintained for several days after surgery involving the infusion device for additional monitoring and adjustment of daily dosage.
@@ -18,11 +18,12 @@ Before discharge, the patient and attendant(s) should receive instruction in the
 
 Familiarization with the continuous microinfusion device is essential.
 The desired amount of morphine should be withdrawn from the ampul through a microfilter.
-To minimize risk from glass or other particles, the product must be filtered through a 5 µ (or smaller) microfilter before injecting into the microinfusion device.If dilution is required, 0.9% Sodium Chloride Injection is recommended.
+To minimize risk from glass or other particles, the product must be filtered through a 5 µ (or smaller) microfilter before injecting into the microinfusion device.
+If dilution is required, 0.9% Sodium Chloride Injection is recommended.
 
 Reservoir filling must be performed by fully trained and qualified personnel, following the directions provided by the device manufacturer.
 Care should be taken in selecting the proper refill frequency to prevent depletion of the reservoir, which would result in exacerbation of severe pain, onset of opioid withdrawal symptoms, and/or reflux of cerebrospinal fluid into some devices.
-Strict aseptic technique is required to avoid bacterialcontamination and serious infection.
+Strict aseptic technique is required to avoid bacterial contamination and serious infection.
 Extreme care must be taken to ensure that the needle is properly inserted into the filling port of the device before attempting to refill the reservoir.
 Injecting the solution into the tissue around the device or (in the case of devices that have more than one port) attempting to inject the refill dose into the direct injection port will result in a large, clinically significant, overdosage to the patient.
 
@@ -79,6 +80,6 @@ Adjust the dosage to obtain an appropriate balance between management of pain an
 
 ## 2.6 Discontinuation of INFUMORPH
 
-When a patient who has been taking INFUMORPH regularly and may be physically dependent no longer requires therapy with INFUMORPH, taper the dose gradually while monitoring carefully for signs and symptoms of withdrawal.
+When a patient who has been taking INFUMORPH regularly and may be physically dependent or no longer requires therapy with INFUMORPH, taper the dose gradually while monitoring carefully for signs and symptoms of withdrawal.
 If the patient develops these signs or symptoms, raise the dose to the previous level and taper more slowly, either by increasing the interval between decreases, decreasing the amount of change in dose, or both.
 Do not stop INFUMORPH abruptly in a physically-dependent patient [see Warnings and Precautions (5.15), Drug Abuse and Dependence (9.3)].
