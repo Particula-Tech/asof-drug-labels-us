@@ -135,13 +135,13 @@ Table 4: Incidence of Severe HypoglycemiaSevere episodes of hypoglycemia were de
 | --- | --- | --- | --- |
 | Add-on to Metformin (24 weeks) | N=137 | N=137 | N=135 |
 | Severe [n (%)] | 0 | 0 | 0 |
-| Glucose <54 mg.dL [n (%)] | 0 | 0 | 0 |
+| Glucose <54 mg/dL [n (%)] | 0 | 0 | 0 |
 | Add-on to DPP4 inhibitor (with or without Metformin) (24 weeks) | N=226 | – | N=225 |
 | Severe [n (%)] | 0 | – | 1 (0.4) |
-| Glucose <54 mg.dL [n (%)] | 1 (0.4) | – | 1 (0.4) |
+| Glucose <54 mg/dL [n (%)] | 1 (0.4) | – | 1 (0.4) |
 | Add-on to Insulin with or without other OADsOAD = oral antidiabetic therapy. (24 weeks) | N=197 | N=212 | N=196 |
 | Severe [n (%)] | 1 (0.5) | 2 (0.9) | 2 (1.0) |
-| Glucose <54 mg.dL [n (%)] | 43 (21.8) | 55 (25.9) | 45 (23.0) |
+| Glucose <54 mg/dL [n (%)] | 43 (21.8) | 55 (25.9) | 45 (23.0) |
 
 In the DECLARE study [see Clinical Studies (14.2)], severe events of hypoglycemia were reported in 58 (0.7%) out of 8574 patients treated with dapagliflozin 10 mg and 83 (1.0%) out of 8569 patients treated with placebo.
 
@@ -175,7 +175,7 @@ Dapagliflozin
 
 Initiation of dapagliflozin causes an increase in serum creatinine and decrease in eGFR.
 In patients with normal or mildly impaired renal function at baseline, the serum creatinine and and eGFR returned to baseline at Week 24.
-Sustained decreases in eGFR were seen in patients with moderate renal impairment (eGFR 30 to less than 60 ml/min/1.73 m2) [see Warnings and Precautions (5.4) and Mechanism of Action (12.1)].
+Sustained decreases in eGFR were seen in patients with moderate renal impairment (eGFR 30 to less than 60 mL/min/1.73 m2) [see Warnings and Precautions (5.4) and Mechanism of Action (12.1)].
 
 #### Increase in Hematocrit
 

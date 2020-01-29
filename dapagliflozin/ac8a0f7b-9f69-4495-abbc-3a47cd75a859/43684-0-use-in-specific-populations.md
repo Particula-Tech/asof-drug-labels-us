@@ -112,7 +112,7 @@ Assess renal function more frequently in elderly patients [see Warnings and Prec
 
 Dapagliflozin
 
-Use of dapagliflozin is not recommended when eGFR is less than 45 mL/min/1.73 m2[see Dosage and Administration (2.3) and Warnings and Precautions (5.4)] and is contraindicated in patients with severe renal impairment (eGFR less than 30 mL/min/1.73 m2) or ESRD [see Contraindications (4)].
+Use of dapagliflozin is not recommended when eGFR is less than 45 mL/min/1.73 m2 [see Dosage and Administration (2.3) and Warnings and Precautions (5.4)] and is contraindicated in patients with severe renal impairment (eGFR less than 30 mL/min/1.73 m2) or ESRD [see Contraindications (4)].
 
 Dapagliflozin was evaluated in two glycemic control studies that included patients with moderate renal impairment (an eGFR of 45 to less than 60 mL/min/1.73 m2, and an eGFR of 30 to less than 60 mL/min/1.73 m2) [see Clinical Studies (14.1)].
 The safety profile of dapagliflozin in the study of patients with an eGFR of 45 to less than 60 mL/min/1.73 m2 was similar to the general population of patients with type 2 diabetes.

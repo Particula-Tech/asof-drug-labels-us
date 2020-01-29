@@ -169,7 +169,7 @@ Approximately 81.3% of patients were treated with angiotensin converting enzyme 
 
 A Cox proportional hazards model was used to test for non-inferiority against the pre-specified risk margin of 1.3 for the hazard ratio (HR) of the composite of CV death, myocardial infarction (MI), or ischemic stroke and to test for superiority on the dual primary endpoints: the composite of hospitalization for heart failure or CV death, and MACE, if non-inferiority was demonstrated.
 
-The incidence rate of MACE was similar in both treatment arms: 2.3 MACE events per 100 patient -years on dapagliflozin vs. 2.46 MACE events per 100 patientyears on placebo.
+The incidence rate of MACE was similar in both treatment arms: 2.3 MACE events per 100 patient-years on dapagliflozin vs. 2.46 MACE events per 100 patient-years on placebo.
 The estimated hazard ratio of MACE associated with dapagliflozin relative to placebo was 0.93 with a 95.38% confidence interval of (0.84,1.03).
 The upper bound of this confidence interval, 1.03, excluded a risk margin larger than 1.3.
 

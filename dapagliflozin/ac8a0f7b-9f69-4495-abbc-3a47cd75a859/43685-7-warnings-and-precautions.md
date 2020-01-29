@@ -70,14 +70,20 @@ Treatment of ketoacidosis may require insulin, fluid, and carbohydrate replaceme
 
 In many of the postmarketing reports, and particularly in patients with type 1 diabetes, the presence of ketoacidosis was not immediately recognized, and the institution of treatment was delayed because the presenting blood glucose levels were below those typically expected for diabetic ketoacidosis (often less than 250 mg/dL).
 Signs and symptoms at presentation were consistent with dehydration and severe metabolic acidosis and included nausea, vomiting, abdominal pain, generalized malaise, and shortness of breath.
-In some but not all cases, factors predisposing to ketoacidosis, such as insulin dose reduction, acute febrile illness, reduced caloric intake due to illness or surgery, pancreatic disorders suggesting insulin deficiency (e.g., type 1 diabetes, history of pancreatitis or pancreatic surgery), and alcohol abuse were identified.
+In some but not all cases, factors predisposing to ketoacidosis, such as insulin dose reduction, acute febrile illness, reduced caloric intake, surgery, pancreatic disorders suggesting insulin deficiency (e.g., type 1 diabetes, history of pancreatitis or pancreatic surgery), and alcohol abuse were identified.
 
 Before initiating XIGDUO XR, consider factors in the patient history that may predispose to ketoacidosis, including pancreatic insulin deficiency from any cause, caloric restriction and alcohol abuse.
-In patients treated with XIGDUO XR consider monitoring for ketoacidosis and temporarily discontinuing XIGDUO XR in clinical situations known to predispose to ketoacidosis (e.g., prolonged fasting due to acute illness or surgery).
+
+For patients who undergo scheduled surgery, consider temporarily discontinuing XIGDUO XR for at least 3 days prior to surgery [see Clinical Pharmacology (12.2, 12.3)].
+
+Consider monitoring for ketoacidosis and temporarily discontinuing XIGDUO XR in other clinical situations known to predispose to ketoacidosis (e.g., prolonged fasting due to acute illness or post-surgery).
+Ensure risk factors for ketoacidosis are resolved prior to restarting XIGDUO XR.
+
+Educate patients on the signs and symptoms of ketoacidosis and instruct patients to discontinue XIGDUO XR and seek medical attention immediately if signs and symptoms occur.
 
 ## 5.4 Acute Kidney Injury
 
-Dapagliflozin causes intravascular volume contraction [see Warning and Precautions (5.1)], and can cause actue kidney injury.
+Dapagliflozin causes intravascular volume contraction [see Warning and Precautions (5.1)], and can cause acute kidney injury.
 There have been postmarketing reports of acute kidney injury, some requiring hospitalization and dialysis, in patients receiving dapagliflozin.
 
 Increases in serum creatinine and decreases in estimated GFR may also be observed with initiation of dapagliflozin.
@@ -88,7 +94,7 @@ If acute kidney injury occurs, discontinue dapagliflozin promptly and institute 
 
 Renal function should be evaluated prior to initiation of XIGDUO XR and monitored periodically thereafter.
 Use of XIGDUO XR is not recommended when the eGFR is less than 45 mL/min/1.73 m2.
-XIGDUO XR is contraindicated in patients with an eGFR below 30 mL/min/1.73 m2[see Dosage and Administration (2.3), Contraindications (4), Warnings and Precautions (5.1), and Use in Specific Populations (8.6)].
+XIGDUO XR is contraindicated in patients with an eGFR below 30 mL/min/1.73 m2 [see Dosage and Administration (2.3), Contraindications (4), Warnings and Precautions (5.1), and Use in Specific Populations (8.6)].
 
 ## 5.5 Urosepsis and Pyelonephritis
 
@@ -98,16 +104,8 @@ Evaluate patients for signs and symptoms of urinary tract infections and treat p
 
 ## 5.6 Hypoglycemia with Concomitant Use with Insulin and Insulin Secretagogues
 
-Dapagliflozin
-
-Insulin and insulin secretagogues are known to cause hypoglycemia.
-Dapagliflozin may increase the risk of hypoglycemia when combined with insulin or an insulin secretagogue [see Adverse Reactions (6.1)].
-Therefore, a lower dose of insulin or insulin secretagogue may be required to minimize the risk of hypoglycemia when these agents are used in combination with XIGDUO XR.
-
-Metformin HCl
-
 Insulin and insulin secretagogues (e.g., sulfonylurea) are known to cause hypoglycemia.
-XIGDUO XR may increase the risk of hypoglycemia when combined with insulin and/or an insulin secretagogue.
+XIGDUO XR may increase the risk of hypoglycemia when combined with insulin and/or an insulin secretagogue [see Adverse Reactions (6.1)].
 Therefore, a lower dose of insulin or insulin secretagogue may be required to minimize the risk of hypoglycemia when used in combination with XIGDUO XR [see Drug Interactions (7.6)].
 
 ## 5.7 Necrotizing Fasciitis of the Perineum (Fournier’s Gangrene)

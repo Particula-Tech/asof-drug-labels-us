@@ -22,10 +22,9 @@ Inform patients that dehydration may increase the risk for hypotension, and to h
 
 Ketoacidosis
 
-Inform patients that ketoacidosis is a serious life-threatening condition.
-Cases of ketoacidosis have been reported during use of dapagliflozin.
+Inform patients that ketoacidosis is a serious life-threatening condition and that cases of ketoacidosis have been reported during use of dapagliflozin, sometimes associated with illness or surgery among other risk factors.
 Instruct patients to check ketones (when possible) if symptoms consistent with ketoacidosis occur even if blood glucose is not elevated.
-If symptoms of ketoacidosis (including nausea, vomiting, abdominal pain, tiredness, and labored breathing) occur, instruct patients to discontinue XIGDUO XR and seek medical advice immediately [see Warnings and Precautions (5.3)].
+If symptoms of ketoacidosis (including nausea, vomiting, abdominal pain, tiredness, and labored breathing) occur, instruct patients to discontinue XIGDUO XR and seek medical attention immediately [see Warnings and Precautions (5.3)].
 
 Acute Kidney Injury
 
@@ -60,7 +59,7 @@ Advise them of treatment options and when to seek medical advice [see Warnings a
 
 Hypersensitivity Reactions
 
-Inform patients that serious hypersensitivity reactions (e.g., urticarial, anaphylactic reactions, and angioedema) have been reported with the components of XIGDUO XR.
+Inform patients that serious hypersensitivity reactions (e.g., urticaria, anaphylactic reactions, and angioedema) have been reported with the components of XIGDUO XR.
 Advise patients to immediately report any signs or symptoms suggesting allergic reaction or angioedema, and to take no more of the drug until they have consulted prescribing physicians.
 
 Pregnancy

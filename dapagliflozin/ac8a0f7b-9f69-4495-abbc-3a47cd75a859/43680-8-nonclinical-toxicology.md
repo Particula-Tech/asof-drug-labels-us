@@ -10,9 +10,9 @@ The following data are based on the findings in the studies with dapagliflozin a
 Dapagliflozin
 
 Dapagliflozin did not induce tumors in either mice or rats at any of the doses evaluated in 2-year carcinogenicity studies.
-Oral doses in mice consisted of 5, 15, and 40 mg/kg/day in males and 2, 10, and 20 mg/kg/day in females, and oral doses in rats were 0.5, 2, and 10 mg/kg/day for both males and females.
-The highest doses evaluated in mice were approximately 72-times (males) and 105-times (females) the clinical dose of 10 mg/per day based on AUC exposure.
-In rats, the highest dose was approximately 131-times (males) and 186-times (females) the clinical dose of 10 mg per day based on AUC exposure.
+Oral doses in mice consisted of 5, 15, and 40 mg/kg/day in males and 2, 10 and 20 mg/kg/day in females, and oral doses in rats were 0.5, 2, and 10 mg/kg/day for both males and females.
+The highest doses evaluated in mice were approximately 72-times (males) and 105-times (females) the clinical dose of 10 mg per day, based on AUC exposure.
+In rats, the highest dose was approximately 131-times (males) and 186-times (females) the clinical dose of 10 mg per day, based on AUC exposure.
 
 Dapagliflozin was negative in the Ames mutagenicity assay and was positive in a series of in vitro clastogenicity assays in the presence of S9 activation and at concentrations greater than or equal to 100 μg/mL.
 Dapagliflozin was negative for clastogenicity in a series of in vivo studies evaluating micronuclei or DNA repair in rats at exposure multiples greater than 2100-times the clinical dose.
