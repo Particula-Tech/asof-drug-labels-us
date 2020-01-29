@@ -71,7 +71,7 @@ Table 2: Adverse Reactions of Volume DepletionVolume depletion includes reports 
 | Overall population N (%) | N=13935(0.4%) | N=11457(0.6%) | N=11939(0.8%) | N=229517(0.7%) | N=236027(1.1%) | N=8569207(2.4%) | N=8574213(2.5%) |
 | Patient Subgroup n (%) |  |  |  |  |  |  |  |
 | Patients on loop diuretics | n=551(1.8%) | n=400 | n=313(9.7%) | n=2674(1.5%) | n=2366(2.5%) | n=93457(6.1%) | n=86657(6.6%) |
-| Patients with moderate renal impairment with eGFR ≥30 and <60 mL/min/1.73 m2 | n=1072(0.9%) | n=1071(0.9%) | n=891(1.1%) | n=2684(1.5%) | n=2655(1.9%) | n=65830(4.6%) | n=60435(5.8%) |
+| Patients with moderate renal impairment with eGFR ≥30 and <60 mL/min/1.73 m2 | n=1072(1.9%) | n=1071(0.9%) | n=891(1.1%) | n=2684(1.5%) | n=2655(1.9%) | n=65830(4.6%) | n=60435(5.8%) |
 | Patients ≥65 years of age | n=2761(0.4%) | n=2161(0.5%) | n=2043(1.5%) | n=7116(0.8%) | n=66511(1.7%) | n=3950121(3.1%) | n=3948117(3.0%) |
 
 ### Hypoglycemia
@@ -101,7 +101,7 @@ Table 3: Incidence of Severe HypoglycemiaSevere episodes of hypoglycemia were de
 | Add-on to DPP4 inhibitor (24 weeks) | N=226 | – | N=225 |
 | Severe [n (%)] | 0 | – | 1 (0.4) |
 | Glucose <54 mg/dL [n (%)] | 1 (0.4) | – | 1 (0.4) |
-| Add-on to Insulin with or without other OADsOAD = oral antidiabetic therapy (24 weeks) | N=197 | N=212 | N=196 |
+| Add-on to Insulin with or without other OADsOAD = oral antidiabetic therapy. (24 weeks) | N=197 | N=212 | N=196 |
 | Severe [n (%)] | 1 (0.5) | 2 (0.9) | 2 (1.0) |
 | Glucose <54 mg/dL [n (%)] | 43 (21.8) | 55 (25.9) | 45 (23.0) |
 
@@ -135,7 +135,7 @@ The events were evenly distributed over the study period.
 
 Initiation of FARXIGA causes an increase in serum creatinine and decrease in eGFR.
 In patients with normal or mildly impaired renal function at baseline, serum creatinine and eGFR returned to baseline at Week 24.
-Sustained decreases in eGFR were seen in patients with moderate renal impairment (eGFR 30 to less than 60 ml/min/1.73 m2) [see Warnings and Precautions (5.3) and Mechanism of Action (12.1)].
+Sustained decreases in eGFR were seen in patients with moderate renal impairment (eGFR 30 to less than 60 mL/min/1.73 m2) [see Warnings and Precautions (5.3) and Mechanism of Action (12.1)].
 
 #### Increase in Hematocrit
 
@@ -146,7 +146,7 @@ By Week 24, hematocrit values >55% were reported in 0.4% of placebo-treated pati
 #### Increase in Low-Density Lipoprotein Cholesterol
 
 In the pool of 13 placebo-controlled studies, changes from baseline in mean lipid values were reported in FARXIGA-treated patients compared to placebo-treated patients.
-Mean percent changes from baseline at Week 24 were 0.0% versus 2.5% for total cholesterol, and -1.0% versus 2.9% for LDL cholesterol in the placebo and FARXIGA 10 mg groups groups, respectively.
+Mean percent changes from baseline at Week 24 were 0.0% versus 2.5% for total cholesterol, and -1.0% versus 2.9% for LDL cholesterol in the placebo and FARXIGA 10 mg groups, respectively.
 In the DECLARE study [see Clinical Studies (14.2)], mean changes from baseline after 4 years were 0.4 mg/dL versus -4.1 mg/dL for total cholesterol, and -2.5 mg/dL versus -4.4 mg/dL for LDL cholesterol, in FARXIGA-treated and the placebo groups, respectively.
 
 #### Decrease in Serum Bicarbonate

@@ -16,6 +16,7 @@ Increases in the amount of glucose excreted in the urine were observed in health
 Dapagliflozin doses of 5 or 10 mg per day in patients with type 2 diabetes mellitus for 12 weeks resulted in excretion of approximately 70 grams of glucose in the urine per day at Week 12.
 A near maximum glucose excretion was observed at the dapagliflozin daily dose of 20 mg.
 This urinary glucose excretion with dapagliflozin also results in increases in urinary volume [see Adverse Reactions (6.1)].
+After discontinuation of dapagliflozin, on average, the elevation in urinary glucose excretion approaches baseline by about 3 days for the 10 mg dose.
 
 Figure 1: Scatter Plot and Fitted Line of Change from Baseline in 24-Hour Urinary Glucose Amount versus Dapagliflozin Dose in Healthy Subjects and Subjects with Type 2 Diabetes Mellitus (T2DM) (Semi-Log Plot)
 
