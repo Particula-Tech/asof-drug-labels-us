@@ -241,7 +241,7 @@ aThe intent-to-treat population includes all randomized patients.
 At week 26, the primary HbA1c endpoint was missing for 4.3%, 4.4%, and 4.4% of patients randomized to placebo, RYBELSUS 7 mg and RYBELSUS 14 mg, respectively.
 Missing values were imputed by a pattern mixture model using multiple imputation (MI).
 Pattern was defined by randomized treatment and treatment status at week 26.
-During the trial, additional anti-diabetic medication was initiated as an add on to randomized treatment by 4.9%, 1.1 % and 2.2% of patients randomized to placebo, RYBELSUS 7mg and RYBELSUS 14 mg, respectively.
+During the trial, additional anti-diabetic medication was initiated as an add on to randomized treatment by 4.9%, 1.1 % and 2.2% of patients randomized to placebo, RYBELSUS 7 mg and RYBELSUS 14 mg, respectively.
 
 bEstimated using an ANCOVA based on data irrespectively of discontinuation of trial product or initiation of rescue medication adjusted for baseline value, background medication and region.
 
@@ -251,19 +251,22 @@ The mean baseline body weight was 86.0 kg, 87.1 kg and 84.6 kg in the placebo, R
 The mean changes from baseline to week 26 were -0.4 kg, -2.4 kg and -3.7 kg in the placebo, RYBELSUS 7 mg, and RYBELSUS 14 mg arms, respectively.
 The difference from placebo (95% CI) for RYBELSUS 7 mg was -2.0 kg (-3.0, -1.0), and for RYBELSUS 14 mg was -3.3 kg (-4.2, -2.3).
 
-## 14.4 Cardiovascular Outcomes Trial of RYBELSUS in Patients with Type 2 Diabetes Mellitus
+## 14.4 Cardiovascular Outcomes Trial in Patients with Type 2 Diabetes Mellitus and Cardiovascular Disease
 
 PIONEER 6 (NCT02692716) was a multi-center, multi-national, placebo-controlled, double-blind trial.
-In this trial, 3183 patients with inadequately controlled type 2 diabetes and atherosclerotic cardiovascular disease were randomized to RYBELSUS 14 mg once daily or placebo, both in addition to standard of care, for a median observation time of 16 months.
-In total, 1797 patients (56.5%) had established cardiovascular disease without chronic kidney disease, 354 patients (11.1%) had chronic kidney disease only, and 544 patients (17.1%) had both cardiovascular disease and kidney disease; 488 patients (15.3%) had cardiovascular risk factors without established cardiovascular disease or chronic kidney disease.
+In this trial, 3,183 patients with inadequately controlled type 2 diabetes and atherosclerotic cardiovascular disease were randomized to RYBELSUS 14 mg once daily or placebo for a median observation time of 16 months.
+The trial compared the risk of a Major Adverse Cardiovascular Event (MACE) between RYBELSUS 14 mg and placebo when these were added to and used concomitantly with standard of care treatments for diabetes and cardiovascular disease.
+The primary endpoint, MACE, was the time to first occurrence of a three-part composite outcome which included cardiovascular death, non-fatal myocardial infarction and non-fatal stroke.
+
+Patients eligible to enter the trial were; 50 years of age or older and had established, stable, cardiovascular, cerebrovascular, peripheral artery disease, chronic kidney disease or NYHA class II and III heart failure or were 60 years of age or older and had other specified risk factors for cardiovascular disease.
+In total, 1,797 patients (56.5%) had established cardiovascular disease without chronic kidney disease, 354 patients (11.1%) had chronic kidney disease only, and 544 patients (17.1%) had both cardiovascular disease and kidney disease; 488 patients (15.3%) had cardiovascular risk factors without established cardiovascular disease or chronic kidney disease.
 The mean age at baseline was 66 years, and 68% were men.
 The mean duration of diabetes was 14.9 years, and mean BMI was 32 kg/m2.
 Overall, 72% were White, 6% were Black or African American, and 20% were Asian; 16% identified as Hispanic or Latino ethnicity.
 Concomitant diseases of patients in this trial included, but were not limited to, heart failure (12%), history of ischemic stroke (8%) and history of a myocardial infarction (36%).
-
 In total, 99.7% of the patients completed the trial and the vital status was known at the end of the trial for 100%.
 
-The primary endpoint was the time to first occurrence of a three-part composite outcome of major adverse cardiovascular events (MACE) which included cardiovascular death, non-fatal myocardial infarction and non-fatal stroke.
-The secondary endpoint was time from randomization to first occurrence of an expanded composite cardiovascular outcome, defined as MACE, unstable angina requiring hospitalization or hospitalization for heart failure.
-The total number of primary component MACE endpoints was 137 (61 [3.8%] with RYBELSUS and 76 [4.8%] with placebo).
-No increased risk for MACE was observed with RYBELSUS.
+For the primary analysis, a Cox proportional hazards model was used to test for non-inferiority of RYBELSUS 14 mg to placebo for time to first MACE using a risk margin of 1.3.
+Type-1 error was controlled across multiple tests using a hierarchical testing strategy.
+Non‑inferiority to placebo was established, with a hazard ratio equal to 0.79 (95% CI: 0.57, 1.11) over the median observation time of 16-months.
+The proportion of patients who experienced at least one MACE was 3.8% (61/1591) for RYBELSUS 14 mg and 4.8% (76/1592) for placebo.

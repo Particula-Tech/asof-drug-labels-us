@@ -17,7 +17,7 @@
 - •Taking two 7 mg RYBELSUS tablets to achieve a 14 mg dose is not recommended.
 - •If a dose is missed, the missed dose should be skipped, and the next dose should be taken the following day.
 
-## 2.3 Switching Patients Between OZEMPIC and RYBELSUS
+## 2.3 Switching Patients between OZEMPIC and RYBELSUS
 
 - •Patients treated with RYBELSUS 14 mg daily can be transitioned to OZEMPIC subcutaneous injection 0.5 mg once weekly.
   Patients can start OZEMPIC the day after their last dose of RYBELSUS.

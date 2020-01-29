@@ -54,12 +54,12 @@ Plainsboro, NJ 08536
 
 1-833-457-7455
 
-Date of Issue: September 2019
+Date of Issue: January 2020
 
-Version: 1
+Version: 2
 
-RYBELSUS ® and OZEMPIC ®are registered trademarks of Novo Nordisk A/S.
+RYBELSUS ® and OZEMPIC® are registered trademarks of Novo Nordisk A/S.
 
 PATENT INFORMATION: http://www.novonordisk-us.com/products/product-patents.html
 
-© 2019 Novo Nordisk
+© 2020 Novo Nordisk

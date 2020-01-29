@@ -116,7 +116,7 @@ The delay of gastric emptying with semaglutide may influence the absorption of c
 Trials were conducted to study the potential effect of semaglutide on the absorption of oral medications taken with semaglutide administered orally at steady-state exposure.
 
 No clinically relevant drug-drug interaction with semaglutide (Figure 2) was observed based on the evaluated medications.
-Total exposure (AUC) of thyroxine (adjusted for endogenous levels) was increased by 33% following administration of a single dose of levothyroxine 600 ug concurrently administered with semaglutide.
+Total exposure (AUC) of thyroxine (adjusted for endogenous levels) was increased by 33% following administration of a single dose of levothyroxine 600 µg concurrently administered with semaglutide.
 Maximum exposure (Cmax) was unchanged [see Drug Interactions (7.2)].
 
 Figure 2.
