@@ -2,17 +2,17 @@ PRINCIPAL DISPLAY PANEL
 
 NDC 0173-0933-08
 
-VALTREX®
+VALTREX
 
-(valacyclovir HCl) CAPLETS
+(valacyclovir) TABLETS
 
 500 mg
 
-30 Caplets
+30 Tablets
 
 Rx only
 
-Equivalent to 500 mg valacyclovir per caplet.
+Equivalent to 556.2 mg valacyclovir hydrochloride per tablet.
 
 See prescribing information for dosage information.
 
@@ -29,25 +29,25 @@ Research Triangle Park, NC 27709
 Made in India
 
 Rev.
-1/17
+11/19
 
-10000000143761
+DFT-02241-4672081
 
 PRINCIPAL DISPLAY PANEL
 
 NDC 0173-0565-04
 
-VALTREX®
+VALTREX
 
-(valacyclovir HCl) CAPLETS
+(valacyclovir) TABLETS
 
 1 gram
 
-30 Caplets
+30 Tablets
 
 Rx only
 
-Equivalent to 1 gram valacyclovir per caplet.
+Equivalent to 1.112 grams valacyclovir hydrochloride per tablet.
 
 See prescribing information for dosage information.
 
@@ -64,6 +64,6 @@ Research Triangle Park, NC 27709
 Made in India
 
 Rev.
-5/17
+11/19
 
-10000000146410
+DFT-02241-4672079
