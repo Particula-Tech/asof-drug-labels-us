@@ -26,13 +26,16 @@ OZEMPIC may cause serious side effects, including:
 
 What is OZEMPIC?
 
-OZEMPIC is an injectable prescription medicine for adults with type 2 diabetes mellitus that:
+OZEMPIC is an injectable prescription medicine used:
 
-- •along with diet and exercise may improve blood sugar (glucose).
-- •OZEMPIC is not recommended as the first choice of medicine for treating diabetes.
-- •It is not known if OZEMPIC can be used in people who have had pancreatitis.
-- •OZEMPIC is not a substitute for insulin and is not for use in people with type 1 diabetes or people with diabetic ketoacidosis.
-- •It is not known if OZEMPIC is safe and effective for use in children under 18 years of age.
+- •along with diet and exercise to improve blood sugar (glucose) in adults with type 2 diabetes mellitus.
+- •to reduce the risk of major cardiovascular events such as heart attack, stroke or death in adults with type 2 diabetes mellitus with known heart disease.
+
+It is not known if OZEMPIC can be used in people who have had pancreatitis.
+
+OZEMPIC is not a substitute for insulin and is not for use in people with type 1 diabetes or people with diabetic ketoacidosis.
+
+It is not known if OZEMPIC is safe and effective for use in children under 18 years of age.
 
 Do not use OZEMPIC if:
 
@@ -146,10 +149,10 @@ Manufactured by: Novo Nordisk A/S, DK-2880 Bagsvaerd, Denmark
 
 OZEMPIC® is a registered trademark of Novo Nordisk A/S.
 
-PATENT Information: http://novonordisk-us.com/patients/products/product-patents.html
+PATENT Information: http://novonordisk-us.com/products/product-patents.html
 
-© 2017 Novo Nordisk
-
-Revised: December 2017
+© 2020 Novo Nordisk
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
+
+Revised: 01/2020

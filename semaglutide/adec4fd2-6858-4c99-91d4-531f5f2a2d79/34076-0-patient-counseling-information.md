@@ -34,19 +34,8 @@ Pregnancy
 Advise a pregnant woman of the potential risk to a fetus.
 Advise women to inform their healthcare provider if they are pregnant or intend to become pregnant [see Use in SpecificPopulations (8.1), (8.3)].
 
-Instructions
-
-Inform patients of the potential risks and benefits of OZEMPIC and of alternative modes of therapy.
-Inform patients about the importance of adherence to dietary instructions, regular physical activity, periodic blood glucose monitoring and A1c testing, recognition and management of hypoglycemia and hyperglycemia, and assessment for diabetes complications.
-Advise patients to seek medical advice promptly during periods of stress such as fever, trauma, infection, or surgery as medication requirements may change.
-
-Advise patients that the most common side effects of OZEMPIC are nausea, vomiting, diarrhea, abdominal pain and constipation.
-Inform patients that nausea, vomiting and diarrhea are most common when first starting OZEMPIC, but decreases over time in the majority of patients.
-
-Instruct patients to reread the Medication Guide each time the prescription is renewed.
-
 Inform patients if a dose is missed, it should be administered as soon as possible within 5 days after the missed dose.
-If more than 5 days have passed, the missed dose should be skipped and the next dose should be administered on the regularly scheduled day.
+If more than 5 days have passed, the missed dose should be skipped, and the next dose should be administered on the regularly scheduled day.
 In each case, inform patients to resume their regular once weekly dosing schedule [see Dosage and Administration (2.1)].
 
 Manufactured by: Novo Nordisk A/S
@@ -65,12 +54,12 @@ Plainsboro, NJ 08536
 
 1-888-693-6742
 
-Date of Issue: April 2019
+Date of Issue: January 2020
 
-Version: 3
+Version: 4
 
 OZEMPIC® and NovoFine® are registered trademarks of Novo Nordisk A/S.
 
-PATENT INFORMATION: http://novonordisk-us.com/patients/products/product-patents.html
+PATENT INFORMATION: http://www.novonordisk-us.com/products/product-patents.html
 
-© 2019 Novo Nordisk
+© 2020 Novo Nordisk

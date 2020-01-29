@@ -1,8 +1,6 @@
 # 3 DOSAGE FORMS AND STRENGTHS
 
-Injection: clear, colorless solution available in 2 pre-filled, disposable, single-patient-use pens:
+Injection: 2 mg/1.5 mL (1.34 mg/mL) of semaglutide as a clear, colorless solution available in:
 
-| Dose per Injection | Use For | Total Strength per Total Volume | Strength per mL |
-| --- | --- | --- | --- |
-| 0.25 mg0.5 mg | Initiation Maintenance | 2 mg / 1.5 mL | 1.34 mg/mL |
-| 1 mg | Maintenance | 2 mg / 1.5 mL | 1.34 mg/mL |
+- •Pre-filled, disposable, single-patient-use pen that delivers 0.25 mg (for treatment initiation) or 0.5 mg (for maintenance treatment) per injection.
+- •Pre-filled, disposable, single-patient-use pen that delivers 1 mg (for maintenance treatment) per injection.

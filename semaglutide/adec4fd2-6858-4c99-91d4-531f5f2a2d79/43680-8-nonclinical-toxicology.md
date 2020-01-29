@@ -3,7 +3,7 @@
 ## 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
 
 In a 2-year carcinogenicity study in CD-1 mice, subcutaneous doses of 0.3, 1 and 3 mg/kg/day [5-, 17-, and 59-fold the maximum recommended human dose (MRHD) of 1 mg/week, based on AUC] were administered to the males, and 0.1, 0.3 and 1 mg/kg/day (2-, 5-, and 17-fold MRHD) were administered to the females.
-A statistically significant increase in thyroid C-cell adenomas and a numerical increase in C-cell carcinomas were observed in males and females at all dose levels (≥2X human exposure).
+A statistically significant increase in thyroid C-cell adenomas and a numerical increase in C-cell carcinomas were observed in males and females at all dose levels (>2X human exposure).
 
 1. In a 2-year carcinogenicity study in Sprague Dawley rats, subcutaneous doses of 0.0025, 0.01, 0.025 and 0.1 mg/kg/day were administered (below quantification, 0.4-, 1-, and 6-fold the exposure at the MRHD).
    A statistically significant increase in thyroid C-cell adenomas was observed in males and females at all dose levels, and a statistically significant increase in thyroid C-cell carcinomas was observed in males at ≥0.01 mg/kg/day, at clinically relevant exposures.

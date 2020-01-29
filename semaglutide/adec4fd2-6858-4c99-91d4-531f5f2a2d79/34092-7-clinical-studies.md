@@ -59,7 +59,7 @@ Overall, 68% were White, 5% were Black or African American, and 25% were Asian; 
 Treatment with OZEMPIC0.5 mg and 1 mg once weekly for 56 weeks resulted in a statistically significant reduction in HbA1c compared to sitagliptin (see Table 4 and Figure 5).
 
 Table 4.
-Results at Week 56 in a Trial of OZEMPIC Compared to Sitagliptin in Adult Patients with Type 2 Diabetes Mellitus In Combination with Metformin and/or Thiazolidinediones
+Results at Week 56 in a Trial of OZEMPIC Compared to Sitagliptin in Adult Patients with Type 2 Diabetes Mellitus in Combination with Metformin and/or Thiazolidinediones
 
 |  | OZEMPIC0.5 mg | OZEMPIC1 mg | Sitagliptin |
 | --- | --- | --- | --- |
@@ -98,7 +98,7 @@ Overall, 84% were White, 7% were Black or African American, and 2% were Asian; 2
 Treatment with OZEMPIC 1 mg once weekly for 56 weeks resulted in a statistically significant reduction in HbA1c compared to exenatide 2 mg once weekly (see Table 5).
 
 Table 5.
-Results at Week 56 in a Trial of OZEMPIC Compared to Exenatide 2 mg Once Weekly in Adult Patients with Type 2 Diabetes Mellitus In Combination with Metformin or Metformin with Sulfonylurea
+Results at Week 56 in a Trial of OZEMPIC Compared to Exenatide 2 mg Once Weekly in Adult Patients with Type 2 Diabetes Mellitus in Combination with Metformin or Metformin with Sulfonylurea
 
 |  | OZEMPIC1 mg | Exenatide ER 2 mg |
 | --- | --- | --- |
@@ -139,7 +139,7 @@ Only 26% of patients had been titrated to goal by the primary endpoint at week 3
 Treatment with OZEMPIC 0.5 mg and 1 mg once weekly for 30 weeks resulted in a statistically significant reduction in HbA1c compared with the insulin glargine titration implemented in this study protocol (see Table 6).
 
 Table 6.
-Results at Week 30 in a Trial of OZEMPIC Compared to Insulin Glargine in Adult Patients with Type 2 Diabetes Mellitus In Combination with Metformin or Metformin with Sulfonylurea
+Results at Week 30 in a Trial of OZEMPIC Compared to Insulin Glargine in Adult Patients with Type 2 Diabetes Mellitus in Combination with Metformin or Metformin with Sulfonylurea
 
 |  | OZEMPIC0.5 mg | OZEMPIC1 mg | Insulin Glargine |
 | --- | --- | --- | --- |
@@ -176,7 +176,7 @@ Overall, 78% were White, 5% were Black or African American, and 17% were Asian; 
 Treatment with OZEMPICresulted in a statistically significant reduction in HbA1c after 30 weeks of treatment compared to placebo (see Table 7).
 
 Table 7.
-Results at Week 30 in a Trial of OZEMPIC in Adult Patients with Type 2 Diabetes Mellitus In Combination with Basal Insulin With or Without Metformin
+Results at Week 30 in a Trial of OZEMPIC in Adult Patients with Type 2 Diabetes Mellitus in Combination with Basal Insulin with or without Metformin
 
 |  | Placebo | OZEMPIC0.5 mg | OZEMPIC1 mg |
 | --- | --- | --- | --- |
@@ -202,17 +202,45 @@ The mean baseline body weight was 89.9 kg, 92.7 kg, and 92.5 kg in the placebo, 
 The mean changes from baseline to week 30 were -1.2 kg, -3.5 kg, and ‑6.0 kg in the placebo, OZEMPIC 0.5 mg, and OZEMPIC 1 mg arms, respectively.
 The difference from placebo (95% CI) for OZEMPIC 0.5 mg was -2.2 kg (-3.4, -1.1), and for OZEMPIC 1 mg was -4.7 kg (-5.8, -3.6).
 
-## 14.4 Cardiovascular Outcomes Trial of OZEMPIC in Patients with Type 2 Diabetes Mellitus
+## 14.4 Cardiovascular Outcomes Trial of OZEMPIC in Patients with Type 2 Diabetes Mellitus and Cardiovascular Disease
 
-SUSTAIN 6 (NCT01720446) was a 104-week, double-blind trial in which 3,297 patients with type 2 diabetes and high risk of cardiovascular events were randomized to OZEMPIC0.5 mg once weekly, OZEMPIC 1 mg once weekly, or placebo in addition to standard-of-care.
-In total, 2,735 (83%) of the patients had a history of cardiovascular disease and 562 (17%) were at high risk but without known cardiovascular disease.
+SUSTAIN 6 (NCT01720446) was a multi-center, multi-national, placebo-controlled, double-blind cardiovascular outcomes trial.
+In this trial, 3,297 patients with inadequately controlled type 2 diabetes and atherosclerotic cardiovascular disease were randomized to OZEMPIC(0.5 mg or 1 mg) once weekly or placebo for a minimum observation time of 2 years.
+The trial compared the risk of Major Adverse Cardiovascular Event (MACE) between semaglutide and placebo when these were added to and used concomitantly with standard of care treatments for diabetes and cardiovascular disease.
+The primary endpoint, MACE, was the time to first occurrence of a three-part composite outcome which included cardiovascular death, non-fatal myocardial infarction and non-fatal stroke.
+
+Patients eligible to enter the trial were; 50 years of age or older and had established, stable, cardiovascular, cerebrovascular, peripheral artery disease, chronic kidney disease or NYHA class II and III heart failure or were 60 years of age or older and had other specified risk factors for cardiovascular disease.
+In total, 1,940 patients (58.8%) had established cardiovascular disease without chronic kidney disease, 353 (10.7%) had chronic kidney disease only, and 442 (13.4%) had both cardiovascular disease and kidney disease; 562 patients (17%) had cardiovascular risk factors without established cardiovascular disease or chronic kidney disease.
+In the trial 453 patients (13.7%) had peripheral artery disease.
 The mean age at baseline was 65 years, and 61% were men.
 The mean duration of diabetes was 13.9 years, and mean BMI was 33 kg/m2.
 Overall, 83% were White, 7% were Black or African American, and 8% were Asian; 16% identified as Hispanic or Latino ethnicity.
 Concomitant diseases of patients in this trial included, but were not limited to, heart failure (24%), hypertension (93%), history of ischemic stroke (12%) and history of a myocardial infarction (33%).
-
 In total, 98.0% of the patients completed the trial and the vital status was known at the end of the trial for 99.6%.
-The primary composite endpoint was the time from randomization to first occurrence of a major adverse cardiovascular event (MACE): cardiovascular death, non-fatal myocardial infarction or non-fatal stroke.
-The secondary endpoint was time from randomization to first occurrence of an expanded composite cardiovascular outcome, defined as MACE, revascularization (coronary and peripheral), unstable angina requiring hospitalization or hospitalization for heart failure.
-The total number of primary component MACE endpoints was 254 (108 [6.6%] with OZEMPIC and 146 [8.9%] with placebo).
-No increased risk for MACE was observed with OZEMPIC.
+
+For the primary analysis, a Cox proportional hazards model was used to test for non-inferiority of OZEMPIC to placebo for time to first MACE using a risk margin of 1.3.
+The statistical analysis plan pre specified that the 0.5 mg and 1 mg doses would be combined.
+Type-1 error was controlled across multiple tests using a hierarchical testing strategy.
+
+OZEMPIC significantly reduced the occurrence of MACE.
+The estimated hazard ratio for time to first MACE was 0.74 (95% CI: 0.58, 0.95).
+Refer to Figure 6 and Table 8.
+
+Figure 6.
+Kaplan-Meier: Time to First Occurrence of a MACE in the SUSTAIN 6 Trial
+
+The treatment effect for the primary composite endpoint and its components in the SUSTAIN 6 trial is shown in Table 8.
+
+Table 8.
+Treatment Effect for MACE and its Components, Median Study Observation Time of 2.1 Years
+
+|  | PlaceboN=1649 (%) | OZEMPICN=1648 (%) | Hazard ratio vs Placebo(95% CI)a |
+| --- | --- | --- | --- |
+| Composite of cardiovascular death, non-fatalmyocardial infarction, non-fatalstroke (time to first occurrence) | 146 (8.9) | 108 (6.6) | 0.74 (0.58, 0.95) |
+| Non-fatal Myocardial Infarction | 64 (3.9) | 47 (2.9) | 0.74 (0.51, 1.08) |
+| Non-fatal Stroke | 44 (2.7) | 27 (1.6) | 0.61 (0.38, 0.99) |
+| Cardiovascular Death | 46 (2.8) | 44 (2.7) | 0.98 (0.65, 1.48) |
+| Fatal or Non-fatal Myocardial Infarction | 67 (4.1) | 54 (3.3) | 0.81 (0.57, 1.16) |
+| Fatal or Non-fatal Stroke | 46 (2.8) | 30 (1.8) | 0.65 (0.41, 1.03) |
+
+a Cox-proportional hazards models with treatment as factor and stratified by evidence of cardiovascular disease, insulin treatment and renal impairment.

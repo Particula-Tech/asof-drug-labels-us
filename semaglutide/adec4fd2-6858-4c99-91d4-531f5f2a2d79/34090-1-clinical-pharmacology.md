@@ -11,7 +11,7 @@ The principal mechanism of protraction resulting in the long half-life of semagl
 Furthermore, semaglutide is stabilized against degradation by the DPP-4 enzyme.
 
 Semaglutide reduces blood glucose through a mechanism where it stimulates insulin secretion and lowers glucagon secretion, both in a glucose-dependent manner.
-Thus, when blood glucose is high, insulin secretion is stimulated and glucagon secretion is inhibited.
+Thus, when blood glucose is high, insulin secretion is stimulated, and glucagon secretion is inhibited.
 The mechanism of blood glucose lowering also involves a minor delay in gastric emptying in the early postprandial phase.
 
 ## 12.2 Pharmacodynamics
@@ -22,10 +22,10 @@ All pharmacodynamic evaluations were performed after 12 weeks of treatment (incl
 Fasting and Postprandial Glucose
 
 Semaglutide reduces fasting and postprandial glucose concentrations.
-In patients with type 2 diabetes, treatment with semaglutide 1 mg resulted in reductions in glucose in terms of absolute change from baseline and relative reduction compared to placebo of 29 mg/dL (22%) for fasting glucose, 74 mg/dL (36%) for 2 hour postprandial glucose, and 30 mg/dL (22%) for mean 24 hour glucose concentration (see Figure 1).
+In patients with type 2 diabetes, treatment with semaglutide 1 mg resulted in reductions in glucose in terms of absolute change from baseline and relative reduction compared to placebo of 29 mg/dL (22%) for fasting glucose, 74 mg/dL (36%) for 2-hour postprandial glucose, and 30 mg/dL (22%) for mean 24-hour glucose concentration (see Figure 1).
 
 Figure 1.
-Mean 24 hour plasma glucose profiles (standardized meals) in patients with type 2 diabetes before (baseline) and after 12 weeks of treatment with semaglutide or placebo
+Mean 24-hour plasma glucose profiles (standardized meals) in patients with type 2 diabetes before (baseline) and after 12 weeks of treatment with semaglutide or placebo
 
 Insulin Secretion
 
@@ -44,7 +44,7 @@ With semaglutide, the insulin secretion rate in patients with type 2 diabetes wa
 Figure 2.
 Mean insulin secretion rate versus glucose concentration in patients with type 2 diabetes during graded glucose infusion before (baseline) and after 12 weeks of treatment with semaglutide or placebo and in untreated healthy subjects
 
-During induced hypoglycemia, semaglutide did not alter the counter regulatory responses of increased glucagon compared to placebo, and did not impair the decrease of C-peptide in patients with type 2 diabetes.
+During induced hypoglycemia, semaglutide did not alter the counter regulatory responses of increased glucagon compared to placebo and did not impair the decrease of C-peptide in patients with type 2 diabetes.
 
 Gastric emptying
 
@@ -83,7 +83,7 @@ The primary route of elimination for semaglutide is metabolism following proteol
 
 Excretion
 
-The primary excretion routes of semaglutide-related material is via the urine and feces.
+The primary excretion routes of semaglutide-related material are via the urine and feces.
 Approximately 3% of the dose is excreted in the urine as intact semaglutide.
 
 Specific Populations

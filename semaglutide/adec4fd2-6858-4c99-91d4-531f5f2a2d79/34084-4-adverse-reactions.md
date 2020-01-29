@@ -43,7 +43,7 @@ Baseline estimated renal function was normal (eGFR ≥90 mL/min/1.73m2) in 63.1%
 Common Adverse Reactions
 
 Table 1 shows common adverse reactions, excluding hypoglycemia, associated with the use of OZEMPIC in the pool of placebo-controlled trials.
-These adverse reactions occurred more commonly on OZEMPIC than on placebo, and occurred in at least 5% of patients treated with OZEMPIC.
+These adverse reactions occurred more commonly on OZEMPIC than on placebo and occurred in at least 5% of patients treated with OZEMPIC.
 
 Table 1.
 Adverse Reactions in Placebo-Controlled Trials Reported in ≥5% of OZEMPIC-Treated Patients with Type 2 Diabetes Mellitus
@@ -73,7 +73,7 @@ Hypoglycemia
 Table 2 summarizes the incidence of events related to hypoglycemia by various definitions in the placebo-controlled trials.
 
 Table 2.
-Hypoglycemia Adverse Reactions in Placebo-Controlled Trials In Patients with Type 2 Diabetes Mellitus
+Hypoglycemia Adverse Reactions in Placebo-Controlled Trials in Patients with Type 2 Diabetes Mellitus
 
 |  | Placebo | OZEMPIC 0.5 mg | OZEMPIC 1 mg |
 | --- | --- | --- | --- |

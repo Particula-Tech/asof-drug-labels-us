@@ -21,4 +21,4 @@
   It should appear clear and colorless.
   Do not use OZEMPIC if particulate matter and coloration is seen.
 - •When using OZEMPIC with insulin, instruct patients to administer as separate injections and to never mix the products.
-  It is acceptable to inject OZEMPIC and insulin in the same body region but the injections should not be adjacent to each other.
+  It is acceptable to inject OZEMPIC and insulin in the same body region, but the injections should not be adjacent to each other.

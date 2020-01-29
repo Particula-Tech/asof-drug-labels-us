@@ -59,7 +59,3 @@ Do not use in patients with a previous hypersensitivity to OZEMPIC [see Contrain
 
 Anaphylaxis and angioedema have been reported with other GLP-1 receptor agonists.
 Use caution in a patient with a history of angioedema or anaphylaxis with another GLP-1 receptor agonist because it is unknown whether such patients will be predisposed to anaphylaxis with OZEMPIC.
-
-## 5.8 Macrovascular Outcomes
-
-There have been no clinical studies establishing conclusive evidence of macrovascular risk reduction with OZEMPIC.
