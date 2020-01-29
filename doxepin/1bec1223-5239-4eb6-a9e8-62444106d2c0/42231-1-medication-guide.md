@@ -143,7 +143,7 @@ This Medication Guide summarizes the most important information about SILENOR.
 If you would like more information, talk with your healthcare provider.
 You can ask your healthcare provider or pharmacist for information about SILENOR that is written for healthcare professionals.
 
-For more information, contact Pernix Therapeutics, LLC. at 1-877-SILENOR (745-3667) or visit http://www.silenor.com.
+For more information, contact Currax™ Pharmaceuticals LLC at 1-800-793-2145.
 
 What are the ingredients in SILENOR?
 
@@ -153,8 +153,8 @@ Inactive Ingredients: Microcrystalline cellulose, colloidal silicon dioxide, and
 The 3 mg tablet also contains FD&C Blue No. 1.
 The 6 mg tablet also contains FD&C Yellow No. 10 and FD&C Blue No. 1.
 
-Manufactured for: Pernix Therapeutics, LLC Morristown, NJ 07960 USA
+Distributed by: Currax™ Pharmaceuticals LLC Morristown, NJ 07960 USA
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-SIL-0030.03.P1A 09/14
+SIL-LC087.00 08/19
