@@ -1,6 +1,6 @@
 # 8 USE IN SPECIFIC POPULATIONS
 
-### 8.1 Pregnancy
+## 8.1 Pregnancy
 
 Risk Summary There are no adequate data on the developmental risks associated with the use of rasagiline in pregnant women.
 In animal studies, oral administration of rasagiline to rats during gestation and lactation resulted in decreased survival and reduced body weight in the offspring at doses similar to those used clinically.
@@ -9,7 +9,9 @@ When administered to pregnant animals in combination with levodopa/carbidopa, th
 In the US general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively.
 The background risks of major birth defects and miscarriage for the indicated population is unknown.
 
-Data Animal Data In a combined mating/fertility and embryofetal development study in pregnant rats, no effect on embryofetal development was observed at oral doses up to 3 mg/kg/day (approximately 30 times the plasma exposure (AUC) in humans at the maximum recommended human dose [MRHD, 1 mg/day]).
+Data
+
+Animal Data In a combined mating/fertility and embryofetal development study in pregnant rats, no effect on embryofetal development was observed at oral doses up to 3 mg/kg/day (approximately 30 times the plasma exposure (AUC) in humans at the maximum recommended human dose [MRHD, 1 mg/day]).
 
 In pregnant rabbits administered rasagiline throughout the period of organogenesis at oral doses of up to 36 mg/kg/day, no developmental toxicity was observed.
 At the highest dose tested, the plasma AUC was approximately 800 times that in humans at the MRHD.

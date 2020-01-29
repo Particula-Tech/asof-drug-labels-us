@@ -30,10 +30,10 @@ Table 4: Change in Total UPDRS Score in Study 1
 
 ## 14.2 Adjunct Use of Rasagiline
 
-Study 2 was a double-blind, randomized, placebo-controlled, parallel group, 18 week study, investigating rasagiline 1 mg as adjunct therapy to dopamine agonists without levodopa.
+Study 2 was a double-blind, randomized, placebo-controlled, parallel group, 18-week study, investigating rasagiline 1 mg as adjunct therapy to dopamine agonists without levodopa.
 Patients were on a stable dose of dopamine agonist (ropinirole, mean 8 mg/day or pramipexole, mean 1.5 mg/day) therapy for ≥ 30 days, but at doses not sufficient to control Parkinson’s disease symptoms.
 
-In Study 2,321 patients randomly received placebo (162 patients) or rasagiline 1 mg/day (159 patients) and had a post-baseline assessment.
+In Study 2, 321 patients randomly received placebo (162 patients) or rasagiline 1 mg/day (159 patients) and had a post-baseline assessment.
 The average Parkinson’s disease duration was approximately 2 years (range 0.1 to 14.5 years).
 
 The primary measure of effectiveness was the change from baseline in the total score of the Unified Parkinson’s Disease Rating Scale (UPDRS) [mentation (Part I) + activities of daily living (ADL) (Part II) + motor function (Part III)].
