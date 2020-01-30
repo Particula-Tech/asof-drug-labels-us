@@ -1,161 +1,127 @@
 # 6 ADVERSE REACTIONS
 
-The following serious adverse reactions are described below and elsewhere in the labeling:
+The following serious adverse reactions are described elsewhere in the labeling:
 
-- Bone Marrow Suppression [see Warnings and Precautions (5.1)]
-- Neutropenic Enterocolitis [see Warnings and Precautions (5.2)]
-- Interstitial Lung Disease [see Warnings and Precautions (5.3)]
-- Extravasation and Tissue Injury [see Warnings and Precautions (5.5)]
+- Myelosuppression [see Warnings and Precautions (5.1)]
+- Interstitial Lung Disease (ILD) [see Warnings and Precautions (5.2)]
+- Extravasation and Tissue Injury [see Warnings and Precautions (5.3)]
 
 ## 6.1 Clinical Trials Experience
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared with rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
+The data in Warnings and Precautions reflect exposure to topotecan hydrochloride for injection from eight trials in which 879 patients with ovarian cancer or small cell lung cancer (SCLC) received topotecan hydrochloride for injection 1.5 mg/m 2 by intravenous infusion daily for 5 consecutive days, starting on Day 1 of a 21 day cycle and from one trial (Study GOG 0179) in which 147 patients with cervical cancer received topotecan hydrochloride for injection 0.75 mg/m 2 by intravenous infusion daily on Days 1, 2, and 3, with cisplatin 50 mg/m2 by intravenous infusion on Day 1, of a 21-day cycle.
+
 Ovarian Cancer
 
-Table 1 shows the Grade 3/4 hematologic and major non‑hematologic adverse reactions in the topotecan/paclitaxel comparator trial in ovarian cancer.
+The safety of topotecan hydrochloride for injection was evaluated in a randomized trial conducted in 226 patients with metastatic ovarian cancer (Study 039) [see Clinical Studies (14.1)].
+Table 1 shows the incidence of Grade 3 and 4 hematologic and non-hematologic adverse reactions that occurred in patients receiving topotecan hydrochloride for injection.
 
 Table 1.
-Adverse Reactions Experienced by ≥5% of Ovarian Cancer Patients Randomized to Receive Topotecan Hydrochloride for Injection or Paclitaxel
+Adverse Reactions Occurring in Greater than or Equal to 5% of Patients With Ovarian Cancer in Study 039
 
-| Adverse Reaction | Topotecan Hydrochloride for Injection(n = 112) | Paclitaxel(n = 114) |
+| Adverse Reactions | Topotecan Hydrochloride for Injection(n = 112) | Paclitaxel(n = 114) |
 | --- | --- | --- |
-| Hematologic Grade 3/4 | % | % |
-| Grade 4 neutropenia (<500 cells/mm 3) | 80 | 21 |
-| Grade 3/4 anemia (Hgb <8 g/dL) | 41 | 6 |
-| Grade 4 thrombocytopenia (<25,000 plts/mm 3) | 27 | 3 |
-| Febrile neutropenia | 23 | 4 |
-| Non-hematologic Grade 3/4 | % | % |
-| Infections and infestations |  |  |
+|  | Grade 3-4 (%) | Grade 3-4 (%) |
+| Hematologic |  |  |
+| Grade 4 neutropenia (< 500/mm 3) Grade 3 or 4 anemia (Hgb < 8 g/dL) Grade 4 thrombocytopenia (< 25,000/mm 3) Febrile neutropenia | 80 41 27 23 | 21 6 3 4 |
+| Non-Hematologic |  |  |
+| Infections |  |  |
 | Sepsis a | 5 | 2 |
-| Respiratory, thoracic, and mediastinal disorders |  |  |
+| Respiratory, thoracic, and mediastinal |  |  |
 | Dyspnea | 6 | 5 |
-| Gastrointestinal disorders |  |  |
-| Abdominal pain | 5 | 4 |
-| Constipation | 5 | 0 |
-| Diarrhea | 6 | 1 |
-| Intestinal obstruction | 5 | 4 |
-| Nausea | 10 | 2 |
+| Gastrointestinal |  |  |
 | Vomiting | 10 | 3 |
-| General disorders and administrative site conditions |  |  |
+| Nausea | 10 | 2 |
+| Diarrhea | 6 | 1 |
+| Abdominal pain | 5 | 4 |
+| Intestinal obstruction | 5 | 4 |
+| Constipation | 5 | 0 |
+| General and administrative site conditions |  |  |
 | Fatigue | 7 | 6 |
-| Asthenia | 5 | 3 |
 | Pain b | 5 | 7 |
+| Asthenia | 5 | 3 |
+| a Death related to sepsis occurred in 2% of patients receiving topotecan hydrochloride for injection and 0% of patients receiving paclitaxel. b Pain includes body pain, skeletal pain, and back pain. |  |  |
 
-a Death related to sepsis occurred in 2% of patients receiving topotecan hydrochloride for injection and 0% of patients receiving paclitaxel.
+Small Cell Lung Cancer (SCLC)
 
-b Pain includes body pain, skeletal pain, and back pain.
-
-Small Cell Lung Cancer
-
-Table 2 shows the Grade 3/4 hematologic and major non‑hematologic adverse reactions in the topotecan/CAV (cyclophosphamide‑doxorubicin‑vincristine) comparator trial in small cell lung cancer.
+The safety of topotecan hydrochloride for injection was evaluated in randomized, comparative trial in patients with recurrent or progressive SCLC (Study 090) [see Clinical Studies (14.2)].
+Table 2 shows the Grade 3 or 4 hematologic and non-hematologic adverse reactions in patients with SCLC.
 
 Table 2.
-Adverse Reactions Experienced by ≥5% of Small Cell Lung Cancer Patients Randomized to Receive Topotecan Hydrochloride for Injection or CAV
+Adverse Reactions Occurring in Greater than or Equal to 5% of Patients With Small Cell Lung Cancer in Study 090
 
-| Adverse Reaction | Topotecan Hydrochloride for Injection(n = 107) | CAV(n = 104) |
+| Adverse Reactions | Topotecan Hydrochloride for Injection(n = 107) | CAV c(n = 104) |
 | --- | --- | --- |
-| Hematologic Grade 3/4 | % | % |
-| Grade 4 neutropenia(<500 cells/mm 3) | 70 | 72 |
-| Grade 3/4 anemia(Hgb <8 g/dL) | 42 | 20 |
-| Grade 4 thrombocytopenia(<25,000 plts/mm 3) | 29 | 5 |
-| Febrile neutropenia | 28 | 26 |
-| Non-hematologic Grade 3/4 | % | % |
-| Infections and infestations |  |  |
+|  | Grade 3-4 (%) | Grade 3-4 (%) |
+| Hematologic |  |  |
+| Grade 4 neutropenia (< 500/mm 3) Grade 3 or 4 anemia (Hgb < 8 g/dL) Grade 4 thrombocytopenia (< 25,000/mm 3) Febrile neutropenia | 70 42 29 28 | 72 20 5 26 |
+| Non-Hematologic |  |  |
+| Infections |  |  |
 | Sepsis a | 5 | 5 |
-| Respiratory, thoracic, and mediastinal disorders |  |  |
+| Respiratory, thoracic, and mediastinal |  |  |
 | Dyspnea | 9 | 14 |
 | Pneumonia | 8 | 6 |
-| Gastrointestinal disorders |  |  |
-| Abdominal pain | 6 | 4 |
+| Gastrointestinal |  |  |
 | Nausea | 8 | 6 |
-| General disorders and administrative site conditions |  |  |
-| Fatigue | 6 | 10 |
+| Abdominal pain | 6 | 4 |
+| General and administrative site conditions |  |  |
 | Asthenia | 9 | 7 |
+| Fatigue | 6 | 10 |
 | Pain b | 5 | 7 |
+| a Death related to sepsis occurred in 3% of patients receiving topotecan hydrochloride for injection and 1% of patients receiving CAV. b Pain includes body pain, skeletal pain, and back pain. c CAV = cyclophosphamide, doxorubicin and vincristine. |  |  |
 
-a Death related to sepsis occurred in 3% of patients receiving topotecan hydrochloride for injection and 1% of patients receiving CAV.
+Hepatobiliary Disorders in Ovarian and Small Cell Lung Cancer (SCLC)
 
-b Pain includes body pain, skeletal pain, and back pain.
-
-Hepatobiliary Disorders in Ovarian and Small Cell Lung Cancer Patients Receiving Topotecan Hydrochloride for Injection: Based on the combined experience of 453 patients with metastatic ovarian carcinoma, and 426 patients with small cell lung cancer treated with topotecan hydrochloride for injection, Grade 1 transient elevations in hepatic enzymes occurred in 8% of patients.
-Grade 3/4 elevations occurred in 4%.
-Grade 3/4 elevated bilirubin occurred in less than 2% of patients.
+Based on the combined experience of 453 patients with metastatic ovarian cancer and 426 patients with SCLC treated with topotecan hydrochloride for injection, Grade 3 or 4 increases aspartate transaminase (AST) or alanine transaminase (ALT) occurred in 4% and Grade 3 or 4 elevated bilirubin occurred in less than 2%.
 
 Cervical Cancer
 
-In the comparative trial with topotecan hydrochloride for injection plus cisplatin versus cisplatin in patients with cervical cancer, the most common dose-limiting adverse reaction was myelosuppression.
-Table 3 shows the hematologic and non‑hematologic adverse reactions in patients with cervical cancer.
+The safety of topotecan hydrochloride for injection was evaluated in a comparative trial of topotecan hydrochloride for injection with cisplatin versus cisplatin as a single agent in patients with cervical cancer (Study GOG 0179).
+Table 3 shows the hematologic and non-hematologic adverse reactions in patients with cervical cancer.
 
 Table 3.
-Adverse Reactions Experienced by ≥5% of Patients with Cervical Cancer Randomized to Receive Topotecan Hydrochloride for Injection plus Cisplatin or Cisplatin Monotherapy (Between-Arm Difference ≥2%) a
+Adverse Reactions Occurring in Greater than or Equal to 5% of Patients With Cervical Cancer (Between-Arm Difference ≥ 2%) a in Study GOG 0179
 
-| Adverse Reaction | Topotecan Hydrochloride for Injectionplus Cisplatin(n = 140)% | Cisplatin(n = 144)% |
+| Adverse Reactions | Topotecan Hydrochloride for Injection With Cisplatin (n = 140) % | Cisplatin(n = 144) % |
 | --- | --- | --- |
 | Hematologic |  |  |
 | Neutropenia |  |  |
-| Grade 3 (<1,000-500 cells/mm 3) | 26 | 1 |
-| Grade 4 (<500 cells/mm 3) | 48 | 1 |
+| Grade 3 (< 1,000-500/mm 3) | 26 | 1 |
+| Grade 4 (< 500/mm 3) | 48 | 1 |
 | Anemia |  |  |
-| Grade 3 (Hgb <8-6.5 g/dL) | 34 | 19 |
-| Grade 4 (Hgb <6.5 g/dL) | 6 | 3 |
+| Grade 3 (Hgb < 8-6.5 g/dL) | 34 | 19 |
+| Grade 4 (Hgb < 6.5 g/dL) | 6 | 3 |
 | Thrombocytopenia |  |  |
-| Grade 3 (<50,000-10,000 cells/mm 3) | 26 | 3 |
-| Grade 4 (<10,000 cells/mm 3) | 7 | 0 |
-| Non-hematologic b, c |  |  |
-| General disorders and administrative site conditions |  |  |
+| Grade 3 (< 50,000-10,000/mm 3) | 26 | 3 |
+| Grade 4 (< 10,000/mm 3) | 7 | 0 |
+| Non-Hematologic b,c |  |  |
+| General and administrative site conditions |  |  |
 | Constitutional d | 69 | 62 |
 | Pain e | 59 | 50 |
-| Gastrointestinal disorders |  |  |
+| Gastrointestinal |  |  |
 | Vomiting | 40 | 37 |
 | Stomatitis-pharyngitis | 6 | 0 |
 | Other | 63 | 56 |
 | Dermatology f | 48 | 20 |
-| Infection-febrile neutropenia f | 28 | 18 |
+| Infection |  |  |
+| Febrile neutropenia f | 28 | 18 |
 | Cardiovascular f | 25 | 15 |
-
-a Includes patients who were eligible and treated.
-
-b Data were collected using NCI Common Toxicity Criteria, v. 2.0.
-
-c Grades 1 through 4 only.
-There were 3 patients who experienced deaths with investigator-designated attribution.
-The first patient experienced a Grade 5 hemorrhage in which the drug-related thrombocytopenia aggravated the event.
-A second patient experienced bowel obstruction, cardiac arrest, pleural effusion, and respiratory failure which were not treatment-related but probably aggravated by treatment.
-A third patient experienced a pulmonary embolism and adult respiratory distress syndrome; the latter was indirectly treatment-related.
-
-d Constitutional includes fatigue (lethargy, malaise, asthenia), fever (in the absence of neutropenia), rigors, chills, sweating, and weight gain or loss.
-
-e Pain includes abdominal pain or cramping, arthralgia, bone pain, chest pain (non-cardiac and non-pleuritic), dysmenorrhea, dyspareunia, earache, headache, hepatic pain, myalgia, neuropathic pain, pain due to radiation, pelvic pain, pleuritic pain, rectal or perirectal pain, and tumor pain.
-
-f High-level terms were included if the between-arm difference was ≥10%.
+| a Includes patients who were eligible and treated. b Severity based on using National Cancer Institute (NCI) Common Toxicity Criteria (CTC), Version 2.0. c Grades 1 through 4 only. There were 3 patients who experienced deaths with investigator-designated attribution. The first patient experienced a Grade 5 hemorrhage in which the drug-related thrombocytopenia aggravated the event. A second patient experienced bowel obstruction, cardiac arrest, pleural effusion, and respiratory failure which were not treatment-related but probably aggravated by treatment. A third patient experienced a pulmonary embolism and adult respiratory distress syndrome; the latter was indirectly treatment-related. d Constitutional includes fatigue (lethargy, malaise, asthenia), fever (in the absence of neutropenia), rigors, chills, sweating, and weight gain or loss. e Pain includes abdominal pain or cramping, arthralgia, bone pain, chest pain (non-cardiac and non-pleuritic), dysmenorrhea, dyspareunia, earache, headache, hepatic pain, myalgia, neuropathic pain, pain due to radiation, pelvic pain, pleuritic pain, rectal or perirectal pain, and tumor pain. f High-level terms were included if the between-arm difference was ≥ 10%. |  |  |
 
 ## 6.2 Postmarketing Experience
 
-The following reactions have been identified during postmarketing use of topotecan hydrochloride for injection.
-Because they are reported voluntarily from a population of unknown size, estimates of frequency cannot be made.
-These reactions have been chosen for inclusion due to a combination of their seriousness, frequency of reporting, or potential causal connection to topotecan hydrochloride for injection.
+The following reactions have been identified during post approval use of topotecan hydrochloride for injection.
+Because these reactions are reported voluntarily from a population of unknown size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Blood and Lymphatic System Disorders
+Blood and Lymphatic System: severe bleeding (in association with thrombocytopenia)
 
-Severe bleeding (in association with thrombocytopenia) [see Warnings and Precautions (5.1)].
+Hypersensitivity: allergic manifestations, anaphylactoid reactions, angioedema
 
-Immune System Disorders
+Gastrointestinal: abdominal pain potentially associated with neutropenic enterocolitis, gastrointestinal perforation
 
-Allergic manifestations, anaphylactoid reactions.
+Pulmonary: interstitial lung disease
 
-Gastrointestinal Disorders
+Skin and Subcutaneous Tissue: severe dermatitis, severe pruritus
 
-Abdominal pain potentially associated with neutropenic enterocolitis [see Warnings and Precautions (5.2)].
-
-Pulmonary Disorders
-
-Interstitial lung disease [see Warnings and Precautions (5.3)].
-
-Skin and Subcutaneous Tissue Disorders
-
-Angioedema, severe dermatitis, severe pruritus.
-
-General Disorders and Administration Site Conditions
-
-Extravasation [see Warnings and Precautions (5.5)].
+General and Administration Site Conditions: extravasation, mucosal inflammation

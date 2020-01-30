@@ -1,15 +1,15 @@
 # 11 DESCRIPTION
 
-Topotecan is a semi-synthetic derivative of camptothecin and is an anti–tumor drug with topoisomerase I-inhibitory activity.
+Topotecan is a topoisomerase inhibitor.
 The chemical name for topotecan hydrochloride is (S)-10-[(dimethylamino)methyl]-4-ethyl-4,9-dihydroxy-1 H-pyrano[3’,4’:6,7] indolizino [1,2- b]quinoline-3,14-(4 H,12 H)-dione monohydrochloride.
-It has the molecular formula C 23H 23N 3O 5•HCl and a molecular weight of 457.9.
+The molecular formula is C 23H 23N 3O 5•HCl and the molecular weight is 457.9 g/mol..
 It is soluble in water and melts with decomposition at 213ºC to 218ºC.
 
 Topotecan hydrochloride has the following structural formula:
 
-Topotecan Hydrochloride for Injection is supplied as a sterile, lyophilized, yellow powder available in single-dose vials.
-Each vial contains topotecan hydrochloride equivalent to 4 mg of topotecan as free base.
-The reconstituted solution gives a light yellow color and is intended for administration by intravenous infusion.
+Topotecan hydrochloride for injection, for intravenous use is supplied as a sterile, lyophilized, yellow powder available in single-dose vials.
+Each 4 mg vial contains 4 mg topotecan hydrochloride as free base.
+The reconstituted solution gives a light yellow color.
 
 Inactive ingredients are mannitol, 48 mg, and tartaric acid, 20 mg.
 Hydrochloric acid and sodium hydroxide may be used to adjust the pH.

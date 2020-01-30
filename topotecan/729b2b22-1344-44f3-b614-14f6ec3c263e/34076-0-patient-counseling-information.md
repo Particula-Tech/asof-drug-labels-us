@@ -1,26 +1,33 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-- Bone Marrow Suppression
+Myelosuppression
 
 Inform patients that topotecan hydrochloride for injection decreases blood cell counts such as white blood cells, platelets, and red blood cells.
-Advise patients to notify their healthcare provider promptly for fever, other signs of infection (e.g., chills, cough, or burning pain on urination), or bleeding.
-Inform patients that frequent blood tests will be performed while taking topotecan hydrochloride for injection to monitor for the occurrence of bone marrow suppression.
+Advise patients to notify their healthcare provider promptly for fever, other signs of infection, or bleeding [see Warnings and Precautions (5.1)].
 
-- Embryofetal Toxicity
+Interstitial Lung Disease (ILD)
 
-Advise patients to contact their healthcare provider if they become pregnant, or if pregnancy is suspected during treatment with topotecan hydrochloride for injection.
-Advise females of reproductive potential to use effective contraception during treatment and for 1 month after the last dose of topotecan hydrochloride for injection.
-Advise males with a female sexual partner of reproductive potential to use effective contraception during treatment and for 3 months after the last dose of topotecan hydrochloride for injection [see Warnings and Precautions (5.4), Use in Specific Populations (8.1, 8.3)].
+Inform patients of the risks of severe ILD.
+Advise patients to contact their healthcare provider immediately to report new or worsening respiratory symptoms [see Warnings and Precautions (5.2)].
 
-- Lactation
+Embryo-Fetal Toxicity
 
-Advise nursing mothers to discontinue breastfeeding during treatment with topotecan hydrochloride for injection [see Use in Specific Populations (8.2)].
+Advise females of reproductive potential and males with female partners of reproductive potential of the potential risk to a fetus.
+Advise women to contact their healthcare provider if they become pregnant, or if pregnancy is suspected during treatment with topotecan hydrochloride for injection [see Warnings and Precautions (5.4), Use in Specific Populations (8.1, 8.3)].
 
-- Infertility
+Advise females of reproductive potential to use effective contraception during treatment and for 6 months after the last dose of topotecan hydrochloride for injection [see Use in Specific Populations (8.1, 8.3)].
 
-Advise male and female patients of the potential risk for impaired fertility and possible family planning options [see Use in Specific Populations (8.3)].
+Advise males with a female partner of reproductive potential to use effective contraception during treatment and for 3 months after the last dose of topotecan hydrochloride for injection [see Use in Specific Populations (8.1, 8.3), Nonclinical Toxicology (13.1)].
 
-- Asthenia and Fatigue
+Lactation
+
+Advise women to discontinue breastfeeding during treatment and for 1 week after the last dose of topotecan hydrochloride for injection [see Use in Specific Populations (8.2)].
+
+Infertility
+
+Advise male and female patients of the potential risk for impaired fertility [see Use in Specific Populations (8.3), Nonclinical Toxicology (13.1)].
+
+Asthenia and Fatigue
 
 Advise patients that topotecan hydrochloride for injection may cause asthenia or fatigue.
 These symptoms may impair the ability to safely drive or operate machinery.
@@ -31,8 +38,8 @@ Accord Healthcare, Inc., 1009, Slater Road, Suite 210-B, Durham, NC 27703, USA.
 
 Manufactured By:
 
-Intas Pharmaceuticals Limited, Plot No.: 457, 458, Village – Matoda, Bavla Road, Ta. - Sanand, Dist. - Ahmedabad – 382 210, INDIA.
+Intas Pharmaceuticals Limited, Plot No.: 457, 458, Village – Matoda, Bavla Road, Ta. - Sanand, Dist. - Ahmedabad – 382 210, India.
 
-10 7878 4 664 586
+10 4086 0 604281
 
-Issued November, 2015.
+Issued December, 2019
