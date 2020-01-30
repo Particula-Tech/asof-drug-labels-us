@@ -4,7 +4,7 @@ Delivers 10 mL
 
 NDC 0121-0646-10
 
-AMANTADINE HYDROCHLORIDE ORAL SOLUTION USP
+A MANTADINE H YDROCHLORIDE O RAL S OLUTION USP
 
 Each 10 mL contains: Amantadine Hydrochloride 100 mg Usage Dosage: See Insert
 

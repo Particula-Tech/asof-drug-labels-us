@@ -77,10 +77,10 @@ Occasionally, patients whose responses are not optimal with amantadine hydrochlo
 
 Depending upon creatinine clearance, the following dosage adjustments are recommended:
 
-| CREATININE CLEARANCE (mL/min/1.73m2) | AMANTADINE HYDROCHLORIDE DOSAGE |
+| CREATININE CLEARANCE (mL/min/1.73m 2) | AMANTADINE HYDROCHLORIDE DOSAGE |
 | --- | --- |
-| 30 to 50 | 200 mg 1st day and 100 mg each day thereafter |
-| 15 to 29 | 200 mg 1st day followed by 100 mg on alternate days |
+| 30 to 50 | 200 mg 1 st day and 100 mg each day thereafter |
+| 15 to 29 | 200 mg 1 st day followed by 100 mg on alternate days |
 | <15 | 200 mg every 7 days |
 
 The recommended dosage for patients on hemodialysis is 200 mg every 7 days.

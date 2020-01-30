@@ -27,7 +27,7 @@ The quantitative relationship between the in vitro sensitivity of influenza A va
 
 The mechanism of action of amantadine hydrochloride in the treatment of Parkinson's disease and drug-induced extrapyramidal reactions is not known.
 Data from earlier animal studies suggest that amantadine hydrochloride may have direct and indirect effects on dopamine neurons.
-More recent studies have demonstrated that amantadine hydrochloride is a weak, non-competitive NMDA receptor antagonist (Ki = 10µM).
+More recent studies have demonstrated that amantadine hydrochloride is a weak, non-competitive NMDA receptor antagonist (K i = 10µM).
 Although amantadine hydrochloride has not been shown to possess direct anticholinergic activity in animal studies, clinically, it exhibits anticholinergic-like side effects such as dry mouth, urinary retention, and constipation.
 
 ## Pharmacokinetics
@@ -52,10 +52,10 @@ The apparent oral clearance was 0.28 ± 0.11 L/hr/kg (range: 0.14 to 0.62 L/hr/k
 The half-life was 17 ± 4 hours (range: 10 to 25 hours).
 Across other studies, amantadine hydrochloride plasma half-life has averaged 16 ± 6 hours (range: 9 to 31 hours) in 19 healthy volunteers.
 
-After oral administration of a single dose of 100 mg amantadine hydrochloride oral solution to five healthy volunteers, the mean ± SD maximum plasma concentration Cmax was 0.24 ± 0.04 µg/mL and ranged from 0.18 to 0.28 µg/mL.
-After 15 days of amantadine hydrochloride 100 mg b.i.d., the Cmax was 0.47 ± 0.11 µg/mL in four of the five volunteers.
+After oral administration of a single dose of 100 mg amantadine hydrochloride oral solution to five healthy volunteers, the mean ± SD maximum plasma concentration C max was 0.24 ± 0.04 µg/mL and ranged from 0.18 to 0.28 µg/mL.
+After 15 days of amantadine hydrochloride 100 mg b.i.d., the C max was 0.47 ± 0.11 µg/mL in four of the five volunteers.
 The administration of amantadine hydrochloride tablets as a 200 mg single dose to 6 healthy subjects resulted in a Cmax of 0.51 ± 0.14 µg/mL.
-Across studies, the time to Cmax (Tmax) averaged about 2 to 4 hours.
+Across studies, the time to C max (T max) averaged about 2 to 4 hours.
 
 Plasma amantadine hydrochloride clearance ranged from 0.2 to 0.3 L/hr/kg after the administration of 5 mg to 25 mg intravenous doses of amantadine hydrochloride to 15 healthy volunteers.
 
@@ -74,7 +74,7 @@ Whether these changes are due to decline in renal function or other age related 
 In a study of young healthy subjects (n=20), mean renal clearance of amantadine hydrochloride, normalized for body mass index, was 1.5 fold higher in males compared to females (p<0.032).
 
 Compared with otherwise healthy adult individuals, the clearance of amantadine hydrochloride is significantly reduced in adult patients with renal insufficiency.
-The elimination half-life increases two to three fold or greater when creatinine clearance is less than 40 mL/min/1.73 m2 and averages eight days in patients on chronic maintenance hemodialysis.
+The elimination half-life increases two to three fold or greater when creatinine clearance is less than 40 mL/min/1.73 m 2 and averages eight days in patients on chronic maintenance hemodialysis.
 Amantadine hydrochloride is removed in negligible amounts by hemodialysis.
 
 The pH of the urine has been reported to influence the excretion rate of amantadine hydrochloride.
