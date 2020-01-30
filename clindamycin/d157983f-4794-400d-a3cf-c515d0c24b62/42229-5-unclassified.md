@@ -34,4 +34,4 @@ CLEOCIN PHOSPHATE IV Solution in GALAXY plastic containers is manufactured for P
 
 Galaxy is a registered trademark of Baxter International Inc.
 
-LAB-0696-12.0 Revised: 7/2019
+LAB-0696-13.0 Revised: 1/2020
