@@ -95,7 +95,7 @@ Behaviors of concern should be reported immediately to healthcare providers (see
 
 ## Metabolic Acidosis:
 
-Zonisamide causes hyperchloremic, non-anion gap, metabolic acidosis (i.e., decreased serum bicarbonate below the normal reference range in the absence of chronic respiratory alkalosis) (see PRECAUTIONS, Laboratory Tests subsection).
+Zonisamide causes hyperchloremic, non-anion gap, metabolic acidosis (i.e., decreased serum bicarbonate below the normal reference range in the absence of chronic respiratory alkalosis) (see PRECAUTIONS, Laboratory Testssubsection).
 This metabolic acidosis is caused by renal bicarbonate loss due to the inhibitory effect of zonisamide on carbonic anhydrase.
 Generally, zonisamide-induced metabolic acidosis occurs early in treatment, but it can develop at any time during treatment.
 Metabolic acidosis generally appears to be dose-dependent and can occur at doses as low as 25 mg daily.

@@ -8,7 +8,7 @@ Rx only
 
 Dispense accompanying Medication Guide to each patient.
 
-Mfd. for: Concordia Pharmaceuticals Inc. St. Michael, Barbados BB11005
+Mfd. for: Concordia Pharmaceuticals
 
 PRINCIPAL DISPLAY PANEL - 100 mg Capsules
 
@@ -20,4 +20,4 @@ Rx only
 
 Dispense accompanying Medication Guide to each patient.
 
-Mfd. for: Concordia Pharmaceuticals Inc. St. Michael, Barbados BB11005
+Mfd. for: Concordia Pharmaceuticals

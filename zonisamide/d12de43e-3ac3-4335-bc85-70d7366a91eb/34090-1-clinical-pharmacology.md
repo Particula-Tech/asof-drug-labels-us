@@ -22,10 +22,10 @@ However, as a carbonic anhydrase inhibitor, zonisamide may cause metabolic acido
 
 ## Pharmacokinetics:
 
-## Absorption
+### Absorption
 
-Following a 200–400 mg oral zonisamide dose, peak plasma concentrations (range: 2–5 µg/mL) in normal volunteers occur within 2–6 hours.
-In the presence of food, the time to maximum concentration is delayed, occurring at 4–6 hours, but food has no effect on the bioavailability of zonisamide.
+Following a 200-400 mg oral zonisamide dose, peak plasma concentrations (range: 2-5 µg/mL) in normal volunteers occur within 2-6 hours.
+In the presence of food, the time to maximum concentration is delayed, occurring at 4-6 hours, but food has no effect on the bioavailability of zonisamide.
 Zonisamide absorption is dose-proportional in the range of 200-400 mg.
 Cmax and AUC, however, increase disproportionately at 800 mg, possibly due to saturable binding of zonisamide to red blood cells.
 Once a stable dose is reached, steady state is achieved within 14 days.
@@ -149,7 +149,8 @@ Median % Reduction in All Partial Seizures and % Responders in Primary Efficacy 
 | Weeks 5-12: | 29.6%* | -3.2% | 29.0% | 15.0% |
 | Study 3: | n=67 | n=66 | n=67 | n=66 |
 | Weeks 5-12: | 27.2%* | -1.1% | 28.0%* | 12.0% |
-| * p<0.05 compared to placebo |  |  |  |  |
+
+* p<0.05 compared to placebo
 
 Table 2.
 Median % Reduction in All Partial Seizures and % Responders for Dose Analyses in Study 1: Intent-To-Treat Analysis
@@ -163,7 +164,8 @@ Median % Reduction in All Partial Seizures and % Responders for Dose Analyses in
 | Weeks 1-5: | 24.7%* | 8.3% | 25.0%* | 11.3% |
 | 200 mg/day: | n=55 | n=82 | n=55 | n=82 |
 | Weeks 2-6: | 20.4%* | 4.0% | 25.5%* | 9.8% |
-| * p<0.05 compared to placebo |  |  |  |  |
+
+* p<0.05 compared to placebo
 
 Figure 1 presents the proportion of patients (X-axis) whose percentage reduction from baseline in the all partial seizure rate was at least as great as that indicated on the Y-axis in the second and third placebo-controlled trials.
 A positive value on the Y-axis indicates an improvement from baseline (i.e., a decrease in seizure rate), while a negative value indicates a worsening from baseline (i.e., an increase in seizure rate).

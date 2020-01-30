@@ -63,7 +63,7 @@ These serious side effects are described below.
 5. ZONEGRAN can increase the level of acid in your blood (metabolic acidosis).
    If left untreated, metabolic acidosis can cause brittle or soft bones (osteoporosis, osteomalacia, osteopenia), kidney stones and can slow the rate of growth in children.
    Metabolic acidosis can happen with or without symptoms.
-   Sometimes people with metabolic acidosis will:Your healthcare provider should do a blood test to measure the level of acid in your blood before and during your treatment with ZONEGRAN.
+   Sometimes people with metabolic acidosis will: Your healthcare provider should do a blood test to measure the level of acid in your blood before and during your treatment with ZONEGRAN.
    - feel tired
    - not feel hungry (loss of appetite)
    - feel changes in heartbeat
@@ -178,9 +178,9 @@ Inactive ingredients in ZONEGRAN 25 mg capsules: microcrystalline cellulose, hyd
 
 Inactive ingredients in ZONEGRAN 100 mg capsules: microcrystalline cellulose, hydrogenated vegetable oil, sodium lauryl sulfate, gelatin, and titanium dioxide, FD&C Red No. 40 and FD&C Yellow No. 6
 
-Manufactured for: Concordia Pharmaceuticals Inc. St. Michael, Barbados BB11005
+Mfd. for: Concordia Pharmaceuticals Distributed by: Amdipharm Limited 17 Northwood House Dublin 9, Ireland
 
-ZONEGRAN® is a registered trademark of Dainippon Pharmaceutical Co., Ltd. and licensed exclusively to Concordia Pharmaceuticals Inc.
+ZONEGRAN® is a registered trademark of Dainippon Pharmaceutical Co., Ltd. and licensed exclusively to Amdipharm Limited.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
-Revised: April 2016
+Revised: September 2019

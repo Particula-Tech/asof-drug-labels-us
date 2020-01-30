@@ -11,10 +11,10 @@ ZONEGRAN is available in bottles of 100 with strengths and colors as follows:
 
 Store at 25°C (77°F), excursions permitted to 15–30°C (59–86°F) [see USP Controlled Room Temperature], in a dry place and protected from light.
 
-Manufactured for: Concordia Pharmaceuticals Inc. St. Michael, Barbados BB11005
+Mfd. for: Concordia Pharmaceuticals Distributed by: Amdipharm Limited 17 Northwood House Dublin 9, Ireland
 
-ZONEGRAN® is a registered trademark of Dainippon Pharmaceutical Co., Ltd. and licensed exclusively to Concordia Pharmaceuticals Inc.
+ZONEGRAN® is a registered trademark of Dainippon Pharmaceutical Co., Ltd. and licensed exclusively to Amdipharm Limited.
 
-© 2015 Concordia Pharmaceuticals Inc.
+© 2015 All rights reserved.
 
-Revised: 04/2016
+Revised: 09/2019
