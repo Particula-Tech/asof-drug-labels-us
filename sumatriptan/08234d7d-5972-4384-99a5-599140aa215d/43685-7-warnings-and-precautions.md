@@ -1,11 +1,11 @@
 # 5 WARNINGS AND PRECAUTIONS
 
-## 5.1 Myocardial Ischemia, Myocardial Infarction, and Prinzmetal’s Angina
+## 5.1 Myocardial Ischemia, Myocardial Infarction, and Prinzmetal's Angina
 
 The use of ONZETRA Xsail is contraindicated in patients with ischemic or vasospastic CAD.
 There have been rare reports of serious cardiac adverse reactions, including acute myocardial infarction, occurring within a few hours following administration of sumatriptan.
 Some of these reactions occurred in patients without known CAD.
-5-HT1 agonists, including ONZETRA Xsail, may cause coronary artery vasospasm (Prinzmetal’s angina), even in patients without a history of CAD.
+5-HT1 agonists, including ONZETRA Xsail, may cause coronary artery vasospasm (Prinzmetal's angina), even in patients without a history of CAD.
 
 Perform a cardiovascular evaluation in triptan-naïve patients who have multiple cardiovascular risk factors (e.g., increased age, diabetes, hypertension, smoking, obesity, strong family history of CAD) prior to receiving ONZETRA Xsail.
 If there is evidence of CAD or coronary artery vasospasm, ONZETRA Xsail is contraindicated.
@@ -22,7 +22,7 @@ ONZETRA Xsail is contraindicated in patients with Wolff-Parkinson-White syndrome
 
 Sensations of tightness, pain, pressure, and heaviness in the chest, throat, neck, and jaw commonly occur after treatment with 5-HT1 agonists including other products containing sumatriptan and are usually non-cardiac in origin.
 However, perform a cardiac evaluation if these patients are at high cardiac risk.
-The use of ONZETRA Xsail is contraindicated in patients with known CAD and those with Prinzmetal’s variant angina.
+The use of ONZETRA Xsail is contraindicated in patients with known CAD and those with Prinzmetal's variant angina.
 
 ## 5.4 Cerebrovascular Events
 
@@ -36,7 +36,7 @@ Before treating headaches in patients not previously diagnosed as migraineurs, a
 
 ## 5.5 Other Vasospasm Reactions
 
-5-HT1 agonists, including ONZETRA Xsail, may cause non-coronary vasospastic reactions, such as peripheral vascular ischemia, gastrointestinal vascular ischemia and infarction (presenting with abdominal pain and bloody diarrhea), splenic infarction, and Raynaud’s syndrome.
+5-HT1 agonists, including ONZETRA Xsail, may cause non-coronary vasospastic reactions, such as peripheral vascular ischemia, gastrointestinal vascular ischemia and infarction (presenting with abdominal pain and bloody diarrhea), splenic infarction, and Raynaud's syndrome.
 In patients who experience symptoms or signs suggestive of a non-coronary vasospastic reaction following the use of any 5-HT1 agonist, rule out a vasospastic reaction before using ONZETRA Xsail.
 
 Transient and permanent blindness and significant partial vision loss have been reported with the use of 5-HT1 agonists including sumatriptan.

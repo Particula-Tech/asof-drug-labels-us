@@ -98,7 +98,7 @@ How should I use ONZETRA Xsail?
 
 Before using ONZETRA Xsail, read the Patient Instructions for Use.
 
-- Certain people should use their first dose of ONZETRA Xsail in their healthcare provider’s office or in another medical setting.
+- Certain people should use their first dose of ONZETRA Xsail in their healthcare provider's office or in another medical setting.
   Ask your healthcare provider if you should use your first dose in a medical setting.
 - Use ONZETRA Xsail exactly as your healthcare provider tells you to use it.
 - Use a full dose (2 nosepieces) to treat your headache.
@@ -117,11 +117,11 @@ If you have these symptoms, do not drive a car, use machinery or do anything whe
 What are the possible side effects of ONZETRA Xsail?
 
 ONZETRA Xsail may cause serious side effects.
-See “What is the most important information I should know about ONZETRA Xsail?”
+See "What is the most important information I should know about ONZETRA Xsail?"
 
 These serious side effects include:
 
-- changes in color or sensation in your fingers and toes (Raynaud’s syndrome)
+- changes in color or sensation in your fingers and toes (Raynaud's syndrome)
 - stomach and intestinal problems (gastrointestinal and colonic ischemic events).
   Symptoms of gastrointestinal and colonic ischemic events include: • sudden or severe stomach pain • stomach pain after meals • weight loss • nausea or vomiting • constipation or diarrhea • bloody diarrhea • fever
 - problems with blood circulation to your legs and feet (peripheral vascular ischemia).

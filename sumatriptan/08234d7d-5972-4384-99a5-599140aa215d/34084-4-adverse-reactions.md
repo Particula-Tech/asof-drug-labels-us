@@ -2,7 +2,7 @@
 
 The following serious adverse reactions are discussed in more detail in other sections of the prescribing information:
 
-- Myocardial ischemia, myocardial infarction, and Prinzmetal’s angina [see Warnings and Precautions (5.1)]
+- Myocardial ischemia, myocardial infarction, and Prinzmetal's angina [see Warnings and Precautions (5.1)]
 - Arrhythmias [see Warnings and Precautions (5.2)]
 - Chest, throat, neck and/or jaw pain/tightness/pressure [see Warnings and Precautions (5.3)]
 - Cerebrovascular events [see Warnings and Precautions (5.4)]

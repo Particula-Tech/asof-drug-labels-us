@@ -2,7 +2,7 @@
 
 ONZETRA Xsail is contraindicated in patients with:
 
-- Ischemic coronary artery disease (CAD) (e.g., angina pectoris, history of myocardial infarction, or silent ischemia) or coronary artery vasospasm, including Prinzmetal’s angina or in patients with other significant underlying cardiovascular diseases [see Warnings and Precautions (5.1)].
+- Ischemic coronary artery disease (CAD) (e.g., angina pectoris, history of myocardial infarction, or silent ischemia) or coronary artery vasospasm, including Prinzmetal's angina or in patients with other significant underlying cardiovascular diseases [see Warnings and Precautions (5.1)].
 - Wolff-Parkinson-White Syndrome or arrhythmias associated with other cardiac accessory conduction pathway disorders [see Warnings and Precautions (5.2)].
 - History of stroke, transient ischemic attack (TIA), or history of hemiplegic or basilar migraine because these patients are at a higher risk of stroke [see Warnings and Precautions (5.4)].
 - Peripheral vascular disease [see Warnings and Precautions (5.5)].

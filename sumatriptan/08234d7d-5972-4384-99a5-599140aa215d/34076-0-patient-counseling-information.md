@@ -7,7 +7,7 @@ Only patients who are able to understand and follow the instructions should use 
 Instructions on the proper use of ONZETRA Xsail from a physician or healthcare professional prior to administration for the first time may be helpful.
 For support, healthcare professionals and patients can call 1-844-ONZETRA or see www.ONZETRA.com.
 
-Risk of Myocardial Ischemia and/or Infarction, Prinzmetal’s Angina, Other Vasospasm-Related Events, Arrhythmias, and Cerebrovascular Events
+Risk of Myocardial Ischemia and/or Infarction, Prinzmetal's Angina, Other Vasospasm-Related Events, Arrhythmias, and Cerebrovascular Events
 
 Inform patients that triptan medications, including ONZETRA Xsail, may cause serious cardiovascular side effects such as myocardial infarction or stroke, which may result in hospitalization and even death.
 Although serious cardiovascular events can occur without warning symptoms, patients should be alert for the signs and symptoms of chest pain, shortness of breath, irregular heartbeat, significant rise in blood pressure, weakness, and slurring of speech and should ask for medical advice if any indicative signs or symptoms are observed.
