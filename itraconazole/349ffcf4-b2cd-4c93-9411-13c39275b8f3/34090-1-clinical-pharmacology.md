@@ -72,7 +72,7 @@ A pharmacokinetic study was conducted in 6 healthy and 12 cirrhotic subjects who
 A statistically significant reduction in mean Cmax (47%) and a twofold increase in the elimination half-life (37 ± 17 hours vs. 16 ± 5 hours) of itraconazole were noted in cirrhotic subjects compared with healthy subjects.
 However, overall exposure to itraconazole, based on AUC, was similar in cirrhotic patients and in healthy subjects.
 Data are not available in cirrhotic patients during long-term use of itraconazole.
-(See CONTRAINDICATIONS, PRECAUTIONS:Drug Interactions and DOSAGE AND ADMINISTRATION.)
+(See CONTRAINDICATIONS, PRECAUTIONS:Drug Interactionsand DOSAGE AND ADMINISTRATION.)
 
 Decreased Cardiac Contractility:
 

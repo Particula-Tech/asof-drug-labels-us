@@ -19,11 +19,10 @@ Stop taking itraconazole capsules and call your healthcare provider right away i
 - shortness of breath • coughing up white or pink mucus (phlegm)
 - swelling of your feet, ankles or legs • fast heartbeat
 - sudden weight gain • waking up at night more than normal for you
-- increased tiredness
-
-1. Heart problems and other serious medical problems.
-   Serious medical problems that affect the heart and other parts of your body can happen if you take itraconazole capsules with certain other medicines.
-   Do not take itraconazole capsules if you also take the following medicines:
+- increased tirednes
+- 2.Heart problems and other serious medical problems.
+  Serious medical problems that affect the heart and other parts of your body can happen if you take itraconazole capsules with certain other medicines.
+  Do not take itraconazole capsules if you also take the following medicines:
 
 | methadone | methylergometrine (methylergonovine) | ranolazine |
 | --- | --- | --- |
@@ -42,9 +41,10 @@ You can ask your pharmacist for a list of medicines that interact with itraconaz
 Before you start taking itraconazole capsules, tell your healthcare provider about all the medicines you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements.
 Before you start any new medicine, ask your healthcare provider or pharmacist if it is safe to take it with itraconazole capsules.
 
-1. Liver problems.
-   Itraconazole capsules can cause serious liver problems which may be severe and lead to death.
-   Stop taking itraconazole capsules and call your healthcare provider right away if you have any of these symptoms of liver problems:
+3.
+Liver problems.
+Itraconazole capsules can cause serious liver problems which may be severe and lead to death.
+Stop taking itraconazole capsules and call your healthcare provider right away if you have any of these symptoms of liver problems:
 
 - tiredness • your skin or the white part of your eyes turn
 - loss of appetite for several days or longer yellow (jaundice)

@@ -155,7 +155,7 @@ Although many of the clinical drug interactions in Table 1 are based on informat
 | Repaglinidea Saxagliptin |  | Monitor for adverse reactions. Concomitant drug dose reduction may be necessary. |
 | Antihelminthics, Antifungals and Antiprotozoals |  |  |
 | Isavuconazonium |  | Contraindicated during and 2 weeks after itraconazole treatment. |
-| Praziquantel |  | Monitor for adverse reactions. Concomitant drug dose reduction may be necessary. dose reduction may be necessary. |
+| Praziquantel |  | Monitor for adverse reactions. Concomitant drug dose reduction may be necessary. |
 | Artemether-lumefantrine Quininea |  | Monitor for adverse reactions. |
 | Antimigraine Drugs |  |  |
 | Ergot alkaloids (e.g., dihydroergotamine, ergotamine) |  | Contraindicated during and 2 weeks after itraconazole treatment. |
@@ -237,10 +237,8 @@ Some concomitant drugs have the potential to interact with itraconazole resultin
 Increased concentrations may increase the risk of adverse reactions associated with itraconazole.
 
 Decreased concentrations may reduce itraconazole efficacy.
-
 Table 2 lists examples of drugs that may affect itraconazole concentrations, but is not a comprehensive list.
 Refer to the approved product labeling to become familiar with the interaction pathways, risk potential and specific actions to be taken with regards to each concomitant drug prior to initiating therapy with itraconazole.
-
 Although many of the clinical drug interactions in Table 2 are based on information with a similar azole antifungal, ketoconazole, these interactions are expected to occur with itraconazole.
 
 | Table 2. Drug Interactions with Other Drugs that Affect itraconazole Concentrations |  |
@@ -250,7 +248,7 @@ Although many of the clinical drug interactions in Table 2 are based on informat
 | Antibacterials |  |
 | Ciprofloxacina Erythromycina Clarithromycina | Monitor for adverse reactions. Itraconazole dose reduction may be necessary. |
 | Antineoplastics |  |
-| Idelalisib | Monitor for adverse reactions. Itraconazole dose reduction may be necessary. See also Table 1. |
+| Idelalisib | Monitor for adverse reactions. Itraconazole dose reduction may be necessary. See also Table 1 |
 | Antivirals |  |
 | Cobicistat Darunavir (ritonavir-boosted) Elvitegravir (ritonavir-boosted) Fosamprenavir (ritonavir-boosted) Indinavir Ombitasvir/Paritaprevir/Ritonavir with or without Dasabuvir Ritonavir Saquinavir | Monitor for adverse reactions. Itraconazole dose reduction may be necessary. For, cobicistat, elvitegravir,indinavir,ombitasvir/paritaprevir/ ritonavir with or without dasabuvir,ritonavir, and saquinavir, see also Table 1. |
 | Calcium Channel Blockers |  |
@@ -270,7 +268,9 @@ Although many of the clinical drug interactions in Table 2 are based on informat
 | Lumacaftor/Ivacaftor | Not recommended 2 weeks before, during, and 2 weeks after itraconazole treatment. |
 
 aBased on clinical drug interaction information with itraconazole.
-Pediatric Population Interaction studies have only been performed in adults.
+Pediatric Population
+
+Interaction studies have only been performed in adults.
 
 ## Carcinogenesis & Mutagenesis & Impairment of Fertility:
 
