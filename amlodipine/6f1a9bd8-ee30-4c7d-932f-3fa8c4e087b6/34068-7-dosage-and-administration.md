@@ -47,9 +47,9 @@ Monitor for signs of myopathy in patients receiving the combination of HMG-CoA r
 
 Patients with Renal Impairment: Renal disease does not affect the plasma concentrations nor LDL-C reduction of atorvastatin; thus, dosage adjustment in patients with renal dysfunction is not necessary [see Warnings and Precautions (5.1), Clinical Pharmacology (12.3)].
 
-Use with Cyclosporine, Clarithromycin, Itraconazole, or Certain Protease Inhibitors: In patients taking cyclosporine or the human immunodeficiency virus (HIV) protease inhibitor tipranavir plus ritonavir or the hepatitis C virus (HCV) protease inhibitor glecaprevir plus pibrentasvir, therapy with atorvastatin should be avoided.
+Use with Cyclosporine, Clarithromycin, Itraconazole, Letermovir, or Certain Protease Inhibitors: In patients taking cyclosporine or the human immunodeficiency virus (HIV) protease inhibitor tipranavir plus ritonavir or the hepatitis C virus (HCV) protease inhibitor glecaprevir plus pibrentasvir, or letermovir when co-administered with cyclosporine, therapy with atorvastatin should be avoided.
 In patients with HIV taking lopinavir plus ritonavir, use the lowest dose necessary of atorvastatin.
-In patients taking clarithromycin, itraconazole, elbasvir plus grazoprevir, or in patients with HIV taking a combination of saquinavir plus ritonavir, darunavir plus ritonavir, fosamprenavir, or fosamprenavir plus ritonavir, therapy with atorvastatin should be limited to 20 mg, and appropriate clinical assessment is recommended to ensure that the lowest dose necessary of atorvastatin is used.
+In patients taking clarithromycin, itraconazole, elbasvir plus grazoprevir, or in patients with HIV taking a combination of saquinavir plus ritonavir, darunavir plus ritonavir, fosamprenavir, fosamprenavir plus ritonavir, or letermovir therapy with atorvastatin should be limited to 20 mg, and appropriate clinical assessment is recommended to ensure that the lowest dose necessary of atorvastatin is used.
 In patients taking the HIV protease inhibitor nelfinavir therapy with atorvastatin should be limited to 40 mg.
 When co-prescribing atorvastatin with other protease inhibitors, appropriate clinical assessment is recommended to ensure that the lowest dose necessary of atorvastatin is used [see Warnings and Precautions (5.1), Drug Interactions (7)].
 

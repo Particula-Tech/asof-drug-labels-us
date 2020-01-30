@@ -64,7 +64,7 @@ Tell your doctor about all the medicines you take including prescription and non
 CADUET and some other medicines can interact, causing serious side effects.
 Especially tell your doctor if you take medicines for:
 
-| your immune systeminfectionscholesterolhepatitis C virus | birth controlheart failureHIV (AIDS) |
+| your immune systeminfectionscholesterolhepatitis C virus | birth controlheart failureHIV (AIDS)anti-virals |
 | --- | --- |
 
 You can use nitroglycerin and CADUET together.
@@ -209,4 +209,4 @@ Inactive ingredients: calcium carbonate, croscarmellose sodium, microcrystalline
 
 Film coating: Opadry® II White 85F28751 (polyvinyl alcohol, titanium dioxide, PEG 3000, and talc) or Opadry® II Blue 85F10919 (polyvinyl alcohol, titanium dioxide, PEG 3000, talc, and FD&C blue #2)
 
-LAB-0347-10.0 Revised May 2019
+LAB-0347-11.0 Revised December 2019

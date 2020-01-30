@@ -66,6 +66,13 @@ Atorvastatin AUC was significantly increased with concomitant administration of 
 
 The co-administration of atorvastatin with cyclosporine should be avoided [see Warnings and Precautions (5.1)].
 
+Concomitant administration of atorvastatin 20 mg and letermovir 480 mg daily resulted in an increase in exposure to atorvastatin (ratio of AUC: 3.29) [see Clinical Pharmacology (12.3)].
+Letermovir inhibits efflux transporters P-gp, BCRP, MRP2, OAT2 and hepatic transporter OATP1B1/1B3, thus it increases exposure to atorvastatin.
+Do not exceed 20 mg atorvastatin daily [see Dosage and Administration (2)].
+
+The magnitude of CYP3A- and OATP1B1/1B3-mediated drug interactions on co-administered drugs may be different when letermovir is co-administered with cyclosporine.
+Use of atorvastatin is not recommended in patients taking letermovir co-administered with cyclosporine.
+
 Concomitant administration of glecaprevir and pibrentasvir or elbasvir and grazoprevir may lead to increased plasma concentrations of atorvastatin and an increased risk of myopathy.
 
 Coadministration of glecaprevir and pibrentasvir with atorvastatin increase plasma concentrations of atorvastatin by 8.3-fold due in part to BCRP, OATP1B1/1B3, and CYP3A inhibition; therefore, coadministration of atorvastatin in patients receiving concomitant medications with products containing glecaprevir and pibrentasvir is not recommended.

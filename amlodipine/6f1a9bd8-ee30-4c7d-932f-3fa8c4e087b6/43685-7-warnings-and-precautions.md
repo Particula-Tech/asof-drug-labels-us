@@ -26,9 +26,9 @@ Prescribing recommendations for interacting agents are summarized in Table 2 [se
 Table 2.
 Atorvastatin Drug Interactions Associated with Increased Risk of Myopathy/Rhabdomyolysis
 
-| Cyclosporine, tipranavir plus ritonavir, glecaprevir plus pibrentasvir | Avoid atorvastatin |
+| Cyclosporine, tipranavir plus ritonavir, glecaprevir plus pibrentasvir, letermovir when co-administered with cyclosporine | Avoid atorvastatin |
 | --- | --- |
-| Clarithromycin, itraconazole, saquinavir plus ritonavirUse the lowest dose necessary (12.3), darunavir plus ritonavir, fosamprenavir, fosamprenavir plus ritonavir, elbasvir plus grazoprevir | Do not exceed 20 mg atorvastatin daily |
+| Clarithromycin, itraconazole, saquinavir plus ritonavirUse the lowest dose necessary (12.3), darunavir plus ritonavir, fosamprenavir, fosamprenavir plus ritonavir, elbasvir plus grazoprevir, letermovir | Do not exceed 20 mg atorvastatin daily |
 | Nelfinavir | Do not exceed 40 mg atorvastatin daily |
 | Lopinavir plus ritonavir, simeprevir, fibric acid derivatives, erythromycin, azole antifungals, lipid-modifying doses of niacin, colchicine | Use with caution and lowest dose necessary |
 
