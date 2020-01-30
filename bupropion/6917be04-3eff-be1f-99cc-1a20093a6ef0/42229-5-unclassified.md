@@ -1,10 +1,7 @@
+Manufactured by: Pillar5 Pharma Inc. Arnprior, Ontario K7S 0C9, Canada
+
+Distributed by: Almatica Pharma, Inc. Morristown, NJ 07960 USA
+
 Product of India
 
-Distributed by:
-
-Almatica Pharma, Inc. Pine Brook, NJ 07058 USA
-
-PI575-01
-
-Rev.
-05/2017 R
+PI575-02

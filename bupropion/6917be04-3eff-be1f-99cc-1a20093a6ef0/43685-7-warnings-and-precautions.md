@@ -31,7 +31,7 @@ Risk Differences in the Number of Suicidality Cases by Age Group in the Pooled P
 No suicides occurred in any of the pediatric trials.
 There were suicides in the adult trials, but the number was not sufficient to reach any conclusion about drug effect on suicide.
 
-It is unknown whether the suicidality risk extends to longer-term use, ie, beyond several months.
+It is unknown whether the suicidality risk extends to longer-term use, i.e., beyond several months.
 However, there is substantial evidence from placebo-controlled maintenance trials in adults with depression that the use of antidepressants can delay the recurrence of depression.
 
 All patients being treated with antidepressants for any indication should be monitored appropriately and observed closely for clinical worsening, suicidality, and unusual changes in behavior, especially during the initial few months of a course of drug therapy, or at times of dose changes, either increases or decreases [see Boxed Warning and Use in Specific Populations (8.4)].
@@ -47,7 +47,7 @@ Prescriptions for FORFIVO XL should be written for the smallest quantity of tabl
 
 ## 5.2 Neuropsychiatric Adverse Events and Suicide Risk in Smoking Cessation Treatment
 
-FORFIVO XL is not approved for smoking cessation treatment, but bupropion hydrochloride sustained-release is approved for this use.
+FORFIVO XL is not approved for smoking cessation treatment; however, bupropion hydrochloride sustained-release is approved for this use.
 Serious neuropsychiatric adverse events have been reported in patients taking bupropion for smoking cessation.
 These postmarketing reports have included changes in mood (including depression and mania), psychosis, hallucinations, paranoia, delusions, homicidal ideation, aggression, hostility, agitation, anxiety, and panic, as well as suicidal ideation, suicide attempt, and completed suicide [see Adverse Reactions (6.2)].
 Some patients who stopped smoking may have been experiencing symptoms of nicotine withdrawal, including depressed mood.
@@ -58,18 +58,20 @@ Neuropsychiatric adverse events occurred in patients without and with pre-existi
 Observe patients for the occurrence of neuropsychiatric adverse events.
 Advise patients and caregivers that the patient should stop taking FORFIVO XL and contact a healthcare provider immediately if agitation, depressed mood, or changes in behavior or thinking that are not typical for the patient are observed, or if the patient develops suicidal ideation or suicidal behavior.
 In many postmarketing cases, resolution of symptoms after discontinuation of bupropion was reported.
+The healthcare provider should evaluate the severity of the adverse events and the extent to which the patient is benefiting from treatment, and consider options including continued treatment under closer monitoring, or discontinuing treatment.
+In many postmarketing cases, resolution of symptoms after discontinuation of bupropion was reported.
 However, the symptoms persisted in some cases; therefore, ongoing monitoring and supportive care should be provided until symptoms resolve.
 
 ## 5.3 Seizure
 
 Bupropion can cause seizure.
 The risk of seizure is dose related.
-FORFIVO XL should be discontinued and not restarted in patients who experience a seizure while on treatment.
+Discontinue FORFIVO XL and do not restart treatment if the patient experiences a seizure.
 
 The risk of seizures is also related to patient factors, clinical situations, and concomitant medications that lower the seizure threshold.
 Consider these risks before initiating treatment with FORFIVO XL.
-FORFIVO XL is contraindicated in patients with a seizure disorder or conditions that increase the risk of seizure (eg, severe head injury, arteriovenous malformation, central nervous system [CNS] tumor or CNS infection, severe stroke, anorexia nervosa or bulimia, or abrupt discontinuation of alcohol, benzodiazepines, barbiturates, and antiepileptic drugs) [see Contraindications (4)].
-The following conditions can also increase the risk of seizure: concomitant use of other medications that lower the seizure threshold (eg, other bupropion products, antipsychotics, tricyclic antidepressants, theophylline, and systemic corticosteroids), metabolic disorders (eg, hypoglycemia, hyponatremia, severe hepatic impairment, and hypoxia), or use of illicit drugs (eg, cocaine) or abuse or misuse of prescription drugs such as CNS stimulants.
+FORFIVO XL is contraindicated in patients with a seizure disorder or conditions that increase the risk of seizure (e.g., severe head injury, arteriovenous malformation, central nervous system [CNS] tumor or CNS infection, severe stroke, anorexia nervosa or bulimia, or abrupt discontinuation of alcohol, benzodiazepines, barbiturates, and antiepileptic drugs) [see Contraindications (4)].
+The following conditions can also increase the risk of seizure: concomitant use of other medications that lower the seizure threshold (e.g., other bupropion products, antipsychotics, tricyclic antidepressants, theophylline, and systemic corticosteroids), metabolic disorders (e.g., hypoglycemia, hyponatremia, severe hepatic impairment, and hypoxia), or use of illicit drugs (e.g., cocaine) or abuse or misuse of prescription drugs such as CNS stimulants.
 Additional predisposing conditions include diabetes mellitus treated with oral hypoglycemic drugs or insulin, use of anorectic drugs, excessive use of alcohol, use of benzodiazepines, sedatives/hypnotics, or opiates.
 
 Incidence of Seizure with Bupropion Use
@@ -79,7 +81,7 @@ In studies using bupropion hydrochloride sustained-release up to 300 mg/day, the
 In a large prospective, follow-up study, the seizure incidence was approximately 0.4% (13/3,200 patients) with bupropion hydrochloride immediate-release in the range of 300 to 450 mg/day.
 
 Additional data accumulated for bupropion immediate-release suggests that the estimated seizure incidence increases almost tenfold between 450 and 600 mg/day.
-The 600-mg dose is twice the usual adult dose and one and one-third the maximum recommended daily dose (450 mg) of FORFIVO XL.
+The 600 mg dose is twice the usual adult dose and one and one-third the maximum recommended daily dose (450 mg) of FORFIVO XL.
 This disproportionate increase in seizure incidence with dose incrementation calls for caution in dosing.
 
 ## 5.4 Hypertension
@@ -101,7 +103,7 @@ There are no controlled studies assessing the safety of bupropion in patients wi
 
 Antidepressant treatment can precipitate a manic, mixed, or hypomanic manic episode.
 The risk appears to be increased in patients with bipolar disorder or who have risk factors for bipolar disorder.
-Prior to initiating FORFIVO XL, screen patients for a history of bipolar disorder and the presence of risk factors for bipolar disorder (eg, family history of bipolar disorder, suicide, or depression).
+Prior to initiating FORFIVO XL, screen patients for a history of bipolar disorder and the presence of risk factors for bipolar disorder (e.g., family history of bipolar disorder, suicide, or depression).
 FORFIVO XL is not approved for the treatment of bipolar depression.
 
 ## 5.6 Psychosis and Other Neuropsychiatric Reactions
@@ -120,6 +122,6 @@ Angle-closure Glaucoma: The pupillary dilation that occurs following use of many
 Anaphylactoid/anaphylactic reactions have occurred during clinical trials with bupropion.
 Reactions have been characterized by symptoms such as pruritus, urticaria, angioedema, and dyspnea, requiring medical treatment.
 In addition, there have been rare, spontaneous postmarketing reports of erythema multiforme, Stevens-Johnson syndrome, and anaphylactic shock associated with bupropion.
-Instruct patients to discontinue FORFIVO XL and consult a healthcare provider if they develop an allergic or anaphylactoid/anaphylactic reaction (eg, skin rash, pruritus, hives, chest pain, edema, and shortness of breath) during treatment.
+Instruct patients to discontinue FORFIVO XL and consult a healthcare provider if they develop an allergic or anaphylactoid/anaphylactic reaction (e.g., skin rash, pruritus, hives, chest pain, edema, and shortness of breath) during treatment.
 
 There are reports of arthralgia, myalgia, fever with rash, and other symptoms of serum sickness suggestive of delayed hypersensitivity.

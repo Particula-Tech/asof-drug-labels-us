@@ -24,15 +24,15 @@ Drugs Metabolized by CYP2D6
 
 Bupropion and its metabolites (erythrohydrobupropion, threohydrobupropion, and hydroxybupropion) are CYP2D6 inhibitors.
 Therefore, coadministration of bupropion with drugs that are metabolized by CYP2D6 can increase the exposures of drugs that are substrates of CYP2D6.
-Such drugs include antidepressants (eg, venlafaxine, nortriptyline, imipramine, desipramine, paroxetine, fluoxetine, and sertraline), antipsychotics (eg, haloperidol, risperidone, and thioridazine), beta-blockers (eg, metoprolol), and Type 1C antiarrhythmics (eg, propafenone, and flecainide).
+Such drugs include antidepressants (e.g., venlafaxine, nortriptyline, imipramine, desipramine, paroxetine, fluoxetine, and sertraline), antipsychotics (e.g., haloperidol, risperidone, and thioridazine), beta-blockers (e.g., metoprolol), and Type 1C antiarrhythmics (e.g., propafenone, and flecainide).
 When used concomitantly with bupropion, it may be necessary to decrease the dose of these CYP2D6 substrates, particularly for drugs with a narrow therapeutic index.
 
-Drugs that require metabolic activation by CYP2D6 to be effective (eg, tamoxifen) theoretically could have reduced efficacy when administered concomitantly with inhibitors of CYP2D6 such as bupropion.
+Drugs that require metabolic activation by CYP2D6 to be effective (e.g., tamoxifen) theoretically could have reduced efficacy when administered concomitantly with inhibitors of CYP2D6 such as bupropion.
 Patients treated concomitantly with FORFIVO XL and such drugs may require increased doses of the drug [see Clinical Pharmacology (12.3)].
 
 ## 7.3 Drugs that Lower Seizure Threshold
 
-Because there is no lower strength for FORFIVO XL, concurrent administration of FORFIVO XL tablets and agents that lower the seizure threshold (eg, other bupropion products, antipsychotics, antidepressants, theophylline, or systemic corticosteroids) should be undertaken only with extreme caution [see Warnings and Precautions (5.3)].
+Because there is no lower strength for FORFIVO XL, concurrent administration of FORFIVO XL tablets and agents that lower the seizure threshold (e.g., other bupropion products, antipsychotics, antidepressants, theophylline, or systemic corticosteroids) should be undertaken only with extreme caution [see Warnings and Precautions (5.3)].
 
 ## 7.4 Dopaminergic Drugs (Levodopa and Amantadine)
 

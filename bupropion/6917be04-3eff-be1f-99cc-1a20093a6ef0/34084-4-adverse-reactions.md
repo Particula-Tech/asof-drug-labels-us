@@ -3,7 +3,7 @@
 The following adverse reactions are discussed in greater detail in other sections of the labeling:
 
 1. •Suicidal thoughts and behaviors in children, adolescents, and young adults [see Warnings and Precautions (5.1)]
-2. •Neuropsychiatric symptoms and suicide risk in smoking cessation treatment [see Warnings and Precautions (5.2)]
+2. •Neuropsychiatric adverse events and suicide risk in smoking cessation treatment [see Warnings and Precautions (5.2)]
 3. •Seizure [see Warnings and Precautions (5.3)]
 4. •Hypertension [see Warnings and Precautions (5.4)]
 5. •Activation of mania or hypomania [see Warnings and Precautions (5.5)]
@@ -23,7 +23,7 @@ Adverse reactions that occurred in at least 5% of patients treated with bupropio
 
 400 mg/day of bupropion hydrochloride sustained-release: abdominal pain, agitation, anxiety, dizziness, dry mouth, insomnia, myalgia, nausea, palpitation, pharyngitis, sweating, tinnitus, and urinary frequency.
 
-FORFIVO XL is bioequivalent to three 150-mg tablets of WELLBUTRIN XL®, which has been demonstrated to have similar bioavailability both to the immediate-release and the sustained-release formulations of bupropion.
+FORFIVO XL is bioequivalent to three 150 mg tablets of WELLBUTRIN XL®, which has been demonstrated to have similar bioavailability both to the immediate-release and the sustained-release formulations of bupropion.
 The information included under this subsection and under subsection 6.2 is based primarily on data from controlled clinical trials with the sustained-release and extended-release formulations of bupropion hydrochloride.
 
 Major Depressive Disorder
@@ -31,7 +31,7 @@ Major Depressive Disorder
 Adverse Reactions Leading to Discontinuation of Treatment with Bupropion Hydrochloride Immediate-release, Bupropion Hydrochloride Sustained-release, and Bupropion Hydrochloride Extended-release Formulations in Major Depressive Disorder Trials
 
 In placebo-controlled clinical trials with bupropion hydrochloride sustained-release, 4%, 9%, and 11% of the placebo, 300 mg/day, and 400 mg/day groups, respectively, discontinued treatment because of adverse reactions.
-The specific adverse reactions leading to discontinuation in at least 1% of the 300-mg/day or 400-mg/day groups and at a rate at least twice the placebo rate are listed in Table 2.
+The specific adverse reactions leading to discontinuation in at least 1% of the 300 mg/day or 400 mg/day groups and at a rate at least twice the placebo rate are listed in Table 2.
 
 Table 2.
 Treatment Discontinuation Due to Adverse Reactions in Placebo-controlled Trials in Major Depressive Disorder
@@ -49,12 +49,12 @@ Reactions resulting in discontinuation (in addition to those listed above for th
 Adverse Reactions Occurring at an Incidence of > 1% in Patients Treated With Bupropion Hydrochloride Immediate-release or Bupropion Hydrochloride Sustained-release Formulations in Major Depressive Disorder Trials
 
 Table 3 summarizes the adverse reactions that occurred in placebo-controlled trials in patients treated with bupropion hydrochloride sustained-release at 300 mg/day and 400 mg/day.
-These include reactions that occurred in either the 300-mg/day or 400-mg/day group at an incidence of 1% or more and were more frequent than in the placebo group.
+These include reactions that occurred in either the 300 mg/day or 400 mg/day group at an incidence of 1% or more and were more frequent than in the placebo group.
 
 Table 3.
 Adverse Reactions in Placebo-controlled Trials for Major Depressive Disorder
 
-| Body System/Adverse Reaction | Placebo (n = 385) | Bupropion Hydrochloride Sustained-release 300 mg/day (N = 376) | Bupropion Hydrochloride Sustained-release 400 mg/day (N = 114) |  |  |  |  |
+| Body System/Adverse Reaction | Placebo (N = 385) | Bupropion Hydrochloride Sustained-release 300 mg/day (N = 376) | Bupropion Hydrochloride Sustained-release 400 mg/day (N = 114) |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Body (General) |  |  |  |  |  |  |  |
 | Headache | 23% | 26% | 25% |  |  |  |  |
@@ -134,27 +134,27 @@ Incidence of Weight Gain or Weight Loss (≥ 5 lbs) in Placebo-controlled Trials
 The following adverse reactions have been identified during postapproval use of bupropion hydrochloride.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Body (General) - chills, facial edema, edema, peripheral edema, musculoskeletal chest pain, photosensitivity, and malaise.
+Body (General): chills, facial edema, edema, peripheral edema, musculoskeletal chest pain, photosensitivity, and malaise.
 
-Cardiovascular - postural hypotension, hypertension, stroke, vasodilation, syncope, complete atrioventricular block, extrasystoles, myocardial infarction, phlebitis, and pulmonary embolism.
+Cardiovascular: postural hypotension, hypertension, stroke, vasodilation, syncope, complete atrioventricular block, extrasystoles, myocardial infarction, phlebitis, and pulmonary embolism.
 
-Digestive - abnormal liver function, bruxism, gastric reflux, gingivitis, glossitis, increased salivation, jaundice, mouth ulcers, stomatitis, thirst, edema of tongue, colitis, esophagitis, gastrointestinal hemorrhage, gum hemorrhage, hepatitis, intestinal perforation, liver damage, pancreatitis, and stomach ulcer.
+Digestive: abnormal liver function, bruxism, gastric reflux, gingivitis, glossitis, increased salivation, jaundice, mouth ulcers, stomatitis, thirst, edema of tongue, colitis, esophagitis, gastrointestinal hemorrhage, gum hemorrhage, hepatitis, intestinal perforation, liver damage, pancreatitis, and stomach ulcer.
 
-Endocrine - hyperglycemia, hypoglycemia, and syndrome of inappropriate antidiuretic hormone secretion.
+Endocrine: hyperglycemia, hypoglycemia, and syndrome of inappropriate antidiuretic hormone secretion.
 
-Hemic and Lymphatic - ecchymosis, anemia, leukocytosis, leukopenia, lymphadenopathy, pancytopenia, and thrombocytopenia.
+Hemic and Lymphatic: ecchymosis, anemia, leukocytosis, leukopenia, lymphadenopathy, pancytopenia, and thrombocytopenia.
 Altered PT and/or INR, associated with hemorrhagic or thrombotic complications, were observed when bupropion was coadministered with warfarin.
 
-Metabolic and Nutritional - glycosuria.
+Metabolic and Nutritional: glycosuria.
 
-Musculoskeletal - leg cramps, fever/rhabdomyolysis, and muscle weakness.
+Musculoskeletal: leg cramps, fever/rhabdomyolysis, and muscle weakness.
 
-Nervous System - abnormal coordination, depersonalization, emotional lability, hyperkinesia, hypertonia, hypesthesia, vertigo, amnesia, ataxia, derealization, abnormal electroencephalogram (EEG), aggression, akinesia, aphasia, coma, dysarthria, dyskinesia, dystonia, euphoria, extrapyramidal syndrome, hypokinesia, increased libido, neuralgia, neuropathy, paranoid ideation, restlessness, suicide attempt, and unmasking tardive dyskinesia.
+Nervous System: abnormal coordination, depersonalization, emotional lability, hyperkinesia, hypertonia, hypesthesia, vertigo, amnesia, ataxia, derealization, abnormal electroencephalogram (EEG), aggression, akinesia, aphasia, coma, dysarthria, dyskinesia, dystonia, euphoria, extrapyramidal syndrome, hypokinesia, increased libido, neuralgia, neuropathy, paranoid ideation, restlessness, suicide attempt, and unmasking tardive dyskinesia.
 
-Respiratory - bronchospasm and pneumonia.
+Respiratory: bronchospasm and pneumonia.
 
-Skin - maculopapular rash, alopecia, angioedema, exfoliative dermatitis, and hirsutism.
+Skin: maculopapular rash, alopecia, angioedema, exfoliative dermatitis, and hirsutism.
 
-Special Senses - accommodation abnormality, dry eye, deafness, increased intraocular pressure, angle-closure glaucoma, and mydriasis.
+Special Senses: accommodation abnormality, dry eye, deafness, increased intraocular pressure, angle-closure glaucoma, and mydriasis.
 
-Urogenital - impotence, polyuria, prostate disorder, abnormal ejaculation, cystitis, dyspareunia, dysuria, gynecomastia, menopause, painful erection, salpingitis, urinary incontinence, urinary retention, and vaginitis.
+Urogenital: impotence, polyuria, prostate disorder, abnormal ejaculation, cystitis, dyspareunia, dysuria, gynecomastia, menopause, painful erection, salpingitis, urinary incontinence, urinary retention, and vaginitis.

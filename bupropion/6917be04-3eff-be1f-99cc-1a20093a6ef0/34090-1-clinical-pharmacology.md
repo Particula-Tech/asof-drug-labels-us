@@ -53,14 +53,14 @@ Only 0.5% of the oral dose was excreted as unchanged bupropion.
 
 Population Subgroups
 
-Factors or conditions altering metabolic capacity (eg, liver disease, congestive heart failure [CHF], age, concomitant medications, etc) or elimination may be expected to influence the degree and extent of accumulation of the active metabolites of bupropion.
+Factors or conditions altering metabolic capacity (e.g., liver disease, congestive heart failure [CHF], age, concomitant medications, etc.) or elimination may be expected to influence the degree and extent of accumulation of the active metabolites of bupropion.
 The elimination of the major metabolites of bupropion may be affected by reduced renal or hepatic function because they are moderately polar compounds and are likely to undergo further metabolism or conjugation in the liver prior to urinary excretion.
 
 Renal Impairment
 
 There is limited information on the pharmacokinetics of bupropion in patients with renal impairment.
 An intertrial comparison between normal subjects and patients with end-stage renal failure demonstrated that the parent drug Cmax and AUC values were comparable in the 2 groups, whereas the hydroxybupropion and threohydrobupropion metabolites had a 2.3- and 2.8-fold increase, respectively, in AUC for subjects with end-stage renal failure.
-A second study, comparing normal subjects and subjects with moderate to severe renal impairment (GFR 30.9 ± 10.8 mL/min) showed that after a single 150-mg dose of sustained-release bupropion, exposure to bupropion was approximately 2-fold higher in subjects with impaired renal function while levels of the hydroxybupropion and threo/erythrohydrobupropion (combined) metabolites were similar in the 2 groups.
+A second study, comparing normal subjects and subjects with moderate to severe renal impairment (GFR 30.9 ± 10.8 mL/min) showed that after a single 150 mg dose of sustained-release bupropion, exposure to bupropion was approximately 2-fold higher in subjects with impaired renal function while levels of the hydroxybupropion and threo/erythrohydrobupropion (combined) metabolites were similar in the 2 groups.
 Bupropion is extensively metabolized in the liver to active metabolites, which are further metabolized and subsequently excreted by the kidneys.
 The elimination of the major metabolites of bupropion may be reduced by impaired renal function [see Dosage and Administration (2.6) and Use in Specific Populations (8.6)].
 
@@ -99,7 +99,7 @@ The mean systemic exposure (AUC) was approximately 13% higher in male volunteers
 Smokers
 
 The effects of cigarette smoking on the pharmacokinetics of bupropion hydrochloride were studied in 34 healthy male and female volunteers; 17 were chronic cigarette smokers and 17 were nonsmokers.
-Following oral administration of a single 150-mg dose of bupropion, there was no statistically significant difference in Cmax, half-life, Tmax, AUC, or clearance of bupropion or its active metabolites between smokers and nonsmokers.
+Following oral administration of a single 150 mg dose of bupropion, there was no statistically significant difference in Cmax, half-life, Tmax, AUC, or clearance of bupropion or its active metabolites between smokers and nonsmokers.
 
 Drug Interactions
 

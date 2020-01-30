@@ -10,5 +10,5 @@ It has a bitter taste and produces the sensation of local anesthesia on the oral
 The structural formula is:
 
 FORFIVO XL tablets are supplied for oral administration of 450 mg of bupropion hydrochloride as white to off-white extended-release tablets.
-Each film-coated tablet contains the labeled amount of bupropion hydrochloride and the inactive ingredients: hydroxypropyl cellulose, hydrochloric acid, polyvinyl pyrrolidone and polyvinyl acetate blend, polyethylene oxide, stearic acid, colloidal silicon dioxide, magnesium stearate, hydroxypropylmethyl cellulose, triacetin, talc, methacrylic acid copolymer, polyethylene glycol 8000, titanium dioxide and carboxymethyl cellulose sodium.
+Each film-coated tablet contains the labeled amount of bupropion hydrochloride and the inactive ingredients: carboxymethyl cellulose sodium, colloidal silicon dioxide, hydrochloric acid, hydroxypropyl cellulose, hypromellose, magnesium stearate, methacrylic acid copolymer, polyethylene glycol 8000, polyethylene oxide, polyvinyl pyrrolidone and polyvinyl acetate blend, stearic acid, talc, titanium dioxide and triacetin.
 The logo “Forfivo” is printed on one side of the tablet with edible black ink.

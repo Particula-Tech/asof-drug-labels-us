@@ -7,7 +7,7 @@ FORFIVO XL should be swallowed whole and not crushed, divided, or chewed.
 
 ## 2.2 Initial Treatment with FORFIVO XL
 
-Do not initiate treatment with FORFIVO XL because the 450-mg tablet is the only available dose formulation.
+Do not initiate treatment with FORFIVO XL because the 450 mg tablet is the only available dose formulation.
 Use another bupropion formulation for initial dose titration (referring to prescribing information of other bupropion products).
 
 FORFIVO XL can be used in patients who are receiving 300 mg/day of another bupropion formulation for at least 2 weeks, and require a dosage of 450 mg/day.
@@ -17,12 +17,12 @@ Patients who are currently being treated with other bupropion products at 450 mg
 ## 2.3 Maintenance Treatment with FORFIVO XL
 
 It is generally agreed that acute episodes of depression require several months or longer of sustained antidepressant treatment beyond the response in the acute episode.
-It is unknown whether the 450-mg dose needed for maintenance treatment is identical to the dose that provided an initial response.
+It is unknown whether the 450 mg dose needed for maintenance treatment is identical to the dose that provided an initial response.
 Periodically reassess the need for maintenance treatment and the appropriate dose for such treatment.
 
 ## 2.4 To Discontinue FORFIVO XL, Taper the Dose
 
-Because the 450-mg tablet is the only available dose formulation, use another bupropion formulation for tapering the dose prior to discontinuation (referring to prescribing information of other bupropion products).
+Because the 450 mg tablet is the only available dose formulation, use another bupropion formulation for tapering the dose prior to discontinuation (referring to prescribing information of other bupropion products).
 
 ## 2.5 Patients with Impaired Hepatic Function
 
