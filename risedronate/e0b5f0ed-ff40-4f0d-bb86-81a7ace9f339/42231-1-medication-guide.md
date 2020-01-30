@@ -1,6 +1,6 @@
 # Medication Guide
 
-Risedronate Sodium Tablets, USP (RIS-e-DROE-nate SOE-dee-um)
+Risedronate Sodium (RIS-e-DROE-nate SOE-dee-um) Tablets, USP
 
 Read the Medication Guide that comes with risedronate sodium tablets before you start taking it and each time you get a refill.
 There may be new information.
@@ -98,8 +98,9 @@ Before you start risedronate sodium tablets, be sure to talk to your doctor if y
 - Plan to have dental surgery or teeth removed
 - Have kidney problems
 - Have been told you have trouble absorbing minerals in your stomach or intestines (malabsorption syndrome)
-- Are pregnant, or plan to become pregnant.
-  It is not known if risedronate sodium tabletscan harm your unborn baby.
+- Are pregnant, plan to become pregnant, or suspect that you are pregnant.
+  If you become pregnant while taking risedronate sodium tablets, stop taking it and contact your doctor.
+  It is not known if risedronate sodium tablets can harm your unborn baby.
 - Are breastfeeding or plan to breastfeed.
   It is not known if risedronate sodium passes into your milk and may harm your baby.
 
@@ -213,7 +214,7 @@ Survey No. 259/15,
 
 Dadra-396 191, (U.T. of D & NH), India
 
-PGPI0143C
+PGPI0143D
 
 ISS.
-08/2015
+01/2020

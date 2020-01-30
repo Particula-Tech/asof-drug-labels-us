@@ -21,28 +21,27 @@ Table 3 The Effect of Risedronate Sodium on the Risk of Vertebral Fractures
 | VERT NA | Placebo N = 678 | Risedronate Sodium 5 mg N = 696 | Absolute Risk Reduction (%) | Relative Risk Reduction (%) |
 | New and Worsening |  |  |  |  |
 | 0 to 1 Year | 7.2 | 3.9 | 3.3 | 49 |
-| 0 to 2 Years | 12.8 | 8 | 4.8 | 42 |
+| 0 to 2 Years | 12.8 | 8.0 | 4.8 | 42 |
 | 0 to 3 Years | 18.5 | 13.9 | 4.6 | 33 |
 | New |  |  |  |  |
-| 0 to 1 Year | 6.4 | 2.4 | 4 | 65 |
+| 0 to 1 Year | 6.4 | 2.4 | 4.0 | 65 |
 | 0 to 2 Years | 11.7 | 5.8 | 5.9 | 55 |
-| 0 to 3 Years | 16.3 | 11.3 | 5 | 41 |
+| 0 to 3 Years | 16.3 | 11.3 | 5.0 | 41 |
 | VERT MN | Placebo N = 346 | Risedronate Sodium 5 mg N = 344 | Absolute Risk Reduction(%) | Relative Risk Reduction(%) |
 | New and Worsening |  |  |  |  |
 | 0 to 1 Year | 15.3 | 8.2 | 7.1 | 50 |
 | 0 to 2 Years | 28.3 | 13.9 | 14.4 | 56 |
-| 0 to 3 Years | 34 | 21.8 | 12.2 | 46 |
+| 0 to 3 Years | 34.0 | 21.8 | 12.2 | 46 |
 | New |  |  |  |  |
 | 0 to 1 Year | 13.3 | 5.6 | 7.7 | 61 |
 | 0 to 2 Years | 24.7 | 11.6 | 13.1 | 59 |
-| 0 to 3 Years | 29 | 18.1 | 10.9 | 49 |
+| 0 to 3 Years | 29.0 | 18.1 | 10.9 | 49 |
 
 Effect on Osteoporosis-Related Nonvertebral Fractures In VERT MN and VERT NA, a prospectively planned efficacy endpoint was defined consisting of all radiographically confirmed fractures of skeletal sites accepted as associated with osteoporosis.
 Fractures at these sites were collectively referred to as osteoporosis-related nonvertebral fractures.
 Risedronate sodium 5 mg daily significantly reduced the incidence of nonvertebral osteoporosis-related fractures over 3 years in VERT NA (8% versus 5%; relative risk reduction 39%) and reduced the fracture incidence in VERT MN from 16% to 11%.
 There was a significant reduction from 11% to 7% when the studies were combined, with a corresponding 36% reduction in relative risk.
 Figure 1 shows the overall results as well as the results at the individual skeletal sites for the combined studies.
-
 Figure 1 Nonvertebral Osteoporosis-Related Fractures Cumulative Incidence Over 3 Years Combined VERT MN and VERT NA
 
 Effect on Bone Mineral Density The results of 4 randomized, placebo-controlled trials in women with postmenopausal osteoporosis (VERT MN, VERT NA, BMD MN, BMD NA) demonstrate that risedronate sodium 5 mg daily increases BMD at the spine, hip, and wrist compared to the effects seen with placebo.
@@ -54,16 +53,16 @@ Table 4 Mean Percent Increase in BMD from Baseline in Patients Taking Risedronat
 |  | VERT MNThe duration of the studies was 3 years |  | VERT NA |  | BMD MNThe duration of the studies was 1.5 to 2 years |  | BMD NA |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 |  | Placebo N = 323 | 5 mg N = 323 | Placebo N = 599 | 5 mg N = 606 | Placebo N = 161 | 5 mg N = 148 | Placebo N = 191 | 5 mg N = 193 |
-| Lumbar Spine | 1 | 6.6 | 0.8 | 5 | 0 | 4 | 0.2 | 4.8 |
-| Femoral Neck | -1.4 | 1.6 | -1 | 1.4 | -1.1 | 1.3 | 0.1 | 2.4 |
-| Femoral Trochanter | -1.9 | 3.9 | -0.5 | 3 | -0.6 | 2.5 | 1.3 | 4 |
+| Lumbar Spine | 1.0 | 6.6 | 0.8 | 5.0 | 0 | 4.0 | 0.2 | 4.8 |
+| Femoral Neck | -1.4 | 1.6 | -1.0 | 1.4 | -1.1 | 1.3 | 0.1 | 2.4 |
+| Femoral Trochanter | -1.9 | 3.9 | -0.5 | 3.0 | -0.6 | 2.5 | 1.3 | 4.0 |
 | Midshaft Radius | -1.5BMD of the midshaft radius was measured in a subset of centers in VERT MN (placebo, N = 222; 5 mg, N = 214) and VERT NA (placebo, N = 310; 5 mg, N = 306) | 0.2 | -1.2 | 0.1 | ND |  | ND |  |
 | aThe endpoint value is the value at the study's last time point for all patients who had BMD measured at that time; otherwise the last post-baseline BMD value prior to the study's last time point is used. |  |  |  |  |  |  |  |  |
 
 ND = analysis not done
 
 Risedronate sodium 35 mg once-a-week (N = 485) was shown to be non-inferior to risedronate sodium 5 mg daily (N = 480) in a 1-year, double-blind, multicenter study of postmenopausal women with osteoporosis.
-In the primary efficacy analysis of completers, the mean increases from baseline in lumbar spine BMD at 1 year were 4% (3.7, 4.3; 95% confidence interval [CI]) in the 5 mg daily group (N = 391) and 3.9% (3.6, 4.3; 95% CI) in the 35 mg once-a-week group (N = 387) and the mean difference between 5 mg daily and 35 mg once-a-week was 0.1% (-0.4, 0.6; 95% CI).
+In the primary efficacy analysis of completers, the mean increases from baseline in lumbar spine BMD at 1 year were 4.0% (3.7, 4.3; 95% confidence interval [CI]) in the 5 mg daily group (N = 391) and 3.9% (3.6, 4.3; 95% CI) in the 35 mg once-a-week group (N = 387) and the mean difference between 5 mg daily and 35 mg once-a-week was 0.1% (-0.4, 0.6; 95% CI).
 The results of the intent-to-treat analysis with the last observation carried forward were consistent with the primary efficacy analysis of completers.
 The 2 treatment groups were also similar with regard to BMD increases at other skeletal sites.
 In a double-blind, multicenter study of postmenopausal women with osteoporosis, treatment with risedronate sodium 75 mg two consecutive days per month (N = 616) was shown to be non-inferior to risedronate sodium 5 mg daily (N = 613).
@@ -72,7 +71,7 @@ The results of the intent-to-treat analysis with the last observation carried fo
 The 2 treatment groups were also similar with regard to BMD increases at other skeletal sites.
 Risedronate sodium 150 mg once-a-month (N = 650) was shown to be non-inferior to risedronate sodium 5 mg daily (N = 642) in a 1-year, double-blind, multicenter study of postmenopausal women with osteoporosis.
 The primary efficacy analysis was conducted in all randomized patients with baseline and post-baseline lumbar spine BMD values (modified intent-to-treat population) using last observation carried forward.
-The mean increases from baseline in lumbar spine BMD at 1 year were 3.4% (3, 3.8; 95% CI) in the 5 mg daily group (N = 561), and 3.5% (3.1, 3.9; 95% CI) in the 150 mg once-a-month group (N = 578) with a mean difference between groups being -0.1% (-0.5, 0.3; 95% CI).
+The mean increases from baseline in lumbar spine BMD at 1 year were 3.4% (3.0, 3.8; 95% CI) in the 5 mg daily group (N = 561), and 3.5% (3.1, 3.9; 95% CI) in the 150 mg once-a-month group (N = 578) with a mean difference between groups being -0.1% (-0.5, 0.3; 95% CI).
 The results of the completers analysis were consistent with the primary efficacy analysis.
 The 2 treatment groups were also similar with regard to BMD increases at other skeletal sites.
 Histology/Histomorphometry Bone biopsies from 110 postmenopausal women were obtained at endpoint.
@@ -95,14 +94,13 @@ Increases in BMD were observed as early as 3 months following initiation of rise
 Risedronate sodium 5 mg daily produced significant mean increases in BMD at the lumbar spine, femoral neck, and trochanter compared to placebo at the end of the study (Figure 2).
 Risedronate sodium 5 mg daily was also effective in patients with lower baseline lumbar spine BMD (more than 1 SD below the premenopausal mean) and in those with normal baseline lumbar spine BMD.
 Bone mineral density at the distal radius decreased in both risedronate sodium and placebo-treated women following 1 year of treatment.
-
 Figure 2 Change in BMD from Baseline 2-Year Prevention Study
 
 The safety and effectiveness of risedronate sodium 35 mg once-a-week for the prevention postmenopausal osteoporosis were demonstrated in a 1-year, double-blind, placebo-controlled study of 278 patients (risedronate sodium 35 mg, N = 136).
 All patients were supplemented with 1,000 mg elemental calcium and 400 international units vitamin D per day.
 The primary efficacy measure was the percent change in lumbar spine BMD from baseline after 1 year of treatment using LOCF (last observation carried forward).
 Risedronate sodium 35 mg once-a-week resulted in a statistically significant mean difference from placebo in lumbar spine BMD of +2.9% (least square mean for placebo -1.05%; risedronate +1.83%).
-Risedronate sodium 35 mg once-a-week also showed a statistically significant mean difference from placebo in BMD at the total proximal femur of +1.5% (placebo -0.53%; risedronate +1.01%), femoral neck of +1.2% (placebo -1%; risedronate +0.22%), and trochanter of +1.8% (placebo -0.74%; risedronate +1.07%).
+Risedronate sodium 35 mg once-a-week also showed a statistically significant mean difference from placebo in BMD at the total proximal femur of +1.5% (placebo -0.53%; risedronate +1.01%), femoral neck of +1.2% (placebo -1.0%; risedronate +0.22%), and trochanter of +1.8% (placebo -0.74%; risedronate +1.07%).
 
 Combined Administration with Hormone Replacement Therapy
 
@@ -113,7 +111,7 @@ Table 5 Percent Change from Baseline in BMD After 1 Year of Treatment
 
 |  | Estrogen 0.625 mg N = 261 | Risedronate Sodium 5 mg + Estrogen 0.625 mg N = 263 |
 | --- | --- | --- |
-| Lumbar Spine | 4.6 ± 0.2 | 5.2 ± 0.23 |
+| Lumbar Spine | 4.6 ± 0.20 | 5.2 ± 0.23 |
 | Femoral Neck | 1.8 ± 0.25 | 2.7 ± 0.25 |
 | Femoral Trochanter | 3.2 ± 0.28 | 3.7 ± 0.25 |
 | Midshaft Radius | 0.4 ± 0.14 | 0.7 ± 0.17 |
@@ -167,14 +165,14 @@ The differences between risedronate sodium and placebo were 2.7% at the lumbar s
 The differences were statistically significant for the lumbar spine and femoral neck, but not at the femoral trochanter.
 Risedronate sodium was similarly effective on lumbar spine BMD regardless of age (less than 65 vs. greater than or equal to 65), gender, or pre-study glucocorticoid dose.
 Positive treatment effects were also observed in patients taking glucocorticoids for a broad range of rheumatologic disorders, the most common of which were rheumatoid arthritis, temporal arteritis, and polymyalgia rheumatica.
-
 Figure 3 Change in BMD from Baseline Patients Recently Initiating Glucocorticoid Therapy
 
-Figure 4 Change in BMD from Baseline Patients on Long-Term Glucocorticoid Therapy Vertebral Fractures In the prevention study of patients initiating glucocorticoids, the incidence of vertebral fractures at 1 year was reduced from 17% in the placebo group to 6% in the risedronate sodium group.
+Figure 4 Change in BMD from Baseline Patients on Long-Term Glucocorticoid Therapy
+
+Vertebral Fractures In the prevention study of patients initiating glucocorticoids, the incidence of vertebral fractures at 1 year was reduced from 17% in the placebo group to 6% in the risedronate sodium group.
 In the treatment study of patients continuing glucocorticoids, the incidence of vertebral fractures was reduced from 15% in the placebo group to 5% in the risedronate sodium group (Figure 5).
 The statistically significant reduction in vertebral fracture incidence in the analysis of the combined studies corresponded to an absolute risk reduction of 11% and a relative risk reduction of 70%.
 All vertebral fractures were diagnosed radiographically; some of these fractures also were associated with symptoms (that is, clinical fractures).
-
 Figure 5 Incidence of Vertebral Fractures in Patients Initiating or Continuing Glucocorticoid Therapy
 
 Histology/Histomorphometry
@@ -195,8 +193,9 @@ At Day 540, 16 months after discontinuation of therapy, 53% (17/32) of risedrona
 
 During the first 180 days of the active-controlled study, 85% (51/60) of risedronate sodium-treated patients demonstrated a greater than or equal to 75% reduction from baseline in serum alkaline phosphatase excess (difference between measured level and midpoint of the normal range) with 2 months of treatment compared to 20% (12/60) in the etidronate disodium-treated group with 6 months of treatment (p less than 0.001).
 Changes in serum alkaline phosphatase excess over time (shown in Figure 6) were significant following only 30 days of treatment, with a 36% reduction in serum alkaline phosphatase excess at that time compared to only a 6% reduction seen with etidronate disodium treatment at the same time point (p less than 0.01).
+Figure 6 Mean Percent Change from Baseline in Serum Alkaline Phosphatase Excess by Visit
 
-Figure 6 Mean Percent Change from Baseline in Serum Alkaline Phosphatase Excess by Visit Response to risedronate sodium therapy was similar in patients with mild to very severe Paget's disease.
+Response to risedronate sodium therapy was similar in patients with mild to very severe Paget's disease.
 Table 6 shows the mean percent reduction from baseline at Day 180 in excess serum alkaline phosphatase in patients with mild, moderate, or severe disease.
 
 Table 6 Mean Percent Reduction from Baseline at Day 180 in Total Serum Alkaline Phosphatase Excess by Disease Severity
@@ -205,7 +204,7 @@ Table 6 Mean Percent Reduction from Baseline at Day 180 in Total Serum Alkaline 
 | --- | --- | --- | --- | --- | --- | --- |
 | Subgroup: Baseline Disease Severity (AP) | n | Baseline Serum AP (U/L) | Mean % Reduction | n | Baseline Serum AP (U/L)Values shown are mean± SEM; ULN = upper limit of normal. | Mean % Reduction |
 | greater than 2, less than 3x ULN | 32 | 271.6± 5.3 | -88.1 | 22 | 277.9± 7.45 | -44.6 |
-| greater than or equal to 3, less than 7x ULN | 14 | 475.3± 28.8 | -87.5 | 25 | 480.5± 26.44 | -35 |
+| greater than or equal to 3, less than 7x ULN | 14 | 475.3± 28.8 | -87.5 | 25 | 480.5± 26.44 | -35.0 |
 | greater than or equal to 7x ULN | 8 | 1336.5± 134.19 | -81.8 | 6 | 1331.5± 167.58 | -47.2 |
 
 Response to risedronate sodium therapy was similar between patients who had previously received anti-pagetic therapy and those who had not.

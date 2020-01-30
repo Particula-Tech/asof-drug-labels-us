@@ -38,8 +38,7 @@ Clinical judgment of the treating physician and/or oral surgeon should guide the
 
 Patients who develop osteonecrosis of the jaw while on bisphosphonate therapy should receive care by an oral surgeon.
 In these patients, extensive dental surgery to treat ONJ may exacerbate the condition.
-Discontinuation of bisphosphonate therapy should be considered based on individual benefit/risk assessment.
-[see Adverse Reactions (6.2)]
+Discontinuation of bisphosphonate therapy should be considered based on individual benefit/risk assessment [see Adverse Reactions (6.2)].
 
 ## 5.5 Musculoskeletal Pain
 

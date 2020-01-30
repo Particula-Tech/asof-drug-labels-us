@@ -1,6 +1,6 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-## 2.1 Treatment of Postmenopausal Osteoporosis
+## 2.1 Treatment of Postmenopausal Osteoporosis [see Indications and Usage (1.1)]
 
 [see Indications and Usage (1.1)] The recommended regimen is:
 
@@ -9,7 +9,7 @@
 - one 75 mg tablet orally, taken on two consecutive days for a total of two tablets each month or
 - one 150 mg tablet orally, taken once-a-month
 
-## 2.2 Prevention of Postmenopausal Osteoporosis
+## 2.2 Prevention of Postmenopausal Osteoporosis [see Indications and Usage (1.1)]
 
 [see Indications and Usage (1.1)] The recommended regimen is:
 
@@ -18,7 +18,7 @@
 - alternatively, one 75 mg tablet orally, taken on two consecutive days for a total of two tablets each month may be considered or
 - alternatively, one 150 mg tablet orally, taken once-a-month may be considered
 
-## 2.3 Treatment to Increase Bone Mass in Men with Osteoporosis
+## 2.3 Treatment to Increase Bone Mass in Men with Osteoporosis[see Indications and Usage (1.2)]
 
 [see Indications and Usage (1.2)]
 
@@ -26,13 +26,13 @@ The recommended regimen is:
 
 - one 35 mg tablet orally, taken once-a-week
 
-## 2.4 Treatment and Prevention of Glucocorticoid-Induced Osteoporosis
+## 2.4 Treatment and Prevention of Glucocorticoid-Induced Osteoporosis[see Indications and Usage (1.3)]
 
 [see Indications and Usage (1.3)] The recommended regimen is:
 
 - one 5 mg tablet orally, taken daily
 
-## 2.5 Treatment of Paget's Disease
+## 2.5 Treatment of Paget's Disease[see Indications and Usage (1.4)]
 
 [see Indications and Usage (1.4)]
 
