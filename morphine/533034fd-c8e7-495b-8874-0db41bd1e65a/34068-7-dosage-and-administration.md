@@ -67,8 +67,30 @@ Adjust the dosage to obtain an appropriate balance between management of pain an
 
 If the patient is currently taking a central nervous system (CNS) depressant and the decision is made to begin morphine sulfate extended-release tablets, start with the lowest possible dose, 15 mg every 12 hours, monitor patients for signs of respiratory depression, sedation, and hypotension, and consider using a lower dosage of the concomitant CNS depressant [see Warnings and Precautions (5.5), Drug Interactions (7)].
 
-## 2.5 Discontinuation of Morphine Sulfate Extended-Release Tablets
+## 2.5 Safe Reduction or Discontinuation of Morphine Sulfate Extended-Release Tablets
 
-When a patient no longer requires therapy with morphine sulfate extended-release tablets, taper the dose gradually, by 25% to 50% every 2 to 4 days, while monitoring carefully for signs and symptoms of withdrawal.
-If the patient develops these signs or symptoms, raise the dose to the previous level and taper more slowly, either by increasing the interval between decreases, decreasing the amount of change in dose, or both.
-Do not abruptly discontinue morphine sulfate extended-release tablets [see Warnings and Precautions (5.13), Drug Abuse and Dependence (9.3)].
+Do not abruptly discontinue morphine sulfate extended-release tablets in patients who may be physically dependent on opioids.
+Rapid discontinuation of opioid analgesics in patients who are physically dependent on opioids has resulted in serious withdrawal symptoms, uncontrolled pain, and suicide.
+Rapid discontinuation has also been associated with attempts to find other sources of opioid analgesics, which may be confused with drug-seeking for abuse.
+Patients may also attempt to treat their pain or withdrawal symptoms with illicit opioids, such as heroin, and other substances.
+
+When a decision has been made to decrease the dose or discontinue therapy in an opioid-dependent patient taking morphine sulfate extended-release tablets, there are a variety of factors that should be considered, including the dose of morphine sulfate extended-release tablets the patient has been taking, the duration of treatment, the type of pain being treated, and the physical and psychological attributes of the patient.
+It is important to ensure ongoing care of the patient and to agree on an appropriate tapering schedule and follow-up plan so that patient and provider goals and expectations are clear and realistic.
+When opioid analgesics are being discontinued due to a suspected substance use disorder, evaluate and treat the patient, or refer for evaluation and treatment of the substance use disorder.
+Treatment should include evidence-based approaches, such as medication assisted treatment of opioid use disorder.
+Complex patients with co-morbid pain and substance use disorders may benefit from referral to a specialist.
+
+There are no standard opioid tapering schedules that are suitable for all patients.
+Good clinical practice dictates a patient-specific plan to taper the dose of the opioid gradually.
+For patients on morphine sulfate extended-release tablets who are physically opioid-dependent, initiate the taper by a small enough increment (e.g., no greater than 10% to 25% of the total daily dose) to avoid withdrawal symptoms, and proceed with dose-lowering at an interval of every 2 to 4 weeks.
+Patients who have been taking opioids for briefer periods of time may tolerate a more rapid taper.
+
+It may be necessary to provide the patient with lower dosage strengths to accomplish a successful taper.
+Reassess the patient frequently to manage pain and withdrawal symptoms, should they emerge.
+Common withdrawal symptoms include restlessness, lacrimation, rhinorrhea, yawning, perspiration, chills, myalgia, and mydriasis.
+Other signs and symptoms also may develop, including irritability, anxiety, backache, joint pain, weakness, abdominal cramps, insomnia, nausea, anorexia, vomiting, diarrhea, or increased blood pressure, respiratory rate, or heart rate.
+If withdrawal symptoms arise, it may be necessary to pause the taper for a period of time or raise the dose of the opioid analgesic to the previous dose, and then proceed with a slower taper.
+In addition, monitor patients for any changes in mood, emergence of suicidal thoughts, or use of other substances.
+
+When managing patients taking opioid analgesics, particularly those who have been treated for a long duration and/or with high doses for chronic pain, ensure that a multimodal approach to pain management, including mental health support (if needed), is in place prior to initiating an opioid analgesic taper.
+A multimodal approach to pain management may optimize the treatment of chronic pain, as well as assist with the successful tapering of the opioid analgesic [see Warnings and Precautions (5.2), Drug Abuse and Dependence (9.3)].

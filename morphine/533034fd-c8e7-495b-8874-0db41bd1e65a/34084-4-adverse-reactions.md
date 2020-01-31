@@ -50,7 +50,7 @@ Skin and subcutaneous tissue disorders: pruritus, urticaria, rash
 
 Vascular disorders: flushing, hypotension, hypertension
 
-## 6.2 Post-Marketing Experience
+## 6.2 Postmarketing Experience
 
 The following adverse reactions have been identified during post-approval use of morphine sulfate extended-release tablets.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.

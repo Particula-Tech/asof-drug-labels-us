@@ -50,6 +50,10 @@ Overestimating the morphine sulfate extended-release tablets dosage when convert
 
 Accidental ingestion of even one dose of morphine sulfate extended-release tablets, especially by children, can result in respiratory depression and death due to an overdose of morphine.
 
+Opioids can cause sleep-related breathing disorders including central sleep apnea (CSA) and sleep-related hypoxemia.
+Opioid use increases the risk of CSA in a dose-dependent fashion.
+In patients who present with CSA, consider decreasing the opioid dosage using best practices for opioid taper [see Dosage and Administration (2.5)].
+
 ## 5.4 Neonatal Opioid Withdrawal Syndrome
 
 Prolonged use of morphine sulfate extended-release tablets during pregnancy can result in withdrawal in the neonate.
@@ -74,7 +78,7 @@ Advise both patients and caregivers about the risks of respiratory depression an
 Advise patients not to drive or operate heavy machinery until the effects of concomitant use of the benzodiazepine or other CNS depressant have been determined.
 Screen patients for risk of substance use disorders, including opioid abuse and misuse, and warn them of the risk for overdose and death associated with the use of additional CNS depressants including alcohol and illicit drugs [see Drug Interactions (7), Patient Counseling Information (17)].
 
-## 5.6 Life-Threatening Respiratory Depression in Patients with Chronic Pulmonary Disease or in Elderly, Cachectic, or Debilitated Patients
+## 5.6 Risk of Life-Threatening Respiratory Depression in Patients with Chronic Pulmonary Disease or in Elderly, Cachectic, or Debilitated Patients
 
 The use of morphine sulfate extended-release tablets in patients with acute or severe bronchial asthma in an unmonitored setting or in the absence of resuscitative equipment is contraindicated.
 
@@ -131,11 +135,12 @@ Monitor patients with a history of seizure disorders for worsened seizure contro
 
 ## 5.13 Withdrawal
 
-Avoid the use of mixed agonist/antagonist (e.g., pentazocine, nalbuphine, and butorphanol) or partial agonist (e.g., buprenorphine) analgesics in patients who have received or are receiving a course of therapy with a full opioid agonist analgesic, including morphine sulfate extended-release tablets.
-In these patients, mixed agonists/antagonist and partial agonist analgesics may reduce the analgesic effect and/or may precipitate withdrawal symptoms [see Drug Interactions (7)].
+Do not abruptly discontinue morphine sulfate extended-release tablets in a patient physically dependent on opioids.
+When discontinuing morphine sulfate extended-release tablets in a physically dependent patient, gradually taper the dosage.
+Rapid tapering of morphine in a patient physically dependent on opioids may lead to a withdrawal syndrome and return of pain [see Dosage and Administration (2.5), Drug Abuse and Dependence (9.3)].
 
-When discontinuing morphine sulfate extended-release tablets, gradually taper the dosage [see Dosage and Administration (2.4)].
-Do not abruptly discontinue morphine sulfate extended-release tablets [see Drug Abuse and Dependence (9.3)].
+Additionally, avoid the use of mixed agonist/antagonist (e.g., pentazocine, nalbuphine, and butorphanol) or partial agonist (e.g., buprenorphine) analgesics in patients who have received or are receiving a course of therapy with a full opioid agonist analgesic, including morphine sulfate extended-release tablets.
+In these patients, mixed agonists/antagonist and partial agonist analgesics may reduce the analgesic effect and/or may precipitate withdrawal symptoms [see Drug Interactions (7)].
 
 ## 5.14 Risks of Driving and Operating Machinery
 
