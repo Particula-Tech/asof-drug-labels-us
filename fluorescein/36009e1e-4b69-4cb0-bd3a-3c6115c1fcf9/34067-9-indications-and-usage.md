@@ -1,3 +1,3 @@
-# 1INDICATIONS AND USAGE
+# 1. INDICATIONS AND USAGE:
 
-Altafluor Benox (fluorescein sodium and benoxinate hydrochloride ophthalmic solution) 0.25%/0.4% is indicated for ophthalmic procedures requiring a disclosing agent in combination with a topical ophthalmic anesthetic agent.
+For procedures requiring a disclosing agent in combination with a topical ophthalmic anesthetic agent such as tonometry, gonioscopy, removal of corneal foreign bodies and other short corneal or conjunctival procedures.

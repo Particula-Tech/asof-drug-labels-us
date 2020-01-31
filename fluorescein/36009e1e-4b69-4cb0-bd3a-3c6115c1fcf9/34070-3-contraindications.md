@@ -1,3 +1,3 @@
-# 4CONTRAINDICATIONS:
+# 4. CONTRAINDICATIONS:
 
-Altafluor Benox is contraindicated in patients with known hypersensitivity to any component of this product.
+Known hypersensitivity to any component of this product.

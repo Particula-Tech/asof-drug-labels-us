@@ -1,9 +1,4 @@
-# 6ADVERSE REACTIONS
+# 6. ADVERSE REACTIONS:
 
-The following ocular adverse reactions are described elsewhere in the labeling:
-
-- Corneal Toxicity [see Warnings and Precautions (5.1)]
-- Corneal Injury due to Insensitivity [see Warnings and Precautions (5.2)]
-
-The following adverse reactions have been identified following use of fluorescein sodium and benoxinate hydrochloride ophthalmic solution 0.25% / 0.4%: ocular hyperemia, burning, stinging, eye irritation, blurred vision and punctate keratitis.
-Because these reactions were reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+Occasional temporary stinging, burning and conjunctival redness have been reported after use of ocular anesthetics, as well as a rare, severe, immediate-type, apparent hyper-allergic corneal reaction, with acute, intense and diffuse epithelial keratitis, a gray ground glass appearance, sloughing of large areas of necrotic epithelium, corneal filaments and sometimes, iritis with descemetitis.
+Allergic contact dermatitis with drying and fissuring of the fingertips has been reported.

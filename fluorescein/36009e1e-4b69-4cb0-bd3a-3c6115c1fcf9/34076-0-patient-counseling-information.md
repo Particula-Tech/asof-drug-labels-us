@@ -1,11 +1,17 @@
-# 17PATIENT COUNSELING INFORMATION
+# 17. PATIENT COUNSELING INFORMATION
 
-Accidental Injury Precaution
+Protection of the eye from irritation, chemicals, foreign bodies and rubbing during the period of anesthesia is very important.
 
-Advise patients not to touch their eyes for approximately 20 minutes after application.
-Their eyes will be insensitive due to the effect of the anesthetic, and care should be taken to avoid accidental injuries.
+Patients should be advised to avoid touching the eye until the anesthesia has worn off.
+
+| DO NOT USE IF IMPRINTED SEAL ON CAP IS BROKEN OR MISSING |
+| --- |
+
+KEEP OUT OF REACH OF CHILDREN
+
+FOR USE IN THE EYES ONLY
 
 Rev.
-12/2017
+02/2017
 
 Manufactured by: ALTAIRE Pharmaceuticals, Inc. Aquebogue, NY 11931

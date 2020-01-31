@@ -1,3 +1,7 @@
-# 2DOSAGE AND ADMINISTRATION
+# 2. DOSAGE AND ADMINISTRATION:
 
-Instill 1 to 2 drops of Altafluor Benox in the eye as needed.
+Usual Dosage: Removal of foreign bodies and sutures, and for tonometry: 1 to 2 drops (in single instillations) in each eye before operating.
+
+Deep Ophthalmic Anesthesia: Two drops in each eye at 90 second intervals for three instillations.
+
+Note: Because the “blink” reflex is temporarily eliminated, it is suggested that the eye be covered with a patch following this procedure.

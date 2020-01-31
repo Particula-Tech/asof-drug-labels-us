@@ -1,9 +1,7 @@
-# 16HOW SUPPLIED/STORAGE AND HANDLING
+# 16.HOW SUPPLIED/STORAGE AND HANDLING:
 
-Altafluor Benox (fluorescein sodium and benoxinate hydrochloride ophthalmic solution) 0.25%/0.4% is a sterile, yellow to orange-red solution supplied in a 5 mL glass bottle with a sterilized dropper.
+Fluorescein Sodium and Benoxinate Hydrochloride Ophthalmic Solution USP, 0.25%/0.4% is supplied in a glass bottled with a sterilized dropper in the following size: 5mL
 
-NDC #59390-218-05
-
-Storage: Store in refrigerator at 2° to 8°C (36° to 46°F).
-After opening, Altafluor Benox can be stored up to one month if stored at room temperature or until the expiration date on the bottle if stored in refrigerated conditions.
+Storage: Store in refrigerator at 2°-8°C (36°-46°F).
+Can be stored at room temperature for up to 1 month.
 Keep tightly closed.

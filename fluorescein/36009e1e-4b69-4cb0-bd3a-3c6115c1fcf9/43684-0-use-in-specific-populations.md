@@ -1,26 +1,15 @@
-# 8USE IN SPECIFIC POPULATIONS
+# 8. USE IN SPECIFIC POPULATIONS
 
-## 8.1 Pregnancy
+## 8.1 Pregnancy:
 
-Risk Summary
+Risk Summary: Fluorescein Sodium and Benoxinate Hydrochloride Ophthalmic Solution is not absorbed systemically following ophthalmic administration, and maternal use is not expected to result in fetal exposure to the drug.
+There are no human data that establish the presence or absence of drug-associated risk.
 
-There are no available data on the use of Altafluor Benox in pregnant women to inform any drug associated risk.
-Adequate animal reproduction studies have not been conducted with fluorescein sodium and/or benoxinate hydrochloride.
-Altafluor Benox should be given to a pregnant woman only if clearly needed.
+## 8.2Lactation:
 
-## 8.2 Lactation
+Risk Summary: Fluorescein Sodium and Benoxinate Hydrochloride Ophthalmic Solution is not absorbed systemically by the mother following ophthalmic administration, and breastfeeding is not expected to result in exposure of the child to Fluorescein Sodium and Benoxinate Hydrochloride.
+There are no data that assess the effects of the drugs and/or their active metabolite(s) on the breastfed child.
 
-Risk Summary
+## 8.4Pediatric Use:
 
-There are no data on the presence of fluorescein sodium or benoxinate hydrochloride in human milk after ocular administration of Altafluor Benox, the effects on the breastfed infant, or the effects on milk production.
-
-The developmental and health benefits of breastfeeding should be considered, along with the mother’s clinical need for Altafluor Benox and any potential adverse effects on the breastfed infant from Altafluor Benox.
-
-## 8.4 Pediatric Use
-
-The safety and effectiveness of Altafluor Benox have been established for pediatric patients.
-Use of Altafluor Benox is supported in pediatric patients by evidence from adequate and well controlled studies.
-
-## 8.5 Geriatric Use
-
-No overall differences in safety or effectiveness have been observed between elderly and younger patients.
+Safety and effectiveness in pediatric patients have not been established.
