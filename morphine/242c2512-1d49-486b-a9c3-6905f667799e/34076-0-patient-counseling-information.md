@@ -2,6 +2,13 @@
 
 Advise the patient to read the FDA-approved patient labeling (Medication Guide and Instruction for Use).
 
+Storage and Disposal Because of the risks associated with accidental ingestion, misuse, and abuse, advise patients to store morphine sulfate oral solution securely, out of sight and reach of children, and in a location not accessible by others, including visitors to the home [see Warnings and Precautions (5.4, 5.14), Drug Abuse and Dependence (9.2)].
+Inform patients that leaving Morphine Sulfate Oral Solution unsecured can pose a deadly risk to others in the home.
+
+Advise patients and caregivers that when medicines are no longer needed, they should be disposed of promptly.
+Expired, unwanted, or unused morphine sulfate oral solution should be disposed of by flushing the unused medication down the toilet if a drug take-back option is not readily available.
+Inform patients that they can visit www.fda.gov/drugdisposal for a complete list of medicines recommended for disposal by flushing, as well as additional information on disposal of unused medicines.
+
 Medication Errors Advise patients that morphine sulfate oral solution is available in one concentration: 100 mg per 5 mL (20 mg/mL).
 Inform patients about which concentration they have been prescribed and provide detailed instruction on how to measure and take the correct dose of morphine sulfate oral solution, and to always use the enclosed measuring device when administering morphine sulfate oral solution to ensure that the dose is measured and administered accurately [see Warnings and Precautions (5.1)].
 
@@ -14,7 +21,6 @@ Life-Threatening Respiratory Depression Inform patients of the risk of life-thre
 Advise patients how to recognize respiratory depression and to seek medical attention if breathing difficulties develop.
 
 Accidental Ingestion Inform patients that accidental ingestion, especially by children, may result in respiratory depression or death [see Warnings and Precautions (5.4)].
-Instruct patients to take steps to store morphine sulfate oral solution securely and to dispose of unused morphine sulfate oral solution by flushing the unused oral solution down the toilet.
 
 Interactions with Benzodiazepines and Other CNS Depressants Inform patients and caregivers that potentially fatal additive effects may occur if morphine sulfate oral solution is used with benzodiazepines or other CNS depressants, including alcohol, and not to use these concomitantly unless supervised by a healthcare provider [see Warnings and Precautions (5.6), Drug Interactions (7)].
 
@@ -37,8 +43,8 @@ Important Administration Instructions Instruct patients how to properly take mor
 - Inform patients that the 100 mg per 5 mL (20 mg/mL) formulation is only for patients who are already receiving opioid-therapy and have demonstrated opioid-tolerance.
   Use of this formulation may cause fatal respiratory depression when administered to patients who have not had previous exposure to opioids [see Indications and Usage (1), Dosage and Administration (2.1)].
 - Advise patients not to adjust the dose of morphine sulfate oral solution without consulting with a physician or other healthcare professional.
-- If patients have been receiving treatment with morphine sulfate oral solution for more than a few weeks and cessation of therapy is indicated, counsel them on the importance of safely tapering the dose as abrupt discontinuation of the medication could precipitate withdrawal symptoms.
-  Provide a dose schedule to accomplish a gradual discontinuation of the medication [see Dosage and Administration (2.4)].
+
+Important Discontinuation Instructions In order to avoid developing withdrawal symptoms, instruct patients not to discontinue morphine sulfate oral solution without first discussing a tapering plan with the prescriber [see Dosage and Administration (2.4)].
 
 Hypotension Inform patients that morphine sulfate oral solution may cause orthostatic hypotension and syncope.
 Instruct patients how to recognize symptoms of low blood pressure and how to reduce the risk of serious consequences should hypotension occur (e.g., sit or lie down, carefully rise from a sitting or lying position) [see Warnings and Precautions (5.10)].
@@ -61,17 +67,13 @@ Advise patients not to perform such tasks until they know how they will react to
 
 Constipation Advise patients of the potential for severe constipation, including management instructions and when to seek medical attention [see Adverse Reactions (6)].
 
-Disposal of Unused Morphine Sulfate Oral Solution
-
-Advise patients to dispose of unused morphine oral solution by flushing down the toilet.
-
 Mallinckrodt, the “M” brand mark and the Mallinckrodt Pharmaceuticals logo are trademarks of a Mallinckrodt company.
 
-© 2018 Mallinckrodt.
+© 2019 Mallinckrodt.
 
 Manufactured by: SpecGx LLC Webster Groves, MO 63119 USA
 
-Issued 09/2018
+Issued 10/2019
 
 Mallinckrodt™ Pharmaceuticals
 

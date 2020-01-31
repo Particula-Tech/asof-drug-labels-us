@@ -1,6 +1,6 @@
 # 5 WARNINGS AND PRECAUTIONS
 
-## 5.1 Risk of Accidental Overdose and Death due to Medication Errors
+## 5.1 Risk of Accidental Overdose and Death Due to Medication Errors
 
 Dosing errors can result in accidental overdose and death.
 Avoid dosing errors that may result from confusion between mg and mL and confusion with morphine solutions of different concentrations, when prescribing, dispensing, and administering morphine sulfate oral solution.
@@ -60,6 +60,10 @@ Morphine sulfate oral solution 100 mg per 5 mL (20 mg/mL) is for use in opioid-t
 Administration of this formulation may cause fatal respiratory depression when administered to patients who are not tolerant to the respiratory depressant effects of opioids.
 
 Accidental ingestion of even one dose of morphine sulfate oral solution, especially by children, can result in respiratory depression and death due to an overdose of morphine.
+
+Opioids can cause sleep-related breathing disorders including central sleep apnea (CSA) and sleep-related hypoxemia.
+Opioid use increases the risk of CSA in a dose-dependent fashion.
+In patients who present with CSA, consider decreasing the opioid dosage using best practices for opioid taper [see Dosage and Administration (2.4)].
 
 ## 5.5 Neonatal Opioid Withdrawal Syndrome
 
@@ -141,11 +145,11 @@ Monitor patients with a history of seizure disorders for worsened seizure contro
 
 ## 5.14 Withdrawal
 
-Avoid the use of mixed agonist/antagonist (e.g., pentazocine, nalbuphine, and butorphanol) or partial agonist (e.g., buprenorphine) analgesics in patients who are receiving a full opioid agonist analgesic, including morphine sulfate oral solution.
-In these patients, mixed agonist/antagonist and partial agonist analgesics may reduce the analgesic effect and/or precipitate withdrawal symptoms [see Drug Interactions (7)].
+Do not abruptly discontinue morphine sulfate oral solution in a patient physically dependent on opioids.
+When discontinuing morphine sulfate oral solution in a physically dependent patient, gradually taper the dosage Rapid tapering of morphine in a patient physically dependent on opioids may lead to a withdrawal syndrome and return of pain [see Dosage and Administration (2.4), Drug Abuse and Dependence (9.3)].
 
-When discontinuing morphine sulfate oral solution, gradually taper the dosage [see Dosage and Administration (2.4)].
-Do not abruptly discontinue morphine sulfate oral solution [see Drug Abuse and Dependence (9.3)].
+Additionally, avoid the use of mixed agonist/antagonist (e.g., pentazocine, nalbuphine, and butorphanol) or partial agonist (e.g., buprenorphine) analgesics in patients who are receiving a full opioid agonist analgesic, including morphine sulfate oral solution.
+In these patients, mixed agonist/antagonist and partial agonist analgesics may reduce the analgesic effect and/or precipitate withdrawal symptoms [see Drug Interactions (7)].
 
 ## 5.15 Risks of Driving and Operating Machinery
 

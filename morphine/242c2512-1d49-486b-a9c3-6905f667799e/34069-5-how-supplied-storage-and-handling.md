@@ -8,3 +8,5 @@ Supplied with calibrated syringe: Bottles of 15 mL...........NDC 0406-8003-15 Bo
 Store at 20° to 25°C (68° to 77°F) [See USP Controlled Room Temperature].
 
 PROTECT FROM LIGHT.
+
+Store morphine sulfate oral solution securely and dispose of properly [see Patient Counseling Information (17)].
