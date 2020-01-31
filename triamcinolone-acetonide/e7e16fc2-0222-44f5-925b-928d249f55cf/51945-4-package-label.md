@@ -7,7 +7,6 @@ NDC 51672-1282-1
 Triamcinolone Acetonide Cream USP, 0.1%
 
 FOR EXTERNAL USE ONLY.
-
 NOT FOR OPHTHALMIC USE.
 
 Rx only

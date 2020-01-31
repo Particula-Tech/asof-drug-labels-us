@@ -1,5 +1,16 @@
 # DOSAGE AND ADMINISTRATION
 
-Triamcinolone Acetonide Cream USP, 0.1% two or three times daily depending on the severity of the condition.
-Occlusive dressings may be used for the management of psoriasis or recalcitrant conditions.
+Apply triamcinolone acetonide cream USP, 0.1% as appropriate, to the affected area two to three times daily.
+Rub in gently.
+
+## Occlusive Dressing Technique
+
+Occlusive dressings may be used for the management of psoriasis or other recalcitrant conditions.
+Gently rub a small amount of cream into the lesion until it disappears.
+Reapply the preparation leaving a thin coating on the lesion, cover with pliable nonporous film, and seal the edges.
+If needed, additional moisture may be provided by covering the lesion with a dampened clean cotton cloth before the nonporous film is applied or by briefly wetting the affected area with water immediately prior to applying the medication.
+The frequency of changing dressings is best determined on an individual basis.
+It may be convenient to apply triamcinolone acetonide cream USP, 0.1% under an occlusive dressing in the evening and to remove the dressing in the morning (i.e., 12-hour occlusion).
+When utilizing the 12-hour occlusion regimen, additional cream should be applied, without occlusion, during the day.
+Reapplication is essential at each dressing change.
 If an infection develops, the use of occlusive dressings should be discontinued and appropriate antimicrobial therapy instituted.
