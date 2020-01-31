@@ -7,4 +7,4 @@ Its molecular weight is 409.4 and its structural formula is: Ezetimibe USP is a 
 It is also insoluble in non-polar solvents such as hexane.
 Ezetimibe has a melting point of about 163°C and is stable at ambient temperature.
 Ezetimibe tablets USP is available as a tablet for oral administration containing 10 mg of ezetimibe and the following inactive ingredients: croscarmellose sodium, crospovidone, hypromellose, lactose monohydrate, magnesium stearate, microcrystalline cellulose and sodium lauryl sulfate.
-USP dissolution test is pending.
+Meets USP Dissolution Test 2.
