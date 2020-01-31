@@ -17,7 +17,7 @@ Renal and eighth-nerve function should be closely monitored in patients with kno
 Peak and trough serum concentrations of aminoglycosides should be monitored periodically during therapy to assure adequate levels and to avoid potentially toxic levels.
 Prolonged serum concentrations above 12 mcg/mL should be avoided.
 Rising trough levels (above 2 mcg/mL) may indicate tissue accumulation.
-Such accumulation, excessive peak concentrations, advanced age, and cumulative dose may contribute to ototoxicity and nephrotoxicity (see Precautions).
+Such accumulation, excessive peak concentrations, advanced age, and cumulative dose may contribute to ototoxicity and nephrotoxicity (seePrecautions).
 Urine should be examined for decreased specific gravity and increased excretion of protein, cells, and casts.
 Blood urea nitrogen, serum creatinine, and creatinine clearance should be measured periodically.
 When feasible, it is recommended that serial audiograms be obtained in patients old enough to be tested, particularly high-risk patients.

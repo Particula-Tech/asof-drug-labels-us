@@ -23,6 +23,6 @@ X-Gen Pharmaceuticals, Inc.
 
 Big Flats, NY 14814
 
-Revised December 2017
+Revised July 2018
 
-TOBR-PI6-01
+TOBR-PI6-02

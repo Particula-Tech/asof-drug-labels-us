@@ -7,11 +7,11 @@ Dosage recommendations for intramuscular use are for informational purposes only
 The patient’s pretreatment body weight should be obtained for calculation of correct dosage.
 It is desirable to measure both peak and trough serum concentrations (see WARNINGS box and PRECAUTIONS).
 
-Administration for Patients With Normal Renal Function-Adults-With Serious Infections: 3 mg/kg/day in 3 equal doses every 8 hours (seeTable 3).
+Administration for Patients With Normal Renal Function-Adults-With Serious Infections: 3 mg/kg/day in 3 equal doses every 8 hours (see Table 3).
 
-Adults With Life-Threatening Infections: Up to 5 mg/kg/day may be administered in 3 or 4 equal doses (seeTable 1).
+Adults With Life-Threatening Infections: Up to 5 mg/kg/day may be administered in 3 or 4 equal doses (see Table 1).
 The dosage should be reduced to 3 mg/kg/day as soon as clinically indicated.
-To prevent increased toxicity due to excessive blood levels, dosage should not exceed 5 mg/kg/day unless serum levels are monitored (see Warnings box andPrecautions).
+To prevent increased toxicity due to excessive blood levels, dosage should not exceed 5 mg/kg/day unless serum levels are monitored (see WARNINGS box and PRECAUTIONS).
 
 Pediatric patients: 6 to 7.5 mg/kg/day in 3 or 4 equally divided doses (2 to 2.5 mg/kg every 8 hours or 1.5 to 1.89 mg/kg every 6 hours).
 
@@ -47,7 +47,7 @@ Dosage in Obese Patients - The appropriate dose may be calculated by using the p
 Intravenous Administration - For intravenous administration, the usual volume of diluent (0.9% Sodium Chloride Injection or 5% Dextrose Injection) is 50 to 100 mL for adult doses.
 For pediatric patients, the volume of diluent should be proportionately less than that for adults.
 The diluted solution usually should be infused over a period of 20 to 60 minutes.
-Infusion periods of less than 20 minutes are not recommended because peak serum levels may exceed 12 mcg/mL (see Warnings box).
+Infusion periods of less than 20 minutes are not recommended because peak serum levels may exceed 12 mcg/mL (see Warningsbox).
 
 Tobramycin for injection, USP should not be physically premixed with other drugs but should be administered separately according to the recommended dose and route.
 
