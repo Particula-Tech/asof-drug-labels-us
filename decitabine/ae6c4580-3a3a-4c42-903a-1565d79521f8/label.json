@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA212265"
+  ],
+  "inn": "decitabine",
+  "labeler": "Novadoz Pharmaceuticals LLC",
+  "package_ndcs": [
+    "72205-031-01"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION",
+      "generic": "decitabine",
+      "name": "Decitabine"
+    }
+  ],
+  "setid": "ae6c4580-3a3a-4c42-903a-1565d79521f8",
+  "source": "dailymed"
+}
