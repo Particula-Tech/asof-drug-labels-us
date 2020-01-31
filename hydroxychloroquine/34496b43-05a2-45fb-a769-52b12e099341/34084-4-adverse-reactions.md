@@ -35,4 +35,4 @@ Dermatitis bullous eruptions including erythema multiforme, Stevens-Johnson synd
 AGEP has to be distinguished from psoriasis, although PLAQUENIL may precipitate attacks of psoriasis.
 It may be associated with pyrexia and hyperleukocytosis.
 
-To report SUSPECTED ADVERSE REACTIONS, contact Concordia Pharmaceuticals Inc. at 1-877-370-1142 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
+To report SUSPECTED ADVERSE REACTIONS, contact Concordia Pharmaceuticals at 1-877-370-1142 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.

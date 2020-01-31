@@ -11,8 +11,5 @@ Keep out of the reach of children.
 
 Store at room temperature [20° to 25°C (68° to 77°F), allows excursions between 15° and 30°C (59° and 86°F)].
 
-Manufactured for: Concordia Pharmaceuticals Inc. St. Michael, Barbados BB11005
-
-Revised 06/2018
-
-©2015 Concordia Pharmaceuticals Inc. All rights reserved.
+Mfd. for: Concordia Pharmaceuticals Distributed by: Amdipharm Limited 17 Northwood House Dublin 9, Ireland Rev.
+09/19 ©2015 All rights reserved.
