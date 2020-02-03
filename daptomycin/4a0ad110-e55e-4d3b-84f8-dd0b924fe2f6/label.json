@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA208385"
+  ],
+  "inn": "daptomycin",
+  "labeler": "Sagent Pharmaceuticals",
+  "package_ndcs": [
+    "25021-179-66",
+    "25021-179-67"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION",
+      "generic": "daptomycin",
+      "name": "Daptomycin"
+    }
+  ],
+  "setid": "4a0ad110-e55e-4d3b-84f8-dd0b924fe2f6",
+  "source": "dailymed"
+}
