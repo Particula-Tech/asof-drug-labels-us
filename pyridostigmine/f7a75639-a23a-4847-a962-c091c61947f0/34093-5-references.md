@@ -31,5 +31,5 @@
    Clin Pharmacol Ther.
    1985;5:495-501.
 
-Manufactured for: Rising Pharmaceuticals, Inc. Saddle Brook, NJ 07663 Manufactured by: Centaur Pharmaceuticals Private Limited, Plot No. 4, International Biotech Park, Phase II, Hinjewadi, Pune-411 057, INDIA Rev.
-September 2017 208380
+Manufactured by: Centaur Pharmaceuticals Private Limited, Plot No. 4, International Biotech Park, Phase II, Hinjewadi, Pune-411 057, INDIA Distributed By: Rising Pharmaceuticals, Inc. Saddle Brook, NJ 07663 Rev.
+10/2018
