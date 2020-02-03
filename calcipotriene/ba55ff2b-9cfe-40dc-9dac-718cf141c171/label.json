@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA200174"
+  ],
+  "inn": "calcipotriene",
+  "labeler": "Perrigo New York Inc",
+  "package_ndcs": [
+    "45802-816-01",
+    "45802-816-96"
+  ],
+  "products": [
+    {
+      "form": "OINTMENT",
+      "generic": "calcipotriene, betamethasone dipropionate",
+      "name": "Calcipotriene and Betamethasone Dipropionate"
+    }
+  ],
+  "setid": "ba55ff2b-9cfe-40dc-9dac-718cf141c171",
+  "source": "dailymed"
+}
