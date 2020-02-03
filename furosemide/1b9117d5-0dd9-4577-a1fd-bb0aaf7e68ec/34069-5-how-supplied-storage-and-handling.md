@@ -17,15 +17,18 @@ Store at 20° to 25°C (68° to 77°F); excursions permitted to 15° to 30°C (5
 
 Protect from light.
 
-Manufactured for:
+Manufactured by:
 
-Heritage Pharmaceuticals Inc.
+Emcure Pharmaceuticals Ltd.,
+
+Sanand, Ahmedabad – 382110, India.
+
+Distributed by:
+
+Avet Pharmaceuticals Inc.
 
 East Brunswick, NJ 08816
 
 1.866.901.DRUG (3784)
 
-Made In India
-
-Rev.
-10/17
+Revised: 11/2019

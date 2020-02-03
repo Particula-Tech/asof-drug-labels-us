@@ -48,3 +48,5 @@ Literature reports suggest that the maximum dose for premature infants should no
 (See WARNINGS, Pediatric Use.)
 
 Furosemide Injection should be inspected visually for particulate matter and discoloration before administration.
+
+Since the vials are for single-dose only, any unused portion remaining in the vial should be discarded.
