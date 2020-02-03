@@ -1,7 +1,7 @@
 # CLINICAL PHARMACOLOGY
 
 Tetracyclines are readily absorbed and are bound to plasma proteins in varying degree.
-They are concentrated by the liver in the bile, and excreted in the urine and feces at high concentrations and in a biologically active form.
+They are concentrated by the liver in the bile and excreted in the urine and feces at high concentrations and in a biologically active form.
 Doxycycline is virtually completely absorbed after oral administration.
 
 Following a 200 mg dose, normal adult volunteers averaged peak serum levels of 2.6 mcg/mL of doxycycline at 2 hours, decreasing to 1.45 mcg/mL at 24 hours.
@@ -12,6 +12,11 @@ Studies have shown no significant difference in serum half-life of doxycycline (
 Hemodialysis does not alter serum half-life.
 
 Results of animal studies indicate that tetracyclines cross the placenta and are found in fetal tissues.
+
+Population pharmacokinetic analysis of sparse concentration-time data of doxycycline following standard of care intravenous and oral dosing in 44 pediatric patients (2 to 18 years of age) showed that allometrically-scaled clearance (CL) of doxycycline in pediatric patients ≥2 to ≤8 years of age (median [range] 3.58 [2.27 to 10.82] L/h/70 kg, N =11) did not differ significantly from pediatric patients >8 to 18 years of age (3.27 [1.11 to 8.12] L/h/70 kg, N=33).
+For pediatric patients weighing ≤45 kg, body weight normalized doxycycline CL in those ≥2 to ≤8 years of age (median [range] 0.071 [0.041 to 0.202] L/kg/h, N=10) did not differ significantly from those >8 to 18 years of age (0.081 [0.035 to 0.126] L/kg/h, N=8).
+In pediatric patients weighing >45 kg, no clinically significant differences in body weight normalized doxycycline CL were observed between those ≥2 to ≤8 years (0.050 L/kg/h, N=l) and those >8 to 18 years of age (0.044 [0.014 to 0.121] L/kg/h, N=25).
+No clinically significant difference in CL between oral and IV dosing was observed in the small cohort of pediatric patients who received the oral (N=19) or IV (N=2l) formulation alone.
 
 ## Microbiology
 

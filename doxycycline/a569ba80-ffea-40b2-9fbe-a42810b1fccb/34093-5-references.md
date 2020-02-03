@@ -23,4 +23,4 @@ Manufactured In India By: Watson Pharma Private Ltd. Verna, Salcette Goa 403 722
 Distributed By: Actavis Pharma, Inc. Parsippany, NJ 07054 USA
 
 Rev.
-B 12/2018
+C 1/2020
