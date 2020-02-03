@@ -27,7 +27,7 @@ Carbapenem Antibiotics:
 A clinically significant reduction in serum valproic acid concentration has been reported in patients receiving carbapenem antibiotics (for example, ertapenem, imipenem, meropenem; this is not a complete list) and may result in loss of seizure control.
 The mechanism of this interaction is not well understood.
 Serum valproic acid concentrations should be monitored frequently after initiating carbapenem therapy.
-Alternative antibacterial or anticonvulsant therapy should be considered if serum valproic acid concentrations drop significantly or seizure control deteriorates [see WARNINGS AND PRECAUTIONS (5.13)].
+Alternative antibacterial or anticonvulsant therapy should be considered if serum valproic acid concentrations drop significantly or seizure control deteriorates [see Warnings and Precautions (5.13)].
 
 Estrogen-Containing Hormonal Contraceptives
 
@@ -140,7 +140,7 @@ Rufinamide
 
 Based on a population pharmacokinetic analysis, rufinamide clearance was decreased by valproate.
 Rufinamide concentrations were increased by <16% to 70%, dependent on concentration of valproate (with the larger increases being seen in pediatric patients at high doses or concentrations of valproate).
-Patients stabilized on rufinamide before being prescribed valproate should begin valproate therapy at a low dose, and titrate to a clinically effective dose [see DOSAGE AND ADMINISTRATION (2.5)].
+Patients stabilized on rufinamide before being prescribed valproate should begin valproate therapy at a low dose, and titrate to a clinically effective dose [see Dosage and Administration (2.5)].
 Similarly, patients on valproate should begin at a rufinamide dose lower than 10 mg/kg per day (pediatric patients) or 400 mg per day (adults).
 
 Tolbutamide:
@@ -186,6 +186,6 @@ Administration of a single-dose of ethinyloestradiol (50 mcg)/levonorgestrel (25
 
 ## 7.3 Topiramate
 
-Concomitant administration of valproate and topiramate has been associated with hyperammonemia with and without encephalopathy [see CONTRAINDICATIONS (4) and WARNINGS AND PRECAUTIONS (5.6, 5.9, 5.10)].
+Concomitant administration of valproate and topiramate has been associated with hyperammonemia with and without encephalopathy [see Contraindications (4) and Warnings and Precautions (5.6, 5.9, 5.10)].
 Concomitant administration of topiramate with valproate has also been associated with hypothermia in patients who have tolerated either drug alone.
-It may be prudent to examine blood ammonia levels in patients in whom the onset of hypothermia has been reported [see WARNINGS AND PRECAUTIONS (5.9, 5.11)].
+It may be prudent to examine blood ammonia levels in patients in whom the onset of hypothermia has been reported [see Warnings and Precautions (5.9, 5.11)].

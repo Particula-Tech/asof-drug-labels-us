@@ -24,7 +24,7 @@ Although there are no efficacy data that specifically address longer-term antima
 
 Divalproex sodium delayed-release tablets are administered orally.
 Divalproex sodium delayed-release tablets are indicated as monotherapy and adjunctive therapy in complex partial seizures in adults and pediatric patients down to the age of 10 years, and in simple and complex absence seizures.
-As the divalproex sodium delayed-release tablets dosage is titrated upward, concentrations of clonazepam, diazepam, ethosuximide, lamotrigine, tolbutamide, phenobarbital, carbamazepine, and/or phenytoin may be affected [see DRUG INTERACTIONS (7.2)].
+As the divalproex sodium delayed-release tablets dosage is titrated upward, concentrations of clonazepam, diazepam, ethosuximide, lamotrigine, tolbutamide, phenobarbital, carbamazepine, and/or phenytoin may be affected [see Drug Interactions (7.2)].
 
 Complex Partial Seizures
 
@@ -62,8 +62,8 @@ If satisfactory clinical response has not been achieved, plasma levels should be
 No recommendation regarding the safety of valproate for use at doses above 60 mg/kg/day can be made.
 If the total daily dose exceeds 250 mg, it should be given in divided doses.
 
-In a study of adjunctive therapy for complex partial seizures in which patients were receiving either carbamazepine or phenytoin in addition to valproate, no adjustment of carbamazepine or phenytoin dosage was needed [see CLINICAL STUDIES (14.2)].
-However, since valproate may interact with these or other concurrently administered AEDs as well as other drugs, periodic plasma concentration determinations of concomitant AEDs are recommended during the early course of therapy [see DRUG INTERACTIONS (7)].
+In a study of adjunctive therapy for complex partial seizures in which patients were receiving either carbamazepine or phenytoin in addition to valproate, no adjustment of carbamazepine or phenytoin dosage was needed [see Clinical Studies (14.2)].
+However, since valproate may interact with these or other concurrently administered AEDs as well as other drugs, periodic plasma concentration determinations of concomitant AEDs are recommended during the early course of therapy [see Drug Interactions (7)].
 
 Simple and Complex Absence Seizures
 
@@ -73,9 +73,9 @@ If the total daily dose exceeds 250 mg, it should be given in divided doses.
 
 A good correlation has not been established between daily dose, serum concentrations, and therapeutic effect.
 However, therapeutic valproate serum concentrations for most patients with absence seizures is considered to range from 50 to 100 mcg/mL.
-Some patients may be controlled with lower or higher serum concentrations [see CLINICAL PHARMACOLOGY (12.3)].
+Some patients may be controlled with lower or higher serum concentrations [see Clinical Pharmacology (12.3)].
 
-As the divalproex sodium delayed-release tablets dosage is titrated upward, blood concentrations of phenobarbital and/or phenytoin may be affected [see DRUG INTERACTIONS (7.2)].
+As the divalproex sodium delayed-release tablets dosage is titrated upward, blood concentrations of phenobarbital and/or phenytoin may be affected [see Drug Interactions (7.2)].
 
 Antiepilepsy drugs should not be abruptly discontinued in patients in whom the drug is administered to prevent major seizures because of the strong possibility of precipitating status epilepticus with attendant hypoxia and threat to life.
 
@@ -98,12 +98,12 @@ Dosing in Elderly Patients
 Due to a decrease in unbound clearance of valproate and possibly a greater sensitivity to somnolence in the elderly, the starting dose should be reduced in these patients.
 Dosage should be increased more slowly and with regular monitoring for fluid and nutritional intake, dehydration, somnolence, and other adverse reactions.
 Dose reductions or discontinuation of valproate should be considered in patients with decreased food or fluid intake and in patients with excessive somnolence.
-The ultimate therapeutic dose should be achieved on the basis of both tolerability and clinical response [see WARNINGS AND PRECAUTIONS (5.14), USE IN SPECIFIC POPULATIONS (8.5) and CLINICAL PHARMACOLOGY (12.3)].
+The ultimate therapeutic dose should be achieved on the basis of both tolerability and clinical response [see Warnings and Precautions (5.14), Use in Specific Populations (8.5) and Clinical Pharmacology (12.3)].
 
 Dose-Related Adverse Reactions
 
 The frequency of adverse effects (particularly elevated liver enzymes and thrombocytopenia) may be dose-related.
-The probability of thrombocytopenia appears to increase significantly at total valproate concentrations of ≥ 110 mcg/mL (females) or ≥ 135 mcg/mL (males) [see WARNINGS AND PRECAUTIONS (5.8)].
+The probability of thrombocytopenia appears to increase significantly at total valproate concentrations of ≥ 110 mcg/mL (females) or ≥ 135 mcg/mL (males) [see Warnings and Precautions (5.8)].
 The benefit of improved therapeutic effect with higher doses should be weighed against the possibility of a greater incidence of adverse reactions.
 
 G.I.
@@ -113,4 +113,4 @@ Patients who experience G.I. irritation may benefit from administration of the d
 
 ## 2.5 Dosing in Patients Taking Rufinamide
 
-Patients stabilized on rufinamide before being prescribed valproate should begin valproate therapy at a low dose, and titrate to a clinically effective dose [see DRUG INTERACTIONS (7.2)].
+Patients stabilized on rufinamide before being prescribed valproate should begin valproate therapy at a low dose, and titrate to a clinically effective dose [see Drug Interactions (7.2)].

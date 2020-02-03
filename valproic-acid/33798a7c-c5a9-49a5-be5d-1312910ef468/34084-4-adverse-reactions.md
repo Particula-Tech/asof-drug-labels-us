@@ -2,16 +2,16 @@
 
 The following serious adverse reactions are described below and elsewhere in the labeling:
 
-- Hepatic failure [see WARNINGS AND PRECAUTIONS (5.1)]
-- Birth defects [see WARNINGS AND PRECAUTIONS (5.2)]
-- Decreased IQ following in utero exposure [see WARNINGS AND PRECAUTIONS (5.3)]
-- Pancreatitis [see WARNINGS AND PRECAUTIONS (5.5)]
-- Hyperammonemic encephalopathy [see WARNINGS AND PRECAUTIONS (5.6,5.9, 5.10)]
-- Suicidal behavior and ideation [see WARNINGS AND PRECAUTIONS (5.7)]
-- Bleeding and other hematopoietic disorders [see WARNINGS AND PRECAUTIONS (5.8)]
-- Hypothermia [see WARNINGS AND PRECAUTIONS (5.11)]
-- Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS)/Multiorgan hypersensitivity reactions [see WARNINGS AND PRECAUTIONS (5.12)]
-- Somnolence in the elderly [see WARNINGS AND PRECAUTIONS (5.14)]
+- Hepatic failure [see Warnings and Precautions (5.1)]
+- Birth defects [see Warnings and Precautions (5.2)]
+- Decreased IQ following in utero exposure [see Warnings and Precautions (5.3)]
+- Pancreatitis [see Warnings and Precautions (5.5)]
+- Hyperammonemic encephalopathy [see Warnings and Precautions (5.6, 5.9,5.10)]
+- Suicidal behavior and ideation [see Warnings and Precautions (5.7)]
+- Bleeding and other hematopoietic disorders [see Warnings and Precautions (5.8)]
+- Hypothermia [see Warnings and Precautions (5.11)]
+- Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS)/Multiorgan hypersensitivity reactions [see Warnings and Precautions (5.12)]
+- Somnolence in the elderly [see Warnings and Precautions (5.14)]
 
 Because clinical studies are conducted under widely varying conditions, adverse reaction rates observed in the clinical studies of a drug cannot be directly compared to rates in the clinical studies of another drug and may not reflect the rates observed in practice.
 
@@ -28,17 +28,17 @@ Vomiting was the only reaction that was reported by significantly (p ≤ 0.05) m
 Table 2.
 Adverse Reactions Reported by > 5% of Divalproex Sodium Delayed-Release Tablets –Treated Patients During Placebo-Controlled Trials of Acute Mania1
 
-| Adverse Reaction | Divalproex sodium delayed-release tablets (n = 89) | Placebo (n = 97) |
+| Adverse Reaction | Divalproex Sodium Delayed-Release Tablets (n = 89) % | Placebo (n = 97) % |
 | --- | --- | --- |
-| Nausea | 22% | 15% |
-| Somnolence | 19% | 12% |
-| Dizziness | 12% | 4% |
-| Vomiting | 12% | 3% |
-| Accidental Injury | 11% | 5% |
-| Asthenia | 10% | 7% |
-| Abdominal Pain | 9% | 8% |
-| Dyspepsia | 9% | 8% |
-| Rash | 6% | 3% |
+| Nausea | 22 | 15 |
+| Somnolence | 19 | 12 |
+| Dizziness | 12 | 4 |
+| Vomiting | 12 | 3 |
+| Accidental Injury | 11 | 5 |
+| Asthenia | 10 | 7 |
+| Abdominal Pain | 9 | 8 |
+| Dyspepsia | 9 | 8 |
+| Rash | 6 | 3 |
 | 1The following adverse reactions occurred at an equal or greater incidence for placebo than for divalproex sodium delayed-release tablets: back pain, headache, constipation, diarrhea, tremor, and pharyngitis. |  |  |
 
 The following additional adverse reactions were reported by greater than 1% but not more than 5% of the 89 divalproex sodium delayed-release tablets -treated patients in controlled clinical trials:
@@ -98,7 +98,7 @@ Since patients were also treated with other antiepilepsy drugs, it is not possib
 Table 3.
 Adverse Reactions Reported by ≥ 5% of Patients Treated with Divalproex Sodium Delayed-Release Tablets During Placebo-Controlled Trial of Adjunctive Therapy for Complex Partial Seizures
 
-| Body System/Reaction | Divalproex sodium delayed-release tablets (%) (n = 77) | Placebo (%) (n = 70) |
+| Body System/Reaction | Divalproex Sodium Delayed-Release Tablets (n = 77) % | Placebo (n = 70) % |
 | --- | --- | --- |
 | Body as a Whole |  |  |
 | Headache | 31 | 21 |
@@ -138,7 +138,7 @@ Since patients were being titrated off another antiepilepsy drug during the firs
 Table 4.
 Adverse Reactions Reported by ≥ 5% of Patients in the High Dose Group in the Controlled Trial of Valproate Monotherapy for Complex Partial Seizures1
 
-| Body System/Reaction | High Dose (%) (n = 131) | Low Dose (%) (n = 134) |
+| Body System/Reaction | High Dose (n = 131) % | Low Dose (n = 134) % |
 | --- | --- | --- |
 | Body as a Whole |  |  |
 | Asthenia | 21 | 10 |
@@ -233,24 +233,24 @@ Table 5 includes those adverse reactions reported for patients in the placebo-co
 Table 5.
 Adverse Reactions Reported by > 5% of Divalproex Sodium Delayed-Release Tablets -Treated Patients During Migraine Placebo-Controlled Trials with a Greater Incidence Than Patients Taking Placebo1
 
-| Body System Reaction | Divalproex sodium delayed-release tablets (N = 202) | Placebo (N = 81) |
+| Body System Reaction | Divalproex Sodium Delayed-Release Tablets (N = 202) % | Placebo (N = 81) % |
 | --- | --- | --- |
 | Gastrointestinal System |  |  |
-| Nausea | 31% | 10% |
-| Dyspepsia | 13% | 9% |
-| Diarrhea | 12% | 7% |
-| Vomiting | 11% | 1% |
-| Abdominal Pain | 9% | 4% |
-| Increased Appetite | 6% | 4% |
+| Nausea | 31 | 10 |
+| Dyspepsia | 13 | 9 |
+| Diarrhea | 12 | 7 |
+| Vomiting | 11 | 1 |
+| Abdominal Pain | 9 | 4 |
+| Increased Appetite | 6 | 4 |
 | Nervous System |  |  |
-| Asthenia | 20% | 9% |
-| Somnolence | 17% | 5% |
-| Dizziness | 12% | 6% |
-| Tremor | 9% | 0% |
+| Asthenia | 20 | 9 |
+| Somnolence | 17 | 5 |
+| Dizziness | 12 | 6 |
+| Tremor | 9 | 0 |
 | Other |  |  |
-| Weight Gain | 8% | 2% |
-| Back Pain | 8% | 6% |
-| Alopecia | 7% | 1% |
+| Weight Gain | 8 | 2 |
+| Back Pain | 8 | 6 |
+| Alopecia | 7 | 1 |
 | 1The following adverse reactions occurred in at least 5% of divalproex sodium delayed-release tablets -treated patients and at an equal or greater incidence for placebo than for divalproex sodium delayed-release tablets: flu syndrome and pharyngitis. |  |  |
 
 The following additional adverse reactions were reported by greater than 1% but not more than 5 % of the 202 divalproex sodium delayed-release tablets-treated patients in the controlled clinical trials:
@@ -299,7 +299,7 @@ Urogenital System
 
 Cystitis, metrorrhagia, and vaginal hemorrhage.
 
-## 6.4 Post-Marketing Experience
+## 6.4 Postmarketing Experience
 
 The following adverse reactions have been identified during post approval use of divalproex sodium.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.

@@ -21,7 +21,7 @@ The therapeutic range in epilepsy is commonly considered to be 50 to 100 mcg/mL 
 
 Mania
 
-In placebo-controlled clinical trials of acute mania, patients were dosed to clinical response with trough plasma concentrations between 50 and 125 mcg/mL [see DOSAGE AND ADMINISTRATION (2.1)].
+In placebo-controlled clinical trials of acute mania, patients were dosed to clinical response with trough plasma concentrations between 50 and 125 mcg/mL [see Dosage and Administration (2.1)].
 
 ## 12.3 Pharmacokinetics
 
@@ -37,7 +37,7 @@ While the absorption rate from the G.I. tract and fluctuation in valproate plasm
 Experience employing dosing regimens from once-a-day to four-times-a-day, as well as studies in primate epilepsy models involving constant rate infusion, indicate that total daily systemic bioavailability (extent of absorption) is the primary determinant of seizure control and that differences in the ratios of plasma peak to trough concentrations between valproate formulations are inconsequential from a practical clinical standpoint.
 Whether or not rate of absorption influences the efficacy of valproate as an antimanic or antimigraine agent is unknown.
 
-Co-administration of oral valproate products with food and substitution among the various divalproex sodium and Depakene® formulations should cause no clinical problems in the management of patients with epilepsy [see DOSAGE AND ADMINISTRATION (2.2)].
+Co-administration of oral valproate products with food and substitution among the various divalproex sodium and Depakene® formulations should cause no clinical problems in the management of patients with epilepsy [see Dosage and Administration (2.2)].
 Nonetheless, any changes in dosage administration, or the addition or discontinuance of concomitant drugs should ordinarily be accompanied by close monitoring of clinical status and valproate plasma concentrations.
 
 Distribution
@@ -46,7 +46,7 @@ Protein Binding:
 
 The plasma protein binding of valproate is concentration dependent and the free fraction increases from approximately 10% at 40 mcg/mL to 18.5% at 130 mcg/mL.
 Protein binding of valproate is reduced in the elderly, in patients with chronic hepatic diseases, in patients with renal impairment, and in the presence of other drugs (e.g., aspirin).
-Conversely, valproate may displace certain protein-bound drugs (e.g., phenytoin, carbamazepine, warfarin, and tolbutamide) [see DRUG INTERACTIONS (7.2) for more detailed information on the pharmacokinetic interactions of valproate with other drugs].
+Conversely, valproate may displace certain protein-bound drugs (e.g., phenytoin, carbamazepine, warfarin, and tolbutamide) [see Drug Interactions (7.2) for more detailed information on the pharmacokinetic interactions of valproate with other drugs].
 
 CNS Distribution:
 
@@ -92,7 +92,7 @@ Elderly
 
 The capacity of elderly patients (age range: 68 to 89 years) to eliminate valproate has been shown to be reduced compared to younger adults (age range: 22 to 26 years).
 Intrinsic clearance is reduced by 39%; the free fraction is increased by 44%.
-Accordingly, the initial dosage should be reduced in the elderly [see DOSAGE AND ADMINISTRATION (2.4)].
+Accordingly, the initial dosage should be reduced in the elderly [see Dosage and Administration (2.4)].
 
 Effect of Sex:
 
@@ -110,7 +110,7 @@ Liver disease impairs the capacity to eliminate valproate.
 In one study, the clearance of free valproate was decreased by 50% in 7 patients with cirrhosis and by 16% in 4 patients with acute hepatitis, compared with 6 healthy subjects.
 In that study, the half-life of valproate was increased from 12 to 18 hours.
 Liver disease is also associated with decreased albumin concentrations and larger unbound fractions (2 to 2.6 fold increase) of valproate.
-Accordingly, monitoring of total concentrations may be misleading since free concentrations may be substantially elevated in patients with hepatic disease whereas total concentrations may appear to be normal [see BOXED WARNING, CONTRAINDICATIONS (4), and WARNINGS AND PRECAUTIONS (5.1)].
+Accordingly, monitoring of total concentrations may be misleading since free concentrations may be substantially elevated in patients with hepatic disease whereas total concentrations may appear to be normal [see Boxed Warning, Contraindications (4), and Warnings and Precautions (5.1)].
 
 Renal Disease
 

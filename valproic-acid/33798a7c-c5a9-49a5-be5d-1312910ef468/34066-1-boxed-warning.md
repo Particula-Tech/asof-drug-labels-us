@@ -7,7 +7,7 @@ These incidents usually have occurred during the first six months of treatment.
 Serious or fatal hepatotoxicity may be preceded by non-specific symptoms such as malaise, weakness, lethargy, facial edema, anorexia, and vomiting.
 In patients with epilepsy, a loss of seizure control may also occur.
 Patients should be monitored closely for appearance of these symptoms.
-Serum liver tests should be performed prior to therapy and at frequent intervals thereafter, especially during the first six months [see WARNINGS AND PRECAUTIONS (5.1)].
+Serum liver tests should be performed prior to therapy and at frequent intervals thereafter, especially during the first six months [see Warnings and Precautions (5.1)].
 
 Children under the age of two years are at a considerably increased risk of developing fatal hepatotoxicity, especially those on multiple anticonvulsants, those with congenital metabolic disorders, those with severe seizure disorders accompanied by mental retardation, and those with organic brain disease.
 When divalproex sodium delayed-release tablets are used in this patient group, it should be used with extreme caution and as a sole agent.
@@ -16,23 +16,23 @@ The incidence of fatal hepatotoxicity decreases considerably in progressively ol
 
 Patients with Mitochondrial Disease: There is an increased risk of valproate-induced acute liver failure and resultant deaths in patients with hereditary neurometabolic syndromes caused by DNA mutations of the mitochondrial DNA Polymerase γ (POLG) gene (e.g.
 Alpers Huttenlocher Syndrome).
-Divalproex sodium is contraindicated in patients known to have mitochondrial disorders caused by POLG mutations and children under two years of age who are clinically suspected of having a mitochondrial disorder [see CONTRAINDICATIONS (4)].
+Divalproex sodium is contraindicated in patients known to have mitochondrial disorders caused by POLG mutations and children under two years of age who are clinically suspected of having a mitochondrial disorder [see Contraindications (4)].
 In patients over two years of age who are clinically suspected of having a hereditary mitochondrial disease, divalproex sodium should only be used after other anticonvulsants have failed.
 This older group of patients should be closely monitored during treatment with divalproex sodium for the development of acute liver injury with regular clinical assessments and serum liver testing.
-POLG mutation screening should be performed in accordance with current clinical practice [see WARNINGS AND PRECAUTIONS (5.1)].
+POLG mutation screening should be performed in accordance with current clinical practice [see Warnings and Precautions (5.1)].
 
 Fetal Risk
 
 Valproate can cause major congenital malformations, particularly neural tube defects (e.g., spina bifida).
 In addition, valproate can cause decreased IQ scores and neurodevelopmental disorders following in utero exposure.
 
-Valproate is therefore contraindicated for prophylaxis of migraine headaches in pregnant women and in women of childbearing potential who are not using effective contraception [see CONTRAINDICATIONS (4)].
+Valproate is therefore contraindicated for prophylaxis of migraine headaches in pregnant women and in women of childbearing potential who are not using effective contraception [see Contraindications (4)].
 Valproate should not be used to treat women with epilepsy or bipolar disorder who are pregnant or who plan to become pregnant unless other medications have failed to provide adequate symptom control or are otherwise unacceptable.
 
 Valproate should not be administered to a woman of childbearing potential unless other medications have failed to provide adequate symptom control or are otherwise unacceptable.
-In such situations, effective contraception should be used [see WARNINGS AND PRECAUTIONS (5.2, 5.3, 5.4)].
+In such situations, effective contraception should be used [see Warnings and Precautions (5.2, 5.3, 5.4)].
 
-A Medication Guide describing the risks of valproate is available for patients [see PATIENT COUNSELING INFORMATION (17)].
+A Medication Guide describing the risks of valproate is available for patients [see Patient Counseling Information (17)].
 
 Pancreatitis
 
@@ -41,4 +41,4 @@ Some of the cases have been described as hemorrhagic with a rapid progression fr
 Cases have been reported shortly after initial use as well as after several years of use.
 Patients and guardians should be warned that abdominal pain, nausea, vomiting, and/or anorexia can be symptoms of pancreatitis that require prompt medical evaluation.
 If pancreatitis is diagnosed, valproate should ordinarily be discontinued.
-Alternative treatment for the underlying medical condition should be initiated as clinically indicated [see WARNINGS AND PRECAUTIONS (5.5)].
+Alternative treatment for the underlying medical condition should be initiated as clinically indicated [see Warnings and Precautions (5.5)].

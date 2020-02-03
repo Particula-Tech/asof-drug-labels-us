@@ -37,22 +37,31 @@ In some cases, liver damage may continue despite stopping the drug.
 2.
 Divalproex sodium delayed-release tablets may harm your unborn baby.
 
-- If you take divalproex sodium delayed-release tablets during pregnancy for any medical condition, your baby is at risk for serious birth defects that affect the brain and spinal cord and are called spina bifida or neural tube defects.
-  These defects occur in 1 to 2 out of every 100 babies born to mothers who use this medicine during pregnancy.
-  These defects can begin in the first month, even before you know you are pregnant.
-  Other birth defects that affect the structures of the heart, head, arms, legs, and the opening where the urine comes out (urethra) on the bottom of the penis can also happen.
-- Birth defects may occur even in children born to women who are not taking any medicines and do not have other risk factors.
-- Taking folic acid supplements before getting pregnant and during early pregnancy can lower the chance of having a baby with a neural tube defect.
-- If you take divalproex sodium delayed-release tablets during pregnancy for any medical condition, your child is at risk for having lower IQ.
-- There may be other medicines to treat your condition that have a lower chance of causing birth defects, decreased IQ, or other disorders in your child.
+If you take divalproex sodium delayed-release tablets during pregnancy for any medical condition, your baby is at risk for serious birth defects that affect the brain and spinal cord and are called spina bifida or neural tube defects.
+These defects occur in 1 to 2 out of every 100 babies born to mothers who use this medicine during pregnancy.
+These defects can begin in the first month, even before you know you are pregnant.
+Other birth defects that affect the structures of the heart, head, arms, legs, and the opening where the urine comes out (urethra) on the bottom of the penis can also happen.
+Decreased hearing or hearing loss can also happen.
+
+Birth defects may occur even in children born to women who are not taking any medicines and do not have other risk factors.
+
+Taking folic acid supplements before getting pregnant and during early pregnancy can lower the chance of having a baby with a neural tube defect.
+
+If you take divalproex sodium delayed-release tablets during pregnancy for any medical condition, your child is at risk for having lower IQ.
+
+There may be other medicines to treat your condition that have a lower chance of causing birth defects, decreased IQ, or other disorders in your child.
+
 - Women who are pregnant must not take divalproex sodium delayed-release tablets to prevent migraine headaches.
-- All women of childbearing age (including girls from the start of puberty) should talk to their healthcare provider about using other possible treatments instead of divalproex sodium delayed-release tablets.
-  If the decision is made to use divalproex sodium delayed-release tablets, you should use effective birth control (contraception).
-- Tell your healthcare provider right away if you become pregnant while taking divalproex sodium delayed-release tablets.
-  You and your healthcare provider should decide if you will continue to take divalproex sodium delayed-release tablets while you are pregnant.
-- Pregnancy Registry: If you become pregnant while taking divalproex sodium delayed-release tablets, talk to your healthcare provider about registering with the North American Antiepileptic Drug Pregnancy Registry.
-  You can enroll in this registry by calling toll-free 1-888-233-2334 or by visiting the website, http://www.aedpregnancyregistry.org/.
-  The purpose of this registry is to collect information about the safety of antiepileptic drugs during pregnancy.
+
+All women of childbearing age (including girls from the start of puberty) should talk to their healthcare provider about using other possible treatments instead of divalproex sodium delayed-release tablets.
+If the decision is made to use divalproex sodium delayed-release tablets, you should use effective birth control (contraception).
+
+Tell your healthcare provider right away if you become pregnant while taking divalproex sodium delayed-release tablets.
+You and your healthcare provider should decide if you will continue to take divalproex sodium delayed-release tablets while you are pregnant.
+
+Pregnancy Registry: If you become pregnant while taking divalproex sodium delayed-release tablets, talk to your healthcare provider about registering with the North American Antiepileptic Drug Pregnancy Registry.
+You can enroll in this registry by calling toll-free 1-888-233-2334 or by visiting the website, http://www.aedpregnancyregistry.org/.
+The purpose of this registry is to collect information about the safety of antiepileptic drugs during pregnancy.
 
 3.
 Inflammation of your pancreas that can cause death.
@@ -257,4 +266,4 @@ Goa 403 722
 
 INDIA.
 
-Revised: March 21, 2019 ID#: 260081
+Revised: February 2020 ID#: 264503

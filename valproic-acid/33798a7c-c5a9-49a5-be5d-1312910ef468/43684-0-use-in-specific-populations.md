@@ -2,7 +2,7 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Registry
+Pregnancy Exposure Registry
 
 There is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to antiepileptic drugs (AEDs), including divalproex sodium delayed-release tablets, during pregnancy.
 Encourage women who are taking divalproex sodium delayed-release tablets during pregnancy to enroll in the North American Antiepileptic Drug (NAAED) Pregnancy Registry by calling toll-free 1-888-233-2334 or visiting the website, http://www.aedpregnancyregistry.org/.
@@ -10,18 +10,19 @@ This must be done by the patient herself.
 
 Risk Summary
 
-For use in prophylaxis of migraine headaches, valproate is contraindicated in women who are pregnant and in women of childbearing potential who are not using effective contraception [see CONTRAINDICATIONS (4)].
+For use in prophylaxis of migraine headaches, valproate is contraindicated in women who are pregnant and in women of childbearing potential who are not using effective contraception [see Contraindications (4)].
 
-For use in epilepsy or bipolar disorder, valproate should not be used to treat women who are pregnant or who plan to become pregnant unless other medications have failed to provide adequate symptom control or are otherwise unacceptable [see BOXED WARNING and WARNINGS AND PRECAUTIONS (5.2, 5.3)].
+For use in epilepsy or bipolar disorder, valproate should not be used to treat women who are pregnant or who plan to become pregnant unless other medications have failed to provide adequate symptom control or are otherwise unacceptable [see Boxed Warning Warnings and Precautions (5.2, 5.3)].
 Women with epilepsy who become pregnant while taking valproate should not discontinue valproate abruptly, as this can precipitate status epilepticus with resulting maternal and fetal hypoxia and threat to life.
 
 Maternal valproate use during pregnancy for any indication increases the risk of congenital malformations, particularly neural tube defects including spina bifida, but also malformations involving other body systems (e.g., craniofacial defects including oral clefts, cardiovascular malformations, hypospadias, limb malformations).
 This risk is dose-dependent; however, a threshold dose below which no risk exists cannot be established.
+In utero exposure to valproate may also result in hearing impairment or hearing loss.
 Valproate polytherapy with other AEDs has been associated with an increased frequency of congenital malformations compared with AED monotherapy.
 The risk of major structural abnormalities is greatest during the first trimester; however, other serious developmental effects can occur with valproate use throughout pregnancy.
-The rate of congenital malformations among babies born to epileptic mothers who used valproate during pregnancy has been shown to be about four times higher than the rate among babies born to epileptic mothers who used other anti-seizure monotherapies [see WARNINGS AND PRECAUTIONS (5.2) and Data (Human)].
+The rate of congenital malformations among babies born to epileptic mothers who used valproate during pregnancy has been shown to be about four times higher than the rate among babies born to epileptic mothers who used other anti-seizure monotherapies [see Warnings and Precautions (5.2) and Data (Human)].
 
-Epidemiological studies have indicated that children exposed to valproate in utero have lower IQ scores and a higher risk of neurodevelopmental disorders compared to children exposed to either another AED in utero or to no AEDs in utero [see WARNINGS AND PRECAUTIONS (5.3) and Data (Human)].
+Epidemiological studies have indicated that children exposed to valproate in utero have lower IQ scores and a higher risk of neurodevelopmental disorders compared to children exposed to either another AED in utero or to no AEDs in utero [see Warnings and Precautions (5.3) and Data (Human)].
 
 An observational study has suggested that exposure to valproate products during pregnancy increases the risk of autism spectrum disorders [see Data (Human)].
 
@@ -29,13 +30,13 @@ In animal studies, valproate administration during pregnancy resulted in fetal s
 
 There have been reports of hypoglycemia in neonates and fatal cases of hepatic failure in infants following maternal use of valproate during pregnancy.
 
-Pregnant women taking valproate may develop hepatic failure or clotting abnormalities including thrombocytopenia, hypofibrinogenemia, and/or decrease in other coagulation factors, which may result in hemorrhagic complications in the neonate including death [see WARNINGS AND PRECAUTIONS (5.1, 5.8)].
+Pregnant women taking valproate may develop hepatic failure or clotting abnormalities including thrombocytopenia, hypofibrinogenemia, and/or decrease in other coagulation factors, which may result in hemorrhagic complications in the neonate including death [see Warnings and Precautions (5.1, 5.8)].
 
 Available prenatal diagnostic testing to detect neural tube and other defects should be offered to pregnant women using valproate.
 
 Evidence suggests that folic acid supplementation prior to conception and during the first trimester of pregnancy decreases the risk for congenital neural tube defects in the general population.
 It is not known whether the risk of neural tube defects or decreased IQ in the offspring of women receiving valproate is reduced by folic acid supplementation.
-Dietary folic acid supplementation both prior to conception and during pregnancy should be routinely recommended for patients using valproate [see WARNINGS AND PRECAUTIONS (5.2, 5.4)].
+Dietary folic acid supplementation both prior to conception and during pregnancy should be routinely recommended for patients using valproate [see Warnings and Precautions (5.2, 5.4)].
 
 All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
 In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively.
@@ -45,16 +46,16 @@ Clinical Considerations
 Disease-associated maternal and/or embryo/fetal risk:
 
 To prevent major seizures, women with epilepsy should not discontinue valproate abruptly, as this can precipitate status epilepticus with resulting maternal and fetal hypoxia and threat to life.
-Even minor seizures may pose some hazard to the developing embryo or fetus [see WARNINGS AND PRECAUTIONS (5.4)].
+Even minor seizures may pose some hazard to the developing embryo or fetus [see Warnings and Precautions (5.4)].
 However, discontinuation of the drug may be considered prior to and during pregnancy in individual cases if the seizure disorder severity and frequency do not pose a serious threat to the patient.
 
 Maternal adverse reactions:
 
-Pregnant women taking valproate may develop clotting abnormalities including thrombocytopenia, hypofibrinogenemia, and/or decrease in other coagulation factors, which may result in hemorrhagic complications in the neonate including death [see WARNINGS AND PRECAUTIONS (5.8)].
+Pregnant women taking valproate may develop clotting abnormalities including thrombocytopenia, hypofibrinogenemia, and/or decrease in other coagulation factors, which may result in hemorrhagic complications in the neonate including death [see Warnings and Precautions (5.8)].
 If valproate is used in pregnancy, the clotting parameters should be monitored carefully in the mother.
 If abnormal in the mother, then these parameters should also be monitored in the neonate.
 
-Patients taking valproate may develop hepatic failure [see BOXED WARNING and WARNINGS AND PRECAUTIONS (5.1)].
+Patients taking valproate may develop hepatic failure [see Boxed Warning and Warnings and Precautions (5.1)].
 Fatal cases of hepatic failure in infants exposed to valproate in utero have also been reported following maternal use of valproate during pregnancy.
 
 Hypoglycemia has been reported in neonates whose mothers have taken valproate during pregnancy.
@@ -70,7 +71,7 @@ Based on published data from the CDC's National Birth Defects Prevention Network
 
 The NAAED Pregnancy Registry has reported a major malformation rate of 9 to 11% in the offspring of women exposed to an average of 1,000 mg/day of valproate monotherapy during pregnancy.
 These data show an up to a five-fold increased risk for any major malformation following valproate exposure in utero compared to the risk following exposure in utero to other AEDs taken as monotherapy.
-The major congenital malformations included cases of neural tube defects, cardiovascular malformations, craniofacial defects (e.g., oral clefts, craniosynostosis), hypospadias, limb malformations (e.g., clubfoot, polydactyly), and other malformations of varying severity involving other body systems [see WARNINGS AND PRECAUTIONS (5.2)].
+The major congenital malformations included cases of neural tube defects, cardiovascular malformations, craniofacial defects (e.g., oral clefts, craniosynostosis), hypospadias, limb malformations (e.g., clubfoot, polydactyly), and other malformations of varying severity involving other body systems [see Warnings and Precautions (5.2)].
 
 Effect on IQ and neurodevelopmental effects
 
@@ -81,7 +82,7 @@ The largest of these studies1 is a prospective cohort study conducted in the Uni
 102 to 108]) and phenytoin (108 [95% C.I.
 104 to 112]).
 It is not known when during pregnancy cognitive effects in valproate-exposed children occur.
-Because the women in this study were exposed to AEDs throughout pregnancy, whether the risk for decreased IQ was related to a particular time period during pregnancy could not be assessed [see WARNINGS AND PRECAUTIONS (5.3)].
+Because the women in this study were exposed to AEDs throughout pregnancy, whether the risk for decreased IQ was related to a particular time period during pregnancy could not be assessed [see Warnings and Precautions (5.3)].
 
 Although the available studies have methodological limitations, the weight of the evidence supports a causal association between valproate exposure in utero and subsequent adverse effects on neurodevelopment, including increases in autism spectrum disorders.
 An observational study has suggested that exposure to valproate products during pregnancy increases the risk of autism spectrum disorders.
@@ -113,10 +114,10 @@ There are no data to assess the effects of divalproex sodium on milk production 
 
 Clinical Considerations
 
-The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for divalproex sodium delayed-release tablets and any potential adverse effects on the breastfed child from divalproex sodium delayed-release tablets or from the underlying maternal condition.
+The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for divalproex sodium delayed-release tablets and any potential adverse effects on the breastfed infant from divalproex sodium delayed-release tablets or from the underlying maternal condition.
 
 Monitor the breastfed infant for signs of liver damage including jaundice and unusual bruising or bleeding.
-There have been reports of hepatic failure and clotting abnormalities in offspring of women who used valproate during pregnancy [see USE IN SPECIFIC POPULATIONS (8.1)].
+There have been reports of hepatic failure and clotting abnormalities in offspring of women who used valproate during pregnancy [see Use in Specific Populations (8.1)].
 
 Data
 
@@ -143,18 +144,18 @@ For other cognitive domains evaluated at 6 years, no adverse cognitive effects o
 
 Contraception
 
-Women of childbearing potential should use effective contraception while taking valproate [see BOXED WARNING, WARNINGS AND PRECAUTIONS (5.4), DRUG INTERACTIONS (7), and USE IN SPECIFIC POPULATIONS (8.1)].
-This is especially important when valproate use is considered for a condition not usually associated with permanent injury or death such as prophylaxis of migraine headaches [see CONTRAINDICATIONS (4)].
+Women of childbearing potential should use effective contraception while taking valproate [see Boxed Warning, Warnings and Precautions (5.4), Drug Interactions (7), and Use in Specific Populations (8.1)].
+This is especially important when valproate use is considered for a condition not usually associated with permanent injury or death such as prophylaxis of migraine headaches [see Contraindications (4)].
 
 Infertility
 
-There have been reports of male infertility coincident with valproate therapy [see ADVERSE REACTIONS (6.4)].
+There have been reports of male infertility coincident with valproate therapy [see Adverse Reactions (6.4)].
 
-In animal studies, oral administration of valproate at clinically relevant doses resulted in adverse reproductive effects in males [see NONCLINICAL TOXICOLOGY (13.1)].
+In animal studies, oral administration of valproate at clinically relevant doses resulted in adverse reproductive effects in males [see Nonclinical Toxicology (13.1)].
 
 ## 8.4 Pediatric Use
 
-Experience has indicated that pediatric patients under the age of two years are at a considerably increased risk of developing fatal hepatotoxicity, especially those with the aforementioned conditions [see BOXED WARNING and WARNING AND PRECAUTIONS (5.1)].
+Experience has indicated that pediatric patients under the age of two years are at a considerably increased risk of developing fatal hepatotoxicity, especially those with the aforementioned conditions [see Boxed Warning and Warning and Precautions (5.1)].
 When divalproex sodium delayed-release tablets are used in this patient group, it should be used with extreme caution and as a sole agent.
 The benefits of therapy should be weighed against the risks.
 Above the age of 2 years, experience in epilepsy has indicated that the incidence of fatal hepatotoxicity decreases considerably in progressively older patient groups.
@@ -179,7 +180,7 @@ Two six-month pediatric studies were conducted to evaluate the long-term safety 
 Two twelve-month pediatric studies were conducted to evaluate the long-term safety of divalproex sodium extended-release tablets for the indication of migraine (353 patients aged 12 to 17 years).
 One twelve-month study was conducted to evaluate the safety of divalproex sodium sprinkle capsules in the indication of partial seizures (169 patients aged 3 to 10 years).
 
-In these seven clinical trials, the safety and tolerability of divalproex sodium in pediatric patients were shown to be comparable to those in adults [see ADVERSE REACTIONS (6)].
+In these seven clinical trials, the safety and tolerability of divalproex sodium in pediatric patients were shown to be comparable to those in adults [see Adverse Reactions (6)].
 
 Juvenile Animal Toxicology
 
@@ -194,7 +195,7 @@ A higher percentage of patients above 65 years of age reported accidental injury
 Discontinuation of valproate was occasionally associated with the latter two events.
 It is not clear whether these events indicate additional risk or whether they result from preexisting medical illness and concomitant medication use among these patients.
 
-A study of elderly patients with dementia revealed drug related somnolence and discontinuation for somnolence [see WARNINGS AND PRECAUTIONS (5.14)].
-The starting dose should be reduced in these patients, and dosage reductions or discontinuation should be considered in patients with excessive somnolence [see DOSAGE AND ADMINISTRATION (2.4)].
+A study of elderly patients with dementia revealed drug related somnolence and discontinuation for somnolence [see Warnings and Precautions (5.14)].
+The starting dose should be reduced in these patients, and dosage reductions or discontinuation should be considered in patients with excessive somnolence [see Dosage and Administration (2.4)].
 
 There is insufficient information available to discern the safety and effectiveness of valproate for the prophylaxis of migraines in patients over 65.
