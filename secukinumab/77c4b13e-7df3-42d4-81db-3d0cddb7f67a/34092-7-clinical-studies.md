@@ -183,10 +183,10 @@ At Week 16 in PsA1 study, estimated mean change from baseline was -0.23 in the p
 
 ## 14.3 Ankylosing Spondylitis
 
-The safety and efficacy of COSENTYX were assessed in 590 patients in two randomized, double-blind, placebo-controlled studies (AS1 and AS2) in adult patients 18 years of age and older with active ankylosing spondylitis.
+The safety and efficacy of COSENTYX were assessed in 816 patients in three randomized, double-blind, placebo-controlled studies (AS1, AS2 and AS3) in adult patients 18 years of age and older with active ankylosing spondylitis.
 Patients had active disease as defined by the Bath Ankylosing Spondylitis Disease Activity Index (BASDAI) greater or equal to 4 despite non-steroidal anti-inflammatory drug (NSAID), corticosteroid or disease modifying anti-rheumatic drug (DMARD) therapy.
-At baseline, approximately 14% and 26% used concomitant methotrexate or sulfasalazine, respectively.
-Overall, 33% of patients discontinued previous treatment with anti-TNFα agents due to either lack of efficacy or intolerance.
+At baseline, approximately 13% and 25% used concomitant methotrexate or sulfasalazine, respectively.
+Overall, 29% of patients discontinued previous treatment with anti-TNFα agents due to either lack of efficacy or intolerance.
 
 AS1 Study evaluated 219 patients, who were treated with COSENTYX 75 mg or 150 mg subcutaneous treatment at Weeks 0, 1, 2, 3 and 4, followed by the same dose every 4 weeks.
 At Week 16, patients receiving placebo were re-randomized to either COSENTYX 75 mg or 150 mg every 4 weeks.
@@ -194,6 +194,11 @@ The primary endpoint was the percentage of patients achieving an ASAS20 response
 
 AS2 Study evaluated 371 patients, who were treated with secukinumab 10 mg/kg intravenous treatment at Weeks 0, 2, and 4 (for both treatment arms) or placebo, followed by either 75 mg or 150 mg subcutaneous COSENTYX treatment every 4 weeks or placebo.
 Patients receiving placebo were re-randomized to receive COSENTYX (either 75 mg or 150 mg every 4 weeks) at Week 16 or Week 24 based on responder status.
+
+AS3 Study evaluated 226 patients, who were treated with secukinumab 10 mg/kg intravenous treatment at Weeks 0, 2, and 4 (for both treatment arms) or placebo, followed by either 150 mg or 300 mg subcutaneous COSENTYX treatment every 4 weeks or placebo.
+Patients receiving placebo were re-randomized to receive COSENTYX (either 150 mg or 300 mg every 4 weeks) at Week 16.
+The primary endpoint was the percentage of patients achieving an ASAS20 response at Week 16.
+Patients were blinded to the treatment regimen up to Week 52, and the study continued to Week 156.
 
 Clinical Response
 
@@ -228,5 +233,11 @@ The percent of patients achieving ASAS20 responses by visit is shown in Figure 2
 Patients on placebo who received COSENTYX without a loading regimen achieved similar ASAS20 responses over time (data not shown).
 
 Figure 2: ASAS20 Responses in all AS1 Study Patients Over Time Up to Week 16
+
+In AS3 Study, patients treated with COSENTYX (150 mg and 300 mg) demonstrated improved signs and symptoms, and had comparable efficacy responses, regardless of dose, that were superior to placebo at Week 16 for the primary and most secondary endpoints.
+At Week 16, the ASAS20 and ASAS40 responses were 58.1% and 40.5% for 150 mg and 60.5% and 42.1% for 300 mg, respectively.
+The percent of patients achieving ASAS20 responses by visit is shown in Figure 3.
+
+Figure 3: ASAS20 Responses in all AS3 Study Patients Over Time Up to Week 16
 
 COSENTYX treated patients showed improvement compared to placebo-treated patients in health-related quality of life as assessed by ASQoL at Week 16.

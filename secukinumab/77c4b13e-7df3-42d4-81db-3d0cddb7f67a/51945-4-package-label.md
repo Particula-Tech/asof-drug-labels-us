@@ -1,18 +1,18 @@
 PRINCIPAL DISPLAY PANEL
 
-COSENTYX®
+NDC 0078-0639-97
+
+Cosentyx®
 
 (secukinumab)
 
 Injection
 
+Single-use Prefilled Syringe
+
 150 mg/mL
 
 1 Prefilled Syringe
-
-NDC 0078-0639-97
-
-Single-use Prefilled Syringe
 
 ATTENTION: Dispense with enclosed Medication Guide.
 

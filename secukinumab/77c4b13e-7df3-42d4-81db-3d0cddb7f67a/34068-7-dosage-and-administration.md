@@ -16,7 +16,7 @@ The recommended dosage:
 
 - With a loading dosage is 150 mg at weeks 0, 1, 2, 3, and 4 and every 4 weeks thereafter
 - Without a loading dosage is 150 mg every 4 weeks
-- If a patient continues to have active psoriatic arthritis, consider a dosage of 300 mg.
+- If a patient continues to have active psoriatic arthritis, consider a dosage of 300 mg every 4 weeks.
 
 COSENTYX may be administered with or without methotrexate.
 
@@ -26,7 +26,8 @@ Administer COSENTYX with or without a loading dosage by subcutaneous injection.
 The recommended dosage:
 
 - With a loading dosage is 150 mg at weeks 0, 1, 2, 3, and 4 and every 4 weeks thereafter
-- Without a loading dosage is 150 mg every 4 weeks.
+- Without a loading dosage is 150 mg every 4 weeks
+- If a patient continues to have active ankylosing spondylitis, consider a dosage of 300 mg every 4 weeks.
 
 ## 2.4 Assessment Prior to Initiation of COSENTYX
 

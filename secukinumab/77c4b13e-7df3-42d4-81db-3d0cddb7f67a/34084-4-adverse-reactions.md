@@ -79,14 +79,15 @@ There were three cases of inflammatory bowel disease, of which two patients rece
 Ankylosing Spondylitis
 
 COSENTYX was studied in two placebo controlled ankylosing spondylitis trials with 590 patients (394 patients on COSENTYX and 196 patients on placebo).
-Of the 394 patients who received COSENTYX, 145 patients received a subcutaneous load of COSENTYX (study AS1) and 249 received an intravenous loading dose of secukinumab (study AS2) followed by COSENTYX administered by subcutaneous injection every four weeks.
+Of the 394 patients who received COSENTYX, 145 patients received a subcutaneous load of COSENTYX (study AS1), and 249 received an intravenous loading dose of secukinumab (study AS2) followed by COSENTYX administered by subcutaneous injection every four weeks.
 During the 16-week placebo-controlled period of the trials in patients with ankylosing spondylitis, the overall proportion of patients with adverse events was higher in the secukinumab groups than the placebo-treatment groups (66% and 59%, respectively).
 The adverse events that occurred at a proportion of at least 2% and at a higher proportion in the COSENTYX groups than the placebo groups during the 16-week placebo-controlled period were nasopharyngitis, nausea, and upper respiratory tract infection.
 The safety profile observed in patients with ankylosing spondylitis treated with COSENTYX is consistent with the safety profile in psoriasis.
+In a third controlled study of AS (study AS3), the safety profile of the 300 mg dose of COSENTYX was consistent with the safety profile of the 150 mg dose of COSENTYX.
 
 Similar to clinical trials in patients with psoriasis, there was an increased proportion of patients with infections in the COSENTYX groups (31%) compared to the placebo group (18%) [see Warnings and Precautions (5.1)].
 
-In the ankylosing spondylitis program, with 571 patients exposed to COSENTYX there were 8 cases of inflammatory bowel disease during the entire treatment period [5 Crohn’s (0.7 per 100 patient-years) and 3 ulcerative colitis (0.4 per 100 patient-years)].
+In the original ankylosing spondylitis program, with 571 patients exposed to COSENTYX there were 8 cases of inflammatory bowel disease during the entire treatment period [5 Crohn’s (0.7 per 100 patient-years) and 3 ulcerative colitis (0.4 per 100 patient-years)].
 During the placebo-controlled 16-week period, there were 2 Crohn’s disease exacerbations and 1 new onset ulcerative colitis case that was a serious adverse event in patients treated with COSENTYX compared to none of the patients treated with placebo.
 During the remainder of the study when all patients received COSENTYX, 1 patient developed Crohn’s disease, 2 patients had Crohn’s exacerbations, 1 patient developed ulcerative colitis, and 1 patient had an ulcerative colitis exacerbation [see Warnings and Precautions (5.3)].
 
