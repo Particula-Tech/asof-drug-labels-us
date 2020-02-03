@@ -21,7 +21,7 @@ Desloratadine tablets are used to help control the symptoms of:
 - seasonal allergic rhinitis (sneezing, stuffy nose, runny nose and itching of the nose) in people 12 years of age and older.
 - perennial allergic rhinitis (sneezing, stuffy nose, runny nose and itching of the nose) in people 12 years of age and older.
 
-Desloratadine tablets are not for children younger than 6 months of age.
+Desloratadine tablets are not for children younger than 12 years of age.
 
 Who should not take desloratadine tablets?
 
@@ -104,7 +104,7 @@ How should I store desloratadine tablets?
 • Store at 25° C (77° F); excursions permitted to 15° to 30° C (59° to 86° F).
 
 • Desloratadine tablets are sensitive to heat.
-Do not store above 86°F (30°C).
+Do not store above 30°C (86°F).
 
 • Protect desloratadine tablets from moisture.
 
@@ -145,4 +145,4 @@ Goa 403 722
 
 INDIA
 
-Revised: May 2017 ID#: 251572
+Revised: December 2019 ID#: 263068
