@@ -1,6 +1,6 @@
 # DESCRIPTION
 
-The active ingredient in famotidine injection is a histamine H 2–receptor antagonist.
+The active ingredient in famotidine injection is a histamine H2–receptor antagonist.
 [1-Amino-3-[[[2-[(diaminomethylene)amino]-4-thiazolyl]-methyl]thio]propylidene] sulfamide.
 Its structural formula is:
 

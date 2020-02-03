@@ -248,8 +248,6 @@ aValues reported in published literature.
 
 bMeans ± SD.
 
-www.fresenius-kabi.com/us
-
 45884F
 
 Revised: September 2019
