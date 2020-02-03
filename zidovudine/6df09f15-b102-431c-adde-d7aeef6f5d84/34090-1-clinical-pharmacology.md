@@ -12,7 +12,7 @@ Following IV dosing, dose‑independent kinetics was observed over the range of 
 The mean steady‑state peak and trough concentrations of zidovudine at 2.5 mg per kg every 4 hours were 1.1 and 0.1 mcg per mL, respectively.
 
 In adults, following oral administration, zidovudine is rapidly absorbed and extensively distributed, with peak serum concentrations occurring within 0.5 to 1.5 hours.
-The AUC was equivalent when zidovudine was administered as RETROVIR tablets or syrup compared with RETROVIR capsules.
+The AUC was equivalent when zidovudine was administered as RETROVIR tablets or oral solution compared with RETROVIR capsules.
 The pharmacokinetic properties of zidovudine in fasting adult subjects are summarized in Table 7.
 
 Table 7.

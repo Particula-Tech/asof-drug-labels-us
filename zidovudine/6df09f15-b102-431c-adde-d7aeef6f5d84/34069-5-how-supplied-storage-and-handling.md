@@ -8,7 +8,7 @@ Bottles of 100 (NDC 49702-211-20).
 
 Store at 15° to 25°C (59° to 77°F) and protect from moisture.
 
-RETROVIR syrup is supplied as a colorless to pale yellow, strawberry-flavored syrup containing 10 mg zidovudine in each mL.
+RETROVIR oral solution is supplied as a colorless to pale yellow, strawberry-flavored solution containing 10 mg zidovudine in each mL.
 
 Bottle of 240 mL (NDC 49702-212-48) with child-resistant cap.
 

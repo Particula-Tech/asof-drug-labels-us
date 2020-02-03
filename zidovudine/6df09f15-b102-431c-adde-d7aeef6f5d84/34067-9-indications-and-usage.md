@@ -9,9 +9,9 @@ RETROVIR, a nucleoside reverse transcriptase inhibitor, is indicated in combinat
 RETROVIR is indicated for the prevention of maternal-fetal HIV-1 transmission [see Dosage and Administration (2.3)].
 The indication is based on a dosing regimen that included 3 components:
 
-1. 1.antepartum therapy of HIV-1 infected mothers
-2. 2.intrapartum therapy of HIV-1 infected mothers
-3. 3.post-partum therapy of HIV-1 exposed neonate
+1. 1.antepartum therapy of HIV‑1–infected mothers
+2. 2.intrapartum therapy of HIV‑1–infected mothers
+3. 3.post-partum therapy of HIV‑1–exposed neonate
 
 Points to consider prior to initiating RETROVIR in pregnant women for the prevention of maternal-fetal HIV-1 transmission include:
 

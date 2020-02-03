@@ -50,7 +50,7 @@ Advise patients that other medications may interact with RETROVIR and certain me
 
 Dosage and Administration in Neonates
 
-Due to the small volume of RETROVIR administered to neonates, advise caregivers to use an appropriate-sized syringe with 0.1-mL graduation to ensure accurate dosing of the syrup formulation [see Dosage and Administration (2.3)].
+Due to the small volume of RETROVIR administered to neonates, advise caregivers to use an appropriate-sized syringe with 0.1-mL graduation to ensure accurate dosing of the oral solution formulation [see Dosage and Administration (2.3)].
 
 Pregnancy
 
@@ -83,6 +83,6 @@ GlaxoSmithKline
 
 Research Triangle Park, NC 27709
 
-©2019 ViiV Healthcare group of companies or its licensor.
+©2020 ViiV Healthcare group of companies or its licensor.
 
-RTR:8PI
+RTR:9PI

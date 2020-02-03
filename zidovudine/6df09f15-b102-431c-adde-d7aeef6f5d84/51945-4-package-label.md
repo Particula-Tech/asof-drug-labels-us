@@ -50,15 +50,15 @@ RETROVIR
 
 (zidovudine)
 
-SYRUP
+ORAL SOLUTION
 
 10 mg/mL
 
 240 mL
 
-Rx only
+Note to Pharmacist: Please ensure the caregiver has an appropriate syringe with 0.1-mL graduation to accurately measure the oral dose of RETROVIR oral solution in neonates.
 
-Note to Pharmacist: Please ensure the caregiver has an appropriate sytring with 0.1-mL graduation to accurately measure the oral dose of RETROVIR syrup in neonates.
+Rx only
 
 Manufactured for:
 
@@ -72,15 +72,12 @@ GlaxoSmithKline, Research Triangle Park, NC 27709
 
 Made in Canada
 
-Trademark owned by or licensed to the ViiV Healthcare group of companies.
+Trademark are owned by or licensed to the ViiV Healthcare group of companies.
 
-Do not use if shrinkband on bottle is broken or missing.
+©2020 ViiV Healthcare group of companies or its licensor.
 
-Contains sodium benzoate 0.2% added as a preservative.
-
-©2018, ViiV Healthcare group of companies or its licensor.
-
-1. 62000000031044 Rev.11/18
+1. DFT-02258-4694967 Rev.1/20
+2. 
 
 PRINCIPAL DISPLAY PANEL
 

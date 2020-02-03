@@ -1,6 +1,6 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-## 2.1 Adults - Treatment of HIV-1 Infection
+## 2.1 Adults – Treatment of HIV-1 Infection
 
 Oral Dosing
 
@@ -12,9 +12,9 @@ The recommended intravenous dose is 1 mg per kg infused at a constant rate over 
 Patients should receive RETROVIR injection only until oral therapy can be administered.
 
 - •RETROVIR injection must be diluted prior to administration.
-  The calculated dose should be removed from the 20 mL vial and added to 5% Dextrose injection solution to achieve a concentration no greater than 4 mg per mL.
-- •After dilution, the solution is physically and chemically stable for 24 hours at room temperature and 48 hours if refrigerated at 2° to 8°C (36° to 46°F).
-  As an additional precaution, the diluted solution should be administered within 8 hours if stored at 25°C (77°F) or 24 hours if refrigerated at 2° to 8°C to minimize potential administration of a microbially contaminated solution.
+  The calculated dose should be removed from the 20-mL vial and added to 5% Dextrose injection solution to achieve a concentration no greater than 4 mg per mL.
+- •After dilution, the solution is physically and chemically stable for 24 hours at room temperature and 48 hours if refrigerated at 2°C to 8°C (36°F to 46°F).
+  As an additional precaution, the diluted solution should be administered within 8 hours if stored at 25°C (77°F) or 24 hours if refrigerated at 2°C to 8°C to minimize potential administration of a microbially contaminated solution.
 - •Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration whenever solution and container permit and discarded if either is observed.
 - •Rapid infusion or bolus injection should be avoided.
   RETROVIR injection should not be given intramuscularly.
@@ -26,10 +26,10 @@ Healthcare professionals should pay special attention to accurate calculation of
 Prescribers should calculate the appropriate dose of RETROVIR for each child based on body weight (kg) and should not exceed the recommended adult dose.
 
 Before prescribing RETROVIR capsules, children should be assessed for the ability to swallow capsules.
-If a child is unable to reliably swallow a RETROVIR capsule, the RETROVIR syrup formulation should be prescribed.
+If a child is unable to reliably swallow a RETROVIR capsule, the RETROVIR oral solution formulation should be prescribed.
 
 The recommended oral dosage in pediatric patients aged 4 weeks to less than 18 years and weighing greater than or equal to 4 kg is provided in Table 1.
-RETROVIR syrup should be used to provide accurate dosage when capsules are not appropriate.
+RETROVIR oral solution should be used to provide accurate dosage when capsules are not appropriate.
 
 Table 1.
 Recommended Pediatric Oral Dosage of RETROVIR
@@ -68,7 +68,7 @@ Recommended Neonatal Dosages of RETROVIR
 | Oral | 8 mg/kg/day | 2 mg/kg every 6 hours |
 | Intravenous | 6 mg/kg/day | 1.5 mg/kg infused over 30 minutes, every 6 hours |
 
-Use an appropriate-sized syringe with 0.1-mL graduation to ensure accurate dosing of the syrup formulation in neonates.
+Use an appropriate-sized syringe with 0.1-mL graduation to ensure accurate dosing of the oral solution formulation in neonates.
 
 ## 2.4 Patients with Severe Anemia and/or Neutropenia
 

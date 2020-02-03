@@ -43,15 +43,15 @@ Frequencies of Selected (Grade 3/4) Laboratory Abnormalities in Subjects with As
 
 | Test(Abnormal Level) | RETROVIR 500 mg/day(n = 453) | Placebo(n = 428) |  |  |  |
 | --- | --- | --- | --- | --- | --- |
-| Anemia (Hgb<8 g/dL) | 1% | <1% |  |  |  |
+| Anemia (Hgb <8 g/dL) | 1% | <1% |  |  |  |
 | Granulocytopenia (<750 cells/mm3) | 2% | 2% |  |  |  |
-| Thrombocytopenia (platelets<50,000/mm3) | 0% | <1% |  |  |  |
+| Thrombocytopenia (platelets <50,000/mm3) | 0% | <1% |  |  |  |
 | ALT (>5 x ULN) | 3% | 3% |  |  |  |
 | AST (>5 x ULN) | 1% | 2% |  |  |  |
 | ULN = Upper limit of normal. |  |  |  |  |  |
 
 The adverse reactions reported during IV administration of RETROVIR injection are similar to those reported with oral administration; neutropenia and anemia were reported most frequently.
-Long term IV administration beyond 2 to 4 weeks has not been studied in adults and may enhance hematologic adverse reactions.
+Long-term IV administration beyond 2 to 4 weeks has not been studied in adults and may enhance hematologic adverse reactions.
 Local reaction, pain, and slight irritation during IV administration occur infrequently.
 
 Pediatrics
@@ -105,7 +105,7 @@ Additionally, adverse reactions reported at an incidence of less than 6% in thes
 
 Use for the Prevention of Maternal-Fetal Transmission of HIV-1
 
-In a randomized, double-blind, placebo-controlled trial in HIV-1-infected women and their neonates conducted to determine the utility of RETROVIR for the prevention of maternal-fetal HIV-1 transmission, RETROVIR syrup at 2 mg per kg was administered every 6 hours for 6 weeks to neonates beginning within 12 hours following birth.
+In a randomized, double-blind, placebo-controlled trial in HIV-1-infected women and their neonates conducted to determine the utility of RETROVIR for the prevention of maternal-fetal HIV-1 transmission, RETROVIR oral solution at 2 mg per kg was administered every 6 hours for 6 weeks to neonates beginning within 12 hours following birth.
 The most commonly reported adverse reactions were anemia (hemoglobin less than 9.0 g per dL) and neutropenia (less than 1,000 cells per mm3).
 Anemia occurred in 22% of the neonates who received RETROVIR and in 12% of the neonates who received placebo.
 The mean difference in hemoglobin values was less than 1.0 g per dL for neonates receiving RETROVIR compared with neonates receiving placebo.

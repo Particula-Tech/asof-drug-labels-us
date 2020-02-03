@@ -10,8 +10,7 @@ RETROVIR capsules are for oral administration.
 Each capsule contains 100 mg of zidovudine and the inactive ingredients corn starch, magnesium stearate, microcrystalline cellulose, and sodium starch glycolate.
 The 100-mg empty hard gelatin capsule, printed with edible black ink, consists of black iron oxide, dimethylpolysiloxane, gelatin, pharmaceutical shellac, soya lecithin, and titanium dioxide.
 
-RETROVIR syrup is for oral administration.
-Each mL of RETROVIR syrup contains 10 mg of zidovudine and the inactive ingredients sodium benzoate 0.2% (added as a preservative), citric acid, flavors, glycerin, and liquid sucrose.
+Each mL of RETROVIR oral solution contains 10 mg of zidovudine and the inactive ingredients sodium benzoate 0.2% (added as a preservative), citric acid, flavors, glycerin, and liquid sucrose.
 Sodium hydroxide may be added to adjust pH.
 
 RETROVIR injection is a sterile solution for IV infusion only.
