@@ -13,6 +13,7 @@ This is believed to increase tubuloglomerular feedback and reduce intraglomerula
 
 Following single and multiple oral doses of canagliflozin in patients with type 2 diabetes, dose-dependent decreases in the renal threshold for glucose (RTG) and increases in urinary glucose excretion were observed.
 From a starting RTG value of approximately 240 mg/dL, canagliflozin at 100 mg and 300 mg once daily suppressed RTG throughout the 24-hour period.
+Data from single oral doses of canagliflozin in healthy volunteers indicate that, on average, the elevation in urinary glucose excretion approaches baseline by about 3 days for doses up to 300 mg once daily.
 Maximal suppression of mean RTG over the 24-hour period was seen with the 300 mg daily dose to approximately 70 to 90 mg/dL in patients with type 2 diabetes in Phase 1 trials.
 The reductions in RTG led to increases in mean UGE of approximately 100 g/day in subjects with type 2 diabetes treated with either 100 mg or 300 mg of canagliflozin.
 In patients with type 2 diabetes given 100 to 300 mg once daily over a 16-day dosing period, reductions in RTG and increases in urinary glucose excretion were observed over the dosing period.

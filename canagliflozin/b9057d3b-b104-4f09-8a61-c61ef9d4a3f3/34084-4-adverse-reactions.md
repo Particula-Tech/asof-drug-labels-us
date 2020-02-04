@@ -53,7 +53,7 @@ Placebo-Controlled Trial in Diabetic Nephropathy
 The occurrence of adverse reactions for INVOKANA was evaluated in patients participating in CREDENCE, a study in patients with type 2 diabetes mellitus and diabetic nephropathy with albuminuria > 300 mg/day [see Clinical Studies (14.3)].
 These data reflect exposure of 2,201 patients to INVOKANA and a mean duration of exposure to INVOKANA of 137 weeks.
 
-The rate of lower limb amputations associated with the use of INVOKANA 100 mg relative to placebo was 12.3 vs 11.2 events per 1000 patient-years, respectively] in CREDENCE, an outcomes study of patients with type 2 diabetes and diabetic nephropathy, with 2.6 years mean duration of follow-up [see Clinical Studies (14.3)].
+The rate of lower limb amputations associated with the use of INVOKANA 100 mg relative to placebo was 12.3 vs 11.2 events per 1000 patient-years, respectively, in CREDENCE, an outcomes study of patients with type 2 diabetes and diabetic nephropathy, with 2.6 years mean duration of follow-up [see Clinical Studies (14.3)].
 
 In CREDENCE, incidence rates of adjudicated events of diabetic ketoacidosis (DKA) were 0.21 (0.5%, 12/2,200) and 0.03 (0.1%, 2/2,197) per 100 patient-years of follow-up with INVOKANA 100 mg and placebo, respectively [see Warnings and Precautions (5.3)].
 The incidence of acute kidney injury was similar between INVOKANA 100 mg and placebo in CREDENCE [see Warnings and Precautions (5.4)].
