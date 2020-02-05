@@ -2,7 +2,7 @@
 
 ## 10.1 Human Experience
 
-In premarketing trials involving more than 3100 patients and/or normal subjects, accidental or intentional acute overdosage of olanzapine was identified in 67 patients.
+In premarketing trials involving more than 3,100 patients and/or normal subjects, accidental or intentional acute overdosage of olanzapine was identified in 67 patients.
 In the patient taking the largest identified amount, 300 mg, the only symptoms reported were drowsiness and slurred speech.
 In the limited number of patients who were evaluated in hospitals, including the patient taking 300 mg, there were no observations indicating an adverse change in laboratory analytes or ECG.
 Vital signs were usually within normal limits following overdoses.
@@ -19,7 +19,7 @@ For current information on the management of olanzapine overdose, contact a cert
 The possibility of multiple drug involvement should be considered.
 In case of acute overdosage, establish and maintain an airway and ensure adequate oxygenation and ventilation, which may include intubation.
 Gastric lavage (after intubation, if patient is unconscious) and administration of activated charcoal together with a laxative should be considered.
-The administration of activated charcoal (1 g) reduced the C max and AUC of oral olanzapine by about 60%.
+The administration of activated charcoal (1 g) reduced the Cmax and AUC of oral olanzapine by about 60%.
 As peak olanzapine levels are not typically obtained until about 6 hours after dosing, charcoal may be a useful treatment for olanzapine overdose.
 
 The possibility of obtundation, seizures, or dystonic reaction of the head and neck following overdose may create a risk of aspiration with induced emesis.

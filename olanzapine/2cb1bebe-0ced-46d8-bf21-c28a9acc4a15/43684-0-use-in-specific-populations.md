@@ -4,44 +4,86 @@ When using olanzapine and fluoxetine in combination, also refer to the Use in Sp
 
 ## 8.1 Pregnancy
 
-Teratogenic Effects, Pregnancy Category C — In oral reproduction studies in rats at doses up to 18 mg/kg/day and in rabbits at doses up to 30 mg/kg/day (9 and 30 times the maximum recommended human daily oral dose on a mg/m 2 basis, respectively) no evidence of teratogenicity was observed.
-In an oral rat teratology study, early resorptions and increased numbers of nonviable fetuses were observed at a dose of 18 mg/kg/day (9 times the maximum recommended human daily oral dose on a mg/m 2 basis).
-Gestation was prolonged at 10 mg/kg/day (5 times the maximum recommended human daily oral dose on a mg/m 2 basis).
-In an oral rabbit teratology study, fetal toxicity (manifested as increased resorptions and decreased fetal weight) occurred at a maternally toxic dose of 30 mg/kg/day (30 times the maximum recommended human daily oral dose on a mg/m 2 basis).
-Because animal reproduction studies are not always predictive of human response, this drug should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
+Pregnancy Exposure Registry
 
-Placental transfer of olanzapine occurs in rat pups.
+There is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to atypical antipsychotics, including olanzapine, during pregnancy.
+Healthcare providers are encouraged to register patients by contacting the National Pregnancy Registry for Atypical Antipsychotics at 1-866-961-2388 or visit http://womensmentalhealth.org/clinical-and-research-programs/pregnancyregistry/.
 
-There are no adequate and well-controlled trials with olanzapine in pregnant females.
-Seven pregnancies were observed during clinical trials with olanzapine, including 2 resulting in normal births, 1 resulting in neonatal death due to a cardiovascular defect, 3 therapeutic abortions, and 1 spontaneous abortion.
+Risk Summary
 
-Nonteratogenic Effects — Neonates exposed to antipsychotic drugs (including olanzapine), during the third trimester of pregnancy are at risk for extrapyramidal and/or withdrawal symptoms following delivery.
-There have been reports of agitation, hypertonia, hypotonia, tremor, somnolence, respiratory distress and feeding disorder in these neonates.
-These complications have varied in severity; while in some cases symptoms have been self-limited, in other cases neonates have required intensive care unit support and prolonged hospitalization.
+Neonates exposed to antipsychotic drugs, including olanzapine, during the third trimester are at risk for extrapyramidal and/or withdrawal symptoms following delivery (see Clinical Considerations).
+Overall available data from published epidemiologic studies of pregnant women exposed to olanzapine have not established a drug-associated risk of major birth defects, miscarriage, or adverse maternal or fetal outcomes (see Data).
+There are risks to the mother associated with untreated schizophrenia or bipolar I disorder and with exposure to antipsychotics, including olanzapine, during pregnancy (see Clinical Considerations).
 
-Olanzapine should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
+Olanzapine was not teratogenic when administered orally to pregnant rats and rabbits at doses that are 9- and 30-times the daily oral maximum recommended human dose (MRHD), based on mg/m2body surface area; some fetal toxicities were observed at these doses (see Data).
 
-## 8.2 Labor and Delivery
+The estimated background risk of major birth defects and miscarriage for the indicated populations is unknown.
+All pregnancies have a background risk of birth defects, loss, or other adverse outcomes.
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively.
 
-The effect of olanzapine on labor and delivery in humans is unknown.
-Parturition in rats was not affected by olanzapine.
+Clinical Considerations
 
-## 8.3 Nursing Mothers
+Disease-associated maternal and embryo/fetal risk
 
-In a study in lactating, healthy women, olanzapine was excreted in breast milk.
-Mean infant dose at steady state was estimated to be 1.8% of the maternal olanzapine dose.
-It is recommended that women receiving olanzapine should not breast-feed.
+There is a risk to the mother from untreated schizophrenia or bipolar I disorder, including increased risk of relapse, hospitalization, and suicide.
+Schizophrenia and bipolar I disorder are associated with increased adverse perinatal outcomes, including preterm birth.
+It is not known if this is a direct result of the illness or other comorbid factors.
+
+Fetal/Neonatal adverse reactions
+
+Extrapyramidal and/or withdrawal symptoms, including agitation, hypertonia, hypotonia, tremor, somnolence, respiratory distress, and feeding disorder have been reported in neonates who were exposed to antipsychotic drugs, including olanzapine, during the third trimester of pregnancy.
+These symptoms have varied in severity.
+Monitor neonates for extrapyramidal and/or withdrawal symptoms and manage symptoms appropriately.
+Some neonates recovered within hours or days without specific treatment; others required prolonged hospitalization.
+
+Data
+
+Human Data
+
+Placental passage has been reported in published study reports; however, the placental passage ratio was highly variable ranging between 7% to 167% at birth following exposure during pregnancy.
+The clinical relevance of this finding is unknown.
+
+Published data from observational studies, birth registries, and case reports that have evaluated the use of atypical antipsychotics during pregnancy do not establish an increased risk of major birth defects.
+A retrospective cohort study from a Medicaid database of 9,258 women exposed to antipsychotics during pregnancy did not indicate an overall increased risk for major birth defects.
+
+Animal Data
+
+In oral reproduction studies in rats at doses up to 18 mg/kg/day and in rabbits at doses up to 30 mg/kg/day (9 and 30 times the daily oral MRHD based on mg/m2 body surface area, respectively), no evidence of teratogenicity was observed.
+In an oral rat teratology study, early resorptions and increased numbers of nonviable fetuses were observed at a dose of 18 mg/kg/day (9 times the daily oral MRHD based on mg/m2 body surface area), and gestation was prolonged at 10 mg/kg/day (5 times the daily oral MRHD based on mg/m2 body surface area).
+In an oral rabbit teratology study, fetal toxicity manifested as increased resorptions and decreased fetal weight, occurred at a maternally toxic dose of 30 mg/kg/day (30 times the daily oral MRHD based on mg/m2 body surface area).
+
+## 8.2 Lactation
+
+Risk Summary
+
+Olanzapine is present in human milk.
+There are reports of excess sedation, irritability, poor feeding and extrapyramidal symptoms (tremors and abnormal muscle movements) in infants exposed to olanzapine through breast milk (see Clinical Considerations).
+There is no information on the effects of olanzapine on milk production.
+
+The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for olanzapine and any potential adverse effects on the breastfed child from olanzapine or from the mother's underlying condition.
+
+Clinical Considerations
+
+Infants exposed to olanzapine should be monitored for excess sedation, irritability, poor feeding, and extrapyramidal symptoms (tremors and abnormal muscle movements).
+
+## 8.3 Females and Males of Reproductive Potential
+
+Infertility
+
+Females
+
+Based on the pharmacologic action of olanzapine (D2 receptor antagonism), treatment with olanzapine may result in an increase in serum prolactin levels, which may lead to a reversible reduction in fertility in females of reproductive potential [see Warnings and Precautions (5.15)].
 
 ## 8.4 Pediatric Use
 
 The safety and effectiveness of oral olanzapine in the treatment of schizophrenia and manic or mixed episodes associated with bipolar I disorder were established in short-term studies in adolescents (ages 13 to 17 years).
 Use of olanzapine in adolescents is supported by evidence from adequate and well-controlled studies of olanzapine in which 268 adolescents received olanzapine in a range of 2.5 to 20 mg/day [see Clinical Studies (14.1, 14.2)].
 Recommended starting dose for adolescents is lower than that for adults [see Dosage and Administration (2.1, 2.2)].
-Compared to patients from adult clinical trials, adolescents were likely to gain more weight, experience increased sedation, and have greater increases in total cholesterol, triglycerides, LDL cholesterol, prolactin and hepatic aminotransferase levels [see Warnings and Precautions (5.5, 5.15, 5.17) and Adverse Reactions (6.3)].
+Compared to patients from adult clinical trials, adolescents were likely to gain more weight, experience increased sedation, and have greater increases in total cholesterol, triglycerides, LDL cholesterol, prolactin and hepatic aminotransferase levels [see Warnings and Precautions (5.5, 5.15, 5.17) and Adverse Reactions (6.1)].
 When deciding among the alternative treatments available for adolescents, clinicians should consider the increased potential (in adolescents as compared with adults) for weight gain and dyslipidemia.
 Clinicians should consider the potential long-term risks when prescribing to adolescents, and in many cases this may lead them to consider prescribing other drugs first in adolescents [see Indications and Usage (1.1, 1.2)].
 
-Safety and effectiveness of olanzapine in children <13 years of age have not been established [see Patient Counseling Information (17.14)].
+Safety and effectiveness of olanzapine in children <13 years of age have not been established [see Patient Counseling Information (17)].
 
 Safety and efficacy of olanzapine and fluoxetine in combination in children and adolescents (10 to 17 years of age) have been established for the acute treatment of depressive episodes associated with bipolar I disorder.
 
@@ -49,7 +91,7 @@ Safety and effectiveness of olanzapine and fluoxetine in combination in children
 
 ## 8.5 Geriatric Use
 
-Of the 2500 patients in premarketing clinical studies with oral olanzapine, 11% (263) were 65 years of age or over.
+Of the 2,500 patients in premarketing clinical studies with oral olanzapine, 11% (263) were 65 years of age or over.
 In patients with schizophrenia, there was no indication of any different tolerability of olanzapine in the elderly compared to younger patients.
 Studies in elderly patients with dementia-related psychosis have suggested that there may be a different tolerability profile in this population compared to younger patients with schizophrenia.
 Elderly patients with dementia-related psychosis treated with olanzapine are at an increased risk of death compared to placebo.

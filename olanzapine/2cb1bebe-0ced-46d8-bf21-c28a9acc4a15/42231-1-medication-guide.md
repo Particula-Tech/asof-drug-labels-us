@@ -110,9 +110,10 @@ Before starting olanzapine tablets or orally disintegrating tablets, tell your d
 - any other medical condition
 - are pregnant or plan to become pregnant.
   It is not known if olanzapine tablets or orally disintegrating tablets will harm your unborn baby.
+- If you become pregnant while receiving olanzapine tablets or orally disintegrating tablets, talk to your healthcare provider about registering with the National Pregnancy Registry for Atypical Antipsychotics.
+  You can register by calling 1-866-961-2388 or go to http://womensmentalhealth.org/clinical-andresearch- programs/pregnancyregistry/.
 - are breast-feeding or plan to breast-feed.
-  Olanzapine can pass into your breast milk and may harm your baby.
-  You should not breast-feed while taking olanzapine tablets or orally disintegrating tablets.
+  Olanzapine can pass into your breast milk.
   Talk to your doctor about the best way to feed your baby if you take olanzapine tablets or orally disintegrating tablets.
 
 Tell your doctor if you exercise a lot or are in hot places often.
@@ -234,10 +235,10 @@ Trademarks are the property of their respective owners.
 
 Manufactured by:
 
-TORRENT PHARMACEUTICALS LTD., Indrad-382 721, INDIA.
+TORRENT PHARMACEUTICALS LTD., INDIA.
 
-For:
+Manufactured for:
 
 TORRENT PHARMA INC., Basking Ridge, NJ 07920.
 
-8068659 Revised May 2018
+8068659 Revised January 2020
