@@ -47,7 +47,7 @@ In a rat study, the fertility in males and females was not affected [see Nonclin
 
 ## 8.4 Pediatric Use
 
-The safety and effectiveness of imatinib mesylate tablets have been demonstrated in pediatric patients with newly diagnosed Ph+ chronic phase CML [see Clinical Studies (14.2)].
+The safety and effectiveness of imatinib mesylate tablets have been demonstrated in pediatric patients with newly diagnosed Ph+ chronic phase CML and Ph+ ALL [see Clinical Studies (14.2)].
 There are no data in children under 1 year of age.
 
 ## 8.5 Geriatric Use

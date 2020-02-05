@@ -251,6 +251,46 @@ Nausea and vomiting were the most commonly reported individual adverse reactions
 Most patients experienced adverse reactions at some time during the study.
 The incidence of Grade 3/4 events across all types of adverse reactions was 75%; the events with the highest Grade 3/4 incidence in CML pediatric patients were mainly related to myelosuppression.
 
+In combination with multi-agent chemotherapy
+
+Pediatric and young adult patients with very high risk ALL, defined as those with an expected 5-year event-free survival (EFS) less than 45%, were enrolled after induction therapy on a multicenter, non-randomized cooperative group pilot protocol.
+The study population included patients with a median age of 10 years (1 to 21 years), 61% of whom were male, 75% were white, 7% were black and 6% were Asian/Pacific Islander.
+Patients with Ph+ ALL (n=92) were assigned to receive imatinib mesylate tablets and treated in 5 successive cohorts.
+Imatinib mesylate tablets exposure was systematically increased in successive cohorts by earlier introduction and more prolonged duration.
+
+The safety of imatinib mesylate tablets given in combination with intensive chemotherapy was evaluated by comparing the incidence of grade 3 and 4 adverse events, neutropenia (less than 750/mcL) and thrombocytopenia (less than 75,000/mcL) in the 92 patients with Ph+ ALL compared to 65 patients with Ph-ALL enrolled on the trial who did not receive imatinib mesylate tablets.
+The safety was also evaluated comparing the incidence of adverse events in cycles of therapy administered with or without imatinib mesylate tablets.
+The protocol included up to 18 cycles of therapy.
+Patients were exposed to a cumulative total of 1425 cycles of therapy, 778 with imatinib mesylate tablets and 647 without imatinib mesylate tablets.
+The adverse events that were reported with a 5% or greater incidence in patients with Ph+ ALL compared to Ph-ALL or with a 1% or greater incidence in cycles of therapy that included imatinib mesylate tablets are presented in Table 8.
+
+Table 8: Adverse Reactions Reported More Frequently in Patients Treated with Study Drug (greater than 5%) or in Cycles with Study Drug (greater than 1%)
+
+| Adverse Event | Per Patient Incidence Ph+ ALL with Imatinib Mesylate Tablets | Per PatientIncidencePh- ALL No Imatinib Mesylate Tablets | Per PatientPer CycleIncidence with Imatinib Mesylate Tablets | Per PatientPer CycleIncidence No Imatinib Mesylate Tablets |
+| --- | --- | --- | --- | --- |
+| Grade 3 and 4 Adverse Events | N=92 | N=65 | N=778 | N=647 |
+| n (%) | n (%) | n (%) | n (%) |  |
+| Nausea and/or Vomiting | 15 (16) | 6 (9) | 28 (4) | 8 (1) |
+| Hypokalemia | 31 (34) | 16 (25) | 72 (9) | 32 (5) |
+| Pneumonitis | 7 (8) | 1 (1) | 7 (1) | 1 (< 1) |
+| Pleural effusion | 6 (7) | 0 | 6 (1) | 0 |
+| Abdominal Pain | 8 (9) | 2 (3) | 9 (1) | 3 (< 1) |
+| Anorexia | 10 (11) | 3 (5) | 19 (2) | 4 (1) |
+| Hemorrhage | 11 (12) | 4 (6) | 17 (2) | 8 (1) |
+| Hypoxia | 8 (9) | 2 (3) | 12 (2) | 2 (< 1) |
+| Myalgia | 5 (5) | 0 | 4 (1) | 1 (< 1) |
+| Stomatitis | 15 (16) | 8 (12) | 22 (3) | 14 (2) |
+| Diarrhea | 8 (9) | 3 (5) | 12 (2) | 3 (< 1) |
+| Rash/Skin Disorder | 4 (4) | 0 | 5 (1) | 0 |
+| Infection | 49 (53) | 32 (49) | 131 (17) | 92 (14) |
+| Hepatic (transaminase and/or bilirubin) | 52 (57) | 38 (58) | 172 (22) | 113 (17) |
+| Hypotension | 10 (11) | 5 (8) | 16 (2) | 6 (1) |
+| Myelosuppression |  |  |  |  |
+| Neutropenia (<750/mcL) | 92 (100) | 63 (97) | 556 (71) | 218 (34) |
+| Thrombocytopenia (< 75,000/mcL) | 90 (92) | 63 (97) | 431 (55) | 329 (51) |
+| *Defined as the frequency of AEs per patient per treatment cycles that included imatinib mesylate tablets (includes patients with Ph+ ALL that received cycles with imatinib mesylate tablets) |  |  |  |  |
+| **Defined as the frequency of AEs per patient per treatment cycles that did not include imatinib mesylate tablets (includes patients with Ph+ ALL that received cycles without imatinib mesylate tablets as well as all patients with Ph- ALL who did not receive imatinib mesylate tablets in any treatment cycle) |  |  |  |  |
+
 ### Adverse Reactions in Other Subpopulations
 
 In older patients (greater than or equal to 65 years old), with the exception of edema, where it was more frequent, there was no evidence of an increase in the incidence or severity of adverse reactions.
