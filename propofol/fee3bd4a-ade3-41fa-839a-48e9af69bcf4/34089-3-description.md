@@ -1,10 +1,10 @@
 # DESCRIPTION:
 
-DIPRIVAN ® (propofol) injectable emulsion, USP is a sterile, nonpyrogenic emulsion containing 10 mg/mL of propofol suitable for intravenous administration.
+DIPRIVAN® (propofol) injectable emulsion, USP is a sterile, nonpyrogenic emulsion containing 10 mg/mL of propofol suitable for intravenous administration.
 Propofol is chemically described as 2,6‑diisopropylphenol.
 The structural formula is:
 
-C 12H 18O M.W.
+C12H18O M.W.
 178.27
 
 Propofol is slightly soluble in water and, thus, is formulated in a white, oil-in-water emulsion.

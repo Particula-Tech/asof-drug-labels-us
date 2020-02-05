@@ -80,11 +80,11 @@ Cardiac Anesthesia Techniques
 
 | Primary Agent | Rate | Secondary Agent/Rate (Following Induction with Primary Agent) |
 | --- | --- | --- |
-| DIPRIVAN |  | OPIOID a/0.05 mcg/kg/min to 0.075 mcg/kg/min (no bolus) |
+| DIPRIVAN |  | OPIOIDa/0.05 mcg/kg/min to 0.075 mcg/kg/min (no bolus) |
 | Preinduction Anxiolysis | 25 mcg/kg/min |  |
 | Induction | 0.5 mg/kg to 1.5 mg/kg over 60 sec |  |
 | Maintenance (Titrated to Clinical Response) | 100 mcg/kg/min to 150 mcg/kg/min |  |
-| OPIOID b |  | DIPRIVAN /50 mcg/kg/min to 100 mcg/kg/min (no bolus) |
+| OPIOIDb |  | DIPRIVAN /50 mcg/kg/min to 100 mcg/kg/min (no bolus) |
 | Induction | 25 mcg/kg to 50 mcg/kg |  |
 | Maintenance | 0.2 mcg/kg/min to 0.3 mcg/kg/min |  |
 
@@ -206,7 +206,7 @@ Administration should not exceed 4 mg/kg/hour unless the benefits outweigh the r
 Dosages of DIPRIVAN should be reduced in patients who have received large dosages of narcotics.
 The DIPRIVAN dosage requirement may also be reduced by adequate management of pain with analgesic agents.
 As with other sedative medications, there is interpatient variability in dosage requirements, and these requirements may change with time (see SUMMARY OF DOSAGE GUIDELINES).
-Evaluation of level of sedation and assessment of CNS function should be carried out daily throughout maintenance to determine the minimum dose of DIPRIVAN required for sedation (see Clinical Trials, Intensive Care Unit (ICU) Sedation).
+Evaluation of level of sedation and assessment of CNS function should be carried out daily throughout maintenance to determine the minimum dose of DIPRIVAN required for sedation (see Clinical Trials,Intensive Care Unit (ICU) Sedation).
 Bolus administration of 10 mg or 20 mg should only be used to rapidly increase depth of sedation in patients where hypotension is not likely to occur.
 Patients with compromised myocardial function, intravascular volume depletion, or abnormally low vascular tone (e.g., sepsis) may be more susceptible to hypotension (see PRECAUTIONS).
 
@@ -221,7 +221,7 @@ For complete dosage information, see DOSAGE AND ADMINISTRATION.
 | INDICATION | DOSAGE AND ADMINISTRATION |
 | --- | --- |
 | Induction of General Anesthesia: | Healthy Adults Less Than 55 Years of Age: 40 mg every 10 seconds until induction onset (2 mg/kg to 2.5 mg/kg). Elderly, Debilitated, or ASA-PS III or IV Patients: 20 mg every 10 seconds until induction onset (1 mg/kg to 1.5 mg/kg). Cardiac Anesthesia: 20 mg every 10 seconds until induction onset (0.5 mg/kg to 1.5 mg/kg). Neurosurgical Patients: 20 mg every 10 seconds until induction onset (1 mg/kg to 2 mg/kg). Pediatric Patients - healthy, from 3 years to 16 years of age: 2.5 mg/kg to 3.5 mg/kg administered over 20 seconds to 30 seconds. (see PRECAUTIONS, Pediatric Use and CLINICAL PHARMACOLOGY, Pediatrics). |
-| Maintenance of General Anesthesia: | Infusion Healthy Adults Less Than 55 Years of Age: 100 mcg/kg/min to 200 mcg/kg/min (6 mg/kg/h to 12 mg/kg/h). Elderly, Debilitated, ASA-PS III or IV Patients: 50 mcg/kg/h to 100 mcg/kg/min (3 mg/kg/h to 6 mg/kg/h). Cardiac Anesthesia: Most patients require: Primary DIPRIVAN with Secondary Opioid – 100 mcg/kg/min to 150 mcg/kg/min. Low-Dose DIPRIVAN with Primary Opioid – 50 mcg/kg/min to 100 mcg/kg/min. (see DOSAGE AND ADMINISTRATION, Table 4). Neurosurgical Patients: 100 mcg/kg/min to 200 mcg/kg/min (6 mg/kg/h to 12 mg/kg/h). Pediatric Patients - healthy, from 2 months of age to 16 years of age: 125 mcg/kg/min to 300 mcg/kg/min (7.5 mg/kg/h to 18 mg/kg/h). Following the first half hour of maintenance, if clinical signs of light anesthesia are not present, the infusion rate should be decreased. (see PRECAUTIONS, Pediatric Use and CLINICAL PHARMACOLOGY, Pediatrics). |
+| Maintenance of General Anesthesia: | Infusion Healthy Adults Less Than 55 Years of Age: 100 mcg/kg/min to 200 mcg/kg/min (6 mg/kg/h to 12 mg/kg/h). Elderly, Debilitated, ASA-PS III or IV Patients: 50 mcg/kg/min to 100 mcg/kg/min (3 mg/kg/h to 6 mg/kg/h). Cardiac Anesthesia: Most patients require: Primary DIPRIVAN with Secondary Opioid – 100 mcg/kg/min to 150 mcg/kg/min. Low-Dose DIPRIVAN with Primary Opioid – 50 mcg/kg/min to 100 mcg/kg/min. (see DOSAGE AND ADMINISTRATION, Table 4). Neurosurgical Patients: 100 mcg/kg/min to 200 mcg/kg/min (6 mg/kg/h to 12 mg/kg/h). Pediatric Patients - healthy, from 2 months of age to 16 years of age: 125 mcg/kg/min to 300 mcg/kg/min (7.5 mg/kg/h to 18 mg/kg/h). Following the first half hour of maintenance, if clinical signs of light anesthesia are not present, the infusion rate should be decreased. (see PRECAUTIONS, Pediatric Use and CLINICAL PHARMACOLOGY, Pediatrics). |
 | Maintenance of General Anesthesia: | Intermittent Bolus Healthy Adults Less Than 55 Years of Age: Increments of 20 mg to 50 mg as needed. |
 | Initiation of MAC Sedation: | Healthy Adults Less Than 55 Years of Age: Slow infusion or slow injection techniques are recommended to avoid apnea or hypotension. Most patients require an infusion of 100 mcg/kg/min to 150 mcg/kg/min (6 mg/kg/h to 9 mg/kg/h) for 3 minutes to 5 minutes or a slow injection of 0.5 mg/kg over 3 minutes to 5 minutes followed immediately by a maintenance infusion. Elderly, Debilitated, Neurosurgical, or ASA-PS III or IV Patients: Most patients require dosages similar to healthy adults. Rapid boluses are to be avoided (see WARNINGS). |
 | Maintenance of MAC Sedation: | Healthy Adults Less Than 55 Years of Age: A variable rate infusion technique is preferable over an intermittent bolus technique. Most patients require an infusion of 25 mcg/kg/min to 75 mcg/kg/min (1.5 mg/kg/h to 4.5 mg/kg/h) or incremental bolus doses of 10 mg or 20 mg. In Elderly, Debilitated, Neurosurgical, or ASA-PS III or IV Patients: Most patients require 80% of the usual adult dose. A rapid (single or repeated) bolus dose should not be used (see WARNINGS). |

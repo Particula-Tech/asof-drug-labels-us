@@ -6,7 +6,7 @@ DIPRIVAN is an intravenous general anesthetic and sedation drug for use in the i
 Intravenous injection of a therapeutic dose of propofol induces anesthesia, with minimal excitation, usually within 40 seconds from the start of injection (the time for one arm-brain circulation).
 As with other rapidly acting intravenous anesthetic agents, the half-time of the blood-brain equilibration is approximately 1 minute to 3 minutes, accounting for the rate of induction of anesthesia.
 The mechanism of action, like all general anesthetics, is poorly understood.
-However, propofol is thought to produce its sedative/anesthetic effects by the positive modulation of the inhibitory function of the neurotransmitter GABA through the ligand-gated GABA A receptors.
+However, propofol is thought to produce its sedative/anesthetic effects by the positive modulation of the inhibitory function of the neurotransmitter GABA through the ligand-gated GABAA receptors.
 
 ## Pharmacodynamics
 

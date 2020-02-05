@@ -36,7 +36,7 @@ Pediatric Neurotoxicity
 
 Published animal studies demonstrate that the administration of anesthetic and sedation drugs that block NMDA receptors and/or potentiate GABA activity increase neuronal apoptosis in the developing brain and result in long-term cognitive deficits when used for longer than 3 hours.
 The clinical significance of these findings is not clear.
-However, based on the available data, the window of vulnerability to these changes is believed to correlate with exposures in the third trimester of gestation through the first several months of life, but may extend out to approximately three years of age in humans (see PRECAUTIONS, Pregnancy, Pediatric Use; ANIMAL TOXICOLOGY AND/OR PHARMACOLOGY).
+However, based on the available data, the window of vulnerability to these changes is believed to correlate with exposures in the third trimester of gestation through the first several months of life, but may extend out to approximately three years of age in humans (see PRECAUTIONS, Pregnancy, Pediatric Use;ANIMAL TOXICOLOGY AND/OR PHARMACOLOGY).
 
 Some published studies in children suggest that similar deficits may occur after repeated or prolonged exposures to anesthetic agents early in life and may result in adverse cognitive or behavioral effects.
 These studies have substantial limitations, and it is not clear if the observed effects are due to the anesthetic/sedation drug administration or other factors such as the surgery or underlying illness.
@@ -251,7 +251,7 @@ DIPRIVAN is not indicated for use in pediatric patients for ICU sedation or for 
 There have been anecdotal reports of serious adverse events and death in pediatric patients with upper respiratory tract infections receiving DIPRIVAN for ICU sedation.
 
 In one multicenter clinical trial of ICU sedation in critically ill pediatric patients that excluded patients with upper respiratory tract infections, the incidence of mortality observed in patients who received DIPRIVAN (n=222) was 9%, while that for patients who received standard sedative agents (n=105) was 4%.
-While causality has not been established, DIPRIVAN is not indicated for sedation in pediatric patients until further studies have been performed to document its safety in that population (see CLINICAL PHARMACOLOGY, Pharmacokinetics, Pediatric Patients and DOSAGE AND ADMINISTRATION).
+While causality has not been established, DIPRIVAN is not indicated for sedation in pediatric patients until further studies have been performed to document its safety in that population (see CLINICAL PHARMACOLOGY, Pharmacokinetics,Pediatric Patients and DOSAGE AND ADMINISTRATION).
 
 In pediatric patients, abrupt discontinuation of DIPRIVAN following prolonged infusion may result in flushing of the hands and feet, agitation, tremulousness and hyperirritability.
 Increased incidences of bradycardia (5%), agitation (4%), and jitteriness (9%) have also been observed.
