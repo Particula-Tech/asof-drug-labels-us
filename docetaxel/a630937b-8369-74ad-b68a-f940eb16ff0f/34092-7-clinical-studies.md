@@ -56,9 +56,7 @@ Single Arm Studies
 
 Docetaxel injection at a dose of 100 mg/m2 was studied in six single arm studies involving a total of 309 patients with metastatic breast cancer in whom previous chemotherapy had failed.
 Among these, 190 patients had anthracycline-resistant breast cancer, defined as progression during an anthracycline-containing chemotherapy regimen for metastatic disease, or relapse during an anthracycline-containing adjuvant regimen.
-In anthracycline-resistant patients, the overall response rate was 37.9% (72/190; 95%
-
-C.I.
+In anthracycline-resistant patients, the overall response rate was 37.9% (72/190; 95% C.I.
 31 to 44.8) and the complete response rate was 2.1%.
 
 Docetaxel injection was also studied in three single arm Japanese studies at a dose of 60 mg/m2, in 174 patients who had received prior chemotherapy for locally advanced or metastatic breast cancer.
@@ -91,7 +89,7 @@ The following table describes the results of subgroup analyses for DFS and OS (s
 
 Table 14: Subset Analyses-Adjuvant Breast Cancer Study
 
-| Patient subset | Number of patient | Hazard ratio* | 95% CI | Hazard ratio* | 95% CI |
+| Patient subset | Number of patients | Hazard ratio* | 95% CI | Hazard ratio* | 95% CI |
 | --- | --- | --- | --- | --- | --- |
 |  |  | Disease Free Survival |  | Overall Survival |  |
 | No. of positive nodes |  |  |  |  |  |

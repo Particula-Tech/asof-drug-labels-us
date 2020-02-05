@@ -119,7 +119,7 @@ Table 3: Summary of Adverse Reactions in Patients Receiving Docetaxel Injection 
 
 ***Febrile Neutropenia: ANC grade 4 with fever >38°C with intravenous antibiotics and/or hospitalization
 
-Hematologic Reactions
+Hematologic reactions
 
 Reversible marrow suppression was the major dose-limiting toxicity of docetaxel injection [see Warnings and Precautions (5.3)].
 The median time to nadir was 7 days, while the median duration of severe neutropenia (<500 cells/mm3) was 7 days.
@@ -131,16 +131,16 @@ Severe infectious episodes occurred in 6.1% of patients with solid tumors, in 6.
 
 Thrombocytopenia (<100,000 cells/mm3) associated with fatal gastrointestinal hemorrhage has been reported.
 
-Hypersensitivity Reactions
+Hypersensitivity reactions
 
 Severe hypersensitivity reactions have been reported [see Boxed Warning, Warnings and Precautions (5.5)].
 Minor events, including flushing, rash with or without pruritus, chest tightness, back pain, dyspnea, drug fever, or chills, have been reported and resolved after discontinuing the infusion and instituting appropriate therapy.
 
-Fluid Retention.
+Fluid retention.
 
 Fluid retention can occur with the use of docetaxel injection [see Boxed Warning, Dosage and Administration (2.6), Warnings and Precautions (5.6)].
 
-Cutaneous Reactions
+Cutaneous reactions
 
 Severe skin toxicity is discussed elsewhere in the label [see Warnings and Precautions (5.8)].
 Reversible cutaneous reactions characterized by a rash including localized eruptions, mainly on the feet and/or hands, but also on the arms, face, or thorax, usually associated with pruritus, have been observed.
@@ -148,35 +148,35 @@ Eruptions generally occurred within 1 week after docetaxel injection infusion, r
 
 Severe nail disorders were characterized by hypo- or hyperpigmentation, and occasionally by onycholysis (in 0.8% of patients with solid tumors) and pain.
 
-Neurologic Reactions
+Neurologic reactions
 
 Neurologic reactions are discussed elsewhere in the label [see Warnings and Precautions (5.9)]
 
-Gastrointestinal Reactions
+Gastrointestinal reactions
 
 Nausea, vomiting, and diarrhea were generally mild to moderate.
 Severe reactions occurred in 3­ % to 5% of patients with solid tumors and to a similar extent among metastatic breast cancer patients.
 The incidence of severe reactions was 1% or less for the 92 breast cancer patients premedicated with 3-day corticosteroids.
 Severe stomatitis occurred in 5.5% of patients with solid tumors, in 7.4% of patients with metastatic breast cancer, and in 1.1% of the 92 breast cancer patients premedicated with 3-day corticosteroids.
 
-Cardiovascular Reactions
+Cardiovascular reactions
 
 Hypotension occurred in 2.8% of patients with solid tumors; 1.2% required treatment.
 Clinically meaningful events such as heart failure, sinus tachycardia, atrial flutter, dysrhythmia, unstable angina, pulmonary edema, and hypertension occurred rarely.
 Seven of 86 (8.1%) of metastatic breast cancer patients receiving docetaxel injection 100 mg/m2 in a randomized trial and who had serial left ventricular ejection fractions assessed developed deterioration of LVEF by ≥10% associated with a drop below the institutional lower limit of normal.
 
-Infusion Site Reactions
+Infusion site reactions
 
 Infusion site reactions were generally mild and consisted of hyperpigmentation, inflammation, redness or dryness of the skin, phlebitis, extravasation, or swelling of the vein.
 
-Hepatic Reactions
+Hepatic reactions
 
 In patients with normal LFTs at baseline, bilirubin values greater than the ULN occurred in 8.9% of patients.
 Increases in AST or ALT >1.5 times the ULN, or alkaline phosphatase >2.5 times ULN, were observed in 18.9% and 7.3% of patients, respectively.
 While on docetaxel injection, increases in AST and/or ALT >1.5 times ULN concomitant with alkaline phosphatase >2.5 times ULN occurred in 4.3% of patients with normal LFTs at baseline.
 Whether these changes were related to the drug or underlying disease has not been established.
 
-Hematologic and Other Toxicity: Relation to dose and baseline liver chemistry abnormalities
+Hematologic and other toxicity: Relation to dose and baseline liver chemistry abnormalities
 
 Hematologic and other toxicity is increased at higher doses and in patients with elevated baseline liver function tests (LFTs).
 In the following tables, adverse drug reactions are compared for three populations: 730 patients with normal LFTs given docetaxel injection at 100 mg/m2 in the randomized and single arm studies of metastatic breast cancer after failure of previous chemotherapy; 18 patients in these studies who had abnormal baseline LFTs (defined as AST and/or ALT >1.5 times ULN concurrent with alkaline phosphatase >2.5 times ULN); and 174 patients in Japanese studies given docetaxel injection at 60 mg/m2 who had normal LFTs (see Tables 4 and 5).
@@ -212,7 +212,7 @@ Table 4: Hematologic Adverse Reactions in Breast Cancer Patients Previously Trea
 
 ****Febrile Neutropenia: For 100 mg/m2, ANC grade 4 and fever >38°C with intravenous antibiotics and/or hospitalization; for 60 mg/m2, ANC grade 3/4 and fever >38.1°C
 
-Table 5: Non-Hematologic Adverse Reactions in Breast Cancer Patients Previously Treated with Chemotherapy Treated at Docetaxel Injection 100 mg/m2 with Normal or Elevated Liver Function Tests or 60 mg/m2 with Normal Liver Function Tests
+Table 5: Non-hematologic Adverse Reactions in Breast Cancer Patients Previously Treated with Chemotherapy Treated at Docetaxel Injection 100 mg/m2 with Normal or Elevated Liver Function Tests or 60 mg/m2 with Normal Liver Function Tests
 
 |  | % | % | % |
 | --- | --- | --- | --- |
@@ -311,19 +311,19 @@ Of the 744 patients treated with TAC, 36.3% experienced severe treatment-emergen
 Six percent of patients treated with TAC discontinued treatment due to adverse reactions, compared to 1.1% treated with FAC; fever in the absence of infection and allergy being the most common reasons for withdrawal among TAC-treated patients.
 Two patients died in each arm within 30 days of their last study treatment; 1 death per arm was attributed to study drugs.
 
-Fever and Infection
+Fever and infection
 
 During the treatment period, fever in the absence of infection was seen in 46.5% of TAC-treated patients and in 17.1% of FAC-treated patients.
 Grade 3/4 fever in the absence of infection was seen in 1.3% and 0% of TAC- and FAC-treated patients respectively.Infection was seen in 39.4% of TAC-treated patients compared to 36.3% of FAC-treated patients.
 Grade 3/4 infection was seen in 3.9% and 2.2% of TAC-treated and FAC-treated patients respectively.
 There were no septic deaths in either treatment arm during the treatment period.
 
-Gastrointestinal Reactions
+Gastrointestinal reactions
 
 In addition to gastrointestinal reactions reflected in the table above, 7 patients in the TAC arm were reported to have colitis/enteritis/large intestine perforation versus one patient in the FAC arm.
 Five of the 7 TAC-treated patients required treatment discontinuation; no deaths due to these events occurred during the treatment period.
 
-Cardiovascular Reactions
+Cardiovascular reactions
 
 More cardiovascular reactions were reported in the TAC arm versus the FAC arm during the treatment period: arrhythmias,all grades (6.2% vs 4.9%), and hypotension, all grades (1.9% vs 0.8%).
 Twenty-six (26) patients (3.5%) in the TAC arm and 17patients (2.3%) in the FAC arm developed CHF during the study period.
@@ -335,19 +335,21 @@ Adverse reactions during the follow-up period (median follow up time of 8 years)
 
 In study TAX316, the most common adverse reactions thatstarted during the treatment period and persisted into thefollow-up period in TAC and FAC patients are described below(median follow-up time of 8 years).
 
-Nervous System Disorders
+Nervous system disorders
 
 In study TAX316, peripheral sensory neuropathy started during the treatment period and persisted into the follow-up period in 84 patients (11.3%) in TAC arm and 15 patients (2%) in FAC arm.
 At the end of the follow-up period (median follow-up timeof 8 years), peripheral sensory neuropathy was observed to beongoing in 10 patients (1.3%) in TAC arm, and in 2 patients(0.3%) in FAC arm.
 
-Skin and Subcutaneous Tissue Disorders In study TAX316, alopecia persisting into the follow-up period after the end of chemotherapy was reported in 687 of 744 TAC patients (92.3%) and 645 of 736 FAC patients (87.6%).At the end of the follow-up period (actual median follow-up time of 8 years), alopecia was observed to be ongoing in 29 TAC patients (3.9%) and 16 FAC patients (2.2%).
+Skin and subcutaneous tissue disorders
 
-Reproductive System and Breast Disorders
+In study TAX316, alopecia persisting into the follow-up period after the end of chemotherapy was reported in 687 of 744 TAC patients (92.3%) and 645 of 736 FAC patients (87.6%).At the end of the follow-up period (actual median follow-up time of 8 years), alopecia was observed to be ongoing in 29 TAC patients (3.9%) and 16 FAC patients (2.2%).
+
+Reproductive system and breast disorders
 
 In study TAX316, amenorrhea that started during the treatment period and persisted into the follow-up period after the end of chemotherapy was reported in 202 of 744 TAC patients (27.2%)and 125 of 736 FAC patients (17.0%).
 Amenorrhea was observed to be ongoing at the end of the follow-up period(median follow-up time of 8 years) in 121 of 744 TAC patients(16.3%) and 86 FAC patients (11.7%).
 
-General Disorders and Administration Site Conditions
+General disorders and administration site conditions
 
 In study TAX316, peripheral edema that started during the treatment period and persisted into the follow-up period afterthe end of chemotherapy was observed in 119 of 744 TAC patients (16.0%) and 23 of 736 FAC patients (3.1%).
 
@@ -580,7 +582,7 @@ Gastric Cancer
 
 Combination therapy with docetaxel injection in gastric adenocarcinoma
 
-Data in the following table are based on the experience of 221 patients with advanced gastric adenocarcinoma and no history of prior chemotherapy for advanced disease, who were treated with docetaxel injection 75 mg/m2 in combination with cisplatin and fluorouracil (see Table 10).
+Data in the following table are based on the experience of 221 patients with advanced gastric adenocarcinoma and no history of prior chemotherapy for advanced disease who were treated with docetaxel injection 75 mg/m2 in combination with cisplatin and fluorouracil (see Table 10).
 
 Table 10: Clinically Important Treatment-Emergent Adverse Reactions Regardless ofRelationship to Treatment in the Gastric Cancer Study
 
@@ -625,7 +627,7 @@ Clinically important treatment-emergent adverse reactions were determined based 
 
 Head and Neck Cancer
 
-Combination therapy with docetaxel injection in head and neck cancer
+Combination therapy with Docetaxel Injection in head and neck cancer
 
 Table 11 summarizes the safety data obtained from patients that received induction chemotherapy with docetaxel injection 75 mg/m2 in combination with cisplatin and fluorouracil followed by radiotherapy (TAX323; 174 patients) or chemoradiotherapy (TAX324; 251 patients).
 The treatment regimens are described in Section 14.6.
@@ -687,43 +689,39 @@ Clinically important treatment-emergent adverse reactions based upon frequency, 
 ## 6.2 Postmarketing Experience
 
 The following adverse reactions have been identified from clinical trials and/or postmarketing surveillance.
-Because they are reported from a population of unknown size, precise estimates of frequency cannot be made.
+Because these reactions are reported from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 Body as a whole: diffuse pain, chest pain, radiation recall phenomenon, injection site recall reaction (recurrence of skin reaction at a site of previous extravasation following administration of docetaxel at a different site) at the site of previous extravasation.
 
 Cardiovascular: atrial fibrillation, deep vein thrombosis, ECG abnormalities, thrombophlebitis, pulmonary embolism, syncope, tachycardia, myocardial infarction, Ventricular arrhythmia including ventricular tachycardia has been reported in patients treated with docetaxel in combination regimens including doxorubicin, 5-fluorouracil and/or cyclophosphamide, and may be associated with fatal outcome.
 
-Cutaneous: very rare cases of cutaneous lupus erythematosus and rare cases of bullous eruptions such as erythema multiforme, Stevens-Johnson syndrome, toxic epidermal necrolysis, and Scleroderma-like changes usually preceded by peripheral lymphedema.
-In some cases multiple factors may have contributed to the development of these effects.
-Severe hand and foot syndrome has been reported.
-Cases of permanent alopecia have been reported.
+Cutaneous: cutaneous lupus erythematosus, bullous eruptions such as erythema multiforme and severe cutaneous adverse reactions (SCARs) such as Stevens-Johnson syndrome, toxic epidermal necrolysis, and acute generalized exanthematous pustulosis, scleroderma-like changes (usually preceded by peripheral lymphedema), severe palmar-plantar erythrodysesthesia and permanent alopecia have been reported.
 
-Gastrointestinal: enterocolitis, including colitis, ischemic colitis, and neutropenic enterocolitis, has been reported with a potential fatal outcome.
+Gastrointestinal: enterocolitis, including colitis, ischemic colitis, and neutropenic enterocolitis, has been reported with a fatal outcome.
 Abdominal pain, anorexia, constipation, duodenal ulcer, esophagitis, gastrointestinal hemorrhage, gastrointestinal perforation, intestinal obstruction, ileus, and dehydration as a consequence to gastrointestinal events have been reported.
 
-Hearing: rare cases of ototoxicity, hearing disorders and/or hearing loss have been reported, including cases associated with other ototoxic drugs.
+Hearing: ototoxicity, hearing disorders and/or hearing loss have been reported, including during use with other ototoxic drugs.
 
 Hematologic: bleeding episodes.
 Disseminated intravascular coagulation (DIC), often in association with sepsis or multiorgan failure, has been reported.
 
-Hepatic: rare cases of hepatitis, sometimes fatal primarily in patients with pre-existing liver disorders, have been reported.
+Hepatic: hepatitis, sometimes fatal, primarily in patients with pre-existing liver disorders, have been reported.
 
-Hypersensitivity: rare cases of anaphylactic shock have been reported.
-Very rarely these cases resulted in a fatal outcome in patients who received premedication.
-Hypersensitivity reactions with potential fatal outcome have been reported with docetaxel in patients who previously experienced hypersensitivity reactions to paclitaxel.
+Hypersensitivity: anaphylactic shock with fatal outcome in patients who received premedication.
+Severe hypersensitivity reactions with fatal outcome have been reported with docetaxel in patients who previously experienced hypersensitivity reactions to paclitaxel.
 
-Metabolism and nutrition disorders: electrolyte imbalance, including cases of hyponatremia, hypokalemia, hypomagnesemia, and hypocalcemia has been reported.
+Metabolism and nutrition disorders: electrolyte imbalance, including hyponatremia, hypokalemia, hypomagnesemia, and hypocalcemia has been reported.
 
-Neurologic: confusion, rare cases of seizures or transient loss of consciousness have been observed, sometimes appearing during the infusion of the drug.
+Neurologic: confusion, seizures or transient loss of consciousness have been observed, sometimes appearing during the infusion of the drug.
 
 Ophthalmologic: conjunctivitis, lacrimation or lacrimation with or without conjunctivitis.
 Excessive tearing which may be attributable to lacrimal duct obstruction has been reported.
-Rare cases of transient visual disturbances (flashes, flashing lights, scotomata) typically occurring during drug infusion and in association with hypersensitivity reactions have been reported.
+Transient visual disturbances (flashes, flashing lights, scotomata) typically occurring during drug infusion and in association with hypersensitivity reactions have been reported.
 These were reversible upon discontinuation of the infusion.
-Cases of cystoid macular edema (CME) have been reported in patients treated with docetaxel injection.
+Cystoid macular edema (CME) have been reported in patients treated with docetaxel injection.
 
-Respiratory: dyspnea, acute pulmonary edema, acute respiratory distress syndrome/pneumonitis, interstitial lung disease, interstitial pneumonia, respiratory failure, and pulmonary fibrosis have rarely been reported and may be associated with fatal outcome.
-Rare cases of radiation pneumonitis have been reported in patients receiving concomitant radiotherapy.
+Respiratory: dyspnea, acute pulmonary edema, acute respiratory distress syndrome/pneumonitis, interstitial lung disease, interstitial pneumonia, respiratory failure, and pulmonary fibrosis have been reported and may be associated with fatal outcome.
+Radiation pneumonitis has been reported in patients receiving concomitant radiotherapy.
 
 Renal: renal insufficiency and renal failure have been reported, the majority of these cases were associated with concomitant nephrotoxic drugs.
 

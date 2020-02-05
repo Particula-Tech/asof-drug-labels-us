@@ -41,6 +41,19 @@ Tell your healthcare provider right away if you have any of these signs of a sev
   Tell your healthcare provider or nurse before your docetaxel injection treatment if you forgot to take the corticosteroid dose or do not take it as your healthcare provider tells you.
   Tell your healthcare provider right away if you have swelling in your legs or feet, weight gain or shortness of breath.
 
+- Risk of new cancers.
+  An increase in new (second) cancers has happened in people treated with docetaxel injection together with certain other anticancer treatments.
+  This includes certain blood cancers, such as acute myeloid leukemia (AML), myelodysplastic syndrome (MDS), non-Hodgkin’s Lymphoma (NHL), and kidney cancer.
+  - Changes in blood counts due to leukemia and other blood disorders may occur years after treatment with docetaxel injection.
+
+Your healthcare provider will check you for new cancers during and after your treatment with docetaxel injection.
+
+- Severe skin problems Tell your healthcare provider right away if you have any of these signs of a severe skin reaction:
+  - redness and swelling of your arms and legs.
+  - blistering, peeling or bleeding on any part of your skin (including your lips, eyes, mouth, nose, genitals, hands or feet) with or without a rash.
+    You may also have flu-like symptoms such as fever, chills, or muscle aches.
+  - red, scaly rash all over your body with blisters small red or white bumps under the skin that contain pus (pustules) and fever.
+
 What is docetaxel injection?
 
 Docetaxel injection is a prescription anti-cancer medicine used to treat certain people with:
@@ -107,13 +120,6 @@ What are the possible side effects of docetaxel injection?
 Docetaxel injection may cause serious side effects including death.
 
 - See “What is the most important information I should know about docetaxel injection?”
-- Risk of new cancers.
-  An increase in new (second) cancers has happened in people treated with docetaxel injection together with certain other anticancer treatments.
-  This includes certain blood cancers, such as acute myeloid leukemia (AML), myelodysplastic syndrome (MDS), Non-Hodgkin’s Lymphoma (NHL), and kidney cancer.
-  Your healthcare provider will check you for new cancers during and after your treatment with docetaxel injection.
-  - Changes in blood counts due to leukemia and other blood disorders may occur years after treatment with docetaxel injection.
-- Skin Reactions including redness and swelling of your arms and legs with peeling of your skin.
-  Tell your healthcare provider if you are having a skin reaction.
 - Neurologic problems.
   Neurologic symptoms are common in people who receive docetaxel injection but can be severe.
   Tell your healthcare provider right away if you have numbness, tingling, or burning in your hands or feet (peripheral neuropathy) or weakness of your legs, feet, arms, or hands (motor weakness).
@@ -162,13 +168,14 @@ You may report side effects to FDA at 1-800-FDA-1088.
 General information about the safe and effective use of docetaxel injection.
 Medicines are sometimes prescribed for purposes other than those listed in this Patient Information.
 You can ask your pharmacist or healthcare provider for information about docetaxel injection that is written for health professionals.
-For more information, call 1-888-375-3784
 
 What are the ingredients in docetaxel injection?
-Active ingredient: docetaxel Inactive ingredients include: dehydrated alcohol, citric acid and polysorbate 80
+Active ingredient: docetaxel Inactive ingredients: dehydrated alcohol, citric acid and polysorbate 80
+
+For more information, call 1-888-375-3784
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 
 Rx Only Manufactured by: Dr. Reddy’s Laboratories Limited Visakhapatnam - 530 046 Andhra Pradesh, INDIA
 
-Revised: 0719
+Revised: 0120

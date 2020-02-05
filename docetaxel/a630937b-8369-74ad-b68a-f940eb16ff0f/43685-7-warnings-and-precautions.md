@@ -17,12 +17,19 @@ Among patients who experienced treatment-related mortality at the 75 mg/m2 dose 
 
 ## 5.2 Hepatic Impairment
 
-Patients with combined abnormalities of transaminases and alkaline phosphatase should not be treated with docetaxel injection [see Boxed Warning, Use in Specific Populations (8.6), Clinical Studies (14)].
+Patients with elevations of bilirubin or abnormalities of transaminase concurrent with alkaline phosphatase are at increased risk for the development of severe neutropenia, febrile neutropenia, infections, severe thrombocytopenia, severe stomatitis, severe skin toxicity, and toxic death.
+
+Avoid docetaxel injection in patients with bilirubin > upper limit of normal (ULN), or to patients with AST and/or ALT >1.5 × ULN concomitant with alkaline phosphatase >2.5 × ULN [see Warnings and Precautions (5.1)].
+
+For patients with isolated elevations of transaminase >1.5 × ULN, consider docetaxel injection dose modifications [see Dosage and Administration (2.7)].
+
+Measure bilirubin, AST or ALT, and alkaline phosphatase prior to each cycle of docetaxel injection therapy.
 
 ## 5.3 Hematologic Effects
 
 Perform frequent peripheral blood cell counts on all patients receiving docetaxel injection.
-Patients should not be retreated with subsequent cycles of docetaxel injection until neutrophils recover to a level >1500 cells/mm3 and platelets recover to a level > 100,000 cells/mm3.
+Do not retreat patients with subsequent cycles of docetaxel injection until neutrophils recover to a level >1500 cells/mm3 [see Contraindications (4)].
+Avoid retreating patients until platelets recover to a level > 100,000 cells/mm3.
 
 A 25% reduction in the dose of docetaxel injection is recommended during subsequent cycles following severe neutropenia (<500 cells/mm3) lasting 7 days or more, febrile neutropenia, or a grade 4 infection in a docetaxel injection cycle [see Dosage and Administration (2.7)].
 
@@ -47,13 +54,14 @@ Inform patients to contact their healthcare provider with new, or worsening symp
 
 ## 5.5 Hypersensitivity Reactions
 
-Patients should be observed closely for hypersensitivity reactions, especially during the first and second infusions.
-Severe hypersensitivity reactions characterized by generalized rash/erythema, hypotension and/or bronchospasm, or very rarely fatal anaphylaxis, have been reported in patients premedicated with 3 days of corticosteroids.
+Monitor patients closely for hypersensitivity reactions, especially during the first and second infusions.
+Severe hypersensitivity reactions characterized by generalized rash/erythema, hypotension and/or bronchospasm, or fatal anaphylaxis, have been reported in patients premedicated with 3 days of corticosteroids.
 Severe hypersensitivity reactions require immediate discontinuation of the docetaxel infusion and aggressive therapy.
-Patients with a history of severe hypersensitivity reactions should not be rechallenged with docetaxel injection.
+Do not rechallenge patients with a history of severe hypersensitivity reactions with docetaxel injection [see Contraindications (4)].
 
 Patients who have previously experienced a hypersensitivity reaction to paclitaxel may develop a hypersensitivity reaction to docetaxel that may include severe or fatal reactions such as anaphylaxis.
-Monitor patients with a previous history of hypersensitivity to paclitaxel closely during initiation of docetaxel injection therapy.Hypersensitivity reactions may occur within a few minutes following initiation of a docetaxel injection infusion.
+Monitor patients with a previous history of hypersensitivity to paclitaxel closely during initiation of docetaxel injection therapy.
+Hypersensitivity reactions may occur within a few minutes following initiation of a docetaxel infusion.
 If minor reactions such as flushing or localized skin reactions occur, interruption of therapy is not required.
 All patients should be premedicated with an oral corticosteroid prior to the initiation of the infusion of docetaxel injection [see Dosage and Administration (2.6)].
 
@@ -88,6 +96,10 @@ Localized erythema of the extremities with edema followed by desquamation has be
 In case of severe skin toxicity, an adjustment in dosage is recommended [see Dosage and Administration (2.7)].
 The discontinuation rate due to skin toxicity was 1.6% (15/965) for metastatic breast cancer patients.
 Among 92 breast cancer patients premedicated with 3-day corticosteroids, there were no cases of severe skin toxicity reported and no patient discontinued docetaxel injection due to skin toxicity.
+
+Severe cutaneous adverse reactions (SCARs) such as Stevens-Johnson syndrome (SJS), toxic epidermal necrolysis (TEN), and acute generalized exanthematous pustulosis (AGEP) have been reported in association with docetaxel treatment.
+Patients should be informed about the signs and symptoms of serious skin manifestations and monitored closely.
+Permanent treatment discontinuation should be considered in patients who experience SCARs.
 
 ## 5.9 Neurologic Reactions
 
