@@ -3,4 +3,4 @@ Manufactured by Hospira, Inc., a subsidiary of Pfizer Inc., Lake Forest, IL 6004
 This product's label may have been updated.
 For full prescribing information, please visit www.pfizer.com.
 
-LAB-0826-2.0
+LAB-0826-3.0
