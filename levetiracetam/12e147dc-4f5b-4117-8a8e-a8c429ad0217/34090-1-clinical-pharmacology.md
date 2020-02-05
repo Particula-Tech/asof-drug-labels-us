@@ -11,8 +11,8 @@ The predictive value of these animal models for specific types of human epilepsy
 
 In vitro and in vivo recordings of epileptiform activity from the hippocampus have shown that levetiracetam inhibits burst firing without affecting normal neuronal excitability, suggesting that levetiracetam may selectively prevent hypersynchronization of epileptiform burst firing and propagation of seizure activity.
 
-Levetiracetam at concentrations of up to 10 μM did not demonstrate binding affinity for a variety of known receptors, such as those associated with benzodiazepines, GABA (gamma-aminobutyric acid), glycine, NMDA (N-­methyl-D-aspartate), re-uptake sites, and second messenger systems.
-Furthermore, in vitro studies have failed to find an effect of levetiracetam on neuronal voltage-gated sodium or T-type calcium currents and levetiracetam does not appear to directly facilitate GABAergic neurotransmission.
+Levetiracetam at concentrations of up to 10 μM did not demonstrate binding affinity for a variety of known receptors, such as those associated with benzodiazepines, GABA (gamma-aminobutyric acid), glycine, NMDA (N-methyl-D-aspartate), re-uptake sites, and second messenger systems.
+Furthermore, in vitro studies have failed to find an effect of levetiracetam on neuronal voltage-gated sodium or T-type calcium currents, and levetiracetam does not appear to directly facilitate GABAergic neurotransmission.
 However, in vitro studies have demonstrated that levetiracetam opposes the activity of negative modulators of GABA- and glycine-gated currents and partially inhibits N-type calcium currents in neuronal cells.
 
 A saturable and stereoselective neuronal binding site in rat brain tissue has been described for levetiracetam.
@@ -24,18 +24,17 @@ These findings suggest that the interaction of levetiracetam with the SV2A prote
 
 Effects on QTc Interval
 
-The effects of levetiracetam extended-release tabletson QTc prolongation is expected to be the same as that of immediate-release levetiracetam tablets.
-The effect of immediate-release levetiracetam tabletson QTc prolongation was evaluated in a randomized, double-blind, positive-controlled (moxifloxacin 400 mg) and placebo-controlled crossover study of immediate-release levetiracetam tablets (1,000 mg or 5,000 mg) in 52 healthy subjects.
+The effects of ELEPSIA XR on QTc prolongation is expected to be the same as that of immediate-release levetiracetam tablets.
+The effect of immediate-release levetiracetam tablets on QTc prolongation was evaluated in a randomized, double-blind, positive-controlled (moxifloxacin 400 mg) and placebo-controlled crossover study of immediate-release levetiracetam tablets (1000 mg or 5000 mg) in 52 healthy subjects.
 The upper bound of the 90% confidence interval for the largest placebo-adjusted, baseline-corrected QTc was below 10 milliseconds.
 Therefore, there was no evidence of significant QTc prolongation in this study.
 
 ## 12.3 Pharmacokinetics
 
-Overview
-
-Bioavailability of levetiracetam extended-release tablets is similar to that of the immediate-release levetiracetam tablets.The pharmacokinetics (AUC and Cmax) were shown to be dose proportional after single dose administration of 1,000 mg, 2,000 mg, and 3,000 mg extended-release levetiracetam.
+Overview Bioavailability of levetiracetam extended-release tablets is similar to that of the immediate-release levetiracetam tablets.
+The pharmacokinetics (AUC and Cmax) were shown to be dose proportional after single dose administration of 1000 mg, 2000 mg, and 3000 mg extended-release levetiracetam.
 Plasma half-life of extended-release levetiracetam is approximately 7 hours.
-ELEPSIA XR 1,500 mg tablets are bioequivalent to Keppra XR (levetiracetam) extended release tablets (2 tablets of 750 mg) in both fasted and fed states.
+ELEPSIA XR 1500 mg tablets are bioequivalent to Keppra XR (levetiracetam) extended release tablets (2 tablets of 750 mg) in both fasted and fed states.
 
 Levetiracetam is almost completely absorbed after oral administration.
 The pharmacokinetics of levetiracetam are linear and time-invariant, with low intra- and inter-subject variability.
@@ -47,9 +46,7 @@ The metabolites have no known pharmacological activity and are renally excreted.
 Plasma half-life of levetiracetam across studies is approximately 6 to 8 hours.
 The half-life is increased in the elderly (primarily due to impaired renal clearance) and in subjects with renal impairment.
 
-Absorption and Distribution
-
-Extended-release levetiracetam peak plasma concentrations occur in about 4 hours.
+Absorption and Distribution Extended-release levetiracetam peak plasma concentrations occur in about 4 hours.
 The time to peak plasma concentrations is about 3 hours longer with extended-release levetiracetam than with immediate-release tablets.
 After multiple dose levetiracetam extended-release tablets intake, extent of exposure (AUC0-24) was similar to extent of exposure after multiple dose immediate-release tablets intake.
 Cmax and Cmin were lower by 17% and 26% after multiple dose levetiracetam extended-release tablets intake in comparison to multiple dose immediate-release tablets intake.
@@ -57,117 +54,82 @@ Intake of a high fat, high calorie breakfast before the administration of leveti
 The median time to peak (Tmax) was 3 to 4.5 hours longer in the fed state.
 There was no effect on peak plasma concentration however; the extent of exposure (AUC) was 21 to 25% higher.
 
-Metabolism
-
-Levetiracetam is not extensively metabolized in humans.
+Metabolism Levetiracetam is not extensively metabolized in humans.
 The major metabolic pathway is the enzymatic hydrolysis of the acetamide group, which produces the carboxylic acid metabolite, ucb L057 (24% of dose) and is not dependent on any liver cytochrome P450 isoenzymes.
 The major metabolite is inactive in animal seizure models.
 Two minor metabolites were identified as the product of hydroxylation of the 2-oxo-pyrrolidine ring (2% of dose) and opening of the 2-oxo-pyrrolidine ring in position 5 (1% of dose).
 There is no enantiomeric interconversion of levetiracetam or its major metabolite.
 
-Elimination
-
-Levetiracetam plasma half-life in adults is 7 ± 1 hour and is unaffected by either dose or repeated administration.
+Elimination Levetiracetam plasma half-life in adults is 7 ± 1 hour and is unaffected by either dose or repeated administration.
 Levetiracetam is eliminated from the systemic circulation by renal excretion as unchanged drug which represents 66% of administered dose.
 The total body clearance is 0.96 mL/min/kg and the renal clearance is 0.6 mL/min/kg.
 The mechanism of excretion is glomerular filtration with subsequent partial tubular reabsorption.
 The metabolite ucb L057 is excreted by glomerular filtration and active tubular secretion with a renal clearance of 4 mL/min/kg.
 Levetiracetam elimination is correlated to creatinine clearance.
-Levetiracetam clearance is reduced in patients with impaired renal function [see Use in Specific Populations (8.6)and Dosage and Administration (2.1)].
+Levetiracetam clearance is reduced in patients with impaired renal function [see Dosage and Administration (2.2) and Use in Specific Populations (8.6)].
 
-Special Populations
-
-Elderly
-
-There are insufficient pharmacokinetic data to specifically address the use of extended-release levetiracetam in the elderly population.
+Specific Populations Elderly There are insufficient pharmacokinetic data to specifically address the use of extended-release levetiracetam in the elderly population.
 
 Pharmacokinetics of immediate-release levetiracetam were evaluated in 16 elderly subjects (age 61 to 88 years) with creatinine clearance ranging from 30 to 74 mL/min.
 Following oral administration of twice-daily dosing for 10 days, total body clearance decreased by 38% and the half-life was 2.5 hours longer in the elderly compared to healthy adults.
 This is most likely due to the decrease in renal function in these subjects.
 
-Pediatric Patients
-
-An open label, multicenter, parallel-group, two-arm study was conducted to evaluate the pharmacokinetics of extended-release levetiracetam in pediatric patients (13 to 16 years old) and in adults (18 to 55 years old) with epilepsy.
-Levetiracetam extended-release tablets (1,000 mg to 3,000 mg) were administered once daily with a minimum of 4 days and a maximum of 7 days of treatment to 12 pediatric patients and 13 adults in the study.
+Pediatric Patients An open label, multicenter, parallel-group, two-arm study was conducted to evaluate the pharmacokinetics of extended-release levetiracetam in pediatric patients (13 to 16 years old) and in adults (18 to 55 years old) with epilepsy.
+Levetiracetam extended-release tablets (1000 mg to 3000 mg) were administered once daily with a minimum of 4 days and a maximum of 7 days of treatment to 12 pediatric patients and 13 adults in the study.
 Dose-normalized steady-state exposure parameters, Cmax and AUC, were comparable between pediatric and adult patients.
 
-Pregnancy
+Pregnancy Levetiracetam levels may decrease during pregnancy [see Warnings and Precautions (5.9)].
 
-Levetiracetam extended-release tablets levels may decrease during pregnancy.
-
-Gender
-
-When given in a single dose, extended-release levetiracetam Cmax was 21 to 30% higher and AUC was 8 to 18% higher in women (N=12) compared to men (N=12).
+Gender When given in a single dose, extended-release levetiracetam Cmax was 21 to 30% higher and AUC was 8 to 18% higher in women (N=12) compared to men (N=12).
 However, clearances adjusted for body weight were comparable.
 Similar results were observed in a multiple dose study.
 
-Race
-
-Formal pharmacokinetic studies of the effects of race have not been conducted with extended-release or immediate-release levetiracetam.
+Race Formal pharmacokinetic studies of the effects of race have not been conducted with extended-release or immediate-release levetiracetam.
 Cross study comparisons involving Caucasians (N=12) and Asians (N=12), however, show that pharmacokinetics of immediate-release levetiracetam were comparable between the two races.
 Because levetiracetam is primarily renally excreted and there are no important racial differences in creatinine clearance, pharmacokinetic differences due to race are not expected.
 
-Renal Impairment
-
-The effect of levetiracetam extended-release tablets on renally impaired patients was not assessed in the controlled study.
+Renal Impairment The effect of levetiracetam extended-release tablets on renally impaired patients was not assessed in the controlled study.
 However, it is expected that the effect on ELEPSIA XR-treated patients would be similar to that seen in controlled studies of immediate-release levetiracetam tablets.
 
 The disposition of immediate-release levetiracetam was studied in adult subjects with varying degrees of renal function.
-Total body clearance of levetiracetam is reduced in patients with impaired renal function by 40% in the mild group (CLcr = 50 to 80 mL/min), 50% in the moderate group (CLcr = 30 to 50 mL/min) and 60% in the severe renal impairment group (CLcr <30 mL/min).
+Total body clearance of levetiracetam is reduced in patients with impaired renal function by 40% in the mild group (CLcr = 50 to 80 mL/min), 50% in the moderate group (CLcr = 30 to 50 mL/min), and 60% in the severe renal impairment group (CLcr <30 mL/min) [see Dosage and Administration (2.2) and Use in Specific Populations (8.6)].
 Clearance of levetiracetam is correlated with creatinine clearance.
 
 In anuric (end stage renal disease) patients, the total body clearance decreased 70% compared to normal subjects (CLcr >80 mL/min).
 Approximately 50% of the pool of levetiracetam in the body is removed during a standard 4- hour hemodialysis procedure.
 
-Hepatic Impairment
-
-In subjects with mild (Child-Pugh A) to moderate (Child-Pugh B) hepatic impairment, the pharmacokinetics of levetiracetam were unchanged.
+Hepatic Impairment In subjects with mild (Child-Pugh A) to moderate (Child-Pugh B) hepatic impairment, the pharmacokinetics of levetiracetam were unchanged.
 In patients with severe hepatic impairment (Child-Pugh C), total body clearance was 50% that of normal subjects, but decreased renal clearance accounted for most of the decrease.
+No dose adjustment is needed for patients with hepatic impairment.
 
-Drug Interactions:
-
-In vitro data on metabolic interactions indicate that levetiracetam is unlikely to produce, or be subject to, pharmacokinetic interactions.
-Levetiracetam and its major metabolite, at concentrations well above Cmax levels achieved within the therapeutic dose range, are neither inhibitors of, nor high affinity substrates for, human liver cytochrome P450 isoforms, epoxide hydrolase or UDP-­glucuronidation enzymes.
+Drug Interactions In vitro data on metabolic interactions indicate that levetiracetam is unlikely to produce, or be subject to, pharmacokinetic interactions.
+Levetiracetam and its major metabolite, at concentrations well above Cmax levels achieved within the therapeutic dose range, are neither inhibitors of, nor high affinity substrates for, human liver cytochrome P450 isoforms, epoxide hydrolase, or UDP-glucuronidation enzymes.
 In addition, levetiracetam does not affect the in vitro glucuronidation of valproic acid.
 
 Potential pharmacokinetic interactions of or with levetiracetam were assessed in clinical pharmacokinetic studies (phenytoin, valproate, warfarin, digoxin, oral contraceptive, probenecid) and through pharmacokinetic screening with immediate-release levetiracetam tablets in the placebo-controlled clinical studies in epilepsy patients.
-The potential for drug interactions for levetiracetam extended-release tablets is expected to be essentially the same as that with immediate-release levetiracetam tablets.
+The potential for drug interactions for ELEPSIA XR is expected to be essentially the same as that with immediate-release levetiracetam tablets.
 
-Phenytoin
-
-Immediate-release levetiracetam tablets (3,000 mg daily) had no effect on the pharmacokinetic disposition of phenytoin in patients with refractory epilepsy.
+Phenytoin Immediate-release levetiracetam tablets (3000 mg daily) had no effect on the pharmacokinetic disposition of phenytoin in patients with refractory epilepsy.
 Pharmacokinetics of levetiracetam were also not affected by phenytoin.
 
-Valproate
-
-Immediate-release levetiracetam tablets (1,500 mg twice daily) did not alter the pharmacokinetics of valproate in healthy volunteers.
+Valproate Immediate-release levetiracetam tablets (1500 mg twice daily) did not alter the pharmacokinetics of valproate in healthy volunteers.
 Valproate 500 mg twice daily did not modify the rate or extent of levetiracetam absorption or its plasma clearance or urinary excretion.
 There also was no effect on exposure to and the excretion of the primary metabolite, ucb L057.
 
-Other Antiepileptic Drugs
-
-Potential drug interactions between immediate-release levetiracetam tablets and other AEDs (carbamazepine, gabapentin, lamotrigine, phenobarbital, phenytoin, primidone and valproate) were also assessed by evaluating the serum concentrations of levetiracetam and these AEDs during placebo-controlled clinical studies.
+Other Antiepileptic Drugs Potential drug interactions between immediate-release levetiracetam tablets and other AEDs (carbamazepine, gabapentin, lamotrigine, phenobarbital, phenytoin, primidone, and valproate) were also assessed by evaluating the serum concentrations of levetiracetam and these AEDs during placebo-controlled clinical studies.
 These data indicate that levetiracetam does not influence the plasma concentration of other AEDs and that these AEDs do not influence the pharmacokinetics of levetiracetam.
 
-Oral Contraceptives
-
-Immediate-release levetiracetam tablets (500 mg twice daily) did not influence the pharmacokinetics of an oral contraceptive containing 0.03 mg ethinyl estradiol and 0.15 mg levonorgestrel, or of the luteinizing hormone and progesterone levels, indicating that impairment of contraceptive efficacy is unlikely.
+Oral Contraceptives Immediate-release levetiracetam tablets (500 mg twice daily) did not influence the pharmacokinetics of an oral contraceptive containing 0.03 mg ethinyl estradiol and 0.15 mg levonorgestrel, or of the luteinizing hormone and progesterone levels, indicating that impairment of contraceptive efficacy is unlikely.
 Coadministration of this oral contraceptive did not influence the pharmacokinetics of levetiracetam.
 
-Digoxin
-
-Immediate-release levetiracetam tablets (1,000 mg twice daily) did not influence the pharmacokinetics and pharmacodynamics (ECG) of digoxin given as a 0.25 mg dose every day.
+Digoxin Immediate-release levetiracetam tablets (1000 mg twice daily) did not influence the pharmacokinetics and pharmacodynamics (ECG) of digoxin given as a 0.25 mg dose every day.
 Coadministration of digoxin did not influence the pharmacokinetics of levetiracetam.
 
-Warfarin
-
-Immediate-release levetiracetam tablets (1,000 mg twice daily) did not influence the pharmacokinetics of R and S warfarin.
+Warfarin Immediate-release levetiracetam tablets (1000 mg twice daily) did not influence the pharmacokinetics of R and S warfarin.
 Prothrombin time was not affected by levetiracetam.
 Coadministration of warfarin did not affect the pharmacokinetics of levetiracetam.
 
-Probenecid
-
-Probenecid, a renal tubular secretion blocking agent, administered at a dose of 500 mg four times a day, did not change the pharmacokinetics of levetiracetam 1,000 mg twice daily.
-Cssmax of the metabolite, ucb L057, was approximately doubled in the presence of probenecid while the fraction of drug excreted unchanged in the urine remained the same.
+Probenecid Probenecid, a renal tubular secretion blocking agent, administered at a dose of 500 mg four times a day, did not change the pharmacokinetics of levetiracetam 1000 mg twice daily.
+Css max of the metabolite, ucb L057, was approximately doubled in the presence of probenecid while the fraction of drug excreted unchanged in the urine remained the same.
 Renal clearance of ucb L057 in the presence of probenecid decreased 60%, probably related to competitive inhibition of tubular secretion of ucb L057.
 The effect of immediate-release levetiracetam tablets on probenecid was not studied.

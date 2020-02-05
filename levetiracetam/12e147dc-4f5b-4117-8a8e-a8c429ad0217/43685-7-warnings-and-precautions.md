@@ -1,36 +1,39 @@
 # 5 WARNINGS AND PRECAUTIONS
 
-## 5.1 Psychiatric Reactions
+## 5.1 Behavioral Abnormalities and Psychotic Symptoms
 
-Patients taking ELEPSIA XR should be monitored for behavioral abnormalities.
+ELEPSIA XR may cause behavioral abnormalities and psychotic symptoms.
+Patients treated with ELEPSIA XR should be monitored for psychiatric signs and symptoms.
 
-Levetiracetam Extended-Release Tablets
+Behavioral Abnormalities
 
-A total of 6.5% of patients treated with levetiracetam extended-release tablets experienced non-psychotic behavioral disorders (reported as irritability and aggression), compared to no patient on placebo.
-Irritability was reported in 6.5% of patients treated with levetiracetam extended-release tablets.
-Aggression was reported in 1.3% of patients treated with levetiracetam extended-release tablets.
+Levetiracetam Extended-Release Tablets A total of 7% of levetiracetam extended-release tablets-treated patients experienced non-psychotic behavioral disorders (reported as irritability and aggression), compared to 0% of placebo-treated patients.
+Irritability was reported in 7% of levetiracetam extended-release tablet-treated patients.
+Aggression was reported in 1% of levetiracetam extended-release tablet-treated patients.
 
 No patient discontinued treatment or had a dose reduction as a result of these adverse reactions.
 
-There is considerably less controlled clinical trial experience with levetiracetam extended-release tablets than with immediate-release levetiracetam tablets, and some adverse reactions observed with immediate-release levetiracetam tablets may not have been detected in levetiracetam extended-release tablets clinical trials because of limited number of patients.
-These adverse reactions may however occur in patients receiving ELEPSIA XR.
+The number of patients exposed to levetiracetam extended-release tablets was considerably smaller than the number of patients exposed to immediate-release levetiracetam tablets in controlled trials.
+Therefore, certain adverse reactions observed in the immediate-release levetiracetam controlled trials will likely to occur in patients receiving ELEPSIA XR.
 
-Immediate-Release Levetiracetam Tablets
-
-A total of 13.3% of adult patients and 37.6% of pediatric patients (4 to 16 years of age) treated with immediate-release levetiracetam tablets experienced non-psychotic behavioral symptoms (reported as aggression, agitation, anger, anxiety, apathy, depersonalization, depression, emotional lability, hostility, hyperkinesias, irritability, nervousness, neurosis, and personality disorder), compared to 6.2% and 18.6% of adult and pediatric patients on placebo.
+Immediate-Release Levetiracetam Tablets A total of 13% of adult patients and 38% of pediatric patients (4 to 16 years of age) treated with immediate-release levetiracetam tablets experienced non-psychotic behavioral symptoms (reported as aggression, agitation, anger, anxiety, apathy, depersonalization, depression, emotional lability, hostility, hyperkinesias, irritability, nervousness, neurosis, and personality disorder), compared to 6% and 19% of adult and pediatric patients on placebo.
 A randomized, double-blind, placebo-controlled study was performed to assess the neurocognitive and behavioral effects of immediate-release levetiracetam tablets as adjunctive therapy in pediatric patients (4 to 16 years of age).
 An exploratory analysis suggested a worsening in aggressive behavior in patients treated with immediate-release levetiracetam tablets in that study [see Use in Specific Populations (8.4)].
 
-A total of 1.7% of adult patients treated with immediate-release levetiracetam tablets discontinued treatment due to behavioral adverse events, compared to 0.2% of patients on placebo.
-The treatment dose was reduced in 0.8% of adult patients treated with immediate-release levetiracetam tablets, compared to 0.5% of patients on placebo.
-Overall, 10.9% of pediatric patients treated with immediate-release levetiracetam tablets experienced behavioral symptoms associated with discontinuation or dose reduction, compared to 6.2% of pediatric patients on placebo.
+A total of 1.7% of adult patients treated with immediate-release levetiracetam tablets discontinued treatment due to behavioral adverse reactions, compared to 0.2% of placebo-treated patients.
+The treatment dose was reduced in 0.8% of adult patients treated with immediate-release levetiracetam tablets, compared to 0.5% of placebo-treated patients.
+Overall, 11% of pediatric patients treated with immediate-release levetiracetam tablets experienced behavioral symptoms associated with discontinuation or dose reduction, compared to 6.2% of placebo-treated pediatric patients.
 
-One percent of adult patients and 2% of pediatric patients (4 to 16 years of age) treated with immediate-release levetiracetam tablets experienced psychotic symptoms, compared to 0.2% and 2%, respectively, in adult and pediatric patients on placebo.
-In the controlled study that assessed the neurocognitive and behavioral effects of immediate-release levetiracetam tablets in pediatric patients 4 to 16 years of age, 1 (1.6%) patient treated with levetiracetam experienced paranoia, compared to no patients on placebo.
-There were 2 (3.1%) patients treated with immediate-release levetiracetam tablets who experienced confusional state, compared to no patients on placebo [see Use in Specific Populations (8.4)].
+One percent of adult patients and 2% of pediatric patients (4 to 16 years of age) treated with immediate-release levetiracetam tablets experienced psychotic symptoms, compared to 0.2% and 2%, respectively, in adult and pediatric placebo-treated patients.
+In the controlled study that assessed the neurocognitive and behavioral effects of immediate-release levetiracetam tablets in pediatric patients 4 to 16 years of age, 1.6% levetiracetam -treated patients experienced paranoia, compared to no placebo-treated patients.
+There were 3.1% patients treated with immediate-release levetiracetam tablets who experienced confusional state, compared to no placebo-treated patients [see Use in Specific Populations (8.4)].
 
-Two (0.3%) adult patients treated with immediate-release levetiracetam tablets were hospitalized, and their treatment was discontinued due to psychosis.
-In both patients, the psychosis event developed within the first week of treatment, and resolved within 1 to 2 weeks following treatment discontinuation.
+Psychotic Symptoms
+
+Immediate-Release Levetiracetam Tablets One percent of immediate-release levetiracetam tablets-treated adult patients experienced psychotic symptoms, compared to 0.2% of placebo-treated patients.
+
+Two (0.3%) immediate-release levetiracetam tablets-treated adult patients were hospitalized and their treatment was discontinued due to psychosis.
+Both events, reported as psychosis, developed within the first week of treatment and resolved within 1 to 2 weeks following treatment discontinuation.
 There was no difference between drug and placebo-treated patients in the incidence of pediatric patients who discontinued treatment due to psychotic and non-psychotic adverse reactions.
 
 ## 5.2 Suicidal Behavior and Ideation
@@ -50,9 +53,9 @@ The finding of increased risk with AEDs of varying mechanisms of action and acro
 The risk did not vary substantially by age (5 to 100 years) in the clinical trials analyzed.
 Table 2 shows absolute and relative risk by indication for all evaluated AEDs.
 
-Table 2 Risk By Indication For Antiepileptic Drugs In The Pooled Analysis
+Table 2: Risk by Indication for Antiepileptic Drugs in the Pooled Analysis
 
-| Indication | Placebo Patients with Events Per 1,000 Patients | Drug Patients with Events Per 1,000 Patients | Relative Risk: Incidence of Events in Drug Patients/Incidence in Placebo Patients | Risk Difference: Additional Drug Patients with Events Per 1,000 Patients |
+| Indication | Placebo Patients with Events Per 1000 Patients | Drug Patients with Events Per 1000 Patients | Relative Risk: Incidence of Events in Drug Patients/Incidence in Placebo Patients | Risk Difference: Additional Drug Patients with Events Per 1000 Patients |
 | --- | --- | --- | --- | --- |
 | Epilepsy | 1 | 3.4 | 3.5 | 2.4 |
 | Psychiatric | 5.7 | 8.5 | 1.5 | 2.9 |
@@ -65,71 +68,79 @@ Anyone considering prescribing ELEPSIA XR or any other AED must balance the risk
 Epilepsy and many other illnesses for which AEDs are prescribed are themselves associated with morbidity and mortality and an increased risk of suicidal thoughts and behavior.
 Should suicidal thoughts and behavior emerge during treatment, the prescriber needs to consider whether the emergence of these symptoms in any given patient may be related to the illness being treated.
 
-Patients, their caregivers, and families should be informed that AEDs increase the risk of suicidal thoughts and behavior and should be advised of the need to be alert for the emergence or worsening of the signs and symptoms of depression, any unusual changes in mood or behavior, or the emergence of suicidal thoughts, behavior, or thoughts about self-harm.
-Behaviors of concern should be reported immediately to healthcare providers.
-
 ## 5.3 Somnolence and Fatigue
 
-Patients should be monitored for somnolence and fatigue, and be advised not to drive or operate machinery until they have gained sufficient experience on levetiracetam extended-release tabletsto gauge whether it adversely affects their ability to drive or operate machinery.
-In clinical trials of immediate-release levetiracetam tablets, somnolence and asthenia occurred most frequently within the first 4 weeks of treatment.
+ELEPSIA XR may cause somnolence and fatigue.
+Patients should be monitored for these signs and symptoms and advised not to drive or operate machinery until they have gained sufficient experience on ELEPSIA XR to gauge whether it adversely affects their ability to drive or operate machinery.
 
-Levetiracetam Extended-Release Tablets
+Somnolence
 
-In the levetiracetam extended-release tablets double-blind, controlled trial in patients experiencing partial onset seizures, 7.8% of patients treated with levetiracetam extended-release tablets experienced somnolence compared to 2.5% of patients on placebo.
+Levetiracetam Extended-Release Tablets In the levetiracetam extended-release tablets double-blind, controlled trial in patients experiencing partial-onset seizures, 8% of levetiracetam extended-release tablets-treated patients experienced somnolence, compared to 3% of placebo-treated patients.
 
 No patient discontinued treatment or had a dose reduction as a result of these adverse reactions.
 
-There is considerably less controlled clinical trial experience with levetiracetam extended-release tablets than with immediate-release levetiracetam tablets, and some adverse reactions observed with immediate-release levetiracetam tablets may not have been detected in levetiracetam extended-release tablets clinical trials because of limited number of patients.
-These adverse reactions may however occur in patients receiving ELEPSIA XR.
+The number of patients exposed to levetiracetam extended-release tablets was considerably smaller than the number of patients exposed to immediate-release levetiracetam tablets in controlled trials.
+Therefore, certain adverse reactions observed in the immediate-release levetiracetam tablets controlled trials will likely occur in patients receiving ELEPSIA XR.
 
-Immediate-Release Levetiracetam Tablets
+Immediate-Release Levetiracetam Tablets In controlled trials of adult patients with epilepsy experiencing partial-onset seizures, 15% of immediate-release levetiracetam tablets-treated patients reported somnolence, compared to 8% of placebo treated patients.
+There was no clear dose response up to 3000 mg/day.
+In a study where there was no titration, about 45% of patients receiving 4000 mg/day (1.33 times the maximum recommended dosage) reported somnolence.
+The somnolence was considered serious in 0.3% of the immediate-release levetiracetam tablets-treated patients, compared to 0% in the placebo group.
+About 3% of immediate-release levetiracetam tablets-treated patients discontinued treatment due to somnolence, compared to 0.7% of placebo-treated patients.
+In 1.4% of immediate-release levetiracetam tablets-treated patients and in 0.9% of placebo-treated patients the dose was reduced, while 0.3% of the treated patients were hospitalized due to somnolence.
 
-In general, the incidences of somnolence and fatigue in the pediatric partial onset seizure studies were comparable to those of the adult partial onset seizure studies.
+Asthenia
 
-In controlled trials of adult patients with epilepsy experiencing partial onset seizures, 14.8% of patients treated with immediate-release levetiracetam tablets reported somnolence, compared to 8.4% of patients on placebo.
-There was no clear dose response up to 3,000 mg/day.
-In a study in which there was no titration, about 45% of patients receiving 4,000 mg/day reported somnolence.
-The somnolence was considered serious in 0.3% of patients treated with immediate-release levetiracetam tablets, compared to no patients on placebo.
-About 3% of patients treated with immediate-release levetiracetam tablets discontinued treatment due to somnolence, compared to 0.7% of patients on placebo.
-The dose was reduced due to somnolence in 1.4% of patients treated with immediate-release levetiracetam tablets and in 0.9% of patients on placebo, while 0.3% of the patients treated with immediate-release levetiracetam tablets were hospitalized due to somnolence.
+Immediate-Release Levetiracetam Tablets In controlled trials of adult patients with epilepsy experiencing partial-onset seizures, 15% of immediate-release levetiracetam tablets-treated patients reported asthenia, compared to 9% of placebo-treated patients.
+Treatment was discontinued due to asthenia in 0.8% of immediate-release levetiracetam tablets-treated patients, as compared to 0.5% of placebo treated patients.
+In 0.5% of immediate-release levetiracetam tablets-treated patients and in 0.2% of placebo-treated patients, the dose was reduced due to asthenia.
 
-In controlled trials of adult patients with epilepsy experiencing partial onset seizures, 14.7% of patients treated with immediate-release levetiracetam tablets reported asthenia, compared to 9.1% of patients on placebo.
-Treatment was discontinued due to asthenia in 0.8% of patients treated with immediate-release levetiracetam tablets, compared to 0.5% of patients on placebo.
-The dose was reduced due to asthenia in 0.5% of patients treated with immediate-release levetiracetam tablets and in 0.2% of patients on placebo.
+Somnolence and asthenia occurred most frequently within the first 4 weeks of treatment.
 
-## 5.4 Serious Dermatological Reactions
+## 5.4 Anaphylaxis and Angioedema
 
-Serious dermatological reactions, including Stevens-Johnson syndrome (SJS) and toxic epidermal necrolysis (TEN), have been reported in both children and adults treated with levetiracetam.
+ELEPSIA XR can cause anaphylaxis or angioedema after the first dose or at any time during treatment.
+Signs and symptoms in cases reported in the postmarketing setting in patients treated with levetiracetam have included hypotension, hives, rash, respiratory distress, and swelling of the face, lip, mouth, eye, tongue, throat, and feet.
+In some reported cases, reactions were life-threatening and required emergency treatment.
+If a patient develops signs or symptoms of anaphylaxis or angioedema, ELEPSIA XR should be discontinued and the patient should seek immediate medical attention.
+ELEPSIA XR should be discontinued permanently if a clear alternative etiology for the reaction cannot be established [see Contraindications (4)].
+
+## 5.5 Serious Dermatological Reactions
+
+Serious dermatological reactions, including Stevens-Johnson syndrome (SJS) and toxic epidermal necrolysis (TEN), have been reported in patients treated with levetiracetam.
 The median time of onset is reported to be 14 to 17 days, but cases have been reported at least four months after initiation of treatment.
 Recurrence of the serious skin reactions following rechallenge with levetiracetam has also been reported.
-Levetiracetam extended-release tablets should be discontinued at the first sign of a rash, unless the rash is clearly not drug-related.
+ELEPSIA XR should be discontinued at the first sign of a rash, unless the rash is clearly not drug-related.
 If signs or symptoms suggest SJS/TEN, use of this drug should not be resumed and alternative therapy should be considered.
 
-## 5.5 Coordination Difficulties
+## 5.6 Coordination Difficulties
 
-Patients should be monitored for coordination difficulties and advised not to drive or operate machinery until they have gained sufficient experience on levetiracetam extended-release tablets to gauge whether it could adversely affect their ability to drive or operate machinery.
+Coordination difficulties were not observed in the extended-release levetiracetam controlled trials, however, the number of patients exposed to levetiracetam extended-release tablets was considerably smaller than the number of patients exposed to immediate-release levetiracetam tablets in controlled trials.
+However, adverse reactions observed in the immediate-release levetiracetam controlled trials may also occur in patients receiving ELEPSIA XR.
 
-A total of 3.4% of adult patients treated with immediate-release levetiracetam tabletsexperienced coordination difficulties, (reported as either ataxia, abnormal gait, or incoordination), compared to 1.6% of patients on placebo.
-A total of 0.4% of patients in controlled trials discontinued immediate-release levetiracetam tablets treatment due to ataxia, compared to no patients on placebo.
-In 0.7% of patients treated with immediate-release levetiracetam tabletsand in 0.2% of patients on placebo, the dose was reduced due to coordination difficulties, while one of the treated patients was hospitalized due to worsening of preexisting ataxia.
+Immediate-Release Levetiracetam Tablets A total of 3.4% of adult immediate-release levetiracetam tablets-treated patients experienced coordination difficulties, (reported as either ataxia, abnormal gait, or incoordination), compared to 1.6% of placebo-treated patients.
+A total of 0.4% of patients in controlled trials discontinued immediate-release levetiracetam tablets treatment due to ataxia, compared to 0% of placebo-treated patients.
+In 0.7% of immediate-release levetiracetam tablets-treated patients and in 0.2% of placebo-treated patients, the dose was reduced due to coordination difficulties, while one of the immediate-release levetiracetam tablets-treated patients was hospitalized due to worsening of preexisting ataxia.
 These events occurred most frequently within the first 4 weeks of treatment.
 
-Coordination difficulties were not observed in the levetiracetam extended-release tablets controlled trial.
-There is considerably less controlled clinical trial experience with levetiracetam extended-release tablets than with immediate-release levetiracetam tablets, and some adverse reactions observed with immediate-release levetiracetam tablets may not have been detected in levetiracetam extended-release tablets clinical trials because of limited number of patients.
-These adverse reactions may however occur in patients receiving ELEPSIA XR.
+Patients should be monitored for these signs and symptoms and advised not to drive or operate machinery until they have gained sufficient experience on ELEPSIA XR to gauge whether it could adversely affect their ability to drive or operate machinery.
 
-## 5.6 Withdrawal Seizures
+## 5.7 Withdrawal Seizures
 
-Antiepileptic drugs, including ELEPSIA XR, should be withdrawn gradually to minimize the potential of increased seizure frequency.
+As with most antiepileptic drugs, ELEPSIA XR should be withdrawn gradually because of the risk of increased seizure frequency and status epilepticus [see Dosage and Administration (2.3)].
+But if withdrawal is needed because of an adverse event, rapid discontinuation can be considered.
 
-## 5.7 Hematologic Abnormalities
+## 5.8 Hematologic Abnormalities
 
-Although there were no obvious hematologic abnormalities observed in the levetiracetam extended-release tablets controlled study, there is considerably less controlled clinical trial experience with levetiracetam extended-release tablets than with immediate-release levetiracetam tablets, and some adverse reactions observed with immediate-release levetiracetam tablets may not have been detected in levetiracetam extended-release tablets clinical trials because of limited number of patients.
-These adverse reactions may however occur in patients receiving ELEPSIA XR.
+ELEPSIA XR can cause hematologic abnormalities.
+Hematologic abnormalities occurred in clinical trials of immediate-release levetiracetam and included decreases in white blood cells (WBC), neutrophil, and red blood cell (RBC) counts; decreases in hemoglobin and hematocrit; and increases in eosinophil counts.
+Cases of agranulocytosis, pancytopenia, and thrombocytopenia have also been reported in the postmarketing setting.
+A complete blood count is recommended in patients experiencing significant weakness, pyrexia, recurrent infections, or coagulation disorders.
 
-In controlled trials, a minor but statistically significant decrease (compared to placebo) in total mean RBC count (0.03 x 106/mm3), mean hemoglobin (0.09 g/dL), and mean hematocrit (0.38%), was seen in adult patients treated with immediate-release levetiracetam tablets.
-A total of 3.2% of adult patients treated with immediate-release levetiracetam tablets, and 1.8% of patients on placebo had at least one possibly significant (≤2.8 x 109/L) decreased WBC, and 2.4% of patients treated with immediate-release levetiracetam tablets vs. 1.4% of patients on placebo had at least one possibly significant (≤1.0 x 109/L) decreased neutrophil count.
-Of the patients treated with immediate-release levetiracetam tablets with a low neutrophil count, all but one rose towards or to baseline with continued treatment.
+Immediate-Release Levetiracetam Tablets In controlled trials of immediate-release levetiracetam tablets in patients experiencing partial-onset seizures, minor, but statistically significant, decreases compared to placebo in total mean RBC count (0.03 x 106/mm3), mean hemoglobin (0.09 g/dL), and mean hematocrit (0.38%), were seen in immediate-release levetiracetam tablets-treated patients.
+
+A total of 3.2% of immediate-release levetiracetam tablets-treated and 1.8% of placebo-treated patients had at least one possibly significant (≤2.8 x 109/L) decreased WBC, and 2.4% of immediate-release levetiracetam tablets-treated and 1.4% of placebo-treated patients had at least one possibly significant (≤1.0 x 109/L) decreased neutrophil count.
+Of the immediate-release levetiracetam tablets-treated patients with a low neutrophil count, all but one rose towards or to baseline with continued treatment.
 No patient was discontinued secondary to low neutrophil counts.
 
 In pediatric patients (4 to <16 years of age), statistically significant decreases in WBC and neutrophil counts were seen in patients treated with immediate-release levetiracetam tablets, as compared to placebo.
@@ -142,7 +153,7 @@ No patient was discontinued secondary to low WBC or neutrophil counts.
 
 In the controlled pediatric cognitive and neuropsychological safety study, two subjects (6.1%) in the placebo group and 5 subjects (8.6%) in the immediate-release levetiracetam tablets-treated group had high eosinophil count values that were possibly clinically significant (≥10% or ≥0.7X109/L).
 
-## 5.8 Seizure Control During Pregnancy
+## 5.9 Seizure Control During Pregnancy
 
 Physiological changes may gradually decrease plasma levels of levetiracetam throughout pregnancy.
 This decrease is more pronounced during the third trimester.

@@ -1,10 +1,4 @@
-# Medication Guide
-
-ELEPSIA™ XR (e lep' see a ex are)
-
-(levetiracetam)
-
-extended-release tablets
+# MEDICATION GUIDE ELEPSIA™ XR (e lep' see a ex are) (levetiracetam) extended-release tablets, for oral use
 
 Read this Medication Guide before you start taking ELEPSIA XR and each time you get a refill.
 There may be new information.
@@ -47,16 +41,20 @@ How can I watch for early symptoms of suicidal thoughts and actions?
 
 What is ELEPSIA XR?
 
-ELEPSIA XR is a prescription medicine taken by mouth that is used with other medicines to treat partial onset seizures in people 12 years of age and older with epilepsy.
+ELEPSIA XR is a prescription medicine taken by mouth that is used with other medicines to treat partial onset seizures in people 12 years of age and older.
 
 It is not known if ELEPSIA XR is safe or effective in people under 12 years of age.
+
+Who should not take ELEPSIA XR?
+
+Do not take ELEPSIA XR if you are allergic to levetiracetam.
 
 What should I tell my healthcare provider before starting ELEPSIA XR?
 
 Before taking ELEPSIA XR, tell your healthcare provider about all of your medical conditions, including if you:
 
-- have or have had depression, mood problems or suicidal thoughts or behavior
-- have kidney problems
+- have or have had depression, mood problems or suicidal thoughts or behavior.
+- have kidney problems.
 - are pregnant or planning to become pregnant.
   It is not known if ELEPSIA XR will harm your unborn baby.
   You and your healthcare provider will have to decide if you should take ELEPSIA XR while you are pregnant.
@@ -65,9 +63,10 @@ Before taking ELEPSIA XR, tell your healthcare provider about all of your medica
   The purpose of this registry is to collect information about the safety of ELEPSIA XR and other antiepileptic medicine during pregnancy.
 - are breast feeding.
   ELEPSIA XR can pass into your milk and may harm your baby.
-  You and your healthcare provider should discuss whether you should take ELEPSIA XR or breast-feed; you should not do both.
+  You and your healthcare provider should decide if you will take ELEPSIA XR or breast-feed.
+  You should not do both.
 
-Tell your healthcare provider about all the medicines you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements.
+Tell your healthcare provider about all the medicines you take, including prescription and over -the-counter medicines, vitamins, and herbal supplements.
 Do not start a new medicine without first talking with your healthcare provider.
 
 Know the medicines you take.
@@ -75,17 +74,19 @@ Keep a list of them to show your healthcare provider and pharmacist each time yo
 
 How should I take ELEPSIA XR?
 
-Take ELEPSIA XR exactly as your healthcare provider tells you to take it.
+Take ELEPSIA XR exactly as your healthcare provider tells you take it.
 
 - Your healthcare provider will tell you how much ELEPSIA XR to take and when to take it.
-  ELEPSIA XR is taken 1 time a day.
+  ELEPSIA XR is usually taken 1 time per day.
 - Your healthcare provider may change your dose.
   Do not change your dose without talking to your healthcare provider.
-- Take ELEPSIA XR with or without food.
 - Swallow the tablets whole.
-  Do not chew, break, split or crush tablets.
+  Do not chew, cut, break, split or crush tablets.
 - Each coated tablet has 2 layers, a blue layer and a white to off-white layer.
-  If you do not see the blue or white to off-white layer, do not take the tablet and talk to your pharmacist.
+  If you do not see the blue or white off-white layer, do not take the tablet and talk to your pharmacist.
+- The inactive part of ELEPSIA XR tablets may not dissolve after all the medicine has been released in your body.
+  You may sometimes notice something in your bowel movement that looks like pieces of coating or swollen pieces of the original tablet.
+  This is normal.
 - If you take too much ELEPSIA XR, call your local Poison Control Center or go to the nearest emergency room right away.
 
 What should I avoid while taking ELEPSIA XR?
@@ -95,11 +96,7 @@ ELEPSIA XR may make you dizzy or sleepy.
 
 What are the possible side effects of ELEPSIA XR?
 
-ELEPSIA XR may cause serious side effects, including:
-
-- See “What is the most important information I should know about ELEPSIA XR?”
-
-ELEPSIA XR can cause serious side effects.
+See “What is the most important information I should know about ELEPSIA XR?”
 
 Call your healthcare provider right away if you have any of these symptoms:
 
@@ -107,18 +104,19 @@ Call your healthcare provider right away if you have any of these symptoms:
   A few people may get psychotic symptoms such as hallucinations (seeing or hearing things that are really not there), delusions (false or strange thoughts or beliefs) and unusual behavior.
 - extreme sleepiness, tiredness, and weakness
 - problems with muscle coordination (problems walking and moving)
+- allergic reactions such as swelling of the face, lips, eyes, tongue, and throat, trouble swallowing or breathing, and hives.
 - a skin rash.
   Serious skin rashes can happen after you start taking ELEPSIA XR.
   There is no way to tell if a mild rash will become a serious reaction.
 
-Common side effects seen in people who take ELEPSIA XR and other formulations of levetiracetam include:
+Common side effects seen in people who take ELEPSIA XR:
 
+- flu
 - sleepiness
-- weakness
-- infection
+- irritability
+- nasal congestion, sore throat, and runny nose (nasopharyngitis)
 - dizziness
-
-These side effects can happen at any time but happen more often within the first 4 weeks of treatment except for infection.
+- nausea
 
 Tell your healthcare provider if you have any side effect that bothers you or that does not go away.
 
@@ -126,11 +124,11 @@ These are not all the possible side effects of ELEPSIA XR.
 For more information, ask your healthcare provider or pharmacist.
 
 Call your doctor for medical advice about side effects.
-You may also report side effects to FDA at 1-800-FDA-1088.
+You may report side effects to FDA at 1-800-FDA-1088.
 
 How should I store ELEPSIA XR?
 
-- Store ELEPSIA XR at room temperature, between 68°F to 77°F (20°C to 25°C) away from light.
+Store ELEPSIA XR at room temperature, between 68°F to 77°F (20°C to 25°C) away from light.
 
 Keep ELEPSIA XR and all medicines out of the reach of children.
 
@@ -141,39 +139,23 @@ Do not use ELEPSIA XR for a condition for which it was not prescribed.
 Do not give ELEPSIA XR to other people, even if they have the same symptoms that you have.
 It may harm them.
 
-This Medication Guide summarizes the most important information about ELEPSIA XR.
-If you would like more information, talk with your healthcare provider.
 You can ask your pharmacist or healthcare provider for information about ELEPSIA XR that is written for health professionals.
-You can also call Sun Pharmaceutical Industries, Inc. at 1-800-818-4555.
 
 What are the ingredients of ELEPSIA XR?
 
 Active ingredient: levetiracetam
 
-Inactive ingredients: povidone, hypromellose, amino methacrylate copolymer, colloidal silicon dioxide, magnesium stearate, talc, silicified microcrystalline cellulose, crospovidone, sodium lauryl sulfate, FD&C Blue #1 aluminum lake, ethylcellulose, dibutyl sebacate, triethyl citrate, polysorbate 20, polyvinyl alcohol, polyethylene glycol, and polysorbate 80.
-The imprinting ink contains shellac glaze, iron oxide black, N-butyl alcohol, propylene glycol, and ammonium hydroxide.
+Inactive ingredients: amino methyacrylate copolymer, colloidal silicon dioxide, crospovidone, dibutyl sebacate, ethyl cellulose, FD&C Blue #1 aluminum lake, hypromellose, magnesium stearate, polyethylene glycol, polysorbate 20, polysorbate 80, polyvinyl alcohol, povidone, silicified microcrystalline cellulose, sodium lauryl sulfate, talc, and triethyl citrate.
+The imprinting ink contains ammonium hydroxide, iron oxide black, N-butyl alcohol, propylene glycol, and shellac glaze.
 
-ELEPSIA XR does not contain lactose or gluten.
+Rx Only
+
+Manufactured for Sun Pharma Global FZE by Sun Pharmaceutical Industries, Ltd. Halol-Baroda Highway Halol 389350, Gujarat, India
+
+Distributed by: Sun Pharmaceutical Industries, Inc. Cranbury, NJ 08512 Copyright 2018, Sun Pharma Global FZE All rights reserved
+
+For more information, call Sun Pharmaceutical Industries, Inc. at 833-SUN-INFO (833-786-4636).
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-*Keppra XR is the registered trademark of its respective owner.
-
-Distributed by:
-
-Sun Pharmaceutical Industries, Inc.
-
-Cranbury, NJ 08512
-
-Manufactured by:
-
-Sun Pharmaceutical Ind.
-Ltd.
-
-Halol-Baroda Highway,
-
-Halol-389 350, Gujarat, India.
-
-PJPI0393
-
-Issued:03/2015
+Revised: 12/2018

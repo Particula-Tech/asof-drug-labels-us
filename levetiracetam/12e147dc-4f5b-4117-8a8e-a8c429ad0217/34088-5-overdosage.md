@@ -2,18 +2,18 @@
 
 ## 10.1 Signs, Symptoms and Laboratory Findings of Acute Overdosage in Humans
 
-The signs and symptoms for levetiracetam extended-release tablets overdose are expected to be similar to those seen with immediate-release levetiracetam tablets.
+The signs and symptoms for ELEPSIA XR overdose are expected to be similar to those seen with immediate-release levetiracetam tablets.
 
-The highest known dose of oral immediate-release levetiracetam tablets received in the clinical development program was 6,000 mg/day.
+The highest known dose of oral immediate-release levetiracetam tablets received in the clinical development program was 6000 mg/day.
 Other than drowsiness, there were no adverse reactions in the few known cases of overdose in clinical trials.
-Cases of somnolence, agitation, aggression, depressed level of consciousness, respiratory depression and coma were observed with immediate-release levetiracetam tablets overdoses in postmarketing use.
+Cases of somnolence, agitation, aggression, depressed level of consciousness, respiratory depression and coma were observed with immediate-release levetiracetam tablet overdoses in postmarketing use.
 
 ## 10.2 Management of Overdose
 
-There is no specific antidote for overdose with levetiracetam extended-release tablets.
+There is no specific antidote for overdose with ELEPSIA XR.
 If indicated, elimination of unabsorbed drug should be attempted by emesis or gastric lavage; usual precautions should be observed to maintain airway.
 General supportive care of the patient is indicated including monitoring of vital signs and observation of the patient’s clinical status.
-A Certified Poison Control Center should be contacted for up to date information on the management of overdose with levetiracetam extended-release tablets.
+A Certified Poison Control Center should be contacted for up to date information on the management of overdose with ELEPSIA XR.
 
 ## 10.3 Hemodialysis
 
