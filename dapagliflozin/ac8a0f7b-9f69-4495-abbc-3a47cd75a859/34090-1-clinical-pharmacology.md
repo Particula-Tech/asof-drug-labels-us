@@ -258,7 +258,7 @@ Dapagliflozin did not meaningfully affect the pharmacokinetics of the coadminist
 
 Table 8: Effects of Dapagliflozin on the Systemic Exposures of Coadministered Drugs
 
-| ChangePercent change (with/without coadministered drug and no change = 0%); ↑ and ↓ indicate the exposure increase and decrease, respectively. in AUCAUC = AUC(INF) for drugs given as single dose and AUC = AUC(TAU) for drugs given in multiple doses. | Change in Cmax |  |  |
+| ChangePercent change (with/without coadministered drug and no change = 0%); ↑ and ↓ indicate the exposure increase and decrease, respectively.inAUCAUC = AUC(INF) for drugs given as single dose and AUC = AUC(TAU) for drugs given in multiple doses. | Change in Cmax |  |  |
 | --- | --- | --- | --- |
 | Coadministered Drug (Dose Regimen)Single dose unless otherwise noted. | Dapagliflozin (Dose Regimen) | Coadministered Drug |  |
 | No dosing adjustments required for the following: |  |  |  |
