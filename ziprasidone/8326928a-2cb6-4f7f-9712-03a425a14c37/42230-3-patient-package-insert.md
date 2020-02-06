@@ -1,4 +1,4 @@
-PATIENT SUMMARY OF INFORMATION ABOUT GEODON® Capsules (ziprasidone HCl)
+PATIENT SUMMARY OF INFORMATION ABOUT GEODON® Capsules (ziprasidone)
 
 Information for patients taking GEODON or their caregivers
 
@@ -76,7 +76,7 @@ Before you start GEODON, be sure to tell your doctor if you:
 - are taking any over-the-counter medicines you can buy without a prescription, including natural/herbal remedies
 - have had any problems with your liver
 - are pregnant, might be pregnant, or plan to get pregnant
-- are breast feeding
+- are breastfeeding or plan to breastfeed
 - are allergic to any medicines
 - have ever had an allergic reaction to ziprasidone or any of the other ingredients of GEODON capsules.
   Ask your doctor or pharmacist for a list of these ingredients
@@ -149,8 +149,14 @@ Patients treated with an atypical antipsychotic should be monitored for symptoms
 Dizziness caused by a drop in your blood pressure may occur with GEODON, especially when you first start taking this medication or when the dose is increased.
 If this happens, be careful not to stand up too quickly, and talk to your doctor about the problem.
 
-Before taking GEODON, tell your doctor if you are pregnant or plan on becoming pregnant.
-It is advised that you don't breast feed an infant if you are taking GEODON.
+Before taking GEODON, tell your doctor if you
+
+- are pregnant or plan on becoming pregnant.
+  - If you become pregnant while receiving GEODON, talk to your healthcare provider about registering with the National Pregnancy Registry for Atypical Antipsychotics.
+    You can register by calling 1-866-961-2388 or go to http://womensmentalhealth.org/clinical-and-research-programs/pregnancyregistry/
+- are breastfeeding or plan to breastfeed.
+  GEODON can pass into your breast milk.
+  Talk to your healthcare provider about the best way to feed your baby if you receive GEODON.
 
 Because GEODON can cause sleepiness, be careful when operating machinery or driving a motor vehicle.
 
@@ -178,6 +184,6 @@ You can also visit www.geodon.com.
 This product's label may have been updated.
 For current full prescribing information, please visit www.pfizer.com
 
-LAB-0272-8.0
+LAB-0272-9.0
 
-Revised: August 2015
+Revised: January 2020
