@@ -82,7 +82,7 @@ In another study, the average AUC of everolimus in subjects with moderate hepati
 Pediatric Patients: In patients with TSC-associated SEGA or TSC-associated partial-onset seizures, the mean Cmin values normalized to mg/m2 dose in pediatric patients (< 18 years of age) were lower than those observed in adults, suggesting that everolimus clearance adjusted to body surface area was higher in pediatric patients as compared to adults.
 
 Race or Ethnicity: Based on a cross-study comparison, Japanese patients had on average exposures that were higher than non-Japanese patients receiving the same dose.
-Oral clearance (CL/F) is on average 20% higher in black patients than in white patients.
+Oral clearance (CL/F) is on average 20% higher in Black patients than in White patients.
 
 Drug Interaction Studies
 
