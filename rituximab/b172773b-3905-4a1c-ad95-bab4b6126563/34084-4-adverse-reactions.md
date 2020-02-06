@@ -151,15 +151,15 @@ Other Grade 3 or 4 adverse reactions occurring more frequently among patients re
 
 CLL
 
-The data below reflect exposure to RITUXAN in combination with fludarabine and cyclophosphamide in 676 patients with CLL in CLL Study 11 (NCT00281918) or CLL Study 12 (NCT00090051) [see Clinical Studies (14.5)].
+The data below reflect exposure to RITUXAN in combination with fludarabine and cyclophosphamide in 676 patients with CLL in CLL Study 1 (NCT00281918) or CLL Study 2 (NCT00090051) [see Clinical Studies (14.5)].
 The age range was 30–83 years and 71% were men.
-Detailed safety data collection in Study 11 was limited to Grade 3 and 4 adverse reactions and serious adverse reactions.
+Detailed safety data collection in CLL Study 1 was limited to Grade 3 and 4 adverse reactions and serious adverse reactions.
 
 Infusion-related adverse reactions were defined by any of the following adverse events occurring during or within 24 hours of the start of infusion: nausea, pyrexia, chills, hypotension, vomiting, and dyspnea.
 
-In CLL Study 11, the following Grade 3 and 4 adverse reactions occurred more frequently in R-FC-treated patients compared to FC-treated patients: infusion-related reactions (9% in R-FC arm), neutropenia (30% vs. 19%), febrile neutropenia (9% vs. 6%), leukopenia (23% vs. 12%), and pancytopenia (3% vs. 1%).
+In CLL Study 1, the following Grade 3 and 4 adverse reactions occurred more frequently in R-FC-treated patients compared to FC-treated patients: infusion-related reactions (9% in R-FC arm), neutropenia (30% vs. 19%), febrile neutropenia (9% vs. 6%), leukopenia (23% vs. 12%), and pancytopenia (3% vs. 1%).
 
-In CLL Study 12, the following Grade 3 or 4 adverse reactions occurred more frequently in R-FC-treated patients compared to FC-treated patients: infusion-related reactions (7% in R-FC arm), neutropenia (49% vs. 44%), febrile neutropenia (15% vs. 12%), thrombocytopenia (11% vs. 9%), hypotension (2% vs. 0%), and hepatitis B (2% vs. < 1%).
+In CLL Study 2, the following Grade 3 or 4 adverse reactions occurred more frequently in R-FC-treated patients compared to FC-treated patients: infusion-related reactions (7% in R-FC arm), neutropenia (49% vs. 44%), febrile neutropenia (15% vs. 12%), thrombocytopenia (11% vs. 9%), hypotension (2% vs. 0%), and hepatitis B (2% vs. < 1%).
 Fifty-nine percent of R-FC-treated patients experienced an infusion-related reaction of any severity.
 
 ## 6.2 Clinical Trials Experience in Rheumatoid Arthritis
@@ -417,7 +417,7 @@ Three patients (8%) in the group treated with non-U.S.-licensed rituximab experi
 As with all therapeutic proteins, there is a potential for immunogenicity.
 The detection of antibody formation is highly dependent on the sensitivity and specificity of the assay.
 Additionally, the observed incidence of antibody (including neutralizing antibody) positivity in an assay may be influenced by several factors including assay methodology, sample handling, timing of sample collection, concomitant medications, and underlying disease.
-For these reasons, comparison of the incidence of antibodies to RITUXAN in the studies described below with the incidence of antibodies in other studies or to other products may be misleading.
+For these reasons, comparison of the incidence of antibodies in the studies described below with the incidence of antibodies in other studies or to other rituximab products may be misleading.
 
 Using an ELISA assay, anti-rituximab antibody was detected in 4 of 356 (1.1%) patients with low-grade or follicular NHL receiving single-agent RITUXAN.
 Three of the four patients had an objective clinical response.

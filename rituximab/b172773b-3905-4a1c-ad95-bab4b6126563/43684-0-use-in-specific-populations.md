@@ -43,18 +43,18 @@ The B-cell counts returned to normal levels, and immunologic function was restor
 ## 8.2 Lactation
 
 There are no data on the presence of rituximab in human milk, the effect on the breastfed child, or the effect on milk production.
-However, rituximab is detected in the milk of lactating cynomolgus monkeys, and IgG is present in human milk.
-Since many drugs including antibodies are present in human milk, advise a lactating woman not to breastfeed during treatment and for at least 6 months after the last dose of RITUXAN due to the potential for serious adverse reactions in breastfed infants.
+However, rituximab is detected in the milk of lactating cynomolgus monkeys and IgG is present in human milk.
+Because of the potential of serious adverse reactions in the breastfed child, advise women not to breastfeed during treatment with RITUXAN and for at least 6 months after the last dose.
 
 ## 8.3 Females and Males of Reproductive Potential
 
-Rituximab can cause fetal harm [see Use in Specific Populations (8.1)].
-
 Contraception
+
+RITUXAN can cause fetal harm when administered to a pregnant woman [see Use in Specific Populations (8.1)].
 
 Females
 
-Females of childbearing potential should use effective contraception while receiving RITUXAN and for 12 months following treatment.
+Advise females of reproductive potential to use effective contraception during treatment with RITUXAN and for at least 12 months after the last dose.
 
 ## 8.4 Pediatric Use
 
@@ -91,11 +91,11 @@ Chronic Lymphocytic Leukemia
 
 Among patients with CLL evaluated in two randomized active-controlled trials, 243 of 676 RITUXAN-treated patients (36%) were 65 years of age or older; of these, 100 RITUXAN-treated patients (15%) were 70 years of age or older.
 
-In exploratory analyses defined by age, there was no observed benefit from the addition of RITUXAN to fludarabine and cyclophosphamide among patients 70 years of age or older in CLL Study 11 or in CLL Study 12; there was also no observed benefit from the addition of RITUXAN to fludarabine and cyclophosphamide among patients 65 years of age or older in CLL Study 12 [see Clinical Studies (14.5)].
+In exploratory analyses defined by age, there was no observed benefit from the addition of RITUXAN to fludarabine and cyclophosphamide among patients 70 years of age or older in CLL Study 1 or in CLL Study 2; there was also no observed benefit from the addition of RITUXAN to fludarabine and cyclophosphamide among patients 65 years of age or older in CLL Study 2 [see Clinical Studies (14.5)].
 Patients 70 years or older received lower dose intensity of fludarabine and cyclophosphamide compared to younger patients, regardless of the addition of RITUXAN.
-In CLL Study 11, the dose intensity of RITUXAN was similar in older and younger patients, however in CLL Study 12 older patients received a lower dose intensity of RITUXAN.
+In CLL Study 1, the dose intensity of RITUXAN was similar in older and younger patients, however in CLL Study 2 older patients received a lower dose intensity of RITUXAN.
 
-The incidence of Grade 3 and 4 adverse reactions was higher among patients receiving R-FC who were 70 years or older compared to younger patients for neutropenia [44% vs. 31% (CLL Study 11); 56% vs. 39% (CLL Study 12)], febrile neutropenia [16% vs. 6% (NHL Study 10 (NCT00719472)], anemia [5% vs. 2% (CLL Study 11); 21% vs. 10% (CLL Study 12)], thrombocytopenia [19% vs. 8% (CLL Study 12)], pancytopenia [7% vs. 2% (CLL Study 11); 7% vs. 2% (CLL Study 12)] and infections [30% vs. 14% (CLL Study 12)].
+The incidence of Grade 3 and 4 adverse reactions was higher among patients receiving R-FC who were 70 years or older compared to younger patients for neutropenia [44% vs. 31% (CLL Study 1); 56% vs. 39% (CLL Study 2)], febrile neutropenia [16% vs. 6% (NHL Study 10 (NCT00719472)], anemia [5% vs. 2% (CLL Study 1); 21% vs. 10% (CLL Study 2)], thrombocytopenia [19% vs. 8% (CLL Study 2)], pancytopenia [7% vs. 2% (CLL Study 1); 7% vs. 2% (CLL Study 2)] and infections [30% vs. 14% (CLL Study 2)].
 
 Rheumatoid Arthritis
 

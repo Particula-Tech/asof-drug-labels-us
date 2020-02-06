@@ -3,14 +3,14 @@
 ## 2.1 Important Dosing Information
 
 Administer only as an Intravenous Infusion [see Dosage and Administration (2.8)].
-
 Do not administer as an intravenous push or bolus.
+
 RITUXAN should only be administered by a healthcare professional with appropriate medical support to manage severe infusion-related reactions that can be fatal if they occur [see Warnings and Precautions (5.1)].
 
 Premedicate before each infusion [see Dosage and Administration (2.8)].
 
 Prior to First Infusion: Screen all patients for HBV infection by measuring HBsAg and anti-HBc before initiating treatment with RITUXAN [see Warnings and Precautions (5.3)].
-Obtain complete blood counts including platelets (CBC) prior to the first dose.
+Obtain complete blood counts (CBC) including platelets prior to the first dose.
 
 During RITUXAN Therapy: In patients with lymphoid malignancies, during treatment with RITUXAN monotherapy, obtain complete blood counts (CBC) with differential and platelet counts prior to each RITUXAN course.
 During treatment with RITUXAN and chemotherapy, obtain CBC with differential and platelet counts at weekly to monthly intervals and more frequently in patients who develop cytopenias [see Adverse Reactions (6.1)].
@@ -21,7 +21,7 @@ Continue to monitor for cytopenias after final dose and until resolution.
   In the absence of infusion toxicity, increase infusion rate by 50 mg/hr increments every 30 minutes, to a maximum of 400 mg/hr.
 - Subsequent Infusions: Standard Infusion: Initiate infusion at a rate of 100 mg/hr.
   In the absence of infusion toxicity, increase rate by 100 mg/hr increments at 30-minute intervals, to a maximum of 400 mg/hr.
-  For previously untreated follicular NHL and DLBCL patients: If patients did not experience a Grade 3 or 4 infusion-related adverse event during Cycle 1, a 90-minute infusion can be administered in Cycle 2 with a glucocorticoid-containing chemotherapy regimen.
+  For Previously Untreated Follicular NHL and DLBCL patients: If patients did not experience a Grade 3 or 4 infusion-related adverse event during Cycle 1, a 90-minute infusion can be administered in Cycle 2 with a glucocorticoid-containing chemotherapy regimen.
   Initiate at a rate of 20% of the total dose given in the first 30 minutes and the remaining 80% of the total dose given over the next 60 minutes.
   If the 90-minute infusion is tolerated in Cycle 2, the same rate can be used when administering the remainder of the treatment regimen (through Cycle 6 or 8).
   Patients who have clinically significant cardiovascular disease or who have a circulating lymphocyte count ≥5000/mm3 before Cycle 2 should not be administered the 90-minute infusion [see Clinical Studies (14.4)].
@@ -34,7 +34,7 @@ The recommended dose is 375 mg/m2 as an intravenous infusion according to the fo
 
 - Relapsed or Refractory, Low-Grade or Follicular, CD20-Positive, B-Cell NHL Administer once weekly for 4 or 8 doses.
 - Retreatment for Relapsed or Refractory, Low-Grade or Follicular, CD20-Positive, B-Cell NHL Administer once weekly for 4 doses.
-- Previously Untreated, Follicular, CD20-Positive, B-Cell NHL Administer on Day 1 of each cycle of chemotherapy, for up to 8 doses.
+- Previously Untreated, Follicular, CD20-Positive, B-Cell NHL Administer on Day 1 of each cycle of chemotherapy for up to 8 doses.
   In patients with complete or partial response, initiate RITUXAN maintenance eight weeks following completion of a rituximab product in combination with chemotherapy.
   Administer RITUXAN as a single-agent every 8 weeks for 12 doses.
 - Non-progressing, Low-Grade, CD20-Positive, B-Cell NHL, after first-line CVP chemotherapy Following completion of 6–8 cycles of CVP chemotherapy, administer once weekly for 4 doses at 6-month intervals to a maximum of 16 doses.
@@ -42,9 +42,7 @@ The recommended dose is 375 mg/m2 as an intravenous infusion according to the fo
 
 ## 2.3 Recommended Dose for Chronic Lymphocytic Leukemia (CLL)
 
-The recommended dose is:
-
-- 375 mg/m2 the day prior to the initiation of FC chemotherapy, then 500 mg/m2 on Day 1 of cycles 2–6 (every 28 days).
+The recommended dose is 375 mg/m2 the day prior to the initiation of FC chemotherapy, then 500 mg/m2 on Day 1 of cycles 2–6 (every 28 days).
 
 ## 2.4 Recommended Dose as a Component of Zevalin® for treatment of NHL
 

@@ -108,8 +108,8 @@ The clinical implications of these findings are not known.
 ## 5.11 Embryo-Fetal Toxicity
 
 Based on human data, RITUXAN can cause fetal harm due to B-cell lymphocytopenia in infants exposed to rituximab in-utero.
-Advise pregnant women of the risk to a fetus.
-Females of childbearing potential should use effective contraception while receiving RITUXAN and for 12 months following the last dose of RITUXAN.
+Advise pregnant women of the potential risk to a fetus.
+Advise females of reproductive potential to use effective contraception while receiving RITUXAN and for at least 12 months after the last dose [see Use in Specific Populations (8.1, 8.3)].
 
 ## 5.12 Concomitant Use with Other Biologic Agents and DMARDS other than Methotrexate in RA, GPA and MPA, PV
 
