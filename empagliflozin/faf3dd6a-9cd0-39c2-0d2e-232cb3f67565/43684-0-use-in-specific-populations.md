@@ -2,7 +2,9 @@
 
 ## 8.1 Pregnancy
 
-Risk Summary Based on animal data showing adverse renal effects, JARDIANCE is not recommended during the second and third trimesters of pregnancy.
+Risk Summary
+
+Based on animal data showing adverse renal effects, JARDIANCE is not recommended during the second and third trimesters of pregnancy.
 
 Limited data available with JARDIANCE in pregnant women are not sufficient to determine a drug-associated risk for major birth defects and miscarriage.
 There are risks to the mother and fetus associated with poorly controlled diabetes in pregnancy [see Clinical Considerations].
@@ -15,10 +17,16 @@ The estimated background risk of major birth defects is 6-10% in women with pre-
 The estimated background risk of miscarriage for the indicated population is unknown.
 In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2-4% and 15-20%, respectively.
 
-Clinical Considerations Disease-associated maternal and/or embryo/fetal risk: Poorly controlled diabetes in pregnancy increases the maternal risk for diabetic ketoacidosis, pre-eclampsia, spontaneous abortions, preterm delivery, stillbirth, and delivery complications.
+Clinical Considerations
+
+Disease-associated maternal and/or embryo/fetal risk: Poorly controlled diabetes in pregnancy increases the maternal risk for diabetic ketoacidosis, pre-eclampsia, spontaneous abortions, preterm delivery, stillbirth, and delivery complications.
 Poorly controlled diabetes increases the fetal risk for major birth defects, stillbirth, and macrosomia related morbidity.
 
-Data Animal Data Empagliflozin dosed directly to juvenile rats from postnatal day (PND) 21 until PND 90 at doses of 1, 10, 30 and 100 mg/kg/day caused increased kidney weights and renal tubular and pelvic dilatation at 100 mg/kg/day, which approximates 13-times the maximum clinical dose of 25 mg, based on AUC.
+Data
+
+Animal Data
+
+Empagliflozin dosed directly to juvenile rats from postnatal day (PND) 21 until PND 90 at doses of 1, 10, 30 and 100 mg/kg/day caused increased kidney weights and renal tubular and pelvic dilatation at 100 mg/kg/day, which approximates 13-times the maximum clinical dose of 25 mg, based on AUC.
 These findings were not observed after a 13 week drug-free recovery period.
 These outcomes occurred with drug exposure during periods of renal development in rats that correspond to the late second and third trimester of human renal development.
 
@@ -33,13 +41,17 @@ Reduced body weight was observed in the offspring at greater than or equal to 30
 
 ## 8.2 Lactation
 
-Risk Summary There is no information regarding the presence of JARDIANCE in human milk, the effects of JARDIANCE on the breastfed infant or the effects on milk production.
+Risk Summary
+
+There is no information regarding the presence of JARDIANCE in human milk, the effects of JARDIANCE on the breastfed infant or the effects on milk production.
 Empagliflozin is present in the milk of lactating rats [see Data].
 Since human kidney maturation occurs in utero and during the first 2 years of life when lactational exposure may occur, there may be risk to the developing human kidney.
 
 Because of the potential for serious adverse reactions in a breastfed infant, including the potential for empagliflozin to affect postnatal renal development, advise women that use of JARDIANCE is not recommended while breastfeeding.
 
-Data Empagliflozin was present at a low level in rat fetal tissues after a single oral dose to the dams at gestation day 18.
+Data
+
+Empagliflozin was present at a low level in rat fetal tissues after a single oral dose to the dams at gestation day 18.
 In rat milk, the mean milk to plasma ratio ranged from 0.634 -5, and was greater than one from 2 to 24 hours post-dose.
 The mean maximal milk to plasma ratio of 5 occurred at 8 hours post-dose, suggesting accumulation of empagliflozin in the milk.
 Juvenile rats directly exposed to empagliflozin showed a risk to the developing kidney (renal pelvic and tubular dilatations) during maturation.

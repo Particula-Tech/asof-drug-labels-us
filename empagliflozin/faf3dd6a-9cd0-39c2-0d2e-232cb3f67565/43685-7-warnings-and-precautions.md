@@ -19,10 +19,16 @@ Treatment of ketoacidosis may require insulin, fluid and carbohydrate replacemen
 
 In many of the postmarketing reports, and particularly in patients with type 1 diabetes, the presence of ketoacidosis was not immediately recognized and institution of treatment was delayed because presenting blood glucose levels were below those typically expected for diabetic ketoacidosis (often less than 250 mg/dL).
 Signs and symptoms at presentation were consistent with dehydration and severe metabolic acidosis and included nausea, vomiting, abdominal pain, generalized malaise, and shortness of breath.
-In some but not all cases, factors predisposing to ketoacidosis such as insulin dose reduction, acute febrile illness, reduced caloric intake due to illness or surgery, pancreatic disorders suggesting insulin deficiency (e.g., type 1 diabetes, history of pancreatitis or pancreatic surgery), and alcohol abuse were identified.
+In some but not all cases, factors predisposing to ketoacidosis such as insulin dose reduction, acute febrile illness, reduced caloric intake, surgery, pancreatic disorders suggesting insulin deficiency (e.g., type 1 diabetes, history of pancreatitis or pancreatic surgery), and alcohol abuse were identified.
 
 Before initiating JARDIANCE, consider factors in the patient history that may predispose to ketoacidosis including pancreatic insulin deficiency from any cause, caloric restriction, and alcohol abuse.
-In patients treated with JARDIANCE consider monitoring for ketoacidosis and temporarily discontinuing JARDIANCE in clinical situations known to predispose to ketoacidosis (e.g., prolonged fasting due to acute illness or surgery).
+
+For patients who undergo scheduled surgery, consider temporarily discontinuing JARDIANCE for at least 3 days prior to surgery [see Clinical Pharmacology (12.2, 12.3)].
+
+Consider monitoring for ketoacidosis and temporarily discontinuing JARDIANCE in other clinical situations known to predispose to ketoacidosis (e.g., prolonged fasting due to acute illness or post-surgery).
+Ensure risk factors for ketoacidosis are resolved prior to restarting JARDIANCE.
+
+Educate patients on the signs and symptoms of ketoacidosis and instruct patients to discontinue JARDIANCE and seek medical attention immediately if signs and symptoms occur.
 
 ## 5.3 Acute Kidney Injury and Impairment in Renal Function
 
@@ -52,9 +58,9 @@ Insulin and insulin secretagogues are known to cause hypoglycemia.
 The risk of hypoglycemia is increased when JARDIANCE is used in combination with insulin secretagogues (e.g., sulfonylurea) or insulin [see Adverse Reactions (6.1)].
 Therefore, a lower dose of the insulin secretagogue or insulin may be required to reduce the risk of hypoglycemia when used in combination with JARDIANCE.
 
-## 5.6 Necrotizing Fasciitis of the Perineum (Fournier’s Gangrene)
+## 5.6 Necrotizing Fasciitis of the Perineum (Fournier's Gangrene)
 
-Reports of necrotizing fasciitis of the perineum (Fournier’s gangrene), a rare but serious and life-threatening necrotizing infection requiring urgent surgical intervention, have been identified in postmarketing surveillance in patients with diabetes mellitus receiving SGLT2 inhibitors, including JARDIANCE.
+Reports of necrotizing fasciitis of the perineum (Fournier's gangrene), a rare but serious and life-threatening necrotizing infection requiring urgent surgical intervention, have been identified in postmarketing surveillance in patients with diabetes mellitus receiving SGLT2 inhibitors, including JARDIANCE.
 Cases have been reported in both females and males.
 Serious outcomes have included hospitalization, multiple surgeries, and death.
 

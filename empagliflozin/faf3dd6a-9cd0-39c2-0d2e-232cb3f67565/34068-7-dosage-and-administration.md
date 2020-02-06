@@ -15,4 +15,4 @@ JARDIANCE should not be initiated in patients with an eGFR less than 45 mL/min/1
 
 No dose adjustment is needed in patients with an eGFR greater than or equal to 45 mL/min/1.73 m2.
 
-JARDIANCE should be discontinued if eGFR is persistently less than 45 mL/min/1.73 m2 [see Warnings and Precautions (5.1, 5.3) and Use in Specific Populations (8.6)].
+JARDIANCE should be discontinued if eGFR is persistently less than 45 mL/min/1.73 m2[see Warnings and Precautions (5.1, 5.3) and Use in Specific Populations (8.6)].

@@ -6,8 +6,8 @@ Licensed from: Boehringer Ingelheim International GmbH, Ingelheim, Germany
 
 Boehringer Ingelheim Pharmaceuticals, Inc. either owns or uses the Jardiance® and EMPA-REG OUTCOME® trademarks under license.
 
-The other trademarks referenced are owned by third parties not affiliated with Boehringer Ingelheim Pharmaceuticals, Inc.
+The other brands listed are trademarks of their respective owners and are not trademarks of Boehringer Ingelheim Pharmaceuticals, Inc.
 
-Copyright © 2018 Boehringer Ingelheim International GmbH ALL RIGHTS RESERVED
+Copyright © 2020 Boehringer Ingelheim International GmbH ALL RIGHTS RESERVED
 
-IT5728SJ232018
+IT5728VA152020
