@@ -3,7 +3,7 @@
 ## 2.1 Recommended Dosage
 
 - In patients with volume depletion not previously treated with empagliflozin, correct this condition before initiating SYNJARDY [see Warnings and Precautions (5.2)].
-- Individualize the starting dose of SYNJARDY based on the patient’s current regimen:
+- Individualize the starting dose of SYNJARDY based on the patient's current regimen:
   - – In patients on metformin hydrochloride, switch to SYNJARDY containing empagliflozin 5 mg with a similar total daily dose of metformin hydrochloride;
   - – In patients on empagliflozin, switch to SYNJARDY containing metformin hydrochloride 500 mg with a similar total daily dose of empagliflozin;
   - – In patients already treated with empagliflozin and metformin hydrochloride, switch to SYNJARDY containing the same total daily doses of each component.

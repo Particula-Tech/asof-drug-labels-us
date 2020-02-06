@@ -17,7 +17,7 @@ For each of the known and possible risk factors for metformin-associated lactic 
 
 Renal Impairment: The postmarketing metformin-associated lactic acidosis cases primarily occurred in patients with significant renal impairment.
 The risk of metformin accumulation and metformin-associated lactic acidosis increases with the severity of renal impairment because metformin is substantially excreted by the kidney.
-Clinical recommendations based upon the patient’s renal function include [see Dosage and Administration (2.2), Clinical Pharmacology (12.3)].
+Clinical recommendations based upon the patient's renal function include [see Dosage and Administration (2.2), Clinical Pharmacology (12.3)].
 
 - Before initiating SYNJARDY, obtain an estimated glomerular filtration rate (eGFR).
 - SYNJARDY is contraindicated in patients with an eGFR below 45 mL/min/1.73 m2 [see Contraindications (4)].
@@ -27,7 +27,7 @@ Clinical recommendations based upon the patient’s renal function include [see 
 Drug Interactions: The concomitant use of SYNJARDY with specific drugs may increase the risk of metformin-associated lactic acidosis: those that impair renal function, result in significant hemodynamic change, interfere with acid-base balance or increase metformin accumulation [see Drug Interactions (7.2)].
 Therefore, consider more frequent monitoring of patients.
 
-Age 65 or Greater: The risk of metformin-associated lactic acidosis increases with the patient’s age because elderly patients have a greater likelihood of having hepatic, renal, or cardiac impairment than younger patients.
+Age 65 or Greater: The risk of metformin-associated lactic acidosis increases with the patient's age because elderly patients have a greater likelihood of having hepatic, renal, or cardiac impairment than younger patients.
 Assess renal function more frequently in elderly patients [see Use in Specific Populations (8.5)].
 
 Radiological Studies with Contrast: Administration of intravascular iodinated contrast agents in metformin-treated patients has led to an acute decrease in renal function and the occurrence of lactic acidosis.
@@ -67,10 +67,16 @@ Treatment of ketoacidosis may require insulin, fluid and carbohydrate replacemen
 
 In many of the postmarketing reports, and particularly in patients with type 1 diabetes, the presence of ketoacidosis was not immediately recognized and institution of treatment was delayed because presenting blood glucose levels were below those typically expected for diabetic ketoacidosis (often less than 250 mg/dL).
 Signs and symptoms at presentation were consistent with dehydration and severe metabolic acidosis and included nausea, vomiting, abdominal pain, generalized malaise, and shortness of breath.
-In some but not all cases, factors predisposing to ketoacidosis such as insulin dose reduction, acute febrile illness, reduced caloric intake due to illness or surgery, pancreatic disorders suggesting insulin deficiency (e.g., type 1 diabetes, history of pancreatitis or pancreatic surgery), and alcohol abuse were identified.
+In some but not all cases, factors predisposing to ketoacidosis such as insulin dose reduction, acute febrile illness, reduced caloric intake, surgery, pancreatic disorders suggesting insulin deficiency (e.g., type 1 diabetes, history of pancreatitis or pancreatic surgery), and alcohol abuse were identified.
 
 Before initiating SYNJARDY, consider factors in the patient history that may predispose to ketoacidosis including pancreatic insulin deficiency from any cause, caloric restriction, and alcohol abuse.
-In patients treated with SYNJARDY consider monitoring for ketoacidosis and temporarily discontinuing SYNJARDY in clinical situations known to predispose to ketoacidosis (e.g., prolonged fasting due to acute illness or surgery).
+
+For patients who undergo scheduled surgery, consider temporarily discontinuing SYNJARDY for at least 3 days prior to surgery [see Clinical Pharmacology (12.2, 12.3)].
+
+Consider monitoring for ketoacidosis and temporarily discontinuing SYNJARDY in other clinical situations known to predispose to ketoacidosis (e.g., prolonged fasting due to acute illness or post-surgery).
+Ensure risk factors for ketoacidosis are resolved prior to restarting SYNJARDY.
+
+Educate patients on the signs and symptoms of ketoacidosis and instruct patients to discontinue SYNJARDY and seek medical attention immediately if signs and symptoms occur.
 
 ## 5.4 Acute Kidney Injury and Impairment in Renal Function
 
@@ -96,18 +102,22 @@ Evaluate patients for signs and symptoms of urinary tract infections and treat p
 
 ## 5.6 Hypoglycemia with Concomitant Use with Insulin and Insulin Secretagogues
 
-Empagliflozin Insulin and insulin secretagogues are known to cause hypoglycemia.
+Empagliflozin
+
+Insulin and insulin secretagogues are known to cause hypoglycemia.
 The risk of hypoglycemia is increased when empagliflozin is used in combination with insulin secretagogues (e.g., sulfonylurea) or insulin [see Adverse Reactions (6.1)].
 Therefore, a lower dose of the insulin secretagogue or insulin may be required to reduce the risk of hypoglycemia when used in combination with SYNJARDY.
 
-Metformin Hypoglycemia does not occur in patients receiving metformin alone under usual circumstances of use, but could occur when caloric intake is deficient, when strenuous exercise is not compensated by caloric supplementation, or during concomitant use with other glucose-lowering agents (such as SUs and insulin) or ethanol.
+Metformin
+
+Hypoglycemia does not occur in patients receiving metformin alone under usual circumstances of use, but could occur when caloric intake is deficient, when strenuous exercise is not compensated by caloric supplementation, or during concomitant use with other glucose-lowering agents (such as SUs and insulin) or ethanol.
 Elderly, debilitated, or malnourished patients, and those with adrenal or pituitary insufficiency or alcohol intoxication are particularly susceptible to hypoglycemic effects.
 Hypoglycemia may be difficult to recognize in the elderly, and in people who are taking β-adrenergic blocking drugs.
 Monitor for a need to lower the dose of SYNJARDY to minimize the risk of hypoglycemia in these patients.
 
-## 5.7 Necrotizing Fasciitis of the Perineum (Fournier’s Gangrene)
+## 5.7 Necrotizing Fasciitis of the Perineum (Fournier's Gangrene)
 
-Reports of necrotizing fasciitis of the perineum (Fournier’s gangrene), a rare but serious and life-threatening necrotizing infection requiring urgent surgical intervention, have been identified in postmarketing surveillance in patients with diabetes mellitus receiving SGLT2 inhibitors, including empagliflozin.
+Reports of necrotizing fasciitis of the perineum (Fournier's gangrene), a rare but serious and life-threatening necrotizing infection requiring urgent surgical intervention, have been identified in postmarketing surveillance in patients with diabetes mellitus receiving SGLT2 inhibitors, including empagliflozin.
 Cases have been reported in both females and males.
 Serious outcomes have included hospitalization, multiple surgeries, and death.
 
