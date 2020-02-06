@@ -3,10 +3,10 @@
 ## 2.1 Recommended Dosage
 
 - In patients with volume depletion not previously treated with empagliflozin, correct this condition before initiating SYNJARDY XR [see Warnings and Precautions (5.2)].
-- Individualize the starting dose of SYNJARDY XR based on the patient’s current regimen:
-  - -In patients on metformin hydrochloride, switch to SYNJARDY XR containing a similar total daily dose of metformin hydrochloride and a total daily dose of empagliflozin 10 mg;
-  - -In patients on empagliflozin, switch to SYNJARDY XR containing the same total daily dose of empagliflozin and a total daily dose of metformin hydrochloride extended-release 1000 mg;
-  - -In patients already treated with empagliflozin and metformin hydrochloride, switch to SYNJARDY XR containing the same total daily doses of empagliflozin and a similar total daily dose of metformin hydrochloride.
+- Individualize the starting dose of SYNJARDY XR based on the patient's current regimen:
+  - –In patients on metformin hydrochloride, switch to SYNJARDY XR containing a similar total daily dose of metformin hydrochloride and a total daily dose of empagliflozin 10 mg;
+  - –In patients on empagliflozin, switch to SYNJARDY XR containing the same total daily dose of empagliflozin and a total daily dose of metformin hydrochloride extended-release 1000 mg;
+  - –In patients already treated with empagliflozin and metformin hydrochloride, switch to SYNJARDY XR containing the same total daily doses of empagliflozin and a similar total daily dose of metformin hydrochloride.
 - Adjust dosing based on effectiveness and tolerability while not exceeding the maximum recommended daily dose of metformin hydrochloride 2000 mg and empagliflozin 25 mg [see Dosage and Administration (2.2)].
 - The dose of metformin hydrochloride should be gradually escalated to reduce the gastrointestinal side effects due to metformin hydrochloride [see Dosage Forms and Strengths (3)].
 - Take SYNJARDY XR orally once daily with a meal in the morning
