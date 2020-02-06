@@ -11,7 +11,7 @@ For tachyarrhythmia, infuse 44 mEq of sodium bicarbonate or 10 mL of 10% calcium
 For asystole, bradycardia or A-V block transvenous pacing is also recommended.
 
 The effect of calcium and sodium bicarbonate is transient and repeated administration may be required.
-When indicated by the clinical situation, excess K+ may be removed by dialysis or oral or rectal administration of Kayexalate®.
+When indicated by the clinical situation, excess K+ may be removed by dialysis or oral or rectal administration of Sodium polystyrene sulfonate.
 Infusion of glucose and insulin has also been used to treat hyperkalemia.
 
 # PRECAUTIONS
@@ -77,7 +77,7 @@ Triamterene capsules may raise blood glucose levels; for adult-onset diabetes, d
 
 ### Drug/Laboratory Test Interactions
 
-Triamterene and quinidine have similar fluorescence spectra;thus, triamterene will interfere with the fluorescent measurement of quinidine.
+Triamterene and quinidine have similar fluorescence spectra; thus, triamterene will interfere with the fluorescent measurement of quinidine.
 
 ### Carcinogenesis, Mutagenesis, Impairment of Fertility
 
