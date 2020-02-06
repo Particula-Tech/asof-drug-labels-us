@@ -27,9 +27,9 @@ The most common adverse reactions with concomitant administration of empaglifloz
 
 Table 1 Adverse Reactions Reported in ≥5% of Patients Treated with Empagliflozin and Linagliptin
 
-|  | GLYXAMBI 10 mg/5 mg n=272 | GLYXAMBI 25 mg/5 mg n=273 |
-| --- | --- | --- |
 |  | n (%) | n (%) |
+| --- | --- | --- |
+|  | GLYXAMBI 10 mg/5 mg n=272 | GLYXAMBI 25 mg/5 mg n=273 |
 | Urinary tract infectiona | 34 (12.5) | 31 (11.4) |
 | Nasopharyngitis | 16 (5.9) | 18 (6.6) |
 | Upper respiratory tract infection | 19 (7.0) | 19 (7.0) |
@@ -62,7 +62,8 @@ Table 2 Incidence of Overalla and Severeb Hypoglycemic Adverse Reactions
 | --- | --- | --- |
 | Overall (%) | 2.2% | 3.6% |
 | Severe (%) | 0% | 0% |
-| aOverall hypoglycemic events: plasma or capillary glucose of less than or equal to 70 mg/dL or requiring assistance bSevere hypoglycemic events: requiring assistance regardless of blood glucose |  |  |
+| aOverall hypoglycemic events: plasma or capillary glucose of less than or equal to 70 mg/dL or requiring assistance |  |  |
+| bSevere hypoglycemic events: requiring assistance regardless of blood glucose |  |  |
 
 Laboratory Tests
 

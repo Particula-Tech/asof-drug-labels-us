@@ -36,7 +36,10 @@ Table 5 Glycemic Parameters at 24 Weeks in a Study Comparing GLYXAMBI to the Ind
 | % change from baseline (adjusted mean) | -3.1 | -3.4 | -3.0 | -3.5 | -0.7 |
 | Comparison vs empagliflozin 25 mg or 10 mg (adjusted mean) (95% CI)c | 0.0 (-0.9, 0.8) | 0.1 (-0.8, 0.9) | -- | -- | -- |
 | Comparison vs linagliptin 5 mg (adjusted mean) (95% CI)c | -2.4 (-3.3, -1.5)d | -2.7 (-3.6, -1.8)d | -- | -- | -- |
-| aFull analysis population (observed case) using MMRM. MMRM model included treatment, renal function, region, visit, visit by treatment interaction, and baseline HbA1c. bPatients with HbA1c above 7% at baseline: GLYXAMBI 25 mg/5 mg, n=123; GLYXAMBI 10 mg/5 mg, n=128; empagliflozin 25 mg, n=132; empagliflozin 10 mg, n=125; linagliptin 5 mg, n=119. Non-completers were considered failures (NCF). cFull analysis population using last observation carried forward. ANCOVA model included treatment, renal function, region, baseline weight, and baseline HbA1c. dp<0.001 for FPG; p<0.0001 for HbA1c and body weight |  |  |  |  |  |
+| aFull analysis population (observed case) using MMRM. MMRM model included treatment, renal function, region, visit, visit by treatment interaction, and baseline HbA1c. |  |  |  |  |  |
+| bPatients with HbA1c above 7% at baseline: GLYXAMBI 25 mg/5 mg, n=123; GLYXAMBI 10 mg/5 mg, n=128; empagliflozin 25 mg, n=132; empagliflozin 10 mg, n=125; linagliptin 5 mg, n=119. Non-completers were considered failures (NCF). |  |  |  |  |  |
+| cFull analysis population using last observation carried forward. ANCOVA model included treatment, renal function, region, baseline weight, and baseline HbA1c. |  |  |  |  |  |
+| dp<0.001 for FPG; p<0.0001 for HbA1c and body weight |  |  |  |  |  |
 
 Figure 3 Adjusted Mean HbA1c Change at Each Time Point (Completers) and at Week 24 (mITT population)
 
@@ -81,7 +84,9 @@ Table 6 Treatment Effect for the Primary Composite Endpoint, and its Componentsa
 | Non-fatal myocardial infarctionc | 121 (5.2%) | 213 (4.5%) | 0.87 (0.70, 1.09) |
 | Non-fatal strokec | 60 (2.6%) | 150 (3.2%) | 1.24 (0.92, 1.67) |
 | Cardiovascular deathc | 137 (5.9%) | 172 (3.7%) | 0.62 (0.49, 0.77) |
-| aTreated set (patients who had received at least one dose of study drug) bp−value for superiority (2−sided) 0.04 cTotal number of events |  |  |  |
+| aTreated set (patients who had received at least one dose of study drug) |  |  |  |
+| bp–value for superiority (2–sided) 0.04 |  |  |  |
+| cTotal number of events |  |  |  |
 
 Figure 4 Estimated Cumulative Incidence of First MACE
 
@@ -126,6 +131,7 @@ Table 7 Major Adverse Cardiovascular Events (MACE) by Treatment Group in the CAR
 | CV deathb | 255 (7.3) | 32.6 | 264 (7.6) | 34.0 | 0.96 (0.81, 1.14) |
 | Non-fatal MIb | 156 (4.5) | 20.6 | 135 (3.9) | 18.0 | 1.15 (0.91, 1.45) |
 | Non-fatal strokeb | 65 (1.9) | 8.5 | 73 (2.1) | 9.6 | 0.88 (0.63, 1.23) |
-| aPY=patient years bA patient may have experienced more than one component; therefore, the sum of the components is larger than the number of patients who experienced the composite outcome. |  |  |  |  |  |
+| aPY=patient years |  |  |  |  |  |
+| bA patient may have experienced more than one component; therefore, the sum of the components is larger than the number of patients who experienced the composite outcome. |  |  |  |  |  |
 
 Figure 6 Kaplan-Meier: Time to First Occurrence of MACE in the CARMELINA Trial

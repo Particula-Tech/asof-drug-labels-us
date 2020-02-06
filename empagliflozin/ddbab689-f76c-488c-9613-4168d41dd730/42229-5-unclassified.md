@@ -6,8 +6,8 @@ Licensed from: Boehringer Ingelheim International GmbH, Ingelheim, Germany
 
 Boehringer Ingelheim Pharmaceuticals, Inc. either owns or uses the Glyxambi®, Jardiance®, Tradjenta®, EMPA-REG OUTCOME®, and CARMELINA® trademarks under license.
 
-The other trademarks referenced are owned by third parties not affiliated with Boehringer Ingelheim Pharmaceuticals, Inc.
+The other brands listed are trademarks of their respective owners and are not trademarks of Boehringer Ingelheim Pharmaceuticals, Inc.
 
-Copyright © 2019 Boehringer Ingelheim International GmbH ALL RIGHTS RESERVED
+Copyright © 2020 Boehringer Ingelheim International GmbH ALL RIGHTS RESERVED
 
-IT5885NG102019
+IT5885RA152020

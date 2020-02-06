@@ -28,6 +28,7 @@ Empagliflozin
 Urinary Glucose Excretion
 
 In patients with type 2 diabetes, urinary glucose excretion increased immediately following a dose of empagliflozin and was maintained at the end of a 4-week treatment period averaging at approximately 64 grams per day with 10 mg empagliflozin and 78 grams per day with 25 mg empagliflozin once daily.
+Data from single oral doses of empagliflozin in healthy subjects indicate that, on average, the elevation in urinary glucose excretion approaches baseline by about 3 days for the 10 mg and 25 mg doses.
 
 Urinary Volume
 
@@ -195,7 +196,9 @@ The relevance of this observation to patients with renal impairment is unknown.
 
 Figure 1 Effect of Various Medications on the Pharmacokinetics of Empagliflozin as Displayed as 90% Confidence Interval of Geometric Mean AUC and Cmax Ratios [reference lines indicate 100% (80% - 125%)]
 
-aempagliflozin, 50 mg, once daily; bempagliflozin, 25 mg, single dose; cempagliflozin, 25 mg, once daily; dempagliflozin, 10 mg, single dose eCoadministration of empagliflozin with an insulin secretagogue (e.g., sulfonylurea) or insulin may require lower doses of the insulin secretagogue or insulin to reduce the risk of hypoglycemia [see Warnings and Precautions (5.7) and Drug Interactions (7.3)].
+aempagliflozin, 50 mg, once daily; bempagliflozin, 25 mg, single dose; cempagliflozin, 25 mg, once daily; dempagliflozin, 10 mg, single dose
+
+eCoadministration of empagliflozin with an insulin secretagogue (e.g., sulfonylurea) or insulin may require lower doses of the insulin secretagogue or insulin to reduce the risk of hypoglycemia [see Warnings and Precautions (5.7) and Drug Interactions (7.3)].
 
 Empagliflozin had no clinically relevant effect on the pharmacokinetics of metformin, glimepiride, pioglitazone, sitagliptin, linagliptin, warfarin, digoxin, ramipril, simvastatin, hydrochlorothiazide, torsemide, and oral contraceptives when coadministered in healthy volunteers (see Figure 2).
 
@@ -221,7 +224,7 @@ No dose adjustment of linagliptin is recommended based on results of the describ
 
 Table 3 Effect of Coadministered Drugs on Systemic Exposure of Linagliptin
 
-|  |  |  | AUCe | Cmax |
+| AUCe | Cmax |  |  |  |
 | --- | --- | --- | --- | --- |
 | Coadministered Drug | Dosing of Coadministered Druga | Dosing of Linagliptina | Geometric Mean Ratio (ratio with/without coadministered drug) No effect = 1.0 |  |
 | Metformin | 850 mg TID | 10 mg QD | 1.20 | 1.03 |
@@ -229,11 +232,18 @@ Table 3 Effect of Coadministered Drugs on Systemic Exposure of Linagliptin
 | Pioglitazone | 45 mg QD | 10 mg QD | 1.13 | 1.07 |
 | Ritonavir | 200 mg BID | 5 mgd | 2.01 | 2.96 |
 | Rifampinc | 600 mg QD | 5 mg QD | 0.60 | 0.56 |
-| aMultiple dose (steady state) unless otherwise noted bCoadministration of linagliptin with an insulin secretagogue (e.g., sulfonylurea) or insulin may require lower doses of the insulin secretagogue or insulin to reduce the risk of hypoglycemia [see Warnings and Precautions (5.7) and Drug Interactions (7.3)]. cFor information regarding clinical recommendations [see Drug Interactions (7.2)]. dSingle dose eAUC = AUC(0 to 24 hours) for single dose treatments and AUC = AUC(TAU) for multiple dose treatments QD = once daily BID = twice daily TID = three times daily |  |  |  |  |
+| aMultiple dose (steady state) unless otherwise noted |  |  |  |  |
+| bCoadministration of linagliptin with an insulin secretagogue (e.g., sulfonylurea) or insulin may require lower doses of the insulin secretagogue or insulin to reduce the risk of hypoglycemia [see Warnings and Precautions (5.7) and Drug Interactions (7.3)]. |  |  |  |  |
+| cFor information regarding clinical recommendations [see Drug Interactions (7.2)]. |  |  |  |  |
+| dSingle dose |  |  |  |  |
+| eAUC = AUC(0 to 24 hours) for single dose treatments and AUC = AUC(TAU) for multiple dose treatments |  |  |  |  |
+| QD = once daily |  |  |  |  |
+| BID = twice daily |  |  |  |  |
+| TID = three times daily |  |  |  |  |
 
 Table 4 Effect of Linagliptin on Systemic Exposure of Coadministered Drugs
 
-|  |  |  |  | AUCd | Cmax |
+|  | AUCd | Cmax |  |  |  |
 | --- | --- | --- | --- | --- | --- |
 | Coadministered Drug | Dosing of Coadministered Druga | Dosing of Linagliptina | Geometric Mean Ratio (ratio with/without coadministered drug) No effect = 1.0 |  |  |
 | Metformin | 850 mg TID | 10 mg QD | metformin | 1.01 | 0.89 |
@@ -250,4 +260,12 @@ Table 4 Effect of Linagliptin on Systemic Exposure of Coadministered Drugs
 | PT | 1.03e | 1.15e |  |  |  |
 | Ethinylestradiol and levonorgestrel | ethinylestradiol 0.03 mg and levonorgestrel 0.150 mg QD | 5 mg QD | ethinylestradiol | 1.01 | 1.08 |
 | levonorgestrel | 1.09 | 1.13 |  |  |  |
-| aMultiple dose (steady state) unless otherwise noted bCoadministration of linagliptin with an insulin secretagogue (e.g., sulfonylurea) or insulin may require lower doses of the insulin secretagogue or insulin to reduce the risk of hypoglycemia [see Warnings and Precautions (5.7) and Drug Interactions (7.3)]. cSingle dose dAUC = AUC(INF) for single dose treatments and AUC = AUC(TAU) for multiple dose treatments eAUC=AUC(0-168) and Cmax=Emax for pharmacodynamic end points INR = International Normalized Ratio PT = Prothrombin Time QD = once daily TID = three times daily |  |  |  |  |  |
+| aMultiple dose (steady state) unless otherwise noted |  |  |  |  |  |
+| bCoadministration of linagliptin with an insulin secretagogue (e.g., sulfonylurea) or insulin may require lower doses of the insulin secretagogue or insulin to reduce the risk of hypoglycemia [see Warnings and Precautions (5.7) and Drug Interactions (7.3)]. |  |  |  |  |  |
+| cSingle dose |  |  |  |  |  |
+| dAUC = AUC(INF) for single dose treatments and AUC = AUC(TAU) for multiple dose treatments |  |  |  |  |  |
+| eAUC=AUC(0-168) and Cmax=Emax for pharmacodynamic end points |  |  |  |  |  |
+| INR = International Normalized Ratio |  |  |  |  |  |
+| PT = Prothrombin Time |  |  |  |  |  |
+| QD = once daily |  |  |  |  |  |
+| TID = three times daily |  |  |  |  |  |
