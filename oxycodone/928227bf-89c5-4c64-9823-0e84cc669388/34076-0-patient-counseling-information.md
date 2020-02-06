@@ -2,6 +2,13 @@
 
 Advise the patient to read the FDA-approved patient labeling (Medication Guide).
 
+Storage and Disposal Because of the risks associated with accidental ingestion, misuse, and abuse, advise patients to store oxycodone hydrochloride tablets securely, out of sight and reach of children, and in a location not accessible by others, including visitors to the home [see Warnings and Precautions (5.1, 5.3), Drug Abuse and Dependence (9.2)].
+Inform patients that leaving oxycodone hydrochloride tablets unsecured can pose a deadly risk to others in the home.
+
+Advise patients and caregivers that when medicines are no longer needed, they should be disposed of promptly.
+Expired, unwanted, or unused oxycodone hydrochloride tablets should be disposed of by flushing the unused medication down the toilet if a drug take-back option is not readily available.
+Inform patients that they can visit www.fda.gov/drugdisposal for a complete list of medicines recommended for disposal by flushing, as well as additional information on disposal of unused medicines.
+
 Addiction, Abuse and Misuse Inform patients that the use of oxycodone hydrochloride tablets, even when taken as recommended, can result in addiction, abuse, and misuse, which can lead to overdose and death [see Warnings and Precautions (5.1)].
 Instruct patients not to share oxycodone hydrochloride tablets with others and to take steps to protect oxycodone hydrochloride tablets from theft and misuse.
 
@@ -9,7 +16,6 @@ Life-Threatening Respiratory Depression Inform patients of the risk of life-thre
 Advise patients how to recognize respiratory depression and to seek medical attention if breathing difficulties develop.
 
 Accidental Ingestion Inform patients that accidental ingestion, especially by children, may result in respiratory depression or death [see Warnings and Precautions (5.3)].
-Instruct patients to take steps to store oxycodone hydrochloride tablets securely and to dispose of unused oxycodone hydrochloride tablets by flushing the tablets down the toilet or disposing of in accordance with local state guidelines and/or regulations.
 
 Interactions with Benzodiazepines and Other CNS Depressants Inform patients and caregivers that potentially fatal additive effects may occur if oxycodone hydrochloride tablets are used with benzodiazepines or other CNS depressants, including alcohol, and not to use these concomitantly unless supervised by a healthcare provider [see Warnings and Precautions (5.6), Drug Interactions (7)].
 
@@ -26,6 +32,8 @@ Advise patients to seek medical attention if they experience a constellation of 
 
 Important Administration Instructions Instruct patients how to properly take oxycodone hydrochloride tablets.
 Patients should be advised not to adjust the dose of oxycodone hydrochloride tablets without consulting the prescribing healthcare provider [see Dosage and Administration (2), Warnings and Precautions (5.13)].
+
+Important Discontinuation Instructions In order to avoid developing withdrawal symptoms, instruct patients not to discontinue oxycodone hydrochloride tablets without first discussing a tapering plan with the prescriber [see Dosage and Administration (2.4)].
 
 Hypotension Inform patients that oxycodone hydrochloride tablets may cause orthostatic hypotension and syncope.
 Instruct patients how to recognize symptoms of low blood pressure and how to reduce the risk of serious consequences should hypotension occur (e.g., sit or lie down, carefully rise from sitting or lying position) [see Warnings and Precautions (5.9)].
@@ -50,16 +58,14 @@ Advise patients not to perform such tasks until they know how they will react to
 
 Constipation Advise patients of the potential for severe constipation, including management instructions and when to seek medical attention [see Adverse Reactions (6), Clinical Pharmacology (12.1)].
 
-Disposal of Unused Oxycodone Hydrochloride Tablets Advise patients to dispose of unused oxycodone hydrochloride tablets by flushing the tablets down the toilet or disposing of in accordance with local state guidelines and/or regulations.
-
-Mallinckrodt, the “M” brand mark, the Mallinckrodt Pharmaceuticals logo and M are trademarks of a Mallinckrodt company. © 2018 Mallinckrodt.
+Mallinckrodt, the “M” brand mark, the Mallinckrodt Pharmaceuticals logo and are trademarks of a Mallinckrodt company. © 2019 Mallinckrodt.
 
 SpecGx LLC Webster Groves, MO 63119 USA
 
 To request medical information or to report suspected adverse reactions, contact Mallinckrodt at 1‑800‑778‑7898.
 
-Rev 09/2018
+Rev 10/2019
 
-MallinckrodtTM Pharmaceuticals
+Mallinckrodt™ Pharmaceuticals
 
 An electronic copy of this medication guide can be obtained from www.mallinckrodt.com/Medguide/MG20O14.pdf or by calling 1-800-778-7898 for alternate delivery options.
