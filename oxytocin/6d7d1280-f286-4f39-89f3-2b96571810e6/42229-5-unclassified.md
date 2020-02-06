@@ -2,14 +2,12 @@
 
 FOR INTRAVENOUS INFUSION OR INTRAMUSCULAR USE
 
-N+ and NOVAPLUS are registered trademarks of Novation, LLC
+Novaplus is a registered trademark of Vizient, Inc.
 
 Manufactured by:
 
 Fresenius Kabi USA, LLC Lake Zurich, IL 60047
 
-451126B
+451126C
 
-Revised: July 2013
-
-NOVAPLUS ®
+Revised: September 2019

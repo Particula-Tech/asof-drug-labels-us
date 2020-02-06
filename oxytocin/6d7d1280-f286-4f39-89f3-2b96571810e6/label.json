@@ -5,7 +5,9 @@
   "inn": "oxytocin",
   "labeler": "Fresenius Kabi USA, LLC",
   "package_ndcs": [
-    "63323-012-12"
+    "63323-012-07",
+    "63323-012-12",
+    "63323-012-17"
   ],
   "products": [
     {
