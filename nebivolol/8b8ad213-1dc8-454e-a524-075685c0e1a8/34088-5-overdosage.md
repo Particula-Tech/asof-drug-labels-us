@@ -1,4 +1,4 @@
-# 10. OVERDOSAGE
+# 10.OVERDOSAGE
 
 In clinical trials and worldwide postmarketing experience there were reports of BYSTOLIC overdose.
 The most common signs and symptoms associated with BYSTOLIC overdosage are bradycardia and hypotension.

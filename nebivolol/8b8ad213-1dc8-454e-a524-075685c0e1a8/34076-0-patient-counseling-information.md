@@ -15,15 +15,22 @@ Advise patients to consult a physician if any difficulty in breathing occurs, or
 
 Caution patients subject to spontaneous hypoglycemia, or diabetic patients receiving insulin or oral hypoglycemic agents, that β-blockers may mask some of the manifestations of hypoglycemia, particularly tachycardia.
 
-Distributed by: Allergan USA, Inc. Irvine, CA 92612
+Distributed by:
+
+Allergan USA, Inc.
+
+Madison, NJ 07940
 
 Licensed from Mylan Laboratories, Inc.
 
-Under license from Janssen Pharmaceutica N.V., Beerse, Belgium
-
-Bystolic® is a registered trademark of Forest Laboratories, LLC, an Allergan affiliate.
-
 Actidose®-Aqua is a registered trademark of Paddock Laboratories, LLC
 
-© 2017 Allergan.
+Bystolic® is a registered trademark of Allergan Sales, LLC.
+
+Patented.
+See www.allergan.com/patents
+
+© 2019 Allergan.
 All rights reserved.
+
+v 2.1USPI1402

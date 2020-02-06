@@ -1,6 +1,8 @@
 PATIENT INFORMATION
 
-BYSTOLIC® (bi-STOL-ik) (nebivolol) Tablets
+BYSTOLIC® (bi-STOL-ik)
+
+(nebivolol) Tablets
 
 Read the Patient Information that comes with BYSTOLIC before you start taking it and each time you get a refill.
 There may be new information.
@@ -80,7 +82,7 @@ WHAT ARE POSSIBLE SIDE EFFECTS OF BYSTOLIC?
 - Leg swelling due to fluid retention (edema).
   Tell your doctor if you gain weight or have trouble breathing while taking BYSTOLIC.
 
-Tell your doctor if you have any side effects that bother you or don't go away.
+Tell your doctor if you have any side effects that bother you or don’t go away.
 
 HOW SHOULD I STORE BYSTOLIC?
 
@@ -116,20 +118,28 @@ You have high blood pressure when the force is too great.
 
 High blood pressure makes the heart work harder to pump blood through the body and causes damage to the blood vessels.
 BYSTOLIC tablets can help your blood vessels relax so your blood pressure is lower.
+
 Medicines that lower your blood pressure lower your chance of having a stroke or heart attack.
 
 Rev.
-November 2017
+June 2019
 
-Distributed by: Allergan USA, Inc. Irvine, CA 92612
+Distributed by:
+
+Allergan USA, Inc.
+
+Madison, NJ 07940
 
 Licensed from Mylan Laboratories, Inc.
 
-Under license from Janssen Pharmaceutica N.V., Beerse, Belgium
-
-Bystolic® is a registered trademark of Forest Laboratories, LLC, an Allergan affiliate.
-
 Actidose®-Aqua is a registered trademark of Paddock Laboratories, LLC
 
-© 2017 Allergan.
+BYSTOLIC® is a registered trademark of Allergan Sales, LLC.
+
+Patented.
+See www.allergan.com/patents
+
+© 2019 Allergan.
 All rights reserved.
+
+V2.1PPI1402

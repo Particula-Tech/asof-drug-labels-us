@@ -1,6 +1,6 @@
-# 5. WARNINGS AND PRECAUTIONS
+# 5.WARNINGS AND PRECAUTIONS
 
-## 5.1 Abrupt Cessation of Therapy
+## 5.1Abrupt Cessation of Therapy
 
 Do not abruptly discontinue BYSTOLIC therapy in patients with coronary artery disease.
 Severe exacerbation of angina, myocardial infarction and ventricular arrhythmias have been reported in patients with coronary artery disease following the abrupt discontinuation of therapy with β-blockers.
@@ -10,7 +10,7 @@ As with other β-blockers, when discontinuation of BYSTOLIC is planned, carefull
 Taper BYSTOLIC over 1 to 2 weeks when possible.
 If the angina worsens or acute coronary insufficiency develops, re-start BYSTOLIC promptly, at least temporarily.
 
-## 5.2 Angina and Acute Myocardial Infarction
+## 5.2Angina and Acute Myocardial Infarction
 
 BYSTOLIC was not studied in patients with angina pectoris or who had a recent MI.
 
@@ -53,17 +53,17 @@ Because of significant negative inotropic and chronotropic effects in patients t
 Nebivolol exposure increases with inhibition of CYP2D6 [see Drug Interactions (7)].
 The dose of BYSTOLIC may need to be reduced.
 
-## 5.10 Impaired Renal Function
+## 5.10Impaired Renal Function
 
 Renal clearance of nebivolol is decreased in patients with severe renal impairment.
 BYSTOLIC has not been studied in patients receiving dialysis [see Clinical Pharmacology (12.4) and Dosage and Administration (2.1)].
 
-## 5.11 Impaired Hepatic Function
+## 5.11Impaired Hepatic Function
 
 Metabolism of nebivolol is decreased in patients with moderate hepatic impairment.
 BYSTOLIC has not been studied in patients with severe hepatic impairment [see Clinical Pharmacology (12.4) and Dosage and Administration (2.1)].
 
-## 5.12 Risk of Anaphylactic Reactions
+## 5.12Risk of Anaphylactic Reactions
 
 While taking β-blockers, patients with a history of severe anaphylactic reactions to a variety of allergens may be more reactive to repeated accidental, diagnostic, or therapeutic challenge.
 Such patients may be unresponsive to the usual doses of epinephrine used to treat allergic reactions.

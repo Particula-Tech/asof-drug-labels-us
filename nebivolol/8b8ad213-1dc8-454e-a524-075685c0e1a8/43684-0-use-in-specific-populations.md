@@ -1,6 +1,6 @@
-# 8. USE IN SPECIFIC POPULATIONS
+# 8.USE IN SPECIFIC POPULATIONS
 
-## 8.1 Pregnancy
+## 8.1Pregnancy
 
 Risk Summary
 
@@ -52,7 +52,7 @@ Data
 In lactating rats, maximum milk levels of unchanged nebivolol were observed at 4 hours after single and repeat doses of 2.5 mg/kg/day.
 The daily dose (mg/kg body weight) ingested by a rat pup is 0.3% of the dam dose for unchanged nebivolol.
 
-## 8.4 Pediatric Use
+## 8.4Pediatric Use
 
 Safety and effectiveness in pediatric patients have not been established.
 Pediatric studies in ages newborn to 18 years old have not been conducted because of incomplete characterization of developmental toxicity and possible adverse effects on long-term fertility [see Nonclinical Toxicology (13.1)].
@@ -65,12 +65,12 @@ No mortality was seen at half the adult human exposure.
 In surviving rats, cardiomyopathy was seen at exposures greater than or equal to the human exposure.
 Male rat pups exposed to twice the human exposure showed decreases in total sperm count as well as decreases in the total and percentage of motile sperm.
 
-## 8.5 Geriatric Use
+## 8.5Geriatric Use
 
 Of the 2800 patients in the U.S. sponsored placebo-controlled clinical hypertension studies, 478 patients were 65 years of age or older.
 No overall differences in efficacy or in the incidence of adverse events were observed between older and younger patients.
 
-## 8.6 Heart Failure
+## 8.6Heart Failure
 
 In a placebo-controlled trial of 2128 patients (1067 BYSTOLIC, 1061 placebo) over 70 years of age with chronic heart failure receiving a maximum dose of 10 mg per day for a median of 20 months, no worsening of heart failure was reported with nebivolol compared to placebo.
 However, if heart failure worsens consider discontinuation of BYSTOLIC.

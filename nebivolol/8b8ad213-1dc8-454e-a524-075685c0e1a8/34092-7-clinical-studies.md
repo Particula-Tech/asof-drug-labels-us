@@ -1,6 +1,6 @@
-# 14. CLINICAL STUDIES
+# 14.CLINICAL STUDIES
 
-## 14.1 Hypertension
+## 14.1Hypertension
 
 The antihypertensive effectiveness of BYSTOLIC as monotherapy has been demonstrated in three randomized, double-blind, multi-center, placebo-controlled trials at doses ranging from 1.25 to 40 mg for 12 weeks (Studies 1, 2, and 3).
 A fourth placebo-controlled trial demonstrated additional antihypertensive effects of BYSTOLIC at doses ranging from 5 to 20 mg when administered concomitantly with up to two other antihypertensive agents (ACE inhibitors, angiotensin II receptor antagonists, and thiazide diuretics) in patients with inadequate blood pressure control.
@@ -23,9 +23,12 @@ Placebo-Subtracted Least-Square Mean Reductions in Trough Sitting Systolic/Diast
 | Study 2 |  |  | -3.8/-3.2* | -3.1/-3.9* | -6.3*/-4.5* |  |
 | Study 3¶ |  | -1.5/-2.9 | -2.6/-4.9* | -6.0*/-6.1* | -7.2*/-6.1* | -6.8*/-5.5* |
 | Study 4^ |  |  | -5.7*/-3.3* | -3.7*/-3.5* | -6.2*/-4.6* |  |
-| * p<0.05 based on pair-wise comparison vs. placebo |  |  |  |  |  |  |
-| ¶ Study enrolled only African Americans. |  |  |  |  |  |  |
-| ^ Study on top of one or two other antihypertensive medications. |  |  |  |  |  |  |
+
+* p<0.05 based on pair-wise comparison vs. placebo
+
+¶ Study enrolled only African Americans.
+
+^ Study on top of one or two other antihypertensive medications.
 
 Study 4 enrolled 669 patients with a mean age of 54 years, 55% males, 54% Caucasians, 29% Blacks, 15% Hispanics, 1% Asians, 14% diabetics, and 5% PMs.
 BYSTOLIC, 5 mg to 20 mg, administered once daily concomitantly with stable doses of up to two other antihypertensive agents (ACE inhibitors, angiotensin II receptor antagonists, and thiazide diuretics) resulted in significant additional antihypertensive effects over placebo compared to baseline blood pressure.

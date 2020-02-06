@@ -1,6 +1,6 @@
-# 6. ADVERSE REACTIONS
+# 6.ADVERSE REACTIONS
 
-## 6.1 Clinical Studies Experience
+## 6.1Clinical Studies Experience
 
 BYSTOLIC has been evaluated for safety in patients with hypertension and in patients with heart failure.
 The observed adverse reaction profile was consistent with the pharmacology of the drug and the health status of the patients in the clinical trials.
@@ -51,13 +51,13 @@ Metabolic and Nutritional Disorders: hypercholesterolemia
 
 Nervous System Disorders: paraesthesia
 
-## 6.2 Laboratory Abnormalities
+## 6.2Laboratory Abnormalities
 
 In controlled monotherapy trials of hypertensive patients, BYSTOLIC was associated with an increase in BUN, uric acid, triglycerides and a decrease in HDL cholesterol and platelet count.
 
-## 6.3 Postmarketing Experience
+## 6.3Postmarketing Experience
 
 The following adverse reactions have been identified from spontaneous reports of BYSTOLIC received worldwide and have not been listed elsewhere.
 These adverse reactions have been chosen for inclusion due to a combination of seriousness, frequency of reporting or potential causal connection to BYSTOLIC.
 Adverse reactions common in the population have generally been omitted.
-Because these adverse reactions were reported voluntarily from a population of uncertain size, it is not possible to estimate their frequency or establish a causal relationship to BYSTOLIC exposure: abnormal hepatic function (including increased AST, ALT and bilirubin), acute pulmonary edema, acute renal failure, atrioventricular block (both second and third degree), bronchospasm, erectile dysfunction, hypersensitivity (including urticaria, allergic vasculitis and rare reports of angioedema), hypotension, myocardial infarction, pruritus, psoriasis, Raynaud's phenomenon, peripheral ischemia/claudication, somnolence, syncope, thrombocytopenia, various rashes and skin disorders, vertigo, and vomiting.
+Because these adverse reactions were reported voluntarily from a population of uncertain size, it is not possible to estimate their frequency or establish a causal relationship to BYSTOLIC exposure: abnormal hepatic function (including increased AST, ALT and bilirubin), acute pulmonary edema, acute renal failure, atrioventricular block (both second and third degree), bronchospasm, erectile dysfunction, hypersensitivity (including urticaria, allergic vasculitis and rare reports of angioedema), hypotension, myocardial infarction, pruritus, psoriasis, Raynaud’s phenomenon, peripheral ischemia/claudication, somnolence, syncope, thrombocytopenia, various rashes and skin disorders, vertigo, and vomiting.

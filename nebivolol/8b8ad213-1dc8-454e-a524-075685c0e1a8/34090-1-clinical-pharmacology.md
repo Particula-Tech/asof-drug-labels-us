@@ -1,4 +1,4 @@
-# 12. CLINICAL PHARMACOLOGY
+# 12.CLINICAL PHARMACOLOGY
 
 Nebivolol is a β-adrenergic receptor blocking agent.
 In extensive metabolizers (most of the population) and at doses less than or equal to 10 mg, nebivolol is preferentially β1 selective.
@@ -7,19 +7,19 @@ Nebivolol lacks intrinsic sympathomimetic and membrane stabilizing activity at t
 At clinically relevant doses, BYSTOLIC does not demonstrate α1-adrenergic receptor blockade activity.
 Various metabolites, including glucuronides, contribute to β-blocking activity.
 
-## 12.1 Mechanism of Action
+## 12.1Mechanism of Action
 
 The mechanism of action of the antihypertensive response of BYSTOLIC has not been definitively established.
 Possible factors that may be involved include: (1) decreased heart rate, (2) decreased myocardial contractility, (3) diminution of tonic sympathetic outflow to the periphery from cerebral vasomotor centers, (4) suppression of renin activity and (5) vasodilation and decreased peripheral vascular resistance.
 
-## 12.3 Pharmacokinetics
+## 12.3Pharmacokinetics
 
 Nebivolol is metabolized by a number of routes, including glucuronidation and hydroxylation by CYP2D6.
 The active isomer (d-nebivolol) has an effective half-life of about 12 hours in CYP2D6 extensive metabolizers (most people), and 19 hours in poor metabolizers and exposure to d-nebivolol is substantially increased in poor metabolizers.
 This has less importance than usual, however, because the metabolites, including the hydroxyl metabolite and glucuronides (the predominant circulating metabolites), contribute to β-blocking activity.
 
 Plasma levels of d–nebivolol increase in proportion to dose in EMs and PMs for doses up to 20mg.
-Exposure to l-nebivolol is higher than to d-nebivolol but l-nebivolol contributes little to the drug's activity as d-nebivolol's beta receptor affinity is > 1000-fold higher than l-nebivolol.
+Exposure to l-nebivolol is higher than to d-nebivolol but l-nebivolol contributes little to the drug’s activity as d-nebivolol’s beta receptor affinity is > 1000-fold higher than l-nebivolol.
 For the same dose, PMs attain a 5-fold higher Cmax and 10-fold higher AUC of d-nebivolol than do EMs. d-Nebivolol accumulates about 1.5-fold with repeated once-daily dosing in EMs.
 
 Absorption
@@ -47,7 +47,7 @@ Elimination
 After a single oral administration of 14C-nebivolol, 38% of the dose was recovered in urine and 44% in feces for EMs and 67% in urine and 13% in feces for PMs.
 Essentially all nebivolol was excreted as multiple oxidative metabolites or their corresponding glucuronide conjugates.
 
-## 12.4 Pharmacokinetics in Special Populations
+## 12.4Pharmacokinetics in Special Populations
 
 Hepatic Disease
 
@@ -58,7 +58,7 @@ Renal Disease
 The apparent clearance of nebivolol was unchanged following a single 5 mg dose of BYSTOLIC in patients with mild renal impairment (ClCr 50 to 80 mL/min, n=7), and it was reduced negligibly in patients with moderate (ClCr 30 to 50 mL/min, n=9), but clearance was reduced by 53% in patients with severe renal impairment (ClCr <30 mL/min, n=5).
 No studies have been conducted in patients on dialysis [see Dosage and Administration (2.1)].
 
-## 12.5 Drug-Drug Interactions
+## 12.5Drug-Drug Interactions
 
 Drugs that inhibit CYP2D6 can be expected to increase plasma levels of nebivolol.
 When BYSTOLIC is co-administered with an inhibitor or an inducer of this enzyme, monitor patients closely and adjust the nebivolol dose according to blood pressure response.
@@ -80,7 +80,7 @@ Fluoxetine: Fluoxetine, a CYP2D6 inhibitor, administered at 20 mg per day for 21
 Histamine-2 Receptor Antagonists: The pharmacokinetics of nebivolol (5 mg single dose) were not affected by the co-administration of ranitidine (150 mg twice daily).
 Cimetidine (400 mg twice daily) causes a 23% increase in the plasma levels of d-nebivolol.
 
-Charcoal: The pharmacokinetics of nebivolol (10 mg single dose) were not affected by repeated co-administration (4, 8, 12, 16, 22, 28, 36, and 48 hours after nebivolol administration) of activated charcoal (Actidose-Aqua®).
+Charcoal: The pharmacokinetics of nebivolol (10 mg single dose) were not affected by repeated co-administration (4, 8, 12, 16, 22, 28, 36, and 48 hours after nebivolol administration) of activated charcoal (Actidose®-Aqua).
 
 Sildenafil: The co-administration of nebivolol and sildenafil decreased AUC and Cmax of sildenafil by 21 and 23% respectively.
 The effect on the Cmax and AUC for d-nebivolol was also small (< 20%).

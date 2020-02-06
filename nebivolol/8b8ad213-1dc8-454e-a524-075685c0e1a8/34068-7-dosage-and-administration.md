@@ -1,6 +1,6 @@
-# 2. DOSAGE AND ADMINISTRATION
+# 2.DOSAGE AND ADMINISTRATION
 
-## 2.1 Hypertension
+## 2.1Hypertension
 
 The dose of BYSTOLIC must be individualized to the needs of the patient.
 For most patients, the recommended starting dose is 5 mg once daily, with or without food, as monotherapy or in combination with other agents.
@@ -17,7 +17,7 @@ Hepatic Impairment
 In patients with moderate hepatic impairment, the recommended initial dose is 2.5 mg once daily; titrate up slowly if needed.
 BYSTOLIC has not been studied in patients with severe hepatic impairment and therefore it is not recommended in that population [see Clinical Pharmacology (12.4)].
 
-## 2.2 Subpopulations
+## 2.2Subpopulations
 
 Geriatric Patients
 

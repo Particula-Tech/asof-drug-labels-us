@@ -1,4 +1,4 @@
-# 3. DOSAGE FORMS AND STRENGTHS
+# 3.DOSAGE FORMS AND STRENGTHS
 
 BYSTOLIC is available as tablets for oral administration containing nebivolol hydrochloride equivalent to 2.5, 5, 10, and 20 mg of nebivolol.
 

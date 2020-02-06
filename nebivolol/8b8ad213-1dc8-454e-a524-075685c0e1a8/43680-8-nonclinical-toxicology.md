@@ -1,6 +1,6 @@
-# 13. NONCLINICAL TOXICOLOGY
+# 13.NONCLINICAL TOXICOLOGY
 
-## 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
+## 13.1Carcinogenesis, Mutagenesis, Impairment of Fertility
 
 In a two-year study of nebivolol in mice, a statistically significant increase in the incidence of testicular Leydig cell hyperplasia and adenomas was observed at 40 mg/kg/day (5 times the maximally recommended human dose of 40 mg on a mg/m2 basis).
 Similar findings were not reported in mice administered doses equal to approximately 0.3 or 1.2 times the maximum recommended human dose.
