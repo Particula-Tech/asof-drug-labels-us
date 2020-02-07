@@ -18,8 +18,9 @@ DUOPA can cause serious side effects, including:
   - drainage, redness, swelling, pain, feeling of warmth around the small hole in your stomach wall (stoma)
   - bleeding from stomach ulcers or your intestines
   - inflammation of your pancreas (pancreatitis)
+  - infection in your lungs (pneumonia)
   - air or gas in your abdominal cavity
-  - skin infection around the intestinal tube, infection in your blood or abdominal cavity may occur, after surgery
+  - skin infection around the intestinal tube, pocket of infection (abscess), infection in your blood (sepsis) or abdominal cavity may occur, after surgery
   - stomach pain, nausea or vomiting
 - Tell your healthcare provider right away if you have any of the following symptoms of stomach and intestine problems and gastrointestinal procedure-related problems:
   - stomach (abdominal) pain
@@ -222,4 +223,4 @@ This Medication Guide has been approved by the U.S. Food and Drug Administration
 
 Manufactured by AbbVie Inc., North Chicago, IL 60064, USA or by Fresenius Kabi Norge AS, 1788 Halden, Norway For AbbVie Inc. North Chicago, IL 60064, USA
 
-03-C094 Revised: December 2019
+© 2019-2020 AbbVie Inc. 03-C123 Revised: December 2019

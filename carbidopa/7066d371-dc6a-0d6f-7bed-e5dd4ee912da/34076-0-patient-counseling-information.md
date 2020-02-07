@@ -19,7 +19,7 @@ Advise the patient to contact their healthcare provider and to take oral carbido
 
 Gastrointestinal and Gastrointestinal Procedure-Related Risks
 
-Inform patients of the gastrointestinal procedure-related risks including bezoar, ileus, implant site erosion/ulcer, intestinal hemorrhage, intestinal ischemia, intestinal obstruction, intestinal perforation, intussusception, pancreatitis, peritonitis, pneumoperitoneum, post-operative wound infection and sepsis.
+Inform patients of the gastrointestinal procedure-related risks including abscess, bezoar, ileus, implant site erosion/ulcer, intestinal hemorrhage, intestinal ischemia, intestinal obstruction, intestinal perforation, intussusception, pancreatitis, peritonitis, pneumonia (including aspiration pneumonia), pneumoperitoneum, post-operative wound infection and sepsis.
 Advise patients of the symptoms of the above listed complications and instruct them to contact their healthcare provider if they experience any of these symptoms [see Warnings and Precautions (5.1)].
 
 Falling Asleep during Activities of Daily Living and Somnolence
@@ -73,4 +73,4 @@ Advise patients to notify their healthcare provider if they are breastfeeding or
 
 Manufactured by AbbVie Inc., North Chicago, IL 60064, USA or by Fresenius Kabi Norge AS, 1788 Halden, Norway For AbbVie Inc. North Chicago, IL 60064, USA
 
-03-C094 December 2019
+© 2019-2020 AbbVie Inc. 03-C123 December 2019

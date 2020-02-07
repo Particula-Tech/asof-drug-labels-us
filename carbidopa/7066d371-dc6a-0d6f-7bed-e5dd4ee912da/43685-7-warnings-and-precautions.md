@@ -4,7 +4,7 @@
 
 Because DUOPA is administered using a PEG-J or naso-jejunal tube, gastrointestinal complications can occur.
 
-These complications include bezoar, ileus, implant site erosion/ulcer, intestinal hemorrhage, intestinal ischemia, intestinal obstruction, intestinal perforation, intussusception, pancreatitis, peritonitis, pneumoperitoneum, and post-operative wound infection.
+These complications include abscess, bezoar, ileus, implant site erosion/ulcer, intestinal hemorrhage, intestinal ischemia, intestinal obstruction, intestinal perforation, intussusception, pancreatitis, peritonitis, pneumonia (including aspiration pneumonia), pneumoperitoneum, post-operative wound infection, and sepsis.
 These complications may result in serious outcomes, such as the need for surgery or death.
 
 Instruct patients to notify their healthcare provider immediately if they experience abdominal pain, prolonged constipation, nausea, vomiting, fever, or melanotic stool [see Patient Counseling Information (17)].
