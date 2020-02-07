@@ -9,7 +9,7 @@ Inform patients that dehydration may increase the risk for hypotension, and to h
 
 Ketoacidosis
 
-Inform patients that ketoacidosis is a serious life-threatening condition and that cases of ketoacidosis have been reported during use of FARXIGA, sometimes associated with illness or surgery among other risk factors.
+Inform patients that ketoacidosis is a serious life threatening condition and that cases of ketoacidosis have been reported during use of FARXIGA, sometimes associated with illness or surgery among other risk factors.
 Instruct patients to check ketones (when possible) if symptoms consistent with ketoacidosis occur even if blood glucose is not elevated.
 If symptoms of ketoacidosis (including nausea, vomiting, abdominal pain, tiredness and labored breathing) occur, instruct patients to discontinue FARXIGA and seek medical attention immediately [see Warnings and Precautions (5.2)].
 
