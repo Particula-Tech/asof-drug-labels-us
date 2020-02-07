@@ -227,9 +227,7 @@ Table 6 Summary of Adverse Reactions Occurring in ≥ 10% of Patients Receiving 
 
 |  | All Grades % | Grades 3 – 4 % | All Grades % | Grades 3 – 4 % |
 | --- | --- | --- | --- | --- |
-| Body System/Adverse Reactions | PERJETA + trastuzumab + paclitaxel following ddAC |  | PERJETA + trastuzumab + docetaxel following FEC |  |
-| n=199 |  | n=198 |  |  |
-| Frequency rate % |  | Frequency rate % |  |  |
+| Body System/Adverse Reactions | PERJETA + trastuzumab + paclitaxel following ddAC n=199 Frequency rate % |  | PERJETA + trastuzumab + docetaxel following FEC n=198 Frequency rate % |  |
 | General disorders and administration site conditions |  |  |  |  |
 | Fatigue | 58 | 1 | 38 | 5 |
 | Asthenia | 19 | 2 | 41 | 0 |
@@ -318,7 +316,8 @@ Table 7 Summary of Adverse Reactions Occurring in ≥ 10% of Patients Receiving 
 
 |  | All Grades % | Grades 3 – 4 % | All Grades % | Grades 3 – 4 % |
 | --- | --- | --- | --- | --- |
-| Body System/ Adverse Reactions | PERJETA + trastuzumab + chemotherapy n=2364 Frequency rate % |  | Placebo + trastuzumab + chemotherapy n=2405 Frequency rate % |  |
+| Body System/ Adverse Reactions | PERJETA + trastuzumab + chemotherapy n=2364 |  | Placebo + trastuzumab + chemotherapy n=2405 |  |
+| Frequency rate % |  | Frequency rate % |  |  |
 | General disorders and administration site conditions |  |  |  |  |
 | Fatigue | 49 | 4 | 44 | 3 |
 | Mucosal inflammation | 23 | 2 | 19 | 0.7 |

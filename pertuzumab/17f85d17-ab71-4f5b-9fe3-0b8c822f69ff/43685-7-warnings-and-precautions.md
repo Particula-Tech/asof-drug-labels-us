@@ -32,7 +32,7 @@ Of the patients who experienced symptomatic heart failure, 47% of PERJETA-treate
 The majority of the events (86%) were reported in anthracycline-treated patients.
 Asymptomatic or mildly symptomatic (NYHA Class II) declines in LVEF ≥ 10% and a drop to less than 50% were reported in 3% of PERJETA-treated patients and 3% of placebo-treated patients, of whom 80% of PERJETA-treated patients and 81% of placebo-treated patients recovered at the data cutoff.
 
-PERJETA has not been studied in patients with a pretreatment LVEF value of ≤ 50%, a prior history of CHF, decreases in LVEF to < 50% during prior trastuzumab therapy, or conditions that could impair left ventricular function such as uncontrolled hypertension, recent myocardial infarction, serious cardiac arrhythmia requiring treatment or a cumulative prior anthracycline exposure to > 360 mg/m2 of doxorubicin or its equivalent.
+PERJETA has not been studied in patients with a pretreatment LVEF value of < 50%, a prior history of CHF, decreases in LVEF to < 50% during prior trastuzumab therapy, or conditions that could impair left ventricular function such as uncontrolled hypertension, recent myocardial infarction, serious cardiac arrhythmia requiring treatment or a cumulative prior anthracycline exposure to > 360 mg/m2 of doxorubicin or its equivalent.
 
 ## 5.2 Embryo-Fetal Toxicity
 

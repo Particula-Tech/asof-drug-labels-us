@@ -48,12 +48,14 @@ Table 8 Summary of Efficacy from CLEOPATRA
 | No. of patients with an event Median months | 191 (47.5%) 18.5 | 242 (59.6%) 12.4 | 0.62 (0.51, 0.75) | < 0.0001 |
 | Overall SurvivalFinal analysis of overall survival, cutoff date Feb 2014 (final analysis) |  |  |  |  |
 | No. of patients who died Median months | 168 (41.8%) 56.5 | 221 (54.4%) 40.8 | 0.68 (0.56, 0.84) | 0.0002 |
-| Objective Response Rate (ORR, independent review) No. of patients analyzed |  |  |  |  |
-| Objective response (CR + PR) | 343 | 336 |  |  |
-| Complete response (CR) | 275 (80.2%) | 233 (69.3%) |  |  |
-| Partial Response (PR) | 19 (5.5%) | 14 (4.2%) |  |  |
-| Median Duration of Response (months) | 256 (74.6%) 20.2 | 219 (65.2%) 12.5 |  |  |
-| Difference in ORR 95% CI | 10.8% (4.2%, 17.5%) |  |  | 0.0011 |
+| Objective Response Rate (ORR, independent review) |  |  |  |  |
+| No. of patients analyzed | 343 | 336 |  |  |
+| Objective response (CR + PR) | 275 (80.2%) | 233 (69.3%) |  |  |
+| Complete response (CR) | 19 (5.5%) | 14 (4.2%) |  |  |
+| Partial Response (PR) | 256 (74.6%) | 219 (65.2%) |  |  |
+| Median Duration of Response (months) | 20.2 | 12.5 |  |  |
+| Difference in ORR | 10.8% |  |  |  |
+| 95% CI | (4.2%, 17.5%) |  |  | 0.0011 |
 | CI=Confidence Interval |  |  |  |  |
 
 Figure 1 Kaplan-Meier Curve of IRF-Assessed Progression-Free Survival for CLEOPATRA
@@ -89,16 +91,17 @@ The pCR rates and magnitude of improvement with PERJETA were lower in the subgro
 
 Table 9 Summary of Efficacy from NeoSphere
 
-| Endpoint/Study Population | H+T | Ptz+H+T | Ptz+H | Ptz+T |
-| --- | --- | --- | --- | --- |
 | Overall ITT | N=107 | N=107 | N=107 | N=96 |
+| --- | --- | --- | --- | --- |
+| Endpoint/Study Population | H+T | Ptz+H+T | Ptz+H | Ptz+T |
 | pCRypT0/is ypN0 (absence of invasive cancer in the breast and lymph nodes), n (%) [95% CI]95% CI for one sample binomial using Pearson-Clopper method. | 23 (21.5%) [14.1, 30.5] | 42 (39.3%) [30.0, 49.2] | 12 (11.2%) [5.9, 18.8] | 17 (17.7%) [10.7, 26.8] |
 | p-value (with Simes correction for CMH test)p-value from Cochran-Mantel-Haenszel (CMH) test, with Simes multiplicity adjustment |  | 0.0063 (vs. H+T) | 0.0223 (vs. H+T) | 0.0018 (vs. Ptz+H+T) |
 | Hormone receptor-positive subgroup | N=50 | N=50 | N=51One patient had unknown hormone receptor status. The patient did not achieve a pCR. | N=46 |
 | pCR, n (%) [95% CI] | 6 (12.0%) [4.5, 24.3] | 11 (22.0%) [11.5, 36.0] | 1 (2.0%) [0.1, 10.5] | 4 (8.7%) [2.4, 20.8] |
 | Hormone receptor-negative subgroup | N=57 | N=57 | N=55 | N=50 |
 | pCR, n (%) [95% CI] | 17 (29.8%) [18.4, 43.4] | 31 (54.4%) [40.7, 67.6] | 11 (20.0%) [10.4, 33.0] | 13 (26.0%) [14.6, 40.3] |
-| T=docetaxel, Ptz=PERJETA, H=trastuzumab CI=Confidence Interval |  |  |  |  |
+| T=docetaxel, Ptz=PERJETA, H=trastuzumab |  |  |  |  |
+| CI=Confidence Interval |  |  |  |  |
 
 TRYPHAENA
 
