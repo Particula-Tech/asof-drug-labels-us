@@ -23,6 +23,14 @@ If any of these symptoms persist, or other symptoms occur, the patient should be
 Advise patients to avoid becoming dehydrated or overheated, which may potentially increase the risks of hypotension and syncope [see Warnings and Precautions (5.1)].
 Advise patients to avoid use with alcohol.
 
+Pregnancy Registry
+
+Advise patients that there is a pregnancy exposure registry that monitors pregnancy outcomes in patients exposed to guanfacine extended-release tablets during pregnancy [see Use in Specific Populations (8.1)].
+
+Lactation
+
+Advise breastfeeding mothers to monitor infants exposed to guanfacine through breastmilk for sedation, lethargy and poor feeding [see Use in Specific Populations (8.2)].
+
 All registered trademarks in this document are the property of their respective owners.
 
 APOTEX INC.
@@ -35,7 +43,7 @@ Guanfacine Extended-Release Tablets
 | --- | --- |
 | Apotex Inc. Toronto, Ontario Canada M9L 1T9 | Apotex Corp. Weston, Florida USA 33326 |
 
-Revised: May 2019
+Revised: January 2020
 
 Rev.
-8
+9
