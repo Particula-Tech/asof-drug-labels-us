@@ -17,7 +17,6 @@ During such episodes, patients may require therapy with oral corticosteroids.
 ## 5.3 Immunosuppression
 
 Persons who are using drugs that suppress the immune system are more susceptible to infections than healthy individuals.
-
 Chickenpox and measles, for example, can have a more serious or even fatal course in susceptible children or adults using corticosteroids.
 In such children or adults who have not had these diseases or been properly immunized, particular care should be taken to avoid exposure.
 How the dose, route, and duration of corticosteroid administration affect the risk of developing a disseminated infection is not known.

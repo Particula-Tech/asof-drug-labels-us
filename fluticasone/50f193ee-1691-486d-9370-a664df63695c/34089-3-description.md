@@ -2,7 +2,7 @@
 
 ARNUITY ELLIPTA is an inhalation powder drug product for delivery of fluticasone furoate (an ICS) to patients by oral inhalation.
 
-Fluticasone furoate, a synthetic trifluorinated corticosteroid, has the chemical name (6α,11β,16α,17α)-6,9-difluoro-17-{[(fluoro-methyl)thio]carbonyl}-11-hydroxy-16-methyl-3-oxoandrosta-1,4-dien-17-yl 2-furancarboxylate and the following chemical structure:
+Fluticasone furoate, a synthetic trifluorinated corticosteroid, has the chemical name (6α,11β,16α,17α)-6,9-difluoro-17-{[(fluoro-methyl)thioi just sne]carbonyl}-11-hydroxy-16-methyl-3-oxoandrosta-1,4-dien-17-yl 2-furancarboxylate and the following chemical structure:
 
 Fluticasone furoate is a white powder with a molecular weight of 538.6, and the empirical formula is C27H29F3O6S.
 It is practically insoluble in water.
