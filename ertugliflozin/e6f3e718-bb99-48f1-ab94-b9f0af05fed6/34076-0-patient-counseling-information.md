@@ -25,10 +25,9 @@ Inform patients that dehydration may increase the risk for hypotension, and to h
 
 Ketoacidosis
 
-Inform patients that ketoacidosis is a serious life-threatening condition.
-Cases of ketoacidosis have been reported during use of STEGLATRO.
+Inform patients that ketoacidosis is a serious life-threatening condition and that cases of ketoacidosis have been reported during use of STEGLATRO, sometimes associated with illness or surgery among other risk factors.
 Instruct patients to check ketones (when possible) if symptoms consistent with ketoacidosis occur even if blood glucose is not elevated.
-If symptoms of ketoacidosis (including nausea, vomiting, abdominal pain, tiredness, and labored breathing) occur, instruct patients to discontinue STEGLATRO and seek medical advice immediately [see Warnings and Precautions (5.2)].
+If symptoms of ketoacidosis (including nausea, vomiting, abdominal pain, tiredness, and labored breathing) occur, instruct patients to discontinue STEGLATRO and seek medical attention immediately [see Warnings and Precautions (5.2)].
 
 Acute Kidney Injury
 

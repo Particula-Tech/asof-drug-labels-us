@@ -20,10 +20,16 @@ Treatment of ketoacidosis may require insulin, fluid and carbohydrate replacemen
 
 In many of the reported cases, and particularly in patients with type 1 diabetes, the presence of ketoacidosis was not immediately recognized and institution of treatment was delayed because presenting blood glucose levels were below those typically expected for diabetic ketoacidosis (often less than 250 mg/dL).
 Signs and symptoms at presentation were consistent with dehydration and severe metabolic acidosis and included nausea, vomiting, abdominal pain, generalized malaise, and shortness of breath.
-In some but not all cases, factors predisposing to ketoacidosis such as insulin dose reduction, acute febrile illness, reduced caloric intake due to illness or surgery, pancreatic disorders suggesting insulin deficiency (e.g., type 1 diabetes, history of pancreatitis or pancreatic surgery), and alcohol abuse were identified.
+In some but not all cases, factors predisposing to ketoacidosis such as insulin dose reduction, acute febrile illness, reduced caloric intake, surgery, pancreatic disorders suggesting insulin deficiency (e.g., type 1 diabetes, history of pancreatitis or pancreatic surgery), and alcohol abuse were identified.
 
 Before initiating STEGLATRO, consider factors in the patient history that may predispose to ketoacidosis, including pancreatic insulin deficiency from any cause, caloric restriction, and alcohol abuse.
-In patients treated with STEGLATRO consider monitoring for ketoacidosis and temporarily discontinuing STEGLATRO in clinical situations known to predispose to ketoacidosis (e.g., prolonged fasting due to acute illness or surgery).
+
+For patients who undergo scheduled surgery, consider temporarily discontinuing STEGLATRO for at least 4 days prior to surgery [see Clinical Pharmacology (12.2, 12.3)].
+
+Consider monitoring for ketoacidosis and temporarily discontinuing STEGLATRO in other clinical situations known to predispose to ketoacidosis (e.g., prolonged fasting due to acute illness or post-surgery).
+Ensure risk factors for ketoacidosis are resolved prior to restarting STEGLATRO.
+
+Educate patients on the signs and symptoms of ketoacidosis and instruct patients to discontinue STEGLATRO and seek medical attention immediately if signs and symptoms occur.
 
 ## 5.3 Acute Kidney Injury and Impairment in Renal Function
 
