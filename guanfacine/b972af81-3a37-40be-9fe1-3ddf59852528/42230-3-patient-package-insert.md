@@ -32,6 +32,9 @@ Before you take INTUNIV®, tell your doctor if you:
 - are pregnant or plan to become pregnant.
   It is not known if INTUNIV® will harm your unborn baby.
   Talk to your doctor if you are pregnant or plan to become pregnant.
+  - There is a pregnancy registry for females who are exposed to ADHD medications, including INTUNIV, during pregnancy.
+    The purpose of the registry is to collect information about the health of females exposed to INTUNIV and their baby.
+    If you or your child becomes pregnant during treatment with INTUNIV, talk to your healthcare provider about registering with the National Pregnancy Registry of ADHD medications at 1-866-961-2388.
 - are breastfeeding or plan to breastfeed.
   It is not known if INTUNIV® passes into your breast milk.
   Talk to your doctor about the best way to feed your baby while taking INTUNIV®.
@@ -149,12 +152,13 @@ In addition, the 3 mg and 4 mg tablets also contain green pigment blend PB-1763.
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 
-Manufactured for Shire US Inc., 300 Shire Way, Lexington, MA 02421.
+Manufactured for: Shire US Inc., 300 Shire Way, Lexington, MA 02421
 
-INTUNIV® is a registered trademark of Shire LLC.
+INTUNIV is a registered trademark of Shire LLC, a Takeda company.
 
-Revised: 11/2017
-
-© 2017 Shire US Inc.
+© 2019 Takeda Pharmaceutical Company Limited.
+All rights reserved.
 
 This product is covered by US patents including 6,287,599; 6,811,794.
+
+Revised: 12/2019
