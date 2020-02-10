@@ -9,10 +9,6 @@ Use the lowest dosage and shortest exposure to SABRIL consistent with clinical o
 The SABRIL dosing regimen depends on the indication, age group, weight, and dosage form (tablets or powder for oral solution) [see Dosage and Administration (2.2, 2.3)].
 Patients with impaired renal function require dose adjustment [see Dosage and Administration (2.4)].
 
-SABRIL tablets and powder for oral solution are bioequivalent.
-Either tablet or powder can be used for CPS.
-Powder for oral solution should be used for IS; tablets should not be used for IS because of difficulty in the administration of tablets to infants and young children.
-
 Monitoring of SABRIL plasma concentrations to optimize therapy is not helpful.
 
 Administration
@@ -20,6 +16,8 @@ Administration
 SABRIL is given orally with or without food.
 
 SABRIL powder for oral solution should be mixed with water prior to administration [see Dosage and Administration (2.5)].
+A calibrated measuring device is recommended to measure and deliver the prescribed dose accurately.
+A household teaspoon or tablespoon is not an adequate measuring device.
 
 If a decision is made to discontinue SABRIL, the dose should be gradually reduced [see Dosage and Administration (2.2, 2.3) and Warnings and Precautions (5.6)].
 
@@ -32,16 +30,21 @@ A 6000 mg/day dose has not been shown to confer additional benefit compared to t
 
 In controlled clinical studies in adults with complex partial seizures, SABRIL was tapered by decreasing the daily dose 1000 mg/day on a weekly basis until discontinued [see Warnings and Precautions (5.6)].
 
-Pediatric (Patients 10 to 16 Years of Age) Treatment is based on body weight as shown in Table 1.
-Treatment should be initiated at a total daily dose of 500 mg/day (250 mg twice daily) and may be increased weekly in 500 mg/day increments to a total maintenance dose of 2000 mg/day (1000 mg twice daily).
-Patients weighing more than 60 kg should be dosed according to adult recommendations.
+Pediatric (Patients 2 to 16 Years of Age)
 
-| Table 1. Pediatric CPS Dosing Recommendations |  |  |
-| --- | --- | --- |
-| Body Weight [kg] | Total Daily* Starting Dose [mg/day] | Total Daily* Maintenance Dose† [mg/day] |
-| 25 to 60†† | 500 | 2000 |
+The recommended dosage is based on body weight and administered as two divided doses, as shown in Table 1.
+The dosage may be increased in weekly intervals to the total daily maintenance dosage, depending on response.
 
-*Administered in two divided doses. †Maintenance dose is based on 3000 mg/day adult-equivalent dose †† Patients weighing more than 60 kg should be dosed according to adult recommendations
+Pediatric patients weighing more than 60 kg should be dosed according to adult recommendations.
+
+| Table 1. CPS Dosing Recommendations for Pediatric Patients Weighing 10 kg up to 60 kg†† |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| Body Weight[kg] | Total Daily*Starting Dose[mg/day] | Total Daily*Maintenance Dose†[mg/day] |  |  |
+| 10 kg to 15 kg | 350 mg | 1050 mg |  |  |
+| Greater than 15 kg to 20 kg | 450 mg | 1300 mg |  |  |
+| Greater than 20 kg to 25 kg | 500 mg | 1500 mg |  |  |
+| Greater than 25 kg to 60 kg | 500 mg | 2000 mg |  |  |
+| * Administered in two divided doses† Maintenance dose is based on 3000 mg/day adult-equivalent dose†† Patients weighing more than 60 kg should be dosed according to adult recommendations |  |  |  |  |
 
 In patients with refractory complex partial seizures, SABRIL should be withdrawn if a substantial clinical benefit is not observed within 3 months of initiating treatment.
 If, in the clinical judgment of the prescriber, evidence of treatment failure becomes obvious earlier than 3 months, treatment should be discontinued at that time [see Warnings and Precautions (5.1)].
@@ -83,19 +86,19 @@ SABRIL is primarily eliminated through the kidney.
 
 Infants Information about how to adjust the dose in infants with renal impairment is unavailable.
 
-Adult and pediatric patients 10 years and older
+Adult and pediatric patients 2 years and older
 
 - Mild renal impairment (CLcr >50 to 80 mL/min): dose should be decreased by 25%
 - Moderate renal impairment (CLcr >30 to 50 mL/min): dose should be decreased by 50%
-- Severe renal impairment (CLcr >10 to 30 mL/min): dose should be decreased by 75%.
+- Severe renal impairment (CLcr >10 to 30 mL/min): dose should be decreased by 75%
 
 CLcr in mL/min may be estimated from serum creatinine (mg/dL) using the following formulas:
 
-- Patients 10 to <12 years old: CLcr (mL/min/1.73 m2) = (K × Ht) / Scr
+- Patients 2 to <12 years old: CLcr (mL/min/1.73 m2) = (K × Ht) / Scr
 
 height (Ht) in cm; serum creatinine (Scr) in mg/dL K (proportionality constant): Female Child (<12 years): K=0.55; Male Child (<12 years): K=0.70
 
-- Adult and pediatric patients 12 years or older: CLcr (mL/min) = [140-age (years)] × weight (kg) / [72 × serum creatinine (mg/dL)] (×0.85 for female patients)
+- Adult and pediatric patients 12 years or older: CLcr (mL/min) = [140-age (years)] × weight (kg) / [72 × serum creatinine (mg/dL)] (× 0.85 for female patients)
 
 The effect of dialysis on SABRIL clearance has not been adequately studied [see Clinical Pharmacology (12.3) and Use in Specific Populations (8.6)].
 
@@ -105,7 +108,7 @@ If using SABRIL powder for oral solution, physicians should review and discuss t
 Physicians should confirm that patients or caregiver(s) understand how to mix SABRIL powder with water and administer the correct daily dose.
 
 Empty the entire contents of each 500 mg packet into a clean cup, and dissolve in 10 mL of cold or room temperature water per packet.
-Administer the resulting solution using the 10 mL oral syringe supplied with the medication.
+Administer the resulting solution using the 3 mL or 10 mL oral syringe provided by the pharmacy [see How Supplied/Storage and Handling (16.1)].
 The concentration of the final solution is 50 mg/mL.
 
 Table 3 below describes how many packets and how many milliliters (mL) of water will be needed to prepare each individual dose.

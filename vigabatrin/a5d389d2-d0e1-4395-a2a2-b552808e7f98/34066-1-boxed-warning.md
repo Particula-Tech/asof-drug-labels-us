@@ -1,7 +1,7 @@
 # WARNING: PERMANENT VISION LOSS
 
-- SABRIL can cause permanent bilateral concentric visual field constriction, including tunnel vision that can result in disability.
-  In some cases, SABRIL also can damage the central retina and may decrease visual acuity [see Warnings and Precautions (5.1)]
+- SABRIL can cause permanent bilateral concentric visual field constriction including tunnel vision that can result in disability.
+  In some cases, SABRIL also can damage the central retina and may decrease visual acuity [see Warnings and Precautions (5.1)].
 - The onset of vision loss from SABRIL is unpredictable, and can occur within weeks of starting treatment or sooner, or at any time after starting treatment, even after months or years.
 - Symptoms of vision loss from SABRIL are unlikely to be recognized by patients or caregivers before vision loss is severe.
   Vision loss of milder severity, while often unrecognized by the patient or caregiver, can still adversely affect function.
@@ -12,7 +12,7 @@
 - Consider drug discontinuation, balancing benefit and risk, if visual loss is documented.
 - Risk of new or worsening vision loss continues as long as SABRIL is used.
   It is possible that vision loss can worsen despite discontinuation of SABRIL.
-- Because of the risk of vision loss, SABRIL should be withdrawn from patients with refractory complex partial seizures who fail to show substantial clinical benefit within 3 months of initiation and within 2-4 weeks of initiation for patients with infantile spasms, or sooner if treatment failure becomes obvious.
+- Because of the risk of visual loss, SABRIL should be withdrawn from patients with refractory complex partial seizures who fail to show substantial clinical benefit within 3 months of initiation and within 2-4 weeks of initiation for patients with infantile spasms, or sooner if treatment failure becomes obvious.
   Patient response to and continued need for SABRIL should be periodically reassessed.
 - SABRIL should not be used in patients with, or at high risk of, other types of irreversible vision loss unless the benefits of treatment clearly outweigh the risks.
 - SABRIL should not be used with other drugs associated with serious adverse ophthalmic effects such as retinopathy or glaucoma unless the benefits clearly outweigh the risks.
