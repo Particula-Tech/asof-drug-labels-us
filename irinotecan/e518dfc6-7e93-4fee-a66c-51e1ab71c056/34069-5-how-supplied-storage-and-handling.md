@@ -13,7 +13,7 @@ CAMPTOSAR Injection is available in single-dose amber colored polypropylene CYTO
 |  | 5 mL | NDC 0009-7529-03 |
 |  | 15 mL | NDC 0009-7529-05 |
 
-Store at controlled room temperature 15° to 30°C (59° to 86°F).
+Store at controlled room temperature 15°C to 30°C (59° to 86°F).
 Protect from light.
 Keep the vial in the carton until the time of use.
 

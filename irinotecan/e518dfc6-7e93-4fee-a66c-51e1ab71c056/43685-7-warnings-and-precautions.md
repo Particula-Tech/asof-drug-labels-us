@@ -93,14 +93,14 @@ CAMPTOSAR should be used as recommended in Table 2 [see Dosage and Administratio
 
 In patients receiving either irinotecan/5-FU/LV or 5-FU/LV in the clinical trials, higher rates of hospitalization, neutropenic fever, thromboembolism, first-cycle treatment discontinuation, and early deaths were observed in patients with a baseline performance status of 2 than in patients with a baseline performance status of 0 or 1.
 
-## 5.9 Embryofetal Toxicity
+## 5.9 Embryo-Fetal Toxicity
 
-CAMPTOSAR can cause fetal harm when administered to a pregnant woman.
-Irinotecan was embryotoxic in rats and rabbits at doses significantly lower than those administered to humans on a mg/m2 basis.
-In rats, at exposures approximately 0.2 times those achieved in humans at the 125 mg/m2 dose, irinotecan was embryotoxic and resulted in decreased learning ability and female fetal body weight in surviving pups; the drug was teratogenic at lower exposures (approximately 0.025 times the AUC in humans at the 125 mg/m2 dose).
-There are no adequate and well-controlled studies of irinotecan in pregnant women.
-If this drug is used during pregnancy, or if the patient becomes pregnant while taking this drug, the patient should be apprised of the potential hazard to a fetus.
-Women of childbearing potential should be advised to avoid becoming pregnant while receiving treatment with CAMPTOSAR.
+Based on its mechanism of action and findings in animals, CAMPTOSAR can cause fetal harm when administered to a pregnant woman.
+In animal studies, intravenous administration of irinotecan during the period of organogenesis resulted in embryofetal mortality and teratogenicity in pregnant animals at exposures lower than the human exposure based on area under the curve (AUC) at the clinical dose of 125 mg/m2.
+Advise pregnant women of the potential risk to a fetus.
+
+Advise female patients of reproductive potential to avoid becoming pregnant and to use highly effective contraception during treatment with CAMPTOSAR and for 6 months after the final dose.
+Advise male patients with female partners of reproductive potential to use condoms during treatment and for 3 months after the final dose of CAMPTOSAR [see Use in Specific Populations (8.1), (8.3) and Nonclinical Toxicology (13.1)].
 
 ## 5.10 Patients with Hepatic Impairment
 
