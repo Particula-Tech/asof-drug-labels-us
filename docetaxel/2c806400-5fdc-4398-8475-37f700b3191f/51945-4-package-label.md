@@ -50,4 +50,4 @@ For Intravenous Infusion Only READY TO ADD TO INFUSION SOLUTION
 
 CAUTION: Cytotoxic Agent
 
-Contains 8 mL Single-Dose Vial Discard Unused Portion.
+Contains 8 mL Single-Dose Vial Discard Unused Portion

@@ -242,7 +242,7 @@ Approximately 75% of patients had died at the time of this analysis.
 Overall survival was significantly longer (p=0.0201) in the TCF arm with a HR of 1.29 (95% CI: 1.04 to 1.61).
 Efficacy results are summarized in Table 19 and Figures 6 and 7.
 
-Table 19 - Efficacy of Docetaxel Injection in the treatment of patients with Gastric Adenocarcinoma
+Table 19 - Efficacy of Docetaxel Injection in the Treatment of Patients with Gastric Adenocarcinoma
 
 |  | n=221 | n=224 |
 | --- | --- | --- |
@@ -280,8 +280,8 @@ At the end of chemotherapy, with a minimal interval of 4 weeks and a maximal int
 Locoregional therapy with radiation was delivered either with a conventional fraction regimen (1.8 Gy to 2.0 Gy once a day, 5 days per week for a total dose of 66 to 70 Gy) or with an accelerated/hyperfractionated regimen (twice a day, with a minimum interfraction interval of 6 hours, 5 days per week, for a total dose of 70 to 74 Gy, respectively).
 Surgical resection was allowed following chemotherapy, before or after radiotherapy.
 
-The primary endpoint in this study, progression-free survival (PFS), was significantly longer in the TPF arm compared to the PF arm, p=0.0077 (median PFS: 11.4 vs. 8.3 months respectively) with an overall median follow up time of 33.7 months.
-Median overall survival with a median follow-up of 51.2 months was also significantly longer in favor of the TPF arm compared to the PF arm (median OS: 18.6 vs. 14.2 months respectively).
+The primary endpoint in this study, progression-free survival (PFS), was significantly longer in the TPF arm compared to the PF arm, p=0.0077 (median PFS: 11.4 vs. 8.3 months respectively) with an overall median follow-up time of 33.7 months.
+Median overall survival with a median follow-up of 51.2 months was also significantly longer in favor of the TPF arm compared to the PF arm (median OS: 18.6 vs. 14.2 months, respectively).
 Efficacy results are presented in Table 20 and Figures 8 and 9.
 
 Table 20 - Efficacy of Docetaxel Injection in the Induction Treatment of Patients with Inoperable Locally Advanced SCCHN (Intent-to-Treat Analysis)
@@ -328,7 +328,7 @@ During radiotherapy, carboplatin (AUC 1.5) was given weekly as a one-hour intrav
 Radiation was delivered with megavoltage equipment using once daily fractionation (2 Gy per day, 5 days per week for 7 weeks for a total dose of 70 to 72 Gy).
 Surgery on the primary site of disease and/or neck could be considered at anytime following completion of CRT.
 
-The primary efficacy endpoint, overall survival (OS), was significantly longer (log-rank test, p=0.0058) with the Docetaxel Injection-containing regimen compared to PF [median OS: 70.6 versus 30.1 months respectively, hazard ratio (HR)=0.70, 95% confidence interval (CI)= 0.54 – 0.90].
+The primary efficacy endpoint, overall survival (OS), was significantly longer (log-rank test, p=0.0058) with the Docetaxel Injection-containing regimen compared to PF (median OS: 70.6 versus 30.1 months respectively, hazard ratio [HR]=0.70, 95% confidence interval [CI]= 0.54 to 0.90).
 Overall survival results are presented in Table 21 and Figure 10.
 
 Table 21 - Efficacy of Docetaxel Injection in the Induction Treatment of Patients with Locally Advanced SCCHN (Intent-to-Treat Analysis)

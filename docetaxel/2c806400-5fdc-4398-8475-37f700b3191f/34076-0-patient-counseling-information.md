@@ -14,8 +14,7 @@ Advise patients of the symptoms of colitis, such as abdominal pain or tenderness
 Hypersensitivity Reactions
 
 Ask patients whether they have previously received paclitaxel therapy, and if they have experienced a hypersensitivity reaction to paclitaxel.
-Instruct patients to immediately report to their healthcare provider signs of a hypersensitivity reaction.
-[see Contraindications (4) and Warnings and Precautions (5.5)].
+Instruct patients to immediately report to their healthcare provider signs of a hypersensitivity reaction [see Contraindications (4) and Warnings and Precautions (5.5)].
 
 Fluid Retention
 
@@ -33,9 +32,7 @@ Instruct patients to immediately report severe cutaneous reactions to their heal
 Neurologic Reactions
 
 Advise patients that neurosensory symptoms or peripheral neuropathy may occur.
-Instruct patients to immediately report neurologic reactions to their healthcare provider [see Dosage and
-
-Administration (2.7) and Warnings and Precautions (5.9)].
+Instruct patients to immediately report neurologic reactions to their healthcare provider [see Dosage and Administration (2.7) and Warnings and Precautions (5.9)].
 
 Eye Disorders
 
@@ -47,7 +44,7 @@ Gastrointestinal Reactions
 Explain to patients that nausea, vomiting, diarrhea, and constipation are associated with Docetaxel Injection administration.
 Instruct patients to report any severe events to their healthcare provider [see Adverse Reactions (6)].
 
-Cardiac disorders
+Cardiac Disorders
 
 Advise patients to report any irregular and/or rapid heartbeat, severe shortness of breath, dizziness, and/or fainting immediately to their healthcare provider [see Adverse Reactions (6)].
 
@@ -92,13 +89,13 @@ Drug Interactions
 
 Inform patients about the risk of drug interactions and the importance of providing a list of prescription and non-prescription drugs to their healthcare provider [see Drug Interactions (7)].
 
-Made in Italy
+Manufactured In Italy By: Actavis Italy Spa A Socio Unico Nerviano, Italy, 20014
 
-Distributed by:
+Or
 
-Actavis Pharma, Inc.
+Manufactured In Romania By: Sindan Pharma SRL Bucharest 1, Romania 011171
 
-Parsippany, NJ 07054 USA
+Distributed By: Actavis Pharma, Inc. Parsippany, NJ 07054 USA
 
 Rev.
-C 7/2019
+E 12/2019
