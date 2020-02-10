@@ -5,8 +5,8 @@
 Aprepitant is a substrate, a weak-to-moderate (dose-dependent) inhibitor, and an inducer of CYP3A4.
 Aprepitant is also an inducer of CYP2C9 [see Clinical Pharmacology (12.3)].
 
-Aprepitant acts as a moderate inhibitor of CYP3A4 when administered as a 3-day regimen (125-mg/80-mg/80-mg) and can increase plasma concentrations of concomitant drugs that are substrates for CYP3A4.
-Aprepitant acts as a weak inhibitor when administered as a single 40-mg dose and has not been shown to alter the plasma concentrations of concomitant drugs that are primarily metabolized through CYP3A4.
+Aprepitant acts as a moderate inhibitor of CYP3A4 when administered as a 3-day regimen (125 mg/80 mg/80 mg) and can increase plasma concentrations of concomitant drugs that are substrates for CYP3A4.
+Aprepitant acts as a weak inhibitor when administered as a single 40 mg dose and has not been shown to alter the plasma concentrations of concomitant drugs that are primarily metabolized through CYP3A4.
 Some substrates of CYP3A4 are contraindicated with aprepitant [see Contraindications (4)].
 Dosage adjustment of some CYP3A4 and CYP2C9 substrates may be warranted, as shown in Table 10.
 
@@ -15,7 +15,7 @@ Table 10: Effects of Aprepitant on the Pharmacokinetics of Other Drugs
 | CYP3A4 Substrates |  |
 | --- | --- |
 | Pimozide |  |
-| Clinical Impact | Increased pimozide exposure |
+| Clinical Impact | Increased pimozide exposure. |
 | Intervention | Aprepitant is contraindicated [see Contraindications (4)]. |
 | Benzodiazepines |  |
 | Clinical Impact | Increased exposure to midazolam or other benzodiazepines metabolized via CYP3A4 (alprazolam, triazolam) may increase the risk of adverse reactions [see Clinical Pharmacology (12.3)]. |
@@ -35,8 +35,8 @@ Table 10: Effects of Aprepitant on the Pharmacokinetics of Other Drugs
 | Examples | birth control pills, skin patches, implants, and certain IUDs |
 | CYP2C9 Substrates |  |
 | Warfarin |  |
-| Clinical Impact | Decreased warfarin exposure and prolongation of prothrombin time (INR) [see Warningsand Precautions (5.2), Clinical Pharmacology (12.3)]. |
-| Intervention | In patients on chronic warfarin therapy, monitor the prothrombin time (INR) in the 2-week period, particularly at 7 to 10 days, following initiation of the 3-day aprepitant regimen with each chemotherapy cycle, or following administration of a single 40-mg dose of aprepitant. |
+| Clinical Impact | Decreased warfarin exposure and decreased prothrombin time (INR) [see Warningsand Precautions (5.2), Clinical Pharmacology (12.3)]. |
+| Intervention | In patients on chronic warfarin therapy, monitor the prothrombin time (INR) in the 2-week period, particularly at 7 to 10 days, following initiation of the 3-day aprepitant regimen with each chemotherapy cycle, or following administration of a single 40 mg dose of aprepitant. |
 | Other |  |
 | 5-HT3 Antagonists |  |
 | Clinical Impact | No change in the exposure of the 5-HT3 antagonist [see Clinical Pharmacology (12.3)]. |

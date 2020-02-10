@@ -5,7 +5,7 @@
 Risk Summary
 
 There are insufficient data on use of aprepitant in pregnant women to inform a drug associated risk.
-In animal reproduction studies, no adverse developmental effects were observed in rats or rabbits exposed during the period of organogenesis to systemic drug levels (AUC) approximately 1.5 times the adult human exposure at the 125-mg/80-mg/80-mg aprepitant regimen [see Data].
+In animal reproduction studies, no adverse developmental effects were observed in rats or rabbits exposed during the period of organogenesis to systemic drug levels (AUC) approximately 1.5 times the adult human exposure at the 125 mg/80 mg/80 mg aprepitant regimen [see Data].
 
 The estimated background risk of major birth defects and miscarriage for the indicated populations is unknown.
 In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively.
@@ -16,7 +16,7 @@ Animal Data
 
 In embryofetal development studies in rats and rabbits, aprepitant was administered during the period of organogenesis at oral doses up to 1000 mg/kg twice daily in rats and up to the maximum tolerated dose of 25 mg/kg/day in rabbits.
 No embryofetal lethality or malformations were observed at any dose level in either species.
-The exposures (AUC) in pregnant rats at 1000 mg/kg twice daily and in pregnant rabbits at 125 mg/kg/day were approximately 1.5 times the adult exposure at the 125-mg/80-mg/80-mg aprepitant regimen.
+The exposures (AUC) in pregnant rats at 1000 mg/kg twice daily and in pregnant rabbits at 125 mg/kg/day were approximately 1.5 times the adult exposure at the 125 mg/80 mg/80 mg aprepitant regimen.
 Aprepitant crosses the placenta in rats and rabbits.
 
 ## 8.2 Lactation
@@ -38,6 +38,11 @@ Advise females of reproductive potential using hormonal contraceptives to use an
 
 Prevention of Nausea and Vomiting Associated with HEC or MEC
 
+The safety and effectiveness of aprepitant capsules in pediatric patients 12 years of age and older for the prevention of acute and delayed nausea and vomiting associated with initial and repeat courses of HEC, including high-dose cisplatin, and MEC.
+Use of aprepitant in these age groups is supported by evidence from 95 pediatric patients in a randomized, double-blind, active comparator controlled clinical study (n = 95 patients aged 12 through 17 years).
+Aprepitant was studied in combination with ondansetron with or without dexamethasone (at the discretion of the physician) [see Clinical Studies (14.3)].
+Adverse reactions were similar to those reported in adult patients [see Adverse Reactions (6.1)].
+
 The safety and effectiveness of aprepitant for the prevention of nausea and vomiting associated with HEC or MEC have not been established in patients less than 6 months.
 
 Prevention of Postoperative Nausea and Vomiting (PONV)
@@ -47,12 +52,9 @@ The safety and effectiveness of aprepitant have not been established for the pre
 Juvenile Animal Study
 
 A study was conducted in young rats to evaluate the effects of aprepitant on growth and on neurobehavioral and sexual development.
-Rats were treated at oral doses up to the maximum feasible dose of 1000 mg/kg twice daily from the early postnatal period (Postnatal Day 10) through Postnatal Day 58.
+Rats were treated at oral doses up to the maximum feasible dose of 1000 mg/kg twice daily (providing exposure in male rats lower than the exposure at the recommended pediatric human dose and exposure in female rats equivalent to the pediatric human exposure) from the early postnatal period (Postnatal Day 10) through Postnatal Day 58.
 Slight changes in the onset of sexual maturation were observed in female and male rats; however, there were no effects on mating, fertility, embryonic-fetal survival, or histomorphology of the reproductive organs.
 There were no effects in neurobehavioral tests of sensory function, motor function, and learning and memory.
-
-Pediatric use information is approved for Merck Sharp & Dohme Corp.'s EMEND® (aprepitant) capsules.
-However, due to Merck Sharp & Dohme Corp's marketing exclusivity rights, this drug product is not labeled with that information.
 
 ## 8.5 Geriatric Use
 

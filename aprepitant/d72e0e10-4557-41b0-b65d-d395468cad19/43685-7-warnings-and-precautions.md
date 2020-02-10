@@ -14,7 +14,7 @@ See Table 10 and Table 11 for a listing of potentially significant drug interact
 ## 5.2 Decrease in INR with Concomitant Warfarin
 
 Coadministration of aprepitant with warfarin, a CYP2C9 substrate, may result in a clinically significant decrease in International Normalized Ratio (INR) of prothrombin time [see Clinical Pharmacology (12.3)].
-Monitor the INR in patients on chronic warfarin therapy in the 2-week period, particularly at 7 to 10 days, following initiation of the 3-day regimen of aprepitant with each chemotherapy cycle, or following administration of a single 40-mg dose of aprepitant for the prevention of postoperative nausea and vomiting [see Drug Interactions (7.1)].
+Monitor the INR in patients on chronic warfarin therapy in the 2-week period, particularly at 7 to 10 days, following initiation of the 3-day regimen of aprepitant with each chemotherapy cycle, or following administration of a single 40 mg dose of aprepitant for the prevention of postoperative nausea and vomiting [see Drug Interactions (7.1)].
 
 ## 5.3 Risk of Reduced Efficacy of Hormonal Contraceptives
 

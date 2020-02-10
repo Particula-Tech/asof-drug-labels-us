@@ -2,13 +2,10 @@
 
 ## 1.1 Prevention of Chemotherapy Induced Nausea and Vomiting (CINV)
 
-Aprepitant capsules, in combination with other antiemetic agents, are indicated for the prevention of:
+Aprepitant capsules, in combination with other antiemetic agents, are indicated in patients 12 years of age and older for the prevention of:
 
 - •acute and delayed nausea and vomiting associated with initial and repeat courses of highly emetogenic cancer chemotherapy (HEC) including high-dose cisplatin.
 - •nausea and vomiting associated with initial and repeat courses of moderately emetogenic cancer chemotherapy (MEC).
-
-Pediatric use information is approved for Merck Sharp & Dohme Corp.'s EMEND® (aprepitant) capsules.
-However, due to Merck Sharp & Dohme Corp.'s marketing exclusivity rights, this drug product is not labeled with that information.
 
 ## 1.2 Prevention of Postoperative Nausea and Vomiting (PONV)
 

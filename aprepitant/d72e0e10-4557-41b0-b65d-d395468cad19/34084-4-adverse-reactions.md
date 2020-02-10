@@ -63,9 +63,41 @@ In another CINV study, Stevens-Johnson syndrome was reported as a serious advers
 
 Adverse reactions in the Multiple-Cycle extensions of HEC and MEC studies for up to 6 cycles of chemotherapy were generally similar to that observed in Cycle 1.
 
+Adverse Reactions in Pediatric Patients 6 Months to 17 Years of Age in the Prevention of Nausea and Vomiting Associated with HEC or MEC
+
+In a pooled analysis of 2 active-controlled clinical trials in pediatric patients aged 6 months to 17 years who received highly or moderately emetogenic cancer chemotherapy (Study 5 and a safety study, Study 6), aprepitant in combination with ondansetron with or without dexamethasone (aprepitant regimen) was compared to ondansetron with or without dexamethasone (control regimen).
+
+There were 184 patients treated with the aprepitant regimen during Cycle 1 and 215 patients received open-label aprepitant for up to 9 additional cycles of chemotherapy.
+
+In Cycle 1, the most common adverse reactions reported in pediatric patients treated with the aprepitant regimen in pooled Studies 5 and 6 are listed in Table 7.
+
+Table 7: Most Common Adverse Reactions in Aprepitant -Treated Pediatric Patients in HEC and MEC Pooled Studies 5 and 6*
+
+|  | Aprepitant and ondansetron†(N=184) | Ondansetron‡(N=168) |
+| --- | --- | --- |
+| neutropenia | 13% | 11% |
+| headache | 9% | 5% |
+| diarrhea | 6% | 5% |
+| decreased appetite | 5% | 4% |
+| cough | 5% | 3% |
+| fatigue | 5% | 2% |
+| hemoglobin decreased | 5% | 4% |
+| dizziness | 5% | 1% |
+| hiccups | 4% | 1% |
+
+*Reported in ≥3% of patients treated with the aprepitant regimen and at a greater incidence than control regimen.
+
+† Aprepitant regimen
+
+‡Control regimen
+
+Forty-nine patients were treated with ifosfamide chemotherapy in each arm.
+Two of the patients treated with ifosfamide in the aprepitant arm developed behavioral changes (agitation = 1; abnormal behavior = 1), whereas no patient treated with ifosfamide in the control arm developed behavioral changes.
+Aprepitant has the potential for increasing ifosfamide-mediated neurotoxicity through induction of CYP3A4 [see Drug Interactions (7.1) and Clinical Pharmacology (12.3)].
+
 Adverse Reactions in Adult Patients in the Prevention of PONV
 
-In 2 active-controlled, double-blind clinical studies in patients receiving general anesthesia (Studies 7 and 8), 40-mg oral aprepitant was compared to 4-mg intravenous ondansetron [see Clinical Studies (14.4)].
+In 2 active-controlled, double-blind clinical studies in patients receiving general anesthesia (Studies 7 and 8), 40 mg oral aprepitant was compared to 4 mg intravenous ondansetron [see Clinical Studies (14.4)].
 
 There were 564 patients treated with aprepitant and 538 patients treated with ondansetron.
 
@@ -104,9 +136,6 @@ In addition, two serious adverse reactions were reported in PONV clinical studie
 Other Studies
 
 Angioedema and urticaria were reported as serious adverse reactions in a patient receiving aprepitant in a non-CINV/non-PONV study (aprepitant is only approved in the CINV and PONV populations).
-
-Pediatric use information is approved for Merck Sharp & Dohme Corp.'s EMEND® (aprepitant) capsules.
-However, due to Merck Sharp & Dohme Corp's marketing exclusivity rights, this drug product is not labeled with that information.
 
 ## 6.2 Postmarketing Experience
 

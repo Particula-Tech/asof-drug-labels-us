@@ -18,7 +18,9 @@ Instruct patients to use effective alternative or back-up methods of contracepti
 
 Manufactured by:
 
-Glenmark Pharmaceuticals Ltd.
+Manufactured by:
+
+Glenmark Pharmaceuticals Limited
 
 Plot No. 2, Phase-2, Pharma Zone SEZ
 
@@ -32,9 +34,11 @@ Glenmark Pharmaceuticals Inc., USA
 
 Mahwah, NJ 07430
 
+Product of India
+
 Questions?
-1 (888)721-7115
+1 (888) 721-7115
 
-www.glenmarkpharma.com/usa
+www.glenmarkpharma-us.com
 
-June 2017
+January 2020
