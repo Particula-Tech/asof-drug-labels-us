@@ -17,15 +17,15 @@ The following serious and otherwise important adverse reactions are described el
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-In U.S. and primary non-U.S. clinical studies of 4,079 SABRIL treated patients, the most common (≥5%) adverse reactions associated with the use of SABRIL in combination with other AEDs were headache, somnolence, fatigue, dizziness, convulsion, nasopharyngitis, weight gain, upper respiratory tract infection, visual field defect, depression, tremor, nystagmus, nausea, diarrhea, memory impairment, insomnia, irritability, abnormal coordination, blurred vision, diplopia, vomiting, influenza, pyrexia, and rash.
+In U.S. and primary non-U.S. clinical studies of 4,079 SABRIL-treated patients, the most common (≥5%) adverse reactions associated with the use of SABRIL in combination with other AEDs were headache, somnolence, fatigue, dizziness, convulsion, nasopharyngitis, weight gain, upper respiratory tract infection, visual field defect, depression, tremor, nystagmus, nausea, diarrhea, memory impairment, insomnia, irritability, abnormal coordination, blurred vision, diplopia, vomiting, influenza, pyrexia, and rash.
 
 The adverse reactions most commonly associated with SABRIL treatment discontinuation in ≥1% of patients were convulsion and depression.
 
 In patients with infantile spasms, the adverse reactions most commonly associated with SABRIL treatment discontinuation in ≥1% of patients were infections, status epilepticus, developmental coordination disorder, dystonia, hypotonia, hypertonia, weight gain, and insomnia.
 
-Refractory Complex Partial Seizures Adults Table 5 lists the adverse reactions that occurred in ≥2% and more than one patient per SABRIL treated group and that occurred more frequently than in placebo patients from 2 U.S. add-on clinical studies of refractory CPS in adults.
+Refractory Complex Partial Seizures Adults Table 5 lists the adverse reactions that occurred in ≥2% and more than one patient per SABRIL treated group and that occurred more frequently than in placebo patients from 2 U.S. adjunctive clinical studies of refractory CPS in adults.
 
-| Table 5. Adverse Reactions in Pooled, Add-On Trials in Adults with Refractory Complex Partial Seizures |  |  |  |
+| Table 5. Adverse Reactions in Pooled, Adjunctive Trials in Adults with Refractory Complex Partial Seizures |  |  |  |
 | --- | --- | --- | --- |
 |  | SABRIL dosage (mg/day) |  |  |
 | Body System Adverse Reaction | 3000 [N=134] % | 6000 [N=43] % | Placebo [N=135] % |
@@ -120,41 +120,40 @@ Refractory Complex Partial Seizures Adults Table 5 lists the adverse reactions t
 | Skin and Subcutaneous Tissue Disorders |  |  |  |
 | Rash | 4 | 5 | 4 |
 
-Pediatrics 10 to 16 years of age Table 6 lists adverse reactions from controlled clinical studies of pediatric patients receiving SABRIL or placebo as add-on therapy for refractory complex partial seizures.
-Adverse reactions that are listed occurred in at least 2% of SABRIL treated patients and more frequently than placebo.
+Pediatrics 2 to 16 years of age Table 6 lists adverse reactions from controlled clinical studies of pediatric patients receiving SABRIL or placebo as adjunctive therapy for refractory complex partial seizures.
+Adverse reactions that are listed occurred in at least 2% of SABRIL-treated patients and more frequently than placebo.
 The median SABRIL dose was 49.4 mg/kg (range of 8.0 – 105.9 mg/kg).
 
-| Table 6. Adverse Reactions in Pooled, Add-On Trials in Pediatric Patients 10 to 16 Years of Age with Refractory Complex Partial Seizures |  |  |
+| Table 6. Adverse Reactions in Pooled, Adjunctive Trials in Pediatric Patients 3 to 16 Years of Age with Refractory Complex Partial Seizures |  |  |
 | --- | --- | --- |
-| Body System Adverse Reaction | All SABRIL [N=109] % | Placebo [N=46] % |
+| Body SystemAdverse Reaction | All SABRIL [N=165] % | Placebo [N=104] % |
 | Eye Disorders |  |  |
-| Diplopia | 5 | 0 |
-| Blurred vision | 3 | 0 |
+| Diplopia | 3 | 2 |
+| Blurred vision | 2 | 0 |
 | Gastrointestinal Disorders |  |  |
-| Diarrhea | 6 | 2 |
-| Upper abdominal pain | 3 | 0 |
-| Constipation | 3 | 2 |
+| Upper abdominal pain | 4 | 3 |
+| Constipation | 2 | 1 |
 | General Disorders |  |  |
-| Fatigue | 9 | 4 |
+| Fatigue | 10 | 7 |
 | Infections and Infestations |  |  |
-| Upper respiratory tract infection | 10 | 4 |
-| Influenza | 6 | 2 |
-| Otitis media | 6 | 2 |
+| Upper respiratory tract infection | 15 | 11 |
+| Influenza | 7 | 3 |
+| Otitis media | 6 | 4 |
+| Streptococcal pharyngitis | 4 | 3 |
+| Viral gastroenteritis | 2 | 0 |
 | Investigations |  |  |
-| Weight gain | 17 | 2 |
+| Weight gain | 15 | 2 |
 | Nervous System Disorders |  |  |
-| Somnolence | 6 | 2 |
-| Tremor | 6 | 0 |
-| Nystagmus | 5 | 2 |
-| Psychomotor hyperactivity | 4 | 2 |
+| Somnolence | 6 | 5 |
+| Nystagmus | 4 | 3 |
+| Tremor | 4 | 2 |
+| Status epilepticus | 2 | 1 |
 | Psychiatric Disorders |  |  |
-| Abnormal behavior | 6 | 2 |
-| Aggression | 5 | 0 |
-| Disorientation | 4 | 0 |
-| Reproduction and Breast Disorders |  |  |
-| Dysmenorrhea | 3 | 0 |
-| Skin and Subcutaneous Tissue Disorders |  |  |
-| Acne | 3 | 0 |
+| Abnormal behavior | 7 | 6 |
+| Aggression | 6 | 2 |
+| Disorientation | 3 | 0 |
+
+Safety of SABRIL for the treatment of refractory CPS in patients 2 years of age is expected to be similar to pediatric patients 3 to 16 years of age.
 
 Infantile Spasms In a randomized, placebo-controlled IS study with a 5 day double-blind treatment phase (n=40), the adverse reactions that occurred in >5% of patients receiving SABRIL and that occurred more frequently than in placebo patients were somnolence (SABRIL 45%, placebo 30%), bronchitis (SABRIL 30%, placebo 15%), ear infection (SABRIL 10%, placebo 5%), and acute otitis media (SABRIL 10%, placebo 0%).
 
@@ -204,11 +203,10 @@ The adverse reactions (≥5% in either dose group) are summarized in Table 7.
 | Skin and Subcutaneous Tissue Disorders |  |  |
 | Rash | 8 | 11 |
 
-## 6.2 Post Marketing Experience
+## 6.2 Postmarketing Experience
 
-The following adverse reactions have been reported during post approval use of SABRIL worldwide.
-All adverse reactions that are not listed above as adverse reactions reported in clinical trials, that are not relatively common in the population and are not too vague to be useful are listed in this section.
-These reactions are reported voluntarily from a population of uncertain size; therefore, it is not possible to estimate their frequency or establish a causal relationship to drug exposure.
+The following adverse reactions have been identified during postapproval use of SABRIL.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 Adverse reactions are categorized by system organ class.
 
 Birth Defects: Congenital cardiac defects, congenital external ear anomaly, congenital hemangioma, congenital hydronephrosis, congenital male genital malformation, congenital oral malformation, congenital vesicoureteric reflux, dentofacial anomaly, dysmorphism, fetal anticonvulsant syndrome, hamartomas, hip dysplasia, limb malformation, limb reduction defect, low set ears, renal aplasia, retinitis pigmentosa, supernumerary nipple, talipes

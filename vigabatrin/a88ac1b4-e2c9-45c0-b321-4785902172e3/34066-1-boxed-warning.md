@@ -1,7 +1,7 @@
 # WARNING: PERMANENT VISION LOSS
 
 - SABRIL can cause permanent bilateral concentric visual field constriction including tunnel vision that can result in disability.
-  In some cases, SABRIL also can damage the central retina may decrease visual acuity [see Warnings and Precautions (5.1)].
+  In some cases, SABRIL also can damage the central retina and may decrease visual acuity [see Warnings and Precautions (5.1)].
 - The onset of vision loss from SABRIL is unpredictable, and can occur within weeks of starting treatment or sooner, or at any time after starting treatment, even after months or years.
 - Symptoms of vision loss from SABRIL are unlikely to be recognized by patients or caregivers before vision loss is severe.
   Vision loss of milder severity, while often unrecognized by the patient or caregiver, can still adversely affect function.

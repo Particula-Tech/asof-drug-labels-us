@@ -1,10 +1,10 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-Advise patients and caregivers to read the FDA-approved patient labeling (Medication Guide andInstructions for Use).
+Advise patients and caregivers to read the FDA-approved patient labeling (Medication Guide and Instructions for Use).
 
 Administration Instructions for SABRIL Powder for Oral Solution
 
-Physicians should confirm that caregivers(s) understand how to mix SABRIL for Oral Solution and to administer the correct dose to their infant [see Dosage and Administration (2.5)].
+Physicians should confirm that caregivers(s) understand how to mix SABRIL for Oral Solution and to administer the correct dose to their infants and pediatric patients [see Dosage and Administration (2.5)].
 
 Permanent Vision Loss Inform patients and caregivers of the risk of permanent vision loss, particularly loss of peripheral vision, from SABRIL, and the need for monitoring vision [see Warnings and Precautions (5.1)].
 
@@ -30,12 +30,17 @@ Suicidal Thinking and Behavior Counsel patients, their caregiver(s), and familie
 Also advise patients and caregivers of the need to be alert for the emergence or worsening of symptoms of depression, any unusual changes in mood or behavior, or the emergence of suicidal thoughts, behavior, or thoughts of self-harm.
 Behaviors of concern should be reported immediately to healthcare providers [see Warnings and Precautions (5.5)].
 
-Use in Pregnancy Instruct patients to notify their physician if they become pregnant or intend to become pregnant during therapy, and to notify their physician if they are breast feeding or intend to breast feed during therapy [see Use in Specific Populations (8.1, 8.3)].
+Pregnancy
 
-Encourage patients to enroll in the NAAED Pregnancy Registry if they become pregnant.
-This registry is collecting information about the safety of antiepileptic drugs during pregnancy.
-To enroll, patients can call the toll free number 1-888-233-2334.
-Information on the registry can also be found at the website http://www.aedpregnancyregistry.org/[see Use in Specific Populations (8.1)].
+Advise pregnant women and women of child-bearing potential that the use of SABRIL during pregnancy can cause fetal harm which may occur early in pregnancy before many women know they are pregnant.
+Instruct patients to notify their physician if they become pregnant or intend to become pregnant during therapy.
+Advise patients that there is a pregnancy exposure registry that collects information about the safety of antiepileptic drugs during pregnancy [see Use in Specific Populations (8.1)].
+
+Nursing
+
+Counsel patients that SABRIL is excreted in breast milk.
+Because of the potential for serious adverse reactions in nursing infants from SABRIL, breastfeeding is not recommended.
+If a decision is made to breastfeed, nursing mothers should be counseled to observe their infants for signs of vision loss, sedation and poor sucking [see Use in Specific Populations (8.2)].
 
 Withdrawal of SABRIL Therapy Instruct patients and caregivers not to suddenly discontinue SABRIL therapy without consulting with their healthcare provider.
 As with all AEDs, withdrawal should be gradual [see Warnings and Precautions (5.6)].
