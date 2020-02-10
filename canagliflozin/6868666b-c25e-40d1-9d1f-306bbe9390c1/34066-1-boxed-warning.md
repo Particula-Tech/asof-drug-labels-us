@@ -12,7 +12,7 @@ Lactic Acidosis
 
 Risk of Lower Limb Amputation
 
-- An approximately 2-fold increased risk of lower limb amputations associated with canagliflozin, a component of INVOKAMET/INVOKAMET XR, was observed in CANVAS and CANVAS-R, two large, randomized, placebo-controlled trials in patients with type 2 diabetes who had established cardiovascular disease (CVD) or were at risk for CVD [see Warnings and Precautions (5.2)].
+- An increased risk of lower limb amputations associated with canagliflozin, a component of INVOKAMET/INVOKAMET XR, versus placebo was observed in CANVAS (5.9 vs 2.8 events per 1000 patient-years) and CANVAS-R (7.5 vs 4.2 events per 1000 patient-years), two large, randomized, placebo-controlled trials in patients with type 2 diabetes who had established cardiovascular disease (CVD) or were at risk for CVD [see Warnings and Precautions (5.2)].
 - Amputations of the toe and midfoot were most frequent; however, amputations involving the leg were also observed.
   Some patients had multiple amputations, some involving both limbs [see Warnings and Precautions (5.2)].
 - Before initiating, consider factors that may increase the risk of amputation, such as a history of prior amputation, peripheral vascular disease, neuropathy, and diabetic foot ulcers [see Warnings and Precautions (5.2)].

@@ -6,7 +6,7 @@ Lactic Acidosis:
 
 Explain the risks of lactic acidosis, its symptoms, and conditions that predispose to its development, as noted in Warnings and Precautions (5.1).
 Advise patients to discontinue INVOKAMET/INVOKAMET XR immediately and to promptly notify their healthcare provider if unexplained hyperventilation, myalgias, malaise, unusual somnolence or other nonspecific symptoms occur.
-Once a patient is stabilized on INVOKAMET/INVOKAMET XR, gastrointestinal symptoms, which are common during initiation of metformin, are unlikely to recur.
+Once a patient is stabilized on INVOKAMET/INVOKAMET XR, gastrointestinal symptoms, which are common during initiation of metformin HCl, are unlikely to recur.
 Later occurrence of gastrointestinal symptoms could be due to lactic acidosis or other serious disease.
 
 Counsel patients against excessive alcohol intake while receiving INVOKAMET/INVOKAMET XR.
@@ -28,10 +28,9 @@ Inform patients that dehydration may increase the risk for hypotension and to ha
 
 Ketoacidosis:
 
-Inform patients that ketoacidosis is a serious life-threatening condition.
-Cases of ketoacidosis have been reported during use of canagliflozin.
+Inform patients that ketoacidosis is a serious life-threatening condition and that cases of ketoacidosis have been reported during use of canagliflozin, sometimes associated with illness or surgery among other risk factors.
 Instruct patients to check ketones (when possible) if symptoms consistent with ketoacidosis occur even if blood glucose is not elevated.
-If symptoms of ketoacidosis (including nausea, vomiting, abdominal pain, tiredness, and labored breathing) occur, instruct patients to discontinue INVOKAMET/INVOKAMET XR and seek medical advice immediately [see Warnings and Precautions (5.4)].
+If symptoms of ketoacidosis (including nausea, vomiting, abdominal pain, tiredness, and labored breathing) occur, instruct patients to discontinue INVOKAMET/INVOKAMET XR and seek medical attention immediately [see Warnings and Precautions (5.4)].
 
 Acute Kidney Injury:
 

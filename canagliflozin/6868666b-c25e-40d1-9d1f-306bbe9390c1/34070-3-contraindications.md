@@ -1,7 +1,7 @@
 # 4 CONTRAINDICATIONS
 
-INVOKAMET/INVOKAMET XR is contraindicated in patients with:
+INVOKAMET/INVOKAMET XR is contraindicated in patients:
 
-- Moderate to severe renal impairment (eGFR below 45 mL/min/1.73 m2), end stage renal disease (ESRD) or patients on dialysis [see Warnings and Precautions (5.1) and Use in Specific Populations (8.6)].
-- Acute or chronic metabolic acidosis, including diabetic ketoacidosis [see Warnings and Precautions (5.4)].
-- Serious hypersensitivity reaction to canagliflozin or metformin, such as anaphylaxis or angioedema [see Warnings and Precautions (5.10) and Adverse Reactions (6)].
+- With severe renal impairment (eGFR less than 30 mL/min/1.73 m2) or on dialysis [see Warnings and Precautions (5.1) and Use in Specific Populations (8.6)].
+- With acute or chronic metabolic acidosis, including diabetic ketoacidosis [see Warnings and Precautions (5.4)].
+- With serious hypersensitivity reaction to canagliflozin or metformin HCl, such as anaphylaxis or angioedema [see Warnings and Precautions (5.10) and Adverse Reactions (6)].
