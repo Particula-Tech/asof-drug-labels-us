@@ -1,6 +1,6 @@
 # 11 DESCRIPTION
 
-Each tablet for oral administration contains lithium carbonate USP, 300 mg and the following inactive ingredients: calcium stearate, microcrystalline cellulose, povidone, sodium lauryl sulfate, and sodium starch glycolate.
+Each tablet for oral administration contains lithium carbonate USP, 300 mg and the following inactive ingredients: calcium stearate, microcrystalline cellulose, povidone, purified water, sodium lauryl sulfate, and sodium starch glycolate.
 
 Each capsule for oral administration contains lithium carbonate USP, 150 mg, 300 mg or 600 mg and the following inactive ingredient: talc.
 The capsule shells contain black monogramming ink, FD&C Red No. 40 (300 mg and 600 mg only), gelatin and titanium dioxide.
