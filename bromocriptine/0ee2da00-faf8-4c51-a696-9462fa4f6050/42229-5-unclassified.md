@@ -6,4 +6,4 @@ Perrigo®
 
 Minneapolis, MN 55427
 
-2201563 2P600 RC J3 Rev 06-15 D
+2201563 2P600 RC J4 Rev 01-20 E

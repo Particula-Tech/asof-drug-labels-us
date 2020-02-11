@@ -49,6 +49,11 @@ Bromocriptine mesylate medication should be withdrawn if fibrotic changes in the
 
 ## General
 
+There have been reports of patients experiencing intense urges to gamble, increased sexual urges, intense urges to spend money uncontrollably, and/or other intense urges, and the inability to control these urges while taking one or more of the medications, including bromocriptine mesylate, that increase central dopaminergic tone.
+In some cases, although not all, these urges were reported to have stopped when the dose was reduced, or the medication was discontinued.
+Because patients may not recognize these behaviors as abnormal, it is important for prescribers to specifically ask patients or their caregivers about the development of new or increased gambling urges, sexual urges, uncontrolled spending, or other urges while being treated with bromocriptine mesylate for Parkinson’s disease or hyperprolactinemia-associated dysfunctions.
+Physicians should consider dose reduction or stopping the medication if a patient develops such urges while taking bromocriptine mesylate.
+
 Safety and efficacy of bromocriptine mesylate have not been established in patients with renal or hepatic disease.
 Care should be exercised when administering bromocriptine mesylate therapy concomitantly with other medications known to lower blood pressure.
 
@@ -66,7 +71,7 @@ In these cases, the visual field defect may improve on reduction of bromocriptin
 Monitoring of visual fields in patients with macroprolactinoma is therefore recommended for an early recognition of secondary field loss due to chiasmal herniation and adaptation of drug dosage.
 
 The relative efficacy of bromocriptine mesylate versus surgery in preserving visual fields is not known.
-Patients with rapidly progressive visual field loss should be evaluated by a neurosurgeon to help decide on the most appropriate therapy
+Patients with rapidly progressive visual field loss should be evaluated by a neurosurgeon to help decide on the most appropriate therapy.
 
 Since pregnancy is often the therapeutic objective in many hyperprolactinemic patients presenting with amenorrhea/galactorrhea and hypogonadism (infertility), a careful assessment of the pituitary is essential to detect the presence of a prolactin-secreting adenoma.
 Patients not seeking pregnancy, or those harboring large adenomas, should be advised to use contraceptive measures, other than oral contraceptives, during treatment with bromocriptine mesylate.
@@ -102,20 +107,14 @@ Bromocriptine mesylate administered alone or concomitantly with levodopa may cau
 Hallucinations usually resolve with dosage reduction; occasionally, discontinuation of bromocriptine mesylate is required.
 Rarely, after high doses, hallucinations have persisted for several weeks following discontinuation of bromocriptine mesylate.
 
-Postmarketing reports suggest that patients treated with anti-Parkinson medications can experience intense urges to gamble, increased sexual urges, intense urges to spend money uncontrollably, and other intense urges.
-Patients may be unable to control these urges while taking one or more of the medications that are generally used for the treatment of Parkinson’s disease and that increase central dopaminergic tone, including bromocriptine mesylate.
-In some cases, although not all, these urges were reported to have stopped when the dose was reduced or the medication was discontinued.
-Because patients may not recognize these behaviors as abnormal it is important for prescribers to specifically ask patients or their caregivers about the development of new or increased gambling urges, sexual urges, uncontrolled spending or other urges while being treated with bromocriptine mesylate.
-Physicians should consider dose reduction or stopping the medication if a patient develops such urges while taking bromocriptine mesylate.
-
 As with levodopa, caution should be exercised when administering bromocriptine mesylate to patients with a history of myocardial infarction who have a residual atrial, nodal, or ventricular arrhythmia.
 
-Retroperitoneal fibrosis has been reported in a few patients receiving long-term therapy (2-10 years) with bromocriptine mesylate in doses ranging from 30-140 mg daily.
+Retroperitoneal fibrosis has been reported in a few patients receiving long-term therapy (2 to 10 years) with bromocriptine mesylate in doses ranging from 30-140 mg daily.
 
 Epidemiological studies have shown that patients with Parkinson’s disease have a higher risk (2-approximately 6-fold higher) of developing melanoma than the general population.
 Whether the increased risk observed was due to Parkinson’s disease or other factors, such as drugs used to treat Parkinson’s disease, is unclear.
-For the reasons stated above, patients and providers are advised to monitor for melanomas frequently and on a regular basis when using bromocriptine mesylate for any indication.
-Ideally, periodic skin examinations should be performed by appropriately qualified individuals (e.g. dermatologists).
+For the reasons stated above, patients and providers are advised to monitor for melanomas frequently and on a regular basis when using bromocriptine mesylate for anyindication.
+Ideally, periodic skin examinations should be performed by appropriately qualified individuals (e.g., dermatologists).
 
 Discontinuation of bromocriptine mesylate should be undertaken gradually whenever possible, even if the patient is to remain on l-dopa.
 A symptom complex resembling the neuroleptic malignant syndrome (characterized by elevated temperature, muscular rigidity, altered consciousness, and autonomic instability), with no other obvious etiology, has been reported in association with rapid dose reduction, withdrawal of, or changes in antiparkinsonian therapy.
@@ -131,7 +130,8 @@ Patients being treated with bromocriptine mesylate and presenting with somnolenc
 Patients receiving bromocriptine mesylate for hyperprolactinemic states associated with macroadenoma or those who have had previous transsphenoidal surgery should be told to report any persistent watery nasal discharge to their physician.
 Patients receiving bromocriptine mesylate for treatment of a macroadenoma should be told that discontinuation of drug may be associated with rapid regrowth of the tumor and recurrence of their original symptoms.
 
-Patients and their caregivers should be alerted to the possibility that they may experience intense urges to spend money uncontrollably, intense urges to gamble, increased sexual urges and other intense urges and the inability to control these urges while taking bromocriptine mesylate [see PRECAUTIONS].
+Patients and their caregivers should be alerted to the possibility that patients may experience intense urges to spend money uncontrollably, intense urges to gamble, increased sexual urges and other intense urges and the inability to control these urges while taking bromocriptine mesylate.
+Advise patients and their caregivers to inform their healthcare provider if they develop new or increased uncontrolled spending, gambling urges, sexual urges, or other urges while being treated with bromocriptine mesylate [see PRECAUTIONS].
 
 Especially during the first days of treatment, hypotensive reactions may occasionally occur and result in reduced alertness, particular care should be exercised when driving a vehicle or operating machinery.
 
@@ -139,7 +139,7 @@ Especially during the first days of treatment, hypotensive reactions may occasio
 
 The risk of using bromocriptine mesylate in combination with other drugs has not been systematically evaluated, but alcohol may potentiate the side effects of bromocriptine mesylate.
 Bromocriptine mesylate may interact with dopamine antagonists, butyrophenones, and certain other agents.
-Compounds in these categories result in a decreased efficacy of bromocriptine mesylate: phenothiazines, haloperidol, metoclopramide, pimozide.
+Compounds in these categories result in a decreased efficacy of bromocriptine mesylate: phenothiazines, haloperidol, metoclopramide, and pimozide.
 Bromocriptine is a substrate of CYP3A4.
 Caution should therefore be used when co-administering drugs which are strong inhibitors of this enzyme (such as azole antimycotics, HIV protease inhibitors).
 The concomitant use of macrolide antibiotics such as erythromycin was shown to increase the plasma levels of bromocriptine (mean AUC and Cmax values increased 3.7-fold and 4.6-fold, respectively).
@@ -170,8 +170,9 @@ Increased perinatal loss was produced in the subgroups of dams, sacrificed on da
 
 ### Category B:
 
-Administration of 10-30 mg/kg of bromocriptine to 2 strains of rats on days 6-15 postcoitum (p.c.) as well as a single dose of 10 mg/kg on day 5 p.c. interfered with nidation.
-Three mg/kg given on days 6-15 were without effect on nidation, and did not produce any anomalies.
+Administration of 10-30 mg/kg of bromocriptine to 2 strains of rats on days 6 to 15 postcoitum (p.c.) as well as a single dose of 10 mg/kg on day 5 p.c. interfered with nidation.
+
+Three mg/kg given on days 6 to 15 were without effect on nidation, and did not produce any anomalies.
 In animals treated from day 8-15 p.c., i.e., after implantation, 30 mg/kg produced increased prenatal mortality in the form of increased incidence of embryonic resorption.
 One anomaly, aplasia of spinal vertebrae and ribs, was found in the group of 262 fetuses derived from the dams treated with 30 mg/kg bromocriptine.
 No fetotoxic effects were found in offspring of dams treated during the peri- or postnatal period.

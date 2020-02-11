@@ -20,7 +20,7 @@ Following single dose administration of bromocriptine mesylate tablets, 2 x 2.5 
 
 Food did not significantly affect the systemic exposure of bromocriptine following administration of bromocriptine mesylate tablets, 2.5 mg.3 It is recommended that bromocriptine mesylate be taken with food because of the high percentage of subjects who vomit upon receiving bromocriptine under fasting conditions.
 
-Following bromocriptine mesylate 5 mg administered twice daily for 14 days, the bromocriptine Cmax and AUC at steady state were 628 ± 375 pg/mL and 2377 ± 1186 pg*hr/mL, respectively.4
+Following bromocriptine mesylate 5 mg administered twice daily for 14 days, the bromocriptine Cmax and AUC at steady-state were 628 ± 375 pg/mL and 2377 ± 1186 pg*hr/mL, respectively.4
 
 ### Distribution
 
@@ -70,7 +70,7 @@ Eur J Biochem 223:947-56.
 Assessment of potential interactions between dopamine receptor agonists and various human cytochrome P450 enzymes using a simple in vitro inhibition screen.
 Drug Metab Dispos; 25:1211-14.
 
-### Special Populations
+### Specific Populations
 
 #### Effect of Renal Impairment
 
@@ -78,7 +78,7 @@ The effect of renal function on the pharmacokinetics of bromocriptine has not be
 
 Since parent drug and metabolites are almost completely excreted via metabolism, and only 6% eliminated via the kidney, renal impairment may not have a significant impact on the PK of bromocriptine and its metabolites (see PRECAUTIONS, General).
 
-#### Effect of Liver Impairment
+#### Effect of Hepatic Impairment
 
 The effect of liver impairment on the PK of bromocriptine mesylate and its metabolites has not been evaluated.
 Since bromocriptine mesylate is mainly eliminated by metabolism, liver impairment may increase the plasma levels of bromocriptine, therefore, caution may be necessary (see PRECAUTIONS, General).
@@ -89,11 +89,11 @@ The effect of age, race, and gender on the pharmacokinetics of bromocriptine and
 
 In about 75% of cases of amenorrhea and galactorrhea, bromocriptine mesylate therapy suppresses the galactorrhea completely, or almost completely, and reinitiates normal ovulatory menstrual cycles.
 
-Menses are usually reinitiated prior to complete suppression of galactorrhea; the time for this on average is 6-8 weeks.
+Menses are usually reinitiated prior to complete suppression of galactorrhea; the time for this on average is 6 to 8 weeks.
 However, some patients respond within a few days, and others may take up to 8 months.
 
 Galactorrhea may take longer to control depending on the degree of stimulation of the mammary tissue prior to therapy.
-At least a 75% reduction in secretion is usually observed after 8-12 weeks.
+At least a 75% reduction in secretion is usually observed after 8 to 12 weeks.
 Some patients may fail to respond even after 12 months of therapy.
 
 In many acromegalic patients, bromocriptine mesylate produces a prompt and sustained reduction in circulating levels of serum growth hormone.

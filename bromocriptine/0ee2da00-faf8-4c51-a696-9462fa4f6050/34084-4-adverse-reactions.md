@@ -34,13 +34,13 @@ Abnormalities in laboratory tests may include elevations in blood urea nitrogen,
 The following adverse reactions have been reported during postapproval use of bromocriptine mesylate (All Indications Combined).
 Because adverse reactions from spontaneous reports are reported voluntarily from a population of uncertain size, it is generally not possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Psychiatric disorders: Confusion, psychomotor agitation/excitation, hallucinations, psychotic disorders, insomnia, libido increase, hypersexuality.
+Psychiatric disorders: Confusion, psychomotor agitation/excitation, hallucinations, psychotic disorders, insomnia, libido increase, hypersexuality, and impulse control/compulsive behaviors (including gambling, spending, and other intense urges).
 
 Nervous system disorders: Headache, drowsiness, dizziness, dyskinaesia, somnolence, paraesthesia, excess daytime somnolence, sudden onset of sleep.
 
 Eye disorders: Visual disturbance, vision blurred.
 
-Ear and labyrinth disorders: Tinnitus
+Ear and labyrinth disorders: Tinnitus.
 
 Cardiac disorders: Pericardial effusion, constrictive pericarditis, tachycardia, bradycardia, arrhythmia, cardiac valve fibrosis.
 
@@ -48,7 +48,7 @@ Vascular disorders: Hypotension, orthostatic hypotension (very rarely leading to
 
 Respiratory, thoracic and mediastinal disorders: Nasal congestion, pleural effusion, pleural fibrosis, pleurisy, pulmonary fibrosis, dyspnoea.
 
-Gastrointestinal disorders: Nausea, constipation, vomiting, dry mouth, diarrhoea, abdominal pain, retroperitoneal fibrosis, gastrointestinal ulcer, gastrointestinal haemorrhage.
+Gastrointestinal disorders: Nausea, constipation, vomiting, dry mouth, diarrhea, abdominal pain, retroperitoneal fibrosis, gastrointestinal ulcer, gastrointestinal hemorrhage.
 
 Skin and subcutaneous tissue disorders: Allergic skin reactions, hair loss.
 
@@ -78,4 +78,6 @@ In some patients the development of seizures or stroke was preceded by severe he
 Although the causal relationship of these events to the drug is uncertain, periodic monitoring of blood pressure is advisable in postpartum women receiving bromocriptine mesylate.
 If hypertension, severe, progressive, or unremitting headache (with or without visual disturbances), or evidence of CNS toxicity develop, the administration of bromocriptine mesylate should be discontinued and the patient should be evaluated promptly.
 
-Particular caution is required in patients who have recently been treated or are on concomitant therapy with drugs that can alter blood pressure, e.g. vasoconstrictors such as sympathomimetics or ergot alkaloids including ergometrine or methylergometrine and their concomitant use in the puerperium is not recommended.
+Particular caution is required in patients who have recently been treated or are on concomitant therapy with drugs that can alter blood pressure, e.g., vasoconstrictors such as sympathomimetics or ergot alkaloids including ergometrine or methylergometrine and their concomitant use in the puerperium is not recommended.
+
+To report SUSPECTED ADVERSE REACTIONS, contact Perrigo at 1-866-634-9120 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
