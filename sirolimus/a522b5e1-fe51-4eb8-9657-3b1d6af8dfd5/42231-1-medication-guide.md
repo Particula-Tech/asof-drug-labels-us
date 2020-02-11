@@ -209,21 +209,11 @@ Active ingredients: sirolimus
 Inactive ingredients: Sirolimus Oral Solution: Phosal 50 PG® (alcohol, ascorbyl palmitate, phosphatidylcholine, propylene glycol, soy acid, sunflower seed oil glyceride, and tocopherol) polysorbate 80, and nitrogen.
 Sirolimus oral solution contains 1.5% to 2.5% ethanol.
 
-Distributed by:
-
-Amneal Pharmaceuticals LLC
-
-Bridgewater, NJ 08807
+Distributed by: Amneal Pharmaceuticals LLC Bridgewater, NJ 08807
 
 All trademarks are the property of their respective owner.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Distributed by:
-
-Amneal Pharmaceuticals LLC
-
-Bridgewater, NJ 08807
-
 Rev.
-07-2019-01
+01-2020-02

@@ -73,10 +73,12 @@ Figure 5: Capping syringe
 5.
 If your doctor tells you to carry your medicine with you:
 
-- If you need to carry your sirolimus oral solution in a filled syringe, place a cap securely on each syringe.
+- Each dose of sirolimus oral solution should be placed in an oral syringe.
+  Place a cap securely on each syringe.
   The cap should snap into place (Figure 5).
 - Place the capped syringe in the enclosed carrying case (Figure 6).
   If you need more than 1 carrying case, talk with your doctor or pharmacist.
+- See “How should I store sirolimus oral solution” for storage instructions.
 
 Figure 6: Placing syringe in carrying case
 
@@ -113,11 +115,7 @@ Keep sirolimus oral solution and all medicines out of the reach of children.
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
-Distributed by:
-
-Amneal Pharmaceuticals LLC
-
-Bridgewater, NJ 08807
+Distributed by: Amneal Pharmaceuticals LLC Bridgewater, NJ 08807
 
 Rev.
-07-2019-01
+01-2020-02

@@ -29,11 +29,7 @@ For current Full Prescribing Information, please contact Amneal Pharmaceuticals 
 
 All trademarks are the property of their respective owner.
 
-Distributed by:
-
-Amneal Pharmaceuticals LLC
-
-Bridgewater, NJ 08807
+Distributed by: Amneal Pharmaceuticals LLC Bridgewater, NJ 08807
 
 Rev.
-07-2019-01
+01-2020-02
