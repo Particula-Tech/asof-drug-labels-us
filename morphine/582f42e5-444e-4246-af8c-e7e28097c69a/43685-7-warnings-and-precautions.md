@@ -33,12 +33,16 @@ Monitor patients closely for respiratory depression, especially within the first
 To reduce the risk of respiratory depression, proper dosing and titration of Morphine Sulfate Injection, are essential [see Dosage and Administration (2.4)].
 Overestimating the Morphine Sulfate Injection dosage when converting patients from another opioid product can result in a fatal overdose with the first dose.
 
+Opioids can cause sleep-related breathing disorders including central sleep apnea (CSA) and sleep-related hypoxemia.
+Opioid use increases the risk of CSA in a dose-dependent fashion.
+In patients who present with CSA, consider decreasing the opioid dosage using best practices for opioid taper [see Dosage and Administration (2.4)].
+
 ## 5.3 Neonatal Opioid Withdrawal Syndrome
 
 Prolonged use of Morphine Sulfate Injection during pregnancy can result in withdrawal in the neonate.
 Neonatal opioid withdrawal syndrome, unlike opioid withdrawal syndrome in adults, may be life-threatening if not recognized and treated, and requires management according to protocols developed by neonatology experts.
 Observe newborns for signs of neonatal opioid withdrawal syndrome and manage accordingly.
-Advise pregnant women using opioids for a prolonged period of the risk of neonatal opioid withdrawal syndrome and ensure that appropriate treatment will be available [see Use in Specific Populations (8.1].
+Advise pregnant women using opioids for a prolonged period of the risk of neonatal opioid withdrawal syndrome and ensure that appropriate treatment will be available [see Use in Specific Populations (8.1)].
 
 ## 5.4 Risks from Concomitant Use with Benzodiazepines or Other CNS Depressants
 
@@ -119,7 +123,7 @@ Monitor patients with a history of seizure disorders for worsened seizure contro
 
 ## 5.13 Withdrawal
 
-Avoid the use of mixed agonist/antagonist (e.g, pentazocine, nalbuphine, and butorphanol) or partial agonist (e.g., buprenorphine) analgesics in patients who are receiving a full opioid agonist analgesic, including Morphine Sulfate Injection.
+Avoid the use of mixed agonist/antagonist (e.g., pentazocine, nalbuphine, and butorphanol) or partial agonist (e.g., buprenorphine) analgesics in patients who are receiving a full opioid agonist analgesic, including Morphine Sulfate Injection.
 In these patients, mixed agonist/antagonist and partial agonist analgesics may reduce the analgesic effect and/or precipitate withdrawal symptoms.
 
 When discontinuing Morphine Sulfate Injection in a physically-dependent patient, gradually taper the dosage [see Dosage and Administration (2.4)].

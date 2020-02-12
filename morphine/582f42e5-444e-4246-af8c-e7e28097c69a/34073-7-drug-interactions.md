@@ -12,7 +12,7 @@ Table 1: Clinically Significant Drug Interactions with Morphine Sulfate Injectio
 | Serotonergic Drugs |  |
 | Clinical Impact: | The concomitant use of opioids with other drugs that affect the serotonergic neurotransmitter system has resulted in serotonin syndrome. |
 | Intervention: | If concomitant use is warranted, carefully observe the patient, particularly during treatment initiation and dose adjustment. Discontinue Morphine Sulfate Injection if serotonin syndrome is suspected. |
-| Examples: | Selective serotonin reuptake inhibitors (SSRIs), serotonin and norepinephrine reuptake inhibitors (SNRIs), tricyclic antidepressants (TCAs), triptans, 5-HT3 receptor antagonists, drugs that affect the serotonin neurotransmitter system (e.g., mirtazapine, trazodone, tramadol), monoamine oxidase (MAO) inhibitors (those intended to treat psychiatric disorders and also others, such as linezolid and intravenous methylene blue). |
+| Examples: | Selective serotonin reuptake inhibitors (SSRIs), serotonin and norepinephrine reuptake inhibitors (SNRIs), tricyclic antidepressants (TCAs), triptans, 5-HT3 receptor antagonists, drugs that affect the serotonin neurotransmitter system (e.g., mirtazapine, trazodone, tramadol), certain muscle relaxants (i.e., cyclobenzaprine, metaxalone), monoamine oxidase (MAO) inhibitors (those intended to treat psychiatric disorders and also others, such as linezolid and intravenous methylene blue). |
 | Monoamine Oxidase Inhibitors (MAOIs) |  |
 | Clinical Impact: | MAOI interactions with opioids may manifest as serotonin syndrome or opioid toxicity (e.g., respiratory depression, coma) [see Warnings and Precautions (5.7)]. |
 | Intervention: | Do not use Morphine Sulfate Injection in patients taking MAOIs or within 14 days of stopping such treatment. If urgent use of an opioid is necessary, use test doses and frequent titration of small doses of other opioids (such as oxycodone, hydrocodone, oxymorphone, hydrocodone, or buprenorphine) to treat pain while closely monitoring blood pressure and signs and symptoms of CNS and respiratory depression. |
@@ -33,3 +33,7 @@ Table 1: Clinically Significant Drug Interactions with Morphine Sulfate Injectio
 | Anticholinergic Drugs |  |
 | Clinical Impact: | The concomitant use of anticholinergic drugs may increase risk of urinary retention and/or severe constipation, which may lead to paralytic ileus. |
 | Intervention: | Monitor patients for signs of urinary retention or reduced gastric motility when Morphine Sulfate Injection is used concomitantly with anticholinergic drugs. |
+| Oral P2Y12 Inhibitors |  |
+| Clinical Impact: | The co-administration of oral P2Y12 inhibitors and intravenous morphine sulfate can decrease the absorption and peak concentration of oral P2Y12 inhibitors and delay the onset of antiplatelet effect. |
+| Intervention: | Consider the use of a parenteral antiplatelet agent in the setting of acute coronary syndrome requiring coadministration of intravenous morphine sulfate. |
+| Examples: | Clopidogrel, prasugrel, ticagrelor |
