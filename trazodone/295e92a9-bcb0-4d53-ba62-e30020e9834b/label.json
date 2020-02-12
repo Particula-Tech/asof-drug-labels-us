@@ -1,0 +1,32 @@
+{
+  "application_numbers": [
+    "ANDA204852"
+  ],
+  "inn": "trazodone",
+  "labeler": "Aurolife Pharma, LLC",
+  "package_ndcs": [
+    "13107-079-01",
+    "13107-079-05",
+    "13107-079-30",
+    "13107-079-99",
+    "13107-080-01",
+    "13107-080-05",
+    "13107-080-30",
+    "13107-080-99",
+    "13107-081-01",
+    "13107-081-05",
+    "13107-081-20",
+    "13107-081-99",
+    "13107-082-01",
+    "13107-082-05"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "trazodone hydrochloride",
+      "name": "Trazodone Hydrochloride"
+    }
+  ],
+  "setid": "295e92a9-bcb0-4d53-ba62-e30020e9834b",
+  "source": "dailymed"
+}
