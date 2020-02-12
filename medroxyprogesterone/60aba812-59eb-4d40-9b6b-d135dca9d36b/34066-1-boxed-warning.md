@@ -1,4 +1,4 @@
-# WARNING: LOSS OF BONE MINERAL DENSITY
+# WARNING: LOSS OF BONE MINERAL DENSITYasdf
 
 Women who use medroxyprogesterone acetate contraceptive injection may lose significant bone mineral density.
 Bone loss is greater with increasing duration of use and may not be completely reversible.

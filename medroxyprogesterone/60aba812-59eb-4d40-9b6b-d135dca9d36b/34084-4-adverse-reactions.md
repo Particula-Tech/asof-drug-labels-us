@@ -24,7 +24,7 @@ Table 1 Adverse Reactions that Were Reported by More than 5% of Subjects
 | Body System* | Adverse Reactions [Incidence (%)] |
 | --- | --- |
 | Body as a Whole | Headache (16.5%) Abdominal pain/discomfort (11.2%) |
-| Metabolic/Nutritional | Increased weight> 10lbs at 24 months (37.7%) |
+| Metabolic/Nutritional | Increased weight >10 lbs at 24 months (37.7%) |
 | Nervous | Nervousness (10.8%) Dizziness (5.6%) Libido decreased (5.5%) |
 | Urogenital | Menstrual irregularities: (bleeding (57.3% at 12 months, 32.1% at 24 months) amenorrhea (55% at 12 months, 68% at 24 months) |
 

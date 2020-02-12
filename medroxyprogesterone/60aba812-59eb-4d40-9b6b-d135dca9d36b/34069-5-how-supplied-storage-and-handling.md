@@ -4,7 +4,7 @@ Medroxyprogesterone Acetate Injectable Suspension, USP is supplied as white to o
 
 | Package Configuration | Strength | NDC |
 | --- | --- | --- |
-| Medroxyprogesterone acetate injectable suspension (medroxyprogesterone acetate sterile aqueous suspension 150 mg/mL) |  |  |
+| Medroxyprogesterone Acetate Injectable Suspension USP, 150 mg/mL |  |  |
 | 25 × 1 mL vials | 150 mg/mL | NDC 67457-887-01 |
 | 1 × 1 mL vials | 150 mg/mL | NDC 67457-887-99 |
 
