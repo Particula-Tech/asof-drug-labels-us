@@ -31,4 +31,4 @@ Inform patients on the symptoms of hypersensitivity reactions and to seek medica
 Marketed by: Lilly USA, LLC, Indianapolis, IN 46285, USA Copyright © 1999, 2019, Eli Lilly and Company.
 All rights reserved.
 
-LOG5050-0005-USPI-20191115
+LOG5050-0006-USPI-20191119
