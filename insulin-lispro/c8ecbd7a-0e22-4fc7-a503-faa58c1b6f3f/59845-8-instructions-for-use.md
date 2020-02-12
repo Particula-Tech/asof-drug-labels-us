@@ -11,7 +11,7 @@ You may give other people a serious infection or get a serious infection from th
 
 Supplies needed to give your injection
 
-- a multiple-dose HHUMALOG vial
+- a multiple-dose HUMALOG vial
 - a U-100 insulin syringe and needle
 - 2 alcohol swabs
 - gauze
@@ -130,7 +130,7 @@ Marketed by: Lilly USA, LLC, Indianapolis, IN 46285, USA
 Copyright © 1996, 2019, Eli Lilly and Company.
 All rights reserved.
 
-LOGVL-0007-IFU-20191115
+LOGVL-0008-IFU-20191125
 
 Instructions for Use
 
