@@ -15,16 +15,22 @@
 
 Use of DILAUDID INJECTION as the First Opioid Analgesic:
 
-Subcutaneous or Intramuscular Administration: The usual starting dose of DILAUDID INJECTION is 1 mg to 2 mg every 2 to 3 hours as necessary.
+Subcutaneous or Intramuscular Administration:
+
+The usual starting dose of DILAUDID INJECTION is 1 mg to 2 mg every 2 to 3 hours as necessary.
 Depending on the clinical situation, the initial starting dose may be lowered in patients who are opioid naïve.
 
-Intravenous Administration: The initial starting dose is 0.2 to 1 mg every 2 to 3 hours.
+Intravenous Administration:
+
+The initial starting dose is 0.2 mg to 1 mg every 2 to 3 hours.
 Intravenous administration should be given slowly, over at least 2 to 3 minutes, depending on the dose.
 The initial dose should be reduced in the elderly or debilitated and may be lowered to 0.2 mg.
 
-Conversion From Other Opioids to DILAUDID INJECTION: There is inter-patient variability in the potency of opioid drugs and opioid formulations.
+Conversion From Other Opioids to DILAUDID INJECTION:
+
+There is inter-patient variability in the potency of opioid drugs and opioid formulations.
 Therefore, a conservative approach is advised when determining the total daily dosage of DILAUDID INJECTION.
-It is safer to underestimate a patient’s 24-hour DILAUDID INJECTION dosage than to overestimate the 24-hour DILAUDID INJECTION dosage and manage an adverse reaction due to overdose.
+It is safer to underestimate a patient's 24-hour DILAUDID INJECTION dosage than to overestimate the 24-hour DILAUDID INJECTION dosage and manage an adverse reaction due to overdose.
 
 If the decision is made to convert to Hydromorphone Hydrochloride Injection from another opioid analgesic using publicly available data, convert the current total daily amount(s) of opioid(s) received to an equivalent total daily dose of DILAUDID INJECTION and reduce by one-half due to the possibility of incomplete cross tolerance.
 Divide the new total amount by the number of doses permitted based on dosing interval (e.g., 8 doses for every-three-hour dosing).

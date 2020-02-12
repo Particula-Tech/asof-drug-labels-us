@@ -25,7 +25,7 @@ Healthcare providers should be aware that addiction may not be accompanied by co
 In addition, abuse of opioids can occur in the absence of true addiction.
 
 DILAUDID INJECTION, like other opioids, can be diverted for non-medical use into illicit channels of distribution.
-Careful record-keeping of prescribing information, including quantity, frequency, and renewal requests as required by state and federal law, is strongly advised.
+Careful recordkeeping of prescribing information, including quantity, frequency, and renewal requests as required by state and federal law, is strongly advised.
 
 Proper assessment of the patient, proper prescribing practices, periodic re-evaluation of therapy and proper dispensing and storage are appropriate measures that help to limit abuse of opioid drugs.
 
@@ -50,5 +50,4 @@ DILAUDID INJECTION should not be abruptly discontinued in a physically-dependent
 If DILAUDID INJECTION is abruptly discontinued in a physically-dependent patient, a withdrawal syndrome may occur.
 Some or all of the following can characterize this syndrome: restlessness, lacrimation, rhinorrhea, yawning, perspiration, chills, myalgia, and mydriasis.
 Other signs and symptoms also may develop, including irritability, anxiety, backache, joint pain, weakness, abdominal cramps, insomnia, nausea, anorexia, vomiting, diarrhea, or increased blood pressure, respiratory rate, or heart rate.
-
 Infants born to mothers physically dependent on opioids will also be physically dependent and may exhibit respiratory difficulties and withdrawal signs [see Use in Specific Populations (8.1)].

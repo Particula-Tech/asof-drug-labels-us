@@ -8,7 +8,7 @@ As an opioid, DILAUDID INJECTION exposes users to the risks of addiction, abuse,
 Although the risk of addiction in any individual is unknown, it can occur in patients appropriately prescribed DILAUDID INJECTION.
 Addiction can occur at recommended dosages and if the drug is misused or abused.
 
-Assess each patient’s risk for opioid addiction, abuse, or misuse prior to prescribing DILAUDID INJECTION and monitor all patients receiving DILAUDID INJECTION for the development of these behaviors and conditions.
+Assess each patient's risk for opioid addiction, abuse, or misuse prior to prescribing DILAUDID INJECTION and monitor all patients receiving DILAUDID INJECTION for the development of these behaviors and conditions.
 Risks are increased in patients with a personal or family history of substance abuse (including drug or alcohol abuse or addiction) or mental illness (e.g., major depression).
 The potential for these risks should not, however, prevent the proper management of pain in any given patient.
 Patients at increased risk may be prescribed opioids such as DILAUDID INJECTION but use in such patients necessitates intensive counseling about the risks and proper use of DILAUDID INJECTION along with intensive monitoring for signs of addiction, abuse, and misuse.
@@ -22,7 +22,7 @@ Contact local state professional licensing board or state controlled substances 
 
 Serious, life-threatening, or fatal respiratory depression has been reported with the use of opioids, even when used as recommended.
 Respiratory depression, if not immediately recognized and treated, may lead to respiratory arrest and death.
-Management of respiratory depression may include close observation, supportive measures, and use of opioid antagonists, depending on the patient’s clinical status [see Overdosage (10)].
+Management of respiratory depression may include close observation, supportive measures, and use of opioid antagonists, depending on the patient's clinical status [see Overdosage (10)].
 Carbon dioxide (CO2) retention from opioid-induced respiratory depression can exacerbate the sedating effects of opioids.
 
 While serious, life-threatening, or fatal respiratory depression can occur at any time during the use of DILAUDID INJECTION, the risk is greatest during the initiation of therapy or following a dosage increase.
@@ -30,6 +30,10 @@ Monitor patients closely for respiratory depression, especially within the first
 
 To reduce the risk of respiratory depression, proper dosing and titration of DILAUDID INJECTION is essential [see Dosage and Administration (2)].
 Overestimating the DILAUDID INJECTION dosage when converting patients from another opioid product can result in a fatal overdose with the first dose.
+
+Opioids can cause sleep-related breathing disorders including central sleep apnea (CSA) and sleep-related hypoxemia.
+Opioid use increases the risk of CSA in a dose-dependent fashion.
+In patients who present with CSA, consider decreasing the opioid dosage using best practices for opioid taper [see Dosage and Administration (2.6)].
 
 ## 5.3 Neonatal Opioid Withdrawal Syndrome
 
@@ -42,6 +46,7 @@ Advise pregnant women using opioids for a prolonged period of the risk of neonat
 
 Profound sedation, respiratory depression, coma, and death may result from the concomitant use of DILAUDID Injection with benzodiazepines or other CNS depressants (e.g., non-benzodiazepine sedatives/hypnotics, anxiolytics, tranquilizers, muscle relaxants, general anesthetics, antipsychotics, other opioids, alcohol).
 Because of these risks, reserve concomitant prescribing of these drugs for use in patients for whom alternative treatment options are inadequate.
+
 Observational studies have demonstrated that concomitant use of opioid analgesics and benzodiazepines increases the risk of drug-related mortality compared to use of opioid analgesics alone.
 Because of similar pharmacological properties, it is reasonable to expect similar risk with the concomitant use of other CNS depressant drugs with opioid analgesics [see Drug Interactions (7)].
 
