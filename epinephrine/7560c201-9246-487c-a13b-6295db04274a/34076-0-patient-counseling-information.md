@@ -17,12 +17,18 @@ Advise patients to seek immediate medical care in conjunction with administratio
 Instruct caregivers to hold the leg of young children firmly in place and limit movement prior to and during injection.
 Lacerations, bent needles, and embedded needles have been reported when EpiPen and EpiPen Jr have been injected into the thigh of young children who are uncooperative and kick or move during an injection [see Warnings and Precautions (5.2)].
 
+Instruct patients and/or caregivers to throw away the blue safety release immediately after using EpiPen and EpiPen Jr.
+This small part may pose a choking hazard for children.
+
 Complete patient information, including dosage, directions for proper administration and precautions can be found inside each EpiPen or EpiPen Jr carton.
 A printed label on the surface of EpiPen shows instructions for use and a diagram depicting the injection process.
 
 Instruct patients and/or caregivers to use and practice with the Trainer to familiarize themselves with the use of EpiPen in an allergic emergency.
 The Trainer may be used multiple times.
 A Trainer device is provided in 2-Pak cartons.
+
+Instruct patients and/or caregivers to immediately place the blue safety release back on the Trainer and reset it after practicing.
+This small part may pose a choking hazard for children.
 
 Adverse Reactions
 
@@ -50,15 +56,19 @@ Epinephrine is light sensitive and should be stored in the carrier tube provided
 The carrier tube is not waterproof.
 Instruct patients that EpiPen and EpiPen Jr must be used or properly disposed once the blue safety release is removed or after use [see Storage and Handling (16.2)].
 
+Advise patients and caregivers to promptly dispose of medicines that are no longer needed.
+Dispose of expired, unwanted, or unused EpiPen and EpiPen Jr auto-injectors in an FDA-cleared sharps container.
+Instruct patients not to dispose EpiPen or EpiPen Jr in their household trash.
+Instruct patients that if they do not have a FDA-cleared sharps disposal container, they may use a household container that is made of a heavy-duty plastic, can be closed with a tight-fitting and puncture-resistant lid without sharps being able to come out, upright and stable during use, leak-resistant, and properly labeled to warn of hazardous waste inside the container.
+Inform patients that they can visit the FDA website for additional information on disposal of unused medicines.
+
 Complete patient information, including dosage, directions for proper administration and precautions can be found inside each EpiPen Auto-Injector carton.
 
 Manufactured for Mylan Specialty L.P., Morgantown, WV 26505, U.S.A. by Meridian Medical Technologies, Inc., Columbia, MD 21046, U.S.A., a Pfizer company
 
 EpiPen® and EpiPen Jr® are registered trademarks of Mylan Inc. licensed exclusively to its wholly-owned affiliate, Mylan Specialty L. P. of Morgantown, WV 26505, U.S.A.
 
-Copyright © 2018 Meridian Medical Technologies.
+Copyright © 2020 Meridian Medical Technologies.
 All rights reserved.
 
-Revised: 8/2018 MS:EPI:R4
-
-0002029
+Revised: 1/2020 MS:EPI:R5 0002046

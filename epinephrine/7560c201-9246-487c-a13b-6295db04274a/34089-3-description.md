@@ -10,7 +10,7 @@ The EpiPen and EpiPen Jr each contain 2 mL epinephrine solution.
 Approximately 1.7 mL remains in the auto-injector after activation, but is not available for future use, and should be discarded.
 
 Each 0.3 mL in the EpiPen Auto-Injector contains 0.3 mg epinephrine, 1.8 mg sodium chloride, 0.5 mg sodium metabisulfite, hydrochloric acid to adjust pH, and Water for Injection.
-The pH range is 2.2–5.0.
+The pH range is 2.2-5.0.
 
 Each 0.3 mL in the EpiPen Jr Auto-Injector contains 0.15 mg epinephrine, 1.8 mg sodium chloride, 0.5 mg sodium metabisulfite, hydrochloric acid to adjust pH, and Water for Injection.
 The pH range is 2.2-5.0.

@@ -40,10 +40,10 @@ Manufactured for Mylan Specialty L.P., Morgantown, WV 26505, USA by Meridian Med
 
 EpiPen® and EpiPen Jr® are registered trademarks of Mylan Inc. licensed exclusively to its wholly-owned affiliate, Mylan Specialty L.P. of Morgantown, WV 26505, USA
 
-Copyright © 2017 Meridian Medical Technologies.
+Copyright © 2020 Meridian Medical Technologies.
 All rights reserved.
 
-MS:50002:2C:R3
+MS:50002:2C:R4
 
 # PRINCIPAL DISPLAY PANEL – 0.15 mg
 
@@ -87,7 +87,7 @@ Manufactured for Mylan Specialty L.P., Morgantown, WV 26505, USA by Meridian Med
 
 EpiPen® and EpiPen Jr® are registered trademarks of Mylan Inc. licensed exclusively to its wholly-owned affiliate, Mylan Specialty L.P. of Morgantown, WV 26505, USA
 
-Copyright © 2017 Meridian Medical Technologies.
+Copyright © 2020 Meridian Medical Technologies.
 All rights reserved.
 
-MS:50102:2C:R3
+MS:50102:2C:R4
