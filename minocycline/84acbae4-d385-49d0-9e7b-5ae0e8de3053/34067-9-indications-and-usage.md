@@ -1,6 +1,6 @@
 # INDICATIONS AND USAGE
 
-MINOCIN® Intravenous is indicated in the treatment of the following infections due to susceptible isolates of the designated bacteria:
+MINOCIN ® Intravenous is indicated in the treatment of the following infections due to susceptible isolates of the designated bacteria:
 
 Rocky Mountain spotted fever, typhus fever and the typhus group, Q fever, rickettsialpox and tick fevers caused by rickettsiae.
 Respiratory tract infections caused by Mycoplasma pneumoniae.
@@ -27,7 +27,7 @@ Acinetobacter species.
 Respiratory tract infections caused by Haemophilus influenzae.
 Respiratory tract and urinary tract infections caused by Klebsiella species.
 
-MINOCIN® Intravenous is indicated for the treatment of infections caused by the following Gram-positive bacteria when bacteriologic testing indicates appropriate susceptibility to the drug:
+MINOCIN ® Intravenous is indicated for the treatment of infections caused by the following Gram-positive bacteria when bacteriologic testing indicates appropriate susceptibility to the drug:
 
 Upper respiratory tract infections caused by Streptococcus pneumoniae.
 Skin and skin structure infections caused by Staphylococcus aureus (Note: Minocycline is not the drug of choice in the treatment of any type of staphylococcal infection.)
@@ -47,6 +47,6 @@ In acute intestinal amebiasis, minocycline may be a useful adjunct to amebicides
 
 In severe acne, minocycline may be useful adjunctive therapy.
 
-To reduce the development of drug-resistant bacteria and maintain the effectiveness of MINOCIN® (minocycline) for Injection and other antibacterial drugs, MINOCIN® (minocycline) for Injection should be used only to treat or prevent infections that are proven or strongly suspected to be caused by susceptible bacteria.
+To reduce the development of drug-resistant bacteria and maintain the effectiveness of MINOCIN ® (minocycline) for Injection and other antibacterial drugs, MINOCIN ® (minocycline) for Injection should be used only to treat or prevent infections that are proven or strongly suspected to be caused by susceptible bacteria.
 When culture and susceptibility information are available, they should be considered in selecting or modifying antibacterial therapy.
 In the absence of such data, local epidemiology and susceptibility patterns may contribute to the empiric selection of therapy.

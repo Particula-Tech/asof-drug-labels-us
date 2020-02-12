@@ -5,7 +5,7 @@ The chemical name of minocycline is 4,7-Bis(dimethylamino)-1,4,4a,5,5a,6,11,12a-
 
 Its structural formula is:
 
-C23H27N3O7•HCl M.W.
+C 23H 27N 3O 7•HCl M.W.
 493.94
 
 MINOCIN is supplied as a sterile yellow to amber lyophilized powder for intravenous infusion.

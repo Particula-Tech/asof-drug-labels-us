@@ -30,7 +30,7 @@ Central Nervous System Effects Central nervous system side effects including lig
 Patients who experience these symptoms should be cautioned about driving vehicles or using hazardous machinery while on minocycline therapy.
 These symptoms may disappear during therapy and usually disappear rapidly when the drug is discontinued.
 
-Clostridium difficile Associated Diarrhea Clostridium difficile associated diarrhea (CDAD) has been reported with use of nearly all antibacterial agents, including MINOCIN®, and may range in severity from mild diarrhea to fatal colitis.
+Clostridium difficile Associated Diarrhea Clostridium difficile associated diarrhea (CDAD) has been reported with use of nearly all antibacterial agents, including MINOCIN ®, and may range in severity from mild diarrhea to fatal colitis.
 Treatment with antibacterial agents alters the normal flora of the colon leading to overgrowth of C. difficile.
 
 C. difficile produces toxins A and B which contribute to the development of CDAD.
@@ -61,19 +61,19 @@ Hepatotoxicity has been reported with minocycline; therefore, minocycline should
 
 Incision and drainage or other surgical procedures should be performed in conjunction with antibacterial therapy when indicated.
 
-MINOCIN® (minocycline) for Injection contains magnesium sulfate heptahydrate (See DESCRIPTION).
+MINOCIN ® (minocycline) for Injection contains magnesium sulfate heptahydrate (See DESCRIPTION).
 Because magnesium is excreted primarily by the kidney, serum levels of magnesium should be monitored in patients with renal impairment (See DOSAGE AND ADMINISTRATION).
 
-Because MINOCIN® (minocycline) for Injection contains magnesium (See DESCRIPTION), close monitoring is recommended in patients with heart block or myocardial damage.
+Because MINOCIN ® (minocycline) for Injection contains magnesium (See DESCRIPTION), close monitoring is recommended in patients with heart block or myocardial damage.
 
-Prescribing MINOCIN® for Injection in the absence of a proven or strongly suspected bacterial infection or a prophylactic indication is unlikely to provide benefit to the patient and increases the risk of the development of drug-resistant bacteria.
+Prescribing MINOCIN ® for Injection in the absence of a proven or strongly suspected bacterial infection or a prophylactic indication is unlikely to provide benefit to the patient and increases the risk of the development of drug-resistant bacteria.
 
 ## Information for Patients
 
-Patients should be counseled that antibacterial drugs including MINOCIN® (minocycline) for Injection should only be used to treat bacterial infections.
+Patients should be counseled that antibacterial drugs including MINOCIN ® (minocycline) for Injection should only be used to treat bacterial infections.
 They do not treat viral infections (e.g., the common cold).
-When MINOCIN® (minocycline) for Injection is prescribed to treat a bacterial infection, patients should be told that although it is common to feel better early in the course of therapy, the medication should be taken exactly as directed.
-Skipping doses or not completing the full course of therapy may (1) decrease the effectiveness of the immediate treatment and (2) increase the likelihood that bacteria will develop resistance and will not be treatable by MINOCIN® (minocycline) for Injection or other antibacterial drugs in the future.
+When MINOCIN ® (minocycline) for Injection is prescribed to treat a bacterial infection, patients should be told that although it is common to feel better early in the course of therapy, the medication should be taken exactly as directed.
+Skipping doses or not completing the full course of therapy may (1) decrease the effectiveness of the immediate treatment and (2) increase the likelihood that bacteria will develop resistance and will not be treatable by MINOCIN ® (minocycline) for Injection or other antibacterial drugs in the future.
 
 Diarrhea is a common problem caused by antibacterials which usually ends when the antibacterial is discontinued.
 Sometimes after starting treatment with antibacterial drugs, patients can develop watery and bloody stools (with or without stomach cramps and fever) even as late as two or more months after having taken the last dose of the antibacterial.
@@ -101,7 +101,7 @@ Each drug alone has been associated with pseudotumor cerebri (See PRECAUTIONS).
 
 Increased risk of ergotism when ergot alkaloids or their derivatives are given with tetracyclines.
 
-MINOCIN® (minocycline) for Injection contains magnesium sulfate heptahydrate (See DESCRIPTION).
+MINOCIN ® (minocycline) for Injection contains magnesium sulfate heptahydrate (See DESCRIPTION).
 Potentially serious drug interactions may occur when intravenous magnesium sulfate heptahydrate is given concomitantly with CNS depressants, neuromuscular blocking agents and cardiac glycosides.
 
 ## Drug/Laboratory Test Interactions
@@ -118,7 +118,7 @@ Segment I (fertility and general reproduction) studies have provided evidence th
 
 ## Pregnancy
 
-Teratogenic Effects: Pregnancy Category D (See WARNINGS)
+Teratogenic Effects (See WARNINGS)
 
 All pregnancies have a background risk of birth defects, loss, or other adverse outcome regardless of drug exposure.
 There are no adequate and well-controlled studies on the use of minocycline in pregnant women.

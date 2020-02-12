@@ -48,7 +48,7 @@ Tooth discoloration in pediatric patients less than 8 years of age (See WARNINGS
 
 Oral cavity discoloration (including tongue, lip, and gum) have been reported.
 
-Tinnitus and decreased hearing have been reported in patients on MINOCIN® (minocycline for injection).
+Tinnitus and decreased hearing have been reported in patients on MINOCIN ® (minocycline for injection).
 
 The following syndromes have been reported.
 In some cases involving these syndromes, death has been reported.
@@ -62,5 +62,5 @@ Lupus-like syndrome consisting of positive antinuclear antibody; arthralgia, art
 Serum sickness-like syndrome consisting of fever; urticaria or rash; and arthralgia, arthritis, joint stiffness, or joint swelling.
 Eosinophilia may be present.
 
-MINOCIN® (minocycline) for Injection contains magnesium sulfate heptahydrate (See DESCRIPTION).
+MINOCIN ® (minocycline) for Injection contains magnesium sulfate heptahydrate (See DESCRIPTION).
 Adverse effects that may be associated with magnesium intoxication include flushing, sweating, hypotension, depressed reflexes, flaccid paralysis, hypothermia, circulatory collapse, cardiac and CNS depression proceeding to respiratory paralysis (See PRECAUTIONS).

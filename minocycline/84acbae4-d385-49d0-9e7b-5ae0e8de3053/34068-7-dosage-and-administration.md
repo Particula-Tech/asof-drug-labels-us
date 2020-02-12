@@ -20,7 +20,7 @@ The lyophilized powder should be reconstituted with 5 mL Sterile Water for Injec
 
 When diluted in compatible solutions, the pH usually ranges from 4.5 to 6.0.
 
-Once diluted into an intravenous bag, MINOCIN® for Injection may be stored either at room temperature for up to 4 hours or refrigerated at 2 to 8°C (36 to 46°F) for up to 24 hours.
+Once diluted into an intravenous bag, MINOCIN ® for Injection may be stored either at room temperature for up to 4 hours or refrigerated at 2 to 8°C (36 to 46°F) for up to 24 hours.
 Any unused portions must be discarded after that period.
 
 The pharmacokinetics of minocycline in patients with renal impairment (CLCR <80 mL/min) have not been fully characterized.
