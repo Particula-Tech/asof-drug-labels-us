@@ -17,10 +17,10 @@ Step 2.
 Before you apply EMSAM
 
 - •Make sure the area on your skin where you apply your patch:
-  - ois freshly washed with soap and warm water, then dried with a towel
-  - odoes not have any powder, oil or lotion
-  - odoes not have any cuts or irritation, including rashes, swelling, redness, or other skin problems
-  - ois not hairy, scared or calloused
+  - •is freshly washed with soap and warm water, then dried with a towel
+  - •does not have any powder, oil or lotion
+  - •does not have any cuts or irritation, including rashes, swelling, redness, or other skin problems
+  - •is not hairy, scared or calloused
 
 Step 3.
 How to apply EMSAM
@@ -40,11 +40,11 @@ How to apply EMSAM
 - Layers:
 
 - 
-  - oRelease liner: The release liner is the layer that you remove before you put the patch on.
+  - •Release liner: The release liner is the layer that you remove before you put the patch on.
     See Figure C.
-  - oAdhesive with medicine: The adhesive with medicine is the layer that sticks to your skin.
+  - •Adhesive with medicine: The adhesive with medicine is the layer that sticks to your skin.
     See Figure C.
-  - oOutside backing: The outside backing is the layer you see after you put the patch on your skin.
+  - •Outside backing: The outside backing is the layer you see after you put the patch on your skin.
     See Figure D.
 - •Apply the patch right away after you remove the patch from its sealed pouch.
 - •Hold the patch with the release liner facing you.
