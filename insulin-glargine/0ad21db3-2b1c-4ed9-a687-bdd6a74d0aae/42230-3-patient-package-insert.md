@@ -15,7 +15,7 @@
 | General information about the safe and effective use of BASAGLAR. Medicines are sometimes prescribed for purposes other than those listed in a Patient Information leaflet. Do not use BASAGLAR for a condition for which it was not prescribed. Do not give BASAGLAR to other people, even if they have the same symptoms that you have. It may harm them. This Patient Information leaflet summarizes the most important information about BASAGLAR. If you would like more information, talk with your healthcare provider. You can ask your pharmacist or healthcare provider for information about BASAGLAR that is written for health professionals. For more information, go to www.basaglar.com or call 1-800-545-5979. |
 | What are the ingredients in BASAGLAR? Active ingredient: insulin glargine Inactive ingredients: glycerin, metacresol, zinc, and Water for Injection, USP as inactive ingredients. Hydrochloric acid and/or sodium hydroxide may be added to adjust the pH. |
 | Patient Information revised: November 2019 |
-| Marketed By: Lilly USA, LLC, Indianapolis, IN 46285 USA and Boehringer Ingelheim Pharmaceutical, Inc., Ridgefield, CT 06877, USA Copyright © 2015, 2019, Eli Lilly and Company. All rights reserved. |
+| Marketed By: Lilly USA, LLC, Indianapolis, IN 46285 USA Copyright © 2015, 2019, Eli Lilly and Company. All rights reserved. |
 | This Patient Information has been approved by the U.S. Food and Drug Administration |
 
-BAS-0003-PPI-20191115
+BAS-0004-PPI-20191125

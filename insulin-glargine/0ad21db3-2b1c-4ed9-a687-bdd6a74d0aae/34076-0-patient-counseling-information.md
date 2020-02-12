@@ -35,11 +35,7 @@ Literature revised November 2019
 
 Marketed by: Lilly USA, LLC, Indianapolis, IN 46285, USA
 
-And
-
-Boehringer Ingelheim Pharmaceuticals, Inc., Ridgefield, CT 06877, USA
-
 Copyright © 2015, 2019, Eli Lilly and Company.
 All rights reserved.
 
-BAS-0004-USPI-20191115
+BAS-0005-USPI-20191125

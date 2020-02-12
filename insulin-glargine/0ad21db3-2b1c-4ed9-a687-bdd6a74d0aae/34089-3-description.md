@@ -10,7 +10,7 @@ Insulin glargine has the following structural formula:
 BASAGLAR (insulin glargine injection) is a clear, colorless, sterile aqueous solution for subcutaneous use.
 Each milliliter of BASAGLAR (insulin glargine injection) contains 100 units of insulin glargine (3.6378 mg).
 
-The 3 mL BASAGLAR prefilled pen presentations contain the following inactive ingredients per mL: glycerin (17 mg), metacresol (2.7 mg), zinc oxide (30 mcg), content adjusted to provide 0.03 mg zinc ion, and Water for Injection, USP.
+The 3 mL BASAGLAR prefilled pen presentations contain the following inactive ingredients per mL: glycerin (17 mg), metacresol (2.7 mg), zinc (30 mcg), zinc oxide content adjusted to provide 0.03 mg zinc ion, and Water for Injection, USP.
 
 The pH is adjusted by addition of aqueous solutions of hydrochloric acid 10% and/or sodium hydroxide 10%.
 BASAGLAR has a pH of approximately 4.

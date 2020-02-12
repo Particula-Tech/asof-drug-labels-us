@@ -165,7 +165,7 @@ Table 11: Type 2 Diabetes Mellitus – Adult (Another Insulin Glargine Product, 
 | Baseline mean | 179 | 180 | 164 | 166 | 190 | 180 |
 | Adjusted mean change from baseline | -49 | -46 | -24 | -22 | -45 | -44 |
 
-Another Insulin Glargine Product, 100 units/mL, Timing of Daily Dosing (seeTable 12)
+Another Insulin Glargine Product, 100 units/mL, Timing of Daily Dosing (see Table 12)
 
 The safety and efficacy of this other insulin glargine product administered pre-breakfast, pre-dinner, or at bedtime were evaluated in a randomized, controlled clinical study in patients with type 1 diabetes (Study H; n=378).
 Patients were also treated with insulin lispro at mealtime.

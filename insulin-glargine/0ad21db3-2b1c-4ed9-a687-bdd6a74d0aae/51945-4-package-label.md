@@ -32,8 +32,6 @@ NEEDLES NOT INCLUDED
 
 This device is recommended for use with Becton, Dickinson & Company's insulin pen needles.
 
-Boehringer Ingelheim
-
 Lilly
 
 PACKAGE CARTON – BASAGLAR Tempo Pen 80 UNIT PEN
@@ -69,7 +67,5 @@ Read Basaglar® Tempo Pen™ Instructions for Use.
 NEEDLES NOT INCLUDED
 
 This device is recommended for use with Becton, Dickinson & Company's insulin pen needles.
-
-Boehringer Ingelheim
 
 Lilly

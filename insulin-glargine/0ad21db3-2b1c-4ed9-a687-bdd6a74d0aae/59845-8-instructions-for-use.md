@@ -166,17 +166,13 @@ Lilly USA, LLC
 
 Indianapolis, IN 46285, USA
 
-and
-
-Boehringer Ingelheim Pharmaceuticals, Inc. Ridgefield, CT 06877, USA
-
 Copyright © 2015, 2019, Eli Lilly and Company.
 All rights reserved.
 
 | BASAGLAR KwikPen meets the current dose accuracy and functional requirements of ISO 11608-1. |  |
 | --- | --- |
 
-BASKP-0006-IFU-20191115
+BASKP-0007-IFU-20191125
 
 Instructions for Use
 
@@ -275,7 +271,7 @@ Giving your injection
 | --- | --- | --- |
 | Step 11: Insert the Needle into your skin. Push the Dose Knob all the way in. |  |  |
 | Continue to hold the Dose Knob in and slowly count to 5 before removing the needle. Note: Do not try to inject your insulin by turning the Dose Knob. You will not receive your insulin by turning the Dose Knob. |  |  |
-| Step 12: Pull the Needle out of your skin. - A drop of insulin at the Needle tip is normal. It will not affect your dose. Check the number in the Dose Window - If you see “0” in the Dose Window, you have received the full amount you dialed. - If you do not see “0” in the Dose Window you did not receive your full dose. Do not redial. Insert the needle into your skin and finish your injection. - If you still do not think you received the full amount you dialed for your injection, do not start over or repeat that injection. Monitor your blood sugar (glucose) and call your healthcare provider for further instructions. - If you normally need to give 2 injections for your full dose, be sure to give your second injection.The plunger only moves a little with each injection, and you may not notice that it moves. If you see blood after you take the Needle out of your skin, press the injection site lightly with a piece of gauze or an alcohol swab. Do not rub the area. |  |  |
+| Step 12: Pull the Needle out of your skin. - A drop of insulin at the Needle tip is normal. It will not affect your dose. Check the number in the Dose Window - If you see “0” in the Dose Window, you have received the full amount you dialed. - If you do not see “0” in the Dose Window you did not receive your full dose. Do not redial. Insert the needle into your skin and finish your injection. - If you still do not think you received the full amount you dialed for your injection, do not start over or repeat that injection. Monitor your blood sugar (glucose) and call your healthcare provider for further instructions. - If you normally need to give 2 injections for your full dose, be sure to give your second injection. The plunger only moves a little with each injection, and you may not notice that it moves. If you see blood after you take the Needle out of your skin, press the injection site lightly with a piece of gauze or an alcohol swab. Do not rub the area. |  |  |
 
 After your injection
 
@@ -345,13 +341,9 @@ This Instructions for Use have been approved by the U.S. Food and Drug Administr
 
 BASAGLAR® is a registered trademark and Tempo PenTM is a trademark of Eli Lilly and Company.
 
-Instructions for Use Issued: 11/2019
+Instructions for Use issued: 11/2019
 
 Marketed by: Lilly USA, LLC Indianapolis, IN 46285, USA
-
-and
-
-Boehringer Ingelheim Pharmaceuticals, Inc. Ridgefield, CT 06877, USA
 
 Copyright © 2019, Eli Lilly and Company.
 All rights reserved.
@@ -359,4 +351,4 @@ All rights reserved.
 | BASAGLAR Tempo Pen meets the current dose accuracy and functional requirements of ISO 11608-1. |
 | --- |
 
-BASTP-0001-IFU-20191115
+BASTP-0002-IFU-20191125
