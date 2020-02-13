@@ -150,7 +150,6 @@ Clinical isolates may produce multiple beta-lactamases, express varying levels o
 Culture and susceptibility information and local epidemiology should be considered in selecting or modifying antibacterial therapy.
 
 VABOMERE demonstrated in vitro activity against Enterobacteriaceae in the presence of some beta-lactamases and extended-spectrum beta-lactamases (ESBLs) of the following groups: KPC, SME, TEM, SHV, CTX‑M, CMY, and ACT.
-
 VABOMERE is not active against bacteria that produce metallo‑beta lactamases or oxacillinases with carbapenemase activity.
 
 In the Phase 3 cUTI trial with VABOMERE, some isolates of E. coli, K. pneumoniae, E. cloacae, C. freundii, P. mirabilis, P. stuartii that produced beta‑lactamases, were susceptible to VABOMERE (minimum inhibitory concentration ≤4 mcg /mL).
@@ -198,56 +197,4 @@ Gram-negative bacteria:
 
 Susceptibility Test Methods
 
-When available, the clinical microbiology laboratory should provide cumulative reports of in vitro susceptibility test results for antimicrobial drugs used in local hospitals and practice areas as periodic reports that describe the susceptibility profile of nosocomial and community-acquired pathogens.
-These reports should aid in selecting the most appropriate antibacterial drug for treatment.
-
-Dilution Techniques
-
-Quantitative methods are used to determine antimicrobial MICs.
-These MICs provide estimates of the susceptibility of bacteria to antimicrobial compounds.
-The MICs should be determined using a standardized test method 2,3 (broth and/or agar).
-The MIC values should be determined using serial dilutions of meropenem combined with a fixed concentration of 8 mcg/mL of vaborbactam.
-The MIC values should be interpreted according to the criteria in Table 6.
-
-Diffusion Techniques
-
-Quantitative methods that require measurement of zone diameters can also provide reproducible estimates of the susceptibility of bacteria to antimicrobial compounds.
-The zone size should be determined using a standardized method 3,4.
-This procedure uses paper disks impregnated with 20 mcg of meropenem and 10 mcg vaborbactam to test the susceptibility of bacteria to meropenem and vaborbactam.
-The disk breakpoints are provided in Table 6.
-
-Table 6: Susceptibility Interpretive Criteria for Meropenem/Vaborbactam
-
-| Pathogen | Minimum Inhibitory Concentrations(mcg/mL) |  |  | Disk Diffusion(zone diameters in mm) |  |  |
-| --- | --- | --- | --- | --- | --- | --- |
-| S | I | R | S | I | R |  |
-| Enterobacteriaceae | ≤4/8 | 8/8 | ≥16/8 | ≥17 | 14-16 | ≤13 |
-
-S = Susceptible; I = Intermediate; R = Resistant
-
-A report of Susceptible(S) indicates that the antimicrobial drug is likely to inhibit growth of the pathogen if the antimicrobial drug reaches the concentration usually achievable at the site of infection.
-A report of Intermediate (I) indicates that the result should be considered equivocal, and, if the microorganism is not fully susceptible to alternative, clinically feasible drugs, the test should be repeated.
-This category implies possible clinical applicability in body sites where the drug is physiologically concentrated or in situations where a high dosage of the drug can be used.
-This category also provides a buffer zone that prevents small uncontrolled technical factors from causing major discrepancies in interpretation.
-A report of Resistant (R) indicates that the antimicrobial drug is not likely to inhibit growth of the pathogen if the antimicrobial drug reaches the concentrations usually achievable at the infection site; other therapy should be selected.
-
-Quality Control
-
-Standardized susceptibility test procedures require the use of laboratory controls to monitor and ensure the accuracy of supplies and reagents used in the assay, and the techniques of the individuals performing the test 2,3,4.
-Standard meropenem and vaborbactam powder should provide the following range of MIC values noted in Table 7.
-For the diffusion technique using the 20 mcg meropenem/10 mcg vaborbactam disk, the criteria in Table 6 should be achieved
-
-Table 7: Acceptable Quality Control Ranges for Meropenem/Vaborbactam
-
-| Quality Control Strain | Minimum Inhibitory Concentration(mcg/mL) | Disk Diffusion(zone diameter in mm) |
-| --- | --- | --- |
-| Klebsiella pneumoniae ATCC BAA-1705* | 0.015/8-0.06/8 | 21-27 |
-| Klebsiella pneumoniae ATCC BAA-2814* | - | 16-20 |
-| Pseudomonas aeruginosa ATCC 27853 | 0.12/8-1/8 | 29-35 |
-| Escherichia coli ATCC 25922 | 0.008/8-0.06/8 | 31-37 |
-| Escherichia coli ATCC 35218 | 0.008/8-0.06/8 | - |
-| Klebsiella pneumoniae ATCC 700603 | 0.015/8-0.06/8 | 29-35 |
-| Staphylococcus aureus ATCC 25923 | - | 32-38 |
-| Staphylococcus aureus ATCC 29213 | 0.03/8-0.12/8 | - |
-
-ATCC = American Type Culture Collection
+For specific information regarding susceptibility test interpretive criteria and associated test methods and quality control standards recognized by FDA for this drug, please see: https://www.fda.gov/STIC
