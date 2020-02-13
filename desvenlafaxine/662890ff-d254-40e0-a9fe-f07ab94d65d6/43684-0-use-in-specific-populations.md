@@ -85,8 +85,7 @@ The safety and effectiveness of desvenlafaxine have not been established in pedi
 
 Antidepressants, such as desvenlafaxine, increase the risk of suicidal thoughts and behaviors in pediatric patients [see the Boxed Warning and Warnings and Precautions (5.1)].
 
-Additional information describing clinical studies in which efficacy was not demonstrated in pediatric patients is approved for Wyeth Pharmaceuticals Inc. a subsidiary of Pfizer Inc.’s PRISTIQ® (desvenlafaxine) Extended-Release Tablets.
-However, due to Wyeth Pharmaceuticals Inc., a subsidiary of Pfizer Inc.’s marketing exclusivity rights, this product is not labeled with that pediatric information.
+Additional information describing clinical studies in which efficacy was not demonstrated in pediatric patients is approved for Wyeth Pharmaceuticals Inc. a subsidiary of Pfizer Inc.’s PRISTIQ® (desvenlafaxine) Extended-Release Tablets.However, due to Wyeth Pharmaceuticals Inc., a subsidiary of Pfizer Inc.’s marketing exclusivity rights, this product is not labeled with that pediatric information.
 
 Juvenile Animal Studies
 
