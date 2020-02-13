@@ -1,6 +1,6 @@
 # PATIENT INFORMATION
 
-Mirapex® (mîr′-ah-pĕx) (pramipexole dihydrochloride) tablets
+MIRAPEX® (mîr′-ah-pĕx) (pramipexole dihydrochloride) tablets
 
 Read this Patient Information before you start taking MIRAPEX and each time you get a refill.
 There may be new information.
@@ -140,7 +140,7 @@ This Patient Information leaflet summarizes the most important information about
 If you would like more information, talk with your doctor.
 You can ask your pharmacist or doctor for information about MIRAPEX that is written for healthcare professionals.
 
-For more information, go to www.mirapex.com (or scan the code below to go to www.mirapex.com) or call Boehringer Ingelheim Pharmaceuticals, Inc. at 1-800-542-6257 or (TTY) 1-800-459-9906.
+For current Prescribing Information, scan the code below or for additional information, you may also call Boehringer Ingelheim Pharmaceuticals, Inc. at 1-800-542-6257 or 1-800-459-9906 TTY.
 
 What are the ingredients in MIRAPEX?
 
@@ -156,8 +156,8 @@ Trademark under license from: Boehringer Ingelheim International GmbH
 
 The brands listed are trademarks of their respective owners and are not trademarks of Boehringer Ingelheim Pharmaceuticals, Inc. The makers of these brands are not affiliated with and do not endorse Boehringer Ingelheim Pharmaceuticals, Inc., or its products.
 
-Copyright © 2018 Boehringer Ingelheim International GmbH ALL RIGHTS RESERVED
+Copyright © 2020 Boehringer Ingelheim International GmbH ALL RIGHTS RESERVED
 
-Revised: May 2018
+Revised: January 2020
 
-OT1338XE092018
+OT1338YB042020

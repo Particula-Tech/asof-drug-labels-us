@@ -31,6 +31,8 @@ Pramipexole or metabolites, or both, are present in rat milk [see Data].
 
 The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for MIRAPEX and any potential adverse effects on the breastfed infant from MIRAPEX or from the underlying maternal condition.
 
+Data
+
 In a study of radio-labeled pramipexole, pramipexole or metabolites, or both, were present in rat milk at concentrations three to six times higher than those in maternal plasma.
 
 ## 8.4 Pediatric Use
