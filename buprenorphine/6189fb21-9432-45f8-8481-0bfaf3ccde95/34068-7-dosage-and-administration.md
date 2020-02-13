@@ -25,6 +25,10 @@ The maintenance dose may be increased to 300 mg monthly for patients who tolerat
 A patient who misses a dose should receive the next dose as soon as possible, with the following dose given no less than 26 days later.
 Occasional delays in dosing up to 2 weeks are not expected to have a clinically significant impact on treatment effect.
 
+For patients in established treatment of 100 mg monthly, there may be instances when allowance for a two-month dosing interval may be appropriate (e.g., extended travel); in those instances, a single 300 mg dose may be given to cover a two-month period.
+Thereafter, the 100 mg monthly regimen would resume.
+Patients should be cautioned that the peak plasma level after injection of a 300 mg dose will be higher than their usual monthly dose and that they may experience sedation or other buprenorphine-related effects.
+
 ## 2.4 Patient Selection
 
 Patients appropriate for SUBLOCADE are adults who have initiated treatment on a transmucosal buprenorphine-containing product delivering the equivalent of 8 to 24 mg of buprenorphine daily.
