@@ -79,6 +79,6 @@ Hepatitis with significant transaminase elevation and elevated bilirubin in asso
 
 ## Post-Marketing Experience
 
-From post-marketing experience, the following additional rare, but potentially severe adverse events have been reported: anaphylaxis, cholestasis, glomerulonephritis, hemolytic anemia, hepatitis, orofacial dyskinesia, severe hypotension, stillbirth, thrombocytopenia, aggressive reaction, convulsions, acute generalized exanthematous pustulosis (AGEP) and rebound pruritus-pruritus within a few days after discontinuation of cetirizine, usually after long-term use (e.g., months to years) of cetirizine.
+In the post-marketing period, the following additional rare, but potentially severe adverse events have been reported: aggressive reaction, anaphylaxis, cholestasis, convulsions, glomerulonephritis, hallucinations, hemolytic anemia, hepatitis, orofacial dyskinesia, severe hypotension, stillbirth, suicidal ideation, suicide, thrombocytopenia, acute generalized exanthematous pustulosis (AGEP) and rebound pruritus-pruritus within a few days after discontinuation of cetirizine, usually after long-term use (e.g., months to years) of cetirizine.
 
 To report SUSPECTED ADVERSE REACTIONS, contact Amneal Pharmaceuticals at 1-877-835-5472 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.

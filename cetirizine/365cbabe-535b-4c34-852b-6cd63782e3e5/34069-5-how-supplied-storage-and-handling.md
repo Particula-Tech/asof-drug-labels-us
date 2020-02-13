@@ -18,4 +18,4 @@ KEEP THIS AND ALL DRUGS OUT OF THE REACH OF CHILDREN.
 Distributed by: Amneal Pharmaceuticals LLC Bridgewater, NJ 08807
 
 Rev.
-06-2018-01
+02-2020-02
