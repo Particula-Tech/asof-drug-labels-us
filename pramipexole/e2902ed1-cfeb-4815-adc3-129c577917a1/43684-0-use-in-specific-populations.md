@@ -13,7 +13,9 @@ The background risk of major birth defects and miscarriage for the indicated pop
 
 Data
 
-Animal Data Oral administration of pramipexole (0.1, 0.5, or 1.5 mg/kg/day) to pregnant rats during the period of organogenesis resulted in a high incidence of total resorption of embryos at the highest dose tested.
+Animal Data
+
+Oral administration of pramipexole (0.1, 0.5, or 1.5 mg/kg/day) to pregnant rats during the period of organogenesis resulted in a high incidence of total resorption of embryos at the highest dose tested.
 This increase in embryolethality is thought to result from the prolactin-lowering effect of pramipexole; prolactin is necessary for implantation and maintenance of early pregnancy in rats but not in rabbits or humans.
 Because of pregnancy disruption and early embryonic loss in this study, the teratogenic potential of pramipexole could not be adequately assessed in rats.
 The highest no-effect dose for embryolethality in rats was associated with maternal plasma drug exposures (AUC) approximately equal to those in humans receiving the maximum recommended human dose (MRHD) of 4.5 mg/day.
@@ -29,7 +31,7 @@ There are no data on the presence of pramipexole in human milk, the effects of p
 However, inhibition of lactation is expected because pramipexole inhibits secretion of prolactin in humans.
 Pramipexole or metabolites, or both, are present in rat milk [see Data].
 
-The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for MIRAPEX ER and any potential adverse effects on the breastfed infant from MIRAPEX ER or from the underlying maternal condition.
+The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for MIRAPEX ER and any potential adverse effects on the breastfed infant from MIRAPEX ER or from the underlying maternal condition.
 
 Data
 
@@ -43,7 +45,7 @@ Safety and effectiveness of MIRAPEX ER tablets in pediatric patients have not be
 
 Pramipexole total oral clearance is approximately 30% lower in subjects older than 65 years compared with younger subjects, because of a decline in pramipexole renal clearance due to an age-related reduction in renal function.
 This resulted in an increase in elimination half-life from approximately 8.5 hours to 12 hours.
-In a placebo-controlled clinical trial of MIRAPEX ER tablets in early Parkinson’s disease, 47% of the 259 patients were ≥65 years of age.
+In a placebo-controlled clinical trial of MIRAPEX ER tablets in early Parkinson's disease, 47% of the 259 patients were ≥65 years of age.
 Among patients receiving MIRAPEX ER tablets, hallucinations were more common in the elderly, occurring in 13% of the patients ≥65 years of age compared to 2% of the patients <65 years of age.
 
 ## 8.6 Renal Impairment
