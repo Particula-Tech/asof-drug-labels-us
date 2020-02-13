@@ -121,3 +121,4 @@ Because these reactions are reported voluntarily from a population of uncertain 
 - Rash and hypersensitivity reactions (including angioedema and urticaria), and myalgia
 - Isolated, idiosyncratic cases of hypotension, worsening heart failure, and/or arrhythmia have been reported in patients with impaired cardiac function
 - Gastrointestinal bleeding
+- Chondrocalcinosis pyrophosphate (acute pseudogout)
