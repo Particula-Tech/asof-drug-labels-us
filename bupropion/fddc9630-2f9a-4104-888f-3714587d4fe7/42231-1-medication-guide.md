@@ -56,12 +56,13 @@ What else do I need to know about antidepressant medicines?
   Know all of the medicines that you or your family member takes.
   Keep a list of all medicines to show the healthcare provider.
   Do not start new medicines without first checking with your healthcare provider.
-- It is not known if bupropion hydrochloride extended-release tablets (XL) are safe and effective in children under the age of 18.
+
+It is not known if bupropion hydrochloride extended-release tablets (XL) are safe and effective in children under the age of 18.
 
 Quitting Smoking, Quit-Smoking Medications, Changes in Thinking and Behavior, Depression, and Suicidal Thoughts or Actions
 
 This section of the Medication Guide is only about the risk of changes in thinking and behavior, depression and suicidal thoughts or actions with drugs used to quit smoking.
-Although bupropion hydrochloride extended-release tablets (XL) are not a treatment for quitting smoking, it contains the same active ingredient (bupropion hydrochloride) as ZYBAN® (bupropion hydrochloride sustained-release tablets) which is used to help patients quit smoking.
+Although bupropion hydrochloride extended-release tablets (XL) are not a treatment for quitting smoking, it contains the same active ingredient (bupropion hydrochloride) as ZYBAN (bupropion hydrochloride sustained-release tablets) which is used to help patients quit smoking.
 
 Talk to your healthcare provider or your family member’s healthcare provider about:
 
@@ -133,7 +134,7 @@ If you have any of the above symptoms of mania, call your healthcare provider.
 - Unusual thoughts or behaviors.
   Some patients have unusual thoughts or behaviors while taking bupropion hydrochloride extended-release tablets (XL), including delusions (believe you are someone else), hallucinations (seeing or hearing things that are not there), paranoia (feeling that people are against you), or feeling confused.
   If this happens to you, call your healthcare provider.
-- Visual problems
+- Visual problems.
 
 - eye pain
 - changes in vision
@@ -149,10 +150,7 @@ You may want to undergo an eye examination to see if you are at risk and receive
 
 What are bupropion hydrochloride extended-release tablets (XL)?
 
-Bupropion hydrochloride extended-release tablets (XL) should be used with a patient support program.
-It is important to participate in the behavioral program, counseling, or other support program your healthcare professional recommends.
-
-Quitting smoking can lower your chances of having lung disease, heart disease, or getting certain types of cancer that are related to smoking.
+Bupropion hydrochloride extended-release tablets (XL) are a prescription medicine used to treat adults with a certain type of depression called major depressive disorder.
 
 Who should not take bupropion hydrochloride extended-release tablets (XL)?
 
@@ -160,7 +158,7 @@ Do not take bupropion hydrochloride extended-release tablets (XL) if you:
 
 - have or had a seizure disorder or epilepsy.
 - have or had an eating disorder such as anorexia nervosa or bulimia.
-- are taking any other medicines that contain bupropion, including WELLBUTRIN®, WELLBUTRIN SR®, APLENZIN®, ZYBAN, or FORFIVO XL®.
+- are taking any other medicines that contain bupropion, including WELLBUTRIN, WELLBUTRIN SR, APLENZIN®, ZYBAN, or FORFIVO XL.
   Bupropion is the same active ingredient that is in bupropion hydrochloride extended-release tablets (XL).
 - drink a lot of alcohol and abruptly stop drinking, or take medicines called sedatives (these make you sleepy), benzodiazepines, or anti-seizure medicines, and you stop taking them all of a sudden.
 - take a monoamine oxidase inhibitor (MAOI).
@@ -191,22 +189,21 @@ See “Quitting Smoking, Quit-Smoking Medications, Changes in Thinking and Behav
 - drink alcohol.
 - abuse prescription medicines or street drugs.
 - are pregnant or plan to become pregnant.
-- are breastfeeding.
-  Bupropion hydrochloride passes into your milk in small amounts.
+  Talk to your healthcare provider about the risk to your unborn baby if you take bupropion hydrochloride extended-release tablets (XL) during pregnancy.
+  - Tell your healthcare provider if you become pregnant or think you are pregnant during treatment with bupropion hydrochloride extended-release tablets (XL).
+  - If you become pregnant during treatment with bupropion hydrochloride extended-release tablets (XL), talk to your healthcare provider about registering with the National Pregnancy Registry for Antidepressants.
+    You can register by calling 1-844-405-6185.
+- are breastfeeding or plan to breastfeed during treatment with bupropion hydrochloride extended-release tablets (XL).
+  Bupropion hydrochloride passes into your milk.
+  Talk to your healthcare provider about the best way to feed your baby during treatment with bupropion hydrochloride extended-release tablets (XL).
 
 Tell your healthcare provider about all the medicines you take, including prescription, over-the-counter medicines, vitamins, and herbal supplements.
 Many medicines increase your chances of having seizures or other serious side effects if you take them while you are taking bupropion hydrochloride extended-release tablets (XL).
 
 How should I take bupropion hydrochloride extended-release tablets (XL)?
 
-- Start bupropion hydrochloride extended-release tablets (XL) before you stop smoking to give bupropion hydrochloride extended-release tablets (XL) time to build up in your body.
-  It takes about 1 week for bupropion hydrochloride extended-release tablets (XL) to start working.
-- Pick a date to stop smoking that is during the second week you are taking bupropion hydrochloride extended-release tablets (XL).
 - Take bupropion hydrochloride extended-release tablets (XL) exactly as prescribed by your healthcare provider.
   Do not change your dose or stop taking bupropion hydrochloride extended-release tablets (XL) without talking with your healthcare provider first.
-- Bupropion hydrochloride extended-release tablets (XL) are usually taken for 7 to 12 weeks.
-  Your healthcare provider may decide to prescribe bupropion hydrochloride extended-release tablets (XL) for longer than 12 weeks to help you stop smoking.
-  Follow your healthcare provider’s instructions.
 - Swallow bupropion hydrochloride extended-release tablets (XL) whole.
   Do not chew, cut, or crush bupropion hydrochloride extended-release tablets (XL).
   If you do, the medicine will be released into your body too quickly.
@@ -216,14 +213,6 @@ How should I take bupropion hydrochloride extended-release tablets (XL)?
   This is normal.
 - Take your doses of bupropion hydrochloride extended-release tablets (XL) at least 8 hours apart.
 - You may take bupropion hydrochloride extended-release tablets (XL) with or without food.
-- It is not dangerous to smoke and take bupropion hydrochloride extended-release tablets (XL) at the same time.
-  But, you will lower your chance of breaking your smoking habit if you smoke after the date you set to stop smoking.
-- You may use bupropion hydrochloride extended-release tablets (XL) and nicotine patches (a type of nicotine replacement therapy) at the same time, following the precautions below.
-
-- You should only use bupropion hydrochloride extended-release tablets (XL) and nicotine patches together under the care of your healthcare provider.
-  Using bupropion hydrochloride extended-release tablets (XL) and nicotine patches together may raise your blood pressure, and sometimes this can be severe.
-- Tell your healthcare provider if you plan to use nicotine patches.
-  Your healthcare provider should check your blood pressure regularly if you use nicotine patches with bupropion hydrochloride extended-release tablets (XL) to help you quit smoking.
 
 - If you miss a dose, do not take an extra dose to make up for the dose you missed.
   Wait and take your next dose at the regular time.
@@ -231,7 +220,10 @@ How should I take bupropion hydrochloride extended-release tablets (XL)?
   Too many bupropion hydrochloride extended-release tablets (XL) can increase your chance of having a seizure.
 - If you take too many bupropion hydrochloride extended-release tablets (XL), or overdose, call your local emergency room or poison control center right away.
 
-Do not take any other medicines while taking bupropion hydrochloride extended-release tablets (XL) unless your healthcare provider has told you it is okay.
+- Do not take any other medicines while taking bupropion hydrochloride extended-release tablets (XL) unless your healthcare provider has told you it is okay.
+- If you are taking bupropion hydrochloride extended-release tablets (XL) for the treatment of major depressive disorder, it may take several weeks for you to feel that bupropion hydrochloride extended-release tablets (XL) is working.
+  Once you feel better, it is important to keep taking bupropion hydrochloride extended-release tablets (XL) exactly as directed by your healthcare provider.
+  Call your healthcare provider if you do not feel bupropion hydrochloride extended-release tablets (XL) is working for you.
 
 What should I avoid while taking bupropion hydrochloride extended-release tablets (XL)?
 
@@ -302,7 +294,7 @@ The film-coating material contains FD&C red #40, FD&C yellow #5, hypromellose ty
 This product contains FD&C Yellow No. 5 (tartrazine) which may cause allergic type reactions (including bronchial asthma) in certain susceptible persons.
 Although the overall incidence of FD&C Yellow No. 5 (tartrazine) sensitivity in the general population is low, it is frequently seen in patients who also have aspirin sensitivity.
 
-ZYBAN®, WELLBUTRIN®, and WELLBUTRIN SR® are registered trademarks of GlaxoSmithKline.
+ZYBAN, WELLBUTRIN, and WELLBUTRIN SR are registered trademarks of GlaxoSmithKline.
 All other product/brand names are the trademarks of their respective owners.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
@@ -310,4 +302,4 @@ This Medication Guide has been approved by the U.S. Food and Drug Administration
 Rx only
 
 Distributed by: Amneal Pharmaceuticals LLC Bridgewater, NJ 08807 Rev.
-09-2018-00
+01-2020-01

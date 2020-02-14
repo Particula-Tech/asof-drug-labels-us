@@ -54,7 +54,7 @@ Population Subgroups
 Factors or conditions altering metabolic capacity (e.g., liver disease, congestive heart failure [CHF], age, concomitant medications, etc.) or elimination may be expected to influence the degree and extent of accumulation of the active metabolites of bupropion.
 The elimination of the major metabolites of bupropion may be affected by reduced renal or hepatic function, because they are moderately polar compounds and are likely to undergo further metabolism or conjugation in the liver prior to urinary excretion.
 
-#### Renal Impairment
+Renal Impairment
 
 There is limited information on the pharmacokinetics of bupropion in patients with renal impairment.
 An inter-trial comparison between normal subjects and subjects with end-stage renal failure demonstrated that the parent drug Cmax and AUC values were comparable in the 2 groups, whereas the hydroxybupropion and threohydrobupropion metabolites had a 2.3- and 2.8-fold increase, respectively, in AUC for subjects with end-stage renal failure.
@@ -63,7 +63,7 @@ Bupropion is extensively metabolized in the liver to active metabolites, which a
 The elimination of the major metabolites of bupropion may be reduced by impaired renal function.
 Bupropion hydrochloride extended-release tablets (XL) should be used with caution in patients with renal impairment, and a reduced frequency and/or dose should be considered [see Dosage and Administration (2.7) and Use in Specific Populations (8.6)].
 
-#### Hepatic Impairment
+Hepatic Impairment
 
 The effect of hepatic impairment on the pharmacokinetics of bupropion was characterized in 2 single-dose trials, one in subjects with alcoholic liver disease and one in subjects with mild to severe cirrhosis.
 The first trial demonstrated that the half-life of hydroxybupropion was significantly longer in 8 subjects with alcoholic liver disease than in 8 healthy volunteers (32±14 hours versus 21±5 hours, respectively).
@@ -71,7 +71,7 @@ Although not statistically significant, the AUCs for bupropion and hydroxybuprop
 The differences in half-life for bupropion and the other metabolites in the 2 groups were minimal.
 
 The second trial demonstrated no statistically significant differences in the pharmacokinetics of bupropion and its active metabolites in 9 subjects with mild to moderate hepatic cirrhosis compared to 8 healthy volunteers.
-However, more variability was observed in some of the pharmacokinetic parameters for bupropion (AUC, Cmax, and Tmax) and its active metabolites (t1/2) in subjects with mild to moderate hepatic cirrhosis.
+However, more variability was observed in some of the pharmacokinetic parameters for bupropion (AUC, Cmax, and Tmax) and its active metabolites (t½) in subjects with mild to moderate hepatic cirrhosis.
 In addition, in patients with severe hepatic cirrhosis, the bupropion Cmax and AUC were substantially increased (mean difference: by approximately 70% and 3-fold, respectively) and more variable when compared to values in healthy volunteers; the mean bupropion half-life was also longer (29 hours in subjects with severe hepatic cirrhosis vs. 19 hours in healthy subjects).
 For the metabolite hydroxybupropion, the mean Cmax was approximately 69% lower.
 For the combined amino-alcohol isomers threohydrobupropion and erythrohydrobupropion, the mean Cmax was approximately 31% lower.
@@ -79,30 +79,30 @@ The mean AUC increased by about 1½-fold for hydroxybupropion and about 2½-fold
 The median Tmax was observed 19 hours later for hydroxybupropion and 31 hours later for threo/erythrohydrobupropion.
 The mean half-lives for hydroxybupropion and threo/erythrohydrobupropion were increased 5- and 2-fold, respectively, in patients with severe hepatic cirrhosis compared to healthy volunteers [see Dosage and Administration (2.6) and Use in Specific Populations (8.7)].
 
-#### Left Ventricular Dysfunction
+Left Ventricular Dysfunction
 
 During a chronic dosing study with bupropion in 14 depressed patients with left ventricular dysfunction (history of CHF or an enlarged heart on x-ray), there was no apparent effect on the pharmacokinetics of bupropion or its metabolites, compared to healthy volunteers.
 
-#### Age
+Age
 
 The effects of age on the pharmacokinetics of bupropion and its metabolites have not been fully characterized, but an exploration of steady-state bupropion concentrations from several depression efficacy studies involving patients dosed in a range of 300 mg/day to 750 mg/day, on a 3 times daily schedule, revealed no relationship between age (18 to 83 years) and plasma concentration of bupropion.
 A single-dose pharmacokinetic study demonstrated that the disposition of bupropion and its metabolites in elderly subjects was similar to that in younger subjects.
 These data suggest that there is no prominent effect of age on bupropion concentration; however, another single- and multiple-dose pharmacokinetic study suggested that the elderly are at increased risk for accumulation of bupropion and its metabolites [see Use in Specific Populations (8.5)].
 
-#### Gender
+Gender
 
 A single-dose study involving 12 healthy male and 12 healthy female volunteers revealed no sex-related differences in the pharmacokinetic parameters of bupropion.
 In addition, pooled analysis of bupropion pharmacokinetic data from 90 healthy male and 90 healthy female volunteers revealed no sex-related differences in the peak plasma concentrations of bupropion.
 The mean systemic exposure (AUC) was approximately 13% higher in male volunteers compared to female volunteers.
 
-#### Smokers
+Smokers
 
 The effects of cigarette smoking on the pharmacokinetics of bupropion hydrochloride were studied in 34 healthy male and female volunteers; 17 were chronic cigarette smokers and 17 were nonsmokers.
 Following oral administration of a single 150 mg dose of bupropion, there was no statistically significant difference in Cmax, half-life, Tmax, AUC, or clearance of bupropion or its active metabolites between smokers and nonsmokers.
 
 Drug Interactions
 
-#### Potential for Other Drugs to Affect Bupropion Hydrochloride Extended-Release Tablets (XL)
+Potential for Other Drugs to Affect Bupropion Hydrochloride Extended-Release Tablets (XL)
 
 In vitro studies indicate that bupropion is primarily metabolized to hydroxybupropion by CYP2B6.
 Therefore, the potential exists for drug interactions between bupropion hydrochloride extended-release tablets (XL) and drugs that are inhibitors or inducers of CYP2B6.
@@ -135,7 +135,7 @@ The AUC of hydroxybupropion was unchanged, whereas Cmax of hydroxybupropion was 
 
 Carbamazepine, Phenobarbital, Phenytoin: While not systematically studied, these drugs may induce the metabolism of bupropion.
 
-#### Potential for Bupropion Hydrochloride Extended-Release Tablets (XL) to Affect Other Drugs
+Potential for Bupropion Hydrochloride Extended-Release Tablets (XL) to Affect Other Drugs
 
 Animal data indicated that bupropion may be an inducer of drug-metabolizing enzymes in humans.
 In a study of 8 healthy male volunteers, following a 14-day administration of bupropion 100 mg three times per day, there was no evidence of induction of its own metabolism.
@@ -144,7 +144,7 @@ Nevertheless, there may be the potential for clinically important alterations of
 Drugs Metabolized by CYP2D6
 
 In vitro, bupropion and hydroxybupropion are CYP2D6 inhibitors.
-In a clinical study of 15 male subjects (ages 19 to 35 years) who were extensive metabolizers of CYP2D6, bupropion given as 150 mg twice daily followed by a single-dose of 50 mg desipramine increased the Cmax, AUC, and T1/2 of desipramine by an average of approximately 2-, 5-, and 2-fold, respectively.
+In a clinical study of 15 male subjects (ages 19 to 35 years) who were extensive metabolizers of CYP2D6, bupropion given as 150 mg twice daily followed by a single dose of 50 mg desipramine increased the Cmax, AUC, and T1/2 of desipramine by an average of approximately 2-, 5-, and 2-fold, respectively.
 The effect was present for at least 7 days after the last dose of bupropion.
 Concomitant use of bupropion with other drugs metabolized by CYP2D6 has not been formally studied.
 

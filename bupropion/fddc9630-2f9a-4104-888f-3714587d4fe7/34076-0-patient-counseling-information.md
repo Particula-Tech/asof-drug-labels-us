@@ -43,7 +43,7 @@ Patients may wish to be examined to determine whether they are susceptible to an
 
 Bupropion-Containing Products
 
-Educate patients that bupropion hydrochloride extended-release tablets (XL) contain the same active ingredient (bupropion) found in ZYBAN (bupropion hydrochloride sustained-release tablets), which is used as an aid to smoking cessation treatment, and that bupropion hydrochloride extended-release tablets (XL) should not be used in combination with ZYBAN (bupropion hydrochloride sustained-release tablets) or any other medications that contain bupropion hydrochloride (such as WELLBUTRIN SR (bupropion hydrochloride extended-release tablets (SR)), the sustained-release formulation; WELLBUTRIN (bupropion hydrochloride tablets), the immediate-release formulation; and APLENZIN (bupropion hydrobromide extended-release tablets), a bupropion hydrobromide formulation).
+Educate patients that bupropion hydrochloride extended-release tablets (XL) contain the same active ingredient (bupropion) found in ZYBAN (bupropion hydrochloride sustained-release tablets), which is used as an aid to smoking cessation treatment, and that bupropion hydrochloride extended-release tablets (XL) should not be used in combination with ZYBAN (bupropion hydrochloride sustained-release tablets) or any other medications that contain bupropion hydrochloride (such as WELLBUTRIN SR (bupropion hydrochloride extended-release tablets (SR)), the sustained-release formulation; WELLBUTRIN (bupropion hydrochloride tablets), the immediate-release formulation, and APLENZIN (bupropion hydrobromide extended-release tablets), a bupropion hydrobromide formulation).
 In addition, there are a number of generic bupropion hydrochloride products for the immediate, sustained, and extended-release formulations.
 
 Potential for Cognitive and Motor Impairment
@@ -58,12 +58,8 @@ Counsel patients to notify their healthcare provider if they are taking or plan 
 
 Pregnancy
 
-Advise patients to notify their healthcare provider if they become pregnant or intend to become pregnant during therapy.
-
-Precautions for Nursing Mothers
-
-Communicate with the patient and pediatric healthcare provider regarding the infant’s exposure to bupropion through human milk.
-Instruct patients to immediately contact the infant’s healthcare provider if they note any side effect in the infant that concerns them or is persistent.
+Advise patients to notify their healthcare provider if they become pregnant or intend to become pregnant during therapy with bupropion hydrochloride extended-release tablets (XL).
+Advise patients that there is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to bupropion hydrochloride extended-release tablets (XL) during pregnancy [see Use in Specific Populations (8.1)].
 
 Administration Information
 
@@ -79,4 +75,4 @@ All other product/brand names are the trademarks of their respective owners.
 Distributed by: Amneal Pharmaceuticals LLC Bridgewater, NJ 08807
 
 Rev.
-09-2018-00
+01-2020-01

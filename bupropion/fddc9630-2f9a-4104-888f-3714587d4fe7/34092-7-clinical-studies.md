@@ -18,13 +18,13 @@ Response during the open-label phase was defined as a CGI-Improvement Scale scor
 Relapse during the double-blind phase was defined as the investigator’s judgment that drug treatment was needed for worsening depressive symptoms.
 Patients in the bupropion group experienced significantly lower relapse rates over the subsequent 44 weeks compared to those in the placebo group.
 
-Although there are no independent trials demonstrating the efficacy of bupropion hydrochloride extended-release tablets (XL) in the acute treatment of MDD, studies have demonstrated similar bioavailability between the immediate-, sustained-, and extended-release formulations of bupropion hydrochloride under steady-state conditions (i.e. the exposures [Cmax and AUC] for bupropion and its metabolites are similar among the 3 formulations).
+Although there are no independent trials demonstrating the efficacy of bupropion hydrochloride extended-release tablets (XL) in the acute treatment of MDD, studies have demonstrated similar bioavailability between the immediate-, sustained-, and extended-release formulations of bupropion hydrochloride under steady-state conditions (i.e., the exposures [Cmax and AUC] for bupropion and its metabolites are similar among the 3 formulations).
 
 ## 14.2 Seasonal Affective Disorder
 
 The efficacy of bupropion hydrochloride extended-release tablets (XL) in the prevention of seasonal major depressive episodes associated with SAD was established in 3 randomized, double-blind, placebo-controlled trials in adult outpatients with a history of MDD with an autumn-winter seasonal pattern (as defined by DSM-IV criteria).
 Bupropion treatment was initiated prior to the onset of symptoms in the autumn (September to November).
-Treatment was discontinued following a 2 week taper that began during the first week of spring (fourth week of March), resulting in a treatment duration of approximately 4 to 6 months for the majority of patients.
+Treatment was discontinued following a 2-week taper that began during the first week of spring (fourth week of March), resulting in a treatment duration of approximately 4 to 6 months for the majority of patients.
 Patients were randomized to treatment with bupropion hydrochloride extended-release tablets (XL) or placebo.
 The initial bupropion dose was 150 mg once daily for 1 week, followed by up-titration to 300 mg once daily.
 Patients who were deemed by the investigator to be unlikely or unable to tolerate 300 mg once daily were allowed to remain on, or had their dose reduced to, 150 mg once daily.

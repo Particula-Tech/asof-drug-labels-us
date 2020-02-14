@@ -8,4 +8,4 @@
   The use of bupropion hydrochloride extended-release tablets (XL) within 14 days of discontinuing treatment with an MAOI is also contraindicated.
   Starting bupropion hydrochloride extended-release tablets (XL) in a patient treated with reversible MAOIs such as linezolid or intravenous methylene blue is contraindicated [see Dosage and Administration (2.9), Warnings and Precautions (5.4) and Drug Interactions (7.6)].
 - Bupropion hydrochloride extended-release tablets (XL) are contraindicated in patients with known hypersensitivity to bupropion or other ingredients of bupropion hydrochloride extended-release tablets (XL).
-  Anaphylactoid/anaphylactic reactions and Stevens-Johnson Syndrome have been reported [see Warnings and Precautions (5.8)].
+  Anaphylactoid/anaphylactic reactions and Stevens-Johnson syndrome have been reported [see Warnings and Precautions (5.8)].

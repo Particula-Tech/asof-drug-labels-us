@@ -10,7 +10,7 @@ Humans
 
 Controlled clinical studies of bupropion hydrochloride immediate-release conducted in normal volunteers, in subjects with a history of multiple drug abuse, and in depressed patients demonstrated an increase in motor activity and agitation/excitement.
 
-In a population of individuals experienced with drugs of abuse, a single-dose of 400 mg bupropion produced mild amphetamine-like activity as compared to placebo on the Morphine-Benzedrine Subscale of the Addiction Research Center Inventories (ARCI), and a score intermediate between placebo and amphetamine on the Liking Scale of the ARCI.
+In a population of individuals experienced with drugs of abuse, a single dose of 400 mg bupropion produced mild amphetamine-like activity as compared to placebo on the Morphine-Benzedrine Subscale of the Addiction Research Center Inventories (ARCI), and a score intermediate between placebo and amphetamine on the Liking Scale of the ARCI.
 These scales measure general feelings of euphoria and drug desirability.
 
 Findings in clinical trials, however, are not known to reliably predict the abuse potential of drugs.
