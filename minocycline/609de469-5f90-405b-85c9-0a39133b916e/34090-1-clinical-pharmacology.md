@@ -59,14 +59,14 @@ Table 1: Susceptibility Test Interpretive Criteria for Minocycline and Tetracycl
 a Organisms that are susceptible to tetracycline are also considered susceptible to minocycline.
 However, some organisms that are intermediate or resistant to tetracycline may be susceptible to minocycline.
 
-b The current absence of resistance isolates precludes defining any result other than “susceptible”.
+b The current absence of resistance isolates precludes defining any result other than "susceptible".
 If isolates yielding MIC results other than susceptible, they should be submitted to a reference laboratory for further testing.
 
-A report of “Susceptible” indicates that the antimicrobial drug is likely to inhibit growth of the microorganism if the antimicrobial compound reaches the concentrations usually achievable at the site of infection.
-A report of “Intermediate” indicates that the result should be considered equivocal, and, if the microorganism is not fully susceptible to alternative, clinically feasible drugs, the test should be repeated.
+A report of "Susceptible" indicates that the antimicrobial drug is likely to inhibit growth of the microorganism if the antimicrobial compound reaches the concentrations usually achievable at the site of infection.
+A report of "Intermediate" indicates that the result should be considered equivocal, and, if the microorganism is not fully susceptible to alternative, clinically feasible drugs, the test should be repeated.
 This category implies possible clinical applicability in body sites where the drug is physiologically concentrated or in situations where high dosage of drug can be used.
 This category also provides a buffer zone which prevents small uncontrolled technical factors from causing major discrepancies in interpretation.
-A report of “Resistant” indicates that the antimicrobial drug is not likely to inhibit growth of the microorganism, if the antimicrobial drug reaches the concentrations usually achievable at the site of infection; other therapy should be selected.
+A report of "Resistant" indicates that the antimicrobial drug is not likely to inhibit growth of the microorganism, if the antimicrobial drug reaches the concentrations usually achievable at the site of infection; other therapy should be selected.
 
 Quality Control Standardized susceptibility test procedures require the use of laboratory controls to monitor and ensure the accuracy and precision of supplies and reagents used in the assay, and the techniques of the individuals performing the test 1,2,3.
 Standard tetracycline (class compound) or minocycline powder should provide the following range of MIC values noted in Table 2.

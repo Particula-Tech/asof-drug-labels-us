@@ -18,7 +18,7 @@ Performance Standards for Antimicrobial Susceptibility Testing; Twenty-fourth In
 CLSI document M100-S24 [2014].
 Clinical and Laboratory Standards, 940 West Valley Rd., Suite 2500, Wayne, PA 19087-1898.
 
-This product’s label may have been updated.
+This product's label may have been updated.
 For current package insert and further product information, please visit www.themedicinescompany.com or call our toll-free number: 888-977- 6326.
 Call between 9:00 a.m. and 5:00 p.m.
 Eastern Time, Monday through Friday.

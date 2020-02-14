@@ -39,7 +39,7 @@ Syphilis caused by Treponema pallidum subspecies pallidum.
 Yaws caused by Treponema pallidum subspecies pertenue.
 Listeriosis due to Listeria monocytogenes.
 Anthrax due to Bacillus anthracis.
-Vincent’s infection caused by Fusobacterium fusiforme.
+Vincent's infection caused by Fusobacterium fusiforme.
 Actinomycosis caused by Actinomyces israelii.
 Infections caused by Clostridium species.
 
