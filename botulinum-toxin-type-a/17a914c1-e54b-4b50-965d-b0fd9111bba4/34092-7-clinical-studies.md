@@ -20,5 +20,5 @@ Trials EV-001 and EV-002: Composite Investigator and Subject Assessment of Glabe
 
 | Trial | JEUVEAU | Placebo |
 | --- | --- | --- |
-| Trial EV-001 | N=24667% | N=841% |
-| Trial EV-002 | N=24671% | N=781% |
+| Trial EV-001 | N=24668% | N=841% |
+| Trial EV-002 | N=24670% | N=781% |

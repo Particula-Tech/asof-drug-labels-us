@@ -30,7 +30,7 @@ Contains no preservative.
 
 Rx only
 
-Manufactured by: Evolus, Inc. Santa Barbara, CA US License No. 2070
+Manufactured by: Evolus, Inc. Newport Beach, CA US License No. 2070
 
 at: Daewoong Pharmaceuticals Seoul, Korea
 
@@ -49,5 +49,3 @@ Do not freeze reconstituted JEUVEAU.
 Discard 24 hours after reconstitution.
 
 Dosage and Dilution: See Prescribing Information.
-
-GTIN: 0300233921029 EXP: MM/YYYY LOT: 123456 SN: HB7180515A1234

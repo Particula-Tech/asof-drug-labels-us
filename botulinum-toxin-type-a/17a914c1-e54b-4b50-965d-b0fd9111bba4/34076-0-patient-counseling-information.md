@@ -9,15 +9,16 @@ Advise patients to report symptoms of eye dryness (e.g., eye pain, eye irritatio
 
 Inform patients that if loss of strength, muscle weakness, blurred vision or drooping eyelids occur, they should avoid driving a car or engaging in other potentially hazardous activities.
 
-Manufactured by: Evolus Inc. 1027 Garden St., Santa Barbara, CA 93101
+Manufactured by: Evolus Inc. 520 Newport Center Drive, Suite 1200, Newport Beach, CA 92660
 
 U.S. License Number 2070
 
-at: Daewoong Pharmaceutical Co., Ltd. 12, Bongeunsa-ro 114-gil, Gangnam-gu, Seoul, 06170(135-715) Korea
+at: Daewoong Pharmaceutical Co., Ltd. 12, Bongeunsa-ro 114-gil, Gangnam-gu, Seoul, 06170 Korea
 
 ©2019 Evolus.
 All rights reserved.
 
 All Trademarks are the property of their respective owners.
 
-DWG-131
+DWG-131 Rev.
+C
