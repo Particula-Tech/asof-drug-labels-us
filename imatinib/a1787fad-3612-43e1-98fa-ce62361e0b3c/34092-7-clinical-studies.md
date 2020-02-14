@@ -212,6 +212,25 @@ Table 21: Effect of Imatinib Mesylate Tablets on Relapsed/Refractory Ph+ ALL
 | CCyR | 9 (21) |  |
 | PCyR | 6 (14) |  |
 
+## 14.4 Pediatric ALL
+
+Pediatric and young adult patients with very high risk ALL, defined as those with an expected 5-year event-free survival (EFS) less than 45%, were enrolled after induction therapy on a multicenter, non-randomized cooperative group pilot protocol.
+
+The safety and effectiveness of imatinib mesylate tablets (340 mg/m2/day) in combination with intensive chemotherapy was evaluated in a subgroup of patients with Ph+ ALL.
+The protocol included intensive chemotherapy and hematopoietic stem cell transplant after 2 courses of chemotherapy for patients with an appropriate HLA-matched family donor.
+There were 92 eligible patients with Ph+ ALL enrolled.
+The median age was 9.5 years (1 to 21 years: 2.2% between 1 and less than 2 years, 56.5% between 2 and less than 12 years, 34.8% between 12 and less than 18 years, and 6.5% between 18 and 21 years).
+Sixty-four percent were male, 75% were white, 9% were Asian/Pacific Islander, and 5% were black.
+In 5 successive cohorts of patients, imatinib exposure was systematically increased by earlier introduction and prolonged duration.
+Cohort 1 received the lowest intensity and cohort 5 received the highest intensity of imatinib exposure.
+
+There were 50 patients with Ph+ ALL assigned to cohort 5 all of whom received imatinib mesylate tablets plus chemotherapy; 30 were treated exclusively with chemotherapy and imatinib mesylate tablets and 20 received chemotherapy plus imatinib mesylate tablets and then underwent hematopoietic stem cell transplant, followed by further imatinib mesylate tablets treatment.
+Patients in cohort 5 treated with chemotherapy received continuous daily exposure to imatinib beginning in the first course of post induction chemotherapy continuing through maintenance cycles 1 through 4 chemotherapy.
+During maintenance cycles 5 through 12 imatinib mesylate tablets were administered 28 days out of the 56 day cycle.
+Patients who underwent hematopoietic stem cell transplant received 42 days of imatinib mesylate tablets prior to HSCT, and 28 weeks (196 days) of imatinib mesylate tablets after the immediate post transplant period.
+The estimated 4-year EFS of patients in cohort 5 was 70% (95% CI: 54, 81).
+The median follow-up time for EFS at data cutoff in cohort 5 was 40.5 months.
+
 ## 14.5 Myelodysplastic/Myeloproliferative Diseases
 
 An open-label, multicenter, Phase 2 clinical trial was conducted testing imatinib mesylate tablets in diverse populations of patients suffering from life-threatening diseases associated with Abl, Kit or PDGFR protein tyrosine kinases.
