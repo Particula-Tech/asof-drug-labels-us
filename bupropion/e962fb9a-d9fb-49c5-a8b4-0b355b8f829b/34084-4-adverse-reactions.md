@@ -17,8 +17,8 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 
 Adverse Reactions Leading to Discontinuation of Treatment
 
-In placebo-controlled clinical trials, 4%, 9%, and 11% of the placebo, 300-mg-per-day, and 400-mg-per-day groups, respectively, discontinued treatment due to adverse reactions.
-The specific adverse reactions leading to discontinuation in at least 1% of the 300-mg-per-day or 400-mg-per-day groups and at a rate at least twice the placebo rate are listed in Table 2.
+In placebo-controlled clinical trials, 4%, 9%, and 11% of the placebo, 300-mg/day, and 400-mg/day groups, respectively, discontinued treatment due to adverse reactions.
+The specific adverse reactions leading to discontinuation in at least 1% of the 300-mg/day or 400-mg/day groups and at a rate at least twice the placebo rate are listed in Table 2.
 
 Table 2.
 Treatment Discontinuations Due to Adverse Reactions in Placebo-Controlled Trials
@@ -32,11 +32,11 @@ Treatment Discontinuations Due to Adverse Reactions in Placebo-Controlled Trials
 
 Commonly Observed Adverse Reactions
 
-Adverse reactions from Table 3 occurring in at least 5% of subjects treated with bupropion hydrochloride extended-release tablets (SR) and at a rate at least twice the placebo rate are listed below for the 300-mg-per-day and 400-mg-per-day dose groups.
+Adverse reactions from Table 3 occurring in at least 5% of subjects treated with bupropion hydrochloride extended-release tablets (SR) and at a rate at least twice the placebo rate are listed below for the 300-mg/day and 400-mg/day dose groups.
 
-Bupropion hydrochloride extended-release tablets (SR) 300 mg per day: Anorexia, dry mouth, rash, sweating, tinnitus, and tremor.
+Bupropion hydrochloride extended-release tablets (SR) 300 mg/day: Anorexia, dry mouth, rash, sweating, tinnitus, and tremor.
 
-Bupropion hydrochloride extended-release tablets (SR) 400 mg per day: Abdominal pain, agitation, anxiety, dizziness, dry mouth, insomnia, myalgia, nausea, palpitation, pharyngitis, sweating, tinnitus, and urinary frequency.
+Bupropion hydrochloride extended-release tablets (SR) 400 mg/day: Abdominal pain, agitation, anxiety, dizziness, dry mouth, insomnia, myalgia, nausea, palpitation, pharyngitis, sweating, tinnitus, and urinary frequency.
 
 Adverse reactions reported in placebo-controlled trials are presented in Table 3.
 Reported adverse reactions were classified using a COSTART-based Dictionary.

@@ -6,11 +6,11 @@ To minimize the risk of seizure, increase the dose gradually [see Warnings and P
 Bupropion hydrochloride extended-release tablets (SR) should be swallowed whole and not crushed, divided, or chewed.
 Bupropion hydrochloride extended-release tablets (SR) may be taken with or without food.
 
-The usual adult target dose for bupropion hydrochloride extended-release tablets (SR) is 300 mg per day, given as 150 mg twice daily.
-Initiate dosing with 150 mg per day given as a single daily dose in the morning.
-After 3 days of dosing, the dose may be increased to the 300-mg-per-day target dose, given as 150 mg twice daily.
+The usual adult target dose for bupropion hydrochloride extended-release tablets (SR) is 300 mg/day, given as 150 mg twice daily.
+Initiate dosing with 150 mg/day given as a single daily dose in the morning.
+After 3 days of dosing, the dose may be increased to the 300-mg/day target dose, given as 150 mg twice daily.
 There should be an interval of at least 8 hours between successive doses.
-A maximum of 400 mg per day, given as 200 mg twice daily, may be considered for patients in whom no clinical improvement is noted after several weeks of treatment at 300 mg per day.
+A maximum of 400 mg/day, given as 200 mg twice daily, may be considered for patients in whom no clinical improvement is noted after several weeks of treatment at 300 mg/day.
 To avoid high peak concentrations of bupropion and/or its metabolites, do not exceed 200 mg in any single dose.
 
 It is generally agreed that acute episodes of depression require several months or longer of antidepressant drug treatment beyond the response in the acute episode.
@@ -19,12 +19,12 @@ Periodically reassess the need for maintenance treatment and the appropriate dos
 
 ## 2.2 Dose Adjustment in Patients with Hepatic Impairment
 
-In patients with moderate to severe hepatic impairment (Child-Pugh score: 7 to 15), the maximum dose of bupropion hydrochloride extended-release tablets (SR) is 100 mg per day or 150 mg every other day.
+In patients with moderate to severe hepatic impairment (Child-Pugh score: 7 to 15), the maximum dose of bupropion hydrochloride extended-release tablets (SR) is 100 mg/day or 150 mg every other day.
 In patients with mild hepatic impairment (Child-Pugh score: 5 to 6), consider reducing the dose and/or frequency of dosing [see Use in Specific Populations (8.7), Clinical Pharmacology (12.3)].
 
 ## 2.3 Dose Adjustment in Patients with Renal Impairment
 
-Consider reducing the dose and/or frequency of bupropion hydrochloride extended-release tablets (SR) in patients with renal impairment (Glomerular Filtration Rate less than 90 mL per min) [see Use in Specific Populations (8.6), Clinical Pharmacology (12.3)].
+Consider reducing the dose and/or frequency of bupropion hydrochloride extended-release tablets (SR) in patients with renal impairment (Glomerular Filtration Rate less than 90 mL/min) [see Use in Specific Populations (8.6), Clinical Pharmacology (12.3)].
 
 ## 2.4 Switching a Patient to or from a Monoamine Oxidase Inhibitor (MAOI) Antidepressant
 
@@ -42,5 +42,5 @@ If acceptable alternatives to linezolid or intravenous methylene blue treatment 
 The patient should be monitored for 2 weeks or until 24 hours after the last dose of linezolid or intravenous methylene blue, whichever comes first.
 Therapy with bupropion hydrochloride extended-release tablets (SR) may be resumed 24 hours after the last dose of linezolid or intravenous methylene blue.
 
-The risk of administering methylene blue by non-intravenous routes (such as oral tablets or by local injection) or in intravenous doses much lower than 1 mg per kg with bupropion hydrochloride extended-release tablets (SR) is unclear.
+The risk of administering methylene blue by non-intravenous routes (such as oral tablets or by local injection) or in intravenous doses much lower than 1 mg/kg with bupropion hydrochloride extended-release tablets (SR) is unclear.
 The clinician should, nevertheless, be aware of the possibility of a drug interaction with such use [see Contraindications (4), Drug Interactions (7.6)].

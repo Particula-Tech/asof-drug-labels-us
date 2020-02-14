@@ -2,8 +2,8 @@
 
 ## 12.1 Mechanism of Action
 
-The exact mechanism of the antidepressant action of bupropion is not known, but is presumed to be related to noradrenergic and/or dopaminergic mechanisms.
-Bupropion is a relatively weak inhibitor of the neuronal reuptake of norepinephrine and dopamine, and does not inhibit the reuptake of serotonin.
+The exact mechanism of the antidepressant action of bupropion is not known but is presumed to be related to noradrenergic and/or dopaminergic mechanisms.
+Bupropion is a relatively weak inhibitor of the neuronal reuptake of norepinephrine and dopamine and does not inhibit the reuptake of serotonin.
 Bupropion does not inhibit monoamine oxidase.
 
 ## 12.3 Pharmacokinetics
@@ -22,7 +22,7 @@ In humans, following oral administration of bupropion hydrochloride extended-rel
 
 In a trial comparing chronic dosing with bupropion hydrochloride extended-release tablets (SR) 150 mg twice daily to bupropion immediate-release formulation 100 mg 3 times daily, the steady-state Cmax for bupropion after bupropion hydrochloride extended-release tablets (SR) administration was approximately 85% of those achieved after bupropion immediate-release formulation administration.
 Exposure (AUC) to bupropion was equivalent for both formulations.
-Bioequivalence was also demonstrated for all three major active metabolites (i.e. hydroxybupropion, threohydrobupropion and erythrohydrobupropion) for both Cmax and AUC.
+Bioequivalence was also demonstrated for all three major active metabolites (i.e., hydroxybupropion, threohydrobupropion and erythrohydrobupropion) for both Cmax and AUC.
 Thus, at steady-state, bupropion hydrochloride extended-release tablets (SR) given twice daily, and the immediate-release formulation of bupropion given 3 times daily, are essentially bioequivalent for both bupropion and the 3 quantitatively important metabolites.
 
 Bupropion hydrochloride extended-release tablets (SR) can be taken with or without food.
@@ -31,7 +31,7 @@ The food effect is not considered clinically significant.
 
 Distribution
 
-In vitro tests show that bupropion is 84% bound to human plasma proteins at concentrations up to 200 mcg per mL.
+In vitro tests show that bupropion is 84% bound to human plasma proteins at concentrations up to 200 mcg/mL.
 The extent of protein binding of the hydroxybupropion metabolite is similar to that for bupropion; whereas, the extent of protein binding of the threohydrobupropion metabolite is about half that seen with bupropion.
 
 Metabolism
@@ -49,26 +49,26 @@ The elimination half-life of hydroxybupropion is approximately 20 (±5) hours an
 The times to peak concentrations for the erythrohydrobupropion and threohydrobupropion metabolites are similar to that of the hydroxybupropion metabolite.
 However, their elimination half-lives are longer, 33 (±10) and 37 (±13) hours, respectively, and steady-state AUCs are 1.5 and 7 times that of bupropion, respectively.
 
-Bupropion and its metabolites exhibit linear kinetics following chronic administration of 300 to 450 mg per day.
+Bupropion and its metabolites exhibit linear kinetics following chronic administration of 300 mg/day to 450 mg/day.
 
 Elimination
 
 Following oral administration of 200 mg of 14C-bupropion in humans, 87% and 10% of the radioactive dose were recovered in the urine and feces, respectively.
 Only 0.5% of the oral dose was excreted as unchanged bupropion.
 
-Population Subgroups
+Specific Populations
 
 Factors or conditions altering metabolic capacity (e.g., liver disease, congestive heart failure [CHF], age, concomitant medications, etc.) or elimination may be expected to influence the degree and extent of accumulation of the active metabolites of bupropion.
 The elimination of the major metabolites of bupropion may be affected by reduced renal or hepatic function because they are moderately polar compounds and are likely to undergo further metabolism or conjugation in the liver prior to urinary excretion.
 
-Renal Impairment: There is limited information on the pharmacokinetics of bupropion in patients with renal impairment.
+Patients with Renal Impairment: There is limited information on the pharmacokinetics of bupropion in patients with renal impairment.
 An inter-trial comparison between normal subjects and subjects with end-stage renal failure demonstrated that the parent drug Cmax and AUC values were comparable in the 2 groups, whereas the hydroxybupropion and threohydrobupropion metabolites had a 2.3- and 2.8-fold increase, respectively, in AUC for subjects with end-stage renal failure.
-A second trial, comparing normal subjects and subjects with moderate-to-severe renal impairment (GFR 30.9 ± 10.8 mL per min), showed that after a single 150-mg dose of sustained-release bupropion, exposure to bupropion was approximately 2-fold higher in subjects with impaired renal function, while levels of the hydroxybupropion and threo/erythrohydrobupropion (combined) metabolites were similar in the 2 groups.
+A second trial, comparing normal subjects and subjects with moderate-to-severe renal impairment (GFR 30.9 ± 10.8 mL/min), showed that after a single 150-mg dose of sustained-release bupropion, exposure to bupropion was approximately 2-fold higher in subjects with impaired renal function, while levels of the hydroxybupropion and threo/erythrohydrobupropion (combined) metabolites were similar in the 2 groups.
 Bupropion is extensively metabolized in the liver to active metabolites, which are further metabolized and subsequently excreted by the kidneys.
 The elimination of the major metabolites of bupropion may be reduced by impaired renal function.
 Bupropion hydrochloride extended-release tablets (SR) should be used with caution in patients with renal impairment and a reduced frequency and/or dose should be considered [see Use in Specific Populations (8.6)].
 
-Hepatic Impairment: The effect of hepatic impairment on the pharmacokinetics of bupropion was characterized in 2 single-dose trials, one in subjects with alcoholic liver disease and one in subjects with mild-to-severe cirrhosis.
+Patients with Hepatic Impairment: The effect of hepatic impairment on the pharmacokinetics of bupropion was characterized in 2 single-dose trials, one in subjects with alcoholic liver disease and one in subjects with mild-to-severe cirrhosis.
 The first trial demonstrated that the half-life of hydroxybupropion was significantly longer in 8 subjects with alcoholic liver disease than in 8 healthy volunteers (32 ± 14 hours versus 21 ± 5 hours, respectively).
 Although not statistically significant, the AUCs for bupropion and hydroxybupropion were more variable and tended to be greater (by 53% to 57%) in volunteers with alcoholic liver disease.
 The differences in half-life for bupropion and the other metabolites in the 2 groups were minimal.
@@ -87,20 +87,20 @@ Pharmacokinetics of Bupropion and Metabolites in Patients with Severe Hepatic Ci
 | Threo/erythrohydrobupropion amino alcohol | 0.69 | 2.48 | 1.96 | 20 h |
 | a Difference. |  |  |  |  |
 
-Left Ventricular Dysfunction: During a chronic dosing trial with bupropion in 14 depressed subjects with left ventricular dysfunction (history of CHF or an enlarged heart on x-ray), there was no apparent effect on the pharmacokinetics of bupropion or its metabolites, compared with healthy volunteers.
+Patients with Left Ventricular Dysfunction: During a chronic dosing trial with bupropion in 14 depressed subjects with left ventricular dysfunction (history of CHF or an enlarged heart on x-ray), there was no apparent effect on the pharmacokinetics of bupropion or its metabolites, compared with healthy volunteers.
 
-Age: The effects of age on the pharmacokinetics of bupropion and its metabolites have not been fully characterized, but an exploration of steady-state bupropion concentrations from several depression efficacy trials involving subjects dosed in a range of 300 mg per day to 750 mg per day, on a 3 times daily schedule, revealed no relationship between age (18 to 83 years) and plasma concentration of bupropion.
+Age: The effects of age on the pharmacokinetics of bupropion and its metabolites have not been fully characterized, but an exploration of steady-state bupropion concentrations from several depression efficacy trials involving subjects dosed in a range of 300 mg/day to 750 mg/day, on a 3- times-daily schedule, revealed no relationship between age (18 to 83 years) and plasma concentration of bupropion.
 A single-dose pharmacokinetic trial demonstrated that the disposition of bupropion and its metabolites in elderly subjects was similar to that of younger subjects.
 These data suggest there is no prominent effect of age on bupropion concentration; however, another single- and multiple-dose pharmacokinetics trial suggested that the elderly are at increased risk for accumulation of bupropion and its metabolites [see Use in Specific Populations (8.5)].
 
-Gender: Pooled analysis of bupropion pharmacokinetic data from 90 healthy male and 90 healthy female volunteers revealed no sex-related differences in the peak plasma concentrations of bupropion.
+Male and Female Patients: Pooled analysis of bupropion pharmacokinetic data from 90 healthy male and 90 healthy female volunteers revealed no sex-related differences in the peak plasma concentrations of bupropion.
 The mean systemic exposure (AUC) was approximately 13% higher in male volunteers compared with female volunteers.
 The clinical significance of this finding is unknown.
 
 Smokers: The effects of cigarette smoking on the pharmacokinetics of bupropion were studied in 34 healthy male and female volunteers; 17 were chronic cigarette smokers and 17 were nonsmokers.
 Following oral administration of a single 150-mg dose of bupropion, there were no statistically significant differences in Cmax, half-life, Tmax, AUC, or clearance of bupropion or its active metabolites between smokers and nonsmokers.
 
-Drug Interactions
+Drug Interaction Studies
 
 Potential for Other Drugs to Affect Bupropion Hydrochloride Extended-Release Tablets (SR): In vitro studies indicate that bupropion is primarily metabolized to hydroxybupropion by CYP2B6.
 Therefore, the potential exists for drug interactions between bupropion hydrochloride extended-release tablets (SR) and drugs that are inhibitors or inducers of CYP2B6.
@@ -141,7 +141,7 @@ In one trial, following chronic administration of bupropion 100 mg three times d
 Nevertheless, there may be potential for clinically important alterations of blood levels of co-administered drugs.
 
 Drugs Metabolized by CYP2D6: In vitro, bupropion and its metabolites (erythrohydrobupropion, threohydrobupropion, hydroxybupropion) are CYP2D6 inhibitors.
-In a clinical trial of 15 male subjects (ages 19 to 35 years) who were extensive metabolizers of CYP2D6, bupropion 300 mg per day followed by a single-dose of 50 mg desipramine increased the Cmax, AUC, and t1/2 of desipramine by an average of approximately 2-, 5-, and 2-fold, respectively.
+In a clinical trial of 15 male subjects (ages 19 to 35 years) who were extensive metabolizers of CYP2D6, bupropion 300 mg/day followed by a single-dose of 50 mg desipramine increased the Cmax, AUC, and t1/2 of desipramine by an average of approximately 2-, 5-, and 2-fold, respectively.
 The effect was present for at least 7 days after the last dose of bupropion.
 Concomitant use of bupropion with other drugs metabolized by CYP2D6 has not been formally studied.
 

@@ -1,6 +1,6 @@
-Trademarks are the property of their respective owners.
+Trademarks listed are the property of their respective owners.
 
 Distributed by: Amneal Pharmaceuticals LLC Bridgewater, NJ 08807
 
 Rev.
-09-2018-00
+12-2019-01

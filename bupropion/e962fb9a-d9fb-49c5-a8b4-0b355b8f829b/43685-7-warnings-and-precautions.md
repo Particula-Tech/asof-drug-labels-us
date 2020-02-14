@@ -31,7 +31,7 @@ Risk Differences in the Number of Suicidality Cases by Age Group in the Pooled P
 No suicides occurred in any of the pediatric trials.
 There were suicides in the adult trials, but the number was not sufficient to reach any conclusion about drug effect on suicide.
 
-It is unknown whether the suicidality risk extends to longer-term use, i.e. beyond several months.
+It is unknown whether the suicidality risk extends to longer-term use, i.e., beyond several months.
 However, there is substantial evidence from placebo-controlled maintenance trials in adults with depression that the use of antidepressants can delay the recurrence of depression.
 
 All patients being treated with antidepressants for any indication should be monitored appropriately and observed closely for clinical worsening, suicidality, and unusual changes in behavior, especially during the initial few months of a course of drug therapy, or at times of dose changes, either increases or decreases [see Boxed Warning].
@@ -47,9 +47,9 @@ Prescriptions for bupropion hydrochloride extended-release tablets (SR) should b
 
 ## 5.2 Neuropsychiatric Adverse Events and Suicide Risk in Smoking Cessation Treatment
 
-Bupropion hydrochloride extended-release tablets (SR) are not approved for smoking cessation treatment; however, they contain the same active ingredient as the smoking cessation medication ZYBAN®.
+Bupropion hydrochloride extended-release tablets (SR) are not approved for smoking cessation treatment; however, they contain the same active ingredient as the smoking cessation medication ZYBAN.
 Serious neuropsychiatric adverse events have been reported in patients taking bupropion for smoking cessation.
-These postmarketing reports have included changes in mood (including depression and mania), psychosis, hallucinations, paranoia, delusions, homicidal ideations, aggression, hostility, agitation, anxiety, and panic, as well as suicidal ideation, suicide attempt, and completed suicide [see Adverse Reactions (6.2)].
+These postmarketing reports have included changes in mood (including depression and mania), psychosis, hallucinations, paranoia, delusions, homicidal ideation, aggression, hostility, agitation, anxiety, and panic, as well as suicidal ideation, suicide attempt, and completed suicide [see Adverse Reactions (6.2)].
 Some patients who stopped smoking may have been experiencing symptoms of nicotine withdrawal, including depressed mood.
 Depression, rarely including suicidal ideation, has been reported in smokers undergoing a smoking cessation attempt without medication.
 However, some of these adverse events occurred in patients taking bupropion who continued to smoke.
@@ -64,7 +64,7 @@ However, the symptoms persisted in some cases; therefore, ongoing monitoring and
 
 Bupropion hydrochloride extended-release tablets (SR) can cause seizure.
 The risk of seizure is dose-related.
-The dose should not exceed 400 mg per day.
+The dose should not exceed 400 mg/day.
 Increase the dose gradually.
 Discontinue bupropion hydrochloride extended-release tablets (SR) and do not restart treatment if the patient experiences a seizure.
 
@@ -76,9 +76,9 @@ Additional predisposing conditions include diabetes mellitus treated with oral h
 
 Incidence of Seizure with Bupropion Use
 
-When bupropion hydrochloride extended-release tablets (SR) are dosed up to 300 mg per day, the incidence of seizure is approximately 0.1% (1/1,000) and increases to approximately 0.4% (4/1,000) at the maximum recommended dose of 400 mg per day.
+When bupropion hydrochloride extended-release tablets (SR) are dosed up to 300 mg/day, the incidence of seizure is approximately 0.1% (1/1,000) and increases to approximately 0.4% (4/1,000) at the maximum recommended dose of 400 mg/day.
 
-The risk of seizure can be reduced if the dose of bupropion hydrochloride extended-release tablets (SR) does not exceed 400 mg per day, given as 200 mg twice daily, and the titration rate is gradual.
+The risk of seizure can be reduced if the dose of bupropion hydrochloride extended-release tablets (SR) does not exceed 400 mg/day, given as 200 mg twice daily, and the titration rate is gradual.
 
 ## 5.4 Hypertension
 
@@ -111,7 +111,7 @@ Instruct patients to contact a healthcare professional if such reactions occur.
 
 ## 5.7 Angle-Closure Glaucoma
 
-The pupillary dilation that occurs following use of many antidepressant drugs including bupropion hydrochloride extended-release tablets (SR) may trigger an angle-closure attack in a patient with anatomically narrow angles who does not have a patent iridectomy.
+The pupillary dilation that occurs following use of many antidepressant drugs including bupropion hydrochloride may trigger an angle-closure attack in a patient with anatomically narrow angles who does not have a patent iridectomy.
 
 ## 5.8 Hypersensitivity Reactions
 
