@@ -2,25 +2,51 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Category B
+Pregnancy Exposure Registry
+
+There is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to ADHD medications, including guanfacine extended-release tablets, during pregnancy.
+Healthcare providers are encouraged to register patients by calling the National Pregnancy Registry for ADHD Medications at 1-866-961-2388.
 
 Risk Summary
 
-There are no adequate and well-controlled studies of guanfacine extended-release in pregnant women.
-No fetal harm was observed in rats and rabbits with administration of guanfacine at 4 and 2.7 times, respectively, the maximum recommended human dose.
-Because animal studies are not always predictive of human response, this drug should be used during pregnancy only if clearly needed.
+Available data with guanfacine over decades of use in pregnant women have not identified a drug-associated risk of major birth defects, miscarriage or adverse maternal or fetal outcomes.
+However, use of guanfacine in pregnant women over this time has been infrequent.
+In animal reproduction studies, rabbits and rats exposed to 3 and 4 times the maximum recommended human dose (MRHD), respectively, showed no adverse outcomes.
+However, higher doses were associated with reduced fetal survival and maternal toxicity (see Data).
 
-Animal data
+The estimated background risk of major birth defects and miscarriage for the indicated population is unknown.
+All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
+In the
+
+U.S. general population, the estimated risk of major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively.
+
+Data
+
+Animal Data
 
 Reproduction studies conducted in rats have shown that guanfacine crosses the placenta.
-However, administration of guanfacine to rats and rabbits at 4 and 2.7 times, respectively, the maximum recommended human dose of 0.12 mg/kg/day on a mg/m2 basis resulted in no evidence of harm to the fetus.
-Higher doses (13.5 times the maximum recommended human dose in both rabbits and rats) were associated with reduced fetal survival and maternal toxicity.
+However, administration of guanfacine to rabbits and rats during organogenesis at 3 (rabbit) and 4 (rat) times the MRHD of 0.12 mg/kg/day on a mg/m2 basis resulted in no evidence of harm to the fetus.
+Higher doses (13.5 times the MRHD in both rabbits and rats) were associated with reduced fetal survival and maternal toxicity.
 
-## 8.3 Nursing Mothers
+## 8.2 Lactation
 
-It is not known whether guanfacine is excreted in human milk; however, guanfacine is excreted in rat milk.
-Because many drugs are excreted in human milk, caution should be exercised when guanfacine extended-release is administered to a nursing woman.
-Observe human milk-fed infants for sedation and somnolence.
+Risk Summary
+
+There are no data on the presence of guanfacine in human milk or the effects on the breastfed infant.
+The effects on milk production are also unknown.
+Guanfacine is present in the milk of lactating rats (see Data).
+If a drug is present in animal milk, it is likely that the drug will be present in human milk.
+If an infant is exposed to guanfacine through breastmilk, monitor for symptoms of hypotension and bradycardia such as sedation, lethargy and poor feeding (see Clinical Considerations).
+The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for guanfacine extended-release tablets and any potential adverse effects on the breastfed child from guanfacine extended-release tablets or from the underlying maternal condition.
+
+Clinical Considerations
+
+Monitor breastfeeding infants exposed to guanfacine through breastmilk for sedation, lethargy, and poor feeding.
+
+Data
+
+Guanfacine was excreted in breast milk of lactating rats at a concentration comparable to that observed in blood, but slightly less than the concentration in plasma when administered following a single oral dose of 5 mg/kg.
+The concentration of drug in animal milk does not necessarily predict the concentration of drug in human milk.
 
 ## 8.4 Pediatric Use
 
