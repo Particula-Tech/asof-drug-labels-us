@@ -18,7 +18,7 @@ Oral and intravenous aripiprazole administration during the pre- and post-natal 
 
 The estimated background risk of major birth defects and miscarriage for the indicated population is unknown.
 All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
-In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2-4% and 15-20%, respectively.
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively.
 
 Clinical Considerations
 
@@ -141,7 +141,7 @@ ABILIFY is not approved for the treatment of patients with psychosis associated 
 ## 8.6 CYP2D6 Poor Metabolizers
 
 Dosage adjustment is recommended in known CYP2D6 poor metabolizers due to high aripiprazole concentrations.
-Approximately 8% of Caucasians and 3–8% of Black/African Americans cannot metabolize CYP2D6 substrates and are classified as poor metabolizers (PM) [see Dosage and Administration (2.7) and Clinical Pharmacology (12.3)].
+Approximately 8% of Caucasians and 3 to 8% of Black/African Americans cannot metabolize CYP2D6 substrates and are classified as poor metabolizers (PM) [see Dosage and Administration (2.7) and Clinical Pharmacology (12.3)].
 
 ## 8.7 Hepatic and Renal Impairment
 

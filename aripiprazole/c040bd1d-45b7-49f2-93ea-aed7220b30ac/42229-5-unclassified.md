@@ -6,6 +6,4 @@ Distributed and marketed by Otsuka America Pharmaceutical, Inc., Rockville, MD 2
 
 ABILIFY is a trademark of Otsuka Pharmaceutical Company.
 
-Rev 08/2019
-
-© Otsuka Pharmaceutical Co., Ltd., Tokyo, 101-8535 Japan
+©2020, Otsuka Pharmaceutical Co., Ltd., Tokyo, 101-8535 Japan

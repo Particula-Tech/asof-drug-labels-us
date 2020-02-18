@@ -2,12 +2,12 @@
 
 Efficacy of the oral formulations of ABILIFY (aripiprazole) was established in the following adequate and well-controlled trials:
 
-- Four short-term trials and one maintenance trial in adult patients and one short-term trial in adolescents (ages 13-17) with schizophrenia [see Clinical Studies (14.1)]
-- Four short-term monotherapy trials and one 6-week adjunctive trial in adult patients and one short-term monotherapy trial in pediatric patients (ages 10-17) with manic or mixed episodes [see Clinical Studies (14.2)]
+- Four short-term trials and one maintenance trial in adult patients and one short-term trial in adolescents (ages 13 to 17) with schizophrenia [see Clinical Studies (14.1)]
+- Four short-term monotherapy trials and one 6-week adjunctive trial in adult patients and one short-term monotherapy trial in pediatric patients (ages 10 to 17) with manic or mixed episodes [see Clinical Studies (14.2)]
 - One maintenance monotherapy trial and in one maintenance adjunctive trial in adult patients with bipolar I disorder [see Clinical Studies (14.2)]
 - Two short-term trials in adult patients with MDD who had an inadequate response to antidepressant therapy during the current episode [see Clinical Studies (14.3)]
-- Two short-term trials in pediatric patients (ages 6-17 years) for the treatment of irritability associated with autistic disorder [see Clinical Studies (14.4)]
-- Two short-term trials in pediatric patients (ages 6-18 years) with Tourette's disorder [see Clinical Studies (14.5)]
+- Two short-term trials in pediatric patients (ages 6 to 17 years) for the treatment of irritability associated with autistic disorder [see Clinical Studies (14.4)]
+- Two short-term trials in pediatric patients (ages 6 to 18 years) with Tourette's disorder [see Clinical Studies (14.5)]
 
 Efficacy of the injectable formulation of ABILIFY (aripiprazole) was established in the following adequate and well-controlled trials:
 
@@ -23,7 +23,7 @@ Three of these studies also included an active control group consisting of eithe
 
 In the four positive trials for ABILIFY, four primary measures were used for assessing psychiatric signs and symptoms.
 Efficacy was evaluated using the total score on the Positive and Negative Syndrome Scale (PANSS).
-The PANSS is a 30 item scale that measures positive symptoms of schizophrenia (7 items), negative symptoms of schizophrenia (7 items), and general psychopathology (16 items), each rated on a scale of 1 (absent) to 7 (extreme); total PANSS scores range from 30 to 210.
+The PANSS is a 30-item scale that measures positive symptoms of schizophrenia (7 items), negative symptoms of schizophrenia (7 items), and general psychopathology (16 items), each rated on a scale of 1 (absent) to 7 (extreme); total PANSS scores range from 30 to 210.
 The Clinical Global Impression (CGI) assessment reflects the impression of a skilled observer, fully familiar with the manifestations of schizophrenia, about the overall clinical state of the patient.
 
 In a 4-week trial (n=414) comparing two fixed doses of ABILIFY (15 or 30 mg/day) to placebo, both doses of ABILIFY were superior to placebo in the PANSS total score (Study 1 in Table 26), PANSS positive subscale, and CGI-severity score.
@@ -73,7 +73,7 @@ Table 26: Schizophrenia Studies
 |  | ABILIFY (5 mg/day) | 92.0 (12.6) | -10.6 (1.93) | -5.2 (-10.7, 0.19) |
 |  | ABILIFY(10 mg/day) | 90.0 (11.9) | -11.3 (1.88) | -5.9 (-11.3, -0.58) |
 |  | Placebo | 90.8 (13.3) | -5.3 (1.97) | -- |
-| Study 6 (Pediatric, 13-17 years) | ABILIFY(10 mg/day) | 93.6 (15.7) | -26.7 (1.91) | -5.5 (-10.7, -0.21) |
+| Study 6 (Pediatric, 13 to 17 years) | ABILIFY(10 mg/day) | 93.6 (15.7) | -26.7 (1.91) | -5.5 (-10.7, -0.21) |
 | ABILIFY(30 mg/day) | 94.0 (16.1) | -28.6 (1.92) | -7.4 (-12.7, -2.13) |  |
 | Placebo | 94.6 (15.6) | -21.2 (1.93) | -- |  |
 | SD: standard deviation; SE: standard error; LS Mean: least-squares mean; CI: unadjusted confidence interval. |  |  |  |  |
@@ -94,7 +94,7 @@ These studies included patients with or without psychotic features and two of th
 The primary instrument used for assessing manic symptoms was the Young Mania Rating Scale (Y-MRS), an 11-item clinician-rated scale traditionally used to assess the degree of manic symptomatology in a range from 0 (no manic features) to 60 (maximum score).
 A key secondary instrument included the Clinical Global Impression-Bipolar (CGI-BP) Scale.
 
-In the four positive, 3-week, placebo-controlled trials (n=268; n=248; n=480; n=485) which evaluated ABILIFY in a range of 15 mg to 30 mg, once daily (with a starting dose of 30 mg/day in two studies and 15 mg/day in two studies), ABILIFY was superior to placebo in the reduction of Y-MRS total score (Studies 1-4 in Table 27) and CGI-BP Severity of Illness score (mania).
+In the four positive, 3-week, placebo-controlled trials (n=268; n=248; n=480; n=485) which evaluated ABILIFY in a range of 15 mg to 30 mg, once daily (with a starting dose of 30 mg/day in two studies and 15 mg/day in two studies), ABILIFY was superior to placebo in the reduction of Y-MRS total score (Studies 1 to 4 in Table 27) and CGI-BP Severity of Illness score (mania).
 In the two studies with a starting dose of 15 mg/day, 48% and 44% of patients were on 15 mg/day at endpoint.
 In the two studies with a starting dose of 30 mg/day, 86% and 85% of patients were on 30 mg/day at endpoint.
 
@@ -120,17 +120,17 @@ Table 27: Bipolar Studies
 |  |  | Mean Baseline Score (SD) | LS Mean Change from Baseline (SE) | Placebo-subtracted Difference Difference (drug minus placebo) in least-squares mean change from baseline. (95% CI) |
 | --- | --- | --- | --- | --- |
 | Study Number | Treatment Group | Primary Efficacy Measure: Y-MRS |  |  |
-| Study 1 | ABILIFY (30 / 15 mg/day) Doses statistically significantly superior to placebo. | 29.0 (5.9) | -12.52 (1.05) | -5.33 (-7.90, -2.76) |
+| Study 1 | ABILIFY (30/15 mg/day) Doses statistically significantly superior to placebo. | 29.0 (5.9) | -12.52 (1.05) | -5.33 (-7.90, -2.76) |
 |  | Placebo | 28.5 (4.6) | -7.19 (1.07) | -- |
-| Study 2 | ABILIFY (30 / 15 mg/day) | 27.8 (5.7) | -8.15 (1.23) | -4.80 (-7.80, -1.80) |
+| Study 2 | ABILIFY (30/15 mg/day) | 27.8 (5.7) | -8.15 (1.23) | -4.80 (-7.80, -1.80) |
 |  | Placebo | 29.1 (6.9) | -3.35 (1.22) | -- |
-| Study 3 | ABILIFY (15 - 30 mg/day) | 28.5 (5.6) | -12.64 (0.84) | -3.63 (-5.75, -1.51) |
+| Study 3 | ABILIFY (15 to 30 mg/day) | 28.5 (5.6) | -12.64 (0.84) | -3.63 (-5.75, -1.51) |
 |  | Placebo | 28.9 (5.9) | 9.01 (0.81) | -- |
-| Study 4 | ABILIFY (15 -30 mg/day) | 28.0 (5.8) | -11.98 (0.80) | -2.28 (-4.44, -0.11) |
+| Study 4 | ABILIFY (15 to 30 mg/day) | 28.0 (5.8) | -11.98 (0.80) | -2.28 (-4.44, -0.11) |
 |  | Placebo | 28.3 (5.8) | -9.70 (0.83) | -- |
 | Study 5 | ABILIFY (15 or 30 mg/day) + Lithium/Valproate | 23.2 (5.7) | -13.31 (0.50) | -2.62 (-4.29, -0.95) |
 | Placebo + Lithium/Valproate | 23.0 (4.9) | -10.70 (0.69) | -- |  |
-| Study 6 (Pediatric, 10-17 years) | ABILIFY (10 mg/day) | 29.8 (6.5) | -14.2 (0.89) | -5.99 (-8.49, -3.50) |
+| Study 6 (Pediatric, 10 to 17 years) | ABILIFY (10 mg/day) | 29.8 (6.5) | -14.2 (0.89) | -5.99 (-8.49, -3.50) |
 | ABILIFY (30 mg/day) | 29.5 (6.3) | -16.5 (0.87) | -8.26 (-10.7, -5.77) |  |
 | Placebo | 30.7 (6.8) | -8.2 (0.91) | -- |  |
 | SD: standard deviation; SE: standard error; LS Mean: least-squares mean; CI: unadjusted confidence interval. |  |  |  |  |
@@ -196,9 +196,9 @@ Table 28: Adjunctive Treatment of Major Depressive Disorder Studies
 |  |  | Mean Baseline Score (SD) | LS Mean Change from Baseline (SE) | Placebo-subtracted Difference Difference (drug minus placebo) in least-squares mean change from baseline. (95% CI) |
 | --- | --- | --- | --- | --- |
 | Study Number | Treatment Group | Primary Efficacy Measure: MADRS |  |  |
-| Study 1 | ABILIFY(5-20 mg/day) Doses statistically significantly superior to placebo. + Antidepressant | 25.2 (6.2) | -8.49 (0.66) | -2.84 (-4.53, -1.15) |
+| Study 1 | ABILIFY (5 to 20 mg/day) Doses statistically significantly superior to placebo. + Antidepressant | 25.2 (6.2) | -8.49 (0.66) | -2.84 (-4.53, -1.15) |
 |  | Placebo + Antidepressant | 27.0 (5.5) | -5.65 (0.64) | -- |
-| Study 2 | ABILIFY(5-20 mg/day) + Antidepressant | 26.0 (6.0) | -8.78 (0.63) | -3.01 (-4.66, -1.37) |
+| Study 2 | ABILIFY (5 to 20 mg/day) + Antidepressant | 26.0 (6.0) | -8.78 (0.63) | -3.01 (-4.66, -1.37) |
 |  | Placebo + Antidepressant | 26.0 (6.5) | -5.77 (0.67) | -- |
 | SD: standard deviation; SE: standard error; LS Mean: least-squares mean; CI: unadjusted confidence interval. |  |  |  |  |
 
@@ -229,11 +229,11 @@ Table 29: Irritability Associated with Autistic Disorder Studies (Pediatric)
 |  |  | Mean Baseline Score (SD) | LS Mean Change from Baseline (SE) | Placebo-subtracted Difference Difference (drug minus placebo) in least-squares mean change from baseline. (95% CI) |
 | --- | --- | --- | --- | --- |
 | Study Number | Treatment Group | Primary Efficacy Measure: ABC-I |  |  |
-| Study 1 | ABILIFY(2-15 mg/day) Doses statistically significantly superior to placebo. | 29.6 (6.37) | -12.9 (1.44) | -7.9 (-11.7, -4.1) |
+| Study 1 | ABILIFY (2 to 15 mg/day) Doses statistically significantly superior to placebo. | 29.6 (6.37) | -12.9 (1.44) | -7.9 (-11.7, -4.1) |
 |  | Placebo | 30.2 (6.52) | -5.0 (1.43) | -- |
 | Study 2 | ABILIFY (5 mg/day) | 28.6 (7.56) | -12.4 (1.36) | -4.0 (-7.7, -0.4) |
-|  | ABILIFY(10 mg/day) | 28.2 (7.36) | -13.2 (1.25) | -4.8 (-8.4, -1.3) |
-|  | ABILIFY(15 mg/day) | 28.9 (6.41) | -14.4 (1.31) | -6.0 (-9.6, -2.3) |
+|  | ABILIFY (10 mg/day) | 28.2 (7.36) | -13.2 (1.25) | -4.8 (-8.4, -1.3) |
+|  | ABILIFY (15 mg/day) | 28.9 (6.41) | -14.4 (1.31) | -6.0 (-9.6, -2.3) |
 |  | Placebo | 28.0 (6.89) | -8.4 (1.39) | -- |
 | SD: standard deviation; SE: standard error; LS Mean: least-squares mean; CI: unadjusted confidence interval. |  |  |  |  |
 
@@ -241,14 +241,14 @@ Table 29: Irritability Associated with Autistic Disorder Studies (Pediatric)
 
 Pediatric Patients
 
-The efficacy of ABILIFY (aripiprazole) in the treatment of Tourette's disorder was established in one 8-week (7 to 17 years of age) and one 10-week (6 to 18 years of age), placebo-controlled trials in pediatric patients (6 to 18 years of age) who met the DSM-IV criteria for Tourette's disorder and had a Total Tic score (TTS) ≥20 - 22 on the Yale Global Tic Severity Scale (YGTSS).
+The efficacy of ABILIFY (aripiprazole) in the treatment of Tourette's disorder was established in one 8-week (7 to 17 years of age) and one 10-week (6 to 18 years of age), placebo-controlled trials in pediatric patients (6 to 18 years of age) who met the DSM-IV criteria for Tourette's disorder and had a Total Tic score (TTS) ≥20 to 22 on the Yale Global Tic Severity Scale (YGTSS).
 The YGTSS is a fully validated scale designed to measure current tic severity.
 Efficacy was evaluated using two assessment scales: 1) the Total Tic score (TTS) of the YGTSS and 2) the Clinical Global Impressions Scale for Tourette's Syndrome (CGI-TS), a clinician-determined summary measure that takes into account all available patient information.
 Over 65% of these patients were under 13 years of age.
 
 The primary outcome measure in both trials was the change from baseline to endpoint in the TTS of the YGTSS.
 Ratings for the TTS are made along 5 different dimensions on a scale of 0 to 5 for motor and vocal tics each.
-Summation of these 10 scores provides a TTS (i.e., 0-50).
+Summation of these 10 scores provides a TTS (i.e., 0 to 50).
 
 The results of these trials are as follows:
 
@@ -273,9 +273,9 @@ Table 30: Tourette's Disorder Studies (Pediatric)
 | --- | --- | --- | --- | --- |
 | Study Number | Treatment Group | Primary Efficacy Measure: YGTSS TTS |  |  |
 | Study 1 | ABILIFY (low dose) Doses statistically significantly superior to placebo. | 29.2 (5.63) | -13.4 (1.59) | -6.3 (-10.2, -2.3) |
-|  | ABILIFY(high dose) | 31.2 (6.40) | -16.9 (1.61) | -9.9 (-13.8, -5.9) |
+|  | ABILIFY (high dose) | 31.2 (6.40) | -16.9 (1.61) | -9.9 (-13.8, -5.9) |
 |  | Placebo | 30.7 (5.95) | -7.1 (1.55) | -- |
-| Study 2 | ABILIFY(2-20 mg/day) | 28.3 (5.51) | -15.0 (1.51) | -5.3 (-9.8, -0.9) |
+| Study 2 | ABILIFY (2 to 20 mg/day) | 28.3 (5.51) | -15.0 (1.51) | -5.3 (-9.8, -0.9) |
 |  | Placebo | 29.5 (5.60) | -9.6 (1.64) | -- |
 | SD: standard deviation; SE: standard error; LS Mean: least-squares mean; CI: unadjusted confidence interval. |  |  |  |  |
 
@@ -284,7 +284,7 @@ Table 30: Tourette's Disorder Studies (Pediatric)
 The efficacy of intramuscular ABILIFY for injection for the treatment of agitation was established in three short-term (24-hour), placebo-controlled trials in agitated inpatients from two diagnostic groups: schizophrenia and bipolar I disorder (manic or mixed episodes, with or without psychotic features).
 Each of the trials included a single active comparator treatment arm of either haloperidol injection (schizophrenia studies) or lorazepam injection (bipolar mania study).
 Patients could receive up to three injections during the 24-hour treatment periods; however, patients could not receive the second injection until after the initial 2-hour period when the primary efficacy measure was assessed.
-Patients enrolled in the trials needed to be: (1) judged by the clinical investigators as clinically agitated and clinically appropriate candidates for treatment with intramuscular medication, and (2) exhibiting a level of agitation that met or exceeded a threshold score of ≥15 on the five items comprising the Positive and Negative Syndrome Scale (PANSS) Excited Component (i.e., poor impulse control, tension, hostility, uncooperativeness, and excitement items) with at least two individual item scores ≥4 using a 1-7 scoring system (1= absent, 4= moderate, 7= extreme).
+Patients enrolled in the trials needed to be: (1) judged by the clinical investigators as clinically agitated and clinically appropriate candidates for treatment with intramuscular medication, and (2) exhibiting a level of agitation that met or exceeded a threshold score of ≥15 on the five items comprising the Positive and Negative Syndrome Scale (PANSS) Excited Component (i.e., poor impulse control, tension, hostility, uncooperativeness, and excitement items) with at least two individual item scores ≥4 using a 1 to 7 scoring system (1= absent, 4= moderate, 7= extreme).
 In the studies, the mean baseline PANSS Excited Component score was 19, with scores ranging from 15 to 34 (out of a maximum score of 35), thus suggesting predominantly moderate levels of agitation with some patients experiencing mild or severe levels of agitation.
 The primary efficacy measure used for assessing agitation signs and symptoms in these trials was the change from baseline in the PANSS Excited Component at 2 hours post-injection.
 A key secondary measure was the Clinical Global Impression of Improvement (CGI-I) Scale.

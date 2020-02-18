@@ -9,14 +9,14 @@ ABILIFY (aripiprazole) is not approved for the treatment of patients with dement
 
 Safety Experience in Elderly Patients with Psychosis Associated with Alzheimer's Disease
 
-In three, 10-week, placebo-controlled studies of ABILIFY in elderly patients with psychosis associated with Alzheimer's disease (n=938; mean age: 82.4 years; range: 56-99 years), the adverse reactions that were reported at an incidence of ≥3% and ABILIFY incidence at least twice that for placebo were lethargy [placebo 2%, ABILIFY 5%], somnolence (including sedation) [placebo 3%, ABILIFY 8%], and incontinence (primarily, urinary incontinence) [placebo 1%, ABILIFY 5%], excessive salivation [placebo 0%, ABILIFY 4%], and lightheadedness [placebo 1%, ABILIFY 4%].
+In three, 10-week, placebo-controlled studies of ABILIFY in elderly patients with psychosis associated with Alzheimer's disease (n=938; mean age: 82.4 years; range: 56 to 99 years), the adverse reactions that were reported at an incidence of ≥3% and ABILIFY incidence at least twice that for placebo were lethargy [placebo 2%, ABILIFY 5%], somnolence (including sedation) [placebo 3%, ABILIFY 8%], and incontinence (primarily, urinary incontinence) [placebo 1%, ABILIFY 5%], excessive salivation [placebo 0%, ABILIFY 4%], and lightheadedness [placebo 1%, ABILIFY 4%].
 
 The safety and efficacy of ABILIFY in the treatment of patients with psychosis associated with dementia have not been established.
 If the prescriber elects to treat such patients with ABILIFY, assess for the emergence of difficulty swallowing or excessive somnolence, which could predispose to accidental injury or aspiration [see Boxed Warning].
 
 ## 5.2 Cerebrovascular Adverse Events, Including Stroke
 
-In placebo-controlled clinical studies (two flexible dose and one fixed dose study) of dementia-related psychosis, there was an increased incidence of cerebrovascular adverse events (e.g., stroke, transient ischemic attack), including fatalities, in ABILIFY-treated patients (mean age: 84 years; range: 78-88 years).
+In placebo-controlled clinical studies (two flexible dose and one fixed dose study) of dementia-related psychosis, there was an increased incidence of cerebrovascular adverse events (e.g., stroke, transient ischemic attack), including fatalities, in ABILIFY-treated patients (mean age: 84 years; range: 78 to 88 years).
 In the fixed-dose study, there was a statistically significant dose response relationship for cerebrovascular adverse events in patients treated with ABILIFY.
 ABILIFY is not approved for the treatment of patients with dementia-related psychosis [see Boxed Warning].
 
@@ -25,7 +25,7 @@ ABILIFY is not approved for the treatment of patients with dementia-related psyc
 Patients with major depressive disorder (MDD), both adult and pediatric, may experience worsening of their depression and/or the emergence of suicidal ideation and behavior (suicidality) or unusual changes in behavior, whether or not they are taking antidepressant medications, and this risk may persist until significant remission occurs.
 Suicide is a known risk of depression and certain other psychiatric disorders, and these disorders themselves are the strongest predictors of suicide.
 There has been a long-standing concern, however, that antidepressants may have a role in inducing worsening of depression and the emergence of suicidality in certain patients during the early phases of treatment.
-Pooled analyses of short-term, placebo-controlled trials of antidepressant drugs (SSRIs and others) showed that these drugs increase the risk of suicidal thinking and behavior (suicidality) in children, adolescents, and young adults (ages 18-24) with MDD and other psychiatric disorders.
+Pooled analyses of short-term, placebo-controlled trials of antidepressant drugs (SSRIs and others) showed that these drugs increase the risk of suicidal thinking and behavior (suicidality) in children, adolescents, and young adults (ages 18 to 24) with MDD and other psychiatric disorders.
 Short-term studies did not show an increase in the risk of suicidality with antidepressants compared to placebo in adults beyond age 24; there was a reduction with antidepressants compared to placebo in adults aged 65 and older.
 
 The pooled analyses of placebo-controlled trials in children and adolescents with MDD, Obsessive Compulsive Disorder (OCD), or other psychiatric disorders included a total of 24 short-term trials of 9 antidepressant drugs in over 4400 patients.
@@ -41,9 +41,9 @@ Table 5:
 | --- | --- |
 |  | Increases Compared to Placebo |
 | <18 | 14 additional cases |
-| 18-24 | 5 additional cases |
+| 18 to 24 | 5 additional cases |
 |  | Decreases Compared to Placebo |
-| 25-64 | 1 fewer case |
+| 25 to 64 | 1 fewer case |
 | ≥65 | 6 fewer cases |
 
 No suicides occurred in any of the pediatric trials.
@@ -141,7 +141,7 @@ Adults
 In an analysis of 13 placebo-controlled monotherapy trials in adults, primarily with schizophrenia or bipolar disorder, the mean change in fasting glucose in ABILIFY-treated patients (+4.4 mg/dL; median exposure 25 days; N=1057) was not significantly different than in placebo-treated patients (+2.5 mg/dL; median exposure 22 days; N=799).
 Table 6 shows the proportion of ABILIFY-treated patients with normal and borderline fasting glucose at baseline (median exposure 25 days) that had treatment-emergent high fasting glucose measurements compared to placebo-treated patients (median exposure 22 days).
 
-Table 6: Changes in Fasting Glucose From Placebo-Controlled Monotherapy Trials in Adult Patients
+Table 6: Changes in Fasting Glucose from Placebo-Controlled Monotherapy Trials in Adult Patients
 
 |  | Category Change (at least once) from Baseline | Treatment Arm | n/N | % |
 | --- | --- | --- | --- | --- |
@@ -155,7 +155,7 @@ At 24 weeks, the mean change in fasting glucose in ABILIFY-treated patients was 
 The mean change in fasting glucose in adjunctive ABILIFY-treated patients with major depressive disorder (+0.7 mg/dL; median exposure 42 days; N=241) was not significantly different than in placebo-treated patients (+0.8 mg/dL; median exposure 42 days; N=246).
 Table 7 shows the proportion of adult patients with changes in fasting glucose levels from two placebo-controlled, adjunctive trials (median exposure 42 days) in patients with major depressive disorder.
 
-Table 7: Changes in Fasting Glucose From Placebo-Controlled Adjunctive Trials in Adult Patients with Major Depressive Disorder
+Table 7: Changes in Fasting Glucose from Placebo-Controlled Adjunctive Trials in Adult Patients with Major Depressive Disorder
 
 |  | Category Change (at least once) from Baseline | Treatment Arm | n/N | % |
 | --- | --- | --- | --- | --- |
@@ -172,9 +172,9 @@ In an analysis of two placebo-controlled trials in pediatric and adolescent pati
 
 In an analysis of two placebo-controlled trials in pediatric and adolescent patients with Tourette's disorder (6 to 18 years) with median exposure of 57 days, the mean change in fasting glucose in ABILIFY-treated patients (0.79 mg/dL; N=90) was not significantly different than in placebo-treated patients (–1.66 mg/dL; N=58).
 
-Table 8 shows the proportion of patients with changes in fasting glucose levels from the pooled adolescent schizophrenia and pediatric bipolar patients (median exposure of 42-43 days), from two placebo-controlled trials in pediatric patients (6 to 17 years) with irritability associated with autistic disorder (median exposure of 56 days), and from the two placebo-controlled trials in pediatric patients (6 to 18 year) with Tourette's Disorder (median exposure 57 days).
+Table 8 shows the proportion of patients with changes in fasting glucose levels from the pooled adolescent schizophrenia and pediatric bipolar patients (median exposure of 42 to 43 days), from two placebo-controlled trials in pediatric patients (6 to 17 years) with irritability associated with autistic disorder (median exposure of 56 days), and from the two placebo-controlled trials in pediatric patients (6 to 18 year) with Tourette's Disorder (median exposure 57 days).
 
-Table 8: Changes in Fasting Glucose From Placebo-Controlled Trials in Pediatric and Adolescent Patients
+Table 8: Changes in Fasting Glucose from Placebo-Controlled Trials in Pediatric and Adolescent Patients
 
 | Category Change (at least once) from Baseline | Indication | Treatment Arm | n/N | % |
 | --- | --- | --- | --- | --- |
@@ -204,7 +204,7 @@ Adults
 
 Table 9 shows the proportion of adult patients, primarily from pooled schizophrenia and bipolar disorder monotherapy placebo-controlled trials, with changes in total cholesterol (pooled from 17 trials; median exposure 21 to 25 days), fasting triglycerides (pooled from eight trials; median exposure 42 days), fasting LDL cholesterol (pooled from eight trials; median exposure 39 to 45 days, except for placebo-treated patients with baseline normal fasting LDL measurements, who had median treatment exposure of 24 days) and HDL cholesterol (pooled from nine trials; median exposure 40 to 42 days).
 
-Table 9: Changes in Blood Lipid Parameters From Placebo-Controlled Monotherapy Trials in Adults
+Table 9: Changes in Blood Lipid Parameters from Placebo-Controlled Monotherapy Trials in Adults
 
 |  | Treatment Arm | n/N | % |
 | --- | --- | --- | --- |
@@ -221,7 +221,7 @@ In monotherapy trials in adults, the proportion of patients at 12 weeks and 24 w
 
 Table 10 shows the proportion of patients with changes in total cholesterol (fasting/nonfasting), fasting triglycerides, fasting LDL cholesterol, and HDL cholesterol from two placebo-controlled adjunctive trials in adult patients with major depressive disorder (median exposure 42 days).
 
-Table 10: Changes in Blood Lipid Parameters From Placebo-Controlled Adjunctive Trials in Adult Patients with Major Depressive Disorder
+Table 10: Changes in Blood Lipid Parameters from Placebo-Controlled Adjunctive Trials in Adult Patients with Major Depressive Disorder
 
 |  | Treatment Arm | n/N | % |
 | --- | --- | --- | --- |
@@ -238,7 +238,7 @@ Pediatric Patients and Adolescents
 
 Table 11 shows the proportion of adolescents with schizophrenia (13 to 17 years) and pediatric patients with bipolar disorder (10 to 17 years) with changes in total cholesterol and HDL cholesterol (pooled from two placebo-controlled trials; median exposure 42 to 43 days) and fasting triglycerides (pooled from two placebo-controlled trials; median exposure 42 to 44 days).
 
-Table 11: Changes in Blood Lipid Parameters From Placebo-Controlled Monotherapy Trials in Pediatric and Adolescent Patients in Schizophrenia and Bipolar Disorder
+Table 11: Changes in Blood Lipid Parameters from Placebo-Controlled Monotherapy Trials in Pediatric and Adolescent Patients in Schizophrenia and Bipolar Disorder
 
 |  | Treatment Arm | n/N | % |
 | --- | --- | --- | --- |
@@ -253,7 +253,7 @@ In monotherapy trials of adolescents with schizophrenia and pediatric patients w
 
 Table 12 shows the proportion of patients with changes in total cholesterol (fasting/nonfasting) and fasting triglycerides (median exposure 56 days) and HDL cholesterol (median exposure 55 to 56 days) from two placebo-controlled trials in pediatric patients (6 to 17 years) with irritability associated with autistic disorder.
 
-Table 12: Changes in Blood Lipid Parameters From Placebo-Controlled Trials in Pediatric Patients with Autistic Disorder
+Table 12: Changes in Blood Lipid Parameters from Placebo-Controlled Trials in Pediatric Patients with Autistic Disorder
 
 |  | Treatment Arm | n/N | % |
 | --- | --- | --- | --- |
@@ -266,7 +266,7 @@ Table 12: Changes in Blood Lipid Parameters From Placebo-Controlled Trials in Pe
 
 Table 13 shows the proportion of patients with changes in total cholesterol (fasting/nonfasting) and fasting triglycerides (median exposure 57 days) and HDL cholesterol (median exposure 57 days) from two placebo-controlled trials in pediatric patients (6 to 18 years) with Tourette's Disorder.
 
-Table 13: Changes in Blood Lipid Parameters From Placebo-Controlled Trials in Pediatric Patients with Tourette's Disorder
+Table 13: Changes in Blood Lipid Parameters from Placebo-Controlled Trials in Pediatric Patients with Tourette's Disorder
 
 |  | Treatment Arm | n/N | % |
 | --- | --- | --- | --- |
@@ -292,15 +292,15 @@ The mean change in body weight in patients receiving adjunctive ABILIFY was +1.7
 
 Table 14 shows the percentage of adult patients with weight gain ≥7% of body weight by indication.
 
-Table 14: Percentage of Patients From Placebo-Controlled Trials in Adult Patients with Weight Gain ≥7% of Body Weight
+Table 14: Percentage of Patients from Placebo-Controlled Trials in Adult Patients with Weight Gain ≥7% of Body Weight
 
 |  | Indication | Treatment Arm | N | Patients n (%) |
 | --- | --- | --- | --- | --- |
-| Weight gain ≥7% of body weight | Schizophrenia 4-6 weeks duration. | ABILIFY | 852 | 69 (8.1) |
+| Weight gain ≥7% of body weight | Schizophrenia 4 to 6 weeks duration | ABILIFY | 852 | 69 (8.1) |
 | Placebo | 379 | 12 (3.2) |  |  |
 | Bipolar Mania 3 weeks duration. | ABILIFY | 719 | 16 (2.2) |  |
 | Placebo | 598 | 16 (2.7) |  |  |
-|  | Major Depressive Disorder (Adjunctive Therapy) 6 weeks duration. | ABILIFY | 347 | 18 (5.2) |
+| Major Depressive Disorder (Adjunctive Therapy) 6 weeks duration. | ABILIFY | 347 | 18 (5.2) |  |
 | Placebo | 330 | 2 (0.6) |  |  |
 
 Pediatric Patients and Adolescents
@@ -314,15 +314,15 @@ In two short-term, placebo-controlled trials in patients (6 to 18 years) with To
 
 Table 15 shows the percentage of pediatric and adolescent patients with weight gain ≥7% of body weight by indication.
 
-Table 15: Percentage of Patients From Placebo-Controlled Monotherapy Trials in Pediatric and Adolescent Patients with Weight Gain ≥7% of Body Weight
+Table 15: Percentage of Patients from Placebo-Controlled Monotherapy Trials in Pediatric and Adolescent Patients with Weight Gain ≥7% of Body Weight
 
 |  | Indication | Treatment Arm | N | Patients n (%) |
 | --- | --- | --- | --- | --- |
-| Weight gain ≥7% of body weight | Pooled Schizophrenia and Bipolar Mania 4-6 weeks duration. | ABILIFY | 381 | 20 (5.2) |
+| Weight gain ≥7% of body weight | Pooled Schizophrenia and Bipolar Mania 4 to 6 weeks duration | ABILIFY | 381 | 20 (5.2) |
 | Placebo | 187 | 3 (1.6) |  |  |
 | Irritability Associated with Autistic Disorder 8 weeks duration. | ABILIFY | 209 | 55 (26.3) |  |
 | Placebo | 98 | 7 (7.1) |  |  |
-|  | Tourette's Disorder 8-10 weeks duration. | ABILIFY | 105 | 21 (20.0) |
+| Tourette's Disorder 8 to 10 weeks duration. | ABILIFY | 105 | 21 (20.0) |  |
 | Placebo | 66 | 5 (7.6) |  |  |
 
 In an open-label trial that enrolled patients from the two placebo-controlled trials of adolescents with schizophrenia (13 to 17 years) and pediatric patients with bipolar disorder (10 to 17 years), 73.2% of patients (238/325) completed 26 weeks of therapy with ABILIFY.
@@ -372,7 +372,7 @@ In patients with a history of a clinically significant low WBC/ANC or drug-induc
 In such patients, consider discontinuation of ABILIFY at the first sign of a clinically significant decline in WBC in the absence of other causative factors.
 
 Monitor patients with clinically significant neutropenia for fever or other symptoms or signs of infection and treat promptly if such symptoms or signs occur.
-Discontinue ABILIFY in patients with severe neutropenia (absolute neutrophil count <1000/mm3) and follow their WBC counts until recovery.
+Discontinue ABILIFY in patients with severe neutropenia (absolute neutrophil count <1000/mm 3) and follow their WBC counts until recovery.
 
 ## 5.11 Seizures/Convulsions
 

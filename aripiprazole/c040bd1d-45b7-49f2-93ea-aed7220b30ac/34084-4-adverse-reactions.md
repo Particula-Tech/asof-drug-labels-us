@@ -460,7 +460,7 @@ Adverse Reactions in Long-Term, Double-Blind, Placebo-Controlled Trials
 The adverse reactions reported in a 26-week, double-blind trial comparing oral ABILIFY and placebo in patients with schizophrenia were generally consistent with those reported in the short-term, placebo-controlled trials, except for a higher incidence of tremor [8% (12/153) for ABILIFY vs. 2% (3/153) for placebo].
 In this study, the majority of the cases of tremor were of mild intensity (8/12 mild and 4/12 moderate), occurred early in therapy (9/12 ≤49 days), and were of limited duration (7/12 ≤10 days).
 Tremor infrequently led to discontinuation (<1%) of ABILIFY.
-In addition, in a long-term (52 week), active-controlled study, the incidence of tremor was 5% (40/859) for ABILIFY.
+In addition, in a long-term (52 weeks), active-controlled study, the incidence of tremor was 5% (40/859) for ABILIFY.
 A similar profile was observed in a long-term monotherapy study and a long-term adjunctive study with lithium and valproate in bipolar disorder.
 
 Other Adverse Reactions Observed During the Premarketing Evaluation of ABILIFY
@@ -584,4 +584,4 @@ General Disorders and Administration Site Conditions:
 ## 6.2 Postmarketing Experience
 
 The following adverse reactions have been identified during post-approval use of ABILIFY.
-Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to establish a causal relationship to drug exposure: occurrences of allergic reaction (anaphylactic reaction, angioedema, laryngospasm, pruritus/urticaria, or oropharyngeal spasm), pathological gambling, hiccups and blood glucose fluctuation.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to establish a causal relationship to drug exposure: occurrences of allergic reaction (anaphylactic reaction, angioedema, laryngospasm, pruritus/urticaria, or oropharyngeal spasm), pathological gambling, hiccups, blood glucose fluctuation, oculogyric crisis and Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS).

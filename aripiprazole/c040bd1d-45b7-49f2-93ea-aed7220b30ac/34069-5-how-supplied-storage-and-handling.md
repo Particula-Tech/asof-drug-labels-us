@@ -28,13 +28,11 @@ Table 33: ABILIFY DISCMELT Orally Disintegrating Tablet Presentations
 ABILIFY ® (aripiprazole) Oral Solution (1 mg/mL) is supplied in child-resistant bottles along with a calibrated oral dosing cup.
 ABILIFY Oral Solution is available as follows:
 
-| 150 mL bottle | NDC 59148-013-15 |
-| --- | --- |
+150 mL bottle NDC 59148-013-15
 
 ABILIFY ® (aripiprazole) Injection for intramuscular use is available as a ready-to-use, 9.75 mg/1.3 mL (7.5 mg/mL) solution in clear, Type 1 glass vials as follows:
 
-| 9.75 mg/1.3 mL single-dose vial | NDC 59148-016-65 |
-| --- | --- |
+9.75 mg/1.3 mL single-dose vial NDC 59148-016-65
 
 ## 16.2 Storage
 
