@@ -10,7 +10,7 @@ In cases where adenectomy is elected, a course of bromocriptine therapy may be u
 ## Acromegaly
 
 Bromocriptine mesylate tablet and capsule therapy is indicated in the treatment of acromegaly.
-Bromocriptine therapy, alone or as adjunctive therapy with pituitary irradiation or surgery, reduces serum growth hormone by 50% or more in approximately half of patients treated, although not usually to normal levels.
+Bromocriptine therapy, alone or as adjunctive therapy with pituitary irradiation or surgery, reduces serum growth hormone by 50% or more in approximately ½ of patients treated, although not usually to normal levels.
 
 Since the effects of external pituitary radiation may not become maximal for several years, adjunctive therapy with bromocriptine offers potential benefit before the effects of irradiation are manifested.
 
@@ -18,9 +18,9 @@ Since the effects of external pituitary radiation may not become maximal for sev
 
 Bromocriptine mesylate tablets or capsules are indicated in the treatment of the signs and symptoms of idiopathic or postencephalitic Parkinson’s disease.
 As adjunctive treatment to levodopa (alone or with a peripheral decarboxylase inhibitor), bromocriptine therapy may provide additional therapeutic benefits in those patients who are currently maintained on optimal dosages of levodopa, those who are beginning to deteriorate (develop tolerance) to levodopa therapy, and those who are experiencing “end of dose failure” on levodopa therapy.
-Bromocriptine therapy may permit a reduction of the maintenance dose of levodopa and, thus may ameliorate the occurrence and/or severity of adverse reactions associated with long-term levodopa therapy such as abnormal involuntary movements (e.g., dyskinesias) and the marked swings in motor function (“on-off’’ phenomenon).
+Bromocriptine therapy may permit a reduction of the maintenance dose of levodopa and, thus may ameliorate the occurrence and/or severity of adverse reactions associated with long-term levodopa therapy such as abnormal involuntary movements (e.g., dyskinesias) and the marked swings in motor function (“on-off” phenomenon).
 Continued efficacy of bromocriptine therapy during treatment of more than 2 years has not been established.
 
 Data are insufficient to evaluate potential benefit from treating newly diagnosed Parkinson’s disease with bromocriptine.
 Studies have shown, however, significantly more adverse reactions (notably nausea, hallucinations, confusion and hypotension) in bromocriptine-treated patients than in levodopa/carbidopa-treated patients.
-Patients unresponsive to levodopa are poor candidates for bromocriptine therapy
+Patients unresponsive to levodopa are poor candidates for bromocriptine therapy.

@@ -2,7 +2,7 @@
 
 Bromocriptine mesylate, USP is an ergot derivative with potent dopamine receptor agonist activity.
 Each bromocriptine mesylate tablet for oral administration contains 2.5 mg (as the mesylate) and each bromocriptine mesylate capsule for oral administration contains 5 mg bromocriptine (as the mesylate).
-Bromocriptine mesylate is chemically designated as Ergotaman-3´,6´,18-trione, 2-bromo-12´-hydroxy-2´-(1-methylethyl)-5´-(2-methylpropyl)-,(5´)-monomethanesulfonate (salt).
+Bromocriptine mesylate is chemically designated as 2-Bromoergocryptine monomethanesulfonate (salt).
 
 The structural formula is:
 

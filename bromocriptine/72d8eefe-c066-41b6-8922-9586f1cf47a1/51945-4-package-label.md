@@ -1,4 +1,4 @@
-# PRINCIPAL DISPLAY PANEL - 2.5 mg
+# PRINCIPAL DISPLAY PANEL – 2.5 mg
 
 NDC 0378-2042-93
 
@@ -17,17 +17,15 @@ Keep this and all medication out of the reach of children.
 Store at 20° to 25°C (68° to 77°F).
 [See USP Controlled Room Temperature.]
 
-Protect from light.
-
 Usual Dosage: See accompanying prescribing information.
 
 Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
 Mylan.com
 
-RM2042H3
+RM2042H4
 
-# PRINCIPAL DISPLAY PANEL - 5 mg
+# PRINCIPAL DISPLAY PANEL – 5 mg
 
 NDC 0378-7096-93
 
@@ -46,12 +44,10 @@ Keep this and all medication out of the reach of children.
 Store at 20° to 25°C (68° to 77°F).
 [See USP Controlled Room Temperature.]
 
-Protect from light.
-
 Usual Dosage: See accompanying prescribing information.
 
 Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
 Mylan.com
 
-RM7096H2
+RM7096H3
