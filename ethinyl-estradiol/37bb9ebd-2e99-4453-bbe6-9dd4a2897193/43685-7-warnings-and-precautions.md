@@ -36,7 +36,7 @@ The risk of VTE due to CHCs gradually disappears after use is discontinued.
 Figure 1 shows the risk of developing a VTE for females who are not pregnant and do not use CHCs, for females who use CHCs, for pregnant females, and for females in the postpartum period.
 To put the risk of developing a VTE into perspective: If 10,000 females who are not pregnant and do not use CHCs are followed for 1 year, between 1 and 5 of these women will develop a VTE.
 
-Figure 1
+Figure 1: Likelihood of Developing a VTE
 
 * CHC = combination hormonal contraception
 

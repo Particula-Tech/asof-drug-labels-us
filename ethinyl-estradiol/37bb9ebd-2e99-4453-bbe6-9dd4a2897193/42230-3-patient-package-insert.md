@@ -1,4 +1,4 @@
-| Patient Information ANNOVERA™ (ann-o-VER-ah) (segesterone acetate and ethinyl estradiol vaginal system) |  |  |  |  |  |  |
+| Patient Information ANNOVERA® (ann-o-VER-ah) (segesterone acetate and ethinyl estradiol vaginal system) |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
 | Read this Patient Information carefully before you decide if ANNOVERA is right for you. This information does not take the place of talking with your gynecologist or other healthcare provider who specializes in women's health. If you have any questions about ANNOVERA, ask your healthcare provider. You should also learn about other birth control methods to choose the one that is best for you. |  |  |  |  |  |  |
 | What is the most important information I should know about ANNOVERA? Do not use ANNOVERA if you smoke cigarettes and are over 35 years old. Smoking increases your risk of serious heart and blood vessel (cardiovascular) side effects from hormonal birth control methods, including death from heart attack, blood clots, or stroke. This risk increases with age and the number of cigarettes you smoke. |  |  |  |  |  |  |

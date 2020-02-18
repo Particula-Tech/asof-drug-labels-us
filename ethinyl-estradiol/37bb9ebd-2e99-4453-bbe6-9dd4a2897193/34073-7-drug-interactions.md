@@ -23,9 +23,9 @@ Substances Increasing the Systemic Exposure of CHCs and Potentially Increasing E
 Ascorbic acid and acetaminophen may increase plasma EE concentrations, possibly by inhibition of conjugation.
 CYP3A4 inhibitors such as itraconazole, voriconazole, fluconazole, grapefruit juice, or ketoconazole may increase systemic exposure of the estrogen and/or progestin component of ANNOVERA.
 
-Human Immunodeficiency Virus (HIV)/ Hepatitis C Virus (HCV) Protease Inhibitors and Non-nucleoside Reverse Transcriptase Inhibitors: Significant decreases in systemic exposure of estrogen and/or progestin have been noted when CHCs are co-administered with some HIV protease inhibitors (e.g., nelfinavir, ritonavir, darunavir/ritonavir, (fos)amprenavir/ritonavir, lopinavir/ritonavir, and tipranavir/ritonavir), some HCV protease inhibitors (e.g., boceprevir and telaprevir), and some non-nucleoside reverse transcriptase inhibitors (e.g., nevirapine).
+Human Immunodeficiency Virus (HIV)/ Hepatitis C Virus (HCV) Protease Inhibitors and Non-nucleoside Reverse Transcriptase Inhibitors: Significant decreases in systemic exposure of estrogen and/or progestin have been noted when CHCs are co-administered with some HIV protease inhibitors (eg, nelfinavir, ritonavir, darunavir/ritonavir, (fos)amprenavir/ritonavir, lopinavir/ritonavir, and tipranavir/ritonavir), some HCV protease inhibitors (eg, boceprevir and telaprevir), and some non-nucleoside reverse transcriptase inhibitors (eg, nevirapine).
 
-In contrast, significant increases in systemic exposure of estrogen and/or progestin have been noted when CHCs are co-administered with certain other HIV protease inhibitors (e.g., indinavir and atazanavir/ritonavir) and with other non-nucleoside reverse transcriptase inhibitors (e.g., etravirine).
+In contrast, significant increases in systemic exposure of estrogen and/or progestin have been noted when CHCs are co-administered with certain other HIV protease inhibitors (eg, indinavir and atazanavir/ritonavir) and with other non-nucleoside reverse transcriptase inhibitors (eg, etravirine).
 
 ## 7.2 Effects of Combined Hormonal Contraceptives on Other Drugs
 
@@ -41,7 +41,7 @@ Table 4: Significant Drug Interaction Information for Drugs Co-Administered with
 | Clinical effect | Concomitant use of CHCs with thyroid hormone replacement therapy or corticosteroid replacement therapy may increase systemic exposure of thyroid-binding and cortisol-binding globulin [see Warnings and Precautions (5.12)]. |
 | Prevention or management | The dose of replacement thyroid hormone or cortisol therapy may need to be increased. Consult the approved product labeling for the therapy in use [see Warnings and Precautions (5.12)]. |
 | Other Drugs |  |
-| Clinical effect | Concomitant use of CHCs may decrease systemic exposure of acetaminophen, morphine, salicylic acid, and temazepam. Concomitant use with ethinyl estradiol-containing CHCs may increase systemic exposure of other drugs (e.g., cyclosporine, prednisolone, theophylline, tizanidine, and voriconazole). |
+| Clinical effect | Concomitant use of CHCs may decrease systemic exposure of acetaminophen, morphine, salicylic acid, and temazepam. Concomitant use with ethinyl estradiol-containing CHCs may increase systemic exposure of other drugs (eg, cyclosporine, prednisolone, theophylline, tizanidine, and voriconazole). |
 | Prevention or management | The dosage of drugs that can be affected by this interaction may need to be increased or decreased. Consult the approved product labeling for the concomitantly used drug. |
 
 ## 7.3 Use of Vaginal Products with ANNOVERA

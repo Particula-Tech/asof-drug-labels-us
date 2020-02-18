@@ -2,6 +2,6 @@
 
 ANNOVERA is indicated for use by females of reproductive potential to prevent pregnancy.
 
-Limitation of Use:
+Limitations of Use
 
 ANNOVERA has not been adequately studied in females with a BMI >29 kg/m2.

@@ -16,8 +16,8 @@ At the single intravenous bolus dose which produces 4.5-fold the therapeutic ser
 Absorption
 
 The pharmacokinetics (PK) of ANNOVERA were determined in 39 women who used ANNOVERA for up to 13 cycles.
-Following vaginal administration, SA and EE were absorbed into systemic circulation with median Tmax of about 2 hours in Cycle 1, Cycle 3, and Cycle 13.
-Concentrations of both components declined after Tmax and became more constant after 96 hours post-dose.
+Following vaginal administration, SA and EE were absorbed into systemic circulation with median tmax of about 2 hours in Cycle 1, Cycle 3, and Cycle 13.
+Concentrations of both components declined after tmax and became more constant after 96 hours post-dose.
 Over subsequent cycles of use, the peak serum concentrations of SA and EE declined.
 Serum concentration-time profiles of SA and EE for Cycles 1, 3, and 13 of ANNOVERA use are provided in Figure 2 and Figure 3 with PK parameters summarized in Table 5 and Table 6.
 
@@ -27,7 +27,7 @@ Figure 3: Mean SA and EE Serum Concentrations Delivered by ANNOVERA Over the Fir
 
 Table 5: Mean (SD) PK Parameters for SA following ANNOVERA Administration
 
-| Cycle | AUC0-21day (ng*hr/mL) | AUC0-1 day (ng*hr/mL) | Cmax (pg/mL) | Cavg (pg/mL) |
+| Cycle | AUC0-21 day (ng*hr/mL) | AUC0-1 day (ng*hr/mL) | Cmax (pg/mL) | Cavg (pg/mL) |
 | --- | --- | --- | --- | --- |
 | 1 | 96.2 (16.9) | 15 (3.2) | 1,147 (315) | 191 (34) |
 | 3 | 65.9 (14.8) | 5 (1.6) | 363 (133) | 131 (29) |
@@ -35,7 +35,7 @@ Table 5: Mean (SD) PK Parameters for SA following ANNOVERA Administration
 
 Table 6: Mean (SD) PK Parameters for EE following ANNOVERA Administration
 
-| Cycle | AUC0-21day (ng*hr/mL) | AUC0-1 day (ng*hr/mL) | Cmax (pg/mL) | Cavg (pg/mL) |
+| Cycle | AUC0-21 day (ng*hr/mL) | AUC0-1 day (ng*hr/mL) | Cmax (pg/mL) | Cavg (pg/mL) |
 | --- | --- | --- | --- | --- |
 | 1 | 22.2 (9.8) | 2.1 (0.7) | 129 (39) | 44 (19) |
 | 3 | 14.7 (4.7) | 0.9 (0.4) | 60 (32) | 29 (9) |

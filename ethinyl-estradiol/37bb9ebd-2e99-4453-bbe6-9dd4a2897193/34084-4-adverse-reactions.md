@@ -32,7 +32,7 @@ Table 1: Adverse Drug Reactions Reported by ≥ 5% of ANNOVERA-treated Subjects
 | Vulvovaginal mycotic infection/vaginal candidiasis | 14.5 |
 | Abdominal pain/lower/upper | 13.3 |
 | Dysmenorrhea | 12.5 |
-| Vaginal Discharge | 11.8 |
+| Vaginal discharge | 11.8 |
 | UTI/cystitis/pyelonephritis/genitourinary tract infection | 10.0 |
 | Breast pain/tenderness/discomfort | 9.5 |
 | Metrorrhagia/menstrual disorder | 7.5 |

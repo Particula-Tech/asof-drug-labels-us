@@ -1,6 +1,6 @@
 Instructions for Use
 
-ANNOVERA™ (ann-o-VER-ah)
+ANNOVERA® (ann-o-VER-ah)
 
 (segesterone acetate and ethinyl estradiol vaginal system)
 
@@ -31,7 +31,7 @@ If you are changing from a minipill, injection, implant, or an intrauterine syst
 
 If you start using ANNOVERA after an abortion or miscarriage:
 
-- Following a first trimester abortion or miscarriage: You may start ANNOVERA within 5 days following a first trimester abortion or miscarriage (the first 12 weeks of pregnancy).
+- Following a first trimester abortion or miscarriage:You may start ANNOVERA within 5 days following a first trimester abortion or miscarriage (the first 12 weeks of pregnancy).
   You do not need to use an additional birth control method.
   - If you do not start ANNOVERA within 5 days after a first trimester abortion or miscarriage, use a non-hormonal birth control method, such as male condoms or spermicide, while you wait for your menstrual period to start.
     Start using ANNOVERA between days 2 and 5 of your menstrual period.
@@ -50,13 +50,13 @@ Use other birth control methods until you are no longer breastfeeding.
 
 How do I use ANNOVERA?
 
-|  | Step 1. Open the package and remove ANNOVERA. Wash your hands with mild soap and water. Dry them well. Take ANNOVERA out of its package (See Figure, Step 1). Wash ANNOVERA with mild soap and water, rinse and pat dry with a clean cloth towel or paper towel. |
+|  | Step 1. Open the package and remove ANNOVERA. Wash your hands with mild soap and water. Dry them well.Take ANNOVERA out of its package (See Figure, Step 1).Wash ANNOVERA with mild soap and water, rinse and pat dry with a clean cloth towel or paper towel. |
 | --- | --- |
-|  | Step 2. Prepare to insert ANNOVERA. Hold ANNOVERA between your thumb and first (index) finger. Press the sides of ANNOVERA together to make it narrow (See Figure, Step 2). |
+|  | Step 2. Prepare to insert ANNOVERA. Hold ANNOVERA between your thumb and first (index) finger.Press the sides of ANNOVERA together to make it narrow (See Figure, Step 2). |
 |  | Step 3. Choose a position for insertion of ANNOVERA. Choose the position that is comfortable for you. For example, lying down, squatting, or standing with 1 leg up (See Figures, Steps 3-A, 3-B, 3-C). |
-|  | Step 4. Insert ANNOVERA into your vagina. Gently insert the folded ANNOVERA into your vagina (See Figure, Step 4-A). Push ANNOVERA further up into your vagina using your index finger. Push it in as far as you can. It sometimes helps to push down with the muscles in your vagina while you are inserting ANNOVERA. When you insert ANNOVERA, it may be in different positions in your vagina, but ANNOVERA does not have to be in an exact position for it to work. Mark your vaginal system “in day” on your calendar. |
+|  | Step 4. Insert ANNOVERA into your vagina. Gently insert the folded ANNOVERA into your vagina (See Figure, Step 4-A).Push ANNOVERA further up into your vagina using your index finger.Push it in as far as you can. It sometimes helps to push down with the muscles in your vagina while you are inserting ANNOVERA.When you insert ANNOVERA, it may be in different positions in your vagina, but ANNOVERA does not have to be in an exact position for it to work.Mark your vaginal system “in day” on your calendar. |
 |  | Note: If you feel the ANNOVERA in your vagina or if it feels uncomfortable, you may not have pushed the ANNOVERA into your vagina far enough. Use your index finger to gently push ANNOVERA as far as you can into your vagina (See Figure, Step 4-B). There is no danger of ANNOVERA being pushed too far up in the vagina or getting lost. You should not feel ANNOVERA after you have placed it into your vagina. Some women and their partners may be aware of ANNOVERA in the vagina during sexual intercourse. |
-|  | Step 5. How do I remove ANNOVERA? Wash and dry your hands. Choose the position that is most comfortable for you (See Step 3). Put your index finger into your vagina and hook it through ANNOVERA. Gently pull downward and forward to remove ANNOVERA and pull it out (See Figure, Step 5). It sometimes helps to push down with the muscles in your vagina while you are removing ANNOVERA. Wash the ANNOVERA vaginal system with mild soap and lukewarm water, pat it dry, and store in the case provided. Mark your vaginal system “out day” on your calendar. |
+|  | Step 5. How do I remove ANNOVERA? Wash and dry your hands.Choose the position that is most comfortable for you (See Step 3).Put your index finger into your vagina and hook it through ANNOVERA. Gently pull downward and forward to remove ANNOVERA and pull it out (See Figure, Step 5). It sometimes helps to push down with the muscles in your vagina while you are removing ANNOVERA.Wash the ANNOVERA vaginal system with mild soap and lukewarm water, pat it dry, and store in the case provided.Mark your vaginal system “out day” on your calendar. |
 
 What else should I know about ANNOVERA?
 
@@ -142,12 +142,12 @@ If you have other questions call your healthcare provider.
 
 For information, go to www.TherapeuticsMD.com or call TherapeuticsMD, Inc. at 1-877-833-0176
 
-Manufactured for TherapeuticsMD, Inc., Boca Raton, FL 33487
+Manufactured for TherapeuticsMD, Inc., Boca Raton, FL 33431
 
-ANNOVERA is a trademark of Population Council and licensed by TherapeuticsMD, Inc.
+ANNOVERA is a registered trademark of Population Council and licensed by TherapeuticsMD, Inc.
 
 © TherapeuticsMD, Inc. All rights reserved.
 
-The Patient Information and Instruction for Use has been approved by the U.S. Food and Drug Administration.
+The Patient Information and Instructions for Use have been approved by the U.S. Food and Drug Administration.
 
-ANVA-LAB-20001 Revised: 05/2019
+ANVA-LAB-20001.2 Revised: 01/2020

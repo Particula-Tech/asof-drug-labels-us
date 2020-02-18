@@ -77,7 +77,7 @@ The use of combined hormonal contraceptives (those containing an estrogen) for e
 
 Prolonged Vaginal System Free Interval
 
-If the Vaginal System Free Interval is prolonged, consider the possibility of pregnancy and have the woman use back-up contraception, such as male condoms or spermicide, during coitus until the vaginal system has been in the vagina for 7 consecutive days.
+If the vaginal system free interval is prolonged, consider the possibility of pregnancy and have the woman use back-up contraception, such as male condoms or spermicide, during coitus until the vaginal system has been in the vagina for 7 consecutive days.
 The use of combined hormonal contraceptives (those containing an estrogen) for emergency contraception during use of ANNOVERA is not recommended.
 
 Prolonged Use of ANNOVERA

@@ -4,7 +4,7 @@ NDC 50261-313-01
 
 Rx only
 
-Annovera™
+ANNOVERA®
 
 (segesterone acetate and ethinyl estradiol vaginal system)
 
@@ -14,7 +14,7 @@ This product is intended to prevent pregnancy.
 
 It does not protect against HIV infection (AIDS) and other sexually transmitted diseases.
 
-Therapeutics MD®
+TherapeuticsMD®
 
 For Vaginal Use
 
@@ -28,13 +28,11 @@ NDC 50261-313-01
 
 Rx only
 
-Annovera™
+ANNOVERA®
 
 (segesterone acetate and ethinyl estradiol vaginal system)
 
-Delivers 0.15 mg/0.013 mg per day
-
-This product is intended to prevent pregnancy.
+Delivers 0.15 mg/0.013 mg per day This product is intended to prevent pregnancy.
 It does not protect against HIV infection (AIDS) and other sexually transmitted diseases.
 
 For Vaginal Use
@@ -47,9 +45,9 @@ Principal Display Panel - Annovera Storage Label
 
 Fill in the discard date below and attach this sticker to your
 
-ANNOVERA™ storage case
+ANNOVERA® storage case
 
-ANNOVERA™ Storage Case
+ANNOVERA® Storage Case
 
 Discard Date: __ /__ /__
 
@@ -63,4 +61,4 @@ Lot: XXXXX
 
 Distributed by: TherapeuticsMD®, Inc.
 
-Boca Raton, FL 33487
+Boca Raton, FL 33431
