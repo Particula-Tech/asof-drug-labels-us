@@ -65,4 +65,4 @@ To report SUSPECTED ADVERSE EVENTS, contact Pfizer Inc. at 1-800-438-1985 or FDA
 This product's label may have been updated.
 For current full prescribing information, please visit www.pfizer.com.
 
-LAB-0017-18.0 Revised November 2018
+LAB-0017-19.0 Revised October 2019
