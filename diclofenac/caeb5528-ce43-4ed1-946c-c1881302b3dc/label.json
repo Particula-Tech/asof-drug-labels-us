@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "NDA021234"
+  ],
+  "inn": "diclofenac",
+  "labeler": "Pfizer, Inc.",
+  "package_ndcs": [
+    "60793-132-02",
+    "60793-132-05",
+    "60793-132-30"
+  ],
+  "products": [
+    {
+      "form": "SYSTEM",
+      "generic": "diclofenac epolamine",
+      "name": "FLECTOR"
+    }
+  ],
+  "setid": "caeb5528-ce43-4ed1-946c-c1881302b3dc",
+  "source": "dailymed"
+}
