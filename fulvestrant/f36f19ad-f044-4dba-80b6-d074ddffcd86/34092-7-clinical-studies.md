@@ -14,7 +14,7 @@ Comparison of Fulvestrant 500 mg and Fulvestrant 250 mg (CONFIRM)
 A randomized, double-blind, controlled clinical trial (CONFIRM, NCT00099437) was completed in 736 postmenopausal women with advanced breast cancer who had disease recurrence on or after adjuvant endocrine therapy or progression following endocrine therapy for advanced disease.
 This trial compared the efficacy and safety of fulvestrant 500 mg (n=362) with fulvestrant 250 mg (n=374).
 
-Fulvestrant 500 mg was administered as two 5 mL injections each containing fulvestrant 250 mg/5mL, one in each buttock, on Days 1, 15, 29 and every 28 (+/- 3) days thereafter.
+Fulvestrant 500 mg was administered as two 5 mL injections each containing fulvestrant 250 mg/5mL, one in each buttock, on Days 1, 15, 29, and every 28 (+/- 3) days thereafter.
 Fulvestrant 250 mg was administered as two 5 mL injections (one containing fulvestrant 250 mg/5 mL injection plus one placebo injection), one in each buttock, on Days 1, 15 (2 placebo injections only), 29 and every 28 (+/- 3) days thereafter.
 
 The median age of study participants was 61 years.
@@ -144,14 +144,14 @@ The majority of patients on study were White (74%), all patients had an ECOG PS 
 All patients had received prior systemic therapy and 75% of patients had received a previous chemotherapy regimen.
 Twenty-five percent of patients had received no prior therapy in the metastatic disease setting, 60% had visceral metastases, and 23% had bone only disease.
 
-The results from the investigator-assessed PFS from PALOMA-3 are summarized in Table 15 and Figure 9.
-Consistent results were observed across patient subgroups of disease site, sensitivity to prior hormonal therapy and menopausal status.
-The OS data were not mature at the time of the final PFS analysis (11% of patients had died).
-Patients will continue to be followed for the final analysis.
+The results from the investigator-assessed PFS and final OS data from PALOMA-3 are summarized in Table 15.
+The relevant Kaplan-Meier plots are shown in Figures 9 and 10 respectively.
+Consistent PFS results were observed across patient subgroups of disease site, sensitivity to prior hormonal therapy, and menopausal status.
+After a median follow-up time of 45 months, the final OS results were not statistically significant.
 
 Table 15: Efficacy Results in PALOMA-3 (Investigator Assessment, ITT Population)
 
-|  | Fulvestrant plus Palbociclib N=347 | Fulvestrant plus PlaceboN=174 |
+|  | Fulvestrant plus Palbociclib N=347 | Fulvestrant plus Placebo N=174 |
 | --- | --- | --- |
 | Progression-Free Survival for ITT |  |  |
 | Number of PFS Events (%) | 145 (41.8%) | 114 (65.5%) |
@@ -159,9 +159,17 @@ Table 15: Efficacy Results in PALOMA-3 (Investigator Assessment, ITT Population)
 | Hazard Ratio (95% CI) and p-value | 0.461 (0.360 to 0.591) p <0.0001 |  |
 | Objective Response for Patients with Measurable Disease | N=267 | N=138 |
 | Objective response rate1 (%, 95% CI) | 24.6 (19.6 to 30.2) | 10.9 (6.2 to 17.3) |
-| N=number of patients; CI=confidence interval; ITT=Intent-to-Treat.1. Response based on confirmed responses. |  |  |
+| Overall Survival for ITT population | N=347 | N=147 |
+| Number of OS events (%) | 201 (57.9) | 109 (62.6) |
+| Median OS (months) (95% CI) | 34.9 (28.8, 40.0) | 28.0 (23.6, 34.6) |
+| Hazard Ratio (95% CI) and p-value | 0.814 (0.644, 1.029), p=0.08572,3 |  |
+| N=number of patients; PFS=progression-free survival CI=confidence interval; ITT=Intent-to-Treat OS=overall survival.1. Responses are based on confirmed responses.2. Not statistically significant at the pre-specified 2-sided alpha level of 0.047.3. 2-sided p-value from the log-rank test stratified by the presence of visceral metastases and sensitivity to prior endocrine therapy per randomization. |  |  |
 
 Figure 9: Kaplan-Meier Plot of Progression-Free Survival (Investigator Assessment, ITT Population) ─ PALOMA-3
+
+Figure 10: Kaplan-Meier Plot of Overall Survival (ITT Population) ─ PALOMA-3
+
+FUL=Fulvestrant; PAL=palbociclib; PCB=placebo
 
 Fulvestrant 500 mg in Combination with Abemaciclib 150 mg (MONARCH 2)
 
@@ -177,7 +185,7 @@ Twenty percent (20%) of patients had de novo metastatic disease, 27% had bone on
 Twenty-five percent (25%) of patients had primary endocrine therapy resistance.
 Seventeen percent (17%) of patients were pre- or perimenopausal.
 
-The efficacy results from the MONARCH 2 study are summarized in Table 16 and Figure 10.
+The efficacy results from the MONARCH 2 study are summarized in Table 16 and Figure 11.
 Median PFS assessment based on a blinded independent radiologic review was consistent with the investigator assessment.
 Consistent results were observed across patient stratification subgroups of disease site and endocrine therapy resistance.
 At the time of primary analysis of PFS, overall survival data were not mature (20% of patients had died).
@@ -196,7 +204,7 @@ Table 16: Efficacy Results in MONARCH 2 (Investigator Assessment, Intent-to-Trea
 | 95% CI | 42.6, 53.6 | 15.1, 27.6 |
 | Abbreviations: CI = confidence interval. 1. Complete response + partial response. |  |  |
 
-Figure 10: Kaplan-Meier Curves of Progression-Free Survival: Fulvestrant Plus Abemaciclib versus Fulvestrant plus Placebo (MONARCH 2)
+Figure 11: Kaplan-Meier Curves of Progression-Free Survival: Fulvestrant Plus Abemaciclib versus Fulvestrant plus Placebo (MONARCH 2)
 
 Postmenopausal women with HR-positive, HER2-negative advanced or metastatic breast cancer for initial endocrine based therapy or after disease progression on endocrine therapy
 
@@ -217,7 +225,7 @@ Forty-three percent (43%) of patients had received chemotherapy in the adjuvant 
 Twenty-one percent (21%) of patients had bone only disease and 61% had visceral disease.
 Demographics and baseline disease characteristics were balanced and comparable between study arms.
 
-The efficacy results from MONALEESA-3 are summarized in Table 17 and Figure 11.
+The efficacy results from MONALEESA-3 are summarized in Table 17 and Figure 12.
 Consistent results were observed in stratification factor subgroups of disease site and prior endocrine treatment for advanced disease.
 At the time of the PFS analysis, 17% of patients had died, and overall survival data were immature.
 
@@ -234,4 +242,4 @@ Table 17: Efficacy Results – MONALEESA-3 (Investigator Assessment, Intent-to-T
 | Patients with measurable disease (95% CI) | 40.9 (35.9, 45.8) | 28.7 (22.1, 35.3) |
 | 1. p-value is obtained from the one-sided log-rank2. Based on confirmed responses |  |  |
 
-Figure 11: Kaplan-Meier Progression Free Survival Curves – MONALEESA-3 (Investigator assessment)
+Figure 12: Kaplan-Meier Progression Free Survival Curves – MONALEESA-3 (Investigator assessment)
