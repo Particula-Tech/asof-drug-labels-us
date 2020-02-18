@@ -12,5 +12,5 @@ The n-octanol/water partition coefficient of vigabatrin is about 0.011 (log P=-1
 Vigabatrin melts with decomposition in a 3-degree range within the temperature interval of 171°C to 176°C.
 The dissociation constants (pKa) of vigabatrin are 4 and 9.7 at room temperature (25°C).
 
-VIGADRONE for oral solution is available as white to off-white granular powder for oral administration.
+VIGADRONE powder for oral solution is available as white to off-white granular powder for oral administration.
 Each packet contains 500 mg of vigabatrin.

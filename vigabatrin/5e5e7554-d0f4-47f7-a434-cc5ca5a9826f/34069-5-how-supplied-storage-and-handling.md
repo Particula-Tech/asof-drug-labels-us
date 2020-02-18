@@ -2,8 +2,10 @@
 
 ## 16.1 How Supplied
 
-VIGADRONE® for oral solution, 500 mg packets contain a white to off-white granular powder.
+VIGADRONE® powder for oral solution, 500 mg packets contain a white to off-white granular powder.
 They are supplied in cartons of 50 packets (NDC 0245-0556-50).
+
+The oral syringes are provided separately by the pharmacy.
 
 ## 16.2 Storage and Handling
 
