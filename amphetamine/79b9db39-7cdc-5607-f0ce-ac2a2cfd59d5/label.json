@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA212582"
+  ],
+  "inn": "amphetamine",
+  "labeler": "DR. REDDY'S LABORATORIES INC",
+  "package_ndcs": [
+    "43598-897-01",
+    "43598-898-01"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "amphetamine sulfate tablets",
+      "name": "Amphetamine sulfate"
+    }
+  ],
+  "setid": "79b9db39-7cdc-5607-f0ce-ac2a2cfd59d5",
+  "source": "dailymed"
+}
