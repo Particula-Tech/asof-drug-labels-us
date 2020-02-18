@@ -1,0 +1,23 @@
+{
+  "application_numbers": [
+    "NDA208424"
+  ],
+  "inn": "nitroglycerin",
+  "labeler": "Allegis Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "28595-705-01",
+    "28595-705-12",
+    "28595-705-36",
+    "28595-705-96",
+    "28595-705-99"
+  ],
+  "products": [
+    {
+      "form": "POWDER",
+      "generic": "nitroglycerin",
+      "name": "GONITRO"
+    }
+  ],
+  "setid": "2b2e9b6b-c6f0-4360-8cf3-83e1654982c2",
+  "source": "dailymed"
+}
