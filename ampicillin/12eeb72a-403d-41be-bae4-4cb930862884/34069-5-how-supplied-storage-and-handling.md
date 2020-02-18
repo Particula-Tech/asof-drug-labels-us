@@ -31,4 +31,4 @@ For current full prescribing information, please visit www.pfizer.com.
 
 Rx only
 
-LAB-0018-18.0 Revised June 2018
+LAB-0018-19.0 Revised October 2019
