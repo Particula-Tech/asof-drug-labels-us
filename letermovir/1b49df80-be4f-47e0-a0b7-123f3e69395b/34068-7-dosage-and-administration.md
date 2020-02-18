@@ -9,6 +9,7 @@ PREVYMIS™ Tablets
 
 PREVYMIS™ Injection
 
+- PREVYMIS injection must be administered through a sterile 0.2 micron or 0.22 micron polyethersulfone (PES) in-line filter.
 - Administer by intravenous infusion via a peripheral catheter or central venous line at a constant rate over 1 hour.
 - Do not administer as an intravenous bolus injection.
 
@@ -58,8 +59,11 @@ Preparation and Administration Instructions
 
 - PREVYMIS must be diluted prior to intravenous (IV) use.
 - Inspect vial contents for discoloration and particulate matter prior to dilution.
-  PREVYMIS injection is a clear colorless solution.
-  Do not use the vial if the solution is discolored or contains visible particles.
+  PREVYMIS injection is a clear colorless solution and may contain a few product-related small translucent or white particles.
+- Do not use the vial if the solution is cloudy, discolored, or contains matter other than a few small translucent or white particles.
+- Do not use PREVYMIS injection with IV bags and infusion set materials containing the plasticizer diethylhexyl phthalate (DEHP).
+  Use only with IV bags and infusion set materials that are DEHP-free.
+  Materials that are phthalate-free are also DEHP-free.
 - Do not shake PREVYMIS vial.
 - Add one single-dose vial of PREVYMIS injection into a 250 mL pre-filled IV bag containing either 0.9% Sodium Chloride Injection, USP or 5% Dextrose Injection, USP and mix bag gently.
   Do not shake.
@@ -67,12 +71,14 @@ Preparation and Administration Instructions
 - Use compatible IV bags and infusion set materials.
   PREVYMIS injection is compatible with the following IV bags and infusion set materials.
   PREVYMIS injection is not recommended with any IV bags or infusion set materials not listed below (note that PREVYMIS injection is not recommended for use with polyurethane-containing IV administration set tubing).
-  IV Bags Materials: Polyvinyl chloride (PVC), ethylene vinyl acetate (EVA) and polyolefin (polypropylene and polyethylene) Infusion Sets Materials: PVC, polyethylene (PE), polybutadiene (PBD), silicone rubber (SR), styrene–butadiene copolymer (SBC), styrene-butadiene-styrene copolymer (SBS), polystyrene (PS) Plasticizers: Diethylhexyl phthalate (DEHP), tris (2-ethylhexyl) trimellitate (TOTM), benzyl butyl phthalate (BBP) Catheters: Radiopaque polyurethane
+  IV Bags Materials: Polyvinyl chloride (PVC), ethylene vinyl acetate (EVA) and polyolefin (polypropylene and polyethylene) Infusion Sets Materials: PVC, polyethylene (PE), polybutadiene (PBD), silicone rubber (SR), styrene–butadiene copolymer (SBC), styrene-butadiene-styrene copolymer (SBS), polystyrene (PS) Plasticizers:Tris (2-ethylhexyl) trimellitate (TOTM), benzyl butyl phthalate (BBP)Catheters: Radiopaque polyurethane
 - Once diluted, the solution of PREVYMIS is clear, and ranges from colorless to yellow.
   Variations of color within this range do not affect the quality of the product.
-  Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration, whenever solution and container permit.
-  Discard if discoloration or visible particles are observed.
+- Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration.
+- Discard if the diluted solution is cloudy, discolored, or contains matter other than a few small translucent or white particles.
 - The diluted solution is stable for up to 24 hours at room temperature or up to 48 hours under refrigeration at 2°C to 8°C (36°F to 46°F) (this time includes storage of the diluted solution in the intravenous bag through the duration of infusion).
+- The diluted solution must be administered through a sterile 0.2 micron or 0.22 micron polyethersulfone (PES) in-line filter.
+- Do not administer through a filter other than a sterile 0.2 micron or 0.22 micron PES in-line filter.
 - Administer the entire contents of the intravenous bag by intravenous infusion via a peripheral catheter or central venous line at a constant rate over 1 hour [see Dosage and Administration (2.1)].
 
 ## 2.8 Compatible Drug Products Used for Intravenous Administration
@@ -92,8 +98,12 @@ List of Compatible Drug Products when PREVYMIS and Drug Products are Prepared in
 - Amphotericin B (lipid complex)Amphotericin B (lipid complex) is compatible with PREVYMIS.
   However, Amphotericin B (liposomal) is incompatible [see Dosage and Administration (2.9)]., anidulafungin, cefazolin sodium, ceftaroline, ceftriaxone sodium, doripenem, famotidine, folic acid, ganciclovir sodium, hydrocortisone sodium succinate, morphine sulfate, norepinephrine bitartrate, pantoprazole sodium, potassium chloride, potassium phosphate, tacrolimus, telavancin, tigecycline.
 
-## 2.9 Incompatible Drug Products for Intravenous Administration
+## 2.9 Incompatible Drug Products and Other Materials Used for Intravenous Administration
 
 Incompatible Drug Products
 
 PREVYMIS injection is physically incompatible with amiodarone hydrochloride, amphotericin B (liposomal), aztreonam, cefepime hydrochloride, ciprofloxacin, cyclosporine, diltiazem hydrochloride, filgrastim, gentamicin sulfate, levofloxacin, linezolid, lorazepam, midazolam HCl, mycophenolate mofetil hydrochloride, ondansetron, palonosetron.
+
+Incompatible IV Bags and Infusion Set Materials
+
+PREVYMIS concentrate for solution for infusion is incompatible with diethylhexyl phthalate (DEHP) plasticizers and polyurethane-containing IV administration set tubing.

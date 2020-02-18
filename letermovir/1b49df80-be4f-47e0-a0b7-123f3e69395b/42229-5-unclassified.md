@@ -4,9 +4,9 @@ For patent information: www.merck.com/product/patent/home.html
 
 The trademarks depicted herein are owned by their respective companies.
 
-Copyright © 2017-2019 Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. All rights reserved.
+Copyright © 2017-2020 Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. All rights reserved.
 
-uspi-mk8228-mf-1912r003
+uspi-mk8228-mf-2001r004
 
 Distributed by: Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO.,INC., Whitehouse Station, NJ 08889, USA
 

@@ -15,7 +15,7 @@ Store PREVYMIS tablets at 20°C to 25°C (68°F to 77°F); excursions permitted 
 
 Injection:
 
-PREVYMIS is supplied as a sterile, clear solution for intravenous use of 240 mg (12 mL per vial) or 480 mg (24 mL per vial).
+PREVYMIS is supplied as a sterile, clear solution for intravenous use of 240 mg (12 mL per vial) or 480 mg (24 mL per vial) that may contain a few product-related small translucent or white particles.
 The final solutions for infusion are obtained by dilution with 0.9% Sodium Chloride Injection, USP or 5% Dextrose Injection, USP.
 
 The single dose vials are supplied in cartons that contain a 240 mg single-dose vial (NDC 0006-5003-01) or a 480 mg single-dose vial (NDC 0006-5004-01).
