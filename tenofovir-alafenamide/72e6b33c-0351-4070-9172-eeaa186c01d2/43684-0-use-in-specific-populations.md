@@ -9,14 +9,20 @@ Healthcare providers are encouraged to register patients by calling the Antiretr
 
 Risk Summary
 
-There are no human data on the use of VEMLIDY in pregnant women to inform a drug-associated risk of adverse fetal developmental outcome.
-In animal studies, no adverse developmental effects were observed when tenofovir alafenamide was administered during the period of organogenesis at exposure equal to or 51 times (rats and rabbits, respectively) the tenofovir alafenamide exposure at the recommended daily dose of VEMLIDY [see Data].
-No adverse effects were observed in the offspring when TDF (tenofovir disoproxil fumarate) was administered through lactation at tenofovir exposures of approximately 12 times the exposure at the recommended daily dosage of VEMLIDY.
+Available data from the APR show no significant difference in the overall risk of birth defects for tenofovir alafenamide (TAF) compared with the background rate for major birth defects of 2.7% in the U.S. reference population of the Metropolitan Atlanta Congenital Defects Program (MACDP) (see Data).
+The rate of miscarriage is not reported in the APR.
+The estimated background rate of miscarriage in clinically recognized pregnancies in the U.S. general population is 15% to 20%.
 
-The background risk of major birth defects and miscarriage for the indicated population is unknown.
-In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2–4% and 15–20%, respectively.
+In animal studies, no adverse developmental effects were observed when tenofovir alafenamide was administered during the period of organogenesis at exposure equal to or 51 times (rats and rabbits, respectively) the tenofovir alafenamide exposure at the recommended daily dose of VEMLIDY (see Data).
+No adverse effects were observed in the offspring when TDF was administered through lactation at tenofovir exposures of approximately 12 times the exposure at the recommended daily dosage of VEMLIDY.
 
 Data
+
+Human Data
+
+Based on prospective reports to the APR of exposures to TAF-containing regimens during pregnancy resulting in live births (including over 200 exposed in the first trimester and over 80 exposed in the second/third trimester), the prevalence of birth defects in live births was 5.2% (95% CI: 2.7% to 8.8%) and 1.2% (95% CI: 0% to 6.5%) following first and second/third trimester exposure, respectively, to TAF-containing regimens.
+Methodologic limitations of the APR include the use of MACDP as the external comparator group.
+The MACDP population is not disease-specific, evaluates women and infants from a limited geographic area, and does not include outcomes for births that occurred at <20 weeks gestation.
 
 Animal Data
 
@@ -35,7 +41,7 @@ Doses up to 600 mg/kg/day were administered through lactation; no adverse effect
 Risk Summary
 
 It is not known whether VEMLIDY and its metabolites are present in human breast milk, affect human milk production, or have effects on the breastfed infant.
-Tenofovir has been shown to be present in the milk of lactating rats and rhesus monkeys after administration of TDF [see Data].
+Tenofovir has been shown to be present in the milk of lactating rats and rhesus monkeys after administration of TDF (see Data).
 It is not known if tenofovir alafenamide can be present in animal milk.
 The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for VEMLIDY and any potential adverse effects on the breastfed infant from VEMLIDY or from the underlying maternal condition.
 
@@ -44,7 +50,7 @@ Data
 Animal Data
 
 Studies in rats and monkeys have demonstrated that tenofovir is secreted in milk.
-Tenofovir was excreted into the milk of lactating rats following oral administration of TDF (up to 600 mg/kg/day) at up to approximately 24% of the median plasma concentration in the highest dosed animals at lactation day 11 [see Data (8.1)].
+Tenofovir was excreted into the milk of lactating rats following oral administration of TDF (up to 600 mg/kg/day) at up to approximately 24% of the median plasma concentration in the highest dosed animals at lactation day 11 (see Data 8.1).
 Tenofovir was excreted into the milk of lactating monkeys following a single subcutaneous (30 mg/kg) dose of tenofovir at concentrations up to approximately 4% of plasma concentration, resulting in exposure (AUC) of approximately 20% of plasma exposure.
 
 ## 8.4 Pediatric Use
@@ -54,6 +60,8 @@ Safety and effectiveness of VEMLIDY in pediatric patients less than 18 years of 
 ## 8.5 Geriatric Use
 
 Clinical trials of VEMLIDY did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
+Other reported clinical experience has not identified differences in responses between the elderly and younger patients.
+In general, treatment of an elderly patient should be done with caution; the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy should be considered.
 
 ## 8.6 Renal Impairment
 
@@ -68,4 +76,4 @@ VEMLIDY is not recommended in patients with ESRD (estimated creatinine clearance
 
 ## 8.7 Hepatic Impairment
 
-No dosage adjustment of VEMLIDY is required in patients with mild hepatic impairment (Child-Pugh A). The safety and efficacy of VEMLIDY in patients with decompensated cirrhosis (Child-Pugh B or C) have not been established; therefore VEMLIDY is not recommended in patients with decompensated (Child-Pugh B or C) hepatic impairment [see Dosage and Administration (2.4) and Clinical Pharmacology (12.3)].
+No dosage adjustment of VEMLIDY is required in patients with mild hepatic impairment (Child-Pugh A). The safety and efficacy of VEMLIDY in patients with decompensated cirrhosis (Child-Pugh B or C) have not been established; therefore, VEMLIDY is not recommended in patients with decompensated (Child-Pugh B or C) hepatic impairment [see Dosage and Administration (2.4) and Clinical Pharmacology (12.3)].

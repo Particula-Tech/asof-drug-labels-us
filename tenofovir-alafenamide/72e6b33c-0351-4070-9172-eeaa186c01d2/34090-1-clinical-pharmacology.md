@@ -37,7 +37,7 @@ Table 5 Pharmacokinetic Properties of VEMLIDY
 
 Table 6 Multiple Dose PK Parameters of Tenofovir Alafenamide and its Metabolite Tenofovir Following Oral Administration in Adults with Chronic Hepatitis B
 
-| Parameter Mean (CV%) | Tenofovir AlafenamideFrom Intensive PK analyses in Study 108 and Study 110; N = 8. | Tenofovir |
+| Parameter Mean (CV%) | Tenofovir AlafenamideFrom Intensive PK analyses in Trial 108 and Trial 110; N = 8. | Tenofovir |
 | --- | --- | --- |
 | Cmax (microgram per mL) | 0.27 (63.3) | 0.03 (24.6) |
 | AUCtau (microgram∙hour per mL) | 0.27 (47.8) | 0.40 (35.2) |
@@ -48,8 +48,8 @@ Specific Populations
 
 Geriatric Patients, Race, and Gender
 
-No clinically relevant differences in tenofovir alafenamide or tenofovir pharmacokinetics due to race or gender have been identified.
-Limited data in subjects aged 65 and over suggest a lack of clinically relevant differences in tenofovir alafenamide or tenofovir pharmacokinetics [see Use in Specific Populations (8.5)].
+Limited data in subjects aged 65 years and over suggest a lack of clinically relevant differences in tenofovir alafenamide or tenofovir pharmacokinetics.
+No clinically relevant differences in tenofovir alafenamide or tenofovir pharmacokinetics due to race or gender have been identified [see Use in Specific Populations (8.5)].
 
 Patients with Renal Impairment
 
@@ -133,8 +133,11 @@ In cell culture combination antiviral activity studies of tenofovir with the HBV
 
 Resistance in Clinical Trials
 
-In a pooled analysis of treatment-naïve and treatment-experienced subjects receiving VEMLIDY in Studies 108 and 110, genotypic resistance analysis was performed on paired baseline and on-treatment HBV isolates for subjects who either experienced virologic breakthrough (2 consecutive visits with HBV DNA greater than or equal to 69 IU/mL [400 copies/mL] after having been less than 69 IU/mL, or 1.0-log10 or greater increase in HBV DNA from nadir) through Week 48, or had HBV DNA greater than or equal to 69 IU/mL at early discontinuation at or after Week 24.
-Treatment-emergent amino acid substitutions in the HBV reverse transcriptase domain, all occurring at polymorphic positions, were observed in some HBV isolates evaluated (5/20); however, no specific substitutions occurred at a sufficient frequency to be associated with resistance to VEMLIDY.
+Genotypic resistance analysis was performed on paired baseline and on-treatment HBV isolates for subjects who either experienced virologic breakthrough (2 consecutive visits with HBV DNA greater than or equal to 69 IU/mL [400 copies/mL] after having been less than 69 IU/mL, or 1.0-log10 or greater increase in HBV DNA from nadir) through Week 48, or had HBV DNA greater than or equal to 69 IU/mL at early discontinuation at or after Week 24.
+
+In a pooled analysis of treatment-naïve and treatment-experienced subjects receiving VEMLIDY in Trials 108 and 110 [see Clinical Studies (14.2)], treatment-emergent amino acid substitutions in the HBV reverse transcriptase domain, all occurring at polymorphic positions, were observed in some HBV isolates evaluated (5/20); however, no specific substitutions occurred at a sufficient frequency to be associated with resistance to VEMLIDY.
+
+In virologically suppressed subjects receiving VEMLIDY in Trial 4018 [see Clinical Studies (14.3)], no subjects qualified for resistance analysis through 48 weeks of VEMLIDY treatment.
 
 Cross-Resistance
 

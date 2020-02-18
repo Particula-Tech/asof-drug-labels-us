@@ -24,5 +24,5 @@ Discontinue VEMLIDY in patients who develop clinically significant decreases in 
 
 ## 5.4 Lactic Acidosis/Severe Hepatomegaly with Steatosis
 
-Lactic acidosis and severe hepatomegaly with steatosis, including fatal cases, have been reported with the use of nucleoside analogs, including tenofovir DF, another prodrug of tenofovir, alone or in combination with other antiretrovirals.
+Lactic acidosis and severe hepatomegaly with steatosis, including fatal cases, have been reported with the use of nucleoside analogs, including tenofovir disoproxil fumarate (TDF), another prodrug of tenofovir, alone or in combination with other antiretrovirals.
 Treatment with VEMLIDY should be suspended in any patient who develops clinical or laboratory findings suggestive of lactic acidosis or pronounced hepatotoxicity (which may include hepatomegaly and steatosis even in the absence of marked transaminase elevations).
