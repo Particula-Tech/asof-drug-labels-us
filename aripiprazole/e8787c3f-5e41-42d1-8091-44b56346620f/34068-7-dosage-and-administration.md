@@ -13,7 +13,7 @@ Prior to initial patient use of the ABILIFY MYCITE System, facilitate use of the
 Before using any component of the ABILIFY MYCITE System, instruct patients to:
 
 - Download the MYCITE APP and follow all the Instructions for Use.
-- Ensure that the app is compatible with their specific smartphone
+- Ensure that the app is compatible with their specific smartphone.
 
 Although most ingestions will be detected within 30 minutes, it may take up to two hours for the smartphone app and web portal to detect the ingestion of ABILIFY MYCITE; in some cases, the ingestion of the tablet may not be detected.
 If the tablet is not detected after ingestion, do not repeat the dose [see Adverse Reactions (6)].
@@ -67,7 +67,7 @@ When the co-administered drug is withdrawn from the combination therapy, ABILIFY
 When the co-administered CYP3A4 inducer is withdrawn, ABILIFY MYCITE dosage should be reduced to the original level over 1 to 2 weeks.
 Patients who may be receiving a combination of strong, moderate, and weak inhibitors of CYP3A4 and CYP2D6 (e.g., a strong CYP3A4 inhibitor and a moderate CYP2D6 inhibitor or a moderate CYP3A4 inhibitor with a moderate CYP2D6 inhibitor), the dosing may be reduced to one-quarter (25%) of the usual dose initially and then adjusted based on clinical response.
 
-Table 1: Dose Adjustments for ABILIFY MYCITE in Patients who are known CYP2D6 Poor Metabolizers and Patients Taking Concomitant CYP2D6 Inhibitors, 3A4 Inhibitors, and/or CYP3A4 Inducers
+Table 1: Dose Adjustments for ABILIFY MYCITE in Patients Who Are Known CYP2D6 Poor Metabolizers and Patients Taking Concomitant CYP2D6 Inhibitors, 3A4 Inhibitors, and/or CYP3A4 Inducers
 
 | Factors | Dosage Adjustments for ABILIFY MYCITE |
 | --- | --- |

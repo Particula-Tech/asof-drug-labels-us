@@ -21,7 +21,7 @@ The following adverse reactions are discussed in more detail in other sections o
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-The safety of ABILIFY MYCITE for the treatment of adults with schizophrenia, treatment of adults with manic and mixed episodes associated with bipolar I disorder, and adjunctive treatment of adults with major depressive disorder (MDD) has been established and is based on trials of aripiprazole including 13,543 adult patients who participated in multiple-dose, clinical trials in schizophrenia, bipolar disorder, major depressive disorder, and other disorders, and who had approximately 7619 patient-years of exposure to oral aripiprazole.
+The safety of ABILIFY MYCITE for the treatment of adults with schizophrenia, treatment of adults with manic and mixed episodes associated with bipolar I disorder, and adjunctive treatment of adults with major depressive disorder (MDD) has been established and is based on trials of aripiprazole including 13,543 adult patients who participated in multiple-dose clinical trials in schizophrenia, bipolar disorder, major depressive disorder, and other disorders, and who had approximately 7619 patient-years of exposure to oral aripiprazole.
 A total of 3390 patients were treated with oral aripiprazole for at least 180 days and 1933 patients treated with oral aripiprazole had at least 1 year of exposure.
 
 The conditions and duration of treatment with aripiprazole (monotherapy and adjunctive therapy with antidepressants or mood stabilizers) included (in overlapping categories) double-blind, comparative and noncomparative open-label studies, inpatient and outpatient studies, fixed- and flexible-dose studies, and short- and longer-term exposure.
@@ -30,7 +30,7 @@ The most common adverse reactions of aripiprazole in adult patients in clinical 
 
 Adverse Reactions in Adult Patients with Schizophrenia
 
-The following findings are based on a pool of five placebo-controlled trials (four 4‑week and one 6‑week) in which oral aripiprazole was administered in doses ranging from 2 to 30 mg/day.
+The following findings are based on a pool of five placebo-controlled trials (four 4-week and one 6-week) in which oral aripiprazole was administered in doses ranging from 2 to 30 mg/day.
 
 The commonly observed adverse reaction associated with the use of aripiprazole tablets in patients with schizophrenia (incidence of 5% or greater and aripiprazole tablets incidence at least twice that for placebo) was akathisia (aripiprazole tablets 8%; placebo 4%).
 
@@ -38,7 +38,7 @@ Adverse Reactions in Adult Patients with Bipolar Mania
 
 Adult Patients Who Received Monotherapy
 
-The following findings are based on a pool of 3‑week, placebo-controlled, bipolar mania trials in which oral aripiprazole was administered at doses of 15 or 30 mg/day.
+The following findings are based on a pool of 3-week, placebo-controlled bipolar mania trials in which oral aripiprazole was administered at doses of 15 or 30 mg/day.
 
 Commonly observed adverse reactions associated with the use of aripiprazole tablets in patients with bipolar mania (incidence of 5% or greater and aripiprazole tablets incidence at least twice that for placebo) are shown in Table 9.
 
@@ -59,7 +59,7 @@ Table 10: Adverse Reactions in Short-Term, Placebo-Controlled Trials in Adult Pa
 
 | System Organ Class Preferred Term | Aripiprazole tablets (n=1843) | Placebo (n=1166) |
 | --- | --- | --- |
-|  | Percentage of Patients Reporting Reaction Adverse reactions reported by at least 2% of patients treated with oral aripiprazole, except adverse reactions which had an incidence equal to or less than placebo. |  |
+|  | Percentage of Patients Reporting Reaction Adverse reactions reported by at least 2% of patients treated with oral aripiprazole, except adverse reactions which had an incidence equal to or less than placebo |  |
 | Eye Disorders |  |  |
 | Blurred Vision | 3 | 1 |
 | Gastrointestinal Disorders |  |  |
@@ -113,7 +113,7 @@ Table 11: Adverse Reactions in a Short-Term, Placebo-Controlled Trial of Adjunct
 
 | System Organ Class Preferred Term | Aripiprazole tablets + Li or Val Lithium or Valproate (n=253) | Placebo + Li or Val (n=130) |
 | --- | --- | --- |
-|  | Percentage of Patients Reporting Reaction Adverse reactions reported by at least 2% of patients treated with oral aripiprazole, except adverse reactions which had an incidence equal to or less than placebo. |  |
+|  | Percentage of Patients Reporting Reaction Adverse reactions reported by at least 2% of patients treated with oral aripiprazole, except adverse reactions which had an incidence equal to or less than placebo |  |
 | Gastrointestinal Disorders |  |  |
 | Nausea | 8 | 5 |
 | Vomiting | 4 | 0 |
@@ -148,7 +148,7 @@ Table 12: Adverse Reactions in Short-Term, Placebo-Controlled Adjunctive Trials 
 
 | System Organ Class Preferred Term | Aripiprazole tablets + ADT Antidepressant Therapy (n=371) | Placebo + ADT (n=366) |
 | --- | --- | --- |
-|  | Percentage of Patients Reporting Reaction Adverse reactions reported by at least 2% of patients treated with adjunctive aripiprazole tablets, except adverse reactions which had an incidence equal to or less than placebo. |  |
+|  | Percentage of Patients Reporting Reaction Adverse reactions reported by at least 2% of patients treated with adjunctive aripiprazole tablets, except adverse reactions which had an incidence equal to or less than placebo |  |
 | Eye Disorders |  |  |
 | Blurred Vision | 6 | 1 |
 | Gastrointestinal Disorders |  |  |
@@ -191,12 +191,12 @@ In short-term, placebo-controlled trials in schizophrenia in adults, the inciden
 Objectively collected data from those trials was collected on the Simpson Angus Rating Scale (for EPS), the Barnes Akathisia Scale (for akathisia), and the Assessments of Involuntary Movement Scales (for dyskinesias).
 In the adult schizophrenia trials, the objectively collected data did not show a difference between aripiprazole tablets and placebo, with the exception of the Barnes Akathisia Scale (aripiprazole tablets, 0.08; placebo, –0.05).
 
-Similarly, in a long-term (26‑week), placebo-controlled trial of schizophrenia in adults, objectively collected data on the Simpson Angus Rating Scale (for EPS), the Barnes Akathisia Scale (for akathisia), and the Assessments of Involuntary Movement Scales (for dyskinesias) did not show a difference between aripiprazole tablets and placebo.
+Similarly, in a long-term (26-week), placebo-controlled trial of schizophrenia in adults, objectively collected data on the Simpson Angus Rating Scale (for EPS), the Barnes Akathisia Scale (for akathisia), and the Assessments of Involuntary Movement Scales (for dyskinesias) did not show a difference between aripiprazole tablets and placebo.
 
 Bipolar Mania
 
 In the short-term, placebo-controlled trials in bipolar mania in adults, the incidence of reported EPS-related events, excluding events related to akathisia, for monotherapy aripiprazole-treated patients was 16% vs. 8% for placebo and the incidence of akathisia-related events for monotherapy aripiprazole-treated patients was 13% vs. 4% for placebo.
-In the 6‑week, placebo-controlled trial in bipolar mania for adjunctive therapy with lithium or valproate, the incidence of reported EPS-related events, excluding events related to akathisia for adjunctive aripiprazole-treated patients was 15% vs. 8% for adjunctive placebo and the incidence of akathisia-related events for adjunctive aripiprazole-treated patients was 19% vs. 5% for adjunctive placebo.
+In the 6-week placebo-controlled trial in bipolar mania for adjunctive therapy with lithium or valproate, the incidence of reported EPS-related events, excluding events related to akathisia for adjunctive aripiprazole-treated patients was 15% vs. 8% for adjunctive placebo and the incidence of akathisia-related events for adjunctive aripiprazole-treated patients was 19% vs. 5% for adjunctive placebo.
 
 In the adult bipolar mania trials with monotherapy aripiprazole tablets, the Simpson Angus Rating Scale and the Barnes Akathisia Scale showed a significant difference between aripiprazole tablets and placebo (aripiprazole tablets, 0.50; placebo, –0.01 and aripiprazole tablets, 0.21; placebo, –0.05).
 Changes in the Assessments of Involuntary Movement Scales were similar for the aripiprazole tablets and placebo groups.
@@ -224,13 +224,13 @@ In clinical studies, sixty-one patients (12.4%) experienced skin rashes localize
 
 Adverse Reactions in Long-Term, Double-Blind, Placebo-Controlled Trials
 
-The adverse reactions reported in a 26‑week, double-blind trial comparing oral aripiprazole and placebo in patients with schizophrenia were generally consistent with those reported in the short-term, placebo-controlled trials, except for a higher incidence of tremor [8% (12/153) for aripiprazole tablets vs. 2% (3/153) for placebo].
+The adverse reactions reported in a 26-week, double-blind trial comparing oral aripiprazole and placebo in patients with schizophrenia were generally consistent with those reported in the short-term, placebo-controlled trials, except for a higher incidence of tremor [8% (12/153) for aripiprazole tablets vs. 2% (3/153) for placebo].
 In this study, the majority of the cases of tremor were of mild intensity (8/12 mild and 4/12 moderate), occurred early in therapy (9/12 ≤49 days), and were of limited duration (7/12 ≤10 days).
 Tremor led to discontinuation (<1%) of aripiprazole tablets.
-In addition, in a long-term (52 week), active-controlled study, the incidence of tremor was 5% (40/859) for aripiprazole tablets.
+In addition, in a long-term (52 weeks), active-controlled study, the incidence of tremor was 5% (40/859) for aripiprazole tablets.
 A similar profile was observed in a long-term monotherapy study and a long-term adjunctive study with lithium and valproate in bipolar disorder.
 
-Other Adverse Reactions Observed During the Premarketing Evaluation of Aripiprazole
+Other Adverse Reactions Observed during the Premarketing Evaluation of Aripiprazole
 
 Other adverse reactions associated with aripiprazole are presented below.
 The listing does not include reactions: 1) already listed in previous tables or elsewhere in labeling, 2) for which a drug cause was remote, 3) which were so general as to be uninformative, 4) which were not considered to have significant clinical implications, or 5) which occurred at a rate equal to or less than placebo.
@@ -244,11 +244,11 @@ Reactions are categorized by body system according to the following definitions:
 - General Disorders and Administration Site Conditions: frequent - asthenia; infrequent – peripheral edema, chest pain; rare – face edema
 - Hepatobiliary Disorders: rare - hepatitis, jaundice
 - Immune System Disorders: rare- hypersensitivity
-- Injury, Poisoning, and Procedural Complications: infrequent – fall; rare – heat stroke
-- Investigations: frequent - weight decreased, infrequent - hepatic enzyme increased, blood glucose increased, blood lactate dehydrogenase increased, gamma glutamyl transferase increased; rare – blood prolactin increased, blood urea increased, blood creatinine increased, blood bilirubin increased, electrocardiogram QT prolonged, glycosylated hemoglobin increased
+- Injury, Poisoning, and Procedural Complications: infrequent – fall; rare – heatstroke
+- Investigations: frequent - weight decreased; infrequent - hepatic enzyme increased, blood glucose increased, blood lactate dehydrogenase increased, gamma glutamyl transferase increased; rare – blood prolactin increased, blood urea increased, blood creatinine increased, blood bilirubin increased, electrocardiogram QT prolonged, glycosylated hemoglobin increased
 - Metabolism and Nutrition Disorders: frequent – anorexia; rare - hypokalemia, hyponatremia, hypoglycemia
 - Musculoskeletal and Connective Tissue Disorders: infrequent - muscular weakness, muscle tightness; rare – rhabdomyolysis, mobility decreased
-- Nervous System Disorders: infrequent - parkinsonism, memory impairment, cogwheel rigidity, hypokinesia, bradykinesia; rare – akinesia, myoclonus, coordination abnormal, speech disorder, Grand Mal convulsion; <1/10,000 patients - choreoathetosis
+- Nervous System Disorders: infrequent - parkinsonism, memory impairment, cogwheel rigidity, hypokinesia, bradykinesia; rare – akinesia, myoclonus, coordination abnormal, speech disorder, grand mal convulsion; <1/10,000 patients - choreoathetosis
 - Psychiatric Disorders: infrequent – aggression, loss of libido, delirium; rare – libido increased, anorgasmia, tic, homicidal ideation, catatonia, sleep walking
 - Renal and Urinary Disorders: rare - urinary retention, nocturia
 - Reproductive System and Breast Disorders: infrequent - erectile dysfunction; rare – gynaecomastia, menstruation irregular, amenorrhea, breast pain, priapism
@@ -259,4 +259,4 @@ Reactions are categorized by body system according to the following definitions:
 ## 6.2 Postmarketing Experience
 
 The following adverse reactions have been identified during post-approval use of aripiprazole.
-Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure: occurrences of allergic reaction (anaphylactic reaction, angioedema, laryngospasm, pruritus/urticaria, or oropharyngeal spasm), pathological gambling, hiccups and blood glucose fluctuation.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure: occurrences of allergic reaction (anaphylactic reaction, angioedema, laryngospasm, pruritus/urticaria, or oropharyngeal spasm), pathological gambling, hiccups, blood glucose fluctuation, oculogyric crisis and Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS).

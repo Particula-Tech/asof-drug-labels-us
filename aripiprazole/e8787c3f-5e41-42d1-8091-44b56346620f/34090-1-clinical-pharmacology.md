@@ -2,7 +2,7 @@
 
 ## 12.1 Mechanism of Action
 
-The mechanism of action of aripiprazole in the treatment of schizophrenia, bipolar 1 disorder, or adjunctive treatment of major depressive disorder is unknown.
+The mechanism of action of aripiprazole in the treatment of schizophrenia, bipolar I disorder, or adjunctive treatment of major depressive disorder is unknown.
 However, the efficacy of aripiprazole could be mediated through a combination of partial agonist activity at D 2 and 5-HT 1A receptors and antagonist activity at 5-HT 2A receptors.
 
 ## 12.2 Pharmacodynamics
@@ -25,7 +25,7 @@ Absorption
 
 Aripiprazole is well absorbed after administration of the tablet, with peak plasma concentrations occurring within 3 hours to 5 hours; the absolute oral bioavailability of the tablet formulation is 87%.
 ABILIFY MYCITE can be administered with or without food.
-Administration of a 15 mg aripiprazole tablet with a standard high-fat meal did not significantly affect the Cmax or AUC of aripiprazole or its active metabolite, dehydro-aripiprazole, but delayed Tmax by 3 hours for aripiprazole and 12 hours for dehydro-aripiprazole.
+Administration of a 15 mg aripiprazole tablet with a standard high-fat meal did not significantly affect the C max or AUC of aripiprazole or its active metabolite, dehydro-aripiprazole, but delayed T max by 3 hours for aripiprazole and 12 hours for dehydro-aripiprazole.
 
 Distribution
 
@@ -50,8 +50,8 @@ Less than 1% of unchanged aripiprazole was excreted in the urine and approximate
 Drug Interaction Studies
 
 Effects of other drugs on the exposures of aripiprazole and dehydro-aripiprazole are summarized in Figure 1 and Figure 2, respectively.
-Based on simulation, a 4.5-fold increase in mean Cmax and AUC values at steady-state is expected when extensive metabolizers of CYP2D6 are administered with both strong CYP2D6 and CYP3A4 inhibitors.
-A 3-fold increase in mean Cmax and AUC values at steady-state is expected in poor metabolizers of CYP2D6 administered with strong CYP3A4 inhibitors.
+Based on simulation, a 4.5-fold increase in mean C max and AUC values at steady-state is expected when extensive metabolizers of CYP2D6 are administered with both strong CYP2D6 and CYP3A4 inhibitors.
+A 3-fold increase in mean C max and AUC values at steady-state is expected in poor metabolizers of CYP2D6 administered with strong CYP3A4 inhibitors.
 
 Figure 1: The Effects of Other Drugs on Aripiprazole Pharmacokinetics
 

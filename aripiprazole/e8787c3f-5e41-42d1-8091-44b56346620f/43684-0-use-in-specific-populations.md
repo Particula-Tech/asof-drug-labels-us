@@ -18,7 +18,7 @@ Consider the benefits and risks of ABILIFY MYCITE and possible risks to the fetu
 Advise pregnant women of potential fetal risk.
 
 The background risk of major birth defects and miscarriage for the indicated population are unknown.
-In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2-4% and 15-20%, respectively.
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively.
 
 Clinical Considerations
 
@@ -39,7 +39,7 @@ Pregnant rats were treated with oral doses of 3, 10, and 30 mg/kg/day (1, 3, and
 Gestation was slightly prolonged at 30 mg/kg/day.
 Treatment at the high dose of 30 mg/kg/day caused a slight delay in fetal development (decreased fetal weight), undescended testes, and delayed skeletal ossification (also seen at 10 mg/kg/day).
 There were no adverse effects on embryofetal or pup survival.
-Delivered offspring had decreased body weights (10 and 30 mg/kg/day), and increased incidences of hepatodiaphragmatic nodules and diaphragmatic hernia at 30 mg/kg (the other dose groups were not examined for these findings).
+Delivered offspring had decreased body weights (10 and 30 mg/kg/day) and increased incidences of hepatodiaphragmatic nodules and diaphragmatic hernia at 30 mg/kg (the other dose groups were not examined for these findings).
 Postnatally, delayed vaginal opening was seen at 10 and 30 mg/kg/day and impaired reproductive performance (decreased fertility rate, corpora lutea, implants, live fetuses, and increased post-implantation loss, likely mediated through effects on female offspring) was seen at 30 mg/kg/day.
 Some maternal toxicity was seen at 30 mg/kg/day however, there was no evidence to suggest that these developmental effects were secondary to maternal toxicity.
 
@@ -51,7 +51,7 @@ At the high dose of 100 mg/kg/day decreased maternal food consumption, and incre
 In pregnant rabbits receiving aripiprazole injection intravenously (3, 10, and 30 mg/kg/day) during the period of organogenesis, the highest dose, which caused pronounced maternal toxicity, resulted in decreased fetal weight, increased fetal abnormalities (primarily skeletal), and decreased fetal skeletal ossification.
 The fetal no-effect dose was 10 mg/kg/day, which is 5 times the human exposure at the MRHD based on AUC and is 6 times the MRHD based on mg/m 2.
 
-In a study in which rats were treated peri- and post-natally with oral doses of 3, 10, and 30 mg/kg/day (1, 3, and 10 times the MRHD on a mg/m 2 basis) of aripiprazole from gestation day 17 through day 21 postpartum, slight maternal toxicity, slightly prolonged gestation an increase in stillbirths and, decreases in pup weight (persisting into adulthood) and survival were seen at 30 mg/kg/day.
+In a study in which rats were treated peri- and post-natally with oral doses of 3, 10, and 30 mg/kg/day (1, 3, and 10 times the MRHD on a mg/m 2 basis) of aripiprazole from gestation day 17 through day 21 postpartum, slight maternal toxicity, slightly prolonged gestation an increase in stillbirths and decreases in pup weight (persisting into adulthood) and survival were seen at 30 mg/kg/day.
 
 In rats receiving aripiprazole injection intravenously (3, 8, and 20 mg/kg/day) from gestation day 6 through day 20 postpartum, an increase in stillbirths was seen at 8 and 20 mg/kg/day, and decreases in early postnatal pup weights and survival were seen at 20 mg/kg/day; these effects were seen in presence of maternal toxicity.
 There were no effects on postnatal behavioral and reproductive development.
@@ -70,7 +70,7 @@ The development and health benefits of breastfeeding should be considered along 
 
 Safety and effectiveness of ABILIFY MYCITE in pediatric patients have not been established.
 
-Antidepressants increased the risk of suicidal thoughts and behaviors in pediatric patients [see Boxed Warning, Warnings and Precautions (5.2)].
+Antidepressants increased the risk of suicidal thoughts and behaviors in pediatric patients [see Boxed Warning,and Warnings and Precautions (5.2)].
 
 ## 8.5 Geriatric Use
 
@@ -86,11 +86,11 @@ ABILIFY MYCITE is not approved for the treatment of elderly patients with dement
 ## 8.6 CYP2D6 Poor Metabolizers
 
 ABILIFY MYCITE dosage adjustment is recommended in known CYP2D6 poor metabolizers due to high aripiprazole concentrations.
-Approximately 8% of Caucasians and 3–8% of Black/African Americans cannot metabolize CYP2D6 substrates and are classified as poor metabolizers (PM) [see Dosage and Administration (2.6) and Clinical Pharmacology (12.3)].
+Approximately 8% of Caucasians and 3 to 8% of Black/African Americans cannot metabolize CYP2D6 substrates and are classified as poor metabolizers (PM) [see Dosage and Administration (2.6) and Clinical Pharmacology (12.3)].
 
 ## 8.7 Hepatic and Renal Impairment
 
-No dosage adjustment for ABILIFY MYCITE is required on the basis of a patient's hepatic function (mild to severe hepatic impairment, Child-Pugh score between 5 and 15), or renal function (mild to severe renal impairment, glomerular filtration rate between 15 and 90 mL/minute) [see Clinical Pharmacology (12.3)].
+No dosage adjustment for ABILIFY MYCITE is required on the basis of a patient's hepatic function (mild to severe hepatic impairment, Child-Pugh score between 5 and 15) or renal function (mild to severe renal impairment, glomerular filtration rate between 15 and 90 mL/minute) [see Clinical Pharmacology (12.3)].
 
 ## 8.8 Other Specific Populations
 

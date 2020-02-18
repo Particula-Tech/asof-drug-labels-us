@@ -5,9 +5,7 @@ Advise the patient to read the FDA-approved patient labeling (Medication Guide).
 General Instructions for Use
 
 Instruct patients to refer to the app store to ensure compatibility with their specific smartphone.
-
 Instruct patient to first download the MYCITE APP and follow instructions provided by the app.
-
 Advise patients that the initial use should be facilitated by the healthcare provider.
 
 Advise patients that most ingestions will be detected within 30 minutes; however, in some cases it can take over two hours for the smartphone app and web portal to detect the ingestion of ABILIFY MYCITE.
@@ -22,7 +20,7 @@ Information previously synced to the patients account will be available.
 
 Using the MYCITE Patch in Different Environments
 
-The MYCITE Patch will communicate with a paired device when it is within 9‑foot proximity.
+The MYCITE Patch will communicate with a paired device when it is within 9-foot proximity.
 The MYCITE Patch should remain on an individual whether they are showering, swimming, or exercising as it is intended to tolerate water or perspiration.
 Patients undergoing an MRI, however, need to remove their patch and replace with a new one as soon as possible.
 In order for the MYCITE Patch to communicate with a smartphone, the device must be powered on and Bluetooth ®-enabled.
@@ -34,12 +32,12 @@ Advise patients and caregivers to look for the emergence of suicidality, especia
 Neuroleptic Malignant Syndrome (NMS)
 
 Counsel patients about a potentially fatal adverse reaction referred to as Neuroleptic Malignant Syndrome (NMS) that has been reported in association with administration of antipsychotic drugs.
-Advise patients to contact a health care provider or report to the emergency room if they experience signs or symptoms of NMS [see Warnings and Precautions (5.4)].
+Advise patients to contact a healthcare provider or report to the emergency room if they experience signs or symptoms of NMS [see Warnings and Precautions (5.4)].
 
 Tardive Dyskinesia
 
 Advise patients that abnormal involuntary movements have been associated with the administration of antipsychotic drugs.
-Counsel patients on the signs and symptoms of tardive dyskinesia and to contact their health care provider if these abnormal movements occur [see Warnings and Precautions (5.5)].
+Counsel patients on the signs and symptoms of tardive dyskinesia and to contact their healthcare provider if these abnormal movements occur [see Warnings and Precautions (5.5)].
 
 Metabolic Changes
 

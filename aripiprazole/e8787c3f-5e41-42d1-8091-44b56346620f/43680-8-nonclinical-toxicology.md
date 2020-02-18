@@ -13,8 +13,8 @@ In female rats, the incidence of mammary gland fibroadenomas was increased at a 
 
 Proliferative changes in the pituitary and mammary gland of rodents have been observed following chronic administration of other antipsychotic agents and are considered prolactin-mediated.
 Serum prolactin was not measured in the aripiprazole carcinogenicity studies.
-However, increases in serum prolactin levels were observed in female mice in a 13‑week dietary study at the doses associated with mammary gland and pituitary tumors.
-Serum prolactin was not increased in female rats in 4‑week and 13‑week dietary studies at the dose associated with mammary gland tumors.
+However, increases in serum prolactin levels were observed in female mice in a 13-week dietary study at the doses associated with mammary gland and pituitary tumors.
+Serum prolactin was not increased in female rats in 4-week and 13-week dietary studies at the dose associated with mammary gland tumors.
 The relevance for human risk of the findings of prolactin-mediated endocrine tumors in rodents is unknown.
 
 Mutagenesis
@@ -35,7 +35,7 @@ Disturbances in spermatogenesis were seen at 60 mg/kg and prostate atrophy was s
 
 ## 13.2 Animal Toxicology and/or Pharmacology
 
-Aripiprazole produced retinal degeneration in albino rats in a 26‑week chronic toxicity study at a dose of 60 mg/kg and in a 2‑year carcinogenicity study at doses of 40 and 60 mg/kg.
+Aripiprazole produced retinal degeneration in albino rats in a 26-week chronic toxicity study at a dose of 60 mg/kg and in a 2-year carcinogenicity study at doses of 40 and 60 mg/kg.
 The 40 and 60 mg/kg/day doses are 13 and 19 times the maximum recommended human dose (MRHD) based on mg/m 2 and 7 to 14 times human exposure at MRHD based on AUC.
 Evaluation of the retinas of albino mice and of monkeys did not reveal evidence of retinal degeneration.
 Additional studies to further evaluate the mechanism have not been performed.

@@ -20,4 +20,4 @@ The ABILIFY MYCITE System is a drug-device combination product composed of the f
 - A MYCITE Patch (wearable sensor) is designed to detect the ingestion of the ABILIFY MYCITE tablet, record the ingestion of the IEM, and transmit ingestion data to the mobile patient application (app).
 - A compatible mobile patient application (app) displays this data to allow patients to review their medication ingestion.
   These data can be shared with healthcare providers and caregivers.
-- Web-based portal or dashboard for health care professionals (HCP) and caregivers.
+- Web-based portal or dashboard for healthcare professionals (HCP) and caregivers.

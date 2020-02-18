@@ -4,12 +4,12 @@
 
 Elderly patients with dementia-related psychosis treated with antipsychotic drugs are at an increased risk of death.
 Analyses of 17 placebo-controlled trials (modal duration of 10 weeks), largely in patients taking atypical antipsychotic drugs, revealed a risk of death in drug-treated patients of between 1.6 to 1.7 times the risk of death in placebo-treated patients.
-Over the course of a typical 10‑week controlled trial, the rate of death in drug-treated patients was about 4.5%, compared to a rate of about 2.6% in the placebo group.
+Over the course of a typical 10-week controlled trial, the rate of death in drug-treated patients was about 4.5%, compared to a rate of about 2.6% in the placebo group.
 
 Although the causes of death were varied, most of the deaths appeared to be either cardiovascular (e.g., heart failure, sudden death) or infectious (e.g., pneumonia) in nature.
 Observational studies suggest that, similar to atypical antipsychotic drugs, treatment with conventional antipsychotic drugs may increase mortality.
 The extent to which the findings of increased mortality in observational studies may be attributed to the antipsychotic drug as opposed to some characteristic(s) of the patients is not clear.
-ABILIFY MYCITE is not approved for the treatment of patients with dementia-related psychosis [see Boxed Warning, Warnings and Precautions (5.3)].
+ABILIFY MYCITE is not approved for the treatment of patients with dementia-related psychosis [see Boxed Warning, and Warnings and Precautions (5.3)].
 
 ## 5.2 Suicidal Thoughts and Behaviors in Pediatric and Young Adult Patients
 
@@ -26,9 +26,9 @@ Table 3: Risk Differences of the Number of Cases of Suicidal Thoughts or Behavio
 | --- | --- |
 |  | Increases Compared to Placebo |
 | <18 | 14 additional patients |
-| 18-24 | 5 additional patients |
+| 18 to 24 | 5 additional patients |
 |  | Decreases Compared to Placebo |
-| 25-64 | 1 fewer patient |
+| 25 to 64 | 1 fewer patient |
 | ≥65 | 6 fewer patients |
 
 It is unknown whether the risk of suicidal thoughts and behaviors in pediatric and young adult patients extends to longer-term use, i.e., beyond four months.
@@ -40,8 +40,8 @@ Consider changing the therapeutic regimen, including possibly discontinuing ABIL
 
 ## 5.3 Cerebrovascular Adverse Reactions, Including Stroke, in Elderly Patients with Dementia-Related Psychosis
 
-In placebo-controlled clinical studies (two flexible dose and one fixed dose study) of dementia-related psychosis, there was an increased incidence of cerebrovascular adverse events (e.g., stroke, transient ischemic attack), including fatalities, in aripiprazole-treated patients (mean age: 84 years; range: 78-88 years).
-In the fixed-dose study, there was a statistically significant dose response relationship for cerebrovascular adverse events in patients treated with aripiprazole.
+In placebo-controlled clinical studies (two flexible-dose and one fixed-dose study) of dementia-related psychosis, there was an increased incidence of cerebrovascular adverse events (e.g., stroke, transient ischemic attack), including fatalities, in aripiprazole-treated patients (mean age: 84 years; range: 78 to 88 years).
+In the fixed-dose study, there was a statistically significant dose-response relationship for cerebrovascular adverse events in patients treated with aripiprazole.
 ABILIFY MYCITE is not approved for the treatment of patients with dementia-related psychosis [see Boxed Warning].
 
 ## 5.4 Neuroleptic Malignant Syndrome (NMS)
@@ -52,7 +52,7 @@ Additional signs may include elevated creatine phosphokinase, myoglobinuria (rha
 
 The diagnostic evaluation of patients with this syndrome is complicated.
 In arriving at a diagnosis, it is important to exclude cases where the clinical presentation includes both serious medical illness (e.g., pneumonia, systemic infection) and untreated or inadequately treated extrapyramidal signs and symptoms (EPS).
-Other important considerations in the differential diagnosis include central anticholinergic toxicity, heat stroke, drug fever, and primary central nervous system pathology.
+Other important considerations in the differential diagnosis include central anticholinergic toxicity, heat-stroke, drug fever, and primary central nervous system pathology.
 
 The management of NMS should include: 1) immediate discontinuation of antipsychotic drugs and other drugs not essential to concurrent therapy; 2) intensive symptomatic treatment and medical monitoring; and 3) treatment of any concomitant serious medical problems for which specific treatments are available.
 There is no general agreement about specific pharmacological treatment regimens for uncomplicated NMS.
@@ -70,7 +70,7 @@ The risk of developing tardive dyskinesia and the likelihood that it will become
 However, the syndrome can develop, although much less commonly, after relatively brief treatment periods at low doses.
 
 The syndrome may remit, partially or completely, if antipsychotic treatment is withdrawn.
-Antipsychotic treatment, itself, however, may suppress (or partially suppress) the signs and symptoms of the syndrome and, thereby, may possibly mask the underlying process.
+Antipsychotic treatment itself, however, may suppress (or partially suppress) the signs and symptoms of the syndrome and, thereby, may possibly mask the underlying process.
 The effect that symptomatic suppression has upon the long-term course of the syndrome is unknown.
 
 Given these considerations, ABILIFY MYCITE should be prescribed in a manner that is most likely to minimize the occurrence of tardive dyskinesia.
@@ -109,22 +109,22 @@ Table 4: Changes in Fasting Glucose in Placebo-Controlled Monotherapy Trials in 
 | --- | --- | --- | --- | --- |
 | Fasting Glucose | Normal to High (<100 mg/dL to ≥126 mg/dL) | Aripiprazole | 31/822 | 3.8 |
 | Placebo | 22/605 | 3.6 |  |  |
-| Borderline to High (≥100 mg/dL and <126 mg/dL to ≥126 mg/dL) | Aripiprazole | 31/176 | 17.6 |  |
-| Placebo | 13/142 | 9.2 |  |  |
+|  | Borderline to High (≥100 mg/dL and <126 mg/dL to ≥126 mg/dL) | Aripiprazole | 31/176 | 17.6 |
+|  | Placebo | 13/142 | 9.2 |  |
 
 At 24 weeks, the mean change in fasting glucose in aripiprazole-treated patients was not significantly different than in placebo-treated patients [+2.2 mg/dL (n=42) and +9.6 mg/dL (n=28), respectively].
 
 The mean change in fasting glucose in adjunctive aripiprazole-treated patients with major depressive disorder (+0.7 mg/dL; median exposure 42 days; N=241) was not significantly different than in placebo-treated patients (+0.8 mg/dL; median exposure 42 days; N=246).
 Table 5 shows the proportion of adult patients with changes in fasting glucose levels from two placebo-controlled, adjunctive trials (median exposure 42 days) in patients with major depressive disorder.
 
-Table 5: Changes in Fasting Glucose From Placebo-Controlled Adjunctive Trials in Adult Patients with Major Depressive Disorder
+Table 5: Changes in Fasting Glucose from Placebo-Controlled Adjunctive Trials in Adult Patients with Major Depressive Disorder
 
 |  | Category Change (at least once) from Baseline | Treatment Arm | n/N | % |
 | --- | --- | --- | --- | --- |
 | Fasting Glucose | Normal to High (<100 mg/dL to ≥126 mg/dL) | Aripiprazole | 2/201 | 1.0 |
 | Placebo | 2/204 | 1.0 |  |  |
-| Borderline to High (≥100 mg/dL and <126 mg/dL to ≥126 mg/dL) | Aripiprazole | 4/34 | 11.8 |  |
-| Placebo | 3/37 | 8.1 |  |  |
+|  | Borderline to High (≥100 mg/dL and <126 mg/dL to ≥126 mg/dL) | Aripiprazole | 4/34 | 11.8 |
+|  | Placebo | 3/37 | 8.1 |  |
 
 Dyslipidemia
 
@@ -133,7 +133,7 @@ Undesirable alterations in lipids have been observed in patients treated with at
 Analyses of patients with at least 12 or 24 weeks of exposure were limited by small numbers of patients.
 Table 6 shows the proportion of adult patients, primarily from pooled schizophrenia and bipolar disorder monotherapy placebo-controlled trials, with changes in total cholesterol (pooled from 17 trials; median exposure 21 to 25 days), fasting triglycerides (pooled from eight trials; median exposure 42 days), fasting LDL cholesterol (pooled from eight trials; median exposure 39 to 45 days, except for placebo-treated patients with baseline normal fasting LDL measurements, who had median treatment exposure of 24 days) and HDL cholesterol (pooled from nine trials; median exposure 40 to 42 days).
 
-Table 6: Changes in Blood Lipid Parameters From Placebo-Controlled Monotherapy Trials in Adults (Primarily Schizophrenia and Bipolar Disorder)
+Table 6: Changes in Blood Lipid Parameters from Placebo-Controlled Monotherapy Trials in Adults (Primarily Schizophrenia and Bipolar Disorder)
 
 |  | Treatment Arm | n/N | % |
 | --- | --- | --- | --- |
@@ -146,11 +146,11 @@ Table 6: Changes in Blood Lipid Parameters From Placebo-Controlled Monotherapy T
 | HDL Cholesterol Normal to Low (≥40 mg/dL to <40 mg/dL) | Aripiprazole | 121/1066 | 11.4 |
 | Placebo | 99/794 | 12.5 |  |
 
-In monotherapy trials in adults, the proportion of patients at 12 weeks and 24 weeks with changes from Normal to High in total cholesterol (fasting/nonfasting), fasting triglycerides, and fasting LDL cholesterol were similar between aripiprazole- and placebo-treated patients: at 12 weeks, Total Cholesterol (fasting/nonfasting), 1/71 (1.4%) vs. 3/74 (4.1%); Fasting Triglycerides, 8/62 (12.9%) vs. 5/37 (13.5%); Fasting LDL Cholesterol, 0/34 (0%) vs. 1/25 (4.0%), respectively; and at 24 weeks, Total Cholesterol (fasting/nonfasting), 1/42 (2.4%) vs. 3/37 (8.1%); Fasting Triglycerides, 5/34 (14.7%) vs. 5/20 (25%); Fasting LDL Cholesterol, 0/22 (0%) vs. 1/18 (5.6%), respectively.
+In monotherapy trials in adults, the proportion of patients at 12 weeks and 24 weeks with changes from normal to high in total cholesterol (fasting/nonfasting), fasting triglycerides, and fasting LDL cholesterol were similar between aripiprazole- and placebo-treated patients: at 12 weeks, total cholesterol (fasting/nonfasting), 1/71 (1.4%) vs. 3/74 (4.1%); fasting triglycerides, 8/62 (12.9%) vs. 5/37 (13.5%); fasting LDL cholesterol, 0/34 (0%) vs. 1/25 (4.0%), respectively; and at 24 weeks, total cholesterol (fasting/nonfasting), 1/42 (2.4%) vs. 3/37 (8.1%); fasting triglycerides, 5/34 (14.7%) vs. 5/20 (25%); fasting LDL cholesterol, 0/22 (0%) vs. 1/18 (5.6%), respectively.
 
 Table 7 shows the proportion of patients with changes in total cholesterol (fasting/nonfasting), fasting triglycerides, fasting LDL cholesterol, and HDL cholesterol from two placebo-controlled adjunctive trials in adult patients with major depressive disorder (median exposure 42 days).
 
-Table 7: Changes in Blood Lipid Parameters From Placebo-Controlled Adjunctive Trials in Adult Patients with Major Depressive Disorder
+Table 7: Changes in Blood Lipid Parameters from Placebo-Controlled Adjunctive Trials in Adult Patients with Major Depressive Disorder
 
 |  | Treatment Arm | n/N | % |
 | --- | --- | --- | --- |
@@ -180,7 +180,7 @@ Table 8: Percentage of Patients From Placebo-Controlled Trials in Adult Patients
 
 | Weight gain ≥7% of body weight | Indication | Treatment Arm | N | Patients n (%) |
 | --- | --- | --- | --- | --- |
-|  | Schizophrenia 4-6 weeks duration. | Aripiprazole | 852 | 69 (8.1) |
+|  | Schizophrenia 4 to 6 weeks duration. | Aripiprazole | 852 | 69 (8.1) |
 |  | Placebo | 379 | 12 (3.2) |  |
 |  | Bipolar Mania 3 weeks duration. | Aripiprazole | 719 | 16 (2.2) |
 |  | Placebo | 598 | 16 (2.7) |  |
@@ -241,7 +241,7 @@ Patients should be cautioned about operating hazardous machinery, including auto
 ## 5.13 Body Temperature Regulation
 
 Disruption of the body's ability to reduce core body temperature has been attributed to antipsychotic agents.
-Appropriate care is advised when prescribing ABILIFY MYCITE for patients who will be experiencing conditions which may contribute to an elevation in core body temperature, (e.g., exercising strenuously, exposure to extreme heat, receiving concomitant medication with anticholinergic activity, or being subject to dehydration).
+Appropriate care is advised when prescribing ABILIFY MYCITE for patients who will be experiencing conditions which may contribute to an elevation in core body temperature (e.g., exercising strenuously, exposure to extreme heat, receiving concomitant medication with anticholinergic activity, or being subject to dehydration).
 
 ## 5.14 Dysphagia
 
