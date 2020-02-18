@@ -20,9 +20,9 @@ Study 1: Fixed-dose KAPVAY Monotherapy
 
 Study 1 (CLON-301) was a short-term, multi-center, randomized, double-blind, placebo-controlled study of two fixed doses (0.2 mg/day or 0.4 mg/day) of KAPVAY in children and adolescents (6 to 17 years of age) who met DSM-IV criteria for ADHD hyperactive or combined inattentive/hyperactive subtypes.
 
-Most Common Adverse Reactions (incidence of ≥ 5% and at least twice the rate of placebo): somnolence, fatigue, irritability, insomnia, nightmare, constipation, dry mouth.
+Most Common Adverse Reactions (incidence of ≥5% and at least twice the rate of placebo): somnolence, fatigue, irritability, insomnia, nightmare, constipation, dry mouth.
 
-Adverse Events Leading to Discontinuation of KAPVAY –Five patients (7%) in the low dose group (0.2 mg), 15 patients (20%) in the high dose group (0.4 mg), and 1 patient in the placebo group (1%) reported adverse reactions that led to discontinuation.
+Adverse Events Leading to Discontinuation of KAPVAY - Five patients (7%) in the low dose group (0.2 mg), 15 patients (20%) in the high dose group (0.4 mg), and 1 patient in the placebo group (1%) reported adverse reactions that led to discontinuation.
 The most common adverse reactions that led to discontinuation were somnolence and fatigue.
 
 Commonly observed adverse reactions (incidence of ≥2% in either active treatment group and greater than the rate on placebo) during the treatment period are listed in Table 2.
@@ -32,19 +32,17 @@ Table 2 Common Adverse Reactions in the Fixed-Dose Monotherapy Trial-Treatment P
 |  | Percentage of Patients Reporting Event |  |  |
 | --- | --- | --- | --- |
 | Preferred Term | KAPVAY 0.2 mg/day N=76 | KAPVAY 0.4 mg/day N=78 | Placebo (N=76) |
-| PSYCHIATRIC DISORDERS Somnolence* Nightmare Emotional Disorder Aggression Tearfulness Enuresis Sleep Terror Poor Quality Sleep | 38% 4% 4% 3% 1% 0% 3% 0% | 31% 9% 4% 1% 3% 4% 0% 3% | 4% 0% 1% 0% 0% 0% 0% 1% |
+| PSYCHIATRIC DISORDERS Somnolence Somnolence includes the terms "somnolence" and "sedation". Nightmare Emotional Disorder Aggression Tearfulness Enuresis Sleep Terror Poor Quality Sleep | 38% 4% 4% 3% 1% 0% 3% 0% | 31% 9% 4% 1% 3% 4% 0% 3% | 4% 0% 1% 0% 0% 0% 0% 1% |
 | NERVOUS SYSTEM DISORDERS Headache Insomnia Tremor Abnormal Sleep-Related Event | 20% 5% 1% 3% | 13% 6% 4% 1% | 16% 1% 0% 0% |
 | GASTROINTESTINAL DISORDERS Upper Abdominal Pain Nausea Constipation Dry Mouth | 15% 4% 1% 0% | 10% 5% 6% 5% | 12% 3% 0% 1% |
-| GENERAL DISORDERS Fatigue† Irritability | 16% 9% | 13% 5% | 1% 4% |
+| GENERAL DISORDERS FatigueFatigue includes the terms "fatigue" and "lethargy". Irritability | 16% 9% | 13% 5% | 1% 4% |
 | CARDIAC DISORDERS Dizziness Bradycardia | 7% 0% | 3% 4% | 5% 0% |
 | INVESTIGATIONS Increased Heart Rate | 0% | 3% | 0% |
 | METABOLISM AND NUTRITION DISORDERS Decreased Appetite | 3% | 4% | 4% |
 
-* Somnolence includes the terms "somnolence" and "sedation". † Fatigue includes the terms "fatigue" and "lethargy".
-
 Commonly observed adverse reactions (incidence of >2% in either active treatment group and greater than the rate on placebo) during the taper period are listed in Table 3.
 
-Table 3 Common Adverse Reactions in the Fixed-Dose Monotherapy Trial -Taper Period* (Study 1)
+Table 3 Common Adverse Reactions in the Fixed-Dose Monotherapy Trial-Taper PeriodTaper Period: 0.2 mg dose, week 8; 0.4 mg dose, weeks 6-8; Placebo dose, weeks 6-8 (Study 1)
 
 |  | Percentage of Patients Reporting Event |  |  |
 | --- | --- | --- | --- |
@@ -56,37 +54,33 @@ Table 3 Common Adverse Reactions in the Fixed-Dose Monotherapy Trial -Taper Peri
 | Heart Rate Increased | 0% | 3% | 0% |
 | Otitis Media Acute | 3% | 0% | 0% |
 
-* Taper Period: 0.2 mg dose, week 8; 0.4 mg dose, weeks 6-8; Placebo dose, weeks 6-8
-
 Study 2: Flexible-dose KAPVAY as Adjunctive Therapy to Psychostimulants
 
 Study 2 (CLON-302) was a short-term, randomized, double-blind, placebo-controlled study of a flexible dose of KAPVAY as adjunctive therapy to a psychostimulant in children and adolescents (6 to 17 years) who met DSM-IV criteria for ADHD hyperactive or combined inattentive/hyperactive subtypes during which KAPVAY was initiated at 0.1 mg/day and titrated up to 0.4 mg/day over a 3-week period.
 Most KAPVAY treated patients (75.5%) were escalated to the maximum dose of 0.4 mg/day.
 
-Most Common Adverse Reactions (incidence of ≥ 5% and at least twice the rate of placebo): somnolence, fatigue, decreased appetite, dizziness.
+Most Common Adverse Reactions (incidence of ≥5% and at least twice the rate of placebo): somnolence, fatigue, decreased appetite, dizziness.
 
-Adverse Events Leading to Discontinuation – There was one patient in the CLON+STM group (1%) who discontinued because of an adverse event (severe bradyphrenia, with severe fatigue).
+Adverse Events Leading to Discontinuation - There was one patient in the CLON+STM group (1%) who discontinued because of an adverse event (severe bradyphrenia, with severe fatigue).
 
 Commonly observed adverse reactions (incidence of ≥2% in the treatment group and greater than the rate on placebo) during the treatment period are listed in Table 4.
 
-Table 4 Common Adverse Reactions in the Flexible-Dose Adjunctive to Stimulant Therapy Trial - Treatment Period (Study 2)
+Table 4 Common Adverse Reactions in the Flexible-Dose Adjunctive to Stimulant Therapy Trial-Treatment Period (Study 2)
 
 |  | Percentage of Patients Reporting Event |  |
 | --- | --- | --- |
 | Preferred Term | KAPVAY+STM (N=102) | PBO+STM (N=96) |
-| PSYCHIATRIC DISORDERS Somnolence* Aggression Affect Lability Emotional Disorder | 19% 2% 2% 2% | 7% 1% 1% 0% |
-| GENERAL DISORDERS Fatigue† Irritability | 14% 2% | 4% 7% |
+| PSYCHIATRIC DISORDERS SomnolenceSomnolence includes the terms: "somnolence" and "sedation". Aggression Affect Lability Emotional Disorder | 19% 2% 2% 2% | 7% 1% 1% 0% |
+| GENERAL DISORDERS FatigueFatigue includes the terms "fatigue" and "lethargy". Irritability | 14% 2% | 4% 7% |
 | NERVOUS SYSTEM DISORDERS Headache Insomnia | 7% 4% | 12% 3% |
 | GASTROINTESTINAL DISORDERS Upper Abdominal Pain | 7% | 4% |
 | RESPIRATORY DISORDERS Nasal Congestion | 2% | 2% |
 | METABOLISM AND NUTRITION DISORDERS Decreased Appetite | 6% | 3% |
 | CARDIAC DISORDERS Dizziness | 5% | 1% |
 
-* Somnolence includes the terms: "somnolence" and "sedation". † Fatigue includes the terms "fatigue" and "lethargy".
-
 Commonly observed adverse reactions (incidence of ≥2% in the treatment group and greater than the rate on placebo) during the taper period are listed in Table 5.
 
-Table 5 Common Adverse Reactions in the Flexible-Dose Adjunctive to Stimulant Therapy Trial - Taper Period* (Study 2)
+Table 5 Common Adverse Reactions in the Flexible-Dose Adjunctive to Stimulant Therapy Trial- Taper PeriodTaper Period: weeks 6-8 (Study 2)
 
 |  | Percentage of Patients Reporting Event |  |
 | --- | --- | --- |
@@ -97,8 +91,6 @@ Table 5 Common Adverse Reactions in the Flexible-Dose Adjunctive to Stimulant Th
 | Throat Pain | 3% | 1% |
 | Gastroenteritis Viral | 2% | 0% |
 | Rash | 2% | 0% |
-
-* Taper Period: weeks 6-8
 
 Adverse Reactions Leading to Discontinuation
 

@@ -62,3 +62,4 @@ Table 9 Treatment Failure: Double-Blind Full Analysis Set (Study 3)
 | Other early terminations | 15 (22.1%) | 10 (14.9%) |
 
 ADHD-RS-IV = Attention Deficit Hyperactivity Disorder-Rating Scale-4th edition; CGI-S = Clinical Global Impression-Severity a At the same 2 consecutive visits a (1) 30% or greater reduction in ADHD-RS-IV, and (2) 2-point or more increase in CGI-S. b Two subjects (1 placebo and 1 KAPVAY) withdrew consent, but met the clinical criteria for treatment failure. c Three subjects (all placebo) discontinued the study due to treatment failure, but met only the criterion for ADHD-RS-IV.
+Figure 2: Kaplan-Meier Estimation of Cumulative Proportion of Patients with Treatment Failure (Study 3)

@@ -27,3 +27,6 @@ Advise patients not to discontinue KAPVAY abruptly [see Warnings and Precautions
 Allergic Reactions
 
 Advise patients to discontinue KAPVAY and seek immediate medical attention if any signs or symptoms of a hypersensitivity reaction occur, such as generalized rash, urticaria, or angioedema [see Warnings and Precautions (5.4)].
+Pregnancy Registry Advise patients that there is a pregnancy exposure registry that monitors pregnancy outcomes in patients exposed to KAPVAY during pregnancy [see Use in Specific Populations (8.1)].
+Lactation Advise breastfeeding women using KAPVAY to monitor infants for excess sedation, decreased muscle tone, and respiratory depression and to seek medical care if they notice these signs [see Use in Specific Populations (8.2)].
+Fertility Advise females and males of reproductive potential that KAPVAY may impair fertility [see Use in Specific Populations (8.3) and Nonclinical Toxicology (13.1)].

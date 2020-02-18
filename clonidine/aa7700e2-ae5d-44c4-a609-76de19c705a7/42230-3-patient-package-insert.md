@@ -31,8 +31,11 @@ Before you take KAPVAY, tell your doctor if you:
 - are pregnant or plan to become pregnant.
   It is not known if KAPVAY will harm your unborn baby.
   Talk to your doctor if you are pregnant or plan to become pregnant.
+  - There is a pregnancy registry for females who are exposed to ADHD medications, including KAPVAY, during pregnancy.
+    The purpose of the registry is to collect information about the health of females exposed to KAPVAY and their baby.
+    If you or your child becomes pregnant during treatment with KAPVAY, talk to your healthcare provider about registering with the National Pregnancy Registry of ADHD Medications at 1-866-961-2388 or visit online at https://womensmentalhealth.org/adhdmedications/.
 - are breastfeeding or plan to breastfeed.
-  KAPVAY can pass into your breast milk.
+  KAPVAY passes into your breast milk.
   Talk to your doctor about the best way to feed your baby if you take KAPVAY.
 
 Tell your doctor about all of the medicines that you take, including prescription and non-prescription medicines, vitamins, and herbal supplements.
@@ -133,4 +136,4 @@ What are the ingredients in KAPVAY?
 - Active Ingredient: clonidine hydrochloride
 - Inactive Ingredients: sodium lauryl sulfate, lactose monohydrate, hypromellose type 2208, partially pregelatinized starch, colloidal silicon dioxide, and magnesium stearate
 
-Mfd. for: Concordia Pharmaceuticals Distributed by: Amdipharm Limited 17 Northwood House Dublin 9, Ireland Kapvay® is a registered trademark under exclusive license to Amdipharm Limited.
+Revised: 02/2020 Mfd. for: Concordia Pharmaceuticals Distributed by: Amdipharm Limited 17 Northwood House Dublin 9, Ireland Kapvay® is a registered trademark under exclusive license to Amdipharm Limited.

@@ -2,23 +2,32 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Category C:
-
-Risk Summary There are no adequate or well-controlled studies with KAPVAY in pregnant women.
-In animal embryofetal studies, increased resorptions were seen in rats and mice administered oral clonidine hydrochloride from implantation through organogenesis at 10 and 5 times, respectively, the maximum recommended human dose (MRHD).
-No embryotoxic or teratogenic effects were seen in rabbits administered oral clonidine hydrochloride during organogenesis at doses up to 3 times the MRHD.
-KAPVAY should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
-
-Animal Data Oral administration of clonidine hydrochloride to pregnant rabbits during the period of embryo/fetal organogenesis at doses of up to 80 mcg/kg/day (approximately 3 times the oral maximum recommended daily dose [MRHD] of 0.4 mg/day on a mg/m2 basis) produced no evidence of teratogenic or embryotoxic potential.
-In pregnant rats, however, doses as low as 15 mcg/kg/day (1/3 the MRHD on a mg/m2 basis) were associated with increased resorptions in a study in which dams were treated continuously from 2 months prior to mating and throughout gestation.
+Pregnancy Exposure Registry There is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to ADHD medications, including KAPVAY, during pregnancy.
+Healthcare providers are encouraged to register patients by calling the National Pregnancy Registry for ADHD Medications at 1-866-961-2388 or visiting https://womensmentalhealth.org/adhd-medications/.
+Risk Summary Prolonged experience with clonidine in pregnant women over several decades, based on published literature, including controlled trials, a retrospective cohort study and case reports, have not identified a drug associated risk of major birth defects, miscarriage, and adverse maternal or fetal outcomes.
+In animal embryofetal studies, increased resorptions were seen in rats and mice administered oral clonidine hydrochloride from implantation through organogenesis at 10 and 5 times, respectively, the maximum recommended human dose (MRHD) given to adolescents on a mg/m2 basis.
+No developmental effects were seen in rabbits administered oral clonidine hydrochloride during organogenesis at doses up to 3 times the MRHD (see Data).
+The estimated background risk of major birth defects and miscarriage for the indicated population is unknown.
+All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
+In the U.S. general population, the estimated background risk of major birth defects and miscarriages in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively.
+Data Animal Data Oral administration of clonidine hydrochloride to pregnant rabbits during the period of embryo/fetal organogenesis at doses of up to 80 mcg/kg/day (approximately 3 times the oral maximum recommended daily dose [MRHD] of 0.4 mg/day given to adolescents on a mg/m2 basis) produced no developmental effects.
+In pregnant rats, however, doses as low as 15 mcg/kg/day (1/3 the MRHD given to adolescents on a mg/m2 basis) were associated with increased resorptions in a study in which dams were treated continuously from 2 months prior to mating and throughout gestation.
 Increased resorptions were not associated with treatment at the same or at higher dose levels (up to 3 times the MRHD) when treatment of the dams was restricted to gestation days 6-15.
 Increases in resorptions were observed in both rats and mice at 500 mcg/kg/day (10 and 5 times the MRHD in rats and mice, respectively) or higher when the animals were treated on gestation days 1-14; 500 mcg/kg/day was the lowest dose employed in this study.
 
-## 8.3 Nursing Mothers
+## 8.2 Lactation
 
-Clonidine hydrochloride is present in human milk.
-The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for KAPVAY and any potential adverse effects on the breastfed child from KAPVAY or from the underlying maternal condition.
+Risk Summary
+
+Based on published lactation studies, clonidine hydrochloride is present in human milk at relative infant doses ranging from 4.1 to 8.4% of the maternal weight-adjusted dosage.
+Although in most cases, there were no reported adverse effects in breastfed infants exposed to clonidine, there is one case report of sedation, hypotonia, and apnea in an infant exposed to clonidine through breast milk.
+If an infant is exposed to clonidine hydrochloride through breastmilk, monitor for symptoms of hypotension and bradycardia, such as sedation, lethargy, tachypnea and poor feeding (see Clinical Considerations).The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for KAPVAY and any potential adverse effects on the breastfed child from KAPVAY or from the underlying maternal condition.
 Exercise caution when KAPVAY is administered to a nursing woman.
+Clinical Considerations Monitor breastfeeding infants exposed to KAPVAY through breast milk for symptoms of hypotension and/or bradycardia such as sedation, lethargy, tachypnea, and poor feeding.
+
+## 8.3 Females and Males of Reproductive Potential
+
+Infertility Based on findings in Animal studies revealed that KAPVAY may impair fertility in females and males of reproductive potential [see Nonclinical Toxicology (13.1)].
 
 ## 8.4 Pediatric Use
 

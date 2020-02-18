@@ -44,7 +44,7 @@ Table 7 Pharmacokinetic Parameters of Clonidine in Healthy Adult Volunteers
 | hTmax (hr) | 2.07 | 0.5 | 6.80 | 3.61 | 6.50 | 1.23 |
 | T1/2 (hr) | 12.57 | 3.11 | 12.67 | 3.76 | 12.65 | 3.56 |
 
-Multiple-dose Pharmacokinetics in Children and Adolescents
+Figure 1 Mean Clonidine Concentration-Time Profiles after Single Dose Administration Multiple-dose Pharmacokinetics in Children and Adolescents
 
 Plasma clonidine concentrations in children and adolescents (0.1 mg bid and 0.2 mg bid) with ADHD are greater than those of adults with hypertension with children and adolescents receiving higher doses on a mg/kg basis.
 Body weight normalized clearance (CL/F) in children and adolescents was higher than CL/F observed in adults with hypertension.
