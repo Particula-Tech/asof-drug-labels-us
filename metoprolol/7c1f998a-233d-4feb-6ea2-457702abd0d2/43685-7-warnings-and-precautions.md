@@ -121,7 +121,7 @@ The oral NOAELs for embryo-fetal development in mice, rats, and rabbits were con
 This corresponds to dose levels that are approximately 0.3, 4, and 0.5 times, respectively, when based on surface area, the maximum human oral dose (8 mg/kg/day) of metoprolol tartrate.
 Metoprolol tartrate has been associated with reversible adverse effects on spermatogenesis starting at oral dose levels of 3.5 mg/kg in rats (a dose that is only 0.1-times the human dose, when based on surface area), although other studies have shown no effect of metoprolol tartrate on reproductive performance in male rats.
 
-## Pregnancy Category C
+## Pregnancy
 
 Upon confirming the diagnosis of pregnancy, women should immediately inform the doctor.
 

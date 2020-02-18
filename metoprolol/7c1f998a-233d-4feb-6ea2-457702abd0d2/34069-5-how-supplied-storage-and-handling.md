@@ -18,6 +18,6 @@ Discard unused portion.
 
 Distributed by Hospira, Inc., Lake Forest, IL 60045 USA
 
-LAB-1113-1.0
+LAB-1113-2.0
 
-8/2017
+Revised: 2/2020
