@@ -1,56 +1,37 @@
 # 5 WARNINGS AND PRECAUTIONS
 
-## 5.1 Bone Marrow Suppression
+## 5.1 Myelosuppression
 
-Bone marrow suppression (primarily neutropenia) is the dose-limiting toxicity of topotecan.
-Neutropenia is not cumulative over time.
-Severe myelotoxicity has been reported when topotecan is used in combination with cisplatin [see Drug Interactions (7)].
+Topotecan can cause severe myelosuppression.
 
-- •The following data on myelosuppression are based on an integrated safety database from 8 trials (N = 879) using topotecan at 1.5 mg/m2 by intravenous infusion over 30 minutes daily for 5 consecutive days, starting on Day 1 of a 21-day course in patients with ovarian cancer and small cell lung cancer and from one trial in patients with cervical cancer (N = 147) using topotecan 0.75 mg/m2 by intravenous infusion over 30 minutes daily on Days 1, 2, and 3 repeated every 21 days in combination with cisplatin 50 mg/m2 on Day 1.
-
-Neutropenia
-
-- •Monotherapy: Grade 4 neutropenia (less than 500 cells/mm3) occurred in 78% of patients, with a median duration of 7 days and was most common during Course 1 of treatment (58% of patients).
-  Grade 4 neutropenia associated with infection occurred in 13% of patients and febrile neutropenia occurred in 5% of patients.
-  Sepsis occurred in 4% of patients and was fatal in 1% of patients.
-  Pancytopenia has been reported.
-- •Combination with cisplatin: Grade 4 neutropenia occurred in 48% of patients.
-
-Thrombocytopenia
-
-- •Monotherapy: Grade 4 thrombocytopenia (less than 25,000/mm3) occurred in 27% of patients, with a median duration of 5 days.
-- •Combination with cisplatin: Grade 4 thrombocytopenia occurred in 7% of patients.
-
-Anemia
-
-- •Monotherapy: Grade 3 or 4 anemia (less than 8 g/dL) occurred in 37% of patients.
-- •Combination with cisplatin: Grade 3 or Grade 4 anemia occurred in 40% of patients.
-
-Administer Topotecan injection only to patients with a baseline neutrophil count of greater than or equal to 1,500 cells/mm3 and a platelet count greater than or equal to 100,000/mm3.
-Monitor peripheral blood counts frequently during treatment with Topotecan injection.
-Refer to Section 2.4 for dose modification guidelines for hematological toxicities in subsequent courses.
-Do not treat patients with subsequent courses of Topotecan injection until neutrophils recover to greater than 1,000 cells/mm3, platelets recover to greater than 100,000 cells/mm3, and hemoglobin levels recover to 9.0 g/dL (with transfusion if necessary).
-
-## 5.2 Neutropenic Enterocolitis
+Grade 4 neutropenia occurred in 78% of 879 patients, with a median duration of 7 days and was most common during Cycle 1 (58% of patients).
+Grade 4 neutropenia associated with infection occurred in 13% and febrile neutropenia occurred in 5%.
+Sepsis occurred in 4% and was fatal in 1%.
+Grade 4 thrombocytopenia occurred in 27%, with a median duration of 5 days.
+Grade 3 or 4 anemia occurred in 37% of patients.
 
 Topotecan can cause fatal typhlitis (neutropenic enterocolitis).
 Consider the possibility of typhlitis in patients presenting with fever, neutropenia, and abdominal pain.
 
-## 5.3 Interstitial Lung Disease
+Administer the first cycle of Topotecan Injection only to patients with a baseline neutrophil count of greater than or equal to 1,500/mm3 and a platelet count greater than or equal to 100,000/mm3.
+Monitor blood counts frequently during treatment.
+Withhold and reduce dose of Topotecan Injection based on neutrophil counts, platelet counts and hemoglobin levels [see Dosage and Administration (2.3)].
 
-Interstitial lung disease (ILD), including fatalities, has occurred with Topotecan.
+## 5.2 Interstitial Lung Disease
+
+Interstitial lung disease (ILD), including fatalities, has occurred with topotecan [see Adverse Reactions (6.2)].
 Underlying risk factors include history of ILD, pulmonary fibrosis, lung cancer, thoracic radiation, and use of pneumotoxic drugs and/or colony stimulating factors.
-Monitor patients for pulmonary symptoms indicative of ILD (e.g., cough, fever, dyspnea, and/or hypoxia), and discontinue Topotecan injection if a new diagnosis of ILD is confirmed.
+Monitor patients for pulmonary symptoms indicative of ILD (e.g., cough, fever, dyspnea, and/or hypoxia), and discontinue Topotecan Injection if a new diagnosis of ILD is confirmed.
 
-## 5.4 Embryofetal Toxicity
-
-Based on animal data, Topotecan injection can cause fetal harm when administered to a pregnant woman.
-
-Topotecan caused embryolethality, fetotoxicity, and teratogenicity in rats and rabbits when administered during organogenesis.
-Advise females of reproductive potential to use effective contraception during treatment and for at least 1 month after the last dose of Topotecan.
-Advise women of the potential risk to a fetus [see Use in Specific Populations (8.1, 8.3)].
-
-## 5.5 Extravasation and Tissue Injury
+## 5.3 Extravasation and Tissue Injury
 
 Extravasation with topotecan has been observed; severe cases have been reported.
-If signs or symptoms of extravasation occur, immediately stop administration of Topotecan and institute recommended management procedures [see Adverse Reactions (6)].
+If signs or symptoms of extravasation occur, immediately stop administration of Topotecan Injection and institute recommended management procedures [see Adverse Reactions (6.2)].
+
+## 5.4 Embryo-Fetal Toxicity
+
+Based on animal data, topotecan can cause fetal harm when administered to a pregnant woman.
+Topotecan caused embryolethality, fetotoxicity, and teratogenicity in rats and rabbits when administered during organogenesis.
+Advise women of the potential risk to a fetus.
+Advise females of reproductive potential to use effective contraception during treatment and for 6 months after the last dose of Topotecan Injection.
+Advise males with a female partner of reproductive potential to use effective contraception during treatment with Topotecan Injection and for 3 months after the last dose [see Use in Specific Populations (8.1, 8.3), Nonclinical Toxicology (13.1)].

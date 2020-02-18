@@ -1,67 +1,76 @@
 # 6 ADVERSE REACTIONS
 
-The following serious adverse reactions are described below and elsewhere in the labeling:
+The following serious adverse reactions are described elsewhere in the labeling:
 
-- •Bone Marrow Suppression [see Warnings and Precautions (5.1)]
-- •Neutropenic Enterocolitis [see Warnings and Precautions (5.2)]
-- •Interstitial Lung Disease [see Warnings and Precautions (5.3)]
-- •Extravasation and Tissue Injury [see Warnings and Precautions (5.5)]
+- Myelosuppression [see Warnings and Precautions (5.1)]
+- Interstitial Lung Disease [see Warnings and Precautions (5.2)]
+- Extravasation and Tissue Injury [see Warnings and Precautions (5.3)]
 
 ## 6.1 Clinical Trials Experience
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared with rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-Small Cell Lung Cancer
+The data in Warnings and Precautions reflect exposure to topotecan from 8 trials in which 879 patients with small cell lung cancer (SCLC) and other solid tumors received topotecan 1.5 mg/m2 by intravenous infusion daily for 5 consecutive days, starting on Day 1 of a 21-day cycle.
 
-Table 1 shows the Grade 3/4 hematologic and major non-hematologic adverse reactions in the Topotecan/CAV (cyclophosphamide-doxorubicin-vincristine) comparator trial in small cell lung cancer.
+Small Cell Lung Cancer (SCLC)
+
+The safety of topotecan was evaluated in randomized, comparative trial in patients with recurrent or progressive SCLC (Study 090) [see Clinical Studies (14.1)].
+Table 1 shows the Grade 3 or 4 hematologic and non-hematologic adverse reactions in patients with SCLC.
 
 Table 1.
-Adverse Reactions Experienced by ≥5% of Small Cell Lung Cancer Patients Randomized to Receive Topotecan or CAV
+Adverse Reactions Occurring in ≥5% of Patients with Small Cell Lung Cancer in Study 090
 
-| Adverse Reaction | Topotecan(n = 107) | CAV(n = 104) |
+| Grade 3–4 (%) | Grade 3–4 (%) |  |
 | --- | --- | --- |
-| Hematologic Grade 3/4 | % | % |
-| Grade 4 neutropenia (<500 cells/mm3) | 70 | 72 |
-| Grade 3/4 anemia (Hgb <8 g/dL) | 42 | 20 |
-| Grade 4 thrombocytopenia (<25,000 plts/mm3) | 29 | 5 |
+| Adverse Reactions | Topotecan (n = 107) | CAVCAV = cyclophosphamide, doxorubicin and vincristine. (n = 104) |
+| Hematologic |  |  |
+| Grade 4 neutropenia (< 500/mm3) | 70 | 72 |
+| Grade 3 or 4 anemia (Hgb < 8 g/dL) | 42 | 20 |
+| Grade 4 thrombocytopenia (< 25,000/mm3) | 29 | 5 |
 | Febrile neutropenia | 28 | 26 |
-| Non-hematologic Grade 3/4 | % | % |
-| Infections and infestations Sepsisa | 5 | 5 |
-| Respiratory, thoracic, and mediastinal disorders Dyspnea Pneumonia | 98 | 146 |
-| Gastrointestinal disorders Abdominal pain Nausea | 68 | 46 |
-| General disorders and administrative site conditions Fatigue Asthenia Painb | 695 | 1077 |
-| a Death related to sepsis occurred in 3% of patients receiving Topotecan and 1% of patients receiving CAV. b Pain includes body pain, skeletal pain, and back pain. |  |  |
+| Non-Hematologic |  |  |
+| Respiratory, thoracic, and mediastinal |  |  |
+| Dyspnea | 9 | 14 |
+| Pneumonia | 8 | 6 |
+| General and administrative site conditions |  |  |
+| Asthenia | 9 | 7 |
+| Fatigue | 6 | 10 |
+| PainPain includes body pain, skeletal pain, and back pain. | 5 | 7 |
+| Gastrointestinal |  |  |
+| Nausea | 8 | 6 |
+| Abdominal pain | 6 | 4 |
+| Infections |  |  |
+| SepsisDeath related to sepsis occurred in 3% of patients receiving topotecan and 1% of patients receiving CAV. | 5 | 5 |
 
-Hepatobiliary Disorders in Small Cell Lung Cancer Patients Receiving Topotecan: Based on 426 patients with small cell lung cancer treated with topotecan, Grade 1 transient elevations in hepatic enzymes occurred in 8% of patients.
-Grade 3/4 elevations occurred in 4%.
-Grade 3/4 elevated bilirubin occurred in less than 2% of patients.
+Hepatobiliary Disorders
+
+Based on 879 patients with small cell lung cancer or another solid tumor who were treated with topotecan, Grade 3 or 4 elevated aspartate (AST) or alanine transaminase (ALT) occurred in 4% and Grade 3 or 4 elevated bilirubin occurred in less than 2% of patients.
 
 ## 6.2 Postmarketing Experience
 
-The following reactions have been identified during postmarketing use of topotecan.
-Because they are reported voluntarily from a population of unknown size, estimates of frequency cannot be made.
-These reactions have been chosen for inclusion due to a combination of their seriousness, frequency of reporting, or potential causal connection to topotecan.
+The following reactions have been identified during postapproval use of topotecan.
+Because these reactions are reported voluntarily from a population of unknown size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Blood and Lymphatic System Disorders
+Blood and Lymphatic System
 
-Severe bleeding (in association with thrombocytopenia) [see Warnings and Precautions (5.1)].
+Severe bleeding (in association with thrombocytopenia)
 
-Immune System Disorders
+Hypersensitivity
 
-Allergic manifestations, anaphylactoid reactions.
+Allergic manifestations, anaphylactoid reactions, angioedema
 
-Gastrointestinal Disorders
+Gastrointestinal
 
-Abdominal pain potentially associated with neutropenic enterocolitis [see Warnings and Precautions (5.2)].
+Abdominal pain potentially associated with neutropenic enterocolitis, gastrointestinal perforation
 
-Pulmonary Disorders
+Pulmonary
 
-Interstitial lung disease [see Warnings and Precautions (5.3)].
+Interstitial lung disease
 
-Skin and Subcutaneous Tissue Disorders
+Skin and Subcutaneous Tissue
 
-Angioedema, severe dermatitis, severe pruritus.
+Severe dermatitis, severe pruritus
 
-General Disorders and Administration Site Conditions
+General and Administration Site Conditions
 
-Extravasation [see Warnings and Precautions (5.5)].
+Extravasation, mucosal inflammation
