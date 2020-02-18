@@ -153,3 +153,11 @@ In such patients, the drug should be used only under close supervision.
 
 Drugs which lower the seizure threshold, including phenothiazine derivatives, should not be used with metrizamide.
 As with other phenothiazine derivatives, prochlorperazine should be discontinued at least 48 hours before myelography, should not be resumed for at least 24 hours postprocedure, and should not be used for the control of nausea and vomiting occurring either prior to myelography with metrizamide or postprocedure.
+
+Geriatric Use
+
+Clinical studies of prochlorperazine did not include sufficient numbers of subjects aged 65 and over to determine whether elderly subjects respond differently from younger subjects.
+Geriatric patients are more sensitive to the side effects of antipsychotics, including prochlorperazine.
+These adverse events include hypotension, anticholinergic effects (such as urinary retention, constipation, and confusion), and neuromuscular reactions (such as parkinsonism and tardive dyskinesia) (see PRECAUTIONS and ADVERSE REACTIONS).
+Also, postmarketing safety experience suggests that the incidence of agranulocytosis may be higher in geriatric patients compared to younger individuals who received prochlorperazine.
+In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy (see DOSAGE AND ADMINISTRATION).

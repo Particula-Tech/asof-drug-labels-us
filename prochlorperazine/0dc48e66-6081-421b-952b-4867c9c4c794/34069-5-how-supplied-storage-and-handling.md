@@ -6,7 +6,7 @@ Prochlorperazine Edisylate Injection, USP is supplied as follows:
 
 | NDC |  |
 | --- | --- |
-| 23155-294-41 23155-294-42 | 2 mL (10 mg) vials (NDC 23155-294-31) in packages of 25 2 mL (10 mg) vials (NDC 23155-294-31) in packages of 10 |
+| 23155-294-41 23155-294-42 | 2 mL (10 mg) multiple-dose vials (NDC 23155-294-31) in packages of 25 2 mL (10 mg) multiple-dose vials (NDC 23155-294-31) in packages of 10 |
 
 Storage
 
@@ -24,11 +24,10 @@ Sanand, Ahmedabad, India.
 
 Distributed by:
 
-Heritage Pharmaceuticals Inc.
+Avet Pharmaceuticals Inc.
 
 East Brunswick, NJ 08816
 
 1.866.901.DRUGS (3784)
 
-Rev.
-03/19
+Revised: 11/2019
