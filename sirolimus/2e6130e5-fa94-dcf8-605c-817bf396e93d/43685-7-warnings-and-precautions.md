@@ -17,11 +17,11 @@ The use of sirolimus has been associated with adverse outcomes in patients follo
 In a study in de novo liver transplant patients, the use of sirolimus in combination with tacrolimus was associated with excess mortality and graft loss (22% in combination versus 9% on tacrolimus alone).
 Many of these patients had evidence of infection at or near the time of death.
 
-In this and another study in de novo liver transplant patients, the use of sirolimus in combination with cyclosporine or tacrolimus was associated with an increase in HAT (7% in combination versus 2% in the control arm); most cases of HAT occurred within 30 days post- transplantation, and most led to graft loss or death.
+In this and another study in de novo liver transplant patients, the use of sirolimus in combination with cyclosporine or tacrolimus was associated with an increase in HAT (7% in combination versus 2% in the control arm); most cases of HAT occurred within 30 days post-transplantation, and most led to graft loss or death.
 
 In a clinical study in stable liver transplant patients 6 to 144 months post-liver transplantation and receiving a CNI-based regimen, an increased number of deaths was observed in the group converted to a sirolimus-based regimen compared to the group who was continued on a CNI- based regimen, although the difference was not statistically significant (3.8% versus 1.4%) [see Clinical Studies (14.5)].
 
-## 5.3 Lung Transplantation-Bronchial Anastomotic Dehiscence
+## 5.3 Lung Transplantation - Bronchial Anastomotic Dehiscence
 
 Cases of bronchial anastomotic dehiscence, most fatal, have been reported in de novo lung transplant patients when sirolimus has been used as part of an immunosuppressive regimen.
 
@@ -38,7 +38,7 @@ The concomitant use of sirolimus with other drugs known to cause angioedema, suc
 Elevated sirolimus levels (with/without concomitant ACE inhibitors) may also potentiate angioedema [see Drug Interactions (7.2)].
 In some cases, the angioedema has resolved upon discontinuation or dose reduction of sirolimus.
 
-## 5.6 Fluid Accumulation and Impairmentof Wound Healing
+## 5.6 Fluid Accumulation and Impairment of Wound Healing
 
 There have been reports of impaired or delayed wound healing in patients receiving sirolimus, including lymphocele and wound dehiscence [see Adverse Reactions (6.1)].
 Mammalian target of rapamycin (mTOR) inhibitors such as sirolimus have been shown in vitro to inhibit production of certain growth factors that may affect angiogenesis, fibroblast proliferation, and vascular permeability.
@@ -138,7 +138,7 @@ Advise female patients of reproductive potential to avoid becoming pregnant and 
 Azoospermia or oligospermia may be observed [see Adverse Reactions (6.2), Nonclinical Toxicology (13.1)].
 Sirolimus is an anti-proliferative drug and affects rapidly dividing cells like the germ cells.
 
-## 5.17 Different Sirolimus Trough Concentration Reported between Chromatographic and Immunoassay Methodologies
+## 5.17 Different Sirolimus Trough Concentrations Reported between Chromatographic and Immunoassay Methodologies
 
 Currently in clinical practice, sirolimus whole blood concentrations are being measured by various chromatographic and immunoassay methodologies.
 Patient sample concentration values from different assays may not be interchangeable [see Dosage and Administration (2.5)].
@@ -146,7 +146,7 @@ Patient sample concentration values from different assays may not be interchange
 ## 5.18 Skin Cancer Events
 
 Patients on immunosuppressive therapy are at increased risk for skin cancer.
-Exposure to sunlight and ultraviolet (UV) light should be limited by wearing protective clothing and using a broad spectrum sunscreen with a high protection factor[see Adverse Reactions (6.1, 6.2,6.7)].
+Exposure to sunlight and ultraviolet (UV) light should be limited by wearing protective clothing and using a broad spectrum sunscreen with a high protection factor [see Adverse Reactions (6.1, 6.2,6.7)].
 
 ## 5.19 Immunizations
 

@@ -152,13 +152,14 @@ Sirolimus may cause serious side effects, including:
   You should not become pregnant during treatment with sirolimus and for 12 weeks after ending treatment with sirolimus.
   See “What should I tell my doctor before taking sirolimus tablets?”.
 
-The most common side effects of sirolimus in people with renal tranplant include:
+The most common side effects of sirolimus in people with renal transplant include:
 
 - high blood pressure
 - pain (including stomach and joint pain)
 - diarrhea
 - headache
-- fever urinary tract infection
+- fever
+- urinary tract infection
 - low red blood cell count (anemia)
 - nausea
 - low platelet count (cells that help blood to clot)
@@ -194,7 +195,7 @@ Safely throw away medicine that is out of date or no longer needed.
 
 Keep sirolimus tablets and all medicines out of the reach of children.
 
-General Information about the safe and effective use of sirolimus
+General Information about the safe and effective use of sirolimus.
 
 Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide.
 Do not use sirolimus for a condition for which it was not prescribed.
@@ -209,9 +210,9 @@ For more information, call 1-888-375-3784.
 
 What are the ingredients in sirolimus tablets?
 
-Inactive ingredients: Sirolimus
+Active ingredients: Sirolimus
 
-The inactive ingredients: Sirolimus Tablets: carnauba wax, ethyl cellulose, hydroxypropyl methylcellulose 5 cps, lactose monohydrate, magnesium stearate, mannitol, microcrystalline cellulose (avicel pH 105), microcrystalline cellulose (avicel pH 200), poloxamer 188, polyethylene glycol 20000, polyethylene glycol 8000, sucrose, titanium dioxide, vitamin E preparation, seal coating agent opaglos clear NA 7150, and imprinting ink opacode red (S-1-15052).
+Inactive ingredients: Sirolimus Tablets: carnauba wax, ethyl cellulose, hydroxypropyl methylcellulose 5 cps, lactose monohydrate, magnesium stearate, mannitol, microcrystalline cellulose (avicel pH 105), microcrystalline cellulose (avicel pH 200), poloxamer 188, polyethylene glycol 20000, polyethylene glycol 8000, sucrose, titanium dioxide, vitamin E preparation, seal coating agent opaglos clear NA 7150, and imprinting ink opacode red (S-1-15052).
 The 2 mg dosage strength also contains iron oxide red and iron oxide yellow.
 
 Seal coating agent opaglos clear NA 7150 contains, acetylated monoglyceride, industrial methylated spirit 74 OP, povidone, and shellac.
@@ -228,7 +229,7 @@ Dr. Reddy’s Laboratories Limited
 
 Visakhapatnam – 530 046 INDIA
 
-Revised: 0719
+Revised: 1/2020
 
 Dispense with Medication Guide available at:
 

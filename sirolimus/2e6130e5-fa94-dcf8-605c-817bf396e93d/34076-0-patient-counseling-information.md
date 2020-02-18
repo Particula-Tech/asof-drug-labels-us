@@ -7,11 +7,11 @@ See FDA-Approved Medication Guide.
 
 ## 17.1 Dosage
 
-Patients should be given complete dosage instructions [see FDA-Approved Medication Guide]
+Patients should be given complete dosage instructions [see FDA-Approved Medication Guide].
 
 ## 17.2 Skin Cancer Events
 
-Advise patients should be told that exposure to sunlight and ultraviolet (UV) light should be limited by wearing protective clothing and using a broad spectrum sunscreen with a high protection factor because of the increased risk for skin cancer [see Warnings and Precautions (5.18)].
+Advise patients that exposure to sunlight and ultraviolet (UV) light should be limited by wearing protective clothing and using a broad spectrum sunscreen with a high protection factor because of the increased risk for skin cancer [see Warnings and Precautions (5.18)].
 
 ## 17.3 Pregnancy and Lactation
 

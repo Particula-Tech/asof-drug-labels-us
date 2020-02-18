@@ -30,7 +30,7 @@ There were no effects on embryo-fetal development at doses up to 0.05 mg/kg (0.5
 Maternal toxicity (decreased body weight) was observed at 0.05 mg/kg.
 The NOAEL for maternal toxicity was 0.025 mg/kg (0.25-fold the clinical dose of 2 mg).
 
-In a pre-and post-natal development study in rats, pregnant females were dosed during gestation and lactation (Gestational Day 6 through Lactation Day 20).
+In a pre- and post-natal development study in rats, pregnant females were dosed during gestation and lactation (Gestational Day 6 through Lactation Day 20).
 An increased incidence of dead pups, resulting in reduced live litter size, occurred at 0.5 mg/kg (2.5-fold the clinical dose of 2 mg/kg on a body surface area basis).
 At 0.1 mg/kg (0.5-fold the clinical dose of 2 mg), there were no adverse effects on offspring.
 Sirolimus did not cause maternal toxicity or affect developmental parameters in the surviving offspring (morphological development, motor activity, learning, or fertility assessment) at 0.5 mg/kg, the highest dose tested.

@@ -140,7 +140,7 @@ Study 3 was a randomized, multicenter, controlled trial conducted at 57 centers 
 Five hundred twenty-five (525) patients were enrolled.
 All patients in this study received the tablet formulation.
 This study compared patients who were administered sirolimus, cyclosporine, and corticosteroids continuously with patients who received this same standardized therapy for the first 3 months after transplantation (pre-randomization period) followed by the withdrawal of cyclosporine.
-During cyclosporine withdrawal, the sirolimus dosages were adjusted to achieve targeted sirolimus whole blood trough concentration ranges (16 to 24 ng/mL until month 12, then12 to 20 ng/mL thereafter, expressed as chromatographic assay values).
+During cyclosporine withdrawal, the sirolimus dosages were adjusted to achieve targeted sirolimus whole blood trough concentration ranges (16 to 24 ng/mL until month 12, then 12 to 20 ng/mL thereafter, expressed as chromatographic assay values).
 At 3 months, 430 patients were equally randomized to either continue sirolimus with cyclosporine therapy or to receive sirolimus as a maintenance regimen following cyclosporine withdrawal.
 
 Eligibility for randomization included no Banff Grade 3 acute rejection or vascular rejection episode in the 4 weeks before random assignment, serum creatinine ≤ 4.5 mg/dL, and adequate renal function to support cyclosporine withdrawal (in the opinion of the investigator).
@@ -154,7 +154,7 @@ TABLE 13: GRAFT AND PATIENT SURVIVAL (%): STUDY 3a
 
 | Parameter | Sirolimus with Cyclosporine Therapy (n = 215) | Sirolimus Following Cyclosporine Withdrawal (n = 215) |
 | --- | --- | --- |
-| Graft SurvivalMonth 12b | 95.3c | 97.2 |
+| Graft Survival Month 12b | 95.3c | 97.2 |
 | Month 24 | 91.6 | 94.0 |
 | Month 36d | 87.0 | 91.6 |
 | Patient Survival |  |  |
@@ -177,7 +177,7 @@ TABLE 14: INCIDENCE OF FIRST BIOPSY-PROVEN ACUTE REJECTION (%) BY TREATMENT GROU
 | Period | Sirolimus with Cyclosporine Therapy (n = 215) | Sirolimus Following Cyclosporine Withdrawal (n = 215) |
 | --- | --- | --- |
 | Pre-randomizationc | 9.3 | 10.2 |
-| Post-randomization through12 monthsc | 4.2 | 9.8 |
+| Post-randomization through 12 monthsc | 4.2 | 9.8 |
 | Post-randomization from 12 to | 1.4 | 0.5 |
 | 36 months |  |  |
 | Post-randomization through | 5.6 | 10.2 |
@@ -238,14 +238,14 @@ TABLE 16: EFFICACY FAILURE, GRAFT LOSS OR DEATH AND CALCULATED GLOMERULAR FUNCTI
 | --- | --- |
 | Efficacy Failure (%) | 23.2 |
 | Graft Loss or Death (%) | 9.8 |
-| Renal Function (mean ± SEM)a,b | 52.6 ± 1.6(n = 222) |
+| Renal Function (mean ± SEM)a,b | 52.6 ± 1.6 (n = 222) |
 
 a: Calculated glomerular filtration rate by Nankivell equation.
 
 b: Patients who had graft loss were included in this analysis with GFR set to 0.
 
 Patient survival at 12 months was 94.6%.
-The incidence of biopsy-confirmed acute rejection was17.4% and the majority of the episodes of acute rejection were mild in severity.
+The incidence of biopsy-confirmed acute rejection was 17.4% and the majority of the episodes of acute rejection were mild in severity.
 
 ## 14.4 Conversion from Calcineurin Inhibitors to Sirolimus in Maintenance Renal Transplant Patients
 
