@@ -69,9 +69,8 @@ Table 2: Primary Endpoint Events (Study 4)
 | Disease progression |  | 5.5 | 14.5 | 0.39 (0.23, 0.66) |  |
 |  | This → | 15% decrease in 6MWD | 5.5 | 14.5 |  |
 |  | Plus one of these | Increase in WHO functional class | 2.6 | 8.1 |  |
-|  | Increased RHF symptoms | 2.9 | 6.4 |  |  |
-| 6MWD - 6-minute walk distance; CI - confidence interval; HR - hazard ratio; IV PGI2 - intravenously administered prostacyclin; |  |  |  |  |  |
-| PAH - pulmonary arterial hypertension; RHF - right heart failure; WHO - World Health Organization |  |  |  |  |  |
+|  |  | Increased RHF symptoms | 2.9 | 6.4 |  |
+| 6MWD - 6-minute walk distance; CI - confidence interval; HR - hazard ratio; IV PGI2 - intravenously administered prostacyclin; PAH - pulmonary arterial hypertension; RHF - right heart failure; WHO - World Health Organization |  |  |  |  |  |
 
 Figure 6: Kaplan-Meier Plot of Time to Disease Progression for the Primary Analysis Population (Study 4)
 
