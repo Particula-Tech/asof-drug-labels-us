@@ -54,6 +54,10 @@ Overestimating the hydromorphone hydrochloride tablets dosage when converting pa
 
 Accidental ingestion of even one dose of hydromorphone hydrochloride tablets, especially by children, can result in respiratory depression and death due to an overdose of hydromorphone.
 
+Opioids can cause sleep-related breathing disorders including central sleep apnea (CSA) and sleep-related hypoxemia.
+Opioid use increases the risk of CSA in a dose-dependent fashion.
+In patients who present with CSA, consider decreasing the opioid dosage using best practices for opioid taper [see Dosage and Administration (2.6)].
+
 ## 5.5 Neonatal Opioid Withdrawal Syndrome
 
 Prolonged use of hydromorphone hydrochloride tablets during pregnancy can result in withdrawal in the neonate.
@@ -130,11 +134,12 @@ Monitor patients with a history of seizure disorders for worsened seizure contro
 
 ## 5.13 Withdrawal
 
-Avoid the use of mixed agonist/antagonist (e.g., pentazocine, nalbuphine, and butorphanol) or partial agonist (e.g., buprenorphine) analgesics in patients who are receiving a full opioid agonist analgesic, including hydromorphone hydrochloride tablets.
-In these patients, mixed agonist/antagonist and partial agonist analgesics may reduce the analgesic effect and/or precipitate withdrawal symptoms [see Drug Interactions (7)].
+Do not abruptly discontinue hydromorphone hydrochloride tablets in a patient physically dependent on opioids.
+When discontinuing hydromorphone hydrochloride tablets in a physically dependent patient, gradually taper the dosage.
+Rapid tapering of hydromorphone in a patient physically dependent on opioids may lead to a withdrawal syndrome and return of pain [see Dosage and Administration (2.6), Drug Abuse and Dependence (9.3)].
 
-When discontinuing hydromorphone hydrochloride tablets in a physically-dependent patient, gradually taper the dosage [see Dosage and Administration (2.6)].
-Do not abruptly discontinue hydromorphone hydrochloride tablets in these patients [see Drug Abuse and Dependence (9.3)].
+Additionally, avoid the use of mixed agonist/antagonist (e.g., pentazocine, nalbuphine, and butorphanol) or partial agonist (e.g., buprenorphine) analgesics in patients who are receiving a full opioid agonist analgesic, including hydromorphone hydrochloride tablets.
+In these patients, mixed agonist/antagonist and partial agonist analgesics may reduce the analgesic effect and/or precipitate withdrawal symptoms [see Drug Interactions (7)].
 
 ## 5.14 Risks of Driving and Operating Machinery
 

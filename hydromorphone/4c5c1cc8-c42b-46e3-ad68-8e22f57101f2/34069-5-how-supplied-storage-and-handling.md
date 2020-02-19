@@ -15,6 +15,8 @@ Hydromorphone Hydrochloride Tablets USP, 8 mg are available as a white to off-wh
 Bottles of 100...................................
 NDC 0406-3249-01
 
-Store at 25°C (77°F); excursions permitted to 15° to 30°C (59° to 86°F) [see USP Controlled Room Temperature].
+Store at 20° to 25°C (68° to 77°F) [see USP Controlled Room Temperature].
 
 Protect from light.
+
+Store hydromorphone hydrochloride tablets securely and dispose of properly [see Patient Counseling Information (17)].

@@ -12,7 +12,7 @@ The following serious adverse reactions are described, or described in greater d
 - Seizures [see Warnings and Precautions (5.12)]
 - Withdrawal [see Warnings and Precautions (5.13)]
 
-## 6.1 Clinical Trial Experience
+## 6.1 Clinical Trials Experience
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
 
