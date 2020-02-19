@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA210425"
+  ],
+  "inn": "colchicine",
+  "labeler": "Granules Pharmaceuticals Inc.",
+  "package_ndcs": [
+    "70010-002-01",
+    "70010-002-03"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "colchicine",
+      "name": "Colchicine"
+    }
+  ],
+  "setid": "dcf97364-b35f-4bc9-8a92-d3d2e05f47ac",
+  "source": "dailymed"
+}
