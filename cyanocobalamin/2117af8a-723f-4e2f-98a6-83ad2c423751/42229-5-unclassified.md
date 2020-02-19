@@ -1,8 +1,10 @@
 Rx Only
 
-Product of France Manufactured By: UBI Pharma, Inc. Hsin Chu Hsien 30351, Taiwan Manufactured for: Vitruvias Therapeutics Auburn, Alabama 36830
+Product of France Manufactured By: UBI Pharma, Inc. Hsin Chu Hsien 30351, Taiwan
 
-Code No.: I112-01 0419R2 Revised: 04/2019
+Manufactured for: Vitruvias Therapeutics Auburn, Alabama 36830
+
+Code No.: I112-01 1219R3 Revised: 12/2019
 
 To request additional information or if you have questions concerning this drug please phone Vitruvias Therapeutics at 1-844-451-5944.
 
