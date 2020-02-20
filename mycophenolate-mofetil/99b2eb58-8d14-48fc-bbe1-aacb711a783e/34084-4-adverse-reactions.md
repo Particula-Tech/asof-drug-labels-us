@@ -161,7 +161,7 @@ Because these reactions are reported voluntarily from a population of uncertain 
 - -Cardiac abnormalities: atrial and ventricular septal defects
 - -Esophageal malformations: esophageal atresia
 - -Nervous system malformations: such as spina bifida.
-- •Digestive: colitis, pancreatitis
+- •Digestive: Colitis, pancreatitis
 - •Hematologic and Lymphatic: Bone marrow failure, cases of pure red cell aplasia (PRCA) and hypogammaglobulinemia have been reported in patients treated with mycophenolate mofetil in combination with other immunosuppressive agents [see Warnings and Precautions (5.4)].
 - •Immune: Hypersensitivity, hypogammaglobinemia.
 - •Infections: Meningitis, infectious endocarditis, tuberculosis, atypical mycobacterial infection, progressive multifocal leukoencephalopathy, BK virus infection, viral reactivation of hepatitis B and hepatitis C, protozoal infections [see Warnings and Precautions (5.3)].

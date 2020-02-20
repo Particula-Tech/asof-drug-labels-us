@@ -12,7 +12,7 @@ In all three de novo kidney transplantation studies, the primary efficacy endpoi
 Treatment failure was defined as biopsy-proven acute rejection on treatment or the occurrence of death, graft loss or early termination from the study for any reason without prior biopsy-proven rejection.
 
 Mycophenolate mofetil, in combination with corticosteroids and cyclosporine, reduced (statistically significant at 0.05 level) the incidence of treatment failure within the first 6 months following transplantation (Table 11).
-Patients who prematurely discontinued treatment were followed for the occurrence of death or graft loss, and the cumulative incidence of graft loss and patient death combined are summarized in Table 11.
+Patients who prematurely discontinued treatment were followed for the occurrence of death or graft loss, and the cumulative incidence of graft loss and patient death combined are summarized in Table 12.
 Patients who prematurely discontinued treatment were not followed for the occurrence of acute rejection after termination.
 
 Table 11.

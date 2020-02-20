@@ -27,7 +27,7 @@ Contraception
 ## 17.2 Development of Lymphoma and Other Malignancies
 
 - •Inform patients that they are at increased risk of developing lymphomas and other malignancies, particularly of the skin, due to immunosuppression [see Warnings and Precautions (5.2)].
-- •Advise patients to limit exposure to sunlight and ultraviolet (UV) light by wearing protective clothing and use of sunscreen with high protection factor.
+- •Advise patients to limit exposure to sunlight and ultraviolet (UV) light by wearing protective clothing and use of broad-spectrum sunscreen with high protection factor.
 
 ## 17.3 Increased Risk of Serious Infections
 
@@ -47,8 +47,7 @@ Advise the patient to contact their healthcare provider if they have symptoms of
 ## 17.6 Immunizations
 
 Inform patients that mycophenolate mofetil can interfere with the usual response to immunizations.
-Before seeking vaccines on their own, advise patients to discuss first with their physician.
-[See Warnings and Precautions (5.7)].
+Before seeking vaccines on their own, advise patients to discuss first with their physician [see Warnings and Precautions (5.7)].
 
 ## 17.7 Administration Instructions
 
