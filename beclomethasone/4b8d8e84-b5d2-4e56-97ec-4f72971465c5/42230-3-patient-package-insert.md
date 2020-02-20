@@ -12,10 +12,19 @@
 | General information about the safe and effective use of QNASL Nasal AerosolMedicines are sometimes prescribed for purposes other than those listed in a Patient Information leaflet. Do not use QNASL Nasal Aerosol for a condition for which it was not prescribed. Do not give QNASL Nasal Aerosol to other people, even if they have the same symptoms that you or your child has. It may harm them.You can ask your pharmacist or healthcare provider for information about QNASL Nasal Aerosol that is written for health professionals. |
 | What are the ingredients in QNASL Nasal Aerosol?Active ingredient: beclomethasone dipropionateInactive ingredient: propellant HFA-134a and dehydrated ethanolFor more information, go to www.QNASL.com or call 1-855-55-QNASL (1-855-557-6275). |
 
-QNSPL-001
+Distributed by:
+
+Teva Pharmaceuticals USA, Inc.
+
+Parsippany, NJ 07054
+
+© 2020, Teva Respiratory, LLC.
+All rights reserved.
+
+QNSPL-002
 
 Rev.
-03/2018
+02/2020
 
 PLEASE SEE REVERSE SIDE FOR INSTRUCTIONS FOR USE.
 
@@ -31,7 +40,7 @@ Note: For Use in the Nose Only.
 
 - Do not spray QNASL Nasal Aerosol in your eyes, mouth or directly onto your nasal septum (the wall between your 2 nostrils).
 
-The parts of your QNASL Nasal Aerosol
+The Parts of Your QNASL Nasal Aerosol
 
 The QNASL Nasal Aerosol device comes as a canister that fits into a nasal actuator with a built-in spray counter and protective dust cap.
 (See Figure A).
@@ -67,16 +76,16 @@ Step 9: You should not blow your nose for the next 15 minutes.
 Note: The spray counter will count down each time there is a spray released from your QNASL Nasal Aerosol device.
 
 Step 10: Clean and store your device.
-See "Cleaning Your QNASL Nasal Aerosol device."
+See "Cleaning Your QNASL Nasal Aerosol Device."
 
-Cleaning Your QNASL Nasal Aerosol device
+Cleaning Your QNASL Nasal Aerosol Device
 
 - Wipe the nasal actuator tip with a clean, dry tissue or cloth (See Figure F).
 - Do NOT wash or put any part of the QNASL Nasal Aerosol canister or actuator in water (See Figure G).
 - Replace the protective dust cap.
 - Keep your device clean and dry at all times.
 
-How to know when to stop using your QNASL Aerosol device
+How to Know When to Stop Using your QNASL Aerosol Device
 
 - The QNASL Nasal Aerosol device has a spray counter, which is there to let you know how many sprays of medicine you have left.
 - Do not use your QNASL Nasal Aerosol device when 0 is shown in the spray counter window (See Figure H).
@@ -85,28 +94,19 @@ How to know when to stop using your QNASL Aerosol device
 - Do not throw your QNASL Nasal Aerosol canister into a fire or an incinerator.
 - Talk with your healthcare provider before your QNASL Nasal Aerosol medicine runs out to see if you should get a refill.
 
-Manufactured for:
+Distributed by:
 
-Teva Respiratory, LLC
+Teva Pharmaceuticals USA, Inc.
 
-Frazer, PA 19355
+Parsippany, NJ 07054
 
-By:
-
-Norton (Waterford) Limited
-
-Unit 301, IDA Industrial Park, Cork Road
-
-Waterford, Ireland
-
-©2018 Teva Respiratory, LLC
-
+©2020 Teva Respiratory, LLC.
 All rights reserved.
 
-QNSIFU80-001
+QNSIFU80-002
 
 Rev.
-03/2018
+02/2020
 
 This Patient Information and Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
@@ -122,7 +122,7 @@ Note: For Use in the Nose Only.
 
 - Do not spray QNASL Nasal Aerosol in the eyes, mouth or directly onto the nasal septum (the wall between the 2 nostrils).
 
-The parts of your QNASL Nasal Aerosol
+The Parts of Your QNASL Nasal Aerosol
 
 The QNASL Nasal Aerosol device comes as a canister that fits into a nasal actuator with a built-in spray counter and protective dust cap.
 (See Figure A)
@@ -134,7 +134,7 @@ The QNASL Nasal Aerosol device comes as a canister that fits into a nasal actuat
 
 - You do not need to prime the QNASL Nasal Aerosol device..
 
-Using the QNASL Nasal Aerosol 40 mcg device in Children 4 years to 11 Years of Age
+Using the QNASL Nasal Aerosol 40 mcg Device in Children 4 Years to 11 Years of Age
 
 Children may need help from parents, guardians or caregivers.
 
@@ -156,16 +156,16 @@ Step 8: Your child should not blow their nose for the next 15 minutes.
 Note: The spray counter will count down each time there is a spray released from the QNASL Nasal Aerosol device.
 
 Step 9: Clean and store the device.
-See "Cleaning the QNASL Nasal Aerosol device."
+See "Cleaning the QNASL Nasal Aerosol Device."
 
-Cleaning the QNASL Nasal Aerosol device
+Cleaning the QNASL Nasal Aerosol Device
 
 - Wipe the nasal actuator tip with a clean, dry tissue or cloth (See Figure F).
 - Do NOT wash or put any part of the QNASL Nasal Aerosol canister or actuator in water (See Figure G).
 - Replace the protective dust cap.
 - Keep QNASL Nasal Aerosol device clean and dry at all times.
 
-How to know when to stop using the QNASL Nasal Aerosol device
+How to Know When to Stop Using the QNASL Nasal Aerosol Device
 
 - The QNASL Nasal Aerosol device has a spray counter, which is there to let you know how many sprays of medicine are left.
 - Do not use the QNASL Nasal Aerosol device when 0 is shown in the spray counter window (See Figure H).
@@ -174,27 +174,18 @@ How to know when to stop using the QNASL Nasal Aerosol device
 - Do not throw the QNASL Nasal Aerosol canister into a fire or an incinerator.
 - Talk with the healthcare provider before the QNASL Nasal Aerosol medicine runs out to see if you should get a refill.
 
-Manufactured for:
+Distributed by:
 
-Teva Respiratory, LLC
+Teva Pharmaceuticals USA, Inc.
 
-Frazer, PA 19355
+Parsippany, NJ 07054
 
-By:
-
-Norton (Waterford) Limited
-
-Unit 301, IDA Industrial Park, Cork Road
-
-Waterford, Ireland
-
-©2018 Teva Respiratory, LLC
-
+©2020 Teva Respiratory, LLC.
 All rights reserved.
 
-QNSIFU40-001
+QNSIFU40-002
 
 Rev.
-03/2018
+02/2020
 
 This Patient Information and Instructions for Use has been approved by the U.S. Food and Drug Administration.

@@ -12,7 +12,7 @@ Patients who have experienced recent nasal ulcers, nasal surgery, or nasal traum
 ## 17.2 Eye Disorders
 
 Inform patients that blurred vision, glaucoma and cataracts are associated with nasal and inhaled corticosteroid use.
-Patients should inform their health care providers if a change in vision is noted while using QNASL Nasal Aerosol [see Warnings and Precautions (5.2)].
+Patients should inform their healthcare providers if a change in vision is noted while using QNASL Nasal Aerosol [see Warnings and Precautions (5.2)].
 
 ## 17.3 Hypersensitivity Reactions Including Anaphylaxis
 
@@ -35,24 +35,15 @@ The patient should not increase the prescribed dosage but should contact their p
 
 Patients should be informed to avoid spraying QNASL Nasal Aerosol in their eyes or mouth.
 
-Manufactured for:
+Distributed by:
 
-Teva Respiratory, LLC
+Teva Pharmaceuticals USA, Inc.
 
-Frazer, PA 19355
+Parsippany, NJ 07054
 
-By:
-
-Norton (Waterford) Limited
-
-Unit 301, IDA Industrial Park, Cork Road Waterford, Ireland
-
-©2018, Teva Respiratory, LLC.
+©2020, Teva Respiratory, LLC.
 All rights reserved.
 
-United States Patent Nos. 7,780,038
+United States Patent No. 7,780,038
 
-QNSPI-001
-
-Rev.
-03/2018
+QNSPI-002

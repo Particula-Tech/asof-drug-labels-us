@@ -52,7 +52,7 @@ Based on the results from the dose ranging trial, 80 mcg once daily was chosen a
 
 Less than 1.5% of patients in the clinical trials discontinued treatment because of adverse reactions with the rate of withdrawal among patients who received QNASL Nasal Aerosol 80 mcg once daily similar to or lower than the rate among patients who received placebo.
 Table 2 displays the common adverse reactions (≥ 2% and greater than placebo-treated patients).
-Additionally, epistaxis was reported at a rate of 4% for both QNASL Nasal Aerosol 80 mcg once daily and placebo treated patients.
+Additionally, epistaxis was reported at a rate of 4% for both QNASL Nasal Aerosol 80 mcg once daily and placebo-treated patients.
 
 | Table 2. Adverse Events With ≥ 2% Incidence and Greater than Placebo in QNASL Nasal Aerosol-Treated Pediatric Patients with Seasonal or Perennial Allergic Rhinitis in Controlled Clinical Trials of 2 to 12 weeks Duration (Safety Population) |  |  |
 | --- | --- | --- |
