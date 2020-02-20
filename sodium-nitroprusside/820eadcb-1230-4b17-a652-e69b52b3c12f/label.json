@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA211016"
+  ],
+  "inn": "sodium-nitroprusside",
+  "labeler": "Meitheal Pharmaceuticals Inc.",
+  "package_ndcs": [
+    "71288-202-02"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "sodium nitroprusside",
+      "name": "Sodium Nitroprusside"
+    }
+  ],
+  "setid": "820eadcb-1230-4b17-a652-e69b52b3c12f",
+  "source": "dailymed"
+}
