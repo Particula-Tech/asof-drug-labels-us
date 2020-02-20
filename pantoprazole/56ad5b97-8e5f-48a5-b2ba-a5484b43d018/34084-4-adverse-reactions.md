@@ -9,7 +9,6 @@ The following serious adverse reactions are described below and elsewhere in lab
 - •Cyanocobalamin (Vitamin B-12) Deficiency [see Warnings and Precautions (5.6)]
 - •Hypomagnesemia [see Warnings and Precautions (5.7)]
 - •Fundic Gland Polyps [see Warnings and Precautions (5.9)]
-- •
 
 ## 6.1 Clinical Trials Experience
 
