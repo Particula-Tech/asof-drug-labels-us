@@ -13,7 +13,7 @@ Infrequently, signs and symptoms of glucocorticoid insufficiency may occur requi
 For information on systemic supplementation, see prescribing information for those products.
 
 Children may be more susceptible to systemic toxicity from equivalent doses due to their larger skin surface to body mass ratios.
-(See PRECAUTIONS-Pediatric use)
+"(See PRECAUTIONS-Pediatric use)"
 
 Allergic contact dermatitis to any component of topical corticosteroids is usually diagnosed by a failure to heal rather than noting a clinical exacerbation, which may occur with most topical products not containing corticosteroids.
 Such an observation should be corroborated with appropriate diagnostic testing.

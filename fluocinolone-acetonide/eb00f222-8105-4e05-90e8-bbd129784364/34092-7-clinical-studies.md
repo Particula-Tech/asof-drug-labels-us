@@ -13,5 +13,5 @@ Of the 13 patients, 9 were Radioallergosorbent Test (RAST) positive to peanuts a
 The study evaluated the responses to both prick test and patch test utilizing peanut oil NF, Derma-Smoothe/FS® Topical Oil and histamine/saline controls on the 13 individuals.
 These subjects were also treated with Derma-Smoothe/FS® Topical Oil twice daily for 7 days.
 Prick test and patch test results for all 13 patients were negative to Derma-Smoothe/FS® Topical Oil and the refined peanut oil.
-One of the 9 peanut-sensitive patients experienced an exacerbation of atopic dermatitis after 5 days of Derma-Smoothe/FS Topical Oil use.
+One of the 9 peanut-sensitive patients experienced an exacerbation of atopic dermatitis after 5 days of Derma-Smoothe/FS® Topical Oil use.
 Importantly, the bulk peanut oil NF, used in Derma-Smoothe/FS® Topical Oil is heated at 475° F for at least 15 minutes, which should provide for adequate decomposition of allergenic proteins.
