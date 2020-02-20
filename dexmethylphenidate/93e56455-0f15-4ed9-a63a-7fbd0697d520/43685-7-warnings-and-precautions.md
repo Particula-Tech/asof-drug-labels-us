@@ -44,9 +44,9 @@ Patients who develop abnormally sustained or frequent and painful erections shou
 
 ## 5.6 Peripheral Vasculopathy, Including Raynaud’s Phenomenon
 
-Stimulants, including dexmethylphenidate hydrochloride extended-release, used to treat ADHD are associated with peripheral vasculopathy, including Raynaud’s phenomenon.
+CNS stimulants, including dexmethylphenidate hydrochloride extended-release, used to treat ADHD are associated with peripheral vasculopathy, including Raynaud’s phenomenon.
 Signs and symptoms are usually intermittent and mild; however, very rare sequelae include digital ulceration and/or soft tissue breakdown.
-Effects of peripheral vasculopathy, including Raynaud’s phenomenon, were observed in postmarketing reports at different times and at therapeutic doses in all age groups throughout the course of treatment.
+Effects of peripheral vasculopathy, including Raynaud’s phenomenon, were observed in post-marketing reports at different times and at therapeutic doses in all age groups throughout the course of treatment.
 Signs and symptoms generally improve after reduction in dose or discontinuation of drug.
 Careful observation for digital changes is necessary during treatment with ADHD stimulants.
 Further clinical evaluation (e.g., rheumatology referral) may be appropriate for certain patients.

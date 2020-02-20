@@ -4,8 +4,8 @@ Advise patients to read the FDA-approved patient labeling (Medication Guide).
 
 Controlled Substance Status/High Potential for Abuse and Dependence
 
-Advise patients that dexmethylphenidate hydrochloride extended-release is a controlled substance, and it can be abused and lead to dependence.
-Instruct patients that they should not give dexmethylphenidate hydrochloride extended-release to anyone else.
+Advise patients that dexmethylphenidate hydrochloride extended-release capsules is a controlled substance, and it can be abused and lead to dependence.
+Instruct patients that they should not give dexmethylphenidate hydrochloride extended-release capsules to anyone else.
 Advise patients to store dexmethylphenidate hydrochloride extended-release capsules in a safe place, preferably locked, to prevent abuse.
 Advise patients to comply with laws and regulations on drug disposal.
 Advise patients to dispose of remaining, unused, or expired dexmethylphenidate hydrochloride extended-release capsules by a medicine take-back program if available [see Boxed Warning, Warnings and Precautions (5.1), Drug Abuse and Dependence (9.1, 9.2, 9.3), How Supplied/Storage and Handling (16)].
@@ -40,8 +40,12 @@ Suppression of Growth
 
 Advise patients that dexmethylphenidate hydrochloride extended-release capsules may cause slowing of growth and weight loss [see Warnings and Precautions (5.7)].
 
+Pregnancy Registry
+
+Advise patients that there is a pregnancy exposure registry that monitors pregnancy outcomes in patients exposed to ADHD medications, including dexmethylphenidate hydrochloride extended-release capsules, during pregnancy [see Use in Specific Populations (8.1)].
+
 Manufactured by: Catalent Pharma Solutions 1100 Enterprise Drive Winchester, KY 40391
 
 Manufactured for: Amneal Pharmaceuticals LLC Bridgewater, NJ 08807
 
-Revised: 03-2019-00
+Revised: 12-2019-01

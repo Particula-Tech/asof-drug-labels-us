@@ -23,7 +23,7 @@ Table 6: Summary of Efficacy Results from ADHD Study in Pediatric Patients (6 to
 | Mean BaselineScore (SD) | LS Mean Changefrom Baseline(SE) | Placebo-subtractedDifferencea (95%CI) |  |  |
 | Study 1 | Dexmethylphenidate hydrochloride extended-release capsule 5 mg/day to 30 mg/day (n = 52) | 33.3 (9.18) | 16.41 (1.8) | 10.64 (5.38, 15.91) |
 | Placebo (n = 45) | 34.9 (10.03) | 5.77 (1.93) | -- |  |
-| Abbreviations: SD, standard deviation; SE, standard error; LS Mean, least-squares mean; CI, confidence interval, not adjusted for multiple comparisons. aDifference (drug minus placebo) in least-squares mean change from baseline. |  |  |  |  |
+| Abbreviations: ADHD, Attention Deficit Hyperactivity Disorder; SD, standard deviation; SE, standard error; LS Mean, least-squares mean; CI, confidence interval, not adjusted for multiple comparisons. aDifference (drug minus placebo) in least-squares mean change from baseline. |  |  |  |  |
 
 In 2 additional cross-over studies (Studies 2 and 3) in pediatric patients ages 6 to 12 years who received 20 mg dexmethylphenidate hydrochloride extended-release or placebo, dexmethylphenidate hydrochloride extended-release was found to have a statistically significant treatment effect versus placebo on the Swanson, Kotkin, Agler, M-Flynn & Pelham (SKAMP) rating scale total scores at all time points after dosing in each study (0.5, 1, 3, 4, 5, 7, 9, 10, 11, and 12 hours in Study 2 and 1, 2, 4, 6, 8, 9, 10, 11, and 12 hours in the study 3).
 SKAMP is a validated 13-item teacher-rated scale that assesses manifestations of ADHD in a classroom setting.
@@ -53,4 +53,4 @@ Table 7: Summary of Efficacy Results from ADHD Study in Adults (Study 4)
 | Dexmethylphenidate hydrochloride extended-release capsule 30 mg/day (n = 54) | 36.9 (8.07) | 12.86 (1.48) | 5.31 (1.18, 9.44) |  |
 | Dexmethylphenidate hydrochloride extended-release capsule 40 mg/day (n = 54) | 36.9 (8.25) | 16.51 (1.48) | 8.96 (4.83, 13.08) |  |
 | Placebo (n = 53) | 37.5 (7.82) | 7.55 (1.49) | -- |  |
-| Abbreviations: SD, standard deviation; SE, standard error; LS Mean, least-squares mean; CI, confidence interval, not adjusted for multiple comparisons.aDifference (drug minus placebo) in least-squares mean change from baseline. |  |  |  |  |
+| Abbreviations: ADHD, attention deficit hyperactivity disorder; SD, standard deviation; SE, standard error; LS Mean, least-squares mean; CI, confidence interval, not adjusted for multiple comparisons.aDifference (drug minus placebo) in least-squares mean change from baseline. |  |  |  |  |

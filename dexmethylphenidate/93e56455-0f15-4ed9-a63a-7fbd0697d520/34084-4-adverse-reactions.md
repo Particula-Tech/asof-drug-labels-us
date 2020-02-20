@@ -43,6 +43,8 @@ Table 1: Common Adverse Reactions in Pediatric Patients (6 to 17 years of age) w
 | Psychiatric Disorders | 26% | 15% |
 | Anxiety | 6% | 0% |
 
+Abbreviation: ADHD, attention deficit hyperactivity disorder.
+
 Table 2 below enumerates the incidence of dose-related adverse reactions that occurred during a fixed-dose, double-blind, placebo-controlled trial in pediatric patients with ADHD taking dexmethylphenidate hydrochloride extended-release up to 30 mg daily versus placebo.
 The table includes only those reactions that occurred in patients treated with dexmethylphenidate hydrochloride extended-release for which the incidence was at least 5% and greater than the incidence among placebo-treated patients.
 
@@ -63,6 +65,8 @@ Table 2: Dose-Related Adverse Reactions in Pediatric Patients (6 to 17 years of 
 | Nasal Congestion | 0% | 0% | 5% | 0% |
 | Pruritus | 0% | 0% | 3% | 0% |
 
+Abbreviation: ADHD, attention deficit hyperactivity disorder.
+
 Clinical Trials Experience with Dexmethylphenidate Hydrochloride Extended-Release in Adult Patients with ADHD
 
 The safety data in this section is based on data from a 5-week controlled clinical study of dexmethylphenidate hydrochloride extended-release in 218 adult patients (221 randomized) with ADHD ages 18 to 60 years.
@@ -72,7 +76,7 @@ This study was a randomized, double-blind, placebo-controlled, parallel-group st
 
 Most Common Adverse Reactions (incidence of greater than or equal to 5% and at least twice placebo): dry mouth, dyspepsia, headache, anxiety, and pharyngolaryngeal pain.
 
-Adverse Reactions Leading to Discontinuation: During the double-blind phase of the study, 10.7% of the dexmethylphenidate hydrochloride extended-release - treated patients and 7.5% of the placebo-treated patients discontinued due to adverse reactions.
+Adverse Reactions Leading to Discontinuation: During the double-blind phase of the study, 10.7% of the dexmethylphenidate hydrochloride extended-release-treated patients and 7.5% of the placebo-treated patients discontinued due to adverse reactions.
 Three patients (1.8%) in the dexmethylphenidate hydrochloride extended-release discontinued due to insomnia and jittery, respectively and two patients (1.2%) in the dexmethylphenidate hydrochloride extended-release discontinued due to anorexia and anxiety, respectively.
 
 Table 3 enumerates adverse reactions for the placebo-controlled, parallel-group study in adults with ADHD at fixed dexmethylphenidate hydrochloride extended-release doses of 20 mg/day, 30 mg/day, and 40 mg/day.
@@ -128,7 +132,7 @@ Metabolism and Nutrition Disorders: decreased appetite, reduced weight gain, and
 
 Psychiatric Disorders: insomnia, anxiety, restlessness, agitation, psychosis (sometimes with visual and tactile hallucinations), depressed mood
 
-Nervous system disorders: headache, dizziness, tremor, dyskinesia including choreoatheetoid movements, drowsiness, convulsions, cerebrovascular disorders (including vasculitis, cerebral hemorrhages and cerebrovascular accidents), serotonin syndrome in combination with serotonergic drugs
+Nervous System Disorders: headache, dizziness, tremor, dyskinesia including choreoatheetoid movements, drowsiness, convulsions, cerebrovascular disorders (including vasculitis, cerebral hemorrhages and cerebrovascular accidents), serotonin syndrome in combination with serotonergic drugs
 
 Eye Disorders: blurred vision, difficulties in visual accommodation
 
@@ -148,7 +152,7 @@ Investigations: weight loss (adult ADHD patients)
 
 Additional Adverse Reactions Reported with Other Methylphenidate Products
 
-The list below shows adverse reactions not listed with methylphenidate hydrochloride and dexmethylphenidate hydrochloride formulations [see Adverse Reactions (6.2)] that have been reported with other methylphenidate products based on clinical trials data and postmarketing spontaneous reports.
+The list below shows adverse reactions not listed with methylphenidate hydrochloride and dexmethylphenidate hydrochloride formulations [see Adverse Reactions (6.2)] that have been reported with other methylphenidate products based on clinical trials data and post-marketing spontaneous reports.
 
 Blood and Lymphatic Disorders: pancytopenia
 

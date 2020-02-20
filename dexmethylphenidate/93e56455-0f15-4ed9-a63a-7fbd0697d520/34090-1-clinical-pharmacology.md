@@ -2,13 +2,13 @@
 
 ## 12.1 Mechanism of Action
 
-Dexmethylphenidate hydrochloride is a CNS stimulant.
+Dexmethylphenidate hydrochloride is a central nervous system (CNS) stimulant.
 The mode of therapeutic action in ADHD is not known.
 
 ## 12.2 Pharmacodynamics
 
 Dexmethylphenidate is the more pharmacologically active d-enantiomer of racemic methylphenidate.
-Methylphenidate is thought to block the reuptake of norepinephrine and dopamine into the presynaptic neuron and increase the release of these monoamines into the extraneuronal space.
+Methylphenidate blocks the reuptake of norepinephrine and dopamine into the presynaptic neuron and increase the release of these monoamines into the extraneuronal space.
 
 Cardiac Electrophysiology
 
@@ -18,16 +18,15 @@ At the recommended maximum total daily dosage of 40 mg, dexmethylphenidate hydro
 
 Absorption
 
-Dexmethylphenidate hydrochloride extended-release produces a bi-modal plasma concentration-time profile (i.e.
-2 distinct peaks approximately 4 hours apart) when orally administered to healthy adults.
-The initial rate of absorption for dexmethylphenidate hydrochloride extended-release is similar to that of dexmethylphenidate hydrochloride tablets as shown by the similar rate parameters between the 2 formulations, i.e. first peak concentration (Cmax1), and time to the first peak (tmax1), which is reached in 1.5 hours (typical range 1 to 4 hours).
-The mean time to the interpeak minimum (tminip) is slightly shorter, and time to the second peak (tmax2) is slightly longer for dexmethylphenidate hydrochloride extended-release given once daily (about 6.5 hours, range 4.5 to 7 hours) compared to dexmethylphenidate hydrochloride tablets given in 2 doses 4 hours apart (see Figure 1), although the ranges observed are greater for dexmethylphenidate hydrochloride extended-release.
+Dexmethylphenidate hydrochloride extended-release capsules produce a bi-modal plasma concentration-time profile (i.e., 2 distinct peaks approximately 4 hours apart) when orally administered to healthy adults.
+The initial rate of absorption for dexmethylphenidate hydrochloride extended-release capsules is similar to that of dexmethylphenidate hydrochloride tablets as shown by the similar rate parameters between the 2 formulations, i.e., first peak concentration (Cmax1), and time to the first peak (tmax1), which is reached in 1.5 hours (typical range 1 to 4 hours).
+The mean time to the interpeak minimum (tminip) is slightly shorter, and time to the second peak (tmax2) is slightly longer for dexmethylphenidate hydrochloride extended-release capsules given once daily (about 6.5 hours, range 4.5 to 7 hours) compared to dexmethylphenidate hydrochloride tablets given in 2 doses 4 hours apart (see Figure 1), although the ranges observed are greater for dexmethylphenidate hydrochloride extended-release capsules.
 
-Dexmethylphenidate hydrochloride extended-release given once daily exhibits a lower second peak concentration (Cmax2), higher interpeak minimum concentrations (Cminip), and fewer peak and trough fluctuations than dexmethylphenidate hydrochloride tablets given in 2 doses given 4 hours apart.
+Dexmethylphenidate hydrochloride extended-release capsules given once daily exhibits a lower second peak concentration (Cmax2), higher interpeak minimum concentrations (Cminip), and fewer peak and trough fluctuations than dexmethylphenidate hydrochloride tablets given in 2 doses given 4 hours apart.
 This is due to an earlier onset and more prolonged absorption from the delayed-release beads (see Figure 1).
 
-The ratio of geometric mean of AUC(0-inf) and Cmax after administration of dexmethylphenidate hydrochloride extended-release given once daily are 1.02 and 0.86 respectively, to the same total dose of dexmethylphenidate hydrochloride tablets given in 2 doses 4 hours apart.
-The variability in Cmax, Cmin, and AUC is similar between dexmethylphenidate hydrochloride extended-release and dexmethylphenidate hydrochloride immediate-release tablets with approximately a 3-fold range in each.
+The ratio of geometric mean of AUC(0-inf) and Cmax after administration of dexmethylphenidate hydrochloride extended-release capsules given once daily are 1.02 and 0.86 respectively, to the same total dose of dexmethylphenidate hydrochloride tablets given in 2 doses 4 hours apart.
+The variability in Cmax, Cmin, and AUC is similar between dexmethylphenidate hydrochloride extended-release capsules and dexmethylphenidate hydrochloride immediate-release tablets with approximately a 3-fold range in each.
 
 Approximately 90% of the dose is absorbed after oral administration of radiolabeled racemic methylphenidate.
 However, due to first pass metabolism the mean absolute bioavailability of dexmethylphenidate when administered in various formulations was 22% to 25%.
@@ -46,7 +45,7 @@ Dexmethylphenidate shows a volume of distribution of 2.65 ± 1.11 L/kg.
 
 Elimination
 
-Plasma dexmethylphenidate concentrations decline monophasically following oral administration of dexmethylphenidate hydrochloride extended-release.
+Plasma dexmethylphenidate concentrations decline monophasically following oral administration of dexmethylphenidate hydrochloride extended-release capsules.
 The mean terminal elimination half-life of dexmethylphenidate was about 3 hours in healthy adults.
 Pediatric patients tend to have slightly shorter half-lives with means of 2 to 3 hours.
 Dexmethylphenidate was eliminated with a mean clearance of 0.40 ± 0.12 L/hr/kg after intravenous administration.
@@ -67,7 +66,7 @@ Studies in Specific Populations
 
 Male and Female Patients
 
-After administration of dexmethylphenidate hydrochloride extended-release, the first peak, (Cmax1) was on average 45% higher in women.
+After administration of dexmethylphenidate hydrochloride extended-release capsule, the first peak, (Cmax1) was on average 45% higher in women.
 The interpeak minimum and the second peak also tended to be slightly higher in women although the difference was not statistically significant, and these patterns remained even after weight normalization.
 
 Racial or Ethnic Groups
@@ -76,7 +75,7 @@ There is insufficient experience with the use of dexmethylphenidate hydrochlorid
 
 Pediatric Patients
 
-The pharmacokinetics of dexmethylphenidate after dexmethylphenidate hydrochloride extended-release administration have not been studied in pediatrics less than 18 years of age.
+The pharmacokinetics of dexmethylphenidate after dexmethylphenidate hydrochloride extended-release capsule administration have not been studied in pediatrics less than 18 years of age.
 When a similar formulation of racemic methylphenidate was examined in 15 patients between 10 and 12 years of age and 3 patients with ADHD between 7 and 9 years of age, the time to the first peak was similar, although the time until the between peak minimum, and the time until the second peak were delayed and more variable in pediatric patients compared to adults.
 After administration of the same dose to pediatric patients and adults, concentrations in pediatric patients were approximately twice the concentrations observed in adults.
 This higher exposure is almost completely due to smaller body size as no relevant age-related differences in dexmethylphenidate pharmacokinetic parameters (i.e. clearance and volume of distribution) are observed after normalization to dose and weight.
