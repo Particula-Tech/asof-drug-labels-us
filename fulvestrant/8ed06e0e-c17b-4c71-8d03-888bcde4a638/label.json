@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA211422"
+  ],
+  "inn": "fulvestrant",
+  "labeler": "Athenex Pharmaceutical Division, LLC.",
+  "package_ndcs": [
+    "70860-211-41",
+    "70860-211-74"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "fulvestrant",
+      "name": "Fulvestrant"
+    }
+  ],
+  "setid": "8ed06e0e-c17b-4c71-8d03-888bcde4a638",
+  "source": "dailymed"
+}
