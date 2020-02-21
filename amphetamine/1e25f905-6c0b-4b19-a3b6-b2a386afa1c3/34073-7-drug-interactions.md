@@ -10,7 +10,7 @@ Table 2: Drugs Having Clinically Important Interactions with Amphetamines
 | Intervention | Do not administer EVEKEO ODT during or within 14 days following the administration of MAOI [see Contraindications (4)]. |
 | Examples | selegiline, isocarboxazid, phenelzine, tranylcypromine, linezolid, methylene blue |
 | Serotonergic Drugs |  |
-| Clinical Impact | The concomitant use of EVEKDO ODT and serotonergic drugs increases the risk of serotonin syndrome. |
+| Clinical Impact | The concomitant use of EVEKEO ODT and serotonergic drugs increases the risk of serotonin syndrome. |
 | Intervention | Initiate with lower doses and monitor patients for signs and symptoms of serotonin syndrome, particularly during EVEKEO ODT initiation or dosage increase. If serotonin syndrome occurs, discontinue EVEKEO ODT and concomitant serotonergic drug(s) [see Warnings and Precautions 5.8]. |
 | Examples | Selective serotonin reuptake inhibitors (SSRI), serotonin norepinephrine reuptake inhibitors (SNRI), triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, tryptophan, buspirone, St. John's Wort |
 | Alkalinizing Agents |  |
