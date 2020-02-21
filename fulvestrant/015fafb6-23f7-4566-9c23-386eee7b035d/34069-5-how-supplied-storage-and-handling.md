@@ -14,7 +14,7 @@ If a patient dose requires only one syringe, unused syringe should be stored as 
 
 Storage:
 
-REFRIGERATE, 2° and 8°C (36° and 46°F).
+REFRIGERATE, 2° to 8°C (36° to 46°F).
 TO PROTECT FROM LIGHT, STORE IN THE ORIGINAL CARTON UNTIL TIME OF USE.
 
 Sterile, Nonpyrogenic, PVC-free, DEHP-free.

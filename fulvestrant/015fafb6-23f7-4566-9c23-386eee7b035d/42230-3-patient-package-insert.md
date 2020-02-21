@@ -16,8 +16,8 @@ This Patient Information has been approved by the U.S. Food and Drug Administrat
 
 Brands listed are the trademarks of their respective owners.
 
-Mfd. for Meitheal Pharmaceuticals Chicago, IL 60631 (USA) ©2019 Meitheal Pharmaceuticals Inc.
+Mfd. for Meitheal Pharmaceuticals Chicago, IL 60631 (USA) ©2020 Meitheal Pharmaceuticals Inc.
 
-December 2019
+February 2020
 
 810038-00

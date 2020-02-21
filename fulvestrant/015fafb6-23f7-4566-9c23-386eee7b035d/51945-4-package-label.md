@@ -22,7 +22,7 @@ Both single-dose prefilled syringes must be administered to receive the 500 mg d
 
 Principal Display Panel – Fulvestrant Injection, 250 mg per 5 mL (50mg per ml) Carton
 
-NDC 71288-555-85
+NDC 71288-555-86
 
 Rx only
 
@@ -39,7 +39,7 @@ Discard each syringe after use.
 
 Both single-dose prefilled syringes must be administered to receive the 500 mg dose.
 
-REFRIGERATE, 2° and 8°C (36° and 46°F).
+REFRIGERATE, 2° to 8°C (36° to 46°F).
 
 TO PROTECT FROM LIGHT, STORE IN THE ORIGNAL CARTON UNTIL TIME OF USE.
 

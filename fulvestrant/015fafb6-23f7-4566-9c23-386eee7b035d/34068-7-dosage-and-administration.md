@@ -56,7 +56,7 @@ For each single-dose prefilled syringe:
    Discard if particulate matter or discoloration is present.
 4. Peel open the safety needle (SafetyGlide™) outer packaging.
 5. Hold the syringe upright on the ribbed part (C).
-   With the other hand, take hold of the cap (A) and carefully TWIST THE CAP in a counter-clockwise direction until the cap disconnects for removal (see Figure 1).Figure 1TWIST OFF CAP:TWIST CAP COUNTER-CLOCKWISEUNTIL CAP DISCONNECTS FOR REMOVAL
+   With the other hand, take hold of the cap (A) and carefully TWIST THE CAP in a counter-clockwise direction until the cap disconnects for removal (see Figure 1).Figure 1
 6. Pull the cap (A) off in a straight upward direction.
    DO NOT TOUCH THE STERILE SYRINGE TIP (Luer-Lok) (B) (see Figure 2).Figure 2
 7. Attach the safety needle to the syringe tip (Luer-Lok).
