@@ -13,7 +13,7 @@ After the gemcitabine nucleotide is incorporated into DNA, only one additional n
 
 The pharmacokinetics of gemcitabine were examined in 353 patients with various solid tumors.
 Pharmacokinetic parameters were derived using data from patients treated for varying durations of therapy given weekly with periodic rest weeks and using both short infusions (<70 minutes) and long infusions (70 to 285 minutes).
-The total Gemcitabine for Injection, USP dose varied from 500 mg/m2 to 3600 mg/m2.
+The total Gemcitabine for Injection dose varied from 500 mg/m2 to 3600 mg/m2.
 Distribution The volume of distribution was increased with infusion length.
 Volume of distribution of gemcitabine was 50 L/m2 following infusions lasting <70 minutes.
 For long infusions, the volume of distribution rose to 370 L/m2.
@@ -39,11 +39,11 @@ Table 15: Gemcitabine Clearance and Half-Life for the “Typical” Patient
 | 65 | 55.1 | 41.5 | 61 | 73 |
 | 79 | 40.7 | 30.7 | 79 | 94 |
 
-a Half-life for patients receiving <70 minute infusion.
+a Half-life for patients receiving a <70 minute infusion.
 Gemcitabine half-life for short infusions ranged from 42 to 94 minutes and for long infusions varied from 245 to 638 minutes, depending on age and sex, reflecting a greatly increased volume of distribution with longer infusions.
 Male and Female Patients Females have lower clearance and longer half-lives than male patients as described in Table 15.
 Patients with Renal Impairment No clinical studies have been conducted with gemcitabine in patients with decreased renal function.
 Patients with Hepatic Impairment No clinical studies have been conducted with gemcitabine in patients with decreased hepatic function.
-Drug Interaction Studies When Gemcitabine for Injection, USP (1250 mg/m2 on Days 1 and 8) and cisplatin (75 mg/m2 on Day 1) were administered in patients with NSCLC, the clearance of gemcitabine on Day 1 was 128 L/hr/m2 and on Day 8 was 107 L/hr/m2.
-Data from patients with NSCLC demonstrate that Gemcitabine for Injection, USP and carboplatin given in combination does not alter the pharmacokinetics of gemcitabine or carboplatin compared to administration of either single agent; however, due to wide confidence intervals and small sample size, interpatient variability may be observed.
-Data from metastatic breast cancer patients shows that Gemcitabine for Injection, USP has little or no effect on the pharmacokinetics (clearance and half-life) of paclitaxel and paclitaxel has little or no effect on the pharmacokinetics of gemcitabine.
+Drug Interaction Studies When Gemcitabine for Injection (1250 mg/m2 on Days 1 and 8) and cisplatin (75 mg/m2 on Day 1) were administered in patients with NSCLC, the clearance of gemcitabine on Day 1 was 128 L/hr/m2 and on Day 8 was 107 L/hr/m2.
+Data from patients with NSCLC demonstrate that Gemcitabine for Injection and carboplatin given in combination does not alter the pharmacokinetics of gemcitabine or carboplatin compared to administration of either single agent; however, due to wide confidence intervals and small sample size, interpatient variability may be observed.
+Data from metastatic breast cancer patients shows that Gemcitabine for Injection has little or no effect on the pharmacokinetics (clearance and half-life) of paclitaxel and paclitaxel has little or no effect on the pharmacokinetics of gemcitabine.
