@@ -51,7 +51,7 @@ Cases of myopathy, including rhabdomyolysis, have been reported with fenofibrate
 
 ## 5.3 Liver Function
 
-Fenofibrate at doses equivalent to 87 mg to 130 mg fenofibrate capsules per day has been associated with increases in serum transaminases [AST (SGOT) or ALT (SGPT)].
+Fenofibrate at doses equivalent to 130 mg fenofibrate capsules per day has been associated with increases in serum transaminases [AST (SGOT) or ALT (SGPT)].
 
 In a pooled analysis of 10 placebo-controlled trials, increases to >3 times the upper limit of normal occurred in 5.3% of patients taking fenofibrate versus 1.1% of patients treated with placebo.
 When transaminase determinations were followed either after discontinuation of treatment or during continued treatment, a return to normal limits was usually observed.

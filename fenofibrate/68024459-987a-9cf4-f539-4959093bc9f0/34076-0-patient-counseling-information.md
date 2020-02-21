@@ -25,7 +25,7 @@ FENOFIBRATE CAPSULES, USP
 | Toronto, ON | Weston, Florida |
 | Canada, M9L 1T9 | 33326 |
 
-Revised: October 2019
+Revised: January 2020
 
 Rev.
-9
+10
