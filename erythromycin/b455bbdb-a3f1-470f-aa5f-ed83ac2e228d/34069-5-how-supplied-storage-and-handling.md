@@ -8,6 +8,7 @@ Granules become a pink opaque suspension with a cherry aroma.
 E.E.S.
 400 film-coated tablets (erythromycin ethylsuccinate tablets, USP) 400 mg, are supplied as pink oval tablets imprinted with the two letter designation, EE, in:
 
+- Bottles of 30 (NDC 24338-100-03)
 - Bottles of 100 (NDC 24338-100-13)
 
 ## Recommended storage
