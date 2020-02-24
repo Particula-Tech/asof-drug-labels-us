@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "BLA761081"
+  ],
+  "inn": "trastuzumab",
+  "labeler": "Pfizer Laboratories Div Pfizer Inc",
+  "package_ndcs": [
+    "0069-0305-01",
+    "0069-0306-01",
+    "0069-0307-01"
+  ],
+  "products": [
+    {
+      "form": "KIT",
+      "generic": "trastuzumab",
+      "name": "Trazimera-qyyp"
+    }
+  ],
+  "setid": "b9c5e894-27d2-4245-a653-df986fed3c56",
+  "source": "dailymed"
+}
