@@ -2,51 +2,55 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Category D
-
+Risk Summary Valsartan can cause fetal harm when administered to a pregnant woman.
 Use of drugs that act on the renin-angiotensin system during the second and third trimesters of pregnancy reduces fetal renal function and increases fetal and neonatal morbidity and death.
-Resulting oligohydramnios can be associated with fetal lung hypoplasia and skeletal deformations.
-Potential neonatal adverse effects include skull hypoplasia, anuria, hypotension, renal failure, and death.
-When pregnancy is detected, discontinue valsartan as soon as possible.
-These adverse outcomes are usually associated with use of these drugs in the second and third trimesters of pregnancy.
 Most epidemiologic studies examining fetal abnormalities after exposure to antihypertensive use in the first trimester have not distinguished drugs affecting the renin-angiotensin system from other antihypertensive agents.
-Appropriate management of maternal hypertension during pregnancy is important to optimize outcomes for both mother and fetus.
+Published reports include cases of anhydramnios and oligohydramnios in pregnant women treated with valsartan (see Clinical Considerations).
+When pregnancy is detected, consider alternative drug treatment and discontinue valsartan as soon as possible.
+The estimated background risk of major birth defects and miscarriage for the indicated population is unknown.
+All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively.
+Clinical Considerations Disease-associated maternal and/or embryo/fetal risk Hypertension in pregnancy increases the maternal risk for pre-eclampsia, gestational diabetes, premature delivery, and delivery complications (e.g., need for cesarean section, and post-partum hemorrhage).
+Hypertension increases the fetal risk for intrauterine growth restriction and intrauterine death.
+Pregnant women with hypertension should be carefully monitored and managed accordingly.
+Fetal/Neonatal Adverse Reactions Oligohydramnios in pregnant women who use drugs affecting the renin-angiotensin system in the second and third trimesters of pregnancy can result in the following: reduced fetal renal function leading to anuria and renal failure, fetal lung hypoplasia, skeletal deformations, including skull hypoplasia, hypotension and death.
 In the unusual case that there is no appropriate alternative to therapy with drugs affecting the renin-angiotensin system for a particular patient, apprise the mother of the potential risk to the fetus.
-Perform serial ultrasound examinations to assess the intra-amniotic environment.
-If oligohydramnios is observed, discontinue valsartan, unless it is considered lifesaving for the mother.
-Fetal testing may be appropriate, based on the week of pregnancy.
+In patients taking valsartan during pregnancy, perform serial ultrasound examinations to assess the intra-amniotic environment.
+Fetal testing may be appropriate, based on the week of gestation.
 Patients and physicians should be aware, however, that oligohydramnios may not appear until after the fetus has sustained irreversible injury.
-Closely observe infants with histories of in utero exposure to valsartan for hypotension, oliguria, and hyperkalemia [see Use in Specific Populations (8.4)].
+If oligohydramnios is observed, consider alternative drug treatment.
+Closely observe neonates with histories of in utero exposure to valsartan for hypotension, oliguria, and hyperkalemia.
+In neonates with a history of in utero exposure to valsartan, if oliguria or hypotension occurs, support blood pressure and renal perfusion.
+Exchange transfusions or dialysis may be required as a means of reversing hypotension and replacing renal function.
+Data Animal Data No teratogenic effects were observed when valsartan was administered to pregnant mice and rats at oral doses of up to 600 mg/kg/day (9 and 18 times the MRHD on a mg/m2 basis) and to pregnant rabbits at oral doses of up to 10 mg/kg/day.
+In rats, oral valsartan administered at maternally toxic doses (600 mg/kg/day) during organogenesis or late gestation and lactation, resulted in decreased fetal and pup weight, pup survival and delayed developmental milestones.
+In rabbits administered maternally toxic doses of 5 and 10 mg/kg/day, fetotoxicity was observed.
 
-## 8.3 Nursing Mothers
+## 8.2 Lactation
 
-It is not known whether valsartan is excreted in human milk.
-Valsartan was excreted in the milk of lactating rats; however, animal breast milk drug levels may not accurately reflect human breast milk levels.
-Because many drugs are excreted into human milk and because of the potential for adverse reactions in nursing infants from valsartan, a decision should be made whether to discontinue nursing or discontinue the drug, taking into account the importance of the drug to the mother.
+Risk Summary There is no information regarding the presence of valsartan in human milk, the effects on the breastfed infant, or the effects on milk production.
+Valsartan is present in rat milk.
+Because of the potential for serious adverse reactions in breastfed infants from exposure to valsartan, advise a nursing woman that breastfeeding is not recommended during treatment with valsartan.
+Data Valsartan was detected in the milk of lactating rats 15 minutes after oral administration of a 3 mg/kg dose.
 
 ## 8.4 Pediatric Use
 
-The antihypertensive effects of valsartan have been evaluated in two randomized, double-blind clinical studies in pediatric patients from 1-5 and 6-16 years of age [see Clinical Studies (14.1)].
-The pharmacokinetics of valsartan have been evaluated in pediatric patients 1 to 16 years of age [see Pharmacokinetics, Special Populations, Pediatric (12.3)].
-Valsartan was generally well tolerated in children 6-16 years and the adverse experience profile was similar to that described for adults.
+The antihypertensive effects of valsartan have been evaluated in two randomized, double-blind clinical studies in pediatric patients from 1 to 5 and 6 to 16 years of age [see Clinical Studies (14.1)].
+The pharmacokinetics of valsartan have been evaluated in pediatric patients 1 to 16 years of age [see Clinical Pharmacology (12.3)].
+Valsartan was generally well tolerated in children 6 to 16 years and the adverse experience profile was similar to that described for adults.
 In children and adolescents with hypertension where underlying renal abnormalities may be more common, renal function and serum potassium should be closely monitored as clinically indicated.
-Valsartan is not recommended for pediatric patients under 6 years of age due to safety findings for which a relationship to treatment could not be excluded [see Adverse Reactions, Pediatric Hypertension (6.1)].
-
+Valsartan is not recommended for pediatric patients under 6 years of age due to safety findings for which a relationship to treatment could not be excluded [see Adverse Reactions (6.1)].
 No data are available in pediatric patients either undergoing dialysis or with a glomerular filtration rate <30 mL/min/1.73 m2.
 There is limited clinical experience with valsartan in pediatric patients with mild to moderate hepatic impairment [see Warnings and Precautions (5.3)].
-Daily oral dosing of neonatal/juvenile rats with valsartan at doses as low as 1 mg/kg/day (about 10% of the maximum recommended pediatric dose on a mg/m2 basis) from postnatal day 7 to postnatal day 70 produced persistent, irreversible kidney damage.
-These kidney effects in neonatal rats represent expected exaggerated pharmacological effects that are observed if rats are treated during the first 13 days of life.
-Since this period coincides with up to 44 weeks after conception in humans, it is not considered to point toward an increased safety concern in 6 to 16 year old children.
-
-Neonates with a history of in utero exposure to valsartan: If oliguria or hypotension occurs, direct attention toward support of blood pressure and renal perfusion.
-Exchange transfusions or dialysis may be required as a means of reversing hypotension and/or substituting for disordered renal function.
 
 ## 8.5 Geriatric Use
 
 In the controlled clinical trials of valsartan, 1,214 (36.2%) hypertensive patients treated with valsartan were ≥65 years and 265 (7.9%) were ≥75 years.
 No overall difference in the efficacy or safety of valsartan was observed in this patient population, but greater sensitivity of some older individuals cannot be ruled out.
+Exposure (measured by AUC) to valsartan is higher by 70% in the elderly than in the young, however no dosage adjustment is necessary [see Clinical Pharmacology (12.3)].
 Of the 2,511 patients with heart failure randomized to valsartan in the Valsartan Heart Failure Trial, 45% (1,141) were 65 years of age or older.
-There were no notable differences in efficacy or safety between older and younger patients in this trial.
+In the VALsartan In Acute myocardial iNfarcTion trial (VALIANT), 53% (2,596) of the 4,909 patients treated with valsartan and 51% (2,515) of the 4,885 patients treated with valsartan + captopril were 65 years of age or older.
+There were no notable differences in efficacy or safety between older and younger patients in either trial.
 
 ## 8.6 Renal Impairment
 

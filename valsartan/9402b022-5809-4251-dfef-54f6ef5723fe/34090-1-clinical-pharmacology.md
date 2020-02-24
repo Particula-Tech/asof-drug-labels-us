@@ -34,47 +34,37 @@ In multiple-dose studies in hypertensive patients, valsartan had no notable effe
 
 ## 12.3 Pharmacokinetics
 
-Valsartan peak plasma concentration is reached 2 to 4 hours after dosing.
+Absorption In healthy volunteers, valsartan peak plasma concentration is reached 2 to 4 hours after dosing.
 Valsartan shows bi-exponential decay kinetics following intravenous administration, with an average elimination half-life of about 6 hours.
 Absolute bioavailability for valsartan is about 25% (range 10% to 35%).
-The bioavailability of the suspension [see Dosage and Administration; Pediatric Hypertension (2.2)] is 1.6 times greater than with the tablet.
-With the tablet, food decreases the exposure (as measured by AUC) to valsartan by about 40% and peak plasma concentration (Cmax) by about 50%.
-AUC and Cmax values of valsartan increase approximately linearly with increasing dose over the clinical dosing range.
-Valsartan does not accumulate appreciably in plasma following repeated administration.
-
-Metabolism and Elimination: Valsartan, when administered as an oral solution, is primarily recovered in feces (about 83% of dose) and urine (about 13% of dose).
-The recovery is mainly as unchanged drug, with only about 20% of dose recovered as metabolites.
-The primary metabolite, accounting for about 9% of dose, is valeryl 4-hydroxy valsartan.
+The bioavailability of the suspension [see Dosage and Administration (2.2)] is 1.6 times as great as with the tablet.
+AUC and Cmax values of valsartan increase approximately linearly with increasing dose over the clinical dosing range (80 mg to 320 mg).
+Valsartan does not accumulate appreciably in plasma following repeated administration of 200 mg once daily.
+In heart failure patients, the average time to peak plasma concentration and elimination half-life of valsartan are similar to those observed in healthy volunteers.
+The average accumulation factor is about 1.7 in heart failure patients following repeated administration of 160 mg twice daily.
+AUC and Cmax values of valsartan increase linearly and are almost proportional with increasing dose from 40 to 160 mg twice a day.
+Effect of Food With the tablet, food decreases the exposure (as measured by AUC) to valsartan by about 40% and peak plasma concentration (Cmax) by about 50%.
+Valsartan can be administered with or without food.
+Distribution: The steady state volume of distribution of valsartan after intravenous administration is small (17 L), indicating that valsartan does not distribute into tissues extensively.
+Valsartan is highly bound to serum proteins (95%), mainly serum albumin.
+Metabolism: The primary metabolite, accounting for about 9% of dose, is valeryl 4-hydroxy valsartan.
 In vitro metabolism studies involving recombinant CYP 450 enzymes indicated that the CYP 2C9 isoenzyme is responsible for the formation of valeryl-4-hydroxy valsartan.
 Valsartan does not inhibit CYP 450 isozymes at clinically relevant concentrations.
 CYP 450 mediated drug interaction between valsartan and coadministered drugs are unlikely because of the low extent of metabolism.
-
+Excretion Valsartan, when administered as an oral solution, is primarily recovered in feces (about 83% of dose) and urine (about 13% of dose).
+The recovery is mainly as unchanged drug, with only about 20% of dose recovered as metabolites.
 Following intravenous administration, plasma clearance of valsartan is about 2 L/h and its renal clearance is 0.62 L/h (about 30% of total clearance).
-
-Distribution: The steady state volume of distribution of valsartan after intravenous administration is small (17 L), indicating that valsartan does not distribute into tissues extensively.
-Valsartan is highly bound to serum proteins (95%), mainly serum albumin.
-
-Special Populations:
-
-Pediatric: In a study of pediatric hypertensive patients (n=26, 1 to 16 years of age) given single doses of a suspension of valsartan (mean: 0.9 to 2 mg/kg), the clearance (L/h/kg) of valsartan for children was similar to that of adults receiving the same formulation.
-
-Geriatric: Exposure (measured by AUC) to valsartan is higher by 70% and the half-life is longer by 35% in the elderly than in the young.
-No dosage adjustment is necessary [see Dosage and Administration (2.1)].
-
-Gender: Pharmacokinetics of valsartan does not differ significantly between males and females.
-
-Heart Failure: The average time to peak concentration and elimination half-life of valsartan in heart failure patients are similar to those observed in healthy volunteers.
-AUC and Cmax values of valsartan increase linearly and are almost proportional with increasing dose over the clinical dosing range (40 mg to 160 mg twice a day).
-The average accumulation factor is about 1.7.
-The apparent clearance of valsartan following oral administration is approximately 4.5 L/h.
+The apparent clearance of valsartan following oral administration is approximately 4.5 L/h in heart failure patients.
 Age does not affect the apparent clearance in heart failure patients.
-
-Renal Insufficiency: There is no apparent correlation between renal function (measured by creatinine clearance) and exposure (measured by AUC) to valsartan in patients with different degrees of renal impairment.
-Consequently, dose adjustment is not required in patients with mild-to-moderate renal dysfunction.
-No studies have been performed in patients with severe impairment of renal function (creatinine clearance <10 mL/min).
-Valsartan is not removed from the plasma by hemodialysis.
-In the case of severe renal disease, exercise care with dosing of valsartan [see Dosage and Administration (2.1)].
-
-Hepatic Insufficiency: On average, patients with mild-to-moderate chronic liver disease have twice the exposure (measured by AUC values) to valsartan of healthy volunteers (matched by age, sex, and weight).
-In general, no dosage adjustment is needed in patients with mild-to-moderate liver disease.
-Care should be exercised in patients with liver disease [see Dosage and Administration (2.1)].
+Specific Populations: Geriatric: Exposure (measured by AUC) to valsartan is higher by 70% and the half-life is longer by 35% in the elderly than in the young.
+[see Use in Specific Populations (8.5)].
+Pediatric: In a study of pediatric hypertensive patients (n=26, 1 to 16 years of age) given single doses of a suspension of valsartan (mean: 0.9 to 2 mg/kg), the clearance (L/h/kg) of valsartan for children was similar to that of adults receiving the same formulation.
+Gender: Pharmacokinetics of valsartan does not differ significantly between males and females.
+Renal Insufficiency: There is no apparent correlation between renal function (measured by creatinine clearance) and exposure (measured by AUC) to valsartan in patients with different degrees of renal impairment (down to creatinine clearance of 10 mL/min).
+Valsartan is not removed from the plasma by hemodialysis [see Use in Specific Populations (8.6)].
+Hepatic Insufficiency: On average, patients with mild-to-moderate chronic liver disease have twice the exposure (measured by AUC values) to valsartan of healthy volunteers (matched by age, sex, and weight) [see Use in Specific Populations (8.7)].
+Drug Interaction Studies No clinically significant pharmacokinetic interactions were observed when valsartan was coadministered with amlodipine, atenolol, cimetidine, digoxin, furosemide, glyburide, hydrochlorothiazide, or indomethacin.
+The valsartan­-atenolol combination was more antihypertensive than either component, but it did not lower the heart rate more than atenolol alone.
+Coadministration of valsartan and warfarin did not change the pharmacokinetics of valsartan or the time-course of the anticoagulant properties of warfarin.
+Transporters: The results from an in vitro study with human liver tissue indicate that valsartan is a substrate of the hepatic uptake transporter OATP1B1 and the hepatic efflux transporter MRP2.
+Coadministration of inhibitors of the uptake transporter (rifampin, cyclosporine) or efflux transporter (ritonavir) may increase the systemic exposure to valsartan.

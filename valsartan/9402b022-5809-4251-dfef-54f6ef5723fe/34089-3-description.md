@@ -8,4 +8,4 @@ Its empirical formula is C24H29N5O3, its molecular weight is 435.52, and its str
 Valsartan USP is a white to off white hygroscopic powder.
 It is soluble in ethanol and methanol and slightly soluble in water.
 Valsartan is available as tablets for oral administration, containing 40 mg, 80 mg, 160 mg and 320 mg of valsartan USP.
-The inactive ingredients of the tablets are anhydrous lactose, crospovidone, dental-type silica, hypromellose, iron oxide yellow, magnesium stearate, microcrystalline cellulose, polyethylene glycol, and titanium dioxide; and iron oxide red in 80 mg.
+The inactive ingredients of the tablets are anhydrous lactose, crospovidone, dental-type silica, ferric oxide red (80 mg only), ferric oxide yellow, hypromellose, magnesium stearate, microcrystalline cellulose, polyethylene glycol, and titanium dioxide.

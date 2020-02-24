@@ -17,6 +17,7 @@ It is used in adults to:
 - lower high blood pressure (hypertension) in adults and children, 6 to 16 years of age.
 - treat heart failure in adults.
   In these patients, valsartan tablets may lower the need for hospitalization that happens from heart failure.
+- improve the chance of living longer after a heart attack (myocardial infarction) in adults.
 
 Valsartan tablets are not for children under 6 years of age or children with certain kidney problems.
 High Blood Pressure (Hypertension).
@@ -28,6 +29,7 @@ High blood pressure makes the heart work harder to pump blood throughout the bod
 If high blood pressure is not treated, it can lead to stroke, heart attack, heart failure, kidney failure and vision problems.
 Heart Failure occurs when the heart is weak and cannot pump enough blood to your lungs and the rest of your body.
 Just walking or moving can make you short of breath, so you may have to rest a lot.
+Heart Attack (Myocardial Infarction): A heart attack is caused by a blocked artery that results in damage to the heart muscle.
 What should I tell my doctor before taking valsartan tablets?
 Tell your doctor about all your medical conditions including whether you:
 
@@ -39,8 +41,8 @@ Tell your doctor about all your medical conditions including whether you:
 - are pregnant or planning to become pregnant.
   See “What is the most important information I should know about valsartan tablets?”
 - are breastfeeding.
-  It is not known if valsartan passes into your breast milk.
-  You and your doctor should decide if you will take valsartan tablets or breastfeed, but not both.
+  It is not known if valsartan passes into your breast milk, or effects your breastfed baby or milk production.
+  Do not breastfeed while you are taking valsartan tablets.
   Talk with your doctor about the best way to feed your baby if you take valsartan tablets.
 - have ever had a reaction called angioedema, to another blood pressure medicine.
   Angioedema causes swelling of the face, lips, tongue and/or throat, and may cause difficulty breathing.
@@ -67,10 +69,10 @@ How should I take valsartan tablets?
 
 - Take valsartan tablets exactly as prescribed by your doctor.
 - For treatment of high blood pressure, take valsartan tablet one time each day, at the same time each day.
-- If your child cannot swallow tablet, or if tablets are not available in the prescribed strength, your pharmacist will mix valsartan tablets as a liquid suspension for your child.
+- If your child cannot swallow tablets, or if tablets are not available in the prescribed strength, your pharmacist will mix valsartan tablets as a liquid suspension for your child.
   If your child switches between taking the tablet and the suspension, your doctor will adjust the dose as needed.
   Shake the bottle of suspension well for at least 10 seconds before pouring the dose of medicine to give to your child.
-- For adult patients with heart failure, take valsartan tablet two times each day, at the same time each day.
+- For adult patients with heart failure, or who have had a heart attack, take valsartan tablet two times each day, at the same time each day.
   Your doctor may start you on a low dose of valsartan tablets and may increase the dose during your treatment.
 - Valsartan tablets can be taken with or without food.
 - If you miss a dose, take it as soon as you remember.
@@ -109,12 +111,19 @@ The most common side effects of valsartan tablets used to treat people with hear
 - tiredness
 - high blood potassium
 
+Common side effects of valsartan tablets used to treat people after a heart attack which caused them to stop taking the drug include:
+
+- low blood pressure
+- cough
+- high blood creatinine (decreased kidney function)
+- rash
+
 Tell your doctor if you get any side effect that bothers you or that does not go away.
 These are not all the possible side effects of valsartan tablets.
 For a complete list, ask your doctor or pharmacist.
 How do I store valsartan tablets?
 
-- Store at 20°C to 25°C (68°C to 77°F); excursions permitted to 15°C to 30°C (59°F to 86°F) [See USP Controlled Room Temperature].
+- Store at room temperature between 68º to 77ºF (20ºC to 25ºC).
 - Keep valsartan tablets in a closed container in a dry place.
 - Store bottles of valsartan suspension at room temperature less than 86°F (30°C) for up to 30 days, or refrigerate between 35°F to 46°F (2°C to 8°C) for up to 75 days.
 - Keep valsartan tablets and all medicines out of the reach of children.
@@ -127,8 +136,7 @@ This leaflet summarizes the most important information about valsartan tablets.
 If you would like more information, talk with your doctor.
 You can ask your doctor or pharmacist for information about valsartan tablets that is written for health professionals.
 For more information about valsartan tablets, ask your pharmacist or doctor, or call 1-800-313-4623.
-
 What are the ingredients in valsartan tablets?
-Active ingredient: valsartan USP Inactive ingredients: anhydrous lactose, crospovidone, dental-type silica, hypromellose, iron oxide yellow, magnesium stearate, microcrystalline cellulose, polyethylene glycol, and titanium dioxide; and iron oxide red in 80 mg.
+Active ingredient: valsartan USP Inactive ingredients: anhydrous lactose, crospovidone, dental-type silica, ferric oxide red (80 mg only), ferric oxide yellow, hypromellose, magnesium stearate, microcrystalline cellulose, polyethylene glycol, and titanium dioxide.
 All brands mentioned are trademarks of their respective owners and are not trademarks of Jubilant Generics Limited.
-Rx Only Manufactured by: Jubilant Generics Limited Roorkee-247661, India Marketed by: Jubilant Cadista Pharmaceuticals Inc. Salisbury, MD-21801, USA Revised: 07/2017
+Rx Only Manufactured by: Jubilant Generics Limited Roorkee-247661, India Marketed by: Jubilant Cadista Pharmaceuticals Inc. Salisbury, MD-21801, USA Revised: 07/2019
