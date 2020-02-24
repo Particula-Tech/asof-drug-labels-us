@@ -9,6 +9,6 @@ Distributed by Pharmacia & Upjohn Co Division of Pfizer Inc New York, NY 10017
 
 PREMIERProRx® is a registered trademark of Premier Healthcare Alliance, L.P., used under license.
 
-LAB-1161-1.0
+LAB-1161-2.0
 
-Revised January 2018
+Revised June 2019

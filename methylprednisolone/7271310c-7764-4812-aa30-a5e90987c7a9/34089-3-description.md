@@ -13,8 +13,8 @@ SOLU-MEDROL is available in preservative and preservative-free formulations:
 
 | Preservative-free Formulations |
 | --- |
-| 40 mg Act-O-Vial System (Single-Use Vial)—Each mL (when mixed) contains methylprednisolone sodium succinate equivalent to 40 mg methylprednisolone; also 1.6 mg monobasic sodium phosphate anhydrous; 17.46 mg dibasic sodium phosphate dried; and 25 mg lactose hydrous. |
-| 125 mg Act-O-Vial System (SingleUse Vial)—Each 2 mL (when mixed) contains methylprednisolone sodium succinate equivalent to 125 mg methylprednisolone; also 1.6 mg monobasic sodium phosphate anhydrous; and 17.4 mg dibasic sodium phosphate dried. |
+| 40 mg Act-O-Vial System (Single-Dose Vial)—Each mL (when mixed) contains methylprednisolone sodium succinate equivalent to 40 mg methylprednisolone; also 1.6 mg monobasic sodium phosphate anhydrous; 17.46 mg dibasic sodium phosphate dried; and 25 mg lactose hydrous. |
+| 125 mg Act-O-Vial System (Single-Dose Vial)—Each 2 mL (when mixed) contains methylprednisolone sodium succinate equivalent to 125 mg methylprednisolone; also 1.6 mg monobasic sodium phosphate anhydrous; and 17.4 mg dibasic sodium phosphate dried. |
 | Formulations preserved with Benzyl Alcohol |
 | 1 gram Vial—Each 16 mL (when mixed as directed) contains methylprednisolone sodium succinate equivalent to 1 gram methylprednisolone; also 12.8 mg monobasic sodium phosphate anhydrous; 139.2 mg dibasic sodium phosphate dried. |
 | This package does not contain diluent. Recommended diluent (Bacteriostatic water) contains benzyl alcohol as a preservative. |
