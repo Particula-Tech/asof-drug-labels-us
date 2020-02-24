@@ -49,4 +49,4 @@ Consideration may be given to discontinuation of nursing or of levocarnitine tre
 
 ## Pediatric Use
 
-See Dosage and Administration.
+See DOSAGE AND ADMINISTRATION.

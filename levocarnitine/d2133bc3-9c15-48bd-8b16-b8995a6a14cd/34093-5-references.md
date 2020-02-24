@@ -45,10 +45,11 @@
    Protein binding of L-carnitine family components.
    Eur.
    J. Drug Met.
-   Pharmacokin., Special Issue III: 364-368.
+   Pharmacokin.
+   Special Issue III: 364-368.
 10. 10.Rebouche, C.J.
     1991.
     Quantitative estimation of absorption and degradation of a carnitine supplement by human adults.
     Metabolism 40:1305-1310.
 
-PREVIOUS EDITION IS OBSOLETE Date of Issue: 04/18 OPI-11
+PREVIOUS EDITION IS OBSOLETE Date of Issue: Feb 2020 LBI code: OPI-12 0518

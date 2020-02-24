@@ -9,12 +9,12 @@ CARNITOR® (levocarnitine) Oral Solution is supplied in 118 mL (4 FL.
 OZ.) plastic containers (NDC 54482-145-08).
 Store at controlled room temperature (25°C).
 See USP.
-CARNITOR® (levocarnitine) Oral Solution is manufactured for Leadiant Biosciences, Inc. by: Hi-Tech Pharmacal Co., Inc. Amityville, NY 11701.
+CARNITOR® (levocarnitine) Oral Solution is distributed by Leadiant Biosciences Inc.
 
 CARNITOR® SF (levocarnitine) Sugar-Free Oral Solution is supplied in 118 mL (4 FL.
 OZ.) plastic containers (NDC 54482-148-01).
 Store at controlled room temperature (25°C).
 See USP.
-CARNITOR® SF (levocarnitine) Sugar-Free Oral Solution is manufactured for Leadiant Biosciences, Inc. by: Hi-Tech Pharmacal Co., Inc. Amityville, NY 11701.
+CARNITOR® SF (levocarnitine) Sugar-Free Oral Solution is distributed by Leadiant Biosciences Inc.
 
 Rx only.
