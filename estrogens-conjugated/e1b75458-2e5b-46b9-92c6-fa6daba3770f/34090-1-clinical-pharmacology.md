@@ -33,7 +33,7 @@ The absolute bioavailability of bazedoxifene is approximately 6%.
 
 Food Effect
 
-In a single-dose, crossover study in 23 postmenopausal women given conjugated estrogens 0.625 mg/bazedoxifene 20 mg with a high fat/high calorie meal, food increased AUC0-inf of bazedoxifene by 25%.
+In a single-dose, crossover study in 23 postmenopausal women given conjugated estrogens 0.625 mg/bazedoxifene 20 mg with a high fat/high calorie meal, food increased AUC0–inf of bazedoxifene by 25%.
 The Cmax of bazedoxifene was unchanged.
 
 Distribution

@@ -61,7 +61,7 @@ Study 2 was a 12-month, double-blind, randomized, placebo- and active-controlled
 The primary endpoint was the incidence of endometrial hyperplasia at 12 months.
 The prevention of osteoporosis was assessed in a substudy that enrolled women (n=590) who were less than 5 years postmenopausal (mean 2.5 years).
 The mean baseline T-score in the substudy was -0.91 in the DUAVEE group and -0.95 in the placebo group.
-The mean age of women (n=135) taking DUAVEE was 53 years (range 46-60 years).
+The mean age of women (n=135) taking DUAVEE was 53 years (range 46–60 years).
 Women also took calcium (600 mg) and vitamin D (400 IU) daily.
 
 In Study 2, treatment with DUAVEE significantly increased mean lumbar spine BMD (treatment difference, 1.51%), at 12 months compared to placebo in women who had been postmenopausal between 1 and 5 years.
@@ -78,7 +78,7 @@ Table 5: Incidence of Endometrial Hyperplasia or Malignancy at Month 12 and Mont
 
 | Treatment Group | Month | % (n/N) | 1 – Sided 95% UL | % (n/N) | 1 – Sided 95% UL |
 | --- | --- | --- | --- | --- | --- |
-|  |  | STUDY 1Efficacy Evaluable population |  | STUDY 2 |  |
+|  |  | STUDY 1= Efficacy Evaluable population |  | STUDY 2 |  |
 | DUAVEE | 12 | 0.00% (0/336) | 0.89 | 0.30% (1/335) | 1.41 |
 | 24 | 0.68% (2/294) | 2.13 | -- | -- |  |
 | UL = Upper limit |  |  |  |  |  |

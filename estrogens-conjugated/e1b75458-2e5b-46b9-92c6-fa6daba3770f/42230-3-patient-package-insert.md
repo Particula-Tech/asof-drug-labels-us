@@ -1,14 +1,11 @@
-# Patient Information
-
-DUAVEE® (DEW' ah-vee) (conjugated estrogens/bazedoxifene) Tablets
+# Patient Information DUAVEE® (DEW' ah-vee) (conjugated estrogens/bazedoxifene) Tablets
 
 Read this Patient Information before you start taking DUAVEE and each time you get a refill.
 There may be new information.
 This information does not take the place of talking to your healthcare provider about your medical condition or your treatment.
 
-| What is the most important information I should know about DUAVEE? |
+| What is the most important information I should know about DUAVEE? Do not take additional estrogen products while you are taking DUAVEE.Using estrogens may increase your chance of getting cancer of the uterus (womb). Report any unusual vaginal bleeding right away while you are taking DUAVEE. Vaginal bleeding after menopause may be a warning sign of cancer of the uterus (womb). Your healthcare provider should check any unusual vaginal bleeding to find out the cause.Do not use estrogens to prevent heart disease, heart attacks, strokes or dementia (decline in brain function).Using estrogens may increase your chances of getting strokes or blood clots.Using estrogens may increase your chance of getting dementia, based on a study of women 65 years of age or older.You and your healthcare provider should talk regularly about whether you still need treatment with DUAVEE. |
 | --- |
-| Do not take additional estrogen products while you are taking DUAVEE.Using estrogens may increase your chance of getting cancer of the uterus (womb).Report any unusual vaginal bleeding right away while you are taking DUAVEE. Vaginal bleeding after menopause may be a warning sign of cancer of the uterus (womb). Your healthcare provider should check any unusual vaginal bleeding to find out the cause.Do not use estrogens to prevent heart disease, heart attacks, strokes or dementia (decline in brain function).Using estrogens may increase your chances of getting strokes or blood clots.Using estrogens may increase your chance of getting dementia, based on a study of women 65 years of age or older.You and your healthcare provider should talk regularly about whether you still need treatment with DUAVEE. |
 
 What is DUAVEE?
 
@@ -93,10 +90,7 @@ How should I take DUAVEE?
   If you are not sure about your dosing, call your healthcare provider.
 - If you take a calcium or vitamin D supplement, you may take it at the same time you take DUAVEE.
 - If you take too much DUAVEE, call your healthcare provider.
-  Symptoms of taking too much DUAVEE include:
-
-|  | nauseavomitingbreast tendernessdizziness | abdominal painfeeling tiredvaginal bleeding |
-| --- | --- | --- |
+  Symptoms of taking too much DUAVEE include: nauseavomitingbreast tendernessdizziness abdominal painfeeling tiredvaginal bleeding
 
 What are the possible side effects of DUAVEE?
 
@@ -192,4 +186,4 @@ This Patient Information has been approved by the U.S. Food and Drug Administrat
 This product's label may have been updated.
 For current full prescribing information, please visit www.pfizer.com.
 
-LAB-0583-3.0 Revised December 2019
+LAB-0583-4.0 Revised December 2019
