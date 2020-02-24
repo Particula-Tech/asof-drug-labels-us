@@ -18,9 +18,9 @@ Drugs & Aging.
 1995; 6(3): 243-262.
 Rx Only
 
-Distributed by: Lannett Company, Inc. Philadelphia, PA 19154
-
-Rev.
-02/18
+Distributed by: Lannett Company, Inc. Philadelphia, PA 19136
 
 10-1103
+
+Rev.
+02/20

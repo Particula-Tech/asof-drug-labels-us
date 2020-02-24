@@ -1,7 +1,7 @@
 # CLINICAL PHARMACOLOGY
 
-Oxybutynin chloride exerts a direct antispasmodic effects on smooth muscle and inhibits the muscarinic action of acetylcholine on smooth muscle.
-Oxybutynin chloride exhibits only one fifth of the anticholinergic activity of atropine us the rabbit detrusor muscle, but four to ten times the antispasmodic activity.
+Oxybutynin chloride exerts a direct antispasmodic effect on smooth muscle and inhibits the muscarinic action of acetylcholine on smooth muscle.
+Oxybutynin chloride exhibits only one fifth of the anticholinergic activity of atropine on the rabbit detrusor muscle, but four to ten times the antispasmodic activity.
 No blocking effects occur at skeletal neuromuscular junctions or autonomic ganglia (antinicotinic effects).
 
 Oxybutynin chloride relaxes bladder smooth muscle.
@@ -11,7 +11,7 @@ Oxybutynin chloride thus decreases urgency and the frequency of both incontinent
 Antimuscarinic activity resides predominately in the R-isomer.
 A metabolite, desethyloxybutynin, has pharmacological activity similar to that of oxybutynin in in vitro studies.
 
-## Parmacokinetics
+## Pharmacokinetics
 
 Absorption
 
@@ -27,12 +27,12 @@ Table 1 Mean (SD) R- and S-Oxybutynin Pharmacokinetic Parameters Following Three
 | Parameters (units) | R-Oxybutynin | S-Oxybutynin |
 | --- | --- | --- |
 | Cmax (ng/mL) | 3.6 (2.2) | 7.8 (4.1) |
-| Tmax(h) | 0.89 (0.34) | 0.65 (0.32) |
-| AUCt (ng h/mL) | 22.6 (11.3) | 35.0 (17.3) |
-| AUCinf (ng h/mL) | 24.3 (12.3) | 37.3 (18.7) |
+| Tmax (h) | 0.89 (0.34) | 0.65 (0.32) |
+| AUCt (ng • h/mL) | 22.6 (11.3) | 35.0 (17.3) |
+| AUC inf (ng • h/mL) | 24.3 (12.3) | 37.3 (18.7) |
 
 Figure 1.
-Mean R-oxybutynin plasma concentrations following three doses of oxybutynin chloride 5 mg administered every 8 hours for 1 day in 23 healthy adult volunteers
+Mean R-oxybutynin plasma concentrations following three doses of oxybutynin chloride 5 mg administered every 8 hours for 1 day in 23 healthy adult volunteers.
 
 Oxybutynin chloride steady-state pharmacokinetics were also studied in 23 pediatric patients with detrusor overactivity associated with a neurological condition (e.g., spina bifida).
 These pediatric patients were on oxybutynin chloride tablets (n=11) with total daily dose ranging from 7.5 mg to 15 mg (0.22 to 0.53 mg/kg) or oxybutynin chloride syrup (n=12) with total daily dose ranging from 5 mg to 22.5 mg (0.26 to 0.75 mg/kg).
@@ -45,7 +45,7 @@ Table 2a Mean ± SD R- and S-Oxybutynin and R- and S-Desethyloxybutynin Pharmaco
 
 All Available Data Normalized to an Equivalent of Oxybutynin Chloride Tablets 5 mg BID or TID at Steady State
 
-|  | R-Oxybutynin | S-Oxybutynin | R- Desethyloxybutynin | S- Desethyloxybutynin |
+|  | R-Oxybutynin | S-Oxybutynin | R-Desethyloxybutynin | S-Desethyloxybutynin |
 | --- | --- | --- | --- | --- |
 | Cmax* (ng/mL) | 6.1 ± 3.2 | 10.1 ± 7.5 | 55.4 ± 17.9 | 28.2 ± 10.0 |
 | Tmax (hr) | 1.0 | 1.0 | 2.0 | 2.0 |
@@ -57,7 +57,7 @@ Table 2b Mean ± SD R- and S-Oxybutynin and R- and S-Desethyloxybutynin Pharmaco
 
 All Available Data Normalized to an Equivalent of Oxybutynin Chloride Syrup 5 mg BID or TID at Steady State
 
-|  | R-Oxybutynin | S-Oxybutynin | R- Desethyloxybutynin | S- Desethyloxybutynin |
+|  | R-Oxybutynin | S-Oxybutynin | R-Desethyloxybutynin | S-Desethyloxybutynin |
 | --- | --- | --- | --- | --- |
 | Cmax* (ng/mL) | 5.7 ± 6.2 | 7.3 ± 7.3 | 54.2 ± 34.0 | 27.8 ± 20.7 |
 | Tmax (hr) | 1.0 | 1.0 | 1.0 | 1.0 |

@@ -7,7 +7,7 @@ If involvement of the tongue, hypopharynx, or larynx occurs, oxybutynin should b
 
 # PRECAUTIONS
 
-Central Nervous System Effects Oxybutynin is associated with anticholinergic central nervous system (CNS) effects (See).
+Central Nervous System Effects Oxybutynin is associated with anticholinergic central nervous system (CNS) effects (see ADVERSE REACTIONS).
 A variety of CNS anticholinergic effects have been reported, including hallucinations, agitation, confusion and somnolence.
 Patients should be monitored for signs of anticholinergic CNS effects, particularly in the first few months after beginning treatment or increasing the dose.
 If a patient experiences anticholinergic CNS effects, dose reduction or drug discontinuation should be considered.
@@ -42,7 +42,7 @@ Other inhibitors of the cytochrome P450 3A4 enzyme system, such as antimycotic a
 The clinical relevance of such potential interactions is not known.
 Caution should be used when such drugs are co-administered.
 
-## Carcinogenesis, Mutagenesis, Impairment Of Fertility
+## Carcinogenesis, Mutagenesis, Impairment of Fertility
 
 A 24-month study in rats at dosages of oxybutynin chloride of 20, 80, and 160 mg/kg/day showed no evidence of carcinogenicity.
 These doses are approximately 6, 25, and 50 times the maximum human exposure, based on surface area.
@@ -55,7 +55,7 @@ Category B. Reproduction studies using oxybutynin chloride in the hamster, rabbi
 The safety of oxybutynin chloride administered to women who are or who may become pregnant has not been established.
 Therefore, oxybutynin chloride should not be given to pregnant women unless, in the judgment of the physician, the probable clinical benefits outweigh the possible hazards.
 
-## Nursing Mothers:
+## Nursing Mothers
 
 It is not known whether this drug is excreted in human milk.
 Because many drugs are excreted in human milk, caution should be exercised when oxybutynin chloride is administered to a nursing woman.
@@ -71,7 +71,9 @@ Urodynamic results in these patients were consistent with the clinical results.
 Treatment with oxybutynin chloride tablets was associated with an increase from baseline in maximum cystometric capacity from 230 mL to 279 mL, a decrease from baseline in mean detrusor pressure at maximum cystometric capacity from 36 cm H20 to 33 cm H20, and a reduction in the percentage of patients demonstrating uninhibited detrusor contractions (of at least 15 cm H20) from 39% to 20%.
 At total daily doses ranging from 5 mg to 30 mg, treatment with oxybutynin chloride syrup was associated with an increase from baseline in mean urine volume per catheterization from 113 mL to 133 mL, an increase from baseline in mean urine volume after morning awakening from 143 mL to 165 mL, and an increase from baseline in the mean percentage of catheterizations without a leaking episode from 34% to 63%.
 Urodynamic results were consistent with these clinical results.
+
 Treatment with oxybutynin chloride syrup was associated with an increase from baseline in maximum cystometric capacity from 192 mL to 294 mL, a decrease from baseline in mean detrusor pressure at maximum cystometric capacity from 46 cm H20 to 37 cm H20, and a reduction in the percentage of patients demonstrating uninhibited detrusor contractions (of at least 15 cm H20) from 67% to 28%.
+
 As there is insufficient clinical data for pediatric populations under age 5, oxybutynin chloride is not recommended for this age group.
 
 ## Geriatric Use
