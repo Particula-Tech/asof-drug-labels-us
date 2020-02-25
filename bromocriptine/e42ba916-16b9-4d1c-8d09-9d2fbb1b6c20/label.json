@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA020866"
+  ],
+  "inn": "bromocriptine",
+  "labeler": "VEROSCIENCE LLC",
+  "package_ndcs": [
+    "73515-123-21",
+    "73515-123-30"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "bromocriptine mesylate",
+      "name": "CYCLOSET"
+    }
+  ],
+  "setid": "e42ba916-16b9-4d1c-8d09-9d2fbb1b6c20",
+  "source": "dailymed"
+}
