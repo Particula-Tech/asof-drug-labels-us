@@ -26,8 +26,6 @@ Parenteral drug products should be inspected visually for particulate matter pri
 Check for minute leaks by firmly squeezing the bag.
 If leaks are detected, discard the solution, as sterility may be impaired.
 Keep the infusion bags in the overwrap until ready to use.
-Each overwrap contains a peel-off label.
-Apply the peel-off label to the infusion bag for barcode scanning before use.
 Store at room temperature.
 Protect from freezing.
 ZYVOX I.V.

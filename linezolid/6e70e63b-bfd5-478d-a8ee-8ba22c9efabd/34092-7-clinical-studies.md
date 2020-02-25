@@ -41,7 +41,7 @@ The cure rates in the MITT analysis were 86% in linezolid-treated patients and 8
 The cure rates by pathogen for microbiologically evaluable patients are presented in Table 13.
 
 Table 13.
-Cure Rates at the Test-of-Cure Visit for MicrobiologicallyEvaluable Adult Patients with Complicated Skin and Skin Structure Infections
+Cure Rates at the Test-of-Cure Visit for Microbiologically Evaluable Adult Patients with Complicated Skin and Skin Structure Infections
 
 | Pathogen | ZYVOX n/N (%) | Oxacillin/Dicloxacillin n/N (%) |
 | --- | --- | --- |

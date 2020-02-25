@@ -7,11 +7,11 @@ Injection is available in single-use, ready-to-use flexible plastic infusion bag
 The infusion bags and ports are latex-free.
 The infusion bags are available in the following package sizes:
 
-| 100 mL bag (200 mg linezolid) | NDC 0009-5137-01 |
+| 200 mg linezolid in a 100 mL bag (2 mg/mL) | NDC 0009-5137-01 |
 | --- | --- |
-| 100 mL bag (200 mg linezolid) × 10 | NDC 0009-5137-04 |
-| 300 mL bag (600 mg linezolid) | NDC 0009-5140-01 |
-| 300 mL bag (600 mg linezolid) × 10 | NDC 0009-5140-04 |
+| 200 mg linezolid in a 100 mL bag (2 mg/mL) × 10 | NDC 0009-5137-04 |
+| 600 mg linezolid in a 300 mL bag (2 mg/mL) | NDC 0009-5140-01 |
+| 600 mg linezolid in a 300 mL bag (2 mg/mL) × 10 | NDC 0009-5140-04 |
 
 ## 16.2 Tablets
 
@@ -45,6 +45,4 @@ Store at 25°C (77°F).
 Protect from light.
 Keep bottles tightly closed to protect from moisture.
 It is recommended that the infusion bags be kept in the overwrap until ready to use.
-Each overwrap contains a peel-off label.
-Apply the peel- off label to the infusion bag for barcode scanning before use.
 Protect infusion bags from freezing.
