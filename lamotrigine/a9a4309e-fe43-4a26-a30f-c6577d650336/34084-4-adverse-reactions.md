@@ -1,6 +1,6 @@
 # 6 ADVERSE REACTIONS
 
-The following serious adverse reactions are described in more detail in the Warnings and Precautions section of the label:
+The following serious adverse reactions are described in more detail in the Warnings and Precautions section of the labeling:
 
 - Serious Skin Rashes [see Warnings and Precautions (5.1)]
 - Hemophagocytic Lymphohistiocytosis [see Warnings and Precautions (5.2)]

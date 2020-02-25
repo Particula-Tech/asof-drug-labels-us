@@ -130,7 +130,7 @@ Before taking lamotrigine tablets, tell your healthcare provider about all of yo
 
 - have had a rash or allergic reaction to another antiseizure medicine.
 - have or have had depression, mood problems, or suicidal thoughts or behavior.
-- have had aseptic meningitis after taking lamotrigine tablets.
+- have had aseptic meningitis after taking lamotrigine tablets or lamotrigine extended-release tablets.
 - are taking oral contraceptives (birth control pills) or other female hormonal medicines.
   Do not start or stop taking birth control pills or other female hormonal medicine until you have talked with your healthcare provider.
   Tell your healthcare provider if you have any changes in your menstrual pattern such as breakthrough bleeding.
@@ -239,4 +239,4 @@ This Medication Guide has been approved by the U.S. Food and Drug Administration
 The brands listed are trademarks of their respective owners and are not trademarks of Aurobindo Pharma Limited.
 Dispense with Medication Guide available at: www.aurobindousa.com/product-medication-guides
 
-Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 038, India Revised: 10/2019
+Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 038, India Revised: 12/2019
