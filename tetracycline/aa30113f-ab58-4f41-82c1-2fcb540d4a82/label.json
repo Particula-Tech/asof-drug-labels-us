@@ -1,0 +1,24 @@
+{
+  "application_numbers": [
+    "ANDA062752"
+  ],
+  "inn": "tetracycline",
+  "labeler": "Chartwell RX, LLC",
+  "package_ndcs": [
+    "62135-225-01",
+    "62135-225-05",
+    "62135-225-20",
+    "62135-266-01",
+    "62135-266-05",
+    "62135-266-20"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "tetracycline hydrochloride",
+      "name": "Tetracycline Hydrochloride"
+    }
+  ],
+  "setid": "aa30113f-ab58-4f41-82c1-2fcb540d4a82",
+  "source": "dailymed"
+}
