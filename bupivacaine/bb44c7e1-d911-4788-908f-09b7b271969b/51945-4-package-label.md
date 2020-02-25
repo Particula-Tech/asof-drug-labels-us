@@ -10,13 +10,15 @@ For INFILTRATION, NERVE BLOCK, CAUDAL and EPIDURAL ANESTHESIA.
 
 Not for spinal anesthesia.
 
+LOT ##–###–AA EXP DMMMYYYY
+
 # PRINCIPAL DISPLAY PANEL - 75 mg/30 mL Vial Tray - NDC 0409-1159-10
 
-25/NDC 0409-1159-10 Preservative-Free 30 mL Single-use Teartop Vial
+NDC 0409-1159-10 Contains 25 of NDC 0409-1159-09
+
+30 mL Single-dose Teartop Vial Preservative-Free Rx only
 
 0.25% Bupivacaine Hydrochloride Injection, USP 75 mg/30 mL (2.5 mg/mL)
-
-Rx only
 
 For INFILTRATION, NERVE BLOCK, CAUDAL and EPIDURAL ANESTHESIA.
 Not for spinal anesthesia.
@@ -58,11 +60,13 @@ For NERVE BLOCK, CAUDAL and EPIDURAL ANESTHESIA.
 
 Not for spinal anesthesia.
 
+LOT ##–###–AA EXP DMMMYYYY
+
 # PRINCIPAL DISPLAY PANEL - 150 mg/30 mL Vial Tray
 
-25/NDC 0409-1162-10 30 mL Single-use Teartop Vial
+NDC 0409-1162-10 Contains 25 of NDC 0409-1162-09
 
-Preservative-Free Rx only
+30 mL Single-dose Teartop Vial Preservative-Free Rx only
 
 0.5% Bupivacaine Hydrochloride Injection, USP 150 mg/30 mL (5 mg/mL)
 
