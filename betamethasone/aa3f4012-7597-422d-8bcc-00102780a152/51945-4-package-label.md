@@ -12,4 +12,4 @@ For Dermatologic Use Only
 
 Not for Ophthalmic Use
 
-15 g (0.053 oz)
+15 g (0.53 oz)
