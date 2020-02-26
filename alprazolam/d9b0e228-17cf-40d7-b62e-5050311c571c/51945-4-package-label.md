@@ -2,11 +2,9 @@
 
 NDC 0781-1061-01
 
-CIV
-
 Alprazolam
 
-Tablets, USP
+Tablets, USP CIV
 
 0.25 mg
 
@@ -22,11 +20,9 @@ SANDOZ
 
 NDC 0781-1077-01
 
-CIV
-
 Alprazolam
 
-Tablets, USP
+Tablets, USP CIV
 
 0.5 mg
 
@@ -42,11 +38,9 @@ SANDOZ
 
 NDC0781-1079-01
 
-CIV
-
 Alprazolam
 
-Tablets, USP
+Tablets, USP CIV
 
 1 mg
 
@@ -62,11 +56,9 @@ SANDOZ
 
 NDC0781-1089-01
 
-CIV
-
 Alprazolam
 
-Tablets, USP
+Tablets, USP CIV
 
 2 mg
 

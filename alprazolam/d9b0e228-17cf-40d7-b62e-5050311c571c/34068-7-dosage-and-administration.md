@@ -37,14 +37,14 @@ Dose should be advanced until an acceptable therapeutic response (ie, a substant
 
 For patients receiving doses greater than 4 mg/day, periodic reassessment and consideration of dosage reduction is advised.
 In a controlled postmarketing dose-response study, patients treated with doses of alprazolam greater than 4 mg/day for 3 months were able to taper to 50% of their total maintenance dose without apparent loss of clinical benefit.
-Because of the danger of withdrawal, abrupt discontinuation of treatment should be avoided (see Warnings,Precautions, Drug Abuse and Dependence).
+Because of the danger of withdrawal, abrupt discontinuation of treatment should be avoided (see WARNINGS,PRECAUTIONS, DRUG ABUSE AND DEPENDENCE).
 
 The necessary duration of treatment for panic disorder patients responding to alprazolam is unknown.
 After a period of extended freedom from attacks, a carefully supervised tapered discontinuation may be attempted, but there is evidence that this may often be difficult to accomplish without recurrence of symptoms and/or the manifestation of withdrawal phenomena.
 
 ### Dose Reduction
 
-Because of the danger of withdrawal, abrupt discontinuation of treatment should be avoided (see Warnings, Precautions, Drug Abuse and Dependence).
+Because of the danger of withdrawal, abrupt discontinuation of treatment should be avoided (see WARNINGS, PRECAUTIONS, DRUG ABUSE AND DEPENDENCE).
 
 In all patients, dosage should be reduced gradually when discontinuing therapy or when decreasing the daily dosage.
 Although there are no systematically collected data to support a specific discontinuation schedule, it is suggested that the daily dosage be decreased by no more than 0.5 mg every three days.

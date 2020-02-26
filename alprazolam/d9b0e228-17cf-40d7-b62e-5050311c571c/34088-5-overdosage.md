@@ -27,4 +27,4 @@ Prior to the administration of flumazenil, necessary measures should be institut
 Flumazenil is intended as an adjunct to, not as a substitute for, proper management of benzodiazepine overdose.
 Patients treated with flumazenil should be monitored for re-sedation, respiratory depression, and other residual benzodiazepine effects for an appropriate period after treatment.
 The prescriber should be aware of a risk of seizure in association with flumazenil treatment, particularly in long-term benzodiazepine users and in cyclic antidepressant overdose.
-The complete flumazenil package insert including CONTRAINDICATIONS, WARNINGS and PRECAUTIONS should be consulted prior to use.
+The complete flumazenil package insert including CONTRAINDICATIONS,WARNINGS and PRECAUTIONS should be consulted prior to use.
