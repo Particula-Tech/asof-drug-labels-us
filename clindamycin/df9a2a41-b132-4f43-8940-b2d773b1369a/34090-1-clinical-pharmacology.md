@@ -39,9 +39,9 @@ Pharmacokinetic studies in elderly volunteers (61–79 years) and younger adults
 After oral administration of clindamycin hydrochloride, the average elimination half-life is increased to approximately 4.0 hours (range 3.4–5.1 h) in the elderly compared to 3.2 hours (range 2.1 – 4.2 h) in younger adults.
 The extent of absorption, however, is not different between age groups and no dosage alteration is necessary for the elderly with normal hepatic function and normal (age-adjusted) renal function1.
 
-#### Obese Children and Obese Young Adults
+#### Obese Pediatric Patients Aged 2 to Less than 18 Years and Obese Adults Aged 18 to 20 Years
 
-An analysis of pharmacokinetic data in obese children and obese young adults (2–20 years) demonstrated that clindamycin clearance and volume of distribution normalized by total body weight in these patients are comparable to those in children (and young adults) with normal body weight.
+An analysis of pharmacokinetic data in obese pediatric patients aged 2 to less than 18 years and obese adults aged 18 to 20 years demonstrated that clindamycin clearance and volume of distribution, normalized by total body weight, are comparable regardless of obesity.
 
 ## Microbiology
 
