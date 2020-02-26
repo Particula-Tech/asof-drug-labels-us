@@ -11,8 +11,6 @@ LTS Lohmann Therapy Systems Corp., West Caldwell, NJ 07006
 
 LTS Lohmann Therapie-Systeme AG, Andernach, 56626 Germany
 
-U.S. Patent Numbers 5681413; 5804215; 6264980; 6315854; 6344211; RE41408; RE41489; RE41571.
+Revised: 12/2019
 
-Revised: 10/2019
-
-304250-0E
+304250-0F

@@ -14,10 +14,10 @@ Systemic delivery of 5 mcg per hour of buprenorphine for seven days.
 
 Because serious or life-threatening breathing problems could result, DO NOT USE BUPRENORPHINE TRANSDERMAL SYSTEM for:
 
-- pain that can be treated with immediate-release opiods or non-opiod analgesics
+- pain that can be treated with immediate-release opioids or non-opioid analgesics
 - intermittent (on an as-needed basis) pain
 
-Rx Only
+Rx only
 
 # PRINCIPAL DISPLAY PANEL - 7.5 mcg/hour Patch Pouch Carton
 
@@ -35,10 +35,10 @@ Systemic delivery of 7.5 mcg per hour of buprenorphine for seven days.
 
 Because serious or life-threatening breathing problems could result, DO NOT USE BUPRENORPHINE TRANSDERMAL SYSTEM for:
 
-- pain that can be treated with immediate-release opiods or non-opiod analgesics
+- pain that can be treated with immediate-release opioids or non-opioid analgesics
 - intermittent (on an as-needed basis) pain
 
-Rx Only
+Rx only
 
 for use in opioid-experienced patients only
 
@@ -58,10 +58,10 @@ Systemic delivery of 10 mcg per hour of buprenorphine for seven days.
 
 Because serious or life-threatening breathing problems could result, DO NOT USE BUPRENORPHINE TRANSDERMAL SYSTEM for:
 
-- pain that can be treated with immediate-release opiods or non-opiod analgesics
+- pain that can be treated with immediate-release opioids or non-opioid analgesics
 - intermittent (on an as-needed basis) pain
 
-Rx Only
+Rx only
 
 for use in opioid-experienced patients only
 
@@ -81,10 +81,10 @@ Systemic delivery of 15 mcg per hour of buprenorphine for seven days.
 
 Because serious or life-threatening breathing problems could result, DO NOT USE BUPRENORPHINE TRANSDERMAL SYSTEM for:
 
-- pain that can be treated with immediate-release opiods or non-opiod analgesics
+- pain that can be treated with immediate-release opioids or non-opioid analgesics
 - intermittent (on an as-needed basis) pain
 
-Rx Only
+Rx only
 
 for use in opioid-experienced patients only
 
@@ -104,9 +104,9 @@ Systemic delivery of 20 mcg per hour of buprenorphine for seven days.
 
 Because serious or life-threatening breathing problems could result, DO NOT USE BUPRENORPHINE TRANSDERMAL SYSTEM for:
 
-- pain that can be treated with immediate-release opiods or non-opiod analgesics
+- pain that can be treated with immediate-release opioids or non-opioid analgesics
 - intermittent (on an as-needed basis) pain
 
-Rx Only
+Rx only
 
 for use in opioid-experienced patients only
