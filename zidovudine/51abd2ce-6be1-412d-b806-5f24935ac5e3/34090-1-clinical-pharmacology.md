@@ -30,7 +30,7 @@ Zidovudine is primarily eliminated by hepatic metabolism.
 The major metabolite of zidovudine is GZDV.
 GZDV AUC is about 3-fold greater than the zidovudine AUC.
 Urinary recovery of zidovudine and GZDV accounts for 14% and 74%, respectively, of the dose following oral administration.
-A second metabolite, 3 ′-amino-3′-deoxythymidine (AMT), has been identified in the plasma following single-dose IV administration of zidovudine.
+A second metabolite, 3′-amino-3′-deoxythymidine (AMT), has been identified in the plasma following single-dose IV administration of zidovudine.
 The AMT AUC was one-fifth of the zidovudine AUC.
 Pharmacokinetics of zidovudine were dose independent at oral dosing regimens ranging from 2 mg per kg every 8 hours to 10 mg per kg every 4 hours.
 Effect of Food on Absorption Zidovudine may be administered with or without food.

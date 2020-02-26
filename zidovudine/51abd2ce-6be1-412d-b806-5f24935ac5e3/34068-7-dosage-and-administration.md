@@ -35,10 +35,7 @@ Maternal Dosing
 
 100 mg orally 5 times per day until the start of labor [see Clinical Studies (14.3)].
 During labor and delivery, intravenous zidovudine should be administered at 2 mg per kg (total body weight) over 1 hour followed by a continuous intravenous infusion of 1 mg per kg per hour (total body weight) until clamping of the umbilical cord.
-
-Neonatal Dosing
-
-Start neonatal dosing within 12 hours after birth and continue through 6 weeks of age.
+Neonatal Dosing Start neonatal dosing within 12 hours after birth and continue through 6 weeks of age.
 Neonates unable to receive oral dosing may be administered zidovudine intravenously.
 See Table 2 for dosing recommendations.
 
@@ -49,6 +46,8 @@ Recommended Neonatal Dosages of Zidovudine
 | --- | --- | --- |
 | Oral | 8 mg/kg/day | 2 mg/kg every 6 hours |
 | Intravenous | 6 mg/kg/day | 1.5 mg/kg infused over 30 minutes, every 6 hours |
+
+Use an appropriate-sized syringe with 0.1 mL graduation to ensure accurate dosing of the syrup formulation in neonates.
 
 ## 2.4 Patients with Severe Anemia and/or Neutropenia
 
