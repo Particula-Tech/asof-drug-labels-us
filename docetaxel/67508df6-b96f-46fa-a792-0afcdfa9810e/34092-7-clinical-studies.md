@@ -251,13 +251,13 @@ Table 20: Efficacy of Docetaxel in the Induction Treatment of Patients with Inop
 
 | Endpoint | Docetaxel +Cisplatin +Fluorouraciln=177 | Cisplatin+Fluorouraciln=181 |
 | --- | --- | --- |
-| Median progression free survival (months)(95%CI)Adjusted Hazard ratio(95%CI)*p-value | 11.4(10.1 to 14.0) | 8.3(7.4 to 9.1) |
+| Median progression free survival (months)(95% CI)Adjusted Hazard ratio(95% CI)*p-value | 11.4(10.1 to 14.0) | 8.3(7.4 to 9.1) |
 | 0.71(0.56 to 0.91)0.0077 |  |  |
-| Median survival (months)(95%CI)Hazard ratio(95%CI)**p-value | 18.6(15.7 to 24.0) | 14.2(11.5 to 18.7) |
+| Median survival (months)(95% CI)Hazard ratio(95% CI)**p-value | 18.6(15.7 to 24.0) | 14.2(11.5 to 18.7) |
 | 0.71(0.56 to 0.90)0.0055 |  |  |
-| Best overall response (CR + PR) to chemotherapy (%)(95%CI)***p-value | 67.8(60.4 to 74.6) | 53.6(46.0 to 61.0) |
+| Best overall response (CR + PR) to chemotherapy (%)(95% CI)***p-value | 67.8(60.4 to 74.6) | 53.6(46.0 to 61.0) |
 | 0.006 |  |  |
-| Best overall response (CR + PR) to study treatment [chemotherapy +/- radiotherapy] (%)(95%CI)***p-value | 72.3(65.1 to 78.8) | 58.6(51.0 to 65.8) |
+| Best overall response (CR + PR) to study treatment [chemotherapy +/- radiotherapy] (%)(95% CI)***p-value | 72.3(65.1 to 78.8) | 58.6(51.0 to 65.8) |
 | 0.006 |  |  |
 | A Hazard ratio of less than 1 favors Docetaxel+Cisplatin+Fluorouracil*Stratified log-rank test based on primary tumor site**Stratified log-rank test, not adjusted for multiple comparisons***Chi square test, not adjusted for multiple comparisons |  |  |
 
@@ -277,7 +277,7 @@ The cycles were repeated every 3 weeks for 3 cycles.
 All patients in both treatment arms who did not have progressive disease were to receive 7 weeks of chemoradiotherapy (CRT) following induction chemotherapy 3 to 8 weeks after the start of the last cycle.
 During radiotherapy, carboplatin (AUC 1.5) was given weekly as a one-hour intravenous infusion for a maximum of 7 doses.
 Radiation was delivered with megavoltage equipment using once daily fractionation (2 Gy per day, 5 days per week for 7 weeks for a total dose of 70 to 72 Gy).
-Surgery on the primary site of disease and/or neck could be considered at anytime following completion of CRT.
+Surgery on the primary site of disease and/or neck could be considered at any time following completion of CRT.
 
 The primary efficacy endpoint, overall survival (OS), was significantly longer (log-rank test, p=0.0058) with the docetaxel-containing regimen compared to PF (median OS: 70.6 vs. 30.1 months, respectively, hazard ratio [HR]=0.70, 95% confidence interval [CI]= 0.54 to 0.90).
 Overall survival results are presented in Table 21 and Figure 10.
