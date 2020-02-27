@@ -41,7 +41,7 @@ Inform pregnant women to avoid use of celecoxib and other NSAIDs starting at 30 
 Avoid Concomitant Use of NSAIDs
 
 Inform patients that the concomitant use of celecoxib with other NSAIDs or salicylates (e.g., diflunisal, salsalate) is not recommended due to the increased risk of gastrointestinal toxicity, and little or no increase in efficacy [see Warnings and Precautions (5.2) and Drug Interactions (7)].
-Alert patients that NSAIDs may be present in “over-the-counter” medications for treatment of colds, fever, or insomnia.
+Alert patients that NSAIDs may be present in “over the counter” medications for treatment of colds, fever, or insomnia.
 
 Use of NSAIDS and Low-Dose Aspirin
 
@@ -52,4 +52,4 @@ Manufactured in India by: Watson Pharma Private Limited Verna, Salcette Goa 403 
 Distributed by: Actavis Pharma, Inc. Parsippany, NJ 07054 USA
 
 Rev.
-A 10/2018
+B 6/2019

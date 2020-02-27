@@ -2,7 +2,7 @@
 
 ## 5.1 Cardiovascular Thrombotic Events
 
-Clinical trials of several COX-2 selective and nonselective NSAIDs of up to three years duration have shown an increased risk of serious cardiovascular (CV) thrombotic events, including myocardial infarction (MI) and stroke, which can be fatal.
+Clinical trials of several cyclooxygenase-2 (COX-2) selective and nonselective NSAIDs of up to three years duration have shown an increased risk of serious cardiovascular (CV) thrombotic events, including myocardial infarction (MI) and stroke, which can be fatal.
 Based on available data, it is unclear that the risk for CV thrombotic events is similar for all NSAIDs.
 The relative increase in serious CV thrombotic events over baseline conferred by NSAID use appears to be similar in those with and without known CV disease or risk factors for CV disease.
 However, patients with known CV disease or risk factors had a higher absolute incidence of excess serious CV thrombotic events, due to their increased baseline rate.
@@ -47,7 +47,7 @@ However, even short-term NSAID therapy is not without risk.
 Risk Factors for GI Bleeding, Ulceration, and Perforation
 
 Patients with a prior history of peptic ulcer disease and/or GI bleeding who used NSAIDs had a greater than 10-fold increased risk for developing a GI bleed compared to patients without these risk factors.
-Other factors that increase the risk of GI bleeding in patients treated with NSAIDs include longer duration of NSAID therapy; concomitant use of oral corticosteroids, aspirin, anticoagulants; or selective serotonin reuptake inhibitors (SSRIs); smoking; use of alcohol; older age; and poor general health status.
+Other factors that increase the risk of GI bleeding in patients treated with NSAIDs include longer duration of NSAID therapy; concomitant use of oral corticosteroids, antiplatelet drugs (such as aspirin), anticoagulants; or selective serotonin reuptake inhibitors (SSRIs); smoking; use of alcohol; older age; and poor general health status.
 Most postmarketing reports of fatal GI events occurred in elderly or debilitated patients.
 Additionally, patients with advanced liver disease and/or coagulopathy are at increased risk for GI bleeding.
 
@@ -74,7 +74,7 @@ Elevations of ALT or AST (less than three times ULN) may occur in up to 15% of p
 In controlled clinical trials of celecoxib, the incidence of borderline elevations (greater than or equal to 1.2 times and less than 3 times the upper limit of normal) of liver associated enzymes was 6% for celecoxib and 5% for placebo, and approximately 0.2% of patients taking celecoxib and 0.3% of patients taking placebo had notable elevations of ALT and AST.
 
 Inform patients of the warning signs and symptoms of hepatotoxicity (e.g., nausea, fatigue, lethargy, diarrhea, pruritus, jaundice, right upper quadrant tenderness, and "flu-like" symptoms).
-If clinical signs and symptoms consistent with liver disease develop, or if systemic manifestations occur (e.g., eosinophilia, rash, etc.), discontinue celecoxib capsules immediately, and perform a clinical evaluation of the patient.
+If clinical signs and symptoms consistent with liver disease develop, or if systemic manifestations occur (e.g., eosinophilia, rash), discontinue celecoxib capsules immediately, and perform a clinical evaluation of the patient.
 
 ## 5.4 Hypertension
 
@@ -106,7 +106,7 @@ Long-term administration of NSAIDs has resulted in renal papillary necrosis and 
 
 Renal toxicity has also been seen in patients in whom renal prostaglandins have a compensatory role in the maintenance of renal perfusion.
 In these patients, administration of an NSAID may cause a dose-dependent reduction in prostaglandin formation and, secondarily, in renal blood flow, which may precipitate overt renal decompensation.
-Patients at greatest risk of this reaction are those with impaired renal function, dehydration, hypovolemia, heart failure, liver dysfunction, those taking diuretics, ACE-inhibitors or the ARBs, and the elderly.
+Patients at greatest risk of this reaction are those with impaired renal function, dehydration, hypovolemia, heart failure, liver dysfunction, those taking diuretics, ACE inhibitors or the ARBs, and the elderly.
 Discontinuation of NSAID therapy is usually followed by recovery to the pretreatment state.
 
 No information is available from controlled clinical studies regarding the use of celecoxib in patients with advanced renal disease.
@@ -158,7 +158,7 @@ In controlled clinical trials the incidence of anemia was 0.6% with celecoxib an
 Patients on long-term treatment with celecoxib should have their hemoglobin or hematocrit checked if they exhibit any signs or symptoms of anemia or blood loss.
 
 NSAIDs, including celecoxib, may increase the risk of bleeding events.
-Co-morbid conditions such as coagulation disorders or concomitant use of warfarin, other anticoagulants, antiplatelet agents (e.g., aspirin), serotonin reuptake inhibitors (SSRIs) and serotonin norepinephrine reuptake inhibitors (SNRIs) may increase this risk.
+Co-morbid conditions such as coagulation disorders or concomitant use of warfarin, other anticoagulants, antiplatelet drugs (e.g., aspirin), SSRIs and serotonin norepinephrine reuptake inhibitors (SNRIs) may increase this risk.
 Monitor these patients for signs of bleeding [see Drug Interactions (7)].
 
 ## 5.12 Masking of Inflammation and Fever

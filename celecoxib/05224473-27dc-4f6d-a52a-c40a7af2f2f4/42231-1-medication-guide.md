@@ -16,21 +16,23 @@ You may have an increased risk of another heart attack if you take NSAIDs after 
 
 - Increased risk of bleeding, ulcers, and tears (perforation) of the esophagus (tube leading from the mouth to the stomach), stomach and intestines: ○ anytime during use ○ without warning symptoms ○ that may cause death
 
-The risk of getting an ulcer or bleeding increases with:
+- The risk of getting an ulcer or bleeding increases with:
 
 | ○ past history of stomach ulcers, or stomach or intestinal bleeding with use of NSAIDs |  |
 | --- | --- |
-| ○ taking medicines called “corticosteroids”, “anticoagulants”, “SSRIs”, or “SNRIs” |  |
+| ○ taking medicines called “corticosteroids”, “antiplatelet drugs”, “anticoagulants”, “SSRIs” or “SNRIs” |  |
 | ○ increasing doses of NSAIDs | ○ older age |
 | ○ longer use of NSAIDs | ○ poor health |
 | ○ smoking | ○ advanced liver disease |
 | ○ drinking alcohol | ○ bleeding problems |
 
-NSAIDs should only be used:
+- NSAIDs should only be used:
 
-- exactly as prescribed
-- at the lowest dose possible for your treatment
-- for the shortest time needed
+○ exactly as prescribed
+
+○ at the lowest dose possible for your treatment
+
+○ for the shortest time needed
 
 What are NSAIDs?
 
@@ -125,4 +127,4 @@ For more information, go to www.actavis.com or call 1-800-272-5525.
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
 Rev.
-A 10/2018
+B 6/2019

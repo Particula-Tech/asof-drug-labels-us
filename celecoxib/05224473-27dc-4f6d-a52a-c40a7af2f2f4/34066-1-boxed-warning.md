@@ -13,5 +13,5 @@ Gastrointestinal Bleeding, Ulceration, and Perforation
 
 - NSAIDs cause an increased risk of serious gastrointestinal (GI) adverse events including bleeding, ulceration, and perforation of the stomach or intestines, which can be fatal.
   These events can occur at any time during use and without warning symptoms.
-  Elderly patients and patients with a prior history of peptic ulcer disease and/or GI bleeding are at greater risk for serious (GI) events.
+  Elderly patients and patients with a prior history of peptic ulcer disease and/or GI bleeding are at greater risk for serious GI events.
   [see Warnings and Precautions (5.2)]
