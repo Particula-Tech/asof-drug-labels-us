@@ -10,7 +10,7 @@ DIPRIVAN® (Propofol) INJECTABLE EMULSION, USP
 
 FOR INTRAVENOUS ADMINISTRATION 20 mL - For Single Patient Use Only
 
-Shake Well Before Using
+SHAKE WELL BEFORE USING
 
 PACKAGE LABEL - PRINCIPAL DISPLAY - Diprivan® 20 mL Vial Carton Panel
 
@@ -20,4 +20,4 @@ NP260929
 
 DIPRIVAN® (Propofol) INJECTABLE EMULSION, USP
 
-200 mg per 20 mL (10 mg per mL) FOR INTRAVENOUS ADMINISTRATION Shake Well Before Using Ten 20 mL vials For Single Patient Use Only Sterile, nonpyrogenic
+200 mg per 20 mL (10 mg per mL) FOR INTRAVENOUS ADMINISTRATION SHAKE WELL BEFORE USING Ten 20 mL vials For Single Patient Use Only Sterile, nonpyrogenic
