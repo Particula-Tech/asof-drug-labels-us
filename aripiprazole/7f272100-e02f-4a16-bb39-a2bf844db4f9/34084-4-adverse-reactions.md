@@ -70,7 +70,7 @@ Table 17 enumerates the pooled incidence, rounded to the nearest percent, of adv
 
 Table 17: Adverse Reactions in Short-Term, Placebo-Controlled Trials in Adult Patients Treated with Oral Aripiprazole
 
-|  | Percentage of Patients Reporting Reactiona |  |
+|  | Percentage of Patients Reporting Reaction* |  |
 | --- | --- | --- |
 | System Organ Class | Aripiprazole | Placebo |
 | Preferred Term | (n=1,843) | (n=1,166) |
@@ -109,7 +109,7 @@ Table 17: Adverse Reactions in Short-Term, Placebo-Controlled Trials in Adult Pa
 | Respiratory, Thoracic, and Mediastinal Disorders |  |  |
 | Pharyngolaryngeal Pain | 3 | 2 |
 | Cough | 3 | 2 |
-| a Adverse reactions reported by at least 2% of patients treated with oral aripiprazole, except adverse reactions which had an incidence equal to or less than placebo. |  |  |
+| * Adverse reactions reported by at least 2% of patients treated with oral aripiprazole, except adverse reactions which had an incidence equal to or less than placebo. |  |  |
 
 An examination of population subgroups did not reveal any clear evidence of differential adverse reaction incidence on the basis of age, gender, or race.
 
@@ -132,9 +132,9 @@ Table 18 enumerates the incidence, rounded to the nearest percent, of adverse re
 
 Table 18: Adverse Reactions in a Short-Term, Placebo-Controlled Trial of Adjunctive Therapy in Patients with Bipolar Disorder
 
-|  | Percentage of Patients Reporting Reactiona |  |
+|  | Percentage of Patients Reporting Reaction* |  |
 | --- | --- | --- |
-| System Organ Class | Aripiprazole + Li or Val* | Placebo + Li or Val* |
+| System Organ Class | Aripiprazole + Li or Val† | Placebo + Li or Val† |
 | Preferred Term | (n=253) | (n=130) |
 | Gastrointestinal Disorders |  |  |
 | Nausea | 8 | 5 |
@@ -155,7 +155,7 @@ Table 18: Adverse Reactions in a Short-Term, Placebo-Controlled Trial of Adjunct
 | Insomnia | 8 | 4 |
 | Anxiety | 4 | 1 |
 | Restlessness | 2 | 1 |
-| a Adverse reactions reported by at least 2% of patients treated with oral aripiprazole, except adverse reactions which had an incidence equal to or less than placebo. * Lithium or Valproate |  |  |
+| * Adverse reactions reported by at least 2% of patients treated with oral aripiprazole, except adverse reactions which had an incidence equal to or less than placebo. † Lithium or Valproate |  |  |
 
 Pediatric Patients (13 to 17 years) with Schizophrenia
 
@@ -255,7 +255,7 @@ Table 22 enumerates the pooled incidence, rounded to the nearest percent, of adv
 
 Table 22: Adverse Reactions in Short-Term, Placebo-Controlled Trials of Pediatric Patients (6 to 18 years) Treated with Oral Aripiprazole
 
-|  | Percentage of Patients Reporting Reactiona |  |
+|  | Percentage of Patients Reporting Reaction* |  |
 | --- | --- | --- |
 | System Organ Class | Aripiprazole | Placebo |
 | Preferred Term | (n=732) | (n=370) |
@@ -299,7 +299,7 @@ Table 22: Adverse Reactions in Short-Term, Placebo-Controlled Trials of Pediatri
 | Epistaxis | 2 | 1 |
 | Skin and Subcutaneous Tissue Disorders |  |  |
 | Rash | 2 | 1 |
-| a Adverse reactions reported by at least 2% of pediatric patients treated with oral aripiprazole, except adverse reactions which had an incidence equal to or less than placebo. |  |  |
+| *Adverse reactions reported by at least 2% of pediatric patients treated with oral aripiprazole, except adverse reactions which had an incidence equal to or less than placebo. |  |  |
 
 Adult Patients Receiving Aripiprazole as Adjunctive Treatment of Major Depressive Disorder
 
@@ -319,9 +319,9 @@ Table 23 enumerates the pooled incidence, rounded to the nearest percent, of adv
 
 Table 23: Adverse Reactions in Short-Term, Placebo-Controlled Adjunctive Trials in Patients with Major Depressive Disorder
 
-|  | Percentage of Patients Reporting Reactiona |  |
+|  | Percentage of Patients Reporting Reaction* |  |
 | --- | --- | --- |
-| System Organ Class | Aripiprazole+ADT* | Placebo+ADT* |
+| System Organ Class | Aripiprazole+ADT† | Placebo+ADT† |
 | Preferred Term | (n=371) | (n=366) |
 | Eye Disorders |  |  |
 | Blurred Vision | 6 | 1 |
@@ -350,7 +350,7 @@ Table 23: Adverse Reactions in Short-Term, Placebo-Controlled Adjunctive Trials 
 | Psychiatric Disorders |  |  |
 | Restlessness | 12 | 2 |
 | Insomnia | 8 | 2 |
-| a Adverse reactions reported by at least 2% of patients treated with adjunctive aripiprazole, except adverse reactions which had an incidence equal to or less than placebo. *Antidepressant Therapy |  |  |
+| * Adverse reactions reported by at least 2% of patients treated with adjunctive aripiprazole, except adverse reactions which had an incidence equal to or less than placebo. †Antidepressant Therapy |  |  |
 
 Dose-Related Adverse Reactions
 
@@ -548,4 +548,4 @@ infrequent - hirsutism
 ## 6.2 Postmarketing Experience
 
 The following adverse reactions have been identified during post-approval use of aripiprazole.
-Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to establish a causal relationship to drug exposure: occurrences of allergic reaction (anaphylactic reaction, angioedema, laryngospasm, pruritus/urticaria, or oropharyngeal spasm), pathological gambling, hiccups and blood glucose fluctuation and drug reaction with eosinophilia and systemic symptoms (DRESS).
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to establish a causal relationship to drug exposure: occurrences of allergic reaction (anaphylactic reaction, angioedema, laryngospasm, pruritus/urticaria, or oropharyngeal spasm), pathological gambling, hiccups, blood glucose fluctuation, oculogyric crisis, and drug reaction with eosinophilia and systemic symptoms (DRESS).

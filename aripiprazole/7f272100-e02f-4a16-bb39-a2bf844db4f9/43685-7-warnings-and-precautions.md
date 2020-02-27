@@ -289,13 +289,13 @@ Table 14: Percentage of Patients From Placebo-Controlled Trials in Adult Patient
 
 |  | Indication | TreatmentArm | N | Patientsn (%) |
 | --- | --- | --- | --- | --- |
-| Weight gain ≥7% of body weight | Schizophreniaa | Aripiprazole | 852 | 69 (8.1) |
+| Weight gain ≥7% of body weight | Schizophrenia* | Aripiprazole | 852 | 69 (8.1) |
 | Placebo | 379 | 12 (3.2) |  |  |
-| Bipolar Maniab | Aripiprazole | 719 | 16 (2.2) |  |
+| Bipolar Mania† | Aripiprazole | 719 | 16 (2.2) |  |
 | Placebo | 598 | 16 (2.7) |  |  |
-| Major Depressive Disorder(Adjunctive Therapy)c | Aripiprazole | 347 | 18 (5.2) |  |
+| Major Depressive Disorder(Adjunctive Therapy)‡ | Aripiprazole | 347 | 18 (5.2) |  |
 | Placebo | 330 | 2 (0.6) |  |  |
-| a 4 to 6 weeks duration. b 3 weeks duration. c 6 weeks duration. |  |  |  |  |
+| * 4 to 6 weeks duration. † 3 weeks duration. ‡ 6 weeks duration. |  |  |  |  |
 
 Pediatric Patients and Adolescents
 
@@ -312,13 +312,13 @@ Table 15: Percentage of Patients From Placebo-Controlled Monotherapy Trials in P
 
 |  | Indication | TreatmentArm | N | Patientsn (%) |
 | --- | --- | --- | --- | --- |
-| Weight gain ≥7% of body weight | Pooled Schizophrenia and Bipolar Maniaa | Aripiprazole | 381 | 20 (5.2) |
+| Weight gain ≥7% of body weight | Pooled Schizophrenia and Bipolar Mania* | Aripiprazole | 381 | 20 (5.2) |
 | Placebo | 187 | 3 (1.6) |  |  |
-| Irritability Associated with Autistic Disorderb | Aripiprazole | 209 | 55 (26.3) |  |
+| Irritability Associated with Autistic Disorder† | Aripiprazole | 209 | 55 (26.3) |  |
 | Placebo | 98 | 7 (7.1) |  |  |
-| Tourette’s Disorderc | Aripiprazole | 105 | 21 (20) |  |
+| Tourette’s Disorder‡ | Aripiprazole | 105 | 21 (20) |  |
 | Placebo | 66 | 5 (7.6) |  |  |
-| a 4 to 6 weeks duration. b 8 weeks duration. c 8 to 10 weeks duration. |  |  |  |  |
+| * 4 to 6 weeks duration. † 8 weeks duration. ‡ 8 to 10 weeks duration. |  |  |  |  |
 
 In an open-label trial that enrolled patients from the two placebo-controlled trials of adolescents with schizophrenia (13 to 17 years) and pediatric patients with bipolar disorder (10 to 17 years), 73.2% of patients (238/325) completed 26 weeks of therapy with aripiprazole.
 After 26 weeks, 32.8% of patients gained ≥7% of their body weight, not adjusted for normal growth.

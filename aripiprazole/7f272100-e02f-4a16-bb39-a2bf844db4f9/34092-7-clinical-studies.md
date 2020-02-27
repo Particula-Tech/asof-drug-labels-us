@@ -54,25 +54,25 @@ Table 26: Schizophrenia Studies
 
 | StudyNumber | Treatment Group | Primary Efficacy Measure: PANSS |  |  |
 | --- | --- | --- | --- | --- |
-|  |  | MeanBaselineScore (SD) | LS MeanChange fromBaseline (SE) | Placebo-subtracted Differencea (95% CI) |
-| Study 1 | Aripiprazole (15 mg/day)* | 98.5 (17.2) | -15.5 (2.4) | -12.6 (-18.9, -6.2) |
-|  | Aripiprazole (30 mg/day)* | 99 (19.2) | -11.4 (2.39) | -8.5 (-14.8, -2.1) |
+|  |  | MeanBaselineScore (SD) | LS MeanChange fromBaseline (SE) | Placebo-subtracted Difference* (95% CI) |
+| Study 1 | Aripiprazole (15 mg/day)† | 98.5 (17.2) | -15.5 (2.4) | -12.6 (-18.9, -6.2) |
+|  | Aripiprazole (30 mg/day)† | 99 (19.2) | -11.4 (2.39) | -8.5 (-14.8, -2.1) |
 |  | Placebo | 100.2 (16.5) | -2.9 (2.36) | -- |
-| Study 2 | Aripiprazole (20 mg/day)* | 92.6 (19.5) | -14.5 (2.23) | -9.6 (-15.4, -3.8) |
-|  | Aripiprazole (30 mg/day)* | 94.2 (18.5) | -13.9 (2.24) | -9.0 (-14.8, -3.1) |
+| Study 2 | Aripiprazole (20 mg/day)† | 92.6 (19.5) | -14.5 (2.23) | -9.6 (-15.4, -3.8) |
+|  | Aripiprazole (30 mg/day)† | 94.2 (18.5) | -13.9 (2.24) | -9.0 (-14.8, -3.1) |
 |  | Placebo | 94.3 (18.5) | -5.0 (2.17) | -- |
-| Study 3 | Aripiprazole (10 mg/day)* | 92.7 (19.5) | -15.0 (2.38) | -12.7 (-19, -6.41) |
-|  | Aripiprazole (15 mg/day)* | 93.2 (21.6) | -11.7 (2.38) | -9.4 (-15.71, -3.08) |
-|  | Aripiprazole (20 mg/day)* | 92.5 (20.9) | -14.4 (2.45) | -12.1 (-18.53, -5.68) |
+| Study 3 | Aripiprazole (10 mg/day)† | 92.7 (19.5) | -15.0 (2.38) | -12.7 (-19, -6.41) |
+|  | Aripiprazole (15 mg/day)† | 93.2 (21.6) | -11.7 (2.38) | -9.4 (-15.71, -3.08) |
+|  | Aripiprazole (20 mg/day)† | 92.5 (20.9) | -14.4 (2.45) | -12.1 (-18.53, -5.68) |
 |  | Placebo | 92.3 (21.8) | -2.3 (2.35) | -- |
 | Study 4 | Aripiprazole (2 mg/day) | 90.7 (14.5) | -8.2 (1.9) | -2.9 (-8.29, 2.47) |
 |  | Aripiprazole (5 mg/day) | 92.0 (12.6) | -10.6 (1.93) | -5.2 (-10.7, 0.19) |
-|  | Aripiprazole (10 mg/day)* | 90 (11.9) | -11.3 (1.88) | -5.9 (-11.3, -0.58) |
+|  | Aripiprazole (10 mg/day)† | 90 (11.9) | -11.3 (1.88) | -5.9 (-11.3, -0.58) |
 |  | Placebo | 90.8 (13.3) | -5.3 (1.97) | -- |
-| Study 6 (Pediatric, 13 to 17 years) | Aripiprazole (10 mg/day)* | 93.6 (15.7) | -26.7 (1.91) | -5.5 (-10.7, -0.21) |
-| Aripiprazole (30 mg/day)* | 94 (16.1) | -28.6 (1.92) | -7.4 (-12.7, -2.13) |  |
+| Study 6 (Pediatric, 13 to 17 years) | Aripiprazole (10 mg/day)† | 93.6 (15.7) | -26.7 (1.91) | -5.5 (-10.7, -0.21) |
+| Aripiprazole (30 mg/day)† | 94 (16.1) | -28.6 (1.92) | -7.4 (-12.7, -2.13) |  |
 | Placebo | 94.6 (15.6) | -21.2 (1.93) | -- |  |
-| SD: standard deviation; SE: standard error; LS Mean: least-squares mean; CI: unadjusted confidence interval. a Difference (drug minus placebo) in least-squares mean change from baseline. * Doses statistically significantly superior to placebo. |  |  |  |  |
+| SD: standard deviation; SE: standard error; LS Mean: least-squares mean; CI: unadjusted confidence interval. * Difference (drug minus placebo) in least-squares mean change from baseline. † Doses statistically significantly superior to placebo. |  |  |  |  |
 
 Figure 6: Kaplan-Meier Estimation of Cumulative Proportion of Patients with Relapse (Schizophrenia Study 5)
 
@@ -115,21 +115,21 @@ Table 27: Bipolar Studies
 
 | Study Number | Treatment Group | Primary Efficacy Measure: Y-MRS |  |  |
 | --- | --- | --- | --- | --- |
-|  |  | Mean Baseline Score (SD) | LS Mean Change from Baseline (SE) | Placebo-subtracted Differencea (95% CI) |
-| Study 1 | Aripiprazole (30 / 15 mg/day)* | 29.0 (5.9) | -12.52 (1.05) | -5.33 (-7.9, -2.76) |
+|  |  | Mean Baseline Score (SD) | LS Mean Change from Baseline (SE) | Placebo-subtracted Difference* (95% CI) |
+| Study 1 | Aripiprazole (30 / 15 mg/day)† | 29.0 (5.9) | -12.52 (1.05) | -5.33 (-7.9, -2.76) |
 |  | Placebo | 28.5 (4.6) | -7.19 (1.07) | -- |
-| Study 2 | Aripiprazole (30 / 15 mg/day)* | 27.8 (5.7) | -8.15 (1.23) | -4.8 (-7.8, -1.8) |
+| Study 2 | Aripiprazole (30 / 15 mg/day)† | 27.8 (5.7) | -8.15 (1.23) | -4.8 (-7.8, -1.8) |
 |  | Placebo | 29.1 (6.9) | -3.35 (1.22) | -- |
-| Study 3 | Aripiprazole (15 mg/day to 30 mg/day)* | 28.5 (5.6) | -12.64 (0.84) | -3.63 (-5.75, -1.51) |
+| Study 3 | Aripiprazole (15 mg/day to 30 mg/day)† | 28.5 (5.6) | -12.64 (0.84) | -3.63 (-5.75, -1.51) |
 |  | Placebo | 28.9 (5.9) | 9.01 (0.81) | -- |
-| Study 4 | Aripiprazole (15 mg/day to 30 mg/day)* | 28 (5.8) | -11.98 (0.8) | -2.28 (-4.44, -0.11) |
+| Study 4 | Aripiprazole (15 mg/day to 30 mg/day)† | 28 (5.8) | -11.98 (0.8) | -2.28 (-4.44, -0.11) |
 |  | Placebo | 28.3 (5.8) | -9.7 (0.83) | -- |
-| Study 5 | Aripiprazole (15 or 30 mg/day)* + Lithium/Valproate | 23.2 (5.7) | -13.31 (0.5) | -2.62 (-4.29, -0.95) |
+| Study 5 | Aripiprazole (15 or 30 mg/day)†+ Lithium/Valproate | 23.2 (5.7) | -13.31 (0.5) | -2.62 (-4.29, -0.95) |
 |  | Placebo + Lithium/Valproate | 23 (4.9) | -10.7 (0.69) | -- |
-| Study 6(Pediatric,10 to 17 years) | Aripiprazole (10 mg/day)* | 29.8 (6.5) | -14.2 (0.89) | -5.99 (-8.49, -3.5) |
-| Aripiprazole (30 mg/day)* | 29.5 (6.3) | -16.5 (0.87) | -8.26 (-10.7, -5.77) |  |
+| Study 6(Pediatric,10 to 17 years) | Aripiprazole (10 mg/day)† | 29.8 (6.5) | -14.2 (0.89) | -5.99 (-8.49, -3.5) |
+| Aripiprazole (30 mg/day)† | 29.5 (6.3) | -16.5 (0.87) | -8.26 (-10.7, -5.77) |  |
 | Placebo | 30.7 (6.8) | -8.2 (0.91) | -- |  |
-| SD: standard deviation; SE: standard error; LS Mean: least-squares mean; CI: unadjusted confidence interval. a Difference (drug minus placebo) in least-squares mean change from baseline. * Doses statistically significantly superior to placebo. |  |  |  |  |
+| SD: standard deviation; SE: standard error; LS Mean: least-squares mean; CI: unadjusted confidence interval. * Difference (drug minus placebo) in least-squares mean change from baseline. † Doses statistically significantly superior to placebo. |  |  |  |  |
 
 Maintenance Treatment of Bipolar I Disorder
 
@@ -191,12 +191,12 @@ Table 28: Adjunctive Treatment of Major Depressive Disorder Studies
 
 | Study Number | Treatment Group | Primary Efficacy Measure: MADRS |  |  |
 | --- | --- | --- | --- | --- |
-|  |  | Mean Baseline Score (SD) | LS Mean Change from Baseline (SE) | Placebo-subtracted Differencea (95% CI) |
-| Study 1 | Aripiprazole (5 to 20 mg/day)* + Antidepressant | 25.2 (6.2) | -8.49 (0.66) | -2.84 (-4.53, -1.15) |
+|  |  | Mean Baseline Score (SD) | LS Mean Change from Baseline (SE) | Placebo-subtracted Difference* (95% CI) |
+| Study 1 | Aripiprazole (5 to 20 mg/day)† + Antidepressant | 25.2 (6.2) | -8.49 (0.66) | -2.84 (-4.53, -1.15) |
 |  | Placebo + Antidepressant | 27.0 (5.5) | -5.65 (0.64) | -- |
-| Study 2 | Aripiprazole (5 to 20 mg/day)* + Antidepressant | 26.0 (6.0) | -8.78 (0.63) | -3.01 (-4.66, -1.37) |
+| Study 2 | Aripiprazole (5 to 20 mg/day)† + Antidepressant | 26.0 (6.0) | -8.78 (0.63) | -3.01 (-4.66, -1.37) |
 |  | Placebo + Antidepressant | 26.0 (6.5) | -5.77 (0.67) | -- |
-| SD: standard deviation; SE: standard error; LS Mean: least-squares mean; CI: unadjusted confidence interval. a Difference (drug minus placebo) in least-squares mean change from baseline. * Doses statistically significantly superior to placebo. |  |  |  |  |
+| SD: standard deviation; SE: standard error; LS Mean: least-squares mean; CI: unadjusted confidence interval. * Difference (drug minus placebo) in least-squares mean change from baseline. † Doses statistically significantly superior to placebo. |  |  |  |  |
 
 ## 14.4 Irritability Associated with Autistic Disorder
 
@@ -224,14 +224,14 @@ Table 29: Irritability Associated with Autistic Disorder Studies (Pediatric)
 
 | Study Number | Treatment Group | Primary Efficacy Measure: ABC-I |  |  |
 | --- | --- | --- | --- | --- |
-|  |  | Mean Baseline Score (SD) | LS Mean Change from Baseline (SE) | Placebo-subtracted Differencea (95% CI) |
-| Study 1 | Aripiprazole (2 to 15 mg/day)* | 29.6 (6.37) | -12.9 (1.44) | -7.9 (-11.7, -4.1) |
+|  |  | Mean Baseline Score (SD) | LS Mean Change from Baseline (SE) | Placebo-subtracted Difference* (95% CI) |
+| Study 1 | Aripiprazole (2 to 15 mg/day)† | 29.6 (6.37) | -12.9 (1.44) | -7.9 (-11.7, -4.1) |
 |  | Placebo | 30.2 (6.52) | -5.0 (1.43) | -- |
-| Study 2 | Aripiprazole (5 mg/day)* | 28.6 (7.56) | -12.4 (1.36) | -4.0 (-7.7, -0.4) |
-|  | Aripiprazole (10 mg/day)* | 28.2 (7.36) | -13.2 (1.25) | -4.8 (-8.4, -1.3) |
-|  | Aripiprazole (15 mg/day)* | 28.9 (6.41) | -14.4 (1.31) | -6.0 (-9.6, -2.3) |
+| Study 2 | Aripiprazole (5 mg/day)† | 28.6 (7.56) | -12.4 (1.36) | -4.0 (-7.7, -0.4) |
+|  | Aripiprazole (10 mg/day)† | 28.2 (7.36) | -13.2 (1.25) | -4.8 (-8.4, -1.3) |
+|  | Aripiprazole (15 mg/day)† | 28.9 (6.41) | -14.4 (1.31) | -6.0 (-9.6, -2.3) |
 |  | Placebo | 28.0 (6.89) | -8.4 (1.39) | -- |
-| SD: standard deviation; SE: standard error; LS Mean: least-squares mean; CI: unadjusted confidence interval. a Difference (drug minus placebo) in least-squares mean change from baseline. * Doses statistically significantly superior to placebo. |  |  |  |  |
+| SD: standard deviation; SE: standard error; LS Mean: least-squares mean; CI: unadjusted confidence interval. * Difference (drug minus placebo) in least-squares mean change from baseline. † Doses statistically significantly superior to placebo. |  |  |  |  |
 
 ## 14.5 Tourette’s Disorder
 
@@ -267,10 +267,10 @@ Table 30: Tourette’s Disorder Studies (Pediatric)
 
 | Study Number | Treatment Group | Primary Efficacy Measure: YGTSS TTS |  |  |
 | --- | --- | --- | --- | --- |
-|  |  | Mean Baseline Score (SD) | LS Mean Change from Baseline (SE) | Placebo-subtracted Differencea (95% CI) |
-| Study 1 | Aripiprazole (low dose)* | 29.2 (5.63) | -13.4 (1.59) | -6.3 (-10.2, -2.3) |
-|  | Aripiprazole (high dose)* | 31.2 (6.4) | -16.9 (1.61) | -9.9 (-13.8, -5.9) |
+|  |  | Mean Baseline Score (SD) | LS Mean Change from Baseline (SE) | Placebo-subtracted Difference* (95% CI) |
+| Study 1 | Aripiprazole (low dose)† | 29.2 (5.63) | -13.4 (1.59) | -6.3 (-10.2, -2.3) |
+|  | Aripiprazole (high dose)† | 31.2 (6.4) | -16.9 (1.61) | -9.9 (-13.8, -5.9) |
 |  | Placebo | 30.7 (5.95) | -7.1 (1.55) | -- |
-| Study 2 | Aripiprazole (2 to 20 mg/day)* | 28.3 (5.51) | -15 (1.51) | -5.3 (-9.8, -0.9) |
+| Study 2 | Aripiprazole (2 to 20 mg/day)† | 28.3 (5.51) | -15 (1.51) | -5.3 (-9.8, -0.9) |
 |  | Placebo | 29.5 (5.6) | -9.6 (1.64) | -- |
-| SD: standard deviation; SE: standard error; LS Mean: least-squares mean; CI: unadjusted confidence interval. a Difference (drug minus placebo) in least-squares mean change from baseline. * Doses statistically significantly superior to placebo. |  |  |  |  |
+| SD: standard deviation; SE: standard error; LS Mean: least-squares mean; CI: unadjusted confidence interval. * Difference (drug minus placebo) in least-squares mean change from baseline. † Doses statistically significantly superior to placebo. |  |  |  |  |

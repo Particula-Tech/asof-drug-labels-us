@@ -12,11 +12,16 @@ Serious side effects may happen when you take aripiprazole oral solution, includ
   Aripiprazole oral solution is not approved for the treatment of patients with dementia-related psychosis.
 - Risk of suicidal thoughts or actions: Antidepressant medicines, depression and other serious mental illnesses, and suicidal thoughts or actions:
 
-1. Antidepressant medicines may increase suicidal thoughts or actions in some children, teenagers, and young adults within the first few months of treatment.
-2. Depression and other serious mental illnesses are the most important causes of suicidal thoughts and actions.
-   Some people may have a particularly high risk of having suicidal thoughts or actions.
-   These include people who have (or have a family history of) bipolar illness (also called manic-depressive illness) or suicidal thoughts or actions.
-3. How can I watch for and try to prevent suicidal thoughts and actions in myself or a family member?
+1.
+Antidepressant medicines may increase suicidal thoughts or actions in some children, teenagers, and young adults within the first few months of treatment.
+
+2.
+Depression and other serious mental illnesses are the most important causes of suicidal thoughts and actions.
+Some people may have a particularly high risk of having suicidal thoughts or actions.
+These include people who have (or have a family history of) bipolar illness (also called manic-depressive illness) or suicidal thoughts or actions.
+
+3.
+How can I watch for and try to prevent suicidal thoughts and actions in myself or a family member?
 
 - Pay close attention to any changes, especially sudden changes, in mood, behaviors, thoughts, or feelings.
   This is very important when an antidepressant medicine is started or when the dose is changed.
@@ -57,9 +62,9 @@ What else do I need to know about antidepressant medicines?
 - Not all antidepressant medicines prescribed for children are FDA approved for use in children.
   Talk to your child’s healthcare provider for more information.
 
-What isaripiprazole oral solution?
+What is aripiprazole oral solution?
 
-- AripiprazoleOral Solutionis a prescription medicine used to treat:
+- Aripiprazole Oral Solution is a prescription medicine used to treat:
   - Schizophrenia
   - manic or mixed episodes that happen with bipolar I disorder
   - major depressive disorder (MDD) when aripiprazole oral solution is used with antidepressant medicines
