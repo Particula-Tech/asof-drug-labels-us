@@ -1,0 +1,98 @@
+# 8 USE IN SPECIFIC POPULATIONS
+
+## 8.1 Pregnancy
+
+Risk Summary
+
+Use of NSAIDs, including ANJESO, during the third trimester of pregnancy increases the risk of premature closure of the fetal ductus arteriosus.
+Avoid use of NSAIDs, including ANJESO, in pregnant women starting at 30 weeks of gestation (third trimester) [see Warnings and Precautions (5.10)].
+
+There are no adequate and well-controlled studies of meloxicam in pregnant women.
+Data from observational studies regarding potential embryofetal risks of NSAID use in women in the first or second trimesters of pregnancy are inconclusive.
+In the general U.S. population, all clinically recognized pregnancies, regardless of drug exposure, have a background rate of 2-4% for major malformations, and 15-20% for pregnancy loss.
+
+In animal reproduction studies, embryofetal death was observed in rats and rabbits treated during the period of organogenesis with meloxicam at oral doses equivalent to 0.32- and 3.24-times the maximum recommended human dose (MRHD) of 30 mg of ANJESO, based on body surface area (BSA).
+Increased incidence of septal heart defects were observed in rabbits treated throughout embryogenesis with meloxicam at an oral dose equivalent to 39-times the MRHD of 30 mg of ANJESO.
+In pre- and post-natal reproduction studies, there was an increased incidence of dystocia, delayed parturition, and decreased offspring survival at 0.04-times the MRHD of 30 mg of ANJESO.
+No teratogenic effects were observed in rats and rabbits treated with meloxicam during organogenesis at an oral dose equivalent to 1.3 and 13-times the MRHD of 30 mg of ANJESO [see Data].
+
+Based on animal data, prostaglandins have been shown to have an important role in endometrial vascular permeability, blastocyst implantation, and decidualization.
+In animal studies, administration of prostaglandin synthesis inhibitors, such as meloxicam, resulted in increased pre- and post-implantation loss.
+
+Clinical Considerations
+
+Labor or delivery
+
+There are no studies on the effects of meloxicam during labor or delivery.
+In animal studies, NSAIDs, including meloxicam, inhibit prostaglandin synthesis, cause delayed parturition, and increase the incidence of stillbirth.
+
+Data
+
+Animal Data
+
+Meloxicam was not teratogenic when administered to pregnant rats during fetal organogenesis at oral doses up to 4 mg/kg/day (1.3-fold greater than the MRHD of 30 mg of ANJESO based on BSA comparison).
+Administration of meloxicam to pregnant rabbits throughout embryogenesis produced an increased incidence of septal defects of the heart at an oral dose of 60 mg/kg/day (39-fold greater than the MRHD of 30 mg of ANJESO based on BSA comparison).
+The no effect level was 20 mg/kg/day (13-fold greater than the MRHD of 30 mg of ANJESO based on BSA conversion).
+In rats and rabbits, embryolethality occurred at oral meloxicam doses of 1 mg/kg/day and 5 mg/kg/day, respectively (0.32 and 3.24-fold greater, respectively, than the MRHD of 30 mg of ANJESO based on BSA comparison) when administered throughout organogenesis.
+
+Oral administration of meloxicam to pregnant rats during late gestation through lactation increased the incidence of dystocia, delayed parturition, and decreased offspring survival at meloxicam doses of 0.125 mg/kg/day or greater (0.04-times the MRHD of 30 mg of ANJESO based on BSA comparison).
+
+## 8.2 Lactation
+
+Risk Summary
+
+There are no human data available on whether meloxicam is present in human milk, or on the effects on breastfed infants, or on milk production.
+The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for ANJESO and any potential adverse effects on the breastfed infant from the ANJESO or from the underlying maternal condition.
+
+Data
+
+Animal Data
+
+Meloxicam was present in the milk of lactating rats at concentrations higher than those in plasma.
+
+## 8.3 Females and Males of Reproductive Potential
+
+Infertility
+
+Females
+
+Based on the mechanism of action, the use of prostaglandin-mediated NSAIDs, including ANJESO, may delay or prevent rupture of ovarian follicles, which has been associated with reversible infertility in some women.
+Published animal studies have shown that administration of prostaglandin synthesis inhibitors has the potential to disrupt prostaglandin-mediated follicular rupture required for ovulation.
+Small studies in women treated with NSAIDs have also shown a reversible delay in ovulation.
+Consider withdrawal of NSAIDs, including ANJESO, in women who have difficulties conceiving or who are undergoing investigation of infertility.
+
+Males
+
+ANJESO may compromise fertility in males of reproductive potential.
+In a published study, oral administration of meloxicam to male rats for 35 days resulted in decreased sperm count and motility and histopathological evidence of testicular degeneration at 0.3-times the MRHD based on BSA comparison [see Nonclinical Toxicology (13.1)].
+It is not known if these effects on fertility are reversible.
+The clinical relevance of these findings is unknown.
+
+## 8.4 Pediatric Use
+
+The safety and efficacy of ANJESO has not been established in pediatric patients.
+
+## 8.5 Geriatric Use
+
+Elderly patients, compared to younger patients, are at greater risk for NSAID-associated serious cardiovascular, gastrointestinal, and/or renal adverse reactions.
+If the anticipated benefit for the elderly patient outweighs these potential risks monitor patients for adverse effects [see Warnings and Precautions (5.1, 5.2, 5.3, 5.6, 5.13)].
+
+Of the total number of patients in clinical studies of ANJESO, 197 patients were age 65 and over.
+No overall differences in safety or effectiveness were observed between these patients and younger patients, and other reported clinical experience has not identified differences in responses between the elderly and younger patients.
+
+## 8.6 Hepatic Impairment
+
+ANJESO has not been studied in patients with hepatic impairment.
+For oral meloxicam, no dose adjustment is necessary in patients with mild to moderate hepatic impairment.
+Since meloxicam is significantly metabolized in the liver and hepatotoxicity may occur, monitor for adverse events in patients with severe hepatic impairment [see Warnings and Precautions (5.3) and Clinical Pharmacology (12.3)].
+
+## 8.7 Renal Impairment
+
+Pharmacokinetics of ANJESO in elderly subjects with mild renal impairment is similar to healthy young subjects.
+Patients with moderate or severe renal impairment have not been studied.
+ANJESO is not recommended in patients with moderate to severe renal insufficiency.
+ANJESO is contraindicated in patients with moderate to severe renal insufficiency who are at risk for renal failure due to volume depletion [see Contraindications (4), Warnings and Precautions (5.6) and Clinical Pharmacology (12.3)].
+
+## 8.8 Poor Metabolizers of CYP2C9 Substrates
+
+In patients who are known or suspected to be poor CYP2C9 metabolizers based on genotype or previous history/experience with other CYP2C9 substrates (such as warfarin and phenytoin) consider dose reduction as they may have abnormally high plasma levels due to reduced metabolic clearance, and monitor patients for adverse effects.

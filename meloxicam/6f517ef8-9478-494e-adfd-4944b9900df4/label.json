@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA210583"
+  ],
+  "inn": "meloxicam",
+  "labeler": "Baudax Bio, Inc.",
+  "package_ndcs": [
+    "71518-001-01"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "meloxicam",
+      "name": "Anjeso"
+    }
+  ],
+  "setid": "6f517ef8-9478-494e-adfd-4944b9900df4",
+  "source": "dailymed"
+}
