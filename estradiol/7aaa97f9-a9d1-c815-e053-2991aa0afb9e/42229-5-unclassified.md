@@ -1,15 +1,15 @@
-Manufactured by Teva NI Limited for
+Manufactured by Millicent Pharma (NI) Limited for
 
 Millicent U.S., Inc, East Hanover, NJ 07936
 
 Product of Germany.
 
-©2018 Millicent.
-All rights reserved.
+To report SUSPECTED ADVERSE REACTIONS, contact Millicent at 1-877-810-2101 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
 
 FEMRING® is a registered trademark of Millicent Pharma Limited
 
-Millicent® and its design are trademarks of Millicent Pharma Limited
+©2018 Millicent.
+All rights reserved.
 
 Instructions for Use
 
@@ -78,7 +78,7 @@ If you lose your Femring, a new Femring should be put in place for 90 days.
 
 This Patient Information and Instructions for Use have been approved by the U.S. Food and Drug Administration.
 
-Manufactured by Teva NI limited for Millicent U.S., East Hanover, NJ 07936.
+Manufactured by Millicent Pharma (NI) Limited for Millicent U.S., East Hanover, NJ 07936.
 
 Product of Germany.
 

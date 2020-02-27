@@ -1,4 +1,4 @@
-# 3 DOSAGE FORMSAND STRENGTHS
+# 3 DOSAGE FORMS AND STRENGTHS
 
 The following two strengths of Femring are available:
 
