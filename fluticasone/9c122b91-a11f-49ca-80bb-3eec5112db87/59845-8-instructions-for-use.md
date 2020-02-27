@@ -136,9 +136,12 @@ Support
 
 These Instructions for Use have been approved by the U.S. Food and Drug Administration.
 
-Marketed by: Teva Respiratory, LLC, Frazer, PA 19355; Copyright ©2019, Teva Respiratory, LLC; All rights reserved.
+Distributed by: Teva Pharmaceuticals USA, Inc. Parsippany, NJ 07054
 
-AIRDIFU-004
+©2020, Teva Respiratory, LLC.
+All rights reserved.
+
+AIRDIFU-005
 
 Rev.
-February 2019
+February 2020

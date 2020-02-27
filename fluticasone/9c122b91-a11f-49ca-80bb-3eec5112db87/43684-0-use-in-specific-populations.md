@@ -4,9 +4,9 @@
 
 Risk Summary
 
-There are no randomized clinical studies of AIRDUO RESPICLICK or individual monoproducts, fluticasone propionate and salmeterol xinafoate, in pregnant women.
+There are no randomized clinical studies of AIRDUO RESPICLICK or individual monoproducts, fluticasone propionate and salmeterol, in pregnant women.
 There are clinical considerations with the use of AIRDUO RESPICLICK in pregnant women [see Clinical Considerations].
-Animal reproduction studies are available with the combination of fluticasone propionate and salmeterol xinafoate as well as individual monoproducts.
+Animal reproduction studies are available with the combination of fluticasone propionate and salmeterol as well as individual components.
 In animals, teratogenicity characteristic of corticosteroids, decreased fetal body weight and/or skeletal variations, in rats, mice, and rabbits were observed with subcutaneously administered maternal toxic doses of fluticasone propionate less than the maximum recommended human daily inhaled dose (MRHDID) on a mcg/m2 basis [see Data].
 However, fluticasone propionate administered via inhalation to rats decreased fetal body weight, but did not induce teratogenicity at a maternal toxic dose less than the MRHDID on a mcg/m2 basis [see Data].
 Experience with oral corticosteroids suggests that rodents are more prone to teratogenic effects from corticosteroids than humans.
@@ -62,7 +62,7 @@ New Zealand White rabbits were less sensitive since only delayed ossification of
 In two embryo/fetal development studies, pregnant rats received salmeterol by oral administration at doses ranging from 100 to 10,000 mcg/kg/day during the period of organogenesis.
 Salmeterol produced no maternal toxicity or embryo/fetal effects at doses up to 3500 times the MRHDID (on a mcg/m2 basis at maternal oral doses up to 10,000 mcg/kg/day).
 
-In a peri-and post-natal development study in pregnant rats dosed by the oral route from late gestation through delivery and lactation, salmeterol at a dose 3500 times the MRHDID (on mcg/m2 basis with a maternal oral dose of 10,000 mcg/kg/day) was fetotoxic and decreased the fertility of survivors.
+In a peri- and post-natal development study in pregnant rats dosed by the oral route from late gestation through delivery and lactation, salmeterol at a dose 3500 times the MRHDID (on mcg/m2 basis with a maternal oral dose of 10,000 mcg/kg/day) was fetotoxic and decreased the fertility of survivors.
 
 Salmeterol xinafoate crossed the placenta following oral administration to mice and rats.
 
@@ -84,24 +84,28 @@ Oral administration of salmeterol at a dose in lactating rats approximately 2900
 
 ## 8.4 Pediatric Use
 
-The safety and effectiveness of AIRDUO RESPICLICK in pediatric patients below the age of 12 years have not been established.
+The safety and effectiveness of AIRDUO RESPICLICK in the treatment of asthma in pediatric patients aged 12 years and older whose asthma (1) is inadequately controlled on a long term asthma control medication or (2) warrants initiation of treatment with both an ICS and a LABA has been established.
+Use of AIRDUO RESPICLICK for this indication was supported by evidence from two adequate and well-controlled trials in pediatric patients 12 years old and older with persistent symptomatic asthma despite ICS or ICS/LABA therapy (Trials 1 and 2) [see Clinical Studies (14)].
+In these trials, 58 adolescents received AIRDUO RESPICLICK one inhalation twice daily.
+
+The safety and effectiveness of AIRDUO RESPICLICK in pediatric patients below the age of 12 years old have not been established.
 
 Inhaled corticosteroids, including fluticasone propionate, a component of AIRDUO RESPICLICK, may cause a reduction in growth velocity in adolescents [see Warning and Precautions (5.13)].
-The growth of pediatric patients receiving orally inhaled corticosteroids, including AIRDUO RESPICLICK, should be monitored.
+The growth of pediatric patients receiving ICS, including AIRDUO RESPICLICK, should be monitored.
 
 If an adolescent on any corticosteroid appears to have growth suppression, the possibility that he/she is particularly sensitive to this effect of corticosteroids should be considered.
-The potential growth effects of prolonged treatment should be weighed against the clinical benefits obtained.
-To minimize the systemic effects of orally inhaled corticosteroids, including AIRDUO RESPICLICK, each patient should be titrated to the lowest strength that effectively controls his/her asthma [see Dosage and Administration (2)].
+In such patients, the potential growth effects of prolonged ICS treatment should be weighed against the clinical benefits obtained.
+To minimize the systemic effects of ICS, including AIRDUO RESPICLICK, each patient should be titrated to the lowest strength that effectively controls his/her asthma [see Dosage and Administration (2)].
 
 ## 8.5 Geriatric Use
 
-No overall differences in safety or efficacy were observed in data collected in 54 subjects aged 65 years and older versus younger subjects who were treated with AIRDUO RESPICLICK in placebo-controlled Phase 2 and 3 studies.
+No overall differences in safety or effectiveness were observed in data collected in 54 subjects aged 65 years and older versus younger subjects who were treated with AIRDUO RESPICLICK in placebo-controlled Phase 2 and 3 asthma studies.
 
 ## 8.6 Hepatic Impairment
 
 Formal pharmacokinetic studies using AIRDUO RESPICLICK have not been conducted in patients with hepatic impairment.
-However, since both fluticasone propionate and salmeterol are predominantly cleared by hepatic metabolism, impairment of liver function may lead to accumulation of fluticasone propionate and salmeterol in plasma.
-Therefore, patients with hepatic disease should be closely monitored.
+However, since both fluticasone propionate and salmeterol are predominantly cleared by hepatic metabolism [see Clinical Pharmacology (12.3)], impairment of liver function may lead to accumulation of fluticasone propionate and salmeterol in plasma.
+Therefore, patients with hepatic impairment should be closely monitored.
 
 ## 8.7 Renal Impairment
 

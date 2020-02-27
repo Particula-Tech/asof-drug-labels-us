@@ -2,7 +2,7 @@
 
 ## 5.1 Serious Asthma-Related Events – Hospitalizations, Intubations, Death
 
-Use of LABA as monotherapy (without ICS) for asthma is associated with an increased risk of asthma-related death [see Salmeterol Multicenter Asthma Research Trial (SMART)].
+Use of LABA as monotherapy [without inhaled corticosteroids (ICS)] for asthma is associated with an increased risk of asthma-related death [see Salmeterol Multicenter Asthma Research Trial (SMART)].
 Available data from controlled clinical trials also suggest that use of LABA as monotherapy increases the risk of asthma-related hospitalization in pediatric and adolescent patients.
 These findings are considered a class effect of LABA monotherapy.
 When LABA are used in fixed-dose combination with ICS, data from large clinical trials do not show a significant increase in the risk of serious asthma-related events (hospitalizations, intubations, death) compared with ICS alone [see Serious Asthma-Related Events with Inhaled Corticosteroid/Long-acting Beta2-adrenergic Agonists].
@@ -134,7 +134,7 @@ If such effects occur, AIRDUO RESPICLICK should be reduced slowly, consistent wi
 
 ## 5.8 Drug Interactions with Strong Cytochrome P450 3A4 Inhibitors
 
-The use of strong cytochrome P450 3A4 (CYP3A4) inhibitors (e.g., ritonavir, atazanavir, clarithromycin, indinavir, itraconazole, nefazodone, nelfinavir, saquinavir, ketoconazole, telithromycin) with AIRDUO RESPICLICK is not recommended because increased systemic corticosteroid and increased cardiovascular adverse effects may occur [see Drug Interactions (7.1), Clinical Pharmacology (12.3)].
+The use of strong cytochrome P450 3A4 (CYP3A4) inhibitors (e.g., ritonavir, atazanavir, clarithromycin, indinavir, itraconazole, nefazodone, nelfinavir, saquinavir, ketoconazole, telithromycin) with AIRDUO RESPICLICK is not recommended because increased systemic corticosteroid and increased cardiovascular adverse effects may occur [see Drug Interactions (7.1) and Clinical Pharmacology (12.3)].
 
 ## 5.9 Paradoxical Bronchospasm and Upper Airway Symptoms
 
@@ -149,7 +149,7 @@ There have been reports of anaphylactic reactions in patients with severe milk p
 
 ## 5.11 Cardiovascular and Central Nervous System Effects
 
-Excessive beta‑adrenergic stimulation has been associated with seizures, angina, hypertension or hypotension, tachycardia with rates up to 200 beats/min, arrhythmias, nervousness, headache, tremor, palpitation, nausea, dizziness, fatigue, malaise, and insomnia [see Overdosage (10.2)].
+Excessive beta‑adrenergic stimulation has been associated with seizures, angina, hypertension or hypotension, tachycardia with rates up to 200 beats/min, arrhythmias, nervousness, headache, tremor, palpitation, nausea, dizziness, fatigue, malaise, and insomnia [see Overdosage (10)].
 Therefore, AIRDUO RESPICLICK, like all products containing sympathomimetic amines, should be used with caution in patients with cardiovascular disorders, especially coronary insufficiency, cardiac arrhythmias, and hypertension.
 
 Salmeterol, a component of AIRDUO RESPICLICK, can produce a clinically significant cardiovascular effect in some patients as measured by pulse rate, blood pressure, and/or symptoms.
@@ -176,10 +176,10 @@ To minimize the systemic effects of orally inhaled corticosteroids, including AI
 Glaucoma, increased intraocular pressure, and cataracts have been reported in patients following the long-term administration of inhaled corticosteroids, including fluticasone propionate, a component of AIRDUO RESPICLICK.
 Therefore, close monitoring is warranted in patients with a change in vision or with a history of increased intraocular pressure, glaucoma, and/or cataracts.
 
-Effects of treatment with other Fluticasone Propionate and Salmeterol Inhalation Powder 500/50, fluticasone propionate 500 mcg, salmeterol 50 mcg, or placebo on development of cataracts or glaucoma was evaluated in a subset of 658 subjects with COPD in the 3-year survival trial.
+Effects of treatment with other Fluticasone Propionate and Salmeterol Inhalation Powder 500 mcg/50 mcg, fluticasone propionate 500 mcg, salmeterol 50 mcg, or placebo on development of cataracts or glaucoma was evaluated in a subset of 658 subjects with COPD in the 3-year survival trial.
 Ophthalmic examinations were conducted at baseline and at 48, 108, and 158 weeks.
-Conclusions about cataracts cannot be drawn from this trial because the high incidence of cataracts at baseline (61% to 71%) resulted in an inadequate number of subjects treated with other Fluticasone Propionate and Salmeterol Inhalation Powder 500/50 who were eligible and available for evaluation of cataracts at the end of the trial (n = 53).
-The incidence of newly diagnosed glaucoma was 2% with other Fluticasone Propionate and Salmeterol Inhalation Powder 500/50, 5% with fluticasone propionate, 0% with salmeterol, and 2% with placebo.
+Conclusions about cataracts cannot be drawn from this trial because the high incidence of cataracts at baseline (61% to 71%) resulted in an inadequate number of subjects treated with other Fluticasone Propionate and Salmeterol Inhalation Powder 500 mcg/50 mcg who were eligible and available for evaluation of cataracts at the end of the trial (n = 53).
+The incidence of newly diagnosed glaucoma was 2% with other Fluticasone Propionate and Salmeterol Inhalation Powder 500 mcg/50 mcg, 5% with fluticasone propionate, 0% with salmeterol, and 2% with placebo.
 
 ## 5.15 Eosinophilic Conditions and Churg-Strauss Syndrome
 

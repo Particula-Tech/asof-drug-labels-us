@@ -8,10 +8,10 @@
 | How should I store AIRDUO RESPICLICK? Store AIRDUO RESPICLICK at room temperature between 59ºF and 77ºF (15ºC and 25ºC).Avoid exposure to extreme heat, cold, or humidity.Store AIRDUO RESPICLICK in the unopened foil pouch and only open when ready for use.Keep the yellow cap on the inhaler closed during storage. Keep your AIRDUO RESPICLICK inhaler dry and clean at all times. Throw away AIRDUO RESPICLICK 30 days after opening the foil pouch, when the dose counter displays ‘0’, or after the expiration date on the product, whichever comes first. Keep AIRDUO RESPICLICK and all medicines out of the reach of children. |
 | General information about the safe and effective use of AIRDUO RESPICLICK.Medicines are sometimes prescribed for purposes other than those listed in a Patient Information leaflet. Do not use AIRDUO RESPICLICK for a condition for which it was not prescribed. Do not give AIRDUO RESPICLICK to other people, even if they have the same symptoms that you have. It may harm them. You can ask your healthcare provider or pharmacist for information about AIRDUO RESPICLICK that is written for health professionals. |
 
-| What are the ingredients in AIRDUO RESPICLICK?Active ingredients: fluticasone propionate, salmeterol xinafoate Inactive ingredient: lactose monohydrate (may contain milk proteins)This Patient Information leaflet has been approved by the U.S. Food and Drug Administration.Marketed by: Teva Respiratory, LLC, Frazer, PA 19355; Copyright ©2019, Teva Respiratory, LLC; All rights reservedFor more information about AIRDUO RESPICLICK, call 1-888-482-9522 or visit our website at www.MYAIRDUO.com. |
+| What are the ingredients in AIRDUO RESPICLICK?Active ingredients: fluticasone propionate, salmeterol xinafoate Inactive ingredient: lactose monohydrate (may contain milk proteins)This Patient Information leaflet has been approved by the U.S. Food and Drug Administration.Distributed by: Teva Pharmaceuticals USA, Inc. Parsippany, NJ 07054 ©2020 Teva Respiratory, LLC. All rights reserved. For more information about AIRDUO RESPICLICK, call 1-888-482-9522 or visit our website at www.MYAIRDUO.com. |
 | --- |
 
-AIRDPL-004
+AIRDPL-005
 
 Rev.
-February 2019
+February 2020

@@ -2,15 +2,15 @@
 
 ## 16.1 How Supplied
 
-AIRDUO RESPICLICK is supplied in the following three strengths as a white dry-powder inhaler.
+AIRDUO RESPICLICK is supplied in the following three strengths as a white, multi-dose, dry-powder inhaler (MDPI).
 Each inhaler has a yellow cap and is packaged individually in a foil pouch in a carton.
-Each inhaler contains 0.45g of the formulation and provides 60 actuations:
+Each inhaler contains 0.45grams of the formulation and provides 60 actuations:
 
 | STRENGTH | NDC CODE |
 | --- | --- |
-| AIRDUO RESPICLICK 55/14 mcg | NDC 59310-805-06 |
-| AIRDUO RESPICLICK 113/14 mcg | NDC 59310-812-06 |
-| AIRDUO RESPICLICK 232/14 mcg | NDC 59310-822-06 |
+| AIRDUO RESPICLICK 55 mcg/14 mcg (low) | NDC 59310-805-06 |
+| AIRDUO RESPICLICK 113 mcg/14 mcg (medium) | NDC 59310-812-06 |
+| AIRDUO RESPICLICK 232 mcg/14 mcg (high) | NDC 59310-822-06 |
 
 Each AIRDUO RESPICLICK inhaler has a dose counter attached to the actuator.
 Patients should never try to alter the numbers for the dose counter.
@@ -19,12 +19,10 @@ The labeled amount of medication in each actuation cannot be assured after the c
 
 ## 16.2 Storage and Handling
 
-Store at room temperature (between 15º and 25ºC; 59º and 77ºF) in a dry place; excursions permitted from 59º F to 86º F (15ºC to 30ºC).
+Store at room temperature (between 15ºC and 25ºC; 59ºF and 77ºF) in a dry place; excursions permitted from 59º F to 86º F (15ºC to 30ºC).
 Avoid exposure to extreme heat, cold, or humidity.
 
-Keep out of reach of children.
-
-AIRDUO RESPICLICK should be stored inside the unopened moisture‑protective foil pouch and only removed from the pouch immediately before initial use.
+Store AIRDUO RESPICLICK inside the unopened moisture‑protective foil pouch until initial use.
 Discard AIRDUO RESPICLICK 30 days after opening the foil pouch or when the counter reads 0, whichever comes first.
 The inhaler is not reusable.
 Do not attempt to take the inhaler apart.

@@ -81,6 +81,14 @@ Patients should not increase the prescribed dosage but should contact their phys
 Instruct patients not to stop use of AIRDUO RESPICLICK abruptly.
 Patients should contact their physicians immediately if they discontinue use of AIRDUO RESPICLICK.
 
+Dose Counter
+
+Instruct patients that AIRDUO RESPICLICK has a dose counter that displays the number of actuations (inhalations) left in the inhaler.
+When the patient receives a new inhaler, the number 60 will be displayed.
+The dose counter will count down each time the mouthpiece is opened and closed.
+When the dose counter reaches 20, the color of the numbers will change to red to remind the patient to contact their pharmacist or healthcare provider for a refill of their medication.
+When the dose counter reaches 0, the patient should stop using the inhaler, and dispose of it in accordance with state and local regulations.
+
 Caring for and Storing the Inhaler
 
 Instruct patients to not open their inhaler unless they are taking a dose.
@@ -97,24 +105,15 @@ Instruct patients to store the inhaler at room temperature and to avoid exposure
 
 Instruct patients to never take the inhaler apart.
 
-Inform patients that AIRDUO RESPICLICK has a dose counter.
-When the patient receives the inhaler, the number 60 will be displayed.
-The dose counter will count down each time the mouthpiece cap is opened and closed.
-The dose-counter window displays the number of actuations left in the inhaler in units of two (e.g., 60, 58, 56, etc.). When the counter displays 20, the color of the numbers will change to red to remind the patient to contact their pharmacist for a refill of medication or consult their physician for a prescription refill.
-When the dose counter reaches 0, the background will change to solid red.
 Inform patients to discard AIRDUO RESPICLICK when the dose counter displays 0, 30 days after opening the foil pouch or after the expiration date on the product, whichever comes first.
 
-Rx only
-
-Marketed by: Teva Respiratory, LLC Frazer, PA 19355
-
-Copyright ©2019 Teva Respiratory, LLC
+Distributed by: Teva Pharmaceuticals USA, Inc. Parsippany, NJ 07054 ©2020 Teva Respiratory, LLC
 
 All rights reserved.
 
 United States Patent Nos. 6701917, 6718972, 6748947, 6871646, 7540282, 8006690, 8651103, 8714149, 8978966, 9066957, 9216260, 9415008, 9463288, 9616024, 9731087.
 
-AIRDPI-004
+AIRDPI-005
 
 Rev.
-February 2019
+February 2020
