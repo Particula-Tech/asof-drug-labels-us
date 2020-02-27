@@ -19,7 +19,7 @@ Renal tubular toxicity, including acquired Fanconi syndrome, has been reported i
 
 Evaluate renal glomerular and tubular function before initiating therapy or increasing the dose.
 Use prediction equations validated for use in adult and pediatric patients to estimate GFR.
-Obtain serum electrolytes and urinalysis in all patients to evaluate renal tubular function [see Dosage and Administration (2.1)].
+Obtain serum electrolytes and urinalysis in all patients to evaluate renal tubular function [see Dosage and Administration (2.1, 2.2)].
 
 Monitor all patients for changes in eGFR and for renal tubular toxicity weekly during the first month after initiation or modification of therapy and at least monthly thereafter.
 Monitor serum ferritin monthly to evaluate for overchelation.
@@ -92,6 +92,10 @@ If the serum ferritin falls below 500 mcg/L, interrupt therapy with deferasirox 
 Evaluate the need for ongoing chelation for patients whose conditions do not require regular blood transfusions.
 Use the minimum effective dose to maintain iron burden in the target range.
 Continued administration of deferasirox in the 14 to 28 mg/kg/day range, when the body iron burden is approaching or within the normal range can result in life threatening adverse events [see Dosage and Administration (2.1)].
+
+For patients with NTDT, measure LIC by liver biopsy or by using an FDA-cleared or approved method for monitoring patients receiving deferasirox therapy every 6 months on treatment.
+Interrupt deferasirox administration when the LIC is less than 3 mg Fe/g dw.
+Measure serum ferritin monthly, and if the serum ferritin falls below 300 mcg/L, interrupt deferasirox and obtain a confirmatory LIC [see Clinical Studies (14)].
 
 Additional pediatric use information is approved for Novartis Pharmaceuticals Corporation's JADENU® (deferasirox) tablets.
 However, due to Novartis Pharmaceuticals Corporation's marketing exclusivity rights, this drug product is not labeled with that pediatric information.

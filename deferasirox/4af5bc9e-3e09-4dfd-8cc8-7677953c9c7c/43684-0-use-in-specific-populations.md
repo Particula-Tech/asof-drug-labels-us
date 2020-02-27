@@ -50,6 +50,15 @@ Pediatric approval for treatment of transfusional iron overload was based on cli
 Seventy percent of these patients had beta-thalassemia [see Indications and Usage (1), Dosage and Administration (2.1), Clinical Studies (14)].
 In those clinical studies, 173 children (ages 2 to < 12 years) and 119 adolescents (ages 12 to < 17 years) were exposed to deferasirox.
 
+Iron Overload in Non-Transfusion-Dependent Thalassemia Syndromes
+
+The safety and effectiveness of deferasirox have been established in patients 10 years of age and older for the treatment of chronic iron overload with non-transfusion-dependent thalassemia (NTDT) syndromes [see Dosage and Administration (2.2)].
+
+Safety and effectiveness have not been established in patients less than 10 years of age with chronic iron overload in NTDT syndromes.
+
+Pediatric approval for treatment of NTDT syndromes with liver iron (Fe) concentration (LIC) of at least 5 mg Fe per gram of dry weight and a serum ferritin greater than 300 mcg/L was based on 16 pediatric patients treated with deferasirox therapy (10 years to less than 16 years of age) with chronic iron overload and NTDT.
+Use of deferasirox in these age groups is supported by evidence from adequate and well-controlled studies of deferasirox in adult and pediatric patients [see Indications and Usage (1.2), Dosage and Administration (2.2), Clinical Studies (14)].
+
 In general, risk factors for deferasirox-associated kidney injury include preexisting renal disease, volume depletion, overchelation, and concomitant use of other nephrotoxic drugs.
 Acute kidney injury, and acute liver injury and failure has occurred in pediatric patients.
 In a pooled safety analysis, pediatric patients with higher deferasirox exposures had a greater probability of renal toxicity and decreased renal function, resulting in increased deferasirox exposure and progressive renal toxicity/kidney injury.
@@ -59,7 +68,7 @@ Monitor renal function by estimating GFR using an eGFR prediction equation appro
 Monitor renal function more frequently in pediatric patients in the presence of renal toxicity risk factors, including episodes of dehydration, fever and acute illness that may result in volume depletion or decreased renal perfusion.
 Use the minimum effective dose [see Warnings and Precautions (5.1)].
 
-Interrupt deferasirox in pediatric patients with transfusional iron overload, for acute illnesses, which can cause volume depletion, such as vomiting, diarrhea, or prolonged decreased oral intake, and monitor more frequently.
+Interrupt deferasirox in pediatric patients with transfusional iron overload, and consider dose interruption in pediatric patients with non-transfusion-dependent iron overload, for acute illnesses, which can cause volume depletion, such as vomiting, diarrhea, or prolonged decreased oral intake, and monitor more frequently.
 Resume therapy as appropriate, based on assessments of renal function, when oral intake and volume status are normal.
 Evaluate the risk benefit profile of continued deferasirox use in the setting of decreased renal function.
 Avoid use of other nephrotoxic drugs [see Dosage and Administration (2.5), Warnings and Precautions (5.1)].

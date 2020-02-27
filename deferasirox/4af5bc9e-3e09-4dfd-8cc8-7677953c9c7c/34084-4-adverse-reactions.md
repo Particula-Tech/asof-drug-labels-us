@@ -83,6 +83,40 @@ Table 2 Number (%) of Patients with Increases in Serum Creatinine or SGPT/ALT in
 | SGPT/ALT > 5 x ULN at 2 post-baseline visits | 25 (8) | 7 (2) | 2 (2) | 0 | 9 (1) |
 | SGPT/ALT > 5 x ULN at 2 consecutive post-baseline visits | 17 (6) | 5 (2) | 5 (4) | 0 | 5 (1) |
 
+Non-Transfusion-Dependent Thalassemia Syndromes
+
+In Study 5, 110 patients with NTDT received 1 year of treatment with deferasirox 5 or 10 mg/kg/day and 56 patients received placebo in a double-blind, randomized trial.
+In Study 6, 130 of the patients who completed Study 5 were treated with open-label deferasirox at 5, 10, or 20 mg/kg/day (depending on the baseline LIC) for 1 year [see Clinical Studies (14)].
+Table 3 displays adverse reactions occurring in greater than 5% in any group.
+The most frequent adverse reactions with a suspected relationship to study drug were nausea, rash, and diarrhea
+
+Table 3 Adverse Reactions Occurring in Greater Than 5% in NTDT Patients
+
+| Any adverse reaction | Study 5 |  | Study 6 |
+| --- | --- | --- | --- |
+| Deferasirox | Placebo | Deferasirox |  |
+| N = 110 | N = 56 | N = 130 |  |
+| n (%) | n (%) | n (%) |  |
+| 31 (28) | 9 (16) | 27 (21) |  |
+| Nausea | 7 (6) | 4 (7) | 2 (2) |
+| Rash | 7 (6) | 1 (2) | 2 (2) |
+| Diarrhea | 5 (5) | 1 (2) | 7 (5) |
+
+In Study 5, 1 patient in the placebo 10 mg/kg/day group experienced an ALT increase to greater than 5 times ULN and greater than 2 times baseline (Table 4).
+Three deferasirox-treated patients (all in the 10 mg/kg/day group) had 2 consecutive serum creatinine level increases greater than 33% from baseline and greater than ULN.
+Serum creatinine returned to normal in all 3 patients (in 1 spontaneously and in the other 2 after drug interruption).
+Two additional cases of ALT increase and 2 additional cases of serum creatinine increase were observed in the 1-year extension of Study 5.
+
+Table 4 Number (%) of NTDT Patients with Increases in Serum Creatinine or SGPT/ALT
+
+| Laboratory Parameter | Study 5 |  | Study 6 |
+| --- | --- | --- | --- |
+| Deferasirox | Placebo | Deferasirox |  |
+| N = 110 | N = 56 | N = 130 |  |
+| n (%) | n (%) | n (%) |  |
+| Serum creatinine (> 33% increase from baseline and > ULN at ≥ 2 consecutive post-baseline values) | 3 (3) | 0 | 2 (2) |
+| SGPT/ALT (> 5 x ULN and > 2 x baseline) | 1 (1) | 1 (2) | 2 (2) |
+
 Proteinuria
 
 In clinical studies, urine protein was measured monthly.
