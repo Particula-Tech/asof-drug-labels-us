@@ -17,7 +17,7 @@ The following serious and otherwise important adverse reactions are described el
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-In U.S. and primary non-U.S. clinical studies of 4,079 vigabatrin treated patients, the most common (≥ 5%) adverse reactions associated with the use of vigabatrin in combination with other AEDs were headache, somnolence, fatigue, dizziness, convulsion, nasopharyngitis, weight gain, upper respiratory tract infection, visual field defect, depression, tremor, nystagmus, nausea, diarrhea, memory impairment, insomnia, irritability, abnormal coordination, blurred vision, diplopia, vomiting, influenza, pyrexia, and rash.
+In U.S. and primary non-U.S. clinical studies of 4,079 vigabatrin-treated patients, the most common (≥ 5%) adverse reactions associated with the use of vigabatrin in combination with other AEDs were headache, somnolence, fatigue, dizziness, convulsion, nasopharyngitis, weight gain, upper respiratory tract infection, visual field defect, depression, tremor, nystagmus, nausea, diarrhea, memory impairment, insomnia, irritability, abnormal coordination, blurred vision, diplopia, vomiting, influenza, pyrexia, and rash.
 
 The adverse reactions most commonly associated with vigabatrin treatment discontinuation in ≥ 1% of patients were convulsion and depression.
 
@@ -27,10 +27,10 @@ Refractory Complex Partial Seizures
 
 Adults
 
-Table 5 lists the adverse reactions that occurred in ≥ 2% and more than one patient per vigabatrin treated group and that occurred more frequently than in placebo patients from 2 U.S. add-on clinical studies of refractory CPS in adults.
+Table 5 lists the adverse reactions that occurred in ≥ 2% and more than one patient per vigabatrin-treated group and that occurred more frequently than in placebo patients from 2 U.S. adjunctive clinical studies of refractory CPS in adults.
 
 Table 5.
-Adverse Reactions in Pooled, Add-On Trials in Adults with Refractory Complex Partial Seizures
+Adverse Reactions in Pooled, Adjunctive Trials in Adults with Refractory Complex Partial Seizures
 
 |  | Vigabatrin dosage(mg/day) |  |  |
 | --- | --- | --- | --- |
@@ -49,26 +49,26 @@ Adverse Reactions in Pooled, Add-On Trials in Adults with Refractory Complex Par
 | Respiratory and Thoracic DisordersPharyngolaryngeal painCough Pulmonary congestion Sinus headache | 7206 | 141452 | 5711 |
 | Skin and Subcutaneous Tissue DisordersRash | 4 | 5 | 4 |
 
-Pediatrics 10 to 16 years of age
+Pediatrics 2 to 16 years of age
 
-Table 6 lists adverse reactions from controlled clinical studies of pediatric patients receiving vigabatrin or placebo as add-on therapy for refractory complex partial seizures.
-Adverse reactions that are listed occurred in at least 2% of vigabatrin treated patients and more frequently than placebo.
+Table 6 lists adverse reactions from controlled clinical studies of pediatric patients receiving vigabatrin or placebo as adjunctive therapy for refractory complex partial seizures.
+Adverse reactions that are listed occurred in at least 2% of vigabatrin-treated patients and more frequently than placebo.
 The median vigabatrin dose was 49.4 mg/kg (range of 8 to 105.9 mg/kg).
 
 Table 6.
-Adverse Reactions in Pooled, Add-On Trials in Pediatric Patients 10 to 16 Years of Age with Refractory Complex Partial Seizures
+Adverse Reactions in Pooled, Adjunctive Trials in Pediatric Patients 3 to 16 Years of Age with Refractory Complex Partial Seizures
 
-| Body SystemAdverse Reaction | All Vigabatrin[N=109]% | Placebo[N=46]% |
+| Body SystemAdverse Reaction | All Vigabatrin[N=165]% | Placebo[N=104]% |
 | --- | --- | --- |
-| Eye DisordersDiplopia Blurred vision | 53 | 00 |
-| Gastrointestinal DisordersDiarrhea Upper abdominal pain Constipation | 633 | 202 |
-| General DisordersFatigue | 9 | 4 |
-| Infections and InfestationsUpper respiratory tract infection InfluenzaOtitis media | 1066 | 422 |
-| InvestigationsWeight gain | 17 | 2 |
-| Nervous System DisordersSomnolence Tremor Nystagmus Psychomotor hyperactivity | 6654 | 2022 |
-| Psychiatric DisordersAbnormal behavior Aggression Disorientation | 654 | 200 |
-| Reproduction and Breast DisordersDysmenorrhea | 3 | 0 |
-| Skin and Subcutaneous Tissue DisordersAcne | 3 | 0 |
+| Eye DisordersDiplopia Blurred vision | 32 | 20 |
+| Gastrointestinal DisordersUpper abdominal pain Constipation | 42 | 31 |
+| General DisordersFatigue | 10 | 7 |
+| Infections and InfestationsUpper respiratory tract infection InfluenzaOtitis media Streptococcal pharyngitisViral gastroenteritis | 157642 | 113430 |
+| InvestigationsWeight gain | 15 | 2 |
+| Nervous System DisordersSomnolence Nystagmus Tremor Status epilepticus | 6442 | 5321 |
+| Psychiatric DisordersAbnormal behavior Aggression Disorientation | 763 | 620 |
+
+Safety of vigabatrin for the treatment of refractory CPS in patients 2 years of age is expected to be similar to pediatric patients 3 to 16 years of age.
 
 Infantile Spasms
 
@@ -92,11 +92,10 @@ Adverse Reactions in a Placebo-Controlled Trial in Patients with Infantile Spasm
 | Respiratory DisordersNasal congestionCough | 133 | 48 |
 | Skin and Subcutaneous Tissue DisordersRash | 8 | 11 |
 
-## 6.2 Post Marketing Experience
+## 6.2 Postmarketing Experience
 
-The following adverse reactions have been reported during post approval use of vigabatrin worldwide.
-All adverse reactions that are not listed above as adverse reactions reported in clinical trials, that are not relatively common in the population and are not too vague to be useful are listed in this section.
-These reactions are reported voluntarily from a population of uncertain size; therefore, it is not possible to estimate their frequency or establish a causal relationship to drug exposure.
+The following adverse reactions have been identified during postapproval use of vigabatrin.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 Adverse reactions are categorized by system organ class.
 
 Birth Defects: Congenital cardiac defects, congenital external ear anomaly, congenital hemangioma, congenital hydronephrosis, congenital male genital malformation, congenital oral malformation, congenital vesicoureteric reflux, dentofacial anomaly, dysmorphism, fetal anticonvulsant syndrome, hamartomas, hip dysplasia, limb malformation, limb reduction defect, low set ears, renal aplasia, retinitis pigmentosa, supernumerary nipple, talipes

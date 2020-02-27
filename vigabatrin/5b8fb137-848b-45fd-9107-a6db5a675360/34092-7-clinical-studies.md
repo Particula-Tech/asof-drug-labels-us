@@ -25,7 +25,7 @@ The 3 g/day and 6 g/day dose groups were statistically significantly superior to
 Table 8.
 Median Monthly Frequency of Complex Partial Seizures+
 
-|  | N | Baseline | End study |
+|  | N | Baseline | Endstudy |
 | --- | --- | --- | --- |
 | Placebo | 45 | 9.0 | 8.8 |
 | 1 g/day vigabatrin | 45 | 8.5 | 7.7 |
@@ -51,7 +51,7 @@ Vigabatrin 3 g/day was statistically significantly superior to placebo in reduci
 Table 9.
 Median Monthly Frequency of Complex Partial Seizures
 
-|  | N | Baseline | End study |
+|  | N | Baseline | Endstudy |
 | --- | --- | --- | --- |
 | Placebo | 90 | 9.0 | 7.5 |
 | 3 g/day vigabatrin | 92 | 8.3 | 5.5* |
@@ -67,16 +67,16 @@ Patients with an increase in seizure frequency > 100% are represented on the Y-a
 For both studies, there was no difference in the effectiveness of vigabatrin between male and female patients.
 Analyses of age and race were not possible as nearly all patients were between the ages of 18 to 65 and Caucasian.
 
-Pediatric patients 10 to 16 years of age
+Pediatric patients 3 to 16 years of age
 
 Vigabatrin was studied in three double-blind, placebo-controlled, parallel-group studies in 269 patients who received vigabatrin and 104 patients who received placebo.
-No individual study was considered adequately powered to determine efficacy in pediatric patients age 10 years and above.
+No individual study was considered adequately powered to determine efficacy in pediatric patients age 3 years and above.
 The data from all three pediatric studies were pooled and used in a pharmacometric bridging analysis using weight-normalized doses to establish efficacy and determine appropriate dosing.
 All three studies were randomized, double-blind, placebo-controlled, parallel-group, adjunctive-treatment studies in patients aged 3 to 16 years with uncontrolled complex partial seizures with or without secondary generalization.
 The study period included a 6 to 10 week baseline phase and a 14 to 17 week treatment phase (composed of a titration and maintenance period).
 
 The pharmacometric bridging approach consisted of defining a weight-normalized dose-response, and showing that a similar dose-response relationship exists between pediatric patients and adult patients when vigabatrin was given as adjunctive therapy for complex partial seizures.
-Dosing recommendations in pediatric patients 10 to 16 years of age were derived from simulations utilizing these pharmacometric dose-response analyses [see Dosage and Administration (2.2)].
+Dosing recommendations in pediatric patients 2 to 16 years of age were derived from simulations utilizing these pharmacometric dose-response analyses [see Dosage and Administration (2.2)].
 
 ## 14.2 Infantile Spasms
 

@@ -4,7 +4,7 @@
   In some cases, vigabatrin also can damage the central retina and may decrease visual acuity [see Warnings and Precautions (5.1)].
 - The onset of vision loss from vigabatrin is unpredictable, and can occur within weeks of starting treatment or sooner, or at any time after starting treatment, even after months or years.
 - Symptoms of vision loss from vigabatrin are unlikely to be recognized by patients or caregivers before vision loss is severe.
-- Vision loss of milder severity, while often unrecognized by the patient or caregiver, can still adversely affect function.
+  Vision loss of milder severity, while often unrecognized by the patient or caregiver, can still adversely affect function.
 - The risk of vision loss increases with increasing dose and cumulative exposure, but there is no dose or exposure known to be free of risk of vision loss.
 - Vision assessment is recommended at baseline (no later than 4 weeks after starting vigabatrin), at least every 3 months during therapy, and about 3 to 6 months after the discontinuation of therapy.
 - Once detected, vision loss due to vigabatrin is not reversible.

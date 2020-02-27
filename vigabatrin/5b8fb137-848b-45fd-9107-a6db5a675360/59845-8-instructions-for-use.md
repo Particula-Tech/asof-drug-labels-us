@@ -21,13 +21,16 @@ Important Note:
 
 - Vigabatrin for oral solution should be given right away after it is mixed
 
+- Use the oral syringes, provided by the pharmacy, to measure and give the correct dose.
+  Do not use a household teaspoon or tablespoon.
+
 Supplies you will need to mix 1 dose of vigabatrin for oral solution:
 
 - The number of packets of vigabatrin for oral solution needed for each dose
 - 2 clean cups: 1 for mixing and 1 for water.
   The cup used for mixing vigabatrin for oral solution should be clear so you can see if the powder is dissolved
 - Water to mix with the vigabatrin for oral solution powder
-- One small 3 mL oral syringe and one large 10 mL oral syringe which are included
+- One small 3 mL oral syringe and one large 10 mL oral syringe which are provided by the pharmacy
 - Small spoon or other clean utensil to stir the mixture
 - Scissors
 
@@ -116,11 +119,11 @@ Do not save or reuse any leftover mixture.
 
 Step 15: Wash the oral syringes and mixing cups in warm water.
 To clean the oral syringes, remove the plunger by gently pulling it straight out of the barrel.
-The barrel and plunger can be hand washed with soap and water, rinsed, and allowed to dry, or the barrel and plunger can be placed in a dishwasher utensil rack, machine washed, and dried.
+The barrel and plunger can be hand washed with soap and water, rinsed, and allowed to dry.
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
 Distributed by: Amneal Pharmaceuticals LLC Bridgewater, NJ 08807
 
 Rev.
-08-2019-02
+01-2020-03
