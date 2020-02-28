@@ -2,6 +2,4 @@ RX ONLY
 
 # Manufactured & Distributed by:
 
-Triad Isotopes
-
-Orlando, Florida
+Jubilant Radiopharma Orlando, Florida

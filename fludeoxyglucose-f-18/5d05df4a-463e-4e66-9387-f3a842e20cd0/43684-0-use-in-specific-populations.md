@@ -2,17 +2,28 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Category C
+Risk Summary Data from published case series and case reports describe Fludeoxyglucose F 18 Injection crossing the placenta with uptake by the fetus (see Data).
+All radiopharmaceuticals have the potential to cause fetal harm depending on the fetal stage of development and the magnitude of the radiation dose.
+However, published studies that describe Fludeoxyglucose F 18 Injection use in pregnant women have not identified a risk of drug-associated major birth defects, miscarriage, or adverse maternal or fetal outcomes.
+If considering Fludeoxyglucose F 18 Injection administration to a pregnant woman, inform the patient about the potential for adverse pregnancy outcomes based on the radiation dose from Fludeoxyglucose F 18 Injection and the gestational timing of exposure.
 
-Animal reproduction studies have not been conducted with Fludeoxyglucose F 18 Injection.
-It is also not known whether Fludeoxyglucose F 18 Injection can cause fetal harm when administered to a pregnant woman or can affect reproduction capacity.
-Consider alternative diagnostic tests in a pregnant woman; administer Fludeoxyglucose F 18 Injection only if clearly needed.
+The estimated background risk of major birth defects and miscarriage for the indicated population is unknown.
+All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies are 2-4% and 15-20%, respectively.
 
-## 8.3 Nursing Mothers
+Data Human Data Data from published case series and case reports describe Fludeoxyglucose F 18 Injection crossing the placental barrier and visualization of radioactivity throughout the body of the fetus.
+The estimated fetal absorbed radiation dose from the maximum labeled dose (370 MBq) of Fludeoxyglucose F 18 was 10mGy with first trimester exposure to PET alone and 20mGy with first trimester exposure to PET/CT scan combination.
+Long-term adverse radiation effects to a child exposed to Fludeoyxglucose F 18 Injection in utero are unknown.
+No adverse fetal effects or radiation-related risks have been identified for diagnostic procedures involving less than 50mGy, which represents less than 20mGy fetal doses.
 
-It is not known whether Fludeoxyglucose F 18 Injection is excreted in human milk.
-Consider alternative diagnostic tests in women who are breast-feeding.
-Use alternatives to breast feeding (e.g., stored breast milk or infant formula) for at least 10 half-lives of radioactive decay, if Fludeoxyglucose F 18 Injection is administered to a woman who is breast-feeding.
+## 8.2 Lactation
+
+Risk Summary A published case report and case series show the presence of Fludeoxyglucose F 18 Injection in human milk following administration.
+There are no data on the effects of Fludeoxyglucose F 18 Injection on the breastfed infant or the effects on milk production.
+Exposure of Fludeoxyglucose F 18 Injection to a breastfed infant can be minimized by temporary discontinuation of breastfeeding (see Clinical Considerations).
+The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for Fludeoxyglucose F 18 Injection, any potential adverse effects on the breastfed child from Fludeoxyglucose F 18 Injection or from the underlying maternal condition.
+
+Clinical Considerations To decrease radiation exposure to the breastfed infant, advise a lactating woman to pump and discard breastmilk and avoid close (breast) contact with the infant for at least 9 hours after the administration of Fludeoxyglucose F 18 Injection.
 
 ## 8.4 Pediatric Use
 

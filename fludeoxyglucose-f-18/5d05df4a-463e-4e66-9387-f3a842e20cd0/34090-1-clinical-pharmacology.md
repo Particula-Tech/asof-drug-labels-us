@@ -6,7 +6,7 @@ Fludeoxyglucose F 18 is a glucose analog that concentrates in cells that rely up
 Fludeoxyglucose F 18 is transported through the cell membrane by facilitative glucose transporter proteins and is phosphorylated within the cell to [18F] FDG-6-phosphate by the enzyme hexokinase.
 Once phosphorylated it cannot exit until it is dephosphorylated by glucose-6-phosphatase.
 Therefore, within a given tissue or pathophysiological process, the retention and clearance of Fludeoxyglucose F 18 reflect a balance involving glucose transporter, hexokinase and glucose-6-phosphatase activities.
-When allowance is made for the kinetic differences between glucose and Fludeoxyglucose F 18 transport and phosphorylation (expressed as the ''lumped constant'' ratio), Fludeoxyglucose F 18 is used to assess glucose metabolism.
+Fludeoxyglucose F 18 is used to assess glucose metabolism.
 
 In comparison to background activity of the specific organ or tissue type, regions of decreased or absent uptake of Fludeoxyglucose F 18 reflect the decrease or absence of glucose metabolism.
 Regions of increased uptake of Fludeoxyglucose F 18 reflect greater than normal rates of glucose metabolism.
@@ -49,7 +49,6 @@ Clearance from the cardiac tissue may require more than 96 hours.
 Fludeoxyglucose F 18 that is not involved in glucose metabolism in any tissue is then excreted in the urine.
 
 Elimination:Fludeoxyglucose F 18 is cleared from most tissues within 24 hours and can be eliminated from the body unchanged in the urine.
-Three elimination phases have been identified in the reviewed literature.
 Within 33 minutes, a mean of 3.9% of the administrated radioactive dose was measured in the urine.
 The amount of radiation exposure of the urinary bladder at two hours post-administration suggests that 20.6% (mean) of the radioactive dose was present in the bladder.
 

@@ -12,8 +12,8 @@ The solution is packaged in a multiple-dose glass vial and does not contain any 
 
 ## 11.2 Physical Characteristics
 
-Fluorine F 18 decays by emitting positron to Oxygen O 18 (stable) and has a physical half-life of 109.8 minutes.
-The principal photons useful for imaging are the dual 511 keV gamma photons, that are produced and emitted simultaneously in opposite direction when the positron interacts with an electron (Table 2).
+Fluorine F 18 has a physical half-life of 109.7 minutes and decays to Oxygen O 18 (stable) by positron decay.
+The principal photons useful for imaging are the dual 511 keV “annihilation” gamma photons that are produced and emitted simultaneously in opposite directions when the positron interacts with an electron (Table 2).
 
 Table 2.
 Principal Radiation Emission Data for Fluorine F 18
@@ -21,7 +21,10 @@ Principal Radiation Emission Data for Fluorine F 18
 | Radiation/Emission | % Per Disintegration | Mean Energy |
 | --- | --- | --- |
 | Positron(β+) | 96.73 | 249.8 keV |
-| Gamma(±)Produced by positron annihilation From: Kocher, D.C. Radioactive Decay Tables DOE/TIC-I 1026, 89 (1981) | 193.46 | 511.0 keV |
+| Gamma(±)* | 193.46 | 511.0 keV |
+
+*Produced by positron annihilation From: Kocher, D.C.
+Radioactive Decay Tables DOE/TIC-I 1026, 89 (1981)calibration timecalibration time
 
 The specific gamma ray constant (point source air kerma coefficient) for fluorine F 18 is 5.7 R/hr/mCi (1.35 x 10 -6 Gy/hr/kBq) at 1 cm.
 The half-value layer (HVL) for the 511 keV photons is 4 mm lead (Pb).
@@ -48,9 +51,11 @@ Physical Decay Chart for Fluorine F 18
 
 | Minutes | Fraction Remaining |
 | --- | --- |
-| 0calibration time | 1.000 |
+| 0* | 1.000 |
 | 15 | 0.909 |
 | 30 | 0.826 |
 | 60 | 0.683 |
 | 110 | 0.500 |
 | 220 | 0.250 |
+
+*Calibration time
