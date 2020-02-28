@@ -2,6 +2,13 @@
 
 Advise the patient to read the FDA-approved patient labeling (Medication Guide)
 
+Storage and Disposal Because of the risks associated with accidental ingestion, misuse, and abuse, advise patients to store methadone hydrochloride tablets securely, out of sight and reach of children, and in a location not accessible by others, including visitors to the home [see Warnings and Precautions (5.1, 5.3), Drug Abuse and Dependence (9.2)].
+Inform patients that leaving methadone hydrochloride tablets unsecured can pose a deadly risk to others in the home.
+
+Advise patients and caregivers that when medicines are no longer needed, they should be disposed of promptly.
+Expired, unwanted, or unused methadone hydrochloride tablets should be disposed of by flushing the unused medication down the toilet if a drug take-back option is not readily available.
+Inform patients that they can visit www.fda.gov/drugdisposal for a complete list of medicines recommended for disposal by flushing, as well as additional information on disposal of unused medicines.
+
 Addiction, Abuse, and Misuse Inform patients that the use of methadone hydrochloride tablets, even when taken as recommended, can result in addiction, abuse, and misuse, which can lead to overdose or death [see Warnings and Precautions (5.1)].
 Instruct patients not to share methadone hydrochloride tablets with others and to take steps to protect methadone hydrochloride tablets from theft or misuse.
 
@@ -9,7 +16,6 @@ Life-Threatening Respiratory Depression Inform patients of the risk of life-thre
 Advise patients how to recognize respiratory depression and to seek medical attention if breathing difficulties develop.
 
 Accidental Ingestion Inform patients that accidental ingestion, especially by children, may result in respiratory depression or death [see Warnings and Precautions (5.3)].
-Instruct patients to take steps to store methadone hydrochloride tablets securely and to dispose of unused methadone hydrochloride tablets by flushing the tablets down the toilet.
 
 Symptoms of Arrhythmia Instruct patients to seek medical attention immediately if they experience symptoms suggestive of an arrhythmia (such as palpitations, near syncope, or syncope) when taking methadone [see Warnings and Precautions (5.4)].
 
@@ -29,7 +35,8 @@ Advise patients to seek medical attention if they experience a constellation of 
 Important Administration Instructions Instruct patients how to properly take methadone hydrochloride tablets, including the following:
 
 - Use methadone hydrochloride tablets exactly as prescribed to reduce the risk of life-threatening adverse reactions (e.g., respiratory depression) [see Dosage and Administration (2), Warnings and Precautions (5.3)].
-- Do not discontinue methadone hydrochloride tablets without first discussing the need for a tapering regimen with the prescriber [see Warnings and Precautions (5.15)].
+
+Important Discontinuation Instructions In order to avoid developing withdrawal symptoms, instruct patients not to discontinue methadone hydrochloride tablets without first discussing a tapering plan with the prescriber [see Dosage and Administration (2.5)].
 
 Hypotension Inform patients that methadone hydrochloride tablets may cause orthostatic hypotension and syncope.
 Instruct patients how to recognize symptoms of low blood pressure and how to reduce the risk of serious consequences should hypotension occur (e.g., sit or lie down, carefully rise from a sitting or lying position) [see Warnings and Precautions (5.11)].
@@ -53,15 +60,13 @@ Advise patients not to perform such tasks until they know how they will react to
 
 Constipation Advise patients of the potential for severe constipation, including management instructions and when to seek medical attention [see Adverse Reactions (6), Clinical Pharmacology (12.2)].
 
-Disposal of Unused Methadone Hydrochloride Tablets Advise patients to flush the unused tablets down the toilet when methadone hydrochloride tablets are no longer needed.
+Mallinckrodt, the “M” brand mark, the Mallinckrodt Pharmaceuticals logo and are trademarks of a Mallinckrodt company.
 
-Mallinckrodt, the “M” brand mark, the Mallinckrodt Pharmaceuticals logo and M are trademarks of a Mallinckrodt company.
-
-© 2018 Mallinckrodt.
+© 2019 Mallinckrodt.
 
 SpecGx LLC Webster Groves, MO 63119 USA
 
-Issued: 09/2018
+Issued: 10/2019
 
 Mallinckrodt™ Pharmaceuticals
 

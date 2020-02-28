@@ -20,6 +20,7 @@ Rx only Each tablet contains: Methadone Hydrochloride USP....
 10 mg
 
 PHARMACIST: Dispense the Medication Guide provided separately to each patient.
+
 Mallinckrodt™
 
 L00M79

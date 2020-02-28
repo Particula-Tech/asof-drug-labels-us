@@ -53,6 +53,10 @@ Overestimating the methadone hydrochloride tablets dosage when converting patien
 
 Accidental ingestion of even one dose of methadone hydrochloride tablets, especially by children, can result in respiratory depression and death due to an overdose of methadone.
 
+Opioids can cause sleep-related breathing disorders including central sleep apnea (CSA) and sleep-related hypoxemia.
+Opioid use increases the risk of CSA in a dose-dependent fashion.
+In patients who present with CSA, consider decreasing the opioid dosage using best practices for opioid taper [see Dosage and Administration (2.4)].
+
 ## 5.4 Life-Threatening QT Prolongation
 
 Cases of QT interval prolongation and serious arrhythmia (torsades de pointes) have been observed during treatment with methadone.
@@ -148,7 +152,7 @@ Alternatively, consider the use of non-opioid analgesics in these patients.
 ## 5.9 Serotonin Syndrome with Concomitant Use of Serotonergic Drugs
 
 Cases of serotonin syndrome, a potentially life-threatening condition, have been reported during concomitant use of methadone hydrochloride tablets with serotonergic drugs.
-Serotonergic drugs include selective serotonin reuptake inhibitors (SSRIs), serotonin and norepinephrine reuptake inhibitors (SNRIs), tricyclic antidepressants (TCAs), triptans, 5-HT3 receptor antagonists, drugs that affect the serotonergic neurotransmitter system (e.g., mirtazapine, trazodone, tramadol), and drugs that impair metabolism of serotonin (including MAO inhibitors, both those intended to treat psychiatric disorders and also others, such as linezolid and intravenous methylene blue) [see Drug Interactions (7)].
+Serotonergic drugs include selective serotonin reuptake inhibitors (SSRIs), serotonin and norepinephrine reuptake inhibitors (SNRIs), tricyclic antidepressants (TCAs), triptans, 5-HT3 receptor antagonists, drugs that affect the serotonergic neurotransmitter system (e.g., mirtazapine, trazodone, tramadol), certain muscle relaxants (i.e., cyclobenzaprine, metaxalone), and drugs that impair metabolism of serotonin (including MAO inhibitors, both those intended to treat psychiatric disorders and also others, such as linezolid and intravenous methylene blue) [see Drug Interactions (7)].
 This may occur within the recommended dosage range.
 
 Serotonin syndrome symptoms may include mental status changes (e.g., agitation, hallucinations, coma), autonomic instability (e.g., tachycardia, labile blood pressure, hyperthermia), neuromuscular aberrations (e.g., hyperreflexia, incoordination, rigidity), and/or gastrointestinal symptoms (e.g., nausea, vomiting, diarrhea).
@@ -197,11 +201,12 @@ Monitor patients with a history of seizure disorders for worsened seizure contro
 
 ## 5.15 Withdrawal
 
-Avoid the use of mixed agonist/antagonist (i.e., pentazocine, nalbuphine, and butorphanol) or partial agonist (e.g., buprenorphine) analgesics in patients who are receiving a full opioid agonist, including methadone hydrochloride tablets.
-In these patients, mixed agonists/antagonist and partial agonist analgesics may reduce the analgesic effect and/or may precipitate withdrawal symptoms [see Drug Interactions (7)].
+Do not abruptly discontinue methadone hydrochloride tablets in a patient physically dependent on opioids.
+When discontinuing methadone hydrochloride tablets in a physically dependent patient, gradually taper the dosage.
+Rapid tapering of methadone in a patient physically dependent on opioids may lead to a withdrawal syndrome and return of pain [see Dosage and Administration (2.5), Drug Abuse and Dependence (9.3)].
 
-When discontinuing methadone hydrochloride tablets, gradually taper the dosage [see Dosage and Administration (2.5)].
-Do not abruptly discontinue methadone hydrochloride tablets [see Drug Abuse and Dependence (9.3)].
+Additionally, avoid the use of mixed agonist/antagonist (e.g., pentazocine, nalbuphine, and butorphanol) or partial agonist (e.g., buprenorphine) analgesics in patients who are receiving a full opioid agonist, including methadone hydrochloride tablets.
+In these patients, mixed agonists/antagonist and partial agonist analgesics may reduce the analgesic effect and/or may precipitate withdrawal symptoms [see Drug Interactions (7)].
 
 ## 5.16 Risks Driving and Operating Machinery
 

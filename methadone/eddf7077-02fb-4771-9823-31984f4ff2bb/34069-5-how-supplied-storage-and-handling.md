@@ -8,6 +8,7 @@ Methadone Hydrochloride Tablets USP 10 mg are white to off-white, modified recta
 
 Bottles of 100...................NDC 0406-5771-01 Unit Dose (10 x 10)...........NDC 0406-5771-62
 
-Store at 20° to 25°C (68° to 77°F) [see USP Controlled Room Temperature].
+Store at 20° to 25°C (68° to 77°F), with excursions permitted between 15° to 30°C (59° to 86°F).
+[see USP Controlled Room Temperature].
 
-Dispense in a tight, light-resistant container (as defined in USP) with a child-resistant closure.
+Store methadone hydrochloride tablets securely and dispose of properly [see Patient Counseling Information (17)].
