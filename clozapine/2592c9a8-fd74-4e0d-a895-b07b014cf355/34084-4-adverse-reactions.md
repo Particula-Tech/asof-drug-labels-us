@@ -8,18 +8,19 @@ The following adverse reactions are discussed in more detail in other sections o
 - •Seizures [see Warnings and Precautions (5.5)].
 - •Myocarditis and Cardiomyopathy [see Warnings and Precautions (5.6)].
 - •Increased Mortality in Elderly Patients with Dementia-Related Psychosis [see Warnings and Precautions (5.7)].
-- •Eosinophilia [see Warnings and Precautions (5.8)].
-- •QT Interval Prolongation [see Warnings and Precautions (5.9)].
-- •Metabolic Changes (Hyperglycemia and Diabetes Mellitus, Dyslipidemia, and Weight Gain) [see Warnings and Precautions (5.10)].
-- •Neuroleptic Malignant Syndrome [see Warnings and Precautions (5.11)].
-- •Hepatotoxicity [see Warnings and Precautions (5.12)].
-- •Fever [see Warnings and Precautions (5.13)].
-- •Pulmonary Embolism [see Warnings and Precautions (5.14)].
-- •Anticholinergic Toxicity [see Warnings and Precautions (5.15)].
-- •Interference with Cognitive and Motor Performance [see Warnings and Precautions (5.16)].
-- •Tardive Dyskinesia [see Warnings and Precautions (5.17)].
-- •Cerebrovascular Adverse Reactions [see Warnings and Precautions (5.18)].
-- •Recurrence of Psychosis and Cholinergic Rebound after Abrupt Discontinuation [see Warnings and Precautions (5.19)].
+- •Gastrointestinal Hypomotility and Severe Complications [see Warnings and Precautions (5.8)].
+- •Eosinophilia [see Warnings and Precautions (5.9)].
+- •QT Interval Prolongation [see Warnings and Precautions (5.10)].
+- •Metabolic Changes (Hyperglycemia and Diabetes Mellitus, Dyslipidemia, and Weight Gain) [see Warnings and Precautions (5.11)].
+- •Neuroleptic Malignant Syndrome [see Warnings and Precautions (5.12)].
+- •Hepatotoxicity [see Warnings and Precautions (5.13)].
+- •Fever [see Warnings and Precautions (5.14)].
+- •Pulmonary Embolism [see Warnings and Precautions (5.15)].
+- •Anticholinergic Toxicity [see Warnings and Precautions (5.16)].
+- •Interference with Cognitive and Motor Performance [see Warnings and Precautions (5.17)].
+- •Tardive Dyskinesia [see Warnings and Precautions (5.18)].
+- •Cerebrovascular Adverse Reactions [seeWarnings and Precautions (5.19)].
+- •Recurrence of Psychosis and Cholinergic Rebound after Abrupt Discontinuation [see Warnings and Precautions (5.20)].
 
 ## 6.1 Clinical Trials Experience
 
@@ -30,20 +31,20 @@ Table 9 summarizes the most commonly reported adverse reactions (>5%) in clozapi
 
 Table 9: Common Adverse Reactions (≥5%) in the 6-Week, Randomized, Chlorpromazine-controlled Trial in Treatment-Resistant Schizophrenia
 
-| Adverse Reaction | Clozapine(N=126)(%) | Chlorpromazine(N=142)(%) |
+| Adverse Reaction | Clozapine (N=126) (%) | Chlorpromazine (N=142) (%) |
 | --- | --- | --- |
-| SedationTachycardiaConstipationDizzinessHypotensionFever (hyperthermia)HypersalivationHypertensionHeadacheNausea/vomitingDry mouth | 211716141313131210105 | 1311121638415101220 |
+| Sedation Tachycardia Constipation Dizziness Hypotension Fever (hyperthermia) Hypersalivation Hypertension Headache Nausea/vomiting Dry mouth | 21 17 16 14 13 13 13 12 10 10 5 | 13 11 12 16 38 4 1 5 10 12 20 |
 
 Table 10 summarizes the adverse reactions reported in clozapine-treated patients at a frequency of 2% or greater across all clozapine studies (excluding the 2-year InterSePT™ Study).
 These rates are not adjusted for duration of exposure.
 
 Table 10: Adverse Reactions (≥2%) Reported in Clozapine-treated Patients (N=842) across all Clozapine Studies (excluding the 2-year InterSePT™ Study)
 
-| Body System Adverse Reaction | ClozapineN=842 Percentage of Patients |
+| Body System Adverse Reaction | Clozapine N=842 Percentage of Patients |
 | --- | --- |
 | Central Nervous System Drowsiness/Sedation Dizziness/Vertigo Headache Tremor | 39 19 7 6 |
 | Syncope Disturbed Sleep/Nightmares Restlessness Hypokinesia/Akinesia | 6 4 4 4 |
-| Agitation Seizures (convulsions) Rigidity Akathisia Confusion Fatigue Insomnia | 4 3† 3 3 3 22 |
+| Agitation Seizures (convulsions) Rigidity Akathisia Confusion Fatigue Insomnia | 4 3† 3 3 3 2 2 |
 | Cardiovascular Tachycardia Hypotension Hypertension | 25† 9 4 |
 | Gastrointestinal Constipation Nausea Abdominal Discomfort/Heartburn Nausea/Vomiting Vomiting Diarrhea | 14 5 4 3 3 2 |
 | Urogenital Urinary Abnormalities | 2 |
@@ -59,7 +60,7 @@ The rates are not adjusted for duration of exposure.
 
 Table 11: Incidence of Adverse Reactions in Patients Treated with Clozapine or Olanzapine in the InterSePT™ Study (≥10% in the clozapine or olanzapine group)
 
-| Adverse Reactions | ClozapineN=479% Reporting | OlanzapineN=477% Reporting |
+| Adverse Reactions | Clozapine N=479 % Reporting | Olanzapine N=477 % Reporting |
 | --- | --- | --- |
 | Salivary hypersecretion | 48% | 6% |
 | Somnolence | 46% | 25% |
@@ -89,7 +90,7 @@ Delirium, EEG abnormal, myoclonus, paresthesia, possible cataplexy, status epile
 
 Cardiovascular System
 
-Atrial or ventricular fibrillation, ventricular tachycardia, QT interval prolongation, Torsades de Pointes, myocardial infarction, cardiac arrest, and periorbital edema.
+Atrial or ventricular fibrillation, ventricular tachycardia, QT interval prolongation, Torsades de Pointes, mitral valve incompetence associated with clozapine-related cardiomyopathy, myocardial infarction, cardiac arrest, and periorbital edema.
 
 Endocrine System
 
@@ -97,7 +98,7 @@ Pseudopheochromocytoma.
 
 Gastrointestinal System
 
-Acute pancreatitis, dysphagia, salivary gland swelling.
+Acute pancreatitis, dysphagia, salivary gland swelling, megacolon, intestinal ischemia or infarction.
 
 Hepatobiliary System
 

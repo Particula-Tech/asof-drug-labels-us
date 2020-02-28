@@ -140,7 +140,7 @@ Consider the possibility of myocarditis or cardiomyopathy in patients receiving 
 Myocarditis most frequently presents within the first two months of clozapine treatment.
 Symptoms of cardiomyopathy generally occur later than clozapine-associated myocarditis and usually after 8 weeks of treatment.
 However, myocarditis and cardiomyopathy can occur at any period during treatment with VERSACLOZ.
-It is common for nonspecific flu-like symptoms such as malaise, myalgia, pleuritic chest pain, and low-grade fevers to precede more overt signs of heart failure.
+It is common for nonspecific flu- like symptoms such as malaise, myalgia, pleuritic chest pain, and low-grade fevers to precede more overt signs of heart failure.
 Typical laboratory findings include elevated troponin I or T, elevated creatinine kinase-MB, peripheral eosinophilia, and elevated C-reactive protein (CRP).
 Chest roentgenogram may demonstrate cardiac silhouette enlargement, and cardiac imaging (echocardiogram, radionucleotide studies, or cardiac catheterization) may reveal evidence of left ventricular dysfunction.
 
@@ -154,7 +154,20 @@ Observational studies suggest that, similar to atypical antipsychotic drugs, tre
 The extent to which the findings of increased mortality in observational studies may be attributed to the antipsychotic drug as opposed to some characteristic(s) of the patients is not clear.
 VERSACLOZ is not approved for the treatment of patients with dementia-related psychosis [see Boxed Warning].
 
-## 5.8 Eosinophilia
+## 5.8 Gastrointestinal Hypomotility and Severe Complications
+
+Severe gastrointestinal adverse reactions have occurred with the use of VERSACLOZ, primarily due to its potent anticholinergic effects and resulting gastrointestinal hypomotility.
+In post marketing experience, reported effects range from constipation to paralytic ileus.
+Increased frequency of constipation and delayed diagnosis and treatment increased the risk of severe complications of gastrointestinal hypomotility, resulting in intestinal obstruction, fecal impaction, megacolon and intestinal ischemia or infarction [see Adverse Reaction (6.2)].
+These reactions have resulted in hospitalization, surgery, and death.
+The risk for severe adverse reactions is further increased with anticholinergic medications (and other medications that decrease gastrointestinal peristalsis); therefore, concomitant use should be avoided when possible [see Warnings and Precautions (5.16),Drug Interactions (7.1)].
+Prior to initiating VERSACLOZ, screen for constipation and treat as necessary.
+Subjective symptoms of constipation may not accurately reflect the degree of gastrointestinal hypomotility in VERSACLOZ treated patients.
+Therefore, reassess bowel function frequently with careful attention to any changes in the frequency or character of bowel movements, as well as signs and symptoms of complications of hypomotility (e.g., nausea, vomiting, abdominal distension, abdominal pain).
+If constipation or gastrointestinal hypomotility are identified, monitor closely and treat promptly with appropriate laxatives, as necessary, to prevent severe complications.
+Consider prophylactic laxatives in high risk patients.
+
+## 5.9 Eosinophilia
 
 Eosinophilia, defined as a blood eosinophil count of greater than 700/μL, has occurred with clozapine treatment.
 In clinical trials, approximately 1% of patients developed eosinophilia.
@@ -171,7 +184,7 @@ There are reports of successful rechallenge after discontinuation of clozapine, 
 In the absence of organ involvement, continue VERSACLOZ under careful monitoring.
 If the total eosinophil count continues to increase over several weeks in the absence of systemic disease, the decision to interrupt VERSACLOZ therapy and rechallenge after the eosinophil count decreases should be based on the overall clinical assessment, in consultation with an internist or hematologist.
 
-## 5.9 QT Interval Prolongation
+## 5.10 QT Interval Prolongation
 
 QT prolongation, Torsades de Pointes and other life-threatening ventricular arrhythmias, cardiac arrest, and sudden death have occurred with clozapine treatment.
 When prescribing VERSACLOZ, consider the presence of additional risk factors for QT prolongation and serious cardiovascular reactions.
@@ -194,7 +207,7 @@ Use caution when treating patients at risk for significant electrolyte disturban
 Obtain baseline measurements of serum potassium and magnesium levels, and periodically monitor electrolytes.
 Correct electrolyte abnormalities before initiating treatment with VERSACLOZ.
 
-## 5.10 Metabolic Changes
+## 5.11 Metabolic Changes
 
 Atypical antipsychotic drugs, including VERSACLOZ, have been associated with metabolic changes that can increase cardiovascular and cerebrovascular risk.
 These metabolic changes include hyperglycemia, dyslipidemia, and body weight gain.
@@ -224,9 +237,9 @@ Table 4: Categorical Changes in Fasting Glucose Level in Studies in Adult Subjec
 
 | Laboratory Parameter | Category Change (at least once) from baseline | Treatment Arm | N | n (%) |
 | --- | --- | --- | --- | --- |
-| Fasting Glucose | Normal (<100 mg/dL)toHigh (≥126 mg/dL) | Clozapine | 198 | 53 (27) |
+| Fasting Glucose | Normal (<100 mg/dL) to High (≥126 mg/dL) | Clozapine | 198 | 53 (27) |
 | Chlorpromazine | 135 | 14 (10) |  |  |
-| Borderline (100 to 125 mg/dL)toHigh (≥126 mg/dL) | Clozapine | 57 | 24 (42) |  |
+| Borderline (100 to 125 mg/dL) to High (≥126 mg/dL) | Clozapine | 57 | 24 (42) |  |
 | Chlorpromazine | 43 | 12 (28) |  |  |
 
 Dyslipidemia
@@ -258,17 +271,17 @@ Table 6: Categorical Changes in Lipid Concentrations in Studies in Adult Subject
 
 | Laboratory Parameter | Category Change (at least once) from Baseline | Treatment Arm | N | n (%) |
 | --- | --- | --- | --- | --- |
-| Total Cholesterol(random or fasting) | Increase by ≥40 mg/dL | Clozapine | 334 | 111 (33) |
+| Total Cholesterol (random or fasting) | Increase by ≥40 mg/dL | Clozapine | 334 | 111 (33) |
 | Chlorpromazine | 185 | 46 (25) |  |  |
-| Normal (<200 mg/dL) toHigh (≥240 mg/dL) | Clozapine | 222 | 18 (8) |  |
+| Normal (<200 mg/dL) to High (≥240 mg/dL) | Clozapine | 222 | 18 (8) |  |
 | Chlorpromazine | 132 | 3 (2) |  |  |
-| Borderline (200 - 239 mg/dL) toHigh (≥240 mg/dL) | Clozapine | 79 | 30 (38) |  |
+| Borderline (200 - 239 mg/dL) to High (≥240 mg/dL) | Clozapine | 79 | 30 (38) |  |
 | Chlorpromazine | 34 | 14 (41) |  |  |
-| Triglycerides(fasting) | Increase by ≥50 mg/dL | Clozapine | 6 | 3 (50) |
+| Triglycerides (fasting) | Increase by ≥50 mg/dL | Clozapine | 6 | 3 (50) |
 | Chlorpromazine | 7 | 3 (43) |  |  |
-| Normal (<150 mg/dL) toHigh (≥200 mg/dL) | Clozapine | 4 | 0 (0) |  |
+| Normal (<150 mg/dL) to High (≥200 mg/dL) | Clozapine | 4 | 0 (0) |  |
 | Chlorpromazine | 6 | 2 (33) |  |  |
-| Borderline (≥150 mg/dL and <200 mg/dL) toHigh (≥200 mg/dL) | Clozapine | 1 | 1 (100) |  |
+| Borderline (≥150 mg/dL and <200 mg/dL) to High (≥200 mg/dL) | Clozapine | 1 | 1 (100) |  |
 | Chlorpromazine | 1 | 0 (0) |  |  |
 
 Weight Gain
@@ -280,7 +293,7 @@ The median duration of exposure was 609, 728, and 42 days, in the clozapine, ola
 
 Table 7: Mean Change in Body Weight (kg) by duration of exposure from studies in adult subjects with schizophrenia
 
-| Metabolic parameter | Exposure duration | Clozapine(N=669) |  | Olanzapine(N=442) |  | Chlorpromazine(N=155) |  |
+| Metabolic parameter | Exposure duration | Clozapine (N=669) |  | Olanzapine (N=442) |  | Chlorpromazine (N=155) |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | n | Mean | n | Mean | n | Mean |  |  |
 | Weight change from baseline | 2 weeks (Day 11 – 17) | 6 | +0.9 | 3 | +0.7 | 2 | -0.5 |
@@ -300,7 +313,7 @@ Table 8: Proportion of adult subjects in schizophrenia studies with weight gain 
 | N | 669 | 442 | 155 |
 | ≥7% (inclusive) | 236 (35%) | 203 (46%) | 13 (8%) |
 
-## 5.11 Neuroleptic Malignant Syndrome
+## 5.12 Neuroleptic Malignant Syndrome
 
 Antipsychotic drugs including VERSACLOZ can cause a potentially fatal symptom complex referred to as Neuroleptic Malignant Syndrome (NMS).
 Clinical manifestations of NMS include hyperpyrexia, muscle rigidity, altered mental status, and autonomic instability (irregular pulse or blood pressure, tachycardia, diaphoresis, and cardiac dysrhythmias).
@@ -318,46 +331,41 @@ Monitor closely if restarting treatment with antipsychotics.
 
 NMS has occurred with clozapine monotherapy and with concomitant CNS-active medications, including lithium.
 
-## 5.12 Hepatotoxicity
+## 5.13 Hepatotoxicity
 
-Severe, life threatening, and in some cases fatal hepatotoxicity including hepatic failure, hepatic necrosis, and hepatitis have been reported in patients treated with clozapine [see Adverse Reactions (6.2)].
+Severe, life threatening, and in some cases fatal hepatotoxicity including hepatic failure, hepatic necrosis, and hepatitis have been reported in patients treated with clozapine[see Adverse Reactions (6.2)].
 Monitor for the appearance of signs and symptoms of hepatotoxicity such as fatigue, malaise, anorexia, nausea, jaundice, bilirubinemia, coagulopathy, and hepatic encephalopathy.
 Perform serum tests for liver injury and consider permanently discontinuing treatment if hepatitis or transaminase elevations combined with other systemic symptoms are due to clozapine.
 
-## 5.13 Fever
+## 5.14 Fever
 
 During clozapine therapy, patients have experienced transient, clozapine-related fever.
 The peak incidence is within the first 3 weeks of treatment.
 While this fever is generally benign and self-limited, it may necessitate discontinuing treatment.
 The fever can be associated with an increase or decrease in WBC count.
 Carefully evaluate patients with fever to rule out severe neutropenia or infection.
-Consider the possibility of NMS [see Warnings and Precautions (5.11)].
+Consider the possibility of NMS [see Warnings and Precautions (5.12)].
 
-## 5.14 Pulmonary Embolism
+## 5.15 Pulmonary Embolism
 
 Pulmonary embolism and deep vein thrombosis have occurred in patients treated with clozapine.
 Consider the possibility of pulmonary embolism in patients who present with deep vein thrombosis, acute dyspnea, chest pain, or with other respiratory signs and symptoms.
 Whether pulmonary embolus and deep vein thrombosis can be attributed to clozapine or some characteristic(s) of patients is not clear.
 
-## 5.15 Anticholinergic Toxicity
+## 5.16 Anticholinergic Toxicity
 
 VERSACLOZ has potent anticholinergic effects.
-Treatment with VERSACLOZ can result in CNS and peripheral anticholinergic toxicity.
-Use with caution in the presence of narrow-angle glaucoma, concomitant anticholinergic medications, prostatic hypertrophy, or other conditions in which anticholinergic effects can lead to significant adverse reactions.
+Treatment with VERSACLOZ can result in CNS and peripheral anticholinergic toxicity, especially at higher dosages or in overdose situations [see Overdosage (10)].Use with caution in patients with a current diagnosis or prior history of constipation, urinary retention, clinically significant prostatic hypertrophy, or other conditions in which anticholinergic effects can lead to significant adverse reactions.
+When possible, avoid concomitant use with other anticholinergic medications because the risk for anticholinergic toxicity or severe gastrointestinal adverse reactions is increased [see Warnings and Precautions (5.8), Drug Interactions (7.1)].
 
-Treatment with VERSACLOZ can result in gastrointestinal adverse reactions, including constipation, intestinal obstruction, fecal impaction, and paralytic ileus.
-Such reactions can be fatal.
-Constipation should be initially treated by ensuring adequate hydration and use of ancillary therapy such as bulk laxatives.
-Consultation with a gastroenterologist is advisable in more serious cases.
-
-## 5.16 Interference with Cognitive and Motor Performance
+## 5.17 Interference with Cognitive and Motor Performance
 
 VERSACLOZ can cause sedation and impairment of cognitive and motor performance.
 Caution patients about operating hazardous machinery, including automobiles, until they are reasonably certain that VERSACLOZ does not affect them adversely.
 These reactions may be dose-related.
 Consider reducing the dose if they occur.
 
-## 5.17 Tardive Dyskinesia
+## 5.18 Tardive Dyskinesia
 
 Tardive dyskinesia (TD) has occurred in patients treated with antipsychotic drugs, including VERSACLOZ.
 The syndrome consists of potentially irreversible, involuntary, dyskinetic movements.
@@ -374,13 +382,13 @@ However, the syndrome may remit partially or completely if treatment is disconti
 Antipsychotic treatment, itself, may suppress (or partially suppress) the signs and symptoms, and it has the potential to mask the underlying process.
 The effect of symptom suppression on the long-term course of TD is unknown.
 
-## 5.18 Cerebrovascular Adverse Reactions
+## 5.19 Cerebrovascular Adverse Reactions
 
 In controlled trials, elderly patients with dementia-related psychosis treated with some atypical antipsychotics had an increased risk (compared to placebo) of cerebrovascular adverse reactions (e.g., stroke, transient ischemic attack), including fatalities.
 The mechanism for this increased risk is not known.
 An increased risk cannot be excluded for VERSACLOZ or other antipsychotics or other patient populations.
 VERSACLOZ should be used with caution in patients with risk factors for cerebrovascular adverse reactions.
 
-## 5.19 Recurrence of Psychosis and Cholinergic Rebound after Abrupt Discontinuation of VERSACLOZ
+## 5.20 Recurrence of Psychosis and Cholinergic Rebound after Abrupt Discontinuation of VERSACLOZ
 
 If abrupt discontinuation of VERSACLOZ is necessary (because of severe neutropenia or another medical condition, for example) [see Dosage and Administration (2.5), Warnings and Precautions (5.1)], monitor carefully for the recurrence of psychotic symptoms and adverse reactions related to cholinergic rebound, such as profuse sweating, headache, nausea, vomiting and diarrhea.

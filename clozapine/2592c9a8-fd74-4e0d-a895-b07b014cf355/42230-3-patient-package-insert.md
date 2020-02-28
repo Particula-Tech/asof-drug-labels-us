@@ -217,7 +217,7 @@ This Patient Information Leaflet summarizes the most important information about
 If you would like more information, talk with your healthcare provider.
 You can ask your pharmacist or healthcare provider for more information about VERSACLOZ that is written for healthcare professionals.
 
-For more information, go to www.VERSACLOZ.com or call 1-855-279-0626.
+For more information, go to www.VERSACLOZ.com or call 1-800-520-5568.
 
 What are the ingredients in VERSACLOZ?
 
@@ -255,4 +255,4 @@ Tampa, FL 33609
 
 This Patient Information and the Instructions for Use have been approved by the U.S. Food and Drug Administration.
 
-308405 Revised:00, January 2018
+309939 Revised: February 2020
