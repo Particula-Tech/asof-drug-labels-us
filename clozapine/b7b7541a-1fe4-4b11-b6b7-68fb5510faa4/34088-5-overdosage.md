@@ -9,11 +9,9 @@ There have also been reports of patients recovering from overdoses well in exces
 
 ## 10.2 Management of Overdosage
 
-For the most up-to-date information on the management of FAZACLO overdosage, contact a certified Regional Poison Control Center (1-800-222-1222).
-Telephone numbers of certified Regional Poison Control Centers are listed in the Physicians’ Desk Reference®, a registered trademark of PDR Network.
+There are no specific antidotes for FAZACLO.
 Establish and maintain an airway; ensure adequate oxygenation and ventilation.
 Monitor cardiac status and vital signs.
 Use general symptomatic and supportive measures.
-There are no specific antidotes for FAZACLO.
-
-In managing overdosage, consider the possibility of multiple-drug involvement.
+Consider the possibility of multiple-drug involvement.
+Contact a Certified Poison Control Center for the most up to date information on the management of overdosage (1-800-222-1222).

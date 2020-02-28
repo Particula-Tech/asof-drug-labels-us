@@ -154,7 +154,21 @@ Observational studies suggest that, similar to atypical antipsychotic drugs, tre
 The extent to which the findings of increased mortality in observational studies may be attributed to the antipsychotic drug as opposed to some characteristic(s) of the patients is not clear.
 FAZACLO is not approved for the treatment of patients with dementia-related psychosis [see Boxed Warning].
 
-## 5.8 Eosinophilia
+## 5.8 Gastrointestinal Hypomotility with Severe Complications
+
+Severe gastrointestinal adverse reactions have occurred with the use of FAZACLO, primarily due to its potent anticholinergic effects and resulting gastrointestinal hypomotility.
+In post marketing experience, reported effects range from constipation to paralytic ileus.
+Increased frequency of constipation and delayed diagnosis and treatment increased the risk of severe complications of gastrointestinal hypomotility, resulting in intestinal obstruction, fecal impaction, megacolon and intestinal ischemia or infarction [see Adverse Reaction (6.2)].
+These reactions have resulted in hospitalization, surgery, and death.
+The risk for severe adverse reactions is further increased with anticholinergic medications (and other medications that decrease gastrointestinal peristalsis); therefore, concomitant use should be avoided when possible [see Warnings and Precautions (5.16), Drug Interactions (7.1)].
+
+Prior to initiating FAZACLO, screen for constipation and treat as necessary.
+Subjective symptoms of constipation may not accurately reflect the degree of gastrointestinal hypomotility in FAZACLO treated patients.
+Therefore, reassess bowel function frequently with careful attention to any changes in the frequency or character of bowel movements, as well as signs and symptoms of complications of hypomotility (e.g., nausea, vomiting, abdominal distension, abdominal pain).
+If constipation or gastrointestinal hypomotility are identified, monitor closely and treat promptly with appropriate laxatives, as necessary, to prevent severe complications.
+Consider prophylactic laxatives in high risk patients.
+
+## 5.9 Eosinophilia
 
 Eosinophilia, defined as a blood eosinophil count of greater than 700/µL, has occurred with clozapine treatment.
 In clinical trials, approximately 1% of patients developed eosinophilia.
@@ -171,7 +185,7 @@ There are reports of successful rechallenge after discontinuation of clozapine, 
 In the absence of organ involvement, continue FAZACLO under careful monitoring.
 If the total eosinophil count continues to increase over several weeks in the absence of systemic disease, the decision to interrupt FAZACLO therapy and rechallenge after the eosinophil count decreases should be based on the overall clinical assessment, in consultation with an internist or hematologist.
 
-## 5.9 QT Interval Prolongation
+## 5.10 QT Interval Prolongation
 
 QT prolongation, Torsades de Pointes and other life-threatening ventricular arrhythmias, cardiac arrest, and sudden death have occurred with clozapine treatment.
 When prescribing FAZACLO, consider the presence of additional risk factors for QT prolongation and serious cardiovascular reactions.
@@ -194,7 +208,7 @@ Use caution when treating patients at risk for significant electrolyte disturban
 Obtain baseline measurements of serum potassium and magnesium levels, and periodically monitor electrolytes.
 Correct electrolyte abnormalities before initiating treatment with FAZACLO.
 
-## 5.10 Metabolic Changes
+## 5.11 Metabolic Changes
 
 Atypical antipsychotic drugs, including FAZACLO, have been associated with metabolic changes that can increase cardiovascular and cerebrovascular risk.
 These metabolic changes include hyperglycemia, dyslipidemia, and body weight gain.
@@ -300,7 +314,7 @@ Table 8: Proportion of adult subjects in schizophrenia studies with weight gain 
 | N | 669 | 442 | 155 |
 | ≥7% (inclusive) | 236 (35%) | 203 (46%) | 13 (8%) |
 
-## 5.11 Neuroleptic Malignant Syndrome
+## 5.12 Neuroleptic Malignant Syndrome
 
 Antipsychotic drugs including FAZACLO can cause a potentially fatal symptom complex referred to as Neuroleptic Malignant Syndrome (NMS).
 Clinical manifestations of NMS include hyperpyrexia, muscle rigidity, altered mental status, and autonomic instability (irregular pulse or blood pressure, tachycardia, diaphoresis, and cardiac dysrhythmias).
@@ -318,13 +332,13 @@ Monitor closely if restarting treatment with antipsychotics.
 
 NMS has occurred with clozapine monotherapy and with concomitant CNS-active medications, including lithium.
 
-## 5.12 Hepatotoxicity
+## 5.13 Hepatotoxicity
 
 Severe, life threatening, and in some cases fatal hepatotoxicity including hepatic failure, hepatic necrosis, and hepatitis have been reported in patients treated with clozapine [see Adverse Reactions (6.2)].
 Monitor for the appearance of signs and symptoms of hepatotoxicity such as fatigue, malaise, anorexia, nausea, jaundice, bilirubinemia, coagulopathy, and hepatic encephalopathy.
 Perform serum tests for liver injury and consider permanently discontinuing treatment if hepatitis or transaminase elevations combined with other systemic symptoms are due to clozapine.
 
-## 5.13 Fever
+## 5.14 Fever
 
 During clozapine therapy, patients have experienced transient, clozapine-related fever.
 The peak incidence is within the first 3 weeks of treatment.
@@ -333,31 +347,27 @@ The fever can be associated with an increase or decrease in WBC count.
 Carefully evaluate patients with fever to rule out severe neutropenia or infection.
 Consider the possibility of NMS [see Warnings and Precautions (5.11)].
 
-## 5.14 Pulmonary Embolism
+## 5.15 Pulmonary Embolism
 
 Pulmonary embolism and deep vein thrombosis have occurred in patients treated with clozapine.
 Consider the possibility of pulmonary embolism in patients who present with deep vein thrombosis, acute dyspnea, chest pain, or with other respiratory signs and symptoms.
 Whether pulmonary embolus and deep vein thrombosis can be attributed to clozapine or some characteristic(s) of patients is not clear.
 
-## 5.15 Anticholinergic Toxicity
+## 5.16 Anticholinergic Toxicity
 
 FAZACLO has potent anticholinergic effects.
-Treatment with FAZACLO can result in CNS and peripheral anticholinergic toxicity.
-Use with caution in the presence of narrow-angle glaucoma, concomitant anticholinergic medications, prostatic hypertrophy, or other conditions in which anticholinergic effects can lead to significant adverse reactions.
+Treatment with FAZACLO can result in CNS and peripheral anticholinergic toxicity especially at higher dosages or in overdose situations [see Overdosage (10)].
+Use with caution in patients with a current diagnosis or prior history of constipation, urinary retention, clinically significant prostatic hypertrophy, or other conditions in which anticholinergic effects can lead to significant adverse reactions.
+When possible, avoid concomitant use with other anticholinergic medications because the risk for anticholinergic toxicity or severe gastrointestinal adverse reactions is increased [see Warnings and Precautions (5.8), Drug Interactions (7.1)].
 
-Treatment with FAZACLO can result in gastrointestinal adverse reactions, including constipation, intestinal obstruction, fecal impaction, and paralytic ileus.
-Such reactions can be fatal.
-Constipation should be initially treated by ensuring adequate hydration and use of ancillary therapy such as bulk laxatives.
-Consultation with a gastroenterologist is advisable in more serious cases.
-
-## 5.16 Interference with Cognitive and Motor Performance
+## 5.17 Interference with Cognitive and Motor Performance
 
 FAZACLO can cause sedation and impairment of cognitive and motor performance.
 Caution patients about operating hazardous machinery, including automobiles, until they are reasonably certain that FAZACLO does not affect them adversely.
 These reactions may be dose-related.
 Consider reducing the dose if they occur.
 
-## 5.17 Tardive Dyskinesia
+## 5.18 Tardive Dyskinesia
 
 Tardive dyskinesia (TD) has occurred in patients treated with antipsychotic drugs, including FAZACLO.
 The syndrome consists of potentially irreversible, involuntary, dyskinetic movements.
@@ -374,7 +384,7 @@ However, the syndrome may remit partially or completely if treatment is disconti
 Antipsychotic treatment, itself, may suppress (or partially suppress) the signs and symptoms, and it has the potential to mask the underlying process.
 The effect of symptom suppression on the long-term course of TD is unknown.
 
-## 5.18 Patients with Phenylketonuria
+## 5.19 Patients with Phenylketonuria
 
 Phenylketonuric patients should be informed that FAZACLO contains phenylalanine (a component of aspartame).
 Each 12.5 mg, orally disintegrating tablet contains 0.87 mg phenylalanine.
@@ -383,13 +393,13 @@ Each 100 mg, orally disintegrating tablet contains 6.96 mg phenylalanine.
 Each 150 mg, orally disintegrating tablet contains 10.44 mg phenylalanine.
 Each 200 mg, orally disintegrating tablet contains 13.92 mg phenylalanine.
 
-## 5.19 Cerebrovascular Adverse Reactions
+## 5.20 Cerebrovascular Adverse Reactions
 
 In controlled trials, elderly patients with dementia-related psychosis treated with some atypical antipsychotics had an increased risk (compared to placebo) of cerebrovascular adverse reactions (e.g., stroke, transient ischemic attack), including fatalities.
 The mechanism for this increased risk is not known.
 An increased risk cannot be excluded for FAZACLO or other antipsychotics or other patient populations.
 FAZACLO should be used with caution in patients with risk factors for cerebrovascular adverse reactions.
 
-## 5.20 Recurrence of Psychosis and Cholinergic Rebound after Abrupt Discontinuation of FAZACLO
+## 5.21 Recurrence of Psychosis and Cholinergic Rebound after Abrupt Discontinuation of FAZACLO
 
 If abrupt discontinuation of FAZACLO is necessary (because of severe neutropenia or another medical condition, for example) [see Dosage and Administration (2.4), Warnings and Precautions (5.1)], monitor carefully for the recurrence of psychotic symptoms and adverse reactions related to cholinergic rebound, such as profuse sweating, headache, nausea, vomiting, and diarrhea.
