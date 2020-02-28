@@ -5,7 +5,7 @@
 Prior to initiating treatment with central nervous system (CNS) stimulants, including methylphenidate hydrochloride extended-release capsules, assess for the presence of cardiac disease (i.e., perform a careful history including family history of sudden death or ventricular arrhythmia, and physical examination) [see Warnings and Precautions (5.2)].
 
 Assess the risk of abuse prior to prescribing, and monitor for signs of abuse and dependence while on therapy.
-Maintain careful prescription records, educate patients about abuse, monitor for signs of abuse and overdose, and periodically reevaluate the need for methylphenidate hydrochloride extended-release capsule use [see Boxed Warning, Warnings and Precautions (5.1), Drug Abuse and Dependence (9)].
+Maintain careful prescription records, educate patients about abuse, monitor for signs of abuse and overdose, and periodically reevaluate the need for methylphenidate hydrochloride extended-release capsule use [see Boxed Warning, Warnings and Precautions (5.1), Drug Abuse and Dependence (9.2, 9.3)].
 
 ## 2.2 General Dosing Information
 
@@ -15,7 +15,7 @@ Daily dosage above 60 mg is not recommended.
 When a lower initial dose is appropriate, patients may begin treatment with 10 mg.
 
 Administer methylphenidate hydrochloride extended-release capsules orally once daily in the morning.
-Methylphenidate hydrochloride extended-release capsules may be swallowed as whole capsule or may be administered by sprinkling the capsule contents on a small amount of applesauce (see specific instructions below).
+Methylphenidate hydrochloride extended-release capsules may be swallowed as whole capsules or may be administered by sprinkling the capsule contents on a small amount of applesauce (see specific instructions below).
 Methylphenidate hydrochloride extended-release capsules and/or their contents should not be crushed, chewed, or divided.
 
 The capsules may be carefully opened and the beads sprinkled over a spoonful of applesauce.
@@ -24,15 +24,15 @@ The mixture of drug and applesauce should be consumed immediately in its entiret
 The drug and applesauce mixture should not be stored for future use.
 
 Pharmacological treatment of ADHD may be needed for extended periods.
-Periodically reevaluate the long-term use of methylphenidate hydrochloride and methylphenidate hydrochloride extended-release tablets, and adjust dosage as needed.
+Periodically reevaluate the long-term use of methylphenidate hydrochloride tablets and methylphenidate hydrochloride extended-release tablets, and adjust dosage as needed.
 
 ## 2.3 Patients Currently Using Methylphenidate Hydrochloride or Methylphenidate Hydrochloride Extended-release Tablets
 
-The recommended dose of methylphenidate hydrochloride extended-release capsules, for patients currently taking methylphenidate hydrochloride tablets twice daily or methylphenidate hydrochloride extended-release tablets is provided below.
+The recommended dose of methylphenidate hydrochloride extended-release capsules for patients currently taking methylphenidate hydrochloride tablets twice daily or methylphenidate hydrochloride extended-release tablets is provided below.
 
 Table 1: Recommended Dose Conversion from Methylphenidate Hydrochloride or Methylphenidate Hydrochloride Extended-release Tablets
 
-| Previous Methylphenidate Hydrochloride or Methylphenidate Hydrochloride Extended-release Tablets | Recommended Methylphenidate Hydrochloride Extended-release Capsules Dose |
+| Previous Methylphenidate Hydrochloride or Methylphenidate Hydrochloride Extended-release Tablets Dose | Recommended Methylphenidate Hydrochloride Extended-release Capsules Dose |
 | --- | --- |
 | 5 mg methylphenidate hydrochloride tablets twice daily | 10 mg once daily |
 | 10 mg methylphenidate hydrochloride tablets twice daily or 20 mg methylphenidate hydrochloride extended-release tablets | 20 mg once daily |

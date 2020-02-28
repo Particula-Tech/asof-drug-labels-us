@@ -4,8 +4,8 @@ Advise the patient to read the FDA-approved patient labeling (Medication Guide).
 
 Controlled Substance Status/High Potential for Abuse and Dependence
 
-Advise patients that methylphenidate hydrochloride extended-release capsule is a controlled substance, and it can be abused and lead to dependence.
-Instruct patients that they should not give methylphenidate hydrochloride extended-release capsule to anyone else.
+Advise patients that methylphenidate hydrochloride extended-release capsules are a controlled substance, and it can be abused and lead to dependence.
+Instruct patients that they should not give methylphenidate hydrochloride extended-release capsules to anyone else.
 Advise patients to store methylphenidate hydrochloride extended-release capsules in a safe place, preferably locked, to prevent abuse.
 Advise patients to comply with laws and regulations on drug disposal.
 Advise patients to dispose of remaining, unused, or expired methylphenidate hydrochloride extended-release capsules by a medicine take-back program if available [see Boxed Warning, Warnings and Precautions (5.1), Drug Abuse and Dependence (9.1, 9.2, 9.3), How Supplied/Storage and Handling (16)].
@@ -25,11 +25,12 @@ Advise patients that methylphenidate hydrochloride extended-release capsules, at
 
 Priapism
 
-Advise patients of the possibility of painful or prolonged penile erections (priapism).Instruct them to seek immediate medical attention in the event of priapism [see Warnings and Precautions (5.5)].
+Advise patients of the possibility of painful or prolonged penile erections (priapism).
+Instruct them to seek immediate medical attention in the event of priapism [see Warnings and Precautions (5.5)].
 
 Circulation Problems in Fingers and Toes [Peripheral Vasculopathy, Including Raynaud’s Phenomenon]
 
-Instruct patients beginning treatment with methylphenidate hydrochloride extended-release capsules about the risk of peripheral vasculopathy, including Raynaud’s Phenomenon, and associated signs and symptoms: fingers or toes may feel numb, cool, painful, and/or may change color from pale, to blue, to red.
+Instruct patients beginning treatment with methylphenidate hydrochloride extended-release capsules about the risk of peripheral vasculopathy, including Raynaud’s phenomenon, and associated signs and symptoms: fingers or toes may feel numb, cool, painful, and/or may change color from pale, to blue, to red.
 Instruct patients to report to their physician any new numbness, pain, skin color change, or sensitivity to temperature in fingers or toes.
 
 Instruct patients to call their physician immediately with any signs of unexplained wounds appearing on fingers or toes while taking methylphenidate hydrochloride extended-release capsules.
@@ -44,6 +45,10 @@ Alcohol Effect
 Advise patients to avoid alcohol while taking methylphenidate hydrochloride extended-release capsules.
 Consumption of alcohol while taking methylphenidate hydrochloride extended-release capsules may result in a more rapid release of the dose of methylphenidate [see Clinical Pharmacology (12.3)].
 
+Pregnancy Registry
+
+Advise patients that there is a pregnancy exposure registry that monitors pregnancy outcomes in patients exposed to methylphenidate hydrochloride extended-release capsules during pregnancy [see Use in Specific Populations (8.1)].
+
 Distributed by: Sandoz Inc. Princeton, NJ 08540
 
-T2019-32
+T2019-138

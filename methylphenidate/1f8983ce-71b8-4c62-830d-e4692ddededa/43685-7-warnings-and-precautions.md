@@ -14,7 +14,7 @@ Further evaluate patients who develop exertional chest pain, unexplained syncope
 
 ## 5.3 Blood Pressure and Heart Rate Increases
 
-CNS stimulants cause an increase in blood pressure (mean increase approximately 2 to 4 mmHg) and heart rate (mean increase approximately 3 to 6 bpm).
+CNS stimulants cause an increase in blood pressure (mean increase approximately 2 to 4 mmHg) and heart rate (mean increase approximately 3 to 6 beats per minute).
 Individuals may have larger increases.
 Monitor all patients for hypertension and tachycardia.
 
@@ -37,14 +37,14 @@ In a pooled analysis of multiple short-term, placebo-controlled studies of CNS s
 
 ## 5.5 Priapism
 
-Prolonged and painful erections, sometimesrequiring surgical intervention, have been reported with methylphenidate products in both pediatric and adult patients.
+Prolonged and painful erections, sometimes requiring surgical intervention, have been reported with methylphenidate products in both pediatric and adult patients.
 Priapism was not reported with drug initiation but developed after some time on the drug, often subsequent to an increase in dose.
 Priapism has also appeared during a period of drug withdrawal (drug holidays or during discontinuation).
 Patients who develop abnormally sustained or frequent and painful erections should seek immediate medical attention.
 
 ## 5.6 Peripheral Vasculopathy, including Raynaud’s Phenomenon
 
-Stimulants, including methylphenidate hydrochloride extended-release capsules, used to treat ADHD are associated with peripheral vasculopathy, including Raynaud’s phenomenon.
+CNS stimulants, including methylphenidate hydrochloride extended-release capsules, used to treat ADHD are associated with peripheral vasculopathy, including Raynaud’s phenomenon.
 Signs and symptoms are usually intermittent and mild; however, very rare sequelae include digital ulceration and/or soft tissue breakdown.
 Effects of peripheral vasculopathy, including Raynaud’s phenomenon, were observed in post-marketing reports at different times and at therapeutic doses in all age groups throughout the course of treatment.
 Signs and symptoms generally improve after reduction in dose or discontinuation of drug.
@@ -55,7 +55,7 @@ Further clinical evaluation (e.g., rheumatology referral) may be appropriate for
 
 CNS stimulants have been associated with weight loss and slowing of growth rate in pediatric patients.
 
-Careful follow-up of weight and height in pediatric patients ages 7 to 10 years who were randomized to either methylphenidate or non-medication treatment groups over 14 months, as well as in naturalistic subgroups of newly methylphenidate-treated and non-medication treated patients over 36 months (to the ages of 10-13 years), suggests that consistently medicated pediatric patients (i.e., treatment for 7 days per week throughout the year) have a temporary slowing in growth rate (on average, a total of about 2 cm less growth in height and 2.7 kg less growth in weight over 3 years), without evidence of growth rebound during this period of development.
+Careful follow-up of weight and height in pediatric patients ages 7 to 10 years who were randomized to either methylphenidate or non-medication treatment groups over 14 months, as well as in naturalistic subgroups of newly methylphenidate-treated and non-medication treated patients over 36 months (to the ages of 10 to 13 years), suggests that consistently medicated pediatric patients (i.e., treatment for 7 days per week throughout the year) have a temporary slowing in growth rate (on average, a total of about 2 cm less growth in height and 2.7 kg less growth in weight over 3 years), without evidence of growth rebound during this period of development.
 
 Closely monitor growth (weight and height) in pediatric patients treated with CNS stimulants, including methylphenidate hydrochloride extended-release capsules.
 Patients who are not growing or gaining height or weight as expected may need to have their treatment interrupted.

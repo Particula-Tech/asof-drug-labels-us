@@ -2,7 +2,7 @@
 
 ## 14.1 Children and Adolescents
 
-Methylphenidate hydrochloride extended-release capsules was evaluated in a randomized, double-blind, placebo-controlled, parallel group clinical study in which 134 children, ages 6 to 12, with DSM-IV diagnoses of ADHD received a single morning dose of methylphenidate hydrochloride extended-release capsules in the range of 10 to 40 mg/day, or placebo, for up to 2 weeks.
+Methylphenidate hydrochloride extended-release capsules were evaluated in a randomized, double-blind, placebo-controlled, parallel group clinical study in which 134 children, ages 6 to 12, with DSM-IV diagnoses of ADHD received a single morning dose of methylphenidate hydrochloride extended-release capsules in the range of 10 to 40 mg/day, or placebo, for up to 2 weeks.
 The doses used were the optimal doses established in a previous individual dose titration phase.
 In that titration phase, 53 of 164 patients (32%) started on a daily dose of 10 mg and 111 of 164 patients (68%) started on a daily dose of 20 mg or higher.
 The patient’s regular schoolteacher completed the Conners ADHD/DSM-IV Scale for Teachers (CADS-T) at baseline and the end of each week.
