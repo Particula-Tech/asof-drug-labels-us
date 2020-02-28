@@ -19,7 +19,7 @@ The following are discussed in more detail in other sections of the labeling:
 
 The most common adverse reactions in clinical trials (>5% and twice placebo) were parkinsonism, akathisia, dystonia, tremor, sedation, dizziness, anxiety, blurred vision, nausea, vomiting, upper abdominal pain, stomach discomfort, dyspepsia, diarrhea, salivary hypersecretion, constipation, dry mouth, increased appetite, increased weight, fatigue, rash, nasal congestion, upper respiratory tract infection, nasopharyngitis, and pharyngolaryngeal pain.
 
-The most common adverse reactions that were associated with discontinuation from clinical trials (causing discontinuation in >1% of adults and/or >2% of pediatrics) were nausea, somnolence, sedation, vomiting, dizziness, and akathisia [see Adverse Reactions,Discontinuations Due to Adverse Reactions (6.1)].
+The most common adverse reactions that were associated with discontinuation from clinical trials (causing discontinuation in >1% of adults and/or >2% of pediatrics) were nausea, somnolence, sedation, vomiting, dizziness, and akathisia [see Adverse Reactions, Discontinuations Due to Adverse Reactions (6.1)].
 
 The data described in this section are derived from a clinical trial database consisting of 9,803 adult and pediatric patients exposed to one or more doses of risperidone for the treatment of schizophrenia, bipolar mania, autistic disorder, and other psychiatric disorders in pediatrics and elderly patients with dementia.
 Of these 9,803 patients, 2,687 were patients who received risperidone while participating in double-blind, placebo-controlled trials.
@@ -143,7 +143,7 @@ Table 10: Adverse Reactions in ≥2% of Risperidone - Treated Adult Patients (an
 | Dizziness | 6 | 5 |
 | Dystonia* | 5 | 1 |
 | Lethargy | 2 | 1 |
-| * Parkinsonism includes extrapyramidal disorder, parkinsonism, musculoskeletal stiffness, hypokinesia, muscle rigidity, muscle tightness, bradykinesia, cogwheel rigidity. Akathisia includes akathisia and parkinsonian rest tremor. Dystonia includes dystonia, muscle spasms, oculogyration, torticollis. |  |  |
+| * Parkinsonism includes extrapyramidal disorder, parkinsonism, musculoskeletal stiffness, hypokinesia, muscle rigidity, muscle tightness, bradykinesia, cogwheel rigidity. Akathisia includes akathisia restlessness. Tremor includes tremor and parkinsonian rest tremor. Dystonia includes dystonia, muscle spasms, oculogyration, torticollis. |  |  |
 
 Table 11 lists the adverse reactions reported in 2% or more of risperidone-treated adult patients with bipolar mania in two 3-week, double-blind, placebo-controlled adjuvant therapy trials.
 
@@ -173,7 +173,7 @@ Adverse Reactions in ≥2% of Risperidone -Treated Adult Patients (and greater t
 | Psychiatric Disorders |  |  |
 | Anxiety | 3 | 2 |
 | Respiratory, Thoracic and Mediastinal Disorders |  |  |
-| Pharyngoaryngeal pain | 5 | 2 |
+| Pharyngolaryngeal pain | 5 | 2 |
 | Cough | 2 | 0 |
 | * Parkinsonism includes extrapyramidal disorder, hypokinesia and bradykinesia. Akathisia includes hyperkinesia and akathisia. |  |  |
 
@@ -251,7 +251,7 @@ Adverse Reactions in ≥5% of Risperidone -Treated Pediatric Patients (and great
 | Headache | 12 | 10 |
 | Tremor | 8 | 1 |
 | Dizziness | 8 | 2 |
-| Parkinsonism * | 8 | 1 |
+| Parkinsonism* | 8 | 1 |
 | Renal and Urinary Disorders |  |  |
 | Enuresis | 16 | 10 |
 | Respiratory, Thoracic and Mediastinal Disorders |  |  |
@@ -417,4 +417,4 @@ In two controlled schizophrenia trials in adolescents (aged 13 to 17 years), the
 
 The following adverse reactions have been identified during postapproval use of risperidone.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
-These adverse reactions include: alopecia, anaphylactic reaction, angioedema, atrial fibrillation, cardiopulmonary arrest, diabetic ketoacidosis in patients with impaired glucose metabolism, dysgeusia, hypoglycemia, hypothermia, ileus, inappropriate antidiuretic hormone secretion, intestinal obstruction, jaundice, mania, pancreatitis, pituitary adenoma, precocious puberty, pulmonary embolism, QT prolongation, somnambulism, sudden death, thrombocytopenia, thrombotic thrombocytopenic purpura, urinary retention, and water intoxication.
+These adverse reactions include: alopecia, anaphylactic reaction, angioedema, atrial fibrillation, cardiopulmonary arrest, diabetic ketoacidosis in patients with impaired glucose metabolism, dysgeusia, hypoglycemia, hypothermia, ileus, inappropriate antidiuretic hormone secretion, intestinal obstruction, jaundice, mania, pancreatitis, pituitary adenoma, precocious puberty, pulmonary embolism, QT prolongation, sleep apnea syndrome, somnambulism, Stevens-Johnson syndrome and toxic epidermal necrolysis (SJS/TEN), sudden death, thrombocytopenia, thrombotic thrombocytopenic purpura, urinary retention, and water intoxication.

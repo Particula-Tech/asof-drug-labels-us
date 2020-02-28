@@ -5,12 +5,12 @@
 Carcinogenesis
 
 Risperidone was administered in the diet at doses of 0.63, 2.5, and 10 mg/kg for 18 months to mice and for 25 months to rats.
-These doses are equivalent to approximately 0.2, 0.75, and 3 times (mice) and 0.4, 1.5, and 6 times (rats) the MRHD of 16 mg/day, based on mg/m 2body surface area.
+These doses are equivalent to approximately 0.2, 0.75, and 3 times (mice) and 0.4, 1.5, and 6 times (rats) the MRHD of 16 mg/day, based on mg/m2body surface area.
 A maximum tolerated dose was not achieved in male mice.
 There were statistically significant increases in pituitary gland adenomas, endocrine pancreas adenomas, and mammary gland adenocarcinomas.
-The table below summarizes the multiples of the human dose on a mg/m 2 (mg/kg) basis at which these tumors occurred.
+The table below summarizes the multiples of the human dose on a mg/m2 (mg/kg) basis at which these tumors occurred.
 
-|  |  |  | Multiples of Maximum Human Dose in mg/m 2 (mg/kg) |  |
+|  |  |  | Multiples of Maximum Human Dose in mg/m2 (mg/kg) |  |
 | --- | --- | --- | --- | --- |
 | Tumor Type | Species | Sex | Lowest Effect Level | Highest No- Effect Level |
 | Pituitary adenomas | mouse | Female | 0.75 (9.4) | 0.2 (2.4) |
@@ -31,9 +31,9 @@ No evidence of mutagenic or clastogenic potential for risperidone was found in t
 
 Impairment of Fertility
 
-Oral risperidone (0.16 to 5 mg/kg) impaired mating, but not fertility, in rat reproductive studies at doses 0.1 to 3 times the MRHD of 16 mg/day based on mg/m 2 body surface area.
+Oral risperidone (0.16 to 5 mg/kg) impaired mating, but not fertility, in rat reproductive studies at doses 0.1 to 3 times the MRHD of 16 mg/day based on mg/m2 body surface area.
 The effect appeared to be in females, since impaired mating behavior was not noted in the male fertility study.
-In a subchronic study in Beagle dogs in which risperidone was administered orally at doses of 0.31 to 5 mg/kg, sperm motility and concentration were decreased at doses 0.6 to 10 times the MRHD based on mg/m 2body surface area.
+In a subchronic study in Beagle dogs in which risperidone was administered orally at doses of 0.31 to 5 mg/kg, sperm motility and concentration were decreased at doses 0.6 to 10 times the MRHD based on mg/m2body surface area.
 Dose-related decreases were also noted in serum testosterone at the same doses.
 Serum testosterone and sperm parameters partially recovered, but remained decreased after treatment was discontinued.
 A no-effect dose could not be determined in either rat or dog.

@@ -102,7 +102,7 @@ The results of these trials are as follows:
 A third trial was a 6-week, multicenter, randomized, double-blind, placebo-controlled, fixed-dose study to evaluate the efficacy and safety of a lower than recommended dose of risperidone in subjects (N=96) 5 to 17 years of age with autistic disorder (defined by DSM-IV criteria) and associated irritability and related behavioral symptoms.
 Approximately 77% of patients were younger than 12 years of age (mean age = 9), and 88% were male.
 Most patients (73%) weighed less than 45 kg (mean weight = 40 kg).
-Approximately 90% of patients were antipsychotic- na ïve before entering the study.
+Approximately 90% of patients were antipsychotic- naïve before entering the study.
 
 There were two weight-based, fixed doses of risperidone (high-dose and low-dose).
 The high dose was 1.25 mg per day for patients weighing 20 to < 45 kg, and it was 1.75 mg per day for patients weighing ≥ 45 kg.

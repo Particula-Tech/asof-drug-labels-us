@@ -3,14 +3,14 @@
 ## 12.1 Mechanism of Action
 
 The mechanism of action of risperidone in schizophrenia is unclear.
-The drug's therapeutic activity in schizophrenia could be mediated through a combination of dopamine Type 2 (D 2) and serotonin Type 2 (5HT 2) receptor antagonism.
+The drug's therapeutic activity in schizophrenia could be mediated through a combination of dopamine Type 2 (D2) and serotonin Type 2 (5HT2) receptor antagonism.
 The clinical effect from risperidone results from the combined concentrations of risperidone and its major metabolite, 9-hydroxy-risperidone [see Clinical Pharmacology (12.3)].
-Antagonism at receptors other than D 2 and 5HT 2 may explain some of the other effects of risperidone [see Clinical Pharmacology (12.1)].
+Antagonism at receptors other than D2 and 5HT2 may explain some of the other effects of risperidone[see Clinical Pharmacology (12.1)].
 
 ## 12.2 Pharmacodynamics
 
-Risperidone is a monoaminergic antagonist with high affinity (Ki of 0.12 to 7.3 nM) for the serotonin Type 2 (5HT 2), dopamine Type 2 (D 2), α 1 and α 2 adrenergic, and H 1 histaminergic receptors.
-Risperidone showed low to moderate affinity (Ki of 47 to 253 nM) for the serotonin 5HT 1C, 5HT 1D, and 5HT 1A receptors, weak affinity (Ki of 620 to 800 nM) for the dopamine D 1 and haloperidol-sensitive sigma site, and no affinity (when tested at concentrations >10 -5 M) for cholinergic muscarinic or β 1 and β 2 adrenergic receptors.
+Risperidone is a monoaminergic antagonist with high affinity (Ki of 0.12 to 7.3 nM) for the serotonin Type 2 (5HT2), dopamine Type 2 (D2), α1 and α2 adrenergic, and H1 histaminergic receptors.
+Risperidone showed low to moderate affinity (Ki of 47 to 253 nM) for the serotonin 5HT1C, 5HT1D, and 5HT1A receptors, weak affinity (Ki of 620 to 800 nM) for the dopamine D1 and haloperidol-sensitive sigma site, and no affinity (when tested at concentrations >10-5 M) for cholinergic muscarinic or β1 and β2 adrenergic receptors.
 
 ## 12.3 Pharmacokinetics
 
@@ -37,7 +37,7 @@ Distribution
 
 Risperidone is rapidly distributed.
 The volume of distribution is 1 to 2 L/kg.
-In plasma, risperidone is bound to albumin and α 1-acid glycoprotein.
+In plasma, risperidone is bound to albumin and α1-acid glycoprotein.
 The plasma protein binding of risperidone is 90%, and that of its major metabolite, 9-hydroxyrisperidone, is 77%.
 Neither risperidone nor 9-hydroxyrisperidone displaces each other from plasma binding sites.
 High therapeutic concentrations of sulfamethazine (100 mcg/mL), warfarin (10 mcg/mL), and carbamazepine (10mcg/mL) caused only a slight increase in the free fraction of risperidone at 10 ng/mL and 9-hydroxyrisperidone at 50 ng/mL, changes of unknown clinical significance.

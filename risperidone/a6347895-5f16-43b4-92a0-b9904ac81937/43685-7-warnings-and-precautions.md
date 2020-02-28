@@ -19,7 +19,7 @@ Risperidone is not approved for the treatment of dementia-related psychosis [see
 Cerebrovascular adverse reactions (e.g., stroke, transient ischemic attack), including fatalities, were reported in patients (mean age 85 years; range 73 to 97) in trials of risperidone in elderly patients with dementia-related psychosis.
 In placebo-controlled trials, there was a significantly higher incidence of cerebrovascular adverse events in patients treated with risperidone compared to patients treated with placebo.
 Risperidone is not approved for the treatment of patients with dementia-related psychosis.
-[see Boxed WarningandWarnings and Precautions (5.1)]
+[see Boxed Warning and Warnings and Precautions (5.1)]
 
 ## 5.3 Neuroleptic Malignant Syndrome
 
@@ -41,8 +41,6 @@ The patient should be carefully monitored, since recurrences of NMS have been re
 
 A syndrome of potentially irreversible, involuntary, dyskinetic movements may develop in patients treated with antipsychotic drugs.
 The risk of developing tardive dyskinesia and the likelihood that it will become irreversible are believed to increase as the duration of treatment and the total cumulative dose of antipsychotic drugs administered to the patient increase.
-However, the syndrome can develop, although much less commonly, after relatively brief treatment periods at low doses.A syndrome of potentially irreversible, involuntary, dyskinetic movements may develop in patients treated with antipsychotic drugs.
-The risk of developing tardive dyskinesia and the likelihood that it will become irreversible are believed to increase as the duration of treatment and the total cumulative dose of antipsychotic drugs administered to the patient increase.
 However, the syndrome can develop, although much less commonly, after relatively brief treatment periods at low doses.
 
 The syndrome may remit, partially or completely, if antipsychotic treatment is withdrawn.
@@ -52,13 +50,9 @@ The effect that symptomatic suppression has upon the long-term course of the syn
 Given these considerations, prescribe risperidone in a manner that is most likely to minimize the occurrence of tardive dyskinesia.
 Chronic antipsychotic treatment should generally be reserved for patients who suffer from a chronic illness that: (1) is known to respond to antipsychotic drugs, and (2) for whom alternative, equally effective, but potentially less harmful treatments are not available or appropriate.
 In patients who do require chronic treatment, the smallest dose and the shortest duration of treatment producing a satisfactory clinical response should be sought.
-The need for continued treatment should be reassessed periodically.Given these considerations, prescribe risperidone in a manner that is most likely to minimize the occurrence of tardive dyskinesia.
-Chronic antipsychotic treatment should generally be reserved for patients who suffer from a chronic illness that: (1) is known to respond to antipsychotic drugs, and (2) for whom alternative, equally effective, but potentially less harmful treatments are not available or appropriate.
-In patients who do require chronic treatment, the smallest dose and the shortest duration of treatment producing a satisfactory clinical response should be sought.
 The need for continued treatment should be reassessed periodically.
 
 If signs and symptoms of tardive dyskinesia appear in a patient treated with risperidone, consider drug discontinuation.
-However, some patients may require treatment with risperidone despite the presence of the syndrome.If signs and symptoms of tardive dyskinesia appear in a patient treated with risperidone, consider drug discontinuation.
 However, some patients may require treatment with risperidone despite the presence of the syndrome.
 
 ## 5.5 Metabolic Changes
@@ -221,7 +215,7 @@ When treating pediatric patients with risperidone for any indication, weight gai
 
 Summary of Heart Protection Study Results
 
-| Endpoint | Simvastatin Tablets (N=10,269) n (%) number of patients with indicated event. | Placebo (N=10,267) n (%) | Risk Reduction (%) (95% CI) | p-Value |
+| Endpoint | Simvastatin Tablets (N=10,269) n (%)number of patients with indicated event. | Placebo (N=10,267) n (%) | Risk Reduction (%) (95% CI) | p-Value |
 | --- | --- | --- | --- | --- |
 | Primary |  |  |  |  |
 | Mortality | 1,328 (12.9) | 1,507 (14.7) | 13 (6 to 19) | p=0.0003 |
@@ -235,7 +229,7 @@ Summary of Heart Protection Study Results
 
 ## 5.6 Hyperprolactinemia
 
-As with other drugs that antagonize dopamine D 2 receptors, risperidone elevates prolactin levels and the elevation persists during chronic administration.
+As with other drugs that antagonize dopamine D2 receptors, risperidone elevates prolactin levels and the elevation persists during chronic administration.
 Risperidone is associated with higher levels of prolactin elevation than other antipsychotic agents.
 
 Hyperprolactinemia may suppress hypothalamic GnRH, resulting in reduced pituitary gonadotropin secretion.
@@ -251,7 +245,7 @@ Neither clinical studies nor epidemiologic studies conducted to date have shown 
 
 Risperidone may induce orthostatic hypotension associated with dizziness, tachycardia, and in some patients, syncope, especially during the initial dose-titration period, probably reflecting its alpha-adrenergic antagonistic properties.
 Syncope was reported in 0.2% (6/2,607) of risperidone-treated patients in Phase 2 and 3 studies in adults with schizophrenia.
-The risk of orthostatic hypotension and syncope may be minimized by limiting the initial dose to 2 mg total (either once daily or 1 mg twice daily) in normal adults and 0.5 mg twice daily in the elderly and patients with renal or hepatic impairment [seeDosageandAdministration(2.1, 2.4)].
+The risk of orthostatic hypotension and syncope may be minimized by limiting the initial dose to 2 mg total (either once daily or 1 mg twice daily) in normal adults and 0.5 mg twice daily in the elderly and patients with renal or hepatic impairment [see Dosage and Administration (2.1, 2.4)].
 Monitoring of orthostatic vital signs should be considered in patients for whom this is of concern.
 A dose reduction should be considered if hypotension occurs.
 Risperidone should be used with particular caution in patients with known cardiovascular disease (history of myocardial infarction or ischemia, heart failure, or conduction abnormalities), cerebrovascular disease, and conditions which would predispose patients to hypotension, e.g., dehydration and hypovolemia.
@@ -264,14 +258,14 @@ For patients, particularly the elderly, with diseases, conditions, or medication
 
 ## 5.9 Leukopenia, Neutropenia, and Agranulocytosis
 
-ClassEffect: In clinical trial and/or postmarketing experience, events of leukopenia/neutropenia have been reported temporally related to antipsychotic agents, including risperidone.
+Class Effect: In clinical trial and/or postmarketing experience, events of leukopenia/neutropenia have been reported temporally related to antipsychotic agents, including risperidone.
 Agranulocytosis has also been reported.
 
 Possible risk factors for leukopenia/neutropenia include pre-existing low white blood cell count (WBC) and history of drug-induced leukopenia/neutropenia.
 Patients with a history of a clinically significant low WBC or a drug-induced leukopenia/neutropenia should have their complete blood count (CBC) monitored frequently during the first few months of therapy and discontinuation of risperidone should be considered at the first sign of a clinically significant decline in WBC in the absence of other causative factors.
 
 Patients with clinically significant neutropenia should be carefully monitored for fever or other symptoms or signs of infection and treated promptly if such symptoms or signs occur.
-Patients with severe neutropenia (absolute neutrophil count <1,000/mm 3) should discontinue risperidone and have their WBC followed until recovery.
+Patients with severe neutropenia (absolute neutrophil count <1,000/mm3) should discontinue risperidone and have their WBC followed until recovery.
 
 ## 5.10 Potential for Cognitive and Motor Impairment
 

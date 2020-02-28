@@ -2,7 +2,7 @@
 
 Risperidone tablets, USP, contain risperidone, USP, an atypical antipsychotic belonging to the chemical class of benzisoxazole derivatives.
 The chemical designation is 3-[2-[4-(6-fluoro-1,2-benzisoxazol-3-yl)-1-piperidinyl]ethyl]-6,7,8,9-tetrahydro-2-methyl-4H-pyrido[1,2-a]pyrimidin-4-one.
-Its molecular formula is C 23H 27FN 4O 2 and its molecular weight is 410.49.
+Its molecular formula is C23H27FN4O2 and its molecular weight is 410.49.
 The structural formula is:
 
 Risperidone, USP is a white to slightly beige powder.
