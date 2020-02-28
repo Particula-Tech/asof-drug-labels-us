@@ -1,121 +1,14 @@
-Patient Information TOBRAMYCIN INHALATION SOLUTION PAK for oral inhalation
-
-Read this Patient Information before you start using TOBRAMYCIN INHALATION SOLUTION PAK and each time you get a refill.
-There may be new information.
-This information does not take the place of talking with your healthcare provider about your medical condition or your treatment.
-
-What is TOBRAMYCIN INHALATION SOLUTION PAK?
-
-TOBRAMYCIN INHALATION SOLUTION PAK contains a prescription medicine and a PARI LC PLUS Reusable Nebulizer used to treat adults and children 6 years of age and older with cystic fibrosis who have a bacterial infection called Pseudomonas aeruginosa.
-TOBRAMYCIN INHALATION SOLUTION PAK contains an antibacterial medicine called tobramycin (an aminoglycoside).
-
-It is not known if TOBRAMYCIN INHALATION SOLUTION PAK is safe and effective:
-
-- in children under 6 years of age
-- in people who have decreased lung volume or an FEV1 less than 25% or greater than 75% predicted
-- in people who are colonized with a bacterium called Burkholderia cepacia
-- when used for more than 3 cycles
-
-Who should not use TOBRAMYCIN INHALATION SOLUTION PAK?
-
-Do not use TOBRAMYCIN INHALATION SOLUTION PAK if you are allergic to tobramycin, any of the ingredients in TOBRAMYCIN INHALATION SOLUTION PAK, or to any other aminoglycoside antibacterial medicine.
-
-What should I tell my healthcare provider before using TOBRAMYCIN INHALATION SOLUTION PAK?
-
-Before you use TOBRAMYCIN INHALATION SOLUTION PAK, tell your healthcare provider if you:
-
-- have or have had hearing problems (including noises in your ears)
-- have dizziness
-- have or have had kidney problems
-- have or have had problems with muscle weakness such as myasthenia gravis or Parkinson's disease
-- have or have had breathing problems such as wheezing, coughing, or chest tightness
-- have had an organ transplant
-- are pregnant or plan to become pregnant.
-  See “What are the possible side effects of TOBRAMYCIN INHALATION SOLUTION PAK?” below for more information.
-- are breastfeeding or plan to breastfeed.
-  It is not known if the medicine in Tobramycin Inhalation Solution Pak passes into your breast milk.
-
-Tell your healthcare provider about all the medicines you take, including prescription and over-the-counter, vitamins, and herbal supplements.
-
-Using TOBRAMYCIN INHALATION SOLUTION PAK with certain other medicines can cause serious side effects.
-
-If you are using TOBRAMYCIN INHALATION SOLUTION PAK, you should discuss with your healthcare provider if you should take:
-
-- other medicines that may harm your nervous system, kidneys, or hearing
-- “water pills” (diuretics) such as Edecrin (ethacrynic acid), Lasix (furosemide), or mannitol
-- urea
-
-Ask your healthcare provider or pharmacist for a list of these medicines, if you are not sure.
-
-Know the medicines you take.
-Keep a list of them and show it to your healthcare provider and pharmacist when you get a new medicine.
-
-How should I use TOBRAMYCIN INHALATION SOLUTION PAK?
-
-- See the step-by-step Instructions for Use at the end of this Patient Information leaflet about the right way to use TOBRAMYCIN INHALATION SOLUTION PAK.
-- Use TOBRAMYCIN INHALATION SOLUTION PAK exactly as your healthcare provider tells you to.
-  Ask your healthcare provider or pharmacist if you are not sure.
-- The usual dose of TOBRAMYCIN INHALATION SOLUTION PAK for adults and children 6 years of age and over is:
-  - 1 ampule of tobramycin inhalation solution inhaled by mouth in the morning and 1 ampule of tobramycin inhalation solution inhaled by mouth in the evening using your PARI LC PLUS Reusable Nebulizer with a DeVilbiss Pulmo-Aide air compressor.
-- Each dose of TOBRAMYCIN INHALATION SOLUTION PAK should take about 15 minutes to finish.
-- Each dose of TOBRAMYCIN INHALATION SOLUTION PAK should be used as close to 12 hours apart as possible.
-- Do not use your dose of TOBRAMYCIN INHALATION SOLUTION PAK less than 6 hours apart.
-- After using TOBRAMYCIN INHALATION SOLUTION PAK for 28 days, you should stop using it for 28 days.
-  After you have stopped using TOBRAMYCIN INHALATION SOLUTION PAK for 28 days, you should start using TOBRAMYCIN INHALATION SOLUTION PAK again for 28 days.
-  It is important that you keep to the 28-day on, 28-day off cycle.
-- Do not mix the medicine in TOBRAMYCIN INHALATION SOLUTION PAK with other medicines including dornase alfa (Pulmozyme®) in your nebulizer.
-- If you are taking other medicines inhaled through your mouth (bronchodilators), your healthcare provider will tell you how to take your medicine the right way.
-- If you inhale too much of the medicine in TOBRAMYCIN INHALATION SOLUTION PAK, tell your healthcare provider right away.
-
-What are the possible side effects of TOBRAMYCIN INHALATION SOLUTION PAK?
-
-TOBRAMYCIN INHALATION SOLUTION PAK can cause serious side effects, including:
-
-- severe breathing problems (bronchospasm).Tell your healthcare provider right away if you get any of these symptoms of bronchospasm while using TOBRAMYCIN INHALATION SOLUTION PAK:
-  - shortness of breath with wheezing
-  - coughing and chest tightness
-- hearing loss or ringing in the ears (ototoxicity).
-  Tell your healthcare provider right away if you have hearing loss or hear noises in your ears (such as ringing or hissing), or if you develop vertigo, dizziness, or difficulty with balance.
-- worsening kidney problems (nephrotoxicity).
-  Your healthcare provider may do a blood test and urine test to check how your kidneys are working while you are using TOBRAMYCIN INHALATION SOLUTION PAK.
-- worsening muscle weakness.
-  The medicine in TOBRAMYCIN INHALATION SOLUTION PAK is in a class of medicines that can cause muscle weakness to get worse in people who already have problems with muscle weakness (myasthenia gravis or Parkinson's disease).
-- The medicine in TOBRAMYCIN INHALATION SOLUTION PAK is in a class of medicines which may cause harm to an unborn baby.
-
-The most common side effects of TOBRAMYCIN INHALATION SOLUTION PAK include:
-
-- cough
-- sore throat
-- productive cough shortness of breath
-- coughing up blood
-- worsening of lung problems or cystic fibrosis
-- changes in your voice (hoarseness)
-- altered taste
-- rash
-
-Tell your healthcare provider about any side effect that bothers you or that does not go away.
-
-These are not all of the possible side effects of TOBRAMCYIN INHALATION SOLUTION PAK.
-For more information, ask your healthcare provider or pharmacist.
-
-Call your doctor for medical advice about side effects.
-You may report side effects to FDA at 1-800-FDA-1088.
-
-General information about the safe and effective use of TOBRAMYCIN INHALATION SOLUTION PAK.
-
-Medicines are sometimes prescribed for purposes other than those listed in a patient information leaflet.
-Do not use TOBRAMYCIN INHALATION SOLUTION PAK for a condition for which it was not prescribed.
-Do not give TOBRAMYCIN INHALATION SOLUTION PAK to other people, even if they have the same symptoms that you have.
-It may harm them.
-
-This leaflet summarizes the most important information about TOBRAMYCIN INHALATION SOLUTION PAK.
-If you would like more information, talk with your healthcare provider.
-You can ask your healthcare provider or pharmacist for information about TOBRAMYCIN INHALATION SOLUTION PAK that is written for health professionals.
-
-For more information, call Genericus at 1-877-236-7239.
-
-What are the ingredients in TOBRAMYCIN INHALATION SOLUTION PAK?
-
-Active ingredient: tobramycin
-
-Inactive ingredients: sodium chloride, sulfuric acid, and sodium hydroxide (for pH adjustment)
+| PATIENT INFORMATION TOBRAMYCIN INHALATION SOLUTION PAK (tobramycin inhalation solution) for oral inhalation |  |  |
+| --- | --- | --- |
+| Read this Patient Information before you start using TOBRAMYCIN INHALATION SOLUTION PAK and each time you get a refill. There may be new information. This information does not take the place of talking with your healthcare provider about your medical condition or your treatment. |  |  |
+| What is TOBRAMYCIN INHALATION SOLUTION PAK? TOBRAMYCIN INHALATION SOLUTION PAK contains a prescription medicine and a PARI LC PLUS Reusable Nebulizer used to treat adults and children 6 years of age and older with cystic fibrosis who have a bacterial infection called Pseudomonas aeruginosa. TOBRAMYCIN INHALATION SOLUTION PAK contains an antibacterial medicine called tobramycin (an aminoglycoside). It is not known if tobramycin inhalation solution is safe and effective: in children under 6 years of age. in people who have an FEV1 less than 25% or greater than 75% predicted. in people who are colonized with a bacterium called Burkholderia cepacian. when used for more than 3 cycles. |  |  |
+| Who should not use TOBRAMYCIN INHALATION SOLUTION PAK? Do not use TOBRAMYCIN INHALATION SOLUTION PAK if you are allergic to tobramycin, any of the ingredients in TOBRAMYCIN INHALATION SOLUTION PAK, or to any other aminoglycoside antibacterial medicine. |  |  |
+| What should I tell my healthcare provider before using TOBRAMYCIN INHALATION SOLUTION PAK? Before using TOBRAMYCIN INHALATION SOLUTION PAK, tell your healthcare provider about all of your medical conditions, including if you: have or have had breathing problems such as wheezing, coughing, or chest tightness. have or have had hearing problems (including noises in your ears). have dizziness. have or have had kidney problems. have or have had problems with muscle weakness such as myasthenia gravis or Parkinson's disease. are pregnant or plan to become pregnant. TOBRAMYCIN INHALATION SOLUTION PAK contains a medicine that may cause harm to your unborn baby. See “What are the possible side effects of TOBRAMYCIN INHALATION SOLUTION PAK?” below for more information. are breastfeeding or plan to breastfeed. It is not known if the medicine in TOBRAMYCIN INHALATION SOLUTION PAK (tobramycin inhalation solution) passes into your breast milk. |  |  |
+| Tell your healthcare provider about all the medicines you take, including prescription and over-the-counter, vitamins, and herbal supplements. Using TOBRAMYCIN INHALATION SOLUTION PAK with certain other medicines can cause serious side effects. Ask your healthcare provider or pharmacist for a list of these medicines, if you are not sure. Know the medicines you take. Keep a list of them and show it to your healthcare provider and pharmacist when you get a new medicine. If you are using TOBRAMYCIN INHALATION SOLUTION PAK, you should discuss with your healthcare provider if you should take: other medicines that may harm your nervous system, kidneys, or hearing “water pills” (diuretics) such as Edecrin (ethacrynic acid), Lasix (furosemide), or mannitolurea |  |  |
+| How should I use TOBRAMYCIN INHALATION SOLUTION PAK? See the step-by-step Instructions for Use at the end of this Patient Information leaflet about the right way to use TOBRAMYCIN INHALATION SOLUTION PAK. Use TOBRAMYCIN INHALATION SOLUTION PAK exactly as your healthcare provider tells you to. Ask your healthcare provider or pharmacist if you are not sure. The usual dose of TOBRAMYCIN INHALATION SOLUTION PAK for adults and children 6 years of age and over is: 1 ampule of tobramycin inhalation solution inhaled by mouth in the morning and 1 ampule of tobramycin inhalation solution inhaled by mouth in the evening using your PARI LC PLUS Reusable Nebulizer with a DeVilbiss® Pulmo-Aide air compressor. Each dose of TOBRAMYCIN INHALATION SOLUTION PAK should take about 15 minutes to finish. Each dose of TOBRAMYCIN INHALATION SOLUTION PAK should be used as close to 12 hours apart as possible. Do not use your dose of TOBRAMYCIN INHALATION SOLUTION PAK less than 6 hours apart. After using TOBRAMYCIN INHALATION SOLUTION PAK for 28 days, you should stop using it for 28 days. After you have stopped using TOBRAMYCIN INHALATION SOLUTION PAK for 28 days, you should start using TOBRAMYCIN INHALATION SOLUTION PAK again for 28 days. It is important that you keep to the 28-day on, 28-day off cycle. Do not mix the medicine in TOBRAMYCIN INHALATION SOLUTION PAK with other medicines including dornase alfa in your nebulizer. If you are taking other medicines inhaled through your mouth (bronchodilators), your healthcare provider will tell you how to take your medicine the right way. If you inhale too much of the medicine in TOBRAMYCIN INHALATION SOLUTION PAK, tell your healthcare provider right away. |  |  |
+| What are the possible side effects of TOBRAMYCIN INHALATION SOLUTION PAK? TOBRAMYCIN INHALATION SOLUTION PAK can cause serious side effects, including: severe breathing problems (bronchospasm). Tell your healthcare provider right away if you get any of these symptoms of bronchospasm while using TOBRAMYCIN INHALATION SOLUTION PAK: shortness of breath with wheezing coughing and chest tightness hearing loss or ringing in the ears (ototoxicity). Tell your healthcare provider right away if you have hearing loss or hear noises in your ears (such as ringing or hissing), or if you develop vertigo, dizziness, or difficulty with balance. worsening kidney problems (nephrotoxicity). Your healthcare provider may do a blood test and urine test to check how your kidneys are working while you are using TOBRAMYCIN INHALATION SOLUTION PAK. worsening muscle weakness. The medicine in TOBRAMYCIN INHALATION SOLUTION PAK (tobramycin inhalation solution) is in a class of medicines that can cause muscle weakness to get worse in people who already have problems with muscle weakness (myasthenia gravis or Parkinson's disease). The medicine in TOBRAMYCIN INHALATION SOLUTION PAK (tobramycin inhalation solution) is in a class of medicines which may cause harm to an unborn baby. |  |  |
+| The most common side effects of TOBRAMYCIN INHALATION SOLUTION PAK include: |  |  |
+| cough sore throat productive cough | shortness of breath coughing up blood worsening of lung problems or cystic fibrosis | changes in your voice (hoarseness) altered taste rash |
+| These are not all of the possible side effects of TOBRAMYCIN INHALATION SOLUTION PAK. Call your doctor for medical advice about side effects. You may report side effects to FDA at 1-800-FDA-1088. |  |  |
+| General information about the safe and effective use of TOBRAMYCIN INHALATION SOLUTION PAK. Medicines are sometimes prescribed for purposes other than those listed in a patient information leaflet. Do not use TOBRAMYCIN INHALATION SOLUTION PAK for a condition for which it was not prescribed. Do not give TOBRAMYCIN INHALATION SOLUTION PAK to other people, even if they have the same symptoms that you have. It may harm them. You can ask your healthcare provider or pharmacist for information about TOBRAMYCIN INHALATION SOLUTION PAK that is written for health professionals. |  |  |
+| What are the ingredients in TOBRAMYCIN INHALATION SOLUTION PAK? Active ingredient: tobramycin Inactive ingredients: sodium chloride in sterile water, sulfuric acid, and sodium hydroxide (for pH adjustment) |  |  |

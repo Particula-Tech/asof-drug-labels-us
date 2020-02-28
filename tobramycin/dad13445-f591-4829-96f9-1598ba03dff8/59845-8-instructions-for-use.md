@@ -1,58 +1,54 @@
-Instructions for Use TOBRAMYCIN INHALATION SOLUTION PAK
+INSTRUCTIONS FOR USE
+
+TOBRAMYCIN INHALATION SOLUTION PAK
+
+(tobramycin inhalation solution), for oral inhalation
 
 Follow the instructions below for using TOBRAMYCIN INHALATION SOLUTION PAK which contains tobramycin inhalation solution and the PARI LC PLUS Reusable Nebulizer (PARI LC PLUS).
 If you have any questions, ask your healthcare provider or pharmacist.
 
-Each TOBRAMYCIN INHALATION SOLUTION PAK carton (28-day supply) contains 56 tobramycin inhalation solution ampules packed in 14 foil pouches that each contain 4 single-use tobramycin inhalation solution ampules.
+Each TOBRAMYCIN INHALATION SOLUTION PAK carton (28-day supply) contains 56 tobramycin inhalation solution ampules packed in 14 foil pouches that each contain 4 single- use tobramycin inhalation solution ampules.
 
 You will need the following supplies (See Figure A):
 
 - 1 tobramycin inhalation solution ampule
-- PARI LC PLUS® Reusable Nebulizer
+- PARI LC PLUS Reusable Nebulizer
 - DeVilbiss Pulmo-Aide (Pulmo-Aide) air compressor
 - tubing to connect the nebulizer and compressor
 - clean, lint-free towel
 - nose clip (optional, not pictured)
 
-(Figure A)
-
 Note: Read the Instructions for Use that come with your PARI LC PLUS Reusable Nebulizer and DeVilbiss Pulmo-Aide air compressor for detailed instructions on how to use and care for your nebulizer and air compressor before you use it.
 
 Do not mix the medicine in TOBRAMYCIN INHALATION SOLUTION PAK with other medicines in your nebulizer.
 
-The medicine in TOBRAMYCIN INHALATION SOLUTION PAK comes in a sealed foil pouch.
+The medicine in TOBRAMYCIN INHALATION SOLUTION PAK (tobramycin inhalation solution) comes in a sealed foil pouch.
 Do not open a sealed pouch until you are ready to use a dose.
 After opening the pouch, unopened ampules should be returned to and stored in the pouch.
 
 Getting ready:
 
-Open the PARI LC PLUS package.
-Place the PARI LC PLUS parts including Top and Bottom (Nebulizer Cup) Assembly, Inspiratory Valve Cap, Mouthpiece with Valve, and Tubing on a clean, dry surface or towel (See Figure B).
-
-(Figure B)
+- Open the PARI LC PLUS package.
+  Place the PARI LC PLUS parts including Top and Bottom (Nebulizer Cup) Assembly, Inspiratory Valve Cap, Mouthpiece with Valve, and Tubing on a clean, dry surface or towel (See Figure B).
 
 Preparing your TOBRAMYCIN INHALATION SOLUTION PAK dose:
 
 Step 1: Wash your hands with soap and water (See Figure C).
 
-(Figure C)
-
 Step 2: Open the foil pouch (See Figure D).
 
-(Figure D)
-
-Step 3: Separate 1 ampule by gently pulling apart at the TOP of the ampule and continue down to the bottom tabs (See Figure E) and use it right away.
+Step 3: Separate 1 ampule by gently pulling apart starting at the top of the ampules and continue down to the bottom tabs (See Figure E) and use it right away.
 
 Step 4: Hold the bottom tab on the TOBRAMYCIN INHALATION SOLUTION PAK ampule with 1 hand (See Figure F). With your other hand, hold the top of the ampule and twist off the top of the ampule (See Figure F).
 
 - Do not squeeze the ampule until you are ready to squeeze all of the medicine into the Nebulizer Cup.
 
-Step 5: Hold the Nebulizer Cup and twist off the Nebulizer Insert or Top in a counter-clockwise direction (See Figure G). Set the top aside on a clean, dry, surface.
+Step 5: Hold the Nebulizer Cup and twist off the Nebulizer Insert or Top in a counter-clockwise direction (See Figure G). Set the Top aside on a clean, dry, surface.
 
 Step 6: Squeeze all the medicine from the ampule into the Nebulizer Cup (See Figure H).
 
-Step 7: Replace the Nebulizer Cup Insert.
-Line up the semi-circle on the Nebulizer Insert with the Nebulizer Outlet and twist on the Nebulizer Cup Insert in a clock-wise direction until it is tight and the alignment rings are lined up (See Figure I).
+Step 7: Replace the Nebulizer Insert.
+Line up the semi-circle on the Nebulizer Insert with the Nebulizer Outlet and twist on the Nebulizer Insert in a clockwise direction until it is tight and the alignment rings are lined up (See Figure I).
 
 Step 8: Push the Mouthpiece straight onto the Nebulizer Cup (See Figure J).
 
@@ -87,24 +83,32 @@ Follow the manufacturer's instructions for care and use of your compressor.
 How should I store TOBRAMYCIN INHALATION SOLUTION PAK?
 
 - Store tobramycin inhalation solution in the refrigerator between 36°F to 46°F (2°C to 8°C) until needed.
-- You may store the tobramycin inhalation solution in the foil pouches (opened or unopened) at room temperature between 66°F to 77°F (20°C to 25°C) for up to 28 days.
+- You may store the tobramycin inhalation solution in the foil pouches (opened or unopened) at room temperature between 68°F to 77°F (20°C to 25°C) for up to 28 days.
 - Do not use tobramycin inhalation solution after the expiration date stamped on the ampule.
 - Keep tobramycin inhalation solution in the foil pouch and out of the light.
 - Tobramycin inhalation solution is normally slightly yellow, but may get darker with age if unrefrigerated.
   The color change does not change how the medicine works.
 - Do not use tobramycin inhalation solution if it is cloudy, has particles in the solution, or if it has been stored at room temperature for more than 28 days.
-  Throw the applicable ampule(s) away in the household trash and get a new ampule.
+  Throw the applicable ampule(s) away in your household trash and get a new ampule.
 
 Keep TOBRAMYCIN INHALATION SOLUTION PAK and all medicines out of the reach of children.
 
 This Patient Information and Instructions for Use have been approved by the U.S. Food and Drug Administration.
+Revised: DATE
 
-Additional InformationPARI LC PLUS® Reusable Nebulizer: 1-800-327-8632 Devilbiss® Pulmo-Aide® air compressor: 1-800-338-1988 TOBRAMYCIN INHALATION SOLUTION PAK: 1-877-236-7239
+Additional Information
 
-Manufactured by: Catalent Pharma Solutions, LLC Woodstock, IL 60098
+PARI LC PLUS® Reusable Nebulizer: 1-800-327-8632
 
-Distributed by:
+DeVilbiss® Pulmo-Aide® Air Compressor: 1-800-338-1988
 
-Genericus, Inc. Glen Allen, VA 23060
+TOBRAMYCIN INHALATION SOLUTION PAK: 1-877-236-7239
 
-Rev A 04/2016 © 2016 Genericus, Inc. All rights reserved.
+Manufactured by:
+
+Catalent Pharma Solutions, LLC Woodstock, IL 60098
+
+Distributed by: Genericus, Inc., Glen Allen, 23060 VA
+
+899D9999 Rev.
+B 11/2019 © 2016-2019 PulmoFlow, Inc. All rights reserved.

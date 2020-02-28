@@ -1,10 +1,9 @@
-# 6. ADVERSE REACTIONS
+# 6 ADVERSE REACTIONS
 
 The following serious adverse reactions are described below and elsewhere in the labeling:
 
 - Bronchospasm [see Warnings and Precautions (5.1)]
 - Ototoxicity [see Warnings and Precautions (5.2)]
-- Nephrotoxicity [see Warnings and Precautions (5.3)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -20,9 +19,9 @@ Adverse reactions reported in these studies are described below:
 - Eight patients from the tobramycin inhalation solution group (3%) reported tinnitus compared to no placebo patients.
   All episodes were transient, resolved without discontinuation of the tobramycin inhalation solution treatment regimen, and were not associated with loss of hearing in audiograms.
 
-Table 1 lists the percent of patients with selected adverse reactions that occurred in >5% of tobramycin inhalation solution patients during the two Phase III studies.
+Table 1 lists the percent of patients with selected adverse reactions that occurred in > 5% of tobramycin inhalation solution patients during the two Phase III studies.
 
-Table 1: Percent of Patients With Selected Adverse Reactions Occurring in >5% of Tobramycin Inhalation Solution Patients
+Table 1: Percent of Patients with Selected Adverse Reactions Occurring in > 5% of Tobramycin Inhalation Solution Patients
 
 | Adverse Reaction | Tobramycin Inhalation Solution (n=258) % | Placebo (n=262) % |
 | --- | --- | --- |
@@ -31,13 +30,13 @@ Table 1: Percent of Patients With Selected Adverse Reactions Occurring in >5% of
 | Sputum Increased | 37.6 | 39.7 |
 | Dyspnea | 33.7 | 38.5 |
 | Hemoptysis | 19.4 | 23.7 |
-| Lung Function Decreased1 | 16.3 | 15.3 |
+| Lung Function Decrease1 | 16.3 | 15.3 |
 | Voice Alteration | 12.8 | 6.5 |
 | Taste Perversion | 6.6 | 6.9 |
 | Rash | 5.4 | 6.1 |
 | 1 Includes reported decreases in pulmonary function tests or decreased lung volume on chest radiograph associated with intercurrent illness or study drug administration. |  |  |
 
-Following are selected adverse reactions that occurred in less than or equal to 5% of patients treated with tobramycin inhalation solution:
+Selected adverse reactions that occurred in less than or equal to 5% of patients treated with tobramycin inhalation solution:
 
 Ear and labyrinth disorders
 
@@ -60,7 +59,7 @@ Ear and labyrinth disorders
 
 Hearing loss: Some of these reports occurred in patients with previous or concomitant treatment with systemic aminoglycosides.
 Patients with hearing loss frequently reported tinnitus.
-[see WARNINGS and Precautions (5.2)]
+[see Warnings and Precautions (5.2)]
 
 Skin and subcutaneous tissue disorders
 

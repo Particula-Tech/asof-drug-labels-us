@@ -1,3 +1,3 @@
-# 3. DOSAGE FORMS AND STRENGTH
+# 3 DOSAGE FORMS AND STRENGTH
 
-Inhalation solution: 300 mg/5mL in a single-use ampule
+Inhalation solution: 300 mg/5 mL in a single-use ampule
