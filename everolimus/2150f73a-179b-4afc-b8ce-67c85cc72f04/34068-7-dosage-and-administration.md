@@ -31,7 +31,7 @@ The recommended starting dosage of AFINITOR/AFINITOR DISPERZ is 4.5 mg/m2 orally
 
 The recommended starting dosage of AFINITOR DISPERZ is 5 mg/m2 orally once daily until disease progression or unacceptable toxicity [see Dosage and Administration (2.8)].
 
-## 2.8 Therapeutic Drug Monitoring and Dose Titration for Tuberous Sclerosis Complex (TSC)-Associated Subependymal Giant Cell Astrocytoma (SEGA) and TSC-Associated Partial-Onset Seizures
+## 2.8 Therapeutic Drug Monitoring (TDM) and Dose Titration for Tuberous Sclerosis Complex (TSC)-Associated Subependymal Giant Cell Astrocytoma (SEGA) and TSC-Associated Partial-Onset Seizures
 
 - Monitor everolimus whole blood trough concentrations at time points recommended in Table 1.
 - Titrate the dose to attain trough concentrations of 5 ng/mL to 15 ng/mL.
@@ -42,7 +42,7 @@ New dose* = current dose x (target concentration divided by current concentratio
 *The maximum dose increment at any titration must not exceed 5 mg.
 Multiple dose titrations may be required to attain the target trough concentration.
 
-- When possible, use the same assay and laboratory for therapeutic drug monitoring throughout treatment.
+- When possible, use the same assay and laboratory for TDM throughout treatment.
 
 Table 1: Recommended Timing of Therapeutic Drug Monitoring
 
@@ -54,8 +54,9 @@ Table 1: Recommended Timing of Therapeutic Drug Monitoring
 | Initiation or discontinuation of P-gp and moderate CYP3A4 inhibitor | 2 weeks |
 | Initiation or discontinuation of P-gp and strong CYP3A4 inducer | 2 weeks |
 | Change in hepatic function | 2 weeks |
-| Stable dose with changing body surface area | Every 3 to 6 months |
-| Stable dose with stable body surface area | Every 6 to 12 months |
+| Stable dose with changing body surface area (BSA) | Every 3 to 6 months |
+| Stable dose with stable BSA | Every 6 to 12 months |
+| Abbreviation: P-gp, P-glycoprotein. |  |
 
 ## 2.9 Dosage Modifications for Adverse Reactions
 
@@ -78,10 +79,11 @@ Table 2: Recommended Dosage Modifications for AFINITOR/AFINITOR DISPERZ for Adve
 |  | Grade 4 | Permanently discontinue. |
 | Thrombocytopenia [see Warnings and Precautions (5.10)] | Grade 2 | Withhold until improvement to Grade 0 or 1. Resume at same dose. |
 |  | Grade 3 OR Grade 4 | Withhold until improvement to Grade 0 or 1. Resume at 50% of previous dose; change to every other day dosing if the reduced dose is lower than the lowest available strength. |
-| Neutropenia [see Warnings and Precautions (5.10)] | Grade 3 | Withhold until improvement to Grade 0, 1 or 2. Resume at same dose. |
-|  | Grade 4 | Withhold until improvement to Grade 0, 1 or 2. Resume at 50% of previous dose; change to every other day dosing if the reduced dose is lower than the lowest available strength. |
-| Febrile neutropenia [see Warnings and Precautions (5.10)] | Grade 3 | Withhold until improvement to Grade 0, 1 or 2 and no fever. Resume at 50% of previous dose; change to every other day dosing if the reduced dose is lower than the lowest available strength. |
+| Neutropenia [see Warnings and Precautions (5.10)] | Grade 3 | Withhold until improvement to Grade 0, 1, or 2. Resume at same dose. |
+|  | Grade 4 | Withhold until improvement to Grade 0, 1, or 2. Resume at 50% of previous dose; change to every other day dosing if the reduced dose is lower than the lowest available strength. |
+| Febrile neutropenia [see Warnings and Precautions (5.10)] | Grade 3 | Withhold until improvement to Grade 0, 1, or 2, and no fever. Resume at 50% of previous dose; change to every other day dosing if the reduced dose is lower than the lowest available strength. |
 |  | Grade 4 | Permanently discontinue. |
+| Abbreviations: NET, Neuroendocrine Tumors; RCC, Renal Cell Carcinoma; SEGA, Subependymal Giant Cell Astrocytoma; TSC, Tuberous Sclerosis Complex. |  |  |
 
 ## 2.10 Dosage Modifications for Hepatic Impairment
 

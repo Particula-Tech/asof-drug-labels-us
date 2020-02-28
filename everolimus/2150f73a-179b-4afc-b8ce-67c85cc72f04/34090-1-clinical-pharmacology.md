@@ -79,7 +79,7 @@ Patients with Renal Impairment: No significant influence of creatinine clearance
 Patients with Hepatic Impairment: Compared to normal subjects, there was a 1.8-fold, 3.2-fold, and 3.6-fold increase in AUC for subjects with mild (Child-Pugh class A), moderate (Child-Pugh class B), and severe (Child-Pugh class C) hepatic impairment, respectively.
 In another study, the average AUC of everolimus in subjects with moderate hepatic impairment (Child-Pugh class B) was twice that found in subjects with normal hepatic function [see Dosage and Administration (2.10), Use in Specific Populations (8.6)].
 
-Pediatric Patients: In patients with TSC-associated SEGA or TSC-associated partial-onset seizures, the mean Cmin values normalized to mg/m2 dose in pediatric patients (< 18 years of age) were lower than those observed in adults, suggesting that everolimus clearance adjusted to body surface area was higher in pediatric patients as compared to adults.
+Pediatric Patients: In patients with TSC-associated SEGA or TSC-associated partial-onset seizures, the mean Cmin values normalized to mg/m2 dose in pediatric patients (< 18 years of age) were lower than those observed in adults, suggesting that everolimus clearance adjusted to BSA was higher in pediatric patients as compared to adults.
 
 Race or Ethnicity: Based on a cross-study comparison, Japanese patients had on average exposures that were higher than non-Japanese patients receiving the same dose.
 Oral clearance (CL/F) is on average 20% higher in Black patients than in White patients.

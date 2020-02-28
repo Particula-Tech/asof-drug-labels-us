@@ -14,9 +14,9 @@ Hypersensitivity Reactions
 
 Advise patients of the risk of clinically significant hypersensitivity reactions and to promptly contact their healthcare provider or seek emergency care for signs of hypersensitivity reaction including rash, itching, hives, difficulty breathing or swallowing, flushing, chest pain, or dizziness [see Contraindications (4), Warnings and Precautions (5.3)].
 
-Angioedema with Concomitant Use of Angiotensin-Converting Enzyme (ACE) Inhibitors
+Angioedema with Concomitant Use of ACE Inhibitors
 
-Advise patients to avoid angiotensin-converting enzyme (ACE) inhibitors and to promptly contact their healthcare provider or seek emergency care for signs or symptoms of angioedema [see Warnings and Precautions (5.4)].
+Advise patients to avoid ACE inhibitors and to promptly contact their healthcare provider or seek emergency care for signs or symptoms of angioedema [see Warnings and Precautions (5.4)].
 
 Stomatitis
 
@@ -26,9 +26,10 @@ Renal Impairment
 
 Advise patients of the risk of developing kidney failure and the need to monitor their kidney function periodically during treatment [see Warnings and Precautions (5.6)].
 
-Impaired Wound Healing
+Risk of Impaired Wound Healing
 
-Advise patients of the risk of impaired wound healing or dehiscence during treatment [see Warnings and Precautions (5.7)].
+Advise patients that AFINITOR/AFINITOR DISPERZ may impair wound healing.
+Advise patients to inform their healthcare provider of any planned surgical procedure [see Warnings and Precautions (5.7)].
 
 Geriatric Patients
 
@@ -40,7 +41,7 @@ Advise patients of the risk of metabolic disorders and the need to monitor gluco
 
 Myelosuppression
 
-Advise patients of the risk of myelosuppression and the need to monitor complete blood counts periodically during therapy [see Warnings and Precautions (5.10)].
+Advise patients of the risk of myelosuppression and the need to monitor CBCs periodically during therapy [see Warnings and Precautions (5.10)].
 
 Risk of Infection or Reduced Immune Response with Vaccination
 
@@ -51,7 +52,7 @@ Embryo-Fetal Toxicity
 Advise females of reproductive potential of the potential risk to a fetus.
 Advise females of reproductive potential to use effective contraception during treatment and for 8 weeks after the last dose.
 Advise patients to inform their healthcare provider of a known or suspected pregnancy.
-Advise males with female partners of reproductive potential to use effective contraception during treatment and for 4 weeks after the last dose [see Warnings and Precautions (5.12) and Use in Specific Populations (8.1, 8.3)].
+Advise males with female partners of reproductive potential to use effective contraception during treatment and for 4 weeks after the last dose [see Warnings and Precautions (5.12), Use in Specific Populations (8.1, 8.3)].
 
 Lactation
 
@@ -63,4 +64,4 @@ Advise males and females of reproductive potential of the potential risk for imp
 
 Distributed by: Novartis Pharmaceuticals Corporation East Hanover, New Jersey 07936
 
-T2020-08
+T2020-21

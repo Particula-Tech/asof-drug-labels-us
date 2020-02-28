@@ -31,7 +31,7 @@ Fatal adverse reactions occurred in 2% of patients who received AFINITOR.
 The rate of adverse reactions resulting in permanent discontinuation was 24% for the AFINITOR arm.
 Dose adjustments (interruptions or reductions) occurred in 63% of patients in the AFINITOR arm.
 
-Adverse reactions reported with an incidence of ≥ 10% for patients receiving AFINITOR versus placebo are presented in Table 6.
+Adverse reactions reported with an incidence of ≥ 10% for patients receiving AFINITOR vs. placebo are presented in Table 6.
 Laboratory abnormalities are presented in Table 7.
 The median duration of treatment with AFINITOR was 23.9 weeks; 33% were exposed to AFINITOR for a period of ≥ 32 weeks.
 
@@ -80,7 +80,7 @@ Table 6: Adverse Reactions Reported in ≥ 10% of Patients with Hormone Receptor
 | Alopecia | 10 | 0 | 5 | 0 |
 | Vascular |  |  |  |  |
 | Hot flush | 6 | 0 | 14 | 0 |
-| Grading according to NCI CTCAE Version 3.0. aIncludes stomatitis, mouth ulceration, aphthous stomatitis, glossodynia, gingival pain, glossitis, and lip ulceration bIncludes all reported infections including, but not limited to, urinary tract infections, respiratory tract (upper and lower) infections, skin infections, and gastrointestinal tract infections. cIncludes pneumonitis, interstitial lung disease, lung infiltration, and pulmonary fibrosis dNo Grade 4 adverse reactions were reported. |  |  |  |  |
+| Grading according to NCI CTCAE Version 3.0. aIncludes stomatitis, mouth ulceration, aphthous stomatitis, glossodynia, gingival pain, glossitis, and lip ulceration. bIncludes all reported infections including, but not limited to, urinary tract infections, respiratory tract (upper and lower) infections, skin infections, and gastrointestinal tract infections. cIncludes pneumonitis, interstitial lung disease, lung infiltration, and pulmonary fibrosis. dNo Grade 4 adverse reactions were reported. |  |  |  |  |
 
 Table 7: Selected Laboratory Abnormalities Reported in ≥ 10% of Patients with Hormone Receptor-Positive Breast Cancer in BOLERO-2
 
@@ -97,8 +97,8 @@ Table 7: Selected Laboratory Abnormalities Reported in ≥ 10% of Patients with 
 | Chemistry |  |  |  |  |
 | Hypercholesterolemia | 70 | 1 | 38 | 2 |
 | Hyperglycemia | 69 | 9 | 44 | 1 |
-| Increased aspartate transaminase (AST) | 69 | 4 | 45 | 3 |
-| Increased alanine transaminase (ALT) | 51 | 4 | 29 | 5b |
+| Increased AST | 69 | 4 | 45 | 3 |
+| Increased ALT | 51 | 4 | 29 | 5b |
 | Hypertriglyceridemia | 50 | 0.8b | 26 | 0 |
 | Hypoalbuminemia | 33 | 0.8b | 16 | 0.8b |
 | Hypokalemia | 29 | 4 | 7 | 1b |
@@ -308,7 +308,7 @@ The most common adverse reactions leading to treatment discontinuation were pneu
 Infections, stomatitis, and pneumonitis were the most common reasons for treatment delay or dose reduction.
 The most common medical interventions required during AFINITOR treatment were for infections, anemia, and stomatitis.
 
-Adverse reactions reported with an incidence of ≥ 10% for patients receiving AFINITOR versus placebo are presented in Table 12.
+Adverse reactions reported with an incidence of ≥ 10% for patients receiving AFINITOR vs. placebo are presented in Table 12.
 Laboratory abnormalities are presented in Table 13.
 
 Table 12: Adverse Reactions Reported in ≥ 10% of Patients with RCC and at a Higher Rate in the AFINITOR Arm than in the Placebo Arm in RECORD-1
@@ -375,7 +375,7 @@ Musculoskeletal and connective tissue: Jaw pain (3%)
 
 Hematologic: Hemorrhage (3%)
 
-Table 13: Selected Laboratory Abnormalities Reported in Patients with RCC at a Higher Rate in the AFINITOR Arm than the Placebo Arm in RECORD-1
+Table 13: Selected Laboratory Abnormalities Reported in Patients with RCC at a Higher Rate in the AFINITOR Arm Than the Placebo Arm in RECORD-1
 
 | Laboratory parameter | AFINITOR N = 274 |  | Placebo N = 137 |  |
 | --- | --- | --- | --- | --- |
@@ -508,7 +508,7 @@ Table 16: Adverse Reactions Reported in ≥ 10% of AFINITOR-Treated Patients wit
 | Skin and subcutaneous tissue |  |  |  |  |
 | Rashe | 21 | 0 | 8 | 0 |
 | Acne | 10 | 0 | 5 | 0 |
-| Grading according to NCI CTCAE Version 3.0. aIncludes mouth ulceration, stomatitis, and lip ulceration bIncludes respiratory tract infection, upper respiratory tract infection, and respiratory tract infection viral cIncludes gastroenteritis, gastroenteritis viral, and gastrointestinal infection dIncludes agitation, anxiety, panic attack, aggression, abnormal behavior, and obsessive compulsive disorder eIncludes rash, rash generalized, rash macular, rash maculo-papular, rash papular, dermatitis allergic, and urticaria fNo Grade 4 adverse reactions were reported. |  |  |  |  |
+| Grading according to NCI CTCAE Version 3.0. aIncludes mouth ulceration, stomatitis, and lip ulceration. bIncludes respiratory tract infection, upper respiratory tract infection, and respiratory tract infection viral. cIncludes gastroenteritis, gastroenteritis viral, and gastrointestinal infection. dIncludes agitation, anxiety, panic attack, aggression, abnormal behavior, and obsessive compulsive disorder. eIncludes rash, rash generalized, rash macular, rash maculo-papular, rash papular, dermatitis allergic, and urticaria. fNo Grade 4 adverse reactions were reported. |  |  |  |  |
 
 Amenorrhea occurred in 17% of AFINITOR-treated females aged 10 to 55 years (3 of 18).
 For this same group of AFINITOR-treated females, the following menstrual abnormalities were reported: dysmenorrhea (6%), menorrhagia (6%), metrorrhagia (6%), and unspecified menstrual irregularity (6%).
@@ -527,9 +527,9 @@ Table 17: Selected Laboratory Abnormalities Reported in AFINITOR-Treated Patient
 | Anemia | 41 | 0 | 21 | 0 |
 | Chemistry |  |  |  |  |
 | Hypercholesterolemia | 81 | 0 | 39 | 0 |
-| Elevated aspartate transaminase (AST) | 33 | 0 | 0 | 0 |
+| Elevated AST | 33 | 0 | 0 | 0 |
 | Hypertriglyceridemia | 27 | 0 | 15 | 0 |
-| Elevated alanine transaminase (ALT) | 18 | 0 | 3 | 0 |
+| Elevated ALT | 18 | 0 | 3 | 0 |
 | Hypophosphatemia | 9 | 1a | 3 | 0 |
 | Grading according to NCI CTCAE Version 3.0. aNo Grade 4 laboratory abnormalities were reported. |  |  |  |  |
 
@@ -574,7 +574,7 @@ Table 18: Adverse Reactions Reported in ≥ 10% of AFINITOR DISPERZ-Treated Pati
 | Cough | 11 | 0 | 10 | 0 | 3 | 0 |
 | Skin and subcutaneous tissue |  |  |  |  |  |  |
 | Rash | 6 | 0 | 10 | 0 | 3 | 0 |
-| aIncludes stomatitis, mouth ulceration, aphthous ulcer, lip ulceration, tongue ulceration, mucosal inflammation, gingival pain bNo Grade 4 adverse reactions were reported. |  |  |  |  |  |  |
+| aIncludes stomatitis, mouth ulceration, aphthous ulcer, lip ulceration, tongue ulceration, mucosal inflammation, gingival pain. bNo Grade 4 adverse reactions were reported. |  |  |  |  |  |  |
 
 The following additional adverse reactions occurred in < 10% of AFINITOR DISPERZ treated patients (% AFINITOR DISPERZ LT, % AFINITOR DISPERZ HT): decreased appetite (9%, 7%), pneumonia (2%, 4%), aggression (2%, 0.8%), proteinuria (0%, 2%), menorrhagia (0.9%, 0.8%), and pneumonitis (0%, 0.8%).
 
@@ -605,10 +605,10 @@ Updated safety information from 357 patients treated with AFINITOR DISPERZ for a
 The following adverse reactions have been identified during post approval use of AFINITOR/AFINITOR DISPERZ.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate frequency or establish a causal relationship to drug exposure:
 
+- Blood and lymphatic disorders: Thrombotic microangiopathy
+- Cardiac: Cardiac failure with some cases reported with pulmonary hypertension (including pulmonary arterial hypertension) as a secondary event
 - Gastrointestinal: Acute pancreatitis
 - Hepatobiliary: Cholecystitis and cholelithiasis
-- Vascular: Arterial thrombotic events
-- Nervous System: Reflex sympathetic dystrophy
-- Cardiac: Cardiac failure with some cases reported with pulmonary hypertension (including pulmonary arterial hypertension) as a secondary event
 - Infections: Sepsis and septic shock
-- Blood and lymphatic disorders: Thrombotic microangiopathy
+- Nervous System: Reflex sympathetic dystrophy
+- Vascular: Arterial thrombotic events

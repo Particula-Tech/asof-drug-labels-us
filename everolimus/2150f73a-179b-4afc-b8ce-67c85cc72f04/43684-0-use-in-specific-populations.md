@@ -18,7 +18,7 @@ Animal Data
 In animal reproductive studies, oral administration of everolimus to female rats before mating and through organogenesis induced embryo-fetal toxicities, including increased resorption, pre-implantation and post-implantation loss, decreased numbers of live fetuses, malformation (e.g., sternal cleft), and retarded skeletal development.
 These effects occurred in the absence of maternal toxicities.
 Embryo-fetal toxicities in rats occurred at doses ≥ 0.1 mg/kg (0.6 mg/m2) with resulting exposures of approximately 4% of the human exposure at the recommended dose of AFINITOR 10 mg orally once daily based on area under the curve (AUC).
-In rabbits, embryo-toxicity evident as an increase in resorptions occurred at an oral dose of 0.8 mg/kg (9.6 mg/m2), approximately 1.6 times the recommended dose of AFINITOR 10 mg orally once daily or the median dose administered to patients with tuberous sclerosis complex (TSC)-associated subependymal giant cell astrocytoma (SEGA), and 1.3 times the median dose administered to patients with TSC-associated partial-onset seizures based on body surface area.
+In rabbits, embryo-toxicity evident as an increase in resorptions occurred at an oral dose of 0.8 mg/kg (9.6 mg/m2), approximately 1.6 times the recommended dose of AFINITOR 10 mg orally once daily or the median dose administered to patients with tuberous sclerosis complex (TSC)-associated subependymal giant cell astrocytoma (SEGA), and 1.3 times the median dose administered to patients with TSC-associated partial-onset seizures based on BSA.
 The effect in rabbits occurred in the presence of maternal toxicities.
 
 In a pre- and post-natal development study in rats, animals were dosed from implantation through lactation.

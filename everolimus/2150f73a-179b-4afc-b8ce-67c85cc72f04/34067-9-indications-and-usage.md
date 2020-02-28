@@ -10,7 +10,7 @@ AFINITOR is indicated for the treatment of adult patients with progressive neuro
 
 AFINITOR is indicated for the treatment of adult patients with progressive, well-differentiated, non-functional NET of gastrointestinal (GI) or lung origin with unresectable, locally advanced or metastatic disease.
 
-Limitation of Use: AFINITOR is not indicated for the treatment of patients with functional carcinoid tumors [see Clinical Studies (14.2)].
+Limitations of Use: AFINITOR is not indicated for the treatment of patients with functional carcinoid tumors [see Clinical Studies (14.2)].
 
 ## 1.3 Renal Cell Carcinoma (RCC)
 

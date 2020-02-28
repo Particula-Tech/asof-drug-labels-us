@@ -84,7 +84,7 @@ The most common primary sites of tumor were lung (30%), ileum (24%), and rectum 
 The study demonstrated a statistically significant improvement in PFS per independent radiological review (Table 22 and Figure 3).
 There was no statistically significant difference in OS at the planned interim analysis.
 
-Table 22: Progression-Free Survival in NET of GI or Lung Origin in RADIANT-4
+Table 22: Progression-Free Survival in Neuroendocrine Tumors of Gastrointestinal or Lung Origin in RADIANT-4
 
 |  | AFINITOR N = 205 | Placebo N = 97 |
 | --- | --- | --- |
@@ -168,7 +168,7 @@ Table 24: Angiomyolipoma Response Rate in TSC-Associated Renal Angiomyolipoma in
 | Primary analysis |  |  |  |
 | Angiomyolipoma response ratea - % | 41.8 | 0 | < 0.0001 |
 | 95% CI | (30.8, 53.4) | (0.0, 9.0) |  |
-| aPer independent central radiology review |  |  |  |
+| aPer independent central radiology review. |  |  |  |
 
 Skin lesion response rates were assessed by local investigators for 77 patients in the AFINITOR arm and 37 patients in the placebo arm who presented with skin lesions at study entry.
 The skin lesion response rate was statistically significantly higher in the AFINITOR arm (26% vs. 0, p = 0.0011); all skin lesion responses were partial responses, defined as visual improvement in 50% to 99% of all skin lesions durable for at least 8 weeks (Physician's Global Assessment of Clinical Condition).
@@ -278,7 +278,7 @@ Table 26: Percentage Reduction in Seizure Frequency and Response Rate in TSC-Ass
 | Seizures per week |  |  |  |
 | Median at Baseline (Min, Max) | 8.6 (1.4, 192.9) | 9.5 (0.3, 218.4) | 10.5 (1.3, 231.7) |
 | Median at Core phasea (Min, Max) | 6.8 (0.0, 193.5) | 4.9 (0.0, 133.7) | 8.5 (0.0, 217.7) |
-| Percentage reduction from Baseline to Core phase (Maintenance a) |  |  |  |
+| Percentage reduction from Baseline to Core phase (Maintenancea) |  |  |  |
 | Median | 29.3 | 39.6 | 14.9 |
 | 95% CIb | 18.8, 41.9 | 35.0, 48.7 | 0.1, 21.7 |
 | p-valuec | 0.003 | < 0.001 |  |

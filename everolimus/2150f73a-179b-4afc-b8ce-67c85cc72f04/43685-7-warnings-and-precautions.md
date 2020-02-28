@@ -22,7 +22,7 @@ The development of pneumonitis has been reported even at a reduced dose.
 ## 5.2 Infections
 
 AFINITOR/AFINITOR DISPERZ has immunosuppressive properties and may predispose patients to bacterial, fungal, viral, or protozoal infections, including infections with opportunistic pathogens [see Adverse Reactions (6.1)].
-Localized and systemic infections, including pneumonia, mycobacterial infections, other bacterial infections, invasive fungal infections (e.g., aspergillosis, candidiasis, or PJP) and viral infections (e.g., reactivation of hepatitis B virus) have occurred.
+Localized and systemic infections, including pneumonia, mycobacterial infections, other bacterial infections, invasive fungal infections (e.g., aspergillosis, candidiasis, or PJP), and viral infections (e.g., reactivation of hepatitis B virus) have occurred.
 Some of these infections have been severe (e.g., sepsis, septic shock, or resulting in multisystem organ failure) or fatal.
 The incidence of Grade 3 and 4 infections was up to 10% and up to 3%, respectively.
 The incidence of serious infections was reported at a higher frequency in patients < 6 years of age [see Use in Specific Populations (8.4)].
@@ -64,11 +64,14 @@ The incidence of Grade 3 and 4 proteinuria was up to 1% and up to 0.5%, respecti
 Monitor renal function prior to starting AFINITOR/AFINITOR DISPERZ and annually thereafter.
 Monitor renal function at least every 6 months in patients who have additional risk factors for renal failure.
 
-## 5.7 Impaired Wound Healing
+## 5.7 Risk of Impaired Wound Healing
 
-AFINITOR/AFINITOR DISPERZ delays wound healing and increases the occurrence of wound-related complications like wound dehiscence, wound infection, incisional hernia, lymphocele, and seroma.
-These wound-related complications may require surgical intervention.
-Exercise caution with the use of AFINITOR/AFINITOR DISPERZ in the peri-surgical period.
+Impaired wound healing can occur in patients who receive drugs that inhibit the VEGF signaling pathway.
+Therefore, AFINITOR/AFINITOR DISPERZ have the potential to adversely affect wound healing.
+
+Withhold AFINITOR/AFINITOR DISPERZ for at least 1 week prior to elective surgery.
+Do not administer for at least 2 weeks following major surgery and until adequate wound healing.
+The safety of resumption of treatment upon resolution of wound healing complications has not been established.
 
 ## 5.8 Geriatric Patients
 
@@ -90,7 +93,7 @@ For Grade 3 to 4 metabolic events, withhold or permanently discontinue AFINITOR/
 
 Anemia, lymphopenia, neutropenia, and thrombocytopenia have been reported in patients taking AFINITOR/AFINITOR DISPERZ.
 The incidence of these Grade 3 and 4 laboratory abnormalities was up to 16% and up to 2%, respectively [see Adverse Reactions (6.1)].
-Monitor complete blood count prior to starting AFINITOR/AFINITOR DISPERZ every 6 months for the first year of treatment and annually thereafter.
+Monitor complete blood count (CBC) prior to starting AFINITOR/AFINITOR DISPERZ every 6 months for the first year of treatment and annually thereafter.
 Withhold or permanently discontinue AFINITOR/AFINITOR DISPERZ based on severity [see Dosage and Administration (2.9)].
 
 ## 5.11 Risk of Infection or Reduced Immune Response with Vaccination
