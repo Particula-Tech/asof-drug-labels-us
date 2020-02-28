@@ -1,1 +1,3 @@
 PRINCIPAL DISPLAY PANEL - 100 Tablet Bottle Label
+
+# PRINCIPAL DISPLAY PANEL-100 Tablets (Alkaloida)
