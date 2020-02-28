@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "NDA020600"
+  ],
+  "inn": "tazarotene",
+  "labeler": "Almirall, LLC",
+  "package_ndcs": [
+    "16110-042-10",
+    "16110-042-30",
+    "16110-833-10",
+    "16110-833-30"
+  ],
+  "products": [
+    {
+      "form": "GEL",
+      "generic": "tazarotene",
+      "name": "Tazorac"
+    }
+  ],
+  "setid": "4e4e4b81-420e-4492-8a74-80b692a80057",
+  "source": "dailymed"
+}
