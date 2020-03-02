@@ -5,7 +5,7 @@
 Irinotecan Hydrochloride Injection, USP
 
 Rx only 40 mg/ 2 mL (20 mg/mL) on basis of trihydrate For IV use only.
-MUST BE DILUTED BEFORE USE Single Use Vial Caution: Cytotoxic Agent
+MUST BE DILUTED BEFORE USE Single-dose Vial Caution: Cytotoxic Agent
 
 # PRINCIPAL DISPLAY PANEL - 2 mL Vial Carton
 
@@ -15,7 +15,7 @@ Hospira
 
 1 x 2 mL Vial NDC 61703-349-16
 
-Sterile
+Sterile Rx only
 
 Irinotecan Hydrochloride Injection, USP
 
@@ -23,9 +23,7 @@ Irinotecan Hydrochloride Injection, USP
 
 (20 mg/mL) on basis of trihydrate
 
-Rx only
-
-For intravenous use only MUST BE DILUTED BEFORE USE Single Use Vial
+For intravenous use only MUST BE DILUTED BEFORE USE Single-dose Vial
 
 Caution: Cytotoxic Agent
 
@@ -38,7 +36,7 @@ Irinotecan Hydrochloride Injection, USP
 Rx only 100 mg/ 5 mL (20 mg/mL)
 
 on basis of trihydrate For IV use only.
-MUST BE DILUTED BEFORE USE Single Use Vial Caution: Cytotoxic Agent
+MUST BE DILUTED BEFORE USE Single-dose Vial Caution: Cytotoxic Agent
 
 # PRINCIPAL DISPLAY PANEL - 5 mL Vial Carton
 
@@ -48,7 +46,7 @@ Hospira
 
 1 x 5 mL Vial NDC 61703-349-09
 
-Sterile
+Sterile Rx only
 
 Irinotecan Hydrochloride Injection, USP
 
@@ -56,9 +54,7 @@ Irinotecan Hydrochloride Injection, USP
 
 (20 mg/mL) on basis of trihydrate
 
-Rx only
-
-For intravenous use only MUST BE DILUTED BEFORE USE Single Use Vial
+For intravenous use only MUST BE DILUTED BEFORE USE Single-dose Vial
 
 Caution: Cytotoxic Agent
 
@@ -71,7 +67,7 @@ Irinotecan Hydrochloride Injection, USP
 Rx only 500 mg/ 25 mL (20 mg/mL)
 
 on basis of trihydrate For IV use only.
-MUST BE DILUTED BEFORE USE Single Use Vial Caution: Cytotoxic Agent
+MUST BE DILUTED BEFORE USE Single-dose Vial Caution: Cytotoxic Agent
 
 # PRINCIPAL DISPLAY PANEL - 25 mL Vial Carton
 
@@ -81,7 +77,7 @@ Hospira
 
 1 x 25 mL Vial NDC 61703-349-36
 
-Sterile
+Sterile Rx only
 
 Irinotecan Hydrochloride Injection, USP
 
@@ -89,8 +85,6 @@ Irinotecan Hydrochloride Injection, USP
 
 (20 mg/mL) on basis of trihydrate
 
-Rx only
-
-For intravenous use only MUST BE DILUTED BEFORE USE Single Use Vial
+For intravenous use only MUST BE DILUTED BEFORE USE Single-dose Vial
 
 Caution: Cytotoxic Agent
