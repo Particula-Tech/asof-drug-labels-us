@@ -1,0 +1,24 @@
+{
+  "application_numbers": [
+    "ANDA211767"
+  ],
+  "inn": "clomipramine",
+  "labeler": "Lifestar Pharma LLC",
+  "package_ndcs": [
+    "70756-405-11",
+    "70756-405-30",
+    "70756-406-11",
+    "70756-406-30",
+    "70756-407-11",
+    "70756-407-30"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "clomipramine hydrochloride",
+      "name": "Clomipramine Hydrochloride"
+    }
+  ],
+  "setid": "a8dc192b-3334-4ca4-8862-3f320014dfb0",
+  "source": "dailymed"
+}
