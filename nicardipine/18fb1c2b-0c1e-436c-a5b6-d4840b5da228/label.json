@@ -3,8 +3,12 @@
     "NDA022276"
   ],
   "inn": "nicardipine",
-  "labeler": "West-Ward Pharmaceuticals Corp",
+  "labeler": "Hikma Pharmaceuticals USA Inc.",
   "package_ndcs": [
+    "0143-9633-01",
+    "0143-9633-10",
+    "0143-9634-01",
+    "0143-9634-10",
     "0143-9689-01",
     "0143-9689-10"
   ],
