@@ -5,11 +5,11 @@ Risedronate is not metabolized and does not induce or inhibit hepatic microsomal
 
 ## 7.1 Calcium Supplements/Antacids
 
-Coadministration of risedronate and calcium, antacids, or oral medications containing divalent cations will interfere with the absorption of risedronate.
+Co-administration of risedronate and calcium, antacids, or oral medications containing divalent cations will interfere with the absorption of risedronate.
 
 ## 7.2 Hormone Replacement Therapy
 
-One study of about 500 early postmenopausal women has been conducted to date in which treatment with risedronate sodium tablets, 5 mg daily plus estrogen replacement therapy was compared to estrogen replacement therapy alone.
+One study of about 500 early postmenopausal women has been conducted to date in which treatment with risedronate sodium tablets 5 mg daily plus estrogen replacement therapy was compared to estrogen replacement therapy alone.
 Exposure to study drugs was approximately 12 to 18 months and the primary endpoint was change in BMD.
 If considered appropriate, risedronate may be used concomitantly with hormone replacement therapy.
 

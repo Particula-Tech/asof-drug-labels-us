@@ -1,8 +1,8 @@
-# MEDICATION GUIDE
+# Medication Guide
 
-Risedronate Sodium Tablets USP
+Risedronate Sodium (ris ed' roe nate soe' dee um)
 
-(RIS-e-DROE-nate)
+Tablets
 
 Read the Medication Guide that comes with risedronate sodium tablets before you start taking them and each time you get a refill.
 There may be new information.
@@ -100,7 +100,8 @@ Before you start risedronate sodium tablets, be sure to talk to your doctor if y
 - Plan to have dental surgery or teeth removed
 - Have kidney problems
 - Have been told you have trouble absorbing minerals in your stomach or intestines (malabsorption syndrome)
-- Are pregnant, or plan to become pregnant.
+- Are pregnant, plan to become pregnant, or suspect that you are pregnant.
+  If you become pregnant while taking risedronate sodium tablets, stop taking them and contact your doctor.
   It is not known if risedronate sodium tablets can harm your unborn baby.
 - Are breastfeeding or plan to breastfeed.
   It is not known if risedronate sodium passes into your milk and may harm your baby.
@@ -171,7 +172,7 @@ You may report side effects to FDA at 1-800-FDA-1088.
 
 How should I store risedronate sodium tablets?
 
-- Store risedronate sodium tablets at room temperature, 20° to 25°C (68° to 77°F).
+- Store risedronate sodium tablets at room temperature, (68° to 77°F) 20° to 25°C.
 
 Safely throw away medicine that is out of date or no longer needed.
 
@@ -191,13 +192,25 @@ For more information, call 1-888-838-2872.
 
 What are the ingredients in risedronate sodium tablets?
 
-Active ingredient: risedronate sodium USP
+Active ingredient: risedronate sodium
 
-Inactive ingredients: colloidal silicon dioxide, corn starch, hypromellose, lactose monohydrate, magnesium stearate, polyethylene glycol, pregelatinized starch, sodium stearyl fumarate, and titanium dioxide.
+Inactive ingredients: colloidal silicon dioxide, corn starch, hypromellose, lactose monohydrate, magnesium stearate, polyethylene glycol, pregelatinized corn starch, sodium stearyl fumarate, and titanium dioxide.
 Additionally, the 5 mg tablets contain D&C yellow #10 lake, iron oxide yellow, and polysorbate 80; the 30 mg tablets contain polysorbate 80; and the 35 mg tablets contain FD&C yellow #6 aluminum lake, iron oxide yellow, iron oxide red, and polysorbate 80.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Manufactured In Israel By: TEVA PHARMACEUTICAL IND.
-LTD. Jerusalem, 9777402, Israel Manufactured For: TEVA PHARMACEUTICALS USA, INC. North Wales, PA 19454 Rev.
-B 11/2014
+Manufactured In Israel By:
+
+Teva Pharmaceutical Ind.
+Ltd.
+
+Jerusalem, 9777402, Israel
+
+Manufactured For:
+
+Teva Pharmaceuticals USA, Inc.
+
+North Wales, PA 19454
+
+Rev.
+C 1/2020

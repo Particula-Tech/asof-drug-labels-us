@@ -8,21 +8,21 @@ Treatment of Postmenopausal Osteoporosis
 
 Daily Dosing
 
-The safety of risedronate sodium tablets, 5 mg once daily in the treatment of postmenopausal osteoporosis was assessed in four randomized, double-blind, placebo-controlled multinational trials of 3232 women aged 38 to 85 years with postmenopausal osteoporosis.
-The duration of the trials was up to three years, with 1619 patients exposed to placebo and 1613 patients exposed to risedronate sodium tablets, 5 mg.
-Patients with preexisting gastrointestinal disease and concomitant use of non-steroidal anti-inflammatory drugs, proton pump inhibitors, and H2 antagonists were included in these clinical trials.
+The safety of risedronate sodium tablets 5 mg once daily in the treatment of postmenopausal osteoporosis was assessed in four randomized, double-blind, placebo-controlled multinational trials of 3232 women aged 38 to 85 years with postmenopausal osteoporosis.
+The duration of the trials was up to three years, with 1619 patients exposed to placebo and 1613 patients exposed to risedronate sodium tablets 5 mg.
+Patients with pre-existing gastrointestinal disease and concomitant use of non-steroidal anti-inflammatory drugs, proton pump inhibitors, and H2 antagonists were included in these clinical trials.
 All women received 1000 mg of elemental calcium plus vitamin D supplementation up to 500 international units per day if their 25-hydroxyvitamin D3 level was below normal at baseline.
 
-The incidence of all-cause mortality was 2.0% in the placebo group and 1.7% in the risedronate sodium tablets, 5 mg daily group.
-The incidence of serious adverse events was 24.6% in the placebo group and 27.2% in the risedronate sodium tablets, 5 mg group.
-The percentage of patients who withdrew from the study due to adverse events was 15.6% in the placebo group and 14.8% in the risedronate sodium tablets, 5 mg group.
+The incidence of all-cause mortality was 2.0% in the placebo group and 1.7% in the risedronate sodium tablets 5 mg daily group.
+The incidence of serious adverse events was 24.6% in the placebo group and 27.2% in the risedronate sodium tablets 5 mg group.
+The percentage of patients who withdrew from the study due to adverse events was 15.6% in the placebo group and 14.8% in the risedronate sodium tablets 5 mg group.
 The most common adverse reactions reported in greater than 10 percent of subjects were: back pain, arthralgia, abdominal pain and dyspepsia.
 Table 1 lists adverse events from the Phase 3 postmenopausal osteoporosis trials reported in greater than or equal to 5% of patients.
 Adverse events are shown without attribution of causality.
 
-Table 1: Adverse Events Occurring at a Frequency Greater Than or Equal to 5% in Either Treatment Group Combined Phase 3 Postmenopausal Osteoporosis Treatment Trials
+Table 1 Adverse Events Occurring at a Frequency Greater Than or Equal to 5% in Either Treatment Group Combined Phase 3 Postmenopausal Osteoporosis Treatment Trials
 
-| Body System | PlaceboN = 1619 | Risedronate Sodium Tablets, 5 mgN = 1613 |
+| Body System | PlaceboN = 1619 | 5 mg Risedronate Sodium Tablets N = 1613 |
 | --- | --- | --- |
 |  | % | % |
 | Body as a Whole |  |  |
@@ -70,16 +70,16 @@ Table 1: Adverse Events Occurring at a Frequency Greater Than or Equal to 5% in 
 | Urogenital System |  |  |
 | Urinary Tract Infection | 10.4 | 11.1 |
 
-Gastrointestinal Adverse Events: The incidence of adverse events in the placebo and risedronate sodium tablets, 5 mg daily groups were: abdominal pain (9.9% versus 12.2%), diarrhea (10.0% versus 10.8%), dyspepsia (10.6% versus 10.8%), and gastritis (2.3% versus 2.7%).
-Duodenitis and glossitis have been reported uncommonly in the risedronate sodium tablets, 5 mg daily group (0.1% to 1%).
-In patients with active upper gastrointestinal disease at baseline, the incidence of upper gastrointestinal adverse events was similar between the placebo and risedronate sodium tablets, 5 mg daily groups.
+Gastrointestinal Adverse Events: The incidence of adverse events in the placebo and risedronate sodium tablets 5 mg daily groups were: abdominal pain (9.9% versus 12.2%), diarrhea (10.0% versus 10.8%), dyspepsia (10.6% versus 10.8%), and gastritis (2.3% versus 2.7%).
+Duodenitis and glossitis have been reported uncommonly in the risedronate sodium tablets 5 mg daily group (0.1% to 1%).
+In patients with active upper gastrointestinal disease at baseline, the incidence of upper gastrointestinal adverse events was similar between the placebo and risedronate sodium tablets 5 mg daily groups.
 
-Musculoskeletal Adverse Events: The incidence of adverse events in the placebo and risedronate sodium tablets, 5 mg daily groups were: back pain (26.1% versus 28.0%), arthralgia (22.1% versus 23.7%), myalgia (6.2% versus 6.7%), and bone pain (4.8% versus 5.3%).
+Musculoskeletal Adverse Events: The incidence of adverse events in the placebo and risedronate sodium tablets 5 mg daily groups were: back pain (26.1% versus 28.0%), arthralgia (22.1% versus 23.7%), myalgia (6.2% versus 6.7%), and bone pain (4.8% versus 5.3%).
 
-Laboratory Test Findings: Throughout the Phase 3 studies, transient decreases from baseline in serum calcium (less than 1%) and serum phosphate (less than 3%) and compensatory increases in serum PTH levels (less than 30%) were observed within 6 months in patients in osteoporosis clinical trials treated with risedronate sodium tablets, 5 mg once daily.
-There were no significant differences in serum calcium, phosphate, or PTH levels between placebo and risedronate sodium tablets, 5 mg once daily at 3 years.
-Serum calcium levels below 8 mg/dL were observed in 18 patients, 9 (0.5%) in each treatment arm (placebo and risedronate sodium tablets, 5 mg once daily).
-Serum phosphorus levels below 2 mg/dL were observed in 14 patients, 3 (0.2%) treated with placebo and 11 (0.6%) treated with risedronate sodium tablets, 5 mg once daily.
+Laboratory Test Findings: Throughout the Phase 3 studies, transient decreases from baseline in serum calcium (less than 1%) and serum phosphate (less than 3%) and compensatory increases in serum PTH levels (less than 30%) were observed within 6 months in patients in osteoporosis clinical trials treated with risedronate sodium tablets 5 mg once daily.
+There were no significant differences in serum calcium, phosphate, or PTH levels between placebo and risedronate sodium tablets 5 mg once daily at 3 years.
+Serum calcium levels below 8 mg/dL were observed in 18 patients, 9 (0.5%) in each treatment arm (placebo and risedronate sodium tablets 5 mg once daily).
+Serum phosphorus levels below 2 mg/dL were observed in 14 patients, 3 (0.2%) treated with placebo and 11 (0.6%) treated with risedronate sodium tablets 5 mg once daily.
 There have been rare reports (less than 0.1%) of abnormal liver function tests.
 
 Endoscopic Findings: In the risedronate clinical trials, endoscopic evaluation was encouraged in any patient with moderate-to-severe gastrointestinal complaints, while maintaining the blind.
@@ -88,121 +88,121 @@ Clinically important findings (perforations, ulcers, or bleeding) among this sym
 
 Once-a-Week Dosing
 
-The safety of risedronate sodium tablets, 35 mg once-a-week in the treatment of postmenopausal osteoporosis was assessed in a 1-year, double-blind, multicenter study comparing risedronate sodium tablets, 5 mg daily and risedronate sodium tablets, 35 mg once-a-week in postmenopausal women aged 50 to 95 years.
-The duration of the trials was one year, with 480 patients exposed to risedronate sodium tablets, 5 mg daily and 485 exposed to risedronate sodium tablets, 35 mg once-a-week.
-Patients with preexisting gastrointestinal disease and concomitant use of non-steroidal anti-inflammatory drugs, proton pump inhibitors, and H2 antagonists were included in these clinical trials.
+The safety of risedronate sodium tablets 35 mg once-a-week in the treatment of postmenopausal osteoporosis was assessed in a 1-year, double-blind, multicenter study comparing risedronate sodium tablets 5 mg daily and risedronate sodium tablets 35 mg once-a-week in postmenopausal women aged 50 to 95 years.
+The duration of the trials was one year, with 480 patients exposed to risedronate sodium tablets 5 mg daily and 485 exposed to risedronate sodium tablets 35 mg once-a-week.
+Patients with pre-existing gastrointestinal disease and concomitant use of non-steroidal anti-inflammatory drugs, proton pump inhibitors, and H2 antagonists were included in these clinical trials.
 All women received 1000 mg of elemental calcium plus vitamin D supplementation up to 500 international units per day if their 25-hydroxyvitamin D3 level was below normal at baseline.
 
-The incidence of all-cause mortality was 0.4% in the risedronate sodium tablets, 5 mg daily group and 1.0% in the risedronate sodium tablets, 35 mg once-a-week group.
-The incidence of serious adverse events was 7.1% in the risedronate sodium tablets, 5 mg daily group and 8.2% in the risedronate sodium tablets, 35 mg once-a-week group.
-The percentage of patients who withdrew from the study due to adverse events was 11.9% in the risedronate sodium tablets, 5 mg daily group and 11.5% in the risedronate sodium tablets, 35 mg once-a-week group.
+The incidence of all-cause mortality was 0.4% in the risedronate sodium tablets 5 mg daily group and 1.0% in the risedronate sodium tablets 35 mg once-a-week group.
+The incidence of serious adverse events was 7.1% in the risedronate sodium tablets 5 mg daily group and 8.2% in the risedronate sodium tablets 35 mg once-a-week group.
+The percentage of patients who withdrew from the study due to adverse events was 11.9% in the risedronate sodium tablets 5 mg daily group and 11.5% in the risedronate sodium tablets 35 mg once-a-week group.
 The overall safety and tolerability profiles of the two dosing regimens were similar.
 
-Gastrointestinal Adverse Events: The incidence of gastrointestinal adverse events was similar between the risedronate sodium tablets, 5 mg daily group and the risedronate sodium tablets, 35 mg once-a-week group: dyspepsia (6.9% versus 7.6%), diarrhea (6.3% versus 4.9%), and abdominal pain (7.3% versus 7.6%).
+Gastrointestinal Adverse Events: The incidence of gastrointestinal adverse events was similar between the risedronate sodium tablets 5 mg daily group and the risedronate sodium tablets 35 mg once-a-week group: dyspepsia (6.9% versus 7.6%), diarrhea (6.3% versus 4.9%), and abdominal pain (7.3% versus 7.6%).
 
-Musculoskeletal Adverse Events: Arthralgia was reported in 11.5% of patients in the risedronate sodium tablets, 5 mg daily group and 14.2% of patients in the risedronate sodium tablets, 35 mg once-a-week group.
-Myalgia was reported by 4.6% of patients in the risedronate sodium tablets, 5 mg daily group and 6.2% of patients in the risedronate sodium tablets, 35 mg once-a-week group.
+Musculoskeletal Adverse Events: Arthralgia was reported in 11.5% of patients in the risedronate sodium tablets 5 mg daily group and 14.2% of patients in the risedronate sodium tablets 35 mg once-a-week group.
+Myalgia was reported by 4.6% of patients in the risedronate sodium tablets 5 mg daily group and 6.2% of patients in the risedronate sodium tablets 35 mg once-a-week group.
 
-Laboratory Test Findings: The mean percent changes from baseline at 12 months were similar between the risedronate sodium tablets, 5 mg daily and risedronate sodium tablets, 35 mg once-a-week groups, respectively, for serum calcium (0.4% versus 0.7%), phosphate (-3.8% versus -2.6%) and PTH (6.4% versus 4.2%).
+Laboratory Test Findings: The mean percent changes from baseline at 12 months were similar between the risedronate sodium tablets 5 mg daily and risedronate sodium tablets 35 mg once-a-week groups, respectively, for serum calcium (0.4% versus 0.7%), phosphate (-3.8% versus -2.6%) and PTH (6.4% versus 4.2%).
 
 Monthly Dosing
 
 Two Consecutive Days per Month
 
-The safety of risedronate sodium tablets, 75 mg administered on two consecutive days per month for the treatment of postmenopausal osteoporosis was assessed in a double-blind, multicenter study in postmenopausal women aged 50 to 86 years.
-The duration of the trial was two years; 613 patients were exposed to risedronate sodium tablets, 5 mg daily and 616 were exposed to risedronate sodium tablets, 75 mg two consecutive days per month.
-Patients with preexisting gastrointestinal disease and concomitant use of non-steroidal anti-inflammatory drugs, proton pump inhibitors, and H2 antagonists were included in this clinical trial.
+The safety of risedronate sodium tablets 75 mg administered on two consecutive days per month for the treatment of postmenopausal osteoporosis was assessed in a double-blind, multicenter study in postmenopausal women aged 50 to 86 years.
+The duration of the trial was two years; 613 patients were exposed to risedronate sodium tablets 5 mg daily and 616 were exposed to risedronate sodium tablets 75 mg two consecutive days per month.
+Patients with pre-existing gastrointestinal disease and concomitant use of non-steroidal anti-inflammatory drugs, proton pump inhibitors, and H2 antagonists were included in this clinical trial.
 All women received 1000 mg of elemental calcium plus 400 to 800 international units of vitamin D supplementation per day.
 
-The incidence of all-cause mortality was 1.0% for the risedronate sodium tablets, 5 mg daily group and 0.5% for the risedronate sodium tablets, 75 mg two consecutive days per month group.
-The incidence of serious adverse events was 10.8% in the risedronate sodium tablets, 5 mg daily group and 14.4% in the risedronate sodium tablets, 75 mg two consecutive days per month group.
-The percentage of patients who withdrew from treatment due to adverse events was 14.2% in the risedronate sodium tablets, 5 mg daily group and 13.0% in the risedronate sodium tablets, 75 mg two consecutive days per month group.
+The incidence of all-cause mortality was 1.0% for the risedronate sodium tablets 5 mg daily group and 0.5% for the risedronate sodium tablets 75 mg two consecutive days per month group.
+The incidence of serious adverse events was 10.8% in the risedronate sodium tablets 5 mg daily group and 14.4% in the risedronate sodium tablets 75 mg two consecutive days per month group.
+The percentage of patients who withdrew from treatment due to adverse events was 14.2% in the risedronate sodium tablets 5 mg daily group and 13.0% in the risedronate sodium tablets 75 mg two consecutive days per month group.
 The overall safety and tolerability profiles of the two dosing regimens were similar.
 
 Acute Phase Reactions: Symptoms consistent with acute phase reaction have been reported with bisphosphonate use.
-The overall incidence of acute phase reaction was 3.6% of patients on risedronate sodium tablets, 5 mg daily and 7.6% of patients on risedronate sodium tablets, 75 mg two consecutive days per month.
+The overall incidence of acute phase reaction was 3.6% of patients on risedronate sodium tablets 5 mg daily and 7.6% of patients on risedronate sodium tablets 75 mg two consecutive days per month.
 These incidence rates are based on reporting of any of 33 acute phase reaction-like symptoms within 5 days of the first dose.
-Fever or influenza-like illness with onset within the same period were reported by 0.0% of patients on risedronate sodium tablets, 5 mg daily and 0.6% of patients on risedronate sodium tablets, 75 mg two consecutive days per month.
+Fever or influenza-like illness with onset within the same period were reported by 0.0% of patients on risedronate sodium tablets 5 mg daily and 0.6% of patients on risedronate sodium tablets 75 mg two consecutive days per month.
 
-Gastrointestinal Adverse Events: The risedronate sodium tablets, 75 mg two consecutive days per month group resulted in a higher incidence of discontinuation due to vomiting (1.0% versus 0.2%) and diarrhea (1.0% versus 0.3%) compared to the risedronate sodium tablets, 5 mg daily group.
+Gastrointestinal Adverse Events: The risedronate sodium tablets 75 mg two consecutive days per month group resulted in a higher incidence of discontinuation due to vomiting (1.0% versus 0.2%) and diarrhea (1.0% versus 0.3%) compared to the risedronate sodium tablets 5 mg daily group.
 Most of these events occurred within a few days of dosing.
 
-Ocular Adverse Events: None of the patients treated with risedronate sodium tablets, 75 mg two consecutive days per month reported ocular inflammation such as uveitis, scleritis, or iritis; 1 patient treated with risedronate sodium tablets, 5 mg daily reported uveitis.
+Ocular Adverse Events: None of the patients treated with risedronate sodium tablets 75 mg two consecutive days per month reported ocular inflammation such as uveitis, scleritis, or iritis; 1 patient treated with risedronate sodium tablets 5 mg daily reported uveitis.
 
-Laboratory Test Findings: When risedronate sodium tablets, 5 mg daily and risedronate sodium tablets, 75 mg two consecutive days per month were compared in postmenopausal women with osteoporosis, the mean percent changes from baseline at 24 months were 0.2% and 0.8% for serum calcium, -1.9% and -1.3% for phosphate, and -10.4% and -17.2% for PTH, respectively.
-Compared to the risedronate sodium tablets, 5 mg daily group, risedronate sodium tablets, 75 mg two consecutive days per month resulted in a slightly higher incidence of hypocalcemia at the end of the first month of treatment (4.5% versus 3.0%).
+Laboratory Test Findings: When risedronate sodium tablets 5 mg daily and risedronate sodium tablets 75 mg two consecutive days per month were compared in postmenopausal women with osteoporosis, the mean percent changes from baseline at 24 months were 0.2% and 0.8% for serum calcium, -1.9% and -1.3% for phosphate, and -10.4% and -17.2% for PTH, respectively.
+Compared to the risedronate sodium tablets 5 mg daily group, risedronate sodium tablets 75 mg two consecutive days per month resulted in a slightly higher incidence of hypocalcemia at the end of the first month of treatment (4.5% versus 3.0%).
 Thereafter, the incidence of hypocalcemia with these regimens was similar at approximately 2%.
 
 Once-a-Month
 
-The safety of risedronate sodium tablets, 150 mg administered once-a-month for the treatment of postmenopausal osteoporosis was assessed in a double-blind, multicenter study in postmenopausal women aged 50 to 88 years.
-The duration of the trial was one year, with 642 patients exposed to risedronate sodium tablets, 5 mg daily and 650 exposed to risedronate sodium tablets, 150 mg once-a-month.
-Patients with preexisting gastrointestinal disease and concomitant use of non-steroidal anti-inflammatory drugs, proton pump inhibitors, and H2 antagonists were included in this clinical trial.
+The safety of risedronate sodium tablets 150 mg administered once-a-month for the treatment of postmenopausal osteoporosis was assessed in a double-blind, multicenter study in postmenopausal women aged 50 to 88 years.
+The duration of the trial was one year, with 642 patients exposed to risedronate sodium tablets 5 mg daily and 650 exposed to risedronate sodium tablets 150 mg once-a-month.
+Patients with pre-existing gastrointestinal disease and concomitant use of non-steroidal anti-inflammatory drugs, proton pump inhibitors, and H2 antagonists were included in this clinical trial.
 All women received 1000 mg of elemental calcium plus up to 1000 international units of vitamin D supplementation per day.
 
-The incidence of all-cause mortality was 0.5% for the risedronate sodium tablets, 5 mg daily group and 0.0% for the risedronate sodium tablets, 150 mg once-a-month group.
-The incidence of serious adverse events was 4.2% in the risedronate sodium tablets, 5 mg daily group and 6.2% in the risedronate sodium tablets, 150 mg once-a-month group.
-The percentage of patients who withdrew from treatment due to adverse events was 9.5% in the risedronate sodium tablets, 5 mg daily group and 8.6% in the risedronate sodium tablets, 150 mg once-a-month group.
+The incidence of all-cause mortality was 0.5% for the risedronate sodium tablets 5 mg daily group and 0.0% for the risedronate sodium tablets 150 mg once-a-month group.
+The incidence of serious adverse events was 4.2% in the risedronate sodium tablets 5 mg daily group and 6.2% in the risedronate sodium tablets 150 mg once-a-month group.
+The percentage of patients who withdrew from treatment due to adverse events was 9.5% in the risedronate sodium tablets 5 mg daily group and 8.6% in the risedronate sodium tablets 150 mg once-a-month group.
 The overall safety and tolerability profiles of the two dosing regimens were similar.
 
 Acute Phase Reactions: Symptoms consistent with acute phase reaction have been reported with bisphosphonate use.
-The overall incidence of acute phase reaction was 1.1% in the risedronate sodium tablets, 5 mg daily group and 5.2% in the risedronate sodium tablets, 150 mg once-a-month group.
+The overall incidence of acute phase reaction was 1.1% in the risedronate sodium tablets 5 mg daily group and 5.2% in the risedronate sodium tablets 150 mg once-a-month group.
 These incidence rates are based on reporting of any of 33 acute phase reaction-like symptoms within 3 days of the first dose and for a duration of 7 days or less.
-Fever or influenza-like illness with onset within the same period were reported by 0.2% of patients on risedronate sodium tablets, 5 mg daily and 1.4% of patients on risedronate sodium tablets, 150 mg once-a-month.
+Fever or influenza-like illness with onset within the same period were reported by 0.2% of patients on risedronate sodium tablets 5 mg daily and 1.4% of patients on risedronate sodium tablets 150 mg once-a-month.
 
-Gastrointestinal Adverse Events: A greater percentage of patients experienced diarrhea with risedronate sodium tablets, 150 mg once-a-month compared to 5 mg daily (8.2% versus 4.7%, respectively).
-The risedronate sodium tablets, 150 mg once-a-month group resulted in a higher incidence of discontinuation due to abdominal pain upper (2.5% versus 1.4%) and diarrhea (0.8% versus 0.0%) compared to the risedronate sodium tablets, 5 mg daily regimen.
+Gastrointestinal Adverse Events: A greater percentage of patients experienced diarrhea with risedronate sodium tablets 150 mg once-a-month compared to 5 mg daily (8.2% versus 4.7%, respectively).
+The risedronate sodium tablets 150 mg once-a-month group resulted in a higher incidence of discontinuation due to abdominal pain upper (2.5% versus 1.4%) and diarrhea (0.8% versus 0.0%) compared to the risedronate sodium tablets 5 mg daily regimen.
 All of these events occurred within a few days of the first dose.
 The incidence of vomiting that led to discontinuation was the same in both groups (0.3% versus 0.3%).
 
-Ocular Adverse Events: None of the patients treated with risedronate sodium tablets, 150 mg once-a-month reported ocular inflammation such as uveitis, scleritis, or iritis; 2 patients treated with risedronate sodium tablets, 5 mg daily reported iritis.
+Ocular Adverse Events: None of the patients treated with risedronate sodium tablets 150 mg once-a-month reported ocular inflammation such as uveitis, scleritis, or iritis; 2 patients treated with risedronate sodium tablets 5 mg daily reported iritis.
 
-Laboratory Test Findings: When risedronate sodium tablets, 5 mg daily and risedronate sodium tablets, 150 mg once-a-month were compared in postmenopausal women with osteoporosis, the mean percent changes from baseline at 12 months were 0.1% and 0.3% for serum calcium, -2.3% and -2.3% for phosphate, and 8.3% and 4.8% for PTH, respectively.
-Compared to the risedronate sodium tablets, 5 mg daily regimen, risedronate sodium tablets, 150 mg once-a-month resulted in a slightly higher incidence of hypocalcemia at the end of the first month of treatment (0.2% versus 2.2%).
+Laboratory Test Findings: When risedronate sodium tablets 5 mg daily and risedronate sodium tablets 150 mg once-a-month were compared in postmenopausal women with osteoporosis, the mean percent changes from baseline at 12 months were 0.1% and 0.3% for serum calcium, -2.3% and -2.3% for phosphate, and 8.3% and 4.8% for PTH, respectively.
+Compared to the risedronate sodium tablets 5 mg daily regimen, risedronate sodium tablets 150 mg once-a-month resulted in a slightly higher incidence of hypocalcemia at the end of the first month of treatment (0.2% versus 2.2%).
 Thereafter, the incidence of hypocalcemia with these regimens was similar at approximately 2%.
 
 Prevention of Postmenopausal Osteoporosis
 
 Daily Dosing
 
-The safety of risedronate sodium tablets, 5 mg daily in the prevention of postmenopausal osteoporosis was assessed in two randomized, double-blind, placebo-controlled trials.
+The safety of risedronate sodium tablets 5 mg daily in the prevention of postmenopausal osteoporosis was assessed in two randomized, double-blind, placebo-controlled trials.
 In one study of postmenopausal women aged 37 to 82 years without osteoporosis, the use of estrogen replacement therapy in both placebo- and risedronate-treated patients was included.
-The duration of the trial was one year, with 259 exposed to placebo and 261 patients exposed to risedronate sodium tablets, 5 mg.
+The duration of the trial was one year, with 259 exposed to placebo and 261 patients exposed to risedronate sodium tablets 5 mg.
 The second study included postmenopausal women aged 44 to 63 years without osteoporosis.
-The duration of the trial was one year, with 125 exposed to placebo and 129 patients exposed to risedronate sodium tablets, 5 mg.
+The duration of the trial was one year, with 125 exposed to placebo and 129 patients exposed to risedronate sodium tablets 5 mg.
 All women received 1000 mg of elemental calcium per day.
 
-In the trial with estrogen replacement therapy, the incidence of all-cause mortality was 1.5% for the placebo group and 0.4% for the risedronate sodium tablets, 5 mg group.
-The incidence of serious adverse events was 8.9% in the placebo group and 5.4% in the risedronate sodium tablets, 5 mg group.
-The percentage of patients who withdrew from treatment due to adverse events was 18.9% in the placebo group and 10.3% in the risedronate sodium tablets, 5 mg group.
-Constipation was reported by 1.9% of the placebo group and 6.5% of risedronate sodium tablets, 5 mg group.
+In the trial with estrogen replacement therapy, the incidence of all-cause mortality was 1.5% for the placebo group and 0.4% for the risedronate sodium tablets 5 mg group.
+The incidence of serious adverse events was 8.9% in the placebo group and 5.4% in the risedronate sodium tablets 5 mg group.
+The percentage of patients who withdrew from treatment due to adverse events was 18.9% in the placebo group and 10.3% in the risedronate sodium tablets 5 mg group.
+Constipation was reported by 1.9% of the placebo group and 6.5% of risedronate sodium tablets 5 mg group.
 
 In the second trial, the incidence of all-cause mortality was 0.0% for both groups.
-The incidence of serious adverse events was 17.6% in the placebo group and 9.3% in the risedronate sodium tablets, 5 mg group.
-The percentage of patients who withdrew from treatment due to adverse events was 6.4% in the placebo group and 5.4% in the risedronate sodium tablets, 5 mg group.
-Nausea was reported by 6.4% of patients in the placebo group and 13.2% of patients in the risedronate sodium tablets, 5 mg group.
+The incidence of serious adverse events was 17.6% in the placebo group and 9.3% in the risedronate sodium tablets 5 mg group.
+The percentage of patients who withdrew from treatment due to adverse events was 6.4% in the placebo group and 5.4% in the risedronate sodium tablets 5 mg group.
+Nausea was reported by 6.4% of patients in the placebo group and 13.2% of patients in the risedronate sodium tablets 5 mg group.
 
 Once-a-Week Dosing
 
-There were no deaths in a 1-year, double-blind, placebo-controlled study of risedronate sodium tablets, 35 mg once-a-week for prevention of bone loss in 278 postmenopausal women without osteoporosis.
+There were no deaths in a 1-year, double-blind, placebo-controlled study of risedronate sodium tablets 35 mg once-a-week for prevention of bone loss in 278 postmenopausal women without osteoporosis.
 More treated subjects on risedronate sodium tablets reported arthralgia (placebo 7.8%; risedronate sodium tablets 13.9%), myalgia (placebo 2.1%; risedronate sodium tablets 5.1%), and nausea (placebo 4.3%; risedronate sodium tablets 7.3%) than subjects on placebo.
 
-Treatment to Increase Bone Mass in Men With Osteoporosis
+Treatment to Increase Bone Mass in Men with Osteoporosis
 
-In a 2-year, double-blind, multicenter study, 284 men with osteoporosis were treated with placebo (N = 93) or risedronate sodium tablets, 35 mg once-a-week (N = 191).
-The overall safety and tolerability profile of risedronate sodium tablets in men with osteoporosis was similar to the adverse events reported in the risedronate sodium tablets postmenopausal osteoporosis clinical trials, with the addition of benign prostatic hyperplasia (placebo 3%; risedronate sodium tablets, 35 mg 5%), nephrolithiasis (placebo 0%; risedronate sodium tablets, 35 mg 3%), and arrhythmia (placebo 0%; risedronate sodium tablets, 35 mg 2%).
+In a 2-year, double-blind, multicenter study, 284 men with osteoporosis were treated with placebo (N = 93) or risedronate sodium tablets 35 mg once-a-week (N = 191).
+The overall safety and tolerability profile of risedronate sodium tablets in men with osteoporosis was similar to the adverse events reported in the risedronate sodium tablets postmenopausal osteoporosis clinical trials, with the addition of benign prostatic hyperplasia (placebo 3%; risedronate sodium tablets 35 mg 5%), nephrolithiasis (placebo 0%; risedronate sodium tablets 35 mg 3%), and arrhythmia (placebo 0%; risedronate sodium tablets 35 mg 2%).
 
 Treatment and Prevention of Glucocorticoid-Induced Osteoporosis
 
-The safety of risedronate sodium tablets, 5 mg daily in the treatment and prevention of glucocorticoid-induced osteoporosis was assessed in two randomized, double-blind, placebo-controlled multinational trials of 344 patients [male (123) and female (221)] aged 18 to 85 years who had recently initiated oral glucocorticoid therapy (less than or equal to 3 months, prevention study) or were on long-term oral glucocorticoid therapy (greater than or equal to 6 months, treatment study).
-The duration of the trials was one year, with 170 patients exposed to placebo and 174 patients exposed to risedronate sodium tablets, 5 mg daily.
+The safety of risedronate sodium tablets 5 mg daily in the treatment and prevention of glucocorticoid-induced osteoporosis was assessed in two randomized, double-blind, placebo-controlled multinational trials of 344 patients [male (123) and female (221)] aged 18 to 85 years who had recently initiated oral glucocorticoid therapy (less than or equal to 3 months, prevention study) or were on long-term oral glucocorticoid therapy (greater than or equal to 6 months, treatment study).
+The duration of the trials was one year, with 170 patients exposed to placebo and 174 patients exposed to risedronate sodium tablets 5 mg daily.
 Patients in one study received 1000 mg elemental calcium plus 400 international units of vitamin D supplementation per day; patients in the other study received 500 mg calcium supplementation per day.
 
-The incidence of all-cause mortality was 2.9% in the placebo group and 1.1% in the risedronate sodium tablets, 5 mg daily group.
-The incidence of serious adverse events was 33.5% in the placebo group and 30.5% in the risedronate sodium tablets, 5 mg daily group.
-The percentage of patients who withdrew from the study due to adverse events was 8.8% in the placebo group and 7.5% in the risedronate sodium tablets, 5 mg daily group.
-Back pain was reported in 8.8% of patients in the placebo group and 17.8% of patients in the risedronate sodium tablets, 5 mg daily group.
-Arthralgia was reported in 14.7% of patients in the placebo group and 24.7% of patients in the risedronate sodium tablets, 5 mg daily group.
+The incidence of all-cause mortality was 2.9% in the placebo group and 1.1% in the risedronate sodium tablets 5 mg daily group.
+The incidence of serious adverse events was 33.5% in the placebo group and 30.5% in the risedronate sodium tablets 5 mg daily group.
+The percentage of patients who withdrew from the study due to adverse events was 8.8% in the placebo group and 7.5% in the risedronate sodium tablets 5 mg daily group.
+Back pain was reported in 8.8% of patients in the placebo group and 17.8% of patients in the risedronate sodium tablets 5 mg daily group.
+Arthralgia was reported in 14.7% of patients in the placebo group and 24.7% of patients in the risedronate sodium tablets 5 mg daily group.
 
 Treatment of Paget’s Disease
 
@@ -211,11 +211,11 @@ As in trials of risedronate for other indications, the adverse experiences repor
 
 The safety of risedronate was assessed in a randomized, double-blind, active-controlled study of 122 patients aged 34 to 85 years.
 The duration of the trial was 540 days, with 61 patients exposed to risedronate and 61 patients exposed to etidronate disodium.
-The adverse event profile was similar for risedronate and etidronate disodium: 6.6% (4/61) of patients treated with risedronate sodium tablets, 30 mg daily for 2 months discontinued treatment due to adverse events, compared to 8.2% (5/61) of patients treated with etidronate disodium tablets, 400 mg daily for 6 months.
+The adverse event profile was similar for risedronate and etidronate disodium: 6.6% (4/61) of patients treated with risedronate sodium tablets 30 mg daily for 2 months discontinued treatment due to adverse events, compared to 8.2% (5/61) of patients treated with etidronate disodium tablets 400 mg daily for 6 months.
 Table 2 lists adverse events reported in greater than or equal to 5% of risedronate-treated patients in Phase 3 Paget's disease trials.
 Adverse events shown are considered to be possibly or probably causally related in at least one patient.
 
-Table 2: Adverse Events Reported in Greater Than or Equal to 5% of Risedronate-Treated PatientsConsidered to be possibly or probably causally related in at least one patient. in Phase 3 Paget's Disease Trials
+Table 2 Adverse Events Reported in Greater Than or Equal to 5% of Risedronate-Treated Patients* in Phase 3 Paget's Disease Trials
 
 | Body System | 30 mg/day x 2 months Risedronate Sodium Tablets % (N = 61) | 400 mg/day x 6 months Etidronate Disodium Tablets % (N = 61) |
 | --- | --- | --- |
@@ -236,11 +236,12 @@ Table 2: Adverse Events Reported in Greater Than or Equal to 5% of Risedronate-T
 | Dizziness | 6.6 | 4.9 |
 | Skin and Appendages |  |  |
 | Rash | 11.5 | 8.2 |
+| *Considered to be possibly or probably causally related in at least one patient. |  |  |
 
 Gastrointestinal Adverse Events: During the first year of the study (treatment and nontreatment follow-up), the proportion of patients who reported upper gastrointestinal adverse events was similar between the treatment groups; no patients reported severe upper gastrointestinal adverse events.
 The incidence of diarrhea was 19.7% in the risedronate group and 14.8% in the etidronate group; none were serious or resulted in withdrawal.
 
-Ocular Adverse Events: Three patients who received risedronate sodium tablets, 30 mg daily experienced acute iritis in 1 supportive study.
+Ocular Adverse Events: Three patients who received risedronate sodium tablets 30 mg daily experienced acute iritis in 1 supportive study.
 All 3 patients recovered from their events; however, in 1 of these patients, the event recurred during risedronate treatment and again during treatment with pamidronate.
 All patients were effectively treated with topical steroids.
 

@@ -11,7 +11,7 @@ Risedronate sodium tablets are indicated for treatment to increase bone mass in 
 
 ## 1.3 Glucocorticoid-Induced Osteoporosis
 
-Risedronate sodium tablets are indicated for the treatment and prevention of glucocorticoid-induced osteoporosis in men and women who are either initiating or continuing systemic glucocorticoid treatment (daily dosage of greater than or equal to 7.5 mg prednisone or equivalent) for chronic diseases.
+Risedronate sodium tablets are indicated for the treatment and prevention of glucocorticoid-induced osteoporosis in men and women who are either initiating or continuing systemic glucocorticoid treatment (daily dosage of greater than or equal to 7.5 mg of prednisone or equivalent) for chronic diseases.
 Patients treated with glucocorticoids should receive adequate amounts of calcium and vitamin D.
 
 ## 1.4 Paget’s Disease

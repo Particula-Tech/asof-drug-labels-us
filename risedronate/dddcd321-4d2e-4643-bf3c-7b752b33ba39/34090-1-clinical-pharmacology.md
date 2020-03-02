@@ -15,28 +15,28 @@ At the 5 mg dose, decreases in deoxypyridinoline/creatinine were evident within 
 Changes in bone formation markers were observed later than changes in resorption markers, as expected, due to the coupled nature of bone resorption and bone formation; decreases in bone-specific alkaline phosphatase of about 20% were evident within 3 months of treatment.
 Bone turnover markers reached a nadir of about 40% below baseline values by the sixth month of treatment and remained stable with continued treatment for up to 3 years.
 Bone turnover is decreased as early as 14 days and maximally within about 6 months of treatment, with achievement of a new steady-state that more nearly approximates the rate of bone turnover seen in premenopausal women.
-In a 1-year study comparing daily versus weekly oral dosing regimens of risedronate for the treatment of osteoporosis in postmenopausal women, risedronate sodium tablets, 5 mg daily and risedronate sodium tablets, 35 mg once-a-week decreased urinary collagen cross-linked N-telopeptide by 60% and 61%, respectively.
-In addition, serum bone-specific alkaline phosphatase was also reduced by 42% and 41% in the risedronate sodium tablets, 5 mg daily and risedronate sodium tablets, 35 mg once-a-week groups, respectively.
-When postmenopausal women with osteoporosis were treated for 1 year with risedronate sodium tablets, 5 mg daily or risedronate sodium tablets, 75 mg two consecutive days per month, urinary collagen cross-linked N-telopeptide was decreased by 54% and 52%, respectively, and serum bone-specific alkaline phosphatase was reduced by 36% and 35%, respectively.
-In a 1-year study comparing risedronate sodium tablets, 5 mg daily versus risedronate sodium tablets, 150 mg once-a-month in women with postmenopausal osteoporosis, urinary collagen cross-linked N-telopeptide was decreased by 52% and 49%, respectively, and serum bone-specific alkaline phosphatase was reduced by 31% and 32%, respectively.
+In a 1-year study comparing daily versus weekly oral dosing regimens of risedronate for the treatment of osteoporosis in postmenopausal women, risedronate sodium tablets 5 mg daily and risedronate sodium tablets 35 mg once-a-week decreased urinary collagen cross-linked N-telopeptide by 60% and 61%, respectively.
+In addition, serum bone-specific alkaline phosphatase was also reduced by 42% and 41% in the risedronate sodium tablets 5 mg daily and risedronate sodium tablets 35 mg once-a-week groups, respectively.
+When postmenopausal women with osteoporosis were treated for 1 year with risedronate sodium tablets 5 mg daily or risedronate sodium tablets 75 mg two consecutive days per month, urinary collagen cross-linked N-telopeptide was decreased by 54% and 52%, respectively, and serum bone-specific alkaline phosphatase was reduced by 36% and 35%, respectively.
+In a 1-year study comparing risedronate sodium tablets 5 mg daily versus risedronate sodium tablets 150 mg once-a-month in women with postmenopausal osteoporosis, urinary collagen cross-linked N-telopeptide was decreased by 52% and 49%, respectively, and serum bone-specific alkaline phosphatase was reduced by 31% and 32%, respectively.
 
 Osteoporosis in Men
 
-In a 2-year study of men with osteoporosis, treatment with risedronate sodium tablets, 35 mg once-a-week resulted in a mean decrease from baseline compared to placebo of 16% (placebo 20%; risedronate sodium tablets, 35 mg 37%) for the bone resorption marker urinary collagen cross-linked N-telopeptide, 45% (placebo -6%; risedronate sodium tablets, 35 mg 39%) for the bone resorption marker serum C-telopeptide, and 27% (placebo -2%; risedronate sodium tablets, 35 mg 25%) for the bone formation marker serum bone-specific alkaline phosphatase.
+In a 2-year study of men with osteoporosis, treatment with risedronate sodium tablets 35 mg once-a-week resulted in a mean decrease from baseline compared to placebo of 16% (placebo 20%; risedronate sodium tablets 35 mg 37%) for the bone resorption marker urinary collagen cross-linked N-telopeptide, 45% (placebo -6%; risedronate sodium tablets 35 mg 39%) for the bone resorption marker serum C-telopeptide, and 27% (placebo -2%; risedronate sodium tablets 35 mg 25%) for the bone formation marker serum bone-specific alkaline phosphatase.
 
 Glucocorticoid-Induced Osteoporosis
 
 Osteoporosis with glucocorticoid use occurs as a result of inhibited bone formation and increased bone resorption resulting in net bone loss.
 Risedronate decreases bone resorption without directly inhibiting bone formation.
 
-In two 1-year clinical trials in the treatment and prevention of glucocorticoid-induced osteoporosis, risedronate sodium tablets, 5 mg decreased urinary collagen cross-linked N-telopeptide (a marker of bone resorption), and serum bone-specific alkaline phosphatase (a marker of bone formation) by 50% to 55% and 25% to 30%, respectively, within 3 to 6 months after initiation of therapy.
+In two 1-year clinical trials in the treatment and prevention of glucocorticoid-induced osteoporosis, risedronate sodium tablets 5 mg decreased urinary collagen cross-linked N-telopeptide (a marker of bone resorption), and serum bone-specific alkaline phosphatase (a marker of bone formation) by 50% to 55% and 25% to 30%, respectively, within 3 to 6 months after initiation of therapy.
 
 Paget’s Disease
 
 Paget’s disease of bone is a chronic, focal skeletal disorder characterized by greatly increased and disordered bone remodeling.
 Excessive osteoclastic bone resorption is followed by osteoblastic new bone formation, leading to the replacement of the normal bone architecture by disorganized, enlarged, and weakened bone structure.
 
-In pagetic patients treated with risedronate sodium tablets, 30 mg daily for 2 months, bone turnover returned to normal in a majority of patients as evidenced by significant reductions in serum alkaline phosphatase (a marker of bone formation), and in urinary hydroxyproline/creatinine and deoxypyridinoline/creatinine (markers of bone resorption).
+In pagetic patients treated with risedronate sodium tablets 30 mg daily for 2 months, bone turnover returned to normal in a majority of patients as evidenced by significant reductions in serum alkaline phosphatase (a marker of bone formation), and in urinary hydroxyproline/creatinine and deoxypyridinoline/creatinine (markers of bone resorption).
 
 ## 12.3 Pharmacokinetics
 

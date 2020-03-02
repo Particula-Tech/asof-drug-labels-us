@@ -1,9 +1,9 @@
 # 5 WARNINGS AND PRECAUTIONS
 
-## 5.1 Drug Products With the Same Active Ingredient
+## 5.1 Drug Products with the Same Active Ingredient
 
 Risedronate sodium tablets contain the same active ingredient found in Atelvia®.
-A patient being treated with Atelvia® should not receive risedronate sodium tablets.
+A patient being treated with Atelvia should not receive risedronate sodium tablets.
 
 ## 5.2 Upper Gastrointestinal Adverse Reactions
 
@@ -18,7 +18,7 @@ The risk of severe esophageal adverse experiences appears to be greater in patie
 Therefore, it is very important that the full dosing instructions are provided to, and understood by, the patient [see Dosage and Administration (2)].
 In patients who cannot comply with dosing instructions due to mental disability, therapy with risedronate should be used under appropriate supervision.
 
-There have been postmarketing reports of gastric and duodenal ulcers with oral bisphosphonate use, some severe and with complications, although no increased risk was observed in controlled clinical trials.
+There have been post-marketing reports of gastric and duodenal ulcers with oral bisphosphonate use, some severe and with complications, although no increased risk was observed in controlled clinical trials.
 
 ## 5.3 Mineral Metabolism
 
@@ -30,7 +30,7 @@ Adequate intake of calcium and vitamin D is important in all patients, especiall
 ## 5.4 Jaw Osteonecrosis
 
 Osteonecrosis of the jaw (ONJ), which can occur spontaneously, is generally associated with tooth extraction and/or local infection with delayed healing, and has been reported in patients taking bisphosphonates, including risedronate.
-Known risk factors for osteonecrosis of the jaw include invasive dental procedures (for example, tooth extraction, dental implants, boney surgery), diagnosis of cancer, concomitant therapies (for example, chemotherapy, corticosteroids, angiogenesis inhibitors), poor oral hygiene, and co-morbid disorders (for example, periodontal and/or other preexisting dental disease, anemia, coagulopathy, infection, ill-fitting dentures).
+Known risk factors for osteonecrosis of the jaw include invasive dental procedures (for example, tooth extraction, dental implants, boney surgery), diagnosis of cancer, concomitant therapies (for example, chemotherapy, corticosteroids, angiogenesis inhibitors), poor oral hygiene, and co-morbid disorders (for example, periodontal and/or other pre-existing dental disease, anemia, coagulopathy, infection, ill-fitting dentures).
 The risk of ONJ may increase with duration of exposure to bisphosphonates.
 
 For patients requiring invasive dental procedures, discontinuation of bisphosphonate treatment may reduce the risk for ONJ.
