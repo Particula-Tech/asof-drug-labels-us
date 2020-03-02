@@ -6,7 +6,7 @@ Moxifloxacin is a member of the fluoroquinolone class of anti-infective drugs [s
 
 ## 12.3 Pharmacokinetics
 
-Plasma concentrations of moxifloxacin were measured in healthy adult male and female subjects who received bilateral topical ocular doses of Moxifloxacin ophthalmic solution 3 times a day.
+Plasma concentrations of moxifloxacin were measured in healthy adult male and female subjects who received bilateral topical ocular doses of moxifloxacin ophthalmic solution 3 times a day.
 The mean steady-state Cmax (2.7 ng/mL) and estimated daily exposure AUC (45 ng•hr/mL) values were 1,600 and 1,000 times lower than the mean Cmax and AUC reported after therapeutic 400 mg doses of moxifloxacin.
 The plasma half-life of moxifloxacin was estimated to be 13 hours.
 
@@ -35,7 +35,7 @@ Other microorganisms: Chlamydia trachomatis
 *Efficacy for this organism was studied in fewer than 10 infections.
 
 The following in vitro data are also available, but their clinical significance in ophthalmic infections is unknown.
-The safety and effectiveness of Moxifloxacin ophthalmic solution in treating ophthalmological infections due to these microorganisms have not been established in adequate and well-controlled trials.
+The safety and effectiveness of moxifloxacin ophthalmic solution in treating ophthalmological infections due to these microorganisms have not been established in adequate and well-controlled trials.
 
 The following organisms are considered susceptible when evaluated using systemic breakpoints.
 However, a correlation between the in vitro systemic breakpoint and ophthalmological efficacy has not been established.

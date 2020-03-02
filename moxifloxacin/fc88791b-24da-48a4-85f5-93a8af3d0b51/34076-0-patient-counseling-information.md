@@ -9,7 +9,7 @@ Instruct patients to discontinue use immediately and contact their physician at 
 
 Manufactured by
 
-Alcon Laboratories, Inc. Fort Worth, TX 76134 for
+Alcon Laboratories, Inc. Fort Worth, Texas 76134 for
 
 Sandoz Inc.
 
