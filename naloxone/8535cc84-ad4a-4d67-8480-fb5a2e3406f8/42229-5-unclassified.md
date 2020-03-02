@@ -1,6 +1,6 @@
 Injection, USP
 
-Fliptop Vial, Opioid Antagonist
+Ampul, Fliptop Vial, Opioid Antagonist
 
 Protect from light.
 
