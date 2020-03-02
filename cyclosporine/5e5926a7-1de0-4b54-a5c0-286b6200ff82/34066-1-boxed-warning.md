@@ -15,5 +15,4 @@ The absorption of cyclosporine during chronic administration of Sandimmune Soft 
 It is recommended that patients taking the soft gelatin capsules or oral solution over a period of time be monitored at repeated intervals for cyclosporine blood concentrations and subsequent dose adjustments be made in order to avoid toxicity due to high concentrations and possible organ rejection due to low absorption of cyclosporine.
 This is of special importance in liver transplants.
 Numerous assays are being developed to measure blood concentrations of cyclosporine.
-Comparison of concentrations in published literature to patient concentrations using current assays must be done with detailed knowledge of the assay methods employed.
-(See Blood Concentration Monitoring under DOSAGE AND ADMINISTRATION)
+Comparison of concentrations in published literature to patient concentrations using current assays must be done with detailed knowledge of the assay methods employed (See Blood Concentration Monitoring under DOSAGE AND ADMINISTRATION).

@@ -11,21 +11,19 @@ There is a trend towards use of even lower initial doses for renal transplantati
 The initial single daily dose is continued postoperatively for 1 to 2 weeks and then tapered by 5% per week to a maintenance dose of 5 to 10 mg/kg/day.
 Some centers have successfully tapered the maintenance dose to as low as 3 mg/kg/day in selected renal transplant patients without an apparent rise in rejection rate.
 
-(See Blood Concentration Monitoring, below)
+See Blood Concentration Monitoring, below.
 
 Specific Populations
 
 Renal Impairment
 
 Cyclosporine undergoes minimal renal elimination and its pharmacokinetics do not appear to be significantly altered in patients with end-stage renal disease who receive routine hemodialysis treatments (See CLINICAL PHARMACOLOGY).
-However, due to its nephrotoxic potential (See WARNINGS), careful monitoring of renal function is recommended; cyclosporine dosage should be reduced if indicated.
-(See WARNINGS and PRECAUTIONS)
+However, due to its nephrotoxic potential (See WARNINGS), careful monitoring of renal function is recommended; cyclosporine dosage should be reduced if indicated (See WARNINGS and PRECAUTIONS).
 
 Hepatic Impairment
 
 The clearance of cyclosporine may be significantly reduced in severe liver disease patients (See CLINICAL PHARMACOLOGY).
-Dose reduction may be necessary in patients with severe liver impairment to maintain blood concentrations within the recommended target range.
-(See WARNINGS and PRECAUTIONS)
+Dose reduction may be necessary in patients with severe liver impairment to maintain blood concentrations within the recommended target range (See WARNINGS and PRECAUTIONS).
 
 Pediatrics
 
@@ -56,7 +54,7 @@ Introduction of water into the product by any means will cause variation in dose
 FOR INFUSION ONLY
 
 Note: Anaphylactic reactions have occurred with Sandimmune Injection (cyclosporine injection, USP).
-(See WARNINGS)
+See WARNINGS.
 
 Patients unable to take Sandimmune Soft Gelatin Capsules or Oral Solution pre- or postoperatively may be treated with the intravenous (IV) concentrate.
 Sandimmune Injection (cyclosporine injection, USP) is administered at 1/3 the oral dose.
@@ -65,8 +63,7 @@ This daily single dose is continued postoperatively until the patient can tolera
 Patients should be switched to Sandimmune Soft Gelatin Capsules or Oral Solution as soon as possible after surgery.
 In pediatric usage, the same dose and dosing regimen may be used, although higher doses may be required.
 
-Adjunct steroid therapy is to be used.
-(See aforementioned.)
+Adjunct steroid therapy is to be used (See aforementioned).
 
 Immediately before use, the intravenous concentrate should be diluted 1 mL Sandimmune Injection (cyclosporine injection, USP) in 20 mL to 100 mL 0.9% Sodium Chloride Injection or 5% Dextrose Injection and given in a slow intravenous infusion over approximately 2 to 6 hours.
 

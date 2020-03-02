@@ -2,7 +2,7 @@
 
 Sandimmune® Soft Gelatin Capsules (cyclosporine capsules, USP)
 
-25 mg: Oblong, pink, branded “ 78/240”.
+25 mg: Oval, pink, branded “ 78/240”.
 Unit dose packages of 30 capsules,
 
 3 blister cards of 10 capsules………………………………………………………….NDC 0078-0240-15
@@ -12,7 +12,7 @@ Unit dose packages of 30 capsules,
 
 3 blister cards of 10 capsules………………………………………………………….NDC 0078-0241-15
 
-Store and Dispense: Store at 25°C (77°F); excursions permitted to 15C to 30°C (59 to 86°F) [see USP Controlled Room Temperature].
+Store and Dispense: Store at 20°C-25°C (68°F-77°F); excursions permitted between 15°C and 30°C (59°F and 86°F) [see USP Controlled Room Temperature].
 
 An odor may be detected upon opening the unit dose container, which will dissipate shortly thereafter.
 This odor does not affect the quality of the product.
@@ -49,4 +49,4 @@ Novartis Pharmaceuticals Corporation East Hanover, New Jersey 07936
 
 © Novartis
 
-T2015-46 March 2015
+T2020-23 February 2020

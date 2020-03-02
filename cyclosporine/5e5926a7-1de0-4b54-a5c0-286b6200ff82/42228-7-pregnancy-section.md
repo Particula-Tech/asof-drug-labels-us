@@ -13,10 +13,10 @@ There are no adequate and well-controlled studies in pregnant women and therefor
 In pregnant transplant recipients who are being treated with immunosuppressants, the risk of premature birth is increased.
 The following data represent the reported outcomes of 116 pregnancies in women receiving Sandimmune (cyclosporine) during pregnancy, 90% of whom were transplant patients, and most of whom received Sandimmune (cyclosporine) throughout the entire gestational period.
 Since most of the patients were not prospectively identified, the results are likely to be biased toward negative outcomes.
-The only consistent patterns of abnormality were premature birth (gestational period of 28 to 36 weeks) and low birth weight for gestational age.
+The only consistent patterns of abnormality were premature birth (gestational period of 28 to 36 weeks) and low-birth weight for gestational age.
 It is not possible to separate the effects of Sandimmune (cyclosporine) on these pregnancies from the effects of the other immunosuppressants, the underlying maternal disorders, or other aspects of the transplantation milieu.
 Sixteen fetal losses occurred.
-Most of the pregnancies (85 of 100) were complicated by disorders; including, preeclampsia, eclampsia, premature labor, abruptio placentae, oligohydramnios, Rh incompatibility and fetoplacental dysfunction.
+Most of the pregnancies (85 of 100) were complicated by disorders; including, preeclampsia, eclampsia, premature labor, abruptio placentae, oligohydramnios, Rh incompatibility, and feto-placental dysfunction.
 Preterm delivery occurred in 47%.
 Seven malformations were reported in 5 viable infants and in 2 cases of fetal loss.
 Twenty-eight percent of the infants were small for gestational age.
@@ -27,5 +27,4 @@ More information on cyclosporine use in pregnancy is available from Novartis Pha
 A limited number of observations in children exposed to cyclosporine in utero are available, up to an age of approximately 7 years.
 Renal function and blood pressure in these children were normal.
 
-The alcohol content of the Sandimmune formulations should also be taken into account in pregnant women.
-(See WARNINGS, Special Excipients)
+The alcohol content of the Sandimmune formulations should also be taken into account in pregnant women (See WARNINGS, Special Excipients).

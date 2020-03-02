@@ -1,6 +1,6 @@
 # CLINICAL PHARMACOLOGY
 
-Cyclosporine is a potent immunosuppressive agent which in animals prolongs survival of allogeneic transplants involving skin, heart, kidney, pancreas, bone marrow, small intestine, and lung.
+Cyclosporine is a potent immunosuppressive agent, which in animals prolongs survival of allogeneic transplants involving skin, heart, kidney, pancreas, bone marrow, small intestine, and lung.
 Cyclosporine has been demonstrated to suppress some humoral immunity and to a greater extent, cell-mediated reactions such as allograft rejection, delayed hypersensitivity, experimental allergic encephalomyelitis, Freund’s adjuvant arthritis, and graft vs. host disease in many animal species for a variety of organs.
 
 Successful kidney, liver, and heart allogeneic transplants have been performed in man using cyclosporine.
@@ -9,7 +9,7 @@ The exact mechanism of action of cyclosporine is not known.
 Experimental evidence suggests that the effectiveness of cyclosporine is due to specific and reversible inhibition of immunocompetent lymphocytes in the G0- or G1-phase of the cell cycle.
 T-lymphocytes are preferentially inhibited.
 The T-helper cell is the main target, although the T-suppressor cell may also be suppressed.
-Cyclosporine also inhibits lymphokine production and release including interleukin-2 or T-cell growth factor (TCGF).
+Cyclosporine also inhibits lymphokine production and release, including interleukin-2 or T-cell growth factor (TCGF).
 
 No functional effects on phagocytic (changes in enzyme secretions not altered, chemotactic migration of granulocytes, macrophage migration, carbon clearance in vivo) or tumor cells (growth rate, metastasis) can be detected in animals.
 Cyclosporine does not cause bone marrow suppression in animal models or man.
@@ -27,7 +27,7 @@ Approximately 33% to 47% is in plasma, 4% to 9% in lymphocytes, 5% to 12% in gra
 At high concentrations, the uptake by leukocytes and erythrocytes becomes saturated.
 In plasma, approximately 90% is bound to proteins, primarily lipoproteins.
 
-The disposition of cyclosporine from blood is biphasic with a terminal half-life of approximately 19 hours (range: 10 to 27 hours).
+The disposition of cyclosporine from blood is biphasic with a terminal half-life of approximately 19 hours (range, 10 to 27 hours).
 Elimination is primarily biliary with only 6% of the dose excreted in the urine.
 
 Cyclosporine is extensively metabolized but there is no major metabolic pathway.
