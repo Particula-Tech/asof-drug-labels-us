@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "NDA020145"
+  ],
+  "inn": "nitroglycerin",
+  "labeler": "Dr. Reddy's Laboratories, Inc.",
+  "package_ndcs": [
+    "43598-893-30",
+    "43598-894-30",
+    "43598-895-30",
+    "43598-896-30"
+  ],
+  "products": [
+    {
+      "form": "PATCH",
+      "generic": "nitroglycerin",
+      "name": "Nitroglycerin Transdermal Infusion System"
+    }
+  ],
+  "setid": "4f85d2e0-2e37-fcd1-276d-5a6466554289",
+  "source": "dailymed"
+}
