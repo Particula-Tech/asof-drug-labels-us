@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA211406"
+  ],
+  "inn": "sirolimus",
+  "labeler": "Apotex Corp",
+  "package_ndcs": [
+    "60505-6197-2"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "sirolimus",
+      "name": "Sirolimus"
+    }
+  ],
+  "setid": "9f64692d-2a18-ffcb-c572-0f218a71ca67",
+  "source": "dailymed"
+}
