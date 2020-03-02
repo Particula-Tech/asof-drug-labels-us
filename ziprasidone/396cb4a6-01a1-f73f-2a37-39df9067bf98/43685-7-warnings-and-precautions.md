@@ -7,7 +7,7 @@ Analyses of 17 placebo-controlled trials (modal duration of 10 weeks), largely i
 Over the course of a typical 10-week controlled trial, the rate of death in drug-treated patients was about 4.5%, compared to a rate of about 2.6% in the placebo group.
 
 Although the causes of death were varied, most of the deaths appeared to be either cardiovascular (e.g., heart failure, sudden death) or infectious (e.g., pneumonia) in nature.
-Ziprasidone is not approved for the treatment of dementia-related psychosis [see Boxed Warning, Warnings and Precautions (5.2)]
+Ziprasidone is not approved for the treatment of patients with dementia-related psychosis [see Boxed Warning, Warnings and Precautions (5.2)]
 
 ## 5.2 Cerebrovascular Adverse Reactions, Including Stroke, in Elderly Patients with Dementia-Related Psychosis
 
@@ -133,7 +133,7 @@ In some cases, hyperglycemia has resolved when the atypical antipsychotic was di
 
 Pooled data from short-term, placebo-controlled studies in schizophrenia and bipolar disorder are presented in Tables 1-4.
 Note that for the flexible dose studies in both schizophrenia and bipolar disorder, each subject is categorized as having received either low (20 to 40 mg BID) or high (60 to 80 mg BID) dose based on the subject’s modal daily dose.
-In the tables showing categorical changes, the percentages (% column) are calculated as 100x(n/N).
+In the tables showing categorical changes, the percentages (% column) are calculated as 100x (n/N).
 
 Table 1: Glucose* Mean Change from Baseline in Short-Term (up to 6 weeks), Placebo-Controlled, Fixed-Dose, Oral Ziprasidone, Monotherapy Trials in Adult Patients with Schizophrenia
 
