@@ -1,4 +1,4 @@
-# 7. DRUG INTERACTIONS
+# 7 DRUG INTERACTIONS
 
 ## 7.1 Drugs with Neurotoxic, Nephrotoxic or Ototoxic Potential
 

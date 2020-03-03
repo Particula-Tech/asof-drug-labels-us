@@ -1,4 +1,4 @@
-# 5. WARNINGS AND PRECAUTIONS
+# 5 WARNINGS AND PRECAUTIONS
 
 ## 5.1 Bronchospasm
 
@@ -34,8 +34,8 @@ If neuromuscular blockade occurs, it may be reversed by the administration of ca
 
 Aminoglycosides can cause fetal harm when administered to a pregnant woman.
 Aminoglycosides cross the placenta, and streptomycin has been associated with several reports of total, irreversible, bilateral congenital deafness in pediatric patients exposed in utero.
-The risk with inhaled tobramycin is less well characterized.
-Patients who use tobramycin inhalation solution during pregnancy, or become pregnant while taking tobramycin inhalation solution should be apprised of the potential hazard to the fetus.
+However, systemic absorption of tobramycin following inhaled administration is expected to be minimal [see Clinical Pharmacology (12.3)].
+Patients who use KITABIS PAK during pregnancy, or become pregnant while taking tobramycin inhalation solution should be apprised of the potential hazard to the fetus [see Use in Specific Populations (8.1)].
 
 ## 5.6 Concomitant Use of Systemic Aminoglycosides
 
