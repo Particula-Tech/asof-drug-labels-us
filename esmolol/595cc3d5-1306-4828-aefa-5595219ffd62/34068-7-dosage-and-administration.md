@@ -64,9 +64,7 @@ Parenteral drug products should be inspected visually for particulate matter and
 
 - •The medication port is to be used solely for withdrawing an initial bolus from the bag.
 - •Use aseptic technique when withdrawing the bolus dose.
-- •Do not add any additional
-
-Figure 1: Two-Port INTRAVIA Bag
+- •Do not add any additional medications to the bag.
 
 ### Ready-to-Use Vial
 
