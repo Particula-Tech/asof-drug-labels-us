@@ -22,7 +22,7 @@ At 30 minutes after the discontinuation of BREVIBLOC infusion, all of the hemody
 
 The relative cardioselectivity of BREVIBLOC injection was demonstrated in 10 mildly asthmatic patients.
 Infusions of BREVIBLOC injection 100, 200 and 300 mcg/kg/min produced no significant increases in specific airway resistance compared to placebo.
-At 300 mcg/kg/min, BREVIBLOC produced slightly enhanced bronchomotor sensitivity to dry air stimulus.
+At 300 mcg/kg/min, BREVIBLOC injection produced slightly enhanced bronchomotor sensitivity to dry air stimulus.
 These effects were not clinically significant, and BREVIBLOC injection was well tolerated by all patients.
 Six of the patients also received intravenous propranolol, and at a dosage of 1 mg, two experienced significant, symptomatic bronchospasm requiring bronchodilator treatment.
 One other propranolol-treated patient also experienced dry air-induced bronchospasm.

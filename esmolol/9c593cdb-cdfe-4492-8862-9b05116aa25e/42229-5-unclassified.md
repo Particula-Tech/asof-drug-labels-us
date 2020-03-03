@@ -1,11 +1,7 @@
-Manufactured by
-
-Baxter Healthcare Corporation
-
-Deerfield, IL 60015 USA
+Manufactured by Baxter Healthcare Corporation Deerfield, IL 60015 USA
 
 Baxter, Brevibloc, Brevibloc Premixed and Intravia are trademarks of Baxter International Inc.
 
 PREMIERProRx® is a registered trademark of Premier Healthcare Alliance, L.P., used under license
 
-07-19-00-0145
+07-19-00-1677
