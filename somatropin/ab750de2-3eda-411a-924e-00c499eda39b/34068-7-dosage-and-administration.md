@@ -60,10 +60,6 @@ Parenteral drug products should always be inspected visually for particulate mat
 SAIZEN MUST NOT BE INJECTED if the solution is cloudy or contains particulate matter.
 Use it only if it is clear and colorless.
 
-click.easy® cartridges
-
-For drug preparation instructions for SAIZEN click.easy® cartridges, please refer to the instructions for use provided with click.easy® reconstitution device.
-
 saizenprep® cartridges
 
 For drug preparation instructions for saizenprep® cartridges, please refer to the Instructions for Use provided with saizenprep® reconstitution device.

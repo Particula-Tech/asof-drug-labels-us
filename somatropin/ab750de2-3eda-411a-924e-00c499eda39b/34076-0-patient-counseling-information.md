@@ -22,6 +22,4 @@ Never Share a SAIZEN Needle Between Patients
 Counsel patients that they should never share a SAIZEN needle with another person, even if the needle is changed.
 Sharing of the pen between patients may pose a risk of transmission of infection.
 
-For drug preparation instructions for SAIZEN click.easy® cartridges, please refer to the Instructions for Use provided with click.easy® reconstitution device.
-
 For drug preparation instructions for saizenprep® cartridges, please refer to the Instructions for Use provided with saizenprep® reconstitution device.
