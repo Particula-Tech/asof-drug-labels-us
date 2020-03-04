@@ -45,13 +45,16 @@ Clindamycin should be used during the first trimester of pregnancy only if clear
 
 ## Nursing Mothers
 
-It is not known whether clindamycin is excreted in human breast milk following use of clindamycin phosphate.
-Clindamycin has been reported to appear in human breast milk in ranges from <0.5 to 3.8 mcg/mL following systemic use.
-Clindamycin has the potential to cause adverse effects on the breastfed infant's gastrointestinal flora.
-If oral or intravenous clindamycin is required by a nursing mother, it is not a reason to discontinue breastfeeding, but an alternate drug may be preferred.
-Monitor the infant for possible adverse effects on the gastrointestinal flora, such as diarrhea, candidiasis (thrush, diaper rash) or rarely, blood in the stool indicating possible antibiotic-associated colitis.
+It is not known whether clindamycin is excreted in breast milk following use of clindamycin phosphate.
+However, orally and parenterally administered clindamycin has been reported to appear in breast milk.
+Clindamycin has the potential to cause adverse effects on the breast-fed infant's gastrointestinal flora.
+Monitor the breast-fed infant for possible adverse effects on the gastrointestinal flora, such as diarrhea, candidiasis (thrush, diaper rash) or rarely, blood in the stool indicating possible antibiotic-associated colitis.
 
-The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for clindamycin and any potential adverse effects on the breastfed child from clindamycin or from the underlying maternal condition.
+The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for clindamycin and any potential adverse effects on the breast-fed child from clindamycin or from the underlying maternal condition.
+
+### Clinical Considerations
+
+If used during lactation and Clindamycin phosphate topical product is applied to the chest, care should be taken to avoid accidental ingestion by the infant.
 
 ## Pediatric Use
 
