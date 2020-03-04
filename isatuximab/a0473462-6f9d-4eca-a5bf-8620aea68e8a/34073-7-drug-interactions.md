@@ -1,0 +1,11 @@
+# 7 DRUG INTERACTIONS
+
+## 7.1 Laboratory Test Interference
+
+Interference with Serological Testing
+
+SARCLISA, an anti-CD38 antibody, may interfere with blood bank serologic tests with false positive reactions in indirect antiglobulin tests (indirect Coombs tests), antibody detection (screening) tests, antibody identification panels, and antihuman globulin crossmatches in patients treated with SARCLISA [see Warnings and Precautions (5.4)].
+
+Interference with Serum Protein Electrophoresis and Immunofixation Tests
+
+SARCLISA may be incidentally detected by serum protein electrophoresis and immunofixation assays used for the monitoring of M-protein and may interfere with accurate response classification based on International Myeloma Working Group (IMWG) criteria [see Warnings and Precautions (5.4)].

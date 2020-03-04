@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "BLA761113"
+  ],
+  "inn": "isatuximab",
+  "labeler": "sanof-aventis U.S. LLC",
+  "package_ndcs": [
+    "0024-0654-01",
+    "0024-0656-01"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION, CONCENTRATE",
+      "generic": "isatuximab",
+      "name": "Sarclisa"
+    }
+  ],
+  "setid": "a0473462-6f9d-4eca-a5bf-8620aea68e8a",
+  "source": "dailymed"
+}
