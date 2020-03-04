@@ -13,7 +13,7 @@ The primary metabolite of valsartan is essentially inactive with an affinity for
 
 Blockade of the renin-angiotensin system with ACE inhibitors, which inhibit the biosynthesis of angiotensin II from angiotensin I, is widely used in the treatment of hypertension.
 ACE inhibitors also inhibit the degradation of bradykinin, a reaction also catalyzed by ACE.
-Because valsartan does not inhibit ACE (kininase II) it does not affect the response to bradykinin.
+Because valsartan does not inhibit ACE (kininase II), it does not affect the response to bradykinin.
 Whether this difference has clinical relevance is not yet known.
 Valsartan does not bind to or block other hormone receptors or ion channels known to be important in cardiovascular regulation.
 
@@ -52,7 +52,7 @@ Digitalis glycosides: Thiazide-induced hypokalemia or hypomagnesemia may predisp
 Valsartan: Valsartan peak plasma concentration is reached 2 to 4 hours after dosing.
 Valsartan shows bi-exponential decay kinetics following intravenous administration, with an average elimination half-life of about 6 hours.
 Absolute bioavailability for the capsule formulation is about 25% (range 10% to 35%).
-Food decreases the exposure [as measured by area under the curve (AUC)] to valsartan by about 40% and peak plasma concentration (Cmax) by about 50%.
+Food decreases the exposure (as measured by area under the curve [AUC]) to valsartan by about 40% and peak plasma concentration (Cmax) by about 50%.
 AUC and Cmax values of valsartan increase approximately linearly with increasing dose over the clinical dosing range.
 Valsartan does not accumulate appreciably in plasma following repeated administration.
 

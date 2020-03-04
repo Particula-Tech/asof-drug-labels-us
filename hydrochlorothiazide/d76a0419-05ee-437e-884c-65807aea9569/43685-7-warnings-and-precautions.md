@@ -42,7 +42,7 @@ Monitor lithium levels in patients receiving Diovan HCT and lithium [see Drug In
 
 ## 5.7 Potassium Abnormalities
 
-In the controlled trials of various doses of Diovan HCT the incidence of hypertensive patients who developed hypokalemia (serum potassium < 3.5 mEq/L) was 3.0%; the incidence of hyperkalemia (serum potassium > 5.7 mEq/L) was 0.4%.
+In the controlled trials of various doses of Diovan HCT, the incidence of hypertensive patients who developed hypokalemia (serum potassium < 3.5 mEq/L) was 3.0%; the incidence of hyperkalemia (serum potassium > 5.7 mEq/L) was 0.4%.
 
 Hydrochlorothiazide can cause hypokalemia and hyponatremia.
 Hypomagnesemia can result in hypokalemia which appears difficult to treat despite potassium repletion.

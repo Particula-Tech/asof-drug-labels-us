@@ -23,7 +23,7 @@ Bottles of 90 NDC 0078-0471-34
 
 Bottles of 90 NDC 0078-0472-34
 
-Store at 25ºC (77ºF); excursions permitted to 15-30ºC (59-86ºF) [see USP Controlled Room Temperature].
+Store at 20°C-25°C (68°F-77°F); excursions permitted between 15°C and 30°C (59°F and 86°F) [see USP Controlled Room Temperature].
 
 Protect from moisture.
 

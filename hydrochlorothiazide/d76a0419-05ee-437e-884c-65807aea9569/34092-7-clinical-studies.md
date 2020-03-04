@@ -10,7 +10,7 @@ Three other controlled trials investigated the addition of hydrochlorothiazide t
 
 The maximal antihypertensive effect was attained 4 weeks after the initiation of therapy, the first time point at which blood pressure was measured in these trials.
 
-In long-term follow-up studies (without placebo control) the effect of the combination of valsartan and hydrochlorothiazide appeared to be maintained for up to 2 years.
+In long-term follow-up studies (without placebo control), the effect of the combination of valsartan and hydrochlorothiazide appeared to be maintained for up to 2 years.
 The antihypertensive effect is independent of age or gender.
 The overall response to the combination was similar for black and non-black patients.
 
@@ -27,7 +27,7 @@ In most patients, after administration of a single oral dose, onset of antihyper
 The antihypertensive effect persists for 24 hours after dosing, but there is a decrease from peak effect at lower doses (40 mg) presumably reflecting loss of inhibition of angiotensin II.
 At higher doses, however (160 mg), there is little difference in peak and trough effect.
 During repeated dosing, the reduction in blood pressure with any dose is substantially present within 2 weeks, and maximal reduction is generally attained after 4 weeks.
-In long-term follow-up studies (without placebo control) the effect of valsartan appeared to be maintained for up to 2 years.
+In long-term follow-up studies (without placebo control), the effect of valsartan appeared to be maintained for up to 2 years.
 The antihypertensive effect is independent of age, gender or race.
 The latter finding regarding race is based on pooled data and should be viewed with caution, because antihypertensive drugs that affect the renin-angiotensin system (that is, ACE inhibitors and angiotensin II blockers) have generally been found to be less effective in low-renin hypertensives (frequently blacks) than in high-renin hypertensives (frequently whites).
 In pooled, randomized, controlled trials of Diovan that included a total of 140 blacks and 830 whites, valsartan and an ACE-inhibitor control were generally at least as effective in blacks as whites.
@@ -48,7 +48,7 @@ There was essentially no change in heart rate in valsartan-treated patients in c
 
 ## 14.2 Initial Therapy - Hypertension
 
-The safety and efficacy of Diovan HCT as initial therapy for patients with severe hypertension (defined as a sitting diastolic blood pressure ≥ 110 mmHg and systolic blood pressure ≥ 140 mmHg off all antihypertensive therapy) was studied in a 6-week multicenter, randomized, double-blind study.
+The safety and efficacy of Diovan HCT as initial therapy for patients with severe hypertension (defined as a sitting diastolic blood pressure ≥ 110 mmHg and systolic blood pressure ≥ 140 mmHg off all antihypertensive therapy) were studied in a 6-week multicenter, randomized, double-blind study.
 Patients were randomized to either Diovan HCT (valsartan and hydrochlorothiazide 160/12.5 mg once daily) or to valsartan (160 mg once daily) and followed for blood pressure response.
 Patients were force-titrated at 2-week intervals.
 Patients on combination therapy were subsequently titrated to 160/25 mg followed by 320/25 mg valsartan/hydrochlorothiazide.

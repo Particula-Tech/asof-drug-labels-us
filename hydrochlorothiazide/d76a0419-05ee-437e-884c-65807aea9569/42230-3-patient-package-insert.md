@@ -54,10 +54,10 @@ Tell your doctor about all your medical conditions including if you:
 - have or had gallstones
 - have Lupus
 - have low levels of potassium (with or without symptoms such as muscle weakness, muscle spasms, abnormal heart rhythm) or magnesium in your blood
-- have high levels of calcium in your blood (with or without symptoms such as nausea, vomiting, constipation, stomach pain, frequent urination, thirst, muscle weakness and twitching).
+- have high levels of calcium in your blood (with or without symptoms such as nausea, vomiting, constipation, stomach pain, frequent urination, thirst, muscle weakness and twitching)
 - have high levels of uric acid in the blood.
 - have ever had a reaction called angioedema, to another blood pressure medication.
-  Angioedema causes swelling of the face, lips, tongue, throat and may cause difficulty breathing.
+  Angioedema causes swelling of the face, lips, tongue, throat and may cause difficulty breathing
 
 Tell your doctor about all the medicines you take including prescription and nonprescription medicines, vitamins and herbal supplements.
 Some of your other medicines and DIOVAN HCT could affect each other, causing serious side effects.
@@ -73,14 +73,14 @@ Especially, tell your doctor if you take:
 - narcotic pain medicines
 - sleeping pills
 - lithium, a medicine used in some types of depression (Eskalith®, Lithobid®, Lithium Carbonate, Lithium Citrate)
-- aspirin or other medicines called non-steroidal anti-inflammatory Drugs (NSAIDs), like ibuprofen or naproxen
+- aspirin or other medicines called non-steroidal anti-inflammatory drugs (NSAIDs), like ibuprofen or naproxen
 - digoxin or other digitalis glycosides (a heart medicine)
 - muscle relaxants (medicines used during operations)
 - certain cancer medicines, like cyclophosphamide or methotrexate
 - certain antibiotics (rifamycin group), a drug used to protect against transplant rejection (cyclosporine) or an antiretroviral drug used to treat HIV/AIDS infection (ritonavir).
   These drugs may increase the effect of valsartan.
 
-Ask your doctor if you are not sure if you are taking 1 of these medicines.
+Ask your doctor if you are not sure if you are taking one of these medicines.
 
 Know the medicines you take.
 Keep a list of your medicines with you to show to your doctor and pharmacist when a new medicine is prescribed.
@@ -112,7 +112,7 @@ DIOVAN HCT may cause serious side effects including:
 - Low blood pressure (hypotension).
   Low blood pressure is most likely to happen if you:
   - take water pills
-  - are on a low salt diet
+  - are on a low-salt diet
   - get dialysis treatments
   - have heart problems
   - get sick with vomiting or diarrhea
@@ -124,7 +124,7 @@ Call your doctor right away.
 - Allergic reactions.
   People with and without allergy problems or asthma who take DIOVAN HCT may get allergic reactions.
 - Worsening of Lupus.
-  Hydrochlorothiazide, 1 of the medicines in DIOVAN HCT may cause Lupus to become active or worse.
+  Hydrochlorothiazide, one of the medicines in DIOVAN HCT may cause Lupus to become active or worse.
 - Fluid and electrolyte (salt) problems.
   Tell your doctor about any of the following signs and symptoms of fluid and electrolyte problems:
 
@@ -138,7 +138,7 @@ Call your doctor right away.
   If you have heart failure, your doctor should check your kidney function before prescribing DIOVAN HCT.
 - Skin rash.
   Call your doctor right away if you have an unusual skin rash.
-- Eye Problems.
+- Eye problems.
   One of the medicines in DIOVAN HCT can cause eye problems that may lead to vision loss.
   Symptoms of eye problems can happen within hours to weeks of starting DIOVAN HCT.
   Tell your doctor right away if you have:
@@ -201,4 +201,4 @@ East Hanover, New Jersey 07936
 
 © Novartis
 
-T2019-69 Revised: 06/2019
+T2020-25 Revised: March 2020
