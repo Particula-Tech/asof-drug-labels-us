@@ -1,9 +1,11 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-Before applying ONEXTON Gel, wash the face gently with a mild soap, rinse with warm water, and pat the skin dry.
-Apply a pea-sized amount of ONEXTON Gel to the face once daily.
-Avoid the eyes, mouth, lips, mucous membranes, or areas of broken skin.
+Before applying ACANYA Gel, wash your face gently with a mild soap, rinse with warm water, and pat your skin dry.
+Apply a pea-sized amount of ACANYA Gel to the face once daily.
+Avoid the eyes, mouth, mucous membranes, or areas of broken skin.
 
-Use of ONEXTON Gel beyond 12 weeks has not been evaluated.
+Use of ACANYA Gel beyond 12 weeks has not been evaluated.
 
-ONEXTON Gel is not for oral, ophthalmic, or intravaginal use.
+Concomitant topical acne therapy should be used with caution because a possible cumulative irritancy effect may occur, especially with the use of peeling, desquamating, or abrasive agents.
+
+ACANYA Gel is not for oral, ophthalmic, or intravaginal use.
