@@ -1,5 +1,7 @@
 # ADVERSE REACTIONS:
 
+To report SUSPECTED ADVERSE REACTIONS, contact Fresenius Kabi USA, LLC at 1-800-551-7176 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
+
 Reactions to ropivacaine are characteristic of those associated with other amide-type local anesthetics.
 A major cause of adverse reactions to this group of drugs may be associated with excessive plasma levels, which may be due to overdosage, unintentional intravascular injection or slow metabolic degradation.
 The reported adverse events are derived from clinical studies conducted in the U.S. and other countries.
@@ -18,7 +20,7 @@ Urinary retention, dizziness, rigors, hypertension, tachycardia, anxiety, oligur
 
 ## Incidence in Controlled Clinical Trials
 
-The reported adverse events are derived from controlled clinical studies with Naropin (concentrations ranged from 0.125% to 1% for Naropin and 0.25% to 0.75% for bupivacaine) in the U.S. and other countries involving 3094 patients.
+The reported adverse events are derived from controlled clinical studies with Naropin (concentrations ranged from 0.125% to 1% for Naropin and 0.25% to 0.75% for bupivacaine) in the U.S. and other countries involving 3,094 patients.
 Table 3A and 3B list adverse events (number and percentage) that occurred in at least 1% of Naropin-treated patients in these studies.
 The majority of patients receiving concentrations higher than 5 mg/mL (0.5%) were treated with Naropin.
 

@@ -15,11 +15,11 @@ Table 1 Pharmacokinetic (plasma concentration-time) data from clinical trials
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Dose (mg) | 1493 ± 10 | 2075 ± 206 | 1217 ± 277 | 150 | 187.5 | 300 | 40 |
 | N | 12 | 12 | 11 | 8 | 8 | 10 | 12 |
-| C max (mg/L) | 2.4 ± 1 ¶ | 2.8 ± 0.5 ¶ | 2.3 ± 1.1 ¶ | 1.1 ± 0.2 | 1.6 ± 0.6 | 2.3 ± 0.8 | 1.2 ± 0.2 # |
-| T max (min) | n/a ♠ | n/a | n/a | 43 ± 14 | 34 ± 9 | 54 ± 22 | n/a |
+| Cmax (mg/L) | 2.4 ± 1 ¶ | 2.8 ± 0.5 ¶ | 2.3 ± 1.1 ¶ | 1.1 ± 0.2 | 1.6 ± 0.6 | 2.3 ± 0.8 | 1.2 ± 0.2 # |
+| Tmax (min) | n/a ♠ | n/a | n/a | 43 ± 14 | 34 ± 9 | 54 ± 22 | n/a |
 | AUC 0- (mg.h/L) | 135.5 ± 50 | 145 ± 34 | 161 ± 90 | 7.2 ± 2 | 11.3 ± 4 | 13 ± 3.3 | 1.8 ± 0.6 |
 | CL (L/h) | 11.03 | 13.7 | n/a | 5.5 ± 2 | 5 ± 2.6 | n/a | 21.2 ± 7 |
-| t 1/2 (hr)♥ | 5 ± 2.5 | 5.7 ± 3 | 6 ± 3 | 5.7 ± 2 | 7.1 ± 3 | 6.8 ± 3.2 | 1.9 ± 0.5 |
+| t1/2 (hr)♥ | 5 ± 2.5 | 5.7 ± 3 | 6 ± 3 | 5.7 ± 2 | 7.1 ± 3 | 6.8 ± 3.2 | 1.9 ± 0.5 |
 
 *Continuous 72 hour epidural infusion after an epidural block with 5 or 10 mg/mL.
 
@@ -29,24 +29,24 @@ Table 1 Pharmacokinetic (plasma concentration-time) data from clinical trials
 
 § 20 minute IV infusion to volunteers (40 mg).
 
-¶ C max measured at the end of infusion (ie, at 72 hr).
+¶ Cmax measured at the end of infusion (i.e., at 72 hr).
 
-# C max measured at the end of infusion (ie, at 20 minutes).
+# Cmax measured at the end of infusion (i.e., at 20 minutes).
 
 ♠ n/a=not applicable
 
-♥ t ½ is the true terminal elimination half-life.
-On the other hand, t ½ follows absorption‑dependent elimination (flip-flop) after non-intravenous administration.
+♥ t½ is the true terminal elimination half-life.
+On the other hand, t½ follows absorption-dependent elimination (flip-flop) after non-intravenous administration.
 
 In some patients after a 300 mg dose for brachial plexus block, free plasma concentrations of ropivacaine may approach the threshold for CNS toxicity (see PRECAUTIONS).
 At a dose of greater than 300 mg, for local infiltration, the terminal half-life may be longer (>30 hours).
 
 ## Distribution
 
-After intravascular infusion, ropivacaine has a steady state volume of distribution of 41 ± 7 liters.
-Ropivacaine is 94% protein bound, mainly to α 1-acid glycoprotein.
-An increase in total plasma concentrations during continuous epidural infusion has been observed, related to a postoperative increase of α 1-acid glycoprotein.
-Variations in unbound, ie, pharmacologically active, concentrations have been less than in total plasma concentration.
+After intravascular infusion, ropivacaine has a steady-state volume of distribution of 41 ± 7 liters.
+Ropivacaine is 94% protein bound, mainly to α1-acid glycoprotein.
+An increase in total plasma concentrations during continuous epidural infusion has been observed, related to a postoperative increase of α1-acid glycoprotein.
+Variations in unbound, i.e., pharmacologically active, concentrations have been less than in total plasma concentration.
 Ropivacaine readily crosses the placenta and equilibrium in regard to unbound concentration will be rapidly reached (see PRECAUTIONS, Labor and Delivery).
 
 ## Metabolism
@@ -81,7 +81,7 @@ Following systemic absorption, local anesthetics can produce central nervous sys
 Apparent central stimulation is usually manifested as restlessness, tremors and shivering, progressing to convulsions, followed by depression and coma, progressing ultimately to respiratory arrest.
 However, the local anesthetics have a primary depressant effect on the medulla and on higher centers.
 The depressed stage may occur without a prior excited stage.
-In 2 clinical pharmacology studies (total n=24) ropivacaine and bupivacaine were infused (10 mg/min) in human volunteers until the appearance of CNS symptoms, eg, visual or hearing disturbances, perioral numbness, tingling and others.
+In 2 clinical pharmacology studies (total n=24) ropivacaine and bupivacaine were infused (10 mg/min) in human volunteers until the appearance of CNS symptoms, e.g., visual or hearing disturbances, perioral numbness, tingling and others.
 Similar symptoms were seen with both drugs.
 In 1 study, the mean ± SD maximum tolerated intravenous dose of ropivacaine infused (124 ± 38 mg) was significantly higher than that of bupivacaine (99 ± 30 mg) while in the other study the doses were not different (115 ± 29 mg of ropivacaine and 103 ± 30 mg of bupivacaine).
 In the latter study, the number of subjects reporting each symptom was similar for both drugs with the exception of muscle twitching which was reported by more subjects with bupivacaine than ropivacaine at comparable intravenous doses.
@@ -128,9 +128,10 @@ Table 2 LABOR AND DELIVERY META-ANALYSIS: MODE OF DELIVERY
 |  | n | % | n | % |
 | Spontaneous Vertex | 116 | 58 | 92 | 49 |
 | Vacuum Extractor | 26 |  | 33 |  |
-|  |  | }27 p=0.004 versus bupivacaine |  | }40 |
+|  |  | }27* |  | }40 |
 | Forceps | 28 |  | 42 |  |
 | Cesarean Section | 29 | 15 | 21 | 11 |
+| *p=0.004 versus bupivacaine |  |  |  |  |
 
 Epidural Administration In Postoperative Pain Management There were 8 clinical studies performed in 382 patients to evaluate Naropin 2 mg/mL (0.2%) for postoperative pain management after upper and lower abdominal surgery and after orthopedic surgery.
 The studies utilized intravascular morphine via PCA as a rescue medication and quantified as an efficacy variable.
@@ -142,7 +143,7 @@ The overall quality of pain relief, as judged by the patients, in the ropivacain
 The frequency of motor block was greatest at 4 hours and decreased during the infusion period in all groups.
 At least 80% of patients in the upper and lower abdominal studies and 42% in the orthopedic studies had no motor block at the end of the 21-hour infusion period.
 Sensory block was also dose rate-dependent and a decrease in spread was observed during the infusion period.
-A double blind, randomized, clinical trial compared lumbar epidural infusion of Naropin (n=26) and bupivacaine (n=26) at 2 mg/mL (8 mL/h), for 24 hours after knee replacement.
+A double-blind, randomized, clinical trial compared lumbar epidural infusion of Naropin (n=26) and bupivacaine (n=26) at 2 mg/mL (8 mL/h), for 24 hours after knee replacement.
 In this study, the pain scores were higher in the Naropin group, but the incidence and the intensity of motor block were lower.
 
 Continuous epidural infusion of Naropin 2 mg/mL (0.2%) during up to 72 hours for postoperative pain management after major abdominal surgery was studied in 2 multicenter, double-blind studies.

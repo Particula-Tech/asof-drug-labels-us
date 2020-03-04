@@ -1,7 +1,7 @@
 # DESCRIPTION:
 
 Naropin ® Injection contains ropivacaine HCl which is a member of the amino amide class of local anesthetics.
-Naropin Injection is a sterile, isotonic solution that contains the enantiomerically pure drug substance, sodium chloride for isotonicity and Water for Injection.
+Naropin Injection is a sterile, isotonic solution that contains the enantiomerically pure drug substance, sodium chloride for isotonicity and water for injection.
 Sodium hydroxide and/or hydrochloric acid may be used for pH adjustment.
 It is administered parenterally.
 
