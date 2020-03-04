@@ -1,3 +1,3 @@
-# 3 DOSAGE FORMS & STRENGTHS
+# 3 DOSAGE FORMS AND STRENGTHS
 
-For injection: 200 mg, 1 g or 2 g as sterile white to off-white lyophilized powder or cake in single-dose vials for reconstitution.
+For injection: 200 mg gemcitabine, 1 g gemcitabine or 2 g gemcitabine as a sterile white to off-white lyophilized powder in a single-dose vial for reconstitution.

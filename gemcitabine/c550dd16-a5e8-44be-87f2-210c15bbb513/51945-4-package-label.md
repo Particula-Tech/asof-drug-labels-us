@@ -1,22 +1,20 @@
-# PACKAGE LABEL - PRINCIPAL DISPLAY PANEL - Gemcitabine 200mg-Vial Carton Label
+# PACKAGE LABEL - PRINCIPAL DISPLAY PANEL - Gemcitabine 200mg-Vial Carton
 
-PRINCIPAL DISPLAY PANEL- Gemcitabine for Injection, 200 mg- Carton Label NDC: 63323-102-13 FK101210 GEMCITABINE FOR INJECTION, USP 200 mg per vial For Intravenous use only Must Be Diluted
-
-DO NOT REFRIGERATE Cytotoxic Agent Rx only Single-Dose Vial
-
-PRINCIPAL DISPLAY PANEL- Gemcitabine for Injection, 200 mg- Container Label NDC: 63323-102-13 FK101210 GEMCITABINE FOR INJECTION, USP 200 mg per vial For Intravenous use only Must Be Diluted
+NDC: 63323-102-13 FK101210 GEMCITABINE FOR INJECTION, USP 200 mg per vial For Intravenous use only Must Be Diluted
 
 DO NOT REFRIGERATE Cytotoxic Agent Rx only Single-Dose Vial
 
-# PACKAGE LABEL - PRINCIPAL DISPLAY PANEL - Gemcitabine 1g-Vial Carton Label
+PACKAGE LABEL - PRINCIPAL DISPLAY PANEL - Gemcitabine 200 mg- Vial Label NDC: 63323-102-13 FK101210 GEMCITABINE FOR INJECTION, USP 200 mg per vial For Intravenous use only Must Be Diluted
 
-PRINCIPAL DISPLAY PANEL- Gemcitabine for Injection, 1 g- Carton Label NDC 63323-125-53 FK102550 GEMCITABINE FOR INJECTION, USP 1 g per vial For Intravenous use only Must Be Diluted DO NOT REFRIGERATE Cytotoxic Agent Rx only Single-Dose Vial
+Rx only Single-Dose Vial
 
-PRINCIPAL DISPLAY PANEL- Gemcitabine for Injection, 1 g- Vial Label NDC 63323-125-53 FK102550 GEMCITABINE FOR INJECTION, USP 1 g per vial For Intravenous use only Must Be Diluted Rx only Single-Dose Vial
+# PACKAGE LABEL - PRINCIPAL DISPLAY PANEL - Gemcitabine 1g-Vial Carton
 
-# PACKAGE LABEL - PRINCIPAL DISPLAY PANEL - Gemcitabine 2g-Vial Carton Label
+NDC 63323-125-53 FK102550 GEMCITABINE FOR INJECTION, USP 1 g per vial For Intravenous use only Must Be Diluted DO NOT REFRIGERATE Cytotoxic Agent Rx only Single-Dose Vial
 
-PRINCIPAL DISPLAY PANEL- Gemcitabine for Injection, 2 g- Carton Label
+PACKAGE LABEL - PRINCIPAL DISPLAY PANEL - Gemcitabine 1 g- Vial Label NDC 63323-125-53 FK102550 GEMCITABINE FOR INJECTION, USP 1 g per vial For Intravenous use only Must Be Diluted Rx only Single-Dose Vial
+
+# PACKAGE LABEL - PRINCIPAL DISPLAY PANEL - Gemcitabine 2g-Vial Carton
 
 NDC 63323-126-03 FK102600
 
@@ -26,7 +24,7 @@ For Intravenous use only Must Be Diluted
 
 DO NOT REFRIGERATE Cytotoxic Agent Rx only Single-Dose Vial
 
-PRINCIPAL DISPLAY PANEL- Gemcitabine for Injection, 2 g- Vial Label
+PACKAGE LABEL - PRINCIPAL DISPLAY PANEL - Gemcitabine 2 g- Vial Label
 
 NDC 63323-126-03 FK102600
 
@@ -34,4 +32,4 @@ GEMCITABINE FOR INJECTION, USP 2 g per vial
 
 For Intravenous use only Must Be Diluted
 
-DO NOT REFRIGERATE Cytotoxic Agent Rx only Single-Dose Vial
+Rx only Single-Dose Vial
