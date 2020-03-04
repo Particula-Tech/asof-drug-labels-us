@@ -18,7 +18,7 @@ PHARMACEUTICALS
 
 Principal Display Panel - 10 mL Vial Label
 
-NDC 14789-600-10
+NDC 14789-600-07
 
 Rx Only
 

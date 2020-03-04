@@ -23,7 +23,7 @@ The pharmacokinetics of arsenical species ([AsIII], [AsV], [MMAV], [DMAV]) were 
 Over the total single-dose range of 7 to 32 mg (administered as 0.15 mg/kg), systemic exposure (AUC) appears to be linear.
 Peak plasma concentrations of arsenious acid (AsIII), the primary active arsenical species were reached at the end of infusion (2 hours).
 Plasma concentration of AsIII declined in a biphasic manner with a mean elimination half-life of 10 to 14 hours and is characterized by an initial rapid distribution phase followed by a slower terminal elimination phase.
-The daily exposure to AsIII (mean AUC0-24) was 194 ng·hr/mL (n=5) on Day 1 of Cycle 1 and 332 ng·hr/mL (n=6) on Day 25 of Cycle 1, which represents an approximate 2- fold accumulation.
+The daily exposure to AsIII (mean AUC0-24) was 194 ng·hr/mL (n=5) on Day 1 of Cycle 1 and 332 ng·hr/mL (n=6) on Day 25 of Cycle 1, which represents an approximate 2-fold accumulation.
 The primary pentavalent metabolites, MMAV and DMAV, are slow to appear in plasma (approximately 10-24 hours after first administration of arsenic trioxide), but, due to their longer half-life, accumulate more upon multiple dosing than does AsIII.
 The mean estimated terminal elimination half-lives of the metabolites MMAV and DMAV are 32 hours and 72 hours, respectively.
 Approximate accumulation ranged from 1.4- to 8-fold following multiple dosing as compared to single-dose administration.
@@ -44,7 +44,7 @@ AsV is present in plasma only at relatively low levels following administration 
 
 Excretion
 
-Approximately 15% of the administered Arsenic Trioxide Injection dose is excreted in the urine as unchanged AsIII.
+Approximately 15% of the administered Arsenic Trioxide dose is excreted in the urine as unchanged AsIII.
 The methylated metabolites of AsIII (MMAV, DMAV) are primarily excreted in the urine.
 The total clearance of AsIII is 49 L/h and the renal clearance is 9 L/h.
 Clearance is not dependent on body weight or dose administered over the range of 7-32 mg.
@@ -67,7 +67,7 @@ Patients with Hepatic Impairment
 The effect of pharmacokinetics of AsIII, AsV, and the pentavalent metabolites MMAV and DMAV was evaluated following administration of 0.25-0.50 mg/kg of arsenic trioxide in patients with hepatocellular carcinoma.
 Patients were classified as having normal hepatic function (n=4), mild hepatic impairment (Child-Pugh class A, n=12), moderate hepatic impairment (Child-Pugh class B, n=3), or severe hepatic impairment (Child-Pugh class C, n=1).
 No clear trend toward an increase in systemic exposure to AsIII, AsV, MMAV or DMAV was observed with decreasing level of hepatic function as assessed by dose-normalized (per mg dose) AUC in the mild and moderate hepatic impairment groups.
-However, the one patient with severe hepatic impairment had mean dose-normalized AUC0-24 and Cmax values 40% and 70% higher, respectively, than those patients with normal hepatic function.
+However, the one patient with severe hepatic impairment had mean dose-normalized AUC0D24 and Cmax values 40% and 70% higher, respectively, than those patients with normal hepatic function.
 The mean dose-normalized trough plasma levels for both MMAV and DMAV in this severely hepatically impaired patient were 2.2-fold and 4.7-fold higher, respectively, than those in the patients with normal hepatic function [see Use in Specific Populations (8.7)].
 
 Pediatric Patients
@@ -79,4 +79,6 @@ Drug Interaction Studies
 No formal assessments of pharmacokinetic drug-drug interactions between Arsenic Trioxide Injection and other drugs have been conducted.
 The methyltransferases responsible for metabolizing arsenic trioxide are not members of the cytochrome P450 family of isoenzymes.
 In vitro incubation of arsenic trioxide with human liver microsomes showed no inhibitory activity on substrates of the major cytochrome P450 (CYP) enzymes such as 1A2, 2A6, 2B6, 2C8, 2C9, 2C19, 2D6, 2E1, 3A4/5, and 4A9/11.
-The pharmacokinetics of drugs that are substrates for these CYP enzymes are not expected to be affected by concomitant treatment with arsenic trioxide.
+The
+
+pharmacokinetics of drugs that are substrates for these CYP enzymes are not expected to be affected by concomitant treatment with arsenic trioxide.

@@ -8,6 +8,7 @@ Based on the mechanism of action [see Clinical Pharmacology (12.1)] and findings
 Arsenic trioxide was embryolethal and teratogenic in rats when administered on gestation day 9 at a dose approximately 10 times the recommended human daily dose on a mg/m² basis (see Data).
 A related trivalent arsenic, sodium arsenite, produced teratogenicity when administered during gestation in mice at a dose approximately 5 times the projected human dose on a mg/m² basis and in hamsters at an intravenous dose approximately equivalent to the projected human daily dose on a mg/m² basis.
 There are no studies with the use of Arsenic Trioxide Injection in pregnant women, and limited published data on arsenic trioxide use during pregnancy are insufficient to inform a drug-associated risk of major birth defects and miscarriage.
+
 Advise pregnant women of the potential risk to a fetus.
 
 The estimated background risk of major birth defects and miscarriage for the indicated population is unknown.
@@ -28,6 +29,7 @@ Animal Data
 Studies in pregnant mice, rats, hamsters, and primates have shown that inorganic arsenicals cross the placental barrier when given orally or by injection.
 An increase in resorptions, neural-tube defects, anophthalmia and microphthalmia were observed in rats administered 10 mg/kg of arsenic trioxide on gestation day 9 (approximately 10 times the recommended human daily dose on a mg/m² basis).
 Similar findings occurred in mice administered a 10 mg/kg dose of a related trivalent arsenic, sodium arsenite (approximately 5 times the projected human dose on a mg/m² basis), on gestation days 6, 7, 8, or 9.
+
 Intravenous injection of 2 mg/kg sodium arsenite (approximately equivalent to the projected human daily dose on a mg/m² basis) on gestation day 7 (the lowest dose tested) resulted in neural-tube defects in hamsters.
 
 ## 8.2 Lactation
@@ -53,15 +55,17 @@ Advise females of reproductive potential to use effective contraception during a
 
 Males
 
-Advise males with female sexual partners of reproductive potential to use effective contraception during and after treatment with Arsenic Trioxide Injection and for three months after the final dose.
+Advise males with female sexual partners of reproductive potential to use effective contraception during and after treatment with Arsenic Trioxide and for three months after the final dose.
 
 Infertility
 
 Males
 
-Based on testicular toxicities including decreased testicular weight and impaired spermatogenesis observed in animal studies, Arsenic Trioxide Injection may impair fertility in males of reproductive potential [see Nonclinical Toxicology (13.1)].
+Based on testicular toxicities including decreased testicular weight and impaired spermatogenesis observed in animal studies, Arsenic Trioxide may impair fertility in males of reproductive potential [see Nonclinical Toxicology (13.1)].
 
 ## 8.4 Pediatric Use
+
+The safety and efficacy of Arsenic Trioxide Injection in combination with tretinoin in pediatric patients has not been established.
 
 The safety and efficacy of Arsenic Trioxide Injection as a single agent for treatment of pediatric patients with relapsed or refractory APL is supported by the pivotal phase 2 study in 40 patients with relapsed or refractory APL.
 Five patients below the age of 18 years (age range: 5 to 16 years) were treated with Arsenic Trioxide Injection at the recommended dose of 0.15 mg/kg/day.
@@ -69,6 +73,12 @@ A literature review included an additional 17 patients treated with arsenic trio
 No differences in efficacy and safety were observed by age.
 
 ## 8.5 Geriatric Use
+
+Use of Arsenic Trioxide Injection in combination with tretinoin in newly-diagnosed adult patients with low-risk APL is supported by a randomized, controlled trial that included 16 patients between the ages of 60 and 70 years.
+No differences in efficacy and safety were observed by age.
+A literature review included an additional 77 patients treated with arsenic trioxide in combination with tretinoin as part of induction and consolidation therapy for low and high risk APL, with ages ranging from 60 to 84 years.
+These studies showed lower survival rates in older patients.
+Monitor elderly patients frequently during treatment with Arsenic Trioxide Injection.
 
 The safety and efficacy of Arsenic Trioxide Injection as a single agent in older patients with relapsed or refractory APL is supported by the pivotal phase 2 study in 40 patients with relapsed or refractory APL.
 Six patients age 65 and above (age range: 65 to 73 years) were treated with Arsenic Trioxide Injection at the recommended dose.
@@ -79,6 +89,7 @@ No differences in efficacy and safety were observed by age.
 
 Exposure of arsenic trioxide may be higher in patients with severe renal impairment [see Clinical Pharmacology (12.3)].
 Patients with severe renal impairment (creatinine clearance less than 30 mL/min) should be monitored for toxicity when these patients are treated with Arsenic Trioxide Injection, and a dose reduction may be warranted.
+
 The use of Arsenic Trioxide Injection in patients on dialysis has not been studied.
 
 ## 8.7 Patients with Hepatic Impairment
