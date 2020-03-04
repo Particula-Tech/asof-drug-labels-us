@@ -10,8 +10,7 @@ Two current theories have been proposed to explain the efficacy of 5-HT1D recept
 One theory suggests that activation of 5-HT1D receptors located on intracranial blood vessels, including those on arteriovenous anastomoses, leads to vasoconstriction, which correlates with the relief of migraine headache.
 The alternative hypothesis suggests that activation of 5-HT1D receptors on sensory nerve endings of the trigeminal system results in the inhibition of pro-inflammatory neuropeptide release.
 
-In addition, dihydroergotamine possesses oxytocic properties.
-(See CONTRAINDICATIONS.)
+In addition, dihydroergotamine possesses oxytocic properties (see CONTRAINDICATIONS).
 
 ## Pharmacokinetics
 
@@ -31,14 +30,14 @@ The apparent steady-state volume of distribution is approximately 800 liters.
 Four dihydroergotamine mesylate metabolites have been identified in human plasma following oral administration.
 The major metabolite, 8´-β-hydroxydihydroergotamine, exhibits affinity equivalent to its parent for adrenergic and 5-HT receptors and demonstrates equivalent potency in several venoconstrictor activity models, in vivo and in vitro.
 The other metabolites, (i.e., dihydrolysergic acid, dihydrolysergic amide) and a metabolite formed by oxidative opening of the proline ring are of minor importance.
-Following nasal administration, total metabolites represent only 20%-30% of plasma AUC.
+Following nasal administration, total metabolites represent only 20% to 30% of plasma AUC.
 Quantitative pharmacokinetic characterization of the four metabolites has not been performed.
 
 ### Excretion
 
 The major excretory route of dihydroergotamine is via the bile in the feces.
 The total body clearance is 1.5 L/min which reflects mainly hepatic clearance.
-Only 6%-7% of unchanged dihydroergotamine is excreted in the urine after intramuscular injection.
+Only 6% to 7% of unchanged dihydroergotamine is excreted in the urine after intramuscular injection.
 The renal clearance (0.1 L/min) is unaffected by the route of dihydroergotamine administration.
 The decline of plasma dihydroergotamine after intramuscular or intravenous administration is multi-exponential with a terminal half-life of about 9 hours.
 
@@ -46,7 +45,7 @@ The decline of plasma dihydroergotamine after intramuscular or intravenous admin
 
 No studies have been conducted on the effect of renal or hepatic impairment, gender, race, or ethnicity on dihydroergotamine pharmacokinetics.
 D.H.E.
-45® (dihydroergotamine mesylate) Injection, USP is contraindicated in patients with severely impaired hepatic or renal function (see CONTRAINDICATIONS).
+45 (dihydroergotamine mesylate) Injection, USP is contraindicated in patients with severely impaired hepatic or renal function (see CONTRAINDICATIONS).
 
 ### Interactions
 
