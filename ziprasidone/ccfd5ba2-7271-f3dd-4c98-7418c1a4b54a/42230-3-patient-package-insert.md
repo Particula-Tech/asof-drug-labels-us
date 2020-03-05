@@ -1,8 +1,6 @@
 PATIENT SUMMARY OF INFORMATION ABOUT
 
-Ziprasidone Hydrochloride Capsules
-
-(zi pras' i done hye" droe klor' ide)
+Ziprasidone Hydrochloride (zi pras¢ i done hye² droe klor¢ ide) Capsules, USP
 
 Information for patients taking ziprasidone hydrochloride capsules or their caregivers
 
@@ -20,7 +18,7 @@ Ziprasidone hydrochloride capsules can also be used as maintenance treatment of 
 Who should take ziprasidone hydrochloride capsules?
 
 Only your doctor can know if ziprasidone hydrochloride capsules are right for you.
-Ziprasidone hydrochloride capsules may be prescribed for you if you have schizophrenia.
+Ziprasidone hydrochloride capsules may be prescribed for you if you have schizophrenia or bipolar disorder.
 
 Symptoms of schizophrenia may include:
 
@@ -51,7 +49,7 @@ Elderly patients with a diagnosis of psychosis related to dementia treated with 
 Ziprasidone hydrochloride capsule is an effective drug to treat the symptoms of schizophrenia and the manic or mixed episodes of bipolar disorder.
 However, one potential side effect is that it may change the way the electrical current in your heart works more than some other drugs.
 The change is small and it is not known whether this will be harmful, but some other drugs that cause this kind of change have in rare cases caused dangerous heart rhythm abnormalities.
-Because of this, ziprasidone hydrochloride capsules should be used only after your doctor has considered this risk for ziprasidone hydrochloride capsules against the risks and benefits of other medications available for treating schizophrenia or bipolar manic disorder and mixed episodes.
+Because of this, ziprasidone hydrochloride capsules should be used only after your doctor has considered this risk for ziprasidone hydrochloride capsules against the risks and benefits of other medications available for treating schizophrenia or bipolar manic and mixed episodes.
 
 Your risk of dangerous changes in heart rhythm can be increased if you are taking certain other medicines and if you already have certain abnormal heart conditions.
 Therefore, it is important to tell your doctor about any other medicines that you take, including non-prescription medicines, supplements, and herbal medicines.
@@ -80,7 +78,7 @@ Before you start ziprasidone hydrochloride capsules, be sure to tell your doctor
 - are taking any over-the-counter medicines you can buy without a prescription, including natural/herbal remedies
 - have had any problems with your liver
 - are pregnant, might be pregnant, or plan to get pregnant
-- are breast feeding
+- are breast feeding or plan to breastfeed
 - are allergic to any medicines
 - have ever had an allergic reaction to ziprasidone or any of the other ingredients of ziprasidone hydrochloride capsules.
   Ask your doctor or pharmacist for a list of these ingredients
@@ -129,7 +127,7 @@ Your doctor may want to check your blood to make sure that you have the right am
 
 For a list of all side effects that have been reported, ask your doctor or pharmacist for the ziprasidone hydrochloride capsules Professional Package Insert.
 
-What to do for an overdose
+What To Do For An Overdose
 
 In case of an overdose, call your doctor or poison control center right away or go to the nearest emergency room.
 
@@ -153,8 +151,15 @@ Patients treated with an atypical antipsychotic should be monitored for symptoms
 Dizziness caused by a drop in your blood pressure may occur with ziprasidone hydrochloride capsules, especially when you first start taking this medication or when the dose is increased.
 If this happens, be careful not to stand up too quickly, and talk to your doctor about the problem.
 
-Before taking ziprasidone hydrochloride capsules, tell your doctor if you are pregnant or plan on becoming pregnant.
-It is advised that you don’t breast feed an infant if you are taking ziprasidone hydrochloride capsules.
+Before taking ziprasidone hydrochloride capsules, tell your doctor if you
+
+- are pregnant or plan on becoming pregnant.
+
+Ο If you become pregnant while receiving ziprasidone hydrochloride capsules, talk to your healthcare provider about registering with the National Pregnancy Registry for Atypical Antipsychotics.
+You can register by calling 1-866-961-2388 or go to http://womensmentalhealth.org/clinical-and-research-programs/pregnancyregistry/
+
+- are breastfeeding or plan to breastfeed. ziprasidone hydrochloride capsules can pass into your breast milk.
+  Talk to your healthcare provider about the best way to feed your baby if you receive ziprasidone hydrochloride capsules.
 
 Because ziprasidone hydrochloride capsules can cause sleepiness, be careful when operating machinery or driving a motor vehicle.
 
@@ -168,7 +173,7 @@ Ziprasidone hydrochloride capsules have not been shown to be safe or effective i
 
 Keep ziprasidone hydrochloride capsules and all medicines out of the reach of children.
 
-How to store ziprasidone hydrochloride capsules
+How to Store Ziprasidone Capsules
 
 Store ziprasidone hydrochloride capsules at room temperature (59°F to 86°F or 15°C to 30°C).
 
@@ -181,10 +186,10 @@ If you have any questions or want more information about ziprasidone hydrochlori
 This product’s label may have been updated.
 For current full prescribing information, please visit www.apotex.com
 
-APOTEX INC. ZIPRASIDONE HYDROCHLORIDE CAPSULES 20 mg, 40 mg, 60 mg and 80 mg
+APOTEX INC. ZIPRASIDONE HYDROCHLORIDE CAPSULES, USP 20 mg, 40 mg, 60 mg and 80 mg
 
 Manufactured by Manufactured for Apotex Inc. Apotex Corp. Toronto, Ontario Weston, Florida Canada M9L 1T9 33326
 
-Revised: January 2019
+Revised: February 2020
 
-Revision: 12
+Revision: 14

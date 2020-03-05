@@ -5,7 +5,7 @@ Advise the patient to read the FDA-approved patient labeling (Patient Informatio
 Administration with Food
 
 Instruct patients to take ziprasidone hydrochloride capsules with food for optimal absorption.
-The absorption of ziprasidone is increased up to two-fold in the presence of food [see Drug Interactions (7.8) and Clinical Pharmacology (12.3)
+The absorption of ziprasidone is increased up to two-fold in the presence of food [see Drug Interactions (7.10) and Clinical Pharmacology (12.3)].
 
 QTc Prolongation
 
@@ -18,5 +18,33 @@ Severe Cutaneous Adverse Reactions
 
 Instruct patients to report to their health care provider at the earliest onset any signs or symptoms that may be associated with Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS) or with severe cutaneous adverse reactions, such as Stevens-Johnson syndrome [see Warnings and Precautions (5.5)].
 
+Pregnancy
+
+Advise pregnant women to notify their healthcare provider if they become pregnant or intend to become pregnant during treatment with ziprasidone hydrochloride capsules.
+Advise patients that ziprasidone hydrochloride capsules may cause extrapyramidal and/or withdrawal symptoms (agitation, hypertonia, hypotonia, tremor, somnolence, respiratory distress, and feeding disorder) in a neonate.
+Advise patients that there is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to ziprasidone during pregnancy [see Use in Specific Populations (8.1)].
+
+Lactation
+
+Advise breastfeeding women using ziprasidone to monitor infants for excess sedation, irritability, poor feeding, and extrapyramidal symptoms (tremors, and abnormal muscle movements) and to seek medical care if they notice these signs [see Use in Specific Populations (8.2)].
+
+Infertility
+
+Advise females of reproductive potential that ziprasidone may impair fertility due to an increase in serum prolactin levels.
+The effects on fertility are reversible [see Warnings and Precautions (5.15) and Use in Specific Populations (8.3)].
+
 This product’s label may have been updated.
 For current full prescribing information, please visit www.apotex.com.
+
+APOTEX INC.
+
+ZIPRASIDONE HYDROCHLORIDE CAPSULES, USP
+
+20 mg, 40 mg, 60 mg and 80 mg
+
+| Manufactured by Apotex Inc. Toronto, Ontario Canada M9L 1T9 | Manufactured for Apotex Corp. Weston, Florida 33326 |
+| --- | --- |
+
+Revised: February 2020
+
+Revision: 14

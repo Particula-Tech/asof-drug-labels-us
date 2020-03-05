@@ -1,7 +1,7 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-Ziprasidone hydrochloride capsules are differentiated by capsule color/size and are imprinted in black ink with “APO ZIP” and a unique number.
-Ziprasidone hydrochloride capsules are supplied for oral administration in 20 mg (purple/white), 40 mg (purple/purple), 60 mg (white/white), and 80 mg (purple/white) capsules.
+Ziprasidone hydrochloride capsules, USP are differentiated by capsule color/size and are imprinted in black ink with “APO ZIP” and a unique number.
+Ziprasidone hydrochloride capsules, USP are supplied for oral administration in 20 mg (purple/white), 40 mg (purple/purple), 60 mg (white/white), and 80 mg (purple/white) capsules.
 They are supplied in the following strengths and package configurations:
 
 | Ziprasidone Hydrochloride Capsules |  |  |  |

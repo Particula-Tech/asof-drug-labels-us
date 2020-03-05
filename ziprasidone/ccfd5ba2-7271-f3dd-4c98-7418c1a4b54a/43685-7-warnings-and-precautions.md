@@ -7,7 +7,7 @@ Analyses of 17 placebo-controlled trials (modal duration of 10 weeks), largely i
 Over the course of a typical 10-week controlled trial, the rate of death in drug-treated patients was about 4.5%, compared to a rate of about 2.6% in the placebo group.
 
 Although the causes of death were varied, most of the deaths appeared to be either cardiovascular (e.g., heart failure, sudden death) or infectious (e.g., pneumonia) in nature.
-Ziprasidone hydrochloride capsules are not approved for the treatment of dementia-related psychosis [see Boxed Warning, Warnings and Precautions (5.2)].
+Ziprasidone hydrochloride capsules are not approved for the treatment of patients with dementia-related psychosis [see Boxed Warning, Warnings and Precautions (5.2)].
 
 ## 5.2 Cerebrovascular Adverse Reactions, Including Stroke, in Elderly Patients with Dementia-Related Psychosis
 
@@ -129,7 +129,7 @@ Patients who develop symptoms of hyperglycemia during treatment with atypical an
 In some cases, hyperglycemia has resolved when the atypical antipsychotic was discontinued; however, some patients required continuation of antidiabetic treatment despite discontinuation of the suspect drug.
 
 Pooled data from short-term, placebo-controlled studies in schizophrenia and bipolar disorder are presented in Table 1 to 4.
-Note that for the flexible dose study in both schizophrenia and bipolar disporder, each subject is categorized as having received either low (20 to 40 mg BID) or high (60 to 80 mg BID) dose based on the subject’s modal daily dose.
+Note that for the flexible dose study in both schizophrenia and bipolar disorder, each subject is categorized as having received either low (20 to 40 mg BID) or high (60 to 80 mg BID) dose based on the subject’s modal daily dose.
 In the tables showing categorical changes, the percentages (% column) are calculated as 100x(n/N).
 
 Table 1: Glucose* Mean Change from Baseline in Short-Term (up to 6 weeks), Placebo-Controlled, Fixed-Dose, Oral Ziprasidone, Monotherapy Trials in Adult Patients with Schizophrenia
@@ -179,7 +179,7 @@ Table 4: Glucose* Categorical Changes in Short-Term (up to 6 weeks), Placebo-Con
 Dyslipidemia
 
 Undesirable alterations in lipids have been observed in patients treated with atypical antipsychotics.
-Pooled data from short-term, placebo-controlled studies in schizophrenia is presented in Tables 5 - 6.
+Pooled data from short-term, placebo-controlled studies in schizophrenia and bipolar disorder are presented in Tables 5 - 8.
 
 Table 5: Lipid* Mean Change from Baseline in Short-Term (up to 6 weeks), Placebo-Controlled, Fixed-Dose, Oral Ziprasidone Monotherapy Trials in Adult Patients with Schizophrenia
 
@@ -252,6 +252,8 @@ Table 8: Lipid* Categorical Changes in Short-Term (up to 6 weeks), Placebo-Contr
 | Fasting HDL | Normal (>=40 mg/dL) to Low (<40 mg/dL) | Ziprasidone | 283 | 22 (7.8%) |
 | Placebo | 220 | 24 (10.9%) |  |  |
 
+* Fasting
+
 Weight Gain
 
 Weight gain has been observed with atypical antipsychotic use.
@@ -285,7 +287,7 @@ Table 10: Summary of Weight Change in Short-Term (up to 6 weeks), Placebo-Contro
 
 *Note that in the High Dose group, there were 2 subjects with modal 200 mg total daily dose and 1 subject with modal 100 mg total daily dose.
 
-Schizophrenia
+Schizophrenia -
 
 The proportions of patients meeting a weight gain criterion of ≥ 7% of body weight were compared in a pool of four 4- and 6-week placebo-controlled schizophrenia clinical trials, revealing a statistically significantly greater incidence of weight gain for ziprasidone (10%) compared to placebo (4%).
 A median weight gain of 0.5 kg was observed in ziprasidone patients compared to no median weight change in placebo patients.
@@ -375,13 +377,14 @@ Appropriate care is advised when prescribing ziprasidone for patients who will b
 The possibility of a suicide attempt is inherent in psychotic illness or bipolar disorder, and close supervision of high-risk patients should accompany drug therapy.
 Prescriptions for ziprasidone should be written for the smallest quantity of capsules consistent with good patient management in order to reduce the risk of overdose.
 
-## 5.19 Patients with Concomitant Illnesses
+## 5.19 Patients with Concomitant Illness
 
 Clinical experience with ziprasidone in patients with certain concomitant systemic illnesses is limited [see Use in Specific Populations (8.6), (8.7)].
 
 Ziprasidone has not been evaluated or used to any appreciable extent in patients with a recent history of myocardial infarction or unstable heart disease.
 Patients with these diagnoses were excluded from premarketing clinical studies.
-Because of the risk of QTc prolongation and orthostatic hypotension with ziprasidone, caution should be observed in cardiac patients [see Warnings and Precautions (5.3), (5.9)].
+Because of the risk of QTc prolongation and orthostatic hypotension with ziprasidone, caution should be observed in cardiac patients.
+[see Warnings and Precautions (5.3), (5.9)].
 
 ## 5.20 Laboratory Tests
 

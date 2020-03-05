@@ -6,7 +6,7 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 
 Clinical trials for oral ziprasidone included approximately 5700 patients and/or normal subjects exposed to one or more doses of ziprasidone.
 Of these 5700, over 4800 were patients who participated in multiple-dose effectiveness trials, and their experience corresponded to approximately 1831 patient-years.
-These patients include: (1) 4331 patients who participated in multiple-dose trials, predominantly in schizophrenia, representing approximately 1698 patient-years of exposure as of February 5, 2000..
+These patients include: (1) 4331 patients who participated in multiple-dose trials, predominantly in schizophrenia, representing approximately 1698 patient-years of exposure as of February 5, 2000.
 (2) 472 patients who participated in bipolar mania trials representing approximately 133 patient-years of exposure.
 An additional 127 patients with bipolar disorder participated in a long-term maintenance treatment study representing approximately 74.7 patient-years of exposure to ziprasidone.
 The conditions and duration of treatment with ziprasidone included open-label and double-blind studies, inpatient and outpatient studies, and short-term and longer-term exposure.
@@ -94,7 +94,7 @@ An analysis for dose response in the schizophrenia 4-study pool revealed an appa
 Extrapyramidal Symptoms (EPS) -The incidence of reported EPS (which included the adverse reaction terms extrapyramidal syndrome, hypertonia, dystonia, dyskinesia, hypokinesia, tremor, paralysis and twitching) for ziprasidone-treated patients in the short-term, placebo-controlled schizophrenia trials was 14% vs. 8% for placebo.
 Objectively collected data from those trials on the Simpson-Angus Rating Scale (for EPS) and the Barnes Akathisia Scale (for akathisia) did not generally show a difference between ziprasidone and placebo.
 
-Dystonia - Class Effect - Symptoms of dystonia, prolonged abnormal contractions of muscle groups, may occur in susceptible individuals during the first few days of treatment.
+Dystonia - Class Effect; Symptoms of dystonia, prolonged abnormal contractions of muscle groups, may occur in susceptible individuals during the first few days of treatment.
 Dystonic symptoms include: spasm of the neck muscles, sometimes progressing to tightness of the throat, swallowing difficulty, difficulty breathing, and/or protrusion of the tongue.
 While these symptoms can occur at low doses, they occur more frequently and with greater severity with high potency and at higher doses of first generation antipsychotic drugs.
 An elevated risk of acute dystonia is observed in males and younger age groups.
@@ -209,14 +209,16 @@ Table 12: Treatment-Emergent Adverse Reactions Incidence In Short-Term Oral Plac
 | Special Senses |  |  |
 | Abnormal Vision | 6 | 3 |
 
-*Extrapyramidal Symptoms includes the following adverse reaction terms: extrapyramidal syndrome, hypertonia, dystonia, dyskinesia, hypokinesia, tremor, paralysis and twitching.
-None of these adverse reactions occurred individually at an incidence greater than 10% in bipolar mania trials.**Dizziness includes the adverse reaction terms dizziness and lightheadedness.
+* Extrapyramidal Symptoms includes the following adverse reaction terms: extrapyramidal syndrome, hypertonia, dystonia, dyskinesia, hypokinesia, tremor, paralysis and twitching.
+None of these adverse reactions occurred individually at an incidence greater than 10% in bipolar mania trials.
+
+** Dizziness includes the adverse reaction terms dizziness and lightheadedness.
 
 Explorations for interactions on the basis of gender did not reveal any clinically meaningful differences in the adverse reaction occurrence on the basis of this demographic factor.
 
 ## 6.2 Postmarketing Experience
 
-The following adverse reactions have been identified during post approval use of ziprasidone.
+The following adverse reactions have been identified during post-approval use of ziprasidone.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 Adverse reaction reports not listed above that have been received since market introduction include rare occurrences of the following: Cardiac Disorders: Tachycardia, torsade de pointes (in the presence of multiple confounding factors), [see Warnings and Precautions (5.3)]; Digestive System Disorders: Swollen Tongue; Reproductive System and Breast Disorders: Galactorrhea, priapism; Nervous System Disorders: Facial Droop, neuroleptic malignant syndrome, serotonin syndrome (alone or in combination with serotonergic medicinal products), tardive dyskinesia; Psychiatric Disorders: Insomnia, mania/hypomania; Skin and subcutaneous Tissue Disorders: Allergic reaction (such as allergic dermatitis, angioedema, orofacial edema, urticaria), rash, Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS); Urogenital System Disorders: Enuresis, urinary incontinence; Vascular Disorders: Postural hypotension, syncope.
