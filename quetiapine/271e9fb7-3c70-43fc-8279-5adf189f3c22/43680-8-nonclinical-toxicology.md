@@ -7,8 +7,8 @@ Carcinogenesis:
 Carcinogenicity studies were conducted in C57BL mice and Wistar rats.
 Quetiapine was administered in the diet to mice at doses of 20, 75, 250, and 750 mg/kg and to rats by gavage at doses of 25, 75, and 250 mg/kg for two years.
 These doses are equivalent to 0.1, 0.5, 1.5, and 4.5 times the MRHD of 800 mg/day based on mg/m2 body surface area (mice) or 0.3, 1, and 3 times the MRHD based on mg/m2 body surface area (rats).
-There were statistically significant increases in thyroid gland follicular adenomas in male mice at doses 1.5 and 4.5 times the MRHD based on mg/m2 body surface area and in male rats at a dose of 3 times the MRHD based on mg/m2 body surface area.
-Mammary gland adenocarcinomas were statistically significantly increased in female rats at all doses tested (0.3, 1, and 3 times the MRHD on mg/m2 body surface area).
+There were statistically significant increases in thyroid gland follicular adenomas in male mice at doses 1.5 and 4.5 times the MRHD based on mg/m2 body surface area and in male rats at a dose of 3 times the MRHD on mg/m2 body surface area.
+Mammary gland adenocarcinomas were statistically significantly increased in female rats at all doses tested (0.3, 1, and 3 times the MRHD based on mg/m2 body surface area).
 
 Thyroid follicular cell adenomas may have resulted from chronic stimulation of the thyroid gland by thyroid stimulating hormone (TSH) resulting from enhanced metabolism and clearance of thyroxine by rodent liver.
 Changes in TSH, thyroxine, and thyroxine clearance consistent with this mechanism were observed in subchronic toxicity studies in rat and mouse and in a 1-year toxicity study in rat; however, the results of these studies were not definitive.

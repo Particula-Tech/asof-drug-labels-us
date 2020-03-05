@@ -258,6 +258,6 @@ This Medication Guide has been approved by the U.S. Food and Drug Administration
 
 Distr. by: West-Ward Pharmaceuticals Corp. Eatontown, NJ 07724
 
-10004966/07
+10004966/08
 
-Revised January 2020
+Revised February 2020
