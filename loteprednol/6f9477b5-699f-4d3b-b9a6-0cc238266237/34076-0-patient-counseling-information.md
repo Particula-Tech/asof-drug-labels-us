@@ -24,4 +24,8 @@ Bausch + Lomb, a division of
 
 Valeant Pharmaceuticals North America LLC Bridgewater, NJ 08807 USA
 
-UPDATE: P/N
+9669600 (folded)
+
+9669700 (flat)
+
+Revised 02/2019
