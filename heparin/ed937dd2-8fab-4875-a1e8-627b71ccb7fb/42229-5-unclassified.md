@@ -6,12 +6,14 @@ PRESERVED WITH PARABENS.
 
 Manufactured by:
 
-Fresenius Kabi USA, LLC
+Fresenius Kabi
 
 Lake Zurich, IL 60047
 
+www.fresenius-kabi.com/us
+
 For Product Inquiry: 1-800-551-7176
 
-451186D
+451186E
 
-Revised: April 2014
+Revised: January 2020

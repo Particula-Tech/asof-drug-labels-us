@@ -1,11 +1,13 @@
 # HOW SUPPLIED
 
-Heparin Sodium Injection, USP (porcine), contains parabens and is available in multiple dose, flip-top vials, in packages of 25, as follows:
+Heparin Sodium Injection, USP (porcine) contains parabens and is available as follows:
 
-| ProductNo. | NDCNo. | Strength | Fill Volume |
+| Product Code | Unit of Sale | Strength | Each |
 | --- | --- | --- | --- |
-| NP504011 | 63323-540-57 | 10,000 USP Heparinunits per 10 mL(1,000 USP units per mL) | 10 mL fill in a 10 mL vial. |
-| NP926201* | 63323-262-55 | 5,000 USP Heparinunits per 1 mL | 1 mL fill in a 3 mL vial. |
+| NP504011 | NDC 63323-540-57 Unit of 25 | 10,000 USP units per 10 mL (1,000 USP units per mL) | NDC 63323-540-57 10 mL multiple dose, flip-top vial |
+| NP926201* | NDC 63323-262-55 Unit of 25 | 5,000 USP units per mL | NDC 63323-262-55 1 mL fill in a 3 mL multiple dose, flip-top vial |
+| NP504015 | NDC 63323-540-67 Unit of 25 | 10,000 USP units per 10 mL (1,000 USP units per mL) | NDC 63323-540-07 10 mL multiple dose, flip-top vial |
+| NP926206 | NDC 63323-262-26 Unit of 25 | 5,000 USP units per mL | NDC 63323-262-09 1 mL fill in a 2 mL multiple dose, flip-top vial |
 
 *Packaged in a plastic vial.
 

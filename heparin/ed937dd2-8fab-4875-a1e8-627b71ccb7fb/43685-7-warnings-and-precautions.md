@@ -97,19 +97,35 @@ Also, no reproduction studies in animals have been performed concerning mutagene
 
 ## Pregnancy
 
-Teratogenic Effects: Pregnancy Category C—Animal reproduction studies have not been conducted with heparin sodium.
-It is also not known whether heparin sodium can cause fetal harm when administered to a pregnant woman or can affect reproduction capacity.
-Heparin sodium should be given to a pregnant woman only if clearly needed.
+Pregnancy Category C
 
-Nonteratogenic Effects—Heparin does not cross the placental barrier.
+There are no adequate and well-controlled studies on heparin use in pregnant women.
+In published reports, heparin exposure during pregnancy did not show evidence of an increased risk of adverse maternal or fetal outcomes in humans.
+Heparin sodium does not cross the placenta, based on human and animal studies.
+Administration of heparin to pregnant animals at doses higher than the maximum human daily dose based on body weight resulted in increased resorptions.
+Use heparin sodium during pregnancy only if the potential benefit justifies the potential risk to the fetus.
+
+If available, preservative-free Heparin Sodium Injection is recommended when heparin therapy is needed during pregnancy (see PRECAUTIONS, Pediatric Use).
+
+In a published study conducted in rats and rabbits, pregnant animals received heparin intravenously during organogenesis at a dose of 10,000 units/kg/day, approximately 10 times the maximum human daily dose based on body weight.
+The number of early resorptions increased in both species.
+There was no evidence of teratogenic effects.
 
 ## Nursing Mothers
 
-Heparin is not excreted in human milk.
+If available, preservative-free HEPARIN SODIUM INJECTION is recommended when heparin therapy is needed during lactation.
+Due to its large molecular weight, heparin is not likely to be excreted in human milk, and any heparin in milk would not be orally absorbed by a nursing infant.
+Exercise caution when administering HEPARIN SODIUM INJECTION to a nursing mother (see PRECAUTIONS, Pediatric Use).
 
 ## Pediatric Use
 
 See DOSAGE AND ADMINISTRATION, Pediatric Use.
+
+There are no adequate and well-controlled studies on heparin use in pediatric patients.
+Pediatric dosing recommendations are based on clinical experience (see DOSAGE AND ADMINISTRATION, Pediatric Use).
+
+Carefully examine all Heparin Sodium Injection vials to confirm choice of the correct strength prior to administration of the drug.
+Pediatric patients, including neonates, have died as a result of medication errors in which HEPARIN SODIUM INJECTION vials have been confused with “catheter lock flush” vials (see WARNINGS, Fatal Medication Errors).
 
 ## Geriatric Use
 

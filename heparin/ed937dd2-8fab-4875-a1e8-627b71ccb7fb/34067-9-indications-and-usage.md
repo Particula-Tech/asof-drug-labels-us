@@ -10,10 +10,10 @@ Prophylaxis and treatment of pulmonary embolism;
 
 Atrial fibrillation with embolization;
 
-Diagnosis and treatment of acute and chronic consumptive coagulopathies (disseminated intravascular coagulation);
+Treatment of acute and chronic consumptive coagulopathies (disseminated intravascular coagulation);
 
 Prevention of clotting in arterial and cardiac surgery;
 
 Prophylaxis and treatment of peripheral arterial embolism.
 
-Heparin may also be employed as an anticoagulant in blood transfusions, extracorporeal circulation, and dialysis procedures and in blood samples for laboratory purposes.
+Heparin may also be employed as an anticoagulant in blood transfusions, extracorporeal circulation, and dialysis procedures.
