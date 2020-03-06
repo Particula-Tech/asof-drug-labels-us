@@ -13,10 +13,11 @@ Clindamycin Phosphate Lotion (Clindamycin Phosphate Topical Suspension, USP 1%) 
 60 mL bottle NDC 0168-0203-60
 
 Store at controlled room temperature 20° to 25°C (68° to 77°F) [see USP].
+
 Protect from freezing.
 
 Fougera PHARMACEUTICALS INC.
 
 E. FOUGERA & CO. A division of Fougera Pharmaceuticals Inc. MELVILLE, NEW YORK 11747
 
-46206122A/46206123A R03/18
+46263755A R01/2020

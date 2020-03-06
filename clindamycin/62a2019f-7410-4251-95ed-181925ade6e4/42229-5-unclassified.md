@@ -1,3 +1,3 @@
 Rx only
 
-For External Use.
+For External Use
