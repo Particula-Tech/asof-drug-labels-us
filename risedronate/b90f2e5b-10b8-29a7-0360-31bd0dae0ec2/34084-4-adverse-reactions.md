@@ -253,11 +253,11 @@ Hypersensitivity and skin reactions have been reported, including angioedema, ge
 
 Gastrointestinal Adverse Events
 
-Events involving upper gastrointestinal irritation, such as esophagitis and esophageal or gastric ulcers, have been reported [see Warnings and Precautions (5.2)].
+Events involving upper gastrointestinal irritation, such as esophagitis and esophageal or gastric ulcers, have been reported [see Warnings and Precautions (5.1)].
 
 Musculoskeletal Pain
 
-Bone, joint, or muscle pain, described as severe or incapacitating, have been reported rarely [see Warnings and Precautions (5.5)].
+Bone, joint, or muscle pain, described as severe or incapacitating, have been reported rarely [see Warnings and Precautions (5.4)].
 
 Eye Inflammation
 
@@ -265,7 +265,7 @@ Reactions of eye inflammation including iritis and uveitis have been reported ra
 
 Jaw Osteonecrosis
 
-Osteonecrosis of the jaw has been reported rarely [see Warnings and Precautions (5.4)].
+Osteonecrosis of the jaw has been reported rarely [see Warnings and Precautions (5.3)].
 
 Pulmonary
 

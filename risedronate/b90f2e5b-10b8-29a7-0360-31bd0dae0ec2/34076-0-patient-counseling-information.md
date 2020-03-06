@@ -1,17 +1,17 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-See FDA-Approved labeling (Medication Guide)
+See FDA-Approved patient labeling (Medication Guide)
 
 Instruct patients to read the Medication Guide before starting therapy with risedronate sodium tablets and to re-read it each time the prescription is renewed.
 
-Instruct patients that Atelvia® and risedronate sodium tablets contain the same active ingredient and if they are taking Atelvia®, they should not take risedronate sodium tablets [see Warnings and Precautions (5.1)].
+Instruct patients that Atelvia and risedronate sodium tablets contain the same active ingredient and if they are taking Atelvia, they should not take risedronate sodium tablets [see Warnings and Precautions (5.1)].
 
 Instruct patients to pay particular attention to the dosing instructions as clinical benefits may be compromised by failure to take the drug according to instructions.
 Specifically, risedronate sodium tablets should be taken at least 30 minutes before the first food or drink of the day other than water.
 
 Instruct patients to take risedronate sodium tablets while in an upright position (sitting or standing) with a full glass of plain water (6 to 8 ounces) to facilitate delivery to the stomach, and thus reduce the potential for esophageal irritation.
 
-Instruct patients not to lie down for 30 minutes after taking the medication [see Warnings and Precautions (5.2)].
+Instruct patients not to lie down for 30 minutes after taking the medication [see Warnings and Precautions (5.1)].
 
 Instruct patients not to chew or suck on the tablet because of a potential for oropharyngeal irritation.
 
@@ -58,6 +58,6 @@ Risedronate Sodium Tablets, USP
 | Toronto, ON | Weston, Florida |
 | Canada M9L 1T9 | 33326, USA |
 
-Revised: January 2016
+Revised: January 2020
 
-Revision: 11
+Revision: 12

@@ -1,8 +1,6 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-## 2.1 Treatment of Postmenopausal Osteoporosis
-
-[see Indications and Usage (1.1)]
+## 2.1 Treatment of Postmenopausal Osteoporosis [see Indications and Usage (1.1)]
 
 The recommended regimen is:
 
@@ -20,9 +18,7 @@ or
 
 - one 150 mg tablet orally, taken once-a-month
 
-## 2.2 Prevention of Postmenopausal Osteoporosis
-
-[see Indications and Usage (1.1)]
+## 2.2 Prevention of Postmenopausal Osteoporosis [see Indications and Usage (1.1)]
 
 The recommended regimen is:
 
@@ -40,23 +36,17 @@ or
 
 • alternatively, one 150 mg tablet orally, taken once-a-month may be considered
 
-## 2.3 Treatment to Increase Bone Mass in Men with Osteoporosis
-
-[see Indications and Usage (1.2)]
+## 2.3 Treatment to Increase Bone Mass in Men with Osteoporosis [see Indications and Usage (1.2)]
 
 The recommended regimen is: • one 35 mg tablet orally, taken once-a-week
 
-## 2.4 Treatment and Prevention of Glucocorticoid-Induced Osteoporosis
-
-[see Indications and Usage (1.3)]
+## 2.4 Treatment and Prevention of Glucocorticoid-Induced Osteoporosis [see Indications and Usage (1.3)]
 
 The recommended regimen is:
 
 • one 5 mg tablet orally, taken daily
 
-## 2.5 Treatment of Paget's Disease
-
-[see Indications and Usage (1.4)]
+## 2.5 Treatment of Paget's Disease [see Indications and Usage (1.4)]
 
 The recommended treatment regimen is 30 mg orally once daily for 2 months.
 Retreatment may be considered (following post-treatment observation of at least 2 months) if relapse occurs, or if treatment fails to normalize serum alkaline phosphatase.
@@ -70,7 +60,7 @@ Instruct patients to do the following:
 - Take risedronate sodium tablets at least 30 minutes before the first food or drink of the day other than water, and before taking any oral medication or supplementation, including calcium, antacids, or vitamins to maximize absorption and clinical benefit, [see Drug Interactions (7.1)].
   Avoid the use of water with supplements, including mineral water, because they may have a higher concentration of calcium.
 - Swallow risedronate sodium tablets whole with a full glass of plain water (6 to 8 ounces).
-  Avoid lying down for 30 minutes after taking the medication [see Warnings and Precautions (5.2)].
+  Avoid lying down for 30 minutes after taking the medication [see Warnings and Precautions (5.1)].
   Do not chew or suck the tablet because of a potential for oropharyngeal ulceration.
 - Do not eat or drink anything except plain water, or take other medications for at least 30 minutes after taking risedronate sodium tablets.
 

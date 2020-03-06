@@ -38,7 +38,7 @@ Table 3 The Effect of Risedronate SodiumTablets on the Risk of Vertebral Fractur
 | 0 - 2 Years | 24.7 | 11.6 |  | 13.1 | 59 |  |
 | 0 - 3 Years | 29.0 | 18.1 |  | 10.9 | 49 |  |
 
-a Calculated by Kaplan-Meier methodology
+a Calculated by Kaplan-Meier methodology.
 
 Effect on Osteoporosis-Related Nonvertebral Fractures In VERT MN and VERT NA, a prospectively planned efficacy endpoint was defined consisting of all radiographically confirmed fractures of skeletal sites accepted as associated with osteoporosis.
 Fractures at these sites were collectively referred to as osteoporosis-related nonvertebral fractures.
@@ -48,7 +48,7 @@ Figure 1 shows the overall results as well as the results at the individual skel
 
 Effect on Bone Mineral Density The results of 4 randomized, placebo-controlled trials in women with postmenopausal osteoporosis (VERT MN, VERT NA, BMD MN, BMD NA) demonstrate that risedronate sodium tablets 5 mg daily increases BMD at the spine, hip, and wrist compared to the effects seen with placebo.
 Table 4 displays the significant increases in BMD seen at the lumbar spine, femoral neck, femoral trochanter, and midshaft radius in these trials compared to placebo.
-In both VERT studies (VERT MN and VERT NA), risedronate sodium tablets 5 mg daily produced increases in lumbar spine BMD that were progressive over the 3 years of treatment, and were statistically significant relative to baseline and to placebo at 6 months and at all later time points.
+In both VERT studies (VERT MN and VERT NA), risedronate sodium tablets 5 mg daily produced increases in lumbar spine BMD that were progressive over the 3 years of treatment and were statistically significant relative to baseline and to placebo at 6 months and at all later time points.
 
 Table 4 Mean Percent Increase in BMD from Baseline in Patients Taking Risedronate Sodium Tablets 5 mg or Placebo at Endpointa
 
