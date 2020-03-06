@@ -2,41 +2,53 @@
 
 ## 12.1 Mechanism of Action
 
-Deferiprone is a chelating agent with an affinity for ferric ion (iron III).
-Deferiprone binds with ferric ions to form neutral 3:1 (deferiprone:iron) complexes that are stable over a wide range of pH values.
-Deferiprone has a lower binding affinity for other metals such as copper, aluminum and zinc than for iron.
+Deferiprone is a chelating agent that binds with ferric ions (iron III) to form neutral 3:1 (deferiprone:iron) complexes that are stable over a wide range of pH values.
+Deferiprone has a lower binding affinity for other metals (e.g., copper, aluminum and zinc) than for iron.
 
 ## 12.2 Pharmacodynamics
 
-No clinical studies were performed to assess the relationship between the dose of FERRIPROX and the amount of iron eliminated from the body.
+Deferiprone exposure-response relationships and the time course of pharmacodynamics response are unknown.
 
 Cardiac Electrophysiology
 
-At a dose 1.5 times the maximum recommended dose, FERRIPROX does not prolong the QT interval to any clinically relevant extent.
+At a dose 1.5 times the maximum approved recommended dosage, FERRIPROX does not prolong the QT interval to any clinically relevant extent.
 
 ## 12.3 Pharmacokinetics
 
-Deferiprone is rapidly absorbed from the upper part of the gastrointestinal tract, appearing in the blood within 5 to 10 minutes of oral administration.
-Peak serum concentrations occur approximately 1 hour after a single dose in fasted healthy subjects and patients, and up to 2 hours after a single dose in the fed state.
-Administration with food decreased the maximum concentration (Cmax) of deferiprone by 38% and the area under the concentration-time curve (AUC) by 10%.
-The magnitude of the exposure change does not warrant dose adjustment.
+The mean Cmax and AUC of deferiprone was 20 mcg/mL and 50 mcg∙h/mL, respectively, in healthy subjects.
+The dose proportionality of deferiprone over the approved recommended dosage range is unknown.
 
-In healthy subjects, the mean Cmax of deferiprone in serum was about 20 mcg/mL, and the mean AUC was about 50 mcg∙h/mL following oral administration of a 1,500 mg dose of FERRIPROX tablets or oral solution in the fasting state.
-Dose proportionality over the labeled dosage range of 25 to 33 mg/kg three times per day (75 to 99 mg/kg per day) has not been studied.
+Absorption
+
+Deferiprone appeared in the blood within 5 to 10 minutes after oral administration.
+Peak serum concentration of deferiprone was reached approximately 1 to 2 hours after a single dose.
+
+Effect of Food
+
+No clinically significant differences in the pharmacokinetics of deferiprone were observed following administration with food.
+
+Elimination
 
 The elimination half-life of deferiprone is approximately 2 hours.
-Following oral administration, 75% to 90% of the administered dose is recovered in the urine in the first 24 hours, primarily as metabolite.
-In humans, the majority of the deferiprone is metabolized, primarily by UGT1A6.
-The contribution of extrahepatic (e.g., renal) UGT1A6 is unknown.
+
+Metabolism
+
+Deferiprone is metabolized primarily by UGT1A6.
 The major metabolite of deferiprone is the 3-O-glucuronide, which lacks iron binding capability.
 
-In a bioequivalence study, the rate (Cmax) and the extent (AUC) of drug absorption of the solution and tablet formulations were shown to be equivalent.
+Excretion
+
+Following oral administration, 75% to 90% of the administered dose was recovered in urine (primarily as metabolite) in the first 24 hours.
 
 Specific Populations
 
-The pharmacokinetics of deferiprone has not been studied in geriatric or pediatric populations, and the influence of race, gender, or obesity has not been established.
+No clinically significant differences in the pharmacokinetics of deferiprone were observed based on sex, race/ethnicity, body weight, mild to severe (eGFR 15 to 89 mL/min/1.73 m2) renal impairment, or mild (Child Pugh Class A) to moderate (Child Pugh Class B) hepatic impairment.
+The effect of age, including geriatric or pediatric populations, end stage renal disease, or severe (Child Pugh Class C) hepatic impairment on the pharmacokinetics of deferiprone is unknown.
 
-Drug Interactions
+Drug Interaction Studies
 
-Deferiprone is primarily eliminated via metabolism to the 3-O-glucuronide.
-In vitro UGT1A6 is primarily responsible for the glucuronidation of deferiprone which can be reduced up to 78% in the presence of the UGT1A6 inhibitor phenylbutazone.
+In Vitro Studies
+
+UGT1A6 Inhibitors: Co-administration of deferiprone with phenylbutazone (UGT1A6 inhibitor) decreased glucuronidation of deferiprone by up to 78%.
+
+Polyvalent Cations: Deferiprone has the potential to bind polyvalent cations (e.g., iron, aluminum, and zinc).
