@@ -10,7 +10,7 @@ Effect of Bexarotene Capsules on Other Drugs
 Bexarotene may be an inducer for the CYP3A4 enzymes, and may reduce plasma concentrations of other substrates metabolized by CYP3A4.
 Drug products which may be affected include oral or other systemic hormonal contraceptives.
 Thus, if treatment with bexarotene capsules is intended for a female with reproductive potential, it is strongly recommended that a non-hormonal contraception be considered.
-[seeUse in Specific Populations (8.3), Clinical Pharmacology (12.3)].
+[see Use in Specific Populations (8.3), Clinical Pharmacology (12.3)].
 
 Laboratory Test Interference
 

@@ -16,7 +16,7 @@ Maintain triglyceride levels below 400 mg/dL to reduce the risk of clinical sequ
 If fasting triglycerides are elevated or become elevated during treatment, institute antilipemic therapy, and if necessary, reduce or interrupt the dose of bexarotene capsules.
 In the 300 mg/m2/day initial dose group, 60% of patients were given lipid lowering drugs.
 Atorvastatin was used in 48% (73/152) of patients with CTCL.
-Because of a potential drug-drug interaction, avoid gemfibrozil use with bexarotene capsules [seeDrug Interactions (7)].
+Because of a potential drug-drug interaction, avoid gemfibrozil use with bexarotene capsules [see Drug Interactions (7)].
 
 ## 5.2 Pancreatitis
 

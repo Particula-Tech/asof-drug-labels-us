@@ -147,11 +147,7 @@ Active ingredient: bexarotene
 
 Inactive ingredients: gelatin, nitrogen, butylated hydroxyanisole, glycerin, hydrolyzed gelatin, medium chain triglyceride, Shellac glaze, FD&C red #40, FD&C blue #1, FD&C yellow #6, propylene glycol, simethicone, polyethylene glycol 400, polysorbate 20, povidone, sorbitol, 1,4-sorbitan, mannitol, soy lecithin and titanium dioxide.
 
-Manufactured for:
-
-Amerigen Pharmaceuticals, Inc.
-
-Lyndhurst, NJ 07071 USA
+Manufactured for: Amerigen Pharmaceuticals, Inc. Lyndhurst, NJ 07071 USA
 
 For more information, call 1-877-220-3784.
 

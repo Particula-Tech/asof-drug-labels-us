@@ -41,10 +41,10 @@ Contraception
 
 Females
 
-Bexarotene can cause fetal harm when administered to a pregnant female [seeUse in Specific Populations (8.1)].
+Bexarotene can cause fetal harm when administered to a pregnant female [see Use in Specific Populations (8.1)].
 Females of reproductive potential should be advised to avoid becoming pregnant when bexarotene is used.
 Effective contraception must be used for one month prior to the initiation of therapy, during therapy and for at least one month following discontinuation of therapy; it is recommended that two reliable forms of contraception be used simultaneously unless abstinence is the chosen method.
-Bexarotene can potentially induce metabolic enzymes and thereby theoretically reduce the plasma concentrations of oral or other systemic hormonal contraceptives [seeDrug Interactions (7)].
+Bexarotene can potentially induce metabolic enzymes and thereby theoretically reduce the plasma concentrations of oral or other systemic hormonal contraceptives [see Drug Interactions (7)].
 Thus, if treatment with bexarotene capsules is intended in a female with reproductive potential, it is strongly recommended that one of the two reliable forms of contraception should be non-hormonal.
 Bexarotene capsule therapy should be initiated on the second or third day of a normal menstrual period.
 No more than a one month supply of bexarotene capsules should be given to the patient so that the results of pregnancy testing can be assessed and counseling regarding avoidance of pregnancy and birth defects can be reinforced.
@@ -66,5 +66,5 @@ Responses to bexarotene capsules were observed across all age group decades, wit
 ## 8.6 Hepatic Impairment
 
 No specific studies have been conducted with bexarotene in subjects with hepatic impairment.
-Hepatic impairment is expected to lead to decreased clearance [seeClinical Pharmacology (12.3)].
+Hepatic impairment is expected to lead to decreased clearance [see Clinical Pharmacology (12.3)].
 If bexarotene capsules are used in patients with hepatic impairment, monitor for signs of toxicity that may be due to increased exposure.
