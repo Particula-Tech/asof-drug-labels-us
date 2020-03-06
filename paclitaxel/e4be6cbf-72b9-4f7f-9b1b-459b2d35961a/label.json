@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "ANDA075184"
+  ],
+  "inn": "paclitaxel",
+  "labeler": "Teva Parenteral Medicines, Inc.",
+  "package_ndcs": [
+    "0703-3213-01",
+    "0703-3216-01",
+    "0703-3217-01",
+    "0703-3218-01"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION, CONCENTRATE",
+      "generic": "paclitaxel",
+      "name": "Paclitaxel"
+    }
+  ],
+  "setid": "e4be6cbf-72b9-4f7f-9b1b-459b2d35961a",
+  "source": "dailymed"
+}
