@@ -18,3 +18,7 @@ Vascular disorders: Distal limb ischemia
 Metabolic: Hyponatremia
 
 Skin: Ischemic lesions
+
+Postmarketing Experience
+
+Reversible diabetes insipidus [see Warnings and Precautions (5.2)]

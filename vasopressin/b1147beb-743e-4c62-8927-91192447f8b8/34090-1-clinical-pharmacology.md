@@ -38,7 +38,7 @@ Furosemide increases osmolar clearance 4-fold and urine flow 9-fold when co-admi
 
 Halothane, morphine, fentanyl, alfentanyl and sufentanyl do not impact exposure to endogenous vasopressin.
 
-Special Populations
+Specific Populations
 
 Pregnancy: Because of a spillover into blood of placental vasopressinase the clearance of exogenous and endogenous vasopressin increases gradually over the course of a pregnancy.
 During the first trimester of pregnancy the clearance is only slightly increased.

@@ -23,3 +23,4 @@ Use with drugs suspected of causing SIADH (e.g., SSRIs, tricyclic antidepressant
 ## 7.6 Drugs Suspected of Causing Diabetes Insipidus
 
 Use with drugs suspected of causing diabetes insipidus (e.g., demeclocycline, lithium, foscarnet, clozapine) may decrease the pressor effect in addition to the antidiuretic effect of Vasostrict®.
+Hemodynamic monitoring is recommended; adjust the dose of vasopressin as needed.
