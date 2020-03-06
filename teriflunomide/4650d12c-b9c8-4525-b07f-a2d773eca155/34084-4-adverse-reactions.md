@@ -59,7 +59,7 @@ Because these reactions are reported voluntarily from a population of uncertain 
 
 - Hypersensitivity reactions, some of which were severe, such as anaphylaxis and angioedema [see Warnings and Precautions (5.5)]
 - Severe skin reactions, including toxic epidermal necrolysis and Stevens-Johnson syndrome [see Warnings and Precautions (5.5)]
-- Psoriasis (including pustular psoriasis)
+- Psoriasis or worsening of psoriasis (including pustular psoriasis)
 - Thrombocytopenia [see Warnings and Precautions (5.4)]
 - Interstitial lung disease [see Warnings and Precautions (5.8)]
 - Pancreatitis

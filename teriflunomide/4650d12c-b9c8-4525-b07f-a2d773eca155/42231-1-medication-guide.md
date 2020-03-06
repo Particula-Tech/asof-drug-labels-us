@@ -93,7 +93,7 @@ What are possible side effects of AUBAGIO?
 
 AUBAGIO may cause serious side effects, including:
 
-- See "What is the most important information I should know about AUBAGIO?"
+- see "What is the most important information I should know about AUBAGIO?"
 - decreases in your white blood cell count.
   Your white blood cell counts should be checked before you start taking AUBAGIO.
   When you have a low white blood cell count you:
@@ -112,7 +112,7 @@ AUBAGIO may cause serious side effects, including:
   - are over 60 years of age
   - take certain medicines that affect your nervous system
   - have diabetes
-- Allergic reactions, including serious skin problems.
+- allergic reactions, including serious skin problems.
   Tell your doctor if you have difficulty breathing, itching, swelling on any part of your body including in your lips, eyes, throat or tongue, or any skin problems such as rash or redness and peeling.
 - new or worsening breathing problems.
   Tell your doctor if you have shortness of breath or coughing with or without fever.
