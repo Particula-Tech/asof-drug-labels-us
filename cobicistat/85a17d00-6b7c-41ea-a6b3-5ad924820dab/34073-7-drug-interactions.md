@@ -83,8 +83,6 @@ Table 4: Significant Drug Interactions
 | Hepatitis C virus (HCV): Direct-Acting Antivirals: |  |  |
 | elbasvir/grazoprevir | ↑ elbasvir/grazoprevir | Co-administration is contraindicated due to potential for the increased risk of alanine transaminase (ALT) elevations. |
 | glecaprevir/pibrentasvir | ↑ glecaprevir ↑ pibrentasvir | Co-administration of SYTMUZA with glecaprevir/pibrentasvir is not recommended. |
-| simeprevir | darunavir: effects unknown | Co-administration with simeprevir is not recommended. |
-|  | ↑ simeprevir |  |
 | Herbal product: |  |  |
 | St. John's wort (Hypericum perforatum) | ↓ cobicistat ↓ darunavir ↓ tenofovir alafenamide | Co-administration is contraindicated due to potential for loss of therapeutic effect and development of resistance. |
 | Hormonal contraceptives: |  | Additional or alternative (non-hormonal) forms of contraception should be considered when estrogen based contraceptives are co-administered with SYMTUZA. |

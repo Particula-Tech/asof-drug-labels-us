@@ -18,7 +18,7 @@ The background risk of major birth defects and miscarriage for the indicated pop
 The APR uses the MACDP as the U.S. reference population for birth defects in the general population.
 The MACDP evaluates pregnant individuals and infants from a limited geographic area and does not include outcomes for births that occurred at less than 20 weeks' gestation.
 
-In animal reproduction studies, no adverse developmental effects were observed when the components of SYMTUZA were administered separately at darunavir exposures less than 1- (mice and rabbits) and 2.6-times (rats) higher, at cobicistat exposures 1.7- and 4.1-times higher (rats and rabbits respectively) at emtricitabine exposures 88- and 7.3- times higher (mice and rabbits, respectively), and tenofovir alafenamide exposures equal to or 85- times higher (rats and rabbits, respectively) than human exposures at the recommended daily dose of these components in SYMTUZA (see Data).
+In animal reproduction studies, no adverse developmental effects were observed when the components of SYMTUZA were administered separately at darunavir exposures less than 1- (mice and rabbits) and 2.6-times (rats) higher, at cobicistat exposures 1.7- and 4.1-times higher (rats and rabbits respectively), at emtricitabine exposures 88- and 7.3- times higher (mice and rabbits, respectively), and tenofovir alafenamide exposures equal to or 85- times higher (rats and rabbits, respectively) than human exposures at the recommended daily dose of these components in SYMTUZA (see Data).
 No adverse developmental effects were seen when cobicistat was administered to rats through lactation at cobicistat exposures up to 1.1 times the human exposure at the recommended therapeutic dose.
 
 Clinical Considerations
@@ -89,7 +89,7 @@ Doses up to 600 mg/kg/day were administered through lactation; no adverse effect
 
 Risk Summary
 
-The Centers for Disease Control and Prevention recommend that HIV-infected mothers in the United States not to breastfeed their infants to avoid risking postnatal transmission of HIV-1 infection.
+The Centers for Disease Control and Prevention recommend that HIV-infected mothers in the United States must not breastfeed their infants to avoid risking postnatal transmission of HIV-1 infection.
 
 Based on published data, emtricitabine has been shown to be present in human breast milk.
 There are no data on the presence of darunavir, cobicistat, or TAF in human milk, the effects on the breastfed infant, or the effects on milk production.
@@ -102,7 +102,7 @@ Data
 Animal Data
 
 Darunavir: Studies in rats (with darunavir alone or with ritonavir) have demonstrated that darunavir is excreted in milk.
-In the rat pre- and postnatal development study, a reduction in pup body weight gain was observed due to exposure of pups to drug substances via milk.
+In the rat pre- and post-natal development study, a reduction in pup body weight gain was observed due to exposure of pups to drug substances via milk.
 The maximal maternal plasma exposures achieved with darunavir (up to 1000 mg/kg with ritonavir) were approximately 66% of those obtained in humans at the recommended clinical dose of darunavir with ritonavir.
 
 Cobicistat: During the pre/postnatal developmental toxicology study, at doses up to 75 mg/kg/day, mean cobicistat milk to plasma ratio of up to 1.9 was measured 2 hours after administration to rats on lactation day 10.
@@ -113,7 +113,11 @@ Tenofovir was excreted into the milk of lactating rhesus monkeys, following a si
 
 ## 8.4 Pediatric Use
 
-The safety and effectiveness of SYMTUZA in pediatric patients less than 18 years of age have not been established.
+The safety and effectiveness of SYMTUZA for the treatment of HIV-1 infection in pediatric patients weighing at least 40 kg was established through studies with components of SYMTUZA.
+Use of SYMTUZA in this group is supported by evidence from adequate and well-controlled studies of SYMTUZA in adults with additional pharmacokinetic, safety, and virologic data from studies of components of SYMTUZA (Trials GS-US-216-0128 and GS-US-292-0106) in pediatric subjects with HIV-1 infection aged 12 to less than 18 years [see Adverse Reactions (6.1), Clinical Pharmacology (12.3), and Clinical Studies (14.3)].
+
+The safety and effectiveness of SYMTUZA have not been established in pediatric patients weighing less than 40 kg.
+
 Darunavir, a component of SYMTUZA is not recommended in pediatric patients below 3 years of age because of toxicity and mortality observed in juvenile rats dosed with darunavir.
 
 Juvenile Animal Toxicity Data

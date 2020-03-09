@@ -13,6 +13,8 @@ The following adverse reactions are discussed in other sections of the labeling:
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
+Clinical Trials in Adults
+
 Adverse Reactions in Adults with No Prior Antiretroviral Treatment History
 
 The safety profile of SYMTUZA in HIV-1 infected adults with no prior antiretroviral treatment history is based on Week 48 data from the AMBER trial, a randomized, double-blind, active-controlled trial where a total of 362 subjects received SYMTUZA once daily and 363 subjects received a combination of PREZCOBIX® (fixed-dose combination of darunavir and cobicistat) and fixed-dose combination of emtricitabine and tenofovir disoproxil fumarate (FTC/TDF).
@@ -24,7 +26,7 @@ An overview of the most frequent laboratory abnormalities of at least Grade 2 se
 Changes from baseline in lipid parameters for patients receiving SYMTUZA and those receiving PREZCOBIX + FTC/TDF are presented in Table 3.
 
 Most adverse reactions during treatment with SYMTUZA were grade 1 or 2 in severity.
-One grade 3 reaction was reported and no grade 4 adverse reactions were reported during treatment with SYMTUZA.
+One grade 3 adverse reaction was reported and no grade 4 adverse reactions were reported during treatment with SYMTUZA.
 
 Table 1: Adverse Reactions Reported in ≥2% of HIV-1 Infected Adults With No Prior Antiretroviral Treatment History in AMBER (Week 48 Analysis)
 
@@ -41,7 +43,7 @@ Table 1: Adverse Reactions Reported in ≥2% of HIV-1 Infected Adults With No Pr
 
 Adverse Reactions in Virologically-Suppressed Adults
 
-The safety profile of SYMTUZA in virologically-suppressed HIV-1 infected adults is based on Week 48 data from 1,141 subjects in the EMERALD trial, a randomized, open-label, active-controlled trial where 763 subjects with a stable antiretroviral regimen consisting of a boosted protease inhibitor [either darunavir once daily or atazanavir (both boosted with ritonavir or cobicistat), or lopinavir with ritonavir] combined with FTC/TDF switched to SYMTUZA, and 378 subjects who continued their treatment regimen of a boosted protease inhibitor with FTC/TDF.
+The safety profile of SYMTUZA in virologically-suppressed HIV-1 infected adults is based on Week 48 data from 1,141 subjects in the EMERALD trial, a randomized, open-label, active-controlled trial where 763 subjects with a stable antiretroviral regimen consisting of a boosted protease inhibitor (bPI) [either darunavir once daily or atazanavir (both boosted with ritonavir or cobicistat), or lopinavir with ritonavir] combined with FTC/TDF switched to SYMTUZA, and 378 subjects who continued their treatment regimen of a bPI with FTC/TDF.
 Overall, the safety profile of SYMTUZA in subjects in this study was similar to that in subjects with no prior antiretroviral treatment history.
 The proportion of subjects who discontinued treatment with SYMTUZA due to adverse events, regardless of severity, was 1%.
 
@@ -91,12 +93,11 @@ Table 2: Laboratory Abnormalities (Grade 2–4) Reported in ≥2% of Adults With
 ALT and/or AST elevations (Grade 2–4 combined) occurred in 2% of adult subjects receiving SYMTUZA with no antiretroviral treatment history in AMBER (Week 48 Analysis).
 Results were consistent in subjects receiving PREZCOBIX+FTC/TDF.
 
-Table 3: Lipid Values, Mean Change from Baseline, Reported in Adults With No Prior Antiretroviral Treatment History in AMBER (Week 48 Analysis)Subjects on lipid-lowering agents at screening/baseline were excluded from the analysis (6 out of 362 subjects on SYMTUZA, 8 out of 363 subjects on PREZCOBIX+FTC/TDF).
-Subjects initiating a lipid-lowering agent post-baseline had their last fasted on-treatment value (prior to starting the agent) carried forward (6 on SYMTUZA, 2 on PREZCOBIX+FTC/TDF).
+Table 3: Lipid Values, Mean Change from Baseline, Reported in Adults With No Prior Antiretroviral Treatment History in AMBER (Week 48 Analysis)
 
-|  | N=304One subject did not have a Week 48 result for LDL cholesterol (n=303). |  | N=290 |  |
+| NN corresponds to the number of subjects with paired values and not on a lipid-lowering agent at screening/baseline. Subjects on lipid-lowering agents at screening/baseline were excluded from the analysis (6 out of 362 subjects on SYMTUZA, 8 out of 363 subjects on PREZCOBIX+FTC/TDF). Subjects initiating a lipid-lowering agent post-baseline had their last fasted on-treatment value (prior to starting the agent) carried forward (6 on SYMTUZA, 2 on PREZCOBIX+FTC/TDF). | N=304One subject did not have a Week 48 result for LDL cholesterol (n=303). |  | N=290 |  |
 | --- | --- | --- | --- | --- |
-|  | SYMTUZA N=356 |  | PREZCOBIX+FTC/TDF N=355 |  |
+|  | SYMTUZA N=362 |  | PREZCOBIX+FTC/TDF N=363 |  |
 |  | Baseline | Week 48 | Baseline | Week 48 |
 | MeanThe change from baseline is the mean of within-subject changes from baseline for subjects with both baseline and Week 48 values, or the last value carried forward prior to initiating lipid-lowering agent post-baseline. | mg/dL | Change | mg/dL | Change |
 | Total cholesterol | 168 | +30 | 164 | +11 |
@@ -109,7 +110,8 @@ The percentage of subjects starting any lipid lowering drug during treatment in 
 
 Renal Laboratory Tests
 
-In the AMBER trial, which had 670 adults with no prior antiretroviral treatment history with a median baseline eGFR (estimated glomerular filtration rate) of 119 mL/min (SYMTUZA) and 118 mL/min (PREZCOBIX + FTC/TDF), mean (SD) serum creatinine increased by 0.05 (0.10) mg/dL in the SYMTUZA group and by 0.09 (0.11) mg/dL in the PREZCOBIX + FTC/TDF group from baseline to Week 48.
+In the AMBER trial, which enrolled 725 adults with no prior antiretroviral treatment history, subjects had a median baseline eGFR (estimated glomerular filtration rate) of 119 mL/min (SYMTUZA) and 118 mL/min (PREZCOBIX + FTC/TDF).
+From baseline to Week 48, mean (SD) serum creatinine increased by 0.05 (0.10) mg/dL in the SYMTUZA group and by 0.09 (0.11) mg/dL in the PREZCOBIX + FTC/TDF group.
 Median serum creatinine was 0.90 mg/dL (SYMTUZA) and 0.89 mg/dL (PREZCOBIX + FTC/TDF) at baseline and 0.95 mg/dL (SYMTUZA) and 0.97 mg/dL (PREZCOBIX +FTC/TDF) at Week 48.
 Increases in serum creatinine occurred by Week 2 of treatment and remained stable.
 Median urine protein-to-creatinine ratio (UPCR) was 47 mg/g (SYMTUZA) and 51 mg/g (PREZCOBIX + FTC/TDF) at baseline and 30 mg/g (SYMTUZA) and 34 mg/g (PREZCOBIX + FTC/TDF) at Week 48.
@@ -124,18 +126,26 @@ Bone Mineral Density
 AMBER
 
 The effects of SYMTUZA compared to PREZCOBIX + FTC/TDF on bone mineral density (BMD) change from baseline to Week 48 were assessed by dual-energy X-ray absorptiometry (DXA).
-The mean percentage change in BMD from baseline to Week 48 was −0.7% with SYMTUZA compared to −2.4% with DRV/COBI + FTC/TDF at the lumbar spine and 0.2% compared to −2.7% at the total hip.
+The mean percentage change in BMD from baseline to Week 48 was −0.7% with SYMTUZA compared to −2.4% with PREZCOBIX + FTC/TDF at the lumbar spine and 0.2% compared to −2.7% at the total hip.
 BMD declines of 5% or greater at the lumbar spine were experienced by 16% of SYMTUZA subjects and 22% of PREZCOBIX + FTC/TDF subjects.
 BMD declines of 7% or greater at the femoral neck were experienced by 2% of SYMTUZA subjects and 15% of PREZCOBIX + FTC/TDF subjects.
 The long-term clinical significance of these BMD changes is not known.
 
 EMERALD
 
-In EMERALD, boosted Protease Inhibitor (bPI) and TDF-treated subjects were randomized to continue their TDF-based regimen or switch to SYMTUZA; changes in BMD from baseline to Week 48 were assessed by DXA.
-The mean percentage change in BMD from baseline to Week 48 was 1.5% with SYMTUZA compared to −0.6% with PREZCOBIX + FTC/TDF at the lumbar spine and 1.4% compared to -0.3% at the total hip.
-BMD declines of 5% or greater at the lumbar spine were experienced by 2% of SYMTUZA subjects and 9% of PREZCOBIX + FTC/TDF subjects.
-BMD declines of 7% or greater at the femoral neck were experienced by no SYMTUZA subjects and 2% of PREZCOBIX + FTC/TDF subjects.
+In EMERALD, bPI and TDF-treated subjects were randomized to continue their TDF-based regimen or switch to SYMTUZA; changes in BMD from baseline to Week 48 were assessed by DXA.
+The mean percentage change in BMD from baseline to Week 48 was 1.5% with SYMTUZA compared to −0.6% with bPI + FTC/TDF at the lumbar spine and 1.4% compared to -0.3% at the total hip.
+BMD declines of 5% or greater at the lumbar spine were experienced by 2% of SYMTUZA subjects and 9% of bPI + FTC/TDF subjects.
+BMD declines of 7% or greater at the femoral neck were experienced by no SYMTUZA subjects and 2% of bPI + FTC/TDF subjects.
 The long-term clinical significance of these BMD changes is not known.
+
+Clinical Trials in Pediatric Patients
+
+Adverse Reactions in Pediatric Patients Weighing At Least 40 kg
+
+No clinical trials with SYMTUZA were performed in pediatric patients.
+However, the safety of the components of SYMTUZA was evaluated in pediatric subjects of 12 to less than 18 years of age through clinical trials GS-US-216-0128 (virologically-suppressed, N=7 with weight ≥40 kg) for darunavir co-administered with cobicistat and other antiretroviral agents, and GS-US-292-0106 (treatment-naïve, N=50 with weight ≥35 kg) for a fixed-dose combination regimen containing cobicistat, emtricitabine, and tenofovir alafenamide together with elvitegravir.
+Safety analyses of the trials in these pediatric subjects did not identify new safety concerns compared to the known safety profile of SYMTUZA in adult subjects [see Clinical Studies (14.3)].
 
 ## 6.2 Postmarketing Experience
 

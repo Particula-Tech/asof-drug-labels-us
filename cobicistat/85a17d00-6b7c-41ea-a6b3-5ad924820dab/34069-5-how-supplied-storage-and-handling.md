@@ -9,3 +9,4 @@ Storage:
 - Store at 20°C–25°C (between 68°F–77°F); with excursions permitted to 15°C–30°C (59°F–86°F).
 - Dispense only in the original container.
   Keep container tightly closed with desiccant inside to protect from moisture.
+- Keep SYMTUZA out of reach of children.

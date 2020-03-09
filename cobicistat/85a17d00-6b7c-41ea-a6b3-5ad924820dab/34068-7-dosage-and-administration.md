@@ -10,7 +10,7 @@ In patients with chronic kidney disease, also assess serum phosphorus [see Warni
 ## 2.2 Recommended Dosage
 
 SYMTUZA is a four-drug fixed dose combination product containing 800 mg of darunavir (DRV), 150 mg of cobicistat (COBI), 200 mg of emtricitabine (FTC), and 10 mg of tenofovir alafenamide (TAF).
-The recommended dosage of SYMTUZA is one tablet taken orally once daily with food in adults.
+The recommended dosage of SYMTUZA is one tablet taken orally once daily with food in adults and pediatric patients weighing at least 40 kg.
 For patients who are unable to swallow the whole tablet, SYMTUZA may be split into two pieces using a tablet-cutter, and the entire dose should be consumed immediately after splitting [see Clinical Pharmacology (12.3)].
 
 ## 2.3 Not Recommended in Patients with Severe Renal Impairment

@@ -75,6 +75,48 @@ Cobicistat and Emtricitabine: The pharmacokinetics of cobicistat and emtricitabi
 
 Tenofovir alafenamide Population pharmacokinetics analysis of HIV-infected subjects in Phase 2 and Phase 3 trials of TAF combined with emtricitabine, elvitegravir, and cobicistat showed that age did not have a clinically relevant effect on exposures of TAF up to 75 years of age.
 
+Pediatric Patients Weighing at Least 40 kg
+
+Available pharmacokinetic data for the different components of SYMTUZA indicate that there were no clinically relevant differences in exposure between adults and pediatric subjects weighing at least 40 kg.
+
+Darunavir and cobicistat: In pediatric subjects aged 12 to less than 18 years, weighing at least 40 kg who received darunavir 800 mg co-administered with cobicistat 150 mg (N=7), geometric mean darunavir Cmax values were similar between adults and pediatric subjects.
+Geometric mean darunavir AUC24h and C24h values were 15% and 32% lower, with geometric mean ratios of 0.85 (90% CI: 0.64, 1.13) and 0.68 (90% CI: 0.30, 1.55) in pediatric subjects relative to adults, respectively.
+These differences were not considered clinically significant.
+Geometric mean cobicistat AUC24h, Cmax, and C24h values were comparable in pediatric subjects and adults (Table 7).
+
+Table 7: Multiple-Dose PK Parameters of Darunavir and Cobicistat Following Administration of Darunavir with Cobicistat in HIV 1 Infected Adults and Pediatric Subjects Weighing at least 40 kgFrom intensive PK analysis of trial GS-US-216-0128, where HIV-infected subjects were administered darunavir 800 mg and cobicistat 150 mg once daily with 2 NRTIs
+
+| Parameter Geometric mean (CV%) | Darunavir | Cobicistat |
+| --- | --- | --- |
+| Pediatric Subjects | N=7 | N=7 |
+| AUC24h (mcg.hr/mL) | 77.22 (29.5) | 8.33 (34.9) |
+| Cmax (mcg/mL) | 7.32 (21.7) | 1.10 (20.0) |
+| C24h (mcg/mL) | 0.68 (91.6) | 0.02 (123.9)N=5; Data from two subjects who had undetectable cobicistat C24h concentrations were excluded from summary statistics |
+| AdultsFrom intensive PK analysis of trial GS-US-299-0102 where HIV-infected subjects were administered SYMTUZA once daily | N=21 | N=21 |
+| AUC24h (mcg.hr/mL) | 90.56 (45.3) | 7.69 (43.9) |
+| Cmax (mcg/mL) | 8.34 (33.3) | 1.04 (35.3) |
+| C24h (mcg/mL) | 1.00 (108.0) | 0.02 (135.1)N=18 |
+| CV = Coefficient of Variation; mcg = microgram |  |  |
+
+Emtricitabine and tenofovir alafenamide: In 24 pediatric subjects aged 12 to less than 18 years, who received emtricitabine + TAF with elvitegravir + cobicistat, geometric mean emtricitabine Cmax, and C24h values were comparable to adults, with geometric mean ratios of 1.10 (90% CI: 0.98, 1.23) and 1.07 (90% CI: 0.88, 1.29), respectively (Table 8).
+Geometric mean emtricitabine AUC24h was 21% higher, with a geometric mean ratio of 1.21 (90% CI: 1.09, 1.34) in pediatric subjects relative to adults.
+Geometric mean tenofovir alafenamide Cmax and AUClast values were 29% and 23% lower in pediatric subjects versus adults with geometric mean ratios of 0.71 (90% CI: 0.50, 1.00) and 0.77 (90% CI: 0.59, 1.02), respectively (Table 8).
+The observed differences were not considered clinically significant.
+
+Table 8: Multiple-Dose PK Parameters of Emtricitabine and Tenofovir Alafenamide Following Oral Administration with Food in HIV 1 Infected Adults and Pediatric Subjects
+
+| Parameter Geometric mean (CV%) | Emtricitabine | Tenofovir alafenamide |
+| --- | --- | --- |
+| Pediatric SubjectsFrom intensive PK analysis in trial GS-US-292-0106 in treatment-naïve pediatric subjects with HIV-1 infection | N=24 | N=24 |
+| AUC24h (mcg.hr/mL)AUClast for tenofovir alafenamide | 14.0 (23.9) | 0.16 (55.8) |
+| Cmax (mcg/mL) | 2.2 (22.5) | 0.14 (64.4) |
+| C24h (mcg/mL) | 0.10 (38.9)N=23 | NA |
+| AdultsFrom intensive PK analysis in trial GS-US-292-0102 in HIV-infected adults treated with emtricitabine+tenofovir alafenamide and elvitegravir+cobicistat | N=19 | N=19 |
+| AUC24h (mcg.hr/mL) | 11.6 (16.6) | 0.21 (47.3) |
+| Cmax (mcg/mL) | 2.0 (20.2) | 0.19 (64.6) |
+| C24h (mcg/mL) | 0.09 (46.7) | NA |
+| CV = Coefficient of Variation; mcg = microgram; NA = not applicable |  |  |
+
 Gender and Race
 
 There were no clinically relevant differences in the pharmacokinetics of darunavir, cobicistat, emtricitabine, or tenofovir alafenamide based on gender or race.
@@ -84,11 +126,11 @@ Patients with Renal Impairment
 Darunavir: The pharmacokinetics of darunavir were not altered in HIV-1 infected subjects with moderate renal impairment taking darunavir co-administered with ritonavir (creatinine clearance between 30–60 mL/min, estimated by Cockcroft-Gault method, N=20).
 There are no pharmacokinetic data available in HIV-1 infected patients with severe renal impairment or end-stage renal disease taking darunavir co-administered with cobicistat [see Use in Specific Populations (8.6)].
 
-Cobicistat: There were no clinically relevant differences in cobicistat pharmacokinetics observed between subjects with severe renal impairment (creatinine clearance below 30 mL/min, estimated by Cockcroft-Gault method) and healthy subjects [see Use in Special Populations (8.6)].
+Cobicistat: There were no clinically relevant differences in cobicistat pharmacokinetics observed between subjects with severe renal impairment (creatinine clearance below 30 mL/min, estimated by Cockcroft-Gault method) and healthy subjects [see Use in Specific Populations (8.6)].
 
-Emtricitabine: Mean systemic emtricitabine exposure was higher in patients with severe renal impairment (creatinine clearance less than 30 mL/min, estimated by Cockcroft-Gault method) than in subjects with normal renal function [see Use in Special Populations (8.6)].
+Emtricitabine: Mean systemic emtricitabine exposure was higher in patients with severe renal impairment (creatinine clearance less than 30 mL/min, estimated by Cockcroft-Gault method) than in subjects with normal renal function [see Use in Specific Populations (8.6)].
 
-Tenofovir alafenamide: In studies of TAF, no clinically relevant differences in the pharmacokinetics of TAF or its metabolite tenofovir were observed between subjects with severe renal impairment (creatinine clearance of 15–30 mL/min, estimated by Cockcroft-Gault method) and healthy subjects.
+Tenofovir alafenamide: In studies of TAF, no clinically relevant differences in the pharmacokinetics of TAF or its metabolite tenofovir were observed between subjects with severe renal impairment (creatinine clearance of 15–30 mL/min, estimated by Cockcroft-Gault method) and healthy subjects [see Use in Specific Populations (8.6)].
 
 Patients with Hepatic Impairment
 
@@ -98,7 +140,7 @@ The effect of severe hepatic impairment on the pharmacokinetics of darunavir has
 Cobicistat: There were no clinically relevant differences in the cobicistat pharmacokinetics between subjects with moderate hepatic impairment (Child Pugh Class B) and healthy subjects.
 The effect of severe hepatic impairment on the pharmacokinetics of cobicistat has not been evaluated [see Use in Specific Populations (8.7)].
 
-Emtricitabine: The pharmacokinetics of emtricitabine have not been studied in subjects with hepatic impairment; however, emtricitabine is not significantly metabolized by liver enzymes, so the impact of hepatic impairment should be limited.
+Emtricitabine: The pharmacokinetics of emtricitabine have not been studied in subjects with hepatic impairment; however, emtricitabine is not significantly metabolized by liver enzymes, so the impact of hepatic impairment should be limited [see Use in Specific Populations (8.7)].
 
 Tenofovir Alafenamide: Clinically relevant changes in the pharmacokinetics of tenofovir alafenamide or its metabolite tenofovir were not observed in patients with mild, moderate (Child-Pugh Class A and B), or severe hepatic impairment (Child-Pugh Class C); [see Use in Specific Populations (8.7)].
 
@@ -112,9 +154,9 @@ Emtricitabine and tenofovir alafenamide: The pharmacokinetics of emtricitabine a
 
 Pregnancy and Postpartum
 
-The exposure to total and unbound darunavir boosted with cobicistat after intake of darunavir/cobicistat as part of an antiretroviral regimen was substantially lower during the second and third trimesters of pregnancy compared with 6–12 weeks postpartum (see Table 7 and Figure 1).
+The exposure to total and unbound darunavir boosted with cobicistat after intake of darunavir/cobicistat as part of an antiretroviral regimen was substantially lower during the second and third trimesters of pregnancy compared with 6–12 weeks postpartum (see Table 9 and Figure 1).
 
-Table 7: Pharmacokinetic Results of Total Darunavir after Administration of Darunavir/Cobicistat Once Daily as Part of an Antiretroviral Regimen, During the 2nd Trimester of Pregnancy, the 3rd Trimester of Pregnancy, and Postpartum
+Table 9: Pharmacokinetic Results of Total Darunavir after Administration of Darunavir/Cobicistat Once Daily as Part of an Antiretroviral Regimen, During the 2nd Trimester of Pregnancy, the 3rd Trimester of Pregnancy, and Postpartum
 
 | Pharmacokinetics of total darunavir (mean ± SD) | 2nd Trimester of pregnancy N=7 | 3rd Trimester of pregnancy N=6 | Postpartum (6–12 weeks) N=6 |
 | --- | --- | --- | --- |
@@ -152,12 +194,12 @@ Cobicistat: Cobicistat is a selective, mechanism-based inhibitor of CYPP450 of t
 Inhibition of CYP3A-mediated metabolism by cobicistat enhances the systemic exposure of CYP3A substrates.
 
 Emtricitabine: Emtricitabine, a synthetic nucleoside analog of cytidine, is phosphorylated by cellular enzymes to form emtricitabine 5'-triphosphate.
-Emtricitabine 5'-triphosphate inhibits the activity of the HIV-1 reverse transcriptase by competing with the natural substrate deoxycytidine 5'-triphosphate and by being incorporated into nascent viral DNA, which results in chain termination.
+Emtricitabine 5'-triphosphate inhibits the activity of the HIV-1 reverse transcriptase (RT) by competing with the natural substrate deoxycytidine 5'-triphosphate and by being incorporated into nascent viral DNA, which results in chain termination.
 Emtricitabine 5'-triphosphate is a weak inhibitor of mammalian DNA polymerases α, β, ε, and mitochondrial DNA polymerase γ.
 
 Tenofovir alafenamide: TAF is a phosphonamidate prodrug of tenofovir (2'-deoxyadenosine monophosphate analog).
 Plasma exposure to TAF allows for permeation into cells and then TAF is intracellularly converted to tenofovir through hydrolysis by cathepsin A. Tenofovir is subsequently phosphorylated by cellular kinases to the active metabolite tenofovir diphosphate.
-Tenofovir diphosphate inhibits HIV-1 replication through incorporation into viral DNA by the HIV reverse transcriptase, which results in DNA chain-termination.
+Tenofovir diphosphate inhibits HIV-1 replication through incorporation into viral DNA by the HIV RT, which results in DNA chain-termination.
 Tenofovir diphosphate is a weak inhibitor of mammalian DNA polymerases that include mitochondrial DNA polymerase γ and there is no evidence of toxicity to mitochondria in cell culture.
 
 Antiviral Activity
@@ -186,7 +228,7 @@ Cell Culture
 
 Darunavir: In cell culture, HIV-1 isolates with a decreased susceptibility to darunavir have been selected and obtained from subjects treated with darunavir co-administered with ritonavir.
 Darunavir-resistant virus derived in cell culture from wild-type HIV-1 had 21- to 88-fold decreased susceptibility to darunavir and developed 2 to 4 of the following amino acid substitutions S37D, R41E/T, K55Q, H69Q, K70E, T74S, V77I, or I85V in the protease.
-Selection in cell culture of darunavir resistant HIV-1 from nine HIV-1 strains harboring multiple PI resistance-associated substitutions resulted in the overall emergence of 22 mutations in the protease gene, coding for amino acid substitutions L10F, V11I, I13V, I15V, G16E, L23I, V32I, L33F, S37N, M46I, I47V, I50V, F53L, L63P, A71V, G73S, L76V, V82I, I84V, T91A/S, and Q92R, of which L10F, V32I, L33F, S37N, M46I, I47V, I50V, L63P, A71V, and I84V were the most prevalent.
+Selection in cell culture of darunavir-resistant HIV-1 from nine HIV-1 strains harboring multiple PI resistance-associated substitutions resulted in the overall emergence of 22 mutations in the protease gene, coding for amino acid substitutions L10F, V11I, I13V, I15V, G16E, L23I, V32I, L33F, S37N, M46I, I47V, I50V, F53L, L63P, A71V, G73S, L76V, V82I, I84V, T91A/S, and Q92R, of which L10F, V32I, L33F, S37N, M46I, I47V, I50V, L63P, A71V, and I84V were the most prevalent.
 These darunavir-resistant viruses had at least eight protease substitutions and exhibited 50- to 641-fold decreases in darunavir susceptibility with final EC50 values ranging from 125 nM to 3461 nM.
 
 Emtricitabine: HIV-1 isolates with reduced susceptibility to emtricitabine were selected in cell culture and in subjects treated with emtricitabine.
