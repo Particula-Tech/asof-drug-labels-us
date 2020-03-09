@@ -4,22 +4,21 @@
 
 Risk Summary
 
-Based on findings from human data, animal studies, and the mechanism of action, DACOGEN can cause fetal harm when administered to a pregnant woman [see Clinical Pharmacology (12.1)].
-
+Based on findings from human data, animal studies, and the mechanism of action, DACOGEN can cause fetal harm when administered to a pregnant woman [see Clinical Pharmacology (12.1) and Nonclinical Toxicology (13.1)].
 Limited published data on DACOGEN use throughout the first trimester during pregnancy describe adverse developmental outcomes including major birth defects (structural abnormalities).
-In animal reproduction studies, administration of decitabine to pregnant mice and rats during organogenesis caused adverse developmental outcomes and was teratogenic, fetotoxic, and embryotoxic starting at doses approximately 7% of the recommended human dose on a mg/m 2 basis (see Data).
-Advise pregnant women of the potential risk to a fetus.The estimated background risk of major birth defects and miscarriage for the indicated population is unknown.
+In animal reproduction studies, administration of decitabine to pregnant mice and rats during organogenesis caused adverse developmental outcomes including malformations and embryo-fetal lethality starting at doses approximately 7% of the recommended human dose on a mg/m 2 basis (see Data).
+Advise pregnant women of the potential risk to a fetus.
+
+The estimated background risk of major birth defects and miscarriage for the indicated population is unknown.
 All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
-The estimated background risk of major birth defects and miscarriage in the U.S. general population is 2-4% and 15-20% of clinically recognized pregnancies, respectively.
+The estimated background risk of major birth defects and miscarriage in the U.S. general population is 2 to 4% and 15 to 20% of clinically recognized pregnancies, respectively.
 
 Data
 
 Human Data
 
 A single published case report of decitabine pregnancy exposure in a 39-year old woman with a hematologic malignancy described multiple structural abnormalities after 6 cycles of therapy in the 18 th week of gestation.
-These abnormalities included
-
-holoprosencephaly, absence of nasal bone, mid-facial deformity, cleft lip and palate, polydactyly and rocker-bottom feet.
+These abnormalities included holoprosencephaly, absence of nasal bone, mid-facial deformity, cleft lip and palate, polydactyly and rocker-bottom feet.
 The pregnancy was terminated.
 
 Animal Data
@@ -49,7 +48,7 @@ Follow up studies indicated that treatment of pregnant mice with decitabine on g
 Risk Summary
 
 There are no data on the presence of decitabine or its metabolites in human milk, the effects on the breastfed child, or the effects on milk production.
-Because many drugs are excreted in human milk, and because of the potential for serious adverse reactions from DACOGEN in a nursing child, advise lactating women to avoid breastfeeding during treatment with DACOGEN and for at least 1 week after the last dose.
+Because of the potential for serious adverse reactions from DACOGEN in a breastfed child, advise women not to breastfeed while receiving DACOGEN and for at least 2 weeks after the last dose.
 
 ## 8.3 Females and Males of Reproductive Potential
 
@@ -59,13 +58,19 @@ Conduct pregnancy testing of females of reproductive potential prior to initiati
 
 Contraception
 
-FemalesAdvise females of reproductive potential to avoid pregnancy and use effective contraception while receiving DACOGEN and for 6 months following the last dose.
-Males Advise males with female partners of reproductive potential to use effective contraception while receiving treatment with DACOGEN and for 3 months following the last dose.
-[see Nonclinical Toxicology (13.1)].
+Females
+
+DACOGEN can cause fetal harm when administered to pregnant women [see Use in Specific Populations (8.1)].
+Advise females of reproductive potential to use effective contraception while receiving DACOGEN and for 6 months following the last dose.
+
+Males
+
+Advise males with female partners of reproductive potential to use effective contraception while receiving treatment with DACOGEN and for 3 months following the last dose [see Nonclinical Toxicology (13.1)].
 
 Infertility
 
-Based on findings of decitabine in animals, male fertility may be compromised by treatment with DACOGEN [see Nonclinical Toxicology (13.1)].
+Based on findings of decitabine in animals, male fertility may be compromised by treatment with DACOGEN.
+The reversibility of the effect on fertility is unknown [see Nonclinical Toxicology (13.1)].
 
 ## 8.4 Pediatric Use
 

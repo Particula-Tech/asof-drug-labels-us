@@ -3,4 +3,4 @@ Haarlem, The Netherlands Manufactured for Otsuka America Pharmaceutical, Inc., R
 
 DACOGEN is a registered trademark of Astex Pharmaceuticals, Inc., Dublin, CA, U.S.A. used under license.
 
-13US14L-1001A 203237A Rev: XX/201X
+13US14L-1001A 203237A
