@@ -19,18 +19,12 @@ Manufactured for:
 
 Somerset Therapeutics, LLC
 
-Somerset, NJ 08873
+Hollywood, FL 33024
 
-Manufactured by:
+Made in India
 
-Wintac Limited
+Code No.:KR/DRUGS/KTK/28/289/97
 
-Bangalore 562123
+ST-SNP11/P/01
 
-India
-
-Code No.: KR/DRUGS/KTK/28/289/97
-
-ST-SNP11/P/00
-
-Revised: 07/2018
+Revised: November, 2019
