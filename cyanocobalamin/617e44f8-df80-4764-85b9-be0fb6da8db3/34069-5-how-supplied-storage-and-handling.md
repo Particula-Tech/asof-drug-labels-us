@@ -19,15 +19,16 @@ PROTECT THE PRODUCT FROM LIGHT.
 
 For Product Inquiry call 1-800-417-9175.
 
-Issued: December, 2018
+Issued: October, 2019
 
-Manufactured by: Manufactured for:
+Manufactured for:
 
-Wintac Limited Somerset Therapeutics, LLC
+Somerset Therapeutics, LLC
 
-Bangalore 562123 Somerset, NJ 08873
+Hollywood, FL 33024
 
-India.
-ST-CYC13/P/00
+Made in India
 
-Code No.: KR/DRUGS/KTK/28/289/97
+Code No.:KR/DRUGS/KTK/28/289/97
+
+ST-CYC13/P/01
