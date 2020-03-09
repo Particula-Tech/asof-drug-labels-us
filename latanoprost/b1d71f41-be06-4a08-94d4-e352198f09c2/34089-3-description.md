@@ -10,8 +10,6 @@ Netarsudil mesylate is a light yellow to white powder that is freely soluble in 
 The chemical name of latanoprost is: isopropyl-(Z)-7[1R,2R,3R,5S) 3,5-dihydroxy-2-[(3R)-3-hydroxy-5-phenylpentyl]cyclopentyl]-5-heptenoate.
 Its molecular formula is C26H40O5 and its chemical structure is:
 
-- 
-
 Latanoprost is a colorless to slightly yellow oil that is very soluble in acetonitrile and freely soluble in acetone, ethanol, ethyl acetate, isopropanol, methanol, and octanol.
 It is practically insoluble in water.
 

@@ -2,7 +2,7 @@
 
 NDC 70727-529-25
 
-rocklatan™ (netarsudil and latanoprost ophthalmic solution) 0.02%/0.005%
+rocklatan® (netarsudil and latanoprost ophthalmic solution) 0.02%/0.005%
 
 For topical application in the eye
 
@@ -14,7 +14,7 @@ Sterile Rx only
 
 NDC 70727-529-99
 
-rocklatan™ (netarsudil and latanoprost ophthalmic solution) 0.02%/0.005%
+rocklatan® (netarsudil and latanoprost ophthalmic solution) 0.02%/0.005%
 
 For topical application in the eye
 

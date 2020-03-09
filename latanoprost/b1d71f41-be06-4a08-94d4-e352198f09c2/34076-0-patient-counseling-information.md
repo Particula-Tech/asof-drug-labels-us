@@ -33,7 +33,7 @@ Missed Dose
 
 Advise patients that if one dose is missed, treatment should continue with the next dose in the evening.
 
-U.S. Patent Nos.: 8,450,344; 8,394,826; 9,096,569; 9,415,043; 9,931,336; 9,993,470
+U.S. Patent Nos.: 8,450,344; 8,394,826; 9,096,569; 9,415,043; 9,931,336; 9,993,470, 10,174,017
 
 ROCKLATAN is a trademark of Aerie Pharmaceuticals, Inc.
 
