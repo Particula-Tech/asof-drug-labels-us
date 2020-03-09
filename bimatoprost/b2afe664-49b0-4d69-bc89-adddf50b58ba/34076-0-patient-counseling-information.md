@@ -29,20 +29,14 @@ Use with Other Ophthalmic Drugs
 
 Advise patients that if more than one topical ophthalmic drug is being used, the drugs should be administered at least five (5) minutes between applications.
 
-Manufactured by:
-
-Wintac Limited
-
-Bangalore 562123
-
-India.
-
-Code No.: KR/DRUGS/KTK/28/289/97
-
 Manufactured for:
 
 Somerset Therapeutics, LLC
 
 Hollywood, FL 33024
 
-ST-BIM/P/00
+Made in India
+
+Code No.:KR/DRUGS/KTK/28/289/97
+
+ST-BIM/P/01
