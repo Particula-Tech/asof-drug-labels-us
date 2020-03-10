@@ -26,14 +26,14 @@ STRATTERA may be taken with or without food.
 
 STRATTERA can be discontinued without being tapered.
 
-STRATTERA capsules are not intended to be opened, they should be taken whole [see Patient Counseling Information (17.6)].
+STRATTERA capsules are not intended to be opened, they should be taken whole [see Patient Counseling Information (17)].
 
 The safety of single doses over 120 mg and total daily doses above 150 mg have not been systematically evaluated.
 
 ## 2.4 Dosing in Specific Populations
 
 Dosing adjustment for hepatically impaired patients — For those ADHD patients who have hepatic insufficiency (HI), dosage adjustment is recommended as follows: For patients with moderate HI (Child-Pugh Class B), initial and target doses should be reduced to 50% of the normal dose (for patients without HI).
-For patients with severe HI (Child-Pugh Class C), initial dose and target doses should be reduced to 25% of normal [see Use In Specific Populations (8.6)].
+For patients with severe HI (Child-Pugh Class C), initial dose and target doses should be reduced to 25% of normal [see Use in Specific Populations (8.6)].
 
 Dosing adjustment for use with a strong CYP2D6 inhibitor or in patients who are known to be CYP2D6 PMs — In children and adolescents up to 70 kg body weight administered strong CYP2D6 inhibitors, e.g., paroxetine, fluoxetine, and quinidine, or in patients who are known to be CYP2D6 PMs, STRATTERA should be initiated at 0.5 mg/kg/day and only increased to the usual target dose of 1.2 mg/kg/day if symptoms fail to improve after 4 weeks and the initial dose is well tolerated.
 

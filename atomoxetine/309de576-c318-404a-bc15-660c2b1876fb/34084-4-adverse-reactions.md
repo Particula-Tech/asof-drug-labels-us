@@ -91,7 +91,7 @@ Table 4: Common Treatment-Emergent Adverse Reactions Associated with the Use of 
 
 | Adverse Reactiona | Percentage of Patients Reporting Reaction |  |
 | --- | --- | --- |
-| System Organ Class/Adverse Reaction | STRATTERA (N=1697) | Placebo (N=1560) |
+|  | STRATTERA (N=1697) | Placebo (N=1560) |
 | Cardiac Disorders |  |  |
 | Palpitations | 3 | 1 |
 | Gastrointestinal Disorders |  |  |
@@ -161,7 +161,7 @@ Peripheral vascular effects — Raynaud's phenomenon.
 
 General disorders and administration site conditions — Lethargy.
 
-Musculoskeletal System — Rhabdomyolysis.
+Musculoskeletal system — Rhabdomyolysis.
 
 Nervous system disorders — Hypoaesthesia; paraesthesia in children and adolescents; sensory disturbances; tics.
 

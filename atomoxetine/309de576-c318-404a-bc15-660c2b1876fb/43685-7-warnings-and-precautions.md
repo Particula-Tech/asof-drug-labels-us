@@ -36,7 +36,7 @@ Such reactions may occur several months after therapy is started, but laboratory
 The patient described above recovered from his liver injury, and did not require a liver transplant.
 
 STRATTERA should be discontinued in patients with jaundice or laboratory evidence of liver injury, and should not be restarted.
-Laboratory testing to determine liver enzyme levels should be done upon the first symptom or sign of liver dysfunction (e.g., pruritus, dark urine, jaundice, right upper quadrant tenderness, or unexplained “flu like” symptoms) [see Warnings and Precautions (5.12); Patient Counseling Information (17.3)].
+Laboratory testing to determine liver enzyme levels should be done upon the first symptom or sign of liver dysfunction (e.g., pruritus, dark urine, jaundice, right upper quadrant tenderness, or unexplained “flu like” symptoms) [see Warnings and Precautions (5.12); Patient Counseling Information (17)].
 
 ## 5.3 Serious Cardiovascular Events
 
@@ -158,8 +158,7 @@ Laboratory tests are available to identify CYP2D6 PMs.
 The blood levels in PMs are similar to those attained by taking strong inhibitors of CYP2D6.
 The higher blood levels in PMs lead to a higher rate of some adverse effects of STRATTERA [see Adverse Reactions (6.1)].
 
-## 5.13 Concomitant Use of Potent CYP2D6 Inhibitors or Use in patients who are known to be CYP2D6 PMs
+## 5.13 Concomitant Use of Potent CYP2D6 Inhibitors or Use in Patients who are known to be CYP2D6 PMs
 
 Atomoxetine is primarily metabolized by the CYP2D6 pathway to 4-hydroxyatomoxetine.
-Dosage adjustment of STRATTERA may be necessary when coadministered with potent CYP2D6 inhibitors (e.g., paroxetine, fluoxetine, and quinidine) or when administered to CYP2D6 PMs.
-[See Dosage and Administration (2.4) and Drug Interactions (7.2)].
+Dosage adjustment of STRATTERA may be necessary when coadministered with potent CYP2D6 inhibitors (e.g., paroxetine, fluoxetine, and quinidine) or when administered to CYP2D6 PMs [see Dosage and Administration (2.4) and Drug Interactions (7.2)].

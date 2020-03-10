@@ -108,8 +108,15 @@ Before starting STRATTERA tell your doctor or your child's doctor about all heal
 - heart problems, heart defects, irregular heart beat, high blood pressure, or low blood pressure
 - mental problems, psychosis, mania, bipolar illness, or depression
 - liver problems
-
-Tell your doctor if you or your child is pregnant, planning to become pregnant, or breastfeeding.
+- are pregnant or plan to become pregnant.
+  It is not known if STRATTERA will harm your unborn baby.
+  Talk to your doctor if you are pregnant or plan to become pregnant.
+  - There is a pregnancy registry for females who are exposed to ADHD medications, including STRATTERA, during pregnancy.
+    The purpose of the registry is to collect information about the health of females exposed to STRATTERA and their baby.
+    If you or your child becomes pregnant during treatment with STRATTERA, talk to your healthcare provider about registering with the National Pregnancy Registry of ADHD Medications at 1-866-961-2388 or visit online at https://womensmentalhealth.org/adhdmedications/.
+- are breastfeeding or plan to breastfeed.
+  It is not known if STRATTERA passes into your breast milk.
+  Talk to your doctor about the best way to feed your baby if you take STRATTERA.
 
 Can STRATTERA be taken with other medicines?
 
@@ -228,13 +235,11 @@ Emsam® is a registered trademark of Somerset Pharmaceuticals Inc.
 
 This Medication Guide has been approved by the US Food and Drug Administration.
 
-Patient Information revised February 20, 2014
+Revised: 2/2020
 
 Marketed by: Lilly USA, LLC Indianapolis, IN 46285, USA
 
-www.strattera.com
-
-Copyright © 2003, 2014, Eli Lilly and Company.
+Copyright © 2003, 2020, Eli Lilly and Company.
 All rights reserved.
 
-PV 5859 AMP
+STR-0001-MG-20200225

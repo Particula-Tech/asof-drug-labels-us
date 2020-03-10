@@ -1,6 +1,6 @@
 # 14 CLINICAL STUDIES
 
-## 14.1 ADHD studies in Children and Adolescents
+## 14.1 ADHD Studies in Children and Adolescents
 
 Acute Studies — The effectiveness of STRATTERA in the treatment of ADHD was established in 4 randomized, double-blind, placebo-controlled studies of pediatric patients (ages 6 to 18).
 Approximately one-third of the patients met DSM-IV criteria for inattentive subtype and two-thirds met criteria for both inattentive and hyperactive/impulsive subtypes.
@@ -36,7 +36,7 @@ Patients who were assigned to STRATTERA and showed continuous response for appro
 Relapse during the double-blind phase was defined as CGI-ADHD-S score increases of at least 2 from the end of open-label phase and ADHDRS-IV-Parent:Inv total score returns to ≥90% of study entry score for 2 consecutive visits.
 In both double-blind phases, patients receiving continued STRATTERA treatment experienced significantly longer times to relapse than those receiving placebo.
 
-## 14.2 ADHD studies in Adults
+## 14.2 ADHD Studies in Adults
 
 The effectiveness of STRATTERA in the treatment of ADHD was established in 2 randomized, double-blind, placebo-controlled clinical studies of adult patients, age 18 and older, who met DSM-IV criteria for ADHD.
 
