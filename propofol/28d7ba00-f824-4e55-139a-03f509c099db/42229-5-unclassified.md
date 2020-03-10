@@ -3,7 +3,7 @@ Rx only
 CONTAINS BENZYL ALCOHOL (see PRECAUTIONS) Fliptop Vial FOR INTRAVENOUS ADMINISTRATION Shake Well Before Use
 
 Strict aseptic technique must always be maintained during handling.
-Propofol Injectable Emulsion, USP is a single access parenteral product (single patient infusion vial) which contains benzyl alcohol 1.5 mg/mL and sodium benzoate 0.7 mg/mL to inhibit the rate of growth of microorganisms, for up to 12 hours, in the event of accidental extrinsic contamination.
+Propofol injectable emulsion is a single access parenteral product (single patient infusion vial) which contains benzyl alcohol 1.5 mg/mL and sodium benzoate 0.7 mg/mL to inhibit the rate of growth of microorganisms, for up to 12 hours, in the event of accidental extrinsic contamination.
 However, propofol injectable emulsion can still support the growth of microorganisms, as it is not an antimicrobially preserved product under USP standards.
 Accordingly, strict aseptic technique must still be adhered to.
 Do not use if contamination is suspected.
@@ -17,6 +17,6 @@ Propofol injectable emulsion vials are never to be accessed more than once or us
 
 Distributed by Hospira, Inc., Lake Forest, IL 60045 USA
 
-LAB-1056-3.0
+LAB-1056-2.0
 
-Revised 05/2019
+07/2018

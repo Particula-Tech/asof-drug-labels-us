@@ -1,12 +1,15 @@
 # HOW SUPPLIED
 
-Propofol Injectable Emulsion, USP is supplied as follows:
+Propofol injectable emulsion is supplied in ready-to-use vials containing 10 mg/mL of propofol as follows:
 
-| Unit of Sale | Concentration |
+| Unit of Sale | Each |
 | --- | --- |
-| NDC 0409-4699-30 Carton of 5 Fliptop vials | 200 mg/20 mL (10 mg/mL) |
-| NDC 0409-4699-33 Tray of 20 Fliptop vials | 500 mg/50 mL (10 mg/mL) |
-| NDC 0409-4699-24 Tray of 10 Fliptop vials | 1000 mg/100 mL (10 mg/mL) |
+| NDC 0409-4699-30 | NDC 0409-4699-50 |
+| Carton of 5 | 20 mL Fliptop vial |
+| NDC 0409-4699-33 | NDC 0409-4699-53 |
+| Carton of 20 | 50 mL Fliptop vial |
+| NDC 0409-4699-24 | NDC 0409-4699-54 |
+| Carton of 10 | 100 mL Fliptop vial |
 
 Propofol undergoes oxidative degradation, in the presence of oxygen, and is therefore packaged under nitrogen to eliminate this degradation path.
 
