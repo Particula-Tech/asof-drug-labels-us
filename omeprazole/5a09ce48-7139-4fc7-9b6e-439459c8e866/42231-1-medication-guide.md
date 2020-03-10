@@ -132,6 +132,8 @@ Omeprazole delayed-release capsules can cause serious side effects, including:
   This problem can be serious.
   Low magnesium can happen in some people who take a PPI medicine for at least 3 months.
   If low magnesium levels happen, it is usually after a year of treatment.
+- •Stomach growths (fundic gland polyps).
+  People who take PPI medicines for a long time have an increased risk of developing a certain type of stomach growths called fundic gland polyps, especially after taking PPI medicines for more than 1 year.
 
 You may or may not have symptoms of low magnesium.
 Tell your doctor right away if you develop any of these symptoms:
@@ -236,4 +238,4 @@ Finished Drug Product Manufactured by Lek Pharmaceuticals d.d., SI-1526 Ljubljan
 Sandoz Inc., Princeton, NJ 08540
 
 Rev.
-January 2018
+May 2018
