@@ -8,6 +8,6 @@ Erythromycin Topical Gel USP, 2%
 
 For Dermatologic Use Only - Not for Ophthalmic Use
 
-Net Wt 30 g
+NET WT 30 g
 
 The following image is a placeholder representing the product identifier that is either affixed or imprinted on the drug package label during the packaging operation.

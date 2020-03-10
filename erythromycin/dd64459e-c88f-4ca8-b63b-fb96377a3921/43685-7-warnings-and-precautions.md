@@ -5,7 +5,7 @@ Therefore, it is important to consider this diagnosis in patients who present wi
 
 Treatment with antibacterial agents alters the normal flora of the colon and may permit overgrowth of clostridia.
 Studies indicate that a toxin produced by Clostridium difficile is one primary cause of “antibiotic-associated colitis”.
-After the diagnosis of pseudomembranous colitis has been established, therapeutic measures should beinitiated.
+After the diagnosis of pseudomembranous colitis has been established, therapeutic measures should be initiated.
 Mild cases of pseudomembranous colitis usually respond to drug discontinuation alone.
 In moderate to severe cases, consideration should be given to management with fluids and electrolytes, protein supplementation and treatment with an antibacterial drug clinically effective against C. difficile colitis.
 
