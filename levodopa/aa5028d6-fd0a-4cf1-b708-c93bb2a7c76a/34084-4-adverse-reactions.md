@@ -3,9 +3,9 @@
 In controlled clinical trials, patients predominantly with moderate to severe motor fluctuations while on carbidopa and levodopa immediate-release were randomized to therapy with either carbidopa and levodopa immediate-release or carbidopa and levodopa extended-release.
 The adverse experience frequency profile of carbidopa and levodopa extended-release did not differ substantially from that of carbidopa and levodopa immediate-release, as shown in Table 1.
 
-Table 1: Clinical Adverse Experiences Occurring In 1% or Greater of Patients
+Table 1: Clinical Adverse Experiences Occurring in 1% or Greater of Patients
 
-| Adverse Experience | Carbidopa and Levodopa Extended-release n = 491 % | Carbidopa and Levodopa Immediate-release n = 524 % |
+| Adverse Experience | Carbidopa and LevodopaExtended-Releasen = 491% | Carbidopa and LevodopaImmediate-Releasen = 524% |
 | --- | --- | --- |
 | Dyskinesia | 16.5 | 12.2 |
 | Nausea | 5.5 | 5.7 |
@@ -14,22 +14,22 @@ Table 1: Clinical Adverse Experiences Occurring In 1% or Greater of Patients
 | Dizziness | 2.9 | 2.3 |
 | Depression | 2.2 | 1.3 |
 | Urinary tract infection | 2.2 | 2.3 |
-| Headache | 2 | 1.9 |
+| Headache | 2.0 | 1.9 |
 | Dream abnormalities | 1.8 | 0.8 |
 | Dystonia | 1.8 | 0.8 |
 | Vomiting | 1.8 | 1.9 |
-| Upper respiratory infection | 1.8 | 1 |
+| Upper respiratory infection | 1.8 | 1.0 |
 | Dyspnea | 1.6 | 0.4 |
 | ‘On-Off’ phenomena | 1.6 | 1.1 |
 | Back pain | 1.6 | 0.6 |
 | Dry mouth | 1.4 | 1.1 |
 | Anorexia | 1.2 | 1.1 |
 | Diarrhea | 1.2 | 0.6 |
-| Insomnia | 1.2 | 1 |
-| Orthostatic hypotension | 1 | 1.1 |
-| Shoulder pain | 1 | 0.6 |
-| Chest pain | 1 | 0.8 |
-| Muscle cramps | 0.8 | 1 |
+| Insomnia | 1.2 | 1.0 |
+| Orthostatic hypotension | 1.0 | 1.1 |
+| Shoulder pain | 1.0 | 0.6 |
+| Chest pain | 1.0 | 0.8 |
+| Muscle cramps | 0.8 | 1.0 |
 | Paresthesia | 0.8 | 1.1 |
 | Urinary frequency | 0.8 | 1.1 |
 | Dyspepsia | 0.6 | 1.1 |
@@ -63,7 +63,7 @@ Urogenital: Urinary incontinence.
 
 Laboratory Tests: Decreased white blood cell count and serum potassium; increased BUN, serum creatinine and serum LDH; protein and glucose in the urine.
 
-The following adverse experiences have been reported in post-marketing experience with carbidopa and levodopa extended-release:
+The following adverse experiences have been reported in postmarketing experience with carbidopa and levodopa extended-release:
 
 Cardiovascular: Cardiac irregularities, syncope.
 
@@ -89,11 +89,11 @@ Hypersensitivity: Henoch-Schonlein purpura.
 
 Metabolic: Weight gain, edema.
 
-Nervous System/Psychiatric: Ataxia, depression with suicidal tendencies, dementia, euphoria, convulsions (however, a causal relationship has not been established); bradykinetic episodes, numbness, muscle twitching, blepharospasm (which may be taken as an early sign of excess dosage; consideration of dosage reduction may be made at this time), trismus, activation of latent Horner's syndrome, nightmares.
+Nervous System/Psychiatric: Ataxia, depression with suicidal tendencies, dementia, euphoria, convulsions (however, a causal relationship has not been established); bradykinetic episodes, numbness, muscle twitching, blepharospasm (which may be taken as an early sign of excess dosage; consideration of dosage reduction may be made at this time), trismus, activation of latent Horner’s syndrome, nightmares.
 
 Skin: Malignant melanoma (see also CONTRAINDICATIONS), increased sweating.
 
-Special Senses: Oculogyric crisis, mydriasis, diplopia.
+Special Senses: Oculogyric crises, mydriasis, diplopia.
 
 Urogenital: Urinary retention, priapism.
 

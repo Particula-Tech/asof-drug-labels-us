@@ -1,6 +1,6 @@
 # HOW SUPPLIED
 
-Carbidopa and Levodopa Extended-release Tablets, USP are available containing 25 mg of carbidopa, USP and 100 mg of levodopa, USP or 50 mg of carbidopa, USP and 200 mg of levodopa, USP.
+Carbidopa and Levodopa Extended-Release Tablets, USP are available containing 25 mg of carbidopa, USP and 100 mg of levodopa, USP or 50 mg of carbidopa, USP and 200 mg of levodopa, USP.
 
 The 25 mg/100 mg tablets are purple, oval, unscored tablets debossed with MYLAN on one side of the tablet and 88 on the other side of the tablet.
 They are available as follows:
@@ -12,13 +12,13 @@ They are available as follows:
 
 NDC 0378-0094-01 bottles of 100 tablets
 
+Storage and Handling: Store at 25°C (77°F); excursions permitted to 15° to 30°C (59° to 86°F).
+[See USP Controlled Room Temperature.]
+
 Dispense in a tight, light resistant container as defined in the USP using a child-resistant closure.
 
 Keep container tightly closed.
 
-Store at 25°C (77°F); excursions permitted to 15° to 30°C (59° to 86°F).
-[See USP Controlled Room Temperature.]
-
 Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-REVISED SEPTEMBER 2014 CBLVER:R13
+Revised: 2/2020 CBLVER:R14

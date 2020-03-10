@@ -2,7 +2,7 @@
 
 NDC 0378-0088-01
 
-Carbidopa and Levodopa Extended-release Tablets, USP 25 mg/ 100 mg
+Carbidopa and Levodopa Extended-Release Tablets, USP 25 mg/ 100 mg
 
 Rx only 100 Tablets
 
@@ -25,13 +25,13 @@ Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
 Mylan.com
 
-RM0088A4
+RM0088A5
 
 # PRINCIPAL DISPLAY PANEL - 50 mg/200 mg
 
 NDC 0378-0094-01
 
-Carbidopa and Levodopa Extended-release Tablets, USP 50 mg/ 200 mg
+Carbidopa and Levodopa Extended-Release Tablets, USP 50 mg/ 200 mg
 
 Rx only 100 Tablets
 
@@ -54,4 +54,4 @@ Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
 Mylan.com
 
-RM0094A6
+RM0094A7
