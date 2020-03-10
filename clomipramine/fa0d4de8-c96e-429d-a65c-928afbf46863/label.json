@@ -1,0 +1,26 @@
+{
+  "application_numbers": [
+    "ANDA211364"
+  ],
+  "inn": "clomipramine",
+  "labeler": "Leading Pharma, LLC",
+  "package_ndcs": [
+    "69315-165-01",
+    "69315-165-03",
+    "69315-166-01",
+    "69315-166-03",
+    "69315-166-09",
+    "69315-167-01",
+    "69315-167-03",
+    "69315-167-09"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "clomipramine hydrochloride",
+      "name": "Clomipramine Hydrochloride"
+    }
+  ],
+  "setid": "fa0d4de8-c96e-429d-a65c-928afbf46863",
+  "source": "dailymed"
+}
