@@ -7,7 +7,7 @@ A history of renal impairment may be a risk factor for the development of rhabdo
 Such patients merit closer monitoring for skeletal muscle effects.
 
 Atorvastatin, like other statins, occasionally causes myopathy, defined as muscle aches or muscle weakness in conjunction with increases in creatine phosphokinase (CPK) values > 10 times ULN.
-The concomitant use of higher doses of atorvastatin with certain drugs such as cyclosporine and strong CYP3A4 inhibitors (e.g., clarithromycin, itraconazole, and HIV protease inhibitors) increases the risk of myopathy/rhabdomyolysis.
+The concomitant use of higher doses of atorvastatin with certain drugs such as cyclosporine and strong cytochrome P450 3A4 (CYP3A4) inhibitors (e.g., clarithromycin, itraconazole, and HIV and HCV protease inhibitors) increases the risk of myopathy/rhabdomyolysis.
 
 There have been rare reports of immune-mediated necrotizing myopathy (IMNM), an autoimmune myopathy, associated with statin use.
 IMNM is characterized by: proximal muscle weakness and elevated serum creatine kinase, which persist despite discontinuation of statin treatment; muscle biopsy showing necrotizing myopathy without significant inflammation; improvement with immunosuppressive agents.
@@ -16,8 +16,8 @@ Myopathy should be considered in any patient with diffuse myalgias, muscle tende
 Patients should be advised to report promptly unexplained muscle pain, tenderness, or weakness, particularly if accompanied by malaise or fever or if muscle signs and symptoms persist after discontinuing atorvastatin calcium.
 Atorvastatin calcium therapy should be discontinued if markedly elevated CPK levels occur or myopathy is diagnosed or suspected.
 
-The risk of myopathy during treatment with drugs in this class is increased with concurrent administration of cyclosporine, fibric acid derivatives, erythromycin, clarithromycin, the hepatitis C protease inhibitor telaprevir, combinations of HIV protease inhibitors, including saquinavir plus ritonavir, lopinavir plus ritonavir, tipranavir plus ritonavir, darunavir plus ritonavir, fosamprenavir, and fosamprenavir plus ritonavir, niacin, or azole antifungals.
-Physicians considering combined therapy with atorvastatin calcium and fibric acid derivatives, erythromycin, clarithromycin, a combination of saquinavir plus ritonavir, lopinavir plus ritonavir, darunavir plus ritonavir, fosamprenavir, or fosamprenavir plus ritonavir, azole antifungals, or lipid-modifying doses of niacin should carefully weigh the potential benefits and risks and should carefully monitor patients for any signs or symptoms of muscle pain, tenderness, or weakness, particularly during the initial months of therapy and during any periods of upward dosage titration of either drug.
+The risk of myopathy during treatment with drugs in this class is increased with concurrent administration of the drugs listed in Table 2.
+Physicians considering combined therapy of atorvastatin calcium with any of these drugs should carefully weigh the potential benefits and risks and should carefully monitor patients for any signs or symptoms of muscle pain, tenderness, or weakness, particularly during the initial months of therapy and during any periods of upward dosage titration of either drug.
 Lower starting and maintenance doses of atorvastatin should be considered when taken concomitantly with the aforementioned drugs [see Drug Interactions (7)].
 Periodic creatine phosphokinase (CPK) determinations may be considered in such situations, but there is no assurance that such monitoring will prevent the occurrence of severe myopathy.
 
@@ -28,13 +28,11 @@ Drug Interactions Associated with Increased Risk of Myopathy/Rhabdomyolysis
 
 | Interacting Agents | Prescribing Recommendations |
 | --- | --- |
-| Cyclosporine, HIV protease inhibitors (tipranavir plus ritonavir), hepatitis C protease inhibitor (telaprevir) | Avoid atorvastatin |
-| HIV protease inhibitor (lopinavir plus ritonavir) | Use with caution and lowest dose necessary |
-| Clarithromycin, itraconazole, HIV protease inhibitors (saquinavir plus ritonavir*, darunavir plus ritonavir, fosamprenavir, fosamprenavir plus ritonavir) | Do not exceed 20 mg atorvastatin daily |
-| HIV protease inhibitor (nelfinavir) Hepatitis C protease inhibitor (boceprevir) | Do not exceed 40 mg atorvastatin daily |
-| * Use with caution and with the lowest dose necessary(12.3) |  |
-
-Cases of myopathy, including rhabdomyolysis, have been reported with atorvastatin coadministered with colchicine, and caution should be exercised when prescribing atorvastatin with colchicine [see Drug Interactions (7.11)].
+| Cyclosporine, tipranavir plus ritonavir, glecaprevir plus pibrentasvir, letermovir when coadministered with cyclosporine | Avoid atorvastatin |
+| Clarithromycin, itraconazole, saquinavir plus ritonavir*, darunavir plus ritonavir, fosamprenavir, fosamprenavir plus ritonavir, elbasvir plus grazoprevir, letermovir | Do not exceed 20 mg atorvastatin daily |
+| Nelfinavir | Do not exceed 40 mg atorvastatin daily |
+| Lopinavir plus ritonavir, simeprevir, fibric acid derivatives, erythromycin, azole antifungals, lipid-modifying doses of niacin, colchicine | Use with caution and lowest dose necessary |
+| * Use the lowest dose necessary (12.3) |  |
 
 Atorvastatin calcium therapy should be temporarily withheld or discontinued in any patient with an acute, serious condition suggestive of a myopathy or having a risk factor predisposing to the development of renal failure secondary to rhabdomyolysis (e.g., severe acute infection, hypotension, major surgery, trauma, severe metabolic, endocrine and electrolyte disorders, and uncontrolled seizures).
 

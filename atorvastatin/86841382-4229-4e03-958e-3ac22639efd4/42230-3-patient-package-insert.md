@@ -2,7 +2,7 @@
 
 Atorvastatin Calcium Tablets
 
-(a TOR va sta tin)
+(a tor′′ va stat′ in kal′ see um)
 
 Read the Patient Information that comes with atorvastatin calcium tablets before you start taking them and each time you get a refill.
 There may be new information.
@@ -42,7 +42,7 @@ Do not take atorvastatin calcium tablets if you:
 - are pregnant or think you may be pregnant, or are planning to become pregnant.
   Atorvastatin calcium tablets may harm your unborn baby.
   If you get pregnant, stop taking atorvastatin calcium tablets and call your doctor right away.
-- are breast feeding.
+- are breastfeeding.
   Atorvastatin can pass into your breast milk and may harm your baby.
 - have liver problems.
 - are allergic to atorvastatin calcium tablets or any of their ingredients.
@@ -72,6 +72,8 @@ Especially tell your doctor if you take medicines for:
 - birth control
 - heart failure
 - HIV or AIDS
+- hepatitis C virus
+- anti-virals
 
 Know all the medicines you take.
 Keep a list of them with you to show your doctor and pharmacist.
@@ -183,4 +185,4 @@ Teva Pharmaceuticals USA, Inc.
 North Wales, PA 19454
 
 Rev.
-C 9/2018
+D 12/2019

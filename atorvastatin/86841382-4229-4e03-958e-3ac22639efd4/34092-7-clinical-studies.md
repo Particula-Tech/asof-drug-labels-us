@@ -37,7 +37,7 @@ There was no significant difference between the treatment groups for angina, rev
 
 There were 61 deaths in the atorvastatin calcium group vs. 82 deaths in the placebo group (HR 0.73, p = 0.059).
 
-In the Treating to New Targets Study (TNT), the effect of atorvastatin 80 mg/day vs. atorvastatin 10 mg/day on the reduction in cardiovascular events was assessed in 10,001 subjects (94% white, 81% male, 38% ≥ 65 years) with clinically evident coronary heart disease who had achieved a target LDL-C level < 130 mg/dL after completing an 8 week, open-label, run-in period with atorvastatin 10 mg/day.
+In the Treating to New Targets Study (TNT), the effect of atorvastatin 80 mg/day vs. atorvastatin 10 mg/day on the reduction in cardiovascular events was assessed in 10,001 subjects (94% white, 81% male, 38% ≥ 65 years) with clinically evident coronary heart disease who had achieved a target LDL-C level < 130 mg/dL after completing an 8-week, open-label, run-in period with atorvastatin 10 mg/day.
 Subjects were randomly assigned to either 10 mg/day or 80 mg/day of atorvastatin and followed for a median duration of 4.9 years.
 The primary endpoint was the time-to-first occurrence of any of the following major cardiovascular events (MCVE): death due to CHD, non-fatal myocardial infarction, resuscitated cardiac arrest, and fatal and non-fatal stroke.
 The mean LDL-C, TC, TG, non-HDL, and HDL cholesterol levels at 12 weeks were 73, 145, 128, 98, and 47 mg/dL during treatment with 80 mg of atorvastatin and 99, 177, 152, 129, and 48 mg/dL during treatment with 10 mg of atorvastatin.
@@ -69,7 +69,7 @@ Overview of Efficacy Results in TNT
 | Cancer death | 75 | (1.5) | 85 | (1.7) | 1.13 (0.83, 1.55) |
 | Other non-CV death | 43 | (0.9) | 58 | (1.2) | 1.35 (0.91, 2.00) |
 | Suicide, homicide, and other traumatic non-CV death | 9 | (0.2) | 15 | (0.3) | 1.67 (0.73, 3.82) |
-| a Atorvastatin 80 mg: atorvastatin 10 mg b Secondary endpoints not included in primary endpoints * Component of other secondary endpointsHR = hazard ratio; CHD = coronary heart disease; CI = confidence interval; MI = myocardial infarction; CHF = congestive heart failure; CV = cardiovascular; PVD = peripheral vascular disease; CABG = coronary artery bypass graft Confidence intervals for the Secondary Endpoints were not adjusted for multiple comparisons |  |  |  |  |  |
+| a Atorvastatin 80 mg: atorvastatin 10 mg b Secondary endpoints not included in primary endpoint * Component of other secondary endpointsHR = hazard ratio; CHD = coronary heart disease; CI = confidence interval; MI = myocardial infarction; CHF = congestive heart failure; CV = cardiovascular; PVD = peripheral vascular disease; CABG = coronary artery bypass graft Confidence intervals for the Secondary Endpoints were not adjusted for multiple comparisons |  |  |  |  |  |
 
 Of the events that comprised the primary efficacy endpoint, treatment with atorvastatin 80 mg/day significantly reduced the rate of non-fatal, non-procedure related MI and fatal and non-fatal stroke, but not CHD death or resuscitated cardiac arrest (Table 6).
 Of the predefined secondary endpoints, treatment with atorvastatin 80 mg/day significantly reduced the rate of coronary revascularization, angina, and hospitalization for heart failure, but not peripheral vascular disease.
@@ -123,12 +123,12 @@ Mean Percentage Change From Baseline at Endpoint (Double-Blind, Randomized, Acti
 | Treatment(Daily Dose) | N | Total-C | LDL-C | Apo B | TG | HDL-C | Non-HDL-C/HDL-C |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Study 1 |  |  |  |  |  |  |  |
-| Atorvastatin 10 mg Lovastatin 20 mg 95% CI for Diff1 | 707191 | -27a-19-9.2, -6.5 | -36a-27-10.7, -7.1 | -282-20-10.0, -6.5 | -17a-6-15.2, -7.1 | +7+7-1.7, 2.0 | -37a-28-11.1, -7.1 |
+| Atorvastatin 10 mg Lovastatin 20 mg 95% CI for Diff1 | 707191 | -27a-19-9.2, -6.5 | -36a-27-10.7, -7.1 | -28a-20-10.0, -6.5 | -17a-6-15.2, -7.1 | +7+7-1.7, 2.0 | -37a-28-11.1, -7.1 |
 | Study 2 |  |  |  |  |  |  |  |
 | Atorvastatin 10 mgPravastatin 20 mg95% CI for Diff1 | 22277 | -25b-17-10.8, -6.1 | -35b-23-14.5, -8.2 | -27b-17-13.4, -7.4 | -17b-9-14.1, -0.7 | +6+8-4.9, 1.6 | -36b-28-11.5, -4.1 |
 | Study 3 |  |  |  |  |  |  |  |
-| Atorvastatin 10 mg Simvastatin 10 mg 95% CI for Diff1 | 13245 | -29c-24-8.7, -2.7 | -374-30-10.1, -2.6 | -34c-30-8.0, -1.1 | -23c-15-15.1, -0.7 | +7+7-4.3, 3.9 | -39c-33-9.6, -1.9 |
-| A negative value for the 95% CI for the difference between treatments favors atorvastatin calcium for all except HDL-C, for which a positive value favors atorvastatin calcium. If the range does not include 0, this indicates a statistically significant difference. a Significantly different from lovastatin, ANCOVA, p ≤ 0.05b Significantly different from pravastatin, ANCOVA, p ≤ 0.05c Significantly different from simvastatin, ANCOVA, p ≤ 0.05 |  |  |  |  |  |  |  |
+| Atorvastatin 10 mg Simvastatin 10 mg 95% CI for Diff1 | 13245 | -29c-24-8.7, -2.7 | -37c-30-10.1, -2.6 | -34c-30-8.0, -1.1 | -23c-15-15.1, -0.7 | +7+7-4.3, 3.9 | -39c-33-9.6, -1.9 |
+| 1 A negative value for the 95% CI for the difference between treatments favors atorvastatin calcium for all except HDL-C, for which a positive value favors atorvastatin calcium. If the range does not include 0, this indicates a statistically significant difference.a Significantly different from lovastatin, ANCOVA, p ≤ 0.05b Significantly different from pravastatin, ANCOVA, p ≤ 0.05c Significantly different from simvastatin, ANCOVA, p ≤ 0.05 |  |  |  |  |  |  |  |
 
 The impact on clinical outcomes of the differences in lipid-altering effects between treatments shown in Table 8 is not known.
 Table 8 does not contain data comparing the effects of atorvastatin 10 mg and higher doses of lovastatin, pravastatin, and simvastatin.
@@ -183,7 +183,7 @@ The mean baseline LDL-C value was 218.6 mg/dL (range: 138.5 to 385.0 mg/dL) in t
 The dosage of atorvastatin (once daily) was 10 mg for the first 4 weeks and uptitrated to 20 mg if the LDL-C level was > 130 mg/dL.
 The number of atorvastatin-treated patients who required uptitration to 20 mg after Week 4 during the double-blind phase was 78 (55.7%).
 
-Atorvastatin calcium significantly decreased plasma levels of total-C, LDL-C, triglycerides, and apolipoprotein B during the 26 week double-blind phase (see Table 11).
+Atorvastatin calcium significantly decreased plasma levels of total-C, LDL-C, triglycerides, and apolipoprotein B during the 26-week double-blind phase (see Table 11).
 
 Table 11.
 Lipid-Altering Effects of Atorvastatin Calcium in Adolescent Boys and Girls with Heterozygous Familial Hypercholesterolemia or Severe Hypercholesterolemia (Mean Percentage Change From Baseline at Endpoint in Intention-to-Treat Population)
