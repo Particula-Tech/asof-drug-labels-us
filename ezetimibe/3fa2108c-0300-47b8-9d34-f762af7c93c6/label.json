@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "NDA211617"
+  ],
+  "inn": "ezetimibe",
+  "labeler": "Esperion Therapeutics, Inc.",
+  "package_ndcs": [
+    "72426-818-03",
+    "72426-818-09",
+    "72426-818-99"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "bempedoic acid and ezetimibe",
+      "name": "Nexlizet"
+    }
+  ],
+  "setid": "3fa2108c-0300-47b8-9d34-f762af7c93c6",
+  "source": "dailymed"
+}
