@@ -4,7 +4,7 @@
 
 Systemic absorption of clindamycin has been demonstrated following topical use of clindamycin.
 Diarrhea, bloody diarrhea, and colitis (including pseudomembranous colitis) have been reported with the use of topical and systemic clindamycin.
-When significant diarrhea occurs, ACANYA Gel should be discontinued.
+If significant diarrhea occurs, ONEXTON Gel should be discontinued.
 
 Severe colitis has occurred following oral and parenteral administration of clindamycin with an onset of up to several weeks following cessation of therapy.
 Antiperistaltic agents such as opiates and diphenoxylate with atropine may prolong and/or worsen severe colitis.
@@ -16,7 +16,7 @@ Stool cultures for Clostridium difficile and stool assay for C. difficile toxin 
 
 ## 5.2 Ultraviolet Light and Environmental Exposure
 
-Minimize sun exposure including use of tanning beds or sun lamps following drug application.
+Minimize sun exposure (including use of tanning beds or sun lamps) following drug application.
 
 ## 5.3 Concomitant Topical Medications
 

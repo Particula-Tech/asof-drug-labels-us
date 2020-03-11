@@ -4,7 +4,7 @@ NDC 0187-3050-50
 
 Rx only
 
-ACANYA® (Clindamycin Phosphate and Benzoyl Peroxide) Gel, 1.2%/3.75%
+ONEXTON® (Clindamycin Phosphate and Benzoyl Peroxide) Gel, 1.2%/3.75%
 
 For Topical Use Only
 
