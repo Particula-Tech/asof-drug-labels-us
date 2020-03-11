@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA213004"
+  ],
+  "inn": "amoxicillin",
+  "labeler": "RedHill Biopharma Ltd",
+  "package_ndcs": [
+    "57841-1150-1",
+    "57841-1150-2"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE, DELAYED RELEASE",
+      "generic": "omeprazole magnesium, amoxicillin and rifabutin",
+      "name": "Talicia"
+    }
+  ],
+  "setid": "68c4e9dc-dbcf-4151-b6f7-5e4b9922b76f",
+  "source": "dailymed"
+}
