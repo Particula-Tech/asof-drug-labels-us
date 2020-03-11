@@ -21,7 +21,7 @@ Valsartan
 Limited data are available related to overdosage in humans.
 The most likely effect of overdose with valsartan would be peripheral vasodilation, hypotension, and tachycardia; bradycardia could occur from parasympathetic (vagal) stimulation.
 Depressed level of consciousness, circulatory collapse, and shock have been reported.
-If symptomatic hypotension should occur institute supportive treatment.
+If symptomatic hypotension should occur, institute supportive treatment.
 
 Valsartan is not removed from the plasma by hemodialysis.
 

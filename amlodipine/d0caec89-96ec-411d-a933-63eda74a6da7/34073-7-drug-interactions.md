@@ -8,28 +8,28 @@ Impact of Other Drugs on Amlodipine
 
 CYP3A Inhibitors
 
-Co-administration with CYP3A inhibitors (moderate and strong) results in increased systemic exposure to amlodipine and may require dose reduction.
-Monitor for symptoms of hypotension and edema when amlodipine is co-administered with CYP3A inhibitors to determine the need for dose adjustment [see Clinical Pharmacology (12.3)].
+Coadministration with CYP3A inhibitors (moderate and strong) results in increased systemic exposure to amlodipine and may require dose reduction.
+Monitor for symptoms of hypotension and edema when amlodipine is coadministered with CYP3A inhibitors to determine the need for dose adjustment [see Clinical Pharmacology (12.3)].
 
 CYP3A Inducers
 
 No information is available on the quantitative effects of CYP3A inducers on amlodipine.
-Blood pressure should be closely monitored when amlodipine is co-administered with CYP3A inducers (e.g. rifampicin, St. Johns Wort).
+Blood pressure should be closely monitored when amlodipine is coadministered with CYP3A inducers (e.g. rifampicin, St. John's Wort).
 
 Sildenafil
 
-Monitor for hypotension when sildenafil is co-administered with amlodipine [see Clinical Pharmacology (12.2)].
+Monitor for hypotension when sildenafil is coadministered with amlodipine [see Clinical Pharmacology (12.2)].
 
 Impact of Amlodipine on Other Drugs
 
 Simvastatin
 
-Co-administration of simvastatin with amlodipine increases the systemic exposure of simvastatin.
+Coadministration of simvastatin with amlodipine increases the systemic exposure of simvastatin.
 Limit the dose of simvastatin in patients on amlodipine to 20 mg daily [see Clinical Pharmacology (12.3)].
 
 Immunosuppressants
 
-Amlodipine may increase the systemic exposure of cyclosporine or tacrolimus when co-administered.
+Amlodipine may increase the systemic exposure of cyclosporine or tacrolimus when coadministered.
 Frequent monitoring of trough blood levels of cyclosporine and tacrolimus is recommended and adjust the dose when appropriate [see Clinical Pharmacology (12.3)].
 
 Valsartan

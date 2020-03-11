@@ -36,17 +36,17 @@ Tell your doctor about all of your medical conditions, including if you:
   See “What is the most important information I should know about EXFORGE?”
 - are breastfeeding or plan to breastfeed.
   EXFORGE is present in human milk.
-  It is not known whether EXFORGE effects your breastfed baby or milk production.
+  It is not known whether EXFORGE affects your breastfed baby or milk production.
   Do not breastfeed while you are taking EXFORGE.
 - have heart problems
 - have liver problems
 - have kidney problems
 - are vomiting or having a lot of diarrhea
-- have ever had a reaction called angioedema, to another blood pressure medicine.
+- have ever had a reaction called angioedema to another blood pressure medicine.
   Angioedema causes swelling of the face, lips, tongue, throat, and may cause difficulty breathing.
 
 Tell your doctor about all the medicines you take, including prescription and nonprescription medicines, vitamins, and herbal supplements.
-Some of your other medicines and EXFORGE could affect each other, causing serious side effects.
+Some of your other medicines and EXFORGE could affect each other, causing serious side affects.
 
 Especially tell your doctor if you take:
 
@@ -133,7 +133,7 @@ You may report side effects to FDA at 1-800-FDA-1088.
 
 How should I store EXFORGE?
 
-- Store EXFORGE at room temperature between 59°F to 86°F (15°C to 30°C).
+- Store EXFORGE at room temperature between 59°F and 86°F (15°C and 30°C).
 - Keep EXFORGE dry (protect it from moisture).
 
 Keep EXFORGE and all medicines out of the reach of children.
@@ -174,4 +174,4 @@ Distributed by: Novartis Pharmaceuticals Corporation East Hanover, New Jersey 07
 
 ©Novartis
 
-T2019-71 Revised: 06/2019
+T2020-29 Revised: March 2020

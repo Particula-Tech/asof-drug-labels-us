@@ -108,7 +108,7 @@ Following oral administration of valsartan alone peak plasma concentrations of v
 Absolute bioavailability is about 25% (range 10% to 35%).
 Food decreases the exposure (as measured by AUC) to valsartan by about 40% and peak plasma concentration (Cmax) by about 50%.
 
-The steady state volume of distribution of valsartan after intravenous administration is 17 L indicating that valsartan does not distribute into tissues extensively.
+The steady state volume of distribution of valsartan after intravenous administration is 17 L, indicating that valsartan does not distribute into tissues extensively.
 Valsartan is highly bound to serum proteins (95%), mainly serum albumin.
 
 Valsartan shows biexponential decay kinetics following intravenous administration with an average elimination half-life of about 6 hours.
@@ -167,7 +167,7 @@ In vitro data in human plasma indicate that amlodipine has no effect on the prot
 
 Impact of Other Drugs on Amlodipine
 
-Co-administered cimetidine, magnesium-and aluminum hydroxide antacids, sildenafil, and grapefruit juice have no impact on the exposure to amlodipine.
+Coadministered cimetidine, magnesium-and aluminum hydroxide antacids, sildenafil, and grapefruit juice have no impact on the exposure to amlodipine.
 
 CYP3A Inhibitors: Co-administration of a 180 mg daily dose of diltiazem with 5 mg amlodipine in elderly hypertensive patients resulted in a 60% increase in amlodipine systemic exposure.
 Erythromycin co-administration in healthy volunteers did not significantly change amlodipine systemic exposure.
@@ -175,14 +175,14 @@ However, strong inhibitors of CYP3A (e.g., itraconazole, clarithromycin) may inc
 
 Impact of Amlodipine on Other Drugs
 
-Co-administered amlodipine does not affect the exposure to atorvastatin, digoxin, ethanol and the warfarin prothrombin response time.
+Coadministered amlodipine does not affect the exposure to atorvastatin, digoxin, ethanol and the warfarin prothrombin response time.
 
-Simvastatin: Co-administration of multiple doses of 10 mg of amlodipine with 80 mg simvastatin resulted in a 77% increase in exposure to simvastatin compared to simvastatin alone [see Drug Interactions (7)].
+Simvastatin: Coadministration of multiple doses of 10 mg of amlodipine with 80 mg simvastatin resulted in a 77% increase in exposure to simvastatin compared to simvastatin alone [see Drug Interactions (7)].
 
-Cyclosporine: A prospective study in renal transplant patients (N=11) showed on an average of 40% increase in trough cyclosporine levels when concomitantly treated with amlodipine [see Drug Interactions (7)].
+Cyclosporine: A prospective study in renal transplant patients (N=11) showed an average of 40% increase in trough cyclosporine levels when concomitantly treated with amlodipine [see Drug Interactions (7)].
 
 Tacrolimus: A prospective study in healthy Chinese volunteers (N=9) with CYP3A5 expressers showed a 2.5-to 4-fold increase in tacrolimus exposure when concomitantly administered with amlodipine compared to tacrolimus alone.
-This finding was not observed in CYP3A5 non-expressers (N= 6).
+This finding was not observed in CYP3A5 non-expressers (N=6).
 However, a 3-fold increase in plasma exposure to tacrolimus in a renal transplant patient (CYP3A5 non-expresser) upon initiation of amlodipine for the treatment of post-transplant hypertension resulting in reduction of tacrolimus dose has been reported.
 Irrespective of the CYP3A5 genotype status, the possibility of an interaction cannot be excluded with these drugs [see Drug Interactions (7)].
 
