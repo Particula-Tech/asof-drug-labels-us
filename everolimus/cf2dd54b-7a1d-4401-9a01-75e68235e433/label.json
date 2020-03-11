@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "ANDA206133"
+  ],
+  "inn": "everolimus",
+  "labeler": "West-Ward Pharmaceuticals Corp.",
+  "package_ndcs": [
+    "0054-0470-21",
+    "0054-0471-21",
+    "0054-0472-21"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "everolimus",
+      "name": "Everolimus"
+    }
+  ],
+  "setid": "cf2dd54b-7a1d-4401-9a01-75e68235e433",
+  "source": "dailymed"
+}

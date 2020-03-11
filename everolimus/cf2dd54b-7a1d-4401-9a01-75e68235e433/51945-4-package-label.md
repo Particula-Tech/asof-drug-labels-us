@@ -1,0 +1,23 @@
+# PACKAGE/LABEL PRINCIPAL DISPLAY PANEL
+
+Everolimus Tablets, 0.25 mg
+
+0054-0470-21
+
+Rx only
+
+# PACKAGE/LABEL PRINCIPAL DISPLAY PANEL
+
+Everolimus Tablets, 0.5 mg
+
+0054-0471-21
+
+Rx only
+
+# PACKAGE/LABEL PRINCIPAL DISPLAY PANEL
+
+Everolimus Tablets, 0.75 mg
+
+0054-0472-21
+
+Rx only
