@@ -13,3 +13,18 @@ Instruct patients to report to their health care provider at the earliest onset 
 
 This product's label may have been updated.
 For current full prescribing information, please visit www.pfizer.com.
+
+Pregnancy
+
+Advise pregnant women to notify their healthcare provider if they become pregnant or intend to become pregnant during treatment with GEODON.
+Advise patients that GEODON may cause extrapyramidal and/or withdrawal symptoms (agitation, hypertonia, hypotonia, tremor, somnolence, respiratory distress, and feeding disorder) in a neonate.
+Advise patients that there is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to GEODON during pregnancy [see Use in Specific Populations (8.1)].
+
+Lactation
+
+Advise breastfeeding women using GEODON to monitor infants for excess sedation, irritability, poor feeding, and extrapyramidal symptoms (tremors, and abnormal muscle movements) and to seek medical care if they notice these signs [see Use in Specific Populations (8.2)].
+
+Infertility
+
+Advise females of reproductive potential that GEODON may impair fertility due to an increase in serum prolactin levels.
+The effects on fertility are reversible [see Warnings and Precautions (5.15) and Use in Specific Populations (8.3)].
