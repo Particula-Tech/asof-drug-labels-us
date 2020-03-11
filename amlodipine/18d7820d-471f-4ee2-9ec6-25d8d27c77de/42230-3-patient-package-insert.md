@@ -38,7 +38,7 @@ Tell your doctor about all of your medical conditions, including if you:
   See “What is the most important information I should know about EXFORGE HCT?”
 - are breastfeeding or plan to breastfeed.
   EXFORGE HCT is present in human milk.
-  It is not known whether EXFORGE HCT effects your breastfed baby or milk production.
+  It is not known whether EXFORGE HCT affects your breastfed baby or milk production.
   Do not breastfeed while you are taking EXFORGE HCT.
 - are allergic to any of the ingredients in EXFORGE HCT.
   See the end of this leaflet for a list of the ingredients in EXFORGE HCT.
@@ -107,11 +107,11 @@ EXFORGE HCT may cause serious side effects including:
 - low blood pressure (hypotension).
   Low blood pressure is most likely to happen if you:
   - take water pills
-  - are on a low salt diet
+  - are on a low-salt diet
   - have heart problems
   - get dialysis treatments
   - get sick with vomiting or diarrhea
-  - drink alcohol.
+  - drink alcohol
 
 Lie down if you feel faint or dizzy.
 If you faint (lose consciousness), stop taking EXFORGE HCT.
@@ -156,7 +156,7 @@ You may report side effects to FDA at 1-800-FDA-1088.
 
 How should I store EXFORGE HCT?
 
-- Store EXFORGE HCT at room temperature between 59°F to 86°F (15°C to 30°C).
+- Store EXFORGE HCT at room temperature between 59°F and 86°F (15°C and 30°C).
 - Keep EXFORGE HCT dry (protect it from moisture).
 
 Keep EXFORGE HCT and all medicines out of the reach of children.
@@ -171,7 +171,7 @@ It may harm them.
 This patient information leaflet summarizes the most important information about EXFORGE HCT.
 If you would like more information about EXFORGE HCT, talk with your doctor.
 You can ask your doctor or pharmacist for information about EXFORGE HCT that is written for health professionals.
-For more information go to www.EXFORGE.com or call 1-888-839-3674.
+For more information, go to www.EXFORGE.com or call 1-888-839-3674.
 
 What are the ingredients in EXFORGE HCT?
 
@@ -194,4 +194,4 @@ Distributed by: Novartis Pharmaceuticals Corporation East Hanover, New Jersey 07
 
 © Novartis
 
-T2019-73 Revised: 06/2019
+T2020-27 Revised: March 2020

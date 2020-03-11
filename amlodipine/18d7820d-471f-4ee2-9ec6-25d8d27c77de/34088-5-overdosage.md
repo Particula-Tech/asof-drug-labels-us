@@ -26,8 +26,7 @@ Depressed level of consciousness, circulatory collapse, and shock have been repo
 
 Valsartan is not removed from the plasma by hemodialysis.
 
-Valsartan was without grossly observable adverse effects at single oral doses up to 2000 mg/kg in rats and up to 1000 mg/kg in marmosets, except for salivation and diarrhea in the rat and vomiting in the marmoset at the highest dose (60 and 31 times, respectively, the MRHD on a mg/m2 basis).
-(Calculations assume an oral dose of 320 mg/day and a 60 kg patient.)
+Valsartan was without grossly observable adverse effects at single oral doses up to 2000 mg/kg in rats and up to 1000 mg/kg in marmosets, except for salivation and diarrhea in the rat and vomiting in the marmoset at the highest dose (60 and 31 times, respectively, the MRHD on a mg/m2 basis) (Calculations assume an oral dose of 320 mg/day and a 60-kg patient).
 
 Hydrochlorothiazide
 
@@ -35,8 +34,7 @@ The degree to which hydrochlorothiazide is removed by hemodialysis has not been 
 The most common signs and symptoms observed in patients are those caused by electrolyte depletion (hypokalemia, hypochloremia, hyponatremia) and dehydration resulting from excessive diuresis.
 If digitalis has also been administered, hypokalemia may accentuate cardiac arrhythmias.
 
-The oral LD50 of hydrochlorothiazide is greater than 10 g/kg in both mice and rats, 2000 and 4000 times, respectively, the MRHD on a mg/m2 basis.
-(Calculations assume an oral dose of 25 mg/day and a 60-kg patient.)
+The oral LD50 of hydrochlorothiazide is greater than 10 g/kg in both mice and rats, 2000 and 4000 times, respectively, the MRHD on a mg/m2 basis (Calculations assume an oral dose of 25 mg/day and a 60-kg patient).
 
 Valsartan and Hydrochlorothiazide
 

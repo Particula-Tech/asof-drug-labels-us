@@ -17,7 +17,7 @@ In the U.S. general population, the estimated background risk of major birth def
 
 Clinical Considerations
 
-Disease-associated maternal and/or embryo/fetal risk
+Disease-Associated Maternal and/or Embryo/Fetal Risk
 
 Hypertension in pregnancy increases the maternal risk for pre-eclampsia, gestational diabetes, premature delivery, and delivery complications (e.g., need for cesarean section, and post-partum hemorrhage).
 Hypertension increases the fetal risk for intrauterine growth restriction and intrauterine death.
@@ -25,7 +25,7 @@ Pregnant women with hypertension should be carefully monitored and managed accor
 
 Fetal/Neonatal Adverse Reactions
 
-Valsartan:
+Valsartan
 
 Oligohydramnios in pregnant women who use drugs affecting the renin-angiotensin system in the second and third trimesters of pregnancy can result in the following: reduced fetal renal function leading to anuria and renal failure, fetal lung hypoplasia, skeletal deformations, including skull hypoplasia, hypotension and death.
 
@@ -37,7 +37,7 @@ Closely observe neonates with histories of in utero exposure to Exforge HCT for 
 In neonates with a history of in utero exposure to Exforge HCT, if oliguria or hypotension occurs, support blood pressure and renal perfusion.
 Exchange transfusions or dialysis may be required as a means of reversing hypotension and replacing renal function.
 
-Hydrochlorothiazide:
+Hydrochlorothiazide
 
 Thiazides can cross the placenta, and concentrations reached in the umbilical vein approach those in the maternal plasma.
 Hydrochlorothiazide, like other diuretics, can cause placental hypoperfusion.
@@ -50,12 +50,12 @@ Data
 
 Animal Data
 
-Valsartan and Amlodipine:
+Valsartan and Amlodipine
 
 In rats, administered 20 mg/kg/day amlodipine plus 320 mg/kg/day valsartan, treatment-related maternal and fetal effects (developmental delays and alterations noted in the presence of significant maternal toxicity) were noted with the high dose combination.
 This corresponds to dose multiples of 9 and 19.5 times, respectively, the maximum recommended human dose (MRHD) of 10 mg/day for amlodipine and 320 mg/day for valsartan (based on body surface area and considering a 60 kg patient).
 
-Hydrochlorothiazide:
+Hydrochlorothiazide
 
 No teratogenic effects were observed when hydrochlorothiazide was administered to mice and rats via gavage at doses of up to 3000 and 1000 mg/kg/day (608 and 405 times the MRHD), on gestation days 6 through 15.
 
@@ -95,7 +95,8 @@ No dose adjustment is required in patients with mild (CrCl 60 to 90 mL/min) or m
 
 Amlodipine
 
-Exposure to amlodipine is increased in patients with hepatic insufficiency, The recommended initial dose of amlodipine in patients with hepatic impairment is 2.5 mg, which is not an available strength with Exforge HCT [see Clinical Pharmacology (12.3)].
+Exposure to amlodipine is increased in patients with hepatic insufficiency.
+The recommended initial dose of amlodipine in patients with hepatic impairment is 2.5 mg, which is not an available strength with Exforge HCT [see Clinical Pharmacology (12.3)].
 
 Valsartan
 

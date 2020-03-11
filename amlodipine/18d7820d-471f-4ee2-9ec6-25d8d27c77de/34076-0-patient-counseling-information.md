@@ -14,4 +14,4 @@ Caution all patients that inadequate fluid intake, excessive perspiration, diarr
 
 Potassium Supplements: Advise patients not to use salt substitutes without consulting their healthcare provider [see Drug Interactions (7)].
 
-T2019-72
+T2020-26

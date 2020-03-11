@@ -10,13 +10,13 @@ Its empirical formula is C20H25ClN2O5•C6H6O3S and its molecular weight is 567.
 
 Valsartan, USP is a nonpeptide, orally active, and specific angiotensin II antagonist acting on the AT1 receptor subtype.
 Valsartan is a white to practically white fine powder, soluble in ethanol and methanol and slightly soluble in water.
-Valsartan’s chemical name is N-(1-oxopentyl)-N-[[2′-(1H-tetrazol-5-yl) [1,1′-biphenyl]-4-yl]methyl]-L-valine; its structural formula is:
+Valsartan’s chemical name is N-(1-oxopentyl)-N-[[2′-(1H-tetrazol-5-yl)[1,1′-biphenyl]-4-yl]methyl]-L-valine; its structural formula is:
 
 Its empirical formula is C24H29N5O3 and its molecular weight is 435.5.
 
 Hydrochlorothiazide, USP is a white, or practically white, practically odorless, crystalline powder.
 It is slightly soluble in water; freely soluble in sodium hydroxide solution, in n-butylamine, and in dimethylformamide; sparingly soluble in methanol; and insoluble in ether, in chloroform, and in dilute mineral acids.
-Hydrochlorothiazide is chemically described as 6-chloro-3,4-dihydro-2H-1,2,4-benzothiadiazine-7- sulfonamide 1,1-dioxide.
+Hydrochlorothiazide is chemically described as 6-chloro-3,4-dihydro-2H-1,2,4-benzothiadiazine-7-sulfonamide 1,1-dioxide.
 
 Hydrochlorothiazide is a thiazide diuretic.
 Its empirical formula is C7H8ClN3O4S2, its molecular weight is 297.73, and its structural formula is:
