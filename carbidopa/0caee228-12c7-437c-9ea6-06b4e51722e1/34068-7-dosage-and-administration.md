@@ -30,7 +30,7 @@ Therapy should be individualized and adjusted according to the desired therapeut
 At least 70 to 100 mg of carbidopa per day should be provided.
 When a greater proportion of carbidopa is required, one tablet of SINEMET 25-100 may be substituted for each tablet of SINEMET 10-100.
 When more levodopa is required, SINEMET 25-250 should be substituted for SINEMET 25-100 or SINEMET 10-100.
-If necessary, the dosage of carbidopa levodopa 25-250 may be increased by one-half or one tablet every day or every other day to a maximum of eight tablets a day.
+If necessary, the dosage of carbidopa and levodopa 25-250 may be increased by one-half or one tablet every day or every other day to a maximum of eight tablets a day.
 Experience with total daily dosages of carbidopa greater than 200 mg is limited.
 
 Because both therapeutic and adverse responses occur more rapidly with SINEMET than with levodopa alone, patients should be monitored closely during the dose adjustment period.

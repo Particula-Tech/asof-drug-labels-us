@@ -1,5 +1,7 @@
 # HOW SUPPLIED
 
+## For SINEMET Manufactured by Mylan
+
 No. 3916A — SINEMET 25-100 Tablets are yellow, round, uncoated tablets, that are coded "650" on one side and plain on the other.
 They are supplied as follows:
 
@@ -14,6 +16,23 @@ No. 3917 — SINEMET 25-250 Tablets are light dapple-blue, round, uncoated table
 They are supplied as follows:
 
 NDC 0006-3917-68 bottles of 100.
+
+## For SINEMET Manufactured by Savio
+
+No. 6724 — SINEMET 25-100 Tablets are yellow oval tablets that are plain on one side, with "650" and a score line on the other.
+They are supplied as follows:
+
+NDC 0006-6724-68 bottles of 100.
+
+No. 6722 — SINEMET 10-100 Tablets are dark dapple-blue oval tablets that are plain on one side, with "647" and a score line on the other.
+They are supplied as follows:
+
+NDC 0006-6722-68 bottles of 100.
+
+No. 6723 — SINEMET 25-250 Tablets are light dapple-blue oval tablets that are plain on one side, with "654" and a score line on the other.
+They are supplied as follows:
+
+NDC 0006-6723-68 bottles of 100.
 
 ## Storage and Handling
 

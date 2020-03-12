@@ -49,7 +49,7 @@ Laboratory Tests
 
 Decreased hemoglobin and hematocrit; abnormalities in alkaline phosphatase, SGOT (AST), SGPT (ALT), LDH, bilirubin, BUN, Coombs test; elevated serum glucose; white blood cells, bacteria, and blood in the urine.
 
-Other adverse reactions that have been reported with levodopa alone and with various carbidopa levodopa formulations, and may occur with SINEMET are:
+Other adverse reactions that have been reported with levodopa alone and with various carbidopa and levodopa formulations, and may occur with SINEMET are:
 
 Body as a Whole
 

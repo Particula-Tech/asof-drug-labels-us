@@ -35,7 +35,7 @@ There is insufficient information to establish that dose reduction will eliminat
 
 ## Hyperpyrexia and Confusion
 
-Sporadic cases of a symptom complex resembling neuroleptic malignant syndrome (NMS) have been reported in association with dose reductions or withdrawal of certain antiparkinsonian agents such as levodopa, carbidopa levodopa, or carbidopa levodopa extended release.
+Sporadic cases of a symptom complex resembling neuroleptic malignant syndrome (NMS) have been reported in association with dose reductions or withdrawal of certain antiparkinsonian agents such as levodopa, carbidopa and levodopa, or carbidopa and levodopa extended release.
 Therefore, patients should be observed carefully when the dosage of levodopa is reduced abruptly or discontinued, especially if the patient is receiving neuroleptics.
 
 NMS is an uncommon but life-threatening syndrome characterized by fever or hyperthermia.
@@ -91,9 +91,9 @@ Ideally, periodic skin examinations should be performed by appropriately qualifi
 
 ## Information for Patients
 
-The patient should be informed that SINEMET is an immediate-release formulation of carbidopa levodopa that is designed to begin release of ingredients within 30 minutes.
+The patient should be informed that SINEMET is an immediate-release formulation of carbidopa and levodopa that is designed to begin release of ingredients within 30 minutes.
 It is important that SINEMET be taken at regular intervals according to the schedule outlined by the physician.
-The patient should be cautioned not to change the prescribed dosage regimen and not to add any additional antiparkinson medications, including other carbidopa levodopa preparations, without first consulting the physician.
+The patient should be cautioned not to change the prescribed dosage regimen and not to add any additional antiparkinson medications, including other carbidopa and levodopa preparations, without first consulting the physician.
 
 Patients should be advised that sometimes a 'wearing-off' effect may occur at the end of the dosing interval.
 The physician should be notified if such response poses a problem to lifestyle.
@@ -104,7 +104,7 @@ Although the color appears to be clinically insignificant, garments may become d
 The patient should be advised that a change in diet to foods that are high in protein may delay the absorption of levodopa and may reduce the amount taken up in the circulation.
 Excessive acidity also delays stomach emptying, thus delaying the absorption of levodopa.
 Iron salts (such as in multivitamin tablets) may also reduce the amount of levodopa available to the body.
-The above factors may reduce the clinical effectiveness of the levodopa or carbidopa levodopa therapy.
+The above factors may reduce the clinical effectiveness of the levodopa or carbidopa and levodopa therapy.
 
 Patients should be alerted to the possibility of sudden onset of sleep during daily activities, in some cases without awareness or warning signs, when they are taking dopaminergic agents, including levodopa.
 Patients should be advised to exercise caution while driving or operating machinery and that if they have experienced somnolence and/or sudden sleep onset, they must refrain from these activities.
@@ -126,8 +126,8 @@ SINEMET may cause a false-positive reaction for urinary ketone bodies when a tes
 This reaction will not be altered by boiling the urine specimen.
 False-negative tests may result with the use of glucose-oxidase methods of testing for glucosuria.
 
-Cases of falsely diagnosed pheochromocytoma in patients on carbidopa levodopa therapy have been reported very rarely.
-Caution should be exercised when interpreting the plasma and urine levels of catecholamines and their metabolites in patients on levodopa or carbidopa levodopa therapy.
+Cases of falsely diagnosed pheochromocytoma in patients on carbidopa and levodopa therapy have been reported very rarely.
+Caution should be exercised when interpreting the plasma and urine levels of catecholamines and their metabolites in patients on levodopa or carbidopa and levodopa therapy.
 
 ## Drug Interactions
 
@@ -137,7 +137,7 @@ Symptomatic postural hypotension occurred when SINEMET was added to the treatmen
 Therefore, when therapy with SINEMET is started, dosage adjustment of the antihypertensive drug may be required.
 
 For patients receiving MAO inhibitors (Type A or B), see CONTRAINDICATIONS.
-Concomitant therapy with selegiline and carbidopa levodopa may be associated with severe orthostatic hypotension not attributable to carbidopa levodopa alone (see CONTRAINDICATIONS).
+Concomitant therapy with selegiline and carbidopa and levodopa may be associated with severe orthostatic hypotension not attributable to carbidopa and levodopa alone (see CONTRAINDICATIONS).
 
 There have been rare reports of adverse reactions, including hypertension and dyskinesia, resulting from the concomitant use of tricyclic antidepressants and SINEMET.
 
