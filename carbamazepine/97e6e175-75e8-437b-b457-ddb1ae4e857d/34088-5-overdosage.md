@@ -4,7 +4,7 @@
 
 Lowest known lethal dose: adults, 3.2 g (a 24-year-old woman died of a cardiac arrest and a 24-year-old man died of pneumonia and hypoxic encephalopathy); children, 4 g (a 14-year-old girl died of a cardiac arrest), 1.6 g (a 3-year-old girl died of aspiration pneumonia).
 
-Oral LD 50 in animals (mg/kg): mice, 1100 to 3750; rats, 3850 to 4025; rabbits, 1500 to 2680; guinea pigs, 920.
+Oral LD50 in animals (mg/kg): mice, 1100 to 3750; rats, 3850 to 4025; rabbits, 1500 to 2680; guinea pigs, 920.
 
 ## Signs and Symptoms
 
@@ -62,6 +62,6 @@ Surveillance: Respiration, cardiac function (ECG monitoring), blood pressure, bo
 
 Treatment of Blood Count Abnormalities: If evidence of significant bone marrow depression develops, the following recommendations are suggested: (1) stop the drug, (2) perform daily CBC, platelet, and reticulocyte counts, (3) do a bone marrow aspiration and trephine biopsy immediately and repeat with sufficient frequency to monitor recovery.
 
-Special periodic studies might be helpful as follows: (1) white cell and platelet antibodies, (2) 59Fe-ferrokinetic studies, (3) peripheral blood cell typing, (4) cytogenetic studies on marrow and peripheral blood, (5) bone marrow culture studies for colony-forming units, (6) hemoglobin electrophoresis for A 2 and F hemoglobin, and (7) serum folic acid and B 12 levels.
+Special periodic studies might be helpful as follows: (1) white cell and platelet antibodies, (2) 59Fe-ferrokinetic studies, (3) peripheral blood cell typing, (4) cytogenetic studies on marrow and peripheral blood, (5) bone marrow culture studies for colony-forming units, (6) hemoglobin electrophoresis for A2 and F hemoglobin, and (7) serum folic acid and B12 levels.
 
 A fully developed aplastic anemia will require appropriate, intensive monitoring and therapy, for which specialized consultation should be sought.

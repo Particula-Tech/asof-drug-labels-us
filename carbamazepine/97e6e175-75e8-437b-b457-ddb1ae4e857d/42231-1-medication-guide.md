@@ -16,7 +16,8 @@ Stopping carbamazepine tablets or chewable tablets suddenly can cause serious pr
 
 Carbamazepine tablets or chewable tablets can cause serious side effects, including:
 
-1.Carbamazepine tablets or chewable tablets may cause rare but serious skin rashes that may lead to death.
+1.
+Carbamazepine tablets or chewable tablets may cause rare but serious skin rashes that may lead to death.
 These serious skin reactions are more likely to happen when you begin taking carbamazepine tablets or chewable tablets within the first four months of treatment but may occur at later times.
 These reactions can happen in anyone, but are more likely in people of Asian descent.
 If you are of Asian descent, you may need a genetic blood test before you take carbamazepine tablets or chewable tablets to see if you are at a higher risk for serious skin reactions with this medicine.
@@ -37,6 +38,9 @@ Symptoms may include:
 - bleeding gums or nose bleeds
 - severe fatigue or weakness
 
+3 Carbamazepine tablets or chewable tablets may cause allergic reactions or serious problems, which may affect organs and other parts of your body like the liver or blood cells.
+You may or may not have a rash with these types of reactions.
+
 Call your healthcare provider right away if you have any of the following:
 
 - swelling of your face, eyes, lips, or tongue
@@ -47,8 +51,11 @@ Call your healthcare provider right away if you have any of the following:
 - fever, swollen glands, or sore throat that do not go away or come and go
 - trouble swallowing or breathing
 - hives
+- yellowing of your skin or eyes
+- severe fatigue or weakness
+- severe muscle pain
 
-3.
+4.
 Like other antiepileptic drugs, carbamazepine tablets or chewable tablets may cause suicidal thoughts or actions in a very small number of people, about 1 in 500.
 
 Call your healthcare provider right away if you have any of these symptoms, especially if they are new, worse, or worry you:
@@ -214,7 +221,7 @@ This Medication Guide summarizes the most important information about carbamazep
 If you would like more information, talk with your healthcare provider.
 You can ask your pharmacist or healthcare provider for the full prescribing information about carbamazepine tablets or chewable tablets that is written for health professionals.
 
-For more information, call Torrent Pharma Inc. at 1- 800-912-9561.
+For more information, call Torrent Pharma Inc. at 1-800-912-9561.
 
 What are the ingredients in carbamazepine tablets or chewable tablets?
 
@@ -232,17 +239,10 @@ Trademarks are the property of their respective owners.
 
 Manufactured by:
 
-TORRENT PHARMACEUTICALS LTD., Indrad-382 721, Dist.
-Mehsana, INDIA.
+TORRENT PHARMACEUTICALS LTD., INDIA.
 
-OR
+Manufactured for:
 
-Manufactured by:
+TORRENT PHARMA INC., Basking Ridge, NJ 07920.
 
-TORRENT PHARMACEUTICALS LTD., Bharuch-392 130, INDIA.
-
-For:
-
-TORRENT PHARMA INC., 150 Allen Road, Suite 102, Basking Ridge, NJ 07920.
-
-8068523 Revised April 2018
+8078199 Revised March 2020
