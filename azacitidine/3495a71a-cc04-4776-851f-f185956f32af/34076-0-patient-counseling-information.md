@@ -22,5 +22,5 @@ Lactation Advise patients to avoid breastfeeding while receiving VIDAZA [see Use
 |  | 04013 Latina Scalo (Lt) |
 |  | Italy |
 
-VIDAZA® is a registered trademark of Celgene Corporation. © 2004-2018 Celgene Corporation, All Rights Reserved.
-VIDPI.13 9/18
+VIDAZA® is a registered trademark of Celgene Corporation. © 2004-2020 Celgene Corporation, All Rights Reserved.
+VIDPI.14
