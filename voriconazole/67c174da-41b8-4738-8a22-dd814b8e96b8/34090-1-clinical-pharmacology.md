@@ -106,20 +106,11 @@ However, the safety profile of voriconazole in young and elderly subjects was si
 
 #### Pediatric Patients
 
-The recommended doses in pediatric patients were based on a population pharmacokinetic analysis of data obtained from 112 immunocompromised pediatric patients aged 2 to less than 12 years and 26 immunocompromised pediatric patients aged 12 to less than 17 years.
-
-A comparison of the pediatric and adult population pharmacokinetic data indicated that the predicted total exposure (AUC12) in pediatric patients aged 2 to less than 12 years following administration of a 9 mg/kg intravenous loading dose was comparable to that in adults following a 6 mg/kg intravenous loading dose.
-The predicted total exposures in pediatric patients aged 2 to less than 12 years following intravenous maintenance doses of 4 and 8 mg/kg twice daily were comparable to those in adults following 3 and 4 mg/kg IV twice daily, respectively.
-
-The predicted total exposure in pediatric patients aged 2 to less than 12 years following an oral maintenance dose of 9 mg/kg (maximum of 350 mg) twice daily was comparable to that in adults following 200 mg oral twice daily.
-An 8 mg/kg intravenous dose will provide voriconazole exposure approximately 2-fold higher than a 9 mg/kg oral dose in pediatric patients aged 2 to less than 12 years.
-
 Voriconazole exposures in the majority of pediatric patients aged 12 to less than 17 years were comparable to those in adults receiving the same dosing regimens.
 However, lower voriconazole exposure was observed in some pediatric patients aged 12 to less than 17 years with low body weight compared to adults [see Dosage and Administration (2.4)].
 
-Limited voriconazole trough plasma samples were collected in pediatric patients aged 2 to less than 18 years with IA or invasive candidiasis including candidemia, and EC in two prospective, open-label, non-comparative, multicenter clinical studies.
-In eleven pediatric patients aged 2 to less than 12 years and aged 12 to 14 years, with body weight less than 50 kg, who received 9 mg/kg intravenously every 12 hours as a loading dose on the first day of treatment, followed by 8 mg/kg every 12 hours as an intravenous maintenance dose, or 9 mg/kg every 12 hours as an oral maintenance dose, the mean trough concentration of voriconazole was 3.6 mcg/mL (range 0.3 to 10.7 mcg/mL).
-In four pediatric patients aged 2 to less than 12 years and aged 12 to 14 years, with body weight less than 50 kg, who received 4 mg/kg intravenously every 12 hours, the mean trough concentration of voriconazole was 0.9 mcg/mL (range 0.3 to 1.6 mcg/mL) [see Clinical Studies (14.5)].
+Additional pediatric use information is approved for PF PRISM C.V.’s VFEND (voriconazole).
+However, due to PF PRISM C.V.’s marketing exclusivity rights, this drug product is not labeled with that information.
 
 #### Patients with Hepatic Impairment
 
