@@ -1,6 +1,10 @@
+Medication Guide available at
+
+www.glenmarkpharma-us.com/medguides
+
 Manufactured by:
 
-Glenmark Pharmaceuticals Ltd.
+Glenmark Pharmaceuticals Limited
 
 Colvale-Bardez, Goa 403 513, India
 
@@ -13,6 +17,6 @@ Mahwah, NJ 07430
 Questions?
 1 (888) 721-7115
 
-www.glenmarkpharma.com/usa
+www.glenmarkpharma-us.com
 
-June 2019
+July 2019
