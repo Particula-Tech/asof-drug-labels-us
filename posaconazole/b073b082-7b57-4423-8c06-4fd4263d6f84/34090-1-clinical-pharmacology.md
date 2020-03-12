@@ -127,10 +127,10 @@ Table 19: The Mean (%CV) [min-max] Posaconazole Pharmacokinetic Parameters Follo
 
 | Dose (mg) | Cmax (ng/mL) | TmaxMedian [min-max]. (hr) | AUC (I) (ng∙hr/mL) | CL/F (L/hr) | t½ (hr) |
 | --- | --- | --- | --- | --- | --- |
-| 200 mg fasted (n=20)n=15 for AUC (I), CL/F, and t ½ | 132 (50) [45-267] | 3.50 [1.5-36The subject with Tmax of 36 hrs had relatively constant plasma levels over 36 hrs (1.7 ng/mL difference between 4 hrs and 36 hrs).] | 4179 (31) [2705-7269] | 51 (25) [28-74] | 23.5 (25) [15.3-33.7] |
+| 200 mg fasted (n=20)n=15 for AUC (I), CL/F, and t½ | 132 (50) [45-267] | 3.50 [1.5-36The subject with Tmax of 36 hrs had relatively constant plasma levels over 36 hrs (1.7 ng/mL difference between 4 hrs and 36 hrs).] | 4179 (31) [2705-7269] | 51 (25) [28-74] | 23.5 (25) [15.3-33.7] |
 | 200 mg nonfat (n=20) | 378 (43) [131-834] | 4 [3-5] | 10,753 (35) [4579-17,092] | 21 (39) [12-44] | 22.2 (18) [17.4-28.7] |
 | 200 mg high fat (54 gm fat) (n=20) | 512 (34) [241-1016] | 5 [4-5] | 15,059 (26) [10,341-24,476] | 14 (24) [8.2-19] | 23.0 (19) [17.2-33.4] |
-| 400 mg fasted (n=23)n=10 for AUC (I), CL/F, and t ½ | 121 (75) [27-366] | 4 [2-12] | 5258 (48) [2834-9567] | 91 (40) [42-141] | 27.3 (26) [16.8-38.9] |
+| 400 mg fasted (n=23)n=10 for AUC (I), CL/F, and t½ | 121 (75) [27-366] | 4 [2-12] | 5258 (48) [2834-9567] | 91 (40) [42-141] | 27.3 (26) [16.8-38.9] |
 | 400 mg with liquid nutritional supplement (14 gm fat) (n=23) | 355 (43) [145-720] | 5 [4-8] | 11,295 (40) [3865-20,592] | 43 (56) [19-103] | 26.0 (19) [18.2-35.0] |
 
 Table 20: The Effect of Varying Gastric Administration Conditions on the Cmax and AUC of Posaconazole Oral Suspension in Healthy VolunteersIn 5 subjects, the Cmax and AUC decreased substantially (range: -27% to -53% and -33% to -51%, respectively) when Noxafil was administered via an NG tube compared to when Noxafil was administered orally.

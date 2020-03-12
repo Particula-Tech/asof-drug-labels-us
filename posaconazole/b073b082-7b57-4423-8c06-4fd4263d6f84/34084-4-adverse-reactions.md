@@ -299,4 +299,4 @@ Table 11: Posaconazole Oral Suspension Studies: Clinically Significant Laborator
 The following adverse reaction has been identified during the post-approval use of posaconazole.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency.
 
-Endocrine Disorders: Pseudoaldosteronism [see Adverse Reactions (6.2)]
+Endocrine Disorders: Pseudoaldosteronism

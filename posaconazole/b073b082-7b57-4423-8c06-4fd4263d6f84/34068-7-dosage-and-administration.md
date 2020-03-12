@@ -19,9 +19,9 @@ Noxafil delayed-release tablets
 
 Noxafil oral suspension
 
-- Administer with a full meal or with a liquid nutritional supplement or an acidic carbonated beverage (e.g., ginger ale) in patients who cannot eat a full meal [see Dosage and Administration (2.4)]
+- Administer with a full meal or with a liquid nutritional supplement or an acidic carbonated beverage (e.g., ginger ale) in patients who cannot eat a full meal [see Dosage and Administration (2.4)].
 - Co-administration of drugs that can decrease the plasma concentrations of posaconazole should generally be avoided unless the benefit outweighs the risk.
-  If such drugs are necessary, patients should be monitored closely for breakthrough fungal infections [see Drug Interactions (7.6, 7.7, 7.8, 7.9, 7.13)]
+  If such drugs are necessary, patients should be monitored closely for breakthrough fungal infections [see Drug Interactions (7.6, 7.7, 7.8, 7.9, 7.13)].
 
 Noxafil delayed-release tablets and Noxafil oral suspension
 
@@ -44,9 +44,9 @@ Preparation:
 - To prepare the required dose, aseptically transfer one vial (16.7 mL) of Noxafil injection (containing 300 mg of posaconazole in solution) to an intravenous bag (or bottle) of a compatible admixture diluent (as described in Table 2), to achieve a final concentration of posaconazole that is between 1 mg/mL and 2 mg/mL.
   Use of other diluents is not recommended because they may result in particulate formation.
 - Noxafil injection is a single dose sterile solution without preservatives.
-  Once admixed, the product should be used immediately.
+  Discard any unused portion.
+- Once admixed, the product should be used immediately.
   If not used immediately, the solution can be stored up to 24 hours refrigerated 2-8°C (36-46°F).
-  Noxafil injection is for single use only and any unused solution should be discarded.
 - Parenteral drug products should be inspected visually for particulate matter prior to administration, whenever solution and container permit.
   Once admixed, the solution of Noxafil ranges from colorless to yellow.
   Variations of color within this range do not affect the quality of the product.
@@ -151,7 +151,7 @@ Administration Instructions for Noxafil Oral Suspension:
 - Administer each dose of Noxafil oral suspension during or immediately (i.e., within 20 minutes) following a full meal to enhance the oral absorption of Noxafil and optimize plasma concentrations [see Clinical Pharmacology (12.3)].
 - For patients who cannot eat a full meal, Noxafil delayed-release tablets should be used instead of Noxafil oral suspension.
   Noxafil delayed-release tablets should be used only for the prophylaxis indication.
-  Noxafil delayed-release tablets provide higher plasma drug exposures than Noxafil oral suspension under fasted conditions [See Dosage and Administration (2.5)].
+  Noxafil delayed-release tablets provide higher plasma drug exposures than Noxafil oral suspension under fasted conditions [see Dosage and Administration (2.5)].
 - In patients who cannot eat a full meal and for whom Noxafil delayed-release tablets or Noxafil injection are not options, administer each dose of Noxafil oral suspension with a liquid nutritional supplement or an acidic carbonated beverage (e.g., ginger ale).
 - For patients who cannot eat a full meal or tolerate an oral nutritional supplement or an acidic carbonated beverage and who do not have the option of taking Noxafil delayed-release tablets or Noxafil injection, an alternative antifungal therapy should be considered or patients should be monitored closely for breakthrough fungal infections.
 
