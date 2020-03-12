@@ -16,7 +16,7 @@ Quetiapine tablets are not for treating psychosis in the elderly with dementia.
 
 2 risk of suicidal thoughts or actions (antidepressant medicines, depression and other serious mental illnesses, and suicidal thoughts or actions).
 
-- Talk to your or your family member’s healthcare provider about:
+- Talk to your or your family member's healthcare provider about:
   - all risks and benefits of treatment with antidepressant medicines.
   - all treatment choices for depression or other serious mental illness
 
@@ -101,7 +101,7 @@ Before you take quetiapine tablets, tell your healthcare provider if you have or
 - breast-feeding or plans to breast-feed.
   Quetiapine can pass into your breast milk.
   Talk to your healthcare provider about the best way to feed your baby if you receive quetiapine tablets.
-- if you have or have had a condition where you cannot completely empty your bladder (urinary retention), have an enlarged prostate, or constipation, or increased pressure inside your eyes
+- if you have or have had a condition where you cannot completely empty your bladder (urinary retention), have an enlarged prostate, or constipation, or increased pressure inside your eyes.
 
 Tell the healthcare provider about all the medicines that you take or recently have taken including prescription medicines, over-­the-counter medicines, herbal supplements, and vitamins.
 
@@ -259,7 +259,7 @@ What are the ingredients in quetiapine tablets?
 
 Active ingredient: quetiapine fumarate
 
-Inactive ingredients: microcrystalline cellulose, colloidal silicon dioxide, silicon dioxide, crospovidone, anhydrous citric acid, polysorbate 80, magnesium stearate, lactose monohydrate, hypromellose, polyethylene glycol and titanium dioxide.
+Inactive ingredients: microcrystalline cellulose, colloidal silicon dioxide, silicon dioxide, crospovidone, anhydrous citric acid, polysorbate 80, magnesium stearate, lactose monohydrate, hypromellose, polyethylene glycol, and titanium dioxide.
 The 25 mg tablets contain red ferric oxide and yellow ferric oxide and the 100 mg and 400 mg tablets contain only yellow ferric oxide.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
@@ -279,6 +279,6 @@ Survey No.: 259/15,
 Dadra-396 191 (U.T. of D & NH), India.
 
 ISS.
-12/2019
+03/2020
 
 PGPI0246G

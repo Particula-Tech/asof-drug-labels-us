@@ -18,7 +18,6 @@ The results of the trials follow:
 3. In a 6-week dose and dose regimen comparison trial (n=618) (study 3) involving two fixed doses of quetiapine (450 mg/day given in divided doses both twice daily and three times daily and 50 mg/day given in divided doses twice daily), only the 450 mg/day (225 mg given twice daily) dose group was superior to the 50 mg/day (25 mg given twice daily) quetiapine dose group on the BPRS total score, the BPRS psychosis cluster, and the CGI severity score.
 
 The primary efficacy results of these three studies in the treatment of schizophrenia in adults is presented in Table 19.
-
 Examination of population subsets (race, gender, and age) did not reveal any differential responsiveness on the basis of race or gender, with an apparently greater effect in patients under the age of 40 years compared to those older than 40.
 The clinical significance of this finding is unknown.
 
@@ -29,7 +28,6 @@ Patients who met DSM-IV diagnostic criteria for schizophrenia were randomized in
 Study medication was initiated at 50 mg/day and on day 2 increased to 100 mg/per day (divided and given two or three times per day).
 Subsequently, the dose was titrated to the target dose of 400 mg/day or 800 mg/day using increments of 100 mg/day, divided and given two or three times daily.
 The primary efficacy variable was the mean change from baseline in total Positive and Negative Syndrome Scale (PANSS).
-
 Quetiapine at 400 mg/day and 800 mg/day was superior to placebo in the reduction of PANSS total score.
 The primary efficacy results of this study in the treatment of schizophrenia in adolescents is presented in Table 19.
 Table 19: Schizophrenia Short-Term Trials
@@ -55,13 +53,9 @@ Table 19: Schizophrenia Short-Term Trials
 | Quetiapine (800 mg/day)* | 96.9 (15.3) | -28.4 (1.8) | -9.3 (-16.2, -2.4) |  |
 | Placebo | 96.2 (17.7) | -19.2 (3.0) | -- |  |
 
-SD: standard deviation; SE: standard error; LS Mean: least-squares mean; CI: unadjusted confidence interval.
+SD: standard deviation; SE: standard error; LS Mean: least-squares mean; CI: unadjusted confidence interval. aDifference (drug minus placebo) in least-squares mean change from baseline. *Doses that are statistically significant superior to placebo.
 
-a Difference (drug minus placebo) in least-squares mean change from baseline.
-
-* Doses that are statistically significant superior to placebo.
-
-# Doses that are statistically significant superior to quetiapine 50 mg BID.
+#Doses that are statistically significant superior to quetiapine 50 mg BID.
 
 ## 14.2 Bipolar Disorder
 

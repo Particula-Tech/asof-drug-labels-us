@@ -77,17 +77,14 @@ Renal Insufficiency
 
 Patients with severe renal impairment (Clcr=10 to 30 mL/min/1.73 m2, n=8) had a 25% lower mean oral clearance than normal subjects (Clcr > 80 mL/min/1.73 m2, n=8), but plasma quetiapine concentrations in the subjects with renal insufficiency were within the range of concentrations seen in normal subjects receiving the same dose.
 Dosage adjustment is therefore not needed in these patients [see Use in Specific Populations (8.6)].
-
 Hepatic Insufficiency
 
 Hepatically impaired patients (n=8) had a 30% lower mean oral clearance of quetiapine than normal subjects.
 In two of the 8 hepatically impaired patients, AUC and Cmax were 3 times higher than those observed typically in healthy subjects.
 Since quetiapine is extensively metabolized by the liver, higher plasma levels are expected in the hepatically impaired population, and dosage adjustment may be needed [see Dosage and Administration (2.4) and Use in Specific Populations (8.7)].
-
 Drug-Drug Interaction Studies
 
 The in vivo assessments of effect of other drugs on the pharmacokinetics of quetiapine are summarized in Table 17 [see Dosage and Administration (2.5 and 2.6) and Drug Interactions (7.1)].
-
 Table 17 The Effect of Other Drugs on the Pharmacokinetics of Quetiapine
 
 | Coadministered Drug | Dose Schedules |  | Effect on Quetiapine Pharmacokinetics |
@@ -104,10 +101,7 @@ Table 17 The Effect of Other Drugs on the Pharmacokinetics of Quetiapine
 | Risperidone | 3 mg twice daily | 300 mg twice daily | No change in steady state PK |
 
 In vitro enzyme inhibition data suggest that quetiapine and 9 of its metabolites would have little inhibitory effect on in vivo metabolism mediated by cytochromes CYP 1A2, 2C9, 2C19, 2D6, and 3A4.
-Quetiapine at doses of 750 mg/day did not affect the single dose pharmacokinetics of antipyrine, lithium, or lorazepam (Table 18)
-
-[s ee Drug Interactions (7.2)].
-
+Quetiapine at doses of 750 mg/day did not affect the single dose pharmacokinetics of antipyrine, lithium, or lorazepam (Table 18) [see Drug Interactions (7.2)].
 Table 18: The Effect of Quetiapine on the Pharmacokinetics of Other Drugs
 
 | Coadministered drug | Dose schedules |  | Effect on other drugs pharmacokinetics |

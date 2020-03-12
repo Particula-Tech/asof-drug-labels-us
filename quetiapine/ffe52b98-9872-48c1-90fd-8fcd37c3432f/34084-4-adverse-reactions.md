@@ -26,20 +26,34 @@ The following adverse reactions are discussed in more detail in other sections o
 ## 6.1 Clinical Study Experience
 
 Because clinical studies are conducted under widely varying conditions, adverse reaction rates observed in the clinical studies of a drug cannot be directly compared to rates in the clinical studies of another drug and may not reflect the rates observed in practice.
-Adults: The information below is derived from a clinical trial database for quetiapine consisting of over 4300 patients.
+
+Adults:
+
+The information below is derived from a clinical trial database for quetiapine consisting of over 4300 patients.
 This database includes 698 patients exposed to quetiapine for the treatment of bipolar depression, 405 patients exposed to quetiapine for the treatment of acute bipolar mania (monotherapy and adjunct therapy), 646 patients exposed to quetiapine for the maintenance treatment of bipolar I disorder as adjunct therapy, and approximately 2600 patients and/or normal subjects exposed to 1 or more doses of quetiapine for the treatment of schizophrenia.
+
 Of these approximately 4,300 subjects, approximately 4000 (2300 in schizophrenia, 405 in acute bipolar mania, 698 in bipolar depression, and 646 for the maintenance treatment of bipolar I disorder) were patients who participated in multiple dose effectiveness trials, and their experience corresponded to approximately 2400 patient-years.
 The conditions and duration of treatment with quetiapine varied greatly and included (in overlapping categories) open-label and double-blind phases of studies, inpatients and outpatients, fixed-dose and dose-titration studies, and short-term or longer-term exposure.
 Adverse reactions were assessed by collecting adverse reactions, results of physical examinations, vital signs, weights, laboratory analyses, ECGs, and results of ophthalmologic examinations.
 The stated frequencies of adverse reactions represent the proportion of individuals who experienced, at least once, an adverse reaction of the type listed.
-Adverse Reactions Associated with Discontinuation of Treatment in Short-Term, Placebo-Controlled Trials Schizophrenia: Overall, there was little difference in the incidence of discontinuation due to adverse reactions (4% for quetiapine vs. 3% for placebo) in a pool of controlled trials.
-However, discontinuations due to somnolence (0.8% quetiapine vs. 0% placebo) and hypotension (0.4% quetiapine vs. 0% placebo) were considered to be drug related [see Warnings and Precautions (5.7and 5.19)].
+Adverse Reactions Associated with Discontinuation of Treatment in Short-Term, Placebo-Controlled Trials
+
+Schizophrenia: Overall, there was little difference in the incidence of discontinuation due to adverse reactions (4% for quetiapine vs. 3% for placebo) in a pool of controlled trials.
+However, discontinuations due to somnolence (0.8% quetiapine vs. 0% placebo) and hypotension (0.4% quetiapine vs. 0% placebo) were considered to be drug related [see Warnings and Precautions (5.7 and 5.19)].
+
 Bipolar Disorder: Mania: Overall, discontinuations due to adverse reactions were 5.7% for quetiapine vs. 5.1% for placebo in monotherapy and 3.6% for quetiapine vs. 5.9% for placebo in adjunct therapy.
+
 Depression: Overall, discontinuations due to adverse reactions were 12.3% for quetiapine 300 mg vs. 19.0% for quetiapine 600 mg and 5.2% for placebo.
-Commonly Observed Adverse Reactions in Short-Term, Placebo-Controlled Trials: In the acute therapy of schizophrenia (up to 6 weeks) and bipolar mania (up to 12 weeks) trials, the most commonly observed adverse reactions associated with the use of quetiapine monotherapy (incidence of 5% or greater) and observed at a rate on quetiapine at least twice that of placebo were somnolence (18%), dizziness (11%), dry mouth (9%), constipation (8%), ALT increased (5%), weight gain (5%), and dyspepsia (5%).
-Adverse Reactions Occurring at an Incidence of 2% or More Among Quetiapine Treated Patients in Short-Term, Placebo-Controlled Trials: The prescriber should be aware that the figures in the tables and tabulations cannot be used to predict the incidence of side effects in the course of usual medical practice where patient characteristics and other factors differ from those that prevailed in the clinical trials.
+Commonly Observed Adverse Reactions in Short-Term, Placebo-Controlled Trials:
+
+In the acute therapy of schizophrenia (up to 6 weeks) and bipolar mania (up to 12 weeks) trials, the most commonly observed adverse reactions associated with the use of quetiapine monotherapy (incidence of 5% or greater) and observed at a rate on quetiapine at least twice that of placebo were somnolence (18%), dizziness (11%), dry mouth (9%), constipation (8%), ALT increased (5%), weight gain (5%), and dyspepsia (5%).
+
+Adverse Reactions Occurring at an Incidence of 2% or More Among Quetiapine Treated Patients in Short-Term, Placebo-Controlled Trials:
+
+The prescriber should be aware that the figures in the tables and tabulations cannot be used to predict the incidence of side effects in the course of usual medical practice where patient characteristics and other factors differ from those that prevailed in the clinical trials.
 Similarly, the cited frequencies cannot be compared with figures obtained from other clinical investigations involving different treatments, uses, and investigators.
 The cited figures, however, do provide the prescribing physician with some basis for estimating the relative contribution of drug and non-drug factors to the side effect incidence in the population studied.
+
 Table 9 enumerates the incidence, rounded to the nearest percent, of adverse reactions that occurred during acute therapy of schizophrenia (up to 6 weeks) and bipolar mania (up to 12 weeks) in 2% or more of patients treated with quetiapine (doses ranging from 75 to 800 mg/day) where the incidence in patients treated with quetiapine was greater than the incidence in placebo-treated patients.
 Table 9.
 Adverse Reaction Incidence in 3- to 12-Week Placebo-Controlled Clinical Trials for the Treatment of Schizophrenia and Bipolar Mania (Monotherapy)
@@ -181,22 +195,28 @@ Table 12: Adverse Reactions Associated with EPS in a Short-Term, Placebo-Control
 
 Parkinsonism incidence rates as measured by the Simpson-Angus total score for placebo and the five fixed doses (75, 150, 300, 600, 750 mg/day) were: -0.6; -1.0, -1.2; -1.6; -1.8, and -1.8.
 The rate of anticholinergic medication use to treat EPS for placebo and the five fixed doses was: 14%; 11%; 10%; 8%; 12%, and 11%.
+
 In six additional placebo-controlled clinical trials (3 in acute mania and 3 in schizophrenia) using variable doses of quetiapine, there were no differences between the quetiapine and placebo treatment groups in the incidence of EPS, as assessed by Simpson-Angus total scores, spontaneous complaints of EPS and the use of concomitant anticholinergic medications to treat EPS.
+
 In two placebo-controlled clinical trials for the treatment of bipolar depression using 300 mg and 600 mg of quetiapine, the incidence of adverse reactions potentially related to EPS was 12% in both dose groups and 6% in the placebo group.
 In these studies, the incidence of the individual adverse reactions (akathisia, extrapyramidal disorder, tremor, dyskinesia, dystonia, restlessness, muscle contractions involuntary, psychomotor hyperactivity, and muscle rigidity) were generally low and did not exceed 4% in any treatment group.
+
 The 3 treatment groups were similar in mean change in SAS total score and BARS Global Assessment score at the end of treatment.
 The use of concomitant anticholinergic medications was infrequent and similar across the three treatment groups.
 Children and Adolescents The information below is derived from a clinical trial database for quetiapine consisting of over 1,000 pediatric patients.
 This database includes 677 patients exposed to quetiapine for the treatment of schizophrenia and 393 children and adolescents (10 to 17 years old) exposed to quetiapine for the treatment of acute bipolar mania.
-Adverse Reactions Associated with Discontinuation of Treatment in Short-Term, Placebo-Controlled Trials Schizophrenia: The incidence of discontinuation due to adverse reactions for quetiapine-treated and placebo-treated patients was 8.2% and 2.7%, respectively.
+Adverse Reactions Associated with Discontinuation of Treatment in Short-Term, Placebo-Controlled Trials
+
+Schizophrenia: The incidence of discontinuation due to adverse reactions for quetiapine-treated and placebo-treated patients was 8.2% and 2.7%, respectively.
 The adverse event leading to discontinuation in 1% or more of patients on quetiapine and at a greater incidence than placebo was somnolence (2.7% and 0% for placebo).
+
 Bipolar I Mania: The incidence of discontinuation due to adverse reactions for quetiapine-treated and placebo-treated patients was 11.4% and 4.4%, respectively.
 The adverse reactions leading to discontinuation in 2% or more of patients on quetiapine and at a greater incidence than placebo were somnolence (4.1% vs. 1.1%) and fatigue (2.1% vs. 0).
 Commonly Observed Adverse Reactions in Short-Term, Placebo-Controlled Trials In therapy for schizophrenia (up to 6 weeks), the most commonly observed adverse reactions associated with the use of quetiapine in adolescents (incidence of 5% or greater and quetiapine incidence at least twice that for placebo) were somnolence (34%), dizziness (12%), dry mouth (7%), tachycardia (7%).
 In bipolar mania therapy (up to 3 weeks) the most commonly observed adverse reactions associated with the use of quetiapine in children and adolescents (incidence of 5% or greater and quetiapine incidence at least twice that for placebo) were somnolence (53%), dizziness (18%), fatigue (11%), increased appetite (9%), nausea (8%), vomiting (8%), tachycardia (7%), dry mouth (7%), and weight increased (6%).
 
 In an acute (8-week) quetiapine fumarate extended-release tablets trial in children and adolescents (10 to 17 years of age) with bipolar depression, in which efficacy was not established, the most commonly observed adverse reactions associated with the use of quetiapine fumarate extended-release tablets (incidence of 5% or greater and at least twice that for placebo) were dizziness 7%, diarrhea 5%, fatigue 5%, and nausea 5%.
-Adverse Reactions Occurring at an Incidence of ≥ 2% Among Quetiapine Treated Patients in Short-Term, Placebo-Controlled Trials Schizophrenia (Adolescents, 13 to 17 years old) The following findings were based on a 6-week placebo-controlled trial in which quetiapine was administered in either doses of 400 or 800 mg/day.
+Adverse Reactions Occurring at an Incidence of ≥ 2% among Quetiapine Treated Patients in Short-Term, Placebo-Controlled Trials Schizophrenia (Adolescents, 13 to 17 years old) The following findings were based on a 6-week placebo-controlled trial in which quetiapine was administered in either doses of 400 or 800 mg/day.
 Table 13 enumerates the incidence, rounded to the nearest percent, of adverse reactions that occurred during therapy (up to 6 weeks) of schizophrenia in 2% or more of patients treated with quetiapine (doses of 400 or 800 mg/day) where the incidence in patients treated with quetiapine was at least twice the incidence in placebo-treated patients.
 Adverse reactions that were potentially dose-related with higher frequency in the 800 mg group compared to the 400 mg group included dizziness (8% vs. 15%), dry mouth (4% vs. 10%), and tachycardia (6% vs. 11%).
 Table 13.
@@ -287,7 +307,7 @@ Table 16: Adverse Reactions Associated with Extrapyramidal Symptoms in a Placebo
 
 *: There were no adverse reactions with the preferred term of dystonic or dyskinetic events.
 
-Laboratory, ECG, and vital sign changes observed in clinical studies Laboratory Changes: Neutrophil Counts Adults: In placebo-controlled monotherapy clinical trials involving 3368 patients on quetiapine fumarate and 1515 on placebo, the incidence of at least one occurrence of neutrophil count <1.0 x 109/L among patients with a normal baseline neutrophil count and at least one available follow up laboratory measurement was 0.3% (10/2967) in patients treated with quetiapine fumarate, compared to 0.1% (2/1349) in patients treated with placebo [s ee Warnings and Precautions (5.10)].
+Laboratory, ECG, and vital sign changes observed in clinical studies Laboratory Changes: Neutrophil Counts Adults: In placebo-controlled monotherapy clinical trials involving 3368 patients on quetiapine fumarate and 1515 on placebo, the incidence of at least one occurrence of neutrophil count <1.0 x 109/L among patients with a normal baseline neutrophil count and at least one available follow up laboratory measurement was 0.3% (10/2967) in patients treated with quetiapine fumarate, compared to 0.1% (2/1349) in patients treated with placebo [see Warnings and Precautions (5.10)].
 Transaminase Elevations Adults: Asymptomatic, transient, and reversible elevations in serum transaminases (primarily ALT) have been reported.
 In schizophrenia trials in adults, the proportions of patients with transaminase elevations of >3 times the upper limits of the normal reference range in a pool of 3- to 6-week placebo-controlled trials were approximately 6% (29/483) for quetiapine compared to 1% (3/194) for placebo.
 In acute bipolar mania trials in adults, the proportions of patients with transaminase elevations of >3 times the upper limits of the normal reference range in a pool of 3- to 12-week placebo-controlled trials were approximately 1% for both quetiapine (3/560) and placebo (3/294).
@@ -305,9 +325,9 @@ In acute (monotherapy) bipolar mania trials the proportions of patients meeting 
 In acute bipolar mania (adjunct) trials the proportions of patients meeting the same criteria was 0.6% (1/166) for quetiapine compared to 0% (0/171) incidence for placebo.
 In bipolar depression trials, no patients had heart rate increases to >120 beats per minute.
 Quetiapine use was associated with a mean increase in heart rate, assessed by ECG, of 7 beats per minute compared to a mean increase of 1 beat per minute among placebo patients.
-This slight tendency to tachycardia in adults may be related to quetiapine’s potential for inducing orthostatic changes [see Warnings and Precautions (5.7)].
+This slight tendency to tachycardia in adults may be related to quetiapine's potential for inducing orthostatic changes [see Warnings and Precautions (5.7)].
 Children and Adolescents: In the acute (6-week) schizophrenia trial in adolescents, increases in heart rate (>110 bpm) occurred in 5.2% (3/73) of patients receiving quetiapine 400 mg and 8.5% (5/74) of patients receiving quetiapine 800 mg compared to 0% (0/75) of patients receiving placebo.
-Mean increases in heart rate were 3.8 bpm and 11.2 bpm for quetiapine 400 mg and 800 mg groups, respectively, compared to a decrease of 3.3 bpm in the placebo group[see Warnings and Precautions (5.7)].
+Mean increases in heart rate were 3.8 bpm and 11.2 bpm for quetiapine 400 mg and 800 mg groups, respectively, compared to a decrease of 3.3 bpm in the placebo group [see Warnings and Precautions (5.7)].
 In the acute (3-week) bipolar mania trial in children and adolescents, increases in heart rate (>110 bpm) occurred in 1.1% (1/89) of patients receiving quetiapine 400 mg and 4.7% (4/85) of patients receiving quetiapine 600 mg compared to 0% (0/98) of patients receiving placebo.
 Mean increases in heart rate were 12.8 bpm and 13.4 bpm for quetiapine 400 mg and 600 mg groups, respectively, compared to a decrease of 1.7 bpm in the placebo group [see Warnings and Precautions (5.7)].
 In an acute (8-week) quetiapine fumarate extended-release tablets trial in children and adolescents (10 to 17 years of age) with bipolar depression, in which efficacy was not established, increases in heart rate (>110 bpm 10 to 12 years and 13 to 17 years) occurred in 0% of patients receiving quetiapine fumarate extended-release tablets and 1.2% of patients receiving placebo.
@@ -318,4 +338,4 @@ Mean increases in heart rate were 3.4 bpm for quetiapine fumarate extended-relea
 The following adverse reactions were identified during post approval of quetiapine.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Adverse reactions reported since market introduction which were temporally related to quetiapine therapy include anaphylactic reaction, cardiomyopathy, drug reaction with eosinophilia and systemic symptoms (DRESS), hyponatremia, myocarditis, nocturnal enuresis, pancreatitis, retrograde amnesia, rhabdomyolysis, syndrome of inappropriate antidiuretic hormone secretion (SIADH), Stevens-Johnson syndrome (SJS), toxic epidermal necrolysis (TEN), decreased platelet count, serious liver reactions (including hepatitis, liver necrosis, and hepatic failure), agranulocytosis, intestinal obstruction, ileus, colon ischemia, urinary retention, and sleep apnea.
+Adverse reactions reported since market introduction which were temporally related to quetiapine therapy include anaphylactic reaction, cardiomyopathy, drug reaction with eosinophilia and systemic symptoms (DRESS), hyponatremia, myocarditis, nocturnal enuresis, pancreatitis, retrograde amnesia, rhabdomyolysis, syndrome of inappropriate antidiuretic hormone secretion (SIADH), Stevens-Johnson syndrome (SJS), toxic epidermal necrolysis (TEN), decreased platelet count, serious liver reactions (including hepatitis, liver necrosis, and hepatic failure), agranulocytosis, intestinal obstruction, ileus, colon ischemia, urinary retention, sleep apnea, and acute generalized exanthematous pustulosis (AGEP).

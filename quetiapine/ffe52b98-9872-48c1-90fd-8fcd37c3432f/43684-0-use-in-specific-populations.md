@@ -16,7 +16,7 @@ There are risks to the mother associated with untreated schizophrenia, bipolar I
 In animal studies, embryo-fetal toxicity occurred including delays in skeletal ossification at approximately 1 and 2 times the maximum recommended human dose (MRHD) of 800 mg/day in both rats and rabbits, and an increased incidence of carpal/tarsal flexure (minor soft tissue anomaly) in rabbit fetuses at approximately 2 times the MRHD.
 In addition, fetal weights were decreased in both species.
 Maternal toxicity (observed as decreased body weights and/or death) occurred at 2 times the MRHD in rats and approximately 1-2 times the MRHD in rabbits.
-The estimated background risk of major birth defects and miscarriage for the indicated populations is unkown.
+The estimated background risk of major birth defects and miscarriage for the indicated populations is unknown.
 All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
 In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively.
 

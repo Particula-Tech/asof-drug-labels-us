@@ -23,7 +23,6 @@ There was considerable variation in risk of suicidality among drugs, but a tende
 There were differences in absolute risk of suicidality across the different indications, with the highest incidence in MDD.
 The risk differences (drug vs. placebo), however, were relatively stable within age strata and across indications.
 These risk differences (drug-placebo difference in the number of cases of suicidality per 1000 patients treated) are provided in Table 2.
-
 Table 2 Drug-Placebo Difference in Number of Cases of Suicidality per 1000 Patients Treated
 
 | Age Range | Drug-Placebo Difference in Number of Cases of Suicidality per 1000 Patients Treated |
@@ -76,28 +75,23 @@ Atypical antipsychotic drugs have been associated with metabolic changes that in
 While all of the drugs in the class have been shown to produce some metabolic changes, each drug has its own specific risk profile.
 In some patients, a worsening of more than one of the metabolic parameters of weight, blood glucose, and lipids was observed in clinical studies.
 Changes in these metabolic profiles should be managed as clinically appropriate.
-
-Hyperglycemia and Diabetes Mellitus
-
-Hyperglycemia, in some cases extreme and associated with ketoacidosis or hyperosmolar coma or death, has been reported in patients treated with atypical antipsychotics, including quetiapine.
+Hyperglycemia and Diabetes Mellitus Hyperglycemia, in some cases extreme and associated with ketoacidosis or hyperosmolar coma or death, has been reported in patients treated with atypical antipsychotics, including quetiapine.
 Assessment of the relationship between atypical antipsychotic use and glucose abnormalities is complicated by the possibility of an increased background risk of diabetes mellitus in patients with schizophrenia and the increasing incidence of diabetes mellitus in the general population.
 Given these confounders, the relationship between atypical antipsychotic use and hyperglycemia-related adverse reactions is not completely understood.
 However, epidemiological studies suggest an increased risk of hyperglycemia-related adverse reactions in patients treated with the atypical antipsychotics.
 Precise risk estimates for hyperglycemia-related adverse reactions in patients treated with atypical antipsychotics are not available.
-
 Patients with an established diagnosis of diabetes mellitus who are started on atypical antipsychotics should be monitored regularly for worsening of glucose control.
 Patients with risk factors for diabetes mellitus (e.g., obesity, family history of diabetes) who are starting treatment with atypical antipsychotics should undergo fasting blood glucose testing at the beginning of treatment and periodically during treatment.
 Any patient treated with atypical antipsychotics should be monitored for symptoms of hyperglycemia including polydipsia, polyuria, polyphagia, and weakness.
 Patients who develop symptoms of hyperglycemia during treatment with atypical antipsychotics should undergo fasting blood glucose testing.
 In some cases, hyperglycemia has resolved when the atypical antipsychotic was discontinued; however, some patients required continuation of anti-diabetic treatment despite discontinuation of the suspect drug.
-
-Adults: Table 3: Fasting Glucose—Proportion of Patients Shifting to ≥ 126 mg/dL in Short-Term (≤ 12 weeks) Placebo-Controlled Studies*
+Adults: Table 3: Fasting Glucose—Proportion of Patients Shifting to ≥126 mg/dL in Short-Term (≤12 weeks) Placebo-Controlled Studies*
 
 | Laboratory Analyte | Category Change (At Least Once) from Baseline | Treatment Arm | N | Patients n (%) |
 | --- | --- | --- | --- | --- |
-| Fasting Glucose | Normal to High (<100 mg/dL to ≥ 126 mg/dL) | Quetiapine | 2907 | 71 (2.4%) |
+| Fasting Glucose | Normal to High (<100 mg/dL to ≥126 mg/dL) | Quetiapine | 2907 | 71 (2.4%) |
 | Placebo | 1346 | 19 (1.4%) |  |  |
-| Borderline to High (≥ 100 mg/dL and <126 mg/dL to ≥ 126 mg/dL) | Quetiapine | 572 | 67 (11.7%) |  |
+| Borderline to High (≥100 mg/dL and <126 mg/dL to ≥126 mg/dL) | Quetiapine | 572 | 67 (11.7%) |  |
 | Placebo | 279 | 33 (11.8%) |  |  |
 
 * Includes quetiapine tablets and quetiapine fumarate extended-release tablets data.
@@ -115,14 +109,15 @@ In a placebo-controlled quetiapine monotherapy study of children and adolescent 
 No patient in either study with a baseline normal fasting glucose level (<100 mg/dL) or a baseline borderline fasting glucose level (≥100 mg/dL and <126 mg/dL) had a blood glucose level of ≥126 mg/dL.
 
 In a placebo-controlled quetiapine fumarate extended-release tablets monotherapy study (8 weeks duration) of children and adolescent patients (10 to 17 years of age) with bipolar depression, in which efficacy was not established, the mean change in fasting glucose levels for quetiapine fumarate extended-release tablets (n=60) compared to placebo (n=62) was 1.8 mg/dL versus 1.6 mg/dL.
-In this study, there were no patients in the quetiapine fumarate extended-release tablets or placebo-treated groups with a baseline normal fasting glucose level (<100 mg/dL) that had an increase in blood glucose level ≥126 mg/dL.
-There was one patient in the quetiapine fumarate extended-release tablets group with a baseline borderline fasting glucose level (≥100 mg/dL) and (<126 mg/dL) who had an increase in blood glucose level of >126 mg/dL compared to zero patients in the placebo group.
+In this study, there were no patients in the quetiapine fumarate extended-release tablets or placebo-treated groups with a baseline normal fasting glucose level (<100 mg/dL) that had an increase in blood glucose level >126 mg/dL.
+There was one patient in the quetiapine fumarate extended-release tablets group with a baseline borderline fasting glucose level (>100 mg/dL) and (<126 mg/dL) who had an increase in blood glucose level of >126 mg/dL compared to zero patients in the placebo group.
 
 Dyslipidemia
 
 Adults:
 
 Table 4 shows the percentage of adult patients with changes in total cholesterol, triglycerides, LDL-cholesterol, and HDL-cholesterol from baseline by indication in clinical trials with quetiapine.
+
 Table 4: Percentage of Adult Patients with Shifts in Total Cholesterol, Triglycerides, LDL-Cholesterol, and HDL-Cholesterol from Baseline to Clinically Significant Levels by Indication
 
 | Laboratory Analyte | Indication | Treatment Arm | N | Patients n (%) |
@@ -135,21 +130,16 @@ Table 4: Percentage of Adult Patients with Shifts in Total Cholesterol, Triglyce
 | Placebo | 70 | 11 (16%) |  |  |
 | Bipolar Depressionb | Quetiapine | 436 | 59 (14%) |  |
 | Placebo | 232 | 20 (9%) |  |  |
-| LDL-Cholesterol ≥ 160 mg/dL | Schizophreniaa | Quetiapine | nac | nac |
+| LDL-Cholesterol ≥160 mg/dL | Schizophreniaa | Quetiapine | nac | nac |
 | Placebo | nac | nac |  |  |
 | Bipolar Depressionb | Quetiapine | 465 | 29 (6%) |  |
 | Placebo | 256 | 12 (5%) |  |  |
-| HDL-Cholesterol ≤ 40 mg/dL | Schizophreniaa | Quetiapine | nac | nac |
+| HDL-Cholesterol ≤40 mg/dL | Schizophreniaa | Quetiapine | nac | nac |
 | Placebo | nac | nac |  |  |
 | Bipolar Depressionb | Quetiapine | 393 | 56 (14%) |  |
 | Placebo | 214 | 29 (14%) |  |  |
 
-a: 6 weeks duration
-
-b: 8 weeks duration
-
-c: Parameters not measured in the quetiapine registration studies for schizophrenia.
-
+a: 6 weeks duration b: 8 weeks duration c: Parameters not measured in the quetiapine registration studies for schizophrenia.
 Children and Adolescents:
 
 Table 5 shows the percentage of children and adolescents with changes in total cholesterol, triglycerides, LDL-cholesterol, and HDL-cholesterol from baseline in clinical trials with quetiapine.
@@ -175,11 +165,7 @@ Table 5: Percentage of Children and Adolescents with Shifts in Total Cholesterol
 | Bipolar Maniab | Quetiapine | 154 | 16 (10%) |  |
 | Placebo | 61 | 4 (7%) |  |  |
 
-a: 13 to 17 years, 6 weeks duration
-
-b: 10 to 17 years, 3 weeks duration
-
-In a placebo-controlled quetiapine fumarate extended-release tablets monotherapy study (8 weeks duration) of children and adolescent patients (10 to 17 years of age) with bipolar depression, in which efficacy was not established, the percentage of children and adolescents with shifts in total cholesterol (≥200 mg/dL), triglycerides (≥150 mg/dL), LDL-cholesterol (≥130 mg/dL), and HDL-cholesterol (≤40 mg/dL) from baseline to clinically significant levels were: total cholesterol 8% (7/83) for quetiapine fumarate extended-release tablets vs. 6% (5/84) for placebo; triglycerides 28% (22/80) for quetiapine fumarate extended-release tablets vs. 9% (7/82) for placebo; LDL-cholesterol 2% (2/86) for quetiapine fumarate extended-release tablets vs. 4% (3/85) for placebo and HDL-cholesterol 20% (13/65) for quetiapine fumarate extended-release tablets vs. 15% (11/74) for placebo.
+a: 13 to 17 years, 6 weeks duration b: 10 to 17 years, 3 weeks duration In a placebo-controlled quetiapine fumarate extended-release tablets monotherapy study (8 weeks duration) of children and adolescent patients (10 to 17 years of age) with bipolar depression, in which efficacy was not established, the percentage of children and adolescents with shifts in total cholesterol (≥200 mg/dL), triglycerides (≥150 mg/dL), LDL-cholesterol (≥130 mg/dL), and HDL-cholesterol (≤40 mg/dL) from baseline to clinically significant levels were: total cholesterol 8% (7/83) for quetiapine fumarate extended-release tablets vs. 6% (5/84) for placebo; triglycerides 28% (22/80) for quetiapine fumarate extended-release tablets vs. 9% (7/82) for placebo; LDL-cholesterol 2% (2/86) for quetiapine fumarate extended-release tablets vs. 4% (3/85) for placebo and HDL-cholesterol 20% (13/65) for quetiapine fumarate extended-release tablets vs. 15% (11/74) for placebo.
 
 Weight Gain
 
@@ -187,6 +173,7 @@ Increases in weight have been observed in clinical trials.
 Patients receiving quetiapine should receive regular monitoring of weight.
 
 Adults: In clinical trials with quetiapine the following increases in weight have been reported.
+
 Table 6: Proportion of Patients with Weight Gain ≥7% of Body Weight (Adults)
 
 | Vital Sign | Indication | Treatment Arm | N | Patients n (%) |
@@ -200,17 +187,10 @@ Table 6: Proportion of Patients with Weight Gain ≥7% of Body Weight (Adults)
 | Bipolar Depressiond | Quetiapine | 554 | 47 (8%) |  |
 | Placebo | 295 | 7 (2%) |  |  |
 
-a: up to 6 weeks duration
-
-b: up to 12 weeks duration
-
-c: up to 3 weeks duration
-
-d: up to 8 weeks duration
-
-Children and Adolescents:
+a: up to 6 weeks duration b: up to 12 weeks duration c: up to 3 weeks duration d: up to 8 weeks duration Children and Adolescents:
 
 In two clinical trials with quetiapine, one in bipolar mania and one in schizophrenia, reported increases in weight are included in Table 7.
+
 Table 7: Proportion of Patients with Weight Gain ≥7% of Body Weight (Children and Adolescents)
 
 | Vital Sign | Indication | Treatment Arm | N | Patients n (%) |
@@ -220,11 +200,7 @@ Table 7: Proportion of Patients with Weight Gain ≥7% of Body Weight (Children 
 | Bipolar Maniab | Quetiapine | 157 | 18 (12%) |  |
 | Placebo | 68 | 0 (0%) |  |  |
 
-a: 6 weeks duration
-
-b: 3 weeks duration
-
-The mean change in body weight in the schizophrenia trial was 2.0 kg in the quetiapine group and -0.4 kg in the placebo group and in the bipolar mania trial, it was 1.7 kg in the quetiapine group and 0.4 kg in the placebo group.
+a: 6 weeks duration b: 3 weeks duration The mean change in body weight in the schizophrenia trial was 2.0 kg in the quetiapine group and -0.4 kg in the placebo group and in the bipolar mania trial, it was 1.7 kg in the quetiapine group and 0.4 kg in the placebo group.
 
 In an open-label study that enrolled patients from the above two pediatric trials, 63% of patients (241/380) completed 26 weeks of therapy with quetiapine.
 After 26 weeks of treatment, the mean increase in body weight was 4.4 kg.
@@ -243,13 +219,16 @@ Although the prevalence of the syndrome appears to be highest among the elderly,
 Whether antipsychotic drug products differ in their potential to cause tardive dyskinesia is unknown.
 The risk of developing tardive dyskinesia and the likelihood that it will become irreversible are believed to increase as the duration of treatment and the total cumulative dose of antipsychotic drugs administered to the patient increase.
 However, the syndrome can develop, although much less commonly, after relatively brief treatment periods at low doses or may even arise after discontinuation of treatment.
+
 Tardive dyskinesia may remit, partially or completely, if antipsychotic treatment is withdrawn.
 Antipsychotic treatment, itself, however, may suppress (or partially suppress) the signs and symptoms of the syndrome and thereby may possibly mask the underlying process.
 The effect that symptomatic suppression has upon the long-term course of the syndrome is unknown.
+
 Given these considerations, quetiapine should be prescribed in a manner that is most likely to minimize the occurrence of tardive dyskinesia.
 Chronic antipsychotic treatment should generally be reserved for patients who appear to suffer from a chronic illness that (1) is known to respond to antipsychotic drugs, and (2) for whom alternative, equally effective, but potentially less harmful treatments are not available or appropriate.
 In patients who do require chronic treatment, the smallest dose and the shortest duration of treatment producing a satisfactory clinical response should be sought.
 The need for continued treatment should be reassessed periodically.
+
 If signs and symptoms of tardive dyskinesia appear in a patient on quetiapine, drug discontinuation should be considered.
 However, some patients may require treatment with quetiapine despite the presence of the syndrome.
 
@@ -260,11 +239,7 @@ Syncope was reported in 1% (28/3265) of the patients treated with quetiapine, co
 Orthostatic hypotension, dizziness, and syncope may lead to falls.
 
 Quetiapine should be used with particular caution in patients with known cardiovascular disease (history of myocardial infarction or ischemic heart disease, heart failure, or conduction abnormalities), cerebrovascular disease or conditions which would predispose patients to hypotension (dehydration, hypovolemia, and treatment with antihypertensive medications).
-The risk of orthostatic hypotension and syncope may be minimized by limiting the initial dose to 25 mg twice daily
-
-[s ee Dosage and Administration (2.2)]
-
-.
+The risk of orthostatic hypotension and syncope may be minimized by limiting the initial dose to 25 mg twice daily [see Dosage and Administration (2.2)].
 If hypotension occurs during titration to the target dose, a return to the previous dose in the titration schedule is appropriate.
 
 ## 5.8 Falls
@@ -284,11 +259,10 @@ In a placebo-controlled quetiapine fumarate extended-release tablets clinical tr
 
 In clinical trial and postmarketing experience, events of leukopenia/neutropenia have been reported temporally related to atypical antipsychotic agents, including quetiapine.
 Agranulocytosis has been reported.
-
-Agranulocytosis (defined as absolute neutrophil count <500/mm3) has been reported with quetiapine, including fatal cases and cases in patients without preexisting risk factors.
+Agranulocytosis (defined as absolute neutrophil count <500/mm3) has been reported with quetiapine, including fatal cases and cases in patients without pre-existing risk factors.
 Neutropenia should be considered in patients presenting with infection, particularly in the absence of obvious predisposing factor(s), or in patients with unexplained fever, and should be managed as clinically appropriate.
 
-Possible risk factors for leukopenia/neutropenia include preexisting low white cell count (WBC) and history of drug-induced leukopenia/neutropenia.
+Possible risk factors for leukopenia/neutropenia include preexisting low white cell count (WBC) and history of drug induced leukopenia/neutropenia.
 Patients with a preexisting low WBC or a history of drug induced leukopenia/neutropenia should have their complete blood count (CBC) monitored frequently during the first few months of therapy and should discontinue quetiapine at the first sign of a decline in WBC in absence of other causative factors.
 
 Patients with neutropenia should be carefully monitored for fever or other symptoms or signs of infection and treated promptly if such symptoms or signs occur.
@@ -390,8 +364,7 @@ Quetiapine and other antipsychotic drugs should be used cautiously in patients a
 Acute withdrawal symptoms, such as insomnia, nausea, and vomiting have been described after abrupt cessation of atypical antipsychotic drugs, including quetiapine.
 In short-term placebo-controlled, monotherapy clinical trials with quetiapine fumarate extended-release tablets that included a discontinuation phase which evaluated discontinuation symptoms, the aggregated incidence of patients experiencing one or more discontinuation symptoms after abrupt cessation was 12.1% (241/1993) for quetiapine fumarate extended-release tablets and 6.7% (71/1065) for placebo.
 The incidence of the individual adverse reactions (i.e., insomnia, nausea, headache, diarrhea, vomiting, dizziness, and irritability) did not exceed 5.3% in any treatment group and usually resolved after 1 week post-discontinuation.
-Gradual withdrawal is advised.
-[see Use in Specific Populations (8.1)]
+Gradual withdrawal is advised [see Use in Specific Populations (8.1)].
 
 ## 5.20 Anticholinergic (antimuscarinic) Effects
 
@@ -401,5 +374,4 @@ Quetiapine should be used with caution in patients receiving medications having 
 
 Constipation was a commonly reported adverse event in patients treated with quetiapine and represents a risk factor for intestinal obstruction.
 Intestinal obstruction has been reported with quetiapine, including fatal reports in patients who were receiving multiple concomitant medications that decrease intestinal motility.
-
 Quetiapine should be used with caution in patients with a current diagnosis or prior history of urinary retention, clinically significant prostatic hypertrophy, constipation, or increased intraocular pressure.
