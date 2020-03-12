@@ -62,7 +62,7 @@ Race: Pharmacokinetic data revealed no significant differences between African A
 
 ### Drug Interactions
 
-[See also Drug Interactions (7).]
+[See also Drug Interactions (7)].
 
 Monoamine oxidase inhibitors: Rizatriptan is principally metabolized via monoamine oxidase, ‘A’ subtype (MAO-A).
 Plasma concentrations of rizatriptan may be increased by drugs that are selective MAO-A inhibitors (e.g., moclobemide) or nonselective MAO inhibitors [type A and B] (e.g., isocarboxazid, phenelzine, tranylcypromine, and pargyline).

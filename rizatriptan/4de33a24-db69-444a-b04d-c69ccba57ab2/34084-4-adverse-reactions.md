@@ -96,7 +96,7 @@ The adverse reaction profile seen with rizatriptan benzoate orally disintegratin
 
 Incidence in Controlled Clinical Trials in Pediatric Patients
 
-Adverse reactions to rizatriptan benzoate were assessed in a controlled clinical trial in the acute treatment of migraines (Study 7) that included a total of 1382 pediatric patients 6-17 years of age, of which 977 (72%) administered at least one dose of study treatment (rizatriptan benzoate and/or placebo) [see Clinical Studies (14.2)].
+Adverse reactions to rizatriptan benzoate were assessed in a controlled clinical trial in the acute treatment of migraines (Study 7) that included a total of 1382 pediatric patients 6 to 17 years of age, of which 977 (72%) administered at least one dose of study treatment (rizatriptan benzoate and/or placebo) [see Clinical Studies (14.2)].
 The incidence of adverse reactions reported for pediatric patients in the acute clinical trial was similar in patients who received rizatriptan benzoate to those who received placebo.
 The adverse reaction pattern in pediatric patients is expected to be similar to that in adults.
 

@@ -1,6 +1,6 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-Rizatriptan benzoate orally disintegrating tablets 5 mg (equivalent to 7.265 mg rizatriptan benzoate) are white to off‑white, round, flat beveled edged, uncoated orally disintegrating tablets engraved with ‘467’ on one side and plain on the other side with a peppermint flavor.
+Rizatriptan benzoate orally disintegrating tablets USP 5 mg (equivalent to 7.265 mg rizatriptan benzoate) are white to off‑white, round, flat beveled edged, uncoated orally disintegrating tablets engraved with ‘467’ on one side and plain on the other side with a peppermint flavor.
 Each orally disintegrating tablet is individually packaged in a blister card inside an aluminum pouch (sachet).
 They are supplied as follows:
 
@@ -8,7 +8,7 @@ NDC 68462-467-74, 4 x unit-of-use carton of 3 orally disintegrating tablets (12 
 
 NDC 68462-467-06, 6 x unit-of-use carton of 3 orally disintegrating tablets (18 tablets total).
 
-Rizatriptan benzoate orally disintegrating tablets 10 mg (equivalent to 14.53 mg rizatriptan benzoate) are white to off‑white, round, flat beveled edged, uncoated orally disintegrating tablets engraved with ‘468’ on one side and plain on the other side with a peppermint flavor.
+Rizatriptan benzoate orally disintegrating tablets USP 10 mg (equivalent to 14.53 mg rizatriptan benzoate) are white to off‑white, round, flat beveled edged, uncoated orally disintegrating tablets engraved with ‘468’ on one side and plain on the other side with a peppermint flavor.
 Each orally disintegrating tablet is individually packaged in a blister card inside an aluminum pouch (sachet).
 They are supplied as follows:
 
@@ -16,7 +16,7 @@ NDC 68462-468-74, 4 x unit-of-use carton of 3 orally disintegrating tablets (12 
 
 NDC 68462-468-06, 6 x unit-of-use carton of 3 orally disintegrating tablets (18 tablets total).
 
-Storage:
+Storage
 
 Store at room temperature, 20°C to 25°C (68°F to 77°F); excursions permitted to 15°C to 30°C (59°F to 86°F) [see USP Controlled Room Temperature].
 
