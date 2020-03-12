@@ -49,7 +49,7 @@ See prescribing information for dosing information.
 
 Rx only
 
-1 DISKUSInhalation Device Containing 1 Foil Strip of 28 Blisters
+1 DISKUS Inhalation Device Containing 1 Foil Strip of 28 Blisters
 
 Made in Singapore
 

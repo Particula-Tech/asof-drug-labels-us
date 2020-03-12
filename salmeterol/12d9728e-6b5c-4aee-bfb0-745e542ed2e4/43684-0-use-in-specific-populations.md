@@ -4,7 +4,7 @@
 
 Risk Summary
 
-The available data from published epidemiological studies and case reports with use of SEREVENT DISKUS in pregnant women have not identified a drug‑associated risk of major birth defects, miscarriage, or adverse maternal or fetal outcomes (see Data).
+The available data from published epidemiological studies and case reports with use of SEREVENT DISKUS in pregnant women have not identified a drug-associated risk of major birth defects, miscarriage, or adverse maternal or fetal outcomes (see Data).
 Beta‑agonists may interfere with uterine contractility.
 There are clinical considerations in pregnant women with asthma (see Clinical Considerations).
 
