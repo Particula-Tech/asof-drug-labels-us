@@ -80,5 +80,5 @@ The tolerability of DALIRESP was evaluated in a 12-week randomized, double-blind
 At screening, patients were required to have had at least one exacerbation in the previous year.
 A total of 1323 patients were randomized to receive DALIRESP 500 mcg once a day for 12 weeks (n=443), DALIRESP 500 mcg every other day for 4 weeks followed by DALIRESP 500 mcg once a day for 8 weeks (n=439), or DALIRESP 250 mcg once a day for 4 weeks followed by DALIRESP 500 mcg once a day for 8 weeks (n=441).
 
-Over the 12 week study period, the percentage of patients discontinuing treatment was 6.2% lower in patients initially receiving DALIRESP 250 mcg daily for 4 weeks followed by DALIRESP 500 mcg daily for 8 weeks (18.4%) compared to those receiving DALIRESP 500 mcg daily for 12 weeks (24.6%) (Odds Ratio = 0.66; 95% CI: 0.47 to 0.93; p=0.017).
+Over the 12-week study period, the percentage of patients discontinuing treatment was 6.2% lower in patients initially receiving DALIRESP 250 mcg daily for 4 weeks followed by DALIRESP 500 mcg daily for 8 weeks (18.4%) compared to those receiving DALIRESP 500 mcg daily for 12 weeks (24.6%) (Odds Ratio = 0.66; 95% CI: 0.47 to 0.93; p=0.017).
 Because this trial was limited to 12 weeks in duration, whether initiation of dosing with DALIRESP 250 mcg improves the long term tolerability of DALIRESP 500 mcg has not been determined.

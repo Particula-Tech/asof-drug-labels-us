@@ -18,8 +18,6 @@ Bottles of 30: NDC 0310-0095-30
 
 Bottles of 90: NDC 0310-0095-90
 
-2X10 Unit Dose: NDC 0310-0095-39
-
 ## 16.2 Storage and Handling
 
 Store DALIRESP tablets at 20° - 25°C (68° - 77°F); excursions permitted to 15° - 30°C (59° - 86°F).

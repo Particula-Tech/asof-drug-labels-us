@@ -8,6 +8,8 @@ Daliresp®
 
 28 Day Pack
 
+CONTENTS: One Child-Resistant Package containing 28 tablets
+
 AstraZeneca
 
 # PACKAGE/LABEL PRINCIPAL DISPLAY PANEL – 500 mcg
