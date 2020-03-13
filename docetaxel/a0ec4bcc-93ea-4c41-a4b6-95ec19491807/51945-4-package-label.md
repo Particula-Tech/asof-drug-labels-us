@@ -6,8 +6,9 @@ Docetaxel Injection, USP 20 mg/2 mL
 
 (10 mg/mL)
 
-Single use vial.
+Single-dose vial.
 Discard unused portion.
+Distributed by Hospira, Inc. Lake Forest, IL 60045 USA
 
 For Intravenous Use only
 
@@ -15,15 +16,11 @@ Ready to add to infusion solution.
 Check concentration prior to preparation.
 See package insert for complete instructions.
 
-Distributed by Hospira, Inc. Lake Forest, IL 60045 USA
-
 # PRINCIPAL DISPLAY PANEL - 2 mL Vial Carton
 
 20 mg/2 mL (10 mg/mL)
 
-1 x 2 mL Single use vial Discard unused portion.
-
-NDC 0409-0201-02
+1 x 2 mL NDC 0409-0201-02 Single-dose vial Discard unused portion.
 
 Docetaxel Injection, USP 20 mg/2 mL
 
@@ -36,9 +33,7 @@ See package insert for complete instructions.
 
 # PRINCIPAL DISPLAY PANEL - 8 mL Vial Label
 
-8 mL Multi-use Vial
-
-NDC 0409-0201-10 Rx only Sterile
+8 mL NDC 0409-0201-10 Multiple-dose Vial Rx only Sterile
 
 Docetaxel Injection, USP 80 mg/8 mL
 
@@ -54,9 +49,7 @@ See package insert for complete instructions.
 
 80 mg/8 mL (10 mg/mL)
 
-1 x 8 mL Multi-use vial
-
-NDC 0409-0201-10
+1 x 8 mL NDC 0409-0201-10 Multiple-dose vial
 
 Docetaxel Injection, USP 80 mg/8 mL
 
@@ -69,9 +62,7 @@ See package insert for complete instructions.
 
 # PRINCIPAL DISPLAY PANEL - 16 mL Vial Label
 
-16 mL Multi-use Vial
-
-NDC 0409-0201-20 Rx only Sterile
+16 mL NDC 0409-0201-20 Multiple-dose Vial Rx only Sterile
 
 Docetaxel Injection, USP 160 mg/16 mL
 
@@ -87,9 +78,7 @@ See package insert for complete instructions.
 
 160 mg/16 mL (10 mg/mL)
 
-1 x 16 mL Multi-use vial
-
-NDC 0409-0201-20
+1 x 16 mL NDC 0409-0201-20 Multiple-dose vial
 
 Docetaxel Injection, USP 160 mg/16 mL
 
