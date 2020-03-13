@@ -26,6 +26,6 @@ Reversal of pre-existing neurologic impairment is not likely to occur with treat
 
 Even on therapy, acute hyperammonemic encephalopathy recurred in the majority of patients for whom the drug is indicated.
 
-BUPHENYL may be required life-long unless orthotopic liver transplantation is elected.
+BUPHENYL may be required lifelong unless orthotopic liver transplantation is elected.
 
 (See CLINICAL PHARMACOLOGY, Pharmacodynamics subsection for the biochemical effects of BUPHENYL).
