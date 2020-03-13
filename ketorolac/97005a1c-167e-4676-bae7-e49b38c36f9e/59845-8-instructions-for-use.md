@@ -110,6 +110,6 @@ Active ingredient: ketorolac tromethamine Inactive ingredient: edetate disodium 
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
-Distributed by: Egalet US Inc. Wayne, PA 19087
+Distributed by: Zyla Life Sciences US Inc. Wayne, PA 19087
 
-LBL # 102.02 Revised: 01/2018
+LBL # 102.03 Revised: 09/2019

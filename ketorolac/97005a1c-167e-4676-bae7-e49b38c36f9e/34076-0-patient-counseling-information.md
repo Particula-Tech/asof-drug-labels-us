@@ -69,6 +69,6 @@ Advise patients that they may experience transient, mild to moderate nasal irrit
 
 Manufactured for and Distributed by:
 
-Egalet US Inc. Wayne, PA 19087
+Zyla Life Sciences US Inc. Wayne, PA 19087
 
-Issued: Jan/2018 LBL # 101.02
+Issued: 09/2019 LBL # 101.03
