@@ -46,7 +46,7 @@ Blisters of 28 tablets…………………………………………………�
 
 Each carton contains 4 blister cards of 7 tablets each
 
-Store at 25°C (77°F); excursions permitted between 15°C to 30°C (59°F to 86°F).
+Store at 20°C-25°C (68°F-77°F); excursions permitted between 15°C and 30°C (59°F and 86°F).
 See USP Controlled Room Temperature.
 
 Store in the original container, protect from light and moisture.

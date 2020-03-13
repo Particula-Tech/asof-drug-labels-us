@@ -107,7 +107,7 @@ Table 7: Selected Laboratory Abnormalities Reported in ≥ 10% of Patients with 
 
 Topical Prophylaxis for Stomatitis
 
-In a single arm study (SWISH; N = 92) in postmenopausal women with hormone receptor-positive, HER2-negative breast cancer beginning AFINITOR (10 mg orally once daily) in combination with exemestane (25 mg orally once daily), patients started dexamethasone 0.5 mg/5mL alcohol-free mouthwash (10 mL swished for 2 minutes and spat, 4 times daily for 8 weeks) concurrently with AFINITOR and exemestane.
+In a single arm study (SWISH; N = 92) in postmenopausal women with hormone receptor-positive, HER2-negative breast cancer beginning AFINITOR (10 mg orally once daily) in combination with exemestane (25 mg orally once daily), patients started dexamethasone 0.5 mg/5 mL alcohol-free mouthwash (10 mL swished for 2 minutes and spat, 4 times daily for 8 weeks) concurrently with AFINITOR and exemestane.
 No food or drink was to be consumed for at least 1 hour after swishing and spitting the dexamethasone mouthwash.
 The primary objective of this study was to assess the incidence of Grade 2 to 4 stomatitis within 8 weeks.
 The incidence of Grade 2 to 4 stomatitis within 8 weeks was 2%, which was lower than the 33% reported in the BOLERO-2 trial.
@@ -390,7 +390,7 @@ Table 13: Selected Laboratory Abnormalities Reported in Patients with RCC at a H
 | Hypercholesterolemia | 77 | 4b | 35 | 0 |
 | Hypertriglyceridemia | 73 | < 1b | 34 | 0 |
 | Hyperglycemia | 57 | 16 | 25 | 2b |
-| Increased creatinine increased | 50 | 2b | 34 | 0 |
+| Increased creatinine | 50 | 2b | 34 | 0 |
 | Hypophosphatemia | 37 | 6b | 8 | 0 |
 | Increased AST | 25 | 1 | 7 | 0 |
 | Increased ALT | 21 | 1b | 4 | 0 |

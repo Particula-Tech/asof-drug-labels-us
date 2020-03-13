@@ -246,7 +246,7 @@ At the completion of the study, the median duration of durable response was 12 m
 
 By 60 months after the last patient was enrolled, 11% of the 28 patients had documented disease progression.
 No patient developed a new SEGA lesion while on AFINITOR.
-Nine additional patients were identified as having a > 50% volumetric reduction in their largest SEGA lesion between 1 to 4 years after initiating AFINITOR including 3 patients who had surgical resection with subsequent regrowth prior to receiving AFINITOR.
+Nine additional patients were identified as having a ≥ 50% volumetric reduction in their largest SEGA lesion between 1 to 4 years after initiating AFINITOR including 3 patients who had surgical resection with subsequent regrowth prior to receiving AFINITOR.
 
 ## 14.6 Tuberous Sclerosis Complex (TSC)-Associated Partial-Onset Seizures
 
