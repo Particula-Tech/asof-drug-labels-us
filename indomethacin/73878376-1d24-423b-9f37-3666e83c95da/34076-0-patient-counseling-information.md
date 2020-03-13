@@ -49,7 +49,6 @@ Inform patients not to use low-dose aspirin concomitantly with INDOCIN until the
 
 Manufactured by: Patheon Inc. Whitby, Ontario L1N 5Z5, Canada
 
-Distributed by: Egalet US Inc., Wayne, PA 19087 ©2019 Egalet Corporation.
-All rights reserved.
+Distributed by: Zyla Life Sciences US Inc., Wayne, PA 19087 ©2019 Zyla Life Sciences US Inc. All rights reserved.
 
-04/2019 LBL# 801.00
+Issued or Revised Dec 2019 LBL# 801.01
