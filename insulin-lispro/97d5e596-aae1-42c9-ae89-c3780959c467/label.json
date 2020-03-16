@@ -1,0 +1,23 @@
+{
+  "application_numbers": [
+    "NDA020563"
+  ],
+  "inn": "insulin-lispro",
+  "labeler": "Eli Lilly and Company",
+  "package_ndcs": [
+    "0002-7737-01",
+    "0002-7752-01",
+    "0002-7752-05",
+    "0002-8222-01",
+    "0002-8222-59"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "insulin lispro",
+      "name": "Insulin Lispro"
+    }
+  ],
+  "setid": "97d5e596-aae1-42c9-ae89-c3780959c467",
+  "source": "dailymed"
+}
