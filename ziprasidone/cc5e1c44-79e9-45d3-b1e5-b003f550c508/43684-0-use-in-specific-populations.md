@@ -2,31 +2,80 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Category C In animal studies ziprasidone demonstrated developmental toxicity, including possible teratogenic effects at doses similar to human therapeutic doses.
-When ziprasidone was administered to pregnant rabbits during the period of organogenesis, an increased incidence of fetal structural abnormalities (ventricular septal defects and other cardiovascular malformations and kidney alterations) was observed at a dose of 30 mg/kg/day (3 times the maximum recommended human dose [MRHD] of 200 mg/day on a mg/m2 basis).
+Pregnancy Exposure Registry
+
+There is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to atypical antipsychotics, including ziprasidone, during pregnancy.
+Healthcare providers are encouraged to register patients by contacting the National Pregnancy Registry for Atypical Antipsychotics at 1-866-961-2388 or online at http://womensmentalhealth.org/clinical-and-research-programs/pregnancyregistry/.
+
+Risk Summary
+
+Neonates exposed to antipsychotic drugs, including ziprasidone, during the third trimester are at risk for extrapyramidal and/or withdrawal symptoms following delivery (see Clinical Considerations).
+Overall available data from published epidemiologic studies of pregnant women exposed to ziprasidone have not established a drug-associated risk of major birth defects, miscarriage, or adverse maternal or fetal outcomes (see Data).
+There are risks to the mother associated with untreated schizophrenia or bipolar I disorder and with exposure to antipsychotics, including ziprasidone, during pregnancy (see Clinical Considerations).
+
+In animal studies, ziprasidone administration to pregnant rats and rabbits during organogenesis caused developmental toxicity at doses similar to recommended human doses, and was teratogenic in rabbits at 3 times the maximum recommended human dose (MRHD).
+Rats exposed to ziprasidone during gestation and lactation exhibited increased perinatal pup mortality and delayed neurobehavioral and functional development of offspring at doses less than or similar to human therapeutic doses.
+(see Data).
+
+The estimated background risk of major birth defects and miscarriage for the indicated populations is unknown.
+All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively.
+
+Clinical Considerations
+
+Disease-associated maternal and/or embryo/fetal risk
+
+There is risk to the mother from untreated schizophrenia or bipolar I disorder, including increased risk of relapse, hospitalization, and suicide.
+Schizophrenia and bipolar I disorder are associated with increased adverse perinatal outcomes, including preterm birth.
+It is not known if this is a direct result of the illness or other comorbid factors.
+
+Fetal/neonatal adverse reactions
+
+Extrapyramidal and/or withdrawal symptoms, including agitation, hypertonia, hypotonia, tremor, somnolence, respiratory distress, and feeding disorder have been reported in neonates who were exposed to antipsychotic drugs, including ziprasidone, during the third trimester of pregnancy.
+These symptoms have varied in severity.
+Monitor neonates for extrapyramidal and/or withdrawal symptoms and manage symptoms appropriately.
+Some neonates recovered within hours or days without specific treatment; others required prolonged hospitalization.
+
+Data
+
+Human Data
+
+Published data from observational studies, birth registries, and case reports on the use of atypical antipsychotics during pregnancy do not report a clear association with antipsychotics and major birth defects.
+A retrospective cohort study from a Medicaid database of 9258 women exposed to antipsychotics during pregnancy did not indicate an overall increased risk for major birth defects.
+
+Animal Data
+
+When ziprasidone was administered to pregnant rabbits during the period of organogenesis, an increased incidence of fetal structural abnormalities (ventricular septal defects and other cardiovascular malformations, and kidney alterations) was observed at a dose of 30 mg/kg/day (3 times the MRHD of 200 mg/day based on mg/m2 body surface area).
 There was no evidence to suggest that these developmental effects were secondary to maternal toxicity.
-The developmental no-effect dose was 10 mg/kg/day (equivalent to the MRHD on a mg/m2 basis).
-In rats, embryofetal toxicity (decreased fetal weights, delayed skeletal ossification) was observed following administration of 10 to 160 mg/kg/day (0.5 to 8 times the MRHD on a mg/m2 basis) during organogenesis or throughout gestation, but there was no evidence of teratogenicity.
-Doses of 40 and 160 mg/kg/day (2 and 8 times the MRHD on a mg/m2 basis) were associated with maternal toxicity.
-The developmental no-effect dose was 5 mg/kg/day (0.2 times the MRHD on a mg/m2 basis).
-There was an increase in the number of pups born dead and a decrease in postnatal survival through the first 4 days of lactation among the offspring of female rats treated during gestation and lactation with doses of 10 mg/kg/day (0.5 times the MRHD on a mg/m2 basis) or greater.
-Offspring developmental delays and neurobehavioral functional impairment were observed at doses of 5 mg/kg/day (0.2 times the MRHD on a mg/m2 basis) or greater.
+The developmental no effect dose was 10 mg/kg/day (equivalent to the MRHD based on a mg/m2 body surface area).
+In rats, embryofetal toxicity (decreased fetal weights, delayed skeletal ossification) was observed following administration of 10 to 160 mg/kg/day (0.5 to 8 times the MRHD based on mg/m2 body surface area) during organogenesis or throughout gestation, but there was no evidence of teratogenicity.
+Doses of 40 and 160 mg/kg/day (2 and 8 times the MRHD based on mg/m2 body surface area) were associated with maternal toxicity.
+The developmental no-effect dose is 5 mg/kg/day (0.2 times the MRHD based on mg/m2 body surface area).
+
+There was an increase in the number of pups born dead and a decrease in postnatal survival through the first 4 days of lactation among the offspring of female rats treated during gestation and lactation with doses of 10 mg/kg/day (0.5 times the MRHD based on mg/m2 body surface area) or greater.
+Offspring developmental delays (decreased pup weights) and neurobehavioral functional impairment (eye opening air righting) were observed at doses of 5 mg/kg/day (0.2 times the MRHD based on mg/m2 body surface area) or greater.
 A no-effect level was not established for these effects.
-There are no adequate and well-controlled studies in pregnant women.
-Ziprasidone should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
-Non-teratogenic Effects Neonates exposed to antipsychotic drugs, during the third trimester of pregnancy are at risk for extrapyramidal and/or withdrawal symptoms following delivery.
-There have been reports of agitation, hypertonia, hypotonia, tremor, somnolence, respiratory distress and feeding disorder in these neonates.
-These complications have varied in severity; while in some cases symptoms have been self-limited, in other cases neonates have required intensive care unit support and prolonged hospitalization.
-Ziprasidone hydrochloride should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 
-## 8.2 Labor and Delivery
+## 8.2 Lactation
 
-The effect of ziprasidone on labor and delivery in humans is unknown.
+Risk Summary
 
-## 8.3 Nursing Mothers
+Limited data from a published case report indicate the presence of ziprasidone in human milk.
+Although there are no reports of adverse effects on a breastfed infant exposed to ziprasidone via breast milk, there are reports of excess sedation, irritability, poor feeding, and extrapyramidal symptoms (tremors and abnormal muscle movements) in infants exposed to other atypical antipsychotics through breast milk (see Clinical Considerations).
+There is no information on the effects of ziprasidone on milk production.
+The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for ziprasidone and any potential adverse effects on the breastfed child from ziprasidone or from the mother’s underlying condition.
 
-It is not known whether ziprasidone or its metabolites are excreted in human milk.
-It is recommended that women receiving ziprasidone should not breastfeed.
+Clinical Considerations
+
+Infants exposed to ziprasidone should be monitored for excess sedation, irritability, poor feeding, and extrapyramidal symptoms (tremors and abnormal muscle movements).
+
+## 8.3 Females and Males of Reproductive Potential
+
+Infertility
+
+Females
+
+Based on the pharmacologic action of ziprasidone (D2 antagonism), treatment with ziprasidone may result in an increase in serum prolactin levels, which may lead to a reversible reduction in fertility in females of reproductive potential [see Warnings and Precautions (5.15) and Nonclinical Toxicology (13.1)].
 
 ## 8.4 Pediatric Use
 

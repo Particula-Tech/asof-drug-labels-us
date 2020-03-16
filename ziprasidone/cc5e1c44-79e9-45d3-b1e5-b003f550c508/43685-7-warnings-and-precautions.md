@@ -7,7 +7,7 @@ Analyses of 17 placebo-controlled trials (modal duration of 10 weeks), largely i
 Over the course of a typical 10-week controlled trial, the rate of death in drug-treated patients was about 4.5%, compared to a rate of about 2.6% in the placebo group.
 
 Although the causes of death were varied, most of the deaths appeared to be either cardiovascular (e.g., heart failure, sudden death) or infectious (e.g., pneumonia) in nature.
-Ziprasidone hydrochloride is not approved for the treatment of dementia-related psychosis.
+Ziprasidone hydrochloride is not approved for the treatment of patients with dementia-related psychosis.
 [see Boxed Warning, Warnings and Precautions (5.2)].
 
 ## 5.2 Cerebrovascular Adverse Reactions, Including Stroke, in Elderly Patients with Dementia-Related Psychosis
@@ -274,7 +274,7 @@ Table 10: Summary of Weight Change in Short-Term (up to 6 weeks), Placebo-Contro
 | 2.4% (N=295) | 4.4% (N=388) | 1.8% (N=451) |
 
 * Note that in the High Dose group, there were 2 subjects with modal 200 mg total daily dose and 1 subject with modal 100 mg total daily dose.
-Schizophrenia - The proportions of patients meeting a weight gain criterion of ≥7% of body weight were compared in a pool of four 4- and 6-week placebo-controlled schizophrenia clinical trials, revealing a statistically significantly greater incidence of weight gain for ziprasidone (10%) compared to placebo (4%).
+Schizophrenia - The proportions of patients meeting a weight gain criterion of ≥ 7% of body weight were compared in a pool of four 4- and 6-week placebo-controlled schizophrenia clinical trials, revealing a statistically significantly greater incidence of weight gain for ziprasidone (10%) compared to placebo (4%).
 A median weight gain of 0.5 kg was observed in ziprasidone patients compared to no median weight change in placebo patients.
 In this set of clinical trials, weight gain was reported as an adverse reaction in 0.4% and 0.4% of ziprasidone and placebo patients, respectively.
 During long-term therapy with ziprasidone, a categorization of patients at baseline on the basis of body mass index (BMI) revealed the greatest mean weight gain and highest incidence of clinically significant weight gain (> 7% of body weight) in patients with low BMI (<23) compared to normal (23 to 27) or overweight patients (>27).

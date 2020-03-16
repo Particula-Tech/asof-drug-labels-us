@@ -4,12 +4,12 @@ Ziprasidone Capsules, USP (zi pras' i done) Information for patients taking zipr
 It is not meant to take the place of your doctor’s instructions.
 Read this information carefully before you take ziprasidone capsules.
 Ask your doctor or pharmacist if you do not understand any of this information or if you want to know more about ziprasidone capsules.
-What are Ziprasidone Capsules?
+What are ziprasidone capsules?
 
 Ziprasidone capsules are a type of prescription medicine called a psychotropic, also known as an atypical antipsychotic.
 Ziprasidone capsules can be used to treat symptoms of schizophrenia and acute manic or mixed episodes associated with bipolar disorder.
 Ziprasidone capsules can also be used as maintenance treatment of bipolar disorder when added to lithium or valproate.
-Who Should Take Ziprasidone Capsules?
+Who Should Take ziprasidone capsules?
 
 Only your doctor can know if ziprasidone capsules are right for you.
 Ziprasidone capsules may be prescribed for you if you have schizophrenia or bipolar disorder.
@@ -61,7 +61,7 @@ Before you start ziprasidone capsules, be sure to tell your doctor if you:
 - are taking any over-the-counter medicines you can buy without a prescription, including natural/herbal remedies
 - have had any problems with your liver
 - are pregnant, might be pregnant, or plan to get pregnant
-- are breast feeding
+- are breastfeeding or plan to breastfeed
 - are allergic to any medicines
 - have ever had an allergic reaction to ziprasidone or any of the other ingredients of ziprasidone capsules.
   Ask your doctor or pharmacist for a list of these ingredients
@@ -117,8 +117,14 @@ There have been few reports of hyperglycemia or diabetes in patients treated wit
 Patients treated with an atypical antipsychotic should be monitored for symptoms of hyperglycemia.
 Dizziness caused by a drop in your blood pressure may occur with ziprasidone capsules, especially when you first start taking this medication or when the dose is increased.
 If this happens, be careful not to stand up too quickly, and talk to your doctor about the problem.
-Before taking ziprasidone capsules, tell your doctor if you are pregnant or plan on becoming pregnant.
-It is advised that you don’t breast feed an infant if you are taking ziprasidone capsules.
+Before taking ziprasidone capsules, tell your doctor if you
+
+- are pregnant or plan on becoming pregnant.
+  - If you become pregnant while receiving ziprasidone capsules, talk to your healthcare provider about registering with the National Pregnancy Registry for Atypical Antipsychotics.
+    You can register by calling 1-866-961-2388 or go to http://womensmentalhealth.org/clinical-and-research-programs/pregnancyregistry/
+- are breastfeeding or plan to breastfeed. ziprasidone can pass into your breast milk.
+  Talk to your healthcare provider about the best way to feed your baby if you receive ziprasidone capsules.
+
 Because ziprasidone capsules can cause sleepiness, be careful when operating machinery or driving a motor vehicle.
 Since medications of the same drug class as ziprasidone capsules may interfere with the ability of the body to adjust to heat, it is best to avoid situations involving high temperature or humidity.
 It is best to avoid consuming alcoholic beverages while taking ziprasidone capsules.
@@ -126,8 +132,8 @@ Call your doctor immediately if you take more than the amount of ziprasidone hyd
 Ziprasidone capsules have not been shown to be safe or effective in the treatment of children and teenagers under the age of 18 years old.
 Keep ziprasidone capsules and all medicines out of the reach of children.
 How To Store Ziprasidone Capsules Store ziprasidone capsules at room temperature 20° to 25°C (68° to 77°F).
-For More Information about Ziprasidone Capsules This sheet is only a summary.
+For More Information About Ziprasidone Capsules This sheet is only a summary.
 Ziprasidone capsules are a prescription medicine and only your doctor can decide if it is right for you.
 If you have any questions or want more information about ziprasidone capsules, talk with your doctor or pharmacist.
 You can also call Aurobindo Pharma USA, Inc. at 1-866-850-2876.
-Maalox® is a registered trademark of Novartis Consumer Health, LLC Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 038, India Revised: 01/2019
+Maalox® is a registered trademark of Novartis Consumer Health, LLC Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 038, India Revised: 03/2020
