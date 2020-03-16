@@ -32,7 +32,7 @@ Table 3: Results of Phase 3 Trial at Week 12
 | EGSS: Clear or Almost Clear | 29% | 15% |
 | 2-grade reduction from baseline | 35% | 17% |
 | Inflammatory Lesions: |  |  |
-| Mean absolute change | 16.3 | 8.2 |
+| Mean absolute reduction | 16.3 | 8.2 |
 | Mean percent (%) reduction | 60.4% | 31.3% |
 | Non-Inflammatory Lesions: |  |  |
 | Mean absolute reduction | 19.2 | 9.6 |

@@ -1,5 +1,9 @@
 # 6 ADVERSE REACTIONS
 
+The following adverse reaction is described in more detail in the Warnings and Precautions section of the label:
+
+- •Colitis [seeWarnings and Precautions (5.1)].
+
 ## 6.1 Clinical Trials Experience
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in clinical trials of a drug cannot be directly compared to rates observed in clinical trials of another drug and may not reflect the rates observed in clinical practice.
