@@ -1,7 +1,7 @@
 # 2 DOSAGE AND ADMINISTRATION
 
 - •Valacyclovir tablets may be given without regard to meals.
-- •Valacyclovir oral suspension (25 mg/mL or 50 mg/mL) may be prepared extemporaneously from 500 mg valacyclovir tablets for use in pediatric patients for whom a solid dosage form is not appropriate [see Dosage and Administration (2.3)].
+- •Valacyclovir oral suspension (25 mg/mL or 50 mg/mL) may be prepared extemporaneously from 500-mg valacyclovir tablets for use in pediatric patients for whom a solid dosage form is not appropriate [see Dosage and Administration (2.3)].
 
 ## 2.1 Adult Dosing Recommendations
 
@@ -27,7 +27,7 @@ Initiate treatment at the first sign or symptom of an episode.
 The recommended dosage of valacyclovir tablets for chronic suppressive therapy of recurrent genital herpes is 1 gram once daily in patients with normal immune function.
 In patients with a history of 9 or fewer recurrences per year, an alternative dose is 500 mg once daily.
 
-In HIV-infected patients with a CD4+ cell count ≥ 100 cells/mm3, the recommended dosage of valacyclovir tablets for chronic suppressive therapy of recurrent genital herpes is 500 mg twice daily.
+In HIV-1–infected patients with a CD4+ cell count greater than or equal to 100 cells/mm3, the recommended dosage of valacyclovir tablets for chronic suppressive therapy of recurrent genital herpes is 500 mg twice daily.
 
 #### Reduction of Transmission
 
@@ -42,12 +42,12 @@ Therapy should be initiated at the earliest sign or symptom of herpes zoster and
 
 ### Cold Sores (Herpes Labialis)
 
-The recommended dosage of valacyclovir tablets for the treatment of cold sores in pediatric patients ≥ 12 years of age is 2 grams twice daily for 1 day taken 12 hours apart.
+The recommended dosage of valacyclovir tablets for the treatment of cold sores in pediatric patients aged greater than or equal to 12 years is 2 grams twice daily for 1 day taken 12 hours apart.
 Therapy should be initiated at the earliest symptom of a cold sore (e.g., tingling, itching, or burning).
 
 ### Chickenpox
 
-The recommended dosage of valacyclovir for treatment of chickenpox in immunocompetent pediatric patients 2 to < 18 years of age is 20 mg/kg administered 3 times daily for 5 days.
+The recommended dosage of valacyclovir for treatment of chickenpox in immunocompetent pediatric patients aged 2 to less than 18 years is 20 mg/kg administered 3 times daily for 5 days.
 The total dose should not exceed 1 gram 3 times daily.
 Therapy should be initiated at the earliest sign or symptom [see Use in Specific Populations (8.4), Clinical Pharmacology (12.3), Clinical Studies (14.4)].
 
@@ -58,17 +58,17 @@ Therapy should be initiated at the earliest sign or symptom [see Use in Specific
 Valacyclovir tablets 500 mg, cherry flavor, and Suspension Structured Vehicle USP-NF (SSV).
 Valacyclovir oral suspension (25 mg/mL or 50 mg/mL) should be prepared in lots of 100 mL.
 
-### Prepare Suspension at Time of Dispensing as Follows
+### Instructions for Preparing Suspension at Time of Dispensing
 
 - •Prepare SSV according to the USP-NF.
-- •Using a pestle and mortar, grind the required number of valacyclovir 500 mg tablets until a fine powder is produced (5 valacyclovir tablets for 25 mg/mL suspension; 10 valacyclovir tablets for 50 mg/mL suspension).
-- •Gradually add approximately 5 mL aliquots of SSV to the mortar and triturate the powder until a paste has been produced.
+- •Using a pestle and mortar, grind the required number of valacyclovir 500-mg tablets until a fine powder is produced (5 valacyclovir tablets for 25-mg/mL suspension; 10 valacyclovir tablets for 50-mg/mL suspension).
+- •Gradually add approximately 5-mL aliquots of SSV to the mortar and triturate the powder until a paste has been produced.
   Ensure that the powder has been adequately wetted.
-- •Continue to add approximately 5 mL aliquots of SSV to the mortar, mixing thoroughly between additions, until a concentrated suspension is produced, to a minimum total quantity of 20 mL SSV and a maximum total quantity of 40 mL SSV for both the 25 mg/mL and 50 mg/mL suspensions.
-- •Transfer the mixture to a suitable 100 mL measuring flask.
+- •Continue to add approximately 5-mL aliquots of SSV to the mortar, mixing thoroughly between additions, until a concentrated suspension is produced, to a minimum total quantity of 20 mL SSV and a maximum total quantity of 40 mL SSV for both the 25-mg/mL and 50- mg/mL suspensions.
+- •Transfer the mixture to a suitable 100-mL measuring flask.
 - •Transfer the cherry flavor* to the mortar and dissolve in approximately 5 mL of SSV.
   Once dissolved, add to the measuring flask.
-- •Rinse the mortar at least 3 times with approximately 5 mL aliquots of SSV, transferring the rinsing to the measuring flask between additions.
+- •Rinse the mortar at least 3 times with approximately 5-mL aliquots of SSV, transferring the rinsing to the measuring flask between additions.
 - •Make the suspension to volume (100 mL) with SSV and shake thoroughly to mix.
 - •Transfer the suspension to an amber glass medicine bottle with a child-resistant closure.
 - •The prepared suspension should be labeled with the following information “Shake well before using.
@@ -80,28 +80,28 @@ Valacyclovir oral suspension (25 mg/mL or 50 mg/mL) should be prepared in lots o
 ## 2.4 Patients with Renal Impairment
 
 Dosage recommendations for adult patients with reduced renal function are provided in Table 1 [see Use in Specific Populations (8.5, 8.6), Clinical Pharmacology (12.3)].
-Data are not available for the use of valacyclovir in pediatric patients with a creatinine clearance < 50 mL/min/1.73 m2.
+Data are not available for the use of valacyclovir in pediatric patients with a creatinine clearance less than 50 mL/min/1.73 m2.
 
 Table 1.
 Valacyclovir Tablets Dosage Recommendations for Adults with Renal Impairment
 
-| Indications | Normal Dosage Regimen (Creatinine Clearance ≥ 50 mL/min) | Creatinine Clearance (mL/min) |  |  |
+| Indications | Normal DosageRegimen(Creatinine Clearance ≥ 50 mL/min) | Creatinine Clearance (mL/min) |  |  |
 | --- | --- | --- | --- | --- |
 | 30-49 | 10-29 | < 10 |  |  |
-| Cold sores (Herpes labialis) Do not exceed 1 day of treatment. | Two 2 gram doses taken 12 hours apart | Two 1 gram doses taken 12 hours apart | Two 500 mg doses taken 12 hours apart | 500 mg single dose |
+| Cold sores (Herpes Labialis) Do not exceed 1 day of treatment. | Two 2-gram doses taken 12 hours apart | Two 1-gram doses taken 12 hours apart | Two 500-mg doses taken 12 hours apart | 500-mg single dose |
 | Genital herpes: Initial episode | 1 gram every 12 hours | no reduction | 1 gram every 24 hours | 500 mg every 24 hours |
-| Genital herpes: Recurrent episode | 500 mg every 12 hours | no reduction | 500 mg every 24 hours | 500 mg every24 hours |
+| Genital herpes: Recurrent episode | 500 mg every 12 hours | no reduction | 500 mg every 24 hours | 500 mg every 24 hours |
 | Genital herpes: Suppressive therapy |  |  |  |  |
 | Immunocompetent patients | 1 gram every 24 hours | no reduction | 500 mg every 24 hours | 500 mg every 24 hours |
-| Alternate dose for immunocompetent patients with ≤ 9 recurrences/year | 500 mg every 24 hours | no reduction | 500 mg every 48 hours | 500 mg every 48 hours |
-| HIV-infected patients | 500 mg every 12 hours | no reduction | 500 mg every 24 hours | 500 mg every 24 hours |
-| Herpes zoster | 1 gram every8 hours | 1 gram every12 hours | 1 gram every 24 hours | 500 mg every 24 hours |
+| Alternate dose for immunocompetent patients with less than or equal to 9 recurrences/year | 500 mg every 24 hours | no reduction | 500 mg every 48 hours | 500 mg every 48 hours |
+| HIV-1–infected patients | 500 mg every 12 hours | no reduction | 500 mg every 24 hours | 500 mg every 24 hours |
+| Herpes zoster | 1 gram every 8 hours | 1 gram every 12 hours | 1 gram every 24 hours | 500 mg every 24 hours |
 
 ### Hemodialysis
 
 Patients requiring hemodialysis should receive the recommended dose of valacyclovir tablets after hemodialysis.
 During hemodialysis, the half-life of acyclovir after administration of valacyclovir tablets is approximately 4 hours.
-About one third of acyclovir in the body is removed by dialysis during a 4-hour hemodialysis session.
+About one-third of acyclovir in the body is removed by dialysis during a 4-hour hemodialysis session.
 
 ### Peritoneal Dialysis
 

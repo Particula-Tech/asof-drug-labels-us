@@ -1,21 +1,18 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-See FDA-Approved Patient Labeling.
+Advise the patient to read the FDA-approved patient labeling (Patient Information).
 
-## 17.1 Importance of Adequate Hydration
+Importance of Adequate Hydration: Patients should be advised to maintain adequate hydration.
 
-Patients should be advised to maintain adequate hydration.
+Missed Dose: Instruct patients that if they miss a dose of valacyclovir tablets, to take it as soon as they remember.
+Advise patients not to double their next dose or take more than the prescribed dose.
 
-## 17.2 Cold Sores (Herpes Labialis)
-
-Patients should be advised to initiate treatment at the earliest symptom of a cold sore (e.g., tingling, itching, or burning).
+Cold Sores (Herpes Labialis): Patients should be advised to initiate treatment at the earliest symptom of a cold sore (e.g., tingling, itching, or burning).
 There are no data on the effectiveness of treatment initiated after the development of clinical signs of a cold sore (e.g., papule, vesicle, or ulcer).
 Patients should be instructed that treatment for cold sores should not exceed 1 day (2 doses) and that their doses should be taken about 12 hours apart.
 Patients should be informed that valacyclovir tablets are not a cure for cold sores.
 
-## 17.3 Genital Herpes
-
-Patients should be informed that valacyclovir tablets are not a cure for genital herpes.
+Genital Herpes: Patients should be informed that valacyclovir tablets are not a cure for genital herpes.
 Because genital herpes is a sexually transmitted disease, patients should avoid contact with lesions or intercourse when lesions and/or symptoms are present to avoid infecting partners.
 Genital herpes is frequently transmitted in the absence of symptoms through asymptomatic viral shedding.
 Therefore, patients should be counseled to use safer sex practices in combination with suppressive therapy with valacyclovir tablets.
@@ -29,13 +26,9 @@ If medical management of a genital herpes recurrence is indicated, patients shou
 There are no data on the effectiveness of treatment initiated more than 72 hours after the onset of signs and symptoms of a first episode of genital herpes or more than 24 hours after the onset of signs and symptoms of a recurrent episode.
 
 There are no data on the safety or effectiveness of chronic suppressive therapy of more than 1 year’s duration in otherwise healthy patients.
-There are no data on the safety or effectiveness of chronic suppressive therapy of more than 6 months’ duration in HIV-infected patients.
+There are no data on the safety or effectiveness of chronic suppressive therapy of more than 6 months’ duration in HIV-1–infected patients.
 
-## 17.4 Herpes Zoster
-
-There are no data on treatment initiated more than 72 hours after onset of the zoster rash.
+Herpes Zoster: There are no data on treatment initiated more than 72 hours after onset of the zoster rash.
 Patients should be advised to initiate treatment as soon as possible after a diagnosis of herpes zoster.
 
-## 17.5 Chickenpox
-
-Patients should be advised to initiate treatment at the earliest sign or symptom of chickenpox.
+Chickenpox: Patients should be advised to initiate treatment at the earliest sign or symptom of chickenpox.

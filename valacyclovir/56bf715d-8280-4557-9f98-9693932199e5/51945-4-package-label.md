@@ -1,4 +1,4 @@
-PRINCIPAL DISPLAY PANEL - 500 mg
+# PRINCIPAL DISPLAY PANEL – 500 mg
 
 NDC 0378-4275-93
 
@@ -6,7 +6,7 @@ Valacyclovir Tablets, USP 500 mg
 
 Rx only 30 Tablets
 
-Each film-coated tablet contains valacyclovir hydrochloride, USP equivalent to 500 mg of valacyclovir.
+Each film-coated tablet contains 500 mg of valacyclovir equivalent to 611.2 mg of valacyclovir hydrochloride, USP per tablet.
 
 Usual Dosage: See accompanying prescribing information.
 
@@ -23,7 +23,7 @@ Made in India
 
 Mylan.com
 
-RMX4275H5
+RMX4275H6
 
 Dispense in a tight, light-resistant container as defined in the USP using a child-resistant closure.
 
@@ -31,7 +31,7 @@ Keep container tightly closed.
 
 Code No.: MH/DRUGS/25/NKD/89
 
-PRINCIPAL DISPLAY PANEL - 1 gram
+# PRINCIPAL DISPLAY PANEL – 1 g
 
 NDC 0378-4276-93
 
@@ -39,7 +39,7 @@ Valacyclovir Tablets, USP 1 gram
 
 Rx only 30 Tablets
 
-Each film-coated tablet contains valacyclovir hydrochloride, USP equivalent to 1 gram of valacyclovir.
+Each film-coated tablet contains 1 gram of valacyclovir equivalent to 1222.4 mg of valacyclovir hydrochloride, USP per tablet.
 
 Usual Dosage: See accompanying prescribing information.
 
@@ -56,7 +56,7 @@ Made in India
 
 Mylan.com
 
-RMX4276H5
+RMX4276H6
 
 Dispense in a tight, light-resistant container as defined in the USP using a child-resistant closure.
 

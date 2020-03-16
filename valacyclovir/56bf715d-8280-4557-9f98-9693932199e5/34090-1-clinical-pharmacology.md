@@ -2,11 +2,11 @@
 
 ## 12.1 Mechanism of Action
 
-Valacyclovir is an antiviral drug [see Clinical Pharmacology (12.4)].
+Valacyclovir is an antiviral drug active against α-herpes viruses [see Microbiology (12.4)].
 
 ## 12.3 Pharmacokinetics
 
-The pharmacokinetics of valacyclovir and acyclovir after oral administration of valacyclovir tablets have been investigated in 14 volunteer studies involving 283 adults and in 3 studies involving 112 pediatric subjects from 1 month to < 12 years of age.
+The pharmacokinetics of valacyclovir and acyclovir after oral administration of valacyclovir tablets have been investigated in 14 volunteer trials involving 283 adults and in 3 trials involving 112 pediatric subjects aged 1 month to less than 12 years.
 
 ### Pharmacokinetics in Adults
 
@@ -14,7 +14,7 @@ The pharmacokinetics of valacyclovir and acyclovir after oral administration of 
 
 After oral administration, valacyclovir hydrochloride is rapidly absorbed from the gastrointestinal tract and nearly completely converted to acyclovir and L-valine by first-pass intestinal and/or hepatic metabolism.
 
-The absolute bioavailability of acyclovir after administration of valacyclovir tablets is 54.5% ± 9.1% as determined following a 1 gram oral dose of valacyclovir tablets and a 350 mg intravenous acyclovir dose to 12 healthy volunteers.
+The absolute bioavailability of acyclovir after administration of valacyclovir tablets is 54.5% ± 9.1% as determined following a 1-gram oral dose of valacyclovir tablets and a 350-mg intravenous acyclovir dose to 12 healthy volunteers.
 Acyclovir bioavailability from the administration of valacyclovir tablets is not altered by administration with food (30 minutes after an 873 Kcal breakfast, which included 51 grams of fat).
 
 Acyclovir pharmacokinetic parameter estimates following administration of valacyclovir tablets to healthy adult volunteers are presented in Table 3.
@@ -25,14 +25,15 @@ There is no accumulation of acyclovir after the administration of valacyclovir a
 Table 3.
 Mean (± SD) Plasma Acyclovir Pharmacokinetic Parameters Following Administration of Valacyclovir Tablets to Healthy Adult Volunteers
 
-| Dose | Single-Dose Administration (N = 8) |  | Multiple-Dose AdministrationAdministered 4 times daily for 11 days. ND = not done. (N = 24, 8 per treatment arm) |  |
+| Dose | Single-Dose Administration(N = 8) |  | Multiple-Dose AdministrationAdministered 4 times daily for 11 days.(N = 24, 8 per treatment arm) |  |
 | --- | --- | --- | --- | --- |
-| Cmax (± SD) (mcg/mL) | AUC (± SD) (hr • mcg/mL) | Cmax (± SD) (mcg/mL) | AUC (± SD) (hr • mcg/mL) |  |
+| Cmax (± SD)(mcg/mL) | AUC (± SD) (hr • mcg/mL) | Cmax (± SD) (mcg/mL) | AUC (± SD) (hr • mcg/mL) |  |
 | 100 mg | 0.83 (± 0.14) | 2.28 (± 0.40) | ND | ND |
 | 250 mg | 2.15 (± 0.50) | 5.76 (± 0.60) | 2.11 (± 0.33) | 5.66 (± 1.09) |
 | 500 mg | 3.28 (± 0.83) | 11.59 (± 1.79) | 3.69 (± 0.87) | 9.88 (± 2.01) |
 | 750 mg | 4.17 (± 1.14) | 14.11 (± 3.54) | ND | ND |
-| 1000 mg | 5.65 (± 2.37) | 19.52 (± 6.04) | 4.96 (± 0.64) | 15.70 (± 2.27) |
+| 1,000 mg | 5.65 (± 2.37) | 19.52 (± 6.04) | 4.96 (± 0.64) | 15.70 (± 2.27) |
+| ND = not done. |  |  |  |  |
 
 #### Distribution
 
@@ -46,58 +47,58 @@ Acyclovir is converted to a small extent to inactive metabolites by aldehyde oxi
 Neither valacyclovir nor acyclovir is metabolized by cytochrome P450 enzymes.
 Plasma concentrations of unconverted valacyclovir are low and transient, generally becoming non-quantifiable by 3 hours after administration.
 Peak plasma valacyclovir concentrations are generally less than 0.5 mcg/mL at all doses.
-After single-dose administration of 1 gram of valacyclovir tablets, average plasma valacyclovir concentrations observed were 0.5, 0.4, and 0.8 mcg/mL in patients with hepatic dysfunction, renal insufficiency, and in healthy volunteers who received concomitant cimetidine and probenecid, respectively.
+After single-dose administration of 1 gram of valacyclovir tablets, average plasma valacyclovir concentrations observed were 0.5, 0.4, and 0.8 mcg/mL in subjects with hepatic dysfunction, renal insufficiency, and in healthy subjects who received concomitant cimetidine and probenecid, respectively.
 
 #### Elimination
 
 The pharmacokinetic disposition of acyclovir delivered by valacyclovir is consistent with previous experience from intravenous and oral acyclovir.
-Following the oral administration of a single 1 gram dose of radiolabeled valacyclovir to 4 healthy subjects, 46% and 47% of administered radioactivity was recovered in urine and feces, respectively, over 96 hours.
+Following the oral administration of a single 1-gram dose of radiolabeled valacyclovir to 4 healthy subjects, 46% and 47% of administered radioactivity was recovered in urine and feces, respectively, over 96 hours.
 Acyclovir accounted for 89% of the radioactivity excreted in the urine.
-Renal clearance of acyclovir following the administration of a single 1 gram dose of valacyclovir tablets to 12 healthy volunteers was approximately 255 ± 86 mL/min which represents 42% of total acyclovir apparent plasma clearance.
+Renal clearance of acyclovir following the administration of a single 1-gram dose of valacyclovir tablets to 12 healthy subjects was approximately 255 ± 86 mL/min which represents 42% of total acyclovir apparent plasma clearance.
 
-The plasma elimination half-life of acyclovir typically averaged 2.5 to 3.3 hours in all studies of valacyclovir tablets in volunteers with normal renal function.
+The plasma elimination half-life of acyclovir typically averaged 2.5 to 3.3 hours in all trials of valacyclovir tablets in subjects with normal renal function.
 
 ### Specific Populations
 
-#### Renal Impairment
+#### Patients with Renal Impairment
 
-Reduction in dosage is recommended in patients with renal impairment [see Dosage and Administration (2.4), Use in Specific Populations (8.5), (8.6)].
+Reduction in dosage is recommended in patients with renal impairment [see Dosage and Administration (2.4), Use in Specific Populations (8.5, 8.6)].
 
-Following administration of valacyclovir tablets to volunteers with ESRD, the average acyclovir half-life is approximately 14 hours.
+Following administration of valacyclovir tablets to subjects with ESRD, the average acyclovir half-life is approximately 14 hours.
 During hemodialysis, the acyclovir half-life is approximately 4 hours.
-Approximately one third of acyclovir in the body is removed by dialysis during a 4-hour hemodialysis session.
-Apparent plasma clearance of acyclovir in dialysis patients was 86.3 ± 21.3 mL/min/1.73 m2 compared with 679.16 ± 162.76 mL/min/1.73 m2 in healthy volunteers.
+Approximately one-third of acyclovir in the body is removed by dialysis during a 4-hour hemodialysis session.
+Apparent plasma clearance of acyclovir in subjects on dialysis was 86.3 ± 21.3 mL/min/1.73 m2 compared with 679.16 ± 162.76 mL/min/1.73 m2 in healthy subjects.
 
-#### Hepatic Impairment
+#### Patients with Hepatic Impairment
 
-Administration of valacyclovir tablets to patients with moderate (biopsy-proven cirrhosis) or severe (with and without ascites and biopsy-proven cirrhosis) liver disease indicated that the rate but not the extent of conversion of valacyclovir to acyclovir is reduced, and the acyclovir half-life is not affected.
+Administration of valacyclovir tablets to subjects with moderate (biopsy-proven cirrhosis) or severe (with and without ascites and biopsy-proven cirrhosis) liver disease indicated that the rate but not the extent of conversion of valacyclovir to acyclovir is reduced, and the acyclovir half-life is not affected.
 Dosage modification is not recommended for patients with cirrhosis.
 
-#### HIV Disease
+#### Patients with HIV-1 Disease
 
-In 9 patients with HIV disease and CD4+ cell counts < 150 cells/mm3 who received valacyclovir tablets at a dosage of 1 gram 4 times daily for 30 days, the pharmacokinetics of valacyclovir and acyclovir were not different from that observed in healthy volunteers.
+In 9 subjects with HIV-1 disease and CD4+ cell counts less than 150 cells/mm3 who received valacyclovir tablets at a dosage of 1 gram 4 times daily for 30 days, the pharmacokinetics of valacyclovir and acyclovir were not different from that observed in healthy subjects.
 
-#### Geriatrics
+#### Geriatric Patients
 
-After single-dose administration of 1 gram of valacyclovir tablets in healthy geriatric volunteers, the half-life of acyclovir was 3.11 ± 0.51 hours, compared with 2.91 ± 0.63 hours in healthy younger adult volunteers.
-The pharmacokinetics of acyclovir following single- and multiple-dose oral administration of valacyclovir tablets in geriatric volunteers varied with renal function.
-Dose reduction may be required in geriatric patients, depending on the underlying renal status of the patient [see Dosage and Administration (2.4), Use in Specific Populations (8.5), (8.6)].
+After single-dose administration of 1 gram of valacyclovir tablets in healthy geriatric subjects, the half-life of acyclovir was 3.11 ± 0.51 hours compared with 2.91 ± 0.63 hours in healthy younger adult subjects.
+The pharmacokinetics of acyclovir following single- and multiple-dose oral administration of valacyclovir tablets in geriatric subjects varied with renal function.
+Dose reduction may be required in geriatric patients, depending on the underlying renal status of the patient [see Dosage and Administration (2.4), Use in Specific Populations (8.5, 8.6)].
 
-#### Pediatrics
+#### Pediatric Patients
 
-Acyclovir pharmacokinetics have been evaluated in a total of 98 pediatric patients (1 month to < 12 years of age) following administration of the first dose of an extemporaneous oral suspension of valacyclovir [see Adverse Reactions (6.2), Use in Specific Populations (8.4)].
-Acyclovir pharmacokinetic parameter estimates following a 20 mg/kg dose are provided in Table 4.
+Acyclovir pharmacokinetics have been evaluated in a total of 98 pediatric subjects (aged 1 month to less than 12 years) following administration of the first dose of an extemporaneous oral suspension of valacyclovir [see Adverse Reactions (6.2), Use in Specific Populations (8.4)].
+Acyclovir pharmacokinetic parameter estimates following a 20-mg/kg dose are provided in Table 4.
 
 Table 4.
-Mean (±SD) Plasma Acyclovir Pharmacokinetic Parameter Estimates Following First-Dose Administration of 20 mg/kg Valacyclovir Oral Suspension to Pediatric Patients vs. 1 Gram Single Dose of Valacyclovir Tablets to Adults
+Mean (±SD) Plasma Acyclovir Pharmacokinetic Parameter Estimates Following First-Dose Administration of 20 mg/kg Valacyclovir Oral Suspension to Pediatric Subjects vs. 1-Gram Single Dose of Valacyclovir Tablets to Adults
 
-| Parameter | Pediatric Patients(20 mg/kg Oral Suspension) |  |  | Adults1 gram Solid Dose of Valacyclovir TabletsHistorical estimates using pediatric pharmacokinetic sampling schedule.(N = 15) |
+| Parameter | Pediatric Subjects(20 mg/kg Oral Suspension) |  |  | Adults1-gram Solid Dose of Valacyclovir TabletsHistorical estimates using pediatric pharmacokinetic sampling schedule.(N = 15) |
 | --- | --- | --- | --- | --- |
-| 1 - < 2 yr(N = 6) | 2 - < 6 yr(N = 12) | 6 - < 12 yr(N = 8) |  |  |
+| 1 - < 2 year(N = 6) | 2 - < 6 year(N = 12) | 6 - < 12 year(N = 8) |  |  |
 | AUC (mcg•hr/mL) | 14.4 (± 6.26) | 10.1 (± 3.35) | 13.1 (± 3.43) | 17.2 (± 3.10) |
 | Cmax (mcg/mL) | 4.03 (± 1.37) | 3.75 (± 1.14) | 4.71 (± 1.20) | 4.72 (± 1.37) |
 
-### Drug Interactions
+### Drug Interaction Studies
 
 When valacyclovir tablets are coadministered with antacids, cimetidine and/or probenicid, digoxin, or thiazide diuretics in patients with normal renal function, the effects are not considered to be of clinical significance (see below).
 Therefore, when valacyclovir tablets are coadministered with these drugs in patients with normal renal function, no dosage adjustment is recommended.
@@ -130,31 +131,38 @@ The pharmacokinetics of acyclovir after a single dose of valacyclovir tablets (1
 
 ### Mechanism of Action
 
-Valacyclovir is a nucleoside analogue DNA polymerase inhibitor.
-Valacyclovir hydrochloride is rapidly converted to acyclovir which has demonstrated antiviral activity against HSV types 1 (HSV-1) and 2 (HSV-2) and VZV both in cell culture and in vivo.
+Valacyclovir is a deoxynucleoside analogue DNA polymerase inhibitor.
+Valacyclovir hydrochloride is rapidly converted to acyclovir, which has demonstrated antiviral activity against HSV types 1 (HSV-1) and 2 (HSV-2) and VZV both in cell culture and in vivo.
 
-The inhibitory activity of acyclovir is highly selective due to its affinity for the enzyme thymidine kinase (TK) encoded by HSV and VZV.
-This viral enzyme converts acyclovir into acyclovir monophosphate, a nucleotide analogue.
+Acyclovir is a synthetic purine deoxynucleoside that is phosphorylated intracellularly by the viral encoded thymidine kinase (TK; pUL23) of HSV or VZV into acyclovir monophosphate, a nucleotide analogue.
 The monophosphate is further converted into diphosphate by cellular guanylate kinase and into triphosphate by a number of cellular enzymes.
-In biochemical assays, acyclovir triphosphate inhibits replication of herpes viral DNA.
+In biochemical assays, acyclovir triphosphate inhibits replication of α-herpes viral DNA.
 This is accomplished in 3 ways: 1) competitive inhibition of viral DNA polymerase, 2) incorporation and termination of the growing viral DNA chain, and 3) inactivation of the viral DNA polymerase.
 The greater antiviral activity of acyclovir against HSV compared with VZV is due to its more efficient phosphorylation by the viral TK.
 
-### Antiviral Activities
+### Antiviral Activity
 
 The quantitative relationship between the cell culture susceptibility of herpes viruses to antivirals and the clinical response to therapy has not been established in humans, and virus sensitivity testing has not been standardized.
 Sensitivity testing results, expressed as the concentration of drug required to inhibit by 50% the growth of virus in cell culture (EC50), vary greatly depending upon a number of factors.
-Using plaque-reduction assays, the EC50 values against herpes simplex virus isolates range from 0.09 to 60 μM (0.02 to 13.5 mcg/mL) for HSV-1 and from 0.04 to 44 μM (0.01 to 9.9 mcg/mL) for HSV-2.
-The EC50 values for acyclovir against most laboratory strains and clinical isolates of VZV range from 0.53 to 48 μM (0.12 to 10.8 mcg/mL).
-Acyclovir also demonstrates activity against the Oka vaccine strain of VZV with a mean EC50 of 6 μM (1.35 mcg/mL).
+Using plaque-reduction assays, the EC50 values against herpes simplex virus isolates range from 0.09 to 60 microM (0.02 to 13.5 mcg/mL) for HSV-1 and from 0.04 to 44 microM (0.01 to 9.9 mcg/mL) for HSV-2.
+The EC50 values for acyclovir against most laboratory strains and clinical isolates of VZV range from 0.53 to 48 microM (0.12 to 10.8 mcg/mL).
+Acyclovir also demonstrates activity against the Oka vaccine strain of VZV with a mean EC50 value of 6 microM (1.35 mcg/mL).
 
 ### Resistance
 
-Resistance of HSV and VZV to acyclovir can result from qualitative and quantitative changes in the viral TK and/or DNA polymerase.
-Clinical isolates of VZV with reduced susceptibility to acyclovir have been recovered from patients with AIDS.
-In these cases, TK-deficient mutants of VZV have been recovered.
+#### In Cell Culture
 
-Resistance of HSV and VZV to acyclovir occurs by the same mechanisms.
-While most of the acyclovir-resistant mutants isolated thus far from immunocompromised patients have been found to be TK-deficient mutants, other mutants involving the viral TK gene (TK partial and TK altered) and DNA polymerase have also been isolated.
-TK-negative mutants may cause severe disease in immunocompromised patients.
-The possibility of viral resistance to valacyclovir (and therefore, to acyclovir) should be considered in patients who show poor clinical response during therapy.
+Acyclovir-resistant HSV-1, HSV-2, and VZV strains were isolated in cell culture.
+Acyclovir-resistant HSV and VZV resulted from mutations in the viral thymidine kinase (TK, pUL23) and DNA polymerase (POL; pUL30) genes.
+Frameshifts were commonly isolated and result in premature truncation of the HSV TK product with consequent decreased susceptibility to acyclovir.
+Mutations in the viral TK gene may lead to complete loss of TK activity (TK negative), reduced levels of TK activity (TK partial), or alteration in the ability of viral TK to phosphorylate the drug without an equivalent loss in the ability to phosphorylate thymidine (TK altered).
+
+#### HSV-Infected Patients
+
+Clinical HSV-1 and HSV-2 isolates obtained from patients who failed treatment for their α-herpes virus infections were evaluated for genotypic changes in the TK and POL genes and for phenotypic resistance to acyclovir.
+HSV isolates with frameshift mutations and resistance-associated substitutions in TK and POL were identified.
+The possibility of viral resistance to acyclovir should be considered in patients who fail to respond or experience recurrent viral shedding during therapy.
+
+### Cross Resistance
+
+Cross-resistance has been observed among HSV isolates carrying frameshift mutations and resistance-associated substitutions, which confer reduced susceptibility to penciclovir, famciclovir, and foscarnet.
