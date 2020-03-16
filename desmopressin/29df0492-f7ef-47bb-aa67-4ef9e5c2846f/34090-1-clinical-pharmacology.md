@@ -1,7 +1,7 @@
 # CLINICAL PHARMACOLOGY
 
 DESMOPRESSIN ACETATE Injection 4 mcg/mL contains as active substance, desmopressin acetate, a synthetic analogue of the natural hormone arginine vasopressin.
-One mL (4 mcg) of DESMOPRESSIN ACETATE (desmopressin acetate) solution has an antidiuretic activity of about 16 IU; 1 mcg of DESMOPRESSIN ACETATE is equivalent to 4 IU.
+One mL (4 mcg) of DESMOPRESSIN ACETATE solution has an antidiuretic activity of about 16 IU; 1 mcg of DESMOPRESSIN ACETATE is equivalent to 4 IU.
 
 DESMOPRESSIN ACETATE has been shown to be more potent than arginine vasopressin in increasing plasma levels of factor VIII activity in patients with hemophilia and von Willebrand's disease Type I.
 
@@ -23,6 +23,6 @@ The factor VIII related antigen and ristocetin cofactor activity were also incre
    The initial response is reproducible in any particular patient if there are 2 or 3 days between administrations.
 
 Human Pharmacokinetics: DESMOPRESSIN ACETATE is mainly excreted in the urine.
-A pharmacokinetic study conducted in healthy volunteers and patients with mild, moderate, and severe renal impairment (n=24, 6 subjects in each group) receiving single dose desmopressin acetate (2mcg) injection demonstrated a difference in DESMOPRESSIN ACETATE terminal half-life.
+A pharmacokinetic study conducted in healthy volunteers and patients with mild, moderate, and severe renal impairment (n=24, 6 subjects in each group) receiving single dose desmopressin acetate (2 mcg) injection demonstrated a difference in DESMOPRESSIN ACETATE terminal half-life.
 Terminal half-life significantly increased from 3 hours in normal healthy patients to 9 hours in patients with severe renal impairment.
 (See CONTRAINDICATIONS.)

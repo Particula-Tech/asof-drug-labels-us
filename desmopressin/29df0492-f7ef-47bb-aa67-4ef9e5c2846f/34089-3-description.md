@@ -9,14 +9,14 @@ Wt.
 
 1-(3-mercaptopropionic acid)-8-D-arginine vasopressin monoacetate (salt) trihydrate.
 
-DESMOPRESSIN ACEATE Injection 4 mcg/mL is provided as a sterile, aqueous solution for injection.
+DESMOPRESSIN ACETATE Injection 4 mcg/mL is provided as a sterile, aqueous solution for injection.
 
 Each mL provides:
 
-Desmopressin acetate 4.0 mcg
+Desmopressin acetate 4 mcg
 
-Sodium chloride 9.0 mg
+Sodium chloride 9 mg
 
 Hydrochloric acid to adjust pH to 4
 
-The 10 mL vial contains chlorobutanol as a preservative (5.0 mg/mL).
+The 10 mL vial contains chlorobutanol as a preservative (5 mg/mL).

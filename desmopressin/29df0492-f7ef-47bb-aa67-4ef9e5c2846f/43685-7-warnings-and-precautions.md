@@ -9,7 +9,7 @@ Careful medical supervision is required.
 
 2.
 When DESMOPRESSIN ACETATE Injection is administered to patients who do not have need of antidiuretic hormone for its antidiuretic effect, in particular in pediatric and geriatric patients, fluid intake should be adjusted downward to decrease the potential occurrence of water intoxication and hyponatremia.
-(See PRECAUTIONS, Pediatric Use and Generic Use.)
+(See PRECAUTIONS, Pediatric Use and Geriatric Use.)
 All patients receiving DESMOPRESSIN ACETATE therapy should be observed for the following signs or symptoms associated with hyponatremia: headache, nausea/vomiting, decreased serum sodium, weight gain, restlessness, fatigue, lethargy, disorientation, depressed reflexes, loss of appetite, irritability, muscle weakness, muscle spasms or cramps and abnormal mental status such as hallucinations, decreased consciousness and confusion.
 Severe symptoms may include one or a combination of the following: seizure, coma and/or respiratory arrest.
 Particular attention should be paid to the possibility of the rare occurrence of an extreme decrease in plasma osmolality that may result in seizures which could lead to coma.
@@ -79,7 +79,7 @@ In general, dose selection should be cautious, usually starting at the low end o
 
 This drug is known to be substantially excreted by the kidney, and the risk of toxic reactions to this drug may be greater in patients with impaired renal function.
 Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection, and it may be useful to monitor renal function.
-DESMOPRESSIN ACETATE is contraindicated in patients with moderate to severe renal impairment (defined as a creatinine clearance below 50ml/min).
+DESMOPRESSIN ACETATE is contraindicated in patients with moderate to severe renal impairment (defined as a creatinine clearance below 50mL/min).
 (See CLINICAL PHARMACOLOGY, Human Pharmacokinetics, and CONTRAINDICATIONS.)
 
 Use of DESMOPRESSIN ACETATE injection in geriatric patients will require careful fluid intake restrictions to prevent possible hyponatremia and water intoxication.

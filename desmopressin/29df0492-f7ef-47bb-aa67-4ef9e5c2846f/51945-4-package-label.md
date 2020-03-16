@@ -1,10 +1,16 @@
 # PRINCIPAL DISPLAY PANEL - 10 mL Vial Carton
 
-10 mL vial 4 mcg/mL
-
 NDC 69918-901-10
 
+Rx Only
+
 Desmopressin Acetate Injection
+
+4 mcg/mL
+
+For Intravenous and Subcutaneous Use Only
+
+10 mL Vial
 
 AMRING PHARMACEUTICALS
 
@@ -12,7 +18,11 @@ AMRING PHARMACEUTICALS
 
 NDC 69918-899-10
 
+Rx Only
+
 DESMOPRESSIN ACETATE Injection
+
+4 mcg/mL
 
 PRESERVATIVE FREE For Intravenous and Subcutaneous Use Only
 

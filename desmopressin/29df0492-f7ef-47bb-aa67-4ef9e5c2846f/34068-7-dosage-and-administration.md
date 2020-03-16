@@ -26,7 +26,7 @@ Parenteral drug products should be inspected visually for particulate matter and
 
 Geriatric Use: This drug is known to be substantially excreted by the kidney, and the risk of toxic reactions to this drug may be greater in patients with impaired renal function.
 Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection, and it may be useful to monitor renal function.
-(See CLINICAL PHARMACOLOGY, Human Pharmcokinetics, CONTRAINDICATIONS, and PRECAUTIONS, Geriatric Use.)
+(See CLINICAL PHARMACOLOGY, Human Pharmacokinetics, CONTRAINDICATIONS, and PRECAUTIONS, Geriatric Use.)
 
 Directions for use of One Point Cut (OPC) Ampules for DESMOPRESSIN ACETATE Injection:
 
