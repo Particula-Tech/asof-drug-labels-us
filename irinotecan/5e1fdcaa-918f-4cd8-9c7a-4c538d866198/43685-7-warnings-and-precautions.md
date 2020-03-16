@@ -10,7 +10,7 @@ Consider prophylactic or therapeutic administration of 0.25 mg to 1 mg of intrav
 These symptoms are expected to occur more frequently with higher irinotecan doses.
 
 Late diarrhea (generally occurring more than 24 hours after administration of Irinotecan Hydrochloride Injection) can be life threatening since it may be prolonged and may lead to dehydration, electrolyte imbalance, or sepsis.
-Grade 3-4 late diarrhea occurred in 23 to 31% of patients receiving weekly dosing.
+Grade 3 to 4 late diarrhea occurred in 23 to 31% of patients receiving weekly dosing.
 In the clinical studies, the median time to the onset of late diarrhea was 5 days with 3-week dosing and 11 days with weekly dosing.
 Late diarrhea can be complicated by colitis, ulceration, bleeding, ileus, obstruction, and infection.
 Cases of megacolon and intestinal perforation have been reported.
@@ -93,14 +93,14 @@ Irinotecan Hydrochloride Injection should be used as recommended [see Dosage and
 
 In the clinical trials, higher rates of hospitalization, neutropenic fever, thromboembolism, first-cycle treatment discontinuation, and early deaths were observed in patients with a baseline performance status of 2 than in patients with a baseline performance status of 0 or 1.
 
-## 5.9 Embryofetal Toxicity
+## 5.9 Embryo-Fetal Toxicity
 
-Irinotecan Hydrochloride Injection can cause fetal harm when administered to a pregnant woman.
-Irinotecan was embryotoxic in rats and rabbits at doses significantly lower than those administered to humans on a mg/m2 basis.
-In rats, at exposures approximately 0.2 times those achieved in humans at the 125 mg/m2 dose, irinotecan was embryotoxic and resulted in decreased learning ability and female fetal body weight in surviving pups; the drug was teratogenic at lower exposures (approximately 0.025 times the AUC in humans at the 125 mg/m2 dose).
-There are no adequate and well-controlled studies of irinotecan in pregnant women.
-If this drug is used during pregnancy, or if the patient becomes pregnant while taking this drug, the patient should be apprised of the potential hazard to a fetus.
-Women of childbearing potential should be advised to avoid becoming pregnant while receiving treatment with Irinotecan Hydrochloride Injection.
+Based on its mechanism of action and findings in animals, Irinotecan Hydrochloride Injection can cause fetal harm when administered to a pregnant woman.
+In animal studies, intravenous administration of irinotecan during the period of organogenesis resulted in embryofetal mortality and teratogenicity in pregnant animals at exposures lower than the human exposure based on area under the curve (AUC) at the clinical dose of 125 mg/m2.
+Advise pregnant women of the potential risk to a fetus.
+
+Advise female patients of reproductive potential to avoid becoming pregnant and to use highly effective contraception during treatment with Irinotecan Hydrochloride Injection and for 6 months after the final dose.
+Advise male patients with female partners of reproductive potential to use condoms during treatment and for 3 months after the final dose of Irinotecan Hydrochloride Injection [see Use in Specific Populations (8.1), (8.3) and Nonclinical Toxicology (13.1)].
 
 ## 5.10 Patients with Hepatic Impairment
 
