@@ -12,28 +12,15 @@ Bromocriptine mesylate is a nonhormonal, nonestrogenic agent that inhibits the s
 Bromocriptine mesylate produces its therapeutic effect in the treatment of Parkinson’s disease, a clinical condition characterized by a progressive deficiency in dopamine synthesis in the substantia nigra, by directly stimulating the dopamine receptors in the corpus striatum.
 In contrast, levodopa exerts its therapeutic effect only after conversion to dopamine by the neurons of the substantia nigra, which are known to be numerically diminished in this patient population.
 
-Clinical Studies
-
-In about 75% of cases of amenorrhea and galactorrhea, bromocriptine mesylate therapy suppresses the galactorrhea completely, or almost completely, and reinitiates normal ovulatory menstrual cycles.
-
-Menses are usually reinitiated prior to complete suppression of galactorrhea; the time for this on average is 6 to 8 weeks.
-However, some patients respond within a few days, and others may take up to 8 months.
-
-Galactorrhea may take longer to control depending on the degree of stimulation of the mammary tissue prior to therapy.
-At least a 75% reduction in secretion is usually observed after 8 to 12 weeks.
-Some patients may fail to respond even after 12 months of therapy.
-
-In many acromegalic patients, bromocriptine mesylate produces a prompt and sustained reduction in circulating levels of serum growth hormone.
-
 ## Pharmacokinetics
 
 Absorption
 
-Following single dose administration of bromocriptine mesylate tablets, 2 x 2.5 mg to 5 healthy volunteers under fasted conditions, the mean peak plasma levels of bromocriptine, time to reach peak plasma been concentrations and elimination half-life were 465 pg/mL ± 226, 2.5 hrs ± 2 and 4.85 hr, respectively.1 Linear relationship was found between single doses of bromocriptine mesylate and Cmax and AUC in the dose range of 1 to 7.5 mg.2 The pharmacokinetics of bromocriptine metabolites have not been reported.
+Following single dose administration of bromocriptine mesylate tablets, 2 x 2.5 mg to 5 healthy volunteers under fasted conditions, the mean peak plasma levels of bromocriptine, time to reach peak plasma concentrations and elimination half-life were 465 pg/mL ± 226, 2.5 hrs ± 2 and 4.85 hr, respectively.1 Linear relationship was found between single doses of bromocriptine mesylate and Cmax and AUC in the dose range of 1 to 7.5 mg.2 The pharmacokinetics of bromocriptine metabolites have not been reported.
 
 Food did not significantly affect the systemic exposure of bromocriptine following administration of bromocriptine mesylate tablets, 2.5 mg.3 It is recommended that bromocriptine mesylate be taken with food because of the high percentage of subjects who vomit upon receiving bromocriptine under fasting conditions.
 
-Following bromocriptine mesylate, 5 mg administered twice daily for 14 days, the bromocriptine Cmax and AUC at steady state were 628 ± 375 pg/mL and 2377 ± 1186 pg*hr/mL, respectively.4
+Following bromocriptine mesylate, 5 mg administered twice daily for 14 days, the bromocriptine Cmax and AUC at steady-state were 628 ± 375 pg/mL and 2377 ± 1186 pg*hr/mL, respectively.4
 
 Distribution
 
@@ -84,7 +71,7 @@ Eur J Biochem 223:947-56.
 Assessment of potential interactions between dopamine receptor agonists and various human cytochrome P450 enzymes using a simple in vitro inhibition screen.
 Drug Metab Dispos; 25:1211-14.
 
-Special Populations
+Specific Populations
 
 Effect of Renal Impairment
 
@@ -92,9 +79,22 @@ The effect of renal function on the pharmacokinetics of bromocriptine has not be
 
 Since parent drug and metabolites are almost completely excreted via metabolism, and only 6% eliminated via the kidney, renal impairment may not have a significant impact on the PK of bromocriptine and its metabolites (see PRECAUTIONS, General).
 
-Effect of Liver Impairment
+Effect of Hepatic Impairment
 
 The effect of liver impairment on the PK of bromocriptine and its metabolites has not been evaluated.
 Since bromocriptine is mainly eliminated by metabolism, liver impairment may increase the plasma levels of bromocriptine, therefore, caution may be necessary (see PRECAUTIONS, General).
 
 The effect of age, race, and gender on the pharmacokinetics of bromocriptine and its metabolites has not been evaluated.
+
+## Clinical Studies
+
+In about 75% of cases of amenorrhea and galactorrhea, bromocriptine mesylate therapy suppresses the galactorrhea completely, or almost completely, and reinitiates normal ovulatory menstrual cycles.
+
+Menses are usually reinitiated prior to complete suppression of galactorrhea; the time for this on average is 6 to 8 weeks.
+However, some patients respond within a few days, and others may take up to 8 months.
+
+Galactorrhea may take longer to control depending on the degree of stimulation of the mammary tissue prior to therapy.
+At least a 75% reduction in secretion is usually observed after 8 to 12 weeks.
+Some patients may fail to respond even after 12 months of therapy.
+
+In many acromegalic patients, bromocriptine mesylate produces a prompt and sustained reduction in circulating levels of serum growth hormone.

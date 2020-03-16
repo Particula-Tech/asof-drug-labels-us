@@ -11,7 +11,7 @@ The initial dosage of bromocriptine mesylate tablets in adults is one-half to on
 An additional 2.5 mg tablet may be added to the treatment regimen as tolerated every 2 to 7 days until an optimal therapeutic response is achieved.
 The therapeutic dosage ranged from 2.5 to 15 mg daily in adults studied clinically.
 
-Based on limited data in children of age 11 to 15, (see Pediatric Usesubsection) the initial dose is one-half to one 2.5 mg scored tablet daily.
+Based on limited data in children of age 11 to 15, (see Pediatric Use) the initial dose is one-half to one 2.5 mg scored tablet daily.
 Dosing may need to be increased as tolerated until a therapeutic response is achieved.
 The therapeutic dosage ranged from 2.5 to 10 mg daily in children with prolactin-secreting pituitary adenomas.
 
