@@ -261,11 +261,11 @@ PRINCIPAL DISPLAY PANEL
 
 NDC 0173-0699-00
 
-LAMICTAL®
+LAMICTAL
 
 (LAMOTRIGINE)
 
-CHEWABLE DISPERSIBLE TABLETS
+TABLETS FOR ORAL SUSPENSION
 
 2 mg
 
@@ -276,6 +276,7 @@ CAUTION: Verify Product Dispensed
 Dispense the accompanying Medication Guide to each patient.
 
 Each tablet contains 2 mg of lamotrigine.
+Tablets may be swallowed whole, chewed, or dispersed in water or diluted fruit juice.
 
 See Prescribing Information for dosage information.
 
@@ -287,26 +288,24 @@ Dispense in a tight, light-resistant container as defined in the USP.
 
 Distributed by
 
-GlaxoSmithKline
-
-Research Triangle Park, NC 27709
+GlaxoSmithKline, RTP, NC 27709
 
 Made in India
 
 Rx only
 
-1. 10000000146222 Rev.
-   4/17
+1. 62000000048400 Rev.
+   2/20
 
 PRINCIPAL DISPLAY PANEL
 
 NDC 0173-0526-00
 
-LAMICTAL®
+LAMICTAL
 
 (LAMOTRIGINE)
 
-CHEWABLE DISPERSIBLE TABLETS
+TABLETS FOR ORAL SUSPENSION
 
 5 mg
 
@@ -317,6 +316,7 @@ CAUTION: Verify Product Dispensed
 Dispense the accompanying Medication Guide to each patient.
 
 Each tablet contains 5 mg of lamotrigine.
+Tablets may be swallowed whole, chewed, or dispersed in water or diluted fruit juice.
 
 See Prescribing Information for dosage information.
 
@@ -328,26 +328,24 @@ Dispense in a tight, light-resistant container as defined in the USP.
 
 Distributed by
 
-GlaxoSmithKline
-
-Research Triangle Park, NC 27709
+GlaxoSmithKline, RTP, NC 27709
 
 Made in India
 
 Rx only
 
-1. 10000000146144 Rev.
-   4/17
+1. 62000000048399 Rev.
+   2/20
 
 PRINCIPAL DISPLAY PANEL
 
 NDC 0173-0527-00
 
-LAMICTAL®
+LAMICTAL
 
 (LAMOTRIGINE)
 
-CHEWABLE DISPERSABLE TABLETS
+TABLETS FOR ORAL SUSPENSION
 
 25 mg
 
@@ -358,6 +356,7 @@ CAUTION: Verify Product Dispensed
 Dispense the accompanying Medication Guide to each patient.
 
 Each tablet contains 25 mg of lamotrigine.
+Tablets may be swallowed whole, chewed, or dispersed in water or diluted fruit juice.
 
 See Prescribing Information for dosage information.
 
@@ -369,16 +368,14 @@ Dispense in a tight, light-resistant container as defined in the USP.
 
 Distributed by
 
-GlaxoSmithKline
-
-Research Triangle Park, NC 27709
+GlaxoSmithKline, RTP, NC 27709
 
 Made in India
 
 Rx only
 
-1. 10000000146159 Rev.
-   4/17
+1. 62000000048398 Rev.
+   2/20
 
 PRINCIPAL DISPLAY PANEL
 

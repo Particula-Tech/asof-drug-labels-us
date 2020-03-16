@@ -10,7 +10,7 @@
 
 200-mg, blue, scored, shield-shaped tablets debossed with “LAMICTAL” and “200.”
 
-## 3.2 Chewable Dispersible Tablets
+## 3.2 Tablets for Oral Suspension
 
 2-mg, white to off-white, round tablets debossed with “LTG” over “2.”
 

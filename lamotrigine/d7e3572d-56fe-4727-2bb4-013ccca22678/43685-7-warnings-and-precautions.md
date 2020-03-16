@@ -122,7 +122,7 @@ Medication errors involving LAMICTAL have occurred.
 In particular, the names LAMICTAL or lamotrigine can be confused with the names of other commonly used medications.
 Medication errors may also occur between the different formulations of LAMICTAL.
 To reduce the potential of medication errors, write and say LAMICTAL clearly.
-Depictions of the LAMICTAL tablets, chewable dispersible tablets, and orally disintegrating tablets can be found in the Medication Guide that accompanies the product to highlight the distinctive markings, colors, and shapes that serve to identify the different presentations of the drug and thus may help reduce the risk of medication errors.
+Depictions of the LAMICTAL tablets, tablets for oral suspension, and orally disintegrating tablets can be found in the Medication Guide that accompanies the product to highlight the distinctive markings, colors, and shapes that serve to identify the different presentations of the drug and thus may help reduce the risk of medication errors.
 To avoid the medication error of using the wrong drug or formulation, patients should be strongly advised to visually inspect their tablets to verify that they are LAMICTAL, as well as the correct formulation of LAMICTAL, each time they fill their prescription.
 
 ## 5.8 Concomitant Use with Oral Contraceptives

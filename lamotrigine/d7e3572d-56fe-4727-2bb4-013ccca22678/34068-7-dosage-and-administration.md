@@ -123,7 +123,7 @@ Therefore, maintenance doses will take longer to reach in clinical practice than
 It may take several weeks to months to achieve an individualized maintenance dose.
 Maintenance doses in patients weighing <30 kg, regardless of age or concomitant AED, may need to be increased as much as 50%, based on clinical response.
 
-The smallest available strength of LAMICTAL chewable dispersible tablets is 2 mg, and only whole tablets should be administered.
+The smallest available strength of LAMICTAL tablets for oral suspension is 2 mg, and only whole tablets should be administered.
 If the calculated dose cannot be achieved using whole tablets, the dose should be rounded down to the nearest whole tablet [see How Supplied/Storage and Handling (16), Medication Guide].
 
 Table 2.
@@ -233,12 +233,12 @@ Dosage Adjustments to LAMICTAL in Adults with Bipolar Disorder following Discont
 | Week 3 onward | Maintain current dose of LAMICTAL | 200 | 200 |  |  |  |  |
 | a Valproate has been shown to inhibit glucuronidation and decrease the apparent clearance of lamotrigine [see Drug Interactions (7), Clinical Pharmacology (12.3)]. b Drugs that induce lamotrigine glucuronidation and increase clearance, other than the specified antiepileptic drugs, include estrogen-containing oral contraceptives, rifampin, and the protease inhibitors lopinavir/ritonavir and atazanavir/ritonavir. Dosing recommendations for oral contraceptives and the protease inhibitor atazanavir/ritonavir can be found in General Dosing Considerations [see Dosage and Administration (2.1)]. Patients on rifampin and the protease inhibitor lopinavir/ritonavir should follow the same dosing titration/maintenance regimen used with antiepileptic drugs that induce glucuronidation and increase clearance [see Dosage and Administration (2.1), Drug Interactions (7), Clinical Pharmacology (12.3)]. |  |  |  |  |  |  |  |
 
-## 2.5 Administration of LAMICTAL Chewable Dispersible Tablets
+## 2.5 Administration of LAMICTAL Tablets for Oral Suspension
 
-LAMICTAL chewable dispersible tablets may be swallowed whole, chewed, or dispersed in water or diluted fruit juice.
+LAMICTAL tablets for oral suspension may be swallowed whole, chewed, or dispersed in water or diluted fruit juice.
 If the tablets are chewed, consume a small amount of water or diluted fruit juice to aid in swallowing.
 
-To disperse LAMICTAL chewable dispersible tablets, add the tablets to a small amount of liquid (1 teaspoon, or enough to cover the medication).
+To disperse LAMICTAL tablets for oral suspension, add the tablets to a small amount of liquid (1 teaspoon, or enough to cover the medication).
 Approximately 1 minute later, when the tablets are completely dispersed, swirl the solution and consume the entire quantity immediately.
 No attempt should be made to administer partial quantities of the dispersed tablets.
 

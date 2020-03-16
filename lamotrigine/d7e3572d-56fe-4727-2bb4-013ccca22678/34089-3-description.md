@@ -9,9 +9,9 @@ The structural formula is:
 LAMICTAL tablets are supplied for oral administration as 25-mg (white), 100-mg (peach), 150-mg (cream), and 200-mg (blue) tablets.
 Each tablet contains the labeled amount of lamotrigine and the following inactive ingredients: lactose; magnesium stearate; microcrystalline cellulose; povidone; sodium starch glycolate; FD&C Yellow No. 6 Lake (100-mg tablet only); ferric oxide, yellow (150-mg tablet only); and FD&C Blue No. 2 Lake (200-mg tablet only).
 
-LAMICTAL chewable dispersible tablets are supplied for oral administration.
+LAMICTAL tablets for oral suspension are supplied for oral administration.
 The tablets contain 2 mg (white), 5 mg (white), or 25 mg (white) of lamotrigine and the following inactive ingredients: blackcurrant flavor, calcium carbonate, low-substituted hydroxypropylcellulose, magnesium aluminum silicate, magnesium stearate, povidone, saccharin sodium, and sodium starch glycolate.
-The chewable dispersible tablets meet Organic Impurities Procedure 2 as published in the current USP monograph for Lamotrigine Tablets for Oral Suspension.
+The tablets for oral suspension meet Organic Impurities Procedure 2 as published in the current USP monograph for Lamotrigine Tablets for Oral Suspension.
 
 LAMICTAL ODT orally disintegrating tablets are supplied for oral administration.
 The tablets contain 25 mg (white to off-white), 50 mg (white to off-white), 100 mg (white to off-white), or 200 mg (white to off-white) of lamotrigine and the following inactive ingredients: artificial cherry flavor, crospovidone, ethylcellulose, magnesium stearate, mannitol, polyethylene, and sucralose.

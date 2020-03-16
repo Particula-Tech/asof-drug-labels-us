@@ -75,7 +75,7 @@ Absorption
 Lamotrigine is rapidly and completely absorbed after oral administration with negligible first-pass metabolism (absolute bioavailability is 98%).
 The bioavailability is not affected by food.
 Peak plasma concentrations occur anywhere from 1.4 to 4.8 hours following drug administration.
-The lamotrigine chewable/dispersible tablets were found to be equivalent, whether administered as dispersed in water, chewed and swallowed, or swallowed whole, to the lamotrigine compressed tablets in terms of rate and extent of absorption.
+The lamotrigine tablets for oral suspension were found to be equivalent, whether administered as dispersed in water, chewed and swallowed, or swallowed whole, to the lamotrigine compressed tablets in terms of rate and extent of absorption.
 In terms of rate and extent of absorption, lamotrigine orally disintegrating tablets, whether disintegrated in the mouth or swallowed whole with water, were equivalent to the lamotrigine compressed tablets swallowed with water.
 
 Dose Proportionality

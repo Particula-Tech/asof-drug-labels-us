@@ -32,7 +32,7 @@ LAMICTAL (lamotrigine) Starter Kit for Patients Not Taking Carbamazepine, Phenyt
 
 Store at 25°C (77°F); excursions permitted to 15°C to 30°C (59°F to 86°F) [see USP Controlled Room Temperature] in a dry place and protect from light.
 
-LAMICTAL (lamotrigine) chewable dispersible tablets
+LAMICTAL (lamotrigine) tablets for oral suspension
 
 2-mg, white to off-white, round tablets debossed with “LTG” over “2”, bottles of 30 (NDC 0173-0699-00).
 ORDER DIRECTLY FROM GlaxoSmithKline 1-800-334-4153.
