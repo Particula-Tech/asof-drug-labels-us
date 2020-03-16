@@ -24,9 +24,7 @@ How to break your ACTICLATE tablet:
 - Apply enough pressure to break the tablet at the scored line.
 - Do not break the ACTICLATE tablet in any other way.
 
-AQUA PHARMACEUTICALS an Almirall company
-
-Manufactured by Catalent Pharma Solutions, Winchester, KY 40391 For Aqua Pharmaceuticals, an Almirall Company Exton, PA 19341
+Manufactured for Almirall, LLC, Exton, PA 19341
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
-Revised: 06/2018 Rx only
+Revised: 12/2019 Rx only

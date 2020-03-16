@@ -12,9 +12,9 @@ Instances of esophagitis and esophageal ulcerations have been reported in patien
 Most of these patients took medications immediately before going to bed [see Dosage and Administration (2.1)].
 
 Skin: Maculopapular and erythematous rashes, Stevens-Johnson syndrome, toxic epidermal necrolysis, exfoliative dermatitis, and erythema multiforme have been reported.
-Photosensitivity has been reported [see Warnings and Precautions (5.3)].
+Photosensitivity has been reported [see Warnings and Precautions (5.4)].
 
-Renal: Rise in BUN has been reported and is apparently dose-related [see Warnings and Precautions (5.8)].
+Renal: Rise in BUN has been reported and is apparently dose-related [see Warnings and Precautions (5.7)].
 
 Hypersensitivity reactions: Urticaria, angioneurotic edema, anaphylaxis, anaphylactoid purpura, serum sickness, pericarditis, exacerbation of systemic lupus erythematosus, and drug reaction with eosinophilia and systemic symptoms (DRESS).
 

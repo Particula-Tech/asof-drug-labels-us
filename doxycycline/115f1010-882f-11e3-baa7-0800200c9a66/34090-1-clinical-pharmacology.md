@@ -21,6 +21,11 @@ This percentage may fall as low as 1% per 72 hours to 5% per 72 hours in individ
 Studies have shown no significant difference in the serum half-life of doxycycline (range 18 to 22 hours) in individuals with normal and severely impaired renal function.
 Hemodialysis does not alter the serum half-life.
 
+Pediatric Patients Population pharmacokinetic analysis of sparse concentration-time data of doxycycline following standard of care intravenous and oral dosing in 44 children (2-18 years of age) showed that allometrically-scaled clearance of doxycycline in children ≥2 to ≤8 years of age (median [range] 3.58 [2.27-10.82] L/h/70 kg, N=11) did not differ significantly from children >8 to 18 years of age (3.27 [1.11-8.12] L/h/70 kg, N=33).
+For pediatric patients weighing ≤45 kg, body weight normalized doxycycline CL in those ≥2 to ≤8 years of age (median [range] 0.071 [0.041-0.202] L/kg/h, N=10) did not differ significantly from those >8 to 18 years of age (0.081 [0.035-0.126] L/kg/h, N=8).
+In pediatric patients weighing >45 kg no clinically significant differences in body weight normalized doxycycline CL were observed between those ≥2 to ≤8 years (0.050 L/kg/h, N=1) and those >8 years of age (0.044 [0.014-0.121] L/kg/h, N=25).
+No clinically significant difference in CL differences between oral and IV were observed in the small cohort of pediatric patients who received the oral (N=19) or IV (N=21) formulation alone.
+
 ## 12.4 Microbiology
 
 Mechanism of Action Doxycycline inhibits bacterial protein synthesis by binding to the 30S ribosomal subunit.

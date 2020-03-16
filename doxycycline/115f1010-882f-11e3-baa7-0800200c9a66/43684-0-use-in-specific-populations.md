@@ -2,31 +2,41 @@
 
 ## 8.1 Pregnancy
 
-Teratogenic Effects.
-Pregnancy Category D: [see Warnings and Precautions (5.7)] There are no adequate and well-controlled studies on the use of doxycycline in pregnant women.
-The vast majority of reported experience with doxycycline during human pregnancy is short-term, first trimester exposure.
-There are no human data available to assess the effects of long-term therapy of doxycycline in pregnant women such as that proposed for the treatment of anthrax exposure.
-An expert review of published data on experiences with doxycycline use during pregnancy by TERIS - the Teratogen Information System - concluded that therapeutic doses during pregnancy are unlikely to pose a substantial teratogenic risk (the quantity and quality of data were assessed as limited to fair), but the data are insufficient to state that there is no risk.1
+Risk Summary ACTICLATE and ACTICLATE CAP, like other tetracycline-class antibacterial drugs, may cause discoloration deciduous teeth, and reversible inhibition of bone growth when administered during the second and third trimester of pregnancy [see Warnings and Precautions (5.1) and (5.2)].
+Available data from published studies over decades have not shown a difference in major birth defect risk compared to unexposed pregnancies with doxycycline exposure in the first trimester of pregnancy (see Data).
+There are no available data on the risk of miscarriage following exposure to doxycycline in pregnancy.
+Advise the patient of the potential risk to the fetus if ACTICLATE or ACTICLATE CAP is used during pregnancy.
 
-A case-control study (18,515 mothers of infants with congenital anomalies and 32,804 mothers of infants with no congenital anomalies) shows a weak but marginally statistically significant association with total malformations and use of doxycycline anytime during pregnancy.
-Sixty-three (0.19%) of the controls and 56 (0.30%) of the cases were treated with doxycycline.
-This association was not seen when the analysis was confined to maternal treatment during the period of organogenesis (that is, in the second and third months of gestation), with the exception of a marginal relationship with neural tube defect based on only two-exposed cases.2
+The estimated background risk of major birth defects and miscarriage for the indicated population is unknown.
+All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively.
 
-A small prospective study of 81 pregnancies describes 43 pregnant women treated for 10 days with doxycycline during early first trimester.
-All mothers reported their exposed infants were normal at 1 year of age.3
+Data Human Data A retrospective cohort study of 1,690 pregnant patients who received doxycycline prescriptions in the first trimester of pregnancy compared to an unexposed pregnant cohort showed no difference in the major malformation rate.
+There is no information on the dose or duration of treatment, or if the patients actually ingested the doxycycline that was prescribed.
 
-Nonteratogenic effects: [see Warnings and Precautions (5.1, 5.7)].
+Other published studies on exposure to doxycycline in the first trimester of pregnancy have small sample sizes; however, these studies have not shown an increased risk of major malformations.
 
-## 8.3 Nursing Mothers
+The use of tetracyclines during tooth development (second and third trimester of pregnancy) may cause permanent discoloration of the teeth (yellow-gray-brown).
+This adverse reaction is more common during long-term use of the drug but has been observed following repeated short-term courses.
+[see Warnings and Precautions (5.1, 5.2)].
 
-Tetracyclines are excreted in human milk, however, the extent of absorption of tetracyclines including doxycycline, by the breastfed infant is not known.
-Short-term use by lactating women is not necessarily contraindicated.
-The effects of prolonged exposure to doxycycline in breast milk are unknown4.
-Because of the potential for serious adverse reactions in nursing infants from doxycycline, a decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother [see Warnings and Precautions (5.1, 5.7)].
+Animal Data Results of animal studies indicate that tetracyclines cross the placenta, are found in fetal tissues, and can have toxic effects on the developing fetus (often related to retardation of skeletal development).
+Evidence of embryotoxicity also has been noted in animals treated early in pregnancy.
+
+## 8.2 Lactation
+
+Risk Summary Based on available published data, doxycycline is present in human milk.
+There are no data that inform the levels of doxycycline in breastmilk, the effects on the breastfed infant, or the effects on milk production.
+Because of the potential for serious adverse reactions, including tooth discoloration and inhibition of bone growth, advise patients that breastfeeding is not recommended during treatment with ACTICLATE or ACTICLATE CAP and for 5 days after the last dose.
+
+## 8.3 Females and Males of Reproductive Potential
+
+Infertility Based on findings from a fertility study in animals, doxycycline may impair female and male fertility.
+The reversibility of this finding is unclear [see Nonclinical Toxicology (13.1)].
 
 ## 8.4 Pediatric Use
 
-Because of the effects of drugs of the tetracycline-class on tooth development and growth, use ACTICLATE and ACTICLATE CAP in pediatric patients 8 years of age or less only when the potential benefits are expected to outweigh the risks in severe or life-threatening conditions (e.g., anthrax, Rocky Mountain spotted fever), particularly when there are no alternative therapies [see Warnings and Precautions (5.1, 5.7) and Dosage and Administration (2.1, 2.5)].
+Because of the effects of drugs of the tetracycline-class on tooth development and growth, use ACTICLATE or ACTICLATE CAP in pediatric patients 8 years of age or less only when the potential benefits are expected to outweigh the risks in severe or life-threatening conditions (e.g., anthrax, Rocky Mountain spotted fever), particularly when there are no alternative therapies [see Warnings and Precautions (5.1,1.1) and Dosage and Administration (2.1, 2.5)].
 
 ## 8.5 Geriatric Use
 

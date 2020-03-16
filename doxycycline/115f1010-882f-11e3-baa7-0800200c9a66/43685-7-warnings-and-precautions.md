@@ -2,14 +2,24 @@
 
 ## 5.1 Tooth Development
 
-The use of drugs of the tetracycline-class during tooth development (last half of pregnancy, infancy and childhood to the age of 8 years) may cause permanent discoloration of the teeth (yellow-gray-brown).
-This adverse reaction is more common during long-term use of the drugs but it has been observed following repeated short-term courses.
-Enamel hypoplasia has also been reported.
-Use ACTICLATE and ACTICLATE CAP in pediatric patients 8 years of age or less only when the potential benefits are expected to outweigh the risks in severe or life-threatening conditions (e.g., anthrax, Rocky Mountain spotted fever), particularly when there are no alternative therapies.
+The use of ACTICLATE or ACTICLATE CAP during tooth development (last half of pregnancy, infancy and childhood to the age of 8 years) may cause permanent discoloration of the teeth (yellow-gray-brown).
+This adverse reaction is more common during long-term use of the drugs of the tetracycline class, but it has been observed following repeated short-term courses.
+Enamel hypoplasia has also been reported with drugs of the tetracycline class.
+Advise the patient of the potential risk to the fetus if ACTICLATE or ACTICLATE CAP is used during pregnancy [see Use in Specific Populations (8.1, 8.4)].
 
-## 5.2 Clostridium difficile Associated Diarrhea
+Use ACTICLATE or ACTICLATE CAP in pediatric patients 8 years of age or less only when the potential benefits are expected to outweigh the risks in severe or life-threatening conditions (e.g., anthrax, Rocky Mountain spotted fever), particularly when there are no alternative therapies.
 
-Clostridium difficile associated diarrhea (CDAD) has been reported with use of nearly all antibacterial agents, including ACTICLATE and ACTICLATE CAP, and may range in severity from mild diarrhea to fatal colitis.
+## 5.2 Inhibition of Bone Growth
+
+The use of ACTICLATE or ACTICLATE CAP during the second and third trimester of pregnancy, infancy and childhood up to the age of 8 years may cause reversible inhibition of bone growth.
+All tetracyclines form a stable calcium complex in any bone-forming tissue.
+A decrease in fibula growth rate has been observed in premature infants given oral tetracycline in doses of 25 mg/kg every 6 hours.
+This reaction was shown to be reversible when the drug was discontinued.
+Advise the patient of the potential risk to the fetus if ACTICLATE or ACTICLATE CAP is used during pregnancy [see Use in Specific Populations (8.1, 8.4)].
+
+## 5.3 Clostridioides difficile Associated Diarrhea
+
+Clostridioides difficile associated diarrhea (CDAD) has been reported with use of nearly all antibacterial agents, including ACTICLATE or ACTICLATE CAP, and may range in severity from mild diarrhea to fatal colitis.
 Treatment with antibacterial agents alters the normal flora of the colon leading to overgrowth of C. difficile.
 
 C. difficile produces toxins A and B which contribute to the development of CDAD.
@@ -20,15 +30,10 @@ Careful medical history is necessary since CDAD has been reported to occur over 
 If CDAD is suspected or confirmed, ongoing antibacterial use not directed against C. difficile may need to be discontinued.
 Appropriate fluid and electrolyte management, protein supplementation, antibacterial treatment of C. difficile, and surgical evaluation should be instituted as clinically indicated.
 
-## 5.3 Photosensitivity
+## 5.4 Photosensitivity
 
 Photosensitivity manifested by an exaggerated sunburn reaction has been observed in some individuals taking tetracyclines.
 Patients apt to be exposed to direct sunlight or ultraviolet light should be advised that this reaction can occur with tetracycline drugs, and treatment should be discontinued at the first evidence of skin erythema.
-
-## 5.4 Potential for Microbial Overgrowth
-
-ACTICLATE and ACTICLATE CAP may result in overgrowth of non-susceptible organisms, including fungi.
-If such infections occur, discontinue use and institute appropriate therapy.
 
 ## 5.5 Severe Skin Reactions
 
@@ -37,41 +42,35 @@ If severe skin reactions occur, doxycycline should be discontinued immediately a
 
 ## 5.6 Intracranial Hypertension
 
-Intracranial hypertension (IH, pseudotumor cerebri) has been associated with the use of tetracyclines including ACTICLATE and ACTICLATE CAP.
+Intracranial hypertension (IH, pseudotumor cerebri) has been associated with the use of tetracyclines including ACTICLATE or ACTICLATE CAP.
 Clinical manifestations of IH include headache, blurred vision, diplopia, and vision loss; papilledema can be found on fundoscopy.
 Women of childbearing age who are overweight or have a history of IH are at greater risk for developing tetracycline associated IH.
-Concomitant use of isotretinoin and ACTICLATE and ACTICLATE CAP should be avoided because isotretinoin is also known to cause pseudotumor cerebri.
+Concomitant use of isotretinoin and ACTICLATE or ACTICLATE CAP should be avoided because isotretinoin is also known to cause pseudotumor cerebri.
 
 Although IH typically resolves after discontinuation of treatment, the possibility for permanent visual loss exists.
 If visual disturbance occurs during treatment, prompt ophthalmologic evaluation is warranted.
 Since intracranial pressure can remain elevated for weeks after drug cessation patients should be monitored until they stabilize.
 
-## 5.7 Delayed Skeletal Development
-
-All tetracyclines form a stable calcium complex in any bone-forming tissue.
-A decrease in fibula growth rate has been observed in prematures given oral tetracycline in doses of 25 mg per kg every six hours.
-This reaction was shown to be reversible when the drug was discontinued.
-
-Results of animal studies indicate that tetracyclines cross the placenta, are found in fetal tissues, and can have toxic effects on the developing fetus (often related to retardation of skeletal development).
-Evidence of embryotoxicity also has been noted in animals treated early in pregnancy.
-Tetracycline-class drugs can cause fetal harm when administered to a pregnant woman, but data for doxycycline are limited.
-If any tetracycline is used during pregnancy or if the patient becomes pregnant while taking these drugs, the patient should be apprised of the potential hazard to the fetus.
-
-## 5.8 Antianabolic Action
+## 5.7 Antianabolic Action
 
 The antianabolic action of the tetracyclines may cause an increase in BUN.
 Studies to date indicate that this does not occur with the use of doxycycline in patients with impaired renal function.
 
-## 5.9 Incomplete Suppression of Malaria
+## 5.8 Incomplete Suppression of Malaria
 
 Doxycycline offers substantial but not complete suppression of the asexual blood stages of Plasmodium strains.
 
 Doxycycline does not suppress P. falciparum’s sexual blood stage gametocytes.
 Subjects completing this prophylactic regimen may still transmit the infection to mosquitoes outside endemic areas.
 
-## 5.10 Development of Drug-Resistant Bacteria
+## 5.9 Development of Drug-Resistant Bacteria
 
 Prescribing ACTICLATE and ACTICLATE CAP in the absence of a proven or strongly suspected bacterial infection or a prophylactic indication is unlikely to provide benefit to the patient and increases the risk of the development of drug-resistant bacteria.
+
+## 5.10 Potential for Microbial Overgrowth
+
+ACTICLATE and ACTICLATE CAP may result in overgrowth of non-susceptible organisms, including fungi.
+If such infections occur, discontinue use and institute appropriate therapy.
 
 ## 5.11 Laboratory Monitoring for Long-Term Therapy
 
