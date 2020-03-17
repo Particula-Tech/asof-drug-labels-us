@@ -45,3 +45,23 @@ Rx only
 100 TABLETS
 
 TEVA
+
+# Package/Label Display Panel
+
+NDC 50111-450-01
+
+New NDC
+
+New Product Appearance
+
+TraZODONE Hydrochloride Tablets USP
+
+150 mg
+
+PHARMACIST: Dispense the accompanying Medication Guide to each patient.
+
+Rx only
+
+100 TABLETS
+
+TEVA

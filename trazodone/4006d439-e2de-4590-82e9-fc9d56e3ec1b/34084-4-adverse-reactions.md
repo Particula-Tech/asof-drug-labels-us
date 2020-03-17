@@ -18,7 +18,7 @@ The following serious adverse reactions are described elsewhere in the labeling:
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-| Table 2: Common Adverse Reactions Occurring in ≥ 2% of Trazodone Hydrochloride Tablets-treated Patients and Greater than the Rate of Placebo- Treated Patients as Observed in Controled Clinical Studies |  |  |  |  |
+| Table 2: Common Adverse Reactions Occurring in ≥ 2% of Trazodone Hydrochloride Tablets-treated Patients and Greater than the Rate of Placebo- Treated Patients as Observed in Controlled Clinical Studies |  |  |  |  |
 | --- | --- | --- | --- | --- |
 |  | Inpatients |  | Outpatients |  |
 |  | Trazodone Hydrochloride Tablets | Placebo | Trazodone Hydrochloride Tablets | Placebo |
