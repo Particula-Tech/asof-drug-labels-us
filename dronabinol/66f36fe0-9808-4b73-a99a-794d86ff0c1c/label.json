@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "ANDA207421"
+  ],
+  "inn": "dronabinol",
+  "labeler": "Camber Pharmaceuticals Inc",
+  "package_ndcs": [
+    "31722-960-60",
+    "31722-961-60",
+    "31722-962-60"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "dronabinol",
+      "name": "DRONABINOL"
+    }
+  ],
+  "setid": "66f36fe0-9808-4b73-a99a-794d86ff0c1c",
+  "source": "dailymed"
+}
