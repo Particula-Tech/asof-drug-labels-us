@@ -19,6 +19,9 @@ Advise patients not to take an extra dose to make up for the missed dose.
 Inform patients to take Orapred with food to avoid GI irritation.
 
 Advise patients of common adverse reactions that could occur with Orapred use to include fluid retention, alteration in glucose tolerance, elevation in blood pressure, behavioral and mood changes, increased appetite and weight gain.
+Advise pregnant women and females of reproductive potential of the potential risk to a fetus.
+Advise females to inform their healthcare provider of a known or a suspected pregnancy.
+[see Warnings and Precautions (5.10) and Use in Specific Populations (8.1)].
 
 Orapred ODT tablets are packaged in a blister.
 Patients should be instructed not to remove the tablet from the blister until just prior to dosing.

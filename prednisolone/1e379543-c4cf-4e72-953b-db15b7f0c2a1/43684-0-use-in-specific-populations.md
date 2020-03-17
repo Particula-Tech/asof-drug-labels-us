@@ -2,32 +2,34 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Category D [see Warnings and Precautions (5.10)]
-
-Orapred has not been formally evaluated in clinical or nonclinical studies for effects on pregnancy and fetal development.
-Multiple cohort and case controlled studies in humans suggest that maternal corticosteroid use during the first trimester increases the incidence of cleft lip with or without cleft palate from about 1/1000 infants to 3-5/1000 infants.
+Risk Summary Based on findings from human and animal studies, corticosteroids including Orapred, can cause fetal harm when administered to a pregnant woman (see Data) [see Warnings and Precautions (5.10)].
+Published epidemiological studies suggest a small but inconsistent increased risk of orofacial clefts with use of corticosteroids during the first trimester.
+Intrauterine growth restriction and decreased birth weight have also been reported with maternal use of corticosteroids during pregnancy; however, the underlying maternal condition may also contribute to these risks (see Clinical Considerations).
+Published animal studies show prednisolone to be teratogenic in rats, rabbits, hamsters, and mice with increased incidence of cleft palate in offspring (see Data).
+Advise a pregnant woman about the potential harm to a fetus.
+The estimated background risk of major birth defects and miscarriage for the indicated population is unknown.
+All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
+In the U.S. general population, the estimated background risk of major birth defects and miscarriages in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively.
+Clinical Considerations Fetal/Neonatal Adverse Reactions Infants born to pregnant women who have received corticosteroids should be carefully monitored for signs and symptoms of hypoadrenalism [see Warnings and Precautions (5.1)].
+Data Human Data Published epidemiological studies on the association between prednisolone and fetal outcomes have reported inconsistent findings and have important methodological limitations.
+Multiple cohort and case-controlled studies in humans report that maternal corticosteroid use during the first trimester increases the incidence of cleft lip with or without cleft palate from about 1/1000 infants to 3-5/1000 infants; however, a risk for orofacial clefts has not been reported in all studies.
+Methodological limitations of these studies include non-randomized design, retrospective data collection, and the inability to control for confounders such as underlying maternal disease and use of concomitant medications.
 Two prospective case control studies showed decreased birth weight in infants exposed to maternal corticosteroids in utero.
 In humans, the risk of decreased birth weight appears to be dose related and may be minimized by administering lower corticosteroid doses.
 It is likely that underlying maternal conditions contribute to intrauterine growth restriction and decreased birth weight, but it is unclear to what extent these maternal conditions contribute to the increased risk of orofacial clefts.
-
-Thus, prednisolone can cause fetal harm when used during pregnancy.
-Orapred should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
-If this drug is used during pregnancy, or if the patient becomes pregnant while using this drug, the patient should be apprised of the potential hazard to the fetus.
-Infants born to mothers who have received corticosteroids during pregnancy should be carefully observed for signs of hypoadrenalism.
-
-Published literature indicates prednisolone has been shown to be teratogenic in rats, rabbits, hamsters, and mice with increased incidence of cleft palate in offspring, supportive of the clinical data.
-In teratogenicity studies, cleft palate along with an elevation of fetal lethality (or increase in resorptions) and reductions in fetal body weight was seen in rats at maternal doses of 30 mg/kg (equivalent to 290 mg in a 60 kg individual based on mg/m2 body surface comparison) and higher.
+Animal Data Published literature indicates prednisolone has been shown to be teratogenic in rats, rabbits, hamsters, and mice with increased incidence of cleft palate in offspring, supportive of the clinical data.
+In teratogenicity studies, cleft palate along with an elevation of fetal lethality (or increase in resorptions) and reductions in fetal body weight occurred in rats at maternal doses of 30 mg/kg (equivalent to 290 mg in a 60 kg individual based on mg/m2 body surface comparison) and higher.
 Cleft palate was observed in mice at a maternal dose of 20 mg/kg (equivalent to 100 mg in a 60 kg individual based on mg/m2 comparison).
 Additionally, constriction of the ductus arteriosus was observed in fetuses of pregnant rats exposed to prednisolone.
 
-## 8.3 Nursing Mothers
+## 8.2 Lactation
 
-Prednisolone is secreted in human milk.
-Reports suggest that prednisolone concentrations in human milk are 5 to 25% of maternal serum levels, and that total infant daily doses are small, about 0.14% of the maternal daily dose.
-Therefore, caution should be exercised when prednisolone is administered to a nursing woman.
-High doses of corticosteroids for long periods could potentially produce problems in infant growth and development and interfere with endogenous corticosteroid production.
-The risk of infant exposure to prednisolone through breast milk should be weighed against the known benefits of breastfeeding for both the mother and baby.
-If prednisolone must be prescribed to a breastfeeding mother, the lowest dose should be prescribed to achieve the desired clinical effect.
+Risk Summary Prednisolone is present in human milk.
+Published reports suggest infant daily doses are estimated to be less than 1% of the maternal daily dose.
+No adverse effects in the breastfed infant have been reported following maternal administration of prednisolone during breastfeeding.
+There are no available data on the effects of prednisolone on milk production.
+High doses of corticosteroids administered to lactating women for long periods could potentially produce problems in the breastfed infant including growth and development and interfere with endogenous corticosteroid production (see Clinical Considerations) [see Use in Specific Populations (8.4)].The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for Orapred and any potential adverse effects on the breastfed child from Orapred or from the mother's underlying condition.
+Clinical Considerations In order to minimize exposure, the lowest dose should be prescribed to a lactating women to achieve the desired clinical effect.
 
 ## 8.4 Pediatric Use
 

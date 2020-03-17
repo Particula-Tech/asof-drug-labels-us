@@ -101,4 +101,4 @@ During an exacerbation or as maintenance therapy in selected cases of:
 ## 1.13 Specific Infectious Diseases
 
 - Trichinosis with neurologic or myocardial involvement
-- Tuberculous meningitis with subarachnoid block or impending block, (used concurrently with appropriate antituberculous chemotherapy
+- Tuberculous meningitis with subarachnoid block or impending block, used concurrently with appropriate antituberculous chemotherapy

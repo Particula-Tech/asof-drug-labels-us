@@ -98,18 +98,20 @@ Other immunization procedures should not be undertaken in patients who are on co
 Long-term use of corticosteroids can have negative effects on growth and development in children.
 Growth and development of pediatric patients on prolonged corticosteroid therapy should be carefully monitored.
 
-## 5.10 Use in Pregnancy
+## 5.10 Embryo-Fetal Toxicity
 
 Prednisolone can cause fetal harm when administered to a pregnant woman.
-Human and animal studies suggest that use of corticosteroids during the first trimester of pregnancy is associated with an increased risk of orofacial clefts, intrauterine growth restriction and decreased birth weight.
-If this drug is used during pregnancy, or if the patient becomes pregnant while using this drug, the patient should be apprised of the potential hazard to the fetus.
+Human studies suggest a small but inconsistent increased risk of orofacial clefts with use of corticosteroids during the first trimester of pregnancy.
+Published animal studies show prednisolone to be teratogenic in rats, rabbits, hamsters, and mice with increased incidence of cleft palate in offspring.
+Intrauterine growth restriction and decreased birth weight have also been reported with corticosteroid use during pregnancy, however, the underlying maternal condition may also contribute to these risks.
+If this drug is used during pregnancy, or if the patient becomes pregnant while using this drug, advise the patient about the potential harm to the fetus.
 [see Use in Specific Populations (8.1)].
 
 ## 5.11 Neuromuscular Effects
 
 Although controlled clinical trials have shown corticosteroids to be effective in speeding the resolution of acute exacerbations of multiple sclerosis, they do not show that they affect the ultimate outcome or natural history of the disease.
 The studies do show that relatively high doses of corticosteroids are necessary to demonstrate a significant effect.
-[see Dosage and Administration (3)].
+[see Dosage and Administration (2)].
 
 An acute myopathy has been observed with the use of high doses of corticosteroids, most often occurring in patients with disorders of neuromuscular transmission (e.g., myasthenia gravis), or in patients receiving concomitant therapy with neuromuscular blocking drugs (e.g., pancuronium).
 This acute myopathy is generalized, may involve ocular and respiratory muscles, and may result in quadriparesis.

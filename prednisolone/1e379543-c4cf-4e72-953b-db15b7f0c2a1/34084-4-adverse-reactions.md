@@ -24,4 +24,6 @@ Neurological: Arachnoiditis, convulsions; depression, emotional instability, eup
 
 Ophthalmic: Exophthalmos; glaucoma; increased intraocular pressure; posterior subcapsular cataracts
 
-Reproductive: Alteration in motility and number of spermatozoa
+Reproductive: Alteration in motility and number of spermatozoa Postmarketing Experience Adverse reactions have been identified during post approval use of Orapred ODT.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+The postmarketing experience has not raised new safety concerns beyond those already established for immediate-release prednisolone.
