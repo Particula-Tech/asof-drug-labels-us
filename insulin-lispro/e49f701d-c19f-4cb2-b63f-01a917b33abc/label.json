@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA021017"
+  ],
+  "inn": "insulin-lispro",
+  "labeler": "Eli Lilly and Company",
+  "package_ndcs": [
+    "0002-8233-01",
+    "0002-8233-05"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SUSPENSION",
+      "generic": "insulin lispro",
+      "name": "Insulin Lispro Protamine and Insulin Lispro Injectable Suspension"
+    }
+  ],
+  "setid": "e49f701d-c19f-4cb2-b63f-01a917b33abc",
+  "source": "dailymed"
+}
