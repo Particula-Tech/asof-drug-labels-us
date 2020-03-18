@@ -8,7 +8,7 @@ Fluticasone Propionate and Salmeterol inhalation powder 232 mcg/14 mcg
 
 for oral inhalation use
 
-Your fluticasone propionate/salmeterol inhaler
+Your Fluticasone Propionate/Salmeterol inhalation powder inhaler
 
 When you are ready to use your inhaler for the first time, remove the inhaler from the foil pouch.
 
@@ -46,12 +46,12 @@ Important:
   If you do not hear the “click” sound the inhaler may not be activated to give you a dose of medicine.
 
 - This inhaler does not have an activation button or medicine canister.
-  When you open the cap, a dose of fluticasone propionate/salmeterol will be activated for delivery of the medicine.
+  When you open the cap, a dose of Fluticasone Propionate/Salmeterol inhalation powder will be activated for delivery of the medicine.
 
 - Do not use a spacer or volume holding chamber with the inhaler.
   This inhaler does not need priming.
 
-Using your fluticasone propionate/salmeterol inhaler:
+Using your Fluticasone Propionate/Salmeterol inhalation powder inhaler:
 
 Important: Make sure the cap is closed before you start using your inhaler.
 
@@ -61,7 +61,7 @@ Open
 - Hold the inhaler upright and open the yellow cap all the way until it “clicks”.
   See Figure C
 
-- Each time you open the yellow cap and it “clicks”, 1 dose of fluticasone propionate/salmeterol is ready to be inhaled.
+- Each time you open the yellow cap and it “clicks”, 1 dose of Fluticasone Propionate/Salmeterol inhalation powder is ready to be inhaled.
 
 Figure C
 
@@ -72,7 +72,7 @@ Remember:
 
 - Do not hold the inhaler in any other way as you open the yellow cap.
 
-- Do not open the yellow cap until you are ready to take a dose of fluticasone propionate/salmeterol.
+- Do not open the yellow cap until you are ready to take a dose of Fluticasone Propionate/Salmeterol inhalation powder.
 
 Figure D
 
@@ -117,7 +117,7 @@ Figure H
 
 - Rinse your mouth with water without swallowing after each inhalation.
 
-How should I store the fluticasone propionate/salmeterol inhaler?
+How should I store the Fluticasone Propionate/Salmeterol inhalation powder inhaler?
 
 - Store your inhaler at room temperature between 59ºF and 77ºF (15ºC and 25ºC).
 
@@ -131,7 +131,7 @@ How should I store the fluticasone propionate/salmeterol inhaler?
 
 - Keep your inhaler and all medicines out of the reach of children.
 
-Cleaning your fluticasone propionate/salmeterol inhaler
+Cleaning your Fluticasone Propionate/Salmeterol inhalation powder inhaler
 
 - Do not wash or put any part of your inhaler in water.
   Replace your inhaler if washed or placed in water.
@@ -141,7 +141,7 @@ Cleaning your fluticasone propionate/salmeterol inhaler
 - You can clean the mouthpiece if needed using a dry cloth or tissue.
   Routine cleaning is not required.
 
-Replacing your fluticasone propionate/salmeterol inhaler
+Replacing your Fluticasone Propionate/Salmeterol inhalation powder inhaler
 
 - Immediately replace your inhaler if the mouthpiece cover is damaged or broken.
   Never take the inhaler apart.
@@ -163,13 +163,16 @@ Important information
 
 Support
 
-- If you have any questions about your fluticasone propionate/salmeterol inhaler or how to use your inhaler, go to the reference branded product website at www.AIRDUORESPICLICK.com, or call 1-888-482-9522.
+- If you have any questions about your Fluticasone Propionate/Salmeterol inhalation powder inhaler or how to use your inhaler, go to the reference branded product website at www.MYAIRDUO.com, or call 1-888-482-9522.
 
 These Instructions for Use have been approved by the U.S. Food and Drug Administration.
 
-Marketed by: Teva Respiratory, LLC, Frazer, PA 19355; Copyright ©2019, Teva Respiratory, LLC; All rights reserved.
+Distributed by: Teva Pharmaceuticals USA, Inc. Parsippany, NJ 07054
 
-FPSIFU-003
+©2020 Teva Respiratory, LLC.
+All rights reserved.
+
+FPSIFU-004
 
 Rev.
-February 2019
+February 2020

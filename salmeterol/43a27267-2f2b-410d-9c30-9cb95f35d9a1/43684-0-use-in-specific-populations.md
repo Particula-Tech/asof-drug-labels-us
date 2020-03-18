@@ -4,9 +4,9 @@
 
 Risk Summary
 
-There are no randomized clinical studies of fluticasone propionate/salmeterol MDPI or individual monoproducts, fluticasone propionate and salmeterol xinafoate, in pregnant women.
-There are clinical considerations with the use of fluticasone propionate/salmeterol MDPI in pregnant women [see Clinical Considerations].
-Animal reproduction studies are available with the combination of fluticasone propionate and salmeterol xinafoate as well as individual monoproducts.
+There are no randomized clinical studies of fluticasone propionate/salmeterol MDPI or individual monoproducts, fluticasone propionate and salmeterol, in pregnant women.
+There are clinical considerations with the use of Fluticasone Propionate/Salmeterol MDPI in pregnant women [see Clinical Considerations].
+Animal reproduction studies are available with the combination of fluticasone propionate and salmeterol as well as individual components.
 In animals, teratogenicity characteristic of corticosteroids, decreased fetal body weight and/or skeletal variations, in rats, mice, and rabbits were observed with subcutaneously administered maternal toxic doses of fluticasone propionate less than the maximum recommended human daily inhaled dose (MRHDID) on a mcg/m2 basis [see Data].
 However, fluticasone propionate administered via inhalation to rats decreased fetal body weight, but did not induce teratogenicity at a maternal toxic dose less than the MRHDID on a mcg/m2 basis [see Data].
 Experience with oral corticosteroids suggests that rodents are more prone to teratogenic effects from corticosteroids than humans.
@@ -73,7 +73,7 @@ Risk Summary
 There are no available data on the presence of fluticasone propionate or salmeterol in human milk, the effects on the breastfed child, or the effects on milk production.
 Other corticosteroids have been detected in human milk.
 However, fluticasone propionate and salmeterol concentrations in plasma after inhaled therapeutic doses are low and therefore concentrations in human breast milk are likely to be correspondingly low [see Clinical Pharmacology (12.3)].
-The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for fluticasone propionate/salmeterol MDPI and any potential adverse effects on the breastfed child from fluticasone propionate/salmeterol MDPI or from the underlying maternal condition.
+The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for Fluticasone Propionate/Salmeterol MDPI and any potential adverse effects on the breastfed child from Fluticasone Propionate/Salmeterol MDPI or from the underlying maternal condition.
 
 Data
 
@@ -84,25 +84,29 @@ Oral administration of salmeterol at a dose in lactating rats approximately 2900
 
 ## 8.4 Pediatric Use
 
-The safety and effectiveness of fluticasone propionate/salmeterol MDPI in pediatric patients below the age of 12 years have not been established.
+The safety and effectiveness of Fluticasone Propionate/Salmeterol MDPI in the treatment of asthma in pediatric patients aged 12 years and older whose asthma (1) is inadequately controlled on a long term asthma control medication or (2) warrants initiation of treatment with both an ICS and a LABA has been established.
+Use of Fluticasone Propionate/Salmeterol MDPI for this indication was supported by evidence from two adequate and well-controlled trials in pediatric patients 12 years old and older with persistent symptomatic asthma despite ICS or ICS/LABA therapy (Trials 1 and 2) [see Clinical Studies (14)].
+In these trials, 58 adolescents received Fluticasone Propionate/Salmeterol MDPI one inhalation twice daily.
+
+The safety and effectiveness of Fluticasone Propionate/Salmeterol MDPI in pediatric patients below the age of 12 years old have not been established.
 
 Inhaled corticosteroids, including fluticasone propionate, a component of this product, may cause a reduction in growth velocity in adolescents [see Warning and Precautions (5.13)].
-The growth of pediatric patients receiving orally inhaled corticosteroids, including fluticasone propionate/salmeterol MDPI, should be monitored.
+The growth of pediatric patients receiving ICS, including Fluticasone Propionate/Salmeterol MDPI, should be monitored.
 
 If an adolescent on any corticosteroid appears to have growth suppression, the possibility that he/she is particularly sensitive to this effect of corticosteroids should be considered.
-The potential growth effects of prolonged treatment should be weighed against the clinical benefits obtained.
-To minimize the systemic effects of orally inhaled corticosteroids, including fluticasone propionate/salmeterol MDPI, each patient should be titrated to the lowest strength that effectively controls his/her asthma [see Dosage and Administration (2)].
+In such patients, the potential growth effects of prolonged ICS treatment should be weighed against the clinical benefits obtained.
+To minimize the systemic effects of ICS, including Fluticasone Propionate/Salmeterol MDPI, each patient should be titrated to the lowest strength that effectively controls his/her asthma [see Dosage and Administration (2)].
 
 ## 8.5 Geriatric Use
 
-No overall differences in safety or efficacy were observed in data collected in 54 subjects aged 65 years and older versus younger subjects who were treated with fluticasone propionate/salmeterol MDPI in placebo-controlled Phase 2 and 3 studies.
+No overall differences in safety or effectiveness were observed in data collected in 54 subjects aged 65 years and older versus younger subjects who were treated with Fluticasone Propionate/Salmeterol MDPI in placebo-controlled Phase 2 and 3 asthma studies.
 
 ## 8.6 Hepatic Impairment
 
-Formal pharmacokinetic studies using fluticasone propionate/salmeterol MDPI have not been conducted in patients with hepatic impairment.
-However, since both fluticasone propionate and salmeterol are predominantly cleared by hepatic metabolism, impairment of liver function may lead to accumulation of fluticasone propionate and salmeterol in plasma.
-Therefore, patients with hepatic disease should be closely monitored.
+Formal pharmacokinetic studies using Fluticasone Propionate/Salmeterol MDPI have not been conducted in patients with hepatic impairment.
+However, since both fluticasone propionate and salmeterol are predominantly cleared by hepatic metabolism [see Clinical Pharmacology (12.3)], impairment of liver function may lead to accumulation of fluticasone propionate and salmeterol in plasma.
+Therefore, patients with hepatic impairment should be closely monitored.
 
 ## 8.7 Renal Impairment
 
-Formal pharmacokinetic studies using fluticasone propionate/salmeterol MDPI have not been conducted in patients with renal impairment.
+Formal pharmacokinetic studies using Fluticasone Propionate/Salmeterol MDPI have not been conducted in patients with renal impairment.

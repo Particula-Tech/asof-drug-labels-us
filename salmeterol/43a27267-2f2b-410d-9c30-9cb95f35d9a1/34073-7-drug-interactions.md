@@ -1,12 +1,12 @@
 # 7 DRUG INTERACTIONS
 
-Fluticasone propionate/salmeterol MDPI has been used concomitantly with other drugs, including short‑acting beta2‑agonists, and intranasal corticosteroids, commonly used in patients with asthma without adverse drug reactions [see Clinical Pharmacology (12.2)].
-No formal drug interaction trials have been performed with fluticasone propionate/salmeterol MDPI.
+Fluticasone Propionate/Salmeterol MDPI has been used concomitantly with other drugs, including short‑acting beta2‑agonists, and intranasal corticosteroids, commonly used in patients with asthma without adverse drug reactions [see Clinical Pharmacology (12.2)].
+No formal drug interaction trials have been performed with Fluticasone Propionate/Salmeterol MDPI.
 
 ## 7.1 Inhibitors of Cytochrome P450 3A4
 
 Fluticasone propionate and salmeterol, the individual components of this product, are substrates of CYP3A4.
-The use of strong CYP3A4 inhibitors (e.g., ritonavir, atazanavir, clarithromycin, indinavir, itraconazole, nefazodone, nelfinavir, saquinavir, ketoconazole, telithromycin) with fluticasone propionate/salmeterol MDPI is not recommended because increased systemic corticosteroid and increased cardiovascular adverse effects may occur.
+The use of strong CYP3A4 inhibitors (e.g., ritonavir, atazanavir, clarithromycin, indinavir, itraconazole, nefazodone, nelfinavir, saquinavir, ketoconazole, telithromycin) with Fluticasone Propionate/Salmeterol MDPI is not recommended because increased systemic corticosteroid and increased cardiovascular adverse effects may occur.
 
 Ritonavir: Fluticasone Propionate: A drug interaction trial with fluticasone propionate aqueous nasal spray in healthy subjects has shown that ritonavir (a strong CYP3A4 inhibitor) can significantly increase plasma fluticasone propionate exposure, resulting in significantly reduced serum cortisol concentrations [see Clinical Pharmacology (12.3)].
 During postmarketing use, there have been reports of clinically significant drug interactions in patients receiving fluticasone propionate and ritonavir, resulting in systemic corticosteroid effects including Cushing’s syndrome and adrenal suppression.
@@ -19,7 +19,7 @@ Although there was no statistical effect on the mean QTc, coadministration of sa
 
 ## 7.2 Monoamine Oxidase Inhibitors and Tricyclic Antidepressants
 
-Fluticasone propionate/salmeterol MDPI should be administered with extreme caution to patients being treated with monoamine oxidase inhibitors or tricyclic antidepressants, or within 2 weeks of discontinuation of such agents, because the action of salmeterol, a component of this product, on the vascular system may be potentiated by these agents.
+Fluticasone Propionate/Salmeterol MDPI should be administered with extreme caution to patients being treated with monoamine oxidase inhibitors or tricyclic antidepressants, or within 2 weeks of discontinuation of such agents, because the action of salmeterol, a component of this product, on the vascular system may be potentiated by these agents.
 
 ## 7.3 Beta-Adrenergic Receptor Blocking Agents
 
@@ -30,4 +30,4 @@ However, under certain circumstances, there may be no acceptable alternatives to
 ## 7.4 Non-Potassium-Sparing Diuretics
 
 The ECG changes and/or hypokalemia that may result from the administration of non–potassium‑sparing diuretics (such as loop or thiazide diuretics) can be acutely worsened by beta‑agonists, such as salmeterol, a component of this product, especially when the recommended dose of the beta‑agonist is exceeded.
-Although the clinical significance of these effects is not known, caution is advised in the coadministration of fluticasone propionate/salmeterol MDPI with non–potassium‑sparing diuretics.
+Although the clinical significance of these effects is not known, caution is advised in the coadministration of Fluticasone Propionate/Salmeterol MDPI with non-potassium‑sparing diuretics.

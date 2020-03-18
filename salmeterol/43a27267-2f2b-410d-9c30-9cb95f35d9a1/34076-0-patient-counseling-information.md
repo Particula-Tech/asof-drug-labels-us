@@ -11,11 +11,11 @@ Inform patients with asthma that LABA when used alone increases the risk of asth
 hospitalization and asthma-related death.
 Available data show that when ICS and LABA are
 
-used together, such as with fluticasone propionate/salmeterol, there is not a significant increase in the risk of these events.
+used together, such as with Fluticasone Propionate/Salmeterol MDPI, there is not a significant increase in the risk of these events.
 
 Not for Acute Symptoms
 
-Inform patients that fluticasone propionate/salmeterol is not meant to relieve acute asthma symptoms and extra doses should not be used for that purpose.
+Inform patients that Fluticasone Propionate/Salmeterol MDPI is not meant to relieve acute asthma symptoms and extra doses should not be used for that purpose.
 Advise patients to treat acute asthma symptoms with an inhaled, short‑acting beta2‑agonist such as albuterol.
 Provide patients with such medication and instruct them in how it should be used.
 
@@ -25,7 +25,7 @@ Instruct patients to seek medical attention if they experience any of the follow
 - Need for more inhalations than usual of inhaled, short‑acting beta2‑agonists
 - Significant decrease in lung function as outlined by the physician
 
-Tell patients they should not stop therapy with fluticasone propionate/salmeterol without physician/provider guidance since symptoms may recur after discontinuation.
+Tell patients they should not stop therapy with Fluticasone Propionate/Salmeterol without physician/provider guidance since symptoms may recur after discontinuation.
 
 Do Not Use Additional Long-Acting Beta2‑Agonists
 
@@ -34,7 +34,7 @@ Instruct patients not to use other LABA for asthma.
 Local Effects
 
 Inform patients that localized infections with Candida albicans occurred in the mouth and pharynx in some patients.
-If oropharyngeal candidiasis develops, treat it with appropriate local or systemic (i.e., oral) antifungal therapy while still continuing therapy with fluticasone propionate/salmeterol, but at times therapy with fluticasone propionate/salmeterol may need to be temporarily interrupted under close medical supervision.
+If oropharyngeal candidiasis develops, treat it with appropriate local or systemic (i.e., oral) antifungal therapy while still continuing therapy with Fluticasone Propionate/Salmeterol MDPI, but at times therapy with Fluticasone Propionate/Salmeterol MDPI may need to be temporarily interrupted under close medical supervision.
 Rinsing the mouth with water without swallowing after inhalation is advised to help reduce the risk of thrush.
 
 Immunosuppression
@@ -44,15 +44,15 @@ Inform patients of potential worsening of existing tuberculosis, fungal, bacteri
 
 Hypercorticism and Adrenal Suppression
 
-Advise patients that fluticasone propionate/salmeterol may cause systemic corticosteroid effects of hypercorticism and adrenal suppression.
+Advise patients that Fluticasone Propionate/Salmeterol MDPI may cause systemic corticosteroid effects of hypercorticism and adrenal suppression.
 Additionally, inform patients that deaths due to adrenal insufficiency have occurred during and after transfer from systemic corticosteroids.
-Patients should taper slowly from systemic corticosteroids if transferring to fluticasone propionate/salmeterol.
+Patients should taper slowly from systemic corticosteroids if transferring to Fluticasone Propionate/Salmeterol MDPI.
 
 Immediate Hypersensitivity Reactions
 
-Advise patients that immediate hypersensitivity reactions (e.g., urticaria, angioedema, rash, bronchospasm, hypotension), including anaphylaxis, may occur after administration of fluticasone propionate/salmeterol.
-Patients should discontinue fluticasone propionate/salmeterol if such reactions occur and contact their healthcare provider or get emergency medical help.
-There have been reports of anaphylactic reactions in patients with severe milk protein allergy after inhalation of powder products containing lactose; therefore, patients with severe milk protein allergy should not take fluticasone propionate/salmeterol.
+Advise patients that immediate hypersensitivity reactions (e.g., urticaria, angioedema, rash, bronchospasm, hypotension), including anaphylaxis, may occur after administration of Fluticasone Propionate/Salmeterol MDPI.
+Patients should discontinue Fluticasone Propionate/Salmeterol MDPI if such reactions occur and contact their healthcare provider or get emergency medical help.
+There have been reports of anaphylactic reactions in patients with severe milk protein allergy after inhalation of powder products containing lactose; therefore, patients with severe milk protein allergy should not take Fluticasone Propionate/Salmeterol MDPI.
 
 Reduction in Bone Mineral Density
 
@@ -73,17 +73,25 @@ Inform patients of adverse effects associated with beta2‑agonists, such as pal
 
 Pregnancy
 
-Inform patients who are pregnant or nursing that they should contact their physician about the use of fluticasone propionate/salmeterol.
+Inform patients who are pregnant or nursing that they should contact their physician about the use of Fluticasone Propionate/Salmeterol MDPI.
 
 Use Daily for Best Effect
 
-Patients should use fluticasone propionate/salmeterol at regular intervals as directed.
-The daily dosage of fluticasone propionate/salmeterol should not exceed 1 inhalation twice a day.
+Patients should use Fluticasone Propionate/Salmeterol MDPI at regular intervals as directed.
+The daily dosage of Fluticasone Propionate/Salmeterol MDPI should not exceed 1 inhalation twice a day.
 Advise patients, if they miss a dose, to take their next dose at the same time they normally do and to not take 2 doses at one time.
 Individual patients will experience a variable time to onset and degree of symptom relief and full benefit may not be achieved until treatment has been administered for 1 to 2 weeks or longer.
 Patients should not increase the prescribed dosage but should contact their physicians if symptoms do not improve or if the condition worsens.
-Instruct patients not to stop use of fluticasone propionate/salmeterol abruptly.
-Patients should contact their physicians immediately if they discontinue use of fluticasone propionate/salmeterol.
+Instruct patients not to stop use of Fluticasone Propionate/Salmeterol MDPI abruptly.
+Patients should contact their physicians immediately if they discontinue use of Fluticasone Propionate/Salmeterol MDPI.
+
+Dose Counter
+
+Instruct patients that Fluticasone Propionate/Salmeterol MDPI has a dose counter that displays the number of actuations (inhalations) left in the inhaler.
+When the patient receives a new inhaler, the number 60 will be displayed.
+The dose counter will count down each time the mouthpiece is opened and closed.
+When the dose counter reaches 20, the color of the numbers will change to red to remind the patient to contact their pharmacist or healthcare provider for a refill of their medication.
+When the dose counter reaches 0, the patient should stop using the inhaler, and dispose of it in accordance with state and local regulations.
 
 Caring for and Storing the Inhaler
 
@@ -101,21 +109,16 @@ Instruct patients to store the inhaler at room temperature and to avoid exposure
 
 Instruct patients to never take the inhaler apart.
 
-Inform patients that this product has a dose counter.
-When the patient receives the inhaler, the number 60 will be displayed.
-The dose counter will count down each time the mouthpiece cap is opened and closed.
-The dose-counter window displays the number of actuations left in the inhaler in units of two (e.g., 60, 58, 56, etc.). When the counter displays 20, the color of the numbers will change to red to remind the patient to contact their pharmacist for a refill of medication or consult their physician for a prescription refill.
-When the dose counter reaches 0, the background will change to solid red.
 Inform patients to discard this product when the dose counter displays 0, 30 days after opening the foil pouch or after the expiration date on the product, whichever comes first.
 
-Rx only
+Distributed by: Teva Pharmaceuticals USA, Inc. Parsippany, NJ 07054
 
-Marketed by: Teva Respiratory, LLC Frazer, PA 19355
-
-Copyright ©2019 Teva Respiratory, LLC
-
+©2020 Teva Respiratory, LLC.
 All rights reserved.
 
 United States Patent Nos. 6701917, 6718972, 6748947, 6871646, 7540282, 8006690, 8651103, 8714149, 8978966, 9066957, 9216260, 9415008, 9463288, 9616024, 9731087.
-FPSPI-003 Rev.
-February 2019
+
+FPSPI-004
+
+Rev.
+February 2020
