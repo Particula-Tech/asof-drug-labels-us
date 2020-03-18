@@ -1,105 +1,59 @@
 # 5 WARNINGS AND PRECAUTIONS
 
-## 5.1 QT Prolongation and Proarrhythmia
+## 5.1 Proarrhythmia
 
 Sotalol can cause serious ventricular arrhythmias, primarily Torsade de Pointes (TdP) type ventricular tachycardia, a polymorphic ventricular tachycardia associated with QTc prolongation.
 QTc prolongation is directly related to the concentration of sotalol.
-Factors such as reduced creatinine clearance, gender (female) and larger doses increase the risk of TdP.
+Factors such as reduced creatinine clearance, gender (female) and higher dose, bradycardia, history of sustained VT/VF, atrial fibrillation with sinus node dysfunction, heart failure increase the risk of TdP.
 The risk of TdP can be reduced by adjustment of the sotalol dose according to creatinine clearance and by monitoring the ECG for excessive increases in QTc.
 
-Initiate sotalol only in a facility that can provide ECG monitoring and in the presence of personnel trained in the management of serious ventricular arrhythmias.
-Steady-state plasma levels of sotalol and maximum QTc prolongation occur by 3 days.
-Calculation of the creatinine clearance must precede administration of the first dose of sotalol.
-For detailed instructions regarding dose selection [see Dosage and Administration (2)].
+Correct hypokalemia or hypomagnesemia prior to initiating sotalol hydrochloride, as these conditions can exaggerate the degree of QT prolongation and increase the potential for TdP.
+Special attention should be given to electrolyte and acid-base balance in patients experiencing severe or prolonged diarrhea or patients receiving concomitant diuretic drugs.
 
-## 5.2 Use with Drugs that Prolong QT Interval and Antiarrhythmic Agents
+Avoid sotalol with other drugs known to cause QT prolongation [see Drug Interactions (7.1)].
 
-The use of sotalol in conjunction with other drugs that prolong the QT interval has not been studied and is not recommended.
-Such drugs include many antiarrhythmics, some phenothiazines, tricyclic antidepressants, and certain oral macrolides.
-Class I or Class III antiarrhythmic agents should be withheld for at least three half-lives prior to dosing with sotalol.
-In clinical trials, sotalol was not administered to patients previously treated with oral amiodarone for >1 month in the previous three months.
-Class Ia antiarrhythmic drugs, such as disopyramide, quinidine and procainamide and other Class III drugs (e.g., amiodarone) are not recommended as concomitant therapy with intravenous sotalol because of their potential to prolong refractoriness.
-There is only limited experience with the concomitant use of Class Ib or Ic antiarrhythmics.
+## 5.2 Bradycardia/Heart Block
 
-## 5.3 Bradycardia/Heart Block
+Sotalol can cause bradycardia, sinus pauses or sinus arrest.
+Sotalol-induced bradycardia increases the risk of Torsade de Pointe, particularly following cardioversion.
+Monitor the ECG in patients receiving concomitant negative chronotropes [see Drug Interactions (7.1, 7.2, 7.3)].
 
-In studies of oral sotalol, the incidence of bradycardia (as determined by the investigators) in the supraventricular arrhythmia population treated with oral sotalol was 13% and led to discontinuation in 2.4%.
-Bradycardia itself increases the risk of Torsade de Pointes, so carefully monitor patients receiving concomitant digoxin.
-
-## 5.4 Sick Sinus Syndrome
+## 5.3 Sick Sinus Syndrome
 
 In general, sotalol is not recommended in patients with sick sinus syndrome associated with symptomatic arrhythmias, because it may cause sinus bradycardia, sinus pauses, or sinus arrest.
-In patients with AFIB and sinus node dysfunction, sotalol increases the risk of Torsade de Pointes, especially after cardioversion.
 Sotalol augments bradycardia and QTc prolongation following cardioversion.
 Patients with AFIB/AFL associated with the sick sinus syndrome may be treated with sotalol if they have an implanted pacemaker for control of bradycardia symptoms.
 
-## 5.5 Hypotension
+## 5.4 Hypotension
 
-Sotalol produces significant reductions in both systolic and diastolic blood pressures and may result in hypotension.
-Although sotalol is usually well-tolerated, monitor hemodynamics in patients with Marginal cardiac compensation as deterioration in cardiac performance may occur.
+Sotalol produces significant reductions in both systolic and diastolic blood pressures.
+Monitor hemodynamics during administration.
 
-## 5.6 Heart Failure
+## 5.5 Heart Failure
 
-Sympathetic stimulation is necessary in supporting circulatory function in heart failure, and beta- blockade carries the potential hazard of further depressing myocardial contractility and precipitating more severe failure.
-In a pooled data base of four placebo-controlled AFIB/AFL and PSVT studies, new or worsening heart failure occurred during therapy with oral sotalol in 5 (1.2%) of 415 patients.
-In these studies patients with uncontrolled heart failure were excluded (i.e., NYHA Functional Classes III or IV).
+New onset or worsening heart failure may occur during initiation or up-titration of sotalol because of its beta-blocking effects.
+Monitor for signs and symptoms of heart failure and discontinue treatment if symptoms occur.
 
-In other premarketing oral sotalol studies, new or worsened heart failure occurred in 3% of patients and led to discontinuation in approximately 1% of patients receiving sotalol.
-The incidence was higher in patients presenting with sustained ventricular tachycardia/fibrillation (5%), or a prior history of heart failure (7%).
-Based on a life-table analysis, the one-year incidence of new or worsened heart failure was 3% in patients without a prior history and 10% in patients with a prior history of heart failure.
+## 5.6 Bronchospasm
 
-## 5.7 Recent Acute MI
+Avoid beta-blockers, like sotalol, in patients with bronchospastic diseases.
+If sotalol is required, use the smallest effective dose.
 
-Oral sotalol has been used in a controlled trial following an acute myocardial infarction without evidence of increased mortality [see Clinical Studies (14.3)].
-Although specific studies of its use in treating atrial arrhythmias after infarction have not been conducted, the usual precautions regarding heart failure, avoidance of hypokalemia, bradycardia or prolonged QT interval apply.
-Experience in the use of sotalol to treat ventricular arrhythmias in the early phase of recovery from acute MI is limited.
-In the first 2 weeks post-MI careful dose titration is especially important, particularly in patients with markedly impaired ventricular function.
+## 5.7 Masked Signs of Hypoglycemia in Diabetics
 
-## 5.8 Abrupt Withdrawal
+Beta-blockade may mask tachycardia occurring with hypoglycemia, but other manifestations such as dizziness and sweating may not be significantly affected.
+Diabetic patients may experience elevated blood glucose levels and increased insulin requirements.
 
-Hypersensitivity to catecholamines has been observed in patients withdrawn from beta-blocker therapy.
-Occasional cases of exacerbation of angina pectoris, arrhythmias and, in some cases, myocardial infarction have been reported after abrupt discontinuation of beta-blocker therapy.
-Therefore, when discontinuing chronically administered sotalol, particularly in patients with ischemic heart disease, carefully monitor the patient and consider the temporary use of an alternative beta-blocker if appropriate.
-If possible, the dosage of sotalol should be gradually reduced over a period of one to two weeks.
-If angina or acute coronary insufficiency develops, appropriate therapy should be instituted promptly.
-Patients should be warned against interruption or discontinuation of therapy without the physician's advice.
-Because coronary artery disease is common and may be unrecognized in patients receiving sotalol, abrupt discontinuation in patients with arrhythmias may unmask latent coronary insufficiency.
+## 5.8 Thyroid Abnormalities
 
-## 5.9 Electrolyte Disturbances
-
-Sotalol should not be used in patients with hypokalemia or hypomagnesemia prior to correction of imbalance, as these conditions increase the potential for Torsade de Pointes.
-Special attention should be given to electrolyte and acid-base balance in patients experiencing severe or prolonged diarrhea or patients receiving concomitant diuretic drugs.
-
-## 5.10 Renal Impairment
-
-Sotalol is eliminated principally via the kidneys through glomerular filtration and to a small degree by tubular secretion.
-There is a direct relationship between renal function, as measured by serum creatinine or creatinine clearance, and the elimination rate of sotalol [see Dosage and Administration (2)].
-
-## 5.11 Non-Allergic Bronchospasm
-
-Patients with bronchospastic diseases should, in general, not receive beta-blockers.
-If sotalol is to be administered, use the smallest effective dose, to minimize inhibition of bronchodilation produced by endogenous or exogenous catecholamine stimulation of beta 2 receptors.
-
-## 5.12 Diabetes
-
-Beta-blockade may mask some important premonitory signs of acute hypoglycemia (e.g., tachycardia) in patients with diabetes (especially labile diabetes) or with a history of episodes of spontaneous hypoglycemia.
-
-## 5.13 Thyrotoxicosis
-
-Beta-blockade may mask certain clinical signs (e.g., tachycardia) of hyperthyroidism.
 Avoid abrupt withdrawal of beta-blockade which might be followed by an exacerbation of symptoms of hyperthyroidism, including thyroid storm.
-The beta-blocking effects of sotalol may be useful in controlling heart rate in AFIB associated with thyrotoxicosis, but no study has been conducted to evaluate this.
+Beta-blockade may mask certain clinical signs (e.g., tachycardia) of hyperthyroidism.
 
-## 5.14 Anaphylaxis
+## 5.9 Anaphylaxis
 
 While taking beta-blockers, patients with a history of anaphylactic reaction to a variety of allergens may have a more severe reaction on repeated challenge, either accidental, diagnostic, or therapeutic.
 Such patients may be unresponsive to the usual doses of epinephrine used to treat the allergic reaction.
 
-## 5.15 Anesthesia
+## 5.10 Anesthesia
 
-The management of patients undergoing major surgery who are being treated with beta-blockers is controversial.
-Protracted severe hypotension and difficulty in restoring and maintaining normal cardiac rhythm after anesthesia have been reported in patients receiving beta-blockers.
-
-## 5.16 Drug/Laboratory Test Interactions
-
-The presence of sotalol in the urine may result in falsely elevated levels of urinary metanephrine when measured by fluorimetric or photometric methods.
+The impaired ability of the heart to respond to reflex adrenergic stimuli may augment the risks of general anesthesia and surgical procedures.

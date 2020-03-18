@@ -1,8 +1,9 @@
 # 7 DRUG INTERACTIONS
 
-## 7.1 Digoxin
+## 7.1 Negative Chronotropes
 
-Proarrhythmic events were more common in sotalol treated patients also receiving digoxin; it is not clear whether this represents an interaction or is related to the presence of heart failure, a known risk factor for proarrhythmia, in the patients receiving digoxin.
+Both digitalis glycosides and beta-blockers slow atrioventricular conduction and decrease heart rate.
+Concomitant use can increase the risk of bradycardia.
 
 ## 7.2 Calcium Blocking Drugs
 
@@ -13,7 +14,7 @@ Sotalol and calcium blocking drugs can be expected to have additive effects on a
 Concomitant use of catecholamine-depleting drugs, such as reserpine and guanethidine, with a beta- blocker may produce an excessive reduction of resting sympathetic nervous tone.
 Monitor such patients for hypotension and marked bradycardia which may produce syncope.
 
-## 7.4 Insulin and Oral Antidiabetic Agents
+## 7.4 Insulin and Oral Antidiabetics
 
 Hyperglycemia may occur, and the dosage of insulin or antidiabetic drugs may require adjustment.
 Symptoms of hypoglycemia may be masked.
@@ -24,16 +25,9 @@ Beta-agonists such as albuterol, terbutaline and isoproterenol may have to be ad
 
 ## 7.6 Clonidine
 
-Beta-blocking drugs may potentiate the rebound hypertension sometimes observed after discontinuation of clonidine.
+Concomitant use with sotalol increases the risk of bradycardia.
+Because beta-blockers may potentiate the rebound hypertension sometime observed after clonidine discontinuation, withdraw sotalol several days before the gradual withdrawal of clonidine to reduce the risk of rebound hypertension.
 
-## 7.7 Drugs that Prolong QT Interval and Antiarrhythmic Agents
+## 7.7 Drug/Laboratory Test Interactions
 
-Sotalol has not been studied with other drugs that prolong the QT interval, such as antiarrhythmics, some phenothiazines, tricyclic antidepressants, and certain oral macrolides.
-Class I or Class III antiarrhythmic agents should be withheld for at least three half-lives prior to dosing with sotalol.
-In clinical trials, sotalol was not administered to patients previously treated with oral amiodarone for >1 month in the previous three months.
-Class Ia antiarrhythmic drugs, such as disopyramide, quinidine and procainamide and other Class III drugs (e.g., amiodarone) are not recommended as concomitant therapy with intravenous sotalol because of their potential to prolong refractoriness [see Warnings and Precautions (5)].
-There is only limited experience with the concomitant use of Class Ib or Ic antiarrhythmics.
-
-## 7.8 Other
-
-No pharmacokinetic interactions were observed with hydrochlorothiazide or warfarin.
+The presence of sotalol in the urine may result in falsely elevated levels of urinary metanephrine when measured by fluorimetric or photometric methods.

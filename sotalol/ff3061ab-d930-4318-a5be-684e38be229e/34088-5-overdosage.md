@@ -1,6 +1,6 @@
 # 10 OVERDOSAGE
 
-Intentional or accidental overdosage with sotalol has resulted in death.
+Overdosage with sotalol may be fatal.
 
 Symptoms and Treatment of Overdosage: The most common signs to be expected are bradycardia, congestive heart failure, hypotension, bronchospasm and hypoglycemia.
 In cases of massive intentional overdosage (2-16 grams) of sotalol the following clinical findings were seen: hypotension, bradycardia, cardiac asystole, prolongation of QT interval, Torsade de Pointes, ventricular tachycardia, and premature ventricular complexes.
@@ -9,3 +9,10 @@ Because of the lack of protein binding, hemodialysis is useful for reducing sota
 Patients should be carefully observed until QT intervals are normalized and the heart rate returns to levels >50 bpm.
 The occurrence of hypotension following an overdose may be associated with an initial slow drug elimination phase (half-life of 30 hours) thought to be due to a temporary reduction of renal function caused by the hypotension.
 In addition, if required, the following therapeutic measures are suggested:
+
+| Bradycardia or Cardiac Asystole: | Bradycardia or Cardiac Asystole: Atropine, another anticholinergic drug, a beta-adrenergic agonist or transvenous cardiac pacing. |
+| --- | --- |
+| Heart Block: | (second and third degree) transvenous cardiac pacemaker. |
+| Hypotension: | (depending on associated factors) epinephrine rather than isoproterenol or norepinephrine may be useful. |
+| Bronchospasm: | Aminophylline or aerosol beta-2-receptor stimulant. Higher than normal doses of beta-2 stimulus may be required. |
+| Torsade de Pointes: | DC cardioversion, magnesium sulfate, potassium replacement. Once Torsade de Pointes is terminated, transvenous cardiac pacing or an isoproterenol infusion to increase heart rate can be employed. |
