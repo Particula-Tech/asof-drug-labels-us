@@ -4,6 +4,6 @@ By: Laboratoires Merck Sharp & Dohme-Chibret Clermont Ferrand Cedex 9, 63963, Fr
 
 For patent information: www.merck.com/product/patent/home.html
 
-Copyright © 2001-2019 Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. All rights reserved.
+Copyright © 2020 Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. All rights reserved.
 
-uspi-mk0826-i-1906r023
+uspi-mk0826-i-2002r024
