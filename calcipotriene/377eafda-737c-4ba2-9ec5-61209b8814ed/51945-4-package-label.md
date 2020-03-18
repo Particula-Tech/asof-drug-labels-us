@@ -1,15 +1,17 @@
-# PRINCIPAL DISPLAY PANEL FOR CALCIPOTRIENE CREAM 0.005% 60 G
+# PRINCIPAL DISPLAY PANEL - 60 g Tube Carton
 
 NDC 66993-877-61
 
-Calcipotriene Cream 0.005%
+PRASCO
+
+Calcipotriene Cream, 0.005%
 
 Net Wt.
 60 g
 
 Rx only
 
-# PRINCIPAL DISPLAY PANEL FOR CALCIPOTRIENE CREAM 0.005% 120 G
+# Principal Display Panel - 120 g Tube Carton
 
 NDC 66993-877-78
 
