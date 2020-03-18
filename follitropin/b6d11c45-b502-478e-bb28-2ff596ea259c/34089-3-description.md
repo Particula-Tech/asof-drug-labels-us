@@ -14,7 +14,7 @@ Based on available data derived from physico-chemical tests and bioassays, folli
 
 Gonal-f® RFF Redi-ject® is a disposable, prefilled drug delivery system intended for the subcutaneous injection of multiple and variable doses of a liquid formulation of follitropin alfa.
 
-Each Gonal-f® RFF Redi-ject® is filled with 262.5 International Units (19 mcg), 415 International Units (30 mcg), 568 International Units (41 mcg), or 1026 International Units (75 mcg) follitropin alfa to deliver at least 150 International Units (11 mcg) in 0.25 mL, 300 International Units (22 mcg) in 0.5 mL, 450 International Units (33 mcg) in 0.75 mL, or 900 International Units (66 mcg) in 1.5 mL, respectively.
+Each Gonal-f® RFF Redi-ject® is filled with 415 International Units (30 mcg), 568 International Units (41 mcg), or 1026 International Units (75 mcg) follitropin alfa to deliver at least 300 International Units (22 mcg) in 0.5 mL, 450 International Units (33 mcg) in 0.75 mL, or 900 International Units (66 mcg) in 1.5 mL, respectively.
 Each Redi-ject® also contains 60 mg/mL sucrose, 3.0 mg/mL m-cresol, 1.1 mg/mL di-sodium hydrogen phosphate dihydrate, 0.45 mg/mL sodium dihydrogen phosphate monohydrate, 0.1 mg/mL methionine, 0.1 mg/mL Poloxamer 188.
 O-phosphoric acid and/or sodium hydroxide may be used for pH adjustment.
 

@@ -7,8 +7,6 @@ Each Redi-ject® is supplied in a carton containing 29G × 1/2 inch disposable n
 
 The following package presentations are available:
 
-NDC 44087-1118-1 - One Gonal-f® RFF Redi-ject® contains 262.5 International Units of follitropin alfa to deliver 150 International Units per 0.25 mL and 4 single-use disposable 29G × ½" needles
-
 NDC 44087-1115-1 - One Gonal-f® RFF Redi-ject® contains 415 International Units of follitropin alfa to deliver 300 International Units per 0.5 mL and 5 single-use disposable 29G × ½" needles
 
 NDC 44087-1116-1 - One Gonal-f® RFF Redi-ject® contains 568 International Units of follitropin alfa to deliver 450 International Units per 0.75 mL and 7 single-use disposable 29G × ½" needles
