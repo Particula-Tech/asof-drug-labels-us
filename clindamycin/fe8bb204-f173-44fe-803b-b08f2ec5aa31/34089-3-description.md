@@ -5,7 +5,7 @@ The chemical name for clindamycin phosphate is methyl 7-chloro- 6,7,8-trideoxy-6
 It has a molecular weight of 504.95, and the molecular formula is C18H34CIN2O8PS.
 The structural formula is represented below:
 
-Clindesse is a semi-solid, white cream, which contains clindamycin phosphate, USP, as a concentration equivalent to 20 mg clindamycin base per gram.
+Clindesse is a semi-solid, white cream, which contains clindamycin phosphate, USP, at a concentration equivalent to 20 mg clindamycin base per gram.
 The cream also contains edetate disodium, glycerol monoisostearate, lecithin, methylparaben, microcrystalline wax, mineral oil, polyglyceryl-3-oleate, propylparaben, purified water, silicon dioxide and sorbitol solution.
 
 Clindesse does not comply with the pH test of the USP monograph for clindamycin phosphate vaginal cream.
