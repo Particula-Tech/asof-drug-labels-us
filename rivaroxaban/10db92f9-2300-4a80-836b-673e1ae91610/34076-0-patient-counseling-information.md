@@ -11,7 +11,7 @@ Instructions for Patient Use
 - Advise patients who are at a continued risk of recurrent DVT and/or PE after at least 6 months of initial treatment, to take XARELTO 10 mg once daily with or without food [see Dosage and Administration (2.1)].
 - Advise patients who cannot swallow the tablet whole to crush XARELTO and combine with a small amount of applesauce followed by food [see Dosage and Administration (2.5)].
 - For patients requiring an NG tube or gastric feeding tube, instruct the patient or caregiver to crush the XARELTO tablet and mix it with a small amount of water before administering via the tube [see Dosage and Administration (2.5)].
-- If a dose is missed, advise the patient to take XARELTO as soon as possible on the same day and continue on the following day with their recommended daily dose regimen.
+- If a dose is missed, advise the patient to take XARELTO as soon as possible on the same day and continue on the following day with their recommended daily dose regimen [see Dosage and Administration (2.4)].
 
 Bleeding Risks
 

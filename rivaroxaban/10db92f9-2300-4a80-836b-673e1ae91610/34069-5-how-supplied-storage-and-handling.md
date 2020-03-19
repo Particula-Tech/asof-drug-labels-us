@@ -1,6 +1,6 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-XARELTO (rivaroxaban) Tablets are available in the strengths and packages listed below:
+XARELTO® (rivaroxaban) Tablets are available in the strengths and packages listed below:
 
 - 2.5 mg tablets are round, light yellow, and film-coated with a triangle pointing down above a "2.5" marked on one side and "Xa" on the other side.
   The tablets are supplied in the packages listed: NDC 50458-577-60Bottle containing 60 tabletsNDC 50458-577-18Bottle containing 180 tabletsNDC 50458-577-10Blister package containing 100 tablets (10 blister cards containing 10 tablets each)

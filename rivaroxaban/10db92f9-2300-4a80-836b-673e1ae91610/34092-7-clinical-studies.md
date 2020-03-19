@@ -145,7 +145,7 @@ Figure 9: Time to First Occurrence of the Composite of Recurrent DVT or Non-fata
 
 ## 14.4 Prophylaxis of Deep Vein Thrombosis Following Hip or Knee Replacement Surgery
 
-XARELTO was studied in 9011 patients (4487 XARELTO-treated, 4524 enoxaparin-treated patients) in the REgulation of Coagulation in ORthopedic Surgery to Prevent DVT and PE, Controlled, Double-blind, Randomized Study of BAY 59-7939 in the Extended Prevention of VTE in Patients Undergoing Elective Total Hip or Knee Replacement (RECORD 1, 2, and 3) [NCT00329628, NCT00332020, NCT00361894] studies.
+XARELTO was studied in 9011 patients (4487 XARELTO-treated, 4524 enoxaparin-treated patients) in the REgulation of Coagulation in ORthopedic Surgery to Prevent DVT and PE, Controlled, Double-blind, Randomized Study of BAY 59-7939 in the Extended Prevention of VTE in Patients Undergoing Elective Total Hip or Knee Replacement (RECORD 1, 2, and 3) [NCT00329628, NCT0033, NCT00361894] studies.
 
 The two randomized, double-blind, clinical studies (RECORD 1 and 2) in patients undergoing elective total hip replacement surgery compared XARELTO 10 mg once daily starting at least 6 to 8 hours (about 90% of patients dosed 6 to 10 hours) after wound closure versus enoxaparin 40 mg once daily started 12 hours preoperatively.
 In RECORD 1 and 2, a total of 6727 patients were randomized and 6579 received study drug.
@@ -213,7 +213,7 @@ The major efficacy outcome in the MAGELLAN trial was a composite endpoint that i
 
 A total of 6024 patients were evaluable for the major efficacy outcome analysis (2967 on XARELTO 10 mg once daily and 3057 on enoxaparin/placebo).
 The mean age was 68.9 years, with 37.1% of the subject population ≥ 75 years.
-VTE risk factors included severe immobilization at study entry (99.9%), D-dimer > 2× ULN (43.7%), history of heart failure (35.6%), BMI ≥ 35 kg/m2 (15.2%), chronic venous insufficiency (14.9%), acute infectious disease (13.9%), severe varicosis (12.5%), history of cancer (16.2%), history of VTE (4.5%), hormone replacement therapy (1.1%), and thrombophilia (0.3%), recent major surgery (0.8%) and recent serious trauma (0.2%).
+VTE risk factors included severe immobilization at study entry (99.9%), D-dimer > 2X ULN (43.7%), history of heart failure (35.6%), BMI ≥ 35 kg/m2 (15.2%), chronic venous insufficiency (14.9%), acute infectious disease (13.9%), severe varicosis (12.5%), history of cancer (16.2%), history of VTE (4.5%), hormone replacement therapy (1.1%), and thrombophilia (0.3%), recent major surgery (0.8%) and recent serious trauma (0.2%).
 The population was 54.7% male, 68.2% White, 20.4% Asian, 1.9% Black and 5.3% Other.
 Admitting diagnoses for hospitalization were acute infectious diseases (43.8%) followed by congestive heart failure NYHA class III or IV (33.2%), acute respiratory insufficiency (26.4%), acute ischemic stroke (18.5%) and acute inflammatory diseases (3.4%).
 

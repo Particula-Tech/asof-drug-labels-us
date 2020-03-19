@@ -96,12 +96,13 @@ Avoid concomitant use of XARELTO with drugs that are known combined P-gp and str
 In pregnant women, XARELTO should be used only if the potential benefit justifies the potential risk to the mother and fetus.
 XARELTO dosing in pregnancy has not been studied.
 The anticoagulant effect of XARELTO cannot be monitored with standard laboratory testing.
-Promptly evaluate any signs or symptoms suggesting blood loss (e.g., a drop in hemoglobin and/or hematocrit, hypotension, or fetal distress) [see Warnings and Precautions (5.2)].
+Promptly evaluate any signs or symptoms suggesting blood loss (e.g., a drop in hemoglobin and/or hematocrit, hypotension, or fetal distress) [see Warnings and Precautions (5.2) and Use in Specific Populations (8.1)].
 
 ## 5.8 Patients with Prosthetic Heart Valves
 
-The safety and efficacy of XARELTO have not been studied in patients with prosthetic heart valves.
-Therefore, use of XARELTO is not recommended in these patients.
+On the basis of the GALILEO study, use of XARELTO is not recommended in patients who have had transcatheter aortic valve replacement (TAVR) because patients randomized to XARELTO experienced higher rates of death and bleeding compared to those randomized to an anti-platelet regimen.
+The safety and efficacy of XARELTO have not been studied in patients with other prosthetic heart valves or other valve procedures.
+Use of XARELTO is not recommended in patients with prosthetic heart valves.
 
 ## 5.9 Acute PE in Hemodynamically Unstable Patients or Patients Who Require Thrombolysis or Pulmonary Embolectomy
 

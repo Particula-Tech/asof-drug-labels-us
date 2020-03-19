@@ -51,12 +51,14 @@ If oral medication cannot be taken during or after surgical intervention, consid
 
 ## 2.5 Administration Options
 
-For patients who are unable to swallow whole tablets, XARELTO tablets may be crushed and mixed with applesauce immediately prior to use and administered orally.
-After the administration of a crushed XARELTO 15 mg or 20 mg tablet, the dose should be immediately followed by food [see Clinical Pharmacology (12.3)].
+For patients who are unable to swallow whole tablets, XARELTO tablets (all strengths) may be crushed and mixed with applesauce immediately prior to use and administered orally.
+After the administration of a crushed XARELTO 15 mg or 20 mg tablet, the dose should be immediately followed by food.
+Administration with food is not required for the 2.5 mg or 10 mg tablets [see Clinical Pharmacology (12.3)].
 
-Administration via nasogastric (NG) tube or gastric feeding tube: After confirming gastric placement of the tube, XARELTO tablets may be crushed and suspended in 50 mL of water and administered via an NG tube or gastric feeding tube.
+Administration via nasogastric (NG) tube or gastric feeding tube: After confirming gastric placement of the tube, XARELTO tablets (all strengths) may be crushed and suspended in 50 mL of water and administered via an NG tube or gastric feeding tube.
 Since rivaroxaban absorption is dependent on the site of drug release, avoid administration of XARELTO distal to the stomach which can result in reduced absorption and thereby, reduced drug exposure.
-After the administration of a crushed XARELTO 15 mg or 20 mg tablet, the dose should then be immediately followed by enteral feeding [see Clinical Pharmacology (12.3)].
+After the administration of a crushed XARELTO 15 mg or 20 mg tablet, the dose should then be immediately followed by enteral feeding.
+Enteral feeding is not required following administration of the 2.5 mg or 10 mg tablets [see Clinical Pharmacology (12.3)].
 
-Crushed XARELTO tablets are stable in water and in applesauce for up to 4 hours.
+Crushed XARELTO tablets (all strengths) are stable in water and in applesauce for up to 4 hours.
 An in vitro compatibility study indicated that there is no adsorption of rivaroxaban from a water suspension of a crushed XARELTO tablet to PVC or silicone nasogastric (NG) tubing.
