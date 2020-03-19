@@ -1,6 +1,6 @@
 # WARNING: RISKS FROM CONCOMITANT USE WITH OPIOIDS
 
-Concomitant use of benzodiazepines and opioids may result in profound sedation, respiratory depression, coma, and death [see Warnings and Precautions (5.1), Drug Interactions (7.1)].
+Concomitant use of benzodiazepines and opioids may result in profound sedation, respiratory depression, coma, and death [see Warnings, Drug Interactions].
 
 - Reserve concomitant prescribing of these drugs for use in patients for whom alternative treatment options are inadequate.
 - Limit dosages and durations to the minimum required.

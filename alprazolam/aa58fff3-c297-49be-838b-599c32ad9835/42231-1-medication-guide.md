@@ -10,7 +10,13 @@
 |  |  | sedationdifficult or unclear ability to talkproblems with coordinationtiredness | drowsinessdepressionmemory problems |
 | These are not all the possible side effects of XANAX XR. Call your doctor for medical advice about side effects. You may report side effects to FDA at 1-800-FDA-1088. |  |  |  |
 | How should I store XANAX XR? Store XANAX XR between 59°F to 86°F (15°C to 30°C)Keep XANAX XR and all medicines out of the reach of children. |  |  |  |
-| General information about the safe and effective use of XANAX XR. Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide.Do not use XANAX XR for a condition for which it was not prescribed.Do not give XANAX XR to other people, even if they have the same symptoms that you have. It may harm them.You can ask your pharmacist or healthcare provider for information about XANAX XR that is written for health professionals. |  |  |  |
+|  | General information about the safe and effective use of XANAX XR.Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide.Do not use XANAX XR for a condition for which it was not prescribed.Do not give XANAX XR to other people, even if they have the same symptoms that you have. It may harm them.You can ask your pharmacist or healthcare provider for information about XANAX XR that is written for health professionals. |  |  |
 | What are the ingredients in XANAX XR? Active ingredient: alprazolam Inactive ingredients: lactose, magnesium stearate, colloidal silicon dioxide, and hypromellose. In addition, the 1 mg and 3 mg tablets contain D & C yellow No. 10 and the 2 mg and 3 mg tablets contain FD&C blue No. 2. |  |  |  |
-| XANAX® XR is a registered trademark of Pharmacia & Upjohn Company LLC. This product's label may have been updated. For current full prescribing information, please visit www.pfizer.com. LAB-0824-1.1 |  |  |  |
-| This Medication Guide has been approved by the U.S. Food and Drug Administration. |  |  | Revised Month 2018 |
+| XANAX® XR is a registered trademark of Pharmacia & Upjohn Company LLC. For more information, go to www.pfizer.com or call 1-800-438-1985. |  |  |  |
+
+This Medication Guide has been approved by the U.S. Food and Drug Administration.
+
+This product's label may have been updated.
+For current full prescribing information, please visit www.pfizer.com
+
+LAB-0824-1.0 December 2016
