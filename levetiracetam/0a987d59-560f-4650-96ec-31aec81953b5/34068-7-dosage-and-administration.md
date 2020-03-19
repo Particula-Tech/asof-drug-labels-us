@@ -13,7 +13,9 @@ When using the oral solution in pediatric patients, dosing is weight-based (mg p
 Levetiracetam tablets should be swallowed whole.
 Levetiracetam tablets should not be chewed or crushed.
 
-## 2.2 Dosing for Partial Onset Seizures
+## 2.2 Dosing for Partial-Onset Seizures
+
+The recommended dosing for monotherapy and adjunctive therapy is the same; as outlined below.
 
 ### Adults 16 Years and Older
 
@@ -28,7 +30,6 @@ There is no evidence that doses greater than 3000 mg/day confer additional benef
 Initiate treatment with a daily dose of 14 mg/kg in 2 divided doses (7 mg/kg twice daily).
 Increase the daily dose every 2 weeks by increments of 14 mg/kg to the recommended daily dose of 42 mg/kg (21 mg/kg twice daily).
 In the clinical trial, the mean daily dose was 35 mg/kg in this age group.
-The effectiveness of lower doses has not been studied.
 
 #### 6 Months to < 4 Years
 
@@ -92,7 +93,11 @@ Table 1: Dosing Adjustment Regimen for Adult Patients with Renal Impairment
 | Group | Creatinine Clearance (mL/min/1.73m2) | Dosage (mg) | Frequency |
 | --- | --- | --- | --- |
 | Normal | > 80 | 500 to 1,500 | Every 12 hours |
-| Mild | 50 to 80 | 500 to 1,000 | Every 12 hours |
-| Moderate | 30 to 50 | 250 to 750 | Every 12 hours |
+| Mild | 50 - 80 | 500 to 1,000 | Every 12 hours |
+| Moderate | 30 - 50 | 250 to 750 | Every 12 hours |
 | Severe | < 30 | 250 to 500 | Every 12 hours |
-| ESRD patients using dialysis | --- | 500 to 1,000Following dialysis, a 250 to 500 mg supplemental dose is recommended. | Every 24 hours |
+| ESRD patients using dialysis | --- | 500 to 1,0001 | Every 24 hoursFollowing dialysis, a 250 to 500 mg supplemental dose is recommended. |
+
+## 2.6 Discontinuation of Levetiracetam Tablets
+
+Avoid abrupt withdrawal from levetiracetam tablets in order to reduce the risk of increased seizure frequency and status epilepticus [see Warnings and Precautions (5.7)].

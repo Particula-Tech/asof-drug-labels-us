@@ -3,17 +3,6 @@
 ## 12.1 Mechanism of Action
 
 The precise mechanism(s) by which levetiracetam exerts its antiepileptic effect is unknown.
-The antiepileptic activity of levetiracetam was assessed in a number of animal models of epileptic seizures.
-Levetiracetam did not inhibit single seizures induced by maximal stimulation with electrical current or different chemoconvulsants and showed only minimal activity in submaximal stimulation and in threshold tests.
-Protection was observed, however, against secondarily generalized activity from focal seizures induced by pilocarpine and kainic acid, two chemoconvulsants that induce seizures that mimic some features of human complex partial seizures with secondary generalization.
-Levetiracetam also displayed inhibitory properties in the kindling model in rats, another model of human complex partial seizures, both during kindling development and in the fully kindled state.
-The predictive value of these animal models for specific types of human epilepsy is uncertain.
-
-In vitro and in vivo recordings of epileptiform activity from the hippocampus have shown that levetiracetam inhibits burst firing without affecting normal neuronal excitability, suggesting that levetiracetam may selectively prevent hypersynchronization of epileptiform burst firing and propagation of seizure activity.
-
-Levetiracetam at concentrations of up to 10 μM did not demonstrate binding affinity for a variety of known receptors, such as those associated with benzodiazepines, GABA (gamma-aminobutyric acid), glycine, NMDA (N-methyl-D-aspartate), re-uptake sites, and second messenger systems.
-Furthermore, in vitro studies have failed to find an effect of levetiracetam on neuronal voltage-gated sodium or T-type calcium currents and levetiracetam does not appear to directly facilitate GABAergic neurotransmission.
-However, in vitro studies have demonstrated that levetiracetam opposes the activity of negative modulators of GABA- and glycine-gated currents and partially inhibits N-type calcium currents in neuronal cells.
 
 A saturable and stereoselective neuronal binding site in rat brain tissue has been described for levetiracetam.
 Experimental data indicate that this binding site is the synaptic vesicle protein SV2A, thought to be involved in the regulation of vesicle exocytosis.
@@ -29,6 +18,8 @@ The upper bound of the 90% confidence interval for the largest placebo-adjusted,
 Therefore, there was no evidence of significant QTc prolongation in this study.
 
 ## 12.3 Pharmacokinetics
+
+The pharmacokinetics of levetiracetam are similar when used as monotherapy or as adjunctive therapy for the treatment of partial-onset seizures.
 
 ### Absorption and Distribution
 
@@ -84,7 +75,7 @@ Population pharmacokinetic analysis showed that body weight was significantly co
 
 #### Pregnancy
 
-Levetiracetam levels may decrease during pregnancy.
+Levetiracetam levels may decrease during pregnancy [see Warnings and Precautions (5.10) and Use in Specific Populations (8.1)].
 
 #### Gender
 
@@ -94,7 +85,7 @@ However, clearances adjusted for body weight were comparable.
 #### Race
 
 Formal pharmacokinetic studies of the effects of race have not been conducted.
-Cross-study comparisons involving Caucasians (N = 12) and Asians (N = 12), however, show that pharmacokinetics of levetiracetam were comparable between the two races.
+Cross- study comparisons involving Caucasians (N = 12) and Asians (N = 12), however, show that pharmacokinetics of levetiracetam were comparable between the two races.
 Because levetiracetam is primarily renally excreted and there are no important racial differences in creatinine clearance, pharmacokinetic differences due to race are not expected.
 
 #### Renal Impairment
