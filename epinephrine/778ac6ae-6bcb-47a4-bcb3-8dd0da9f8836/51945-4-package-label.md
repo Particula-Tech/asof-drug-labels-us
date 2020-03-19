@@ -34,10 +34,10 @@ Protect from light.
 
 Manufactured for Mylan Specialty L.P., Morgantown, WV 26505 USA by Meridian Medical Technologies, Inc., Columbia, MD 21046, USA, a Pfizer company.
 
-Copyright© 2017 Meridian Medical Technologies.
+Copyright© 2020 Meridian Medical Technologies.
 All rights reserved.
 
-0002000 MS:10202:2C:R3
+0002077 MS:10202:2C:R4
 
 # PRINCIPAL DISPLAY PANEL – 0.15 mg
 
@@ -75,7 +75,7 @@ Protect from light.
 
 Manufactured for Mylan Specialty L.P., Morgantown, WV 26505 USA by Meridian Medical Technologies, Inc., Columbia, MD 21046, USA, a Pfizer company.
 
-Copyright© 2017 Meridian Medical Technologies.
+Copyright© 2020 Meridian Medical Technologies.
 All rights reserved.
 
-0002001 MS:10102:2C:R3
+0002078 MS:10102:2C:R4

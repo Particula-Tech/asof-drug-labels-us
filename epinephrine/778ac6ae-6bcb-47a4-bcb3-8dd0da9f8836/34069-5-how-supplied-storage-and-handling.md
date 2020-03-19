@@ -18,3 +18,4 @@ Store at 20° to 25°C (68° to 77°F); excursions permitted to 15° to 30°C (5
 Do not refrigerate.
 Before using, check to make sure the solution in the auto-injector is clear and colorless.
 Replace the auto-injector if the solution is discolored (pinkish or brown color), cloudy, or contains particles.
+Properly dispose all used, unwanted or expired epinephrine injection, USP auto-injectors [see Patient Counseling Information (17)].
