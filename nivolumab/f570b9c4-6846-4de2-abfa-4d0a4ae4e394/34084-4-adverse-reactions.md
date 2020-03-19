@@ -17,7 +17,7 @@ The following clinically significant adverse reactions are described elsewhere i
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-The data in WARNINGS AND PRECAUTIONS reflect exposure to OPDIVO as a single agent in 1994 patients enrolled in CHECKMATE-037, CHECKMATE-017, CHECKMATE-057, CHECKMATE-066, CHECKMATE-025, CHECKMATE-067, CHECKMATE-205, CHECKMATE-039 or a single-arm trial in NSCLC (n=117); OPDIVO 1 mg/kg with ipilimumab 3 mg/kg in patients enrolled in CHECKMATE-067 (n=313) or another randomized trial (n=94); and OPDIVO 3 mg/kg administered with ipilimumab 1 mg/kg (n=666) in patients enrolled in CHECKMATE-214 or CHECKMATE-142.
+The data in WARNINGS AND PRECAUTIONS reflect exposure to OPDIVO as a single agent in 1994 patients enrolled in CHECKMATE-037, CHECKMATE-017, CHECKMATE-057, CHECKMATE-066, CHECKMATE-025, CHECKMATE-067, CHECKMATE-205, CHECKMATE-039 or a single-arm trial in NSCLC (n=117); OPDIVO 1 mg/kg with ipilimumab 3 mg/kg in patients enrolled in CHECKMATE-067 (n=313), CHECKMATE-040 (n=49), or another randomized trial (n=94); and OPDIVO 3 mg/kg administered with ipilimumab 1 mg/kg (n=666) in patients enrolled in CHECKMATE-214 or CHECKMATE-142.
 
 ### Unresectable or Metastatic Melanoma
 
@@ -338,7 +338,7 @@ Other clinically important adverse reactions observed in OPDIVO-treated patients
 
 Table 13: Laboratory Abnormalities Worsening from Baselinea Occurring in ≥10% of OPDIVO-Treated Patients for all NCI CTCAE Grades and at a Higher Incidence than Docetaxel (Between Arm Difference of ≥5% All Grades or ≥2% Grades 3-4) - CHECKMATE-017 and CHECKMATE-057
 
-| Adverse Reaction | OPDIVO |  | Docetaxel |  |  |  |  |  |  |
+| Laboratory Abnormality | OPDIVO |  | Docetaxel |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | All Grades (%) | Grades 3-4 (%) | All Grades (%) | Grades 3-4 (%) |  |  |  |  |  |  |
 | Chemistry |  |  |  |  |  |  |  |  |  |
@@ -453,7 +453,8 @@ Table 15: Laboratory Values Worsening from Baselinea Occurring in >15% of Patien
 
 Previously Untreated Renal Cell Carcinoma
 
-The safety of OPDIVO with ipilimumab was evaluated in CHECKMATE-214, a randomized open-label trial in 1082 patients with previously untreated advanced RCC received OPDIVO 3 mg/kg over 60 minutes with ipilimumab 1 mg/kg intravenously every 3 weeks for 4 doses followed by OPDIVO as a single agent at a dose of 3 mg/kg by intravenous infusion every 2 weeks (n=547) or sunitinib 50 mg orally daily for the first 4 weeks of a 6-week cycle (n=535) [see Clinical Studies (14.5)].The median duration of treatment was 7.9 months (range: 1 day to 21.4+ months) in OPDIVO and ipilimumab-treated patients and 7.8 months (range: 1 day to 20.2+ months) in sunitinib-treated patients.
+The safety of OPDIVO with ipilimumab was evaluated in CHECKMATE-214, a randomized open-label trial in 1082 patients with previously untreated advanced RCC received OPDIVO 3 mg/kg over 60 minutes with ipilimumab 1 mg/kg intravenously every 3 weeks for 4 doses followed by OPDIVO as a single agent at a dose of 3 mg/kg by intravenous infusion every 2 weeks (n=547) or sunitinib 50 mg orally daily for the first 4 weeks of a 6-week cycle (n=535) [see Clinical Studies (14.5)].
+The median duration of treatment was 7.9 months (range: 1 day to 21.4+ months) in OPDIVO and ipilimumab-treated patients and 7.8 months (range: 1 day to 20.2+ months) in sunitinib-treated patients.
 In this trial, 57% of patients in the OPDIVO and ipilimumab arm were exposed to treatment for >6 months and 38% of patients were exposed to treatment for >1 year.
 
 Serious adverse reactions occurred in 59% of patients receiving OPDIVO and ipilimumab.
@@ -729,9 +730,8 @@ Table 21: Laboratory Abnormalities Worsening from Baseline Occurring in ≥10% o
 The safety of OPDIVO administered as a single agent or in combination with ipilimumab was evaluated in CHECKMATE-142, a multicenter, non-randomized, multiple parallel-cohort, open-label trial [see Clinical Studies (14.9)].
 In CHECKMATE-142, 74 patients with mCRC received OPDIVO 3 mg/kg by intravenous infusion over 60 minutes every 2 weeks until disease progression or until intolerable toxicity and 119 patients with mCRC received OPDIVO 3 mg/kg and ipilimumab 1 mg/kg every 3 weeks for 4 doses, then OPDIVO 3 mg/kg every 2 weeks until disease progression or until unacceptable toxicity.
 
-Serious adverse reactions occurred in 47% of patients.
+In the OPDIVO with ipilimumab cohort, serious adverse reactions occurred in 47% of patients.
 OPDIVO was discontinued in 13% of patients and delayed in 45% of patients for an adverse reaction.
-
 The most frequent serious adverse reactions reported in ≥2% of patients were colitis/diarrhea, hepatic events, abdominal pain, acute kidney injury, pyrexia, and dehydration.
 The most common adverse reactions (reported in ≥20% of patients) were fatigue, diarrhea, pyrexia, musculoskeletal pain, abdominal pain, pruritus, nausea, rash, decreased appetite, and vomiting.
 
@@ -809,13 +809,115 @@ Table 23: Laboratory Abnormalities Worsening from Baselinea Occurring in ≥10% 
 
 ### Hepatocellular Carcinoma
 
-The safety of OPDIVO was evaluated in a 154-patient subgroup of patients with HCC and Child-Pugh A cirrhosis who progressed on or were intolerant to sorafenib enrolled in CHECKMATE-040, a multicenter, open-label trial [see Clinical Studies (14.10)].
+The safety of OPDIVO 3 mg/kg every 2 weeks as a single agent was evaluated in a 154-patient subgroup of patients with HCC and Child-Pugh Class A cirrhosis who progressed on or were intolerant to sorafenib.
+These patients enrolled in Cohorts 1 and 2 of CHECKMATE-040, a multicenter, multiple cohort, open-label trial [see Clinical Studies (14.10)].
 Patients were required to have an AST and ALT ≤5 x ULN and total bilirubin <3 mg/dL.
-The median duration of exposure to OPDIVO was 6 months.
+The median duration of exposure to OPDIVO was 5 months (range: 0 to 22+ months).
+Serious adverse reactions occurred in 49% of patients.
+The most frequent serious adverse reactions reported in at least 2% of patients were pyrexia, ascites, back pain, general physical health deterioration, abdominal pain, pneumonia, and anemia.
 
-The toxicity profile observed in patients with advanced HCC was generally similar to that observed in patients with other cancers, with the exception of a higher incidence of elevations in transaminases and bilirubin levels.
+The toxicity profile observed in these patients with advanced HCC was generally similar to that observed in patients with other cancers, with the exception of a higher incidence of elevations in transaminases and bilirubin levels.
 Treatment with OPDIVO resulted in treatment-emergent Grade 3 or 4 AST in 27 (18%) patients, Grade 3 or 4 ALT in 16 (11%) patients, and Grade 3 or 4 bilirubin in 11 (7%) patients.
 Immune-mediated hepatitis requiring systemic corticosteroids occurred in 8 (5%) patients.
+
+The safety of OPDIVO 1 mg/kg in combination with ipilimumab 3 mg/kg was evaluated in a subgroup comprising 49 patients with HCC and Child-Pugh Class A cirrhosis enrolled in Cohort 4 of the CHECKMATE-040 trial who progressed on or were intolerant to sorafenib.
+OPDIVO and ipilimumab were administered every 3 weeks for 4 doses, followed by single-agent OPDIVO 240 mg every 2 weeks until disease progression or unacceptable toxicity.
+During the OPDIVO and ipilimumab combination period, 33 of 49 (67%) patients received all 4 planned doses of OPDIVO and ipilimumab.
+During the entire treatment period, the median duration of exposure to OPDIVO was 5.1 months (range: 0 to 35+ months) and to ipilimumab was 2.1 months (range: 0 to 4.5 months).
+Forty-seven percent of patients were exposed to treatment for >6 months, and 35% of patients were exposed to treatment for >1 year.
+Serious adverse reactions occurred in 59% of patients.
+Treatment was discontinued in 29% of patients and delayed in 65% of patients for an adverse reaction.
+
+The most frequent serious adverse reactions (reported in ≥4% of patients) were pyrexia, diarrhea, anemia, increased AST, adrenal insufficiency, ascites, esophageal varices hemorrhage, hyponatremia, increased blood bilirubin, and pneumonitis.
+
+Tables 24 and 25 summarize the adverse reactions and laboratory abnormalities, respectively, in CHECKMATE-040.
+Based on the design of the study, the data below cannot be used to identify statistically significant differences between the cohorts summarized below for any adverse reaction.
+
+Table 24: Adverse Reactions Occurring in ≥10% of Patients Receiving OPDIVO in Combination with Ipilimumab in Cohort 4 or OPDIVO in Cohorts 1 and 2 of CHECKMATE-040
+
+| Adverse Reaction | OPDIVO and Ipilimumab(n=49) |  | OPDIVO(n=154) |  |
+| --- | --- | --- | --- | --- |
+| All Grades (%) | Grades 3-4 (%) | All Grades (%) | Grades 3-4 (%) |  |
+| Skin and Subcutaneous Tissue |  |  |  |  |
+| Rash | 53 | 8 | 26 | 0.6 |
+| Pruritus | 53 | 4 | 27 | 0.6 |
+| Musculoskeletal and Connective Tissue |  |  |  |  |
+| Musculoskeletal pain | 41 | 2 | 36 | 1.9 |
+| Arthralgia | 10 | 0 | 8 | 0.6 |
+| Gastrointestinal |  |  |  |  |
+| Diarrhea | 39 | 4 | 27 | 1.3 |
+| Abdominal pain | 22 | 6 | 34 | 3.9 |
+| Nausea | 20 | 0 | 16 | 0 |
+| Ascites | 14 | 6 | 9 | 2.6 |
+| Constipation | 14 | 0 | 16 | 0 |
+| Dry mouth | 12 | 0 | 9 | 0 |
+| Dyspepsia | 12 | 2 | 8 | 0 |
+| Vomiting | 12 | 2 | 14 | 0 |
+| Stomatitis | 10 | 0 | 7 | 0 |
+| Abdominal distension | 8 | 0 | 11 | 0 |
+| Respiratory, Thoracic and Mediastinal |  |  |  |  |
+| Cough | 37 | 0 | 23 | 0 |
+| Dyspnea | 14 | 0 | 13 | 1.9 |
+| Pneumonitis | 10 | 2 | 1.3 | 0.6 |
+| Metabolism and Nutrition |  |  |  |  |
+| Decreased appetite | 35 | 2 | 22 | 1.3 |
+| General |  |  |  |  |
+| Fatigue | 27 | 2 | 38 | 3.2 |
+| Pyrexia | 27 | 0 | 18 | 0.6 |
+| Malaise | 18 | 2 | 6.5 | 0 |
+| Edema | 16 | 2 | 12 | 0 |
+| Influenza-like illness | 14 | 0 | 9 | 0 |
+| Chills | 10 | 0 | 3.9 | 0 |
+| Nervous System |  |  |  |  |
+| Headache | 22 | 0 | 11 | 0.6 |
+| Dizziness | 20 | 0 | 9 | 0 |
+| Endocrine |  |  |  |  |
+| Hypothyroidism | 20 | 0 | 4.5 | 0 |
+| Adrenal insufficiency | 18 | 4 | 0.6 | 0 |
+| Investigations |  |  |  |  |
+| Weight decreased | 20 | 0 | 7 | 0 |
+| Psychiatric |  |  |  |  |
+| Insomnia | 18 | 0 | 10 | 0 |
+| Blood and Lymphatic System |  |  |  |  |
+| Anemia | 10 | 4 | 19 | 2.6 |
+| Infections |  |  |  |  |
+| Influenza | 10 | 2 | 1.9 | 0 |
+| Upper Respiratory Tract Infection | 6 | 0 | 12 | 0 |
+| Vascular |  |  |  |  |
+| Hypotension | 10 | 0 | 0.6 | 0 |
+
+Clinically important adverse reactions reported in <10% of patients who received OPDIVO with ipilimumab were hyperglycemia (8%), colitis (4%), and increased blood creatine phosphokinase (2%).
+
+Table 25: Laboratory Abnormalities Worsening from Baseline Occurring in ≥10% of Patients Receiving OPDIVO in Combination with Ipilimumab in Cohort 4 or OPDIVO as a Single Agent in Cohorts 1 and 2 of CHECKMATE-040
+
+| Laboratory Abnormality | OPDIVO and Ipilimumab(n=47) |  | OPDIVO* |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| All Grades (%) | Grades 3-4 (%) | All Grades (%) | Grades 3-4 (%) |  |  |  |  |  |  |
+| Hematology |  |  |  |  |  |  |  |  |  |
+| Lymphopenia | 53 | 13 | 59 | 15 |  |  |  |  |  |
+| Anemia | 43 | 4.3 | 49 | 4.6 |  |  |  |  |  |
+| Neutropenia | 43 | 9 | 19 | 1.3 |  |  |  |  |  |
+| Leukopenia | 40 | 2.1 | 26 | 3.3 |  |  |  |  |  |
+| Thrombocytopenia | 34 | 4.3 | 36 | 7 |  |  |  |  |  |
+| Chemistry |  |  |  |  |  |  |  |  |  |
+| Increased AST | 66 | 40 | 58 | 18 |  |  |  |  |  |
+| Increased ALT | 66 | 21 | 48 | 11 |  |  |  |  |  |
+| Increased bilirubin | 55 | 11 | 36 | 7 |  |  |  |  |  |
+| Increased lipase | 51 | 26 | 37 | 14 |  |  |  |  |  |
+| Hyponatremia | 49 | 32 | 40 | 11 |  |  |  |  |  |
+| Hypocalcemia | 47 | 0 | 28 | 0 |  |  |  |  |  |
+| Increased alkaline phosphatase | 40 | 4.3 | 44 | 7 |  |  |  |  |  |
+| Increased amylase | 38 | 15 | 31 | 6 |  |  |  |  |  |
+| Hypokalemia | 26 | 2.1 | 12 | 0.7 |  |  |  |  |  |
+| Hyperkalemia | 23 | 4.3 | 20 | 2.6 |  |  |  |  |  |
+| Increased creatinine | 21 | 0 | 17 | 1.3 |  |  |  |  |  |
+| Hypomagnesemia | 11 | 0 | 13 | 0 |  |  |  |  |  |
+| * The denominator used to calculate the rate varied from 140 to 152 based on the number of patients with a baseline value and at least one post-treatment value. |  |  |  |  |  |  |  |  |  |
+
+In patients who received OPDIVO with ipilimumab, virologic breakthrough occurred in 4 of 28 (14%) patients and 2 of 4 (50%) patients with active HBV or HCV at baseline, respectively.
+In patients who received single-agent OPDIVO, virologic breakthrough occurred in 5 of 47 (11%) patients and 1 of 32 (3%) patients with active HBV or HCV at baseline, respectively.
+HBV virologic breakthrough was defined as at least a 1 log increase in HBV DNA for those patients with detectable HBV DNA at baseline.
+HCV virologic breakthrough was defined as a 1 log increase in HCV RNA from baseline.
 
 ## 6.2 Immunogenicity
 
@@ -827,8 +929,10 @@ For these reasons, comparison of incidence of antibodies to OPDIVO with the inci
 Of the 2085 patients who were treated with OPDIVO as a single agent at dose of 3 mg/kg every 2 weeks and evaluable for the presence of anti-nivolumab antibodies, 11% tested positive for treatment-emergent anti-nivolumab antibodies by an electrochemiluminescent (ECL) assay and 0.7% had neutralizing antibodies against nivolumab.
 There was no evidence of altered pharmacokinetic profile or increased incidence of infusion-related reactions with anti-nivolumab antibody development.
 
-Of the patients who were treated with OPDIVO and ipilimumab and evaluable for the presence of anti-nivolumab antibodies, the incidence of anti-nivolumab antibodies was 26% (132/516) with OPDIVO 3 mg/kg followed by ipilimumab 1 mg/kg every 3 weeks and 38% (149/394) with OPDIVO 1 mg/kg followed by ipilimumab 3 mg/kg every 3 weeks.
+Of the patients with melanoma, advanced renal cell carcinoma, and metastatic colorectal cancer who were treated with OPDIVO and ipilimumab and evaluable for the presence of anti-nivolumab antibodies, the incidence of anti-nivolumab antibodies was 26% (132/516) with OPDIVO 3 mg/kg followed by ipilimumab 1 mg/kg every 3 weeks and 38% (149/394) with OPDIVO 1 mg/kg followed by ipilimumab 3 mg/kg every 3 weeks.
 The incidence of neutralizing antibodies against nivolumab was 0.8% (4/516) with OPDIVO 3 mg/kg followed by ipilimumab 1 mg/kg every 3 weeks and 4.6% (18/394) with OPDIVO 1 mg/kg followed by ipilimumab 3 mg/kg every 3 weeks.
+
+Of the patients with hepatocellular carcinoma who were treated with OPDIVO and ipilimumab every 3 weeks for 4 doses followed by OPDIVO every 3 weeks and were evaluable for the presence of anti-nivolumab antibodies, the incidence of anti-nivolumab antibodies was 45% (20/44) with OPDIVO 3 mg/kg followed by ipilimumab 1 mg/kg and 56% (27/48) with OPDIVO 1 mg/kg followed by ipilimumab 3 mg/kg; the corresponding incidence of neutralizing antibodies against nivolumab was 14% (6/44) and 23% (11/48), respectively.
 
 There was no evidence of increased incidence of infusion-related reactions or effects on efficacy with anti-nivolumab antibody development.
 

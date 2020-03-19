@@ -29,6 +29,8 @@ Table 2: Recommended Dosages of OPDIVO in Combination with Ipilimumab
 | --- | --- | --- |
 | Unresectable or metastatic melanoma | 1 mg/kg every 3 weeks(30-minute intravenous infusion)with ipilimumab 3 mg/kg intravenouslyover 90 minutes on the same day | In combination with ipilimumab for a maximum of 4 doses or until unacceptable toxicity, whichever occurs earlier |
 | 240 mg every 2 weeks(30-minute intravenous infusion)or480 mg every 4 weeks(30-minute intravenous infusion) | After completing 4 doses of combination therapy, administer as single agent until disease progression or unacceptable toxicity |  |
+| Hepatocellular carcinoma | 1 mg/kg every 3 weeks(30-minute intravenous infusion)with ipilimumab 3 mg/kg intravenouslyover 30 minutes on the same day | In combination with ipilimumabfor 4 doses |
+| 240 mg every 2 weeks(30-minute intravenous infusion)or480 mg every 4 weeks(30-minute intravenous infusion) | After completing 4 doses of combination therapy, administer as single agent until disease progression or unacceptable toxicity |  |
 | Advanced renal cell carcinoma | 3 mg/kg every 3 weeks(30-minute intravenous infusion)with ipilimumab 1 mg/kg intravenouslyover 30 minutes on the same day | In combination with ipilimumab for 4 doses |
 | 240 mg every 2 weeks(30-minute intravenous infusion)or480 mg every 4 weeks(30-minute intravenous infusion) | After completing 4 doses of combination therapy, administer as single agent until disease progression or unacceptable toxicity |  |
 | Microsatellite instability-high (MSI-H) or mismatch repair deficient (dMMR) metastatic colorectal cancer | 3 mg/kg every 3 weeks(30-minute intravenous infusion)with ipilimumab 1 mg/kg intravenouslyover 30 minutes on the same day | In combination with ipilimumab for 4 doses |
@@ -95,6 +97,7 @@ Do not shake.
   Do not shake.
 - •Discard partially used vials or empty vials of OPDIVO.
 - •The product does not contain a preservative.
+
 - •After preparation, store the diluted solution either: • at room temperature for no more than 8 hours from the time of preparation to end of the infusion.
   Discard diluted solution if not used within 8 hours from the time of preparation; or • under refrigeration at 2°C to 8°C (36°F to 46°F) for no more than 24 hours from the time of preparation to end of infusion.
   Discard diluted solution if not used within 24 hours from the time of preparation.

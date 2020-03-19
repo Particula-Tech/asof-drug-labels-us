@@ -65,6 +65,9 @@ CHECKMATE-037, CHECKMATE-205, CHECKMATE-039, CHECKMATE-141, CHECKMATE-142, CHECK
 Of the 314 patients randomized to OPDIVO administered with ipilimumab in CHECKMATE-067, 41% were 65 years or older and 11% were 75 years or older.
 No overall differences in safety or effectiveness were reported between elderly patients and younger patients.
 
-Of the 550 patients randomized to ipilimumab 1 mg/kg administered with OPDIVO 3 mg/kg in CHECKMATE-214 (renal cell carcinoma), 38% were 65 years or older and 8% were 75 years or older.
+Of the 550 patients randomized to OPDIVO 3 mg/kg administered with ipilimumab 1 mg/kg in CHECKMATE-214 (renal cell carcinoma), 38% were 65 years or older and 8% were 75 years or older.
 No overall difference in safety was reported between elderly patients and younger patients.
 In elderly patients with intermediate or poor risk, no overall difference in effectiveness was reported.
+
+Of the 49 patients who received OPDIVO 1 mg/kg in combination with ipilimumab 3 mg/kg in CHECKMATE-040 (hepatocellular carcinoma), 29% were between 65 years and 74 years of age and 8% were 75 years or older.
+Clinical studies of OPDIVO in combination with ipilimumab did not include sufficient numbers of patients with hepatocellular carcinoma aged 65 and over to determine whether they respond differently from younger patients.
