@@ -6,7 +6,7 @@ No evidence of tumorigenicity was seen in carcinogenicity studies of either 2 ye
 The estimated exposure in rats was approximately 120 and 75 times the AUC for adults and children, respectively, at the maximum recommended daily oral dose.
 The estimated exposure in mice was approximately 45 and 25 times the AUC for adults and children, respectively, at the maximum recommended daily oral dose.
 
-Montelukast demonstrated no evidence of mutagenic or clastogenic activity in the following assays: the microbial mutagenesis assay, the V-79 mammalian cell mutagenesis assay, the alkaline elution assay in rat hepatocytes, the chromosomal aberration assay in Chinese hamster ovary cells, and in the in vivo mouse bone marrow chromosomal aberration assay.
+Montelukast demonstrated no evidence of mutagenic or clastogenic activity in the following assays: the microbial mutagenesis assay, the V-79 mammalian cell mutagenesis assay, the alkaline elution assay in rat hepatocytes, the chromosomal aberration assay in Chinese hamster ovary cells, and in the invivo mouse bone marrow chromosomal aberration assay.
 
 In fertility studies in female rats, montelukast produced reductions in fertility and fecundity indices at an oral dose of 200 mg/kg (estimated exposure was approximately 70 times the AUC for adults at the maximum recommended daily oral dose).
 No effects on female fertility or fecundity were observed at an oral dose of 100 mg/kg (estimated exposure was approximately 20 times the AUC for adults at the maximum recommended daily oral dose).

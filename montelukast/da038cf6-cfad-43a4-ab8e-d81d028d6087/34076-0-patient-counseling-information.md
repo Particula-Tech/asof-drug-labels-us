@@ -23,7 +23,7 @@ TORRENT PHARMA INC., Basking Ridge, NJ 07920.
 
 8076225 Revised October 2019
 
-Patient Information
+PatientInformation
 
 Montelukast Sodium (MON-te-LOO-kast SO-dee-um) Tablets and
 
@@ -35,7 +35,7 @@ Read the Patient Information Leaflet that comes with montelukast sodium before y
 There may be new information.
 This leaflet does not take the place of talking with your healthcare provider about your medical condition or your treatment.
 
-What is Montelukast Sodium?
+WhatisMontelukastSodium?
 
 - Montelukast sodium is a prescription medicine that blocks substances in the body called leukotrienes.
   This may help to improve symptoms of asthma and allergic rhinitis.
@@ -44,7 +44,7 @@ What is Montelukast Sodium?
 Montelukast sodium is used to:
 
 1. Prevent asthma attacks and for the long-term treatment of asthma in adults and children ages 12 months and older.
-2. Do not take montelukast sodium if you need relief right away for a sudden asthma attack.
+2. Donottakemontelukastsodiumifyouneedreliefrightawayforasuddenasthmaattack.
    If you get an asthma attack, you should follow the instructions your healthcare provider gave you for treating asthma attacks.
 3. Prevent exercise-induced asthma in people 6 years of age and older.
 4. Help control the symptoms of allergic rhinitis (sneezing, stuffy nose, runny nose, itching of the nose).
@@ -53,15 +53,15 @@ Montelukast sodium is used to:
 - outdoor allergies that happen part of the year (seasonal allergic rhinitis) in adults and children ages 2 years and older, and
 - indoor allergies that happen all year (perennial allergic rhinitis) in adults and children ages 6 months and older.
 
-Who should not take Montelukast Sodium?
+WhoshouldnottakeMontelukastSodium?
 
 Do not take montelukast sodium if you are allergic to any of its ingredients.
 
 See the end of this leaflet for a complete list of the ingredients in montelukast sodium.
 
-What should I tell my healthcare provider before taking Montelukast Sodium?
+WhatshouldItellmyhealthcareproviderbeforetakingMontelukastSodium?
 
-Before taking Montelukast Sodium, tell your healthcare provider if you:
+BeforetakingMontelukastSodium, tellyourhealthcareproviderifyou:
 
 - are allergic to aspirin
 - have phenylketonuria.
@@ -76,12 +76,12 @@ Before taking Montelukast Sodium, tell your healthcare provider if you:
 Tell your healthcare provider about all the medicines you take, including prescription and non-prescription medicines, vitamins, and herbal supplements.
 Some medicines may affect how montelukast sodium works, or montelukast sodium may affect how your other medicines work.
 
-How should I take Montelukast Sodium?
+HowshouldItakeMontelukastSodium?
 
-For anyone who takes Montelukast Sodium:
+ForanyonewhotakesMontelukastSodium:
 
 - Take montelukast sodium exactly as prescribed by your healthcare provider.
-  Your healthcare provider will tell you how much montelukast sodium to take, andwhen to take it.
+  Your healthcare provider will tell you how much montelukast sodium to take, and when to take it.
 - Do not stop taking montelukast sodium or change when you take it without talking with your healthcare provider.
 - You can take montelukast sodium with food or without food.
   See the information below in the section "How should I give montelukast sodium oral granules to my child?" for information about what foods and liquids can be taken with montelukast sodium oral granules.
@@ -89,7 +89,7 @@ For anyone who takes Montelukast Sodium:
   Do not take 2 doses at the same time.
 - If you take too much montelukast sodium tablets, call your healthcare provider or a Poison Control Center right away.
 
-For adults and children 12 months of age and older with asthma:
+Foradultsandchildren12 months ofageandolderwithasthma:
 
 - Take montelukast sodium 1 time each day, in the evening.
   Continue to take montelukast sodium every day for as long as your healthcare provider prescribes it, even if you have no asthma symptoms.
@@ -107,7 +107,7 @@ For patients 6 years of age and older for the prevention of exercise-induced ast
   Talk to your healthcare provider about your treatment for exercise-induced asthma.
 - Do not take 2 doses of montelukast sodium within 24 hours (1 day).
 
-For adults and children 2 years of age and older with seasonal allergic rhinitis, or for adults and children 6 months of age and older with perennial allergic rhinitis:
+Foradultsandchildren2yearsofageandolderwithseasonalallergicrhinitis, orfor adultsandchildren6 months ofageandolderwithperennialallergicrhinitis:
 
 - Take montelukast sodium 1 time each day, at about the same time each day.
 
@@ -131,7 +131,7 @@ Throw away any unused portion.
 Do not mix Montelukast sodium oral granules with any liquid drink other than baby formula or breast milk.
 Your child may drink other liquids after swallowing the mixture.
 
-What is the dose of montelukast sodium?
+Whatisthedoseofmontelukastsodium?
 
 The dose of montelukast sodium prescribed for your or your child's condition is based on age:
 
@@ -140,15 +140,15 @@ The dose of montelukast sodium prescribed for your or your child's condition is 
 - 6 to 14 years: one 5-mg chewable tablet.
 - 15 years and older: one 10-mg tablet.
 
-What should I avoid while taking montelukast sodium?
+WhatshouldIavoidwhiletakingmontelukastsodium?
 
 If you have asthma and aspirin makes your asthma symptoms worse, continue to avoid taking aspirin or other medicines called non-steroidal anti-inflammatory drugs (NSAIDs) while taking montelukast sodium.
 
-What are the possible side effects of montelukast sodium?
+Whatarethepossiblesideeffectsofmontelukastsodium?
 
-Montelukast sodium may cause serious side effects.
+Montelukastsodiummaycauseserioussideeffects.
 
-- Behavior and mood-related changes.
+- Behavior andmood-relatedchanges.
   Tell your healthcare provider right away if you or your child have any of these symptoms while taking montelukast sodium:
 
 ● agitation including aggressive behavior ● memory problems
@@ -175,14 +175,14 @@ that are not really there) ● trouble sleeping
   Rarely, this can happen in people with asthma who take montelukast sodium.
   This sometimes happens in people who also take a steroid medicine by mouth that is being stopped or the dose is being lowered.
 
-Tell your healthcare provider right away if you get one or more of these symptoms:
+Tellyourhealthcareproviderrightawayifyougetoneormoreofthesesymptoms:
 
 - a feeling of pins and needles or numbness of arms or legs
 - a flu-like illness
 - rash
 - severe inflammation (pain and swelling) of the sinuses (sinusitis)
 
-The most common side effects with montelukast sodium include:
+Themostcommonsideeffectswithmontelukastsodiuminclude:
 
 - upper respiratory infection
 - fever
@@ -196,7 +196,7 @@ The most common side effects with montelukast sodium include:
 - runny nose
 - sinus infection
 
-Other side effects with montelukast sodium include:
+Othersideeffectswithmontelukastsodiuminclude:
 
 - increased bleeding tendency, low blood platelet count
 - allergic reactions [including swelling of the face, lips, tongue, and/or throat (which may cause trouble breathing or swallowing), hives and itching]
@@ -218,30 +218,30 @@ For more information ask your healthcare provider or pharmacist.
 Call your healthcare provider for medical advice about side effects.
 You may report side effects to FDA at 1-800-FDA-1088.
 
-How should I store montelukast sodium?
+HowshouldIstoremontelukastsodium?
 
 - Store montelukast sodium at 20° to 25°C (68° to 77°F); excursions permitted to 15° to 30°C (59° to 86°F) [see USP Controlled Room Temperature].
 - Keep montelukast sodium in the container it comes in.
 - Keep montelukast sodium in a dry place and away from light.
 
-General Information about the safe and effective use of montelukast sodium
+GeneralInformationaboutthesafeandeffectiveuseofmontelukastsodium
 
 Medicines are sometimes prescribed for purposes other than those mentioned in Patient Information Leaflets.
 Do not use montelukast sodium for a condition for which it was not prescribed.
 Do not give montelukast sodium to other people even if they have the same symptoms you have.
 It may harm them.
-Keep montelukast sodium and all medicines out of the reach of children.
+Keepmontelukastsodiumandallmedicinesoutofthereachofchildren.
 
 This leaflet summarizes information about montelukast sodium.
 If you would like more information, talk to your healthcare provider.
 You can ask your pharmacist or healthcare provider for information about montelukast sodium that is written for health professionals.
 For more information, call Torrent Pharma Inc. at 1-800-912-9561.
 
-What are the ingredients in montelukast sodium?
+Whataretheingredientsinmontelukastsodium?
 
-Active ingredient: montelukast sodium
+Activeingredient: montelukast sodium
 
-Inactive ingredients:
+Inactiveingredients:
 
 - 4-mg oral granules: mannitol, hydroxypropyl cellulose, Tribasic Sodium phosphate and magnesium stearate.
 - 10-mg tablet: croscarmellose sodium, ferric oxide red, ferric oxide yellow, hydroxypropyl cellulose, hypromellose, lactose monohydrate, magnesium stearate, microcrystalline cellulose and titanium dioxide.

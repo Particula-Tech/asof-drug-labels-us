@@ -14,7 +14,7 @@ While the dose of inhaled corticosteroid may be reduced gradually under medical 
 ## 5.3 Aspirin Sensitivity
 
 Patients with known aspirin sensitivity should continue avoidance of aspirin or non-steroidal anti-inflammatory agents while taking montelukast sodium.
-Although montelukast sodium is effective in improving airway function in asthmatics with documented aspirin sensitivity, it has not been shown to truncate bronchoconstrictor response to aspirin and other non-steroidal anti-inflammatory drugs in aspirin-sensitive asthmatic patients [see Clinical Studies (14.1)].
+Although montelukast sodium is effective in improving airway function in asthmatics with documented aspirin sensitivity, it has not been shown to truncate bronchoconstrictor response to aspirin and other non-steroidal anti-inflammatory drugs in aspirin-sensitive asthmatic patients [seeClinicalStudies(14.1)].
 
 ## 5.4 Neuropsychiatric Events
 
@@ -24,7 +24,9 @@ The clinical details of some post-marketing reports involving montelukast sodium
 
 Patients and prescribers should be alert for neuropsychiatric events.
 Patients should be instructed to notify their prescriber if these changes occur.
-Prescribers should carefully evaluate the risks and benefits of continuing treatment with montelukast sodium if such events occur [see Adverse Reactions (6.2)].
+Prescribers should carefully evaluate the risks and benefits of continuing treatment with montelukast sodium if such events occur Patients and prescribers should be alert for neuropsychiatric events.
+Patients should be instructed to notify their prescriber if these changes occur.
+Prescribers should carefully evaluate the risks and benefits of continuing treatment with montelukast sodium if such events occur [seeAdverseReactions(6.2)].
 
 ## 5.5 Eosinophilic Conditions
 

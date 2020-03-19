@@ -2,44 +2,43 @@
 
 ## 12.1 Mechanism of Action
 
-The cysteinyl leukotrienes (LTC4, LTD4, LTE4) are products of arachidonic acid metabolism and are released from various cells, including mast cells and eosinophils.
+The cysteinyl leukotrienes (LTC 4, LTD 4, LTE 4) are products of arachidonic acid metabolism and are released from various cells, including mast cells and eosinophils.
 These eicosanoids bind to cysteinyl leukotriene (CysLT) receptors.
-The CysLT type-1 (CysLT1) receptor is found in the human airway (including airway smooth muscle cells and airway macrophages) and on other pro-inflammatory cells (including eosinophils and certain myeloid stem cells).
+The CysLT type-1 (CysLT 1) receptor is found in the human airway (including airway smooth muscle cells and airway macrophages) and on other pro-inflammatory cells (including eosinophils and certain myeloid stem cells).
 CysLTs have been correlated with the pathophysiology of asthma and allergic rhinitis.
 In asthma, leukotriene-mediated effects include airway edema, smooth muscle contraction, and altered cellular activity associated with the inflammatory process.
 In allergic rhinitis, CysLTs are released from the nasal mucosa after allergen exposure during both early-and late-phase reactions and are associated with symptoms of allergic rhinitis.
 
-Montelukast is an orally active compound that binds with high affinity and selectivity to the CysLT1 receptor (in preference to other pharmacologically important airway receptors, such as the prostanoid, cholinergic, or β-adrenergic receptor).
-Montelukast inhibits physiologic actions of LTD4 at the CysLT1 receptor without any agonist activity.
+Montelukast is an orally active compound that binds with high affinity and selectivity to the CysLT 1 receptor (in preference to other pharmacologically important airway receptors, such as the prostanoid, cholinergic, or β-adrenergic receptor).
+Montelukast inhibits physiologic actions of LTD 4 at the CysLT 1 receptor without any agonist activity.
 
 ## 12.2 Pharmacodynamics
 
-Montelukast causes inhibition of airway cysteinyl leukotriene receptors as demonstrated by the ability to inhibit bronchoconstriction due to inhaled LTD4 in asthmatics.
-Doses as low as 5 mg cause substantial blockage of LTD4-induced bronchoconstriction.
+Montelukast causes inhibition of airway cysteinyl leukotriene receptors as demonstrated by the ability to inhibit bronchoconstriction due to inhaled LTD 4 in asthmatics.
+Doses as low as 5 mg cause substantial blockage of LTD 4-induced bronchoconstriction.
 In a placebo-controlled, crossover study (n=12), montelukast sodium inhibited early- and late-phase bronchoconstriction due to antigen challenge by 75% and 57%, respectively.
 
 The effect of montelukast sodium on eosinophils in the peripheral blood was examined in clinical trials.
 In patients with asthma aged 2 years and older who received montelukast sodium, a decrease in mean peripheral blood eosinophil counts ranging from 9% to 15% was noted, compared with placebo, over the double-blind treatment periods.
 In patients with seasonal allergic rhinitis aged 15 years and older who received montelukast sodium, a mean increase of 0.2% in peripheral blood eosinophil counts was noted, compared with a mean increase of 12.5% in placebo-treated patients, over the double-blind treatment periods; this reflects a mean difference of 12.3% in favor of montelukast sodium.
-The relationship between these observations and the clinical benefits of montelukast noted in the clinical trials is not known [see Clinical Studies (14)].
+The relationship between these observations and the clinical benefits of montelukast noted in the clinical trials is not known [seeClinicalStudies(14)].
 
 ## 12.3 Pharmacokinetics
 
 Absorption
 
 Montelukast is rapidly absorbed following oral administration.
-After administration of the 10-mg film-coated tablet to fasted adults, the mean peak montelukast plasma concentration (Cmax) is achieved in 3 to 4 hours (Tmax).
-The mean oral bioavailability is 64%.
-The oral bioavailability and Cmax are not influenced by a standard meal in the morning.
+After administration of the 10-mg film-coated tablet to fasted adults, the mean peak montelukast plasma concentration (C max) is achieved in 3 to 4 hours (T max). The mean oral bioavailability is 64%.
+The oral bioavailability and C max are not influenced by a standard meal in the morning.
 
-For the 5-mg chewable tablet, the mean Cmax is achieved in 2 to 2.5 hours after administration to adults in the fasted state.
+For the 5-mg chewable tablet, the mean C max is achieved in 2 to 2.5 hours after administration to adults in the fasted state.
 The mean oral bioavailability is 73% in the fasted state versus 63% when administered with a standard meal in the morning.
 
-For the 4-mg chewable tablet, the mean Cmax is achieved 2 hours after administration in pediatric patients 2 to 5 years of age in the fasted state.
+For the 4-mg chewable tablet, the mean C max is achieved 2 hours after administration in pediatric patients 2 to 5 years of age in the fasted state.
 
 The 4-mg oral granule formulation is bioequivalent to the 4-mg chewable tablet when administered to adults in the fasted state.
 The co-administration of the oral granule formulation with applesauce did not have a clinically significant effect on the pharmacokinetics of montelukast.
-A high fat meal in the morning did not affect the AUC of montelukast oral granules; however, the meal decreased Cmax by 35% and prolonged Tmax from 2.3 ± 1.0 hours to 6.4 ± 2.9 hours.
+A high fat meal in the morning did not affect the AUC of montelukast oral granules; however, the meal decreased C max by 35% and prolonged T max from 2.3 ± 1.0 hours to 6.4 ± 2.9 hours.
 
 The safety and efficacy of montelukast sodium in patients with asthma were demonstrated in clinical trials in which the 10-mg film-coated tablet and 5-mg chewable tablet formulations were administered in the evening without regard to the time of food ingestion.
 The safety of montelukast sodium in patients with asthma was also demonstrated in clinical trials in which the 4-mg chewable tablet and 4-mg oral granule formulations were administered in the evening without regard to the time of food ingestion.
@@ -72,14 +71,14 @@ In several studies, the mean plasma half-life of montelukast ranged from 2.7 to 
 The pharmacokinetics of montelukast are nearly linear for oral doses up to 50 mg.
 During once-daily dosing with 10-mg montelukast, there is little accumulation of the parent drug in plasma (14%).
 
-Special Populations
+SpecialPopulations
 
-Hepatic Insufficiency: Patients with mild-to-moderate hepatic insufficiency and clinical evidence of cirrhosis had evidence of decreased metabolism of montelukast resulting in 41% (90% CI=7%, 85%) higher mean montelukast AUC following a single 10-mg dose.
+HepaticInsufficiency: Patients with mild-to-moderate hepatic insufficiency and clinical evidence of cirrhosis had evidence of decreased metabolism of montelukast resulting in 41% (90% CI=7%, 85%) higher mean montelukast AUC following a single 10-mg dose.
 The elimination of montelukast was slightly prolonged compared with that in healthy subjects (mean half-life, 7.4 hours).
 No dosage adjustment is required in patients with mild-to-moderate hepatic insufficiency.
 The pharmacokinetics of montelukast sodium in patients with more severe hepatic impairment or with hepatitis have not been evaluated.
 
-Renal Insufficiency: Since montelukast and its metabolites are not excreted in the urine, the pharmacokinetics of montelukast were not evaluated in patients with renal insufficiency.
+RenalInsufficiency: Since montelukast and its metabolites are not excreted in the urine, the pharmacokinetics of montelukast were not evaluated in patients with renal insufficiency.
 No dosage adjustment is recommended in these patients.
 
 Gender: The pharmacokinetics of montelukast are similar in males and females.
@@ -95,29 +94,29 @@ The mean systemic exposure of the 4-mg chewable tablet in pediatric patients 2 t
 The 5-mg chewable tablet should be used in pediatric patients 6 to 14 years of age and the 4-mg chewable tablet should be used in pediatric patients 2 to 5 years of age.
 
 In children 6 to 11 months of age, the systemic exposure to montelukast and the variability of plasma montelukast concentrations were higher than those observed in adults.
-Based on population analyses, the mean AUC (4,296 ng•hr/mL [range 1,200 to 7,153]) was 60% higher and the mean Cmax (667 ng/mL [range 201 to 1,058]) was 89% higher than those observed in adults (mean AUC 2,689 ng•hr/mL [range 1,521 to 4,595]) and mean Cmax (353 ng/mL [range 180 to 548]).
+Based on population analyses, the mean AUC (4,296 ng•hr/mL [range 1,200 to 7,153]) was 60% higher and the mean C max (667 ng/mL [range 201 to 1,058]) was 89% higher than those observed in adults (mean AUC 2,689 ng•hr/mL [range 1,521 to 4,595]) and mean C max (353 ng/mL [range 180 to 548]).
 The systemic exposure in children 12 to 23 months of age was less variable, but was still higher than that observed in adults.
-The mean AUC (3,574 ng•hr/mL [range 2,229 to 5,408]) was 33% higher and the mean Cmax (562 ng/mL [range 296 to 814]) was 60% higher than those observed in adults.
+The mean AUC (3,574 ng•hr/mL [range 2,229 to 5,408]) was 33% higher and the mean C max (562 ng/mL [range 296 to 814]) was 60% higher than those observed in adults.
 Safety and tolerability of montelukast in a single-dose pharmacokinetic study in 26 children 6 to 23 months of age were similar to that of patients two years and above [see Adverse Reactions (6.1)].
 The 4-mg oral granule formulation should be used for pediatric patients 12 to 23 months of age for the treatment of asthma, or for pediatric patients 6 to 23 months of age for the treatment of perennial allergic rhinitis.
 Since the 4-mg oral granule formulation is bioequivalent to the 4-mg chewable tablet, it can also be used as an alternative formulation to the 4-mg chewable tablet in pediatric patients 2 to 5 years of age.
 
-Drug-Drug Interactions
+Drug-DrugInteractions
 
-Theophylline, Prednisone, and Prednisolone: Montelukast sodium has been administered with other therapies routinely used in the prophylaxis and chronic treatment of asthma with no apparent increase in adverse reactions.
+Theophylline, Prednisone, andPrednisolone: Montelukast sodium has been administered with other therapies routinely used in the prophylaxis and chronic treatment of asthma with no apparent increase in adverse reactions.
 In drug-interaction studies, the recommended clinical dose of montelukast did not have clinically important effects on the pharmacokinetics of the following drugs: theophylline, prednisone, and prednisolone.
 
 Montelukast at a dose of 10 mg once daily dosed to pharmacokinetic steady state, did not cause clinically significant changes in the kinetics of a single intravenous dose of theophylline [predominantly a cytochrome P450 (CYP) 1A2 substrate].
 Montelukast at doses of ≥100 mg daily dosed to pharmacokinetic steady state, did not cause any clinically significant change in plasma profiles of prednisone or prednisolone following administration of either oral prednisone or intravenous prednisolone.
 
-Oral Contraceptives, Terfenadine, Digoxin, and Warfarin: In drug interaction studies, the recommended clinical dose of montelukast did not have clinically important effects on the pharmacokinetics of the following drugs: oral contraceptives (norethindrone 1 mg/ethinyl estradiol 35 mcg), terfenadine, digoxin, and warfarin.
+OralContraceptives, Terfenadine, Digoxin, andWarfarin: In drug interaction studies, the recommended clinical dose of montelukast did not have clinically important effects on the pharmacokinetics of the following drugs: oral contraceptives (norethindrone 1 mg/ethinyl estradiol 35 mcg), terfenadine, digoxin, and warfarin.
 Montelukast at doses of ≥100 mg daily dosed to pharmacokinetic steady state did not significantly alter the plasma concentrations of either component of an oral contraceptive containing norethindrone 1 mg/ethinyl estradiol 35 mcg.
 Montelukast at a dose of 10 mg once daily dosed to pharmacokinetic steady state did not change the plasma concentration profile of terfenadine (a substrate of CYP3A4) or fexofenadine, the carboxylated metabolite, and did not prolong the QTc interval following co-administration with terfenadine 60 mg twice daily; did not change the pharmacokinetic profile or urinary excretion of immunoreactive digoxin; did not change the pharmacokinetic profile of warfarin (primarily a substrate of CYP2C9, 3A4 and 1A2) or influence the effect of a single 30-mg oral dose of warfarin on prothrombin time or the International Normalized Ratio (INR).
 
-Thyroid Hormones, Sedative Hypnotics, Non-Steroidal Anti-Inflammatory Agents, Benzodiazepines, and Decongestants: Although additional specific interaction studies were not performed, montelukast was used concomitantly with a wide range of commonly prescribed drugs in clinical studies without evidence of clinical adverse interactions.
+ThyroidHormones, SedativeHypnotics, Non-SteroidalAnti-InflammatoryAgents, Benzodiazepines, andDecongestants: Although additional specific interaction studies were not performed, montelukast was used concomitantly with a wide range of commonly prescribed drugs in clinical studies without evidence of clinical adverse interactions.
 These medications included thyroid hormones, sedative hypnotics, non-steroidal anti-inflammatory agents, benzodiazepines, and decongestants.
 
-Cytochrome P450 (CYP) Enzyme Inducers: Phenobarbital, which induces hepatic metabolism, decreased the area under the plasma concentration curve (AUC) of montelukast approximately 40% following a single 10-mg dose of montelukast.
+CytochromeP450(CYP)EnzymeInducers: Phenobarbital, which induces hepatic metabolism, decreased the area under the plasma concentration curve (AUC) of montelukast approximately 40% following a single 10-mg dose of montelukast.
 No dosage adjustment for montelukast sodium is recommended.
 It is reasonable to employ appropriate clinical monitoring when potent CYP enzyme inducers, such as phenobarbital or rifampin, are co-administered with montelukast sodium.
 
