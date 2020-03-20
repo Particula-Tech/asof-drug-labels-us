@@ -1,6 +1,6 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-Advise the patient to read the FDA-approved patient labeling (Patient Information).
+Advise the patient to read the FDA-approved patient labeling (Patient Information and Instructions for Use).
 
 Risk of Hepatitis B Virus Reactivation in Patients Coinfected with HCV and HBV
 
@@ -23,6 +23,13 @@ Advise patients that SOVALDI may interact with some drugs; therefore, patients s
 Hepatitis C Virus Transmission
 
 Inform patients that the effect of treatment of hepatitis C infection on transmission is not known, and that appropriate precautions to prevent transmission of the hepatitis C virus during treatment or in the event of treatment failure should be taken.
+
+Administration
+
+Advise patients to take SOVALDI every day at the regularly scheduled time with or without food.
+Inform patients that it is important not to miss or skip doses and to take SOVALDI for the duration that is recommended by the physician.
+
+For SOVALDI oral pellets, advise patients or caregivers to read and follow the Instructions for Use for preparing the correct dose.
 
 Important Information on Coadministration with Ribavirin or Peginterferon and Ribavirin
 

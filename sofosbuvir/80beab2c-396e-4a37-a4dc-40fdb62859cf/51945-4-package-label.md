@@ -18,13 +18,11 @@ Sovaldi® (sofosbuvir) tablets
 
 200 mg
 
-Take 1 tablet once daily
-
 Note to pharmacist: Do not cover ALERT box with pharmacy label.
 
 ALERT: Find out about medicines that should NOT be taken with Sovaldi
 
-# PRINCIPAL DISPLAY PANEL - 150 mg Pellet Bottle Label
+# PRINCIPAL DISPLAY PANEL - 150 mg Pellet Packet Carton Label
 
 NDC 61958-1504-1 28 packets
 
@@ -38,7 +36,7 @@ Note to pharmacist: Do not cover ALERT box with pharmacy label.
 
 ALERT: Find out about medicines that should NOT be taken with Sovaldi
 
-# PRINCIPAL DISPLAY PANEL - 200 mg Pellet Bottle Label
+# PRINCIPAL DISPLAY PANEL - 200 mg Pellet Packet Carton Label
 
 NDC 61958-1505-1 28 packets
 

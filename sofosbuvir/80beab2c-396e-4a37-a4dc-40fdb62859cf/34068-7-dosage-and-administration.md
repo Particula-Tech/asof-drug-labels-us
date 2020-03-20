@@ -69,6 +69,8 @@ Table 4 Recommended Dosing for Ribavirin in Combination Therapy with SOVALDI for
 
 ## 2.4 Preparation and Administration of Oral Pellets
 
+See the SOVALDI oral pellets full Instructions for Use for details on the preparation and administration of SOVALDI pellets.
+
 Do not chew SOVALDI pellets.
 If SOVALDI pellets are administered with food, sprinkle the pellets on one or more spoonfuls of non-acidic soft food at or below room temperature.
 Examples of non-acidic foods include pudding, chocolate syrup, mashed potato, and ice cream.
