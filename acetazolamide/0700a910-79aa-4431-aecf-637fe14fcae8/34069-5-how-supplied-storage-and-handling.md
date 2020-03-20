@@ -23,14 +23,14 @@ Keep container tightly closed.
 
 KEEP THIS AND ALL MEDICATIONS OUT OF THE REACH OF CHILDREN.
 
-Manufactured for:
+Distributed by:
 
-Heritage Pharmaceuticals Inc.
+Avet Pharmaceuticals Inc.
 
 East Brunswick, NJ 08816
 
 1.866.901.DRUG (3784)
 
-51U000000129US03
+51U000000129US04
 
-Revised: 11/2017
+Revised: 10/2019
