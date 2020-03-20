@@ -61,6 +61,8 @@ Table 3 Recommended Dosing for Ribavirin in Combination Therapy with Ledipasvir 
 
 ## 2.5 Preparation and Administration of Ledipasvir and Sofosbuvir (HARVONI) Oral Pellets
 
+See the ledipasvir and sofosbuvir (HARVONI) oral pellets full Instructions for Use for details on the preparation and administration of ledipasvir and sofosbuvir (HARVONI) pellets.
+
 Do not chew ledipasvir and sofosbuvir (HARVONI) oral pellets.
 If ledipasvir and sofosbuvir (HARVONI) oral pellets are administered with food, sprinkle the pellets on one or more spoonfuls of non-acidic soft food at or below room temperature.
 Examples of non-acidic foods include pudding, chocolate syrup, mashed potato, and ice cream.
