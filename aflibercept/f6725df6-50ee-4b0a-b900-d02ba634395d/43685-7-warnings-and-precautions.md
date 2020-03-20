@@ -20,16 +20,15 @@ Grade 3–4 GI perforation occurred in 0.8% of patients treated with ZALTRAP and
 Monitor patients for signs and symptoms of GI perforation.
 Discontinue ZALTRAP therapy in patients who experience GI perforation [see Dosage and Administration (2.2)].
 
-## 5.3 Compromised Wound Healing
+## 5.3 Impaired Wound Healing
 
-ZALTRAP impairs wound healing in animal models [see Nonclinical Toxicology (13.2)].
+Grade 3 impaired wound healing was reported in 2 patients (0.3%) treated with ZALTRAP/FOLFIRI regimen.
 
-Grade 3 compromised wound healing was reported in 2 patients (0.3%) treated with ZALTRAP/FOLFIRI regimen and in none of the patients treated with placebo/FOLFIRI regimen.
-
-Suspend ZALTRAP for at least 4 weeks prior to elective surgery.
-Do not resume ZALTRAP for at least 4 weeks following major surgery and until the surgical wound is fully healed.
+Withhold ZALTRAP for at least 4 weeks prior to elective surgery.
+Do not administer ZALTRAP for at least 4 weeks after major surgery and until wounds have adequately healed.
 For minor surgery such as central venous access port placement, biopsy, and tooth extraction, ZALTRAP may be initiated/resumed once the surgical wound is fully healed.
-Discontinue ZALTRAP in patients with compromised wound healing [see Dosage and Administration (2.2)].
+Discontinue ZALTRAP in patients with impaired wound healing.
+The safety of resumption of ZALTRAP after resolution of wound healing complications has not been established [see Dosage and Administration (2.2)].
 
 ## 5.4 Fistula Formation
 

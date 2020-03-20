@@ -8,9 +8,11 @@ Gastrointestinal Perforation and Fistula Formation
 
 - Advise patients to immediately contact their health care provider for signs and symptoms of gastrointestinal perforation or fistula [see Warnings and Precautions (5.2, 5.4)].
 
-Compromised Wound Healing
+Impaired Wound Healing
 
-- Inform patients of the increase risks of compromised wound healing and instruct patients not to undergo surgery or procedures (including tooth extractions) without discussing first with their health care provider [see Warnings and Precautions (5.3)].
+- Advise patients that ZALTRAP may impair wound healing.
+  Instruct patients to discuss any planned surgical procedure (including tooth extractions) with all their healthcare providers.
+  [see Warnings and Precautions (5.3)].
 
 Hypertension
 
@@ -39,11 +41,11 @@ Posterior Reversible Leukoencephalopathy Syndrome
 
 Embryo-Fetal Toxicity
 
-Advise pregnant women and females of reproductive potential of
+Advise pregnant women and females of reproductive potential:
 
-- the potential risk to a fetus.
+- of the potential risk to a fetus.
   Advise females to inform their healthcare provider of a known or suspected pregnancy [see Warnings and Precautions (5.11), Use in Specific Populations (8.1)].
-- Advise females of reproductive potential to use effective contraception during treatment with ZALTRAP and for 1 month following the last dose [see Use in Specific Populations (8.3)].
+- to use effective contraception during treatment with ZALTRAP and for 1 month following the last dose [see Use in Specific Populations (8.3)].
 
 Lactation
 

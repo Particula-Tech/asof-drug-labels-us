@@ -2,9 +2,9 @@
 
 The following clinically significant adverse reactions are described elsewhere in the labeling:
 
-- Hemorrhage [see Boxed Warning, Warnings and Precautions (5.1)]
-- Gastrointestinal Perforation [see Boxed Warning, Warnings and Precautions (5.2)]
-- Compromised Wound Healing [see Boxed Warning, Warnings and Precautions (5.3)]
+- Hemorrhage [see Warnings and Precautions (5.1)]
+- Gastrointestinal Perforation [see Warnings and Precautions (5.2)]
+- Impaired Wound Healing [see Warnings and Precautions (5.3)]
 - Fistula Formation [see Warnings and Precautions (5.4)]
 - Hypertension [see Warnings and Precautions (5.5)]
 - Arterial Thromboembolic Events [see Warnings and Precautions (5.6)]

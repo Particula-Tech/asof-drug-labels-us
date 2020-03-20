@@ -2,7 +2,7 @@
 
 ZALTRAP (ziv-aflibercept) injection is a clear, colorless to pale-yellow solution supplied in single-dose vials with a concentration of 25 mg/mL.
 
-NDC 0024-5840-01: carton containing one single-dose vial of 100 mg/4mL (25 mg/mL)
+NDC 0024-5840-01: carton containing one single-dose vial of 100 mg/4 mL (25 mg/mL)
 
 NDC 0024-5841-01: carton containing one single-dose vial of 200 mg/8 mL (25 mg/mL)
 
