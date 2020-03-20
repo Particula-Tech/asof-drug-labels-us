@@ -6,7 +6,7 @@ Risk Summary
 
 Data from a postmarketing retrospective cohort study indicate that use of duloxetine in the month before delivery may be associated with an increased risk of postpartum hemorrhage.
 Data from published literature and from a postmarketing retrospective cohort study have not identified a clear drug-associated risk of major birth defects or other adverse developmental outcomes (see Data).
-There are risks associated with untreated depression in pregnancy, and with exposure to SNRIs and SSRIs, including duloxetine delayed-release capsules, during pregnancy (see Clinical Considerations).
+There are risks associated with untreated depression and fibromyalgia in pregnancy, and with exposure to SNRIs and SSRIs, including duloxetine delayed-release capsules, during pregnancy (see Clinical Considerations).
 
 In rats and rabbits treated with duloxetine during the period of organogenesis, fetal weights were decreased but there was no evidence of developmental effects at doses up to 3 and 6 times, respectively, the maximum recommended human dose (MRHD) of 120 mg/day given to adolescents on a mg/m2 basis.
 When duloxetine was administered orally to pregnant rats throughout gestation and lactation, pup weights at birth and pup survival to 1 day postpartum were decreased at a dose 2 times the MRHD given to adolescents on a mg/m2 basis.
@@ -24,6 +24,9 @@ Disease-associated Maternal and/or Embryo/Fetal Risk
 Women who discontinue antidepressants during pregnancy are more likely to experience a relapse of major depression than women who continue antidepressants.
 This finding is from a prospective, longitudinal study that followed 201 pregnant women with a history of major depressive disorder who were euthymic and taking antidepressants at the beginning of pregnancy.
 Consider the risk of untreated depression when discontinuing or changing treatment with antidepressant medication during pregnancy and postpartum.
+
+Pregnant women with fibromyalgia are at increased risk for adverse maternal and infant outcomes including preterm premature rupture of membranes, preterm birth, small for gestational age, intrauterine growth restriction, placental disruption, and venous thrombosis.
+It is not known if these adverse maternal and fetal outcomes are a direct result of fibromyalgia or other comorbid factors.
 
 Maternal Adverse Reactions
 
@@ -104,13 +107,16 @@ Of the 2,418 patients in premarketing clinical studies of duloxetine delayed-rel
 Of the 1041 patients in CLBP premarketing studies, 21.2% (221) were 65 years of age or over.
 Of the 487 patients in OA premarketing studies, 40.5% (197) were 65 years of age or over.
 Of the 1,074 patients in the DPNP premarketing studies, 33% (357) were 65 years of age or over.
-In the MDD, GAD, DPNP, OA, CLBP, and other studies, no overall differences in safety or effectiveness were generally observed between these subjects and younger subjects, and other reported clinical experience has not identified differences in responses between the elderly and younger patients, but greater sensitivity of some older individuals cannot be ruled out.
+Of the 1,761 patients in FM premarketing studies, 7.9% (140) were 65 years of age or over.
+In the MDD, GAD, DPNP, FM, OA, CLBP studies, no overall differences in safety or effectiveness were generally observed between these subjects and younger subjects, and other reported clinical experience has not identified differences in responses between the elderly and younger patients, but greater sensitivity of some older individuals cannot be ruled out.
 SSRIs and SNRIs, including duloxetine delayed-release capsules have been associated with cases of clinically significant hyponatremia in elderly patients, who may be at greater risk for this adverse event [see Warnings and Precautions (5.13)].
+
 In an analysis of data from all placebo-controlled-trials, patients treated with duloxetine delayed-release capsules reported a higher rate of falls compared to patients treated with placebo.
 The increased risk appears to be proportional to a patient’s underlying risk for falls.
 Underlying risk appears to increase steadily with age.
 As elderly patients tend to have a higher prevalence of risk factors for falls such as medications, medical comorbidities and gait disturbances, the impact of increasing age by itself on falls during treatment with duloxetine delayed-release capsules is unclear.
 Falls with serious consequences including bone fractures and hospitalizations have been reported [see Warnings and Precautions (5.3) and Adverse Reactions (6.10)].
+
 The pharmacokinetics of duloxetine delayed-release capsules after a single dose of 40 mg were compared in healthy elderly females (65 to 77 years) and healthy middle-age females (32 to 50 years).
 There was no difference in the Cmax, but the AUC of duloxetine was somewhat (about 25%) higher and the half-life about 4 hours longer in the elderly females.
 Population pharmacokinetic analyses suggest that the typical values for clearance decrease by approximately 1% for each year of age between 25 to 75 years of age; but age as a predictive factor only accounts for a small percentage of between-patient variability.

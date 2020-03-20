@@ -120,7 +120,7 @@ Subsequently, the physician may continue decreasing the dose but at a more gradu
 ## 5.8 Activation of Mania/Hypomania
 
 In adult placebo-controlled trials in patients with major depressive disorder, activation of mania or hypomania was reported in 0.1% (4/3779) of duloxetine delayed-release capsules-treated patients and 0.04% (1/2536) of placebo-treated patients.
-No activation of mania or hypomania was reported in DPNP, GAD, or chronic musculoskeletal pain placebo-controlled trials.
+No activation of mania or hypomania was reported in DPNP, GAD, fibromyalgia, or chronic musculoskeletal pain placebo-controlled trials.
 Activation of mania or hypomania has been reported in a small proportion of patients with mood disorders who were treated with other marketed drugs effective in the treatment of major depressive disorder.
 As with these other agents, duloxetine delayed-release capsules should be used cautiously in patients with a history of mania.
 

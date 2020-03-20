@@ -71,6 +71,7 @@ Duloxetine delayed-release capsules are also used to treat or manage:
 
 - Generalized Anxiety Disorder (GAD)
 - Diabetic Peripheral Neuropathic Pain (DPNP)
+- Fibromyalgia (FM)
 - Chronic Musculoskeletal Pain
 
 Who should not take duloxetine delayed-release capsules?
@@ -302,6 +303,6 @@ This Medication Guide has been approved by the U.S. Food and Drug Administration
 
 Coumadin, Jantoven, and Mellaril are trademarks of their respective owners and not trademarks of Aurobindo Pharma Limited.
 
-Dispense with Medication Guide available at: www.aurobindousa.com/product-medication-guides
+Dispense with Medication Guide available at: www.aurobindousa.com/medication-guides
 
-Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 038, India Revised: 11/2019
+Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 038, India Revised: 03/2020

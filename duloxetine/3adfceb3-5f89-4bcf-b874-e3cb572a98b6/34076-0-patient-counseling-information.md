@@ -50,4 +50,4 @@ Caution patients to seek medical care immediately if they experience these sympt
   Although in controlled studies duloxetine delayed-release capsules have not been shown to impair psychomotor performance, cognitive function, or memory, it may be associated with sedation and dizziness.
   Therefore, caution patients about operating hazardous machinery including automobiles, until they are reasonably certain that duloxetine delayed-release capsules therapy does not affect their ability to engage in such activities.
 
-Dispense with Medication Guide available at: www.aurobindousa.com/product-medication-guides
+Dispense with Medication Guide available at: www.aurobindousa.com/medication-guides

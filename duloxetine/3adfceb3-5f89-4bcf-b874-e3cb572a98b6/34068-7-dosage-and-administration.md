@@ -47,6 +47,13 @@ For patients for whom tolerability is a concern, a lower starting dose may be co
 
 Since diabetes is frequently complicated by renal disease, consider a lower starting dose and gradual increase in dose for patients with renal impairment [see Dosage and Administration (2.6), Use in Specific Populations (8.10), and Clinical Pharmacology (12.3)].
 
+## 2.4 Dosage for Treatment of Fibromyalgia
+
+Administer duloxetine delayed-release capsules 60 mg once daily.
+Begin treatment at 30 mg once daily for 1 week, to allow patients to adjust to the medication before increasing to 60 mg once daily.
+Some patients may respond to the starting dose.
+There is no evidence that doses greater than 60 mg/day confer additional benefit, even in patients who do not respond to a 60 mg dose, and higher doses are associated with a higher rate of adverse reactions [see Clinical Studies (14.4)].
+
 ## 2.5 Dosage for Treatment of Chronic Musculoskeletal Pain
 
 Administer duloxetine delayed-release capsules 60 mg once daily.

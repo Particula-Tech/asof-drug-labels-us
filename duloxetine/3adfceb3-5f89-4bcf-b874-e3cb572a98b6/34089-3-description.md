@@ -1,6 +1,6 @@
 # 11 DESCRIPTION
 
-Duloxetine delayed-release capsules are selective serotonin and norepinephrine reuptake inhibitor (SSNRI) for oral administration.
+Duloxetine delayed-release capsules are selective serotonin and norepinephrine reuptake inhibitor (SNRI) for oral administration.
 Its chemical designation is (+)-(S)-N-methyl-γ-(1-naphthyloxy)-2-thiophenepropylamine hydrochloride.
 The molecular formula is C18H19NOS•HCl, which corresponds to a molecular weight of 333.88.
 The structural formula is:

@@ -5,6 +5,7 @@ The efficacy of duloxetine delayed-release capsules has been established in the 
 - Major Depressive Disorder (MDD): 4 short-term and 1 maintenance trial in adults [see Clinical Studies (14.1)].
 - Generalized Anxiety Disorder (GAD): 3 short-term trials in adults, 1 maintenance trial in adults, and 1 short-term trial in children and adolescents [see Clinical Studies (14.2)].
 - Diabetic Peripheral Neuropathic Pain (DPNP): Two 12-week trials in adults [see Clinical Studies (14.3)].
+- Fibromyalgia (FM): Two trials in adults (one of 3 months duration and one of 6 months duration) [see Clinical Studies (14.4)].
 - Chronic Musculoskeletal Pain: Two 12- to 13-week trials in adult patients with chronic low back pain (CLBP) and one 13-week trial in adult patients with chronic pain due to osteoarthritis [see Clinical Studies (14.5)].
 
 ## 14.1 Major Depressive Disorder
@@ -109,6 +110,37 @@ The figures are cumulative, so that patients whose change from baseline is, for 
 Patients who did not complete the study were assigned 0% improvement.
 Some patients experienced a decrease in pain as early as week 1, which persisted throughout the study.
 Figure 3: Percentage of Patients Achieving Various Levels of Pain Relief as Measured by 24-Hour Average Pain Severity - DPNP-1 Figure 4: Percentage of Patients Achieving Various Levels of Pain Relief as Measured by 24-Hour Average Pain Severity - DPNP-2
+
+## 14.4 Fibromyalgia
+
+The efficacy of duloxetine delayed-release capsules for the management of fibromyalgia was established in two randomized, double-blind, placebo-controlled, fixed-dose studies in adult patients meeting the American College of Rheumatology criteria for fibromyalgia (a history of widespread pain for 3 months, and pain present at 11 or more of the 18 specific tender point sites).
+Study FM-1 was three months in duration and enrolled female patients only.
+Study FM-2 was six months in duration and enrolled male and female patients.
+Approximately 25% of participants had a comorbid diagnosis of major depressive disorder (MDD).
+FM-1 and FM-2 enrolled a total of 874 patients of whom 541 (62%) completed the studies.
+The patients had a baseline pain score of 6.5 on an 11-point scale ranging from 0 (no pain) to 10 (worse possible pain).
+
+Both studies compared duloxetine delayed-release capsules 60 mg once daily or 120 mg daily (given in divided doses in FM-1 and as a single daily dose in FM-2) with placebo.
+FM-2 additionally compared duloxetine delayed-release capsules 20 mg with placebo during the initial three months of a six-month study.
+A total of 354 patients (234 duloxetine delayed-release capsules, 120 placebo) were enrolled in FM-1 and a total of 520 patients (376 duloxetine delayed-release capsules, 144 placebo) were enrolled in FM-2 (5% male, 95% female).
+Treatment with duloxetine delayed-release capsules 60 mg or 120 mg daily statistically significantly improved the endpoint mean pain scores from baseline and increased the proportion of patients with at least a 50% reduction in pain score from baseline.
+Pain reduction was observed in patients both with and without comorbid MDD.
+However, the degree of pain reduction may be greater in patients with comorbid MDD.
+For various degrees of improvement in pain from baseline to study endpoint, Figures 5 and 6 show the fraction of patients achieving that degree of improvement.
+The figures are cumulative so that patients whose change from baseline is, for example, 50%, are also included at every level of improvement below 50%.
+Patients who did not complete the study were assigned 0% improvement.
+Some patients experienced a decrease in pain as early as week 1, which persisted throughout the study.
+Improvement was also demonstrated on measures of function (Fibromyalgia Impact Questionnaires) and patient global impression of change (PGI).
+Neither study demonstrated a benefit of 120 mg compared to 60 mg, and a higher dose was associated with more adverse reactions and premature discontinuations of treatment.
+
+Figure 5: Percentage of Patients Achieving Various Levels of Pain Relief as Measured by 24-Hour Average Pain Severity - FM-1
+
+Figure 6: Percentage of Patients Achieving Various Levels of Pain Relief as Measured by 24-Hour Average Pain Severity - FM-2
+
+Additionally, the benefit of up-titration in non-responders to duloxetine delayed-release capsules at 60 mg/day was evaluated in a separate study.
+Patients were initially treated with duloxetine delayed-release capsules 60 mg once daily for eight weeks in open-label fashion.
+Subsequently, completers of this phase were randomized to double-blind treatment with duloxetine delayed-release capsules at either 60 mg once daily or 120 mg once daily.
+Those patients who were considered non- responders, where response was defined as at least a 30% reduction in pain score from baseline at the end of the 8-week treatment, were no more likely to meet response criteria at the end of 60 weeks of treatment if blindly titrated to duloxetine delayed-release capsules 120 mg as compared to those who were blindly continued on duloxetine delayed-release capsules 60 mg.
 
 ## 14.5 Chronic Musculoskeletal Pain
 
