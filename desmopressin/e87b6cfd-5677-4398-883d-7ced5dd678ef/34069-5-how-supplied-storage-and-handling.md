@@ -14,7 +14,7 @@ Bottles of 100 (NDC 23155-490-01)
 
 Bottles of 500 (NDC 23155-490-05)
 
-Store at 200to 250C (68o to 770F) [See USP Controlled Room Temperature].
+Store at 20° to 25° C (68° to 77° F) [See USP Controlled Room Temperature].
 Avoid exposure to excessive heat or light.
 
 Dispense in a tight, light-resistant container as defined in the USP, with a child-resistant closure (as required).
