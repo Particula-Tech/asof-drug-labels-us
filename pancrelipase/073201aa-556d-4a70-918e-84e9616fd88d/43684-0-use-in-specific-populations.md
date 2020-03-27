@@ -2,20 +2,23 @@
 
 ## 8.1 Pregnancy
 
-Teratogenic effects
+Risk Summary
 
-Pregnancy Category C: Animal reproduction studies have not been conducted with pancrelipase.
-It is also not known whether pancrelipase can cause fetal harm when administered to a pregnant woman or can affect reproduction capacity.
-CREON should be given to a pregnant woman only if clearly needed.
-The risk and benefit of pancrelipase should be considered in the context of the need to provide adequate nutritional support to a pregnant woman with exocrine pancreatic insufficiency.
-Adequate caloric intake during pregnancy is important for normal maternal weight gain and fetal growth.
-Reduced maternal weight gain and malnutrition can be associated with adverse pregnancy outcomes.
+Published data from case reports with pancrelipase use in pregnant women have not identified a drug-associated risk of major birth defects, miscarriage or other adverse maternal or fetal outcomes.
+Pancrelipase is minimally absorbed systematically; therefore, maternal use is not expected to result in fetal exposure to the drug.
+Animal reproduction studies have not been conducted with pancrelipase.
 
-## 8.3 Nursing Mothers
+The estimated background risk of major birth defects and miscarriage for the indicated populations is unknown.
+All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively.
 
-It is not known whether this drug is excreted in human milk.
-Because many drugs are excreted in human milk, caution should be exercised when CREON is administered to a nursing woman.
-The risk and benefit of pancrelipase should be considered in the context of the need to provide adequate nutritional support to a nursing mother with exocrine pancreatic insufficiency.
+## 8.2 Lactation
+
+Risk Summary
+
+There are no data on the presence of pancrelipase in either human or animal milk, the effects on the breastfed infant or the effects on milk production.
+Pancrelipase is minimally absorbed systemically following oral administration; therefore, maternal use is not expected to result in clinically relevant exposure of breastfed infants to the drug.
+The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for CREON and any potential adverse effects on the breastfed infant from CREON or from the underlying maternal condition.
 
 ## 8.4 Pediatric Use
 

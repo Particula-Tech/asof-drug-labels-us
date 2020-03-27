@@ -10,7 +10,7 @@ The dosage of CREON should be individualized based on clinical symptoms, the deg
 
 Infants (up to 12 months)
 
-CREON should be administered to infants immediately prior to each feeding, using a dosage of 3,000 lipase units per 120 mL of formula or prior to breast-feeding.
+CREON should be administered to infants immediately prior to each feeding, using a dosage of 3,000 lipase units per 120 mL of formula or prior to breastfeeding.
 Contents of the capsule may be administered directly to the mouth or with a small amount of applesauce.
 Administration should be followed by breast milk or formula.
 Contents of the capsule should not be mixed directly into formula or breast milk as this may diminish efficacy.
@@ -30,14 +30,14 @@ Care should be taken to ensure that no drug is retained in the mouth.
 
 Dosage recommendations for pancreatic enzyme replacement therapy were published following the Cystic Fibrosis Foundation Consensus Conferences.1, 2, 3 CREON should be administered in a manner consistent with the recommendations of the Cystic Fibrosis Foundation Consensus Conferences (also known as Conferences) provided in the following paragraphs, except for infants.
 Although the Conferences recommend doses of 2,000 to 4,000 lipase units in infants up to 12 months, CREON is available in a 3,000 lipase unit capsule.
-Therefore, the recommended dose of CREON in infants up to 12 months is 3,000 lipase units per 120 mL of formula or per breast-feeding.
+Therefore, the recommended dose of CREON in infants up to 12 months is 3,000 lipase units per 120 mL of formula or per breastfeeding.
 Patients may be dosed on a fat ingestion-based or actual body weight-based dosing scheme.
 
 Additional recommendations for pancreatic enzyme therapy in patients with exocrine pancreatic insufficiency due to chronic pancreatitis or pancreatectomy are based on a clinical trial conducted in these populations.
 
 Infants (up to 12 months)
 
-CREON is available in the strength of 3,000 USP units of lipase thus infants may be given 3,000 lipase units (one capsule) per 120 mL of formula or per breast-feeding.
+CREON is available in the strength of 3,000 USP units of lipase thus infants may be given 3,000 lipase units (one capsule) per 120 mL of formula or per breastfeeding.
 Do not mix CREON capsule contents directly into formula or breast milk prior to administration [see Administration (2.1)].
 
 Children Older than 12 Months and Younger than 4 Years

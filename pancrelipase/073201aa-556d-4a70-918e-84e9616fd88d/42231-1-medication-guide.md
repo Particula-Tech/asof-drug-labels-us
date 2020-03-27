@@ -42,9 +42,9 @@ Before taking CREON, tell your doctor about all your medical conditions, includi
 - have trouble swallowing capsules
 - have any other medical condition
 - are pregnant or plan to become pregnant.
-  It is not known if CREON will harm your unborn baby.
-- are breast-feeding or plan to breast-feed.
+- are breastfeeding or plan to breastfeed.
   It is not known if CREON passes into your breast milk.
+  Talk to your doctor about the best way to feed your baby if you take CREON.
 
 Tell your doctor about all the medicines you take, including prescription and nonprescription medicines, vitamins, and herbal supplements.
 
@@ -88,7 +88,7 @@ What are the possible side effects of CREON?
 
 CREON may cause serious side effects, including:
 
-- See “ What is the most important information I should know about CREON? ”
+- See “What is the most important information I should know about CREON? ”
 - Irritation of the inside of your mouth.
   This can happen if CREON is not swallowed completely.
 - Increase in blood uric acid levels.
@@ -172,6 +172,6 @@ AbbVie Inc.
 
 North Chicago, IL 60064, U.S.A.
 
-© 2009-2019 AbbVie Inc.
+© 2009-2020 AbbVie Inc.
 
-03-B979 November, 2019
+03-C054-R4 March, 2020

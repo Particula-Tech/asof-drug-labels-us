@@ -22,11 +22,6 @@ Advise patients and caregivers to follow dosing instructions carefully, as doses
 
 Advise patients and caregivers to contact their healthcare professional immediately if allergic reactions to CREON develop [see Warnings and Precautions (5.5)].
 
-## 17.4 Pregnancy and Breast Feeding
-
-- Instruct patients to notify their healthcare professional if they are pregnant or are thinking of becoming pregnant during treatment with CREON [see Use in Specific Populations (8.1)].
-- Instruct patients to notify their healthcare professional if they are breast feeding or are thinking of breast feeding during treatment with CREON [see Use in Specific Populations (8.3)].
-
 Manufactured by:
 
 Abbott Laboratories GmbH
@@ -39,6 +34,6 @@ AbbVie Inc.
 
 North Chicago, IL 60064, U.S.A.
 
-© 2009-2019 AbbVie Inc.
+© 2009-2020 AbbVie Inc.
 
-03-B979 November, 2019
+03-C054-R4 March, 2020
