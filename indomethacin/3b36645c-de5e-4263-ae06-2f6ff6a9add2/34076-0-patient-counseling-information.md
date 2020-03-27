@@ -18,4 +18,4 @@ Fetal Toxicity Inform pregnant women to avoid use of INDOCIN and other NSAIDs st
 Avoid Concomitant Use of NSAIDs Inform patients that the concomitant use of INDOCIN with other NSAIDs or salicylates (e.g., diflunisal, salsalate) is not recommended due to the increased risk of gastrointestinal toxicity, and little or no increase in efficacy [see Warnings and Precautions (5.2) and Drug Interactions (7)].
 Alert patients that NSAIDs may be present in “over the counter” medications for treatment of colds, fever, or insomnia.
 Use of NSAIDs and Low-Dose Aspirin Inform patients not to use low-dose aspirin concomitantly with INDOCIN until they talk to their healthcare provider [see Drug Interactions (7)].
-Manufactured by G&W Laboratories, Inc., South Plainfield, NJ 07080 Distributed by Egalet US Inc., Wayne, PA 19087 8-0176EG2 Issued: 04/2019
+Manufactured by Cosette Pharmaceuticals, Inc., South Plainfield, NJ 07080 Distributed by Zyla Life Sciences US Inc., Wayne, PA 19087 8-0176EG3 Revised: 09/2019

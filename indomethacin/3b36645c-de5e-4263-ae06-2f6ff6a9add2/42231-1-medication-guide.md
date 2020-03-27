@@ -36,5 +36,5 @@ Do not give NSAIDs to other people, even if they have the same symptoms that you
 It may harm them.
 If you would like more information about NSAIDs, talk with your healthcare provider.
 You can ask your pharmacist or healthcare provider for information about NSAIDs that is written for health professionals.
-Manufactured by: G&W Laboratories, Inc., South Plainfield, NJ 07080 Distributed by: Egalet US Inc., Wayne PA 19087 For more information, call 1-800-922-1038 This Medication Guide has been approved by the U.S. Food and Drug Administration.
-Issued: January 2019 8-0176EG2
+Manufactured by: Cosette Pharmaceuticals, Inc., South Plainfield, NJ 07080 Distributed by: Zyla Life Sciences US Inc., Wayne, PA 19087 For more information, call 1-800-922-1038 This Medication Guide has been approved by the U.S. Food and Drug Administration.
+Revised: 09/2019 8-0176EG3
