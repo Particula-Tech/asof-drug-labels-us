@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "BLA210089"
+  ],
+  "inn": "albumin-aggregated",
+  "labeler": "Curium US LLC",
+  "package_ndcs": [
+    "69945-139-10",
+    "69945-139-20",
+    "69945-139-40"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, POWDER, LYOPHILIZED, FOR SUSPENSION",
+      "generic": "kit for the preparation of technetium tc 99m albumin aggregated",
+      "name": "Pulmotech MAA"
+    }
+  ],
+  "setid": "a8b7adf0-2c6b-4acd-96d3-a099306951a0",
+  "source": "dailymed"
+}
