@@ -44,6 +44,8 @@ Inform patients of the following serious adverse reactions that have been associ
   If patients need to be outdoors while using quinolones, instruct them to wear loose-fitting clothes that protect skin from sun exposure and discuss other sun protection measures with their physician.
   If a sunburn-like reaction or skin eruption occurs, instruct patients to contact their physician.
 - •Blood Glucose Disturbances: Inform the patients that if they are diabetic and are being treated with insulin or an oral hypoglycemic agent and a hypoglycemic reaction occurs, they should discontinue CIPRO and consult a physician.
+- •Lactation: For indications other than inhalational anthrax (post exposure), advise a woman that breastfeeding is not recommended during treatment with Cipro and for an additional 2 days after the last dose.
+  Alternatively, a woman may pump and discard during treatment and for additional 2 days after the last dose [see Use in Specific Populations (8.2)].
 
 Antibacterial Resistance
 

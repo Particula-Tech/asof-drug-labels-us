@@ -101,7 +101,7 @@ Instances of nausea, vomiting, tremor, irritability, or palpitation have also oc
 Although similar serious adverse reactions have been reported in patients receiving theophylline alone, the possibility that these reactions may be potentiated by CIPRO cannot be eliminated.
 If concomitant use cannot be avoided, monitor serum levels of theophylline and adjust dosage as appropriate [see Drug Interactions (7)].
 
-## 5.11 Clostridium difficile-Associated Diarrhea
+## 5.11 Clostridioides difficile-Associated Diarrhea
 
 Clostridium difficile (C. difficile)-associated diarrhea (CDAD) has been reported with use of nearly all antibacterial agents, including CIPRO, and may range in severity from mild diarrhea to fatal colitis.
 Treatment with antibacterial agents alters the normal flora of the colon leading to overgrowth of C. difficile.
