@@ -16,7 +16,7 @@ Safety and efficacy of Noritate were evaluated in two randomized vehicle-control
 Of the patients included in the efficacy database (n=416), there were 142 men and 274 women.
 Endpoint efficacy data comparisons for patients treated with daily Noritate or vehicle applications are listed below.
 
-Inflammatory Lesion Counts and Erythema Severity Scores in Two Clinical Trials for Rosacea
+Inflammatory Lesion Counts and Erythema Severity Scores inTwo Clinical Trials for Rosacea
 
 |  | N | Result | N | Result | N | Result | N | Result |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -24,16 +24,19 @@ Inflammatory Lesion Counts and Erythema Severity Scores in Two Clinical Trials f
 |  | Study 1 |  | Study 2 |  | Study 1 |  | Study 2 |  |
 | Papules + Pustules Count |  |  |  |  |  |  |  |  |
 | Baseline | 89 | 15 | 92 | 19 | 50 | 18 | 49 | 17 |
-| Week 10 | 80 | 7 | 82 | 8 | 45 | 15 | 41 | 12 |
-| Reduction |  | 49% |  | 58% |  | 17% |  | 30% |
+| Week 10 | 80 | 7* | 82 | 8 | 45 | 15 | 41 | 12 |
+| Reduction |  | 49%* |  | 58%* |  | 17% |  | 30% |
 | Papules Count |  |  |  |  |  |  |  |  |
 | Baseline | 89 | 13 | 92 | 17 | 50 | 15 | 49 | 15 |
 | Week 10 | 80 | 7* | 82 | 7 | 45 | 12 | 41 | 11 |
 | Reduction |  | 41%* |  | 55%* |  | 14% |  | 28% |
 | Erythema Score |  |  |  |  |  |  |  |  |
 | Baseline | 89 | 2.2 | 92 | 2.3 | 50 | 2.2 | 49 | 2.2 |
-| Week 10 | 80 | 1.3 | 82 | 1.4 | 45 | 1.7 | 40 | 1.8 |
+| Week 10 | 80 | 1.3* | 82 | 1.4* | 45 | 1.7 | 40 | 1.8 |
 | Reduction |  | 42%* |  | 40%* |  | 25% |  | 19% |
+
+*Statistically significant differences between Noritate and vehicle groups with p≤0.05.
+Erythema scores: 0=none, 1=mild, 2=moderate and 3=severe.
 
 ### Safety Studies:
 
