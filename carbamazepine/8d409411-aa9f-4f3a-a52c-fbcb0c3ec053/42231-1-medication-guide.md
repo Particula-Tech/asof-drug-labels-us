@@ -205,7 +205,7 @@ How should I store TEGRETOL?
 - Do not store TEGRETOL Chewable Tablets above 30°C (86°F).
   - Keep TEGRETOL Chewable Tablets out of the light.
   - Keep TEGRETOL Chewable Tablets dry.
-- Store TEGRETOL-XR Tablets at 25°C (77°F); excursions permitted to 15°C to 30°C (59°F to 86°F).
+- Store TEGRETOL-XR Tablets at 20°C to 25°C (68°F to 77°F); excursions permitted between 15°C and 30°C (59°F and 86°F).
   - Keep TEGRETOL-XR Tablets dry.
 - Do not store TEGRETOL Suspension above 30°C (86°F).
   - Shake well before using.
@@ -224,7 +224,7 @@ This Medication Guide summarizes the most important information about TEGRETOL.
 If you would like more information, talk with your healthcare provider.
 You can ask your pharmacist or healthcare provider for the full prescribing information about TEGRETOL that is written for health professionals.
 
-For more information, go to www.pharma.us.novartis.com or call 1-888-669-6682.
+For more information, go to www.novartis.us or call 1-888-669-6682.
 
 What are the ingredients in TEGRETOL?
 
@@ -242,4 +242,4 @@ Distributed by: Novartis Pharmaceuticals Corporation East Hanover, New Jersey 07
 
 © Novartis
 
-T2018-28 March 2018
+T2020-33 March 2020

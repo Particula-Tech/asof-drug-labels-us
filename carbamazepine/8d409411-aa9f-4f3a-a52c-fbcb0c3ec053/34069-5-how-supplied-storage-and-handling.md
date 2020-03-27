@@ -40,7 +40,8 @@ XR Tablets 400 mg - round, brown, coated (imprinted T on one side and 400 mg on 
 
 Bottles of 100.............................................................................................................................NDC 0078-0512-05
 
-Store at 25°C (77°F); excursions permitted to 15°C to 30°C (59°F to 86°F) Protect from moisture.
+Store at 20°C to 25°C (68°F to 77°F), excursions permitted between 15°C and 30°C (59°F and 86°F) [See USP Controlled Room Temperature].
+Protect from moisture.
 
 Dispense in tight container (USP).
 
@@ -55,4 +56,4 @@ Dispense in tight, light-resistant container (USP).
 
 *Thorazine® is a registered trademark of GlaxoSmithKline.
 
-T2018-27 March 2018
+T2020-32 March 2020

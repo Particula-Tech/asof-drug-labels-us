@@ -28,14 +28,14 @@ Drugs that have been shown, or that would be expected, to decrease plasma carbam
 
 Decreased Levels of Concomitant Medications
 
-Tegretol is a potent inducer of hepatic 3A4 and is also known to be an inducer of CYP1A2, 2B6, 2C9/19 and may therefore reduce plasma concentrations of co-medications mainly metabolized by CYP 1A2, 2B6, 2C9/19 and 3A4, through induction of their metabolism.
+Tegretol is a potent inducer of hepatic 3A4 and is also known to be an inducer of CYP1A2, 2B6, 2C9/19, and may therefore reduce plasma concentrations of co-medications mainly metabolized by CYP 1A2, 2B6, 2C9/19, and 3A4, through induction of their metabolism.
 When used concomitantly with Tegretol, monitoring of concentrations or dosage adjustment of these agents may be necessary:
 
 - When carbamazepine is added to aripiprazole, the aripiprazole dose should be doubled.
   Additional dose increases should be based on clinical evaluation.
   If carbamazepine is later withdrawn, the aripiprazole dose should be reduced.
 - When carbamazepine is used with tacrolimus, monitoring of tacrolimus blood concentrations and appropriate dosage adjustments are recommended.
-- The use of concomitant strong CYP3A4 inducers such as carbamazepine should be avoided with temsirolimus.
+- The use of concomitant strong CYP3A4 inducers, such as carbamazepine should be avoided with temsirolimus.
   If patients must be coadministered carbamazepine with temsirolimus, an adjustment of temsirolimus dosage should be considered.
 - The use of carbamazepine with lapatinib should generally be avoided.
   If carbamazepine is started in a patient already taking lapatinib, the dose of lapatinib should be gradually titrated up.

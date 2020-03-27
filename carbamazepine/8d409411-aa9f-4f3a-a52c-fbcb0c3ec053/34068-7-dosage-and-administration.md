@@ -60,6 +60,6 @@ At least once every 3 months throughout the treatment period, attempts should be
 | Over 12 yr | 200 mg twice a day (400 mg/day) | 200 mg twice a day (400 mg/day) | 1 tsp 4 times a day (400 mg/day) | Add up to 200 mg/day at weekly intervals, 3 times a day or 4 times a day | Add up to 200 mg/day at weekly intervals, twice a day | Add up to 2 tsp (200 mg)/day at weekly intervals, 3 times a day or 4 times a day | 1000 mg/24 hr (12-15 yr) 1200 mg/24 hr (> 15 yr) 1600 mg/24 hr (adults, in rare instances) |  |  |
 | Trigeminal Neuralgia | 100 mg twice a day (200 mg/day) | 100 mg twice a day (200 mg/day) | ½ tsp 4 times a day (200 mg/day) | Add up to 200 mg/day in increments of 100 mg every 12 hr | Add up to 200 mg/day in increments of 100 mg every 12 hr | Add up to 2 tsp (200 mg)/day in increments of 50 mg (½ tsp) 4 times a day |  | 1200 mg/24 hr |  |
 
-*Tablet = Chewable or conventional tablets
+*Tablet = Chewable or conventional tablets.
 
-†XR = Tegretol-XR extended-release tablets
+†XR = Tegretol-XR extended-release tablets.
