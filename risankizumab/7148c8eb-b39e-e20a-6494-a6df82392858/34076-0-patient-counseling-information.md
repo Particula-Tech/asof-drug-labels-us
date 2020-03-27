@@ -18,4 +18,4 @@ Instruct patients or caregivers in the technique of needle and syringe disposal 
 
 Manufactured by: AbbVie Inc. North Chicago, IL 60064, USA
 
-US License Number 1889 SKYRIZI™ is a trademark of AbbVie Biotechnology Ltd. © 2019 AbbVie Inc. 20059638 08/2019
+US License Number 1889 SKYRIZI® is a registered trademark of AbbVie Biotechnology Ltd. © 2019-2020 AbbVie Inc. 20063596-R1 03/2020

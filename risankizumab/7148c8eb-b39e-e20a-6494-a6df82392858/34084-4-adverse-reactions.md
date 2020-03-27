@@ -25,8 +25,8 @@ Adverse Drug Reactions Occurring in ≥ 1% of Subjects on SKYRIZI through Week 1
 | Headacheb | 46 (3.5) | 6 (2.0) |
 | Fatiguec | 33 (2.5) | 3 (1.0) |
 | Injection site reactionsd | 19 (1.5) | 3 (1.0) |
-| Tinea infectionse | 14 (1.1) | 1 (0.3) |
-| a Includes: respiratory tract infection (viral, bacterial or unspecified), sinusitis (including acute), rhinitis, nasopharyngitis, pharyngitis (including viral), tonsillitis b Includes: headache, tension headache, sinus headache, cervicogenic headache c Includes: fatigue, asthenia d Includes: injection site bruising, erythema, extravasation, hematoma, hemorrhage, infection, inflammation, irritation, pain, pruritus, reaction, swelling, warmth e Includes: tinea pedis, tinea cruris, body tinea, tinea versicolor, tinea manuum, tinea infection |  |  |
+| Tinea infectionse | 15 (1.1) | 1 (0.3) |
+| a Includes: respiratory tract infection (viral, bacterial or unspecified), sinusitis (including acute), rhinitis, nasopharyngitis, pharyngitis (including viral), tonsillitis b Includes: headache, tension headache, sinus headache, cervicogenic headache c Includes: fatigue, asthenia d Includes: injection site bruising, erythema, extravasation, hematoma, hemorrhage, infection, inflammation, irritation, pain, pruritus, reaction, swelling, warmth e Includes: tinea pedis, tinea cruris, body tinea, tinea versicolor, tinea manuum, tinea infection, onychomycosis |  |  |
 
 Adverse drug reactions that occurred in < 1% but > 0.1% of subjects in the SKYRIZI group and at a higher rate than in the placebo group through Week 16 were folliculitis and urticaria.
 

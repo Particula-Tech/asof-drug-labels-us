@@ -6,7 +6,7 @@ The recommended dose is 150 mg (two 75 mg injections) administered by subcutaneo
 
 ## 2.2 Tuberculosis Assessment Prior to Initiation of SKYRIZI
 
-Evaluate patients for tuberculosis (TB) infection prior to initiating treatment with SKYRIZI [see Warnings and Precautions (5.1)].
+Evaluate patients for tuberculosis (TB) infection prior to initiating treatment with SKYRIZI [see Warnings and Precautions (5.2)].
 
 ## 2.3 Important Administration Instructions
 
