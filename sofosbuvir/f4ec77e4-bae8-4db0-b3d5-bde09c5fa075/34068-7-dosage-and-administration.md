@@ -61,6 +61,8 @@ Table 3 Recommended Dosing for Ribavirin in Combination Therapy with HARVONI for
 
 ## 2.5 Preparation and Administration of Oral Pellets
 
+See the HARVONI oral pellets full Instructions for Use for details on the preparation and administration of HARVONI pellets.
+
 Do not chew HARVONI pellets.
 If HARVONI pellets are administered with food, sprinkle the pellets on one or more spoonfuls of non-acidic soft food at or below room temperature.
 Examples of non-acidic foods include pudding, chocolate syrup, mashed potato, and ice cream.

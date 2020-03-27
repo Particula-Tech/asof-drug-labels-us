@@ -2,23 +2,21 @@
 
 NDC 61958-1801-1 28 tablets
 
-Harvoni™
+Harvoni® (ledipasvir, sofosbuvir) tablets, 90 mg/400 mg
 
-(ledipasvir, sofosbuvir) Tablets 90 mg / 400 mg
+Take 1 tablet once daily
 
 Note to pharmacist: Do not cover ALERT box with pharmacy label.
 
-ALERT: Find out about medicines that should NOT be taken with Harvoni™
+ALERT: Find out about medicines that should NOT be taken with Harvoni
 
 # PRINCIPAL DISPLAY PANEL - 45 mg/200 mg Tablet Bottle Label
 
-NDC 61958-1803-01 28 tablets
+NDC 61958-1803-1 28 tablets
 
 Harvoni® (ledipasvir, sofosbuvir) tablets
 
 45 mg/200 mg
-
-Take 1 tablet once daily
 
 Note to pharmacist: Do not cover ALERT box with pharmacy label.
 
