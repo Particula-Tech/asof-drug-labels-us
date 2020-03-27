@@ -16,6 +16,7 @@
 - Patients with HIV infection should contact their physician for signs and symptoms of pancreatitis, hepatic events, and peripheral neuropathy [see Warnings and Precautions (5.6)].
 
 - Post-irradiation erythema can occur in patients who have received previous irradiation therapy [see Warnings and Precautions (5.7)].
+- Advise patients of the symptoms of potential pulmonary toxicity and instruct them to seek prompt medical attention in the event of pyrexia, cough, dyspnea, or other respiratory symptoms [see Warnings and Precautions (5.9)].
 
 For more information, go to www.parpharm.com or call 1-800-828-9393.
 
@@ -25,4 +26,4 @@ Par Pharmaceutical
 
 Chestnut Ridge, NY 10977
 
-Revised 01/2019
+Revised 03/2020

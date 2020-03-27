@@ -58,6 +58,12 @@ The morphologic change resembles pernicious anemia, but is not related to vitami
 This may mask the diagnosis of pernicious anemia.
 Prophylactic administration of folic acid is recommended.
 
-## 5.9 Laboratory Test Interference
+## 5.9 Pulmonary Toxicity
+
+Interstitial lung disease including pulmonary fibrosis, lung infiltration, pneumonitis, and alveolitis/allergic alveolitis (including fatal cases) have been reported in patients treated for myeloproliferative neoplasm.
+Monitor patients developing pyrexia, cough, dyspnea, or other respiratory symptoms frequently, investigate and treat promptly.
+Discontinue Hydroxyurea capsules and manage with corticosteroids [see Adverse Reactions (6.1)].
+
+## 5.10 Laboratory Test Interference
 
 Interference with Uric Acid, Urea, or Lactic Acid Assays is possible, rendering falsely elevated results of these in patients treated with hydroxyurea [see Drug Interactions (7.2)].
