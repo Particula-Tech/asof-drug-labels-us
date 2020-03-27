@@ -54,7 +54,7 @@ Symptoms usually occurred within the first eight (8) weeks after the initiation 
 In all reported cases, IH-associated signs and symptoms rapidly resolved after cessation of therapy or a reduction of the somatropin dose.
 Funduscopic examination should be performed routinely before initiating treatment with NORDITROPIN to exclude preexisting papilledema, and periodically thereafter.
 If papilledema is observed by funduscopy during somatropin treatment, treatment should be stopped.
-If somatropin-induced IH is diagnosed, treatment with NORDITROPINcan be restarted at a lower dose after IH-associated signs and symptoms have resolved.
+If somatropin-induced IH is diagnosed, treatment with NORDITROPIN can be restarted at a lower dose after IH-associated signs and symptoms have resolved.
 Patients with Turner syndrome may be at increased risk for the development of IH.
 
 ## 5.6 Severe Hypersensitivity

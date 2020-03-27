@@ -6,7 +6,7 @@ Norditropin® FlexPro®
 
 5 mg/1.5 mL Prefilled Pen
 
-1 x 1.5 mL prefilled disposable pen
+1 x 1.5 mL prefilled pen
 
 Each 1.5 mL contains 5 mg somatropin
 
