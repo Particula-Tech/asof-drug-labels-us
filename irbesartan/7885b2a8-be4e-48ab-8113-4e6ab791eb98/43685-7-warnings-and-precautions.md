@@ -7,7 +7,7 @@ Resulting oligohydramnios can be associated with fetal lung hypoplasia and skele
 Potential neonatal adverse effects include skull hypoplasia, anuria, hypotension, renal failure, and death.
 When pregnancy is detected, discontinue AVAPRO as soon as possible [see Use in Specific Populations (8.1)].
 
-## 5.2 Hypotension in Volume- or Salt-Depleted Patients
+## 5.2 Hypotension in Volume or Salt-Depleted Patients
 
 In patients with an activated renin-angiotensin system, such as volume or salt-depleted patients (e.g. those being treated with high doses of diuretics), symptomatic hypotension may occur after initialization of treatment with AVAPRO.
 Correct volume or salt depletion prior to administration of AVAPRO or use a lower starting dose [see Dosage and Administration (2.4)].

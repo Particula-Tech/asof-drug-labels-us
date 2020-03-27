@@ -4,7 +4,7 @@
 
 The antihypertensive effects of AVAPRO were examined in 7 placebo-controlled 8- to 12-week trials in patients with baseline diastolic blood pressures of 95 to 110 mmHg.
 Doses of 1 to 900 mg were included in these trials in order to fully explore the dose-range of irbesartan.
-These studies allowed comparison of once- or twice-daily regimens at 150 mg/day, comparisons of peak and trough effects, and comparisons of response by sex, age, and race.
+These studies allowed comparison of once or twice-daily regimens at 150 mg/day, comparisons of peak and trough effects, and comparisons of response by sex, age, and race.
 Two of the seven placebo-controlled trials identified above examined the antihypertensive effects of irbesartan and hydrochlorothiazide in combination.
 
 The 7 studies of irbesartan monotherapy included a total of 1915 patients randomized to irbesartan (1–900 mg) and 611 patients randomized to placebo.

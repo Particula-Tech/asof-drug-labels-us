@@ -12,7 +12,7 @@ Monitor lithium levels in patients receiving irbesartan and lithium.
 
 ## 7.3 Non-Steroidal Anti-inflammatory Drugs (NSAIDs) Including Selective Cyclooxygenase-2 Inhibitors (COX-2 Inhibitors)
 
-In patients who are elderly, volume-depleted (including those on diuretic therapy), or with compromised renal function, co-administration of NSAIDs, including selective COX-2 inhibitors, with angiotensin II receptor antagonists (including irbesartan) may result in deterioration of renal function, including possible acute renal failure.
+In patients who are elderly, volume-depleted (including those on diuretic therapy), or with compromised renal function, coadministration of NSAIDs, including selective COX-2 inhibitors, with angiotensin II receptor antagonists (including irbesartan) may result in deterioration of renal function, including possible acute renal failure.
 These effects are usually reversible.
 Monitor renal function periodically in patients receiving irbesartan and NSAID therapy.
 

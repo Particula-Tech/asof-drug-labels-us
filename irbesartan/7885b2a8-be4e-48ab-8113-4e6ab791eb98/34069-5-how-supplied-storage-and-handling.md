@@ -1,7 +1,7 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-AVAPRO (irbesartan) is available as white to off-white biconvex oval tablets, debossed with a heart shape on one side and a code on the other (see Table below).
-Unit-of-use bottles contain 30 or 90 tablets as follows:
+AVAPRO (irbesartan) is available as white to off-white, biconvex oval, film-coated tablets, debossed with a heart shape on one side and a code on the other (see Table below).
+Unit-of-use bottles contain 30 or 90 film-coated tablets as follows:
 
 |  | 75 mg | 150 mg | 300 mg |
 | --- | --- | --- | --- |

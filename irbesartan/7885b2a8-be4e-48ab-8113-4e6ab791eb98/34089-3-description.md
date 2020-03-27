@@ -10,5 +10,5 @@ Irbesartan is a white to off-white crystalline powder with a molecular weight of
 It is a nonpolar compound with a partition coefficient (octanol/water) of 10.1 at pH of 7.4.
 Irbesartan is slightly soluble in alcohol and methylene chloride and practically insoluble in water.
 
-AVAPRO is available for oral administration in unscored tablets containing 75 mg, 150 mg, or 300 mg of irbesartan.
-Inactive ingredients include: lactose, microcrystalline cellulose, pregelatinized starch, croscarmellose sodium, poloxamer 188, silicon dioxide, and magnesium stearate.
+AVAPRO is available for oral administration in unscored, film-coated tablets containing 75 mg, 150 mg, or 300 mg of irbesartan.
+Inactive ingredients include: carnauba wax, croscarmellose sodium, hypromellose, lactose monohydrate, magnesium stearate, microcrystalline cellulose, polyethylene glycol, silicon dioxide, and titanium dioxide.
