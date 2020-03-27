@@ -8,7 +8,6 @@ Concurrent medications should be assessed, and if the patient is a woman of chil
 ## 2.2 Recommended Dosage
 
 See Table 1 for dosage recommendations for acute and maintenance treatment of bipolar I disorder in adult and pediatric patients (7 to 17 years).
-
 Obtain serum lithium concentration assay after 3 days, drawn 12 hours after the last oral dose and regularly until patient is stabilized.
 Fine hand tremor, polyuria, and thirst may occur during initial therapy for the acute manic phase and may persist throughout treatment.
 Nausea and general discomfort may also appear during the first few days of lithium administration.

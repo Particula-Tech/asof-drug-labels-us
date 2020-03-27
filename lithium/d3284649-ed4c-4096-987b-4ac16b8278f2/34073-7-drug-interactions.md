@@ -30,7 +30,7 @@ Table 4: Clinically Important Drug Interactions with Lithium
 | Intervention: | More frequent serum lithium concentration monitoring. Increase lithium dosage based on serum lithium concentration and clinical response [see Dosage and Administration (2.3)]. |
 | Examples: | acetazolamide, theophylline, sodium bicarbonate |
 | Methyldopa, Phenytoin and Carbamazepine |  |
-| Clinical Impact: | Concomitant use may increase risk of adverse reactions of these drugs |
+| Clinical Impact: | Concomitant use may increase risk of adverse reactions of these drugs. |
 | Intervention: | Monitor patients closely for adverse reactions of methyldopa, phenytoin, and carbamazepine. |
 | Iodide Preparations |  |
 | Clinical Impact: | Concomitant use may produce hypothyroidism. |

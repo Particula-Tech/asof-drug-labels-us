@@ -23,8 +23,4 @@ Table 5: Primary Efficacy Results
 
 SD: standard deviation; SE: standard error; LS Mean: least-squares mean; CI: confidence interval.
 
-a Difference (drug minus placebo) in least-squares mean change from baseline.
-
-b Patients analyzed by received treatment.
-
-c Lithium to placebo.
+a Difference (drug minus placebo) in least-squares mean change from baseline. b Patients analyzed by received treatment. c Lithium to placebo.

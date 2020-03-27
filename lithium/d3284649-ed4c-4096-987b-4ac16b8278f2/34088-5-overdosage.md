@@ -11,8 +11,9 @@ In severe cases of lithium poisoning, the goal of treatment is elimination of th
 Administration of gastric lavage should be performed, but use of activated charcoal is not recommended as it does not significantly absorb lithium ions.
 Hemodialysis is the treatment of choice as it is an effective and rapid means of removing lithium in patients with severe toxicity.
 As an alternative option, urea, mannitol and aminophylline can induce a significant increase in lithium excretion.
-Appropriate supportive care for the patient should be undertaken: Patients with impaired consciousness should have their airway protected and it is critical to correct any volume depletion or electrolyte imbalance.
+Appropriate supportive care for the patient should be undertaken.
+Patients with impaired consciousness should have their airway protected and it is critical to correct any volume depletion or electrolyte imbalance.
 Patients should be monitored to prevent hypernatremia while receiving normal saline and careful regulation of kidney function is of utmost importance.
 
 Serum lithium concentrations should be closely monitored as there may be a rebound in serum lithium concentrations as a result of delayed diffusion from the body tissues.
-Likewise, during the late recovery phase, lithium should be re- administered with caution taking into account the possible release of significant lithium stores in body tissues.
+Likewise, during the late recovery phase, lithium should be re-administered with caution taking into account the possible release of significant lithium stores in body tissues.

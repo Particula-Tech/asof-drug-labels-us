@@ -1,10 +1,8 @@
 # MEDICATION GUIDE
 
-MEDICATION GUIDE
+MEDICATION GUIDE Lithium (LITH-ee-əm) Carbonate Tablets USP
 
-Lithium (LITH-ee-əm) Carbonate Tablets USP
-
-Wh at is the most important infor m at i on I should kn ow ab o ut lithium carbonate tablets?
+What is the most important information I should know about lithium carbonate tablets?
 
 Lithium carbonate tablets can cause serious side effects, including:
 
@@ -25,14 +23,15 @@ Lithium carbonate tablets can cause serious side effects, including:
 
 Other symptoms may include:
 
-- lightheadedness
-- confusion
-- bloating
-- mood changes
-- slurred speech
-- breathing problems
-- seizure
-- coma
+- 
+  - lightheadedness
+  - confusion
+  - bloating
+  - mood changes
+  - slurred speech
+  - breathing problems
+  - seizure
+  - coma
 
 What are lithium carbonate tablets?
 
@@ -45,7 +44,7 @@ It is not known if lithium carbonate tablet is safe and effective in children un
 
 Who should not take lithium carbonate tablets?
 
-Do not take lithium carbonate tablets if you are allergic to lithium or any of the ingredients in Lithium carbonate tablets.
+Do not take lithium carbonate tablets if you are allergic to lithium or any of the ingredients in lithium carbonate tablets.
 See the end of this Medication Guide for a complete list of ingredients in lithium carbonate tablets.
 
 What should I tell my healthcare provider before taking lithium carbonate tablets?
@@ -82,11 +81,11 @@ Especially tell your healthcare provider if you take:
 - buspirone
 - St John’s Wort
 
-Your h e althcare pr ovid er can tell you if it is sa fe to take lithium carbonate tablets with yo ur other medic ines.
-Do not start or stop any medici nes while t aking lithium carbonate tablets without talk i ng to your h e althc a re pr ov i der first.
+Your healthcare provider can tell you if it is safe to take lithium carbonate tablets with your other medicines.
+Do not start or stop any medicines while taking lithium carbonate tablets without talking to your healthcare provider first.
 
-Know the m e dici nes you t a ke.
-Keep a list of your medicin es to s h ow your healthcare provid er and p har mac ist wh en you get a new m edici ne.
+Know the medicines you take.
+Keep a list of your medicines to show your healthcare provider and pharmacist when you get a new medicine.
 
 How should I take lithium carbonate tablets?
 
@@ -97,9 +96,10 @@ How should I take lithium carbonate tablets?
 - Do not double your dose if a dose is missed.
   Talk with your healthcare provider if you miss a dose.
 - Do not stop taking lithium carbonate tablets suddenly without talking to your healthcare provider.
-- Your healthcare provider may change your lithium carbonate tablet dose to make sure you are taking the dose that is right for you.
-- If you take too many lithium carbonate tablets, call your healthcare provider or poison control center, or go to the nearest hospital emergency room right away.
-  In case of poisoning, call your poison control center at 1-800-222-1222.
+  - Your healthcare provider may change your lithium carbonate tablet dose to make sure you are taking the dose that is right for you.
+
+If you take too many lithium carbonate tablets, call your healthcare provider or poison control center, or go to the nearest hospital emergency room right away.
+In case of poisoning, call your poison control center at 1-800-222-1222.
 
 What should I avoid while taking lithium carbonate tablets?
 
@@ -109,8 +109,9 @@ What should I avoid while taking lithium carbonate tablets?
 - Avoid becoming overheated or dehydrated during exercise and in hot weather.
   Follow your healthcare provider instructions about the type and amount of liquids you should drink.
   In some cases, drinking too much liquid can be as unsafe as not drinking enough.
-- Do not ch an ge the amo unt of salt in y o ur diet.
-  Ch ang ing the am o unt of salt in your diet c ou ld ch ange the amount of lithium carbonate in your b lood.
+
+Do not change the amount of salt in your diet.
+Changing the amount of salt in your diet could change the amount of lithium carbonate in your blood.
 
 What are the possible side effects of lithium carbonate tablets?
 
@@ -133,13 +134,25 @@ Lithium carbonate tablets may cause serious side effects, including:
 - serotonin syndrome.
   A potentially life-threatening problem called serotonin syndrome can happen when you take lithium carbonate tablets while you take certain medicines called serotonergic and MAOIs.
   Symptoms of serotonin syndrome include:
-  - agitation o seeing things that are not there o confusion
-  - coma o rapid pulse o high or low blood pressure
-  - dizziness o sweating o flushing
-  - fever o tremors o stiff muscles
-  - muscle twitching o become unstable o seizures
-  - nausea o vomiting o diarrhea
-- thyroid problems
+  - agitation
+  - seeing things that are not there
+  - confusion
+  - coma
+  - rapid pulse
+  - high or low blood pressure
+  - dizziness
+  - sweating
+  - flushing
+  - fever
+  - tremors
+  - stiff muscles
+  - muscle twitching
+  - become unstable
+  - seizures
+  - nausea
+  - vomiting
+  - diarrhea
+- thyroid problems.
 - high calcium levels in your blood (hypercalcemia) and changes in your parathyroid gland (hyperparathyroidism) that may not go away when you stop taking lithium carbonate tablets.
 - heart problems.
   People who take lithium carbonate tablets may find out they also have a heart problem called Brugada Syndrome.
@@ -156,18 +169,18 @@ The most common side effects of lithium carbonate tablets, include:
   - increased thirst
   - nausea
   - general discomfort when you start treatment
-- Children 7 to 17 years of age with manic or mixed episodes of bipolar I disorder:
-  - excessive urination
-  - thyroid problems
-  - hand trembling
-  - excessive thirst
-  - dizziness
-  - rash
-  - difficulty walking
-  - decreased appetite
-  - blurred vision
-  - nausea
-  - vomiting
+  - Children 7 to 17 years of age with manic or mixed episodes of bipolar I disorder:
+    - excessive urination
+    - thyroid problems
+    - hand trembling
+    - excessive thirst
+    - dizziness
+    - rash
+    - difficulty walking
+    - decreased appetite
+    - blurred vision
+    - nausea
+    - vomiting
 
 These are not all the possible side effects of lithium carbonate tablets.
 
@@ -181,6 +194,7 @@ Store lithium carbonate tablets at room temperature, between 68°F to 77°F (20�
 Keep tablets dry and keep in a tightly closed container.
 
 Keep lithium carbonate tablets and all medicines out of the reach of children.
+
 General information about the safe and effective use of lithium carbonate tablets.
 
 Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide.
@@ -192,9 +206,28 @@ You can ask your pharmacist or healthcare provider for information about lithium
 For more information about lithium carbonate tablets, call 1-800-818-4555.
 
 What are the ingredients in lithium carbonate tablets?
-Active ingredient: lithium carbonate, USP Inactive ingredients: microcrystalline cellulose, povidone, sodium lauryl sulfate, sodium starch glycolate type A, colloidal silicon dioxide and calcium stearate.
-Distributed by: Sun Pharmaceutical Industries, Inc. Cranbury, NJ 08512 Manufactured by: Sun Pharmaceutical Industries Ltd. Survey No. 259/15, Dadra-396 191, (U.T. of D & NH), India.
-PGPI0145D ISS.
-12/2018
+
+Active ingredient:lithium carbonate, USP
+
+Inactive ingredients: microcrystalline cellulose, povidone, sodium lauryl sulfate, sodium starch glycolate type A, colloidal silicon dioxide and calcium stearate.
+
+Distributed by:
+
+Sun Pharmaceutical Industries, Inc.
+
+Cranbury, NJ 08512
+
+Manufactured by:
+
+Sun Pharmaceutical Industries Ltd.
+
+Survey No. 259/15, Dadra-396 191,
+
+(U.T. of D & NH), India.
+
+PGPI0145D
+
+ISS.
+03/2020
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration

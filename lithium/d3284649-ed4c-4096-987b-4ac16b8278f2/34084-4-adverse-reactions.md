@@ -28,7 +28,7 @@ Adverse Reactions Occurring at an Incidence of 2% or More in Lithium-Treated Ped
 
 Table 3: Adverse Reactions Reported in 2% or More of Pediatric Patients on Lithium and That Occurred at Greater Incidence Than in the Placebo Group in the 8-Week Acute Bipolar Trial
 
-| System Organ Class/ Preferred Term | Placebo N=28 % | Lithium N =53 % |
+| System Organ Class/ Preferred Term | Placebo N=28 % | Lithium N=53 % |
 | --- | --- | --- |
 | Gastrointestinal Disorders |  |  |
 | Nausea/vomiting | 29 | 57 |
@@ -67,7 +67,7 @@ Gastrointestinal: anorexia, nausea, vomiting, diarrhea, gastritis, salivary glan
 
 Genitourinary: glycosuria, decreased creatinine clearance, albuminuria, oliguria, and symptoms of nephrogenic diabetes insipidus including polyuria, thirst, and polydipsia.
 
-Dermatologic: drying and thinning of hair, alopecia, anesthesia of skin, chronic folliculitis, xerosis cutis, psoriasis onset or exacerbation, generalized pruritus with or without rash, cutaneous ulcers, angioedema.
+Dermatologic: drying and thinning of hair, alopecia, anesthesia of skin, chronic folliculitis, xerosis cutis, psoriasis onset or exacerbation, generalized pruritus with or without rash, cutaneous ulcers, angioedema, drug reaction with eosinophilia and systemic symptoms (DRESS).
 
 Autonomic Nervous System: blurred vision, dry mouth, impotence/sexual dysfunction.
 
