@@ -5,12 +5,11 @@ NDC 0049-3190-38
 Vfend® I.V.
 (voriconazole) for injection
 
-200 mg* 200 mg* of voriconazole
+200 mg*
 
-No Latex No Preservatives
+200 mg* of voriconazole
 
-Sterile Single Use Vial For I.V.
-Infusion Only
+Not made with natural rubber latex No Preservatives Sterile Single-Dose Vial – Discard Unused Portion For Intravenous Infusion Only
 
 Rx only
 
@@ -20,14 +19,17 @@ INTALERE CHOICESM
 
 NDC 0049-3190-38 Rx only
 
-1 Vial Vfend® I.V.
+1 Vial
+
+Vfend® I.V.
 (voriconazole) for injection
 
-200 mg* 200 mg* of voriconazole
+200 mg*
 
-No Latex No Preservatives
+200 mg* of voriconazole
 
-Sterile Single Use Vial For I.V.
-Infusion Only
+Not made with natural rubber latex No Preservatives
 
-INTALERE CHOICE SM
+Sterile Single-Dose Vial – Discard Unused Portion For Intravenous Infusion Only
+
+INTALERE CHOICE
