@@ -32,8 +32,6 @@ Before taking PERTZYE, tell your doctor about all of your medical conditions, in
 - have gout, kidney disease, or high blood uric acid (hyperuricemia)
 - have trouble swallowing capsules
 - are pregnant or plan to become pregnant.
-  It is not known if PERTZYE can harm your unborn baby.
-  It is not known if PERTZYE can affect your ability to become pregnant.
 - are breastfeeding or plan to breastfeed.
   It is not known if PERTZYE passes into your breast milk.
   Talk to your doctor about the best way to feed your baby if you take PERTZYE.
@@ -94,7 +92,7 @@ You may report side effects to the FDA at 1-800-FDA-1088.
 How do I store PERTZYE?
 
 - Store PERTZYE at room temperature 68ºF to 77ºF (20ºC to 25ºC).
-- Keep PERTZYE in a dry place and in the original container.
+- Keep PERTZYE in a dry place and in the original container or equivalent air tight container.
 - After opening the bottle, keep it tightly closed between uses to keep your medicine dry (protect it from moisture).
 - The PERTZYE bottle contains a desiccant packet to help keep your medicine dry.
   Do not eat or throw away the desiccant packet in your medicine bottle.
@@ -122,4 +120,4 @@ The red imprinting ink on the 16,000 units of lipase; 57,500 units of protease; 
 
 The purple imprinting ink on the 24,000 units of lipase; 86,250 units of protease; 90,750 units of amylase capsules contain: FD&C Blue #2, D&C Red #7, titanium dioxide, strong ammonia solution, propylene glycol, butyl alcohol, isopropyl alcohol, dehydrated alcohol, and shellac.
 
-For more information, go to www.digestivecare.com or call 1-877-882-5950.
+For more information, go to www.Pertzye.com or call 1-877-882-5950.

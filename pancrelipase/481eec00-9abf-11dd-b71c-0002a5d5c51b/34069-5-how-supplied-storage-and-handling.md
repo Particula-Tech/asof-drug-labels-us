@@ -17,7 +17,7 @@ Each PERTZYE delayed-release capsule has a clear body printed in purple with “
 Delayed-release capsules are supplied in bottles of 80 (NDC 59767-024-01) or 200 (NDC 59767-024-02).
 
 Storage and Handling Store at room temperature 20-25°C (68-77°F), brief excursions permitted to 15-40°C (59-104°F).
-PERTZYE hard gelatin capsules should be stored in a dry place in the original container.
+PERTZYE hard gelatin capsules should be stored in a dry place in the original container or equivalent air tight container.
 After opening, keep the container tightly closed between uses to protect from moisture.
 PERTZYE is dispensed in bottles containing a dessicant.
 The dessicant packet should not be eaten or thrown away.

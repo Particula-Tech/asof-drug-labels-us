@@ -93,7 +93,7 @@ Place at least 2 teaspoons of applesauce, or other food recommended by your doct
 2.
 Carefully open 1 or 2 of the PERTZYE capsules, depending on your prescribed dose, by grasping and slightly squeezing both ends of the capsule and then twisting and pulling the capsule apart.
 Pour the capsule contents onto the food in the clean container.
-Throw away the empty PERTZYE capsules.
+Throw away the empty PERTZYE capsules (See Figure A).
 
 3.
 Carefully mix the capsule contents evenly through the food.
@@ -104,7 +104,7 @@ Remove the plunger from a 35 mL slip tip syringe.
 Cover the tip of the syringe with your finger.
 
 5.
-Carefully spoon the PERTZYE capsule contents-food mixture into the slip tip syringe.
+Carefully spoon the PERTZYE capsule contents-food mixture into the slip tip syringe (See Figure B).
 
 6.
 Replace the plunger partially back into the slip tip syringe.
@@ -117,13 +117,13 @@ Remove your finger from the tip of the slip tip syringe.
 Gently shake or tap the slip tip syringe so that the PERTZYE capsule contents-food mixture moves down towards the plunger.
 
 9.
-Carefully push up slowly on the plunger until the PERTZYE capsule contents-food mixture fills the syringe tip.
+Carefully push up slowly on the plunger until the PERTZYE capsule contents-food mixture fills the syringe tip (See Figure C).
 
 10.
 Connect the slip tip syringe directly into the gastrostomy tube feeding port.
 
 11.
-Press on the plunger of the slip tip syringe using steady pressure to push all of the PERTZYE capsule contents-food mixture into the gastrostomy tube feeding port over 10 seconds to 12 seconds.
+Press on the plunger of the slip tip syringe using steady pressure to push all of the PERTZYE capsule contents-food mixture into the gastrostomy tube feeding port over 10 seconds to 12 seconds (See Figure D).
 
 12.
 Flush the gastrostomy tube feeding port with about 10 mL of water.
@@ -135,7 +135,7 @@ How should I store PERTZYE?
 
 Store PERTZYE at room temperature between 68ºF to 77ºF (20°C to 25°C).
 
-Keep PERTZYE in a dry place and in the original container.
+Keep PERTZYE in a dry place and in the original container or equivalent air tight container.
 
 After opening the bottle, keep it tightly closed between uses to keep your medicine dry (protect it from moisture).
 
@@ -144,14 +144,14 @@ Do not eat or throw away the desiccant packet in your medicine bottle.
 
 Keep PERTZYE and all medicines out of the reach of children.
 
+This Medication Guide and Instructions for Use has been approved by the U.S. Food and Drug Administration.
+
+Revised: March 2020
+
 Manufactured in the USA by:
 
 Digestive Care, Inc.
 
 Bethlehem, PA 18017
 
-© 2017 Digestive Care, Inc.
-
-This Medication Guide has been approved by the U.S. Food and Drug Administration.
-
-Revised: July 2017
+© 2019 Digestive Care, Inc.

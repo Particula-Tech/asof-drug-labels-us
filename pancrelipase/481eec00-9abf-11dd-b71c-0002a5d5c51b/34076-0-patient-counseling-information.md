@@ -33,11 +33,6 @@ Allergic reactions, including anaphylaxis, asthma, hives and pruritus may occur.
 Advise patients and caregivers to immediately contact their healthcare provider if symptoms occur.
 [see Warnings and Precautions (5.5)]
 
-## 17.4 Pregnancy and Breast Feeding
+Manufactured in the USA by:
 
-- To notify their healthcare provider if they are pregnant or are thinking of becoming pregnant during treatment with PERTZYE.
-  [see Use in Specific Populations (8.1)]
-- To notify their healthcare provider if they are breast feeding or are thinking of breast feeding during treatment with PERTZYE.
-  [see Use in Specific Populations (8.3)]
-
-Manufactured in the USA by: Digestive Care, Inc. Bethlehem, PA 18017 PERTZYE ® is a registered trademark of Digestive Care, Inc. U.S. Patent Numbers: 5,260,074; 5,302,400; 5,324,514; 5,460,812; 5,578,304; 5,750,104
+Digestive Care, Inc. Bethlehem, PA 18017 PERTZYE ® is a registered trademark of Digestive Care, Inc. U.S. Patent Numbers: 5,260,074; 5,302,400; 5,324,514; 5,460,812; 5,578,304; 5,750,104
