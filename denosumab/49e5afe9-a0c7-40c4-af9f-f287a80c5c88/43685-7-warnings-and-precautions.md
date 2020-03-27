@@ -59,14 +59,15 @@ Interruption of Prolia therapy should be considered, pending a benefit-risk asse
 ## 5.6 Multiple Vertebral Fractures (MVF) Following Discontinuation of Prolia Treatment
 
 Following discontinuation of Prolia treatment, fracture risk increases, including the risk of multiple vertebral fractures.
-Cessation of Prolia treatment results in markers of bone resorption increasing above pretreatment values then returning to pretreatment values 24 months after the last dose of Prolia.
+Treatment with Prolia results in significant suppression of bone turnover and cessation of Prolia treatment results in increased bone turnover above pretreatment values 9 months after the last dose of Prolia.
+Bone turnover then returns to pretreatment values 24 months after the last dose of Prolia.
 In addition, bone mineral density returns to pretreatment values within 18 months after the last injection [see Pharmacodynamics (12.2), Clinical Studies (14.1)].
 
 New vertebral fractures occurred as early as 7 months (on average 19 months) after the last dose of Prolia.
 Prior vertebral fracture was a predictor of multiple vertebral fractures after Prolia discontinuation.
 Evaluate an individual’s benefit-risk before initiating treatment with Prolia.
 
-If Prolia treatment is discontinued, consider transitioning to an alternative antiresorptive therapy [see Adverse Reactions (6.1)].
+If Prolia treatment is discontinued, patients should be transitioned to an alternative antiresorptive therapy [see Adverse Reactions (6.1)].
 
 ## 5.7 Serious Infections
 

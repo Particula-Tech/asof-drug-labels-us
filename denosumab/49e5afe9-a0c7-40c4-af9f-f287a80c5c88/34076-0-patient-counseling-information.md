@@ -58,6 +58,6 @@ Manufactured by: Amgen Inc. One Amgen Center Drive Thousand Oaks, California 913
 
 Patent: http://pat.amgen.com/prolia/
 
-© 2010-2019 Amgen Inc. All rights reserved.
+© 2010-2020 Amgen Inc. All rights reserved.
 
-1xxxxxx – v19
+1xxxxxx – v20
