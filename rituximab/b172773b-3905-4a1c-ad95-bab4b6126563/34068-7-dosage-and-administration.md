@@ -3,6 +3,7 @@
 ## 2.1 Important Dosing Information
 
 Administer only as an Intravenous Infusion [see Dosage and Administration (2.8)].
+
 Do not administer as an intravenous push or bolus.
 
 RITUXAN should only be administered by a healthcare professional with appropriate medical support to manage severe infusion-related reactions that can be fatal if they occur [see Warnings and Precautions (5.1)].
@@ -119,7 +120,7 @@ Discard any unused portion left in the vial.
 
 Storage
 
-Diluted RITUXAN solutions for infusion may be stored at 2°C to 8°C (36°F to 46°F) for 24 hours.
+Diluted RITUXAN solutions for infusion may be stored refrigerated at 2°C to 8°C (36°F to 46°F) for 24 hours.
 Diluted RITUXAN solutions for infusion have been shown to be stable for an additional 24 hours at room temperature.
 However, since RITUXAN solutions do not contain a preservative, diluted solutions should be stored refrigerated (2°C to 8°C).
 No incompatibilities between RITUXAN and polyvinylchloride or polyethylene bags have been observed.

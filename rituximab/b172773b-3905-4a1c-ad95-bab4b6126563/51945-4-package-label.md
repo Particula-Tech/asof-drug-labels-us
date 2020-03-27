@@ -2,9 +2,11 @@
 
 NDC 50242-051-21
 
-RITUXAN®
+Rituxan®
 
-Rituximab
+(rituximab)
+
+Injection
 
 100 mg/10 mL (10 mg/mL)
 
@@ -14,15 +16,17 @@ For Intravenous Use
 
 Jointly Marketed by: Biogen and Genentech USA, Inc.
 
-10209855
+10223019
 
 # PRINCIPAL DISPLAY PANEL - 500 mg Vial Carton
 
 NDC 50242-053-06
 
-RITUXAN ®
+Rituxan®
 
-Rituximab
+(rituximab)
+
+Injection
 
 500 mg/50 mL (10 mg/mL)
 
@@ -34,4 +38,4 @@ Rx only One 500 mg vial
 
 Jointly Marketed by: Biogen and Genentech USA, Inc.
 
-10209854
+10223022
