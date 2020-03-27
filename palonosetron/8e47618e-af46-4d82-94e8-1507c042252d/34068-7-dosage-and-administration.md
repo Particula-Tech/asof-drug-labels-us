@@ -44,7 +44,7 @@ At the end of the infusion, flush the infusion line with the same carrier soluti
 
 Storage
 
-The total time from reconstitution to the start of the infusion should not exceed 3 hours.
+The total time from reconstitution to the start of the infusion should not exceed 24 hours.
 Store the reconstituted solution and the final diluted solution at room temperature.
 
 ## 2.3 Incompatibility of AKYNZEO for Injection
