@@ -19,22 +19,22 @@ Patients should be instructed to use administration sites on the abdomen or the 
 Administration should not be made within 2 inches of the navel.
 Instruct patients not to administer Rasuvo to the arms or any other areas of the body, as delineated in the Rasuvo Instructions for Use [see Instructions for Use].
 
-Risks of Pregnancy and Reproduction
+Embryo-Fetal Toxicity
 
-Advise patients that Rasuvo can cause fetal harm and is contraindicated in pregnancy.
-Advise women of childbearing potential that Rasuvo should not be started until pregnancy is excluded.
-Women should be fully counseled on the serious risk to the fetus should they become pregnant while undergoing treatment.
-Inform patients to contact their physician if they suspect that they are pregnant.
+- Advise females of reproductive potential that Rasuvo can cause fetal harm and is contraindicated in pregnancy.
+  Advise women of childbearing potential that Rasuvo should not be started until pregnancy is excluded.
+  Women should be fully counseled on the serious risk to the fetus should they become pregnant while undergoing treatment.
+  Inform patients to contact their physician if they suspect that they are pregnant [see Boxed Warning, Contraindications (4), Warnings and Precautions (5.2), Use in Specific Populations (8.1)].
+- Advise females of reproductive potential to use effective contraception during Rasuvo treatment and for 6 months after the final dose [see Use in Specific Populations (8.3)].
+- Advise males of reproductive potential to use effective contraception during Rasuvo treatment and for 3 months after the final dose [see Use in Specific Populations (8.3)].
 
-Advise patients that pregnancy should be avoided if either partner is receiving Rasuvo; during and for a minimum of three months after therapy for male patients, and during and for at least one ovulatory cycle after therapy for female patients [see Warnings and Precautions (5.2)].
+Infertility
 
-Discuss the risk of effects on reproduction with both male and female patients taking Rasuvo.
+Advise patients of reproductive potential that Rasuvo may cause impairment of fertility, oligospermia and menstrual dysfunction [see Use in Specific Populations (8.3)].
 
-Inform patients that methotrexate has been reported to cause impairment of fertility, oligospermia and menstrual dysfunction, during and for a short period after cessation of therapy [see Use in Specific Populations (8.6)].
+Lactation
 
-Nursing Mothers
-
-Inform patients that Rasuvo is contraindicated in nursing mothers [see Use in Specific Populations (8.3)].
+Advise females not to breastfeed during treatment with Rasuvo and for one week after the final dose [see Use in Specific Populations (8.2)].
 
 Ability to Drive or Operate Machinery
 

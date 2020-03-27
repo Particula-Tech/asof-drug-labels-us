@@ -63,3 +63,7 @@ Visually inspect Rasuvo for particulate matter and discoloration prior to admini
 Do not use Rasuvo if the seal is broken.
 
 Handle and dispose of Rasuvo consistent with recommendations for handling and disposal of cytotoxic drugs1.
+
+## 2.5 Pregnancy testing
+
+Verify the pregnancy status of females of reproductive potential prior to initiating treatment with Rasuvo [see Use in Specific Populations (8.1, 8.3)]

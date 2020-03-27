@@ -130,19 +130,17 @@ In patients with significant third space accumulations, it is advisable to evacu
 
 ## 5.2 Embryo-Fetal Toxicity
 
-Methotrexate has been reported to cause fetal death and/or congenital anomalies.
-Therefore, Rasuvo is not recommended for females of childbearing potential unless there is clear medical evidence that the benefits can be expected to outweigh the considered risks.
-Rasuvo is contraindicated in pregnant women with psoriasis or rheumatoid arthritis.
-
-Females of childbearing potential should not be started on Rasuvo until pregnancy is excluded and should be fully counseled on the serious risk to the fetus should they become pregnant while undergoing treatment.
-Appropriate steps should be taken to avoid conception during Rasuvo therapy.
-Pregnancy should be avoided if either partner is receiving Rasuvo; during and for a minimum of three months after therapy for male patients, and during and for at least one ovulatory cycle after therapy for female patients.
+Based on published reports and methotrexate's mechanism of action, methotrexate can cause embryo-fetal toxicity, including fetal death when administered to a pregnant woman.
+In pregnant women Rasuvo is contraindicated.
+Verify the pregnancy status of females of reproductive potential prior to initiating Rasuvo.
+Advise females of reproductive potential to use effective contraception during treatment with Rasuvo and for 6 months after the final dose.
+Advise males of reproductive potential to use effective contraception during Rasuvo treatment and for 3 months after the final dose [see Contraindications (4), Use in Specific Populations (8.1, 8.3), Clinical Pharmacology (12.1)].
 
 ## 5.3 Effects on Reproduction
 
-Methotrexate has been reported to cause impairment of fertility, oligospermia and menstrual dysfunction in humans, during and for a short period after cessation of therapy.
-
-The risk of effects of reproduction should be discussed with both male and female patients taking Rasuvo.
+Based on published reports, methotrexate can cause impairment of fertility, oligospermia, and menstrual dysfunction.
+It is not known if the infertility may be reversible in affected patients.
+Discuss the risk of effects on reproduction with female and male patients of reproductive potential [see Use in Specific Populations (8.3)].
 
 ## 5.4 Laboratory Tests
 
