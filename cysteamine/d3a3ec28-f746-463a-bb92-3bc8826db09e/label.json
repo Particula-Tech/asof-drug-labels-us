@@ -1,16 +1,26 @@
 {
   "application_numbers": [
-    "NDA203389"
+    "NDA203389",
+    "NDA213491"
   ],
   "inn": "cysteamine",
-  "labeler": "Horizon Pharma Inc.",
+  "labeler": "Horizon Therapeutics USA, Inc.",
   "package_ndcs": [
     "75987-100-04",
-    "75987-101-08"
+    "75987-101-08",
+    "75987-140-13",
+    "75987-140-14",
+    "75987-145-13",
+    "75987-145-14"
   ],
   "products": [
     {
       "form": "CAPSULE, DELAYED RELEASE PELLETS",
+      "generic": "cysteamine bitartrate",
+      "name": "PROCYSBI"
+    },
+    {
+      "form": "GRANULE, DELAYED RELEASE",
       "generic": "cysteamine bitartrate",
       "name": "PROCYSBI"
     }

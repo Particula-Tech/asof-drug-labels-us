@@ -10,8 +10,8 @@
 - If adverse reactions occur, decrease the PROCYSBI dosage.
 - After the maintenance dosage of PROCYSBI is achieved: The dosage may need to be further increased to achieve a therapeutic target WBC cystine concentration.
   The maximum dosage of PROCYSBI is 1.95 grams/m2 of body surface area per day [see Dosage and Administration (2.4, 2.5)].
-- Round dose calculations to the nearest incremental dosage that can be administered using the available capsule strengths.
-  Only use whole capsules.
+- Round dose calculations to the nearest incremental dosage that can be administered using the available strengths of PROCYSBI delayed-release capsules or packets of oral granules.
+  Only use whole capsules or entire contents of the packets.
 
 ## 2.2 Starting and Maintenance Dosing in Cysteamine-Naïve Patients
 
@@ -24,7 +24,7 @@
   - Patients 6 years of age and older: Gradually increase the dosage over 4 to 6 weeks until the maintenance dosage is achieved.
 - If a patient experiences initial intolerance, temporarily discontinue PROCYSBI and then re-start at a lower dosage and gradually increase dosage.
 
-Table 1: Starting and Maintenance Dosage of PROCYSBI by Body Weight in Cysteamine-Naïve Patients 1 Year of Age and Older (Dosage Rounded Using Available Capsule Strengths)
+Table 1: Starting and Maintenance Dosage of PROCYSBI by Body Weight in Cysteamine-Naïve Patients 1 Year of Age and Older (Dosage Rounded Using Available Strengths of Capsules or Packets of Oral Granules)
 
 | ⅙ of dosage | ¼ of dosage |  |  |
 | --- | --- | --- | --- |
@@ -52,7 +52,7 @@ Table 1: Starting and Maintenance Dosage of PROCYSBI by Body Weight in Cysteamin
 
 - Measure WBC cystine concentration and titrate the PROCYSBI dosage as needed to achieve the therapeutic target WBC cysteine concentration [see Dosage and Administration (2.5)].
 - If the measured WBC cystine concentration is above the target level for cystine depletion, consider the following before dose adjustment: adherence to medication and dosing interval, the timing between the last dose and the blood draw for the laboratory measurement, and the timing of PROCYSBI administration in relation to food or other administration instructions.
-- If a dose adjustment is required, increase the dosage by 10%, rounded to nearest dosage that can be administered using the available capsule strengths.
+- If a dose adjustment is required, increase the dosage by 10%, rounded to nearest dosage that can be administered using the available strengths of capsules or packets of oral granules.
   For patients 1 year to less than 6 years of age, allow a minimum of two weeks between dose increments.
   The maximum dosage of PROCYSBI is 1.95 grams/m2 per day.
 - If adverse reactions occur, decrease the PROCYSBI dosage.
@@ -75,11 +75,18 @@ Table 1: Starting and Maintenance Dosage of PROCYSBI by Body Weight in Cysteamin
 - Obtain blood samples for WBC cystine concentration measurement 12 hours after the patient's last PROCYSBI dose, prior to administration of the next dose (i.e., trough concentration).
   In addition, it is important to accurately record the time of the last dose, the actual dose, and the time the blood sample was taken.
 
-## 2.6 Administration
+## 2.6 Preparation and Administration
 
-- Swallow PROCYSBI capsules whole.
-- Do not crush or chew capsules or capsule contents.
-- Take PROCYSBI capsules with fruit juice (except grapefruit juice) or water.
+- PROCYSBI delayed-release capsules:
+  - Swallow capsules whole.
+    Do not crush or chew capsules or capsule contents.
+  - Take capsules with fruit juice (except grapefruit juice) or water.
+  - For patients who cannot swallow the capsules, the capsules can be opened and the capsule contents sprinkled on and mixed in applesauce, berry jelly or fruit juice (except grapefruit juice) and administered orally, as described below.
+  - For patients with a gastrostomy tube, the capsules can be opened and the capsule contents mixed in applesauce and administered via the gastrostomy tube, as described below.
+- PROCYSBI delayed-release oral granules:
+  - Do not crush or chew oral granules.
+  - Sprinkle and mix the intact granules in applesauce, berry jelly or fruit juice (except grapefruit juice) and administered orally, as described below.
+  - For patients with a gastrostomy tube, the oral granules can be mixed in applesauce and administered via a gastrostomy tube, as described below.
 - Administer PROCYSBI at least 1 hour before or 1 hour after medications containing bicarbonate or carbonate [see Drug Interactions (7.1)].
 - Do not eat for at least 2 hours before taking PROCYSBI and for at least 30 minutes after to maximize absorption.
   If patients are unable to take PROCYSBI without eating, take with food and limit the amount of food to approximately 4 ounces (1∕2 cup) within 1 hour before taking PROCYSBI through 1 hour after taking PROCYSBI.
@@ -87,38 +94,42 @@ Table 1: Starting and Maintenance Dosage of PROCYSBI by Body Weight in Cysteamin
   Avoid high fat food close to dosing of PROCYSBI.
 - Avoid drinking alcohol while taking PROCYSBI [see Drug Interactions (7.2)].
 
-For patients who have difficulty swallowing capsules, follow the instructions below for administration with food or liquid.
-Administration of PROCYSBI with foods and liquids not included below has not been studied clinically and is not recommended.
+Oral Administration in Food or Liquid
 
-Administration with Applesauce or Berry Jelly:
+Administration of PROCYSBI capules or oral granules with foods and liquids not included below has not been studied clinically and is not recommended.
+
+Administration in Applesauce or Berry Jelly:
 
 1. Place approximately 4 ounces (1/2 cup) or a smaller amount that can be consumed in one feeding of either applesauce or berry jelly into a clean container.
-2. Open the capsule(s).
-3. Sprinkle the entire capsule contents of intact granules on applesauce or berry jelly.
+2. Open the capsule(s) or packet(s).
+3. Sprinkle all the intact granules that are inside the capsule(s) or packets(s) on applesauce or berry jelly.
 4. Mix the granules with the applesauce or berry jelly.
+   Do not crush the granules.
 5. Consume the entire contents within 30 minutes of mixing.
    Do not chew the granules.
    Do not save the applesauce or berry jelly and granules for later use.
 
-Administration with Fruit Juice (except grapefruit juice):
+Administration in Fruit Juice (except grapefruit juice):
 
 1. Pour approximately 4 ounces (1/2 cup) of fruit juice into a clean cup.
-2. Open the capsule(s).
-3. Sprinkle the intact granules into the juice.
+2. Open the capsule(s) or packet(s).
+3. Sprinkle all the intact granules into the juice.
 4. Gently stir until mixed.
+   Do not crush the granules.
 5. Drink the entire contents within 30 minutes of mixing.
    Do not chew the granules.
    Do not save the fruit juice and granules mixture for later use.
 
-Administration with Applesauce via a Gastrostomy (G) Tube (14 French or larger)
+Administration in Applesauce via a Gastrostomy (G) Tube (14 French or larger)
 
 A bolus (straight) feeding tube is recommended.
 
 1. Flush the gastrostomy tube button first with 5 mL of water to clear the button.
-2. Open the capsule and empty the granules into a clean container with approximately 4 ounces (1/2 cup) of applesauce.
+2. Open the capsule(s) or packet(s) and empty the granules into a clean container with approximately 4 ounces (1/2 cup) of applesauce.
    Use only strained applesauce with no chunks.
-   A minimum of 1 ounce (1/8 cup) of applesauce may be used for children 25 kg or less starting PROCYSBI at a dose of 1 or 2 capsules.
+   A minimum of 1 ounce (1/8 cup) of applesauce may be used for children 25 kg or less starting PROCYSBI at a dose of 1 or 2 capsules or packets.
 3. Mix the intact granules into the applesauce.
+   Do not crush the granules.
 4. Draw up the mixture into a syringe.
    Keep the feeding tube horizontal during administration and apply rapid and steady pressure (10 mL/10 seconds) to dispense the syringe contents into the tube within 30 minutes of preparation.
 5. Repeat step 3 until all of the mixture is administered.

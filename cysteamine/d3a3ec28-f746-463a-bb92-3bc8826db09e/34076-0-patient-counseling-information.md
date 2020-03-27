@@ -35,23 +35,36 @@ Breastfeeding
 
 Advise patients that breastfeeding is not recommended while taking PROCYSBI [see Use in Specific Populations (8.2)].
 
+Laboratory Monitoring
+
+Discuss with the patient and caregivers the importance of required laboratory testing to determine the correct dose of PROCYSBI [see Dosage and Administration (2.5)].
+
 Administration
 
-- Advise patients and caregivers to follow the instruction below for taking PROCYSBI capsules whole.
+- Advise patients and caregivers to follow the instruction below for taking PROCYSBI.
+  Capsules:Oral Granules:
   - Swallow PROCYSBI capsules whole.
-    Do not crush or chew capsules or capsule contents
-  - Take PROCYSBI capsules with fruit juice (except grapefruit juice) or water
-- Administer PROCYSBI at least 1 hour before or 1 hour after medications containing bicarbonate or carbonate
+    Do not crush or chew capsules or capsule contents.
+  - Take PROCYSBI capsules with fruit juice (except grapefruit juice) or water.
+  - For patients who cannot swallow the capsules, the capsules can be opened and the capsule contents sprinkled on and mixed in applesauce, berry jelly or fruit juice (except grapefruit juice) and administered orally.
+  - For patients with a gastrostomy tube, follow the instructions in the Instructions for Use.
+  - Do not crush or chew the granules.
+  - Sprinkle and mix intact granules from on applesauce, berry jelly or fruit juice (except grapefruit juice) and administer orally.
+  - For patients with a gastrostomy tube, follow the instruction in the Instructions for Use
+- Administer PROCYSBI at least 1 hour before or 1 hour after medications containing bicarbonate or carbonate.
 - Do not eat for at least 2 hours before and for at least 30 minutes after taking PROCYSBI.
-  If unable to take PROCYSBI without eating, take with food but limit the amount of food to approximately 4 ounces (1∕2 cup) 1 hour before through 1 hour after administration.
-  Avoid high fat food close to dosing of PROCYSBI
-- Avoid drinking alcohol while taking PROCYSBI
-- For patients who have difficulty swallowing capsules or those with a Gastrostomy (G) tube, follow the instructions in the Instructions for Use for opening the capsule and administering with food or liquid.
+  If unable to take PROCYSBI without eating, take with food but limit the amount of food to approximately 4 ounces (1/2 cup) 1 hour before through 1 hour after administration.
+  Avoid high fat food close to dosing of PROCYSBI.
+- Avoid drinking alcohol while taking PROCYSBI.
 - Take PROCYSBI consistently and to not miss doses.
   If a dose is missed, take the dose as soon as possible up to 8 hours after the scheduled time.
   However, if a dose is missed and the next scheduled dose is due in less than 4 hours, do not take the missed dose, and to take the next dose at the usual scheduled time.
   Do not take 2 doses at one time to make up for a missed dose [see Dosage and Administration (2.6)].
 
-Laboratory Monitoring
+Storage
 
-Discuss with the patient and caregivers the importance of required laboratory testing to determine the correct dose of PROCYSBI [see Dosage and Administration (2.5)].
+Advise patients and caregivers to keep PROCYSBI in a dry place.
+Protect from moisture.
+For bottles, keep PROCYSBI delayed-release capsules in the original bottle.
+Do not remove the dessicant or oxygen absorber from the bottle.
+Do not store PROCYSBI delayed-release oral granules in opened packets [see How Supplied/Storage and Handling (16)].
