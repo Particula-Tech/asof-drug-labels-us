@@ -2,7 +2,7 @@
 
 NDC 0069-3150-84 Rx only
 
-Zithromax® (azithromycin for injection)
+Zithromax® (azithromycin) for injection
 
 500 mg
 
@@ -14,21 +14,15 @@ No Latex No Preservative
 
 Pfizer Injectables
 
-# PRINCIPAL DISPLAY PANEL - 10 Vials Carton
+# PRINCIPAL DISPLAY PANEL - 500 mg Vial Carton
 
-10 Vials
+10 Vials NDC 0069-3150-83 Contains 10 of NDC 0069-3150-84
 
-NDC 0069-3150-83 Contains 10 of NDC 0069-3150-84
-
-Rx only
-
-Zithromax® (azithromycin for injection)
+Zithromax® (azithromycin) for injection Rx only
 
 500 mg/vial
 
-Sterile
-
-For I.V. infusion only Equivalent to 500 mg/vial of azithromycin To yield 100 mg/mL* of solution when reconstituted as directed
+Sterile For I.V. infusion only Equivalent to 500 mg/vial of azithromycin To yield 100 mg/mL* of solution when reconstituted as directed
 
 No Latex No Preservative
 
