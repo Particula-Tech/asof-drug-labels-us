@@ -1,11 +1,13 @@
-# PRINCIPAL DISPLAY PANEL - 100 mg Vial Carton
+# PRINCIPAL DISPLAY PANEL
 
-Remicade® (Infliximab) For Injection 100 mg per vial
+NDC 57894-030-01
 
-Single dose vial - Discard unused portion
+Remicade® (infliximab) For Injection 100 mg per vial
 
-Each patient is required to receive the enclosed Medication Guide
+Single dose vial Discard unused portion
 
-Must Reconstitute and Dilute Before Intravenous Infusion Must infuse over at least 2 hours with an in-line filter Rx only
+Each patient is required to receive the enclosed Medication Guide.
 
-Contains 10 vials
+Must Reconstitute and Dilute Before Intravenous Infusion.
+Must infuse over at least 2 hours with an in-line filter.
+Rx only
