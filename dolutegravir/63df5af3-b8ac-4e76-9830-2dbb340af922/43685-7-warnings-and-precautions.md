@@ -14,7 +14,7 @@ TIVICAY is contraindicated in patients who have experienced a previous hypersens
 Hepatic adverse events have been reported in patients receiving a dolutegravir-containing regimen.
 Patients with underlying hepatitis B or C may be at increased risk for worsening or development of transaminase elevations with use of TIVICAY [see Adverse Reactions (6.1)].
 In some cases, the elevations in transaminases were consistent with immune reconstitution syndrome or hepatitis B reactivation particularly in the setting where anti-hepatitis therapy was withdrawn.
-Cases of hepatic toxicity, including elevated serum liver biochemistries, hepatitis, and acute liver failure have been reported in patients receiving a dolutegravir-containing regimen without pre-existing hepatic disease or other identifiable risk factors.
+Cases of hepatic toxicity, including elevated serum liver biochemistries, hepatitis, and acute liver failure, have been reported in patients receiving a dolutegravir-containing regimen without pre-existing hepatic disease or other identifiable risk factors.
 Drug-induced liver injury leading to liver transplant has been reported with TRIUMEQ (abacavir, dolutegravir, and lamivudine).
 Monitoring for hepatotoxicity is recommended.
 

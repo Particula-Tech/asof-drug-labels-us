@@ -168,13 +168,13 @@ Subjects were randomized 1:1 to continue their current antiretroviral regimen or
 The primary efficacy endpoint for the SWORD trial was the proportion of subjects with plasma HIV-1 RNA less than 50 copies per mL at Week 48.
 The proportion of subjects with HIV-1 RNA less than 50 copies per mL at Week 48 was 95% for both treatment groups; treatment difference and 95% CI was -0.2% (-3.0%, 2.5%).
 The proportion of subjects with HIV-1 RNA greater than or equal to 50 copies per mL (virologic failure) at Week 48 was 0.6% and 1.2% for the dolutegravir plus rilpivirine treatment group and the current antiretroviral regimen treatment groups, respectively; treatment difference and 95% CI was -0.6% (-1.7%, 0.6%).
-Refer to the Prescribing Information for JULUCA (dolutegravir and rilpivirine) tablet for complete virologic outcome information.
+Refer to the prescribing information for JULUCA (dolutegravir and rilpivirine) tablet for complete virologic outcome information.
 
 ## 14.3 Pediatric Subjects
 
 IMPAACT P1093 is a Phase 1/2, 48-week, multicenter, open-label trial to evaluate the pharmacokinetic parameters, safety, tolerability, and efficacy of TIVICAY in combination treatment regimens in HIV‑1‑infected infants, children, and adolescents.
 Subjects were stratified by age, enrolling adolescents first (Cohort 1: aged 12 to less than 18 years) and then younger children (Cohort 2A: aged 6 to less than 12 years).
-All subjects received a weight-based dose of TIVICAY [see Dosage and Administration (2.2)].
+All subjects received a weight-based dose of TIVICAY [see Dosage and Administration (2.3)].
 
 These 46 subjects had a mean age of 12 years (range: 6 to 17), were 54% female and 52% black.
 At baseline, mean plasma HIV-1 RNA was 4.6 log10 copies per mL, median CD4+ cell count was 639 cells per mm3 (range: 9 to 1,700), and median CD4+% was 23% (range: 1% to 44%).

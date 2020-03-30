@@ -92,4 +92,4 @@ Therefore, TIVICAY is not recommended for use in patients with severe hepatic im
 Dolutegravir plasma concentrations were decreased in subjects with severe renal impairment compared with those in matched healthy controls.
 However, no dosage adjustment is necessary for treatment-naïve or treatment-experienced and INSTI-naïve patients with mild, moderate, or severe renal impairment or for INSTI-experienced patients (with certain INSTI-associated resistance substitutions or clinically suspected INSTI resistance) with mild or moderate renal impairment.
 Caution is warranted for INSTI-experienced patients (with certain INSTI-associated resistance substitutions or clinically suspected INSTI resistance [see Microbiology (12.4)]) with severe renal impairment, as the decrease in dolutegravir concentrations may result in loss of therapeutic effect and development of resistance to TIVICAY or other coadministered antiretroviral agents [see Clinical Pharmacology (12.3)].
-Dolutegravir has not been studied in patients on dialysis.
+There is inadequate information to recommend appropriate dosing of dolutegravir in patients requiring dialysis.

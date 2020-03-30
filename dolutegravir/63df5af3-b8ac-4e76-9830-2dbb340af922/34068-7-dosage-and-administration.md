@@ -13,8 +13,8 @@ Dosing Recommendations for TIVICAY in Adult Patients
 
 | Population | Recommended Dose |
 | --- | --- |
-| Treatment-naïve or treatment-experienced INSTI-naïve or virologically suppressed (HIV-1 RNA <50 copies per mL) adults switching to dolutegravir plus rilpivirinea | 50 mg once daily |
-| Treatment-naïve or treatment-experienced INSTI-naïve when coadministered with certain UGT1A or CYP3A inducers [see Drug Interactions (7.2)] | 50 mg twice daily |
+| Treatment-naïve or treatment-experienced integrase strand transfer inhibitor (INSTI)-naïve or virologically suppressed (HIV‑1 RNA <50 copies per mL) adults switching to dolutegravir plus rilpivirinea | 50 mg once daily |
+| Treatment-naïve or treatment-experienced INSTI-naïve when coadministered with certain uridine diphosphate (UDP)-glucuronosyl transferase 1A1 (UGT1A) or cytochrome P450 (CYP)3A inducers [see Drug Interactions (7.2)] | 50 mg twice daily |
 | INSTI-experienced with certain INSTI-associated resistance substitutions or clinically suspected INSTI resistanceb [see Microbiology (12.4)] | 50 mg twice daily |
 | a Rilpivirine dose is 25 mg once daily for those switching to dolutegravir plus rilpivirine. b Alternative combinations that do not include metabolic inducers should be considered where possible [see Drug Interactions (7)]. |  |
 

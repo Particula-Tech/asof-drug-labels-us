@@ -62,8 +62,8 @@ GlaxoSmithKline
 
 Research Triangle Park, NC 27709
 
-©2019 ViiV Healthcare group of companies or its licensor.
+©2020 ViiV Healthcare group of companies or its licensor.
 
-TVC:12PI
+TVC:13PI
 
 PHARMACIST‑DETACH HERE AND GIVE INSTRUCTIONS TO PATIENT _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _

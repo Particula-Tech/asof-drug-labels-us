@@ -87,7 +87,7 @@ The effect of severe hepatic impairment (Child-Pugh Score C) on the pharmacokine
 
 Patients with Renal Impairment: In a trial comparing 8 subjects with severe renal impairment (CrCl less than 30 mL per min) with 8 matched healthy controls, AUC, Cmax, and C24 of dolutegravir were lower by 40%, 23%, and 43%, respectively, compared with those in matched healthy subjects.
 Population pharmacokinetic analysis using data from SAILING and VIKING-3 trials indicated that mild and moderate renal impairment had no clinically relevant effect on the exposure of dolutegravir.
-Dolutegravir has not been studied in patients requiring dialysis.
+There is inadequate information to recommend appropriate dosing of dolutegravir in patients requiring dialysis.
 
 HBV or HCV Co-infected Patients: Population analyses using pooled pharmacokinetic data from adult trials indicated no clinically relevant effect of HCV co-infection on the pharmacokinetics of dolutegravir.
 There were limited data on HBV co-infection.

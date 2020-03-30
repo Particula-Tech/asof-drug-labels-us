@@ -131,7 +131,7 @@ Mean Change from Baseline in Fasted Lipid Values in Treatment-Naïve Subjects in
 | HDL cholesterol (mg/dL) | 2.0 | 2.3 | 5.4 | 7.2 |  |  |  |  |  |  |  |  |  |  |
 | LDL cholesterol (mg/dL) | 5.1 | 6.1 | 16.0 | 14.6 |  |  |  |  |  |  |  |  |  |  |
 | Triglycerides (mg/dL) | 6.7 | 6.6 | 13.6 | 31.9 |  |  |  |  |  |  |  |  |  |  |
-| a Subjects on lipid-lowering agents at baseline were excluded from these analyses (19 subjects in each arm in SPRING-2, and in SINGLE: TIVICAY + EPZICOM n = 30 and ATRIPLA n = 27). Ninety-four subjects initiated a lipid-lowering agent post-baseline; their last fasted on-treatment values (prior to starting the agent) were used regardless if they discontinued the agent (SPRING-2: TIVICAY n = 9, raltegravir n = 13; SINGLE: TIVICAY + EPZICOM n = 36 and ATRIPLA: n = 36). |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| a Subjects on lipid-lowering agents at baseline were excluded from these analyses (19 subjects in each arm in SPRING-2, and in SINGLE: TIVICAY + EPZICOM n = 30 and ATRIPLA n = 27). Ninety-four subjects initiated a lipid-lowering agent post-baseline; their last fasted on-treatment values (prior to starting the agent) were used regardless if they discontinued the agent (SPRING-2: TIVICAY n = 9, raltegravir n = 13; SINGLE: TIVICAY + EPZICOM n = 36, ATRIPLA n = 36). |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 Laboratory abnormalities observed in the FLAMINGO trial were generally consistent with observations in SPRING-2 and SINGLE.
 
