@@ -37,7 +37,7 @@ Data analyzed to date from other sources including the APR, clinical trials, and
 
 Data from the birth outcome surveillance study described above and postmarketing sources with more than 1,000 pregnancy outcomes from second and third trimester exposure in pregnant women indicate no evidence of increased risk of adverse birth outcomes.
 
-Lamivudine: Based on prospective reports to the APR of over 12,000 exposures to lamivudine during pregnancy resulting in live births (including over 5,000 exposed in the first trimester), there was no difference between the overall risk of birth defects for lamivudine compared with the background birth defect rate of 2.7% in the U.S. reference population of the MACDP.
+Lamivudine: Based on prospective reports to the APR of over 12,000 exposures to lamivudine during pregnancy resulting in live births (including over 5,000 exposed in the first trimester), there was no difference between the overall risk of birth defects for lamivudine compared with the background birth defect rate of 2.7% in the U.S. reference population of the Metropolitan Atlanta Congenital Defects Program (MACDP).
 The prevalence of defects in live births was 3.0% (95% CI: 2.6% to 3.5%) following first trimester exposure to lamivudine-containing regimens and 2.9% (95% CI: 2.5%, 3.3%) following second/third trimester exposure to lamivudine-containing regimens.
 
 Lamivudine pharmacokinetics were studied in pregnant women during 2 clinical trials conducted in South Africa.

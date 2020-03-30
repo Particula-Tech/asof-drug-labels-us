@@ -7,7 +7,7 @@ Information regarding potential drug-drug interactions with other antiretroviral
 
 ## 7.2 Potential for DOVATO to Affect Other Drugs
 
-Dolutegravir, a component of DOVATO, inhibits the renal organic cation transporters (OCT)2 and multidrug and toxin extrusion transporter (MATE)1; thus, it may increase plasma concentrations of drugs eliminated via OCT2 or MATE1 such as dofetilide and metformin [see Contraindications (4), Drug Interactions (7.4), Clinical Pharmacology (12.3)].
+Dolutegravir, a component of DOVATO, inhibits the renal OCT2 and multidrug and toxin extrusion transporter (MATE)1; thus, it may increase plasma concentrations of drugs eliminated via OCT2 or MATE1 such as dofetilide, dalfampridine, and metformin [see Contraindications (4), Drug Interactions (7.4), Clinical Pharmacology (12.3)].
 
 ## 7.3 Potential for Other Drugs to Affect the Components of DOVATO
 
@@ -33,10 +33,11 @@ Established and Other Potentially Significant Drug Interactions for DOVATO: Alte
 | Antiarrhythmic: Dofetilide | ↑Dofetilide | Coadministration is contraindicated with DOVATO [see Contraindications (4)]. |
 | Anticonvulsant:Carbamazepinea | ↓Dolutegravir | An additional dolutegravir 50-mg dose should be taken, separated by 12 hours from DOVATO [see Dosage and Administration (2.3)]. |
 | Anticonvulsants:OxcarbazepinePhenytoin Phenobarbital | ↓Dolutegravir | Avoid coadministration with DOVATO because there are insufficient data to make dosing recommendations. |
-| Antidiabetic:Metformina | ↑Metformin | Refer to the prescribing information of metformin for assessing the benefit and risk of concomitant use of DOVATO and metformin. |
+| Antidiabetic:Metformina | ↑Metformin | Refer to the prescribing information for metformin for assessing the benefit and risk of concomitant use of DOVATO and metformin. |
 | Antimycobacterial:Rifampina | ↓Dolutegravir | An additional 50-mg dose of dolutegravir should be taken, separated by 12 hours from DOVATO [see Dosage and Administration (2.3)]. |
-| Herbal Product:St. John’s wort (Hypericum perforatum) | ↓Dolutegravir | Avoid coadministration with DOVATO because there are insufficient data to make dosing recommendations. |
+| Herbal product:St. John’s wort (Hypericum perforatum) | ↓Dolutegravir | Avoid coadministration with DOVATO because there are insufficient data to make dosing recommendations. |
 | Medications containing polyvalent cations(e.g., Mg or Al):Cation-containing antacidsa or laxatives SucralfateBuffered medications | ↓Dolutegravir | Administer DOVATO 2 hours before or 6 hours after taking medications containing polyvalent cations. |
 | Oral calcium and iron supplements, including multivitamins containing calcium or irona | ↓Dolutegravir | When taken with food, DOVATO and supplements or multivitamins containing calcium or iron can be taken at the same time. Under fasting conditions, DOVATO should be taken 2 hours before or 6 hours after taking supplements containing calcium or iron. |
+| Potassium channel blocker:Dalfampridine | ↑Dalfampridine | Elevated levels of dalfampridine increase the risk of seizures. The potential benefits of taking dalfampridine concurrently with DOVATO should be considered against the risk of seizures in these patients. |
 | Sorbitola | ↓Lamivudine | When possible, avoid use of sorbitol-containing medicines with DOVATO. |
 | ↑ = Increase, ↓ = Decrease. a See Clinical Pharmacology (12.3) Table 8 or Table 9 for magnitude of interaction. |  |  |
