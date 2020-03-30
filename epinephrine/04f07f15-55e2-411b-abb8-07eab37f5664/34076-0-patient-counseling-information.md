@@ -17,12 +17,18 @@ Advise patients to seek immediate medical care in conjunction with administratio
 Instruct caregivers to hold the leg of young children firmly in place and limit movement prior to and during injection.
 Lacerations, bent needles, and embedded needles have been reported when epinephrine injection, 0.3 mg and epinephrine injection, 0.15 mg have been injected into the thigh of young children who are uncooperative and kick or move during an injection [see Warnings and Precautions (5.2)].
 
+Instruct patients and/or caregivers to throw away the blue safety release immediately after using epinephrine injection, 0.3 mg and epinephrine injection, 0.15 mg.
+This small part may pose a choking hazard for children.
+
 Complete patient information, including dosage, directions for proper administration and precautions can be found inside each epinephrine injection, 0.3 mg or epinephrine injection, 0.15 mg carton.
 A printed label on the surface of epinephrine injection, 0.3 mg and epinephrine injection, 0.15 mg shows instructions for use and a diagram depicting the injection process.
 
 Instruct patients and/or caregivers to use and practice with the Trainer to familiarize themselves with the use of epinephrine injection, 0.3 mg and epinephrine injection, 0.15 mg in an allergic emergency.
 The Trainer may be used multiple times.
 A Trainer device is provided in 2-Pack cartons.
+
+Instruct patients and/or caregivers to immediately place the blue safety release back on the Trainer and reset it after practicing.
+This small part may pose a choking hazard for children.
 
 Adverse Reactions
 
@@ -50,9 +56,15 @@ Epinephrine is light sensitive and should be protected from light.
 The auto-injector is not waterproof.
 Instruct patients that epinephrine injection, 0.3 mg and epinephrine injection, 0.15 mg must be used or properly disposed once the blue safety release is removed or after use [see Storage and Handling (16.2)].
 
+Advise patients and caregivers to promptly dispose of medicines that are no longer needed.
+Dispose of expired, unwanted, or unused epinephrine injection, 0.3 mg and epinephrine injection, 0.15 mg auto-injectors in an FDA-cleared sharps container.
+Instruct patients not to dispose epinephrine injection, 0.3 mg or epinephrine injection, 0.15 mg in their household trash.
+Instruct patients that if they do not have a FDA-cleared sharps disposal container, they may use a household container that is made of a heavy-duty plastic, can be closed with a tight-fitting and puncture-resistant lid without sharps being able to come out, upright and stable during use, leak-resistant, and properly labeled to warn of hazardous waste inside the container.
+Inform patients that they can visit the FDA website for additional information on disposal of unused medicines.
+
 Complete patient information, including dosage, directions for proper administration and precautions can be found inside each epinephrine injection, 0.3 mg (Auto-Injector) and epinephrine injection, 0.15 mg (Auto-Injector) carton.
 
 Manufactured For: Teva Pharmaceuticals USA, Inc. North Wales, PA 19454
 
 Rev.
-A 9/2018
+B 2/2020

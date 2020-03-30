@@ -22,4 +22,6 @@ DO NOT REFRIGERATE.
 Before using, check to make sure the solution in the auto-injector is clear and colorless.
 Replace the auto-injector if the solution is discolored (pinkish or darker than slightly yellow) or if it contains a precipitate.
 
+Properly dispose all used, unwanted or expired epinephrine injection, 0.3 mg and epinephrine injection, 0.15 mg auto-injectors [see Patient Counseling Information (17)].
+
 KEEP THIS AND ALL MEDICATIONS OUT OF THE REACH OF CHILDREN.
