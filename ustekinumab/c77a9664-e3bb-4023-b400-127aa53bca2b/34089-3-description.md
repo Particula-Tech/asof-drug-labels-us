@@ -1,11 +1,11 @@
 # 11 DESCRIPTION
 
-Ustekinumab is a human IgG1κ monoclonal antibody against the p40 subunit of the IL-12 and IL-23 cytokines.
-Using DNA recombinant technology, ustekinumab is produced in a well characterized recombinant cell line and is purified using standard bio-processing technology.
+Ustekinumab, a human IgG1κ monoclonal antibody, is a human interleukin-12 and -23 antagonist.
+Using DNA recombinant technology, ustekinumab is produced in a murine cell line (Sp2/0).
 The manufacturing process contains steps for the clearance of viruses.
 Ustekinumab is comprised of 1326 amino acids and has an estimated molecular mass that ranges from 148,079 to 149,690 Daltons.
 
-STELARA® (ustekinumab) Injection is a sterile, preservative-free, colorless to light yellow solution and may contain a few small translucent or white particles with pH of 5.7– 6.3.
+STELARA® (ustekinumab) injection is a sterile, preservative-free, colorless to light yellow solution and may contain a few small translucent or white particles with pH of 5.7– 6.3.
 
 STELARA® for Subcutaneous Use
 

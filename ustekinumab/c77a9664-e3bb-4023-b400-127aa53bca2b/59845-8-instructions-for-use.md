@@ -21,8 +21,8 @@ Important information:
     If you receive two 45 mg prefilled syringes for a 90 mg dose, you will need to give yourself two injections, one right after the other.
 - Children 12 years of age and older with psoriasis who weigh 132 pounds or more may use a prefilled syringe.
 - Check the expiration date on the prefilled syringe and carton.
-  If the expiration date has passed, do not use it.
-  If the expiration date has passed call your doctor or pharmacist, or call 1-800-JANSSEN (1-800-526-7736) for help.
+  If the expiration date has passed or if the prefilled syringe has been kept at room temperature up to 30ºC (86ºF) for longer than a maximum single period of 30 days or if the prefilled syringe has been stored above 30ºC (86ºF), do not use it.
+  If the expiration date has passed or if the prefilled syringe has been stored above 30ºC (86ºF), call your doctor or pharmacist, or call 1-800-JANSSEN(1-800-526-7736) for help.
 - Make sure the syringe is not damaged.
 - The needle cover on the prefilled syringe contains latex.
   Do not handle the needle cover on the STELARA prefilled syringe if you are allergic to latex.
@@ -152,7 +152,7 @@ Prefilled Syringe Manufactured by: Janssen Biotech, Inc., Horsham, PA 19044, US 
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
-Revised: 10/2019
+Revised: 03/2020
 
 © 2012 Janssen Pharmaceutical Companies
 
@@ -339,6 +339,6 @@ Vial Manufactured by: Janssen Biotech, Inc., Horsham, PA 19044, US License No. 1
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
-Revised: 11/2019
+Revised: 03/2020
 
 © 2012, 2016 Janssen Pharmaceutical Companies

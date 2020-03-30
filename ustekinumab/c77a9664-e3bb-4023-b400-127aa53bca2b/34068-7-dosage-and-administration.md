@@ -26,7 +26,7 @@ Table 1: Recommended Dose of STELARA® for Subcutaneous Injection in Adolescent 
 
 For adolescent patients weighing less than 60 kg, the administration volume for the recommended dose (0.75 mg/kg) is shown in Table 2; withdraw the appropriate volume from the single-dose vial.
 
-Table 2: Injection volumes of STELARA® 45 mg/0.5mL single-dose vials for adolescent psoriasis patients less than 60 kg
+Table 2: Injection volumes of STELARA® 45 mg/0.5 mL single-dose vials for adolescent psoriasis patients less than 60 kg
 
 | Body Weight (kg) at the time of dosing | Dose (mg) | Volume of injection (mL) |
 | --- | --- | --- |
@@ -72,7 +72,7 @@ Subcutaneous Adult Dosage Regimen
 
 Intravenous Induction Adult Dosage Regimen
 
-A single intravenous infusion dose of STELARA® using the weight-based dosage regimen specified in Table 3 [see Instructions for dilution of STELARA® 130 mg vial for intravenous infusion (2.6)].
+A single intravenous infusion dose of STELARA® dosage regimen specified in Table 3 [see Instructions for dilution of STELARA® 130 mg vial for intravenous infusion (2.6)].
 
 Table 3: Initial Intravenous Dosage of STELARA®
 

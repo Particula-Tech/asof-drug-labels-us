@@ -1,8 +1,8 @@
 # PRINCIPAL DISPLAY PANEL - 45 mg/0.5 mL Vial Carton
 
-Single-dose vial– Discard unused portion
+Single-dose prefilled syringe– Discard unused portion
 
-NDC 57894-060-02
+NDC 57894-060-03
 
 Stelara® (ustekinumab) Injection
 
