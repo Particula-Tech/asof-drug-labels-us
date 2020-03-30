@@ -1,0 +1,23 @@
+{
+  "application_numbers": [
+    "ANDA211671"
+  ],
+  "inn": "milrinone",
+  "labeler": "Meitheal Pharmaceuticals Inc.",
+  "package_ndcs": [
+    "71288-200-10",
+    "71288-200-11",
+    "71288-200-20",
+    "71288-200-21",
+    "71288-200-50"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "milrinone lactate",
+      "name": "Milrinone Lactate"
+    }
+  ],
+  "setid": "6c6b69f9-e229-4a93-a108-9eafdab614f0",
+  "source": "dailymed"
+}
