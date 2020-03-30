@@ -36,9 +36,9 @@ The most common (≥ 2% more frequent than in the 50 mg/day group) adverse react
 
 Table 5 represents the incidence of adverse reactions occurring in at least 3% of the adult and pediatric patients treated with 400 mg/day immediate-release topiramate and occurring with greater incidence than 50 mg/day topiramate.
 
-Table 5: Adverse Reactions in the High Dose Group As Compared to the Low Dose Group, in Monotherapy Epilepsy Trials in Adult and Pediatric Patients
+Table 5: Adverse Reactions in the High Dose Group as Compared to the Low Dose Group, in Monotherapy Epilepsy Trials (Study 1) in Adult and Pediatric Patients
 
-| Body System/ Adverse Reaction | (N=74) %- | (N=77) %- | (N=160) %- | (N=159) %- |
+| Body System/ Adverse Reaction | (N=74) % | (N=77) % | (N=160) % | (N=159) % |
 | --- | --- | --- | --- | --- |
 |  | Age Group |  |  |  |
 |  | Pediatric (6 to 15 Years) |  | Adult (Age ≥16 Years) |  |
@@ -56,7 +56,7 @@ Table 5: Adverse Reactions in the High Dose Group As Compared to the Low Dose Gr
 | Hypertonis |  |  | 0 | 3 |
 | Involuntary Muscle contraction | 0 | 3 |  |  |
 | Vertigo | 0 | 3 |  |  |
-| Gastro-intestinal System Disorders |  |  |  |  |
+| Gastro-Intestinal System Disorders |  |  |  |  |
 | Constipation |  |  | 1 | 4 |
 | Diarrhea | 8 | 9 |  |  |
 | Gastritis |  |  | 0 | 3 |
@@ -162,7 +162,7 @@ Table 6: Most Common Adverse Reactions in Pooled Placebo-Controlled, Adjunctive 
 | Aggressive reaction | 2 | 3 |
 | Emotional lability | 1 | 3 |
 | Cognitive problems | 1 | 3 |
-| Reproductive Disorders, Female |  |  |
+| Reproductive Disorders |  |  |
 | Breast pain | 2 | 4 |
 | Respiratory System Disorders |  |  |
 | Rhinitis | 6 | 7 |
@@ -184,7 +184,7 @@ The most common adverse reactions in the controlled clinical trial that occurred
 
 Table 7 presents the incidence of adverse reactions that occurred in at least 3% of pediatric patients 2 to 15 years of age receiving 5 mg to 9 mg/kg/day (recommended dose range) of immediate-release topiramate and was greater than placebo incidence.
 
-Table 7: Adverse Reactions in Pooled Placebo-Controlled, Adjunctive Epilepsy Trials in Pediatric Patients 2 to 15 Years of AgePatients in these add-on/adjunctive trials were receiving 1 to 2 concomitant antiepileptic drugs in addition to topiramate or placebo,Values represent the percentage of patients reporting a given adverse reaction.
+Table 7: Adverse Reactions in Pooled Placebo-Controlled, Adjunctive Epilepsy Trials in Pediatric Patients 2 to 15 Years of AgePatients in these adjunctive trials were receiving 1 to 2 concomitant antiepileptic drugs in addition to topiramate or placebo,Values represent the percentage of patients reporting a given adverse reaction.
 Patients may have reported more than one adverse reaction during the study and can be included in more than one adverse reaction category
 
 | Adverse Reaction | (N=101) | (N=98) |
@@ -235,10 +235,10 @@ Migraine
 
 Adults
 
-In the four multicenter, randomized, double-blind, placebo-controlled, parallel group migraine prophylaxis clinical trials (which included 35 adolescent patients age 12 to 15 years of age), most of the adverse reactions with topiramate were mild or moderate in severity.
+In the four multicenter, randomized, double-blind, placebo-controlled, parallel group migraine clinical trials for the preventive treatment of migraine (which included 35 adolescent patients age 12 to 15 years of age), most of the adverse reactions with topiramate were mild or moderate in severity.
 Most adverse reactions occurred more frequently during the titration period than during the maintenance period.
 
-The most common adverse reactions with immediate-release topiramate 100 mg in migraine prophylaxis clinical trials of predominantly adults that were seen at an incidence higher (≥5%) than in the placebo group were paresthesia, anorexia, weight loss, taste perversion, diarrhea, difficulty with memory, hypoesthesia, and nausea (see Table 8).
+The most common adverse reactions with immediate-release topiramate 100 mg in clinical trials for the preventive treatment of migraine of predominantly adults that were seen at an incidence higher (≥5%) than in the placebo group were paresthesia, anorexia, weight loss, taste perversion, diarrhea, difficulty with memory, hypoesthesia, and nausea (see Table 8).
 
 Table 8 includes those adverse reactions that occurred in the placebo-controlled trials where the incidence in any immediate-release topiramate treatment group was at least 3% and was greater than that for placebo patients.
 The incidence of some adverse reactions (e.g., fatigue, dizziness, somnolence, difficulty with memory, difficulty with concentration/attention) was dose-related and greater at higher than recommended topiramate dosing (200 mg daily) compared to the incidence of these adverse reactions at the recommended dosing (100 mg daily).
@@ -312,16 +312,16 @@ Mean changes of 0%, -2%, -3%, and -4% were seen for the placebo group, immediate
 
 Pediatric Patients 12 to 17 Years of Age
 
-In five, randomized, double-blind, placebo-controlled, parallel group migraine prophylaxis clinical trials, most of the adverse reactions with immediate-release topiramate occurred more frequently during the titration period than during the maintenance period.
+In five, randomized, double-blind, placebo-controlled, parallel group clinical trials for the preventive treatment of migraine, most of the adverse reactions with immediate-release topiramate occurred more frequently during the titration period than during the maintenance period.
 Among adverse reactions with onset during titration, approximately half persisted into the maintenance period.
 
-In four, fixed-dose, double-blind migraine prophylaxis clinical trials in immediate-release topiramate-treated pediatric patients 12 to 17 years of age, the most common adverse reactions immediate-release topiramate 100 mg that were seen at an incidence higher (≥ 5%) than in the placebo group were: paresthesia, upper respiratory tract infection, anorexia, and abdominal pain (see Table 9).
+In four, fixed-dose, double-blind clinical trials for the preventive treatment of migraine in immediate-release topiramate-treated pediatric patients 12 to 17 years of age, the most common adverse reactions immediate-release topiramate 100 mg that were seen at an incidence higher (≥ 5%) than in the placebo group were: paresthesia, upper respiratory tract infection, anorexia, and abdominal pain (see Table 9).
 Table 9 shows adverse reactions from the pediatric trial (Study 13) in which 103 pediatric patients were treated with placebo or 50 mg or 100 mg of immediate-release topiramate, and three predominantly adult trials in which 49 pediatric patients (12 to 17 years of age) were treated with placebo or 50 mg, 100 mg, or 200 mg of immediate-release topiramate [see Clinical Studies (14.5)].
 Table 9 also shows adverse reactions in pediatric patients in the controlled migraine trials when the incidence in an immediate-release topiramate dose group was at least 5% or higher and greater than the incidence of placebo.
 Many adverse reactions shown in Table 9 indicated a dose-dependent relationship.
 The incidence of some adverse reactions (e.g., allergy, fatigue, headache, anorexia, insomnia, somnolence, and viral infection) was dose-related and greater at higher than recommended immediate-release topiramate dosing (200 mg daily) compared to the incidence of these adverse reactions at the recommended dose (100 mg daily).
 
-Table 9: Adverse Reactions in Pooled, Double-Blind Migraine Prophylaxis Studies in Pediatric Patients 12 to 17 Years of Age35 adolescent patients aged 12 to <16 years were also included in adverse reaction assessment for adults.,Incidence is based on the number of subjects experiencing at least 1 adverse event, not the number of events.,Included studies MIG-3006, MIGR-001, MIGR-002 and MIGR-003
+Table 9: Adverse Reactions in Pooled, Double-Blind Studies for the Preventive Treatment of Migraine in Pediatric Patients 12 to 17 Years of Age35 adolescent patients aged 12 to <16 years were also included in adverse reaction assessment for adults.,Incidence is based on the number of subjects experiencing at least 1 adverse event, not the number of events.,Included studies MIG-3006, MIGR-001, MIGR-002 and MIGR-003
 
 | Body System/ Adverse Reaction | (N=45) % | (N=46) % | (N=48) % |
 | --- | --- | --- | --- |
@@ -333,7 +333,7 @@ Table 9: Adverse Reactions in Pooled, Double-Blind Migraine Prophylaxis Studies 
 | Central & Peripheral Nervous System Disorders |  |  |  |
 | Paresthesia | 7 | 20 | 19 |
 | Dizziness | 4 | 4 | 6 |
-| Gastrointestinal System Disorders |  |  |  |
+| Gastro-Intestinal System Disorders |  |  |  |
 | Abdominal pain | 9 | 7 | 15 |
 | Nausea | 4 | 4 | 8 |
 | Metabolic and Nutritional Disorders |  |  |  |
@@ -379,12 +379,12 @@ Controlled trials of adjunctive topiramate treatment of adults for partial-onset
 
 Pediatric Patients
 
-In pediatric patients (1–24 months) receiving adjunctive topiramate for partial onset seizures, there was an increased incidence for an increased result (relative to normal analyte reference range) associated with topiramate (vs placebo) for the following clinical laboratory analytes: creatinine, BUN, alkaline phosphatase, and total protein.
+In pediatric patients (1 to 24 months) receiving adjunctive topiramate for partial-onset seizures, there was an increased incidence for an increased result (relative to normal analyte reference range) associated with topiramate (vs placebo) for the following clinical laboratory analytes: creatinine, BUN, alkaline phosphatase, and total protein.
 The incidence was also increased for a decreased result for bicarbonate (i.e., metabolic acidosis), and potassium with immediate-release (vs placebo) [see Use in Specific Populations (8.4)].
 QUDEXY XR is not indicated for partial-onset seizures in pediatric patients less than 2 years of age.
 
-In pediatric patients (ranging from 6–17 years of age) receiving immediate-release topiramate for migraine prophylaxis, there was an increased incidence for an increased result (relative to normal analyte reference range) associated with immediate-release topiramate (vs placebo) for the following clinical laboratory analytes: creatinine, BUN, uric acid, chloride, ammonia, alkaline phosphatase, total protein, platelets, and eosinophils, The incidence was also increased for a decreased result for phosphorus, bicarbonate, total white blood count, and neutrophils [see Use in Specific Populations (8.4)].
-QUDEXY XR is not indicated for prophylaxis of migraine headache in pediatric patients less than 12 years of age.
+In pediatric patients (ranging from 6 to 17 years of age) receiving immediate-release topiramate for the preventive treatment of migraine, there was an increased incidence for an increased result (relative to normal analyte reference range) associated with immediate-release topiramate (vs placebo) for the following clinical laboratory analytes: creatinine, BUN, uric acid, chloride, ammonia, alkaline phosphatase, total protein, platelets, and eosinophils, The incidence was also increased for a decreased result for phosphorus, bicarbonate, total white blood count, and neutrophils [see Use in Specific Populations (8.4)].
+QUDEXY XR is not indicated for the preventive treatment of migraine in pediatric patients less than 12 years of age.
 
 ## 6.2 Clinical Trials Experience With QUDEXY XR
 
@@ -421,7 +421,7 @@ Table 10: Incidence (≥2%) of Adverse Reactions in Placebo-Controlled Adjunctiv
 
 In the controlled clinical study using QUDEXY XR, 8.9% of patients who received QUDEXY XR and 4.0% who received placebo discontinued as a result of adverse reactions.
 
-## 6.3 Post-marketing Experience
+## 6.3 Postmarketing Experience
 
 The following adverse reactions have been identified during post-approval use of immediate-release topiramate.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
@@ -432,7 +432,7 @@ Gastrointestinal System Disorders: hepatic failure (including fatalities), hepat
 
 Skin and Appendage Disorders: bullous skin reactions (including erythema multiforme, Stevens-Johnson syndrome, toxic epidermal necrolysis), pemphigus
 
-Urinary System Disorders: kidney stones [see Warnings and Precautions (5.10)]
+Urinary System Disorders: kidney stones, nephrocalcinosis [see Warnings and Precautions (5.4, 5.10)]
 
 Vision Disorders: acute myopia, secondary angle closure glaucoma [see Warnings and Precautions (5.1)], maculopathy
 
