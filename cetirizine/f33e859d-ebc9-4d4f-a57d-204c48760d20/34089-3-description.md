@@ -1,6 +1,6 @@
 # 11 DESCRIPTION
 
-Cetirizine hydrochloride, the active component of QUZYTTIR, is a selective histamine-1 (H1)receptor antagonist.
+Cetirizine hydrochloride, the active component of QUZYTTIR, is a selective histamine-1 (H1) receptor antagonist.
 The chemical name is (±) –[2-[4-[(4-chlorophenyl)phenylmethyl]-1- piperzinyl] ethoxy]acetic acid, dihydrochloride.
 Cetirizine hydrochloride is a racemic compound with an empirical formula of C21H25ClN2O3•2HCl.
 The molecular weight is 461.82 and the chemical structure is shown below:

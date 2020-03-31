@@ -85,7 +85,7 @@ In pediatric patients aged 2 to 5 years who received 5 mg oral tablets of cetiri
 Based on cross-study comparisons, the weight-normalized apparent total body clearance was 81 to 111% greater and the elimination half-life was 33 to 41% shorter in this pediatric population than in adults.
 In pediatric patients aged 6 to 23 months who received a single dose of 0.25 mg/kg cetirizine hydrochloride oral solution (mean dose 2.3 mg), the mean Cmax was 390 ng/mL.
 Based on cross-study comparisons, the weight-normalized, apparent total body clearance was 304% greater and the elimination half-life was 63% shorter in this pediatric population compared to adults.
-The average AUC (0-t) in children 6 months to <less than 2 years of age receiving the maximum dose of cetirizine hydrochloride oral solution (2.5 mg twice a day) is expected to be two-fold higher than that observed in adults receiving a dose of 10 mg cetirizine hydrochloride oral tablets once a day.
+The average AUC (0-t) in children 6 months to less than 2 years of age receiving the maximum dose of cetirizine hydrochloride oral solution (2.5 mg twice a day) is expected to be two-fold higher than that observed in adults receiving a dose of 10 mg cetirizine hydrochloride oral tablets once a day.
 
 Male and Female Patients: The effect of gender of cetirizine pharmacokinetics has not been adequately studied.
 

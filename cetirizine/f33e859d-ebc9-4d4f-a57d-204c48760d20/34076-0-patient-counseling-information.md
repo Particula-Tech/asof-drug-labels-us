@@ -1,6 +1,6 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-Somnolence/sedation
+Somnolence/Sedation
 
 Inform patients that somnolence has occurred with administration of QUZYTTIR.
 Instruct patients to exercise caution when driving a car or operating potentially dangerous machinery.
@@ -10,6 +10,6 @@ QUZYTTIR™ is a trademark of TerSera Therapeutics LLC or its affiliates.
 
 Manufactured by: Pfizer Rocky Mount, NC 27801
 
-Distributed by: TerSera Therapeutics LLC, Lake Forest, IL 60045 ©2019 TerSera Therapeutics LLC
+Distributed by: TerSera Therapeutics LLC, Deerfield, IL 60015 ©2020 TerSera Therapeutics LLC
 
 U.S. Patent Numbers: 9,119,771; 8,263,581; 8,513,259; 8,314,083; 9,180,090

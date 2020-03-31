@@ -28,7 +28,7 @@ Risk Summary
 
 Cetirizine hydrochloride has been reported to be present in human breast milk.
 In mice and beagle dogs, studies indicated that cetirizine hydrochloride was excreted in milk (See Data).
-QUZYTTIR When a drug is present in animal milk, it is likely the drug will be present in human milk.
+When a drug is present in animal milk, it is likely the drug will be present in human milk.
 The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for QUZYTTIR and any potential adverse effects on the breastfed child from QUZYTTIR or from the underlying maternal condition.
 
 Data

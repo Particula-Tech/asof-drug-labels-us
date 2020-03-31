@@ -4,6 +4,7 @@ QUZYTTIR (cetirizine hydrochloride injection), 10 mg/mL, pH between 4.5 to 6.5, 
 The following packaging configuration is available:
 
 - NDC 70720-100-01: 10 mg/mL cetirizine hydrochloride single-use vial
+- NDC 70720-100-10: Carton containing 1 single-use vial (10 mg/mL cetirizine hydrochloride)
 - NDC 70720-100-25: Carton containing 25 single-use vials (10 mg/mL cetirizine hydrochloride)
 
 Storage and Handling:

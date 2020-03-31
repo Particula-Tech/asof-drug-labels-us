@@ -20,6 +20,22 @@ Carton of 25
 
 Rx only
 
+Principal Display Panel – Carton Label
+
+NDC 70720-100-10 Rx only
+
+Quzyttir™
+
+Cetirizine HCl Injection
+
+10 mg/mL
+
+For Intravenous Use Only
+
+Single-Dose Vial - Discard Unused Portion
+
+1 mL Single-Dose Vial
+
 Principal Display Panel – Vial Label
 
 NDC 70720-100-01
