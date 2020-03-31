@@ -95,3 +95,21 @@ Dispense with Medication Guide enclosed or provided separately
 30 Packets
 
 Novartis
+
+PRINCIPAL DISPLAY PANEL
+
+NDC 0078-0697-61
+
+Rx only
+
+PROMACTA®
+
+(eltrombopag) for Oral Suspension
+
+25 mg
+
+Dispense with Medication Guide enclosed or provided separately.
+
+30 Packets
+
+NOVARTIS
