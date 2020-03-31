@@ -1,11 +1,12 @@
 {
   "application_numbers": [
-    "NDA208673"
+    "BLA208673"
   ],
   "inn": "insulin-glargine",
   "labeler": "Sanofi-Aventis U.S. LLC",
   "package_ndcs": [
     "0024-5761-01",
+    "0024-5761-02",
     "0024-5761-05"
   ],
   "products": [
