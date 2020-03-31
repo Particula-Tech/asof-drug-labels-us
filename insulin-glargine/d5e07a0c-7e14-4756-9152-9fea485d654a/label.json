@@ -1,11 +1,12 @@
 {
   "application_numbers": [
-    "NDA021081"
+    "BLA021081"
   ],
   "inn": "insulin-glargine",
   "labeler": "sanofi-aventis U.S. LLC",
   "package_ndcs": [
     "0088-2219-00",
+    "0088-2219-01",
     "0088-2219-05",
     "0088-2220-33",
     "0088-2220-34"
