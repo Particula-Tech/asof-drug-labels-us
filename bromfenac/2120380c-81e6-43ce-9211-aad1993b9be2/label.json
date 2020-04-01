@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA211029"
+  ],
+  "inn": "bromfenac",
+  "labeler": "Gland Pharma Limited",
+  "package_ndcs": [
+    "68083-313-01"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION/ DROPS",
+      "generic": "bromfenac",
+      "name": "BROMFENAC"
+    }
+  ],
+  "setid": "2120380c-81e6-43ce-9211-aad1993b9be2",
+  "source": "dailymed"
+}
