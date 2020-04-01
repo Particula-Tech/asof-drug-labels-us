@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA208040"
+  ],
+  "inn": "dabigatran-etexilate",
+  "labeler": "Ascend Laboratories, LLC",
+  "package_ndcs": [
+    "67877-474-60",
+    "67877-475-60"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE, COATED PELLETS",
+      "generic": "dabigatran etexilate",
+      "name": "Dabigatran Etexilate"
+    }
+  ],
+  "setid": "3a8ec82a-c367-40dc-9302-e1896fcb05ea",
+  "source": "dailymed"
+}
