@@ -48,6 +48,6 @@ Distributed by:
 
 Ascend Laboratories, LCC
 
-Parsippany, NJ 07054 Revised: November, 2017
+Parsippany, NJ 07054 Revised: August,2019
 
-PT 1702-07
+PT 3365
