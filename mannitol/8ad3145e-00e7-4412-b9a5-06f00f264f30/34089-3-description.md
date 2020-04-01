@@ -1,6 +1,6 @@
-# DESCRIPTION
+# 11 DESCRIPTION
 
-Mannitol intravenous (Mannitol Injection, USP) is a sterile, nonpyrogenic solution of mannitol in water for injection available in a concentration of 25% in a fliptop vial for administration by intravenous infusion only.
+Mannitol Injection, USP is a sterile, nonpyrogenic solution of mannitol in water for injection available in a fliptop vial for intravenous administration as an osmotic diuretic.
 
 The content and characteristics are as follows:
 
@@ -8,12 +8,9 @@ The content and characteristics are as follows:
 | --- | --- | --- | --- |
 | 25 | 25 | 1372 | 5.9 (4.5 to 7.0) |
 
-The solution contains no bacteriostat, antimicrobial agent or added buffer (except for pH adjustment) and is intended only as a single-dose injection.
-When smaller doses are required the unused portion should be discarded.
-
-Mannitol Injection, USP is a parenteral obligatory osmotic diuretic.
+The solution contains no bacteriostat, antimicrobial agent, or added buffer (except for pH adjustment) and is intended only as a single-dose injection.
 
 Mannitol, USP is chemically designated D-mannitol (C6H14O6), a white crystalline powder or free-flowing granules freely soluble in water.
 It has the following structural formula:
 
-Water for Injection, USP is chemically designated H20.
+Water for Injection, USP is chemically designated H2O.

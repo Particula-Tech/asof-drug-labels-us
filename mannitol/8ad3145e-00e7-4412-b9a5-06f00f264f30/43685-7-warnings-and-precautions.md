@@ -1,51 +1,88 @@
-# WARNINGS
+# 5 WARNINGS AND PRECAUTIONS
 
-1. Renal complications, including irreversible renal failure have been reported in patients receiving mannitol.
-   Reversible, oliguric acute kidney injury (AKI) has occurred in patients with normal pretreatment renal function who received mannitol.
-   Patients with pre-existing renal disease, patients with conditions that put them at risk for renal failure, or those receiving potentially nephrotoxic drugs or other diuretics, are at increased risk for renal failure.
-   Avoid concomitant administration of nephrotoxic drugs (e.g., aminoglycosides) or other diuretics with mannitol (see PRECAUTIONS).
-   If urine output declines during mannitol infusion, the patient's clinical status should be closely reviewed and mannitol infusion suspended if necessary.
-2. The obligatory diuretic response following rapid infusion of 25% mannitol may further aggravate pre-existing hemoconcentration.
-   Excessive loss of water and electrolytes may lead to serious imbalances.
-   Serum sodium and potassium should be carefully monitored during mannitol administration.
-3. Accumulation of mannitol may result in overexpansion of the extracellular fluid which may intensify existing or latent congestive heart failure.
-4. Excessive loss of water and electrolytes may lead to serious imbalances.
-   With continued administration of mannitol, loss of water in excess of electrolytes can cause hypernatremia.
-   Electrolyte measurements, including sodium and potassium are therefore of vital importance in monitoring the infusion of mannitol.
-5. Osmotic nephrosis, a reversible vacuolization of the tubules of no known clinical significance, may proceed to severe irreversible nephrosis, so that the renal function must be closely monitored during mannitol infusion.
-6. Mannitol injection may increase cerebral blood flow and the risk of postoperative bleeding in neurosurgical patients.
-7. For intravenous use only.
-   Do not administer intramuscularly or subcutaneously.
-   Never add mannitol in whole blood for transfusion.
-8. Mannitol may increase the cerebral blood flow and worsen intracranial hypertension in children who develop a generalized cerebral hyperemia during the first 24 to 48 hours post injury.
+## 5.1 Hypersensitivity Reactions
 
-# PRECAUTIONS
+Serious hypersensitivity reactions, including anaphylaxis, hypotension, and dyspnea resulting in cardiac arrest and death have been reported with Mannitol Injection [see Adverse Reactions (6)].
+Stop the infusion immediately if signs or symptoms of a suspected hypersensitivity reaction develop.
+Initiate appropriate therapeutic countermeasures as clinically indicated.
 
-1. The cardiovascular status of the patient should be carefully evaluated before rapidly administering mannitol since sudden expansion of the extracellular fluid may lead to fulminating congestive heart failure.
-2. Shift of sodium-free intracellular fluid into the extracellular compartment following mannitol infusion may lower serum sodium concentration and aggravate pre-existing hyponatremia.
-3. By sustaining diuresis, mannitol administration may obscure and intensify inadequate hydration or hypovolemia.
-4. Avoid concomitant administration of nephrotoxic drugs (e.g., aminoglycosides) or other diuretics with mannitol.
-5. Electrolyte-free mannitol solutions should not be given conjointly with blood.
-   If it is essential that blood be given simultaneously, at least 20 mEq of sodium chloride should be added to each liter of mannitol solution to avoid pseudoagglutination.
-6. When exposed to low temperatures, solutions of mannitol may crystallize.
-   If crystals are observed, the container should be warmed to redissolve, then cooled to body temperature before administering (see NOTE under HOW SUPPLIED).
-   When infusing 25% mannitol, the administration set should include a filter.
-   Do not infuse mannitol solution if crystals are present.
-7. Do not administer unless solution is clear and container is undamaged.
-   Discard unused portion.
-   Do not administer 25% mannitol if the fliptop vial seal is not intact.
+## 5.2 Renal Complications Including Renal Failure
 
-## Carcinogenesis, Mutagenesis, Impairment of Fertility
+Renal complications, including irreversible renal failure, have been reported in patients receiving mannitol.
 
-Studies with Mannitol Injection (USP) have not been performed to evaluate carcinogenic potential, mutagenic potential or effects on fertility.
+Reversible, oliguric acute kidney injury has occurred in patients with normal pretreatment renal function who received large intravenous doses of mannitol.
+Although the osmotic nephrosis associated with mannitol administration is in principle reversible, osmotic nephrosis in general is known to potentially proceed chronic or even end-stage renal failure.
+Monitor renal function closely, including signs of urine output reduction, during mannitol injection.
 
-## Pregnancy
+Patients with pre-existing renal disease, patients with conditions that put them at risk for renal failure, or those receiving potentially nephrotoxic drugs or other diuretics, are at increased risk for renal failure following administration of Mannitol Injection.
+Avoid concomitant administration of nephrotoxic drugs (e.g., aminoglycosides) or other diuretics with Mannitol Injection, if possible [see Drug Interactions (7)].
 
-Animal reproduction studies have not been conducted with mannitol injection.
-It is also not known whether mannitol injection can cause fetal harm when given to a pregnant woman or can affect reproduction.
-Mannitol injection should be given to a pregnant woman only if clearly needed.
+Patients with oliguric acute kidney injury who subsequently develop anuria while receiving mannitol are at risk of congestive heart failure, pulmonary edema, hypertensive crisis, coma, and death.
 
-## Nursing Mothers
+During and following infusion of Mannitol Injection for the reduction in intracranial pressure, monitor the patient clinically and laboratory tests for changes in fluid and electrolyte status.
+Discontinue Mannitol Injection if renal function worsens [see Warnings and Precautions (5.5)].
 
-It is not known whether this drug is excreted in human milk.
-Because many drugs are excreted in human milk, caution should be exercised when mannitol is administered to a nursing woman.
+## 5.3 Central Nervous System (CNS) Toxicity
+
+CNS toxicity manifested by, e.g., confusion, lethargy, coma, has been reported in patients treated with mannitol, some resulting in death, in particular in the presence of impaired renal function CNS toxicity may result from high serum mannitol concentrations, serum hyperosmolarity resulting in intracellular dehydration within CNS, hyponatremia or other disturbances of electrolyte and acid/base balance secondary to mannitol administration [see Warnings and Precautions (5.4)].
+
+At high concentrations, mannitol may cross the blood brain barrier and interfere with the ability of the brain to maintain the pH of the cerebrospinal fluid especially in the presence of acidosis.
+
+In patients with pre-existing compromise of the blood brain barrier, the risk of increasing cerebral edema (general and focal) associated with repeated or continued use of Mannitol Injection must be individually weighed against the expected benefits.
+
+A rebound increase of intracranial pressure may occur several hours after the infusion.
+Patients with a compromised blood brain barrier are at increased risk.
+
+Concomitant administration of neurotoxic drugs (e.g., aminoglycosides) with Mannitol Injection may potentiate neurotoxicity.
+Avoid concomitant use of neurotoxic drugs, if possible [see Drug Interactions (7.3)].
+
+During and following infusion of Mannitol Injection for the reduction in intracranial pressure, monitor the patient clinically and laboratory tests for changes in fluid and electrolyte status.
+Discontinue Mannitol Injection if CNS toxicity develops [see Warnings and Precautions (5.5)].
+
+## 5.4 Fluid and Electrolyte Imbalances, Hyperosmolarity
+
+Depending on dosage and duration, administration of Mannitol Injection may result in hypervolemia leading to or exacerbating existing congestive heart failure.
+Accumulation of mannitol due to insufficient renal excretion increases the risk of hypervolemia.
+Mannitol-induced osmotic diuresis may cause or worsen dehydration/hypovolemia and hemoconcentration.
+Administration of Mannitol Injection may also cause hyperosmolarity [see Description (11)].
+
+Depending on dosage and duration of administration, electrolyte and acid/base imbalances may also result from transcellular shifts in water and electrolytes, osmotic diuresis, and/or other mechanisms.
+Such imbalances may be severe and potentially fatal.
+
+Imbalances that may result from administration of Mannitol Injection include:
+
+- Hypernatremia, dehydration, and hemoconcentration
+- Hyponatremia, which can lead to headache, nausea, seizures, lethargy, coma, cerebral edema, and death.
+  Acute symptomatic hyponatremic encephalopathy is considered a medical emergency.
+- Hypo/hyperkalemia.
+  The development of electrolyte imbalances (e.g., hyperkalemia, hypokalemia) associated with mannitol administration may result in cardiac adverse reactions in patients receiving drugs that are sensitive to such imbalances (e.g., digoxin, agents that may cause QT prolongation, neuromuscular blocking agents) [see Drug Interactions (7.4)].
+- Other electrolyte disturbances
+- Metabolic acidosis/alkalosis
+
+Pediatric patients less than two years of age, particularly preterm and term neonates, may be at higher risk for fluid and electrolyte abnormalities following administration of Mannitol Injection due to decreased glomerular filtration rate and limited ability to concentrate urine [see Use in Specific Populations (8.4)].
+
+During and following infusion of Mannitol Injection for the reduction in intracranial pressure, monitor fluid and electrolyte status and discontinue Mannitol Injection if imbalances occur [see Warnings and Precautions (5.5)].
+
+## 5.5 Monitoring/Laboratory Tests
+
+During and following infusion of Mannitol Injection for the reduction in intracranial pressure, monitor:
+
+- serum osmolarity, serum electrolytes (including sodium, potassium, calcium and phosphate) and acid/base balance,
+- the osmol gap
+- signs of hypo- or hypervolemia, including urine output
+- renal, cardiac, and pulmonary function
+- intracranial pressure
+
+Discontinue Mannitol Injection if renal, cardiac, or pulmonary status worsens or CNS toxicity develops [see Contraindications (4)].
+
+## 5.6 Infusion Site Reactions
+
+The infusion of hypertonic solutions through a peripheral vein, including Mannitol Injection, may result in peripheral venous irritation, including phlebitis.
+Other severe infusion site reactions, such as compartment syndrome and swelling associated with extravasation, can occur with administration of Mannitol Injection [see Adverse Reactions (6)].
+Mannitol Injection is preferably administered through a central venous catheter [see Dosage and Administration (2.1)].
+
+## 5.7 Interference with Laboratory Tests
+
+High concentrations of mannitol can cause false low results for inorganic phosphorus blood concentrations [see Drug Interactions (7.6)].
+
+Mannitol may produce false positive results in tests for blood ethylene glycol concentrations [see Drug Interactions (7.6)].

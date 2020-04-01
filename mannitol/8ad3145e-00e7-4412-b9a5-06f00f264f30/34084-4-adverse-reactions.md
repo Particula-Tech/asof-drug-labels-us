@@ -1,7 +1,14 @@
-# ADVERSE REACTIONS
+# 6 ADVERSE REACTIONS
 
-Adverse reactions more commonly reported during or after the infusion of mannitol include: Pulmonary congestion, fluid and electrolyte imbalance, acidosis, electrolyte loss, dryness of mouth, thirst, marked diuresis, urinary retention, edema, headache, blurred vision, convulsions, nausea, vomiting, rhinitis, arm pain, skin necrosis, thrombophlebitis, chills, dizziness, urticaria, dehydration, hypotension, tachycardia, fever and angina-like chest pains.
+The following adverse reactions associated with the use mannitol were identified in clinical studies or postmarketing reports.
+Because some of these reactions were reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Reactions which may occur because of the solution or the technique of administration include febrile response, infection at the site of injection, venous thrombosis or phlebitis extending from the site of injection, extravasation and hypervolemia.
-
-If an adverse reaction does occur, discontinue the infusion, evaluate the patient, institute appropriate therapeutic countermeasures and save the remainder of the fluid for examination if deemed necessary.
+| Hypersensitivity reactions: | Cardiac arrest, anaphylaxis, hypotension, dyspnea, hypertension, pyrexia, chills, sweating, cough, musculoskeletal stiffness, myalgia, urticaria/rash, pruritus, generalized pain, discomfort, nausea, vomiting, headache [see Warnings and Precautions (5.1)] |
+| --- | --- |
+| Renal failure: | Acute kidney injury, osmotic nephrosis, anuria, oliguria, urinary retention [see Warnings and Precautions (5.2)] |
+| CNS toxicity: | Coma, seizures, confusion, lethargy, rebound increase in intracranial pressure, headache, dizziness [see Warnings and Precautions (5.3)] |
+| Fluid and electrolyte imbalances: | Metabolic acidosis, dehydration (hypovolemia), hypervolemia, hyponatremia, hypernatremia, hyperkalemia, hypokalemia [see Warnings and Precautions (5.4)] |
+| Infusion site reactions: | Venous thrombosis, thrombophlebitis extending from the site of injection, compartment syndrome and swelling associated with extravasation [see Warnings and Precautions 5.6)] |
+| Cardiac and respiratory disorders: | Tachycardia, angina-like chest pain, congestive heart failure, pulmonary congestion, hypotension, edema, rhinitis |
+| Gastrointestinal disorders: | Dryness of mouth, nausea, vomiting |
+| General disorders: | Thirst |

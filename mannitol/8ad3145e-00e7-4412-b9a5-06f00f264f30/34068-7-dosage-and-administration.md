@@ -1,32 +1,44 @@
-# DOSAGE AND ADMINISTRATION
+# 2 DOSAGE AND ADMINISTRATION
 
-## Reduction of Intracranial Pressure and Brain Mass
+## 2.1 Important Preparation and Administration Instructions
 
-In adults a dose of 0.25 to 2 g/kg body weight as a 15% to 25% solution administered over a period of 30 to 60 minutes; pediatric patients 1 to 2 g/kg body weight or 30 to 60 g/m2 body surface area over a period of 30 to 60 minutes.
-In small or debilitated patients, a dose of 500 mg/kg may be sufficient.
-Careful evaluation must be made of the circulatory and renal reserve prior to and during administration of mannitol at the higher doses and rapid infusion rates.
-Careful attention must be paid to fluid and electrolyte balance, body weight, and total input and output before and after infusion of mannitol.
-Evidence of reduced cerebral spinal fluid pressure must be observed within 15 minutes after starting infusion.
+- Mannitol Injection is for intravenous infusion preferably through a central venous catheter [see Warnings and Precautions (5.6), Description (11)].
+- Prior to the administration of Mannitol Injection, evaluate renal, cardiac, and pulmonary status of the patient and correct fluid and electrolyte imbalances [see Dosage and Administration (2.2)].
+- Do not administer Mannitol Injection simultaneously with blood products or through the same administration set because of the possibility of pseduoagglutination or hemolysis.
+  If it is essential that blood be given simultaneously, at least 20 mEq of sodium chloride should be added to each liter of mannitol solution to avoid pseudoagglutination.
+- Do not transfer Mannitol Injection into polyvinylchloride (PVC) bags; a white flocculent precipitate may form from contact with PVC surfaces.
+- Administer Mannitol Injection using an administration set with a filter to ensure against infusion of mannitol crystals.
 
-## Reduction of Intraocular Pressure
+Preparation
 
-In adults a dose of 0.25 to 2 g/kg body weight as a 15% to 25% solution administered over a period of 30 to 60 minutes; pediatric patients 1 to 2 g/kg body weight or 30 to 60 g/m2 body surface area over a period of 30 to 60 minutes.
-In small or debilitated patients, a dose of 500 mg/kg may be sufficient.
-When used preoperatively, the dose should be given one to one and one-half hours before surgery to achieve maximal reduction of intraocular pressure before operation.
+1. Visually inspect the container before preparation and again before administration.
+   Do not administer unless solution is clear, the container undamaged, and the fliptop vial seal intact.
+2. Crystals may form in Mannitol Injection, especially if the solution is exposed to low temperatures.
+   If crystallization occurs, warm the vial in water at 80°C and periodically shake vigorously to dissolve the crystals.
+   Mannitol Injection may be autoclaved at 121°C for 20 minutes at 15 psi.
+   Cool to body temperature or less before administering.
+   Re-inspect Mannitol Injection for crystals prior to administration.
+   Discard the solution if all the crystals cannot be dissolved.
+3. Remove cover from fliptop vial and cleanse stopper with antiseptic before use.
+4. Additives may be incompatible.
+   Consult with pharmacist, if available.
+5. For single use only; discard unused portion.
 
-## Measurement of Glomerular Filtration Rate (GFR)
+## 2.2 Recommended Dosage
 
-100 mL of a 20% solution (20 g) should be diluted with 180 mL of sodium chloride injection (normal saline) or 200 mL of a 10% solution (20 g) should be diluted with 80 mL of sodium chloride injection (normal saline).
-The resulting 280 mL of 7.2% solution is infused at a rate of 20 mL per minute.
-The urine is collected by catheter for a specific period of time and analyzed for mannitol excreted in mg per minute.
-A blood sample is drawn at the start and at the end of the time period and the concentration of mannitol determined in mg/mL of plasma.
-GFR is the number of mL of plasma that must have been filtered to account for the amount excreted per minute in the urine.
-Normal clearance rates are approximately 125 mL/minute for men; 116 mL/minute for women.
+Prior to administration of Mannitol Injection, evaluate renal, cardiac, and pulmonary status of the patient and correct fluid and electrolyte imbalances.
 
-## Drug Interactions
+The total dosage, concentration, and rate of administration depend on the age, weight, and condition of the patient being treated, including fluid requirement, electrolyte balance, serum osmolality, urinary output, and concomitant therapy.
 
-Additives may be incompatible.
-Consult with pharmacist, if available.
+The following outline of administration and dosage is only a general guide to therapy.
 
-Do not place 25% Mannitol Injection, USP in polyvinylchloride bags; a white flocculent precipitate may form from contact with PVC surfaces.
-Parenteral drug products should be inspected visually for particulate matter and discoloration; whenever container and solution permit (see PRECAUTIONS).
+Reduction of Intracranial Pressure and Treatment of Cerebral Edema
+
+Usually a maximum reduction in intracranial pressure can be achieved with a dose of 0.25 g/kg administered as an intravenous infusion over at least 30 minutes, which may be repeated every six to eight hours.
+During and following infusion of Mannitol Injection, monitor fluid and electrolytes, serum osmolarity, and renal, cardiac, and pulmonary function.
+Discontinue Mannitol Injection if renal, cardiac, or pulmonary status worsens or CNS toxicity develops [see Warnings and Precautions (5.2, 5.3, 5.4, 5.5)].
+
+Reduction of Intraocular Pressure
+
+The recommended dosage is 1.5 to 2 g/kg as a single dose administered as an intravenous infusion over at least 30 minutes.
+When used preoperatively, administer Mannitol Injection 60 to 90 minutes before surgery to achieve maximal reduction of intraocular pressure before operation.
