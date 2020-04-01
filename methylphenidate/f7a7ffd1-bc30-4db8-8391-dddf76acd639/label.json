@@ -1,0 +1,25 @@
+{
+  "application_numbers": [
+    "NDA205831"
+  ],
+  "inn": "methylphenidate",
+  "labeler": "Rhodes Pharmaceuticals",
+  "package_ndcs": [
+    "42858-075-45",
+    "42858-076-45",
+    "42858-077-45",
+    "42858-078-45",
+    "42858-079-45",
+    "42858-080-45",
+    "42858-081-45"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE, EXTENDED RELEASE",
+      "generic": "methylphenidate hydrochloride",
+      "name": "Methylphenidate Hydrochloride"
+    }
+  ],
+  "setid": "f7a7ffd1-bc30-4db8-8391-dddf76acd639",
+  "source": "dailymed"
+}
