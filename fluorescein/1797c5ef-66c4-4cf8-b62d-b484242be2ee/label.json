@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA211039"
+  ],
+  "inn": "fluorescein",
+  "labeler": "Bausch & Lomb Incorporated",
+  "package_ndcs": [
+    "24208-734-05"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION/ DROPS",
+      "generic": "fluorescein sodium and benoxinate hydrochloride",
+      "name": "Fluorescein Sodium and Benoxinate Hydrochloride"
+    }
+  ],
+  "setid": "1797c5ef-66c4-4cf8-b62d-b484242be2ee",
+  "source": "dailymed"
+}
