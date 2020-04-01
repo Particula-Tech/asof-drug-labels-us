@@ -33,7 +33,7 @@ Cystine stones form rapidly, sometimes in 6 months.
 Up to one year or more may be required for any urinary abnormalities to disappear after penicillamine has been discontinued.
 
 Because of rare reports of intrahepatic cholestasis and toxic hepatitis, liver function tests are recommended every 6 months for the duration of therapy.
-In Wilson's disease, these are recommended every three months, at least during the first year of treatment.
+In Wilson's disease, these are recommended every 3 months, at least during the first year of treatment.
 
 Goodpasture's syndrome has occurred rarely.
 The development of abnormal urinary findings associated with hemoptysis and pulmonary infiltrates on x-ray requires immediate cessation of penicillamine.

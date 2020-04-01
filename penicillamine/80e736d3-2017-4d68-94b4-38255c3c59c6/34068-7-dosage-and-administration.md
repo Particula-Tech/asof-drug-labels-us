@@ -35,7 +35,7 @@ In addition to taking CUPRIMINE, patients should drink copiously.
 It is especially important to drink about a pint of fluid at bedtime and another pint once during the night when urine is more concentrated and more acid than during the day.
 The greater the fluid intake, the lower the required dosage of CUPRIMINE.
 
-Dosage must be individualized to an amount that limits cystine excretion to 100-200 mg/day in those with no history of stones, and below 100 mg/day in those who have had stone formation and/or pain.
+Dosage must be individualized to an amount that limits cystine excretion to 100 to 200 mg/day in those with no history of stones, and below 100 mg/day in those who have had stone formation and/or pain.
 Thus, in determining dosage, the inherent tubular defect, the patient's size, age, and rate of growth, and his diet and water intake all must be taken into consideration.
 
 The standard nitroprusside cyanide test has been reported useful as a qualitative measure of the effective dose:† Add 2 mL of freshly prepared 5% sodium cyanide to 5 mL of a 24-hour aliquot of protein-free urine and let stand 10 minutes.
@@ -56,47 +56,23 @@ Two or three months may be required before the first evidence of a clinical resp
 
 When treatment with CUPRIMINE has been interrupted because of adverse reactions or other reasons, the drug should be reintroduced cautiously by starting with a lower dosage and increasing slowly.
 
-### Initial Therapy
+### Initial Therapy — The currently recommended dosage regimen in rheumatoid arthritis begins with a single daily dose of 125 mg or 250 mg, which is thereafter increased at 1- to 3-month intervals, by 125 or 250 mg/day, as patient response and tolerance indicate. If a satisfactory remission of symptoms is achieved, the dose associated with the remission should be continued (see DOSAGE AND ADMINISTRATION, Rheumatoid Arthritis,). If there is no improvement and there are no signs of potentially serious toxicity after 2 to 3 months of treatment with doses of 500 to 750 mg/day, increases of 250 mg/day at 2- to 3-month intervals may be continued until a satisfactory remission occurs (see DOSAGE AND ADMINISTRATION, Rheumatoid Arthritis,) or signs of toxicity develop (see and). If there is no discernible improvement after three to four months of treatment with 1000 to 1500 mg of penicillamine/day, it may be assumed the patient will not respond and CUPRIMINE should be discontinued.
 
-The currently recommended dosage regimen in rheumatoid arthritis begins with a single daily dose of 125 mg or 250 mg, which is thereafter increased at 1- to 3-month intervals, by 125 mg or 250 mg/day, as patient response and tolerance indicate.
-If a satisfactory remission of symptoms is achieved, the dose associated with the remission should be continued (see DOSAGE AND ADMINISTRATION, Rheumatoid Arthritis, Maintenance Therapy).
-If there is no improvement and there are no signs of potentially serious toxicity after 2 to 3 months of treatment with doses of 500-750 mg/day, increases of 250 mg/day at 2- to 3-month intervals may be continued until a satisfactory remission occurs (see DOSAGE AND ADMINISTRATION, Rheumatoid Arthritis, Maintenance Therapy) or signs of toxicity develop (see WARNINGS and PRECAUTIONS).
-If there is no discernible improvement after three to four months of treatment with 1000 to 1500 mg of penicillamine/day, it may be assumed the patient will not respond and CUPRIMINE should be discontinued.
-
-### Maintenance Therapy
-
-The maintenance dosage of CUPRIMINE must be individualized, and may require adjustment during the course of treatment.
-Many patients respond satisfactorily to a dosage within the 500 to 750 mg/day range.
-Some need less.
+### Maintenance Therapy —The maintenance dosage of CUPRIMINE must be individualized, and may require adjustment during the course of treatment. Many patients respond satisfactorily to a dosage within the 500 to 750 mg/day range. Some need less.
 
 Changes in maintenance dosage levels may not be reflected clinically or in the erythrocyte sedimentation rate for 2 to 3 months after each dosage adjustment.
 
 Some patients will subsequently require an increase in the maintenance dosage to achieve maximal disease suppression.
-In those patients who do respond, but who evidence incomplete suppression of their disease after the first 6 to 9 months of treatment, the daily dosage of CUPRIMINE may be increased by 125 mg or 250 mg/day at 3-month intervals.
+In those patients who do respond, but who evidence incomplete suppression of their disease after the first 6 to 9 months of treatment, the daily dosage of CUPRIMINE may be increased by 125 or 250 mg/day at 3-month intervals.
 It is unusual in current practice to employ a dosage in excess of 1 g/day, but up to 1.5 g/day has sometimes been required.
 
-### Management of Exacerbations
-
-During the course of treatment some patients may experience an exacerbation of disease activity following an initial good response.
-These may be self-limited and can subside within 12 weeks.
-They are usually controlled by the addition of non-steroidal anti-inflammatory drugs, and only if the patient has demonstrated a true "escape" phenomenon (as evidenced by failure of the flare to subside within this time period) should an increase in the maintenance dose ordinarily be considered.
+### Management of Exacerbations — During the course of treatment some patients may experience an exacerbation of disease activity following an initial good response. These may be self-limited and can subside within 12 weeks. They are usually controlled by the addition of nonsteroidal anti-inflammatory drugs, and only if the patient has demonstrated a true “escape” phenomenon (as evidenced by failure of the flare to subside within this time period) should an increase in the maintenance dose ordinarily be considered.
 
 In the rheumatoid patient, migratory polyarthralgia due to penicillamine is extremely difficult to differentiate from an exacerbation of rheumatoid arthritis.
 Discontinuance or a substantial reduction in dosage of CUPRIMINE for up to several weeks will usually determine which of these processes is responsible for the arthralgia.
 
-### Duration of Therapy
+### Duration of Therapy —The optimum duration of therapy with CUPRIMINE in rheumatoid arthritis has not been determined. If the patient has been in remission for 6 months or more, a gradual, stepwise dosage reduction in decrements of 125 mg or 250 mg/day at approximately 3-month intervals may be attempted.
 
-The optimum duration of therapy with CUPRIMINE in rheumatoid arthritis has not been determined.
-If the patient has been in remission for 6 months or more, a gradual, stepwise dosage reduction in decrements of 125 mg or 250 mg/day at approximately 3-month intervals may be attempted.
+### Concomitant Drug Therapy — CUPRIMINE should not be used in patients who are receiving gold therapy, antimalarial or cytotoxic drugs, oxyphenbutazone, or phenylbutazone (see). Other measures, such as salicylates, other nonsteroidal anti-inflammatory drugs, or systemic corticosteroids, may be continued when penicillamine is initiated. After improvement commences, analgesic and anti-inflammatory drugs may be slowly discontinued as symptoms permit. Steroid withdrawal must be done gradually, and many months of treatment with CUPRIMINE may be required before steroids can be completely eliminated.
 
-### Concomitant Drug Therapy
-
-CUPRIMINE should not be used in patients who are receiving gold therapy, antimalarial or cytotoxic drugs, oxyphenbutazone, or phenylbutazone (see PRECAUTIONS).
-Other measures, such as salicylates, other non-steroidal anti-inflammatory drugs, or systemic corticosteroids, may be continued when penicillamine is initiated.
-After improvement commences, analgesic and anti-inflammatory drugs may be slowly discontinued as symptoms permit.
-Steroid withdrawal must be done gradually, and many months of treatment with CUPRIMINE may be required before steroids can be completely eliminated.
-
-### Dosage Frequency
-
-Based on clinical experience, dosages up to 500 mg/day can be given as a single daily dose.
-Dosages in excess of 500 mg/day should be administered in divided doses.
+### Dosage Frequency — Based on clinical experience, dosages up to 500 mg/day can be given as a single daily dose. Dosages in excess of 500 mg/day should be administered in divided doses.

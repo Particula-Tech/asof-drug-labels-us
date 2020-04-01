@@ -1,22 +1,3 @@
-Manufactured for:
-
-Aton Pharma, Inc., a division of Valeant Pharmaceuticals North America LLC
-
-Bridgewater, NJ 08807 USA
-
-Manufactured by:
-
-Suven Life Sciences Limited Telangana, India 502307
-
-Cuprimine is a trademark of Valeant Pharmaceuticals International, Inc. or its affiliates.
-
-© Valeant Pharmaceuticals North America LLC
-
-Rev.
-09/2018
-
-9655600 Lb30252-2-00
-
 ** For quantitative test for serum ceruloplasmin see: Morell, A.G.; Windsor, J.; Sternlieb, I.; Scheinberg, I.H.: Measurement of the concentration of ceruloplasmin in serum by determination of its oxidase activity, in “Laboratory Diagnosis of Liver Disease”, F.W.
 Sunderman; F.W.
 Sunderman, Jr.
@@ -32,3 +13,20 @@ J. Med.
 Med.
 J. 2: 521, Aug.
 28, 1965 (in Medical Memoranda).
+
+Distributed by:
+
+Bausch Health US, LLC Bridgewater, NJ 08807 USA
+
+Manufactured by:
+
+Suven Life Sciences Limited Telangana, India 502307
+
+CUPRIMINE is a trademark of Bausch Health Companies Inc. or its affiliates.
+
+© 2019 Bausch Health Companies Inc. or its affiliates
+
+Rev.
+11/2019
+
+9655601 Lb30252-2-01

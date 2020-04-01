@@ -10,4 +10,4 @@ Cuprimine® (penicillamine) Capsules
 
 Each capsule contains 250 mg of penicillamine.
 
-VALEANT
+BAUSCH HEALTH
