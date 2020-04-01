@@ -1,125 +1,71 @@
-# WARNINGS
+# 5 WARNINGS AND PRECAUTIONS
 
-THE DAILY DOSE OF FLUOROURACIL IS NOT TO EXCEED 800 MG.
-IT IS RECOMMENDED THAT PATIENTS BE HOSPITALIZED DURING THEIR FIRST COURSE OF TREATMENT.
+## 5.1 Increased Risk of Serious or Fatal Adverse Reactions in Patients with Low or Absent Dipyrimidine Dehydrogenase (DPD) Activity
 
-Fluorouracil should be used with extreme caution in poor risk patients with a history of high-dose pelvic irradiation or previous use of alkylating agents, those who have widespread involvement of bone marrow by metastatic tumors or those with impaired hepatic or renal function.
+Based on postmarketing reports, patients with certain homozygous or certain compound heterozygous mutations in the DPD gene that result in complete or near complete absence of DPD activity are at increased risk for acute early-onset of toxicity and severe, life-threatening, or fatal adverse reactions caused by fluorouracil (e.g., mucositis, diarrhea, neutropenia, and neurotoxicity).
+Patients with partial DPD activity may also have increased risk of severe, life-threatening, or fatal adverse reactions caused by fluorouracil.
 
-Rarely, unexpected, severe toxicity (e.g., stomatitis, diarrhea, neutropenia and neurotoxicity) associated with 5-fluorouracil has been attributed to deficiency of dipyrimidine dehydrogenase activity.
-1 A few patients have been rechallenged with 5-fluorouracil and despite 5-fluorouracil dose lowering, toxicity recurred and progressed with worse morbidity.
-Absence of this catabolic enzyme appears to result in prolonged clearance of 5-fluorouracil.
+Withhold or permanently discontinue fluorouracil based on clinical assessment of the onset, duration and severity of the observed toxicities in patients with evidence of acute early-onset or unusually severe toxicity, which may indicate near complete or total absence of DPD activity.
+No fluorouracil dose has been proven safe for patients with complete absence of DPD activity.
+There is insufficient data to recommend a specific dose in patients with partial DPD activity as measured by any specific test.
 
-## Pregnancy
+## 5.2 Cardiotoxicity
 
-Teratogenic Effects: Pregnancy Category D.
+Fluorouracil can cause cardiotoxicity, including angina, myocardial infarction/ischemia, arrhythmia, and heart failure, based on postmarketing reports.
+Reported risk factors for cardiotoxicity are administration by continuous infusion rather than intravenous bolus and presence of coronary artery disease.
+Withhold fluorouracil for cardiotoxicity.
+The risks of resumption of fluorouracil in patients with cardiotoxicity that has resolved have not been established.
 
-Fluorouracil may cause fetal harm when administered to a pregnant woman.
-Fluorouracil has been shown to be teratogenic in laboratory animals.
-Fluorouracil exhibited maximum teratogenicity when given to mice as single intraperitoneal injections of 10 to 40 mg/kg on day 10 or 12 of gestation.
-Similarly, intraperitoneal doses of 12 to 37 mg/kg given to rats between days 9 and 12 of gestation and intramuscular doses of 3 to 9 mg given to hamsters between days 8 and 11 of gestation were teratogenic.
-Malformations included cleft palates, skeletal defects and deformed appendages, paws and tails.
-The dosages which were teratogenic in animals are 1 to 3 times the maximum recommended human therapeutic dose.
-In monkeys, divided doses of 40 mg/kg given between days 20 and 24 of gestation were not teratogenic.
+## 5.3 Hyperammonemic Encephalopathy
 
-There are no adequate and well-controlled studies with Fluorouracil in pregnant women.
-While there is no evidence of teratogenicity in humans due to Fluorouracil, it should be kept in mind that other drugs which inhibit DNA synthesis (e.g., methotrexate and aminopterin) have been reported to be teratogenic in humans.
-Women of childbearing potential should be advised to avoid becoming pregnant.
-If the drug is used during pregnancy, or if the patient becomes pregnant while taking the drug, the patient should be told of the potential hazard to the fetus.
-Fluorouracil should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
+Fluorouracil can cause hyperammonemic encephalopathy in the absence of liver disease or other identifiable cause, based on postmarketing reports.
+Signs or symptoms of hyperammonemic encephalopathy began within 72 hours after initiation of fluorouracil infusion; these included altered mental status, confusion, disorientation, coma, or ataxia, in the presence of concomitant elevated serum ammonia level.
+Withhold fluorouracil for hyperammonemic encephalopathy and initiate ammonia-lowering therapy.
+The risks of resumption of fluorouracil in patients with hyperammonemic encephalopathy that has resolved have not been established.
 
-## Combination Therapy
+## 5.4 Neurologic Toxicity
 
-Any form of therapy which adds to the stress of the patient, interferes with nutrition or depresses bone marrow function will increase the toxicity of Fluorouracil.
+Fluorouracil can cause neurologic toxicity, including acute cerebellar syndrome and other neurologic events, based on postmarketing reports.
+Neurologic symptoms included confusion, disorientation, ataxia, or visual disturbances.
+Withhold fluorouracil for neurologic toxicity.
+There are insufficient data on the risks of resumption of fluorouracil in patients with neurologic toxicity that has resolved.
 
-# PRECAUTIONS
+## 5.5 Diarrhea
 
-## General
+Fluorouracil can cause severe diarrhea.
+Withhold fluorouracil for Grade 3 or 4 diarrhea until resolved or decreased in intensity to Grade 1, then resume fluorouracil at a reduced dose.
+Administer fluids, electrolyte replacement, or antidiarrheal treatments as necessary.
 
-Fluorouracil is a highly toxic drug with a narrow margin of safety.
-Therefore, patients should be carefully supervised, since therapeutic response is unlikely to occur without some evidence of toxicity.
-Severe hematological toxicity, gastrointestinal hemorrhage and even death may result from the use of Fluorouracil despite meticulous selection of patients and careful adjustment of dosage.
-Although severe toxicity is more likely in poor risk patients, fatalities may be encountered occasionally even in patients in relatively good condition.
+## 5.6 Palmar-Plantar Erythrodysesthesia (Hand-Foot Syndrome)
 
-Therapy is to be discontinued promptly whenever one of the following signs of toxicity appears:
+Fluorouracil can cause palmar-plantar erythrodysesthesia, also known as hand-foot syndrome (HFS).
+Symptoms of HFS include a tingling sensation, pain, swelling, and erythema with tenderness, and desquamation.
+HFS occurs more commonly when fluorouracil is administered as a continuous infusion than when fluorouracil is administered as a bolus injection, and has been reported to occur more frequently in patients with previous exposure to chemotherapy.
+HFS is generally observed after 8-9 weeks of fluorouracil administration but may occur earlier.
+Institute supportive measures for symptomatic relief of HFS.
+Withhold fluorouracil administration for Grade 2 or 3 HFS; resume fluorouracil at a reduced dose when HFS is completely resolved or decreased in severity to Grade 1.
 
-Stomatitis or esophagopharyngitis, at the first visible sign.
+## 5.7 Myelosuppression
 
-Leukopenia (WBC under 3,500) or a rapidly falling white blood count.
+Fluorouracil can cause severe and fatal myelosuppression which may include neutropenia, thrombocytopenia, and anemia.
+The nadir in neutrophil counts commonly occurs between 9 and 14 days after fluorouracil administration.
+Obtain complete blood counts prior to each treatment cycle, weekly if administered on a weekly or similar schedule, and as needed.
+Withhold fluorouracil until Grade 4 myelosuppression resolves; resume fluorouracil at a reduced dose when myelosuppression has resolved or improved to Grade 1 in severity.
 
-Vomiting, intractable.
+## 5.8 Mucositis
 
-Diarrhea, frequent bowel movements or watery stools.
+Mucositis, stomatitis or esophagopharyngitis, which may lead to mucosal sloughing or ulceration, can occur with fluorouracil.
+The incidence is reported to be higher with administration of fluorouracil by intravenous bolus compared with administration by continuous infusion.
+Withhold fluorouracil administration for Grade 3 or 4 mucositis; resume fluorouracil at a reduced dose once mucositis has resolved or decreased in severity to Grade 1.
 
-Gastrointestinal ulceration and bleeding.
+## 5.9 Increased Risk of Elevated International Normalized Ratio (INR) with Warfarin
 
-Thrombocytopenia (platelets under 100,000).
+Clinically significant elevations in coagulation parameters have been reported during concomitant use of warfarin and fluorouracil.
+Closely monitor patients receiving concomitant coumarin-derivative anticoagulants such as warfarin for INR or prothrombin time in order to adjust the anticoagulant dose accordingly [see Drug Interactions (7)].
 
-Hemorrhage from any site.
+## 5.10 Embryofetal Toxicity
 
-The administration of 5-fluorouracil has been associated with the occurrence of palmar-plantar erythrodysesthesia syndrome, also known as hand-foot syndrome.
-This syndrome has been characterized as a tingling sensation of hands and feet which may progress over the next few days to pain when holding objects or walking.
-The palms and soles become symmetrically swollen and erythematous with tenderness of the distal phalanges, possibly accompanied by desquamation.
-Interruption of therapy is followed by gradual resolution over 5 to 7 days.
-Although pyridoxine has been reported to ameliorate the palmar-plantar erythrodysesthesia syndrome, its safety and effectiveness have not been established.
-
-## Information for Patients
-
-Patients should be informed of expected toxic effects, particularly oral manifestations.
-Patients should be alerted to the possibility of alopecia as a result of therapy and should be informed that it is usually a transient effect.
-
-## Laboratory Tests
-
-White blood counts with differential are recommended before each dose.
-
-## Drug Interactions
-
-Leucovorin calcium may enhance the toxicity of fluorouracil.
-
-Also see WARNINGS section.
-
-## Carcinogenesis, Mutagenesis, Impairment of Fertility
-
-Carcinogenesis
-
-Long-term studies in animals to evaluate the carcinogenic potential of fluorouracil have not been conducted.
-However, there was no evidence of carcinogenicity in small groups of rats given fluorouracil orally at doses of 0.01, 0.3, 1 or 3 mg per rat 5 days per week for 52 weeks, followed by a 6-month observation period.
-Also, in other studies, 33 mg/kg of fluorouracil was administered intravenously to male rats once a week for 52 weeks followed by observation for the remainder of their lifetimes with no evidence of carcinogenicity.
-Female mice were given 1 mg of fluorouracil intravenously once a week for 16 weeks with no effect on the incidence of lung adenomas.
-On the basis of the available data, no evaluation can be made of the carcinogenic risk of fluorouracil to humans.
-
-Mutagenesis
-
-Oncogenic transformation of fibroblasts from mouse embryo has been induced in vitro by fluorouracil, but the relationship between oncogenicity and mutagenicity is not clear.
-Fluorouracil has been shown to be mutagenic to several strains of Salmonella typhimurium, including TA 1535, TA 1537 and TA 1538, and to Saccharomyces cerevisiae, although no evidence of mutagenicity was found with Salmonella typhimurium strains TA 92, TA 98 and TA 100.
-In addition, a positive effect was observed in the micronucleus test on bone marrow cells of the mouse, and fluorouracil at very high concentrations produced chromosomal breaks in hamster fibroblasts in vitro.
-
-Impairment of Fertility
-
-Fluorouracil has not been adequately studied in animals to permit an evaluation of its effects on fertility and general reproductive performance.
-However, doses of 125 or 250 mg/kg, administered intraperitoneally, have been shown to induce chromosomal aberrations and changes in chromosomal organization of spermatogonia in rats.
-Spermatogonial differentiation was also inhibited by fluorouracil, resulting in transient infertility.
-However, in studies with a strain of mouse which is sensitive to the induction of sperm head abnormalities after exposure to a range of chemical mutagens and carcinogens, fluorouracil did not produce any abnormalities at oral doses of up to 80 mg/kg/day.
-In female rats, fluorouracil, administered intraperitoneally at weekly doses of 25 or 50 mg/kg for 3 weeks during the pre-ovulatory phase of oogenesis, significantly reduced the incidence of fertile matings, delayed the development of pre- and post-implantation embryos, increased the incidence of pre-implantation lethality and induced chromosomal anomalies in these embryos.
-In a limited study in rabbits, a single 25 mg/kg dose of fluorouracil or 5 daily doses of 5 mg/kg had no effect on ovulation, appeared not to affect implantation and had only a limited effect in producing zygote destruction.
-Compounds such as fluorouracil, which interfere with DNA, RNA and protein synthesis, might be expected to have adverse effects on gametogenesis.
-
-## Pregnancy
-
-Pregnancy Category D. See WARNINGS section.
-
-Nonteratogenic Effects
-
-Fluorouracil has not been studied in animals for its effects on peri- and postnatal development.
-However, fluorouracil has been shown to cross the placenta and enter into fetal circulation in the rat.
-Administration of fluorouracil has resulted in increased resorptions and embryolethality in rats.
-In monkeys, maternal doses higher than 40 mg/kg resulted in abortion of all embryos exposed to fluorouracil.
-Compounds which inhibit DNA, RNA and protein synthesis might be expected to have adverse effects on peri- and postnatal development.
-
-## Nursing Mothers
-
-It is not known whether fluorouracil is excreted in human milk.
-Because fluorouracil inhibits DNA, RNA and protein synthesis, mothers should not nurse while receiving this drug.
-
-## Pediatric Use
-
-Safety and effectiveness in pediatric patients have not been established.
+Based on its mechanism of action, fluorouracil can cause fetal harm when administered to a pregnant woman.
+In animal studies, administration of fluorouracil at doses lower than a human dose of 12 mg/kg caused teratogenicity.
+If this drug is used during pregnancy, or if the patient becomes pregnant while taking this drug, the patient should be apprised of the potential hazard to a fetus.
+Advise females of reproductive potential and males with female partners of reproductive potential to use effective contraception during and for 3 months following cessation of therapy with fluorouracil [see Use in Specific Populations (8.1, 8.6), Clinical Pharmacology (12.1), and Nonclinical Toxicology (13.1)].

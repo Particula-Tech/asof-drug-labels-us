@@ -1,3 +1,11 @@
-# INDICATIONS AND USAGE
+# 1 INDICATIONS AND USAGE
 
-Fluorouracil is effective in the palliative management of carcinoma of the colon, rectum, breast, stomach and pancreas.
+Fluorouracil is indicated for the treatment of patients with:
+
+• Adenocarcinoma of the Colon and Rectum
+
+• Adenocarcinoma of the Breast
+
+• Gastric Adenocarcinoma
+
+• Pancreatic Adenocarcinoma

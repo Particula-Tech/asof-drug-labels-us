@@ -1,31 +1,33 @@
-# ADVERSE REACTIONS
+# 6 ADVERSE REACTIONS
 
-Stomatitis and esophagopharyngitis (which may lead to sloughing and ulceration), diarrhea, anorexia, nausea and emesis are commonly seen during therapy.
+The following adverse reactions are discussed in more detail in other sections of the labeling:
 
-Leukopenia usually follows every course of adequate therapy with Fluorouracil.
-The lowest white blood cell counts are commonly observed between the 9th and 14th days after the first course of treatment, although uncommonly the maximal depression may be delayed for as long as 20 days.
-By the 30th day the count has usually returned to the normal range.
+- Increased risk of serious or fatal adverse reactions in patients with low or absent dipyrimidine dehydrogenase activity [see Warnings and Precautions (5.1)]
+- Cardiotoxicity [see Warnings and Precautions (5.2)]
+- Hyperammonemic encephalopathy [see Warnings and Precautions (5.3)]
+- Neurologic toxicity [see Warnings and Precautions (5.4)]
+- Diarrhea [see Warnings and Precautions (5.5)]
+- Palmar-plantar erythrodysesthesia (hand-foot syndrome) [see Warnings and Precautions (5.6)]
+- Myelosuppression [see Warnings and Precautions (5.7)]
+- Mucositis [see Warnings and Precautions (5.8)]
+- Increased risk of elevated INR when administered with warfarin [see Warnings and Precautions (5.9)]
 
-Alopecia and dermatitis may be seen in a substantial number of cases.
-The dermatitis most often seen is a pruritic maculopapular rash usually appearing on the extremities and less frequently on the trunk.
-It is generally reversible and usually responsive to symptomatic treatment.
+## 6.2 Postmarketing Experience
 
-Other adverse reactions are:
+The following adverse reactions have been identified during postapproval use of fluorouracil.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+Hematologic: pancytopenia [see Warnings and Precautions (5.7)]
 
-Hematologic: pancytopenia, thrombocytopenia, agranulocytosis, anemia.
+Gastrointestinal: gastrointestinal ulceration, nausea, vomiting
 
-Cardiovascular: myocardial ischemia, angina.
+Allergic Reactions: anaphylaxis and generalized allergic reactions
 
-Gastrointestinal: gastrointestinal ulceration and bleeding.
+Neurologic: nystagmus, headache
 
-Allergic Reactions: anaphylaxis and generalized allergic reactions.
+Dermatologic: dry skin; fissuring; photosensitivity, as manifested by erythema or increased pigmentation of the skin; vein pigmentation
 
-Neurologic: acute cerebellar syndrome (which may persist following discontinuance of treatment), nystagmus, headache.
+Ophthalmic: lacrimal duct stenosis, visual changes, lacrimation, photophobia
 
-Dermatologic: dry skin; fissuring; photosensitivity, as manifested by erythema or increased pigmentation of the skin; vein pigmentation, palmar-plantar erythrodysesthesia syndrome, as manifested by tingling of the hands and feet followed by pain, erythema and swelling.
+Psychiatric: euphoria
 
-Ophthalmic: lacrimal duct stenosis, visual changes, lacrimation, photophobia.
-
-Psychiatric: disorientation, confusion, euphoria.
-
-Miscellaneous: thrombophlebitis, epistaxis, nail changes (including loss of nails).
+Miscellaneous: thrombophlebitis, epistaxis, nail changes (including loss of nails)
