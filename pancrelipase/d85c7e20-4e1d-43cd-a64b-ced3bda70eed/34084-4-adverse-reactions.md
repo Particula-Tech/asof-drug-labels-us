@@ -2,7 +2,7 @@
 
 The most serious adverse reactions reported with different pancreatic enzyme products of the same active ingredient (pancrelipase) that are described elsewhere in the label include fibrosing colonopathy, hyperuricemia and allergic reactions [see Warnings and Precautions (5.1, 5.3 and 5.5)].
 
-## 6.1 Clinical Trials Experience
+## 6.1Clinical Trials Experience
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to the rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
@@ -15,10 +15,9 @@ The most common adverse reactions (greater than or equal to 7%) were biliary tra
 Table 1 enumerates adverse reactions that occurred in at least 1 patient (greater than or equal to 3%) treated with VIOKACE at a higher rate than with placebo.
 Two adverse reactions reported in greater than one patient were biliary tract stones and anal pruritus.
 
-TABLE 1 Adverse Reactions Occurring in at Least 1 Patient (greater than or equal to 3%) in Chronic Pancreatitis or Pancreatectomy
-
-|  | Treatment Group |  |
+| TABLE 1 Adverse Reactions Occurring in at Least 1 Patient (greater than or equal to 3%) in Chronic Pancreatitis or Pancreatectomy |  |  |
 | --- | --- | --- |
+|  | Treatment Group |  |
 | MedDRA Primary System Organ Class/ Adverse Reactions | VIOKACE (N=30) | Placebo (N=20) |
 | Blood And Lymphatic System Disorders |  |  |
 | Anemia | 1 (3%) | 0 |
@@ -41,7 +40,7 @@ TABLE 1 Adverse Reactions Occurring in at Least 1 Patient (greater than or equal
 | Skin and Subcutaneous Tissue Disorders |  |  |
 | Rash | 1 (3%) | 0 |
 
-## 6.2 Postmarketing Experience
+## 6.2Postmarketing Experience
 
 Post-marketing data for VIOKACE have been available since 2003.
 The safety data are similar to that described below.

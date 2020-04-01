@@ -1,4 +1,4 @@
-# 15 REFERENCES
+# 15REFERENCES
 
 1Borowitz DS, Grand RJ, Durie PR, et al. Use of pancreatic enzyme supplements for patients with cystic fibrosis in the context of fibrosing colonopathy.
 Journal of Pediatrics.
@@ -16,7 +16,7 @@ Journal of the American Dietetic Association.
 Current Gastroenterology Reports.
 2007; 9: 116-122.
 
-5Smyth RL, Ashby D, O'Hea U, et al. Fibrosing colonopathy in cystic fibrosis: results of a case-control study.
+5Smyth RL, Ashby D, O’Hea U, et al. Fibrosing colonopathy in cystic fibrosis: results of a case-control study.
 Lancet.
 1995; 346: 1247-1251.
 
@@ -28,6 +28,6 @@ New England Journal of Medicine.
 Lancet.
 November 14, 1981: 1071-1074.
 
-8 Ansaldi-Balocco N, Santini B, Sarchi C. Efficacy of pancreatic enzyme supplementation in children with cystic fibrosis: comparison of two preparations by random crossover study and a retrospective study of the same patients at two different ages.
+8Ansaldi-Balocco N, Santini B, Sarchi C. Efficacy of pancreatic enzyme supplementation in children with cystic fibrosis: comparison of two preparations by random crossover study and a retrospective study of the same patients at two different ages.
 J Pediatr Gastroenterol Nutr.
 1988;7 Suppl 1:S40-5.

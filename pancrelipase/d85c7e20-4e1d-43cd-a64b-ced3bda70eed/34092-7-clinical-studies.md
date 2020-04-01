@@ -1,4 +1,4 @@
-# 14 CLINICAL STUDIES
+# 14CLINICAL STUDIES
 
 The short-term safety and efficacy of VIOKACE were evaluated in a randomized, double-blind, placebo-controlled, parallel group study comparing VIOKACE Tablets (20,880 USP units of lipase per tablet) to placebo in 50 patients, ages 24 to 70, with exocrine pancreatic insufficiency (EPI) due to chronic pancreatitis (CP) or pancreatectomy.
 Eighteen patients had a history of pancreatectomy (11 were treated with VIOKACE).
@@ -10,7 +10,7 @@ The coefficient of fat absorption (CFA) was determined by a 72-hour stool collec
 
 The wash-out period mean CFA was 48% in the VIOKACE treatment group and was 57% in the placebo group.
 At the end of the double-blind treatment period, the mean CFA was 86% with VIOKACE treatment compared to 58% with placebo.
-The mean difference in CFA at the end of the double-blind treatment period was 28 percentage points in favor of VIOKACE treatment with 95% Confidence Interval of (21, 37) and p ≤ 0.0001.
+The mean difference in CFA at the end of the double-blind treatment period was 28 percentage points in favor of VIOKACE treatment with 95% Confidence Interval of (21, 37) and p < 0.0001.
 
 Subgroup analyses of the CFA results showed that mean change in CFA with VIOKACE treatment (from the washout period to the end of the double-blind period) was greater in patients with lower wash-out period CFA values than in patients with higher wash-out period CFA values.
 

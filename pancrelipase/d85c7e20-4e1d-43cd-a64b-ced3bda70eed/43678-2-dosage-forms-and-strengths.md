@@ -1,4 +1,4 @@
-# 3 DOSAGE FORMS AND STRENGTHS
+# 3DOSAGE FORMS AND STRENGTHS
 
 The active ingredient in VIOKACE evaluated in clinical trials is lipase.
 VIOKACE is dosed in lipase units.

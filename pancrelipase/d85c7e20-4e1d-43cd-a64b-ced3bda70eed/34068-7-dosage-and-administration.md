@@ -6,7 +6,7 @@ VIOKACE is orally administered.
 Therapy should be initiated at the lowest recommended dose and gradually increased.
 The dosage of VIOKACE should be individualized based on clinical symptoms, the degree of steatorrhea present, and the fat content of the diet as described in the Limitations on Dosing below [see Dosage and Administration (2.2) and Warnings and Precautions (5.1)].
 
-## 2.1 Administration
+## 2.1Administration
 
 Since VIOKACE is not enteric-coated, it should be taken in combination with a proton pump inhibitor [see Indications and Usage (1)].
 

@@ -1,8 +1,8 @@
-# 17 PATIENT COUNSELING INFORMATION
+# 17PATIENT COUNSELING INFORMATION
 
 “See FDA-approved patient labeling (Medication Guide)”
 
-## 17.1 Dosing and Administration
+## 17.1Dosing and Administration
 
 - Instruct patients and caregivers that VIOKACE should only be taken as directed by their doctor.
   Patients should be advised that the total daily dose should not exceed 10,000 lipase units/kg body weight/day unless clinically indicated.
@@ -12,7 +12,7 @@
 - Instruct patients and caregivers that VIOKACE should always be taken with food.
   Patients should swallow the intact tablets with adequate amounts of liquid at mealtimes [see Dosage and Administration (2)].
 
-## 17.2 Fibrosing Colonopathy
+## 17.2Fibrosing Colonopathy
 
 Advise patients and caregivers to follow dosing instructions carefully, as doses of pancreatic enzyme products exceeding 6,000 lipase units/kg of body weight per meal have been associated with colonic strictures in children below the age of 12 years [see Dosage and Administration (2) and Warnings and Precautions (5.1)].
 
@@ -20,14 +20,23 @@ Advise patients and caregivers to follow dosing instructions carefully, as doses
 
 Advise patients and caregivers to contact their healthcare professional immediately if allergic reactions to VIOKACE develop [see Warnings and Precautions (5.5)].
 
-## 17.4 Pregnancy and Breast Feeding
+## ﻿
 
-- Instruct patients to notify their healthcare professional if they are pregnant or are thinking of becoming pregnant during treatment with VIOKACE [see Use in Specific Populations (8.1)].
-- Instruct patients to notify their healthcare professional if they are breast feeding or are thinking of breast feeding during treatment with VIOKACE [see Use in Specific Populations (8.3)].
+Distributed by:
 
-Distributed by: Allergan USA, Inc. Irvine, CA 92612
+Allergan USA, Inc.
 
-Manufactured by: Confab Laboratories, Inc. St. Hubert, Canada
+Madison, NJ 07940
 
-VIOKACE® is a registered trademark of Aptalis Pharma US, Inc., an Allergan affiliate. © 2017 Allergan.
+Manufactured by:
+
+Confab Laboratories, Inc.
+
+St. Hubert, Canada
+
+VIOKACE® is a registered trademark of Allergan Sales, LLC.
+
+© 2020 Allergan.
 All rights reserved.
+
+v1.0USPI0112
