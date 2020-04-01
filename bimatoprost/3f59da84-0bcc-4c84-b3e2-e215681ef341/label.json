@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA211911"
+  ],
+  "inn": "bimatoprost",
+  "labeler": "Allergan, Inc.",
+  "package_ndcs": [
+    "0023-9652-01"
+  ],
+  "products": [
+    {
+      "form": "IMPLANT",
+      "generic": "bimatoprost",
+      "name": "DURYSTA"
+    }
+  ],
+  "setid": "3f59da84-0bcc-4c84-b3e2-e215681ef341",
+  "source": "dailymed"
+}

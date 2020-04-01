@@ -1,0 +1,3 @@
+# PRINCIPAL DISPLAY PANEL
+
+DURYSTATM (bimatoprost implant) 10 mcg NDC 0023-9652-01
