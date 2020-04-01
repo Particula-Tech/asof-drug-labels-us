@@ -2,7 +2,7 @@
 
 ONCE-DAILY NDC 54092-468-01
 
-Mydayis™
+Mydayis®
 
 (Mixed Salts of A Single-Entity Amphetamine Product)
 
@@ -22,7 +22,7 @@ Shire
 
 ONCE-DAILY NDC 54092-471-01
 
-Mydayis™
+Mydayis®
 
 (Mixed Salts of A Single-Entity Amphetamine Product)
 
@@ -42,7 +42,7 @@ Shire
 
 ONCE-DAILY NDC 54092-474-01
 
-Mydayis™
+Mydayis®
 
 (Mixed Salts of A Single-Entity Amphetamine Product)
 
@@ -62,7 +62,7 @@ Shire
 
 ONCE-DAILY NDC 54092-477-01
 
-Mydayis™
+Mydayis®
 
 (Mixed Salts of A Single-Entity Amphetamine Product)
 
