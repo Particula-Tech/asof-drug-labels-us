@@ -2,7 +2,7 @@
 
 ## 5.1 Tooth Discoloration and Enamel Hypoplasia
 
-The use of LYMEPAK during tooth development (last half of pregnancy, infancy and childhood to the age of 8 years) may cause permanent discoloration of the teeth (yellow-gray-brown).
+The use of LYMEPAK during tooth development (last half of pregnancy, infancy and childhood up to the age of 8 years) may cause permanent discoloration of the teeth (yellow-gray-brown).
 This adverse reaction is more common during long-term use of the drugs of the tetracycline class, but it has been observed following repeated short-term courses.
 Enamel hypoplasia has also been reported with drugs of the tetracycline class.
 Advise the patient of the potential risk to the fetus if LYMEPAK is used during the second or third trimester of pregnancy [see Use in Specific Populations (8.1, 8.4)].
@@ -60,7 +60,7 @@ Since intracranial pressure can remain elevated for weeks after drug cessation p
 
 ## 5.8 Antianabolic Action
 
-The antianabolic action of the tetracyclines, including LYMEPAK may cause an increase in BUN.
+The antianabolic action of the tetracyclines, including LYMEPAK may cause an increase in blood urea nitrogen (BUN).
 Studies to date indicate that this does not occur with the use of doxycycline in patients with renal impairment.
 
 ## 5.9 Development of Drug Resistant Bacteria
