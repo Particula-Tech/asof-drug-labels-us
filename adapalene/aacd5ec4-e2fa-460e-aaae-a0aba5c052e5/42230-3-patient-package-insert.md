@@ -134,10 +134,9 @@ May contain hydrochloric acid for pH adjustment.
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 
-Manufactured by: G&W Laboratories, Inc. South Plainfield, NJ 07080 USA
-
 Distributed by: Actavis Pharma, Inc. Parsippany, NJ 07054 USA
 
-Revised - November 2017
+Rev.
+A 1/2020
 
-I600-6200 GW7205
+3701600-6200 GW7332
