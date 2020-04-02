@@ -2,7 +2,7 @@
 
 ## 12.1 Mechanism of Action
 
-TRIUMEQ is an HIV‑1 antiretroviral agent [see Microbiology (12.4)].
+TRIUMEQ is a fixed-dose combination of the HIV‑1 antiretroviral agents abacavir, dolutegravir, and lamivudine [see Microbiology (12.4)].
 
 ## 12.2 Pharmacodynamics
 
@@ -69,7 +69,7 @@ Binding to plasma protein is low.
 Approximately 70% of an intravenous dose of lamivudine is recovered as unchanged drug in the urine.
 Metabolism of lamivudine is a minor route of elimination.
 In humans, the only known metabolite is the trans-sulfoxide metabolite (approximately 5% of an oral dose after 12 hours).
-In most single-dose trials in HIV–1-infected subjects, HBV-infected subjects, or healthy subjects with serum sampling for 24 hours after dosing, the observed mean elimination half-life (t½) ranged from 5 to 7 hours.
+In most single-dose trials with plasma sampling up to 48 or 72 hours after dosing, the observed mean elimination half-life (t½) ranged from 13 to 19 hours.
 In HIV-1-infected subjects, total clearance was 398.5 ± 69.1 mL per min (mean ± SD).
 
 Effect of Food on Oral Absorption
@@ -81,7 +81,7 @@ With a high-fat meal, the Cmax of abacavir decreased 23% and the Cmax and AUC of
 
 Specific Populations
 
-Patients with Renal Impairment: The effect of renal impairment on the combination of abacavir, dolutegravir, and lamivudine has not been evaluated (see the U.S. prescribing information for the individual abacavir, dolutegravir and lamivudine components).
+Patients with Renal Impairment: The effect of renal impairment on the combination of abacavir, dolutegravir, and lamivudine has not been evaluated (see the U.S. prescribing information for the individual abacavir, dolutegravir, and lamivudine components).
 
 Patients with Hepatic Impairment: The effect of hepatic impairment on the combination of abacavir, dolutegravir, and lamivudine has not been evaluated (see the U.S. prescribing information for the individual abacavir, dolutegravir, and lamivudine components).
 
@@ -237,18 +237,18 @@ Antiviral Activity in Cell Culture
 
 Dolutegravir: Dolutegravir exhibited antiviral activity against laboratory strains of wild-type HIV-1 with mean concentration of drug necessary to effect viral replication by 50 percent (EC50) values of 0.5 nM (0.21 ng per mL) to 2.1 nM (0.85 ng per mL) in peripheral blood mononuclear cells (PBMCs) and MT-4 cells.
 Dolutegravir exhibited antiviral activity against 13 clinically diverse clade B isolates with a median EC50 value of 0.54 nM (range: 0.41 to 0.60 nM) in a viral susceptibility assay using the integrase coding region from clinical isolates.
-Dolutegravir demonstrated antiviral activity in cell culture against a panel of HIV‑1 clinical isolates with median EC50 values of 0.18 nM (n = 3, range: 0.09 to 0.5 nM), 0.08 nM (n = 5, range: 0.05 to 2.14 nM) 0.12 nM (n = 4, range: 0.05 to 0.51 nM), 0.17 nM (n = 3, range: 0.16 to 0.35 nM), 0.24 nM (n = 3, range: 0.09 to 0.32 nM), 0.17 nM (range: 0.07 to 0.44 nM), 0.2 nM (n = 3, range: 0.02 to 0.87 nM), and 0.42 nM (n = 3, range: 0.41 to 1.79 nM) for clades A, B, C, D, E, F, and G, and group O viruses, respectively.
+Dolutegravir demonstrated antiviral activity in cell culture against a panel of HIV‑1 clinical isolates with median EC50 values of 0.18 nM (n = 3, range: 0.09 to 0.5 nM), 0.08 nM (n = 5, range: 0.05 to 2.14 nM) 0.12 nM (n = 4, range: 0.05 to 0.51 nM), 0.17 nM (n = 3, range: 0.16 to 0.35 nM), 0.24 nM (n = 3, range: 0.09 to 0.32 nM), 0.17 nM (n = 4, range: 0.07 to 0.44 nM), 0.2 nM (n = 3, range: 0.02 to 0.87 nM), and 0.42 nM (n = 3, range: 0.41 to 1.79 nM) for clades A, B, C, D, E, F, and G, and group O viruses, respectively.
 Dolutegravir EC50 values against three HIV-2 clinical isolates in PBMC assays ranged from 0.09 nM to 0.61 nM.
 
 Abacavir: The antiviral activity of abacavir against HIV-1 was assessed in a number of cell lines including in primary monocytes/macrophages and PBMCs.
 EC50 values ranged from 3.7 to 5.8 microM (1 microM = 0.28 mcg per mL) and 0.07 to 1.0 microM against HIV-1IIIB and HIV-1BaL, respectively, and the mean EC50 value was 0.26 ± 0.18 microM against 8 clinical isolates.
 The median EC50 values of abacavir were 344 nM (range: 14.8 to 676 nM), 16.9 nM (range: 5.9 to 27.9 nM), 8.1 nM (range: 1.5 to 16.7 nM), 356 nM (range: 35.7 to 396 nM), 105 nM (range: 28.1 to 168 nM), 47.6 nM (range: 5.2 to 200 nM), 51.4 nM (range: 7.1 to 177 nM), and 282 nM (range: 22.4 to 598 nM) against HIV‑1 clades A-G and group O viruses (n = 3 except n = 2 for clade B), respectively.
-The EC50 values against HIV‑2 isolates (n = 4), ranged from 0.024 to 0.49 microM.
+The EC50 values against HIV‑2 isolates (n = 4), ranged from 24 to 490 nM.
 
 Lamivudine: The antiviral activity of lamivudine against HIV-1 was assessed in a number of cell lines including monocytes and PBMCs using standard susceptibility assays.
 EC50 values were in the range of 0.003 to 15 microM (1 microM = 0.23 mcg per mL).
 The median EC50 values of lamivudine were 60 nM (range: 20 to 70 nM), 35 nM (range: 30 to 40 nM), 30 nM (range: 20 to 90 nM), 20 nM (range: 3 to 40 nM), 30 nM (range: 1 to 60 nM), 30 nM (range: 20 to 70 nM), 30 nM (range: 3 to 70 nM), and 30 nM (range: 20 to 90 nM) against HIV‑1 clades A-G and group O viruses (n = 3 except n = 2 for clade B) respectively.
-The EC50 values against HIV‑2 isolates (n = 4) from 0.003 to 0.120 microM in PBMCs.
+The EC50 values against HIV‑2 isolates (n = 4) from 3 to 120 nM in PBMCs.
 Ribavirin (50 microM) used in the treatment of chronic HCV infection decreased the anti-HIV-1 activity of lamivudine by 3.5-fold in MT-4 cells.
 
 Antiviral Activity in Combination with Other Antiviral Agents
@@ -263,18 +263,19 @@ Amino acid substitutions E92Q, G118R, S153F or Y, G193E or R263K emerged in diff
 
 Abacavir and Lamivudine: HIV-1 isolates with reduced susceptibility to the combination of abacavir and lamivudine have been selected in cell culture with amino acid substitutions K65R, L74V, Y115F, and M184V/I in HIV-1 RT.
 M184V or I substitutions resulted in high-level resistance to lamivudine and approximately 2-fold decrease in susceptibility to abacavir.
-Substitutions K65R, L74M, or Y115F with M184V or I conferred a 7- to 8-fold reduction in abacavir susceptibility, and combinations of three substitutions were required to confer more than an 8-fold reduction in susceptibility.
+Substitutions K65R, L74V, or Y115F with M184V or I conferred a 7- to 8-fold reduction in abacavir susceptibility, and combinations of three substitutions were required to confer more than an 8-fold reduction in susceptibility.
 
 Resistance in Clinical Subjects
 
-Dolutegravir: No subjects in the treatment arm receiving dolutegravir + EPZICOM in SINGLE (treatment-naïve trial) had a detectable decrease in susceptibility to dolutegravir or background NRTIs in the resistance analysis subset (n = 11 with HIV-1 RNA greater than 400 copies per mL at failure or last visit and having resistance data).
+No subjects in the treatment arm receiving dolutegravir + EPZICOM in SINGLE (treatment-naïve trial) had a detectable decrease in susceptibility to dolutegravir or background NRTIs in the resistance analysis subset (n = 11 with HIV-1 RNA greater than 400 copies per mL at failure or last visit and having resistance data).
 Two virologic failure subjects in SINGLE had treatment-emergent G/D/E193D and G193G/E integrase substitutions at Week 84 and Week 108, respectively, and 1 subject with 275 copies per mL HIV-1 RNA had a treatment-emergent Q157Q/P integrase substitution detected at Week 24.
 None of these subjects had a corresponding decrease in dolutegravir susceptibility.
 No treatment-emergent genotypic resistance to abacavir and lamivudine, components of TRIUMEQ, was observed in the arm receiving dolutegravir + EPZICOM in the SINGLE trial through Week 144.
 
 Cross-Resistance
 
-Dolutegravir: The single INSTI-resistance substitutions T66K, I151L, and S153Y conferred a greater than 2-fold decrease in dolutegravir susceptibility (range: 2.3-fold to 3.6-fold from reference).
+Dolutegravir: Cross-resistance has been observed among INSTIs.
+The single INSTI-resistance substitutions T66K, I151L, and S153Y conferred a greater than 2-fold decrease in dolutegravir susceptibility (range: 2.3-fold to 3.6-fold from reference).
 Combinations of multiple substitutions T66K/L74M, E92Q/N155H, G140C/Q148R, G140S/Q148H, R or K, Q148R/N155H, T97A/G140S/Q148, and substitutions at E138/G140/Q148 showed a greater than 2-fold decrease in dolutegravir susceptibility (range: 2.5-fold to 21-fold from reference).
 In HIV-2 mutants, combinations of substitutions A153G/N155H/S163G and E92Q/T97A/N155H/S163D conferred 4-fold decreases in dolutegravir susceptibility, and E92Q/N155H and G140S/Q148R showed 8.5-fold and 17-fold decreases in dolutegravir susceptibility, respectively.
 

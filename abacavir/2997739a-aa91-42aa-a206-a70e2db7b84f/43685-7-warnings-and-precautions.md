@@ -59,7 +59,7 @@ See full prescribing information for EPIVIR-HBV (lamivudine).
 Hepatic adverse events have been reported in patients receiving a dolutegravir-containing regimen [see Adverse Reactions (6.1)].
 Patients with underlying hepatitis B or C may be at increased risk for worsening or development of transaminase elevations with use of TRIUMEQ [see Adverse Reactions (6.1)].
 In some cases, the elevations in transaminases were consistent with immune reconstitution syndrome or hepatitis B reactivation particularly in the setting where anti-hepatitis therapy was withdrawn.
-Cases of hepatic toxicity including elevated serum liver biochemistries, hepatitis, and acute liver failure have also been reported in patients receiving a dolutegravir-containing regimen who had no pre-existing hepatic disease or other identifiable risk factors.
+Cases of hepatic toxicity, including elevated serum liver biochemistries, hepatitis, and acute liver failure, have also been reported in patients receiving a dolutegravir-containing regimen who had no pre-existing hepatic disease or other identifiable risk factors.
 Drug-induced liver injury leading to liver transplant has been reported with TRIUMEQ.
 Monitoring for hepatotoxicity is recommended.
 

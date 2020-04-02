@@ -40,7 +40,7 @@ Inform patients that some HIV medicines, including TRIUMEQ, can cause a rare, bu
 Embryo-Fetal Toxicity
 
 Advise adolescents and adults of childbearing potential to consider an alternative treatment to TRIUMEQ at the time of conception through the first trimester of pregnancy.
-Advise adolescents and adults of childbearing potential to contact their healthcare provider if they plan to become pregnant, become pregnant, or if pregnancy is suspected during treatment with TRIUMEQ [see Warnings and Precaution (5.6), Use in Specific Populations (8.1, 8.3)].
+Advise adolescents and adults of childbearing potential to contact their healthcare provider if they plan to become pregnant, become pregnant, or if pregnancy is suspected during treatment with TRIUMEQ [see Warnings and Precautions (5.6), Use in Specific Populations (8.1, 8.3)].
 
 Counsel adolescents and adults of childbearing potential taking TRIUMEQ to consistently use effective contraception [see Warnings and Precautions (5.6), Use in Specific Populations (8.1, 8.3)].
 
@@ -90,6 +90,6 @@ GlaxoSmithKline
 
 Research Triangle Park, NC 27709
 
-©2019 ViiV Healthcare group of companies or its licensor.
+©2020 ViiV Healthcare group of companies or its licensor.
 
-TRM:10PI
+TRM:11PI

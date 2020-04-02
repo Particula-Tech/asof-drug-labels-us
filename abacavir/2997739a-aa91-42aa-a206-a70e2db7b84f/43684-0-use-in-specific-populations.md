@@ -16,7 +16,7 @@ Due to the limited understanding of the types of reported neural tube defects as
 Initiation of TRIUMEQ is not recommended in adolescents and adults actively trying to become pregnant unless there is no suitable alternative (see Data).
 
 In adolescents and adults of childbearing potential currently on TRIUMEQ who are actively trying to become pregnant, or if pregnancy is confirmed in the first trimester, assess the risks and benefits of continuing TRIUMEQ versus switching to another antiretroviral regimen and consider switching to an alternative regimen Advise pregnant adolescents and adults of the potential risk to the embryo exposed to TRIUMEQ from the time of conception through the first trimester of pregnancy.
-A benefit-risk assessment should consider factors such as feasibility of switching, tolerability, ability to maintain viral suppression, and risk of transmission to the infant against the risk of neural tube defects [see Warnings and Precaution (5.6)].
+A benefit-risk assessment should consider factors such as feasibility of switching, tolerability, ability to maintain viral suppression, and risk of transmission to the infant against the risk of neural tube defects [see Warnings and Precautions (5.6)].
 
 There are insufficient human data on the use of TRIUMEQ during pregnancy to definitively assess a drug-associated risk for birth defects and miscarriage.
 The background risk for major birth defects for the indicated population is unknown.
@@ -38,7 +38,7 @@ Data analyzed to date from other sources including the APR, clinical trials, and
 
 Data from the birth outcome surveillance study described above and postmarketing sources with more than 1,000 pregnancy outcomes from second and third trimester exposure in pregnant women indicate no evidence of increased risk of adverse birth outcomes.
 
-Abacavir: Based on prospective reports to the APR of over 2,000 exposures to abacavir during pregnancy resulting in live births (including over 1,000 exposed in the first trimester), there was no difference between the overall risk of birth defects for abacavir compared with the background birth defect rate of 2.7% in the U.S. reference population of the MACDP.
+Abacavir: Based on prospective reports to the APR of over 2,000 exposures to abacavir during pregnancy resulting in live births (including over 1,000 exposed in the first trimester), there was no difference between the overall risk of birth defects for abacavir compared with the background birth defect rate of 2.7% in the U.S. reference population of the Metropolitan Atlanta Congenital Defects Program (MACDP).
 The prevalence of defects in live births was 2.9% (95% CI: 2.0% to 4.1%) following first trimester exposure to abacavir-containing regimens and 2.7% (95% CI: 1.9% to 3.7%) following second/third trimester exposure to abacavir-containing regimens.
 
 Abacavir has been shown to cross the placenta and concentrations in neonatal plasma at birth were essentially equal to those in maternal plasma at delivery [see Clinical Pharmacology (12.3)].
