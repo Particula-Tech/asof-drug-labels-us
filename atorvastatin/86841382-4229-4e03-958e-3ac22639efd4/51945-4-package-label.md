@@ -1,10 +1,8 @@
 # Package/Label Display Panel
 
-## Atorvastatin Calcium Tablets 10 mg 90s Label Text
-
 NDC 0093-5056-98
 
-Atorvastatin Calcium Tablets
+Atorvastatin Calcium Tablets USP
 
 10 mg*
 
@@ -18,11 +16,9 @@ TEVA
 
 # Package/Label Display Panel
 
-## Atorvastatin Calcium Tablets 20 mg 90s Label Text
-
 NDC 0093-5059-98
 
-Atorvastatin Calcium Tablets
+Atorvastatin Calcium Tablets USP
 
 20 mg*
 
@@ -36,11 +32,9 @@ TEVA
 
 # Package/Label Display Panel
 
-## Atorvastatin Calcium Tablets 40 mg 90s Label Text
-
 NDC 0093-5058-98
 
-Atorvastatin Calcium Tablets
+Atorvastatin Calcium Tablets USP
 
 40 mg*
 
@@ -54,11 +48,9 @@ TEVA
 
 # Package/Label Display Panel
 
-## Atorvastatin Calcium Tablets 80 mg 90s Label Text
-
 NDC 0093-5057-98
 
-Atorvastatin Calcium Tablets
+Atorvastatin Calcium Tablets USP
 
 80 mg*
 
