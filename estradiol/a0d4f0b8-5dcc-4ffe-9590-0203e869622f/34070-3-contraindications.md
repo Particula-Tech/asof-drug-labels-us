@@ -1,14 +1,12 @@
-# CONTRAINDICATIONS
+# 4 CONTRAINDICATIONS
 
-Alora should not be used in individuals with any of the following conditions:
+Alora is contraindicated in women with any of the following conditions:
 
-- Undiagnosed abnormal genital bleeding.
-- Known, suspected, or history of cancer of the breast.
-- Known or suspected estrogen-dependent neoplasia.
-- Active deep vein thrombosis, pulmonary embolism or a history of these conditions.
-- Active or recent (e.g., within the past year) arterial thromboembolic disease (e.g., stroke, myocardial infarction).
-- Liver dysfunction or disease.
-- Alora should not be used in patients with known hypersensitivity to its ingredients.
-- Known or suspected pregnancy.
-  There is no indication for Alora in pregnancy.
-  There appears to be little or no increased risk of birth defects in children born to women who have used estrogens and progestins from oral contraceptives inadvertently during early pregnancy [see PRECAUTIONS].
+- Undiagnosed abnormal genital bleeding [see Warnings and Precautions (5.2)].
+- Breast cancer or a history of breast cancer [see Warnings and Precautions (5.2)].
+- Estrogen-dependent neoplasia [see Warnings and Precautions (5.2)].
+- Active DVT, PE or a history of these conditions [see Warnings and Precautions (5.1)].
+- Active arterial thromboembolic disease (e.g., stroke and MI) or a history of these conditions [see Warnings and Precautions (5.1)].
+- Known anaphylactic reaction or angioedema or hypersensitivity with estradiol transdermal system
+- Hepatic impairment or disease
+- Protein C, protein S, or antithrombin deficiency, or other known thrombophilic disorders

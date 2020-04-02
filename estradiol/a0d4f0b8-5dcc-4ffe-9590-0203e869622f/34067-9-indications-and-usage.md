@@ -1,14 +1,18 @@
-# INDICATIONS AND USAGE
+# 1 INDICATIONS AND USAGE
 
-Alora is indicated in:
+## 1.1 Treatment of Moderate to Severe Vasomotor Symptoms due to Menopause
 
-- Treatment of moderate to severe vasomotor symptoms associated with the menopause.
-- Treatment of moderate to severe symptoms of vulvar and vaginal atrophy associated with the menopause.
-  When prescribing solely for the treatment of symptoms of vulvar and vaginal atrophy, topical vaginal products should be considered.
-- Treatment of hypoestrogenism due to hypogonadism, castration or primary ovarian failure.
-- Prevention of postmenopausal osteoporosis.
-  When prescribing solely for the prevention of postmenopausal osteoporosis, therapy should only be considered for women at significant risk of osteoporosis and non-estrogen medications should be carefully considered.
-  The mainstays for decreasing the risk of postmenopausal osteoporosis are weight bearing exercise, adequate calcium and vitamin D intake, and, when indicated, pharmacologic therapy.
-  Postmenopausal women require an average of 1500 mg/day of elemental calcium to remain in neutral calcium balance.
-  Therefore, when not contraindicated, calcium supplementation may be helpful for women with suboptimal dietary intake.
-  Vitamin D supplementation of 400-800 IU/day may also be required to ensure adequate daily intake in postmenopausal women.
+## 1.2 Treatment of Moderate to Severe Symptoms of Vulvar and Vaginal Atrophy due to Menopause
+
+Limitation of Use
+
+When prescribing solely for the treatment of symptoms of vulvar and vaginal atrophy, first consider the use of topical vaginal products.
+
+## 1.3 Treatment of Hypoestrogenism due to Hypogonadism, Castration or Primary Ovarian Failure
+
+## 1.4 Prevention of Postmenopausal Osteoporosis
+
+Limitation of Use
+
+When prescribing solely for the prevention of postmenopausal osteoporosis, only consider therapy for women at significant risk of osteoporosis.
+First consider the use of non-estrogen medications.
