@@ -68,18 +68,12 @@ Lactation
 
 Instruct women with HIV-1 infection not to breastfeed because HIV-1 can be passed to the baby in breast milk [see Use in Specific Populations (8.2)].
 
-KALETRA Tablets, 200 mg lopinavir and 50 mg ritonavir
+Manufactured by AbbVie Inc., North Chicago, IL 60064 USA
 
-Manufactured by AbbVie LTD, Barceloneta, PR 00617
-
-for AbbVie Inc., North Chicago, IL 60064 USA
-
-KALETRA Tablets, 100 mg lopinavir and 25 mg ritonavir and KALETRA Oral Solution
-
-AbbVie Inc., North Chicago, IL 60064 USA
+KALETRA is a trademark of AbbVie Inc.
 
 The brands listed are trademarks of their respective owners and are not trademarks of AbbVie Inc. The makers of these brands are not affiliated with and do not endorse AbbVie Inc. or its products.
 
-© 2019 AbbVie Inc. All rights reserved.
+© 2020 AbbVie Inc. All rights reserved.
 
-03-C068
+03-C476
