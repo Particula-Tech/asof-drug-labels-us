@@ -1,6 +1,6 @@
 # 11 DESCRIPTION
 
-ABRAXANE for Injectable Suspension (paclitaxel protein-bound particles for injectable suspension) (albumin--bound) is paclitaxel formulated as albumin--bound nanoparticles with a mean particle size of approximately 130 nanometers.
+ABRAXANE for Injectable Suspension (paclitaxel protein-bound particles for injectable suspension) (albumin-bound) is paclitaxel formulated as albumin-bound nanoparticles with a mean particle size of approximately 130 nanometers.
 Paclitaxel exists in the particles in a non-crystalline, amorphous state.
 Paclitaxel is a microtubule inhibitor.
 The chemical name for paclitaxel is 5β,20-Epoxy-1,2α,4,7β,10β,13α-hexahydroxytax-11-en-9-one 4,10-diacetate 2-benzoate 13-ester with (2R,3S)-N-benzoyl-3-phenylisoserine.

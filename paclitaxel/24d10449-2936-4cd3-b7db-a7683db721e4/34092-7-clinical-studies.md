@@ -72,12 +72,12 @@ Patients with rapid decline in KPS (≥10%) or serum albumin (≥20%) during the
 A total of 861 patients were randomized (1:1) to the ABRAXANE/gemcitabine arm (N=431) or to the gemcitabine arm (N=430).
 
 Randomization was stratified by geographic region (Australia, Western Europe, Eastern Europe, or North America), KPS (70 to 80 versus 90 to 100), and presence of liver metastasis (yes versus no). Patients randomized to ABRAXANE/gemcitabine received ABRAXANE 125 mg/m2 as an intravenous infusion over 30-40 minutes followed by gemcitabine 1000 mg/m2 as an intravenous infusion over 30-40 minutes on Days 1, 8, and 15 of each 28-day cycle.
-Patients randomized to gemcitabine received 1000 mg/m2 as an intravenous infusion over 30-40 minutes weekly for 7 weeks followed by a 1-week rest period in Cycle 1 then as 1000 mg/m2 on Days 1, 8 and 15 of each subsequent 28-day cycle.
+Patients randomized to gemcitabine received 1000 mg/m2 as an intravenous infusion over 30-40 minutes weekly for 7 weeks followed by a 1-week rest period in Cycle 1 then as 1000 mg/m2 on Days 1, 8, and 15 of each subsequent 28-day cycle.
 Patients in both arms received treatment until disease progression or unacceptable toxicity.
 The major efficacy outcome measure was overall survival (OS).
 Additional outcome measures were progression-free survival (PFS) and overall response rate (ORR), both assessed by independent, central, blinded radiological review using RECIST (version 1.0).
 
-In the intent to treat (all randomized) population, the median age was 63 years (range 27-88 years) with 42% ≥ 65 years of age; 58% were men; 93% were White and KPS was 90-100 in 60%.
+In the intent-to-treat (all randomized) population, the median age was 63 years (range 27-88 years) with 42% ≥ 65 years of age; 58% were men; 93% were White and KPS was 90-100 in 60%.
 Disease characteristics included 46% of patients with 3 or more metastatic sites; 84% of patients had liver metastasis; and the location of the primary pancreatic lesion was in the head of pancreas (43%), body (31%), or tail (25%).
 
 Results for overall survival, progression-free survival, and overall response rate are shown in Table 13.
@@ -110,4 +110,4 @@ Table 13: Efficacy Results from Randomized Study in Patients with Adenocarcinoma
 
 In exploratory analyses conducted in clinically relevant subgroups with a sufficient number of subjects, the treatment effects on overall survival were similar to that observed in the overall study population.
 
-Figure 1: Kaplan-Meier Curve of Overall Survival (Intent-to-treat Population)
+Figure 1: Kaplan-Meier Curve of Overall Survival (Intent-to-Treat Population)

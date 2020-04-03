@@ -11,12 +11,12 @@
 | What are the possible side effects of ABRAXANE? |  |
 | ABRAXANE may cause serious side effects, including: decreased blood cell counts. ABRAXANE can cause a severe decrease in neutrophils, a type of white blood cell which helps fight infections, and blood cells called platelets which help to clot blood. Your healthcare provider will check your blood cell count during your treatment with ABRAXANE.nerve problems (neuropathy). Tell your healthcare provider if you have numbness, tingling, pain, or weakness in your hands or feet.severe infection (sepsis). If you receive ABRAXANE in combination with gemcitabine, infections can be severe and lead to death. Tell your healthcare provider right away if you have a fever (temperature greater than 100.4° F) or develop signs of infection.lung or breathing problems. If you receive ABRAXANE in combination with gemcitabine, lung or breathing problems may be severe and can lead to death. Tell your healthcare provider right away if you suddenly get a dry cough that will not go away or shortness of breath.allergic reactions. Severe allergic reactions are medical emergencies that can happen in people who receive ABRAXANE and can lead to death. You may have an increased risk of having an allergic reaction to ABRAXANE if you are allergic to other taxane medicines. Your healthcare provider will monitor you closely for allergic reactions during your infusion of ABRAXANE. Tell your healthcare provider right away if you get any of these signs of a serious allergic reaction: trouble breathing, sudden swelling of your face, lips, tongue, throat, or trouble swallowing, hives (raised bumps), rash, or redness all over your body. |  |
 | The most common side effects of ABRAXANE in people with breast cancer include: |  |
-| hair lossnumbness, tingling, pain, or weakness in the hands or feettirednesschanges in your liver function testsnauseadiarrheainfections | decreased white blood cell countabnormal heartbeatjoint and muscle painlow red blood cell count (anemia). Red blood cells carry oxygen to your body tissues. Tell your healthcare provider if you feel weak, tired or short of breath. |
+| hair lossnumbness, tingling, pain, or weakness in the hands or feettirednesschanges in your liver function testsnauseadiarrheainfections | decreased white blood cell countabnormal heartbeatjoint and muscle painlow red blood cell count (anemia). Red blood cells carry oxygen to your body tissues. Tell your healthcare provider if you feel weak, tired, or short of breath. |
 | The most common side effects of ABRAXANE in people with non-small cell lung cancer include: |  |
 | low red blood cell count (anemia)decreased platelet cell countnumbness, tingling, pain, or weakness in the hands or feettiredness | decreased white blood cell counthair lossnausea |
 | The most common side effects of ABRAXANE in people with pancreatic cancer include: |  |
-| decreased white blood cell countnumbness, tingling, pain, or weakness in the hands or feethair lossdiarrheavomitingrash | tirednessnauseaswelling in the hands or feetfeverdecreased appetitesigns of dehydration including, thirst, dry mouth, dark yellow urine, decreased urine, headache, or muscle cramps |
-| Tell your healthcare provider if you have vomiting, diarrhea or signs of dehydration that does not go away. |  |
+| decreased white blood cell countnumbness, tingling, pain, or weakness in the hands or feethair lossdiarrheavomitingrash | tirednessnauseaswelling in the hands or feetfeverdecreased appetitesigns of dehydration including thirst, dry mouth, dark yellow urine, decreased urine, headache, or muscle cramps |
+| Tell your healthcare provider if you have vomiting, diarrhea, or signs of dehydration that does not go away. |  |
 | ABRAXANE may cause fertility problems in males and females, which may affect your ability to have a child. Talk to your healthcare provider if this is a concern for you. These are not all the possible side effects of ABRAXANE. |  |
 | Call your doctor for medical advice about side effects. You may report side effects to FDA at 1-800-FDA-1088. |  |
 | General information about the safe and effective use of ABRAXANE. |  |
@@ -26,10 +26,10 @@
 | Other ingredient: human albumin (containing sodium caprylate and sodium acetyltryptophanate). |  |
 | Manufactured for: Celgene Corporation Summit, NJ 07901 |  |
 | ABRAXANE® is a registered trademark of Abraxis BioScience, LLC. |  |
-| © 2005-2019 Abraxis BioScience, LLC. |  |
+| © 2005-2020 Abraxis BioScience, LLC. |  |
 | All Rights Reserved. |  |
 | Abraxis BioScience, LLC is a wholly owned subsidiary of Celgene Corporation. |  |
 | U.S. Patent Numbers: www.celgene.com/therapies |  |
-| ABRPPI.011 12/19 |  |
+| ABRPPI.012 |  |
 | For more information, call 1-888-423-5436. |  |
-| This Patient Information has been approved by the U.S. Food and Drug Administration. | Revised: 12/2019 |
+| This Patient Information has been approved by the U.S. Food and Drug Administration. | Revised: 03/2020 |

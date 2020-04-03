@@ -11,10 +11,10 @@ The most common adverse reactions resulting in dose reduction of ABRAXANE are ne
 The most common adverse reactions leading to withholding or delay in ABRAXANE dosing are neutropenia (41%), thrombocytopenia (30%), and anemia (16%).
 
 In a randomized open-label trial of ABRAXANE in combination with gemcitabine for pancreatic adenocarcinoma [see Clinical Studies (14.3)], the most common (≥ 20%) selected (with a ≥ 5% higher incidence) adverse reactions of ABRAXANE are neutropenia, fatigue, peripheral neuropathy, nausea, alopecia, peripheral edema, diarrhea, pyrexia, vomiting, decreased appetite, rash, and dehydration [see Adverse Reactions (6.1)].
-The most common serious adverse reactions of ABRAXANE (with a ≥ 1% higher incidence) are pyrexia (6%), dehydration (5%), pneumonia (4%) and vomiting (4%).
-The most common adverse reactions resulting in permanent discontinuation of ABRAXANE are peripheral neuropathy (8%), fatigue (4%) and thrombocytopenia (2%).
+The most common serious adverse reactions of ABRAXANE (with a ≥ 1% higher incidence) are pyrexia (6%), dehydration (5%), pneumonia (4%), and vomiting (4%).
+The most common adverse reactions resulting in permanent discontinuation of ABRAXANE are peripheral neuropathy (8%), fatigue (4%), and thrombocytopenia (2%).
 The most common adverse reactions resulting in dose reduction of ABRAXANE are neutropenia (10%) and peripheral neuropathy (6%).
-The most common adverse reactions leading to withholding or delay in ABRAXANE dosing are neutropenia (16%), thrombocytopenia (12%), fatigue (8%), peripheral neuropathy (15%), anemia (5%) and diarrhea (5%).
+The most common adverse reactions leading to withholding or delay in ABRAXANE dosing are neutropenia (16%), thrombocytopenia (12%), fatigue (8%), peripheral neuropathy (15%), anemia (5%), and diarrhea (5%).
 
 ## 6.1 Clinical Trials Experience
 
@@ -89,7 +89,7 @@ Table 6: Frequencya of Important Treatment Emergent Adverse Events in the Random
 | a Based on worst grade by NCI Common Terminology Criteria for Adverse Events (CTCAE) version 2. |  |  |
 | b Paclitaxel injection patients received premedication. |  |  |
 | c Includes treatment-related events related to hypersensitivity (e.g., flushing, dyspnea, chest pain, hypotension) that began on a day of dosing. |  |  |
-| d Severe events are defined as at least grade 3 toxicity. |  |  |
+| d Severe events are defined as at least Grade 3 toxicity. |  |  |
 
 Adverse Event Experiences by Body System
 
@@ -243,7 +243,7 @@ Additional clinically relevant adverse reactions that were reported in < 10% of 
 
 Infections & infestations: oral candidiasis, pneumonia Vascular disorders: hypertension Cardiac disorders: tachycardia, congestive cardiac failure Eye disorders: cystoid macular edema
 
-Peripheral Neuropathy Grade 3 peripheral neuropathy occurred in 17% of patients who received ABRAXANE/gemcitabine compared to 1% of patients who received gemcitabine only; no patients developed grade 4 peripheral neuropathy.
+Peripheral Neuropathy Grade 3 peripheral neuropathy occurred in 17% of patients who received ABRAXANE/gemcitabine compared to 1% of patients who received gemcitabine only; no patients developed Grade 4 peripheral neuropathy.
 The median time to first occurrence of Grade 3 peripheral neuropathy in the ABRAXANE arm was 140 days.
 Upon suspension of ABRAXANE dosing, the median time to improvement from Grade 3 peripheral neuropathy to ≤ Grade 1 was 29 days.
 Of ABRAXANE-treated patients with Grade 3 peripheral neuropathy, 44% resumed ABRAXANE at a reduced dose.
@@ -268,7 +268,7 @@ In postmarketing experience, cross-hypersensitivity between ABRAXANE and other t
 Cardiovascular There have been reports of congestive heart failure, left ventricular dysfunction, and atrioventricular block with ABRAXANE.
 Most of the individuals were previously exposed to cardiotoxic drugs, such as anthracyclines, or had underlying cardiac history.
 
-Respiratory There have been reports of pneumonitis, interstitial pneumonia and pulmonary embolism in patients receiving ABRAXANE and reports of radiation pneumonitis in patients receiving concurrent radiotherapy.
+Respiratory There have been reports of pneumonitis, interstitial pneumonia, and pulmonary embolism in patients receiving ABRAXANE and reports of radiation pneumonitis in patients receiving concurrent radiotherapy.
 Reports of lung fibrosis have been received as part of the continuing surveillance of paclitaxel injection safety and may also be observed with ABRAXANE.
 
 Neurologic Cranial nerve palsies and vocal cord paresis have been reported, as well as autonomic neuropathy resulting in paralytic ileus.
@@ -294,7 +294,7 @@ Recurrence of skin reactions at a site of previous extravasation following admin
 Metabolic and Nutritional Disorders Tumor lysis syndrome has been reported with ABRAXANE.
 
 Other Clinical Events Skin reactions including generalized or maculopapular rash, erythema, and pruritus have been observed with ABRAXANE.
-There have been case reports of photosensitivity reactions, radiation recall phenomenon, and in some patients previously exposed to capecitabine, reports of palmar-plantar erythrodysesthesia.
+There have been case reports of photosensitivity reactions, radiation recall phenomenon, scleroderma, and in some patients previously exposed to capecitabine, reports of palmar-plantar erythrodysesthesia.
 Stevens-Johnson syndrome and toxic epidermal necrolysis have been reported.
 
 There have been reports of conjunctivitis, cellulitis, and increased lacrimation with paclitaxel injection.
