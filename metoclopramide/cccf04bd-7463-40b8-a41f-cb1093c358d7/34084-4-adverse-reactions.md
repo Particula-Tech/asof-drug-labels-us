@@ -5,16 +5,16 @@ The following reactions have been reported, although in most instances, data do 
 
 ## CNS Effects
 
-Restlessness, drowsiness, fatigue, and lassitude may occur in patients receiving the recommended prescribed dosage of metoclopramide injection USP.
+Restlessness, drowsiness, fatigue, and lassitude may occur in patients receiving the recommended prescribed dosage of metoclopramide injection.
 Insomnia, headache, confusion, dizziness, or mental depression with suicidal ideation also may occur (see WARNINGS).
-In cancer chemotherapy patients being treated with 1-2 mg/kg per dose, incidence of drowsiness is about 70%.
+In cancer chemotherapy patients being treated with 1 to 2 mg/kg per dose, incidence of drowsiness is about 70%.
 There are isolated reports of convulsive seizures without clear-cut relationship to metoclopramide.
 Rarely, hallucinations have been reported.
 
 ## Extrapyramidal Reactions (EPS)
 
 Acute dystonic reactions, the most common type of EPS associated with metoclopramide, occur in approximately 0.2% of patients (1 in 500) treated with 30 to 40 mg of metoclopramide per day.
-In cancer chemotherapy patients receiving 1-2 mg/kg per dose, the incidence is 2% in patients over the ages of 30-35, and 25% or higher in pediatric patients and adult patients less than 30 years of age who have not had prophylactic administration of diphenhydramine.
+In cancer chemotherapy patients receiving 1 to 2 mg/kg per dose, the incidence is 2% in patients over the ages of 30 to 35, and 25% or higher in pediatric patients and adult patients less than 30 years of age who have not had prophylactic administration of diphenhydramine.
 Symptoms include involuntary movements of limbs, facial grimacing, torticollis, oculogyric crisis, rhythmic protrusion of tongue, bulbar type of speech, trismus, opisthotonus (tetanus-like reactions), and, rarely, stridor and dyspnea possibly due to laryngospasm; ordinarily these symptoms are readily reversed by diphenhydramine (see WARNINGS).
 
 Parkinsonian-like symptoms may include bradykinesia, tremor, cogwheel rigidity, mask-like facies (see WARNINGS).
@@ -67,3 +67,5 @@ Visual disturbances.
 Porphyria.
 
 Transient flushing of the face and upper body, without alterations in vital signs, following high doses intravenously.
+
+To report SUSPECTED ADVERSE REACTIONS, contact Teva Pharmaceuticals USA, Inc. at 1-888-838-2872 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.

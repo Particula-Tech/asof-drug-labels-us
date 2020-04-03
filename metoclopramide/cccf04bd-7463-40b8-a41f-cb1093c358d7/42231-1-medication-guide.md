@@ -1,10 +1,10 @@
 # MEDICATION GUIDE
 
-Metoclopramide (met” oh kloe’ pra mide) Injection USP
+Metoclopramide (met” oh kloe’ pra mide) Injection
 
 Rx Only
 
-You or your caregiver should read the Medication Guide before you start receiving metoclopramide injection USP and before you get another dose of metoclopramide injection USP.
+You or your caregiver should read the Medication Guide before you start receiving metoclopramide injection USP and before you get another dose of metoclopramide injection.
 There may be new information.
 If you take another product that contains metoclopramide (such as metoclopramide tablets, metoclopramide orally disintegrating tablets, or metoclopramide oral solution), you should read the Medication Guide that comes with that product.
 Some of the information may be different.
@@ -179,9 +179,7 @@ This Medication Guide has been approved by the U.S. Food and Drug Administration
 
 All brand names listed are the registered trademarks of their respective owners and are not trademarks of Teva Pharmaceuticals USA.
 
+Distributed by: Teva Pharmaceuticals USA, Inc. Parsippany, NJ 07054
+
 Rev.
-A 11/2012
-
-Teva Parenteral Medicines, Inc.
-
-Irvine, CA 92618
+B 2/2020

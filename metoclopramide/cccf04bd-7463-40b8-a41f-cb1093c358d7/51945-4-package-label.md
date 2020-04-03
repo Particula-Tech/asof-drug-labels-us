@@ -12,7 +12,7 @@ Metoclopramide Injection USP
 
 of metoclopramide present as the hydrochloride
 
-25 x 2 mL Single-Use Vials
+25 x 2 mL Single-Dose Vials
 
 For Intramuscular or Intravenous Use
 

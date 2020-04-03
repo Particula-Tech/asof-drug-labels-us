@@ -16,8 +16,8 @@ Bromocriptine and dantrolene sodium have been used in treatment of NMS, but thei
 
 ### Acute Dystonic Reactions
 
-Acute dystonic reactions occur in approximately 1 in 500 patients treated with the usual adult dosages of 30-40 mg/day of metoclopramide.
-These usually are seen during the first 24-48 hours of treatment with metoclopramide, occur more frequently in pediatric patients and adult patients less than 30 years of age and are even more frequent at the higher doses used in prophylaxis of vomiting due to cancer chemotherapy.
+Acute dystonic reactions occur in approximately 1 in 500 patients treated with the usual adult dosages of 30 to 40 mg/day of metoclopramide.
+These usually are seen during the first 24 to 48 hours of treatment with metoclopramide, occur more frequently in pediatric patients and adult patients less than 30 years of age and are even more frequent at the higher doses used in prophylaxis of vomiting due to cancer chemotherapy.
 These symptoms may include involuntary movements of limbs and facial grimacing, torticollis, oculogyric crisis, rhythmic protrusion of tongue, bulbar type of speech, trismus, or dystonic reactions resembling tetanus.
 Rarely, dystonic reactions may present as stridor and dyspnea, possibly due to laryngospasm.
 If these symptoms should occur, inject 50 mg Benadryl® (diphenhydramine hydrochloride) intramuscularly, and they usually will subside.
@@ -43,7 +43,7 @@ Therefore, metoclopramide should not be used for the symptomatic control of TD.
 ## Parkinsonian-like Symptoms
 
 Parkinsonian-like symptoms, including bradykinesia, tremor, cogwheel rigidity, or mask-like facies, have occurred more commonly within the first 6 months after beginning treatment with metoclopramide, but occasionally after longer periods.
-These symptoms generally subside within 2-3 months following discontinuance of metoclopramide.
+These symptoms generally subside within 2 to 3 months following discontinuance of metoclopramide.
 Patients with preexisting Parkinson's disease should be given metoclopramide cautiously, if at all, since such patients may experience exacerbation of parkinsonian symptoms when taking metoclopramide.
 
 ## Depression
@@ -63,14 +63,14 @@ Intravenous injections of undiluted metoclopramide should be made slowly allowin
 Because metoclopramide produces a transient increase in plasma aldosterone, certain patients, especially those with cirrhosis or congestive heart failure, may be at risk of developing fluid retention and volume overload.
 If these side effects occur at any time during metoclopramide therapy, the drug should be discontinued.
 
-Intravenous administration of metoclopramide injection USP diluted in a parenteral solution should be made slowly over a period of not less than 15 minutes.
+Intravenous administration of metoclopramide injection diluted in a parenteral solution should be made slowly over a period of not less than 15 minutes.
 
 Giving a promotility drug such as metoclopramide theoretically could put increased pressure on suture lines following a gut anastomosis or closure.
 This possibility should be considered and weighed when deciding whether to use metoclopramide or nasogastric suction in the prevention of postoperative nausea and vomiting.
 
 ## Information for Patients
 
-A patient Medication Guide is available for metoclopramide injection USP.
+A patient Medication Guide is available for metoclopramide injection.
 The prescriber or health professional should instruct patients, their families, and their caregivers to read the Medication Guide and should assist them in understanding its contents.
 Patients should be given the opportunity to discuss the contents of the Medication Guide and to obtain answers to any questions they may have.
 Refer to accompanying Medication Guide.
@@ -126,18 +126,18 @@ Dystonias and other extrapyramidal reactions associated with metoclopramide are 
 
 ## Geriatric Use
 
-Clinical studies of metoclopramide injection USP did not include sufficient numbers of subjects aged 65 and over to determine whether elderly subjects respond differently from younger subjects.
+Clinical studies of metoclopramide injection did not include sufficient numbers of subjects aged 65 and over to determine whether elderly subjects respond differently from younger subjects.
 
 The risk of developing parkinsonian-like side effects increases with ascending dose.
-Geriatric patients should receive the lowest dose of metoclopramide injection USP that is effective.
-If parkinsonian-like symptoms develop in a geriatric patient receiving metoclopramide injection USP, metoclopramide injection USP should generally be discontinued before initiating any specific anti-parkinsonian agents (see WARNINGS).
+Geriatric patients should receive the lowest dose of metoclopramide injection that is effective.
+If parkinsonian-like symptoms develop in a geriatric patient receiving metoclopramide injection, metoclopramide injection should generally be discontinued before initiating any specific anti-parkinsonian agents (see WARNINGS).
 
 The elderly may be at greater risk for tardive dyskinesia (see WARNINGS - Tardive Dyskinesia).
 
-Sedation has been reported in metoclopramide injection USP users.
+Sedation has been reported in metoclopramide injection users.
 Sedation may cause confusion and manifest as over-sedation in elderly (see CLINICAL PHARMACOLOGY, PRECAUTIONS – Information for Patients and ADVERSE REACTIONS – CNS Effects).
 
-Metoclopramide injection USP is known to be substantially excreted by the kidney, and the risk of toxic reactions to this drug may be greater in patients with impaired renal function (see DOSAGE AND ADMINISTRATION - Use in Patients With Renal or Hepatic Impairment).
+Metoclopramide injection is known to be substantially excreted by the kidney, and the risk of toxic reactions to this drug may be greater in patients with impaired renal function (see DOSAGE AND ADMINISTRATION - Use in Patients With Renal or Hepatic Impairment).
 
 For these reasons, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased renal function, concomitant disease, or other drug therapy in the elderly (see Use in Patients With Renal or Hepatic Impairment).
 
