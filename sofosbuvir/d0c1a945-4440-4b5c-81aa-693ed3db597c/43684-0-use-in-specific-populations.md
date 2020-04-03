@@ -4,11 +4,11 @@
 
 Risk Summary
 
-If sofosbuvir and velpatasvir tablets are administered with ribavirin, the combination regimen is contraindicated in pregnant women and in men whose female partners are pregnant.
+If sofosbuvir and velpatasvir is administered with ribavirin, the combination regimen is contraindicated in pregnant women and in men whose female partners are pregnant.
 Refer to the ribavirin prescribing information for more information on ribavirin-associated risks of use during pregnancy.
 
-No adequate human data are available to establish whether or not sofosbuvir and velpatasvir tablets pose a risk to pregnancy outcomes.
-In animal reproduction studies, no evidence of adverse developmental outcomes was observed with the components of sofosbuvir and velpatasvir tablets (sofosbuvir or velpatasvir) at exposures greater than those in humans at the recommended human dose (RHD) [see Data].
+No adequate human data are available to establish whether or not sofosbuvir and velpatasvir pose a risk to pregnancy outcomes.
+In animal reproduction studies, no evidence of adverse developmental outcomes was observed with sofosbuvir or velpatasvir at exposures greater than those in humans at the recommended human dose (RHD) [see Data].
 During organogenesis in the mouse, rat, and rabbit, systemic exposures (AUC) to velpatasvir were approximately 31 (mice), 6 (rats), and 0.4 (rabbits) times the exposure in humans at the RHD, while exposures to the predominant circulating metabolite of sofosbuvir (GS-331007) were approximately 4 (rats) and 10 (rabbits) times the exposure in humans at the RHD.
 In rat pre/postnatal development studies, maternal systemic exposures (AUC) to velpatasvir and GS-331007 were approximately 5 times the exposures of each component in humans at the RHD.
 
@@ -29,13 +29,13 @@ The systemic exposures (AUC) of velpatasvir during gestation were approximately 
 
 Risk Summary
 
-It is not known whether the components of sofosbuvir and velpatasvir tablets and their metabolites are present in human breast milk, affect human milk production, or have effects on the breastfed infant.
+It is not known whether sofosbuvir, velpatasvir, and their metabolites are present in human breast milk, affect human milk production, or have effects on the breastfed infant.
 The predominant circulating metabolite of sofosbuvir (GS-331007) was the primary component observed in the milk of lactating rats administered sofosbuvir, without effect on nursing pups.
 When administered to lactating rats, velpatasvir was detected in the milk of lactating rats and in the plasma of nursing pups without effects on the nursing pups [see Data].
 
-The development and health benefits of breastfeeding should be considered along with the mother's clinical need for sofosbuvir and velpatasvir tablets and any potential adverse effects on the breastfed child from sofosbuvir and velpatasvir tablets or from the underlying maternal condition.
+The development and health benefits of breastfeeding should be considered along with the mother's clinical need for sofosbuvir and velpatasvir and any potential adverse effects on the breastfed child from sofosbuvir and velpatasvir or from the underlying maternal condition.
 
-If sofosbuvir and velpatasvir tablets are administered with ribavirin, the nursing mother's information for ribavirin also applies to this combination regimen.
+If sofosbuvir and velpatasvir is administered with ribavirin, the nursing mother's information for ribavirin also applies to this combination regimen.
 Refer to the ribavirin prescribing information for more information on use during lactation.
 
 Data
@@ -50,27 +50,38 @@ Velpatasvir was present in the milk (approximately 173% that of maternal plasma 
 
 ## 8.3 Females and Males of Reproductive Potential
 
-If sofosbuvir and velpatasvir tablets are administered with ribavirin, the information for ribavirin with regard to pregnancy testing, contraception, and infertility also applies to this combination regimen.
+If sofosbuvir and velpatasvir is administered with ribavirin, the information for ribavirin with regard to pregnancy testing, contraception, and infertility also applies to this combination regimen.
 Refer to ribavirin prescribing information for additional information.
 
 ## 8.4 Pediatric Use
 
-Safety and effectiveness of sofosbuvir and velpatasvir tablets have not been established in pediatric patients.
+The pharmacokinetics, safety, and effectiveness of sofosbuvir and velpatasvir for treatment of HCV genotype 1, 2, 3, 4, or 6 infection in treatment-naïve and treatment-experienced pediatric patients 6 years of age and older or weighing at least 17 kg without cirrhosis or with compensated cirrhosis have been established in an open-label, multicenter clinical trial (Study 1143, N=175; 149 treatment-naïve, 26 treatment-experienced).
+No clinically meaningful differences in pharmacokinetics were observed in comparison to those observed in adults.
+The safety and effectiveness were comparable with those observed in adults [see Dosage and Administration (2.4), Adverse Reactions (6.1), Clinical Pharmacology (12.3), and Clinical Studies (14.6)].
+
+The safety and effectiveness of sofosbuvir and velpatasvir for treatment of HCV genotype 5 in pediatric patients 6 years of age and older or weighing at least 17 kg without cirrhosis or with compensated cirrhosis are supported by sofosbuvir, GS-331007, and velpatasvir exposures in adults and pediatric patients [see Dosage and Administration (2.2 and 2.4), Adverse Reactions (6.1), Clinical Pharmacology (12.3), and Clinical Studies (14.6)].
+Similar rationale is used to support dosing recommendations for pediatric patients with HCV genotype 1, 2, 3, 4, 5, or 6 infection who have decompensated cirrhosis (Child-Pugh B or C).
+
+In patients with severe renal impairment, including those requiring dialysis, exposures of GS-331007, the inactive metabolite of sofosbuvir, are increased [see Clinical Pharmacology (12.3)].
+No data are available regarding the safety of sofosbuvir and velpatasvir in pediatric patients with renal impairment [see Use in Specific Populations (8.6)].
+
+The safety and effectiveness of sofosbuvir and velpatasvir have not been established in pediatric patients less than 6 years of age.
 
 ## 8.5 Geriatric Use
 
-Clinical trials of sofosbuvir and velpatasvir tablets included 156 subjects aged 65 and over (12% of total number of subjects in the Phase 3 clinical trials).
+Clinical trials of sofosbuvir and velpatasvir included 156 subjects aged 65 and over (12% of total number of subjects in the Phase 3 clinical trials).
 No overall differences in safety or effectiveness were observed between these subjects and younger subjects, and other reported clinical experience has not identified differences in responses between the elderly and younger patients, but greater sensitivity of some older individuals cannot be ruled out.
-No dosage adjustment of sofosbuvir and velpatasvir tablets is warranted in geriatric patients [see Clinical Pharmacology (12.3)].
+No dosage adjustment of sofosbuvir and velpatasvir is warranted in geriatric patients [see Clinical Pharmacology (12.3)].
 
 ## 8.6 Renal Impairment
 
-No dosage adjustment of sofosbuvir and velpatasvir tablets is recommended for patients with mild, moderate, or severe renal impairment, including ESRD requiring dialysis [see Dosage and Administration (2.3), Adverse Reactions (6.1), Clinical Pharmacology (12.3), and Clinical Studies (14.5)].
+No dosage adjustment of sofosbuvir and velpatasvir is recommended for patients with mild, moderate, or severe renal impairment, including ESRD requiring dialysis [see Dosage and Administration (2.5), Adverse Reactions (6.1), Clinical Pharmacology (12.3), and Clinical Studies (14.5)].
 No safety data are available in subjects with both decompensated cirrhosis and severe renal impairment, including ESRD requiring dialysis.
+Additionally, no safety data are available in pediatric patients with renal impairment [see Use in Specific Populations (8.4)].
 Refer to ribavirin tablet prescribing information regarding use of ribavirin in patients with renal impairment.
 
 ## 8.7 Hepatic Impairment
 
-No dosage adjustment of sofosbuvir and velpatasvir tablets is recommended for patients with mild, moderate, or severe hepatic impairment (Child-Pugh Class A, B, or C) [see Adverse Reactions (6.1), Clinical Pharmacology (12.3), and Clinical Studies (14)].
+No dosage adjustment of sofosbuvir and velpatasvir is recommended for patients with mild, moderate, or severe hepatic impairment (Child-Pugh Class A, B, or C) [see Adverse Reactions (6.1), Clinical Pharmacology (12.3), and Clinical Studies (14)].
 
-Clinical and hepatic laboratory monitoring (including direct bilirubin), as clinically indicated, is recommended for patients with decompensated cirrhosis receiving treatment with sofosbuvir and velpatasvir tablets and ribavirin [see Adverse Reactions (6.1)].
+Clinical and hepatic laboratory monitoring (including direct bilirubin), as clinically indicated, is recommended for patients with decompensated cirrhosis receiving treatment with sofosbuvir and velpatasvir and ribavirin [see Adverse Reactions (6.1)].

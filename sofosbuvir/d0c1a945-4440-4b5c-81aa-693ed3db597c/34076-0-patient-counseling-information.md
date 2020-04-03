@@ -13,15 +13,15 @@ Advise patients to seek medical evaluation immediately for symptoms of bradycard
 
 Drug Interactions
 
-Inform patients that sofosbuvir and velpatasvir tablets may interact with other drugs.
+Inform patients that sofosbuvir and velpatasvir may interact with other drugs.
 Advise patients to report to their healthcare provider the use of any other prescription or nonprescription medication or herbal products including St. John's wort [see Warnings and Precautions (5.2, 5.3) and Drug Interactions (7)].
 
 Administration
 
-Advise patients to take sofosbuvir and velpatasvir tablets once daily on a regular dosing schedule with or without food.
-Inform patients that it is important not to miss or skip doses and to take sofosbuvir and velpatasvir tablets for the duration that is recommended by the physician.
+Advise patients to take sofosbuvir and velpatasvir once daily on a regular dosing schedule with or without food.
+Inform patients that it is important not to miss or skip doses and to take sofosbuvir and velpatasvir for the duration that is recommended by the physician.
 
 Pregnancy
 
-Advise patients to avoid pregnancy during combination treatment with sofosbuvir and velpatasvir tablets and ribavirin and for 6 months after completion of treatment.
+Advise patients to avoid pregnancy during combination treatment with sofosbuvir and velpatasvir and ribavirin and for 6 months after completion of treatment.
 Inform patients to notify their healthcare provider immediately in the event of a pregnancy [see Use in Specific Populations (8.1)].

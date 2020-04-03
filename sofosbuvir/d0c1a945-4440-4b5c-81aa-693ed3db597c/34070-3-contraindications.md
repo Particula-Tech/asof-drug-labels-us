@@ -1,4 +1,4 @@
 # 4 CONTRAINDICATIONS
 
-Sofosbuvir and velpatasvir tablets and ribavirin combination regimen is contraindicated in patients for whom ribavirin is contraindicated.
-Refer to the ribavirin prescribing information for a list of contraindications for ribavirin.
+Sofosbuvir and velpatasvir and ribavirin combination regimen is contraindicated in patients for whom ribavirin is contraindicated.
+Refer to the ribavirin prescribing information for a list of contraindications for ribavirin [see Dosage and Administration (2.2, 2.3, 2.4)].

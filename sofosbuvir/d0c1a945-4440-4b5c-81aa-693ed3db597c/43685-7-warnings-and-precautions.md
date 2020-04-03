@@ -11,8 +11,8 @@ HBV reactivation is characterized as an abrupt increase in HBV replication manif
 In patients with resolved HBV infection, reappearance of HBsAg can occur.
 Reactivation of HBV replication may be accompanied by hepatitis, i.e., increases in aminotransferase levels and, in severe cases, increases in bilirubin levels, liver failure, and death can occur.
 
-Test all patients for evidence of current or prior HBV infection by measuring HBsAg and anti-HBc before initiating HCV treatment with sofosbuvir and velpatasvir tablets.
-In patients with serologic evidence of HBV infection, monitor for clinical and laboratory signs of hepatitis flare or HBV reactivation during HCV treatment with sofosbuvir and velpatasvir tablets and during post-treatment follow-up.
+Test all patients for evidence of current or prior HBV infection by measuring HBsAg and anti-HBc before initiating HCV treatment with sofosbuvir and velpatasvir.
+In patients with serologic evidence of HBV infection, monitor for clinical and laboratory signs of hepatitis flare or HBV reactivation during HCV treatment with sofosbuvir and velpatasvir and during post-treatment follow-up.
 Initiate appropriate patient management for HBV infection as clinically indicated.
 
 ## 5.2 Serious Symptomatic Bradycardia When Coadministered with Amiodarone
@@ -24,25 +24,25 @@ Patients also taking beta blockers, or those with underlying cardiac comorbiditi
 Bradycardia generally resolved after discontinuation of HCV treatment.
 The mechanism for this effect is unknown.
 
-Coadministration of amiodarone with sofosbuvir and velpatasvir tablets is not recommended.
-For patients taking amiodarone who have no other alternative viable treatment options and who will be coadministered sofosbuvir and velpatasvir tablets:
+Coadministration of amiodarone with sofosbuvir and velpatasvir is not recommended.
+For patients taking amiodarone who have no other alternative viable treatment options and who will be coadministered sofosbuvir and velpatasvir:
 
 - Counsel patients about the risk of symptomatic bradycardia.
 - Cardiac monitoring in an in-patient setting for the first 48 hours of coadministration is recommended, after which outpatient or self-monitoring of the heart rate should occur on a daily basis through at least the first 2 weeks of treatment.
 
-Patients who are taking sofosbuvir and velpatasvir tablets who need to start amiodarone therapy due to no other alternative viable treatment options should undergo similar cardiac monitoring as outlined above.
+Patients who are taking sofosbuvir and velpatasvir who need to start amiodarone therapy due to no other alternative viable treatment options should undergo similar cardiac monitoring as outlined above.
 
-Due to amiodarone's long half-life, patients discontinuing amiodarone just prior to starting sofosbuvir and velpatasvir tablets should also undergo similar cardiac monitoring as outlined above.
+Due to amiodarone's long half-life, patients discontinuing amiodarone just prior to starting sofosbuvir and velpatasvir should also undergo similar cardiac monitoring as outlined above.
 
 Patients who develop signs or symptoms of bradycardia should seek medical evaluation immediately.
 Symptoms may include near-fainting or fainting, dizziness or lightheadedness, malaise, weakness, excessive tiredness, shortness of breath, chest pains, confusion, or memory problems [see Adverse Reactions (6.2) and Drug Interactions (7.3)].
 
-## 5.3 Risk of Reduced Therapeutic Effect Due to Concomitant Use of Sofosbuvir and Velpatasvir Tablets with Inducers of P-gp and/or Moderate to Strong Inducers of CYP
+## 5.3 Risk of Reduced Therapeutic Effect Due to Concomitant Use of Sofosbuvir and Velpatasvir with Inducers of P-gp and/or Moderate to Strong Inducers of CYP
 
 Drugs that are inducers of P-gp and/or moderate to strong inducers of CYP2B6, CYP2C8, or CYP3A4 (e.g., rifampin, St. John's wort, carbamazepine) may significantly decrease plasma concentrations of sofosbuvir and/or velpatasvir, leading to potentially reduced therapeutic effect of sofosbuvir and velpatasvir.
-The use of these agents with sofosbuvir and velpatasvir tablets is not recommended [see Drug Interactions (7.3)].
+The use of these agents with sofosbuvir and velpatasvir is not recommended [see Drug Interactions (7.3)].
 
-## 5.4 Risks Associated with Ribavirin and Sofosbuvir and Velpatasvir Tablets Combination Treatment
+## 5.4 Risks Associated with Ribavirin and Sofosbuvir and Velpatasvir Combination Treatment
 
-If sofosbuvir and velpatasvir tablets are administered with ribavirin, the warnings and precautions for ribavirin apply to this combination regimen.
+If sofosbuvir and velpatasvir is administered with ribavirin, the warnings and precautions for ribavirin apply to this combination regimen.
 Refer to the ribavirin prescribing information for a full list of the warnings and precautions for ribavirin [see Dosage and Administration (2.2)].

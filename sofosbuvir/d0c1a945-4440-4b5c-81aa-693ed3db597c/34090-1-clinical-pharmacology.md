@@ -2,7 +2,7 @@
 
 ## 12.1 Mechanism of Action
 
-Sofosbuvir and velpatasvir tablets are a fixed-dose combination of sofosbuvir and velpatasvir, which are direct-acting antiviral agents against the hepatitis C virus [see Microbiology (12.4)].
+Sofosbuvir and velpatasvir tablets (400 mg/100 mg) are a fixed-dose combination of sofosbuvir and velpatasvir, which are direct-acting antiviral agents against the hepatitis C virus [see Microbiology (12.4)].
 
 ## 12.2 Pharmacodynamics
 
@@ -16,16 +16,16 @@ At a dose 5 times the recommended dose, velpatasvir does not prolong QTc interva
 
 ## 12.3 Pharmacokinetics
 
-The pharmacokinetic properties of the components of sofosbuvir and velpatasvir tablets are provided in Table 3.
-The multiple dose pharmacokinetic parameters of sofosbuvir and its metabolite, GS-331007, and velpatasvir are provided in Table 4.
+The pharmacokinetic properties of sofosbuvir and velpatasvir are provided in Table 5.
+The multiple dose pharmacokinetic parameters of sofosbuvir and its metabolite, GS-331007, and velpatasvir are provided in Table 6.
 
-Table 3 Pharmacokinetic Properties of the Components of Sofosbuvir and Velpatasvir Tablets
+Table 5 Pharmacokinetic Properties of Sofosbuvir and Velpatasvir
 
 |  | Sofosbuvir | Velpatasvir |
 | --- | --- | --- |
 | Absorption |  |  |
 | Tmax (h) | 0.5–1 | 3 |
-| Effect of moderate meal (relative to fasting)Values refer to mean systemic exposure. Moderate meal = ~600 kcal, 30% fat; high fat meal = ~800 kcal, 50% fat. Sofosbuvir and velpatasvir tablets can be taken with or without food. | ↑ 60% | ↑ 34% |
+| Effect of moderate meal (relative to fasting)Values refer to mean systemic exposure. Moderate meal = ~600 kcal, 30% fat; high fat meal = ~800 kcal, 50% fat. Sofosbuvir and velpatasvir can be taken with or without food. | ↑ 60% | ↑ 34% |
 | Effect of high fat meal (relative to fasting) | ↑ 78% | ↑ 21% |
 | Distribution |  |  |
 | % Bound to human plasma proteins | 61–65 | >99.5 |
@@ -39,7 +39,7 @@ Table 3 Pharmacokinetic Properties of the Components of Sofosbuvir and Velpatasv
 | % Of dose excreted in feces | 14 | 94 |
 | CES1 = carboxylesterase 1; HINT1 = histidine triad nucleotide-binding protein 1. |  |  |
 
-Table 4 Multiple Dose Pharmacokinetic Parameters of Sofosbuvir and its Metabolite, GS-331007, and Velpatasvir Following Oral Administration of Sofosbuvir and Velpatasvir Tablets in HCV-Infected Adults
+Table 6 Multiple Dose Pharmacokinetic Parameters of Sofosbuvir and its Metabolite, GS-331007, and Velpatasvir Following Oral Administration of Sofosbuvir and Velpatasvir in HCV-Infected Adults
 
 | Parameter Mean (%CV) | SofosbuvirFrom Population PK analysis, N = 666 | GS-331007From Population PK analysis, N = 1029 | VelpatasvirFrom Population PK analysis, N = 1025 |
 | --- | --- | --- | --- |
@@ -57,7 +57,24 @@ Sofosbuvir and GS-331007 AUCs are near dose-proportional over the dose range of 
 
 Specific Populations
 
-Pediatric Patients: The pharmacokinetics of sofosbuvir or velpatasvir in pediatric patients has not been established [see Use in Specific Populations (8.4)].
+Pediatric Patients: The pharmacokinetics of sofosbuvir, GS-331007, and velpatasvir were determined in HCV genotype 1, 2, 3, 4, or 6 infected pediatric subjects 6 years of age and older receiving a daily dose of sofosbuvir and velpatasvir as described below in Table 7.
+Geometric mean SOF AUCtau and Cmax and VEL Cmax values were 72%, 75%, and 85% higher in pediatric subjects ≥30 kg, and 73%, 81%, and 109% higher in pediatric subjects 17 to <30 kg compared to those observed in adults.
+This difference was not considered clinically significant.
+GS-331007 exposures and velpatasvir AUCtau and Ctau values in pediatric subjects were similar to those observed in adults.
+
+Table 7 Pharmacokinetic Properties of Sofosbuvir and Velpatasvir in HCV-Infected Pediatric Subjects 6 Years of Age and OlderPopulation PK derived parameters
+
+| Sofosbuvir | GS-331007 | Velpatasvir |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+| Weight Group | Dose | PK Parameter | Geometric Mean (%CV) |  |  |
+| ≥30 kgSofosbuvir N=89; GS-331007 N=100; Velpatasvir N=100 | 400/100 mg | Cmax (ng/mL) | 946 (93.2) | 1140 (24.5) | 416 (34.8) |
+| AUCtau (ng∙hr/mL) | 2040 (83.3) | 13100 (27.4) | 3810 (40.3) |  |  |
+| Ctrough (ng/mL) | NA | NA | 35 (87.2) |  |  |
+| 17 to <30 kgSofosbuvir N=43; GS-331007 N=43; Velpatasvir N=43 | 200/50 mg | Cmax (ng/mL) | 974 (70.8) | 1040 (29.8) | 470 (33.6) |
+| AUCtau (ng∙hr/mL) | 2050 (59.0) | 10800 (27.9) | 3460 (27.5) |  |  |
+| Ctrough (ng/mL) | NA | NA | 33 (51.2) |  |  |
+
+The pharmacokinetics of sofosbuvir, GS-331007 and velpatasvir have not been established in pediatric subjects less than 6 years of age or weighing less than 17 kg [see Use in Specific Populations (8.4) and Clinical Studies (14.6)].
 
 Geriatric Patients: Population pharmacokinetic analysis in HCV-infected subjects showed that within the age range (18 to 82 years) analyzed, age did not have a clinically relevant effect on the exposure to sofosbuvir, GS-331007, or velpatasvir [see Use in Specific Populations (8.5)].
 
@@ -67,12 +84,12 @@ The pharmacokinetics of sofosbuvir were studied in HCV negative subjects with mi
 Relative to subjects with normal renal function (eGFR greater than 80 mL/min/1.73 m2), the sofosbuvir AUC0–inf was 61%, 107%, and 171% higher in subjects with mild, moderate, and severe renal impairment, while the GS-331007 AUC0–inf was 55%, 88%, and 451% higher, respectively.
 
 In subjects with ESRD, relative to subjects with normal renal function, sofosbuvir and GS-331007 AUC0–inf was 28% and 1280% higher when sofosbuvir was dosed 1 hour before hemodialysis compared with 60% and 2070% higher when sofosbuvir was dosed 1 hour after hemodialysis, respectively.
-A 4-hour hemodialysis session removed approximately 18% of administered dose [see Dosage and Administration (2.3) and Use in Specific Populations (8.6)].
+A 4-hour hemodialysis session removed approximately 18% of administered dose [see Dosage and Administration (2.5) and Use in Specific Populations (8.6)].
 
 The pharmacokinetics of velpatasvir were studied with a single dose of 100 mg velpatasvir in HCV negative subjects with severe renal impairment (eGFR less than 30 mL/min by Cockcroft-Gault).
 No clinically relevant differences in velpatasvir pharmacokinetics were observed between healthy subjects and subjects with severe renal impairment [see Use in Specific Populations (8.6)].
 
-The pharmacokinetics of sofosbuvir, GS-331007, and velpatasvir were studied in HCV-infected subjects with ESRD requiring dialysis treated with sofosbuvir and velpatasvir tablets for 12 weeks.
+The pharmacokinetics of sofosbuvir, GS-331007, and velpatasvir were studied in HCV-infected subjects with ESRD requiring dialysis treated with sofosbuvir and velpatasvir tablets (400 mg/100 mg) for 12 weeks.
 The results were generally consistent with those in HCV negative subjects with ESRD requiring dialysis.
 
 Patients with Hepatic Impairment:
@@ -90,13 +107,13 @@ Gender: Population pharmacokinetics analysis in HCV-infected subjects indicated 
 
 Drug Interaction Studies
 
-After oral administration of sofosbuvir and velpatasvir tablets, sofosbuvir is rapidly absorbed and subject to extensive first-pass hepatic extraction (hydrolysis followed by sequential phosphorylation) to form the pharmacologically active triphosphate.
+After oral administration of sofosbuvir and velpatasvir, sofosbuvir is rapidly absorbed and subject to extensive first-pass hepatic extraction (hydrolysis followed by sequential phosphorylation) to form the pharmacologically active triphosphate.
 In clinical pharmacology studies, both sofosbuvir and the primary circulating metabolite GS-331007 (dephosphorylated nucleotide metabolite) were monitored for purposes of pharmacokinetic analyses.
 
 Sofosbuvir and velpatasvir are substrates of drug transporters P-gp and BCRP while GS-331007 is not.
 Velpatasvir is also transported by OATP1B1 and OATP1B3.
 In vitro, slow metabolic turnover of velpatasvir by CYP2B6, CYP2C8, and CYP3A4 was observed.
-Inducers of P-gp and/or moderate to strong inducers of CYP2B6, CYP2C8, or CYP3A4 (e.g., rifampin, St. John's wort, carbamazepine) may decrease plasma concentrations of sofosbuvir and/or velpatasvir, leading to reduced therapeutic effect of sofosbuvir and velpatasvir tablets [see Warnings and Precautions (5.3) and Drug Interactions (7.3)].
+Inducers of P-gp and/or moderate to strong inducers of CYP2B6, CYP2C8, or CYP3A4 (e.g., rifampin, St. John's wort, carbamazepine) may decrease plasma concentrations of sofosbuvir and/or velpatasvir, leading to reduced therapeutic effect of sofosbuvir and velpatasvir [see Warnings and Precautions (5.3) and Drug Interactions (7.3)].
 Coadministration with drugs that inhibit P-gp and/or BCRP may increase sofosbuvir and/or velpatasvir plasma concentrations without increasing GS-331007 plasma concentration.
 Drugs that inhibit CYP2B6, CYP2C8, or CYP3A4 may increase plasma concentration of velpatasvir.
 
@@ -106,10 +123,10 @@ At clinically relevant concentration, velpatasvir is not an inhibitor of hepatic
 Sofosbuvir and GS-331007 are not inhibitors of drug transporters P-gp, BCRP, OATP1B1, OATP1B3, and OCT1 and GS-331007 is not an inhibitor of OAT1, OAT3, OCT2, and MATE1.
 Sofosbuvir and GS-331007 are not inhibitors or inducers of CYP or UGT1A1 enzymes.
 
-The effects of coadministered drugs on the exposure of sofosbuvir, GS-331007, and velpatasvir are shown in Table 5.
-The effects of sofosbuvir, velpatasvir, or sofosbuvir and velpatasvir tablets on the exposure of coadministered drugs are shown in Table 6 [see Drug Interactions (7)].
+The effects of coadministered drugs on the exposure of sofosbuvir, GS-331007, and velpatasvir are shown in Table 8.
+The effects of sofosbuvir, velpatasvir, or sofosbuvir and velpatasvir on the exposure of coadministered drugs are shown in Table 9 [see Drug Interactions (7)].
 
-Table 5 Drug Interactions: Changes in Pharmacokinetic Parameters for Sofosbuvir, GS-331007, and Velpatasvir in the Presence of the Coadministered DrugAll interaction studies conducted in healthy volunteers.
+Table 8 Drug Interactions: Changes in Pharmacokinetic Parameters for Sofosbuvir, GS-331007, and Velpatasvir in the Presence of the Coadministered DrugAll interaction studies conducted in healthy volunteers.
 
 |  | Cmax | AUC | Cmin |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -128,10 +145,10 @@ Table 5 Drug Interactions: Changes in Pharmacokinetic Parameters for Sofosbuvir,
 | Efavirenz/ emtricitabine/ tenofovir DFAdministered as Atripla® (efavirenz, emtricitabine, and tenofovir DF fixed-dose combination). | 600/200/300 once daily | 400 once daily | 100 once daily | 14 | sofosbuvir | 1.38 (1.14, 1.67) | 0.97 (0.83, 1.14) | NA |
 | GS-331007 | 0.86 (0.80, 0.93) | 0.90 (0.85, 0.96) | 1.01 (0.95, 1.07) |  |  |  |  |  |
 | velpatasvir | 0.53 (0.43, 0.64) | 0.47 (0.39, 0.57) | 0.43 (0.36, 0.52) |  |  |  |  |  |
-| Elvitegravir/ cobicistat/emtricitabine/tenofovir alafenamideAdministered as Genvoya® (elvitegravir, cobicistat, emtricitabine, and tenofovir alafenamide fixed-dose combination). | 150/150/200/10 once daily | 400 once daily | 100 once daily | 24 | sofosbuvir | 1.23 (1.07, 1.42) | 1.37 (1.24, 1.52) | NA |
+| Elvitegravir/ cobicistat/ emtricitabine/ tenofovir alafenamideAdministered as Genvoya® (elvitegravir, cobicistat, emtricitabine, and tenofovir alafenamide fixed-dose combination). | 150/150/200/10 once daily | 400 once daily | 100 once daily | 24 | sofosbuvir | 1.23 (1.07, 1.42) | 1.37 (1.24, 1.52) | NA |
 | GS-331007 | 1.29 (1.25, 1.33) | 1.48 (1.43, 1.53) | 1.58 (1.52, 1.65) |  |  |  |  |  |
 | velpatasvir | 1.30 (1.17, 1.45) | 1.50 (1.35, 1.66) | 1.60 (1.44, 1.78) |  |  |  |  |  |
-| Elvitegravir/ cobicistat/emtricitabine/tenofovir DFAdministered as Stribild® (elvitegravir, cobicistat, emtricitabine, and tenofovir DF fixed-dose combination). | 150/150/200/300 once daily | 400 once daily | 100 once daily | 24 | sofosbuvir | 1.01 (0.85, 1.19) | 1.24 (1.13, 1.37) | NA |
+| Elvitegravir/ cobicistat/ emtricitabine/ tenofovir DFAdministered as Stribild® (elvitegravir, cobicistat, emtricitabine, and tenofovir DF fixed-dose combination). | 150/150/200/300 once daily | 400 once daily | 100 once daily | 24 | sofosbuvir | 1.01 (0.85, 1.19) | 1.24 (1.13, 1.37) | NA |
 | GS-331007 | 1.13 (1.07, 1.18) | 1.35 (1.30, 1.40) | 1.45 (1.38, 1.52) |  |  |  |  |  |
 | velpatasvir | 1.05 (0.93, 1.19) | 1.19 (1.07, 1.34) | 1.37 (1.22, 1.54) |  |  |  |  |  |
 | Famotidine | 40 single dose simultaneously with sofosbuvir and velpatasvir tablets | 400 single dose | 100 single dose | 60 | sofosbuvir | 0.92 (0.82, 1.05) | 0.82 (0.74, 0.91) | NA |
@@ -141,7 +158,7 @@ Table 5 Drug Interactions: Changes in Pharmacokinetic Parameters for Sofosbuvir,
 | GS-331007 | 1.20 (1.13, 1.28) | 1.04 (1.01, 1.08) | NA |  |  |  |  |  |
 | velpatasvir | 0.87 (0.76, 1.00) | 0.85 (0.74, 0.97) | NA |  |  |  |  |  |
 | Ketoconazole | 200 twice daily | ND | 100 single dose | 12 | velpatasvir | 1.29 (1.02, 1.64) | 1.71 (1.35, 2.18) | NA |
-| Lopinavir/ ritonavir + emtricitabine/ tenofovir DF | 4×200/50 + 200/300 once daily | 400 once daily | 100 once daily | 24 | sofosbuvir | 0.59 (0.49, 0.71) | 0.71 (0.64, 0.78) | NA |
+| Lopinavir/ ritonavir + emtricitabine/ tenofovir DF | 4x200/50 + 200/300 once daily | 400 once daily | 100 once daily | 24 | sofosbuvir | 0.59 (0.49, 0.71) | 0.71 (0.64, 0.78) | NA |
 | GS-331007 | 1.01 (0.98, 1.05) | 1.15 (1.09, 1.21) | 1.15 (1.07, 1.25) |  |  |  |  |  |
 | velpatasvir | 0.70 (0.59, 0.83) | 1.02 (0.89, 1.17) | 1.63 (1.43, 1.85) |  |  |  |  |  |
 | Methadone | 30 to 130 daily | 400 once daily | ND | 14 | sofosbuvir | 0.95 (0.68, 1.33) | 1.30 (1.00, 1.69) | NA |
@@ -173,11 +190,11 @@ Table 5 Drug Interactions: Changes in Pharmacokinetic Parameters for Sofosbuvir,
 
 No effect on the pharmacokinetic parameters of sofosbuvir, GS-331007, or velpatasvir was observed with dolutegravir; the combination of emtricitabine, rilpivirine, and tenofovir DF; emtricitabine; raltegravir; or tenofovir DF.
 
-Table 6 Changes in Pharmacokinetic Parameters for Coadministered Drug in the Presence of Sofosbuvir, Velpatasvir, or Sofosbuvir and Velpatasvir TabletsAll interaction studies conducted in healthy volunteers.
+Table 9 Changes in Pharmacokinetic Parameters for Coadministered Drug in the Presence of Sofosbuvir, Velpatasvir, or Sofosbuvir and VelpatasvirAll interaction studies conducted in healthy volunteers.
 
 | Cmax | AUC | Cmin |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Coadministered Drug | Dose of Coadministered Drug (mg) | SOF Dose (mg) | VEL Dose (mg) | N | Mean Ratio (90% CI) of Coadministered Drug PK With/Without Sofosbuvir, Velpatasvir, or Sofosbuvir and Velpatasvir Tablets No Effect=1.00 |  |  |
+| Coadministered Drug | Dose of Coadministered Drug (mg) | SOF Dose (mg) | VEL Dose (mg) | N | Mean Ratio (90% CI) of Coadministered Drug PK With/Without Sofosbuvir, Velpatasvir, or Sofosbuvir and Velpatasvir No Effect=1.00 |  |  |
 | Atazanavir/ ritonavir + emtricitabine/ tenofovir DFComparison based on exposures when administered as atazanavir/ritonavir + emtricitabine/tenofovir DF. | atazanavir 300 once daily | 400 once daily | 100 once daily | 24 | 1.09 (1.00, 1.19) | 1.20 (1.10, 1.31) | 1.39 (1.20, 1.61) |
 | ritonavir 100 once daily | 0.89 (0.82, 0.97) | 0.97 (0.89, 1.05) | 1.29 (1.15, 1.44) |  |  |  |  |
 | emtricitabine 200 once daily | 1.01 (0.96, 1.06) | 1.02 (0.99, 1.04) | 1.06 (1.02, 1.11) |  |  |  |  |
@@ -191,11 +208,11 @@ Table 6 Changes in Pharmacokinetic Parameters for Coadministered Drug in the Pre
 | Efavirenz/ emtricitabine/ tenofovir DFAdministered as Atripla (efavirenz, emtricitabine, and tenofovir DF fixed-dose combination). | efavirenz 600 once daily | 400 once daily | 100 once daily | 15 | 0.81 (0.74, 0.89) | 0.85 (0.80, 0.91) | 0.90 (0.85, 0.95) |
 | emtricitabine 200 once daily | 1.07 (0.98, 1.18) | 1.07 (1.00, 1.14) | 1.10 (0.97, 1.25) |  |  |  |  |
 | tenofovir DF 300 once daily | 1.77 (1.53, 2.04) | 1.81 (1.68, 1.94) | 2.21 (2.00, 2.43) |  |  |  |  |
-| Elvitegravir/ cobicistat/emtricitabine/tenofovir alafenamideAdministered as Genvoya (elvitegravir, cobicistat, emtricitabine, and tenofovir alafenamide fixed-dose combination). | elvitegravir 150 once daily | 400 once daily | 100 once daily | 24 | 0.87 (0.80, 0.94) | 0.94 (0.88, 1.00) | 1.08 (0.97, 1.20) |
+| Elvitegravir/ cobicistat/ emtricitabine/ tenofovir alafenamideAdministered as Genvoya (elvitegravir, cobicistat, emtricitabine, and tenofovir alafenamide fixed-dose combination). | elvitegravir 150 once daily | 400 once daily | 100 once daily | 24 | 0.87 (0.80, 0.94) | 0.94 (0.88, 1.00) | 1.08 (0.97, 1.20) |
 | cobicistat 150 once daily | 1.16 (1.09, 1.23) | 1.30 (1.23, 1.38) | 2.03 (1.67, 2.48) |  |  |  |  |
 | emtricitabine 200 once daily | 1.02 (0.97, 1.06) | 1.01 (0.98, 1.04) | 1.02 (0.97, 1.07) |  |  |  |  |
 | tenofovir alafenamide 10 once daily | 0.80 (0.68, 0.94) | 0.87 (0.81, 0.94) | NA |  |  |  |  |
-| Elvitegravir/ cobicistat/emtricitabine/tenofovir DFAdministered as Stribild (elvitegravir, cobicistat, emtricitabine, and tenofovir DF fixed-dose combination). | elvitegravir 150 once daily | 400 once daily | 100 once daily | 24 | 0.93 (0.86, 1.00) | 0.93 (0.87, 0.99) | 0.97 (0.91, 1.04) |
+| Elvitegravir/ cobicistat/ emtricitabine/ tenofovir DFAdministered as Stribild (elvitegravir, cobicistat, emtricitabine, and tenofovir DF fixed-dose combination). | elvitegravir 150 once daily | 400 once daily | 100 once daily | 24 | 0.93 (0.86, 1.00) | 0.93 (0.87, 0.99) | 0.97 (0.91, 1.04) |
 | cobicistat 150 once daily | 1.11 (1.06, 1.17) | 1.23 (1.17, 1.29) | 1.71 (1.54, 1.90) |  |  |  |  |
 | emtricitabine 200 once daily | 1.02 (0.97, 1.08) | 1.01 (0.98, 1.04) | 1.06 (1.01, 1.11) |  |  |  |  |
 | tenofovir DF 300 once daily | 1.36 (1.25, 1.47) | 1.35 (1.29, 1.42) | 1.45 (1.39, 1.51) |  |  |  |  |
@@ -216,7 +233,7 @@ Table 6 Changes in Pharmacokinetic Parameters for Coadministered Drug in the Pre
 | Tacrolimus | 5 single dose | 400 single dose | ND | 16 | 0.73 (0.59, 0.90) | 1.09 (0.84, 1.40) | NA |
 | NA = not available/not applicable, ND = not dosed, DF = disoproxil fumarate. |  |  |  |  |  |  |  |
 
-No effect on the pharmacokinetic parameters of the following coadministered drugs was observed with sofosbuvir and velpatasvir tablets (dolutegravir or lopinavir/ritonavir) or its components sofosbuvir (cyclosporine or methadone) or velpatasvir (cyclosporine).
+No effect on the pharmacokinetic parameters of the following coadministered drugs was observed with sofosbuvir and velpatasvir (dolutegravir or lopinavir/ritonavir) or its components sofosbuvir (cyclosporine or methadone) or velpatasvir (cyclosporine).
 
 ## 12.4 Microbiology
 
@@ -232,10 +249,10 @@ Resistance selection in cell culture and cross-resistance studies indicate velpa
 
 Antiviral Activity
 
-The EC50 values of sofosbuvir and velpatasvir against full-length or chimeric replicons encoding NS5B and NS5A sequences from the laboratory strains are presented in Table 7.
-The EC50 values of sofosbuvir and velpatasvir against clinical isolates are presented in Table 8.
+The EC50 values of sofosbuvir and velpatasvir against full-length or chimeric replicons encoding NS5B and NS5A sequences from the laboratory strains are presented in Table 10.
+The EC50 values of sofosbuvir and velpatasvir against clinical isolates are presented in Table 11.
 
-Table 7 Activity of Sofosbuvir and Velpatasvir Against Full Length or Chimeric Laboratory Replicons
+Table 10 Activity of Sofosbuvir and Velpatasvir Against Full Length or Chimeric Laboratory Replicons
 
 | Replicon Genotype | Sofosbuvir EC50, nMMean value from multiple experiments of same laboratory replicon. | Velpatasvir EC50, nM |
 | --- | --- | --- |
@@ -251,7 +268,7 @@ Table 7 Activity of Sofosbuvir and Velpatasvir Against Full Length or Chimeric L
 | 6e | NA | 0.130 |
 | NA = not available. |  |  |
 
-Table 8 Activity of Sofosbuvir and Velpatasvir Against Transient Replicons Containing NS5A or NS5B from Clinical Isolates
+Table 11 Activity of Sofosbuvir and Velpatasvir Against Transient Replicons Containing NS5A or NS5B from Clinical Isolates
 
 | Number of clinical isolates | Median sofosbuvir EC50, nM (range) | Number of clinical isolates | Median velpatasvir EC50, nM (range) |  |
 | --- | --- | --- | --- | --- |
@@ -291,7 +308,7 @@ In Clinical Trials
 
 Studies in Subjects without Cirrhosis and Subjects with Compensated Cirrhosis
 
-In a pooled analysis of subjects without cirrhosis or with compensated cirrhosis who received sofosbuvir and velpatasvir tablets for 12 weeks in Phase 3 trials (ASTRAL-1, ASTRAL-2, and ASTRAL-3), 12 subjects (2 with genotype 1 [1a, 1c/h] and 10 with genotype 3a) qualified for resistance analysis due to virologic failure.
+In a pooled analysis of subjects without cirrhosis or with compensated cirrhosis who received sofosbuvir and velpatasvir tablets (400 mg/100 mg) for 12 weeks in Phase 3 trials (ASTRAL-1, ASTRAL-2, and ASTRAL-3), 12 subjects (2 with genotype 1 [1a, 1c/h] and 10 with genotype 3a) qualified for resistance analysis due to virologic failure.
 No subjects with genotype 2, 4, 5, or 6 HCV infection experienced virologic failure.
 
 Of the 2 genotype 1 virologic failure subjects, 1 subject had virus with emergent NS5A resistance substitution Y93N and the other had virus with emergent NS5A resistance substitutions Y93H and low-level K24M/T and L31I/V at virologic failure.
@@ -299,22 +316,22 @@ The latter subject had genotype 1c/h virus at baseline harboring NS5A resistance
 No sofosbuvir NS5B nucleoside analog resistance-associated substitutions were observed at failure in the 2 subjects.
 
 Of the 10 genotype 3a virologic failure subjects, NS5A resistance substitution Y93H was observed in all 10 subjects at failure (7 subjects had Y93H emerge post-treatment and 3 subjects had Y93H at baseline and post-treatment).
-Treatment-emergent sofosbuvir NS5B substitutions L314F (n=2) and L314I (n=1) were observed at high frequency (greater than or equal to 15%) in the NS5B polymerase in 3 genotype 3a subjects who relapsed: one in the sofosbuvir and velpatasvir tablets group and two in the sofosbuvir plus ribavirin 24-week group.
-In addition, low frequency (less than 4%) treatment-emergent L314P was detected in 2 genotype 3a subjects who relapsed, including one subject in the sofosbuvir plus ribavirin 24-week group in ASTRAL-3 and one in the sofosbuvir and velpatasvir tablets group in ASTRAL-4.
+Treatment-emergent sofosbuvir NS5B substitutions L314F (n=2) and L314I (n=1) were observed at high frequency (greater than or equal to 15%) in the NS5B polymerase in 3 genotype 3a subjects who relapsed: one in the sofosbuvir and velpatasvir group and two in the sofosbuvir plus ribavirin 24-week group.
+In addition, low frequency (less than 4%) treatment-emergent L314P was detected in 2 genotype 3a subjects who relapsed, including one subject in the sofosbuvir plus ribavirin 24-week group in ASTRAL-3 and one in the sofosbuvir and velpatasvir group in ASTRAL-4.
 The clinical significance of this substitution is unknown.
 
 Studies in Subjects with Decompensated Cirrhosis
 
-In the ASTRAL-4 trial in subjects with decompensated cirrhosis who received sofosbuvir and velpatasvir tablets with ribavirin for 12 weeks, 3 subjects (1 with genotype 1a and 2 with genotype 3a) qualified for resistance analysis due to virologic failure.
-No subjects with genotype 2 or 4 HCV infection who received sofosbuvir and velpatasvir tablets with ribavirin for 12 weeks experienced virologic failure.
+In the ASTRAL-4 trial in subjects with decompensated cirrhosis who received sofosbuvir and velpatasvir tablets (400 mg/100 mg) with ribavirin for 12 weeks, 3 subjects (1 with genotype 1a and 2 with genotype 3a) qualified for resistance analysis due to virologic failure.
+No subjects with genotype 2 or 4 HCV infection who received sofosbuvir and velpatasvir with ribavirin for 12 weeks experienced virologic failure.
 
 The genotype 1 virologic failure subject had no NS5A or NS5B resistance substitutions at failure.
 
 The 2 genotype 3a virologic failure subjects had the NS5A resistance substitutions Y93H and either low-level M28V or S38P emerge at failure.
 One of these subjects also developed low levels (less than 5%) of NS5B nucleoside analog inhibitor resistance substitutions N142T and E237G at failure.
 
-In the ASTRAL-4 trial, 2 subjects treated with sofosbuvir and velpatasvir tablets for 12 or 24 weeks without ribavirin had emergent sofosbuvir NS5B resistance-associated substitutions S282T at low levels (less than 5%) along with L159F.
-Sofosbuvir and velpatasvir tablets for 12 or 24 weeks without ribavirin is not recommended in patients with decompensated cirrhosis.
+In the ASTRAL-4 trial, 2 subjects treated with sofosbuvir and velpatasvir tablets (400 mg/100 mg) for 12 or 24 weeks without ribavirin had emergent sofosbuvir NS5B resistance-associated substitutions S282T at low levels (less than 5%) along with L159F.
+Sofosbuvir and velpatasvir for 12 or 24 weeks without ribavirin is not recommended in patients with decompensated cirrhosis.
 
 Persistence of Resistance-Associated Substitutions
 
@@ -324,11 +341,13 @@ The long-term clinical impact of the emergence or persistence of virus containin
 
 Effect of Baseline HCV Polymorphisms on Treatment Response
 
+Adults
+
 Analyses were conducted to explore the association between relapse rates and pre-existing baseline NS5A resistance-associated polymorphisms (RAPs) (any change from reference at NS5A amino acid positions 24, 28, 30, 31, 58, 92, or 93) identified by population or deep sequencing analysis at a sensitivity threshold of 15% or higher for subjects without cirrhosis or with compensated cirrhosis in ASTRAL-1, ASTRAL-2, and ASTRAL-3 and subjects with decompensated cirrhosis in ASTRAL-4.
 
 Studies in Subjects without Cirrhosis and Subjects with Compensated Cirrhosis
 
-Among the subjects who received treatment with sofosbuvir and velpatasvir tablets for 12 weeks, 18% (37/209), 32% (38/117), 64% (149/232), 20% (56/274), 63% (73/115), 9% (3/34), and 83% (35/42) of subjects with genotype 1a, 1b, 2, 3, 4, 5, and 6 HCV, respectively, had baseline virus with NS5A RAPs.
+Among the subjects who received treatment with sofosbuvir and velpatasvir tablets (400 mg/100 mg) for 12 weeks, 18% (37/209), 32% (38/117), 64% (149/232), 20% (56/274), 63% (73/115), 9% (3/34), and 83% (35/42) of subjects with genotype 1a, 1b, 2, 3, 4, 5, and 6 HCV, respectively, had baseline virus with NS5A RAPs.
 
 Genotype 1: Among the 75 genotype 1 subjects who had baseline NS5A RAPs, one subject (1%) with Q30R, L31M, and H58P polymorphisms at baseline and compensated cirrhosis relapsed.
 
@@ -336,9 +355,9 @@ Genotype 3: Among the 56 genotype 3 subjects in ASTRAL-3 who had baseline NS5A R
 Overall, 20% (3/15) of genotype 3 subjects with the Y93H polymorphism at baseline relapsed.
 
 In a pooled analysis of clinical trials in subjects with HCV genotype 3 infection, the prevalence of the baseline NS5A Y93H polymorphism was 6% (104/1842).
-Among HCV genotype 3 infected subjects with the Y93H polymorphism who were treated with sofosbuvir and velpatasvir tablets for 12 weeks, 7% (2/28) of subjects without cirrhosis relapsed, and 40% (6/15) of subjects with compensated cirrhosis experienced virologic failure (5 relapse, 1 on-treatment).
+Among HCV genotype 3 infected subjects with the Y93H polymorphism who were treated with sofosbuvir and velpatasvir tablets (400 mg/100 mg) for 12 weeks, 7% (2/28) of subjects without cirrhosis relapsed, and 40% (6/15) of subjects with compensated cirrhosis experienced virologic failure (5 relapse, 1 on-treatment).
 
-Genotypes 2, 4, 5, and 6: The presence of baseline NS5A RAPs did not affect relapse rates for subjects with genotypes 2, 4, 5, and 6, because all achieved SVR12.
+Genotypes 2, 4, 5, and 6: The presence of baseline NS5A RAPs did not affect relapse rates for subjects with genotypes 2, 4, 5, and 6, because all achieved sustained virologic response (SVR) 12.
 
 SVR12 was achieved in all 77 subjects who had baseline NS5B nucleoside analog inhibitor resistance polymorphisms including N142T, L159F, E/N237G, C/M289L/I, L320F/I/V, V321A/I, and S282G + V321I.
 The sofosbuvir NS5B nucleoside analog inhibitor resistance substitution S282T was not detected in the baseline NS5B sequence of any subject using 1% deep sequencing cutoff in Phase 3 trials.
@@ -349,15 +368,19 @@ In ASTRAL-4, the prevalence of NS5A RAPs at baseline was 24% (48/198), 60% (6/10
 No subjects with genotypes 2, 4 and 6 relapsed.
 There were no subjects with genotype 5 in this trial.
 
-For genotype 1 subjects, the overall relapse rates were numerically lower for the 12-week sofosbuvir and velpatasvir tablets with ribavirin group (2%; 1/66) compared to sofosbuvir and velpatasvir tablets 12-week and 24-week treatment groups.
-For subjects with NS5A RAPs, relapse rates were 0% (0/17) compared to 2% (1/49) for subjects without NS5A RAPs in the 12-week sofosbuvir and velpatasvir tablets with ribavirin containing group.
+For genotype 1 subjects, the overall relapse rates were numerically lower for the 12-week sofosbuvir and velpatasvir with ribavirin group (2%; 1/66) compared to sofosbuvir and velpatasvir 12-week and 24-week treatment groups.
+For subjects with NS5A RAPs, relapse rates were 0% (0/17) compared to 2% (1/49) for subjects without NS5A RAPs in the 12-week sofosbuvir and velpatasvir with ribavirin containing group.
 
-For genotype 3 subjects, overall virologic failure rates were numerically lower for the 12-week sofosbuvir and velpatasvir tablets with ribavirin group (15%; 2/13) compared to sofosbuvir and velpatasvir tablets 12-week and 24-week treatment groups.
+For genotype 3 subjects, overall virologic failure rates were numerically lower for the 12-week sofosbuvir and velpatasvir with ribavirin group (15%; 2/13) compared to sofosbuvir and velpatasvir 12-week and 24-week treatment groups.
 There are insufficient data to determine the impact of HCV NS5A RAPs in genotype 3 subjects with decompensated cirrhosis.
 
-Three subjects in the sofosbuvir and velpatasvir tablets with ribavirin 12-week group had baseline NS5B nucleoside analog inhibitor polymorphisms (N142T and L159F) using 1% deep sequencing cutoff and all 3 subjects achieved SVR12.
+Three subjects in the sofosbuvir and velpatasvir with ribavirin 12-week group had baseline NS5B nucleoside analog inhibitor polymorphisms (N142T and L159F) using 1% deep sequencing cutoff and all 3 subjects achieved SVR12.
+
+Pediatrics
+
+In Study 1143, the presence of NS5A and NS5B RAPs did not impact treatment outcome; all pediatric subjects 6 years of age and older with baseline NS5A RAPs (14%; 23/165) or NS5B nucleoside inhibitor RAPs (3%; 5/164) achieved SVR following 12 weeks treatment with sofosbuvir and velpatasvir tablets.
 
 Cross Resistance
 
 Both sofosbuvir and velpatasvir were fully active against substitutions associated with resistance to other classes of direct-acting antivirals with different mechanisms of action, such as NS5B non-nucleoside inhibitors and NS3 protease inhibitors.
-The efficacy of sofosbuvir and velpatasvir tablets has not been established in patients who have previously failed treatment with other regimens that include an NS5A inhibitor.
+The efficacy of sofosbuvir and velpatasvir has not been established in patients who have previously failed treatment with other regimens that include an NS5A inhibitor.
