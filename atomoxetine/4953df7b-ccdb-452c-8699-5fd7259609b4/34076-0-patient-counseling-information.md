@@ -1,8 +1,8 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-See FDA-approved Medication Guide.
+Advise the patient to read the FDA-approved patient labeling (Medication Guide).
 
-## 17.1 General Information
+General Information
 
 Physicians should instruct their patients to read the Medication Guide before starting therapy with atomoxetine hydrochloride and to reread it each time the prescription is renewed.
 
@@ -12,51 +12,51 @@ Patients should be given the opportunity to discuss the contents of the Medicati
 
 Patients should be advised of the following issues and asked to alert their prescriber if these occur while taking atomoxetine hydrochloride.
 
-## 17.2 Suicide Risk
+Suicide Risk
 
 Patients, their families, and their caregivers should be encouraged to be alert to the emergence of anxiety, agitation, panic attacks, insomnia, irritability, hostility, aggressiveness, impulsivity, akathisia (psychomotor restlessness), hypomania, mania, other unusual changes in behavior, depression, and suicidal ideation, especially early during atomoxetine hydrochloride treatment and when the dose is adjusted.
 Families and caregivers of patients should be advised to observe for the emergence of such symptoms on a day-to-day basis, since changes may be abrupt.
 Such symptoms should be reported to the patient’s prescriber or health professional, especially if they are severe, abrupt in onset, or were not part of the patient’s presenting symptoms.
 Symptoms such as these may be associated with an increased risk for suicidal thinking and behavior and indicate a need for very close monitoring and possibly changes in the medication.
 
-## 17.3 Severe Liver Injury
+Severe Liver Injury
 
 Patients initiating atomoxetine hydrochloride should be cautioned that severe liver injury may develop.
 Patients should be instructed to contact their physician immediately should they develop pruritus, dark urine, jaundice, right upper quadrant tenderness, or unexplained “flu-like” symptoms [see Warnings and Precautions (5.2)].
 
-## 17.4 Aggression or Hostility
+Aggression or Hostility
 
 Patients should be instructed to call their doctor as soon as possible should they notice an increase in aggression or hostility.
 
-## 17.5 Priapism
+Priapism
 
 Rare postmarketing cases of priapism, defined as painful and nonpainful penile erection lasting more than 4 hours, have been reported for pediatric and adult patients treated with atomoxetine hydrochloride.
 The parents or guardians of pediatric patients taking atomoxetine hydrochloride and adult patients taking atomoxetine hydrochloride should be instructed that priapism requires prompt medical attention.
 
-## 17.6 Ocular Irritant
+Ocular Irritant
 
 Atomoxetine hydrochloride is an ocular irritant.
 Atomoxetine capsules are not intended to be opened.
 In the event of capsule content coming in contact with the eye, the affected eye should be flushed immediately with water, and medical advice obtained.
 Hands and any potentially contaminated surfaces should be washed as soon as possible.
 
-## 17.7 Drug-Drug Interaction
+Drug-Drug Interaction
 
 Patients should be instructed to consult a physician if they are taking or plan to take any prescription or over-the-counter medicines, dietary supplements, or herbal remedies.
 
-## 17.8 Pregnancy
+Pregnancy Registry
 
-Patients should be instructed to consult a physician if they are nursing, pregnant, or thinking of becoming pregnant while taking atomoxetine hydrochloride.
+Advise patients that there is a pregnancy registry that monitors pregnancy outcomes in women exposed to atomoxetine during pregnancy [see Use in Specific Populations (8.1)].
 
-## 17.9 Food
+Food
 
 Patients may take atomoxetine hydrochloride with or without food.
 
-## 17.10 Missed Dose
+Missed Dose
 
 If patients miss a dose, they should be instructed to take it as soon as possible, but should not take more than the prescribed total daily amount of atomoxetine hydrochloride in any 24 hour period.
 
-## 17.11 Interference With Psychomotor Performance
+Interference with Psychomotor Performance
 
 Patients should be instructed to use caution when driving a car or operating hazardous machinery until they are reasonably certain that their performance is not affected by atomoxetine.
 
@@ -73,4 +73,4 @@ Teva Pharmaceuticals USA, Inc.
 North Wales, PA 19454
 
 Rev.
-K 11/2018
+L 3/2020

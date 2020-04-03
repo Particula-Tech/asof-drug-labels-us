@@ -40,7 +40,7 @@ Laboratory testing to determine liver enzyme levels should be done upon the firs
 
 ## 5.3 Serious Cardiovascular Events
 
-Sudden Death and Preexisting Structural Cardiac Abnormalities or Other Serious Heart Problems
+Sudden Death and Pre-existing Structural Cardiac Abnormalities or Other Serious Heart Problems
 
 Children and Adolescents — Sudden death has been reported in association with atomoxetine treatment at usual doses in children and adolescents with structural cardiac abnormalities or other serious heart problems.
 Although some serious heart problems alone carry an increased risk of sudden death, atomoxetine generally should not be used in children or adolescents with known serious structural cardiac abnormalities, cardiomyopathy, serious heart rhythm abnormalities, or other serious cardiac problems that may place them at increased vulnerability to the noradrenergic effects of atomoxetine.
@@ -60,18 +60,19 @@ Atomoxetine hydrochloride should be used with caution in patients whose underlyi
 It should not be used in patients with severe cardiac or vascular disorders whose condition would be expected to deteriorate if they experienced clinically important increases in blood pressure or heart rate [see Contraindications (4.5)].
 Pulse and blood pressure should be measured at baseline, following atomoxetine hydrochloride dose increases, and periodically while on therapy to detect possible clinically important increases.
 
-The following table provides short-term, placebo-controlled clinical trial data for the proportions of patients having an increase in: diastolic blood pressure ≥ 15 mm Hg; systolic blood pressure ≥ 20 mm Hg; heart rate greater than or equal to 20 bpm, in both the pediatric and adult populations (seeTable 1).
+The following table provides short-term, placebo-controlled clinical trial data for the proportions of patients having an increase in: diastolic blood pressure ≥ 15 mm Hg; systolic blood pressure ≥ 20 mm Hg; heart rate greater than or equal to 20 bpm, in both the pediatric and adult populations (see Table 1).
 
-Table 1Abbreviations: bpm = beats per minute; DBP = diastolic blood pressure; HR = heart rate; mm Hg = millimeters mercury; SBP = systolic blood pressure.
+Table 1a
 
 |  | Pediatric AcutePlacebo-Controlled |  |  |  | Adult AcutePlacebo-Controlled |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| MaximumProportion of patients meeting threshold at any one time during clinical trial. |  | Endpoint |  | Maximum |  | Endpoint |  |  |
+| Maximumb |  | Endpoint |  | Maximumb |  | Endpoint |  |  |
 | Atomoxetine | Placebo | Atomoxetine | Placebo | Atomoxetine | Placebo | Atomoxetine | Placebo |  |
 | % | % | % | % | % | % | % | % |  |
 | DBP (≥ 15 mm Hg) | 21.5 | 14.1 | 9.3 | 4.8 | 12.6 | 8.7 | 4.8 | 3.5 |
 | SBP (≥ 20 mm Hg) | 12.5 | 8.7 | 4.9 | 3.3 | 12.4 | 7.8 | 4.2 | 3.2 |
 | HR (≥ 20 bpm) | 23.4 | 11.5 | 12.2 | 3.8 | 22.4 | 8.3 | 10.2 | 2.0 |
+| a Abbreviations: bpm = beats per minute; DBP = diastolic blood pressure; HR = heart rate; mm Hg = millimeters mercury; SBP = systolic blood pressure.b Proportion of patients meeting threshold at any one time during clinical trial. |  |  |  |  |  |  |  |  |
 
 In placebo-controlled registration studies involving pediatric patients, tachycardia was identified as an adverse event for 0.3% (5/1597) of these atomoxetine hydrochloride patients compared with 0% (0/934) of placebo patients.
 The mean heart rate increase in extensive metabolizer (EM) patients was 5.0 beats/minute, and in poor metabolizer (PM) patients 9.4 beats/minute.
@@ -116,7 +117,7 @@ Although this is not conclusive evidence that atomoxetine hydrochloride causes a
 
 Although uncommon, allergic reactions, including anaphylactic reactions, angioneurotic edema, urticaria, and rash, have been reported in patients taking atomoxetine hydrochloride.
 
-## 5.9 Effects on Urine Outflow From the Bladder
+## 5.9 Effects on Urine Outflow from the Bladder
 
 In adult ADHD controlled trials, the rates of urinary retention (1.7%, 9/540) and urinary hesitation (5.6%, 30/540) were increased among atomoxetine subjects compared with placebo subjects (0%, 0/402; 0.5%, 2/402, respectively).
 Two adult atomoxetine subjects and no placebo subjects discontinued from controlled clinical trials because of urinary retention.
@@ -133,7 +134,9 @@ Prompt medical attention is required in the event of suspected priapism.
 Data on the long-term effects of atomoxetine hydrochloride on growth come from open-label studies, and weight and height changes are compared to normative population data.
 In general, the weight and height gain of pediatric patients treated with atomoxetine hydrochloride lags behind that predicted by normative population data for about the first 9 to 12 months of treatment.
 Subsequently, weight gain rebounds and at about 3 years of treatment, patients treated with atomoxetine hydrochloride have gained 17.9 kg on average, 0.5 kg more than predicted by their baseline data.
-After about 12 months, gain in height stabilizes, and at 3 years, patients treated with atomoxetine hydrochloride have gained 19.4 cm on average, 0.4 cm less than predicted by their baseline data (seeFigure 1 below).
+After about 12 months, gain in height stabilizes, and at 3 years, patients treated with atomoxetine hydrochloride have gained 19.4 cm on average, 0.4 cm less than predicted by their baseline data (see Figure 1 below).
+
+Figure 1: Mean Weight and Height Percentiles Over Time for Patients with Three Years of Atomoxetine Hydrochloride Treatment
 
 This growth pattern was generally similar regardless of pubertal status at the time of treatment initiation.
 Patients who were pre-pubertal at the start of treatment (girls ≤ 8 years old, boys ≤ 9 years old) gained an average of 2.1 kg and 1.2 cm less than predicted after three years.
@@ -157,7 +160,7 @@ Laboratory tests are available to identify CYP2D6 PMs.
 The blood levels in PMs are similar to those attained by taking strong inhibitors of CYP2D6.
 The higher blood levels in PMs lead to a higher rate of some adverse effects of atomoxetine hydrochloride [see Adverse Reactions (6.1)].
 
-## 5.13 Concomitant Use of Potent CYP2D6 Inhibitors or Use in Patients who are Known to be CYP2D6 PMs
+## 5.13 Concomitant Use of Potent CYP2D6 Inhibitors or Use in Patients who are known to be CYP2D6 PMs
 
 Atomoxetine is primarily metabolized by the CYP2D6 pathway to 4-hydroxyatomoxetine.
 Dosage adjustment of atomoxetine hydrochloride may be necessary when coadministered with potent CYP2D6 inhibitors (e.g., paroxetine, fluoxetine, and quinidine) or when administered to CYP2D6 PMs [see Dosage and Administration (2.4) and Drug Interactions (7.2)].

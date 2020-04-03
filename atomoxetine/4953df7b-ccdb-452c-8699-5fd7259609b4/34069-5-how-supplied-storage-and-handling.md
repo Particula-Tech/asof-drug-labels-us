@@ -2,7 +2,7 @@
 
 ## 16.1 How Supplied
 
-Atomoxetine capsules USP are available as:
+Atomoxetine Capsules USP are available as:
 
 10 mg – hard gelatin capsules with a white opaque cap and white opaque body, filled with a white to off-white powder with small agglomerates; the body and cap are imprinted with “TEVA” over “7590” and available in bottles of 30 (NDC 0093-3542-56).
 

@@ -19,17 +19,17 @@ In these clinical trials, the seizure risk among poor metabolizers was 0.3% (1/2
 
 Commonly observed adverse reactions in acute child and adolescent, placebo-controlled trials — Commonly observed adverse reactions associated with the use of atomoxetine hydrochloride (incidence of 2% or greater) and not observed at an equivalent incidence among placebo-treated patients (atomoxetine hydrochloride incidence greater than placebo) are listed in Table 2.
 Results were similar in the BID and the QD trial except as shown in Table 3, which shows both BID and QD results for selected adverse reactions based on statistically significant Breslow-Day tests.
-The most commonly observed adverse reactions in patients treated with atomoxetine hydrochloride (incidence of 5% or greater and at least twice the incidence in placebo patients, for either BID or QD dosing) were: nausea, vomiting, fatigue, decreased appetite, abdominal pain, and somnolence (seeTables 2and3).
+The most commonly observed adverse reactions in patients treated with atomoxetine hydrochloride (incidence of 5% or greater and at least twice the incidence in placebo patients, for either BID or QD dosing) were: nausea, vomiting, fatigue, decreased appetite, abdominal pain, and somnolence (see Tables 2 and 3).
 
 Additional data from ADHD clinical trials (controlled and uncontrolled) has shown that approximately 5 to 10% of pediatric patients experienced potentially clinically important changes in heart rate (≥ 20 beats per min) or blood pressure (≥ 15 to 20 mm Hg) [see Contraindications (4) and Warnings and Precautions (5)].
 
-Table 2: Common Treatment-Emergent Adverse Reactions Associated With the Use of Atomoxetine Hydrochloride in Acute (up to 18 Weeks) Child and Adolescent Trials
+Table 2: Common Treatment-Emergent Adverse Reactions Associated with the Use of Atomoxetine Hydrochloride in Acute (up to 18 Weeks) Child and Adolescent Trials
 
-| Adverse ReactionReactions reported by at least 2% of patients treated with atomoxetine, and greater than placebo. The following reactions did not meet this criterion but were reported by more atomoxetine-treated patients than placebo-treated patients and are possibly related to atomoxetine treatment: blood pressure increased, early morning awakening (terminal insomnia), flushing, mydriasis, sinus tachycardia, asthenia, palpitations, mood swings, constipation, and dyspepsia. The following reactions were reported by at least 2% of patients treated with atomoxetine, and equal to or less than placebo: pharyngolaryngeal pain, insomnia (insomnia includes the terms, insomnia, initial insomnia, middle insomnia). The following reaction did not meet this criterion but shows a statistically significant dose relationship: pruritus. | Percentage of Patients Reporting Reaction |  |
+| Adverse Reactiona | Percentage of Patients Reporting Reaction |  |
 | --- | --- | --- |
 |  | Atomoxetine Hydrochloride (N = 1597) | Placebo (N = 934) |
 | Gastrointestinal Disorders |  |  |
-| Abdominal painAbdominal pain includes the terms: abdominal pain upper, abdominal pain, stomach discomfort, abdominal discomfort, epigastric discomfort. | 18 | 10 |
+| Abdominal painb | 18 | 10 |
 | Vomiting | 11 | 6 |
 | Nausea | 10 | 5 |
 | General Disorders and Administration Site Conditions |  |  |
@@ -43,25 +43,27 @@ Table 2: Common Treatment-Emergent Adverse Reactions Associated With the Use of 
 | Anorexia | 3 | 1 |
 | Nervous System Disorders |  |  |
 | Headache | 19 | 15 |
-| SomnolenceSomnolence includes the terms: sedation, somnolence. | 11 | 4 |
+| Somnolencec | 11 | 4 |
 | Dizziness | 5 | 2 |
 | Skin and Subcutaneous Tissue Disorders |  |  |
 | Rash | 2 | 1 |
+| a Reactions reported by at least 2% of patients treated with atomoxetine, and greater than placebo. The following reactions did not meet this criterion but were reported by more atomoxetine-treated patients than placebo-treated patients and are possibly related to atomoxetine treatment: blood pressure increased, early morning awakening (terminal insomnia), flushing, mydriasis, sinus tachycardia, asthenia, palpitations, mood swings, constipation, and dyspepsia. The following reactions were reported by at least 2% of patients treated with atomoxetine, and equal to or less than placebo: pharyngolaryngeal pain, insomnia (insomnia includes the terms, insomnia, initial insomnia, middle insomnia). The following reaction did not meet this criterion but shows a statistically significant dose relationship: pruritus.b Abdominal pain includes the terms: abdominal pain upper, abdominal pain, stomach discomfort, abdominal discomfort, epigastric discomfort.c Somnolence includes the terms: sedation, somnolence. |  |  |
 
-Table 3: Common Treatment-Emergent Adverse Reactions Associated With the Use of Atomoxetine Hydrochloride in Acute (up to 18 weeks) Child and Adolescent Trials
+Table 3: Common Treatment-Emergent Adverse Reactions Associated with the Use of Atomoxetine Hydrochloride in Acute (up to 18 weeks) Child and Adolescent Trials
 
-| Adverse Reaction | Percentage of Patients Reporting Reaction From BID Trials |  | Percentage of Patients Reporting Reaction From QD Trials |  |
+| Adverse Reaction | Percentage of Patients Reporting Reaction from BID Trials |  | Percentage of Patients Reporting Reaction from QD Trials |  |
 | --- | --- | --- | --- | --- |
 |  | Atomoxetine Hydrochloride (N = 715) | Placebo (N = 434) | Atomoxetine Hydrochloride (N = 882) | Placebo (N = 500) |
 | Gastrointestinal Disorders |  |  |  |  |
-| Abdominal painAbdominal pain includes the terms: abdominal pain upper, abdominal pain, stomach discomfort, abdominal discomfort, epigastric discomfort. | 17 | 13 | 18 | 7 |
+| Abdominal paina | 17 | 13 | 18 | 7 |
 | Vomiting | 11 | 8 | 11 | 4 |
 | Nausea | 7 | 6 | 13 | 4 |
-| ConstipationConstipation didn’t meet the statistical significance on Breslow-Day test but is included in the table because of pharmacologic plausibility. | 2 | 1 | 1 | 0 |
+| Constipationb | 2 | 1 | 1 | 0 |
 | General Disorders |  |  |  |  |
 | Fatigue | 6 | 4 | 9 | 2 |
 | Psychiatric Disorders |  |  |  |  |
-| Mood swingsMood swings didn’t meet the statistical significance on Breslow-Day test at 0.05 level but p-value was < 0.1 (trend). | 2 | 0 | 1 | 1 |
+| Mood swingsc | 2 | 0 | 1 | 1 |
+| a Abdominal pain includes the terms: abdominal pain upper, abdominal pain, stomach discomfort, abdominal discomfort, epigastric discomfort.b Constipation didn’t meet the statistical significance on Breslow-Day test but is included in the table because of pharmacologic plausibility.c Mood swings didn’t meet the statistical significance on Breslow-Day test at 0.05 level but p-value was < 0.1 (trend). |  |  |  |  |
 
 The following adverse reactions occurred in at least 2% of child and adolescent CYP2D6 PM patients and were statistically significantly more frequent in PM patients compared with CYP2D6 EM patients: insomnia (11% of PMs, 6% of EMs); weight decreased (7% of PMs, 4% of EMs); constipation (7% of PMs, 4% of EMs); depression1 (7% of PMs, 4% of EMs); tremor (5% of PMs, 1% of EMs); excoriation (4% of PMs, 2% of EMs); middle insomnia (3% of PMs, 1% of EMs); conjunctivitis (3% of PMs, 1% of EMs); syncope (3% of PMs, 1% of EMs); early morning awakening (2% of PMs, 1% of EMs); mydriasis (2% of PMs, 1% of EMs); sedation (4% of PMs, 2% of EMs).
 
@@ -77,22 +79,22 @@ In the clinical development program, seizures were reported on 0.1% (1/748) of a
 In these clinical trials, no poor metabolizers (0/43) reported seizures compared to 0.1% (1/705) for extensive metabolizers.
 
 Commonly observed adverse reactions in acute adult placebo-controlled trials — Commonly observed adverse reactions associated with the use of atomoxetine hydrochloride (incidence of 2% or greater) and not observed at an equivalent incidence among placebo-treated patients (atomoxetine hydrochloride incidence greater than placebo) are listed in Table 4.
-The most commonly observed adverse reactions in patients treated with atomoxetine hydrochloride (incidence of 5% or greater and at least twice the incidence in placebo patients) were: constipation, dry mouth, nausea, decreased appetite, dizziness, erectile dysfunction, and urinary hesitation (seeTable 4).
+The most commonly observed adverse reactions in patients treated with atomoxetine hydrochloride (incidence of 5% or greater and at least twice the incidence in placebo patients) were: constipation, dry mouth, nausea, decreased appetite, dizziness, erectile dysfunction, and urinary hesitation (see Table 4).
 
 Additional data from ADHD clinical trials (controlled and uncontrolled) has shown that approximately 5 to 10% of adult patients experienced potentially clinically important changes in heart rate (≥ 20 beats per min) or blood pressure (≥ 15 to 20 mm Hg) [see Contraindications (4) and Warnings and Precautions (5)].
 
-Table 4: Common Treatment-Emergent Adverse Reactions Associated With the Use of Atomoxetine Hydrochloride in Acute (up to 25 weeks) Adult Trials
+Table 4: Common Treatment-Emergent Adverse Reactions Associated with the Use of Atomoxetine Hydrochloride in Acute (up to 25 weeks) Adult Trials
 
-| Adverse ReactionReactions reported by at least 2% of patients treated with atomoxetine, and greater than placebo. The following reactions did not meet this criterion but were reported by more atomoxetine-treated patients than placebo-treated patients and are possibly related to atomoxetine treatment: peripheral coldness, tachycardia, prostatitis, testicular pain, orgasm abnormal, flatulence, asthenia, feeling cold, muscle spasm, dysgeusia, agitation, restlessness, micturition urgency, pollakiuria, pruritus, urticaria, flushing, tremor, menstruation irregular, rash, and urinary retention. The following reactions were reported by at least 2% of patients treated with atomoxetine, and equal to or less than placebo: anxiety, diarrhea, back pain, headache, and oropharyngeal pain. | Percentage of Patients Reporting Reaction |  |
+| Adverse Reactiona | Percentage of Patients Reporting Reaction |  |
 | --- | --- | --- |
-| System Organ Class/Adverse Reaction | Atomoxetine Hydrochloride (N = 1697) | Placebo (N = 1560) |
+|  | Atomoxetine Hydrochloride (N = 1697) | Placebo (N = 1560) |
 | Cardiac Disorders |  |  |
 | Palpitations | 3 | 1 |
 | Gastrointestinal Disorders |  |  |
 | Dry mouth | 20 | 5 |
 | Nausea | 26 | 6 |
 | Constipation | 8 | 3 |
-| Abdominal painAbdominal pain includes the terms: abdominal pain upper, abdominal pain, stomach discomfort, abdominal discomfort, epigastric discomfort. | 7 | 4 |
+| Abdominal painb | 7 | 4 |
 | Dyspepsia | 4 | 2 |
 | Vomiting | 4 | 2 |
 | General Disorders and Administration Site Conditions |  |  |
@@ -107,24 +109,25 @@ Table 4: Common Treatment-Emergent Adverse Reactions Associated With the Use of 
 | Decreased appetite | 16 | 3 |
 | Nervous System Disorders |  |  |
 | Dizziness | 8 | 3 |
-| SomnolenceSomnolence includes the terms: sedation, somnolence. | 8 | 5 |
+| Somnolencec | 8 | 5 |
 | Paraesthesia | 3 | 0 |
 | Psychiatric Disorders |  |  |
 | Abnormal dreams | 4 | 3 |
-| InsomniaInsomnia includes the terms: insomnia, initial insomnia, middle insomnia, and terminal insomnia. | 15 | 8 |
+| Insomniad | 15 | 8 |
 | Libido decreased | 3 | 1 |
 | Sleep disorder | 3 | 1 |
 | Renal and Urinary Disorders |  |  |
-| Urinary hesitationUrinary hesitation includes the terms: urinary hesitation, urine flow decreased. | 6 | 1 |
+| Urinary hesitatione | 6 | 1 |
 | Dysuria | 2 | 0 |
 | Reproductive System and Breast Disorders |  |  |
-| Erectile dysfunctionBased on total number of males (atomoxetine hydrochloride, N = 943; placebo, N = 869). | 8 | 1 |
-| DysmenorrheaBased on total number of females (atomoxetine hydrochloride, N = 754; placebo, N = 691). | 3 | 2 |
-| Ejaculation delayed and/or ejaculation disorder | 4 | 1 |
+| Erectile dysfunctionf | 8 | 1 |
+| Dysmenorrheag | 3 | 2 |
+| Ejaculation delayedf and/or ejaculation disorderf | 4 | 1 |
 | Skin and Subcutaneous Tissue Disorders |  |  |
 | Hyperhidrosis | 4 | 1 |
 | Vascular Disorders |  |  |
 | Hot flush | 3 | 0 |
+| a Reactions reported by at least 2% of patients treated with atomoxetine, and greater than placebo. The following reactions did not meet this criterion but were reported by more atomoxetine-treated patients than placebo-treated patients and are possibly related to atomoxetine treatment: peripheral coldness, tachycardia, prostatitis, testicular pain, orgasm abnormal, flatulence, asthenia, feeling cold, muscle spasm, dysgeusia, agitation, restlessness, micturition urgency, pollakiuria, pruritus, urticaria, flushing, tremor, menstruation irregular, rash, and urinary retention. The following reactions were reported by at least 2% of patients treated with atomoxetine, and equal to or less than placebo: anxiety, diarrhea, back pain, headache, and oropharyngeal pain.b Abdominal pain includes the terms: abdominal pain upper, abdominal pain, stomach discomfort, abdominal discomfort, epigastric discomfort.c Somnolence includes the terms: sedation, somnolence.d Insomnia includes the terms: insomnia, initial insomnia, middle insomnia, and terminal insomnia.e Urinary hesitation includes the terms: urinary hesitation, urine flow decreased.f Based on total number of males (atomoxetine hydrochloride, N = 943; placebo, N = 869).g Based on total number of females (atomoxetine hydrochloride, N = 754; placebo, N = 691). |  |  |
 
 The following adverse events occurred in at least 2% of adult CYP2D6 poor metaboliser (PM) patients and were statistically significantly more frequent in PM patients compared to CYP2D6 extensive metaboliser (EM) patients: vision blurred (4% of PMs, 1% of EMs); dry mouth (35% of PMs, 17% of EMs); constipation (11% of PMs, 7% of EMs); feeling jittery (5% of PMs, 2% of EMs); decreased appetite (23% of PMs, 15% of EMs); tremor (5% of PMs, 1% of EMs); insomnia (19% of PMs, 11% of EMs); sleep disorder (7% of PMs, 3% of EMs); middle insomnia (5% of PMs, 3% of EMs); terminal insomnia (3% of PMs, 1% of EMs); urinary retention (6% of PMs, 1% of EMs); erectile dysfunction (21% of PMs, 9% of EMs); ejaculation disorder (6% of PMs, 2% of EMs); hyperhidrosis (15% of PMs, 7% of EMs); peripheral coldness (3% of PMs, 1% of EMs).
 
@@ -155,7 +158,7 @@ Nervous system disorders — Hypoaesthesia; paraesthesia in children and adolesc
 Psychiatric disorders — Depression and depressed mood; anxiety, libido changes.
 
 Seizures — Seizures have been reported in the postmarketing period.
-The postmarketing seizure cases include patients with preexisting seizure disorders and those with identified risk factors for seizures, as well as patients with neither a history of nor identified risk factors for seizures.
+The postmarketing seizure cases include patients with pre-existing seizure disorders and those with identified risk factors for seizures, as well as patients with neither a history of nor identified risk factors for seizures.
 The exact relationship between atomoxetine hydrochloride and seizures is difficult to evaluate due to uncertainty about the background risk of seizures in ADHD patients.
 
 Skin and subcutaneous tissue disorders — Alopecia, hyperhidrosis.

@@ -4,7 +4,7 @@
 
 Atomoxetine capsules are indicated for the treatment of Attention-Deficit/Hyperactivity Disorder (ADHD).
 
-The efficacy of atomoxetine capsules was established in seven clinical trials in outpatients with ADHD: four 6 to 9 week trials in pediatric patients (ages 6 to 18), two 10 week trial in adults, and one maintenance trial in pediatrics (ages 6 to 15) [see Clinical Studies (14)].
+The efficacy of atomoxetine capsules was established in seven clinical trials in outpatients with ADHD: four 6 to 9-week trials in pediatric patients (ages 6 to 18), two 10-week trial in adults, and one maintenance trial in pediatrics (ages 6 to 15) [see Clinical Studies (14)].
 
 ## 1.2 Diagnostic Considerations
 

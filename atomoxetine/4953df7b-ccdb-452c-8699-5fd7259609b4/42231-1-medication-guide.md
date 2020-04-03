@@ -1,6 +1,6 @@
 # MEDICATION GUIDE
 
-ATOMOXETINE (AT oh mox e teen) CAPSULES USP
+ATOMOXETINE (a″ toe mox′ e teen) CAPSULES
 
 Read the Medication Guide that comes with atomoxetine capsules before you or your child starts taking them and each time you get a refill.
 There may be new information.
@@ -110,8 +110,15 @@ Before starting atomoxetine capsules tell your doctor or your child’s doctor a
 - heart problems, heart defects, irregular heart beat, high blood pressure, or low blood pressure
 - mental problems, psychosis, mania, bipolar illness, or depression
 - liver problems
-
-Tell your doctor if you or your child is pregnant, planning to become pregnant, or breastfeeding.
+- are pregnant or plan to become pregnant.
+  It is not known if atomoxetine capsules will harm your unborn baby.
+  Talk to your doctor if you are pregnant or plan to become pregnant.
+  - There is a pregnancy registry for females who are exposed to ADHD medications, including atomoxetine capsules, during pregnancy.
+    The purpose of the registry is to collect information about the health of females exposed to atomoxetine capsules and their baby.
+    If you or your child becomes pregnant during treatment with atomoxetine capsules, talk to your healthcare provider about registering with the National Pregnancy Registry of ADHD Medications at 1-866-961-2388 or visit online at https://womensmentalhealth.org/adhdmedications/.
+- are breastfeeding or plan to breastfeed.
+  It is not known if atomoxetine capsules passes into your breast milk.
+  Talk to your doctor about the best way to feed your baby if you take atomoxetine capsules.
 
 Can atomoxetine capsules be taken with other medicines?
 
@@ -216,9 +223,9 @@ If you would like more information, talk with your doctor.
 You can ask your doctor or pharmacist for information about atomoxetine capsules that was written for healthcare professionals.
 For more information about atomoxetine capsules call 1-888-838-2872.
 
-What are the ingredients in atomoxetine capsules USP?
+What are the ingredients in atomoxetine capsules?
 
-Active ingredient: atomoxetine hydrochloride, USP.
+Active ingredient: atomoxetine hydrochloride
 
 Inactive ingredients: black iron oxide, gelatin, potassium hydroxide, pregelatinized corn starch, propylene glycol, shellac, sodium lauryl sulfate, strong ammonia solution, and titanium dioxide.
 Additionally the 18 mg and 60 mg capsules contain D&C yellow #10; the 25 mg, 40 mg, and 60 mg capsules contain FD&C blue #1; and the 80 mg and 100 mg capsules contain red iron oxide and yellow iron oxide.
@@ -240,4 +247,4 @@ Teva Pharmaceuticals USA, Inc.
 North Wales, PA 19454
 
 Rev.
-E 11/2018
+F 3/2020

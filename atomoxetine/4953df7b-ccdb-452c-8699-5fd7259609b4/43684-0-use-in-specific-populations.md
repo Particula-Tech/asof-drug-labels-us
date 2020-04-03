@@ -2,35 +2,49 @@
 
 ## 8.1 Pregnancy
 
-#### Pregnancy Category C
+Pregnancy Exposure Registry
 
-Pregnant rabbits were treated with up to 100 mg/kg/day of atomoxetine by gavage throughout the period of organogenesis.
+There is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to ADHD medications, including atomoxetine hydrochloride during pregnancy.
+Healthcare providers are encouraged to register patients by calling the National Pregnancy Registry for ADHD Medications at 1-866-961-2388 or visiting https://womensmentalhealth.org/adhd-medications/.
+
+Risk Summary
+
+Available published studies with atomoxetine use in pregnant women are insufficient to establish a drug-associated risk of major birth defects, miscarriage or adverse maternal or fetal outcomes.
+
+Some animal reproduction studies of atomoxetine had adverse developmental outcomes.
+One of 3 studies in pregnant rabbits dosed during organogenesis resulted in decreased live fetuses and an increase in early resorptions, as well as slight increases in the incidences of atypical origin of carotid artery and absent subclavian artery.
+These effects were observed at plasma levels (AUC) 3 times and 0.4 times the human plasma levels in extensive and poor metabolizers receiving the maximum recommended human dose (MRHD), respectively.
+In rats dosed prior to mating and during organogenesis a decrease in fetal weight (female only) and an increase in the incidence of incomplete ossification of the vertebral arch in fetuses were observed at a dose approximately 5 times the MRHD on a mg/m2 basis.
+In one of 2 studies in which rats were dosed prior to mating through the periods of organogenesis and lactation, decreased pup weight and decreased pup survival were observed at doses corresponding to 5 to 6 times the MRHD on a mg/m2 basis.
+No adverse fetal effects were seen in pregnant rats dosed during the organogenesis period (see Data).
+
+The estimated background risk of major birth defects and miscarriage for the indicated population is unknown.
+All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively.
+
+Data
+
+Animal Data Pregnant rabbits were treated with up to 100 mg/kg/day of atomoxetine by gavage throughout the period of organogenesis.
 At this dose, in 1 of 3 studies, a decrease in live fetuses and an increase in early resorptions was observed.
 Slight increases in the incidences of atypical origin of carotid artery and absent subclavian artery were observed.
 These findings were observed at doses that caused slight maternal toxicity.
 The no-effect dose for these findings was 30 mg/kg/day.
-The 100 mg/kg dose is approximately 23 times the maximum human dose on a mg/m2 basis; plasma levels (AUC) of atomoxetine at this dose in rabbits are estimated to be 3.3 times (extensive metabolizers) or 0.4 times (poor metabolizers) those in humans receiving the maximum human dose.
+The 100 mg/kg dose is approximately 23 times the MRHD on a mg/m2 basis; plasma levels (AUC) of atomoxetine at this dose in rabbits are estimated to be 3.3 times (extensive metabolizers) or 0.4 times (poor metabolizers) those in humans receiving the MRHD.
 
-Rats were treated with up to approximately 50 mg/kg/day of atomoxetine (approximately 6 times the maximum human dose on a mg/m2 basis) in the diet from 2 weeks (females) or 10 weeks (males) prior to mating through the periods of organogenesis and lactation.
+Rats were treated with up to approximately 50 mg/kg/day of atomoxetine (approximately 6 times the MRHD on a mg/m2 basis) in the diet from 2 weeks (females) or 10 weeks (males) prior to mating through the periods of organogenesis and lactation.
 In 1 of 2 studies, decreases in pup weight and pup survival were observed.
 The decreased pup survival was also seen at 25 mg/kg (but not at 13 mg/kg).
-In a study in which rats were treated with atomoxetine in the diet from 2 weeks (females) or 10 weeks (males) prior to mating throughout the period of organogenesis, a decrease in fetal weight (female only) and an increase in the incidence of incomplete ossification of the vertebral arch in fetuses were observed at 40 mg/kg/day (approximately 5 times the maximum human dose on a mg/m2 basis) but not at 20 mg/kg/day.
+In a study in which rats were treated with atomoxetine in the diet from 2 weeks (females) or 10 weeks (males) prior to mating throughout the period of organogenesis, a decrease in fetal weight (female only) and an increase in the incidence of incomplete ossification of the vertebral arch in fetuses were observed at 40 mg/kg/day (approximately 5 times the MRHD on a mg/m2 basis) but not at 20 mg/kg/day.
 
-No adverse fetal effects were seen when pregnant rats were treated with up to 150 mg/kg/day (approximately 17 times the maximum human dose on a mg/m2 basis) by gavage throughout the period of organogenesis.
+No adverse fetal effects were seen when pregnant rats were treated with up to 150 mg/kg/day (approximately 17 times the MRHD on a mg/m2 basis) by gavage throughout the period of organogenesis.
 
-No adequate and well-controlled studies have been conducted in pregnant women.
-Atomoxetine hydrochloride should not be used during pregnancy unless the potential benefit justifies the potential risk to the fetus.
+## 8.2 Lactation
 
-## 8.2 Labor and Delivery
+Risk Summary There are no data on the presence of atomoxetine or its metabolite in human milk, the effects on the breastfed child, or the effects on milk production.
+Atomoxetine is present in animal milk.
+When a drug is present in animal milk, it is likely that the drug will be present in human milk.
 
-Parturition in rats was not affected by atomoxetine.
-The effect of atomoxetine hydrochloride on labor and delivery in humans is unknown.
-
-## 8.3 Nursing Mothers
-
-Atomoxetine and/or its metabolites were excreted in the milk of rats.
-It is not known if atomoxetine is excreted in human milk.
-Caution should be exercised if atomoxetine hydrochloride is administered to a nursing woman.
+The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for atomoxetine hydrochloride and any potential adverse effects on the breastfed child from atomoxetine hydrochloride or from the underlying maternal condition.
 
 ## 8.4 Pediatric Use
 
@@ -69,7 +83,7 @@ Gender did not influence atomoxetine disposition.
 
 Ethnic origin did not influence atomoxetine disposition (except that PMs are more common in Caucasians).
 
-## 8.10 Patients With Concomitant Illness
+## 8.10 Patients with Concomitant Illness
 
 Tics in patients with ADHD and comorbid Tourette’s Disorder — Atomoxetine administered in a flexible dose range of 0.5 to 1.5 mg/kg/day (mean dose of 1.3 mg/kg/day) and placebo were compared in 148 randomized pediatric (age 7 to 17 years) subjects with a DSM-IV diagnosis of ADHD and comorbid tic disorder in an 18 week, double-blind, placebo-controlled study in which the majority (80%) enrolled in this trial with Tourette’s Disorder (Tourette’s Disorder: 116 subjects; chronic motor tic disorder: 29 subjects).
 A non-inferiority analysis revealed that atomoxetine hydrochloride did not worsen tics in these patients as determined by the Yale Global Tic Severity Scale Total Score (YGTSS).
