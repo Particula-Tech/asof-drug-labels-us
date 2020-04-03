@@ -9,10 +9,7 @@ Protect from light.
 
 Dispense in a tight container as defined in the USP.
 
-Manufactured by: G&W Laboratories, Inc. 111 Coolidge Street South Plainfield, NJ 07080 USA
-
 Distributed by: Actavis Pharma, Inc. Parsippany, NJ 07054 USA
 
-Revised – November 2016
-
-I602-1120 GW7081
+Rev.
+A 1/2020 3701602-1120 GW7331
