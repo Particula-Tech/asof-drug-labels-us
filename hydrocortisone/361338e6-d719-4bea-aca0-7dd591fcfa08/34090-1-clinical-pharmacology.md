@@ -2,7 +2,7 @@
 
 ## 12.1 Mechanism of Action
 
-Corticosteroids play a role in cellular signaling, immune function, inflammation, and protein regulation; however, the precise mechanism of action in corticosteroid responsive dermatoses is unknown
+Corticosteroids play a role in cellular signaling, immune function, inflammation, and protein regulation; however, the precise mechanism of action in corticosteroid responsive dermatoses is unknown.
 
 ## 12.2 Pharmacodynamics
 

@@ -17,3 +17,7 @@ Inform patients and/or caregivers of the following:
 Manufactured by:
 
 PharmaDerm® A division of Fougera PHARMACEUTICALS INC. Melville, New York 11747 www.pharmaderm.com
+
+46200776A
+
+R01/17
