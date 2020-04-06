@@ -7,7 +7,7 @@ The chemical name of buprenorphine hydrochloride is 17-(cyclopropylmethyl)-α-(1
 Buprenorphine hydrochloride is a white powder, weakly acidic and with limited solubility in water.
 
 Buprenorphine hydrochloride injection is a clear, sterile, injectable agonist-antagonist analgesic intended for intravenous or intramuscular administration.
-Each mL of buprenorphine hydrochloride injection contains 0.324 mg buprenorphine hydrochloride (equivalent to 0.3 mg buprenorphine), 50 mg anhydrous dextrose, water for injection, and HCl to adjust pH to 3.5 to 5.5.
+Each mL of buprenorphine hydrochloride injection contains 0.324 mg buprenorphine hydrochloride (equivalent to 0.3 mg buprenorphine), 50 mg anhydrous dextrose, water for injection and HCl to adjust pH to 3.5 to 5.5.
 
 Buprenorphine hydrochloride has the molecular formula, C29H41NO4∙HCl and the molecular weight of 504.09.
 It has the following structural formula:

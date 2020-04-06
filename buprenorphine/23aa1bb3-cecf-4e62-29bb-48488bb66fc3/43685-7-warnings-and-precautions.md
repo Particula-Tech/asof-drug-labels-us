@@ -31,6 +31,10 @@ Monitor patients closely for respiratory depression, especially within the first
 To reduce the risk of respiratory depression, proper dosing and titration of buprenorphine hydrochloride are essential.
 Overestimating the buprenorphine hydrochloride dosage when converting patients from another opioid product can result in a fatal overdose with the first dose.
 
+Opioids can cause sleep-related breathing disorders including central sleep apnea (CSA) and sleep-related hypoxemia.
+Opioid use increases the risk of CSA in a dose-dependent fashion.
+In patients who present with CSA, consider decreasing the opioid dosage using best practices for opioid taper [see DOSAGE AND ADMINISTRATION].
+
 ## Neonatal Opioid Withdrawal Syndrome
 
 Prolonged use of buprenorphine hydrochloride during pregnancy can result in withdrawal in the neonate.
@@ -182,7 +186,7 @@ Clinically significant drug interactions with Buprenorphine Hydrochloride
 | Serotonergic Drugs |  |
 | Clinical Impact: | The concomitant use of opioids with other drugs that affect the serotonergic neurotransmitter system has resulted in serotonin syndrome. |
 | Intervention: | If concomitant use is warranted, carefully observe the patient, particularly during treatment initiation and dose adjustment. Discontinue buprenorphine hydrochloride if serotonin syndrome is suspected. |
-| Examples: | Selective serotonin reuptake inhibitors (SSRIs), serotonin and norepinephrine reuptake inhibitors (SNRIs), tricyclic antidepressants (TCAs), triptans, 5-HT3 receptor antagonists, drugs that affect the serotonin neurotransmitter system (e.g., mirtazapine, trazodone, tramadol), monoamine oxidase (MAO) inhibitors (those intended to treat psychiatric disorders and also others, such as linezolid and intravenous methylene blue). |
+| Examples: | Selective serotonin reuptake inhibitors (SSRIs), serotonin and norepinephrine reuptake inhibitors (SNRIs), tricyclic antidepressants (TCAs), triptans, 5-HT3 receptor antagonists, drugs that affect the serotonin neurotransmitter system (e.g., mirtazapine, trazodone, tramadol), certain muscle relaxants (i.e., cyclobenzaprine, metaxalone), monoamine oxidase (MAO) inhibitors (those intended to treat psychiatric disorders and also others, such as linezolid and intravenous methylene blue). |
 | Monoamine Oxidase Inhibitors (MAOIs) |  |
 | Clinical Impact: | MAOI interactions with opioids may manifest as serotonin syndrome opioid toxicity (e.g., respiratory depression, coma). |
 | Intervention: | The use of buprenorphine hydrochloride is not recommended for patients taking MAOIs or within 14 days of stopping such treatment. |
@@ -208,7 +212,7 @@ Clinically significant drug interactions with Buprenorphine Hydrochloride
 | Intervention: | Patients who are on chronic buprenorphine hydrochloride treatment should have their dose monitored if NNRTIs are added to their treatment regimen. |
 | Examples: | Efavirenz, nevirapine, etravirine, delavirdine |
 | Antiretrovirals: Protease inhibitors (PIs) |  |
-| Clinical Impact: | Studies have shown some antiretroviral protease inhibitors (PIs) with CYP3A4 inhibitory activity (nelfinavir, lopinavir/ritonavir, ritonavir) have little effect on buprenorphine pharmacokinetic and no significant pharmacodynamic effects. Other PIs with CYP3A4 inhibitory activity (atazanavir and atazanavir/ritonavir) resulted in elevated levels of buprenorphine and norbuprenorphine, and patients in one study reported increased sedation. Symptoms of opioid excess have been found in postmarketing reports of patients receiving buprenorphine and atazanavir with and without ritonavir concomitantly. |
+| Clinical Impact: | Studies have shown some antiretroviral protease inhibitors (PIs) with CYP3A4 inhibitory activity (nelfinavir, lopinavir/ritonavir, ritonavir) have little effect on buprenorphine pharmacokinetic and no significant pharmacodynamic effects. Other PIs with CYP3A4 inhibitory activity (atazanavir and atazanavir/ritonavir) resulted in elevated levels of buprenorphine and norbuprenorphine, and patients in one study reported increased sedation. Symptoms of opioid excess have been found in post-marketing reports of patients receiving buprenorphine and atazanavir with and without ritonavir concomitantly. |
 | Intervention: | Monitor patients taking buprenorphine hydrochloride and atazanavir with and without ritonavir, and dose reduction of buprenorphine hydrochloride may be warranted. |
 | Examples: | Atazanavir, ritonavir |
 
@@ -254,7 +258,7 @@ Based on animal data, advise pregnant women of the potential risk to a fetus.
 
 The estimated background risk of major birth defects and miscarriage for the indicated population is unknown.
 All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
-In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2–4% and 15–20%, respectively.
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively.
 
 ### Clinical Considerations
 
@@ -330,7 +334,7 @@ It is not known whether these effects on fertility are reversible [see ADVERSE R
 
 The safety and effectiveness of buprenorphine have been established for children between 2 and 12 years of age.
 Use of buprenorphine in children is supported by evidence from adequate and well-controlled trials of buprenorphine in adults, with additional data from studies of 960 children ranging in age from 9 months to 18 years of age.
-Data is available from a pharmacokinetic study, several controlled clinical trials, and several large postmarketing studies and case series.
+Data is available from a pharmacokinetic study, several controlled clinical trials, and several large post-marketing studies and case series.
 The available information provides reasonable evidence that buprenorphine may be used safely in children ranging from 2 to 12 years of age, and that it is of similar effectiveness in children as in adults.
 
 ## Geriatric Use

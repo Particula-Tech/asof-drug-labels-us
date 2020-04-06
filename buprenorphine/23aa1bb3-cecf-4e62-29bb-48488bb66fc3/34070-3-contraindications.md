@@ -1,4 +1,4 @@
-# CONTRAINDICATION
+# CONTRAINDICATIONS
 
 Buprenorphine hydrochloride is contraindicated in patients with:
 

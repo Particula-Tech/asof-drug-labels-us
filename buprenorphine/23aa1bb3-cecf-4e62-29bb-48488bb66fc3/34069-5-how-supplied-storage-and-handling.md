@@ -1,8 +1,11 @@
 # HOW SUPPLIED
 
-| Unit of Sale | Total Strength/ Total Volume (Concentration) | Each |
-| --- | --- | --- |
-| NDC 0409-2012-32 Box of 10 | 0.3 mg/mL | NDC 0409-2012-03 1 mL fill in 2.5 mL Carpuject™ Single-dose cartridge with Luer Lock for the Carpuject™ Syringe System |
+| Unit of Sale | Total Strength/ Total Volume (Concentration) |
+| --- | --- |
+| NDC 0409-2012-32 | 0.3 mg/mL |
+| Box of 10 |  |
+| 1 mL fill in 2.5 mL Carpuject™ |  |
+| Single-dose cartridge with Luer Lock for the Carpuject™ Syringe System |  |
 
 Store at 20° to 25°C (68° to 77°F) [see USP Controlled Room Temperature].
 

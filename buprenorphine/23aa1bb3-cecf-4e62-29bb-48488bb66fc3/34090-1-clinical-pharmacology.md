@@ -20,7 +20,7 @@ Buprenorphine demonstrates narcotic antagonist activity and has been shown to be
 The principal action of therapeutic value of buprenorphine is analgesia and is thought to be due to buprenorphine binding with high affinity to opioid receptors on neurons in the brain and spinal cord.
 
 Buprenorphine produces respiratory depression by direct action on brain stem respiratory centers.
-The respiratory depression involves a reduction in responsiveness of the brain stem respiratory centers to both increases in carbon dioxide tension and electrical stimulation.
+The respiratory depression involves a reduction in the responsiveness of the brain stem respiratory centers to both increases in carbon dioxide tension and electrical stimulation.
 
 Under usual conditions of use in adults, both buprenorphine hydrochloride and morphine show similar dose-related respiratory depressant effects.
 At adult therapeutic doses, buprenorphine hydrochloride (0.3 mg buprenorphine) can decrease respiratory rate in an equivalent manner to an equianalgesic dose of morphine (10 mg) [see WARNINGS].
@@ -73,7 +73,7 @@ The limits of sensitivity of available analytical methodology precluded demonstr
 
 ### Elimination
 
-In postoperative adults, pharmacokinetic studies have shown elimination half-lives ranging from 1.2 to 7.2 hours (mean 2.2 hours) after intravenous administration of 0.3mg of buprenorphine.
+In postoperative adults, pharmacokinetic studies have shown elimination half-lives ranging from 1.2 to 7.2 hours (mean 2.2 hours) after intravenous administration of 0.3 mg of buprenorphine.
 A single, ten-patient, pharmacokinetic study of doses of 3μg/kg in children (age 5 to 7 years) showed a high inter-patient variability, but suggests that the clearance of the drug may be higher in children than in adults.
 This is supported by at least one repeat-dose study in postoperative pain that showed an optimal inter-dose interval of 4 to 5 hours in pediatric patients as opposed to the recommended 6 to 8 hours in adults.
 
