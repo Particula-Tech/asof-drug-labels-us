@@ -8,7 +8,7 @@
 - •Use of LABA as monotherapy [without inhaled corticosteroids (ICS)] for asthma is associated with an increased risk of asthma-related death.
   Available data from controlled clinical trials also suggest that use of LABA as monotherapy increases the risk of asthma-related hospitalization in pediatric and adolescent patients.
   These findings are considered a class effect of LABA monotherapy.
-  When LABA are used in fixed dose combination with ICS, data from large clinical trials do not show a significant increase in the risk of serious asthma-related events (hospitalizations, intubations, death) compared with ICS alone.
+  When LABA are used in fixed-dose combination with ICS, data from large clinical trials do not show a significant increase in the risk of serious asthma-related events (hospitalizations, intubations, death) compared with ICS alone.
 - •A 28-week, placebo-controlled, U.S. trial comparing the safety of another LABA (salmeterol) with placebo, each added to usual asthma therapy, showed an increase in asthma-related deaths in subjects receiving salmeterol (13/13,176 in subjects treated with salmeterol vs 3/13,179 in subjects treated with placebo; relative risk: 4.37 [95% CI: 1.25, 15.34]).
   The increased risk of asthma-related death is considered a class effect of LABAs, including formoterol fumarate, one of the active ingredients in DUAKLIR PRESSAIR.
 - •No trial adequate to determine whether the rate of asthma-related deaths is increased in subjects treated with DUAKLIR PRESSAIR has been conducted.

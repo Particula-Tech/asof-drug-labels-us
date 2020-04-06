@@ -1,20 +1,22 @@
-| Instructions for UseDUAKLIR® PRESSAIR® (DU-aakl-ir PRESS-air)(aclidinium bromide/formoterol fumarate) inhalation powder |  |
+| Instructions for Use DUAKLIR® PRESSAIR® (DU-aakl-ir PRESS-air)(aclidinium bromide/formoterol fumarate) inhalation powder |  |
 | --- | --- |
-| For oral Inhalation onlyThis Instructions for Use contains information on how to use your DUAKLIR PRESSAIR inhaler. It is important that you read this information as the DUAKLIR PRESSAIR may work differently from inhalers you have used before.Read this Instructions for Use before you start using DUAKLIR PRESSAIR and each time you get a refill. There may be new information. This information does not take the place of talking to your doctor about your medical condition or your treatment.If you have any questions about how to use your inhaler, ask your doctor, pharmacist, or nurse for help. |  |
+| For oral Inhalation onlyThis Instructions for Use contains information on how to use your DUAKLIR PRESSAIR inhaler. It is important that you read this information as the DUAKLIR PRESSAIR may work differently from inhalers you have used before. Read this Instructions for Use before you start using DUAKLIR PRESSAIR and each time you get a refill. There may be new information. This information does not take the place of talking to your doctor about your medical condition or your treatment.If you have any questions about how to use your inhaler, ask your doctor, pharmacist, or nurse for help. |  |
 | The Instructions for Use is divided into the following sections: -Getting started-Before use-Step 1: Prepare your dose-Step 2: Inhale your medicine-Additional information-Questions and Answers about your DUAKLIR PRESSAIR inhaler |  |
-| Getting StartedBecome familiar with the parts of your DUAKLIR PRESSAIR inhaler (Figure A). |  |
+| Getting Started Become familiar with the parts of your DUAKLIR PRESSAIR inhaler (Figure A). |  |
 | Before use: a)Right before first use, open the sealed bag at the arrow marking and remove the inhaler. Throw away the bag and the desiccant.b)Write the date that you open the sealed bag on the label of the inhaler.c)Do not press the orange button until you are ready to take a dose.d)Remove the protective cap by lightly squeezing the arrows marked on each side of the protective cap and pulling straight off (Figure B). |  |
-| Step 1: Prepare your dose 1.%2.Look in the opening of the mouthpiece and make sure nothing is blocking it (Figure C).2.%2.Look at the control window. The control window should be red (Figure C). |  |
-| 1.3Hold the inhaler horizontally with the mouthpiece facing you and the orange button on top (Figure D). |  |
-| 1.4Press the orange button all the way down to load your dose (Figure E). When you press the button all the way down, the control window changes from red to green. |  |
+| Step 1: Prepare your dose 1.1. Look in the opening of the mouthpiece and make sure nothing is blocking it (Figure C).1.2. Look at the control window. The control window should be red (Figure C). |  |
+| 1.3. Hold the inhaler horizontally with the mouthpiece facing you and the orange button on top (Figure D). |  |
+| 1.4. Press the orange button all the way down to load your dose (Figure E). When you press the button all the way down, the control window changes from red to green. |  |
 | Make sure the orange button is on top. Do not tilt the inhaler. |  |
-| 1.5Release the orange button (Figure F). |  |
+| 1.5. Release the orange button (Figure F). |  |
 | Make sure you release the orange button, so the inhaler can work correctly. |  |
-| Stop and Check: 1.6Make sure the control window is now green (Figure G). This means your medicine is ready to be inhaled. Go to ‘Step 2: Inhale your medicine’. |  |
-| What to do if the control window is still red after pressing the button (Figure H).The dose is not prepared. Go back to ‘Step 1 Prepare your dose’ and repeat steps 1.1 to 1.6. |  |
+| Stop and Check: 1.6. Make sure the control window is now green (Figure G). This means your medicine is ready to be inhaled.Go to ‘Step 2: Inhale your medicine’. |  |
+| What to do if the control window is still red after pressing the button (Figure H). |  |
+| The dose is not prepared. Go back to ‘Step 1 Prepare your dose’ and repeat steps 1.1 to 1.6. |  |
 | Step 2: Inhale your medicine |  |
 | Read steps 2.1 to 2.7 fully before use. Do not tilt the inhaler. |  |
-| 2.1. Hold the inhaler away from your mouth, and breathe out completely. Never breathe out into the inhaler (Figure I).2.2. Hold your head upright, put the mouthpiece between your lips, and close your lips tightly around the mouth piece (Figure J). |  |
+| 2.1. Hold the inhaler away from your mouth, and breathe out completely. Never breathe out into the inhaler (Figure I). |  |
+| 2.2. Hold your head upright, put the mouthpiece between your lips, and close your lips tightly around the mouth piece (Figure J). |  |
 | Do not hold the orange button down while inhaling |  |
 | 2.3. Take a strong, deep breath through your mouth. Keep breathing in for as long as possible. |  |
 | A ‘click’ will let you know that you are inhaling correctly. Keep breathing in as long as possible after you hear the ‘click’. Some people may not hear the ‘click’. Use the control window to make sure you have inhaled correctly. |  |
@@ -22,10 +24,10 @@
 | Some people may have a grainy sensation in their mouth, or a slightly sweet or bitter taste. Do not take an extra dose if you do not taste or feel anything after inhaling. |  |
 | Stop and Check:2.7. Make sure the control window is now red (Figure K). This means you have inhaled your medicine correctly. |  |
 | What to do if the control window is still green after inhalation (Figure L). |  |
-| This means you have not inhaled your medicine correctly. Go back to ‘Step 2 Inhale your medicine’ and repeat steps 2.1 to 2.7.If the control window still does not change to red, you may have forgotten to release the orange button before inhaling, or you may not have inhaled strongly enough. If this happens, try again. Make sure you have released the orange button, and you have breathed out completely. Then take a strong, deep breath through the mouthpiece.Contact your doctor if the control window is still green after repeated attempts. |  |
+| This means you have not inhaled your medicine correctly. Go back to ‘Step 2 Inhale your medicine’ and repeat steps 2.1 to 2.7. If the control window still does not change to red, you may have forgotten to release the orange button before inhaling, or you may not have inhaled strongly enough. If this happens, try again. Make sure you have released the orange button, and you have breathed out completely. Then take a strong, deep breath through the mouthpiece. Contact your doctor if the control window is still green after repeated attempts. |  |
 | Push the protective cap back onto the mouthpiece after each use (Figure M), to prevent contamination of the inhaler with dust or other materials. You should throw away (dispose of) your inhaler if you lose the protective cap. |  |
 | For more information about DUAKLIR PRESSAIR and a video demonstration on how to use DUAKLIR PRESSAIR, go to www.DUAKLIR.com. |  |
-| Additional informationWhat should I do if I accidentally prepare a dose?Store your inhaler with the protective cap in place until it is time to inhale your medicine, then remove the cap and start at Step 1.6.How does the dose indicator work? •The dose indicator shows the total number of doses left in the inhaler (Figure N).•On first use, every inhaler contains at least 60 doses.•Each time you load a dose by pressing the orange button, the dose indicator moves by a small amount towards the next number (50, 40, 30, 20, 10, or 0). |  |
+| Additional information What should I do if I accidentally prepare a dose?Store your inhaler with the protective cap in place until it is time to inhale your medicine, then remove the cap and start at Step 1.6. How does the dose indicator work? •The dose indicator shows the total number of doses left in the inhaler (Figure N).•On first use, every inhaler contains at least 60 doses.•Each time you load a dose by pressing the orange button, the dose indicator moves by a small amount towards the next number (50, 40, 30, 20, 10, or 0). |  |
 | When should I get a new inhaler?You should throw away (dispose of) your inhaler if it appears to be damaged or if you lose the protective cap.When a red band appears in the dose indicator, this means you are close to your last dose (Figure N).You should throw away (dispose of) the inhaler and use a new one: •when the marking “0” with a red background shows in the middle of the dose indicator (Figure O), or•if your inhaler is empty and locks out (Figure P), or•two months after the date you opened the sealed bag that the inhaler comes in, whichever comes first |  |
 | How do I know that my inhaler is empty?When the orange button will not return to its full upper position and is locked in a middle position (Figure P). Even though the orange button is locked, your last dose may still be inhaled. After that, the inhaler cannot be used again and you should start using a new inhaler. |  |
 | How should I clean the inhaler?NEVER use water to clean the inhaler, as this may damage your medicine.If you want to clean your inhaler, wipe the outside of the mouthpiece with a dry tissue or paper towel. |  |
@@ -42,11 +44,7 @@
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
-Distributed by:
-
-Circassia Pharmaceuticals Inc.
-
-Morrisville, NC 27560
+Distributed by: Circassia Pharmaceuticals Inc. Morrisville, NC 27560
 
 Under license of ALMIRALL, S.A.
 

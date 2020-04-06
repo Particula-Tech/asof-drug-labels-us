@@ -1,7 +1,7 @@
 # 14 CLINICAL STUDIES
 
 The safety and efficacy of DUAKLIR PRESSAIR was evaluated in a clinical development program that included three dose ranging trials, one active and two placebo-controlled lung function trials of 24 weeks duration; and one 28-week long-term safety extension study.
-The efficacy of DUAKLIR was primarily based on one dose ranging trial in 128 subjects with COPD and the three 6 month duration confirmatory trials in 5015 subjects with COPD, including chronic bronchitis and emphysema.
+The efficacy of DUAKLIR was primarily based on one dose ranging trial in 128 subjects with COPD and the three 6-month duration confirmatory trials in 5015 subjects with COPD, including chronic bronchitis and emphysema.
 
 ## 14.1 Dose-Ranging Trials
 

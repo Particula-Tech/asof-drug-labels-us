@@ -55,7 +55,7 @@ In an embryo-fetal development study in pregnant rabbits dosed during the period
 No teratogenic effects were observed at doses up to 2,800 times the MRHDID (on a mg/m2 basis at maternal oral doses up to 3.5 mg/kg/day).
 
 In a pre- and post-natal development study, pregnant female rats received formoterol at oral doses of 0, 0.21, 0.84, and 3.4 mg/kg/day from gestation day 6 through the lactation period.
-Pup survival was decreased from birth to postpartum day 26 at doses 85 times the MRHDID and higher (on a mg/m2 basis at maternal oral doses of 0.21 mg/kg/day and higher), although there was no evidence of a dose- response relationship.
+Pup survival was decreased from birth to postpartum day 26 at doses 85 times the MRHDID and higher (on a mg/m2 basis at maternal oral doses of 0.21 mg/kg/day and higher), although there was no evidence of a dose-response relationship.
 There were no treatment-related effects on the physical, functional, and behavioral development of rat pups.
 
 ## 8.2 Lactation
