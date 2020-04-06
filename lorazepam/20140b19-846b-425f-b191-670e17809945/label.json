@@ -5,7 +5,9 @@
   "inn": "lorazepam",
   "labeler": "Hospira, Inc.",
   "package_ndcs": [
+    "0409-1539-03",
     "0409-1539-31",
+    "0409-1985-03",
     "0409-1985-30"
   ],
   "products": [
