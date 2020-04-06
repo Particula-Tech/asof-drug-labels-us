@@ -6,7 +6,7 @@ Liraglutide causes dose-dependent and treatment-duration-dependent thyroid C-cel
 Malignant thyroid C-cell carcinomas were detected in rats and mice.
 It is unknown whether Saxenda will cause thyroid C-cell tumors, including medullary thyroid carcinoma (MTC), in humans, as the human relevance of liraglutide-induced rodent thyroid C-cell tumors has not been determined.
 
-Cases of MTC in patients treated with liraglutide have been reported in the post-marketing period; the data in these reports are insufficient to establish or exclude a causal relationship between MTC and liraglutide use in humans.
+Cases of MTC in patients treated with liraglutide have been reported in the postmarketing period; the data in these reports are insufficient to establish or exclude a causal relationship between MTC and liraglutide use in humans.
 
 Saxenda is contraindicated in patients with a personal or family history of MTC or in patients with MEN 2.
 Counsel patients regarding the potential risk for MTC with the use of Saxenda and inform them of symptoms of thyroid tumors (e.g., a mass in the neck, dysphagia, dyspnea, persistent hoarseness).
@@ -19,7 +19,7 @@ Patients with thyroid nodules noted on physical examination or neck imaging shou
 
 ## 5.2 Acute Pancreatitis
 
-Based on spontaneous post-marketing reports, acute pancreatitis, including fatal and non-fatal hemorrhagic or necrotizing pancreatitis, has been observed in patients treated with liraglutide.
+Based on spontaneous postmarketing reports, acute pancreatitis, including fatal and non-fatal hemorrhagic or necrotizing pancreatitis, has been observed in patients treated with liraglutide.
 After initiation of Saxenda, observe patients carefully for signs and symptoms of pancreatitis (including persistent severe abdominal pain, sometimes radiating to the back and which may or may not be accompanied by vomiting).
 If pancreatitis is suspected, Saxenda should promptly be discontinued and appropriate management should be initiated.
 If pancreatitis is confirmed, Saxenda should not be restarted.
@@ -41,9 +41,8 @@ If cholelithiasis is suspected, gallbladder studies and appropriate clinical fol
 
 ## 5.4 Risk for Hypoglycemia with Concomitant Use of Anti-Diabetic Therapy
 
-The risk for serious hypoglycemia is increased when Saxenda is used in combination with insulin secretagogues (for example, sulfonylureas) in patients with type 2 diabetes mellitus.
-Therefore, patients may require a lower dose of sulfonylurea (or other concomitantly administered insulin secretagogues) in this setting [see Dosage and Administration (2) and Adverse Reactions (6.1)].
-Saxenda should not be used in patients taking insulin.
+The risk for hypoglycemia is increased when Saxenda is used in combination with insulin secretagogues (for example, sulfonylureas) or insulin in patients with type 2 diabetes mellitus.
+Therefore, patients may require a lower dose of sulfonylurea (or other concomitantly administered insulin secretagogues) or insulin in this setting [see Dosage and Administration (2) and Adverse Reactions (6.1)].
 
 Saxenda can lower blood glucose [see Clinical Pharmacology (12.2)].
 Monitor blood glucose parameters prior to starting Saxenda and during Saxenda treatment in patients with type 2 diabetes.

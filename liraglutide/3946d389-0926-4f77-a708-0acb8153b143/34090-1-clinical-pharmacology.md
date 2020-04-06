@@ -24,12 +24,12 @@ Cardiac Electrophysiology (QTc) in healthy volunteers
 
 The effect of liraglutide on cardiac repolarization was tested in a QTc study.
 Liraglutide at steady-state concentrations after daily doses up to 1.8 mg did not produce QTc prolongation.
-The maximum liraglutide plasma concentration (Cmax) in overweight and obese subjects treated with liraglutide 3 mg is similar to the Cmax observed in the liraglutide QTc study in healthy volunteers.
+The maximum liraglutide plasma concentration (Cmax) in subjects with overweight (excess weight) and obesity treated with liraglutide 3 mg is similar to the Cmax observed in the liraglutide QTc study in healthy volunteers.
 
 ## 12.3 Pharmacokinetics
 
 Absorption - Following subcutaneous administration, maximum concentrations of liraglutide are achieved at 11 hours post dosing.
-The average liraglutide steady state concentration (AUCτ/24) reached approximately 116 ng/mL in obese (BMI 30-40 kg/m2) subjects following administration of Saxenda.
+The average liraglutide steady state concentration (AUCτ/24) reached approximately 116 ng/mL in subjects with obesity (BMI 30-40 kg/m2) following administration of Saxenda.
 Liraglutide exposure increased proportionally in the dose range of 0.6 mg to 3 mg.
 The intra-subject coefficient of variation for liraglutide AUC was 11% following single dose administration.
 Liraglutide exposures were considered similar among three subcutaneous injection sites (upper arm, abdomen, and thigh).
@@ -50,12 +50,12 @@ The mean apparent clearance following subcutaneous administration of a single do
 Specific Populations
 
 Elderly - No dosage adjustment is required based on age.
-Age had no effect on the pharmacokinetics of liraglutide based on a pharmacokinetic study in healthy elderly subjects (65 to 83 years) and population pharmacokinetic analyses of data from overweight and obese patients 18 to 82 years of age [see Use in Specific Populations (8.5)].
+Age had no effect on the pharmacokinetics of liraglutide based on a pharmacokinetic study in healthy elderly subjects (65 to 83 years) and population pharmacokinetic analyses of data from patients with overweight (excess weight) and obesity 18 to 82 years of age [see Use in Specific Populations (8.5)].
 
 Gender - Based on the results of population pharmacokinetic analyses, females have 24% lower weight adjusted clearance of Saxenda compared to males.
 Based on the exposure response data, no dose adjustment is necessary based on gender.
 
-Race and Ethnicity - Race and ethnicity had no effect on the pharmacokinetics of liraglutide based on the results of population pharmacokinetic analyses that included overweight and obese patients of Caucasian, Black, Asian and Hispanic/Non-Hispanic groups.
+Race and Ethnicity - Race and ethnicity had no effect on the pharmacokinetics of liraglutide based on the results of population pharmacokinetic analyses that included patients with overweight (excess weight) and obesity of Caucasian, Black, Asian and Hispanic/Non-Hispanic groups.
 
 Body Weight - Body weight significantly affects the pharmacokinetics of liraglutide based on results of population pharmacokinetic analyses conducted in patients with body weight range of 60-234 kg.
 The exposure of liraglutide decreases as baseline body weight increases.

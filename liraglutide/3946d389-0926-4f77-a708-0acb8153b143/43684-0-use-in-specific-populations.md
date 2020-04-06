@@ -21,27 +21,27 @@ Clinical Considerations
 
 Disease-associated maternal and/or embryofetal risk
 
-A minimum weight gain, and no weight loss, is recommended for all pregnant women, including those who are already overweight or obese, due to the necessary weight gain that occurs in maternal tissues during pregnancy.
+A minimum weight gain, and no weight loss, is recommended for all pregnant women, including those who already have overweight (excess weight) or obesity, due to the necessary weight gain that occurs in maternal tissues during pregnancy.
 
 Animal Data
 
-Liraglutide has been shown to be teratogenic in rats at or above 0.8-times systemic exposures in obese humans resulting from the maximum recommended human dose (MRHD) of 3 mg/day based on plasma area under the time-concentration curve (AUC) comparison.
-Liraglutide has been shown to cause reduced growth and increased total major abnormalities in rabbits at systemic exposures below exposure in obese humans at the MRHD based on plasma AUC comparison.
+Liraglutide has been shown to be teratogenic in rats at or above 0.8-times systemic exposures in humans with obesity resulting from the maximum recommended human dose (MRHD) of 3 mg/day based on plasma area under the time-concentration curve (AUC) comparison.
+Liraglutide has been shown to cause reduced growth and increased total major abnormalities in rabbits at systemic exposures below exposure in humans with obesity at the MRHD based on plasma AUC comparison.
 
-Female rats given subcutaneous doses of 0.1, 0.25 and 1 mg/kg/day liraglutide beginning 2 weeks before mating through gestation day 17 had estimated systemic exposures 0.8-, 3-, and 11-times the exposure in obese humans at the MRHD based on plasma AUC comparison.
+Female rats given subcutaneous doses of 0.1, 0.25 and 1 mg/kg/day liraglutide beginning 2 weeks before mating through gestation day 17 had estimated systemic exposures 0.8-, 3-, and 11-times the exposure in humans with obesity at the MRHD based on plasma AUC comparison.
 The number of early embryonic deaths in the 1 mg/kg/day group increased slightly.
 Fetal abnormalities and variations in kidneys and blood vessels, irregular ossification of the skull, and a more complete state of ossification occurred at all doses.
 Mottled liver and minimally kinked ribs occurred at the highest dose.
 The incidence of fetal malformations in liraglutide-treated groups exceeding concurrent and historical controls were misshapen oropharynx and/or narrowed opening into larynx at 0.1 mg/kg/day and umbilical hernia at 0.1 and 0.25 mg/kg/day.
 
-Pregnant rabbits given subcutaneous doses of 0.01, 0.025 and 0.05 mg/kg/day liraglutide from gestation day 6 through day 18 inclusive, had estimated systemic exposures less than the exposure in obese humans at the MRHD of 3 mg/day at all doses, based on plasma AUC comparison.
+Pregnant rabbits given subcutaneous doses of 0.01, 0.025 and 0.05 mg/kg/day liraglutide from gestation day 6 through day 18 inclusive, had estimated systemic exposures less than the exposure in humans with obesity at the MRHD of 3 mg/day at all doses, based on plasma AUC comparison.
 Liraglutide decreased fetal weight and dose-dependently increased the incidence of total major fetal abnormalities at all doses.
 The incidence of malformations exceeded concurrent and historical controls at 0.01 mg/kg/day (kidneys, scapula), greater than or equal to 0.01 mg/kg/day (eyes, forelimb), 0.025 mg/kg/day (brain, tail and sacral vertebrae, major blood vessels and heart, umbilicus), greater than or equal to 0.025 mg/kg/day (sternum) and at 0.05 mg/kg/day (parietal bones, major blood vessels).
 Irregular ossification and/or skeletal abnormalities occurred in the skull and jaw, vertebrae and ribs, sternum, pelvis, tail, and scapula; and dose-dependent minor skeletal variations were observed.
 Visceral abnormalities occurred in blood vessels, lung, liver, and esophagus.
 Bilobed or bifurcated gallbladder was seen in all treatment groups, but not in the control group.
 
-In pregnant female rats given subcutaneous doses of 0.1, 0.25 and 1 mg/kg/day liraglutide from gestation day 6 through weaning or termination of nursing on lactation day 24, estimated systemic exposures were 0.8-, 3-, and 11-times exposure in obese humans at the MRHD of 3 mg/day, based on plasma AUC comparison.
+In pregnant female rats given subcutaneous doses of 0.1, 0.25 and 1 mg/kg/day liraglutide from gestation day 6 through weaning or termination of nursing on lactation day 24, estimated systemic exposures were 0.8-, 3-, and 11-times exposure in humans with obesity at the MRHD of 3 mg/day, based on plasma AUC comparison.
 A slight delay in parturition was observed in the majority of treated rats.
 Group mean body weight of neonatal rats from liraglutide-treated dams was lower than neonatal rats from control group dams.
 Bloody scabs and agitated behavior occurred in male rats descended from dams treated with 1 mg/kg/day liraglutide.
@@ -73,7 +73,7 @@ No overall differences in safety or effectiveness were observed between these pa
 ## 8.6 Renal Impairment
 
 There is limited experience with Saxenda in patients with mild, moderate, and severe renal impairment, including end‑stage renal disease.
-However, there have been post-marketing reports of acute renal failure and worsening of chronic renal failure with liraglutide, which may sometimes require hemodialysis [see Warnings and Precautions (5.6) and Adverse Reactions (6.2)].
+However, there have been postmarketing reports of acute renal failure and worsening of chronic renal failure with liraglutide, which may sometimes require hemodialysis [see Warnings and Precautions (5.6) and Adverse Reactions (6.2)].
 Saxenda should be used with caution in this patient population [see Clinical Pharmacology (12.3)].
 
 ## 8.7 Hepatic Impairment

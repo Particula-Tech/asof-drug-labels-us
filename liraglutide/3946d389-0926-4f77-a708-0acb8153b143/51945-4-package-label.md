@@ -27,3 +27,7 @@ REFRIGERATE – DO NOT FREEZE
 Protect from light.
 
 Dispense the enclosed Medication Guide to each patient
+
+Get Support at
+
+TakingSaxenda.com

@@ -21,8 +21,7 @@ Saxenda can be injected subcutaneously in the abdomen, thigh, or upper arm.
 The injection site and timing can be changed without dose adjustment.
 Saxenda must not be administered intravenously or intramuscularly.
 
-When initiating Saxenda in patients taking insulin secretagogues (such as sulfonylureas), consider reducing the dose of the insulin secretagogue (for example, by one-half) to reduce the risk for hypoglycemia, and monitor blood glucose.
-Saxenda and insulin should not be used together [see Warnings and Precautions (5.4) and Adverse Reactions (6.1)].
+When initiating Saxenda in patients taking insulin secretagogues (such as sulfonylureas) or insulin, consider reducing the dose of the insulin secretagogue (for example, by one-half) or insulin to reduce the risk for hypoglycemia, and monitor blood glucose [see Warnings and Precautions (5.4) and Adverse Reactions (6.1)].
 Conversely, if discontinuing Saxenda in patients with type 2 diabetes, monitor for an increase in blood glucose.
 
 Evaluate the change in body weight 16 weeks after initiating Saxenda and discontinue Saxenda if the patient has not lost at least 4% of baseline body weight, since it is unlikely that the patient will achieve and sustain clinically meaningful weight loss with continued treatment.

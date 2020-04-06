@@ -15,7 +15,7 @@ The following serious adverse reactions are described below or elsewhere in the 
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical studies of another drug and may not reflect the rates observed in practice.
 
-Saxenda was evaluated for safety in 5 double-blind, placebo controlled trials that included 3384 overweight or obese patients treated with Saxenda for a treatment period up to 56 weeks (3 trials), 52 weeks (1 trial), and 32 weeks (1 trial).
+Saxenda was evaluated for safety in 5 double-blind, placebo controlled trials that included 3384 patients with overweight (excess weight) or obesity treated with Saxenda for a treatment period up to 56 weeks (3 trials), 52 weeks (1 trial), and 32 weeks (1 trial).
 All patients received study drug in addition to diet and exercise counseling.
 In these trials, patients received Saxenda for a mean treatment duration of 46 weeks (median, 56 weeks).
 Baseline characteristics included a mean age of 47 years, 71% women, 85% white, 39% with hypertension, 15% with type 2 diabetes, 34% with dyslipidemia, 29% with a BMI greater than 40 kg/m2, and 9% with cardiovascular disease.
@@ -28,8 +28,8 @@ The most common adverse reactions leading to discontinuation were nausea (2.9% v
 
 Adverse reactions reported in greater than or equal to 2% of Saxenda-treated patients and more frequently than in placebo-treated patients are shown in Table 3.
 
-1. Table 3.
-   Adverse Reactions Reported in Greater Than or Equal to 2% of Saxenda-treated Patients and More Frequently than with Placebo*
+- Table 3.
+  Adverse Reactions Reported in Greater Than or Equal to 2% of Saxenda-treated Patients and More Frequently than with Placebo*
 
 |  | PlaceboN = 1941% | SaxendaN = 3384% |
 | --- | --- | --- |
@@ -47,8 +47,7 @@ Adverse reactions reported in greater than or equal to 2% of Saxenda-treated pat
 | Flatulence | 2.5 | 4.0 |
 | Dry Mouth | 1.0 | 2.3 |
 | Metabolism and Nutrition Disorders |  |  |
-| Hypoglycemia in T2DM1 | 12.7 | 23.0 |
-| Decreased Appetite | 2.3 | 10.0 |
+| Hypoglycemia in T2DM1 | 6.6 | 12.6 |
 | Nervous System Disorders |  |  |
 | Headache | 12.6 | 13.6 |
 | Dizziness | 5.0 | 6.9 |
@@ -67,25 +66,34 @@ Adverse reactions reported in greater than or equal to 2% of Saxenda-treated pat
 | Insomnia | 1.7 | 2.4 |
 | Anxiety | 1.6 | 2.0 |
 
-1 Documented symptomatic (defined as documented symptoms of hypoglycemia in combination with a plasma glucose less than or equal to 70 mg/dL) in patients with type 2 diabetes (Study 2).
-See text below for further information regarding hypoglycemia in patients with and without type 2 diabetes.
+1 Defined as blood glucose <54 mg/dL with or without symptoms of hypoglycemia in patients with type 2 diabetes
+
+not on concomitant insulin (Study 2).
+See text below for further information regarding hypoglycemia in patients
+
+with and without type 2 diabetes.
 T2DM = type 2 diabetes mellitus
 
 * Adverse reactions for trials with treatment period up to 56 weeks
 
 Hypoglycemia
 
-Saxenda can lower blood glucose.
-In a clinical trial involving patients with type 2 diabetes mellitus and overweight or obesity, severe hypoglycemia (defined as requiring the assistance of another person) occurred in 3 (0.7%) of 422 Saxenda-treated patients and in none of the 212 placebo-treated patients.
-Each of these 3 Saxenda-treated patients was also taking a sulfonylurea.
-In the same trial, among patients taking a sulfonylurea, documented symptomatic hypoglycemia (defined as documented symptoms of hypoglycemia in combination with a plasma glucose less than or equal to 70 mg/dL) occurred in 48 (43.6%) of 110 Saxenda-treated patients and 15 (27.3%) of 55 placebo-treated patients.
-The doses of sulfonylureas were reduced by 50% at the beginning of the trial per protocol.
+Patients with Type 2 Diabetes
+
+In a clinical trial in patients with type 2 diabetes mellitus and overweight (excess weight) or obesity, severe hypoglycemia (defined as requiring the assistance of another person) occurred in 3 (0.7%) of 422 Saxenda-treated patients (all taking a sulfonylurea) and in none of the 212 placebo-treated patients.
+In this trial, among patients taking a sulfonylurea, hypoglycemia defined as a plasma glucose less than 54 mg/dL with or without symptoms occurred in 31 (28.2%) of 110 Saxenda-treated patients and 7 (12.7%) of 55 placebo-treated patients.
+Because Saxenda can lower blood glucose, the doses of sulfonylureas were reduced by 50% at the beginning of the trial per protocol.
 The frequency of hypoglycemia may be higher if the dose of sulfonylurea is not reduced.
-Among patients not taking a sulfonylurea, documented symptomatic hypoglycemia occurred in 49 (15.7%) of 312 Saxenda-treated patients and 12 (7.6%) of 157 placebo-treated patients.
+Among patients not taking a sulfonylurea, blood glucose less than 54 mg/dL with or without symptoms occurred in 22 (7.1%) of 312 Saxenda-treated patients and 7 (4.5%) of 157 placebo-treated patients.
+
+In a Saxenda clinical trial in patients with overweight (excess weight) or obesity with type 2 diabetes mellitus treated with basal insulin and Saxenda in combination with a reduced-calorie diet and increased physical activity and up to 2 oral anti-diabetes medications, severe hypoglycemia was reported by 3 (1.5%) of 195 Saxenda-treated patients and 2 (1.0%) of 197 placebo-treated patients.
+No meaningful difference in hypoglycemia, defined as blood glucose less than 54 mg/dL with or without symptoms, was reported between groups.
+
+Patients without Type 2 Diabetes
 
 In Saxenda clinical trials involving patients without type 2 diabetes mellitus, there was no systematic capturing or reporting of hypoglycemia, as patients were not provided with blood glucose meters or hypoglycemia diaries.
 Spontaneously reported symptomatic episodes of unconfirmed hypoglycemia were reported by 46 (1.6%) of 2962 Saxenda-treated patients and 19 (1.1%) of 1729 placebo-treated patients.
-Fasting plasma glucose values obtained at routine clinic visits less than or equal to 70 mg/dL, irrespective of hypoglycemic symptoms, were reported as “hypoglycemia” in 92 (3.1%) Saxenda-treated patients and 13 (0.8%) placebo-treated patients.
+Fasting plasma glucose values obtained at routine clinic visits less than 54 mg/dL, irrespective of hypoglycemic symptoms, were reported as “hypoglycemia” in 2 (0.1%) Saxenda-treated patients and 1 (0.1%) placebo-treated patients.
 
 Gastrointestinal Adverse Reactions
 
@@ -173,7 +181,7 @@ Among Saxenda-treated patients, 2.1% had a lipase value at anytime during treatm
 0.1% of Saxenda-treated patients had an amylase value at anytime in the trial of greater than or equal to 3 times the upper limit of normal versus 0.1% of placebo-treated patients.
 The clinical significance of elevations in lipase or amylase with Saxenda is unknown in the absence of other signs and symptoms of pancreatitis [see Warnings and Precautions (5.2)].
 
-## 6.2 Post-Marketing Experience
+## 6.2 Postmarketing Experience
 
 The following adverse reactions have been reported during post-approval use of liraglutide, the active ingredient of Saxenda.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.

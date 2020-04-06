@@ -19,7 +19,7 @@ The mean age was 55 years (range 18-82), 50% were women, 83% were Caucasian, 12%
 Mean baseline body weight was 105.9 kg and mean BMI was 37.1 kg/m2.
 
 Study 3 was a 56-week trial that enrolled 422 patients with obesity (BMI greater than or equal to 30 kg/m2) or with overweight (BMI 27-29.9 kg/m2) and at least one weight-related comorbid condition such as treated or untreated dyslipidemia or hypertension; patients with type 2 diabetes mellitus were excluded.
-All patients were first treated with a low-calorie diet (total energy intake 1200-1400 kcal/day) in a run-in period lasting up to 12 weeks.
+All patients were first treated with a diet (total energy intake 1200-1400 kcal/day) in a run-in period lasting up to 12 weeks.
 Patients who lost at least 5% of their screening body weight after 4 to 12 weeks during the run-in were then randomized, with equal allocation, to receive either Saxenda or placebo for 56 weeks.
 The mean age was 46 years (range 18-73), 81% were women, 84% were Caucasian, 13% were African American, and 7% were Hispanic/Latino.
 Mean baseline body weight was 99.6 kg and mean BMI was 35.6 kg/m2.

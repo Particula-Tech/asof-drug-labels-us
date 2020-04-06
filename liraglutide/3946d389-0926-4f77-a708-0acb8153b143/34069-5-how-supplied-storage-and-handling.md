@@ -5,7 +5,7 @@
 Saxenda is available in the following package sizes containing disposable, pre-filled, multi-dose pens.
 Each individual pen delivers doses of 0.6 mg, 1.2 mg, 1.8 mg, 2.4 mg or 3 mg (6 mg/mL, 3 mL).
 
-3 x Saxenda pen NDC 0169-2800-13 5 x Saxenda pen NDC 0169-2800-15
+5 x Saxenda pen NDC 0169-2800-15
 
 Each Saxenda pen is for use by a single patient.
 A Saxenda pen should never be shared between patients, even if the needle is changed.
@@ -16,8 +16,9 @@ Prior to first use, Saxenda should be stored in a refrigerator between 36ºF to 
 Do not store in the freezer or directly adjacent to the refrigerator cooling element.
 Do not freeze Saxenda and do not use Saxenda if it has been frozen.
 
-After initial use of the Saxenda pen, the pen can be stored for 30 days at controlled room temperature (59°F to 86°F; 15°C to 30°C) or in a refrigerator (36°F to 46°F; 2°C to 8°C).
+After first use of the Saxenda pen, the pen can be stored for 30 days at controlled room temperature (59°F to 86°F; 15°C to 30°C) or in a refrigerator (36°F to 46°F; 2°C to 8°C).
 Keep the pen cap on when not in use.
+Discard pen 30 days after first use.
 Saxenda should be protected from excessive heat and sunlight.
 Always remove and safely discard the needle after each injection and store the Saxenda pen without an injection needle attached.
 This will reduce the potential for contamination, infection, and leakage while also ensuring dosing accuracy.

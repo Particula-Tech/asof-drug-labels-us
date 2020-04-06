@@ -45,7 +45,7 @@ Inform patients of the potential risk for worsening renal function, which in som
 
 Hypersensitivity Reactions
 
-Inform patients that serious hypersensitivity reactions have been reported during post-marketing use of Saxenda.
+Inform patients that serious hypersensitivity reactions have been reported during postmarketing use of Saxenda.
 Advise patients on the symptoms of hypersensitivity reactions and instruct them to stop taking Saxenda and seek medical advice promptly if such symptoms occur [see Warnings and Precautions (5.7)].
 
 Suicidal Behavior and Ideation
@@ -55,7 +55,7 @@ Inform patients that if they experience suicidal thoughts or behaviors, they sho
 
 Jaundice and Hepatitis
 
-Inform patients that jaundice and hepatitis have been reported during post-marketing use of liraglutide.
+Inform patients that jaundice and hepatitis have been reported during postmarketing use of liraglutide.
 Instruct patients to contact their healthcare provider if they develop jaundice.
 
 Never Share a Saxenda Pen Between Patients
@@ -63,13 +63,13 @@ Never Share a Saxenda Pen Between Patients
 Inform patients that they should never share a Saxenda pen with another person, even if the needle is changed.
 Sharing of the pen between patients may pose a risk of transmission of infection.
 
-Version: 5
+Version: 6
 
 Saxenda® and Victoza® are registered trademarks of Novo Nordisk A/S.
 
 PATENT Information: http://novonordisk-us.com/patients/products/product-patents.html
 
-© 2014-2018 Novo Nordisk
+© 2014-2020 Novo Nordisk
 
 Manufactured by: Novo Nordisk A/S DK-2880 Bagsvaerd, Denmark
 
