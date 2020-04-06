@@ -2,7 +2,7 @@
 
 Valacyclovir hydrochloride is the hydrochloride salt of the L-valyl ester of the antiviral drug acyclovir.
 Valacyclovir tablets, USP are for oral administration.
-Each tablet contains valacyclovir hydrochloride USP (hydrous) equivalent to 500 mg or 1 gram valacyclovir and the inactive ingredients crospovidone, FD&C blue #2/indigo carmine aluminum lake, hypromellose, magnesium stearate, microcrystalline cellulose, polyethylene glycol, polysorbate 80, povidone, and titanium dioxide.
+Each tablet contains 556 mg or 1.112 grams of valacyclovir hydrochloride USP (hydrous) equivalent to 500 mg or 1 gram of valacyclovir, respectively, and the inactive ingredients crospovidone, FD&C blue #2/indigo carmine aluminum lake, hypromellose, magnesium stearate, microcrystalline cellulose, polyethylene glycol, polysorbate 80, povidone, and titanium dioxide.
 The chemical name of valacyclovir hydrochloride is L-valine, 2-[(2-amino-1,6-dihydro-6-oxo-9H-purin-9-yl)methoxy]ethyl ester, monohydrochloride.
 It has the following structural formula:
 
