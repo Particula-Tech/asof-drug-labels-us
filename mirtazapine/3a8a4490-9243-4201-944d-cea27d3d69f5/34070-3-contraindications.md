@@ -1,7 +1,7 @@
-# CONTRAINDICATIONS
+# 4 CONTRAINDICATIONS
 
-Hypersensitivity Mirtazapine Orally Disintegrating Tablets are contraindicated in patients with a known hypersensitivity to mirtazapine or to any of the excipients.
-Monoamine Oxidase Inhibitors The use of monoamine oxidase inhibitors (MAOIs) intended to treat psychiatric disorders with mirtazapine orally disintegrating tablets or within 14 days of stopping treatment with mirtazapine orally disintegrating tablets are contraindicated because of an increased risk of serotonin syndrome.
-The use of mirtazapine orally disintegrating tablets within 14 days of stopping an MAOI intended to treat psychiatric disorders is also contraindicated (see WARNINGS and DOSAGE AND ADMINISTRATION).
+Mirtazapine orally disintegrating tablets are contraindicated in patients:
 
-Starting mirtazapine orally disintegrating tablets in a patient who is being treated with MAOIs such as linezolid or intravenous methylene blue is also contraindicated because of an increased risk of serotonin syndrome (see WARNINGS and DOSAGE AND ADMINISTRATION).
+- Taking, or within 14 days of stopping, MAOIs (including the MAOIs linezolid and intravenous methylene blue) because of an increased risk of serotonin syndrome [see Warnings and Precautions (5.3), Drug Interactions (7)].
+- With a known hypersensitivity to mirtazapine or to any of the excipients in mirtazapine orally disintegrating tablets.
+  Severe skin reactions, including Stevens-Johnson syndrome, bullous dermatitis, erythema multiforme and toxic epidermal necrolysis have been reported following the use of mirtazapine orally disintegrating tablets [see Adverse Reactions 6.2].

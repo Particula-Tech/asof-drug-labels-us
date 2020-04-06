@@ -1,35 +1,48 @@
-# DOSAGE AND ADMINISTRATION
+# 2 DOSAGE AND ADMINISTRATION
 
-Initial Treatment The recommended starting dose for mirtazapine orally disintegrating tablets is 15 mg/day, administered in a single dose, preferably in the evening prior to sleep.
-In the controlled clinical trials establishing the efficacy of mirtazapine tablets in the treatment of major depressive disorder, the effective dose range was generally 15 to 45 mg/day.
-While the relationship between dose and satisfactory response in the treatment of major depressive disorder for mirtazapine has not been adequately explored, patients not responding to the initial 15 mg dose may benefit from dose increases up to a maximum of 45 mg/day.
-Mirtazapine has an elimination half-life of approximately 20 to 40 hours; therefore, dose changes should not be made at intervals of less than 1 to 2 weeks in order to allow sufficient time for evaluation of the therapeutic response to a given dose.
-Administration of Mirtazapine Orally Disintegrating Tablets Patients should be instructed to open tablet blister pack with dry hands and place the tablet on the tongue.
-The tablet should be used immediately after removal from its blister; once removed, it cannot be stored.
-Mirtazapine Orally Disintegrating Tablets will disintegrate rapidly on the tongue and can be swallowed with saliva.
-No water is needed for taking the tablet.
-Patients should not attempt to split the tablet.
-Elderly and Patients with Renal or Hepatic Impairment The clearance of mirtazapine is reduced in elderly patients and in patients with moderate to severe renal or hepatic impairment.
-Consequently, the prescriber should be aware that plasma mirtazapine levels may be increased in these patient groups, compared to levels observed in younger adults without renal or hepatic impairment (see PRECAUTIONS and CLINICAL PHARMACOLOGY).
-Maintenance/Extended Treatment It is generally agreed that acute episodes of depression require several months or longer of sustained pharmacological therapy beyond response to the acute episode.
-Systematic evaluation of mirtazapine tablets has demonstrated that its efficacy in major depressive disorder is maintained for periods of up to 40 weeks following 8 to 12 weeks of initial treatment at a dose of 15 to 45 mg/day (see CLINICAL PHARMACOLOGY).
-Based on these limited data, it is unknown whether or not the dose of mirtazapine needed for maintenance treatment is identical to the dose needed to achieve an initial response.
-Patients should be periodically reassessed to determine the need for maintenance treatment and the appropriate dose for such treatment.
-Switching a Patient To or From a Monoamine Oxidase Inhibitor (MAOI) Intended to Treat Psychiatric Disorders At least 14 days should elapse between discontinuation of an MAOI intended to treat psychiatric disorders and initiation of therapy with mirtazapine orally disintegrating tablets.
-Conversely, at least 14 days should be allowed after stopping mirtazapine orally disintegrating tablets before starting an MAOI intended to treat psychiatric disorders (see CONTRAINDICATIONS).
-Use of Mirtazapine Orally Disintegrating Tablets With Other MAOIs, Such as Linezolid or Methylene Blue Do not start mirtazapine orally disintegrating tablets in a patient who is being treated with linezolid or intravenous methylene blue because there is an increased risk of serotonin syndrome.
-In a patient who requires more urgent treatment of a psychiatric condition, other interventions, including hospitalization, should be considered (see CONTRAINDICATIONS).
-In some cases, a patient already receiving therapy with mirtazapine orally disintegrating tablets may require urgent treatment with linezolid or intravenous methylene blue.
-If acceptable alternatives to linezolid or intravenous methylene blue treatment are not available and the potential benefits of linezolid or intravenous methylene blue treatment are judged to outweigh the risks of serotonin syndrome in a particular patient, mirtazapine orally disintegrating tablets should be stopped promptly, and linezolid or intravenous methylene blue can be administered.
-The patient should be monitored for symptoms of serotonin syndrome for 2 weeks or until 24 hours after the last dose of linezolid or intravenous methylene blue, whichever comes first.
-Therapy with mirtazapine orally disintegrating tablets may be resumed 24 hours after the last dose of linezolid or intravenous methylene blue (see WARNINGS).
-The risk of administering methylene blue by non-intravenous routes (such as oral tablets or by local injection) or in intravenous doses much lower than 1 mg/kg with mirtazapine orally disintegrating tablets is unclear.
-The clinician should, nevertheless, be aware of the possibility of emergent symptoms of serotonin syndrome with such use (see WARNINGS).
-Discontinuation of Mirtazapine Orally Disintegrating Tablets Treatment Symptoms associated with the discontinuation or dose reduction of mirtazapine orally disintegrating tablets have been reported.
-Patients should be monitored for these and other symptoms when discontinuing treatment or during dosage reduction.
-A gradual reduction in the dose over several weeks, rather than abrupt cessation, is recommended whenever possible.
-If intolerable symptoms occur following a decrease in the dose or upon discontinuation of treatment, dose titration should be managed on the basis of the patient’s clinical response (see PRECAUTIONS and ADVERSE REACTIONS).
-Information for Patients Patients should be advised that taking mirtazapine orally disintegrating tablets can cause mild pupillary dilation, which in susceptible individuals, can lead to an episode of angle-closure glaucoma.
-Pre-existing glaucoma is almost always open-angle glaucoma because angle-closure glaucoma, when diagnosed, can be treated definitively with iridectomy.
-Open-angle glaucoma is not a risk factor for angle-closure glaucoma.
-Patients may wish to be examined to determine whether they are susceptible to angle-closure, and have a prophylactic procedure (e.g., iridectomy), if they are susceptible.
+## 2.1 Recommended Dosage
+
+The recommended starting dose of mirtazapine orally disintegrating tablets is 15 mg once daily, administered orally, preferably in the evening prior to sleep.
+If patients do not have an adequate response to the initial 15 mg dose, increase the dose up to a maximum of 45 mg per day.
+Dose changes should not be made in intervals of less than 1 to 2 weeks to allow sufficient time for evaluation of response to a given dose [see Clinical Pharmacology (12.3)].
+
+## 2.2 Administration of Mirtazapine Orally Disintegrating Tablets
+
+- The tablet should remain in the blister pack or container pack until the patient is ready to take it.
+- The patient or caregiver should use dry hands to open the blister or container.
+- As soon as the blister or container is opened, the tablet should be removed and placed on the patient’s tongue.
+- Use mirtazapine orally disintegrating tablets immediately after removal from its blister or container; once removed, it cannot be stored.
+- The whole tablet should be placed on the tongue and allowed to disintegrate without chewing or crushing.
+  Do not attempt to split the tablet.
+- The tablet will disintegrate in saliva so that it can be swallowed.
+
+## 2.3 Screen for Bipolar Disorder Prior to Starting Mirtazapine Orally Disintegrating Tablets
+
+Prior to initiating treatment with mirtazapine orally disintegrating tablets or another antidepressant, screen patients for a personal or family history of bipolar disorder, mania, or hypomania [see Warnings and Precautions (5.8)].
+
+## 2.4 Switching Patients to or from a Monoamine Oxidase Inhibitor Antidepressant
+
+At least 14 days must elapse between discontinuation of a monoamine oxidase inhibitor (MAOI) antidepressant and initiation of mirtazapine orally disintegrating tablets.
+In addition, at least 14 days must elapse after stopping mirtazapine orally disintegrating tablets before starting an MAOI antidepressant [see Contraindications (4) and Warnings and Precautions (5.3)].
+
+## 2.5 Dosage Modifications Due to Drug Interactions
+
+Strong CYP3A Inducers
+
+An increase in dosage of mirtazapine orally disintegrating tablets may be needed with concomitant strong CYP3A inducer (e.g., carbamazepine, phenytoin, rifampin) use.
+Conversely, a decrease in dosage of mirtazapine orally disintegrating tablets may be needed if the CYP3A inducer is discontinued [see Drug Interactions (7)].
+
+Strong CYP3A Inhibitors
+
+A decrease in dosage of mirtazapine orally disintegrating tablets may be needed with concomitant use of strong CYP3A4 inhibitors (e.g., ketoconazole, clarithromycin).
+Conversely, an increase in dosage of mirtazapine orally disintegrating tablets may be needed if the CYP3A4 inhibitor is discontinued [see Drug Interactions (7)].
+
+Cimetidine
+
+A decrease in dosage of mirtazapine orally disintegrating tablets may be needed with concomitant use of cimetidine.
+Conversely, an increase in dosage of mirtazapine orally disintegrating tablets may be needed if cimetidine is discontinued [see Drug Interactions (7)].
+
+## 2.6 Discontinuation of Mirtazapine Orally Disintegrating Tablets Treatment
+
+Adverse reactions may occur upon discontinuation or dose reduction of mirtazapine orally disintegrating tablets [see Warnings and Precautions (5.13)].
+Gradually reduce the dosage of mirtazapine orally disintegrating tablets rather than stopping abruptly whenever possible.
