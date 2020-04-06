@@ -10,7 +10,7 @@ Patients should be advised that:
 - ZYVOX may be taken with or without food.
 - They should inform their physician if they have a history of hypertension.
 - Large quantities of foods or beverages with high tyramine content should be avoided while taking ZYVOX.
-  Foods high in tyramine content include those that may have undergone protein changes by aging, fermentation, pickling, or smoking to improve flavor, such as aged cheeses,fermented or air-dried meats,sauerkraut, soy sauce, tap beers, and red wines.
+  Foods high in tyramine content include those that may have undergone protein changes by aging, fermentation, pickling, or smoking to improve flavor, such as aged cheeses, fermented or air-dried meats, sauerkraut, soy sauce, tap beers, and red wines.
   The tyramine content of any protein-rich food may be increased if stored for long periods or improperly refrigerated.
 - They should inform their physician if taking medications containing pseudoephedrine HCl or phenylpropanolamine HCl, such as cold remedies and decongestants.
 - They should inform their physician if taking serotonin re-uptake inhibitors or other antidepressants.
@@ -34,4 +34,4 @@ novaplus™
 
 Novaplus is a registered trademark of Vizient, Inc.
 
-LAB-0738-7.0
+LAB-0738-8.0
