@@ -9,9 +9,13 @@ Protect from light.
 
 Dispense in a tight, light-resistant container as described in the USP.
 
-Distributed by: Lannett Company, Inc. Philadelphia, PA 19154
+Distributed by:
 
-Rev.
-09/18
+Lannett Company, Inc.
+
+Philadelphia, PA 19136
 
 10-1100
+
+Rev.
+02/20
