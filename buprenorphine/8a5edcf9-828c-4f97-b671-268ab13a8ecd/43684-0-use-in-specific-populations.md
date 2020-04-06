@@ -124,7 +124,7 @@ In a study of six lactating women who were taking a median sublingual buprenorph
 Data from a study of seven lactating women who were taking a median sublingual buprenorphine dose of 7 mg/day an average of 1.12 months after delivery indicated that the mean milk concentrations (Cavg) of
 
 buprenorphine and norbuprenorphine were 3.65 mcg/L and 1.94 mcg/L respectively.
-Based on the study data, and assuming milk consumption of 150 mL/kg/day, an exclusively breastfed infant would receive an estimated mean absolute infant dose (AID) of 0.55 mcg/kg/day of buprenorphine and 0.29 mcg/kg/day of norbuprenorphine, or a mean relative infant dose (RID) of 0.38% and 0.18%, respectively, of the maternal weight-adjusted dose
+Based on the study data, and assuming milk consumption of 150 mL/kg/day, an exclusively breastfed infant would receive an estimated mean absolute infant dose (AID) of 0.55 mcg/kg/day of buprenorphine and 0.29 mcg/kg/day of norbuprenorphine, or a mean relative infant dose (RID) of 0.38% and 0.18%, respectively, of the maternal weight-adjusted dose.
 
 ## 8.3 Females and Males of Reproductive Potential
 
@@ -142,7 +142,7 @@ This product is not appropriate for the treatment of neonatal abstinence syndrom
 
 Clinical studies of SUBOXONE sublingual film, SUBOXONE sublingual tablets, or SUBUTEX sublingual tablets did not include sufficient numbers of subjects aged 65 and over to determine whether they responded differently than younger subjects.
 Other reported clinical experience has not identified differences in responses between the elderly and younger patients.
-Due to possible decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy in geriatric patients, the decision to prescribe SUBOXONE sublingual film should be made cautiously in individuals 65 years of age or older and these patients should be monitored for signs and symptoms of toxicity or overdose.
+Due to possible decreased hepatic, renal, or cardiac function and of concomitant disease or other drug therapy in geriatric patients, the decision to prescribe SUBOXONE sublingual film should be made cautiously in individuals 65 years of age or older and these patients should be monitored for signs and symptoms of toxicity or overdose.
 
 ## 8.6 Hepatic Impairment
 
@@ -150,7 +150,7 @@ The effect of hepatic impairment on the pharmacokinetics of buprenorphine and na
 Both drugs are extensively metabolized in the liver.
 While no clinically significant changes have been observed in subjects with mild hepatic impairment; the plasma levels have been shown to be higher and half-life values have been shown to be longer for both buprenorphine and naloxone in subjects with moderate and severe hepatic impairment.
 The magnitude of the effects on naloxone are greater than that on buprenorphine in both moderately and severely impaired subjects.
-The difference in magnitude of the effects on naloxone and buprenorphine are greater in subjects with severe hepatic impairment than in subjectswith moderate hepatic impairment, and therefore the clinical impact of these effects is likely to be greater in patients with severe hepatic impairment than in patients with moderate hepatic impairment.
+The difference in magnitude of the effects on naloxone and buprenorphine are greater in subjects with severe hepatic impairment than in subjects with moderate hepatic impairment, and therefore the clinical impact of these effects is likely to be greater in patients with severe hepatic impairment than in patients with moderate hepatic impairment.
 
 Buprenorphine/naloxone products should be avoided in patients with severe hepatic impairment and may not be appropriate for patients with moderate hepatic impairment [see Warnings and Precautions (5.12), Clinical Pharmacology (12.3)].
 

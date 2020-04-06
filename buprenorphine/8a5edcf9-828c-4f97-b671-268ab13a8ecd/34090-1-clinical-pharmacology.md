@@ -71,7 +71,7 @@ Changes in Pharmacokinetic Parameters for SUBOXONE Sublingual Film Administered 
 | Dosage | PK Parameter | Increase in Buprenorphine |  |  | PK Parameter | Increase in Naloxone |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Film Sublingual Compared to Tablet Sublingual | Film Buccal Compared to Tablet Sublingual | Film Buccal Compared to Film Sublingual | Film Sublingual Compared to Tablet Sublingual | Film Buccal Compared to Tablet Sublingual | Film Buccal Compared to Film Sublingual |  |  |  |
-| 1 x 23mg/0.5 mg | Cmax | 22% | 25% | - | Cmax | - | - | - |
+| 1 x 2 mg/0.5 mg | Cmax | 22% | 25% | - | Cmax | - | - | - |
 | AUC0-last | - | 19% | - | AUC0-last | - | - | - |  |
 | 2 x 2 mg/0.5 mg | Cmax | - | 21% | 21% | Cmax | - | 17% | 21% |
 | AUC0-last | - | 23% | 16% | AUC0-last | - | 22% | 24% |  |
@@ -119,8 +119,7 @@ Drug Interactions Studies
 CYP3A4 Inhibitors and Inducers
 
 Buprenorphine has been found to be a CYP2D6 and CYP3A4 inhibitor and its major metabolite, norbuprenorphine, has been found to be a moderate CYP2D6 inhibitor in in vitro studies employing human liver microsomes.
-However, the relatively low plasma concentrations of buprenorphine and norbuprenorphine resulting from therapeutic doses are not expected to raise significant drug-drug interaction concerns.
-[see Drug Interactions (7)].
+However, the relatively low plasma concentrations of buprenorphine and norbuprenorphine resulting from therapeutic doses are not expected to raise significant drug-drug interaction concerns [see Drug Interactions (7)].
 
 Specific Populations
 

@@ -19,7 +19,7 @@ Instruct patients to read the Medication Guide each time SUBOXONE sublingual fil
 - SUBOXONE sublingual film must be administered whole.
   Advise patients not to cut, chew, or swallow SUBOXONE sublingual film.
 - Inform patients and caregivers that potentially fatal additive effects may occur if SUBOXONE sublingual film is used with benzodiazepines or other CNS depressants, including alcohol.
-  Counsel patients that such medications should not be used concomitantly unless supervised bya health care provider [see Warnings and Precautions (5.2, 5.3), Drug Interactions (7)].
+  Counsel patients that such medications should not be used concomitantly unless supervised by a health care provider [see Warnings and Precautions (5.2, 5.3), Drug Interactions (7)].
 - Advise patients that SUBOXONE sublingual film contains an opioid that can be a target for people who abuse prescription medications or street drugs.
   Caution patients to keep their films in a safe place, and to protect them from theft.
 - Instruct patients to keep SUBOXONE sublingual film in a secure place, out of the sight and reach of children.

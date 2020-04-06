@@ -21,7 +21,7 @@ In patients who present with CSA, consider decreasing the opioid dosage using be
 
 ## 5.3 Managing Risks from Concomitant Use of Benzodiazepines or Other CNS Depressants
 
-Concomitant use of buprenorphine and benzodiazepines or other CNS depressants (increases the risk of adverse reactions including overdose and death.
+Concomitant use of buprenorphine and benzodiazepines or other CNS depressants increases the risk of adverse reactions including overdose and death.
 Medication‐assisted treatment of opioid use disorder, however, should not be categorically denied to patients taking these drugs.
 Prohibiting or creating barriers to treatment can pose an even greater risk of morbidity and mortality due to the opioid use disorder alone.
 
@@ -46,7 +46,7 @@ Toxicology screening should test for prescribed and illicit benzodiazepines [see
 ## 5.4 Unintentional Pediatric Exposure
 
 Buprenorphine can cause severe, possibly fatal, respiratory depression in children who are accidentally exposed to it.
-Store buprenorphine‐containing medications safely out of the sight and reach of children. and destroy any unused medication appropriately [see Patient Counseling Information (17)].
+Store buprenorphine‐containing medications safely out of the sight and reach of children and destroy any unused medication appropriately [see Patient Counseling Information (17)].
 
 ## 5.5 Neonatal Opioid Withdrawal Syndrome
 
@@ -109,7 +109,7 @@ SUBOXONE sublingual film is not appropriate as an analgesic.
 ## 5.12 Use in Patients With Impaired Hepatic Function
 
 Buprenorphine/naloxone products are not recommended in patients with severe hepatic impairment and may not be appropriate for patients with moderate hepatic impairment.
-The doses of buprenorphine and naloxone in this fixed‐dose combination product cannot be individually titrated., and hepatic impairment results in a reduced clearance of naloxone to a much greater extent than buprenorphine.
+The doses of buprenorphine and naloxone in this fixed‐dose combination product cannot be individually titrated, and hepatic impairment results in a reduced clearance of naloxone to a much greater extent than buprenorphine.
 Therefore, patients with severe hepatic impairment will be exposed to substantially higher levels of naloxone than patients with normal hepatic function.
 This may result in an increased risk of precipitated withdrawal at the beginning of treatment (induction) and may interfere with buprenorphine's efficacy throughout treatment.
 In patients with moderate hepatic impairment, the differential reduction of naloxone clearance compared to buprenorphine clearance is not as great as in subjects with severe hepatic impairment.
