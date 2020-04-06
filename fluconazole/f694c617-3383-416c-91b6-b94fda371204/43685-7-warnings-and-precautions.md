@@ -117,7 +117,7 @@ Half of the celecoxib dose may be necessary when combined with fluconazole.
 ### Cisapride
 
 There have been reports of cardiac events, including torsade de pointes, in patients to whom fluconazole and cisapride were coadministered.
-A controlled study found that concomitant fluconazole 200 mg once daily and cisapride 20 mg four times a day yielded a significant increase in cisapride plasma levels and prolongation of QTc interval.
+A controlled study found that concomitant treatment with fluconazole 200 mg once daily and cisapride 20 mg four times a day yielded a significant increase in cisapride plasma levels and prolongation of QTc interval.
 The combined use of fluconazole with cisapride is contraindicated.
 (See CONTRAINDICATIONS and CLINICAL PHARMACOLOGY: Drug Interaction Studies.)
 
@@ -162,6 +162,11 @@ HMG-CoA reductase inhibitors should be discontinued if a marked increase in crea
 
 In a pharmacokinetic interaction study, coadministration of multiple-dose hydrochlorothiazide to healthy volunteers receiving fluconazole increased plasma concentrations of fluconazole by 40%.
 An effect of this magnitude should not necessitate a change in the fluconazole dose regimen in subjects receiving concomitant diuretics.
+
+### Ibrutinib
+
+Moderate inhibitors of CYP3A4 such as fluconazole increase plasma ibrutinib concentrations and may increase risk of toxicity.
+If the combination cannot be avoided, reduce the dose of ibrutinib as instructed in ibrutinib prescribing information and provide close clinical monitoring.
 
 ### Losartan
 
@@ -284,6 +289,11 @@ Systemic exposure to tofacitinib is increased when tofacitinib is coadministered
 Reduce the dose of tofacitinib when given concomitantly with fluconazole (i.e., from 5 mg twice daily to 5 mg once daily as instructed in the XELJANZ® [tofacitinib] label).
 (See CLINICAL PHARMACOLOGY: Drug Interaction Studies.)
 
+### Tolvaptan
+
+Exposure to tolvaptan is significantly increased (200% in AUC; 80% in Cmax) when tolvaptan, a CYP3A4 substrate, is coadministered with fluconazole, a moderate CYP3A4 inhibitor, with risk of significant increase in adverse effects particularly significant diuresis, dehydration and acute renal failure.
+In case of concomitant use, the tolvaptan dose should be reduced and the patient managed cautiously.
+
 ### Triazolam
 
 Fluconazole increases the AUC of triazolam (single dose) by approximately 50%, Cmax by 20% to 32%, and increases t½ by 25% to 50 % due to the inhibition of metabolism of triazolam.
@@ -376,7 +386,7 @@ An open-label, randomized, controlled trial has shown DIFLUCAN to be effective i
 (See CLINICAL STUDIES.)
 
 The use of DIFLUCAN in children with cryptococcal meningitis, Candida esophagitis, or systemic Candida infections is supported by the efficacy shown for these indications in adults and by the results from several small noncomparative pediatric clinical studies.
-In addition, pharmacokinetic studies in children (see CLINICAL PHARMACOLOGY) have established a dose proportionality between children and adults.
+In addition, pharmacokinetic studies in children (See CLINICAL PHARMACOLOGY) have established a dose proportionality between children and adults.
 (See DOSAGE AND ADMINISTRATION.)
 
 In a noncomparative study of children with serious systemic fungal infections, most of which were candidemia, the effectiveness of DIFLUCAN was similar to that reported for the treatment of candidemia in adults.

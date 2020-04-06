@@ -63,7 +63,7 @@ Musculoskeletal System: myalgia.
 
 Nervous System: Insomnia, paresthesia, somnolence, tremor, vertigo.
 
-Skin and Appendages: Acute generalized exanthematous pustulosis, drug eruption including fixed drug eruption, increased sweating, exfoliative skin disorders including Stevens-Johnson syndrome and toxic epidermal necrolysis, drug reaction with eosinophilia and systemic symptoms (DRESS) (see WARNINGS), alopecia.
+Skin and Appendages: Acute generalized exanthematous pustulosis, drug eruption including fixed drug eruption, increased sweating, exfoliative skin disorders including Stevens-Johnson syndrome and toxic epidermal necrolysis, drug reaction with eosinophilia and systemic symptoms (DRESS) (See WARNINGS), alopecia.
 
 ## Adverse Reactions in Children
 

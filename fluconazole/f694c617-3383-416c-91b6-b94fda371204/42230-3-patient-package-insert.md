@@ -62,11 +62,13 @@ Therefore, tell your doctor about all the medicines you take including:
 - olaparib, cyclophosphamide or vinca alkaloids such as vincristine or vinblastine for treatment of cancer
 - fentanyl, afentanil or methadone for chronic pain
 - halofantrine for malaria
+- ibrutinib used for treating blood cancer
 - lipid lowering drugs such as atorvastatin, simvastatin, and fluvastatin
 - non-steroidal anti-inflammatory drugs including celecoxib, ibuprofen, and naproxen
 - prednisone, a steroid used to treat skin, gastrointestinal, hematological or respiratory disorders
 - antiviral medications used to treat HIV like saquinavir or zidovudine
 - tofacitinib for rheumatoid arthritis
+- tolvaptan used to treat hyponatremia (low levels of sodium in your blood) or to slow kidney function decline
 - vitamin A nutritional supplement
 
 Since there are many brand names for these medicines, check with your doctor or pharmacist if you have any questions.
@@ -158,4 +160,4 @@ You can ask your pharmacist or doctor for information about DIFLUCAN that is wri
 
 You can also visit the DIFLUCAN Internet site at www.diflucan.com.
 
-LAB-0380-9.0 Revised 02/2019
+LAB-0380-10.0 Revised 03/2020
