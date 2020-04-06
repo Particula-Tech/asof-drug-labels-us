@@ -2,7 +2,7 @@
 
 ## 14.1 Prevention of Nausea and Vomiting Associated with HEC in Adults
 
-Fosaprepitant for Injection 115 mg (3-Day Dosing Regimen of Fosaprepitant For Injection)
+Fosaprepitant for Injection 115 mg (3-Day Dosing Regimen of Fosaprepitant for Injection)
 
 Fosaprepitant 115 mg intravenous infused over 15 minutes can be substituted for 125 mg oral aprepitant on Day 1 of a 3-day regimen.
 Efficacy studies with the 3-day regimen were conducted with oral aprepitant.
@@ -84,7 +84,6 @@ Percent of Patients Receiving Highly Emetogenic Chemotherapy Responding by Treat
 7. **Not statistically significant.
 8. 
 9. Visual analogue scale (VAS) score range: 0 mm = no nausea; 100 mm = nausea as bad as it could be.
-10. 
 
 Table 13
 
@@ -128,8 +127,6 @@ A statistically significant difference in complete response in favor of the apre
 
 In both studies, the estimated time to first emesis after initiation of cisplatin treatment was longer with the aprepitant regimen, and the incidence of first emesis was reduced in the aprepitant regimen group compared with standard therapy group as depicted in the Kaplan-Meier curves in Figure 2.
 
-Figure 2: Percent of Patients Receiving Highly Emetogenic Chemotherapy Who Remain Emesis Free Over Time — Cycle 1
-
 p-Value <0.001 based on a log rank test for Study 1 and Study 2; nominal p-values not adjusted for multiplicity.
 
 Additional Patient-Reported Outcomes: The impact of nausea and vomiting on patients’ daily lives was assessed in Cycle 1 of both phase 3 studies using the Functional Living Index–Emesis (FLIE), a validated nausea- and vomiting-specific patient-reported outcome measure.
@@ -138,8 +135,6 @@ In each of the 2 studies, a higher proportion of patients receiving the aprepita
 
 Multiple-Cycle Extension: In the same 2 clinical studies, patients continued into the Multiple-Cycle extension for up to 5 additional cycles of chemotherapy.
 The proportion of patients with no emesis and no significant nausea by treatment group at each cycle is depicted in Figure 3.
-
-Figure 3: Proportion of Patients Receiving Highly Emetogenic Chemotherapy with No Emesis and No Significant Nausea by Treatment Group and Cycle
 
 Fosaprepitant for Injection 150 mg
 
@@ -185,7 +180,7 @@ The pre-specified non-inferiority margin for no vomiting in the overall phase wa
 
 Table 15
 
-Percent of Adult Patients Receiving Highly Emetogenic Chemotherapy Responding by Treatment Group and Phase — Cycle 1
+Percent of Adult Patients Receiving HEC Responding by Treatment Group and Phase — Cycle 1
 
 | ENDPOINTS | Fosaprepitant for Injection Regimen (N = 1,106)*% | Oral Aprepitant Regimen (N = 1,134)*% | Difference†(95% CI) |
 | --- | --- | --- | --- |
@@ -244,7 +239,7 @@ The results by treatment group are shown in Table 17
 
 Table 17
 
-Percent of Adult Patients Receiving Moderately Emetogenic Chemotherapy Responding by Treatment Group
+Percent of Adult Patients Receiving MEC Responding by Treatment Group
 
 | ENDPOINTS | Fosaprepitant for Injection Regimen (N = 502)*% | Standard Therapy Regimen (N = 498)* % | P-Value | Treatment Difference (95% CI) |
 | --- | --- | --- | --- | --- |

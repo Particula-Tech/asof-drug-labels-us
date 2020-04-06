@@ -7,11 +7,11 @@ Administer fosaprepitant for injection as an intravenous infusion on Day 1 over 
 
 Table 1
 
-Recommended Adult Dosing for the Prevention of Nausea and Vomiting Associated with Highly Emetogenic Cancer Chemotherapy (HEC)
+Recommended Adult Dosing for the Prevention of Nausea and Vomiting Associated with HEC
 
 |  | Day 1 | Day 2 | Day 3 | Day 4 |
 | --- | --- | --- | --- | --- |
-| Fosaprepitant for injection | 150 mg intravenously over 20 to 30 minutes approximately 30 minutes prior to chemotherapy | none | none | none |
+| Fosaprepitant for injection | 150 mg intravenously over 20 to 30 minutes | none | none | none |
 | Dexamethasone* | 12 mg orally | 8 mg orally | 8 mg orally twice daily | 8 mg orally twice daily |
 | 5-HT3 antagonist | See selected 5-HT3 antagonist prescribing information for the recommended dosage | none | none | none |
 
@@ -25,7 +25,7 @@ Recommended Adult Dosing for the Prevention of Nausea and Vomiting Associated wi
 
 |  | Day 1 |
 | --- | --- |
-| Fosaprepitant for injection | 150 mg intravenously over 20 to 30 minutes approximately 30 minutes prior to chemotherapy |
+| Fosaprepitant for injection | 150 mg intravenously over 20 to 30 minutes |
 | Dexamethasone* | 12 mg orally |
 | 5-HT3 antagonist | See selected 5-HT3 antagonist prescribing information for the recommended dosage |
 
@@ -57,7 +57,7 @@ The dose of dexamethasone accounts for drug interactions.
 
 Prevention of Nausea and Vomiting Associated with Moderately Emetogenic Chemotherapy (MEC)
 
-Fosaprepitant for Injection 115 mg (3-Day Dosing Regimen of Fosaprepitant):
+Fosaprepitant for Injection 115 mg (3-Day Dosing Regimen of Fosaprepitant for Injection):
 
 Fosaprepitant for injection 115 mg is administered on Day 1 only as an infusion over 15 minutesinitiated 30 minutes prior to chemotherapy.
 Capsules of aprepitant 80 mg should be administered on Days 2 and 3.

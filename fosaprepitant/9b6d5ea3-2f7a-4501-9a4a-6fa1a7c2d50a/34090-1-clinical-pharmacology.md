@@ -20,15 +20,13 @@ In a randomized, double-blind, positive-controlled, thorough QTc study, a single
 
 Aprepitant after Fosaprepitant Administration
 
-Following a single intravenous 115 mg dose of fosaprepitant administered as a 15-minute infusion to healthy volunteers the mean AUC0-∞ of aprepitant was 31.7 (± 14.3) mcg•hr/mL and the mean maximal aprepitant concentration (Cmax) was 3.27 (± 1.16) mcg/mL.
+Following a single intravenous 115 mg dose of fosaprepitant administered as a 15-minute infusion to healthy volunteers the mean AUC0-∞ of aprepitant was 31.7 (±14.3) mcg•hr/mL and the mean maximal aprepitant concentration (Cmax) was 3.27 (±1.16) mcg/mL.
 The mean aprepitant plasma concentration at 24 hours postdose was similar between the 125 mg oral aprepitant dose and the 115 mg intravenous fosaprepitant dose.
 (See Figure 1.)
 
-Figure 1: Mean Plasma Concentration of Aprepitant Following 125 mg Oral Aprepitant and 115 mg Intravenous Fosaprepitant
-
 Aprepitant after Fosaprepitant Administration
 
-Following administration of a single intravenous 150 mg dose of fosaprepitant, a prodrug of aprepitant administered as a 20-minute infusion to healthy subjects, the mean AUC0-∞ of aprepitant was 37.4 (± 14.8) mcg•hr/mL and the mean maximal aprepitant concentration (Cmax) was 4.2 (± 1.2) mcg/mL.
+Following administration of a single intravenous 150 mg dose of fosaprepitant, a prodrug of aprepitant administered as a 20-minute infusion to healthy subjects, the mean AUC0-∞ of aprepitant was 37.4 (±14.8) mcg•hr/mL and the mean maximal aprepitant concentration (Cmax) was 4.2 (±1.2) mcg/mL.
 Plasma concentrations of fosaprepitant are below the limits of quantification (10 ng/mL) within 30 minutes of the completion of infusion.
 
 Distribution

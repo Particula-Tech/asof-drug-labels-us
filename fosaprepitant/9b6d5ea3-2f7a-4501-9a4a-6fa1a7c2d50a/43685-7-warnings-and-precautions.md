@@ -22,10 +22,10 @@ Do not reinitiate fosaprepitant for injection in patients who experience these s
 
 ## 5.3 Infusion Site Reactions
 
-Infusion site reactions (ISRs) have been reported with the use of fosaprepitant for injection [see Adverse Reactions (6.1)].
+Infusion site reactions (ISRs) have been reported with the use of fosaprepitantfor injection [see Adverse Reactions (6.1)].
 The majority of severe ISRs, including thrombophlebitis and vasculitis, were reported with concomitant vesicant (anthracycline-based) chemotherapy administration, particularly when associated with extravasation.
 Necrosis was also reported in some patients with concomitant vesicant chemotherapy.
-Most ISRs occurred with the first, second or third exposure to single doses of fosaprepitant for injection and in some cases, reactions persisted for two weeks or longer.
+Most ISRs occurred with the first, second or third exposure to single doses of fosaprepitantfor injection and in some cases, reactions persisted for two weeks or longer.
 Treatment of severe ISRs consisted of medical, and in some cases surgical, intervention.
 
 Avoid infusion of fosaprepitant for injection into small veins or through a butterfly catheter.
