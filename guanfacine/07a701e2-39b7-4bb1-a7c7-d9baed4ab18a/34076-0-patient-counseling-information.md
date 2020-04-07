@@ -27,6 +27,8 @@ Advise patients to avoid use with alcohol.
 
 Guanfacine Extended-Release Tablets
 
+(gwahn-fa-seen)
+
 Read the Patient Information that comes with guanfacine extended-release tablets before you start taking it and each time you get a refill.
 There may be new information.
 This leaflet does not take the place of talking with your doctor about your medical condition or your treatment.
@@ -183,6 +185,6 @@ TWi Pharmaceuticals, Inc.
 
 Taoyuan City, 32063, Taiwan
 
-Revised: 05/19
+Revised: 10/19
 
 OS24979533
