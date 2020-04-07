@@ -2,7 +2,7 @@
 
 ## 12.1 Mechanism of Action
 
-The precise mechanisms by which topiramate exerts its anticonvulsant and migraine prophylaxis effects are unknown; however, preclinical studies have revealed four properties that may contribute to topiramate's efficacy for epilepsy and migraine prophylaxis.
+The precise mechanisms by which topiramate exerts its anticonvulsant and preventive migraine effects are unknown; however, preclinical studies have revealed four properties that may contribute to topiramate's efficacy for epilepsy and the preventive treatment of migraine.
 Electrophysiological and biochemical evidence suggests that topiramate, at pharmacologically relevant concentrations, blocks voltage-dependent sodium channels, augments the activity of the neurotransmitter gamma-aminobutyrate at some subtypes of the GABA-A receptor, antagonizes the AMPA/kainate subtype of the glutamate receptor, and inhibits the carbonic anhydrase enzyme, particularly isozymes II and IV.
 
 ## 12.2 Pharmacodynamics
@@ -11,7 +11,7 @@ Topiramate has anticonvulsant activity in rat and mouse maximal electroshock sei
 Topiramate is only weakly effective in blocking clonic seizures induced by the GABA-A receptor antagonist, pentylenetetrazole.
 Topiramate is also effective in rodent models of epilepsy, which include tonic and absence-like seizures in the spontaneous epileptic rat (SER) and tonic and clonic seizures induced in rats by kindling of the amygdala or by global ischemia.
 
-Changes (increases and decreases) from baseline in vital signs (systolic blood pressure-SBP, diastolic blood pressure-DBP, pulse) occurred more frequently in pediatric patients (6 to 17 years) treated with various daily doses of topiramate (50 mg, 100 mg, 200 mg, 2 to 3 mg/kg) than in patients treated with placebo in controlled trials for migraine prophylaxis.
+Changes (increases and decreases) from baseline in vital signs (systolic blood pressure-SBP, diastolic blood pressure-DBP, pulse) occurred more frequently in pediatric patients (6 to 17 years) treated with various daily doses of topiramate (50 mg, 100 mg, 200 mg, 2 to 3 mg/kg) than in patients treated with placebo in controlled trials for the preventive treatment of migraine.
 The most notable changes were SBP < 90 mm Hg, DBP < 50 mm Hg, SBP or DBP increases or decreases ≥ 20 mm Hg, and pulse increases or decreases ≥ 30 beats per minute.
 These changes were often dose-related and were most frequently associated with the greatest treatment difference at the 200 mg dose level.
 Systematic collection of orthostatic vital signs has not been conducted.
@@ -58,13 +58,13 @@ Specific Populations
 
 Renal Impairment
 
-The clearance of topiramate was reduced by 42% in subjects with moderate renal impairment (creatinine clearance 30 to 69 mL/min/1.73 m2) and by 54% in subjects with severe renal impairment (creatinine clearance less than 30 mL/min/1.73 m2) compared to subjects with normal renal function (creatinine clearance greater than 70 mL/min/1.73 m2) [see Dosage and Administration (2.4, 2.5)].
+The clearance of topiramate was reduced by 42% in subjects with moderate renal impairment (creatinine clearance 30 to 69 mL/min/1.73 m2) and by 54% in subjects with severe renal impairment (creatinine clearance less than 30 mL/min/1.73 m2) compared to subjects with normal renal function (creatinine clearance greater than 70 mL/min/1.73 m2) [see Dosage and Administration (2.5) and Use in Specific Populations (8.7)].
 
 Hemodialysis
 
 Topiramate is cleared by hemodialysis.
 Using a high-efficiency, counter flow, single pass-dialysate hemodialysis procedure, topiramate dialysis clearance was 120 mL/min with blood flow through the dialyzer at 400 mL/min.
-This high clearance (compared to 20 mL/min to 30 mL/min total oral clearance in healthy adults) will remove a clinically significant amount of topiramate from the patient over the hemodialysis treatment period [see Dosage and Administration (2.5) and Use in Specific Populations (8.7)].
+This high clearance (compared to 20 mL/min to 30 mL/min total oral clearance in healthy adults) will remove a clinically significant amount of topiramate from the patient over the hemodialysis treatment period [see Dosage and Administration (2.5), Use in Specific Populations (8.7)].
 
 Hepatic Impairment
 

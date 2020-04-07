@@ -32,7 +32,7 @@ Women who are planning a pregnancy should be counseled regarding the relative ri
 
 Labor or Delivery
 
-Although the effect of topiramate on labor and delivery in humans has not been established, the development of topiramate-induced metabolic acidosis in the mother and/or in the fetus might affect the fetus' ability to tolerate labor [see Warnings and Precautions (5.4].
+Although the effect of topiramate on labor and delivery in humans has not been established, the development of topiramate-induced metabolic acidosis in the mother and/or in the fetus might affect the fetus' ability to tolerate labor.
 
 Topiramate extended-release treatment can cause metabolic acidosis [see Warnings and Precautions (5.4)].
 The effect of topiramate-induced metabolic acidosis has not been studied in pregnancy; however, metabolic acidosis in pregnancy (due to other causes) can cause decreased fetal growth, decreased fetal oxygenation, and fetal death, and may affect the fetus' ability to tolerate labor.
@@ -103,7 +103,7 @@ Women of childbearing potential who are not planning a pregnancy should use effe
 
 Seizures in Pediatric Patients 2 Years of Age and Older
 
-The safety and effectiveness of topiramate extended-release in pediatric patients is based on controlled trials with immediate-release topiramate [see Clinical Studies (14.2, 14.3, 14.4 and 14.5)].
+The safety and effectiveness of topiramate extended-release in pediatric patients is based on controlled trials with immediate-release topiramate [see Clinical Studies (14.2, 14.3, 14.4, and 14.5)].
 
 The adverse reactions (both common and serious) in pediatric patients are similar to those seen in adults [see Warnings and Precautions (5) and Adverse Reactions (6)].
 
@@ -117,7 +117,7 @@ Adjunctive Treatment for Partial-Onset Epilepsy in Pediatric Patients 1 to 24 mo
 
 The following pediatric use information is based on studies conducted with immediate-release topiramate.
 
-Safety and effectiveness in patients below the age of 2 years have not been established for the adjunctive therapy treatment of partial onset seizures, primary generalized tonic-clonic seizures, or seizures associated with Lennox-Gastaut syndrome.
+Safety and effectiveness in patients below the age of 2 years have not been established for the adjunctive therapy treatment of partial-onset seizures, primary generalized tonic-clonic seizures, or seizures associated with Lennox-Gastaut syndrome.
 In a single randomized, double-blind, placebo-controlled investigational trial, the efficacy, safety, and tolerability of immediate-release topiramate oral liquid and sprinkle formulations as an adjunct to concurrent antiepileptic drug therapy in pediatric patients 1 to 24 months of age with refractory partial-onset seizures were assessed.
 After 20 days of double-blind treatment, immediate-release topiramate (at fixed doses of 5, 15, and 25 mg/kg/day) did not demonstrate efficacy compared with placebo in controlling seizures.
 
@@ -152,14 +152,14 @@ Monotherapy Treatment in Partial-Onset Epilepsy in Patients <2 Years Old
 
 Safety and effectiveness in patients below the age of 2 years have not been established for the monotherapy treatment of epilepsy.
 
-Migraine Prophylaxis in Pediatric Patients 12 to 17 Years of Age
+Preventive Treatment of Migraine in Pediatric Patients 12 to 17 Years of Age
 
-Safety and effectiveness of topiramate in the prophylaxis of migraine was studied in 5 double-blind, randomized, placebo-controlled, parallel-group trials in a total of 219 pediatric patients, at doses of 50 to 200 mg/day, or 2 to 3 mg/kg/day.
-These comprised a fixed dose study in 103 pediatric patients 12 to 17 years of age [see Clinical Studies (14.5)], a flexible dose (2 to 3 mg/kg/day), placebo-controlled study in 157 pediatric patients 6 to 16 years of age (including 67 pediatric patients 12 to 16 years of age), and a total of 49 pediatric patients 12 to 17 years of age in 3 studies of migraine prophylaxis primarily in adults.
+Safety and effectiveness of topiramate for the preventive treatment of migraine was studied in 5 double-blind, randomized, placebo-controlled, parallel-group trials in a total of 219 pediatric patients, at doses of 50 to 200 mg/day, or 2 to 3 mg/kg/day.
+These comprised a fixed dose study in 103 pediatric patients 12 to 17 years of age [see Clinical Studies (14.5)], a flexible dose (2 to 3 mg/kg/day), placebo-controlled study in 157 pediatric patients 6 to 16 years of age (including 67 pediatric patients 12 to 16 years of age), and a total of 49 pediatric patients 12 to 17 years of age in 3 studies for the preventive treatment of migraine primarily in adults.
 Open-label extension phases of 3 studies enabled evaluation of long-term safety for up to 6 months after the end of the double-blind phase.
 
-Efficacy of topiramate for migraine prophylaxis in pediatric patients 12 to 17 years of age is demonstrated for a 100 mg daily dose in Study 3 [see Clinical Studies (14.5)].
-Efficacy of topiramate (2 to 3 mg/kg/day) for migraine prophylaxis was not demonstrated in a placebo-controlled trial of 157 pediatric patients (6 to 16 years of age) that included treatment of 67 pediatric patients 12 to 16 years of age for 20 weeks.
+Efficacy of topiramate for the preventive treatment of migraine in pediatric patients 12 to 17 years of age is demonstrated for a 100 mg daily dose in Study 3 [see Clinical Studies (14.5)].
+Efficacy of topiramate (2 to 3 mg/kg/day) for the preventive treatment of migraine was not demonstrated in a placebo-controlled trial of 157 pediatric patients (6 to 16 years of age) that included treatment of 67 pediatric patients 12 to 16 years of age for 20 weeks.
 
 In the pediatric trials (12 to 17 years of age) in which patients were randomized to placebo or a fixed daily dose of immediate-release topiramate, the most common adverse reactions with immediate-release topiramate that were seen at an incidence higher (≥ 5%) than in the placebo group were: paresthesia, upper respiratory tract infection, anorexia, and abdominal pain [see Adverse Reactions (6.1)].
 
@@ -172,9 +172,9 @@ Abnormally decreased results were observed with topiramate vs placebo treatment 
 
 Notable changes (increases and decreases) from baseline in systolic blood pressure, diastolic blood pressure, and pulse that were observed occurred more commonly in pediatric patients treated with topiramate compared to pediatric patients treated with placebo [see Clinical Pharmacology (12.2)].
 
-Migraine Prophylaxis in Pediatric Patients 6 to 11 Years of Age
+Preventive Treatment of Migraine in Pediatric Patients 6 to 11 Years of Age
 
-Safety and effectiveness in pediatric patients below the age of 12 years have not been established for the prophylaxis treatment of migraine headache.
+Safety and effectiveness in pediatric patients below the age of 12 years have not been established for the preventive treatment of migraine.
 
 In a double-blind study in 90 pediatric patients 6 to 11 years of age (including 59 topiramate-treated and 31 placebo patients), the adverse reaction profile was generally similar to that seen in pooled double-blind studies of pediatric patients 12 to 17 years of age.
 The most common adverse reactions that occurred in immediate-release topiramate-treated pediatric patients 6 to 11 years of age, and at least twice as frequently than placebo, were gastroenteritis (12% topiramate, 6% placebo), sinusitis (10% topiramate, 3% placebo), weight loss (8% topiramate, 3% placebo) and paresthesia (7% topiramate, 0% placebo).
@@ -184,13 +184,13 @@ The risk for cognitive adverse reaction was greater in younger patients (6 to 11
 
 Juvenile Animal Studies
 
-When topiramate (30 mg/kg/day, 90 mg/kg/day or 300 mg/kg/day) was administered orally to rats during the juvenile period of development (postnatal days 12 to 50), bone growth plate thickness was reduced in males at the highest dose, which is approximately 5 to 8 times the maximum recommended pediatric dose (9 mg/kg/day) on a body surface area (mg/m2) basis.
+When topiramate (0, 30, 90 or 300 mg/kg/day) was administered orally to rats during the juvenile period of development (postnatal days 12 to 50), bone growth plate thickness was reduced in males at the highest dose, which is approximately 5 to 8 times the maximum recommended pediatric dose (9 mg/kg/day) on a body surface area (mg/m2) basis.
 
 ## 8.5 Geriatric Use
 
 Clinical studies of immediate-release topiramate did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently than younger subjects.
 Dosage adjustment may be necessary for elderly with creatinine clearance less than 70 mL/min/1.73 m2.
-Estimate GFR should be measured prior to dosing [see Dosage and Administration (2.3), in Clinical Pharmacology (12.3)].
+Estimate GFR should be measured prior to dosing [see Dosage and Administration (2.3) and Clinical Pharmacology (12.3)].
 
 ## 8.6 Renal Impairment
 

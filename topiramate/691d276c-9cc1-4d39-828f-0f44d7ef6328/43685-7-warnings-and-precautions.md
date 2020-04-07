@@ -39,14 +39,14 @@ Bicarbonate decrements are usually mild to moderate (average decrease of 4 mEq/L
 Conditions or therapies that predispose patients to acidosis (such as renal disease, severe respiratory disorders, status epilepticus, diarrhea, ketogenic diet or specific drugs) may be additive to the bicarbonate lowering effects of topiramate extended-release capsules.
 
 Metabolic acidosis was commonly observed in adult and pediatric patients treated with immediate-release topiramate in clinical trials.
-The incidence of decreased serum bicarbonate in pediatric trials, for adjunctive treatment of Lennox-Gastaut syndrome or refractory partial onset seizures was as high as 67% for immediate-release topiramate (at approximately 6 mg/kg/day), and 10% for placebo.
+The incidence of decreased serum bicarbonate in pediatric trials, for adjunctive treatment of Lennox-Gastaut syndrome or refractory partial-onset seizures was as high as 67% for immediate-release topiramate (at approximately 6 mg/kg/day), and 10% for placebo.
 The incidence of a markedly abnormally low serum bicarbonate (i.e., absolute value < 17 mEq/L and >5 mEq/L decrease from pretreatment) in these trials was up to 11%, compared to ≤ 2% for placebo.
 
 Manifestations of acute or chronic metabolic acidosis may include hyperventilation, nonspecific symptoms such as fatigue and anorexia, or more severe sequelae including cardiac arrhythmias or stupor.
-Chronic, untreated metabolic acidosis may increase the risk for nephrolithiasis or nephrocalcinosis and may also result in osteomalacia (referred to as rickets in pediatric patients) and/or osteoporosis with an increased risk for fractures.
+Chronic, untreated metabolic acidosis may increase the risk for nephrolithiasis or nephrocalcinosis and may also result in osteomalacia (referred to as rickets in pediatric patients) and/or osteoporosis with an increased risk for fractures [see Warnings and Precautions (5.10)].
 Chronic metabolic acidosis in pediatric patients may also reduce growth rates, which may decrease the maximal height achieved.
 The effect of topiramate on growth and bone-related sequelae has not been systematically investigated in long-term, placebo-controlled trials.
-Long-term, open-label treatment of pediatric patients 1 to 24 months old, with intractable partial epilepsy, for up to 1 year, showed reductions from baseline in length, weight, and head circumference compared to age and sex-matched normative data, although these patients with epilepsy are likely to have different growth rates than normal 1 to 24 month old patients.
+Long-term, open-label treatment of pediatric patients 1 to 24 months old, with intractable partial epilepsy, for up to 1 year, showed reductions from baseline in length, weight, and head circumference compared to age and sex-matched normative data, although these patients with epilepsy are likely to have different growth rates than normal 1 to 24-month old patients.
 Reductions in length and weight were correlated to the degree of acidosis [see Use in Specific Populations (8.4)].
 Topiramate extended-release treatment that causes metabolic acidosis during pregnancy can possibly produce adverse effects on the fetus and might also cause metabolic acidosis in the neonate from possible transfer of topiramate to the fetus [see Warnings and Precautions (5.7), Use in Specific Populations (8.1)].
 
@@ -91,8 +91,8 @@ Should suicidal thoughts and behavior emerge during treatment, the prescriber ne
 
 ## 5.6 Cognitive/Neuropsychiatric Adverse Reactions
 
-Immediate-release topiramate can cause, and therefore expected to be caused by topiramate extended-release, cognitive/neuropsychiatric adverse reactions.
-The most frequent of these can be classified into three general categories: 1) Cognitive-related dysfunction (e.g., confusion, psychomotor slowing, difficulty with concentration/attention, difficulty with memory, speech or language problems, particularly word-finding difficulties); 2) Psychiatric/behavioral disturbances (e.g., depression or mood problems); and 3) Somnolence or fatigue.
+Immediate-release topiramate can cause cognitive/neuropsychiatric adverse reactions and therefore these are expected to be caused by topiramate extended-release.
+The most frequent of these can be classified into three general categories: 1) Cognitive-related dysfunction (e.g., confusion, psychomoor slowing, difficulty with concentration/attention, difficulty with memory, speech or language problems, particularly word-finding difficulties); 2) Psychiatric/behavioral disturbances (e.g., depression or mood problems); and 3) Somnolence or fatigue.
 
 Adult Patients
 
@@ -100,12 +100,12 @@ Cognitive Related Dysfunction
 
 Rapid titration rate and higher initial dose were associated with higher incidences of cognitive-related dysfunction.
 
-In adult epilepsy add-on controlled trials, which used rapid titration (100 to 200 mg/day weekly increments) and target immediate-release topiramate doses of 200 mg to 1000 mg/day, 56% of patients in the 800 mg/day and 1000 mg/day dose groups experienced cognitive-related dysfunction compared to approximately 42% of patients in the 200 to 400 mg/day groups and 14% for placebo.
+In adult epilepsy adjunctive controlled trials, which used rapid titration (100 to 200 mg/day weekly increments) and target immediate-release topiramate doses of 200 mg to 1000 mg/day, 56% of patients in the 800 mg/day and 1000 mg/day dose groups experienced cognitive-related dysfunction compared to approximately 42% of patients in the 200 to 400 mg/day groups and 14% for placebo.
 In this rapid titration regimen, these dose-related adverse reactions began in the titration or in the maintenance phase, and in some patients these events began during titration and persisted into the maintenance phase.
 
-In the monotherapy epilepsy controlled trial conducted with immediate-release topiramate, the proportion of patients who experienced one or more cognitive-related adverse reactions was 19% for topiramate 50 mg per day and 26% for 400 mg per day.
+In the monotherapy epilepsy-controlled trial conducted with immediate-release topiramate, the proportion of patients who experienced one or more cognitive-related adverse reactions was 19% for topiramate 50 mg per day and 26% for 400 mg per day.
 
-In the 6-month migraine prophylaxis controlled trials of immediate-release topiramate using a slower titration regimen (25 mg/day weekly increments), the proportion of patients who experienced one or more cognitive-related adverse reactions was 19% for topiramate 50 mg/day, 22% for 100 mg/day (the recommended dose), 28% for 200 mg/day, and 10% for placebo.
+In the 6-month controlled trials for the preventive treatment of migraine, which used a slower titration regimen (25 mg/day weekly increments), the proportion of patients who experienced one or more cognitive-related adverse reactions was 19% for topiramate 50 mg/day, 22% for 100 mg/day (the recommended dose), 28% for 200 mg/day, and 10% for placebo.
 Cognitive adverse reactions most commonly developed during titration and sometimes persisted after completion of titration.
 
 Psychiatric/Behavioral Disturbances
@@ -149,22 +149,22 @@ If this drug is used during pregnancy, or if the patient becomes pregnant while 
 ## 5.8 Withdrawal of Antiepileptic Drugs
 
 In patients with or without a history of seizures or epilepsy, antiepileptic drugs including topiramate extended-release, should be gradually withdrawn to minimize the potential for seizures or increased seizure frequency [see Clinical Studies (14)].
-In situations where rapid withdrawal of topiramate extended-release is medically required, appropriate monitoring is recommended.
+In situations where, rapid withdrawal of topiramate extended-release is medically required, appropriate monitoring is recommended.
 
 ## 5.9 Hyperammonemia and Encephalopathy Without and With Concomitant Valproic Acid Use
 
 Topiramate treatment can cause hyperammonemia with or without encephalopathy [see Adverse Reactions (6.2)].
 The risk for hyperammonemia with topiramate appears dose-related.
 Hyperammonemia has been reported more frequently when topiramate is used concomitantly with valproic acid.
-Postmarketing cases of hyperammonemia with or without encephalopathy have been reported with topiramate and valproic acid in patients who previously tolerated either drug alone [see Drug Interactions (7.1)].
+Post-marketing cases of hyperammonemia with or without encephalopathy have been reported with topiramate and valproic acid in patients who previously tolerated either drug alone [see Drug Interactions (7.1)].
 
 Clinical symptoms of hyperammonemic encephalopathy often include acute alterations in level of consciousness and/or cognitive function with lethargy and/or vomiting.
 In most cases, hyperammonemic encephalopathy abated with discontinuation of treatment.
 
-The incidence of hyperammonemia in pediatric patients 12 to 17 years of age in migraine prophylaxis trials was 26% in patients taking topiramate monotherapy at 100 mg/day, and 14% in patients taking topiramate at 50 mg/day, compared to 9% in patients taking placebo.
+The incidence of hyperammonemia in pediatric patients 12 to 17 years of age in the preventive treatment of migraine trials was 26% in patients taking topiramate monotherapy at 100 mg/day, and 14% in patients taking topiramate at 50 mg/day, compared to 9% in patients taking placebo.
 There was also an increased incidence of markedly increased hyperammonemia at the 100 mg dose.
 
-Dose-related hyperammonemia was also seen in pediatric patients 1 to 24 months of age treated with topiramate and concomitant valproic acid for partial onset epilepsy and this was not due to a pharmacokinetic interaction.
+Dose-related hyperammonemia was also seen in pediatric patients 1 to 24 months of age treated with topiramate and concomitant valproic acid for partial-onset epilepsy and this was not due to a pharmacokinetic interaction.
 
 In some patients, hyperammonemia can be asymptomatic.
 
@@ -193,7 +193,7 @@ Hydration is recommended to reduce new stone formation.
 
 ## 5.11 Hypothermia With Concomitant Valproic Acid Use
 
-Hypothermia, defined as a drop in body core temperature to <35°C (95°F), has been reported in association with topiramate use with concomitant valproic acid both in conjunction with hyperammonemia and in the absence of hyperammonemia.
+Hypothermia, defined as a drop-in body core temperature to <35°C (95°F), has been reported in association with topiramate use with concomitant valproic acid both in conjunction with hyperammonemia and in the absence of hyperammonemia.
 This adverse reaction in patients using concomitant topiramate and valproate can occur after starting topiramate treatment or after increasing the daily dose of topiramate [see Drug Interactions (7.1)].
 Consideration should be given to stopping topiramate extended-release or valproate in patients who develop hypothermia, which may be manifested by a variety of clinical abnormalities including lethargy, confusion, coma, and significant alterations in other major organ systems such as the cardiovascular and respiratory systems.
 Clinical management and assessment should include examination of blood ammonia levels.

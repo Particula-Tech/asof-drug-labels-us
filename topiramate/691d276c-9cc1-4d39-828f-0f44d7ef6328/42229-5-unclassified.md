@@ -1,3 +1,1 @@
-Manufactured for USL Pharma, LLC Denver, CO 80223
-
-Revised 0219
+Manufactured for UPSHER-SMITH LABORATORIES, LLC Maple Grove, MN 55369

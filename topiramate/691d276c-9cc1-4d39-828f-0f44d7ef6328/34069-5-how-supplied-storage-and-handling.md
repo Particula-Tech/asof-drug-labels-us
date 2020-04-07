@@ -5,34 +5,34 @@
 Topiramate extended-release capsules contain beads of topiramate in a capsule and are available in the following strengths and colors:
 
 25 mg: light pink and grey capsules, printed with "UPSHER-SMITH" on the cap in black ink and "25 mg" on the body in black ink.
-25 mg capsules are available in the following package configurations:
+25 mg capsules are supplied in the following package configurations:
 
-- Bottle of 30 count with desiccant (NDC 0832-1071-30)
-- Bottle of 90 count with desiccant (NDC 0832-1071-90)
+- Bottles of 30 with desiccant and a child-resistant closure, NDC 0832-1071-30
+- Bottles of 90 with desiccant and a child-resistant closure, NDC 0832-1071-90
 
 50 mg: golden yellow and grey capsules, printed with "UPSHER-SMITH" on the cap in black ink and "50 mg" on the body in black ink.
-50 mg capsules are available in the following package configurations:
+50 mg capsules are supplied in the following package configurations:
 
-- Bottle of 30 count with desiccant (NDC 0832-1072-30)
-- Bottle of 90 count with desiccant (NDC 0832-1072-90)
+- Bottles of 30 with desiccant and a child-resistant closure, NDC 0832-1072-30
+- Bottles of 90 with desiccant and a child-resistant closure, NDC 0832-1072-90
 
 100 mg: reddish brown and grey capsules, printed with "UPSHER-SMITH" on the cap in black ink and "100 mg" on the body in black ink.
-100 mg capsules are available in the following package configurations:
+100 mg capsules are supplied in the following package configurations:
 
-- Bottle of 30 count with desiccant (NDC 0832-1074-30)
-- Bottle of 90 count with desiccant (NDC 0832-1074-90)
+- Bottles of 30 with desiccant and a child-resistant closure, NDC 0832-1074-30
+- Bottles of 90 with desiccant and a child-resistant closure, NDC 0832-1074-90
 
 150 mg: pale yellow and grey capsules, printed with "UPSHER-SMITH" on the cap in black ink and "150 mg" on the body in black ink.
-150 mg capsules are available in the following package configurations:
+150 mg capsules are supplied in the following package configurations:
 
-- Bottle of 30 count with desiccant (NDC 0832-1075-30)
-- Bottle of 90 count with desiccant (NDC 0832-1075-90)
+- Bottles of 30 with desiccant and a child-resistant closure, NDC 0832-1075-30)
+- Bottles of 90 with desiccant and a child-resistant closure, NDC 0832-1075-90
 
 200 mg: brown and grey capsules, printed with "UPSHER-SMITH" on the cap in white ink and "200 mg" on the body in black ink.
-200 mg capsules are available in the following package configurations:
+200 mg capsules are supplied in the following package configurations:
 
-- Bottle of 30 count with desiccant (NDC 0832-1073-30)
-- Bottle of 90 count with desiccant (NDC 0832-1073-90)
+- Bottles of 30 with desiccant and a child-resistant closure, NDC 0832-1073-30
+- Bottles of 90 with desiccant and a child-resistant closure, NDC 0832-1073-90
 
 ## 16.2 Storage and Handling
 
