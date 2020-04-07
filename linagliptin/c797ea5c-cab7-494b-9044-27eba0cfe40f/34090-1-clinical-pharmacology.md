@@ -29,7 +29,7 @@ After oral administration of a single 5-mg dose to healthy subjects, peak plasma
 Plasma concentrations of linagliptin decline in at least a biphasic manner with a long terminal half-life (>100 hours), related to the saturable binding of linagliptin to DPP-4.
 The prolonged elimination phase does not contribute to the accumulation of the drug.
 The effective half-life for accumulation of linagliptin, as determined from oral administration of multiple doses of linagliptin 5 mg, is approximately 12 hours.
-After once-daily dosing, steady-state plasma concentrations of linagliptin 5 mg are reached by the third dose, and Cmax and AUC increased by a factor of 1.3 at steady state compared with the first dose.
+After once-daily dosing, steady-state plasma concentrations of linagliptin 5 mg are reached by the third dose, and Cmax and AUC increased by a factor of 1.3 at steady-state compared with the first dose.
 The intra-subject and inter-subject coefficients of variation for linagliptin AUC were small (12.6% and 28.5%, respectively).
 Plasma AUC of linagliptin increased in a less than dose-proportional manner in the dose range of 1 to 10 mg.
 The pharmacokinetics of linagliptin is similar in healthy subjects and in patients with type 2 diabetes.
@@ -37,15 +37,20 @@ The pharmacokinetics of linagliptin is similar in healthy subjects and in patien
 Absorption
 
 The absolute bioavailability of linagliptin is approximately 30%.
-High-fat meal reduced Cmax by 15% and increased AUC by 4%; this effect is not clinically relevant.
+A high-fat meal reduced Cmax by 15% and increased AUC by 4%; this effect is not clinically relevant.
 TRADJENTA may be administered with or without food.
 
 Distribution
 
-The mean apparent volume of distribution at steady state following a single intravenous dose of linagliptin 5 mg to healthy subjects is approximately 1110 L, indicating that linagliptin extensively distributes to the tissues.
+The mean apparent volume of distribution at steady-state following a single intravenous dose of linagliptin 5 mg to healthy subjects is approximately 1110 L, indicating that linagliptin extensively distributes to the tissues.
 Plasma protein binding of linagliptin is concentration-dependent, decreasing from about 99% at 1 nmol/L to 75%-89% at ≥30 nmol/L, reflecting saturation of binding to DPP-4 with increasing concentration of linagliptin.
 At high concentrations, where DPP-4 is fully saturated, 70% to 80% of linagliptin remains bound to plasma proteins and 20% to 30% is unbound in plasma.
 Plasma binding is not altered in patients with renal or hepatic impairment.
+
+Elimination
+
+Linagliptin has a terminal half-life of about 200 hours at steady-state, though the accumulation half-life is about 11 hours.
+Renal clearance at steady-state was approximately 70 mL/min.
 
 Metabolism
 
@@ -55,7 +60,6 @@ A small fraction of absorbed linagliptin is metabolized to a pharmacologically i
 Excretion
 
 Following administration of an oral [14C]-linagliptin dose to healthy subjects, approximately 85% of the administered radioactivity was eliminated via the enterohepatic system (80%) or urine (5%) within 4 days of dosing.
-Renal clearance at steady state was approximately 70 mL/min.
 
 Specific Populations
 
@@ -117,33 +121,31 @@ Based on these results and in vivo drug interaction studies, linagliptin is cons
 
 In vivo Assessment of Drug Interactions
 
-Strong inducers of CYP3A4 or P-gp (e.g., rifampin) decrease exposure to linagliptin to subtherapeutic and likely ineffective concentrations.
-For patients requiring use of such drugs, an alternative to linagliptin is strongly recommended.
+Strong inducers of CYP3A4 or P-gp (e.g., rifampin) decrease exposure to linagliptin to subtherapeutic and likely ineffective concentrations [see Drug Interactions (7)].
 In vivo studies indicated evidence of a low propensity for causing drug interactions with substrates of CYP3A4, CYP2C9, CYP2C8, P-gp and organic cationic transporter (OCT).
-No dose adjustment of TRADJENTA is recommended based on results of the described pharmacokinetic studies.
 
-Table 2 Effect of Coadministered Drugs on Systemic Exposure of Linagliptin
+Table 3 Effect of Coadministered Drugs on Systemic Exposure of Linagliptin
 
 | AUC† | Cmax |  |  |  |
 | --- | --- | --- | --- | --- |
 | Coadministered Drug | Dosing of Coadministered Drug* | Dosing of Linagliptin* | Geometric Mean Ratio (ratio with/without coadministered drug) No effect = 1.0 |  |
 | Metformin | 850 mg TID | 10 mg QD | 1.20 | 1.03 |
-| Glyburide** | 1.75 mg# | 5 mg QD | 1.02 | 1.01 |
+| Glyburide | 1.75 mg# | 5 mg QD | 1.02 | 1.01 |
 | Pioglitazone | 45 mg QD | 10 mg QD | 1.13 | 1.07 |
 | Ritonavir | 200 mg BID | 5 mg# | 2.01 | 2.96 |
-| Rifampin*** | 600 mg QD | 5 mg QD | 0.60 | 0.56 |
-| *Multiple dose (steady state) unless otherwise noted **Coadministration of TRADJENTA with an insulin secretagogue (e.g., sulfonylurea) or insulin may require lower doses of the insulin secretagogue or insulin to reduce the risk of hypoglycemia [see Warnings and Precautions (5.3) and Drug Interactions (7.2)]. ***For information regarding clinical recommendations [see Drug Interactions (7.1)]. #Single dose †AUC = AUC(0 to 24 hours) for single-dose treatments and AUC = AUC(TAU) for multiple-dose treatments QD = once daily BID = twice daily TID = three times daily |  |  |  |  |
+| Rifampin** | 600 mg QD | 5 mg QD | 0.60 | 0.56 |
+| *Multiple dose (steady-state) unless otherwise noted **For information regarding clinical recommendations [see Drug Interactions (7.1)]. #Single dose †AUC = AUC(0 to 24 hours) for single-dose treatments and AUC = AUC(TAU) for multiple-dose treatments QD = once daily BID = twice daily TID = three times daily |  |  |  |  |
 
-Table 3 Effect of Linagliptin on Systemic Exposure of Coadministered Drugs
+Table 4 Effect of Linagliptin on Systemic Exposure of Coadministered Drugs
 
 |  | AUC† | Cmax |  |  |  |
 | --- | --- | --- | --- | --- | --- |
 | Coadministered Drug | Dosing of Coadministered Drug* | Dosing of Linagliptin* | Geometric Mean Ratio (ratio with/without coadministered drug) No effect = 1.0 |  |  |
 | Metformin | 850 mg TID | 10 mg QD | metformin | 1.01 | 0.89 |
-| Glyburide*** | 1.75 mg# | 5 mg QD | glyburide | 0.86 | 0.86 |
+| Glyburide | 1.75 mg# | 5 mg QD | glyburide | 0.86 | 0.86 |
 | Pioglitazone | 45 mg QD | 10 mg QD | pioglitazone metabolite M-III metabolite M-IV | 0.94 0.98 1.04 | 0.86 0.96 1.05 |
 | Digoxin | 0.25 mg QD | 5 mg QD | digoxin | 1.02 | 0.94 |
 | Simvastatin | 40 mg QD | 10 mg QD | simvastatin simvastatin acid | 1.34 1.33 | 1.10 1.21 |
 | Warfarin | 10 mg# | 5 mg QD | R-warfarin S-warfarin INR PT | 0.99 1.03 0.93** 1.03** | 1.00 1.01 1.04** 1.15** |
 | Ethinylestradiol and levonorgestrel | ethinylestradiol 0.03 mg and levonorgestrel 0.150 mg QD | 5 mg QD | ethinylestradiol levonorgestrel | 1.01 1.09 | 1.08 1.13 |
-| *Multiple dose (steady state) unless otherwise noted #Single dose †AUC=AUC(INF) for single-dose treatments and AUC = AUC(TAU) for multiple-dose treatments **AUC=AUC(0-168) and Cmax=Emax for pharmacodynamic end points ***Coadministration of TRADJENTA with an insulin secretagogue (e.g., sulfonylurea) or insulin may require lower doses of the insulin secretagogue or insulin to reduce the risk of hypoglycemia [see Warnings and Precautions (5.3) and Drug Interactions (7.2)]. INR = International Normalized Ratio PT = Prothrombin Time QD = once daily TID = three times daily |  |  |  |  |  |
+| *Multiple dose (steady-state) unless otherwise noted #Single dose †AUC=AUC(INF) for single-dose treatments and AUC = AUC(TAU) for multiple-dose treatments **AUC=AUC(0-168) and Cmax=Emax for pharmacodynamic end points INR = International Normalized Ratio PT = Prothrombin Time QD = once daily TID = three times daily |  |  |  |  |  |

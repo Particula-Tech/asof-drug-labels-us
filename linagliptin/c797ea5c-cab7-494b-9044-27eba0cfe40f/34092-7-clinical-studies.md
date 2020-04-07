@@ -16,7 +16,7 @@ In the 18-week study, only patients ineligible for metformin were recruited.
 In the 18-week study, 76 patients were randomized to placebo and 151 to TRADJENTA 5 mg; in the 24-week study, 167 patients were randomized to placebo and 336 to TRADJENTA 5 mg.
 Patients who failed to meet specific glycemic goals during the 18-week study received rescue therapy with pioglitazone and/or insulin; metformin rescue therapy was used in the 24-week trial.
 
-Treatment with TRADJENTA 5 mg daily provided statistically significant improvements in A1C, FPG, and 2-hour PPG compared with placebo (Table 4).
+Treatment with TRADJENTA 5 mg daily provided statistically significant improvements in A1C, FPG, and 2-hour PPG compared with placebo (Table 5).
 In the 18-week study, 12% of patients receiving TRADJENTA 5 mg and 18% who received placebo required rescue therapy.
 In the 24-week study, 10.2% of patients receiving TRADJENTA 5 mg and 20.9% of patients receiving placebo required rescue therapy.
 The improvement in A1C compared with placebo was not affected by gender, age, race, prior antihyperglycemic therapy, baseline BMI, or a standard index of insulin resistance (HOMA-IR).
@@ -24,7 +24,7 @@ As is typical for trials of agents to treat type 2 diabetes, the mean reduction 
 In these 18- and 24-week studies, the changes from baseline in A1C were -0.4% and -0.4%, respectively, for those given TRADJENTA, and 0.1% and 0.3%, respectively, for those given placebo.
 Change from baseline in body weight did not differ significantly between the groups.
 
-Table 4 Glycemic Parameters in Placebo-Controlled Monotherapy Studies of TRADJENTA*
+Table 5 Glycemic Parameters in Placebo-Controlled Monotherapy Studies of TRADJENTA*
 
 | TRADJENTA 5 mg | Placebo | TRADJENTA 5 mg | Placebo |  |
 | --- | --- | --- | --- | --- |
@@ -55,11 +55,11 @@ Patients on metformin and another antihyperglycemic agent (n = 207) were randomi
 Patients were randomized to the addition of either TRADJENTA 5 mg or placebo, administered once daily.
 Patients who failed to meet specific glycemic goals during the studies were treated with glimepiride rescue.
 
-In combination with metformin, TRADJENTA provided statistically significant improvements in A1C, FPG, and 2-hour PPG compared with placebo (Table 5).
+In combination with metformin, TRADJENTA provided statistically significant improvements in A1C, FPG, and 2-hour PPG compared with placebo (Table 6).
 Rescue glycemic therapy was used in 7.8% of patients treated with TRADJENTA 5 mg and in 18.9% of patients treated with placebo.
 A similar decrease in body weight was observed for both treatment groups.
 
-Table 5 Glycemic Parameters in Placebo-Controlled Study for TRADJENTA in Combination with Metformin*
+Table 6 Glycemic Parameters in Placebo-Controlled Study for TRADJENTA in Combination with Metformin*
 
 |  | TRADJENTA 5 mg + Metformin | Placebo + Metformin |
 | --- | --- | --- |
@@ -92,14 +92,14 @@ Patients were randomized in a 1:2:2:2:2:2 ratio to either placebo or one of 5 ac
 Approximately equal numbers of patients were randomized to receive initial therapy with 5 mg of TRADJENTA once daily, 500 mg or 1000 mg of metformin twice daily, or 2.5 mg of linagliptin twice daily in combination with 500 mg or 1000 mg of metformin twice daily.
 Patients who failed to meet specific glycemic goals during the study were treated with sulfonylurea, thiazolidinedione, or insulin rescue therapy.
 
-Initial therapy with the combination of linagliptin and metformin provided significant improvements in A1C and fasting plasma glucose (FPG) compared to placebo, to metformin alone, and to linagliptin alone (Table 6).
+Initial therapy with the combination of linagliptin and metformin provided significant improvements in A1C and fasting plasma glucose (FPG) compared to placebo, to metformin alone, and to linagliptin alone (Table 7).
 
 The adjusted mean treatment difference in A1C from baseline to week 24 (LOCF) was -0.5% (95% CI -0.7, -0.3; p<0.0001) for linagliptin 2.5 mg/metformin 1000 mg twice daily compared to metformin 1000 twice daily; -1.1% (95% CI -1.4, -0.9; p<0.0001) for linagliptin 2.5 mg/metformin 1000 mg twice daily compared to TRADJENTA 5 mg once daily; -0.6% (95% CI -0.8, -0.4; p<0.0001) for linagliptin 2.5 mg/metformin 500 mg twice daily compared to metformin 500 mg twice daily; and -0.8% (95% CI -1.0, -0.6; p<0.0001) for linagliptin 2.5 mg/metformin 500 mg twice daily compared to TRADJENTA 5 mg once daily.
 
 Lipid effects were generally neutral.
 No meaningful change in body weight was noted in any of the 6 treatment groups.
 
-Table 6 Glycemic Parameters at Final Visit (24-Week Study) for Linagliptin and Metformin, Alone and in Combination in Randomized Patients with Type 2 Diabetes Mellitus Inadequately Controlled on Diet and Exercise**
+Table 7 Glycemic Parameters at Final Visit (24-Week Study) for Linagliptin and Metformin, Alone and in Combination in Randomized Patients with Type 2 Diabetes Mellitus Inadequately Controlled on Diet and Exercise**
 
 |  | Placebo | TRADJENTA 5 mg Once Daily* | Metformin 500 mg Twice Daily | Linagliptin 2.5 mg Twice Daily* + Metformin 500 mg Twice Daily | Metformin 1000 mg Twice Daily | Linagliptin 2.5 mg Twice Daily* + Metformin 1000 mg Twice Daily |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -126,11 +126,11 @@ Randomization was stratified by baseline HbA1c (<8.5% vs ≥8.5%), and the previ
 Patients receiving glimepiride were given an initial dose of 1 mg/day and then electively titrated over the next 12 weeks to a maximum dose of 4 mg/day as needed to optimize glycemic control.
 Thereafter, the glimepiride dose was to be kept constant, except for down-titration to prevent hypoglycemia.
 
-After 52 and 104 weeks, TRADJENTA and glimepiride both had reductions from baseline in A1C (52 weeks: -0.4% for TRADJENTA, -0.6% for glimepiride; 104 weeks: -0.2% for TRADJENTA, -0.4% for glimepiride) from a baseline mean of 7.7% (Table 7).
+After 52 and 104 weeks, TRADJENTA and glimepiride both had reductions from baseline in A1C (52 weeks: -0.4% for TRADJENTA, -0.6% for glimepiride; 104 weeks: -0.2% for TRADJENTA, -0.4% for glimepiride) from a baseline mean of 7.7% (Table 8).
 The mean difference between groups in A1C change from baseline was 0.2% with 2-sided 97.5% confidence interval (0.1%, 0.3%) for the intent-to-treat population using last observation carried forward.
 These results were consistent with the completers analysis.
 
-Table 7 Glycemic Parameters at 52 and 104 Weeks in Study Comparing TRADJENTA to Glimepiride as Add-On Therapy in Patients Inadequately Controlled on Metformin**
+Table 8 Glycemic Parameters at 52 and 104 Weeks in Study Comparing TRADJENTA to Glimepiride as Add-On Therapy in Patients Inadequately Controlled on Metformin**
 
 |  | TRADJENTA 5 mg + Metformin | Glimepiride + Metformin (mean Glimepiride dose 3 mg) | TRADJENTA 5 mg + Metformin | Glimepiride + Metformin (mean Glimepiride dose 3 mg) |
 | --- | --- | --- | --- | --- |
@@ -161,11 +161,11 @@ After the run-in period, patients were randomized to receive either TRADJENTA 5 
 Patients who failed to meet specific glycemic goals during the studies were treated with metformin rescue.
 Glycemic endpoints measured were A1C and FPG.
 
-In initial combination with pioglitazone 30 mg, TRADJENTA 5 mg provided statistically significant improvements in A1C and FPG compared to placebo with pioglitazone (Table 8).
+In initial combination with pioglitazone 30 mg, TRADJENTA 5 mg provided statistically significant improvements in A1C and FPG compared to placebo with pioglitazone (Table 9).
 Rescue therapy was used in 7.9% of patients treated with TRADJENTA 5 mg/pioglitazone 30 mg and 14.1% of patients treated with placebo/pioglitazone 30 mg.
 Patient weight increased in both groups during the study with an adjusted mean change from baseline of 2.3 kg and 1.2 kg in the TRADJENTA 5 mg/pioglitazone 30 mg and placebo/pioglitazone 30 mg groups, respectively (p = 0.0141).
 
-Table 8 Glycemic Parameters in Placebo-Controlled Study for TRADJENTA in Combination Therapy with Pioglitazone*
+Table 9 Glycemic Parameters in Placebo-Controlled Study for TRADJENTA in Combination Therapy with Pioglitazone*
 
 |  | TRADJENTA 5 mg + Pioglitazone | Placebo + Pioglitazone |
 | --- | --- | --- |
@@ -191,11 +191,11 @@ Patients were randomized to the addition of TRADJENTA 5 mg or to placebo, each a
 Patients who failed to meet specific glycemic goals during the studies were treated with metformin rescue.
 Glycemic endpoints measured included A1C and FPG.
 
-In combination with a sulfonylurea, TRADJENTA provided statistically significant improvements in A1C compared with placebo following 18 weeks' treatment; the improvements in FPG observed with TRADJENTA were not statistically significant compared with placebo (Table 9).
+In combination with a sulfonylurea, TRADJENTA provided statistically significant improvements in A1C compared with placebo following 18 weeks' treatment; the improvements in FPG observed with TRADJENTA were not statistically significant compared with placebo (Table 10).
 Rescue therapy was used in 7.6% of patients treated with TRADJENTA 5 mg and 15.9% of patients treated with placebo.
 There was no significant difference between TRADJENTA and placebo in body weight.
 
-Table 9 Glycemic Parameters in Placebo-Controlled Study for TRADJENTA in Combination with Sulfonylurea*
+Table 10 Glycemic Parameters in Placebo-Controlled Study for TRADJENTA in Combination with Sulfonylurea*
 
 |  | TRADJENTA 5 mg + SU | Placebo + SU |
 | --- | --- | --- |
@@ -220,12 +220,12 @@ Patients on a sulfonylurea and metformin were randomized to receive TRADJENTA 5 
 Patients who failed to meet specific glycemic goals during the study were treated with pioglitazone rescue.
 Glycemic endpoints measured included A1C and FPG.
 
-In combination with a sulfonylurea and metformin, TRADJENTA provided statistically significant improvements in A1C and FPG compared with placebo (Table 10).
+In combination with a sulfonylurea and metformin, TRADJENTA provided statistically significant improvements in A1C and FPG compared with placebo (Table 11).
 In the entire study population (patients on TRADJENTA in combination with sulfonylurea and metformin), a mean reduction from baseline relative to placebo in A1C of -0.6% and in FPG of -13 mg/dL was seen.
 Rescue therapy was used in 5.4% of patients treated with TRADJENTA 5 mg and in 13% of patients treated with placebo.
 Change from baseline in body weight did not differ significantly between the groups.
 
-Table 10 Glycemic Parameters in Placebo-Controlled Study for TRADJENTA in Combination with Metformin and Sulfonylurea*
+Table 11 Glycemic Parameters in Placebo-Controlled Study for TRADJENTA in Combination with Metformin and Sulfonylurea*
 
 |  | TRADJENTA 5 mg + Metformin + SU | Placebo + Metformin + SU |
 | --- | --- | --- |
@@ -252,14 +252,13 @@ Following the run-in period, patients with inadequate glycemic control were rand
 Patients were maintained on a stable dose of insulin prior to enrollment, during the run-in period, and during the first 24 weeks of treatment.
 Patients who failed to meet specific glycemic goals during the double-blind treatment period were rescued by increasing background insulin dose.
 
-TRADJENTA used in combination with insulin (with or without metformin and/or pioglitazone), provided statistically significant improvements in A1C and FPG compared to placebo (Table 11) after 24 weeks of treatment.
+TRADJENTA used in combination with insulin (with or without metformin and/or pioglitazone), provided statistically significant improvements in A1C and FPG compared to placebo (Table 12) after 24 weeks of treatment.
 The mean total daily insulin dose at baseline was 42 units for patients treated with TRADJENTA and 40 units for patients treated with placebo.
 Background baseline diabetes therapy included use of: insulin alone (16.1%), insulin combined with metformin only (75.5%), insulin combined with metformin and pioglitazone (7.4%), and insulin combined with pioglitazone only (1%).
 The mean change from baseline to Week 24 in the daily dose of insulin was +1.3 IU in the placebo group and +0.6 IU in the TRADJENTA group.
 The mean change in body weight from baseline to Week 24 was similar in the two treatment groups.
-The rate of hypoglycemia, defined as all symptomatic or asymptomatic episodes with a self-measured blood glucose was also similar in both groups (21.4% TRADJENTA; 22.9% placebo) in the first 24 weeks of the study.
 
-Table 11 Glycemic Parameters in Placebo-Controlled Study for TRADJENTA in Combination with Insulin*
+Table 12 Glycemic Parameters in Placebo-Controlled Study for TRADJENTA in Combination with Insulin*
 
 |  | TRADJENTA 5 mg + Insulin | Placebo + Insulin |
 | --- | --- | --- |
@@ -290,7 +289,9 @@ At baseline in this trial, 62.5% of patients were receiving insulin alone as bac
 After 12 weeks of treatment, TRADJENTA 5 mg provided statistically significant improvement in A1C compared to placebo, with an adjusted mean change of -0.6% compared to placebo (95% confidence interval -0.9, -0.3) based on the analysis using last observation carried forward (LOCF).
 With adjustments in antidiabetic background therapy after the initial 12 weeks, efficacy was maintained for 52 weeks, with an adjusted mean change from baseline in A1C of -0.7% compared to placebo (95% confidence interval -1.0, -0.4) based on analysis using LOCF.
 
-## 14.2 Cardiovascular Safety Trial
+## 14.2 Cardiovascular Safety Trials
+
+CARMELINA
 
 The cardiovascular risk of TRADJENTA was evaluated in CARMELINA, a multi-national, multi-center, placebo-controlled, double-blind, parallel group trial comparing TRADJENTA (N=3494) to placebo (N=3485) in adult patients with type 2 diabetes mellitus and a history of established macrovascular and/or renal disease.
 The trial compared the risk of major adverse cardiovascular events (MACE) between TRADJENTA and placebo when these were added to standard of care treatments for diabetes and other cardiovascular risk factors.
@@ -300,20 +301,20 @@ Patients were eligible to enter the trial if they were adults with type 2 diabet
 
 At baseline the mean age was 66 years and the population was 63% male, 80% Caucasian, 9% Asian, and 6% Black.
 Mean HbA1c was 8.0% and mean duration of type 2 diabetes mellitus was 15 years.
-The trial population included 17% patients ≥75 years of age and 62% patients with renal impairment defined as eGFR <60 mL/min/1.73m2.
-The mean eGFR was 55 mL/min/1.73m2 and 27% of patients had mild renal impairment (eGFR 60 to 90 mL/min/1.73m2), 47% of patients had moderate renal impairment (eGFR 30 to <60 mL/min/1.73 m2) and 15% of patients had severe renal impairment (eGFR <30 mL/min/1.73 m2).
+The trial population included 17% patients ≥75 years of age and 62% patients with renal impairment defined as eGFR <60 mL/min/1.73 m2.
+The mean eGFR was 55 mL/min/1.73 m2 and 27% of patients had mild renal impairment (eGFR 60 to 90 mL/min/1.73 m2), 47% of patients had moderate renal impairment (eGFR 30 to <60 mL/min/1.73 m2) and 15% of patients had severe renal impairment (eGFR <30 mL/min/1.73 m2).
 Patients were taking at least one antidiabetic drug (97%), and the most common were insulin and analogues (57%), metformin (54%) and sulfonylurea (32%).
 Patients were also taking antihypertensives (96%), lipid lowering drugs (76%) with 72% on statin, and aspirin (62%).
 
-The primary endpoint, MACE, was the time to first occurrence of one of three composite outcomes which included cardiovascular death, nonfatal myocardial infarction or nonfatal stroke.
+The primary endpoint, MACE, was the time to first occurrence of one of three composite outcomes which included cardiovascular death, non-fatal myocardial infarction or non-fatal stroke.
 The study was designed as a non-inferiority trial with a pre-specified risk margin of 1.3 for the hazard ratio of MACE.
 
-The results of CARMELINA, including the contribution of each component to the primary composite endpoint, are shown in Table 12.
+The results of CARMELINA, including the contribution of each component to the primary composite endpoint, are shown in Table 13.
 The estimated hazard ratio for MACE associated with TRADJENTA relative to placebo was 1.02 with a 95% confidence interval of (0.89, 1.17).
 The upper bound of this confidence interval, 1.17, excluded the risk margin of 1.3.
 The Kaplan-Meier curve depicting time to first occurrence of MACE is shown in Figure 1.
 
-Table 12 Major Adverse Cardiovascular Events (MACE) by Treatment Group in the CARMELINA Trial
+Table 13 Major Adverse Cardiovascular Events (MACE) by Treatment Group in the CARMELINA Trial
 
 |  | Number of Subjects (%) | Incidence Rate per 1000 PY* | Number of Subjects (%) | Incidence Rate per 1000 PY* | (95% CI) |
 | --- | --- | --- | --- | --- | --- |
@@ -325,3 +326,38 @@ Table 12 Major Adverse Cardiovascular Events (MACE) by Treatment Group in the CA
 | *PY=patient years **A patient may have experienced more than one component; therefore, the sum of the components is larger than the number of patients who experienced the composite outcome. |  |  |  |  |  |
 
 Figure 1 Kaplan-Meier: Time to First Occurrence of MACE in the CARMELINA Trial
+
+CAROLINA
+
+The cardiovascular risk of TRADJENTA was evaluated in CAROLINA, a multi-center, multi-national, randomized, double-blind, parallel group trial comparing TRADJENTA (N=3023) to glimepiride (N=3010) in adult patients with type 2 diabetes mellitus and a history of established cardiovascular disease and/or multiple cardiovascular risk factors.
+The trial compared the risk of major adverse cardiovascular events (MACE) between TRADJENTA and glimepiride when these were added to standard of care treatments for diabetes and other cardiovascular risk factors.
+The trial was event driven, the median duration of follow-up was 6.23 years and vital status was obtained for 99.3% of patients.
+
+Patients were eligible to enter the trial if they were adults with type 2 diabetes with insufficient glycemic control (defined as HbA1c of 6.5% to 8.5% or 6.5% to 7.5% depending on whether treatment-naïve, on monotherapy or on combination therapy), and were defined to be at high cardiovascular risk with previous vascular disease, evidence of vascular related end-organ damage, age ≥70 years, and/or two cardiovascular risk factors (duration of diabetes >10 years, systolic blood pressure >140 mmHg, current smoker, LDL cholesterol ≥135 mg/dL).
+
+At baseline the mean age was 64 years and the population was 60% male, 73% Caucasian, 18% Asian, and 5% Black.
+The mean HbA1c was 7.15% and mean duration of type 2 diabetes was 7.6 years.
+The trial population included 34% patients ≥70 years of age and 19% patients with renal impairment defined as eGFR <60 mL/min/1.73 m2.
+The mean eGFR was 77 mL/min/1.73m2.
+Patients were taking at least one antidiabetic drug (91%) and the most common were metformin (83%) and sulfonylurea (28%).
+Patients were also taking antihypertensives (89%), lipid lowering drugs (70%) with 65% on statin, and aspirin (47%).
+
+The primary endpoint, MACE, was the time to first occurrence of one of three composite outcomes which included cardiovascular death, non-fatal myocardial infarction or non-fatal stroke.
+The study was designed as a non-inferiority trial with a pre-specified risk margin of 1.3 for the upper bound of the 95% CI for the hazard ratio of MACE.
+
+The results of CAROLINA, including the contribution of each component to the primary composite endpoint, are shown in Table 14.
+The Kaplan-Meier curve depicting time to first occurrence of MACE is shown in Figure 2.
+
+Table 14 Major Adverse Cardiovascular Events (MACE) by Treatment Group in the CAROLINA Study
+
+|  | Number of Subjects (%) | Incidence Rate per 1000 PY* | Number of Subjects (%) | Incidence Rate per 1000 PY* | (95% CI) |
+| --- | --- | --- | --- | --- | --- |
+|  | TRADJENTA 5 mg n=3023 |  | Glimepiride (1 mg to 4 mg) n=3010 |  | Hazard Ratio |
+| Composite of first event of CV death, non-fatal myocardial infarction (MI), or non-fatal stroke (MACE) | 356 (11.8) | 20.7 | 362 (12.0) | 21.2 | 0.98 (0.84, 1.14) |
+| CV death** | 169 (5.6) | 9.2 | 168 (5.6) | 9.2 | 1.00 (0.81, 1.24) |
+| Non-fatal MI** | 145 (4.8) | 8.3 | 142 (4.7) | 8.2 | 1.01 (0.80, 1.28) |
+| Non-fatal stroke** | 91 (3.0) | 5.2 | 104 (3.5) | 6.0 | 0.87 (0.66, 1.15) |
+| *PY=patient years |  |  |  |  |  |
+| **A patient may have experienced more than one component; therefore, the sum of the components is larger than the number of patients who experienced the composite outcome |  |  |  |  |  |
+
+Figure 2 Time to First Occurrence of 3P-MACE in CAROLINA

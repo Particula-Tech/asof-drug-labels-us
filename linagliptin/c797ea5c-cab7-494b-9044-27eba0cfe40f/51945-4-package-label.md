@@ -1,7 +1,21 @@
-Tradjenta Label 90 Tablets NDC: 0597-0140-90
+# PRINCIPAL DISPLAY PANEL - 5 mg Tablet Blister Card Carton
 
-Tradjenta Label 30 Tablets NDC: 0597-0140-30
+NDC 0597-0140-61
 
-Tradjenta Carton 5 mg per tablet 1 blister card of 7 tablets
+DISPENSE THE ACCOMPANYING MEDICATION GUIDE TO EACH PATIENT
 
-Tradjenta Carton 5 mg per Tablet 10 blister cards of 10 tablets NDC: 0597-0140-61
+Tradjenta® (linagliptin tablets)
+
+5 mg per tablet
+
+Dosage: Take one tablet daily.
+See package insert for full dosage information.
+
+100 tablets 10 blister cards of 10 tablets
+
+This unit dose package is not child-resistant.
+If dispensed for outpatient use, a child-resistant container should be utilized.
+
+Rx only
+
+Boehringer Ingelheim
