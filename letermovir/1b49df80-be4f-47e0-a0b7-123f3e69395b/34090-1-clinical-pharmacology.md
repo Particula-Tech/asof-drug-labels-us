@@ -76,7 +76,8 @@ Drug interaction studies were performed in healthy subjects with PREVYMIS and dr
 In vitro results indicate that letermovir is a substrate of drug metabolizing enzymes CYP3A, CYP2D6, UGT1A1, and UGT1A3, and transporters OATP1B1/3 and P-gp.
 Oxidative metabolism is considered to be a minor elimination pathway based on in vivo human data.
 Inhibitors of OATP1B1/3 may result in increases in letermovir plasma concentrations.
-Changes in letermovir plasma concentrations due to inhibition of P-gp or UGTs are not anticipated to be clinically relevant.
+Changes in letermovir plasma concentrations due to inhibition of P-gp/BCRP by itraconazole were not clinically relevant.
+Changes in letermovir plasma concentrations due to inhibition of UGTs are not anticipated to be clinically relevant.
 
 Based on in vitro studies, the metabolism of letermovir is not mediated by CYP1A2, CYP2A6, CYP2B6, CYP2C8, CYP2C9, CYP2C18, CYP2C19, CYP2E1, CYP4A11, UGT1A4, UGT1A6, UGT1A7, UGT1A8, UGT1A9, UGT1A10, UGT2B4, UGT2B7, UGT2B15, or UGT2B17.
 The transport of letermovir is not mediated by OATP2B1, OCT1, OAT1, BCRP, or MRP2 in vitro.
@@ -105,6 +106,7 @@ Table 5: Drug Interactions: Changes in Pharmacokinetics of Letermovir in the Pre
 | Co-administered Drug | Regimen of Co-administered Drug | Letermovir Regimen | Geometric Mean Ratio [90% CI] of Letermovir PK with/without Co-administered Drug (No Effect=1.00) |  |  |
 | Antifungals |  |  |  |  |  |
 | fluconazole | 400 mg single dose PO | 480 mg single dose PO | 1.11 (1.01, 1.23) | 1.06 (0.93, 1.21) | 1.28 (1.15, 1.43) |
+| itraconazole | 200 mg once daily PO | 480 mg once daily PO | 1.33 (1.17, 1.51) | 1.21 (1.05, 1.39) | 1.90 (1.58, 2.28) |
 | Antimycobacterials |  |  |  |  |  |
 | rifampin | 600 mg single dose PO | 480 mg single dose PO | 2.03 (1.84, 2.26) | 1.59 (1.46, 1.74) | 2.01 (1.59, 2.54) |
 | 600 mg single dose IV | 480 mg single dose PO | 1.58 (1.38, 1.81) | 1.37 (1.16, 1.61) | 0.78 (0.65, 0.93) |  |
@@ -134,6 +136,7 @@ Table 6: Drug Interactions: Changes in Pharmacokinetics for Co-administered Drug
 | Antifungals and Antivirals |  |  |  |  |  |
 | acyclovir | 400 mg single dose PO | 480 mg once daily PO | 1.02 (0.87, 1.2) | 0.82 (0.71, 0.93) | 1.13 (0.94, 1.36) |
 | fluconazole | 400 mg single dose PO | 480 mg single dose PO | 1.03 (0.99, 1.08) | 0.95 (0.92, 0.99) | 1.04 (1.00, 1.08) |
+| itraconazole | 200 mg once daily PO | 480 mg once daily PO | 0.76 (0.71, 0.81) | 0.84 (0.76, 0.92) | 0.67 (0.61, 0.73) |
 | posaconazole | 300 mg single dose PO | 480 mg once daily PO | 0.98 (0.82, 1.17) | 1.11 (0.95, 1.29) | 1.10 (0.94, 1.30) |
 | voriconazole | 200 mg twice daily PO | 480 mg once daily PO | 0.56 (0.51, 0.62) | 0.61 (0.53, 0.71) | 0.49 (0.42, 0.57) |
 | HMG-CoA Reductase Inhibitors |  |  |  |  |  |

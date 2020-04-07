@@ -80,4 +80,4 @@ Table 3: Potentially Significant Drug Interactions: Alteration in Dose May Be Re
 
 ## 7.4 Drugs without Clinically Significant Interactions with PREVYMIS
 
-No clinically significant interactions were observed in clinical drug-drug interaction studies of letermovir and acyclovir, digoxin, mycophenolate mofetil, fluconazole, posaconazole, ethinyl estradiol, and levonorgestrel.
+No clinically significant interactions were observed in clinical drug-drug interaction studies of letermovir and acyclovir, digoxin, mycophenolate mofetil, fluconazole, itraconazole, posaconazole, ethinyl estradiol, and levonorgestrel.
