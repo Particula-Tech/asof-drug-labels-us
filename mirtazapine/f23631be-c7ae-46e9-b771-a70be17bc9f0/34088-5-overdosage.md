@@ -1,24 +1,15 @@
-# OVERDOSAGE
+# 10 OVERDOSAGE
 
-Human Experience There is very limited experience with Mirtazapine tablets, USP overdose.
-In premarketing clinical studies, there were 8 reports of mirtazapine overdose alone or in combination with other pharmacological agents.
-The only drug overdose death reported while taking mirtazapine was in combination with amitriptyline and chlorprothixene in a non-US clinical study.
-Based on plasma levels, the mirtazapine dose taken was 30 to 45 mg, while plasma levels of amitriptyline and chlorprothixene were found to be at toxic levels.
-All other premarketing overdose cases resulted in full recovery.
+Human Experience
+
+In premarketing clinical studies, there were reports of mirtazapine tablets overdose alone or in combination with other pharmacological agents.
 Signs and symptoms reported in association with overdose included disorientation, drowsiness, impaired memory, and tachycardia.
-There were no reports of ECG abnormalities, coma, or convulsions following overdose with mirtazapine alone.
-However, based on postmarketing reports, there is a possibility of more serious outcomes (including fatalities) at dosages much higher than the therapeutic dose, especially with mixed overdoses.
-In these cases, QT prolongation and Torsades de Pointes have also been reported (see PRECAUTIONS, Drug Interactions and ADVERSE REACTIONS sections).
 
-Overdose Management Treatment should consist of those general measures employed in the management of overdose with any drug effective in the treatment of major depressive disorder.
-Ensure an adequate airway, oxygenation, and ventilation.
-Monitor ECG parameters (including cardiac rhythm) and vital signs.
-General supportive and symptomatic measures are also recommended.
-Induction of emesis is not recommended.
-Gastric lavage with a large-bore orogastric tube with appropriate airway protection, if needed, may be indicated if performed soon after ingestion, or in symptomatic patients.
-Activated charcoal should be administered.
-There is no experience with the use of forced diuresis, dialysis, hemoperfusion, or exchange transfusion in the treatment of mirtazapine overdosage.
+Based on postmarketing reports, serious outcomes (including fatalities) may occur at dosages higher than the recommended doses, especially with mixed overdoses.
+In these cases, QT prolongation and Torsades de Pointes have also been reported [see Warnings and Precautions (5.5),Adverse Reactions (6.2), and Drug Interactions (7)].
+
+Overdose Management
+
 No specific antidotes for mirtazapine are known.
-In managing overdosage, consider the possibility of multiple-drug involvement.
-The physician should consider contacting a poison control center for additional information on the treatment of any overdose.
-Telephone numbers for certified poison control centers are listed in the Physicians’ Desk Reference (PDR).
+
+Contact Poison Control (1-800-222-1222) for the latest recommendations.

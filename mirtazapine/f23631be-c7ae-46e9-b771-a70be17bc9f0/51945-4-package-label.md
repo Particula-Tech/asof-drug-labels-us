@@ -1,7 +1,7 @@
-# PACKAGE LABEL.PRINCIPAL DISPLAY PANEL
+# PRINCIPAL DISPLAY PANEL-7.5mg
 
-Mirtazapine Tablets, USP 7.5 mg NDC 57664-510-83 Rx Only 30 Tablets ALKALOIDA Chemical Company Zrt.
+# PRINCIPAL DISPLAY PANEL-15mg
 
-Mirtazapine Tablets, USP 15 mg NDC 57664-499-83 Rx Only 30 Tablets ALKALOIDA Chemical Company Zrt.
-Mirtazapine Tablets, USP 30 mg NDC 57664-500-83 Rx Only 30 Tablets ALKALOIDA Chemical Company Zrt.
-Mirtazapine Tablets, USP 45 mg NDC 57664-501-83 Rx Only 30 Tablets ALKALOIDA Chemical Company Zrt.
+# PRINCIPAL DISPLAY PANEL-30mg
+
+# PRINCIPAL DISPLAY PANEL-45mg
