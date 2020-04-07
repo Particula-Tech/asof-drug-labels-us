@@ -27,10 +27,10 @@ Responses were seen as early as 4 weeks and new responses continued to be seen a
 
 In one post-approval clinical trial with a total of 59 subjects (29 in 300 mg/m2/day dose group and 30 in the 150 mg/m2/day dose), the objective response rate was higher in the TARGRETIN 300 mg/m2/day group than in the TARGRETIN 150 mg/m2/day group with respect to the CA (34.5% vs 23.3%), Physicians Global Assessment (PGA) (37.9% vs 20.0%), and percent BSA involvement (34.5% vs 23.3%).
 
-The median duration of response in the TARGRETIN 300 mg/m2/day group based on the CA, PGA, and percent BSA involvement was 86.5 days, 72.0 days and 60.0 days respectively.
-While in the TARGRETIN 150 mg/m2/day group the median duration of response based on the CA, PGA, and percent BSA involvement was 55 days, 119.0 days and 118.0 days respectively.
+The median duration of response in the TARGRETIN 300 mg/m2/day group based on the CA, PGA, and percent BSA involvement was 86.5 days, 72.0 days and 60.0 days, respectively.
+While in the TARGRETIN 150 mg/m2/day group the median duration of response based on the CA, PGA, and percent BSA involvement was 55 days, 119.0 days and 118.0 days, respectively.
 
-The median time to cutaneous tumor response (the time to cutaneous tumor response for a given subject is defined as the time interval from the first day of TARGRETIN treatment to the time of the first observation when the subject with subsequent confirmation of response meets criteria for CR, CCR or PR) in the TARGRETIN 300 mg/m2/day group based on the CA, PGA, and percent BSA involvement was 85 days, 98 days and 117.5 days respectively.
-While in the TARGRETIN 150 mg/m2/day group the median time to cutaneous tumor response based on the CA, PGA, and percent BSA involvement was 87 days, 57 days and 57 days respectively.
+The median time to cutaneous tumor response (the time to cutaneous tumor response for a given subject is defined as the time interval from the first day of TARGRETIN treatment to the time of the first observation when the subject with subsequent confirmation of response meets criteria for CR, CCR or PR) in the TARGRETIN 300 mg/m2/day group based on the CA, PGA, and percent BSA involvement was 85 days, 98 days and 117.5 days, respectively.
+While in the TARGRETIN 150 mg/m2/day group the median time to cutaneous tumor response based on the CA, PGA, and percent BSA involvement was 87 days, 57 days and 57 days, respectively.
 In the TARGRETIN 300 mg/m2/day group, the median time to cutaneous tumor progression based on the CA, PGA, and percent BSA involvement was 77.5, 115.5, and 88.0 days, respectively.
 In the TARGRETIN 150 mg/m2/day group, the median time to cutaneous tumor progression was 203.0 days based on the CA and 86.0 days based on percent BSA involvement; no subject in this treatment group had cutaneous tumor progression based on the PGA.

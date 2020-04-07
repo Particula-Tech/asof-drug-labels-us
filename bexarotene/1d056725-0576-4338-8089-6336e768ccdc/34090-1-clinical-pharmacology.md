@@ -2,7 +2,7 @@
 
 ## 12.1 Mechanism of Action
 
-Bexarotene selectively binds and activates retinoid X receptor subtypes (RXRα, RXRß, RXRᵞ).
+Bexarotene selectively binds and activates retinoid X receptor subtypes (RXRα, RXRß, RXRγ).
 RXRs can form heterodimers with various receptor partners such as retinoic acid receptors (RARs), vitamin D receptor, thyroid receptor, and peroxisome proliferator activator receptors (PPARs).
 Once activated, these receptors function as transcription factors that regulate the expression of genes that control cellular differentiation and proliferation.
 Bexarotene inhibits the growth in vitro of some tumor cell lines of hematopoietic and squamous cell origin.
@@ -22,7 +22,7 @@ Plasma bexarotene AUC and Cmax values resulting from a 75 to 300 mg dose were 35
 Distribution
 
 Bexarotene is highly bound (>99%) to plasma proteins.
-The plasma proteins to which bexarotene binds have not been elucidated, and the ability of bexarotene to displace drugs bound to plasma proteins and the ability of drugs to displace bexarotene binding have not been studied
+The plasma proteins to which bexarotene binds have not been elucidated, and the ability of bexarotene to displace drugs bound to plasma proteins and the ability of drugs to displace bexarotene binding have not been studied.
 
 Elimination
 
@@ -39,7 +39,7 @@ Urinary elimination of bexarotene and its known metabolites is a minor excretory
 
 Pharmacokinetics in Specific Populations
 
-Age: Based on the population pharmacokinetic analysis of data for 232 patients aged >65 years and 343 patients aged <65 years, age has no statistically significant effect on bexarotene pharmacokinetics.
+Age: Based on the population pharmacokinetic analysis of data for 232 patients aged ≥65 years and 343 patients aged <65 years, age has no statistically significant effect on bexarotene pharmacokinetics.
 
 Body Weight and Gender: Based on the population pharmacokinetics analysis of data for 614 patients with a weight range of 26 to 145 kg, the bexarotene apparent clearance increases with increasing body weight.
 Gender has no statistically significant effect on bexarotene pharmacokinetics.

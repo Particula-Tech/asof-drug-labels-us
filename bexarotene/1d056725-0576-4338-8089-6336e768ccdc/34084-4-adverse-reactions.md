@@ -67,7 +67,7 @@ Table 2: Adverse Events with Incidence ≥10% in CTCL Trials
 |  | Initial Assigned Dose Group(mg/m2/day) |  |
 | --- | --- | --- |
 |  | 300 | >300 |
-| Body System | N = 84 | N = 53 |
+| Body System | N=84 | N=53 |
 | Adverse EventPreferred English term coded according to Ligand-modified COSTART 5 Dictionary.,Patients are counted at most once in each AE category. | N (%) | N (%) |
 | METABOLIC AND NUTRITIONAL DISORDERS |  |  |
 | Hyperlipemia | 66 (79) | 42 (79) |
@@ -104,11 +104,11 @@ Table 2: Adverse Events with Incidence ≥10% in CTCL Trials
 | NERVOUS SYSTEM |  |  |
 | Insomnia | 4 (5) | 6 (11) |
 
-Table 3: Incidence of Moderately Severe and Severe Adverse Events Reported in at Least Two Patients (CTCL Trials)
+Table3: Incidence of Moderately Severe and Severe Adverse Events Reported in at Least Two Patients (CTCL Trials)
 
 |  | Initial Assigned Dose Group (mg/m2/day) |  |  |  |
 | --- | --- | --- | --- | --- |
-|  | 300 (N = 84) |  | >300 (N = 53) |  |
+|  | 300 (N=84) |  | >300 (N=53) |  |
 |  | Mod Sev | Severe | Mod Sev | Severe |
 | Body System |  |  |  |  |
 | Adverse EventPreferred English term coded according to Ligand-modified COSTART 5 Dictionary.,Patients are counted at most once in each AE category. Patients are classified by the highest severity within each row. | N (%) | N (%) | N (%) | N (%) |
@@ -116,7 +116,7 @@ Table 3: Incidence of Moderately Severe and Severe Adverse Events Reported in at
 | Asthenia | 1 (1) | 0 (0) | 11 (21) | 0 (0) |
 | Headache | 3 (4) | 0 (0) | 5 (9) | 1 (2) |
 | Infection bacterial | 1 (1) | 0 (0) | 0 (0) | 2 (4) |
-| CARDIOVASCULAR SYS. |  |  |  |  |
+| CARDIOVASCULAR SYSTEM |  |  |  |  |
 | Peripheral edema | 2 (2) | 1 (1) | 0 (0) | 0 (0) |
 | DIGESTIVE SYSTEM |  |  |  |  |
 | Anorexia | 0 (0) | 0 (0) | 3 (6) | 0 (0) |
@@ -125,12 +125,12 @@ Table 3: Incidence of Moderately Severe and Severe Adverse Events Reported in at
 | Vomiting | 0 (0) | 0 (0) | 2 (4) | 0 (0) |
 | ENDOCRINE |  |  |  |  |
 | Hypothyroidism | 1 (1) | 1 (1) | 2 (4) | 0 (0) |
-| HEM. & LYMPH. SYS. |  |  |  |  |
+| HEMIC AND LYMPHATIC SYSTEM |  |  |  |  |
 | Leukopenia | 3 (4) | 0 (0) | 6 (11) | 1 (2) |
-| META. AND NUTR. DIS. |  |  |  |  |
+| METABOLIC AND NUTRITIONAL DISORDERS |  |  |  |  |
 | Bilirubinemia | 0 (0) | 1 (1) | 2 (4) | 0 (0) |
 | Hypercholesteremia | 2 (2) | 0 (0) | 5 (9) | 0 (0) |
-| Hyperlipemia | 16 (19 | 6 (7) | 17 (32) | 5 (9) |
+| Hyperlipemia | 16 (19) | 6 (7) | 17 (32) | 5 (9) |
 | SGOT/AST increased | 0 (0) | 0 (0) | 2 (4) | 0 (0) |
 | SGPT/ALT increased | 0 (0) | 0 (0) | 2 (4) | 0 (0) |
 | RESPIRATORY SYSTEM |  |  |  |  |
@@ -139,12 +139,12 @@ Table 3: Incidence of Moderately Severe and Severe Adverse Events Reported in at
 | Exfoliative dermatitis | 0 (0) | 1 (1) | 3 (6) | 1 (2) |
 | Rash | 1 (1) | 2 (2) | 1 (2) | 0 (0) |
 
-Table 4: Treatment-Emergent Abnormal Laboratory Values in CTCL Trials
+Table4: Treatment-Emergent Abnormal Laboratory Values in CTCL Trials
 
 |  | Initial Assigned Dose (mg/m2/day) |  |  |  |
 | --- | --- | --- | --- | --- |
 |  | 300 |  | >300 |  |
-|  | N = 83Number of patients with at least one analyte value post-baseline. |  | N = 53 |  |
+|  | N=83Number of patients with at least one analyte value post-baseline. |  | N=53 |  |
 | Analyte | Grade 3Adapted from NCI Common Toxicity Criteria, Grade 3 and 4, Version 2.0. Patients are considered to have had a Grade 3 or 4 value if either of the following occurred: a) Value becomes Grade 3 or 4 during the study; b) Value is abnormal at baseline and worsens to Grade 3 or 4 on study, including all values beyond study drug discontinuation, as defined in data handling conventions.(%) | Grade 4(%) | Grade 3(%) | Grade 4(%) |
 | TriglyceridesThe denominator used to calculate the incidence rates for fasting Total Cholesterol and Triglycerides were N=75 for the 300 mg/m2/day initial dose group and N=44 for the >300 mg/m2/day initial dose group. | 21 | 7 | 32 | 14 |
 | Total Cholesterol | 19 | 7 | 16 | 30 |
@@ -164,10 +164,10 @@ Table 4: Treatment-Emergent Abnormal Laboratory Values in CTCL Trials
 
 The safety profile from the one post-approval trial with 59 subjects was generally comparable to that of the pivotal trials with the exception of serious adverse events hypertriglyceridemia, neutropenia and bone marrow failure which were observed more frequently in the TARGRETIN 300 mg/m2/day group than in the TARGRETIN 150 mg/m2/day group.
 
-Severe hypertriglyceridemia (>800 mg/dL) was not seen in any subject in the lower dosage arm.
+Severe hypertriglyceridemia (≥800 mg/dL) was not seen in any subject in the lower dosage arm.
 
 The most common AEs by preferred term in either the TARGRETIN 300 or 150 mg/m2/day treatment group were as follows: hypertriglyceridemia (18 subjects [62.1%] and 17 subjects [56.7%], respectively); hypothyroidism (15 subjects [51.7%] and 13 subjects [43.3%], respectively); headache (9 subjects [31.0%] and 7 subjects [23.3%], respectively); hypercholesterolemia (8 subjects [27.6%] and 7 subjects [23.3%], respectively); neutropenia (7 subjects [24.1%] and 2 subjects [6.7%], respectively); and skin exfoliation (5 subjects [17.2%] and 5 subjects [16.7%], respectively).
 
-Higher percentage of subjects in the TARGRETIN 300 mg/m2/day group than in TARGRETIN 150 mg/m2/day group experienced SAEs (13 subjects [44.8%] vs 11 subjects [36.7%], respectively.
+Higher percentage of subjects in the TARGRETIN 300 mg/m2/day group than in the TARGRETIN 150 mg/m2/day group experienced SAEs (13 subjects [44.8%] vs 11 subjects [36.7%], respectively.
 
-Of the SAEs of special interest, there were more events in the TARGRETIN 300 mg/m2/day group than in the TARGRETIN 150 mg/m2/day group of bone marrow failure (3 [10.3%] vs 1 [3.3%, respectively]), neutropenia (3 [10.3%] vs 0 [0%], respectively), and of hypertriglyceridemia (9 [31%] vs 2 [6.7%], respectively).
+Of the SAEs of special interest, there were more events in the TARGRETIN 300 mg/m2/day group than in TARGRETIN 150 mg/m2/day group of bone marrow failure (3 [10.3%] vs 1 [3.3%, respectively]), neutropenia (3 [10.3%] vs 0 [0%], respectively), and of hypertriglyceridemia (9 [31%] vs 2 [6.7%], respectively).

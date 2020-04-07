@@ -49,7 +49,7 @@ Leukopenia in the range of 1000 to <3000 WBC x 106/L occurred in 18% of patients
 Patients receiving an initial dose greater than 300 mg/m2/day of TARGRETIN had an incidence of leukopenia of 43%.
 No patient with CTCL treated with TARGRETIN developed leukopenia of less than 1000 WBC x 106/L.
 The usual time to onset of leukopenia was four to eight weeks after initiating TARGRETIN.
-The leukopenia observed in most patients was predominately neutropenia.
+The leukopenia observed in most patients was predominantly neutropenia.
 In the 300 mg/m2/day initial dose group, the incidence of NCI Grade 3 and Grade 4 neutropenia, respectively, was 12% and 4%.
 The leukopenia and neutropenia experienced during TARGRETIN therapy resolved after dose reduction or discontinuation of treatment, on average within 30 days in 93% of the patients with CTCL and 82% of patients with non-CTCL cancers.
 Leukopenia and neutropenia were rarely associated with severe sequelae or serious adverse events.
@@ -64,7 +64,7 @@ Patients treated with TARGRETIN who experience visual difficulties should have a
 
 ## 5.7 Vitamin A Supplementation Hazard
 
-In clinical studies, patients were advised to limit vitamin A intake to <15,000 IU/day.
+In clinical studies, patients were advised to limit vitamin A intake to ≤15,000 IU/day.
 Because of the relationship of bexarotene to vitamin A, patients should be advised to limit vitamin A supplements to avoid potential additive toxic effects.
 
 ## 5.8 Hypoglycemia Risk in Patients with Diabetes Mellitus

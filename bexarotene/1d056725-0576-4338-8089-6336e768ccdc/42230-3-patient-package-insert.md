@@ -90,7 +90,7 @@ TARGRETIN can cause serious side effects, including:
   Your healthcare provider may prescribe you medicines to treat high cholesterol or triglycerides levels, reduce your dose, temporarily stop treatment or completely stop treatment with TARGRETIN if you have this problem.
 - •Inflammation of the pancreas (acute pancreatitis).
   TARGRETIN can sometimes cause pancreatitis that comes on suddenly (acute), and that can lead to death.
-  Your risk of developing acute pancreatitis may greater if you:
+  Your risk of developing acute pancreatitis may be greater if you:
   - •have had pancreatitis in the past
   - •high levels of fats in your blood that are not controlled
   - •drink large amounts of alcohol
@@ -112,7 +112,7 @@ Tell your healthcare provider right away if you develop signs or symptoms of pan
 - •Low white blood cell count is common with TARGRETIN, but may sometimes be severe.
 - •New or worse cataracts.
   Tell your healthcare provider about any changes in your vision during treatment with TARGRETIN.
-  You may need to have any eye examination.
+  You may need to have an eye examination.
 - •Risk of low blood sugar in people who have diabetes.
   TARGRETIN can interact with certain medicines used to treat diabetes, such as insulin, sulfonylurea medicines, and thiazolinedione medicines.
   If you have diabetes, talk to your healthcare provider about your diabetes medicines and your risk for low blood sugar if you take TARGRETIN.
@@ -134,7 +134,7 @@ You may report side effects to FDA at 1-800-FDA-1088.
 
 How should I store TARGRETIN?
 
-- •Store TARGRETIN between 36°F to 77°F (2°C to 25°C).
+- •Store TARGRETIN between 36° to 77°F (2° to 25°C).
 - •Store the TARGRETIN bottle away from light, heat, and humidity.
 - •The capsules should not be taken after the expiration date printed on the bottle.
 
@@ -146,7 +146,7 @@ Medicines are sometimes prescribed for purposes other than those listed in a Pat
 Do not use TARGRETIN for a condition for which it was not prescribed.
 Do not give TARGRETIN to other people, even if they have the same symptoms that you have.
 It may harm them.
-You can ask your pharmacist or healthcare provider for information about TARGRETIN that is written for health professionals
+You can ask your pharmacist or healthcare provider for information about TARGRETIN that is written for health professionals.
 
 What are the ingredients in TARGRETIN?
 
@@ -159,9 +159,9 @@ Manufactured for: Valeant Pharmaceuticals North America LLC, Bridgewater, NJ 088
 
 By: Catalent Pharma Solutions LLC, St. Petersburg, FL 33716
 
-US Patent Number: 5,962,731
+U.S. Patent Number: 5,962,731
 
-Targretin is a trademark of Valeant Pharmaceuticals International, Inc, or its affiliates.
+Targretin is a trademark of Valeant Pharmaceuticals International, Inc. or its affiliates.
 
 Any other product/brand names are trademarks of their respective owners.
 
@@ -171,4 +171,5 @@ For more information, call 1-800-321-4576.
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 
-Revised: 10/2015
+Rev.
+10/2015

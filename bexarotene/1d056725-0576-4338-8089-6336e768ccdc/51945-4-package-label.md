@@ -6,8 +6,8 @@ Targretin® (bexarotene) capsules
 
 75 mg
 
-One (1) bottle of 100 capsules each
-
-Each capsule contains 75 mg bexarotene.
+100 Capsules
 
 Rx Only
+
+VALEANT

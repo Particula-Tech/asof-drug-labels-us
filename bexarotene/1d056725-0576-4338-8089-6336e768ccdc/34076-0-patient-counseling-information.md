@@ -7,7 +7,7 @@ Inform the patient or caregiver about the following:
 Birth Defects
 
 Advise patients that TARGRETIN is contraindicated in pregnancy [see Contraindications (4.1)].
-TARGRETIN is a member of the retinoid class of drugs that is associated with birth defects in humans [see Use in Specific Populations (8.1)].
+TARGRETIN is a member of the retinoid class of drugs that is associated with birth defects in humans [see Use In Specific Populations (8.1)].
 
 - •Advise females of reproductive potential that they must avoid pregnancy while taking TARGRETIN and for at least one month following discontinuation of therapy.
 - •Advise females of reproductive potential of the importance of monthly pregnancy testing while taking TARGRETIN.
@@ -35,7 +35,7 @@ Advise patients of the possibility of developing new or worsening cataracts and 
 
 Vitamin A Supplementation Hazard
 
-Advise patients to limit vitamin A intake to <15,000 IU/day to avoid potential additive toxic effects.
+Advise patients to limit vitamin A intake to ≤15,000 IU/day to avoid potential additive toxic effects.
 
 Hypoglycemia and Diabetes Mellitus
 
@@ -49,7 +49,7 @@ Advise patients of potential increased skin sensitivity to sunlight while taking
 Laboratory Tests
 
 Advise patients of laboratory testing which will occur during therapy to monitor lipids, liver function, thyroid function, and white blood cell counts [see Warnings and Precautions (5.10)].
-If applicable, advise patients of monthly pregnancy testing [see Use in Specific Populations (8.3)].
+If applicable, advise patients of monthly pregnancy testing [see Use In Specific Populations (8.3)].
 
 Administration Instructions
 
@@ -57,24 +57,18 @@ Advise patients to take TARGRETIN with a meal [see DOSAGE AND ADMINISTRATION].
 
 Manufactured for:
 
-Valeant Pharmaceuticals North America LLC
-
-Bridgewater, NJ 08807 USA
+Valeant Pharmaceuticals North America LLC Bridgewater, NJ 08807 USA
 
 By:
 
-Catalent Pharma Solutions LLC
+Catalent Pharma Solutions LLC St. Petersburg, FL 33716
 
-St. Petersburg, FL 33716
+U.S. Patent Number: 5,962,731
 
-US Patent Number: 5,962,731
-
-Targretinis a trademark of Valeant Pharmaceuticals International, Inc. or its affiliates.
-
-Any other product/brand names are trademarks of their respective owners.
-
-© Valeant Pharmaceuticals International, Inc.
+Targretin® is a trademark of Valeant Pharmaceuticals International, Inc. or its affiliates.
+Any other product/brand names are trademarks of their respective owners. © Valeant Pharmaceuticals International, Inc.
 
 9436600
 
-Revised: 10/2015
+Rev.
+10/2015
