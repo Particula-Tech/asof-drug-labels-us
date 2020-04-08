@@ -69,12 +69,12 @@ Severe and Disabling Arthralgia
 
 Inform patients that severe and disabling joint pain may occur with this class of drugs.
 The time to onset of symptoms can range from one day to years.
-Instruct patients to seek medical advice if severe joint pain occurs [see Warnings and Precautions (5.12)].
+Instruct patients to seek medical advice if severe joint pain occurs [see Warnings and Precautions (5.11)].
 
 Bullous Pemphigoid
 
 Inform patients that bullous pemphigoid has been reported during use of linagliptin.
-Instruct patients to seek medical advice if blisters or erosions occur [see Warnings and Precautions (5.13)].
+Instruct patients to seek medical advice if blisters or erosions occur [see Warnings and Precautions (5.12)].
 
 Laboratory Tests
 

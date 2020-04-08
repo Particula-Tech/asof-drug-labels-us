@@ -66,7 +66,7 @@ Empagliflozin
 The pharmacokinetics of empagliflozin has been characterized in healthy volunteers and patients with type 2 diabetes and no clinically relevant differences were noted between the two populations.
 After oral administration, peak plasma concentrations of empagliflozin were reached at 1.5 hours post-dose.
 Thereafter, plasma concentrations declined in a biphasic manner with a rapid distribution phase and a relatively slow terminal phase.
-The steady state mean plasma AUC and Cmax were 1870 nmol∙h/L and 259 nmol/L, respectively, with 10 mg empagliflozin once daily treatment, and 4740 nmol∙h/L and 687 nmol/L, respectively, with 25 mg empagliflozin once daily treatment.
+The steady-state mean plasma AUC and Cmax were 1870 nmol∙h/L and 259 nmol/L, respectively, with 10 mg empagliflozin once daily treatment, and 4740 nmol∙h/L and 687 nmol/L, respectively, with 25 mg empagliflozin once daily treatment.
 Systemic exposure of empagliflozin increased in a dose-proportional manner in the therapeutic dose range.
 The single-dose and steady-state pharmacokinetic parameters of empagliflozin were similar, suggesting linear pharmacokinetics with respect to time.
 
@@ -88,7 +88,7 @@ Following administration of an oral [14C]-empagliflozin solution to healthy subj
 
 Linagliptin
 
-The mean apparent volume of distribution at steady state following a single intravenous dose of linagliptin 5 mg to healthy subjects is approximately 1110 L, indicating that linagliptin extensively distributes to the tissues.
+The mean apparent volume of distribution at steady-state following a single intravenous dose of linagliptin 5 mg to healthy subjects is approximately 1110 L, indicating that linagliptin extensively distributes to the tissues.
 Plasma protein binding of linagliptin is concentration-dependent, decreasing from about 99% at 1 nmol/L to 75% to 89% at ≥30 nmol/L, reflecting saturation of binding to DPP-4 with increasing concentration of linagliptin.
 At high concentrations, where DPP-4 is fully saturated, 70% to 80% of linagliptin remains bound to plasma proteins and 20% to 30% is unbound in plasma.
 Plasma binding is not altered in patients with renal or hepatic impairment.
@@ -118,7 +118,7 @@ The majority of drug-related radioactivity recovered in feces was unchanged pare
 Linagliptin
 
 Following administration of an oral [14C]-linagliptin dose to healthy subjects, approximately 85% of the administered radioactivity was eliminated via the enterohepatic system (80%) or urine (5%) within 4 days of dosing.
-Renal clearance at steady state was approximately 70 mL/min.
+Renal clearance at steady-state was approximately 70 mL/min.
 
 Specific Populations
 
@@ -188,9 +188,7 @@ Empagliflozin does not inhibit any of these human uptake transporters at clinica
 
 In vivo Assessment of Drug Interactions
 
-No dose adjustment of empagliflozin is recommended when coadministered with commonly prescribed medicinal products based on results of the described pharmacokinetic studies.
 Empagliflozin pharmacokinetics were similar with and without coadministration of metformin, glimepiride, pioglitazone, sitagliptin, linagliptin, warfarin, verapamil, ramipril, and simvastatin in healthy volunteers and with or without coadministration of hydrochlorothiazide and torsemide in patients with type 2 diabetes (see Figure 1).
-The observed increases in overall exposure (AUC) of empagliflozin following coadministration with gemfibrozil, rifampicin, or probenecid are not clinically relevant.
 In subjects with normal renal function, coadministration of empagliflozin with probenecid resulted in a 30% decrease in the fraction of empagliflozin excreted in urine without any effect on 24-hour urinary glucose excretion.
 The relevance of this observation to patients with renal impairment is unknown.
 
@@ -198,13 +196,11 @@ Figure 1 Effect of Various Medications on the Pharmacokinetics of Empagliflozin 
 
 aempagliflozin, 50 mg, once daily; bempagliflozin, 25 mg, single dose; cempagliflozin, 25 mg, once daily; dempagliflozin, 10 mg, single dose
 
-eCoadministration of empagliflozin with an insulin secretagogue (e.g., sulfonylurea) or insulin may require lower doses of the insulin secretagogue or insulin to reduce the risk of hypoglycemia [see Warnings and Precautions (5.7) and Drug Interactions (7.3)].
-
 Empagliflozin had no clinically relevant effect on the pharmacokinetics of metformin, glimepiride, pioglitazone, sitagliptin, linagliptin, warfarin, digoxin, ramipril, simvastatin, hydrochlorothiazide, torsemide, and oral contraceptives when coadministered in healthy volunteers (see Figure 2).
 
 Figure 2 Effect of Empagliflozin on the Pharmacokinetics of Various Medications as Displayed as 90% Confidence Interval of Geometric Mean AUC and Cmax Ratios [reference lines indicate 100% (80% - 125%)]
 
-aempagliflozin, 50 mg, once daily; bempagliflozin, 25 mg, once daily; cempagliflozin, 25 mg, single dose; dadministered as simvastatin; eadministered as warfarin racemic mixture; fadministered as Microgynon®; gadministered as ramipril hCoadministration of empagliflozin with an insulin secretagogue (e.g., sulfonylurea) or insulin may require lower doses of the insulin secretagogue or insulin to reduce the risk of hypoglycemia [see Warnings and Precautions (5.7) and Drug Interactions (7.3)].
+aempagliflozin, 50 mg, once daily; bempagliflozin, 25 mg, once daily; cempagliflozin, 25 mg, single dose; dadministered as simvastatin; eadministered as warfarin racemic mixture; fadministered as Microgynon®; gadministered as ramipril
 
 Linagliptin
 
@@ -217,54 +213,50 @@ Based on these results and in vivo drug interaction studies, linagliptin is cons
 
 In vivo Assessment of Drug Interactions
 
-Strong inducers of CYP3A4 or P-gp (e.g., rifampin) decrease exposure to linagliptin to subtherapeutic and likely ineffective concentrations.
-For patients requiring use of such drugs, an alternative to linagliptin is strongly recommended.
+Strong inducers of CYP3A4 or P-gp (e.g., rifampin) decrease exposure to linagliptin to subtherapeutic and likely ineffective concentrations [see Drug Interactions (7.2)].
 In vivo studies indicated evidence of a low propensity for causing drug interactions with substrates of CYP3A4, CYP2C9, CYP2C8, P-gp and organic cationic transporter (OCT).
-No dose adjustment of linagliptin is recommended based on results of the described pharmacokinetic studies.
 
 Table 3 Effect of Coadministered Drugs on Systemic Exposure of Linagliptin
 
-| AUCe | Cmax |  |  |  |
+| AUCd | Cmax |  |  |  |
 | --- | --- | --- | --- | --- |
 | Coadministered Drug | Dosing of Coadministered Druga | Dosing of Linagliptina | Geometric Mean Ratio (ratio with/without coadministered drug) No effect = 1.0 |  |
 | Metformin | 850 mg TID | 10 mg QD | 1.20 | 1.03 |
-| Glyburideb | 1.75 mgd | 5 mg QD | 1.02 | 1.01 |
+| Glyburide | 1.75 mgc | 5 mg QD | 1.02 | 1.01 |
 | Pioglitazone | 45 mg QD | 10 mg QD | 1.13 | 1.07 |
-| Ritonavir | 200 mg BID | 5 mgd | 2.01 | 2.96 |
-| Rifampinc | 600 mg QD | 5 mg QD | 0.60 | 0.56 |
-| aMultiple dose (steady state) unless otherwise noted |  |  |  |  |
-| bCoadministration of linagliptin with an insulin secretagogue (e.g., sulfonylurea) or insulin may require lower doses of the insulin secretagogue or insulin to reduce the risk of hypoglycemia [see Warnings and Precautions (5.7) and Drug Interactions (7.3)]. |  |  |  |  |
-| cFor information regarding clinical recommendations [see Drug Interactions (7.2)]. |  |  |  |  |
-| dSingle dose |  |  |  |  |
-| eAUC = AUC(0 to 24 hours) for single dose treatments and AUC = AUC(TAU) for multiple dose treatments |  |  |  |  |
+| Ritonavir | 200 mg BID | 5 mgc | 2.01 | 2.96 |
+| Rifampinb | 600 mg QD | 5 mg QD | 0.60 | 0.56 |
+| aMultiple dose (steady-state) unless otherwise noted |  |  |  |  |
+| bFor information regarding clinical recommendations [see Drug Interactions (7.2)]. |  |  |  |  |
+| cSingle dose |  |  |  |  |
+| dAUC = AUC(0 to 24 hours) for single dose treatments and AUC = AUC(TAU) for multiple-dose treatments |  |  |  |  |
 | QD = once daily |  |  |  |  |
 | BID = twice daily |  |  |  |  |
 | TID = three times daily |  |  |  |  |
 
 Table 4 Effect of Linagliptin on Systemic Exposure of Coadministered Drugs
 
-|  | AUCd | Cmax |  |  |  |
+|  | AUCc | Cmax |  |  |  |
 | --- | --- | --- | --- | --- | --- |
 | Coadministered Drug | Dosing of Coadministered Druga | Dosing of Linagliptina | Geometric Mean Ratio (ratio with/without coadministered drug) No effect = 1.0 |  |  |
 | Metformin | 850 mg TID | 10 mg QD | metformin | 1.01 | 0.89 |
-| Glyburideb | 1.75 mgc | 5 mg QD | glyburide | 0.86 | 0.86 |
+| Glyburide | 1.75 mgb | 5 mg QD | glyburide | 0.86 | 0.86 |
 | Pioglitazone | 45 mg QD | 10 mg QD | pioglitazone | 0.94 | 0.86 |
 | metabolite M-III | 0.98 | 0.96 |  |  |  |
 | metabolite M-IV | 1.04 | 1.05 |  |  |  |
 | Digoxin | 0.25 mg QD | 5 mg QD | digoxin | 1.02 | 0.94 |
 | Simvastatin | 40 mg QD | 10 mg QD | simvastatin | 1.34 | 1.10 |
 | simvastatin acid | 1.33 | 1.21 |  |  |  |
-| Warfarin | 10 mgc | 5 mg QD | R-warfarin | 0.99 | 1.00 |
+| Warfarin | 10 mgb | 5 mg QD | R-warfarin | 0.99 | 1.00 |
 | S-warfarin | 1.03 | 1.01 |  |  |  |
-| INR | 0.93e | 1.04e |  |  |  |
-| PT | 1.03e | 1.15e |  |  |  |
+| INR | 0.93d | 1.04d |  |  |  |
+| PT | 1.03d | 1.15d |  |  |  |
 | Ethinylestradiol and levonorgestrel | ethinylestradiol 0.03 mg and levonorgestrel 0.150 mg QD | 5 mg QD | ethinylestradiol | 1.01 | 1.08 |
 | levonorgestrel | 1.09 | 1.13 |  |  |  |
-| aMultiple dose (steady state) unless otherwise noted |  |  |  |  |  |
-| bCoadministration of linagliptin with an insulin secretagogue (e.g., sulfonylurea) or insulin may require lower doses of the insulin secretagogue or insulin to reduce the risk of hypoglycemia [see Warnings and Precautions (5.7) and Drug Interactions (7.3)]. |  |  |  |  |  |
-| cSingle dose |  |  |  |  |  |
-| dAUC = AUC(INF) for single dose treatments and AUC = AUC(TAU) for multiple dose treatments |  |  |  |  |  |
-| eAUC=AUC(0-168) and Cmax=Emax for pharmacodynamic end points |  |  |  |  |  |
+| aMultiple dose (steady-state) unless otherwise noted |  |  |  |  |  |
+| bSingle dose |  |  |  |  |  |
+| cAUC = AUC(INF) for single dose treatments and AUC = AUC(TAU) for multiple dose treatments |  |  |  |  |  |
+| dAUC=AUC(0-168) and Cmax = Emax for pharmacodynamic end points |  |  |  |  |  |
 | INR = International Normalized Ratio |  |  |  |  |  |
 | PT = Prothrombin Time |  |  |  |  |  |
 | QD = once daily |  |  |  |  |  |

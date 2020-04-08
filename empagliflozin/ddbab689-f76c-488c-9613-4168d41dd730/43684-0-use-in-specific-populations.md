@@ -11,11 +11,11 @@ There are risks to the mother and fetus associated with poorly controlled diabet
 
 In animal studies, adverse renal changes were observed in rats when empagliflozin was administered during a period of renal development corresponding to the late second and third trimesters of human pregnancy.
 Doses approximately 13-times the maximum clinical dose caused renal pelvic and tubule dilatations that were reversible.
-No adverse developmental effects were observed when the combination of linagliptin and empagliflozin was administered to pregnant rats during the period of organogenesis at exposures approximately 253 and 353 times the clinical exposure (see Data).
+No adverse developmental effects were observed when the combination of linagliptin and empagliflozin was administered to pregnant rats during the period of organogenesis at exposures approximately 253- and 353-times the clinical exposure (see Data).
 
-The estimated background risk of major birth defects is 6-10% in women with pre-gestational diabetes with a HbA1c >7 and has been reported to be as high as 20-25% in women with HbA1c >10.
+The estimated background risk of major birth defects is 6% to 10% in women with pre-gestational diabetes with a HbA1c >7 and has been reported to be as high as 20% to 25% in women with HbA1c >10.
 The estimated background risk of miscarriage for the indicated population is unknown.
-In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2-4% and 15-20%, respectively.
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively.
 
 Clinical Considerations
 
@@ -26,7 +26,7 @@ Data
 
 Animal Data
 
-The combined components administered during the period of organogenesis were not teratogenic in rats up to and including a combined dose of 700 mg/kg/day empagliflozin and 140 mg/kg/day linagliptin, which is 253 and 353 times the clinical exposure.
+The combined components administered during the period of organogenesis were not teratogenic in rats up to and including a combined dose of 700 mg/kg/day empagliflozin and 140 mg/kg/day linagliptin, which is 253- and 353-times the clinical exposure.
 A pre- and post-natal development study was not conducted with the combined components of GLYXAMBI.
 
 Empagliflozin: Empagliflozin dosed directly to juvenile rats from postnatal day (PND) 21 until PND 90 at doses of 1, 10, 30, and 100 mg/kg/day caused increased kidney weights and renal tubular and pelvic dilatation at 100 mg/kg/day, which approximates 13-times the maximum clinical dose of 25 mg, based on AUC.
@@ -39,12 +39,12 @@ In rats, at higher doses of empagliflozin causing maternal toxicity, malformatio
 Empagliflozin crosses the placenta and reaches fetal tissues in rats.
 In the rabbit, higher doses of empagliflozin resulted in maternal and fetal toxicity at 700 mg/kg/day, or 139-times the 25 mg maximum clinical dose.
 
-In pre- and postnatal development studies in pregnant rats, empagliflozin was administered from gestation day 6 through to lactation day 20 (weaning) at up to 100 mg/kg/day (approximately 16 times the 25 mg maximum clinical dose) without maternal toxicity.
-Reduced body weight was observed in the offspring at greater than or equal to 30 mg/kg/day (approximately 4 times the 25 mg maximum clinical dose).
+In pre- and postnatal development studies in pregnant rats, empagliflozin was administered from gestation day 6 through to lactation day 20 (weaning) at up to 100 mg/kg/day (approximately 16-times the 25 mg maximum clinical dose) without maternal toxicity.
+Reduced body weight was observed in the offspring at greater than or equal to 30 mg/kg/day (approximately 4-times the 25 mg maximum clinical dose).
 
 Linagliptin: No adverse developmental outcome was observed when linagliptin was administered to pregnant Wistar Han rats and Himalayan rabbits during the period of organogenesis at doses up to 240 mg/kg/day and 150 mg/kg/day, respectively.
-These doses represent approximately 943 times (rats) and 1943 times (rabbits) the 5 mg maximum clinical dose, based on exposure.
-No adverse functional, behavioral, or reproductive outcome was observed in offspring following administration of linagliptin to Wistar Han rats from gestation day 6 to lactation day 21 at a dose 49 times the maximum recommended human dose, based on exposure.
+These doses represent approximately 943-times (rats) and 1943-times (rabbits) the 5 mg maximum clinical dose, based on exposure.
+No adverse functional, behavioral, or reproductive outcome was observed in offspring following administration of linagliptin to Wistar Han rats from gestation day 6 to lactation day 21 at a dose 49-times the maximum recommended human dose, based on exposure.
 
 Linagliptin crosses the placenta into the fetus following oral dosing in pregnant rats and rabbits.
 
@@ -61,7 +61,7 @@ Because of the potential for serious adverse reactions in a breastfed infant, in
 Data
 
 Empagliflozin was present at a low level in rat fetal tissues after a single oral dose to the dams at gestation day 18.
-In rat milk, the mean milk to plasma ratio ranged from 0.634 -5, and was greater than one from 2 to 24 hours post-dose.
+In rat milk, the mean milk to plasma ratio ranged from 0.634 to 5, and was greater than one from 2 to 24 hours post-dose.
 The mean maximal milk to plasma ratio of 5 occurred at 8 hours post-dose, suggesting accumulation of empagliflozin in the milk.
 Juvenile rats directly exposed to empagliflozin showed a risk to the developing kidney (renal pelvic and tubular dilatations) during maturation.
 

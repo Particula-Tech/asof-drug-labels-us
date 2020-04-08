@@ -50,12 +50,12 @@ Ensure risk factors for ketoacidosis are resolved prior to restarting GLYXAMBI.
 
 Educate patients on the signs and symptoms of ketoacidosis and instruct patients to discontinue GLYXAMBI and seek medical attention immediately if signs and symptoms occur.
 
-## 5.5 Acute Kidney Injury and Impairment in Renal Function
+## 5.5 Acute Kidney Injury
 
 Empagliflozin causes intravascular volume contraction [see Warnings and Precautions (5.3)] and can cause renal impairment [see Adverse Reactions (6.1)].
 There have been postmarketing reports of acute kidney injury, some requiring hospitalization and dialysis, in patients receiving SGLT2 inhibitors, including empagliflozin; some reports involved patients younger than 65 years of age.
 
-Before initiating GLYXAMBI, consider factors that may predispose patients to acute kidney injury including hypovolemia, chronic renal insufficiency, congestive heart failure and concomitant medications (diuretics, ACE inhibitors, ARBs, NSAIDs).
+Before initiating GLYXAMBI, consider factors that may predispose patients to acute kidney injury including hypovolemia, chronic renal impairment, heart failure and concomitant medications (diuretics, ACE inhibitors, ARBs, NSAIDs).
 Consider temporarily discontinuing GLYXAMBI in any setting of reduced oral intake (such as acute illness or fasting) or fluid losses (such as gastrointestinal illness or excessive heat exposure); monitor patients for signs and symptoms of acute kidney injury.
 If acute kidney injury occurs, discontinue GLYXAMBI promptly and institute treatment.
 
@@ -98,7 +98,7 @@ Monitor and treat as appropriate.
 
 There have been postmarketing reports of serious hypersensitivity reactions in patients treated with linagliptin (one of the components of GLYXAMBI).
 These reactions include anaphylaxis, angioedema, and exfoliative skin conditions.
-Onset of these reactions occurred within the first 3 months after initiation of treatment with linagliptin, with some reports occurring after the first dose.
+Onset of these reactions occurred predominantly within the first 3 months after initiation of treatment with linagliptin, with some reports occurring after the first dose.
 
 Angioedema has also been reported with other dipeptidyl peptidase-4 (DPP-4) inhibitors.
 Use caution in a patient with a history of angioedema to another DPP-4 inhibitor because it is unknown whether such patients will be predisposed to angioedema with GLYXAMBI.
@@ -108,12 +108,7 @@ There have been postmarketing reports of serious hypersensitivity reactions, (e.
 If a hypersensitivity reaction occurs, discontinue GLYXAMBI, treat promptly per standard of care, and monitor until signs and symptoms resolve.
 GLYXAMBI is contraindicated in patients with a previous serious hypersensitivity reaction to linagliptin or empagliflozin [see Contraindications (4)].
 
-## 5.11 Increased Low-Density Lipoprotein Cholesterol (LDL-C)
-
-Increases in LDL-C can occur with empagliflozin [see Adverse Reactions (6.1)].
-Monitor and treat as appropriate.
-
-## 5.12 Severe and Disabling Arthralgia
+## 5.11 Severe and Disabling Arthralgia
 
 There have been postmarketing reports of severe and disabling arthralgia in patients taking DPP-4 inhibitors.
 The time to onset of symptoms following initiation of drug therapy varied from one day to years.
@@ -121,7 +116,7 @@ Patients experienced relief of symptoms upon discontinuation of the medication.
 A subset of patients experienced a recurrence of symptoms when restarting the same drug or a different DPP-4 inhibitor.
 Consider as a possible cause for severe joint pain and discontinue drug if appropriate.
 
-## 5.13 Bullous Pemphigoid
+## 5.12 Bullous Pemphigoid
 
 Bullous pemphigoid was reported in 7 (0.2%) patients treated with linagliptin compared to none in patients treated with placebo in the CARMELINA trial [see Clinical Studies (14.3)], and 3 of these patients were hospitalized due to bullous pemphigoid.
 Postmarketing cases of bullous pemphigoid requiring hospitalization have been reported with DPP-4 inhibitor use.

@@ -7,7 +7,7 @@ Add-on Combination Therapy with Metformin
 A total of 686 patients with type 2 diabetes participated in a double-blind, active-controlled study to evaluate the efficacy and safety of empagliflozin 10 mg or 25 mg in combination with linagliptin 5 mg compared to the individual components.
 
 Patients with type 2 diabetes inadequately controlled on at least 1500 mg of metformin per day entered a single-blind placebo run-in period for 2 weeks.
-At the end of the run-in period, patients who remained inadequately controlled and had an HbA1c between 7 and 10.5% were randomized 1:1:1:1:1 to one of 5 active-treatment arms of empagliflozin 10 mg or 25 mg, linagliptin 5 mg, or linagliptin 5 mg in combination with 10 mg or 25 mg empagliflozin as a fixed dose combination tablet.
+At the end of the run-in period, patients who remained inadequately controlled and had an HbA1c between 7% and 10.5% were randomized 1:1:1:1:1 to one of 5 active-treatment arms of empagliflozin 10 mg or 25 mg, linagliptin 5 mg, or linagliptin 5 mg in combination with 10 mg or 25 mg empagliflozin as a fixed dose combination tablet.
 
 At Week 24, empagliflozin 10 mg or 25 mg used in combination with linagliptin 5 mg provided statistically significant improvement in HbA1c (p-value <0.0001) and FPG (p-value <0.001) compared to the individual components in patients who had been inadequately controlled on metformin (see Table 5, Figure 3).
 Treatment with GLYXAMBI 25 mg/5 mg or GLYXAMBI 10 mg/5 mg daily also resulted in a statistically significant reduction in body weight compared to linagliptin 5 mg (p-value <0.0001).
@@ -46,7 +46,6 @@ Figure 3 Adjusted Mean HbA1c Change at Each Time Point (Completers) and at Week 
 ## 14.2 Empagliflozin Cardiovascular Outcome Study in Patients with Type 2 Diabetes Mellitus and Atherosclerotic Cardiovascular Disease
 
 Empagliflozin is indicated to reduce the risk of cardiovascular death in adults with type 2 diabetes mellitus and established cardiovascular disease.
-However, the effectiveness of GLYXAMBI on reducing the risk of cardiovascular death in adults with type 2 diabetes mellitus and established cardiovascular disease has not been established.
 The effect of empagliflozin on cardiovascular risk in adult patients with type 2 diabetes and established, stable, atherosclerotic cardiovascular disease is presented below.
 
 The EMPA-REG OUTCOME study, a multicenter, multi-national, randomized, double-blind parallel group trial compared the risk of experiencing a major adverse cardiovascular event (MACE) between empagliflozin and placebo when these were added to and used concomitantly with standard of care treatments for diabetes and atherosclerotic cardiovascular disease.
@@ -62,18 +61,18 @@ The mean HbA1c at baseline was 8.1% and 57% of participants had diabetes for mor
 Approximately 31%, 22% and 20% reported a past history of neuropathy, retinopathy and nephropathy to investigators respectively and the mean eGFR was 74 mL/min/1.73 m2.
 At baseline, patients were treated with one (~30%) or more (~70%) antidiabetic medications including metformin (74%), insulin (48%), sulfonylurea (43%) and dipeptidyl peptidase-4 inhibitor (11%).
 
-All patients had established atherosclerotic cardiovascular disease at baseline including one (82%) or more (18%) of the following; a documented history of coronary artery disease (76%), stroke (23%) or peripheral artery disease (21%).
+All patients had established atherosclerotic cardiovascular disease at baseline including one (82%) or more (18%) of the following: a documented history of coronary artery disease (76%), stroke (23%) or peripheral artery disease (21%).
 At baseline, the mean systolic blood pressure was 136 mmHg, the mean diastolic blood pressure was 76 mmHg, the mean LDL was 86 mg/dL, the mean HDL was 44 mg/dL, and the mean urinary albumin to creatinine ratio (UACR) was 175 mg/g.
 At baseline, approximately 81% of patients were treated with renin angiotensin system inhibitors, 65% with beta-blockers, 43% with diuretics, 77% with statins, and 86% with antiplatelet agents (mostly aspirin).
 
 The primary endpoint in EMPA-REG OUTCOME was the time to first occurrence of a Major Adverse Cardiac Event (MACE).
-A major adverse cardiac event was defined as occurrence of either a cardiovascular death or a nonfatal myocardial infarction (MI) or a nonfatal stroke.
+A major adverse cardiac event was defined as occurrence of either a cardiovascular death or a non-fatal myocardial infarction (MI) or a non-fatal stroke.
 The statistical analysis plan had pre-specified that the 10 and 25 mg doses would be combined.
 A Cox proportional hazards model was used to test for non-inferiority against the pre-specified risk margin of 1.3 for the hazard ratio of MACE and superiority on MACE if non-inferiority was demonstrated.
 Type-1 error was controlled across multiples tests using a hierarchical testing strategy.
 
 Empagliflozin significantly reduced the risk of first occurrence of primary composite endpoint of cardiovascular death, non-fatal myocardial infarction, or non-fatal stroke (HR: 0.86; 95% CI 0.74, 0.99).
-The treatment effect was due to a significant reduction in the risk of cardiovascular death in subjects randomized to empagliflozin (HR: 0.62; 95% CI 0.49, 0.77), with no change in the risk of non-fatal myocardial infarction or non-fatal stroke (see Table 6 and Figure 4 and 5).
+The treatment effect was due to a significant reduction in the risk of cardiovascular death in subjects randomized to empagliflozin (HR: 0.62; 95% CI 0.49, 0.77), with no change in the risk of non-fatal myocardial infarction or non-fatal stroke (see Table 6 and Figures 4 and 5).
 Results for the 10 mg and 25 mg empagliflozin doses were consistent with results for the combined dose groups.
 
 Table 6 Treatment Effect for the Primary Composite Endpoint, and its Componentsa
@@ -99,7 +98,9 @@ A total of 463 deaths were recorded during the EMPA-REG OUTCOME trial.
 Most of these deaths were categorized as cardiovascular deaths.
 The non-cardiovascular deaths were only a small proportion of deaths, and were balanced between the treatment groups (2.1% in patients treated with empagliflozin, and 2.4% of patients treated with placebo).
 
-## 14.3 Linagliptin Cardiovascular Safety Trial
+## 14.3 Linagliptin Cardiovascular Safety Trials
+
+CARMELINA
 
 The cardiovascular risk of linagliptin was evaluated in CARMELINA, a multi-national, multi-center, placebo-controlled, double-blind, parallel group trial comparing linagliptin (N=3494) to placebo (N=3485) in adult patients with type 2 diabetes mellitus and a history of established macrovascular and/or renal disease.
 The trial compared the risk of major adverse cardiovascular events (MACE) between linagliptin and placebo when these were added to standard of care treatments for diabetes and other cardiovascular risk factors.
@@ -114,24 +115,30 @@ The mean eGFR was 55 mL/min/1.73 m2 and 27% of patients had mild renal impairmen
 Patients were taking at least one antidiabetic drug (97%), and the most common were insulin and analogues (57%), metformin (54%) and sulfonylurea (32%).
 Patients were also taking antihypertensives (96%), lipid lowering drugs (76%) with 72% on statin, and aspirin (62%).
 
-The primary endpoint, MACE, was the time to first occurrence of one of three composite outcomes which included cardiovascular death, nonfatal myocardial infarction or nonfatal stroke.
-The study was designed as a non-inferiority trial with a pre-specified risk margin of 1.3 for the hazard ratio of MACE.
-
-The results of CARMELINA, including the contribution of each component to the primary composite endpoint, are shown in Table 7.
+The primary endpoint, MACE, was the time to first occurrence of one of three composite outcomes which included cardiovascular death, non-fatal myocardial infarction or non-fatal stroke.
+The study was designed as a non-inferiority trial with a pre-specified risk margin of 1.3 for the hazard ratio of MACE.A total of 434 patients on linagliptin and 420 patients on placebo experienced MACE.
+The incidence rate of MACE in both treatment arms: 56.3 MACE per 1000 patient-years on placebo vs. 57.7 MACE per 1000 patient-years on linagliptin.
 The estimated hazard ratio for MACE associated with linagliptin relative to placebo was 1.02 with a 95% confidence interval of (0.89, 1.17).
 The upper bound of this confidence interval, 1.17, excluded the risk margin of 1.3.
-The Kaplan-Meier curve depicting time to first occurrence of MACE is shown in Figure 6.
 
-Table 7 Major Adverse Cardiovascular Events (MACE) by Treatment Group in the CARMELINA Trial
+CAROLINA
 
-|  | Number of Subjects (%) | Incidence Rate per 1000 PYa | Number of Subjects (%) | Incidence Rate per 1000 PYa | (95% CI) |
-| --- | --- | --- | --- | --- | --- |
-|  | Linagliptin 5 mg n = 3494 |  | Placebo n = 3485 |  | Hazard Ratio |
-| Composite of first event of CV death, non-fatal myocardial infarction (MI), or non-fatal stroke (MACE) | 434 (12.4) | 57.7 | 420 (12.1) | 56.3 | 1.02 (0.89, 1.17) |
-| CV deathb | 255 (7.3) | 32.6 | 264 (7.6) | 34.0 | 0.96 (0.81, 1.14) |
-| Non-fatal MIb | 156 (4.5) | 20.6 | 135 (3.9) | 18.0 | 1.15 (0.91, 1.45) |
-| Non-fatal strokeb | 65 (1.9) | 8.5 | 73 (2.1) | 9.6 | 0.88 (0.63, 1.23) |
-| aPY=patient years |  |  |  |  |  |
-| bA patient may have experienced more than one component; therefore, the sum of the components is larger than the number of patients who experienced the composite outcome. |  |  |  |  |  |
+The cardiovascular risk of linagliptin was evaluated in CAROLINA, a multi-center, multi-national, randomized, double-blind parallel group trial comparing linagliptin (N=3023) to glimepiride (N=3010) in adult patients with type 2 diabetes mellitus and a history of established cardiovascular disease and/or multiple cardiovascular risk factors.
+The trial compared the risk of major adverse cardiovascular events (MACE) between linagliptin and glimepiride when these were added to standard of care treatments for diabetes and other cardiovascular risk factors.
+The trial was event driven, the median duration of follow-up was 6.23 years and vital status was obtained for 99.3% of patients.
 
-Figure 6 Kaplan-Meier: Time to First Occurrence of MACE in the CARMELINA Trial
+Patients were eligible to enter the trial if they were adults with type 2 diabetes with insufficient glycemic control (defined as HbA1c of 6.5% to 8.5% or 6.5% to 7.5% depending on treatment-naïve, on monotherapy or on combination therapy), and were defined to be at high cardiovascular risk with previous vascular disease, evidence of vascular related end-organ damage, age ≥70 years, and/or two cardiovascular risk factors (duration of diabetes >10 years, systolic blood pressure >140 mmHg, current smoker, LDL cholesterol ≥135 mg/dL).
+
+At baseline the mean age was 64 years and the population was 60% male, 73% Caucasian, 18% Asian, and 5% Black.
+The mean HbA1c was 7.15% and mean duration of type 2 diabetes was 7.6 years.
+The trial population included 34% patients ≥70 years of age and 19% patients with renal impairment defined as eGFR <60 mL/min/1.73 m2.
+The mean eGFR was 77 mL/min/1.73 m2.
+Patients were taking at least one antidiabetic drug (91%) and the most common were metformin (83%) and sulfonylurea (28%).
+Patients were also taking antihypertensives (89%), lipid lowering drugs (70%) with 65% on statin, and aspirin (47%).
+
+The primary endpoint, MACE, was the time to first occurrence of one of three composite outcomes which included cardiovascular death, non-fatal myocardial infarction or non-fatal stroke.
+The study was designed as a non-inferiority trial with a pre-specified risk margin of 1.3 for the hazard ratio of MACE.
+A total of 356 patients on linagliptin and 362 patients on glimepiride experienced MACE.
+The incidence rate of MACE in both treatment arms: 20.7 MACE per 1000 patient-years on linagliptin vs. 21.2 MACE per 1000 patient-years on glimepiride.
+The estimated hazard ratio for MACE associated with linagliptin relative to glimepiride was 0.98 with a 95% confidence interval of (0.84, 1.14).
+The upper bound of this confidence interval, 1.14, excluded the risk margin of 1.3.

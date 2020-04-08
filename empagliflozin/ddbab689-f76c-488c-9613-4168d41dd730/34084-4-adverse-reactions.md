@@ -6,15 +6,14 @@ The following important adverse reactions are described below and elsewhere in t
 - Heart Failure [see Warnings and Precautions (5.2)]
 - Hypotension [see Warnings and Precautions (5.3)]
 - Ketoacidosis [see Warnings and Precautions (5.4)]
-- Acute Kidney Injury and Impairment in Renal Function [see Warnings and Precautions (5.5)]
+- Acute Kidney Injury [see Warnings and Precautions (5.5)]
 - Urosepsis and Pyelonephritis [see Warnings and Precautions (5.6)]
 - Hypoglycemia with Concomitant Use with Insulin and Insulin Secretagogues [see Warnings and Precautions (5.7)]
 - Necrotizing Fasciitis of the Perineum (Fournier's Gangrene) [see Warnings and Precautions (5.8)]
 - Genital Mycotic Infections [see Warnings and Precautions (5.9)]
 - Hypersensitivity Reactions [see Warnings and Precautions (5.10)]
-- Increased Low-Density Lipoprotein Cholesterol (LDL-C) [see Warnings and Precautions (5.11)]
-- Severe and Disabling Arthralgia [see Warnings and Precautions (5.12)]
-- Bullous Pemphigoid [see Warnings and Precautions (5.13)]
+- Severe and Disabling Arthralgia [see Warnings and Precautions (5.11)]
+- Bullous Pemphigoid [see Warnings and Precautions (5.12)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -42,6 +41,7 @@ Adverse reactions that occurred in ≥2% of patients receiving empagliflozin and
 Thirst (including polydipsia) was reported in 0%, 1.7%, and 1.5% for placebo, empagliflozin 10 mg, and empagliflozin 25 mg, respectively.
 
 Empagliflozin causes an osmotic diuresis, which may lead to intravascular volume contraction and adverse reactions related to volume depletion.
+Events related to volume depletion (hypotension and syncope) were reported in 3 patients (1.1%) treated with GLYXAMBI plus metformin.
 
 Linagliptin
 
@@ -74,7 +74,7 @@ Changes in laboratory findings in patients treated with the combination of empag
 Empagliflozin
 
 Increase in Low-Density Lipoprotein Cholesterol (LDL-C): Dose-related increases in low-density lipoprotein cholesterol (LDL-C) were observed in patients treated with empagliflozin.
-LDL-C increased by 2.3%, 4.6%, and 6.5% in patients treated with placebo, empagliflozin 10 mg, and empagliflozin 25 mg, respectively [see Warnings and Precautions (5.11)].
+LDL-C increased by 2.3%, 4.6%, and 6.5% in patients treated with placebo, empagliflozin 10 mg, and empagliflozin 25 mg, respectively.
 The range of mean baseline LDL-C levels was 90.3 to 90.6 mg/dL across treatment groups.
 
 Increase in Hematocrit: Median hematocrit decreased by 1.3% in placebo and increased by 2.8% in empagliflozin 10 mg and 2.8% in empagliflozin 25 mg treated patients.
@@ -86,6 +86,10 @@ Increase in Uric Acid: Changes in laboratory values that occurred more frequentl
 
 Increase in Lipase: In a placebo-controlled clinical trial with linagliptin in type 2 diabetes mellitus patients with micro- or macroalbuminuria, a mean increase of 30% in lipase concentrations from baseline to 24 weeks was observed in the linagliptin arm compared to a mean decrease of 2% in the placebo arm.
 Lipase levels above 3 times upper limit of normal were seen in 8.2% compared to 1.7% patients in the linagliptin and placebo arms, respectively.
+
+Increase in Amylase: In a cardiovascular safety study comparing linagliptin versus glimepiride in patients with type 2 diabetes mellitus, amylase levels above 3 times upper limit of normal were seen in 1.0% compared to 0.5% of patients in the linagliptin and glimepiride arms, respectively.
+
+The clinical significance of elevations in lipase and amylase with linagliptin is unknown in the absence of other signs and symptoms of pancreatitis [see Warnings and Precautions (5.1)].
 
 ## 6.2 Postmarketing Experience
 
