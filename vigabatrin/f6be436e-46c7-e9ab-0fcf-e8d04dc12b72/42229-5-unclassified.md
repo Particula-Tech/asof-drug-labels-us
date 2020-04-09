@@ -1,25 +1,3 @@
-Rx only
-
-Distributor:
-
-Dr. Reddy’s Laboratories Inc.,
-
-Princeton, NJ 08540
-
-Made in India
-
-Rx only
-
-Distributor:
-
-Dr. Reddy’s Laboratories Inc.,
-
-Princeton, NJ 08540
-
-Made in India
-
-Issued: 0819
-
 # Instructions for Use
 
 Vigabatrin for Oral Solution, USP
@@ -42,6 +20,8 @@ Important Note:
   - how many milliliters (mL) of water to use to mix one dose of vigabatrin for oral solution
   - how many milliliters (mL) of the powder and water mixture you will need for each dose of medicine.
 - Vigabatrin for oral solution should be given right away after it is mixed
+- Use the oral syringes, provided by the pharmacy, to measure and give the correct dose.
+  Do not use a household teaspoon or tablespoon.
 
 Supplies you will need to mix 1 dose of vigabatrin for oral solution:
 
@@ -49,7 +29,7 @@ Supplies you will need to mix 1 dose of vigabatrin for oral solution:
 - 2 clean cups: 1 for mixing and 1 for water.
   The cup used for mixing vigabatrin for oral solution should be clear so you can see if the powder is dissolved
 - Water to mix with the vigabatrin powder
-- One small 3 mL oral syringe and one large 10 mL oral syringe which are included
+- One small 3 mL oral syringe and one large 10 mL oral syringe which are provided by the pharmacy
 - Small spoon or other clean utensil to stir the mixture
 - Scissors
 
@@ -138,7 +118,7 @@ Do not save or reuse any leftover mixture.
 
 Step 15: Wash the oral syringes and mixing cups in warm water.
 To clean the oral syringes, remove the plunger by gently pulling it straight out of the barrel.
-The barrel and plunger can be hand washed with soap and water, rinsed, and allowed to dry, or the barrel and plunger can be placed in a dishwasher utensil rack, machine washed, and dried.
+The barrel and plunger can be hand washed with soap and water, rinsed, and allowed to dry.
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
@@ -152,4 +132,4 @@ Princeton, NJ 08540
 
 Made in India
 
-Issued: 0819
+Issued: 0220

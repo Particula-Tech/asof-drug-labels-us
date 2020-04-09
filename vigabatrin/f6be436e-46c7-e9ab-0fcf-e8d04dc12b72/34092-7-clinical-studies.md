@@ -48,8 +48,8 @@ Percent Reduction from Baseline in Seizure Frequency
 
 Study 2
 
-Study 2 (N=183 randomized, 182 evaluated for efficacy) was a randomized, double-blind, placebo-controlled, parallel study consisting of an 8 week baseline period and a 16 week treatment period.
-During the first 4 weeks following randomization, the dose of vigabatrin was titrated upward beginning with 1 grams/day and increased by 0.5 grams/day on a weekly basis to the maintenance dose of 3 grams/day.
+Study 2 (N=183 randomized, 182 evaluated for efficacy) was a randomized, double-blind, placebo-controlled, parallel study consisting of an 8-week baseline period and a 16-week treatment period.
+During the first 4 weeks following randomization, the dose of vigabatrin was titrated upward beginning with 1 gram/day and increased by 0.5 grams/day on a weekly basis to the maintenance dose of 3 grams/day.
 
 Results for the primary measure of effectiveness, reduction in monthly complex partial seizure frequency, are shown in Table 9.
 Vigabatrin 3 grams/day was statistically significantly superior to placebo in reducing seizure frequency.
@@ -71,19 +71,22 @@ The proportion of patients achieving any particular level of reduction in seizur
 For example, 39% of patients randomized to vigabatrin (3 grams/day) experienced a 50% or greater reduction in complex partial seizure frequency, compared to 21% of patients randomized to placebo.
 Patients with an increase in seizure frequency >100% are represented on the Y-axis as equal to or greater than -100%.
 
+Figure 2.
+Percent Reduction from Baseline in Seizure Frequency
+
 For both studies, there was no difference in the effectiveness of vigabatrin between male and female patients.
 Analyses of age and race were not possible as nearly all patients were between the ages of 18 to 65 and Caucasian.
 
-Pediatric patients 10 to 16 years of age
+Pediatric patients 3 to 16 years of age
 
 Vigabatrin was studied in three double-blind, placebo-controlled, parallel-group studies in 269 patients who received vigabatrin and 104 patients who received placebo.
-No individual study was considered adequately powered to determine efficacy in pediatric patients age 10 years and above.
+No individual study was considered adequately powered to determine efficacy in pediatric patients age 3 years and above.
 The data from all three pediatric studies were pooled and used in a pharmacometric bridging analysis using weight-normalized doses to establish efficacy and determine appropriate dosing.
 All three studies were randomized, double-blind, placebo-controlled, parallel-group, adjunctive-treatment studies in patients aged 3 to 16 years with uncontrolled complex partial seizures with or without secondary generalization.
 The study period included a 6 to 10 week baseline phase and a 14 to 17 week treatment phase (composed of a titration and maintenance period).
 
 The pharmacometric bridging approach consisted of defining a weight-normalized dose-response, and showing that a similar dose-response relationship exists between pediatric patients and adult patients when vigabatrin was given as adjunctive therapy for complex partial seizures.
-Dosing recommendations in pediatric patients 10 to 16 years of age were derived from simulations utilizing these pharmacometric dose-response analyses [see Dosage and Administration (2.2)].
+Dosing recommendations in pediatric patients 2 to 16 years of age were derived from simulations utilizing these pharmacometric dose-response analyses [see Dosage and Administration (2.2)].
 
 ## 14.2 Infantile Spasms
 
@@ -107,7 +110,7 @@ Primary efficacy results are shown in Table 10.
 Table 10.
 Spasm Freedom by Primary Criteria (Study 1)
 
-| Vigabatrin Treatment Group |  |  |
+|  | Vigabatrin Treatment Group |  |
 | --- | --- | --- |
 |  | 18 to 36 mg/kg/day | 100 to 148 mg/kg/day |
 | [N=114] | [N=107] |  |
@@ -121,9 +124,9 @@ Note: Primary criteria were evaluated based on caregiver assessment plus CCTV EE
 Study 2
 
 Study 2 (N=40) was a multicenter, randomized, double-blind, placebo-controlled, parallel-group study consisting of a pre-treatment (baseline) period of 2 to 3 days, followed by a 5 day double-blind treatment phase during which patients were treated with vigabatrin (initial dose of 50 mg/kg/day with titration allowed to 150 mg/kg/day) or placebo.
-The primary efficacy endpoint in this study was the average percent change in daily spasm frequency, assessed during a pre-defined and consistent 2 hour window of evaluation, comparing baseline to the final 2 days of the 5-day double-blind treatment phase.
-No statistically significant differences were observed in the average frequency of spasms using the 2 hour evaluation window.
-However, a post-hoc alternative efficacy analysis, using a 24 hour clinical evaluation window found a statistically significant difference in the overall percentage of reductions in spasms between the vigabatrin group (68.9%) and the placebo group (17%) (p=0.030).
+The primary efficacy endpoint in this study was the average percent change in daily spasm frequency, assessed during a pre-defined and consistent 2-hour window of evaluation, comparing baseline to the final 2 days of the 5-day double-blind treatment phase.
+No statistically significant differences were observed in the average frequency of spasms using the 2-hour evaluation window.
+However, a post-hoc alternative efficacy analysis, using a 24-hour clinical evaluation window found a statistically significant difference in the overall percentage of reductions in spasms between the vigabatrin group (68.9%) and the placebo group (17%) (p=0.030).
 
 Duration of therapy for infantile spasms was evaluated in a post hoc analysis of a Canadian Pediatric Epilepsy Network (CPEN) study of developmental outcomes in infantile spasms patients.
 The 38/68 infants in the study who had responded to vigabatrin therapy (complete cessation of spasms and hypsarrhythmia) continued vigabatrin therapy for a total duration of 6 months therapy.
