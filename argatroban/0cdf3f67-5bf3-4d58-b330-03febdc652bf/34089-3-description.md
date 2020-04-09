@@ -12,11 +12,11 @@ The structural formula is shown below:
 Argatroban is a white, odorless crystalline powder that is freely soluble in glacial acetic acid, slightly soluble in ethanol, and insoluble in acetone, ethyl acetate, and ether.
 
 Argatroban Injection 250 mg/2.5 mL (100 mg/mL) is a sterile clear, colorless to pale yellow, slightly viscous solution.
-Argatroban 250 mg/2.5 mL (100 mg/mL) is available in 250-mg (in 2.5-mL) single-dose amber vials, with white flip-top caps.
+Argatroban Injection 250 mg/2.5 mL (100 mg/mL) is available in 250-mg (in 2.5-mL) single-dose amber vials, with white flip-top caps.
 Each mL of sterile, nonpyrogenic solution contains 100 mg Argatroban.
 Inert ingredients (per vial): 1300 mg Propylene glycol, 760 mg Dehydrated alcohol.
 
 Argatroban Injection 50 mg/50 mL (1 mg/mL) is a sterile clear, colorless to pale yellow, solution.
-Argatroban 50 mg/50 mL (1 mg/mL) is available in 50-mg (in 50-mL) single-dose amber vials, with white flip-top caps.
+Argatroban Injection 50 mg/50 mL (1 mg/mL) is available in 50-mg (in 50-mL) single-dose amber vials, with white flip-top caps.
 Each mL of sterile, nonpyrogenic solution contains 1 mg Argatroban.
 Inert ingredients (per vial): 260 mg Propylene glycol, 152 mg Dehydrated alcohol, and 450 mg Sodium Chloride.

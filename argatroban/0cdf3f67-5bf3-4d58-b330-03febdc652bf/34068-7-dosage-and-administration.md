@@ -16,6 +16,7 @@ Use 250 mg (2.5 mL) per 250 mL of diluent or 500 mg (5 mL) per 500 mL of diluent
 The constituted solution must be mixed by repeated inversion of the diluent bag for 1 minute.
 Upon preparation, the solution may show slight but brief haziness due to the formation of microprecipitates that rapidly dissolve upon mixing.
 Use of diluent at room temperature is recommended.
+Colder temperatures can slow down the rate of dissolution of precipitates.
 The final solution must be clear before use.
 The pH of the intravenous solution prepared as recommended is 3.2 to 7.5.
 Solutions prepared as recommended are stable at controlled room temperature, 20º to 25ºC (68º to 77ºF) (see USP) in ambient indoor light for 24 hours; therefore, light-resistant measure such as foil protection for intravenous lines are unnecessary.
@@ -35,14 +36,14 @@ Do not use if solution is cloudy, contains precipitates, or if the flip top cap 
 
 Vial may be inverted for use with a medical infusion set.
 
-## ​2.2 Dosing in Patients with Heparin-Induced Thrombocytopenia
+## 2.2 Dosing in Patients with Heparin-Induced Thrombocytopenia
 
 Initial Dosage
 
-Before administering argatroban, discontinue heparin therapy and obtain a baseline aPTT.
+Before administering argatroban, discontinue heparin therapy and obtain a baseline activated partial thromboplastin time (aPTT).
 The recommended initial dose of argatroban for adult patients without hepatic impairment is 2 mcg/kg/min, administered as a continuous infusion (see Table 1).
 
-| Table 1. Recommended Doses and Infusion Rates for 2 mcg/kg/min Dose of Argatroban for Patients With HIT* and Without Hepatic Impairment (1 mg/mL Final Concentration) |  |  |
+| Table 1 Recommended Doses and Infusion Rates for 2 mcg/kg/min Dose of Argatroban for Patients With HIT* and Without Hepatic Impairment (1 mg/mL Final Concentration) |  |  |
 | --- | --- | --- |
 | Body Weight (kg) | Dose (mcg/min) | Infusion Rate (mL/hr) |
 | 50 | 100 | 6 |
@@ -71,7 +72,7 @@ Initial Dosage Initiate an infusion of Argatroban Injection at 25 mcg/kg/min and
 Check an activated clotting time (ACT) 5 to 10 minutes after the bolus dose is completed.
 The PCI procedure may proceed if the ACT is greater than 300 seconds.
 
-Dosage Adjustment If the ACT is less than 300 seconds, an additional intravenous bolus dose of 150 mcg/kg should be administered, the infusion dose increased to 30 mcg/kg/min, and the ACT checked 5 to 10 minutes later (see Table 2).
+Dosage Adjustment If the ACT is less than 300 seconds, an additional intravenous bolus dose of 150 mcg/kg should be administered, the infusion dose increased to 30 mcg/kg/min, and the ACT checked 5 to 10 minutes later (see Table 3).
 
 If the ACT is greater than 450 seconds, decrease the infusion rate to 15 mcg/kg/min, and check the ACT 5 to 10 minutes later (Table 3).
 
@@ -80,7 +81,7 @@ Continue titrating the dose until a therapeutic ACT (between 300 and 450 seconds
 In case of dissection, impending abrupt closure, thrombus formation during the procedure, or inability to achieve or maintain an ACT over 300 seconds, additional bolus doses of 150 mcg/kg may be administered and the infusion dose increased to 40 mcg/kg/min.
 Check the ACT after each additional bolus or change in the rate of infusion.
 
-| Table 2. Recommended Starting and Maintenance Doses (Within the Target ACT Range) of Argatroban Injection in Patients Undergoing PCI Without Hepatic Impairment (1 mg/mL Final Concentration) |  |  |  |  |
+| Table 2 Recommended Starting and Maintenance Doses (Within the Target ACT Range) of Argatroban Injection in Patients Undergoing PCI Without Hepatic Impairment (1 mg/mL Final Concentration) |  |  |  |  |
 | --- | --- | --- | --- | --- |
 | Body Weight (kg) | Starting Bolus Dose (350 mcg/kg) |  | Starting and Maintenance Continuous Infusion Dosing For ACT 300-450 seconds 25 mcg/kg/min |  |
 | Bolus Dose (mcg) | Bolus Volume (mL) | Continuous Infusion Dose (mcg/min) | Continuous Infusion Rate (mL/hr) |  |
@@ -97,7 +98,7 @@ Check the ACT after each additional bolus or change in the rate of infusion.
 
 NOTE: 1 mg = 1000 mcg; 1 kg = 2.2 lbs
 
-| Table 3. Recommended Dose Adjustments of Argatroban Injection for Patients Outside of ACT Target Range Undergoing PCI Without Hepatic Impairment (1 mg/mL Final Concentration) |  |  |  |  |  |  |
+| Table 3 Recommended Dose Adjustments of Argatroban Injection for Patients Outside of ACT Target Range Undergoing PCI Without Hepatic Impairment (1 mg/mL Final Concentration) |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
 | Body Weight (kg) | If ACT Less than 300 seconds Dosage Adjustment† 30 mcg/kg/min |  |  |  | If ACT Greater than 450 seconds Dosage Adjustment* 15 mcg/kg/min |  |
 | Additional Bolus Dose (mcg) | Bolus Volume (mL) | Continuous Infusion Dose (mcg/min) | Continuous Infusion Rate (mL/hr) | Continuous Infusion Dose (mcg/min) | Continuous Infusion Rate (mL/hr) |  |
@@ -134,10 +135,10 @@ Use of Argatroban in PCI patients with clinically significant hepatic disease or
 
 ## 2.5 Conversion to Oral Anticoagulant Therapy
 
-Initiating Oral Anticoagulant Therapy When converting patients from Argatroban to oral anticoagulant therapy, consider the potential for combined effects on INR with co-administration of Argatroban and warfarin.
+Initiating Oral Anticoagulant Therapy When converting patients from argatroban to oral anticoagulant therapy, consider the potential for combined effects on INR with co-administration of argatroban and warfarin.
 A loading dose of warfarin should not be used.
 Initiate therapy using the expected daily dose of warfarin.
-To avoid prothrombotic effects and to ensure continuous anticoagulation when initiating warfarin, it is suggested that Argatroban and warfarin therapy be overlapped.
+To avoid prothrombotic effects and to ensure continuous anticoagulation when initiating warfarin, it is suggested that argatroban and warfarin therapy be overlapped.
 There are insufficient data available to recommend the duration of the overlap.
 
 Co-Administration of Warfarin and Argatroban Injection at Doses Up to 2 mcg/kg/min Measure INR daily while Argatroban Injection and warfarin are co-administered.
@@ -145,6 +146,6 @@ In general, with doses of Argatroban Injection up to 2 mcg/kg/min, Argatroban In
 After Argatroban Injection is discontinued, repeat the INR measurement in 4 to 6 hours.
 If the repeat INR is below the desired therapeutic range, resume the infusion of Argatroban Injection and repeat the procedure daily until the desired therapeutic range on warfarin alone is reached.
 
-Co-Administration of Warfarin and Argatroban Injection at Doses Greater than 2 mcg/kg/min For doses greater than 2 mcg/kg/min, the relationship of INR between warfarin alone to the INR on warfarin plus argatroban is less predictable.
+Co-Administration of Warfarin and Argatroban Injection at Doses Greater than 2 mcg/kg/min For doses of argatroban greater than 2 mcg/kg/min, the relationship of INR between warfarin alone to the INR on warfarin plus argatroban is less predictable.
 In this case, in order to predict the INR on warfarin alone, temporarily reduce the dose of Argatroban Injection to a dose of 2 mcg/kg/min.
 Repeat the INR on Argatroban Injection and warfarin 4 to 6 hours after reduction of the Argatroban Injection dose and follow the process outlined above for administering Argatroban Injection at doses up to 2 mcg/kg/min.

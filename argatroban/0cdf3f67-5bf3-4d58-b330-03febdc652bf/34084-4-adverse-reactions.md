@@ -19,7 +19,7 @@ Minor bleeding was overt bleeding that did not meet the criteria for major bleed
 
 Table 4 gives an overview of the most frequently observed hemorrhagic reactions, presented separately by major and minor bleeding, sorted by decreasing occurrence among argatroban-treated patients with HIT (with or without thrombosis).
 
-| Table 4. Major and Minor Hemorrhagic Adverse Reactions in Patients With HIT* |  |  |
+| Table 4 Major and Minor Hemorrhagic Adverse Reactions in Patients With HIT* |  |  |
 | --- | --- | --- |
 | Major Hemorrhagic Reactionsa |  |  |
 |  | Argatroban-treated Patients (Study 1 and Study 2) (n = 568) % | Historical Controlc (n = 193) % |
@@ -45,7 +45,7 @@ BKA = below the knee amputation.
 
 Table 5 gives an overview of the most frequently observed non-hemorrhagic reactions sorted by decreasing frequency of occurrence (≥2%) among argatroban-treated HIT/HITTS patients.
 
-| Table 5. Non-hemorrhagic Adverse Reactions in Patientsa With HITb |  |  |
+| Table 5 Non-hemorrhagic Adverse Reactions in Patientsa With HITb |  |  |
 | --- | --- | --- |
 |  | Argatroban-treated Patients (Study 1 and Study 2) (n = 568) % | Historical Controlc (n = 193) % |
 | Dyspnea | 8.1 | 8.8 |
@@ -69,7 +69,7 @@ Table 5 gives an overview of the most frequently observed non-hemorrhagic reacti
 
 a) Patients may have experienced more than 1 adverse reaction. b) With or without thrombosis c) The historical control group consisted of patients with a clinical diagnosis of HIT (with or without thrombosis) that were considered eligible by an independent medical panel.
 
-Adverse Reactions in Patients with or at Risk for HIT Patients Undergoing PCI
+Adverse Reactions in Patients with or at Risk for HIT Undergoing PCI
 
 The following safety information is based on 91 patients initially treated with argatroban and 21 patients subsequently re-exposed to argatroban for a total of 112 PCIs with argatroban anticoagulation.
 Adverse reactions are separated into hemorrhagic (Table 6) and non-hemorrhagic (Table 7) reactions.
@@ -77,7 +77,7 @@ Adverse reactions are separated into hemorrhagic (Table 6) and non-hemorrhagic (
 Major bleeding was defined as bleeding that was overt and associated with a hemoglobin decrease ≥5 g/dL, that led to a transfusion of ≥2 units, or that was intracranial, retroperitoneal, or into a major prosthetic joint.
 The rate of major bleeding events in patients treated with argatroban in the PCI trials was 1.8%.
 
-| Table 6. Major and Minor Hemorrhagic Adverse Reactions in Patients With HIT Undergoing PCI |  |
+| Table 6 Major and Minor Hemorrhagic Adverse Reactions in Patients With HIT Undergoing PCI |  |
 | --- | --- |
 | Major Hemorrhagic Reactionsa |  |
 |  | Argatroban-treated Patients (n = 112)b % |
@@ -100,7 +100,7 @@ CABG = coronary artery bypass graft.
 
 Table 7 gives an overview of the most frequently observed non-hemorrhagic adverse reactions (>2%), sorted by decreasing frequency of occurrence among argatroban-treated PCI patients.
 
-| Table 7. Non-hemorrhagic Adverse Reactionsa in Patients With HIT Undergoing PCI |  |
+| Table 7 Non-hemorrhagic Adverse Reactionsa in Patients With HIT Undergoing PCI |  |
 | --- | --- |
 |  | Argatroban Proceduresa (n = 112)b % |
 | Chest pain | 15.2 |
@@ -119,7 +119,7 @@ a) Patients may have experienced more than 1 adverse reaction. b) 91 patients wh
 There were 22 serious adverse reactions in 17 PCI patients (19.6% in 112 interventions).
 Table 8 lists the serious adverse reactions occurring in argatroban-treated patients with or at risk for HIT undergoing PCI.
 
-| Table 8. Serious Adverse Reactions in Patients With HIT Undergoing PCIa |  |
+| Table 8 Serious Adverse Reactions in Patients With HIT Undergoing PCIa |  |
 | --- | --- |
 | Coded Term | Argatroban Proceduresb (n = 112) |
 | Myocardial infarction | 4 (3.5%) |

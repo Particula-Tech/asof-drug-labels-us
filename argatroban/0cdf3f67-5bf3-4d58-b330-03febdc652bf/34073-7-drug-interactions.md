@@ -7,7 +7,7 @@ If argatroban is to be initiated after cessation of heparin therapy, allow suffi
 ## 7.2 Oral Anticoagulant Agents
 
 Pharmacokinetic drug-drug interactions between argatroban and warfarin (7.5 mg single oral dose) have not been demonstrated.
-However, the concomitant use of argatroban and warfarin (5 to 7.5 mg initial oral dose, followed by 2.5 to 6 mg/day orally for 6 to 10 days) results in prolongation of the prothrombin time (PT) and International Normalized Ratio (INR) [see Dosage and Administration (2.5)and Clinical Pharmacology (12.2)].
+However, the concomitant use of argatroban and warfarin (5 to 7.5 mg initial oral dose, followed by 2.5 to 6 mg/day orally for 6 to 10 days) results in prolongation of the prothrombin time (PT) and International Normalized Ratio (INR) [see Dosage and Administration (2.5) and Clinical Pharmacology (12.2)].
 
 ## 7.3 Aspirin/Acetaminophen
 
