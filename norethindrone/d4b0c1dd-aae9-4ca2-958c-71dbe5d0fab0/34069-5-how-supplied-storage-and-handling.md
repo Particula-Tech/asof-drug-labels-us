@@ -7,6 +7,11 @@ Activella (estradiol/norethindrone acetate) tablets, 1 mg/0.5 mg are available a
 (NDC 60846-232-01).
 It is supplied as 28 tablets in a blister pack, one blister pack per carton.
 
+Activella (estradiol/norethindrone acetate) tablets, 0.5 mg/0.1 mg are available as white, round, biconvex, film-coated tablets, debossed with “ALL” on the one side and plain on the other side.
+
+(NDC 60846-231-01).
+It is supplied as 28 tablets in a blister pack, one blister pack per carton.
+
 ## 16.2 Storage and Handling
 
 Store in a dry place protected from light.

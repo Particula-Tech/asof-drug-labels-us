@@ -8,6 +8,7 @@ Postmenopausal women should be re-evaluated periodically as clinically appropria
 Activella therapy consists of a single tablet to be taken once daily for the treatment of moderate to severe vasomotor symptoms due to menopause.
 
 - Activella 1 mg/0.5 mg
+- Activella 0.5 mg/0.1 mg
 
 ## 2.2 Treatment of Moderate to Severe Symptoms of Vulvar and Vaginal Atrophy due to Menopause
 
@@ -20,3 +21,4 @@ Activella therapy consists of a single tablet to be taken once daily for the tre
 Activella therapy consists of a single tablet to be taken once daily for the prevention of postmenopausal osteoporosis.
 
 - Activella 1 mg/0.5 mg
+- Activella 0.5 mg/0.1 mg

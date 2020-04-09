@@ -2,15 +2,15 @@
 
 See FDA-approved patient labeling (Patient Information)
 
-## 17.1 Abnormal Vaginal Bleeding
+Abnormal Vaginal Bleeding
 
 Inform postmenopausal women of the importance of reporting abnormal vaginal bleeding to their healthcare provider as soon as possible [see Warnings and Precautions (5.2)].
 
-## 17.2 Possible Serious Adverse Reactions with Estrogen Plus Progestin Therapy
+Possible Serious Adverse Reactions with Estrogen Plus Progestin Therapy
 
 Inform postmenopausal women of possible serious adverse reactions of estrogen plus progestin therapy including Cardiovascular Disorders, Malignant Neoplasms, and Probable Dementia [see Warnings and Precautions (5.1, 5.2, 5.3)].
 
-## 17.3 Possible Less Serious but Common Adverse Reactions with Estrogen Plus Progestin Therapy
+Possible Less Serious but Common Adverse Reactions with Estrogen Plus Progestin Therapy
 
 Inform postmenopausal women of possible less serious but common adverse reactions of estrogen plus progestin therapy such as headache, breast pain and tenderness, nausea and vomiting.
 
@@ -24,8 +24,7 @@ Amneal Specialty, a division of Amneal Pharmaceuticals LLC
 
 Bridgewater, NJ 08807
 
-Rev.
-08-2019-01
+Rev.03-2020-03
 
 # PATIENT INFORMATION
 
@@ -33,13 +32,13 @@ Activella® (AK-ti-vel-la)
 
 (estradiol/norethindrone acetate)
 
-Tablets
+tablets, for oral use
 
 Read this Patient Information before you start taking Activella and each time you get a refill.
 There may be new information.
 This information does not take the place of talking to your healthcare provider about your menopausal symptoms or your treatment.
 
-| What is the most important information I should know about Activella (a combination of estrogen and progestin)? Do not use estrogens with progestins to prevent heart disease, heart attacks, strokes, or dementia (decline of brain function).Taking estrogens with progestins may increase your chances of getting heart attacks, strokes, breast cancer, or blood clots.Taking estrogens with progestins may increase your chance of getting dementia, based on a study of women 65 years of age or older.Do not use estrogen-alone to prevent heart disease, heart attacks, strokes or dementia.Taking estrogen-alone may increase your chance of getting cancer of the uterus (womb).Taking estrogen-alone may increase your chances of getting strokes or blood clots.Taking estrogen-alone may increase your chance of getting dementia, based on a study of women 65 years of age or older.You and your healthcare provider should talk regularly about whether you still need treatment with Activella. |
+| What is the most important information I should know about Activella (a combination of estrogen and progestin)? Do not use estrogens with or without progestins to prevent heart disease, heart attacks, strokes, or dementia (decline of brain function).Taking estrogens with progestins may increase your chances of getting heart attacks, strokes, breast cancer, or blood clots.Taking estrogens with progestins may increase your chance of getting dementia, based on a study of women 65 years of age or older. Taking estrogen-alone may increase your chance of getting cancer of the uterus (womb).Taking estrogen-alone may increase your chances of getting strokes or blood clots.Taking estrogen-alone may increase your chance of getting dementia, based on a study of women 65 years of age or older.You and your healthcare provider should talk regularly about whether you still need treatment with Activella. |
 | --- |
 
 What is Activella?
@@ -89,7 +88,11 @@ Before you take Activella, tell your healthcare provider if you:
 
 - have any unusual vaginal bleedingVaginal bleeding after menopause may be a warning sign of cancer of the uterus (womb).
   Your healthcare provider should check any unusual vaginal bleeding to find out the cause.
-- have any other medical conditionsYour healthcare provider may need to check you more carefully if you have certain conditions, such as asthma (wheezing), epilepsy (seizures), diabetes, migraine, endometriosis, lupus, angioedema (swelling of face and tongue), or problems with your heart, liver, thyroid, kidneys, or have high calcium levels in your blood.
+- have certain medical conditions that may become worse while you are taking ActivellaYour healthcare provider may need to check you more carefully if you have certain conditions, such as asthma (wheezing), epilepsy (seizures), diabetes, migraine, endometriosis, lupus, angioedema (swelling of face and tongue), or problems with your heart, liver, thyroid, kidneys, or have high calcium levels in your blood.
+- are pregnant or think you may be pregnant
+
+Activella is not for pregnant women.
+
 - are going to have surgery or will be on bed rest
 
 Your healthcare provider will let you know if you need to stop taking Activella.
@@ -106,7 +109,7 @@ Keep a list of your medicines and show them to your healthcare provider and phar
 How should I take Activella?
 
 - Take Activella exactly as your healthcare provider tells you to take it.
-- Take 1 Activella at the same time each day.
+- Take 1 tablet at the same time each day.
 - You and your healthcare provider should talk regularly (every 3 to 6 months) about the dose you are taking and whether you still need treatment with Activella.
 
 What are the possible side effects of Activella?
@@ -118,16 +121,21 @@ Serious, but less common side effects include:
 - heart attack
 - stroke
 - blood clots
-- dementia
 - breast cancer
 - cancer of the lining of the uterus (womb)
 - cancer of the ovary
-- high blood pressure
-- high blood sugar
+- dementia
 - gallbladder disease
+- high or low blood calcium levels
+- changes in vision
+- high blood pressure
+- high levels of fat in your blood (triglycerides)
 - liver problems
 - changes in your thyroid hormone levels
+- swelling or fluid retention
 - enlargement of benign tumors (“fibroids”)
+- worsening swelling of face and tongue (angioedema) in women who have a history of angioedema
+- changes in laboratory test results such as bleeding time and high blood sugar levels
 
 Call your healthcare provider right away if you get any of the following warning signs or any other unusual symptoms that concern you:
 
@@ -137,14 +145,15 @@ Call your healthcare provider right away if you get any of the following warning
 - sudden new severe headaches
 - severe pains in your chest or legs with or without shortness of breath, weakness and fatigue
 
-Less serious, but common side effects include:
+The most common side effects of Activella include:
 
 - headache
 - breast pain
+- back pain
 - irregular vaginal bleeding or spotting
 - stomach or abdominal cramps, bloating
 - nausea and vomiting
-- hair loss
+- diarrhea
 - fluid retention
 - vaginal yeast infection
 
@@ -189,7 +198,11 @@ What are the ingredients in Activella?
 
 Active ingredients: estradiol and norethindrone acetate
 
-Inactive Ingredients: lactose monohydrate, starch (corn), copovidone, talc, magnesium stearate, hypromellose, and triacetin.
+Inactive Ingredients: lactose monohydrate, starch (corn), talc, magnesium stearate, hypromellose, and triacetin.
+
+The 1 mg/0.5 mg tablet also contains copovidone.
+
+The 0.5 mg/0.1 mg tablet also contains hydroxypropylcellulose.
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 
@@ -202,4 +215,4 @@ Amneal Specialty, a division of Amneal Pharmaceuticals LLC
 Bridgewater, NJ 08807
 
 Rev.
-08-2019-01
+03-2020-03
