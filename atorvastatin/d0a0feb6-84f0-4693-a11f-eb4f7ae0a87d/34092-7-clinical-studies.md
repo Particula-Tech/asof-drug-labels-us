@@ -3,7 +3,7 @@
 ## 14.1 Prevention of Cardiovascular Disease
 
 In the Anglo-Scandinavian Cardiac Outcomes Trial (ASCOT), the effect of atorvastatin calcium tablets on fatal and non-fatal coronary heart disease was assessed in 10,305 hypertensive patients 40-80 years of age (mean of 63 years), without a previous myocardial infarction and with TC levels ≤ 251 mg/dL (6.5 mmol/L).
-Additionally, all patients had at least three of the following cardiovascular risk factors: male gender (81.1%), age > 55 years (84.5%), smoking (33.2%), diabetes (24.3%), history of CHD in a first-degree relative (26%), TC:HDL > 6 (14.3%), peripheral vascular disease (5.1%), left ventricular hypertrophy (14.4%), prior cerebrovascular event (9.8%), specific ECG abnormality (14.3%), proteinuria/albuminuria (62.4%).
+Additionally, all patients had at least 3 of the following cardiovascular risk factors: male gender (81.1%), age > 55 years (84.5%), smoking (33.2%), diabetes (24.3%), history of CHD in a first-degree relative (26%), TC:HDL > 6 (14.3%), peripheral vascular disease (5.1%), left ventricular hypertrophy (14.4%), prior cerebrovascular event (9.8%), specific ECG abnormality (14.3%), proteinuria/albuminuria (62.4%).
 In this double-blind, placebo-controlled study, patients were treated with anti-hypertensive therapy (Goal BP < 140/90 mm Hg for non-diabetic patients; < 130/80 mm Hg for diabetic patients) and allocated to either atorvastatin calcium tablets 10 mg daily (n = 5,168) or placebo (n = 5,137), using a covariate adaptive method which took into account the distribution of nine baseline characteristics of patients already enrolled and minimized the imbalance of those characteristics across the groups.
 Patients were followed for a median duration of 3.3 years.
 

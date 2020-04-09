@@ -96,6 +96,7 @@ Effect of Co-administered Drugs on the Pharmacokinetics of Atorvastatin
 | Clarithromycin 500 mg BID, 9 days | 80 mg QD for 8 days | 4.54 | 5.38 |
 | Darunavir 300 mg BID/ritonavir 100 mg BID, 9 days | 10 mg QD for 4 days | 3.45 | 2.25 |
 | Itraconazole 200 mg QD, 4 days | 40 mg SD | 3.32 | 1.20 |
+| Letermovir 480 mg QD, 10 days | 20 mg SD | 3.29 | 2.17 |
 | Fosamprenavir 700 mg BID/ritonavir 100 mg BID, 14 days | 10 mg QD for 4 days | 2.53 | 2.84 |
 | Fosamprenavir 1400 mg BID, 14 days | 10 mg QD for 4 days | 2.30 | 4.04 |
 | Nelfinavir 1250 mg BID, 14 days | 10 mg QD for 28 days | 1.74 | 2.22 |
@@ -121,7 +122,7 @@ Effect of Atorvastatin on the Pharmacokinetics of Co-administered Drugs
 |  | Drug/Dose (mg) | Ratio of AUC | Ratio of Cmax |
 | 80 mg QDOnce daily for 15 days | Antipyrine, 600 mg SDSingle dose | 1.03 | 0.89 |
 | 80 mg QD for 10 days | See Section 7 for clinical significance.Digoxin 0.25 mg QD, 20 days | 1.15 | 1.20 |
-| 40 mg QD for 22 days | Oral contraceptive QD, 2 months-norethindrone 1 mg-ethinyl estradiol 35 mcg | 1.281.19 | 1.231.30 |
+| 40 mg QD for 22 days | Oral contraceptive QD, 2 months- norethindrone 1 mg- ethinyl estradiol 35 µg | 1.281.19 | 1.231.30 |
 | 10 mg SD | Tipranavir 500 mg BIDTwice daily/ritonavir 200 mg BID, 7 days | 1.08 | 0.96 |
 | 10 mg QD for 4 days | Fosamprenavir 1400 mg BID, 14 days | 0.73 | 0.82 |
 | 10 mg QD for 4 days | Fosamprenavir 700 mg BID/ritonavir 100 mg BID, 14 days | 0.99 | 0.94 |
