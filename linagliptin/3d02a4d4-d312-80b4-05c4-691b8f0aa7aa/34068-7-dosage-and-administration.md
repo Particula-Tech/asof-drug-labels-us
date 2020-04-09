@@ -13,7 +13,7 @@ Recommended starting dose:
 - In patients already treated with linagliptin and metformin or JENTADUETO, switch to JENTADUETO XR containing 5 mg of linagliptin total daily dose and a similar total daily dose of metformin HCl once daily with a meal.
 
 JENTADUETO XR should be swallowed whole.
-The tablets must not be split, crushed, dissolved, or chewed before swallowing.
+The tablets must not be split, crushed, dissolved, or chewed.
 There have been reports of incompletely dissolved tablets being eliminated in the feces for other tablets containing metformin extended-release.
 If a patient reports seeing tablets in feces, the healthcare provider should assess adequacy of glycemic control.
 

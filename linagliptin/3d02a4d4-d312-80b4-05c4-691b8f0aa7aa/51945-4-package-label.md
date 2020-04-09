@@ -1,7 +1,31 @@
-Jentadueto XR 2.5/1000 mg Label NDC: 0597-0270-73
+# PRINCIPAL DISPLAY PANEL - 60 Tablet Bottle Label
 
-Jentadueto XR 2.5/1000 mg Label NDC: 0597-0270-94
+NDC 0597-0270-73
 
-Jentadueto XR 5/1000 mg Label NDC: 0597-0275-33
+DISPENSE WITH ACCOMPANYING MEDICATION GUIDE
 
-Jentadueto XR 5/1000 mg Label NDC: 0597-0275-81
+Jentadueto® XR (linagliptin and metformin hydrochloride extended-release tablets)
+
+2.5 mg/1000 mg
+
+Rx only
+
+60 tablets
+
+Boehringer Ingelheim
+
+# PRINCIPAL DISPLAY PANEL - 30 Tablet Bottle Label
+
+NDC 0597-0275-33
+
+DISPENSE WITH ACCOMPANYING MEDICATION GUIDE
+
+Jentadueto® XR (linagliptin and metformin hydrochloride extended-release tablets)
+
+5 mg/1000 mg
+
+Rx only
+
+30 tablets
+
+Boehringer Ingelheim

@@ -29,7 +29,7 @@ Instruct patients to inform their doctor that they are taking JENTADUETO XR prio
 
 Hypoglycemia
 
-Inform patients that the risk of hypoglycemia is increased when JENTADUETO XR is used in combination with an insulin secretagogue (e.g., sulfonylurea), and that a lower dose of the insulin secretagogue may be required to reduce the risk of hypoglycemia [see Warnings and Precautions (5.4)].
+Inform patients that the risk of hypoglycemia is increased when JENTADUETO XR is used in combination with an insulin secretagogue (e.g., sulfonylurea) or insulin, and that a lower dose of the insulin secretagogue or insulin may be required to reduce the risk of hypoglycemia [see Warnings and Precautions (5.4)].
 
 Hypersensitivity Reactions
 

@@ -26,9 +26,9 @@ In a 24-week factorial design study, adverse reactions reported in ≥5% of pati
 
 Table 1 Adverse Reactions Reported in ≥5% of Patients Treated with Linagliptin + Metformin and Greater than with Placebo in a 24-week Factorial-Design Study
 
-|  | Placebo n=72 | Linagliptin Monotherapy n=142 | Metformin Monotherapy n=291 | Combination of Linagliptin with Metformin n=286 |
-| --- | --- | --- | --- | --- |
 |  | n (%) | n (%) | n (%) | n (%) |
+| --- | --- | --- | --- | --- |
+|  | Placebo n=72 | Linagliptin Monotherapy n=142 | Metformin Monotherapy n=291 | Combination of Linagliptin with Metformin n=286 |
 | Nasopharyngitis | 1 (1.4) | 8 (5.6) | 8 (2.7) | 18 (6.3) |
 | Diarrhea | 2 (2.8) | 5 (3.5) | 11 (3.8) | 18 (6.3) |
 
@@ -55,10 +55,11 @@ Hypoglycemia
 Linagliptin/Metformin
 
 In a 24-week factorial design study, hypoglycemia was reported in 4 (1.4%) of 286 subjects treated with linagliptin + metformin, 6 (2.1%) of 291 subjects treated with metformin, and 1 (1.4%) of 72 subjects treated with placebo.
-When linagliptin was administered in combination with metformin and a sulfonylurea, 181 (22.9%) of 792 patients reported hypoglycemia compared with 39 (14.8%) of 263 patients administered placebo in combination with metformin and sulfonylurea.
-Adverse reactions of hypoglycemia were based on all reports of hypoglycemia.
-A concurrent glucose measurement was not required or was normal in some patients.
-Therefore, it is not possible to conclusively determine that all these reports reflect true hypoglycemia.
+The incidence of hypoglycemia with plasma glucose <54 mg/dL was 8.1% in the linagliptin group (N=792) compared to 5.3% in the placebo group (N=263) when administered in combination with metformin and sulfonylurea in a 24-week study.
+
+Linagliptin
+
+The incidence of severe hypoglycemia (requiring assistance) was 1.7% in the linagliptin group (N=631) compared to 1.1% in the placebo group (N=630) when administered in combination with basal insulin in a 52 week study.
 
 Laboratory Tests
 
@@ -68,6 +69,10 @@ Increase in Uric Acid: Changes in laboratory values that occurred more frequentl
 
 Increase in Lipase: In a placebo-controlled clinical trial with linagliptin in type 2 diabetes mellitus patients with micro- or macroalbuminuria, a mean increase of 30% in lipase concentrations from baseline to 24 weeks was observed in the linagliptin arm compared to a mean decrease of 2% in the placebo arm.
 Lipase levels above 3 times upper limit of normal were seen in 8.2% compared to 1.7% patients in the linagliptin and placebo arms, respectively.
+
+Increase in Amylase: In a cardiovascular safety study comparing linagliptin versus glimepiride in patients with type 2 diabetes mellitus, amylase levels above 3 times upper limit of normal were seen in 1.0% compared to 0.5% of patients in the linagliptin and glimepiride arms, respectively.
+
+The clinical significance of elevations in lipase and amylase with linagliptin is unknown in the absence of potential signs and symptoms of pancreatitis [see Warnings and Precautions (5.2)].
 
 Metformin
 

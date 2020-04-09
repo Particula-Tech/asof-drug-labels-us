@@ -37,8 +37,8 @@ At higher doses associated with maternal toxicity, the metformin component of th
 Linagliptin
 
 No adverse developmental outcome was observed when linagliptin was administered to pregnant Wistar Han rats and Himalayan rabbits during the period of organogenesis at doses up to 240 mg/kg and 150 mg/kg, respectively.
-These doses represent approximately 943 times (rats) and 1943 times (rabbits) the 5 mg clinical dose, based on exposure.
-No adverse functional, behavioral, or reproductive outcome was observed in offspring following administration of linagliptin to Wistar Han rats from gestation day 6 to lactation day 21 at a dose 49 times the 5 mg clinical dose, based on exposure.
+These doses represent approximately 943-times (rats) and 1943-times (rabbits) the 5 mg clinical dose, based on exposure.
+No adverse functional, behavioral, or reproductive outcome was observed in offspring following administration of linagliptin to Wistar Han rats from gestation day 6 to lactation day 21 at a dose 49-times the 5 mg clinical dose, based on exposure.
 
 Metformin Hydrochloride
 
@@ -74,11 +74,10 @@ Linagliptin is minimally excreted by the kidney; however, metformin is substanti
 
 Linagliptin
 
-There were 4040 type 2 diabetes patients treated with linagliptin 5 mg from 15 clinical trials of linagliptin; 1085 (27%) patients were 65 years and over, while 131 (3%) were 75 years and over.
-Of these patients, 2566 were enrolled in 12 double-blind, placebo-controlled studies; 591 (23%) were 65 years and over, while 82 (3%) were 75 years and over.
-No overall differences in safety or effectiveness were observed between patients 65 years and over and younger patients.
-Therefore, no dose adjustment is recommended in the elderly population.
-While clinical studies of linagliptin have not identified differences in response between the elderly and younger patients, greater sensitivity of some older individuals cannot be ruled out.
+In the 15 type 2 diabetes studies with linagliptin, 1085 linagliptin-treated patients were 65 years of age and older (including 131 linagliptin-treated patients 75 years of age and older).
+Of these 15 studies, 12 were double-blind placebo-controlled.
+In these 12 studies, 591 linagliptin-treated patients were 65 years of age and older (including 82 linagliptin-treated patients 75 years of age and older).
+In these linagliptin studies, no overall differences in safety or effectiveness of linagliptin were observed between geriatric patients and younger adult patients.
 
 Metformin
 
