@@ -69,4 +69,4 @@ Unit Dose Packages of 100 (10 x 10) NDC 55111-564-78
 
 ## 16.2 Storage and Handling
 
-Store at 20°–25° C (68°–77° F); [See USP Controlled Room Temperature].
+Store at 20°C to 25°C (68°F to 77°F); [See USP Controlled Room Temperature].

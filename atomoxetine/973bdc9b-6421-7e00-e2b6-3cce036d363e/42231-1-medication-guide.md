@@ -16,8 +16,8 @@ The following have been reported with use of atomoxetine capsules:
 Suicidal thoughts and actions in children and teenagers:
 
 Children and teenagers sometimes think about suicide, and many report trying to kill themselves.
-Results from atomoxetine hydrochloride clinical studies with over 2200 child or teenage ADHD patients suggest that some children and teenagers may have a higher chance of having suicidal thoughts or actions.
-Although no suicides occurred in these studies, 4 out of every 1000 patients developed suicidal thoughts.
+Results from atomoxetine hydrochloride clinical studies with over 2,200 child or teenage ADHD patients suggest that some children and teenagers may have a higher chance of having suicidal thoughts or actions.
+Although no suicides occurred in these studies, 4 out of every 1,000 patients developed suicidal thoughts.
 Tell your child or teenager’s doctor if your child or teenager (or there is a family history of):
 
 - has bipolar illness (manic-depressive illness)
@@ -110,8 +110,15 @@ Before starting atomoxetine capsules tell your doctor or your child’s doctor a
 - heart problems, heart defects, irregular heart beat, high blood pressure, or low blood pressure
 - mental problems, psychosis, mania, bipolar illness, or depression
 - liver problems
-
-Tell your doctor if you or your child is pregnant, planning to become pregnant, or breastfeeding.
+- are pregnant or plan to become pregnant.
+  It is not known if atomoxetine capsules will harm your unborn baby.
+  Talk to your doctor if you are pregnant or plan to become pregnant.
+  - There is a pregnancy registry for females who are exposed to ADHD medications, including atomoxetine capsules, during pregnancy.
+    The purpose of the registry is to collect information about the health of females exposed to atomoxetine capsules and their baby.
+    If you or your child becomes pregnant during treatment with atomoxetine capsules, talk to your healthcare provider about registering with the National Pregnancy Registry of ADHD Medications at 1-866-961-2388 or visit online at https://womensmentalhealth.org/adhdmedications/.
+- are breastfeeding or plan to breastfeed.
+  It is not known if atomoxetine hydrochloride passes into your breast milk.
+  Talk to your doctor about the best way to feed your baby if you take atomoxetine capsules.
 
 Can atomoxetine capsules be taken with other medicines?
 
@@ -201,7 +208,7 @@ You may report side effects to FDA at 1-800-FDA-1088.
 
 How should I store atomoxetine capsules?
 
-- Store atomoxetine capsules in a safe place at room temperature, 20°–25° C (68°– 77° F).
+- Store atomoxetine capsules in a safe place at room temperature, 20°C to 25°C (68°F to 77°F).
 - Keep atomoxetine capsules and all medicines out of the reach of children.
 
 General information about atomoxetine capsules
@@ -210,14 +217,15 @@ Medicines are sometimes prescribed for purposes other than those listed in a Med
 Do not use atomoxetine capsules for a condition for which it was not prescribed.
 Do not give atomoxetine capsules to other people, even if they have the same condition.
 It may harm them.
-This Medication Guide summarizes the most important information about atomoxetine hydrochloride.
+
+This Medication Guide summarizes the most important information about atomoxetine capsules.
 If you would like more information, talk with your doctor.
-You can ask your doctor or pharmacist for information about atomoxetine hydrochloride that was written for healthcare professionals.
-For more information about atomoxetine hydrochloride call 1-888-375-3784.
+You can ask your doctor or pharmacist for information about atomoxetine capsules that was written for healthcare professionals.
+For more information about atomoxetine capsules call 1-888-375-3784.
 
 What are the ingredients in atomoxetine capsules?
 
-Active ingredient: Atomoxetine hydrochloride USP
+Active ingredient: atomoxetine hydrochloride
 
 Inactive ingredients: pregelatinized starch, dimethicone, FD&C Blue No. 2, gelatin, iron oxide red, iron oxide yellow and titanium dioxide.
 The capsules are imprinted with edible black ink.
@@ -235,10 +243,12 @@ To reorder additional Medications Guides contact Dr. Reddy’s Customer Service 
 
 Rx Only
 
-Manufactured by
+Distributor:
 
-Dr. Reddy’s Laboratories Limited
+Dr. Reddy’s Laboratories Inc.,
 
-Bachupally – 500 090 INDIA
+Princeton, NJ 08540
 
-Issued: 0517
+Made in India
+
+Revised: 0320

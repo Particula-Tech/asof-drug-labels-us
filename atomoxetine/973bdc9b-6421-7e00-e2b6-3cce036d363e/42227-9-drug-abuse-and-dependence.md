@@ -10,7 +10,7 @@ In a randomized, double-blind, placebo-controlled, abuse-potential study in adul
 
 ## 9.3 Dependence
 
-Clinical study data in over 2000 children, adolescents, and adults with ADHD and over 1200 adults with depression showed only isolated incidents of drug diversion or inappropriate self-administration associated with atomoxetine hydrochloride.
+Clinical study data in over 2,000 children, adolescents, and adults with ADHD and over 1,200 adults with depression showed only isolated incidents of drug diversion or inappropriate self-administration associated with atomoxetine hydrochloride.
 There was no evidence of symptom rebound or adverse reactions suggesting a drug-discontinuation or withdrawal syndrome.
 
 ### Animal Experience

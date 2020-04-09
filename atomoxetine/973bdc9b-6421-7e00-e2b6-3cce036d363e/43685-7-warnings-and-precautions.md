@@ -81,7 +81,7 @@ a Abbreviations: bpm=beats per minute; DBP=diastolic blood pressure; HR=heart ra
 
 b Proportion of patients meeting threshold at any one time during clinical trial.
 
-In placebo-controlled registration studies involving pediatric patients, tachycardia was identified as an adverse event for 0.3% (5/1597) of these atomoxetine hydrochloride patients compared with 0% (0/934) of placebo patients.
+In placebo-controlled registration studies involving pediatric patients, tachycardia was identified as an adverse event for 0.3% (5/1,597) of these atomoxetine hydrochloride patients compared with 0% (0/934) of placebo patients.
 The mean heart rate increase in extensive metabolizer (EM) patients was 5 beats/minute, and in poor metabolizer (PM) patients 9.4 beats/minute.
 
 In adult clinical trials where EM/PM status was available, the mean heart rate increase in PM patients was significantly higher than in EM patients (11 beats/minute versus 7.5 beats/minute).
@@ -93,7 +93,7 @@ In adult clinical trials where EM/PM status was available, the mean change from 
 The blood pressure effects could be clinically important in some PM patients.
 
 Orthostatic hypotension and syncope have been reported in patients taking atomoxetine hydrochloride.
-In child and adolescent registration studies, 0.2% (12/5596) of atomoxetine hydrochloride-treated patients experienced orthostatic hypotension and 0.8% (46/5596) experienced syncope.
+In child and adolescent registration studies, 0.2% (12/5,596) of atomoxetine hydrochloride-treated patients experienced orthostatic hypotension and 0.8% (46/5,596) experienced syncope.
 In short-term child and adolescent registration studies, 1.8% (6/340) of atomoxetine hydrochloride-treated patients experienced orthostatic hypotension compared with 0.5% (1/207) of placebo-treated patients.
 Syncope was not reported during short-term child and adolescent placebo-controlled ADHD registration studies.
 Atomoxetine hydrochloride should be used with caution in any condition that may predispose patients to hypotension, or conditions associated with abrupt heart rate or blood pressure changes.
@@ -102,7 +102,7 @@ Atomoxetine hydrochloride should be used with caution in any condition that may 
 
 Treatment emergent psychotic or manic symptoms, e.g., hallucinations, delusional thinking, or mania in children and adolescents without a prior history of psychotic illness or mania can be caused by atomoxetine at usual doses.
 If such symptoms occur, consideration should be given to a possible causal role of atomoxetine, and discontinuation of treatment should be considered.
-In a pooled analysis of multiple short-term, placebo-controlled studies, such symptoms occurred in about 0.2% (4 patients with reactions out of 1939 exposed to atomoxetine for several weeks at usual doses) of atomoxetine-treated patients compared to 0 out of 1056 placebo-treated patients.
+In a pooled analysis of multiple short-term, placebo-controlled studies, such symptoms occurred in about 0.2% (4 patients with reactions out of 1,939 exposed to atomoxetine for several weeks at usual doses) of atomoxetine-treated patients compared to 0 out of 1,056 placebo-treated patients.
 
 ## 5.6 Screening Patients for Bipolar Disorder
 
@@ -114,9 +114,9 @@ However, prior to initiating treatment with atomoxetine hydrochloride, patients 
 
 Patients beginning treatment for ADHD should be monitored for the appearance or worsening of aggressive behavior or hostility.
 Aggressive behavior or hostility is often observed in children and adolescents with ADHD.
-In pediatric short-term controlled clinical trials, 21/1308 (1.6%) of atomoxetine patients versus 9/806 (1.1%) of placebo-treated patients spontaneously reported treatment emergent hostility-related adverse events (overall risk ratio of 1.33 [95% C.I.
+In pediatric short-term controlled clinical trials, 21/1,308 (1.6%) of atomoxetine patients versus 9/806 (1.1%) of placebo-treated patients spontaneously reported treatment emergent hostility-related adverse events (overall risk ratio of 1.33 [95% C.I.
 0.67 to 2.64 – not statistically significant]).
-In adult placebo-controlled clinical trials, 6/1697 (0.35%) of atomoxetine patients versus 4/1560 (0.26%) of placebo-treated patients spontaneously reported treatment emergent hostility-related adverse events (overall risk ratio of 1.38 [95% C.I.
+In adult placebo-controlled clinical trials, 6/1,697 (0.35%) of atomoxetine patients versus 4/1,560 (0.26%) of placebo-treated patients spontaneously reported treatment emergent hostility-related adverse events (overall risk ratio of 1.38 [95% C.I.
 0.39 to 4.88 – not statistically significant]).
 Although this is not conclusive evidence that atomoxetine hydrochloride causes aggressive behavior or hostility, these behaviors were more frequently observed in clinical trials among children, adolescents, and adults treated with atomoxetine hydrochloride compared to placebo (overall risk ratio of 1.33 [95% C.I.
 0.67-2.64 - not statistically significant]).
@@ -144,7 +144,7 @@ In general, the weight and height gain of pediatric patients treated with atomox
 Subsequently, weight gain rebounds and at about 3 years of treatment, patients treated with atomoxetine hydrochloride have gained 17.9 kg on average, 0.5 kg more than predicted by their baseline data.
 After about 12 months, gain in height stabilizes, and at 3 years, patients treated with atomoxetine hydrochloride have gained 19.4 cm on average, 0.4 cm less than predicted by their baseline data (see Figure 1 below).
 
-Figure 1: Mean Weight and Height Percentiles Over Time for Patients With Three Years of Atomoxetine Hydrochloride Treatment
+Figure 1: Mean Weight and Height Percentiles Over Time for Patients with Three Years of Atomoxetine Hydrochloride Treatment
 
 This growth pattern was generally similar regardless of pubertal status at the time of treatment initiation.
 Patients who were pre-pubertal at the start of treatment (girls ≤8 years old, boys ≤9 years old) gained an average of 2.1 kg and 1.2 cm less than predicted after three years.
@@ -170,7 +170,7 @@ Laboratory tests are available to identify CYP2D6 PMs.
 The blood levels in PMs are similar to those attained by taking strong inhibitors of CYP2D6.
 The higher blood levels in PMs lead to a higher rate of some adverse effects of atomoxetine hydrochloride [see Adverse Reactions (6.1)].
 
-## 5.13 Concomitant Use of Potent CYP2D6 Inhibitors or Use in patients who are known to be CYP2D6 PMs
+## 5.13 Concomitant Use of Potent CYP2D6 Inhibitors or Use in Patients who are known to be CYP2D6 PMs
 
 Atomoxetine is primarily metabolized by the CYP2D6 pathway to 4-hydroxyatomoxetine.
 Dosage adjustment of atomoxetine hydrochloride may be necessary when coadministered with potent CYP2D6 inhibitors (e.g., paroxetine, fluoxetine, and quinidine) or when administered to CYP2D6 PMs.

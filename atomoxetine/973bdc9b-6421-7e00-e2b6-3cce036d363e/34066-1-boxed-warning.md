@@ -8,6 +8,6 @@ Families and caregivers should be advised of the need for close observation and 
 Atomoxetine hydrochloride is approved for ADHD in pediatric and adult patients.
 Atomoxetine hydrochloride is not approved for major depressive disorder.
 
-Pooled analyses of short-term (6 to 18 weeks) placebo-controlled trials of atomoxetine hydrochloride in children and adolescents (a total of 12 trials involving over 2200 patients, including 11 trials in ADHD and 1 trial in enuresis) have revealed a greater risk of suicidal ideation early during treatment in those receiving atomoxetine hydrochloride compared to placebo.
-The average risk of suicidal ideation in patients receiving atomoxetine hydrochloride was 0.4% (5/1357 patients), compared to none in placebo-treated patients (851 patients).
+Pooled analyses of short-term (6 to 18 weeks) placebo-controlled trials of atomoxetine hydrochloride in children and adolescents (a total of 12 trials involving over 2,200 patients, including 11 trials in ADHD and 1 trial in enuresis) have revealed a greater risk of suicidal ideation early during treatment in those receiving atomoxetine hydrochloride compared to placebo.
+The average risk of suicidal ideation in patients receiving atomoxetine hydrochloride was 0.4% (5/1,357 patients), compared to none in placebo-treated patients (851 patients).
 No suicides occurred in these trials [see Warnings and Precautions (5.1)].
