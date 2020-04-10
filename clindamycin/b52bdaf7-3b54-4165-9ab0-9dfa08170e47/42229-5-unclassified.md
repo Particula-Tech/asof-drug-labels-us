@@ -7,4 +7,4 @@ Rx only
 This product's label may have been updated.
 For current full prescribing information, please visit www.greenstonellc.com.
 
-LAB-0049-14.0 Revised June 2019
+LAB-0049-15.0 Revised March 2020
