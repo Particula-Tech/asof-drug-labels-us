@@ -10,18 +10,4 @@ NDC 13913-005-19
 
 90 Tablets ONCE-DAILY Gralise® (gabapentin) tablets 600 mg Do not use Gralise interchangeably with other gabapentin products Distribute required medication guide to each patient Depomed®
 
-PRINCIPAL DISPLAY PANEL - 30-Day Starter Pack
-
-NDC 13913-006-16
-
-9 x 300 mg tablets • 69 x 600 mg tablets ONCE-DAILY Gralise® (gabapentin) tablets STARTER PACK This 30-day starter pack of Gralise® includes the following: Nine 300 mg tablets Sixty-nine 600 mg tablets Medication Guide enclosed.
-Do not use Gralise interchangeably with other gabapentin products Rx ONLY Dosage and Administration: See prescribing information.
-Store at 20°-25°C (68°-77°F); excursions permitted to 15°-30°C (59°-86°F) [see USP Controlled Room Temperature].
-Keep out of reach of children.
-Depomed®
-
-PRINCIPAL DISPLAY PANEL - 19 ct, 300 mg Tablets
-
-NDC 13913-004-91
-
-19 Tablets Physician Sample - Not for Resale ONCE-DAILY Gralise® (gabapentin) tablets 300 mg Attn HCP: Provide written instructions for patient by pulling out label ATTENTION: Distribute required medication guide to each patient Do not use Gralise interchangeably with other gabapentin products
+Titration Pack

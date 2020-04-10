@@ -39,12 +39,18 @@ Should suicidal thoughts and behavior emerge during treatment, the prescriber ne
 Patients, their caregivers, and families should be informed that GRALISE contains gabapentin which is also used to treat epilepsy and that AEDs increase the risk of suicidal thoughts and behavior and should be advised of the need to be alert for the emergence or worsening of the signs and symptoms of depression, any unusual changes in mood or behavior, or the emergence of suicidal thoughts, behavior, or thoughts about self-harm.
 Behaviors of concern should be reported immediately to healthcare providers.
 
-## 5.2 Withdrawal of Gabapentin
+## 5.2 Respiratory Depression
+
+There is evidence from case reports, human studies, and animal studies associating gabapentin with serious, life-threatening, or fatal respiratory depression when co-administrated with central nervous system (CNS) depressants, including opioids, or in the setting of underlying respiratory impairment.
+When the decision is made to co-prescribe GRALISE with another CNS depressant, particularly an opioid, or to prescribe GRALISE to patients with underlying respiratory impairment, monitor patients for symptoms of respiratory depression and sedation, and consider initiating GRALISE at a low dose.
+The management of respiratory depression may include close observation, supportive measures, and reduction or withdrawal of CNS depressants (including GRALISE).
+
+## 5.3 Withdrawal of Gabapentin
 
 Gabapentin should be withdrawn gradually.
 If GRALISE is discontinued, this should be done gradually over a minimum of 1 week or longer (at the discretion of the prescriber).
 
-## 5.3 Tumorigenic Potential
+## 5.4 Tumorigenic Potential
 
 In standard preclinical in vivo lifetime carcinogenicity studies, an unexpectedly high incidence of pancreatic acinar adenocarcinomas was identified in male, but not female, rats.
 The clinical significance of this finding is unknown.
@@ -53,7 +59,7 @@ In clinical trials of gabapentin therapy in epilepsy comprising 2,085 patient-ye
 However, no similar patient population untreated with gabapentin was available to provide background tumor incidence and recurrence information for comparison.
 Therefore, the effect of gabapentin therapy on the incidence of new tumors in humans or on the worsening or recurrence of previously diagnosed tumors is unknown.
 
-## 5.4 Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS)/Multiorgan Hypersensitivity
+## 5.5 Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS)/Multiorgan Hypersensitivity
 
 Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS), also known as Multiorgan Hypersensitivity, has been reported in patients taking antiepileptic drugs, including GRALISE.
 Some of these events have been fatal or life-threatening.
@@ -65,7 +71,7 @@ It is important to note that early manifestations of hypersensitivity, such as f
 If such signs or symptoms are present, the patient should be evaluated immediately.
 GRALISE should be discontinued if an alternative etiology for the signs or symptoms cannot be established.
 
-## 5.5 Laboratory Tests
+## 5.6 Laboratory Tests
 
 Clinical trial data do not indicate that routine monitoring of clinical laboratory procedures is necessary for the safe use of GRALISE.
 The value of monitoring gabapentin blood concentrations has not been established.

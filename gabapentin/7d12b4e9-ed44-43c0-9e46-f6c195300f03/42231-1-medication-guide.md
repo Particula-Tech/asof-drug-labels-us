@@ -20,6 +20,7 @@ Call a healthcare provider right away if you have any of these symptoms, especia
 
 - thoughts about suicide or dying
 - attempts to commit suicide
+- serious breathing problems
 - new or worse depression
 - new or worse anxiety
 - feeling agitated or restless
@@ -36,6 +37,12 @@ How can I watch for early symptoms of suicidal thoughts and actions?
 - Pay attention to any changes, especially sudden changes, in mood, behaviors, thoughts, or feelings.
 - Keep all follow-up visits with your healthcare provider as scheduled.
 - Call your healthcare provider between visits as needed, especially if you are worried about symptoms.
+
+Serious breathing problems
+
+- Serious breathing problems can occur when GRALISE is taken with other medicines that can cause severe sleepiness or decreased awareness, or when it is taken by someone who already has breathing problems.
+  Watch for increased sleepiness or decreased breathing when starting GRALISE or when the dose is increased.
+  Get help right away if breathing problems occur.
 
 Do not stop taking GRALISE without first talking with your healthcare provider.
 
@@ -63,6 +70,7 @@ What should I tell my healthcare provider before taking GRALISE?
 Before taking GRALISE, tell your healthcare provider if you:
 
 - have or have had depression, mood problems or suicidal thoughts or behavior
+- have breathing problems
 - have seizures
 - have kidney problems or get kidney dialysis
 - are pregnant or plan to become pregnant.
@@ -77,6 +85,8 @@ Before taking GRALISE, tell your healthcare provider if you:
   You and your healthcare provider should decide how you will feed your baby while you take GRALISE.
 
 Tell your healthcare provider about all the medicines you take including prescription and non-prescription medicines, vitamins or herbal supplements.
+Especially tell your healthcare provider if you take any opioid pain medicine (such as oxycodone), or medicines for anxiety (such as lorazepam) or insomnia (such as zolpidem).
+You may have a higher chance for dizziness, sleepiness, or serious breathing problems if these medicines are taken with GRALISE.
 
 Taking GRALISE with certain other medicines can cause side effects or affect how well they work.
 Do not start or stop other medicines without talking to your healthcare provider.
@@ -155,10 +165,10 @@ Opadry® II white contains polyvinyl alcohol, titanium dioxide, talc, polyethyle
 600 mg tablet: copovidone, hypromellose, magnesium stearate, polyethylene oxide, and Opadry® II beige.
 Opadry® II beige contains polyvinyl alcohol, titanium dioxide, talc, polyethylene glycol 3350, iron oxide yellow, and iron oxide red.
 
-Marketed by: Depomed, Inc. Newark, CA 94560
+Brands listed are trademarks of their respective owners.
 
-Opadry® is a registered trademark of BPSI Holdings, LLC.
-
-© 2015 Depomed, Inc. GRA-004-C.7 SEP 2015 Issued SEP 2015
+PL803-00 Revised: 04/2020
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
+
+Marketed by: Depomed, Inc., Newark, CA 94560

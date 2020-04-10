@@ -1,5 +1,7 @@
 # 17 PATIENT COUNSELING INFORMATION
 
+Advise patients of the availability of a Medication Guide, and instruct them to read the Medication Guide prior to taking GRALISE.
+
 - Advise patients that GRALISE is not interchangeable with other formulations of gabapentin.
 - Advise patients to take GRALISE only as prescribed.
   GRALISE may cause dizziness, somnolence, and other signs and symptoms of CNS depression.
@@ -11,25 +13,23 @@
   Do not take two doses at the same time.
 - Advise patients that if they take too much GRALISE, to call their healthcare provider or poison control center, or go to the nearest emergency room right away.
 
-## 17.1 Medication Guide
-
-Advise patients of the availability of a Medication Guide, and instruct them to read the Medication Guide prior to taking GRALISE.
-
-## 17.2 Suicidal Thoughts and Behavior
+## 17.1 Suicidal Thoughts and Behavior
 
 Advise patients, their caregivers, and families that AEDs, including gabapentin, the active ingredient in GRALISE, may increase the risk of suicidal thoughts and behavior and should be advised of the need to be alert for the emergence or worsening of symptoms of depression, any unusual changes in mood or behavior, or the emergence of suicidal thoughts, behavior, or thoughts about self-harm.
 Behaviors of concern should be reported immediately to healthcare providers [see Warnings and Precautions (5.1)].
 
+## 17.2 Respiratory Depression
+
+Inform patients about the risk of respiratory depression.
+Include information that the risk is greatest for those using concomitant central nervous system (CNS) depressants (such as opioid analgesics) or in those with underlying respiratory impairment.
+Teach patients how to recognize respiratory depression and advise them to seek medical attention immediately if it occurs [see Warnings and Precautions (5.2)].
+
 ## 17.3 Dosing and Administration
+
+GRALISE is not interchangeable with other gabapentin products because of differing pharmacokinetic profiles that affect the frequency of administration.
+
+The safety and effectiveness of GRALISE in patients with epilepsy has not been studied.
 
 Advise patients that GRALISE should be taken orally once-daily with the evening meal.
 GRALISE tablets should be swallowed whole.
 Do not split, crush, or chew the tablets [see Dosage and Administration (2.1)].
-
-Marketed by: Depomed, Inc. Newark, CA 94560
-
-Opadry® is a registered trademark of BPSI Holdings, LLC.
-
-© 2015 Depomed, Inc. GRA-004-C.7 SEP 2015 Issued SEP 2015
-
-U.S. Patents: 7,438,927; 6,340,475; 6,488,962; 6,635,280; 6,723,340; 7,731,989; 8,192,756; 8,252,332; 8,333,992
