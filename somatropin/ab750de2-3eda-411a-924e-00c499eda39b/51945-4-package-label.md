@@ -22,20 +22,6 @@ NDC 44087-1088-1
 
 EMD SERONO
 
-# PRINCIPAL DISPLAY PANEL - 8.8 mg click.easy® Kit Carton
-
-click.easy® Reconstitution Device 5.83 mg/mL Saizen (somatropin) for injection 8.8 mg
-
-NDC 44087-1080-1
-
-For subcutaneous injection
-
-Approximately 5.83 mg/mL of the drug is delivered Exclusively for use with designated Saizen® delivery devices Rx Only
-
-1 vial somatropin 1 cartridge diluent pre-assembled in 1 reconstitution device (click.easy®) including 1 device housing and 1 sterile transfer cannula
-
-EMD Serono
-
 # PRINCIPAL DISPLAY PANEL - 8.8 mg Reconstitution Kit Carton
 
 NDC 44087-0016-1

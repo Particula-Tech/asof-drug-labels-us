@@ -1,21 +1,15 @@
 {
   "application_numbers": [
-    "NDA019764"
+    "BLA019764"
   ],
   "inn": "somatropin",
   "labeler": "EMD Serono, Inc.",
   "package_ndcs": [
     "44087-0016-1",
     "44087-1005-2",
-    "44087-1080-1",
     "44087-1088-1"
   ],
   "products": [
-    {
-      "form": "KIT",
-      "generic": "somatropin",
-      "name": "SAIZEN CLICKEASY"
-    },
     {
       "form": "KIT",
       "generic": "somatropin",
