@@ -2,12 +2,10 @@
 
 ## 5.1 Infusion-Related Reactions and Hypersensitivity Reactions
 
-In UC Trials I and II and CD Trials I and III, hypersensitivity reactions occurred including a case of anaphylaxis (one out of 1434 patients [0.07%]) [see Adverse Reactions (6.1)].
-Allergic reactions including dyspnea, bronchospasm, urticaria, flushing, rash, and increased blood pressure and heart rate have also been observed.
-The majority were mild to moderate in severity as assessed by the investigator.
-Experience with other biologic medications suggests that hypersensitivity reactions and anaphylaxis to ENTYVIO may vary in their time of onset from during infusion or immediately post-infusion to occurring up to several hours post-infusion.
+Infusion-related reactions and hypersensitivity reactions have been reported, including anaphylaxis, dyspnea, bronchospasm, urticaria, flushing, rash, and increased blood pressure and heart rate [see Adverse Reactions (6.1, 6.3)].
+These reactions may occur with the first or subsequent infusions of ENTYVIO and may vary in their time of onset from during infusion or up to several hours post-infusion.
 
-If anaphylaxis or other serious allergic reactions occur, discontinue administration of ENTYVIO immediately and initiate appropriate treatment (e.g., epinephrine and antihistamines).
+If anaphylaxis or other serious infusion-related or hypersensitivity reactions occur, discontinue administration of ENTYVIO immediately and initiate appropriate treatment.
 
 ## 5.2 Infections
 
@@ -23,12 +21,10 @@ For progressive multifocal leukoencephalopathy (PML), see Warnings and Precautio
 
 ## 5.3 Progressive Multifocal Leukoencephalopathy
 
-Another integrin receptor antagonist has been associated with progressive multifocal leukoencephalopathy (PML), a rare and often fatal opportunistic infection of the central nervous system (CNS).
+PML, a rare and often fatal opportunistic infection of the central nervous system (CNS), has been reported with systemic immunosuppressants, including another integrin receptor antagonist.
 PML is caused by the John Cunningham (JC) virus and typically only occurs in patients who are immunocompromised.
-
-In ENTYVIO clinical trials, patients were actively monitored for PML with frequent and regular screenings, and evaluations of any new, unexplained neurological symptoms, as necessary.
-While zero cases of PML were identified among patients with at least 24 months of exposure, a risk of PML cannot be ruled out.
-No claims of comparative safety to other integrin receptor antagonists can be made based on this data.
+One case of PML in an ENTYVIO-treated patient with multiple contributory factors has been reported in the postmarketing setting (e.g., human immunodeficiency virus [HIV] infection with a CD4 count of 300 cells/mm3 and prior and concomitant immunosuppression).
+Although unlikely, a risk of PML cannot be ruled out.
 
 Monitor patients on ENTYVIO for any new onset, or worsening, of neurological signs and symptoms.
 Typical signs and symptoms associated with PML are diverse, progress over days to weeks, and include progressive weakness on one side of the body or clumsiness of limbs, disturbance of vision, and changes in thinking, memory, and orientation leading to confusion and personality changes.

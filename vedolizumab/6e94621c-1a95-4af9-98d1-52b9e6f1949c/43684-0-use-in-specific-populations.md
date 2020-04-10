@@ -22,7 +22,7 @@ Clinical Considerations
 Disease-associated maternal and embryo/fetal risk
 
 Published data suggest that the risk of adverse pregnancy outcomes in women with inflammatory bowel disease (IBD) is associated with increased disease activity.
-Adverse pregnancy outcomes include preterm delivery (before 37 weeks of gestation), low birth weight (less than 2500 g) infants, and small for gestational age at birth.
+Adverse pregnancy outcomes include preterm delivery (before 37 weeks of gestation), low birth weight (less than 2,500 g) infants, and small for gestational age at birth.
 
 Fetal/Neonatal adverse reactions
 

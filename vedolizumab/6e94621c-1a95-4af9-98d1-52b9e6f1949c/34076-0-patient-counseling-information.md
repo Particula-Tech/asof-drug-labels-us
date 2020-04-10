@@ -1,8 +1,8 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-See FDA-approved patient labeling (Medication Guide).
+Advise the patient to read the FDA-approved patient labeling (Medication Guide).
 
-Hypersensitivity Reactions
+Infusion-Related and Hypersensitivity Reactions
 
 Instruct patients to report immediately if they experience symptoms consistent with a hypersensitivity reaction during or following an infusion of ENTYVIO [see Warnings and Precautions (5.1)].
 
@@ -13,7 +13,7 @@ Instruct patients to tell their healthcare provider if they develop any signs or
 
 Progressive Multifocal Leukoencephalopathy
 
-Inform patients that progressive multifocal leukoencephalopathy (PML) has occurred in patients who received a different integrin receptor antagonist product.
+Inform patients that progressive multifocal leukoencephalopathy (PML) has occurred in patients who received some integrin receptor antagonist and systemic immunosuppressant products.
 Instruct patients to report if they experience any new onset or worsening of neurological signs and symptoms immediately, as these could be indicative of PML [see Warnings and Precautions (5.3)].
 
 Liver Injury

@@ -41,6 +41,6 @@ Vedolizumab was not detected in the cerebrospinal fluid (CSF) of 14 healthy subj
 
 Special Populations
 
-Population pharmacokinetic analysis showed that the severity of disease state, body weight, prior treatment with TNF blocker therapy, age (18 to 78 years), serum albumin, co-administered immunomodulators (including azathioprine, 6-mercaptopurine, methotrexate), and co-administered aminosalicylates did not have a clinically meaningful effect on the pharmacokinetics of ENTYVIO.
+Population pharmacokinetic analysis showed that the severity of disease state, body weight, prior treatment with TNF blocker therapy, age (18 to 78 years), serum albumin, coadministered immunomodulators (including azathioprine, 6-mercaptopurine, methotrexate), and coadministered aminosalicylates did not have a clinically meaningful effect on the pharmacokinetics of ENTYVIO.
 
 Pharmacokinetics of vedolizumab in patients with renal or hepatic insufficiency have not been studied.

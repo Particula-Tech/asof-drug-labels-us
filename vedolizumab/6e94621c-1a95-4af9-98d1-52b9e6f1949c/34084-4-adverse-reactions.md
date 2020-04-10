@@ -13,7 +13,7 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 
 The data described below reflect exposure to ENTYVIO in 3,326 patients and healthy volunteers in clinical trials, including 1,396 exposed for greater than one year, and 835 exposed for greater than two years.
 
-The safety data described in Table 2 are derived from four controlled Phase 3 trials (UC Trials I and II, and CD Trials I and III); data from patients receiving open-label ENTYVIO treatment at Weeks 0 and 2 (prior to entry into UC Trial II and CD Trial III) and from Weeks 6 to 52 (non-responders at Week 6 of UC Trial I and CD Trial I) are included [see Clinical Studies (14.1 and 14.2)].
+The safety data described in Table 2 are derived from four controlled Phase 3 trials (UC Trials I and II, and CD Trials I and III); data from patients receiving open-label ENTYVIO treatment at Weeks 0 and 2 (prior to entry into UC Trial II and CD Trial III) and from Weeks 6 to 52 (non-responders at Week 6 of UC Trial I and CD Trial I) are included [see Clinical Studies (14.1, 14.2)].
 
 In these trials, 1,434 patients received ENTYVIO 300 mg for up to 52 weeks, and 297 patients received placebo for up to 52 weeks.
 Of these, 769 patients had ulcerative colitis and 962 patients had Crohn's disease.
@@ -25,7 +25,7 @@ Serious adverse reactions were reported in 7% of patients treated with ENTYVIO c
 The most common adverse reactions (reported by ≥3% of patients treated with ENTYVIO in the UC Trials I and II and CD Trials I and III combined group and ≥1% higher than in combined placebo group) were nasopharyngitis, headache, arthralgia, nausea, pyrexia, upper respiratory tract infection, fatigue, cough, bronchitis, influenza, back pain, rash, pruritus, sinusitis, oropharyngeal pain and pain in extremities (Table 2).
 
 Table 2.
-Adverse Reactions in ≥3% of ENTYVIO-treated Patients and ≥1% Higher than in Placebo (UC Trials I and IIData from patients receiving open-label ENTYVIO treatment at Weeks 0 and 2 (prior to entry into UC Trial II and CD Trial III) and from Weeks 6 to 52 (non-responders at Week 6 of UC Trial I and CD Trial I) are included. and CD Trials I and III)
+Adverse Reactions in ≥3% of ENTYVIO-Treated Patients and ≥1% Higher than in Placebo (UC Trials I and IIData from patients receiving open-label ENTYVIO treatment at Weeks 0 and 2 (prior to entry into UC Trial II and CD Trial III) and from Weeks 6 to 52 (non-responders at Week 6 of UC Trial I and CD Trial I) are included. and CD Trials I and III)
 
 | Adverse Reaction | ENTYVIOPatients who received ENTYVIO for up to 52 weeks. (N=1434) | PlaceboPatients who received placebo for up to 52 weeks. (N=297) |
 | --- | --- | --- |
@@ -51,7 +51,7 @@ Safety data for patients (n=279) in UC Trials I and II and CD Trials I and III w
 Infusion-Related Reactions and Hypersensitivity Reactions
 
 Serious infusion-related reactions and hypersensitivity reactions including anaphylaxis have been reported following ENTYVIO administration in clinical trials [see Warnings and Precautions (5.1)].
-In UC Trials I and II and Crohn's Trials I and III, one case of anaphylaxis [one out of 1434 patients treated with ENTYVIO (0.07%)] was reported by a Crohn's disease patient during the second infusion (symptoms reported were dyspnea, bronchospasm, urticaria, flushing, rash and increased blood pressure and heart rate) and was managed with discontinuation of infusion and treatment with antihistamine and intravenous hydrocortisone.
+In UC Trials I and II and Crohn's Trials I and III, one case of anaphylaxis [one out of 1,434 patients treated with ENTYVIO (0.07%)] was reported by a Crohn's disease patient during the second infusion (symptoms reported were dyspnea, bronchospasm, urticaria, flushing, rash and increased blood pressure and heart rate) and was managed with discontinuation of infusion and treatment with antihistamine and intravenous hydrocortisone.
 
 In UC Trials I and II and CD Trials I and III, 4% of patients treated with ENTYVIO and 3% of patients treated with placebo experienced an infusion-related reaction (IRR).
 The most frequently observed IRR in the patients treated with ENTYVIO (reported more than twice) were nausea, headache, pruritus, dizziness, fatigue, infusion-related reaction, pyrexia, urticaria and vomiting (each of these adverse reactions occurred in <1% in all patients treated with ENTYVIO) and no individual adverse reaction reported occurred at a rate above 1%.
@@ -72,10 +72,10 @@ Over 48 months, there was no increase in the rate of serious infections.
 
 In controlled- and open-label long-term extension trials in adults treated with ENTYVIO, serious infections have been reported, including anal abscess, sepsis (some fatal), tuberculosis, salmonella sepsis, Listeria meningitis, giardiasis and cytomegaloviral colitis.
 
-In UC Trials I and II and CD Trials I and III, sepsis, including bacterial sepsis and septic shock, was reported in four of 1434 (0.3%) patients treated with ENTYVIO and in two of 297 patients treated with placebo (0.7%).
-During these trials, two Crohn's disease patients treated with ENTYVIO died due to reported sepsis or septic shock; both of these patients had significant comorbidities and a complicated hospital course that contributed to the deaths.
-In an open label, long-term extension trial, additional cases of sepsis (some fatal), including bacterial sepsis and septic shock, were reported.
-The rate of sepsis in patients with ulcerative colitis or Crohn's disease receiving ENTYVIO was two per 1000 patient-years.
+In UC Trials I and II and CD Trials I and III, sepsis, including bacterial sepsis and septic shock, was reported in four of 1,434 (0.3%) patients treated with ENTYVIO and in two of 297 patients treated with placebo (0.7%).
+During these trials, two Crohn's disease patients treated with ENTYVIO died due to reported sepsis or septic shock; both patients had significant comorbidities and a complicated hospital course that contributed to the deaths.
+In an open-label, long-term extension trial, additional cases of sepsis (some fatal), including bacterial sepsis and septic shock, were reported.
+The rate of sepsis in patients with ulcerative colitis or Crohn's disease receiving ENTYVIO was two per 1,000 patient-years.
 
 In clinical trials, all patients were screened for tuberculosis.
 One case of latent, pulmonary tuberculosis was diagnosed during the controlled trials with ENTYVIO.
@@ -88,12 +88,12 @@ There have been reports of elevations of transaminase and/or bilirubin in patien
 In UC Trials I and II and CD Trials I and III, three patients reported serious adverse reactions of hepatitis, manifested as elevated transaminases with or without elevated bilirubin and symptoms consistent with hepatitis (e.g., malaise, nausea, vomiting, abdominal pain, anorexia).
 These adverse reactions occurred following two to five ENTYVIO doses; however, based on case report information it is unclear if the reactions indicated drug-induced or autoimmune etiology.
 All patients recovered following discontinuation of therapy with some requiring corticosteroid treatment.
-In controlled trials, the incidence of ALT and AST elevations ≥3 × ULN was <2% in patients treated with ENTYVIO and in patients treated with placebo.
+In controlled trials, the incidence of ALT and AST elevations ≥3× ULN was <2% in patients treated with ENTYVIO and in patients treated with placebo.
 In the open-label trial, one additional case of serious hepatitis was observed.
 
 Malignancies
 
-In UC Trials I and II and CD Trials I and III, malignancies (excluding dysplasia and basal cell carcinoma) were reported in six of 1434 (0.4%) patients treated with ENTYVIO, including colon cancer (n=2), transitional cell carcinoma (n=1), breast cancer (n=1), carcinoid tumor of the appendix (n=1) and squamous cell carcinoma (n=1).
+In UC Trials I and II and CD Trials I and III, malignancies (excluding dysplasia and basal cell carcinoma) were reported in six of 1,434 (0.4%) patients treated with ENTYVIO, including colon cancer (n=2), transitional cell carcinoma (n=1), breast cancer (n=1), carcinoid tumor of the appendix (n=1) and squamous cell carcinoma (n=1).
 Malignancy was reported in one of 297 (0.3%) patients treated with placebo (squamous cell carcinoma).
 
 Malignancies (excluding dysplasia and basal cell carcinoma) observed during the ongoing open-label long-term extension trial included B-cell lymphoma, breast cancer, colon cancer, malignant hepatic neoplasm, malignant lung neoplasm, malignant melanoma, lung cancer of primary neuroendocrine carcinoma, renal cancer and squamous cell carcinoma.
@@ -116,7 +116,14 @@ Additionally, the observed incidence of antibody (including neutralizing antibod
 For these reasons, comparison of the incidence of antibodies to vedolizumab in the studies described below with the incidence of antibodies in other studies or to other products may be misleading.
 
 In UC Trials I and II and CD Trials I and III, in patients who received ENTYVIO, the frequency of antibodies detected in patients was 13% at 24 weeks after the last dose of study drug (greater than five half-lives after last dose).
-During treatment, 56 of 1434 (4%) of patients treated with ENTYVIO had detectable anti-vedolizumab antibody at any time during the 52 weeks of continuous treatment.
+During treatment, 56 of 1,434 (4%) of patients treated with ENTYVIO had detectable anti-vedolizumab antibody at any time during the 52 weeks of continuous treatment.
 Nine of 56 patients were persistently positive (at two or more study visits) for anti-vedolizumab antibody and 33 of 56 patients developed neutralizing antibodies to vedolizumab.
 Among eight of these nine subjects with persistently positive anti-vedolizumab antibody and available vedolizumab concentration data, six had undetectable and two had reduced vedolizumab concentrations [see Clinical Pharmacology (12.3)].
 None of the nine subjects with persistently positive anti-vedolizumab antibody achieved clinical remission at Weeks 6 or 52 in the controlled trials.
+
+## 6.3 Postmarketing Experience
+
+The following adverse reactions have been identified during post-approval use of ENTYVIO.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+Immune system disorders: Anaphylaxis [see Warnings and Precautions (5.1)]

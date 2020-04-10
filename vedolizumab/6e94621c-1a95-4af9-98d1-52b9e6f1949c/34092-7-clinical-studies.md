@@ -30,9 +30,8 @@ In addition, a greater percentage of patients treated with ENTYVIO had improveme
 Table 4.
 Proportion of Patients Meeting Efficacy Endpoints at Week 6 (UC Trial I)
 
-| N=149 | N=225 |  |  |  |
+| Endpoint | Placebo N=149 | ENTYVIO N=225 | p-value | Treatment Difference and 95% CI |
 | --- | --- | --- | --- | --- |
-| Endpoint | Placebo | ENTYVIO | p-value | Treatment Difference and 95% CI |
 | Clinical responseClinical response: reduction in complete Mayo score of ≥3 points and ≥30% from baseline with an accompanying decrease in rectal bleeding subscore of ≥1 point or absolute rectal bleeding subscore of ≤1 point. at Week 6 | 26% | 47% | <0.001 | 22% (12%, 32%) |
 | Clinical remissionClinical remission: complete Mayo score of ≤2 points and no individual subscore >1 point. at Week 6 | 5% | 17% | 0.001 | 12% (5%, 18%) |
 | Improvement of endoscopic appearance of the mucosaImprovement of endoscopic appearance of the mucosa: Mayo endoscopy subscore of 0 (normal or inactive disease) or 1 (erythema, decreased vascular pattern, mild friability). at Week 6 | 25% | 41% | 0.001 | 16% (6%, 26%) |
@@ -132,7 +131,7 @@ Fifty-one percent of patients had an inadequate response, loss of response, or i
 At Week 6, the median CDAI score was 322 in the ENTYVIO every eight week group, 316 in the ENTYVIO every four week group, and 315 in the placebo group.
 Patients who had achieved clinical response (≥70 decrease in CDAI score from baseline) at Week 6 and were receiving corticosteroids were required to begin a corticosteroid-tapering regimen at Week 6.
 
-In CD Trial III a greater percentage of patients in groups treated with ENTYVIO as compared to placebo were in clinical remission (defined as CDAI score ≤150) at Week 52.
+In CD Trial III, a greater percentage of patients in groups treated with ENTYVIO as compared to placebo were in clinical remission (defined as CDAI score ≤150) at Week 52.
 A greater percentage of patients in groups treated with ENTYVIO as compared to placebo had a clinical response (defined as ≥100 decrease in CDAI score from baseline) at Week 52 (Table 7).
 In the subgroup of patients who were receiving corticosteroids at baseline and who were in clinical response at Week 6 (defined as ≥70 decrease in CDAI score from baseline), a greater proportion of patients in groups treated with ENTYVIO as compared to placebo discontinued corticosteroids by Week 52 and were in clinical remission at Week 52 (Table 7).
 
