@@ -42,7 +42,7 @@ Metabolism: The only circulating metabolite detected in man is the 17β-carboxyl
 This metabolite had less affinity (approximately 1/2,000) than the parent drug for the glucocorticoid receptor of human lung cytosol in vitro and negligible pharmacological activity in animal studies.
 Other metabolites detected in vitro using cultured human hepatoma cells have not been detected in man.
 
-Excretion:Less than 5% of a radiolabeled oral dose was excreted in the urine as metabolites, with the remainder excreted in the feces as parent drug and metabolites.
+Excretion: Less than 5% of a radiolabeled oral dose was excreted in the urine as metabolites, with the remainder excreted in the feces as parent drug and metabolites.
 
 Special Populations: Fluticasone propionate nasal spray was not studied in any special populations, and no gender-specific pharmacokinetic data have been obtained.
 
