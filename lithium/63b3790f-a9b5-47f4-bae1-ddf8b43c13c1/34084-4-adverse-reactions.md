@@ -17,7 +17,7 @@ The following adverse reactions are described in greater detail in other section
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
 
-Pediatric Patients (7 to 17 years)
+Pediatric Patients (7 to 17 years):
 
 Bipolar I Disorder: The following findings are based on an 8-week, placebo-controlled study for acute manic or mixed episodes of bipolar I disorder in pediatric patients 7 to 17 years (N= 81).
 In this study, lithium was administered at daily doses ranging from 300 to 3600 (mean dose 1483 mg ± 584) with serum levels ranging from 0 to 2 (mean level 0.98 mEq/L ± 0.47).
@@ -52,7 +52,7 @@ Greater Incidence Than in the Placebo Group in the 8-Week Acute Bipolar Trial
 | Skin and subcutaneous tissuedisorders |  |  |
 | Rash/dermatitis | 0 | 13 |
 
-Adult Patients
+Adult Patients:
 
 The following adverse reactions have been identified following use of lithium.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
@@ -61,16 +61,16 @@ Central Nervous System: tremor, muscle hyperirritability (fasciculations, twitch
 
 EEG Changes: diffuse slowing, widening of frequency spectrum, potentiation and disorganization of background rhythm.
 
-Cardiovascular:conduction disturbance (mostly sinus node dysfunction with possibly severe sinus bradycardia and sinoatrial block), ventricular tachyarrhythmia, peripheral vasculopathy (resembling Raynaud’s Syndrome).
+Cardiovascular: conduction disturbance (mostly sinus node dysfunction with possibly severe sinus bradycardia and sinoatrial block), ventricular tachyarrhythmia, peripheral vasculopathy (resembling Raynaud’s Syndrome).
 
 ECG Changes: reversible flattening, isoelectricity or rarely inversion of T-waves, prolongation of the QTc interval.
 
 Gastrointestinal: anorexia, nausea, vomiting, diarrhea, gastritis, salivary gland swelling, abdominal pain, excessive salivation, flatulence, indigestion.
 
-Genitourinary:glycosuria, decreased creatinine clearance, albuminuria, oliguria, and symptoms of nephrogenic diabetes insipidus including polyuria, thirst, and polydipsia.
+Genitourinary: glycosuria, decreased creatinine clearance, albuminuria, oliguria, and symptoms of nephrogenic diabetes insipidus including polyuria, thirst, and polydipsia.
 
-Dermatologic:drying and thinning of hair, alopecia, anesthesia of skin, chronic folliculitis, xerosis cutis, psoriasis onset or exacerbation, generalized pruritus with or without rash, cutaneous ulcers, angioedema.
+Dermatologic: drying and thinning of hair, alopecia, anesthesia of skin, chronic folliculitis, xerosis cutis, psoriasis onset or exacerbation, generalized pruritus with or without rash, cutaneous ulcers, angioedema, drug reaction with eosinophilia and systemic symptoms (DRESS).
 
-Autonomic Nervous System:blurred vision, dry mouth, impotence/sexual dysfunction.
+Autonomic Nervous System: blurred vision, dry mouth, impotence/sexual dysfunction.
 
-Miscellaneous:fatigue, lethargy, transient scotoma, exopthalmos, dehydration, weight loss, leukocytosis, headache, transient hyperglycemia, hypermagnesemia, excessive weight gain, edematous swelling of ankles or wrists, dysgeusia/taste distortion (e.g., metallic or salty taste), thirst, swollen lips, tightness in chest, swollen and/or painful joints, fever, polyarthralgia, and dental caries.
+Miscellaneous: fatigue, lethargy, transient scotoma, exopthalmos, dehydration, weight loss, leukocytosis, headache, transient hyperglycemia, hypermagnesemia, excessive weight gain, edematous swelling of ankles or wrists, dysgeusia/taste distortion (e.g., metallic or salty taste), thirst, swollen lips, tightness in chest, swollen and/or painful joints, fever, polyarthralgia, and dental caries.

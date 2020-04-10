@@ -1,13 +1,5 @@
-# Package/Label Display Panel
+# Principle Display Panel
 
-# Package/Label Display Panel
+# Principle Display Panel
 
-# Package/Label Display Panel
-
-# Package/Label Display Panel
-
-# Package/Label Display Panel
-
-# Package/Label Display Panel
-
-# Package/Label Display Panel
+# Principle Display Panel
