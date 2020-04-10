@@ -1,8 +1,8 @@
 # HOW SUPPLIED
 
-REGONOL ® (pyridostigmine bromide injection USP) for injection is available as:
+REGONOL® (pyridostigmine bromide injection USP) for injection is available as:
 
-REGONOL ® 2 mL ampules containing 10 mg pyridostigmine bromide injection (5 mg/mL) and supplied as:
+REGONOL® 2 mL ampules containing 10 mg pyridostigmine bromide injection (5 mg/mL) and supplied as:
 
 NDC 0781-3040-95 boxes of 10
 
