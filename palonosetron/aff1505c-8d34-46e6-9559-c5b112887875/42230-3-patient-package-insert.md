@@ -13,11 +13,11 @@ What is palonosetron HCl injection?
 Palonosetron HCl injection is a prescription medicine called an “antiemetic”.
 Palonosetron HCl injection is used in adults to help prevent the nausea and vomiting that happens:
 
-- right away or later with certain anti-cancer medicines (chemotherapy)
-- up to 24 hours while recovering from anesthesia after surgery
+- •right away or later with certain anti-cancer medicines (chemotherapy)
+- •up to 24 hours while recovering from anesthesia after surgery
 - Palonosetron HCl injection is used in children 1 month old to less than 17 years of age to help prevent the nausea and vomiting that happens right away with certain anti-cancer medicines (chemotherapy).
-- It is not known if palonosetron HCl injection is safe and effective in children less than 1 month old to help prevent nausea and vomiting after chemotherapy.
-- It is not known if palonosetron HCl injection is safe and effective in children for the prevention of nausea and while recovering from anesthesia after surgery.
+- •It is not known if palonosetron HCl injection is safe and effective in children less than 1 month old to help prevent nausea and vomiting after chemotherapy.
+- •It is not known if palonosetron HCl injection is safe and effective in children for the prevention of nausea and while recovering from anesthesia after surgery.
 
 Who should not receive palonosetron HCl injection?
 
@@ -28,10 +28,10 @@ What should I tell my doctor before receiving palonosetron HCl injection?
 
 Before receiving palonosetron HCl injection, tell your doctor about all of your medical conditions, including if you:
 
-- have had an allergic reaction to another medicine for nausea or vomiting.
-- are pregnant or plan to become pregnant.
+- •have had an allergic reaction to another medicine for nausea or vomiting.
+- •are pregnant or plan to become pregnant.
   It is not known if palonosetron HCl injection will harm your unborn baby.
-- are breastfeeding or plan to breastfeed.
+- •are breastfeeding or plan to breastfeed.
   It is not known if palonosetron passes into your breast milk.
   You and your doctor should decide if you will receive palonosetron HCl injection if you breastfeed.
 
@@ -39,18 +39,18 @@ Tell your doctor about all of the medicines you take, including prescription and
 
 How will I receive palonosetron HCl injection?
 
-- Palonosetron HCl injection is given to you in your vein by intravenous (I.V.) injection
-- Palonosetron HCl injection is usually given about 30 minutes before you receive your anti-cancer medicine (chemotherapy) or right before anesthesia for surgery.
+- •Palonosetron HCl injection is given to you in your vein by intravenous (I.V.) injection
+- •Palonosetron HCl injection is usually given about 30 minutes before you receive your anti-cancer medicine (chemotherapy) or right before anesthesia for surgery.
 
 What are the possible side effects of palonosetron HCl injection?
 
 Palonosetron HCl injection can cause allergic reactions that can sometimes be serious.
 Tell your doctor or nurse right away if you have any of the following symptoms of a serious allergic reaction with palonosetron HCl injection:
 
-- hives
-- swollen face
-- breathing trouble
-- chest pain
+- •hives
+- •swollen face
+- •breathing trouble
+- •chest pain
 
 The most common side effects of palonosetron HCl injection in adults are headache and constipation.
 

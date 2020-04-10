@@ -2,4 +2,4 @@
 
 Palonosetron HCl injection is supplied as a single-dose, sterile, clear, colorless solution in glass vials that provide:
 
-- 0.25 mg (free base) per 5 mL (concentration: 0.05 mg/mL; 50 mcg/mL)
+- •0.25 mg (free base) per 5 mL (concentration: 0.05 mg/mL; 50 mcg/mL)

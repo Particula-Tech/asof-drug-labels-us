@@ -8,18 +8,18 @@ The safety and efficacy of palonosetron in repeated courses of chemotherapy was 
 
 Moderately Emetogenic Chemotherapy
 
-Two Phase 3, double-blind trials involving 1132 patients compared single-dose I.V. palonosetron with either single-dose I.V. ondansetron (study 1) or dolasetron (study 2) given 30 minutes prior to moderately emetogenic chemotherapy including carboplatin, cisplatin ≤50 mg/m 2, cyclophosphamide <1500 mg/m 2, doxorubicin >25 mg/m 2, epirubicin, irinotecan, and methotrexate >250 mg/m 2.
+Two Phase 3, double-blind trials involving 1132 patients compared single-dose I.V. palonosetron with either single-dose I.V. ondansetron (study 1) or dolasetron (study 2) given 30 minutes prior to moderately emetogenic chemotherapy including carboplatin, cisplatin ≤50 mg/m2, cyclophosphamide <1500 mg/m2, doxorubicin >25 mg/m2, epirubicin, irinotecan, and methotrexate >250 mg/m2.
 Concomitant corticosteroids were not administered prophylactically in study 1 and were only used by 4 to 6% of patients in study 2.
 The majority of patients in these studies were women (77%), White (65%) and naïve to previous chemotherapy (54%).
 The mean age was 55 years.
 
 Highly Emetogenic Chemotherapy
 
-A Phase 2, double-blind, dose-ranging study evaluated the efficacy of single-dose I.V. palonosetron from 0.3 to 90 mcg/kg (equivalent to <0.1 mg to 6 mg fixed dose) in 161 chemotherapy-naïve adult cancer patients receiving highly-emetogenic chemotherapy (either cisplatin ≥70 mg/m 2 or cyclophosphamide >1100 mg/m 2).
+A Phase 2, double-blind, dose-ranging study evaluated the efficacy of single-dose I.V. palonosetron from 0.3 to 90 mcg/kg (equivalent to <0.1 mg to 6 mg fixed dose) in 161 chemotherapy-naïve adult cancer patients receiving highly-emetogenic chemotherapy (either cisplatin ≥70 mg/m2 or cyclophosphamide >1100 mg/m2).
 Concomitant corticosteroids were not administered prophylactically.
 Analysis of data from this trial indicates that 0.25 mg is the lowest effective dose in preventing acute nausea and vomiting induced by highly emetogenic chemotherapy.
 
-A Phase 3, double-blind trial involving 667 patients compared single-dose I.V. palonosetron with single-dose I.V. ondansetron (study 3) given 30 minutes prior to highly emetogenic chemotherapy including cisplatin ≥60 mg/m 2, cyclophosphamide >1500 mg/m 2, and dacarbazine.
+A Phase 3, double-blind trial involving 667 patients compared single-dose I.V. palonosetron with single-dose I.V. ondansetron (study 3) given 30 minutes prior to highly emetogenic chemotherapy including cisplatin ≥60 mg/m2, cyclophosphamide >1500 mg/m2, and dacarbazine.
 Corticosteroids were co-administered prophylactically before chemotherapy in 67% of patients.
 Of the 667 patients, 51% were women, 60% White, and 59% naïve to previous chemotherapy.
 The mean age was 52 years.
@@ -31,7 +31,7 @@ The antiemetic activity of palonosetron was evaluated during the acute phase (0 
 Table 4.
 Prevention of Acute Nausea and Vomiting (0 to 24 hours): Complete Response Rates
 
-| Chemotherapy | Study | Treatment Group | N * | % with Complete Response | p-value † | 97.5% Confidence Interval Palonosetron minus Comparator ‡ |
+| Chemotherapy | Study | Treatment Group | N* | % with Complete Response | p-value† | 97.5% Confidence Interval Palonosetron minus Comparator‡ |
 | --- | --- | --- | --- | --- | --- | --- |
 | Moderately Emetogenic | 1 | Palonosetron 0.25 mg | 189 | 81 | 0.009 |  |
 | Ondansetron 32 mg I.V. | 185 | 69 |  |  |  |  |
@@ -50,12 +50,12 @@ A lower bound greater than – 15% demonstrates non-inferiority between palonose
 
 These studies show that palonosetron was effective in the prevention of acute nausea and vomiting associated with initial and repeat courses of moderately and highly emetogenic cancer chemotherapy.
 In study 3, efficacy was greater when prophylactic corticosteroids were administered concomitantly.
-Clinical superiority over other 5-HT 3 receptor antagonists has not been adequately demonstrated in the acute phase.
+Clinical superiority over other 5-HT3 receptor antagonists has not been adequately demonstrated in the acute phase.
 
 Table 5.
 Prevention of Delayed Nausea and Vomiting (24 to 120 hours): Complete Response Rates
 
-| Chemotherapy | Study | Treatment Group | N * | % with Complete Response | p-value † | 97.5% Confidence Interval Palonosetron minus Comparator ‡ |
+| Chemotherapy | Study | Treatment Group | N* | % with Complete Response | p-value† | 97.5% Confidence Interval Palonosetron minus Comparator‡ |
 | --- | --- | --- | --- | --- | --- | --- |
 | Moderately Emetogenic | 1 | Palonosetron 0.25 mg | 189 | 74 | <0.001 |  |
 | Ondansetron32 mg I.V. | 185 | 55 |  |  |  |  |
@@ -75,7 +75,7 @@ These studies show that palonosetron was effective in the prevention of delayed 
 Table 6.
 Prevention of Overall Nausea and Vomiting (0 to 120 hours): Complete Response Rates
 
-| Chemotherapy | Study | Treatment Group | N * | % with Complete Response | p-value † | 97.5% Confidence Interval Palonosetron minus Comparator ‡ |
+| Chemotherapy | Study | Treatment Group | N* | % with Complete Response | p-value† | 97.5% Confidence Interval Palonosetron minus Comparator‡ |
 | --- | --- | --- | --- | --- | --- | --- |
 | ModeratelyEmetogenic | 1 | Palonosetron0.25 mg | 189 | 69 | <0.001 |  |
 | Ondansetron32 mg I.V. | 185 | 50 |  |  |  |  |
@@ -97,7 +97,7 @@ These studies show that palonosetron was effective in the prevention of nausea a
 One double-blind, active-controlled clinical trial was conducted in pediatric cancer patients.
 The total population (N=327) had a mean age of 8.3 years (range 2 months to 16.9 years) and were 53% male; and 96% white.
 Patients were randomized and received a 20 mcg/kg (maximum 1.5 mg) intravenous infusion of palonosetron 30 minutes prior to the start of emetogenic chemotherapy (followed by placebo infusions 4 and 8 hours after the dose of palonosetron) or 0.15 mg/kg of intravenous ondansetron 30 minutes prior to the start of emetogenic chemotherapy (followed by ondansetron 0.15 mg/kg infusions 4 and 8 hours after the first dose of ondansetron, with a maximum total dose of 32 mg).
-Emetogenic chemotherapies administered included doxorubicin, cyclophosphamide (<1500 mg/m 2), ifosfamide, cisplatin, dactinomycin, carboplatin, and daunorubicin.
+Emetogenic chemotherapies administered included doxorubicin, cyclophosphamide (<1500 mg/m2), ifosfamide, cisplatin, dactinomycin, carboplatin, and daunorubicin.
 Adjuvant corticosteroids, including dexamethasone, were administered with chemotherapy in 55% of patients.
 
 Complete Response in the acute phase of the first cycle of chemotherapy was defined as no vomiting, no retching, and no rescue medication in the first 24 hours after starting chemotherapy.
@@ -138,9 +138,9 @@ Co-primary efficacy measures were Complete Response (CR) defined as no emetic ep
 
 Secondary efficacy endpoints included:
 
-- Complete Response (CR) 0 to 48 and 0 to 72 hours
-- Complete Control (CC) defined as CR and no more than mild nausea
-- Severity of nausea (none, mild, moderate, severe)
+- •Complete Response (CR) 0 to 48 and 0 to 72 hours
+- •Complete Control (CC) defined as CR and no more than mild nausea
+- •Severity of nausea (none, mild, moderate, severe)
 
 The primary hypothesis in Study 1 was that at least one of the three palonosetron doses were superior to placebo.
 

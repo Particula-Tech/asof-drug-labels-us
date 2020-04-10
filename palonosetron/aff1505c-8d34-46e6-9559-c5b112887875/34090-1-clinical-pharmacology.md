@@ -2,14 +2,14 @@
 
 ## 12.1 Mechanism of Action
 
-Palonosetron is a 5-HT 3 receptor antagonist with a strong binding affinity for this receptor and little or no affinity for other receptors.
+Palonosetron is a 5-HT3 receptor antagonist with a strong binding affinity for this receptor and little or no affinity for other receptors.
 
 Cancer chemotherapy may be associated with a high incidence of nausea and vomiting, particularly when certain agents, such as cisplatin, are used.
-5-HT 3 receptors are located on the nerve terminals of the vagus in the periphery and centrally in the chemoreceptor trigger zone of the area postrema.
-It is thought that chemotherapeutic agents produce nausea and vomiting by releasing serotonin from the enterochromaffin cells of the small intestine and that the released serotonin then activates 5-HT 3 receptors located on vagal afferents to initiate the vomiting reflex.
+5-HT3 receptors are located on the nerve terminals of the vagus in the periphery and centrally in the chemoreceptor trigger zone of the area postrema.
+It is thought that chemotherapeutic agents produce nausea and vomiting by releasing serotonin from the enterochromaffin cells of the small intestine and that the released serotonin then activates 5-HT3 receptors located on vagal afferents to initiate the vomiting reflex.
 
 Postoperative nausea and vomiting is influenced by multiple patient, surgical and anesthesia related factors and is triggered by release of 5-HT in a cascade of neuronal events involving both the central nervous system and the gastrointestinal tract.
-The 5-HT 3 receptor has been demonstrated to selectively participate in the emetic response.
+The 5-HT3 receptor has been demonstrated to selectively participate in the emetic response.
 
 ## 12.2 Pharmacodynamics
 
@@ -24,7 +24,7 @@ The study demonstrated no significant effect on any ECG interval including QTc d
 ## 12.3 Pharmacokinetics
 
 After intravenous dosing of palonosetron in healthy subjects and cancer patients, an initial decline in plasma concentrations is followed by a slow elimination from the body.
-Mean maximum plasma concentration (C max) and area under the concentration-time curve (AUC 0-∞) are generally dose-proportional over the dose range of 0.3 to 90 mcg/kg in healthy subjects and in cancer patients.
+Mean maximum plasma concentration (Cmax) and area under the concentration-time curve (AUC0-∞) are generally dose-proportional over the dose range of 0.3 to 90 mcg/kg in healthy subjects and in cancer patients.
 Following single I.V. dose of palonosetron at 3 mcg/kg (or 0.21 mg/70 kg) to six cancer patients, mean (± SD) maximum plasma concentration was estimated to be 5630 ± 5480 ng/L and mean AUC was 35.8 ± 20.9 h•mcg/L.
 
 Following I.V. administration of palonosetron 0.25 mg once every other day for 3 doses in 11 cancer patients, the mean increase in plasma palonosetron concentration from Day 1 to Day 5 was 42 ± 34%.
@@ -40,7 +40,7 @@ Approximately 62% of palonosetron is bound to plasma proteins.
 Metabolism
 
 Palonosetron is eliminated by multiple routes with approximately 50% metabolized to form two primary metabolites: N-oxide-palonosetron and 6-S-hydroxy-palonosetron.
-These metabolites each have less than 1% of the 5-HT 3 receptor antagonist activity of palonosetron.
+These metabolites each have less than 1% of the 5-HT3 receptor antagonist activity of palonosetron.
 In vitro metabolism studies have suggested that CYP2D6 and to a lesser extent, CYP3A4 and CYP1A2 are involved in the metabolism of palonosetron.
 However, clinical pharmacokinetic parameters are not significantly different between poor and extensive metabolizers of CYP2D6 substrates.
 
@@ -69,15 +69,15 @@ Pharmacokinetics Parameters in Pediatric Cancer Patients following intravenous i
 | --- | --- | --- | --- | --- |
 | <2 y | 2 to <6 y | 6 to <12 y | 12 to <17 y |  |
 |  | N=12 | N=42 | N=38 | N=44 |
-| C T†, ng/L | 9025 (197) | 9414 (252) | 16275 (203) | 11831 (176) |
+| CT†, ng/L | 9025 (197) | 9414 (252) | 16275 (203) | 11831 (176) |
 |  |  | N=5 | N=7 | N=10 |
-| AUC 0-∞, h·mcg/L |  | 103.5 (40.4) | 98.7 (47.7) | 124.5 (19.1) |
+| AUC0-∞, h·mcg/L |  | 103.5 (40.4) | 98.7 (47.7) | 124.5 (19.1) |
 |  | N=6 | N=14 | N=13 | N=19 |
-| Clearance ‡, L/h/kg | 0.31 (34.7) | 0.23 (51.3) | 0.19 (46.8) | 0.16 (27.8) |
-| Vss ‡, L/kg | 6.08 (36.5) | 5.29 (57.8) | 6.26 (40.0) | 6.20 (29.0) |
+| Clearance‡, L/h/kg | 0.31 (34.7) | 0.23 (51.3) | 0.19 (46.8) | 0.16 (27.8) |
+| Vss‡, L/kg | 6.08 (36.5) | 5.29 (57.8) | 6.26 (40.0) | 6.20 (29.0) |
 
-*Geometric Mean (CV) except for t 1/2 which is median values.
+*Geometric Mean (CV) except for t1/2 which is median values.
 
-†C T is the plasma palonosetron concentration at the end of the 15 minute infusion.
+†CT is the plasma palonosetron concentration at the end of the 15 minute infusion.
 
 ‡Clearance and Vss calculated from 10 and 20 mcg/kg and are weight adjusted.
