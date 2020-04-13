@@ -10,6 +10,8 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 
 If EPCLUSA is administered with ribavirin, refer to the prescribing information for ribavirin for a description of ribavirin-associated adverse reactions.
 
+Clinical Trials in Adult Subjects
+
 Adverse Reactions in Subjects without Cirrhosis or with Compensated Cirrhosis
 
 The adverse reactions data for EPCLUSA in patients without cirrhosis or with compensated cirrhosis were derived from three Phase 3 clinical trials (ASTRAL-1, ASTRAL-2, and ASTRAL-3) which evaluated a total of 1035 subjects infected with genotype 1, 2, 3, 4, 5, or 6 HCV, without cirrhosis or with compensated cirrhosis, who received EPCLUSA for 12 weeks.
@@ -78,6 +80,11 @@ The elevated indirect bilirubin values were not associated with clinical adverse
 Adverse Reactions in Adults with Severe Renal Impairment Requiring Dialysis
 
 In an open-label trial (Trial 4062), in which a total of 59 adults with HCV with compensated liver disease (with or without cirrhosis) and ESRD requiring dialysis received EPCLUSA for 12 weeks, the most common adverse reaction was nausea (7%) [see Clinical Studies (14.5)].
+
+Adverse Reactions in Pediatric Subjects 6 Years of Age and Older
+
+The safety assessment of EPCLUSA in pediatric subjects 6 years of age and older or weighing at least 17 kg is based on data from a Phase 2, open-label clinical trial (Study 1143) that enrolled 175 subjects who were treated with EPCLUSA for 12 weeks.
+The adverse reactions observed were consistent with those observed in clinical trials of EPCLUSA in adults [see Use in Specific Populations (8.4) and Clinical Studies (14.6)].
 
 ## 6.2 Postmarketing Experience
 

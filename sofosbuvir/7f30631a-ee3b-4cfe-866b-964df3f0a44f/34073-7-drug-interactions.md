@@ -23,12 +23,12 @@ Management of hypoglycemia in these cases required either discontinuation or dos
 Frequent monitoring of relevant laboratory parameters (e.g., International Normalized Ratio [INR] in patients taking warfarin, blood glucose levels in diabetic patients) or drug concentrations of concomitant medications such as cytochrome P450 substrates with a narrow therapeutic index (e.g., certain immunosuppressants) is recommended to ensure safe and effective use.
 Dose adjustments of concomitant medications may be necessary.
 
-Table 2 provides a listing of established or potentially clinically significant drug interactions.
+Table 4 provides a listing of established or potentially clinically significant drug interactions.
 The drug interactions described are based on studies conducted with either EPCLUSA, the components of EPCLUSA (sofosbuvir and velpatasvir) as individual agents, or are predicted drug interactions that may occur with EPCLUSA [see Warnings and Precautions (5.2, 5.3) and Clinical Pharmacology (12.3)].
 
-Table 2 Potentially Significant Drug Interactions: Alteration in Dose or Regimen May Be Recommended Based on Drug Interaction Studies or Predicted InteractionThis table is not all inclusive.
+Table 4 Potentially Significant Drug Interactions: Alteration in Dose or Regimen May Be Recommended Based on Drug Interaction Studies or Predicted InteractionThis table is not all inclusive.
 
-| Concomitant Drug Class: Drug Name | Effect on Concentration↓ = decrease, ↑ = increase. | Clinical Effect/Recommendation |
+| Concomitant Drug Class: Drug Name | Effect on Concentration ↓ = decrease, ↑ = increase. | Clinical Effect/Recommendation |
 | --- | --- | --- |
 | Acid Reducing Agents: | ↓ velpatasvir | Velpatasvir solubility decreases as pH increases. Drugs that increase gastric pH are expected to decrease concentration of velpatasvir. |
 | Antacids (e.g., aluminum and magnesium hydroxide) | Separate antacid and EPCLUSA administration by 4 hours. |  |
@@ -54,4 +54,4 @@ Based on drug interaction studies conducted with the components of EPCLUSA (sofo
 - EPCLUSA: atazanavir/ritonavir, cyclosporine, darunavir/ritonavir, dolutegravir, elvitegravir/cobicistat/emtricitabine/tenofovir alafenamide, emtricitabine, raltegravir, or rilpivirine.
 - Sofosbuvir: ethinyl estradiol/norgestimate, methadone, or tacrolimus.
 - Velpatasvir: ethinyl estradiol/norgestimate, ketoconazole, or pravastatin.
-  See Table 2 for use of EPCLUSA with certain HIV antiretroviral regimens [see Drug Interactions (7.3)].
+  See Table 4 for use of EPCLUSA with certain HIV antiretroviral regimens [see Drug Interactions (7.3)].
