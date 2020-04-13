@@ -260,7 +260,6 @@ Mean Qmax increased from baseline in both the treatment and placebo groups (tada
 
 In Study K, the effect of tadalafil 5 mg once daily on Qmax was evaluated as a safety endpoint.
 Mean Qmax increased from baseline in both the treatment and placebo groups (tadalafil 5 mg: 1.6 mL/sec, placebo: 1.1 mL/sec); however, these changes were not significantly different between groups.
-
 Efficacy Results in Patients with BPH initiating Tadalafil and Finasteride – Tadalafil for once daily use initiated together with finasteride was shown to be effective in treating the signs and symptoms of BPH in men with an enlarged prostate (>30 cc) for up to 26 weeks.
 This additional double-blinded, parallel-design study of 26 weeks duration randomized 696 men to initiate either tadalafil 5 mg with finasteride 5 mg or placebo with finasteride 5 mg.
 The study population had a mean age of 64 years (range 46 to 86).

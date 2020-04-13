@@ -1,3 +1,9 @@
+# PACKAGE LABEL-PRINCIPAL DISPLAY PANEL - 2.5 mg (30 Tablets Bottle)
+
+NDC 65862-850-30 Rx only Tadalafil Tablets USP 2.5 mg for once daily use Tablets should not be split.
+Entire dose should be taken.
+AUROBINDO 30 Tablets
+
 # PACKAGE LABEL-PRINCIPAL DISPLAY PANEL - 2.5 mg Blister Carton (2x15 Unit-dose)
 
 NDC 65862-850-32 Rx only Tadalafil Tablets USP 2.5 mg for once daily use Tablets should not be split.
