@@ -20,7 +20,7 @@ Table 1: Schedule for Dose Titration
 
 ## 2.2 Important Administration Instructions (All Dosage Forms)
 
-All AVONEX dosage forms are single-use (injection of reconstituted solution, prefilled syringe, and prefilled autoinjector).
+AVONEX dosage forms (prefilled syringe and prefilled autoinjector) are single-dose.
 See Patient's Instructions for Use for complete administration instructions.
 
 The first AVONEX injection should be performed under the supervision of an appropriately qualified healthcare professional.
@@ -33,12 +33,14 @@ Advise patients and caregivers to:
 - Check the injection site after 2 hours for redness, swelling, or tenderness
 - Contact their healthcare provider if they have a skin reaction and it does not clear up in a few days
 
-A 25 gauge, 1” needle for intramuscular injection with AVONEX prefilled syringe or injection of reconstituted solution may be substituted for the 23 gauge, 1 ¼” needle by the healthcare provider, if deemed appropriate.
+Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration, whenever solution and container permit.
+
+A 25 gauge, 1” needle for intramuscular injection with AVONEX prefilled syringe may be substituted for the 23 gauge, 1 ¼” needle by the healthcare provider, if deemed appropriate.
 A 25 gauge, 5/8” needle specific to the prefilled autoinjector is supplied with the AVONEX PEN® Administration Dose Pack.
 DO NOT use any other needle with the autoinjector.
 
 Use safe disposal procedures for needles and syringes.
-Do not re-use needles, syringes, prefilled syringes, or autoinjectors.
+DO NOT re-use needles, prefilled syringes, or autoinjectors.
 Following the administration of each titrated dose, discard any remaining product.
 
 ## 2.3 Premedication for Flu-like Symptoms

@@ -85,6 +85,7 @@ For these reasons, comparison of the incidence of antibodies to AVONEX with the 
 The following additional adverse reactions have been identified during post-approval use of AVONEX.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
+- Hemolytic Anemia
 - Menorrhagia and metrorrhagia
 - Rash (including vesicular rash)
 - Rare cases of injection site abscess or cellulitis requiring surgical intervention

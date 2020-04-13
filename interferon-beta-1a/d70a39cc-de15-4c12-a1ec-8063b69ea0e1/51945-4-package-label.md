@@ -58,40 +58,6 @@ This Product Contains Dry Natural Rubber.
 
 Rx only
 
-Principal Display Panel - 30 mcg Carton Label
-
-NDC 59627-111-03
-
-Avonex® (interferon beta-1a) Injection
-
-30 mcg Single-Use Lyophilized Powder Vial
-
-For Intramuscular Injection
-
-Once a Week
-
-Contents:
-
-4 Avonex® Administration Dose Packs
-
-Store refrigerated at 2-8°C (36-46°F)
-
-Do not freeze or expose to high temperatures.
-Protect from light.
-
-The recommended dosage of Avonex® is 30 mcg injected intramuscularly once weekly.
-See package insert for full prescribing information.
-
-ATTENTION PHARMACIST: Each patient is required to receive the enclosed Medication Guide.
-
-Principal Display Panel - 30 mcg Tray Lid Label
-
-NDC 59627-111-04
-
-Avonex® (interferon beta-1a) 30 mcg Single-Use Lyophilized Powder Vial
-
-For Intramuscular Injection
-
 Principal Display Panel - Carton Label
 
 NDC 59627-333-04
@@ -132,7 +98,7 @@ Once a Week
 
 Contents:
 
-4 Avonex® Administration Dose Packs
+4 Avonex®Administration Dose Packs
 
 ATTENTION PHARMACIST: Each patient is required to receive the enclosed Medication Guide.
 
@@ -150,7 +116,7 @@ See package insert for dosage and administration.
 
 Principal Display Panel - Tray Lid Label
 
-Avonex® (interferon beta-1a)
+Avonex®(interferon beta-1a)
 
 30 mcg/0.5 mL Single-Use Prefilled Syringe
 

@@ -1,6 +1,7 @@
 # 14 CLINICAL STUDIES
 
 The clinical effects of AVONEX in patients with relapsing forms of multiple sclerosis (MS) were studied in two randomized, multicenter, double-blind, placebo-controlled studies in patients with MS (Studies 1 and 2).
+Safety and efficacy of treatment with AVONEX beyond 3 years is not known.
 
 In Study 1, 301 patients received either 30 micrograms of AVONEX (n=158) or placebo (n=143) by intramuscular injection once weekly.
 Patients received injections for up to 2 years, and continued to be followed until study completion.
@@ -21,7 +22,7 @@ As shown in Figure 1, the time to onset of sustained progression in disability w
 The percentage of patients progressing by the end of 2 years was 35% for placebo-treated patients and 22% for AVONEX-treated patients.
 This represents a 37% relative reduction in the risk of accumulating disability in the AVONEX-treated group compared to the placebo-treated group.
 
-1 Kaplan-Meier Methodology; Disability progression was defined as at least a 1 point increase in EDSS score sustained for at least 6 months.
+1Kaplan-Meier Methodology; Disability progression was defined as at least a 1 point increase in EDSS score sustained for at least 6 months.
 
 The distribution of confirmed EDSS change from study entry (baseline) to the end of the study is shown in Figure 2.
 There was a statistically significant difference between the AVONEX and placebo groups in confirmed change for patients with at least 2 scheduled visits (p = 0.006).
@@ -52,31 +53,24 @@ Table 3: Clinical and MRI Endpoints in Patients with MS in Study 1
 | Endpoint | Placebo | AVONEX | P-Value |
 | --- | --- | --- | --- |
 | PRIMARY ENDPOINT: |  |  |  |
-| Time to sustained progression |  |  |  |
-| in disability (N: 143, 158)1 | --- See Figure 1 --- |  | 0.022 |
-| Percentage of patients progressing |  |  |  |
-| in disability at 2 years |  |  |  |
-| (Kaplan-Meier estimate)1 | 35% | 22% |  |
-| SECONDARY ENDPOINTS: |  |  |  |
-| DISABILITY |  |  |  |
-| Mean confirmed change in EDSS |  |  |  |
-| from study entry to end of study |  |  |  |
-| (N: 136, 150)1 | 0.50 | 0.20 | 0.0063 |
+| Time to sustained progression in disability (N: 143, 158)1 | --- See Figure 1 --- |  | 0.022 |
+| Percentage of patients progressing in disability at 2 years (Kaplan-Meier estimate)1 | 35% | 22% |  |
+| SECONDARY ENDPOINTS: DISABILITY |  |  |  |
+| Mean confirmed change in EDSS from study entry to end of study (N: 136, 150)1 | 0.50 | 0.20 | 0.0063 |
 | EXACERBATIONS |  |  |  |
-| Number of exacerbations in subset |  |  |  |
-| completing 2 years (N: 87, 85) |  |  |  |
+| Number of exacerbations in subset completing 2 years (N: 87, 85) |  |  |  |
 | 0 | 26% | 38% | 0.033 |
 | 1 | 30% | 31% |  |
 | 2 | 11% | 18% |  |
 | 3 | 14% | 7% |  |
 | ≥ 4 | 18% | 7% |  |
-| Percentage of patients exacerbation- |  |  |  |
-| free in subset completing 2 years |  |  |  |
-| (N: 87, 85) | 26% | 38% | 0.104 |
-| Annual exacerbation rate |  |  |  |
-| (N: 143, 158)1 | 0.82 | 0.67 | 0.045 |
-| Table 3 (continued): Clinical and MRI Endpoints in Study 1 |  |  |  |
+| Percentage of patients exacerbation-free in subset completing 2 years (N: 87, 85) | 26% | 38% | 0.104 |
+| Annual exacerbation rate (N: 143, 158)1 | 0.82 | 0.67 | 0.045 |
+
+Table 3 (continued): Clinical and MRI Endpoints in Study 1
+
 | Endpoint | Placebo | AVONEX | P-Value |
+| --- | --- | --- | --- |
 | MRI |  |  |  |
 | Number of Gd-enhanced lesions: |  |  |  |
 | At study entry (N: 132, 141) |  |  |  |
@@ -89,11 +83,9 @@ Table 3: Clinical and MRI Endpoints in Patients with MS in Study 1
 | Mean (Median) | 1.6 (0) | 0.8 (0) | 0.053 |
 | Range | 0-34 | 0-13 |  |
 | T2 lesion volume: |  |  |  |
-| Percentage change from study |  |  |  |
-| entry to Year 1 (N: 116, 123) |  |  |  |
+| Percentage change from study entry to Year 1 (N: 116, 123) |  |  |  |
 | Median | -3.3% | -13.1% | 0.023 |
-| Percentage change from study |  |  |  |
-| entry to Year 2 (N: 83, 81) |  |  |  |
+| Percentage change from study entry to Year 2 (N: 83, 81) |  |  |  |
 | Median | -6.5% | -13.2% | 0.363 |
 | Note: (N:,) denotes the number of evaluable placebo and AVONEX patients, respectively. |  |  |  |
 | 1Patient data included in this analysis represent variable periods of time on study. |  |  |  |

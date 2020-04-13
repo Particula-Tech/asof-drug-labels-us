@@ -7,8 +7,6 @@
   "inn": "interferon-beta-1a",
   "labeler": "Biogen Inc.",
   "package_ndcs": [
-    "59627-001-03",
-    "59627-001-04",
     "59627-002-05",
     "59627-002-07",
     "59627-003-01",
@@ -19,11 +17,6 @@
     "59627-333-04"
   ],
   "products": [
-    {
-      "form": "INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION",
-      "generic": "interferon beta-1a",
-      "name": "AVONEX"
-    },
     {
       "form": "INJECTION, SOLUTION",
       "generic": "interferon beta-1a",

@@ -4,15 +4,15 @@ See FDA-approved patient labeling (Medication Guide and Patient's Instructions f
 
 Instruct patients to carefully read the supplied AVONEX Medication Guide and caution patients not to change the AVONEX dose or schedule of administration without medical consultation.
 
-Inform patients that the Prefilled Syringe tip cap of this product contains natural rubber latex which may cause allergic reactions.
+Inform patients that the tip cap of the AVONEX Prefilled Syringe and AVONEX PEN contains natural rubber latex which may cause allergic reactions.
 
 Instruction on Self-injection Technique and Procedures
 
-Provide appropriate instruction for reconstitution of AVONEX and methods of self-injection, including careful review of the AVONEX Medication Guide.
+Provide appropriate instruction for methods of self-injection of AVONEX, including careful review of the AVONEX Medication Guide.
 Instruct patients in the use of aseptic technique when administering AVONEX.
 
-Inform patients that their healthcare provider should show them or their caregiver how to prepare and inject AVONEX before administering the first dose.
-Their healthcare provider should watch the first AVONEX injection given.
+Inform patients that an appropriately qualified healthcare professional should show them or their caregiver how to prepare and inject AVONEX before administering the first dose.
+An appropriately qualified healthcare professional should watch the first AVONEX injection given.
 Tell patients not to re-use needles or syringes and instruct patients on safe disposal procedures.
 Inform patients to dispose of used needles and syringes in a puncture-resistant container and instruct the patient regarding safe disposal of full containers.
 
@@ -26,7 +26,7 @@ Advise patients:
 
 Pregnancy
 
-Advise patients that AVONEX should not be used during pregnancy unless the potential benefit justifies the potential risk to the fetus [see Use in Special Population (8.1)].
+Advise patients to notify their healthcare provider if they become pregnant during treatment or plan to become pregnant [see Pregnancy (8.1)].
 
 Depression
 
@@ -56,7 +56,7 @@ Flu-like Symptoms
 Inform patients that flu-like symptoms are common following initiation of therapy with AVONEX [see Dosage and Administration (2.3) and Adverse Reactions (6)].
 Advise patients that starting with a lower dose than 30 micrograms and increasing the dose over 3 weeks reduces the incidence and severity of flu-like symptoms.
 
-41613-04
+41613-05
 
 Manufactured by:
 
@@ -64,9 +64,11 @@ Biogen Inc.
 
 Cambridge, MA 02142 USA
 
-U.S. License #1697 1-800-456-2255
+U.S. License #1697
 
-© Biogen 1996-2019.
+1-800-456-2255
+
+AVONEX is a registered trademark of Biogen.
+
+© Biogen 1996-2020.
 All rights reserved.
-
-*MICRO PIN® is the trademark of B. Braun Medical Inc.
