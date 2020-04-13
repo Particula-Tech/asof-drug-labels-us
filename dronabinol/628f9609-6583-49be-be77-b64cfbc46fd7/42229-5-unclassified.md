@@ -1,0 +1,68 @@
+# PATIENT INFORMATION
+
+MARINOL® (mare in all) (dronabinol) capsules, for oral use, CIII What is the most important information I should know about MARINOL?
+MARINOL can cause serious side effects, including: • Worsening mental (psychiatric) symptoms.
+Psychiatric symptoms can worsen in people who have mania, depression, or schizophrenia and who take MARINOL® (dronabinol capsules, USP).
+MARINOL taken with medicines that cause psychiatric symptoms can worsen psychiatric symptoms.
+Elderly people who take MARINOL may have a greater risk of having psychiatric symptoms.
+Tell your doctor if you have new or worsening mood symptoms, including symptoms of mania, depression, or schizophrenia. • Problems thinking clearly.
+Tell your doctor if you have trouble remembering things, concentrating, have increased sleepiness, or confusion.
+Elderly people may have a greater risk of having problems thinking clearly. • Changes in your blood pressure.
+MARINOL may increase or decrease your blood pressure, especially when you start taking MARINOL or when your dose is changed.
+Tell your doctor if you have signs or symptoms of changes in your blood pressure including: headaches, vision problems, dizziness, feeling lightheaded, fainting, or a fast heartbeat.
+Elderly people, especially those with dementia, and people with heart problems may have an increased risk of changes in blood pressure and an increased risk of falls.
+What is MARINOL? • MARINOL is a prescription medicine used in adults to treat: ◦ loss of appetite (anorexia) in people with AIDS (Acquired Immune Deficiency Syndrome) who have lost weight. ◦ nausea and vomiting caused by anti-cancer medicine (chemotherapy) in people whose nausea and vomiting have not improved with usual anti-nausea medicines.
+MARINOL is a controlled substance (CIII) because it contains dronabinol, which can be a target for people who abuse prescription medicines or street drugs.
+Keep your MARINOL in a safe place to protect it from theft.
+Never give your MARINOL to anyone else because it may cause death or harm them.
+Selling or giving away this medicine is against the law.
+It is not known if MARINOL is safe and effective in children.
+Do not take MARINOL if you: • had an allergic reaction to dronabinol.
+Signs and symptoms of an allergic reaction to dronabinol include: swelling of the lips, hives, a rash over your whole body, mouth sores, skin burning, flushing, and throat tightness. • had an allergic reaction to sesame oil.
+Before taking MARINOL, tell your doctor about all of your medical conditions, including if you: • have or had heart problems. • have or had problems with drug abuse or dependence. • have or had problems with alcohol abuse or dependence. • have or had mental health problems including mania, depression, or schizophrenia. • have had a seizure or have a medical condition that may increase your risk of having a seizure. • are pregnant or plan to become pregnant.
+MARINOL may harm your unborn baby.
+Avoid the use of MARINOL if you are pregnant. • are breastfeeding or plan to breastfeed.
+The Centers for Disease Control and Prevention recommends that mothers with HIV not breastfeed because they can pass the HIV through their breast milk to the baby.
+It is not known if MARINOL passes into your breast milk.
+Talk to your doctor about the best way to feed your baby if you take MARINOL.
+Do not breastfeed while taking MARINOL and for 9 days after your last dose of MARINOL if you are being treated for nausea and vomiting caused by anti-cancer medicine.
+Tell your doctor about all the medicines you take or have taken in the last 14 days, including prescription and over-the-counter medicines, vitamins, and herbal supplements.
+MARINOL and certain other medicines can affect each other, causing serious side effects.
+How should I take MARINOL? • Take MARINOL exactly as your doctor tells you to.
+Your doctor may change your dose after seeing how it affects you.
+Do not change your dose unless your doctor tells you to change it. • If you are an adult with AIDS with loss of appetite and weight loss: ◦ MARINOL is usually taken 2 times each day, 1 hour before lunch and 1 hour before dinner.
+If you are elderly or unable to tolerate this dose of MARINOL, your doctor may prescribe MARINOL to be taken 1 time each day, 1 hour before dinner or bedtime to reduce your chance of having nervous system problems. • If you are an adult with nausea and vomiting caused by anti-cancer medicine: ◦ MARINOL® (dronabinol capsules, USP) is usually taken 1 to 3 hours before your chemotherapy treatment and then every 2 to 4 hours after chemotherapy for up to 4 to 6 doses each day.
+If you are elderly, your doctor may prescribe MARINOL to be taken 1 to 3 hours before your chemotherapy, 1 time each day to reduce your chance of having nervous system problems. ◦ Take your first dose of MARINOL on an empty stomach at least 30 minutes before eating.
+After your first dose of MARINOL, you can take MARINOL with or without food.
+Always take your dose at the same time with regard to meals. • If you take too much MARINOL, call your Poison Control Center at 1-800-222-1222 right away.
+What should I avoid while taking MARINOL? • Do not drive, operate machinery, or do other dangerous activities until you know how MARINOL affects you.
+MARINOL taken with other medicines that cause dizziness, confusion, and sleepiness may make these symptoms worse.
+What are the possible side effects of MARINOL?
+MARINOL may cause serious side effects, including: • See "What is the most important information I should know about MARINOL?" • Seizures.
+MARINOL may increase your risk of seizures.
+Stop taking MARINOL and call your doctor and get medical care right away if you have a seizure during treatment with MARINOL. • Drug and alcohol abuse.
+You may have an increased risk of abusing MARINOL if you have a history of drug or alcohol abuse or dependence, including marijuana.
+Tell your doctor if you develop abuse behaviors such as increased irritability, nervousness, restlessness or want more or higher doses of MARINOL during your treatment. • Nausea, vomiting, or stomach-area (abdominal) pain.
+Tell your doctor if you have nausea, vomiting, or abdominal pain or if your nausea, vomiting, or abdominal pain gets worse during treatment with MARINOL.
+The most common side effects of MARINOL include:
+
+| dizzinessfeeling extremely happy (euphoria)overly suspicious or feeling people want to harm you (paranoid reaction)sleepiness | abnormal thoughtsstomach-area (abdominal) painnauseavomiting |
+| --- | --- |
+
+These are not all the possible side effects of MARINOL.
+Tell your doctor if you have any side effect that bothers you or does not go away.
+Call your doctor for medical advice about side effects.
+You may report side effects to FDA at 1-800-FDA-1088.
+How should I store MARINOL? • Store MARINOL in a cool place such as in a refrigerator, at a temperature between 46°F to 59°F (8°C to 15°C). • Do not freeze MARINOL capsules. • Keep the MARINOL container closed tightly.
+Keep MARINOL and all medicines out of the reach of children.
+General information about the safe and effective use of MARINOL Medicines are sometimes prescribed for purposes other than those listed in a Patient Information leaflet.
+Do not use MARINOL® (dronabinol capsules, USP) for a condition for which it was not prescribed.
+Do not give MARINOL to other people, even if they have the same symptoms that you have.
+It may harm them.
+You can ask your doctor or pharmacist for information about MARINOL that is written for health professionals.
+What are the ingredients in MARINOL?
+Active ingredient: dronabinol Inactive ingredients: 2.5 mg capsules contain gelatin, glycerin, sesame oil, and titanium dioxide; 5 mg capsules contain iron oxide red and iron oxide black, gelatin, glycerin, sesame oil, and titanium dioxide; 10 mg capsules contain iron oxide red and iron oxide yellow, gelatin, glycerin, sesame oil, and titanium dioxide.
+Manufactured by: Patheon Softgels Inc. High Point, NC 27265 Manufactured for: Alkem Laboratories Ltd., Mumbai - 400 013, INDIA.
+Distributed by: ThePharmaNetwork Parsippany, New Jersey 07054 For more information, go to www.thepharmanetwork.com or call 1-877-272-7901.
+This Patient Information has been approved by the U.S. Food and Drug Administration.
+Revised: December, 2019 1248D99 12/19
