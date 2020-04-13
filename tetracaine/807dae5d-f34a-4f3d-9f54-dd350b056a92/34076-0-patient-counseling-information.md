@@ -14,8 +14,10 @@ Oceanside Pharmaceuticals, a division of Bausch Health US, LLC, Bridgewater, NJ 
 
 Manufactured by:
 
-Bausch & Lomb Incorporated Tampa, FL 33637
+Bausch & Lomb Incorporated Tampa, FL 33637 USA
 
-9675200 (Folded) 9675300 (Flat)
+© 2020 Bausch Health Companies Inc. or its affiliates
+
+9675201 (Folded) 9675301 (Flat)
 
 Revised: May 2019
