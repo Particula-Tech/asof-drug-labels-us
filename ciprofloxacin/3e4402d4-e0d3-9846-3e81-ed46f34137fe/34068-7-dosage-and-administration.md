@@ -56,7 +56,7 @@ Table 3: Pediatric Dosage Guidelines
 | Inhalational Anthrax | 15 mg/kg |  |  |
 | (Post-­Exposure)2 | (maximum 500 mg per dose) | Every 12 hours | 60 days |
 | Plague2,3 | 15 mg/kg | Every 8 to 12 |  |
-|  | (maximum 500 mg per dose) | hours | 10 to 21 days |
+|  | (maximum 500 mg per dose) | hours | 14 days |
 | 1. The total duration of therapy for cUTI and pyelonephritis in the clinical trial was determined by the physician. The mean duration of treatment was 11 days (range 10 to 21 days). |  |  |  |
 | 2. Begin drug administration as soon as possible after suspected or confirmed exposure. |  |  |  |
 | 3. Begin drug administration as soon as possible after suspected or confirmed exposure to Y. pestis. |  |  |  |

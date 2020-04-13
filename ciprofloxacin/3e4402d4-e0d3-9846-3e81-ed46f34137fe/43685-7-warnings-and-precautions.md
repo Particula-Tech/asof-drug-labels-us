@@ -42,7 +42,7 @@ Advise patients receiving ciprofloxacin to inform their healthcare provider imme
 
 Central Nervous System Adverse Reactions
 
-Fluoroquinolones, including ciprofloxacin, have been associated with an increased risk of seizures (convulsions), increased intracranial pressure (pscudotumor cerebri), dizziness, and tremors.
+Fluoroquinolones, including ciprofloxacin, have been associated with an increased risk of seizures (convulsions), increased intracranial pressure (pseudotumor cerebri), dizziness, and tremors.
 Ciprofloxacin, like other fluoroquinolones, is known to trigger seizures or lower the seizure threshold.
 Cases of status epilepticus have been reported.
 As with all fluoroquinolones, use ciprofloxacin with caution in epileptic patients and patients with known or suspected CNS disorders that may predispose to seizures or lower the seizure threshold (for example, severe cerebral arteriosclerosis, previous history of convulsion, reduced cerebral blood flow, altered brain structure, or stroke), or in the presence of other risk factors that may predispose to seizures or lower the seizure threshold (for example, certain drug therapy, renal dysfunction).
@@ -101,9 +101,9 @@ Instances of nausea, vomiting, tremor, irritability, or palpitation have also oc
 Although similar serious adverse reactions have been reported in patients receiving theophylline alone, the possibility that these reactions may be potentiated by ciprofloxacin cannot be eliminated.
 If concomitant use cannot be avoided, monitor serum levels of theophylline and adjust dosage as appropriate [see Drug Interactions (7)].
 
-## 5.11 Clostridium difficile-Associated Diarrhea
+## 5.11 Clostridioides difficile-Associated Diarrhea
 
-Clostridium difficile (C. difficile)-associated diarrhea (CDAD) has been reported with use of nearly all antibacterial agents, including ciprofloxacin, and may range in severity from mild diarrhea to fatal colitis.
+Clostridioides difficile (C. difficile)-associated diarrhea (CDAD) has been reported with use of nearly all antibacterial agents, including ciprofloxacin, and may range in severity from mild diarrhea to fatal colitis.
 Treatment with antibacterial agents alters the normal flora of the colon leading to overgrowth of C. difficile.
 
 C. difficile produces toxins A and B which contribute to the development of CDAD.
