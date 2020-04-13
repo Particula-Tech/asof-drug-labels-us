@@ -89,3 +89,10 @@ Difference in the Frequency of Adverse Reactions by Age
 Hallucinations (visual or auditory) were reported in 31% of GOCOVRI-treated patients age 65 years and over (n=52), compared to 10% in patients below the age of 65 years (n=48).
 Falls were reported in 17% of GOCOVRI-treated patients age 65 and over, compared to 8% of patients below age 65.
 Orthostatic hypotension was reported in 8% of patients age 65 and over, compared to 2% of patients below age 65.
+
+## 6.2 Postmarketing Experience
+
+The following adverse reactions have been identified during postapproval use of GOCOVRI.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+Nervous System Disorders: Seizure.

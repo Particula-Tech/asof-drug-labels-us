@@ -8,3 +8,5 @@
 | How should I store GOCOVRI? Store GOCOVRI at room temperature between 68°F to 77°F (20°C to 25°C).Keep GOCOVRI out of the reach of children. |  |
 | General information about the safe and effective use of GOCOVRI.Medicines are sometimes prescribed for purposes other than those listed in a Patient Information leaflet. Do not use GOCOVRI for a condition for which it was not prescribed. Do not give GOCOVRI to other people, even if they have the same symptoms that you have. It may harm them. You can ask your pharmacist or doctor for information about GOCOVRI that is written for health professionals. |  |
 | What are the ingredients in GOCOVRI?Active ingredient: amantadine hydrochlorideInactive ingredients: copovidone, ethylcellulose, hypromellose, magnesium stearate, medium chain triglycerides, microcrystalline cellulose, povidone, and talc Manufactured for: Adamas Pharma LLC. Emeryville, CA 94608For more information, go to www.GOCOVRI.com or call 1-833-223-2627. |  |
+
+This Patient Information has been approved by the U.S. Food and Drug Administration Issued:3/2020
