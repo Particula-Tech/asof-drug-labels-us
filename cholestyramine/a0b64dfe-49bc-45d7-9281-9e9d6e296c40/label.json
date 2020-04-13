@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "ANDA211119"
+  ],
+  "inn": "cholestyramine",
+  "labeler": "Ajanta Pharma Limited",
+  "package_ndcs": [
+    "27241-134-21",
+    "27241-134-36",
+    "27241-134-51"
+  ],
+  "products": [
+    {
+      "form": "POWDER, FOR SUSPENSION",
+      "generic": "cholestyramine",
+      "name": "Cholestyramine"
+    }
+  ],
+  "setid": "a0b64dfe-49bc-45d7-9281-9e9d6e296c40",
+  "source": "dailymed"
+}
