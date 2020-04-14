@@ -19,5 +19,3 @@ Bausch & Lomb Incorporated Tampa, FL 33637 USA
 © 2020 Bausch Health Companies Inc. or its affiliates
 
 9675201 (Folded) 9675301 (Flat)
-
-Revised: May 2019
