@@ -26,7 +26,8 @@ Alert patients and their caregivers to the possibility that they may experience 
 
 Hallucinations and Psychotic-like Behavior
 
-Inform patients that hallucinations and other psychotic-like behavior can occur and that the elderly are at a higher risk than younger patients with Parkinson's disease [see Warnings and Precautions (5.4)].
+Inform patients that hallucinations and other psychotic-like behavior can occur.
+In patients with Parkinson’s disease, the elderly are at a higher risk than younger patients [see Warnings and Precautions (5.4)].
 
 Postural (Orthostatic) Hypotension
 
@@ -52,4 +53,4 @@ Trademark under license from: Boehringer Ingelheim International GmbH
 
 Copyright © 2020 Boehringer Ingelheim International GmbH ALL RIGHTS RESERVED
 
-OT1338YB042020
+OT1338AAD082020
