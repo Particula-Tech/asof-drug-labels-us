@@ -7,7 +7,7 @@ Optimal patient response can usually be established with 1800 mg/day in the foll
 | ACUTE MANIA |  |  |  |
 | --- | --- | --- | --- |
 |  | Morning | Afternoon | Nighttime |
-| Lithium Carbonate Extended-Release TabletsCan also be administered on 600 mg TID recommended dosing interval. | 3 tablets(900 mg) |  | 3 tablets(900 mg) |
+| Lithium Carbonate Extended-Release Tablets | 3 tablets(900 mg) |  | 3 tablets(900 mg) |
 
 Such doses will normally produce an effective serum lithium concentration ranging between 1 and 1.5 mEq/L.
 Dosage must be individualized according to serum concentrations and clinical response.
@@ -22,7 +22,7 @@ Dosage will vary from one individual to another, but generally the following dos
 | LONG-TERM CONTROL |  |  |  |
 | --- | --- | --- | --- |
 |  | Morning | Afternoon | Nighttime |
-| Lithium Carbonate Extended-Release TabletsCan be administered on TID recommended dosing interval up to 1200 mg/day. | 2 tablets(600 mg) |  | 2 tablets(600 mg) |
+| Lithium Carbonate Extended-Release Tablets1 | 2 tablets(600 mg) |  | 2 tablets(600 mg) |
 
 Serum lithium concentrations in uncomplicated cases receiving maintenance therapy during remission should be monitored at least every two months.
 Patients abnormally sensitive to lithium may exhibit toxic signs at serum concentrations of 1 to 1.5 mEq/L.

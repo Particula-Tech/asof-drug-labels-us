@@ -22,7 +22,7 @@ Central Nervous System: tremor, muscle hyperirritability (fasciculations, twitch
 Cardiovascular: cardiac arrhythmia, hypotension, peripheral circulatory collapse, bradycardia, sinus node dysfunction with severe bradycardia (which may result in syncope), Unmasking of Brugada Syndrome (See WARNINGS and PATIENT COUNSELING INFORMATION).
 Gastrointestinal: anorexia, nausea, vomiting, diarrhea, gastritis, salivary gland swelling, abdominal pain, excessive salivation, flatulence, indigestion.
 Genitourinary: glycosuria, decreased creatinine clearance, albuminuria, oliguria, and symptoms of nephrogenic diabetes insipidus including polyuria, thirst and polydipsia.
-Dermatologic: drying and thinning of hair, alopecia, anesthesia of skin, acne, chronic folliculitis, xerosis cutis, psoriasis or its exacerbation, generalized pruritus with or without rash, cutaneous ulcers, angioedema.
+Dermatologic: drying and thinning of hair, alopecia, anesthesia of skin, acne, chronic folliculitis, xerosis cutis, psoriasis or its exacerbation, generalized pruritus with or without rash, cutaneous ulcers, angioedema, drug reaction with eosinophilia and systemic symptoms (DRESS).
 Autonomic Nervous System: blurred vision, dry mouth, impotence/sexual dysfunction.
 Thyroid Abnormalities: euthyroid goiter and/or hypothyroidism (including myxedema) accompanied by lower T3 and T4.
 131Iodine uptake may be elevated (see PRECAUTIONS).

@@ -1,8 +1,8 @@
 # HOW SUPPLIED
 
-Lithium Carbonate Extended-Release Tablets, USP, 300 mg, are supplied as light pink to pink colored circular, biconvex, coated tablets debossed with ‘223’ on one side and plain on the other side.
+Lithium Carbonate Extended-Release Tablets USP, 300 mg, are supplied as light pink to pink colored circular, biconvex, coated tablets debossed with ‘223’ on one side and plain on the other side.
 
-1. NDC 68462-223-01 (Bottle of 100 tablets).
+- Bottle of 100 with child-resistant closure NDC 68462-223-01
 
 ## Storage Conditions
 
@@ -17,9 +17,7 @@ Glenmark Pharmaceuticals Limited
 
 Plot No. S-7, Colvale Industrial Estate
 
-Colvale-Bardez, Goa 403 513
-
-India
+Colvale - Bardez, Goa 403 513, India
 
 Manufactured for:
 
@@ -32,4 +30,4 @@ Questions?
 
 www.glenmarkpharma-us.com
 
-September 2019
+March 2020
