@@ -42,7 +42,7 @@ Skin mottling, rising temperature, and coagulopathies may occur later in the cou
 Recognition of the syndrome is a signal for discontinuance of anesthesia, attention to increased oxygen consumption, correction of acidosis, support of circulation, assurance of adequate urinary output, and institution of measures to control rising temperature.
 Intravenous dantrolene sodium is recommended as an adjunct to supportive measures in the management of this problem.
 Consult literature references and the dantrolene prescribing information for additional information about the management of malignant hyperthermic crisis.
-Continuous monitoring of temperature and expired CO 2 is recommended as an aid to early recognition of malignant hyperthermia.
+Continuous monitoring of temperature and expired CO2 is recommended as an aid to early recognition of malignant hyperthermia.
 
 ## Other
 
@@ -65,7 +65,7 @@ When succinylcholine is given over a prolonged period of time, the characteristi
 Prolonged respiratory muscle paralysis or weakness may be observed in patients manifesting this transition to Phase II block.
 The transition from Phase I to Phase II block has been reported in seven of seven patients studied under halothane anesthesia after an accumulated dose of 2 to 4 mg/kg succinylcholine (administered in repeated, divided doses).
 The onset of Phase II block coincided with the onset of tachyphylaxis and prolongation of spontaneous recovery.
-In another study, using balanced anesthesia (N 2O/O 2/narcotic-thiopental) and succinylcholine infusion, the transition was less abrupt, with great individual variability in the dose of succinylcholine required to produce Phase II block.
+In another study, using balanced anesthesia (N2O/O2/narcotic-thiopental) and succinylcholine infusion, the transition was less abrupt, with great individual variability in the dose of succinylcholine required to produce Phase II block.
 Of 32 patients studied, 24 developed Phase II block.
 Tachyphylaxis was not associated with the transition to Phase II block, and 50% of the patients who developed Phase II block experienced prolonged recovery.
 
