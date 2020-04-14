@@ -12,11 +12,11 @@ Inspect parenteral drug products visually for particulate matter and discolorati
 The recommended dosages for the treatment of clinically important hypotension in the setting of anesthesia is an initial dose of 5 to 10 mg administered by intravenous bolus.
 Administer additional boluses as needed, not to exceed a total dosage of 50 mg.
 
-- Adjust dosage according to the blood pressure goal (i.e., titrate to effect).
+- •Adjust dosage according to the blood pressure goal (i.e., titrate to effect).
 
 ## 2.3 Prepare a 5 mg/mL Solution for Bolus Intravenous Administration
 
 For bolus intravenous administration, prepare a solution containing a final concentration of 5 mg/mL of ephedrine sulfate injection:
 
-- Withdraw 50 mg (1 mL of 50 mg/mL) of ephedrine sulfate injection and dilute with 9 mL of 5% Dextrose Injection or 0.9% Sodium Chloride Injection.
-- Withdraw an appropriate dose of the 5 mg/mL solution prior to bolus intravenous administration.
+- •Withdraw 50 mg (1 mL of 50 mg/mL) of ephedrine sulfate injection and dilute with 9 mL of 5% Dextrose Injection or 0.9% Sodium Chloride Injection.
+- •Withdraw an appropriate dose of the 5 mg/mL solution prior to bolus intravenous administration.

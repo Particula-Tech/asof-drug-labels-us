@@ -12,13 +12,11 @@ Store in carton until time of use.
 For single use only.
 Discard unused portion.
 
-46238558
+46251360
 
 Rev.
-September 2018
+January 2020
 
-Manufactured in Canada by
-
-Avara Boucherville Pharmaceutical Services, Inc. for
+Distributed by
 
 Sandoz Inc., Princeton, NJ 08540

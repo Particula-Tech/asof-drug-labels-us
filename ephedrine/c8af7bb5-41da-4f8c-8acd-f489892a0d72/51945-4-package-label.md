@@ -16,4 +16,4 @@ For Intravenous Use
 
 Rx Only
 
-SANDOZ A Novartis Division
+SANDOZ - A Novartis Division
