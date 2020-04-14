@@ -62,16 +62,6 @@ When these measures are inadequate to control recurrent stone formation, CUPRIMI
 It is capable of keeping cystine excretion to near normal values, thereby hindering stone formation and the serious consequences of pyelonephritis and impaired renal function that develop in some patients.
 Bartter and colleagues depict the process by which penicillamine interacts with cystine to form penicillamine-cysteine mixed disulfide as:
 
-|  | CSSC + PS' |  | CS' + CSSP |
-| --- | --- | --- | --- |
-|  | PSSP + CS' |  | PS' + CSSP |
-|  | CSSC + PSSP' |  | 2CSSP |
-|  | CSSC = cystine |  |  |
-|  | CS' = deprotonated cysteine |  |  |
-|  | PSSP = penicillamine disulfide |  |  |
-|  | PS' = deprotonated penicillamine sulfhydryl |  |  |
-|  | CSSP = penicillamine-cysteine mixed disulfide |  |  |
-
 In this process, it is assumed that the deprotonated form of penicillamine, PS', is the active factor in bringing about the disulfide interchange.
 
 ## Rheumatoid Arthritis
