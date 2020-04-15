@@ -20,15 +20,14 @@ Protect from light.
 
 Because evaporation can occur through the unprotected polyethylene unit dose container and prolonged exposure to direct light can modify the product, the unit dose container should be kept in the protective foil overwrap and used within one month after the foil package has been opened.
 
-Manufactured for: Bausch + Lomb, a division of Valeant Pharmaceuticals North America LLC Bridgewater, NJ 08807 USA
+Distributed by: Bausch + Lomb, a division of Bausch Health US, LLC Bridgewater, NJ 08807 USA
 
 Manufactured by: Laboratoire Unither Zl de la Guérie F-50211 Coutances Cedex France
 
 ®/™ are trademarks of Bausch & Lomb Incorporated or its affiliates.
 
-©Bausch & Lomb Incorporated
+© 2020 Bausch & Lomb Incorporated or its affiliates
 
-Rev.
-02/17
+Revised: 01/2020
 
-65NOT8556/B 9390302
+65NOT8556/C 9390303
