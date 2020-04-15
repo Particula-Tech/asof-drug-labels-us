@@ -18,7 +18,7 @@ Table 4 Baseline Demographics and Other Patient Characteristics (ITT)
 | Mean (±SD) | 69±10 | 67±10 |
 | Median (IQR) | 70 (65-76) | 70 (62-74) |
 | (Range: min-max) | (31-85) | (30-82) |
-| Gender n (%) |  |  |
+| Sexn (%) |  |  |
 | Male | 59 (66) | 57 (70) |
 | Female | 30 (34) | 24 (30) |
 | Race n (%) |  |  |
@@ -50,14 +50,14 @@ Table 4 Baseline Demographics and Other Patient Characteristics (ITT)
 | RAEB-t | 17 (19) | 14 (17) |
 | CMML | 6 (7) | 8 (10) |
 
-Patients randomized to the decitabine for injection arm received decitabine for injection intravenously infused at a dose of 15 mg/m 2 over a 3-hour period, every 8 hours, for 3 consecutive days.
+Patients randomized to the decitabine for injection arm received decitabine for injection intravenously infused at a dose of 15 mg/m2 over a 3-hour period, every 8 hours, for 3 consecutive days.
 This cycle was repeated every 6 weeks, depending on the patient’s clinical response and toxicity.
 Supportive care consisted of blood and blood product transfusions, prophylactic antibiotics, and hematopoietic growth factors.
 The study endpoints were overall response rate (complete response + partial response) and time to AML or death.
 Responses were classified using the MDS International Working Group (IWG) criteria; patients were required to be RBC and platelet transfusion independent during the time of response.
 Response criteria are given in Table 5:
 
-Table 5 Response Criteria for Phase 3 MDS Trial*
+Table 5 Response Criteria for the Controlled Trial in MDS*
 
 | Complete Response (CR) ≥ 8 weeks | Bone Marrow | On repeat aspirates: • < 5% myeloblasts • No dysplastic changes |
 | --- | --- | --- |
@@ -69,8 +69,7 @@ Table 5 Response Criteria for Phase 3 MDS Trial*
 Blood.
 2000; 96:3671-3674.
 
-The overall response rate (CR+PR) in the ITT population was 17% in decitabine for injection-treated patients and 0% in the SC group (p<0.001).
-(See Table 6) The overall response rate was 21% (12/56) in decitabine for injection-treated patients considered evaluable for response (i.e., those patients with pathologically confirmed MDS at baseline who received at least 2 cycles of treatment).
+The overall response rate (CR+PR) in the ITT population was 17% in decitabine for injection-treated patients and 0% in the SC group (p<0.001) (see Table 6) The overall response rate was 21% (12/56) in decitabine for injection-treated patients considered evaluable for response (i.e., those patients with pathologically confirmed MDS at baseline who received at least 2 cycles of treatment).
 The median duration of response (range) for patients who responded to decitabine for injection was 288 days (116 to 388) and median time to response (range) was 93 days (55 to 272).
 All but one of the decitabine for injection-treated patients who responded did so by the fourth cycle.
 Benefit was seen in an additional 13% of decitabine for injection-treated patients who had hematologic improvement, defined as a response less than PR lasting at least 8 weeks, compared to 7% of SC patients. decitabine for injection treatment did not significantly delay the median time to AML or death versus supportive care.
@@ -93,8 +92,8 @@ Responses occurred in patients with an adjudicated baseline diagnosis of AML.
 ## 14.2 Single-arm Studies in Myelodysplastic Syndrome
 
 Three open-label, single-arm, multicenter studies were conducted to evaluate the safety and efficacy of decitabine for injection in MDS patients with any of the FAB subtypes.
-In one study conducted in North America, 99 patients with IPSS Intermediate-1, Intermediate-2, or high risk prognostic scores received decitabine for injection by intravenous infusion at a dose of 20 mg/m 2 IV over 1-hour daily, on days 1 to 5 of week 1 every 4 weeks (1 cycle).
-The results were consistent with the results of the controlled trial and summarized in Table 8.
+In one study conducted in North America, 99 patients with IPSS Intermediate-1, Intermediate-2, or high risk prognostic scores received decitabine for injection 20 mg/m2 as an intravenous infusion over 1-hour daily, on days 1 to 5 of week 1 every 4 weeks (1 cycle).
+The results were consistent with the results of the controlled trial and are summarized in Table 8.
 
 Table 7 Baseline Demographics and Other Patient
 
@@ -103,7 +102,7 @@ Table 7 Baseline Demographics and Other Patient
 | Age (years) |  |
 | Mean (±SD) | 71±9 |
 | Median (Range: min-max) | 72 (34-87) |
-| Gender n (%) |  |
+| Sex n (%) |  |
 | Male | 71 (72) |
 | Female | 28 (28) |
 | Race n (%) |  |
@@ -139,10 +138,10 @@ Table 8 Analysis of Response (ITT)*
 | Parameter | Decitabine For Injection N=99 |
 | --- | --- |
 | Overall Response Rate (CR+PR) Complete Response (CR) Partial Response (PR) | 16 (16%) 15 (15%) 1 (1%) |
-| Duration of Response Median time to (CR+PR) response - Days (range) Median Duration of (CR+PR) response - Days (range) | 162 (50-267) 443 (72-722+) |
-
-+ indicates censored observation
+| Duration of Response Median time to (CR+PR) response - Days (range) Median Duration of (CR+PR) response - Days (range) | 162 (50-267) 443 (72-722†) |
 
 * Cheson BD, Bennett JM, et al. Report of an International Working Group to Standardize Response Criteria for MDS.
 Blood.
 2000; 96:3671-3674.
+
+† indicates censored observation
