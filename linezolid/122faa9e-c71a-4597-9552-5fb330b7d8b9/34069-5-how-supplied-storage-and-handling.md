@@ -5,7 +5,7 @@ Injection is available in single-use, ready-to-use flexible plastic infusion bag
 The infusion bags and ports are latex-free.
 The infusion bags are available in the following package sizes:
 
-| 600 mg linezolid in 300 mL bag | NDC 0009-4992-02 |
+| 600 mg linezolid in a 300 mL bag (2 mg/mL) × 10 | NDC 0009-4992-02 |
 | --- | --- |
 
 Store at 25ºC (77ºF).
