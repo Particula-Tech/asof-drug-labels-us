@@ -39,7 +39,7 @@ Omphalocele was seen in rats but not in rabbits.
 
 In an embryofetal development study in rats, a tazarotene gel formulation, 0.5% (0.25 mg/kg/day tazarotene) was topically administered to pregnant rats during gestation days 6 through 17.
 Reduced fetal body weights and reduced skeletal ossification occurred at this dose (11 times the MRHD based on AUC comparison).
-In an embryofetal development study in rabbits, a tazarotene gel formulation, 0.5%, 0.25 mg/kg/day tazarotene) was topically administered to pregnant rabbits during gestation days 6 through 18.
+In an embryofetal development study in rabbits, a tazarotene gel formulation (0.5%, 0.25 mg/kg/day tazarotene) was topically administered to pregnant rabbits during gestation days 6 through 18.
 Single incidences of known retinoid malformations, including spina bifida, hydrocephaly, and heart anomalies were noted at this dose (116 times the MRHD based on AUC comparison).
 
 When tazarotene was given orally to animals, developmental delays were seen in rats; malformations and post-implantation loss were observed in rats and rabbits at doses producing 9 and 228 times, respectively, the MRHD (based on AUC comparisons).
@@ -56,7 +56,7 @@ Risk Summary
 
 There are no data on the presence of tazarotene, halobetasol propionate or its metabolites in human milk, the effects on the breastfed infant, or the effects on milk production after treatment with DUOBRII Lotion.
 
-After single topical doses ofa 14C-tazarotene gel formulation to the skin of lactating rats, radioactivity was detected in rat milk.
+After single topical doses of a 14C-tazarotene gel formulation to the skin of lactating rats, radioactivity was detected in rat milk.
 
 It is not known whether topical administration of corticosteroids could result in sufficient systemic absorption to produce detectable quantities in human milk.
 
@@ -71,7 +71,7 @@ Advise breastfeeding women not to apply DUOBRII Lotion directly to the nipple an
 - Pregnancy Testing
 
 DUOBRII Lotion is contraindicated in women who are pregnant.
-Females of reproductive potential should be warned of the potential risk and use adequate birth-control measures during treatment with DUOBRII Lotion.
+Females of reproductive potential should be warned of the potential risk and use adequate birth control measures during treatment with DUOBRII Lotion.
 The possibility that a female of reproductive potential is pregnant at the time of institution of therapy should be considered.
 A negative result for pregnancy should be obtained within 2 weeks prior to DUOBRII Lotion therapy, which should begin during menstruation.
 
@@ -84,7 +84,7 @@ Advise females of reproductive potential to use effective contraception during t
 
 Safety and effectiveness of DUOBRII Lotion in pediatric patients under the age of 18 years have not been evaluated.
 
-Because of higher skin surface area to body mass ratios, pediatric patients are at a greater risk than adults of HPA axis suppression and Cushing’s syndrome when they are treated with topical corticosteroids.
+Because of higher skin-surface-area-to-body-mass ratios, pediatric patients are at a greater risk than adults of HPA axis suppression and Cushing’s syndrome when they are treated with topical corticosteroids.
 They are therefore also at greater risk of adrenal insufficiency during or after withdrawal of treatment.
 Adverse reactions including striae have been reported with use of topical corticosteroids in infants and children [see Warnings and Precautions (5.2)].
 

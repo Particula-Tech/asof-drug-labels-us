@@ -2,7 +2,7 @@
 
 NDC 0187-0653-01
 
-Duobrii™ (halobetasol propionate and tazarotene) Lotion 0.01%/0.045%
+Duobrii® (halobetasol propionate and tazarotene) Lotion 0.01%/ 0.045%
 
 Rx only Net Wt.
 100g

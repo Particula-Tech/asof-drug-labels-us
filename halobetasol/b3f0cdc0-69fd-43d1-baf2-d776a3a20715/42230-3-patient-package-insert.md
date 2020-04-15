@@ -1,10 +1,8 @@
 # Patient Package Insert
 
-PATIENT INFORMATION
+TEAR HERE (Patient Information)
 
-DUOBRII™ (DEW-oh-bree)
-
-(halobetasol propionate and tazarotene) lotion, for topical use
+PATIENT INFORMATION DUOBRII® (DEW-oh-bree) (halobetasol propionate and tazarotene) lotion, for topical use
 
 Important information: DUOBRII is for use on skin only.
 Do not apply DUOBRII in your mouth, eyes, or vagina.
@@ -13,14 +11,21 @@ What is the most important information I should know about DUOBRII?
 
 DUOBRII may cause birth defects if used during pregnancy.
 
-1. Females must not be pregnant when they start using DUOBRII or become pregnant during treatment with DUOBRII.
-2. •For females who are able to get pregnant:
-   - oYour healthcare provider will order a pregnancy test for you within 2 weeks before you begin treatment with DUOBRII to be sure that you are not pregnant.
-     Your healthcare provider will decide when to do the test.
-   - oBegin treatment with DUOBRII during a normal menstrual period.
-   - oUse an effective form of birth control during treatment with DUOBRII.
-     Talk with your healthcare provider about birth control options that may be used to prevent pregnancy during treatment with DUOBRII.
-3. oStop using DUOBRII and tell your healthcare provider right away if you become pregnant during treatment with DUOBRII.
+- Females must not be pregnant when they start using DUOBRII or become pregnant during treatment with DUOBRII.
+  - oYour healthcare provider will order a pregnancy test for you within 2 weeks before you begin treatment with DUOBRII to be sure that you are not pregnant.
+    Your healthcare provider will decide when to do the test.
+  - oBegin treatment with DUOBRII during a normal menstrual period.
+  - oUse an effective form of birth control during treatment with DUOBRII.
+    Talk with your healthcare provider about birth control options that may be used to prevent pregnancy during treatment with DUOBRII.
+  - oStop using DUOBRII and tell your healthcare provider right away if you become pregnant during treatment with DUOBRII.
+
+- •For females who are able to get pregnant:
+  - oYour healthcare provider will order a pregnancy test for you within 2 weeks before you begin treatment with DUOBRII to be sure that you are not pregnant.
+    Your healthcare provider will decide when to do the test.
+  - oBegin treatment with DUOBRII during a normal menstrual period.
+  - oUse an effective form of birth control during treatment with DUOBRII.
+    Talk with your healthcare provider about birth control options that may be used to prevent pregnancy during treatment with DUOBRII.
+  - oStop using DUOBRII and tell your healthcare provider right away if you become pregnant during treatment with DUOBRII.
 
 What is DUOBRII?
 
@@ -31,7 +36,7 @@ It is not known if DUOBRII is safe and effective in children under 18 years of a
 Do not use DUOBRII if you:
 
 - •are pregnant.
-  See “What is the most important information I should know about DUOBRII?”.
+  See “What is the most important information I should know about DUOBRII?”
 
 Before using DUOBRII, tell your healthcare provider about all of your medical conditions, including if you:
 
@@ -42,7 +47,7 @@ Before using DUOBRII, tell your healthcare provider about all of your medical co
 - •have adrenal gland problems.
 - •have liver problems.
 - •are breastfeeding or plan to breastfeed.
-  It is not known ifDUOBRII passes into your breast milk.
+  It is not known if DUOBRII passes into your breast milk.
   If you use DUOBRII and breastfeed, do not apply DUOBRII to your nipple or areola to avoid getting DUOBRII into your baby’s mouth.
 - Tell your healthcare provider about all the medicines you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements.
 - Especially tell your healthcare provider if you take corticosteroids by mouth, or injection, or use other products on your skin that contain corticosteroids.
@@ -70,7 +75,7 @@ DUOBRII may cause side effects, including:
 
 - •See “What is the most important information I should know about DUOBRII?”
 - •DUOBRII can pass through your skin.
-  Toomuch DUOBRII passing through your skin can cause adrenal glands to stop working.
+  Too much DUOBRII passing through your skin can cause adrenal glands to stop working.
 - •Cushing’s syndrome, a condition that happens when your body is exposed to too much of the hormone cortisol.
 - •High blood sugar (hyperglycemia).
 - •Effects of growth and weight in children.
@@ -80,7 +85,8 @@ DUOBRII may cause side effects, including:
   If you develop skin irritation, your healthcare provider may tell you to interrupt or stop using DUOBRII, or tell you to use DUOBRII less often.
 - •Sensitivity to light and risk of sunburn.
   See “What should I avoid during treatment with DUOBRII?”
-- •Vision problems.DUOBRIImay increase your chance of developing cataract(s) and glaucoma.
+- •Vision problems.
+  DUOBRII may increase your chance of developing cataract(s) and glaucoma.
   Tell your healthcare provider if you have blurred vision or other vision problems during your treatment with DUOBRII.
 
 The most common side effects of DUOBRII include: redness, itching, swelling, burning, stinging, application site pain, inflamed hair follicles (folliculitis), thinning of the skin (atrophy), peeling and rash.
@@ -111,17 +117,15 @@ Active ingredients: halobetasol propionate and tazarotene
 
 Inactive ingredients: carbomer copolymer type B, carbomer homopolymer type A, diethyl sebacate, edetate disodium dihydrate, light mineral oil, methylparaben, propylparaben, purified water, sodium hydroxide, sorbitan monooleate and sorbitol solution, 70%.
 
-Manufactured for: Bausch Health Americas, Inc., Bridgewater, NJ 08807 USA
+Distributed by: Bausch Health US, LLC, Bridgewater, NJ 08807 USA Manufactured by: Bausch Health Companies Inc., Laval, Quebec H7L 4A8, Canada
 
-By: Bausch Health Companies Inc., Laval, Quebec H7L 4A8, Canada
+U.S. Patent Numbers: 6,517,847; 8,809,307; 10,251,895 and 10,478,502
 
-U.S. Patent Numbers: 6,517,847; 8,809,307 and 10,251,895
+- DUOBRII is a trademark of Bausch Health Companies Inc. or its affiliates.
 
-1. DUOBRII is a trademark of Bausch Health Companies Inc. or its affiliates.
-
-© 2019 Bausch Health Companies Inc. or its affiliates
+© 2020 Bausch Health Companies Inc. or its affiliates
 
 - For more information call 1-800-321-4576
 - This Patient Information has been approved by the U.S. Food and Drug Administration.
-- Issued: 04/2019
-- 9645601
+- Revised: 01/2020
+- 9645602

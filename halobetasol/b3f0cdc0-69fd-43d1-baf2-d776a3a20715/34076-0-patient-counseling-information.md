@@ -27,7 +27,7 @@ Advise the patient to stop medication if she becomes pregnant and call her docto
 Breastfeeding women should not apply DUOBRII Lotion directly to the nipple and areola to avoid directly exposing the infant [see Use in Specific Populations (8.2)].
 
 Avoid exposure of the treated areas to either natural or artificial sunlight, including tanning beds and sunlamps.
-Use sunscreen and protective clothing if exposure to sunlight is unavoidable when using DUOBRII Lotion [see Warnings and Precautions (5.3)].
+Use sunscreen and protective clothing if exposure to sunlight is unavoidable when using DUOBRII Lotion [see Warnings and Precautions (5.4)].
 
 HPA Axis Suppression and Other Unwanted Systemic Glucocorticoid Effects
 
@@ -47,18 +47,12 @@ Ophthalmic Adverse Reactions
 
 Advise patients to report any visual symptoms to their healthcare providers.
 
-Manufactured for: Bausch Health Americas, Inc.
+Distributed by: Bausch Health US, LLC Bridgewater, NJ 08807 USA
 
-Bridgewater, NJ 08807 USA
-
-By: Bausch Health Companies Inc.
-
-Laval, Quebec H7L 4A8, Canada
-
-U.S. Patent Numbers: 6,517,847; 8,809,307; and 10,251,895
+Manufactured by: Bausch Health Companies Inc. Laval, Quebec H7L 4A8, Canada U.S. Patent Numbers: 6,517,847; 8,809,307; 10,251,895 and 10,478,502
 
 DUOBRII is a trademark of Bausch Health Companies Inc. or its affiliates.
 
-© 2019 Bausch Health Companies Inc. or its affiliates
+© 2020 Bausch Health Companies Inc. or its affiliates
 
-9645601
+9645602

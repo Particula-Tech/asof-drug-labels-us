@@ -6,5 +6,5 @@ DUOBRII (halobetasol propionate and tazarotene) Lotion, 0.01%/0.045% is a white 
 
 Storage and Handling Conditions
 
-Store at 20° to 25°C (68° to 77°F); excursions permitted to 15° to 30°C (59° to 86°F) [see USP Controlled RoomTemperature].
+Store at 20° to 25°C (68° to 77°F); excursions permitted to 15° to 30°C (59° to 86°F) [see USP Controlled Room Temperature].
 Protect from freezing.

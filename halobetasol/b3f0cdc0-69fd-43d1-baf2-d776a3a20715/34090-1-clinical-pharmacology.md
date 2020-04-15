@@ -33,7 +33,7 @@ Tazarotenic acid (LLOQ = 5 pg/mL) was quantifiable in all subjects.
 Systemic exposure of the three moieties was at or near steady state by Day 28.
 The mean (standard deviation) of PK parameters on Day 28 is shown in Table 2.
 
-Table 2: PK Parameters of Halobetasol Propionate, Tazarotene, and Tazarotenic Acid following Once Daily Administration of DUOBRII Lotion for 28 Days in Subjects with Moderate to Severe Plaque Psoriasis
+Table 2: PK Parameters of Halobetasol Propionate, Tazarotene, and Tazarotenic Acid Following Once Daily Administration of DUOBRII Lotion for 28 Days in Subjects with Moderate to Severe Plaque Psoriasis
 
 |  |  | Mean (Standard Deviation) (N=22) |  |  |
 | --- | --- | --- | --- | --- |

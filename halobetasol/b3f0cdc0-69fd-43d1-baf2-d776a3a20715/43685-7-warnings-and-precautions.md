@@ -30,9 +30,9 @@ If HPA axis suppression is documented, attempt to gradually withdraw the drug or
 Manifestations of adrenal insufficiency may require supplemental systemic corticosteroids.
 Recovery of HPA axis function is generally prompt and complete upon discontinuation of topical corticosteroids.
 
-Systemic effects of topical corticosteroids may also include Cushing's syndrome, hyperglycemia, and glucosuria.
+Systemic effects of topical corticosteroids may also include Cushing’s syndrome, hyperglycemia, and glucosuria.
 Use of more than one corticosteroid-containing product at the same time may increase the total systemic exposure to topical corticosteroids.
-Pediatric patients may be more susceptible than adults to systemic toxicity from the use of topical corticosteroids because of their larger surface-to-body mass ratio [see Use in Specific Populations (8.4)].
+Pediatric patients may be more susceptible than adults to systemic toxicity from the use of topical corticosteroids because of their larger surface-to-body-mass ratio [see Use in Specific Populations (8.4)].
 
 ## 5.3 Local Adverse Reactions
 
@@ -55,7 +55,7 @@ DUOBRII Lotion should be administered with caution if the patient is also taking
 
 Use of topical corticosteroids may increase the risk of posterior subcapsular cataracts and glaucoma.
 Cataracts and glaucoma have been reported postmarketing with the use of topical corticosteroid products.
-Advise patients to report any visual symptoms andconsider referral to an ophthalmologist for evaluation.
+Advise patients to report any visual symptoms and consider referral to an ophthalmologist for evaluation.
 
 ## 5.6 Concomitant Skin Infections
 
