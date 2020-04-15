@@ -24,7 +24,7 @@ Although the average trastuzumab exposure was higher following the first cycle i
 The average trastuzumab exposure following the first cycle and at steady state as well as the time to steady state was higher in breast cancer patients compared to MGC patients at the same dosage; however, the reason for this exposure difference is unknown.
 Additional predicted trastuzumab exposure and PK parameters following the first trastuzumab cycle and at steady state exposure are described in Tables 7 and 8, respectively.
 
-Population PK based simulations indicate that following discontinuation of trastuzumab, concentrations in at least 95% of breast cancer patients and MGC patients will decrease to approximately 3% of the population predicted steady-state trough serum concentration (approximately 97% washout) by 7 months [see Warnings and Precautions (5.1) and Use in Specific Populations (8.1, 8.3)].
+Population PK based simulations indicate that following discontinuation of trastuzumab, concentrations in at least 95% of breast cancer and MGC patients will decrease to approximately 3% of the population predicted steady-state trough serum concentration (approximately 97% washout) by 7 months [see Warnings and Precautions (5.1) and Use in Specific Populations (8.1, 8.3)].
 
 Table 7
 

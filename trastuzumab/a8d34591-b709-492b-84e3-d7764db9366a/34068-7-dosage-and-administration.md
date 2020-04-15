@@ -74,6 +74,36 @@ Permanently discontinue Ontruzant for a persistent (> 8 weeks) LVEF decline or f
 
 To prevent medication errors, it is important to check the vial labels to ensure that the drug being prepared and administered is Ontruzant (trastuzumab-dttb) and not ado-trastuzumab emtansine.
 
+420 mg Multiple-dose vial
+
+Reconstitution: Reconstitute each 420 mg vial of Ontruzant with 20 mL of Bacteriostatic Water for Injection (BWFI), USP, containing 1.1% benzyl alcohol as a preservative to yield a multiple-dose solution containing 21 mg/mL trastuzumab-dttb that delivers 20 mL (420 mg trastuzumab-dttb).
+In patients with known hypersensitivity to benzyl alcohol, reconstitute with 20 mL of Sterile Water for Injection (SWFI) without preservative to yield a single use solution.
+
+Use appropriate aseptic technique when performing the following reconstitution steps:
+
+- Using a sterile syringe, slowly inject the 20 mL of diluent into the vial containing the lyophilized powder of Ontruzant, which has a cake-like appearance.
+  The stream of diluent should be directed into the cake.
+  The reconstituted vial yields a solution for multiple-dose use, containing 21 mg/mL trastuzumab-dttb.
+- Swirl the vial gently to aid reconstitution.
+  DO NOT SHAKE.
+- Slight foaming of the product may be present upon reconstitution.
+  Allow the vial to stand undisturbed for approximately 5 minutes.
+- Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration, whenever solution and container permit.
+  Inspect visually for particulates and discoloration.
+  The solution should be free of visible particulates, clear to slightly opalescent and colorless to pale yellow.
+- Store reconstituted Ontruzant in the refrigerator at 2° to 8°C (36° to 46°F); discard unused Ontruzant after 28 days.
+  If Ontruzant is reconstituted with SWFI without preservative, use immediately and discard any unused portion.
+  Do not freeze.
+
+Dilution:
+
+- Determine the dose (mg) of Ontruzant [see Dosage and Administration (2.2)].
+  Calculate the volume of the 21 mg/mL reconstituted Ontruzant solution needed, withdraw this amount from the vial and add it to an infusion bag containing 250 mL of 0.9% Sodium Chloride Injection, USP.
+  DO NOT USE DEXTROSE (5%) SOLUTION.
+- Gently invert the bag to mix the solution.
+- The solution of Ontruzant for infusion diluted in polyvinylchloride or polyethylene bags containing 0.9% Sodium Chloride Injection, USP, should be stored at 2° to 8°C (36° to 46°F) for no more than 24 hours prior to use.
+  Do not freeze.
+
 150 mg Single-dose vial
 
 Reconstitution: Reconstitute each 150 mg vial of Ontruzant with 7.4 mL of Sterile Water for Injection (SWFI) (not supplied) to yield a single-dose solution containing 21 mg/mL trastuzumab-dttb that delivers 7.15 mL (150 mg trastuzumab-dttb).

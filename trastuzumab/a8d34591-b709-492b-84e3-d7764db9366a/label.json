@@ -6,9 +6,15 @@
   "labeler": "Merck Sharp & Dohme Corp.",
   "package_ndcs": [
     "0006-5033-01",
-    "0006-5033-02"
+    "0006-5033-02",
+    "0006-5034-02"
   ],
   "products": [
+    {
+      "form": "KIT",
+      "generic": "ontruzant",
+      "name": "Ontruzant"
+    },
     {
       "form": "INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION",
       "generic": "trastuzumab",

@@ -83,7 +83,7 @@ While some patients tolerated trastuzumab infusions, others had recurrent severe
 ## 5.3 Embryo-Fetal Toxicity
 
 Trastuzumab products can cause fetal harm when administered to a pregnant woman.
-In postmarketing reports, use of trastuzumab during pregnancy resulted in cases of oligohydramnios and oligohydramnios sequence manifesting as pulmonary hypoplasia, skeletal abnormalities, and neonatal death.
+In post-marketing reports, use of trastuzumab during pregnancy resulted in cases of oligohydramnios and oligohydramnios sequence manifesting as pulmonary hypoplasia, skeletal abnormalities, and neonatal death.
 
 Verify the pregnancy status of females of reproductive potential prior to the initiation of Ontruzant.
 Advise pregnant women and females of reproductive potential that exposure to Ontruzant during pregnancy or within 7 months prior to conception can result in fetal harm.

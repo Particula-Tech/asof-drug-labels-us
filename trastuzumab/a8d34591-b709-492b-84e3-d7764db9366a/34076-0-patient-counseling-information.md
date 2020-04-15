@@ -10,5 +10,5 @@ Embryo-Fetal Toxicity
   Advise female patients to contact their healthcare provider with a known or suspected pregnancy [see Use in Specific Populations (8.1)].
 - Advise females of reproductive potential to use effective contraception during treatment and for 7 months following the last dose of Ontruzant [see Use in Specific Populations (8.3)].
 
-| Ontruzant [trastuzumab-dttb] Manufactured by: Samsung Bioepis Co., Ltd., 107, Cheomdan-daero, Yeonsu-gu, Incheon, 21987, Republic of Korea U.S. License No. 2046 Manufactured for: Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc., Whitehouse Station, NJ 08889 USA Ontruzant is a trademark of Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc., Product of Denmark |
+| Ontruzant [trastuzumab-dttb] Manufactured by: Samsung Bioepis Co., Ltd., 107, Cheomdan-daero, Yeonsu-gu, Incheon, 21987, Republic of Korea U.S. License No. 2046 Manufactured for: Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc., Whitehouse Station, NJ 08889, USA Ontruzant is a trademark of Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. Product of Denmark |
 | --- |
