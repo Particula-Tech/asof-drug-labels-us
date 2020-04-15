@@ -9,7 +9,7 @@ Docetaxel's binding to microtubules does not alter the number of protofilaments 
 
 ## 12.3 Pharmacokinetics
 
-Absorption: The pharmacokinetics of docetaxel have been evaluated in cancer patients after administration of 20 mg/m2 to 115 mg/m2 in phase 1 studies.
+Absorption: The pharmacokinetics of docetaxel has been evaluated in cancer patients after administration of 20 mg/m2 to 115 mg/m2 in phase 1 studies.
 The area under the curve (AUC) was dose proportional following doses of 70 mg/m2 to 115 mg/m2 with infusion times of 1 to 2 hours.
 Docetaxel's pharmacokinetic profile is consistent with a three-compartment pharmacokinetic model, with half-lives for the α, β, and γ phases of 4 min, 36 min, and 11.1 hr, respectively.
 Mean total body clearance was 21 L/h/m2.
@@ -30,7 +30,7 @@ Specific Populations
 
 Effect of Age: A population pharmacokinetic analysis was carried out after docetaxel treatment of 535 patients dosed at 100 mg/m2.
 Pharmacokinetic parameters estimated by this analysis were very close to those estimated from phase 1 studies.
-The pharmacokinetics of docetaxel were not influenced by age.
+The pharmacokinetics of docetaxel was not influenced by age.
 
 Effect of Gender: The population pharmacokinetics analysis described above also indicated that gender did not influence the pharmacokinetics of docetaxel.
 

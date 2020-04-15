@@ -17,12 +17,19 @@ Among patients who experienced treatment-related mortality at the 75 mg/m2 dose 
 
 ## 5.2 Hepatic Impairment
 
-Patients with combined abnormalities of transaminases and alkaline phosphatase should not be treated with Docetaxel Injection [see Boxed Warning, Use in Specific Populations (8.6), Clinical Studies (14)].
+Patients with elevations of bilirubin or abnormalities of transaminase concurrent with alkaline phosphatase are at increased risk for the development of severe neutropenia, febrile neutropenia, infections, severe thrombocytopenia, severe stomatitis, severe skin toxicity, and toxic death.
+
+Avoid docetaxel in patients with bilirubin > upper limit of normal (ULN), or to patients with AST and/or ALT >1.5 x ULN concomitant with alkaline phosphatase >2.5 x ULN [see Warnings and Precautions (5.1)].
+
+For patients with isolated elevations of transaminase >1.5 x ULN, consider docetaxel dose modifications [see Dosage and Administration (2.7)].
+
+Measure bilirubin, AST or ALT, and alkaline phosphatase prior to each cycle of docetaxel therapy.
 
 ## 5.3 Hematologic Effects
 
 Perform frequent peripheral blood cell counts on all patients receiving Docetaxel Injection.
-Patients should not be retreated with subsequent cycles of Docetaxel Injection until neutrophils recover to a level >1500 cells/mm3 and platelets recover to a level >100,000 cells/mm3.
+Do not retreat patients with subsequent cycles of Docetaxel Injection until neutrophils recover to a level >1500 cells/mm3[see Contraindications (4)].
+Avoid retreating patients until platelets recover to a level >100,000 cells/mm3.
 
 A 25% reduction in the dose of Docetaxel Injection is recommended during subsequent cycles following severe neutropenia (<500 cells/mm3) lasting 7 days or more, febrile neutropenia, or a grade 4 infection in a Docetaxel Injection cycle [see Dosage and Administration (2.7)].
 
@@ -48,10 +55,10 @@ Inform patients to contact their healthcare provider with new, or worsening symp
 
 ## 5.5 Hypersensitivity Reactions
 
-Patients should be observed closely for hypersensitivity reactions, especially during the first and second infusions.
-Severe hypersensitivity reactions characterized by generalized rash/erythema, hypotension and/or bronchospasm, or very rarely fatal anaphylaxis, have been reported in patients premedicated with 3 days of corticosteroids.
+Monitor patients closely for hypersensitivity reactions, especially during the first and second infusions.
+Severe hypersensitivity reactions characterized by generalized rash/erythema, hypotension and/or bronchospasm, or fatal anaphylaxis, have been reported in patients premedicated with 3 days of corticosteroids.
 Severe hypersensitivity reactions require immediate discontinuation of the Docetaxel Injection infusion and aggressive therapy.
-Patients with a history of severe hypersensitivity reactions should not be re-challenged with Docetaxel Injection.
+Do not rechallenge patients with a history of severe hypersensitivity reactions with Docetaxel Injection [see Contraindications (4)].
 
 Patients who have previously experienced a hypersensitivity reaction to paclitaxel may develop a hypersensitivity reaction to docetaxel that may include severe or fatal reactions such as anaphylaxis.
 Monitor patients with a previous history of hypersensitivity to paclitaxel closely during initiation of docetaxel therapy.
@@ -93,9 +100,13 @@ In case of severe skin toxicity, an adjustment in dosage is recommended [see Dos
 The discontinuation rate due to skin toxicity was 1.6% (15/965) for metastatic breast cancer patients.
 Among 92 breast cancer patients premedicated with 3-day corticosteroids, there were no cases of severe skin toxicity reported and no patient discontinued docetaxel due to skin toxicity.
 
+Severe cutaneous adverse reactions (SCARs) such as Stevens-Johnson syndrome (SJS), toxic epidermal necrolysis (TEN), and acute generalized exanthematous pustulosis (AGEP) have been reported in association with docetaxel treatment.
+Patients should be informed about the signs and symptoms of serious skin manifestations and monitored closely.
+Permanent treatment discontinuation should be considered in patients who experience SCARs.
+
 ## 5.9 Neurologic Reactions
 
-Severe neurosensory symptoms (e.g. paresthesia, dysesthesia, pain) were observed in 5.5% (53/965) of metastatic breast cancer patients and resulted in treatment discontinuation in 6.1%.
+Severe neurosensory symptoms (e.g., paresthesia, dysesthesia, pain) were observed in 5.5% (53/965) of metastatic breast cancer patients and resulted in treatment discontinuation in 6.1%.
 When these symptoms occur, dosage must be adjusted.
 If symptoms persist, treatment should be discontinued [see Dosage and Administration (2.7)].
 Patients who experienced neurotoxicity in clinical trials and for whom follow-up information on the complete resolution of the event was available had spontaneous reversal of symptoms with a median of 9 weeks from onset (range: 0 to 106 weeks).

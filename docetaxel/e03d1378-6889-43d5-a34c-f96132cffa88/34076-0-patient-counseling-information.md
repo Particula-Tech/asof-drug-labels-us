@@ -95,11 +95,7 @@ Princeton, NJ 08540
 
 Manufactured by:
 
-- 
-
 EBEWE Pharma Ges.m.b.H.
 Nfg.KG
 
 A-4866 Unterach, Austria
-
-Revised: January 2020
