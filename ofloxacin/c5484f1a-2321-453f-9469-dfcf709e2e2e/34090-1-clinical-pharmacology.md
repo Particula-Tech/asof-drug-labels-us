@@ -1,6 +1,6 @@
 # CLINICAL PHARMACOLOGY
 
-## Pharmacokinetics
+## Pharmacokinetics:
 
 Drug concentrations in serum (in subjects with tympanostomy tubes and perforated tympanic membranes), in otorrhea, and in mucosa of the middle ear (in subjects with perforated tympanic membranes) were determined following otic administration of ofloxacin solution.
 In two single-dose studies, mean ofloxacin serum concentrations were low in adult patients with tympanostomy tubes, with and without otorrhea, after otic administration of a 0.3% solution (4.1 ng/mL (n=3) and 5.4 ng/mL (n=5), respectively).
@@ -11,7 +11,7 @@ The concentrations ranged from 1.2 to 602 mcg/g after otic administration of a 0
 Ofloxacin was present in high concentrations in otorrhea (389 - 2850 mcg/g, n=13) 30 minutes after otic administration of a 0.3% solution in subjects with chronic suppurative otitis media and perforated tympanic membranes.
 However, the measurement of ofloxacin in the otorrhea does not necessarily reflect the exposure of the middle ear to ofloxacin.
 
-## Microbiology
+## Microbiology:
 
 Ofloxacin has in vitro activity against a wide range of gram-negative and gram-positive microorganisms.
 Ofloxacin exerts its antibacterial activity by inhibiting DNA gyrase, a bacterial topoisomerase.
@@ -19,7 +19,7 @@ DNA gyrase is an essential enzyme which controls DNA topology and assists in DNA
 Cross-resistance has been observed between ofloxacin and other fluoroquinolones.
 There is generally no cross-resistance between ofloxacin and other classes of antibacterial agents such as beta-lactams or aminoglycosides.
 
-Ofloxacin has been shown to be active against most isolates of the following microorganisms, both in vitro and clinically in otic infections as described in the INDICATIONS AND USAGE section.
+Ofloxacin has been shown to be active against most isolates of the following microorganisms, bothin vitro and clinically in otic infections as described in the INDICATIONS AND USAGE section.
 
 Aerobes, gram-positive:
 

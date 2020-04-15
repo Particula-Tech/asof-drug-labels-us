@@ -1,6 +1,6 @@
 # PRECAUTIONS
 
-## General
+## General:
 
 As with other anti-infective preparations, prolonged use may result in over-growth of nonsusceptible organisms, including fungi.
 If the infection is not improved after one week, cultures should be obtained to guide further treatment.
@@ -14,21 +14,21 @@ No drug-related structural or functional changes of the cochlea and no lesions i
 No signs of local irritation were found when 0.3% ofloxacin was applied topically in the rabbit eye.
 Ofloxacin was also shown to lack dermal sensitizing potential in the guinea pig maximization study.
 
-## Information for Patients
+## Information for Patients:
 
 Avoid contaminating the applicator tip with material from the fingers or other sources.
 This precaution is necessary if the sterility of the drops is to be preserved.
 Systemic quinolones, including ofloxacin, have been associated with hypersensitivity reactions, even following a single dose.
 Discontinue use immediately and contact your physician at the first sign of a rash or allergic reaction.
 
-Otitis Externa
+Otitis Externa:
 
 Prior to administration of ofloxacin otic, the solution should be warmed by holding the bottle in the hand for one or two minutes to avoid dizziness which may result from the instillation of a cold solution.
 The patient should lie with the affected ear upward, and then the drops should be instilled.
 This position should be maintained for five minutes to facilitate penetration of the drops into the ear canal.
 Repeat, if necessary, for the opposite ear (see DOSAGE AND ADMINISTRATION).
 
-Acute Otitis Media and Chronic Suppurative Otitis Media
+Acute Otitis Media and Chronic Suppurative Otitis Media:
 
 Prior to administration of ofloxacin otic, the solution should be warmed by holding the bottle in the hand for one or two minutes to avoid dizziness which may result from the instillation of a cold solution.
 The patient should lie with the affected ear upward, and then the drops should be instilled.
@@ -36,7 +36,7 @@ The tragus should then be pumped 4 times by pushing inward to facilitate penetra
 This position should be maintained for five minutes.
 Repeat, if necessary, for the opposite ear (see DOSAGE AND ADMINISTRATION).
 
-## Drug Interactions
+## Drug Interactions:
 
 Specific drug interaction studies have not been conducted with Ofloxacin Otic Solution 0.3%.
 
@@ -50,7 +50,7 @@ This would be over 1000 times the maximum recommended clinical dose, based upon 
 
 ## Pregnancy
 
-### Teratogenic effects
+### Teratogenic effects:
 
 Ofloxacin has been shown to have an embryocidal effect in rats at a dose of 810 mg/kg/day and in rabbits at 160 mg/kg/day.
 
@@ -60,83 +60,75 @@ Ofloxacin has not been shown to be teratogenic at doses as high as 810 mg/kg/day
 
 Ofloxacin has not been shown to have any adverse effects on the developing embryo or fetus at doses relevant to the amount of ofloxacin that will be delivered ototopically at the recommended clinical doses.
 
-### Nonteratogenic Effects
+### Nonteratogenic Effects:
 
 Additional studies in the rat demonstrated that doses up to 360 mg/kg/day during late gestation had no adverse effects on late fetal development, labor, delivery, lactation, neonatal viability, or growth of the newborn.
 There are, however, no adequate and well-controlled studies in pregnant women.
 Ofloxacin Otic Solution 0.3% should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 
-## Nursing Mothers
+## Nursing Mothers:
 
 In nursing women, a single 200 mg oral dose resulted in concentrations of ofloxacin in milk which were similar to those found in plasma.
 It is not known whether ofloxacin is excreted in human milk following topical otic administration.
 Because of the potential for serious adverse reactions from ofloxacin in nursing infants, a decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother.
 
-## Pediatric Use
+## Pediatric Use:
 
 Safety and efficacy have been demonstrated in pediatric patients of the following ages for the listed indications:
 
-■ six months and older; otitis externa with intact tympanic membranes
-
-■ one year and older: acute otitis media with tympanostomy tubes
-
-■ twelve years and older: chronic suppurative otitis media with perforated tympanic membranes
+■ six months and older: otitis externa with intact tympanic membranes ■ one year and older: acute otitis media with tympanostomy tubes ■ twelve years and older: chronic suppurative otitis media with perforated tympanic membranes
 
 Safety and efficacy in pediatric patients below these ages have not been established.
 
-Although no data are available on patients less than 6 months, there are no known safety concerns or differences in the disease process in this population that will preclude use of this product.
+Although no data are available on patients less than age 6 months, there are no known safety concerns or differences in the disease process in this population that will preclude use of this product.
 
 No changes in hearing function occurred in 30 pediatric subjects treated with ofloxacin otic and tested for audiometric parameters.
-Although quinolones, including ofloxacin, have been shown to cause arthropathy in immature animals after systemic administration, young guinea pigs dosed in the middle ear with 0.3% Ofloxacin Otic Solution for one month showed no systemic effects, quinolone-induced lesions, erosions of the cartilage in weight-bearing joints, or other signs of arthropathy.
+Although quinolones, including ofloxacin, have been shown to cause arthropathy in immature animals after systemic administration, young growing guinea pigs dosed in the middle ear with 0.3% Ofloxacin Otic Solution for one month showed no systemic effects, quinolone-induced lesions, erosions of the cartilage in weight-bearing joints, or other signs of arthropathy.
 
-# Storage
+# Storage:
 
-Store at 25ºC (77ºF), excursions permitted to 15º-30ºC (59º-86ºF).
+Store at 25ºC (77ºF); excursions permitted to 15º to 30ºC (59º to 86ºF).
 Protect from light.
 
-Revised April 2017
+Distributed by: Bausch + Lomb, a division of Bausch Health US, LLC Bridgewater, NJ 08807 USA
 
-Bausch + Lomb, a division of Valeant Pharmaceuticals North America LLC Bridgewater, NJ 08807 USA ©Bausch & Lomb Incorporated
+Manufactured by: Bausch & Lomb Incorporated Tampa, FL 33637 USA © 2020 Bausch & Lomb Incorporated or its affiliates
 
-9047604 (Folded) / 9047704 (Flat)
+Revised 02/2020
+
+9047605 (Folded) 9047705 (Flat)
 
 DO NOT USE IF IMPRINTED NECKBAND IS NOT INTACT
 
-# Patient Information
-
 PHARMACIST — DETACH HERE AND GIVE INSTRUCTIONS TO PATIENT
+
+# Patient Information
 
 IMPORTANT PATIENT INFORMATION AND INSTRUCTIONS.
 READ BEFORE USE.
+
+Ofloxacin Otic Solution 0.3% (Sterile)
 
 What is Ofloxacin Otic Solution 0.3%?
 
 Ofloxacin Otic Solution 0.3% is an antibiotic in a sterile solution used to treat ear infections caused by certain bacteria found in:
 
-■ patients (12 years and older) who have a middle ear infection and have a hole in the eardrum
-
-■ pediatric patients (between 1 and 12 years of age) who have a middle ear infection and have a tube in the eardrum
-
-■ patients (6 months and older) who have an infection in the ear canal.
+■ patients (12 years and older) who have a middle ear infection and have a hole in the eardrum ■ pediatric patients (between 1 and 12 years of age) who have a middle ear infection and have a tube in the eardrum ■ patients (6 months and older) who have an infection in the ear canal.
 
 Middle Ear Infection: A middle ear infection is a bacterial infection behind the eardrum.
 People with a hole or a tube in the eardrum may notice a discharge (fluid draining) from the ear canal.
 
-Ear Canal Infection: An ear canal infection (also known as “Swimmer's Ear”) is a bacterial infection of the ear canal.
+Ear Canal Infection: An ear canal infection (also known as “Swimmer’s Ear”) is a bacterial infection of the ear canal.
 The ear canal and the outer part of the ear may swell, turn red, and be painful.
 Also, a fluid discharge may appear in the ear canal.
 
 Who should NOT use Ofloxacin Otic Solution 0.3%?
 
-■ Do not use this product if you are allergic to ofloxacin or to other quinolone antibiotics.
+■ Do not use this product if you are allergic to ofloxacin or to other quinolone antibiotics. ■ Do not give this product to pediatric patients who:
 
-■ Do not give this product to pediatric patients who:
-
-■ have an ear canal infection and are less than 6 months of age because no data were collected from this population
-
-■ have a middle ear infection and have a tube in the eardrum and are less than one year of age because no data were collected from this population
-
-■ have a middle ear infection and have a hole in the eardrum and are less than twelve years of age because no data were collected from this population
+1. ■ have an ear canal infection and are less than 6 months of age because no data were collected from this population
+2. ■ have a middle ear infection and have a tube in the eardrum and are less than one year of age because no data were collected from this population
+3. ■ have a middle ear infection and have a hole in the eardrum and are less than twelve years of age because no data were collected from this population
 
 How should Ofloxacin Otic Solution 0.3% be given?
 
@@ -162,7 +154,7 @@ Patients (12 and older) should have 10 drops of Ofloxacin Otic Solution 0.3% put
 Pediatric patients under 12 should have 5 drops put into the infected ear.
 The tip of the bottle should not touch the fingers or the ear or any other surfaces.
 
-For an Ear Canal Infection (“Swimmer's Ear”):
+For an Ear Canal Infection (“Swimmer’s Ear”):
 
 The person receiving ofloxacin otic should lie on his/her side with the infected ear up.
 Patients (13 and older) should have 10 drops of ofloxacin otic put into the infected ear.
@@ -177,7 +169,7 @@ Press ear or pull ear
 For a Middle Ear Infection: While the person receiving Ofloxacin Otic Solution 0.3% lies on his/her side, the person giving the drops should gently press the TRAGUS (see diagram) 4 times in a pumping motion.
 This will allow the drops to pass through the hole or tube in the eardrum and into the middle ear.
 
-For an Ear Canal Infection (“Swimmer's Ear”):
+For an Ear Canal Infection (“Swimmer’s Ear”):
 
 While the person receiving the drops lies on his/her side, the person giving the drops should gently pull the outer ear upward and backward.
 This will allow the ear drops to flow down into the ear canal.
@@ -191,7 +183,7 @@ Repeat Steps 2-5 for the other ear if both ears are infected.
 
 How often should Ofloxacin Otic Solution 0.3% be given?
 
-In patients with an Ear Canal Infection (“Swimmer's Ear”), ofloxacin otic ear drops should be given once daily at about the same time each day (for example, 8 AM or 8 PM) in each infected ear unless the doctor has instructed otherwise.
+In patients with an Ear Canal Infection (“Swimmer’s Ear”), ofloxacin otic ear drops should be given once daily at about the same time each day (for example, 8 AM or 8 PM) in each infected ear unless the doctor has instructed otherwise.
 
 In patients with a middle ear infection, Ofloxacin Otic Solution 0.3% ear drops should be given 2 times each day (about 12 hours apart, for example, 8 AM and 8 PM) in each infected ear unless the doctor has instructed otherwise.
 The best times to use the ear drops are in the morning and at night.
@@ -201,7 +193,7 @@ If Ofloxacin Otic Solution 0.3% ear drops are not used for as long as the doctor
 What if a dose is missed?
 
 In patients with an Ear Canal Infection (“Swimmer's Ear”), it is important that you take the drops every day.
-If you miss a dose which may have been scheduled for earlier in the day, (for example, 8:00 AM), you should take that day's dose as soon as possible and then go back to your regular daily dosing schedule.
+If you miss a dose which may have been scheduled for earlier in the day, (for example, 8 AM), you should take that day’s dose as soon as possible and then go back to your regular daily dosing schedule.
 In patients with a Middle Ear Infection, if a dose of Ofloxacin Otic Solution 0.3% is missed, it should be given as soon as possible.
 However, if it is almost time for the next dose, skip the missed dose and go back to the regular dosing schedule.
 Do not use a double dose unless the doctor has instructed you to do so.
@@ -239,13 +231,15 @@ Do not use this medicine if outdated.
 If you wish to learn more about Ofloxacin Otic Solution 0.3% ask the doctor or pharmacist.
 See complete Prescribing Information.
 
-Storage: Store at 25ºC (77ºF), excursions permitted to 15º-30ºC (59º-86ºF).
+Storage: Store at 25ºC (77ºF); excursions permitted to 15º to 30ºC (59º to 86ºF).
 Protect from light.
+
+Distributed by: Bausch + Lomb, a division of Bausch Health US, LLC Bridgewater, NJ 08807 USA
+
+Manufactured by: Bausch & Lomb Incorporated Tampa, FL 33637 USA
+
+© 2020 Bausch & Lomb Incorporated or its affiliates
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 
-Revised 08/2016
-
-Bausch + Lomb, a division of Valeant Pharmaceuticals North America LLC Bridgewater, NJ 08807 USA ©Bausch & Lomb Incorporated
-
-9047604 (Folded) / 9047704 (Flat)
+Revised 02/2020 9047605 (Folded) 9047705 (Flat)

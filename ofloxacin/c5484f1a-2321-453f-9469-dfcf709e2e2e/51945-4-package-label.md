@@ -1,10 +1,10 @@
-# Principal Display Panel
+# Principal Display Panel – Ofloxacin Otic Solution 0.3% (Sterile) - 10 mL Carton
 
 NDC 24208-410-10
 
 Ofloxacin Otic Solution 0.3% (Sterile)
 
-FOR USE IN EARS ONLY
+(ear icon) FOR USE IN EARS ONLY
 
 Rx only
 
