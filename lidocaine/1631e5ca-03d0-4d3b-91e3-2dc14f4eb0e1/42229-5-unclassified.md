@@ -71,10 +71,10 @@ OTHER VOLUMES AND CONCENTRATIONS MAY BE USED PROVIDED THE TOTAL MAXIMUM RECOMMEN
 Disinfecting agents containing heavy metals, which cause release of respective ions (mercury, zinc, copper, etc) should not be used for skin or mucous membrane disinfection as they have been related to incidents of swelling and edema.
 
 Manufactured by HIKMA FARMACÊUTICA (PORTUGAL), S.A.
-Estrada do Rio da Mό, 8, 8A e 8B – Fervença – 2705-906 Terrugem SNT, PORTUGAL
+Estrada do Rio da Mό, 8, 8A e 8B – Fervença 2705-906 Terrugem SNT, PORTUGAL
 
-Distributed by WEST-WARD A HIKMA COMPANY Eatontown, NJ 07724 USA
+Distributed by Hikma Pharmaceuticals USA Inc. Eatontown, NJ 07724 USA
 
-January 2019
+Revised July 2019
 
-PIN363-WES/3
+PIN363-WES/4
