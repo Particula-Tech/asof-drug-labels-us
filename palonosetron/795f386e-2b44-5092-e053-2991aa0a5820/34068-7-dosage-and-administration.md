@@ -1,20 +1,26 @@
-# 2 DOSAGE AND ADMINSTRATION
+# 2 DOSAGE AND ADMINISTRATION
 
-## 2.1 Recommended Dosing
+## 2.1 Recommended Dosage
 
-Chemotherapy-Induced Nausea and Vomiting
+Prevention of Chemotherapy-Induced Nausea and Vomiting
 
-| Age | Dose * | Infusion Time |
+The recommended dosage of ALOXI injection for prevention of nausea and vomiting associated with HEC and MEC in adults and associated with emetogenic chemotherapy, including HEC in pediatric patients 1 month to less than 17 years of age is shown in Table 1.
+
+Table 1: Recommended Dosage of ALOXI Injection for the Prevention of Nausea and Vomiting Associated with Chemotherapy in Adults and Pediatric Patients 1 Month to Less than 17 Years
+
+| Age | Dose Note different dosing units in pediatrics | Infusion Time |
 | --- | --- | --- |
-| Adults | 0.25 mg x 1 | Infuse over 30 seconds beginning approx. 30 min before the start of chemo |
-| Pediatrics (1 month to less than 17 years) | 20 micrograms per kilogram (max 1.5 mg) x 1 | Infuse over 15 minutes beginning approx. 30 min before the start of chemo |
-| *Note different dosing units in pediatrics |  |  |
+| Adults | 0.25 mg as a single dose | Infuse over 30 seconds beginning approximately 30 minutes before the start of chemotherapy |
+| Pediatrics (1 month to less than 17 years) | 20 micrograms per kilogram (max 1.5 mg) as a single dose | Infuse over 15 minutes beginning approximately 30 minutes before the start of chemotherapy |
 
-Postoperative Nausea and Vomiting Dosage for Adults - a single 0.075 mg intravenous dose administered over 10 seconds immediately before the induction of anesthesia.
+Postoperative Nausea and Vomiting
+
+The recommended dosage of ALOXI injection in adults for PONV is 0.075 mg administered as a single intravenous dose over 10 seconds immediately before the induction of anesthesia.
 
 ## 2.2 Instructions for Intravenous Administration
 
-ALOXI is supplied ready for intravenous administration at a concentration of 0.05 mg/mL (50 mcg/ mL).
-ALOXI should not be mixed with other drugs.
-The infusion line should be flushed with normal saline before and after administration of ALOXI.
-Parenteral drug products should be inspected visually for particulate matter and discoloration before administration, whenever solution and container permit.
+- ALOXI injection is supplied ready for intravenous administration at a concentration of 0.05 mg/mL (50 mcg/mL).
+- Do not mix ALOXI injection with other drugs.
+- Flush the infusion line with normal saline before and after administration of ALOXI injection.
+- Inspect ALOXI injection visually for particulate matter and discoloration before administration.
+- Discard unused portion.
