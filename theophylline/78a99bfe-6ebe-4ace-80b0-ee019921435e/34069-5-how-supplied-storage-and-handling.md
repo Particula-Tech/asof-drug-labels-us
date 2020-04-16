@@ -8,11 +8,11 @@ Theophylline Oral Solution, USP is available in bottles of 16 fl. oz.
 
 Store at 20˚ to 25˚C (68˚ to 77˚F); excursions permitted from 15˚ to 30˚C (59˚ to 86˚F) [see USP Controlled Room Temperature].
 
-Dispense in tight container.
+Dispense in tight (USP), child resistant containers.
 
 Manufactured by: Tris Pharma, Inc. Monmouth Junction, NJ 08852 www.trispharma.com
 
 LB8063 Rev.
-01
+02
 
-04/2018
+01/2020
