@@ -6,12 +6,8 @@ Rx only
 
 Locoid®
 
-(hydrocortisone butyrate)
+(hydrocortisone butyrate) Solution, 0.1%
 
-Solution, 0.1%
-
-FOR TOPICAL USE ONLY
-
-NOT FOR OPHTHALMIC USE
+FOR TOPICAL USE ONLY NOT FOR OPHTHALMIC USE
 
 60 mL
