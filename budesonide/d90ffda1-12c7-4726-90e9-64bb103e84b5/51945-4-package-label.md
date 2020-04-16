@@ -2,8 +2,6 @@
 
 # Package/Label Display Panel, Part 2 of 2
 
-## Budesonide Inhalation Suspension 1 mg/2 mL; 6 Pouches of Five 2 mL Ampules, Carton Text
-
 NDC 0093-6817-73
 
 Budesonide
@@ -14,7 +12,7 @@ Inhalation Suspension
 
 Each unit-dose ampule delivers 2 mL of a sterile suspension containing
 
-1 mg of micronized budesonide.
+1 mg of micronized budesonide, USP.
 
 Sterile Unit-Dose Ampules
 
