@@ -8,9 +8,9 @@ Revised: June 2019
 
 # PRINCIPAL DISPLAY PANEL
 
-NDC 0641-6142-01 Phenylephrine HCl Injection, USP 10 mg/mL For Intravenous Use Dilute Before Use 1 mL Single Dose Vial DISCARD UNUSED PORTION PROTECT FROM LIGHT
+NDC 0641-6142-01 Phenylephrine HCl Injection, USP 10 mg/mL For Intravenous Use Dilute before use Protect from light 1 mL Single Dose Vial
 
-NDC 0641-6142-25 Rx only Phenylephrine HCl Injection, USP 10 mg/mL For Intravenous Use Dilute Before Use 25 x 1 mL Single Dose Vials DISCARD UNUSED PORTION
+NDC 0641-6142-25 Rx only Phenylephrine HCl Injection, USP 10 mg/mL For Intravenous Use Dilute before use 25 x 1 mL Single Dose Vials Discard unused portion
 
 # PRINCIPAL DISPLAY PANEL
 
