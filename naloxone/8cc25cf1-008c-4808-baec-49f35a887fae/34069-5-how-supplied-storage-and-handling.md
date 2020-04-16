@@ -10,14 +10,12 @@ Protect from light.
 
 Store in carton until contents have been used.
 
-To report SUSPECTED ADVERSE REACTIONS, contact West-Ward Pharmaceutical Corp. at 1-877-845-0689, or the FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
+To report SUSPECTED ADVERSE REACTIONS, contact Hikma Pharmaceuticals USA Inc. at 1-877-845-0689, or the FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
 
 For Product Inquiry call 1-877-845-0689.
 
-Manufactured by:
+Manufactured by: Hikma Pharmaceuticals USA Inc. Eatontown, NJ 07724 USA
 
-WEST-WARD PHARMACEUTICALS Eatontown, NJ 07724 USA
+Revised December 2019
 
-Revised March 2015
-
-462-641-00
+462-641-01
