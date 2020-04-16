@@ -13,7 +13,9 @@ Manuf. by: Patheon Manufacturing Services LLC Greenville, NC 27834, USA
 Montelukast Sodium (active ingred.)
 Made in Ireland Formulated in USA
 
-DIRECTIONS FOR USE: See accompanying Package Insert.
+Attention Health Care Professional: Dispense the enclosed Medication Guide to each patient.
+
+DIRECTIONS FOR USE: See accompanying Prescribing Information.
 Once opened, use the contents of this packet within 15 minutes (with or without mixing with food).
 Discard any unused portion.
 
@@ -27,14 +29,19 @@ Singulair® (Montelukast Sodium) CHEWABLE Tablets
 
 4 mg
 
+Dispense the accompanying Medication Guide to each patient.
+
 For Pediatric Patients 2-5 Years of Age
 
 Phenylketonurics: contains phenylalanine (a component of aspartame) 0.674 mg per 4-mg chewable tablet.
 Each tablet contains 4.2 mg Montelukast Sodium equivalent to 4 mg Montelukast.
 
-Rx only
+Rx only 30 Tablets
 
-30 Tablets
+Dist. by: Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC., Whitehouse Station, NJ 08889, USA
+
+Manuf. by: MERCK SHARP & DOHME LTD. Cramlington, Northumberland, UK NE23 3JU Montelukast Sodium (active ingred.)
+Made in Ireland Formulated in UK
 
 # PRINCIPAL DISPLAY PANEL - 5 mg Tablet Bottle Label
 
@@ -44,14 +51,19 @@ Singulair® (Montelukast Sodium) CHEWABLE Tablets
 
 5 mg
 
+Dispense the accompanying Medication Guide to each patient.
+
 For Pediatric Patients 6-14 Years of Age
 
 Phenylketonurics: contains phenylalanine (a component of aspartame) 0.842 mg per 5-mg chewable tablet.
 Each tablet contains 5.2 mg Montelukast Sodium equivalent to 5 mg Montelukast.
 
-Rx only
+Rx only 30 Tablets
 
-30 Tablets
+Dist. by: Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC., Whitehouse Station, NJ 08889, USA
+
+Manuf. by: MERCK SHARP & DOHME LTD. Cramlington, Northumberland, UK NE23 3JU Montelukast Sodium (active ingred.)
+Made in Ireland Formulated in UK
 
 # PRINCIPAL DISPLAY PANEL - 10 mg Tablet Bottle Label
 
@@ -61,6 +73,8 @@ Singulair® (Montelukast Sodium) Tablets
 
 10 mg
 
+Dispense the accompanying Medication Guide to each patient.
+
 For Adults 15 Years of Age and Older
 
 Each tablet contains 10.4 mg Montelukast Sodium equivalent to 10 mg Montelukast.
@@ -68,3 +82,8 @@ Each tablet contains 10.4 mg Montelukast Sodium equivalent to 10 mg Montelukast.
 Rx only
 
 30 Tablets
+
+Dist. by: Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC., Whitehouse Station, NJ 08889, USA
+
+Manuf. by: MERCK SHARP & DOHME LTD. Cramlington, Northumberland, UK NE23 3JU Montelukast Sodium (active ingred.)
+Made in Ireland Formulated in UK

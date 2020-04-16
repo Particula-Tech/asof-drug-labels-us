@@ -86,7 +86,7 @@ Patients who were randomized to treatment arms containing beclomethasone had sta
 
 In adult patients with asthma with documented aspirin sensitivity, nearly all of whom were receiving concomitant inhaled and/or oral corticosteroids, a 4-week, randomized, parallel-group trial (n=80) demonstrated that SINGULAIR, compared with placebo, resulted in significant improvement in parameters of asthma control.
 The magnitude of effect of SINGULAIR in aspirin-sensitive patients was similar to the effect observed in the general population of asthma patients studied.
-The effect of SINGULAIR on the bronchoconstrictor response to aspirin or other non-steroidal anti-inflammatory drugs in aspirin-sensitive asthmatic patients has not been evaluated [see Warnings and Precautions (5.3)].
+The effect of SINGULAIR on the bronchoconstrictor response to aspirin or other non-steroidal anti-inflammatory drugs in aspirin-sensitive asthmatic patients has not been evaluated [see Warnings and Precautions (5.4)].
 
 ## 14.2 Exercise-Induced Bronchoconstriction (EIB)
 

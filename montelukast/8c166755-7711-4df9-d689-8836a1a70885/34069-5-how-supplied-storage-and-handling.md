@@ -24,6 +24,6 @@ NDC 0006-9117-54 unit of use high-density polyethylene (HDPE) bottles of 90 with
 
 Storage
 
-Store SINGULAIR 4-mg oral granules, 4-mg chewable tablets, 5-mg chewable tablets and 10-mg film-coated tablets at 25°C (77°F), excursions permitted to 15-30°C (59-86°F) [see USP Controlled Room Temperature].
+Store SINGULAIR 4-mg oral granules, 4-mg chewable tablets, 5-mg chewable tablets and 10-mg film-coated tablets at 20°C to 25°C (68°F to 77°F), excursions permitted to 15-30°C (59-86°F) [see USP Controlled Room Temperature].
 Protect from moisture and light.
 Store in original package.

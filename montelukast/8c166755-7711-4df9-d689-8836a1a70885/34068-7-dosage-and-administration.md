@@ -15,6 +15,8 @@ For pediatric patients 12 to 23 months of age: one packet of 4-mg oral granules.
 
 Safety and effectiveness in pediatric patients less than 12 months of age with asthma have not been established.
 
+Patients who miss a dose should take the next dose at their regular time and should not take 2 doses at the same time.
+
 There have been no clinical trials in patients with asthma to evaluate the relative efficacy of morning versus evening dosing.
 The pharmacokinetics of montelukast are similar whether dosed in the morning or evening.
 Efficacy has been demonstrated for asthma when montelukast was administered in the evening without regard to time of food ingestion.
@@ -62,9 +64,13 @@ For pediatric patients 6 to 23 months of age: one packet of 4-mg oral granules.
 
 Safety and effectiveness in pediatric patients younger than 6 months of age with perennial allergic rhinitis have not been established.
 
+Patients who miss a dose should take the next dose at their regular time and should not take 2 doses at the same time.
+
 ## 2.4 Asthma and Allergic Rhinitis
 
 Patients with both asthma and allergic rhinitis should take only one SINGULAIR dose daily in the evening.
+
+Patients who miss a dose should take the next dose at their regular time and should not take 2 doses at the same time.
 
 ## 2.5 Instructions for Administration of Oral Granules
 

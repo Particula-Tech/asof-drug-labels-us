@@ -51,8 +51,7 @@ Distribution
 
 Montelukast is more than 99% bound to plasma proteins.
 The steady state volume of distribution of montelukast averages 8 to 11 liters.
-Studies in rats with radiolabeled montelukast indicate minimal distribution across the blood-brain barrier.
-In addition, concentrations of radiolabeled material at 24 hours postdose were minimal in all other tissues.
+Orally administered montelukast distributes into the brain in rats.
 
 Metabolism
 
