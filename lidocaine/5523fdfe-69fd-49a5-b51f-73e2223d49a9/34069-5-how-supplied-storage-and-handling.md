@@ -18,6 +18,6 @@ Lidocaine Hydrochloride Injection, USP is preserved with 0.1% methylparaben and 
 
 Store at 20° to 25°C (68° to 77°F) [see USP Controlled Room Temperature].
 
-To report SUSPECTED ADVERSE REACTIONS, contact West-Ward Pharmaceutical Corp. at 1-877-845-0689, or the FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
+To report SUSPECTED ADVERSE REACTIONS, contact Hikma Pharmaceuticals USA Inc. at 1-877-845-0689, or the FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
 
 For Product Inquiry call 1-877-845-0689.

@@ -58,13 +58,11 @@ Disinfecting agents containing heavy metals, which cause release of respective i
 When chemical disinfection of multiple dose vials is desired, either isopropyl alcohol (91%) or ethyl alcohol (70 %) is recommended.
 Many commercially available brands of rubbing alcohol, as well as solutions of ethyl alcohol not of USP grade, contain denaturants which are injurious to rubber and therefore are not to be used.
 
-Manufactured by: HIKMA FARMACÊUTICA (PORTUGAL), S.A.
-Estrada do Rio da Mό, 8, 8A e 8B – Fervença – 2705-906 Terrugem SNT, PORTUGAL
+Manufactured by HIKMA FARMACÊUTICA (PORTUGAL), S.A.
+Estrada do Rio da Mό, 8, 8A e 8B – Fervença 2705-906 Terrugem SNT, PORTUGAL
 
-Distributed by:
+Distributed by Hikma Pharmaceuticals USA Inc. Eatontown, NJ 07724 USA
 
-WEST-WARD PHARMACEUTICALS Eatontown, NJ 07724 USA
+Revised July 2019
 
-January 2019
-
-PIN371–WES/2
+PIN371–WES/3
