@@ -1,52 +1,50 @@
 # PRINCIPAL DISPLAY PANEL - 2.5 mg Tablet Bottle Label
 
-NDC 50458-577-60 60 Tablets
+NDC 50458-577-60
 
 Xarelto® (rivaroxaban) Tablets 2.5 mg
 
 Dispense the accompanying Medication Guide to each patient.
 
-Each tablet contains: rivaroxaban 2.5 mg See package insert for full prescribing information.
+Each tablet contains 2.5 mg of rivaroxaban.
 
-Rx only
+Rx only 60 Tablets
 
 # PRINCIPAL DISPLAY PANEL - 10 mg Tablet Bottle Label
 
-NDC 50458-580-90 90 Tablets
+NDC 50458-580-30
 
-Xarelto® (rivaroxaban) Tablets
-
-10 mg
+Xarelto® (rivaroxaban) Tablets 10 mg
 
 Dispense the accompanying Medication Guide to each patient.
 
-Each tablet contains: rivaroxaban 10 mg See package insert for full prescribing information.
+Each tablet contains 10 mg of rivaroxaban.
 
-Rx only
+Rx only 30 Tablets
 
 # PRINCIPAL DISPLAY PANEL - 15 mg Tablet Bottle Label
 
-NDC 50458-578-30 30 Tablets
+NDC 50458-578-90
 
 Xarelto® (rivaroxaban) Tablets 15 mg
 
 Dispense the accompanying Medication Guide to each patient.
 
-Each tablet contains: rivaroxaban 15 mg See package insert for full prescribing information.
+Each tablet contains 15 mg of rivaroxaban.
 
-Rx only
+Rx only 90 Tablets
 
 # PRINCIPAL DISPLAY PANEL - 20 mg Tablet Bottle Label
 
-NDC 50458-579-30 30 Tablets
+NDC 50458-579-90
 
 Xarelto® (rivaroxaban) Tablets 20 mg
 
 Dispense the accompanying Medication Guide to each patient.
 
-Each tablet contains: rivaroxaban 20 mg See package insert for full prescribing information.
+Each tablet contains 20 mg of rivaroxaban.
 
-Rx only
+Rx only 90 Tablets
 
 # PRINCIPAL DISPLAY PANEL - Kit Carton
 
