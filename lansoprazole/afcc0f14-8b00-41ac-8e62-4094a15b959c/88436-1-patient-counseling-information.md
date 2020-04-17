@@ -4,6 +4,8 @@ Advise the patient to read the FDA-approved patient labeling (Medication Guide a
 
 Advise patients to:
 
+f
+
 Acute Interstitial Nephritis
 
 To call their healthcare provider if they experience signs and/or symptoms associated with acute interstitial nephritis [see Warnings and Precautions (5.2)].
@@ -58,9 +60,9 @@ Manufactured By:
 
 Inventia Healthcare Limited
 
-Plot No.F1 & F-1/1,
+Plot No.F1-F-1/1-F75/1
 
-Additional Ambernath M.I.D.C.,
+Additional Ambernath M.I.D.C.
 
 Ambernath (East)-421506,
 
@@ -77,6 +79,6 @@ Lifestar Pharma LLC.
 
 Mahwah, NJ 07430 USA
 
-Revision Date: July 2018
+Revision Date: Dercember 2019
 
-ECA3TPIOIOUS72503
+ECA3TPIOIOUS72504

@@ -232,7 +232,7 @@ Manufactured By:
 
 Inventia Healthcare Limited
 
-Plot No.F1 & F-1/1,
+Plot No.F1-F-1/1-F75/1.
 
 Additional Ambernath M.I.D.C.,
 
@@ -251,8 +251,8 @@ Lifestar Pharma LLC.
 
 Mahwah, NJ 07430 USA
 
-Revised: July 2018
+Revised: December 2019
 
 All other trademarks names are the property of their respective owners.
 
-ECA3TGIOIOUS74203
+ECA3TGIOIOUS74204
