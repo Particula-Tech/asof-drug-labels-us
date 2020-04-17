@@ -10,7 +10,7 @@ It is highly lipophilic and practically insoluble in water.
 
 One-vial Docetaxel Injection USP (Injection)
 
-Docetaxel Injection USP is a sterile, non-pyrogenic, pale-yellow to brownish-yellow solution at 20 m/mL concentration.
+Docetaxel Injection USP is a sterile, non-pyrogenic, pale-yellow to brownish-yellow solution at 20 mg/mL concentration.
 
 Each mL contains 20 mg docetaxel (anhydrous) in 0.54 grams polysorbate 80 and 0.395 grams dehydrated alcohol (50% v/v) solution, with citric acid for pH adjustment.
 

@@ -14,8 +14,7 @@ Advise patients of the symptoms of colitis, such as abdominal pain or tenderness
 Hypersensitivity Reactions
 
 Ask patients whether they have previously received paclitaxel therapy, and if they have experienced a hypersensitivity reaction to paclitaxel.
-Instruct patients to immediately report to their healthcare provider signs of a hypersensitivity reaction.
-[see Contraindications (4), Warnings and Precautions (5.5)].
+Instruct patients to immediately report to their healthcare provider signs of a hypersensitivity reaction [see Contraindications (4), Warnings and Precautions (5.5)].
 
 Fluid Retention
 
@@ -23,7 +22,7 @@ Advise patients to report signs of fluid retention such as peripheral edema in t
 
 Second Primary Malignancies
 
-Advise patients on the risk of second primary malignancies during treatment with Docetaxel Injection USP [see Warnings and Precautions (5.7)].
+Advise patients on the risk of second primary malignancies during treatment with Docetaxel Injection [see Warnings and Precautions (5.7)].
 
 Cutaneous Reactions
 
@@ -37,12 +36,12 @@ Instruct patients to immediately report neurologic reactions to their healthcare
 
 Eye Disorders
 
-Advise patients that vision disturbances and excessive tearing are associated with Docetaxel Injection USP administration.
+Advise patients that vision disturbances and excessive tearing are associated with Docetaxel Injection administration.
 Instruct patients to immediately report any vision changes to their healthcare provider [see Warnings and Precautions (5.10)].
 
 Gastrointestinal Reactions
 
-Explain to patients that nausea, vomiting, diarrhea, and constipation are associated with Docetaxel Injection USP administration.
+Explain to patients that nausea, vomiting, diarrhea, and constipation are associated with Docetaxel Injection administration.
 Instruct patients to report any severe events to their healthcare provider [see Adverse Reactions (6)].
 
 Cardiac Disorders
@@ -51,7 +50,7 @@ Advise patients to report any irregular and/or rapid heartbeat, severe shortness
 
 Other Common Adverse Reactions
 
-Advise patients that other common adverse reactions associated with Docetaxel Injection USP may include alopecia (cases of permanent hair loss have been reported), asthenia, anorexia, dysgeusia, mucositis, myalgia, nail disorders, or pain.
+Advise patients that other common adverse reactions associated with Docetaxel Injection may include alopecia (cases of permanent hair loss have been reported), asthenia, anorexia, dysgeusia, mucositis, myalgia, nail disorders, or pain.
 Instruct patients to report these reactions to their healthcare provider if serious events occur [see Adverse Reactions (6)].
 
 Importance of Corticosteroids
@@ -61,27 +60,27 @@ Instruct patients to report to their healthcare provider if they were not compli
 
 Embryo-Fetal Toxicity
 
-Docetaxel Injection USP can cause fetal harm.
+Docetaxel Injection can cause fetal harm.
 Advise patients to inform their healthcare provider of a known or suspected pregnancy.
 Advise patients to avoid becoming pregnant while receiving this drug.
-Advise female patients of reproductive potential to use effective contraceptives during treatment and for 6 months after the last dose of Docetaxel Injection USP.
-Advise male patients with female partners of reproductive potential to use effective contraception during treatment and for 3 months after the last dose of Docetaxel Injection USP [see Warnings and Precautions (5.12), Use in Specific Populations (8.1, 8.3)].
+Advise female patients of reproductive potential to use effective contraceptives during treatment and for 6 months after the last dose of Docetaxel Injection.
+Advise male patients with female partners of reproductive potential to use effective contraception during treatment and for 3 months after the last dose of Docetaxel Injection [see Warnings and Precautions (5.12), Use in Specific Populations (8.1, 8.3)].
 
 Lactation
 
-Advise women not to breastfeed during Docetaxel Injection USP treatment and for 1 week after the last dose [see Use in Specific Populations (8.2)].
+Advise women not to breastfeed during Docetaxel Injection treatment and for 1 week after the last dose [see Use in Specific Populations (8.2)].
 
 Infertility
 
-Advise males of reproductive potential that Docetaxel Injection USP may impair fertility [see Nonclinical Toxicology (13.1)].
+Advise males of reproductive potential that Docetaxel Injection may impair fertility [see Nonclinical Toxicology (13.1)].
 
-Alcohol Content in Docetaxel Injection USP
+Alcohol Content in Docetaxel Injection
 
-Explain to patients the possible effects of the alcohol content in Docetaxel Injection USP, including possible effects on the central nervous system [see Warnings and Precautions (5.13)].
+Explain to patients the possible effects of the alcohol content in Docetaxel Injection, including possible effects on the central nervous system [see Warnings and Precautions (5.13)].
 
 Ability to Drive or Operate Machines
 
-Explain to patients that Docetaxel Injection USP may impair their ability to drive or operate machines due to its side effects [see Adverse Reactions (6)] or due to the alcohol content of Docetaxel Injection USP [see Warnings and Precautions (5.13)].
+Explain to patients that Docetaxel Injection may impair their ability to drive or operate machines due to its side effects [see Adverse Reactions (6)] or due to the alcohol content of Docetaxel Injection [see Warnings and Precautions (5.13)].
 Advise them not to drive or use machines if they experience these side effects during treatment.
 
 Drug Interactions
@@ -100,6 +99,6 @@ eVenus Pharmaceutical Laboratories, Inc. (eVenus)
 
 506 Carnegie Center, Suite 100, NJ 08540, USA
 
-Revised: June 2019
+Revised: December 2019
 
-10VUF03
+10VUF04

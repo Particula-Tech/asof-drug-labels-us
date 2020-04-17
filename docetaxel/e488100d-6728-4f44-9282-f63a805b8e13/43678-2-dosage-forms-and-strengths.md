@@ -2,7 +2,7 @@
 
 One-vial Docetaxel Injection USP
 
-Docetaxel InjectionUSP 20 mg per mL
+Docetaxel Injection USP 20 mg/mL
 
 Docetaxel Injection USP 20 mg/1 mL single-dose vial: 20 mg docetaxel in 1 mL in 50/50 (v/v) ratio polysorbate 80/dehydrated alcohol.
 

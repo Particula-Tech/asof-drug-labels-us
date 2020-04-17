@@ -9,7 +9,9 @@ Docetaxel's binding to microtubules does not alter the number of protofilaments 
 
 ## 12.3 Pharmacokinetics
 
-Absorption: The pharmacokinetics of docetaxel has been evaluated in cancer patients after administration of 20 mg/m 2 to 115 mg/m 2 in phase 1 studies.
+Absorption
+
+The pharmacokinetics of docetaxel has been evaluated in cancer patients after administration of 20 mg/m 2 to 115 mg/m 2 in phase 1 studies.
 The area under the curve (AUC) was dose proportional following doses of 70 mg/m 2 to 115 mg/m 2 with infusion times of 1 to 2 hours.
 Docetaxel's pharmacokinetic profile is consistent with a three-compartment pharmacokinetic model, with half-lives for the α, β, and γ phases of 4 min, 36 min, and 11.1 hr, respectively.
 Mean total body clearance was 21 L/h/m 2.
@@ -51,7 +53,7 @@ Drug Interaction Studies
 
 Effect of Ketoconazole: The effect of ketoconazole (a strong CYP3A4 inhibitor) on the pharmacokinetics of docetaxel was investigated in 7 cancer patients.
 Patients were randomized to receive either docetaxel (100 mg/m 2 intravenous) alone or docetaxel (10 mg/m 2 intravenous) in combination with ketoconazole (200 mg orally once daily for 3 days) in a crossover design with a 3-week washout period.
-The results of this study indicated that the mean dose-normalized AUC of docetaxel was increased 2.2-fold and its clearance was reduced by 49% when docetaxel was coadministration with ketoconazole [see Dosage and Administration (2.7), Drug Interactions (7)].
+The results of this study indicated that the mean dose-normalized AUC of docetaxel was increased 2.2-fold and its clearance was reduced by 49% when docetaxel was coadministered with ketoconazole [see Dosage and Administration (2.7), Drug Interactions (7)].
 
 Effect of combination therapies
 
@@ -60,6 +62,6 @@ Effect of combination therapies
   The pharmacokinetic profile of cisplatin in combination therapy with docetaxel was similar to that observed with cisplatin alone.
 - Cisplatin and Fluorouracil: The combined administration of docetaxel, cisplatin and fluorouracil in 12 patients with solid tumors had no influence on the pharmacokinetics of each individual drug.
 - Prednisone: A population pharmacokinetic analysis of plasma data from 40 patients with metastatic castration-resistant prostate cancer indicated that docetaxel systemic clearance in combination with prednisone is similar to that observed following administration of docetaxel alone.
-- Cyclophosphamide and Doxorubicin: A study was conducted in 30 patients with advanced breast cancer to determine the potential for drug-drug-interactions between docetaxel (75 mg/m 2), doxorubicin (50 mg/m 2), and cyclophosphamide (500 mg/m 2) when administered in combination.
+- Cyclophosphamide and Doxorubicin: A study was conducted in 30 patients with advanced breast cancer to determine the potential for drug-drug interactions between docetaxel (75 mg/m 2), doxorubicin (50 mg/m 2), and cyclophosphamide (500 mg/m 2) when administered in combination.
   The coadministration of docetaxel had no effect on the pharmacokinetics of doxorubicin and cyclophosphamide when the three drugs were given in combination compared to coadministration of doxorubicin and cyclophosphamide only.
   In addition, doxorubicin and cyclophosphamide had no effect on docetaxel plasma clearance when the three drugs were given in combination compared to historical data for docetaxel monotherapy.

@@ -17,12 +17,18 @@ Among patients who experienced treatment-related mortality at the 75 mg/m 2 dose
 
 ## 5.2 Hepatic Impairment
 
-Patients with combined abnormalities of transaminases and alkaline phosphatase should not be treated with docetaxel [see Boxed Warning, Use in Specific Populations (8.6), Clinical Studies (14)].
+Patients with elevations of bilirubin or abnormalities of transaminase concurrent with alkaline phosphatase are at increased risk for the development of severe neutropenia, febrile neutropenia, infections, severe thrombocytopenia, severe stomatitis, severe skin toxicity, and toxic death.
+
+Avoid docetaxel in patients with bilirubin > upper limit of normal (ULN), or to patients with AST and/or ALT >1.5 × ULN concomitant with alkaline phosphatase >2.5 × ULN [see Warnings and Precautions (5.1)].
+
+For patients with isolated elevations of transaminase >1.5 × ULN, consider docetaxel dose modifications [see Dosage and Administration (2.7)].
+Measure bilirubin, AST or ALT, and alkaline phosphatase prior to each cycle of docetaxel therapy.
 
 ## 5.3 Hematologic Effects
 
 Perform frequent peripheral blood cell counts on all patients receiving docetaxel.
-Patients should not be retreated with subsequent cycles of docetaxel until neutrophils recover to a level >1500 cells/mm 3 and platelets recover to a level > 100,000 cells/mm 3.
+Do not retreat patients with subsequent cycles of docetaxel until neutrophils recover to a level >1500 cells/mm 3 [see Contraindications (4)].
+Avoid retreating patients until platelets recover to a level > 100,000 cells/mm 3.
 
 A 25% reduction in the dose of docetaxel is recommended during subsequent cycles following severe neutropenia (<500 cells/mm 3) lasting 7 days or more, febrile neutropenia, or a grade 4 infection in a docetaxel cycle [see Dosage and Administration (2.7)].
 
@@ -47,10 +53,10 @@ Inform patients to contact their healthcare provider with new, or worsening symp
 
 ## 5.5 Hypersensitivity Reactions
 
-Patients should be observed closely for hypersensitivity reactions, especially during the first and second infusions.
-Severe hypersensitivity reactions characterized by generalized rash/erythema, hypotension and/or bronchospasm, or very rarely fatal anaphylaxis, have been reported in patients premedicated with 3 days of corticosteroids.
+Monitor patients closely for hypersensitivity reactions, especially during the first and second infusions.
+Severe hypersensitivity reactions characterized by generalized rash/erythema, hypotension and/or bronchospasm, or fatal anaphylaxis, have been reported in patients premedicated with 3 days of corticosteroids.
 Severe hypersensitivity reactions require immediate discontinuation of the docetaxel infusion and aggressive therapy.
-Patients with a history of severe hypersensitivity reactions should not be rechallenged with docetaxel.
+Do not rechallenge patients with a history of severe hypersensitivity reactions with docetaxel [see Contraindications (4)].
 
 Patients who have previously experienced a hypersensitivity reaction to paclitaxel may develop a hypersensitivity reaction to docetaxel that may include severe or fatal reactions such as anaphylaxis.
 Monitor patients with a previous history of hypersensitivity to paclitaxel closely during initiation of docetaxel therapy.
@@ -79,7 +85,7 @@ Second primary malignancies, notably acute myeloid leukemia (AML), myelodysplast
 These adverse reactions may occur several months or years after docetaxel-containing therapy.
 
 Treatment-related AML or MDS has occurred in patients given anthracyclines and/or cyclophosphamide, including use in adjuvant therapy for breast cancer.
-In the adjuvant breast cancer trial (TAX316) AML occurred in 3 of 744 patients who received docetaxel, doxorubicin, and cyclophosphamide (TAC) and in 1 of 736 patients who received fluorouracil, doxorubicin, and cyclophosphamide [see Clinical Studies (14.2)].
+In the adjuvant breast cancer trial (TAX316) AML occurred in 3 of 744 patients who received docetaxel, doxorubicin and cyclophosphamide (TAC) and in 1 of 736 patients who received fluorouracil, doxorubicin, and cyclophosphamide [see Clinical Studies (14.2)].
 In TAC-treated patients, the risk of delayed myelodysplasia or myeloid leukemia requires hematological follow-up.
 Monitor patients for second primary malignancies [see Adverse Reactions (6.1)].
 
@@ -89,6 +95,10 @@ Localized erythema of the extremities with edema followed by desquamation has be
 In case of severe skin toxicity, an adjustment in dosage is recommended [see Dosage and Administration (2.7)].
 The discontinuation rate due to skin toxicity was 1.6% (15/965) for metastatic breast cancer patients.
 Among 92 breast cancer patients premedicated with 3-day corticosteroids, there were no cases of severe skin toxicity reported and no patient discontinued docetaxel due to skin toxicity.
+
+Severe cutaneous adverse reactions (SCARs) such as Stevens-Johnson syndrome (SJS), toxic epidermal necrolysis (TEN), and acute generalized exanthematous pustulosis (AGEP) have been reported in association with docetaxel treatment.
+Patients should be informed about the signs and symptoms of serious skin manifestations and monitored closely.
+Permanent treatment discontinuation should be considered in patients who experience SCARs.
 
 ## 5.9 Neurologic Reactions
 
@@ -123,7 +133,7 @@ Advise male patients with female partners of reproductive potential to use effec
 
 ## 5.13 Alcohol Content
 
-Cases of intoxication have been reported with some formulations of docetaxel injection due to the alcohol content.
+Cases of intoxication have been reported with some formulations of docetaxel due to the alcohol content.
 The alcohol content in a dose of docetaxel injection may affect the central nervous system and should be taken into account for patients in whom alcohol intake should be avoided or minimized.
 Consideration should be given to the alcohol content in docetaxel injection on the ability to drive or use machines immediately after the infusion.
 Each administration of docetaxel injection at 100 mg/m 2 delivers 2.0 g/m 2 of ethanol.
