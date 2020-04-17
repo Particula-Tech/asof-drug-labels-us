@@ -68,7 +68,7 @@ Therefore, it is recommended that glucose tests based on enzymatic glucose oxida
 
 No long-term animal studies have been conducted with this drug.
 
-## Pregnancy Category B
+## Pregnancy
 
 Reproduction studies have been performed in laboratory animals at doses several times the human dose and have revealed no evidence of adverse effects due to ampicillin.
 There are, however, no adequate and well-controlled studies in pregnant women.

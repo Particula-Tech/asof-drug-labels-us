@@ -39,9 +39,9 @@ The doses for other infections may be given by either the intravenous or intramu
 
 Neonates (less than or equal to 28 days of postnatal age) -Dosage should be based on Gestational age and Postnatal age according to Table 3.
 
-TABLE 3 Dosage in Neonates (less than or eqnal to 28 days of postnatal age) for Bacterial Meningitis and Septicemia:
+Table 3 Dosage in Neonates (less than or equal to 28 days of postnatal age) for Bacterial Meningitis and Septicemia:
 
-| Gestational age (weeks) | Postnatal age (davs) | Dosage |
+| Gestational age (weeks) | Postnatal age (days) | Dosage |
 | --- | --- | --- |
 | less than or equal to 34 | less than or equal to 7 | 100 mg/kg/day in equally divided doses every 12 hours |
 | less than or equal to 34 | greater than or equal to 8 and less than 28 | 150 mg/kg/day in equally divided doses every 12 hours |
