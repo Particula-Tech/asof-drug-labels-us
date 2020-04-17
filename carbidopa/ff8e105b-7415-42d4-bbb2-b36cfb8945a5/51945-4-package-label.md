@@ -12,4 +12,4 @@ Each tablet contains 25 mg of carbidopa (anhydrous equivalent).
 
 100 Tablets
 
-Valeant
+VALEANT

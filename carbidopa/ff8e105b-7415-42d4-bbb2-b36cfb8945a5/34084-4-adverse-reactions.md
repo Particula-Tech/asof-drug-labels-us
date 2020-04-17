@@ -24,22 +24,10 @@ Metabolic: edema, weight gain, weight loss.
 
 Musculoskeletal: back pain, leg pain, muscle cramps, shoulder pain.
 
-Nervous System/Psychiatric: Psychotic episodes including delusions, hallucinations and
+Nervous System/Psychiatric: Psychotic episodes including delusions, hallucinations and paranoid ideation, NMS,(see WARNINGS), bradykinetic episodes (“on-off” phenomenon), confusion, agitation, dizziness, somnolence, dream abnormalities including nightmares, insomnia, paresthesia, headache, depression with or without development of suicidal tendencies, dementia, pathological gambling, increased libido including hypersexuality, impulse control symptoms.
+Convulsions also have occurred; however, a causal relationship with LODOSYN and levodopa, has not been established.
 
-paranoid ideation, NMS,(see WARNINGS), bradykinetic
-
-episodes (“on-off” phenomenon), confusion, agitation, dizziness, somnolence, dream
-
-abnormalities including nightmares, insomnia, paresthesia, headache, depression with or without
-
-development of suicidal tendencies, dementia, pathological gambling, increased libido including
-
-hypersexuality, impulse control symptoms.
-Convulsions also have occurred; however, a causal
-
-relationship with LODOSYN and levodopa, has not been established.
-
-Respiratory: upper respiratory infection, dyspnea, pharyngea pain, cough.
+Respiratory: upper respiratory infection, dyspnea, pharyngeal pain, cough.
 
 Skin: flushing, increased sweating, malignant melanoma (see CONTRAINDICATIONS), rash, alopecia, dark sweat.
 

@@ -36,6 +36,4 @@ Supplemental pyridoxine (vitamin B6) can be given to patients when they are rece
 Previous reports in the medical literature cautioned that high doses of vitamin B6 should not be taken by patients on levodopa therapy alone because exogenously administered pyridoxine would enhance the metabolism of levodopa to dopamine.
 The introduction of carbidopa to levodopa therapy, which inhibits the peripheral decarboxylation of levodopa to dopamine, counteracts the metabolic-enhancing effect of pyridoxine.
 
-Carbidopa is combined with levodopa in carbidopa-levodopa and carbidopa-levodopa
-
-extended release tablets.
+Carbidopa is combined with levodopa in carbidopa-levodopa and carbidopa-levodopa extended release tablets.

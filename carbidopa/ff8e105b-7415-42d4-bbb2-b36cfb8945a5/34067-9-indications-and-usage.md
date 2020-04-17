@@ -1,48 +1,20 @@
 # INDICATIONS AND USAGE
 
-LODOSYN is indicated for use with carbidopa-levodopa or with levodopa in the treatment of
+LODOSYN is indicated for use with carbidopa-levodopa or with levodopa in the treatment of the symptoms of idiopathic Parkinson’s disease (paralysis agitans), postencephalitic parkinsonism, and symptomatic parkinsonism, which may follow injury to the nervous system by carbon monoxide intoxication and/or manganese intoxication.
 
-the symptoms of idiopathic Parkinson’s disease (paralysis agitans), postencephalitic parkinsonism, and symptomatic parkinsonism, which may follow injury to the nervous system
+LODOSYN is for use with carbidopa-levodopa in patients for whom the dosage of carbidopa-levodopa provides less than adequate daily dosage (usually 70 mg daily) of carbidopa.
 
-by carbon monoxide intoxication and/or manganese intoxication.
+LODOSYN is for use with levodopa in the occasional patient whose dosage requirement of carbidopa and levodopa necessitates separate titration of each medication.
 
-LODOSYN is for use with carbidopa-levodopa in patients for whom the dosage of
+LODOSYN is used with carbidopa-levodopa or with levodopa to permit the administration of lower doses of levodopa with reduced nausea and vomiting, more rapid dosage titration, and with a somewhat smoother response.
+However, patients with markedly irregular (“on-off”) responses to levodopa have not been shown to benefit from the addition of carbidopa.
 
-carbidopa-levodopa provides less than adequate daily dosage (usually 70 mg daily) of
+Since carbidopa prevents the reversal of levodopa effects caused by pyridoxine, supplemental pyridoxine (vitamin B6), can be given to patients when they are receiving carbidopa and levodopa concomitantly or as carbidopa-levodopa.
 
-carbidopa.
+Although the administration of LODOSYN permits control of parkinsonism and Parkinson’s disease with much lower doses of levodopa, there is no conclusive evidence at present that this is beneficial other than in reducing nausea and vomiting, permitting more rapid titration, and providing a somewhat smoother response to levodopa.
 
-LODOSYN is for use with levodopa in the occasional patient whose dosage requirement of
-
-carbidopa and levodopa necessitates separate titration of each medication.
-
-LODOSYN is used with carbidopa-levodopa or with levodopa to permit the administration
-
-of lower doses of levodopa with reduced nausea and vomiting, more rapid dosage titration,
-
-and with a somewhat smoother response.
-However, patients with markedly irregular (“on-off”)
-
-responses to levodopa have not been shown to benefit from the addition of carbidopa.
-
-Since carbidopa prevents the reversal of levodopa effects caused by pyridoxine, supplemental
-
-pyridoxine (vitamin B6), can be given to patients when they are receiving carbidopa and
-
-levodopa concomitantly or as carbidopa-levodopa.
-
-Although the administration of LODOSYN permits control of parkinsonism and Parkinson’s
-
-disease with much lower doses of levodopa, there is no conclusive evidence at present that this
-
-is beneficial other than in reducing nausea and vomiting, permitting more rapid titration, and providing a somewhat smoother response to levodopa.
-
-Certain patients who responded poorly to levodopa alone have improved when carbidopa and
-
-levodopa were given concurrently.
-This was most likely due to decreased peripheral decarboxylation of levodopa rather than to a primary effect of carbidopa on the peripheral
-
-nervous system.
+Certain patients who responded poorly to levodopa alone have improved when carbidopa and levodopa were given concurrently.
+This was most likely due to decreased peripheral decarboxylation of levodopa rather than to a primary effect of carbidopa on the peripheral nervous system.
 Carbidopa has not been shown to enhance the intrinsic efficacy of levodopa.
 
 In deciding whether to give LODOSYN with carbidopa-levodopa or with levodopa to patients who have nausea and/or vomiting, the physician should be aware that, while many patients may be expected to improve, some may not.

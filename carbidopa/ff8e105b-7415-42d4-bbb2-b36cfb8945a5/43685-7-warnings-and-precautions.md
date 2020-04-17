@@ -1,275 +1,108 @@
 # WARNINGS
 
 LODOSYN (carbidopa) has no antiparkinsonian effect when given alone.
-It is indicated
-
-for use with carbidopa-levodopa or levodopa.
-LODOSYN (carbidopa) does not decrease
-
-adverse reactions due to central effects of levodopa.
+It is indicated for use with carbidopa-levodopa or levodopa.
+LODOSYN (carbidopa) does not decrease adverse reactions due to central effects of levodopa.
 
 When LODOSYN (carbidopa) is to be given to carbidopa-naive patients who are being treated with levodopa alone, the two drugs should be given at the same time.
 At least twelve hours should elapse between the last dose of levodopa and initiation of therapy with LODOSYN (carbidopa) and levodopa in combination.
 Start with no more than one-fifth (20%) to one-fourth (25%) of the previous daily dosage of levodopa when given without LODOSYN (carbidopa).
 See the DOSAGE AND ADMINISTRATION section before initiating therapy.
 
-The addition of LODOSYN with levodopa or carbidopa-levodopa reduces the peripheral
+The addition of LODOSYN with levodopa or carbidopa-levodopa reduces the peripheral effects (nausea, vomiting) due to decarboxylation of levodopa; however, LODOSYN does not decrease the adverse reactions due to the central effects of levodopa.
+Because LODOSYN permits more levodopa to reach the brain and more dopamine to be formed, certain adverse central nervous system (CNS) effects, e.g., dyskinesias (involuntary movements), may occur at lower dosages and sooner with levodopa in combination with LODOSYN than with levodopa alone.
 
-effects (nausea, vomiting) due to decarboxylation of levodopa; however, LODOSYN does
+Falling Asleep During Activities of Daily Living and Somnolence Patients taking carbidopa-levodopa products alone or with other dopaminergic drugs have reported suddenly falling asleep without prior warning of sleepiness while engaged in activities of daily living (includes operation of motor vehicles).
+Some of these episodes resulted in automobile accidents.
+Although many of these patients reported somnolence while on dopaminergic medications, some did perceive that they had no warning signs, such as excessive drowsiness, and believed that they were alert immediately prior to the event.
+Some patients reported these events one year after the initiation of treatment.
 
-not decrease the adverse reactions due to the central effects of levodopa.
-Because LODOSYN permits more levodopa to reach the brain and more dopamine to be formed,
+Falling asleep while engaged in activities of daily living usually occurs in patients experiencing pre-existing somnolence, although some patients may not give such a history.
+For this reason, prescribers should continually reassess patients for drowsiness or sleepiness especially since some of the events occur after the start of treatment.
+Prescribers should be aware that patients may not acknowledge drowsiness or sleepiness until directly questioned about drowsiness or sleepiness during specific activities.
+Patients who have already experienced somnolence or an episode of sudden sleep onset should not participate in these activities during treatment with LODOSYN when taking it with other carbidopa-levodopa products.
 
-certain adverse central nervous system (CNS) effects, e.g., dyskinesias (involuntary
-
-movements), may occur at lower dosages and sooner with levodopa in combination with
-
-LODOSYN than with levodopa alone.
-
-Falling Asleep During Activities of Daily Living and Somnolence
-
-Patients taking carbidopa-levodopa products alone or with other dopaminergic drugs have
-
-reported suddenly falling asleep without prior warning of sleepiness while engaged in activities
-
-of daily living (includes operation of motor vehicles).
-Some of these episodes resulted in
-
-automobile accidents.
-Although many of these patients reported somnolence while on
-
-dopaminergic medications, some did perceive that they had no warning signs, such as excessive
-
-drowsiness, and believed that they were alert immediately prior to the event.
-Some patients
-
-reported these events one year after the initiation of treatment.
-
-Falling asleep while engaged in activities of daily living usually occurs in patients experiencing
-
-pre-existing somnolence, although some patients may not give such a history.
-For this reason,
-
-prescribers should continually reassess patients for drowsiness or sleepiness especially since
-
-some of the events occur after the start of treatment.
-Prescribers should be aware that patients
-
-may not acknowledge drowsiness or sleepiness until directly questioned about drowsiness or
-
-sleepiness during specific activities.
-Patients who have already experienced somnolence or an
-
-episode of sudden sleep onset should not participate in these activities during treatment with
-
-LODOSYN when taking it with other carbidopa-levodopa products.
-
-Before initiating treatment with LODOSYN, advise patients about the potential to develop
-
-drowsiness and ask specifically about factors that may increase the risk for somnolence with
-
-LODOSYN such as the use of concomitant sedating medications and the presence of sleep
-
-disorders.
-Consider discontinuing LODOSYN in patients who report significant daytime
-
-sleepiness or episodes of falling asleep during activities that require active participation (e.g.,
-
-conversations, eating, etc.). If treatment with LODOSYN continues, patients should be advised
-
-not to drive and to avoid other potentially dangerous activities that might result in harm if the
-
-patients become somnolent.
-There is insufficient information to establish that dose reduction
-
-will eliminate episodes of falling asleep while engaged in activities of daily living.
+Before initiating treatment with LODOSYN, advise patients about the potential to develop drowsiness and ask specifically about factors that may increase the risk for somnolence with LODOSYN such as the use of concomitant sedating medications and the presence of sleep disorders.
+Consider discontinuing LODOSYN in patients who report significant daytime sleepiness or episodes of falling asleep during activities that require active participation (e.g., conversations, eating, etc.). If treatment with LODOSYN continues, patients should be advised not to drive and to avoid other potentially dangerous activities that might result in harm if the patients become somnolent.
+There is insufficient information to establish that dose reduction will eliminate episodes of falling asleep while engaged in activities of daily living.
 
 ## Hyperpyrexia and Confusion:
 
-Sporadic cases of a symptom complex resembling neuroleptic malignant syndrome (NMS) have
-
-been reported in association with dose reductions or withdrawal of certain antiparkinsonian
-
-agents such as levodopa, carbidopa-levodopa, or carbidopa-levodopa extended release.
-Therefore, patients should be observed carefully when the dosage of levodopa or carbidopa-levodopa is reduced abruptly or discontinued, especially if the patient is receiving
-
-neuroleptics.
+Sporadic cases of a symptom complex resembling neuroleptic malignant syndrome (NMS) have been reported in association with dose reductions or withdrawal of certain antiparkinsonian agents such as levodopa, carbidopa-levodopa, or carbidopa-levodopa extended release.
+Therefore, patients should be observed carefully when the dosage of levodopa or carbidopa-levodopa is reduced abruptly or discontinued, especially if the patient is receiving neuroleptics.
 
 NMS is an uncommon but life-threatening syndrome characterized by fever or hyperthermia.
+Neurological findings, including muscle rigidity, involuntary movements, altered consciousness, mental status changes; other disturbances, such as autonomic dysfunction, tachycardia, tachypnea, sweating, hyper- or hypotension; laboratory findings, such as creatine phosphokinase elevation, leukocytosis, myoglobinuria, and increased serum myoglobin, have been reported.
 
-Neurological findings, including muscle rigidity, involuntary movements, altered
+The early diagnosis of this condition is important for the appropriate management of these patients.
+Considering NMS as a possible diagnosis and ruling out other acute illnesses (e.g., pneumonia, systemic infection, etc.) is essential.
+This may be especially complex if the clinical presentation includes both serious medical illness and untreated or inadequately treated extrapyramidal signs and symptoms (EPS).
+Other important considerations in the differential diagnosis include central anticholinergic toxicity, heat stroke, drug fever, and primary central nervous system (CNS) pathology.
 
-consciousness, mental status changes; other disturbances, such as autonomic dysfunction,
-
-tachycardia, tachypnea, sweating, hyper- or hypotension; laboratory findings, such as creatine phosphokinase elevation, leukocytosis, myoglobinuria, and increased serum myoglobin, have been reported.
-
-The early diagnosis of this condition is important for the appropriate management of these
-
-patients.
-Considering NMS as a possible diagnosis and ruling out other acute illnesses
-
-(e.g., pneumonia, systemic infection, etc.) is essential.
-This may be especially complex if the
-
-clinical presentation includes both serious medical illness and untreated or inadequately treated
-
-extrapyramidal signs and symptoms (EPS).
-Other important considerations in the differential diagnosis include central anticholinergic toxicity, heat stroke, drug fever, and primary central
-
-nervous system (CNS) pathology.
-
-The management of NMS should include: 1) intensive symptomatic treatment and medical
-
-monitoring and 2) treatment of any concomitant serious medical problems for which specific
-
-treatments are available.
-Dopamine agonists, such as bromocriptine, and muscle relaxants,
-
-such as dantrolene, are often used in the treatment of NMS; however, their effectiveness has
-
-not been demonstrated in controlled studies.
+The management of NMS should include: 1) intensive symptomatic treatment and medical monitoring and 2) treatment of any concomitant serious medical problems for which specific treatments are available.
+Dopamine agonists, such as bromocriptine, and muscle relaxants, such as dantrolene, are often used in the treatment of NMS; however, their effectiveness has not been demonstrated in controlled studies.
 
 # PRECAUTIONS
 
 ## General
 
-As with levodopa alone, periodic evaluations of hepatic, hematopoietic, cardiovascular, and
-
-renal function are recommended during extended concomitant therapy with LODOSYN and
-
-levodopa, or with LODOSYN and carbidopa-levodopa, or any combination of these drugs.
+As with levodopa alone, periodic evaluations of hepatic, hematopoietic, cardiovascular, and renal function are recommended during extended concomitant therapy with LODOSYN and levodopa, or with LODOSYN and carbidopa-levodopa, or any combination of these drugs.
 
 ### Impulse Control/Compulsive Behaviors
 
-Postmarketing reports suggest that patients treated with anti-Parkinson medications can
-
-experience intense urges to gamble, increased sexual urges, intense urges to spend money
-
-uncontrollably, binge eating, and other intense urges.
-Patients may be unable to control these
-
-urges while taking one or more of the medications that are used for the treatment of Parkinson’s
-
-disease and that increase central dopaminergic tone, including LODOSYN taken with levodopa and
-
-carbidopa.
-In some cases, although not all, these urges were reported to have stopped when the
-
-dose of anti-Parkinson medications was reduced or discontinued.
-Because patients may not
-
-recognize these behaviors as abnormal it is important for prescribers to specifically ask patients
-
-or their caregivers about the development of new or increased gambling urges, sexual urges,
-
-uncontrolled spending or other urges while being treated with LODOSYN.
-Physicians should
-
-consider dose reduction or stopping LODOSYN or levodopa if a patient develops such urges while
-
-taking LODOSYN with carbidopa/levodopa.
+Postmarketing reports suggest that patients treated with anti-Parkinson medications can experience intense urges to gamble, increased sexual urges, intense urges to spend money uncontrollably, binge eating, and other intense urges.
+Patients may be unable to control these urges while taking one or more of the medications that are used for the treatment of Parkinson’s disease and that increase central dopaminergic tone, including LODOSYN taken with levodopa and carbidopa.
+In some cases, although not all, these urges were reported to have stopped when the dose of anti-Parkinson medications was reduced or discontinued.
+Because patients may not recognize these behaviors as abnormal it is important for prescribers to specifically ask patients or their caregivers about the development of new or increased gambling urges, sexual urges, uncontrolled spending or other urges while being treated with LODOSYN.
+Physicians should consider dose reduction or stopping LODOSYN or levodopa if a patient develops such urges while taking LODOSYN with carbidopa/levodopa.
 
 ### Hallucinations/Psychotic-Like Behavior
 
 Hallucinations and psychotic-like behavior have been reported with dopaminergic medications.
+In general, hallucinations present shortly after the initiation of therapy and may be responsive to dose reduction in levodopa.
+Hallucinations may be accompanied by confusion and to a lesser extent sleep disorder (insomnia) and excessive dreaming.
+LODOSYN when taken with carbidopa-levodopa may have similar effects on thinking and behavior.
+This abnormal thinking and behavior may present with one or more symptoms, including paranoid ideation, delusions, hallucinations, confusion, psychotic-like behavior, disorientation, aggressive behavior, agitation, and delirium.
 
-In general, hallucinations present shortly after the initiation of therapy and may be responsive to
-
-dose reduction in levodopa.
-Hallucinations may be accompanied by confusion and to a lesser
-
-extent sleep disorder (insomnia) and excessive dreaming.
-LODOSYN when taken with
-
-carbidopa-levodopa may have similar effects on thinking and behavior.
-This abnormal thinking
-
-and behavior may present with one or more symptoms, including paranoid ideation, delusions,
-
-hallucinations, confusion, psychotic-like behavior, disorientation, aggressive behavior,
-
-agitation, and delirium.
-
-Ordinarily, patients with a major psychotic disorder should not be treated with LODOSYN and
-
-carbidopa-levodopa, because of the risk of exacerbating psychosis.
-In addition, certain medications used to treat psychosis may exacerbate the symptoms of Parkinson’s disease and
-
-may decrease the effectiveness of LODOSYN.
+Ordinarily, patients with a major psychotic disorder should not be treated with LODOSYN and carbidopa-levodopa, because of the risk of exacerbating psychosis.
+In addition, certain medications used to treat psychosis may exacerbate the symptoms of Parkinson’s disease and may decrease the effectiveness of LODOSYN.
 
 ### Dyskinesia
 
-LODOSYN (carbidopa) may potentiate the dopaminergic side effects of levodopa and may
-
-cause or exacerbate preexisting dyskinesia.
+LODOSYN (carbidopa) may potentiate the dopaminergic side effects of levodopa and may cause or exacerbate preexisting dyskinesia.
 
 ### Depression
 
-Patients treated with LODOSYN and carbidopa-levodopa should be observed carefully for the
-
-development of depression with concomitant suicidal tendencies.
+Patients treated with LODOSYN and carbidopa-levodopa should be observed carefully for the development of depression with concomitant suicidal tendencies.
 
 ### Melanoma
 
-Epidemiological studies have shown that patients with Parkinson’s disease have a higher risk
-
-(2- to approximately 6-fold higher) of developing melanoma than the general population.
-
+Epidemiological studies have shown that patients with Parkinson’s disease have a higher risk (2- to approximately 6-fold higher) of developing melanoma than the general population.
 Whether the observed increased risk was due to Parkinson’s disease or other factors, such as drugs used to treat Parkinson’s disease, is unclear.
 
-For the reasons stated above, patients and providers are advised to monitor for melanomas
-
-frequently and on a regular basis when using LODOSYN tablets for Parkinson’s disease.
-
-Ideally, periodic skin examinations should be performed by appropriately qualified individuals
-
-(e.g., dermatologists).
+For the reasons stated above, patients and providers are advised to monitor for melanomas frequently and on a regular basis when using LODOSYN tablets for Parkinson’s disease.
+Ideally, periodic skin examinations should be performed by appropriately qualified individuals (e.g., dermatologists).
 
 ### Information for Patients
 
-It is important that LODOSYN with levodopa be taken at regular intervals according to the
+It is important that LODOSYN with levodopa be taken at regular intervals according to the schedule outlined by the health care provider.
+Caution patients not to change the prescribed dosage regimen and not to add any additional antiparkinson medications, including other carbidopa-levodopa preparations without first consulting a physician.
 
-schedule outlined by the health care provider.
-Caution patients not to change the prescribed
-
-dosage regimen and not to add any additional antiparkinson medications, including other
-
-carbidopa-levodopa preparations without first consulting a physician.
-
-Advise patients that sometimes a “wearing-off” effect may occur at the end of the dosing
-
-interval.
+Advise patients that sometimes a “wearing-off” effect may occur at the end of the dosing interval.
 Tell patients to notify the prescriber if such response poses a problem to lifestyle.
+Patients should be advised that occasionally dark color (red, brown, or black) may appear in saliva, urine, or sweat after ingestion of LODOSYN and levodopa.
+Although the color appears to be clinically insignificant, garments may become discolored.
 
-Patients should be advised that occasionally dark color (red, brown, or black) may appear in
-
-saliva, urine, or sweat after ingestion of LODOSYN and levodopa.
-Although the color appears
-
-to be clinically insignificant, garments may become discolored.
-
-The patient should be advised that a change in diet to foods that are high in protein may delay
-
-the absorption of levodopa and may reduce the amount taken up in the circulation.
+The patient should be advised that a change in diet to foods that are high in protein may delay the absorption of levodopa and may reduce the amount taken up in the circulation.
 Excessive acidity also delays stomach emptying thus delaying the absorption of levodopa.
 Iron salts (such as in multivitamin tablets) may also reduce the amount of levodopa available in the body.
 The above factors may reduce the clinical effectiveness of the LODOSYN and levodopa therapy.
 
-Alert patients to the possibility of sudden onset of sleep during daily activities, in some cases
+Alert patients to the possibility of sudden onset of sleep during daily activities, in some cases without awareness or warning signs, when they are taking dopaminergic agents, including levodopa.
+Advise patients to exercise caution while driving or operating machinery and that if they have experience somnolence and/or sudden sleep onset, they must refrain from these activities.
+(See WARNINGS, Falling Asleep During Activities of Daily Living and Somnolence.)
 
-without awareness or warning signs, when they are taking dopaminergic agents, including
-
-levodopa.
-Advise patients to exercise caution while driving or operating machinery and that if
-
-they have experience somnolence and/or sudden sleep onset, they must refrain from these
-
-activities.
-(See WARNINGS, Falling Asleep During Activities of Daily Living and Somnolence).
-
-There have been reports of patients experiencing intense urges to gamble, increased sexual
-
-urges, and other intense urges, and the inability to control these urges while taking one or more of the medications that increase central dopaminergic tone and that are generally used for the treatment of Parkinson’s disease, including LODOSYN and levodopa.
+There have been reports of patients experiencing intense urges to gamble, increased sexual urges, and other intense urges, and the inability to control these urges while taking one or more of the medications that increase central dopaminergic tone and that are generally used for the treatment of Parkinson’s disease, including LODOSYN and levodopa.
 Although it is not proven that the medications caused these events, these urges were reported to have stopped in some cases when the dose was reduced or the medication was stopped.
 Prescribers should ask patients about the development of new or increased gambling urges, sexual urges, or other intense urges while taking LODOSYN and levodopa.
 Physicians should consider dose reduction or stopping LODOSYN if a patient develops such urges while taking LODOSYN with carbidopa/levodopa (See PRECAUTIONS, Impulse Control/Compulsive Behaviors).
@@ -280,26 +113,16 @@ Abnormalities in laboratory tests may include elevations of liver function tests
 Abnormalities in blood urea nitrogen and positive Coombs test have also been reported.
 Commonly, levels of blood urea nitrogen, creatinine, and uric acid are lower during concomitant administration of carbidopa and levodopa than with levodopa alone.
 
-Levodopa and carbidopa-levodopa combination products may cause a false-positive reaction for
-
-urinary ketone bodies when a test tape is used for determination of ketonuria.
-This reaction will
-
-not be altered by boiling the urine specimen.
-False-negative tests may result with the use of
-
-glucose-oxidase methods of testing for glucosuria.
+Levodopa and carbidopa-levodopa combination products may cause a false-positive reaction for urinary ketone bodies when a test tape is used for determination of ketonuria.
+This reaction will not be altered by boiling the urine specimen.
+False-negative tests may result with the use of glucose-oxidase methods of testing for glucosuria.
 
 ## Drug Interactions
 
 Caution should be exercised when the following drugs are administered concomitantly with LODOSYN (carbidopa) given with levodopa or carbidopa-levodopa fixed dose combination products.
 
-Symptomatic postural hypotension has occurred when LODOSYN, given with levodopa or
-
-carbidopa-levodopa combination products, was added to the treatment of a patient receiving antihypertensive drugs.
-Therefore, when therapy with LODOSYN, given with or without levodopa or carbidopa-levodopa combination products, is started, dosage adjustment of
-
-the antihypertensive drug may be required.
+Symptomatic postural hypotension has occurred when LODOSYN, given with levodopa or carbidopa-levodopa combination products, was added to the treatment of a patient receiving antihypertensive drugs.
+Therefore, when therapy with LODOSYN, given with or without levodopa or carbidopa-levodopa combination products, is started, dosage adjustment of the antihypertensive drug may be required.
 
 For patients receiving monoamine oxidase inhibitors (Type A or B), (see CONTRAINDICATIONS).
 Concomitant therapy with selegiline or rasigiline and LODOSYN and carbidopa-levodopa may be associated with severe orthostatic hypotension not attributable to carbidopa-levodopa alone (see CONTRAINDICATIONS).
@@ -310,12 +133,8 @@ Dopamine D2 receptor antagonists (e.g., phenothiazines, butyrophenones, risperid
 In addition, the beneficial effects of levodopa in Parkinson's disease have been reported to be reversed by phenytoin and papaverine.
 Patients taking these drugs with LODOSYN and levodopa or carbidopa-levodopa combination products should be carefully observed for loss of therapeutic response.
 
-LODOSYN and iron salts or multivitamins containing iron salts should be coadministered
-
-with caution.
-Iron salts can form chelates with levodopa and carbidopa and
-
-consequently reduce the bioavailability of carbidopa and levodopa.
+LODOSYN and iron salts or multivitamins containing iron salts should be coadministered with caution.
+Iron salts can form chelates with levodopa and carbidopa and consequently reduce the bioavailability of carbidopa and levodopa.
 
 Although metoclopramide may increase the bioavailability of levodopa by increasing gastric emptying, metoclopramide may also adversely affect disease control by its dopamine receptor antagonistic properties.
 
@@ -323,17 +142,9 @@ Although metoclopramide may increase the bioavailability of levodopa by increasi
 
 ### Carcinogenesis
 
-There were no significant differences between treated and control rats with respect to
-
-mortality or neoplasia in a 96-week study of carbidopa at oral doses of 25, 45, or 135
-
-mg/kg/day.
-Combinations of carbidopa and levodopa (10-20, 10-50, 10-100 mg/kg/day) were
-
-given orally to rats for 106 weeks.
-No effect on mortality or incidence and type of neoplasia
-
-was seen when compared to concurrent controls.
+There were no significant differences between treated and control rats with respect to mortality or neoplasia in a 96-week study of carbidopa at oral doses of 25, 45, or 135 mg/kg/day.
+Combinations of carbidopa and levodopa (10-20, 10-50, 10-100 mg/kg/day) were given orally to rats for 106 weeks.
+No effect on mortality or incidence and type of neoplasia was seen when compared to concurrent controls.
 
 ### Mutagenesis
 
@@ -368,8 +179,6 @@ Safety and effectiveness in pediatric patients have not been established, and us
 
 ## Geriatric Use
 
-Clinical studies of LODOSYN did not include sufficient numbers of subjects aged 65 and over
-
-to determine whether they respond differently from younger subjects.
+Clinical studies of LODOSYN did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
 Other clinical experience has not identified differences in responses between the elderly and younger patients.
 In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and concomitant disease and other drug therapy.
