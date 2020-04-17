@@ -1,6 +1,6 @@
 # Patient Package Insert
 
-TEAR HERE (Patient Information)
+TEAR HERE (Patient Inforamtion)
 
 PATIENT INFORMATION DUOBRII® (DEW-oh-bree) (halobetasol propionate and tazarotene) lotion, for topical use
 
@@ -10,14 +10,7 @@ Do not apply DUOBRII in your mouth, eyes, or vagina.
 What is the most important information I should know about DUOBRII?
 
 DUOBRII may cause birth defects if used during pregnancy.
-
-- Females must not be pregnant when they start using DUOBRII or become pregnant during treatment with DUOBRII.
-  - oYour healthcare provider will order a pregnancy test for you within 2 weeks before you begin treatment with DUOBRII to be sure that you are not pregnant.
-    Your healthcare provider will decide when to do the test.
-  - oBegin treatment with DUOBRII during a normal menstrual period.
-  - oUse an effective form of birth control during treatment with DUOBRII.
-    Talk with your healthcare provider about birth control options that may be used to prevent pregnancy during treatment with DUOBRII.
-  - oStop using DUOBRII and tell your healthcare provider right away if you become pregnant during treatment with DUOBRII.
+Females must not be pregnant when they start using DUOBRII or become pregnant during treatment with DUOBRII.
 
 - •For females who are able to get pregnant:
   - oYour healthcare provider will order a pregnancy test for you within 2 weeks before you begin treatment with DUOBRII to be sure that you are not pregnant.
@@ -30,7 +23,6 @@ DUOBRII may cause birth defects if used during pregnancy.
 What is DUOBRII?
 
 DUOBRII is a prescription medicine used on the skin (topical) to treat adults with plaque psoriasis.
-
 It is not known if DUOBRII is safe and effective in children under 18 years of age.
 
 Do not use DUOBRII if you:
