@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA210821"
+  ],
+  "inn": "tetracaine",
+  "labeler": "Bausch Health US LLC",
+  "package_ndcs": [
+    "0187-0920-05"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION/ DROPS",
+      "generic": "tetracaine hydrochloride",
+      "name": "Tetracaine Hydrochloride"
+    }
+  ],
+  "setid": "78404c9e-9c31-4b0a-90f4-04182e82e183",
+  "source": "dailymed"
+}
