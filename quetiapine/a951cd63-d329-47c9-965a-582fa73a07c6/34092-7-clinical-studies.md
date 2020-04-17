@@ -13,7 +13,7 @@ A second traditional assessment, the Clinical Global Impression (CGI), reflects 
 
 The results of the trials follow:
 
-1. In a 6-week, placebo-controlled trial (n=361) (study 1) involving 5 fixed doses of quetiapine (75 mg/day, 150 mg/day, 300 mg/day, 600 mg/day and 750 mg/day given in divided doses three times per day), the 4 highest doses of quetiapine were generally superior to placebo on the BPRS total score, the BPRS psychosis cluster and the CGI severity score, with the maximal effect seen at 300 mg/day, and the effects of doses of 150 mg/day to 750 mg/day were generally indistinguishable.
+1. In a 6-week, placebo-controlled trial (n=361) (study 1) involving 5 fixed doses of quetiapine (75 mg/day, 150 mg/day, 300 mg/day, 600 mg/day, and 750 mg/day given in divided doses three times per day), the 4 highest doses of quetiapine were generally superior to placebo on the BPRS total score, the BPRS psychosis cluster and the CGI severity score, with the maximal effect seen at 300 mg/day, and the effects of doses of 150 mg/day to 750 mg/day were generally indistinguishable.
 2. In a 6-week, placebo-controlled trial (n=286) (study 2) involving titration of quetiapine in high (up to 750 mg/day given in divided doses three times per day) and low (up to 250 mg/day given in divided doses three times per day) doses, only the high dose quetiapine group (mean dose, 500 mg/day) was superior to placebo on the BPRS total score, the BPRS psychosis cluster, and the CGI severity score.
 3. In a 6-week dose and dose regimen comparison trial (n=618) (study 3) involving two fixed doses of quetiapine (450 mg/day given in divided doses both twice daily and three times daily and 50 mg/day given in divided doses twice daily), only the 450 mg/day (225 mg given twice daily) dose group was superior to the 50 mg/day (25 mg given twice daily) quetiapine dose group on the BPRS total score, the BPRS psychosis cluster, and the CGI severity score.
 
@@ -157,9 +157,8 @@ In the open-label phase, patients were required to be stable on quetiapine plus 
 On average, patients were stabilized for 15 weeks.
 In the randomization phase, patients continued treatment with lithium or divalproex and were randomized to receive either quetiapine (administered twice daily totaling 400 mg/day to 800 mg/day) or placebo.
 Approximately 50% of the patients had discontinued from the quetiapine group by day 280 and 50% of the placebo group had discontinued by day 117 of double-blind treatment.
-The primary endpoint in these studies was time to recurrence of a mood event (manic, mixed or depressed episode).
-A mood event was defined as medication initiation or hospitalization for a mood episode; YMRS score ≥20 or MADRS score ≥20 at 2 consecutive assessments; or study discontinuation due to a mood event.
-(Figure 1 and Figure 2)
+The primary endpoint in these studies was time to recurrence of a mood event (manic, mixed, or depressed episode).
+A mood event was defined as medication initiation or hospitalization for a mood episode; YMRS score ≥20 or MADRS score ≥20 at 2 consecutive assessments; or study discontinuation due to a mood event (Figure 1 and Figure 2).
 
 In both studies, quetiapine was superior to placebo in increasing the time to recurrence of any mood event.
 The treatment effect was present for increasing time to recurrence of both manic and depressed episodes.

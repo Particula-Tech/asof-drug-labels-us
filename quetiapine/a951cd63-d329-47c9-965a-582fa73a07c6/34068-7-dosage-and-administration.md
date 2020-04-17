@@ -50,7 +50,7 @@ When the CYP3A4 inducer is discontinued, the dose of quetiapine should be reduce
 
 ## 2.7 Re-initiation of Treatment in Patients Previously Discontinued
 
-Although there are no data to specifically address re-initiation of treatment, it is recommended that when restarting therapy of patients who have been off quetiapine for more than one week, the initial dosing schedule should be followed.
+Although there are no data to specifically address re-initiation of treatment, it is recommended that when restarting therapy of patients who have been off quetiapine for more than one-week, the initial dosing schedule should be followed.
 When restarting patients who have been off quetiapine for less than one week, gradual dose escalation may not be required and the maintenance dose may be re-initiated.
 
 ## 2.8 Switching from Antipsychotics

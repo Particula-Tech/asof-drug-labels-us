@@ -46,7 +46,7 @@ Pigment deposition was shown to be irreversible in rats.
 The identity of the pigment could not be determined, but was found to be co-localized with quetiapine in thyroid gland follicular epithelial cells.
 The functional effects and the relevance of this finding to human risk are unknown.
 
-In dogs receiving quetiapine for 6 or 12 months, but not for 1 month, focal triangular cataracts occurred at the junction of posterior sutures in the outer cortex of the lens at a dose of 100 mg/kg, or 4 times the MRHD of 800 mg/day based on mg/m2 body surface area.
+In dogs receiving quetiapine for 6 or 12 months, but not for 1-month, focal triangular cataracts occurred at the junction of posterior sutures in the outer cortex of the lens at a dose of 100 mg/kg, or 4 times the MRHD of 800 mg/day based on mg/m2 body surface area.
 This finding may be due to inhibition of cholesterol biosynthesis by quetiapine.
 Quetiapine caused a dose-related reduction in plasma cholesterol levels in repeat-dose dog and monkey studies; however, there was no correlation between plasma cholesterol and the presence of cataracts in individual dogs.
 The appearance of delta-8-cholestanol in plasma is consistent with inhibition of a late stage in cholesterol biosynthesis in these species.

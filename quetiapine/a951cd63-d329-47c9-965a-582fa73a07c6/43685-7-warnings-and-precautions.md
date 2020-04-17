@@ -44,12 +44,12 @@ However, there is substantial evidence from placebo-controlled maintenance trial
 
 All patients being treated with antidepressants for any indication should be monitored appropriately and observed closely for clinical worsening, suicidality, and unusual changes in behavior, especially during the initial few months of a course of drug therapy, or at times of dose changes, either increases or decreases.
 
-The following symptoms, anxiety, agitation, panic attacks, insomnia, irritability, hostility, aggressiveness, impulsivity, akathisia (psychomotor restlessness), hypomania, and mania, have been reported in adult and pediatric patients being treated with antidepressants for major depressive disorder as well as for other indications, both psychiatric and nonpsychiatric.
+The following symptoms, anxiety, agitation, panic attacks, insomnia, irritability, hostility, aggressiveness, impulsivity, akathisia (psychomotor restlessness), hypomania, and mania, have been reported in adult and pediatric patients being treated with antidepressants for major depressive disorder as well as for other indications, both psychiatric and non-psychiatric.
 Although a causal link between the emergence of such symptoms and either the worsening of depression and/or the emergence of suicidal impulses has not been established, there is concern that such symptoms may represent precursors to emerging suicidality.
 
 Consideration should be given to changing the therapeutic regimen, including possibly discontinuing the medication, in patients whose depression is persistently worse, or who are experiencing emergent suicidality or symptoms that might be precursors to worsening depression or suicidality, especially if these symptoms are severe, abrupt in onset, or were not part of the patient's presenting symptoms.
 
-Families and caregivers of patients being treated with antidepressants for major depressive disorder or other indications, both psychiatric and nonpsychiatric, should be alerted about the need to monitor patients for the emergence of agitation, irritability, unusual changes in behavior, and the other symptoms described above, as well as the emergence of suicidality, and to report such symptoms immediately to healthcare providers.
+Families and caregivers of patients being treated with antidepressants for major depressive disorder or other indications, both psychiatric and non-psychiatric, should be alerted about the need to monitor patients for the emergence of agitation, irritability, unusual changes in behavior, and the other symptoms described above, as well as the emergence of suicidality, and to report such symptoms immediately to healthcare providers.
 Such monitoring should include daily observation by families and caregivers.
 Prescriptions for quetiapine tablets should be written for the smallest quantity of tablets consistent with good patient management, in order to reduce the risk of overdose.
 
@@ -135,9 +135,9 @@ Dyslipidemia
 
 Adults:
 
-Table 4 shows the percentage of adult patients with changes in total cholesterol, triglycerides, LDL-cholesterol and HDL-cholesterol from baseline by indication in clinical trials with quetiapine.
+Table 4 shows the percentage of adult patients with changes in total cholesterol, triglycerides, LDL-cholesterol, and HDL-cholesterol from baseline by indication in clinical trials with quetiapine.
 
-Table 4: Percentage of Adult Patients with Shifts in Total Cholesterol, Triglycerides, LDL-Cholesterol and HDL-Cholesterol from Baseline to Clinically Significant Levels by Indication
+Table 4: Percentage of Adult Patients with Shifts in Total Cholesterol, Triglycerides, LDL-Cholesterol, and HDL-Cholesterol from Baseline to Clinically Significant Levels by Indication
 
 | Laboratory Analyte | Indication | Treatment Arm | N | Patients n (%) |
 | --- | --- | --- | --- | --- |
@@ -160,15 +160,15 @@ Table 4: Percentage of Adult Patients with Shifts in Total Cholesterol, Triglyce
 
 Children and Adolescents:
 
-Table 5 shows the percentage of children and adolescents with changes in total cholesterol, triglycerides, LDL-cholesterol and HDL-cholesterol from baseline in clinical trials with quetiapine.
+Table 5 shows the percentage of children and adolescents with changes in total cholesterol, triglycerides, LDL-cholesterol, and HDL-cholesterol from baseline in clinical trials with quetiapine.
 
-Table 5: Percentage of Children and Adolescents with Shifts in Total Cholesterol, Triglycerides, LDL-Cholesterol and HDL-Cholesterol from Baseline to Clinically Significant Levels
+Table5:PercentageofChildrenandAdolescentswithShiftsinTotalCholesterol, Triglycerides, LDL-Cholesterol,andHDL-CholesterolfromBaselinetoClinicallySignificantLevels $NoTableFooter
 
 | Laboratory Analyte | Indication | Treatment Arm | N | Patients n (%) |
 | --- | --- | --- | --- | --- |
-|  | Schizophrenia13 to 17 years, 6 weeks duration | Quetiapine | 107 | 13 (12%) |
+|  | Schizophrenia 13 to 17 years, 6 weeks duration | Quetiapine | 107 | 13 (12%) |
 |  |  | Placebo | 56 | 1 (2%) |
-| Total Cholesterol ≥200 mg/dL | Bipolar Mania10 to 17 years, 3 weeks duration | Quetiapine | 159 | 16 (10%) |
+| Total Cholesterol ≥200 mg/dL | Bipolar Mania 10 to 17 years, 3 weeks duration | Quetiapine | 159 | 16 (10%) |
 |  |  | Placebo | 66 | 2 (3%) |
 |  | Schizophrenia | Quetiapine | 103 | 17 (17%) |
 |  |  | Placebo | 51 | 4 (8%) |
@@ -183,7 +183,7 @@ Table 5: Percentage of Children and Adolescents with Shifts in Total Cholesterol
 | HDL-Cholesterol ≤40 mg/dL | Bipolar Mania | Quetiapine | 154 | 16 (10%) |
 |  |  | Placebo | 61 | 4 (7%) |
 
-In a placebo-controlled quetiapine extended-release monotherapy study (8 weeks duration) of children and adolescent patients (10 to 17 years of age) with bipolar depression, in which efficacy was not established, the percentage of children and adolescents with shifts in total cholesterol (≥200 mg/dL), triglycerides (≥150 mg/dL), LDL-cholesterol (≥130 mg/dL) and HDL-cholesterol (≤40 mg/dL) from baseline to clinically significant levels were: total cholesterol 8% (7/83) for quetiapine extended-release vs. 6% (5/84) for placebo; triglycerides 28% (22/80) for quetiapine extended-release vs. 9% (7/82) for placebo; LDL-cholesterol 2% (2/86) for quetiapine extended-release vs. 4% (3/85) for placebo and HDL-cholesterol 20% (13/65) for quetiapine extended-release vs. 15% (11/74) for placebo.
+In a placebo-controlled quetiapine extended-release monotherapy study (8 weeks duration) of children and adolescent patients (10 to 17 years of age) with bipolar depression, in which efficacy was not established, the percentage of children and adolescents with shifts in total cholesterol (≥200 mg/dL), triglycerides (≥150 mg/dL), LDL-cholesterol (≥130 mg/dL), and HDL-cholesterol (≤40 mg/dL) from baseline to clinically significant levels were: total cholesterol 8% (7/83) for quetiapine extended-release vs. 6% (5/84) for placebo; triglycerides 28% (22/80) for quetiapine extended-release vs. 9% (7/82) for placebo; LDL-cholesterol 2% (2/86) for quetiapine extended-release vs. 4% (3/85) for placebo and HDL-cholesterol 20% (13/65) for quetiapine extended-release vs. 15% (11/74) for placebo.
 
 Weight Gain
 
@@ -259,13 +259,13 @@ Quetiapine may induce orthostatic hypotension associated with dizziness, tachyca
 Syncope was reported in 1% (28/3265) of the patients treated with quetiapine, compared with 0.2% (2/954) on placebo and about 0.4% (2/527) on active control drugs.
 Orthostatic hypotension, dizziness, and syncope may lead to falls.
 
-Quetiapine should be used with particular caution in patients with known cardiovascular disease (history of myocardial infarction or ischemic heart disease, heart failure or conduction abnormalities), cerebrovascular disease or conditions which would predispose patients to hypotension (dehydration, hypovolemia and treatment with antihypertensive medications).
+Quetiapine should be used with particular caution in patients with known cardiovascular disease (history of myocardial infarction or ischemic heart disease, heart failure, or conduction abnormalities), cerebrovascular disease or conditions which would predispose patients to hypotension (dehydration, hypovolemia, and treatment with antihypertensive medications).
 The risk of orthostatic hypotension and syncope may be minimized by limiting the initial dose to 25 mg twice daily [see DOSAGE AND ADMINISTRATION (2.2)].
 If hypotension occurs during titration to the target dose, a return to the previous dose in the titration schedule is appropriate.
 
 ## 5.8 Falls
 
-Atypical antipsychotic drugs, including quetiapine, may cause somnolence, postural hypotension, motor and sensory instability, which may lead to falls and, consequently, fractures or other injuries.
+Atypical antipsychotic drugs, including quetiapine, may cause somnolence, postural hypotension, motor, and sensory instability, which may lead to falls and, consequently, fractures or other injuries.
 For patients with diseases, conditions, or medications that could exacerbate these effects, complete fall risk assessments when initiating antipsychotic treatment and recurrently for patients on long-term antipsychotic therapy.
 
 ## 5.9 Increases in Blood Pressure (Children and Adolescents)
@@ -276,7 +276,7 @@ Blood pressure in children and adolescents should be measured at the beginning o
 
 In a placebo-controlled quetiapine extended-release clinical trial (8 weeks duration) in children and adolescents (10 to 17 years of age) with bipolar depression, in which efficacy was not established, the incidence of increases at any time in systolic blood pressure (≥20 mmHg) was 6.5% (6/92) for quetiapine extended-release and 6.0% (6/100) for placebo; the incidence of increases at any time in diastolic blood pressure (≥10 mmHg) was 46.7% (43/92) for quetiapine extended-release and 36.0% (36/100) for placebo.
 
-## 5.10 Leukopenia, Neutropenia and Agranulocytosis
+## 5.10 Leukopenia, Neutropenia, and Agranulocytosis
 
 In clinical trial and postmarketing experience, events of leukopenia/neutropenia have been reported temporally related to atypical antipsychotic agents, including quetiapine.
 Agranulocytosis has been reported.
@@ -353,7 +353,7 @@ In short-term placebo-controlled monotherapy trials, the incidence of reciprocal
 
 Children and Adolescents
 
-In acute placebo-controlled trials in children and adolescent patients with schizophrenia (6-week duration) or bipolar mania (3-week duration), the incidence of shifts for thyroid function values at any time for quetiapine treated patients and placebo-treated patients for elevated TSH was 2.9% (8/280) vs. 0.7% (1/138), respectively and for decreased total thyroxine was 2.8% (8/289) vs. 0% (0/145, respectively).
+In acute placebo-controlled trials in children and adolescent patients with schizophrenia (6-week duration) or bipolar mania (3-week duration), the incidence of shifts for thyroid function values at any time for quetiapine treated patients and placebo-treated patients for elevated TSH was 2.9% (8/280) vs. 0.7% (1/138), respectively, and for decreased total thyroxine was 2.8% (8/289) vs. 0% (0/145, respectively).
 Of the quetiapine treated patients with elevated TSH levels, 1 had simultaneous low free T4 level at end of treatment.
 
 ## 5.15 Hyperprolactinemia
@@ -373,7 +373,7 @@ Galactorrhea, amenorrhea, gynecomastia, and impotence have been reported in pati
 Long-standing hyperprolactinemia when associated with hypogonadism may lead to decreased bone density in both female and male subjects.
 
 Tissue culture experiments indicate that approximately one-third of human breast cancers are prolactin dependent in vitro, a factor of potential importance if the prescription of these drugs is considered in a patient with previously detected breast cancer.
-As is common with compounds which increase prolactin release, mammary gland, and pancreatic islet cell neoplasia (mammary adenocarcinomas, pituitary and pancreatic adenomas) was observed in carcinogenicity studies conducted in mice and rats.
+As is common with compounds which increase prolactin release, mammary gland, and pancreatic islet cell neoplasia (mammary adenocarcinomas, pituitary, and pancreatic adenomas) was observed in carcinogenicity studies conducted in mice and rats.
 Neither clinical studies nor epidemiologic studies conducted to date have shown an association between chronic administration of this class of drugs and tumorigenesis in humans, but the available evidence is too limited to be conclusive [see NONCLINICAL TOXICOLOGY (13.1)].
 
 ## 5.16 Potential for Cognitive and Motor Impairment
@@ -401,7 +401,7 @@ Quetiapine and other antipsychotic drugs should be used cautiously in patients a
 
 Acute withdrawal symptoms, such as insomnia, nausea, and vomiting have been described after abrupt cessation of atypical antipsychotic drugs, including quetiapine.
 In short-term placebo-controlled, monotherapy clinical trials with quetiapine extended-release that included a discontinuation phase which evaluated discontinuation symptoms, the aggregated incidence of patients experiencing one or more discontinuation symptoms after abrupt cessation was 12.1% (241/1993) for quetiapine extended-release and 6.7% (71/1065) for placebo.
-The incidence of the individual adverse events (i.e., insomnia, nausea, headache, diarrhea, vomiting, dizziness and irritability) did not exceed 5.3% in any treatment group and usually resolved after 1 week post-discontinuation.
+The incidence of the individual adverse reactions (i.e., insomnia, nausea, headache, diarrhea, vomiting, dizziness, and irritability) did not exceed 5.3% in any treatment group and usually resolved after 1 week post-discontinuation.
 Gradual withdrawal is advised.
 [see USE IN SPECIFIC POPULATIONS (8.1)]
 
