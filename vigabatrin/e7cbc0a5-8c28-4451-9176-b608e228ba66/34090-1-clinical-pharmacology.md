@@ -24,7 +24,7 @@ The following PK information (Tmax, half-life, and clearance) of vigabatrin was 
 Absorption
 
 Following oral administration, vigabatrin is essentially completely absorbed.
-The time to maximum concentration (Tmax) is approximately 1 hour for children (10 years – 16 years) and adults, and approximately 2.5 hours for infants (5 months – 2 years).
+The time to maximum concentration (Tmax) is approximately 1 hour for children and adolescents (3 years to 16 years of age) and adults, and approximately 2.5 hours for infants (5 months to 2 years of age).
 There was little accumulation with multiple dosing in adult and pediatric patients.
 A food effect study involving administration of vigabatrin to healthy volunteers under fasting and fed conditions indicated that the Cmax was decreased by 33%, Tmax was increased to 2 hours, and AUC was unchanged under fed conditions.
 
@@ -36,7 +36,7 @@ Vigabatrin is widely distributed throughout the body; mean steady-state volume o
 Metabolism and Elimination
 
 Vigabatrin is not significantly metabolized; it is eliminated primarily through renal excretion.
-The terminal half-life of vigabatrin is about 5.7 hours for infants (5 months – 2 years), 9.5 hours for children (10 years – 16 years), and 10.5 hours for adults.
+The terminal half-life of vigabatrin is about 5.7 hours for infants (5 months to 2 years of age), 6.8 hours for children (3 to 9 years of age), 9.5 hours for children and adolescents (10 to 16 years of age), and 10.5 hours for adults.
 Following administration of [14]C-vigabatrin to healthy male volunteers, about 95% of total radioactivity was recovered in the urine over 72 hours with the parent drug representing about 80% of this.
 Vigabatrin induces CYP2C9, but does not induce other hepatic cytochrome P450 enzyme systems.
 
@@ -49,7 +49,7 @@ This finding is confirmed by an analysis of data from a controlled clinical tria
 
 Pediatric
 
-The clearance of vigabatrin is 2.4 L/hr for infants (5 months – 2 years), 5.8 L/hr for children (10 years – 16 years) and 7 L/hr for adults.
+The clearance of vigabatrin is 2.4 L/hr for infants (5 months to 2 years of age), 5.1 L/hr for children (3 to 9 years of age), 5.8 L/hr for children and adolescents (10 to 16 years of age) and 7 L/hr for adults.
 
 Gender
 
@@ -78,9 +78,9 @@ Infants with renal impairment
 
 Information about how to adjust the dose in infants with renal impairment is unavailable.
 
-Pediatric patients 10 years and older with renal impairment
+Pediatric patients 2 years and older with renal impairment
 
-Although information is unavailable on the effects of renal impairment on vigabatrin clearance in pediatric patients 10 years and older, dosing can be calculated based upon adult data and an established formula [see Use in Specific Populations (8.6) and Dosage and Administration (2.4)].
+Although information is unavailable on the effects of renal impairment on vigabatrin clearance in pediatric patients 2 years and older, dosing can be calculated based upon adult data and an established formula [see Use in Specific Populations (8.6) and Dosage and Administration (2.4)].
 
 Hepatic Impairment
 

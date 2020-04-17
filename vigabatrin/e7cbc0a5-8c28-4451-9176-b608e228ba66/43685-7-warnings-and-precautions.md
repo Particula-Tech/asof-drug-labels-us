@@ -63,24 +63,25 @@ Further information is available at www.vigabatrinREMS.com, or call 1-866-244-81
 
 ## 5.3 Magnetic Resonance Imaging (MRI) Abnormalities in Infants
 
-Abnormal MRI signal changes characterized by increased T2 signal and restricted diffusion in a symmetric pattern involving the thalamus, basal ganglia, brain stem, and cerebellum have been observed in some infants treated with vigabatrin for infantile spasms.
-In a retrospective epidemiologic study in infants with IS (N=205), the prevalence of these changes was 22% in vigabatrin treated patients versus 4% in patients treated with other therapies.
+Abnormal MRI signal changes characterized by increased T2 signal and restricted diffusion in a symmetric pattern involving the thalamus, basal ganglia, brain stem, and cerebellum have been observed in some infants treated with vigabatrin.
 
-In the study above, in post marketing experience, and in published literature reports, these changes generally resolved with discontinuation of treatment.
+In a retrospective epidemiologic study in infants with infantile spasms (N=205), the prevalence of MRI changes was 22% in vigabatrin-treated patients versus 4% in patients treated with other therapies.
+In this study, in postmarketing experience, and in published literature reports, these changes generally resolved with discontinuation of treatment.
 In a few patients, the lesion resolved despite continued use.
 It has been reported that some infants exhibited coincident motor abnormalities, but no causal relationship has been established and the potential for long-term clinical sequelae has not been adequately studied.
 
 Neurotoxicity (brain histopathology and neurobehavioral abnormalities) was observed in rats exposed to vigabatrin during late gestation and the neonatal and juvenile periods of development, and brain histopathological changes were observed in dogs exposed to vigabatrin during the juvenile period of development.
 The relationship between these findings and the abnormal MRI findings in infants treated with vigabatrin for infantile spasms is unknown [see Warnings and Precautions (5.4) and Use in Specific Populations (8.1)].
 
-The specific pattern of signal changes observed in IS patients was not observed in older pediatric and adult patients treated with vigabatrin for refractory CPS.
-In a blinded review of MRI images obtained in prospective clinical trials in patients with refractory CPS 3 years and older (N=656), no difference was observed in anatomic distribution or prevalence of MRI signal changes between vigabatrin treated and placebo treated patients.
+The specific pattern of signal changes observed in patients 6 years and younger was not observed in older pediatric and adult patients treated with vigabatrin.
+In a blinded review of MRI images obtained in prospective clinical trials in patients with refractory complex partial seizures (CPS) 3 years and older (N=656), no difference was observed in anatomic distribution or prevalence of MRI signal changes between vigabatrin treated and placebo treated patients.
+In the postmarketing setting, MRI changes have also been reported in patients 6 years of age and younger being treated for refractory CPS.
 
 For adults treated with vigabatrin, routine MRI surveillance is unnecessary as there is no evidence that vigabatrin causes MRI changes in this population.
 
 ## 5.4 Neurotoxicity
 
-Intramyelinic edema (IME) has been reported in postmortem examination of infants being treated for IS with vigabatrin.
+Intramyelinic Edema (IME) has been reported in postmortem examination of infants being treated for infantile spasms with vigabatrin.
 
 Abnormal MRI signal changes characterized by increased T2 signal and restricted diffusion in a symmetric pattern involving the thalamus, basal ganglia, brain stem, and cerebellum have also been observed in some infants treated for IS with vigabatrin.
 Studies of the effects of vigabatrin on MRI and evoked potentials (EP) in adult epilepsy patients have demonstrated no clear-cut abnormalities [see Warnings and Precautions (5.3)].
@@ -109,7 +110,7 @@ Antiepileptic drugs (AEDs), including vigabatrin, increase the risk of suicidal 
 Patients treated with any AED for any indication should be monitored for the emergence or worsening of depression, suicidal thoughts or behavior, and/or any unusual changes in mood or behavior.
 
 Pooled analyses of 199 placebo-controlled clinical trials (mono- and adjunctive therapy) of 11 different AEDs showed that patients randomized to one of the AEDs had approximately twice the risk (adjusted Relative Risk 1.8, 95% CI: 1.2, 2.7) of suicidal thinking or behavior compared to patients randomized to placebo.
-In these trials, which had a median treatment duration of 12 weeks, the estimated incidence rate of suicidal behavior or ideation among 27,863 AED treated patients was 0.43%, compared to 0.24% among 16,029 placebo treated patients, representing an increase of approximately one case of suicidal thinking or behavior for every 530 patients treated.
+In these trials, which had a median treatment duration of 12 weeks, the estimated incidence rate of suicidal behavior or ideation among 27,863 AED treated patients was 0.43%, compared to 0.24% among 16,029 placebotreated patients, representing an increase of approximately one case of suicidal thinking or behavior for every 530 patients treated.
 There were four suicides in drug treated patients in the trials and none in placebo treated patients, but the number is too small to allow any conclusion about drug effect on suicide.
 
 The increased risk of suicidal thoughts or behavior with AEDs was observed as early as one week after starting drug treatment with AEDs and persisted for the duration of treatment assessed.
@@ -151,9 +152,9 @@ In a controlled clinical study in patients with infantile spasms, vigabatrin was
 ## 5.7 Anemia
 
 In North American controlled trials in adults, 6% of patients (16/280) receiving vigabatrin and 2% of patients (3/188) receiving placebo had adverse events of anemia and/or met criteria for potentially clinically important hematology changes involving hemoglobin, hematocrit, and/or RBC indices.
-Across U.S. controlled trials, there were mean decreases in hemoglobin of about 3% and 0% in vigabatrin and placebo treated patients, respectively, and a mean decrease in hematocrit of about 1% in vigabatrin treated patients compared to a mean gain of about 1% in patients treated with placebo.
+Across U.S. controlled trials, there were mean decreases in hemoglobin of about 3% and 0% in vigabatrin and placebo-treated patients, respectively, and a mean decrease in hematocrit of about 1% in vigabatrin-treated patients compared to a mean gain of about 1% in patients treated with placebo.
 
-In controlled and open label epilepsy trials in adults and pediatric patients, 3 vigabatrin patients (0.06%, 3/4,855) discontinued for anemia and 2 vigabatrin patients experienced unexplained declines in hemoglobin to below 8 g/dL and/or hematocrit below 24%.
+In controlled and open-label epilepsy trials in adults and pediatric patients, 3 vigabatrin patients (0.06%, 3/4,855) discontinued for anemia and 2 vigabatrin patients experienced unexplained declines in hemoglobin to below 8 g/dL and/or hematocrit below 24%.
 
 ## 5.8 Somnolence and Fatigue
 

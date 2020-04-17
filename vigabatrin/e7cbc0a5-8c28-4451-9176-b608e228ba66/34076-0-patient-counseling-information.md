@@ -38,14 +38,17 @@ Counsel patients, their caregiver(s), and families that AEDs, including vigabatr
 Also advise patients and caregivers of the need to be alert for the emergence or worsening of symptoms of depression, any unusual changes in mood or behavior, or the emergence of suicidal thoughts, behavior, or thoughts of self-harm.
 Behaviors of concern should be reported immediately to healthcare providers [see Warnings and Precautions (5.5)].
 
-Use in Pregnancy
+Pregnancy
 
-Instruct patients to notify their physician if they become pregnant or intend to become pregnant during therapy, and to notify their physician if they are breastfeeding or intend to breastfeed during therapy [see Use in Specific Populations (8.1, 8.3)].
+Advise pregnant women and women of child-bearing potential that the use of vigabatrin for oral solution during pregnancy can cause fetal harm which may occur early in pregnancy before many women know they are pregnant.
+Instruct patients to notify their physician if they become pregnant or intend to become pregnant during therapy.
+Advise patients that there is a pregnancy exposure registry that collects information about the safety of antiepileptic drugs during pregnancy [see Use in Specific Populations (8.1)].
 
-Encourage patients to enroll in the NAAED Pregnancy Registry if they become pregnant.
-This registry is collecting information about the safety of antiepileptic drugs during pregnancy.
-To enroll, patients can call the toll free number 1-888-233-2334.
-Information on the registry can also be found at the website http://www.aedpregnancyregistry.org/ [see Use in Specific Populations (8.1)].
+Nursing
+
+Counsel patients that vigabatrin for oral solution is excreted in breast milk.
+Because of the potential for serious adverse reactions in nursing infants from vigabatrin for oral solution, breastfeeding is not recommended.
+If a decision is made to breastfeed, nursing mothers should be counseled to observe their infants for signs of vision loss, sedation and poor sucking [see Use in Specific Populations (8.2)].
 
 Withdrawal of Vigabatrin for Oral Solution Therapy
 
