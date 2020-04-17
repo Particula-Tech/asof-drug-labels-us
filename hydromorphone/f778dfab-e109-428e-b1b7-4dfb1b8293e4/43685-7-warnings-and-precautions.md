@@ -6,21 +6,18 @@ Dosing errors can result in accidental overdose and death.
 Ensure that the dose is communicated clearly and dispensed accurately.
 A household teaspoon or tablespoon is not an adequate measuring device.
 Given the inexactitude of the household spoon measure and the possibility of using a tablespoon instead of a teaspoon, which could lead to over dosage, the enclosed measuring device should be used or a calibrated measuring device obtained from the pharmacist.
-Health care providers should recommend a calibrated device that can measure and deliver the prescribed dose accurately, and instruct caregivers to use extreme caution in measuring the dosage.
+Healthcare providers should recommend a calibrated device that can measure and deliver the prescribed dose accurately, and instruct caregivers to use extreme caution in measuring the dosage.
 
 ## 5.2 Addiction, Abuse, and Misuse
 
 Hydromorphone Hydrochloride Tablets contain hydromorphone, a Schedule II controlled substance.
-As an opioid, Hydromorphone Hydrochloride Tablets are exposes users to the risks of addiction, abuse, and misuse [see Drug Abuse and Dependence (9)].
-
+As an opioid, Hydromorphone Hydrochloride Tablets exposes users to the risks of addiction, abuse, and misuse [see Drug Abuse and Dependence (9)].
 Although the risk of addiction in any individual is unknown, it can occur in patients appropriately prescribed Hydromorphone Hydrochloride Tablets.
 Addiction can occur at recommended dosages and if the drug is misused or abused.
-
-Assess each patient’s risk for opioid addiction, abuse, or misuse prior to prescribing Hydromorphone Hydrochloride Tablets are, and monitor all patients receiving Hydromorphone Hydrochloride Tablets are for the development of these behaviors and conditions.
+Assess each patient’s risk for opioid addiction, abuse, or misuse prior to prescribing Hydromorphone Hydrochloride Tablets, and monitor all patients receiving Hydromorphone Hydrochloride Tablets for the development of these behaviors and conditions.
 Risks are increased in patients with a personal or family history of substance abuse (including drug or alcohol abuse or addiction) or mental illness (e.g., major depression).
 The potential for these risks should not, however, prevent the proper management of pain in any given patient.
-Patients at increased risk may be prescribed opioids such as Hydromorphone Hydrochloride Tablets but use in such patients necessitates intensive counseling about the risks and proper use of Hydromorphone Hydrochloride Tablets along with intensive monitoring for signs of addiction, abuse, and misuse.
-
+Patients at increased risk may be prescribed opioids such as Hydromorphone Hydrochloride Tablets, but use in such patients necessitates intensive counseling about the risks and proper use of Hydromorphone Hydrochloride Tablets along with intensive monitoring for signs of addiction, abuse, and misuse.
 Opioids are sought by drug abusers and people with addiction disorders and are subject to criminal diversion.
 Consider these risks when prescribing or dispensing Hydromorphone Hydrochloride Tablets.
 Strategies to reduce these risks include prescribing the drug in the smallest appropriate quantity and advising the patient on the proper disposal of unused drug [see Patient Counseling Information (17)].
@@ -51,6 +48,9 @@ Monitor patients closely for respiratory depression, especially within the first
 To reduce the risk of respiratory depression, proper dosing and titration of Hydromorphone Hydrochloride Tablets are essential [see Dosage and Administration (2)].
 Overestimating the Hydromorphone Hydrochloride Tablets dosage when converting patients from another opioid product can result in a fatal overdose with the first dose.
 Accidental ingestion of even one dose of Hydromorphone Hydrochloride Tablets, especially by children, can result in respiratory depression and death due to an overdose of hydromorphone.
+Opioids can cause sleep-related breathing disorders including central sleep apnea (CSA) and sleep-related hypoxemia.
+Opioid use increases the risk of CSA in a dose-dependent fashion.
+In patients who present with CSA, consider decreasing the opioid dosage using best practices for opioid taper [see Dosage and Administration (2.6)].
 
 ## 5.5 Neonatal Opioid Withdrawal Syndrome
 
@@ -63,25 +63,22 @@ Advise pregnant women using opioids for a prolonged period of the risk of neonat
 
 Profound sedation, respiratory depression, coma, and death may result from the concomitant use of Hydromorphone Hydrochloride Tablets with benzodiazepines or other CNS depressants (e.g., non-benzodiazepine sedatives/hypnotics, anxiolytics, tranquilizers, muscle relaxants, general anesthetics, antipsychotics, other opioids, alcohol).
 Because of these risks, reserve concomitant prescribing of these drugs for use in patients for whom alternative treatment options are inadequate.
-
 Observational studies have demonstrated that concomitant use of opioid analgesics and benzodiazepines increases the risk of drug-related mortality compared to use of opioid analgesics alone.
 Because of similar pharmacological properties, it is reasonable to expect similar risk with the concomitant use of other CNS depressant drugs with opioid analgesics [see Drug Interactions (7)].
-
 If the decision is made to prescribe a benzodiazepine or other CNS depressant concomitantly with an opioid analgesic, prescribe the lowest effective dosages and minimum durations of concomitant use.
 In patients already receiving an opioid analgesic, prescribe a lower initial dose of the benzodiazepine or other CNS depressant than indicated in the absence of an opioid, and titrate based on clinical response.
 If an opioid analgesic is initiated in a patient already taking a benzodiazepine or other CNS depressant, prescribe a lower initial dose of the opioid analgesic, and titrate based on clinical response.
 Follow patients closely for signs and symptoms of respiratory depression and sedation.
-
 Advise both patients and caregivers about the risks of respiratory depression and sedation when Hydromorphone Hydrochloride Tablets are used with benzodiazepines or other CNS depressants (including alcohol and illicit drugs).
 Advise patients not to drive or operate heavy machinery until the effects of concomitant use of the benzodiazepine or other CNS depressant have been determined.
-Screen patients for risk of substance use disorders, including opioid abuse and misuse, and warn them of the risk for overdose and death associated with the use of additional CNS depressants including alcohol and illicit drugs [see Drug Interactions (7), Patient Counseling Information (17)]
+Screen patients for risk of substance use disorders, including opioid abuse and misuse, and warn them of the risk for overdose and death associated with the use of additional CNS depressants including alcohol and illicit drugs [see Drug Interactions (7), Patient Counseling Information (17)].
 
 ## 5.7 Life-Threatening Respiratory Depression in Patients with Chronic Pulmonary Disease or in Elderly, Cachectic, or Debilitated Patients
 
 The use of Hydromorphone Hydrochloride Tablets in patients with acute or severe bronchial asthma in an unmonitored setting or in the absence of resuscitative equipment is contraindicated.
 Patients with Chronic Pulmonary Disease: Hydromorphone Hydrochloride Tablets - treated patients with significant chronic obstructive pulmonary disease or cor pulmonale, and those with a substantially decreased respiratory reserve, hypoxia, hypercapnia, or pre-existing respiratory depression are at increased risk of decreased respiratory drive including apnea, even at recommended dosages of Hydromorphone Hydrochloride Tablets [see Warnings and Precautions (5.4)].
 Elderly, Cachectic, or Debilitated Patients: Life-threatening respiratory depression is more likely to occur in elderly, cachectic, or debilitated patients because they may have altered pharmacokinetics or altered clearance compared to younger, healthier patients [see Warnings and Precautions (5.4)].
-Monitor such patients closely, particularly when initiating and titrating Hydromorphone Hydrochloride Tablets and when Hydromorphone Hydrochloride Tablets is given concomitantly with other drugs that depress respiration [see Warnings and Precautions (5.4)].
+Monitor such patients closely, particularly when initiating and titrating Hydromorphone Hydrochloride Tablets and when Hydromorphone Hydrochloride is given concomitantly with other drugs that depress respiration [see Warnings and Precautions (5.4)].
 Alternatively, consider the use of non-opioid analgesics in these patients.
 
 ## 5.8 Adrenal Insufficiency
@@ -106,33 +103,30 @@ Avoid the use of Hydromorphone Hydrochloride Tablets in patients with circulator
 
 In patients who may be susceptible to the intracranial effects of CO2 retention (e.g., those with evidence of increased intracranial pressure or brain tumors), Hydromorphone Hydrochloride Tablets may reduce respiratory drive, and the resultant CO2 retention can further increase intracranial pressure.
 Monitor such patients for signs of sedation and respiratory depression, particularly when initiating therapy with Hydromorphone Hydrochloride Tablets.
-
 Opioids may also obscure the clinical course in a patient with a head injury.
 Avoid the use of Hydromorphone Hydrochloride Tablets in patients with impaired consciousness or coma.
 
-## 5.11Risks of Use in Patients with Gastrointestinal Conditions
+## 5.11 Risks of Use in Patients with Gastrointestinal Conditions
 
 Hydromorphone Hydrochloride Tablets are contraindicated in patients with known or suspected gastrointestinal obstruction, including paralytic ileus.
-
-The Hydromorphone Hydrochloride Tablets may cause spasm of the sphincter of Oddi.
+The hydromorphone in Hydromorphone Hydrochloride Tablets may cause spasm of the sphincter of Oddi.
 Opioids may cause increases in serum amylase.
 Monitor patients with biliary tract disease, including acute pancreatitis, for worsening symptoms.
 
-## 5.12Increased Risk of Seizures in Patients with Seizure Disorders
+## 5.12 Increased Risk of Seizures in Patients with Seizure Disorders
 
-The Hydromorphone Hydrochloride Tablets may increase the frequency of seizures in patients with seizure disorders, and may increase the risk of seizures occurring in other clinical settings associated with seizures.
+The hydromorphone in Hydromorphone Hydrochloride Tablets may increase the frequency of seizures in patients with seizure disorders, and may increase the risk of seizures occurring in other clinical settings associated with seizures.
 Monitor patients with a history of seizure disorders for worsened seizure control during Hydromorphone Hydrochloride Tablets therapy.
 
 ## 5.13Withdrawal
 
-Avoid the use of mixed agonist/antagonist (e.g., pentazocine, nalbuphine, and butorphanol) or partial agonist (e.g., buprenorphine) analgesics in patients who are receiving a full opioid agonist analgesic, including Hydromorphone Hydrochloride Tablets.
+Do not abruptly discontinue Hydromorphone Hydrochloride Tablets in a patient physically dependent on opioids.
+When discontinuing Hydromorphone Hydrochloride Tablets in a physically dependent patient, gradually taper the dosage.
+Rapid tapering of hydromorphone in a patient physically dependent on opioids may lead to a withdrawal syndrome and return of pain [see Dosage and Administration (2.6), Drug Abuse and Dependence (9.3)].
+Additionally, avoid the use of mixed agonist/antagonist (e.g., pentazocine, nalbuphine, and butorphanol) or partial agonist (e.g., buprenorphine) analgesics in patients who are receiving a full opioid agonist analgesic, including Hydromorphone Hydrochloride Tablets.
 In these patients, mixed agonist/antagonist and partial agonist analgesics may reduce the analgesic effect and/or precipitate withdrawal symptoms [see Drug Interactions (7)].
 
-When discontinuing Hydromorphone Hydrochloride Tablets in a physically-dependent patient, gradually taper the dosage [see Dosage and Administration (2.6)].
-Do not abruptly discontinue Hydromorphone Hydrochloride Tablets in these patients.
-[See Drug Abuse and Dependence (9.3)].
-
-## 5.14Risks of Driving and Operating Machinery
+## 5.14 Risks of Driving and Operating Machinery
 
 Hydromorphone Hydrochloride Tablets may impair the mental or physical abilities needed to perform potentially hazardous activities such as driving a car or operating machinery.
 Warn patients not to drive or operate dangerous machinery unless they are tolerant to the effects of Hydromorphone Hydrochloride Tablets and know how they will react to the medication.
@@ -142,4 +136,4 @@ Warn patients not to drive or operate dangerous machinery unless they are tolera
 Hydromorphone Hydrochloride Tablets contain sodium metabisulfite, a sulfite that may cause allergic-type reactions including anaphylactic symptoms and life-threatening or less severe asthmatic episodes in certain susceptible people.
 The overall prevalence of sulfite sensitivity in the general population is unknown and probably low.
 Sulfite sensitivity is seen more frequently in asthmatic than in nonasthmatic people.
-Use of Hydromorphone Hydrochloride Tablets and is contraindicated in patients with hypersensitivity to sulfite-containing medications.
+Use of Hydromorphone Hydrochloride Tablets is contraindicated in patients with hypersensitivity to sulfite-containing medications..

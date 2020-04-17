@@ -1,9 +1,5 @@
 # WARNING: RISK OF MEDICATION ERRORS; ADDICTION, ABUSE, AND MISUSE; RISK EVALUATION AND MITIGATION STRATEGY (REMS); LIFE THREATENING RESPIRATORY DEPRESSION; ACCIDENTAL INGESTION; NEONATAL OPIOID WITHDRAWAL SYNDROME; RISKS FROM CONCOMITANT USE WITH BENZODIAZEPINES OR OTHER CNS DEPRESSANTS
 
-WARNING: RISK OF MEDICATION ERRORS; ADDICTION, ABUSE, AND MISUSE; RISK EVALUATION AND MITIGATION STRATEGY (REMS); LIFE- THREATENING RESPIRATORY DEPRESSION; ACCIDENTAL INGESTION; NEONATAL OPIOID WITHDRAWAL SYNDROME; and RISKS FROM CONCOMITANT USE WITH BENZODIAZEPINES OR OTHER CNS DEPRESSANTS
-
-Risk of Medication Errors Ensure accuracy when prescribing, dispensing, and administering Hydromorphone Hydrochloride Tablets.
-Dosing errors due to confusion between mg and mL can result in accidental overdose and death [see Dosage and Administration (2.1), Warnings and Precautions (5.1)].
 Addiction, Abuse, and Misuse Hydromorphone Hydrochloride Tablets expose patients and other users to the risks of opioid addiction, abuse, and misuse, which can lead to overdose and death.
 Assess each patient’s risk prior to prescribing Hydromorphone Hydrochloride Tablets, and monitor all patients regularly for the development of these behaviors and conditions [see Warnings and Precautions (5.2)].
 Opioid Analgesic Risk Evaluation and Mitigation Strategy (REMS) To ensure that the benefits of opioid analgesics outweigh the risks of addiction, abuse, and misuse, the Food and Drug Administration (FDA) has required a REMS for these products [see Warnings and Precautions (5.3)].

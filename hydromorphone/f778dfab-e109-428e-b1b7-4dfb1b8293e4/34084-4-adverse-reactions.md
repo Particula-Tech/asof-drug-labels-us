@@ -10,44 +10,15 @@ The following serious adverse reactions are described, or described in greater d
 - Severe Hypotension [see Warnings and Precautions (5.9)]
 - Gastrointestinal Adverse Reactions [see Warnings and Precautions (5.11)]
 - Seizures [see Warnings and Precautions (5.12)]
-- Withdrawal [see Warnings and Precautions (5.13]
+- Withdrawal [see Warnings and Precautions (5.13)]
 
 ## 6.1 Clinical Trial Experience
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
-
-Serious adverse reactions associated with Hydromorphone Hydrochloride Tablets include respiratory depression and apnea and, to a lesser degree, circulatory depression, respiratory arrest, shock, and cardiac arrest.
-
+Serious adverse reactions associated with Hydromorphone Hydrochloride include respiratory depression and apnea and, to a lesser degree, circulatory depression, respiratory arrest, shock, and cardiac arrest.
 The most common adverse effects are lightheadedness, dizziness, sedation, nausea, vomiting, sweating, flushing, dysphoria, euphoria, dry mouth, and pruritus.
 These effects seem to be more prominent in ambulatory patients and in those not experiencing severe pain.
-
-Less Frequently Observed Adverse Reactions
-
-Cardiac disorders: tachycardia, bradycardia, palpitations
-
-Eye disorders: vision blurred, diplopia, miosis, visual impairment
-
-Gastrointestinal disorders: constipation, ileus, diarrhea, abdominal pain
-
-General disorders and administration site conditions: weakness, feeling abnormal, chills
-
-Hepatobiliary disorders: biliary colic
-
-Metabolism and nutrition disorders: decreased appetite
-
-Musculoskeletal and connective tissue disorders: muscle rigidity
-
-Nervous system disorders: headache, tremor, paraesthesia, nystagmus, increased intracranial pressure, syncope, taste alteration, involuntary muscle contractions, presyncope
-
-Psychiatric disorders: agitation, mood altered, nervousness, anxiety, depression, hallucination, disorientation, insomnia, abnormal dreams
-
-Renal and urinary disorders: urinary retention, urinary hesitation, antidiuretic effects
-
-Respiratory, thoracic, and mediastinal disorders: bronchospasm, laryngospasm
-
-Skin and subcutaneous tissue disorders: urticaria, rash, hyperhidrosis
-
-Vascular disorders: flushing, hypotension, hypertension
+Less Frequently Observed Adverse Reactions Cardiac disorders: tachycardia, bradycardia, palpitations Eye disorders: vision blurred, diplopia, miosis, visual impairment Gastrointestinal disorders: constipation, ileus, diarrhea, abdominal pain General disorders and administration site conditions: weakness, feeling abnormal, chills Hepatobiliary disorders: biliary colic Metabolism and nutrition disorders: decreased appetite Musculoskeletal and connective tissue disorders: muscle rigidity Nervous system disorders: headache, tremor, paraesthesia, nystagmus, increased intracranial pressure, syncope, taste alteration, involuntary muscle contractions, presyncope Psychiatric disorders: agitation, mood altered, nervousness, anxiety, depression, hallucination, disorientation, insomnia, abnormal dreams Renal and urinary disorders: urinary retention, urinary hesitation, antidiuretic effects Respiratory, thoracic, and mediastinal disorders: bronchospasm, laryngospasm Skin and subcutaneous tissue disorders: urticaria, rash, hyperhidrosis Vascular disorders: flushing, hypotension, hypertension
 
 ## 6.2 Post marketing Experience
 

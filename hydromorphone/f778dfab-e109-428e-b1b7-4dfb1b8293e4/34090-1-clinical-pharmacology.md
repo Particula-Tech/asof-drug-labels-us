@@ -59,18 +59,17 @@ In opioid-tolerant patients, the situation may be altered by the development of 
 
 ## 12.3 Pharmacokinetics
 
-Absorption
-
-The analgesic activity of Hydromorphone Hydrochloride Tablets are due to the parent drug, hydromorphone.
+Absorption The analgesic activity of Hydromorphone Hydrochloride Tablets is due to the parent drug, hydromorphone.
 Hydromorphone is rapidly absorbed from the gastrointestinal tract after oral administration and undergoes extensive first-pass metabolism.
 Exposure of hydromorphone (Cmax and AUC0-24) is dose-proportional at a dose range of 2 and 8 mg.
 In vivo bioavailability following single-dose administration of the 8 mg tablet is approximately 24% (coefficient of variation 21%).
+Bioequivalence between the Hydromorphone Hydrochloride Tablets 8 mg TABLET and an equivalent dose of Hydromorphone Hydrochloride Tablets has been demonstrated.
 
-After oral administration of Hydromorphone Hydrochloride Tablets, peak plasma hydromorphone concentrations are generally attained within 1/2 to 1-hour.
+After oral administration of Hydromorphone Hydrochloride Tablets, peak plasma hydromorphone concentrations are generally attained within ½ to 1 hour.
 
 | Mean (%cv) Dosage Form | Cmax (ng) | Tmax (hrs) | AUC (ng*hr/mL) | T ½(hrs) |
 | --- | --- | --- | --- | --- |
-| 8 mg Tablet | 5.5 (33%) | 0.74 (34%) | 23.7 (28%) | 2.6 (1 |
+| 8 mg Tablet | 5.5 (33%) | 0.74 (34%) | 23.7 (28%) | 2.6 (18%) |
 
 Food Effects
 
