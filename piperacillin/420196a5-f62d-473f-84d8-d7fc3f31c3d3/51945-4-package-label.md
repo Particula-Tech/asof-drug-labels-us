@@ -12,7 +12,7 @@ Single-Dose Vial
 
 Rx Only
 
-Qilu Tianhe Pharmaceutical Co., Ltd.
+Shandong Anxin Pharmaceutical Co., Ltd.
 
 # PRINCIPAL DISPLAY PANEL - 2.25 Gram Vial Carton
 
@@ -28,7 +28,7 @@ For Intravenous Use Only
 
 Rx Only
 
-Qilu Tianhe Pharmaceutical Co., Ltd.
+Shandong Anxin Pharmaceutical Co., Ltd.
 
 # PRINCIPAL DISPLAY PANEL - 3.375 gram Vial Label
 
@@ -42,7 +42,7 @@ For Intravenous Use Only Single-Dose Vial
 
 Rx Only
 
-Qilu Tianhe Pharmaceutical Co., Ltd.
+Shandong Anxin Pharmaceutical Co., Ltd.
 
 # PRINCIPAL DISPLAY PANEL - 3.375 Gram Vial Carton
 
@@ -58,7 +58,7 @@ For Intravenous Use Only
 
 Rx Only
 
-Qilu Tianhe Pharmaceutical Co., Ltd.
+Shandong Anxin Pharmaceutical Co., Ltd.
 
 # PRINCIPAL DISPLAY PANEL - 4.5 gram Vial Label
 
@@ -72,7 +72,7 @@ For Intravenous Use Only Single-Dose Vial
 
 Rx Only
 
-Qilu Tianhe Pharmaceutical Co., Ltd.
+Shandong Anxin Pharmaceutical Co., Ltd.
 
 # PRINCIPAL DISPLAY PANEL - 4.5 Gram Vial Carton
 
@@ -88,4 +88,4 @@ For Intravenous Use Only
 
 Rx Only
 
-Qilu Tianhe Pharmaceutical Co., Ltd.
+Shandong Anxin Pharmaceutical Co., Ltd.

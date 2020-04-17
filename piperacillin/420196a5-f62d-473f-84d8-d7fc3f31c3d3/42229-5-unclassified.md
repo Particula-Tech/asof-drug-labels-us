@@ -1,7 +1,7 @@
 To reduce the development of drug-resistant bacteria and maintain the effectiveness of piperacillin and tazobactam for injection, USP and other antibacterial drugs, piperacillin and tazobactam for injection, USP should be used only to treat or prevent infections that are proven or strongly suspected to be caused by bacteria.
 
-Manufactured by: Qilu Tianhe Pharmaceutical Co., Ltd.
+Manufactured by: Shandong Anxin Pharmaceutical Co., Ltd.
 
-No. 849 Dongjia Town, Licheng District, Jinan, Shandong, 250105, China
+Dongjia Town, Licheng District, Jinan, Shandong, 250105, China
 
-Revised: 5/2019
+Revised: 10/2019
