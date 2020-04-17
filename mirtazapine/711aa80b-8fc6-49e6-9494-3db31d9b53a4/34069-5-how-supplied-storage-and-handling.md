@@ -1,4 +1,4 @@
-# HOW SUPPLIED
+# 16 HOW SUPPLIED/STORAGE AND HANDLING
 
 Mirtazapine Tablets, USP are available containing 15 mg, 30 mg or 45 mg of mirtazapine, USP.
 

@@ -1,87 +1,131 @@
-# CLINICAL PHARMACOLOGY
+# 12 CLINICAL PHARMACOLOGY
 
-## Pharmacodynamics
+## 12.1 Mechanism of Action
 
-The mechanism of action of mirtazapine tablets, as with other drugs effective in the treatment of major depressive disorder, is unknown.
+The mechanism of action of mirtazapine for the treatment of major depressive disorder, is unclear.
+However, its efficacy could be mediated through its activity as an antagonist at central presynaptic α2-adrenergic inhibitory autoreceptors and heteroreceptors and enhancing central noradrenergic and serotonergic activity.
 
-Evidence gathered in preclinical studies suggests that mirtazapine enhances central noradrenergic and serotonergic activity.
-These studies have shown that mirtazapine acts as an antagonist at central presynaptic α2-adrenergic inhibitory autoreceptors and heteroreceptors, an action that is postulated to result in an increase in central noradrenergic and serotonergic activity.
+## 12.2 Pharmacodynamics
 
-Mirtazapine is a potent antagonist of 5-HT2 and 5-HT3 receptors.
+In preclinical studies, mirtazapine acts as an antagonist at α2-adrenergic inhibitory autoreceptors and heteroreceptors and as an antagonist at serotonin 5-HT2 and 5-HT3 receptors.
 Mirtazapine has no significant affinity for the 5-HT1A and 5-HT1B receptors.
 
-Mirtazapine is a potent antagonist of histamine (H1) receptors, a property that may explain its prominent sedative effects.
+Mirtazapine also acts as an antagonist of histamine (H1) receptors, peripheral α1-adrenergic receptors, and muscarinic receptors.
+Actions at these receptors may explain some of the other clinical effects of mirtazapine (e.g., its prominent somnolent effects and orthostatic hypotension may be explained by its inhibition of histamine (H1) receptors and peripheral α1-adrenergic receptors, respectively).
 
-Mirtazapine is a moderate peripheral α1-adrenergic antagonist, a property that may explain the occasional orthostatic hypotension reported in association with its use.
+### Cardiac Electrophysiology
 
-Mirtazapine is a moderate antagonist at muscarinic receptors, a property that may explain the relatively low incidence of anticholinergic side effects associated with its use.
+The effect of mirtazapine on QTc interval was assessed in healthy subjects.
+At a dose of 75 mg (1.67 times the maximum recommended dosage), mirtazapine does not prolong the QTc interval to a clinically meaningful extent.
 
-## Pharmacokinetics
+## 12.3 Pharmacokinetics
 
-Mirtazapine tablets are rapidly and completely absorbed following oral administration and have a half-life of about 20 to 40 hours.
-Peak plasma concentrations are reached within about 2 hours following an oral dose.
-The presence of food in the stomach has a minimal effect on both the rate and extent of absorption and does not require a dosage adjustment.
-
-Mirtazapine is extensively metabolized after oral administration.
-Major pathways of biotransformation are demethylation and hydroxylation followed by glucuronide conjugation.
-In vitro data from human liver microsomes indicate that cytochrome 2D6 and 1A2 are involved in the formation of the 8-hydroxy metabolite of mirtazapine, whereas cytochrome 3A is considered to be responsible for the formation of the N-desmethyl and N-oxide metabolite.
-Mirtazapine has an absolute bioavailability of about 50%.
-It is eliminated predominantly via urine (75%) with 15% in feces.
-Several unconjugated metabolites possess pharmacological activity but are present in the plasma at very low levels.
-The (‒) enantiomer has an elimination half-life that is approximately twice as long as the (+) enantiomer and therefore achieves plasma levels that are about 3 times as high as that of the (+) enantiomer.
-
-Plasma levels are linearly related to dose over a dose range of 15 to 80 mg.
-The mean elimination half-life of mirtazapine after oral administration ranges from approximately 20 to 40 hours across age and gender subgroups, with females of all ages exhibiting significantly longer elimination half-lives than males (mean half-life of 37 hours for females vs. 26 hours for males).
+Plasma levels of mirtazapine are linearly related to dose over a dose range of 15 to 80 mg (1.78 times the maximum recommended dose).
 Steady state plasma levels of mirtazapine are attained within 5 days, with about 50% accumulation (accumulation ratio = 1.5).
+The (–) enantiomer has an elimination half-life that is approximately twice as long as the (+) enantiomer and therefore achieves plasma levels that are about 3 times as high as that of the (+) enantiomer.
+
+### Absorption
+
+Mirtazapine has an absolute bioavailability of about 50% following oral administration.
+Peak plasma concentrations of mirtazapine are reached within about 2 hours post dose.
+
+#### Food Effect
+
+The presence of food in the stomach has a minimal effect on both the rate and extent of absorption.
+
+### Distribution
 
 Mirtazapine is approximately 85% bound to plasma proteins over a concentration range of 0.01 to 10 mcg/mL.
 
-## Special Populations
+### Elimination
 
-### Geriatric
+Mirtazapine has a half-life of about 20 to 40 hours following oral administration of mirtazapine tablets.
 
-Following oral administration of mirtazapine tablets 20 mg/day for 7 days to subjects of varying ages (range, 25–74), oral clearance of mirtazapine was reduced in the elderly compared to the younger subjects.
-The differences were most striking in males, with a 40% lower clearance in elderly males compared to younger males, while the clearance in elderly females was only 10% lower compared to younger females.
-Caution is indicated in administering mirtazapine tablets to elderly patients (see PRECAUTIONS and DOSAGE AND ADMINISTRATION).
+#### Metabolism
 
-### Pediatrics
+Mirtazapine is extensively metabolized after oral administration.
+Major pathways of bio-transformation are demethylation and hydroxylation followed by glucuronide conjugation.
+In vitro data from human liver microsomes indicate that CYP2D6 and CYP1A2 are involved in the formation of the 8-hydroxy metabolite of mirtazapine, whereas CYP3A is considered to be responsible for the formation of the N-desmethyl and N-oxide metabolite.
+Several unconjugated metabolites possess pharmacological activity but are present in the plasma at very low levels.
 
-Safety and effectiveness of mirtazapine in the pediatric population have not been established (see PRECAUTIONS).
+#### Excretion
 
-### Gender
+Mirtazapine and its metabolites are eliminated predominantly (75%) via urine with 15% in feces.
 
-The mean elimination half-life of mirtazapine after oral administration ranges from approximately 20 to 40 hours across age and gender subgroups, with females of all ages exhibiting significantly longer elimination half-lives than males (mean half-life of 37 hours for females vs. 26 hours for males) (see Pharmacokinetics).
+### Specific Populations
 
-### Race
+#### Geriatric Patients
 
-There have been no clinical studies to evaluate the effect of race on the pharmacokinetics of mirtazapine tablets.
+Following oral administration of mirtazapine tablets 20 mg/day for 7 days to subjects of varying ages (range 25 to 74 years old), oral clearance of mirtazapine was reduced in the elderly compared to the younger subjects.
+The clearance in elderly males was 40% lower compared to younger males, while the clearance was 10% lower in elderly females compared to younger females [see Warnings and Precautions (5.14), Use in Specific Populations (8.5)].
 
-### Renal Insufficiency
+#### Male and Female Patients
 
-The disposition of mirtazapine was studied in patients with varying degrees of renal function.
-Elimination of mirtazapine is correlated with creatinine clearance.
-Total body clearance of mirtazapine was reduced approximately 30% in patients with moderate (Clcr = 11‒39 mL/min/1.73 m2) and approximately 50% in patients with severe (Clcr = < 10 mL/min/1.73 m2) renal impairment when compared to normal subjects.
+The mean elimination half-life of mirtazapine after oral administration ranges from approximately 20 to 40 hours across age and gender subgroups, with females of all ages exhibiting significantly longer elimination half-lives than males (mean half-life of 37 hours for females vs. 26 hours for males).
 
-Caution is indicated in administering mirtazapine tablets to patients with compromised renal function (see PRECAUTIONS and DOSAGE AND ADMINISTRATION).
+#### Race
 
-### Hepatic Insufficiency
+There have been no clinical studies to evaluate the effect of race on the pharmacokinetics of mirtazapine.
 
-Following a single 15-mg oral dose of mirtazapine tablets, the oral clearance of mirtazapine was decreased by approximately 30% in hepatically impaired patients compared to subjects with normal hepatic function.
-Caution is indicated in administering mirtazapine tablets to patients with compromised hepatic function (see PRECAUTIONS and DOSAGE AND ADMINISTRATION).
+#### Patients with Renal Impairment
 
-## Clinical Trials Showing Effectiveness
+When compared to subjects with normal renal function, total body clearance of mirtazapine was reduced approximately 30% in renal impaired patients with GFR = 11–39 mL/min/1.73 m2 and approximately 50% in renal impaired patients with GFR = < 10 mL/min/1.73 m2) [see Warnings and Precautions (5.14), Use in Specific Populations (8.6)].
 
-The efficacy of mirtazapine tablets as a treatment for major depressive disorder was established in 4 placebo-controlled, 6-week trials in adult outpatients meeting DSM-III criteria for major depressive disorder.
-Patients were titrated with mirtazapine from a dose range of 5 mg up to 35 mg/day.
-Overall, these studies demonstrated mirtazapine to be superior to placebo on at least 3 of the following 4 measures: 21-Item Hamilton Depression Rating Scale (HDRS) total score; HDRS Depressed Mood Item; CGI Severity score; and Montgomery and Asberg Depression Rating Scale (MADRS).
-Superiority of mirtazapine over placebo was also found for certain factors of the HDRS, including anxiety/somatization factor and sleep disturbance factor.
-The mean mirtazapine dose for patients who completed these 4 studies ranged from 21 to 32 mg/day.
-A fifth study of similar design utilized a higher dose (up to 50 mg) per day and also showed effectiveness.
+#### Patients with Hepatic Impairment
 
-Examination of age and gender subsets of the population did not reveal any differential responsiveness on the basis of these subgroupings.
+Following a single 15-mg oral dose of mirtazapine, the oral clearance of mirtazapine in patients with hepatic impairment was decreased by approximately 30%, compared to subjects with normal hepatic function [see Warnings and Precautions (5.12, 5.14), Use in Specific Populations (8.6)].
 
-In a longer-term study, patients meeting (DSM-IV) criteria for major depressive disorder who had responded during an initial 8 to 12 weeks of acute treatment on mirtazapine tablets were randomized to continuation of mirtazapine tablets or placebo for up to 40 weeks of observation for relapse.
-Response during the open phase was defined as having achieved a HAM-D 17 total score of ≤ 8 and a CGI-Improvement score of 1 or 2 at 2 consecutive visits beginning with week 6 of the 8 to 12 weeks in the open-label phase of the study.
-Relapse during the double-blind phase was determined by the individual investigators.
-Patients receiving continued mirtazapine tablets treatment experienced significantly lower relapse rates over the subsequent 40 weeks compared to those receiving placebo.
-This pattern was demonstrated in both male and female patients.
+### Drug Interactions Studies
+
+#### Warfarin
+
+Mirtazapine (30 mg daily) at steady state caused a statistically significant increase (0.2) in the International Normalized Ratio (INR) in subjects treated with warfarin [see Drug Interactions (7)].
+
+#### QTc-Prolonging Drugs
+
+The risk of QT prolongation and/or ventricular arrhythmias (e.g., Torsades de Pointes) may be increased with concomitant use of medicines which prolong the QTc interval (e.g., some antipsychotics and antibiotics) and in mirtazapine overdose [see Warnings and Precautions (5.5), Adverse Reactions (6.1, 6.2), Drug Interactions (7), and Overdosage (10)].
+
+#### Phenytoin
+
+In healthy male subjects (n = 18), phenytoin (200 mg daily, at steady state) increased mirtazapine (30 mg daily, at steady state) clearance about 2-fold, resulting in a decrease in average plasma mirtazapine concentrations of 45% [see Drug Interactions (7)].
+Mirtazapine did not significantly affect the pharmacokinetics of phenytoin.
+
+#### Carbamazepine
+
+In healthy male subjects (n = 24), carbamazepine (400 mg twice a day, at steady state) increased mirtazapine (15 mg twice a day, at steady state) clearance about 2-fold, resulting in a decrease in average plasma mirtazapine concentrations of 60% [see Drug Interactions (7)].
+
+#### Cimetidine
+
+In healthy male subjects (n = 12), when cimetidine, a weak inhibitor of CYP1A2, CYP2D6, and CYP3A4, given at 800 mg b.i.d. at steady state was coadministered with mirtazapine (30 mg daily) at steady state, the Area Under the Curve (AUC) of mirtazapine increased more than 50% [see Drug Interactions (7)].
+Mirtazapine did not cause relevant changes in the pharmacokinetics of cimetidine.
+
+#### Ketoconazole
+
+In healthy male Caucasian subjects (n = 24), coadministration of the strong CYP3A4 inhibitor ketoconazole (200 mg b.i.d. for 6.5 days) increased the peak plasma levels and the AUC of a single 30 mg dose of mirtazapine by approximately 40% and 50%, respectively [see Drug Interactions (7)].
+
+#### Amitriptyline
+
+In healthy, CYP2D6 extensive metabolizer patients (n = 32), amitriptyline (75 mg daily), at steady state, did not cause relevant changes to the pharmacokinetics of steady state mirtazapine (30 mg daily); mirtazapine also did not cause relevant changes to the pharmacokinetics of amitriptyline.
+
+#### Paroxetine
+
+In healthy CYP2D6 extensive metabolizer subjects (n = 24), mirtazapine (30 mg/day), at steady state, did not cause relevant changes in the pharmacokinetics of steady state paroxetine (40 mg/day), a CYP2D6 inhibitor.
+
+#### Lithium
+
+No relevant clinical effects or significant changes in pharmacokinetics have been observed in healthy male subjects on concurrent treatment with lithium 600 mg/day for 10 days at steady state and a single 30 mg dose of mirtazapine.
+The effects of higher doses of lithium on the pharmacokinetics of mirtazapine are unknown.
+
+#### Risperidone
+
+Mirtazapine (30 mg daily) at steady state did not influence the pharmacokinetics of risperidone (up to 3 mg twice a day) in subjects (n = 6) in need of treatment with an antipsychotic and antidepressant drug.
+
+#### Alcohol
+
+Concomitant administration of alcohol (equivalent to 60 g) had a minimal effect on plasma levels of mirtazapine (15 mg) in 6 healthy male subjects.
+However, the impairment of cognitive and motor skills produced by mirtazapine were shown to be additive with those produced by alcohol.
+
+#### Diazepam
+
+Concomitant administration of diazepam (15 mg) had a minimal effect on plasma levels of mirtazapine (15 mg) in 12 healthy subjects.
+However, the impairment of motor skills produced by mirtazapine has been shown to be additive with those caused by diazepam.
