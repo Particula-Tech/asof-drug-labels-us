@@ -8,7 +8,7 @@ Hematologic Effects
 
 Nervous System
 
-- Patients must be informed that sensory neuropathy occurs frequently with ABRAXANE and patients should advise their healthcare providers of numbness, tingling, pain, or weakness involving the extremities [see Warnings and Precautions (5.2)].
+- Patients must be informed that sensory neuropathy occurs frequently with ABRAXANE and patients should advise their healthcare providers of numbness, tingling, pain or weakness involving the extremities [see Warnings and Precautions (5.2)].
 
 Pneumonitis
 
@@ -20,7 +20,7 @@ Hypersensitivity
 
 Common Adverse Reactions
 
-- Explain to patients that alopecia, fatigue/asthenia, and myalgia/arthralgia occur frequently with ABRAXANE.
+- Explain to patients that alopecia, fatigue/asthenia, and myalgia/arthralgia occur frequently with ABRAXANE
 - Patients should be instructed to contact their healthcare providers for persistent vomiting, diarrhea, or signs of dehydration.
 
 Embryo-Fetal Toxicity

@@ -11,8 +11,8 @@ Administer carboplatin on Day 1 of each 21-day cycle immediately after ABRAXANE 
 
 ## 2.3 Recommended Dosage for Adenocarcinoma of the Pancreas
 
-The recommended dose of ABRAXANE is 125 mg/m2 administered as an intravenous infusion over 30-40 minutes on Days 1, 8, and 15 of each 28-day cycle.
-Administer gemcitabine immediately after ABRAXANE on Days 1, 8, and 15 of each 28-day cycle [see Clinical Studies (14.3)].
+The recommended dose of ABRAXANE is 125 mg/m2 administered as an intravenous infusion over 30-40 minutes on Days 1, 8 and 15 of each 28-day cycle.
+Administer gemcitabine immediately after ABRAXANE on Days 1, 8 and 15 of each 28-day cycle [see Clinical Studies (14.3)].
 
 ## 2.4 Dosage Modifications for Hepatic Impairment
 
@@ -103,7 +103,7 @@ Table 5: Dose Modifications for Other Adverse Reactions in Patients with Adenoca
 ABRAXANE is a cytotoxic drug.
 Follow applicable special handling and disposal procedures.1 The use of gloves is recommended.
 If ABRAXANE (lyophilized cake or reconstituted suspension) contacts the skin, wash the skin immediately and thoroughly with soap and water.
-Following topical exposure to paclitaxel, events may include tingling, burning, and redness.
+Following topical exposure to paclitaxel, events may include tingling, burning and redness.
 If ABRAXANE contacts mucous membranes, the membranes should be flushed thoroughly with water.
 
 Given the possibility of extravasation, it is advisable to closely monitor the infusion site for possible infiltration during drug administration.
@@ -135,7 +135,7 @@ The use of specialized DEHP-free solution containers or administration sets is n
 The use of medical devices containing silicone oil as a lubricant (ie, syringes and intravenous bags) to reconstitute and administer ABRAXANE may result in the formation of proteinaceous strands.
 
 Visually inspect the reconstituted ABRAXANE suspension in the intravenous bag prior to administration.
-Discard the reconstituted suspension if proteinaceous strands, particulate matter, or discoloration are observed.
+Discard the reconstituted suspension if proteinaceous strands, particulate matter or discoloration are observed.
 
 ## 2.8 Stability
 
