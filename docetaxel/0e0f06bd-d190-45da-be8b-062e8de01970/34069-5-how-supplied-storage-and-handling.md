@@ -22,5 +22,5 @@ After initial puncture, Docetaxel Injection multiple-dose vials are stable for 2
 
 ## 16.3 Handling and Disposal
 
-Procedures for proper handling and disposal of anticancer drugs should be considered.
-Several guidelines on this subject have been published [see References (15)].
+Docetaxel Injection is a cytotoxic drug.
+Follow applicable special handling and disposal procedures.1
