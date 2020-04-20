@@ -146,3 +146,7 @@ Because of the potential for serious adverse reactions in nursing infants, a dec
 There are no well-controlled clinical trials in pediatric patients.
 Information on dosing in this age group is supported by evidence from empiric use in pediatric patients and published literature regarding the treatment of hypertension in such patients.
 (See DOSAGE AND ADMINISTRATION, Infants and Children).
+
+## Information for Patients
+
+Non-melanoma Skin Cancer: Instruct patients taking hydrochlorothiazide to protect skin from the sun and undergo regular skin cancer screening.
