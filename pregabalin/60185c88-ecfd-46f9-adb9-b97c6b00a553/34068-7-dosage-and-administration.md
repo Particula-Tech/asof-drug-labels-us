@@ -4,7 +4,7 @@
 
 LYRICA is given orally with or without food.
 
-When discontinuing LYRICA, taper gradually over a minimum of 1 week [see Warnings and Precautions (5.3)].
+When discontinuing LYRICA, taper gradually over a minimum of 1 week [see Warnings and Precautions (5.6)].
 
 Because LYRICA is eliminated primarily by renal excretion, adjust the dose in adult patients with reduced renal function [see Dosage and Administration (2.7)].
 
