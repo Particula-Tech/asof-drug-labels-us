@@ -1,16 +1,16 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-Prior to initiating Aveed, confirm the diagnosis of hypogonadism by ensuring that serum testosterone concentrations have been measured in the morning on at least two separate days and that these serum testosterone concentrations are below the normal range.
+Prior to initiating AVEED, confirm the diagnosis of hypogonadism by ensuring that serum testosterone concentrations have been measured in the morning on at least 2 separate days and that these serum testosterone concentrations are below the normal range.
 
 ## 2.1 Dosage
 
-Aveed is for intramuscular use only.
+AVEED is for intramuscular use only.
 Dosage titration is not necessary.
 
-Inject Aveed deeply into the gluteal muscle following the usual precautions for intramuscular administration; care must be taken to avoid intravascular injection [see Dosage and Administration (2.3)].
-Intravascular injection of Aveed may lead to pulmonary oil microembolism [see Warnings and Precautions (5.1)].
+Inject AVEED deeply into the gluteal muscle following the usual precautions for intramuscular administration; care must be taken to avoid intravascular injection [see Dosage and Administration (2.3)].
+Intravascular injection of AVEED may lead to POME [see Warnings and Precautions (5.1)].
 
-The recommended dose of Aveed is 3 mL (750 mg) injected intramuscularly, followed by 3 mL (750 mg) injected after 4 weeks, then 3 mL (750 mg) injected every 10 weeks thereafter.
+The recommended dose of AVEED is 3 mL (750 mg) injected intramuscularly, followed by 3 mL (750 mg) injected after 4 weeks, then 3 mL (750 mg) injected every 10 weeks thereafter.
 
 ## 2.2 Preparation Instructions
 
@@ -20,14 +20,14 @@ Carefully remove the gray plastic cap from the top of the vial by lifting it up 
 Remove only the gray plastic cap while leaving the aluminum metal ring and crimp seal around the gray rubber stopper in place.
 To facilitate the removal of medication from the vial, you can draw 3 mL of air into the syringe and inject it through the gray rubber stopper into the vial to create positive pressure within the vial chamber.
 
-Withdraw 3 mL (750 mg) of Aveed solution from the vial.
+Withdraw 3 mL (750 mg) of AVEED solution from the vial.
 Expel excess air bubbles from the syringe.
 Replace the syringe needle used to draw up the solution from the vial with a new intramuscular needle and inject.
 Discard any unused portion in the vial.
 
 ## 2.3 Administration Instructions
 
-The site for injection for Aveed is the gluteus medius muscle site located in the upper outer quadrant of the buttock.
+The site for injection for AVEED is the gluteus medius muscle site located in the upper outer quadrant of the buttock.
 Care must be taken to avoid the needle hitting the superior gluteal arteries and sciatic nerve.
 Between consecutive injections, alternate the injection site between left and right buttock.
 
@@ -45,4 +45,4 @@ Withdraw the needle.
 Immediately upon removal of the needle from the muscle, apply gentle pressure with a sterile pad to the injection site.
 If there is bleeding at the site of injection, apply a bandage.
 
-Following each injection of Aveed, observe patients in the healthcare setting for 30 minutes in order to provide appropriate medical treatment in the event of serious POME reactions or anaphylaxis [see Warnings and Precautions (5.1)].
+Following each injection of AVEED, observe patients in the healthcare setting for 30 minutes in order to provide appropriate medical treatment in the event of serious POME reactions or anaphylaxis [see Warnings and Precautions (5.1)].

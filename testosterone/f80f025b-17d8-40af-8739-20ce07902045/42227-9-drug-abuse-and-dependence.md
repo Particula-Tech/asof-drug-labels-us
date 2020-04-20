@@ -2,7 +2,7 @@
 
 ## 9.1 Controlled Substance
 
-Aveed contains testosterone, a Schedule III controlled substance in the Controlled Substances Act.
+AVEED contains testosterone, a Schedule III controlled substance in the Controlled Substances Act.
 
 ## 9.2 Abuse
 
@@ -13,7 +13,7 @@ There have been reports of misuse of men taking higher doses of legally obtained
 
 Abuse-Related Adverse Reactions
 
-Serious adverse reactions have been reported in individuals who abuse anabolic androgenic steroids, and include cardiac arrest, myocardial infarction, hypertrophic cardiomyopathy, congestive heart failure, cerebrovascular accident, hepatotoxicity, and serious psychiatric manifestations, including major depression, mania, paranoia, psychosis, delusions, hallucinations, hostility and aggression.
+Serious adverse reactions have been reported in individuals who abuse anabolic androgenic steroids, and include cardiac arrest, myocardial infarction, hypertrophic cardiomyopathy, congestive heart failure, cerebrovascular accident, hepatotoxicity, and serious psychiatric manifestations, including major depression, mania, paranoia, psychosis, delusions, hallucinations, hostility, and aggression.
 
 The following adverse reactions have also been reported in men: transient ischemic attacks, convulsions, hypomania, irritability, dyslipidemias, testicular atrophy, subfertility, and infertility.
 
@@ -37,8 +37,6 @@ Continued abuse of testosterone and other anabolic steroids, leading to addictio
 - Experiencing withdrawal symptoms upon abrupt discontinuation of use
 
 Physical dependence is characterized by withdrawal symptoms after abrupt drug discontinuation or a significant dose reduction of a drug.
-Individuals taking supratherapeutic doses of testosterone may experience withdrawal symptoms lasting for weeks or months which include depressed mood, major depression, fatigue, craving, restlessness, irritability, anorexia, insomnia, decreased libido and hypogonadotropic hypogonadism.
+Individuals taking supratherapeutic doses of testosterone may experience withdrawal symptoms lasting for weeks or months which include depressed mood, major depression, fatigue, craving, restlessness, irritability, anorexia, insomnia, decreased libido, and hypogonadotropic hypogonadism.
 
 Drug dependence in individuals using approved doses of testosterone for approved indications has not been documented.
-
-.

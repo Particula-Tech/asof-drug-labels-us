@@ -4,16 +4,16 @@
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
 
-Aveed was evaluated in an 84-week clinical study using a dose regimen of 750 mg (3 mL) at initiation, at 4 weeks, and every 10 weeks thereafter in 153 hypogonadal men.
+AVEED was evaluated in an 84-week clinical study using a dose regimen of 750 mg (3 mL) at initiation, at 4 weeks, and every 10 weeks thereafter in 153 hypogonadal men.
 The most commonly reported adverse reactions (>2%) were: acne (5.2%), injection site pain (4.6%), prostate specific antigen increased (4.6%), hypogonadism (2.6%) and estradiol increased (2.6%).
 
 Table 1 presents adverse reactions reported by ≥1% of patients in the 84-week clinical study.
 
-Table 1: Adverse Reactions Reported in at Least 1% of Patients in the 84-Week Clinical Study of Aveed
+Table 1: Adverse Reactions Reported in at Least 1% of Patients in the 84-Week Clinical Study of AVEED
 
-| MedDRA Preferred term | Number of patients (%) |
+| MedDRA Preferred Term | Number of Patients (%) |
 | --- | --- |
-| Aveed 750 mg (N=153) |  |
+| AVEED 750 mg (N=153) |  |
 | Acne | 8 (5.2%) |
 | Injection site pain | 7 (4.6%) |
 | Prostatic specific antigen increased* | 7 (4.6%) |
@@ -39,7 +39,7 @@ In the 84-week clinical trial, 7 patients (4.6%) discontinued treatment because 
 Adverse reactions leading to discontinuation included: hematocrit increased, estradiol increased, prostatic specific antigen increased, prostate cancer, mood swings, prostatic dysplasia, acne, and deep vein thrombosis.
 
 During the 84-week clinical trial, the average serum PSA increased from 1.0 ± 0.8 ng/mL at baseline to 1.5 ± 1.3 ng/mL at the end of study.
-Fourteen (14)patients (10.9%) in whom the baseline PSA was < 4 ng/mL had a post-baseline serum PSA of > 4 ng/mL during the 84-week treatment period.
+Fourteen (14) patients (10.9%) in whom the baseline PSA was < 4 ng/mL had a post-baseline serum PSA of > 4 ng/mL during the 84-week treatment period.
 
 A total of 725 hypogonadal men received intramuscular testosterone undecanoate in a total of 7 controlled clinical trials.
 In these clinical trials, the dose and dose frequency of intramuscular testosterone undecanoate varied from 750 mg to 1000 mg, and from every 9 weeks to every 14 weeks.
@@ -48,20 +48,20 @@ In addition to those adverse reactions noted in Table 1, the following adverse e
 
 Pulmonary Oil Microembolism (POME) and Anaphylaxis in Controlled Clinical Studies
 
-Adverse events attributable to pulmonary oil microembolism and anaphylaxis were reported in a small number of patients in controlled clinical trials.
-In the 84-week clinical trial of Aveed, 1 patient experienced a mild coughing fit lasting 10 minutes after his third injection, which was retrospectively attributed to POME.
+Adverse events attributable to POME and anaphylaxis were reported in a small number of patients in controlled clinical trials.
+In the 84-week clinical trial of AVEED, 1 patient experienced a mild coughing fit lasting 10 minutes after his third injection, which was retrospectively attributed to POME.
 In another clinical trial of intramuscular testosterone undecanoate (1000 mg), a hypogonadal male patient experienced the urge to cough and respiratory distress at 1 minute after his tenth injection, which was also retrospectively attributed to POME.
 
 During a review that involved adjudication of all cases meeting specific criteria, 9 POME events in 8 patients and 2 events of anaphylaxis among 3,556 patients treated with intramuscular testosterone undecanoate in 18 clinical trials were judged to have occurred.
 
 ## 6.2 Postmarketing Experience
 
-The following adverse reactions have been identified during post-approval use of Aveed.
+The following adverse reactions have been identified during post-approval use of AVEED.
 Because the reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 Pulmonary Oil Microembolism (POME) and Anaphylaxis
 
-Serious pulmonary oil microembolism (POME) reactions, involving cough, urge to cough, dyspnea, hyperhidrosis, throat tightening, chest pain, dizziness, and syncope, have been reported to occur during or immediately after the injection of intramuscular testosterone undecanoate 1000 mg (4 mL) in post-approval use outside the United States.
+Serious POME reactions, involving cough, urge to cough, dyspnea, hyperhidrosis, throat tightening, chest pain, dizziness, and syncope, have been reported to occur during or immediately after the injection of intramuscular testosterone undecanoate 1000 mg (4 mL) in post-approval use outside the United States.
 The majority of these events lasted a few minutes and resolved with supportive measures; however, some lasted up to several hours and some required emergency care and/or hospitalization.
 
 In addition to serious POME reactions, episodes of anaphylaxis, including life-threatening reactions, have also been reported to occur following the injection of intramuscular testosterone undecanoate in post-approval use outside of the United States.

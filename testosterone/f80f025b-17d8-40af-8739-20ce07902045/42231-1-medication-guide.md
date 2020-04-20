@@ -52,7 +52,7 @@ AVEED is only for adult males who need testosterone replacement therapy and when
 
 Your healthcare provider will test your blood before you start and while you are taking AVEED.
 
-It is not known if AVEEDis safe or effective to treat men who have low testosterone due to aging.
+It is not known if AVEED is safe or effective to treat men who have low testosterone due to aging.
 
 It is not known if AVEED is safe and effective for use in children younger than 18 years old.
 Improper use of AVEED may affect bone growth in children.
@@ -66,8 +66,8 @@ Do not receive AVEED if you:
 
 - have breast cancer
 - have or might have prostate cancer
-- are pregnant or may become pregnant or are breastfeeding.
-  AVEED may harm your unborn or breastfeeding baby.
+- are pregnant.
+  AVEED may harm your unborn baby.
 - are allergic to AVEED or to any of the ingredients in AVEED.
   See the end of this leaflet for a complete list of ingredients in AVEED.
 
@@ -102,7 +102,7 @@ How will I receive AVEED?
 See “What is the most important information I should know about AVEED?”
 
 Your doctor will inject AVEED deep into the muscle of your buttock.
-You will get 1 injection when you start, 1 injection 4 weeks later and then 1 injection every 10 weeks.
+You will get 1 injection when you start, 1 injection 4 weeks later, and then 1 injection every 10 weeks.
 
 Your doctor will test your blood before you receive and while you are receiving AVEED.
 
@@ -167,8 +167,8 @@ If you would like more information, talk with your doctor.
 You can ask your doctor or nurse for information about AVEED that is written for health professionals.
 For more information, go to www.AVEEDUSA.com or call 1-800-462-3636.
 
-What are the ingredients in Aveed?
-Active ingredient: testosterone undecanoate Inactive ingredients: refined castor oil, benzyl benzoate
+What are the ingredients in AVEED?
+Active ingredient: testosterone undecanoate Inactive ingredients: benzyl benzoate, refined castor oil
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
@@ -176,6 +176,6 @@ Distributed by: Endo Pharmaceuticals Inc. Malvern, PA 19355
 
 AVEED is a registered trademark of Endo Pharmaceuticals Inc. or one of its affiliates
 
-© 2019 Endo Pharmaceuticals Inc. All rights reserved.
+© 2020 Endo Pharmaceuticals Inc. All rights reserved.
 
-Revised: 10/2019
+Revised: 04/2020
