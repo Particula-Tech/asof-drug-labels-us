@@ -49,7 +49,7 @@ The estimated average daily infant dose of pregabalin from breast milk (assuming
 The study did not evaluate the effects of pregabalin on milk production or the effects of pregabalin on the breastfed infant.
 
 Based on animal studies, there is a potential risk of tumorigenicity with pregabalin exposure via breast milk to the breastfed infant [see Nonclinical Toxicology (13.1)].
-Available clinical study data in patients greater than 12 years of age do not provide a clear conclusion about the potential risk of tumorigenicity with pregabalin [see Warnings and Precautions (5.8)].
+Available clinical study data in patients greater than 12 years of age do not provide a clear conclusion about the potential risk of tumorigenicity with pregabalin [see Warnings and Precautions (5.9)].
 Because of the potential risk of tumorigenicity, breastfeeding is not recommended during treatment with LYRICA CR.
 
 Data

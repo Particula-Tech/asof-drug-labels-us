@@ -1,4 +1,4 @@
 This product's label may have been updated.
 For current full prescribing information, please visit www.pfizer.com.
 
-LAB-0769-2.0
+LAB-0769-3.0

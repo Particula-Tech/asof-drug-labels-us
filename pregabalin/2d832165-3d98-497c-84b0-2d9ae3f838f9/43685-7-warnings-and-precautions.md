@@ -53,7 +53,33 @@ Should suicidal thoughts and behavior emerge during treatment, the prescriber ne
 Inform patients, their caregivers, and families that LYRICA CR can increase the risk of suicidal thoughts and behavior and advise them of the need to be alert for the emergence or worsening of the signs and symptoms of depression, any unusual changes in mood or behavior, or the emergence of suicidal thoughts, behavior, or thoughts about self-harm.
 Report behaviors of concern immediately to healthcare providers.
 
-## 5.4 Peripheral Edema
+## 5.4 Respiratory Depression
+
+There is evidence from case reports, human studies, and animal studies associating pregabalin with serious, life-threatening, or fatal respiratory depression when co-administered with central nervous system (CNS) depressants, including opioids, or in the setting of underlying respiratory impairment.
+When the decision is made to co-prescribe LYRICA CR with another CNS depressant, particularly an opioid, or to prescribe LYRICA CR to patients with underlying respiratory impairment, monitor patients for symptoms of respiratory depression and sedation, and consider initiating LYRICA CR at a low dose.
+The management of respiratory depression may include close observation, supportive measures, and reduction or withdrawal of CNS depressants (including LYRICA CR).
+
+There is more limited evidence from case reports, animal studies, and human studies associating pregabalin with serious respiratory depression, without co-administered CNS depressants or without underlying respiratory impairment.
+
+## 5.5 Dizziness and Somnolence
+
+LYRICA CR may cause dizziness and somnolence.
+Inform patients that LYRICA CR-related dizziness and somnolence may impair their ability to perform tasks such as driving or operating machinery.
+Concomitant use of LYRICA CR with other central nervous system (CNS) depressants may exacerbate these effects [see Drug Interactions (7)].
+
+In the LYRICA CR controlled trials for pain indications, dizziness was experienced by 24% of LYRICA CR-treated patients during the single-blind phase; somnolence was experienced by 15.8% of LYRICA CR-treated patients.
+Dizziness and somnolence generally began shortly after the initiation of LYRICA CR therapy and occurred more frequently at higher doses.
+Dizziness and somnolence were the adverse reactions most frequently leading to withdrawal (2.4%, 1.2% each) during the single-blind phase of the controlled studies.
+In LYRICA-treated patients reporting these adverse reactions in short-term, controlled studies, dizziness persisted until the last dose in 30% and somnolence persisted until the last dose in 42% of patients.
+
+## 5.6 Risks Associated with Abrupt or Rapid Discontinuation
+
+Following abrupt or rapid discontinuation of LYRICA CR, some patients reported symptoms including, insomnia, nausea, headache, anxiety, and diarrhea.
+Increased seizure frequency may occur in patients with seizure disorders taking LYRICA CR for pain if LYRICA CR is rapidly discontinued.
+Taper LYRICA CR gradually over a minimum of 1 week rather than discontinuing the drug abruptly.
+The efficacy of LYRICA CR as adjunctive therapy for adult patients with partial onset seizures has not been established.
+
+## 5.7 Peripheral Edema
 
 LYRICA CR treatment may cause peripheral edema.
 In short-term trials of patients without clinically significant heart or peripheral vascular disease, there was no apparent association between peripheral edema and cardiovascular complications such as hypertension or congestive heart failure.
@@ -71,18 +97,7 @@ As the thiazolidinedione class of antidiabetic drugs can cause weight gain and/o
 
 Because there are limited data on congestive heart failure patients with New York Heart Association (NYHA) Class III or IV cardiac status, monitor these patients for possible exacerbation of congestive heart failure symptoms when using LYRICA CR.
 
-## 5.5 Dizziness and Somnolence
-
-LYRICA CR may cause dizziness and somnolence.
-Inform patients that LYRICA CR-related dizziness and somnolence may impair their ability to perform tasks such as driving or operating machinery.
-Concomitant use of LYRICA CR with other central nervous system (CNS) depressants may exacerbate these effects [see Drug Interactions (7)].
-
-In the LYRICA CR controlled trials for pain indications, dizziness was experienced by 24% of LYRICA CR-treated patients during the single-blind phase; somnolence was experienced by 15.8% of LYRICA CR-treated patients.
-Dizziness and somnolence generally began shortly after the initiation of LYRICA CR therapy and occurred more frequently at higher doses.
-Dizziness and somnolence were the adverse reactions most frequently leading to withdrawal (2.4%, 1.2% each) during the single-blind phase of the controlled studies.
-In LYRICA-treated patients reporting these adverse reactions in short-term, controlled studies, dizziness persisted until the last dose in 30% and somnolence persisted until the last dose in 42% of patients.
-
-## 5.6 Weight Gain
+## 5.8 Weight Gain
 
 LYRICA CR treatment may cause weight gain.
 In LYRICA CR controlled trials for pain indications, weight gain was experienced by 4% of LYRICA CR-treated patients during the single-blind phase.
@@ -91,7 +106,7 @@ Adverse events of weight gain were observed in 3.7% of LYRICA CR-treated patient
 In LYRICA controlled clinical trials of up to 14 weeks a gain of 7% or more over baseline weight was observed in 9% of LYRICA-treated patients and 2% of placebo-treated patients.
 Few patients treated with LYRICA (0.3%) withdrew from controlled trials due to weight gain.
 In studies with LYRICA, associated weight gain was related to pregabalin dose and duration of exposure, but did not appear to be associated with baseline BMI, gender, or age.
-Weight gain was not limited to patients with edema [see Warnings and Precautions (5.4)].
+Weight gain was not limited to patients with edema [see Warnings and Precautions (5.7)].
 
 Although weight gain was not associated with clinically important changes in blood pressure in short-term controlled studies with LYRICA, the long-term cardiovascular effects of pregabalin-associated weight gain are unknown.
 
@@ -100,14 +115,7 @@ In a cohort of 333 diabetic patients who received LYRICA for at least 2 years, t
 
 While the effects of pregabalin-associated weight gain on glycemic control have not been systematically assessed, in controlled and longer-term open-label clinical trials with diabetic patients, LYRICA treatment did not appear to be associated with loss of glycemic control (as measured by HbA1C).
 
-## 5.7 Risks Associated with Abrupt or Rapid Discontinuation
-
-Following abrupt or rapid discontinuation of LYRICA CR, some patients reported symptoms including, insomnia, nausea, headache, anxiety, and diarrhea.
-Increased seizure frequency may occur in patients with seizure disorders taking LYRICA CR for pain if LYRICA CR is rapidly discontinued.
-Taper LYRICA CR gradually over a minimum of 1 week rather than discontinuing the drug abruptly.
-The efficacy of LYRICA CR as adjunctive therapy for adult patients with partial onset seizures has not been established.
-
-## 5.8 Tumorigenic Potential
+## 5.9 Tumorigenic Potential
 
 In standard preclinical in vivo lifetime carcinogenicity studies of pregabalin, an unexpectedly high incidence of hemangiosarcoma was identified in 2 different strains of mice [see Nonclinical Toxicology (13.1)].
 The clinical significance of this finding is unknown.
@@ -116,7 +124,7 @@ Clinical experience during premarketing development of LYRICA provides no direct
 In clinical studies across various patient populations, comprising 6396 patient-years of exposure in patients greater than 12 years of age, new or worsening-preexisting tumors were reported in 57 patients.
 Without knowledge of the background incidence and recurrence in similar populations not treated with pregabalin, it is impossible to know whether the incidence seen in these cohorts is or is not affected by treatment.
 
-## 5.9 Ophthalmological Effects
+## 5.10 Ophthalmological Effects
 
 In controlled studies for pain indications, 4.8% of patients treated with LYRICA CR in the single-blind phase reported blurred vision, which resolved in a majority of cases with continued dosing.
 Less than 1% of patients discontinued LYRICA CR treatment due to vision-related events (primarily blurred vision).
@@ -131,7 +139,7 @@ Although the clinical significance of the ophthalmologic findings is unknown, in
 If visual disturbance persists, consider further assessment.
 Consider more frequent assessment for patients who are already routinely monitored for ocular conditions.
 
-## 5.10 Creatine Kinase Elevations
+## 5.11 Creatine Kinase Elevations
 
 LYRICA treatment was associated with creatine kinase elevations.
 Mean changes in creatine kinase from baseline to the maximum value were 60 U/L for LYRICA-treated patients and 28 U/L for the placebo patients.
@@ -141,7 +149,7 @@ The relationship between these myopathy events and LYRICA is not completely unde
 Instruct patients to promptly report unexplained muscle pain, tenderness, or weakness, particularly if these muscle symptoms are accompanied by malaise or fever.
 Discontinue treatment with LYRICA CR if myopathy is diagnosed or suspected or if markedly elevated creatine kinase levels occur.
 
-## 5.11 Decreased Platelet Count
+## 5.12 Decreased Platelet Count
 
 Both LYRICA CR and LYRICA treatment were associated with a decrease in platelet count.
 In the double-blind phase of controlled studies for pain indication, LYRICA CR-treated patients experienced a median change from baseline in platelet count of 11 × 103/mm3 (for the PHN population) and 14 × 103/mm3 (for the FM population) as compared to 1 × 103/mm3 in placebo-treated patients (for both populations).
@@ -150,7 +158,7 @@ In the overall database of controlled trials, 2% of placebo patients and 3% of L
 A single LYRICA-treated subject developed severe thrombocytopenia with a platelet count less than 20 × 103/µL.
 In randomized controlled trials, LYRICA or LYRICA CR were not associated with an increase in bleeding-related adverse reactions.
 
-## 5.12 PR Interval Prolongation
+## 5.13 PR Interval Prolongation
 
 LYRICA treatment was associated with PR interval prolongation.
 In analyses of clinical trial ECG data, the mean PR interval increase was 3–6 msec at pregabalin doses greater than or equal to 300 mg/day.
@@ -159,7 +167,7 @@ This mean change difference was not associated with an increased risk of PR incr
 Subgroup analyses did not identify an increased risk of PR prolongation in patients with baseline PR prolongation or in patients taking other PR prolonging medications.
 However, these analyses cannot be considered definitive because of the limited number of patients in these categories.
 
-## 5.13 Concomitant Use with Opioids
+## 5.14 Concomitant Use with Opioids
 
 Caution is advised when prescribing pregabalin concomitantly with opioids due to risk of CNS depression.
 In an observational study of opioid users, those patients who took pregabalin concomitantly with an opioid had an increased risk for opioid-related death compared to opioid use alone (adjusted odds ratio [aOR], 1.68 [95% CI, 1.19 to 2.36]).
