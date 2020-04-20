@@ -50,6 +50,11 @@ Gabapentin can cause serious side effects including:
   - unexpected muscle pain
   - frequent infections
 
+- 4.Serious breathing problems.
+  Serious breathing problems can occur when gabapentin is taken with other medicines that can cause severe sleepiness or decreased awareness, or when it is taken by someone who already has breathing problems.
+  Watch for increased sleepiness or decreased breathing when starting gabapentin or when the dose is increased.
+  Get help right away if breathing problems occur.
+
 What is gabapentin?
 
 Gabapentin is a prescription medicine used to treat:
@@ -69,6 +74,7 @@ Before taking gabapentin, tell your healthcare provider if you:
 - have or have had kidney problems or are on hemodialysis
 - have or have had depression, mood problems, or suicidal thoughts or behavior
 - have diabetes
+- have breathing problems
 - are pregnant or plan to become pregnant.
   It is not known if gabapentin can harm your unborn baby.
   Tell your healthcare provider right away if you become pregnant while taking gabapentin.
@@ -81,6 +87,9 @@ Before taking gabapentin, tell your healthcare provider if you:
   You and your healthcare provider should decide how you will feed your baby while you take gabapentin.
 
 Tell your healthcare provider about all the medicines you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements.
+Especially tell your healthcare provider if you take any opioid pain medicine (such as oxycodone), any medicines for anxiety (such as lorazepam) or insomnia (such as zolpidem), or any medicines that make you sleepy.
+
+You may have a higher chance for dizziness, sleepiness, or breathing problems if these medicines are taken with gabapentin.
 
 Taking gabapentin with certain other medicines can cause side effects or affect how well they work.
 Do not start or stop other medicines without talking to your healthcare provider.
@@ -166,4 +175,4 @@ This Medication Guide has been approved by the U.S. Food and Drug Administration
 This product's label may have been updated.
 For current full prescribing information, please visit www.greenstonellc.com.
 
-LAB-0437-11.0 Revised November 2017
+LAB-0437-12.0 Revised 04/2020
