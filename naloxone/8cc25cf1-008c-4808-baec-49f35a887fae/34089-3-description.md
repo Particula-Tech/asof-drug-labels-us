@@ -7,6 +7,6 @@ Naloxone hydrochloride occurs as a white to slightly off-white powder, and is so
 
 Naloxone Hydrochloride Injection, USP is available as a sterile solution for intravenous, intramuscular and subcutaneous administration in the concentration 0.4 mg of naloxone hydrochloride per mL.
 
-pH is adjusted to 3.0 ± 6.5 with hydrochloric acid.
+pH is adjusted to 3.0 to 6.5 with hydrochloric acid.
 
 The 0.4 mg/mL vial contains 8.6 mg/mL of sodium chloride and 2 mg/mL of methylparaben and propylparaben as preservatives in a ratio of 9:1.
