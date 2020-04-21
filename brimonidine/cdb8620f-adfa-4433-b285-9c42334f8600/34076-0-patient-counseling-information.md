@@ -25,20 +25,14 @@ Potential for Decreased Mental Alertness
 As with other similar medications, Brimonidine tartrate ophthalmic solution may cause fatigue and/or drowsiness in some patients.
 Caution patients who engage in hazardous activities of the potential for a decrease in mental alertness.
 
-Manufactured by:
-
-Wintac Limited
-
-Bangalore 562123
-
-India
-
-Code No.: KR/DRUGS/KTK/28/289/97
-
 Manufactured for:
 
 Somerset Therapeutics, LLC
 
-Somerset, NJ 08873
+Hollywood, FL 33024
 
-ST-BRM/P/00
+Made in India
+
+Code No.:KR/DRUGS/KTK/28/289/97
+
+ST-BRM/P/01
