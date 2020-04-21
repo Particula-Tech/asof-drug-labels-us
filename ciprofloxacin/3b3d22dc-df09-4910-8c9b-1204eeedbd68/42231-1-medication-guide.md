@@ -15,21 +15,32 @@ If you get any of the following serious side effects while you take ciprofloxaci
 Tendon rupture or swelling of the tendon (tendinitis).
 
 • Tendon problems can happen in people of all ages who take ciprofloxacin tablets.
-
 Tendons are tough cords of tissue that connect muscles to bones.
 Symptoms of tendon problems may include:
 
-○ Pain, swelling, tears and swelling of the tendons including the back of the ankle (Achilles), shoulder, hand, or other tendon sites.
+○ Pain
+
+○ swelling
+
+○ tears and swelling of the tendons including the back of the ankle (Achilles), shoulder, hand, thumb, or other tendon sites.
 
 • The risk of getting tendon problems while you take ciprofloxacin tablets is higher if you:
 
-○ are over 60 years of age ○ are taking steroids (corticosteroids) ○ have had a kidney, heart or lung transplant
+○ are over 60 years of age
+
+○ are taking steroids (corticosteroids)
+
+○ have had a kidney, heart or lung transplant
 
 • Tendon problems can happen in people who do not have the above risk factors when they take ciprofloxacin tablets.
 
 • Other reasons that can increase your risk of tendon problems can include:
 
-○ physical activity or exercise ○ kidney failure ○ tendon problems in the past, such as in people with rheumatoid arthritis (RA)
+○ physical activity or exercise
+
+○ kidney failure
+
+○ tendon problems in the past, such as in people with rheumatoid arthritis (RA)
 
 • Stop taking ciprofloxacin tablets immediately and get medical help right away at the first sign of tendon pain, swelling or inflammation.
 
@@ -41,7 +52,13 @@ Tendon ruptures can happen within hours or days of taking ciprofloxacin tablets 
 
 • Stop taking ciprofloxacin tablets immediately and get medical help right away if you get any of the following signs or symptoms of a tendon rupture:
 
-○ hear or feel a snap or pop in a tendon area ○ bruising right after an injury in a tendon area ○ unable to move the affected area or bear weight
+○ hear or feel a snap or pop in a tendon area
+
+○ bruising right after an injury in a tendon area
+
+○ unable to move the affected area or bear weight
+
+The tendon problems may be permanent.
 
 2.
 Changes in sensation and possible nerve damage (Peripheral Neuropathy).
@@ -57,14 +74,13 @@ Ciprofloxacin tablets may need to be stopped to prevent permanent nerve damage.
 
 3.
 Central Nervous System (CNS) effects.
-Seizures have been reported in people who take fluoroquinolone antibacterial medicines, including ciprofloxacin tablets.
+Mental health problems and seizures have been reported in people who take fluoroquinolone antibacterial medicines, including ciprofloxacin tablets.
 Tell your healthcare provider if you have a history of seizures before you start taking ciprofloxacin tablets.
 CNS side effects may happen as soon as after taking the first dose of ciprofloxacin tablets.
 Stop taking ciprofloxacin tablets immediately and talk to your healthcare provider right away if you get any of these side effects, or other changes in mood or behavior:
 
-- seizures
 - hear voices, see things, or sense things that are not there (hallucinations)
-- feel restless
+- feel restless or agitated
 - tremors
 - feel anxious or nervous
 - confusion
@@ -75,6 +91,10 @@ Stop taking ciprofloxacin tablets immediately and talk to your healthcare provid
 - feel more suspicious (paranoia)
 - suicidal thoughts or acts
 - headaches that will not go away, with or without blurred vision
+- memory problems
+- false or strange thoughts or beliefs (delusions)
+
+The CNS changes may be permanent.
 
 4.
 Worsening of myasthenia gravis (a problem that causes muscle weakness).
@@ -107,7 +127,7 @@ These bacterial infections include:
 
 • Ciprofloxacin tablets should not be used in patients with acute exacerbation of chronic bronchitis, acute uncomplicated cystitis, and sinus infections, if there are other treatment options available.
 
-• Ciprofloxacin tablets should not be used as the first choice of antibacterial medicine to treat lower respiratory tract infections cause by a certain type of bacterial called Streptococcus pneumoniae.
+• Ciprofloxacin tablets should not be used as the first choice of antibacterial medicine to treat lower respiratory tract infections caused by a certain type of bacterial called Streptococcus pneumoniae.
 
 • Ciprofloxacin tablets are also used in children younger than 18 years of age to treat complicated urinary tract and kidney infections or who may have breathed in anthrax germs, have plague or have been exposed to plague germs.
 
@@ -126,38 +146,58 @@ Ask your healthcare provider if you are not sure.
 
 What should I tell my healthcare provider before taking ciprofloxacin tablets?
 
-Before you take Ciprofloxacin tablets, tell your healthcare provider if you:
+Before you take ciprofloxacin tablets, tell your healthcare provider about all your medical conditions, including if you:
 
-- have tendon problems; ciprofloxacin tablets should not be used in patients who have a history of tendon problems
-- have a disease that causes muscle weakness (myasthenia gravis); ciprofloxacin tablets should not be used in patients who have a known history of myasthenia gravis
-- have liver problems
-- have central nervous system problems (such as epilepsy)
-- have nerve problems; ciprofloxacin tablets should not be used in patients who have a history of a nerve problem called peripheral neuropathy
-- have or anyone in your family has an irregular heartbeat, especially a condition called “QT prolongation”
-- have or have had seizures
-- have kidney problems.
-  You may need a lower dose of ciprofloxacin tablets if your kidneys do not work well.
-- have joint problems including rheumatoid arthritis (RA)
-- have trouble swallowing pills
-- have any other medical conditions
-- are pregnant or plan to become pregnant.
-  It is not known if ciprofloxacin tablets will harm your unborn baby.
-- are breastfeeding or plan to breastfeed.
-  Ciprofloxacin tablets passes into breast milk.
-  You and your healthcare provider should decide whether you will take ciprofloxacin tablets or breastfeed.
-  You should not do both.
+• have tendon problems; ciprofloxacin tablets should not be used in patients who have a history of tendon problems
+
+• have a disease that causes muscle weakness (myasthenia gravis); ciprofloxacin tablets should not be used in patients who have a known history of history myasthenia gravis
+
+• have liver problems
+
+• have central nervous system problems (such as epilepsy)
+
+• have nerve problems.
+Ciprofloxacin tablets should not be used in patients who have a history of a nerve problem called peripheral neuropathy have or anyone in your family has an irregular heartbeat, especially a condition called “QT prolongation”.
+
+• have low blood potassium (hypokalemia) or low magnesium (hypomagnesemia).
+
+• have or have had seizures.
+
+• have kidney problems.
+You may need a lower dose of ciprofloxacin tablets if your kidneys do not work well.
+
+• have diabetes or problems with low blood sugar (hypoglycemia).
+
+• have joint problems including rheumatoid arthritis (RA)
+
+• have trouble swallowing pills.
+
+• are pregnant or plan to become pregnant.
+It is not known if ciprofloxacin tablets will harm your unborn baby.
+
+• are breastfeeding or plan to breastfeed.
+Ciprofloxacin tablets passes into your breast milk.
+
+o you should not breastfeed during treatment with ciprofloxacin tablets and for 2 days after taking your last dose of ciprofloxacin tablets.
+You may pump your breast milk and throw it away during treatment with ciprofloxacin tablets and for 2 days after taking your last dose of ciprofloxacin tablets.
+
+o If you are taking ciprofloxacin tablets for inhalation anthrax, you and your healthcare provider should decide whether you can continue breastfeeding while taking ciprofloxacin tablets.
 
 Tell your healthcare provider about all the medicines you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements.
 
 - Ciprofloxacin tablets and other medicines can affect each other causing side effects.
+
 - Especially tell your healthcare provider if you take: o a steroid medicine o an anti-psychotic medicine o a tricyclic antidepressant o a water pill (diuretic) o theophylline (such as Theo-24®, Elixophyllin®, Theochron®, Uniphyl®, Theolair®) o a medicine to control your heart rate or rhythm (antiarrhythmics) o an oral anti-diabetes medicine o phenytoin (Fosphenytoin Sodium®, Cerebyx®, Dilantin-125®, Dilantin®, Extended Phenytoin Sodium®, Prompt Phenytoin Sodium®, Phenytek®) o cyclosporine (Gengraf®, Neoral®, Sandimmune®, Sangcya®). o a blood thinner (such as warfarin, Coumadin®, Jantoven®) o methotrexate (Trexall®) o ropinirole (Requip®) o clozapine (Clozaril®, Fazaclo® ODT®) o a Non-Steroidal Anti-Inflammatory Drug (NSAID).
   Many common medicines for pain relief are NSAIDs.
   Taking an NSAID while you take ciprofloxacin tablets or other fluoroquinolones may increase your risk of central nervous system effects and seizures. o sildenafil (Viagra®, Revatio®) o duloxetine o products that contain caffeine o probenecid (Probalan®, Col-probenecid ®)
 - Certain medicines may keep ciprofloxacin tablets, from working correctly.
   Take ciprofloxacin tablets either 2 hours before or 6 hours after taking these medicines, vitamins, or supplements:
-- an antacid, multivitamin, or other medicine or supplements that has magnesium, calcium, aluminum, iron, or zinc
-- sucralfate (Carafate®)
-- didanosine (Videx®, Videx EC®)
+
+o an antacid, multivitamin, or other medicine or supplements that has magnesium, calcium, aluminum, iron, or zinc
+
+o sucralfate (Carafate®)
+
+o didanosine (Videx®, Videx EC®)
 
 Ask your healthcare provider for a list of these medicines if you are not sure.
 
@@ -167,7 +207,7 @@ Keep a list of them to show your healthcare provider and pharmacist when you get
 How should I take ciprofloxacin tablets?
 
 - Take ciprofloxacin tablets exactly as your healthcare provider tells you to take it.
-- Your healthcare provider will tell you how many ciprofloxacin tablets to take and when to take them.
+- Your healthcare provider will tell you how much ciprofloxacin tablets to take and when to take it.
 - Take ciprofloxacin tablets in the morning and evening at about the same time each day.
   Swallow the tablet whole.
   Do not split, crush or chew the tablet.
@@ -179,13 +219,13 @@ How should I take ciprofloxacin tablets?
   See “What is the most important information I should know about ciprofloxacin tablets?” ○ you have nerve problems.
   See “What is the most important information I should know about ciprofloxacin tablets?” ○ you have central nervous system problems.
   See “What is the most important information I should know about ciprofloxacin tablets?” ○ you have a serious allergic reaction.
-  See “What are the possible side effects of ciprofloxacin tablets?” ○ your healthcare provider tells you to stop taking ciprofloxacin tablets
+  See “What are the possible side effects of ciprofloxacin tablets?” ○ your healthcare provider tells you to stop taking ciprofloxacin tablets.
 
 Taking all of your ciprofloxacin tablets doses will help make sure that all of the bacteria are killed.
 Taking all of your ciprofloxacin tablets doses will help lower the chance that the bacteria will become resistant to ciprofloxacin tablets.
 If you become resistant to ciprofloxacin tablets, ciprofloxacin tablets and other antibacterial medicines may not work for you in the future.
 
-• If you take too many ciprofloxacin tablets, call your healthcare provider or get medical help right away.
+• If you take too much ciprofloxacin tablets, call your healthcare provider or get medical help right away.
 
 What should I avoid while taking ciprofloxacin tablets?
 
@@ -212,7 +252,7 @@ Skin rash may be a sign of a more serious reaction to ciprofloxacin tablets.
 
 - Liver damage (hepatotoxicity).
   Hepatotoxicity can happen in people who take ciprofloxacin tablets.
-  Call your healthcare provider right away if you have unexplained symptoms such as: ○ nausea or vomiting ○ stomach pain ○ fever ○ weakness ○ abdominal pain or tenderness ○ itching ○ unusual tiredness ○ loss of appetite ○ light colored bowel movements ○ dark colored urine ○ yellowing of your skin or the whites of your eyes
+  Call your healthcare provider right away if you have unexplained symptoms such as: ○ nausea or vomiting ○ stomach pain ○ fever ○ weakness ○ abdominal pain or tenderness ○ itching ○ unusual tiredness ○ loss of appetite ○ light colored bowel movements ○ dark colored urine ○ yellowing of the skin and whites of your eyes
 
 Stop taking ciprofloxacin tablets and tell your healthcare provider right away if you have yellowing of your skin or white part of your eyes, or if you have dark urine.
 These can be signs of a serious reaction to ciprofloxacin tablets (a liver problem).
@@ -221,17 +261,17 @@ These can be signs of a serious reaction to ciprofloxacin tablets (a liver probl
   Tell your healthcare provider if you have ever been told that you have an aortic aneurysm, a swelling of the large artery that carries blood from the heart to the body.
   Get emergency medical help right away if you have sudden chest, stomach, or back pain.
 
-- Intestine infection (Pseudomembranous colitis).
-  Pseudomembranous colitis can happen with many antibacterial medicines, including ciprofloxacin tablets.
+- Intestine infection (Clostridioides difficile – associated diarrhea).
+  Clostridiodes difficile-associated diarrhea (CDAD) can happen with many antibacterial medicines, including ciprofloxacin tablets.
   Call your healthcare provider right away if you get watery diarrhea, diarrhea that does not go away, or bloody stools.
   You may have stomach cramps and a fever.
-  Pseudomembranous colitis can happen 2 or more months after you have finished your antibacterial medicine.
+  CDAD can happen 2 or more months after you have finished your antibacterial medicine
 
 - Serious heart rhythm changes (QT prolongation and torsade de pointes).
   Tell your healthcare provider right away if you have a change in your heart beat (a fast or irregular heartbeat), or if you faint.
   Ciprofloxacin tablets may cause a rare heart problem known as prolongation of the QT interval.
   This condition can cause an abnormal heartbeat and can be very dangerous.
-  The chances of this event are higher in people: ○ who are elderly ○ with a family history of prolonged QT interval ○ with low blood potassium (hypokalemia) ○ who take certain medicines to control heart rhythm (antiarrhythmics)
+  The chances of this event are higher in people: ○ who are elderly. ○ with a family history of prolonged QT interval. ○ with low blood potassium (hypokalemia) or low magnesium (hypomagnesemia). ○ who take certain medicines to control heart rhythm (antiarrhythmics).
 - Joint Problems.
   Increased chance of problems with joints and tissues around joints in children under 18 years old can happen.
   Tell your child’s healthcare provider if your child has any joint problems during or after treatment with ciprofloxacin tablets.
@@ -239,12 +279,10 @@ These can be signs of a serious reaction to ciprofloxacin tablets (a liver probl
 - Sensitivity to sunlight (photosensitivity).
   See “What should I avoid while taking ciprofloxacin tablets?”
 
-Changes in blood sugar
-
-- People who take ciprofloxacin tablets and other fluoroquinolone medicines with oral anti-diabetes medicines or with insulin can get low blood sugar (hypoglycemia) and high blood sugar (hyperglycemia).
-  Follow your healthcare provider's instructions for how often to check your blood sugar.
-  If you have diabetes and you get low blood sugar while taking ciprofloxacin tablets, stop taking ciprofloxacin tablets and call your healthcare provider right away.
-  Your antibiotic medicine may need to be changed.
+Changes in blood sugar People who take ciprofloxacin tablets and other fluoroquinolone medicines with oral anti-diabetes medicines or with insulin can get low blood sugar (hypoglycemia) and high blood sugar (hyperglycemia).
+Follow your healthcare provider's instructions for how often to check your blood sugar.
+If you have diabetes and you get low blood sugar while taking ciprofloxacin tablets, stop taking ciprofloxacin tablets and call your healthcare provider right away.
+Your antibiotic medicine may need to be changed.
 
 The most common side effects of ciprofloxacin tablets include:
 
@@ -294,4 +332,4 @@ Distributed by: West-Ward Pharmaceuticals Corp. Eatontown, NJ 07724 USA
 Manufactured by: HIKMA Pharmaceuticals P.O.
 Box 182400 Amman 11118 – Jordan
 
-Revised August 2019
+Revised March 2020

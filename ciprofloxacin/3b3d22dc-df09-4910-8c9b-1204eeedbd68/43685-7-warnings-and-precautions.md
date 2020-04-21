@@ -105,9 +105,9 @@ Instances of nausea, vomiting, tremor, irritability, or palpitation have also oc
 Although similar serious adverse reactions have been reported in patients receiving theophylline alone, the possibility that these reactions may be potentiated by ciprofloxacin tablets cannot be eliminated.
 If concomitant use cannot be avoided, monitor serum levels of theophylline and adjust dosage as appropriate [see Drug Interactions (7)].
 
-## 5.11 Clostridium difficile-Associated Diarrhea
+## 5.11 Clostridioides difficle-Associated Diarrhea
 
-Clostridium difficile (C. difficile)-associated diarrhea (CDAD) has been reported with use of nearly all antibacterial agents, including ciprofloxacin tablets, and may range in severity from mild diarrhea to fatal colitis.
+Clostridioides difficile (C. difficile)-associated diarrhea (CDAD) has been reported with use of nearly all antibacterial agents, including ciprofloxacin tablets, and may range in severity from mild diarrhea to fatal colitis.
 Treatment with antibacterial agents alters the normal flora of the colon leading to overgrowth of C. difficile.
 
 C. difficile produces toxins A and B which contribute to the development of CDAD.
@@ -145,7 +145,7 @@ Discontinue ciprofloxacin tablets if phototoxicity occurs [see Adverse Reactions
 
 Prescribing ciprofloxacin tablets in the absence of a proven or strongly suspected bacterial infection or a prophylactic indication is unlikely to provide benefit to the patient and increases the risk of the development of drug-resistant bacteria.
 
-## 5.16 Potential Risks With Concomitant Use of Drugs Metabolized by Cytochrome P450 1A2 Enzymes
+## 5.16 Potential Risks with Concomitant Use of Drugs Metabolized by Cytochrome P450 1A2 Enzymes
 
 Ciprofloxacin tablets are an inhibitor of the hepatic CYP1A2 enzyme pathway.
 Co-administration of ciprofloxacin tablets and other drugs primarily metabolized by CYP1A2 (for example, theophylline, methylxanthines, caffeine, tizanidine, ropinirole, clozapine, olanzapine and zolpidem), results in increased plasma concentrations of the co-administered drug and could lead to clinically significant pharmacodynamic adverse reactions of the co-administered drug [see Drug Interactions (7) and Clinical Pharmacology (12.3)].
@@ -169,4 +169,4 @@ Hydrate patients well to prevent the formation of highly concentrated urine [see
 Fluoroquinolones, including ciprofloxacin tablets have been associated with disturbances of blood glucose, including symptomatic hyperglycemia and hypoglycemia, usually in diabetic patients receiving concomitant treatment with an oral hypoglycemic agent (for example, glyburide) or with insulin.
 In these patients, careful monitoring of blood glucose is recommended.
 Severe cases of hypoglycemia resulting in coma or death have been reported.
-If a hypoglycemic reaction occurs in a patient being treated with ciprofloxacin tablets, discontinue ciprofloxacin tablets and initiate appropriate therapy immediately [see Adverse Reactions (6.1), Drug Interactions (7)]
+If a hypoglycemic reaction occurs in a patient being treated with ciprofloxacin tablets, discontinue ciprofloxacin tablets and initiate appropriate therapy immediately [see Adverse Reactions (6.1), Drug Interactions (7)].

@@ -11,7 +11,7 @@ Inform patients of the following serious adverse reactions that have been associ
 - Disabling and potentially irreversible serious adverse reactions that may occur together: Inform patients that disabling and potentially irreversible serious adverse reactions, including tendinitis and tendon rupture, peripheral neuropathies, and central nervous system effects, have been associated with use of ciprofloxacin tablets and may occur together in the same patient.
   Inform patients to stop taking ciprofloxacin tablets immediately if they experience an adverse reaction and to call their healthcare provider.
 
-- Tendinitis and tendon rupture: Instruct patients to contact their healthcare provider if they experience pain, swelling, or inflammation of a tendon, or weakness or inability to use one of their joints; rest and refrain from exercise; and discontinue ciprofloxacin tablets treatment.
+- Tendinitisand tendon rupture: Instruct patients to contact their healthcare provider if they experience pain, swelling, or inflammation of a tendon, or weakness or inability to use one of their joints; rest and refrain from exercise; and discontinue ciprofloxacin tablets treatment.
   Symptoms may be irreversible.
   The risk of severe tendon disorder with fluoroquinolones is higher in older patients usually over 60 years of age, in patients taking corticosteroid drugs, and in patients with kidney, heart or lung transplants.
 
@@ -27,8 +27,6 @@ Inform patients of the following serious adverse reactions that have been associ
   Instruct patients to notify their physician if they experience any symptoms of muscle weakness, including respiratory difficulties.
 
 - Hypersensitivity Reactions: Inform patients that ciprofloxacin can cause hypersensitivity reactions, even following a single dose, and to discontinue the drug at the first sign of a skin rash, hives or other skin reactions, a rapid heartbeat, difficulty in swallowing or breathing, any swelling suggesting angioedema (for example, swelling of the lips, tongue, face, tightness of the throat, hoarseness), or other symptoms of an allergic reaction.
-
-- Aortic aneurysm and dissection: Inform patients to seek emergency medical care if they experience sudden chest, stomach, or back pain.
 
 - Hepatotoxicity: Inform patients that severe hepatotoxicity (including acute hepatitis and fatal events) has been reported in patients taking ciprofloxacin tablets.
   Instruct patients to inform their physician if they experience any signs or symptoms of liver injury including: loss of appetite, nausea, vomiting, fever, weakness, tiredness, right upper quadrant tenderness, itching, yellowing of the skin and eyes, light colored bowel movements or dark colored urine.
@@ -60,6 +58,9 @@ Inform patients of the following serious adverse reactions that have been associ
 
 - Blood Glucose Distrubances: Inform the patients that if they are diabetic and are being treated with insulin or an oral hypoglycemic agent and a hypoglycemic reaction occurs, they should discontinue ciprofloxacin tablets and consult a physician.
 
+- Lactation: For indications other than inhalational anthrax (post exposure), advise a woman that breastfeeding is not recommended during treatment with ciprofloxacin tablets and for an additional 2 days after the last dose.
+  Alternatively, a woman may pump and discard during treatment and for additional 2 days after the last dose [see Use in Specific Populations (8.2)].
+
 Antibacterial Resistance
 
 Inform patients that antibacterial drugs including ciprofloxacin tablets should only be used to treat bacterial infections.
@@ -90,4 +91,4 @@ Distributed by: West-Ward Pharmaceuticals Corp. Eatontown, NJ 07724 USA
 Manufactured by: HIKMA Pharmaceuticals P.O.
 Box 182400 Amman 11118 – Jordan
 
-August 2019
+March 2020

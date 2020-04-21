@@ -191,8 +191,8 @@ Gram-positive bacteria Bacillus anthracis Enterococcus faecalis Staphylococcus a
 Gram-negative bacteria Campylobacter jejuni Citrobacter koseri Citrobacter freundii Enterobacter cloacae Escherichia coli Haemophilus influenzae Haemophilus parainfluenzae Klebsiella pneumoniae Moraxella catarrhalis Morganella morganii Neisseria gonorrhoeae Proteus mirabilis Proteus vulgaris Providencia rettgeri Providencia stuartii Pseudomonas aeruginosa Salmonella typhi Serratia marcescens Shigella boydii Shigella dysenteriae Shigella flexneri Shigella sonnei Yersinia pestis
 
 The following in vitro data are available, but their clinical significance is unknown.
-At least 90 percent of the following bacteria exhibit an in vitro minimum inhibitory concentration (MIC) less than or equal to the susceptible breakpoint for ciprofloxacin (≤1 mcg/mL).
-However, the efficacy of ciprofloxacin in treating clinical infections due to these bacteria has not been established in adequate and well-controlled clinical trials.
+At least 90 percent of the following bacteria exhibit an in vitro minimum inhibitory concentration (MIC) less than or equal to the susceptible breakpoint for ciprofloxacin against isolates of similar genus or organism group.
+However, the efficacy of ciprofloxacin in treating clinical infections caused by these bacteria has not been established in adequate and well-controlled clinical trials..
 
 Gram-positive bacteria Staphylococcus haemolyticus (methicillin-susceptible isolates only) Staphylococcus hominis (methicillin-susceptible isolates only)
 

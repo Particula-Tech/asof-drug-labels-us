@@ -12,7 +12,7 @@ The following serious and otherwise important adverse drug reactions are discuss
 - Hepatotoxicity [see Warnings and Precautions (5.8)]
 - Risk of Aortic Aneurysm and Dissection [see Warnings and Precautions (5.9)]
 - Serious Adverse Reactions with Concomitant Theophylline [see Warnings and Precautions (5.10)]
-- Clostridium difficile-Associated Diarrhea [see Warnings and Precautions (5.11)]
+- Clostridioides difficile-Associated Diarrhea [see Warnings and Precautions (5.11)]
 - Prolongation of the QT Interval [see Warnings and Precautions (5.12)]
 - Musculoskeletal Disorders in Pediatric Patients [see Warnings and Precautions (5.13)]
 - Photosensitivity/Phototoxicity [see Warnings and Precautions (5.14)]
@@ -26,13 +26,13 @@ Adult Patients During clinical investigations with oral and parenteral ciproflox
 
 The most frequently reported adverse reactions, from clinical trials of all formulations, all dosages, all drug-therapy durations, and for all indications of ciprofloxacin therapy were nausea (2.5%), diarrhea (1.6%), liver function tests abnormal (1.3%), vomiting (1%), and rash (1%).
 
-Table 8: Medically Important Adverse Reactions That Occurred In less than 1% of Ciprofloxacin Patients
+Table 8: Medically Important Adverse Reactions That Occurred in less than 1% of Ciprofloxacin Patients
 
 | System Organ Class | Adverse Reactions |
 | --- | --- |
 | Body as a Whole | Headache Abdominal Pain/Discomfort Pain |
 | Cardiovascular | Syncope Angina Pectoris Myocardial Infarction Cardiopulmonary Arrest Tachycardia Hypotension |
-| Central Nervous System | Restlessness Dizziness Insomnia Nightmares Hallucinations Paranoia Psychosis (toxic) Manic Reaction Irritability Tremor Ataxia Seizures (including Status Epilepticus) Malaise Anorexia Phobia Depersonalization Depression (potentially culminating in self-injurious behavior, such as suicidal ideations/thoughts and attempted or completed suicide) Paresthesia Abnormal Gait Migraine |
+| Central Nervous System | Restlessness Dizziness Insomnia Nightmares Hallucinations Paranoia Psychosis (toxic) Manic Reaction Irritability Tremor Ataxia Seizures (including Status Epilepticus) Malaise Anorexia Phobia Depersonalization Depression (potentially culminating in self-injurious behavior (such as suicidal ideations/thoughts and attempted or completed suicide) Paresthesia Abnormal Gait Migraine |
 | Gastrointestinal | Intestinal Perforation Gastrointestinal Bleeding Cholestatic Jaundice Hepatitis Pancreatitis |
 | Hemic/Lymphatic | Petechia |
 | Metabolic/Nutritional | Hyperglycemia Hypoglycemia |
@@ -88,7 +88,7 @@ Discontinuation of drug due to an adverse reaction was observed in 3% (10/335) o
 Other adverse reactions that occurred in at least 1% of ciprofloxacin patients were diarrhea 4.8%, vomiting 4.8%, abdominal pain 3.3%, dyspepsia 2.7%, nausea 2.7%, fever 2.1%, asthma 1.8% and rash 1.8%.
 
 Short-term safety data for ciprofloxacin was also collected in a randomized, double-blind clinical trial for the treatment of acute pulmonary exacerbations in cystic fibrosis patients (ages 5–17 years).
-Sixty seven patients received ciprofloxacin IV 10 mg/kg/dose every 8 hours for one week followed by ciprofloxacin tablets 20 mg/kg/dose every 12 hours to complete 10–21 days treatment and 62 patients received the combination of ceftazidime intravenous 50 mg/kg/dose every 8 hours and tobramycin intravenous 3 mg/kg/dose every 8 hours for a total of 10–21 days.
+Sixty-seven patients received ciprofloxacin IV 10 mg/kg/dose every 8 hours for one week followed by ciprofloxacin tablets 20 mg/kg/dose every 12 hours to complete 10–21 days treatment and 62 patients received the combination of ceftazidime intravenous 50 mg/kg/dose every 8 hours and tobramycin intravenous 3 mg/kg/dose every 8 hours for a total of 10–21 days.
 Periodic musculoskeletal assessments were conducted by treatment-blinded examiners.
 Patients were followed for an average of 23 days after completing treatment (range 0– 93 days).
 Musculoskeletal adverse reactions were reported in 22% of the patients in the ciprofloxacin group and 21% in the comparison group.
@@ -112,7 +112,7 @@ Table 10: Postmarketing Reports of Adverse Drug Reactions
 | Central Nervous System | Hypertonia Myasthenia Exacerbation of myasthenia gravis Peripheral neuropathy Polyneuropathy Twitching |
 | Eye Disorders | Nystagmus |
 | Gastrointestinal | Pseudomembranous colitis |
-| Hemic/Lymphatic | Pancytopenia (life-threatening or fatal outcome) Methemoglobinemia |
+| Hemic/Lymphatic | Pancytopenia (life threatening or fatal outcome) Methemoglobinemia |
 | Hepatobiliary | Hepatic failure (including fatal cases) |
 | Infections and Infestations | Candidiasis (oral, gastrointestinal, vaginal) |
 | Investigations | Prothrombin time prolongation or decrease Cholesterol elevation (serum) Potassium elevation (serum) |

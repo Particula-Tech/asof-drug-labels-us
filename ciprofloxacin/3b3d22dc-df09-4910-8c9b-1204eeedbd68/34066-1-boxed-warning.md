@@ -8,9 +8,8 @@
 
 - Central nervous system effects [see Warnings and Precautions (5.4)]
 
-- Discontinue ciprofloxacin tablets immediately and avoid the use of fluoroquinolones, including ciprofloxacin tablets, in patients who experience any of these serious adverse reactions [see Warnings and Precautions (5.1)]
-
-- Fluoroquinolones, including ciprofloxacin tablets, may exacerbate muscle weakness in patients with myasthenia gravis.
+- Discontinue ciprofloxacin tablets immediately and avoid the use of fluoroquinolones, including ciprofloxacin tablets, in patients who experience any of these serious adverse reactions [see Warnings and Precautions (5.1)].
+  Fluroquinolones, including ciprofloxacin tablets, may exacerbate muscle weakness in patients muscle weakness in patients with myasthenia gravis.
   Avoid ciprofloxacin tablets in patients with known history of myasthenia gravis [see Warnings and Precautions (5.5)].
 
 - Because fluoroquinolones, including ciprofloxacin tablets, have been associated with serious adverse reactions [see Warnings and Precautions (5.1–5.16)], reserve ciprofloxacin tablets for use in patients who have no alternative treatment options for the following indications:
