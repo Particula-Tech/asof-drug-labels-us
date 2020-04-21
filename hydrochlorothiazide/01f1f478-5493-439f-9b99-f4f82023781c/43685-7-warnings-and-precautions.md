@@ -42,6 +42,8 @@ Marked hypercalcemia may be evidence of hidden hyperparathyroidism.
 Thiazides should be discontinued before carrying out tests for parathyroid function.
 Increases in cholesterol and triglyceride levels may be associated with thiazide diuretic therapy.
 
+Non-melanoma Skin Cancer: Instruct patients taking hydrochlorothiazide to protect skin from the sun and undergo regular skin cancer screening.
+
 ## Laboratory Tests
 
 Periodic determination of serum electrolytes to detect possible electrolyte imbalance should be done at appropriate intervals.
