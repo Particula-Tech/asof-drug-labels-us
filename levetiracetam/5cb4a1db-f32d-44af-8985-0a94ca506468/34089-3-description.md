@@ -11,5 +11,5 @@ It is very soluble in water (104.0 g/100 mL).
 It is freely soluble in chloroform (65.3 g/100 mL) and in methanol (53.6 g/100 mL), soluble in ethanol (16.5 g/100 mL), sparingly soluble in acetonitrile (5.7 g/100 mL) and practically insoluble in n-hexane.
 (Solubility limits are expressed as g/100 mL solvent.)
 
-Levetiracetam oral solution, USP contains 100 mg of levetiracetam per mL.
+Levetiracetam Oral Solution, USP contains 100 mg of levetiracetam per mL.
 Inactive ingredients: ammonium glycyrrhizate, citric acid monohydrate, glycerin, maltitol solution, methylparaben, potassium acesulfame, propylparaben, purified water, sodium citrate dihydrate and natural and artificial flavor.

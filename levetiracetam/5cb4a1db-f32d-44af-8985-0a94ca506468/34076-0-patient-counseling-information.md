@@ -22,17 +22,17 @@ Dermatological Adverse Reactions
 
 Advise patients that serious dermatological adverse reactions have occurred in patients treated with levetiracetam and instruct them to call their physician immediately if a rash develops [see Warnings and Precautions (5.5)].
 
+Withdrawal of Levetiracetam
+
+Advise patients and caregivers not to discontinue use of levetiracetam without consulting with their healthcare provider.
+Levetiracetam should normally be gradually withdrawn to reduce the potential of increased seizure frequency and status epilepticus [see Warnings and Precautions (5.7)].
+
 Pregnancy
 
 Advise patients to notify their healthcare provider if they become pregnant or intend to become pregnant during levetiracetam therapy.
-Encourage patients to enroll in the North American Antiepileptic Drug (NAAED) pregnancy registry if they become pregnant.
-This registry is collecting information about the safety of antiepileptic drugs during pregnancy.
-To enroll, patients can call the toll free number 1-888-233-2334 [see Use in Specific Populations (8.1)].
-
-Manufactured by: G&W Laboratories, Inc. South Plainfield, NJ 07080 USA
+Encourage patients to enroll in the North American Antiepileptic Drug (NAAED) pregnancy registry if they become pregnant [see Use in Specific Populations (8.1)].
 
 Distributed by: Actavis Pharma, Inc. Parsippany, NJ 07054 USA
 
-Revised – January 2018
-
-I602-1130 GW7254
+Rev.
+A 11/2019

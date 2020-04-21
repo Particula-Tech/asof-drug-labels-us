@@ -10,9 +10,11 @@ Prescribe the oral solution or tablets for pediatric patients with body weight a
 
 When using the oral solution in pediatric patients, dosing is weight-based (mg per kg) using a calibrated measuring device (not a household teaspoon or tablespoon).
 
-## 2.2 Dosing for Partial Onset Seizures
+## 2.2 Dosing for Partial-Onset Seizures
 
-Adults 16 Years and Older
+The recommended dosing for monotherapy and adjunctive therapy is the same; as outlined below.
+
+Adults 16 Years of Age and Older
 
 Initiate treatment with a daily dose of 1,000 mg/day, given as twice-daily dosing (500 mg twice daily).
 Additional dosing increments may be given (1,000 mg/day additional every 2 weeks) to a maximum recommended daily dose of 3,000 mg.
@@ -20,12 +22,9 @@ There is no evidence that doses greater than 3,000 mg/day confer additional bene
 
 Pediatric Patients
 
-1 Month to less than 6 Months
-
-Initiate treatment with a daily dose of 14 mg/kg in 2 divided doses (7 mg/kg twice daily).
+1 Month to less than 6 Months Initiate treatment with a daily dose of 14 mg/kg in 2 divided doses (7 mg/kg twice daily).
 Increase the daily dose every 2 weeks by increments of 14 mg/kg to the recommended daily dose of 42 mg/kg (21 mg/kg twice daily).
 In the clinical trial, the mean daily dose was 35 mg/kg in this age group.
-The effectiveness of lower doses has not been studied.
 
 6 Months to less than 4 Years:
 
@@ -52,7 +51,7 @@ Levetiracetam Oral Solution Weight-Based Dosing Calculation for Pediatric Patien
 
 The following calculation should be used to determine the appropriate daily dose of oral solution for pediatric patients:
 
-## 2.3 Dosing for Myoclonic Seizures in Patients 12 Years of Age and Older with Juvenile Myoclonic Epilepsy
+## 2.3 Dosing for Myoclonic Seizures in Patients 12 Years of Age and Older With Juvenile Myoclonic Epilepsy
 
 Initiate treatment with a dose of 1,000 mg/day, given as twice-daily dosing (500 mg twice daily).
 Increase the dosage by 1,000 mg/day every 2 weeks to the recommended daily dose of 3,000 mg.
@@ -60,13 +59,13 @@ The effectiveness of doses lower than 3,000 mg/day has not been studied.
 
 ## 2.4 Dosing for Primary Generalized Tonic-Clonic Seizures
 
-Adults 16 Years and Older
+Adults 16 Years of Age and Older
 
 Initiate treatment with a dose of 1,000 mg/day, given as twice-daily dosing (500 mg twice daily).
 Increase dosage by 1,000 mg/day every 2 weeks to the recommended daily dose of 3,000 mg.
 The effectiveness of doses lower than 3,000 mg/day has not been adequately studied.
 
-Pediatric Patients Ages 6 to less than 16 Years
+Pediatric Patients 6 to less than 16 Years of Age
 
 Initiate treatment with a daily dose of 20 mg/kg in 2 divided doses (10 mg/kg twice daily).
 Increase the daily dose every 2 weeks by increments of 20 mg/kg to the recommended daily dose of 60 mg/kg (30 mg/kg twice daily).
@@ -93,4 +92,8 @@ Table 1: Dosing Adjustment Regimen for Adult Patients with Renal Impairment
 | Moderate | 30 to 50 | 250 to 750 | Every 12 hours |
 | Severe | <30 | 250 to 500 | Every 12 hours |
 | ESRD patients using dialysis | ---- | 500 to 1,0001 | Every 24 hours1 |
-| 1Following dialysis, a 250 mg to 500 mg supplemental dose is recommended |  |  |  |
+| 1Following dialysis, a 250 mg to 500 mg supplemental dose is recommended. |  |  |  |
+
+## 2.6 Discontinuation of Levetiracetam
+
+Avoid abrupt withdrawal from levetiracetam in order to reduce the risk of increased seizure frequency and status epilepticus [see Warnings and Precautions (5.7)].
