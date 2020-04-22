@@ -19,14 +19,6 @@ Multiple Dose Vials
 
 Rx only
 
-PACKAGE LABEL - PRINCIPAL DISPLAY - Rocuronium 5 mL Multiple Dose Vial Peel off Syringe Label
-
-Paralyzing Agent Rocuronium Bromide Injection 50 mg per 5 mL (10 mg per mL)
-
-For intravenous use.
-
-Rx only
-
 PACKAGE LABEL - PRINCIPAL DISPLAY - Rocuronium 10 mL Multiple Dose Vial Label
 
 NDC 63323-426-01 402610 10 mL Multiple Dose Vial Rocuronium Bromide Injection 100 mg per 10 mL (10 mg per mL) WARNING: Paralyzing Agent
@@ -41,13 +33,5 @@ For intravenous use.
 10 x10 mL
 
 Multiple Dose Vials
-
-Rx only
-
-PACKAGE LABEL - PRINCIPAL DISPLAY - Rocuronium 10 mL Multiple Dose Vial Peel off Syringe Label
-
-Paralyzing Agent Rocuronium Bromide Injection 100 mg per 10 mL (10 mg per mL)
-
-For intravenous use.
 
 Rx only
