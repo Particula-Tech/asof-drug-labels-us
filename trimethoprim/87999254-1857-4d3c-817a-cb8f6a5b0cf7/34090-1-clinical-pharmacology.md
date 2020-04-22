@@ -8,10 +8,10 @@ Polymyxin B, a cyclic lipopeptide antibiotic, is bactericidal for a variety of g
 It increases the permeability of the bacterial cell membrane by interacting with the phospholipid components of the membrane.
 
 Blood samples were obtained from 11 human volunteers at 20 minutes, 1 hour and 3 hours following instillation in the eye of 2 drops of ophthalmic solution containing 1 mg trimethoprim and 10,000 units polymyxin B per mL.
-Peak serum concentrations were approximately 0.03 μg/mL trimethoprim and 1 unit/mL polymyxin B.
+Peak serum concentrations were approximately 0.03 mcg/mL trimethoprim and 1 unit/mL polymyxin B.
 
-Microbiology:In vitro studies have demonstrated that the anti-infective components of trimethoprim sulfate and polymyxin B sulfate ophthalmic solution are active against the following bacterial pathogens that are capable of causing external infections of the eye:
+Microbiology: In vitro studies have demonstrated that the anti-infective components of trimethoprim sulfate and polymyxin B sulfate ophthalmic solution are active against the following bacterial pathogens that are capable of causing external infections of the eye:
 
-Trimethoprim:Staphylococcus aureus and Staphylococcus epidermidis, Streptococcus pyogenes, Streptococcus faecalis, Streptococcus pneumoniae, Haemophilus influenzae, Haemophilus aegyptius, Escherichia coli, Klebsiella pneumoniae, Proteus mirabilis (indole-negative), Proteus vulgaris (indole-positive), Enterobacter aerogenes and Serratia marcescens.
+Trimethoprim: Staphylococcus aureus and Staphylococcus epidermidis, Streptococcus pyogenes, Streptococcus faecalis, Streptococcus pneumoniae, Haemophilus influenzae, Haemophilus aegyptius, Escherichia coli, Klebsiella pneumoniae, Proteus mirabilis (indole-negative), Proteus vulgaris (indole-positive), Enterobacter aerogenes and Serratia marcescens.
 
-Polymyxin B:Pseudomonas aeruginosa, Escherichia coli, Klebsiella pneumoniae, Enterobacter aerogenes and Haemophilus influenzae.
+Polymyxin B: Pseudomonas aeruginosa, Escherichia coli, Klebsiella pneumoniae, Enterobacter aerogenes and Haemophilus influenzae.
