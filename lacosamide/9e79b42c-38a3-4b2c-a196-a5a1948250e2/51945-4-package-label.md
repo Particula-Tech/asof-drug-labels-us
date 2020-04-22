@@ -99,3 +99,19 @@ ATTENTION PHARMACIST: Each patient is required to receive the accompanying Medic
 ucb Manufactured for: UCB, Inc. Smyrna, GA 30080
 
 200 mL
+
+# PRINCIPAL DISPLAY PANEL - 200 mL Glass Bottle Label
+
+NDC 0131-5410-72
+
+VIMPAT® (lacosamide) oral solution CV
+
+10 mg / mL
+
+Rx only
+
+ATTENTION PHARMACIST: Each patient is required to receive the accompanying Medication Guide.
+
+ucb Manufactured for: UCB, Inc. Smyrna, GA 30080
+
+200 mL
