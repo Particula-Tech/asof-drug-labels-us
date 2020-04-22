@@ -20,9 +20,7 @@ Discard unused portion
 
 TEVA
 
-# Package/Label Display Panel, 63459-910-17 Part 1 of 2
-
-# Package/Label Display Panel, 63459-910-17 Part 2 of 2
+# Package/Label Display Panel, 63459-910-17
 
 Granix® (tbo-filgrastim) Injection
 
@@ -68,72 +66,63 @@ Discard unused portion
 
 TEVA
 
-# Package/Label Display Panel, 63459-912-17 Part 1 of 2
+# Package/Label Display Panel, 63459-912-17
 
-# Package/Label Display Panel, 63459-912-17 Part 2 of 2
+NDC 63459-912-11
 
-Granix® (tbo-filgrastim) Injection 480 mcg/0.8 mL
+Rx only
+
+Granix® (tbo-filgrastim) Injection
+
+480 mcg/0.8 mL
 
 For Subcutaneous Use Only
 
 A recombinant Granulocyte Colony-Stimulating Factor (rG-CSF) derived from E Coli
 
-1 Single-use prefilled syringe WITHOUT a safety needle guard
+480 mcg/0.8 mL
 
-NDC 63459-912-17
+For Healthcare Professional Use Only
 
-Rx only
+1 Single-use prefilled syringe with a safety needle guard
 
 Discard unused portion
 
-480 mcg/0.8 mL
-
 TEVA
 
-# Package/Label Display Panel, 63459-918-59 Part 1 of 2
+# Package/Label Display Panel, 63459-918-59
 
-NDC 63459-918-59 Granix (tbo-filgrastim) Injection 300 mcg/mL.
+NDC 63459-918-59
+
 10 x 300 mcg/mL Single-Dose Vials (containing 1 mL)
 
+Granix (tbo-filgrastim) Injection
+
+300 mcg/mL
+
 For Subcutaneous Use Only.
+
 A recombinant Granulocyte Colony-Stimulating Factor (rG-CSF) derived from E. coli.
 Discard unused portion.
-Rx Only.
+
+Rx Only
 
 Teva
 
-# Package/Label Display Panel, 63459-918-59 Part 2 of 2
+# Package/Label Display Panel, 63459-920-59
 
-NDC 63459-918-59 Granix (tbo-filgrastim) Injection 300 mcg/mL.
-10 x 300 mcg/mL Single-Dose Vials (containing 1 mL)
+NDC 63459-920-59
 
-For Subcutaneous Use Only.
-A recombinant Granulocyte Colony-Stimulating Factor (rG-CSF) derived from E. coli.
-Discard unused portion.
-Rx Only.
+10 x 480 mcg/1.6 mL Single-Dose Vials
 
-Teva
+Granix (tbo-filgrastim) Injection
 
-# Package/Label Display Panel, 63459-920-59 Part 1 of 2
-
-NDC 63459-920-59 Granix (tbo-filgrastim) Injection 480 mcg/ 1.6mL.
-10 x 480 mcg/1.6 mL Single-Dose Vials.
+480 mcg/ 1.6mL
 
 For Subcutaneous Use Only.
 A recombinant Granulocyte Colony-Stimulating Factor (rG-CSF) derived from E. coli.
 Discard unused portion.
-Rx Only.
 
-Teva
-
-# Package/Label Display Panel, 63459-920-59 Part 2 of 2
-
-NDC 63459-920-59 Granix (tbo-filgrastim) Injection 480 mcg/ 1.6mL.
-10 x 480 mcg/1.6 mL Single-Dose Vials.
-
-For Subcutaneous Use Only.
-A recombinant Granulocyte Colony-Stimulating Factor (rG-CSF) derived from E. coli.
-Discard unused portion.
-Rx Only.
+Rx Only
 
 Teva

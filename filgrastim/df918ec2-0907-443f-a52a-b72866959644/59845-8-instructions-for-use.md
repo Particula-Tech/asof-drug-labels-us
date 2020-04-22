@@ -267,7 +267,7 @@ This Instructions for Use has been approved by the U.S. Food and Drug Administra
 
 Manufactured by:
 
-Sicor Biotech UAB
+UAB Teva Baltics
 
 Vilnius, Lithuania
 
@@ -281,11 +281,11 @@ North Wales, PA 19454
 
 Product of Israel
 
-Revised: 02/2017
+Revised: 11/2019
 
-TBOIFU-002
+TBOIFU-003
 
-©2014-2017 Cephalon, Inc., a wholly owned subsidiary of Teva Pharmaceutical Industries Ltd. All rights reserved.
+©2014-2019 Cephalon, Inc., a wholly owned subsidiary of Teva Pharmaceutical Industries Ltd. All rights reserved.
 
 GRANIX is a trademark of Teva Pharmaceutical Industries Ltd.
 
@@ -533,7 +533,7 @@ This Instructions for Use has been approved by the U.S. Food and Drug Administra
 
 Manufactured by:
 
-Sicor Biotech UAB
+UAB Teva Baltics
 
 Vilnius, Lithuania
 
@@ -547,8 +547,8 @@ North Wales, PA 19454
 
 Product of Israel
 
-Revised: 07/2018
+Revised: 11/2019
 
-TBOIFUV-001
+TBOIFUV-002
 
-©2014-2018 Cephalon, Inc., a wholly owned subsidiary of Teva Pharmaceutical Industries Ltd. All rights reserved.
+©2014-2019 Cephalon, Inc., a wholly owned subsidiary of Teva Pharmaceutical Industries Ltd. All rights reserved.

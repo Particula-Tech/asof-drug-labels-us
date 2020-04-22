@@ -56,13 +56,13 @@ Inform lactating women that filgrastim was detected in breast milk for up to 3 d
 
 See FDA-approved Patient Labeling (Patient Information) and Instructions for Use.
 
-TBO-008
+TBO-009
 
 ©2014-2019 Cephalon, Inc., a wholly owned subsidiary of Teva Pharmaceutical Industries Ltd. All rights reserved.
 
 Manufactured by:
 
-Sicor Biotech UAB
+UAB Teva Baltics
 
 Vilnius, Lithuania
 
