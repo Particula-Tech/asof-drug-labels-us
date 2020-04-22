@@ -413,10 +413,6 @@ Hepatitis B Virus (HBV) Reactivation
 
 Hepatitis B virus reactivation has been reported in less than 1% of patients (including fatal cases) treated with DARZALEX in clinical trials.
 
-Other Adverse Reactions
-
-Other adverse reactions reported in patients treated with daratumumab: pancreatitis (1%).
-
 ## 6.2 Immunogenicity
 
 As with all therapeutic proteins, there is the potential for immunogenicity.
@@ -433,3 +429,5 @@ The following adverse reactions have been identified during post-approval use of
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 Immune System disorders: Anaphylactic reaction
+
+Gastrointestinal disorders: Pancreatitis
