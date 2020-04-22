@@ -7,8 +7,7 @@ Specific experience with sulfonamide-type adverse reaction to zonisamide is desc
 
 Serious Skin Reactions: Consideration should be given to discontinuing ZONEGRAN in patients who develop an otherwise unexplained rash.
 If the drug is not discontinued, patients should be observed frequently.
-Seven deaths from severe rash [i.e.
-Stevens-Johnson syndrome (SJS) and toxic epidermal necrolysis (TEN)] were reported in the first 11 years of marketing in Japan.
+Seven deaths from severe rash [i.e., Stevens-Johnson syndrome (SJS) and toxic epidermal necrolysis (TEN)] were reported in the first 11 years of marketing in Japan.
 All of the patients were receiving other drugs in addition to zonisamide.
 In post-marketing experience from Japan, a total of 49 cases of SJS or TEN have been reported, a reporting rate of 46 per million patient-years of exposure.
 Although this rate is greater than background, it is probably an underestimate of the true incidence because of under-reporting.
@@ -56,7 +55,21 @@ Caution should be used when zonisamide is prescribed with other drugs that predi
 
 The practitioner should be aware that the safety and effectiveness of zonisamide in pediatric patients have not been established, and that zonisamide is not approved for use in pediatric patients.
 
-## Suicidal Behavior and Ideation
+## Acute Myopia and Secondary Angle Closure Glaucoma:
+
+Acute myopia and secondary angle closure glaucoma have been reported in patients receiving ZONEGRAN.
+Elevated intraocular pressure can lead to serious sequelae, including permanent vision loss, if left untreated.
+Symptoms in reported cases have included acute onset of decreased visual acuity and/or ocular pain.
+Ophthalmologic findings can include myopia, anterior chamber shallowing, ocular hyperemia (redness), and increased intraocular pressure.
+Mydriasis may or may not be present.
+This syndrome may be associated with ciliochoroidal effusion resulting in anterior displacement of the lens and iris, with secondary angle closure glaucoma.
+Symptoms typically occur within one month after initiating ZONEGRAN therapy.
+In contrast to primary narrow angle glaucoma, which is rare under 40 years of age, secondary angle closure glaucoma associated with ZONEGRAN has been reported both in pediatric patients and in adults.
+The primary treatment to reverse symptoms is discontinuation of ZONEGRAN as rapidly as possible, according to the judgment of the treating physician.
+Other therapeutic measures, in conjunction with discontinuation of ZONEGRAN, may be helpful.
+Myopia and secondary angle closure glaucoma usually resolve or improve after discontinuation of ZONEGRAN.
+
+## Suicidal Behavior and Ideation:
 
 Antiepileptic drugs (AEDs), including ZONEGRAN, increase the risk of suicidal thoughts or behavior in patients taking these drugs for any indication.
 Patients treated with any AED for any indication should be monitored for the emergence or worsening of depression, suicidal thoughts or behavior, and/or any unusual changes in mood or behavior.
@@ -105,6 +118,7 @@ Conditions or therapies that predispose to acidosis (such as renal disease, seve
 Some manifestations of acute or chronic metabolic acidosis include hyperventilation, nonspecific symptoms such as fatigue and anorexia, or more severe sequelae including cardiac arrhythmias or stupor.
 Chronic, untreated, metabolic acidosis may increase the risk for nephrolithiasis or nephrocalcinosis.
 Nephrolithiasis has been observed in the clinical development program in 4% of adults treated with ZONEGRAN, has also been detected by renal ultrasound in 8% of pediatric treated patients who had at least one ultrasound prospectively collected, and was reported as an adverse event in 3% (4/133) of pediatric patients (see PRECAUTIONS, Kidney Stones subsection).
+Metabolic acidosis can also increase the risk for hyperammonemia, particularly in the presence of drugs which can cause hyperammonemia.
 
 Chronic, untreated metabolic acidosis may result in osteomalacia (referred to as rickets in pediatric patients) and/or osteoporosis with an increased risk for fracture.
 Of potential relevance, zonisamide treatment was associated with reductions in serum phosphorus and increases in serum alkaline phosphatase, changes that may be related to metabolic acidosis and osteomalacia (see PRECAUTIONS, Laboratory Tests subsection).
@@ -166,6 +180,17 @@ Somnolence and fatigue tended to occur within the first month of treatment.
 Somnolence and fatigue occurred most frequently at doses of 300–500 mg/day.
 Patients should be cautioned about this possibility and special care should be taken by patients if they drive, operate machinery, or perform any hazardous task.
 
+## Hyperammonemia and Encephalopathy:
+
+Hyperammonemia and encephalopathy have been reported with the postmarketing use of zonisamide.
+Zonisamide treatment inhibits carbonic anhydrase activity, which may cause metabolic acidosis that is associated with an increased risk for developing hyperammonemia.
+Hyperammonemia resulting from zonisamide can also be asymptomatic.
+The risks of hyperammonemia and various manifestations of encephalopathy may be increased in patients treated with zonisamide and concomitantly taking other medications that can cause hyperammonemia, including valproic acid or topiramate (see PRECAUTIONS).
+Patients with inborn errors of metabolism or reduced hepatic mitochondrial activity may be at an increased risk for hyperammonemia with or without encephalopathy and this risk may be increased by zonisamide use.
+Measure serum ammonia concentration if signs or symptoms (e.g., unexplained change in mental status, vomiting, or lethargy) of encephalopathy occur.
+Hyperammonemia resulting from zonisamide resolves when zonisamide is discontinued.
+Hyperammonemia from zonisamide may resolve or decrease in severity with a decrease of the daily dose.
+
 # PRECAUTIONS
 
 ## General:
@@ -207,27 +232,31 @@ Among patients treated with ZONEGRAN across all epilepsy studies (controlled and
 
 ## Information for Patients:
 
-Patients should be informed of the availability of a Medication Guide, and they should be instructed to read the Medication Guide prior to taking ZONEGRAN.
-Patients should be instructed to take ZONEGRAN only as prescribed.
+Inform patients of the availability of a Medication Guide, and instruct them to read the Medication Guide prior to taking ZONEGRAN.
+Instruct patients to take ZONEGRAN only as prescribed.
 
-Patients should be advised as follows: (See Medication Guide)
+Advise patients as follows: (See Medication Guide)
 
 1. ZONEGRAN may produce drowsiness, especially at higher doses.
    Patients should be advised not to drive a car or operate other complex machinery until they have gained experience on ZONEGRAN sufficient to determine whether it affects their performance.
-   Because of the potential of zonisamide to cause CNS depression, as well as other cognitive and/or neuropsychiatric adverse events, zonisamide should be used with caution if used in combination with alcohol or other CNS depressants.
-2. Patients should contact their physician immediately if a skin rash develops or seizures worsen.
-3. Patients should contact their physician immediately if they develop signs or symptoms, such as sudden back pain, abdominal pain, and/or blood in the urine that could indicate a kidney stone.
-   Increasing fluid intake and urine output may reduce the risk of stone formation, particularly in those with predisposing risk factors for stones.
-4. Patients should contact their physician immediately if a child has been taking ZONEGRAN and is not sweating as usual with or without a fever.
-5. Because zonisamide can cause hematological complications, patients should contact their physician immediately if they develop a fever, sore throat, oral ulcers, or easy bruising.
-6. Suicidal Thinking and Behavior - Patients, their caregivers, and families should be counseled that AEDs, including ZONEGRAN, may increase the risk of suicidal thoughts and behavior and should be advised of the need to be alert for the emergence or worsening of symptoms of depression, any unusual changes in mood or behavior, or the emergence of suicidal thoughts, behavior, or thoughts about self-harm.
-   Behaviors of concern should be reported immediately to healthcare providers.
-7. Patients should contact their physician immediately if they develop fast breathing, fatigue/tiredness, loss of appetite, or irregular heart beat or palpitations (possible manifestations of metabolic acidosis).
-8. As with other AEDs, patients should contact their physician if they intend to become pregnant or are pregnant during ZONEGRAN therapy.
-   Patients should notify their physician if they intend to breast-feed or are breast-feeding an infant.
-   Patients should be encouraged to enroll in the North American Antiepileptic Drug (NAAED) Pregnancy Registry if they become pregnant.
-   This registry is collecting information about the safety of antiepileptic drugs during pregnancy.
-   To enroll, patients can call the toll free number 1-888-233-2334 (see PRECAUTIONS, Pregnancy subsection).
+   Because of the potential of zonisamide to cause CNS depression, as well as other cognitive and/or neuropsychiatric adverse events, ZONEGRAN should be used with caution if used in combination with alcohol or other CNS depressants.
+2. Patients should contact their physicians immediately if a skin rash develops (see WARNINGS, Serious Skin Reactions subsection).
+3. Instruct patients to seek immediate medical attention if they experience blurred vision, visual disturbances, or periorbital pain (see WARNINGS, Acute Myopia and Secondary Angle Closure Glaucoma subsection).
+4. Patients should contact their physician immediately if they develop signs or symptoms, such as sudden back pain, abdominal pain, and/or blood in the urine, that could indicate a kidney stone.
+   Increasing fluid intake and urine output may reduce the risk of stone formation, particularly in those with predisposing risk factors for stones (see PRECAUTIONS, Kidney Stones subsection).
+5. Patients should contact their physician immediately if a child has been taking ZONEGRAN and is not sweating as usual with or without a fever (see WARNINGS, Oligohidrosis and Hyperthermia in Pediatric Patients subsection).
+6. Because zonisamide can cause hematological complications, patients should contact their physician immediately if they develop a fever, sore throat, oral ulcers, or easy bruising (see WARNINGS, Serious Hematologic Events subsection).
+7. Counsel patients and caregivers that AEDs, including ZONEGRAN, may increase the risk of suicidal thoughts and behavior and advise them of the need to be alert for the emergence or worsening of symptoms of depression, any unusual changes in mood or behavior, or the emergence of suicidal thoughts, behavior, or thoughts about self-harm.
+   Behaviors of concern should be reported immediately to healthcare providers (see WARNINGS, Suicidal Behavior and Ideation subsection).
+8. Warn patients about the possible development of hyperammonemia with or without encephalopathy.
+   Although hyperammonemia may be asymptomatic, clinical symptoms of hyperammonemic encephalopathy often include acute alterations in level of consciousness and/or cognitive function with lethargy and/or vomiting.
+   Instruct patients to contact their physician if they develop unexplained lethargy, vomiting, or changes in mental status (see WARNINGS, Hyperammonemia and Encephalopathy subsection).
+9. Patients should contact their physician immediately if they develop fast breathing, fatigue/tiredness, loss of appetite, or irregular heart beat or palpitations, which are possible manifestations of metabolic acidosis (see WARNINGS, Metabolic Acidosis subsection).
+10. As with other AEDs, patients should contact their physician if they intend to become pregnant or are pregnant during ZONEGRAN therapy.
+    Patients should notify their physician if they intend to breast-feed or are breast-feeding an infant (see PRECAUTIONS, Use in Nursing Mothers subsection).
+11. Encourage patients to enroll in the North American Antiepileptic Drug (NAAED) Pregnancy Registry if they become pregnant.
+    This registry is collecting information about the safety of antiepileptic drugs during pregnancy.
+    To enroll, patients can call the toll-free number 1-888-233-2334 (see PRECAUTIONS, Pregnancy subsection).
 
 ## Laboratory Tests:
 
@@ -239,8 +268,8 @@ Zonisamide increases serum chloride and alkaline phosphatase and decreases serum
 Drug Interactions with CNS Depressants: Concomitant administration of ZONEGRAN and alcohol or other CNS depressant drugs has not been evaluated in clinical studies.
 Because of the potential of zonisamide to cause CNS depression, as well as other cognitive and/or neuropsychiatric adverse events, zonisamide should be used with caution if used in combination with alcohol or other CNS depressants.
 
-Other Carbonic Anhydrase Inhibitors: Concomitant use of ZONEGRAN, a carbonic anhydrase inhibitor, with any other carbonic anhydrase inhibitor (e.g., topiramate, acetazolamide or dichlorphenamide), may increase the severity of metabolic acidosis and may also increase the risk of kidney stone formation.
-Therefore, if ZONEGRAN is given concomitantly with another carbonic anhydrase inhibitor, the patient should be monitored for the appearance or worsening of metabolic acidosis (see CLINICAL PHARMACOLOGY, Interactions of Zonisamide with Other Carbonic Anhydrase Inhibitors subsection).
+Other Carbonic Anhydrase Inhibitors: Concomitant use of ZONEGRAN, a carbonic anhydrase inhibitor, with any other carbonic anhydrase inhibitor (e.g., topiramate, acetazolamide or dichlorphenamide), may increase the severity of metabolic acidosis and may also increase the risk of kidney stone formation or the risk of hyperammonemia.
+Therefore, if ZONEGRAN is given concomitantly with another carbonic anhydrase inhibitor, the patient should be monitored for the appearance or worsening of metabolic acidosis (see CLINICAL PHARMACOLOGY, Interactions of Zonisamide with Other Carbonic Anhydrase Inhibitors subsection and WARNINGS, Metabolic Acidosis subsection and Hyperammonemia and Encephalopathy subsection).
 
 ## Carcinogenicity, Mutagenesis, Impairment of Fertility:
 
@@ -309,8 +338,10 @@ Because of the potential for serious adverse reactions in nursing infants from Z
 ## Pediatric Use:
 
 The safety and effectiveness of ZONEGRAN in children under age 16 have not been established.
+Acute myopia and secondary angle closure glaucoma have been reported in pediatric patients (see WARNINGS, Acute Myopia and Secondary Angle Closure Glaucoma subsection).
 Cases of oligohidrosis and hyperpyrexia have been reported (see WARNINGS, Oligohidrosis and Hyperthermia in Pediatric Patients subsection).
 Zonisamide commonly causes metabolic acidosis in pediatric patients (see WARNINGS, Metabolic Acidosis subsection).
+Hyperammonemia with encephalopathy has been reported in pediatric patients (see WARNINGS, Hyperammonemia and Encephalopathy subsection).
 Chronic untreated metabolic acidosis in pediatric patients may cause nephrolithiasis and/or nephrocalcinosis, osteoporosis and/or osteomalacia (potentially resulting in rickets), and may reduce growth rates.
 A reduction in growth rate may eventually decrease the maximal height achieved.
 The effect of zonisamide on growth and bone-related sequelae has not been systematically investigated.

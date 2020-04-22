@@ -71,7 +71,7 @@ Gender and Race: Information on the effect of gender and race on the pharmacokin
 Effects of ZONEGRAN on cytochrome P450 enzymes
 
 In vitro studies using human liver microsomes show insignificant (<25%) inhibition of cytochrome P450 isozymes 1A2, 2A6, 2C9, 2C19, 2D6, 2E1, 3A4, 2B6 or 2C8 at zonisamide levels approximately two-fold or greater than clinically relevant unbound serum concentrations.
-Therefore ZONEGRAN is not expected to affect the pharmacokinetics of other drugs via cytochrome P450-mediated mechanisms.
+Therefore, ZONEGRAN is not expected to affect the pharmacokinetics of other drugs via cytochrome P450-mediated mechanisms.
 
 Potential for ZONEGRAN to affect other drugs
 
@@ -92,7 +92,7 @@ There is a theoretical potential for zonisamide to affect the pharmacokinetics o
 
 Caution is advised when starting or stopping ZONEGRAN or changing the ZONEGRAN dose in patients who are also receiving drugs which are P-gp substrates (e.g., digoxin, quinidine)
 
-Potential for Medicinal Product to Affect ZONEGRAN
+Potential for Medicinal Products to Affect ZONEGRAN
 
 Concomitant medications that can induce or inhibit CYP3A4 or N-acetyl-transferases may affect the pharmacokinetics of zonisamide.
 Drugs which inhibit or induce glucuronide conjugation are not expected to influence the pharmacokinetics of zonisamide.
@@ -110,8 +110,8 @@ Therefore, modification of ZONEGRAN dosing is not necessary when co-administered
 
 Interactions of Zonisamide with Other Carbonic Anhydrase Inhibitors:
 
-Concomitant use of ZONEGRAN, a carbonic anhydrase inhibitor, with any other carbonic anhydrase inhibitor (e.g., topiramate, acetazolamide or dichlorphenamide), may increase the severity of metabolic acidosis and may also increase the risk of kidney stone formation.
-Therefore, if ZONEGRAN is given concomitantly with another carbonic anhydrase inhibitor, the patient should be monitored for the appearance or worsening of metabolic acidosis (see PRECAUTIONS, Drug Interactions subsection).
+Concomitant use of ZONEGRAN, a carbonic anhydrase inhibitor, with any other carbonic anhydrase inhibitor (e.g., topiramate, acetazolamide or dichlorphenamide), may increase the severity of metabolic acidosis and may also increase the risks of hyperammonemia and kidney stone formation.
+Therefore, if ZONEGRAN is given concomitantly with another carbonic anhydrase inhibitor, the patient should be monitored for the appearance or worsening of metabolic acidosis (see WARNINGS, Metabolic Acidosis subsection and Hyperammonemia and Encephalopathy subsection and PRECAUTIONS, Drug Interactions subsection).
 
 ## Clinical Studies:
 

@@ -11,10 +11,11 @@ ZONEGRAN may cause serious side effects, including:
 1. Serious skin rash that can cause death.
 2. Serious allergic reactions that may affect different parts of the body.
 3. Less sweating and increase in your body temperature (fever).
-4. Suicidal thoughts or actions in some people.
-5. Increased level of acid in your blood (metabolic acidosis).
-6. Problems with your concentration, attention, memory, thinking, speech, or language.
-7. Blood cell changes such as reduced red and white blood cell counts.
+4. Serious eye problems
+5. Suicidal thoughts or actions in some people.
+6. Increased level of acid in your blood (metabolic acidosis).
+7. Problems with your concentration, attention, memory, thinking, speech, or language.
+8. Blood cell changes such as reduced red and white blood cell counts.
 
 These serious side effects are described below.
 
@@ -38,7 +39,10 @@ These serious side effects are described below.
    Call your health care provider right away if you have:
    - high fever, recurring fever, or long lasting fever
    - less sweat than normal
-4. Like other antiepileptic drugs, ZONEGRAN may cause suicidal thoughts or actions in a very small number of people, about 1 in 500.
+4. ZONEGRAN may cause eye problems.
+   Serious eye problems include: • sudden decrease in vision with or without eye pain and redness • a blockage of fluid in the eye causing increased pressure in the eye (secondary angle closure glaucoma) These eye problems can lead to permanent loss of vision if not treated.
+   Call your healthcare provider right away if you have any new eye symptoms, including any eye pain or redness or any new problems with your vision.
+5. Like other antiepileptic drugs, ZONEGRAN may cause suicidal thoughts or actions in a very small number of people, about 1 in 500.
    Call a healthcare provider right away if you have any of these symptoms, especially if they are new, worse, or worry you: How can I watch for early symptoms of suicidal thoughts and actions?
    Call your healthcare provider between visits as needed, especially if you are worried about symptoms.
    Do not stop ZONEGRAN without first talking to a healthcare provider.
@@ -60,7 +64,7 @@ These serious side effects are described below.
      If you have suicidal thoughts or actions, your healthcare provider may check for other causes.
    - Pay attention to any changes, especially sudden changes, in mood, behaviors, thoughts, or feelings.
    - Keep all follow-up visits with your healthcare provider as scheduled.
-5. ZONEGRAN can increase the level of acid in your blood (metabolic acidosis).
+6. ZONEGRAN can increase the level of acid in your blood (metabolic acidosis).
    If left untreated, metabolic acidosis can cause brittle or soft bones (osteoporosis, osteomalacia, osteopenia), kidney stones and can slow the rate of growth in children.
    Metabolic acidosis can happen with or without symptoms.
    Sometimes people with metabolic acidosis will: Your healthcare provider should do a blood test to measure the level of acid in your blood before and during your treatment with ZONEGRAN.
@@ -68,8 +72,8 @@ These serious side effects are described below.
    - not feel hungry (loss of appetite)
    - feel changes in heartbeat
    - have trouble thinking clearly
-6. ZONEGRAN may cause problems with your concentration, attention, memory, thinking, speech, or language.
-7. ZONEGRAN can cause blood cell changes such as reduced red and white blood cell counts.
+7. ZONEGRAN may cause problems with your concentration, attention, memory, thinking, speech, or language.
+8. ZONEGRAN can cause blood cell changes such as reduced red and white blood cell counts.
    Call your healthcare provider if you develop fever, sore throat, sores in your mouth, or unusual bruising.
 
 ZONEGRAN can have other serious side effects.
@@ -91,6 +95,7 @@ Before taking ZONEGRAN, tell your healthcare provider about all your medical con
 - have a growth problem
 - are on a diet high in fat called a ketogenic diet
 - have diarrhea
+- have high blood levels of ammonia
 
 Tell your healthcare provider if you:
 
@@ -139,6 +144,8 @@ Other serious side effects include:
   Drink plenty of fluids while you take ZONEGRAN to lower your chance of getting kidney stones.
 - problems with mood or thinking (new or worse depression; sudden changes in mood, behavior, or loss of contact with reality, sometimes associated with hearing voices or seeing things that are not really there; feeling sleepy or tired; trouble concentrating; speech and language problems).
   Call your healthcare provider right away if you have any of the symptoms listed above.
+- high blood ammonia levels.
+  High ammonia in the blood can affect your mental activities, slow your alertness, make you feel tired, or cause vomiting.
 
 The most common side effects of ZONEGRAN include:
 
@@ -183,4 +190,4 @@ Mfd. for: Concordia Pharmaceuticals Distributed by: Amdipharm Limited 17 Northwo
 ZONEGRAN® is a registered trademark of Dainippon Pharmaceutical Co., Ltd. and licensed exclusively to Amdipharm Limited.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
-Revised: September 2019
+Revised: April 2020
