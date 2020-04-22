@@ -54,7 +54,7 @@ Discard any unused suspension after the expiration date written on the bottle.
 
 How should I store REVATIO?
 
-- Store REVATIO constituted oral suspension below 30°C (86°F) or in a refrigerator between 2°C to 8°C (36°F to46°F).
+- Store REVATIO reconstituted oral suspension below 30°C (86°F) or in a refrigerator between 2°C to 8°C (36°F to 46°F).
 - Do not freeze REVATIO oral suspension
 - Throw away (discard) REVATIO oral suspension after 60 days.
 - Keep REVATIO and all medicines away from children.
@@ -64,6 +64,4 @@ This Instruction for Use has been approved by the U.S. Food and Drug Administrat
 This product's label may have been updated.
 For current full prescribing information, please visit www.pfizer.com
 
-LAB-0575-3.0 January 2014
-
-Issued Jan/2014
+LAB-0575-4.0 Revised: February 2020

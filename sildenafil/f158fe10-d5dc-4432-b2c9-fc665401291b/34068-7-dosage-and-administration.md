@@ -19,6 +19,9 @@ A 10 mg dose of REVATIO injection is predicted to provide pharmacological effect
 
 ## 2.3 Reconstitution of the Powder for Oral Suspension
 
+Note: Reconstitute the contents of the bottle with a total volume of 90 mL (60 mL followed by 30 mL).
+Refer to the detailed instructions below.
+
 1. Tap the bottle to release the powder.
 2. Remove the cap.
 3. Accurately measure out 60 mL of water and pour the water into the bottle.
@@ -35,7 +38,7 @@ A 10 mg dose of REVATIO injection is predicted to provide pharmacological effect
 9. Press the bottle adaptor into the neck of the bottle (as shown on Figure 5, below).
    The adaptor is provided so that you can fill the oral syringe with medicine from the bottle.
    Replace the cap on the bottle.
-10. Write the expiration date of the constituted oral suspension on the bottle label (the expiration date of the constituted oral suspension is 60 days from the date of constitution).
+10. Write the expiration date of the reconstituted oral suspension on the bottle label (the expiration date of the reconstituted oral suspension is 60 days from the date of reconstitution).
 
 Incompatibilities
 

@@ -48,7 +48,7 @@ Revatio® (sildenafil) for oral suspension
 
 Shake Well Before Each Use For Oral Use Only
 
-Pfizer
+Pfizer 112 mL following Reconstitution
 
 # PRINCIPAL DISPLAY PANEL - 10 mg/mL Bottle Carton
 
@@ -60,10 +60,8 @@ Revatio® (sildenafil) for oral suspension
 
 For Oral Use Only Shake Well Before Each Use
 
-112 mL following Constitution
+112 mL following Reconstitution
 
 Grape Flavored
 
-Pfizer
-
-Rx only
+Pfizer Rx only

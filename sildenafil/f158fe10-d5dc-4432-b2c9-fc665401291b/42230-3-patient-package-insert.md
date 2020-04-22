@@ -62,7 +62,7 @@ Tell your doctor about all of your medical conditions, including if you
 - have an eye problem called retinitis pigmentosa
 - have or had loss of sight in one or both eyes
 - have any problem with the shape of your penis or Peyronie's disease
-- have any blood cell problems such sickle cell anemia
+- have any blood cell problems such as sickle cell anemia
 - have a stomach ulcer or any bleeding problems
 - are pregnant or planning to become pregnant.
   It is not known if REVATIO could harm your unborn baby.
@@ -139,8 +139,8 @@ You may report side effects to FDA at 1-800-FDA-1088.
 
 How should I store REVATIO?
 
-- Store REVATIO tablets at controlled room temperature, between 20°C –25°C (68°F to 77°F).
-- Store REVATIO constituted oral suspension below 30°C (86°F) or in a refrigerator between 2°C to 8°C (36°F to 46°F).
+- Store REVATIO tablets at controlled room temperature, between 20°C – 25°C (68°F to 77°F).
+- Store REVATIO reconstituted oral suspension below 30°C (86°F) or in a refrigerator between 2°C to 8°C (36°F to 46°F).
 - Do not freeze REVATIO oral suspension.
 - Throw away REVATIO oral suspension after 60 days.
 - Keep REVATIO and all medicines away from children.
@@ -177,4 +177,4 @@ For current full prescribing information, please visit www.pfizer.com
 
 This Patient Information has been approved by the U.S. Food and Drug Administration
 
-LAB-0335-12.0 January 2019
+LAB-0335-13.0 Revised: February 2020
