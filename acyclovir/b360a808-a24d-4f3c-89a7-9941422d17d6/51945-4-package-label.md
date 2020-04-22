@@ -3,11 +3,11 @@
 Net Wt.
 30 g
 
-NDC 0591-1159-30 ACYCLOVIR OINTMENT 5%
-
-NDC 0591-1159-30
+ACYCLOVIR OINTMENT 5%
 
 FOR CUTANEOUS USE ONLY
+
+NDC 0591-1159-30
 
 Each gram contains: 50 mg acyclovir in a polyethylene glycol base.
 
