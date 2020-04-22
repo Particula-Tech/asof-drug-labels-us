@@ -22,5 +22,5 @@ Targretin gel should be continued as long as the patient is deriving benefit.
 
 Occlusive dressings should not be used with Targretin gel.
 
-Targretin® gel is a topical therapy and is not intended for systemic use.
+Targretin gel is a topical therapy and is not intended for systemic use.
 Targretin gel has not been studied in combination with other CTCL therapies.

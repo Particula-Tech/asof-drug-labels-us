@@ -84,7 +84,7 @@ The median time to best response on the Composite Assessment of Index Lesion Sev
 
 The rate of relapse in responding patients by the Composite Assessment of Index Lesion Severity was 23% (3/13) over a median observation period of 149 days (range 56-342).
 Fourteen patients developed new lesions in untreated areas (14/50; 28%).
-Four patients developed clinically abnormal lymph nodes (≥ 1cm diam) (4/50; 8%).
+Four patients developed clinically abnormal lymph nodes (≥1 cm diam) (4/50; 8%).
 One patient developed a cutaneous tumor (1/50; 2%).
 
 The Phase I-II program (dose-seeking trials with different response criteria than the multicenter trial) was supportive of the multicenter study results.

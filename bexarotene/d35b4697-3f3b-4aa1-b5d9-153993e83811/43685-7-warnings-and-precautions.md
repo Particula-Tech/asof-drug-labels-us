@@ -15,7 +15,7 @@ Patients should be advised to minimize exposure to sunlight and artificial ultra
 
 ## Information for Patients
 
-Please see accompanying "Patient's Instructions for Use".
+Please see accompanying “Patient’s Instructions for Use”.
 
 ## Drug-Drug Interactions
 
@@ -29,7 +29,7 @@ On the basis of the metabolism of bexarotene by cytochrome P450 3A4, concomitant
 Similarly, based on data that gemfibrozil increases bexarotene concentrations following oral bexarotene administration, concomitant gemfibrozil could increase bexarotene plasma concentrations.
 However, due to the low systemic exposure to bexarotene after low to moderately intense gel regimens (see CLINICAL PHARMACOLOGY), increases that occur are unlikely to be of sufficient magnitude to result in adverse effects.
 
-No drug interaction data are available on concomitant administration of Targretin® gel and other CTCL therapies.
+No drug interaction data are available on concomitant administration of Targretin gel and other CTCL therapies.
 
 ## Renal Insufficiency
 
