@@ -3,7 +3,7 @@
 Ephedrine is an alpha- and beta-adrenergic agonist and a norepinephrine-releasing agent.
 AKOVAZ (ephedrine sulfate injection) is a clear, colorless, sterile solution for intravenous injection.
 It must be diluted before intravenous administration.
-The chemical name of ephedrine sulfate is (1R,2S)-(-)-2-methylamine-1-phenylpropan-1-ol sulfate, and the molecular weight is 428.5 g/mol.
+The chemical name of ephedrine sulfate is benzenemethanol, a-[1-(methylamino)ethyl]-, [R-(R*,S*)]-, sulfate (2:1) (salt), and the molecular weight is 428.5 g/mol.
 Its structural formula is depicted below:
 
 Ephedrine sulfate is freely soluble in water and ethanol, very slighly soluble in chloroform, and practically insoluble in ether.
