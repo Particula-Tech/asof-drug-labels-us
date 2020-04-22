@@ -8,7 +8,7 @@ Read this Patient Information before you start using EstroGel, and each time you
 There may be new information.
 This information does not take the place of talking to your healthcare provider about your menopausal symptoms or your treatment.
 
-| What is the most important information I should know about EstroGel (an estrogen hormone)? Using estrogen-alone may increase your chance of getting cancer of the uterus (womb). Report any unusual vaginal bleeding right away while you are using EstroGel. Vaginal bleeding after menopause may be a warning sign of cancer of the uterus (womb). Your healthcare provider should check any unusual vaginal bleeding to find out the cause. Do not use estrogen-alone to prevent heart disease, heart attacks, strokes or dementia (decline in brain function). Using estrogen-alone may increase your chances of getting strokes and blood clots. Using estrogen-alone may increase your chance of getting dementia, based on a study of women 65 years of age or older. Do not use estrogens with progestins to prevent heart disease, heart attack, strokes or dementia. Using estrogens with progestins may increase your chances of getting heart attacks, strokes, breast cancer, or blood clots. Using estrogens with progestins may increase your chance of getting dementia, based on a study of women 65 years of age or older. You and your healthcare provider should talk regularly about whether you still need treatment with EstroGel. |
+| What is the most important information I should know about EstroGel (an estrogen hormone)? Using estrogen-alone may increase your chance of getting cancer of the uterus (womb). Report any unusual vaginal bleeding right away while you are using EstroGel. Vaginal bleeding after menopause may be a warning sign of cancer of the uterus (womb). Your healthcare provider should check any unusual vaginal bleeding to find out the cause.Do not use estrogen-alone to prevent heart disease, heart attacks, strokes or dementia (decline in brain function).Using estrogen-alone may increase your chances of getting strokes and blood clots.Using estrogen-alone may increase your chance of getting dementia, based on a study of women 65 years of age or older.Do not use estrogens with progestins to prevent heart disease, heart attack, strokes or dementia.Using estrogens with progestins may increase your chances of getting heart attacks, strokes, breast cancer, or blood clots.Using estrogens with progestins may increase your chance of getting dementia, based on a study of women 65 years of age or older.You and your healthcare provider should talk regularly about whether you still need treatment with EstroGel. |
 | --- |
 
 What is EstroGel?
@@ -169,12 +169,13 @@ Priming the EstroGel pump
 
 - Before using the EstroGel pump for the first time, the pump must be primed.
   The EstroGel canister contains enough medicine to allow you to prime the pump before you use it for the first time.
-- Remove the large cap from the canister and the small cap from the tip of the pump.
+- Remove the large cap from the canister.
   See Figure B.
 
 Figure B
 
 - Slowly push the pump all the way down 3 times.
+  If no gel is observed, pump all the way down for an additional 2 times.
   Do not use any EstroGel that came out while priming.
   Wash it down the sink to avoid accidental exposure to others.
 - After priming, the EstroGel pump is ready to use.
@@ -223,9 +224,9 @@ After you use EstroGel
 Step 4.
 Throwing away used EstroGel canisters
 
-- The EstroGel 50-gram canister contains enough medicine to allow for priming your canister with 3 full pump depressions and delivery of 32 daily doses.
-  After you have first primed your canister and used 32 doses, you will need to throw away the canister.
-  Do not use the canister for more than 32 doses even though the canister may not be completely empty.
+- The EstroGel 50-gram canister contains enough medicine to allow for priming your canister with up to 5 full pump depressions and delivery of 30 daily doses.
+  After you have first primed your canister and used 30 doses, you will need to throw away the canister.
+  Do not use the canister for more than 30 doses even though the canister may not be completely empty.
   You may not get the correct dose.
 
 This Patient Information and Instructions for Use has been approved by the U.S. Food and Drug Administration.
@@ -240,10 +241,10 @@ By DPT Laboratories Ltd.
 
 San Antonio, TX 78215
 
-129911Rev082017
+140992Rev052018
 
 Utilizes EHG ® Technology
 
-©2017 ASCEND Therapeutics ® US, LLC
+©2018 ASCEND Therapeutics ® US, LLC
 
-Revised: 8/2017
+Revised: 5/2018
