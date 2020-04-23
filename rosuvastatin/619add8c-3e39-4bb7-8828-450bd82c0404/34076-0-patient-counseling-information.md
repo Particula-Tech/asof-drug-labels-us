@@ -34,18 +34,16 @@ Inform patients:
 
 For Oral Administration Patients with Difficulty Swallowing Capsules
 
-Instruct patients that the EZALLOR Sprinkle can be opened, the granules filled in the capsule carefully emptied onto one teaspoon of applesauce.
-The granules with applesauce should be swallowed immediately, without chewing.
+Instruct patients that the EZALLOR Sprinkle capsule can be opened, the granules filled in the capsule carefully emptied onto one teaspoonful of soft food (such as applesauce, or chocolate- or vanilla-flavored pudding).
+The granules with soft food (such as applesauce, or chocolate- or vanilla-flavored pudding) should be swallowed within 60 minutes, without chewing.
 The mixture should not be stored for future use.
 If it is not used in its entirety, the remaining mixture should be discarded immediately.
 
 For Nasogastric Tube (≥16 French) Administration
 
-Instruct patients that EZALLOR Sprinkle
-
-can be opened and the intact granules emptied into a 60 mL catheter tipped syringe and add 40 mL of water.
+Instruct patients that EZALLOR Sprinklecapsule can be opened and the intact granules emptied into a 60 mL catheter tipped syringe and add 40 mL of water.
 Replace the plunger and shake the syringe vigorously for 15 seconds.
-The granules in rosuvastatin may start dissolving which is acceptable.
+The granules in EZALLOR Sprinkle may start dissolving which is acceptable.
 Attach the syringe to a nasogastric tube (≥16-French) and deliver the contents of the syringe through the nasogastric tube into the stomach.
 After administering the granules, the nasogastric tube should be flushed with 20 mL of additional water.
 The mixture must be used immediately after preparation and not be stored for future use.

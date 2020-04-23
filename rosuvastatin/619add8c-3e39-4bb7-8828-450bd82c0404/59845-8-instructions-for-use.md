@@ -1,21 +1,17 @@
 # INSTRUCTIONS FOR USE
 
-EZALLORTM Sprinkle (Ez-Aah-Lor Spr-En-Kle)
+EZALLOR SprinkleTM (Ez-Aah-Lor Spr-En-Kle) (rosuvastatin) Capsules, for oral use
 
-(rosuvastatin)
+Taking EZALLOR Sprinkle with soft food (applesauce, or chocolate- or vanilla-flavored pudding):
 
-Capsules, for oral use
-
-Taking EZALLOR Sprinkle with applesauce:
-
-For people who have difficulty in swallowing capsules, EZALLOR Sprinkle may be given with applesauce as follows:
+For people who have difficulty in swallowing capsules, EZALLOR Sprinkle may be given with soft food (applesauce, or chocolate- or vanilla-flavored pudding) as follows:
 
 1. Carefully open the EZALLOR Sprinkle capsule.
-2. Sprinkle the granules filled in the capsules on 1 teaspoonful of applesauce.
-3. Swallow the applesauce and granules mixture right away.
+2. Sprinkle the granules filled in the capsules on 1 teaspoonful of soft food (such as applesauce, or chocolate- or vanilla-flavored pudding.
+3. Swallow the granules-soft food mixture within 60 minutes.
    Do not chew the granules.
-4. Do not save the applesauce and granules mixture for later use.
-   Throw away any remaining applesauce and granules mixture.
+4. Do not save the granules-soft food mixture for later use.
+   Throw away any remaining granules-soft food mixture.
 
 Giving EZALLOR Sprinkle through a nasogastric tube (NG tube) 16 French or larger, as prescribed by your doctor:
 
@@ -44,4 +40,4 @@ This Instructions for Use has been approved by the U.S. Food and Drug Administra
 
 Distributed by: Sun Pharmaceutical Industries, Inc. Cranbury, NJ 08512 Manufactured by: Sun Pharmaceutical Industries Ltd. Halol-Baroda Highway, Halol-389 350, Gujarat, India.
 
-Version: 12/2018
+Version: 04/2020

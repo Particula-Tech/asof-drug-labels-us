@@ -39,7 +39,7 @@ The dose of EZALLOR Sprinkle should not exceed 10 mg once daily [see Warnings an
 Patients taking atazanavir and ritonavir, lopinavir and ritonavir, or simeprevir
 
 Initiate EZALLOR Sprinkle therapy with 5 mg once daily.
-The dose of EZALLOR Sprinkleshould not exceed 10 mg once daily [see Warnings and Precautions (5.1), Drug Interactions (7.3) and Clinical Pharmacology (12.3)].
+The dose of EZALLOR Sprinkle should not exceed 10 mg once daily [see Warnings and Precautions (5.1), Drug Interactions (7.3) and Clinical Pharmacology (12.3)].
 
 ## 2.4 Dosing in Patients with Severe Renal Impairment
 
@@ -47,20 +47,23 @@ For patients with severe renal impairment (CLcr < 30 mL/min/1.73 m2) not on hemo
 
 ## 2.5 Administration Options
 
-See the EZALLOR Sprinkle full Instructions for Use for proper preparation and administration instructions.
+EZALLOR Sprinkle capsule should be swallowed whole.
+For patients unable to swallow an intact capsule, alternative administration options are available.
 
 Oral Administration
 
-For patients who have difficulty swallowing capsules, the rosuvastatin capsule can be opened, the granules inside the capsule carefully emptied onto one teaspoon of applesauce.
-The granules with the applesauce should be swallowed immediately, without chewing.
-The granules with applesauce must be used immediately after preparation and not be stored for future use.
+Directions for use with soft food (applesauce or pudding)
+
+For patients with swallowing difficulty, EZALLOR Sprinkle capsule can be opened and contents can be sprinkled over soft food.
+The contents of the capsules should be swallowed along with a small amount (teaspoonful) of soft food (such as applesauce or chocolate/vanilla flavored pudding).
+The drug/food mixture should be swallowed within 60 minutes and not be stored for future use.
 If it is not used in its entirety, the remaining contents should be discarded immediately.
 
 Nasogastric Tube (≥16 French) Administration
 
-For patients who have a nasogastric tube in place, the rosuvastatin capsule can be opened and the intact granules emptied into a 60 mL catheter tipped syringe and add 40 mL of water.
+For patients who have a nasogastric tube in place, the EZALLOR Sprinkle capsule can be opened and the intact granules emptied into a 60 mL catheter tipped syringe and add 40 mL of water.
 Replace the plunger and shake the syringe vigorously for 15 seconds.
-The granules in rosuvastatin may start dissolving which is acceptable.
+The granules in EZALLOR Sprinkle capsule may start dissolving which is acceptable.
 Attach the syringe to a nasogastric tube (≥16-French) and deliver the contents of the syringe through the nasogastric tube into the stomach.
 After administering the granules, the nasogastric tube should be flushed with 20 mL of additional water.
 The mixture must be used immediately after preparation and not be stored for future use.

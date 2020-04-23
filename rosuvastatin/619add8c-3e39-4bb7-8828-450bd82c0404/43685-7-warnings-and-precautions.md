@@ -6,17 +6,11 @@ Cases of myopathy and rhabdomyolysis with acute renal failure secondary to myogl
 These risks can occur at any dose level, but are increased at the highest dose (40 mg).
 
 EZALLOR Sprinkle should be prescribed with caution in patients with predisposing factors for myopathy (e.g., age ≥ 65 years, inadequately treated hypothyroidism, renal impairment).
-
-The risk of myopathy during treatment with EZALLOR Sprinkle
-
-may be increased with concurrent administration of some other lipid-lowering therapies (fibrates or niacin), gemfibrozil, cyclosporine, atazanavir/ritonavir, lopinavir/ritonavir, or simeprevir [see Dosage and Administration (2) and Drug Interactions (7)].
-Cases of myopathy, including rhabdomyolysis, have been reported with HMG-CoA reductase inhibitors, including rosuvastatin, coadministered with colchicine, and caution should be exercised when prescribing EZALLOR Sprinkle
-
-with colchicine [see Drug Interactions (7.7)].
+The risk of myopathy during treatment with EZALLOR Sprinkle may be increased with concurrent administration of some other lipid-lowering therapies (fibrates or niacin), gemfibrozil, cyclosporine, atazanavir/ritonavir, lopinavir/ritonavir, or simeprevir [see Dosage and Administration (2) and Drug Interactions (7)].
+Cases of myopathy, including rhabdomyolysis, have been reported with HMG-CoA reductase inhibitors, including rosuvastatin, coadministered with colchicine, and caution should be exercised when prescribing EZALLOR Sprinklewith colchicine [see Drug Interactions (7.7)].
 
 EZALLOR Sprinkle therapy should be discontinued if markedly elevated creatine kinase levels occur or myopathy is diagnosed or suspected.
 EZALLOR Sprinkle therapy should also be temporarily withheld in any patient with an acute, serious condition suggestive of myopathy or predisposing to the development of renal failure secondary to rhabdomyolysis (e.g., sepsis, hypotension, dehydration, major surgery, trauma, severe metabolic, endocrine, and electrolyte disorders, or uncontrolled seizures).
-
 There have been rare reports of immune-mediated necrotizing myopathy (IMNM), an autoimmune myopathy, associated with statin use.
 IMNM is characterized by: proximal muscle weakness and elevated serum creatine kinase, which persist despite discontinuation of statin treatment; muscle biopsy showing necrotizing myopathy without significant inflammation; improvement with immunosuppressive agents.
 

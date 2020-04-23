@@ -27,9 +27,7 @@ In patients taking coumarin anticoagulants and EZALLOR Sprinkle concomitantly, I
 
 ## 7.5 Niacin
 
-The risk of skeletal muscle effects may be enhanced when EZALLOR Sprinkle is used in combination with lipid-modifying doses (≥1 g/day) of niacin; caution should be used when prescribing with EZALLOR Sprinkle
-
-[see Warnings and Precautions (5.1)].
+The risk of skeletal muscle effects may be enhanced when EZALLOR Sprinkle is used in combination with lipid-modifying doses (≥1 g/day) of niacin; caution should be used when prescribing with EZALLOR Sprinkle [see Warnings and Precautions (5.1)].
 
 ## 7.6 Fenofibrate
 

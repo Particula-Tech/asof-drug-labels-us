@@ -1,53 +1,39 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-Rosuvastatin capsules 5 mg are hard gelatin capsule, Size “3” pink cap/off white body, imprinted axially with “984” on cap and body in black ink filled with yellow colored granules.
+EZALLOR Sprinkle (rosuvastatin) capsules 5 mg are hard gelatin capsule, Size “3” pink cap/off white body, imprinted axially with “984” on cap and body in black ink filled with yellow colored granules.
 They are available as follows:
 
 Bottles of 30’s with Child Resistant Closure ………………….
-NDC 47335-984-83
-
-Bottles of 90’s with Child Resistant Closure ………………….
-NDC 47335-984-81
-
-Unit-dose blister pack of 30 (3 × 10) capsules ………………..
+NDC 47335-984-83 Bottles of 90’s with Child Resistant Closure ………………….
+NDC 47335-984-81 Unit-dose blister pack of 30 (3 × 10) capsules ………………..
 NDC 47335-984-64
 
-Rosuvastatin capsules 10 mg are hard gelatin capsule, Size “3” purple cap/off white body, imprinted axially with “985” on cap and body in black ink filled with yellow colored granules.
+EZALLOR Sprinkle (rosuvastatin) capsules 10 mg are hard gelatin capsule, Size “3” purple cap/off white body, imprinted axially with “985” on cap and body in black ink filled with yellow colored granules.
 They are available as follows:
 
 Bottles of 30’s with Child Resistant Closure ………………….
-NDC 47335-985-83
-
-Bottles of 90’s with Child Resistant Closure ………………….
-NDC 47335-985-81
-
-Unit-dose blister pack of 30 (3 × 10) capsules ………………..
+NDC 47335-985-83 Bottles of 90’s with Child Resistant Closure ………………….
+NDC 47335-985-81 Unit-dose blister pack of 30 (3 × 10) capsules ………………..
 NDC 47335-985-64
 
-Rosuvastatin capsules 20 mg are hard gelatin capsule, Size “1” blue cap/off white body, imprinted axially with “986” on cap and body in black ink filled with yellow colored granules.
+EZALLOR Sprinkle (rosuvastatin) capsules 20 mg are hard gelatin capsule, Size “1” blue cap/off white body, imprinted axially with “986” on cap and body in black ink filled with yellow colored granules.
 They are available as follows:
 
 Bottles of 30’s with Child Resistant Closure ………………….
-NDC 47335-986-83
-
-Bottles of 90’s with Child Resistant Closure ………………….
-NDC 47335-986-81
-
-Unit-dose blister pack of 30 (3 × 10) capsules ………………..
+NDC 47335-986-83 Bottles of 90’s with Child Resistant Closure ………………….
+NDC 47335-986-81 Unit-dose blister pack of 30 (3 × 10) capsules ………………..
 NDC 47335-986-64
 
-Rosuvastatin capsules 40 mg are hard gelatin capsule, Size “0el” green cap/white body, imprinted axially with “987” on cap and body in black ink filled with yellow colored granules.
+EZALLOR Sprinkle (rosuvastatin) capsules 40 mg are hard gelatin capsule, Size “0el” green cap/white body, imprinted axially with “987” on cap and body in black ink filled with yellow colored granules.
 They are available as follows:
 
 Bottles of 30’s with Child Resistant Closure ………………….
-NDC 47335-987-83
+NDC 47335-987-83 Bottles of 90’s with Child Resistant Closure ………………….
+NDC 47335-987-81 Unit-dose blister pack of 30 (3 × 10) capsules ………………..
+NDC 47335-987-64
 
-Bottles of 90’s with Child Resistant Closure ………………….
-NDC 47335-987-81
+Storage
 
-Unit-dose blister pack of 30 (3 × 10) capsules ………………..
-NDC 47335-987-64 Storage
-
-Store rosuvastatin capsules at 20º to 25ºC (68º to 77ºF); excursions permitted between 15° and 30°C (59° and 86°F) [see USP Controlled Room Temperature].
+Store EZALLOR Sprinkle (rosuvastatin) capsules at 20º to 25ºC (68º to 77ºF); excursions permitted between 15° and 30°C (59° and 86°F) [see USP Controlled Room Temperature].
 
 Protect from moisture.

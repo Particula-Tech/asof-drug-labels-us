@@ -1,27 +1,16 @@
 # PATIENT INFORMATION
 
-EZALLORTM Sprinkle (Ez-Aah-Lor Spr-En-Kle)
+EZALLOR SprinkleTM (Ez-Aah-Lor Spr-En-Kle) (rosuvastatin) Capsules, for oral use What is EZALLOR Sprinkle?
 
-(rosuvastatin)
+EZALLOR Sprinkle is a prescription medicine used in adults along with diet to:
 
-Capsules, for oral use
-
-What is EZALLOR Sprinkle?
-
-EZALLOR Sprinkle is a prescription medicine that contains a cholesterol-lowering medicine called rosuvastatin calcium.
-Most of the cholesterol in your blood is made in the liver.
-EZALLOR Sprinkle works by reducing cholesterol in two ways: EZALLOR Sprinkle blocks an enzyme in the liver causing the liver to make less cholesterol, and EZALLOR Sprinkle increases the uptake and breakdown by the liver of cholesterol already in the blood.
-
-- EZALLOR Sprinkle is used in adults along with diet to:
+- 
   - lower the level of your “bad” cholesterol (LDL).
-  - increase the level of your “good” cholesterol (HDL).
   - lower the level of fat in your blood (triglycerides).
-- EZALLOR Sprinkle is used to treat:
-  - adults who cannot control their cholesterol levels by diet and exercise alone.
 
 Pediatric use information for patients 7 to 17 years of age is approved for AstraZeneca’s CRESTOR (rosuvastatin calcium) tablets.
 However, due to AstraZeneca’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
-It is not known if EZALLOR Sprinkle is safe and effective in people who have Fredrickson Type I and V dyslipidemias (abnormal amounts of fat in the blood).
+It is not known if EZALLOR Sprinkle is safe and effective in people who have Fredrickson Type I and V dyslipidemias.
 
 Do not take EZALLOR Sprinkle if you:
 
@@ -39,7 +28,7 @@ Before taking EZALLOR Sprinkle, tell your doctor about all of your medical condi
 
 - have unexplained muscle aches or weakness.
 - have or have had kidney problems.
-- have had liver problems
+- have had liver problems.
 - drink more than 2 glasses of alcohol daily.
 - have thyroid problems.
 - are 65 years of age or older.
@@ -74,8 +63,8 @@ How should I take EZALLOR Sprinkle?
   Swallow the capsule whole.
 - Do not crush or chew EZALLOR Sprinkle.
 - EZALLOR Sprinkle can be taken at any time of day, with or without food.
-- If you have trouble swallowing a whole capsule, you can open the capsule and take the contents with applesauce.
-  See the “Instructions for Use” at the end of this Patient Package Information for instructions on how to take EZALLOR Sprinkle with applesauce.
+- If you have trouble swallowing a whole capsule, you can open the capsule and take the contents with soft food (applesauce, or chocolate- or vanilla-flavored pudding).
+  See the “Instructions for Use” at the end of this Patient Package Information for instructions on how to take EZALLOR Sprinkle with soft food (applesauce, or chocolate- or vanilla-flavored pudding).
 - See the “Instructions for Use” at the end of this Patient Package Information for instructions on how to mix and give EZALLOR Sprinkle through a nasogastric tube.
 - Do not change your dose or stop EZALLOR Sprinkle without talking to your doctor.
 - Your doctor may do blood tests to check your cholesterol levels before and during your treatment with EZALLOR Sprinkle.
@@ -153,4 +142,4 @@ Sun Pharmaceutical Industries, Inc. Cranbury, NJ 08512 Manufactured by:
 Sun Pharmaceutical Industries Ltd. Halol-Baroda Highway, Halol-389 350, Gujarat, India.
 
 For more information, call 1- 1-800-818-4555.
-This Patient Information has been approved by the U.S. Food and Drug Administration Version: 12/2018
+This Patient Information has been approved by the U.S. Food and Drug Administration Issued: 04/2020
