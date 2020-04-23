@@ -76,6 +76,7 @@ Effect of Co-administered Drugs on the Pharmacokinetics of Atorvastatin
 | #Clarithromycin 500 mg BIDb, 9 days | 80 mg QDa for 8 days | 4.54 | 5.38 |
 | #Darunavir 300 mg BIDb/ritonavir 100 mg BIDb, 9 days | 10 mg QDa for 4 days | 3.45 | 2.25 |
 | #Itraconazole 200 mg QDa, 4 days | 40 mg SDc | 3.32 | 1.20 |
+| #Letermovir 480 mg QDa, 10 days | 20 mg SDc | 3.29 | 2.17 |
 | #Fosamprenavir 700 mg BIDb/ritonavir 100 mg BIDb, 14 days | 10 mg QDa for 4 days | 2.53 | 2.84 |
 | #Fosamprenavir 1400 mg BIDb, 14 days | 10 mg QDa for 4 days | 2.30 | 4.04 |
 | #Nelfinavir 1250 mg BIDb, 14 days | 10 mg QDa for 28 days | 1.74 | 2.22 |

@@ -71,6 +71,7 @@ Especially tell your doctor if you take medicines for:
 - heart failure
 - HIV or AIDS
 - Hepatitis C virus
+- anti-virals
 
 Know all the medicines you take.
 Keep a list of them with you to show your doctor and pharmacist.
@@ -166,8 +167,8 @@ What are the Ingredients in Atorvastatin Calcium Tablets, USP?
 
 Active Ingredient: atorvastatin calcium, USP
 
-Inactive Ingredients: anhydrous lactose, NF; colloidal silicon dioxide, NF; copovidone, NF; croscarmellose sodium, NF; magnesium stearate, NF; mannitol, USP; silicified microcrystalline cellulose, NF; sodium bicarbonate, USP; sodium carbonate anhydrous, NF; sodium lauryl sulfate, NF; lecitihin, polyvinyl alcohol part hydrolyzed, talc, titanium dioxide, xanthan gum and iron oxide yellow.
+Inactive Ingredients: anhydrous lactose, NF; colloidal silicon dioxide, NF; copovidone, NF; croscarmellose sodium, NF; magnesium stearate, NF; mannitol, USP; silicified microcrystalline cellulose, NF; sodium bicarbonate, USP; sodium carbonate anhydrous, NF; sodium lauryl sulfate, NF; lecithin, polyvinyl alcohol part hydrolyzed, talc, titanium dioxide, xanthan gum and iron oxide yellow.
 
 Manufactured by: ScieGen Pharmaceuticals, Inc. Hauppauge, NY 11788 USA
 
-Rev: 06/19
+Rev: 03/20

@@ -2,15 +2,15 @@
 
 10 mg tablets: Yellow, oval shape, biconvex, film coated tablets, debossed with SG on one side and 152 on other side.
 
-Bottles of 90 NDC 50228-451-90 Bottles of 1000 NDC 50228-451-10
+Bottles of 90 NDC 50228-451-90 Bottles of 1,000 NDC 50228-451-10
 
 20 mg tablets: Yellow, oval shape, biconvex, film coated tablets, debossed with SG on one side and 153 on other side.
 
-Bottles of 90 NDC 50228-452-91 Bottles of 500 NDC 50228-452-06
+Bottles of 90 NDC 50228-452-90 Bottles of 500 NDC 50228-452-05
 
 40 mg Tablets: Yellow, oval shape, biconvex, film coated tablets, debossed with SG on one side and 154 on other side.
 
-Bottles of 90 NDC 50228-453-91 Bottles of 1000 NDC 50228-453-11
+Bottles of 90 NDC 50228-453-90 Bottles of 1,000 NDC 50228-453-10
 
 80 mg Tablets: Yellow, oval shape, biconvex, film coated tablets, debossed with SG on one side and 155 on other side.
 

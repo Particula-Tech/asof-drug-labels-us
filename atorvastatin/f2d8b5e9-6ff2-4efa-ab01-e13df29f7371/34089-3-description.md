@@ -11,6 +11,6 @@ Its structural formula is:
 Atorvastatin calcium, USP is a white to off-white colored powder free from visible extraneous matter.
 Atorvastatin calcium is soluble in dimethyl sulphoxide, slightly soluble in alcohol, very slightly soluble in water, in pH 7.4 phosphate buffer and in acetonitrile and practically insoluble in aqueous solutions of pH 4 and below.
 
-Atorvastatin calcium tablets, USP for oral administration contain 10 mg, 20 mg, 40 mg, or 80 mg atorvastatin and the following inactive ingredients: anhydrous lactose, NF; colloidal silicon dioxide, NF; copovidone, NF; croscarmellose sodium, NF; magnesium stearate, NF; mannitol, USP; silicified microcrystalline cellulose, NF; sodium bicarbonate, USP; sodium carbonate anhydrous, NF; sodium lauryl sulfate, NF; lecitihin, polyvinyl alcohol part hydrolyzed, talc, titanium dioxide, xanthan gum and iron oxide yellow.
+Atorvastatin calcium tablets, USP for oral administration contain 10 mg, 20 mg, 40 mg, or 80 mg atorvastatin and the following inactive ingredients: anhydrous lactose, NF; colloidal silicon dioxide, NF; copovidone, NF; croscarmellose sodium, NF; magnesium stearate, NF; mannitol, USP; silicified microcrystalline cellulose, NF; sodium bicarbonate, USP; sodium carbonate anhydrous, NF; sodium lauryl sulfate, NF; lecithin, polyvinyl alcohol part hydrolyzed, talc, titanium dioxide, xanthan gum and iron oxide yellow.
 
 This product meets the requirements of USP Dissolution Test-2.
