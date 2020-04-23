@@ -8,7 +8,7 @@ The plasma concentrations during multiple dosing are similar to those after a si
 
 The mean elimination half-life of vancomycin from plasma is 4 to 6 hours in subjects with normal renal function.
 In the first 24 hours, about 75% of an administered dose of vancomycin is excreted in urine by glomerular filtration.
-Mean plasma clearance is about 0.058 L/kg/hr, and mean renal clearance is about 0.048 L/kg/hr.
+Mean plasma clearance is about 0.058 L/kg/h, and mean renal clearance is about 0.048 L/kg/h.
 Renal dysfunction slows excretion of vancomycin.
 In anephric patients, the average half-life of elimination is 7.5 days.
 The distribution coefficient is from 0.3 to 0.43 L/kg.

@@ -1,6 +1,6 @@
 # DESCRIPTION
 
-Vancomycin Hydrochloride for Injection, USP, is a lyophilized powder, for preparing intravenous (IV) infusions, in Pharmacy Bulk Package bottles containing the equivalent of 5 grams vancomycin base.
+Vancomycin hydrochloride for injection, USP, is a lyophilized powder, for preparing intravenous (IV) infusions, in Pharmacy Bulk Package bottles containing the equivalent of 5 grams vancomycin base.
 500 mg of the base is equivalent to 0.34 mmol, 750 mg of the base is equivalent to 0.51 mmol, and 1 g of the base is equivalent to 0.67 mmol.
 When reconstituted with Sterile Water for Injection to a concentration of 50 mg/mL for the 5 g Pharmacy Bulk Package bottle, the pH of the solution is between 2.5 and 4.5.
 Vancomycin hydrochloride for injection, USP should be administered intravenously in diluted solution (see DOSAGE AND ADMINISTRATION).

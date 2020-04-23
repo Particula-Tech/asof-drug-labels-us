@@ -25,7 +25,7 @@ Close monitoring of serum concentrations of vancomycin may be warranted in these
 Neonates
 
 In pediatric patients up to the age of 1 month, the total daily intravenous dosage may be lower.
-In neonates, an initial dose of 15 mg/kg is suggested, followed by 10 mg/kg every 12 hours for neonates in the first week of life and every 8 hours thereafter up to the age of 1 month.
+In neonates, an initial dose of 15 mg/kg is suggested, followed by 10 mg/kg every 12 hours for neonates in the 1st week of life and every 8 hours thereafter up to the age of 1 month.
 Each dose should be administered over 60 minutes.
 In premature infants, vancomycin clearance decreases as postconceptional age decreases.
 Therefore, longer dosing intervals may be necessary in premature infants.
@@ -41,7 +41,7 @@ Vancomycin serum concentrations can be determined by use of microbiologic assay,
 If creatinine clearance can be measured or estimated accurately, the dosage for most patients with renal impairment can be calculated using the following table.
 The dosage of vancomycin hydrochloride for injection per day in mg is about 15 times the glomerular filtration rate in mL/min (see following table).
 
-DOSAGE TABLE FOR VANCOMYCIN IN PATIENTS WITH IMPAIRED RENAL FUNCTION (Adapted from Moellering et al)1
+DOSAGE TABLE FOR VANCOMYCIN IN PATIENTS WITH IMPAIRED RENAL FUNCTION (Adapted from Moellering et al1)
 
 | Creatinine ClearancemL/min | Vancomycin Dosemg/24 h |
 | --- | --- |
@@ -51,17 +51,17 @@ The initial dose should be no less than 15 mg/kg, even in patients with mild to 
 
 The table is not valid for functionally anephric patients.
 For such patients, an initial dose of 15 mg/kg of body weight should be given to achieve prompt therapeutic serum concentrations.
-The dose required to maintain stable concentrations is 1.9 mg/kg/24 hr. In patients with marked renal impairment, it may be more convenient to give maintenance doses of 250 to 1,000 mg once every several days rather than administering the drug on a daily basis.
+The dose required to maintain stable concentrations is 1.9 mg/kg/24 h. In patients with marked renal impairment, it may be more convenient to give maintenance doses of 250 to 1,000 mg once every several days rather than administering the drug on a daily basis.
 In anuria, a dose of 1,000 mg every 7 to 10 days has been recommended.
 
 When only serum creatinine is known, the following formula (based on sex, weight and age of the patient) may be used to calculate creatinine clearance.
 Calculated creatinine clearances (mL/min) are only estimates.
 The creatinine clearance should be measured promptly.
 
-| Men: | Weight (kg) x (140 - age in years) |
-| --- | --- |
-|  | 72 x serum creatinine concentration (mg/dL) |
-| Women: | 0.85 x above value |
+| Men: |  | [Weight (kg) × (140 - age in years)] |
+| --- | --- | --- |
+|  |  | 72 × serum creatinine concentration (mg/dL) |
+| Women: |  | 0.85 × above value |
 
 The serum creatinine must represent a steady state of renal function.
 Otherwise, the estimated value for creatinine clearance is not valid.

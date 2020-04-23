@@ -5,7 +5,7 @@ It is indicated for penicillin-allergic patients, for patients who cannot receiv
 Vancomycin hydrochloride for injection, USP is indicated for initial therapy when methicillin-resistant staphylococci are suspected, but after susceptibility data are available, therapy should be adjusted accordingly.
 
 Vancomycin hydrochloride for injection, USP is effective in the treatment of staphylococcal endocarditis.
-Its effectiveness has been documented in other infections due to staphylococci, including septicemia, bone infections, lower respiratory tract infections, skin and skin-structure infections.
+Its effectiveness has been documented in other infections due to staphylococci, including septicemia, bone infections, lower respiratory tract infections, skin and skin structure infections.
 When staphylococcal infections are localized and purulent, antibiotics are used as adjuncts to appropriate surgical measures.
 
 Vancomycin hydrochloride for injection, USP has been reported to be effective alone or in combination with an aminoglycoside for endocarditis caused by S. viridans or S. bovis.

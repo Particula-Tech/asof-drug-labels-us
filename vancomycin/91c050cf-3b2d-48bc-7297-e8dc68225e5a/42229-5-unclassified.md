@@ -41,7 +41,7 @@ Parenteral drug products should be visually inspected for particulate matter and
 Oral vancomycin is used in treating antibiotic-associated pseudomembranous colitis caused by C. difficile and for staphylococcal enterocolitis.
 Vancomycin is not effective by the oral route for other types of infections.
 The usual adult total daily dosage is 500 mg to 2 g given in 3 or 4 divided doses for 7 to 10 days.
-The total daily dosage in pediatric patients is 40 mg/kg of body weight in 3 or 4 divided doses for 7 to 10 days.
+The total daily dose in children is 40 mg/kg of body weight in 3 or 4 divided doses for 7 to 10 days.
 The total daily dosage should not exceed 2 g. The appropriate dose may be diluted in 1 oz. of water and given to the patient to drink.
 Common flavoring syrups may be added to the solution to improve the taste for oral administration.
-The diluted solution may be administered via nasogastric tube.
+The diluted solution may be administered via a nasogastric tube.

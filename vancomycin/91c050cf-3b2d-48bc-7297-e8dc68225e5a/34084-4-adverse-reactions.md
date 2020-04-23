@@ -10,10 +10,10 @@ In studies of normal volunteers, infusion-related events did not occur when vanc
 
 Nephrotoxicity
 
-Renal failure, principally manifested by increased serum creatinine or BUN concentrations, especially in patients administered large doses of vancomycin, has been reported rarely.
-Cases of interstitial nephritis have also been reported rarely.
-Most of these have occurred in patients who were given aminoglycosides concomitantly or who had preexisting kidney dysfunction.
-When vancomycin was discontinued, azotemia resolved in most patients.
+Systemic vancomycin exposure may result in acute kidney injury (AKI).
+The risk of AKI increases as systemic exposure/serum levels increase.
+Additional risk factors for AKI in patients receiving vancomycin include receipt of concomitant drugs known to be nephrotoxic, in patients with pre-exiting renal impairment, or with co-morbidities that predispose to renal impairment.
+Interstitial nephritis has also been reported in patients receiving vancomycin.
 
 Gastrointestinal
 
@@ -41,7 +41,7 @@ Miscellaneous
 
 Infrequently, patients have been reported to have had anaphylaxis, drug fever, nausea, chills, eosinophilia, rashes including exfoliative dermatitis, linear IgA bullous dermatosis, Stevens-Johnson syndrome, toxic epidermal necrolysis and vasculitis in association with the administration of vancomycin.
 
-Chemical peritonitis has been reported following intraperitoneal administration of vancomycin (see PRECAUTIONS).
+Chemical peritonitis has been reported following intraperitoneal administration (see PRECAUTIONS).
 
 Post Marketing Reports
 
