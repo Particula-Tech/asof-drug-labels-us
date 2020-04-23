@@ -11,7 +11,7 @@ Infusion-related events may occur, however, at any rate or concentration.
 ### Adults
 
 The usual daily intravenous dose is 2 g divided either as 500 mg every 6 hours or 1 g every 12 hours.
-Each dose should be administered at no more than 10 mg/min, or over a period of at least 60 minutes, whichever is longer.
+Each dose should be administered at no more than 10 mg/min or over a period of at least 60 minutes, whichever is longer.
 Other patient factors, such as age or obesity, may call for modification of the usual intravenous daily dose.
 
 ### Pediatric patients
@@ -38,7 +38,7 @@ Vancomycin serum concentrations can be determined by use of microbiologic assay,
 If creatinine clearance can be measured or estimated accurately, the dosage for most patients with renal impairment can be calculated using the following table.
 The dosage of vancomycin hydrochloride for injection per day in mg is about 15 times the glomerular filtration rate in mL/min (see following table).
 
-DOSAGE TABLE FOR VANCOMYCIN IN PATIENTS WITH IMPAIRED RENAL FUNCTION (Adapted from Moellering et al)1
+DOSAGE TABLE FOR VANCOMYCIN IN PATIENTS WITH IMPAIRED RENAL FUNCTION (Adapted from Moellering et al1)
 
 | Creatinine Clearance mL/min | Vancomycin Dose mg/24 h |
 | --- | --- |
@@ -56,7 +56,7 @@ DOSAGE TABLE FOR VANCOMYCIN IN PATIENTS WITH IMPAIRED RENAL FUNCTION (Adapted fr
 The initial dose should be no less than 15 mg/kg, even in patients with mild to moderate renal insufficiency.
 The table is not valid for functionally anephric patients.
 For such patients, an initial dose of 15 mg/kg of body weight should be given to achieve prompt therapeutic serum concentrations.
-The dose required to maintain stable concentrations is 1.9 mg/kg/24 hr. In patients with marked renal impairment, it may be more convenient to give maintenance doses of 250 to 1,000 mg once every several days rather than administering the drug on a daily basis.
+The dose required to maintain stable concentrations is 1.9 mg/kg/24 h. In patients with marked renal impairment, it may be more convenient to give maintenance doses of 250 to 1,000 mg once every several days rather than administering the drug on a daily basis.
 In anuria, a dose of 1,000 mg every 7 to 10 days has been recommended.
 When only serum creatinine is known, the following formula (based on sex, weight, and age of the patient) may be used to calculate creatinine clearance.
 Calculated creatinine clearances (mL/min) are only estimates.
@@ -73,7 +73,7 @@ Such a calculated clearance is an overestimate of actual clearance in patients w
 The safety and efficacy of vancomycin administration by the intrathecal (intralumbar or intraventricular) routes have not been established.
 Intermittent infusion is the recommended method of administration.
 
-## Compatibility with Other Drugs and Intravenous Fluids
+## Compatibility with Other Drugs and IV Fluids
 
 The following diluents are physically and chemically compatible (with 4 g/L vancomycin hydrochloride):
 
@@ -81,9 +81,9 @@ The following diluents are physically and chemically compatible (with 4 g/L vanc
 - 5% Dextrose Injection and 0.9% Sodium Chloride Injection, USP
 - Lactated Ringer's Injection, USP
 - 5% Dextrose and Lactated Ringer's Injection
-- Normosol™-M and 5% Dextrose
+- Normosol®-M and 5% Dextrose
 - 0.9% Sodium Chloride Injection, USP
-- Isolyte™ E
+- Isolyte® E
 
 Good professional practice suggests that compounded admixtures should be administered as soon after preparation as is feasible.
 
@@ -104,7 +104,7 @@ After reconstitution, the vials may be stored in a refrigerator for 14 days with
 Reconstituted solutions of vancomycin (500 mg/10 mL) must be further diluted in at least 100 mL of a suitable infusion solution.
 For doses of 750 mg (15 mL), at least 150 mL of solution must be used.
 For doses of 1 gram (20 mL), at least 200 mL of solution must be used.
-The desired dose, diluted in this manner, should be administered by intermittent IV infusion over a period of at least 60 minutes.
+The desired dose diluted in this manner should be administered by intermittent IV infusion over a period of at least 60 minutes.
 
 ## Compatibility with Intravenous Fluids
 
@@ -114,8 +114,8 @@ Solutions that are diluted with the following infusion fluids may be stored in a
 - 5% Dextrose Injection and 0.9% Sodium Chloride Injection USP
 - Lactated Ringer's Injection USP
 - Lactated Ringer's and 5% Dextrose Injection USP
-- Normosol™-M and 5% Dextrose
-- Isolyte™ E
+- Normosol®-M and 5% Dextrose
+- Isolyte® E
 
 Vancomycin solution has a low pH and may cause chemical or physical instability when it is mixed with other compounds.
 

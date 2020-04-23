@@ -22,7 +22,9 @@ Vancomycin should be used with caution in patients with renal insufficiency beca
 
 Dosage of vancomycin hydrochloride for injection must be adjusted for patients with renal dysfunction (see PRECAUTIONS and DOSAGE AND ADMINISTRATION).
 
-Clostridium difficile associated diarrhea (CDAD) has been reported with use of nearly all antibacterial agents, including vancomycin hydrochloride for injection, and may range in severity from mild diarrhea to fatal colitis.
+## Clostridioides difficile Associated Diarrhea (CDAD)
+
+Clostridioides difficile associated diarrhea (CDAD) has been reported with use of nearly all antibacterial agents, including vancomycin hydrochloride for injection, and may range in severity from mild diarrhea to fatal colitis.
 Treatment with antibacterial agents alters the normal flora of the colon leading to overgrowth of C. difficile.
 
 C. difficile produces toxins A and B which contribute to the development of CDAD.
@@ -32,6 +34,12 @@ Careful medical history is necessary since CDAD has been reported to occur over 
 
 If CDAD is suspected or confirmed, ongoing antibiotic use not directed against C. difficile may need to be discontinued.
 Appropriate fluid and electrolyte management, protein supplementation, antibiotic treatment of C. difficile, and surgical evaluation should be instituted as clinically indicated.
+
+## Hemorrhagic Occlusive Retinal Vasculitis (HORV)
+
+Hemorrhagic occlusive retinal vasculitis, including permanent loss of vision, occurred in patients receiving intracameral or intravitreal administration of vancomycin during or after cataract surgery.
+The safety and efficacy of vancomycin administered by the intracameral or the intravitreal route have not been established by adequate and well-controlled trials.
+Vancomycin is not indicated for the prophylaxis of endophthalmitis.
 
 # PRECAUTIONS
 
@@ -47,13 +55,13 @@ Serial tests of auditory function may be helpful in order to minimize the risk o
 Reversible neutropenia has been reported in patients receiving vancomycin hydrochloride for injection (see ADVERSE REACTIONS).
 Patients who will undergo prolonged therapy with vancomycin hydrochloride for injection or those who are receiving concomitant drugs which may cause neutropenia should have periodic monitoring of the leukocyte count.
 
-Vancomycin hydrochloride for injection is irritating to tissue and must be given by a secure intravenous route of administration.
+Vancomycin hydrochloride for injection is irritating to tissue and must be given by a secure IV route of administration.
 Pain, tenderness, and necrosis occur with intramuscular (IM) injection of vancomycin hydrochloride for injection or with inadvertent extravasation.
 Thrombophlebitis may occur, the frequency and severity of which can be minimized by administering the drug slowly as a dilute solution (2.5 to 5 g/L) and by rotation of venous access sites.
 
 There have been reports that the frequency of infusion-related events (including hypotension, flushing, erythema, urticaria, and pruritus) increases with the concomitant administration of anesthetic agents.
 Infusion-related events may be minimized by the administration of vancomycin as a 60-minute infusion prior to anesthetic induction.
-The safety and efficacy of vancomycin administered by the intrathecal (intralumbar or intraventricular) route or by the intraperitoneal route have not been established by adequate and well controlled trials.
+The safety and efficacy of vancomycin administered by the intrathecal (intralumbar or intraventricular) route or by the intraperitoneal route have not been established by adequate and well-controlled trials.
 
 Reports have revealed that administration of sterile vancomycin by the intraperitoneal route during continuous ambulatory peritoneal dialysis (CAPD) has resulted in a syndrome of chemical peritonitis.
 To date, this syndrome has ranged from cloudy dialysate alone to a cloudy dialysate accompanied by variable degrees of abdominal pain and fever.
