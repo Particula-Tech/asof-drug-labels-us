@@ -61,4 +61,4 @@ Blood and lymphatic system disorders:Agranulocytosis
 
 Psychiatric disorders: Hallucination
 
-Skin and subcutaneous tissues disorders: Purpura, dermatitis psoriasform, dermatitis diaper
+Skin and subcutaneous tissues disorders: Purpura, dermatitis psoriasform

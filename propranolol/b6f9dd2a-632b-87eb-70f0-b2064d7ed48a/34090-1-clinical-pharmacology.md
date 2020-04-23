@@ -82,7 +82,7 @@ A study conducted in 12 Caucasian and 13 African-American adult male subjects ta
 
 Chinese adult subjects had a greater proportion (18% to 45% higher) of unbound propranolol in plasma compared to Caucasians, which was associated with a lower plasma concentration of alpha1 acid glycoprotein.
 
-## 12.6 Drug Interactions
+Drug Interaction Studies
 
 Impact of propranolol on co-administered drugs: The effect of propranolol on plasma concentration of co-administered drug is presented in the table below.
 

@@ -3,7 +3,7 @@
 ## 16.1 How Supplied
 
 HEMANGEOL is supplied as an oral solution.
-Each 1 mL contains 4.28 mg propranolol hydrochloride (equivalent to 3.75 mg propranolol).
+Each 1 mL contains 4.28 mg propranolol hydrochloride.
 HEMANGEOL is supplied in a carton containing one 120 mL bottle with syringe adapter and one 5 mL oral dosing syringe.
 
 NDC 64370-375-01 Bottle 120 mL
