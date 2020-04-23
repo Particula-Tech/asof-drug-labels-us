@@ -1,33 +1,31 @@
 # 8 USE IN SPECIFIC POPULATIONS
 
-## 8.1 Pregnancy: Pregnancy Category C.
+## 8.1 Pregnancy
 
-There are no data on the use of carisoprodol during human pregnancy.
-Animal studies indicate that carisoprodol crosses the placenta and results in adverse effects on fetal growth and postnatal survival.
-The primary metabolite of carisoprodol, meprobamate, is an approved anxiolytic.
-Retrospective, post-marketing studies do not show a consistent association between maternal use of meprobamate and an increased risk for particular congenital malformations.
+Risk Summary Data over many decades of carisoprodol use in pregnancy have not identified a drug-associated risk of major birth defects, miscarriage, or other adverse maternal or fetal outcomes.
+Data on meprobamate, the primary metabolite of carisoprodol, also do not show a consistent association between maternal use of meprobamate and an increased risk of major birth defects (see Data).
 
-Teratogenic effects: Animal studies have not adequately evaluated the teratogenic effects of carisoprodol.
-There was no increase in the incidence of congenital malformations noted in reproductive studies in rats, rabbits, and mice treated with meprobamate.
-Retrospective, post-marketing studies of meprobamate during human pregnancy were equivocal for demonstrating an increased risk of congenital malformations following first trimester exposure.
-Across studies that indicated an increased risk, the types of malformations were inconsistent.
+In a published animal reproduction study, pregnant mice administered carisoprodol orally at 2.6- and 4.1-times the maximum recommended human dose ([MRHD] of 1,400 mg per day [350 mg QID] based on body surface area [BSA] comparison) from gestation through weaning resulted in reduced fetal weights, postnatal weight gain, and postnatal survival (see Data).
 
-Nonteratogenic effects: In animal studies, carisoprodol reduced fetal weights, postnatal weight gain, and postnatal survival at maternal doses equivalent to 1 to 1.5 times the human dose (based on a body surface area comparison).
-Rats exposed to meprobamate in-utero showed behavioral alterations that persisted into adulthood.
-For children exposed to meprobamate in-utero, one study found no adverse effects on mental or motor development or IQ scores. carisoprodol should be used during pregnancy only if the potential benefit justifies the risk to the fetus.
+The estimated background risk of major birth defects and miscarriage for the indicated population is unknown.
+All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively.
 
-## 8.2 Labor and Delivery
+Data Human Data Retrospective case-control and cohort studies of meprobamate use during the first trimester of pregnancy have not consistently identified an increased risk or pattern of major birth defects.
+For children exposed to meprobamate in-utero, one study found no adverse effect on mental or motor development or IQ scores.
 
-There is no information about the effects of carisoprodol on the mother and the fetus during labor and delivery.
+Animal Data Embryofetal development studies in animals have not been completed.
 
-## 8.3 Nursing Mothers
+In a published pre- and post-natal development animal study, pregnant mice administered carisoprodol orally at 300 mg/kg/day, 750 mg/kg/day, or 1,200 mg/kg/day (approximately 1-, 2.6-, and 4.1-times the MRHD based on BSA comparison) from 7-days prior to gestation through birth and from lactation through weaning resulted in reduced fetal weights, postnatal weight gain, and postnatal survival at 2.6- and 4.1-times the MRHD.
 
-Very limited data in humans show that carisoprodol is present in breast milk and may reach concentrations two to four times the maternal plasma concentrations.
-In one case report, a breast-fed infant received about 4 to 6% of the maternal daily dose through breast milk and experienced no adverse effects.
-However, milk production was inadequate and the baby was supplemented with formula.
-In lactation studies in mice, female pup survival and pup weight at weaning were decreased.
-This information suggests that maternal use of carisoprodol may lead to reduced or less effective infant feeding (due to sedation) and/or decreased milk production.
-Caution should be exercised when carisoprodol is administered to a nursing woman.
+## 8.2 Lactation
+
+Risk Summary Data from published literature report that carisoprodol and its metabolite, meprobamate, are present in breastmilk.
+There are no data on the effect of carisoprodol on milk production.
+There is one report of sedation in an infant who was breastfed by a mother taking carisoprodol (see Clinical Considerations).
+Because there have been no consistent reports of adverse events in breastfed infants over decades of use, the developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for carisoprodol and any potential adverse effects on the breastfed infant from carisoprodol or from the underlying maternal condition.
+
+Clinical Considerations Infants exposed to carisoprodol through breast milk should be monitored for sedation.
 
 ## 8.4 Pediatric Use
 
@@ -51,4 +49,5 @@ Since carisoprodol is metabolized in the liver, caution should be exercised if c
 ## 8.8 Patients with Reduced CYP2C19 Activity
 
 Patients with reduced CYP2C19 activity have higher exposure to carisoprodol.
-Therefore, caution should be exercised in administration of carisoprodol to these patients [see Clinical Pharmacology (12.3)].
+Therefore, caution should be exercised in administration of carisoprodol to these patients.
+[see Clinical Pharmacology (12.3)].

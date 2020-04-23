@@ -1,3 +1,3 @@
 # 3 DOSAGE FORMS AND STRENGTHS
 
-350 mg Tablets: round, convex, white tablets, debossed with SG 109 on one side.
+Carisoprodol tablets USP, 350 mg: round, convex, white tablets, debossed with SG 109 on one side.

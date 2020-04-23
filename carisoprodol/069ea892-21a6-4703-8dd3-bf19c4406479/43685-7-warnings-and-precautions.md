@@ -9,19 +9,17 @@ Since the sedative effects of carisoprodol and other CNS depressants (e.g., alco
 
 ## 5.2 Abuse, Dependence, and Withdrawal
 
-Carisoprodol, the active ingredient in carisoprodol tablets, USP, has been subject to abuse, dependence, and withdrawal, misuse and criminal diversion.
-[see Drug Abuse and Dependence (9.1, 9.2, 9.3).
-Abuse of carisoprodol tablets, USP poses a risk of overdosage which may lead to death, CNS and respiratory depression, hypotension, seizures, and other disorders.
-[see over dosage(10)].
+Carisoprodol, the active ingredient in carisoprodol tablet, has been subject to abuse, dependence, and withdrawal, misuse and criminal diversion.
+[see Drug Abuse and Dependence (9.1, 9.2, 9.3)].
+Abuse of carisoprodol poses a risk of overdosage which may lead to death, CNS and respiratory depression, hypotension, seizures and other disorders [see overdosage (10)].
 
 Post-marketing experience cases of carisoprodol abuse and dependence have been reported in patients with prolonged use and a history of drug abuse.
 Although most of these patients took other drugs of abuse, some patients solely abused carisoprodol.
 Withdrawal symptoms have been reported following abrupt cessation of carisoprodol after prolonged use.
 Reported withdrawal symptoms included insomnia, vomiting, abdominal cramps, headache, tremors, muscle twitching, ataxia, hallucinations, and psychosis.
-One of carisoprodol’s metabolites, meprobamate (a controlled substance), may also cause dependence.
-[see Clinical Pharmacology (12.3)]
+One of carisoprodol’s metabolites, meprobamate (a controlled substance), may also cause dependence [see Clinical Pharmacology (12.3)].
 
-To reduce the risk of carisoprodol tablets, USP abuse assess the risk of abuse prior to prescribing.
+To reduce the risk of carisoprodol abuse assess the risk of abuse prior to prescribing.
 After prescribing, limit the length of treatment to three weeks for the relief of acute musculoskeletal discomfort, keep careful prescription records, monitor for signs of abuse and overdose, and educate patients and their families about abuse and on proper storage and disposal.
 
 ## 5.3 Seizures
