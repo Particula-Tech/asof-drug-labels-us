@@ -2,15 +2,15 @@
 
 UCERIS (u SAIR us)
 
-(budesonide) (bew DEH so nide)
+(budesonide)
 
 extended release tablets
 
 What are UCERIS extended release tablets?
 
-UCERIS is a prescription corticosteroid medicine used to help get mild to moderate ulcerative colitis (UC) under control (induce remission).
+UCERIS extended release tablets are a prescription corticosteroid medicine used to help get active mild to moderate ulcerative colitis (UC) under control (induce remission).
 
-It is not known if UCERIS is safe and effective in children.
+It is not known if UCERIS extended release tablets are safe and effective in children.
 
 Who should not take UCERIS extended release tablets?
 
@@ -21,27 +21,29 @@ Do not take UCERIS extended release tablets if:
 
 What should I tell my healthcare provider before taking UCERIS extended release tablets?
 
-Before you take UCERIS extended release tablets tell your healthcare provider if you:
+Before you take UCERIS extended release tablets tell your healthcare provider about all of your medical conditions, including if you:
 
-- •have liver problems
-- •are planning to have surgery
-- •have chickenpox or measles or have recently been near anyone with chickenpox or measles
-- •have an infection
-- •have or had a family history of diabetes, cataracts or glaucoma
-- •have or had tuberculosis
-- •have high blood pressure (hypertension)
-- •have decreased bone mineral density (osteoporosis)
-- •have stomach ulcers
-- •have any other medical condition
+- •have liver problems.
+- •are planning to have surgery.
+- •have chickenpox or measles or have recently been near anyone with chickenpox or measles.
+- •have an infection.
+- •have or had a family history of diabetes, cataracts or glaucoma.
+- •have or had tuberculosis.
+- •have high blood pressure (hypertension).
+- •have decreased bone mineral density (osteoporosis).
+- •have stomach ulcers.
 - •are pregnant or plan to become pregnant.
-  It is not known if UCERIS extended release tablets will harm your unborn baby.
+  UCERIS extended release tablets may harm your unborn baby.
+  Tell your healthcare provider if you are pregnant or think you are pregnant.
 - •are breastfeeding or plan to breastfeed.
   UCERIS extended release tablets can pass into your breast milk and may harm your baby.
   You and your healthcare provider should decide if you will take UCERIS extended release tablets or breastfeed.
   You should not do both.
 
-Tell your healthcare provider about all the medicines you take, including prescription and over-the-counter vitamins, and herbal supplements.
+Tell your healthcare provider about all the medicines you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements.
 UCERIS extended release tablets and other medicines may affect each other causing side effects.
+
+Especially tell your healthcare provider if you take another medicine that contains corticosteroids for other conditions, such as allergies or asthma.
 
 Know the medicines you take.
 Keep a list of them to show your healthcare provider and pharmacist when you get a new medicine.
@@ -49,11 +51,10 @@ Keep a list of them to show your healthcare provider and pharmacist when you get
 How should I take UCERIS extended release tablets?
 
 - •Take UCERIS extended release tablets exactly as your healthcare provider tells you to take them.
-- •Your healthcare provider will tell you how many UCERIS extended release tablets to take.
-- •Take UCERIS extended release tablets in the morning.
+- •Take UCERIS extended release tablets 1 time each day in the morning with or without food.
 - •Take UCERIS extended release tablets whole with water.
   Do not chew, crush, or break UCERIS extended release tablets before swallowing.
-- •If you take too much of UCERIS, call your healthcare provider right away or go to the nearest hospital emergency room.
+- •If you take too much of UCERIS extended release tablets, call your healthcare provider right away or go to the nearest hospital emergency room.
 
 What should I avoid while taking UCERIS extended release tablets?
 
@@ -62,7 +63,7 @@ What should I avoid while taking UCERIS extended release tablets?
 
 What are the possible side effects of UCERIS extended release tablets?
 
-UCERIS can cause some serious side effects, including:
+UCERIS extended release tablets may cause some serious side effects, including:
 
 - •Effects of having too much corticosteroid medicine in your blood (hypercorticism).
   Long-time use of UCERIS extended release tablets can cause you to have too much glucocorticosteroid medicine in your blood.
@@ -75,7 +76,7 @@ UCERIS can cause some serious side effects, including:
 - •a fatty pad or hump between your shoulders (buffalo hump)
 - •pink or purple stretch marks on the skin of your abdomen, thighs, breasts and arms
 - •Adrenal suppression.
-  When UCERIS extended release tablets is taken for a long period of time (chronic use), the adrenal glands do not make enough steroid hormones (adrenal suppression).
+  When UCERIS extended release tablets are taken for a long period of time (chronic use), the adrenal glands do not make enough steroid hormones (adrenal suppression).
   Tell your healthcare provider if you are under stress or have any symptoms of adrenal suppression during treatment with UCERIS extended release tablets including:
 - •tiredness
 - •weakness
@@ -125,51 +126,45 @@ You may report side effects to FDA at 1-800-FDA-1088.
 
 How should I store UCERIS extended release tablets?
 
-- •Store at 25°C (77°F); excursions permitted to 15° to 30°C (59° to 86°F) [see USP Controlled Room Temperature].
-- •Keep the bottle tightly closed to protect UCERIS from light and moisture.
+- •Store UCERIS extended release tablets at room temperature, between 68°F to 77°F (20°C to 25°C).
+- •Keep the bottle tightly closed to protect UCERIS extended release tablets from light and moisture.
 
-Keep out of reach of children
+Keep UCERIS extended release tablets and all medicines out of the reach of children.
 
-General Information about UCERIS extended release tablets
+General information about the safe and effective use of UCERIS extended release tablets.
 
-Medicines are sometimes prescribed for purposes other than those listed in a patient information leaflet.
-Do not use UCERIS for a condition for which it was not prescribed.
-Do not give UCERIS to other people, even if they have the same symptoms you have.
+Medicines are sometimes prescribed for purposes other than those listed in a Patient Information leaflet.
+Do not use UCERIS extended release tablets for a condition for which it was not prescribed.
+Do not give UCERIS extended release tablets to other people, even if they have the same symptoms you have.
 It may harm them.
 
-If you would like more information, talk with your healthcare provider.
-You can ask your healthcare provider or pharmacist for information about UCERIS that is written for health professionals.
+You can ask your healthcare provider or pharmacist for information about UCERIS extended release tablets that is written for health professionals.
 
 For more information go to www.UCERIS.com or call 1-800-321-4576.
 
 What are the ingredients in UCERIS extended release tablets?
 
-Active Ingredients: budesonide
+Active Ingredient: budesonide
 
 Inactive ingredients: stearic acid, lecithin, microcrystalline cellulose, hydroxypropyl cellulose, lactose, silicon dioxide, magnesium stearate, methacrylic acid copolymer types A and B, talc, triethyl citrate, and titanium dioxide.
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 
-Manufactured for:
+Distributed by:
 
-Salix Pharmaceuticals, a division of
+Salix Pharmaceuticals, a division of Bausch Health US, LLC Bridgewater, NJ 08807 USA
 
-Valeant Pharmaceuticals North America LLC
+By:
 
-Bridgewater, NJ 08807 USA
-
-By: Cosmo S.p.A.
+Cosmo S.p.A.
 Milan, 20020 Italy
 
-By license of Cosmo Technologies Ltd., Dublin, Ireland U.S. Patent Numbers: 7,410,651; 7,431,943; 8,293,273; 8,784,888;
+By license of Cosmo Technologies Ltd., Dublin, Ireland
 
-8,895,064; 9,132,093; 9,192,581; 9,320,716; 9,532,954; 9,592,203 and RE43799
+U.S. Patent Numbers: 7,410,651; 7,431,943; 8,293,273; 8,784,888; 8,895,064; 9,132,093; 9,192,581; 9,320,716; 9,532,954; 9,592,203 and RE43799
 
-Uceris is a trademark of Valeant Pharmaceuticals International, Inc.
+UCERIS is a trademark of Salix Pharmaceuticals, Inc. or its affiliates.
 
-or its affiliates.
+© 2020 Salix Pharmaceuticals, Inc. or its affiliates
 
-© Valeant Pharmaceuticals North America LLC
-
-1. 9464202 70013428 Rev.
-   02/2018
+Revised: 04/2020

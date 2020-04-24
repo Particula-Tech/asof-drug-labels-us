@@ -38,7 +38,7 @@ Summary of Adverse Reactions in Two Placebo-Controlled Trials Experienced by at 
 
 Of UCERIS 9 mg patients, a total of 15% discontinued treatment due to any adverse event (including adverse reactions) compared with 17% in the placebo group.
 
-Table 2 summarizes the percentages of patients reporting glucocorticoid- related effects in the 2 placebo-controlled studies.
+Table 2 summarizes the percentages of patients reporting glucocorticoid-related effects in the 2 placebo-controlled studies.
 
 Table 2.
 Summary of Glucocorticoid-Related Effects in Two Placebo-Controlled Trials (Studies 1 and 2)

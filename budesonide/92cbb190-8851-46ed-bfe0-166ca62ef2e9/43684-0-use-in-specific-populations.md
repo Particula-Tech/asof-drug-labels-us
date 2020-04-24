@@ -2,32 +2,135 @@
 
 ## 8.1 Pregnancy
 
-Teratogenic Effects: Pregnancy Category C
+Risk Summary
 
-Budesonide was teratogenic and embryocidal in rabbits and rats.
-Budesonide produced fetal loss, decreased pup weights, and skeletal abnormalities at subcutaneous doses of 25 mcg/kg in rabbits (approximately 0.05 times the maximum recommended human dose on a body surface area basis) and 500 mcg/kg in rats (approximately 0.5 times the maximum recommended human dose on a body surface area basis).
+Limited published studies report on the use of budesonide in pregnant women; however, the data are insufficient to inform
 
-There are no adequate and well-controlled studies in pregnant women.
-Budesonide should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
+a drug-associated risk for major birth defects and miscarriage.
+There are clinical considerations (see Clinical
 
-Nonteratogenic Effects Hypoadrenalism may occur in infants born of mothers receiving glucocorticosteroids during pregnancy.
-Such infants should be carefully observed.
+Considerations).
+In animal reproduction studies with pregnant rats and rabbits, subcutaneous administration of
 
-## 8.3 Nursing Mothers
+budesonide during organogenesis at doses 0.5 times and 0.05 times, respectively, the maximum recommended human
 
-The disposition of budesonide when delivered by inhalation from a dry powder inhaler at doses of 200 or 400 mcg twice daily for at least 3 months was studied in eight lactating women with asthma from 1 to 6 months postpartum.1 Systemic exposure to budesonide in these women appears to be comparable to that in non-lactating women with asthma from other studies.
-Breast milk obtained over 8 hours post-dose revealed that the maximum budesonide concentration for the 400 and 800 mcg total daily doses was 0.39 and 0.78 nmol/L, respectively, and occurred within 45 minutes after inhalation.
-The estimated oral daily dose of budesonide from breast milk to the infant is approximately 0.007 and 0.014 mcg/kg/day for the two-dose regimens used in this study, which represents approximately 0.3% to 1% of the dose inhaled by the mother.
-Budesonide plasma concentrations obtained from five infants at about 90 minutes after breastfeeding (and about 140 minutes after drug administration to the mother) were below quantifiable levels (<0.02 nmol/L in four infants and <0.04 nmol/L in one infant).
+dose, resulted in increased fetal loss, decreased pup weights, and skeletal abnormalities.
+Maternal toxicity was observed
 
-The recommended daily dose of UCERIS extended release tablets is higher (9 mg daily) compared with inhaled budesonide (up to 800 mcg daily) given to mothers in the above study.
-The maximum budesonide plasma concentration following a 9 mg daily dose (in both single- and repeated-dose pharmacokinetic studies) of oral budesonide is approximately 5-10 nmol/L which is up to 10 times higher than the 1-2 nmol/L for a 800 mcg daily dose of inhaled budesonide at steady state in the above inhalation study.
+in both rats and rabbits at these dose levels (see Data).
+Based on animal data, advise pregnant women of the potential risk
 
-Since there are no data from controlled trials on the use of UCERIS by nursing mothers or their infants, and because of the potential for serious adverse reactions in nursing infants from UCERIS, a decision should be made whether to discontinue nursing or to discontinue UCERIS, taking into account the clinical importance of UCERIS to the mother.
+to a fetus.
 
-Budesonide is secreted in human milk.
-Data from budesonide delivered via dry powder inhaler indicates that the total daily oral dose of budesonide available in breast milk to the infant is approximately 0.3% to 1% of the dose inhaled by the mother.
-Assuming the coefficient of extrapolation between the inhaled and oral doses is constant across all dose levels, at therapeutic doses of UCERIS, budesonide exposure to the nursing child may be up to 10 times higher than that by budesonide inhalation.
+The estimated background risk of major birth defects and miscarriage of the indicated population is unknown.
+All
+
+pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
+In the U.S. general population, the
+
+estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4%, and
+
+15% to 20%, respectively.
+
+Clinical Considerations
+
+Disease-Associated Maternal and/or Embryo/Fetal Risk
+
+Published data suggest that increased disease activity is associated with the risk of developing adverse pregnancy
+
+outcomes in women with ulcerative colitis.
+Adverse pregnancy outcomes include preterm delivery (before 37 weeks of
+
+gestation), low birth weight (less than 2500 g) infants, and small for gestational age at birth.
+
+Fetal/Neonatal Adverse Reactions
+
+Hypoadrenalism may occur in infants born of mothers receiving corticosteroids during pregnancy.
+Infants should be
+
+carefully observed for signs of hypoadrenalism, such as poor feeding, irritability, weakness, and vomiting, and managed
+
+accordingly [see Warnings and Precautions (5.1)].
+
+Data
+
+Animal Data
+
+Budesonide was teratogenic and embryolethal in rabbits and rats.
+In an embryo-fetal development study in pregnant rats
+
+dosed subcutaneously with budesonide during the period of organogenesis from gestation days 6-15 there were effects on
+
+fetal development and survival at subcutaneous doses up to approximately 500 mcg/kg in rats (approximately 0.5 times
+
+the maximum recommended human dose on a body surface area basis).
+In an embryo-fetal development study in pregnant
+
+rabbits dosed during the period of organogenesis from gestation days 6-18, there was an increase in maternal abortion, and
+
+effects on fetal development and reduction in litter weights at subcutaneous doses up to approximately 25 mcg/kg in
+
+rabbits (approximately 0.05 times the maximum recommended human dose on a body surface area basis).
+Maternal
+
+toxicity, including reduction in body weight gain, was observed at subcutaneous doses of 5 mcg/kg in rabbits
+
+(approximately 0.01 times the maximum recommended human dose on a body surface area basis) and 500 mcg/kg in rats
+
+(approximately 0.5 times the maximum recommended human dose on a body surface area basis).
+
+In a peri-and post-natal development study, rats dosed subcutaneously with budesonide during the period of Day 15 post
+
+coitum to Day 21 postpartum, budesonide had no effects on delivery but did have an effect on growth and development of offspring.
+In addition, offspring survival was reduced, and surviving offspring had decreased mean body weights at birth
+
+and during lactation at exposures 0.02 times the MRHD (on a mg/m2 basis at maternal subcutaneous doses of 20
+
+mcg/kg/day and higher).
+These findings occurred in the presence of maternal toxicity.
+
+## 8.2 Lactation
+
+Risk Summary
+
+Lactation studies have not been conducted with UCERIS or other oral budesonide products and no information is
+
+available on the effects of budesonide on the breastfed infant or the effects of the drug on milk production.
+One published
+
+study reports that budesonide is present in human milk following maternal inhalation of budesonide (see Data).
+The
+
+developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for
+
+UCERIS and any potential adverse effects on the breastfed infant from UCERIS, or from the underlying maternal
+
+condition.
+
+Data
+
+One published study reports that budesonide is present in human milk following maternal inhalation of budesonide
+
+which resulted in infant doses approximately 0.3% to 1% of the maternal weight-adjusted dosage and a milk/plasma ratio
+
+ranging between 0.4 and 0.5.
+Budesonide plasma concentrations were not detected, and no adverse events were noted in
+
+the breastfed infants following maternal use of inhaled budesonide.
+The recommended daily dose of UCERIS is higher
+
+(9 mg daily) compared with inhaled budesonide (up to 800 mcg daily) given to mothers in the above described study.
+
+The maximum budesonide plasma concentration following a 9 mg daily dose (in both single-and repeated-dose
+
+pharmacokinetic studies) of oral budesonide is approximately 5 to 10 nmol/L which is up to 10 times higher than the 1 to
+
+2 nmol/L for a 800 mcg daily dose of inhaled budesonide at steady state in the above inhalation study.
+Assuming the
+
+coefficient of extrapolation between the inhaled and oral doses is constant across all dose levels, at therapeutic doses of
+
+UCERIS, budesonide exposure to the nursing child may be up to 10 times higher than that by budesonide inhalation.
 
 ## 8.4 Pediatric Use
 

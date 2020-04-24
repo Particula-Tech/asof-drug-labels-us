@@ -15,7 +15,7 @@ In Study 2, more than 99% were Caucasian.
 
 Both studies compared UCERIS 9 mg and 6 mg with placebo and included an active reference arm (a mesalamine 2.4 g in Study 1 and a budesonide* 9 mg not approved for the treatment of UC in Study 2).
 The primary endpoint was induction of remission after 8 weeks of treatment.
-Remission was defined as a UCDAI score of ≤1, with subscores of 0 for rectal bleeding, stool frequency, and mucosal appearance and with a ≥1 point reduction in an endoscopy-only score.2 In both studies, UCERIS 9 mg extended release tablets demonstrated superiority to placebo in inducing remission (Table 4).
+Remission was defined as a UCDAI score of ≤1, with subscores of 0 for rectal bleeding, stool frequency, and mucosal appearance and with a ≥1 point reduction in an endoscopy-only score.2 In both studies, UCERIS 9 mg extended-release tablets demonstrated superiority to placebo in inducing remission (Table 4).
 
 Table 4.
 Induction of Remission in Studies 1 and 2
