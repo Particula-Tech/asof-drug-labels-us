@@ -1,6 +1,6 @@
 # OVERDOSAGE
 
-There have been reports of inadvertent overdosage with TIMOPTIC Ophthalmic Solution resulting in systemic effects similar to those seen with systemic beta-adrenergic blocking agents such as dizziness, headache, shortness of breath, bradycardia, bronchospasm, and cardiac arrest [see also ADVERSE REACTIONS].
+There have been reports of inadvertent overdosage with TIMOPTIC Ophthalmic Solution resulting in systemic effects similar to those seen with systemic beta-adrenergic blocking agents such as dizziness, headache, shortness of breath, bradycardia, bronchospasm, and cardiac arrest [see ADVERSE REACTIONS].
 
 Overdosage has been reported with timolol maleate tablets.
 A 30-year-old female ingested 650 mg of timolol maleate tablets (maximum recommended oral daily dose is 60 mg) and experienced second and third degree heart block.

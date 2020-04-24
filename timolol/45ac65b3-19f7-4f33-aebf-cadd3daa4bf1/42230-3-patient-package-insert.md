@@ -1,6 +1,6 @@
 # Instructions for Use
 
-Instructions for Use TIMOPTIC® (tim-op´tik)
+TIMOPTIC® (tim-op´tik)
 
 (timolol maleate ophthalmic solution) 0.25% and 0.5%
 
@@ -58,7 +58,7 @@ Put the cap back on the bottle and close.
 
 How should I store TIMOPTIC?
 
-- •Store TIMOPTIC at room temperature between 59°F to 77°F (15°C to 25°C) in an upright position.
+- •Store TIMOPTIC at room temperature between 59° to 77°F (15° to 25°C) in an upright position.
 - •Do not freeze TIMOPTIC.
 - •Keep TIMOPTIC out of light.
 
@@ -69,12 +69,18 @@ You can ask your pharmacist or doctor for more information about TIMOPTIC that i
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
-Distributed by: Bausch + Lomb, a division of Valeant Pharmaceuticals North America LLC, Bridgewater, NJ 08807 USA
+Distributed by:
 
-TIMOPTIC is a trademark of Valeant Pharmaceuticals International, Inc. or its affiliates.
+Bausch + Lomb, a division of Bausch Health US, LLC
 
-© Bausch & Lomb Incorporated
+Bridgewater, NJ 08807 USA
 
-Revised: 04/2016
+TIMOPTIC is a trademark of Bausch & Lomb Incorporated or its affiliates.
 
-9519200
+© 2020 Bausch & Lomb Incorporated or its affiliates
+
+Revised: 02/2020
+
+9667801 (L-500346)
+
+9667901 (L-500347)

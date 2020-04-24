@@ -16,8 +16,14 @@ Store at 15° to 25°C (59° to 77°F).
 Protect from freezing.
 Protect from light.
 
-Distributed by: Bausch + Lomb, a division of Valeant Pharmaceuticals North America LLC, Bridgewater, NJ 08807 USA TIMOPTIC is a trademark of Valeant Pharmaceuticals International, Inc. or its affiliates.
+Distributed by:
 
-© Bausch & Lomb Incorporated
+Bausch + Lomb, a division of Bausch Health US, LLC
 
-Revised: 04/2016
+Bridgewater, NJ 08807 USA
+
+TIMOPTIC is a trademark of Bausch & Lomb Incorporated or its affiliates.
+
+© 2020 Bausch & Lomb Incorporated or its affiliates
+
+Revised: 02/2020
