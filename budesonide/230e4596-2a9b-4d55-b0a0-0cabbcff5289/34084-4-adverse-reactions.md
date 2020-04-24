@@ -54,7 +54,7 @@ No clinically significant differences were observed with respect to the overall 
 
 For additional details on morning cortisol levels and the response to the ACTH stimulation test, see Clinical Pharmacology (12.2).
 
-## 6.2 Post-Marketing Experience
+## 6.2 Postmarketing Experience
 
 In addition to adverse reactions reported from clinical trials for UCERIS rectal foam, the following adverse reactions have been identified during post-approval use of other oral and rectal formulations of budesonide.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.

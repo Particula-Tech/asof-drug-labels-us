@@ -1,4 +1,4 @@
-# 17 PATIENT AND COUNSELING INFORMATION
+# 17 PATIENT COUNSELING INFORMATION
 
 Advise the patient to read the FDA-approved patient labeling (Patient Information and Instructions for Use)
 
@@ -29,20 +29,18 @@ Increased Risk of Infection
 Advise patients to avoid exposure to people with chicken pox or measles and if exposed, consult a physician.
 Also, inform patients that they are at increased risk of developing a variety of infections, including worsening of existing tuberculosis, fungal, bacterial, viral, or parasitic infections, or ocular herpes simplex and to contact their physician if they develop any symptoms of infection [see Warnings and Precautions (5.3)].
 
-Manufactured for:
+Pregnancy
 
-Salix Pharmaceuticals, a division of
+Advise female patients that UCERIS rectal foam may cause fetal harm and to inform their healthcare provider with a
 
-Valeant Pharmaceuticals North America LLC
+known or suspected pregnancy [see Use in Specific Populations (8.1)].
 
-Bridgewater, NJ 08807 USA
+Distributed by: Salix Pharmaceuticals, a division of
+
+Bausch Health US, LLC, Bridgewater, NJ 08807 USA
 
 Product marketed and distributed under license from Dr. Falk Pharma.
 
-UCERIS is a trademark of Valeant Pharmaceuticals International, Inc. or its affiliates.
+UCERIS is a trademark of Salix Pharmaceuticals, Inc. or its affiliates.
 
-© Valeant Pharmaceuticals North America LLC
-
-9499001
-
-Revised: 09/2016
+© 2020 Salix Pharmaceuticals, Inc. or its affiliates

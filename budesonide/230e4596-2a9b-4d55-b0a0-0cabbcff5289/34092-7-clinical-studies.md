@@ -35,11 +35,11 @@ Table 4: Efficacy Results: Studies 1 and 2
 | --- | --- | --- | --- | --- |
 | UCERIS Rectal Foam N = 133 | PlaceboN=132 | p-valuep-values obtained from the Cochran-Mantel-Haenszel (CMH) test. | Treatment Difference(95% CI) |  |
 | Remission at Week 6Remission was defined as an endoscopy subscore of 0 or 1, a rectal bleeding subscore of 0, and a decrease or no change in stool frequency subscore from baseline. | 38.3% | 25.8% | 0.032 | 12.6% (1.5%, 23.7%) |
-| Rectal bleeding subscore = 0 at Week 6 | 46.6% | 28.0% | 0.002 | 18.6% (7.2%, 30%) |
+| Rectal Bleeding subscore = 0 at Week 6 | 46.6% | 28.0% | 0.002 | 18.6% (7.2%, 30%) |
 |  | Study 2 |  |  |  |
 |  | UCERIS Rectal Foam N = 134 | PlaceboN=147 | p-value | Treatment Difference(95% CI) |
 | Remission at Week 6 | 44.0% | 22.4% | < 0.001 | 21.6% (10.8%, 32.4%) |
-| Rectal bleeding subscore = 0 at Week 6 | 50.0% | 28.6% | < 0.001 | 21.4% (10.3%, 32.6%) |
+| Rectal Bleeding subscore = 0 at Week 6 | 50.0% | 28.6% | < 0.001 | 21.4% (10.3%, 32.6%) |
 
 CI: Confidence Interval
 

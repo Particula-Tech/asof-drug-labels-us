@@ -1,6 +1,6 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-## 2.1 Dosage
+## 2.1 Recommended Dosage
 
 The recommended dosage regimen is 1 metered dose administered rectally twice daily for 2 weeks followed by 1 metered dose administered rectally once daily for 4 weeks.
 
