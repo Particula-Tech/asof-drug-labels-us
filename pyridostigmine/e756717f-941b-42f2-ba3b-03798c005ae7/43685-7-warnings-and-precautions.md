@@ -13,7 +13,7 @@ Atropine may also be used to abolish or obtund gastrointestinal side effects or 
 
 For detailed information on the management of patients with myasthenia gravis, the physician is referred to one of the excellent reviews such as those by Osserman and Genkins2, Grob3 or Schwab4,5
 
-Usage in Pregnancy
+## Usage in Pregnancy
 
 The safety of pyridostigmine bromide tablets during pregnancy or lactation in humans has not been established.
 Therefore, use of pyridostigmine bromide tablets in women who may become pregnant requires weighing the drug's potential benefits against its possible hazards to mother and child.

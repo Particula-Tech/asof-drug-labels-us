@@ -2,11 +2,11 @@
 
 Pyridostigmine bromide tablets, USP are available in following dosage form:
 
-Conventional Tablets
+## Conventional Tablets
 
 each containing 30 mg pyridostigmine bromide.
 
-Dosage
+## Dosage
 
 The size and frequency of the dosage must be adjusted to the needs of the individual patient.
 
