@@ -25,8 +25,8 @@ The stated frequencies of adverse reactions represent the proportion of individu
 A reaction was considered treatment-emergent if it occurred for the first time or worsened while receiving therapy following baseline evaluation.
 Reactions reported during the studies were not necessarily caused by the therapy, and the frequencies do not reflect investigator impression (assessment) of causality.
 
-Adults — The data described below reflect exposure to duloxetine in placebo-controlled trials for MDD (N=3779), GAD (N=1018), OA (N=503), CLBP (N=600), DPNP (N=906), and another indication (N=1294).
-The population studied was 17 to 89 years of age; 65.7%, 60.8%, 60.6%, 42.9%, and 94.4% female; and 81.8%, 72.6%, 85.3%, 74%, and 85.7% Caucasian for MDD, GAD, OA and CLBP, DPNP, and another indication, respectively.
+Adults — The data described below reflect exposure to duloxetine in placebo-controlled trials for MDD (N=3779), GAD (N=1018), OA (N=503), CLBP (N=600), DPNP (N=906), and FM (N=1294).
+The population studied was 17 to 89 years of age; 65.7%, 60.8%, 60.6%, 42.9%, and 94.4% female; and 81.8%, 72.6%, 85.3%, 74%, and 85.7% Caucasian for MDD, GAD, OA and CLBP, DPNP, and FM, respectively.
 Most patients received doses of a total of 60 mg to 120 mg per day [see Clinical Studies (14)].
 The data below do not include results of the trial examining the efficacy of duloxetine in patients ≥ 65 years old for the treatment of generalized anxiety disorder; however, the adverse reactions observed in this geriatric sample were generally similar to adverse reactions in the overall adult population.
 
@@ -46,6 +46,9 @@ Common adverse reactions reported as a reason for discontinuation and considered
 Diabetic Peripheral Neuropathic Pain — Approximately 12.9% (117/906) of the patients who received duloxetine in placebo-controlled trials for DPNP discontinued treatment due to an adverse reaction, compared with 5.1% (23/448) for placebo.
 Common adverse reactions reported as a reason for discontinuation and considered to be drug-related (as defined above) included nausea (duloxetine 3.5%, placebo 0.7%), dizziness (duloxetine 1.2%, placebo 0.4%), and somnolence (duloxetine 1.1%, placebo 0%).
 
+Fibromyalgia — Approximately 17.5% (227/1,294) of the patients who received duloxetine in 3 to 6 month placebo-controlled trials for FM discontinued treatment due to an adverse reaction, compared with 10.1% (96/955) for placebo.
+Common adverse reactions reported as a reason for discontinuation and considered to be drug-related (as defined above) included nausea (duloxetine 2.0%, placebo 0.5%), headache (duloxetine 1.2%, placebo 0.3%), somnolence (duloxetine 1.1%, placebo 0.0%), and fatigue (duloxetine 1.1%, placebo 0.1%).
+
 Chronic Pain due to Osteoarthritis — Approximately 15.7% (79/503) of the patients who received duloxetine in 13-week, placebo-controlled trials for chronic pain due to OA discontinued treatment due to an adverse reaction, compared with 7.3% (37/508) for placebo.
 Common adverse reactions reported as a reason for discontinuation and considered to be drug-related (as defined above) included nausea (duloxetine 2.2%, placebo 1%).
 
@@ -57,6 +60,8 @@ Most Common Adult Adverse Reactions
 Pooled Trials for all Approved Indications — The most commonly observed adverse reactions in duloxetine-treated patients (incidence of at least 5% and at least twice the incidence in placebo patients) were nausea, dry mouth, somnolence, constipation, decreased appetite, and hyperhidrosis.
 
 Diabetic Peripheral Neuropathic Pain — The most commonly observed adverse reactions in duloxetine-treated patients (as defined above) were nausea, somnolence, decreased appetite, constipation, hyperhidrosis, and dry mouth.
+
+Fibromyalgia — The most commonly observed adverse reactions in duloxetine-treated patients (as defined above) were nausea, dry mouth, constipation, somnolence, decreased appetite, hyperhidrosis, and agitation.
 
 Chronic Pain due to Osteoarthritis — The most commonly observed adverse reactions in duloxetine-treated patients (as defined above) were nausea, fatigue, constipation, dry mouth, insomnia, somnolence, and dizziness.
 
@@ -159,9 +164,9 @@ iAlso includes loss of libido.
 
 jAlso includes anorgasmia.
 
-DPNP, another indication, OA, and CLBP — Table 4 gives the incidence of treatment-emergent adverse events that occurred in 2% or more of patients treated with duloxetine (determined prior to rounding) in the premarketing acute phase of DPNP, another indication, OA, and CLBP placebo-controlled trials and with an incidence greater than placebo.
+DPNP, FM, OA, and CLBP — Table 4 gives the incidence of treatment-emergent adverse events that occurred in 2% or more of patients treated with duloxetine (determined prior to rounding) in the premarketing acute phase of DPNP, FM, OA, and CLBP placebo-controlled trials and with an incidence greater than placebo.
 
-Table 4: Treatment-Emergent Adverse Reactions: Incidence of 2% or More and Greater than Placebo in DPNP, another indication, OA, and CLBP Placebo-Controlled Trialsa
+Table 4: Treatment-Emergent Adverse Reactions: Incidence of 2% or More and Greater than Placebo in DPNP, FM, OA, and CLBP Placebo-Controlled Trialsa
 
 |  | Percentage of Patients Reporting Reaction |  |
 | --- | --- | --- |

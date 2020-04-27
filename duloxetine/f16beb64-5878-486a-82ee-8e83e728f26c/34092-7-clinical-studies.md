@@ -5,6 +5,7 @@ The efficacy of duloxetine has been established in the following adequate and we
 - Major Depressive Disorder (MDD): 4 short-term and 1 maintenance trial in adults [see Clinical Studies (14.1)].
 - Generalized Anxiety Disorder (GAD): 3 short-term trials in adults, 1 maintenance trial in adults, and 1 short-term trial in children and adolescents [see Clinical Studies (14.2)].
 - Diabetic Peripheral Neuropathic Pain (DPNP): Two 12-week trials in adults [see Clinical Studies (14.3)].
+- Fibromyalgia (FM): Two trials in adults (one of 3 months duration and one of 6 months duration) [see Clinical Studies (14.4)].
 - Chronic Musculoskeletal Pain: Two 12- to 13-week trials in adult patients with chronic low back pain (CLBP) and one 13-week trial in adult patients with chronic pain due to osteoarthritis [see Clinical Studies (14.5)].
 
 ## 14.1 Major Depressive Disorder
@@ -99,6 +100,34 @@ The figures are cumulative, so that patients whose change from baseline is, for 
 Patients who did not complete the study were assigned 0% improvement.
 Some patients experienced a decrease in pain as early as week 1, which persisted throughout the study.
 
+## 14.4 Fibromyalgia
+
+The efficacy of duloxetine for the management of fibromyalgia was established in two randomized, double-blind, placebo-controlled, fixed-dose studies in adult patients meeting the American College of Rheumatology criteria for fibromyalgia (a history of widespread pain for 3 months, and pain present at 11 or more of the 18 specific tender point sites).
+Study FM-1 was three months in duration and enrolled female patients only.
+Study FM-2 was six months in duration and enrolled male and female patients.
+Approximately 25% of participants had a comorbid diagnosis of major depressive disorder (MDD).
+FM-1 and FM-2 enrolled a total of 874 patients of whom 541 (62%) completed the studies.
+The patients had a baseline pain score of 6.5 on an 11-point scale ranging from 0 (no pain) to 10 (worse possible pain).
+
+Both studies compared duloxetine 60 mg once daily or 120 mg daily (given in divided doses in FM-1 and as a single daily dose in FM-2) with placebo.
+FM-2 additionally compared duloxetine 20 mg with placebo during the initial three months of a six-month study.
+A total of 354 patients (234 duloxetine, 120 placebo) were enrolled in FM-1 and a total of 520 patients (376 duloxetine, 144 placebo) were enrolled in FM-2 (5% male, 95% female).
+Treatment with duloxetine 60 mg or 120 mg daily statistically significantly improved the endpoint mean pain scores from baseline and increased the proportion of patients with at least a 50% reduction in pain score from baseline.
+Pain reduction was observed in patients both with and without comorbid MDD.
+However, the degree of pain reduction may be greater in patients with comorbid MDD.
+For various degrees of improvement in pain from baseline to study endpoint, Figures 5 and 6 show the fraction of patients achieving that degree of improvement.
+The figures are cumulative so that patients whose change from baseline is, for example, 50%, are also included at every level of improvement below 50%.
+Patients who did not complete the study were assigned 0% improvement.
+Some patients experienced a decrease in pain as early as week 1, which persisted throughout the study.
+Improvement was also demonstrated on measures of function (Fibromyalgia Impact Questionnaires) and patient global impression of change (PGI).
+Neither study demonstrated a benefit of 120 mg compared to 60 mg, and a higher dose was associated with more adverse reactions and premature discontinuations of treatment.
+
+Additionally, the benefit of up-titration in non-responders to duloxetine at 60 mg/day was evaluated in a separate study.
+Patients were initially treated with duloxetine 60 mg once daily for eight weeks in open-label fashion.
+
+Subsequently, completers of this phase were randomized to double-blind treatment with duloxetine at either 60 mg once daily or 120 mg once daily.
+Those patients who were considered non-responders, where response was defined as at least a 30% reduction in pain score from baseline at the end of the 8-week treatment, were no more likely to meet response criteria at the end of 60 weeks of treatment if blindly titrated to duloxetine 120 mg as compared to those who were blindly continued on duloxetine 60 mg.
+
 ## 14.5 Chronic Musculoskeletal Pain
 
 Duloxetine is indicated for the management of chronic musculoskeletal pain.
@@ -123,7 +152,7 @@ After 13 weeks of treatment, none of the three duloxetine doses showed a statist
 Study CLBP-3: Four hundred and one patients were randomized to receive fixed doses of duloxetine 60 mg daily or placebo (N=198 on duloxetine, N=203 on placebo), and 303 (76%) completed the study.
 Patients had a mean baseline pain rating of 6 on a numerical rating scale ranging from 0 (no pain) to 10 (worst possible pain).
 After 12 weeks of treatment, patients taking duloxetine 60 mg daily had significantly greater pain reduction compared to placebo.
-For various degrees of improvement in pain from baseline to study endpoint, Figures 5 and 6 show the fraction of patients in CLBP-1 and CLBP-3 achieving that degree of improvement.
+For various degrees of improvement in pain from baseline to study endpoint, Figures 7 and 8 show the fraction of patients in CLBP-1 and CLBP-3 achieving that degree of improvement.
 The figures are cumulative, so that patients whose change from baseline is, for example, 50%, are also included at every level of improvement below 50%.
 Patients who did not complete the study were assigned the value of 0% improvement.
 
@@ -148,6 +177,6 @@ Study OA-2: Two hundred thirty-one patients (N=111 on duloxetine, N=120 on place
 Patients had a mean baseline pain of 6 on a numerical rating scale ranging from 0 (no pain) to 10 (worst possible pain).
 After 13 weeks of treatment, patients taking duloxetine did not show a significantly greater pain reduction.
 
-In Study OA-1, for various degrees of improvement in pain from baseline to study endpoint, Figure 5 shows the fraction of patients achieving that degree of improvement.
+In Study OA-1, for various degrees of improvement in pain from baseline to study endpoint, Figure 7 shows the fraction of patients achieving that degree of improvement.
 The figure is cumulative, so that patients whose change from baseline is, for example, 50%, are also included at every level of improvement below 50%.
 Patients who did not complete the study were assigned the value of 0% improvement.
