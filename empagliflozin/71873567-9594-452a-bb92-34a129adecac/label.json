@@ -1,0 +1,30 @@
+{
+  "application_numbers": [
+    "NDA212614"
+  ],
+  "inn": "empagliflozin",
+  "labeler": "Boehringer Ingelheim Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "0597-0380-13",
+    "0597-0380-22",
+    "0597-0380-68",
+    "0597-0385-77",
+    "0597-0385-86",
+    "0597-0385-88",
+    "0597-0390-13",
+    "0597-0390-31",
+    "0597-0390-71",
+    "0597-0395-23",
+    "0597-0395-52",
+    "0597-0395-82"
+  ],
+  "products": [
+    {
+      "form": "TABLET, EXTENDED RELEASE",
+      "generic": "empagliflozin, linagliptin, metformin hydrochloride",
+      "name": "Trijardy XR"
+    }
+  ],
+  "setid": "71873567-9594-452a-bb92-34a129adecac",
+  "source": "dailymed"
+}
