@@ -20,7 +20,7 @@ Data
 Animal data
 
 When pregnant mice received oral doses of gabapentin (500, 1000, or 3000 mg/kg/day) during the period of organogenesis, embryofetal toxicity (increased incidences of skeletal variations) was observed at the two highest doses.
-The no-effect dose for embryofetal developmental toxicity in mice (500 mg/kg/day) is less than the maximum recommended human dose (MRHD) of 3600 mg/kg on a body surface area (mg/m2) basis.
+The no-effect dose for embryofetal developmental toxicity in mice (500 mg/kg/day) is less than the maximum recommended human dose (MRHD) of 3600 mg on a body surface area (mg/m2) basis.
 
 In studies in which rats received oral doses of gabapentin (500 to 2000 mg/kg/day) during pregnancy, adverse effect on offspring development (increased incidences of hydroureter and/or hydronephrosis) were observed at all doses.
 The lowest dose tested is similar to the MRHD on a mg/m2 basis.

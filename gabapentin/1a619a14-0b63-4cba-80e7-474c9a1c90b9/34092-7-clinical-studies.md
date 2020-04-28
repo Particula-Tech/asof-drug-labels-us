@@ -13,7 +13,7 @@ Controlled PHN Studies: Duration, Dosages, and Number of Patients
 | 1 | 8 weeks | 3600 | 113 | 116 |
 | 2 | 7 weeks | 1800, 2400 | 223 | 111 |
 | Total |  |  | 336 | 227 |
-| a Given in 3 divided doses (TID) |  |  |  |  |
+| aGiven in 3 divided doses (TID) |  |  |  |  |
 
 Each study included a 7- or 8-week double-blind phase (3 or 4 weeks of titration and 4 weeks of fixed dose).
 Patients initiated treatment with titration to a maximum of 900 mg/day gabapentin over 3 days.

@@ -25,7 +25,7 @@ The maximum time interval between doses should not exceed 12 hours.
 Dosage adjustment in patients 12 years of age and older with renal impairment or undergoing hemodialysis is recommended, as follows (see dosing recommendations above for effective doses in each indication):
 
 TABLE 1.
-Gabapentin capsules Dosage Based on Renal Function
+Gabapentin Capsules Dosage Based on Renal Function
 
 | Renal Function Creatinine Clearance (mL/min) | Total Daily Dose Range (mg/day) | Dose Regimen (mg) |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -34,7 +34,7 @@ Gabapentin capsules Dosage Based on Renal Function
 | >15 to 29 | 200 to 700 | 200 QD | 300 QD | 400 QD | 500 QD | 700 QD |
 | 15a | 100 to 300 | 100 QD | 125 QD | 150 QD | 200 QD | 300 QD |
 | Post-Hemodialysis Supplemental Dose (mg)b |  |  |  |  |  |  |
-| Hemodialysis |  | 125 b | 150 b | 200 b | 250 b | 350 b |
+| Hemodialysis |  | 125b | 150b | 200b | 250b | 350b |
 | TID = Three times a day; BID = Two times a day; QD = Single daily dose a For patients with creatinine clearance <15 mL/min, reduce daily dose in proportion to creatinine clearance (e.g., patients with a creatinine clearance of 7.5 mL/min should receive one-half the daily dose that patients with a creatinine clearance of 15 mL/min receive). b Patients on hemodialysis should receive maintenance doses based on estimates of creatinine clearance as indicated in the upper portion of the table and a supplemental post-hemodialysis dose administered after each 4 hours of hemodialysis as indicated in the lower portion of the table. |  |  |  |  |  |  |
 
 Creatinine clearance (CLCr) is difficult to measure in outpatients.
