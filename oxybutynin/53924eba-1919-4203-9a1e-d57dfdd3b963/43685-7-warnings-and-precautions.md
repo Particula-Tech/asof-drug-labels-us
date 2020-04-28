@@ -12,7 +12,7 @@ If involvement of the tongue, hypopharynx, or larynx occurs, oxybutynin should b
 Oxybutynin is associated with anticholinergic central nervous system (CNS) effects [see Adverse Reactions (6)].
 A variety of CNS anticholinergic effects have been reported, including hallucinations, agitation, confusion and somnolence.
 Patients should be monitored for signs of anticholinergic CNS effects, particularly in the first few months after beginning treatment or increasing the dose.
-Advise patients not to drive or operate heavy machinery until they know how oxybutynin chloride affects them.
+Advise patients not to drive or operate heavy machinery until they know how oxybutynin chloride extended-release tablets affect them.
 If a patient experiences anticholinergic CNS effects, dose reduction or drug discontinuation should be considered.
 
 Oxybutynin chloride should be used with caution in patients with preexisting dementia treated with cholinesterase inhibitors due to the risk of aggravation of symptoms.

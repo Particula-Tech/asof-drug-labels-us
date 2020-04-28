@@ -17,13 +17,13 @@ In patients with conditions characterized by involuntary bladder contractions, c
 
 Absorption
 
-Following the first dose of oxybutynin chloride, oxybutynin plasma concentrations rise for 4 to 6 hours; thereafter steady concentrations are maintained for up to 24 hours, minimizing fluctuations between peak and trough concentrations associated with oxybutynin.
+Following the first dose of oxybutynin chloride extended-release tablets, oxybutynin plasma concentrations rise for 4 to 6 hours; thereafter steady concentrations are maintained for up to 24 hours, minimizing fluctuations between peak and trough concentrations associated with oxybutynin.
 
-The relative bioavailabilities of R- and S-oxybutynin from oxybutynin chloride are 156% and 187%, respectively, compared with oxybutynin.
+The relative bioavailabilities of R- and S-oxybutynin from oxybutynin chloride extended-release tablets are 156% and 187%, respectively, compared with oxybutynin.
 The mean pharmacokinetic parameters for R- and S-oxybutynin are summarized in Table 2.
 The plasma concentration-time profiles for R- and S-oxybutynin are similar in shape; Figure 1 shows the profile for R-oxybutynin.
 
-Table 2: Mean (SD) R- and S-Oxybutynin Pharmacokinetic Parameters Following a Single Dose of Oxybutynin Chloride 10 mg (n=43)
+Table 2: Mean (SD) R- and S-Oxybutynin Pharmacokinetic Parameters Following a Single Dose of Oxybutynin Chloride Extended-Release Tablets 10 mg (n=43)
 
 | Parameters (units) | R-Oxybutynin |  | S-Oxybutynin |  |
 | --- | --- | --- | --- | --- |
@@ -33,9 +33,9 @@ Table 2: Mean (SD) R- and S-Oxybutynin Pharmacokinetic Parameters Following a Si
 | AUC(0-48) (ng•h/mL) | 18.4 | (10.3) | 34.2 | (16.9) |
 | AUCinf (ng•h/mL) | 21.3 | (12.2) | 39.5 | (21.2) |
 
-Figure 1: Mean R-oxybutynin plasma concentrations following a single dose of oxybutynin chloride 10 mg and oxybutynin 5 mg administered every 8 hours (n=23 for each treatment).
+Figure 1: Mean R-oxybutynin plasma concentrations following a single dose of oxybutynin chloride extended-release tablets 10 mg and oxybutynin 5 mg administered every 8 hours (n=23 for each treatment).
 
-Steady-state oxybutynin plasma concentrations are achieved by Day 3 of repeated oxybutynin chloride dosing, with no observed drug accumulation or change in oxybutynin and desethyloxybutynin pharmacokinetic parameters.
+Steady-state oxybutynin plasma concentrations are achieved by Day 3 of repeated oxybutynin chloride extended-release tablets dosing, with no observed drug accumulation or change in oxybutynin and desethyloxybutynin pharmacokinetic parameters.
 
 Oxybutynin chloride steady-state pharmacokinetics were studied in 19 children aged 5 to 15 years with detrusor overactivity associated with a neurological condition (e.g., spina bifida).
 The children were on oxybutynin chloride total daily dose ranging from 5 to 20 mg (0.10 to 0.77 mg/kg).
@@ -43,7 +43,7 @@ Sparse sampling technique was used to obtain serum samples.
 When all available data are normalized to an equivalent of 5 mg per day of oxybutynin chloride, the mean pharmacokinetic parameters derived for R- and S-oxybutynin and R- and S-desethyloxybutynin are summarized in Table 3.
 The plasma-time concentration profiles for R- and S-oxybutynin are similar in shape; Figure 2 shows the profile for R-oxybutynin when all available data are normalized to an equivalent of 5 mg per day.
 
-Table 3: Mean ± SD R- and S-Oxybutynin and R- and S-Desethyloxybutynin Pharmacokinetic Parameters in Children Aged 5-15 Following Administration of 5 to 20 mg Oxybutynin Chloride Once Daily (n=19), All Available Data Normalized to an Equivalent of Oxybutynin Chloride 5 mg Once Daily
+Table 3: Mean ± SD R- and S-Oxybutynin and R- and S-Desethyloxybutynin Pharmacokinetic Parameters in Children Aged 5 to 15 Following Administration of 5 to 20 mg Oxybutynin Chloride Extended-Release Tablets Once Daily (n=19), All Available Data Normalized to an Equivalent of Oxybutynin Chloride Extended-Release Tablets 5 mg Once Daily
 
 |  | R-Oxybutynin | S-Oxybutynin | R-Desethyloxybutynin | S-Desethyloxybutynin |
 | --- | --- | --- | --- | --- |
@@ -51,8 +51,8 @@ Table 3: Mean ± SD R- and S-Oxybutynin and R- and S-Desethyloxybutynin Pharmaco
 | Tmax (h) | 5.0 | 5.0 | 5.0 | 5.0 |
 | AUC (ng•h/mL) | 12.8 ± 7.0 | 23.7 ± 14.4 | 125.1 ± 66.7 | 73.6 ± 47.7 |
 
-Figure 2: Mean steady-state (± SD) R-oxybutynin plasma concentrations following administration of 5 to 20 mg Oxybutynin Chloride once daily in children aged 5 to 15.
-Plot represents all available data normalized to an equivalent of Oxybutynin Chloride 5 mg once daily.
+Figure 2: Mean steady-state (± SD) R-oxybutynin plasma concentrations following administration of 5 to 20 mg Oxybutynin Chloride Extended-Release Tablets once daily in children aged 5 to 15.
+Plot represents all available data normalized to an equivalent of Oxybutynin Chloride Extended-Release Tablets 5 mg once daily.
 
 Food Effects
 
@@ -70,7 +70,7 @@ Metabolism
 
 Oxybutynin is metabolized primarily by the cytochrome P450 enzyme systems, particularly CYP3A4 found mostly in the liver and gut wall.
 Its metabolic products include phenylcyclohexylglycolic acid, which is pharmacologically inactive, and desethyloxybutynin, which is pharmacologically active.
-Following oxybutynin chloride administration, plasma concentrations of R- and S-desethyloxybutynin are 73% and 92%, respectively, of concentrations observed with oxybutynin.
+Following oxybutynin chloride extended-release tablets administration, plasma concentrations of R- and S-desethyloxybutynin are 73% and 92%, respectively, of concentrations observed with oxybutynin.
 
 Excretion
 
@@ -79,7 +79,7 @@ Also, less than 0.1% of the administered dose is excreted as the metabolite dese
 
 Dose Proportionality
 
-Pharmacokinetic parameters of oxybutynin and desethyloxybutynin (Cmax and AUC) following administration of 5 mg to 20 mg of oxybutynin chloride are dose proportional.
+Pharmacokinetic parameters of oxybutynin and desethyloxybutynin (Cmax and AUC) following administration of 5 mg to 20 mg of oxybutynin chloride extended-release tablets are dose proportional.
 
 Use in Specific Populations
 
@@ -90,8 +90,8 @@ The pharmacokinetics of oxybutynin chloride in these pediatric patients were con
 
 Gender
 
-There are no significant differences in the pharmacokinetics of oxybutynin in healthy male and female volunteers following administration of oxybutynin chloride.
+There are no significant differences in the pharmacokinetics of oxybutynin in healthy male and female volunteers following administration of oxybutynin chloride extended-release tablets.
 
 Race
 
-Available data suggest that there are no significant differences in the pharmacokinetics of oxybutynin based on race in healthy volunteers following administration of oxybutynin chloride.
+Available data suggest that there are no significant differences in the pharmacokinetics of oxybutynin based on race in healthy volunteers following administration of oxybutynin chloride extended-release tablets.
