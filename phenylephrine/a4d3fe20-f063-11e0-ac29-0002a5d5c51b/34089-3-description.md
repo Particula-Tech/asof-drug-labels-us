@@ -11,7 +11,7 @@ Hydrochloric acid and/or sodium hydroxide may be added to adjust pH (6.0-6.4).
 The solution has a tonicity of 500 mOsm/kg.
 PRESERVATIVE: benzalkonium chloride 0.01%.
 
-Each mL of Phenylephrine Hydrochloride Ophthalmic Solution, 10% contains: ACTIVE: phenylephrine hydrochloride 100 mg (10.0%); INACTIVES: sodium phosphate monobasic, sodium phosphate dibasic; water for injection.
+Each mL of Phenylephrine Hydrochloride Ophthalmic Solution, 10% contains: ACTIVE: phenylephrine hydrochloride 100 mg (10%); INACTIVES: sodium phosphate monobasic, sodium phosphate dibasic; water for injection.
 Hydrochloric acid and/or sodium hydroxide may be added to adjust pH (6.3-6.7).
 The solution has a tonicity of 1000 mOsm/kg.
 PRESERVATIVE: benzalkonium chloride 0.01%.

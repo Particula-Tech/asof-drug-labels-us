@@ -2,7 +2,7 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Category C: Animal reproduction studies have not been conducted with topical phenylephrine.
+Animal reproduction studies have not been conducted with topical phenylephrine.
 It is also not known whether phenylephrine can cause fetal harm when administered to a pregnant woman or can affect reproduction capacity.
 Phenylephrine hydrochloride should be given to a pregnant woman only if clearly needed.
 
