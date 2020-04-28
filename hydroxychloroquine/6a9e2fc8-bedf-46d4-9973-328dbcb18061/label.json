@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA210577"
+  ],
+  "inn": "hydroxychloroquine",
+  "labeler": "Amneal Pharmaceuticals NY LLC",
+  "package_ndcs": [
+    "60219-1544-1"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "hydroxychloroquine sulfate",
+      "name": "Hydroxychloroquine Sulfate"
+    }
+  ],
+  "setid": "6a9e2fc8-bedf-46d4-9973-328dbcb18061",
+  "source": "dailymed"
+}
