@@ -9,14 +9,10 @@ They are available as follows:
 
 NDC 0378-3813-01 bottles of 100 tablets
 
-NDC 0378-3813-05 bottles of 500 tablets
-
 The 100 mg tablets are peach, round, unscored tablets debossed with C over 100 on one side of the tablet and blank on the other side.
 They are available as follows:
 
 NDC 0378-3815-01 bottles of 100 tablets
-
-NDC 0378-3815-05 bottles of 500 tablets
 
 ## 16.2 Storage and Handling
 

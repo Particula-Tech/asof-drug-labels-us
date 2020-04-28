@@ -9,7 +9,7 @@ Patients must have had a baseline score of at least 45 on the investigator-rated
 On the 18-item BPRS, 1 indicates the absence of symptoms, and 7 indicates severe symptoms; the maximum potential total BPRS score is 126.
 At baseline, the mean BPRS score was 61.
 In addition, patients must have had a score of at least 4 on at least two of the following four individual BPRS items: conceptual disorganization, suspiciousness, hallucinatory behavior, and unusual thought content.
-Patients must have had a Clinical Global Impressions - Severity Scale score of at least 4 (moderately ill).
+Patients must have had a Clinical Global Impressions – Severity Scale score of at least 4 (moderately ill).
 
 In the prospective, lead-in phase of the trial, all patients (N = 305) initially received single-blind treatment with haloperidol (the mean dose was 61 mg per day) for 6 weeks.
 More than 80% of patients completed the 6-week trial.
@@ -37,7 +37,7 @@ To enter the trial, patients must have met one of the following criteria:
 - •They demonstrated moderate-to-severe suicidal ideation accompanied by command hallucinations to do self-harm within one week prior to their baseline evaluation.
 
 Dosing regimens for each treatment group were determined by individual investigators and were individualized by patient.
-Dosing was flexible, with a dose range of 200 mg/day to 900 mg/day for clozapine and 5 mg/day to 20 mg/day for olanzapine.
+Dosing was flexible, with a dose range of 200-900 mg/day for clozapine and 5-20 mg/day for olanzapine.
 For the 956 patients who received clozapine or olanzapine in this study, there was extensive use of concomitant psychotropics: 84% with antipsychotics, 65% with anxiolytics, 53% with antidepressants, and 28% with mood stabilizers.
 There was significantly greater use of concomitant psychotropic medications among the patients in the olanzapine group.
 
@@ -48,7 +48,7 @@ A total of 980 patients were randomized to the study and 956 received study medi
 Sixty-two percent of the patients were diagnosed with schizophrenia, and the remainder (38%) were diagnosed with schizoaffective disorder.
 Only about one-fourth of the total patient population (27%) was identified as “treatment-resistant” at baseline.
 There were more males than females in the study (61% of all patients were male).
-The mean age of patients entering the study was 37 years of age (range: 18 to 69).
+The mean age of patients entering the study was 37 years of age (range: 18–69).
 Most patients were Caucasian (71%), 15% were Black, 1% were Asian, and 13% were classified as being of “other” races.
 
 Patients treated with clozapine had a statistically significant longer delay in the time to recurrent suicidal behavior in comparison with olanzapine.

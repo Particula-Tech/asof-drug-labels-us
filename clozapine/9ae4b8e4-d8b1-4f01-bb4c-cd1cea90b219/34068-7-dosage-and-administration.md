@@ -3,8 +3,7 @@
 ## 2.1 Required Laboratory Testing Prior to Initiation and During Therapy
 
 Prior to initiating treatment with clozapine orally disintegrating tablets, a baseline ANC must be obtained.
-The baseline ANC must be at least 1500/μL for the general population and at least 1000/μL for patients with documented Benign Ethnic Neutropenia (BEN).
-To continue treatment, the ANC must be monitored regularly [see Warnings and Precautions (5.1)].
+The baseline ANC must be at least 1500/μL for the general population, and at least 1000/μL for patients with documented Benign Ethnic Neutropenia (BEN).To continue treatment, the ANC must be monitored regularly [see Warnings and Precautions (5.1)].
 
 ## 2.2 Important Administration Instructions
 
@@ -51,7 +50,7 @@ This is necessary to minimize the risk of hypotension, bradycardia, and syncope 
 
 Dose adjustments may be necessary in patients with concomitant use of: strong CYP1A2 inhibitors (e.g., fluvoxamine, ciprofloxacin, or enoxacin); moderate or weak CYP1A2 inhibitors (e.g., oral contraceptives, or caffeine); CYP2D6 or CYP3A4 inhibitors (e.g., cimetidine, escitalopram, erythromycin, paroxetine, bupropion, fluoxetine, quinidine, duloxetine, terbinafine, or sertraline); CYP3A4 inducers (e.g., phenytoin, carbamazepine, St. John’s wort, and rifampin); or CYP1A2 inducers (e.g., tobacco smoking) (Table 1) [see Drug Interactions (7)].
 
-Table 1: Dose Adjustments in Patients Taking Concomitant Medications
+Table 1: Dose Adjustment in Patients Taking Concomitant Medications
 
 | Co-medications | Scenarios |  |  |
 | --- | --- | --- | --- |

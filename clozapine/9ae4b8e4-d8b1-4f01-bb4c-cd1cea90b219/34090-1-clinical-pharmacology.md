@@ -10,7 +10,7 @@ Clozapine orally disintegrating tablets also act as an antagonist at adrenergic,
 
 Clozapine demonstrated binding affinity to the following receptors: histamine H1 (Ki 1.1 nM), adrenergic α1A (Ki 1.6 nM), serotonin 5-HT6 (Ki 4 nM), serotonin 5-HT2A (Ki 5.4 nM), muscarinic M1 (Ki 6.2 nM), serotonin 5-HT7 (Ki 6.3 nM), serotonin 5-HT2C (Ki 9.4 nM), dopamine D4 (Ki 24 nM), adrenergic α2A (Ki 90 nM), serotonin 5-HT3 (Ki 95 nM), serotonin 5-HT1A (Ki 120 nM), dopamine D2 (Ki 160 nM), dopamine D1 (Ki 270 nM), dopamine D5 (Ki 454 nM), and dopamine D3 (Ki 555 nM).
 
-Clozapine orally disintegrating tablets cause little or no prolactin elevation.
+Clozapine causes little or no prolactin elevation.
 
 Clinical electroencephalogram (EEG) studies demonstrated that clozapine increases delta and theta activity and slows dominant alpha frequencies.
 Enhanced synchronization occurs.
@@ -25,8 +25,8 @@ In these patients, the onset of REM sleep occurred almost immediately after fall
 
 In man, clozapine tablets (25 mg and 100 mg) are equally bioavailable relative to a clozapine solution.
 Clozapine orally disintegrating tablets are bioequivalent to Clozaril® (clozapine) tablets, a registered trademark of Novartis Pharmaceuticals Corporation.
-Following a dosage of 100 mg b.i.d., the average steady-state peak plasma concentration was 413 ng/mL (range: 132 ng/mL to 854 ng/mL), occurring at the average of 2.3 hours (range: 1 to 6 hours) after dosing.
-The average minimum concentration at steady-state was 168 ng/mL (range: 45 ng/mL to 574 ng/mL), after 100 mg b.i.d. dosing.
+Following a dosage of 100 mg b.i.d., the average steady-state peak plasma concentration was 413 ng/mL (range: 132-854 ng/mL), occurring at the average of 2.3 hours (range: 1-6 hours) after dosing.
+The average minimum concentration at steady-state was 168 ng/mL (range: 45-574 ng/mL), after 100 mg b.i.d. dosing.
 
 A comparative bioequivalence/bioavailability study was conducted in 32 patients (with schizophrenia or schizoaffective disorder) comparing clozapine orally disintegrating 200 mg tablets to 2 × clozapine orally disintegrating 100 mg tablets (the approved reference product) under fasted conditions.
 The study also evaluated the effect of food and chewing on the pharmacokinetics of the 200 mg tablet.
@@ -58,22 +58,22 @@ Clozapine is a substrate for many cytochrome P450 isozymes, in particular CYP1A2
 Approximately 50% of the administered dose is excreted in the urine and 30% in the feces.
 The demethylated, hydroxylated, and N-oxide derivatives are components in both urine and feces.
 Pharmacological testing has shown the desmethyl metabolite (norclozapine) to have only limited activity, while the hydroxylated and N-oxide derivatives were inactive.
-The mean elimination half-life of clozapine after a single 75 mg dose was 8 hours (range: 4 to 12 hours), compared to a mean elimination half-life of 12 hours (range: 4 to 66 hours), after achieving steady-state with 100 mg twice daily dosing.
+The mean elimination half-life of clozapine after a single 75 mg dose was 8 hours (range: 4-12 hours), compared to a mean elimination half-life of 12 hours (range: 4-66 hours), after achieving steady-state with 100 mg twice daily dosing.
 
 A comparison of single-dose and multiple-dose administration of clozapine demonstrated that the elimination half-life increased significantly after multiple dosing relative to that after single-dose administration, suggesting the possibility of concentration-dependent pharmacokinetics.
-However, at steady-state, approximately dose-proportional changes with respect to AUC (area under the curve), peak, and minimum clozapine plasma concentrations were observed after administration of 37.5 mg, 75 mg, and 150 mg twice daily.
+However, at steady-state, approximately dose-proportional changes with respect to AUC (area under the curve), peak, and minimum clozapine plasma concentrations were observed after administration of 37.5, 75, and 150 mg twice daily.
 
 ### Drug-Drug Interaction Studies
 
 #### Fluvoxamine
 
 A pharmacokinetic study was conducted in 16 schizophrenic patients who received clozapine under steady-state conditions.
-After coadministration of fluvoxamine for 14 days, mean trough concentrations of clozapine and its metabolites, N-desmethylclozapine and clozapine N-oxide, were elevated about 3-fold compared to baseline steady-state concentrations.
+After coadministration of fluvoxamine for 14 days, mean trough concentrations of clozapine and its metabolites, N-desmethylclozapine and clozapine N-oxide, were elevated about three-fold compared to baseline steady-state concentrations.
 
 #### Paroxetine, Fluoxetine, and Sertraline
 
 In a study of schizophrenic patients (n = 14) who received clozapine under steady-state conditions, coadministration of paroxetine produced only minor changes in the levels of clozapine and its metabolites.
-However, other published reports describe modest elevations (less than 2-fold) of clozapine and metabolite concentrations when clozapine was taken with paroxetine, fluoxetine, and sertraline.
+However, other published reports describe modest elevations (less than two-fold) of clozapine and metabolite concentrations when clozapine was taken with paroxetine, fluoxetine, and sertraline.
 
 ### Specific Population Studies
 
@@ -84,5 +84,5 @@ Higher clozapine plasma concentrations are likely in patients with significant r
 
 #### CYP2D6 Poor Metabolizers
 
-A subset (3% to 10%) of the population has reduced activity of CYP2D6 (CYP2D6 poor metabolizers).
+A subset (3%–10%) of the population has reduced activity of CYP2D6 (CYP2D6 poor metabolizers).
 These individuals may develop higher than expected plasma concentrations of clozapine when given usual doses.
