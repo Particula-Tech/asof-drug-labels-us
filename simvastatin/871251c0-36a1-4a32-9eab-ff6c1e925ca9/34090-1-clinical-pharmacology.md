@@ -69,7 +69,7 @@ Table 3: Effect of Coadministered Drugs or Grapefruit Juice on Simvastatin Syste
 | Lomitapide | 10 mg QD for 7 days | 20 mg single dose | simvastatin acid simvastatin | 1.4 1.6 | 1.4 1.7 |
 | No dosing adjustments required for the following: |  |  |  |  |  |
 | Fenofibrate | 160 mg QD X 14 days | 80 mg QD on Days 8 to 14 | simvastatin acid simvastatin | 0.64 0.89 | 0.89 0.83 |
-| Niacin extended-release Because Chinese patients have an increased risk for myopathy with simvastatin coadministered with lipid-modifying doses (≥ 1 gram/day niacin) of niacin-containing products, and the risk is dose-related, Chinese patients should not receive simvastatin 80 mg coadministered with lipid-modifying doses of niacin-containing products [see Warnings and Precautions (5.1) and Drug Interactions (7.4)]. | 2 g single dose | 20 mg single dose | simvastatin acid simvastatin | 1.6 1.4 | 1.84 1.08 |
+| Niacin extended-release | 2 g single dose | 20 mg single dose | simvastatin acid simvastatin | 1.6 1.4 | 1.84 1.08 |
 | Propranolol | 80 mg single dose | 80 mg single dose | total inhibitor active inhibitor | 0.79 0.79 | ↓ from 33.6 to 21.1 ng·eq/mL ↓ from 7.0 to 4.7 ng·eq/mL |
 
 In a study of 12 healthy volunteers, simvastatin at the 80-mg dose had no effect on the metabolism of the probe cytochrome P450 isoform 3A4 (CYP3A4) substrates midazolam and erythromycin.
