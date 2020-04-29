@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA020504"
+  ],
+  "inn": "hydrochlorothiazide",
+  "labeler": "Allergan, Inc.",
+  "package_ndcs": [
+    "0023-6154-01"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE, GELATIN COATED",
+      "generic": "hydrochlorothiazide",
+      "name": "Microzide"
+    }
+  ],
+  "setid": "49dba4a1-a0c8-4945-a816-150285aad80e",
+  "source": "dailymed"
+}
