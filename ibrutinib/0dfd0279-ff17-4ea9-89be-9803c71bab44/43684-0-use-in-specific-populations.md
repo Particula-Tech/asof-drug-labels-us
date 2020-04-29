@@ -4,10 +4,10 @@
 
 Risk Summary
 
-IMBRUVICA, a kinase inhibitor, can cause fetal harm based on findings from animal studies.
+IMBRUVICA can cause fetal harm based on findings from animal studies.
 There are no available data on IMBRUVICA use in pregnant women to inform a drug-associated risk of major birth defects and miscarriage.
 In animal reproduction studies, administration of ibrutinib to pregnant rats and rabbits during the period of organogenesis at exposures up to 2-20 times the clinical doses of 420-560 mg daily produced embryofetal toxicity including structural abnormalities (see Data).
-If IMBRUVICA is used during pregnancy or if the patient becomes pregnant while taking IMBRUVICA, the patient should be apprised of the potential hazard to the fetus.
+Advise pregnant women of the potential risk to a fetus.
 
 All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
 The estimated background risk of major birth defects and miscarriage for the indicated population is unknown.
@@ -32,25 +32,24 @@ The dose of 15 mg/kg/day in rabbits is approximately 2.0 times the exposure (AUC
 Risk Summary
 
 There is no information regarding the presence of ibrutinib or its metabolites in human milk, the effects on the breastfed child, or the effects on milk production.
-
-The development and health benefits of breastfeeding should be considered along with the mother's clinical need for IMBRUVICA and any potential adverse effects on the breastfed child from IMBRUVICA or from the underlying maternal condition.
+Because of the potential for serious adverse reactions in the breastfed child, advise women not to breastfeed during treatment with IMBRUVICA and for 1 week after the last dose.
 
 ## 8.3 Females and Males of Reproductive Potential
 
 Pregnancy Testing
 
-Conduct pregnancy testing in females of reproductive potential prior to initiating IMBRUVICA therapy.
+Verify pregnancy status in females of reproductive potential prior to initiating IMBRUVICA.
 
 Contraception
 
 Females
 
-Advise females of reproductive potential to avoid pregnancy while taking IMBRUVICA and for up to 1 month after ending treatment.
-If this drug is used during pregnancy or if the patient becomes pregnant while taking this drug, the patient should be informed of the potential hazard to a fetus.
+IMBRUVICA can cause fetal harm when administered to pregnant women [see Use in Specific Populations (8.1)].
+Advise females of reproductive potential to use effective contraception during treatment with IMBRUVICA and for 1 month after the last dose.
 
 Males
 
-Advise men to avoid fathering a child while receiving IMBRUVICA, and for 1 month following the last dose of IMBRUVICA.
+Advise males with female partners of reproductive potential to use effective contraception during treatment with IMBRUVICA and for 1 month following the last dose.
 
 ## 8.4 Pediatric Use
 
@@ -66,7 +65,7 @@ Anemia (all grades), pneumonia (Grade 3 or higher), thrombocytopenia, hypertensi
 
 Avoid use of IMBRUVICA in patients with severe hepatic impairment (Child-Pugh class C). The safety of IMBRUVICA has not been evaluated in patients with mild to severe hepatic impairment by Child-Pugh criteria.
 
-Dose modifications of IMBRUVICA are recommended in patients with mild or moderate hepatic impairment (Child-Pugh class A and B). Monitor patients for adverse reactions of IMBRUVICA closely [see Dosage and Administration (2.5) and Clinical Pharmacology (12.3)].
+Reduce the recommended dose when administering IMBRUVICA to patients with mild or moderate hepatic impairment (Child-Pugh class A and B). Monitor patients more frequently for adverse reactions of IMBRUVICA [see Dosage and Administration (2.4), Clinical Pharmacology (12.3)].
 
 ## 8.7 Plasmapheresis
 

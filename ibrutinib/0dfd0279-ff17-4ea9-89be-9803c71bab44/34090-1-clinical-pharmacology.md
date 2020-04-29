@@ -14,7 +14,7 @@ In patients with recurrent B-cell lymphoma > 90% occupancy of the BTK active sit
 
 In vitro Platelet Aggregation
 
-Ibrutinib demonstrated inhibition of collagen-induced platelet aggregation, with IC50 values at 4.6 μM (2026 ng/mL), 0.8 μM (352 ng/mL), and 3 μM (1321 ng/mL) in blood samples from healthy donors, donors taking warfarin, and donors with severe renal dysfunction, respectively.
+Ibrutinib demonstrated inhibition of collagen-induced platelet aggregation, with IC50 values at 4.6 µM (2026 ng/mL), 0.8 µM (352 ng/mL), and 3 µM (1321 ng/mL) in blood samples from healthy donors, donors taking warfarin, and donors with severe renal dysfunction, respectively.
 Ibrutinib did not show meaningful inhibition of platelet aggregation for ADP, arachidonic acid, ristocetin, and TRAP-6.
 
 Cardiac Electrophysiology
@@ -80,25 +80,21 @@ The Cmax of ibrutinib increased 5.2-fold in mild hepatic impairment, 8.8-fold in
 
 Drug Interaction Studies
 
-Effect of CYP3A Inhibitors on Ibrutinib
+Clinical Studies and Model-Informed Approaches
 
-The coadministration of multiple doses of ketoconazole (strong CYP3A inhibitor) increased the Cmax of ibrutinib by 29-fold and AUC by 24-fold.
+Effect of CYP3A Inhibitors on Ibrutinib: The coadministration of multiple doses of ketoconazole (strong CYP3A inhibitor) increased the Cmax of ibrutinib by 29-fold and AUC by 24-fold.
 The coadministration of multiple doses of voriconazole (strong CYP3A inhibitor) increased steady state Cmax of ibrutinib by 6.7-fold and AUC by 5.7-fold.
 Simulations under fed conditions suggest that posaconazole (strong CYP3A inhibitor) may increase the AUC of ibrutinib 3-fold to 10-fold.
 
 The coadministration of multiple doses of erythromycin (moderate CYP3A inhibitor) increased steady state Cmax of ibrutinib by 3.4-fold and AUC by 3-fold.
 
-Effect of CYP3A Inducers on Ibrutinib
-
-The coadministration of rifampin (strong CYP3A inducer) decreased the Cmax of ibrutinib by more than 13-fold and AUC by more than 10-fold.
+Effect of CYP3A Inducers on Ibrutinib: The coadministration of rifampin (strong CYP3A inducer) decreased the Cmax of ibrutinib by more than 13-fold and AUC by more than 10-fold.
 Simulations suggest that efavirenz (moderate CYP3A inducer) may decrease the AUC of ibrutinib by 3-fold.
 
-Effect of Ibrutinib on CYP Substrates
+In Vitro Studies
 
-In vitro studies suggest that ibrutinib and PCI-45227 are unlikely to inhibit CYP1A2, 2B6, 2C8, 2C9, 2C19, 2D6 or 3A at clinical doses.
+Effect of Ibrutinib on CYP Substrates: In vitro studies suggest that ibrutinib and PCI-45227 are unlikely to inhibit CYP1A2, 2B6, 2C8, 2C9, 2C19, 2D6 or 3A at clinical doses.
 Both ibrutinib and PCI-45227 are unlikely to induce CYP1A2, CYP2B6 or CYP3A at clinical doses.
 
-Effect of Ibrutinib on Substrates of Transporters
-
-In vitro studies suggest that ibrutinib may inhibit BCRP and P-gp transport at clinical doses.
+Effect of Ibrutinib on Substrates of Transporters: In vitro studies suggest that ibrutinib may inhibit BCRP and P-gp transport at clinical doses.
 The coadministration of oral P-gp or BCRP substrates with a narrow therapeutic index (e.g., digoxin, methotrexate) with IMBRUVICA may increase their concentrations.

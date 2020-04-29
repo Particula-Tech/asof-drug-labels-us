@@ -5,10 +5,10 @@
 The coadministration of IMBRUVICA with a strong or moderate CYP3A inhibitor may increase ibrutinib plasma concentrations [see Clinical Pharmacology (12.3)].
 Increased ibrutinib concentrations may increase the risk of drug-related toxicity.
 
-Dose modifications of IMBRUVICA are recommended when used concomitantly with posaconazole, voriconazole and moderate CYP3A inhibitors [see Dosage and Administration (2.4)].
+Dose modifications of IMBRUVICA are recommended when used concomitantly with posaconazole, voriconazole and moderate CYP3A inhibitors [see Dosage and Administration (2.3)].
 
 Avoid concomitant use of other strong CYP3A inhibitors.
-Interrupt IMBRUVICA if these inhibitors will be used short-term (such as anti-infectives for seven days or less) [see Dosage and Administration (2.4)].
+Interrupt IMBRUVICA if these inhibitors will be used short-term (such as anti-infectives for seven days or less) [see Dosage and Administration (2.3)].
 
 Avoid grapefruit and Seville oranges during IMBRUVICA treatment, as these contain strong or moderate inhibitors of CYP3A.
 
