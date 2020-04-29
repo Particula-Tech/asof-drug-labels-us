@@ -5,7 +5,7 @@
 Pregnancy Exposure Registry
 
 There is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to AEDs, such as BANZEL, during pregnancy.
-Encourage women who are taking BANZEL during pregnancy to enroll in the North American Antiepileptic Drug (NAAED) Pregnancy Registry by calling 1-888-233-2334 or visiting http://www.aedpregnancyregistry.org.
+Encourage women who are taking BANZEL during pregnancy to enroll in the North American Antiepileptic Drug (NAAED) Pregnancy Registry by calling 1-888-233-2334 or visiting http://www.aedpregnancyregistry.org
 
 Risk Summary
 
@@ -55,7 +55,7 @@ The plasma exposure level at 20 mg/kg was approximately 0.2 times the human plas
 ## 8.4Pediatric Use
 
 Safety and effectiveness have been established in pediatric patients 1 to 17 years of age.
-The effectiveness of BANZEL in pediatric patients 4 years of age and older was based upon an adequate and well-controlled trial of BANZEL that included both adults and pediatric patients, 4 years of age and older, with Lennox Gastaut Syndrome.
+The effectiveness of BANZEL in pediatric patients 4 years of age and older was based upon an adequate and well-controlled trial of BANZEL that included both adults and pediatric patients, 4 years of age and older, with Lennox-Gastaut Syndrome.
 The effectiveness in patients 1 to less than 4 years was based upon a bridging pharmacokinetic and safety study [see Dosage and Administration (2.1), Adverse Reactions (6.1), and Clinical Studies (14)].
 The pharmacokinetics of rufinamide in the pediatric patients, ages 1 to less than 4 years of age is similar to children older than 4 years of age and adults [see Clinical Pharmacology (12.3)].
 

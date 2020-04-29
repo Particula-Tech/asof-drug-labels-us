@@ -39,7 +39,7 @@ The most significant of these can be classified into two general categories: 1) 
 
 Somnolence was reported in 24% of BANZEL-treated patients compared to 13% of patients on placebo, and led to study discontinuation in 3% of BANZEL-treated patients compared to 0% of patients on placebo.
 Fatigue was reported in 10% of BANZEL-treated patients compared to 8% of patients on placebo patients.
-It led to study discontinuation in 1% of BANZEL-treated patients and 0% of patients on placebo patients.
+It led to study discontinuation in 1% of BANZEL-treated patients and 0% of patients on placebo.
 
 Dizziness was reported in 2.7% of BANZEL-treated patients compared to 0% of patients on placebo, and did not lead to study discontinuation.
 

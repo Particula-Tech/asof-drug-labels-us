@@ -195,8 +195,8 @@ The oral suspension does contain carbohydrates.
 
 Distributed by Eisai Inc., Woodcliff Lake, NJ 07677
 
-Revised: 11/2019
+Revised: 04/2020
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-© 2019 Eisai Inc.
+© 2020 Eisai Inc.
