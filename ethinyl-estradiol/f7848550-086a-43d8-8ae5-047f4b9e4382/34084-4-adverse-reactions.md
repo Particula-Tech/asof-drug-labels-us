@@ -24,9 +24,9 @@ The women ranged in age from 18 to 45 years and were predominantly white (91%).
 The most common adverse reactions (≥ 5%) reported during clinical trials were breast symptoms, nausea/vomiting, headache, application site disorder, abdominal pain, dysmenorrhea, vaginal bleeding and menstrual disorders, and mood, affect and anxiety disorders.
 The most common events leading to discontinuation were application site reaction, breast symptoms (including breast discomfort, engorgement and pain), nausea and/or vomiting, headache and emotional lability.
 
-Adverse drug reactions reported by ≥ 2.5% of norelgestromin and ethinyl estradiol transdermal system-treated subjects in these trials are shown in Table 3.
+Adverse drug reactions reported by ≥ 2.5% of norelgestromin and ethinyl estradiol transdermal system-treated subjects in these trials are shown in Table 2.
 
-Table 3: Adverse Drug Reactions Reported by ≥ 2.5% of Norelgestromin and Ethinyl Estradiol Transdermal System-treated Subjects in Three Phase 3 Clinical Trials
+Table 2: Adverse Drug Reactions Reported by ≥ 2.5% of Norelgestromin and Ethinyl Estradiol Transdermal System-treated Subjects in Three Phase 3 Clinical Trials
 
 | System/Organ ClassMedDRA version 10.0Adverse reaction | Norelgestromin and Ethinyl Estradiol Transdermal System(n = 3322) |
 | --- | --- |
@@ -72,10 +72,10 @@ Additional adverse drug reactions that occurred in < 2.5% of norelgestromin and 
 
 ## 6.2 Postmarketing Experience
 
-The following adverse reactions (Table 4) have been identified during postapproval use of norelgestromin and ethinyl estradiol transdermal system.
+The following adverse reactions (Table 3) have been identified during postapproval use of norelgestromin and ethinyl estradiol transdermal system.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Table 4: Alphabetical List of Adverse Drug Reactions Identified During Postmarketing Experience with Norelgestromin and Ethinyl Estradiol Transdermal System by System Organ ClassMedDRA version 10.0
+Table 3: Alphabetical List of Adverse Drug Reactions Identified During Postmarketing Experience with Norelgestromin and Ethinyl Estradiol Transdermal System by System Organ ClassMedDRA version 10.0
 
 | System Organ Class | Adverse Drug Reactions |
 | --- | --- |

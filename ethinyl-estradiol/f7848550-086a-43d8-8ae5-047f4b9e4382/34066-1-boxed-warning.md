@@ -1,20 +1,13 @@
-# WARNING: CARDIOVASCULAR RISK ASSOCIATED WITH SMOKING, RISK OF VENOUS THROMBOEMBOLISM, AND PHARMACOKINETIC PROFILE OF ETHINYL ESTRADIOL
+# WARNING: CIGARETTE SMOKING AND SERIOUS CARDIOVASCULAR EVENTS and CONTRAINDICATED IN WOMEN WITH A BMI ≥ 30 kg/m2
 
-Cigarette Smoking and Serious Cardiovascular Risks
+- •Cigarette Smoking and Serious Cardiovascular Events
 
 Cigarette smoking increases the risk of serious cardiovascular events from hormonal contraceptive use.
 This risk increases with age, particularly in women over 35 years of age, and with the number of cigarettes smoked.
-For this reason, hormonal contraceptives, including Xulane, should not be used by women who are over 35 years of age and smoke.
+For this reason, CHCs, including Xulane, are contraindicated in women who are over 35 years of age and smoke [see Contraindications (4) and Warnings and Precautions (5.1)].
 
-Risk of Venous Thromboembolism
+- •Contraindicated in Women with a BMI ≥ 30 kg/m2
 
-The risk of venous thromboembolism (VTE) among women aged 15 to 44 who used the norelgestromin and ethinyl estradiol transdermal system compared to women who used several different oral contraceptives was assessed in five U.S. epidemiologic studies using electronic healthcare claims data.
-The relative risk estimates ranged from 1.2 to 2.2; one of the studies found a statistically significant increased relative risk of VTE for current users of norelgestromin and ethinyl estradiol transdermal system [see Warnings and Precautions (5.1)].
-
-Pharmacokinetic (PK) Profile of Ethinyl Estradiol (EE)
-
-The PK profile for the norelgestromin and ethinyl estradiol transdermal system is different from the PK profile for oral contraceptives in that it has a higher steady state concentrations and a lower peak concentration.
-Area under the time-concentration curve (AUC) and average concentration at steady state (Css) for EE are approximately 60% higher in women using norelgestromin and ethinyl estradiol transdermal system compared with women using an oral contraceptive containing 35 mcg of EE.
-In contrast, the peak concentration (Cmax) for EE is approximately 25% lower in women using norelgestromin and ethinyl estradiol transdermal system.
-It is not known whether there are changes in the risk of serious adverse events based on the differences in PK profiles of EE in women using norelgestromin and ethinyl estradiol transdermal system compared with women using oral contraceptives containing 30 mcg to 35 mcg of EE.
-Increased estrogen exposure may increase the risk of adverse events, including VTE [see Warnings and Precautions (5.2) and Clinical Pharmacology (12.3)].
+Xulane is contraindicated in women with a BMI ≥ 30 kg/m2.
+The risk of VTE may be greater with Xulane in women with a BMI > 30 kg/m2 compared to women with a lower BMI.
+[see Contraindications (4) and Warnings and Precautions (5.1)].

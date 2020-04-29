@@ -37,6 +37,8 @@ Acute or chronic disturbances of liver function may necessitate the discontinuat
 
 No studies with Xulane have been conducted in women with renal impairment.
 
-## 8.8 Women with Weight ≥ 198 lbs (90 kg)
+## 8.8 BMI and Weight Considerations
 
-Xulane may be less effective in preventing pregnancy in women who weigh 198 lbs (90 kg) or more.
+Xulane is contraindicated in women with a BMI ≥ 30 kg/m2 because of the potential increased risk of VTE [see Contraindications (4) and Warnings and Precautions (5.1)].
+
+Xulane may be less effective in preventing pregnancy in women who weigh 198 lbs. or more [see Clinical Studies (14)].
