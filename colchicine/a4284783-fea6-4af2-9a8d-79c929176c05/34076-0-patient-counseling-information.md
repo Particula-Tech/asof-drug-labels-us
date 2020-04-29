@@ -31,3 +31,4 @@ Neuromuscular Toxicity
 
 Patients should be informed that muscle pain or weakness, tingling or numbness in fingers or toes may occur with colchicine tablets alone or when it is used with certain other drugs.
 Patients developing any of these signs or symptoms must discontinue colchicine tablets and seek medical evaluation immediately.
+Revised date: December,2019 PT 2919-01/ PT 9063
