@@ -1,6 +1,6 @@
 # PRINCIPAL DISPLAY PANEL - 1 mL Cartridge Label
 
-1 mL Single-use Carpuject™ Sterile Cartridge Unit with Luer Lock
+1 mL Single-dose Carpuject™ Sterile Cartridge Unit with Luer Lock
 
 Heparin Sodium Inj., USP
 
@@ -12,13 +12,17 @@ NDC 0409-1402-27 Rx only
 
 Hospira
 
-RL-5660
+PAA140977
+
+LOT #####AA
+
+EXP DMMMYYYY
 
 # PRINCIPAL DISPLAY PANEL - 1 mL Cartridge Box Label
 
 BREAK SEAL TO OPEN
 
-1 mL Single-use 50 Carpuject™ Sterile Cartridge Units with Luer Lock Needle not included
+1 mL Single-dose 50 Carpuject™ Sterile Cartridge Units with Luer Lock Needle not included
 
 Heparin Sodium Injection, USP
 
@@ -26,13 +30,13 @@ Heparin Sodium Injection, USP
 
 From Porcine Intestinal Mucosa - For Intravenous or Subcutaneous Use
 
-NDC 0409-1402-12 Rx only
+NDC 0409-1402-12 Contains 50 of NDC 0409-1402-27 Rx only
 
 Hospira
 
 # PRINCIPAL DISPLAY PANEL - 0.5 mL Cartridge Label
 
-0.5 mL Single-use Carpuject™ Sterile Cartridge Unit with Luer Lock
+0.5 mL Single-dose Carpuject™ Sterile Cartridge Unit with Luer Lock
 
 Heparin Sodium Inj., USP
 
@@ -46,13 +50,17 @@ PRESERVATIVE-FREE
 
 Hospira
 
-RL-5111
+PAA140976
+
+LOT #####AA
+
+EXP DMMMYYYY
 
 # PRINCIPAL DISPLAY PANEL - 0.5 mL Cartridge Container Label
 
 BREAK SEAL TO OPEN
 
-0.5 mL Single-use 50 Carpuject™ Sterile Cartridge Units with Luer Lock Preservative-Free Needle not included
+0.5 mL Single-dose 50 Carpuject™ Sterile Cartridge Units with Luer Lock Preservative-Free Needle not included
 
 Heparin Sodium Injection, USP
 
@@ -60,6 +68,6 @@ Heparin Sodium Injection, USP
 
 From Porcine Intestinal Mucosa - For Intravenous or Subcutaneous Use
 
-NDC 0409-1316-32 Rx only
+NDC 0409-1316-32 Contains 50 of NDC 0409-1316-11 Rx only
 
 Hospira
