@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "ANDA212650"
+  ],
+  "inn": "ramelteon",
+  "labeler": "i3 Pharmaceuticals, LLC",
+  "package_ndcs": [
+    "72319-005-01",
+    "72319-005-04",
+    "72319-005-05"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "ramelteon",
+      "name": "Ramelteon"
+    }
+  ],
+  "setid": "32c52e03-4c2e-4774-9397-f1f0ee99b320",
+  "source": "dailymed"
+}
