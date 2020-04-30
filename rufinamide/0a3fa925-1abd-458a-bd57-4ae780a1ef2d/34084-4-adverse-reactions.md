@@ -106,7 +106,7 @@ Table 5: Most Common Adverse Reactions Leading to Discontinuation in Adult Patie
 Pediatric Patients ages 1 to less than 4 years
 
 In a multicenter, parallel group, open-label study comparing BANZEL (45 mg/kg per day) adjunctive treatment (n=25) to the adjunctive treatment with an AED of the investigator’s choice (n=11) in pediatric patients (1 year to less than 4 years of age) with inadequately controlled Lennox-Gastaut Syndrome, the adverse reaction profile was generally similar to that observed in adults and pediatric patients 4 years of age and older treated with BANZEL.
-Adverse reactions that occurred in at least 2 (8 %) BANZEL-treated patients and with a higher frequency than in the AED comparator group were: vomiting (24%), somnolence (16%), bronchitis (12%), constipation (12%), cough (12%), decreased appetite (12%), rash (12%), otitis media (8%), pneumonia (8%), decreased weight (8%), gastroenteritis (8%), nasal congestion (8%), and pneumonia aspiration (8%).
+Adverse reactions that occurred in at least 2 (8%) BANZEL-treated patients and with a higher frequency than in the AED comparator group were: vomiting (24%), somnolence (16%), bronchitis (12%), constipation (12%), cough (12%), decreased appetite (12%), rash (12%), otitis media (8%), pneumonia (8%), decreased weight (8%), gastroenteritis (8%), nasal congestion (8%), and pneumonia aspiration (8%).
 
 Other Adverse Reactions Observed During Clinical Trials
 
