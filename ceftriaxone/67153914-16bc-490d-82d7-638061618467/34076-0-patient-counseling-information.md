@@ -3,9 +3,6 @@
 Patients should be advised that allergic reactions, including serious allergic reactions could occur and that serious reactions require immediate treatment and discontinuation of ceftriaxone.
 Patients should report to their health care provider any previous allergic reactions to ceftriaxone, cephalosporins, penicillins, or other similar antibacterials.
 
-Advise patients of neurological adverse reactions that could occur with Ceftriaxone for Injection and Dextrose Injection use.
-Instruct patients to inform a healthcare provider at once of any neurological signs and symptoms, including encephalopathy (disturbance of consciousness including confusion, hallucinations, stupor, and coma), myoclonus, and seizures, for immediate treatment, dosage adjustment, or discontinuation of Ceftriaxone for Injection and Dextrose Injection.
-
 Patients should be advised that diarrhea is a common problem caused by antibacterials, which usually ends when the antibacterial is discontinued.
 Sometimes after starting treatment with antibacterials, patients can develop watery and bloody stools (with or without stomach cramps and fever) even as late as two or more months after having taken the last dose of the antibacterial.
 If this occurs, patients should contact a physician as soon as possible.
