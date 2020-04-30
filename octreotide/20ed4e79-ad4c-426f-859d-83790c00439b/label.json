@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA213224"
+  ],
+  "inn": "octreotide",
+  "labeler": "Sun Pharmaceutical Industries, Inc.",
+  "package_ndcs": [
+    "62756-452-36",
+    "62756-452-37"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "octreotide acetate",
+      "name": "BYNFEZIA Pen"
+    }
+  ],
+  "setid": "20ed4e79-ad4c-426f-859d-83790c00439b",
+  "source": "dailymed"
+}
