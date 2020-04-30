@@ -13,12 +13,12 @@ DUOBRII may cause birth defects if used during pregnancy.
 Females must not be pregnant when they start using DUOBRII or become pregnant during treatment with DUOBRII.
 
 - •For females who are able to get pregnant:
-  - oYour healthcare provider will order a pregnancy test for you within 2 weeks before you begin treatment with DUOBRII to be sure that you are not pregnant.
+  - •Your healthcare provider will order a pregnancy test for you within 2 weeks before you begin treatment with DUOBRII to be sure that you are not pregnant.
     Your healthcare provider will decide when to do the test.
-  - oBegin treatment with DUOBRII during a normal menstrual period.
-  - oUse an effective form of birth control during treatment with DUOBRII.
+  - •Begin treatment with DUOBRII during a normal menstrual period.
+  - •Use an effective form of birth control during treatment with DUOBRII.
     Talk with your healthcare provider about birth control options that may be used to prevent pregnancy during treatment with DUOBRII.
-  - oStop using DUOBRII and tell your healthcare provider right away if you become pregnant during treatment with DUOBRII.
+  - •Stop using DUOBRII and tell your healthcare provider right away if you become pregnant during treatment with DUOBRII.
 
 What is DUOBRII?
 
@@ -41,18 +41,25 @@ Before using DUOBRII, tell your healthcare provider about all of your medical co
 - •are breastfeeding or plan to breastfeed.
   It is not known if DUOBRII passes into your breast milk.
   If you use DUOBRII and breastfeed, do not apply DUOBRII to your nipple or areola to avoid getting DUOBRII into your baby’s mouth.
-- Tell your healthcare provider about all the medicines you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements.
-- Especially tell your healthcare provider if you take corticosteroids by mouth, or injection, or use other products on your skin that contain corticosteroids.
-- Certain medicines may make your skin more sensitive to sunlight.
-  Ask your healthcare provider for a list of these medicines if you are not sure.
-- How should I use DUOBRII?
+
+Tell your healthcare provider about all the medicines you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements.
+
+Especially tell your healthcare provider if you take corticosteroids by mouth, or injection, or use other products on your skin that contain corticosteroids.
+
+Certain medicines may make your skin more sensitive to sunlight.
+Ask your healthcare provider for a list of these medicines if you are not sure.
+
+How should I use DUOBRII?
+
 - •Use DUOBRII exactly as your healthcare provider tells you to use it.
 - •If you shower or bathe before applying DUOBRII, your skin should be dry before applying the lotion.
 - •Apply a thin layer of DUOBRII to the affected areas 1 time each day and rub in gently.
 - •You should not use more than 50 grams of DUOBRII in 1 week.
 - •Avoid using DUOBRII on your face, groin, or underarms (armpits).
 - •Do not bandage, wrap, or cover the treated skin area(s) unless your healthcare provider tells you to.
-- What should I avoid during treatment with DUOBRII?
+
+What should I avoid during treatment with DUOBRII?
+
 - •Avoid sunlight, including sunlamps and tanning beds during your treatment with DUOBRII.
   DUOBRII can make your skin more sensitive to the sun and the light from sunlamps and tanning beds.
   You could get severe sunburn.
@@ -113,11 +120,14 @@ Distributed by: Bausch Health US, LLC, Bridgewater, NJ 08807 USA Manufactured by
 
 U.S. Patent Numbers: 6,517,847; 8,809,307; 10,251,895 and 10,478,502
 
-- DUOBRII is a trademark of Bausch Health Companies Inc. or its affiliates.
+DUOBRII is a trademark of Bausch Health Companies Inc. or its affiliates.
 
 © 2020 Bausch Health Companies Inc. or its affiliates
 
-- For more information call 1-800-321-4576
-- This Patient Information has been approved by the U.S. Food and Drug Administration.
-- Revised: 01/2020
-- 9645602
+For more information call 1-800-321-4576
+
+This Patient Information has been approved by the U.S. Food and Drug Administration.
+
+Revised: 01/2020
+
+9645602
