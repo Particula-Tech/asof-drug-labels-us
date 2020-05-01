@@ -21,7 +21,7 @@ In the U.S. general population, the estimated background risk of major birth def
 
 Clinical Considerations
 
-Disease-associated maternal and/or embryo/fetal risk
+Disease-Associated Maternal and/or Embryo/Fetal Risk
 
 A prospective, longitudinal study followed 201 pregnant women with a history of major depressive disorder who were euthymic and taking antidepressants during pregnancy at the beginning of pregnancy.
 The women who discontinued antidepressants during pregnancy were more likely to experience a relapse of major depression than women who continued antidepressants.
@@ -64,7 +64,7 @@ Risk Summary
 Data from published literature report the presence of bupropion and its metabolites in human milk (see Data).
 There are no data on the effects of bupropion or its metabolites on milk production.
 Limited data from postmarketing reports have not identified a clear association of adverse reactions in the breastfed infant.
-The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for WELLBUTRIN XL and any potential adverse effects on the breastfed child from WELLBUTRIN XL or from the underlying maternal condition.
+The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for Wellbutrin XL and any potential adverse effects on the breastfed child from Wellbutrin XL or from the underlying maternal condition.
 
 Data
 
@@ -76,7 +76,7 @@ The relationship of bupropion exposure and these seizures is unclear.
 ## 8.4 Pediatric Use
 
 Safety and effectiveness in the pediatric population have not been established.
-When considering the use of WELLBUTRIN XL in a child or adolescent, balance the potential risks with the clinical need [see Boxed Warning and Warnings and Precautions (5.1)].
+When considering the use of Wellbutrin XL in a child or adolescent, balance the potential risks with the clinical need [see Boxed Warning and Warnings and Precautions (5.1)].
 
 ## 8.5 Geriatric Use
 
@@ -91,11 +91,11 @@ Because elderly patients are more likely to have decreased renal function, it ma
 
 ## 8.6 Renal Impairment
 
-Consider a reduced dose and/or dosing frequency of WELLBUTRIN XL in patients with renal impairment (glomerular filtration rate: <90 mL/min).
+Consider a reduced dose and/or dosing frequency of Wellbutrin XL in patients with renal impairment (glomerular filtration rate: <90 mL/min).
 Bupropion and its metabolites are cleared renally and may accumulate in such patients to a greater extent than usual.
 Monitor closely for adverse reactions that could indicate high bupropion or metabolite exposures [see Dosage and Administration (2.7) and Clinical Pharmacology (12.3)].
 
 ## 8.7 Hepatic Impairment
 
-In patients with moderate to severe hepatic impairment (Child-Pugh score: 7 to 15), the maximum WELLBUTRIN XL dose is 150 mg every other day.
+In patients with moderate to severe hepatic impairment (Child-Pugh score: 7 to 15), the maximum Wellbutrin XL dose is 150 mg every other day.
 In patients with mild hepatic impairment (Child-Pugh score: 5 to 6), consider reducing the dose and/or frequency of dosing [see Dosage and Administration (2.6) and Clinical Pharmacology (12.3)].

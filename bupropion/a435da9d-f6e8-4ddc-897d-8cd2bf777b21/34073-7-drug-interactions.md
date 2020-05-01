@@ -1,39 +1,39 @@
 # 7 DRUG INTERACTIONS
 
-## 7.1 Potential for Other Drugs to Affect WELLBUTRIN XL
+## 7.1 Potential for Other Drugs to Affect Wellbutrin XL
 
 Bupropion is primarily metabolized to hydroxybupropion by CYP2B6.
-Therefore, the potential exists for drug interactions between WELLBUTRIN XL and drugs that are inhibitors or inducers of CYP2B6.
+Therefore, the potential exists for drug interactions between Wellbutrin XL and drugs that are inhibitors or inducers of CYP2B6.
 
 Inhibitors of CYP2B6
 
 Ticlopidine and Clopidogrel: Concomitant treatment with these drugs can increase bupropion exposures but decrease hydroxybupropion exposure.
-Based on clinical response, dosage adjustment of WELLBUTRIN XL may be necessary when coadministered with CYP2B6 inhibitors (e.g., ticlopidine or clopidogrel) [see Clinical Pharmacology (12.3)].
+Based on clinical response, dosage adjustment of Wellbutrin XL may be necessary when coadministered with CYP2B6 inhibitors (e.g., ticlopidine or clopidogrel) [see Clinical Pharmacology (12.3)].
 
 Inducers of CYP2B6
 
 Ritonavir, Lopinavir, and Efavirenz: Concomitant treatment with these drugs can decrease bupropion and hydroxybupropion exposure.
-Dosage increase of WELLBUTRIN XL may be necessary when coadministered with ritonavir, lopinavir, or efavirenz but should not exceed the maximum recommended dose [see Clinical Pharmacology (12.3)].
+Dosage increase of Wellbutrin XL may be necessary when coadministered with ritonavir, lopinavir, or efavirenz but should not exceed the maximum recommended dose [see Clinical Pharmacology (12.3)].
 
 Carbamazepine, Phenobarbital, Phenytoin: While not systemically studied, these drugs may induce metabolism of bupropion and may decrease bupropion exposure [see Clinical Pharmacology (12.3)].
 If bupropion is used concomitantly with a CYP inducer, it may be necessary to increase the dose of bupropion, but the maximum recommended dose should not be exceeded.
 
-## 7.2 Potential for WELLBUTRIN XL to Affect Other Drugs
+## 7.2 Potential for Wellbutrin XL to Affect Other Drugs
 
 Drugs Metabolized by CYP2D6
 
 Bupropion and its metabolites (erythrohydrobupropion, threohydrobupropion, hydroxybupropion) are CYP2D6 inhibitors.
-Therefore, coadministration of WELLBUTRIN XL with drugs that are metabolized by CYP2D6 can increase the exposures of drugs that are substrates of CYP2D6.
+Therefore, coadministration of Wellbutrin XL with drugs that are metabolized by CYP2D6 can increase the exposures of drugs that are substrates of CYP2D6.
 Such drugs include certain antidepressants (e.g., venlafaxine, nortriptyline, imipramine, desipramine, paroxetine, fluoxetine, and sertraline), antipsychotics (e.g., haloperidol, risperidone, and thioridazine), beta-blockers (e.g., metoprolol), and Type 1C antiarrhythmics (e.g., propafenone, and flecainide).
-When used concomitantly with WELLBUTRIN XL, it may be necessary to decrease the dose of these CYP2D6 substrates, particularly for drugs with a narrow therapeutic index.
+When used concomitantly with Wellbutrin XL, it may be necessary to decrease the dose of these CYP2D6 substrates, particularly for drugs with a narrow therapeutic index.
 
 Drugs that require metabolic activation by CYP2D6 to be effective (e.g., tamoxifen), theoretically could have reduced efficacy when administered concomitantly with inhibitors of CYP2D6 such as bupropion.
-Patients treated concomitantly with WELLBUTRIN XL and such drugs may require increased doses of the drug [see Clinical Pharmacology (12.3)].
+Patients treated concomitantly with Wellbutrin XL and such drugs may require increased doses of the drug [see Clinical Pharmacology (12.3)].
 
 ## 7.3 Drugs That Lower Seizure Threshold
 
-Use extreme caution when coadministering WELLBUTRIN XL with other drugs that lower the seizure threshold (e.g., other bupropion products, antipsychotics, antidepressants, theophylline, or systemic corticosteroids).
-Use low initial doses of WELLBUTRIN XL and increase the dose gradually [see Warnings and Precautions (5.3)].
+Use extreme caution when coadministering Wellbutrin XL with other drugs that lower the seizure threshold (e.g., other bupropion products, antipsychotics, antidepressants, theophylline, or systemic corticosteroids).
+Use low initial doses of Wellbutrin XL and increase the dose gradually [see Warnings and Precautions (5.3)].
 
 ## 7.4 Dopaminergic Drugs (Levodopa and Amantadine)
 
@@ -41,20 +41,20 @@ Bupropion, levodopa, and amantadine have dopamine agonist effects.
 CNS toxicity has been reported when bupropion was coadministered with levodopa or amantadine.
 Adverse reactions have included restlessness, agitation, tremor, ataxia, gait disturbance, vertigo, and dizziness.
 It is presumed that the toxicity results from cumulative dopamine agonist effects.
-Use caution when administering WELLBUTRIN XL concomitantly with these drugs.
+Use caution when administering Wellbutrin XL concomitantly with these drugs.
 
 ## 7.5 Use with Alcohol
 
-In postmarketing experience, there have been rare reports of adverse neuropsychiatric events or reduced alcohol tolerance in patients who were drinking alcohol during treatment with WELLBUTRIN XL.
-The consumption of alcohol during treatment with WELLBUTRIN XL should be minimized or avoided.
+In postmarketing experience, there have been rare reports of adverse neuropsychiatric events or reduced alcohol tolerance in patients who were drinking alcohol during treatment with Wellbutrin XL.
+The consumption of alcohol during treatment with Wellbutrin XL should be minimized or avoided.
 
 ## 7.6 MAO Inhibitors
 
 Bupropion inhibits the reuptake of dopamine and norepinephrine.
 Concomitant use of MAOIs and bupropion is contraindicated because there is an increased risk of hypertensive reactions if bupropion is used concomitantly with MAOIs.
 Studies in animals demonstrate that the acute toxicity of bupropion is enhanced by the MAO inhibitor phenelzine.
-At least 14 days should elapse between discontinuation of an MAOI intended to treat depression and initiation of treatment with WELLBUTRIN XL.
-Conversely, at least 14 days should be allowed after stopping WELLBUTRIN XL before starting an MAOI antidepressant [see Dosage and Administration (2.8, 2.9) and Contraindications (4)].
+At least 14 days should elapse between discontinuation of an MAOI intended to treat depression and initiation of treatment with Wellbutrin XL.
+Conversely, at least 14 days should be allowed after stopping Wellbutrin XL before starting an MAOI antidepressant [see Dosage and Administration (2.8, 2.9) and Contraindications (4)].
 
 ## 7.7 Drug-Laboratory Test Interactions
 

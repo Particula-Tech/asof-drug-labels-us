@@ -23,7 +23,7 @@ Adverse reactions that occurred in at least 5% of patients treated with bupropio
 
 400 mg/day of bupropion HCl sustained-release: abdominal pain, agitation, anxiety, dizziness, dry mouth, insomnia, myalgia, nausea, palpitation, pharyngitis, sweating, tinnitus, and urinary frequency.
 
-WELLBUTRIN XL has been demonstrated to have similar bioavailability both to the immediate-release and sustained-release formulations of bupropion.
+Wellbutrin XL has been demonstrated to have similar bioavailability both to the immediate-release and sustained-release formulations of bupropion.
 The information included under this subsection and under subsection 6.2 is based primarily on data from controlled clinical trials with the sustained-release and extended-release formulations of bupropion hydrochloride.
 
 Major Depressive Disorder
@@ -115,10 +115,10 @@ The following additional adverse reactions occurred in controlled trials of bupr
 
 Seasonal Affective Disorder
 
-In placebo-controlled clinical trials in SAD, 9% of patients treated with WELLBUTRIN XL and 5% of patients treated with placebo discontinued treatment because of adverse reactions.
+In placebo-controlled clinical trials in SAD, 9% of patients treated with Wellbutrin XL and 5% of patients treated with placebo discontinued treatment because of adverse reactions.
 The adverse reactions leading to discontinuation in at least 1% of patients treated with bupropion and at a rate numerically greater than the placebo rate were insomnia (2% vs. <1%) and headache (1% vs. <1%).
 
-Table 4 summarizes the adverse reactions that occurred in patients treated with WELLBUTRIN XL for up to approximately 6 months in 3 placebo-controlled trials.
+Table 4 summarizes the adverse reactions that occurred in patients treated with Wellbutrin XL for up to approximately 6 months in 3 placebo-controlled trials.
 These include reactions that occurred at an incidence of 2% or more and were more frequent than in the placebo group.
 
 Table 4: Adverse Reactions in Placebo-Controlled Trials in Patients with SAD
@@ -187,7 +187,7 @@ Table 6: Incidence of Weight Gain or Weight Loss (≥5 lbs) in SAD Trials Using 
 
 ## 6.2 Postmarketing Experience
 
-The following adverse reactions have been identified during post-approval use of WELLBUTRIN XL.
+The following adverse reactions have been identified during post-approval use of Wellbutrin XL.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 Body (General)

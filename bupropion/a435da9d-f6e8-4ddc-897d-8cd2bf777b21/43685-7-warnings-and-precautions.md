@@ -42,11 +42,11 @@ Consideration should be given to changing the therapeutic regimen, including pos
 
 Families and caregivers of patients being treated with antidepressants for major depressive disorder or other indications, both psychiatric and nonpsychiatric, should be alerted about the need to monitor patients for the emergence of agitation, irritability, unusual changes in behavior, and the other symptoms described above, as well as the emergence of suicidality, and to report such symptoms immediately to healthcare providers.
 Such monitoring should include daily observation by families and caregivers.
-Prescriptions for WELLBUTRIN XL should be written for the smallest quantity of tablets consistent with good patient management, in order to reduce the risk of overdose.
+Prescriptions for Wellbutrin XL should be written for the smallest quantity of tablets consistent with good patient management, in order to reduce the risk of overdose.
 
 ## 5.2 Neuropsychiatric Adverse Events and Suicide Risk in Smoking Cessation Treatment
 
-WELLBUTRIN XL is not approved for smoking cessation treatment; however, bupropion HCl sustained-release is approved for this use.
+Wellbutrin XL is not approved for smoking cessation treatment; however, bupropion HCl sustained-release is approved for this use.
 Serious neuropsychiatric adverse events have been reported in patients taking bupropion for smoking cessation.
 These postmarketing reports have included changes in mood (including depression and mania), psychosis, hallucinations, paranoia, delusions, homicidal ideation, aggression, hostility, agitation, anxiety, and panic, as well as suicidal ideation, suicide attempt, and completed suicide [see Adverse Reactions (6.2)].
 Some patients who stopped smoking may have been experiencing symptoms of nicotine withdrawal, including depressed mood.
@@ -55,39 +55,39 @@ However, some of these adverse events occurred in patients taking bupropion who 
 
 Neuropsychiatric adverse events occurred in patients without and with pre-existing psychiatric disease; some patients experienced worsening of their psychiatric illnesses.
 Observe patients for the occurrence of neuropsychiatric adverse events.
-Advise patients and caregivers that the patient should stop taking WELLBUTRIN XL and contact a healthcare provider immediately if agitation, depressed mood, or changes in behavior or thinking that are not typical for the patient are observed, or if the patient develops suicidal ideation or suicidal behavior.
+Advise patients and caregivers that the patient should stop taking Wellbutrin XL and contact a healthcare provider immediately if agitation, depressed mood, or changes in behavior or thinking that are not typical for the patient are observed, or if the patient develops suicidal ideation or suicidal behavior.
 The healthcare provider should evaluate the severity of the adverse events and the extent to which the patient is benefiting from treatment, and consider options including continued treatment under closer monitoring, or discontinuing treatment.
 In many postmarketing cases, resolution of symptoms after discontinuation of bupropion was reported.
 However, the symptoms persisted in some cases; therefore, ongoing monitoring and supportive care should be provided until symptoms resolve.
 
 ## 5.3 Seizure
 
-WELLBUTRIN XL can cause seizure.
+Wellbutrin XL can cause seizure.
 The risk of seizure is dose-related.
 The dose should not exceed 300 mg once daily.
 Increase the dose gradually.
-Discontinue WELLBUTRIN XL and do not restart treatment if the patient experiences a seizure.
+Discontinue Wellbutrin XL and do not restart treatment if the patient experiences a seizure.
 
 The risk of seizures is also related to patient factors, clinical situations, and concomitant medications that lower the seizure threshold.
-Consider these risks before initiating treatment with WELLBUTRIN XL.
-WELLBUTRIN XL is contraindicated in patients with a seizure disorder or conditions that increase the risk of seizure (e.g., severe head injury, arteriovenous malformation, CNS tumor or CNS infection, severe stroke, anorexia nervosa or bulimia, or abrupt discontinuation of alcohol, benzodiazepines, barbiturates, and antiepileptic drugs [see Contraindications (4)].
+Consider these risks before initiating treatment with Wellbutrin XL.
+Wellbutrin XL is contraindicated in patients with a seizure disorder or conditions that increase the risk of seizure (e.g., severe head injury, arteriovenous malformation, CNS tumor or CNS infection, severe stroke, anorexia nervosa or bulimia, or abrupt discontinuation of alcohol, benzodiazepines, barbiturates, and antiepileptic drugs [see Contraindications (4)].
 The following conditions can also increase the risk of seizure: concomitant use of other medications that lower the seizure threshold (e.g., other bupropion products, antipsychotics, tricyclic antidepressants, theophylline, and systemic corticosteroids), metabolic disorders (e.g., hypoglycemia, hyponatremia, severe hepatic impairment, and hypoxia), or use of illicit drugs (e.g., cocaine) or abuse or misuse of prescription drugs such as CNS stimulants.
 Additional predisposing conditions include diabetes mellitus treated with oral hypoglycemic drugs or insulin, use of anorectic drugs, excessive use of alcohol, benzodiazepines, sedative/hypnotics, or opiates.
 
 Incidence of Seizure with Bupropion Use
 
-The incidence of seizure with WELLBUTRIN XL has not been formally evaluated in clinical trials.
+The incidence of seizure with Wellbutrin XL has not been formally evaluated in clinical trials.
 In studies using bupropion HCl sustained-release up to 300 mg per day the incidence of seizure was approximately 0.1% (1/1000 patients).
 In a large prospective, follow-up study, the seizure incidence was approximately 0.4% (13/3200) with bupropion HCl immediate-release in the range of 300 mg to 450 mg per day.
 
 Additional data accumulated for bupropion immediate-release suggests that the estimated seizure incidence increases almost tenfold between 450 and 600 mg/day.
-The risk of seizure can be reduced if the WELLBUTRIN XL dose does not exceed 450 mg once daily and the titration rate is gradual.
+The risk of seizure can be reduced if the Wellbutrin XL dose does not exceed 450 mg once daily and the titration rate is gradual.
 
 ## 5.4 Hypertension
 
-Treatment with WELLBUTRIN XL can result in elevated blood pressure and hypertension.
-Assess blood pressure before initiating treatment with WELLBUTRIN XL, and monitor periodically during treatment.
-The risk of hypertension is increased if WELLBUTRIN XL is used concomitantly with MAOIs or other drugs that increase dopaminergic or noradrenergic activity [see Contraindications (4)].
+Treatment with Wellbutrin XL can result in elevated blood pressure and hypertension.
+Assess blood pressure before initiating treatment with Wellbutrin XL, and monitor periodically during treatment.
+The risk of hypertension is increased if Wellbutrin XL is used concomitantly with MAOIs or other drugs that increase dopaminergic or noradrenergic activity [see Contraindications (4)].
 
 Data from a comparative trial of the sustained-release formulation of bupropion HCl, nicotine transdermal system (NTS), the combination of sustained-release bupropion plus NTS, and placebo as an aid to smoking cessation suggest a higher incidence of treatment-emergent hypertension in patients treated with the combination of sustained-release bupropion and NTS.
 In this trial, 6.1% of subjects treated with the combination of sustained-release bupropion and NTS had treatment-emergent hypertension compared to 2.5%, 1.6%, and 3.1% of subjects treated with sustained-release bupropion, NTS, and placebo, respectively.
@@ -114,25 +114,25 @@ There are no controlled studies assessing the safety of bupropion in patients wi
 
 Antidepressant treatment can precipitate a manic, mixed, or hypomanic manic episode.
 The risk appears to be increased in patients with bipolar disorder or who have risk factors for bipolar disorder.
-Prior to initiating WELLBUTRIN XL, screen patients for a history of bipolar disorder and the presence of risk factors for bipolar disorder (e.g., family history of bipolar disorder, suicide, or depression).
-WELLBUTRIN XL is not approved for the treatment of bipolar depression.
+Prior to initiating Wellbutrin XL, screen patients for a history of bipolar disorder and the presence of risk factors for bipolar disorder (e.g., family history of bipolar disorder, suicide, or depression).
+Wellbutrin XL is not approved for the treatment of bipolar depression.
 
 ## 5.6 Psychosis and Other Neuropsychiatric Reactions
 
 Depressed patients treated with bupropion have had a variety of neuropsychiatric signs and symptoms, including delusions, hallucinations, psychosis, concentration disturbance, paranoia, and confusion.
 Some of these patients had a diagnosis of bipolar disorder.
 In some cases, these symptoms abated upon dose reduction and/or withdrawal of treatment.
-Discontinue WELLBUTRIN XL if these reactions occur.
+Discontinue Wellbutrin XL if these reactions occur.
 
 ## 5.7 Angle-Closure Glaucoma
 
-Angle-Closure Glaucoma: The pupillary dilation that occurs following use of many antidepressant drugs including WELLBUTRIN XL may trigger an angle-closure attack in a patient with anatomically narrow angles who does not have a patent iridectomy.
+Angle-Closure Glaucoma: The pupillary dilation that occurs following use of many antidepressant drugs including Wellbutrin XL may trigger an angle-closure attack in a patient with anatomically narrow angles who does not have a patent iridectomy.
 
 ## 5.8 Hypersensitivity Reactions
 
 Anaphylactoid/anaphylactic reactions have occurred during clinical trials with bupropion.
 Reactions have been characterized by pruritus, urticaria, angioedema, and dyspnea, requiring medical treatment.
 In addition, there have been rare, spontaneous postmarketing reports of erythema multiforme, Stevens-Johnson syndrome, and anaphylactic shock associated with bupropion.
-Instruct patients to discontinue WELLBUTRIN XL and consult a healthcare provider if they develop an allergic or anaphylactoid/anaphylactic reaction (e.g., skin rash, pruritus, hives, chest pain, edema, and shortness of breath) during treatment.
+Instruct patients to discontinue Wellbutrin XL and consult a healthcare provider if they develop an allergic or anaphylactoid/anaphylactic reaction (e.g., skin rash, pruritus, hives, chest pain, edema, and shortness of breath) during treatment.
 
 There are reports of arthralgia, myalgia, fever with rash and other symptoms of serum sickness suggestive of delayed hypersensitivity.

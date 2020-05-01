@@ -4,9 +4,9 @@
 
 To minimize the risk of seizure, increase the dose gradually [see Warnings and Precautions (5.3)].
 
-WELLBUTRIN XL should be swallowed whole and not crushed, divided, or chewed.
+Wellbutrin XL should be swallowed whole and not crushed, divided, or chewed.
 
-WELLBUTRIN XL should be administered in the morning and may be taken with or without food.
+Wellbutrin XL should be administered in the morning and may be taken with or without food.
 
 ## 2.2 Dosage for Major Depressive Disorder (MDD)
 
@@ -14,7 +14,7 @@ The recommended starting dose for MDD is 150 mg once daily in the morning.
 After 4 days of dosing, the dose may be increased to the target dose of 300 mg once daily in the morning.
 
 It is generally agreed that acute episodes of depression require several months or longer of antidepressant treatment beyond the response in the acute episode.
-It is unknown whether the WELLBUTRIN XL dose needed for maintenance treatment is identical to the dose that provided an initial response.
+It is unknown whether the Wellbutrin XL dose needed for maintenance treatment is identical to the dose that provided an initial response.
 Periodically reassess the need for maintenance treatment and the appropriate dose for such treatment.
 
 ## 2.3 Dosage for Seasonal Affective Disorder (SAD)
@@ -23,44 +23,44 @@ The recommended starting dose for SAD is 150 mg once daily.
 After 7 days of dosing, the dose may be increased to the target dose of 300 mg once daily in the morning.
 Doses above 300 mg of bupropion hydrochloride extended-release were not assessed in the SAD trials.
 
-For the prevention of seasonal MDD episodes associated with SAD, initiate WELLBUTRIN XL in the autumn, prior to the onset of depressive symptoms.
+For the prevention of seasonal MDD episodes associated with SAD, initiate Wellbutrin XL in the autumn, prior to the onset of depressive symptoms.
 Continue treatment through the winter season.
-Taper and discontinue WELLBUTRIN XL in early spring.
-For patients treated with 300 mg per day, decrease the dose to 150 mg once daily before discontinuing WELLBUTRIN XL.
+Taper and discontinue Wellbutrin XL in early spring.
+For patients treated with 300 mg per day, decrease the dose to 150 mg once daily before discontinuing Wellbutrin XL.
 Individualize the timing of initiation, and duration of treatment should be individualized, based on the patient’s historical pattern of seasonal MDD episodes.
 
 ## 2.4 Switching Patients from WELLBUTRIN Tablets or from WELLBUTRIN SR Sustained-Release Tablets
 
-When switching patients from WELLBUTRIN Tablets to WELLBUTRIN XL or from WELLBUTRIN SR Sustained-Release Tablets to WELLBUTRIN XL, give the same total daily dose when possible.
+When switching patients from WELLBUTRIN Tablets to Wellbutrin XL or from WELLBUTRIN SR Sustained-Release Tablets to Wellbutrin XL, give the same total daily dose when possible.
 
-## 2.5 To Discontinue WELLBUTRIN XL, Taper the Dose
+## 2.5 To Discontinue Wellbutrin XL, Taper the Dose
 
-When discontinuing treatment in patients treated with WELLBUTRIN XL 300 mg once daily, decrease the dose to 150 mg once daily prior to discontinuation.
+When discontinuing treatment in patients treated with Wellbutrin XL 300 mg once daily, decrease the dose to 150 mg once daily prior to discontinuation.
 
 ## 2.6 Dosage Adjustment in Patients with Hepatic Impairment
 
-In patients with moderate to severe hepatic impairment (Child-Pugh score: 7 to 15), the maximum dose is 150 mg every other day.
+In patients with moderate to severe hepatic impairment (Child-Pugh score: 7 to 15), the maximum dose is 150 mg everyother day.
 In patients with mild hepatic impairment (Child-Pugh score: 5 to 6), consider reducing the dose and/or frequency of dosing [see Use in Specific Populations (8.7) and Clinical Pharmacology (12.3)].
 
 ## 2.7 Dose Adjustment in Patients with Renal Impairment
 
-Consider reducing the dose and/or frequency of WELLBUTRIN XL in patients with renal impairment (glomerular filtration rate less than 90 mL/min) [see Use in Specific Populations (8.6) and Clinical Pharmacology (12.3)].
+Consider reducing the dose and/or frequency of Wellbutrin XL in patients with renal impairment (glomerular filtration rate less than 90 mL/min) [see Use in Specific Populations (8.6) and Clinical Pharmacology (12.3)].
 
 ## 2.8 Switching a Patient to or from a Monoamine Oxidase Inhibitor (MAOI) Antidepressant
 
-At least 14 days should elapse between discontinuation of an MAOI intended to treat depression and initiation of therapy with WELLBUTRIN XL.
-Conversely, at least 14 days should be allowed after stopping WELLBUTRIN XL before starting an MAOI antidepressant [see Contraindications (4) and Drug Interactions (7.6)].
+At least 14 days should elapse between discontinuation of an MAOI intended to treat depression and initiation of therapy with Wellbutrin XL.
+Conversely, at least 14 days should be allowed after stopping Wellbutrin XL before starting an MAOI antidepressant [see Contraindications (4) and Drug Interactions (7.6)].
 
-## 2.9 Use of WELLBUTRIN XL with Reversible MAOIs such as Linezolid or Methylene Blue
+## 2.9 Use of Wellbutrin XL with Reversible MAOIs such as Linezolid or Methylene Blue
 
-Do not start WELLBUTRIN XL in a patient who is being treated with a reversible MAOI such as linezolid or intravenous methylene blue.
+Do not start Wellbutrin XL in a patient who is being treated with a reversible MAOI such as linezolid or intravenous methylene blue.
 Drug interactions can increase risk of hypertensive reactions.
 In a patient who requires more urgent treatment of a psychiatric condition, non-pharmacological interventions, including hospitalization, should be considered [see Contraindications (4)].
 
-In some cases, a patient already receiving therapy with WELLBUTRIN XL may require urgent treatment with linezolid or intravenous methylene blue.
-If acceptable alternatives to linezolid or intravenous methylene blue treatment are not available and the potential benefits of linezolid or intravenous methylene blue treatment are judged to outweigh the risks of hypertensive reactions in a particular patient, WELLBUTRIN XL should be stopped promptly, and linezolid or intravenous methylene blue can be administered.
+In some cases, a patient already receiving therapy with Wellbutrin XL may require urgent treatment with linezolid or intravenous methylene blue.
+If acceptable alternatives to linezolid or intravenous methylene blue treatment are not available and the potential benefits of linezolid or intravenous methylene blue treatment are judged to outweigh the risks of hypertensive reactions in a particular patient, Wellbutrin XL should be stopped promptly, and linezolid or intravenous methylene blue can be administered.
 The patient should be monitored for 2 weeks or until 24 hours after the last dose of linezolid or intravenous methylene blue, whichever comes first.
-Therapy with WELLBUTRIN XL may be resumed 24 hours after the last dose of linezolid or intravenous methylene blue.
+Therapy with Wellbutrin XL may be resumed 24 hours after the last dose of linezolid or intravenous methylene blue.
 
-The risk of administering methylene blue by non-intravenous routes (such as oral tablets or by local injection) or in intravenous doses much lower than 1 mg per kg with WELLBUTRIN XL is unclear.
+The risk of administering methylene blue by non-intravenous routes (such as oral tablets or by local injection) or in intravenous doses much lower than 1 mg per kg with Wellbutrin XL is unclear.
 The clinician should, nevertheless, be aware of the possibility of a drug interaction with such use [see Contraindications (4) and Drug Interactions (7.6)].

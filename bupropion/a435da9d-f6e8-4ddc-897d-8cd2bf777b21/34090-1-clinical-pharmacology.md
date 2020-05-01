@@ -14,12 +14,12 @@ The pharmacologic activity and pharmacokinetics of the individual enantiomers ha
 Following chronic dosing, the mean steady-state plasma concentration of bupropion was reached within 8 days.
 The mean elimination half-life (±SD) of bupropion is 21 (±9) hours.
 
-In a study comparing 14-day dosing with WELLBUTRIN XL, 300 mg once-daily to the immediate-release formulation of bupropion at 100 mg 3 times daily, equivalence was demonstrated for peak plasma concentration and area under the curve for bupropion and the three metabolites (hydroxybupropion, threohydrobupropion, and erythrohydrobupropion).
-Additionally, in a study comparing 14-day dosing with WELLBUTRIN XL 300 mg once daily to the sustained-release formulation of bupropion at 150 mg 2 times daily, equivalence was demonstrated for peak plasma concentration and area under the curve for bupropion and the three metabolites.
+In a study comparing 14-day dosing with Wellbutrin XL, 300 mg once-daily to the immediate-release formulation of bupropion at 100 mg 3 times daily, equivalence was demonstrated for peak plasma concentration and area under the curve for bupropion and the three metabolites (hydroxybupropion, threohydrobupropion, and erythrohydrobupropion).
+Additionally, in a study comparing 14-day dosing with Wellbutrin XL 300 mg once daily to the sustained-release formulation of bupropion at 150 mg 2 times daily, equivalence was demonstrated for peak plasma concentration and area under the curve for bupropion and the three metabolites.
 
 Absorption
 
-Following single oral administration of WELLBUTRIN XL tablets to healthy volunteers, the median time to peak plasma concentrations for bupropion was approximately 5 hours.
+Following single oral administration of Wellbutrin XL tablets to healthy volunteers, the median time to peak plasma concentrations for bupropion was approximately 5 hours.
 The presence of food did not affect the peak concentration or area under the curve of bupropion.
 
 Distribution
@@ -37,7 +37,7 @@ The potency and toxicity of the metabolites relative to bupropion have not been 
 However, it has been demonstrated in an antidepressant screening test in mice that hydroxybupropion is one half as potent as bupropion, while threohydrobupropion and erythrohydrobupropion are 5-fold less potent than bupropion.
 This may be of clinical importance, because the plasma concentrations of the metabolites are as high or higher than those of bupropion.
 
-At steady state, peak plasma concentration of hydroxybupropion occurred approximately 7 hours after administration of WELLBUTRIN XL, and it was approximately 7 times the peak level of the parent drug.
+At steady state, peak plasma concentration of hydroxybupropion occurred approximately 7 hours after administration of Wellbutrin XL, and it was approximately 7 times the peak level of the parent drug.
 The elimination half-life of hydroxybupropion is approximately 20 (±5) hours, and its AUC at steady state is about 13 times that of bupropion.
 The times to peak concentrations for the erythrohydrobupropion and threohydrobupropion metabolites are similar to that of hydroxybupropion.
 However, the elimination half-lives of erythrohydrobupropion and threohydrobupropion are longer, approximately 33 (±10) and 37 (±13) hours, respectively, and steady-state AUCs were 1.4 and 7 times that of bupropion, respectively.
@@ -61,7 +61,7 @@ An inter-trial comparison between normal subjects and subjects with end-stage re
 A second study, comparing normal subjects and subjects with moderate-to-severe renal impairment (GFR 30.9 ± 10.8 mL/min) showed that after a single 150 mg dose of sustained-release bupropion, exposure to bupropion was approximately 2-fold higher in subjects with impaired renal function, while levels of the hydroxybupropion and threo/erythrohydrobupropion (combined) metabolites were similar in the 2 groups.
 Bupropion is extensively metabolized in the liver to active metabolites, which are further metabolized and subsequently excreted by the kidneys.
 The elimination of the major metabolites of bupropion may be reduced by impaired renal function.
-WELLBUTRIN XL should be used with caution in patients with renal impairment, and a reduced frequency and/or dose should be considered [see Dosage and Administration (2.7) and Use in Specific Populations (8.6)].
+Wellbutrin XL should be used with caution in patients with renal impairment, and a reduced frequency and/or dose should be considered [see Dosage and Administration (2.7) and Use in Specific Populations (8.6)].
 
 Hepatic Impairment
 
@@ -102,10 +102,10 @@ Following oral administration of a single 150 mg dose of bupropion, there was no
 
 Drug Interactions
 
-Potential for Other Drugs to Affect WELLBUTRIN XL
+Potential for Other Drugs to Affect Wellbutrin XL
 
 In vitro studies indicate that bupropion is primarily metabolized to hydroxybupropion by CYP2B6.
-Therefore, the potential exists for drug interactions between WELLBUTRIN XL and drugs that are inhibitors or inducers of CYP2B6.
+Therefore, the potential exists for drug interactions between Wellbutrin XL and drugs that are inhibitors or inducers of CYP2B6.
 In addition, in vitro studies suggest that paroxetine, sertraline, norfluoxetine, fluvoxamine, and nelfinavir inhibit the hydroxylation of bupropion.
 
 Inhibitors of CYP2B6
@@ -135,7 +135,7 @@ The AUC of hydroxybupropion was unchanged, whereas Cmax of hydroxybupropion was 
 
 Carbamazepine, Phenobarbital, Phenytoin: While not systematically studied, these drugs may induce the metabolism of bupropion.
 
-Potential for WELLBUTRIN XL to Affect Other Drugs
+Potential for Wellbutrin XL to Affect Other Drugs
 
 Animal data indicated that bupropion may be an inducer of drug-metabolizing enzymes in humans.
 In a study of 8 healthy male volunteers, following a 14-day administration of bupropion 100 mg three times per day, there was no evidence of induction of its own metabolism.
