@@ -1,0 +1,24 @@
+{
+  "application_numbers": [
+    "ANDA074848"
+  ],
+  "inn": "propofol",
+  "labeler": "Hikma Pharmaceuticals USA Inc.",
+  "package_ndcs": [
+    "0641-6194-01",
+    "0641-6194-10",
+    "0641-6195-01",
+    "0641-6195-20",
+    "0641-6196-01",
+    "0641-6196-10"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, EMULSION",
+      "generic": "propofol",
+      "name": "Propofol"
+    }
+  ],
+  "setid": "fdb77e13-f5a7-4c4a-9f8e-338b702239c8",
+  "source": "dailymed"
+}
