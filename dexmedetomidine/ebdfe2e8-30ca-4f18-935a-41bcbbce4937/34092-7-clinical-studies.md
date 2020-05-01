@@ -1,6 +1,6 @@
 # 14 CLINICAL STUDIES
 
-The safety and efficacy of dexmedetomidine injection has been evaluated in four randomized, double-blind, placebo-controlled multicenter clinical trials in 1185 adult patients.
+The safety and efficacy of dexmedetomidine injection has been evaluated in four randomized, double-blind, placebo-controlled multicenter clinical trials in 1,185 adult patients.
 
 ## 14.1 Intensive Care Unit Sedation
 
@@ -28,38 +28,38 @@ The primary outcome measure for this study was the total amount of rescue medica
 Patients randomized to placebo received significantly more midazolam than patients randomized to dexmedetomidine injection (see Table 10).
 
 A second prospective primary analysis assessed the sedative effects of dexmedetomidine injection by comparing the percentage of patients who achieved a Ramsay sedation score of ≥ 3 during intubation without the use of additional rescue medication.
-A significantly greater percentage of patients in the dexmedetomidine injection group maintained Ramsay score of ≥ 3 without receiving any midazolam rescue compared to the placebo group (see Table 10).
+A significantly greater percentage of patients in the dexmedetomidine injection group maintained Ramsay sedation score of ≥ 3 without receiving any midazolam rescue compared to the placebo group (see Table 10).
 
 Table 10: Midazolam Use as Rescue Medication During Intubation (ITT) Study One
 
 |  | Placebo(N = 175) | Dexmedetomidine Injection (N = 178) | p-value |  |  |
 | --- | --- | --- | --- | --- | --- |
-| Mean Total Dose (mg) of MidazolamStandard deviation | 19 mg53 mg | 5 mg19 mg | 0.0011ANOVA model with treatment center. |  |  |
+| Mean Total Dose (mg) of MidazolamStandard deviation | 19 mg53 mg | 5 mg19 mg | 0.0011ANOVA model with treatment center |  |  |
 | Categorized Midazolam Use |  |  |  |  |  |
-| 0 mg | 43 (25%) | 108 (61%) | < 0.001Chi-square. |  |  |
+| 0 mg | 43 (25%) | 108 (61%) | < 0.001Chi-square |  |  |
 | 0–4 mg | 34 (19%) | 36 (20%) |  |  |  |
 | > 4 mg | 98 (56%) | 34 (19%) |  |  |  |
-| ITT (intent-to-treat) population includes all randomized patients. |  |  |  |  |  |
+| ITT (intent-to-treat) population includes all randomized patients |  |  |  |  |  |
 
 A prospective secondary analysis assessed the dose of morphine sulfate administered to patients in the dexmedetomidine injection and placebo groups.
 On average, dexmedetomidine injection-treated patients received less morphine sulfate for pain than placebo-treated patients (0.47 versus 0.83 mg/h).
 In addition, 44% (79 of 178 patients) of dexmedetomidine injection patients received no morphine sulfate for pain versus 19% (33 of 175 patients) in the placebo group.
 
 In a second study, 198 adult patients were randomized to receive placebo and 203 to receive dexmedetomidine injection by intravenous infusion at a dose of 0.4 mcg/kg/hr (with allowed adjustment between 0.2 and 0.7 mcg/kg/hr) following an initial loading infusion of one mcg/kg intravenous over 10 minutes.
-The study drug infusion was adjusted to maintain a Ramsay score of ≥ 3.
+The study drug infusion was adjusted to maintain a Ramsay sedation score of ≥ 3.
 Patients were allowed to receive “rescue” propofol as needed to augment the study drug infusion.
 In addition, morphine sulfate was administered as needed for pain.
 The primary outcome measure for this study was the total amount of rescue medication (propofol) needed to maintain sedation as specified while intubated.
 
 Patients randomized to placebo received significantly more propofol than patients randomized to dexmedetomidine injection (see Table 11).
 
-A significantly greater percentage of patients in the dexmedetomidine injection group compared to the placebo group maintained a Ramsay score of ≥ 3 without receiving any propofol rescue (see Table 11).
+A significantly greater percentage of patients in the dexmedetomidine injection group compared to the placebo group maintained a Ramsay sedation score of ≥ 3 without receiving any propofol rescue (see Table 11).
 
 Table 11: Propofol Use as Rescue Medication During Intubation (ITT) Study Two
 
 |  | Placebo(N = 198) | Dexmedetomidine Injection(N = 203) | p-value |
 | --- | --- | --- | --- |
-| Mean Total Dose (mg) of PropofolStandard deviation | 513 mg782 mg | 72 mg249 mg | < 0.0001ANOVA model with treatment center. |
+| Mean Total Dose (mg) of PropofolStandard deviation | 513 mg782 mg | 72 mg249 mg | < 0.0001ANOVA model with treatment center |
 | Categorized Propofol Use |  |  |  |
 | 0 mg | 47 (24%) | 122 (60%) | < 0.001Chi-square |
 | 0–50 mg | 30 (15%) | 43 (21%) |  |
@@ -108,10 +108,10 @@ For efficacy results see Table 13.
 
 Table 13: Key Efficacy Results of Procedural Sedation Studies
 
-| Study | Loading Infusion Treatment Arm | Number of Patients EnrolledBased on ITT population defined as all randomized and treated patients. | % Not Requiring Midazolam Rescue | ConfidenceNormal approximation to the binomial with continuity correction. Interval on the Difference vs. Placebo | Mean (SD) Total Dose (mg) of Rescue Midazolam Required | Confidence Intervals of the Mean Rescue Dose |
+| Study | Loading Infusion Treatment Arm | Number of Patients EnrolledBased on ITT population defined as all randomized and treated patients | % Not Requiring Midazolam Rescue | ConfidenceNormal approximation to the binomial with continuity correction Interval on the Difference vs. Placebo | Mean (SD) Total Dose (mg) of Rescue Midazolam Required | Confidence Intervals of the Mean Rescue Dose |
 | --- | --- | --- | --- | --- | --- | --- |
-| Study 1 | Dexmedetomidine 0.5 mcg/kg | 134 | 40 | 37 (27, 48) | 1.4 (1.7) | -2.7 (-3.4, -2.0) |
-| Dexmedetomidine 1 mcg/kg | 129 | 54 | 51 (40, 62) | 0.9 (1.5) | -3.1 (-3.8, -2.5) |  |
-| placebo | 63 | 3 | — | 4.1 (3.0) | — |  |
-| Study 2 | Dexmedetomidine 1 mcg/kg | 55 | 53 | 39 (20, 57) | 1.1 (1.5) | -1.8 (-2.7, -0.9) |
-| placebo | 50 | 14 | — | 2.9 (3.0) | — |  |
+| Study 1 | Dexmedetomidine 0.5 mcg/kg | 134 | 40 | 37 (27, 48) | 1.4 (1.7) | -2.7(-3.4, -2.0) |
+| Dexmedetomidine 1 mcg/kg | 129 | 54 | 51 (40, 62) | 0.9 (1.5) | -3.1(-3.8, -2.5) |  |
+| Placebo | 63 | 3 | – | 4.1 (3.0) | – |  |
+| Study 2 | Dexmedetomidine 1 mcg/kg | 55 | 53 | 39 (20, 57) | 1.1 (1.5) | -1.8(-2.7, -0.9) |
+| Placebo | 50 | 14 | – | 2.9 (3.0) | – |  |

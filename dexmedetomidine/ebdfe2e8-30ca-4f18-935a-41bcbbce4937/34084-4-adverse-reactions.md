@@ -1,25 +1,25 @@
 # 6 ADVERSE REACTIONS
 
-## 6.1 Clinical Studies Experience
-
-Because clinical trials are conducted under widely varying conditions, adverse reactions rates observed in the clinical trials of a drug cannot be directly compared to rates in clinical trials of another drug and may not reflect the rates observed in practice.
-
-Use of dexmedetomidine injection has been associated with the following serious adverse reactions:
+The following clinically significant adverse reactions are described elsewhere in the labeling:
 
 - •Hypotension, bradycardia and sinus arrest [see Warnings and Precautions (5.2)]
 - •Transient hypertension [see Warnings and Precautions (5.3)]
+
+## 6.1 Clinical Trials Experience
+
+Because clinical trials are conducted under widely varying conditions, adverse reactions rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
 Most common treatment-emergent adverse reactions, occurring in greater than 2% of patients in both Intensive Care Unit and procedural sedation studies include hypotension, bradycardia and dry mouth.
 
 ### Intensive Care Unit Sedation
 
-Adverse reaction information is derived from the continuous infusion trials of dexmedetomidine injection for sedation in the Intensive Care Unit setting in which 1007 adult patients received dexmedetomidine injection.
+Adverse reaction information is derived from the continuous infusion trials of dexmedetomidine injection for sedation in the Intensive Care Unit setting in which 1,007 adult patients received dexmedetomidine injection.
 The mean total dose was 7.4 mcg/kg (range: 0.8 to 84.1), mean dose per hour was 0.5 mcg/kg/hr (range: 0.1 to 6.0) and the mean duration of infusion of 15.9 hours (range: 0.2 to 157.2).
 The population was between 17 to 88 years of age, 43% ≥ 65 years of age, 77% male and 93% Caucasian.
 Treatment-emergent adverse reactions occurring at an incidence of > 2% are provided in Table 2.
 The most frequent adverse reactions were hypotension, bradycardia and dry mouth [see Warnings and Precautions (5.2)].
 
-Table 2: Adverse Reactions with an Incidence > 2% – Adult Intensive Care Unit Sedation Population < 24 hours26 subjects in the all dexmedetomidine injection group and 10 subjects in the randomized dexmedetomidine injection group had exposure for greater than 24 hours.
+Table 2: Adverse Reactions with an Incidence > 2%-Adult Intensive Care Unit Sedation Population < 24 hours26 subjects in the all dexmedetomidine injection group and 10 subjects in the randomized dexmedetomidine injection group had exposure for greater than 24 hours
 
 | Adverse Event | All Dexmedetomidine Injection (N = 1007) (%) | RandomizedDexmedetomidine Injection (N = 798)(%) | Placebo(N = 400)(%) | Propofol(N = 188)(%) |
 | --- | --- | --- | --- | --- |
@@ -49,12 +49,12 @@ Table 2: Adverse Reactions with an Incidence > 2% – Adult Intensive Care Unit 
 | Sinus Tachycardia | 1% | 1% | 1% | 2% |
 | Ventricular Tachycardia | < 1% | 1% | 1% | 5% |
 | Wheezing | < 1% | 1% | 0 | 2% |
-| Edema Peripheral | < 1% | 0% | 1% | 2% |
+| Edema Peripheral | < 1% | 0 | 1% | 2% |
 
 Adverse reaction information was also derived from the placebo-controlled, continuous infusion trials of dexmedetomidine injection for sedation in the surgical intensive care unit setting in which 387 adult patients received dexmedetomidine injection for less than 24 hours.
 The most frequently observed treatment-emergent adverse events included hypotension, hypertension, nausea, bradycardia, fever, vomiting, hypoxia, tachycardia and anemia (see Table 3).
 
-Table 3: Treatment-Emergent Adverse Events Occurring in > 1% Of All Dexmedetomidine-Treated Adult Patients in the Randomized Placebo-Controlled Continuous Infusion < 24 Hours ICU Sedation Studies
+Table 3: Treatment-Emergent Adverse Events Occurring in > 1% of All Dexmedetomidine-Treated Adult Patients in the Randomized Placebo-Controlled Continuous Infusion < 24 Hours ICU Sedation Studies
 
 | Adverse Event | Randomized Dexmedetomidine(N = 387) | Placebo(N = 379) |
 | --- | --- | --- |
@@ -88,16 +88,16 @@ Table 4: Key Treatment-Emergent Adverse Events Occurring in Dexmedetomidine- or 
 
 | Adverse Event | Dexmedetomidine(N = 244) | Midazolam(N = 122) |
 | --- | --- | --- |
-| HypotensionHypotension was defined in absolute terms as Systolic blood pressure of < 80 mmHg or Diastolic blood pressure of < 50 mmHg or in relative terms as ≤ 30% lower than pre-study drug infusion value. | 56% | 56% |
+| HypotensionHypotension was defined in absolute terms as Systolic blood pressure of < 80 mmHg or Diastolic blood pressure of < 50 mmHg or in relative terms as ≤ 30% lower than pre-study drug infusion value | 56% | 56% |
 | Hypotension Requiring Intervention | 28% | 27% |
-| BradycardiaBradycardia was defined in absolute terms as < 40 bpm or in relative terms as ≤ 30% lower than pre-study drug infusion value. | 42% | 19% |
+| BradycardiaBradycardia was defined in absolute terms as < 40 bpm or in relative terms as ≤ 30% lower than pre-study drug infusion value | 42% | 19% |
 | Bradycardia Requiring Intervention | 5% | 1% |
-| Systolic HypertensionHypertension was defined in absolute terms as Systolic blood pressure > 180 mmHg or Diastolic blood pressure of > 100 mmHg or in relative terms as ≥ 30% higher than pre-study drug infusion value. | 28% | 42% |
-| TachycardiaTachycardia was defined in absolute terms as > 120 bpm or in relative terms as ≥ 30% greater than pre-study drug infusion value. | 25% | 44% |
+| Systolic HypertensionHypertension was defined in absolute terms as Systolic blood pressure > 180 mmHg or Diastolic blood pressure of > 100 mmHg or in relative terms as ≥ 30% higher than pre-study drug infusion value | 28% | 42% |
+| TachycardiaTachycardia was defined in absolute terms as > 120 bpm or in relative terms as ≥ 30% greater than pre-study drug infusion value | 25% | 44% |
 | Tachycardia Requiring Intervention | 10% | 10% |
 | Diastolic Hypertension | 12% | 15% |
 | Hypertension | 11% | 15% |
-| Hypertension Requiring InterventionIncludes any type of hypertension. | 19% | 30% |
+| Hypertension Requiring InterventionIncludes any type of hypertension | 19% | 30% |
 | Hypokalemia | 9% | 13% |
 | Pyrexia | 7% | 2% |
 | Agitation | 7% | 6% |
@@ -114,7 +114,7 @@ The following adverse events occurred between 2 and 5% for dexmedetomidine injec
 
 Table 5: Number (%) of Adult Subjects Who Had a Dose-Related Increase in Treatment Emergent Adverse Events by Maintenance Adjusted Dose Rate Range in the Dexmedetomidine Injection Group
 
-| Dexmedetomidine Injection mcg/kg/hr |  |  |  |
+| Dexmedetomidine Injection (mcg/kg/hr) |  |  |  |
 | --- | --- | --- | --- |
 | Adverse Event | ≤ 0.7Average maintenance dose over the entire study drug administration(N = 95) | > 0.7 to ≤ 1.1(N = 78) | > 1.1(N = 71) |
 | Constipation | 6% | 5% | 14% |
@@ -136,26 +136,26 @@ The most frequent adverse reactions were hypotension, bradycardia, and dry mouth
 Pre-specified criteria for the vital signs to be reported as adverse reactions are footnoted below the table.
 The decrease in respiratory rate and hypoxia was similar between dexmedetomidine injection and comparator groups in both studies.
 
-Table 6: Adverse Reactions With an Incidence > 2% – Procedural Sedation Population
+Table 6: Adverse Reactions with an Incidence > 2%–Procedural Sedation Population
 
 | Adverse Event | Dexmedetomidine Injection N = 318 (%) | Placebo N = 113 (%) |
 | --- | --- | --- |
-| HypotensionHypotension was defined in absolute and relative terms as Systolic blood pressure of < 80 mmHg or ≤ 30% lower than pre-study drug infusion value, or Diastolic blood pressure of < 50 mmHg. | 54% | 30% |
-| Respiratory DepressionRespiratory depression was defined in absolute and relative terms as respiratory rate (RR) < 8 beats per minute or > 25% decrease from baseline. | 37% | 32% |
-| BradycardiaBradycardia was defined in absolute and relative terms as < 40 beats per minute or ≤ 30% lower than pre-study drug infusion value. | 14% | 4% |
-| HypertensionHypertension was defined in absolute and relative terms as Systolic blood pressure > 180 mmHg or ≥ 30% higher than pre-study drug infusion value or Diastolic blood pressure of > 100 mmHg. | 13% | 24% |
-| TachycardiaTachycardia was defined in absolute and relative terms as > 120 beats per minute or ≥ 30% greater than pre-study drug infusion value. | 5% | 17% |
+| HypotensionHypotension was defined in absolute and relative terms as Systolic blood pressure of < 80 mmHg or ≤ 30% lower than pre-study drug infusion value, or Diastolic blood pressure of < 50 mmHg | 54% | 30% |
+| Respiratory DepressionRespiratory depression was defined in absolute and relative terms as respiratory rate (RR) < 8 beats per minute or > 25% decrease from baseline | 37% | 32% |
+| BradycardiaBradycardia was defined in absolute and relative terms as < 40 beats per minute or ≤ 30% lower than pre-study drug infusion value | 14% | 4% |
+| HypertensionHypertension was defined in absolute and relative terms as Systolic blood pressure > 180 mmHg or ≥ 30% higher than pre-study drug infusion value or Diastolic blood pressure of > 100 mmHg | 13% | 24% |
+| TachycardiaTachycardia was defined in absolute and relative terms as > 120 beats per minute or ≥ 30% greater than pre-study drug infusion value | 5% | 17% |
 | Nausea | 3% | 2% |
 | Dry Mouth | 3% | 1% |
-| HypoxiaHypoxia was defined in absolute and relative terms as SpO2 < 90% or 10% decrease from baseline. | 2% | 3% |
+| HypoxiaHypoxia was defined in absolute and relative terms as SpO2 < 90% or 10% decrease from baseline | 2% | 3% |
 | Bradypnea | 2% | 4% |
 
 ## 6.2 Postmarketing Experience
 
-The following adverse reactions have been identified during post approval use of dexmedetomidine injection.
+The following adverse reactions have been identified during post-approval use of dexmedetomidine injection.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Hypotension and bradycardia were the most common adverse reactions associated with the use of dexmedetomidine injection during post approval use of the drug.
+Hypotension and bradycardia were the most common adverse reactions associated with the use of dexmedetomidine injection during post-approval use of the drug.
 
 Table 7: Adverse Reactions Experienced During Post-Approval Use of Dexmedetomidine Injection
 
@@ -173,6 +173,6 @@ Table 7: Adverse Reactions Experienced During Post-Approval Use of Dexmedetomidi
 | Psychiatric Disorders | Agitation, confusional state, delirium, hallucination, illusion |
 | Renal and Urinary Disorders | Oliguria, polyuria |
 | Respiratory, Thoracic and Mediastinal Disorders | Apnea, bronchospasm, dyspnea, hypercapnia, hypoventilation, hypoxia, pulmonary congestion, respiratory acidosis |
-| Skin and Subcutaneous Tissue Disorders | Hyperhidrosis |
+| Skin and Subcutaneous Tissue Disorders | Hyperhidrosis, pruritus, rash, urticaria |
 | Surgical and Medical Procedures | Light anesthesia |
 | Vascular Disorders | Blood pressure fluctuation, hemorrhage, hypertension, hypotension |

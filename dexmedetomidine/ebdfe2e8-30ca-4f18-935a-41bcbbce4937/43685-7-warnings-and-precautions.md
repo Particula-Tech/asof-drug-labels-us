@@ -45,7 +45,7 @@ If tachycardia and/or hypertension occurs after discontinuation of dexmedetomidi
 
 ### Procedural Sedation
 
-In adult subjects, withdrawal symptoms were not seen after discontinuation of short term infusions of dexmedetomidine injection (< 6 hours).
+In adult subjects, withdrawal symptoms were not seen after discontinuation of short-term infusions of dexmedetomidine injection (< 6 hours).
 
 ## 5.6 Tolerance and Tachyphylaxis
 
@@ -53,4 +53,4 @@ Use of dexmedetomidine beyond 24 hours has been associated with tolerance and ta
 
 ## 5.7 Hepatic Impairment
 
-Since dexmedetomidine clearance decreases with severity of hepatic impairment, dose reduction should be considered in patients with impaired hepatic function [see Dosage and Administration (2.2)].
+Since dexmedetomidine clearance decreases with severity of hepatic impairment, dose reduction should be considered in patients with impaired hepatic function [see Dosage and Administration (2.2, 2.3)].

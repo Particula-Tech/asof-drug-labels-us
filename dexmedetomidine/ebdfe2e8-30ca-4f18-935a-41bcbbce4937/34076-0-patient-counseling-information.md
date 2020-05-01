@@ -15,4 +15,4 @@ Manufactured for: Mylan Institutional LLC Rockford, IL 61103 U.S.A.
 
 Manufactured by: Mylan Institutional Galway, Ireland
 
-Revised: 10/2019 0940L101 MI:DEXDIJ:R9
+Revised: 3/2020 0940L102 MI:DEXDIJ:R10
