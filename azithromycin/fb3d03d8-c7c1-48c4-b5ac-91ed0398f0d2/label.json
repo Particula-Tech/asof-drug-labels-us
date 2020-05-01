@@ -1,0 +1,17 @@
+{
+  "application_numbers": [],
+  "inn": "azithromycin",
+  "labeler": "Pfizer Laboratories Div Pfizer Inc",
+  "package_ndcs": [
+    "0069-9500-01"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "azithromycin dihydrate",
+      "name": "Zithromax"
+    }
+  ],
+  "setid": "fb3d03d8-c7c1-48c4-b5ac-91ed0398f0d2",
+  "source": "dailymed"
+}
