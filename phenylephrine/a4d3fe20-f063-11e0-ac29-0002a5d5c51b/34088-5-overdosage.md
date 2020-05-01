@@ -1,4 +1,4 @@
-# 10. OVERDOSAGE
+# 10 OVERDOSAGE
 
 Overdosage of phenylephrine may cause a rapid rise in blood pressure.
 It may also cause headache, anxiety, nausea, and vomiting, and ventricular arrhythmias.
