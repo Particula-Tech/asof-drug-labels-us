@@ -2,23 +2,30 @@
 
 ## 8.1 Pregnancy
 
-There are no adequate and well-controlled studies of ophthalmic cysteamine in pregnant women.
+Risk Summary
+
+There are no adequate and well controlled studies of ophthalmic cysteamine in pregnant women to inform any drug associated risks.
+Oral administration of cysteamine to pregnant rats throughout the period of organogenesis was teratogenic at doses 86 to 345 times the recommended human ophthalmic dose (based on body surface area) [see Data].
 CYSTARAN should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 
-Teratogenic Effects: Teratology studies have been performed in rats at oral doses in a range of 37.5 mg/kg/day to 150 mg/kg/day (about 0.2 to 0.7 times the recommended human maintenance dose on a body surface basis) and have revealed cysteamine bitartrate to be teratogenic.
-Observed teratogenic findings were cleft palate, kyphosis, heart ventricular septal defects, microcephaly, and exencephaly.
+Data
 
-Nonteratogenic Effects: Cysteamine was fetotoxic, resulting in intrauterine death and growth retardation in rats at oral doses of 0.2 to 0.7 times the recommended human maintenance dose on a body surface basis.
+Animal Data
 
-## 8.3 Nursing Mothers
+Teratology studies have been performed in rats at oral doses in the range of 37.5 mg/kg/day to 150 mg/kg/day (86 to 345 times the recommended human ophthalmic dose based on a body surface area) and have revealed cysteamine bitartrate to be teratogenic.
+Observed teratogenic findings were intrauterine death, cleft palate, kyphosis, heart ventricular septal defects, microcephaly, exencephaly, and growth deficits.
 
-It is not known whether oral cysteamine is excreted in human milk.
-Because many drugs are excreted in human milk and because of the manifested potential of cysteamine for developmental toxicity in suckling rat pups when it was administered to their lactating mothers at an oral dose of 375 mg/kg/day (2,250 mg/m 2/day, 1.7 times the recommended human dose based on body surface area), a decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother.
-The incremental increase in systemic cysteamine levels derived from drug applied topically to the eye in patients treated with oral cysteamine is negligible.
+## 8.2 Lactation
+
+Risk Summary
+
+There is no information regarding the presence of cysteamine in human milk, the effects on the breastfed infants, or the effects on milk production.
+Cysteamine administered orally is present in milk of lactating rats.
+It is not known whether measurable levels of cysteamine would be present in maternal milk following topical ocular administration of CYSTARAN.
 
 ## 8.4 Pediatric Use
 
-The safety and effectiveness of CYSTARAN (cysteamine ophthalmic solution) 0.44% have been established.
+The safety and effectiveness of CYSTARAN (cysteamine ophthalmic solution) 0.44% have been established in pediatric patients.
 
 ## 8.5 Geriatric Use
 

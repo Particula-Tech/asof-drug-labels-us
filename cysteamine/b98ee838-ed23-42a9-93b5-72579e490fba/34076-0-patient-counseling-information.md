@@ -1,6 +1,6 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-## 17.1 Storage of Bottles
+Storage of Bottles
 
 1. Patients should be advised to store bottles in the freezer in the original carton.
 2. Each week, one new bottle should be removed from the freezer.
@@ -12,20 +12,16 @@
 6. At the end of 1 week (7 days), patients should discard the bottle.
    There may be medication left in the bottle; however, the bottle must be discarded by the patient because the medication is only stable for 1 week after thawing.
 
-## 17.2 Risk of Contamination
+Risk of Contamination
 
 Patients should be advised not to touch the eyelid or surrounding areas with the dropper tip of the bottle.
 The cap should remain on the bottle when not in use.
 
-## 17.3 Use with Contact Lenses
+Use with Contact Lenses
 
 Patients should be advised that contact lenses should be removed prior to application of CYSTARAN.
 Contact lenses may be reinserted 15 minutes following CYSTARAN administration.
 
-## 17.4 Topical Ophthalmic Use Only
+Topical Ophthalmic Use
 
-Patients should be advised that CYSTARAN is for topical ophthalmic use only.
-
-Manufactured by Hi-Tech Pharmacal Co., Inc., Amityville, NY 11701 for Leadiant Biosciences, Inc., Gaithersburg, MD 20878.
-
-cyspi-7-ht 05/2018
+Patients should be advised that CYSTARAN is for topical ophthalmic use.

@@ -11,11 +11,11 @@ There have been reports of benign intracranial hypertension (or pseudotumor cere
 
 There have also been reports associated with ophthalmic use of cysteamine; however, all of these patients were on concurrent oral cysteamine.
 
-## 5.3 Use with Contact Lenses
+## 5.3 Contact Lens Use
 
 CYSTARAN contains benzalkonium chloride, which may be absorbed by soft contact lenses.
-Contact lenses should be removed prior to application of solution and may be reinserted 15 minutes following its administration [see Patient Counseling Information(17.3)].
+Contact lenses should be removed prior to application of solution and may be reinserted 15 minutes following its administration [see Patient Counseling Information (17)].
 
-## 5.4 Topical Ophthalmic Use Only
+## 5.4 Topical Ophthalmic Use
 
-CYSTARAN is for topical ophthalmic use only.
+CYSTARAN is for topical ophthalmic use.
