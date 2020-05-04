@@ -1,6 +1,6 @@
-Keep bottles tightly closed.
+BOTTLES:
 
-Keep out of reach of children.
+Keep tightly closed.
 
 Store at 25°C (77°F); excursions permitted to 15° to 30°C (59° to 86°F)
 
@@ -8,15 +8,13 @@ Store at 25°C (77°F); excursions permitted to 15° to 30°C (59° to 86°F)
 
 Dispense in a tight container.
 
-- Manufactured for:
-- Valeant Pharmaceuticals North America LLC
-- Bridgewater, NJ 08807 USA
-- Manufactured by:
-- Valeant Pharmaceuticals International, Inc. Steinbach, MB R5G 1Z7 Canada
+Manufactured by: MEDA Manufacturing GmbH Cologne, Germany 51063
 
-ATIVAN is a trademark of Valeant Pharmaceuticals International, Inc. or its affiliates.
+For: Valeant Pharmaceuticals North America LLC Bridgewater, NJ 08807 USA
 
-- © 2018 Valeant Pharmaceuticals North America LLC
+Ativan is a trademark of Valeant Pharmaceuticals International, Inc. or its affiliates.
 
-1. 9644300 20002159 Rev.
-   09/2018
+9508102 70012365
+
+Rev.
+12/16

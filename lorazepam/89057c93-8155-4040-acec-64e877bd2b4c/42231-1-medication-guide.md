@@ -1,8 +1,8 @@
-# MEDICATION GUIDE
+# Medication Guide
 
 ATIVAN (AT-ivan)
 
-(lorazepam) Tablets, CIV
+(lorazepam) Tablets, C-IV
 
 What is the most important information I should know about ATIVAN?
 
@@ -17,13 +17,13 @@ What is the most important information I should know about ATIVAN?
 What is ATIVAN?
 
 - •ATIVAN is a prescription medicine used:
-  - •to treat anxiety disorders
-  - •for the short-term relief of the symptoms of anxiety or anxiety that can happen with symptoms of depression
-- •ATIVAN is a federal controlled substance (CIV) because it can be abused or lead to dependence.
+- •to treat anxiety disorders
+- •for the short-term relief of the symptoms of anxiety or anxiety that can happen with symptoms of depression
+- •ATIVAN is a federal controlled substance (C-IV) because it can be abused or lead to dependence.
   Keep ATIVAN in a safe place to prevent misuse and abuse.
   Selling or giving away ATIVAN may harm others, and is against the law.
   Tell your healthcare provider if you have abused or been dependent on alcohol, prescription medicines or street drugs.
-- •It is not known if ATIVAN is safe and effective for use in children less than 12 years of age.
+- •It is not known if ATIVAN is safe and effective in children less than 12 years of age.
 - •It is not known if ATIVAN is safe and effective for use for longer than 4 months.
 
 Do not take ATIVAN if you:
@@ -44,7 +44,7 @@ Before you take ATIVAN, tell your healthcare provider about all of your medical 
 - •are breastfeeding or plan to breastfeed.
   ATIVAN passes into your breast milk and may harm your baby.
   Talk to your healthcare provider about the best way to feed your baby if you take ATIVAN.
-  You should not breastfeed while taking ATIVAN.
+  You should not breastfeed while taking ATIVAN
 
 Tell your healthcare provider about all the medicines you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements.
 
@@ -83,8 +83,10 @@ ATIVAN may cause serious side effects, including:
 
 The most common side effects of ATIVAN include:
 
-- •sedation • dizziness
-- •weakness • unsteadiness
+- •sedation
+- •weakness
+- •dizziness
+- •unsteadiness
 
 These are not all the possible side effects of ATIVAN.
 Call your doctor for medical advice about side effects.
@@ -95,7 +97,7 @@ How should I store ATIVAN?
 - •Store ATIVAN in a tightly closed container at 77°F (25°C); excursions permitted to 59° to 86°F (15° to 30°C).
 - •Keep ATIVAN and all medicines out of the reach of children.
 
-General information about the safe and effective use of ATIVAN
+General information about the safe and effective use of ATIVAN.
 
 Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide.
 Do not use ATIVAN for a condition for which it was not prescribed.
@@ -107,18 +109,16 @@ What are the ingredients in ATIVAN?
 
 Active ingredient: lorazepam
 
-Inactive ingredients: lactose monohydrate, magnesium stearate, microcrystalline cellulose, and polacrilin potassium.
-Manufactured for: Valeant Pharmaceuticals North America LLC Bridgewater, NJ 08807 USA
+Inactive ingredients: lactose monohydrate, magnesium stearate, microcrystalline cellulose, and polacrilin potassium
 
-Manufactured by: Valeant Pharmaceuticals International, Inc.
-
-Steinbach, MB R5G 1Z7 Canada
-
-© 2018 Valeant Pharmaceuticals North America LLC
-
-ATIVAN is a trademark of Valeant Pharmaceuticals International, Inc. or its affiliates.
+Manufactured by: MEDA Manufacturing GmbH, Cologne, Germany 51063 For: Valeant Pharmaceuticals North America LLC, Bridgewater, NJ 08807 USA.
+Ativan is a trademark of Valeant Pharmaceuticals International, Inc. or its affiliates.
 For more information, call 1-800-321-4576.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration
 
-Revised: 09/2018 9644300 20002159
+9508102
+
+70012365
+
+Issued: 12/16
