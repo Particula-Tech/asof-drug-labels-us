@@ -66,10 +66,9 @@ How should I take pramipexole dihydrochloride tablets?
   Skip the dose you missed and take your next regular dose.
 - If you have Parkinson’s disease and your doctor tells you to stop taking pramipexole dihydrochloride tablets, you should stop pramipexole dihydrochloride tablets slowly as directed by your doctor.
   If you stop pramipexole dihydrochloride tablets too quickly you may have withdrawal symptoms such as:
-
-- fever
-- confusion
-- severe muscle stiffness
+  - fever
+  - confusion
+  - severe muscle stiffness
 
 Do not stop taking pramipexole dihydrochloride tablets without talking to your doctor.
 
@@ -95,20 +94,20 @@ Tell your doctor right away if you fall asleep while you are doing activities su
 
 - low blood pressure when you sit or stand up quickly.
   You may have:
-- dizziness
-- nausea
-- fainting
-- sweating
+  - dizziness
+  - nausea
+  - fainting
+  - sweating
 
 Sit and stand up slowly after you have been sitting or lying down.
 
 - unusual urges.
-  Some people who take certain medicines to treat Parkinson’s disease, including pramipexole dihydrochloride tablets, have reported problems, such as gambling, compulsive eating, compulsive buying, and increased sex drive.
+  Some people who take certain medicines to treat Parkinson’s disease or RLS, including pramipexole dihydrochloride tablets, have reported problems, such as gambling, compulsive eating, compulsive buying, and increased sex drive.
 
 If you or your family members notice that you are developing unusual urges or behaviors, talk to your doctor.
 
 - hallucinations and other psychotic-like behavior (seeing visions, hearing sounds or feeling sensations that are not real, confusion, excessive suspicion, aggressive behavior, agitation, delusional beliefs and disorganized thinking).
-  Your chance of having hallucinations and other psychotic-like behavior is higher if you are elderly (age 65 or older).
+  The chances of having hallucinations or other psychotic-like changes are higher in people taking pramipexole dihydrochloride tablets for Parkinson’s disease who are elderly (age 65 or older).
 
 If you have hallucinations or other psychotic-like changes, talk with your doctor right away.
 
@@ -169,4 +168,4 @@ This Patient Information has been approved by the U.S. Food and Drug Administrat
 
 All brands listed are the trademarks of their respective owners and are not trademarks of Aurobindo Pharma Limited.
 
-Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 038, India Revised: 09/2019
+Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 038, India Revised: 04/2020

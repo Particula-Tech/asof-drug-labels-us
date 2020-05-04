@@ -26,7 +26,8 @@ Alert patients and their caregivers to the possibility that they may experience 
 
 Hallucinations and Psychotic-like Behavior
 
-Inform patients that hallucinations and other psychotic-like behavior can occur and that the elderly are at a higher risk than younger patients with Parkinson's disease [see Warnings and Precautions (5.4)].
+Inform patients that hallucinations and other psychotic-like behavior can occur.
+In patients with Parkinson's disease, the elderly are at a higher risk than younger patients [see Warnings and Precautions (5.4)].
 
 Postural (Orthostatic) Hypotension
 
@@ -42,4 +43,4 @@ Lactation
 
 Because of the possibility that pramipexole may be excreted in breast milk, advise women to notify their physicians if they intend to breast-feed or are breast-feeding an infant [see Use in Specific Populations (8.2)].
 
-Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 038, India Revised: 09/2019
+Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 038, India Revised: 04/2020

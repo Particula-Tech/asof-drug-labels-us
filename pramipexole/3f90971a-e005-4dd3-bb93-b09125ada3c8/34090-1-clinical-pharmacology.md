@@ -37,7 +37,7 @@ Food does not affect the extent of pramipexole absorption, although the time of 
 
 Distribution
 
-Pramipexole is extensively distributed, having a volume of distribution of about 500 L (coefficient of variation [CV] = 20%).
+Pramipexole is extensively distributed, having a volume of distribution of about 500 L (coefficient of variation [CV]=20%).
 It is about 15% bound to plasma proteins.
 Pramipexole distributes into red blood cells as indicated by an erythrocyte-to-plasma ratio of approximately 2.
 
