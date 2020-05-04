@@ -2,7 +2,7 @@
 
 ## 16.1 How Supplied
 
-CYMBALTA is available as delayed release capsules in the following strengths, colors, imprints, and presentations:
+CYMBALTA (duloxetine delayed-release capsules) is available in the following strengths, colors, imprints, and presentations:
 
 | Features | Strengths |  |  |
 | --- | --- | --- | --- |

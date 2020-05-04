@@ -10,8 +10,13 @@ Preclinical studies have shown that duloxetine is a potent inhibitor of neuronal
 Duloxetine has no significant affinity for dopaminergic, adrenergic, cholinergic, histaminergic, opioid, glutamate, and GABA receptors in vitro.
 Duloxetine does not inhibit monoamine oxidase (MAO).
 
-CYMBALTA is in a class of drugs known to affect urethral resistance.
-If symptoms of urinary hesitation develop during treatment with CYMBALTA, consideration should be given to the possibility that they might be drug-related.
+CYMBALTA is in a class of drugs known to affect urethral resistance [see Warnings and Precautions (5.15)].
+
+Cardiac Electrophysiology
+
+The effect of CYMBALTA 160 mg and 200 mg administered twice daily (2.7 and 3.3 times the maximum recommended dosage, respectively) to steady state was evaluated in a randomized, double-blinded, two-way crossover study in 117 healthy female adult subjects.
+No QT interval prolongation was detected.
+CYMBALTA appears to be associated with concentration-dependent but not clinically meaningful QT shortening.
 
 ## 12.3 Pharmacokinetics
 
@@ -19,25 +24,41 @@ Duloxetine has an elimination half-life of about 12 hours (range 8 to 17 hours) 
 Steady-state plasma concentrations are typically achieved after 3 days of dosing.
 Elimination of duloxetine is mainly through hepatic metabolism involving two P450 isozymes, CYP1A2 and CYP2D6.
 
-Absorption and Distribution — Orally administered duloxetine hydrochloride is well absorbed.
+Absorption
+
+After oral CYMBALTA administration, duloxetine hydrochloride is well absorbed.
 There is a median 2 hour lag until absorption begins (Tlag), with maximal plasma concentrations (Cmax) of duloxetine occurring 6 hours post dose.
-Food does not affect the Cmax of duloxetine, but delays the time to reach peak concentration from 6 to 10 hours and it marginally decreases the extent of absorption (AUC) by about 10%.
 There is a 3 hour delay in absorption and a one-third increase in apparent clearance of duloxetine after an evening dose as compared to a morning dose.
+
+Effect of Food: Food does not affect the Cmax of duloxetine, but delays the time to reach peak concentration from 6 to 10 hours and it marginally decreases the extent of absorption (AUC) by about 10%.
+
+Distribution
 
 The apparent volume of distribution averages about 1640 L. Duloxetine is highly bound (>90%) to proteins in human plasma, binding primarily to albumin and α1-acid glycoprotein.
 The interaction between duloxetine and other highly protein bound drugs has not been fully evaluated.
 Plasma protein binding of duloxetine is not affected by renal or hepatic impairment.
 
-Metabolism and Elimination — Biotransformation and disposition of duloxetine in humans have been determined following oral administration of 14C-labeled duloxetine.
+Elimination
+
+Metabolism
+
+Biotransformation and disposition of duloxetine in humans have been determined following oral administration of 14C-labeled duloxetine.
 Duloxetine comprises about 3% of the total radiolabeled material in the plasma, indicating that it undergoes extensive metabolism to numerous metabolites.
 The major biotransformation pathways for duloxetine involve oxidation of the naphthyl ring followed by conjugation and further oxidation.
 Both CYP1A2 and CYP2D6 catalyze the oxidation of the naphthyl ring in vitro.
 Metabolites found in plasma include 4-hydroxy duloxetine glucuronide and 5-hydroxy, 6-methoxy duloxetine sulfate.
+
+Excretion
+
 Many additional metabolites have been identified in urine, some representing only minor pathways of elimination.
 Only trace (<1% of the dose) amounts of unchanged duloxetine are present in the urine.
 Most (about 70%) of the duloxetine dose appears in the urine as metabolites of duloxetine; about 20% is excreted in the feces.
 Duloxetine undergoes extensive metabolism, but the major circulating metabolites have not been shown to contribute significantly to the pharmacologic activity of duloxetine.
 
-Children and Adolescents (ages 7 to 17 years) — Duloxetine steady-state plasma concentration was comparable in children (7 to 12 years of age), adolescents (13 to 17 years of age) and adults.
-The average steady-state duloxetine concentration was approximately 30% lower in the pediatric population (children and adolescents) relative to the adults.
-The model-predicted duloxetine steady state plasma concentrations in children and adolescents were mostly within the concentration range observed in adult patients and did not exceed the concentration range in adults.
+Specific Populations
+
+Pediatric Patients
+
+Duloxetine steady-state plasma concentration was comparable in pediatric patients 7 to 17 years of age and adult patients.
+The average steady-state duloxetine concentration was approximately 30% lower in this pediatric population relative to adult patients.
+The model-predicted duloxetine steady state plasma concentrations in pediatric patients 7 to 17 years of age were mostly within the concentration range observed in adult patients and did not exceed the concentration range in adults.
