@@ -11,7 +11,7 @@ Metabolic toxicities associated with excessive electrolyte changes caused by hyd
 Hydrochlorothiazide is well absorbed (65% to 75%) following oral administration.
 Absorption of hydrochlorothiazide is reduced in patients with congestive heart failure.
 
-Peak plasma concentrations are observed within 1 to 5 hours of dosing, and range from 70 to 490 ng/mL following oral doses of 12.5 to 100 mg.
+Peak plasma concentrations are observed within 1 to 5 hours of dosing and range from 70 to 490 ng/mL following oral doses of 12.5 to 100 mg.
 Plasma concentrations are linearly related to the administered dose.
 Concentrations of hydrochlorothiazide are 1.6 to 1.8 times higher in whole blood than in plasma.
 Binding to serum proteins has been reported to be approximately 40% to 68%.

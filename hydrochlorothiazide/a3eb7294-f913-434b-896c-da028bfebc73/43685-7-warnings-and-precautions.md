@@ -35,7 +35,13 @@ They can precipitate hepatic coma in patients with severe liver disease.
 
 Parathyroid Disease: Calcium excretion is decreased by thiazides, and pathologic changes in the parathyroid glands, with hypercalcemia and hypophosphatemia, have been observed in a few patients on prolonged thiazide therapy.
 
-Drug Interactions: When given concurrently the following drugs may interact with thiazide diuretics:
+## Information for Patients:
+
+Non-melanoma Skin Cancer: Instruct patients taking hydrochlorothiazide to protect skin from the sun and undergo regular skin cancer screening.
+
+## Drug Interactions:
+
+When given concurrently the following drugs may interact with thiazide diuretics:
 
 Alcohol, barbiturates, or narcotics - potentiation of orthostatic hypotension may occur.
 
