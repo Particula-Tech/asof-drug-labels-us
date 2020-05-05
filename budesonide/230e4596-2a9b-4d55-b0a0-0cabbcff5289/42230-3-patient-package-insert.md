@@ -158,3 +158,7 @@ Product marketed and distributed under license from Dr. Falk Pharma.
 UCERIS is a trademark of Salix Pharmaceuticals, Inc. or its affiliates.
 
 © 2020 Salix Pharmaceuticals, Inc. or its affiliates
+
+This Patient Information has been approved by the U.S. Food and Drug Administration.
+
+Revised: 04/2020
