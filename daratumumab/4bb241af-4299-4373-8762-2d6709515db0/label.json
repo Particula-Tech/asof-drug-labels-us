@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "BLA761145"
+  ],
+  "inn": "daratumumab",
+  "labeler": "Janssen Biotech, Inc.",
+  "package_ndcs": [
+    "57894-503-01"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "daratumumab, hyaluronidase (human recombinant), histidine, histidine monohydrochloride monohydrate, methionine, polysorbate 20, and sorbitol",
+      "name": "Darzalex Faspro"
+    }
+  ],
+  "setid": "4bb241af-4299-4373-8762-2d6709515db0",
+  "source": "dailymed"
+}
