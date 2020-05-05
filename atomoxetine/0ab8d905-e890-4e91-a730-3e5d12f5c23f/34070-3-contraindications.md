@@ -23,5 +23,4 @@
 
 ## 4.5 Severe Cardiovascular Disorders
 
-- Atomoxetine should not be used in patients with severe cardiac or vascular disorders whose condition would be expected to deteriorate if they experience increases in blood pressure or heart rate that could be clinically important (for example, 15 to 20 mm Hg in blood pressure or 20 beats per minute in heart rate).
-  [See Warnings and Precautions (5.4)].
+- Atomoxetine should not be used in patients with severe cardiac or vascular disorders whose condition would be expected to deteriorate if they experience increases in blood pressure or heart rate that could be clinically important (for example, 15 to 20 mm Hg in blood pressure or 20 beats per minute in heart rate) [see Warnings and Precautions (5.4)].

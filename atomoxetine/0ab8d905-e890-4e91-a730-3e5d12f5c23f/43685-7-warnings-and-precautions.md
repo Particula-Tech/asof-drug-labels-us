@@ -31,7 +31,7 @@
   Such reactions may occur several months after therapy is started, but laboratory abnormalities may continue to worsen for several weeks after drug is stopped.
   The patient described above recovered from his liver injury, and did not require a liver transplant.
 - Atomoxetine should be discontinued in patients with jaundice or laboratory evidence of liver injury, and should not be restarted.
-  Laboratory testing to determine liver enzyme levels should be done upon the first symptom or sign of liver dysfunction (e.g., pruritus, dark urine, jaundice, right upper quadrant tenderness, or unexplained “flu like” symptoms) [see Warnings and Precautions (5.12); Patient Counseling Information (17.3)].
+  Laboratory testing to determine liver enzyme levels should be done upon the first symptom or sign of liver dysfunction (e.g., pruritus, dark urine, jaundice, right upper quadrant tenderness, or unexplained “flu like” symptoms) [see Warnings and Precautions (5.12); Patient Counseling Information (17)].
 
 ## 5.3 Serious Cardiovascular Events
 
@@ -122,7 +122,7 @@ Table 1a
 ## 5.11 Effects on Growth
 
 - Data on the long-term effects of atomoxetine on growth come from open-label studies, and weight and height changes are compared to normative population data.
-  In general, the weight and height gain of pediatric patients treated with atomoxetine lags behind that predicted by normative population data for about the first 9-12 months of treatment.
+  In general, the weight and height gain of pediatric patients treated with atomoxetine lags behind that predicted by normative population data for about the first 9 to 12 months of treatment.
   Subsequently, weight gain rebounds and at about 3 years of treatment, patients treated with atomoxetine have gained 17.9 kg on average, 0.5 kg more than predicted by their baseline data.
   After about 12 months, gain in height stabilizes, and at 3 years, patients treated with atomoxetine have gained 19.4 cm on average, 0.4 cm less than predicted by their baseline data (see Figure 1 below).
 
@@ -145,8 +145,7 @@ Table 1a
   The blood levels in PMs are similar to those attained by taking strong inhibitors of CYP2D6.
   The higher blood levels in PMs lead to a higher rate of some adverse effects of atomoxetine [see Adverse Reactions (6.1)].
 
-## 5.13 Concomitant Use of Potent CYP2D6 Inhibitors or Use in patients who are known to be CYP2D6 PMs
+## 5.13 Concomitant Use of Potent CYP2D6 Inhibitors or Use in Patients who are known to be CYP2D6 PMs
 
 - Atomoxetine is primarily metabolized by the CYP2D6 pathway to 4-hydroxyatomoxetine.
-  Dosage adjustment of atomoxetine may be necessary when coadministered with potent CYP2D6 inhibitors (e.g., paroxetine, fluoxetine, and quinidine) or when administered to CYP2D6 PMs.
-  [See Dosage and Administration (2.4) and Drug Interactions (7.2)].
+  Dosage adjustment of atomoxetine may be necessary when coadministered with potent CYP2D6 inhibitors (e.g., paroxetine, fluoxetine, and quinidine) or when administered to CYP2D6 PMs [see Dosage and Administration (2.4) and Drug Interactions (7.2)].

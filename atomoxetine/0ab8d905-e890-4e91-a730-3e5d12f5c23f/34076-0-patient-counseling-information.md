@@ -1,62 +1,64 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-- See FDA-approved Medication Guide.
+Advise the patient to read the FDA-approved patient labeling (Medication Guide).
 
-## 17.1 General Information
+General Information
 
-- Physicians should instruct their patients to read the Medication Guide before starting therapy with atomoxetine and to reread it each time the prescription is renewed.
-- Prescribers or other health professionals should inform patients, their families, and their caregivers about the benefits and risks associated with treatment with atomoxetine and should counsel them in its appropriate use.
-  The prescriber or health professional should instruct patients, their families, and their caregivers to read the Medication Guide and should assist them in understanding its contents.
-  Patients should be given the opportunity to discuss the contents of the Medication Guide and to obtain answers to any questions they may have.
-- Patients should be advised of the following issues and asked to alert their prescriber if these occur while taking atomoxetine.
+Physicians should instruct their patients to read the Medication Guide before starting therapy with atomoxetine capsules and to reread it each time the prescription is renewed.
 
-## 17.2 Suicide Risk
+Prescribers or other health professionals should inform patients, their families, and their caregivers about the benefits and risks associated with treatment with atomoxetine and should counsel them in its appropriate use.
+The prescriber or health professional should instruct patients, their families, and their caregivers to read the Medication Guide and should assist them in understanding its contents.
+Patients should be given the opportunity to discuss the contents of the Medication Guide and to obtain answers to any questions they may have.
 
-- Patients, their families, and their caregivers should be encouraged to be alert to the emergence of anxiety, agitation, panic attacks, insomnia, irritability, hostility, aggressiveness, impulsivity, akathisia (psychomotor restlessness), hypomania, mania, other unusual changes in behavior, depression, and suicidal ideation, especially early during atomoxetine treatment and when the dose is adjusted.
-  Families and caregivers of patients should be advised to observe for the emergence of such symptoms on a day-to-day basis, since changes may be abrupt.
-  Such symptoms should be reported to the patient's prescriber or health professional, especially if they are severe, abrupt in onset, or were not part of the patient's presenting symptoms.
-  Symptoms such as these may be associated with an increased risk for suicidal thinking and behavior and indicate a need for very close monitoring and possibly changes in the medication.
+Patients should be advised of the following issues and asked to alert their prescriber if these occur while taking atomoxetine capsules.
 
-## 17.3 Severe Liver Injury
+Suicide Risk
 
-- Patients initiating atomoxetine should be cautioned that severe liver injury may develop.
-  Patients should be instructed to contact their physician immediately should they develop pruritus, dark urine, jaundice, right upper quadrant tenderness, or unexplained “flu-like” symptoms [see Warnings and Precautions (5.2)].
+Patients, their families, and their caregivers should be encouraged to be alert to the emergence of anxiety, agitation, panic attacks, insomnia, irritability, hostility, aggressiveness, impulsivity, akathisia (psychomotor restlessness), hypomania, mania, other unusual changes in behavior, depression, and suicidal ideation, especially early during atomoxetine treatment and when the dose is adjusted.
+Families and caregivers of patients should be advised to observe for the emergence of such symptoms on a day-to-day basis, since changes may be abrupt.
+Such symptoms should be reported to the patient's prescriber or health professional, especially if they are severe, abrupt in onset, or were not part of the patient's presenting symptoms.
+Symptoms such as these may be associated with an increased risk for suicidal thinking and behavior and indicate a need for very close monitoring and possibly changes in the medication.
 
-## 17.4 Aggression or Hostility
+Severe Liver Injury
 
-- Patients should be instructed to call their doctor as soon as possible should they notice an increase in aggression or hostility.
+Patients initiating atomoxetine capsules should be cautioned that severe liver injury may develop.
+Patients should be instructed to contact their physician immediately should they develop pruritus, dark urine, jaundice, right upper quadrant tenderness, or unexplained “flu-like” symptoms [see Warnings and Precautions (5.2)].
 
-## 17.5 Priapism
+Aggression or Hostility
 
-- Rare postmarketing cases of priapism, defined as painful and nonpainful penile erection lasting more than 4 hours, have been reported for pediatric and adult patients treated with atomoxetine.
-  The parents or guardians of pediatric patients taking atomoxetine and adult patients taking atomoxetine should be instructed that priapism requires prompt medical attention.
+Patients should be instructed to call their doctor as soon as possible should they notice an increase in aggression or hostility.
 
-## 17.6 Ocular Irritant
+Priapism
 
-- Atomoxetine is an ocular irritant.
-  Atomoxetine capsules are not intended to be opened.
-  In the event of capsule content coming in contact with the eye, the affected eye should be flushed immediately with water, and medical advice obtained.
-  Hands and any potentially contaminated surfaces should be washed as soon as possible.
+Rare postmarketing cases of priapism, defined as painful and nonpainful penile erection lasting more than 4 hours, have been reported for pediatric and adult patients treated with atomoxetine capsules.
+The parents or guardians of pediatric patients taking atomoxetine capsules and adult patients taking atomoxetine capsules should be instructed that priapism requires prompt medical attention.
 
-## 17.7 Drug-Drug Interaction
+Ocular Irritant
 
-- Patients should be instructed to consult a physician if they are taking or plan to take any prescription or over-the-counter medicines, dietary supplements, or herbal remedies.
+Atomoxetine is an ocular irritant.
+Atomoxetine capsules are not intended to be opened.
+In the event of capsule content coming in contact with the eye, the affected eye should be flushed immediately with water, and medical advice obtained.
+Hands and any potentially contaminated surfaces should be washed as soon as possible.
 
-## 17.8 Pregnancy
+Drug-Drug Interaction
 
-- Patients should be instructed to consult a physician if they are nursing, pregnant, or thinking of becoming pregnant while taking atomoxetine.
+Patients should be instructed to consult a physician if they are taking or plan to take any prescription or over-the-counter medicines, dietary supplements, or herbal remedies.
 
-## 17.9 Food
+Pregnancy Registry
 
-- Patients may take atomoxetine with or without food.
+Advise patients that there is a pregnancy registry that monitors pregnancy outcomes in women exposed to atomoxetine during pregnancy [see Use in Specific Populations (8.1)].
 
-## 17.10 Missed Dose
+Food
 
-- If patients miss a dose, they should be instructed to take it as soon as possible, but should not take more than the prescribed total daily amount of atomoxetine in any 24-hour period.
+Patients may take atomoxetine capsules with or without food.
 
-## 17.11 Interference with Psychomotor Performance
+Missed Dose
 
-- Patients should be instructed to use caution when driving a car or operating hazardous machinery until they are reasonably certain that their performance is not affected by atomoxetine.
+If patients miss a dose, they should be instructed to take it as soon as possible, but should not take more than the prescribed total daily amount of atomoxetine capsules in any 24-hour period.
+
+Interference with Psychomotor Performance
+
+Patients should be instructed to use caution when driving a car or operating hazardous machinery until they are reasonably certain that their performance is not affected by atomoxetine.
 
 Manufactured by:
 
@@ -71,8 +73,8 @@ Glenmark Pharmaceuticals Inc., USA
 Mahwah, NJ 07430
 
 Questions?
-1 (888)721-7115
+1 (888) 721-7115
 
-www.glenmarkpharma.com/usa
+www.glenmarkpharma-us.com
 
-July 2019
+- March 2020
