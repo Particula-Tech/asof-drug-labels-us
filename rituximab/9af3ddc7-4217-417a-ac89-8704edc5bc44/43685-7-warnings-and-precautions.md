@@ -7,11 +7,11 @@ Severe reactions typically occurred during the first infusion with time to onset
 Rituximab product-induced infusion-related reactions and sequelae include urticaria, hypotension, angioedema, hypoxia, bronchospasm, pulmonary infiltrates, acute respiratory distress syndrome, myocardial infarction, ventricular fibrillation, cardiogenic shock, anaphylactoid events, or death.
 
 Premedicate patients with an antihistamine and acetaminophen prior to dosing.
+For RA, GPA and MPA patients, methylprednisolone 100 mg intravenously or its equivalent is recommended 30 minutes prior to each infusion.
 Institute medical management (e.g. glucocorticoids, epinephrine, bronchodilators, or oxygen) for infusion-related reactions as needed.
 Depending on the severity of the infusion-related reaction and the required interventions, temporarily or permanently discontinue TRUXIMA.
 Resume infusion at a minimum 50% reduction in rate after symptoms have resolved.
-Closely monitor the following patients: those with pre-existing cardiac or pulmonary conditions, those who experienced prior cardiopulmonary adverse reactions, and those with high numbers of circulating malignant cells (≥ 25,000/mm3).
-[see Warnings and Precautions (5.7), Adverse Reactions (6.1)].
+Closely monitor the following patients: those with pre-existing cardiac or pulmonary conditions, those who experienced prior cardiopulmonary adverse reactions, and those with high numbers of circulating malignant cells (≥ 25,000/mm3) [see Warnings and Precautions (5.7), Adverse Reactions (6.1)].
 
 ## 5.2 Severe Mucocutaneous Reactions
 
@@ -43,8 +43,9 @@ Resumption of TRUXIMA treatment in patients whose HBV reactivation resolves shou
 
 ## 5.4 Progressive Multifocal Leukoencephalopathy (PML)
 
-JC virus infection resulting in PML and death can occur in rituximab product-treated patients with hematologic malignancies.
+JC virus infection resulting in PML and death can occur in rituximab product-treated patients with hematologic malignancies or with autoimmune diseases.
 The majority of patients with hematologic malignancies diagnosed with PML received rituximab in combination with chemotherapy or as part of a hematopoietic stem cell transplant.
+The patients with autoimmune diseases had prior or concurrent immunosuppressive therapy.
 Most cases of PML were diagnosed within 12 months of their last infusion of rituximab.
 
 Consider the diagnosis of PML in any patient presenting with new-onset neurologic manifestations.
@@ -57,21 +58,20 @@ Discontinue TRUXIMA and consider discontinuation or reduction of any concomitant
 Acute renal failure, hyperkalemia, hypocalcemia, hyperuricemia, or hyperphosphatemia from tumor lysis, sometimes fatal, can occur within 12-24 hours after the first infusion of rituximab products in patients with NHL.
 A high number of circulating malignant cells (≥25,000/mm3) or high tumor burden, confers a greater risk of TLS.
 Administer aggressive intravenous hydration and anti-hyperuricemic therapy in patients at high risk for TLS.
-Correct electrolyte abnormalities, monitor renal function and fluid balance, and administer supportive care, including dialysis as indicated.
-[see Warnings and Precautions (5.8)].
+Correct electrolyte abnormalities, monitor renal function and fluid balance, and administer supportive care, including dialysis as indicated [see Warnings and Precautions (5.8)].
 
 ## 5.6 Infections
 
 Serious, including fatal, bacterial, fungal, and new or reactivated viral infections can occur during and following the completion of rituximab product-based therapy.
 Infections have been reported in some patients with prolonged hypogammaglobulinemia (defined as hypogammaglobulinemia >11 months after rituximab exposure).
-New or reactivated viral infections included cytomegalovirus, herpes simplex virus, parvovirus B19, varicella zoster virus, West Nile virus, and hepatitis B and C. Discontinue TRUXIMA for serious infections and institute appropriate anti-infective therapy.[see Adverse Reactions (6.1)].
+New or reactivated viral infections included cytomegalovirus, herpes simplex virus, parvovirus B19, varicella zoster virus, West Nile virus, and hepatitis B and C. Discontinue TRUXIMA for serious infections and institute appropriate anti-infective therapy.[see Adverse Reactions (6.1, 6.2)].
 TRUXIMA is not recommended for use in patients with severe, active infections.
 
 ## 5.7 Cardiovascular Adverse Reactions
 
 Cardiac adverse reactions, including ventricular fibrillation, myocardial infarction, and cardiogenic shock may occur in patients receiving rituximab products.
 Discontinue infusions for serious or life-threatening cardiac arrhythmias.
-Perform cardiac monitoring during and after all infusions of TRUXIMA for patients who develop clinically significant arrhythmias, or who have a history of arrhythmia or angina.
+Perform cardiac monitoring during and after all infusions of TRUXIMA for patients who develop clinically significant arrhythmias, or who have a history of arrhythmia or angina [see Adverse Reactions (6.1)].
 
 ## 5.8 Renal Toxicity
 
@@ -91,8 +91,32 @@ Evaluate if symptoms of obstruction such as abdominal pain or repeated vomiting 
 
 The safety of immunization with live viral vaccines following rituximab product therapy has not been studied and vaccination with live virus vaccines is not recommended before or during treatment.
 
+For patients treated with TRUXIMA, physicians should review the patient’s vaccination status and patients should, if possible, be brought up-to-date with all immunizations in agreement with current immunization guidelines prior to initiating TRUXIMA and administer non live vaccines at least 4 weeks prior to a course of TRUXIMA.
+
+The effect of rituximab on immune responses was assessed in a randomized, controlled study in patients with RA treated with rituximab and methotrexate (MTX) compared to patients treated with MTX alone.
+
+A response to pneumococcal vaccination (a T-cell independent antigen) as measured by an increase in antibody titers to at least 6 of 12 serotypes was lower in patients treated with rituximab plus MTX as compared to patients treated with MTX alone (19% vs. 61%).
+A lower proportion of patients in the rituximab plus MTX group developed detectable levels of anti-keyhole limpet hemocyanin antibodies (a novel protein antigen) after vaccination compared to patients on MTX alone (47% vs. 93%).
+
+A positive response to tetanus toxoid vaccine (a T-cell dependent antigen with existing immunity) was similar in patients treated with rituximab plus MTX compared to patients on MTX alone (39% vs. 42%).
+The proportion of patients maintaining a positive Candida skin test (to evaluate delayed type hypersensitivity) was also similar (77% of patients on rituximab plus MTX vs. 70% of patients on MTX alone).
+
+Most patients in the rituximab-treated group had B-cell counts below the lower limit of normal at the time of immunization.
+The clinical implications of these findings are not known.
+
 ## 5.11 Embryo-Fetal Toxicity
 
 Based on human data, rituximab products can cause fetal harm due to B-cell lymphocytopenia in infants exposed in-utero.
 Advise pregnant women of the risk to a fetus.
 Females of childbearing potential should use effective contraception while receiving TRUXIMA and for 12 months following the last dose of TRUXIMA.
+
+## 5.12 Concomitant Use with Other Biologic Agents and DMARDS other than Methotrexate in RA, GPA and MPA
+
+Limited data are available on the safety of the use of biologic agents or disease modifying antirheumatic drugs (DMARDs) other than methotrexate in RA patients exhibiting peripheral B-cell depletion following treatment with rituximab.
+Observe patients closely for signs of infection if biologic agents and/or DMARDs are used concomitantly.
+Use of concomitant immunosuppressants other than corticosteroids has not been studied in GPA or MPA patients exhibiting peripheral B-cell depletion following treatment with rituximab products.
+
+## 5.13 Use in RA Patients Who Have Not Had Prior Inadequate Response to Tumor Necrosis Factor (TNF) Antagonists
+
+While the efficacy of rituximab was supported in four controlled trials in patients with RA with prior inadequate responses to non-biologic DMARDs, and in a controlled trial in MTX-naïve patients, a favorable risk-benefit relationship has not been established in these populations.
+The use of TRUXIMA in patients with RA who have not had prior inadequate response to one or more TNF antagonists is not recommended [see Clinical Studies (14.6)].

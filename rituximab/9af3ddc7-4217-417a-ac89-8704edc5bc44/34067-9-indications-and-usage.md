@@ -12,3 +12,11 @@ TRUXIMA (rituximab-abbs) is indicated for the treatment of adult patients with:
 ## 1.2 Chronic Lymphocytic Leukemia (CLL)
 
 TRUXIMA is indicated, in combination with fludarabine and cyclophosphamide (FC), for the treatment of adult patients with previously untreated and previously treated CD20-positive CLL.
+
+## 1.3 Rheumatoid Arthritis (RA)
+
+TRUXIMA, in combination with methotrexate, is indicated for the treatment of adult patients with moderately- to severely-active rheumatoid arthritis who have had an inadequate response to one or more TNF antagonist therapies.
+
+## 1.4 Granulomatosis with Polyangiitis (GPA) (Wegener’s Granulomatosis) and Microscopic Polyangiitis (MPA)
+
+TRUXIMA, in combination with glucocorticoids, is indicated for the treatment of adult patients with Granulomatosis with Polyangiitis (GPA) (Wegener’s Granulomatosis) and Microscopic Polyangiitis (MPA).

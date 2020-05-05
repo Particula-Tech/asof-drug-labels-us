@@ -4,7 +4,7 @@
 
 Risk Summary
 
-Based on human data, rituximab products can cause adverse developmental outcomes including B-cell lymphocytopenia in infants exposed in-utero (see Clinical Considerations).
+Based on human data, rituximab products can cause adverse developmental outcomes including B-cell lymphocytopenia in infants exposed in-utero [see Clinical Considerations].
 In animal reproduction studies, intravenous administration of rituximab to pregnant cynomolgus monkeys during the period of organogenesis caused lymphoid B-cell depletion in the newborn offspring at doses resulting in 80% of the exposure (based on AUC) of those achieved following a dose of 2 grams in humans.
 Advise pregnant women of the risk to a fetus.
 
@@ -58,9 +58,8 @@ Females of childbearing potential should use effective contraception while recei
 
 ## 8.4 Pediatric Use
 
-The safety and effectiveness of rituximab in pediatric patients have not been established.
-
-Hypogammaglobulinemia has been observed in pediatric patients treated with rituximab.
+The safety and effectiveness of rituximab products have not been established in pediatric patients with NHL, CLL, or RA.
+Rituximab was not studied in pediatric patients with polyarticular juvenile idiopathic arthritis (PJIA) due to concerns regarding the potential for prolonged immunosuppression as a result of B-cell depletion in the developing juvenile immune system.
 
 ## 8.5 Geriatric Use
 
@@ -83,8 +82,24 @@ Chronic Lymphocytic Leukemia
 
 Among patients with CLL evaluated in two randomized active-controlled trials, 243 of 676 rituximab-treated patients (36%) were 65 years of age or older; of these, 100 rituximab-treated patients (15%) were 70 years of age or older.
 
-In exploratory analyses defined by age, there was no observed benefit from the addition of rituximab to fludarabine and cyclophosphamide among patients 70 years of age or older in CLL Study 11 or in CLL Study 12; there was also no observed benefit from the addition of rituximab to fludarabine and cyclophosphamide among patients 65 years of age or older in Study 12 [see Clinical Studies (14.5)].
+In exploratory analyses defined by age, there was no observed benefit from the addition of rituximab to fludarabine and cyclophosphamide among patients 70 years of age or older in CLL Study 1 or in CLL Study 2; there was also no observed benefit from the addition of rituximab to fludarabine and cyclophosphamide among patients 65 years of age or older in Study 2 [see Clinical Studies (14.5)].
 Patients 70 years or older received lower dose intensity of fludarabine and cyclophosphamide compared to younger patients, regardless of the addition of rituximab.
-In CLL Study 11, the dose intensity of rituximab was similar in older and younger patients, however in CLL Study 12 older patients received a lower dose intensity of rituximab.
+In CLL Study 1, the dose intensity of rituximab was similar in older and younger patients, however in CLL Study 2 older patients received a lower dose intensity of rituximab.
 
-The incidence of Grade 3 and 4 adverse reactions was higher among patients receiving R-FC who were 70 years or older compared to younger patients for neutropenia [44% vs. 31% (CLL Study 11); 56% vs. 39% (CLL Study 12)], febrile neutropenia [16% vs. 6% (NHL Study 10 (NCT00719472))], anemia [5% vs. 2% (CLL Study 11); 21% vs. 10% (CLL Study 12)], thrombocytopenia [19% vs. 8% (CLL Study 12)], pancytopenia [7% vs. 2% (CLL Study 11); 7% vs. 2% (CLL Study 12)] and infections [30% vs. 14% (CLL Study 12)].
+The incidence of Grade 3 and 4 adverse reactions was higher among patients receiving R-FC who were 70 years or older compared to younger patients for neutropenia [44% vs. 31% (CLL Study 1); 56% vs. 39% (CLL Study 2)], febrile neutropenia [16% vs. 6% (NHL Study 10 (NCT00719472))], anemia [5% vs. 2% (CLL Study 1); 21% vs. 10% (CLL Study 2)], thrombocytopenia [19% vs. 8% (CLL Study 2)], pancytopenia [7% vs. 2% (CLL Study 1); 7% vs. 2% (CLL Study 2)] and infections [30% vs. 14% (CLL Study 2)].
+
+Rheumatoid Arthritis
+
+Among the 2578 patients in global RA studies completed to date, 12% were 65-75 years old and 2% were 75 years old and older.
+The incidences of adverse reactions were similar between older and younger patients.
+The rates of serious adverse reactions, including serious infections, malignancies, and cardiovascular events were higher in older patients.
+
+Granulomatosis with Polyangiitis (GPA) (Wegener’s Granulomatosis) and Microscopic Polyangiitis
+
+Of the 99 rituximab-treated GPA and MPA patients in GPA/MPA Study 1, 36 (36%) were 65 years old and over, while 8 (8%) were 75 years and over.
+No overall differences in efficacy were observed between patients that were 65 years old and over and younger patients.
+The overall incidence and rate of all serious adverse events was higher in patients 65 years old and over.
+The clinical study did not include sufficient numbers of patients aged 65 and over to determine whether they respond differently from younger subjects.
+
+In GPA/MPA Study 2, 30 (26%) of the enrolled patients were at least 65 years old, of which 12 patients were exposed to non-U.S.-licensed rituximab and 18 were exposed to azathioprine.
+The clinical study did not include sufficient numbers of patients aged 65 and over to determine whether they respond differently from younger subjects.
