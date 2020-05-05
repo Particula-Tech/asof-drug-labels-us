@@ -4,7 +4,8 @@ Polymyxin B Sulfate and Trimethoprim Ophthalmic Solution, USP* containing 10,000
 
 NDC 24208-315-10 10 mL
 
-DO NOT USE IF IMPRINTED NECKBAND IS NOT INTACT.
+| DO NOT USE IF IMPRINTED NECKBAND IS NOT INTACT. |
+| --- |
 
 Storage: Store at 15° to 25°C (59° to 77°F).
 PROTECT FROM LIGHT.
