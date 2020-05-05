@@ -6,7 +6,7 @@ Phenylephrine is an alpha-1 adrenergic receptor agonist used for dilation of the
 Phenylephrine possesses predominantly α-adrenergic effects.
 In the eye, phenylephrine acts locally as a potent vasoconstrictor and mydriatic, by constricting ophthalmic blood vessels and the radial muscle of the iris.
 
-## 12.2. Pharmacodynamics
+## 12.2 Pharmacodynamics
 
 Maximal mydriasis occurs in 20 to 90 minutes with recovery after 3 to 8 hours.
 
