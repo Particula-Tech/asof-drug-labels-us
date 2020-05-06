@@ -24,7 +24,7 @@ The safety of atazanavir and cobicistat coadministered as single agents is based
 
 The most common adverse reactions (Grades 2-4) and reported in ≥5% of subjects in the atazanavir coadministered with cobicistat group were jaundice (6%) and rash (5%).
 
-The proportion of subjects who discontinued study treatment due to adverse events regardless of severity was 11% in both the atazanavir coadministered with cobicistat and atazanavir coadministered with ritonavir groups.
+The proportion of subjects who discontinued study treatment due to adverse events regardless of severity, was 11% in both the atazanavir coadministered with cobicistat and atazanavir coadministered with ritonavir groups.
 Table 2 lists the frequency of adverse reactions (Grades 2-4) occurring in at least 2% of subjects in the atazanavir coadministered with cobicistat group in Study 114.
 
 Table 2: Selected Adverse Reactionsa (Grades 2-4) Reported in ≥2% of HIV-1 Infected Treatment-Naive Adults in the Atazanavir Coadministered with Cobicistat Group in Study 114 (Week 144 analysis)

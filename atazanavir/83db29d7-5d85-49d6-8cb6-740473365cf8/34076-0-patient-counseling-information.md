@@ -49,11 +49,15 @@ Advise patients to inform their healthcare provider immediately of any symptoms 
 
 Inform patients that redistribution or accumulation of body fat may occur in patients receiving antiretroviral therapy including protease inhibitors and that the cause and long-term health effects of these conditions are not known at this time [see Warnings and Precautions (5.13)].
 
+### Not Recommended During Pregnancy
+
+Advise patients that EVOTAZ is not recommended during pregnancy and to alert their healthcare provider if they get pregnant while taking EVOTAZ [see Use in Specific Populations (8.1)].
+
 ### Pregnancy Registry
 
-Inform patients that there is a pregnancy exposure registry to monitor fetal outcomes of pregnant women exposed to EVOTAZ [see Use in Specific Populations (8.1)].
+Inform patients that there is a pregnancy exposure registry to monitor fetal outcomes of pregnant individuals exposed to EVOTAZ during pregnancy [see Use in Specific Populations (8.1)].
 
 ### Lactation
 
-Instruct women with HIV-1 infection not to breastfeed because HIV-1 can be passed to the baby in breast milk.
+Advise individuals with HIV-1 infection not to breastfeed because HIV-1 can be passed to the baby in breast milk.
 Atazanavir, a component of EVOTAZ, can also be passed to the baby in breast milk, and it is not known whether it could harm the baby [see Use in Specific Populations (8.2)].

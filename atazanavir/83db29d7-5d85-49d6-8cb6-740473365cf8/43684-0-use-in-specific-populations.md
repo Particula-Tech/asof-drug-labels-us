@@ -4,47 +4,44 @@
 
 ### Pregnancy Exposure Registry
 
-There is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to EVOTAZ during pregnancy.
+There is a pregnancy exposure registry that monitors pregnancy outcomes in individuals exposed to EVOTAZ during pregnancy.
 Healthcare providers are encouraged to register patients by calling the Antiretroviral Pregnancy Registry (APR) at 1-800-258-4263.
 
 ### Risk Summary
 
-Prospective pregnancy data from the Antiretroviral Pregnancy Registry (APR) are not sufficient to adequately assess the risk of birth defects or miscarriage.
-Cobicistat use in women during pregnancy has not been evaluated; however, atazanavir use during pregnancy has been evaluated in a limited number of women.
-The pharmacokinetics of EVOTAZ have not been evaluated in pregnant patients.
-Available data from the APR show no difference in the risk of overall major birth defects for atazanavir compared with the background rate for major birth defects of 2.7% in a U.S. reference population of the Metropolitan Atlanta Congenital Defects Program (MACDP) [see Data].
+EVOTAZ is not recommended for use during pregnancy and should not be initiated in pregnant individuals [see Dosage and Administration (2.5)]; use of an alternative regimen is recommended for individuals who become pregnant during therapy with EVOTAZ.
+Pharmacokinetic data from studies conducted in pregnant individuals receiving cobicistat showed substantially lower exposures during the second and third trimesters, and consequently also for the coadministered antiretroviral agent.
+Consult the full prescribing information for cobicistat for additional information.
+Pharmacokinetic data from the evaluation of atazanavir and cobicistat in a limited number of pregnant individuals showed a similar trend in lower exposures of the antiretroviral component, atazanavir.
 
-In animal reproduction studies, no evidence of adverse developmental outcomes was observed following oral administration of the components of EVOTAZ (atazanavir or cobicistat) to pregnant rats and rabbits [see Data].
-During organogenesis in the rat and rabbit, atazanavir exposures (AUC) were similar to those observed at the human clinical dose (300 mg/day atazanavir boosted with 100 mg/day ritonavir), while exposures were up to 1.4 (rats) and 3.3 (rabbits) times human exposures at the maximal recommended human dose (MRHD) of 150 mg [see Data].
+Prospective pregnancy data from the APR are not sufficient to adequately assess the risk of birth defects or miscarriage.
+Atazanavir use during pregnancy has been evaluated in a limited number of individuals.
+Available data from the APR show no increase in the risk of overall major birth defects for atazanavir compared with the background rate for major birth defects of 2.7% in a U.S. reference population of the Metropolitan Atlanta Congenital Defects Program (MACDP) (see Data).
+The rate of miscarriage is not reported in the APR.
+The estimated background rate of miscarriage in clinically recognized pregnancies in the U.S. general population is 15−20%.
 
-The background risk of major birth defects and miscarriage for the indicated population is unknown.
-All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
-In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2-4% and 15-20%, respectively.
+In animal reproduction studies, no evidence of adverse developmental outcomes was observed following oral administration of the components of EVOTAZ (atazanavir or cobicistat) to pregnant rats and rabbits (see Data).
+During organogenesis in the rat and rabbit, atazanavir exposures (AUC) were similar to those observed at the human clinical dose (300 mg/day atazanavir boosted with 100 mg/day ritonavir), while exposures were up to 1.4 (rats) and 3.3 (rabbits) times human exposures at the maximal recommended human dose (MRHD) of 150 mg (see Data).
 
 ### Clinical Considerations
 
-Dose Adjustment During Pregnancy and the Postpartum Period
-
-Dosing recommendations cannot be made because the pharmacokinetics, safety, and efficacy of EVOTAZ cannot be predicted from studies of other atazanavir-containing products in pregnant women.
+EVOTAZ is not recommended for use during pregnancy and should not be initiated in pregnant individuals.
+An alternative regimen is recommended for individuals who become pregnant during therapy with EVOTAZ (see Risk Summary).
 
 Maternal Adverse Reactions
 
 Atazanavir
 
-Cases of lactic acidosis syndrome, sometimes fatal, and symptomatic hyperlactatemia have occurred in pregnant women using atazanavir in combination with nucleoside analogues, which are associated with an increased risk of lactic acidosis syndrome.
+Reports of lactic acidosis syndrome, sometimes fatal, and symptomatic hyperlactatemia have occurred in pregnant individuals using atazanavir in combination with nucleoside analogues, which are associated with an increased risk of lactic acidosis syndrome.
 
-Hyperbilirubinemia occurs frequently in patients who take atazanavir, including pregnant women.
+Hyperbilirubinemia occurs frequently in patients who take atazanavir, including pregnant individuals.
 Refer to the atazanavir prescribing information for use of atazanavir in pregnancy.
-
-Advise pregnant women of the potential risks of lactic acidosis syndrome and hyperbilirubinemia.
 
 Fetal/Neonatal Adverse Reactions
 
 Atazanavir
 
-All infants, including neonates exposed to atazanavir in utero, should be monitored for the development of severe hyperbilirubinemia during the first few days of life.
-Advise pregnant women of the potential risk to newborn infants.
-Refer to the atazanavir prescribing information for use of atazanavir in pregnancy.
+Infants exposed to atazanavir in utero, may develop severe hyperbilirubinemia during the first few days of life.
 
 Data
 
@@ -52,12 +49,18 @@ Human Data
 
 Atazanavir
 
-Based on prospective reports from the interim APR of approximately 1600 live births following exposure to atazanavir-containing regimens (including 1037 live births in infants exposed in the first trimester and 569 exposed in second/third trimesters), there was no difference in the overall rate for birth defects for atazanavir (2.3%) compared with the background birth defect rate of 2.7% in the U.S. reference population of the MACDP.
-Based on prospective reports to the APR, the prevalence of birth defects in live births was 2.1% following first trimester exposure to atazanavir-containing regimens.
+The APR has received prospective reports of live births following exposure to atazanavir-containing regimens during pregnancy, including 1361 exposures in the first trimester and 737 exposures in second/third trimester.
+Birth defects occurred in live births in 30 of 1361 (2.2%, 95% CI: 1.5% to 3.1%) with first trimester exposure to atazanavir-containing regimens and 17 of 737 (2.3%, 95% CI: 1.3% to 3.7%) with second/third trimester exposure to atazanavir-containing regimens.
+There was no increase in the overall rate of birth defects for atazanavir compared with the background birth defect rate of 2.7% in the U.S. reference population of the MACDP.
 
 Cobicistat
 
-Insufficient numbers of pregnancies with exposure to cobicistat have been reported to the APR to estimate the rate of birth defects.
+The APR has received prospective reports of live births following exposure to cobicistat-containing regimens during pregnancy, including 347 exposures in the first trimester and 79 exposures in the second/third trimester.
+Birth defects occurred in 13 of 347 (3.7%, 95% CI: 2.0% to 6.3%) live births with first trimester exposure and 1 of 79 (1.3%, 95% CI: 0.0% to 6.9%) with second/third trimester exposure to cobicistat-containing regimens.
+Among pregnant individuals in the U.S. reference population, the background rate of birth defects is 2.7%.
+There was no increase in the overall rate of birth defects for cobicistat compared with the background birth defect rate of 2.7% in the U.S. reference population of the MACDP.
+Methodological limitations of the APR include the use of MACDP as the external comparator group.
+Limitations of using an external comparator include differences in methodology and populations, as well as confounding due to the underlying disease.
 
 ### Animal Data
 
@@ -92,15 +95,22 @@ There is no information regarding the effects of EVOTAZ on the breastfed infant 
 
 Atazanavir has been detected in human milk.
 No data are available regarding atazanavir effects on milk production.
-Cobicistat is present in rat milk [see Data].
+Cobicistat is present in rat milk (see Data).
 There is no information regarding the presence of cobicistat in human milk, the effects on the breastfed infant, or the effects on milk production.
-Because of the potential for (1) HIV transmission (in HIV-negative infants), (2) developing viral resistance (in HIV-positive infants), and (3) adverse reactions in a breastfed infant, instruct women not to breastfeed.
+Because of the potential for (1) HIV transmission (in HIV-negative infants), (2) developing viral resistance (in HIV-positive infants), and (3) adverse reactions in a breastfed infant, instruct individuals with HIV-1 infection not to breastfeed.
 
 Data
 
 Animal Data
 
 Cobicistat: During the prenatal and postnatal development toxicology study at doses up to 75 mg/kg/day, mean cobicistat milk to plasma ratio of up to 1.9 was measured 2 hours after administration to rats on lactation Day 10.
+
+## 8.3 Females and Males of Reproductive Potential
+
+Contraception
+
+Atazanavir and cobicistat, components of EVOTAZ, interact with certain oral contraceptives [see Contraindications (4) and Drug Interactions (7.3)].
+Nonhormonal forms of contraceptive should be considered.
 
 ## 8.4 Pediatric Use
 

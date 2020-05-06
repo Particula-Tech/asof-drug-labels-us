@@ -91,6 +91,12 @@ Atazanavir: Increased concentrations of atazanavir are expected in patients with
 Cobicistat: No clinically relevant differences in cobicistat pharmacokinetics were observed between subjects with moderate hepatic impairment (Child-Pugh Class B) and healthy subjects.
 The effect of severe hepatic impairment (Child-Pugh Class C) on the pharmacokinetics of cobicistat has not been studied [see Use in Specific Populations (8.7)].
 
+#### Pregnancy and Postpartum
+
+Pharmacokinetic data from studies conducted in pregnant individuals receiving cobicistat showed substantially lower exposures during the second and third trimesters, and consequently also for the coadministered antiretroviral agent.
+Consult the full prescribing information for cobicistat for additional information.
+Pharmacokinetic data from the evaluation of atazanavir and cobicistat in a limited number of pregnant individuals showed a similar trend in lower exposures of the antiretroviral component, atazanavir.
+
 #### Gender, Age, and Race
 
 Atazanavir: No clinically important differences in atazanavir pharmacokinetics were observed based on age or gender.

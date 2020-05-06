@@ -33,13 +33,13 @@ Renal impairment, including cases of acute renal failure and Fanconi syndrome, h
 Therefore, coadministration of EVOTAZ and tenofovir DF is not recommended in patients who have an estimated creatinine clearance below 70 mL/min [see Dosage and Administration (2.3)].
 
 - •When EVOTAZ is used with tenofovir DF, document urine glucose and urine protein at baseline and perform routine monitoring of estimated creatinine clearance, urine glucose, and urine protein during treatment.
-- •Measure serum phosphorus in patients at risk for renal impairment.
+- •Measure serum phosphorus in patients with or at risk for renal impairment.
 - •Coadministration of EVOTAZ and tenofovir DF in combination with concomitant or recent use of a nephrotoxic agent is not recommended.
 
 In a clinical trial over 144 weeks (N=692), 10 (2.9%) subjects treated with atazanavir coadministered with cobicistat and tenofovir DF and 11 (3.2%) subjects treated with atazanavir coadministered with ritonavir and tenofovir DF discontinued study drug due to a renal adverse event.
 Seven of the 10 subjects (2.0% overall) in the cobicistat group had laboratory findings consistent with proximal renal tubulopathy leading to study drug discontinuation, compared to 7 of 11 subjects (2.0% overall) in the ritonavir group.
 One subject in the cobicistat group had renal impairment at baseline (e.g., estimated creatinine clearance less than 70 mL/min).
-The laboratory findings in these 7 subjects with evidence of proximal tubulopathy improved but did not completely resolve in all subjects upon discontinuation of cobicistat coadministered with atazanavir and tenofovir DF.
+The laboratory findings in these 7 subjects treated with cobicistat, with evidence of proximal tubulopathy improved but did not completely resolve in all subjects upon discontinuation of cobicistat coadministered with atazanavir and tenofovir DF.
 Renal replacement therapy was not required in any subject.
 
 ## 5.5 Chronic Kidney Disease
@@ -71,14 +71,14 @@ Initiation of medications that inhibit or induce CYP3A may increase or decrease 
 
 Increased concentrations of EVOTAZ may lead to:
 
-1. • clinically significant adverse reactions, potentially leading to severe, life threatening, or fatal events from higher exposures of concomitant medications.
-2. • clinically significant adverse reactions from higher exposures of EVOTAZ.
+- •clinically significant adverse reactions, potentially leading to severe, life threatening, or fatal events from higher exposures of concomitant medications.
+- •clinically significant adverse reactions from higher exposures of EVOTAZ.
 
 Decreased concentrations of EVOTAZ may lead to:
 
-1. • loss of therapeutic effect of EVOTAZ and possible development of resistance.
+- •loss of therapeutic effect of EVOTAZ and possible development of resistance.
 
-See Table 5 for steps to prevent or manage these possible and known significant drug interactions, including dosing recommendations [see Drug Interactions (7)].
+See Table 5 for steps to prevent or manage these possible and known significant drug interactions, including dosing recommendations [see Drug Interactions (7.3)].
 Consider the potential for drug interactions prior to and during EVOTAZ therapy; review concomitant medications during EVOTAZ therapy; and monitor for the adverse reactions associated with the concomitant medications [see Contraindications (4) and Drug Interactions (7)].
 
 When used with concomitant medications, EVOTAZ may result in different drug interactions than those observed or expected with atazanavir coadministered with ritonavir.
