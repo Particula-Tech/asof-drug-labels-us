@@ -94,7 +94,7 @@ The decision to prescribe atypical antipsychotic medication will depend upon the
 
 Marketed by: Lilly USA, LLC, Indianapolis, IN 46285, USA
 
-Copyright © 1997, 2019, Eli Lilly and Company.
+Copyright © 1997, 2020, Eli Lilly and Company.
 All rights reserved.
 
-ZYP-0008-USPI-201910
+ZYP-0009-USPI-20200423
