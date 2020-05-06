@@ -22,6 +22,9 @@ Warfarin — Warfarin (20 mg single dose) did not affect olanzapine pharmacokine
 
 Inducers of CYP1A2 or Glucuronyl Transferase Enzymes — Omeprazole and rifampin may cause an increase in olanzapine clearance.
 
+Anticholinergic Drugs — Concomitant treatment with olanzapine and other drugs with anticholinergic activity can increase the risk for severe gastrointestinal adverse reactions related to hypomotility.
+ZYPREXA RELPREVV should be used with caution in patients receiving medications having anticholinergic (antimuscarinic) effects [see Warnings and Precautions (5.16)].
+
 ## 7.2 Potential for Olanzapine to Affect Other Drugs
 
 CNS Acting Drugs — Given the primary CNS effects of olanzapine, caution should be used when olanzapine is taken in combination with other centrally acting drugs and alcohol.

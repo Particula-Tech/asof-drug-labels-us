@@ -33,7 +33,7 @@ If parenteral benzodiazepines are required for patient management during an even
 Increased Mortality
 
 Elderly patients with dementia-related psychosis treated with antipsychotic drugs are at an increased risk of death.
-ZYPREXA RELPREVV is not approved for the treatment of patients with dementia-related psychosis [see Boxed Warning, Warnings and Precautions (5.16), and Patient Counseling Information (17)].
+ZYPREXA RELPREVV is not approved for the treatment of patients with dementia-related psychosis [see Boxed Warning, Use in Specific Populations (8.5), and Patient Counseling Information (17)].
 
 In placebo-controlled oral olanzapine clinical trials of elderly patients with dementia-related psychosis, the incidence of death in olanzapine-treated patients was significantly greater than placebo-treated patients (3.5% vs 1.5%, respectively).
 
@@ -372,22 +372,12 @@ However, due to the risk of post-injection delirium/sedation syndrome after each
 Disruption of the body's ability to reduce core body temperature has been attributed to antipsychotic agents.
 Appropriate care is advised when prescribing ZYPREXA RELPREVV for patients who will be experiencing conditions which may contribute to an elevation in core body temperature, e.g., exercising strenuously, exposure to extreme heat, receiving concomitant medication with anticholinergic activity, or being subject to dehydration [see Patient Counseling Information (17)].
 
-## 5.16 Use in Patients with Concomitant Illness
+## 5.16 Anticholinergic (antimuscarinic) Effects
 
-Experience with ZYPREXA RELPREVV in patients with concomitant systemic illnesses is limited [see Clinical Pharmacology (12.3)].
-
-Olanzapine exhibits in vitro muscarinic receptor affinity.
+Olanzapine exhibits in vitro muscarinic receptor affinity [see Clinical Pharmacology 12.2].
 In premarketing clinical trials with oral olanzapine, olanzapine was associated with constipation, dry mouth, and tachycardia, all adverse reactions possibly related to cholinergic antagonism.
-Such adverse reactions were not often the basis for discontinuations from olanzapine, but olanzapine should be used with caution in patients with clinically significant prostatic hypertrophy, narrow angle glaucoma, or a history of paralytic ileus or related conditions.
-
-In 5 placebo-controlled studies of oral olanzapine in elderly patients with dementia-related psychosis (n=1184), the following treatment-emergent adverse reactions were reported in olanzapine-treated patients at an incidence of at least 2% and significantly greater than placebo-treated patients: falls, somnolence, peripheral edema, abnormal gait, urinary incontinence, lethargy, increased weight, asthenia, pyrexia, pneumonia, dry mouth and visual hallucinations.
-The rate of discontinuation due to adverse reactions was significantly greater with oral olanzapine than placebo (13% vs 7%).
-Elderly patients with dementia-related psychosis treated with olanzapine are at an increased risk of death compared to placebo.
-Olanzapine is not approved for the treatment of patients with dementia-related psychosis [see Boxed Warning, Warnings and Precautions (5.3), and Patient Counseling Information (17)].
-
-Olanzapine has not been evaluated or used to any appreciable extent in patients with a recent history of myocardial infarction or unstable heart disease.
-Patients with these diagnoses were excluded from premarketing clinical studies.
-Because of the risk of orthostatic hypotension with olanzapine, caution should be observed in cardiac patients [see Warnings and Precautions (5.9)].
+Such adverse reactions were not often the basis for discontinuations from olanzapine, but olanzapine should be used with caution in patients with a current diagnosis or prior history of urinary retention, clinically significant prostatic hypertrophy, constipation, or a history of paralytic ileus or related conditions.
+In post marketing experience, the risk for severe adverse reactions (including fatalities) was increased with concomitant use of anticholinergic medications [see Drug Interactions (7.1)].
 
 ## 5.17 Hyperprolactinemia
 
