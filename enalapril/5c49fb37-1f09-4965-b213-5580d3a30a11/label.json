@@ -1,0 +1,32 @@
+{
+  "application_numbers": [
+    "ANDA075479"
+  ],
+  "inn": "enalapril",
+  "labeler": "Heritage Pharmaceuticals Inc. d/b/a Avet Pharmaceuticals Inc.",
+  "package_ndcs": [
+    "23155-704-01",
+    "23155-704-10",
+    "23155-705-01",
+    "23155-705-10",
+    "23155-706-01",
+    "23155-706-10",
+    "23155-707-01",
+    "23155-707-05",
+    "23155-707-10"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "enalapril maleate",
+      "name": "Enalapril maleate"
+    },
+    {
+      "form": "TABLET",
+      "generic": "enalapril maleate",
+      "name": "enalapril maleate"
+    }
+  ],
+  "setid": "5c49fb37-1f09-4965-b213-5580d3a30a11",
+  "source": "dailymed"
+}
