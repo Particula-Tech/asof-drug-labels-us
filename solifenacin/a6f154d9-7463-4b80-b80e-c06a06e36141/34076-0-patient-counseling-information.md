@@ -14,4 +14,4 @@ Patients should be advised to promptly discontinue solifenacin therapy and seek 
 Manufactured by: ScieGen Pharmaceuticals, Inc. Hauppauge, NY 11788
 
 Rev.
-05/19
+04/20
