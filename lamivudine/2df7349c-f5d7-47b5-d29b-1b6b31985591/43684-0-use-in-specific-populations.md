@@ -32,7 +32,7 @@ Lamivudine concentrations were generally similar in maternal, neonatal, and umbi
 In a subset of subjects, amniotic fluid specimens were collected following natural rupture of membranes and confirmed that lamivudine crosses the placenta in humans.
 Based on limited data at delivery, median (range) amniotic fluid concentrations of lamivudine were 3.9- (1.2- to 12.8-) fold greater compared with paired maternal serum concentrations (n = 8).
 
-Animal Data: Lamivudine was administered orally to pregnant rats (at 90, 600, and 4,000 mg per kg per day) and rabbits (at 90, 300, and 1,000 mg per kg per day and at 15, 40, and 90 mg per kg per day) during organogenesis (on gestation Days 7 through 16 [rat] and 8 through 20 [rabbit]).
+Animal Data: Lamivudine was administered orally to pregnant rats (at 90, 600, and 4,000 mg per kg per day) and rabbits (at 90, 300, and 1,000 mg per kg per day and at 15, 40, and 90 mg per kg per day) during organogenesis (on Gestation Days 7 through 16 [rat] and 8 through 20 [rabbit]).
 No evidence of fetal malformations due to lamivudine was observed in rats and rabbits at doses producing plasma concentrations (Cmax) approximately 53 or more times higher than human exposure at the recommended daily dose.
 Evidence of early embryolethality in the absence of maternal toxicity was seen in the rabbit at systemic exposures (AUC) similar to those observed in humans, but there was no indication of this effect in the rat at plasma concentrations (Cmax) 60 times higher than human exposure at the recommended daily dose.
 Studies in pregnant rats showed that lamivudine is transferred to the fetus through the placenta.

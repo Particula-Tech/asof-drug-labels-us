@@ -165,7 +165,7 @@ Long-term follow up in subjects who continued 100 mg per day of EPIVIR-HBV demon
 
 In a controlled trial, treatment‑naive subjects with HBeAg‑positive CHB were treated with EPIVIR-HBV or EPIVIR-HBV plus adefovir dipivoxil combination therapy.
 Following 104 weeks of therapy, YMDD‑mutant HBV was detected in 7 of 40 (18%) subjects receiving combination therapy compared with 15 of 35 (43%) subjects receiving therapy with only EPIVIR-HBV.
-In 2 controlled clinical trials, treatment-naïve subjects who received 48 weeks of therapy with EPIVIR-HBV in combination with pegylated interferon developed YMDD substitutions less frequently than subjects treated with EPIVIR-HBV alone (1 of 173 [1%] versus 32 of 179 [18%] in HBeAg-negative subjects; 9 of 256 [4%] versus 69 of 254 [27%] in HBeAg-positive subjects).
+In 2 controlled clinical trials, treatment-naive subjects who received 48 weeks of therapy with EPIVIR-HBV in combination with pegylated interferon developed YMDD substitutions less frequently than subjects treated with EPIVIR-HBV alone (1 of 173 [1%] versus 32 of 179 [18%] in HBeAg-negative subjects; 9 of 256 [4%] versus 69 of 254 [27%] in HBeAg-positive subjects).
 
 Several clinical studies have evaluated alternative regimens in subjects who failed EPIVIR-HBV due to development of lamivudine resistance.
 These studies demonstrated a higher rate of viral suppression and decreased development of viral resistance compared with continuation of monotherapy with EPIVIR-HBV.
