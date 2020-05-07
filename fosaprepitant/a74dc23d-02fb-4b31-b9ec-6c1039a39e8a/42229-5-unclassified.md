@@ -9,6 +9,6 @@ For patent information: www.merck.com/product/patent/home.html
 
 Novaplus is a registered trademark of Vizient, Inc.
 
-Copyright © 2008-2019 Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. All rights reserved.
+Copyright © 2008-2020 Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. All rights reserved.
 
-uspi-mk0517-iv-edta5-1911r001-plvizient
+uspi-mk0517-iv-edta5-2004r002-plvizient

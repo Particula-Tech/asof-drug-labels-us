@@ -84,3 +84,4 @@ EMEND for injection is incompatible with any solutions containing divalent catio
 Storage
 
 The reconstituted final drug solution is stable for 24 hours at ambient room temperature [at or below 25°C (77°F)].
+Discard unused portion.
