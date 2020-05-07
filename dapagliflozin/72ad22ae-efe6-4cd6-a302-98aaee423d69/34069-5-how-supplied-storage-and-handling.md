@@ -2,9 +2,9 @@
 
 How Supplied
 
-FARXIGA (dapagliflozin) tablets have markings on both sides and are available in the strengths and packages listed in Table 14.
+FARXIGA (dapagliflozin) tablets have markings on both sides and are available in the strengths and packages listed in Table 16.
 
-Table 14: FARXIGA Tablet Presentations
+Table 16: FARXIGA Tablet Presentations
 
 | Tablet Strength | Film-Coated Tablet Color/Shape | Tablet Markings | Package Size | NDC Code |
 | --- | --- | --- | --- | --- |
