@@ -27,13 +27,16 @@ Heparin Sodium Injection preserved with benzyl alcohol is available in the follo
 | 1 vial: 50,000 USP units/10 mL, multiple-dose | 0641-2460-30 |
 | 25 vials: 50,000 USP units/10 mL, multiple-dose | 0641-2460-55 |
 
-Heparin Sodium Injection preservative-free is available in the following strengths and package sizes in single-dose syringes:
+Heparin Sodium Injection preservative-free is available in the following strengths and package sizes in single-dose prefilled syringes:
 
 | DESCRIPTION | NDC |
 | --- | --- |
 | 5,000 USP units/mL |  |
 | 1 Syringe: 5,000 USP units/mL, single-dose* | 0641-6199-01 |
 | 10 Syringes: 5,000 USP units/mL, single-dose* | 0641-6199-10 |
+| 5,000 USP units/0.5 mL |  |
+| 1 Syringe: 5,000 USP units/0.5 mL, single-dose* | 0641-6204-01 |
+| 10 Syringes: 5,000 USP units/0.5 mL, single-dose* | 0641-6204-10 |
 
 *Discard unused portion
 

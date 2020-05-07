@@ -120,7 +120,7 @@ NOTES:
 
 - Do not introduce any other fluid into the syringe at any time
 
-- This product is for single dose only
+- This product is for single dose only; discard unused portion
 
 ## 2.3 Laboratory Monitoring for Efficacy and Safety
 
@@ -171,7 +171,7 @@ Frequently, a dose of 300 units per kilogram is used for procedures estimated to
 ## 2.7 Low-Dose Prophylaxis of Postoperative Thromboembolism
 
 The most widely used dosage has been 5,000 units 2 hours before surgery and 5,000 units every 8 to 12 hours thereafter for 7 days or until the patient is fully ambulatory, whichever is longer.
-Administer the heparin by deep subcutaneous (intrafat, i.e., above the iliac crest or abdominal fat layer, arm, or thigh) injection with a fine (25 to 26-gauge) needle to minimize tissue trauma.
+Administer the heparin by deep subcutaneous (intrafat, i.e., above the iliac crest or abdominal fat layer, arm, or thigh) injection with a fine (25- to 26-gauge) needle to minimize tissue trauma.
 
 ## 2.8 Blood Transfusion
 

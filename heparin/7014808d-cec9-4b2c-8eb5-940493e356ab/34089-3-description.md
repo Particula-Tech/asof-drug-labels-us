@@ -19,10 +19,11 @@ Heparin Sodium Injection, USP preserved with Benzyl Alcohol is available in the 
 
 pH 5.0-7.5; sodium hydroxide and/or hydrochloric acid added, if needed, for pH adjustment.
 
-Heparin Sodium Injection, USP, preservative-free is available in the following concentrations/mL:
+Heparin Sodium Injection, USP, preservative-free is available in the following concentrations:
 
 | Heparin Sodium | Sodium Chloride |
 | --- | --- |
-| 5,000 USP units | 7 mg |
+| 5,000 USP units/1 mL | 7 mg |
+| 5,000 USP units/0.5 mL | 5 mg |
 
 pH 5.0-7.5; sodium hydroxide and/or hydrochloric acid added, if needed, for pH adjustment.
