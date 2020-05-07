@@ -13,35 +13,35 @@ For daily dosing of 800 mg and above, dosing should be accomplished using the 40
 
 Treatment may be continued as long as there is no evidence of progressive disease or unacceptable toxicity.
 
-## 2.2 Adult Patients with Ph+ CML CP, AP, or BC
+## 2.2 Adult Patients With Ph+ CML CP, AP, or BC
 
 The recommended dose of Gleevec is 400 mg/day for adult patients in chronic phase CML and 600 mg/day for adult patients in accelerated phase or blast crisis.
 
 In CML, a dose increase from 400 mg to 600 mg in adult patients with chronic phase disease, or from 600 mg to 800 mg (given as 400 mg twice daily) in adult patients in accelerated phase or blast crisis may be considered in the absence of severe adverse drug reaction and severe non-leukemia related neutropenia or thrombocytopenia in the following circumstances: disease progression (at any time), failure to achieve a satisfactory hematologic response after at least 3 months of treatment, failure to achieve a cytogenetic response after 6 to 12 months of treatment, or loss of a previously achieved hematologic or cytogenetic response.
 
-## 2.3 Pediatric Patients with Ph+ CML CP
+## 2.3 Pediatric Patients With Ph+ CML CP
 
 The recommended dose of Gleevec for children with newly diagnosed Ph+ CML is 340 mg/m2/day (not to exceed 600 mg).
 Gleevec treatment can be given as a once daily dose or the daily dose may be split into two–one portion dosed in the morning and one portion in the evening.
 There is no experience with Gleevec treatment in children under 1 year of age.
 
-## 2.4 Adult Patients with Ph+ ALL
+## 2.4 Adult Patients With Ph+ ALL
 
 The recommended dose of Gleevec is 600 mg/day for adult patients with relapsed/refractory Ph+ ALL.
 
-## 2.5 Pediatric Patients with Ph+ ALL
+## 2.5 Pediatric Patients With Ph+ ALL
 
 The recommended dose of Gleevec to be given in combination with chemotherapy to children with newly diagnosed Ph+ ALL is 340 mg/m2/day (not to exceed 600 mg).
 Gleevec treatment can be given as a once daily dose.
 
-## 2.6 Adult Patients with MDS/MPD
+## 2.6 Adult Patients With MDS/MPD
 
 Determine PDGFRb gene rearrangements status prior to initiating treatment.
 Information on FDA-approved tests for the detection of PDGFRb rearrangements is available at http://www.fda.gov/companiondiagnostics.
 
 The recommended dose of Gleevec is 400 mg/day for adult patients with MDS/MPD.
 
-## 2.7 Adult Patients with ASM
+## 2.7 Adult Patients With ASM
 
 Determine D816V c-Kit mutation status prior to initiating treatment.
 Information on FDA-approved test for the detection of D816V c-Kit mutation is available at http://www.fda.gov/companiondiagnostics.
@@ -51,22 +51,22 @@ If c-Kit mutational status is not known or unavailable, treatment with Gleevec 4
 For patients with ASM associated with eosinophilia, a clonal hematological disease related to the fusion kinase FIP1L1-PDGFRα, a starting dose of 100 mg/day is recommended.
 Dose increase from 100 mg to 400 mg for these patients may be considered in the absence of adverse drug reactions if assessments demonstrate an insufficient response to therapy.
 
-## 2.8 Adult Patients with HES/CEL
+## 2.8 Adult Patients With HES/CEL
 
 The recommended dose of Gleevec is 400 mg/day for adult patients with HES/CEL.
 For HES/CEL patients with demonstrated FIP1L1-PDGFRα fusion kinase, a starting dose of 100 mg/day is recommended.
 Dose increase from 100 mg to 400 mg for these patients may be considered in the absence of adverse drug reactions if assessments demonstrate an insufficient response to therapy.
 
-## 2.9 Adult Patients with DFSP
+## 2.9 Adult Patients With DFSP
 
 The recommended dose of Gleevec is 800 mg/day for adult patients with DFSP.
 
-## 2.10 Adult Patients with Metastatic and/or Unresectable GIST
+## 2.10 Adult Patients With Metastatic and/or Unresectable GIST
 
 The recommended dose of Gleevec is 400 mg/day for adult patients with unresectable and/or metastatic, malignant GIST.
 A dose increase up to 800 mg daily (given as 400 mg twice daily) may be considered, as clinically indicated, in patients showing clear signs or symptoms of disease progression at a lower dose and in the absence of severe adverse drug reactions.
 
-## 2.11 Adult Patients with Adjuvant GIST
+## 2.11 Adult Patients With Adjuvant GIST
 
 The recommended dose of Gleevec is 400 mg/day for the adjuvant treatment of adult patients following complete gross resection of GIST.
 In clinical trials, one year of Gleevec and three years of Gleevec were studied.
@@ -81,8 +81,8 @@ If patients must be coadministered a strong CYP3A4 inducer, based on pharmacokin
 Hepatic Impairment: Patients with mild and moderate hepatic impairment do not require a dose adjustment and should be treated per the recommended dose.
 A 25% decrease in the recommended dose should be used for patients with severe hepatic impairment [see Use in Specific Populations (8.6)].
 
-Renal Impairment: Patients with moderate renal impairment (CrCL=20–39 mL/min) should receive a 50% decrease in the recommended starting dose and future doses can be increased as tolerated.
-Doses greater than 600 mg are not recommended in patients with mild renal impairment (CrCL=40–59 mL/min).
+Renal Impairment: Patients with moderate renal impairment (CrCL = 20–39 mL/min) should receive a 50% decrease in the recommended starting dose and future doses can be increased as tolerated.
+Doses greater than 600 mg are not recommended in patients with mild renal impairment (CrCL = 40–59 mL/min).
 For patients with moderate renal impairment doses greater than 400 mg are not recommended.
 
 Imatinib should be used with caution in patients with severe renal impairment.
@@ -110,4 +110,4 @@ Table 1: Dose Adjustments for Neutropenia and Thrombocytopenia
 | Ph+ CML: Accelerated Phase and Blast Crisis (starting dose 600 mg) Ph+ ALL (starting dose 600 mg) | ANC less than 0.5 x 109/L and/or platelets less than 10 x 109/L | Check if cytopenia is related to leukemia (marrow aspirate or biopsy) If cytopenia is unrelated to leukemia, reduce dose of Gleevec to 400 mg If cytopenia persists 2 weeks, reduce further to 300 mg If cytopenia persists 4 weeks and is still unrelated to leukemia, stop Gleevec until ANC greater than or equal to1 x 109/L and platelets greater than or equal to 20 x 109/L and then resume treatment at 300 mg |
 | DFSP (starting dose 800 mg) | ANC less than 1.0 x 109/L and/or platelets less than 50 x 109/L | Stop Gleevec until ANC greater than or equal to 1.5 x 109/L and platelets greater than or equal to 75 x 109/L Resume treatment with Gleevec at 600 mg In the event of recurrence of ANC less than 1.0 x 109/L and/or platelets less than 50 x 109/L, repeat step 1 and resume Gleevec at reduced dose of 400 mg |
 | Pediatric newly diagnosed chronic phase CML (starting dose 340 mg/m2) | ANC less than 1.0 x 109/L and/or platelets less than 50 x 109/L | Stop Gleevec until ANC greater than or equal to 1.5 x 109/L and platelets greater than or equal to 75 x 109/L Resume treatment with Gleevec at previous dose (i.e., dose before severe adverse reaction) In the event of recurrence of ANC less than 1.0 x 109/L and/or platelets less than 50 x 109/L, repeat step 1 and resume Gleevec at reduced dose of 260 mg/m2 |
-| 1ANC = absolute neutrophil count |  |  |
+| 1ANC = absolute neutrophil count. |  |  |

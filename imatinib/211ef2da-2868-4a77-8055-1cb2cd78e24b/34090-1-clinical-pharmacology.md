@@ -3,7 +3,7 @@
 ## 12.1 Mechanism of Action
 
 Imatinib mesylate is a protein-tyrosine kinase inhibitor that inhibits the BCR-ABL tyrosine kinase, the constitutive abnormal tyrosine kinase created by the Philadelphia chromosome abnormality in CML.
-Imatinib inhibits proliferation and induces apoptosis in BCR-ABL positive cell lines as well as fresh leukemic cells from Philadelphia chromosome positive chronic myeloid leukemia.
+Imatinib inhibits proliferation and induces apoptosis in BCR-ABL positive cell lines as well as fresh leukemic cells from Ph+ CML.
 Imatinib inhibits colony formation in assays using ex vivo peripheral blood and bone marrow samples from CML patients.
 
 In vivo, imatinib inhibits tumor growth of BCR-ABL transfected murine myeloid cells as well as BCR-ABL positive leukemia lines derived from CML patients in blast crisis.
@@ -76,7 +76,7 @@ The comparison of AUC on Day 8 vs. Day 1 at 260 mg/m2 and 340 mg/m2 dose levels 
 Mean imatinib AUC did not increase proportionally with increasing dose.
 
 Based on pooled population pharmacokinetic analysis in pediatric patients with hematological disorders (CML, Ph+ ALL, or other hematological disorders treated with imatinib), clearance of imatinib increases with increasing body surface area (BSA).
-After correcting for the BSA effect, other demographics such as age, body weight and body mass index did not have clinically significant effects on the exposure of imatinib.
+After correcting for the BSA effect, other demographics, such as age, body weight and body mass index did not have clinically significant effects on the exposure of imatinib.
 The analysis confirmed that exposure of imatinib in pediatric patients receiving 260 mg/m2 once-daily (not exceeding 400 mg once-daily) or 340 mg/m2 once-daily (not exceeding 600 mg once-daily) were similar to those in adult patients who received imatinib 400 mg or 600 mg once-daily.
 
 Drug Interactions
@@ -86,7 +86,7 @@ Agents Inducing CYP3A Metabolism
 Pretreatment of healthy volunteers with multiple doses of rifampin followed by a single dose of Gleevec, increased Gleevec oral-dose clearance by 3.8-fold, which significantly (p less than 0.05) decreased mean Cmax and AUC.
 
 Similar findings were observed in patients receiving 400 to 1200 mg/day Gleevec concomitantly with enzyme-inducing anti-epileptic drugs (EIAED) (e.g., carbamazepine, oxcarbamazepine, phenytoin, fosphenytoin, phenobarbital, and primidone).
-The mean dose normalized AUC for imatinib in the patients receiving EIAED’s decreased by 73% compared to patients not receiving EIAED.
+The mean dose normalized AUC for imatinib in the patients receiving EIAEDs decreased by 73% compared to patients not receiving EIAED.
 
 Concomitant administration of Gleevec and St. John’s Wort led to a 30% reduction in the AUC of imatinib.
 

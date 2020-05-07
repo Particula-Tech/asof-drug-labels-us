@@ -8,11 +8,11 @@ Newly diagnosed adult and pediatric patients with Philadelphia chromosome positi
 
 Patients with Philadelphia chromosome positive chronic myeloid leukemia in blast crisis, accelerated phase, or in chronic phase after failure of interferon-alpha therapy.
 
-## 1.3 Adult patients with Ph+ Acute Lymphoblastic Leukemia (ALL)
+## 1.3 Adult Patients With Ph+ Acute Lymphoblastic Leukemia (ALL)
 
 Adult patients with relapsed or refractory Philadelphia chromosome positive acute lymphoblastic leukemia (Ph+ ALL).
 
-## 1.4 Pediatric patients with Ph+ Acute Lymphoblastic Leukemia (ALL)
+## 1.4 Pediatric Patients With Ph+ Acute Lymphoblastic Leukemia (ALL)
 
 Pediatric patients with newly diagnosed Philadelphia chromosome positive acute lymphoblastic leukemia (Ph+ ALL) in combination with chemotherapy.
 

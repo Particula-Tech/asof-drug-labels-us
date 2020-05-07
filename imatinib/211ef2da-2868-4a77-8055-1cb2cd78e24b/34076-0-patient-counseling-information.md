@@ -15,7 +15,7 @@ Advise patients to contact their health care provider if unexpected rapid weight
 Hepatotoxicity
 
 Inform patients of the possibility of developing liver function abnormalities and serious hepatic toxicity.
-Advise patients to immediately contact their health care provider if signs of liver failure occur, including jaundice, anorexia, bleeding or bruising [see Warnings and Precautions (5.4)].
+Advise patients to immediately contact their health care provider if signs of liver failure occur, including jaundice, anorexia, bleeding, or bruising [see Warnings and Precautions (5.4)].
 
 Pregnancy and Breastfeeding
 
@@ -26,7 +26,7 @@ Avoid breastfeeding during treatment and for 1 month after the last dose [see Us
 
 Drug Interactions
 
-Gleevec and certain other medicines such as warfarin, erythromycin, and phenytoin, including over-the-counter medications such as herbal products, can interact with each other.
+Gleevec and certain other medicines, such as warfarin, erythromycin, and phenytoin, including over-the-counter medications, such as herbal products, can interact with each other.
 Advise patients to tell their doctor if they are taking or plan to take iron supplements.
 Avoid grapefruit juice and other foods known to inhibit CYP3A4 while taking Gleevec [see Drug Interactions (7)].
 
@@ -38,11 +38,11 @@ Therefore, closely monitor growth in children under Gleevec treatment [see Warni
 
 Driving and Using Machines
 
-Advise patients that they may experience side effects such as dizziness, blurred vision or somnolence during treatment with Gleevec.
+Advise patients that they may experience side effects, such as dizziness, blurred vision, or somnolence during treatment with Gleevec.
 Therefore, caution patients about driving a car or operating machinery [see Warnings and Precautions (5.13)].
 
 Distributed by: Novartis Pharmaceuticals Corporation East Hanover, New Jersey 07936
 
 © Novartis
 
-T2018-102
+T2020-50
