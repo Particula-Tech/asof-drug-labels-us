@@ -1,30 +1,18 @@
 # HOW SUPPLIED
 
-3.5 g STERILE ointment supplied in an aluminum tube with a white polyethylene tip and white polyethylene cap (NDC 0065-0644-35), containing tobramycin 0.3% (3 mg/g).
+TOBREX (tobramycin ophthalmic ointment) 0.3% is supplied as a 3.5 g sterile ointment in an aluminum tube with a white polyethylene tip and white polyethylene cap as follows:
 
-Storage: Store at 2°C to 25°C (36°F-77°F).
+3.5 g containing tobramycin 0.3% (3 mg/g)..................................................
+NDC 0065-0644-35
 
-Rx Only
+Storage: Store at 2°C to 25°C (36°F to 77°F).
 
-© 2002, 2018 Alcon, Inc.
+After opening, TOBREX (tobramycin ophthalmic ointment) 0.3% can be used until the expiration date on the tube.
 
-Revised: April 2018
+Revised: 4/2020
 
-Distributed by:
+Distributed by: Novartis Pharmaceuticals Corporation East Hanover, New Jersey 07936
 
-ALCON LABORATORIES, INC.
+© Novartis
 
-Fort Worth, Texas 76134 USA
-
-Alcon®
-
-A Novartis company
-
-Manufactured by:
-
-S.A.
-ALCON-COUVREUR N.V.
-
-Puurs, Belgium
-
-T2018-30
+T2020-58

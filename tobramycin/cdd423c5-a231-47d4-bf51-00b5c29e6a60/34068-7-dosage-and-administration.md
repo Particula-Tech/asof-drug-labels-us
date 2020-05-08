@@ -1,9 +1,9 @@
 # DOSAGE AND ADMINISTRATION
 
-In mild to moderate disease, apply a half-inch ribbon into the affected eye(s) two or three times per day.
-In severe infections, instill a half-inch ribbon into the affected eye(s) every three to four hours until improvement, following which treatment should be reduced prior to discontinuation.
+In mild to moderate disease, apply a half-inch ribbon into the affected eye(s) 2 or 3 times per day.
+In severe infections, instill a half-inch ribbon into the affected eye(s) every 3 to 4 hours until improvement, following which treatment should be reduced prior to discontinuation.
 
-How to Apply TOBREX® (tobramycin ophthalmic ointment) 0.3%:
+How to Apply TOBREX (tobramycin ophthalmic ointment) 0.3%:
 
 1.
 Tilt your head back.
