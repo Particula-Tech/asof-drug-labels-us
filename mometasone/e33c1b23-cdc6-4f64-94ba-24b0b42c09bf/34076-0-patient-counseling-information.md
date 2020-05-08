@@ -5,7 +5,7 @@
   As the Implant softens and polyps decrease, the Implant may be expelled out of the nose on its own or with actions such as sneezing or forceful nose blowing.
 - Advise the patient to call a health care professional immediately if they experience any of the following:
   - Excessive nasal bleeding or symptoms of infection, such as excessive pain or discomfort, persistent headache, increased sinus discharge.
-  - Symptoms suggesting the Implant has migrated posteriorly, such as irritation or choking sensation in the back of the throat.
+  - Symptoms suggesting the Implant has migrated posteriorly, such as irritation or choking sensation in the back of the throat or swallowing the Implant.
 
 ## 17.1 Risks Relating to the Insertion and Removal Procedure
 

@@ -1,7 +1,7 @@
 # 14 CLINICAL STUDIES
 
-The safety and efficacy of the SINUVA Sinus Implant was evaluated in 400 patients, 18 years of age and older, with nasal polyps and a history of ethmoid sinus surgery.
-The development program included a trial of 6 months duration (Study 1: NCT01732536) and another trial of 90 days duration (Study 2: NCT02291549).
+The SINUVA Sinus Implant was evaluated in 450 patients, 18 years of age and older, with nasal polyps and a history of ethmoid sinus surgery.
+The development program included a trial of 6 months duration (Study 1: NCT01732536), another trial of 90 days duration (Study 2: NCT02291549), and a repeat placement study of 1-year duration (Study 3: NCT03358329) [see Adverse Reactions (6.1)].
 The efficacy of SINUVA Sinus Implant is based primarily on Study 2 as described below.
 
 Study 2 was a randomized, controlled, single-blind, multicenter (all sites were in the US) study with 300 patients: 201 patients were assigned to the treatment group and underwent bilateral placement of the SINUVA Sinus Implants in the ethmoid sinuses.
@@ -14,8 +14,8 @@ The co-primary efficacy endpoints were:
 - Change from baseline to Day 30 in Nasal Obstruction/Congestion score, as determined by patients using a daily diary; and
 - Change from baseline to Day 90 in bilateral polyp grade, as determined from video-endoscopies reviewed by an independent panel of 3 sinus surgeons who were masked to treatment assignment.
 
-The study population consisted of adult patients (≥ 18 years of age) diagnosed with chronic sinusitis who had undergone prior bilateral total ethmoidectomy, but were indicated for revision endoscopic sinus surgery because they presented with recurrent nasal obstruction/congestion symptoms and recurrent bilateral sinus obstruction due to sinonasal polyposis.
-Subjects were excluded for other grade 3 or 4 adhesions/synechiae, grade 4 polyposis, known history of resistant or poor response to oral steroids, acute bacterial or invasive fungal sinusitis, and immune deficiency, including cystic fibrosis.
+The study population consisted of adult patients (≥ 18 years of age) diagnosed with chronic sinusitis who had undergone prior bilateral total ethmoidectomy but were indicated for revision endoscopic sinus surgery because they presented with recurrent nasal obstruction/congestion symptoms and recurrent bilateral sinus obstruction due to sinonasal polyposis.
+Subjects were excluded for other grade 3 or 4 adhesions/synechiae, grade 4 polyposis, acute bacterial or invasive fungal sinusitis, and immune deficiency, including cystic fibrosis.
 There were no statistically significant differences between groups in baseline demographics and clinical characteristics, except the treatment group had a higher proportion of asthma patients (T: 74% vs. C: 62%) and higher mean Percent Ethmoid Sinus Obstruction score [T: 76 (SD 17.4) vs. C: 69 (SD 19.9)].
 The random imbalances did not impact treatment effect.
 

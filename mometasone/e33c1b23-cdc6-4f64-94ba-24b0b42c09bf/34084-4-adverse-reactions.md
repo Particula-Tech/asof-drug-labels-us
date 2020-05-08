@@ -38,6 +38,17 @@ Table 1: Adverse Reactions with > 1% Incidence and More Common than Control in 9
 Study 1 monitored patients from Day 90 through 6 months.
 Hypersensitivity (4% (n=2) vs. 0), chronic sinusitis (11% (n=6) vs. 9% (n=4)), and upper respiratory tract infections (8% (n=4) vs. 2% (n=1)) were reported in more than 2 subjects in the treatment group, and more commonly than the control group during this time period.
 
+The safety of repeat administration of the SINUVA Sinus Implant was evaluated in Study 3 that was an open-label, single-arm, multicenter study in 50 patients.
+All patients underwent an in-office bilateral placement of the SINUVA Sinus Implant in each ethmoid sinus (totaling 2 implants) and were followed for 365 days.
+Patients were required to use mometasone furoate nasal spray once daily (200 mcg of mometasone furoate) through 365 days.
+At 90 days, the remaining implants were removed.
+To maximize the size of the safety population, patients with ethmoid sinus polyps grade ≥ 1 on any side were considered for repeat implant placement.
+Repeat placement was not performed if polyp grade was < 1, or if the patient declined it.
+Of the 50 patients, 41 received repeat implant placement (33 bilaterally and 8 unilaterally).
+Acute sinusitis (29%, n=12), upper respiratory infection (17%, n=7) epistaxis (12%, n=5), nasal discomfort or rhinalgia (12%, n=5), headache (7%, n=3), were the common adverse reactions that occurred in at least 3 subjects who underwent repeat placement during the study period.
+
 ## 6.2 Post-Marketing Experience
 
-No post-marketing data exist at this time for the SINUVA Sinus Implant.
+The following adverse reactions have been identified during postapproval use of the SINUVA sinus implant.
+These events have been chosen for inclusion due to either their seriousness, frequency of reporting, possible causal connection to SINUVA, or a combination of these factors, include: implant migration, lack of efficacy, nasal pain, headache, epistaxis.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug experience.
