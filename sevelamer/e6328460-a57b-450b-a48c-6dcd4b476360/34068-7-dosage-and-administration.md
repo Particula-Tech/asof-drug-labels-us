@@ -65,5 +65,5 @@ Table 4: Sevelamer Carbonate Powder Preparation Instructions
 
 Instruct patients to stir the mixture vigorously (it does not dissolve), resuspend, if necessary, right before administration, and drink the entire preparation within 30 minutes.
 
-As an alternative to water, the entire contents of the sachet may be pre-mixed with a small amount of food or beverage and consumed immediately (within 30 minutes) as part of the meal.
-Do not heat Renvela Powder (e.g., microwave) or add to heated foods or liquids.
+As an alternative to water, the entire contents of the packet may be pre-mixed with a small amount of food or beverage and consumed immediately (within 30 minutes) as part of the meal.
+Do not heat Renvela powder (e.g., microwave) or add to heated foods or liquids.

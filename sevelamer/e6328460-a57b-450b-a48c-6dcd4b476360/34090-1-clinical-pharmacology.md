@@ -2,7 +2,7 @@
 
 ## 12.1 Mechanism of Action
 
-Renvela contains sevelamer carbonate, a non-absorbed phosphate binding cross-linked polymer, free of metal and calcium.
+Renvela contains sevelamer carbonate, a non-absorbed phosphate-binding cross-linked polymer, free of metal and calcium.
 It contains multiple amines separated by one carbon from the polymer backbone.
 These amines exist in a protonated form in the intestine and interact with phosphate molecules through ionic and hydrogen bonding.
 By binding phosphate in the gastrointestinal tract and decreasing absorption, sevelamer carbonate lowers the phosphate concentration in the serum (serum phosphorus).
@@ -10,7 +10,7 @@ By binding phosphate in the gastrointestinal tract and decreasing absorption, se
 ## 12.2 Pharmacodynamics
 
 In addition to effects on serum phosphorus levels, sevelamer hydrochloride has been shown to bind bile acids in vitro and in vivo in experimental animal models.
-Because sevelamer binds bile acids, it may interfere with normal fat absorption and thus may reduce absorption of fat soluble vitamins such as A, D and K. In clinical trials of sevelamer hydrochloride, both the mean total and LDL cholesterol declined by 15%–31%; the clinical significance of this finding, which was observed after 2 weeks, is unclear.
+Because sevelamer binds bile acids, it may interfere with normal fat absorption and thus may reduce absorption of fat-soluble vitamins such as A, D and K. In clinical trials of sevelamer hydrochloride, both the mean total and LDL cholesterol declined by 15%–31%; the clinical significance of this finding, which was observed after 2 weeks, is unclear.
 Triglycerides, HDL cholesterol, and albumin did not change.
 
 ## 12.3 Pharmacokinetics

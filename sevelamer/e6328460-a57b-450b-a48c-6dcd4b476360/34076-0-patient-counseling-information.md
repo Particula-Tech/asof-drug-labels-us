@@ -6,4 +6,4 @@ For patients using an oral medication where a reduction in the bioavailability o
 
 For Renvela powder, brief the patient on preparation of the powder in water.
 
-Advise patients to report new onset or worsening of existing constipation promptly to their physician.
+Advise patients to report new onset or worsening of existing constipation or bloody stools promptly to their physician [see Warnings and Precautions (5.1)].

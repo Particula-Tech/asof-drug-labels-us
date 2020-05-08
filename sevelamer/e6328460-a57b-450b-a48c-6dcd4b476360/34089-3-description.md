@@ -15,9 +15,9 @@ The structure is represented in Figure 1.
 | c = number of cross-linking groups | c = 1 |
 | m = large number to indicate extended polymer network |  |
 
-Renvela® Tablets: Each film-coated tablet of Renvela contains 800 mg of sevelamer carbonate on an anhydrous basis.
-The inactive ingredients are hypromellose, diacetylated monoglycerides, microcrystalline cellulose, sodium chloride and zinc stearate.
+Renvela Tablets: Each film-coated tablet of Renvela contains 800 mg of sevelamer carbonate on an anhydrous basis.
+The inactive ingredients are hypromellose, diacetylated monoglycerides, microcrystalline cellulose, sodium chloride, and zinc stearate.
 The tablet imprint contains iron oxide black ink.
 
-Renvela® Powder: Each packet of Renvela Powder contains 0.8 g or 2.4 g of sevelamer carbonate on an anhydrous basis.
+Renvela Powder: Each packet of Renvela powder contains 0.8 or 2.4 g of sevelamer carbonate on an anhydrous basis.
 The inactive ingredients are natural and artificial citrus flavor, propylene glycol alginate, sodium chloride, sucralose, and ferric oxide (yellow).

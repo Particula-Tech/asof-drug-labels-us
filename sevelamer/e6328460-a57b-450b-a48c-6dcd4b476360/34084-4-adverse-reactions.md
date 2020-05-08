@@ -22,5 +22,5 @@ Thirteen patients (14%) in the sevelamer group and 9 patients (20%) in the activ
 
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or to establish a causal relationship to drug exposure.
 
-The following adverse reactions have been identified during postapproval use of sevelamer hydrochloride or sevelamer carbonate: hypersensitivity, pruritus, rash, abdominal pain, fecal impaction, and uncommon cases of ileus, intestinal obstruction, and intestinal perforation.
+The following adverse reactions have been identified during postapproval use of sevelamer hydrochloride or sevelamer carbonate: hypersensitivity, pruritus, rash, abdominal pain, bleeding gastrointestinal ulcers, colitis, ulceration, necrosis, fecal impaction, and uncommon cases of ileus, intestinal obstruction, and intestinal perforation.
 Appropriate medical management should be given to patients who develop constipation or have worsening of existing constipation to avoid severe complications.
