@@ -1,7 +1,14 @@
-# ADVERSE REACTIONS
+# 6 ADVERSE REACTIONS
 
-Adverse reactions more commonly reported during or after the infusion of mannitol include: Pulmonary congestion, fluid and electrolyte imbalance, acidosis, electrolyte loss, dryness of mouth, thirst, marked diuresis, urinary retention, edema, headache, blurred vision, convulsions, nausea, vomiting, rhinitis, arm pain, skin necrosis, thrombophlebitis, chills, dizziness, urticaria, dehydration, hypotension, tachycardia, fever and angina-like chest pains.
+The following adverse reactions from voluntary reports or clinical studies have been reported with Mannitol Injection.
+Because many of these reactions were reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Reactions which may occur because of the solution or the technique of administration include febrile response, infection at the site of injection, venous thrombosis or phlebitis extending from the site of injection, extravasation and hypervolemia.
-
-If an adverse reaction does occur, discontinue the infusion, evaluate the patient, institute appropriate therapeutic countermeasures and save the remainder of the fluid for examination if deemed necessary.
+- Hypersensitivity reactions:, anaphylaxis, hypotension, dyspnea, hypertension, pyrexia, chills, sweating, urticaria/rash, pruritus [see Warnings and Precautions (5.1)]
+- Renal Failure: acute kidney injury, osmotic nephrosis, azotemia, anuria, hematuria, oliguria, polyuria, urinary retention [see Warnings and Precautions (5.2)]
+- CNS Toxicity: coma, seizures, confusion, lethargy; rebound increase in intracranial pressure; dizziness, headache [see Warnings and Precautions (5.3)]
+- Fluid and Electrolyte Imbalances: hypovolemia (dehydration), hypervolemia, peripheral edema,, hyponatremia, hypernatremia, hyperkalemia, hypokalemia; metabolic acidosis [see Warning and Precautions (5.4)]
+- Infusion Site Reactions: venous thrombosis, phlebitis, inflammation, pain, rash, erythema, pruritus; compartment syndrome and swelling associated with extravasation [see Warnings and Precautions (5.6)]
+- Cardiac and Respiratory Disorders: cardiac arrest, congestive cardiac failure, pulmonary edema, palpitations, tachycardia, angina-like chest pain
+- Musculoskeletal Disorders: musculoskeletal stiffness, myalgia
+- Gastrointestinal Disorders: thirst, dry mouth, nausea, vomiting
+- General Disorders: asthenia, malaise

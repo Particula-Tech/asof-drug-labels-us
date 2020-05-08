@@ -1,3 +1,3 @@
-Flexible Plastic Container
+EN-4730
 
-Rx only
+Manufactured by: ICU Medical, Inc., Lake Forest, Illinois, 60045 USA

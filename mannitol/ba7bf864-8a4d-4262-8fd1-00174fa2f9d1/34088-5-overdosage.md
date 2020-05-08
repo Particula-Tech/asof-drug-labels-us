@@ -1,6 +1,9 @@
-# OVERDOSAGE
+# 10 OVERDOSAGE
 
-Too rapid infusion of large amounts of mannitol will cause a shift of intracellular water into the extracellular compartment resulting in cellular dehydration and overexpansion of the intravascular space with hyponatremia, congestive heart failure and pulmonary edema.
-Repeated doses should not be given to patients with persistent oliguria as this can produce a hyperosmolar state and precipitate congestive heart failure and pulmonary edema due to volume overload.
-Dosage must be carefully monitored and adjusted in accordance with the clinical situation to avoid the consequences of overdosage.
-(See CONTRAINDICATIONS, WARNINGS, PRECAUTIONS and DOSAGE AND ADMINISTRATION).
+Signs and symptoms of overdose with Mannitol Injection include renal failure and acute kidney injury, hypo/hypervolemia, hyperosmolarity and electrolyte imbalances, CNS toxicity (e.g., coma, seizures), some of which can be fatal [see Warnings and Precautions (5.2, 5.3, 5.4)].
+
+Management of overdosage with Mannitol Injection is symptomatic and supportive.
+Discontinue the infusion and institute appropriate corrective measures with particular attention to renal, cardiac and pulmonary systems.
+Correct fluid and electrolyte imbalances.
+
+Mannitol Injection is dialyzable (hemodialysis and peritoneal dialysis), hemodialysis may increase Mannitol Injection elimination.
