@@ -8,7 +8,7 @@ Sevelamer hydrochloride is not absorbed systemically following oral administrati
 
 Clinical Considerations
 
-Sevelamer hydrochloride may decrease serum levels of fat soluble vitamins and folic acid in pregnant women [see Clinical Pharmacology (12.2)].
+Sevelamer hydrochloride may decrease serum levels of fat-soluble vitamins and folic acid in pregnant women [see Clinical Pharmacology (12.2)].
 Consider supplementing with these vitamins.
 
 Data
@@ -26,7 +26,7 @@ Renagel is not absorbed systemically by the mother following oral administration
 
 Clinical Considerations
 
-Sevelamer hydrochloride may decrease serum levels of fat soluble vitamins and folic acid in lactating women [see Clinical Pharmacology (12.2)].
+Sevelamer hydrochloride may decrease serum levels of fat-soluble vitamins and folic acid in lactating women [see Clinical Pharmacology (12.2)].
 Consider supplementing with these vitamins.
 
 ## 8.4 Pediatric Use

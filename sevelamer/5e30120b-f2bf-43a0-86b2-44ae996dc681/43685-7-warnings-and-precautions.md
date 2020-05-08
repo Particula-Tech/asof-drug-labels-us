@@ -2,12 +2,14 @@
 
 ## 5.1 Gastrointestinal Adverse Events
 
+Patients with dysphagia, swallowing disorders, severe gastrointestinal (GI) motility disorders, including severe constipation, or major GI tract surgery were not included in the Renagel clinical studies.
+
 Dysphagia and esophageal tablet retention have been reported in association with use of sevelamer tablets, some requiring hospitalization and intervention.
 Consider using sevelamer suspension in patients with a history of swallowing disorders.
 
-Cases of bowel obstruction and perforation have also been reported with sevelamer use.
-
-Patients with dysphagia, swallowing disorders, severe gastrointestinal (GI) motility disorders including severe constipation, or major GI tract surgery were not included in the Renagel clinical studies.
+Cases of bowel obstruction, bleeding gastrointestinal ulcers, colitis, ulceration, necrosis, and perforation have also been reported with sevelamer use [see Adverse Reactions (6.2)].
+Inflammatory disorders may resolve upon Renagel discontinuation.
+Treatment with Renagel should be re-evaluated in patients who develop severe gastrointestinal symptoms.
 
 ## 5.2 Monitor Serum Chemistries
 

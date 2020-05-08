@@ -1,12 +1,12 @@
 # 2 DOSAGE AND ADMINISTRATION
 
 Patients Not Taking a Phosphate Binder.
-The recommended starting dose of Renagel is 800 to 1600 mg, which can be administered as one or two 800 mg Renagel® Tablets with meals based on serum phosphorus level.
+The recommended starting dose of Renagel is 800 to 1600 mg, which can be administered as one or two 800 mg Renagel Tablets with meals based on serum phosphorus level.
 Table 1 provides recommended starting doses of Renagel for patients not taking a phosphate binder.
 
 Table 1: Starting Dose for Dialysis Patients Not Taking a Phosphate Binder
 
-| Serum Phosphorus | Renagel® 800 mg |
+| Serum Phosphorus | Renagel 800 mg |
 | --- | --- |
 | >5.5 and <7.5 mg/dL | 1 tablet three times daily with meals |
 | ≥7.5 and <9.0 mg/dL | 2 tablets three times daily with meals |
@@ -16,9 +16,9 @@ Patients Switching from Calcium Acetate.
 In a study in 84 CKD patients on hemodialysis, a similar reduction in serum phosphorus was seen with equivalent doses (approximately mg for mg) of Renagel and calcium acetate.
 Table 2 gives recommended starting doses of Renagel based on a patient's current calcium acetate dose.
 
-Table 2: Starting Dose for Dialysis Patients Switching From Calcium Acetate to Renagel
+Table 2: Starting Dose for Dialysis Patients Switching from Calcium Acetate to Renagel
 
-| Calcium Acetate 667 mg (Tablets per meal) | Renagel® 800 mg (Tablets per meal) |
+| Calcium Acetate 667 mg (Tablets per meal) | Renagel 800 mg (Tablets per meal) |
 | --- | --- |
 | 1 tablet | 1 tablet |
 | 2 tablets | 2 tablets |
@@ -33,7 +33,7 @@ The maximum average daily Renagel dose studied was 13 g.
 
 Table 3: Dose Titration Guideline
 
-| Serum Phosphorus | Renagel® Dose |
+| Serum Phosphorus | Renagel Dose |
 | --- | --- |
 | >5.5 mg/dL | Increase 1 tablet per meal at 2-week intervals |
 | 3.5–5.5 mg/dL | Maintain current dose |

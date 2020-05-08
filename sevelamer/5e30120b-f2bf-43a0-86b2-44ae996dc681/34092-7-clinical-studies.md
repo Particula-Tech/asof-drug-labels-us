@@ -16,7 +16,7 @@ Both treatments significantly decreased mean serum phosphorus by about 2 mg/dL (
 
 Table 5: Mean Serum Phosphorus (mg/dL) at Baseline and Endpoint
 
-|  | Renagel® (N=81) | Active-Control (N=83) |
+|  | Renagel (N=81) | Active-Control (N=83) |
 | --- | --- | --- |
 | Baseline at End of Washout | 8.4 | 8.0 |
 | Endpoint | 6.4 | 5.9 |
@@ -39,7 +39,7 @@ At week 52, using last observation carried forward, Renagel and active control b
 
 Table 6: Mean Serum Phosphorus (mg/dL) and Ion Product at Baseline and Change from Baseline to End of Treatment
 
-|  | Renagel® (N=94) | Active-Control (N=98) |
+|  | Renagel (N=94) | Active-Control (N=98) |
 | --- | --- | --- |
 | Phosphorus |  |  |
 | Baseline | 7.5 | 7.3 |
@@ -58,5 +58,5 @@ Average daily Renagel dose at the end of treatment was 6.5 g (range of 0.8 to 13
 
 ## 14.3 Active-Control, Parallel Study in Peritoneal Dialysis Patients
 
-One hundred and forty-three patients on peritoneal dialysis, who were hyperphosphatemic (serum phosphorus >5.5 mg/dL) following a two-week phosphate-binder washout period, were randomized to receive Renagel® (N=97) or active control (N=46) open label for 12 weeks.
+One hundred and forty-three patients on peritoneal dialysis, who were hyperphosphatemic (serum phosphorus >5.5 mg/dL) following a two-week phosphate-binder washout period, were randomized to receive Renagel (N=97) or active control (N=46) open label for 12 weeks.
 Average daily Renagel dose at the end of treatment was 5.9 g (range 0.8 to 14.3 g). There were statistically significant changes in serum phosphorus (p<0.001) for Renagel (-1.6 mg/dL from baseline of 7.5 mg/dL), similar to the active control.
