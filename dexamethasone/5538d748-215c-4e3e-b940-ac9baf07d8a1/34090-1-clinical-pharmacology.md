@@ -11,8 +11,4 @@ Streptococci, including some of the Group A-beta-hemolytic species, some nonhemo
 
 Pseudomonas aeruginosa, Escherichia coli, Klebsiella pneumoniae, Enterobacter aerogenes, Proteus mirabilis, Morganella morganii, most Proteus vulgaris strains, Haemophilus influenzae and H. aegyptius, Moraxella lacunata, Acinetobacter calcoaceticus and some Neisseria species.
 
-Bacterial susceptibility studies demonstrate that in some cases microorganisms resistant to gentamicin remain susceptible to tobramycin.
-
-No data are available on the extent of systemic absorption from TOBRADEX®(tobramycin and dexamethasone ophthalmic ointment); however, it is known that some systemic absorption can occur with ocularly applied drugs.
-The usual physiologic replacement dose is 0.75 mg daily.
-The administered dose for TOBRADEX ®(tobramycin and dexamethasone ophthalmic ointment) in both eyes four times daily would be 0.4 mg of dexamethasone daily.
+No data are available on the extent of systemic absorption from TOBRADEX (tobramycin and dexamethasone ophthalmic ointment); however, it is known that some systemic absorption can occur with ocularly applied drugs.

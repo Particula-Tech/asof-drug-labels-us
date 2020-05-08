@@ -1,22 +1,13 @@
-HOW SUPPLIED: 3.5 g STERILE ointment supplied in an aluminum tube with a white polyethylene tip and white polyethylene cap.
-(NDC 0065-0648-35).
+HOW SUPPLIED: 3.5 g STERILE ointment supplied in an aluminum tube with a white polyethylene tip and white polyethylene cap (NDC 0065-0648-35).
 
-STORAGE: Store at 2°C to 25°C (36°F-77°F).
+STORAGE: Store at 2°C to 25°C (36°F to 77°F).
 
-Rx Only
+After opening, TOBRADEX (tobramycin and dexamethasone ophthalmic ointment) can be used until the expiration date on the tube.
 
-© 2002, 2010, 2018 Novartis.
+Distributed by: Novartis Pharmaceuticals Corporation East Hanover, New Jersey 07936
 
-Distributed by:
+© Novartis
 
-ALCON LABORATORIES, INC.
+Revised: 4/2020
 
-Fort Worth, Texas 76134
-
-Alcon®
-
-A Novartis company
-
-Revised: April 2018
-
-T2018-53
+T2020-56
