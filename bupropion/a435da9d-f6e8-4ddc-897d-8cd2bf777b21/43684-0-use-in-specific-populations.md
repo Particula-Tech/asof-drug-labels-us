@@ -17,7 +17,7 @@ Decreased fetal weights were seen at doses twice the MRHD and greater (see Anima
 
 The estimated background risk for major birth defects and miscarriage are unknown for the indicated population.
 All pregnancies have a background rate of birth defect, loss, or other adverse outcomes.
-In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively..
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively.
 
 Clinical Considerations
 

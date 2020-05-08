@@ -95,8 +95,8 @@ You should also tell your healthcare provider about any symptoms you had during 
 What Other Important Information Should I Know About Wellbutrin XL?
 
 - •Seizures: There is a chance of having a seizure (convulsion, fit) with Wellbutrin XL, especially in people:
-  - •with certain medical problems.
-  - •who take certain medicines.
+  - owith certain medical problems.
+  - owho take certain medicines.
 
 The chance of having seizures increases with higher doses of Wellbutrin XL.
 For more information, see the sections “Who should not take Wellbutrin XL?” and “What should I tell my healthcare provider before taking Wellbutrin XL?”
@@ -111,13 +111,13 @@ Do not take Wellbutrin XL again if you have a seizure.
   The chance of high blood pressure may be higher if you also use nicotine replacement therapy (such as a nicotine patch) to help you stop smoking (see the section of this Medication Guide called “How should I take Wellbutrin XL?”).
 - •Manic episodes.
   Some people may have periods of mania while taking Wellbutrin XL, including:
-  - •Greatly increased energy
-  - •Severe trouble sleeping
-  - •Racing thoughts
-  - •Reckless behavior
-  - •Unusually grand ideas
-  - •Excessive happiness or irritability
-  - •Talking more or faster than usual
+- oGreatly increased energy
+- oSevere trouble sleeping
+- oRacing thoughts
+- oReckless behavior
+- oUnusually grand ideas
+- oExcessive happiness or irritability
+- oTalking more or faster than usual
 
 If you have any of the above symptoms of mania, call your healthcare provider.
 
@@ -125,9 +125,9 @@ If you have any of the above symptoms of mania, call your healthcare provider.
   Some patients have unusual thoughts or behaviors while taking Wellbutrin XL, including delusions (believe you are someone else), hallucinations (seeing or hearing things that are not there), paranoia (feeling that people are against you), or feeling confused.
   If this happens to you, call your healthcare provider.
 - •Visual problems.
-  - •eye pain
-  - •changes in vision
-  - •swelling or redness in or around the eye
+- oeye pain
+- ochanges in vision
+- oswelling or redness in or around the eye
 - Only some people are at risk for these problems.
   You may want to undergo an eye examination to see if you are at risk and receive preventative treatment if you are.
 - •Severe allergic reactions.
@@ -150,8 +150,8 @@ Do not take Wellbutrin XL if you:
 - •drink a lot of alcohol and abruptly stop drinking, or take medicines called sedatives (these make you sleepy), benzodiazepines, or anti-seizure medicines, and you stop taking them all of a sudden.
 - •take a monoamine oxidase inhibitor (MAOI).
   Ask your healthcare provider or pharmacist if you are not sure if you take an MAOI, including the antibiotic linezolid.
-  - •do not take an MAOI within 2 weeks of stopping Wellbutrin XL unless directed to do so by your healthcare provider.
-  - •do not start Wellbutrin XL if you stopped taking an MAOI in the last 2 weeks unless directed to do so by your healthcare provider.
+  - odo not take an MAOI within 2 weeks of stopping Wellbutrin XL unless directed to do so by your healthcare provider.
+  - odo not start Wellbutrin XL if you stopped taking an MAOI in the last 2 weeks unless directed to do so by your healthcare provider.
 - •are allergic to the active ingredient in Wellbutrin XL, bupropion, or to any of the inactive ingredients.
   See the end of this Medication Guide for a complete list of ingredients in Wellbutrin XL.
 
@@ -162,22 +162,22 @@ You should also tell your healthcare provider about any symptoms you had during 
 See “Quitting Smoking, Quit-Smoking Medications, Changes in Thinking and Behavior, Depression, and Suicidal Thoughts or Actions.”
 
 - •Tell your healthcare provider about your other medical conditions, including if you:
-- •have liver problems, especially cirrhosis of the liver.
-- •have kidney problems.
-- •have, or have had, an eating disorder such as anorexia nervosa or bulimia.
-- •have had a head injury.
-- •have had a seizure (convulsion, fit).
-- •have a tumor in your nervous system (brain or spine).
-- •have had a heart attack, heart problems, or high blood pressure.
-- •are a diabetic taking insulin or other medicines to control your blood sugar.
-- •drink alcohol.
-- •abuse prescription medicines or street drugs.
-- •are pregnant or plan to become pregnant.
+- ohave liver problems, especially cirrhosis of the liver.
+- ohave kidney problems.
+- ohave, or have had, an eating disorder such as anorexia nervosa or bulimia.
+- ohave had a head injury.
+- ohave had a seizure (convulsion, fit).
+- ohave a tumor in your nervous system (brain or spine).
+- ohave had a heart attack, heart problems, or high blood pressure.
+- oare a diabetic taking insulin or other medicines to control your blood sugar.
+- odrink alcohol.
+- oabuse prescription medicines or street drugs.
+- oare pregnant or plan to become pregnant.
   Talk to your healthcare provider about the risk to your unborn baby if you take Wellbutrin XL during pregnancy.
-- •Tell your healthcare provider if you become pregnant or think you are pregnant during treatment with Wellbutrin XL.
-- •If you become pregnant during treatment with Wellbutrin XL, talk to your healthcare provider about registering with the National Pregnancy Registry for Antidepressants.
-  You can register by calling 1-844-405-6185.
-- •are breastfeeding or plan to breastfeed during treatment with Wellbutrin XL.
+  - oTell your healthcare provider if you become pregnant or think you are pregnant during treatment with Wellbutrin XL.
+  - oIf you become pregnant during treatment with Wellbutrin XL, talk to your healthcare provider about registering with the National Pregnancy Registry for Antidepressants.
+    You can register by calling 1-844-405-6185.
+- oare breastfeeding or plan to breastfeed during treatment with Wellbutrin XL.
   Wellbutrin XL passes into your milk.
   Talk to your healthcare provider about the best way to feed your baby during treatment with Wellbutrin XL.
 
@@ -222,9 +222,14 @@ See the sections at the beginning of this Medication Guide for information about
 
 The most common side effects of Wellbutrin XL include:
 
-| •trouble sleeping | •dry mouth | •feeling anxious | •constipation |
-| --- | --- | --- | --- |
-| •stuffy nose | •dizziness | •nausea | •joint aches |
+- •trouble sleeping
+- •stuffy nose
+- •dry mouth
+- •dizziness
+- •feeling anxious
+- •nausea
+- •constipation
+- •joint aches
 
 If you have trouble sleeping, do not take Wellbutrin XL too close to bedtime.
 
@@ -291,5 +296,6 @@ U.S. Patent Number: 7,537,784
 
 9395607 20002844
 
-1. This Medication Guide has been approved by the U.S. Food and Drug Administration.
-   Revised: 02/2020
+This Medication Guide has been approved by the U.S. Food and Drug Administration.
+
+- Revised: 02/2020
