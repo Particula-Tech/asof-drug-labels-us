@@ -6,7 +6,7 @@ They are supplied in bottles of 90 tablets (NDC 62559-650-90).
 ATACAND HCT 32-12.5 mg Tablets are yellow, oval, biconvex, non-film-coated tablets, scored on both sides and coded with ACJ on one side.
 They are supplied in bottles of 90 tablets (NDC 62559-651-90).
 
-ATACAND HCT 32–25 mg Tablets are pink, oval, biconvex, non-film-coated tablets, scored on both sides and coded with ACD on one side.
+ATACAND HCT 32-25 mg Tablets are pink, oval, biconvex, non-film-coated tablets, scored on both sides and coded with ACD on one side.
 They are supplied in bottles of 90 tablets (NDC 62559-652-90).
 
 ## Storage:
@@ -22,4 +22,4 @@ Distributed by: ANI Pharmaceuticals, Inc. Baudette, MN 56623
 
 ATACAND HCT is a registered trademark of the AstraZeneca group of companies and is licensed to ANI Pharmaceuticals.
 
-10114 Rev 05/18
+10114 Rev 05/20
