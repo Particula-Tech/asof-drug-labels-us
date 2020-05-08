@@ -32,7 +32,9 @@ Do not cover expiration date on bottle.
 
 Package insert is provided with tear-off patient information.
 
-Rx only abbvie
+Rx only
+
+abbvie
 
 NDC 0074-3399-30
 
