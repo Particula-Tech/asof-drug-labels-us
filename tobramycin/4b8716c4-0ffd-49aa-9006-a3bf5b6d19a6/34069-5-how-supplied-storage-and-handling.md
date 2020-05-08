@@ -1,15 +1,18 @@
 # HOW SUPPLIED
 
-5 mL sterile solution is packaged in a 8 mL low density polyethylene white DROP-TAINER® bottle and natural dispensing plug and white polypropylene closure (NDC 0065-0643-05) containing tobramycin 0.3% (3 mg/mL).
+TOBREX (tobramycin ophthalmic solution) 0.3% is supplied as a 5 mL sterile solution, packaged in a 8 mL low density polyethylene white bottle and natural dispensing plug and white polypropylene closure as follows:
 
-Storage: Store at 2°C-25°C (36°F- 77°F).
+5 mL containing tobramycin 0.3% (3 mg/mL)....
+NDC 0065-0643-05
 
-Rx Only
+Storage: Store at 2°C to 25°C (36°F to 77°F).
 
-© 2000-2003, 2012, 2018 Novartis Revised: April 2018
+After opening, TOBREX (tobramycin ophthalmic solution) 0.3% can be used until the expiration date on the bottle.
 
-Distributed by:
+Revised: 4/2020
 
-ALCON LABORATORIES, INC. Fort Worth, Texas 76134 USA Alcon® A Novartis company
+Distributed by: Novartis Pharmaceuticals Corporation East Hanover, New Jersey 07936
 
-T2018-31
+© Novartis
+
+T2020-57
