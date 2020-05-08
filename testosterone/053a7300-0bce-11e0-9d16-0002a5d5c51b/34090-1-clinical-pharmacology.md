@@ -3,10 +3,10 @@
 ## 12.1 Mechanism of Action
 
 Endogenous androgens, including testosterone and dihydrotestosterone (DHT), are responsible for the normal growth and development of the male sex organs and for the maintenance of secondary sex characteristics.
-These effects include the growth and maturation of the prostate, seminal vesicles, penis and scrotum; the development of male hair distribution, such as facial, pubic, chest and axillary hair; laryngeal enlargement, vocal cord thickening, alterations in body musculature and fat distribution.
+These effects include the growth and maturation of the prostate, seminal vesicles, penis, and scrotum; the development of male hair distribution, such as facial, pubic, chest, and axillary hair; laryngeal enlargement; vocal cord thickening; and alterations in body musculature and fat distribution.
 Testosterone and DHT are necessary for the normal development of secondary sex characteristics.
 
-Male hypogonadism, a clinical syndrome resulting from insufficient secretion of testosterone, has two main etiologies.
+Male hypogonadism, a clinical syndrome resulting from insufficient secretion of testosterone, has 2 main etiologies.
 Primary hypogonadism is caused by defects of the gonads, such as Klinefelter’s syndrome or Leydig cell aplasia, whereas secondary hypogonadism is the failure of the hypothalamus or pituitary to produce sufficient gonadotropins (FSH, LH).
 
 ## 12.2 Pharmacodynamics
@@ -24,7 +24,7 @@ Figure 1: Mean (±SD) Serum Total Testosterone Concentrations on Day 7 in Patien
 Distribution Circulating testosterone is primarily bound in the serum to sex hormone-binding globulin (SHBG) and albumin.
 Approximately 40% of testosterone in plasma is bound to SHBG, 2% remains unbound (free) and the rest is loosely bound to albumin and other proteins.
 
-Metabolism Testosterone is metabolized to various 17-keto steroids through two different pathways.
+Metabolism Testosterone is metabolized to various 17-keto steroids through 2 different pathways.
 The major active metabolites of testosterone are estradiol and DHT.
 
 Excretion There is considerable variation in the half-life of testosterone concentration as reported in the literature, ranging from 10 to 100 minutes.
@@ -32,26 +32,26 @@ About 90% of a dose of testosterone given intramuscularly is excreted in the uri
 About 6% is excreted in the feces, mostly in the unconjugated form.
 Inactivation of testosterone occurs primarily in the liver.
 
-Potential for testosterone transfer The potential for testosterone transfer from healthy males dosed with FORTESTA to healthy females was evaluated in a placebo-controlled, three-way crossover study.
+Potential for Testosterone Transfer The potential for testosterone transfer from healthy males dosed with FORTESTA to healthy females was evaluated in a placebo-controlled, 3-way crossover study.
 The washout period was approximately 29 days.
-Six males were treated with either FORTESTA (30 mg testosterone) or placebo to one thigh only.
+Six (6) males were treated with either FORTESTA (30 mg testosterone) or placebo to 1 thigh only.
 At 2 hours after the application of FORTESTA to males, the females rubbed their forearms for 15 minutes on the thigh of the males.
 Serum concentrations of testosterone were monitored in females for 24 hours after the transfer procedure.
-When direct skin-to-skin transfer occurred with FORTESTA mean Cavg increased by 134% and mean Cmax increased by 191%, compared to direct skin-to-skin transfer with placebo.
+When direct skin-to-skin transfer occurred with FORTESTA mean average concentration (Cavg) increased by 134% and mean maximum concentration (Cmax) increased by 191%, compared to direct skin-to-skin transfer with placebo.
 When transfer occurred with FORTESTA while covering a thigh with boxer shorts, mean Cavg decreased by 3% and mean Cmax increased by 2%, compared to direct skin-to-skin transfer with placebo [see Dosage and Administration (2.2)].
 
-Effect of showering In a two-way crossover study, the effects of showering on the pharmacokinetics of total testosterone following application of FORTESTA (30 mg testosterone to each thigh; total 60 mg testosterone) were assessed in 7 hypogonadal males.
+Effect of Showering In a 2-way crossover study, the effects of showering on the pharmacokinetics of total testosterone following application of FORTESTA (30 mg testosterone to each thigh; total 60 mg testosterone) were assessed in 7 hypogonadal males.
 There were two 7-day treatment phases, with showering 2 hours post FORTESTA application, and without showering on Day 7 of each treatment phase.
 Showering decreased Cavg by 3% and it increased Cmax by 13% [see Dosage and Administration (2.2)].
 
-Effect of hand washing and application site (inner thigh) washing In an open-label, single-dose study, the amount of residual testosterone on the application finger and application site after washing was evaluated in 12 healthy male subjects.
+Effect of Hand Washing and Application Site (Inner Thigh) Washing In an open-label, single-dose study, the amount of residual testosterone on the application finger and application site after washing was evaluated in 12 healthy male subjects.
 Prior to application of FORTESTA, each index finger and each intended application site (left and right front and inner thighs) was wiped using dry sponges to assess baseline skin testosterone.
 Subjects then used each index finger to rub FORTESTA (40 mg testosterone) onto each inner thigh.
 On one side, the index finger was immediately wiped using dry sponges to collect residual testosterone.
-On the other side, each subject washed their hands with liquid soap and warm tap water immediately after drug application, then wiped the index finger using dry sponges to collect residual testosterone.
-A mean (SD) of 0.002 (0.006) mg of residual testosterone (i.e., 99.8% reduction compared to when hand was not washed) was recovered after washing hands with liquid soap and warm tap water.
+On the other side, each subject washed their hands with liquid soap and warm tap water immediately after drug application, then wipe the index finger using dry sponges to collect residual testosterone.
+A mean (SD) of 0.002 (0.006) mg of residual testosterone (ie, 99.8% reduction compared to when hand was not washed) was recovered after washing hands with liquid soap and warm tap water.
 
-Two hours after the application of FORTESTA onto each inner thigh, one thigh was wiped using dry sponges.
+Two (2) hours after the application of FORTESTA onto each inner thigh, one thigh was wiped using dry sponges.
 On the other thigh, the application site was washed with liquid soap and warm tap water, dried, and then wiped using dry sponges.
 The sponges were assayed for testosterone.
-A mean (SD) of 0.24 (0.009) mg of residual testosterone (i.e., 94.3% reduction compared to when application site was not washed) was recovered after application site washing.
+A mean (SD) of 0.24 (0.009) mg of residual testosterone (ie, 94.3% reduction compared to when application site was not washed) was recovered after application site washing.

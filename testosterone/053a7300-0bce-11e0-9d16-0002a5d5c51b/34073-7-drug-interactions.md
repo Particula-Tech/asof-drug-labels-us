@@ -11,4 +11,4 @@ Changes in anticoagulant activity may be seen with androgens, therefore more fre
 
 ## 7.3 Corticosteroids
 
-The concurrent administration of testosterone with adrenocorticotropic hormone (ACTH) or corticosteroids may result in increased fluid retention and requires careful monitoring particularly in patients with cardiac, renal or hepatic disease.
+The concurrent administration of testosterone with adrenocorticotropic hormone (ACTH) or corticosteroids may result in increased fluid retention and requires careful monitoring particularly in patients with cardiac, renal, or hepatic disease.

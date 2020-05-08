@@ -67,9 +67,9 @@ Do not use FORTESTA if you:
 
 - have breast cancer.
 - have or might have prostate cancer.
-- are pregnant or may become pregnant or breastfeeding.
-  FORTESTA may harm your unborn or breastfeeding baby.
-- Women who are pregnant or who may become pregnant should avoid contact with the area of skin where FORTESTA has been applied.
+- are pregnant.
+  FORTESTA may harm your unborn baby.
+- Women who are pregnant should avoid contact with the area of skin where FORTESTA has been applied.
 
 Before using FORTESTA, tell your healthcare provider about all of your medical conditions including if you:
 
@@ -165,16 +165,16 @@ What are the ingredients in FORTESTA?
 
 Active ingredients: testosterone
 
-Inactive ingredients: propylene glycol, purified water, ethanol, 2-propanol, oleic acid, carbomer 1382, triethanolamine and butylated hydroxytoluene.
+Inactive ingredients: propylene glycol, purified water, ethanol, 2-propanol, oleic acid, carbomer 1382, triethanolamine, and butylated hydroxytoluene.
 
 Manufactured by: Pharbil Waltrop GmbH Im Wirrigen 25, 45731 Waltrop, Germany
 
 Distributed by: Endo Pharmaceuticals Inc. Malvern, PA 19355
 
-© 2019 Endo Pharmaceuticals Inc. All rights reserved.
+© 2020 Endo Pharmaceuticals Inc. All rights reserved.
 
 For more information about FORTESTA, go to www.fortestagel.com or call 1-800-462-3636.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Issued: 05/2019
+Issued: 04/2020

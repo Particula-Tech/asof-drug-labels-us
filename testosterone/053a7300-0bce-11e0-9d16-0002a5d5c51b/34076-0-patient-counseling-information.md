@@ -27,13 +27,13 @@ Strict adherence to the following precautions is advised to minimize the potenti
   - Wash hands with soap and water after application.
   - Cover the application site(s) with clothing after the gel has dried.
   - Wash the application site(s) thoroughly with soap and water prior to any situation where skin-to-skin contact of the application site with another person is anticipated.
-- In the event that unwashed or unclothed skin to which FORTESTA has been applied comes in contact with the skin of another person, the general area of contact on the other person should be washed with soap and water as soon as possible [see Dosage and Administration (2.2), Warnings and Precautions (5.2) and Clinical Pharmacology (12.3)].
+- In the event that unwashed or unclothed skin to which FORTESTA has been applied comes in contact with the skin of another person, the general area of contact on the other person should be washed with soap and water as soon as possible [see Dosage and Administration (2.2), Warnings and Precautions (5.2), and Clinical Pharmacology (12.3)].
 
 ## 17.3 Potential Adverse Reactions with Androgens
 
 Patients should be informed that treatment with androgens may lead to adverse reactions which include:
 
-- Changes in urinary habits such as increased urination at night, trouble starting your urine stream, passing urine many times during the day, having an urge that you have to go to the bathroom right away, having a urine accident, being unable to pass urine and weak urine flow.
+- Changes in urinary habits such as increased urination at night, trouble starting your urine stream, passing urine many times during the day, having an urge that you have to go to the bathroom right away, having a urine accident, being unable to pass urine, and weak urine flow.
 - Breathing disturbances, including those associated with sleep, or excessive daytime sleepiness.
 - Too frequent or persistent erections of the penis.
 - Nausea, vomiting, changes in skin color, or ankle swelling.
@@ -43,7 +43,7 @@ Patients should be informed that treatment with androgens may lead to adverse re
 - Read the Medication Guide before starting FORTESTA therapy and reread it each time the prescription is renewed.
 - FORTESTA should be applied and used appropriately to maximize the benefits and to minimize the risk of secondary exposure in children and women.
 - Keep FORTESTA out of the reach of children.
-- FORTESTA is an alcohol based product and is flammable; therefore avoid fire, flame or smoking until the gel has dried.
+- FORTESTA is an alcohol based product and is flammable; therefore avoid fire, flame, or smoking until the gel has dried.
 - It is important to adhere to all recommended monitoring.
 - Report any changes in their state of health, such as changes in urinary habits, breathing, sleep, and mood.
 - FORTESTA is prescribed to meet the patient’s specific needs, therefore, the patient should never share FORTESTA with anyone.
@@ -54,8 +54,6 @@ Manufactured by: Pharbil Waltrop GmbH, Im Wirrigen 25, 45731 Waltrop, Germany
 
 Distributed by: Endo Pharmaceuticals Inc., Malvern, PA 19355
 
-© 2017 Endo Pharmaceuticals Inc. All rights reserved.
+© 2020 Endo Pharmaceuticals Inc. All rights reserved.
 
 FORTESTA is a registered trademark of Endo Pharmaceuticals Inc.
-
-118311
