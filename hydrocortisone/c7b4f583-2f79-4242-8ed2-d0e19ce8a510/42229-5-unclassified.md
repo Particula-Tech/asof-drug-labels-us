@@ -4,17 +4,9 @@ FOR TOPICAL USE ONLY NOT FOR OPHTHALMIC USE
 
 Store at controlled temperature between 15º to 25ºC (59º to 77ºF).
 
-Distributed by:
+Distributed by: Bausch Health US, LLC Bridgewater, NJ 08807 USA
 
-Bausch Health US, LLC
-
-Bridgewater, NJ 08807 USA
-
-Manufactured by:
-
-Ferndale Laboratories, Inc.
-
-Ferndale, MI 48220 USA
+Manufactured by: Ferndale Laboratories, Inc. Ferndale, MI 48220 USA
 
 LOCOID is a trademark of Leo Pharma A/S used under license.
 
