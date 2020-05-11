@@ -32,7 +32,11 @@ Fungal infections of the cornea are particularly prone to develop coincidentally
 Fungus invasion must be considered in any persistent corneal ulceration where a steroid has been used or is in use.
 Fungal cultures should be taken when appropriate.
 
-## 5.7 Contact Lens Wear
+## 5.7 Risk of Contamination
+
+Do not to allow the dropper tip to touch any surface, as this may contaminate the suspension.
+
+## 5.8 Contact Lens Wear
 
 The preservative in INVELTYS may be absorbed by soft contact lenses.
 Contact lenses should be removed prior to instillation of INVELTYS and may be reinserted 15 minutes following administration.

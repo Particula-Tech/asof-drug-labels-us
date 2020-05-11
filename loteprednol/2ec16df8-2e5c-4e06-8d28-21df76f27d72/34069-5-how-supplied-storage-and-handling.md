@@ -9,5 +9,8 @@ Storage and Handling
 
 Do not use if tamper-evident overcap seal is not intact.
 
+The white tamper-evident overcap can be thrown away.
+Retain the pink cap and keep the bottle tightly closed when not in use.
+
 Store upright at 15°C to 25°C (59°F to 77°F).
 Do not freeze.

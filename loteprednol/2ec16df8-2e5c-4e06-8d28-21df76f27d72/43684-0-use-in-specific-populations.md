@@ -12,10 +12,10 @@ Risk Summary
 
 INVELTYS is not absorbed systemically by the mother following topical ophthalmic administration, and breastfeeding is not expected to result in exposure of the child to INVELTYS.
 
-## 8.4 Pediatric Use
+## 8.3 Pediatric Use
 
 Safety and effectiveness in pediatric patients have not been established.
 
-## 8.5 Geriatric Use
+## 8.4 Geriatric Use
 
 No overall differences in safety and effectiveness have been observed between elderly and younger patients.

@@ -1,12 +1,12 @@
 Manufactured for:
 
-Kala Pharmaceuticals, Inc. Waltham, MA 02453
+Kala Pharmaceuticals, Inc. Watertown, MA 02472
 
-Marks designated by ™ and ® are owned by Kala Pharmaceuticals, Inc.
+Marks designated ® are owned by Kala Pharmaceuticals, Inc.
 
 Patented.
 See www.kalarx.com/patents
 
-© 2018 Kala Pharmaceuticals, Inc. All rights reserved.
+© 2019 Kala Pharmaceuticals, Inc. All rights reserved.
 
-Part # 2003R02 August 2018 Kala®
+Part # 2003R03 November 2019 Kala®
