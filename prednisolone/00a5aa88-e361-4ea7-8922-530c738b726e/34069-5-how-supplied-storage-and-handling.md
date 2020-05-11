@@ -1,6 +1,6 @@
 # HOW SUPPLIED
 
-PRED FORTE® (prednisolone acetate ophthalmic suspension, USP) 1% is supplied sterile in opaque white LDPE plastic bottles with droppers with white high impact polystyrene (HIPS) caps as follows:
+PRED FORTE® (prednisolone acetate ophthalmic suspension, USP) 1% is supplied sterile in opaque white LDPE plastic bottles with droppers with pink high impact polystyrene (HIPS) caps as follows:
 
 1 mL in 5 mL bottle - NDC 11980-180-01
 
@@ -14,12 +14,12 @@ Storage: Store at up to 25°C (77°F).
 Protect from freezing.
 Store in an upright position.
 
-Revised: 06/2018
+Revised: 05/2020
 
 Distributed by: Allergan USA, Inc. Madison, NJ 07940
 
-© 2019 Allergan.
+© 2020 Allergan.
 All rights reserved.
 All trademarks are the property of their respective owners.
 
-v1.1USPI180
+v1.2USPI180

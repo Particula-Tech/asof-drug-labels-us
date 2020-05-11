@@ -3,7 +3,7 @@
 The following adverse reactions have been identified during use of PRED FORTE.
 Because reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Adverse reactions include, elevation of intraocular pressure (IOP) with possible development of glaucoma and infrequent optic nerve damage, posterior subcapsular cataract formation, and delayed wound healing.
+Adverse reactions include elevation of intraocular pressure (IOP) with possible development of glaucoma and infrequent optic nerve damage, posterior subcapsular cataract formation, and delayed wound healing.
 
 The development of secondary ocular infection (bacterial, fungal, and viral) has occurred.
 Fungal and viral infections of the cornea are particularly prone to develop coincidentally with long-term applications of steroids.
