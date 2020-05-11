@@ -7,4 +7,4 @@ The concomitant administration of desmopressin nasal spray with other drugs that
 ## 7.2 Other Vasoconstrictors
 
 Desmopressin acetate can elevate blood pressure.
-Use of large doses of desmopressin nasal spray with other vasocontrictors may require a reduction of the desmopressin dosage [see Adverse Reactions (6)].
+Use of large doses of desmopressin nasal spray with other vasoconstrictors may require a reduction of the desmopressin dosage [see Adverse Reactions (6)].

@@ -2,7 +2,7 @@
 
 ## 16.1 How Supplied
 
-Desmopressin nasal spray, USP 0.01% is available in a 5 mL bottle with a nasal spray pump dispenser with dust cover and patient instruction sheet delivering 50 sprays of 10 mcg (NDC 60505-0815-0).
+Desmopressin nasal spray, USP % is available in a 5 mL bottle with a nasal spray pump dispenser with dust cover and patient instruction sheet delivering 50 sprays of 10 mcg (NDC 60505-0815-0).
 
 ## 16.2 Storage and Handling
 

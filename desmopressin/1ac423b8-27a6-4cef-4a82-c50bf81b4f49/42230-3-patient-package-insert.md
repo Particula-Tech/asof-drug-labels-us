@@ -1,6 +1,6 @@
 # Patient Information
 
-Desmopressin Nasal Spray, USP 0.01%
+Desmopressin Nasal Spray, USP 10 mcg per 0.1 mL
 
 (des·mo·pres·sin)
 
@@ -94,9 +94,9 @@ This Patient Information has been approved by the Food and Drug Administration
 
 APOTEX INC.
 
-Desmopressin Nasal Spray, USP 0.01%
+Desmopressin Nasal Spray, USP 10 mcg per 0.1 mL
 
 | Manufactured by Apotex Inc. Toronto, Ontario Canada M9L 1T9 | Manufactured for Apotex Corp. Weston, Florida 33326 |
 | --- | --- |
 
-December 2018
+February 2020

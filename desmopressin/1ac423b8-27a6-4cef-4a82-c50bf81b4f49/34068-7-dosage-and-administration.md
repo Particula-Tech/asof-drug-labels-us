@@ -31,7 +31,7 @@ Pediatric Patients
   The dose can be titrated up to 30 mcg once daily (or 30 mcg divided into two daily doses, typically with 20 mcg given in the morning and 10 mcg given at nighttime).
   If administered more than once a day, adjust for an adequate diurnal rhythm of urine output.
 
-Because administration of desmopressin acetate can been associated with decreased responsiveness with prolonged use, consider increasing the dosage of desmopressin nasal spray if patients demonstrate decreased response over a long period of time
+Because administration of desmopressin acetate can be associated with decreased responsiveness with prolonged use, consider increasing the dosage of desmopressin nasal spray if patients demonstrate decreased response over a long period of time
 
 ## 2.3 Switching Between Desmopressin Acetate Formulations
 
