@@ -1,51 +1,16 @@
 # PACKAGE/LABEL PRINCIPAL DISPLAY PANEL
 
-TO OPEN - TEAR NOTCH
+LOT EXP
 
-Do not remove unit from overwrap until ready to use.
-Do not use if overwrap has been previously opened or damaged.
-The overwrap is a moisture barrier.
-The inner bag maintains the sterility of the product.
-NDC 10019-668-10
+NDC 10019-668-10 BREVIBLOC PREMIXED Double Strength Injection Esmolol Hydrochloride in Sodium Chloride 2,000 mg/100 mL (20 mg/mL)
 
-BREVIBLOC PREMIXED Double Strength Injection
+100 mL Iso-Osmotic • No Preservative Added Single Intravenous Use Only Each mL contains 20 mg Esmolol Hydrochloride USP 4.1 mg Sodium Chloride USP in Water for Injection USP Buffered with 2.8 mg Sodium Acetate Trihydrate USP and 0.546 mg Glacial Acetic Acid USP pH adjusted with sodium hydroxide and/or hydrochloric acid pH 5.0 (4.5-5.5) Sterile Nonpyrogenic
 
-Esmolol Hydrochloride in Sodium Chloride 2,000 mg/100 mL (20 mg/mL)
+USUAL DOSAGE See package insert CAUTIONS Check for le aks by squee zing container firmly If le aks are found discard as sterility may be impaired Use only if solu tion is clear colorless to light yellow Discard unused portion DO NOT INTRODUCE ADDITIVES Must not be used in series connections Store at 25°C (77°F) Excursions permitted to 15°-30°C (59°-86°F) [See USP Controlled Roo m Temperature] PROTECT FROM FREEZING Avoid excessive heat Rx only
 
-100 mL
+MANUFACTURED BY Baxter Logo USA novaplus logo
 
-Iso-Osmotic No Preservative Added Single Intravenous Use Only
-
-Each mL contains 20 mg Esmolol Hydrochloride USP, 4.1 mg Sodium Chloride USP in Water for Injection USP.
-Buffered with 2.8 mg Sodium Acetate Trihydrate USP, 0.546 mg Glacial Acetic Acid USP. pH adjusted with sodium hydroxide and/or hydrochloric acid. pH 5.0 (4.5 - 5.5).
-Sterile, nonpyrogenic.
-
-Rx only
-
-USUAL DOSAGE: See package insert.
-CAUTIONS: After removing the overwrap, check for leaks by squeezing container firmly.
-If leaks are found, discard as sterility may be impaired.
-Use only if solution is clear colorless to light yellow.
-Discard unused portion.
-DO NOT INTRODUCE ADDITIVES.
-Must not be used in series connections.
-Store at 25°C (77°F).
-Excursions permitted to 15°-30°C (59°-86°F).
-[See USP Controlled Room Temperature.]
-PROTECT FROM FREEZING.
-Avoid excessive heat.
-
-novaplus logo
-
-Baxter logo Baxter Healthcare Corporation Deerfield, IL 60015 USA For Product Inquiry 1 800 ANA DRUG (1-800-262-3784)
-
-2J1416 07-07-00-0032 2018/1
-
-Made in USA IntraVia Container Baxter, Brevibloc Premixed and IntraVia are trademarks of Baxter International Inc.
-
-Novaplus is a registered trademark of Vizient, Inc.
-
-BAR CODE POSITION ONLY 310019668109
+460-324-01 2J1416
 
 10 x 100 mL Single Use NDC 10019-668-10 INTRAVIA containers BREVIBLOC PREMIXED Double Strength Injection Esmolol Hydrochloride in Sodium Chloride 2,000 mg/100 mL (20 mg/mL) Store at 25˚C (77˚F).
 Excursions permitted to 15˚-30˚C (59˚-86˚F).
@@ -71,50 +36,19 @@ BAR CODE PLACEMENT ONLY
 
 (01)50310019668104(21)NNNNNNNNNNNNNNNNNNNN(17)YYMMDD(10)XXXXXXXXX
 
-TO OPEN - TEAR NOTCH Do not remove unit from overwrap until ready to use.
-Do not use if overwrap has been previously opened or damaged.
-The overwrap is a moisture barrier.
-The inner bag maintains the sterility of the product.
-NDC 10019-672-10
+LOT EXP
 
-BREVIBLOC PREMIXED Injection
+NDC 10019-672-10 BREVIBLOC PREMIXED Double Strength Injection Esmolol Hydrochloride in Sodium Chloride 2,500 mg/250 mL (10 mg/mL)
 
-Esmolol Hydrochloride in Sodium Chloride 2,500 mg / 250 mL (10 mg/mL)
+250 mL Iso-Osmotic No Preservative Added Single Intravenous Use Only
 
-250 mL
+EACH mL CONTAINS 10 mg ESMOLOL HYDROCHLORIDE USP 5.9 mg SODIUM CHLORIDE USP IN WATER FOR INJECTION USP BUFFERED WITH 2.8 mg SODIUM ACETATE TRIHYDRATE USP AND 0.546 mg GLACIAL ACETIC ACID USP PH ADJUSTED WITH SODIUM HYDROXIDE AND/OR HYDROCHLORIC ACID PH 5.0 (4.5-5.5) STERILE NONPYROGENIC
 
-Iso-Osmotic No Preservative Added Single Intravenous Use Only
+USUAL DOSAGE SEE PACKAGE INSERT CAUTIONS CHECK FOR LE AKS BY SQUEEZING CONTAINER FIRMLY IF LEAKS ARE FOUND DISCARD AS STERILITY MAY BE IMPAIRED USE ONLY IF SOLUTION IS CLEAR COLORLESS TO LIGHT YELLOW DISCARD UNUSED PORTION DO NOT INTRODUCE ADDITIVES MUST NOT BE USED IN SERIES CONNECTIONS STORE AT 25°C (77°F) EXCURSIONS PERMITTED TO 15°-30°C (59°-86°F) [SEE USP CONTROLLED ROOM TEMPERATURE] PROTECT FROM FREEZING AVOID EXCESSIVE HEAT RX ONLY
 
-Each mL contains 10 mg Esmolol Hydrochloride USP, 5.9 mg Sodium Chloride USP in Water for Injection USP.
-Buffered with 2.8 mg Sodium Acetate Trihydrate USP, 0.546 mg Glacial Acetic Acid USP. pH adjusted with sodium hydroxide and/or hydrochloric acid. pH 5.0 (4.5 - 5.5).
-Sterile, nonpyrogenic.
-USUAL DOSAGE: See package insert.
+MANUFACTURED BY BAXTER LOGO novaplus logo USA
 
-Rx only
-
-CAUTIONS: After removing the overwrap, check for leaks by squeezing container firmly.
-If leaks are found, discard as sterility may be impaired.
-Use only if solution is clear colorless to light yellow.
-Discard unused portion.
-DO NOT INTRODUCE ADDITIVES.
-Must not be used in series connections.
-Store at 25°C (77°F).
-Excursions permitted to 15°-30°C (59°-86°F).
-[See USP Controlled Room Temperature.]
-PROTECT FROM FREEZING.
-Avoid excessive heat.
-
-novaplus logo
-
-Baxter logo Baxter Healthcare Corporation Deerfield, IL 60015 USA For Product Inquiry 1 800 ANA DRUG (1-800-262-3784)
-
-2J1417 07-07-00-0033 2018/1
-
-Made in USA IntraVia Container Baxter, Brevibloc Premixed and IntraVia are trademarks of Baxter International Inc.
-
-Novaplus is a registered trademark of Vizient, Inc.
-
-BAR CODE POSITION ONLY 310019672106
+INTRAVIA CONTAINER 460-327-02 2J1417 FOR PRODUCT INQUIRY 1 800 ANA DRUG (1-800-262-3784)
 
 10 x 250 mL Single Use NDC 10019-672-10 INTRAVIA containers BREVIBLOC PREMIXED Injection Esmolol Hydrochloride in Sodium Chloride 2,500 mg/250 mL (10 mg/mL) Store at 25˚C (77˚F).
 Excursions permitted to 15˚-30˚C (59˚-86˚F).
