@@ -1,46 +1,18 @@
 # PACKAGE/LABEL PRINCIPAL DISPLAY PANEL
 
-TO OPEN – TEAR NOTCH
+LOT EXP
 
-Do not remove unit from overwrap until ready to use.
-Do not use if overwrap has been previously opened or damaged.
-The overwrap is a moisture barrier.
-The inner bag maintains the sterility of the product.
-
-NDC 10019-670-10
-
-BREVIBLOC PREMIXED Injection Esmolol Hydrochloride in Sodium Chloride 2,500 mg / 250 mL (10 mg/mL)
+NDC 10019-670-10 BREVIBLOC PREMIXED Injection Esmolol Hydrochloride in Sodium Chloride 2,500 mg/250 mL (10 mg/mL)
 
 250 mL
 
-Iso-Osmotic No Preservative Added Single Intravenous Use Only
+Iso-Osmotic No Preservative Added Single Intravenous Use Only EACH mL CONTAINS 10 mg ESMOLOL HYDROCHLORIDE USP 5.9 mg SODIUM CHLORIDE USP IN WATER FOR INJECTION USP BUFFERED WITH 2.8 mg SODIUM ACETATE TRIHYDRATE USP AND 0.546 mg GLACIAL ACETIC ACID USP pH ADJUSTED WITH SODIUM HYDROXIDE AND/OR HYDROCHLORIC ACID pH 5.0 (4.5-5.5) STERILE NONPYROGENIC USUAL DOSAGE SEE PACKAGE INSERT CAUTIONS CHECK FOR LEAKS BY SQUEEZING CONTAINER FIRMLY IF LEAKS ARE FOUND DISCARD AS STERILITY MAY BE IMPAIRED USE ONLY IF SOLUTION IS CLEAR COLORLESS TO LIGHT YELLOW DISCARD UNUSED PORTION DO NOT INTRODUCE ADDITIVES MUST NOT BE USED IN SERIES CONNECTIONS
 
-Each mL contains 10 mg Esmolol Hydrochloride USP, 5.9 mg Sodium Chloride USP in Water for Injection USP.
-Buffered with 2.8 mg Sodium Acetate Trihydrate USP, 0.546 mg Glacial Acetic Acid USP. pH adjusted with sodium hydroxide and/or hydrochloric acid. pH 5.0 (4.5 – 5.5).
+STORE AT 25°C (77°F) EXCURSIONS PERMITTED TO 15°-30°C (59°-86°F) [SEE USP CONTROLLED ROOM TEMPERATURE] PROTECT FROM FREEZING AVOID EXCESSIVE HEAT Rx only
 
-Rx only
+MANUFACTURED BY BAXTER LOGO PREMIER ProRx® USA
 
-Sterile, nonpyrogenic.
-USUAL DOSAGE: See package insert.
-CAUTIONS: After removing the overwrap, check for leaks by squeezing container firmly.
-If leaks are found, discard as sterility may be impaired.
-Use only if solution is clear colorless to light yellow.
-Discard unused portion.
-DO NOT INTRODUCE ADDITIVES.
-Must not be used in series connections.
-Store at 25ºC (77ºF).
-Excursions permitted to 15ºC-30ºC (59º-86ºF).
-[See USP Controlled Room Temperature.]
-PROTECT FROM FREEZING.
-Avoid excessive heat.
-
-PREMIERProRx® Baxter Logo Baxter Healthcare Corporation Deerfield, IL 60015 USA For Product Inquiry 1 800 ANA DRUG (1-800-262-3784)
-
-Made in USA IntraVia Container Baxter, Brevibloc Premixed and IntraVia are trademarks of Baxter International Inc. PREMIERProRx® is a registered trademark of premier Healthcare Alliance, L.P., used under license
-
-2J1419 07-07-00-0067 2017/11
-
-BAR CODE POSITION ONLY 310019670102
+INTRAVIA CONTAINER 460-327-02 2J1419 FOR PRODUCT INQUIRY 1 800 ANA DRUG (1-800-262-3784)
 
 10 x 250 mL Single Use INTRAVIA containers BREVIBLOC PREMIXED Injection
 
@@ -87,47 +59,17 @@ Made in USA
 
 EXP LOT
 
-TO OPEN – TEAR NOTCH
+LOT EXP
 
-Do not remove unit from overwrap until ready to use.
-Do not use if overwrap has been previously opened or damaged.
-The overwrap is a moisture barrier.
-The inner bag maintains the sterility of the product.
+NDC 10019-666-10 BREVIBLOC PREMIXED Double Strength Injection Esmolol Hydrochloride in Sodium Chloride 2,000 mg/100 mL (20 mg/mL)
 
-NDC 10019-666-10
+100 mL Iso-Osmotic No Preservative Added Single Intravenous Use Only EACH mL CONTAINS 20 mg ESMOLOL HYDROCHLORIDE USP 4.1 mg SODIUM CHLORIDE USP IN WATER FOR INJECTION USP BUFFERED WITH 2.8 mg SODIUM ACETATE TRIHYDRATE USP AND 0.546 mg GLACIAL ACETIC ACID USP pH ADJUSTED WITH SODIUM HYDROXIDE AND/OR HYDROCHLORIC ACID pH 5.0 (4.5-5.5) STERILE NONPYROGENIC USUAL DOSAGE SEE PACKAGE INSERT CAUTIONS CHECK FOR LEAKS BY SQUEEZING CONTAINER FIRMLY IF LEAKS ARE FOUND DISCARD AS STERILITY MAY BE IMPAIRED USE ONLY IF SOLUTION IS CLEAR COLORLESS TO LIGHT YELLOW DISCARD UNUSED PORTION DO NOT INTRODUCE ADDITIVES MUST NOT BE USED IN SERIES CONNECTIONS
 
-BREVIBLOC PREMIXED Double Strenth Injection Esmolol Hydrochloride in Sodium Chloride 2,000 mg / 100 mL (20 mg/mL)
+STORE AT 25°C (77°F) EXCURSIONS PERMITTED TO 15°-30°C (59°-86°F) [SEE USP CONTROLLED ROOM TEMPERATURE] PROTECT FROM FREEZING AVOID EXCESSIVE HEAT Rx only
 
-100 mL
+MANUFACTURED BY BAXTER LOGO USA
 
-Iso-Osmotic No Preservative Added Single Intravenous Use Only
-
-Each mL contains 20 mg Esmolol Hydrochloride USP, 4.1 mg Sodium Chloride USP in Water for Injection USP.
-Buffered with 2.8 mg Sodium Acetate Trihydrate USP, 0.546 mg Glacial Acetic Acid USP. pH adjusted with sodium hydroxide and/or hydrochloric acid. pH 5.0 (4.5 – 5.5).
-
-Rx only
-
-Sterile, nonpyrogenic.
-USUAL DOSAGE: See package insert.
-CAUTIONS: After removing the overwrap, check for leaks by squeezing container firmly.
-If leaks are found, discard as sterility may be impaired.
-Use only if solution is clear colorless to light yellow.
-Discard unused portion.
-DO NOT INTRODUCE ADDITIVES.
-Must not be used in series connections.
-Store at 25ºC (77ºF).
-Excursions permitted to 15ºC-30ºC (59º-86ºF).
-[See USP Controlled Room Temperature.]
-PROTECT FROM FREEZING.
-Avoid excessive heat.
-
-PREMIERProRx® Baxter Logo Baxter Healthcare Corporation Deerfield, IL 60015 USA For Product Inquiry 1 800 ANA DRUG (1-800-262-3784)
-
-Made in USA IntraVia Container Baxter, Brevibloc Premixed and IntraVia are trademarks of Baxter International Inc. PREMIERProRx® is a registered trademark of premier Healthcare Alliance, L.P., used under license
-
-2J1420 07-07-00-0066 2017/11
-
-BAR CODE POSITION ONLY 310019666105
+PREMIER ProRx® 460-324-01 2J1420
 
 10 x 100 mL Single Use INTRAVIA containers BREVIBLOC PREMIXED Double Strength Injection
 
