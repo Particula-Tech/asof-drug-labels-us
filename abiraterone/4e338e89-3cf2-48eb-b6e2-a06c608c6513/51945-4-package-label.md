@@ -1,4 +1,4 @@
-# PRINCIPAL DISPLAY PANEL - 250 mg Tablet Bottle Label - 150–12
+# PRINCIPAL DISPLAY PANEL - 250 mg Tablet Bottle Label
 
 NDC 57894-150–12
 
@@ -14,25 +14,7 @@ Rx only 120 TABLETS
 
 2000009183
 
-# PRINCIPAL DISPLAY PANEL - 250 mg Tablet Bottle Label - 184-12
-
-120 film-coated tablets
-
-NDC 57894-184-12
-
-Zytiga® 250mg
-
-(abiraterone acetate) Tablets
-
-Each film-coated tablet contains 250 mg of abiraterone acetate.
-
-Rx only
-
-janssen
-
-2000008001
-
-# PRINCIPAL DISPLAY PANEL - 500 mg Bottle Label
+# PRINCIPAL DISPLAY PANEL - 500 mg Tablet Bottle Label
 
 60 film-coated tablets
 
