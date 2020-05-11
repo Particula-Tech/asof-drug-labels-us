@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA203543"
+  ],
+  "inn": "ammonia-n-13",
+  "labeler": "SOFIE Co. dba SOFIE",
+  "package_ndcs": [
+    "49609-003-01"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "ammonia n-13",
+      "name": "Ammonia"
+    }
+  ],
+  "setid": "85882893-0661-46c2-a5f2-a73f6ea4fb5a",
+  "source": "dailymed"
+}
