@@ -2,16 +2,18 @@
 
 ## 16.1 How Supplied
 
-Nicardipine hydrochloride Injection for intravenous use after dilution, is supplied in 10 mL single dose vials and are available in cartons of 10 as follows:
+niCARdipine Hydrochloride Injection, USP is available in packages of 10 vials of 10 mL as follows:
 
-25 mg/10 mL (2.5 mg/mL) - NDC 0517-0735-10
+25 mg/10 mL (2.5 mg/mL), NDC 0517-0735-10
 
 ## 16.2 Storage and Handling
 
 Store at controlled room temperature 20° to 25°C (68° to 77°F), refer to USP Controlled Room Temperature.
 
-Protect from freezing.
-Avoid excessive heat.
-Protect from light, store in carton until ready to use.
+Freezing does not adversely affect the product, but avoid exposure to elevated temperatures.
+Protect from light.
+Store vials in carton until used.
 
 AMERICAN REGENT, INC. SHIRLEY, NY 11967
+
+RQ1087-A

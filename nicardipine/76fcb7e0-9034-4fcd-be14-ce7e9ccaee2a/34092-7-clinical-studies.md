@@ -1,6 +1,6 @@
 # 14. CLINICAL STUDIES
 
-Effects In Hypertension
+Effects in Hypertension
 
 In patients with mild to moderate chronic stable essential hypertension, nicardipine hydrochloride injection (0.5 to 4 mg/hr) produced dose-dependent decreases in blood pressure.
 At the end of a 48-hour infusion at 4 mg/hr, the decreases were 26 mmHg (17%) in systolic blood pressure and 20.7 mmHg (20%) in diastolic blood pressure.

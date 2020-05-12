@@ -10,9 +10,11 @@ Adverse experiences were generally not serious and most were expected consequenc
 Adverse experiences occasionally required dosage adjustment.
 Therapy was discontinued in approximately 12% of patients, mainly due to hypotension, headache, and tachycardia.
 
-The table below shows percentage of patients with adverse events where the rate is >3% more common on nicardipine hydrochloride injection than placebo.
+Table 2 shows percentage of patients with adverse reactions where the rate is >3% more common on nicardipine hydrochloride injection than placebo.
 
-| Adverse Event | Nicardipine Hydrochloride Injection (N=144) | Placebo (N=100) |
+Table 2: Adverse Reactions
+
+| Adverse Event | Nicardipine Hydrochloride Injection (n=144) | Placebo (n=100) |
 | --- | --- | --- |
 | Body as a Whole |  |  |
 | Headache, n (%) | 21 (15) | 2 (2) |
@@ -26,7 +28,7 @@ Other adverse events have been reported in clinical trials or in the literature 
 
 Sinus node dysfunction and myocardial infarction, which may be due to disease progression, have been seen in patients on chronic therapy with orally administered nicardipine.
 
-## 6.2 Post-Marketing and Other Clinical Experience
+## 6.2 Postmarketing
 
 Because adverse reactions are reported voluntarily from a population of uncertain size, it is not always possible to estimate reliably their frequency or to establish a causal relationship to drug exposure.
 The following adverse reaction has been identified during post-approval use of nicardipine hydrochloride injection: decreased oxygen saturation (possible pulmonary shunting).

@@ -2,6 +2,8 @@
 
 ## 8.1 Pregnancy
 
+Pregnancy Category C
+
 There are no adequate and well-controlled studies of nicardipine use in pregnant women.
 However, limited human data in pregnant women with preeclampsia or pre-term labor are available.
 In animal studies, no embryotoxicity occurred in rats with oral doses 8 times the maximum recommended human dose (MRHD) based on body surface area (mg/m2), but did occur in rabbits with oral doses at 24 times the maximum recommended human dose (MRHD) based on body surface area (mg/m2).
@@ -12,7 +14,7 @@ Fetal safety results ranged from transient fetal heart rate decelerations to no 
 Neonatal safety data ranged from hypotension to no adverse events.
 
 Adverse events in women treated with intravenous nicardipine during pre-term labor include pulmonary edema, dyspnea, hypoxia, hypotension, tachycardia, headache, and phlebitis at site of injection.
-Neonatal adverse events include acidosis (pH<7.25).
+Neonatal adverse event includes acidosis (pH<7.25).
 
 In embryofetal toxicity studies, nicardipine was administered intravenously to pregnant rats and rabbits during organogenesis at doses up to 0.14 times the MRHD based on body surface area (mg/m2) (5 mg/kg/day) (rats) and 0.03 times the MRHD based on body surface area (mg/m2) (0.5 mg/kg/day) (rabbits).
 No embryotoxicity or teratogenicity was seen at these doses.
@@ -35,7 +37,7 @@ In a study of 11 women who received oral nicardipine 4 to 14 days postpartum, 4 
 The peak milk concentration was 7.3 mcg/L (range 1.9 to 18.8), and the mean milk concentration was 4.4 mcg/L (range 1.3 to 13.8).
 Infants received an average of 0.073% of the weight-adjusted maternal oral dose and 0.14% of the weight-adjusted maternal intravenous dose.
 
-In another study of seven women who received intravenous nicardipine for an average of 1.9 days in the immediate postpartum period as therapy for preeclampsia, 34 milk samples were obtained at unspecified times and nicardipine was undetectable (<5 mcg/L) in 82% of the samples.
+In another study of seven women who received intravenous nicardipine for an average of 1.9 days in the immediate postpartum period as therapy for pre-eclampsia, 34 milk samples were obtained at unspecified times and nicardipine was undetectable (<5 mcg/L) in 82% of the samples.
 Four women who received 1 to 6.5 mg/hour of nicardipine had 6 milk samples with detectable nicardipine levels (range 5.1 to 18.5 mcg/L).
 The highest concentration of 18.5 mcg/L was found in a woman who received 5.5 mg/hour of nicardipine.
 The estimated maximum dose in a breastfed infant was < 0.3 mcg daily or between 0.015 to 0.004% of the therapeutic dose in a 1 kg infant.

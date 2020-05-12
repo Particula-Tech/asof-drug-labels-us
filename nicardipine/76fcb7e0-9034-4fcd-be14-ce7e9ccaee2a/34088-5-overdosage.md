@@ -1,10 +1,10 @@
 # 10. OVERDOSAGE
 
 Several overdosages with orally administered nicardipine have been reported.
-One adult patient allegedly ingested 600 mg of immediate-release oral nicardipine, and another patient, 2160 mg of the sustained-release formulation of nicardipine.
+One adult patient allegedly ingested 600 mg of immediate-release oral nicardipine, and another patient ingested 2160 mg of the sustained-release formulation of nicardipine.
 Symptoms included marked hypotension, bradycardia, palpitations, flushing, drowsiness, confusion and slurred speech.
 All symptoms resolved without sequelae.
-An overdosage occurred in a one year old child who ingested half of the powder in a 30 mg nicardipine standard capsule.
+An overdosage occurred in a one-year-old child who ingested half of the powder in a 30 mg nicardipine standard capsule.
 The child remained asymptomatic.
 
 Based on results obtained in laboratory animals, lethal overdose may cause systemic hypotension, bradycardia (following initial tachycardia) and progressive atrioventricular conduction block.

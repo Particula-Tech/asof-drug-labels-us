@@ -52,7 +52,7 @@ The relative and effective refractory periods of the His-Purkinje system were sl
 Hepatic Function
 
 Because the liver extensively metabolizes nicardipine, plasma concentrations are influenced by changes in hepatic function.
-In a clinical study with oral nicardipine in patients with severe liver disease, plasma concentrations were elevated and the half-life was prolonged [see Warnings and Precautions (5.4)].
+In a clinical study with oral nicardipine in patients with severe liver disease, plasma concentrations were elevated and the half-life was prolonged [see Warnings and Precautions (5.3].
 Similar results were obtained in patients with hepatic disease when nicardipine hydrochloride injection was administered for 24 hours at 0.6 mg/hr.
 
 Renal Function
@@ -62,7 +62,7 @@ No significant differences in liver blood flow were observed in these patients.
 A significantly lower systemic clearance and higher area under the curve (AUC) were observed.
 
 When oral nicardipine (20 mg or 30 mg TID) was given to hypertensive patients with impaired renal function, mean plasma concentrations, AUC, and Cmax were approximately two-fold higher than in healthy controls.
-There is a transient increase in electrolyte excretion, including sodium [see Warnings and Precautions (5.5)].
+There is a transient increase in electrolyte excretion, including sodium [see Warnings and Precautions (5.4)].
 
 Acute bolus administration of nicardipine hydrochloride injection (2.5 mg) in healthy volunteers decreased mean arterial pressure and renal vascular resistance; glomerular filtration rate (GFR), renal plasma flow (RPF), and the filtration fraction were unchanged.
 In healthy patients undergoing abdominal surgery, nicardipine hydrochloride injection (10 mg over 20 minutes) increased GFR with no change in RPF when compared with placebo.
@@ -91,8 +91,7 @@ The pharmacokinetics of nicardipine hydrochloride injection are linear over the 
 
 Metabolism and Excretion
 
-Nicardipine hydrochloride injection has been shown to be rapidly and extensively metabolized by the liver.
-Nicardipine does not induce or inhibit its own metabolism and does not induce or inhibit hepatic microsomal enzymes.
-
-After coadministration of a radioactive intravenous dose of nicardipine hydrochloride injection with an oral 30 mg dose given every 8 hours, 49% of the radioactivity was recovered in the urine and 43% in the feces within 96 hours.
-None of the dose was recovered as unchanged nicardipine.
+Nicardipine hydrochloride injection has been shown to be rapidly and extensively metabolized by the hepatic cytochrome P450 enzymes, CYP2C8, 2D6, and 3A4.
+Nicardipine does not induce or inhibit its own metabolism, however, nicardipine has been shown to inhibit certain cytochrome P450 enzymes (including CYP3A4, CYP2D6, CYP2C8, and CYP2C19).
+Inhibition of these enzymes may result in increased plasma levels of certain drugs, including cyclosporine and tacrolimus (7.3, 7.4).
+The altered pharmacokinetics may necessitate dosage adjustment of the affected drug or discontinuation of treatment.
