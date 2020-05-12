@@ -10,4 +10,4 @@ Rx only
 
 5 mL
 
-Bausch + Lomb
+BAUSCH + LOMB

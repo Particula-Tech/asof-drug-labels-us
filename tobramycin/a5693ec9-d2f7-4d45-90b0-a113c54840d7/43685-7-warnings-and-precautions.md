@@ -3,7 +3,7 @@
 FOR TOPICAL OPHTHALMIC USE ONLY - NOT FOR INJECTION INTO THE EYE
 
 Sensitivity to topically applied aminoglycosides may occur in some patients.
-If a sensitivity reaction to Tobramycin Ophthalmic Solution, USP 0.3% occurs, discontinue use.
+If a sensitivity reaction to Tobramycin Ophthalmic Solution, 0.3% occurs, discontinue use.
 
 # PRECAUTIONS
 
@@ -18,7 +18,7 @@ Patients should be advised not to wear contact lenses if they have signs and sym
 
 Do not touch dropper tip to any surface, as this may contaminate the solution.
 
-## Pregnancy Category B
+## Pregnancy
 
 Reproduction studies in three types of animals at doses up to thirty-three times the normal human systemic dose have revealed no evidence of impaired fertility or harm to the fetus due to tobramycin.
 There are, however, no adequate and well-controlled studies in pregnant women.
@@ -26,7 +26,7 @@ Because animal studies are not always predictive of human response, this drug sh
 
 ## Nursing Mothers
 
-Because of the potential for adverse reactions in nursing infants from Tobramycin Ophthalmic Solution, USP 0.3%, a decision should be made whether to discontinue nursing the infant or discontinue the drug, taking into account the importance of the drug to the mother.
+Because of the potential for adverse reactions in nursing infants from tobramycin, a decision should be made whether to discontinue nursing the infant or discontinue the drug, taking into account the importance of the drug to the mother.
 
 ## Pediatric Use
 
