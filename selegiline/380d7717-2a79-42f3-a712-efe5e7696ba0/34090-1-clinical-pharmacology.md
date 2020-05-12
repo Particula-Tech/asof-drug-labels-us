@@ -79,7 +79,7 @@ Following once-daily dosing of ZELAPAR 1.25 mg to steady-state (10 days) in 6 en
 Subjects with mild hepatic impairment (Child-Pugh score 5 to 6), received once-daily dosing of ZELAPAR 2.5 mg to selegiline until they attained steady-state (10 days).
 The AUC and Cmax of selegiline were 1.5-fold higher and the AUC and Cmax of the metabolite desmethylselegiline were 1.4-fold and 1.2-fold higher.
 In subjects with moderate hepatic impairment (Child-Pugh score 7 to 9), the AUC of selegiline and desmethylselegiline increased 1.5-fold and 1.8-fold, respectively, whereas the Cmax of selegiline and desmethylselegiline were comparable to healthy subjects.
-Patients with severe hepatic impairment (Child-Pugh score >9) had a 4-fold increased AUC of selegiline, 3-fold increased Cmax of selegiline, a 1.25-fold increased AUC of desmethylselegiline and 50% reduced Cmax of desmethylselegeline.
+Patients with severe hepatic impairment (Child-Pugh score >9) had a 4-fold increased AUC of selegiline, 3-fold increased Cmax of selegiline, a 1.25-fold increased AUC of desmethylselegiline and 50% reduced Cmax of desmethylselegiline.
 Methamphetamine and amphetamine metabolite AUC values were not affected by liver dysfunction [see Dosage and Administration (2.2) and Use in Specific Populations (8.6)].
 
 #### Drug Interactions:

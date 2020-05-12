@@ -1,6 +1,6 @@
 # 6 ADVERSE REACTIONS
 
-The following adverse reactions are discussed in more detail in the Warnings and Precautions section of labeling.
+The following adverse reactions are discussed in more detail in the Warnings and Precautions section of labeling:
 
 - •Risk for Hypertension [see Warnings and Precautions (5.1)]
 - •Risk of Serotonin Syndrome [see Warnings and Precautions (5.2)]
@@ -8,7 +8,7 @@ The following adverse reactions are discussed in more detail in the Warnings and
 - •Hypotension/Orthostatic Hypotension [see Warnings and Precautions (5.4)]
 - •Dyskinesia [see Warnings and Precautions (5.5)]
 - •Hallucinations/Psychotic-Like Behavior [see Warnings and Precautions (5.6)]
-- •Impulse Control / Compulsive Behaviors [see Warnings and Precautions (5.7)]
+- •Impulse Control/Compulsive Behaviors [see Warnings and Precautions (5.7)]
 - •Withdrawal Emergent Hyperpyrexia and Confusion [see Warnings and Precautions (5.8)]
 - •Melanoma [see Warnings and Precautions (5.9)]
 - •Irritation of the Buccal Mucosa [see Warnings and Precautions (5.10)]

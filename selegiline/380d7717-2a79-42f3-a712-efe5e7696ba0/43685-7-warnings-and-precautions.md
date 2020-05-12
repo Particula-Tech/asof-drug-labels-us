@@ -46,7 +46,7 @@ It has been reported that falling asleep while engaged in activities of daily li
 For this reason, prescribers should reassess patients for drowsiness or sleepiness especially since some of the events occur well after the start of treatment.
 
 Somnolence may occur in patients receiving ZELAPAR.
-There was an increased risk for somnolence in geriatric patients (≥65 years) vs non-geriatric patients treated with ZELAPAR.
+There was an increased risk for somnolence in geriatric patients (≥65 years) vs. non-geriatric patients treated with ZELAPAR.
 Prescribers should also be aware that patients may not acknowledge drowsiness or sleepiness until directly questioned about drowsiness or sleepiness during specific activities.
 Patients should be advised to exercise caution while driving, operating machines, or working at heights during treatment with ZELAPAR.
 Patients who have already experienced somnolence and/or an episode of sudden sleep onset should not participate in these activities during treatment with ZELAPAR.
@@ -62,7 +62,7 @@ Assessments of orthostatic (supine and standing) blood pressures at different ti
 Patients taking ZELAPAR were most likely to experience a decline in systolic and diastolic blood pressure at 8 weeks (2 weeks after initiating 2.5 mg ZELAPAR).
 At that time, the incidence of systolic orthostatic hypotension was about 21% in ZELAPAR-treated patients and 9% in placebo-treated patients.
 The incidence of diastolic orthostatic hypotension was about 12% in ZELAPAR-treated patients and about 4% in placebo-treated patients.
-Thus, it appears that there may be an increased risk for orthostatic hypotension in the period after increasing the daily dose of ZELAPAR® from 1.25 to 2.5 mg.
+Thus, it appears that there may be an increased risk for orthostatic hypotension in the period after increasing the daily dose of ZELAPAR from 1.25 to 2.5 mg.
 
 The incidence of orthostatic hypotension was higher in geriatric patients (≥65 years) than in non-geriatric patients.
 In the geriatric patients, orthostatic hypotension occurred in about 3% of ZELAPAR-treated patients compared to 0% of placebo-treated patients.
@@ -79,14 +79,14 @@ The incidence of dyskinesia causing study discontinuation was greater on ZELAPAR
 In controlled trials, hallucination was reported by 4% of ZELAPAR-treated patients and 2% in placebo-treated patients.
 Hallucinations led to drug discontinuation and premature withdrawal from clinical trials in about 1% of ZELAPAR-treated patients, compared to no patient on placebo.
 
-Postmarketing reports indicate that patients may experience new or worsening mental status and behavioral changes, which may be severe, including psychotic-like behavior during ZELAPAR treatment or after starting or increasing the dose of ZELAPAR.
+Post-marketing reports indicate that patients may experience new or worsening mental status and behavioral changes, which may be severe, including psychotic-like behavior during ZELAPAR treatment or after starting or increasing the dose of ZELAPAR.
 Other drugs prescribed to improve the symptoms of Parkinson’s disease can have similar effects on thinking and behavior.
 This abnormal thinking and behavior can consist of one or more of a variety of manifestations including paranoid ideation, delusions, hallucinations, confusion, psychotic-like behavior, disorientation, aggressive behavior, agitation, and delirium.
 
 Patients with a major psychotic disorder should ordinarily not be treated with ZELAPAR because of the risk of exacerbating psychosis.
 In addition, certain medications used to treat psychosis may exacerbate the symptoms of Parkinson's disease and may decrease the effectiveness of ZELAPAR [see Drug Interactions (7.8)].
 
-## 5.7 Impulse Control / Compulsive Behaviors
+## 5.7 Impulse Control/Compulsive Behaviors
 
 Case reports suggest that patients can experience intense urges to gamble, increased sexual urges, intense urges to spend money, binge eating, and/or other intense urges, and the inability to control these urges while taking one or more of the medications, including ZELAPAR, that increase central dopaminergic tone and that are generally used for the treatment of Parkinson’s disease.
 In some cases, although not all, these urges were reported to have stopped when the dose was reduced or the medication was discontinued.

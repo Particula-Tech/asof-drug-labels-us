@@ -9,9 +9,9 @@ Since the selective inhibition of MAO-B by ZELAPAR is achieved only at doses in 
 Consequently, the signs and symptoms of overdose may resemble those observed with marketed non-selective MAO inhibitors [e.g., tranylcypromine (PARNATE®), isocarboxazid (MARPLAN®), and phenelzine (NARDIL®)].
 For this reason, in cases of overdose with selegiline, dietary tyramine restriction should be observed for several weeks to avoid the risk of a hypertensive reaction.
 
-## 10.2 Overdose with Non-Selective MAO Inhibitors
+## 10.2 Overdose with Non-selective MAO Inhibitors
 
-NOTE: The following description of presenting symptoms and clinical course is based upon overdose descriptions of nonselective MAO inhibitors and does not include information from patients who have overdosed on oral selegiline or ZELAPAR.
+NOTE: The following description of presenting symptoms and clinical course is based upon overdose descriptions of non-selective MAO inhibitors and does not include information from patients who have overdosed on oral selegiline or ZELAPAR.
 
 Characteristically, signs and symptoms of non-selective MAO inhibitor overdose may not appear immediately.
 Delays of up to 12 hours between ingestion of drug and the appearance of signs may occur.

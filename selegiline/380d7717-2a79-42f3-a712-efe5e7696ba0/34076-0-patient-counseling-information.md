@@ -1,6 +1,6 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-Hypertension and Non-Selective Inhibition of MAO Above the Recommended Dose
+Hypertension and Non-selective Inhibition of MAO Above the Recommended Dose
 
 Advise patients (or their caregivers) not to exceed the daily recommended dose of 2.5 mg.
 Explain the risk of using higher daily doses of ZELAPAR and provide a brief description of the hypertensive tyramine reaction provided.
@@ -83,5 +83,5 @@ How should I store ZELAPAR?
 - •Potency cannot be guaranteed after 3 months of opening the sachet pouch.
 - •Keep ZELAPAR and all medicines out of the reach of children.
 
-BLISTERS PACKS AND SACHET POUCHES ARE NOT CHILD-RESISTANT.
+BLISTER PACKS AND SACHET POUCHES ARE NOT CHILD-RESISTANT.
 THE CLEAR OUTER POUCH IS CHILD-RESISTANT.
