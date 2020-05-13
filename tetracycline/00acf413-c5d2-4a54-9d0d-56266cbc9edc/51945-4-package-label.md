@@ -6,9 +6,9 @@ Tetracycline HCl Capsules, USP
 
 250 mg
 
-Breckenridge Pharmaceutical, Inc.
-
 Rx Only 100 Capsules
+
+breckenridge A Towa Company
 
 # PRINCIPAL DISPLAY PANEL - 500 mg Capsule Bottle Label
 
@@ -18,6 +18,6 @@ Tetracycline HCl Capsules, USP
 
 500 mg
 
-Breckenridge Pharmaceutical, Inc.
-
 Rx Only 100 Capsules
+
+breckenridge A Towa Company
