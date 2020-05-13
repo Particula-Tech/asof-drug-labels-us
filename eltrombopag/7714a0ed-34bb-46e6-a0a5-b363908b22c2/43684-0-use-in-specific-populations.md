@@ -85,5 +85,5 @@ No dosage adjustment is recommended in patients with chronic hepatitis C and hep
 
 ## 8.7 Ethnicity
 
-Reduce the initial dose of PROMACTA for patients of Asian ancestry (such as Chinese, Japanese, Taiwanese, or Korean) with ITP (adult and pediatric patients 6 years and older only) or severe aplastic anemia [see Dosage and Administration (2.1, 2.3), Clinical Pharmacology (12.3)].
+Reduce the initial dose of PROMACTA for patients of Asian ancestry (such as Chinese, Japanese, Taiwanese, Korean, or Thai) with ITP (adult and pediatric patients 6 years and older only) or severe aplastic anemia [see Dosage and Administration (2.1, 2.3), Clinical Pharmacology (12.3)].
 No reduction in the initial dose of PROMACTA is recommended in patients of Asian ethnicity with chronic hepatitis C [see Clinical Pharmacology (12.3)].

@@ -28,7 +28,9 @@ Oral absorption of drug-related material following administration of a single 75
 Effect of Food
 
 A standard high-fat breakfast (876 calories, 52 g fat, 71 g carbohydrate, 34 g protein, and 427 mg calcium) significantly decreased plasma eltrombopag AUC0-INF by approximately 59% and Cmax by 65% and delayed Tmax by 1 hour.
-The calcium content of this meal may have also contributed to this decrease in exposure.
+The decrease in exposure is primarily due to the high calcium content.
+
+A meal low in calcium (≤ 50 mg calcium) did not significantly impact plasma eltrombopag exposure, regardless of calorie and fat content.
 
 The effect of administration of a single 25-mg dose of eltrombopag for oral suspension with a high-calcium, moderate-fat, moderate calorie meal on AUC0-INF and Cmax in healthy adult subjects is presented in Table 14.
 
@@ -52,7 +54,7 @@ Elimination
 
 The plasma elimination half-life of eltrombopag is approximately 21 to 32 hours in healthy subjects and 26 to 35 hours in patients with ITP.
 
-Metabolism: Absorbed eltrombopag is extensively metabolized, predominantly through pathways including cleavage, oxidation, and conjugation with glucuronic acid, glutathione, or cysteine.
+Metabolism: Absorbed eltrombopag is extensively metabolized, predominantly through pathways, including cleavage, oxidation, and conjugation with glucuronic acid, glutathione, or cysteine.
 In vitro studies suggest that CYP1A2 and CYP2C8 are responsible for the oxidative metabolism of eltrombopag.
 UGT1A1 and UGT1A3 are responsible for the glucuronidation of eltrombopag.
 
@@ -63,7 +65,7 @@ Specific Populations
 
 Ethnicity
 
-Eltrombopag concentrations in Asian (i.e., Japanese, Chinese, Taiwanese, Korean) patients with ITP or chronic hepatitis C, were 50% to 55% higher compared with non-Asian subjects [see Dosage and Administration (2.1, 2.3)].
+Eltrombopag concentrations in Asian (i.e., Japanese, Chinese, Taiwanese, Korean, or Thai) patients with ITP or chronic hepatitis C, were 50% to 55% higher compared with non-Asian subjects [see Dosage and Administration (2.1, 2.3)].
 
 Eltrombopag exposure in healthy African-American subjects was approximately 40% higher than that observed in Caucasian subjects in one clinical pharmacology trial and similar in three other clinical pharmacology trials.
 The effect of African-American ethnicity on exposure and related safety and efficacy of eltrombopag has not been established.
@@ -89,7 +91,7 @@ This clinical trial did not evaluate protein-binding effects.
 
 Renal Impairment
 
-Following a single dose of PROMACTA (50 mg), the average total plasma eltrombopag AUC0-INF was 32% to 36% lower in subjects with mild (estimated creatinine clearance (CLCr) by Cockcroft - Gault equation: 50 to 80 mL/min), to moderate (CLCr of 30 to 49 mL/min) renal impairment and 60% lower in subjects with severe (CLCr less than 30 mL/min) renal impairment compared with healthy subjects.
+Following a single dose of PROMACTA (50 mg), the average total plasma eltrombopag AUC0-INF was 32% to 36% lower in subjects with mild (estimated creatinine clearance (CLCr) by Cockcroft-Gault equation: 50 to 80 mL/min), to moderate (CLCr of 30 to 49 mL/min) renal impairment and 60% lower in subjects with severe (CLCr less than 30 mL/min) renal impairment compared with healthy subjects.
 The effect of renal impairment on unbound (active) eltrombopag exposure has not been assessed.
 
 Pediatric Patients

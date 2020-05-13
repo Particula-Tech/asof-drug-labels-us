@@ -36,9 +36,9 @@ First-Line Treatment of Severe Aplastic Anemia
 Measure ALT, AST, and bilirubin prior to initiation of PROMACTA, every other day while hospitalized for h-ATG therapy, and then every 2 weeks during treatment.
 During treatment, manage increases in ALT or AST levels as recommended in Table 6.
 
-## 5.3 Increased Risk of Death and Progression of Myelodysplastic Syndromes (MDS) to Acute Myeloid Leukemia (AML)
+## 5.3 Increased Risk of Death and Progression of Myelodysplastic Syndromes to Acute Myeloid Leukemia
 
-A randomized, double-blind, placebo-controlled, multicenter trial in patients with International Prognostic Scoring System (IPSS) intermediate-1, intermediate-2 or high risk myelodysplastic syndromes (MDS) with thrombocytopenia, receiving azacitidine in combination with either PROMACTA (n = 179) or placebo (n = 177) was terminated due to lack of efficacy and safety reasons, including increased progression to Acute Myeloid Leukemia (AML).
+A randomized, double-blind, placebo-controlled, multicenter trial in patients with International Prognostic Scoring System (IPSS) intermediate-1, intermediate-2 or high risk MDS with thrombocytopenia, receiving azacitidine in combination with either PROMACTA (n = 179) or placebo (n = 177) was terminated due to lack of efficacy and safety reasons, including increased progression to acute myeloid leukemia (AML).
 Patients received PROMACTA or placebo at a starting dose of 200 mg once daily, up to a maximum of 300 mg once daily, in combination with azacitidine for at least six cycles.
 The incidence of death (overall survival) was 32% (57/179) in the PROMACTA arm versus 29% (51/177) in the placebo arm (HR [95% CI] = 1.42 [0.97, 2.08], showing an increased relative risk of death in this trial by 42% in the PROMACTA arm).
 The incidence of progression to AML was 12% (21/179) in the PROMACTA arm versus 6% (10/177) in the placebo arm (HR [95% CI] = 2.66 [1.31, 5.41], showing an increased relative risk of progression to AML in this trial by 166% in the PROMACTA arm).

@@ -1,6 +1,6 @@
 # 6 ADVERSE REACTIONS
 
-The following serious adverse reactions associated with PROMACTA are described in other sections.
+The following clinically significant adverse reactions associated with PROMACTA are described in other sections.
 
 - Hepatic Decompensation in Patients with Chronic Hepatitis C [see Warnings and Precautions (5.1)]
 - Hepatotoxicity [see Warnings and Precautions (5.2)]
@@ -67,7 +67,7 @@ Eight of these patients again experienced liver test abnormalities (less than or
 In the extension chronic ITP trial, six additional patients had PROMACTA discontinued due to liver test abnormalities (less than or equal to Grade 3).
 
 In the three controlled chronic ITP trials, cataracts developed or worsened in 7% of patients treated with PROMACTA and 7% of patients in the placebo group.
-All patients had documented, preexisting risk factors for cataractogenesis including corticosteroid use.
+All patients had documented, preexisting risk factors for cataractogenesis, including corticosteroid use.
 In the extension trial, cataracts developed or worsened in 11% of patients who underwent ocular examination prior to therapy with PROMACTA.
 Seventy-two percent of patients had preexisting risk factors, including corticosteroid use.
 
@@ -155,7 +155,7 @@ The median duration of exposure to PROMACTA in this cohort was 183 days with 70%
 Table 12 presents the most common adverse reactions (experienced by greater than or equal to 5% of patients) associated with PROMACTA in the D1-M6 cohort.
 
 Table 12.
-Adverse Reactions (≥ 5%) From One Open-label Trial in First-line Treatment of Patients With Severe Aplastic Anemia
+Adverse Reactions (≥ 5%) From One Open-label Trial in First-Line Treatment of Patients With Severe Aplastic Anemia
 
 | Adverse Reaction | PROMACTA n = 92 (%) |
 | --- | --- |
@@ -163,11 +163,11 @@ Adverse Reactions (≥ 5%) From One Open-label Trial in First-line Treatment of 
 | AST increased | 17 |
 | Blood bilirubin increased | 17 |
 | Rash | 8 |
-| Skin discoloration including hyperpigmentation | 5 |
+| Skin discoloration, including hyperpigmentation | 5 |
 
 In the PROMACTA D1-M6 cohort, ALT increased (29%), AST increased (17%), and blood bilirubin increased (17%) were reported more frequently than in patients with refractory severe aplastic anemia (see Table 13).
 
-New or worsening liver function laboratory abnormalities (CTCAE Grade 3 and Grade 4) in the Promacta D1-M6 cohort were 15% and 2% for AST, 26% and 4% for ALT, and 12% and 1% for bilirubin, respectively.
+New or worsening liver function laboratory abnormalities (CTCAE Grade 3 and Grade 4) in the PROMACTA D1-M6 cohort were 15% and 2% for AST, 26% and 4% for ALT, and 12% and 1% for bilirubin, respectively.
 
 In this single-arm open-label clinical trial, ALT or AST > 3 x ULN with total bilirubin > 1.5 x ULN and ALT or AST > 3 x ULN with total bilirubin > 2 x ULN were reported in 44% and 32% of patients, respectively, in the PROMACTA D1-M6 cohort.
 
@@ -224,4 +224,4 @@ Eight patients had a new cytogenetic abnormality reported on therapy, including 
 The following adverse reactions have been identified during post approval use of PROMACTA.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate the frequency or establish a causal relationship to drug exposure.
 
-Skin and Subcutaneous Tissue Disorders: Skin discoloration including hyperpigmentation and skin yellowing.
+Skin and Subcutaneous Tissue Disorders: Skin discoloration, including hyperpigmentation and skin yellowing.

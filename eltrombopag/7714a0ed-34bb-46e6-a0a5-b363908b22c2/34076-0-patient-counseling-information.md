@@ -33,7 +33,7 @@ Cataracts
 
 Drug Interactions
 
-- Advise patients to take PROMACTA at least 2 hours before or 4 hours after foods, mineral supplements, and antacids which contain polyvalent cations such as iron, calcium, aluminum, magnesium, selenium, and zinc [see Dosage and Administration (2.4), Drug Interactions (7.1)].
+- Advise patients to take PROMACTA at least 2 hours before or 4 hours after calcium-rich foods, mineral supplements, and antacids which contain polyvalent cations, such as iron, calcium, aluminum, magnesium, selenium, and zinc [see Dosage and Administration (2.4), Drug Interactions (7.1)].
 
 Lactation
 
@@ -43,6 +43,15 @@ Administration of PROMACTA
 
 - For patients with chronic ITP, therapy with PROMACTA is administered to achieve and maintain a platelet count greater than or equal to 50 x 109/L as necessary to reduce the risk for bleeding [see Indications and Usage (1.1)].
 - For patients with chronic hepatitis C, therapy with PROMACTA is administered to achieve and maintain a platelet count necessary to initiate and maintain antiviral therapy with pegylated interferon and ribavirin [see Indications and Usage (1.2)].
+  - Advise patients to take PROMACTA without a meal or with a meal low in calcium (≤ 50 mg) and at least 2 hours before or 4 hours after other medications (e.g., antacids) and calcium-rich foods [see Dosage and Administration (2.4)].
 - Prior to use of the oral suspension, ensure patients or caregivers receive training on proper dosing, preparation, and administration [see Dosage and Administration (2.4)].
 - Inform patients or caregivers how many packets to administer to get the full dose [see Instructions for Use].
 - Inform patients or caregivers to use a new oral dosing syringe to prepare each dose of PROMACTA for oral suspension [see Instructions for Use].
+
+The following are registered trademarks of their respective owners: PEGASYS/Hoffmann-La Roche Inc.; PEGINTRON/Schering Corporation.
+
+Distributed by: Novartis Pharmaceuticals Corporation East Hanover, New Jersey 07936
+
+© Novartis
+
+T2020-59

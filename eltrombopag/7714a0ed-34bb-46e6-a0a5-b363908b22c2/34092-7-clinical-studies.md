@@ -162,7 +162,7 @@ The improvement in the proportion of patients who achieved SVR was consistent ac
 In patients with high baseline viral loads (greater than or equal to 800,000), the SVR rate was 18% (82/452) for PROMACTA versus 8% (20/239) for placebo.
 
 Table 20.
-ENABLE1 and ENABLE2: Sustained Virologic Response (SVR) in Adults with Chronic Hepatitis C
+ENABLE1 and ENABLE2: Sustained Virologic Response (SVR) in Adults With Chronic Hepatitis C
 
 |  | ENABLE1a |  | ENABLE2b |  |
 | --- | --- | --- | --- | --- |
@@ -206,17 +206,17 @@ Dosages of Immunosuppressive Therapy Administered With PROMACTA in Study US01T
 | Cyclosporine (maintenance dose, from Month 6 to Month 24) | For patients who achieve a hematologic response at 6 months2 mg/kg/day administered orally at a fixed dose for an additional 18 months |
 | aDose of cyclosporine was adjusted to achieve the above recommended target trough levels; refer to the appropriate cyclosporine prescribing information. bCalculated as the midpoint between the ideal body weight and actual body weight. |  |
 
-In the PROMACTA D1-M6 cohort, the median age was 28 years (range 5 to 82 years) with 16% and 28% of patients ≥ 65 years of age and < 17 years of age, respectively.
+In the PROMACTA D1-M6 cohort, the median age was 28 years (range, 5 to 82 years) with 16% and 28% of patients ≥ 65 years of age and < 17 years of age, respectively.
 Forty-six percent of patients were male and the majority of patients were White (62%).
 Patients weighing 12 kg or less or patients with ALT or AST > 5x upper limit of normal were excluded from the trial.
 
 The efficacy of PROMACTA in combination with h-ATG and cyclosporine was established on the basis of complete hematological response at 6 months.
-A complete response was defined as hematological parameters meeting all 3 of the following values on 2 consecutive serial blood count measurements at least one week apart: absolute neutrophil count (ANC) > 1,000/mcL, platelet count > 100 x 109/L and hemoglobin > 10 g/dL.
+A complete response was defined as hematological parameters meeting all 3 of the following values on 2 consecutive serial blood count measurements at least one week apart: absolute neutrophil count (ANC) > 1000/mcL, platelet count > 100 x 109/L and hemoglobin > 10 g/dL.
 A partial response was defined as blood counts no longer meeting the standard criteria for severe pancytopenia in severe aplastic anemia equivalent to 2 of the following values on 2 consecutive serial blood count measurements at least one week apart: ANC > 500/mcL, platelet count > 20 x 109/L, or reticulocyte count > 60,000/mcL.
 Overall response rate is defined as the number of partial responses plus complete responses.
 
 Table 22.
-Study US01T: Hematologic Response in First-Line Treatment of Patients with Severe Aplastic Anemia
+Study US01T: Hematologic Response in First-Line Treatment of Patients With Severe Aplastic Anemia
 
 |  | PROMACTA D1-M6 + h-ATG + cyclosporine n = 92 |
 | --- | --- |
@@ -243,16 +243,16 @@ Hematologic response was defined as meeting 1 or more of the following criteria:
 PROMACTA was discontinued after 16 weeks if no hematologic response was observed.
 Patients who responded continued therapy in an extension phase of the trial.
 
-The treated population had median age of 45 years (range: 17 to 77 years) and 56% were male.
+The treated population had median age of 45 years (range, 17 to 77 years) and 56% were male.
 At baseline, the median platelet count was 20 x 109/L, hemoglobin was 8.4 g/dL, ANC was 0.58 x 109/L, and absolute reticulocyte count was 24.3 x 109/L.
-Eighty-six percent of patients were RBC transfusion dependent and 91% were platelet transfusion dependent.
+Eighty-six percent of patients were red blood cell (RBC) transfusion dependent and 91% were platelet transfusion dependent.
 The majority of patients (84%) received at least 2 prior immunosuppressive therapies.
 Three patients had cytogenetic abnormalities at baseline.
 
 Table 23 presents the efficacy results.
 
 Table 23.
-Study US28T: Hematologic Response in Patients with Refractory Severe Aplastic Anemia
+Study US28T: Hematologic Response in Patients With Refractory Severe Aplastic Anemia
 
 | Outcome | PROMACTAn = 43 |
 | --- | --- |
@@ -262,4 +262,4 @@ Study US28T: Hematologic Response in Patients with Refractory Severe Aplastic An
 
 In the 17 responders, the platelet transfusion-free period ranged from 8 to 1096 days with a median of 200 days, and the RBC transfusion-free period ranged from 15 to 1082 days with a median of 208 days.
 
-In the extension phase, 8 patients achieved a multi-lineage response; 4 of these patients subsequently tapered off treatment with PROMACTA and maintained the response (median follow up: 8.1 months, range: 7.2 to 10.6 months).
+In the extension phase, 8 patients achieved a multi-lineage response; 4 of these patients subsequently tapered off treatment with PROMACTA and maintained the response (median follow up: 8.1 months, range, 7.2 to 10.6 months).

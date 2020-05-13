@@ -7,7 +7,7 @@ Dose adjustments are based upon the platelet count response.
 Do not use PROMACTA to normalize platelet counts [see Warnings and Precautions (5.4)].
 In clinical trials, platelet counts generally increased within 1 to 2 weeks after starting PROMACTA and decreased within 1 to 2 weeks after discontinuing PROMACTA [see Clinical Studies (14.1)].
 
-Initial Dose Regimen: Adult and Pediatric Patients 6 Years and Older with ITP: Initiate PROMACTA at a dose of 50 mg once daily, except in patients who are of Asian ancestry (such as Chinese, Japanese, Taiwanese, or Korean) or who have mild to severe hepatic impairment (Child-Pugh Class A, B, C).
+Initial Dose Regimen: Adult and Pediatric Patients 6 Years and Older with ITP: Initiate PROMACTA at a dose of 50 mg once daily, except in patients who are of Asian ancestry (such as Chinese, Japanese, Taiwanese, Korean, or Thai) or who have mild to severe hepatic impairment (Child-Pugh Class A, B, C).
 
 For patients of Asian ancestry with ITP, initiate PROMACTA at a reduced dose of 25 mg once daily [see Use in Specific Populations (8.7), Clinical Pharmacology (12.3)].
 
@@ -82,7 +82,7 @@ Excessive platelet count responses, as outlined in Table 2, or important liver t
 
 ## 2.3 Severe Aplastic Anemia
 
-First-line Severe Aplastic Anemia
+First-Line Severe Aplastic Anemia
 
 Initiate PROMACTA concurrently with standard immunosuppressive therapy [see Clinical Studies (14.3)].
 
@@ -102,7 +102,7 @@ Recommended Initial PROMACTA Dose Regimen in the First-Line Treatment of Severe 
 
 For patients with severe aplastic anemia of Asian ancestry (such as Chinese, Japanese, Taiwanese, Korean, or Thai) or those with mild, moderate, or severe hepatic impairment (Child-Pugh Class A, B, C), decrease the initial PROMACTA dose by 50% as listed in Table 4 [see Use in Specific Populations (8.6, 8.7), Clinical Pharmacology (12.3)].
 
-If baseline alanine aminotransferase (ALT) or aspartate aminotransferase (AST) levels are > 6 x upper limit of normal (ULN), do not initiate PROMACTA until transaminase levels are < 5 x ULN.
+If baseline alanine aminotranferase (ALT) or aspartate aminotransferase (AST) levels are > 6 x upper limit of normal (ULN), do not initiate PROMACTA until transaminase levels are < 5 x ULN.
 Determine the initial dose for these patients based on Table 3 or Table 4.
 
 Table 4.
@@ -119,7 +119,7 @@ Monitoring and Dose Adjustment for PROMACTA: Perform clinical hematology and liv
 Modify the dosage regimen of PROMACTA based on platelet counts as outlined in Table 5.
 
 Table 5.
-Dose Adjustments of PROMACTA for Elevated Platelet Counts in the First-line Treatment of Severe Aplastic Anemia
+Dose Adjustments of PROMACTA for Elevated Platelet Counts in the First-Line Treatment of Severe Aplastic Anemia
 
 | Platelet Count Result | Dose Adjustment or Response |
 | --- | --- |
@@ -172,8 +172,8 @@ Excessive platelet count responses (as outlined in Table 7) or important liver t
 
 ## 2.4 Administration
 
-Administration of Tablets and Oral Suspension: Take PROMACTA on an empty stomach (1 hour before or 2 hours after a meal) [see Clinical Pharmacology (12.3)].
-Take PROMACTA at least 2 hours before or 4 hours after other medications (e.g., antacids), calcium-rich foods (e.g., dairy products and calcium-fortified juices), or supplements containing polyvalent cations such as iron, calcium, aluminum, magnesium, selenium, and zinc [see Drug Interactions (7.1), Clinical Pharmacology (12.3)].
+Administration of Tablets and Oral Suspension: Take PROMACTA without a meal or with a meal low in calcium (≤ 50 mg).
+Take PROMACTA at least 2 hours before or 4 hours after other medications (e.g., antacids), calcium-rich foods (containing > 50 mg calcium e.g., dairy products, calcium-fortified juices, and certain fruits and vegetables), or supplements containing polyvalent cations, such as iron, calcium, aluminum, magnesium, selenium, and zinc [see Drug Interactions (7.1), Clinical Pharmacology (12.3)].
 
 Do not split, chew, or crush tablets and mix with food or liquids.
 
