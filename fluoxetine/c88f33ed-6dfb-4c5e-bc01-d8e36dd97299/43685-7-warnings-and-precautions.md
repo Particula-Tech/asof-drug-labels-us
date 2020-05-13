@@ -23,9 +23,9 @@ Table 2: Suicidality per 1000 Patients Treated
 | --- | --- |
 |  | Increases Compared to Placebo |
 | <18 | 14 additional cases |
-| 18–24 | 5 additional cases |
+| 18-24 | 5 additional cases |
 |  | Decreases Compared to Placebo |
-| 25–64 | 1 fewer case |
+| 25-64 | 1 fewer case |
 | ≥65 | 6 fewer cases |
 
 No suicides occurred in any of the pediatric trials.
@@ -136,6 +136,7 @@ SNRIs and SSRIs, including fluoxetine, may increase the risk of bleeding reactio
 Concomitant use of aspirin, nonsteroidal anti-inflammatory drugs, warfarin, and other anti-coagulants may add to this risk.
 Case reports and epidemiological studies (case-control and cohort design) have demonstrated an association between use of drugs that interfere with serotonin reuptake and the occurrence of gastrointestinal bleeding.
 Bleeding reactions related to SNRIs and SSRIs use have ranged from ecchymoses, hematomas, epistaxis, and petechiae to life-threatening hemorrhages.
+
 Patients should be cautioned about the risk of bleeding associated with the concomitant use of fluoxetine and NSAIDs, aspirin, warfarin, or other drugs that affect coagulation [see Drug Interactions (7.4)].
 
 ## 5.8 Angle-Closure Glaucoma
@@ -171,7 +172,7 @@ Among the most common adverse reactions associated with discontinuation (inciden
 Post-marketing cases of QT interval prolongation and ventricular arrhythmia including Torsades de Pointes have been reported in patients treated with PROZAC.
 PROZAC should be used with caution in patients with congenital long QT syndrome; a previous history of QT prolongation; a family history of long QT syndrome or sudden cardiac death; and other conditions that predispose to QT prolongation and ventricular arrhythmia.
 Such conditions include concomitant use of drugs that prolong the QT interval; hypokalemia or hypomagnesemia; recent myocardial infarction, uncompensated heart failure, bradyarrhythmias, and other significant arrhythmias; and conditions that predispose to increased fluoxetine exposure (overdose, hepatic impairment, use of CYP2D6 inhibitors, CYP2D6 poor metabolizer status, or use of other highly protein-bound drugs).
-PROZAC is primarily metabolized by CYP2D6 [see Contraindications (4.2), Adverse Reactions (6.2), Drug Interactions (7.7, 7.8), Overdose (10.1), and Clinical Pharmacology (12.3)].
+PROZAC is primarily metabolized by CYP2D6 [see Contraindications (4.2), Adverse Reactions (6.2), Drug Interactions (7.7, 7.8), Overdosage (10.1), and Clinical Pharmacology (12.3)].
 
 Pimozide and thioridazine are contraindicated for use with PROZAC.
 Avoid the concomitant use of drugs known to prolong the QT interval.
@@ -211,7 +212,7 @@ While these reactions are generally self-limiting, there have been reports of se
 Patients should be monitored for these symptoms when discontinuing treatment with PROZAC.
 A gradual reduction in the dose rather than abrupt cessation is recommended whenever possible.
 If intolerable symptoms occur following a decrease in the dose or upon discontinuation of treatment, then resuming the previously prescribed dose may be considered.
-Subsequently, the physician may continue decreasing the dose but at a more gradual rate.
+Subsequently, the healthcare provider may continue decreasing the dose but at a more gradual rate.
 Plasma fluoxetine and norfluoxetine concentration decrease gradually at the conclusion of therapy which may minimize the risk of discontinuation symptoms with this drug.
 
 ## 5.16 PROZAC and Olanzapine in Combination

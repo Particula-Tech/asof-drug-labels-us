@@ -1,8 +1,10 @@
 Medication Guide
 
-PROZAC® (PRO-zac) (Fluoxetine Capsules)
+PROZAC® (PRO-zac)
 
-(Fluoxetine Delayed-Release Capsules) Pulvule® and Weekly™ Capsule
+(fluoxetine capsules)
+
+for oral use
 
 Read the Medication Guide that comes with PROZAC before you start taking it and each time you get a refill.
 There may be new information.
@@ -13,103 +15,69 @@ What is the most important information I should know about PROZAC?
 
 PROZAC and other antidepressant medicines may cause serious side effects, including:
 
-1.
-Suicidal thoughts or actions:
-
-- PROZAC and other antidepressant medicines may increase suicidal thoughts or actions in some children, teenagers, or young adults within the first few months of treatment or when the dose is changed.
-- Depression or other serious mental illnesses are the most important causes of suicidal thoughts or actions.
-- Watch for these changes and call your healthcare provider right away if you notice:
-  - New or sudden changes in mood, behavior, actions, thoughts, or feelings, especially if severe.
-  - Pay particular attention to such changes when PROZAC is started or when the dose is changed.
-
-Keep all follow-up visits with your healthcare provider and call between visits if you are worried about symptoms.
-
-Call your healthcare provider right away if you have any of the following symptoms, or call 911 if an emergency, especially if they are new, worse, or worry you:
-
-- attempts to commit suicide
-- acting on dangerous impulses
-- acting aggressive or violent
-- thoughts about suicide or dying
-- new or worse depression
-- new or worse anxiety or panic attacks
-- feeling agitated, restless, angry or irritable
-- trouble sleeping
-- an increase in activity or talking more than what is normal for you
-- other unusual changes in behavior or mood
-
-Call your healthcare provider right away if you have any of the following symptoms, or call 911 if an emergency.
-PROZAC may be associated with these serious side effects:
-
-2.
-Serotonin Syndrome.
-This condition can be life-threatening and may include:
-
-- agitation, hallucinations, coma or other changes in mental status
-- coordination problems or muscle twitching (overactive reflexes)
-- racing heartbeat, high or low blood pressure
-- sweating or fever
-- nausea, vomiting, or diarrhea
-- muscle rigidity
-- dizziness
-- flushing
-- tremor
-- seizures
-
-3.
-Severe allergic reactions:
-
-- trouble breathing
-- swelling of the face, tongue, eyes or mouth
-- rash, itchy welts (hives) or blisters, alone or with fever or joint pain
-
-4.
-Abnormal bleeding: PROZAC and other antidepressant medicines may increase your risk of bleeding or bruising, especially if you take the blood thinner warfarin (Coumadin®, Jantoven®), a non-steroidal anti-inflammatory drug (NSAIDs, like ibuprofen or naproxen), or aspirin.
-
-5.
-Visual problems:
-
-- eye pain
-- changes in vision
-- swelling or redness in or around the eye
-
-Only some people are at risk for these problems.
-You may want to undergo an eye examination to see if you are at risk and receive preventative treatment if you are.
-
-6.
-Seizures or convulsions
-
-7.
-Manic episodes:
-
-- greatly increased energy
-- severe trouble sleeping
-- racing thoughts
-- reckless behavior
-- unusually grand ideas
-- excessive happiness or irritability
-- talking more or faster than usual
-
-8.
-Changes in appetite or weight.
-Children and adolescents should have height and weight monitored during treatment.
-
-9.
-Low salt (sodium) levels in the blood.
-Elderly people may be at greater risk for this.
-Symptoms may include:
-
-- headache
-- weakness or feeling unsteady
-- confusion, problems concentrating or thinking or memory problems
-
-10.
-Changes in the electrical activity of your heart (QT prolongation and ventricular arrhythmia including Torsades de Pointes).
-This condition can be life threatening.
-The symptoms may include:
-
-- fast, slow, or irregular heartbeat
-- shortness of breath
-- dizziness or fainting
+1. Suicidal thoughts or actions:Keep all follow-up visits with your healthcare provider and call between visits if you are worried about symptoms.
+   Call your healthcare provider right away if you have any of the following symptoms, or call 911 if an emergency, especially if they are new, worse, or worry you:Call your healthcare provider right away if you have any of the following symptoms, or call 911 if an emergency.
+   PROZAC may be associated with these serious side effects:
+   - PROZAC and other antidepressant medicines may increase suicidal thoughts or actions in some children, teenagers, or young adults within the first few months of treatment or when the dose is changed.
+   - Depression or other serious mental illnesses are the most important causes of suicidal thoughts or actions.
+   - Watch for these changes and call your healthcare provider right away if you notice:
+     - New or sudden changes in mood, behavior, actions, thoughts, or feelings, especially if severe.
+     - Pay particular attention to such changes when PROZAC is started or when the dose is changed.
+   - attempts to commit suicide
+   - acting on dangerous impulses
+   - acting aggressive or violent
+   - thoughts about suicide or dying
+   - new or worse depression
+   - new or worse anxiety or panic attacks
+   - feeling agitated, restless, angry or irritable
+   - trouble sleeping
+   - an increase in activity or talking more than what is normal for you
+   - other unusual changes in behavior or mood
+2. Serotonin Syndrome.
+   This condition can be life-threatening and may include:
+   - agitation, hallucinations, coma or other changes in mental status
+   - coordination problems or muscle twitching (overactive reflexes)
+   - racing heartbeat, high or low blood pressure
+   - sweating or fever
+   - nausea, vomiting, or diarrhea
+   - muscle rigidity
+   - dizziness
+   - flushing
+   - tremor
+   - seizures
+3. Severe allergic reactions:
+   - trouble breathing
+   - swelling of the face, tongue, eyes or mouth
+   - rash, itchy welts (hives) or blisters, alone or with fever or joint pain
+4. Abnormal bleeding: PROZAC and other antidepressant medicines may increase your risk of bleeding or bruising, especially if you take the blood thinner warfarin (Coumadin®, Jantoven®), a non-steroidal anti-inflammatory drug (NSAIDs, like ibuprofen or naproxen), or aspirin.
+5. Visual problems:Only some people are at risk for these problems.
+   You may want to undergo an eye examination to see if you are at risk and receive preventative treatment if you are.
+   - eye pain
+   - changes in vision
+   - swelling or redness in or around the eye
+6. Seizures or convulsions
+7. Manic episodes:
+   - greatly increased energy
+   - severe trouble sleeping
+   - racing thoughts
+   - reckless behavior
+   - unusually grand ideas
+   - excessive happiness or irritability
+   - talking more or faster than usual
+8. Changes in appetite or weight.
+   Children and adolescents should have height and weight monitored during treatment.
+9. Low salt (sodium) levels in the blood.
+   Elderly people may be at greater risk for this.
+   Symptoms may include:
+   - headache
+   - weakness or feeling unsteady
+   - confusion, problems concentrating or thinking or memory problems
+10. Changes in the electrical activity of your heart (QT prolongation and ventricular arrhythmia including Torsades de Pointes).
+    This condition can be life threatening.
+    The symptoms may include:
+    - fast, slow, or irregular heartbeat
+    - shortness of breath
+    - dizziness or fainting
 
 Do not stop PROZAC without first talking to your healthcare provider.
 Stopping PROZAC too quickly may cause serious symptoms including:
@@ -151,13 +119,12 @@ Do not take PROZAC if you:
 People who take PROZAC close in time to an MAOI may have serious or even life-threatening side effects.
 Get medical help right away if you have any of these symptoms:
 
-- 
-  - high fever
-  - uncontrolled muscle spasms
-  - stiff muscles
-  - rapid changes in heart rate or blood pressure
-  - confusion
-  - loss of consciousness (pass out)
+- high fever
+- uncontrolled muscle spasms
+- stiff muscles
+- rapid changes in heart rate or blood pressure
+- confusion
+- loss of consciousness (pass out)
 
 - take Mellaril® (thioridazine).
   Do not take Mellaril® within 5 weeks of stopping PROZAC because this can cause serious heart rhythm problems or sudden death.
@@ -185,11 +152,13 @@ Before starting PROZAC, tell your healthcare provider if you:
 - have high blood pressure
 - have or had bleeding problems
 - are pregnant or plan to become pregnant.
-  It is not known if PROZAC will harm your unborn baby.
+  Taking PROZAC late in pregnancy may lead to an increased risk of certain problems in your newborn.
   Talk to your healthcare provider about the benefits and risks of treating depression during pregnancy.
+  - If you become pregnant while taking PROZAC, talk to your healthcare provider about registering with the National Pregnancy Registry for Antidepressants.
+    You can register by calling 1-844-405-6185 or go to https://womensmentalhealth.org/clinical-and-research-programs/pregnancyregistry/antidepressants/.
 - are breast-feeding or plan to breast-feed.
-  Some PROZAC may pass into your breast milk.
-  Talk to your healthcare provider about the best way to feed your baby while taking PROZAC.
+  PROZAC may pass into your breast milk.
+  Talk to your healthcare provider about the best way to feed your baby if taking PROZAC.
 
 Tell your healthcare provider about all the medicines that you take, including prescription and non-prescription medicines, vitamins, and herbal supplements.
 PROZAC and some medicines may interact with each other, may not work as well, or may cause serious side effects.
@@ -197,7 +166,9 @@ PROZAC and some medicines may interact with each other, may not work as well, or
 Your healthcare provider or pharmacist can tell you if it is safe to take PROZAC with your other medicines.
 Do not start or stop any medicine while taking PROZAC without talking to your healthcare provider first.
 
-| If you take PROZAC, you should not take any other medicines that contain fluoxetine hydrochloride including: Symbyax Sarafem Prozac Weekly |
+If you take PROZAC, you should not take any other medicines that contain fluoxetine hydrochloride including:
+
+| Symbyax Sarafem |
 | --- |
 
 How should I take PROZAC?
@@ -289,17 +260,16 @@ Inactive ingredients:
 
 - PROZAC pulvules: starch, gelatin, silicone, titanium dioxide, iron oxide, and other inactive ingredients.
   The 10 and 20 mg Pulvules also contain FD&C Blue No. 1, and the 40 mg Pulvules also contains FD&C Blue No. 1 and FD&C Yellow No. 6.
-- PROZAC Weekly™ capsules: D&C Yellow No. 10, FD&C Blue No. 2, gelatin, hypromellose, hypromellose acetate succinate, sodium lauryl sulfate, sucrose, sugar spheres, talc, titanium oxide, triethyl citrate, and other inactive ingredients.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Medication Guide revised October 24, 2016
+Medication Guide revised April, 2020
 
 Marketed by: Lilly USA, LLC
 
 Indianapolis, IN 46285, USA
 
-Copyright © 2009, 2016, Eli Lilly and Company.
+Copyright © 2009, 2020, Eli Lilly and Company.
 All rights reserved.
 
-PRZ-0003-MG-20161024
+PRZ-0004-MG-20200428

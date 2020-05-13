@@ -33,7 +33,7 @@ Table 4 provides combined data for the pool of studies that are provided separat
 
 Table 3: Most Common Treatment-Emergent Adverse Reactions: Incidence in Major Depressive Disorder, OCD, Bulimia, and Panic Disorder Placebo-Controlled Clinical Trials1,2
 
-|  | Percentage of Patients Reporting Event |  |  |  |  |  |  |  |
+| Percentage of Patients Reporting Event |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 |  | Major Depressive Disorder |  | OCD |  | Bulimia |  | Panic Disorder |  |
 | Body System/ Adverse Reaction | PROZAC (N=1728) | Placebo (N=975) | PROZAC (N=266) | Placebo (N=89) | PROZAC (N=450) | Placebo (N=267) | PROZAC (N=425) | Placebo (N=342) |
@@ -133,12 +133,9 @@ However, the following adverse reactions (excluding those which appear in the bo
 The most common adverse reaction (incidence at least 1% for fluoxetine and greater than placebo) associated with discontinuation in 3 pediatric placebo-controlled trials (N=418 randomized; 228 fluoxetine-treated; 190 placebo-treated) was mania/hypomania (1.8% for fluoxetine-treated, 0% for placebo-treated).
 In these clinical trials, only a primary reaction associated with discontinuation was collected.
 
-Reactions observed in PROZAC Weekly clinical trials — Treatment-emergent adverse reactions in clinical trials with PROZAC Weekly were similar to the adverse reactions reported by patients in clinical trials with PROZAC daily.
-In a placebo-controlled clinical trial, more patients taking PROZAC Weekly reported diarrhea than patients taking placebo (10% versus 3%, respectively) or taking PROZAC 20 mg daily (10% versus 5%, respectively).
-
 Male and female sexual dysfunction with SSRIs — Although changes in sexual desire, sexual performance, and sexual satisfaction often occur as manifestations of a psychiatric disorder, they may also be a consequence of pharmacologic treatment.
 In particular, some evidence suggests that SSRIs can cause such untoward sexual experiences.
-Reliable estimates of the incidence and severity of untoward experiences involving sexual desire, performance, and satisfaction are difficult to obtain, however, in part because patients and physicians may be reluctant to discuss them.
+Reliable estimates of the incidence and severity of untoward experiences involving sexual desire, performance, and satisfaction are difficult to obtain, however, in part because patients and healthcare providers may be reluctant to discuss them.
 Accordingly, estimates of the incidence of untoward sexual experience and performance, cited in product labeling, are likely to underestimate their actual incidence.
 In patients enrolled in US Major Depressive Disorder, OCD, and bulimia placebo-controlled clinical trials, decreased libido was the only sexual side effect reported by at least 2% of patients taking fluoxetine (4% fluoxetine, <1% placebo).
 There have been spontaneous reports in women taking fluoxetine of orgasmic dysfunction, including anorgasmia.
@@ -149,9 +146,9 @@ Symptoms of sexual dysfunction occasionally persist after discontinuation of flu
 
 Priapism has been reported with all SSRIs.
 
-While it is difficult to know the precise risk of sexual dysfunction associated with the use of SSRIs, physicians should routinely inquire about such possible side effects.
+While it is difficult to know the precise risk of sexual dysfunction associated with the use of SSRIs, healthcare providers should routinely inquire about such possible side effects.
 
-## 6.2 Other Reactions
+Other Reactions
 
 Following is a list of treatment-emergent adverse reactions reported by patients treated with fluoxetine in clinical trials.
 This listing is not intended to include reactions (1) already listed in previous tables or elsewhere in labeling, (2) for which a drug cause was remote, (3) which were so general as to be uninformative, (4) which were not considered to have significant clinical implications, or (5) which occurred at a rate equal to or less than placebo.
@@ -179,16 +176,14 @@ Special Senses — Frequent: taste perversion; Infrequent: mydriasis.
 Urogenital System — Frequent: micturition disorder; Infrequent: dysuria, gynecological bleeding2.
 
 1 MedDRA dictionary term from integrated database of placebo controlled trials of 15870 patients, of which 9673 patients received fluoxetine.
-
 2 Group term that includes individual MedDRA terms: cervix hemorrhage uterine, dysfunctional uterine bleeding, genital hemorrhage, menometrorrhagia, menorrhagia, metrorrhagia, polymenorrhea, postmenopausal hemorrhage, uterine hemorrhage, vaginal hemorrhage.
 Adjusted for gender.
-
 3 QT prolongation data are based on routine ECG measurements in clinical trials.
 
-## 6.3 Postmarketing Experience
+## 6.2 Postmarketing Experience
 
 The following adverse reactions have been identified during post approval use of PROZAC.
-Because these reactions are reported voluntarily from a population of uncertain size, it is difficult to reliably estimate their frequency or evaluate a causal relationship to drug exposure.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or evaluate a causal relationship to drug exposure.
 
 Voluntary reports of adverse reactions temporally associated with PROZAC that have been received since market introduction and that may have no causal relationship with the drug include the following: aplastic anemia, atrial fibrillation1, cataract, cerebrovascular accident1, cholestatic jaundice, dyskinesia (including, for example, a case of buccal-lingual-masticatory syndrome with involuntary tongue protrusion reported to develop in a 77-year-old female after 5 weeks of fluoxetine therapy and which completely resolved over the next few months following drug discontinuation), eosinophilic pneumonia1, epidermal necrolysis, erythema multiforme, erythema nodosum, exfoliative dermatitis, galactorrhea, gynecomastia, heart arrest1, hepatic failure/necrosis, hyperprolactinemia, hypoglycemia, immune-related hemolytic anemia, kidney failure, memory impairment, movement disorders developing in patients with risk factors including drugs associated with such reactions and worsening of pre-existing movement disorders, optic neuritis, pancreatitis1, pancytopenia, pulmonary embolism, pulmonary hypertension, QT prolongation, Stevens-Johnson syndrome, thrombocytopenia1, thrombocytopenic purpura, ventricular tachycardia (including Torsades de Pointes–type arrhythmias), vaginal bleeding, and violent behaviors1.
 

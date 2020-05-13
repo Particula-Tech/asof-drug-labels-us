@@ -26,22 +26,21 @@ Two 6-week controlled studies (N=671, randomized) comparing PROZAC 20 mg and pla
 In these studies, PROZAC produced a significantly higher rate of response and remission as defined, respectively, by a 50% decrease in the HAM-D score and a total endpoint HAM-D score of ≤8.
 PROZAC was well tolerated and the rate of treatment discontinuations due to adverse reactions did not differ between PROZAC (12%) and placebo (9%).
 
-A study was conducted involving depressed outpatients who had responded (modified HAMD-17 score of ≤7 during each of the last 3 weeks of open-label treatment and absence of Major Depressive Disorder by DSM-III-R criteria) by the end of an initial 12-week open-treatment phase on PROZAC 20 mg/day.
-These patients (N=298) were randomized to continuation on double-blind PROZAC 20 mg/day or placebo.
-At 38 weeks (50 weeks total), a statistically significantly lower relapse rate (defined as symptoms sufficient to meet a diagnosis of Major Depressive Disorder for 2 weeks or a modified HAMD-17 score of ≥14 for 3 weeks) was observed for patients taking PROZAC compared with those on placebo.
-
 Pediatric (children and adolescents) — The efficacy of PROZAC 20 mg/day in children and adolescents (N=315 randomized; 170 children ages 8 to <13, 145 adolescents ages 13 to ≤18) was studied in two 8- to 9-week placebo-controlled clinical trials in depressed outpatients whose diagnoses corresponded most closely to the DSM-III-R or DSM-IV category of Major Depressive Disorder.
 
 In both studies independently, PROZAC produced a statistically significantly greater mean change on the Childhood Depression Rating Scale-Revised (CDRS-R) total score from baseline to endpoint than did placebo.
 
 Subgroup analyses on the CDRS-R total score did not suggest any differential responsiveness on the basis of age or gender.
 
-Weekly dosing for Maintenance/Continuation Treatment
+Maintenance Treatment
 
-A longer-term study was conducted involving adult outpatients meeting DSM-IV criteria for Major Depressive Disorder who had responded (defined as having a modified HAMD-17 score of ≤9, a CGI-Severity rating of ≤2, and no longer meeting criteria for Major Depressive Disorder) for 3 consecutive weeks at the end of 13 weeks of open-label treatment with PROZAC 20 mg once daily.
-These patients were randomized to double-blind, once-weekly continuation treatment with PROZAC Weekly, PROZAC 20 mg once daily, or placebo.
-PROZAC Weekly once weekly and PROZAC 20 mg once daily demonstrated superior efficacy (having a significantly longer time to relapse of depressive symptoms) compared with placebo for a period of 25 weeks.
-However, the equivalence of these 2 treatments during continuation therapy has not been established.
+A study was conducted involving depressed outpatients who had responded (modified HAMD-17 score of ≤7 during each of the last 3 weeks of open-label treatment and absence of Major Depressive Disorder by DSM-III-R criteria) by the end of an initial 12-week open-treatment phase on PROZAC 20 mg/day.
+These patients (N=298) were randomized to continuation on double-blind PROZAC 20 mg/day or placebo.
+At 38 weeks (50 weeks total), a statistically significantly lower relapse rate (defined as symptoms sufficient to meet a diagnosis of Major Depressive Disorder for 2 weeks or a modified HAMD-17 score of ≥14 for 3 weeks) was observed for patients taking PROZAC compared with those on placebo.
+
+An additional maintenance study was conducted involving adult outpatients meeting DSM-IV criteria for Major Depressive Disorder who had responded (defined as having a modified HAMD-17 score of ≤9, a CGI-Severity rating of ≤2, and no longer meeting criteria for Major Depressive Disorder) for 3 consecutive weeks at the end of 13 weeks of open-label treatment with PROZAC 20 mg once daily.
+These patients were randomized to double-blind, once-weekly continuation treatment with fluoxetine delayed-release capsules 90 mg once weekly, PROZAC 20 mg once daily, or placebo.
+PROZAC 20 mg once daily demonstrated superior efficacy (having a significantly longer time to relapse of depressive symptoms) compared with placebo for a period of 25 weeks.
 
 ## 14.2 Obsessive Compulsive Disorder
 
@@ -87,7 +86,7 @@ Although some patients achieved freedom from binge-eating and purging as a resul
 
 In a longer-term trial, 150 patients meeting DSM-IV criteria for Bulimia Nervosa, purging subtype, who had responded during a single-blind, 8-week acute treatment phase with PROZAC 60 mg/day, were randomized to continuation of PROZAC 60 mg/day or placebo, for up to 52 weeks of observation for relapse.
 Response during the single-blind phase was defined by having achieved at least a 50% decrease in vomiting frequency compared with baseline.
-Relapse during the double-blind phase was defined as a persistent return to baseline vomiting frequency or physician judgment that the patient had relapsed.
+Relapse during the double-blind phase was defined as a persistent return to baseline vomiting frequency or healthcare provider judgment that the patient had relapsed.
 Patients receiving continued PROZAC 60 mg/day experienced a significantly longer time to relapse over the subsequent 52 weeks compared with those receiving placebo.
 
 ## 14.4 Panic Disorder
