@@ -2,18 +2,57 @@
 
 ## 8.1 Pregnancy
 
-Reproduction studies in pregnant rats and rabbits at doses up to 100 mg/kg and 40 mg/kg, respectively [20 and 17 times the maximum recommended human dose (MRHD) on an mg/m2 basis, respectively], have revealed no evidence of teratogenic effects.
-However, in rats, there was an increase in post-implantation losses in dams treated with mirtazapine.
-There was an increase in pup deaths during the first 3 days of lactation and a decrease in pup birth weights.
+Pregnancy Exposure Registry
+
+There is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to antidepressants during pregnancy.
+Healthcare providers are encouraged to register patients by calling the National Pregnancy Registry for Antidepressants at 1-844-405-6185 or visiting online at https://womensmentalhealth.org/clinical-and-research-programs/pregnancyregistry/antidepressants/.
+
+Risk Summary
+
+Prolonged experience with mirtazapine in pregnant women, based on published observational studies and postmarketing reports, has not reliably identified a drug-associated risk of major birth defects, miscarriage or adverse maternal or fetal outcomes.
+There are risks associated with untreated depression in pregnancy (see Clinical Considerations).
+
+In animal reproduction studies, oral administration of mirtazapine to pregnant rats and rabbits during the period of organogenesis revealed no evidence of teratogenic effects up to 20 and 17 times the maximum recommended human dose (MRHD) of 45 mg, respectively, based on mg/m2 body surface area.
+However, in rats, there was an increase in postimplantation loss at 20 times the MRHD based on mg/m2 body surface area.
+Oral administration of mirtazapine to pregnant rats during pregnancy and lactation resulted in an increase in pup deaths and a decrease in pup birth weights at doses 20 times the MRHD based on mg/m2 body surface area (see Data).
+
+The estimated background risk of major birth defects and miscarriage for the indicated population is unknown.
+All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively.
+
+Clinical Considerations
+
+Disease-Associated Maternal and/or Embryo/Fetal Risk
+
+Women who discontinue antidepressants during pregnancy are more likely to experience a relapse of major depression than women who continue antidepressants.
+This finding is from a prospective, longitudinal study that followed 201 pregnant women with a history of major depressive disorder who were euthymic and taking antidepressants at the beginning of pregnancy.
+Consider the risk of untreated depression when discontinuing or changing treatment with antidepressant medication during pregnancy and postpartum.
+
+Data
+
+Animal Data
+
+Mirtazapine was administered orally to pregnant rats and rabbits during the period of organogenesis at doses of 2.5, 15, and 100 mg/kg/day and 2.5, 10, and 40 mg/kg/day, respectively, which are up to 20 and 17 times the maximum recommended human dose (MRHD) of 45 mg based on mg/m2 body surface area, respectively.
+No evidence of teratogenic effects was observed.
+However, in rats, there was an increase in postimplantation loss in dams treated with mirtazapine at 100 mg/kg/day which is 20 times the MRHD based on mg/m2 body surface area.
+Oral administration of mirtazapine at doses of 2.5, 15, and 100 mg/kg/day to pregnant rats during pregnancy and lactation resulted in an increase in pup deaths during the first 3 days of lactation and a decrease in pup birth weights at 20 times the MRHD based on mg/m2 body surface area.
 The cause of these deaths is not known.
-The effects occurred at doses that were 20 times the MRHD, but not at 3 times the MRHD, on an mg/m2 basis.
-There are no adequate and well-controlled studies in pregnant women.
-Because animal reproduction studies are not always predictive of human response, REMERON/REMERONSolTab should be used during pregnancy only if clearly needed.
+The no effect dose level is 3 times the MRHD based on mg/m2 body surface area.
 
-## 8.3 Nursing Mothers
+## 8.2 Lactation
 
-Mirtazapine may be excreted in breast milk.
-Exercise caution when administering REMERON/REMERONSolTab to nursing women.
+Risk Summary
+
+Data from published literature report the presence of mirtazapine in human milk at low levels with relative infant doses for mirtazapine ranging between 0.6 and 2.8% of the maternal weight-adjusted dose (see Data).
+No adverse effects on the breastfed infant have been reported in most cases of maternal use of mirtazapine.
+There are no data on the effects of mirtazapine on milk production.
+
+The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for mirtazapine and any potential adverse effects on the breastfed infant from mirtazapine or from the underlying maternal condition.
+
+Data
+
+In a published pooled analysis of 8 breastfeeding mother-infant pairs, the mean (min, max) total relative infant doses for mirtazapine and its desmethyl metabolite were 1.5% (0.6%, 2.8%) and 0.4% (0.1%, 0.7%) of the maternal weight-adjusted dose (median (min, max) dose of 38 mg (30 mg, 120 mg), respectively).
+No adverse drug effects were reported for any of the infants.
 
 ## 8.4 Pediatric Use
 

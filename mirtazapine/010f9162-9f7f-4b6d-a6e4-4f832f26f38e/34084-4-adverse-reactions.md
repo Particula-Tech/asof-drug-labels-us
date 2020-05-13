@@ -132,4 +132,6 @@ Musculoskeletal and connective tissue disorders: increased creatine kinase blood
 
 Psychiatric disorders: somnambulism (ambulation and other complex behaviors out of bed)
 
+Reproductive system and breast disorders: priapism
+
 Skin and subcutaneous tissue disorders: severe skin reactions, including Stevens-Johnson syndrome, bullous dermatitis, erythema multiforme and toxic epidermal necrolysis

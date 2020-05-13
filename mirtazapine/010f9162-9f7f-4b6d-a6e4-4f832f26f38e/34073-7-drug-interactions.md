@@ -29,7 +29,7 @@ Table 5: Clinically Important Drug Interactions with REMERON/REMERONSolTab
 | Intervention | Avoid concomitant use of benzodiazepines and alcohol with REMERON/REMERONSolTab [see Warnings and Precautions (5.7), Clinical Pharmacology (12.3)]]. |
 | Examples | diazepam, alprazolam, alcohol |
 | Drugs that Prolong QTc Interval |  |
-| Clinical Impact | The concomitant use of other drugs which prolong the QTc interval with REMERON/REMERONSolTab, increase the risk of QTc prolongation and/or ventricular arrhythmias (e.g., Torsades de Pointes). |
+| Clinical Impact | The concomitant use of other drugs which prolong the QTc interval with REMERON/REMERONSolTab, increase the risk of QT prolongation and/or ventricular arrhythmias (e.g., Torsades de Pointes). |
 | Intervention | Use caution when using REMERON/REMERONSolTab concomitantly with drugs that prolong the QTc interval [see Warnings and Precautions (5.5), Clinical Pharmacology (12.3)]. |
 | Warfarin |  |
 | Clinical Impact | The concomitant use of warfarin with REMERON/REMERONSolTab may result in an increase in INR [see Clinical Pharmacology (12.3)]. |

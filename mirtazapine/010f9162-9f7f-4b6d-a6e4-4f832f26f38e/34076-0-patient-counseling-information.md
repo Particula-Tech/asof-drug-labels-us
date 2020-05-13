@@ -15,7 +15,7 @@ Serotonin Syndrome
 Caution patients about the risk of serotonin syndrome, particularly with the concomitant use of REMERON/REMERONSolTab with other serotonergic drugs including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, tryptophan, buspirone, amphetamines, St. John's Wort, and with drugs that impair metabolism of serotonin (in particular, MAOIs, both those intended to treat psychiatric disorders and also others, such as linezolid).
 Advise patients to contact their healthcare provider or report to the emergency room if they experience signs or symptoms of serotonin syndrome [see Dosage and Administration (2.4), Contraindications (4), Warnings and Precautions (5.3), Drug Interactions (7)].
 
-QTc Prolongation and Torsades de Pointes
+QT Prolongation and Torsades de Pointes
 
 Inform patients to consult their physician immediately if they feel faint, lose consciousness, or have heart palpitations [see Warnings and Precautions (5.5), Drug Interactions (7), Overdosage (10)].
 Advise patients to inform physicians that they are taking REMERON/REMERONSolTab before any new drug is taken.
@@ -45,11 +45,12 @@ Advise patients to notify their healthcare provider if they develop an allergic 
 
 Pregnancy
 
-Advise patients to notify their physician if they become pregnant or intend to become pregnant during REMERON/REMERON SolTab therapy [see Use in Specific Populations (8.1)].
+- Advise patients to notify their physician if they become pregnant or intend to become pregnant during REMERON/REMERONSolTab therapy.
+- Advise patients that there is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to REMERON/REMERONSolTab during pregnancy [see Use in Specific Populations (8.1)].
 
-Nursing
+Lactation
 
-Advise patients to notify their physician if they are breastfeeding an infant [see Use in Specific Populations (8.3)].
+Advise patients to notify their physician if they are breastfeeding an infant [see Use in Specific Populations (8.2)].
 
 Angle-Closure Glaucoma
 
