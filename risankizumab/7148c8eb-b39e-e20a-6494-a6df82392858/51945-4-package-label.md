@@ -2,7 +2,7 @@ NDC 0074-2042-02
 
 2 x 0.83 mL prefilled syringes
 
-Skyrizi™
+Skyrizi®
 
 risankizumab-rzaa Injection
 
@@ -30,7 +30,7 @@ NOT FOR SALE
 
 2 x 0.83 mL prefilled syringes
 
-Skyrizi™
+Skyrizii®
 
 risankizumab-rzaa Injection
 
