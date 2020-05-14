@@ -1,7 +1,8 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-Olmesartan Medoxomil Tablets is supplied as yellow coloured round shape film coated tablets containing 5 mg of olmesartan medoxomil USP, as white to off-white coloured, round shape film coated tablets containing 20 mg of olmesartan medoxomil USP, and as white to off-white coloured,oval shape film coated tablets containing 40 mg of olmesartan medoxomil USP.
+Olmesartan medoxomil tablets is supplied as yellow coloured round shape film coated tablets containing 5 mg of olmesartan medoxomil USP, as white to off-white coloured, round shape film coated tablets containing 20 mg of olmesartan medoxomil USP, and as white to off-white coloured,oval shape film coated tablets containing 40 mg of olmesartan medoxomil USP.
 Tablets are debossed with OLM on one side and 5,20 & 40 on the other side of the 5, 20, and 40 mg tablets, respectively.
+Tablets are supplied as follows:
 
 |  | 5mg | 20mg | 40mg |
 | --- | --- | --- | --- |
