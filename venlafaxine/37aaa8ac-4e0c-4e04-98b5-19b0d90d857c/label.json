@@ -1,0 +1,23 @@
+{
+  "application_numbers": [
+    "ANDA076690"
+  ],
+  "inn": "venlafaxine",
+  "labeler": "Teva Pharmaceuticals USA, Inc.",
+  "package_ndcs": [
+    "0093-9147-01",
+    "0093-9148-01",
+    "0093-9149-01",
+    "0093-9157-01",
+    "0093-9163-01"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "venlafaxine hydrochloride",
+      "name": "Venlafaxine Hydrochloride"
+    }
+  ],
+  "setid": "37aaa8ac-4e0c-4e04-98b5-19b0d90d857c",
+  "source": "dailymed"
+}
