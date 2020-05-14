@@ -1,10 +1,10 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-Tablets: Sevelamer carbonate 800 mg tablets are supplied as white oval, film-coated, compressed tablets, imprinted with "RENVELA 800," containing 800 mg of sevelamer carbonate on an anhydrous basis, microcrystalline cellulose, hypromellose, diacetylated monoglycerides, sodium chloride, and zinc stearate.
+Tablets: Sevelamer carbonate tablets for oral use is supplied as white oval, film-coated, compressed tablets, imprinted with RENVELA 800, containing 800 mg of sevelamer carbonate on an anhydrous basis.
 
-1 Bottle of 270 ct 800 mg Tablets (NDC 0955-1050-27)
+1 Bottle of 270 ct 800 mg tablets (NDC 0955-1050-27)
 
-Powder: Sevelamer carbonate for oral suspension is supplied as opaque, foil-lined, heat-sealed, packets containing 0.8 g or 2.4 g of sevelamer carbonate on an anhydrous basis, natural and artificial citrus flavor, propylene glycol alginate, sodium chloride, sucralose, and ferric oxide (yellow).
+Powder: Sevelamer carbonate for oral suspension is supplied as opaque, foil-lined, heat-sealed, packets containing 0.8 g or 2.4 g of sevelamer carbonate on an anhydrous basis.
 
 1 Box (NDC 0955-1054-90) of 90 ct 2.4 g packets (NDC 0955-1054-01)
 
