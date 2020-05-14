@@ -28,8 +28,7 @@ Do not use ANDRODERM if you:
 
 - are a man who has breast cancer
 - have or might have prostate cancer
-- are pregnant or may become pregnant or are breastfeeding.
-  ANDRODERM may harm your unborn or breastfeeding baby.
+- are pregnant ANDRODERM may harm your unborn baby.
 
 Talk to your healthcare provider before taking this medicine if you have any of the above conditions.
 
@@ -179,15 +178,16 @@ Distributed by: Allergan USA, Inc. Madison, NJ 07940
 
 This Patient Information has been approved by the U.S. Food and Drug Administration
 
-© 2018 Allergan.
-All rights reserved.
-
 ANDRODERM® is a registered trademark of Allergan Sales, LLC.
+
+© 2020 Allergan.
+
+All rights reserved.
 
 Allergan® and its design are trademarks of Allergan, Inc.
 
 All trademarks are the property of their respective owners.
 
-Content Updated: 6/2018
+Content Updated: 05/2020
 
 v1.0PPI5990

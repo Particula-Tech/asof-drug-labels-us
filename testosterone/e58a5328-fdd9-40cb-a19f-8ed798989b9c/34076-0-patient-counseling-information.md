@@ -38,13 +38,12 @@ Patients should be informed that treatment with androgens may lead to adverse re
 
 For all medical inquiries contact: Allergan Medical Communications 1-800-678-1605
 
-Distributed by: Allergan USA, Inc. Madison, NJ 07940
-
-© 2018 Allergan.
-All rights reserved.
-
 ANDRODERM® is a registered trademark of Allergan Sales, LLC.
 
-Allergan® and its design are trademarks of Allergan, Inc.
+Distributed by: Allergan USA, Inc. Madison, NJ 07940
+
+© 2020 Allergan.
+
+All rights reserved.
 
 v1.0USPI5990

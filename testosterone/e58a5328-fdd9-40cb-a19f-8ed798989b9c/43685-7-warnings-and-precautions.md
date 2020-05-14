@@ -39,12 +39,9 @@ However, testosterone levels may be in the normal or subnormal range in men abus
 Counsel patients concerning the serious adverse reactions associated with abuse of testosterone and anabolic androgenic steroids.
 Conversely, consider the possibility of testosterone and anabolic androgenic steroid abuse in suspected patients who present with serious cardiovascular or psychiatric adverse events.
 
-## 5.6 Use in Women and Children
+## 5.6 Use in Women
 
-Women and children should not use ANDRODERM.
-Use in women and children has not been studied with ANDRODERM.
-
-Due to lack of controlled studies in women and potential virilizing effects, ANDRODERM is not indicated for use in women and children [see Contraindications (4) and Use in Specific Populations (8.1, 8.3, 8.4)].
+Due to lack of controlled studies in women and potential virilizing effects, ANDRODERM is not indicated for use in women [see Contraindications (4) and Use in Specific Populations (8.1, 8.3)].
 
 ## 5.7 Potential for Adverse Effects on Spermatogenesis
 
