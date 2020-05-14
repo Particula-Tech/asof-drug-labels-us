@@ -9,6 +9,6 @@ Inform patients:
 - that it may take them longer than usual to stop bleeding.
 - that they may bruise and/or bleed more easily when they use enoxaparin sodium.
 - that they should report any unusual bleeding, bruising, or signs of thrombocytopenia (such as a rash of dark red spots under the skin) to their physician [see Warnings and Precautions (5.1, 5.5)].
-- that risks are associated with the use of benzyl alcohol, a preservative in enoxaparin sodium multi-dose vials, in neonates, infants, and pregnant women.
+- that risks are associated with the use of benzyl alcohol, a preservative in enoxaparin sodium multiple-dose vials, in neonates, infants, and pregnant women.
 - to tell their physicians and dentists they are taking enoxaparin sodium and/or any other product known to affect bleeding before any surgery is scheduled and before any new drug is taken [see Warnings and Precautions (5.1, 5.3)].
 - to tell their physicians and dentists of all medications they are taking, including those obtained without a prescription, such as aspirin or other NSAIDs [see Drug Interactions (7)].

@@ -80,7 +80,7 @@ Following once a day subcutaneous dosing of 40 mg enoxaparin, the Day 10 mean ar
 Renal impairment
 
 A linear relationship between anti-Factor Xa plasma clearance and creatinine clearance at steady state has been observed, which indicates decreased clearance of enoxaparin sodium in patients with reduced renal function.
-Anti-Factor Xa exposure represented by AUC, at steady state, is marginally increased in patients with creatinine clearance 50 to 80 mL/min and patients with creatinine clearance 30 to <50 mL/min renal impairment after repeated subcutaneous 40 mg once-daily doses.
+Anti-Factor Xa exposure represented by AUC, at steady state, is marginally increased in patients with creatinine clearance 50 to 80 mL/min and patients with creatinine clearance 30 to <50 mL/min after repeated subcutaneous 40 mg once-daily doses.
 In patients with severe renal impairment (creatinine clearance <30 mL/min), the AUC at steady state is significantly increased on average by 65% after repeated subcutaneous 40 mg once-daily doses [see Dosage and Administration (2.3) and Use in Specific Populations (8.7)].
 
 Hemodialysis

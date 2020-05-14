@@ -41,7 +41,7 @@ Enoxaparin sodium should be used with care in patients with a bleeding diathesis
 
 ## 5.4 Risk of Heparin-Induced Thrombocytopenia with or without Thrombosis
 
-Enoxaparin sodium may cause Heparin-Induced Thrombocytopenia (HIT) or Heparin-Induced Thrombocytopenia with Thrombosis (HITTS).
+Enoxaparin sodium may cause heparin-induced thrombocytopenia (HIT) or heparin-induced thrombocytopenia with thrombosis (HITTS).
 HITTS may lead to organ infarction, limb ischemia, or death.
 Monitor thrombocytopenia of any degree closely.
 
@@ -80,7 +80,7 @@ Therefore, frequent monitoring of peak and trough anti-Factor Xa levels, and adj
 
 Enoxaparin sodium multiple-dose vials are not approved for use in neonates or infants.
 
-Serious and fatal adverse reactions including "gasping syndrome" can occur in neonates and low birth weight infants treated with benzyl alcohol-preserved drugs, including enoxaparin sodium multiple-dose vials.
+Serious and fatal adverse reactions including "gasping syndrome" can occur in neonates and low-birth-weight infants treated with benzyl alcohol-preserved drugs, including enoxaparin sodium multiple-dose vials.
 The "gasping syndrome" is characterized by central nervous system depression, metabolic acidosis, and gasping respirations.
 The minimum amount of benzyl alcohol at which serious adverse reactions may occur is not known (enoxaparin sodium multiple-dose vials contain 15 mg of benzyl alcohol per mL) [see Use in Specific Populations (8.4)].
 
