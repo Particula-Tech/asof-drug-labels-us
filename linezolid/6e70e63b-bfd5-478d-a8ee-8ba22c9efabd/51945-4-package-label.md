@@ -158,38 +158,6 @@ LOT 00000000 EXP MM/DD/YYYY QTY: 01
 
 FUU 0703 01-88-26-020H
 
-# PRINCIPAL DISPLAY PANEL - 600 mg Tablet Bottle Label
-
-Pfizer NDC 0009-5135-02
-
-Zyvox® (linezolid) tablets
-
-600 mg
-
-20 Tablets Rx only
-
-# PRINCIPAL DISPLAY PANEL - 600 mg Tablet Blister Pack
-
-Zyvox® (linezolid) tablet 600 mg
-
-Distributed by Pharmacia & Upjohn Co Division of Pfizer Inc, NY, NY 10017
-
-EXP & LOT AREA
-
-# PRINCIPAL DISPLAY PANEL - 600 mg Tablet Blister Pack Carton
-
-UNIT DOSE
-
-Pfizer NDC 0009-5135-03
-
-Zyvox® (linezolid) tablets
-
-600 mg
-
-For in-institution use only
-
-30 Tablets Rx only
-
 # PRINCIPAL DISPLAY PANEL - 150 mL Bottle Label
 
 NDC 0009-5136-01
