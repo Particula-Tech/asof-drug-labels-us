@@ -19,7 +19,8 @@ Because of possible additive effects, caution should be advised when patients ar
 
 Impulse Control Symptoms Including Compulsive Behaviors Alert patients and their caregivers to the possibility that they may experience intense urges to spend money uncontrollably, intense urges to gamble, increased sexual urges, binge eating and/or other intense urges and the inability to control these urges while taking pramipexole dihydrochloride [see Warnings and Precautions (5.3)].
 
-Hallucinations and Psychotic-like Behavior Inform patients that hallucinations and other psychotic-like behavior can occur and that the elderly are at a higher risk than younger patients with Parkinson's disease [see Warnings and Precautions (5.4)].
+Hallucinations and Psychotic-like Behavior Inform patients that hallucinations and other psychotic-like behavior can occur.
+In patients with Parkinson’s disease, the elderly are at a higher risk than younger patients [see Warnings and Precautions (5.4)].
 
 Postural (Orthostatic) Hypotension Advise patients that they may develop postural (orthostatic) hypotension, with or without symptoms such as dizziness, nausea, fainting or blackouts, and sometimes, sweating.
 Hypotension may occur more frequently during initial therapy.
@@ -30,7 +31,7 @@ Pregnancy Because the teratogenic potential of pramipexole has not been complete
 Lactation Because of the possibility that pramipexole may be excreted in breast milk, advise women to notify their physicians if they intend to breast-feed or are breast-feeding an infant [see Use in Specific Populations (8.2)].
 Manufactured for: Macleods Pharma USA, INC,.
 Plainsboro, NJ 08536 Manufactured by: Macleods Pharmaceutical Ltd. Baddi, Himachal Pradesh, India.
-Revised May 2018
+Revised May 2020
 
 ## PATIENT INFORMATION
 
@@ -84,12 +85,10 @@ Tell your doctor right away if you fall asleep while you are doing activities su
 You may have: • dizziness • nausea • fainting • sweating Sit and stand up slowly after you have been sitting or lying down.
 
 • unusual urges.
-Some people who take certain medicines to treat Parkinson's disease, including pramipexole dihydrochloride tablets, have reported problems, such as gambling, compulsive eating, compulsive buying, and increased sex drive.
+Some people who take certain medicines to treat Parkinson’s disease or RLS, including pramipexole dihydrochloride tablets, have reported problems, such as gambling, compulsive eating, compulsive buying, and increased sex drive.
 
-If you or your family members notice that you are developing unusual urges or behaviors, talk to your doctor.
-
-• hallucinations and other psychotic-like behavior (seeing visions, hearing sounds or feeling sensations that are not real, confusion, excessive suspicion, aggressive behavior, agitation, delusional beliefs and disorganized thinking).
-Your chance of having hallucinations and other psychotic-like behavior is higher if you are elderly (age 65 or older).
+If you or your family members notice that you are developing unusual urges or behaviors, talk to your doctor. • hallucinations and other psychotic-like behavior (seeing visions, hearing sounds or feeling sensations that are not real, confusion, excessive suspicion, aggressive behavior, agitation, delusional beliefs and disorganized thinking).
+The chances of having hallucinations or other psychotic-like changes are higher in people taking pramipexole dihydrochloride for Parkinson’s disease who are elderly (age 65 or older).
 If you have hallucinations or other psychotic-like changes, talk with your doctor right away. • uncontrolled sudden movements (dyskinesia).
 If you have new dyskinesia or your existing dyskinesia gets worse tell your doctor. • posture changes.
 Talk with your doctor if you have posture changes you cannot control.
@@ -117,7 +116,7 @@ This Patient Information leaflet summarizes the most important information about
 If you would like more information, talk with your doctor.
 You can ask your pharmacist or doctor for information about pramipexole dihydrochloride tablets that is written for healthcare professionals.
 
-For more information about pramipexole dihydrochloride tablets call Macleods Pharma USA, Inc. at 1-888-943-3210.
+For more information about pramipexole dihydrochloride tablets call Macleods Pharma USA, Inc. at 1-888-943-3210 or 1-855-926-3384.
 
 What are the ingredients in pramipexole dihydrochloride tablets?
 Active Ingredient: pramipexole dihydrochloride monohydrate Inactive Ingredients: mannitol, pregelatinized starch, colloidal silicon dioxide, povidone, and magnesium stearate
@@ -129,10 +128,10 @@ Plainsboro, NJ 08536
 
 Manufactured by: Macleods Pharmaceutical Ltd. Baddi, Himachal Pradesh, India.
 
-Revised: May 2018
+Revised: May 2020
 
 The brands listed are trademarks of their respective owners and are not trademarks of Macleods Pharmaceutical Ltd.
 
 The makers of these brands are not affiliated with and do not endorse Macleods Pharmaceutical Ltd. or its products.
 
-PM01805507
+PM01805508
