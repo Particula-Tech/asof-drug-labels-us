@@ -42,7 +42,7 @@ However, re-treatment with Reclast may be considered in patients who have relaps
   Reclast is contraindicated in patients with creatinine clearance less than 35 mL/min and in those with evidence of acute renal impairment.
   A 5 mg dose of Reclast administered intravenously is recommended for patients with creatinine clearance greater than or equal to 35 mL/min.
   There are no safety or efficacy data to support the adjustment of the Reclast dose based on baseline renal function.
-  Therefore, no dose adjustment is required in patients with CrCl greater than or equal to 35 mL/min [see Contraindications (4), Warnings and Precautions (5.3)].
+  Therefore, no dose adjustment is required in patients with creatinine clearance greater than or equal to 35 mL/min [see Contraindications (4), Warnings and Precautions (5.3)].
 - A routine oral examination should be performed by the prescriber prior to initiation of Reclast treatment [see Warnings and Precautions (5.4)].
 
 ## 2.8 Calcium and Vitamin D Supplementation
@@ -56,9 +56,9 @@ However, re-treatment with Reclast may be considered in patients who have relaps
 
 The Reclast infusion time must not be less than 15 minutes given over a constant infusion rate.
 
-The i.v. infusion should be followed by a 10 mL normal saline flush of the intravenous line.
+The intravenous infusion should be followed by a 10 mL normal saline flush of the intravenous line.
 
 Reclast solution for infusion must not be allowed to come in contact with any calcium or other divalent cation-containing solutions, and should be administered as a single intravenous solution through a separate vented infusion line.
 
 If refrigerated, allow the refrigerated solution to reach room temperature before administration.
-After opening, the solution is stable for 24 hours at 2°C-8°C (36°F-46°F) [see How Supplied/Storage and Handling (16)].
+After opening, the solution is stable for 24 hours at 2°C to 8°C (36°F to 46°F) [see How Supplied/Storage and Handling (16)].

@@ -20,7 +20,7 @@ There was no progressive reduction of bone turnover markers with repeated annual
 
 Pharmacokinetic data in patients with osteoporosis and Paget's disease of bone are not available.
 
-Distribution: Single or multiple (every 28 days) 5-minute or 15-minute infusions of 2, 4, 8 or 16 mg zoledronic acid were given to 64 patients with cancer and bone metastases.
+Distribution: Single or multiple (every 28 days) 5-minute or 15-minute infusions of 2, 4, 8, or 16 mg zoledronic acid were given to 64 patients with cancer and bone metastases.
 The post-infusion decline of zoledronic acid concentrations in plasma was consistent with a triphasic process showing a rapid decrease from peak concentrations at end-of-infusion to less than 1% of Cmax 24 hours post infusion with population half-lives of t1/2α 0.24 hour and t1/2β 1.87 hours for the early disposition phases of the drug.
 The terminal elimination phase of zoledronic acid was prolonged, with very low concentrations in plasma between Days 2 and 28 post infusion, and a terminal elimination half-life t1/2γ of 146 hours.
 The area under the plasma concentration versus time curve (AUC0-24h) of zoledronic acid was dose proportional from 2 to 16 mg.
@@ -54,6 +54,6 @@ Race: The pharmacokinetics of zoledronic acid was not affected by race in patien
 Hepatic Impairment: No clinical studies were conducted to evaluate the effect of hepatic impairment on the pharmacokinetics of zoledronic acid.
 
 Renal Impairment: The pharmacokinetic studies conducted in 64 cancer patients represented typical clinical populations with normal to moderately-impaired renal function.
-Compared to patients with creatinine clearance greater than 80 mL/min (N=37), patients with creatinine clearance = 50-80 mL/min (N=15) showed an average increase in plasma AUC of 15%, whereas patients with creatinine clearance = 30-50 mL/min (N=11) showed an average increase in plasma AUC of 43%.
+Compared to patients with creatinine clearance greater than 80 mL/min (N = 37), patients with creatinine clearance = 50-80 mL/min (N = 15) showed an average increase in plasma AUC of 15%, whereas patients with creatinine clearance = 30-50 mL/min (N = 11) showed an average increase in plasma AUC of 43%.
 No dosage adjustment is required in patients with a creatinine clearance of greater than or equal to 35 mL/min.
 Reclast is contraindicated in patients with creatinine clearance less than 35 mL/min and in those with evidence of acute renal impairment due to an increased risk of renal failure [see Contraindications (4), Warnings and Precautions (5.3), Use in Specific Populations (8.6)].

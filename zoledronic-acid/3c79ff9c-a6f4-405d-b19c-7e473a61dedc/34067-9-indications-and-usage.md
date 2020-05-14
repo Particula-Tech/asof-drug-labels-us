@@ -3,7 +3,7 @@
 ## 1.1 Treatment of Osteoporosis in Postmenopausal Women
 
 Reclast is indicated for treatment of osteoporosis in postmenopausal women.
-In postmenopausal women with osteoporosis, diagnosed by bone mineral density (BMD) or prevalent vertebral fracture, Reclast reduces the incidence of fractures (hip, vertebral and non-vertebral osteoporosis-related fractures).
+In postmenopausal women with osteoporosis, diagnosed by bone mineral density (BMD) or prevalent vertebral fracture, Reclast reduces the incidence of fractures (hip, vertebral, and non-vertebral osteoporosis-related fractures).
 In patients at high risk of fracture, defined as a recent low-trauma hip fracture, Reclast reduces the incidence of new clinical fractures [see Clinical Studies (14.1)].
 
 ## 1.2 Prevention of Osteoporosis in Postmenopausal Women
@@ -27,6 +27,6 @@ Treatment is indicated in patients with Paget’s disease of bone with elevation
 
 The safety and effectiveness of Reclast for the treatment of osteoporosis is based on clinical data of three years duration.
 The optimal duration of use has not been determined.
-All patients on bisphosphonate therapy should have the need for continued therapy re-evaluated on a periodic basis.
+All patients on bisphosphonate therapy should have the need for continued therapy reevaluated on a periodic basis.
 Patients at low-risk for fracture should be considered for drug discontinuation after 3 to 5 years of use.
-Patients who discontinue therapy should have their risk for fracture re-evaluated periodically.
+Patients who discontinue therapy should have their risk for fracture reevaluated periodically.

@@ -1,6 +1,6 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-See FDA-Approved Medication Guide
+Advise the patient to read the FDA-approved patient labeling (Medication Guide).
 
 Information for Patients
 
@@ -8,9 +8,9 @@ Patients should be made aware that Reclast contains the same active ingredient (
 
 Reclast is contraindicated in patients with creatinine clearance less than 35 mL/min [see Contraindications (4)].
 
-Before being given Reclast, patients should tell their doctor if they have kidney problems and what medications they are taking.
+Before being given Reclast, patients should tell their doctor if they have kidney problems and what medications they are taking [see Warnings and Precautions (5.3)].
 
-Reclast should not be given if the patient is pregnant or plans to become pregnant, or if she is breast-feeding [see Warnings and Precautions (5.6)].
+Reclast should not be given if the patient is pregnant or plans to become pregnant, or if she is breastfeeding [see Use in Specific Populations (8.1, 8.2, 8.3)].
 
 There have been reports of bronchoconstriction in aspirin-sensitive patients receiving bisphosphonates, including Reclast.
 Before being given Reclast, patients should tell their doctor if they are aspirin-sensitive.
@@ -19,12 +19,12 @@ If the patient had surgery to remove some or all of the parathyroid glands in th
 
 Reclast is given as an infusion into a vein by a nurse or a doctor, and the infusion time must not be less than 15 minutes.
 
-On the day of treatment the patient should eat and drink normally, which includes drinking at least 2 glasses of fluid such as water within a few hours prior to the infusion, as directed by their doctor, before receiving Reclast.
+On the day of treatment the patient should eat and drink normally, which includes drinking at least 2 glasses of fluid, such as water within a few hours prior to the infusion, as directed by their doctor, before receiving Reclast.
 
 After getting Reclast it is strongly recommended patients with Paget’s disease take calcium in divided doses (for example, 2 to 4 times a day) for a total of 1500 mg calcium a day to prevent low blood calcium levels.
 This is especially important for the two weeks after getting Reclast [see Warnings and Precautions (5.2)].
 
-Adequate calcium and vitamin D intake is important in patients with osteoporosis and the current recommended daily intake of calcium is 1200 mg and vitamin D is 800 international units – 1000 international units daily.
+Adequate calcium and vitamin D intake is important in patients with osteoporosis and the current recommended daily intake of calcium is 1200 mg and vitamin D is 800 international units to 1000 international units daily.
 All patients should be instructed on the importance of calcium and vitamin D supplementation in maintaining serum calcium levels.
 
 Patients should be aware of the most commonly associated side effects of therapy.
@@ -45,4 +45,4 @@ Consider withholding future Reclast treatment if severe symptoms develop.
 
 Atypical femur fractures in patients on bisphosphonate therapy have been reported; patients with thigh or groin pain should be evaluated to rule out a femoral fracture.
 
-T2017-76 July 2017
+T2020-62
