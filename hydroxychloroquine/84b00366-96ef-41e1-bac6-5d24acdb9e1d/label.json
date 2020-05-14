@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA213342"
+  ],
+  "inn": "hydroxychloroquine",
+  "labeler": "Accord Healthcare, Inc.",
+  "package_ndcs": [
+    "16729-485-01",
+    "16729-485-16"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "hydroxychloroquine sulfate",
+      "name": "Hydroxychloroquine Sulfate"
+    }
+  ],
+  "setid": "84b00366-96ef-41e1-bac6-5d24acdb9e1d",
+  "source": "dailymed"
+}
