@@ -1,20 +1,20 @@
 # 7. DRUG INTERACTIONS
 
-## 7.1. Insulin
+## 7.1 Insulin
 
 Changes in insulin sensitivity or glycemic control may occur in patients treated with androgens.
 In diabetic patients, the metabolic effects of androgens may decrease blood glucose and, therefore, may necessitate a decrease in the dose of anti-diabetic medication.
 
-## 7.2. Oral Anticoagulants
+## 7.2 Oral Anticoagulants
 
 Changes in anticoagulant activity may be seen with androgens, therefore more frequent monitoring of international normalized ration (INR) and prothrombin time is recommended in patients taking warfarin, especially at the initiation and termination of androgen therapy.
 
-## 7.3. Corticosteroids
+## 7.3 Corticosteroids
 
 The concurrent use of testosterone with corticosteroids may result in increased fluid retention and requires monitoring particularly in patients with cardiac, renal, or hepatic disease.
 
-## 7.4. Oxymetazoline
+## 7.4 Oxymetazoline
 
-A 2.6% decrease in mean AUC(0-24) and 3.6% decrease in mean Cmax of total testosterone was observed in males with symptomatic seasonal rhinitis when treated with oxymetazoline 30 minutes prior to Natesto compared to when left untreated.
+A 2.6% decrease in mean AUC(0-24) and 3.6% decrease in mean C max of total testosterone was observed in males with symptomatic seasonal rhinitis when treated with oxymetazoline 30 minutes prior to Natesto compared to when left untreated.
 Oxymetazoline does not impact the absorption of testosterone when concomitantly administered with Natesto [see Clinical Pharmacology (12.3)].
 Drug interaction potential with other nasally administered drugs other than oxymetazoline has not been studied.

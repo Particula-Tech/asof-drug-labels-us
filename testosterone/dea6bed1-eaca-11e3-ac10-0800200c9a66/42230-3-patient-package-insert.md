@@ -1,114 +1,16 @@
-Patient Information Natesto (Na-tes-to) CIII (testosterone) nasal gel
-
-What is Natesto?
-
-- Natesto is a prescription medicine that contains testosterone and is used to treat adult males who have low or no testosterone and with conditions associated with low or no testosterone.
-- Your healthcare provider will test the testosterone level in your blood before you start and while you are using Natesto.
-- It is not known if Natesto is safe or effective in children less than 18 years old.
-  Improper use of Natesto may affect bone growth in children.
-- Natesto is a controlled substance (CIII) because it contains testosterone that can be a target for people who abuse prescription medicines.
-  Keep your Natesto in a safe place to protect it.
-  Never give your Natesto to anyone else, even if they have the same symptoms you have.
-  Selling or giving away this medicine may harm others and is against the law.
-- Natesto is not meant for use in women.
-
-Who should not use Natesto?
-
-Do not use Natesto if you:
-
-- are a man who has breast cancer
-- have or might have prostate cancer
-- are pregnant or may become pregnant or are breastfeeding.
-  Natesto may harm your unborn or breastfeeding baby.
-
-Talk to your healthcare provider before using Natesto if you have any of the above conditions.
-
-Before using Natesto, tell your healthcare provider about all of your medical conditions, including if you:
-
-- have or have had nose (nasal) or sinus problems or nasal or sinus surgery
-- have had a broken nose (fracture) within the past 6 months
-- have or have had a fracture of your nose that caused the inside of your nose to be crooked (deviated anterior nasal septum)
-- have or have had problems with swelling of the lining of your nose (mucosal inflammatory disorder)
-- have breast cancer
-- have or might have prostate cancer
-- have urinary problems due to an enlarged prostate
-- have heart problems
-- have liver or kidney problems
-- have problems breathing while you sleep (sleep apnea)
-
-Tell your healthcare provider about all the medicines you take, including prescription and over-the-counter medicines, vitamins, or herbal supplements.
-
-Using Natesto with certain other medicines can affect each other.
-Especially tell your healthcare provider if you take:
-
-• insulin • medicines that decrease blood clotting • corticosteroids
-
-How should I use Natesto?
-
-- See the detailed Instructions for Use at the end of this Patient Information for Instructions about the right way to use Natesto.
-- Use Natesto exactly as your healthcare provider tells you to.
-  Your healthcare provider will tell you how much Natesto to use and when to use it.
-- Natesto is for use in your nose (intranasally) only.
-- Natesto can be used with a type of nasal spray called sympathomimetic decongestants such as oxymetazoline.
-  Natesto should not be used with other nasal sprays.
-  It is not known if Natesto is safe and effective when used with other nasal sprays.
-
-What are the possible side effects of Natesto?
-Natesto may cause serious side effects, including:
-
-- Nose (nasal) problems.
-  Signs and symptoms of nasal problems may include runny nose, congestion, sneezing, nose bleed, nasal discomfort, nasal scabbing, or nasal dryness.
-- If you already have enlargement of your prostate gland, your signs and symptoms can get worse while using Natesto.
-  This can include: Increased urination at night, trouble starting your urine stream, having to pass urine many times during the day, having an urge that you have to go to the bathroom right away, having a urine accident, being unable to pass urine or weak urine flow.
-- Possible increased risk of prostate cancer.
-  Your healthcare provider should check you for prostate cancer or any other prostate problems before you start and while you use Natesto.
-- Changes in red blood cells.
-- Blood clots in your legs or lungs.
-  Signs and symptoms of a blood clot in your legs can include leg pain, swelling or redness.
-  Signs and symptoms of a blood clot in your lungs can include difficulty breathing or chest pain.
-- In large doses, Natesto may lower your sperm count.
-- Possible increased risk of liver problems.
-  Signs and symptoms of liver problems may include: Nausea or vomiting, yellowing of your skin or whites of your eyes, dark urine, or pain on the right side of your stomach area (abdominal pain).
-- Swelling of your ankles, feet, or body, with or without heart failure.
-  This may cause serious problems for people who have heart, kidney, or liver disease.
-- Enlarged or painful breasts.
-- Problems breathing while you sleep (sleep apnea).
-
-Call your healthcare provider right away if you have any of the serious side effects listed above.
-These are not all the possible side effects of Natesto.
-Call your doctor for medical advice about side effects.
-You may report side effects to FDA at 1-800-FDA-1088.
-
-The most common side effects of Natesto include:
-
-- increased prostate specific antigen (a test used to screen for prostate cancer)
-- headache
-- runny nose
-- nose bleeds
-- nose pain
-- sore throat
-- cough
-- upper respiratory infection
-- sinus infection
-- nose scabs
-
-Other side effects include more erections than normal for you or erections that last a long time.
-
-How should I store Natesto?
-
-- Store Natesto between 68°F to 77°F (20°C to 25°C).
-- Keep Natesto and all medicines out of the reach of children.
-
-General information about the safe and effective use of Natesto.
-
-Medicines are sometimes prescribed for purposes other than those listed in a Patient Information leaflet.
-Do not use Natesto for a condition for which it was not prescribed.
-Do not give Natesto to other people, even if they have the same symptoms that you have.
-It may harm them.
-
-If you would like more information about Natesto, talk with your healthcare provider.
-You can ask your pharmacist or healthcare provider for information about Natesto that is written for health professionals.
-For more information go to www.natesto.com or call 1-844-Natesto (1-844 628-3786)
-
-What are the ingredients in Natesto?
-Active ingredient: testosterone Inactive ingredients: castor oil, oleoyl polyoxylglycerides, and colloidal silicon dioxide Manufactured by: Trimel BioPharma SRL, Druants, Christ Church, Barbados BB17097
+| Patient Information Natesto (Na-tes-to) CIII (testosterone) nasal gel |  |  |
+| --- | --- | --- |
+| What is Natesto? Natesto is a prescription medicine that contains testosterone and is used to treat adult males who have low or no testosterone due to certain medical conditions.Your healthcare provider will test the testosterone level in your blood before you start and while you are using Natesto.It is not known if Natesto is safe or effective to treat men who have low testosterone due to aging.It is not known if Natesto is safe or effective in children less than 18 years old. Improper use of Natesto may affect bone growth in children.Natesto is a controlled substance (CIII) because it contains testosterone that can be a target for people who abuse prescription medicines. Keep your Natesto in a safe place to protect it. Never give your Natesto to anyone else, even if they have the same symptoms you have. Selling or giving away this medicine may harm others and is against the law.Natesto is not meant for use in women. |  |  |
+| Who should not use Natesto? Do not use Natesto if you: are a man who has breast cancerhave or might have prostate cancerare pregnant or may become pregnant or are breastfeeding. Natesto may harm your unborn or breastfeeding baby. |  |  |
+| Talk to your healthcare provider before using Natesto if you have any of the above conditions. |  |  |
+| Before using Natesto, tell your healthcare provider about all of your medical conditions, including if you: have or have had nose (nasal) or sinus problems or nasal or sinus surgery have had a broken nose (fracture) within the past 6 monthshave or have had a fracture of your nose that caused the inside of your nose to be crooked (deviated anterior nasal septum)have or have had problems with swelling of the lining of your nose (mucosal inflammatory disorder)have breast cancerhave or might have prostate cancerhave urinary problems due to an enlarged prostatehave heart problemshave liver or kidney problemshave problems breathing while you sleep (sleep apnea) |  |  |
+| Tell your healthcare provider about all the medicines you take, including prescription and over-the-counter medicines, vitamins, or herbal supplements. Using Natesto with certain other medicines can affect each other. Especially tell your healthcare provider if you take: |  |  |
+| insulin | medicines that decrease blood clotting | corticosteroids |
+| How should I use Natesto? See the detailed Instructions for Use at the end of this Patient Information for Instructions about the right way to use Natesto. Use Natesto exactly as your healthcare provider tells you to. Your healthcare provider will tell you how much Natesto to use and when to use it.Natesto is for use in your nose (intranasally) only.Natesto can be used with a type of nasal spray called sympathomimetic decongestants such as oxymetazoline. Natesto should not be used with other nasal sprays. It is not known if Natesto is safe and effective when used with other nasal sprays. |  |  |
+| What are the possible side effects of Natesto? Natesto may cause serious side effects, including: Nose (nasal) problems. Signs and symptoms of nasal problems may include runny nose, congestion, sneezing, nose bleed, nasal discomfort, nasal scabbing, or nasal dryness. If you already have enlargement of your prostate gland, your signs and symptoms can get worse while using Natesto. This can include: Increased urination at night, trouble starting your urine stream, having to pass urine many times during the day, having an urge that you have to go to the bathroom right away, having a urine accident, being unable to pass urine or weak urine flow. Possible increased risk of prostate cancer. Your healthcare provider should check you for prostate cancer or any other prostate problems before you start and while you use Natesto. Changes in red blood cells.Blood clots in your legs or lungs. Signs and symptoms of a blood clot in your legs can include leg pain, swelling or redness. Signs and symptoms of a blood clot in your lungs can include difficulty breathing or chest pain. Possible increased risk of heart attack or stroke.In large doses, Natesto may lower your sperm count.Possible increased risk of liver problems. Signs and symptoms of liver problems may include: Nausea or vomiting, yellowing of your skin or whites of your eyes, dark urine, or pain on the right side of your stomach area (abdominal pain). Swelling of your ankles, feet, or body, with or without heart failure. This may cause serious problems for people who have heart, kidney, or liver disease. Enlarged or painful breasts.Problems breathing while you sleep (sleep apnea). |  |  |
+| Call your healthcare provider right away if you have any of the serious side effects listed above. These are not all the possible side effects of Natesto. Call your doctor for medical advice about side effects. You may report side effects to FDA at 1-800-FDA-1088. The most common side effects of Natesto include: increased prostate specific antigen (a test used to screen for prostate cancer)headacherunny nosenose bleedsnose painsore throatcoughupper respiratory infectionsinus infectionnose scabs |  |  |
+| Other side effects include more erections than normal for you or erections that last a long time. |  |  |
+| How should I store Natesto? Store Natesto between 68ºF to 77ºF (20ºC to 25ºC).Keep Natesto and all medicines out of the reach of children. |  |  |
+| General information about the safe and effective use of Natesto. |  |  |
+| Medicines are sometimes prescribed for purposes other than those listed in a Patient Information leaflet. Do not use Natesto for a condition for which it was not prescribed. Do not give Natesto to other people, even if they have the same symptoms that you have. It may harm them. If you would like more information about Natesto, talk with your healthcare provider. You can ask your pharmacist or healthcare provider for information about Natesto that is written for health professionals. For more information go to www.natesto.com or call 1-833-698-3786. |  |  |
+| What are the ingredients in Natesto? Active ingredient: testosterone Inactive ingredients: castor oil, oleoyl polyoxylglycerides, and colloidal silicon dioxide Marketed by: Acerus Pharmaceuticals Corporation Manufactured by: Haupt Pharma Amareg GmbH, Donaustaufer Str. 378, Regensburg, Bavaria D-93055, Germany |  |  |

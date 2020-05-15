@@ -1,5 +1,7 @@
 # 2. DOSAGE AND ADMINISTRATION
 
+Prior to initiating Natesto, confirm the diagnosis of hypogonadism by ensuring that serum testosterone concentrations have been measured in the morning on at least two separate days and that these serum testosterone concentrations are below the normal range.
+
 ## 2.1. Dosing
 
 The recommended dose of Natesto is 11 mg of testosterone (2 pump actuations; 1 actuation per nostril) administered intranasally three times daily for a total daily dose of 33 mg.
@@ -43,7 +45,9 @@ The inside label may be found by unwrapping the outer flap from around the conta
 ## 2.3. Use with Nasally Administered Drugs Other Than Sympathomimetic Decongestants
 
 The drug interaction potential between Natesto and nasally administered drugs other than sympathomimetic decongestants is unknown.
-Therefore, Natesto is not recommended for use with nasally administered drugs other than sympathomimetic decongestants (e.g., oxymetazoline) [see Drug Interactions (7.4) and Clinical Pharmacology (12.3)].
+Therefore, Natesto is not recommended for use with nasally administered drugs other than sympathomimetic decongestants
+
+(e.g., oxymetazoline) [see Drug Interactions (7.4) and Clinical Pharmacology (12.3)].
 
 ## 2.4. Temporary Discontinuation of Use for Severe Rhinitis
 

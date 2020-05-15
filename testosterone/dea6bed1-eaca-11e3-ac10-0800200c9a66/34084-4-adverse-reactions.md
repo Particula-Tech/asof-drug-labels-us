@@ -1,6 +1,6 @@
 # 6. ADVERSE REACTIONS
 
-## 6.1. Clinical Trial Experience
+## 6.1 Clinical Trial Experience
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared with rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
@@ -18,24 +18,25 @@ Table 1 shows adverse reactions reported by ≥3% of patients treated with 11 mg
 
 Table 1: Adverse Reactions Reported by ≥3% of Patients Treated with Natesto (11 mg of testosterone) Three Times Daily in the 90-Day Clinical Study
 
-| Adverse Reactions |  |  |  |  |  | Natesto (11 mg of Testosterone) Three Times Daily (N=78) n (%) |  |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| PSA increased |  |  |  |  |  | 4 (5.1) |  |
-| Headache |  |  |  |  |  | 3 (3.8) |  |
-| Rhinorrhea |  |  |  |  |  | 3 (3.8) |  |
-| Epistaxis |  |  |  |  |  | 3 (3.8) |  |
-| Nasal discomfort |  |  |  |  |  | 3 (3.8) |  |
-| Nasopharyngitis |  |  |  |  |  | 3 (3.8) |  |
-| Bronchitis |  |  |  |  |  | 3 (3.8) |  |
-| Upper respiratory tract infection |  |  |  |  |  | 3 (3.8) |  |
-| Sinusitis |  |  |  |  |  | 3 (3.8) |  |
-| Nasal scab |  |  |  |  |  | 3 (3.8) |  |
+| Adverse Reactions | Natesto (11 mg of Testosterone) Three Times Daily (N=78) n (%) |
+| --- | --- |
+| PSA increased | 4 (5.1) |
+| Headache | 3 (3.8) |
+| Rhinorrhea | 3 (3.8) |
+| Epistaxis | 3 (3.8) |
+| Nasal discomfort | 3 (3.8) |
+| Nasopharyngitis | 3 (3.8) |
+| Bronchitis | 3 (3.8) |
+| Upper respiratory tract infection | 3 (3.8) |
+| Sinusitis | 3 (3.8) |
+| Nasal scab | 3 (3.8) |
 
 Adverse reactions reported by >2% but <3% of patients in the 90-day clinical study include: blood pressure increased, dysgeusia, nasal dryness, nasal congestion, and cough.
 
 Extension Periods
 
 Among the 78 patients who received Natesto three times daily in the 90-day clinical study, a total of 69 patients received Natesto three times daily in the first 90-day extension period.
+
 Among these 69 patients, the most common adverse reactions were: nasopharyngitis, PSA increased, parosmia, nasal discomfort, rhinorrhea and nasal scab.
 
 Table 2 shows adverse reactions reported by ≥3% of patients who received Natesto three times daily in both the 90-day clinical study and in the 90-day extension period.
@@ -77,9 +78,11 @@ Nasal Adverse Reactions
 
 Among all subjects (n=306) who received Natesto at any dose in the 90-day clinical study and its 90- and 180-day extension periods, the following nasal adverse reactions were reported: nasopharyngitis (8.2%), rhinorrhea (7.8%), epistaxis (6.5%), nasal discomfort (5.9%), parosmia (5.2%), nasal scab (5.2%), upper respiratory infection (4.2%), nasal dryness (4.2%), and nasal congestion (3.9%).
 
-## 6.2. Postmarketing Experience
+## 6.2 Postmarketing Experience
 
 The following adverse reactions have been identified during post-approval use of testosterone.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+Cardiovascular Disorders: myocardial infarction, stroke [see Warnings and Precautions (5.6)]
 
 Vascular Disorders: Venous thromboembolism [see Warnings and Precautions (5.5)]

@@ -33,9 +33,9 @@ No studies were conducted in patients with renal impairment.
 
 No studies were conducted in patients with hepatic impairment.
 
-## 8.8. Use in Men With Body Mass Index greater than 35 kg/m2
+## 8.8. Use in Men With Body Mass Index greater than 35 kg/m 2
 
-Safety and efficacy of Natesto in males with body mass index greater than 35 kg/m2 has not been established.
+Safety and efficacy of Natesto in males with body mass index greater than 35 kg/m 2 has not been established.
 
 ## 8.9. Allergic Rhinitis
 

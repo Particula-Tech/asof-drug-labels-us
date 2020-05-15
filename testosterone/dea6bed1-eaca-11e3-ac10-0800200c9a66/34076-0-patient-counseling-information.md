@@ -30,7 +30,3 @@ Patients Should be Advised of the Following Instructions For Use
 - Keep Natesto out of the reach of children.
 - Report any changes in their state of health, such as changes in urinary habits, breathing, sleep, mood, nasal irritation or rhinitis.
 - Never share Natesto with anyone.
-
-© 2014 Trimel BioPharma SRL
-
-Trimel BioPharma SRL Durants, Christ Church Barbados, BB17097

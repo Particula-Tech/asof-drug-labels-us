@@ -7,7 +7,7 @@ These effects include the growth and maturation of the prostate, seminal vesicle
 Testosterone and DHT are necessary for the normal development of secondary sex characteristics.
 
 Male hypogonadism, a clinical syndrome resulting from insufficient secretion of testosterone, has two main etiologies.
-Primary hypogonadism is caused by defects of the gonads, such as Klinefelter’s syndrome or Leydig cell aplasia, whereas secondary hypogonadism is the failure of the hypothalamus (or pituitary) to produce sufficient gonadotropins (FSH, LH).
+Primary hypogonadism is caused by defects of the gonads, such as Klinefelter's syndrome or Leydig cell aplasia, whereas secondary hypogonadism is the failure of the hypothalamus (or pituitary) to produce sufficient gonadotropins (FSH, LH).
 
 ## 12.2. Pharmacodynamics
 
@@ -50,6 +50,6 @@ Use in patients with allergic rhinitis and oxymetazoline: The effects of allergi
 Eighteen males with seasonal allergic rhinitis received 3 doses of 11 mg of testosterone intranasally (testosterone dose of 33 mg/day) while they were in the asymptomatic, symptomatic, and symptomatic but treated (with oxymetazoline) states using an environmental challenge chamber model.
 
 Serum total testosterone concentrations were decreased by 21 to 24% in males with symptomatic allergic rhinitis.
-A 2.6% decrease in mean AUC(0-24) and 3.6% decrease in mean Cmax of total testosterone was observed in males with symptomatic seasonal rhinitis when treated with oxymetazoline 30 minutes prior to Natesto compared to when left untreated.
+A 2.6% decrease in mean AUC(0-24) and 3.6% decrease in mean C max of total testosterone was observed in males with symptomatic seasonal rhinitis when treated with oxymetazoline 30 minutes prior to Natesto compared to when left untreated.
 Oxymetazoline does not impact the absorption of testosterone when concomitantly administered with Natesto [see Clinical Pharmacology (12.3)].
 Drug interaction potential with nasally administered drugs other than oxymetazoline has not been studied.
