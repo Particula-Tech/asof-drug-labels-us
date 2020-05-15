@@ -10,7 +10,7 @@ Decreases in high density lipoprotein (HDL) cholesterol to less than 25 mg/dL we
 Monitor lipid changes and treat abnormalities during therapy.
 The effects on triglycerides, HDL cholesterol, and total cholesterol were reversible with cessation of therapy, and could generally be mitigated by dose reduction and/or concomitant antilipemic therapy.
 
-Perform fasting blood lipid determinations before TARGRETIN therapy is initiated and weekly until the lipid response to TARGRETIN is established, which usually occurs within two to four weeks, and monitor at eight week intervals thereafter.
+Perform fasting blood lipid determinations before TARGRETIN therapy is initiated and weekly until the lipid response to TARGRETIN is established, which usually occurs within 2 to 4 weeks, and monitor at 8-week intervals thereafter.
 Fasting triglycerides should be normal or normalized with appropriate intervention prior to initiating TARGRETIN therapy.
 Maintain triglyceride levels below 400 mg/dL to reduce the risk of clinical sequelae [see Warnings and Precautions (5.2)].
 If fasting triglycerides are elevated or become elevated during treatment, institute antilipemic therapy, and if necessary, reduce or interrupt the dose of TARGRETIN.
@@ -25,13 +25,13 @@ One patient with advanced non-CTCL cancer died of pancreatitis.
 Interrupt TARGRETIN and evaluate if pancreatitis is suspected.
 Patients with CTCL who have risk factors for pancreatitis (e.g., prior pancreatitis, uncontrolled hyperlipidemia, excessive alcohol consumption, uncontrolled diabetes mellitus, biliary tract disease, and medications known to increase triglyceride levels or to be associated with pancreatic toxicity) may be at greater risk for pancreatitis associated with TARGRETIN [see Warnings and Precautions (5.1)].
 
-## 5.3 Hepatotoxicity, cholestasis, and hepatic failure
+## 5.3 Hepatotoxicity, Cholestasis, and Hepatic Failure
 
 TARGRETIN caused elevations in liver chemistry tests (LFTs) in 5% (AST), 2% (ALT), and 0% (bilirubin) in patients with CTCL receiving an initial dose of 300 mg/m2/day.
 In contrast, with an initial dose greater than 300 mg/m2/day of TARGRETIN, the incidence of LFT elevations was higher at 7% (SGOT/AST), 9% (SGPT/ALT), and 6% (bilirubin).
 Two patients developed cholestasis, including one patient who died of liver failure.
-In clinical trials, elevated LFTs resolved within one month in 80% of patients following a decrease in dose or discontinuation of therapy.
-Obtain baseline LFTs and monitor LFTs after one, two and four weeks of treatment initiation, and if stable, at least every eight weeks thereafter during treatment.
+In clinical trials, elevated LFTs resolved within 1 month in 80% of patients following a decrease in dose or discontinuation of therapy.
+Obtain baseline LFTs and monitor LFTs after 1, 2, and 4 weeks of treatment initiation, and if stable, at least every 8 weeks thereafter during treatment.
 Interrupt or discontinue TARGRETIN if test results exceed three times the upper limit of normal values for AST, ALT, or bilirubin.
 
 ## 5.4 Hypothyroidism
@@ -48,7 +48,7 @@ Obtain baseline thyroid function tests and patients monitor during treatment.
 Leukopenia in the range of 1000 to <3000 WBC x 106/L occurred in 18% of patients with CTCL receiving an initial dose of 300 mg/m2/day of TARGRETIN.
 Patients receiving an initial dose greater than 300 mg/m2/day of TARGRETIN had an incidence of leukopenia of 43%.
 No patient with CTCL treated with TARGRETIN developed leukopenia of less than 1000 WBC x 106/L.
-The usual time to onset of leukopenia was four to eight weeks after initiating TARGRETIN.
+The usual time to onset of leukopenia was 4 to 8 weeks after initiating TARGRETIN.
 The leukopenia observed in most patients was predominantly neutropenia.
 In the 300 mg/m2/day initial dose group, the incidence of NCI Grade 3 and Grade 4 neutropenia, respectively, was 12% and 4%.
 The leukopenia and neutropenia experienced during TARGRETIN therapy resolved after dose reduction or discontinuation of treatment, on average within 30 days in 93% of the patients with CTCL and 82% of patients with non-CTCL cancers.
@@ -69,13 +69,13 @@ Because of the relationship of bexarotene to vitamin A, patients should be advis
 
 ## 5.8 Hypoglycemia Risk in Patients with Diabetes Mellitus
 
-In patients using insulin, agents enhancing insulin secretion (e.g., sulfonylureas), or insulin-sensitizers (e.g., thiazolidinedione class), based on the mechanism of action, TARGRETIN could enhance the action of these agents, resulting in hypoglycemia.
+In patients using insulin, agents enhancing insulin secretion (e.g., sulfonylureas), or insulin sensitizers (e.g., thiazolidinedione class), based on the mechanism of action, TARGRETIN could enhance the action of these agents, resulting in hypoglycemia.
 Hypoglycemia has not been associated with the use of TARGRETIN as monotherapy.
 
 ## 5.9 Photosensitivity
 
 Retinoids as a class have been associated with photosensitivity.
-In vitro assays indicate that bexarotene is a potential photosensitizing agent.
+In vitroassays indicate that bexarotene is a potential photosensitizing agent.
 Phototoxicity manifested as sunburn and skin sensitivity to sunlight occurred in patients who were exposed to direct sunlight while receiving TARGRETIN.
 Advise patients to minimize exposure to sunlight and artificial ultraviolet light while receiving TARGRETIN.
 
@@ -85,12 +85,12 @@ Before initiating TARGRETIN therapy, obtain a CBC, fasting lipid profile, liver 
 Fasting triglycerides should be normal or normalized with appropriate intervention prior to therapy.
 Monitor lab tests during TARGRETIN therapy as described above.
 
-Hyperlipidemia usually occurs within the initial two to four weeks.
+Hyperlipidemia usually occurs within the initial 2 to 4 weeks.
 Therefore, weekly lipid determinations are recommended during this interval.
 Subsequently, in patients not hyperlipidemic, determinations can be performed less frequently [see Warnings and Precautions (5.1)].
 
 A white blood cell count with differential should be obtained at baseline and periodically during treatment.
-Baseline liver function tests should be obtained and should be carefully monitored after one, two and four weeks of treatment initiation, and if stable, periodically thereafter during treatment.
+Baseline liver function tests should be obtained and should be carefully monitored after 1, 2, and 4 weeks of treatment initiation, and if stable, periodically thereafter during treatment.
 Baseline thyroid function tests should be obtained and then monitored during treatment as indicated [see Warnings and Precautions (5.3, 5.4, 5.5, 5.6)].
 
 ## 5.11 Drug/Laboratory Test Interactions

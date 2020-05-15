@@ -9,4 +9,4 @@ If this drug is used during pregnancy or if the patient becomes pregnant while t
 
 ## 4.2 Hypersensitivity
 
-TARGRETIN capsules are contraindicated in patients with a known serious hypersensitivity to bexarotene or other components of the product.
+TARGRETIN Capsules are contraindicated in patients with a known serious hypersensitivity to bexarotene or other components of the product.

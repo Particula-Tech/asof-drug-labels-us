@@ -1,5 +1,3 @@
-# Patient Package Insert
-
 Patient Information
 
 TARGRETIN® (tar-GRET-in)
@@ -16,18 +14,18 @@ For females who can become pregnant:
 
 - •You should avoid becoming pregnant during treatment with TARGRETIN.
 - •Do not take TARGRETIN if you are pregnant or plan to become pregnant.
-- •Your healthcare provider will do a pregnancy test, within one week before you start TARGRETIN, and each month during treatment with TARGRETIN to make sure that you are not pregnant.
-- •You must use two effective forms of birth control together starting one month before you begin treatment with TARGRETIN, during treatment, and for one month after stopping TARGRETIN.
+- •Your healthcare provider will do a pregnancy test, within 1 week before you start TARGRETIN, and each month during treatment with TARGRETIN to make sure that you are not pregnant.
+- •You must use two effective forms of birth control together starting 1 month before you begin treatment with TARGRETIN, during treatment, and for 1 month after stopping TARGRETIN.
   Birth control pills (oral contraceptives) and other hormonal forms of birth control may not be effective if used with TARGRETIN.
   At least one of the forms of birth control that you choose should not contain hormones.
   Talk to your healthcare provider about what forms of birth control may be right for you during treatment with TARGRETIN.
 - •You should start taking TARGRETIN on the second or third day of a normal menstrual period.
   Follow your healthcare provider’s instructions about when to start TARGRETIN.
-- •Call your healthcare provider right away, if you become pregnant or think that you are pregnant during treatment with TARGRETIN, and for one month after you stop taking TARGRETIN.
+- •Call your healthcare provider right away, if you become pregnant or think that you are pregnant during treatment with TARGRETIN, and for 1 month after you stop taking TARGRETIN.
 
 For males:
 
-- •You must use a condom with female partners who are pregnant, might be pregnant, or who are able to become pregnant, during treatment with TARGRETIN and for at least one month after your last dose.
+- •You must use a condom with female partners who are pregnant, might be pregnant, or who are able to become pregnant, during treatment with TARGRETIN and for at least 1 month after your last dose.
 
 What is TARGRETIN?
 
@@ -71,7 +69,7 @@ How should I take TARGRETIN?
   Your healthcare provider may change your daily dose of TARGRETIN as needed to treat your CTCL or if you get certain side effects.
   You should not change your dose unless your healthcare provider tells you to.
 
-Take your dose of TARGRETIN 1 time a day with a meal.
+Take your dose of TARGRETIN one time a day with a meal.
 Your healthcare provider will do blood tests before you start TARGRETIN and during treatment to check for side effects.
 
 What should I avoid while taking TARGRETIN?
@@ -152,24 +150,24 @@ What are the ingredients in TARGRETIN?
 
 Active ingredient: bexarotene
 
-Inactive ingredients: polyethylene glycol 400, polysorbate 20, povidone, and butylated hydroxyanisole.
+Inactive ingredients: butylated hydroxyanisole, polyethylene glycol 400, polysorbate 20, and povidone.
 The capsule shell contains gelatin, sorbitol special-glycerin blend, and titanium dioxide.
 
-Manufactured for: Valeant Pharmaceuticals North America LLC, Bridgewater, NJ 08807 USA
+Distributed by: Bausch Health US, LLC, Bridgewater, NJ 08807 USA
 
-By: Catalent Pharma Solutions LLC, St. Petersburg, FL 33716
+Manufactured by: Catalent Pharma Solutions LLC, St. Petersburg, FL 33716 USA
 
-U.S. Patent Number: 5,962,731
-
-Targretin is a trademark of Valeant Pharmaceuticals International, Inc. or its affiliates.
+TARGRETIN is a trademark of Bausch Health Companies Inc. or its affiliates.
 
 Any other product/brand names are trademarks of their respective owners.
 
-©Valeant Pharmaceuticals International, Inc.
+© 2020 Bausch Health Companies Inc. or its affiliates
 
 For more information, call 1-800-321-4576.
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 
 Rev.
-10/2015
+04/2020
+
+9436601

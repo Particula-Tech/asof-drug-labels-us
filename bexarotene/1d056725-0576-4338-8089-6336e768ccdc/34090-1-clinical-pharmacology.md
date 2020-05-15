@@ -11,12 +11,12 @@ The exact mechanism of action of bexarotene in the treatment of cutaneous T-cell
 
 ## 12.3 Pharmacokinetics
 
-Terminal half-life of bexarotene is approximately seven hours.
+Terminal half-life of bexarotene is approximately 7 hours.
 Studies in patients with advanced malignancies show approximate single dose linearity within the therapeutic range.
 
 Absorption
 
-After oral administration of TARGRETIN, bexarotene is absorbed with a Tmax of about two hours.
+After oral administration of TARGRETIN, bexarotene is absorbed with a Tmax of about 2 hours.
 Plasma bexarotene AUC and Cmax values resulting from a 75 to 300 mg dose were 35% and 48% higher, respectively, after a fat-containing meal than after a glucose solution.
 
 Distribution
@@ -67,7 +67,7 @@ Atorvastatin: Bexarotene concentrations were not affected by concomitant atorvas
 Effect of TARGRETIN on Other Drugs
 
 Bexarotene did not significantly inhibit the following enzymes in human liver microsomes: CYP1A2, CYP2A6, CYP2C9, CYP2C19, CYP2D6, CYP2E1 and CYP3A4.
-In vitro data suggested a potential for bexarotene to inhibit CYP2C8 and induce CYP3A4.
+In vitrodata suggested a potential for bexarotene to inhibit CYP2C8 and induce CYP3A4.
 
 Atorvastatin: The exposure (AUC) to atorvastatin (a substrate for CYP3A4) decreased by half when atorvastatin was co-administered with TARGRETIN (400 mg/m2 orally once daily).
 

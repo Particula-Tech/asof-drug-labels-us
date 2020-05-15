@@ -9,5 +9,5 @@ Bexarotene is an off-white to white powder with a molecular weight of 348.48 and
 It is insoluble in water and slightly soluble in vegetable oils and ethanol, USP.
 
 Each TARGRETIN capsule contains 75 mg of bexarotene for oral administration.
-It also contains the following inactive ingredients: polyethylene glycol 400, NF, polysorbate 20, NF, povidone, USP, and butylated hydroxyanisole, NF.
-The capsule shell contains gelatin, NF, sorbitol special-glycerin blend, and titanium dioxide, USP.
+It also contains the following inactive ingredients: butylated hydroxyanisole, NF, polyethylene glycol 400, NF, polysorbate 20, NF, and povidone, USP.
+The capsule shell contains gelatin, NF, sorbitol special glycerin blend, and titanium dioxide, USP.

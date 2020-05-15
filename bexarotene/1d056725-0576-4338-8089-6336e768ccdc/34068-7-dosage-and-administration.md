@@ -19,7 +19,7 @@ Table 1: TARGRETIN Initial Dose Calculation According to Body Surface Area
 
 Dose Modification Guidelines: The 300 mg/m2/day dose level of TARGRETIN may be adjusted to 200 mg/m2/day then to 100 mg/m2/day, or temporarily suspended, if necessitated by toxicity.
 When toxicity is controlled, doses may be carefully readjusted upward.
-If there is no tumor response after eight weeks of treatment and if the initial dose of 300 mg/m2/day is well tolerated, the dose may be escalated to 400 mg/m2/day with careful monitoring.
+If there is no tumor response after 8 weeks of treatment and if the initial dose of 300 mg/m2/day is well tolerated, the dose may be escalated to 400 mg/m2/day with careful monitoring.
 
 Duration of Therapy: In clinical trials in CTCL, TARGRETIN was administered for up to 97 weeks.
 

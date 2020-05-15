@@ -4,7 +4,7 @@ The following serious adverse reactions are discussed in greater detail in other
 
 - •Hyperlipidemia [see Warnings and Precautions (5.1)]
 - •Pancreatitis [see Warnings and Precautions (5.2)]
-- •Hepatotoxicity, cholestasis, and hepatic failure [see Warnings and Precautions (5.3)]
+- •Hepatotoxicity, Cholestasis, and Hepatic Failure [see Warnings and Precautions (5.3)]
 - •Hypothyroidism [see Warnings and Precautions (5.4)]
 - •Neutropenia [see Warnings and Precautions (5.5)]
 - •Cataracts [see Warnings and Precautions (5.6)]
@@ -38,7 +38,7 @@ The common adverse reactions (incidence greater than 10%) were similar to those 
 
 In the 504 patients (CTCL and non-CTCL) who received TARGRETIN as monotherapy, drug-related serious adverse reactions that were fatal, in one patient each, were acute pancreatitis, subdural hematoma, and liver failure.
 
-In the patients with CTCL receiving an initial dose of 300 mg/m2/day of TARGRETIN, adverse reactions reported at an incidence of less than 10% and not included in Tables 2-4 or discussed in other parts of labeling and possibly related to treatment were as follows:
+In the patients with CTCL receiving an initial dose of 300 mg/m2/day of TARGRETIN, adverse reactions reported at an incidence of less than 10% and not included in Tables 2 through 4 or discussed in other parts of labeling and possibly related to treatment were as follows:
 
 Body as a Whole: chills, cellulitis, chest pain, breast pain, sepsis, and monilia infection.
 
@@ -68,7 +68,7 @@ Table 2: Adverse Events with Incidence ≥10% in CTCL Trials
 | --- | --- | --- |
 |  | 300 | >300 |
 | Body System | N=84 | N=53 |
-| Adverse EventPreferred English term coded according to Ligand-modified COSTART 5 Dictionary.,Patients are counted at most once in each AE category. | N (%) | N (%) |
+| Adverse Event (AE)Preferred English term coded according to Ligand-modified COSTART 5 Dictionary.,Patients are counted at most once in each AE category. | N (%) | N (%) |
 | METABOLIC AND NUTRITIONAL DISORDERS |  |  |
 | Hyperlipemia | 66 (79) | 42 (79) |
 | Hypercholesteremia | 27 (32) | 33 (62) |
@@ -104,14 +104,16 @@ Table 2: Adverse Events with Incidence ≥10% in CTCL Trials
 | NERVOUS SYSTEM |  |  |
 | Insomnia | 4 (5) | 6 (11) |
 
-Table3: Incidence of Moderately Severe and Severe Adverse Events Reported in at Least Two Patients (CTCL Trials)
+Table 3: Incidence of Moderately Severe and Severe Adverse Events
+
+Reported in at Least Two Patients (CTCL Trials)
 
 |  | Initial Assigned Dose Group (mg/m2/day) |  |  |  |
 | --- | --- | --- | --- | --- |
 |  | 300 (N=84) |  | >300 (N=53) |  |
 |  | Mod Sev | Severe | Mod Sev | Severe |
 | Body System |  |  |  |  |
-| Adverse EventPreferred English term coded according to Ligand-modified COSTART 5 Dictionary.,Patients are counted at most once in each AE category. Patients are classified by the highest severity within each row. | N (%) | N (%) | N (%) | N (%) |
+| Adverse Event (AE)Preferred English term coded according to Ligand-modified COSTART 5 Dictionary.,Patients are counted at most once in each AE category. Patients are classified by the highest severity within each row. | N (%) | N (%) | N (%) | N (%) |
 | BODY AS A WHOLE |  |  |  |  |
 | Asthenia | 1 (1) | 0 (0) | 11 (21) | 0 (0) |
 | Headache | 3 (4) | 0 (0) | 5 (9) | 1 (2) |
@@ -139,7 +141,7 @@ Table3: Incidence of Moderately Severe and Severe Adverse Events Reported in at 
 | Exfoliative dermatitis | 0 (0) | 1 (1) | 3 (6) | 1 (2) |
 | Rash | 1 (1) | 2 (2) | 1 (2) | 0 (0) |
 
-Table4: Treatment-Emergent Abnormal Laboratory Values in CTCL Trials
+Table 4: Treatment-Emergent Abnormal Laboratory Values in CTCL Trials
 
 |  | Initial Assigned Dose (mg/m2/day) |  |  |  |
 | --- | --- | --- | --- | --- |
@@ -147,8 +149,8 @@ Table4: Treatment-Emergent Abnormal Laboratory Values in CTCL Trials
 |  | N=83Number of patients with at least one analyte value post-baseline. |  | N=53 |  |
 | Analyte | Grade 3Adapted from NCI Common Toxicity Criteria, Grade 3 and 4, Version 2.0. Patients are considered to have had a Grade 3 or 4 value if either of the following occurred: a) Value becomes Grade 3 or 4 during the study; b) Value is abnormal at baseline and worsens to Grade 3 or 4 on study, including all values beyond study drug discontinuation, as defined in data handling conventions.(%) | Grade 4(%) | Grade 3(%) | Grade 4(%) |
 | TriglyceridesThe denominator used to calculate the incidence rates for fasting Total Cholesterol and Triglycerides were N=75 for the 300 mg/m2/day initial dose group and N=44 for the >300 mg/m2/day initial dose group. | 21 | 7 | 32 | 14 |
-| Total Cholesterol | 19 | 7 | 16 | 30 |
-| Alkaline Phosphatase | 1 | 0 | 0 | 2 |
+| Total cholesterol | 19 | 7 | 16 | 30 |
+| Alkaline phosphatase | 1 | 0 | 0 | 2 |
 | Hyperglycemia | 1 | 0 | 6 | 0 |
 | Hypocalcemia | 1 | 0 | 0 | 0 |
 | Hyponatremia | 1 | 0 | 9 | 0 |
@@ -156,7 +158,7 @@ Table4: Treatment-Emergent Abnormal Laboratory Values in CTCL Trials
 | Hyperkalemia | 0 | 0 | 2 | 0 |
 | Hypernatremia | 0 | 1 | 0 | 0 |
 | SGOT/AST | 0 | 0 | 2 | 2 |
-| Total Bilirubin | 0 | 0 | 0 | 2 |
+| Total bilirubin | 0 | 0 | 0 | 2 |
 | ANC decreased | 12 | 4 | 19 | 8 |
 | ALC decreased | 7 | 0 | 15 | 0 |
 | WBC decreased | 4 | 0 | 11 | 0 |
@@ -170,4 +172,4 @@ The most common AEs by preferred term in either the TARGRETIN 300 or 150 mg/m2/d
 
 Higher percentage of subjects in the TARGRETIN 300 mg/m2/day group than in the TARGRETIN 150 mg/m2/day group experienced SAEs (13 subjects [44.8%] vs 11 subjects [36.7%], respectively.
 
-Of the SAEs of special interest, there were more events in the TARGRETIN 300 mg/m2/day group than in TARGRETIN 150 mg/m2/day group of bone marrow failure (3 [10.3%] vs 1 [3.3%, respectively]), neutropenia (3 [10.3%] vs 0 [0%], respectively), and of hypertriglyceridemia (9 [31%] vs 2 [6.7%], respectively).
+Of the SAEs of special interest, there were more events in the TARGRETIN 300 mg/m2/day group than in TARGRETIN 150 mg/m2/day group of bone marrow failure (3 [10.3%] vs 1 [3.3%, respectively]), neutropenia (3 [10.3%] vs 0 [0%], respectively), and hypertriglyceridemia (9 [31%] vs 2 [6.7%], respectively).

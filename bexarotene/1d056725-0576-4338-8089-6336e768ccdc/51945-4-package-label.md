@@ -10,4 +10,4 @@ Targretin® (bexarotene) capsules
 
 Rx Only
 
-VALEANT
+Bausch Health Companies

@@ -9,7 +9,7 @@ Bexarotene was teratogenic and caused developmental mortality in rats following 
 TARGRETIN must not be given to a pregnant female or a female who intends to become pregnant.
 If pregnancy does occur during treatment with TARGRETIN, immediately discontinue the drug and advise the pregnant female of the potential risk to a fetus.
 
-The background risk of major birth defects and miscarriage for the indicated populations are unknown.
+The background risk of major birth defects and miscarriage for the indicated populations is unknown.
 However, the background risk in the U.S. general population of major birth defects is 2-4% and of miscarriage is 15-20% of clinically recognized pregnancies.
 
 Data
@@ -33,7 +33,7 @@ Because many drugs are excreted in human milk and because of the potential for s
 
 Pregnancy Testing
 
-Obtain a negative serum pregnancy test (e.g., serum beta-human chorionic gonadotropin [beta-HCG]) with a sensitivity of at least 50 mIU/L within one week prior to TARGRETIN therapy.
+Obtain a negative serum pregnancy test (e.g., serum beta-human chorionic gonadotropin [beta-HCG]) with a sensitivity of at least 50 mIU/L within 1 week prior to TARGRETIN therapy.
 Obtain another pregnancy test at monthly intervals while the patient remains on TARGRETIN.
 
 Contraception
@@ -42,15 +42,15 @@ Females
 
 TARGRETIN can cause fetal harm when administered to a pregnant female [see Use in Specific Populations (8.1)].
 Females of reproductive potential should be advised to avoid becoming pregnant when TARGRETIN is used.
-Effective contraception must be used for one month prior to the initiation of therapy, during therapy and for at least one month following discontinuation of therapy; it is recommended that two reliable forms of contraception be used simultaneously unless abstinence is the chosen method.
+Effective contraception must be used for 1 month prior to the initiation of therapy, during therapy and for at least 1 month following discontinuation of therapy; it is recommended that two reliable forms of contraception be used simultaneously unless abstinence is the chosen method.
 Bexarotene can potentially induce metabolic enzymes and thereby theoretically reduce the plasma concentrations of oral or other systemic hormonal contraceptives [see Drug Interactions (7)].
 Thus, if treatment with TARGRETIN is intended in a female with reproductive potential, it is strongly recommended that one of the two reliable forms of contraception should be non-hormonal.
 TARGRETIN therapy should be initiated on the second or third day of a normal menstrual period.
-No more than a one month supply of TARGRETIN should be given to the patient so that the results of pregnancy testing can be assessed and counseling regarding avoidance of pregnancy and birth defects can be reinforced.
+No more than a 1-month supply of TARGRETIN should be given to the patient so that the results of pregnancy testing can be assessed and counseling regarding avoidance of pregnancy and birth defects can be reinforced.
 
 Males
 
-Male patients with sexual partners who are pregnant, possibly pregnant, or who could become pregnant must use condoms during sexual intercourse while taking TARGRETIN and for at least one month after the last dose of drug.
+Male patients with sexual partners who are pregnant, possibly pregnant, or who could become pregnant must use condoms during sexual intercourse while taking TARGRETIN and for at least 1 month after the last dose of drug.
 
 ## 8.4 Pediatric Use
 
