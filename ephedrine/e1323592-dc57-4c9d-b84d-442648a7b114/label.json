@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA213407"
+  ],
+  "inn": "ephedrine",
+  "labeler": "Nexus Pharmaceuticals Inc",
+  "package_ndcs": [
+    "14789-250-07",
+    "14789-250-10"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "ephedrine sulfate",
+      "name": "Emerphed"
+    }
+  ],
+  "setid": "e1323592-dc57-4c9d-b84d-442648a7b114",
+  "source": "dailymed"
+}
