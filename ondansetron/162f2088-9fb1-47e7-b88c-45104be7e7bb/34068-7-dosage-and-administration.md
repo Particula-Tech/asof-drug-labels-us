@@ -1,71 +1,26 @@
-# DOSAGE AND ADMINISTRATION
+# 2 DOSAGE AND ADMINISTRATION
 
-## Prevention of Nausea and Vomiting Associated With Highly Emetogenic Cancer Chemotherapy
+## 2.1 Dosage
 
-The recommended adult oral dosage of ondansetron tablet is 24 mg given as three 8 mg tablets administered 30 minutes before the start of single-day highly emetogenic chemotherapy, including cisplatin ≥50 mg/m2.
-Multiday, single-dose administration of a 24 mg dosage has not been studied.
+The recommended dosage regimens for adult and pediatric patients are described in Table 1 and Table 2, respectively.
 
-### Pediatric Use
+Corresponding doses of ondansetron tablets may be used interchangeably.
 
-There is no experience with the use of a 24 mg dosage in pediatric patients.
+Table 1: Adult Recommended Dosage Regimen for Prevention of Nausea and Vomiting
 
-### Geriatric Use
+| Indication | Dosage Regimen |
+| --- | --- |
+| Highly Emetogenic Cancer Chemotherapy | A single 24 mg dose administered 30 minutes before the start of single-day highly emetogenic chemotherapy, including cisplatin greater than or equal to 50 mg/m2 |
+| Moderately Emetogenic Cancer Chemotherapy | 8 mg administered 30 minutes before the start of chemotherapy, with a subsequent 8 mg dose 8 hours after the first dose. Then administer 8 mg twice a day (every 12 hours) for 1 to 2 days after completion of chemotherapy. |
+| Radiotherapy | For total body irradiation: 8 mg administered 1 to 2 hours before each fraction of radiotherapy each day. For single high-dose fraction radiotherapy to the abdomen: 8 mg administered 1 to 2 hours before radiotherapy, with subsequent 8 mg doses every 8 hours after the first dose for 1 to 2 days after completion of radiotherapy. For daily fractionated radiotherapy to the abdomen: 8 mg administered 1 to 2 hours before radiotherapy, with subsequent 8 mg doses every 8 hours after the first dose for each day radiotherapy is given. |
+| Postoperative | 16 mg administered 1 hour before induction of anesthesia. |
 
-The dosage recommendation is the same as for the general population.
+Table 2: Pediatric Recommended Dosage Regimen for Prevention of Nausea and Vomiting
 
-## Prevention of Nausea and Vomiting Associated With Moderately Emetogenic Cancer Chemotherapy
+| Indication | Dosage Regimen |
+| --- | --- |
+| Moderately Emetogenic Cancer Chemotherapy | 12 to 17 years of age: 8 mg administered 30 minutes before the start of chemotherapy, with a subsequent 8 mg dose 8 hours after the first dose. Then administer 8 mg twice a day (every 12 hours) 1 to 2 days after completion of chemotherapy. 4 to 11 years of age: 4 mg administered 30 minutes before the start of chemotherapy, with a subsequent 4 mg dose 4 and 8 hours after the first dose. Then administer 4 mg three times a day for 1 to 2 days after completion of chemotherapy. |
 
-The recommended adult oral dosage is one 8 mg ondansetron tablet given twice a day.
-The first dose should be administered 30 minutes before the start of emetogenic chemotherapy, with a subsequent dose 8 hours after the first dose.
-One 8 mg ondansetron tablet should be administered twice a day (every 12 hours) for 1 to 2 days after completion of chemotherapy.
+## 2.2 Dosage in Hepatic Impairment
 
-### Pediatric Use
-
-For pediatric patients 12 years of age and older, the dosage is the same as for adults.
-For pediatric patients 4 through 11 years of age, the dosage is one 4 mg ondansetron tablet given 3 times a day.
-The first dose should be administered 30 minutes before the start of emetogenic chemotherapy, with subsequent doses 4 and 8 hours after the first dose.
-One 4 mg ondansetron tablet should be administered 3 times a day (every 8 hours) for 1 to 2 days after completion of chemotherapy.
-
-### Geriatric Use
-
-The dosage is the same as for the general population.
-
-## Prevention of Nausea and Vomiting Associated With Radiotherapy, Either Total Body Irradiation, or Single High-Dose Fraction or Daily Fractions to the Abdomen
-
-The recommended oral dosage is one 8 mg ondansetron tablet given 3 times a day.
-
-For total body irradiation, one 8 mg ondansetron tablet should be administered 1 to 2 hours before each fraction of radiotherapy administered each day.
-
-For single high-dose fraction radiotherapy to the abdomen, one 8 mg ondansetron tablet should be administered 1 to 2 hours before radiotherapy, with subsequent doses every 8 hours after the first dose for 1 to 2 days after completion of radiotherapy.
-
-For daily fractionated radiotherapy to the abdomen, one 8 mg ondansetron tablet should be administered 1 to 2 hours before radiotherapy, with subsequent doses every 8 hours after the first dose for each day radiotherapy is given.
-
-### Pediatric Use
-
-There is no experience with the use of ondansetron tablets in the prevention of radiation-induced nausea and vomiting in pediatric patients.
-
-### Geriatric Use
-
-The dosage recommendation is the same as for the general population.
-
-## Postoperative Nausea and Vomiting
-
-The recommended dosage is 16 mg given as two 8 mg ondansetron tablets 1 hour before induction of anesthesia.
-
-### Pediatric Use
-
-There is no experience with the use of ondansetron tablets in the prevention of postoperative nausea and vomiting in pediatric patients.
-
-### Geriatric Use
-
-The dosage is the same as for the general population.
-
-## Dosage Adjustment for Patients With Impaired Renal Function
-
-The dosage recommendation is the same as for the general population.
-There is no experience beyond first-day administration of ondansetron.
-
-## Dosage Adjustment for Patients With Impaired Hepatic Function
-
-In patients with severe hepatic impairment (Child-Pugh2 score of 10 or greater), clearance is reduced and apparent volume of distribution is increased with a resultant increase in plasma half-life.
-In such patients, a total daily dose of 8 mg should not be exceeded.
+In patients with severe hepatic impairment (Child-Pugh score of 10 or greater), do not exceed a total daily dose of 8 mg [see Use in Specific Populations (8.6), Clinical Pharmacology (12.3)].

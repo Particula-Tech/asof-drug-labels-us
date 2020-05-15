@@ -1,25 +1,17 @@
-# PACKAGE LABEL.PRINCIPAL DISPLAY PANEL SECTION
+# PACKAGE LABEL PRINCIPAL DISPLAY PANEL SECTION
 
-4 mg Labels:
+Ondansetron Tablets USP, 4 mg - Container
 
-Container Label:
+Unvarnished Area Consists of: 2D Barcode, Lot Number, Expiry Date and Serial Number
 
-# Carton Label:
+Ondansetron Tablets USP, 4 mg - Carton
 
-Carton label: 4 mg - 3's (1x3)
+Ondansetron Tablets USP, 8 mg - Container
 
-# 8 mg Labels:
+Unvarnished Area Consists of: 2D Barcode, Lot Number, Expiry Date and Serial Number
 
-Container Label:
+Ondansetron Tablets USP, 8 mg - Carton
 
-# Carton Label:
+Ondansetron Tablets USP, 24 mg - Container
 
-Carton label: 8 mg - 3's (1x3)
-
-# 24 mg Labels:
-
-Container Label:
-
-# Carton Label:
-
-Carton Label: 24 mg - 1's (1x1)
+Ondansetron Tablets USP, 24 mg - Carton
