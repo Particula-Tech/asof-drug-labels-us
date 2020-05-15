@@ -29,7 +29,7 @@ Median trial medication exposure was 6.3 months for both carvedilol and placebo 
 The adverse event profile of carvedilol observed in the long-term COMET trial was generally similar to that observed in the U.S. Heart Failure Trials.
 
 Table 2.
-Adverse Events (%) Occurring More Frequently with Immediate-Release Carvedilol than with Placebo in Subjects with MildtoModerate Heart Failure (HF) Enrolled in U.S. Heart Failure Trials or in Subjects with Severe Heart Failure in the COPERNICUS Trial (Incidence >3% in Subjects Treated with Carvedilol, Regardless of Causality)
+Adverse Events (%) Occurring More Frequently with Immediate-Release Carvedilol than with Placebo in Subjects with Mild-to-Moderate Heart Failure (HF) Enrolled in U.S. Heart Failure Trials or in Subjects with Severe Heart Failure in the COPERNICUS Trial (Incidence >3% in Subjects Treated with Carvedilol, Regardless of Causality)
 
 | Body System/ Adverse Event | Mild-to-Moderate HF |  | Severe HF |  |
 | --- | --- | --- | --- | --- |
@@ -178,7 +178,7 @@ Central and Peripheral Nervous System: Hypokinesia.
 
 Gastrointestinal: Bilirubinemia, increased hepatic enzymes (0.2% of hypertension patients and 0.4% of heart failure patients were discontinued from therapy because of increases in hepatic enzymes) [see Adverse Reactions (6.2)].
 
-Psychiatric: Nervousness, sleep disorder, aggravated depression, impaired concentration, abnormal thinking, paroniria, emotional lability.
+Psychiatric: Nervousness, sleep disorder, aggravated depression, impaired concentration, abnormal thinking, paranoia, emotional lability.
 
 Respiratory System: Asthma [see Contraindications (4)].
 

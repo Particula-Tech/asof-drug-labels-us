@@ -31,7 +31,7 @@ In a trial comparing subjects with heart failure switched to COREG CR or maintai
 
 In the clinical trial of COREG CR in hypertensive subjects, syncope was reported in 0.3% of subjects receiving COREG CR compared with 0% of subjects receiving placebo.
 There were no reports of postural hypotension in this trial.
-Postural hypotension occurred in 1.8% and syncope in 0.1% of hypertensive subjects receiving immediate‑release carvedilol, primarily following the initial dose or at the time of dose increase, and was a cause for discontinuation of therapy in 1% of subjects.
+Postural hypotension occurred in 1.8% and syncope in 0.1% of hypertensive subjects receiving immediate‑release carvedilol, primarily following the initial dose or at the time of dose increase and was a cause for discontinuation of therapy in 1% of subjects.
 
 In the CAPRICORN trial of survivors of an acute myocardial infarction with left ventricular dysfunction, hypotension or postural hypotension occurred in 20.2% of subjects receiving carvedilol compared with 12.6% of placebo subjects.
 Syncope was reported in 3.9% and 1.9% of subjects, respectively.
@@ -43,7 +43,7 @@ During initiation of therapy, the patient should be cautioned to avoid situation
 ## 5.4 Heart Failure/Fluid Retention
 
 Worsening heart failure or fluid retention may occur during up‑titration of carvedilol.
-If such symptoms occur, diuretics should be increased and the dose of COREG CR should not be advanced until clinical stability resumes [see Dosage and Administration (2)].
+If such symptoms occur, diuretics should be increased, and the dose of COREG CR should not be advanced until clinical stability resumes [see Dosage and Administration (2)].
 Occasionally it is necessary to lower the dose of COREG CR or temporarily discontinue it.
 Such episodes do not preclude subsequent successful titration of, or a favorable response to, COREG CR.
 In a placebo‑controlled trial of subjects with severe heart failure, worsening heart failure during the first 3 months was reported to a similar degree with immediate-release carvedilol and with placebo.
@@ -58,7 +58,7 @@ It is prudent, if COREG CR is used, to use the smallest effective dose, so that 
 
 In clinical trials of subjects with heart failure, subjects with bronchospastic disease were enrolled if they did not require oral or inhaled medication to treat their bronchospastic disease.
 In such patients, it is recommended that COREG CR be used with caution.
-The dosing recommendations should be followed closely and the dose should be lowered if any evidence of bronchospasm is observed during up‑titration.
+The dosing recommendations should be followed closely, and the dose should be lowered if any evidence of bronchospasm is observed during up‑titration.
 
 ## 5.6 Glycemic Control in Type 2 Diabetes
 
@@ -82,7 +82,7 @@ Caution should be exercised in such individuals.
 Rarely, use of carvedilol in patients with heart failure has resulted in deterioration of renal function.
 Patients at risk appear to be those with low blood pressure (systolic blood pressure less than 100 mm Hg), ischemic heart disease and diffuse vascular disease, and/or underlying renal insufficiency.
 Renal function has returned to baseline when carvedilol was stopped.
-In patients with these risk factors it is recommended that renal function be monitored during up‑titration of COREG CR and the drug discontinued or dosage reduced if worsening of renal function occurs.
+In patients with these risk factors, it is recommended that renal function be monitored during up‑titration of COREG CR and the drug discontinued or dosage reduced if worsening of renal function occurs.
 
 ## 5.9 Major Surgery
 

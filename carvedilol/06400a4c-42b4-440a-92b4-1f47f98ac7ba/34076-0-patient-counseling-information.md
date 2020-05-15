@@ -24,8 +24,8 @@ GlaxoSmithKline
 
 Research Triangle Park, NC 27709
 
-©2017 GSK group of companies or its licensor.
+©2020 GSK group of companies or its licensor.
 
-CCR:19PI
+CCR:20PI
 
 - PHARMACIST─DETACH HERE AND GIVE INSTRUCTIONS TO PATIENT

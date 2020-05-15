@@ -40,7 +40,7 @@ Exercise tolerance was the primary end point in 3 trials; in none was a statisti
 Subjective Measures: Health-related quality of life, as measured with a standard questionnaire (a primary end point in 1 trial), was unaffected by carvedilol.
 However, patients’ and investigators’ global assessments showed significant improvement in most trials.
 
-Mortality: Death was not a pre-specified end point in any trial, but was analyzed in all trials.
+Mortality: Death was not a pre-specified end point in any trial but was analyzed in all trials.
 Overall, in these 4 U.S. trials, mortality was reduced, nominally significantly so in 2 trials.
 
 ### The COMET Trial
@@ -53,7 +53,7 @@ The mean duration of follow-up was 4.8 years.
 The mean dose of carvedilol was 42 mg per day.
 
 The trial had 2 primary end points: all-cause mortality and the composite of death plus hospitalization for any reason.
-The results of COMET are presented in below.
+The results of COMET are presented in Table 5 below.
 All-cause mortality carried most of the statistical weight and was the primary determinant of the trial size.
 All-cause mortality was 34% in the subjects treated with carvedilol and was 40% in the immediate-release metoprolol group (P = 0.0017; hazard ratio = 0.83, 95% CI: 0.74 to 0.93).
 The effect on mortality was primarily due to a reduction in cardiovascular death.

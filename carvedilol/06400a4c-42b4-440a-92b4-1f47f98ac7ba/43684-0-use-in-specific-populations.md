@@ -6,10 +6,10 @@ Risk Summary
 
 Available data regarding use of COREG CR in pregnant women are insufficient to determine whether there are drug-associated risks of adverse developmental outcomes.
 There are risks to the mother and fetus associated with poorly controlled hypertension in pregnancy.
-The use of beta blockers during the third trimester of pregnancy may increase the risk of hypotension, bradycardia, hypoglycemia, and respiratory depression in the neonate [see Clinical Considerations].
-In animal reproduction studies, there was no evidence of adverse developmental outcomes at clinically relevant doses [see Data].
+The use of beta blockers during the third trimester of pregnancy may increase the risk of hypotension, bradycardia, hypoglycemia, and respiratory depression in the neonate (see Clinical Considerations).
+In animal reproduction studies, there was no evidence of adverse developmental outcomes at clinically relevant doses (see Data).
 Oral administration of carvedilol to pregnant rats during organogenesis resulted in post-implantation loss, decreased fetal body weight, and an increased frequency of delayed fetal skeletal development at maternally toxic doses that were 50 times the maximum recommended human dose (MRHD).
-In addition, oral administration of carvedilol to pregnant rabbits during organogenesis resulted in increased post-implantation loss at doses 25 times the MRHD [see Data].
+In addition, oral administration of carvedilol to pregnant rabbits during organogenesis resulted in increased post-implantation loss at doses 25 times the MRHD (see Data).
 
 The estimated background risk of major birth defects and miscarriage for the indicated populations are unknown.
 All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
