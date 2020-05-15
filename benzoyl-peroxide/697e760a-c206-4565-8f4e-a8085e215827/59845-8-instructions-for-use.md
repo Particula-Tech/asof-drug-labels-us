@@ -37,5 +37,10 @@ How should I store ONEXTON Gel?
 
 Keep ONEXTON Gel and all medicines out of the reach of children.
 
+Distributed by: Bausch Health US, LLC, Bridgewater, NJ 08807 USA Manufactured by: Bausch Health Companies Inc., Laval, Quebec H7L 4A8, Canada
+
+U.S. Patent Numbers: 8,288,434; 9,504,704; 9,561,208; 10,137,142 and 10,220,049 ONEXTON is a trademark of Bausch Health Companies Inc. or its affiliates. © 2020 Bausch Health Companies Inc. or its affiliates
+
 The Patient Information and Instructions for Use have been approved by the U.S. Food and Drug Administration.
-Issued: 02/2020
+
+Issued: April 2020 9432704
