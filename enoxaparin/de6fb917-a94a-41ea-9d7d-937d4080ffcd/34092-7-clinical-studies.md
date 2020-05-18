@@ -133,7 +133,7 @@ Treatment continued for a maximum of 14 days (median duration 7 days).
 When given at a dose of 40 mg once a day subcutaneously, Lovenox significantly reduced the incidence of DVT as compared to placebo.
 The efficacy data are provided below (see Table 20).
 
-Table 20: Efficacy of Lovenox in the Prophylaxis of Deep Vein Thrombosis in Medical Patients with Severely Restricted Mobility During Acute Illness
+Table 20: Efficacy of Lovenox in the Prophylaxis of Deep Vein Thrombosis in Medical Patients with Severely Restricted Mobility during Acute Illness
 
 | Indication | n (%) | n (%) | n (%) |
 | --- | --- | --- | --- |

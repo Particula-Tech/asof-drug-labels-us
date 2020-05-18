@@ -8,7 +8,7 @@ The risk of these events is higher with the use of postoperative indwelling epid
 To reduce the potential risk of bleeding associated with the concurrent use of Lovenox and epidural or spinal anesthesia/analgesia or spinal puncture, consider the pharmacokinetic profile of Lovenox [see Clinical Pharmacology (12.3)].
 Placement or removal of an epidural catheter or lumbar puncture is best performed when the anticoagulant effect of Lovenox is low; however, the exact timing to reach a sufficiently low anticoagulant effect in each patient is not known.
 
-Placement or removal of a catheter should be delayed for at least 12 hours after administration of lower doses (30 mg once or twice daily or 40 mg once daily) of Lovenox, and at least 24 hours after the administration of higher doses (0.75 mg/kg twice daily, 1 mg/kg twice daily, or 1.5 mg/kg once daily) of Lovenox.
+Placement or removal of a catheter should be delayed for at least 12 hours after administration of lower doses (30 mg once or twice daily or 40 mg once daily) of Lovenox and at least 24 hours after the administration of higher doses (0.75 mg/kg twice daily, 1 mg/kg twice daily, or 1.5 mg/kg once daily) of Lovenox.
 Anti-Xa levels are still detectable at these time points, and these delays are not a guarantee that neuraxial hematoma will be avoided.
 Patients receiving the 0.75 mg/kg twice-daily dose or the 1 mg/kg twice-daily dose should not receive the second Lovenox dose in the twice-daily regimen to allow a longer delay before catheter placement or removal.
 Likewise, although a specific recommendation for timing of a subsequent Lovenox dose after catheter removal cannot be made, consider delaying this next dose for at least four hours, based on a benefit-risk assessment considering both the risk for thrombosis and the risk for bleeding in the context of the procedure and patient risk factors.
@@ -41,7 +41,7 @@ Lovenox should be used with care in patients with a bleeding diathesis, uncontro
 
 ## 5.4 Risk of Heparin-Induced Thrombocytopenia with or without Thrombosis
 
-Lovenox may cause Heparin-Induced Thrombocytopenia (HIT) or Heparin-Induced Thrombocytopenia with Thrombosis (HITTS).
+Lovenox may cause heparin-induced thrombocytopenia (HIT) or heparin-induced thrombocytopenia with thrombosis (HITTS).
 HITTS may lead to organ infarction, limb ischemia, or death.
 Monitor thrombocytopenia of any degree closely.
 
@@ -80,7 +80,7 @@ Therefore, frequent monitoring of peak and trough anti-Factor Xa levels, and adj
 
 Lovenox multiple-dose vials are not approved for use in neonates or infants.
 
-Serious and fatal adverse reactions including "gasping syndrome" can occur in neonates and low birth weight infants treated with benzyl alcohol-preserved drugs, including Lovenox multiple-dose vials.
+Serious and fatal adverse reactions including "gasping syndrome" can occur in neonates and low-birth-weight infants treated with benzyl alcohol-preserved drugs, including Lovenox multiple-dose vials.
 The "gasping syndrome" is characterized by central nervous system depression, metabolic acidosis, and gasping respirations.
 The minimum amount of benzyl alcohol at which serious adverse reactions may occur is not known (Lovenox multiple-dose vials contain 15 mg of benzyl alcohol per mL) [see Use in Specific Populations (8.4)].
 
