@@ -1,4 +1,4 @@
-MEDICATION GUIDE APLENZIN (uh-PLEN-zin) (bupropion hydrobromide) Tablets
+MEDICATION GUIDE APLENZIN® (uh-PLEN-zin) (bupropion hydrobromide) Tablets
 
 IMPORTANT: Be sure to read the three sections of this Medication Guide.
 The first section is about the risk of suicidal thoughts and actions with antidepressant medicines; the second section is about the risk of changes in thinking and behavior, depression and suicidal thoughts or actions with medicines used to quit smoking; and the third section is entitled “What Other Important Information Should I Know About APLENZIN?”
@@ -14,10 +14,10 @@ What is the most important information I should know about antidepressant medici
    Some people may have a particularly high risk of having suicidal thoughts or actions.
    These include people who have (or have a family history of) bipolar illness (also called manic-depressive illness) or suicidal thoughts or actions.
 3. 3.How can I watch for and try to prevent suicidal thoughts and actions in myself or a family member?
-4. •Pay close attention to any changes, especially sudden changes, in mood, behaviors, thoughts, or feelings.
+4. 4.Pay close attention to any changes, especially sudden changes, in mood, behaviors, thoughts, or feelings.
    This is very important when an antidepressant medicine is started or when the dose is changed.
-5. •Call your healthcare provider right away to report new or sudden changes in mood, behavior, thoughts, or feelings.
-6. •Keep all follow-up visits with your healthcare provider as scheduled.
+5. 5.Call your healthcare provider right away to report new or sudden changes in mood, behavior, thoughts, or feelings.
+6. 6.Keep all follow-up visits with your healthcare provider as scheduled.
    Call the healthcare provider between visits as needed, especially if you have concerns about symptoms.
 
 Call your healthcare provider right away if you or your family member has any of the following symptoms, especially if they are new, worse, or worry you:
@@ -95,8 +95,8 @@ You should also tell your healthcare provider about any symptoms you had during 
 What Other Important Information Should I Know About APLENZIN?
 
 - •Seizures: There is a chance of having a seizure (convulsion, fit) with APLENZIN, especially in people:
-  - owith certain medical problems
-  - owho take certain medicines.
+  - •with certain medical problems
+  - •who take certain medicines.
 
 The chance of having seizures increases with higher doses of APLENZIN.
 For more information, see the sections “Who should not take APLENZIN?” and “What should I tell my healthcare provider before taking APLENZIN?”
@@ -111,13 +111,13 @@ Do not take APLENZIN again if you have a seizure.
   The chance of high blood pressure may be higher if you also use nicotine replacement therapy (such as a nicotine patch) to help you stop smoking (see the section of this Medication Guide called “How should I take APLENZIN?”).
 - •Manic episodes.
   Some people may have periods of mania while taking APLENZIN, including:
-  - oGreatly increased energy
-  - oSevere trouble sleeping
-  - oRacing thoughts
-  - oReckless behavior
-  - oUnusually grand ideas
-  - oExcessive happiness or irritability
-  - oTalking more or faster than usual
+  - •Greatly increased energy
+  - •Severe trouble sleeping
+  - •Racing thoughts
+  - •Reckless behavior
+  - •Unusually grand ideas
+  - •Excessive happiness or irritability
+  - •Talking more or faster than usual
 
 If you have any of the above symptoms of mania, call your healthcare provider.
 
@@ -125,22 +125,15 @@ If you have any of the above symptoms of mania, call your healthcare provider.
   Some patients have unusual thoughts or behaviors while taking APLENZIN, including delusions (believe you are someone else), hallucinations (seeing or hearing things that are not there), paranoia (feeling that people are against you), or feeling confused.
   If this happens to you, call your healthcare provider.
 - •Visual problems.
-  - oeye pain
-  - ochanges in vision
-  - oswelling or redness in or around the eye
+  - •eye pain
+  - •changes in vision
+  - •swelling or redness in or around the eye
 - Only some people are at risk for these problems.
   You may want to undergo an eye examination to see if you are at risk and receive preventative treatment if you are.
 - •Severe allergic reactions.
   Some people can have severe allergic reactions to APLENZIN.
   Stop taking APLENZIN and call your healthcare provider right away if you get a rash, itching, hives, fever, swollen lymph glands, painful sores in the mouth or around the eyes, swelling of the lips or tongue, chest pain, or have trouble breathing.
   These could be signs of a serious allergic reaction.
-
-What is APLENZIN?
-
-APLENZIN should be used with a patient support program.
-It is important to participate in the behavioral program, counseling, or other support program your healthcare professional recommends.
-
-Quitting smoking can lower your chances of having lung disease, heart disease, or getting certain types of cancer that are related to smoking.
 
 Who should not take APLENZIN?
 
@@ -153,8 +146,8 @@ Do not take APLENZIN if you:
 - •drink a lot of alcohol and abruptly stop drinking, or take medicines called sedatives (these make you sleepy), benzodiazepines, or anti-seizure medicines, and you stop taking them all of a sudden.
 - •take a monoamine oxidase inhibitor (MAOI).
   Ask your healthcare provider or pharmacist if you are not sure if you take an MAOI, including the antibiotic linezolid.
-  - odo not take an MAOI within 2 weeks of stopping APLENZIN unless directed to do so by your healthcare provider.
-  - odo not start APLENZIN if you stopped taking an MAOI in the last 2 weeks unless directed to do so by your healthcare provider.
+  - •do not take an MAOI within 2 weeks of stopping APLENZIN unless directed to do so by your healthcare provider.
+  - •do not start APLENZIN if you stopped taking an MAOI in the last 2 weeks unless directed to do so by your healthcare provider.
 - •are allergic to the active ingredient in APLENZIN, bupropion, or to any of the inactive ingredients.
   See the end of this Medication Guide for a complete list of ingredients in APLENZIN.
 
@@ -165,27 +158,32 @@ You should also tell your healthcare provider about any symptoms you had during 
 See “Quitting Smoking, Quit-Smoking Medications, Changes in Thinking and Behavior, Depression, and Suicidal Thoughts or Actions.”
 
 - •Tell your healthcare provider about your other medical conditions, including if you:
-  - ohave liver problems, especially cirrhosis of the liver.
-  - ohave kidney problems.
-  - ohave, or have had, an eating disorder such as anorexia nervosa or bulimia.
-  - ohave had a head injury.
-  - ohave had a seizure (convulsion, fit).
-  - ohave a tumor in your nervous system (brain or spine).
-  - ohave had a heart attack, heart problems, or high blood pressure.
-  - oare a diabetic taking insulin or other medicines to control your blood sugar.
-  - odrink alcohol.
-  - oabuse prescription medicines or street drugs.
-  - oare pregnant or plan to become pregnant.
-  - oare breastfeeding.
-    APLENZIN passes into your milk in small amounts.
-- Tell your healthcare provider about all the medicines you take, including prescription, over-the-counter medicines, vitamins, and herbal supplements.
-  Many medicines increase your chances of having seizures or other serious side effects if you take them while you are taking APLENZIN.
+  - •have liver problems, especially cirrhosis of the liver.
+  - •have kidney problems.
+  - •have, or have had, an eating disorder such as anorexia nervosa or bulimia.
+  - •have had a head injury.
+  - •have had a seizure (convulsion, fit).
+  - •have a tumor in your nervous system (brain or spine).
+  - •have had a heart attack, heart problems, or high blood pressure.
+  - •are a diabetic taking insulin or other medicines to control your blood sugar.
+  - •drink alcohol.
+  - •abuse prescription medicines or street drugs.
+  - •are pregnant or plan to become pregnant.
+    Talk to your healthcare provider about the risk to your unborn baby if you take APLENZIN during pregnancy.
+- •Tell your healthcare provider if you become pregnant or think you are pregnant during treatment with APLENZIN.
+
+If you become pregnant during treatment with APLENZIN, talk to your healthcare provider about registering with the National Pregnancy Registry for Antidepressants.
+You can register by calling 1-844-405-6185.
+
+- •are breastfeeding or plan to breastfeed during treatment with APLENZIN.
+  APLENZIN passes into your milk.
+  Talk to your healthcare provider about the best way to feed your baby during treatment with APLENZIN.
+
+Tell your healthcare provider about all the medicines you take, including prescription, over-the-counter medicines, vitamins, and herbal supplements.
+Many medicines increase your chances of having seizures or other serious side effects if you take them while you are taking APLENZIN.
 
 How should I take APLENZIN?
 
-- •Start APLENZIN before you stop smoking to give APLENZIN time to build up in your body.
-  It takes about 1 week for APLENZIN to start working.
-- •Pick a date to stop smoking that is during the second week you are taking APLENZIN.
 - •Take APLENZIN exactly as prescribed by your healthcare provider.
   Do not change your dose or stop taking APLENZIN without talking with your healthcare provider first.
 - •APLENZIN is usually taken for 7 to 12 weeks.
@@ -200,20 +198,12 @@ How should I take APLENZIN?
   This is normal.
 - •Take your doses of APLENZIN at least 8 hours apart.
 - •You may take APLENZIN with or without food.
-- •It is not dangerous to smoke and take APLENZIN at the same time.
-  But, you will lower your chance of breaking your smoking habit if you smoke after the date you set to stop smoking.
-- •You may use APLENZIN and nicotine patches (a type of nicotine replacement therapy) at the same time, following the precautions below.
-  - oYou should only use APLENZIN and nicotine patches together under the care of your healthcare provider.
-    Using APLENZIN and nicotine patches together may raise your blood pressure, and sometimes this can be severe.
-  - oTell your healthcare provider if you plan to use nicotine patches.
-    Your healthcare provider should check your blood pressure regularly if you use nicotine patches with APLENZIN to help you quit smoking.
 - •If you miss a dose, do not take an extra dose to make up for the dose you missed.
   Wait and take your next dose at the regular time.
   This is very important.
   Too much APLENZIN can increase your chance of having a seizure.
 - •If you take too much APLENZIN, or overdose, call your local emergency room or poison control center right away.
-
-Do not take any other medicines while taking APLENZIN unless your healthcare provider has told you it is okay.
+- •Do not take any other medicines while taking APLENZIN unless your healthcare provider has told you it is okay.
 
 What should I avoid while taking APLENZIN?
 
@@ -249,7 +239,7 @@ For more information, ask your healthcare provider or pharmacist.
 Call your doctor for medical advice about side effects.
 You may report side effects to FDA at 1-800-FDA-1088.
 
-You may also report side effects to Valeant Pharmaceuticals North America LLC at 1-800-321-4576.
+You may also report side effects to Bausch Health US, LLC at 1-800-321-4576.
 
 How should I store APLENZIN?
 
@@ -280,17 +270,13 @@ Inactive ingredients: ethylcellulose, glyceryl behenate, polyvinyl alcohol, poly
 Carnauba wax is included in the 174 mg and 348 mg strengths.
 The tablets are printed with edible black ink.
 
-Manufactured for: Valeant Pharmaceuticals North America LLC Bridgewater, NJ 08807 USA By: Valeant Pharmaceuticals International, Inc. Steinbach, MB R5G 1Z7, Canada
+Manufactured for: Bausch Health US, LLC Bridgewater, NJ 08807 USA By: Bausch Health Companies, Inc. Steinbach, MB R5G 1Z7, Canada
 
-APLENZIN is a trademark of Valeant Pharmaceuticals International, Inc. or its affiliates.
+APLENZIN is a trademark of Bausch Health Companies, Inc. or its affiliates.
 All other product/brand names are the trademarks of their respective owners.
 
-©Valeant Pharmaceuticals North America LLC
+©2020 Bausch Health Companies Inc. or its affiliates
 
-This Medication Guide has been approved by the U.S. Food and Drug Administration.
+This Patient Information has been approved by the U.S. Food and Drug Administration.
 
-9386805
-
-20001960
-
-Revised: 05/2017
+Revised: 05/2020

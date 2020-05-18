@@ -37,7 +37,7 @@ The extent of protein binding of the hydroxybupropion metabolite is similar to t
 
 Metabolism
 
-Bupropion is extensively metabolized in humans.
+Metabolism Bupropion is extensively metabolized in humans.
 Three metabolites are active: hydroxybupropion, which is formed via hydroxylation of the tert-butyl group of bupropion, and the amino-alcohol isomers threohydrobupropion and erythrohydrobupropion, which are formed via reduction of the carbonyl group.
 In vitro findings suggest that CYP2B6 is the principal isoenzyme involved in the formation of hydroxybupropion, while cytochrome P450 enzymes are not involved in the formation of threohydrobupropion.
 Oxidation of the bupropion side chain results in the formation of a glycine conjugate of meta-chlorobenzoic acid, which is then excreted as the major urinary metabolite.
@@ -45,8 +45,7 @@ The potency and toxicity of the metabolites relative to bupropion have not been 
 However, it has been demonstrated in an antidepressant screening test in mice that hydroxybupropion is one half as potent as bupropion, while threohydrobupropion and erythrohydrobupropion are 5-fold less potent than bupropion.
 This may be of clinical importance, because the plasma concentrations of the metabolites are as high or higher than those of bupropion.
 
-Following chronic administration in healthy volunteers, peak plasma concentration of hydroxybupropion occurred approximately 6 hours after administration of APLENZIN.
-The peak plasma concentrations of hydroxybupropion were approximately 9 times the peak level of the parent drug at steady state.
+At steady state, peak plasma concentration of hydroxybupropion occurred approximately 6 hours after administration of APLENZIN, and it was approximately 9 times the peak level of the parent drug.
 The elimination half-life of hydroxybupropion is approximately 24.3 (±4.9) hours, and its AUC at steady state is about 15.6 times that of bupropion.
 The times to peak concentrations for the erythrohydrobupropion and threohydrobupropion metabolites are similar to that of hydroxybupropion.
 However, the elimination half-lives of erythrohydrobupropion and threohydrobupropion are longer, approximately 31.1(±7.8) and 50.8 (±8.5) hours, respectively, and steady-state AUCs were 1.5 and 6.8 times that of bupropion, respectively.
@@ -58,12 +57,12 @@ Elimination
 Following oral administration of 200 mg of 14C-bupropion in humans, 87% and 10% of the radioactive dose were recovered in the urine and feces, respectively.
 Only 0.5% of the oral dose was excreted as unchanged bupropion.
 
-Population Subgroups
+Specific Populations
 
 Factors or conditions altering metabolic capacity (e.g., liver disease, congestive heart failure [CHF], age, concomitant medications, etc.) or elimination may be expected to influence the degree and extent of accumulation of the active metabolites of bupropion.
 The elimination of the major metabolites of bupropion may be affected by reduced renal or hepatic function, because they are moderately polar compounds and are likely to undergo further metabolism or conjugation in the liver prior to urinary excretion.
 
-Renal Impairment
+Patients with Renal Impairment
 
 There is limited information on the pharmacokinetics of bupropion in patients with renal impairment.
 An inter-trial comparison between normal subjects and subjects with end-stage renal failure demonstrated that the parent drug Cmax and AUC values were comparable in the 2 groups, whereas the hydroxybupropion and threohydrobupropion metabolites had a 2.3- and 2.8-fold increase, respectively, in AUC for subjects with end-stage renal failure.
@@ -72,7 +71,7 @@ Bupropion is extensively metabolized in the liver to active metabolites, which a
 The elimination of the major metabolites of bupropion may be reduced by impaired renal function.
 APLENZIN should be used with caution in patients with renal impairment, and a reduced frequency and/or dose should be considered [see Dosage and Administration (2.7) and Use in Specific Populations (8.6)].
 
-Hepatic Impairment
+Patients with Hepatic Impairment
 
 The effect of hepatic impairment on the pharmacokinetics of bupropion was characterized in 2 single-dose trials, one in subjects with alcoholic liver disease and one in subjects with mild to severe cirrhosis.
 The first trial demonstrated that the half-life of hydroxybupropion was significantly longer in 8 subjects with alcoholic liver disease than in 8 healthy volunteers (32±14 hours versus 21±5 hours, respectively).
@@ -153,7 +152,7 @@ Nevertheless, there may be the potential for clinically important alterations of
 Drugs Metabolized by CYP2D6
 
 In vitro, bupropion and hydroxybupropion are CYP2D6 inhibitors.
-In a clinical study of 15 male subjects (ages 19 to 35 years) who were extensive metabolizers of CYP2D6, bupropion given as 150 mg twice daily followed by a single dose of 50 mg desipramine increased the Cmax, AUC, and T1/2 of desipramine by an average of approximately 2-, 5-, and 2-fold, respectively.
+In a clinical study of 15 male subjects (ages 19 to 35 years) who were extensive metabolizers of CYP2D6, bupropion given as 150 mg twice daily followed by a single dose of 50 mg desipramine increased the Cmax, AUC, and T½ of desipramine by an average of approximately 2-, 5-, and 2-fold, respectively.
 The effect was present for at least 7 days after the last dose of bupropion.
 Concomitant use of bupropion with other drugs metabolized by CYP2D6 has not been formally studied.
 

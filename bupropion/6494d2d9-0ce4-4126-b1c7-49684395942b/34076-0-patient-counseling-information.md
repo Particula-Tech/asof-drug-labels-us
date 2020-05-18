@@ -60,11 +60,6 @@ Pregnancy
 
 Advise patients to notify their healthcare provider if they become pregnant or intend to become pregnant during therapy.
 
-Precautions for Nursing Mothers
-
-Communicate with the patient and pediatric healthcare provider regarding the infant’s exposure to bupropion through human milk.
-Instruct patients to immediately contact the infant’s healthcare provider if they note any side effect in the infant that concerns them or is persistent.
-
 Administration Information
 
 Instruct patients to swallow APLENZIN tablets whole so that the release rate is not altered.
@@ -72,19 +67,20 @@ Instruct patients if they miss a dose, not to take an extra tablet to make up fo
 Instruct patients that APLENZIN tablets should be swallowed whole and not crushed, divided, or chewed.
 APLENZIN can be taken with or without food.
 
-Manufactured for: Valeant Pharmaceuticals North America LLC Bridgewater, NJ 08807 USA
+Manufactured for:
 
-By: Valeant Pharmaceuticals International, Inc. Steinbach, MB R5G 1Z7, Canada
+Bausch Health US, LLC Bridgewater, NJ 08807 USA
 
-APLENZIN is a trademark of Valeant Pharmaceuticals International, Inc. or its affiliates.
+By:
+
+Bausch Health Companies Inc. Steinbach, Manitoba R5G 1Z7, Canada
+
+APLENZIN is a trademark of Bausch Health Companies or its affiliates.
 
 Wellbutrin XL is a registered trademark of GlaxoSmithKline LLC used under license.
-
 All other product/brand names are the trademarks of their respective owners.
 
-U.S. Patents 7,241,805; 7,569,610; 7,572,935; 7,585,897; 7,645,802; 7,649,019; 7,662,407; 7,671,094
-
-©Valeant Pharmaceuticals North America LLC
+U.S. Patents: 7,241,805; 7,569,610; 7,572,935; 7,585,897; 7,645,802; 7,649,019; 7,662,407 and 7,671,094 © 2020 Bausch Health Companies Inc. or its affiliates
 
 9386805
 
