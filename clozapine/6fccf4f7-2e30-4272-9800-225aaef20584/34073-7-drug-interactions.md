@@ -8,7 +8,7 @@ Use caution when administering clozapine orally disintegrating tablets concomita
 ### CYP1A2 Inhibitors
 
 Concomitant use of clozapine orally disintegrating tablets and CYP1A2 inhibitors can increase plasma levels of clozapine, potentially resulting in adverse reactions.
-Reduce the clozapine orally disintegrating tablets dose to one-third of the original dose when clozapine orally disintegrating tablets are coadministered with strong CYP1A2 inhibitors (e.g., fluvoxamine, ciprofloxacin, or enoxacin).
+Reduce the clozapine orally disintegrating tablets dose to one third of the original dose when clozapine orally disintegrating tablets are coadministered with strong CYP1A2 inhibitors (e.g., fluvoxamine, ciprofloxacin, or enoxacin).
 The clozapine orally disintegrating tablets dose should be increased to the original dose when coadministration of strong CYP1A2 inhibitors is discontinued [see Dosage and Administration (2.7), Clinical Pharmacology (12.3)].
 
 Moderate or weak CYP1A2 inhibitors include oral contraceptives and caffeine.
@@ -29,16 +29,21 @@ Strong CYP3A4 inducers include carbamazepine, phenytoin, St. John’s wort, and 
 It may be necessary to increase the clozapine orally disintegrating tablets dose if used concomitantly with inducers of these enzymes.
 However, concomitant use of clozapine orally disintegrating tablets and strong CYP3A4 inducers is not recommended [see Dosage and Administration (2.7)].
 
-Consider reducing the clozapine orally disintegrating tablets dosage when discontinuing coadministered enzyme inducers; because discontinuation of inducers can result in increased clozapine plasma levels and an increased risk of adverse reactions [see Dosage and Administration (2.7)].
+Consider reducing the clozapine orally disintegrating tablets dosage when discontinuing coadministered enzyme inducers, because discontinuation of inducers can result in increased clozapine plasma levels and an increased risk of adverse reactions [see Dosage and Administration (2.7)].
+
+### Anticholinergic Drugs
+
+Concomitant treatment with clozapine and other drugs with anticholinergic activity (e.g., benztropine, cyclobenzaprine, diphenhydramine) can increase the risk for anticholinergic toxicity and severe gastrointestinal adverse reactions related to hypomotility.
+Avoid concomitant use of clozapine with anticholinergic drugs when possible [see Warnings and Precautions (5.8, 5.16)].
 
 ### Drugs that Cause QT Interval Prolongation
 
 Use caution when administering concomitant medications that prolong the QT interval or inhibit the metabolism of clozapine.
-Drugs that cause QT prolongation include: specific antipsychotics (e.g., ziprasidone, iloperidone, chlorpromazine, thioridazine, mesoridazine, droperidol, and pimozide), specific antibiotics (e.g., erythromycin, gatifloxacin, moxifloxacin, sparfloxacin), Class 1A antiarrhythmics (e.g., quinidine, procainamide) or Class III antiarrhythmics (e.g., amiodarone, sotalol), and others (e.g., pentamidine, levomethadyl acetate, methadone, halofantrine, mefloquine, dolasetron mesylate, probucol or tacrolimus) [see Warnings and Precautions (5.9)].
+Drugs that cause QT prolongation include: specific antipsychotics (e.g., ziprasidone, iloperidone, chlorpromazine, thioridazine, mesoridazine, droperidol, and pimozide), specific antibiotics (e.g., erythromycin, gatifloxacin, moxifloxacin, sparfloxacin), Class 1A antiarrhythmics (e.g., quinidine, procainamide) or Class III antiarrhythmics (e.g., amiodarone, sotalol), and others (e.g., pentamidine, levomethadyl acetate, methadone, halofantrine, mefloquine, dolasetron mesylate, probucol or tacrolimus) [see Warnings and Precautions (5.10)].
 
 ## 7.2 Potential for Clozapine to Affect Other Drugs
 
-Concomitant use of clozapine with other drugs metabolized by CYP2D6 can increase levels of these CYPD26 substrates.
+Concomitant use of clozapine with other drugs metabolized by CYP2D6 can increase levels of these CYP2D6 substrates.
 Use caution when coadministering clozapine with other drugs that are metabolized by CYP2D6.
 It may be necessary to use lower doses of such drugs than usually prescribed.
 Such drugs include specific antidepressants, phenothiazines, carbamazepine, and Type 1C antiarrhythmics (e.g., propafenone, flecainide, and encainide).

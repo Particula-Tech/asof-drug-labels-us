@@ -15,7 +15,7 @@ The active component of Clozapine Orally Disintegrating Tablets is clozapine, US
 The remaining components are aspartame powder, colloidal silicon dioxide, crospovidone, magnesium stearate, mannitol, microcrystalline cellulose, peppermint flavor, sodium stearyl fumarate and xylitol.
 
 THIS PRODUCT CONTAINS ASPARTAME AND IS NOT INTENDED FOR USE BY INFANTS.
-PHENYLKETONURICS: CONTAINS PHENYLALANINE [see Warnings and Precautions (5.18)].
+PHENYLKETONURICS: CONTAINS PHENYLALANINE [see Warnings and Precautions (5.19)].
 Phenylalanine is a component of aspartame.
 Each 12.5 mg, orally disintegrating tablet contains 2.5 mg aspartame, thus, 1.4 mg phenylalanine.
 Each 25 mg, orally disintegrating tablet contains 5 mg aspartame, thus, 2.8 mg phenylalanine.

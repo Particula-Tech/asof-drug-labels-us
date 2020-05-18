@@ -77,7 +77,7 @@ If a patient will be rechallenged, the clinician should consider thresholds prov
 
 It is unclear if concurrent use of other drugs known to cause neutropenia increases the risk or severity of clozapine-induced neutropenia.
 There is no strong scientific rationale to avoid clozapine treatment in patients concurrently treated with these drugs.
-If clozapine is used concurrently with an agent known to cause neutropenia (e.g., some chemotherapeutic agents), consider monitoring patients more closely than the treatment the guidelines provided in Tables 2 and 3.
+If clozapine is used concurrently with an agent known to cause neutropenia (e.g., some chemotherapeutic agents), consider monitoring patients more closely than the treatment guidelines provided in Tables 2 and 3.
 Consult with the treating oncologist in patients receiving concomitant chemotherapy.
 
 ## 5.2 Clozapine REMS Program
@@ -86,9 +86,9 @@ Clozapine is only available through a restricted program under a REMS called the
 
 Notable requirements of the Clozapine REMS Program include:
 
-- Healthcare professionals who prescribe clozapine must be certified with the program by enrolling and completing training
-- Patients who receive clozapine must be enrolled in the program and comply with the ANC testing and monitoring requirements
-- Pharmacies dispensing clozapine must be certified with the program by enrolling and completing training and must only dispense to patients who are eligible to receive clozapine
+- Healthcare professionals who prescribe clozapine must be certified with the program by enrolling and completing training.
+- Patients who receive clozapine must be enrolled in the program and comply with the ANC testing and monitoring requirements.
+- Pharmacies dispensing clozapine must be certified with the program by enrolling and completing training and must only dispense to patients who are eligible to receive clozapine.
 
 Further information is available at www.clozapinerems.com or 1-844-267-8678.
 
@@ -150,7 +150,21 @@ Observational studies suggest that, similar to atypical antipsychotic drugs, tre
 The extent to which the findings of increased mortality in observational studies may be attributed to the antipsychotic drug as opposed to some characteristic(s) of the patients is not clear.
 Clozapine is not approved for the treatment of patients with dementia-related psychosis [see Boxed Warning].
 
-## 5.8 Eosinophilia
+## 5.8 Gastrointestinal Hypomotility with Severe Complications
+
+Severe gastrointestinal adverse reactions have occurred with the use of clozapine, primarily due to its potent anticholinergic effects and resulting gastrointestinal hypomotility.
+In post marketing experience, reported effects range from constipation to paralytic ileus.
+Increased frequency of constipation and delayed diagnosis and treatment increased the risk of severe complications of gastrointestinal hypomotility, resulting in intestinal obstruction, fecal impaction, megacolon and intestinal ischemia or infarction [see Adverse Reactions (6.2)].
+These reactions have resulted in hospitalization, surgery, and death.
+The risk for severe adverse reactions is further increased with anticholinergic medications (and other medications that decrease gastrointestinal peristalsis); therefore, concomitant use should be avoided when possible [see Warnings and Precautions (5.16), Drug Interactions (7.1)].
+
+Prior to initiating clozapine, screen for constipation and treat as necessary.
+Subjective symptoms of constipation may not accurately reflect the degree of gastrointestinal hypomotility in clozapine treated patients.
+Therefore, reassess bowel function frequently with careful attention to any changes in the frequency or character of bowel movements, as well as signs and symptoms of complications of hypomotility (e.g., nausea, vomiting, abdominal distension, abdominal pain).
+If constipation or gastrointestinal hypomotility are identified, monitor closely and treat promptly with appropriate laxatives, as necessary, to prevent severe complications.
+Consider prophylactic laxatives in high risk patients.
+
+## 5.9 Eosinophilia
 
 Eosinophilia, defined as a blood eosinophil count of greater than 700/μL, has occurred with clozapine treatment.
 In clinical trials, approximately 1% of patients developed eosinophilia.
@@ -167,7 +181,7 @@ There are reports of successful rechallenge after discontinuation of clozapine, 
 In the absence of organ involvement, continue clozapine under careful monitoring.
 If the total eosinophil count continues to increase over several weeks in the absence of systemic disease, the decision to interrupt clozapine therapy and rechallenge after the eosinophil count decreases should be based on the overall clinical assessment, in consultation with an internist or hematologist.
 
-## 5.9 QT Interval Prolongation
+## 5.10 QT Interval Prolongation
 
 QT prolongation, Torsades de Pointes and other life-threatening ventricular arrhythmias, cardiac arrest, and sudden death have occurred with clozapine treatment.
 When prescribing clozapine, consider the presence of additional risk factors for QT prolongation and serious cardiovascular reactions.
@@ -177,12 +191,12 @@ Prior to initiating treatment with clozapine, perform a careful physical examina
 Consider obtaining a baseline ECG and serum chemistry panel.
 Correct electrolyte abnormalities.
 Discontinue clozapine if the QTc interval exceeds 500 msec.
-If patients experience symptoms consistent with Torsades de Pointes, or other arrhythmias, (e.g., syncope, presyncope, dizziness, or palpitations), obtain a cardiac evaluation and discontinue clozapine.
+If patients experience symptoms consistent with Torsades de Pointes or other arrhythmias (e.g., syncope, presyncope, dizziness, or palpitations), obtain a cardiac evaluation and discontinue clozapine.
 
 Use caution when administering concomitant medications that prolong the QT interval or inhibit the metabolism of clozapine orally disintegrating tablets.
 Drugs that cause QT prolongation include: specific antipsychotics (e.g., ziprasidone, iloperidone, chlorpromazine, thioridazine, mesoridazine, droperidol, pimozide), specific antibiotics (e.g., erythromycin, gatifloxacin, moxifloxacin, sparfloxacin), Class 1A antiarrhythmic medications (e.g., quinidine, procainamide) or Class III antiarrhythmics (e.g., amiodarone, sotalol), and others (e.g., pentamidine, levomethadyl acetate, methadone, halofantrine, mefloquine, dolasetron mesylate, probucol or tacrolimus).
 Clozapine is primarily metabolized by CYP isoenzymes 1A2, 2D6, and 3A4.
-Concomitant treatment with inhibitors of these enzymes can increase the concentration of clozapine orally disintegrating tablets [see Drug Interactions (7.1), and Clinical Pharmacology (12.3)].
+Concomitant treatment with inhibitors of these enzymes can increase the concentration of clozapine orally disintegrating tablets [see Drug Interactions (7.1) and Clinical Pharmacology (12.3)].
 
 Hypokalemia and hypomagnesemia increase the risk of QT prolongation.
 Hypokalemia can result from diuretic therapy, diarrhea, and other causes.
@@ -190,7 +204,7 @@ Use caution when treating patients at risk for significant electrolyte disturban
 Obtain baseline measurements of serum potassium and magnesium levels, and periodically monitor electrolytes.
 Correct electrolyte abnormalities before initiating treatment with clozapine.
 
-## 5.10 Metabolic Changes
+## 5.11 Metabolic Changes
 
 Atypical antipsychotic drugs, including clozapine have been associated with metabolic changes that can increase cardiovascular and cerebrovascular risk.
 These metabolic changes include hyperglycemia, dyslipidemia, and body weight gain.
@@ -298,7 +312,7 @@ Table 8: Proportion of Adult Subjects in Schizophrenia Studies with Weight Gain 
 | N | 669 | 442 | 155 |
 | ≥7% (inclusive) | 236 (35%) | 203 (46%) | 13 (8%) |
 
-## 5.11 Neuroleptic Malignant Syndrome
+## 5.12 Neuroleptic Malignant Syndrome
 
 Antipsychotic drugs including clozapine can cause a potentially fatal symptom complex referred to as Neuroleptic Malignant Syndrome (NMS).
 Clinical manifestations of NMS include hyperpyrexia, muscle rigidity, altered mental status, and autonomic instability (irregular pulse or blood pressure, tachycardia, diaphoresis, and cardiac dysrhythmias).
@@ -316,46 +330,42 @@ Monitor closely if restarting treatment with antipsychotics.
 
 NMS has occurred with clozapine monotherapy and with concomitant CNS-active medications, including lithium.
 
-## 5.12 Hepatotoxicity
+## 5.13 Hepatotoxicity
 
 Severe, life threatening, and in some cases fatal hepatotoxicity including hepatic failure, hepatic necrosis, and hepatitis have been reported in patients treated with clozapine [see Adverse Reactions (6.2)].
 Monitor for the appearance of signs and symptoms of hepatotoxicity such as fatigue, malaise, anorexia, nausea, jaundice, bilirubinemia, coagulopathy, and hepatic encephalopathy.
 Perform serum tests for liver injury and consider permanently discontinuing treatment if hepatitis or transaminase elevations combined with other systemic symptoms are due to clozapine.
 
-## 5.13 Fever
+## 5.14 Fever
 
 During clozapine therapy, patients have experienced transient, clozapine-related fever.
 The peak incidence is within the first 3 weeks of treatment.
 While this fever is generally benign and self-limited, it may necessitate discontinuing treatment.
 The fever can be associated with an increase or decrease in WBC count.
 Carefully evaluate patients with fever to rule out severe neutropenia or infection.
-Consider the possibility of NMS [see Warnings and Precautions (5.11)].
+Consider the possibility of NMS [see Warnings and Precautions (5.12)].
 
-## 5.14 Pulmonary Embolism
+## 5.15 Pulmonary Embolism
 
 Pulmonary embolism and deep-vein thrombosis have occurred in patients treated with clozapine orally disintegrating tablets.
 Consider the possibility of pulmonary embolism in patients who present with deep-vein thrombosis, acute dyspnea, chest pain, or with other respiratory signs and symptoms.
 Whether pulmonary embolus and deep vein thrombosis can be attributed to clozapine or some characteristic(s) of patients is not clear.
 
-## 5.15 Anticholinergic Toxicity
+## 5.16 Anticholinergic Toxicity
 
 Clozapine has potent anticholinergic effects.
-Treatment with clozapine can result in CNS and peripheral anticholinergic toxicity.
-Use with caution in the presence of narrow-angle glaucoma, concomitant anticholinergic medications, prostatic hypertrophy, or other conditions in which anticholinergic effects can lead to significant adverse reactions.
+Treatment with clozapine can result in CNS and peripheral anticholinergic toxicity, especially at higher dosages, or in overdose situations [see Overdosage (10)].
+Use with caution in patients with a current diagnosis or prior history of constipation, urinary retention, clinically significant prostatic hypertrophy, or other conditions in which anticholinergic effects can lead to significant adverse reactions.
+When possible, avoid concomitant use with other anticholinergic medications because the risk for anticholinergic toxicity or severe gastrointestinal adverse reactions is increased [see Warnings and Precautions (5.8), Drug Interactions (7.1)].
 
-Treatment with clozapine can result in gastrointestinal adverse reactions, including constipation, intestinal obstruction, fecal impaction, and paralytic ileus.
-Such reactions can be fatal.
-Constipation should be initially treated by ensuring adequate hydration and use of ancillary therapy such as bulk laxatives.
-Consultation with a gastroenterologist is advisable in more serious cases.
-
-## 5.16 Interference with Cognitive and Motor Performance
+## 5.17 Interference with Cognitive and Motor Performance
 
 Clozapine can cause sedation and impairment of cognitive and motor performance.
 Caution patients about operating hazardous machinery, including automobiles, until they are reasonably certain that clozapine does not affect them adversely.
 These reactions may be dose-related.
 Consider reducing the dose if they occur.
 
-## 5.17 Tardive Dyskinesia
+## 5.18 Tardive Dyskinesia
 
 Tardive dyskinesia (TD) has occurred in patients treated with antipsychotic drugs, including clozapine.
 The syndrome consists of potentially irreversible, involuntary, dyskinetic movements.
@@ -372,20 +382,20 @@ However, the syndrome may remit partially or completely if treatment is disconti
 Antipsychotic treatment, itself, may suppress (or partially suppress) the signs and symptoms, and it has the potential to mask the underlying process.
 The effect of symptom suppression on the long-term course of TD is unknown.
 
-## 5.18 Patients with Phenylketonuria
+## 5.19 Patients with Phenylketonuria
 
 Phenylketonuric patients should be informed that clozapine orally disintegrating tablets contain phenylalanine (a component of aspartame).
 Each 12.5 mg, orally disintegrating tablet contains 1.4 mg phenylalanine.
 Each 25 mg, orally disintegrating tablet contains 2.8 mg phenylalanine.
 Each 100 mg, orally disintegrating tablet contains 11.2 mg phenylalanine.
 
-## 5.19 Cerebrovascular Adverse Reactions
+## 5.20 Cerebrovascular Adverse Reactions
 
 In controlled trials, elderly patients with dementia-related psychosis treated with some atypical antipsychotics had an increased risk (compared to placebo) of cerebrovascular adverse reactions (e.g., stroke, transient ischemic attack), including fatalities.
 The mechanism for this increased risk is not known.
 An increased risk cannot be excluded for clozapine or other antipsychotics or other patient populations.
 Clozapine should be used with caution in patients with risk factors for cerebrovascular adverse reactions.
 
-## 5.20 Recurrence of Psychosis and Cholinergic Rebound after Abrupt Discontinuation of Clozapine
+## 5.21 Recurrence of Psychosis and Cholinergic Rebound after Abrupt Discontinuation of Clozapine
 
 If abrupt discontinuation of clozapine is necessary (because of severe neutropenia or another medical condition, for example) [see Dosage and Administration (2.4), Warnings and Precautions (5.1)], monitor carefully for the recurrence of psychotic symptoms and adverse reactions related to cholinergic rebound, such as profuse sweating, headache, nausea, vomiting and diarrhea.

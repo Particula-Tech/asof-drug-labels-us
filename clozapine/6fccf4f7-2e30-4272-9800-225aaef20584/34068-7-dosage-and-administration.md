@@ -61,7 +61,7 @@ Table 1: Dose Adjustment in Patients Taking Concomitant Medications
 | Moderate or Weak CYP1A2 Inhibitors | Monitor for adverse reactions. Consider reducing the clozapine orally disintegrating tablets dose if necessary. |  | Monitor for lack of effectiveness. Consider increasing clozapine orally disintegrating tablets dose if necessary. |
 | CYP2D6 or CYP3A4 Inhibitors |  |  |  |
 | Strong CYP3A4 Inducers | Concomitant use is not recommended. However, if the inducer is necessary, it may be necessary to increase the clozapine orally disintegrating tablets dose. Monitor for decreased effectiveness. |  | Reduce clozapine orally disintegrating tablets dose based on clinical response. |
-| Moderate or weak CYP1A2 or CYP3A4 Inducers | Monitor for decreased effectiveness. Consider increasing the clozapine orally disintegrating tablets dose if necessary. |  | Monitor for adverse reactions. Consider reducing the clozapine orally disintegrating tablets dose if necessary. |
+| Moderate or Weak CYP1A2 or CYP3A4 Inducers | Monitor for decreased effectiveness. Consider increasing the clozapine orally disintegrating tablets dose if necessary. |  | Monitor for adverse reactions. Consider reducing the clozapine orally disintegrating tablets dose if necessary. |
 
 ## 2.8 Renal or Hepatic Impairment or CYP2D6 Poor Metabolizers
 

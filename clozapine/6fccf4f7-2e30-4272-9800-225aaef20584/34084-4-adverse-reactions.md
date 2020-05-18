@@ -2,25 +2,26 @@
 
 The following adverse reactions are discussed in more detail in other sections of the labeling:
 
-- Severe Neutropenia [see Warnings and Precautions (5.1)].
-- Orthostatic Hypotension, Bradycardia, and Syncope [see Warnings and Precautions (5.3)].
-- Falls [see Warnings and Precautions (5.4)].
-- Seizures [see Warnings and Precautions (5.5)].
-- Myocarditis and Cardiomyopathy [see Warnings and Precautions (5.6)].
-- Increased Mortality in Elderly Patients with Dementia-Related Psychosis [see Warnings and Precautions (5.7)].
-- Eosinophilia [see Warnings and Precautions (5.8)].
-- QT Interval Prolongation [see Warnings and Precautions (5.9)].
-- Metabolic Changes (Hyperglycemia and Diabetes Mellitus, Dyslipidemia, and Weight Gain) [see Warnings and Precautions (5.10)]
-- Neuroleptic Malignant Syndrome [see Warnings and Precautions (5.11)].
-- Hepatotoxicity [see Warnings and Precautions (5.12)].
-- Fever [see Warnings and Precautions (5.13)].
-- Pulmonary Embolism [see Warnings and Precautions (5.14)].
-- Anticholinergic Toxicity [see Warnings and Precautions (5.15)].
-- Interference with Cognitive and Motor Performance [see Warnings and Precautions (5.16)].
-- Tardive Dyskinesia [see Warnings and Precautions (5.17)].
-- Patients with Phenylketonuria [see Warnings and Precautions (5.18)].
-- Cerebrovascular Adverse Reactions [see Warnings and Precautions (5.19)].
-- Recurrence of Psychosis and Cholinergic Rebound after Abrupt Discontinuation [see Warnings and Precautions (5.20)].
+- Severe Neutropenia [see Warnings and Precautions (5.1)]
+- Orthostatic Hypotension, Bradycardia, and Syncope [see Warnings and Precautions (5.3)]
+- Falls [see Warnings and Precautions (5.4)]
+- Seizures [see Warnings and Precautions (5.5)]
+- Myocarditis and Cardiomyopathy [see Warnings and Precautions (5.6)]
+- Increased Mortality in Elderly Patients with Dementia-Related Psychosis [see Warnings and Precautions (5.7)]
+- Gastrointestinal Hypomotility with Severe Complications [see Warnings and Precautions (5.8)]
+- Eosinophilia [see Warnings and Precautions (5.9)]
+- QT Interval Prolongation [see Warnings and Precautions (5.10)]
+- Metabolic Changes (Hyperglycemia and Diabetes Mellitus, Dyslipidemia, and Weight Gain) [see Warnings and Precautions (5.11)]
+- Neuroleptic Malignant Syndrome [see Warnings and Precautions (5.12)]
+- Hepatotoxicity [see Warnings and Precautions (5.13)]
+- Fever [see Warnings and Precautions (5.14)]
+- Pulmonary Embolism [see Warnings and Precautions (5.15)]
+- Anticholinergic Toxicity [see Warnings and Precautions (5.16)]
+- Interference with Cognitive and Motor Performance [see Warnings and Precautions (5.17)]
+- Tardive Dyskinesia [see Warnings and Precautions (5.18)]
+- Patients with Phenylketonuria [see Warnings and Precautions (5.19)]
+- Cerebrovascular Adverse Reactions [see Warnings and Precautions (5.20)]
+- Recurrence of Psychosis and Cholinergic Rebound after Abrupt Discontinuation [see Warnings and Precautions (5.21)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -144,7 +145,7 @@ Pseudopheochromocytoma
 
 ### Gastrointestinal System
 
-Acute pancreatitis, dysphagia, salivary gland swelling.
+Acute pancreatitis, dysphagia, salivary gland swelling, megacolon, intestinal ischemia or infarction.
 
 ### Hepatobiliary System
 

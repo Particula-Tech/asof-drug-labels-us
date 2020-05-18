@@ -12,7 +12,7 @@ In addition, patients must have had a score of at least 4 on at least two of the
 Patients must have had a Clinical Global Impressions – Severity Scale score of at least 4 (moderately ill).
 
 In the prospective, lead-in phase of the trial, all patients (N=305) initially received single-blind treatment with haloperidol (the mean dose was 61 mg per day) for 6 weeks.
-More than 80% of patients completed the 6 week trial.
+More than 80% of patients completed the 6-week trial.
 Patients with an inadequate response to haloperidol (n=268) were randomized to double-blind treatment with clozapine (N=126) or chlorpromazine (N=142).
 The maximum daily clozapine dose was 900 mg; the mean daily dose was >600 mg.
 The maximum daily chlorpromazine dose was 1800 mg; the mean daily dose was >1200 mg.
