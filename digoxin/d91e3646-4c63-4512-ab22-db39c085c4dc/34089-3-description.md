@@ -12,6 +12,6 @@ Its molecular formula is C41H64O14, its molecular weight is 780.95, and its stru
 Digoxin exists as odorless white crystals that melt with decomposition above 230°C.
 The drug is practically insoluble in water and in ether; slightly soluble in diluted (50%) alcohol and in chloroform; and freely soluble in pyridine.
 
-LANOXIN is supplied as 62.5 mcg (unscored), 125 mcg (scored), 187.5 mcg (unscored), and 250 mcg (scored) tablets for oral administration.
+LANOXIN is supplied as 62.5 mcg (unscored), 125 mcg (scored), and 250 mcg (scored) tablets for oral administration.
 Each tablet contains the labeled amount of digoxin USP and the following inactive ingredients: corn and potato starches, lactose and magnesium stearate.
-The 125 mcg tablets contain D&C Yellow No. 10 and FD&C Yellow No. 6, the 62.5 mcg tablets contain FD&C Yellow No. 6 and the 187.5 mcg tablets contain D&C Green Dye No. 5.
+The 125 mcg tablets contain D&C Yellow No. 10 and FD&C Yellow No. 6, and the 62.5 mcg tablets contain FD&C Yellow No. 6.
