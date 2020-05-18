@@ -2,7 +2,7 @@
 
 ## 1.1 Skin and Skin Structure Infections
 
-CIPRO is indicated in adult patients for treatment of skin and skin structure infectionscaused by Escherichia coli, Klebsiella pneumoniae, Enterobacter cloacae, Proteus mirabilis, Proteus vulgaris, Providencia stuartii, Morganella morganii, Citrobacter freundii, Pseudomonas aeruginosa, methicillin-susceptible Staphylococcus aureus, methicillin-susceptible Staphylococcus epidermidis, or Streptococcus pyogenes.
+CIPRO is indicated in adult patients for treatment of skin and skin structure infections caused by Escherichia coli, Klebsiella pneumoniae, Enterobacter cloacae, Proteus mirabilis, Proteus vulgaris, Providencia stuartii, Morganella morganii, Citrobacter freundii, Pseudomonas aeruginosa, methicillin-susceptible Staphylococcus aureus, methicillin-susceptible Staphylococcus epidermidis, or Streptococcus pyogenes.
 
 ## 1.2 Bone and Joint Infections
 
@@ -76,7 +76,7 @@ CIPRO, like other fluoroquinolones, is associated with arthropathy and histopath
 
 CIPRO is indicated in adult patients for treatment of acute sinusitis caused by Haemophilus influenzae, Streptococcus pneumoniae, or Moraxella catarrhalis.
 
-Because fluoroquinolones, including CIPRO, have been associated with serious adverse reactions [see Warnings and Precautions (5.1-5.15)] and for some patients acute sinusitis is self-limiting, reserve CIPRO for treatment of acute sinusitis in patients who have no alternative treatment options.
+Because fluoroquinolones, including CIPRO, have been associated with serious adverse reactions [see Warnings and Precautions (5.1-5.16)] and for some patients acute sinusitis is self-limiting, reserve CIPRO for treatment of acute sinusitis in patients who have no alternative treatment options.
 
 ## 1.13 Usage
 

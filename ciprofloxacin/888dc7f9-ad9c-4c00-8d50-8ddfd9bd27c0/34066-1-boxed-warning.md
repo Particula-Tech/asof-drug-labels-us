@@ -6,7 +6,7 @@
   - •Central nervous system effects [see Warnings and Precautions (5.4)].
 - Discontinue CIPRO immediately and avoid the use of fluoroquinolones, including CIPRO, in patients who experience any of these serious adverse reactions [see Warnings and Precautions (5.1)].
 - •Fluoroquinolones, including CIPRO, may exacerbate muscle weakness in patients with myasthenia gravis.
-  Avoid CIPRO in patients with known history of myasthenia gravi.
+  Avoid CIPRO in patients with known history of myasthenia gravis.
   [see Warnings and Precautions (5.5)].
 - •Because fluoroquinolones, including CIPRO, have been associated with serious adverse reactions [see Warnings and Precautions (5.1-5.16)], reserve CIPRO for use in patients who have no alternative treatment options for the following indications:
   - •Acute exacerbation of chronic bronchitis [see Indications and Usage (1.10)].

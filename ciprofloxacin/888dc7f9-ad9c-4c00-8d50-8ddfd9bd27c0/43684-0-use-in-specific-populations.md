@@ -42,6 +42,11 @@ An oral ciprofloxacin dose of 100 mg/kg (approximately 1.3 times the highest rec
 A 30 mg/kg oral dose (approximately 0.4 times the highest recommended clinical oral dose) was associated with suppression of maternal and fetal body weight gain, but fetal malformations were not observed.
 Intravenous administration of doses up to 20 mg/kg (approximately 0.3 times the highest recommended clinical oral dose based upon body surface area) to pregnant rabbits was not maternally toxic and neither embryofetal toxicity nor fetal malformations were observed.
 
+In peri- and post-natal studies, rats received ciprofloxacin doses up to 200 mg/kg/day (oral) or up to 30 mg/kg/day (subcutaneous) from GD 16 to 22 days postpartum.
+The 200 mg/kg dose is approximately 1.3-times the maximum recommended clinical oral dose based on body surface area.
+Neither maternal toxicity nor adverse effects on growth and development of the pups were observed, including no sign of arthropathy on the rear leg joints of the pups.
+Ciprofloxacin and other quinolones have been shown to cause arthropathy in immature animals of most species tested when administered directly [see Warnings and Precautions (5.13) and Nonclinical Toxicology 13.2].
+
 ## 8.2 Lactation
 
 ### Risk Summary

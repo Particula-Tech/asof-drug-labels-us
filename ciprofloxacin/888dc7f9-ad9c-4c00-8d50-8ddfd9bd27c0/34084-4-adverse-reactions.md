@@ -11,7 +11,7 @@ The following serious and otherwise important adverse drug reactions are discuss
 - •Hepatotoxicity [see Warnings and Precautions (5.8)]
 - •Risk of Aortic Aneurysm and Dissection [see Warnings and Precautions (5.9)]
 - •Serious Adverse Reactions with Concomitant Theophylline [see Warnings and Precautions (5.10)]
-- •Clostridium difficile-Associated Diarrhea [see Warnings and Precautions (5.11)]
+- •Clostridioides difficile-Associated Diarrhea [see Warnings and Precautions (5.11)]
 - •Prolongation of the QT Interval [see Warnings and Precautions (5.12)]
 - •Musculoskeletal Disorders in Pediatric Patients [see Warnings and Precautions (5.13)]
 - •Photosensitivity/Phototoxicity [see Warnings and Precautions (5.14)]

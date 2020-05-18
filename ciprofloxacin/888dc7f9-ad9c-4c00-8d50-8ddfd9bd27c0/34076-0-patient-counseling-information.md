@@ -66,14 +66,16 @@ Instruct the Patient
 - •Reclose the bottle properly after each use according to instructions on the cap.
 - •After treatment has been completed, CIPRO Oral Suspension should not be reused.
 
-Administration with Food, Fluids, and Concomitant Medications
-
 Inform patients that CIPRO may be taken with or without food.
 
 Inform patients to drink fluids liberally while taking CIPRO to avoid formation of highly concentrated urine and crystal formation in the urine.
 
 Inform patients that antacids containing magnesium, or aluminum, as well as sucralfate, metal cations such as iron, and multivitamin preparations with zinc or didanosine should be taken at least two hours before or six hours after CIPRO administration.
 CIPRO should not be taken with dairy products (like milk or yogurt) or calcium-fortified juices alone since absorption of ciprofloxacin may be significantly reduced; however, CIPRO may be taken with a meal that contains these products.
+
+Advise patients that if a dose is missed, it should be taken anytime but not later than 6 hours prior to the next scheduled dose.
+If less than 6 hours remain before the next dose, the missed dose should not be taken and treatment should be continued as prescribed with the next scheduled dose.
+Double doses should not be taken to compensate for a missed dose.
 
 Drug Interactions Oral Antidiabetic Agents
 

@@ -76,6 +76,12 @@ Some reactions were accompanied by cardiovascular collapse, loss of consciousnes
 Only a few patients had a history of hypersensitivity reactions.
 Serious anaphylactic reactions require immediate emergency treatment with epinephrine and other resuscitation measures, including oxygen, intravenous fluids, intravenous antihistamines, corticosteroids, pressor amines, and airway management, including intubation, as indicated [see Adverse Reactions (6.1)].
 
+## 5.9 Risk of Aortic Aneurysm and Dissection
+
+Epidemiologic studies report an increased rate of aortic aneurysm and dissection within two months following use of fluoroquinolones, particularly in elderly patients.
+The cause for the increased risk has not been identified.
+In patients with a known aortic aneurysm or patients who are at greater risk for aortic aneurysms, reserve CIPRO for use only when there are no alternative antibacterial treatments available.
+
 ## 5.8 Hepatotoxicity
 
 Cases of severe hepatotoxicity, including hepatic necrosis, life-threatening hepatic failure, and fatal events, have been reported with CIPRO.
@@ -85,12 +91,6 @@ Most patients with fatal outcomes were older than 55 years old.
 In the event of any signs and symptoms of hepatitis (such as anorexia, jaundice, dark urine, pruritus, or tender abdomen), discontinue treatment immediately.
 
 There can be a temporary increase in transaminases, alkaline phosphatase, or cholestatic jaundice, especially in patients with previous liver damage, who are treated with CIPRO [see Adverse Reactions (6.2, 6.3)].
-
-## 5.9 Risk of Aortic Aneurysm and Dissection
-
-Epidemiologic studies report an increased rate of aortic aneurysm and dissection within two months following use of fluoroquinolones, particularly in elderly patients.
-The cause for the increased risk has not been identified.
-In patients with a known aortic aneurysm or patients who are at greater risk for aortic aneurysms, reserve CIPRO for use only when there are no alternative antibacterial treatments available.
 
 ## 5.10 Serious Adverse Reactions with Concomitant Theophylline
 
@@ -103,7 +103,7 @@ If concomitant use cannot be avoided, monitor serum levels of theophylline and a
 
 ## 5.11 Clostridioides difficile-Associated Diarrhea
 
-Clostridium difficile (C. difficile)-associated diarrhea (CDAD) has been reported with use of nearly all antibacterial agents, including CIPRO, and may range in severity from mild diarrhea to fatal colitis.
+Clostridioides difficile (C. difficile)-associated diarrhea (CDAD) has been reported with use of nearly all antibacterial agents, including CIPRO, and may range in severity from mild diarrhea to fatal colitis.
 Treatment with antibacterial agents alters the normal flora of the colon leading to overgrowth of C. difficile.
 
 C. difficile produces toxins A and B which contribute to the development of CDAD.

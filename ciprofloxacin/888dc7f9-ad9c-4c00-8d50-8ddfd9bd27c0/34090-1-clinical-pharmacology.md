@@ -27,16 +27,16 @@ Serum concentrations increase proportionately with doses up to 1000 mg.
 
 A 500 mg oral dose given every 12 hours has been shown to produce AUC equivalent to that produced by an intravenous infusion of 400 mg CIPRO given over 60 minutes every 12 hours.
 A 750 mg oral dose given every 12 hours has been shown to produce an AUC at steady-state equivalent to that produced by an intravenous infusion of 400 mg given over 60 minutes every 8 hours.
-A 750 mg oral dose results in a Cmax similar to that observed with a 400 mg intravenous dose.
-A 250 mg oral dose given every 12 hours produces an AUC equivalent to that produced by an infusion of 200 mg CIPRO given every 12 hours (Table 13).
+A 750 mg oral dose results in a Cmax similar to that observed with a 400 mg intravenous dose (Table 13).
+A 250 mg oral dose given every 12 hours produces an AUC equivalent to that produced by an infusion of 200 mg CIPRO given every 12 hours.
 
-Table 13: Steady-state Cmax and AUC of Ciprofloxacin Following Administration of Multiple Oral and IV CIPRO Doses to Healthy Subjects
+Table 13: Steady-state Pharmacokinetic Parameters Following Multiple Oral and Intravenous Doses (Adults)
 
 | Parameters | 500 mg | 400 mg | 750 mg | 400 mg |
 | --- | --- | --- | --- | --- |
-|  | every 12 hours, orally | every 12 hours, intravenous | every 12 hours, orally. | every 8 hours, intravenous |
-| AUC (mcg•hr/mL) | 13.7AUC 0–12h | 12.7 | 31.6 | 32.9 |
-| Cmax (mcg/mL) | 2.97 | 4.56 | 3.59 | 4.07 |
+|  | every 12 hours, orally | every 12 hours, intravenously | every 12 hours, orally | every 8 hours, intravenously |
+| AUC0-24h,ss (µg•h/mL) | 27.4AUC0-12h x 2 | 25.4* | 31.6* | 32.9** |
+| Cmax,ss (µg/mL) | 2.97 | 4.56 | 3.59 | 4.07 |
 
 #### Food
 
@@ -102,10 +102,15 @@ The kinetics of ciprofloxacin in patients with acute hepatic insufficiency, have
 
 #### Pediatrics
 
-Following a single oral dose of 10 mg/kg CIPRO suspension to 16 children ranging in age from 4 months to 7 years, the mean Cmax was 2.4 mcg/mL (range: 1.5 mcg/mL to 3.4 mcg/mL) and the mean AUC was 9.2 mcg*hr/mL (range: 5.8 mcg*hr/mL to 14.9 mcg*h/mL).
-There was no apparent age-dependence, and no notable increase in Cmax or AUC upon multiple dosing (10 mg/kg three times a day).
-In children with severe sepsis who were given CIPRO IV (10 mg/kg as a 1-hour intravenous infusion), the mean Cmax was 6.1 mcg/mL (range: 4.6 mcg/mL to 8.3 mcg/mL) in 10 children less than 1 year of age; and 7.2 mcg/mL (range: 4.7 mcg/mL to 11.8 mcg/mL) in 10 children between 1 year and 5 years of age.
-The AUC values were 17.4 mcg*hr/mL (range: 11.8 mcg*hr/mL to 32 mcg*hr/mL) and 16.5 mcg*hr/mL (range: 11 mcg*hr/mL to 23.8 mcg*hr/mL) in the respective age groups.
+Table 14: Estimated AUC0–24,ss and Cmax,ss for Intravenous Treatment (1-h infusion) in Pediatric Patients Following a Multiple Dosing Regimen of 10 mg/kg, Three Times Daily
+
+| Age | AUC0–24,ss (mg h/L) | Cmax,ss (mg/L) |
+| --- | --- | --- |
+| Less than1 year | 30.9 | 2.8 |
+| 1 to less than 2 years | 27.8 | 3.6 |
+| 2 to less than 6 years | 28.9 | 2.7 |
+| 6 to less than 12 years | 20.4 | 2.0 |
+
 These values are within the range reported for adults at therapeutic doses.
 Based on population pharmacokinetic analysis of pediatric patients with various infections, the predicted mean half-life in children is approximately 4 hours –5 hours, and the bioavailability of the oral suspension is approximately 60%.
 
