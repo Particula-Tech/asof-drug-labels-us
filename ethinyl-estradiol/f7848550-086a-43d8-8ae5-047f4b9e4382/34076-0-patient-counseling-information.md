@@ -25,10 +25,10 @@ Counsel patients about the following information:
   Consider pregnancy in the event of amenorrhea.
   Rule out pregnancy in the event of amenorrhea in two or more consecutive cycles, amenorrhea in one cycle if the woman has not adhered to the dosing schedule, or if associated with symptoms of pregnancy, such as morning sickness or unusual breast tenderness.
 - •If the Xulane patch becomes partially or completely detached and remains detached, insufficient drug delivery occurs.
-  - oA patch should not be re-applied if it is no longer sticky, becomes stuck to itself or another surface, has other material stuck to it, or has become loose or fallen off before.
+  - •A patch should not be re-applied if it is no longer sticky, becomes stuck to itself or another surface, has other material stuck to it, or has become loose or fallen off before.
     If a patch cannot be re-applied, a new patch should be applied immediately.
     Supplemental adhesives or wraps should not be used.
-  - oA woman may not be protected from pregnancy if a patch is partially or completely detached for ≥ 24 hours (or if the woman is not sure how long the patch has been detached).
+  - •A woman may not be protected from pregnancy if a patch is partially or completely detached for ≥ 24 hours (or if the woman is not sure how long the patch has been detached).
     She should start a new cycle immediately by applying a new patch.
     Back-up contraception, such as a condom and spermicide or diaphragm and spermicide, must be used for the first week of the new cycle.
 

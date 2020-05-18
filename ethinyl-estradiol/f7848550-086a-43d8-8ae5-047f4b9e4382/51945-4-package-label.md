@@ -7,7 +7,8 @@ Contents: 3 Transdermal Systems | Rx only
 Xulane® (norelgestromin and ethinyl estradiol transdermal system) 150/35 mcg per day
 
 Each 14 cm2 system contains 4.86 mg norelgestromin, USP and 0.53 mg ethinyl estradiol, USP.
-The inactive components are polyisobutene adhesive, crospovidone, mineral oil, non-woven polyester fabric, oleyl alcohol, dipropylene glycol, polyester backing film laminate and polyester release liner.
+The inactive components are crospovidone, dipropylene glycol, fluoropolymer coated polyester film, light mineral oil, non-woven polyester fabric, oleyl alcohol, polyethylene/polyester film and polyisobutene adhesive.
+Each patch is printed with brown ink.
 
 This product is intended to prevent pregnancy.
 It does not protect against HIV infection (AIDS) and other sexually transmitted diseases.
@@ -29,4 +30,4 @@ Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
 Mylan.com
 
-M3340:53:3C:R14
+M3340:53:3C:R15
