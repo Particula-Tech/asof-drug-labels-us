@@ -8,6 +8,8 @@ Succinylcholine Chloride Injection, USP
 
 200 mg/10 mL (20 mg/mL)
 
+WARNING: Paralyzing Agent
+
 For Intravenous or Intramuscular use.
 
 10 mL Multiple-dose Vial
@@ -26,11 +28,13 @@ Succinylcholine Chloride Injection, USP
 
 200 mg/10 mL (20 mg/mL)
 
+WARNING: Paralyzing Agent
+
 For Intravenous or Intramuscular use.
 
 Store in refrigerator 2º to 8ºC (36º to 46ºF).
 
-25 (25 x 1) 10 mL Multiple-dose Vials
+25 x 10 mL Multiple-dose Vials
 
 Rx only
 
