@@ -11,14 +11,11 @@ This section of the Medication Guide is only about the risk of suicidal thoughts
 
 What is the most important information I should know about antidepressant medicines, depression and other serious mental illnesses, and suicidal thoughts or actions?
 
-1. 1.
-   Antidepressant medicines may increase the risk of suicidal thoughts or actions in some children, teenagers, or young adults within the first few months of treatment.
-2. 2.
-   Depression or other serious mental illnesses are the most important causes of suicidal thoughts and actions.
+1. 1.Antidepressant medicines may increase the risk of suicidal thoughts or actions in some children, teenagers, or young adults within the first few months of treatment.
+2. 2.Depression or other serious mental illnesses are the most important causes of suicidal thoughts and actions.
    Some people may have a particularly high risk of having suicidal thoughts or actions.
    These include people who have (or have a family history of) bipolar illness (also called manic-depressive illness) or suicidal thoughts or actions.
-3. 3.
-   How can I watch for and try to prevent suicidal thoughts and actions in myself or a family member?
+3. 3.How can I watch for and try to prevent suicidal thoughts and actions in myself or a family member?
 4. • Pay close attention to any changes, especially sudden changes, in mood, behaviors, thoughts, or feelings.
    This is very important when an antidepressant medicine is started or when the dose is changed.
 5. • Call your healthcare provider right away to report new or sudden changes in mood, behavior, thoughts, or feelings.
@@ -27,29 +24,29 @@ What is the most important information I should know about antidepressant medici
 
 Call your healthcare provider right away if you or your family member has any of the following symptoms, especially if they are new, worse, or worry you:
 
-- thoughts about suicide or dying
-- attempts to commit suicide
-- new or worse depression
-- new or worse anxiety
-- feeling very agitated or restless
-- panic attacks
-- trouble sleeping (insomnia)
-- new or worse irritability
-- acting aggressive, being angry, or violent
-- acting on dangerous impulses
-- an extreme increase in activity and talking (mania)
-- other unusual changes in behavior or mood
+- •thoughts about suicide or dying
+- •attempts to commit suicide
+- •new or worse depression
+- •new or worse anxiety
+- •feeling very agitated or restless
+- •panic attacks
+- •trouble sleeping (insomnia)
+- •new or worse irritability
+- •acting aggressive, being angry, or violent
+- •acting on dangerous impulses
+- •an extreme increase in activity and talking (mania)
+- •other unusual changes in behavior or mood
 
 What else do I need to know about antidepressant medicines?
 
-- Never stop an antidepressant medicine without first talking to a healthcare provider.
+- •Never stop an antidepressant medicine without first talking to a healthcare provider.
   Stopping an antidepressant medicine suddenly can cause other symptoms.
-- Antidepressants are medicines used to treat depression and other illnesses.
+- •Antidepressants are medicines used to treat depression and other illnesses.
   It is important to discuss all the risks of treating depression and also the risks of not treating it.
   Patients and their families or other caregivers should discuss all treatment choices with the healthcare provider, not just the use of antidepressants.
-- Antidepressant medicines have other side effects.
+- •Antidepressant medicines have other side effects.
   Talk to the healthcare provider about the side effects of the medicine prescribed for you or your family member.
-- Antidepressant medicines can interact with other medicines.
+- •Antidepressant medicines can interact with other medicines.
   Know all of the medicines that you or your family member takes.
   Keep a list of all medicines to show the healthcare provider.
   Do not start new medicines without first checking with your healthcare provider.
@@ -69,7 +66,7 @@ Talk to your healthcare provider or your family member’s healthcare provider a
 
 When you try to quit smoking, with or without bupropion, you may have symptoms that may be due to nicotine withdrawal, including
 
-| urge to smoke depressed mood trouble sleeping irritability | frustration anger feeling anxious difficulty concentrating | restlessness decreased heart rate increased appetite weight gain |
+| •urge to smoke •depressed mood •trouble sleeping •irritability | •frustration •anger •feeling anxious •difficulty concentrating | •restlessness •decreased heart rate •increased appetite •weight gain |
 | --- | --- | --- |
 
 Some people have even experienced suicidal thoughts when trying to quit smoking without medication.
@@ -92,43 +89,43 @@ You should also tell your healthcare provider about any symptoms you had during 
 
 What Other Important Information Should I Know About Bupropion Hydrochloride Tablets?
 
-- Seizures: There is a chance of having a seizure (convulsion, fit) with bupropion hydrochloride tablets, especially in people:
-  - with certain medical problems.
-  - who take certain medicines.
+- •Seizures: There is a chance of having a seizure (convulsion, fit) with bupropion hydrochloride tablets, especially in people:
+  - •with certain medical problems.
+  - •who take certain medicines.
 
 The chance of having seizures increases with higher doses of bupropion hydrochloride tablets.
 For more information, see the sections "Who should not take bupropion hydrochloride tablets?" and "What should I tell my healthcare provider before taking bupropion hydrochloride tablets?"
 Tell your healthcare provider about all of your medical conditions and all the medicines you take.
-Do not take any other medicines while you are taking bupropion hydrochloride tabletsunless your healthcare provider has said it is okay to take them.
+Do not take any other medicines while you are taking bupropion hydrochloride tablets unless your healthcare provider has said it is okay to take them.
 
 If you have a seizure while taking bupropion hydrochloride tablets, stop taking the tablets and call your healthcare provider right away.
 Do not take bupropion hydrochloride tablets again if you have a seizure.
 
-- High blood pressure (hypertension).
+- •High blood pressure (hypertension).
   Some people get high blood pressure that can be severe, while taking bupropion hydrochloride tablets.
   The chance of high blood pressure may be higher if you also use nicotine replacement therapy (such as a nicotine patch) to help you stop smoking (see the section of this Medication Guide called “How should I take bupropion hydrochloride tablets?”.
-- Manic episodes.
+- •Manic episodes.
   Some people may have periods of mania while taking bupropion hydrochloride tablets, including:
-  - Greatly increased energy
-  - Severe trouble sleeping
-  - Racing thoughts
-  - Reckless behavior
-  - Unusually grand ideas
-  - Excessive happiness or irritability
-  - Talking more or faster than usual
+  - •Greatly increased energy
+  - •Severe trouble sleeping
+  - •Racing thoughts
+  - •Reckless behavior
+  - •Unusually grand ideas
+  - •Excessive happiness or irritability
+  - •Talking more or faster than usual
 
 If you have any of the above symptoms of mania, call your healthcare provider.
 
-- Unusual thoughts or behaviors.
+- •Unusual thoughts or behaviors.
   Some patients have unusual thoughts or behaviors while taking bupropion hydrochloride tablets, including delusions (believe you are someone else), hallucinations (seeing or hearing things that are not there), paranoia (feeling that people are against you), or feeling confused.
   If this happens to you, call your healthcare provider.
-- Visual problems.
-  - eye pain
-  - changes in vision
-  - swelling or redness in or around the eye
-- Only some people are at risk for these problems.
+- •Visual problems.
+  - •eye pain
+  - •changes in vision
+  - •swelling or redness in or around the eye
+- •Only some people are at risk for these problems.
   You may want to undergo an eye examination to see if you are at risk and receive preventative treatment if you are.
-- Severe allergic reactions.
+- •Severe allergic reactions.
   Some people can have severe allergic reactions to bupropion hydrochloride tablets.
   Stop taking bupropion hydrochloride tablets and call your healthcare provider right away if you get a rash, itching, hives, fever, swollen lymph glands, painful sores in the mouth or around the eyes, swelling of the lips or tongue, chest pain, or have trouble breathing.
   These could be signs of a serious allergic reaction.
@@ -141,16 +138,16 @@ Who should not take bupropion hydrochloride tablets?
 
 Do not take bupropion hydrochloride tablets if you
 
-- have or had a seizure disorder or epilepsy.
-- have or had an eating disorder such as anorexia nervosa or bulimia.
-- are taking any other medicines that contain bupropion, including ZYBAN (used to help people stop smoking) WELLBUTRIN SR ®, WELLBUTRIN XL ®, APLENZIN ®, or FORFIVO XL ®.
+- •have or had a seizure disorder or epilepsy.
+- •have or had an eating disorder such as anorexia nervosa or bulimia.
+- •are taking any other medicines that contain bupropion, including ZYBAN (used to help people stop smoking) WELLBUTRIN SR ®, WELLBUTRIN XL ®, APLENZIN ®, or FORFIVO XL ®.
   Bupropion is the same active ingredient that is in bupropion hydrochloride tablets.
-- drink a lot of alcohol and abruptly stop drinking, or use medicines called sedatives (these make you sleepy), benzodiazepines, or anti-seizure medicines, and you stop using them all of a sudden.
-- take a monoamine oxidase inhibitor (MAOI).
+- •drink a lot of alcohol and abruptly stop drinking, or use medicines called sedatives (these make you sleepy), benzodiazepines, or anti-seizure medicines, and you stop using them all of a sudden.
+- •take a monoamine oxidase inhibitor (MAOI).
   Ask your healthcare provider or pharmacist if you are not sure if you take an MAOI, including the antibiotic linezolid.
-  - do not take an MAOI within 2 weeks of stopping bupropion hydrochloride tablets unless directed to do so by your healthcare provider.
-  - do not start bupropion hydrochloride tablets if you stopped taking an MAOI in the last 2 weeks unless directed to do so by your healthcare provider.
-- are allergic to the active ingredient in bupropion hydrochloride tablets, bupropion, or to any of the inactive ingredients.
+  - •do not take an MAOI within 2 weeks of stopping bupropion hydrochloride tablets unless directed to do so by your healthcare provider.
+  - •do not start bupropion hydrochloride tablets if you stopped taking an MAOI in the last 2 weeks unless directed to do so by your healthcare provider.
+- •are allergic to the active ingredient in bupropion hydrochloride tablets, bupropion, or to any of the inactive ingredients.
   See the end of this Medication Guide for a complete list of ingredients in bupropion hydrochloride tablets.
 
 What should I tell my healthcare provider before taking bupropion hydrochloride tablets?
@@ -160,48 +157,53 @@ See "Antidepressant Medicines, Depression and Other Serious Mental Illnesses, an
 
 Tell your healthcare provider about your other medical conditions including if you:
 
-- have liver problems, especially cirrhosis of the liver.
-- have kidney problems.
-- have, or have had, an eating disorder, such as anorexia nervosa or bulimia.
-- have had a head injury.
-- have had a seizure (convulsion, fit).
-- have a tumor in your nervous system (brain or spine).
-- have had a heart attack, heart problems, or high blood pressure.
-- are a diabetic taking insulin or other medicines to control your blood sugar.
-- drink alcohol.
-- abuse prescription medicines or street drugs.
-- are pregnant or plan to become pregnant.
-- are breastfeeding.
-  Bupropion hydrochloride passes into your milk in small amounts.
+- •have liver problems, especially cirrhosis of the liver.
+- •have kidney problems.
+- •have, or have had, an eating disorder, such as anorexia nervosa or bulimia.
+- •have had a head injury.
+- •have had a seizure (convulsion, fit).
+- •have a tumor in your nervous system (brain or spine).
+- •have had a heart attack, heart problems, or high blood pressure.
+- •are a diabetic taking insulin or other medicines to control your blood sugar.
+- •drink alcohol.
+- •abuse prescription medicines or street drugs.
+- •are pregnant or plan to become pregnant.
+  Talk to your healthcare provider about the risk to your unborn baby if you take bupropion hydrochloride tablets during pregnancy.
+- •Tell your healthcare provider if you become pregnant or think you are pregnant during treatment with bupropion hydrochloride tablets.
+- •If you become pregnant during treatment with bupropion hydrochloride tablets, talk to your healthcare provider about registering with the National Pregnancy Registry for Antidepressants.
+  You can register by calling 1-844-405-6185.
+- •are breastfeeding or plan to breastfeed during treatment with bupropion hydrochloride tablets.
+  Bupropion hydrochloride tablets passes into your milk.
+  Talk to your healthcare provider about the best way to feed your baby during treatment with bupropion hydrochloride tablets.
 
 Tell your healthcare provider about all the medicines you take, including prescription, over-the-counter medicines, vitamins, and herbal supplements.
 Many medicines increase your chances of having seizures or other serious side effects if you take them while you are taking bupropion hydrochloride tablets.
 
 How should I take bupropion hydrochloride tablets?
 
-- Take bupropion hydrochloride tablets exactly as prescribed by your healthcare provider.
+- •Take bupropion hydrochloride tablets exactly as prescribed by your healthcare provider.
   Do not change your dose or stop taking bupropion hydrochloride tablets without talking with your healthcare provider first.
-- Swallow bupropion hydrochloride tablets whole.
+- •Swallow bupropion hydrochloride tablets whole.
   Do not chew, cut, or crush bupropion hydrochloride tablets.
-- Take bupropion hydrochloride tablets at the same time each day.
-- Take your doses of bupropion hydrochloride tablets at least 6 hours apart.
-- You may take bupropion hydrochloride tablets with or without food.
-- If you miss a dose, do not take an extra dose to make up for the dose you missed.
+- •Take bupropion hydrochloride tablets at the same time each day.
+- •Take your doses of bupropion hydrochloride tablets at least 6 hours apart.
+- •You may take bupropion hydrochloride tablets with or without food.
+- •If you miss a dose, do not take an extra dose to make up for the dose you missed.
   Wait and take your next dose at the regular time.
   This is very important.
   Too much bupropion hydrochloride tablets can increase your chance of having a seizure.
-- If you take too much bupropion hydrochloride tablets, or overdose, call your local emergency room or poison control center right away.
-- Do not take any other medicines while taking bupropion hydrochloride tablets unless your healthcare provider has told you it is okay.
-- If you are taking bupropion hydrochloride tablets for the treatment of major depressive disorder, it may take several weeks for you to feel that bupropion hydrochloride tablets are working.
+- •If you take too much bupropion hydrochloride tablets, or overdose, call your local emergency room or poison control center right away.
+- •Do not take any other medicines while taking bupropion hydrochloride tablets unless your healthcare provider has told you it is okay.
+- •If you are taking bupropion hydrochloride tablets for the treatment of major depressive disorder, it may take several weeks for you to feel that bupropion hydrochloride tablets are working.
   Once you feel better, it is important to keep taking bupropion hydrochloride tablets exactly as directed by your healthcare provider.
   Call your healthcare provider if you do not feel bupropion hydrochloride tablets are working for you.
 
 What should I avoid while taking bupropion hydrochloride tablets?
 
-- Limit or avoid using alcohol during treatment with bupropion hydrochloride tablets.
+- •Limit or avoid using alcohol during treatment with bupropion hydrochloride tablets.
   If you usually drink a lot of alcohol, talk with your healthcare provider before suddenly stopping.
   If you suddenly stop drinking alcohol, you may increase your risk of having seizures.
-- Do not drive a car or use heavy machinery until you know how bupropion hydrochloride tablets affect you.
+- •Do not drive a car or use heavy machinery until you know how bupropion hydrochloride tablets affect you.
   Bupropion hydrochloride tablets can affect your ability to do these things safely.
 
 What are possible side effects of bupropion hydrochloride tablets?
@@ -211,17 +213,17 @@ See the sections at the beginning of this Medication Guide for information about
 
 The most common side effects of bupropion hydrochloride tablets include:
 
-- nervousness
-- dry mouth
-- constipation
-- headache
-- nausea or vomiting
-- dizziness
-- heavy sweating
-- shakiness (tremor)
-- trouble sleeping
-- blurred vision
-- fast heartbeat
+- •nervousness
+- •dry mouth
+- •constipation
+- •headache
+- •nausea or vomiting
+- •dizziness
+- •heavy sweating
+- •shakiness (tremor)
+- •trouble sleeping
+- •blurred vision
+- •fast heartbeat
 
 If you have nausea, take your medicine with food.
 If you have trouble sleeping, do not take your medicine too close to bedtime.
@@ -238,7 +240,7 @@ You may also report side effects to Apotex Corp. at 1-800-706-5575.
 
 How should I store bupropion hydrochloride tablets?
 
-- Store bupropion hydrochloride tablets at room temperature.
+- •Store bupropion hydrochloride tablets at room temperature.
   Store out of direct sunlight.
   Keep bupropion hydrochloride tablets in its tightly closed bottle.
 
@@ -288,4 +290,4 @@ APOTEX INC. BUPROPION HYDROCHLORIDE TABLETS, USP 75 mg and 100 mg
 | Toronto, Ontario |  |
 | Canada M9L 1T9For BluePoint Laboratories |  |
 
-Revised: 08/2017
+Revised: 12/2019

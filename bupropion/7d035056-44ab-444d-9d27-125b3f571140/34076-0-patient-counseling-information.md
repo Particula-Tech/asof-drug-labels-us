@@ -2,15 +2,6 @@
 
 Advise the patient to read the FDA-approved patient labeling (Medication Guide).
 
-Inform patients, their families, and their caregivers about the benefits and risks associated with treatment with bupropion hydrochloride tablets and counsel them in its appropriate use.
-
-A patient Medication Guide about "Antidepressant Medicines, Depression and Other Serious Mental Illnesses, and Suicidal Thoughts or Actions," "Quitting Smoking, Quit-Smoking Medications, Changes in Thinking and Behavior, Depression, and Suicidal Thoughts or Actions," and "What Other Important Information Should I Know About Bupropion Hydrochloride Tablets?" is available for bupropion hydrochloride tablets.
-Instruct patients, their families, and their caregivers to read the Medication Guide and assist them in understanding its contents.
-Patients should be given the opportunity to discuss the contents of the Medication Guide and to obtain answers to any questions they may have.
-The complete text of the Medication Guide is reprinted at the end of this document.
-
-Advise patients regarding the following issues and to alert their prescriber if these occur while taking bupropion hydrochloride tablets.
-
 Suicidal Thoughts and Behaviors
 
 Instruct patients, their families, and/or their caregivers to be alert to the emergence of anxiety, agitation, panic attacks, insomnia, irritability, hostility, aggressiveness, impulsivity, akathisia (psychomotor restlessness), hypomania, mania, other unusual changes in behavior, worsening of depression, and suicidal ideation, especially early during antidepressant treatment and when the dose is adjusted up or down.
@@ -18,7 +9,7 @@ Advise families and caregivers of patients to observe for the emergence of such 
 Such symptoms should be reported to the patient’s prescriber or healthcare professional, especially if they are severe, abrupt in onset, or were not part of the patient’s presenting symptoms.
 Symptoms such as these may be associated with an increased risk for suicidal thinking and behavior and indicate a need for very close monitoring and possibly changes in the medication.
 
-Neuropsychiatric Symptoms and Suicide Risk in Smoking Cessation Treatment
+Neuropsychiatric Adverse Events and Suicide Risk in Smoking Cessation Treatment
 
 Although bupropion hydrochloride tablets are not indicated for smoking cessation treatment, it contains the same active ingredient as ZYBAN ® which is approved for this use.
 Inform patients that some patients have experienced changes in mood (including depression and mania), psychosis, hallucinations, paranoia, delusions, homicidal ideation, aggression, hostility, agitation, anxiety, and panic, as well as suicidal ideation and suicide when attempting to quit smoking while taking bupropion.
@@ -59,11 +50,8 @@ Counsel patients to notify their healthcare provider if they are taking or plan 
 
 Pregnancy
 
-Advise patients to notify their healthcare provider if they become pregnant or intend to become pregnant during therapy.
-
-Precautions for Nursing Mothers
-
-Advise patients that bupropion hydrochloride is present in human milk in small amounts.
+Advise patients to notify their healthcare provider if they become pregnant or intend to become pregnant during therapy with bupropion hydrochloride tablets.
+Advise patients that there is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to bupropion hydrochloride tablets during pregnancy [see Use in Specific Populations (8.1)]
 
 Storage Information
 
@@ -95,4 +83,4 @@ APLENZIN ® is a registered trademark of Sanofi Aventis U.S. LLC BUPROPION HYDRO
 Revised: 08/2017
 
 Rev.
-15
+12/19

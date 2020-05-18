@@ -2,14 +2,14 @@
 
 The following adverse reactions are discussed in greater detail in other sections of the labeling:
 
-- Suicidal thoughts and behaviors in adolescents and young adults [see Boxed Warning and Warnings and Precautions (5.1)]
-- Neuropsychiatric symptoms and suicide risk in smoking cessation treatment [see Warnings and Precautions (5.2)]
-- Seizure [see Warnings and Precautions (5.3)]
-- Hypertension [see Warnings and Precautions (5.4)]
-- Activation of mania or hypomania [see Warnings and Precautions (5.5)]
-- Psychosis and other neuropsychiatric reactions [see Warnings and Precautions (5.6)]
-- Angle-closure glaucoma [see Warnings and Precautions (5.7)]
-- Hypersensitivity reactions [see Warnings and Precautions (5.8)]
+- •Suicidal thoughts and behaviors in adolescents and young adults [see Boxed Warning and Warnings and Precautions (5.1)]
+- •Neuropsychiatric symptoms and suicide risk in smoking cessation treatment [see Warnings and Precautions (5.2)]
+- •Seizure [see Warnings and Precautions (5.3)]
+- •Hypertension [see Warnings and Precautions (5.4)]
+- •Activation of mania or hypomania [see Warnings and Precautions (5.5)]
+- •Psychosis and other neuropsychiatric reactions [see Warnings and Precautions (5.6)]
+- •Angle-closure glaucoma [see Warnings and Precautions (5.7)]
+- •Hypersensitivity reactions [see Warnings and Precautions (5.8)]
 
 ## 6.1 Clinical Trials Experience
 
