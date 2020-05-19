@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA211880"
+  ],
+  "inn": "epinephrine",
+  "labeler": "International Medication Systems, Limited",
+  "package_ndcs": [
+    "76329-9060-0"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "epinephrine",
+      "name": "Epinephrine"
+    }
+  ],
+  "setid": "7b6ffd77-8b25-4ff1-993e-dbfd7e0834cf",
+  "source": "dailymed"
+}
