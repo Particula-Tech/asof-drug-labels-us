@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA203049"
+  ],
+  "inn": "argatroban",
+  "labeler": "Hikma Pharmaceuticals USA Inc.",
+  "package_ndcs": [
+    "0143-9377-01"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "argatroban",
+      "name": "Argatroban"
+    }
+  ],
+  "setid": "41f56fe7-4824-4032-aa73-cfb4f8db2252",
+  "source": "dailymed"
+}
