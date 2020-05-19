@@ -39,7 +39,7 @@ Table 12: Efficacy Results in CONFIRM (Intent-To-Treat (ITT) Population)
 | OSOS=Overall Survival Updated AnalysisMinimum follow up duration of 50 months.(% patients who died) | 261 (72.1%) | 293 (78.3%) |
 | Median OS (months) | 26.4 | 22.3 |
 | Hazard Ratio (95% CI)Not statistically significant as no adjustments were made for multiplicity. | 0.81 (0.69-0.96) |  |
-| ORRORR (Objective Response Rate), as defined as number (%) of patients with complete response or partial response, was analyzed in the evaluable patients with measurable disease at baseline (fulvestrant 500 mg N=240; fulvestrant 250 mg N=261). Minimum follow-up duration of 18 months.(95% CI) | 13.8% (9.7%, 18.8%)(33/240) | 14.6% (10.5%, 19.4%)(38/261) |
+| ORRORR (Objective Response Rate), as defined as number (%) of patients with complete response or partial response, was analyzed in the evaluable patients with measurable disease at baseline (fulvestrant 500 mg N=240; fulvestrant 250 mg N=261). Minimum follow-up duration of 18 months. (95% CI) | 13.8% (9.7%, 18.8%)(33/240) | 14.6% (10.5%, 19.4%)(38/261) |
 
 Figure 6 Kaplan-Meier PFS: CONFIRM ITT Population
 
@@ -108,18 +108,17 @@ There was no statistically significant difference in overall survival (OS) betwe
 
 Table 14: Efficacy Results in Studies 0020 and 0021 (Objective Response Rate (ORR) and Time to Progression (TTP))
 
-| Endpoint | 250 mg N=206 | 1 mg N=194 | 250 mg N=222 | 1 mg N=229 |
+| Endpoint | FASLODEX 250 mg N=206 | Anastrozole 1 mg N=194 | FASLODEX 250 mg N=222 | Anastrozole 1 mg N=229 |
 | --- | --- | --- | --- | --- |
 |  | Study 0021 (Double-Blind) |  | Study 0020 (Open-Label) |  |
-|  | FASLODEX | Anastrozole | FASLODEX | Anastrozole |
 | Objective Tumor Response Number (%) of subjects with CRCR=Complete Response + PRPR=Partial Response | 35 (17.0) | 33 (17.0) | 45 (20.3) | 34 (14.9) |
-| % Difference in TumorResponse Rate(FASFAS=FASLODEX-ANAANA=anastrozole)2-sided 95.4% CICI=Confidence Interval | 0.0(-6.3, 8.9) |  | 5.4(-1.4, 14.8) |  |
+| % Difference in Tumor Response Rate (FASFAS=FASLODEX-ANAANA=anastrozole) 2-sided 95.4% CICI=Confidence Interval | 0.0(-6.3, 8.9) |  | 5.4(-1.4, 14.8) |  |
 | Time to Progression (TTP)Median TTP (days) | 165 | 103 | 166 | 156 |
-| Hazard RatioHazard Ratio <1 favors FASLODEX2-sided 95.4% CI | 0.9 (0.7, 1.1) |  | 1.0 (0.8, 1.2) |  |
+| Hazard RatioHazard Ratio <1 favors FASLODEX2-sided 95.4% CI | 0.9(0.7, 1.1) |  | 1.0(0.8, 1.2) |  |
 | Stable Disease for ≥24 weeks (%) | 26.7 | 19.1 | 24.3 | 30.1 |
 | Overall Survival (OS) |  |  |  |  |
 | Died n (%)Median Survival (days) | 152 (73.8%)844 | 149 (76.8%)913 | 167 (75.2%)803 | 173 (75.5%)736 |
-| Hazard Ratio(2-sided 95% CI) | 0.98 (0.78, 1.24) |  | 0.97 (0.78, 1.21) |  |
+| Hazard Ratio(2-sided 95% CI) | 0.98(0.78, 1.24) |  | 0.97(0.78, 1.21) |  |
 
 Combination Therapy
 
@@ -154,10 +153,10 @@ Table 15: Efficacy Results in PALOMA-3 (Investigator Assessment, ITT Population)
 | Progression-Free Survival for ITT | N=347 | N=174 |
 | Number of PFS Events (%) | 145 (41.8%) | 114 (65.5%) |
 | Median PFS (months) (95% CI) | 9.5 (9.2-11.0) | 4.6 (3.5-5.6) |
-| Hazard Ratio (95% CI) and p-value | 0.461 (0.360-0.591) p <0.0001 |  |
+| Hazard Ratio (95% CI) and p-value | 0.461 (0.360-0.591)p <0.0001 |  |
 | Objective Response for Patients with Measurable Disease | N=267 | N=138 |
 | Objective response rateResponses are based on confirmed responses. (%, 95% CI) | 24.6 (19.6-30.2) | 10.9 (6.2-17.3) |
-| Overall Survival for ITT population | N=347 | N=147 |
+| Overall Survival for ITT population | N=347 | N=174 |
 | Number of OS events (%) | 201 (57.9) | 109 (62.6) |
 | Median OS (months) (95% CI) | 34.9 (28.8, 40.0) | 28.0 (23.6, 34.6) |
 | Hazard Ratio (95% CI) and p-value | 0.814 (0.644, 1.029), p=0.0857Not statistically significant at the pre-specified 2-sided alpha level of 0.047.2-sided p-value from the log-rank test stratified by the presence of visceral metastases and sensitivity to prior endocrine therapy per randomization. |  |
@@ -185,26 +184,32 @@ Twenty percent (20%) of patients had de novo metastatic disease, 27% had bone on
 Twenty-five percent (25%) of patients had primary endocrine therapy resistance.
 Seventeen percent (17%) of patients were pre- or perimenopausal.
 
-The efficacy results from the MONARCH 2 study are summarized in Table 16 and Figure 11.
-Median PFS assessment based on a blinded independent radiologic review was consistent with the investigator assessment.
-Consistent results were observed across patient stratification subgroups of disease site and endocrine therapy resistance.
-At the time of primary analysis of PFS, overall survival data were not mature (20% of patients had died).
+The efficacy results from the MONARCH 2 study are summarized in Table 16, Figure 11, and Figure 12.
+PFS assessment based on a blinded independent radiologic review was consistent with the investigator assessment.
+Consistent results were observed across patient stratification subgroups of disease site and endocrine therapy resistance for PFS and OS.
 
-Table 16: Efficacy Results in MONARCH 2 (Investigator Assessment, Intent-to-Treat Population)
+Table 16: Efficacy Results in MONARCH 2 (Intent-to-Treat Population)
 
 |  | FASLODEX plus Abemaciclib | FASLODEX plus Placebo |
 | --- | --- | --- |
-| Progression-Free Survival | N=446 | N=223 |
+| Progression-Free Survival(Investigator Assessment) | N=446 | N=223 |
 | Number of patients with an event (n, %) | 222 (49.8) | 157 (70.4) |
 | Median (months, 95% CI) | 16.4 (14.4, 19.3) | 9.3 (7.4, 12.7) |
 | Hazard ratio (95% CI) | 0.553 (0.449, 0.681) |  |
-| p-value | p<.0001 |  |
+| p-valueStratified by disease site (visceral metastases vs. bone-only metastases vs. other) and endocrine therapy resistance (primary resistance vs. secondary resistance) | p<0.0001 |  |
+| Overall SurvivalData from a pre-specified interim analysis (77% of the number of events needed for the planned final analysis) with the p-value compared with the allocated alpha of 0.021. |  |  |
+| Number of deaths (n, %) | 211 (47.3) | 127 (57.0) |
+| Median OS in months (95% CI) | 46.7 (39.2, 52.2) | 37.3 (34.4, 43.2) |
+| Hazard ratio (95% CI)1 | 0.757 (0.606, 0.945) |  |
+| p-value | p=0.0137 |  |
 | Objective Response for Patients with Measurable Disease | N=318 | N=164 |
 | Objective response rateComplete response + partial response. (n, %) | 153 (48.1) | 35 (21.3) |
 | 95% CI | 42.6, 53.6 | 15.1, 27.6 |
-| Abbreviations: CI=confidence interval. |  |  |
+| Abbreviations: CI=confidence interval, OS=overall survival. |  |  |
 
 Figure 11 Kaplan-Meier Curves of Progression-Free Survival: FASLODEX Plus Abemaciclib versus FASLODEX plus Placebo (MONARCH 2)
+
+Figure 12 Kaplan-Meier Curves of Overall Survival: FASLODEX plus Abemaciclib versus FASLODEX plus Placebo (MONARCH 2)
 
 Postmenopausal women with HR-positive, HER2-negative advanced or metastatic breast cancer for initial endocrine based therapy or after disease progression on endocrine therapy
 
@@ -220,12 +225,12 @@ Patients enrolled in this study had a median age of 63 years (range 31 to 89).
 Of the patients enrolled, 47% were 65 years and older, including 14% age 75 years and older.
 The patients enrolled were primarily Caucasian (85%), Asian (9%), and Black (0.7%).
 Nearly all patients (99.7%) had an ECOG performance status of 0 or 1.
-First and second line patients were enrolled in this study (of which 19% had de novo metastatic disease).
+First- and second-line patients were enrolled in this study (of which 19% had de novo metastatic disease).
 Forty-three percent (43%) of patients had received chemotherapy in the adjuvant vs. 13% in the neoadjuvant setting and 59% had received endocrine therapy in the adjuvant vs. 1% in the neoadjuvant setting prior to study entry.
-Twenty-one percent (21%) of patients had bone only disease and 61% had visceral disease.
+Twenty-one percent (21%) of patients had bone-only disease and 61% had visceral disease.
 Demographics and baseline disease characteristics were balanced and comparable between study arms.
 
-The efficacy results from MONALEESA-3 are summarized in Table 17 and Figure 12.
+The efficacy results from MONALEESA-3 are summarized in Table 17 and Figure 13.
 Consistent results were observed in stratification factor subgroups of disease site and prior endocrine treatment for advanced disease.
 At the time of the PFS analysis, 17% of patients had died, and overall survival data were immature.
 
@@ -237,8 +242,8 @@ Table 17: Efficacy Results – MONALEESA-3 (Investigator Assessment, Intent-to-T
 | Events (n, %) | 210 (43.4%) | 151 (62.4%) |
 | Median (months, 95% CI) | 20.5 (18.5, 23.5) | 12.8 (10.9, 16.3) |
 | Hazard Ratio (95% CI) | 0.593 (0.480 to 0.732) |  |
-| p-value1 p-value is obtained from the one-sided log-rank | <0.0001 |  |
-| Overall Response Rate2 Based on confirmed responses | N=379 | N=181 |
+| p-valuep-value is obtained from the one-sided log-rank | <0.0001 |  |
+| Overall Response RateBased on confirmed responses | N=379 | N=181 |
 | Patients with measurable disease (95% CI) | 40.9 (35.9, 45.8) | 28.7 (22.1, 35.3) |
 
-Figure 12 Kaplan-Meier Progression Free Survival Curves – MONALEESA-3 (Investigator assessment)
+Figure 13 Kaplan-Meier Progression Free Survival Curves – MONALEESA-3 (Investigator assessment)
