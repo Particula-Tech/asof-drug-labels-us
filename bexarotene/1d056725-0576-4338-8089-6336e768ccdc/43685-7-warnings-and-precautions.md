@@ -75,7 +75,7 @@ Hypoglycemia has not been associated with the use of TARGRETIN as monotherapy.
 ## 5.9 Photosensitivity
 
 Retinoids as a class have been associated with photosensitivity.
-In vitroassays indicate that bexarotene is a potential photosensitizing agent.
+In vitro assays indicate that bexarotene is a potential photosensitizing agent.
 Phototoxicity manifested as sunburn and skin sensitivity to sunlight occurred in patients who were exposed to direct sunlight while receiving TARGRETIN.
 Advise patients to minimize exposure to sunlight and artificial ultraviolet light while receiving TARGRETIN.
 

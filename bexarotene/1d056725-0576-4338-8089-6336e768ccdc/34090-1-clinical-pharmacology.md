@@ -67,7 +67,7 @@ Atorvastatin: Bexarotene concentrations were not affected by concomitant atorvas
 Effect of TARGRETIN on Other Drugs
 
 Bexarotene did not significantly inhibit the following enzymes in human liver microsomes: CYP1A2, CYP2A6, CYP2C9, CYP2C19, CYP2D6, CYP2E1 and CYP3A4.
-In vitrodata suggested a potential for bexarotene to inhibit CYP2C8 and induce CYP3A4.
+In vitro data suggested a potential for bexarotene to inhibit CYP2C8 and induce CYP3A4.
 
 Atorvastatin: The exposure (AUC) to atorvastatin (a substrate for CYP3A4) decreased by half when atorvastatin was co-administered with TARGRETIN (400 mg/m2 orally once daily).
 
