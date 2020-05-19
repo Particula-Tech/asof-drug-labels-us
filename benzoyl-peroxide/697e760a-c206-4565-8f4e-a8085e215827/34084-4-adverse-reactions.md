@@ -2,7 +2,7 @@
 
 The following adverse reaction is described in more detail in the Warnings and Precautions section of the label:
 
-- •Colitis [seeWarnings and Precautions (5.1)].
+- •Colitis [see Warnings and Precautions (5.1)].
 
 ## 6.1 Clinical Trials Experience
 

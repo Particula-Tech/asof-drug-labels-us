@@ -1,4 +1,4 @@
-# Patient Information
+# PATIENT INFORMATION
 
 ONEXTON® (ON-EX-TUN) (clindamycin phosphate and benzoyl peroxide) gel, 1.2%/3.75%
 
