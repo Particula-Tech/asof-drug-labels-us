@@ -15,14 +15,14 @@ The dose was not increased if a patient had any of the following: iPTH ≤ 200 p
 If a patient experienced symptoms of hypocalcemia or had a serum calcium < 8.4 mg/dL, calcium supplements and/or calcium-based phosphate binders could be increased.
 If these measures were insufficient, the vitamin D dose could be increased.
 Approximately 70% of patients in the cinacalcet hydrochloride arm and 80% of the patients in the placebo arm completed the 6-month studies.
-In the primary efficacy analysis, 40% of the patients on cinacalcet hydrochloride tablets and 5% of placebo-treated patients achieved an iPTH ≤ 250 pg/mL (p < 0.001) (Table 7, Figure 1).
-These studies showed that cinacalcet hydrochloride tablets reduced iPTH while lowering Ca x P, calcium, and phosphorus levels (Table 7, Figure 2).
+In the primary efficacy analysis, 40% of the patients on cinacalcet hydrochloride tablets and 5% of placebo-treated patients achieved an iPTH ≤ 250 pg/mL (p < 0.001) (Table 6, Figure 1).
+These studies showed that cinacalcet hydrochloride tablets reduced iPTH while lowering Ca x P, calcium, and phosphorus levels (Table 6, Figure 2).
 The median dose of cinacalcet hydrochloride tablets at the completion of the studies was 90 mg.
 Patients with milder disease typically required lower doses.
 
 Similar results were observed when either the iPTH or biointact PTH (biPTH) assay was used to measure PTH levels in CKD patients on dialysis; treatment with cinacalcet did not alter the relationship between iPTH and biPTH.
 
-Table 7.
+Table 6.
 Effects of Cinacalcet Hydrochloride Tablets on iPTH, Ca x P, Serum Calcium, and Serum Phosphorus in 6-month Phase 3 Studies (Patients on Dialysis)
 
 |  | Study 1 |  | Study 2 |  | Study 3 |  |
@@ -30,8 +30,8 @@ Effects of Cinacalcet Hydrochloride Tablets on iPTH, Ca x P, Serum Calcium, and 
 | Placebo (n = 205) | Cinacalcet hydrochloride tablets (n = 205) | Placebo (n =165) | Cinacalcet hydrochloride tablets (n =166) | Placebo (n =101) | Cinacalcet hydrochloride tablets (n =294) |  |
 | iPTH |  |  |  |  |  |  |
 | Baseline (pg/mL): Median Mean (SD) | 535 651 (398) | 537 636 (341) | 556 630 (317) | 547 652 (372) | 670 832 (486) | 703 848 (685) |
-| Evaluation Phase (pg/mL) Median Percent Change Patients Achieving Primary Endpoint (iPTH ≤ 250 pg/mL) (%)p < 0.001 compared with placebo; p-values presented for primary endpoint only. | 563 | 275 | 592 | 238 | 737 | 339 |
-| +3.8 4% | -48.3 41% iPTH value based on averaging over the evaluation phase (defined as weeks 13 to 26 in studies 1 and 2 and weeks 17 to 26 in study 3). Values shown are medians unless indicated otherwise. | +8.4 7% | -54.1 46% | +2.3 6% | -48.2 35% |  |
+| Evaluation Phase (pg/mL) Median Percent Change Patients Achieving Primary Endpoint (iPTH ≤ 250 pg/mL) (%) iPTH value based on averaging over the evaluation phase (defined as weeks 13 to 26 in studies 1 and 2 and weeks 17 to 26 in study 3). Values shown are medians unless indicated otherwise. | 563 | 275 | 592 | 238 | 737 | 339 |
+| +3.8 4% | -48.3 41%p < 0.001 compared with placebo; p-values presented for primary endpoint only. | +8.4 7% | -54.1 46% | +2.3 6% | -48.2 35% |  |
 | Patients Achieving ≥ 30% Reduction in iPTH (%)a Patients Achieving iPTH ≤ 250 pg/mL and Ca x P < 55 mg2/dL2 (%) | 11% 1% | 61% 32% | 12% 5% | 68% 35% | 10% 5% | 59% 28% |
 | Ca x P |  |  |  |  |  |  |
 | Baseline (mg2/dL2) Evaluation Phase (mg2/dL2) Median Percent Change | 62 59 -2.0 | 61 52 -14.9 | 61 59 -3.1 | 61 47 -19.7 | 61 57 -4.8 | 59 48 -15.7 |

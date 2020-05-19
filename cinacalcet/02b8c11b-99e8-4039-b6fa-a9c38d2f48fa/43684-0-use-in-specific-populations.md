@@ -22,7 +22,9 @@ Reductions in maternal food consumption and body weight gain were seen at doses 
 Cinacalcet has been shown to cross the placental barrier in rabbits.
 
 In pregnant rats given oral gavage doses of 5, 15, 25 mg/kg/day cinacalcet during gestation through lactation, no adverse fetal or pup (post-weaning) effects were observed at 5 mg/kg/day (exposures less than with a human therapeutic dose of 180 mg/day based on AUC comparisons).
-Higher doses of 15 and 25 mg/kg/day cinacalcet (exposures 2 to 3 times a human oral dose of 180 mg/day based on AUC comparisons) were accompanied by maternal signs of hypocalcemia (periparturient mortality and early postnatal pup loss), and reductions in postnatal maternal and pup body weight gain.
+Higher doses of 15 and 25 mg/kg/day cinacalcet (exposures 2 to 3 times a human oral dose of 180 mg/day based on AUC comparisons) were accompanied by maternal signs of hypocalcemia (periparturient mortality and early postnatal pup loss), and reductions in postnatal maternal and pup body weight
+
+gain.
 
 ## 8.2 Lactation
 
