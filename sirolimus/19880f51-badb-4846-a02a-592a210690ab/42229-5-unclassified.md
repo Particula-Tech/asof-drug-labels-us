@@ -8,8 +8,8 @@
 |  | 2. The first time you use a bottle of Sirolimus Oral Solution: Insert the oral syringe adapter (plastic tube with stopper) tightly into the bottle until it is even with the top of the bottle (Figure 2).Do not remove the oral syringe adapter from the bottle once inserted. |
 |  | 3. Use a new disposable amber oral syringe for each dose of Sirolimus Oral Solution. Fully push down (depress) on the plunger of the disposable amber oral syringe.Then, tightly insert the oral syringe into the opening in the adapter (Figure 3). |
 |  | 4. Withdraw the prescribed amount of Sirolimus Oral Solution: Gently pull back the plunger of the syringe until the level of the oral solution is even with the marking on the syringe for your prescribed dose.Always keep the bottle in an upright position.If bubbles form within the oral solution in the syringe, empty the syringe into the bottle and repeat step 4 (Figure 4).You may need to repeat step 4 more than once to draw up your prescribed dose. |
-|  | 5. If your doctor tells you to carry your medicine with you: If you need to carry your Sirolimus Oral Solution in a filled syringe, place a cap securely on each syringe. The cap should snap into place (Figure 5). |
-| Figure 6: Placing syringe in carrying case | Place the capped syringe in the enclosed carrying case (Figure 6). If you need more than 1 carrying case, talk with your doctor or pharmacist. |
+|  | 5. If your doctor tells you to carry your medicine with you: Each dose of Sirolimus Oral Solution should be placed in an oral syringe. Place a cap securely on each syringe. The cap should snap into place (Figure 5). |
+| Figure 6: Placing syringe in carrying case | Place the capped syringe in the enclosed carrying case (Figure 6). If you need more than 1 carrying case, talk with your doctor or pharmacist.See `How should I store Sirolimus Oral Solution?' for storage instructions. |
 | Figure 7: Emptying syringe into glass | 6. Taking a dose of Sirolimus Oral Solution: Choose a clean flat work surface. Place a clean paper towel on the work surface. Wash and dry your hands.Empty the syringe into a glass or plastic cup containing at least 2 ounces (1/4 cup, 60 mL) of water or orange juice, stir vigorously for 1 minute and drink right away (Figure 7).If more than 1 syringe is needed for your prescribed dose, empty the oral solution from each syringe into the same glass or plastic cup of water or orange juice.Refill the container with at least 4 ounces (1/2 cup, 120 mL) of water or orange juice, stir vigorously again and drink the rinse solution.Do not mix Sirolimus Oral Solution with apple juice, grapefruit juice, or other liquids. Only glass or plastic cups should be used to mix Sirolimus Oral Solution.The syringe and cap should be used only one time and then thrown away.Throw away the paper towel and clean the work surface. Wash your hands. |
 |  | 7. Always store the bottles of medication in the refrigerator. |
 | How should I store Sirolimus Oral Solution? Store bottles of Sirolimus Oral Solution in the refrigerator at 36°F to 46°F (2°C to 8°C)Protect from lightStore Sirolimus Oral Solution that is in a syringe at room temperature up to 77°F (25°C) or in the refrigerator at 36°F to 46°F (2°C to 8°C) for up to 24 hoursIf necessary, bottles of Sirolimus Oral Solution can be stored at room temperature up to 77°F (25°C) for up to 15 daysWhen a bottle of Sirolimus Oral Solution is opened, it should be used within 1 monthUse any diluted Sirolimus Oral Solution right away Keep Sirolimus Oral Solution and all medicines out of the reach of children.This Instructions for Use has been approved by the U.S. Food and Drug Administration. |  |
@@ -30,6 +30,6 @@ Largo, FL 33771 USA
 
 Trademarks are the property of their respective owners.
 
-Revised: August, 2019
+Revised: March, 2020
 
-LB4062-03
+LB4062-04
