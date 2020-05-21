@@ -144,9 +144,6 @@ HUMALOG Mix50/50 KwikPen (“Pen”) is a disposable single-patient-use prefille
 
 People who are blind or have vision problems should not use this Pen without help from a person trained to use the Pen.
 
-| Pen Needle Parts (Needles Not Included) |
-| --- |
-
 How to recognize your HUMALOG Mix50/50 KwikPen
 
 - Pen color: Dark blue
@@ -288,14 +285,14 @@ This Instructions for Use has been approved by the U.S. Food and Drug Administra
 
 HUMALOG® Mix50/50™ and HUMALOG® Mix50/50™ KwikPen® are trademarks of Eli Lilly and Company.
 
-Revised: November 2019
+Revised: April 2020
 
 Marketed by: Lilly USA, LLC Indianapolis, IN 46285, USA
 
-Copyright © 2007, 2019, Eli Lilly and Company.
+Copyright © 2007, 2020, Eli Lilly and Company.
 All rights reserved.
 
 | HUMALOG Mix50/50 KwikPen meets the current dose accuracy and functional requirements of ISO 11608-1. |
 | --- |
 
-LOG5050KP-0004-IFU-20191115
+LOG5050KP-0005-IFU-20200407
