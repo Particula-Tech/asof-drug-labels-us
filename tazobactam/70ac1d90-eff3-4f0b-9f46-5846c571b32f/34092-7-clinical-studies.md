@@ -20,14 +20,14 @@ Clinical cure rates at the TOC visit by pathogen in the MITT population are pres
 
 Table 8: Clinical Cure Rates in a Phase 3 Trial of Complicated Intra-Abdominal Infections
 
-| Analysis Population | ZERBAXA plus metronidazoleZERBAXA 1.5 g intravenously every 8 hours + metronidazole 500 mg intravenously every 8 hours n/N (%) | Meropenem1 gram intravenously every 8 hours n/N (%) | Treatment Difference (95% CI)The 95% confidence interval (CI) was calculated as an unstratified Wilson Score CI. |
+| Analysis Population | ZERBAXA plus MetronidazoleZERBAXA 1.5 g intravenously every 8 hours + metronidazole 500 mg intravenously every 8 hours n/N (%) | Meropenem1 gram intravenously every 8 hours n/N (%) | Treatment Difference (95% CI)The 95% confidence interval (CI) was calculated as an unstratified Wilson Score CI. |
 | --- | --- | --- | --- |
 | MITT | 323/389 (83) | 364/417 (87.3) | -4.3 (-9.2, 0.7) |
 | ME | 259/275 (94.2) | 304/321 (94.7) | -0.5 (-4.5, 3.2) |
 
 Table 9: Clinical Cure Rates by Pathogen in a Phase 3 Trial of Complicated Intra-abdominal Infections (MITT Population)
 
-| Organism Group Pathogen | ZERBAXA plus metronidazole n/N (%) | Meropenem n/N (%) |
+| Organism Group Pathogen | ZERBAXA plus Metronidazole n/N (%) | Meropenem n/N (%) |
 | --- | --- | --- |
 | Aerobic Gram-negative |  |  |
 | Escherichia coli | 216/255 (84.7) | 238/270 (88.1) |
@@ -48,7 +48,7 @@ Table 9: Clinical Cure Rates by Pathogen in a Phase 3 Trial of Complicated Intra
 
 In a subset of the E. coli and K. pneumoniae isolates from both arms of the cIAI Phase 3 trial that met pre-specified criteria for beta-lactam susceptibility, genotypic testing identified certain ESBL groups (e.g., TEM, SHV, CTX-M, OXA) in 53/601 (9%).
 Cure rates in this subset were similar to the overall trial results.
-In vitro susceptibility testing showed that some of these isolates were susceptible to ZERBAXA (MIC ≤ 2 mcg/mL), while some others were not susceptible (MIC >2 mcg/mL).
+In vitro susceptibility testing showed that some of these isolates were susceptible to ZERBAXA (MIC ≤2 mcg/mL), while some others were not susceptible (MIC >2 mcg/mL).
 Isolates of a specific genotype were seen in patients who were deemed to be either successes or failures.
 
 ## 14.2 Complicated Urinary Tract Infections, Including Pyelonephritis
@@ -107,7 +107,7 @@ Empiric therapy at baseline with linezolid or other approved therapy for Gram-po
 Adjunctive Gram-negative therapy was optional and allowed for a maximum of 72 hours in centers with a prevalence of meropenem-resistant P. aeruginosa more than 15%.
 
 Of the 726 patients in the ITT population, the median age was 62 years and 44% of the population was 65 years of age and older, with 22% of the population 75 years of age and older.
-The majority of patients were white (83%), male (71%) and were from Eastern Europe (64%).
+The majority of patients were White (83%), male (71%) and were from Eastern Europe (64%).
 The median APACHE II score was 17 and 33% of subjects had a baseline APACHE II score of greater than or equal to 20.
 All subjects were on mechanical ventilation and 519 (71%) had VABP.
 At randomization, 92% of subjects were in the ICU, 77% had been hospitalized for 5 days or longer, and 49% were ventilated for 5 days or longer.
@@ -130,7 +130,7 @@ Table 12: Day 28 All-cause Mortality and Clinical Cure Rates at TOC from a Phase
 | VABP | 147/263 (55.9) | 146/256 (57.0) | -1.1 (-9.59, 7.35) |
 | Ventilated HABP | 50/99 (50.5) | 48/108 (44.4) | 6.1 (-7.44, 19.27) |
 
-In the ITT population, Day 28 all-cause mortality and clinical cure rates in patients with CrCl greater than or equal to 150 mg/mL were similar between ZERBAXA and meropenem.
+In the ITT population, Day 28 all-cause mortality and clinical cure rates in patients with CrCl greater than or equal to 150 mL/min were similar between ZERBAXA and meropenem.
 In patients with bacteremia at baseline, Day 28 all-cause mortality rates were 23/64 (35.9%) for ZERBAXA-treated patients and 13/41 (31.7%) for meropenem-treated patients; clinical cure rates were 30/64 (46.9%) and 15/41 (36.6%), respectively.
 
 Per pathogen Day 28 all-cause mortality and clinical cure at TOC were assessed in the microbiologic intention to treat population (mITT), which consisted of all randomized subjects who had a baseline lower respiratory tract (LRT) pathogen that was susceptible to both study treatments.

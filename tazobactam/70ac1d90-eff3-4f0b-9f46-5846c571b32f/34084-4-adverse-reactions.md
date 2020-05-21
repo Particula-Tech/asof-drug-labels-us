@@ -3,7 +3,7 @@
 The following serious reactions are described in greater detail in the Warnings and Precautions section:
 
 - Hypersensitivity reactions [see Warnings and Precautions (5.2)]
-- Clostridium difficile-associated diarrhea [see Warnings and Precautions (5.3)]
+- Clostridioides difficile-associated diarrhea [see Warnings and Precautions (5.3)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -88,7 +88,7 @@ Table 6: Adverse Reactions Occurring in 2% or Greater of Patients Receiving ZERB
 | Diarrhea | 23 (6.4) | 25 (7.0) |
 | Intracranial hemorrhageIncludes cerebellar hemorrhage, cerebral hematoma, cerebral hemorrhage, hemorrhage intracranial, hemorrhagic stroke, hemorrhagic transformation stroke, intraventricular hemorrhage, subarachnoid hemorrhage, subdural hematoma. | 16 (4.4) | 5 (1.4) |
 | Vomiting | 12 (3.3) | 10 (2.8) |
-| Clostridium difficile colitisIncludes Clostridium difficile colitis, Clostridium difficile infection, Clostridium test positive. | 10 (2.8) | 2 (0.6) |
+| Clostridioides difficile colitisIncludes Clostridioides difficile colitis, Clostridioides difficile infection, Clostridioides test positive. | 10 (2.8) | 2 (0.6) |
 
 Treatment discontinuation due to adverse reactions occurred in 1.1% (4/361) of patients receiving ZERBAXA and 1.4% (5/359) of patients receiving meropenem.
 

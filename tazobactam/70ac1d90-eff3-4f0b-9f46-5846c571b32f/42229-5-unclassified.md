@@ -4,6 +4,6 @@ Manufactured by: Steri-Pharma, LLC Syracuse, NY 13202, USA
 
 For patent information: www.merck.com/product/patent/home.html
 
-Copyright © 2015-2019 Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. All rights reserved.
+Copyright © 2015-2020 Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. All rights reserved.
 
-uspi-mk7625a-iv-1906r004
+uspi-mk7625a-iv-2004r005

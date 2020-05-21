@@ -12,3 +12,4 @@ Vials are supplied in cartons containing 10 vials.
 ZERBAXA vials should be stored refrigerated at 2 to 8°C (36 to 46°F) and protected from light.
 
 The reconstituted solution, once diluted, may be stored for 24 hours at room temperature or for 7 days under refrigeration at 2 to 8° C (36 to 46°F).
+Discard unused portion.

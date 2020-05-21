@@ -41,6 +41,7 @@ Caution: The constituted solution is not for direct injection.
 To prepare the required dose, withdraw the appropriate volume determined from Table 3 from the reconstituted vial(s).
 Add the withdrawn volume to an infusion bag containing 100 mL of 0.9% Sodium Chloride for Injection, USP or 5% Dextrose Injection, USP.
 For doses above 1.5 g, reconstitute a second vial in the same manner as the first one, withdraw an appropriate volume (per Table 3), and add to the same infusion bag.
+Discard unused portion.
 
 Table 3: Preparation of Doses
 
@@ -68,5 +69,6 @@ ZERBAXA should not be mixed with other drugs or physically added to solutions co
 Upon constitution with sterile water for injection or 0.9% sodium chloride injection, reconstituted ZERBAXA solution may be held for 1 hour prior to transfer and dilution in a suitable infusion bag.
 
 Following dilution of the solution with 0.9% sodium chloride or 5% dextrose, ZERBAXA is stable for 24 hours when stored at room temperature or 7 days when stored under refrigeration at 2 to 8°C (36 to 46°F).
+Discard unused portion.
 
 Constituted ZERBAXA solution or diluted ZERBAXA infusion should not be frozen.
