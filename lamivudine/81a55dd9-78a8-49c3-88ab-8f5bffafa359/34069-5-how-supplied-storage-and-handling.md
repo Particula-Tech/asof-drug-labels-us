@@ -5,6 +5,8 @@ They are available as follows:
 
 NDC 49502-475-93 cartons containing bottles of 30 tablets with desiccant, induction seal and child-resistant cap
 
+NDC 49502-475-77 cartons containing bottles of 90 tablets with desiccant, induction seal and child-resistant cap
+
 Store below 30°C (86°F).
 
 Keep the bottle tightly closed.

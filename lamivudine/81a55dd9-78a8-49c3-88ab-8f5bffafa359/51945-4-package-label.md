@@ -2,11 +2,11 @@
 
 NDC 49502-475-93 Rx only
 
-SYMFITM (efavirenz, lamivudine, and tenofovir disoproxil fumarate) tablets 600 mg/300 mg/300 mg*
+SYMFI® (efavirenz, lamivudine, and tenofovir disoproxil fumarate) tablets 600 mg/300 mg/300 mg*
 
 Note to pharmacist: Do not cover ALERT box with pharmacy label.
 
-ALERT: Find out about medicines that should NOT be taken with SYMFI™.
+ALERT: Find out about medicines that should NOT be taken with SYMFI®.
 
 30 tablets
 
@@ -28,6 +28,8 @@ Made in India
 
 Code No.: MP/DRUGS/25/1/2014
 
-MS:MXI:47593:1C:R2
+MS:MXI:47593:1C:R3
 
 Mylan.com
+
+SYMFI® is a registered trademark of Mylan Pharmaceuticals Inc.

@@ -76,7 +76,7 @@ The pharmacokinetics of EFV have not been studied in patients with renal impairm
 The pharmacokinetics of 3TC are altered in subjects with renal impairment (Table 4).
 
 Table 4.
-Pharmacokinetic Parameters (Mean ± SD) after a Single 300-mg Oral Dose of 3TC in Subjects with Varying Degrees of Renal Function
+Pharmacokinetic Parameters (Mean ± SD) After a Single 300-mg Oral Dose of 3TC in Subjects with Varying Degrees of Renal Function
 
 | Parameter | Creatinine Clearance Criterion (Number of Subjects) |  |  |
 | --- | --- | --- | --- |

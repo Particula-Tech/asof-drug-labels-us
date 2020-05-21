@@ -41,33 +41,33 @@ Established and Other Potentially Significant Drug Interactions with EFV: Altera
 
 | Concomitant DrugClass: Drug Name | Effect | Clinical Comment |
 | --- | --- | --- |
-| Anticoagulant:Warfarin | ↑ or ↓ warfarin | Monitor INR and adjust warfarin dosage if necessary. |
-| Anticonvulsants:Carbamazepine | ↓ carbamazepineThe interaction between EFV and the drug was evaluated in a clinical study. All other drug interactions shown are predicted.↓ EFV* | There are insufficient data to make a dose recommendation for EFV. Alternative anticonvulsant treatment should be used. |
-| PhenytoinPhenobarbital | ↓ anticonvulsant↓ EFV | Monitor anticonvulsant plasma levels periodically because of potential for reduction in anticonvulsant and/or EFV plasma levels. |
-| Antidepressants:Bupropion | ↓ bupropion | Increases in bupropion dosage should be guided by clinical response. Bupropion dose should not exceed the maximum recommended dose. |
+| Anticoagulant: Warfarin | ↑ or ↓ warfarin | Monitor INR and adjust warfarin dosage if necessary. |
+| Anticonvulsants: Carbamazepine | ↓ carbamazepineThe interaction between EFV and the drug was evaluated in a clinical study. All other drug interactions shown are predicted.↓ EFV* | There are insufficient data to make a dose recommendation for EFV. Alternative anticonvulsant treatment should be used. |
+| Phenytoin Phenobarbital | ↓ anticonvulsant↓ EFV | Monitor anticonvulsant plasma levels periodically because of potential for reduction in anticonvulsant and/or EFV plasma levels. |
+| Antidepressants: Bupropion | ↓ bupropion | Increases in bupropion dosage should be guided by clinical response. Bupropion dose should not exceed the maximum recommended dose. |
 | Sertraline | ↓ sertraline | Increases in sertraline dosage should be guided by clinical response. |
-| Antifungals:Itraconazole Ketoconazole | ↓ itraconazole↓ hydroxyitraconazole↓ ketoconazole | Consider alternative antifungal treatment because no dose recommendation for itraconazole or ketoconazole can be made. |
+| Antifungals: Itraconazole Ketoconazole | ↓ itraconazole↓ hydroxyitraconazole↓ ketoconazole | Consider alternative antifungal treatment because no dose recommendation for itraconazole or ketoconazole can be made. |
 | Posaconazole | ↓ posaconazole | Avoid concomitant use unless the benefit outweighs the risks. |
-| Anti-infective:Clarithromycin | ↓ clarithromycin↑ 14-OH metabolite | Consider alternatives to macrolide antibiotics because of the risk of QT interval prolongation. |
-| Antimycobacterial:Rifabutin | ↓ rifabutin | Increase daily dose of rifabutin by 50%. Consider doubling the rifabutin dose in regimens where rifabutin is given 2 or 3 times a week. |
+| Anti-infective: Clarithromycin | ↓ clarithromycin↑ 14-OH metabolite | Consider alternatives to macrolide antibiotics because of the risk of QT interval prolongation. |
+| Antimycobacterial: Rifabutin | ↓ rifabutin | Increase daily dose of rifabutin by 50%. Consider doubling the rifabutin dose in regimens where rifabutin is given 2 or 3 times a week. |
 | Rifampin | ↓ EFV | Increase EFV total daily dose to 800 mg once daily when coadministered with rifampin to patients weighing 50 kg or more. |
-| Antimalarials:Artemether/lumefantrine | ↓ artemether↓ dihydroartemisinin↓ lumefantrine | Consider alternatives to artemether/lumefantrine because of the risk of QT interval prolongation [see Warnings and Precautions (5.16)]. |
+| Antimalarials: Artemether/lumefantrine | ↓ artemether↓ dihydroartemisinin↓ lumefantrine | Consider alternatives to artemether/lumefantrine because of the risk of QT interval prolongation [see Warnings and Precautions (5.16)]. |
 | Atovaquone/proguanil | ↓ atovaquone↓ proguanil | Concomitant administration is not recommended. |
-| Calcium channel blockers:Diltiazem | ↓ diltiazem↓ desacetyl diltiazem↓ N-monodesmethyldiltiazem | Diltiazem dose adjustments should be guided by clinical response (refer to the full prescribing information for diltiazem). |
+| Calcium channel blockers: Diltiazem | ↓ diltiazem↓ desacetyl diltiazem↓ N-monodesmethyldiltiazem | Diltiazem dose adjustments should be guided by clinical response (refer to the full prescribing information for diltiazem). |
 | Others (e.g., felodipine,nicardipine, nifedipine,verapamil) | ↓ calcium channel blocker | When coadministered with EFV, dosage adjustment of calcium channel blocker may be needed and should be guided by clinical response (refer to the full prescribing information for the calcium channel blocker). |
-| HMG-CoA reductaseinhibitors:AtorvastatinPravastatinSimvastatin | ↓ atorvastatin↓ pravastatin↓ simvastatin | Plasma concentrations of atorvastatin, pravastatin, and simvastatin decreased. Consult the full prescribing information for the HMG-CoA reductase inhibitor for guidance on individualizing the dose. |
-| Hepatitis C antiviral agents:Boceprevir | ↓ boceprevir | Concomitant administration of boceprevir is not recommended. |
+| HMG-CoA reductaseinhibitors: Atorvastatin Pravastatin Simvastatin | ↓ atorvastatin↓ pravastatin↓ simvastatin | Plasma concentrations of atorvastatin, pravastatin, and simvastatin decreased. Consult the full prescribing information for the HMG-CoA reductase inhibitor for guidance on individualizing the dose. |
+| Hepatitis C antiviral agents: Boceprevir | ↓ boceprevir | Concomitant administration of boceprevir is not recommended. |
 | Elbasvir/Grazoprevir | ↓ elbasvir↓ grazoprevir | Coadministration of EFV with elbasvir/grazoprevir is contraindicated [see Contraindications (4)] because it may lead to loss of virologic response to elbasvir/grazoprevir. |
 | Pibrentasvir/Glecaprevir | ↓ pibrentasvir↓ glecaprevir | Coadministration of EFV is not recommended because it may lead to reduced therapeutic effect of pibrentasvir/glecaprevir. |
 | Simeprevir | ↓ simeprevir↔ EFV | Concomitant administration of simeprevir is not recommended. |
 | Velpatasvir/Sofosbuvir | ↓ velpatasvir | Coadministration of EFV and sofosbuvir/velpatasvir is not recommended because it may result in loss of therapeutic effect of sofosbuvir/velpatasvir. |
 | Velpatasvir/Sofosbuvir/ Voxilaprevir | ↓ velpatasvir↓ voxilaprevir | Coadministration of EFV and sofosbuvir/velpatasvir/voxilaprevir is not recommended because it may result in loss of therapeutic effect of sofosbuvir/velpatasvir/voxilaprevir. |
 | Ledipasvir/Sofosbuvir | ↑ TDF | Monitor for adverse reactions associated with TDF. |
-| Hepatitis B antiviral agentsAdefovir dipivoxil |  | Concomitant administration of adefovir dipivoxil is not recommended. |
+| Hepatitis B antiviral agents Adefovir dipivoxil |  | Concomitant administration of adefovir dipivoxil is not recommended. |
 | Hormonal contraceptives: Oral Ethinyl estradiol/ Norgestimate | ↓ active metabolites of norgestimate | A reliable method of barrier contraception should be used in addition to hormonal contraceptives. |
 | Implant Etonogestrel | ↓ etonogestrel | A reliable method of barrier contraception should be used in addition to hormonal contraceptives. Decreased exposure of etonogestrel may be expected. There have been postmarketing reports of contraceptive failure with etonogestrel in EFV-exposed patients. |
 | Immunosuppressants: Cyclosporine, tacrolimus, sirolimus, and others metabolized by CYP3A | ↓ immunosuppressant | Dose adjustments of the immunosuppressant may be required. Close monitoring of immunosuppressant concentrations for at least 2 weeks (until stable concentrations are reached) is recommended when starting or stopping treatment with EFV. |
-| Narcotic analgesic:Methadone | ↓ methadone | Monitor for signs of methadone withdrawal and increase methadone dose if required to alleviate withdrawal symptoms. |
+| Narcotic analgesic: Methadone | ↓ methadone | Monitor for signs of methadone withdrawal and increase methadone dose if required to alleviate withdrawal symptoms. |
 | This table is not all-inclusive. |  |  |
 
 ## 7.6 Drugs without Clinically Significant Interactions
