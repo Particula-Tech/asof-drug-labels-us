@@ -76,7 +76,6 @@ No incompatibility has been demonstrated with the antibiotics cephalothin, kanam
 The following drugs are physically incompatible with clindamycin phosphate: ampicillin sodium, phenytoin sodium, barbiturates, aminophylline, calcium gluconate, and magnesium sulfate.
 
 The compatibility and duration of stability of drug admixtures will vary depending on concentration and other conditions.
-For current information regarding compatibilities of clindamycin phosphate under specific conditions, please contact the Medical and Drug Information Unit, Pharmacia & Upjohn Company (Division of Pfizer Inc).
 
 ## Physico-Chemical Stability of Diluted Solutions of CLEOCIN PHOSPHATE
 
