@@ -1,21 +1,17 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-Each REMICADE 20 mL vial is individually packaged in a carton.
-REMICADE is supplied in an accumulator carton containing 10 vials.
+How Supplied
 
-| NDC 57894-030-01 | 100 mg vial |
-| --- | --- |
+REMICADE® (infliximab) for injection is supplied as: 100 mg, 20 mL vial individually packaged in a carton (NDC 57894-030-01).
 
-Each single dose vial contains 100 mg of infliximab for final reconstitution volume of 10 mL.
+Each single-dose vial contains 100 mg of infliximab as a sterile, preservative-free, white lyophilized powder for reconstitution and dilution (more than one vial may be needed for a full dose) [see Dosage and Administration (2.11)].
 
-Storage and stability
+Storage and Handling
 
-Store unopened REMICADE vials in a refrigerator at 2ºC to 8ºC (36ºF to 46ºF).
-Do not use REMICADE beyond the expiration date located on the carton and the vial.
-This product contains no preservative.
+Store unopened REMICADE® vials in a refrigerator at 2°C to 8°C (36°F to 46°F).
 
-Unopened REMICADE vials may also be stored at temperatures up to a maximum of 30°C (86°F) for a single period of up to 6 months but not exceeding the original expiration date.
-The new expiration date must be written on the carton.
-Upon removal from refrigerated storage, REMICADE cannot be returned to refrigerated storage.
+If needed, unopened REMICADE vials may be stored at room temperatures up to a maximum of 30°C (86°F) for a single period of up to 6 months but not exceeding the original expiration date.
+The new expiration date must be written in the space provided on the carton.
+Once removed from the refrigerator, REMICADE cannot be returned to the refrigerator.
 
-[For storage conditions of the reconstituted product, see Dosage and Administration (2.11)].
+For storage conditions of the reconstituted and diluted product for administration, see Dosage and Administration (2.11).

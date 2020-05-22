@@ -2,7 +2,7 @@
 
 SERIOUS INFECTIONS
 
-Patients treated with REMICADE® are at increased risk for developing serious infections that may lead to hospitalization or death [see Warnings and Precautions (5.1) and Adverse Reactions (6.1)].
+Patients treated with REMICADE are at increased risk for developing serious infections that may lead to hospitalization or death [see Warnings and Precautions (5.1) and Adverse Reactions (6.1)].
 Most patients who developed these infections were taking concomitant immunosuppressants such as methotrexate or corticosteroids.
 
 REMICADE should be discontinued if a patient develops a serious infection or sepsis.
@@ -11,7 +11,8 @@ Reported infections include:
 
 - Active tuberculosis, including reactivation of latent tuberculosis.
   Patients with tuberculosis have frequently presented with disseminated or extrapulmonary disease.
-  Patients should be tested for latent tuberculosis before REMICADE use and during therapy.1,2 Treatment for latent infection should be initiated prior to REMICADE use.
+  Patients should be tested for latent tuberculosis before REMICADE use and during therapy.
+  Treatment for latent infection should be initiated prior to REMICADE use.
 - Invasive fungal infections, including histoplasmosis, coccidioidomycosis, candidiasis, aspergillosis, blastomycosis, and pneumocystosis.
   Patients with histoplasmosis or other invasive fungal infections may present with disseminated, rather than localized, disease.
   Antigen and antibody testing for histoplasmosis may be negative in some patients with active infection.
@@ -28,5 +29,5 @@ Lymphoma and other malignancies, some fatal, have been reported in children and 
 
 Postmarketing cases of hepatosplenic T-cell lymphoma (HSTCL), a rare type of T-cell lymphoma, have been reported in patients treated with TNF blockers including REMICADE.
 These cases have had a very aggressive disease course and have been fatal.
-Almost all patients had received treatment with azathioprine or 6-mercaptopurine concomitantly with a TNF-blocker at or prior to diagnosis.
+Almost all patients had received treatment with azathioprine or 6-mercaptopurine concomitantly with a TNF blocker at or prior to diagnosis.
 The majority of reported REMICADE cases have occurred in patients with Crohn's disease or ulcerative colitis and most were in adolescent and young adult males.
