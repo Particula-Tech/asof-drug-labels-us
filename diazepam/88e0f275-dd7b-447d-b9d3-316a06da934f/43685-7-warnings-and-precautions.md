@@ -118,35 +118,17 @@ Although Diazepam rectal gel is indicated for use solely on an intermittent basi
 
 ## Drug Interactions
 
-There have been no clinical studies or reports in literature to evaluate the interaction of rectally
+There have been no clinical studies or reports in literature to evaluate the interaction of rectally administered diazepam with other drugs.
+As with all drugs, the potential for interaction by a variety of mechanisms is a possibility.
 
-administered diazepam with other drugs.
-As with all drugs, the potential for interaction by a variety of
-
-mechanisms is a possibility.
-
-Effect of Concomitant Use of Benzodiazepines and Opioids: The concomitant use of benzodiazepines and
-
-opioids increases the risk of respiratory depression because of actions at different receptor sites in the
-
-CNS that control respiration.
-Benzodiazepines interact at GABAA sites, and opioids interact primarily at
-
-mu receptors.
-When benzodiazepines and opioids are combined, the potential for benzodiazepines to
-
-significantly worsen opioid-related respiratory depression exists.
-Limit dosage and duration of
-
-concomitant use of benzodiazepines and opioids, and follow patients closely for respiratory depression
-
-and sedation.
+Effect of Concomitant Use of Benzodiaaepines and Opioids: The concomitant use of benzodiazepines and opioids increases the risk of respiratory depression because of actions at different receptor sites in the CNS that control respiration.
+Benzodiazepines interact at GABAA sites, and opioids interact primarily at mu receptors.
+When benzodiazepines are combined, the potential for benzodiazepines to significantly worsen opioid related respiratory depression exists.
+Limit dosage and duration of concomitant use of benzodiazepines and opioids, and follow patients closely for respiratory depression and sedation.
 
 Other Psychotropic Agents or Other CNS Depressants: If Diazepam rectal gel is to be combined with other psychotropic agents or other CNS depressants, careful consideration should be given to the pharmacology of the agents to be employed particularly with known compounds which may potentiate the action of diazepam, such as phenothiazines, narcotics, barbiturates, MAO inhibitors and other antidepressants.
 
-Cimetidine: The clearance of diazepam and certain other benzodiazepines can be delayed in association
-
-with cimetidine administration.
+Cimetidine: The clearance of diazepam and certain other benzodiazepines can be delayed in association with cimetidine administration.
 The clinical significance of this is unclear.
 
 Valproate: Valproate may potentiate the CNS-depressant effects of diazepam.

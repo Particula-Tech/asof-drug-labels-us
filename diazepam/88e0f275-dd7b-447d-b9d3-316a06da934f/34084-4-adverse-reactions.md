@@ -29,18 +29,12 @@ An inspection of these frequencies, however, does provide the prescribing physic
 
 TABLE 1: Treatment-Emergent Signs And Symptoms That Occurred In > 1% Of Patients Enrolled In Parallel-Group, Placebo-Controlled Trials And Were Numerically More Common In The Diazepam rectal gel Group
 
-|  | Term | % | % |
+| Body System | COSTART Term | Diastat N = 101 % | Placebo N = 104 % |
 | --- | --- | --- | --- |
-|  |  | Diastat | Placebo |
-| Body System | COSTART | N = 101 | N = 104 |
-| Body As A Whole | Headache | 5% | 4% |
+| Body As aWhole | Headache | 5% | 4% |
 | Cardiovascular | Vasodilatation | 2% | 0% |
 | Digestive | Diarrhea | 4% | <1% |
-| Nervous | Ataxia | 3% | <1% |
-|  | Dizziness | 3% | 2% |
-|  | Euphoria | 3% | 0% |
-|  | Incoordination | 3% | 0% |
-|  | Somnolence | 23% | 8% |
+| Nervous | Ataxia Dizziness Euphoria Incoordination Somnolence | 3% 3% 3% 3% 23% | <1% 2% 0% 0% 8% |
 | Respiratory | Asthma | 2% | 0% |
 | Skin and Appendages | Rash | 3% | 0% |
 
