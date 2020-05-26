@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA214308"
+  ],
+  "inn": "succinylcholine",
+  "labeler": "Indoco Remedies Limited",
+  "package_ndcs": [
+    "14445-407-10",
+    "14445-407-25"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "succinylcholine chloride",
+      "name": "Succinylcholine Chloride"
+    }
+  ],
+  "setid": "53e064bb-f71c-485f-b466-58a0739e7753",
+  "source": "dailymed"
+}
