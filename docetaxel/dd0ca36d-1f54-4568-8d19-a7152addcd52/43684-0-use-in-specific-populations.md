@@ -33,32 +33,32 @@ Risk Summary
 
 There is no information regarding the presence of docetaxel in human milk, or on its effects on milk production or the breastfed child.
 No lactation studies in animals have been conducted.
-Because of the potential for serious adverse reactions in a breastfed child, advise women not to breastfeed during treatment with Docetaxel and for 1 week after the last dose.
+Because of the potential for serious adverse reactions in a breastfed child, advise women not to breastfeed during treatment with docetaxel and for 1 week after the last dose.
 
 ## 8.3 Females and Males of Reproductive Potential
 
 Pregnancy Testing
 
-Verify pregnancy status in females of reproductive potential prior to initiating Docetaxel.
+Verify pregnancy status in females of reproductive potential prior to initiating docetaxel.
 
 Contraception
 
 Females
 
 Docetaxel can cause fetal harm when administered to a pregnant woman [see Use in Specific Populations (8.1)].
-Advise females of reproductive potential to use effective contraception during treatment and for 6 months after the last dose of Docetaxel.
+Advise females of reproductive potential to use effective contraception during treatment and for 6 months after the last dose of docetaxel.
 
 Males
 
-Based on genetic toxicity findings, advise male patients with female partners of reproductive potential to use effective contraception during treatment and for 3 months after the last dose of Docetaxel.
+Based on genetic toxicity findings, advise male patients with female partners of reproductive potential to use effective contraception during treatment and for 3 months after the last dose of docetaxel.
 
 Infertility
 
-Based on findings in animal studies, Docetaxel may impair fertility in males of reproductive potential [see Nonclinical Toxicology (13.1)].
+Based on findings in animal studies, docetaxel may impair fertility in males of reproductive potential [see Nonclinical Toxicology (13.1)].
 
 ## 8.4 Pediatric Use
 
-The alcohol content of Docetaxel Injection should be taken into account when given to pediatric patients [see Warnings and Precautions (5.13)].
+The alcohol content of Docetaxel injection should be taken into account when given to pediatric patients [see Warnings and Precautions (5.13)].
 
 The efficacy of docetaxel in pediatric patients as monotherapy or in combination has not been established.
 The overall safety profile of docetaxel in pediatric patients receiving monotherapy or TCF was consistent with the known safety profile in adults.
@@ -132,6 +132,6 @@ Other reported clinical experience with this treatment regimen has not identifie
 
 ## 8.6 Hepatic Impairment
 
-Avoid Docetaxel in patients with bilirubin >ULN and patients with AST and/or ALT >1.5 × ULN concomitant with alkaline phosphatase >2.5 × ULN [see Boxed Warning, Warnings and Precautions (5.2), Clinical Pharmacology (12.3)].
+Avoid docetaxel in patients with bilirubin >ULN and patients with AST and/or ALT >1.5 × ULN concomitant with alkaline phosphatase >2.5 × ULN [see Boxed Warning, Warnings and Precautions (5.2), Clinical Pharmacology (12.3)].
 
-The alcohol content of Docetaxel Injection should be taken into account when given to patients with hepatic impairment [see Warnings and Precautions (5.13)].
+The alcohol content of Docetaxel injection should be taken into account when given to patients with hepatic impairment [see Warnings and Precautions (5.13)].

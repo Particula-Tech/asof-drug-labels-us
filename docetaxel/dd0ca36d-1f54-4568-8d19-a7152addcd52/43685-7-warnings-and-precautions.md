@@ -19,11 +19,11 @@ Among patients who experienced treatment-related mortality at the 75 mg/m2 dose 
 
 Patients with elevations of bilirubin or abnormalities of transaminase concurrent with alkaline phosphatase are at increased risk for the development of severe neutropenia, febrile neutropenia, infections, severe thrombocytopenia, severe stomatitis, severe skin toxicity, and toxic death.
 
-Avoid Docetaxel in patients with bilirubin > upper limit of normal (ULN), or to patients with AST and/or ALT >1.5 × ULN concomitant with alkaline phosphatase >2.5 × ULN [see Warnings and Precautions (5.1)].
+Avoid docetaxel in patients with bilirubin > upper limit of normal (ULN), or to patients with AST and/or ALT >1.5 × ULN concomitant with alkaline phosphatase >2.5 × ULN [see Warnings and Precautions (5.1)].
 
-For patients with isolated elevations of transaminase >1.5 × ULN, consider Docetaxel dose modifications [see Dosage and Administration (2.7)].
+For patients with isolated elevations of transaminase >1.5 × ULN, consider docetaxel dose modifications [see Dosage and Administration (2.7)].
 
-Measure bilirubin, AST or ALT, and alkaline phosphatase prior to each cycle of Docetaxel therapy.
+Measure bilirubin, AST or ALT, and alkaline phosphatase prior to each cycle of docetaxel therapy.
 
 ## 5.3 Hematologic Effects
 
@@ -123,20 +123,26 @@ Symptoms of fatigue and weakness may last a few days up to several weeks and may
 
 ## 5.12 Embryo-Fetal Toxicity
 
-Based on findings from animal reproduction studies and its mechanism of action, Docetaxel can cause fetal harm when administered to a pregnant woman [see Clinical Pharmacology (12.1)].
+Based on findings from animal reproduction studies and its mechanism of action, docetaxel can cause fetal harm when administered to a pregnant woman [see Clinical Pharmacology (12.1)].
 Available data from case reports in the literature and pharmacovigilance with docetaxel use in pregnant women are not sufficient to inform the drug-associated risk of major birth defects, miscarriage or adverse maternal or fetal outcomes.
 In animal reproduction studies, administration of docetaxel to pregnant rats and rabbits during the period of organogenesis caused embryo-fetal toxicities, including intrauterine mortality, at doses as low as 0.02 and 0.003 times the recommended human dose based on body surface area, respectively.
 
 Advise pregnant women and females of reproductive potential of the potential risk to a fetus.
-Verify pregnancy status in females of reproductive potential prior to initiating Docetaxel.
-Advise females of reproductive potential to use effective contraception during treatment and for 6 months after the last dose of Docetaxel.
-Advise male patients with female partners of reproductive potential to use effective contraception during treatment and for 3 months after the last dose of Docetaxel [see Use in Specific Populations (8.1, 8.3)].
+Verify pregnancy status in females of reproductive potential prior to initiating docetaxel.
+Advise females of reproductive potential to use effective contraception during treatment and for 6 months after the last dose of docetaxel.
+Advise male patients with female partners of reproductive potential to use effective contraception during treatment and for 3 months after the last dose of docetaxel [see Use in Specific Populations (8.1, 8.3)].
 
 ## 5.13 Alcohol Content
 
 Cases of intoxication have been reported with some formulations of docetaxel due to the alcohol content.
-The alcohol content in a dose of Docetaxel Injection may affect the central nervous system and should be taken into account for patients in whom alcohol intake should be avoided or minimized.
-Consideration should be given to the alcohol content in Docetaxel Injection on the ability to drive or use machines immediately after the infusion.
-Each administration of Docetaxel Injection at 100 mg/m2 delivers 2.0 g/m2 of ethanol.
+The alcohol content in a dose of Docetaxel injection may affect the central nervous system and should be taken into account for patients in whom alcohol intake should be avoided or minimized.
+Consideration should be given to the alcohol content in Docetaxel injection on the ability to drive or use machines immediately after the infusion.
+Each administration of Docetaxel injection at 100 mg/m2 delivers 2.0 g/m2 of ethanol.
 For a patient with a BSA of 2.0 m2, this would deliver 4.0 grams of ethanol [see Description (11)].
 Other docetaxel products may have a different amount of alcohol.
+
+## 5.14 Tumor Lysis Syndrome
+
+Tumor lysis syndrome has been reported with docetaxel [see Adverse Reactions (6.2)].
+Patients at risk of tumor lysis syndrome (e.g., with renal impairment, hyperuricemia, bulky tumor) should be closely monitored prior to initiating docetaxel and periodically during treatment.
+Correction of dehydration and treatment of high uric acid levels are recommended prior to initiation of treatment.

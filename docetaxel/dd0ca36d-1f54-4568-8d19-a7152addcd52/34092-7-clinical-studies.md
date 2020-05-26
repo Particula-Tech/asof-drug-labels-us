@@ -80,7 +80,7 @@ At the time of this interim analysis, based on 219 deaths, overall survival was 
 (See Figure 2.)
 There will be further analysis at the time survival data mature.
 
-Figure 1: TAX316 Disease Free Survival K-M curve
+Figure 1: TAX316 Disease-Free Survival K-M curve
 
 Figure 2: TAX316 Overall Survival K-M Curve
 
@@ -88,9 +88,9 @@ The following table describes the results of subgroup analyses for DFS and OS (s
 
 Table 14: Subset Analyses-Adjuvant Breast Cancer Study
 
-| Patient subset | Number of patients | Hazard ratioa hazard ratio of less than 1 indicates that TAC is associated with a longer disease free survival or overall survival compared to FAC. | 95% CI | Hazard ratio | 95% CI |
+| Patient subset | Number of patients | Hazard ratioa hazard ratio of less than 1 indicates that TAC is associated with a longer disease-free survival or overall survival compared to FAC. | 95% CI | Hazard ratio | 95% CI |
 | --- | --- | --- | --- | --- | --- |
-|  |  | Disease Free Survival |  | Overall Survival |  |
+|  |  | Disease-Free Survival |  | Overall Survival |  |
 | No. of positive nodes |  |  |  |  |  |
 | Overall | 744 | 0.74 | (0.60, 0.92) | 0.69 | (0.53, 0.90) |
 | 1–3 | 467 | 0.64 | (0.47, 0.87) | 0.45 | (0.29, 0.70) |
@@ -142,7 +142,7 @@ Patients treated with docetaxel at a dose of 75 mg/m2 experienced no deteriorati
 
 Combination Therapy with Docetaxel for Chemotherapy-Naive NSCLC
 
-In a randomized controlled trial (TAX326), 1218 patients with unresectable stage IIIB or IV NSCLC and no prior chemotherapy were randomized to receive one of three treatments: docetaxel 75 mg/m2 as a 1 hour infusion immediately followed by cisplatin 75 mg/m2 over 30 to 60 minutes every 3 weeks; vinorelbine 25 mg/m2 administered over 6–10 minutes on days 1, 8, 15, 22 followed by cisplatin 100 mg/m2 administered on day 1 of cycles repeated every 4 weeks; or a combination of docetaxel and carboplatin.
+In a randomized controlled trial (TAX326), 1218 patients with unresectable stage IIIB or IV NSCLC and no prior chemotherapy were randomized to receive one of three treatments: docetaxel 75 mg/m2 as a 1-hour infusion immediately followed by cisplatin 75 mg/m2 over 30 to 60 minutes every 3 weeks; vinorelbine 25 mg/m2 administered over 6–10 minutes on days 1, 8, 15, 22 followed by cisplatin 100 mg/m2 administered on day 1 of cycles repeated every 4 weeks; or a combination of docetaxel and carboplatin.
 
 The primary efficacy endpoint was overall survival.
 Treatment with docetaxel+cisplatin did not result in a statistically significantly superior survival compared to vinorelbine+cisplatin (see table below).
@@ -261,7 +261,7 @@ Table 20: Efficacy of Docetaxel in the Induction Treatment of Patients with Inop
 | Chi square test, not adjusted for multiple comparisonsp-value | 0.006 |  |
 | Best overall response (CR + PR) to study treatment [chemotherapy +/- radiotherapy] (%) (95% CI) | 72.3 (65.1–78.8) | 58.6 (51.0–65.8) |
 | p-value | 0.006 |  |
-| A Hazard ratio of less than 1 favors Docetaxel+cisplatin+fluorouracil |  |  |
+| A Hazard ratio of less than 1 favors docetaxel+cisplatin+fluorouracil |  |  |
 
 Figure 8: TAX323 Progression-Free Survival K-M Curve
 

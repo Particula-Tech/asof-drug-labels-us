@@ -10,10 +10,10 @@ It is highly lipophilic and practically insoluble in water.
 
 One-vial Docetaxel (Injection)
 
-Docetaxel Injection is a sterile, non-pyrogenic, pale-yellow to brownish-yellow solution at 20 mg/mL concentration.
+Docetaxel injection is a sterile, non-pyrogenic, pale-yellow to brownish-yellow solution at 20 mg/mL concentration.
 
 Each mL contains 20 mg docetaxel (anhydrous) in 0.54 grams polysorbate 80 and 0.395 grams dehydrated alcohol (50% v/v) solution, with citric acid for pH adjustment.
 
 Docetaxel is available in single-dose vials containing 20 mg (1 mL), 80 mg (4 mL), or 160 mg (8 mL) docetaxel (anhydrous).
 
-Docetaxel Injection requires NO prior dilution with a diluent and is ready to add to the infusion solution.
+Docetaxel injection requires NO prior dilution with a diluent and is ready to add to the infusion solution.

@@ -19,12 +19,12 @@ Administer in a facility equipped to manage possible complications (e.g. anaphyl
 
 ## 2.3 Prostate Cancer
 
-- For metastatic castration-resistant prostate cancer, the recommended dose of docetaxel is 75 mg/m2 every 3 weeks as a 1 hour intravenous infusion.
+- For metastatic castration-resistant prostate cancer, the recommended dose of docetaxel is 75 mg/m2 every 3 weeks as a 1-hour intravenous infusion.
   Prednisone 5 mg orally twice daily is administered continuously [see Dosage and Administration (2.7)].
 
 ## 2.4 Gastric Adenocarcinoma
 
-- For gastric adenocarcinoma, the recommended dose of docetaxel is 75 mg/m2 as a 1 hour intravenous infusion, followed by cisplatin 75 mg/m2, as a 1 to 3 hour intravenous infusion (both on day 1 only), followed by fluorouracil 750 mg/m2 per day given as a 24-hour continuous intravenous infusion for 5 days, starting at the end of the cisplatin infusion.
+- For gastric adenocarcinoma, the recommended dose of docetaxel is 75 mg/m2 as a 1-hour intravenous infusion, followed by cisplatin 75 mg/m2, as a 1 to 3 hour intravenous infusion (both on day 1 only), followed by fluorouracil 750 mg/m2 per day given as a 24-hour continuous intravenous infusion for 5 days, starting at the end of the cisplatin infusion.
   Treatment is repeated every three weeks.
   Patients must receive premedication with antiemetics and appropriate hydration for cisplatin administration [see Dosage and Administration (2.7)].
 
@@ -36,13 +36,13 @@ All patients treated on the docetaxel containing arms of the TAX323 and TAX324 s
 
 Induction Chemotherapy Followed by Radiotherapy (TAX323)
 
-For the induction treatment of locally advanced inoperable SCCHN, the recommended dose of docetaxel is 75 mg/m2 as a 1 hour intravenous infusion followed by cisplatin 75 mg/m2 intravenously over 1 hour, on day one, followed by fluorouracil as a continuous intravenous infusion at 750 mg/m2 per day for five days.
+For the induction treatment of locally advanced inoperable SCCHN, the recommended dose of docetaxel is 75 mg/m2 as a 1-hour intravenous infusion followed by cisplatin 75 mg/m2 intravenously over 1 hour, on day one, followed by fluorouracil as a continuous intravenous infusion at 750 mg/m2 per day for five days.
 This regimen is administered every 3 weeks for 4 cycles.
 Following chemotherapy, patients should receive radiotherapy [see Dosage and Administration (2.7)].
 
 Induction Chemotherapy Followed by Chemoradiotherapy (TAX324)
 
-For the induction treatment of patients with locally advanced (unresectable, low surgical cure, or organ preservation) SCCHN, the recommended dose of docetaxel is 75 mg/m2 as a 1 hour intravenous infusion on day 1, followed by cisplatin 100 mg/m2 administered as a 30-minute to 3 hour infusion, followed by fluorouracil 1000 mg/m2/day as a continuous infusion from day 1 to day 4.
+For the induction treatment of patients with locally advanced (unresectable, low surgical cure, or organ preservation) SCCHN, the recommended dose of docetaxel is 75 mg/m2 as a 1-hour intravenous infusion on day 1, followed by cisplatin 100 mg/m2 administered as a 30-minute to 3 hour infusion, followed by fluorouracil 1000 mg/m2/day as a continuous infusion from day 1 to day 4.
 This regimen is administered every 3 weeks for 3 cycles.
 Following chemotherapy, patients should receive chemoradiotherapy [see Dosage and Administration (2.7)].
 
@@ -167,15 +167,15 @@ Based on extrapolation from a pharmacokinetic study with ketoconazole in 7 patie
 Docetaxel is a cytotoxic anticancer drug and, as with other potentially toxic compounds, caution should be exercised when handling and preparing docetaxel solutions.
 The use of gloves is recommended [see How Supplied/Storage and Handling (16.3)].
 
-If Docetaxel Injection initial diluted solution, or final dilution for infusion should come into contact with the skin, immediately and thoroughly wash with soap and water.
-If Docetaxel Injection initial diluted solution, or final dilution for infusion should come into contact with mucosa, immediately and thoroughly wash with water.
+If Docetaxel injection initial diluted solution, or final dilution for infusion should come into contact with the skin, immediately and thoroughly wash with soap and water.
+If Docetaxel injection initial diluted solution, or final dilution for infusion should come into contact with mucosa, immediately and thoroughly wash with water.
 
 Contact of the docetaxel with plasticized PVC equipment or devices used to prepare solutions for infusion is not recommended.
 In order to minimize patient exposure to the plasticizer DEHP (di-2-ethylhexyl phthalate), which may be leached from PVC infusion bags or sets, the final docetaxel dilution for infusion should be stored in bottles (glass, polypropylene) or plastic bags (polypropylene, polyolefin) and administered through polyethylene-lined administration sets.
 
 One-vial Docetaxel (Injection)
 
-Docetaxel Injection requires NO prior dilution with a diluent and is ready to add to the infusion solution.
+Docetaxel injection requires NO prior dilution with a diluent and is ready to add to the infusion solution.
 
 Please follow the preparation instructions provided below.
 
@@ -185,12 +185,12 @@ DO NOT use the two-vial formulation (Injection and diluent) with the one-vial fo
 
 One-vial Docetaxel Injection
 
-Docetaxel Injection (20 mg/mL) requires NO prior dilution with a diluent and is ready to add to the infusion solution.
-Use only a 21 gauge needle to withdraw docetaxel from the vial because larger bore needles (e.g., 18 and 19 gauge) may result in stopper coring and rubber particulates.
+Docetaxel injection (20 mg/mL) requires NO prior dilution with a diluent and is ready to add to the infusion solution.
+Use only a 21-gauge needle to withdraw docetaxel from the vial because larger bore needles (e.g., 18 and 19 gauge) may result in stopper coring and rubber particulates.
 
 1. Docetaxel vials should be stored between 2°C and 25°C (36°F and 77°F).
-   If the vials are stored under refrigeration, allow the appropriate number of vials of Docetaxel Injection vials to stand at room temperature for approximately 5 minutes before use.
-2. Using only a 21 gauge needle, aseptically withdraw the required amount of Docetaxel Injection (20 mg docetaxel/mL) with a calibrated syringe and inject via a single injection (one shot) into a 250 mL infusion bag or bottle of either 0.9% Sodium Chloride solution or 5% Dextrose solution to produce a final concentration of 0.3 mg/mL to 0.74 mg/mL.
+   If the vials are stored under refrigeration, allow the appropriate number of vials of Docetaxel injection vials to stand at room temperature for approximately 5 minutes before use.
+2. Using only a 21-gauge needle, aseptically withdraw the required amount of Docetaxel injection (20 mg docetaxel/mL) with a calibrated syringe and inject via a single injection (one shot) into a 250 mL infusion bag or bottle of either 0.9% Sodium Chloride solution or 5% Dextrose solution to produce a final concentration of 0.3 mg/mL to 0.74 mg/mL.
    If a dose greater than 200 mg of docetaxel is required, use a larger volume of the infusion vehicle so that a concentration of 0.74 mg/mL docetaxel is not exceeded.
 3. Thoroughly mix the infusion by gentle manual rotation.
 4. As with all parenteral products, docetaxel should be inspected visually for particulate matter or discoloration prior to administration whenever the solution and container permit.
@@ -203,6 +203,6 @@ The docetaxel dilution for infusion should be administered intravenously as a 1-
 ## 2.10 Stability
 
 Docetaxel final dilution for infusion, if stored between 2°C and 25°C (36°F and 77°F) is stable for 6 hours.
-Docetaxel final dilution for infusion (in either 0.9% Sodium Chloride solution or 5% Dextrose solution) should be used within 6 hours (including the 1 hour intravenous administration).
+Docetaxel final dilution for infusion (in either 0.9% Sodium Chloride solution or 5% Dextrose solution) should be used within 6 hours (including the 1-hour intravenous administration).
 
 In addition, physical and chemical in-use stability of the infusion solution prepared as recommended has been demonstrated in non-PVC bags up to 48 hours when stored between 2°C and 8°C (36°F and 46°F).
