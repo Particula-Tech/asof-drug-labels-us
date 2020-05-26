@@ -14,12 +14,12 @@ Store at controlled room temperature 20° - 25°C (68° - 77°F) [see USP].
 Protect from light and humidity.
 Preserve in tight containers.
 
-Manufactured for: Exelan Pharmaceuticals, Inc. Lawrenceville, GA 30046
-
 Manufactured by: InvaGen Pharmaceuticals, Inc. (a subsidiary of Cipla Ltd.) Hauppauge, NY 11788
 
-Revised: 05/2019
+Manufactured for: Exelan Pharmaceuticals, Inc. Boca Raton, FL 33432
 
-Barcode: 225-05-2019
+Revised: 03/2020
 
-SAP code: 21078348
+Barcode: 225-03-2020
+
+SAP code: 21082944
