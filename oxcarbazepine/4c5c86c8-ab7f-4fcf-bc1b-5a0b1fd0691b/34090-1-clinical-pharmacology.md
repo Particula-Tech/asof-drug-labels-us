@@ -122,7 +122,7 @@ Other Antiepileptic Drugs
 Potential interactions between TRILEPTAL and other AEDs were assessed in clinical studies.
 The effect of these interactions on mean AUCs and Cmin are summarized in Table 7 [see Drug Interactions (7.1, 7.2)].
 
-Table 7: Summary of AED Interactions with TRILEPTAL
+Table 7: Summary of AED Interactions With TRILEPTAL
 
 | AED Coadministered | Dose of AED (mg/day) | TRILEPTAL Dose (mg/day) | Influence of TRILEPTAL on AED Concentration (Mean Change, 90% Confidence Interval) | Influence of AED on MHD Concentration (Mean Change, 90% Confidence Interval) |
 | --- | --- | --- | --- | --- |

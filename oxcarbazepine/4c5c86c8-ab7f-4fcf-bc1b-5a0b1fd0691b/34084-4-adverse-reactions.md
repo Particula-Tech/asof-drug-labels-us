@@ -17,7 +17,7 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 
 Most Common Adverse Reactions in All Clinical Studies
 
-Adjunctive Therapy/Monotherapy in Adults Previously Treated with Other AEDs
+Adjunctive Therapy/Monotherapy in Adults Previously Treated With Other AEDs
 
 The most common (≥ 10% more than placebo for adjunctive or low dose for monotherapy) adverse reactions with TRILEPTAL: dizziness, somnolence, diplopia, fatigue, nausea, vomiting, ataxia, abnormal vision, headache, nystagmus tremor, and abnormal gait.
 
@@ -59,7 +59,7 @@ Table 3 lists adverse reactions that occurred in at least 2% of adult patients w
 Table 4 lists adverse reactions in patients converted from other AEDs to either high-dose TRILEPTAL (2400 mg/day) or low-dose (300 mg/day) TRILEPTAL.
 Note that in some of these monotherapy studies patients who dropped out during a preliminary tolerability phase are not included in the tables.
 
-Table 3: Adverse Reactions in a Controlled Clinical Study of Adjunctive Therapy with TRILEPTAL in Adults
+Table 3: Adverse Reactions in a Controlled Clinical Study of Adjunctive Therapy With TRILEPTAL in Adults
 
 |  | TRILEPTAL Dosage (mg/day) |  |  |  |
 | --- | --- | --- | --- | --- |
@@ -113,7 +113,7 @@ Table 3: Adverse Reactions in a Controlled Clinical Study of Adjunctive Therapy 
 | Abnormal Vision | 6 | 14 | 13 | 4 |
 | Abnormal Accommodation | 0 | 0 | 2 | 0 |
 
-Table 4: Adverse Reactions in Controlled Clinical Studies of Monotherapy with TRILEPTAL in Adults Previously Treated with Other AEDs
+Table 4: Adverse Reactions in Controlled Clinical Studies of Monotherapy With TRILEPTAL in Adults Previously Treated With Other AEDs
 
 | Body System/ Adverse Reaction | TRILEPTAL 2400 mg/day N = 86 % | TRILEPTAL 300 mg/day N = 86 % |
 | --- | --- | --- |
@@ -178,11 +178,11 @@ Table 4: Adverse Reactions in Controlled Clinical Studies of Monotherapy with TR
 | Micturition Frequency | 2 | 1 |
 | Vaginitis | 2 | 0 |
 
-Controlled Clinical Study of Monotherapy in Adults Not Previously Treated with Other AEDs
+Controlled Clinical Study of Monotherapy in Adults Not Previously Treated With Other AEDs
 
 Table 5 lists adverse reactions in a controlled clinical study of monotherapy in adults not previously treated with other AEDs that occurred in at least 2% of adult patients with epilepsy treated with TRILEPTAL or placebo and were numerically more common in the patients treated with TRILEPTAL.
 
-Table 5: Adverse Reactions in a Controlled Clinical Study of Monotherapy with TRILEPTAL in Adults Not Previously Treated with Other AEDs
+Table 5: Adverse Reactions in a Controlled Clinical Study of Monotherapy With TRILEPTAL in Adults Not Previously Treated With Other AEDs
 
 | Body System/ Adverse Reaction | TRILEPTAL N = 55 % | Placebo N = 49 % |
 | --- | --- | --- |
@@ -214,11 +214,11 @@ Table 5: Adverse Reactions in a Controlled Clinical Study of Monotherapy with TR
 | Special Senses |  |  |
 | Vision Abnormal | 4 | 0 |
 
-Controlled Clinical Studies of Adjunctive Therapy/Monotherapy in Pediatric Patients Previously Treated with Other AEDs
+Controlled Clinical Studies of Adjunctive Therapy/Monotherapy in Pediatric Patients Previously Treated With Other AEDs
 
 Table 6 lists adverse reactions that occurred in at least 2% of pediatric patients with epilepsy treated with TRILEPTAL or placebo as adjunctive treatment and were numerically more common in the patients treated with TRILEPTAL.
 
-Table 6: Adverse Reactions in Controlled Clinical Studies of Adjunctive Therapy/Monotherapy with TRILEPTAL in Pediatric Patients Previously Treated with Other AEDs
+Table 6: Adverse Reactions in Controlled Clinical Studies of Adjunctive Therapy/Monotherapy With TRILEPTAL in Pediatric Patients Previously Treated With Other AEDs
 
 | Body System/ Adverse Reaction | TRILEPTAL N = 171 % | Placebo N = 139 % |
 | --- | --- | --- |
@@ -255,7 +255,7 @@ Table 6: Adverse Reactions in Controlled Clinical Studies of Adjunctive Therapy/
 | Abnormal Vision | 13 | 1 |
 | Vertigo | 2 | 0 |
 
-Other Events Observed in Association with the Administration of TRILEPTAL
+Other Events Observed in Association With the Administration of TRILEPTAL
 
 In the paragraphs that follow, the adverse reactions, other than those in the preceding tables or text, that occurred in a total of 565 children and 1574 adults exposed to TRILEPTAL and that are reasonably likely to be related to drug use are presented.
 Events common in the population, events reflecting chronic illness and events likely to reflect concomitant illness are omitted particularly if minor.

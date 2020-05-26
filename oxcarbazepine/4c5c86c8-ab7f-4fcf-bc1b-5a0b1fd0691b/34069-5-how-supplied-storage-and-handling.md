@@ -29,7 +29,7 @@ Unit Dose (blister pack)
 
 Box of 100 (strips of 10)…………………………………………………………………………………NDC 0078-0457-35
 
-Store at 25°C (77°F); excursions permitted to 15°C to 30°C (59°F to 86°F) [see USP Controlled Room Temperature].
+Store at 20°C to 25°C (68°F to 77°F), excursions permitted between 15°C and 30°C (59°F and 86°F) [see USP Controlled Room Temperature].
 Dispense in tight container (USP).
 
 Suspension
@@ -45,4 +45,4 @@ Shake well before using.
 
 Use within 7 weeks of first opening the bottle.
 
-Store at 25°C (77°F); excursions permitted to 15°C to 30°C (59°F to 86°F) [see USP Controlled Room Temperature].
+Store at 20°C to 25°C (68°F to 77°F), excursions permitted between 15°C and 30°C (59°F and 86°F) [see USP Controlled Room Temperature].

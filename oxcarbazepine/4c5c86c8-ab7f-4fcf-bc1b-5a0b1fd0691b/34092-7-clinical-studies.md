@@ -7,9 +7,9 @@ The effectiveness of TRILEPTAL as monotherapy for partial-onset seizures in chil
 ## 14.1 TRILEPTAL Monotherapy Trials
 
 Four randomized, controlled, double-blind, multicenter trials, conducted in a predominately adult population, demonstrated the efficacy of TRILEPTAL as monotherapy.
-Two trials compared TRILEPTAL to placebo and 2 trials used a randomized withdrawal design to compare a high dose (2400 mg) with a low dose (300 mg) of TRILEPTAL, after substituting TRILEPTAL 2400 mg/day for 1 or more antiepileptic drugs (AEDs).
-All doses were administered on a twice-a-day schedule.
-A fifth randomized, controlled, rater-blind, multicenter study, conducted in a pediatric population, failed to demonstrate a statistically significant difference between low and high dose TRILEPTAL treatment groups.
+Two trials compared TRILEPTAL to placebo and 2 trials used a randomized withdrawal design to compare a high dose (2400 mg) with a low dose (300 mg) of TRILEPTAL, after substituting TRILEPTAL 2400 mg/day for 1 or more AEDs.
+All doses were administered on a twice a day schedule.
+A fifth randomized, controlled, rater-blind, multicenter study, conducted in a pediatric population, failed to demonstrate a statistically significant difference between low and high dose TRILEPTAL-treatment groups.
 
 One placebo-controlled trial was conducted in 102 patients (11 to 62 years of age) with refractory partial-onset seizures who had completed an inpatient evaluation for epilepsy surgery.
 Patients had been withdrawn from all AEDs and were required to have 2 to 10 partial-onset seizures within 48 hours prior to randomization.

@@ -36,7 +36,7 @@ The reporting rate of TEN and SJS associated with TRILEPTAL use, which is genera
 Estimates of the background incidence rate for these serious skin reactions in the general population range between 0.5 to 6 cases per million-person years.
 Therefore, if a patient develops a skin reaction while taking TRILEPTAL, consideration should be given to discontinuing TRILEPTAL use and prescribing another antiepileptic medication.
 
-Association with HLAB*1502
+Association With HLAB*1502
 
 Patients carrying the HLA-B*1502 allele may be at increased risk for SJS/TEN with Trileptal treatment.
 Human Leukocyte Antigen (HLA) allele B*1502 increases the risk for developing SJS/TEN in patients treated with carbamazepine.
@@ -53,11 +53,11 @@ Consideration should also be given to avoid the use of other drugs associated wi
 Screening is not generally recommended in patients from populations in which the prevalence of HLA-B*1502 is low, or in current TRILEPTAL users, as the risk of SJS/TEN is largely confined to the first few months of therapy, regardless of HLA-B*1502 status.
 
 The use of HLA-B*1502 genotyping has important limitations, and must never substitute for appropriate clinical vigilance and patient management.
-The role of other possible factors in the development of, and morbidity from, SJS/TEN, such as antiepileptic drug (AED) dose, compliance, concomitant medications, comorbidities, and the level of dermatologic monitoring have not been well characterized.
+The role of other possible factors in the development of, and morbidity from, SJS/TEN, such as AED dose, compliance, concomitant medications, comorbidities, and the level of dermatologic monitoring have not been well characterized.
 
 ## 5.5 Suicidal Behavior and Ideation
 
-Antiepileptic drugs (AEDs), including TRILEPTAL, increase the risk of suicidal thoughts or behavior in patients taking these drugs for any indication.
+Antiepileptic drugs, including TRILEPTAL, increase the risk of suicidal thoughts or behavior in patients taking these drugs for any indication.
 Patients treated with any AED for any indication should be monitored for the emergence or worsening of depression, suicidal thoughts or behavior, and/or any unusual changes in mood or behavior.
 
 Pooled analyses of 199 placebo-controlled clinical trials (mono- and adjunctive therapy) of 11 different AEDs showed that patients randomized to one of the AEDs had approximately twice the risk (adjusted Relative Risk 1.8, 95% CI:1.2, 2.7) of suicidal thinking or behavior compared to patients randomized to placebo.
@@ -74,7 +74,7 @@ Table 2 shows absolute and relative risk by indication for all evaluated AEDs.
 
 Table 2: Risk by Indication for Antiepileptic Drugs in the Pooled Analysis
 
-| Indication | Placebo Patients With Events Per 1000 Patients | Drug Patients With Events Per 1000 Patients | Relative Risk: Incidence of Events in Drug Patients/Incidence in Placebo Patients | Risk Difference: Additional Drug Patients with Events Per 1000 Patients |
+| Indication | Placebo Patients With Events Per 1000 Patients | Drug Patients With Events Per 1000 Patients | Relative Risk: Incidence of Events in Drug Patients/Incidence in Placebo Patients | Risk Difference: Additional Drug Patients With Events Per 1000 Patients |
 | --- | --- | --- | --- | --- |
 | Epilepsy | 1.0 | 3.4 | 3.5 | 2.4 |
 | Psychiatric | 5.7 | 8.5 | 1.5 | 2.9 |
@@ -90,15 +90,15 @@ Should suicidal thoughts and behavior emerge during treatment, the prescriber ne
 Patients, their caregivers, and families should be informed that AEDs increase the risk of suicidal thoughts and behavior and should be advised of the need to be alert for the emergence or worsening of the signs and symptoms of depression, any unusual changes in mood or behavior, or the emergence of suicidal thoughts, behavior, or thoughts about self-harm.
 Behaviors of concern should be reported immediately to healthcare providers.
 
-## 5.6 Withdrawal of AEDs
+## 5.6 Withdrawal of Antiepileptic Drugs
 
-As with most antiepileptic drugs, TRILEPTAL should generally be withdrawn gradually because of the risk of increased seizure frequency and status epilepticus [see Dosage and Administration (2.4) and Clinical Studies (14)].
+As with most AEDs, TRILEPTAL should generally be withdrawn gradually because of the risk of increased seizure frequency and status epilepticus [see Dosage and Administration (2.4) and Clinical Studies (14)].
 But if withdrawal is needed because of a serious adverse event, rapid discontinuation can be considered.
 
 ## 5.7 Cognitive/Neuropsychiatric Adverse Reactions
 
-Use of TRILEPTAL has been associated with central nervous system-related adverse reactions.
-The most significant of these can be classified into three general categories: 1) cognitive symptoms including psychomotor slowing, difficulty with concentration, and speech or language problems; 2) somnolence or fatigue; and 3) coordination abnormalities, including ataxia and gait disturbances.
+Use of TRILEPTAL has been associated with CNS-related adverse reactions.
+The most significant of these can be classified into three general categories: 1) cognitive symptoms, including psychomotor slowing, difficulty with concentration, and speech or language problems; 2) somnolence or fatigue; and 3) coordination abnormalities, including ataxia and gait disturbances.
 
 Patients should be monitored for these signs and symptoms and advised not to drive or operate machinery until they have gained sufficient experience on TRILEPTAL to gauge whether it adversely affects their ability to drive or operate machinery.
 
@@ -132,7 +132,7 @@ In addition, 34.8% of oxcarbazepine-treated patients and 14.0% of placebo-treate
 Finally, 23.2% of oxcarbazepine-treated patients and 7.0% of placebo-treated patients experienced ataxia or gait disturbances.
 Two (1.4%) oxcarbazepine-treated patients and 1 (0.8%) placebo-treated patient discontinued due to ataxia or gait disturbances.
 
-## 5.8 Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS)/Multi-Organ Hypersensitivity
+## 5.8 Drug Reaction With Eosinophilia and Systemic Symptoms/Multi-Organ Hypersensitivity
 
 Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS), also known as multi-organ hypersensitivity, has occurred with TRILEPTAL.
 Some of these events have been fatal or life-threatening.

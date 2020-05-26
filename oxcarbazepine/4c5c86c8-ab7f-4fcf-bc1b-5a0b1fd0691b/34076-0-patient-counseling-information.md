@@ -37,7 +37,7 @@ Behaviors of concern should be reported immediately to healthcare providers [see
 
 Driving and Operating Machinery
 
-Advise patients that TRILEPTAL may cause adverse reactions such as dizziness, somnolence, ataxia, visual disturbances, and depressed level of consciousness.
+Advise patients that TRILEPTAL may cause adverse reactions, such as dizziness, somnolence, ataxia, visual disturbances, and depressed level of consciousness.
 Accordingly, advise patients not to drive or operate machinery until they have gained sufficient experience on TRILEPTAL to gauge whether it adversely affects their ability to drive or operate machinery [see Warnings and Precautions (5.7) and Adverse Reactions (6)].
 
 Multi-Organ Hypersensitivity
@@ -59,6 +59,6 @@ Caution should be exercised if alcohol is taken in combination with TRILEPTAL, d
 Pregnancy Registry
 
 Encourage patients to enroll in the North American Antiepileptic Drug (NAAED) Pregnancy Registry if they become pregnant.
-This registry is collecting information about the safety of antiepileptic drugs during pregnancy [see Use in Specific Populations (8.1)].
+This registry is collecting information about the safety of antiepileptic drugs (AEDs) during pregnancy [see Use in Specific Populations (8.1)].
 
-T2019-01
+T2020-66

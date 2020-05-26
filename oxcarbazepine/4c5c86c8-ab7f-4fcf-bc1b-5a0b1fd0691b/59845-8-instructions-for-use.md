@@ -29,6 +29,8 @@ Read these instructions carefully to learn how to use the medicine dispensing sy
 
 Distributed by: Novartis Pharmaceuticals Corporation East Hanover, New Jersey 07936
 
-T2018-33 March 2018
+March 2018
+
+T2018-33
 
 © Novartis

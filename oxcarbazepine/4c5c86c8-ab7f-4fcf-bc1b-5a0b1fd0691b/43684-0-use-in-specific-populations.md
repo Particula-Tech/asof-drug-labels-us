@@ -10,7 +10,7 @@ Encourage women who are taking TRILEPTAL during pregnancy to enroll in the North
 Risk Summary
 
 There are no adequate data on the developmental risks associated with the use of TRILEPTAL in pregnant women; however, TRILEPTAL is closely related structurally to carbamazepine, which is considered to be teratogenic in humans.
-Data on a limited number of pregnancies from pregnancy registries suggest that TRILEPTAL monotherapy use is associated with congenital malformations (e.g., craniofacial defects such as oral clefts, and cardiac malformations such as ventricular septal defects).
+Data on a limited number of pregnancies from pregnancy registries suggest that TRILEPTAL monotherapy use is associated with congenital malformations (e.g., craniofacial defects, such as oral clefts, and cardiac malformations, such as ventricular septal defects).
 Increased incidences of fetal structural abnormalities and other manifestations of developmental toxicity (embryolethality, growth retardation) were observed in the offspring of animals treated with either oxcarbazepine or its active 10-hydroxy metabolite (MHD) during pregnancy at doses similar to the maximum recommended human dose (MRHD).
 
 In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2-4% and 15-20%, respectively.
@@ -25,7 +25,7 @@ Data
 
 Human Data
 
-Data from published registries have reported craniofacial defects such as oral clefts and cardiac malformations such as ventricular septal defects in children with prenatal oxcarbazepine exposure.
+Data from published registries have reported craniofacial defects, such as oral clefts and cardiac malformations, such as ventricular septal defects in children with prenatal oxcarbazepine exposure.
 
 Animal Data
 
@@ -75,4 +75,4 @@ Close monitoring of sodium levels is required in elderly patients at risk for hy
 
 ## 8.6 Renal Impairment
 
-Dose adjustment is recommended for renally impaired patients (CLcr <30 mL/min) [see Dosage and Administration (2.7) and Clinical Pharmacology (12.3)].
+Dose adjustment is recommended for renally impaired patients (CLcr < 30 mL/min) [see Dosage and Administration (2.7) and Clinical Pharmacology (12.3)].
