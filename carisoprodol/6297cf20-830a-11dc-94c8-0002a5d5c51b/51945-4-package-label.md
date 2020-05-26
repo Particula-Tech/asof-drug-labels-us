@@ -19,8 +19,8 @@ Store at controlled room temperature 20°-25°C (68°-77°F).
 
 Meda Pharmaceuticals Inc. Somerset, NJ 08873-4120
 
-LB-90H2-14 Rev.
-5/2018 400940-01
+LB-90G6-05 Rev.
+5/2018 400939-01
 
 # PRINCIPAL DISPLAY PANEL – 350 mg
 
@@ -41,5 +41,5 @@ Store at controlled room temperature 20°-25°C (68°-77°F).
 
 Meda Pharmaceuticals Inc. Somerset, NJ 08873-4120
 
-LB-90G6-05 Rev.
-5/2018 400939-01
+LB-90H2-14 Rev.
+5/2018 400940-01
