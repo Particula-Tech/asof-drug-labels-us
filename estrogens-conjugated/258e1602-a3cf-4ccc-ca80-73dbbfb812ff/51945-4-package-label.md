@@ -1,99 +1,29 @@
-PACKAGE LABEL - PRINCIPAL DISPLAY PANEL - 0.3 MG – LABEL
+# PRINCIPAL DISPLAY PANEL - 0.45 mg Tablet Bottle Label
 
-Pfizer
-
-NDC 0046-1100-81
-
-PREMARIN® (conjugated estrogens tablets, USP)
-
-0.3 mg
-
-100 Tablets
-
-Rx only
-
-PACKAGE LABEL - PRINCIPAL DISPLAY PANEL - 0.3 MG – CARTON
-
-Pfizer
-
-NDC 0046-1100-91 Rx only
-
-PREMARIN® (conjugated estrogens tablets, USP)
-
-0.3 mg
-
-Note: Dispense in tight (USP), child-resistant containers.
-This package not for household use.
-
-1,000 Tablets
-
-PACKAGE LABEL - PRINCIPAL DISPLAY PANEL - 0.3 MG – BLISTER CARD
-
-NDC 0046-1100-51
-
-PROFESSIONAL SAMPLE - NOT FOR SALE
-
-PREMARIN®
-
-(conjugated estrogens tablets, USP)
-
-0.3 mg
-
-Blister card contains five 0.3 mg tablets
-
-Rx only
-
-PANELPACKAGE LABEL - PRINCIPAL DISPLAY PANEL - 0.3 MG - POUCHES
-
-NDC 0046-1100-51
-
-PROFESSIONAL SAMPLE – NOT FOR SALE
-
-PREMARIN®
-
-(conjugated estrogens tablets, USP)
-
-0.3 mg
-
-Visit us at www.PREMARIN.com
-
-Package contains: 1 blister card of 5 tables
-
-Rx only
-
-PACKAGE LABEL - PRINCIPAL DISPLAY PANEL - 0.45 MG – LABEL
-
-Pfizer
-
-NDC 0046-1101-81
+Pfizer NDC 0046-1101-81
 
 PREMARIN® (conjugated estrogens tablets, USP)
 
 0.45 mg
 
-100 Tablets
+100 Tablets Rx only
 
-Rx only
+# PRINCIPAL DISPLAY PANEL - 0.625 mg Tablet Bottle Label
 
-PACKAGE LABEL - PRINCIPAL DISPLAY PANEL - 0.625 MG – LABEL
-
-Pfizer
-
-NDC 0046-1102-81
+Pfizer NDC 0046-1102-91
 
 PREMARIN® (conjugated estrogens tablets, USP)
 
 0.625 mg
 
-100 Tablets
+Note: Dispense in child-resistant packaging.
+This package not for household use.
 
-Rx only
+1,000 Tablets Rx only
 
-PACKAGE LABEL - PRINCIPAL DISPLAY PANEL - 0.625 MG – BOTTLE CARTON
+# PRINCIPAL DISPLAY PANEL - 0.625 mg Tablet Bottle Carton
 
-Pfizer
-
-NDC 0046-1102-91 Rx only
+Pfizer NDC 0046-1102-91 Rx only
 
 PREMARIN® (conjugated estrogens tablets, USP)
 
@@ -104,91 +34,21 @@ This package not for household use.
 
 1,000 Tablets
 
-PACKAGE LABEL - PRINCIPAL DISPLAY PANEL - 0.625 MG - BLISTER CARD
+# PRINCIPAL DISPLAY PANEL - 0.625 mg Tablet Blister Card
 
-NDC 0046-1102-51
+NDC 0046-1102-52
 
 PROFESSIONAL SAMPLE - NOT FOR SALE
 
-PREMARIN®
-
-(conjugated estrogens tablets, USP)
-
-0.625 mg
+PREMARIN® 0.625 mg (conjugated estrogens tablets, USP)
 
 Blister card contains five 0.625 mg tablets
 
 Rx only
 
-PACKAGE LABEL - PRINCIPAL DISPLAY PANEL - 0.625 MG - POUCHES
+# PRINCIPAL DISPLAY PANEL - 1.25 mg Tablet Bottle Label
 
-NDC 0046-1102-51
-
-PROFESSIONAL SAMPLE – NOT FOR SALE
-
-PREMARIN®
-
-(conjugated estrogens tablets, USP)
-
-0.625 mg
-
-Package contains: 1 blister card of 5 tablets
-
-Visit us at www.PREMARIN.com
-
-Rx only
-
-PACKAGE LABEL - PRINCIPAL DISPLAY PANEL - 0.625 MG - CARTON
-
-NDC 0046-1102-51
-
-PROFESSIONAL SAMPLE – NOT FOR SALE
-
-PREMARIN®
-
-(conjugated estrogens tablets, USP)
-
-0.625 mg
-
-Package contains 10 pouches with 1 blister card of 5 tablets each
-
-Visit us at www.PREMARIN.com
-
-Rx only
-
-PACKAGE LABEL - PRINCIPAL DISPLAY PANEL - 0.9 MG – LABEL
-
-Pfizer
-
-NDC 0046-1103-81
-
-PREMARIN® (conjugated estrogens tablets, USP)
-
-0.9 mg
-
-100 Tablets
-
-Rx only
-
-PACKAGE LABEL - PRINCIPAL DISPLAY PANEL - 1.25 MG – LABEL
-
-Pfizer
-
-NDC 0046-1104-81
-
-PREMARIN® (conjugated estrogens tablets, USP)
-
-1.25 mg
-
-100 Tablets
-
-Rx only
-
-PRINCIPAL DISPLAY PANEL - 1.25 mg Tablet Bottle Carton
-
-Pfizer
-
-NDC 0046-1104-91
+Pfizer NDC 0046-1104-91
 
 PREMARIN® (conjugated estrogens tablets, USP)
 
@@ -197,58 +57,65 @@ PREMARIN® (conjugated estrogens tablets, USP)
 Note: Dispense in tight (USP), child-resistant containers.
 This package not for household use.
 
+1,000 Tablets Rx only
+
+# PRINCIPAL DISPLAY PANEL - 1.25 mg Tablet Bottle Carton
+
+Pfizer NDC 0046-1104-91
+
+PREMARIN® (conjugated estrogens tablets, USP)
+
+1.25 mg
+
+Note: Dispense in tight (USP), child-resistant containers.
+This package not for household use.
+
+1,000 Tablets Rx only
+
+# PRINCIPAL DISPLAY PANEL - 0.3 mg Tablet Bottle Label
+
+Pfizer NDC 0046-1100-91
+
+PREMARIN® (conjugated estrogens tablets, USP)
+
+0.3 mg
+
+Note: Dispense in child-resistant packaging.
+This package not for household use.
+
+1,000 Tablets Rx only
+
+# PRINCIPAL DISPLAY PANEL - 0.3 mg Tablet Bottle Carton
+
+Pfizer NDC 0046-1100-91 Rx only
+
+PREMARIN® (conjugated estrogens tablets, USP)
+
+0.3 mg
+
+Note: Dispense in tight (USP), child-resistant containers.
+This package not for household use.
+
 1,000 Tablets
 
-Rx only
+# PRINCIPAL DISPLAY PANEL - 0.3 mg Tablet Blister Card
 
-PACKAGE LABEL - PRINCIPAL DISPLAY PANEL - 1.25 MG – BLISTER CARD
-
-NDC 0046-1104-51
+NDC 0046-1100-52
 
 PROFESSIONAL SAMPLE - NOT FOR SALE
 
-PREMARIN®
+PREMARIN® 0.3 mg (conjugated estrogens tablets, USP)
 
-(conjugated estrogens tablets, USP)
-
-1.25 mg
-
-Blister card contains five 1.25 mg tablets
+Blister card contains five 0.3 mg tablets
 
 Rx only
 
-PACKAGE LABEL - PRINCIPAL DISPLAY PANEL - 1.25 MG - POUCHES
+# PRINCIPAL DISPLAY PANEL - 0.9 mg Tablet Bottle Label
 
-NDC 0046-1104-51
+Pfizer NDC 0046-1103-81
 
-PROFESSIONAL SAMPLE - NOT FOR SALE
+PREMARIN® (conjugated estrogens tablets, USP)
 
-PREMARIN®
+0.9 mg
 
-(conjugated estrogens tablets, USP)
-
-1.25 mg
-
-Package contains: 1 blister card of 5 tablets
-
-Visit us at www.PREMARIN.com
-
-Rx only
-
-PACKAGE LABEL - PRINCIPAL DISPLAY PANEL - 1.25 MG - CARTON
-
-NDC 0046-1104-51
-
-PROFESSIONAL SAMPLE - NOT FOR SALE
-
-PREMARIN®
-
-(conjugated estrogens tablets, USP)
-
-1.25 mg
-
-Package contains 10 pouches with 1 blister card of 5 tablets each
-
-Visit us at www.PREMARIN.com
-
-Rx only
+100 Tablets Rx only
