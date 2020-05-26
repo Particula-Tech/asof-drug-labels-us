@@ -1,4 +1,4 @@
-# PRINCIPAL DISPLAY PANEL - 4 mg Pouch Box
+# PRINCIPAL DISPLAY PANEL - 4 mg Film Pouch Box
 
 NDC 89141-444-30
 
@@ -10,7 +10,7 @@ Rx only
 
 30 Films
 
-# PRINCIPAL DISPLAY PANEL - 8 mg Pouch Box
+# PRINCIPAL DISPLAY PANEL - 8 mg Film Pouch Box
 
 NDC 89141-448-30
 

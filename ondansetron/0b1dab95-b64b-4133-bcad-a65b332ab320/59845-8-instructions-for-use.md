@@ -28,10 +28,10 @@ Keep ZUPLENZ and all medicines out of the reach of children.
 
 This "Instructions for Use" has been approved by the U.S. Food and Drug Administration.
 
-Manufactured by: Aquestive Therapeutics Warren, NJ 07059
+Manufactured by: Aquestive Therapeutics 30 Technology Drive South Warren, NJ 07059
 
-Distributed by: Midatech Pharma US Inc. Raleigh, NC 27615
+Distributed by: Fortovia Therapeutics Inc. 8540 Colonnade Center Dr., Suite 101 Raleigh, NC 27615
 
-Revised: April 2019
+Revised: June 2019
 
-©2019 Midatech Pharma US Inc.
+©2019 Fortovia Therapeutics Inc.

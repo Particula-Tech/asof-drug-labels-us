@@ -5,7 +5,7 @@ ZUPLENZ (ondansetron) oral soluble film is a white opaque orally dissolving film
 ZUPLENZ does not require water to aid dissolution or swallowing.
 
 The active ingredient in ZUPLENZ is ondansetron base, the racemic form of ondansetron, and a selective blocking agent of the serotonin 5-HT3 receptor type.
-Chemically it is (±) 1, 2, 3, 9-tetrahydro-9-methyl-3-[(2-methyl-1H-imidazol-1-yl)methyl]-4H ­carbazol-4-one.
+Chemically it is (±) 1, 2, 3, 9-tetrahydro-9-methyl-3-[(2-methyl-1H-imidazol-1-yl)methyl]-4H -carbazol-4-one.
 
 | Figure 1: Structural formula of ondansetron |
 | --- |

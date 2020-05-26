@@ -8,7 +8,7 @@ Serotonin receptors of the 5-HT3 type are present both peripherally on vagal ner
 It is not certain whether ondansetron' s antiemetic action is mediated centrally, peripherally, or in both sites.
 However, cytotoxic chemotherapy appears to be associated with release of serotonin from the enterochromaffin cells of the small intestine.
 In humans, urinary 5-HIAA (5-hydroxyindoleacetic acid) excretion increases after cisplatin administration in parallel with the onset of emesis.
-The released serotonin may stimulate the vagal afferents through the 5 HT3 receptors and initiate the vomiting reflex.
+The released serotonin may stimulate the vagal afferents through the 5-HT3 receptors and initiate the vomiting reflex.
 In animals, the emetic response to cisplatin can be prevented by pretreatment with an inhibitor of serotonin synthesis, bilateral abdominal vagotomy and greater splanchnic nerve section, or pretreatment with a serotonin 5-HT3 receptor antagonist.
 
 ## 12.2 Pharmacodynamics

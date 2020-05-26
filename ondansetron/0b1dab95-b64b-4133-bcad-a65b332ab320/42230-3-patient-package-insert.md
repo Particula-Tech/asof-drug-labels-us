@@ -118,6 +118,6 @@ This Patient Information has been approved by the U.S. Food and Drug Administrat
 
 Manufactured by: Aquestive Therapeutics Warren, NJ 07059
 
-Distributed by: Midatech Pharma US Inc. Raleigh, NC 27615
+Distributed by: Fortovia Therapeutics Inc. Raleigh, NC 27615
 
-Revised: April 2019
+Revised: June 2019
