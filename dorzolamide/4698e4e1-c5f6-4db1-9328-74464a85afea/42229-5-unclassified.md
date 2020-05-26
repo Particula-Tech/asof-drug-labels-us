@@ -19,7 +19,7 @@ Tilt your head back and pull your lower eyelid down slightly to form a pocket be
 (See Figure D).
 
 Step 5.
-Turn your dorzolamide hydrochloride ophthalmic solution dispenser upside down and press lightly with your thumb until a single drop is placed in your eye.
+Turn your dorzolamide hydrochloride ophthalmic solution dispenser upside down and hold and press gently middle of the bottle with your thumb until a single drop is placed in your eye.
 Do not touch your eye or eyelid with the dropper tip.
 (See Figure E).
 
