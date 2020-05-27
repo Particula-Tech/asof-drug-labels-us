@@ -26,15 +26,13 @@ IMPORTANT Discard inhaler when dose counter displays 0, or after the expiration 
 Store inhaler at controlled room temperature between 15°C and 25°C (59°F and 77°F).
 Avoid exposure to extreme heat, cold, or humidity.
 
-Mktd. by: Teva Respiratory, LLC Frazer, PA 19355
+Distributed by: Teva Pharmaceuticals USA, Inc.
 
-Mfd. by: Teva Pharmaceutical Industries, Ltd. Jerusalem, Israel
+Parsippany, NJ 07054
 
-MANUFACTURED IN ISRAEL
+MANUFACTURED IN IRELAND
 
-©2018 Teva Respiratory, LLC
-
-ProAir® and DigihalerTM are trademarks owned by Teva Respiratory, LLC.
+©2020 Teva Respiratory, LLC
 
 FCC ID: 2AJVSPDR0000401
 
@@ -42,7 +40,7 @@ For California Only: This product uses batteries containing Perchlorate Material
 See www.dtsc.ca.gov/hazardouswaste/perchlorate [22 CCR 67384.4(a)].
 
 Rev.
-12/2018
+03/2020
 
 # Packaging/Label Display Panel 59310-540-20
 
@@ -74,15 +72,13 @@ IMPORTANT Discard inhaler when dose counter displays 0, or after the expiration 
 Store inhaler at controlled room temperature between 15°C and 25°C (59°F and 77°F).
 Avoid exposure to extreme heat, cold, or humidity.
 
-Mktd. by: Teva Respiratory, LLC Frazer, PA 19355
+Distributed by: Teva Pharmaceuticals USA, Inc.
 
-Mfd. by: Teva Pharmaceutical Industries, Ltd. Jerusalem, Israel
+Parsippany, NJ 07054
 
-MANUFACTURED IN ISRAEL
+MANUFACTURED IN IRELAND
 
-©2018 Teva Respiratory, LLC
-
-ProAir® and DigihalerTM are trademarks owned by Teva Respiratory, LLC.
+©2020 Teva Respiratory, LLC
 
 FCC ID: 2AJVSPDR0000401
 
@@ -90,4 +86,4 @@ For California Only: This product uses batteries containing Perchlorate Material
 See www.dtsc.ca.gov/hazardouswaste/perchlorate [22 CCR 67384.4(a)].
 
 Rev.
-12/2018
+03/2020

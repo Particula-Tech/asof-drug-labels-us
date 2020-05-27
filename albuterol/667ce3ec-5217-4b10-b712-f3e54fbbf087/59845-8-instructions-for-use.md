@@ -76,6 +76,8 @@ Storing your ProAir Digihaler inhaler
 - Avoid exposure to extreme heat, cold, or humidity.
 - Keep the red cap on the inhaler closed during storage.
 - Keep your ProAir Digihaler inhaler dry and clean at all times.
+- Do not wash or put any part of your ProAir Digihaler inhaler in water.
+  Replace your inhaler if washed or placed in water.
 - Keep your ProAir Digihaler inhaler and all medicines out of the reach of children.
 
 Cleaning your ProAir Digihaler inhaler
@@ -103,15 +105,25 @@ Support
 - For instructions on setting up the App, go to www.ProAirDigihaler.com or call Teva at 1-888-603-0788.
 - If you have any questions about ProAir Digihaler, how to use your inhaler, go to www.ProAirDigihaler.com or call 1-888-603-0788.
 
+This device complies with part 15 of the FCC Rules.
+Operation is subject to the following two conditions: (1) This device may not cause harmful interference, and (2) this device must accept any interference received, including interference that may cause undesired operation.
+Changes or modifications not expressly approved by Teva could void the user’s authority to operate the equipment.
+
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
 The Bluetooth® word mark and logos are registered trademarks owned by the Bluetooth
 
 SIG, Inc. and any use of such marks by Teva Respiratory, LLC is under license.
 
-Marketed by: Teva Respiratory, LLC, Frazer, PA 19355; Copyright ã2017, Teva Respiratory, LLC; All rights reserved.
+Distributed by:
 
-PRODHIFU-001
+Teva Pharmaceuticals USA, Inc.
 
-Rev.
-12/2018
+Parsippany, NJ 07054
+
+ã2020 Teva Respiratory, LLC.
+All rights reserved.
+
+PRODHIFU-002
+
+Revised March 2020

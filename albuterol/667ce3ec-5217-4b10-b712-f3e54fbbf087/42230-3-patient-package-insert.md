@@ -94,6 +94,7 @@ ProAir Digihaler may cause serious side effects, including:
 - worsening trouble breathing
 
 - worsening of other medical problems in people who also use ProAir Digihaler including increases in blood sugar
+
 - low potassium levels in your blood
 
 The most common side effects of ProAir Digihaler include:
@@ -124,6 +125,8 @@ How should I store ProAir Digihaler?
 - Avoid exposure to extreme heat, cold, or humidity.
 - Keep the cap on the inhaler closed during storage.
 - Keep your ProAir Digihaler inhaler dry and clean at all times.
+- Do not wash or put any part of your ProAir Digihaler inhaler in water.
+  Replace your inhaler if washed or placed in water.
 
 Keep ProAir Digihaler and all medicines out of the reach of children.
 
@@ -146,9 +149,15 @@ For more information about ProAir Digihaler, call1-888-603-0788.or go to www.Pro
 
 The Bluetooth® word mark and logos are registered trademarks owned by the Bluetooth SIG, Inc. and any use of such marks by Teva Respiratory, LLC is under license.
 
-Marketed by: Teva Respiratory, LLC, Frazer, PA 19355; Copyright ã2018, Teva Respiratory, LLC; All rights reserved.
+Distributed by:
 
-PRODHPL-001
+Teva Pharmaceuticals USA, Inc.
 
-Rev.
-12/2018
+Parsippany, NJ 07054
+
+ã2020,Teva Respiratory, LLC.
+All rights reserved.
+
+PRODHPL-002
+
+Revised March 2020
