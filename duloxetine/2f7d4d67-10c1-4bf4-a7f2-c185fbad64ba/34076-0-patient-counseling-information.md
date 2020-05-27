@@ -46,4 +46,4 @@ Marketed by: Lilly USA, LLC, Indianapolis, IN 46285, USA
 Copyright © 2004, 2020, Eli Lilly and Company.
 All rights reserved.
 
-CYM-0011-USPI-20200420
+CYM-0012-USPI-20200521
