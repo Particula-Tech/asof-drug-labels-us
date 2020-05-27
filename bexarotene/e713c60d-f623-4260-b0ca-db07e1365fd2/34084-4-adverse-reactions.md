@@ -64,11 +64,10 @@ Urogenital: albuminuria, hematuria, urinary incontinence, urinary tract infectio
 
 Table 2: Adverse Events with Incidence ≥10% in CTCL Trials
 
-|  | Initial Assigned Dose Group (mg/m2/day) |  |
+| Body System Adverse Event 1,2 | Initial Assigned Dose Group (mg/m2/day) |  |
 | --- | --- | --- |
-|  | 300 | >300 |
-| Body System | N = 84 | N = 53 |
-| Adverse Event 1,2 | N (%) | N (%) |
+| 300 | >300 |  |
+| N = 84 N (%) | N = 53 N (%) |  |
 | METABOLIC AND NUTRITIONAL DISORDERS |  |  |
 | Hyperlipemia | 66 (79) | 42 (79) |
 | Hypercholesteremia | 27 (32) | 33 (62) |
@@ -105,17 +104,15 @@ Table 2: Adverse Events with Incidence ≥10% in CTCL Trials
 | Insomnia | 4 (5) | 6 (11) |
 
 1 Preferred English term coded according to Ligand-modified COSTART 5 Dictionary.
-
 2 Patients are counted at most once in each AE category.
 
 Table 3: Incidence of Moderately Severe and Severe Adverse Events Reported in at Least Two Patients (CTCL Trials)
 
 |  | Initial Assigned Dose Group (mg/m2/day) |  |  |  |
 | --- | --- | --- | --- | --- |
-|  | 300 (N = 84) |  | >300 (N = 53) |  |
-|  | Mod Sev | Severe | Mod Sev | Severe |
-| Body System |  |  |  |  |
-| Adverse Event 1,2 | N (%) | N (%) | N (%) | N (%) |
+| 300 (N = 84) |  | >300 (N = 53) |  |  |
+| Mod Sev | Severe | Mod Sev | Severe |  |
+| Body System Adverse Event 1,2 | N (%) | N (%) | N (%) | N (%) |
 | BODY AS A WHOLE |  |  |  |  |
 | Asthenia | 1 (1) | 0 (0) | 11 (21) | 0 (0) |
 | Headache | 3 (4) | 0 (0) | 5 (9) | 1 (2) |
@@ -144,38 +141,35 @@ Table 3: Incidence of Moderately Severe and Severe Adverse Events Reported in at
 | Rash | 1 (1) | 2 (2) | 1 (2) | 0 (0) |
 
 1 Preferred English term coded according to Ligand-modified COSTART 5 Dictionary.
-
 2 Patients are counted at most once in each AE category.
 Patients are classified by the highest severity within each row.
 
 Table 4: Treatment-Emergent Abnormal Laboratory Values in CTCL Trials
 
-|  | Initial Assigned Dose (mg/m2/day) |  |  |  |  |
-| --- | --- | --- | --- | --- | --- |
-|  | 300 |  |  | >300 |  |
-|  | N = 831 |  |  | N = 531 |  |
-| Analyte | Grade 32 (%) | Grade 42(%) |  | Grade 3(%) | Grade 4(%) |
-| Triglycerides3 | 21 | 7 |  | 32 | 14 |
-| Total Cholesterol3 | 19 | 7 |  | 16 | 30 |
-| Alkaline Phosphatase | 1 | 0 |  | 0 | 2 |
-| Hyperglycemia | 1 | 0 |  | 6 | 0 |
-| Hypocalcemia | 1 | 0 |  | 0 | 0 |
-| Hyponatremia | 1 | 0 |  | 9 | 0 |
-| SGPT/ALT | 1 | 0 |  | 2 | 2 |
-| Hyperkalemia | 0 | 0 |  | 2 | 0 |
-| Hypernatremia | 0 | 1 |  | 0 | 0 |
-| SGOT/AST | 0 | 0 |  | 2 | 2 |
-| Total Bilirubin | 0 | 0 |  | 0 | 2 |
-| ANC decreased | 12 | 4 |  | 19 | 8 |
-| ALC decreased | 7 | 0 |  | 15 | 0 |
-| WBC decreased | 4 | 0 |  | 11 | 0 |
-| Hemoglobin decreased | 0 | 0 |  | 2 | 0 |
+|  | Initial Assigned Dose (mg/m2/day) |  |  |  |
+| --- | --- | --- | --- | --- |
+| 300 |  | >300 |  |  |
+| N = 831 |  | N = 531 |  |  |
+| Analyte | Grade 32 (%) | Grade 42 (%) | Grade 3 (%) | Grade 4 (%) |
+| Triglycerides3 | 21 | 7 | 32 | 14 |
+| Total Cholesterol3 | 19 | 7 | 16 | 30 |
+| Alkaline Phosphatase | 1 | 0 | 0 | 2 |
+| Hyperglycemia | 1 | 0 | 6 | 0 |
+| Hypocalcemia | 1 | 0 | 0 | 0 |
+| Hyponatremia | 1 | 0 | 9 | 0 |
+| SGPT/ALT | 1 | 0 | 2 | 2 |
+| Hyperkalemia | 0 | 0 | 2 | 0 |
+| Hypernatremia | 0 | 1 | 0 | 0 |
+| SGOT/AST | 0 | 0 | 2 | 2 |
+| Total Bilirubin | 0 | 0 | 0 | 2 |
+| ANC decreased | 12 | 4 | 19 | 8 |
+| ALC decreased | 7 | 0 | 15 | 0 |
+| WBC decreased | 4 | 0 | 11 | 0 |
+| Hemoglobin decreased | 0 | 0 | 2 | 0 |
 
 1 Number of patients with at least one analyte value post-baseline.
-
 2 Adapted from NCI Common Toxicity Criteria, Grade 3 and 4, Version 2.0.
 Patients are considered to have had a Grade 3 or 4 value if either of the following occurred: a) Value becomes Grade 3 or 4 during the study; b) Value is abnormal at baseline and worsens to Grade 3 or 4 on study, including all values beyond study drug discontinuation, as defined in data handling conventions.
-
 3 The denominator used to calculate the incidence rates for fasting Total Cholesterol and Triglycerides were N=75 for the 300 mg/m2/day initial dose group and N=44 for the >300 mg/m2/day initial dose group.
 
 The safety profile from the one post-approval trial with 59 subjects was generally comparable to that of the pivotal trials with the exception of serious adverse events hypertriglyceridemia, neutropenia and bone marrow failure which were observed more frequently in the bexarotene capsule 300 mg/m2/day group than in the bexarotene capsule 150 mg/m2/day group.
