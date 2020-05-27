@@ -29,3 +29,10 @@ Discontinue DELZICOL if an alternative etiology for the signs or symptoms cannot
 
 There have been reports of hepatic failure in patients with pre-existing liver disease who have been administered mesalamine.
 Evaluate the risk and benefits of using DELZICOL in patients with known liver impairment.
+
+## 5.5 Iron Content of DELZICOL
+
+DELZICOL contains iron oxide as a colorant in the coating of the delayed-release capsules.
+Each 400 mg delayed-release capsule contains 2.7 mg of iron.
+The total content of iron is 16.4 mg at the maximum recommended daily dosage in adults [see Dosage and Administration (2.2)].
+Before prescribing DELZICOL to patients receiving iron supplementation or those at risk of developing iron overload, consider the combined daily amount of iron from all sources, including DELZICOL.
