@@ -22,6 +22,8 @@ No significant potency losses have been noted following simulated delivery of th
 
 Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration whenever solution and container permit.
 
+Discard unused portion.
+
 ## 2.2 Dosing in Patients with Heparin-Induced Thrombocytopenia
 
 ### Initial Dosage

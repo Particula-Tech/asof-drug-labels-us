@@ -28,10 +28,12 @@ Store at 20° to 25°C (68° to 77°F).
 
 DO NOT FREEZE.
 
+Discard unused portion.
+
 Manufactured for: Mylan Institutional LLC Rockford, IL 61103 U.S.A.
 
 Manufactured by: Mylan Institutional Galway, Ireland
 
-MI:212:1C:R5
+MI:212:1C:R6
 
 Mylan.com

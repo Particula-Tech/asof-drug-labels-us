@@ -10,6 +10,8 @@ Storage: Store the vials in original cartons at 20° to 25°C (68° to 77°F).
 
 Do not freeze.
 
+Discard unused portion.
+
 Retain in the original carton to protect from light.
 
 If the solution is cloudy, or if an insoluble precipitate is noted, the vial should be discarded.
