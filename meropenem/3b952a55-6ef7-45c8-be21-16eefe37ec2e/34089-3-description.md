@@ -11,7 +11,7 @@ The constituted solution varies from colorless to yellow depending on the concen
 The pH of freshly constituted solutions is between 7.3 and 8.3.
 Meropenem is soluble in 5% monobasic potassium phosphate solution, sparingly soluble in water, very slightly soluble in hydrated ethanol, and practically insoluble in acetone or ether.
 
-Meropenem for Injection USP and Sodium Chloride Injection USP is supplied as a sterile, nonpyrogenic, single-use packaged combination of meropenem (drug chamber) and 50 mL of sodium chloride (diluent) in the DUPLEX® sterile container.
+Meropenem for Injection USP and Sodium Chloride Injection USP is supplied as a sterile, nonpyrogenic, single-dose packaged combination of meropenem (drug chamber) and 50 mL of sodium chloride (diluent) in the DUPLEX® sterile container.
 When reconstituted as instructed, each 1 gram Meropenem for injection in the DUPLEX® Container will deliver 1 gram of meropenem and a total sodium content of 290.2 mg (12.6 mEq).
 Each 500 mg Meropenem for injection in the DUPLEX® Container will deliver 500 mg of meropenem and a total sodium content of 245.1 mg (10.7 mEq) [see Dosage and Administration (2.4)].
 The osmolality of the reconstituted solution of Meropenem for Injection USP and Sodium Chloride Injection USP is approximately 356 mOsmol/kg for the 500 mg dose and approximately 417 mOsmol/kg for the 1 gram dose.

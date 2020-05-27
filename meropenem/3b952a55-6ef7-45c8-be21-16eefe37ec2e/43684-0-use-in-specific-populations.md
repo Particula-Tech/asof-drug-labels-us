@@ -18,7 +18,7 @@ In the U.S. general population, the estimated background risk of major birth def
 
 Reproductive studies have been performed with meropenem in rats at doses of up to 1000 mg/kg/day and in cynomolgus monkeys at doses of up to 360 mg/kg/day (on the basis of body surface area comparisons, approximately 3.2 times and 2.3 times higher, respectively, than the maximum recommended human dose of 1 gram every 8 hours).
 These studies revealed no evidence of harm to the fetus due to meropenem, although there were slight changes in fetal body weight at doses of 250 mg/kg/day (equivalent to approximately 0.8 times the maximum recommended human dose of 1 gram every 8 hours based on body surface area comparison) and above in rats.
-In a published study1, meropenem administered to pregnant rats from Gestation Day 6 to Gestation Day 17, was associated with mild maternal weight loss at all doses, but did not produce malformations or fetal toxicity.
+In a published study2, meropenem administered to pregnant rats from Gestation Day 6 to Gestation Day 17, was associated with mild maternal weight loss at all doses, but did not produce malformations or fetal toxicity.
 The no-observed-adverse-effect-level (NOAEL) for fetal toxicity in this study was considered to be the high dose of 750 mg/kg/day (equivalent to approximately 2.4 times the highest recommended human dose based on body surface area comparison).
 
 In a peri-postnatal study in rats described in the published literature1, intravenous meropenem was administered to dams from Gestation Day 17 until Postpartum Day 21.
@@ -32,11 +32,11 @@ The NOAEL value was considered to be 1000 mg/kg/day (approximately 3.2 times the
 
 Meropenem has been reported to be excreted in human milk.
 No information is available on the effects of meropenem on the breastfed –child or on milk production.
-The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for Meropenem for Injection USP and Sodium Chloride Injection USP in the DUPLEX® Container and any potential adverse effects on the breastfed-child from Meropenem for Injection USP and Sodium Chloride Injection USP in the DUPLEX® Container or from the underlying maternal conditions.
+The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for Meropenem for Injection and Sodium Chloride Injection in the DUPLEX® Container and any potential adverse effects on the breastfed-child from Meropenem for Injection and Sodium Chloride Injection in the DUPLEX® Container or from the underlying maternal conditions.
 
 ## 8.4 Pediatric Use
 
-Meropenem for Injection USP and Sodium Chloride Injection USP in the DUPLEX® Container is designed to deliver a 500 mg or 1 gram dose of meropenem.
+Meropenem for Injection and Sodium Chloride Injection in the DUPLEX® Container is designed to deliver a 500 mg or 1 gram dose of meropenem.
 To prevent unintentional overdose, this product should not be used in pediatric patients who require less than the full adult dose of meropenem.
 Meropenem is not to be used in pediatric patients aged less than three months.
 [see Dosage and Administration (2.3)].
@@ -56,11 +56,11 @@ Because elderly patients are more likely to have decreased renal function, care 
 
 A pharmacokinetic study with meropenem for injection in elderly patients has shown a reduction in the plasma clearance of meropenem that correlates with age-associated reduction in creatinine clearance [see Clinical Pharmacology (12.3)].
 
-Each 500 mg of Meropenem for Injection USP and Sodium Chloride Injection USP delivers 245.1 mg (10.7 mEq) of sodium and each 1 gram of Meropenem for Injection USP and Sodium Chloride Injection USP delivers 290.2 mg (12.6 mEq) of sodium.
+Each 500 mg of Meropenem for Injection and Sodium Chloride Injection delivers 245.1 mg (10.7 mEq) of sodium and each 1 gram of Meropenem for Injection and Sodium Chloride Injection delivers 290.2 mg (12.6 mEq) of sodium.
 At the usual recommended doses of 500 mg or 1000 mg every 8 hours, patients would receive between 735 mg/day and 870 mg/day (32 mEq and 38 mEq) of sodium.
 The geriatric population may respond with a blunted natriuresis to salt loading.
-This may be clinically important with regard to such diseases as congestive heart failure [see Contraindications (4) and Warnings and Precautions (5.11)].
+This may be clinically important with regard to such diseases as congestive heart failure [see Contraindications (4) and Warnings and Precautions (5.10)].
 
 ## 8.6 Patients with Renal Impairment
 
-Dosage adjustment is necessary in patients with creatinine clearance 50 mL/min or less [see Dosage and Administration (2.2), Warnings and Precautions (5.7), and Clinical Pharmacology (12.3)].
+Dosage adjustment is necessary in patients with creatinine clearance 50 mL/min or less [see Dosage and Administration (2.2), Warnings and Precautions (5.8), and Clinical Pharmacology (12.3)].

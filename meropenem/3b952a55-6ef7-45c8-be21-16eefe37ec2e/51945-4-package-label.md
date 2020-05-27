@@ -14,16 +14,16 @@ USE ONLY AFTER MIXING CONTENTS OF BOTH CHAMBERS.
 
 FOR INTRAVENOUS INFUSION ONLY
 
-SINGLE DOSE
+SINGLE-DOSE
 
 * Contains sterile meropenem trihydrate USP equivalent to 500 mg of meropenem activity and sodium carbonate as a buffering agent.
 
 Hyperosmotic Sterile/Nonpyrogenic
 
-After reconstitution each 50 mL single dose DUPLEX® unit contains Meropenem for Injection USP (equivalent to 500 mg meropenem) and a total sodium content of 245.1 mg (10.7 mEq).
+After reconstitution each 50 mL single-dose DUPLEX® unit contains Meropenem for Injection USP (equivalent to 500 mg meropenem) and a total sodium content of 245.1 mg (10.7 mEq).
 Approximate osmolality: 356 mOsmol/kg
 
-Prior to Reconstitution: Store at 20-25°C (68-77°F).
+Prior to Reconstitution: Store at 20°C-25°C (68°F-77°F).
 [See USP Controlled Room Temperature.]
 Use only if container and seals are intact.
 Do not peel foil strip until ready for use.
@@ -42,6 +42,7 @@ Do not introduce additives into this container.
 Prior to administration check for minute leaks by squeezing container firmly.
 If leaks are found, discard container and solution as sterility may be impaired.
 Do not freeze.
+Discard unused portion.
 
 Not made with natural rubber latex, PVC or DEHP.
 
@@ -49,14 +50,14 @@ REF 3183-11
 
 Rx only
 
-E113USMERO501
+E113USMERO502
 
 Manufactured for: B. Braun Medical Inc.
 
 Prepared in Italy.
 API from Italy and Austria.
 
-Y37-002-557 LD-440-3
+Y37-002-563 LD-440-4
 
 EXP
 
@@ -78,16 +79,16 @@ USE ONLY AFTER MIXING CONTENTS OF BOTH CHAMBERS.
 
 FOR INTRAVENOUS INFUSION ONLY
 
-SINGLE DOSE
+SINGLE-DOSE
 
 * Contains sterile meropenem trihydrate USP equivalent to 1 g of meropenem activity and sodium carbonate as a buffering agent.
 
 Hyperosmotic Sterile/Nonpyrogenic
 
-After reconstitution each 50 mL single dose DUPLEX® unit contains Meropenem for Injection USP (equivalent to 1 g meropenem) and a total sodium content of 290.2 mg (12.6 mEq).
+After reconstitution each 50 mL single-dose DUPLEX® unit contains Meropenem for Injection USP (equivalent to 1 g meropenem) and a total sodium content of 290.2 mg (12.6 mEq).
 Approximate osmolality: 417 mOsmol/kg
 
-Prior to Reconstitution: Store at 20-25°C (68-77°F).
+Prior to Reconstitution: Store at 20°C-25°C (68°F-77°F).
 [See USP Controlled Room Temperature.]
 Use only if container and seals are intact.
 Do not peel foil strip until ready for use.
@@ -106,6 +107,7 @@ Do not introduce additives into this container.
 Prior to administration check for minute leaks by squeezing container firmly.
 If leaks are found, discard container and solution as sterility may be impaired.
 Do not freeze.
+Discard unused portion.
 
 Not made with natural rubber latex, PVC or DEHP.
 
@@ -113,14 +115,14 @@ REF 3185-11
 
 Rx only
 
-E113USMERO101
+E113USMERO102
 
 Manufactured for: B. Braun Medical Inc.
 
 Prepared in Italy.
 API from Italy and Austria.
 
-Y37-002-558 LD-439-3
+Y37-002-564 LD-439-4
 
 EXP
 

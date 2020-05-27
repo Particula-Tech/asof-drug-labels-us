@@ -11,9 +11,9 @@ The study included 510 patients randomized to meropenem and 527 patients randomi
 Two hundred and sixty one (261) patients randomized to meropenem and 287 patients randomized to imipenem-cilastatin were clinically evaluable.
 The success rates in the clinically evaluable patients at the follow-up visit were 86% (225/261) in the meropenem arm and 83% (238/287) in imipenem-cilastatin arm.
 
-The success rates for clinically evaluable population are provided in Table 4.
+The success rates for clinically evaluable population are provided in Table 5.
 
-Table 4: Success Rates at Test-of-Cure Visit for Clinically Evaluable Population with Complicated Skin and Skin Structure Infections
+Table 5: Success Rates at Test-of-Cure Visit for Clinically Evaluable Population with Complicated Skin and Skin Structure Infections
 
 | Population | Meropenem for Injection nn=number of patients with satisfactory response./NN=number of patients in the clinically evaluable population or respective subgroup within treatment groups.(%) | Imipenem-cilastatin n/N(%) |
 | --- | --- | --- |
@@ -25,10 +25,10 @@ Table 4: Success Rates at Test-of-Cure Visit for Clinically Evaluable Population
 | Men | 130/148 (88) | 137/172 (80) |
 | Women | 95/113 (84) | 101/115 (88) |
 
-The clinical efficacy rates by pathogen are provided in Table 5.
+The clinical efficacy rates by pathogen are provided in Table 6.
 The values represent the number of patients clinically cured/number of clinically evaluable patients at the post-treatment follow-up visit, with the percent cure in parentheses (Fully Evaluable analysis set).
 
-Table 5: Clinical Efficacy Rates by Pathogen for Clinically Evaluable Population
+Table 6: Clinical Efficacy Rates by Pathogen for Clinically Evaluable Population
 
 | MICROORGANISMSPatients may have more than one pretreatment pathogen. | Meropenem for Injection nn=number of patients with satisfactory response./NN=number of patients in the clinically evaluable population or subgroup within treatment groups.(%)%= Percent of satisfactory clinical response at follow-up evaluation. | Imipenem-cilastatin n/N (%) |
 | --- | --- | --- |
@@ -53,9 +53,9 @@ The proportion of patients who discontinued study treatment due to an adverse ev
 One controlled clinical study of complicated intra-abdominal infection was performed in the United States where meropenem was compared with clindamycin/tobramycin.
 Three controlled clinical studies of complicated intra-abdominal infections were performed in Europe; meropenem was compared with imipenem (two trials) and cefotaxime/metronidazole (one trial).
 
-Using strict evaluability criteria and microbiologic eradication and clinical cures at follow-up which occurred 7 or more days after completion of therapy, the presumptive microbiologic eradication/clinical cure rates and statistical findings are provided in Table 6.
+Using strict evaluability criteria and microbiologic eradication and clinical cures at follow-up which occurred 7 or more days after completion of therapy, the presumptive microbiologic eradication/clinical cure rates and statistical findings are provided in Table 7.
 
-Table 6: Presumptive Microbiologic Eradication and Clinical Cure Rates at Test-of-Cure Visit in the Evaluable population with Complicated intra-abdominal infections
+Table 7: Presumptive Microbiologic Eradication and Clinical Cure Rates at Test-of-Cure Visit in the Evaluable population with Complicated intra-abdominal infections
 
 | Treatment Arm | No. evaluable/ No. enrolled (%) | Microbiologic Eradication Rate | Clinical Cure Rate | Outcome |
 | --- | --- | --- | --- | --- |
@@ -78,10 +78,10 @@ Patients were defined as clinically not cured if any one of the following three 
 2. During therapy the patient’s clinical status necessitated the addition of other antibacterial drugs.
 3. Either during or post-therapy, the patient developed a large subdural effusion needing surgical drainage, or a cerebral abscess, or a bacteriologic relapse.
 
-Using the definition, the following efficacy rates were obtained, per organism (noted in Table 7).
+Using the definition, the following efficacy rates were obtained, per organism (noted in Table 8).
 The values represent the number of patients clinically cured/number of clinically evaluable patients, with the percent cure in parentheses.
 
-Table 7: Efficacy Rates by Pathogen in the Clinically Evaluable Population with Bacterial Meningitis
+Table 8: Efficacy Rates by Pathogen in the Clinically Evaluable Population with Bacterial Meningitis
 
 | MICROORGANISMS | MEROPENEM FOR INJECTION | COMPARATOR |
 | --- | --- | --- |
@@ -98,7 +98,7 @@ Five patients were found to be bacteriologically not cured, 3 in the comparator 
 With respect to hearing loss, 263 of the 271 evaluable patients had at least one hearing test performed post-therapy.
 The following table shows the degree of hearing loss between the meropenem-treated patients and the comparator-treated patients.
 
-Table 8: Hearing Loss at Post-Therapy in the Evaluable Population treated with Meropenem
+Table 9: Hearing Loss at Post-Therapy in the Evaluable Population treated with Meropenem
 
 | Degree of Hearing Loss (in one or both ears) | Meropenem n = 128 | Comparator n = 135 |
 | --- | --- | --- |

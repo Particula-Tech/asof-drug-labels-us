@@ -4,11 +4,16 @@
 
 Meropenem is an antibacterial drug [see Microbiology (12.4)].
 
+## 12.2 Pharmacodynamics
+
+The percentage of time of a dosing interval that unbound plasma concentration of meropenem exceeds the meropenem minimum inhibitory concentration (MIC) against the infecting organism has been shown to best correlate with efficacy in animal and in vitro models of infection.
+
 ## 12.3 Pharmacokinetics
 
 Plasma Concentrations
 
 At the end of a 30-minute intravenous infusion of a single dose of meropenem for injection in healthy volunteers, mean peak plasma concentrations of meropenem are approximately 23 mcg/mL (range 14-26) for the 500 mg dose and 49 mcg/mL (range 39-58) for the 1 gram dose.
+A 5-minute intravenous bolus injection of meropenem in healthy volunteers results in mean peak plasma concentrations of approximately 45 mcg/mL (range 18-65) for the 500 mg dose and 112 mcg/mL (range 83-140) for the 1 gram dose.
 
 Following intravenous doses of 500 mg, mean plasma concentrations of meropenem usually decline to approximately 1 mcg/mL at 6 hours after administration.
 
@@ -47,13 +52,15 @@ Table 3: Meropenem Concentrations in Selected Tissues (Highest Concentrations Re
 | 40 mg/kgin pediatric patients of age 1 month to 15 years | 5 | 3.3 (3 hours) | 0.9-6.5 |  |
 | CSF (uninflamed) | 1 | 4 | 0.2 (2 hours) | 0.1–0.3 |
 
+Elimination
+
+In subjects with normal renal function, the elimination half-life of meropenem is approximately 1 hour.
+
 Metabolism
 
 There is one metabolite of meropenem that is microbiologically inactive.
 
 Excretion
-
-In subjects with normal renal function, the elimination half-life of meropenem is approximately 1 hour.
 
 Meropenem is primarily excreted unchanged by the kidneys.
 Approximately 70% (50 – 75%) of the dose is excreted unchanged within 12 hours.
@@ -65,7 +72,7 @@ Urinary concentrations of meropenem in excess of 10 mcg/mL are maintained for up
 
 Specific Populations
 
-Renal Impairment
+Patients with Renal Impairment
 
 Pharmacokinetic studies with meropenem for injection in patients with renal impairment have shown that the plasma clearance of meropenem correlates with creatinine clearance.
 Dosage adjustments are necessary in subjects with renal impairment (creatinine clearance 50 mL/min or less) [see Dosage and Administration (2.2) and Use In Specific Populations (8.6)].
@@ -73,7 +80,7 @@ Dosage adjustments are necessary in subjects with renal impairment (creatinine c
 Meropenem is hemodialyzable.
 However, there is no information on the usefulness of hemodialysis to treat overdosage [see Overdosage (10)].
 
-Hepatic Impairment
+Patients with Hepatic Impairment
 
 A pharmacokinetic study with meropenem for injection in patients with hepatic impairment has shown no effects of liver disease on the pharmacokinetics of meropenem.
 
@@ -85,6 +92,19 @@ Pediatric Patients
 
 The pharmacokinetics of meropenem in pediatric patients 2 years of age or older are similar to those in adults.
 The elimination half-life for meropenem was approximately 1.5 hours in pediatric patients of age 3 months to 2 years.
+
+The pharmacokinetics of meropenem in patients less than 3 months of age receiving combination antibacterial drug therapy are given below.
+
+Table 4: Meropenem Pharmacokinetic Parameters in Patients Less Than 3 Months of AgeValues are derived from a population pharmacokinetic analysis of sparse data
+
+|  | GA less than 32 weeks PNA less than 2 weeks (20mg/kg every 12 hours) | GA less than 32 weeks PNA 2 weeks or older (20mg/kg every 8 hours) | GA 32 weeks or older PNA less than 2 weeks (20mg/kg every 8 hours) | GA 32 weeks or older PNA 2 weeks or older (30mg/kg every 8 hours) | Overall |
+| --- | --- | --- | --- | --- | --- |
+| CL (L/h/kg) | 0.089 | 0.122 | 0.135 | 0.202 | 0.119 |
+| V (L/kg) | 0.489 | 0.467 | 0.463 | 0.451 | 0.468 |
+| AUC0-24 (mcg-h/mL) | 448 | 491 | 445 | 444 | 467 |
+| Cmax (mcg/mL) | 44.3 | 46.5 | 44.9 | 61 | 46.9 |
+| Cmin (mcg/mL) | 5.36 | 6.65 | 4.84 | 2.1 | 5.65 |
+| T1/2 (h) | 3.82 | 2.68 | 2.33 | 1.58 | 2.68 |
 
 Drug Interactions
 
@@ -145,7 +165,7 @@ Anaerobic bacteria
 - Bacteroides thetaiotaomicron
 - Peptostreptococcus species
 
-The following in vitro data are available, but their clinical significance is unknown.
+The followingin vitro data are available, but their clinical significance is unknown.
 At least 90 percent of the following bacteria exhibit an in vitro minimum inhibitory concentration (MIC) less than or equal to the susceptible breakpoint for meropenem against isolates of similar genus or organism group.
 However, the efficacy of meropenem in treating clinical infections caused by these microorganisms has not been established in adequate and well-controlled clinical trials.
 
@@ -174,7 +194,7 @@ Anaerobic bacteria
 - Bacteroides uniformis
 - Bacteroides ureolyticus
 - Bacteroides vulgatus
-- Clostridium difficile
+- Clostridioides difficile
 - Clostridium perfringens
 - Eggerthella lenta
 - Fusobacterium species
@@ -185,6 +205,6 @@ Anaerobic bacteria
 - Prevotella melaninogenica
 - Propionibacterium acnes
 
-Susceptibility Testing
+Susceptibility Test Methods
 
 For specific information regarding susceptibility test interpretive criteria, and associated test methods and quality control standards recognized by FDA for this drug, please see: http://www.fda.gov/STIC.
