@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA212907"
+  ],
+  "inn": "dihydroergotamine",
+  "labeler": "Cipla USA Inc.",
+  "package_ndcs": [
+    "69097-503-27",
+    "69097-503-31"
+  ],
+  "products": [
+    {
+      "form": "SPRAY, METERED",
+      "generic": "dihydroergotamine mesylate nasal",
+      "name": "Dihydroergotamine Mesylate Nasal"
+    }
+  ],
+  "setid": "1ecb2311-eee3-4230-a019-a3496308cff1",
+  "source": "dailymed"
+}
