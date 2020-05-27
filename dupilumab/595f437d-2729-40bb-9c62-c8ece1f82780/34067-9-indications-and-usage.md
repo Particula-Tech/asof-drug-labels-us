@@ -4,7 +4,7 @@ DUPIXENT is indicated for the following diseases:
 
 ## 1.1 Atopic Dermatitis
 
-DUPIXENT is indicated for the treatment of patients aged 12 years and older with moderate-to-severe atopic dermatitis whose disease is not adequately controlled with topical prescription therapies or when those therapies are not advisable.
+DUPIXENT is indicated for the treatment of patients aged 6 years and older with moderate-to-severe atopic dermatitis whose disease is not adequately controlled with topical prescription therapies or when those therapies are not advisable.
 DUPIXENT can be used with or without topical corticosteroids.
 
 ## 1.2 Asthma

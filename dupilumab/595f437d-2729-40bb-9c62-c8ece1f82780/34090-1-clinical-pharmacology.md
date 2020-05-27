@@ -71,6 +71,8 @@ Atopic Dermatitis
 
 For adolescents 12 to 17 years of age with atopic dermatitis receiving every other week dosing (Q2W) with either 200 mg (<60 kg) or 300 mg (≥60 kg), the mean ± SD steady-state trough concentration of dupilumab was 54.5±27.0 mcg/mL.
 
+For children 6 to 11 years of age with atopic dermatitis receiving every other week dosing (Q2W) with 200 mg (≥30 kg) or every four week dosing (Q4W) with 300 mg (<30 kg), mean ± SD steady-state trough concentration was 86.0±34.6 mcg/mL and 98.7±33.2 mcg/mL, respectively.
+
 Asthma
 
 A total of 107 adolescents aged 12 to 17 years with asthma were enrolled in AS Trial 2.

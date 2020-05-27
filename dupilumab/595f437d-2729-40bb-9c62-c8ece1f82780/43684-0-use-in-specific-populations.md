@@ -45,10 +45,17 @@ The developmental and health benefits of breastfeeding should be considered alon
 
 Atopic Dermatitis
 
-The safety and efficacy of DUPIXENT have been established in pediatric patients 12 years of age and older with moderate-to-severe atopic dermatitis.
-A total of 251 adolescents ages 12 to 17 years old with moderate-to-severe atopic dermatitis were enrolled in Trial 6.
-The safety and efficacy were generally consistent between adolescents and adults [see Adverse Reactions (6.1) and Clinical Studies (14.1)].
-Safety and efficacy in pediatric patients (<12 years of age) with atopic dermatitis have not been established.
+The safety and efficacy of DUPIXENT have been established in pediatric patients 6 years of age and older with moderate-to-severe atopic dermatitis.
+
+Use of DUPIXENT in this age group is supported by Trial 6 which included 251 adolescents ages 12 to 17 years old with moderate-to-severe atopic dermatitis and Trial 8 which included 367 children ages 6 to 11 years old with severe atopic dermatitis.
+The safety and efficacy were generally consistent between pediatric and adult patients [see Adverse Reactions (6.1) and Clinical Studies (14.1)].
+
+Use is also supported by Trial 7, an open-label extension study that enrolled subjects who completed Trials 6 and 8.
+Trial 7 included 136 adolescents from Trial 6 and 110 children from Trial 8 with moderate atopic dermatitis at enrollment into the extension study.
+Trial 7 included 64 adolescents from Trial 6 and 72 children from Trial 8 with severe atopic dermatitis at enrollment.
+No new safety signals were identified in Trial 7[see Adverse Reactions (6.1)].
+
+Safety and efficacy in pediatric patients <6 years of age with atopic dermatitis have not been established.
 
 Asthma
 

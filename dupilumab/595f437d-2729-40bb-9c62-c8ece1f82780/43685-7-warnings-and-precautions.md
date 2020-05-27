@@ -11,10 +11,7 @@ If a clinically significant hypersensitivity reaction occurs, institute appropri
 
 Conjunctivitis and keratitis occurred more frequently in atopic dermatitis subjects who received DUPIXENT.
 Conjunctivitis was the most frequently reported eye disorder.
-Most subjects with conjunctivitis recovered or were recovering during the treatment period.
-Keratitis was reported in <1% of the DUPIXENT group (1 per 100 subject-years) and in 0% of the placebo group (0 per 100 subject-years) in the 16-week atopic dermatitis monotherapy trials.
-In the 52-week DUPIXENT + topical corticosteroids (TCS) atopic dermatitis trial, keratitis was reported in 4% of the DUPIXENT + TCS group (12 per 100 subject-years) and in 0% of the placebo + TCS group (0 per 100 subject-years).
-Most subjects with keratitis recovered or were recovering during the treatment period [see Adverse Reactions (6.1)].
+Most subjects with conjunctivitis or keratitis recovered or were recovering during the treatment period [see Adverse Reactions (6.1)].
 
 Among asthma subjects, the frequencies of conjunctivitis and keratitis were similar between DUPIXENT and placebo [see Adverse Reactions (6.1)].
 

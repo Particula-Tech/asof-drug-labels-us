@@ -23,7 +23,6 @@ Trial 3 compared the safety of DUPIXENT + TCS to placebo + TCS through Week 52.
 Weeks 0 to 16 (Trials 1 to 4):
 
 In DUPIXENT monotherapy trials (Trials 1, 2, and 4) through Week 16, the proportion of subjects who discontinued treatment because of adverse events was 1.9% in both the DUPIXENT 300 mg Q2W and placebo groups.
-
 Table 2 summarizes the adverse reactions that occurred at a rate of at least 1% in the DUPIXENT 300 mg Q2W monotherapy groups, and in the DUPIXENT + TCS group, all at a higher rate than in their respective comparator groups during the first 16 weeks of treatment.
 
 Table 2: Adverse Reactions Occurring in ≥1% of the DUPIXENT Monotherapy Group or the DUPIXENT + TCS Group in the Atopic Dermatitis Trials through Week 16
@@ -48,7 +47,7 @@ Two subjects discontinued DUPIXENT because of adverse reactions: atopic dermatit
 
 The safety profile of DUPIXENT + TCS through Week 52 was generally consistent with the safety profile observed at Week 16.
 
-Adolescents with Atopic Dermatitis
+Adolescents with Atopic Dermatitis (12 to 17 Years of Age)
 
 The safety of DUPIXENT was assessed in a trial of 250 subjects 12 to 17 years of age with moderate-to-severe atopic dermatitis (Trial 6).
 The safety profile of DUPIXENT in these subjects through Week 16 was similar to the safety profile from studies in adults with atopic dermatitis.
@@ -56,6 +55,16 @@ The safety profile of DUPIXENT in these subjects through Week 16 was similar to 
 The long-term safety of DUPIXENT was assessed in an open-label extension study in subjects 12 to 17 years of age with moderate-to-severe atopic dermatitis (Trial 7).
 The safety profile of DUPIXENT in subjects followed through Week 52 was similar to the safety profile observed at Week 16 in Trial 6.
 The long-term safety profile of DUPIXENT observed in adolescents was consistent with that seen in adults with atopic dermatitis.
+
+Children with Atopic Dermatitis (6 to 11 Years of Age)
+
+The safety of DUPIXENT with concomitant TCS was assessed in a trial of 367 subjects 6 to 11 years of age with severe atopic dermatitis (Trial 8).
+The safety profile of DUPIXENT + TCS in these subjects through Week 16 was similar to the safety profile from trials in adults and adolescents with atopic dermatitis.
+
+The long-term safety of DUPIXENT + TCS was assessed in an open-label extension study of 368 subjects 6 to 11 years of age with atopic dermatitis (Trial 7).
+Among subjects who entered this study, 110 (30%) had moderate and 72 (20%) had severe atopic dermatitis at the time of enrollment in Trial 7.
+The safety profile of DUPIXENT + TCS in subjects followed through Week 52 was similar to the safety profile observed through Week 16 in Trial 8.
+The long-term safety profile of DUPIXENT + TCS observed in pediatric subjects was consistent with that seen in adults and adolescents with atopic dermatitis [see Pediatric Use (8.4)].
 
 Asthma
 
@@ -94,10 +103,10 @@ Table 4 summarizes the adverse reactions that occurred at a rate of at least 1% 
 
 Table 4: Adverse Reactions Occurring in ≥1% of the DUPIXENT Group in CRSwNP Trials 1 and 2 and Greater than Placebo (24 Week Safety Pool)
 
-|  | N=440 n (%) | N=282 n (%) |
+| N=440 n (%) | N=282 n (%) |  |
 | --- | --- | --- |
 | Adverse Reaction | CSNP Trials 1 and 2 |  |
-|  | DUPIXENT 300 mg Q2W | Placebo |
+| DUPIXENT 300 mg Q2W | Placebo |  |
 | Injection site reactionsInjection site reactions cluster includes injection site reaction, pain, bruising and swelling. | 28 (6%) | 12 (4%) |
 | ConjunctivitisConjunctivitis cluster includes conjunctivitis, allergic conjunctivitis, bacterial conjunctivitis, viral conjunctivitis, giant papillary conjunctivitis, eye irritation, and eye inflammation. | 7 (2%) | 2 (1%) |
 | Arthralgia | 14 (3%) | 5 (2%) |
@@ -110,9 +119,13 @@ The safety profile of DUPIXENT through Week 52 was generally consistent with the
 
 Specific Adverse Reactions
 
-Conjunctivitis
+Conjunctivitis and Keratitis
 
 During the 52-week treatment period of concomitant therapy atopic dermatitis trial (Trial 3), conjunctivitis was reported in 16% of the DUPIXENT 300 mg Q2W + TCS group (20 per 100 subject-years) and in 9% of the placebo + TCS group (10 per 100 subject-years).
+In DUPIXENT atopic dermatitis monotherapy trials (Trials 1, 2, and 4) through Week 16, keratitis was reported in <1% of the DUPIXENT group (1 per 100 subject-years) and in 0% of the placebo group (0 per 100 subject-years).
+In the 52-week atopic dermatitis DUPIXENT + topical corticosteroids (TCS) atopic dermatitis trial (Trial 3), keratitis was reported in 4% of the DUPIXENT + TCS group (12 per 100 subject-years) and in 0% of the placebo + TCS group (0 per 100 subject-years).
+Most subjects with conjunctivitis or keratitis recovered or were recovering during the treatment period.
+
 Among asthma subjects, the frequency of conjunctivitis was similar between DUPIXENT and placebo.
 In the 52-week CRSwNP study (CSNP Trial 2), the frequency of conjunctivitis was 3% in the DUPIXENT subjects and 1% in the placebo subjects; all of these subjects recovered.
 [see Warnings and Precautions (5.2)].
@@ -159,16 +172,15 @@ Additionally, the observed incidence of antibody (including neutralizing antibod
 For these reasons, comparison of the incidence of antibodies to dupilumab in the studies described below with the incidence of antibodies in other studies or to other products may be misleading.
 
 Approximately 5% of subjects with atopic dermatitis, asthma, or CRSwNP who received DUPIXENT 300 mg Q2W for 52 weeks developed antibodies to dupilumab; approximately 2% exhibited persistent ADA responses, and approximately 2% had neutralizing antibodies.
-
-Approximately 9% of subjects with asthma who received DUPIXENT 200 mg Q2W for 52 weeks developed antibodies to dupilumab; approximately 4% exhibited persistent ADA responses, and approximately 4% had neutralizing antibodies.
-
-Approximately 4% of subjects in the placebo groups in the 52-week studies were positive for antibodies to DUPIXENT; approximately 2% exhibited persistent ADA responses, and approximately 1% had neutralizing antibodies.
+Similar results were observed in pediatric subjects (6 to 11 years of age) with atopic dermatitis who received DUPIXENT 200 mg Q2W or 300 mg Q4W for 16 weeks.
 
 Approximately 16% of adolescent subjects with atopic dermatitis who received DUPIXENT 300 mg or 200 mg Q2W for 16 weeks developed antibodies to dupilumab; approximately 3% exhibited persistent ADA responses, and approximately 5% had neutralizing antibodies.
 
-Approximately 4% of adolescent subjects with atopic dermatitis in the placebo group were positive for antibodies to DUPIXENT; approximately 1% exhibited persistent ADA responses, and approximately 1% had neutralizing antibodies.
+Approximately 9% of subjects with asthma who received DUPIXENT 200 mg Q2W for 52 weeks developed antibodies to dupilumab; approximately 4% exhibited persistent ADA responses, and approximately 4% had neutralizing antibodies.
+
+Regardless of age or population, approximately 2 to 4% of subjects in placebo groups were positive for antibodies to DUPIXENT; approximately 2% exhibited persistent ADA responses, and approximately 1% had neutralizing antibodies.
 
 The antibody titers detected in both DUPIXENT and placebo subjects were mostly low.
 In subjects who received DUPIXENT, development of high titer antibodies to dupilumab was associated with lower serum dupilumab concentrations [see Clinical Pharmacology (12.3)].
 
-Two subjects who experienced high titer antibody responses developed serum sickness or serum sickness-like reactions during DUPIXENT therapy [see Warnings and Precautions (5.1)].
+Two adult subjects who experienced high titer antibody responses developed serum sickness or serum sickness-like reactions during DUPIXENT therapy [see Warnings and Precautions (5.1)].

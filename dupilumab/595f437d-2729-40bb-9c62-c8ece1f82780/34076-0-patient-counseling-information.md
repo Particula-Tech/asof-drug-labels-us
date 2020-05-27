@@ -6,7 +6,7 @@ Pregnancy Registry
 
 There is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to DUPIXENT during pregnancy.
 Encourage participation in the registry.
-[see Use in Specific Populations (8.1)].
+[see USE IN SPECIFIC POPULATIONS (8.1)].
 
 Administration Instructions
 
