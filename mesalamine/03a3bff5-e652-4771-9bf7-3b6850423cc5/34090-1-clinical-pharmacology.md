@@ -3,29 +3,29 @@
 ## 12.1 Mechanism of Action
 
 The mechanism of action of mesalamine is unknown, but appears to be topical rather than systemic.
-Mucosal production of arachidonic acid (AA) metabolites, both through the cyclooxygenase pathways, that is, prostanoids, and through the lipoxygenase pathways, that is, leukotrienes (LTs) and hydroxyeicosatetraenoic acids (HETEs), is increased in patients with chronic inflammatory bowel disease, and it is possible that mesalamine diminishes inflammation by blocking cyclooxygenase and inhibiting prostaglandin (PG) production in the colon.
+Mucosal production of arachidonic acid metabolites, both through the cyclooxygenase pathways, that is, prostanoids, and through the lipoxygenase pathways, that is, leukotrienes and hydroxyeicosatetraenoic acids, is increased in patients with chronic inflammatory bowel disease, and it is possible that mesalamine diminishes inflammation by blocking cyclooxygenase and inhibiting prostaglandin production in the colon.
 
 ## 12.3 Pharmacokinetics
 
+Absorption
+
 Plasma concentrations of mesalamine (5-aminosalicylic acid; 5-ASA) and its metabolite, N-acetyl-5- aminosalicylic acid (N-Ac-5-ASA) are highly variable following administration of Asacol HD tablets.
-The time to peak plasma concentration (tmax) is prolonged for mesalamine and N-Ac-5-ASA with the median values from various studies ranging from 10 to 16 hours, reflecting the delayed-release characteristics.
-Based on cumulative urinary recovery of mesalamine and N-Ac-5-ASA from single dose studies in healthy volunteers, approximately 20 percent of the orally administered mesalamine in Asacol HD tablets is systemically absorbed.
-The absorbed mesalamine is rapidly acetylated in the gut mucosal wall and by the liver to N-Ac-5-ASA which is excreted mainly by the kidney.
-The PK parameters following administration of 1600 mg three times daily in healthy subjects are shown in Table 2.
+Following single dose oral administration of Asacol HD 800 mg tablet in healthy subjects (N = 139) under fasted conditions, the mean Cmax, AUC8-48h and AUC0-tldc values were 208 ng/mL, 2296 ng.h/mL, and 2533 ng.h/mL, respectively.
+The median [range] Tmax for mesalamine following administration of Asacol HD 800 mg tablet was approximately 24 hours [4 to 72 hours], reflecting the delayed-release characteristics of the formulation.
 
-Table 2.
-Mean (± S.D.)
-PK parameters in healthy subjects following administration of two 800 mg tablets three times daily for 6 days (n = 16)
+Based on cumulative urinary recovery of mesalamine and N-Ac-5-ASA from single dose studies in healthy subjects, approximately 20% of the orally administered mesalamine in Asacol HD tablets is systemically absorbed.
 
-|  | Mesalamine | N-Ac-5-ASA |
-| --- | --- | --- |
-| AUCtau (mcg h/mL) | 20 ± 14 | 25 ± 11 |
-| Cmax (mcg/mL) | 5.0 ± 4.0 | 4.6 ± 2.5 |
-| t1/2 (h) | 12.6 ± 10.9* | 23.6 ± 11.2# |
-| *n = 11, #n = 6 |  |  |
+Food Effect: A high calorie (800 to 1000 calories), high fat (approximately 50 % of total caloric content) meal increased mesalamine Cmax by 2.4-fold and mesalamine systemic exposure (AUC8-48 and AUC0-tldc) by 2.8-fold; the median lag-time increased by 8 hours and median tmax by 6 hours (from 24 to 30 hours) [see Dosage and Administration (2.1)].
 
-A high fat meal does not affect the extent of systemic exposure to mesalamine after single-dose administration of Asacol HD, but mesalamine Cmax decreases by 47 percent and tmax is delayed by 14 hours under fed conditions.
+Comparative exposure between one Asacol HD 800 mg tablet and two mesalamine delayed-release 400 mg oral products is unknown [see Dosage and Administration (2.1)].
 
-One Asacol HD 800 mg tablet has not been shown to be bioequivalent to two Asacol 400 mg tablets.
-In a single dose, cross-over pharmacokinetic study in 20 healthy volunteers, the mean mesalamine Cmax was 36 percent lower and the mean mesalamine AUC was 25 percent lower with administration of one Asacol HD 800 mg tablet relative to two Asacol 400 mg tablets.
-Because the mechanism of action of mesalamine appears to be topical, the impact of these differences in measures of systemic exposure on clinical efficacy is not known.
+Elimination
+
+Metabolism
+
+The absorbed mesalamine is acetylated in the gut mucosal wall and by the liver to N-Ac-5-ASA.
+
+Excretion
+
+Absorbed mesalamine is excreted mainly by the kidneys as N-acetyl-5-aminosalicylic acid.
+Unabsorbed mesalamine is excreted in feces.
