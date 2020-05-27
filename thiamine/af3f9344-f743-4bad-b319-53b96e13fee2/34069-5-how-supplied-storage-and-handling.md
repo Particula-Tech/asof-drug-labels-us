@@ -2,9 +2,9 @@
 
 Thiamine Hydrochloride Injection, USP is supplied as follows:
 
-| Product No. | NDC No. | Strength |  |
+| Product Code | Unit of Sale | Strength | Each |
 | --- | --- | --- | --- |
-| PRX1302 | 63323-013-26 | 200 mg per 2 mL (100 mg per mL) | 2 mL fill, in a 2 mL multiple dose vial, packaged in trays of 25. |
+| PRX1302 | NDC 63323-013-26 Unit of 25 | 200 mg per 2 mL (100 mg per mL) | NDC 63323-013-41 2 mL Multiple Dose Vial |
 
 Store at 20° to 25°C (68° to 77° F) [see USP Controlled Room Temperature].
 

@@ -2,7 +2,7 @@
 
 Thiamine Hydrochloride Injection, USP is a sterile solution of thiamine hydrochloride in Water for Injection for intramuscular (IM) or slow intravenous (IV) administration.
 
-Each mL contains: Thiamine hydrochloride 100 mg; chlorobutanol anhydrous (chloral derivative) 0.5%; monothioglycerol 0.5%; water for injection q.s.
+Each mL contains: Thiamine hydrochloride 100 mg; chlorobutanol anhydrous (chloral derivative) 0.5%; monothioglycerol 0.5%; water for injection, q.s.
 Sodium hydroxide may have been added for pH adjustment (2.5 to 4.5).
 
 Thiamine hydrochloride, or vitamin B1, occurs as white crystals or crystalline powder that usually has a slight characteristic odor.

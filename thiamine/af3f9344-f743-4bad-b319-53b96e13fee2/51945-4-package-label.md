@@ -1,20 +1,39 @@
-PACKAGE LABEL - PRINCIPAL DISPLAY - Thiamine 2 mL Multiple Dose Vial Label
+# PACKAGE LABEL – PRINCIPAL DISPLAY PANEL - Thiamine 2 mL Multiple Dose Vial Label
 
-Thiamine HCl Injection, USP
+NDC 63323-013-41 PRX1302
 
-200 mg per 2 mL (100 mg per mL)
+Thiamine HCl
+
+Injection, USP
+
+200 mg per 2 mL
+
+(100 mg per mL)
 
 For IM or IV use.
+
 Protect from light.
 
-2 mL Multiple Dose Vial Rx only
+2 mL
 
-PACKAGE LABEL - PRINCIPAL DISPLAY - Thiamine 2 mL Multiple Dose Vial Tray Label
+Multiple Dose Vial Rx only
 
-Thiamine HCl Injection, USP
+# PACKAGE LABEL – PRINCIPAL DISPLAY PANEL – Thiamine 2 mL Multiple Dose Vial Tray Label
 
-200 mg per 2 mL (100 mg per mL)
+NDC 63323-013-26 PRX1302
+
+Thiamine HCl
+
+Injection, USP
+
+200 mg per 2 mL
+
+(100 mg per mL)
 
 For intramuscular or intravenous use.
 
-25 X 2 mL Multiple Dose Vials Rx only
+25 x 2 mL
+
+Multiple Dose Vials
+
+Rx only
