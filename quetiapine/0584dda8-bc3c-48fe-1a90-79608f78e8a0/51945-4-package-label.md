@@ -4,17 +4,15 @@ NDC 0310-0275-10 100 tablets
 
 SeroQUEL®
 
-quetiapine fumarate
+(quetiapine) tablets
 
-25 mg tablets
+25 mg*
 
 Rx only
 
-AstraZeneca Pharmaceuticals LP
+Medication Guide must be
 
-Wilmington, DE 19850
-
-Product of Belgium
+dispensed to patients.
 
 AstraZeneca
 
@@ -24,17 +22,15 @@ NDC 0310-0278-10 100 tablets
 
 SeroQUEL®
 
-quetiapine fumarate
+(quetiapine) tablets
 
-50 mg tablets
+50 mg*
 
 Rx only
 
-AstraZeneca Pharmaceuticals LP
+Medication Guide must be
 
-Wilmington, DE 19850
-
-Product of Belgium
+dispensed to patients.
 
 AstraZeneca
 
@@ -44,17 +40,15 @@ NDC 0310-0271-10 100 tablets
 
 SeroQUEL®
 
-quetiapine fumarate
+(quetiapine) tablets
 
-100 mg tablets
+100 mg*
 
 Rx only
 
-AstraZeneca Pharmaceuticals LP
+Medication Guide must be
 
-Wilmington, DE 19850
-
-Product of Belgium
+dispensed to patients.
 
 AstraZeneca
 
@@ -64,17 +58,15 @@ NDC 0310-0272-10 100 tablets
 
 SeroQUEL®
 
-quetiapine fumarate
+(quetiapine) tablets
 
-200 mg tablets
+200 mg*
 
 Rx only
 
-AstraZeneca Pharmaceuticals LP
+Medication Guide must be
 
-Wilmington, DE 19850
-
-Product of Belgium
+dispensed to patients.
 
 AstraZeneca
 
@@ -84,17 +76,15 @@ NDC 0310-0274-60 60 tablets
 
 SeroQUEL®
 
-quetiapine fumarate
+(quetiapine) tablets
 
-300 mg tablets
+300 mg*
 
 Rx only
 
-AstraZeneca Pharmaceuticals LP
+Medication Guide must be
 
-Wilmington, DE 19850
-
-Product of Belgium
+dispensed to patients.
 
 AstraZeneca
 
@@ -104,16 +94,14 @@ NDC 0310-0279-10 100 tablets
 
 SeroQUEL®
 
-quetiapine fumarate
+(quetiapine) tablets
 
-400 mg tablets
+400 mg*
 
 Rx only
 
-AstraZeneca Pharmaceuticals LP
+Medication Guide must be
 
-Wilmington, DE 19850
-
-Product of Belgium
+dispensed to patients.
 
 AstraZeneca
