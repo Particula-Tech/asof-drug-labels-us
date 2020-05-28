@@ -85,3 +85,10 @@ Therefore, comparison of the incidence of antibodies to OCREVUS with the inciden
 Patients in MS trials (Study 1, Study 2, and Study 3) were tested at multiple time points (baseline and every 6 months post-treatment for the duration of the trial) for anti-drug antibodies (ADAs).
 Out of 1311 patients treated with OCREVUS, 12 (~1%) tested positive for ADAs, of which 2 patients tested positive for neutralizing antibodies.
 These data are not adequate to assess the impact of ADAs on the safety and efficacy of OCREVUS.
+
+## 6.3 Postmarketing Experience
+
+The following adverse reactions have been identified during postapproval use of OCREVUS.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+Serious herpes infections have been identified during postapproval use of OCREVUS [see Warnings and Precautions (5.2)].

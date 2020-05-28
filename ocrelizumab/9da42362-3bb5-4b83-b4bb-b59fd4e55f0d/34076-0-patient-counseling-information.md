@@ -19,6 +19,9 @@ Inform the patient that typical symptoms associated with PML are diverse, progre
 
 Advise patients that OCREVUS may cause reactivation of hepatitis B infection and that monitoring will be required if they are at risk [see Warnings and Precautions (5.2)].
 
+Advise patients that herpes infections, including serious herpes infections affecting the central nervous system, skin, and eyes, have occurred during treatment with OCREVUS.
+Advise patients to promptly contact their healthcare provider if they experience any signs or symptoms of herpes infections including oral or genital symptoms, fever, skin rash, pain, itching, decreased visual acuity, eye redness, eye pain, headache, neck stiffness, or change in mental status [see Warnings and Precautions (5.2)].
+
 Vaccination
 
 Advise patients to complete any required live or live-attenuated vaccinations at least 4 weeks and, whenever possible, non-live vaccinations at least 2 weeks prior to initiation of OCREVUS.

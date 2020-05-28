@@ -25,6 +25,7 @@ In RMS trials, 58% of OCREVUS-treated patients experienced one or more infection
 In the PPMS trial, 70% of OCREVUS-treated patients experienced one or more infections compared to 68% of patients on placebo.
 OCREVUS increased the risk for upper respiratory tract infections, lower respiratory tract infections, skin infections, and herpes-related infections [see Adverse Reactions (6.1)].
 OCREVUS was not associated with an increased risk of serious infections in MS patients.
+
 Delay OCREVUS administration in patients with an active infection until the infection is resolved.
 
 Respiratory Tract Infections
@@ -38,9 +39,14 @@ Herpes
 
 In active-controlled (RMS) clinical trials, herpes infections were reported more frequently in OCREVUS-treated patients than in REBIF-treated patients, including herpes zoster (2.1% vs. 1.0%), herpes simplex (0.7% vs. 0.1%), oral herpes (3.0% vs. 2.2%), genital herpes (0.1% vs. 0%), and herpes virus infection (0.1% vs. 0%).
 Infections were predominantly mild to moderate in severity.
-There were no reports of disseminated herpes.
 
 In the placebo-controlled (PPMS) clinical trial, oral herpes was reported more frequently in the OCREVUS-treated patients than in the patients on placebo (2.7% vs 0.8%).
+
+Serious cases of infections caused by herpes simplex virus and varicella zoster virus, including central nervous system infections (encephalitis and meningitis), intraocular infections, and disseminated skin and soft tissue infections, have been reported in the postmarketing setting in multiple sclerosis patients receiving OCREVUS.
+Serious herpes virus infections may occur at any time during treatment with OCREVUS.
+Some cases were life-threatening.
+
+If serious herpes infections occur, OCREVUS should be discontinued or withheld until the infection has resolved, and appropriate treatment should be administered [see Patient Counseling Information (17)].
 
 Progressive Multifocal Leukoencephalopathy (PML)
 
