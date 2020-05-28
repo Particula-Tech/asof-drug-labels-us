@@ -1,9 +1,12 @@
 # Package/Label Display Panel
 
-Treanda® (bendamustine HCl) for Injection 25 mg/Single Use Vial, Carton Text
+Treanda® (bendamustine HCl) for Injection 25 mg/Single Use Vial
 
-- NDC 63459-390-08 Rx only
-- Sterile Single-Use Vial
+NDC 63459-390-08
+
+Rx only
+
+Sterile Single-Use Vial
 
 Discard unused portion
 
@@ -27,9 +30,11 @@ Retain in carton until time of use
 
 Treanda® (bendamustine HCl) for Injection 100 mg/Single Use Vial, Carton Text
 
-- NDC63459-391-20Rx only
+NDC 63459-391-20
 
-- Sterile Single-Use Vial
+Rx only
+
+Sterile Single-Use Vial
 
 Discard unused portion
 
