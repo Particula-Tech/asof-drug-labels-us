@@ -69,3 +69,9 @@ No differences were observed between the groups receiving lower doses of olmesar
 
 Overall, these data raise a concern of a possible increased CV risk associated with the use of high-dose olmesartan in diabetic patients.
 There are, however, concerns with the credibility of the finding of increased CV risk, notably the observation in the large epidemiologic study for a survival benefit in non-diabetics of a magnitude similar to the adverse finding in diabetics.
+
+Non-melanoma Skin Cancer
+
+Hydrochlorothiazide is associated with an increased risk of non-melanoma skin cancer.
+In a study conducted in the Sentinel System, increased risk was predominantly for squamous cell carcinoma (SCC) and in white patients taking large cumulative doses.
+The increased risk for SCC in the overall population was approximately 1 additional case per 16,000 patients per year, and for white patients taking a cumulative dose of ≥50,000mg the risk increase was approximately 1 additional SCC case for every 6,700 patients per year.

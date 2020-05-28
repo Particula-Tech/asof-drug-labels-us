@@ -12,7 +12,11 @@ Potassium Supplements: Advise patients not to use potassium supplements or salt 
 
 Acute myopia and secondary angle-closure glaucoma: Advise patients to discontinue BENICAR HCT and seek immediate medical attention if they experience symptoms of acute myopia or secondary angle-closure glaucoma [see Warnings and Precautions (5.6)].
 
+Non-melanoma Skin Cancer: Instruct patients taking hydrochlorothiazide to protect skin from the sun and undergo regular skin cancer screening.
+
 Manufactured for Daiichi Sankyo, Inc., Basking Ridge, NJ 07920
 
-Copyright © Daiichi Sankyo, Inc. 2017.
+Copyright © Daiichi Sankyo, Inc. 2020.
 All rights reserved.
+
+USPI-BENHCT-C10-0520-r100

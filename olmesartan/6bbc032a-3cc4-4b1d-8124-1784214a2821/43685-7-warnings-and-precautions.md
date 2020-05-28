@@ -19,7 +19,7 @@ If hypotension does occur, the patient should be placed in the supine position a
 When electrolyte and fluid imbalances have been corrected, BENICAR HCT usually can be continued without difficulty.
 A transient hypotensive response is not a contraindication to further treatment.
 
-## 5.3Impaired Renal Function
+## 5.3 Impaired Renal Function
 
 Changes in renal function including acute renal failure can be caused by drugs that inhibit the renin-angiotensin system and by diuretics.
 Patients whose renal function may depend in part on the activity of the renin-angiotensin system (e.g., patients with renal artery stenosis, chronic kidney disease, severe congestive heart failure, or volume depletion) may be at particular risk of developing acute renal failure on BENICAR HCT.
