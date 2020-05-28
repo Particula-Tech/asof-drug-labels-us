@@ -53,7 +53,7 @@ What else do I need to know about antidepressant medicines?
 - Never stop an antidepressant medicine without first talking to your healthcare provider.
   Stopping an antidepressant medicine suddenly can cause other symptoms.
 - Antidepressants are medicines used to treat depression and other illnesses.
-  It is important to discuss all the risks of treating depression and also the risks of not treating it.
+  It is important to discuss all the risks of treating depression, and also the risks of not treating it.
   Patients and their families or other caregivers should discuss all treatment choices with the healthcare provider, not just the use of antidepressants.
 - Antidepressant medicines have other side effects.
   Talk to the healthcare provider about the side effects of the medicine prescribed for you or your family member.
@@ -82,7 +82,7 @@ Before you take quetiapine tablets, tell your healthcare provider if you have or
 
 - diabetes or high blood sugar in you or your family.
   Your healthcare provider should check your blood sugar before you start quetiapine tablets and also during therapy
-- high levels of total cholesterol, triglycerides or LDL-cholesterol or low levels of HDL- cholesterol
+- high levels of total cholesterol, triglycerides or LDL-cholesterol, or low levels of HDL- cholesterol
 - low or high blood pressure
 - low white blood cell count
 - cataracts
@@ -93,14 +93,14 @@ Before you take quetiapine tablets, tell your healthcare provider if you have or
 - liver problems
 - any other medical condition
 - pregnancy or plans to become pregnant.
-  It is not known if quetiapine tablets will harm your unborn baby.
-- breast-feeding or plans to breast-feed.
-  Quetiapine can pass into your breast milk.
-  You and your healthcare provider should decide if you will take quetiapine tablets or breast-feed.
-  You should not do both.
+  It is not known if quetiapine will harm your unborn baby.
+- If you become pregnant while receiving quetiapine, talk to your healthcare provider about registering with the National Pregnancy Registry for Atypical Antipsychotics.
+  You can register by calling 1-866-961-2388 or go to http://womensmentalhealth.org/clinical-and-research-programs/pregnancyregistry/
+- breast-feeding or plans to breast-feed. quetiapine can pass into your breast milk.
+  Talk to your healthcare provider about the best way to feed your baby if you receive quetiapine.
 - if you have or have had a condition where you cannot completely empty your bladder (urinary retention), have an enlarged prostate, or constipation, or increased pressure inside your eyes.
 
-Tell the healthcare provider about all the medicines that you take or recently have taken including prescription medicines, over-the-counter medicines, herbal supplements and vitamins.
+Tell the healthcare provider about all the medicines that you take or recently have taken including prescription medicines, over-the-counter medicines, herbal supplements, and vitamins.
 
 Quetiapine tablets and other medicines may affect each other causing serious side effects.
 Quetiapine tablets may affect the way other medicines work, and other medicines may affect how quetiapine tablets works.
@@ -167,7 +167,7 @@ These falls may cause serious injuries.
 High blood sugar can happen if you have diabetes already or if you have never had diabetes.
 High blood sugar could lead to:
 
-o build up of acid in your blood due to ketones (ketoacidosis)
+o build-up of acid in your blood due to ketones (ketoacidosis)
 
 o coma
 
@@ -269,6 +269,8 @@ How should I store quetiapine tablets?
 
 • Store quetiapine tablets at room temperature, between 68°F to 77°F (20°C to 25°C).
 
+• Bottles of 30’s,60’s and 100’s count comes in a child-resistant package.
+
 • Keep quetiapine tablets and all medicines out of the reach of children.
 
 General information about the safe and effective use of quetiapine tablets
@@ -302,8 +304,8 @@ Accord Healthcare Inc., 1009 Slater Road, Suite 210-B, Durham, NC 27703, USA.
 
 Manufactured By:
 
-Intas Pharmaceuticals Limited, Ahmedabad -380 009, India.
+Intas Pharmaceuticals Limited, Ahmedabad -380 054, India.
 
-10 0210 4 690216
+10 0210 6 6000849
 
-Issued January 2019
+Issued March 2020

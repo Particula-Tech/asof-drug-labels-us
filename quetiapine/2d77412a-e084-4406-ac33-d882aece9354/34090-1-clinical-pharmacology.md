@@ -2,24 +2,21 @@
 
 ## 12.1 Mechanism of Action
 
-The mechanism of action of quetiapine is unknown.
-However, it has been proposed that the efficacy of quetiapine in schizophrenia and its mood stabilizing properties in bipolar depression and mania are mediated through a combination of dopamine type 2 (D 2) and serotonin type 2 (5HT 2) antagonism.
-Antagonism at receptors other than dopamine and 5HT 2 with similar receptor affinities may explain some of the other effects of quetiapine.
-
-Quetiapine's antagonism of histamine H 1 receptors may explain the somnolence observed with this drug.
-
-Quetiapine's antagonism of adrenergic α 1 receptors may explain the orthostatic hypotension observed with this drug.
+The mechanism of action of quetiapine in the listed indications is unclear.
+However, the efficacy of quetiapine in these indications could be mediated through a combination of dopamine type 2 (D 2) and serotonin type 2 (5HT 2) antagonism.
+The active metabolite, N-desalkyl quetiapine (norquetiapine), has similar activity at D 2, but greater activity at 5HT 2A receptors, than the parent drug (quetiapine).
 
 ## 12.2 Pharmacodynamics
 
-Quetiapine is an antagonist at multiple neurotransmitter receptors in the brain: serotonin 5HT 1A and 5HT 2 (IC 50s=717 & 148nM, respectively), dopamine D 1 and D 2 (IC 50s=1268 & 329nM, respectively), histamine H 1 (IC50=30nM), and adrenergic α1 and α2receptors (IC 50s=94 & 271nM, respectively).
-Quetiapine has no appreciable affinity at cholinergic muscarinic and benzodiazepine receptors (IC 50s> 5000 nM).
+Quetiapine and its metabolite, norquetiapine, have affinity for multiple neurotransmitter receptors with norquetiapine binding with higher affinity than quetiapine in general.
+The K i values for quetiapine and norquetiapine at the dopamine D 1 are 428/99.8 nM, at D 2 626/489nM, at serotonin 5HT 1A 1040/191 nM at 5HT 2A 38/2.9 nM, at histamine H 1 4.4/1.1 nM, at muscarinic M 1 1086/38.3 nM, and at adrenergic α 1b 14.6/46.4 nM and, at α 2 receptors 617/1290 nM, respectively.
+Quetiapine and norquetiapine lack appreciable affinity to the benzodiazepine receptors.
 
 Effect on QT Interval
 
-In clinical trials quetiapine was not associated with a persistent increase in QT intervals.
+In clinical trials, quetiapine was not associated with a persistent increase in QT intervals.
 However, the QT effect was not systematically evaluated in a thorough QT study.
-In post marketing experience there were cases reported of QT prolongation in patients who overdosed on quetiapine [see Overdosage (10.1)], in patients with concomitant illness, and in patients taking medicines known to cause electrolyte imbalance or increase QT interval.
+In post marketing experience, there were cases reported of QT prolongation in patients who overdosed on quetiapine [see Overdosage (10.1)], in patients with concomitant illness, and in patients taking medicines known to cause electrolyte imbalance or increase QT interval.
 
 ## 12.3 Pharmacokinetics
 
@@ -96,19 +93,19 @@ Table 17: The Effect of Other Drugs on the Pharmacokinetics of Quetiapine
 | CoadministeredDrug | Dose Schedules |  | Effect onQuetiapinePharmacokinetics |
 | --- | --- | --- | --- |
 | Coadministered Drug | Quetiapine |  |  |
-| Phenytoin | 100 mg three times daily | 250 mg three times daily | 5 fold increase in oral clearance |
+| Phenytoin | 100 mg three times daily | 250 mg three times daily | 5-fold increase in oral clearance |
 | Divalproex | 500 mg twice daily | 150 mg twice daily | 17% increase mean max plasma concentration at steady state.No effect on absorption or mean oral clearance |
 | Thioridazine | 200 mg twice daily | 300 mg twice daily | 65% increase in oral clearance |
 | Cimetidine | 400 mg three times daily for 4 days | 150 mg three times daily | 20% decrease in mean oral clearance |
-| Ketoconazole (potent CYP 3A4 inhibitor) | 200 mg once daily for 4 days | 25 mg single dose | 84% decrease in oral clearance resulting in a 6.2 fold increase in AUC of quetiapine |
+| Ketoconazole (potent CYP 3A4 inhibitor) | 200 mg once daily for 4 days | 25 mg single dose | 84% decrease in oral clearance resulting in a 6.2-fold increase in AUC of quetiapine |
 | Fluoxetine | 60 mg once daily | 300 mg twice daily | No change in steady state PK |
 | Imipramine | 75 mg twice daily | 300 mg twice daily | No change in steady state PK |
 | Haloperidol | 7.5 mg twice daily | 300 mg twice daily | No change in steady state PK |
 | Risperidone | 3 mg twice daily | 300 mg twice daily | No change in steady state PK |
 
-In vitro enzyme inhibition data suggest that quetiapine and 9 of its metabolites would have little inhibitory effect on in vivo metabolism mediated by cytochromes CYP 1A2, 2C9, 2C19, 2D6 and 3A4.
+In vitro enzyme inhibition data suggest that quetiapine and 9 of its metabolites would have little inhibitory effect on in vivo metabolism mediated by cytochromes CYP 1A2, 2C9, 2C19, 2D6, and 3A4.
 
-Quetiapine at doses of 750 mg/day did not affect the single dose pharmacokinetics of antipyrine, lithium or lorazepam (Table 18) [see Drug Interactions (7.2)].
+Quetiapine at doses of 750 mg/day did not affect the single dose pharmacokinetics of antipyrine, lithium, or lorazepam (Table 18) [see Drug Interactions (7.2)].
 
 Table 18: The Effect of Quetiapine on the Pharmacokinetics of Other Drugs
 
