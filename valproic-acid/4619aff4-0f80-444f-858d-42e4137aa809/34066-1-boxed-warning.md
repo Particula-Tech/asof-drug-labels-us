@@ -24,7 +24,7 @@ POLG mutation screening should be performed in accordance with current clinical 
 Fetal Risk
 
 Valproate can cause major congenital malformations, particularly neural tube defects (e.g., spina bifida).
-In addition, valproate can cause decreased IQ scores and neurodevelopmental disordersfollowing in utero exposure.
+In addition, valproate can cause decreased IQ scores and neurodevelopmental disorders following in utero exposure.
 
 Valproate is therefore contraindicated for prophylaxis of migraine headaches in pregnant women and in women of childbearing potential who are not using effective contraception [see Contraindications (4)].
 Valproate should not be used to treat women with epilepsy or bipolar disorder who are pregnant or who plan to become pregnant unless other medications have failed to provide adequate symptom control or are otherwise unacceptable.

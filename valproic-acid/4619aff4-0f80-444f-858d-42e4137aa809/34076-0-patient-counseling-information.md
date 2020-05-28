@@ -51,11 +51,11 @@ AbbVie Inc.
 
 North Chicago, IL 60064, U.S.A.
 
-©1989-2019 AbbVie Inc.
+©1989-2020 AbbVie Inc.
 
-Revised: December 2019
+Revised: May 2020
 
-03-C085-R31
+20064114
 
 Administration Guide
 
@@ -101,8 +101,8 @@ AbbVie Inc.
 
 North Chicago, IL 60064, U.S.A.
 
-©1989-2019 AbbVie Inc.
+©1989-2020 AbbVie Inc.
 
-Revised: December 2019
+Revised: May 2020
 
-03-C085-R31
+20064114
