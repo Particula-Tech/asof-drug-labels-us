@@ -63,7 +63,7 @@ In animal studies, offspring with prenatal exposure to valproate had malformatio
 ## 5.4 Use in Women of Childbearing Potential
 
 Because of the risk to the fetus of decreased IQ, neurodevelopmental disorders, and major congenital malformations (including neural tube defects), which may occur very early in pregnancy, valproate should not be administered to a woman of childbearing potential unless other medications have failed to provide adequate symptom control or are otherwise unacceptable.
-This is especially important when valproate use is considered for a condition not usually associated with permanent injury or death such as prophylaxis of migraine headaches[see Contraindications (4)].
+This is especially important when valproate use is considered for a condition not usually associated with permanent injury or death such as prophylaxis of migraine headaches [see Contraindications (4)].
 Women should use effective contraception while using valproate.
 
 Women of childbearing potential should be counseled regularly regarding the relative risks and benefits of valproate use during pregnancy.
