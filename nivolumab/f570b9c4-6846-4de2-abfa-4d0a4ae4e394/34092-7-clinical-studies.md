@@ -46,9 +46,9 @@ More patients in the OPDIVO arm had an ECOG performance status of 0 (71% vs. 58%
 
 CHECKMATE-066 demonstrated a statistically significant improvement in OS for the OPDIVO arm compared with the dacarbazine arm in an interim analysis based on 47% of the total planned events for OS.
 At the time of analysis, 88% (63/72) of OPDIVO-treated patients had ongoing responses, which included 43 patients with ongoing response of 6 months or longer.
-Efficacy results are shown in Table 26 and Figure 2.
+Efficacy results are shown in Table 28 and Figure 2.
 
-Table 26: Efficacy Results - CHECKMATE-066
+Table 28: Efficacy Results - CHECKMATE-066
 
 |  | OPDIVO (n=210) | Dacarbazine (n=208) |
 | --- | --- | --- |
@@ -91,9 +91,9 @@ Disease characteristics were: AJCC Stage IV disease (93%); M1c disease (58%); el
 
 CHECKMATE-067 demonstrated statistically significant improvements in OS and PFS for patients randomized to either OPDIVO-containing arm as compared with the ipilimumab arm.
 The trial was not designed to assess whether adding ipilimumab to OPDIVO improves PFS or OS compared to OPDIVO as a single agent.
-Efficacy results are shown in Table 27 and Figure 3.
+Efficacy results are shown in Table 29 and Figure 3.
 
-Table 27: Efficacy Results - CHECKMATE-067
+Table 29: Efficacy Results - CHECKMATE-067
 
 |  | OPDIVO and Ipilimumab (n=314) | OPDIVO (n=316) | Ipilimumab (n=315) |
 | --- | --- | --- | --- |
@@ -138,9 +138,9 @@ The trial population characteristics were: median age was 55 years (range: 18 to
 Disease characteristics were AJCC Stage IIIB (34%), Stage IIIC (47%), Stage IV (19%), M1a-b (14%), BRAF V600 mutation positive (42%), BRAF wild-type (45%), elevated LDH (8%), PD-L1 ≥5% tumor cell membrane expression determined by clinical trial assay (34%), macroscopic lymph nodes (48%), and tumor ulceration (32%).
 
 CHECKMATE-238 demonstrated a statistically significant improvement in RFS for patients randomized to the OPDIVO arm compared with the ipilimumab 10 mg/kg arm.
-Efficacy results are shown in Table 28 and Figure 4.
+Efficacy results are shown in Table 30 and Figure 4.
 
-Table 28: Efficacy Results - CHECKMATE-238
+Table 30: Efficacy Results - CHECKMATE-238
 
 | Recurrence-free Survival |  |  |
 | --- | --- | --- |
@@ -153,6 +153,55 @@ Table 28: Efficacy Results - CHECKMATE-238
 Figure 4: Recurrence-free Survival - CHECKMATE-238
 
 ## 14.3 Metastatic Non-Small Cell Lung Cancer
+
+### First-line Treatment of Metastatic NSCLC Expressing PD-L1 (≥1%): In Combination with Ipilimumab
+
+CHECKMATE-227 (NCT02477826) was a randomized, open-label, multi-part trial in patients with metastatic or recurrent NSCLC.
+The study included patients (18 years of age or older) with histologically confirmed Stage IV or recurrent NSCLC (per the 7th International Association for the Study of Lung Cancer [ASLC] classification), ECOG performance status 0 or 1, and no prior anticancer therapy.
+Patients were enrolled regardless of their tumor PD-L1 status.
+Patients with known EGFR mutations or ALK translocations sensitive to available targeted inhibitor therapy, untreated brain metastases, carcinomatous meningitis, active autoimmune disease, or medical conditions requiring systemic immunosuppression were excluded from the study.
+Patients with treated brain metastases were eligible if neurologically returned to baseline at least 2 weeks prior to enrolment, and either off corticosteroids, or on a stable or decreasing dose of <10 mg daily prednisone equivalents.
+
+Primary efficacy results were based on Part 1a of the study, which was limited to patients with PD-L1 tumor expression ≥1%.
+Tumor specimens were evaluated prospectively using the PD-L1 IHC 28-8 pharmDx assay at a central laboratory.
+Randomization was stratified by tumor histology (non-squamous versus squamous).
+The evaluation of efficacy relied on the comparison between:
+
+- •OPDIVO 3 mg/kg administered intravenously over 30 minutes every 2 weeks in combination with ipilimumab 1 mg/kg administered intravenously over 30 minutes every 6 weeks; or
+- •Platinum-doublet chemotherapy
+
+Chemotherapy regimens consisted of pemetrexed (500 mg/m2) and cisplatin (75 mg/m2) or pemetrexed (500 mg/m2) and carboplatin (AUC 5 or 6) for non-squamous NSCLC or gemcitabine (1000 or 1250 mg/m2) and cisplatin (75 mg/m2) or gemcitabine (1000 mg/m2) and carboplatin (AUC 5) (gemcitabine was administered on Days 1 and 8 of each cycle) for squamous NSCLC.
+
+Study treatment continued until disease progression, unacceptable toxicity, or for up to 24 months.
+Treatment continued beyond disease progression if a patient was clinically stable and was considered to be deriving clinical benefit by the investigator.
+Patients who discontinued combination therapy because of an adverse event attributed to ipilimumab were permitted to continue OPDIVO as a single agent.
+Tumor assessments were performed every 6 weeks from the first dose of study treatment for the first 12 months, then every 12 weeks until disease progression or study treatment was discontinued.
+The primary efficacy outcome measure was OS.
+Additional efficacy outcome measures included PFS, ORR, and duration of response as assessed by BICR.
+
+In Part 1a, a total of 793 patients were randomized to receive either OPDIVO in combination with ipilimumab (n=396) or platinum-doublet chemotherapy (n=397).
+The median age was 64 years (range: 26 to 87) with 49% of patients ≥65 years and 10% of patients ≥75 years, 76% White, and 65% male.
+Baseline ECOG performance status was 0 (34%) or 1 (65%), 50% with PD-L1 ≥50%, 29% with squamous and 71% with non-squamous histology, 10% had brain metastases, and 85% were former/current smokers.
+
+The study demonstrated a statistically significant improvement in OS for PD-L1 ≥1% patients randomized to the OPDIVO and ipilimumab arm compared with the platinum-doublet chemotherapy arm.
+The OS results are presented in Table 31 and Figure 5.
+
+Table 31: Efficacy Results (PD-L1 ≥1%) - CHECKMATE-227 Part 1a
+
+|  | OPDIVO and Ipilimumab (n=396) | Platinum-Doublet Chemotherapy (n=397) |
+| --- | --- | --- |
+| Overall Survival |  |  |
+| Events (%) | 258 (65%) | 298 (75%) |
+| Median (months)a (95% CI) | 17.1(15, 20.1) | 14.9(12.7, 16.7) |
+| Hazard ratio (95% CI)b | 0.79 (0.67, 0.94) |  |
+| Stratified log-rank p-value | 0.0066 |  |
+| a Kaplan-Meier estimate. b Based on a stratified Cox proportional hazard model. |  |  |
+
+Figure 5: Overall Survival (PD-L1 ≥1%) - CHECKMATE-227
+
+BICR-assessed PFS showed a HR of 0.82 (95% CI: 0.69, 0.97), with a median PFS of 5.1 months (95% CI: 4.1, 6.3) in the OPDIVO and ipilimumab arm and 5.6 months (95% CI: 4.6, 5.8) in the platinum-doublet chemotherapy arm.
+The BICR-assessed confirmed ORR was 36% (95% CI: 31, 41) in the OPDIVO and ipilimumab arm and 30% (95% CI: 26, 35) in the platinum-doublet chemotherapy arm.
+Median duration of response observed in the OPDIVO and ipilimumab arm was 23.2 months and 6.2 months in the platinum-doublet chemotherapy arm.
 
 ### Second-line Treatment of Metastatic Squamous NSCLC
 
@@ -173,9 +222,9 @@ Baseline disease characteristics of the population as reported by investigators 
 All patients received prior therapy with a platinum-doublet regimen and 99% of patients had tumors of squamous-cell histology.
 
 The trial demonstrated a statistically significant improvement in OS for patients randomized to OPDIVO as compared with docetaxel at the prespecified interim analysis when 199 events were observed (86% of the planned number of events for final analysis).
-Efficacy results are shown in Table 29 and Figure 5.
+Efficacy results are shown in Table 32 and Figure 6.
 
-Table 29: Efficacy Results - CHECKMATE-017
+Table 32: Efficacy Results - CHECKMATE-017
 
 |  | OPDIVO (n=135) | Docetaxel (n=137) |
 | --- | --- | --- |
@@ -196,7 +245,7 @@ Table 29: Efficacy Results - CHECKMATE-017
 | p-valueb | 0.0004 |  |
 | a Based on a stratified proportional hazards model. b Based on stratified log-rank test. c p-value is compared with.0315 of the allocated alpha for this interim analysis. d Based on the stratified Cochran-Mantel-Haenszel test. |  |  |
 
-Figure 5: Overall Survival - CHECKMATE-017
+Figure 6: Overall Survival - CHECKMATE-017
 
 Archival tumor specimens were retrospectively evaluated for PD-L1 expression.
 Across the trial population, 17% of 272 patients had non-quantifiable results.
@@ -223,9 +272,9 @@ Prior therapy included platinum-doublet regimen (100%) and 40% received maintena
 Histologic subtypes included adenocarcinoma (93%), large cell (2.4%), and bronchoalveolar (0.9%).
 
 CHECKMATE-057 demonstrated a statistically significant improvement in OS for patients randomized to OPDIVO as compared with docetaxel at the prespecified interim analysis when 413 events were observed (93% of the planned number of events for final analysis).
-Efficacy results are shown in Table 30 and Figure 6.
+Efficacy results are shown in Table 33 and Figure 7.
 
-Table 30: Efficacy Results - CHECKMATE-057
+Table 33: Efficacy Results - CHECKMATE-057
 
 |  | OPDIVO (n=292) | Docetaxel (n=290) |
 | --- | --- | --- |
@@ -246,17 +295,17 @@ Table 30: Efficacy Results - CHECKMATE-057
 | p-valueb | 0.39 |  |
 | a Based on a stratified proportional hazards model. b Based on stratified log-rank test. c p-value is compared with.0408 of the allocated alpha for this interim analysis. d Based on the stratified Cochran-Mantel-Haenszel test. |  |  |
 
-Figure 6: Overall Survival - CHECKMATE-057
+Figure 7: Overall Survival - CHECKMATE-057
 
 Archival tumor specimens were evaluated for PD-L1 expression following completion of the trial.
 Across the trial population, 22% of 582 patients had non-quantifiable results.
 Of the remaining 455 patients, the proportion of patients in retrospectively determined subgroups based on PD-L1 testing using the PD-L1 IHC 28-8 pharmDx assay were: 46% PD-L1 negative, defined as <1% of tumor cells expressing PD-L1 and 54% had PD-L1 expression, defined as ≥1% of tumor cells expressing PD-L1.
 Among the 246 patients with tumors expressing PD-L1, 26% had ≥1% but <5% tumor cells with positive staining, 7% had ≥5% but <10% tumor cells with positive staining, and 67% had ≥10% tumor cells with positive staining.
-Figures 7 and 8 summarize the results of prespecified analyses of OS and PFS in subgroups determined by percentage of tumor cells expressing PD-L1.
+Figures 8 and 9 summarize the results of prespecified analyses of OS and PFS in subgroups determined by percentage of tumor cells expressing PD-L1.
 
-Figure 7: Forest Plot: OS Based on PD-L1 Expression - CHECKMATE-057
+Figure 8: Forest Plot: OS Based on PD-L1 Expression - CHECKMATE-057
 
-Figure 8: Forest Plot: PFS Based on PD-L1 Expression - CHECKMATE-057
+Figure 9: Forest Plot: PFS Based on PD-L1 Expression - CHECKMATE-057
 
 ## 14.4 Small Cell Lung Cancer
 
@@ -273,9 +322,9 @@ The majority (94%) of the patients were White, <1% were Asian, and 4% were Black
 Baseline ECOG performance status was 0 (29%) or 1 (70%), 93% were former/current smokers, 7% had CNS metastases, 94% received two to three prior lines of therapy and 6% received four to five prior lines of therapy.
 Approximately 65% of patients had platinum-sensitive SCLC, defined as progression ≥90 days after the last dose of platinum-containing therapy.
 
-Efficacy results are shown in Table 31.
+Efficacy results are shown in Table 34.
 
-Table 31: Efficacy Results - CHECKMATE-032
+Table 34: Efficacy Results - CHECKMATE-032
 
 |  | OPDIVO (n=109) |
 | --- | --- |
@@ -301,9 +350,9 @@ Patient distribution by MSKCC risk groups was 34% favorable, 47% intermediate, a
 
 The trial demonstrated a statistically significant improvement in OS for patients randomized to OPDIVO as compared with everolimus at the prespecified interim analysis when 398 events were observed (70% of the planned number of events for final analysis).
 OS benefit was observed regardless of PD-L1 expression level.
-Efficacy results are shown in Table 32 and Figure 9.
+Efficacy results are shown in Table 35 and Figure 10.
 
-Table 32: Efficacy Results - CHECKMATE-025
+Table 35: Efficacy Results - CHECKMATE-025
 
 |  | OPDIVO (n=410) | Everolimus (n=411) |
 | --- | --- | --- |
@@ -317,7 +366,7 @@ Table 32: Efficacy Results - CHECKMATE-025
 | Median time to onset of confirmed response in months (min, max) | 3.0 (1.4, 13.0) | 3.7 (1.5, 11.2) |
 | a Based on a stratified proportional hazards model. b Based on a stratified log-rank test. c p-value is compared with.0148 of the allocated alpha for this interim analysis. |  |  |
 
-Figure 9: Overall Survival - CHECKMATE-025
+Figure 10: Overall Survival - CHECKMATE-025
 
 Previously Untreated Renal Cell Carcinoma
 
@@ -335,12 +384,12 @@ The trial population characteristics were: median age was 61 years (range: 21 to
 The majority of patients were male (73%) and White (87%) and 26% and 74% of patients had a baseline KPS of 70% to 80% and 90% to 100%, respectively.
 
 The major efficacy outcome measures were OS, PFS (independent radiographic review committee [IRRC]-assessed) and confirmed ORR (IRRC-assessed) in intermediate/poor risk patients.
-In this population, the trial demonstrated statistically significant improvement in OS and ORR for patients randomized to OPDIVO and ipilimumab as compared with sunitinib (Table 33 and Figure 10).
+In this population, the trial demonstrated statistically significant improvement in OS and ORR for patients randomized to OPDIVO and ipilimumab as compared with sunitinib (Table 36 and Figure 11).
 OS benefit was observed regardless of PD-L1 expression level.
 The trial did not demonstrate a statistically significant improvement in PFS.
-Efficacy results are shown in Table 33 and Figure 10.
+Efficacy results are shown in Table 36 and Figure 11.
 
-Table 33: Efficacy Results - CHECKMATE-214
+Table 36: Efficacy Results - CHECKMATE-214
 
 |  | OPDIVO and Ipilimumab (n=425) | Sunitinib (n=422) |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -362,7 +411,7 @@ Table 33: Efficacy Results - CHECKMATE-214
 | p-valueb | NSf |  |  |  |  |
 | a Based on a stratified proportional hazards model. b Based on a stratified log-rank test. c p-value is compared to alpha 0.002 in order to achieve statistical significance. d Based on the stratified DerSimonian-Laird test. e p-value is compared to alpha 0.001 in order to achieve statistical significance. f Not Significant at alpha level of 0.009. |  |  |  |  |  |
 
-Figure 10: Overall Survival (Intermediate/Poor Risk Population) - CHECKMATE-214
+Figure 11: Overall Survival (Intermediate/Poor Risk Population) - CHECKMATE-214
 
 CHECKMATE-214 also randomized 249 favorable risk patients as per IMDC criteria to OPDIVO and ipilimumab (n=125) or to sunitinib (n=124).
 These patients were not evaluated as part of the efficacy analysis population.
@@ -390,9 +439,9 @@ The median age was 37 years (range: 18 to 72).
 The majority were male (64%) and White (87%).
 Patients had received a median of 5 prior systemic regimens (range: 2 to 15).
 They received a median of 27 doses of OPDIVO (range: 3 to 48), with a median duration of therapy of 14 months (range: 1 to 23 months).
-Efficacy results are shown in Table 34.
+Efficacy results are shown in Table 37.
 
-Table 34: Efficacy in cHL after Autologous HSCT and Post-transplantation Brentuximab Vedotin
+Table 37: Efficacy in cHL after Autologous HSCT and Post-transplantation Brentuximab Vedotin
 
 |  | CHECKMATE-205 and CHECKMATE-039 (n=95) |
 | --- | --- |
@@ -410,9 +459,9 @@ The majority were male (59%) and White (86%).
 Patients had a median of 4 prior systemic regimens (range: 2 to 15), with 85% having 3 or more prior systemic regimens and 76% having prior brentuximab vedotin.
 Of the 195 patients having prior brentuximab vedotin, 17% received it only before autologous HSCT, 78% received it only after HSCT, and 5% received it both before and after HSCT.
 Patients received a median of 21 doses of OPDIVO (range: 1 to 48), with a median duration of therapy of 10 months (range: 0 to 23 months).
-Efficacy results are shown in Table 35.
+Efficacy results are shown in Table 38.
 
-Table 35: Efficacy in cHL after Autologous HSCT
+Table 38: Efficacy in cHL after Autologous HSCT
 
 |  | CHECKMATE-205 and CHECKMATE-039 (n=258) |  |  |
 | --- | --- | --- | --- |
@@ -445,9 +494,9 @@ Baseline ECOG performance status was 0 (20%) or 1 (78%), 76% were former/current
 
 The trial demonstrated a statistically significant improvement in OS for patients randomized to OPDIVO as compared with investigator’s choice at a pre-specified interim analysis (78% of the planned number of events for final analysis).
 There were no statistically significant differences between the two arms for PFS (HR=0.89; 95% CI: 0.70, 1.13) or ORR (13.3% [95% CI: 9.3, 18.3] vs. 5.8% [95% CI: 2.4, 11.6] for nivolumab and investigator’s choice, respectively).
-Efficacy results are shown in Table 36 and Figure 11.
+Efficacy results are shown in Table 39 and Figure 12.
 
-Table 36: Overall Survival - CHECKMATE-141
+Table 39: Overall Survival - CHECKMATE-141
 
 |  | OPDIVO (n=240) | Investigator’s Choice (n=121) |
 | --- | --- | --- |
@@ -458,7 +507,7 @@ Table 36: Overall Survival - CHECKMATE-141
 | p-valueb,c | 0.0101 |  |
 | a Based on stratified proportional hazards model. b Based on stratified log-rank test. c p-value is compared with 0.0227 of the allocated alpha for this interim analysis. |  |  |
 
-Figure 11: Overall Survival - CHECKMATE-141
+Figure 12: Overall Survival - CHECKMATE-141
 
 Archival tumor specimens were retrospectively evaluated for PD-L1 expression using the PD-L1 IHC 28-8 pharmDx assay.
 Across the trial population, 28% (101/361) of patients had non-quantifiable results.
@@ -486,11 +535,11 @@ Patients were included regardless of their PD-L1 status.
 Tumor specimens were evaluated prospectively using the PD-L1 IHC 28-8 pharmDx assay at a central laboratory and the results were used to define subgroups for pre-specified analyses.
 Of the 270 patients, 46% were defined as having PD-L1 expression of ≥1% (defined as ≥1% of tumor cells expressing PD-L1).
 The remaining 54% of patients were classified as having PD-L1 expression of <1% (defined as <1% of tumor cells expressing PD-L1).
-Confirmed ORR in all patients and the two PD-L1 subgroups are shown in Table 37.
+Confirmed ORR in all patients and the two PD-L1 subgroups are shown in Table 40.
 Median time to response was 1.9 months (range: 1.6-7.2).
 In 77 patients who received prior systemic therapy only in the neoadjuvant or adjuvant setting, the ORR was 23.4% (95% CI: 14.5%, 34.4%).
 
-Table 37: Efficacy Results - CHECKMATE-275
+Table 40: Efficacy Results - CHECKMATE-275
 
 |  | All PatientsN=270 | PD-L1 <1%N=146 | PD-L1 ≥1%N=124 |
 | --- | --- | --- | --- |
@@ -522,9 +571,9 @@ The median age was 58 years (range: 21 to 88), with 32% ≥65 years of age and 9
 Baseline ECOG performance status was 0 (45%) and 1 (55%), and 29% were reported to have Lynch Syndrome.
 Across the 119 patients, 69% had received prior treatment with a fluoropyrimidine, oxaliplatin, and irinotecan; 10%, 40%, 24%, and 15% received 1, 2, 3, or ≥4 prior lines of therapy for metastatic disease, respectively, and 29% had received an anti-EGFR antibody.
 
-Efficacy results for each of these single-arm cohorts are shown in Table 38.
+Efficacy results for each of these single-arm cohorts are shown in Table 41.
 
-Table 38: Efficacy Results - CHECKMATE-142
+Table 41: Efficacy Results - CHECKMATE-142
 
 |  | OPDIVO MSI-H/dMMR Cohort |  | OPDIVO and Ipilimumab MSI-H/dMMR Cohort |  |
 | --- | --- | --- | --- | --- |
@@ -567,12 +616,12 @@ Child-Pugh class and score was A5 for 82% and A6 for 18%; 80% of patients had ex
 Prior cancer treatment history included surgery (74%), radiotherapy (29%), or local treatment (59%).
 All patients had received prior sorafenib, of whom 10% were unable to tolerate sorafenib; 29% of patients had received 2 or more prior systemic therapies.
 
-Efficacy results are shown in Table 39.
+Efficacy results are shown in Table 42.
 Based on the design of this study, the data below cannot be used to identify statistically significant differences in efficacy between cohorts.
 The results for OPDIVO in Cohorts 1 and 2 are based on a minimum follow-up of approximately 27 months.
 The results for OPDIVO in combination with ipilimumab in Cohort 4 are based on a minimum follow-up of 28 months.
 
-Table 39: Efficacy Results - Cohorts 1, 2, and 4 of CHECKMATE-040
+Table 42: Efficacy Results - Cohorts 1, 2, and 4 of CHECKMATE-040
 
 |  | OPDIVO and Ipilimumab (Cohort 4) (n=49) | OPDIVO (Cohorts 1 and 2) (n=154) |
 | --- | --- | --- |

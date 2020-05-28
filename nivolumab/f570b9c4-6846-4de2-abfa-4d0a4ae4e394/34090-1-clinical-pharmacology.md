@@ -36,8 +36,10 @@ Nivolumab has not been studied in patients with severe hepatic impairment (TB gr
 
 Drug Interaction Studies
 
-When OPDIVO 1 mg/kg was administered in combination with ipilimumab 3 mg/kg, the CL of nivolumab was increased by 29% and the CL of ipilimumab was unchanged compared to OPDIVO administered alone.
+When OPDIVO 3 mg/kg every 3 weeks was administered in combination with ipilimumab 1 mg/kg every 3 weeks, the CL of nivolumab and ipilimumab were unchanged compared to nivolumab or ipilimumab administered alone.
 
-When OPDIVO 3 mg/kg was administered in combination with ipilimumab 1 mg/kg, the CL of nivolumab and ipilimumab were unchanged.
+When OPDIVO 1 mg/kg was administered in combination with ipilimumab 3 mg/kg, the CL of nivolumab was increased by 29% compared to OPDIVO administered alone and the CL of ipilimumab was unchanged compared to ipilimumab administered alone.
+
+When OPDIVO 3 mg/kg every 2 weeks was administered in combination with ipilimumab 1 mg/kg every 6 weeks, the CL of nivolumab was unchanged compared to OPDIVO administered alone and the CL of ipilimumab was increased by 30% compared to ipilimumab administered alone.
 
 When administered in combination, the CL of nivolumab increased by 20% in the presence of anti-nivolumab antibodies.

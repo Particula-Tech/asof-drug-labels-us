@@ -1,6 +1,12 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-## 2.1 Recommended Dosage
+## 2.1 Patient Selection
+
+Select patients with metastatic NSCLC for treatment with OPDIVO in combination with ipilimumab based on PD-L1 expression [see Clinical Studies (14.3)].
+
+Information on FDA-approved tests for the determination of PD-L1 expression in NSCLC is available at: http://www.fda.gov/CompanionDiagnostics.
+
+## 2.2 Recommended Dosage
 
 The recommended dosages of OPDIVO as a single agent are presented in Table 1.
 
@@ -29,15 +35,16 @@ Table 2: Recommended Dosages of OPDIVO in Combination with Ipilimumab
 | --- | --- | --- |
 | Unresectable or metastatic melanoma | 1 mg/kg every 3 weeks(30-minute intravenous infusion)with ipilimumab 3 mg/kg intravenouslyover 90 minutes on the same day | In combination with ipilimumab for a maximum of 4 doses or until unacceptable toxicity, whichever occurs earlier |
 | 240 mg every 2 weeks(30-minute intravenous infusion)or480 mg every 4 weeks(30-minute intravenous infusion) | After completing 4 doses of combination therapy, administer as single agent until disease progression or unacceptable toxicity |  |
-| Hepatocellular carcinoma | 1 mg/kg every 3 weeks(30-minute intravenous infusion)with ipilimumab 3 mg/kg intravenouslyover 30 minutes on the same day | In combination with ipilimumabfor 4 doses |
-| 240 mg every 2 weeks(30-minute intravenous infusion)or480 mg every 4 weeks(30-minute intravenous infusion) | After completing 4 doses of combination therapy, administer as single agent until disease progression or unacceptable toxicity |  |
+| Metastatic non-small cell lung cancer expressing PD-L1 | 3 mg/kg every 2 weeks(30-minute intravenous infusion)with ipilimumab 1 mg/kg every 6 weeks(30-minute intravenous infusion) | In combination with ipilimumab until disease progression, unacceptable toxicity, or up to 2 years in patients without disease progression |
 | Advanced renal cell carcinoma | 3 mg/kg every 3 weeks(30-minute intravenous infusion)with ipilimumab 1 mg/kg intravenouslyover 30 minutes on the same day | In combination with ipilimumab for 4 doses |
 | 240 mg every 2 weeks(30-minute intravenous infusion)or480 mg every 4 weeks(30-minute intravenous infusion) | After completing 4 doses of combination therapy, administer as single agent until disease progression or unacceptable toxicity |  |
 | Microsatellite instability-high (MSI-H) or mismatch repair deficient (dMMR) metastatic colorectal cancer | 3 mg/kg every 3 weeks(30-minute intravenous infusion)with ipilimumab 1 mg/kg intravenouslyover 30 minutes on the same day | In combination with ipilimumab for 4 doses |
 | Adult patients and pediatric patients age 12 years and older and weighing 40 kg or more:240 mg every 2 weeks(30-minute intravenous infusion)or480 mg every 4 weeks(30-minute intravenous infusion) | After completing 4 doses of combination therapy, administer as single agent until disease progression or unacceptable toxicity |  |
 | Pediatric patients age 12 years and older and weighing less than 40 kg:3 mg/kg every 2 weeks(30-minute intravenous infusion) |  |  |
+| Hepatocellular carcinoma | 1 mg/kg every 3 weeks(30-minute intravenous infusion)with ipilimumab 3 mg/kg intravenouslyover 30 minutes on the same day | In combination with ipilimumab for 4 doses |
+| 240 mg every 2 weeks(30-minute intravenous infusion)or480 mg every 4 weeks(30-minute intravenous infusion) | After completing 4 doses of combination therapy, administer as single agent until disease progression or unacceptable toxicity |  |
 
-## 2.2 Dose Modifications
+## 2.3 Dose Modifications
 
 Recommendations for OPDIVO modifications are provided in Table 3.
 When OPDIVO is administered in combination with ipilimumab, if OPDIVO is withheld, ipilimumab should also be withheld.
@@ -81,7 +88,7 @@ Table 3: Recommended Dose Modifications for OPDIVO
 | Persistent Grade 2 or 3 adverse reactions lasting 12 weeks or longer | Permanently discontinue |  |
 | * Toxicity was graded per National Cancer Institute Common Terminology Criteria for Adverse Events. Version 4.0 (NCI CTCAE v4). a Resume treatment when adverse reaction improves to Grade 0 or 1. b HCC: hepatocellular carcinoma. c Resume treatment when AST/ALT returns to baseline. |  |  |
 
-## 2.3 Preparation and Administration
+## 2.4 Preparation and Administration
 
 Visually inspect for particulate matter and discoloration.
 OPDIVO is a clear to opalescent, colorless to pale-yellow solution.
