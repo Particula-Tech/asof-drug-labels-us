@@ -2,7 +2,7 @@
 
 ## 7.1 Pharmacodynamic Interactions
 
-### Drugs Prolonging the QT interval
+### Drugs Prolonging the QT Interval
 
 Co-administration of drugs prolonging the QT interval (such as class I and III antiarrhythmics, lithium, certain phenothiazines, tricyclic antidepressants, certain fluoroquinolone and macrolide antibiotics, azole antifungals, halogenated inhalation anesthetic agents) increases the risk of Torsade de Pointes.
 In general, avoid concomitant use of drugs that prolong the QT interval [see Warnings and Precautions (5.4)].
@@ -52,7 +52,7 @@ Lower starting and maintenance doses of other CYP3A4 substrates (e.g., atorvasta
 Potentiation of warfarin-type (CYP2C9 and CYP3A substrate) anticoagulant response is almost always seen in patients receiving amiodarone and can result in serious or fatal bleeding.
 Since the concomitant administration of warfarin with amiodarone increases INR by 100% after 3 to 4 days, reduce the dose of the anticoagulant by one-third to one-half, and monitor INR closely.
 
-Cyclosporine (CYP3A substrate)
+Cyclosporine (CYP3A Substrate)
 
 Administered in combination with oral amiodarone has been reported to produce persistently elevated plasma concentrations of cyclosporine resulting in elevated creatinine, despite reduction in dose of cyclosporine.
 Monitor cyclosporine drug levels and renal function in patients taking both drugs.

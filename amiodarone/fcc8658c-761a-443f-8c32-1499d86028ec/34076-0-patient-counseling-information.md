@@ -10,6 +10,6 @@ Manufactured for: Mylan Institutional LLC Rockford, IL 61103 U.S.A.
 
 Manufactured by: Mylan Institutional Galway, Ireland
 
-0920L101
+0920L102
 
-Revised: 4/2017 MI:AMDRIJ:R4
+Revised: 3/2020 MI:AMDRIJ:R5

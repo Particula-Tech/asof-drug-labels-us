@@ -50,6 +50,8 @@ NOTE: Inspect parenteral drug products for particulate matter and discoloration 
 CAUTION: Do not use plastic containers in series connections.
 Such use could result in air embolism due to residual air being drawn from the primary container before the administration of the fluid from the secondary container is complete.
 
+Discard unused portion.
+
 Table 2: AMIODARONE HCl SOLUTION STABILITY
 
 | Solution | Concentration (mg/mL) | Container | Comments |
@@ -88,6 +90,8 @@ Table 3: Y-SITE INJECTION INCOMPATIBILITY
 | Sodium Phosphates | D5W | 6 mg/mL |  |  |  |  |  |  |  |
 | D5W = Dextrose 5% in Sterile Water, NS = Normal Saline |  |  |  |  |  |  |  |  |  |
 
+Intravenous to Oral Transition
+
 Patients whose arrhythmias have been suppressed by amiodarone may be switched to oral amiodarone.
 The optimal dose for changing from intravenous to oral administration of amiodarone will depend on the dose of intravenous amiodarone already administered, as well as the bioavailability of oral amiodarone.
 When changing to oral amiodarone therapy, clinical monitoring is recommended, particularly for elderly patients.
@@ -105,3 +109,7 @@ Table 4: RECOMMENDATIONS FOR ORAL DOSAGE AFTER INTRAVENOUS INFUSION
 | < 1 week | 800 mg to 1600 mg |
 | 1 to 3 weeks | 600 mg to 800 mg |
 | > 3 weeksIntravenous amiodarone is not intended for maintenance treatment. | 400 mg |
+
+1. 1.Assuming a 720 mg/day infusion (0.5 mg/min).
+
+Intravenous amiodarone is not intended for maintenance treatment.
