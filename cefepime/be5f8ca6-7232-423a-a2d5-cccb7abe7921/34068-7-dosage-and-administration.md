@@ -105,7 +105,7 @@ Cefepime Injection should be administered intravenously over approximately 30 mi
 Intermittent intravenous infusion with a Y-type administration set can be accomplished with compatible solutions.
 However, during infusion of Cefepime Injection, it is desirable to discontinue the other solution.
 
-Solutions of cefepime, like those of most beta-lactam antibiotics, should not be added to solutions of ampicillin at a concentration greater than 40 mg per mL, and should not be added to metronidazole, vancomycin, gentamicin, tobramycin, netilmicin sulfate or aminophylline because of potential interaction.
-However, if concurrent therapy with cefepime is indicated, each of these antibiotics can be administered separately.
+Solutions of cefepime, like those of most beta-lactam antibacterial drugs, should not be added to solutions of ampicillin at a concentration greater than 40 mg per mL, and should not be added to metronidazole, vancomycin, gentamicin, tobramycin, netilmicin sulfate or aminophylline because of potential interaction.
+However, if concurrent therapy with cefepime is indicated, each of these antibacterials can be administered separately.
 
 As with other cephalosporins, the color of Cefepime Injection tend to darken depending on storage conditions; however, when stored as recommended, the product potency is not adversely affected.

@@ -7,7 +7,7 @@ It is recommended that glucose tests based on enzymatic glucose oxidase reaction
 
 ## 7.2 Aminoglycosides
 
-Renal function should be monitored carefully if high doses of aminoglycosides are to be administered with Cefepime Injection because of the increased potential of nephrotoxicity and ototoxicity of aminoglycoside antibiotics.
+Renal function should be monitored carefully if high doses of aminoglycosides are to be administered with Cefepime Injection because of the increased potential of nephrotoxicity and ototoxicity of aminoglycoside antibacterial drugs.
 
 ## 7.3 Diuretics
 

@@ -106,3 +106,10 @@ Check for minute leaks and solution clarity.
 Check for minute leaks by squeezing thawed bag firmly.
 If leaks are found, discard bag as sterility may be impaired.
 Do not use unless solution is clear.
+
+CODE: 2G3578 LOT: XXXXXXXXX EXP: DD MMM YY QTY: QQ SN: #########
+
+Bar Code FOR PLACEMENT ONLY.
+(01) X XXXXXXX XXXXX X (21)XXXXXXXXX (17)XXXXXX (10)XXXXXXXXX
+
+07-06-77-708

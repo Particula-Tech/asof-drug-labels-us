@@ -7,7 +7,7 @@ Cefepime is an antibacterial drug.
 
 ## 12.2 Pharmacodynamics
 
-Similar to other beta-lactam antimicrobial agents, the time that the unbound plasma concentration of cefepime exceeds the MIC of the infecting organism has been shown to best correlate with efficacy in animal models of infection.
+Similar to other beta-lactam antibacterial drugs, the time that the unbound plasma concentration of cefepime exceeds the MIC of the infecting organism has been shown to best correlate with efficacy in animal models of infection.
 However, the pharmacokinetic/pharmacodynamic relationship for cefepime has not been evaluated in patients.
 
 ## 12.3 Pharmacokinetics
@@ -28,9 +28,6 @@ Table 6: Mean Pharmacokinetic Parameters for Cefepime (±SD), Intravenous Admini
 Distribution
 
 The average steady-state volume of distribution of cefepime is 18.0 (±2.0) L. The serum protein binding of cefepime is approximately 20% and is independent of its concentration in serum.
-
-Cefepime is excreted in human milk at a concentration of 0.5 mcg/mL.
-A nursing infant consuming approximately 1000 mL of human milk per day would receive approximately 0.5 mg of cefepime per day [see Use in Specific Populations (8.3)].
 
 Concentrations of cefepime achieved in specific tissues and body fluids are listed in Table 7.
 
@@ -99,7 +96,7 @@ Within bacterial cells, the molecular targets of cefepime are the penicillin bin
 
 Antimicrobial Activity
 
-Cefepime has been shown to be active against most isolates of the following microorganisms, both in vitro and in clinical infections [see INDICATIONS AND USAGE (1)]:
+Cefepime has been shown to be active against most isolates of the following bacteria, both in vitro and in clinical infections [see INDICATIONS AND USAGE (1)]:
 
 Gram-negative bacteria
 

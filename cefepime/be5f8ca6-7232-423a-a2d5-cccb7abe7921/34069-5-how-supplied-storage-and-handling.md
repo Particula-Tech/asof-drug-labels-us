@@ -16,5 +16,4 @@ Do not force thaw by immersion in water baths or by microwave irradiation.
 
 The thawed solution remains stable for 7 days under refrigeration 5°C (41°F) or 24 hours at room temperature 25°C (77°F).
 Do not refreeze.
-
 [See Dosage and Administration (2.4)].

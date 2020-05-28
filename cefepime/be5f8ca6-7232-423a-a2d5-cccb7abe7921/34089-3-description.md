@@ -1,6 +1,6 @@
 # 11 DESCRIPTION
 
-Cefepime Injection in GALAXY Containers (PL 2040 Plastic) is a sterile, injectable product consisting of Cefepime Hydrochloride, USP, a semi-synthetic, broad spectrum, cephalosporin antibiotic for parenteral administration.
+Cefepime Injection in GALAXY Containers (PL 2040 Plastic) is a sterile, injectable product consisting of Cefepime Hydrochloride, USP, a semi-synthetic, broad spectrum, cephalosporin antibacterial for parenteral administration.
 The chemical name is 1-[[(6R,7R)-7-[2-(2-Amino-4-thiazolyl) glyoxylamido]-2-carboxy-8-oxo-5-thia-1-azabicyclo[4.2.0] oct-2-en-3-yl]methyl]-1-methylpyrrolidinium chloride, 72-(Z)-(O-methyloxime), monohydrochloride, monohydrate, which corresponds to the following structural formula:
 
 Cefepime hydrochloride (monohydrate) has a molecular mass of 571.50 and a molecular formula of C19H25ClN6O5S2•HCl•H2O.

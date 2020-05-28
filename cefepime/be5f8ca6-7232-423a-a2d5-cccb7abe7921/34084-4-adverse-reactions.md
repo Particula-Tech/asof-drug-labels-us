@@ -4,7 +4,7 @@ The following adverse reactions are discussed in other sections of the labeling:
 
 - •Hypersensitivity reactions [see Warnings and Precautions (5.1)]
 - •Neurotoxicity [see Warnings and Precautions (5.2)]
-- •Clostridium difficile-associated diarrhea [see Warnings and Precautions (5.3)]
+- •Clostridioides difficile-associated diarrhea [see Warnings and Precautions (5.3)]
 
 ## 6.1 Clinical Trials Experience
 
