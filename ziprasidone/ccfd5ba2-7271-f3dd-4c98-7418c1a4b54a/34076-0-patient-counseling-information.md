@@ -4,7 +4,7 @@ Advise the patient to read the FDA-approved patient labeling (Patient Informatio
 
 Administration with Food
 
-Instruct patients to take ziprasidone hydrochloride capsules with food for optimal absorption.
+Instruct patients to take ziprasidone capsules with food for optimal absorption.
 The absorption of ziprasidone is increased up to two-fold in the presence of food [see Drug Interactions (7.10) and Clinical Pharmacology (12.3)].
 
 QTc Prolongation
@@ -20,8 +20,8 @@ Instruct patients to report to their health care provider at the earliest onset 
 
 Pregnancy
 
-Advise pregnant women to notify their healthcare provider if they become pregnant or intend to become pregnant during treatment with ziprasidone hydrochloride capsules.
-Advise patients that ziprasidone hydrochloride capsules may cause extrapyramidal and/or withdrawal symptoms (agitation, hypertonia, hypotonia, tremor, somnolence, respiratory distress, and feeding disorder) in a neonate.
+Advise pregnant women to notify their healthcare provider if they become pregnant or intend to become pregnant during treatment with ziprasidone capsules.
+Advise patients that ziprasidone capsules may cause extrapyramidal and/or withdrawal symptoms (agitation, hypertonia, hypotonia, tremor, somnolence, respiratory distress, and feeding disorder) in a neonate.
 Advise patients that there is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to ziprasidone during pregnancy [see Use in Specific Populations (8.1)].
 
 Lactation
@@ -38,13 +38,13 @@ For current full prescribing information, please visit www.apotex.com.
 
 APOTEX INC.
 
-ZIPRASIDONE HYDROCHLORIDE CAPSULES, USP
+ZIPRASIDONE CAPSULES, USP
 
 20 mg, 40 mg, 60 mg and 80 mg
 
 | Manufactured by Apotex Inc. Toronto, Ontario Canada M9L 1T9 | Manufactured for Apotex Corp. Weston, Florida 33326 |
 | --- | --- |
 
-Revised: February 2020
+Revised: May 2020
 
-Revision: 14
+Revision: 15

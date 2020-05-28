@@ -7,12 +7,12 @@ Analyses of 17 placebo-controlled trials (modal duration of 10 weeks), largely i
 Over the course of a typical 10-week controlled trial, the rate of death in drug-treated patients was about 4.5%, compared to a rate of about 2.6% in the placebo group.
 
 Although the causes of death were varied, most of the deaths appeared to be either cardiovascular (e.g., heart failure, sudden death) or infectious (e.g., pneumonia) in nature.
-Ziprasidone hydrochloride capsules are not approved for the treatment of patients with dementia-related psychosis [see Boxed Warning, Warnings and Precautions (5.2)].
+Ziprasidone capsules are not approved for the treatment of patients with dementia-related psychosis [see Boxed Warning, Warnings and Precautions (5.2)].
 
 ## 5.2 Cerebrovascular Adverse Reactions, Including Stroke, in Elderly Patients with Dementia-Related Psychosis
 
 In placebo-controlled trials in elderly subjects with dementia, patients randomized to risperidone, aripiprazole, and olanzapine had a higher incidence of stroke and transient ischemic attack, including fatal stroke.
-Ziprasidone hydrochloride capsules are not approved for the treatment of patients with dementia-related psychosis.
+Ziprasidone capsules are not approved for the treatment of patients with dementia-related psychosis.
 [see Boxed Warning and Warnings and Precautions (5.1)].
 
 ## 5.3 QT Prolongation and Risk of Sudden Death
@@ -32,7 +32,7 @@ The mean increase in QTc from baseline for ziprasidone ranged from approximately
 In the second phase of the study, the effect of ziprasidone on QTc length was not augmented by the presence of a metabolic inhibitor (ketoconazole 200 mg twice daily).
 
 In placebo-controlled trials, oral ziprasidone increased the QTc interval compared to placebo by approximately 10 msec at the highest recommended daily dose of 160 mg.
-In clinical trials with oral ziprasidone, the electrocardiograms of 2/2988 (0.06%) patients who received ziprasidone hydrochloride capsules and 1/440 (0.23%) patients who received placebo revealed QTc intervals exceeding the potentially clinically relevant threshold of 500 msec.
+In clinical trials with oral ziprasidone, the electrocardiograms of 2/2988 (0.06%) patients who received ziprasidone capsules and 1/440 (0.23%) patients who received placebo revealed QTc intervals exceeding the potentially clinically relevant threshold of 500 msec.
 In the ziprasidone-treated patients, neither case suggested a role of ziprasidone.
 One patient had a history of prolonged QTc and a screening measurement of 489 msec; QTc was 503 msec during ziprasidone treatment.
 The other patient had a QTc of 391 msec at the end of treatment with ziprasidone and upon switching to thioridazine experienced QTc measurements of 518 and 593 msec.
