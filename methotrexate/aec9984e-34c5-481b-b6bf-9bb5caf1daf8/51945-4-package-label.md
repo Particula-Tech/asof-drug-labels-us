@@ -12,7 +12,7 @@ CAUTION: Cytotoxic agent
 
 120 mL
 
-Silvergate Pharmaceuticals Inc.
+azurity pharmaceuticals
 
 Rx Only
 
@@ -23,11 +23,13 @@ Usual Dose: See prescribing information.
 KEEP THIS AND ALL MEDICATIONS OUT OF THE REACH OF CHILDREN
 
 Store refrigerated 2° - 8°C (36° - 46°F) Patients may store Xatmep either refrigerated or at room temperature (20° - 25°C/68° - 77°F).
+
 If stored at room temperature, discard after 60 days.
+
 Discard on
 
 _____/_____/_____
 
-Manufactured for: Silvergate Pharmaceuticals, Inc. Greenwood Village, CO 80111 COO (API): Germany
+Manufactured for: Azurity Pharmaceuticals, Inc. Wilmington, MA 01887 USA
 
 Lot: Exp:

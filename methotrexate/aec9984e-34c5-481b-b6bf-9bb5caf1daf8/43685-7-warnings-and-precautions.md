@@ -87,7 +87,7 @@ Based on published reports, methotrexate can cause impairment of fertility, olig
 It is not known if the infertility is reversible in affected patients.
 Discuss the risk of effects on reproduction with female and male patients [see Use in Specific Populations (8.3)].
 
-## 5.12 Increased Toxicity Due to ThirdSpace Accumulation
+## 5.12 Increased Toxicity Due to Third-Space Accumulation
 
 Methotrexate can exit slowly from third‑space accumulations resulting in prolonged terminal plasma half-life and toxicity.
 Evacuate significant third-space accumulations prior to methotrexate administration [see Clinical Pharmacology (12.3)].
