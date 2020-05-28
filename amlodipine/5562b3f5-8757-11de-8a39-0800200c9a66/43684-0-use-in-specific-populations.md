@@ -40,7 +40,7 @@ In a controlled clinical trial, 123 hypertensive patients treated with Tribenzor
 No overall differences in the efficacy or safety of Tribenzor were observed in these patient populations; however, greater sensitivity of some older individuals cannot be ruled out.
 The recommended initial dose of amlodipine in patients ≥ 75 years of age is 2.5 mg, a dose not available with Tribenzor.
 
-## 8.6Hepatic Impairment
+## 8.6 Hepatic Impairment
 
 There are no studies of Tribenzor in patients with hepatic insufficiency, but both amlodipine and olmesartan medoxomil show moderate increases in exposure in patients with severe hepatic impairment.
 The recommended initial dose of amlodipine in patients with severe hepatic impairment is 2.5 mg, a dose not available with Tribenzor [see Warnings and Precautions (5.5)].
@@ -54,7 +54,7 @@ Increases in AUC0-∞ and peak plasma concentration (Cmax) for olmesartan were o
 Hydrochlorothiazide.
 In patients with impaired hepatic function or progressive liver disease, minor alterations of fluid and electrolyte balance may precipitate hepatic coma.
 
-## 8.7Renal Impairment
+## 8.7 Renal Impairment
 
 There are no studies of Tribenzor in patients with renal impairment.
 Avoid use in patients with severe renal impairment (creatinine clearance <30 mL/min).

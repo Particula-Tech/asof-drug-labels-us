@@ -12,9 +12,7 @@ The antihypertensive effect of angiotensin II receptor antagonists, including ol
 
 Dual Blockade of the Renin-Angiotensin System (RAS)
 
-Dual blockade of the RAS with angiotensin receptor blockers, ACE inhibitors, or
-
-aliskiren is associated with increased risks of hypotension, hyperkalemia, and changes in renal function (including acute renal failure) compared to monotherapy.
+Dual blockade of the RAS with angiotensin receptor blockers, ACE inhibitors, or aliskiren is associated with increased risks of hypotension, hyperkalemia, and changes in renal function (including acute renal failure) compared to monotherapy.
 Most patients receiving the combination of two RAS inhibitors do not obtain any additional benefit compared to monotherapy.
 In general, avoid combined use of RAS inhibitors.
 Closely monitor blood pressure, renal function and electrolytes in patients on Tribenzor and other agents that affect the RAS.
@@ -38,7 +36,8 @@ Monitor lithium levels in patients receiving Tribenzor and lithium.
 Simvastatin
 
 Co-administration of simvastatin with amlodipine increases the systemic exposure of simvastatin.
-Limit the dose of simvastatin in patients on amlodipine to 20 mg daily [see Clinical Pharmacology (12.3)].
+Limit the dose of simvastatin in patients on amlodipine to 20 mg daily.
+[see Clinical Pharmacology (12.3)].
 
 Immunosuppressants
 

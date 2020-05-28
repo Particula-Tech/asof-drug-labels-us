@@ -139,3 +139,11 @@ Amlodipine.
 The following post-marketing event has been reported infrequently where a causal relationship is uncertain: gynecomastia.
 In post-marketing experience, jaundice and hepatic enzyme elevations (mostly consistent with cholestasis or hepatitis), in some cases severe enough to require hospitalization, have been reported in association with use of amlodipine.
 Postmarketing reporting has also revealed a possible association between extrapyramidal disorder and amlodipine.
+
+Hydrochlorothiazide.
+
+Non-melanoma Skin Cancer
+
+Hydrochlorothiazide is associated with an increased risk of non-melanoma skin cancer.
+In a study conducted in the Sentinel System, increased risk was predominantly for squamous cell carcinoma (SCC) and in white patients taking large cumulative doses.
+The increased risk for SCC in the overall population was approximately 1 additional case per 16,000 patients per year, and for white patients taking a cumulative dose of ≥50,000mg the risk increase was approximately 1 additional SCC case for every 6,700 patients per year.

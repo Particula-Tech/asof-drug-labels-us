@@ -46,15 +46,15 @@ Hydrochlorothiazide.
 Thiazides may precipitate azotemia in patients with renal disease.
 Cumulative effects of the drug may develop in patients with impaired renal function.
 
-## 5.5Patients with Hepatic Impairment
+## 5.5 Patients with Hepatic Impairment
 
 Amlodipine.
 Since amlodipine is extensively metabolized by the liver and the plasma elimination half-life (t1/2) is 56 hours in patients with severely impaired hepatic function, titrate slowly when administering to patients with severe hepatic impairment.
 
 ## 5.6 Electrolyte and Metabolic Imbalances
 
-Tribenzor contains hydrochlorothiazide which can cause hypokalemia, hyponatremia and hypomagnesemia.
-Hypomagnesemia can result in hypokalemia which may be difficult to treat despite potassium repletion.
+Tribenzor contains hydrochlorothiazide which can cause hypokalemia, hyponatremia and hypomagnesmia.
+Hypomagnesmia can result in hypokalemia which may be difficult to treat despite potassium repletion.
 Tribenzor also contains olmesartan, a drug that affects the RAS.
 Drugs that inhibit the RAS can also cause hyperkalemia.
 
