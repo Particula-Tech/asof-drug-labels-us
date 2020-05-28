@@ -47,10 +47,16 @@ Medication Residue in the Stool
 
 Instruct patients to notify their healthcare provider if they notice a medication residue in the stool [see Warnings and Precautions (5.18)].
 
-- 250 mg is Mfd. by AbbVie LTD, Barceloneta, PR 00617 500 mg is Mfd. by AbbVie Inc., North Chicago, IL 60064 U.S.A. or AbbVie LTD, Barceloneta, PR 00617 For AbbVie Inc., North Chicago, IL 60064 U.S.A.
+250 mg is Mfd. by AbbVie LTD, Barceloneta, PR 00617
 
-©2000-2019 AbbVie Inc.
+500 mg is Mfd. by AbbVie Inc., North Chicago, IL 60064 U.S.A. or
 
-Revised: December 2019
+AbbVie LTD, Barceloneta, PR 00617
 
-03-C084-R31
+For AbbVie Inc., North Chicago, IL 60064 U.S.A.
+
+©2000-2020 AbbVie Inc.
+
+Revised: May 2020
+
+20064113

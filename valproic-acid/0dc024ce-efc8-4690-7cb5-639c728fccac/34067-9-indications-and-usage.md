@@ -28,6 +28,6 @@ There is no evidence that Depakote ER is useful in the acute treatment of migrai
 ## 1.4 Important Limitations
 
 Because of the risk to the fetus of decreased IQ, neurodevelopmental disorders, neural tube defects, and other major congenital malformations, which may occur very early in pregnancy, valproate should not be used to treat women with epilepsy or bipolar disorder who are pregnant or who plan to become pregnant unless other medications have failed to provide adequate symptom control or are otherwise unacceptable.
-Valproate should not be administered to a woman of childbearing potential unless other medications have failed to provide adequate symptom control or are otherwise unacceptable[see Warnings and Precautions (5.2, 5.3, 5.4), Use in Specific Populations (8.1), and Patient Counseling Information (17)].
+Valproate should not be administered to a woman of childbearing potential unless other medications have failed to provide adequate symptom control or are otherwise unacceptable [see Warnings and Precautions (5.2, 5.3, 5.4), Use in Specific Populations (8.1), and Patient Counseling Information (17)].
 
 For prophylaxis of migraine headaches, Depakote ER is contraindicated in women who are pregnant and in women of childbearing potential who are not using effective contraception [see Contraindications (4)].

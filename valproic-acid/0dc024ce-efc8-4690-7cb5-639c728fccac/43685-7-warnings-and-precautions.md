@@ -67,7 +67,7 @@ This is especially important when valproate use is considered for a condition no
 Women should use effective contraception while using valproate.
 
 Women of childbearing potential should be counseled regularly regarding the relative risks and benefits of valproate use during pregnancy.
-This is especially important for women planning a pregnancy and for girls at the onset of puberty; alternative therapeutic options should be considered for these patients[see Boxed Warning and Use in Specific Populations (8.1)].
+This is especially important for women planning a pregnancy and for girls at the onset of puberty; alternative therapeutic options should be considered for these patients [see Boxed Warning and Use in Specific Populations (8.1)].
 
 To prevent major seizures, valproate should not be discontinued abruptly, as this can precipitate status epilepticus with resulting maternal and fetal hypoxia and threat to life.
 
