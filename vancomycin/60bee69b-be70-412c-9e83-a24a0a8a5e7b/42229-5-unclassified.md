@@ -1,3 +1,3 @@
-Manufactured for: Xellia Pharmaceuticals USA, LLC Raleigh, NC 27616 Made in Switzerland
+Manufactured for: Xellia Pharmaceuticals USA, LLC Buffalo Grove, IL 60089 Made in Switzerland
 
-L126USVNC06
+L126USVNC08

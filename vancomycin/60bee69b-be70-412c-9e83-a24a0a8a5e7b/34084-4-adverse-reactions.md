@@ -29,7 +29,7 @@ Gastrointestinal Disorders: Pseudomembranous colitis [see Warnings and Precautio
 
 Cardiac Disorders: Cardiac arrest, chest pain
 
-General Disorders and Administration Site Conditions: General discomfort, fever, chills, phlebitis, injection site irritation, injection site pain and necrosis following intramuscular injection, chemical peritonitis following intraperitoneal administration (Vancomycin Injection is not approved for intramuscular and intraperitoneal administration) [see Warnings and Precautions (5.8)]
+General Disorders and Administration Site Conditions: General discomfort, fever, chills, phlebitis, injection site irritation, injection site pain and necrosis following intramuscular injection, chemical peritonitis following intraperitoneal administration (Vancomycin Injection, USP is not approved for intramuscular and intraperitoneal administration) [see Warnings and Precautions (5.8)]
 
 Laboratory Abnormalities: Elevated blood urea nitrogen, elevated serum creatinine
 

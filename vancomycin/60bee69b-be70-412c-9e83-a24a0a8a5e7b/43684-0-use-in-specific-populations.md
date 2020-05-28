@@ -4,7 +4,7 @@
 
 Risk Summary
 
-This formulation of Vancomycin Injection is not recommended for use during pregnancy because it contains the excipients, PEG 400 and NADA, which caused fetal malformations in animal reproduction studies (see Data).
+This formulation of Vancomycin Injection, USP is not recommended for use during pregnancy because it contains the excipients, PEG 400 and NADA, which caused fetal malformations in animal reproduction studies (see Data).
 Advise pregnant women of the potential risk to the fetus.
 If therapy with vancomycin is needed during pregnancy, use other available formulations of vancomycin.
 
@@ -49,7 +49,7 @@ Similarly, in animal reproduction studies conducted in pregnant rabbits (gestati
 Increased incidence of delayed or incomplete ossifications of the metacarpals/metatarsals/phalanges and increased ossification (fused jugal/maxilla bones) were observed in rabbits at 1680 mg/kg.
 Minor fetal skeletal abnormalities were observed in rats at 3780 mg/kg which was also associated with maternal toxicity including increased incidence of litter loss.
 
-No animal studies have been conducted to evaluate the potential reproductive and embryo-fetal effects of Vancomycin Injection.
+No animal studies have been conducted to evaluate the potential reproductive and embryo-fetal effects of Vancomycin Injection, USP.
 
 ## 8.2 Lactation
 
@@ -67,8 +67,8 @@ Perform a pregnancy test in females of reproductive potential prior to prescribi
 
 ## 8.4 Pediatric Use
 
-Vancomycin Injection is indicated in pediatric patients (1 month and older) [see Indications and Usage (1.1 to 1.5) and Dosage and Administration (2.2)].
-In pediatric patients, monitor vancomycin serum concentration and renal function when administering Vancomycin Injection [see Dosage and Administration (2.2, 2.3) and Warnings and Precautions (5.3)].
+Vancomycin Injection, USP is indicated in pediatric patients (1 month and older) [see Indications and Usage (1.1 to 1.5) and Dosage and Administration (2.2)].
+In pediatric patients, monitor vancomycin serum concentration and renal function when administering Vancomycin Injection, USP [see Dosage and Administration (2.2, 2.3) and Warnings and Precautions (5.3)].
 More severe infusion related reactions related to vancomycin administration may occur in pediatric patients.
 Concomitant administration of vancomycin and intravenous anesthetic agents has been associated with erythema and histamine-like flushing in all patients including pediatric patients [see Warnings and Precautions (5.2)].
 

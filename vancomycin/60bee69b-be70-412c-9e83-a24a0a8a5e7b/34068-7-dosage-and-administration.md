@@ -2,23 +2,23 @@
 
 ## 2.1 Important Administration Instructions
 
-Use this formulation of Vancomycin Injection only in patients who require the entire (500 mg, 1 g, 1.5 g or 2 g) dose and not any fraction thereof.
+Use this formulation of Vancomycin Injection, USP only in patients who require the entire (500 mg, 750 mg, 1 g, 1.25 g, 1.5 g, 1.75 g or 2 g) dose and not any fraction thereof.
 
-Vancomycin Injection in transparent single-dose flexible bags are intended for intravenous use only.
+Vancomycin Injection, USP in transparent single-dose flexible bags are intended for intravenous use only.
 Do NOT administer orally.
 
-To reduce the risk of infusion related adverse reactions, administer Vancomycin Injection by intravenous infusion over 60 minutes or greater [see Warnings and Precautions (5.2) and Adverse Reactions (6.1)].
+To reduce the risk of infusion related adverse reactions, administer Vancomycin Injection, USP by intravenous infusion over 60 minutes or greater [see Warnings and Precautions (5.2) and Adverse Reactions (6.1)].
 An infusion rate of 10 mg/min or less is associated with fewer infusion-related events [see Warnings and Precautions (5.2)].
 Infusion related events may occur, however, at any rate or concentration.
 
 Drug additives should not be made to this solution.
 
-Vancomycin Injection concentrations of no more than 5 mg/mL are recommended in adults [see Dosage and Administration (2.2)].
+Vancomycin Injection, USP concentrations of no more than 5 mg/mL are recommended in adults [see Dosage and Administration (2.2)].
 See also age-specific recommendations [see Dosage and Administration (2.3)].
 
-Administer Vancomycin Injection prior to intravenous anesthetic agents to reduce the risk of infusion related adverse reactions [see Warnings and Precautions (5.2)].
+Administer Vancomycin Injection, USP prior to intravenous anesthetic agents to reduce the risk of infusion related adverse reactions [see Warnings and Precautions (5.2)].
 
-Administer Vancomycin Injection by a secure intravenous route of administration to avoid local irritation and phlebitis reactions [see Warnings and Precautions (5.8)].
+Administer Vancomycin Injection, USP by a secure intravenous route of administration to avoid local irritation and phlebitis reactions [see Warnings and Precautions (5.8)].
 
 ## 2.2 Dosage in Adult Patients with Normal Renal Function
 
@@ -29,7 +29,7 @@ The initial daily dose should be no less than 15 mg/kg.
 
 ## 2.3 Dosage in Pediatric Patients (1 Month and Older) with Normal Renal Function
 
-Use this formulation of Vancomycin Injection only in pediatric patients (1 month and older) who require the entire dose (500 mg, 1 g, 1.5 g or 2 g) of this single-dose flexible bag and not any fraction of it [see Dosage Forms and Strengths (3)].
+Use this formulation of Vancomycin Injection, USP only in pediatric patients (1 month and older) who require the entire dose (500 mg, 750 mg, 1 g, 1.25 g, 1.5 g, 1.75 g or 2 g) of this single-dose flexible bag and not any fraction of it [see Dosage Forms and Strengths (3)].
 
 The usual intravenous dosage of vancomycin is 10 mg/kg per dose given every 6 hours.
 Each dose should be administered over a period of at least 60 minutes.
@@ -46,11 +46,11 @@ Measure trough vancomycin serum concentrations to guide therapy, especially in s
 For functionally anephric patients, an initial dose of 15 mg/kg of body weight should be given to achieve prompt therapeutic serum concentration.
 A dose of 1.9 mg/kg/24 h should be given after the initial dose of 15 mg/kg.
 
-## 2.5 Directions for Use of Vancomycin Injection and Storage Instructions
+## 2.5 Directions for Use of Vancomycin Injection, USP and Storage Instructions
 
-Vancomycin Injection, in transparent single-dose flexible bag is for intravenous administration only.
+Vancomycin Injection, USP, in transparent single-dose flexible bag is for intravenous administration only.
 
-Vancomycin Injection is room temperature stable, ready-to-use drug product.
+Vancomycin Injection, USP is room temperature stable, ready-to-use drug product.
 
 Preparation for Intravenous Administration:
 

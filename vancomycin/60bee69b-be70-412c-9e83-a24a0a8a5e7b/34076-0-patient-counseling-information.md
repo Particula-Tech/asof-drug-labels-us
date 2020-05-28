@@ -6,16 +6,16 @@ Advise patients to notify their healthcare provider if they are pregnant prior t
 
 Infusion Reactions During or After Intravenous Use
 
-Advise patients that generalized skin redness, skin rash, itching, flushing, muscle pain, chest pain, shortness of breath, wheezing, or dizziness may occur during Vancomycin Injection infusion.
+Advise patients that generalized skin redness, skin rash, itching, flushing, muscle pain, chest pain, shortness of breath, wheezing, or dizziness may occur during Vancomycin Injection, USP infusion.
 These reactions can be lessened or prevented by infusing the drug over at least 60 minutes.
 
 Acute Kidney Injury
 
-Advise patients that Vancomycin Injection can result in kidney damage and that blood tests are required to monitor vancomycin blood levels and kidney function during therapy.
+Advise patients that Vancomycin Injection, USP can result in kidney damage and that blood tests are required to monitor vancomycin blood levels and kidney function during therapy.
 
 Hearing Loss or Balance Problems
 
-Advise patients that Vancomycin Injection may result in decreased hearing and to report hearing loss or balance problems to their health care provider.
+Advise patients that Vancomycin Injection, USP may result in decreased hearing and to report hearing loss or balance problems to their health care provider.
 
 Antibacterial Resistance
 
