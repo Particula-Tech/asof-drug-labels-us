@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA213810"
+  ],
+  "inn": "succinylcholine",
+  "labeler": "Camber Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "31722-981-10",
+    "31722-981-31"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "succinylcholine chloride",
+      "name": "Succinylcholine Chloride"
+    }
+  ],
+  "setid": "3deac02b-392c-4ee4-9abf-7fe5b8975147",
+  "source": "dailymed"
+}
