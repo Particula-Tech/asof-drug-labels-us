@@ -30,6 +30,7 @@ Valproic acid can cause serious side effects, including:
     These defects occur in 1 to 2 out of every 100 babies born to mothers who use this medicine during pregnancy.
     These defects can begin in the first month, even before you know you are pregnant.
     Other birth defects that affect the structures of the heart, head, arms, legs, and the opening where the urine comes out (urethra) on the bottom of the penis can also happen.
+    Decreased hearing or hearing loss can also happen.
   - Birth defects may occur even in children born to women who are not taking any medicines and do not have other risk factors.
   - Taking folic acid supplements before getting pregnant and during early pregnancy can lower the chance of having a baby with a neural tube defect.
   - If you take valproic acid during pregnancy for any medical condition, your child is at risk for having lower IQ.
@@ -206,4 +207,4 @@ This Medication Guide has been approved by the U.S. Food and Drug Administration
 
 Pharmaceutical Associates, Inc. Greenville, SC 29605 www.paipharma.com
 
-R03/19
+R03/20
