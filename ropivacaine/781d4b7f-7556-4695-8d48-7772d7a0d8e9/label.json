@@ -1,0 +1,26 @@
+{
+  "application_numbers": [
+    "ANDA212808"
+  ],
+  "inn": "ropivacaine",
+  "labeler": "Baxter Healthcare Corporation",
+  "package_ndcs": [
+    "43066-015-01",
+    "43066-015-10",
+    "43066-019-01",
+    "43066-019-10",
+    "43066-023-01",
+    "43066-023-10",
+    "43066-027-01",
+    "43066-027-10"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "ropivacaine hydrochloride",
+      "name": "ROPIVACAINE HYDROCHLORIDE"
+    }
+  ],
+  "setid": "781d4b7f-7556-4695-8d48-7772d7a0d8e9",
+  "source": "dailymed"
+}
