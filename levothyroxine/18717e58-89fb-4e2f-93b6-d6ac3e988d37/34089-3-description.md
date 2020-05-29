@@ -10,7 +10,7 @@ Table 6 provides a listing of the color additives by tablet strength:
 
 | Strength (mcg) | Color additive(s) |
 | --- | --- |
-| 25 | FD&C Yellow No. 6 Aluminum Lake Note – FD&C Yellow No. 6 is peach in color. |
+| 25 | FD&C Yellow No. 6 Aluminum Lake Note – FD&C Yellow No. 6 Aluminum Lake is peach in color. |
 | 50 | FD&C Blue 1 Aluminum Lake |
 | 75 | FD&C Red No. 40 Aluminum Lake, FD&C Blue No. 2 Aluminum Lake |
 | 88 | FD&C Yellow No. 6 Aluminum Lake, FD&C Blue No. 1 Aluminum Lake, D&C Yellow No. 10 Aluminum Lake |
@@ -22,3 +22,5 @@ Table 6 provides a listing of the color additives by tablet strength:
 | 175 | FD&C Blue No. 1 Aluminum Lake, D&C Red No. 27 Aluminum Lake |
 | 200 | FD&C Red No. 40 Aluminum Lake |
 | 300 | FD&C Yellow No. 6 Aluminum Lake, FD&C Blue No. 1 Aluminum Lake, D&C Yellow No. 10 Aluminum Lake |
+
+Levothyroxine sodium tablet USP meets USP Dissolution Test 2.
