@@ -2,7 +2,7 @@
 
 Nitrates Concomitant use of sildenafil tablets with nitrates in any form is contraindicated [see Contraindications (4)].
 Ritonavir and other Potent CYP3A Inhibitors Concomitant use of sildenafil tablets with ritonavir and other potent CYP3A inhibitors is not recommended [see Clinical Pharmacology (12.3)].
-Other drugs that reduce blood pressure Alpha-blockers.
+Other drugs that reduce blood pressure Alpha blockers.
 In drug-drug interaction studies, sildenafil (25 mg, 50 mg, or 100 mg) and the alpha-blocker doxazosin (4 mg or 8 mg) were administered simultaneously to patients with benign prostatic hyperplasia (BPH) stabilized on doxazosin therapy.
 In these study populations, mean additional reductions of supine systolic and diastolic blood pressure of 7/7 mmHg, 9/5 mmHg, and 8/4 mmHg, respectively, were observed.
 Mean additional reductions of standing blood pressure of 6/6 mmHg, 11/4 mmHg, and 4/5 mmHg, respectively, were also observed.

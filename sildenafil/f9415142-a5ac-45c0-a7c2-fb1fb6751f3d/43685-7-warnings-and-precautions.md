@@ -3,7 +3,7 @@
 ## 5.1 Mortality with Pediatric Use
 
 In a long-term trial in pediatric patients with PAH, an increase in mortality with increasing sildenafil tablets dose was observed.
-Deaths were first observed after about 1 year and causes of death were typical of patients withPAH.
+Deaths were first observed after about 1 year and causes of death were typical of patients with PAH.
 Use of sildenafil tablets, particularly chronic use, is not recommended in children [see Use in Specific Populations (8.4)].
 
 ## 5.2 Hypotension
@@ -21,20 +21,20 @@ Should signs of pulmonary edema occur when sildenafil tablets are administered, 
 ## 5.4 Epistaxis
 
 The incidence of epistaxis was 13% in patients taking sildenafil tablets with PAH secondary to CTD.
-This effect was not seen in idiopathic PAH (sildenafil tablets 3%, placebo 2%) patients.
-The incidence of epistaxis was also higher in sildenafil tablets-treated patients with a concomitant oral vitamin K antagonist (9% versus 2% in those not treated with concomitant vitamin K antagonist).
+This effect was not seen in idiopathic PAH (sildenafil 3%, placebo 2%) patients.
+The incidence of epistaxis was also higher in sildenafil -treated patients with a concomitant oral vitamin K antagonist (9% versus 2% in those not treated with concomitant vitamin K antagonist).
 The safety of sildenafil tablets are unknown in patients with bleeding disorders or active peptic ulceration.
 
 ## 5.5 Visual Loss
 
 When used to treat erectile dysfunction, non-arteritic anterior ischemic optic neuropathy (NAION), a cause of decreased vision including permanent loss of vision, has been reported postmarketing in temporal association with the use of phosphodiesterase type 5 (PDE-5) inhibitors, including sildenafil.
-Most, but not all, of these patients had underlying anatomic or vascular risk factors for developing NAION, including but not necessarily limited to: low cup to disc ratio ("crowded disc"), age over 50, diabetes, hypertension, coronary artery disease, hyperlipidemia and smoking.
+Most, but not all, of these patients had underlying anatomic or vascular risk factors for developing NAION, including but not necessarily limited to: low cup to disc ratio (“crowded disc”), age over 50, diabetes, hypertension, coronary artery disease, hyperlipidemia and smoking.
 Based on published literature, the annual incidence of NAION is 2.5 to 11.8 cases per 100,000 males aged ≥ 50 per year in the general population.
 An observational case-crossover study evaluated the risk of NAION when PDE-5 inhibitor use, as a class, occurred immediately before NAION onset (within 5 half-lives), compared to PDE-5 inhibitor use in a prior time period.
 The results suggest an approximate 2-fold increase in the risk of NAION, with a risk estimate of 2.15 (95% CI 1.06, 4.34).
 A similar study reported a consistent result, with a risk estimate of 2.27 (95% CI 0.99, 5.20).
 Other risk factors for NAION, such as the presence of “crowded” optic disc, may have contributed to the occurrence of NAION in these studies.
-Neither the rare postmarketing reports, nor the association of PDE-5 inhibitor use and NAION in the observational studies, substantiate a causal relationship between PDE-5 inhibitor use and NAION [see Adverse Reactions (6.2].
+Neither the rare postmarketing reports, nor the association of PDE-5 inhibitor use and NAION in the observational studies, substantiate a causal relationship between PDE-5 inhibitor use and NAION [see Adverse Reactions (6.2)].
 Advise patients to seek immediate medical attention in the event of a sudden loss of vision in one or both eyes while taking PDE-5 inhibitors, including sildenafil tablets.
 Physicians should also discuss the increased risk of NAION with patients who have already experienced NAION in one eye, including whether such individuals could be adversely affected by use of vasodilators, such as PDE-5 inhibitors.
 There are no controlled clinical data on the safety or efficacy of sildenafil tablets in patients with retinitis pigmentosa, a minority whom have genetic disorders of retinal phosphodiesterases.
@@ -48,7 +48,7 @@ In many cases, medical follow-up information was limited.
 It is not possible to determine whether these reported events are related directly to the use of sildenafil tablets, to the patient's underlying risk factors for hearing loss, a combination of these factors, or to other factors.
 Advise patients to seek prompt medical attention in the event of sudden decrease or loss of hearing while taking PDE-5 inhibitors, including sildenafil tablets.
 
-## 5.7 Combination with other PDE-5 inhibitors
+## 5.7 Combination with other PDE-5 Inhibitors
 
 Sildenafil is also marketed as VIAGRA®.
 The safety and efficacy of combinations of sildenafil tablets with VIAGRA or other PDE-5 inhibitors have not been studied.

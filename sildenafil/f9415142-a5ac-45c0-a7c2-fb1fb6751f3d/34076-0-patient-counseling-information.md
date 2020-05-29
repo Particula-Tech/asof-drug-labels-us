@@ -5,8 +5,8 @@ Advise patients taking sildenafil tablets not to take VIAGRA or other PDE-5 inhi
 Such an event may be a sign of NAION. • Advise patients to seek prompt medical attention in the event of sudden decrease or loss of hearing while taking sildenafil tablets.
 These events may be accompanied by tinnitus and dizziness.
 
-Manufactured for: Camber Pharmaceuticals Inc. Piscataway, NJ 08854
+Manufactured for: Camber Pharmaceuticals, Inc. Piscataway, NJ 08854 By: HETEROTM
 
-Manufactured By: HETEROTM Hetero Labs Limited Unit V, Polepally, Jadcherla, Mahabubnagar – 509 301, India.
+Hetero Labs Limited, Unit V, Polepally, Jadcherla, Mahabubnagar-509 301, India.
 
-Barcode Revised: October 2017
+Revised: 08/2019

@@ -1,4 +1,4 @@
-# 1 INDICATIONS & USAGE
+# 1 INDICATIONS AND USAGE
 
 Sildenafil tablets are indicated for the treatment of pulmonary arterial hypertension (WHO Group I) in adults to improve exercise ability and delay clinical worsening.
 The delay in clinical worsening was demonstrated when sildenafil tablets were added to background epoprostenol therapy [see Clinical Studies (14)].

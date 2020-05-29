@@ -25,13 +25,13 @@ Study 2 (Sildenafil tablets co-administered with epoprostenol) A randomized, dou
 Patients had to have a mean pulmonary artery pressure (mPAP) greater than or equal to 25 mmHg and a pulmonary capillary wedge pressure (PCWP) less than or equal to 15 mmHg at rest via right heart catheterization within 21 days before randomization, and a baseline 6-minute walk test distance greater than or equal to 100 meters and less than or equal to 450 meters (mean 349 meters).
 Patients were randomized to placebo or sildenafil tablets (in a fixed titration starting from 20 mg, to 40 mg and then 80 mg, three times a day) and all patients continued intravenous epoprostenol therapy.
 At baseline patients had PPH (80%) or PAH secondary to CTD (20%); WHO functional class I (1%), II (26%), III (67%), or IV (6%); and the mean age was 48 years, 80% were female, and 79% were Caucasian.
-There was a statistically significant greater increase from baseline in 6-minute walk distance at Week 16 (primary endpoint) for the sildenafil tablets group compared with the placebo group.
-The mean change from baseline at Week 16 (last observation carried forward) was 30 meters for the sildenafil tablets group compared with 4 meters for the placebo group giving an adjusted treatment difference of 26 meters (95% CI: 10.8, 41.2) (p = 0.0009).
+There was a statistically significant greater increase from baseline in 6-minute walk distance at Week 16 (primary endpoint) for the sildenafil group compared with the placebo group.
+The mean change from baseline at Week 16 (last observation carried forward) was 30 meters for the sildenafil group compared with 4 meters for the placebo group giving an adjusted treatment difference of 26 meters (95% CI: 10.8, 41.2) (p = 0.0009).
 Patients on sildenafil tablets achieved a statistically significant reduction in mPAP compared to those on placebo.
 A mean placebo-corrected treatment effect of -3.9 mmHg was observed in favor of sildenafil tablets (95% CI: -5.7, -2.1) (p = 0.00003).
 Time to clinical worsening of PAH was defined as the time from randomization to the first occurrence of a clinical worsening event (death, lung transplantation, initiation of bosentan therapy, or clinical deterioration requiring a change in epoprostenol therapy).
 Table 4 displays the number of patients with clinical worsening events in Study 2.
-Kaplan-Meier estimates and a stratified log-rank test demonstrated that placebo-treated patients were 3 times more likely to experience a clinical worsening event than sildenafil tablets-treated patients and that sildenafil tablets-treated patients experienced a significant delay in time to clinical worsening versus placebo-treated patients (p = 0.0074).
+Kaplan-Meier estimates and a stratified log-rank test demonstrated that placebo-treated patients were 3 times more likely to experience a clinical worsening event than sildenafil-treated patients and that sildenafil-treated patients experienced a significant delay in time to clinical worsening versus placebo-treated patients (p = 0.0074).
 Kaplan-Meier plot of time to clinical worsening is presented in Figure 11.
 Table 4.
 Clinical Worsening Events in Study 2
@@ -48,7 +48,7 @@ Clinical Worsening Events in Study 2
 
 Figure 11.
 Kaplan-Meier Plot of Time (in Days) to Clinical Worsening of PAH in Study 2 Improvements in WHO functional class for PAH were also demonstrated in subjects on sildenafil tablets compared to placebo.
-More than twice as many sildenafil tablets-treated patients (36%) as placebo-treated patients (14%) showed an improvement in at least one functional New York Heart Association (NYHA) class for PAH.
+More than twice as many sildenafil-treated patients (36%) as placebo-treated patients (14%) showed an improvement in at least one functional New York Heart Association (NYHA) class for PAH.
 Study 3 (Sildenafil tablets monotherapy (20 mg three times a day) A randomized, double-blind, parallel dose study (Study 3) was planned in 219 patients with PAH.
 This study was prematurely terminated with 129 subjects enrolled.
 Patients were required to have a mPAP greater than or equal to 25 mmHg and a PCWP less than or equal to 15 mmHg at rest via right heart catheterization within 12 weeks before randomization, and a baseline 6-minute walk test distance greater than or equal to 100 meters and less than or equal to 450 meters (mean 345 meters).
@@ -61,7 +61,17 @@ These increases were significantly better than those observed in the 1 mg dose g
 Figure 12.
 Mean Change from Baseline in Six Minute Walk (meters) by Visit to Week 12 – ITT Population Sildenafil Protocol A1481244
 
-Study 4 (Sildenafil tablets added to bosentan therapy – lack of effect on exercise capacity) A randomized, double-blind, placebo controlled study was conducted in 103 patients with PAH who were on bosentan therapy for a minimum of three months.
+Study 3 (Sildenafil monotherapy (1 mg, 5 mg, and 20 mg three times a day)) A randomized, double-blind, parallel dose study (Study 3) was planned in 219 patients with PAH.
+This study was prematurely terminated with 129 subjects enrolled.
+Patients were required to have a mPAP greater than or equal to 25 mmHg and a PCWP less than or equal to 15 mmHg at rest via right heart catheterization within 12 weeks before randomization, and a baseline 6-minute walk test distance greater than or equal to 100 meters and less than or equal to 450 meters (mean 345 meters).
+Patients were randomized to 1 of 3 doses of sildenafil: 1 mg, 5 mg, and 20 mg, three times a day.
+At baseline patients had PPH (74%) or secondary PAH (26%); WHO functional class II (57%), III (41%), or IV (2%); the mean age was 44 years; and 67% were female.
+The majority of subjects were Asian (67%), and 28% were Caucasian.
+The primary efficacy endpoint was the change from baseline at Week 12 (at least 4 hours after the last dose) in the 6-minute walk distance.
+Similar increases in walk distance (mean increase of 38 to 41 meters) were observed in the 5 and 20 mg dose groups.
+These increases were significantly better than those observed in the 1 mg dose group (Figure 12).
+Figure 12.
+Mean Change from Baseline in Six Minute Walk (meters) by Visit to Week 12 – ITT Population Sildenafil Protocol A1481244 Study 4 (Sildenafil tablets added to bosentan therapy – lack of effect on exercise capacity) A randomized, double-blind, placebo controlled study was conducted in 103 patients with PAH who were on bosentan therapy for a minimum of three months.
 The PAH patients included those with primary PAH, and PAH associated with CTD.
 Patients were randomized to placebo or sildenafil (20 mg three times a day) in combination with bosentan (62.5 to 125 mg twice a day).
 The primary efficacy endpoint was the change from baseline at Week 12 in 6MWD.

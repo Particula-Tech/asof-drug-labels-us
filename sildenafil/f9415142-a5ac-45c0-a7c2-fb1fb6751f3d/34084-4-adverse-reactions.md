@@ -12,9 +12,9 @@ The following serious adverse events are discussed elsewhere in the labeling:
 ## 6.1 Clinical Trials Experience
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
-Safety data of sildenafil tablets in adults were obtained from the 12-week, placebo-controlled clinical study (Study 1) and an open-label extension study in 277 sildenafil tablets-treated patients with PAH, WHO Group I [see Clinical Studies (14)].
-The overall frequency of discontinuation in sildenafil tablets-treated patients on 20 mg three times a day was 3% and was the same for the placebo group.
-In Study 1, the adverse reactions that were reported by at least 3% of sildenafil tablets-treated patients (20 mg three times a day) and were more frequent in sildenafil tablets-treated patients than in placebo-treated patients are shown in Table 1.
+Safety data of sildenafil tablets in adults were obtained from the 12-week, placebo-controlled clinical study (Study 1) and an open-label extension study in 277 sildenafil-treated patients with PAH, WHO Group I [see Clinical Studies (14)].
+The overall frequency of discontinuation in sildenafil-treated patients on 20 mg three times a day was 3% and was the same for the placebo group.
+In Study 1, the adverse reactions that were reported by at least 3% of sildenafil-treated patients (20 mg three times a day) and were more frequent in sildenafil tablets-treated patients than in placebo-treated patients are shown in Table 1.
 Adverse reactions were generally transient and mild to moderate in nature.
 Table 1.
 Most Common Adverse Reactions in Patients with PAH in Study 1 (More Frequent in Sildenafil Tablets-Treated Patients than Placebo-Treated Patients and Incidence ≥3% in Sildenafil Tablets-Treated Patients)
@@ -41,7 +41,7 @@ Visual disturbances were identified as mild and transient, and were predominatel
 The incidence of retinal hemorrhage with sildenafil tablets 20 mg three times a day was 1.4% versus 0% placebo and for all sildenafil tablets doses studied was 1.9% versus 0% placebo.
 The incidence of eye hemorrhage at both 20 mg three times a day and at all doses studied was 1.4% for sildenafil tablets versus 1.4% for placebo.
 The patients experiencing these reactions had risk factors for hemorrhage including concurrent anticoagulant therapy.
-In a placebo-controlled fixed dose titration study (Study 2) of sildenafil tablets (starting with recommended dose of 20 mg and increased to 40 mg and then 80 mg all three timesa day) as an adjunct to intravenous epoprostenol in patients with PAH, the adverse reactions that were more frequent in the sildenafil tablets + epoprostenol group than in the epoprostenol group (greater than 6% difference) are shown in Table 2 [see Clinical Studies (14)].
+In a placebo-controlled fixed dose titration study (Study 2) of sildenafil tablets (starting with recommended dose of 20 mg and increased to 40 mg and then 80 mg all three times a day) as an adjunct to intravenous epoprostenol in patients with PAH, the adverse reactions that were more frequent in the sildenafil tablets + epoprostenol group than in the epoprostenol group (greater than 6% difference) are shown in Table 2 [see Clinical Studies (14)].
 Table 2.
 Adverse Reactions (%) in patients with PAH in Study 2 (incidence in Sildenafil Tablets + Epoprostenol group at least 6% greater than Epoprostenol group)
 

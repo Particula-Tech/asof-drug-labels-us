@@ -1,6 +1,6 @@
 # PATIENT INFORMATION
 
-PATIENT INFORMATION Sildenafil Tablets (sil den' a fil) Read the Patient Information before you start taking sildenafil tablets and each time you get a refill.
+Sildenafil (sil den' a fil) Tablets USP Read this Patient Information before you start taking sildenafil tablets and each time you get a refill.
 There may be new information.
 This information does not take the place of talking with your doctor about your medical condition or treatment.
 If you have any questions about sildenafil tablets, ask your doctor or pharmacist.
@@ -23,7 +23,7 @@ See " What are the ingredients in sildenafil tablets?"at the end of this leaflet
 What should I tell my doctor before taking sildenafil tablets?
 Tell your doctor about all of your medical conditions, including if you • have heart problems such as angina (chest pain), heart failure, irregular heartbeats, or have had a heart attack • have a disease called pulmonary veno-occlusive disease (PVOD) • have high or low blood pressure or blood circulation problems • have an eye problem called retinitis pigmentosa • have or had loss of sight in one or both eyes • have any problem with the shape of your penis or Peyronie’s disease • have any blood cell problems such sickle cell anemia • have a stomach ulcer or any bleeding problems • are pregnant or planning to become pregnant.
 It is not known if sildenafil tablets could harm your unborn baby. • are breastfeeding.
-It is not known if sildenafil passes into your breast milk or if it could harm your baby.
+Sildenafil passes into your breast milk, it is not known if it could harm your baby.
 Tell your doctor about all of the medicines you take, including prescription and non-prescription medicines, vitamins, and herbal products.
 Sildenafil tablets and certain other medicines can cause side effects if you take them together.
 The doses of some of your medicines may need to be adjusted while you take sildenafil tablets.
@@ -32,9 +32,9 @@ See "What is the most important information I should know about sildenafil table
 See "What is the most important information I should know about sildenafil tablets?" • Ritonavir (Norvir®) or other medicines used to treat HIV infection • Ketoconazole (Nizoral®) • Itraconazole (Sporanox) • High blood pressure medicine Know the medicines you take.
 Keep a list of your medicines and show it to your doctor and pharmacist when you get a new medicine.
 How should I take sildenafil tablets? • Take sildenafil tablets exactly as your doctor tells you.
-Sildenafil may be prescribed to you as • Sildenafil tablets • Take sildenafil tablets 3 times a day about 4 to 6 hours apart. • Take sildenafil tablets at the same times every day. • If you miss a dose, take it as soon as you remember.
+Sildenafil may be prescribed to you as • Sildenafil tablets • Take sildenafil tablet 3 times a day about 4 to 6 hours apart • Take sildenafil tablets at the same times every day. • If you miss a dose, take it as soon as you remember.
 If it is close to your next dose, skip the missed dose, and take your next dose at the regular time. • Do not take more than one dose of sildenafil tablets at a time. • Do not change your dose or stop taking sildenafil tablets on your own.
-Talk to your doctor first. • If you take too much sildenafil tablets, call your doctor, or go to the nearest hospital emergency room.
+Talk to your doctor first. • If you take too much sildenafil tablets, call your doctor or go to the nearest hospital emergency room.
 What are the possible side effects of sildenafil tablets? • low blood pressure.
 Low blood pressure may cause you to feel faint or dizzy.
 Lie down if you feel faint or dizzy. • more shortness of breath than usual.
@@ -52,7 +52,7 @@ These are not all the possible side effects of sildenafil tablets.
 For more information, ask your doctor or pharmacist.
 Call your doctor for medical advice about side effects.
 You may report side effects to FDA at 1-­800-FDA-1088.
-How should I store sildenafil tablets? • Store sildenafil tablets at room temperature, 20° to 25°C (68° to 77°F) [see USP Controlled Room Temperature]. • Keep sildenafil tablets and all medicines away from children.
+How should I store sildenafil tablets? • Store sildenafil tablets at room temperature, between 20° to 25°C (68° to 77°F) [see USP Controlled Room Temperature]. • Keep sildenafil tablets and all medicines away from children.
 General information about sildenafil tablets Medicines are sometimes prescribed for purposes that are not in the patient leaflet.
 Do not use sildenafil tablets for a condition for which it was not prescribed.
 Do not give sildenafil tablets to other people, even if they have the same symptoms you have.
@@ -60,10 +60,11 @@ It could harm them.
 This patient leaflet summarizes the most important information about sildenafil tablets.
 If you would like more information about sildenafil tablets talk with your doctor.
 You can ask your doctor or pharmacist for information about sildenafil tablets that is written for health professionals.
+For more information, call 1-866-495-1995.
 What are the ingredients in sildenafil tablets?
-Active ingredients: sildenafil citrate, USP Inactive ingredients: croscarmellose sodium, dibasic calcium phosphate anhydrous, hypromellose, lactose monohydrate, magnesium stearate, microcrystalline cellulose, titanium dioxide and triacetin This Patient Information has been approved by the U.S. Food and Drug Administration
+Active ingredient: sildenafil citrate, USP Inactive ingredients: croscarmellose sodium, dibasic calcium phosphate anhydrous, hypromellose, lactose monohydrate, magnesium stearate, microcrystalline cellulose, titanium dioxide and triacetin This Patient Information has been approved by the U.S. Food and Drug Administration Patient Information available at http://camberpharma.com/medication-guides
 
-Manufactured for: Camber Pharmaceuticals Inc. Piscataway, NJ 08854
+Manufactured for: Camber Pharmaceuticals, Inc. Piscataway, NJ 08854
 
-Manufactured By: HETEROTM Hetero Labs Limited Unit V, Polepally, Jadcherla, Mahabubnagar – 509 301, India.
-Revised: October 2017
+By: HETEROTM Hetero Labs Limited, Unit V, Polepally, Jadcherla, Mahabubnagar – 509 301, India.
+Revised: 03/2020
