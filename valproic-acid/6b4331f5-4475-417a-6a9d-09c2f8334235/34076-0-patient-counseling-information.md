@@ -43,9 +43,9 @@ Multiorgan Hypersensitivity Reactions
 
 Instruct patients that a fever associated with other organ system involvement (rash, lymphadenopathy, etc.) may be drug-related and should be reported to the physician immediately [see Warnings and Precautions (5.12)].
 
-©1978-2019 AbbVie Inc.
+©1978-2020 AbbVie Inc.
 
-Revised: December 2019
+Revised: May 2020
 
 Depakene Capsules
 

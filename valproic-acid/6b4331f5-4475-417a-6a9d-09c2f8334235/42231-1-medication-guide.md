@@ -37,7 +37,7 @@ Depakote and Depakene can cause serious side effects, including:
      Decreased hearing or hearing loss can also happen.
    - Birth defects may occur even in children born to women who are not taking any medicines and do not have other risk factors.
    - Taking folic acid supplements before getting pregnant and during early pregnancy can lower the chance of having a baby with a neural tube defect.
-   - If you take Depakote or Depakene during pregnancy for any medical condition, your child is at risk for having lower IQ.
+   - If you take Depakote or Depakene during pregnancy for any medical condition, your child is at risk for having lower IQ and may be at risk for developing autism or attention deficit/hyperactivity disorder.
    - There may be other medicines to treat your condition that have a lower chance of causing birth defects, decreased IQ, or other disorders in your child.
    - Women who are pregnant must not take Depakote or Depakene to prevent migraine headaches.
    - All women of childbearing age (including girls from the start of puberty) should talk to their healthcare provider about using other possible treatments instead of Depakote or Depakene.
@@ -250,6 +250,6 @@ Depakene Oral Solution: Mfd. by AbbVie Inc., North Chicago, IL 60064, U.S.A. OR 
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-©1978-2019 AbbVie Inc.
+©1978-2020 AbbVie Inc.
 
-Revised: December 2019
+Revised: May 2020

@@ -72,7 +72,7 @@ Initial Daily Dose
 
 | Weight |  | Total Daily Dose (mg) | Number of Capsules or Teaspoons of Syrup |  |  |
 | --- | --- | --- | --- | --- | --- |
-| (Kg) | (Lb) | Dose 1 | Dose 2 | Dose 3 |  |
+| (Kg) | (Lb) |  | Dose 1 | Dose 2 | Dose 3 |
 | 10 - 24.9 | 22 - 54.9 | 250 | 0 | 0 | 1 |
 | 25 - 39.9 | 55 - 87.9 | 500 | 1 | 0 | 1 |
 | 40 - 59.9 | 88 - 131.9 | 750 | 1 | 1 | 1 |
