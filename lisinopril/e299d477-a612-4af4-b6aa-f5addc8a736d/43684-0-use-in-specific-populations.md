@@ -10,7 +10,7 @@ Most epidemiologic studies examining fetal abnormalities after exposure to antih
 When pregnancy is detected, discontinue lisinopril as soon as possible.
 
 The estimated background risk of major birth defects and miscarriage for the indicated population(s) are unknown.
-In the general U.S. population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2-4% and 15-20%, respectively.
+In the general U.S. population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively.
 
 Clinical Considerations
 

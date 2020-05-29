@@ -25,8 +25,8 @@ Leukopenia/Neutropenia: Tell patients to report promptly any indication of infec
 
 Manufactured by: Zhejiang Huahai Pharmaceutical Co., Ltd. Xunqiao, Linhai, Zhejiang 317024, China
 
-Distributed by: Solco Healthcare US, LLC Cranbury, NJ 08512, USA
+Distributed by: Solco Healthcare US, LLC Somerset, NJ 08873, USA
 
-Revision: 09/2016
+Revision: 05/2020
 
-17008-05
+17008-07
