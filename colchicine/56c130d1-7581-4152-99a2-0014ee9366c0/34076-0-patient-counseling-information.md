@@ -1,6 +1,6 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-Advise the patient to read the FDA-approved patient labeling (Medication Guide)
+Advise the patient to read the FDA-approved patient labeling (Medication Guide).
 
 Dosing Instructions
 
@@ -8,9 +8,9 @@ Patients should be advised to take COLCRYS as prescribed, even if they are feeli
 Patients should not alter the dose or discontinue treatment without consulting with their doctor.
 If a dose of COLCRYS is missed:
 
-- • For treatment of a gout flare when the patient is not being dosed for prophylaxis, take the missed dose as soon as possible.
-- • For treatment of a gout flare during prophylaxis, take the missed dose immediately, wait 12 hours, then resume the previous dosing schedule.
-- • For prophylaxis without treatment for a gout flare, or FMF, take the dose as soon as possible and then return to the normal dosing schedule.
+- For treatment of a gout flare when the patient is not being dosed for prophylaxis, take the missed dose as soon as possible.
+- For treatment of a gout flare during prophylaxis, take the missed dose immediately, wait 12 hours, then resume the previous dosing schedule.
+- For prophylaxis without treatment for a gout flare, or FMF, take the dose as soon as possible and then return to the normal dosing schedule.
   However, if a dose is skipped the patient should not double the next dose.
 
 Fatal Overdose
@@ -33,3 +33,7 @@ Neuromuscular Toxicity
 
 Patients should be informed that muscle pain or weakness, tingling or numbness in fingers or toes may occur with COLCRYS alone or when it is used with certain other drugs.
 Patients developing any of these signs or symptoms must discontinue COLCRYS and seek medical evaluation immediately.
+
+Infertility
+
+Advise males of reproductive potential that COLCRYS may rarely and transiently impair fertility [see Use in Specific Populations (8.3)].

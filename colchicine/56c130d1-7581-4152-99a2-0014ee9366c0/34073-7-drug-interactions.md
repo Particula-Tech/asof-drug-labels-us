@@ -11,11 +11,9 @@ Signs and symptoms of COLCRYS toxicity should be evaluated promptly and, if toxi
 Table 4 provides recommendations as a result of other potentially significant drug interactions.
 Table 1 provides recommendations for strong and moderate CYP3A4 inhibitors and P-gp inhibitors.
 
-Table 4.
-Other Potentially Significant Drug Interactions
-
 | Concomitant Drug Class or Food | Noted or Anticipated Outcome | Clinical Comment |
 | --- | --- | --- |
-| HMG-Co A Reductase Inhibitors: atorvastatin, fluvastatin, lovastatin, pravastatin, simvastatin | Pharmacokinetic and/or pharmacodynamic interaction: the addition of one drug to a stable long-term regimen of the other has resulted in myopathy and rhabdomyolysis (including a fatality)P-gp substrate; rhabdomyolysis has been reported | Weigh the potential benefits and risks and carefully monitor patients for any signs or symptoms of muscle pain, tenderness, or weakness, particularly during initial therapy; monitoring CPK (creatine phosphokinase) will not necessarily prevent the occurrence of severe myopathy. |
+| Table 4. Other Potentially Significant Drug Interactions |  |  |
+| HMG-Co A Reductase Inhibitors: atorvastatin, fluvastatin, lovastatin, pravastatin, simvastatin | Pharmacokinetic and/or pharmacodynamic interaction: the addition of one drug to a stable long-term regimen of the other has resulted in myopathy and rhabdomyolysis (including a fatality) | Weigh the potential benefits and risks and carefully monitor patients for any signs or symptoms of muscle pain, tenderness, or weakness, particularly during initial therapy; monitoring CPK (creatine phosphokinase) will not necessarily prevent the occurrence of severe myopathy. |
 | Other Lipid-Lowering Drugs: fibrates, gemfibrozil |  |  |
-| Digitalis Glycosides: digoxin |  |  |
+| Digitalis Glycosides: digoxin | P-gp substrate; rhabdomyolysis has been reported |  |

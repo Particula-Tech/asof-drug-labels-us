@@ -24,12 +24,10 @@ As shown in Table 3, diarrhea is associated with COLCRYS treatment.
 Diarrhea was more likely to occur in patients taking the high-dose regimen than the low-dose regimen.
 Severe diarrhea occurred in 19% and vomiting occurred in 17% of patients taking the nonrecommended high-dose colchicine regimen but did not occur in the recommended low-dose COLCRYS regimen.
 
-Table 3.
-Number (%) of Patients with at Least One Drug-Related Treatment-Emergent Adverse Event with an Incidence of ≥ 2% of Patients in Any Treatment Group
-
-| MedDRA System Organ ClassMedDRA Preferred Term | COLCRYS Dose |  | Placebo (N=59) n (%) |
-| --- | --- | --- | --- |
 | High (N=52) n (%) | Low (N=74) n (%) |  |  |
+| --- | --- | --- | --- |
+| Table 3. Number (%) of Patients with at Least One Drug-Related Treatment-Emergent Adverse Event with an Incidence of ≥2% of Patients in Any Treatment Group |  |  |  |
+| MedDRA System Organ Class MedDRA Preferred Term | COLCRYS Dose |  | Placebo (N=59) n (%) |
 | Number of Patients with at Least One Drug-Related TEAE | 40 (77) | 27 (37) | 16 (27) |
 | Gastrointestinal Disorders | 40 (77) | 19 (26) | 12 (20) |
 | Diarrhea | 40 (77) | 17 (23) | 8 (14) |
@@ -51,7 +49,20 @@ Serious toxic manifestations associated with colchicine include myelosuppression
 
 These most often occur with excessive accumulation or overdosage [see Overdosage (10)].
 
-The following adverse reactions have been reported with colchicine.
+The following adverse reactions have been identified with colchicine.
 These have been generally reversible upon temporarily interrupting treatment or lowering the dose of colchicine.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-- Neurological: sensory motor neuropathy Dermatological: alopecia, maculopapular rash, purpura, rash Digestive: abdominal cramping, abdominal pain, diarrhea, lactose intolerance, nausea, vomiting Hematological: leukopenia, granulocytopenia, thrombocytopenia, pancytopenia, aplastic anemia Hepatobiliary: elevated AST, elevated ALT Musculoskeletal: myopathy, elevated CPK, myotonia, muscle weakness, muscle pain, rhabdomyolysis Reproductive: azoospermia, oligospermia
+Neurological: sensory motor neuropathy
+
+Dermatological: alopecia, maculopapular rash, purpura, rash
+
+Digestive: abdominal cramping, abdominal pain, diarrhea, lactose intolerance, nausea, vomiting
+
+Hematological: leukopenia, granulocytopenia, thrombocytopenia, pancytopenia, aplastic anemia
+
+Hepatobiliary: elevated AST, elevated ALT
+
+Musculoskeletal: myopathy, elevated CPK, myotonia, muscle weakness, muscle pain, rhabdomyolysis
+
+Reproductive: azoospermia, oligospermia
