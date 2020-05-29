@@ -16,10 +16,8 @@ For single-dose ampules: Discard the unused portion.
 
 Manufactured by:
 
-Huons Co., Ltd.,
+Huons Co., Ltd., 100, Bio valley-ro, Jecheon-si, Chungcheongbuk-do, 27159, Republic of Korea
 
-Jecheon, S. Korea
+Product Code: 0002
 
-Product Code: pending
-
-Revised: 07/2019
+Revised: 03/2020
