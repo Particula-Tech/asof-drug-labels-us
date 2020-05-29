@@ -19,4 +19,4 @@ Multiple doses of lisinopril in rats do not result in accumulation in any tissue
 Milk of lactating rats contains radioactivity following administration of 14C lisinopril.
 By whole body autoradiography, radioactivity was found in the placenta following administration of labeled drug to pregnant rats, but none was found in the fetuses.
 
-*Calculations assume a human weight of 50 kg and human body surface area of 1.62m2
+*Calculations assume a human weight of 50 kg and human body surface area of 1.62 m2

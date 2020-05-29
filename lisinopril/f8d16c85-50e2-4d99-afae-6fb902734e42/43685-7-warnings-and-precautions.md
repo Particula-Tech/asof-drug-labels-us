@@ -10,22 +10,30 @@ When pregnancy is detected, discontinue lisinopril as soon as possible [see Use 
 
 ## 5.2 Angioedema and Anaphylactoid Reactions
 
-Patients taking concomitant mTOR inhibitor (e.g. temsirolimus, sirolimus, everolimus) therapy may be at increased risk for angioedema [see Drug Interactions (7.7)].
+Patients taking concomitant mTOR inhibitor (e.g. temsirolimus, sirolimus, everolimus) therapy or a neprilysin inhibitor may be at increased risk for angioedema [see Drug Interactions (7.7, 7.8)].
 
-Angioedema Head and Neck AngioedemaAngioedema of the face, extremities, lips, tongue, glottis and/or larynx, including some fatal reactions, have occurred in patients treated with angiotensin converting enzyme inhibitors, including lisinopril, at any time during treatment.
+Angioedema Head and Neck Angioedema
+
+Angioedema of the face, extremities, lips, tongue, glottis and/or larynx, including some fatal reactions, have occurred in patients treated with angiotensin converting enzyme inhibitors, including lisinopril, at any time during treatment.
 Patients with involvement of the tongue, glottis or larynx are likely to experience airway obstruction, especially those with a history of airway surgery.
 Lisinopril should be promptly discontinued and appropriate therapy and monitoring should be provided until complete and sustained resolution of signs and symptoms of angioedema has occurred.
 
 Patients with a history of angioedema unrelated to ACE inhibitor therapy may be at increased risk of angioedema while receiving an ACE inhibitor [see Contraindications (4)].
-ACE inhibitors have been associated with a higher rate of angioedema in Black than in non-Black patients.
+ACE inhibitors have been associated with a higher rate of angioedema in black than in non-black patients.
 
-Intestinal AngioedemaIntestinal angioedema has occurred in patients treated with ACE inhibitors.
+Intestinal Angioedema
+
+Intestinal angioedema has occurred in patients treated with ACE inhibitors.
 These patients presented with abdominal pain (with or without nausea or vomiting); in some cases there was no prior history of facial angioedema and C-1 esterase levels were normal.
 In some cases, the angioedema was diagnosed by procedures including abdominal CT scan or ultrasound, or at surgery, and symptoms resolved after stopping the ACE inhibitor.
 
-Anaphylactoid Reactions Anaphylactoid Reactions During DesensitizationTwo patients undergoing desensitizing treatment with hymenoptera venom while receiving ACE inhibitors sustained life-threatening anaphylactoid reactions.
+Anaphylactoid Reactions Anaphylactoid Reactions During Desensitization
 
-Anaphylactoid Reactions During DialysisSudden and potentially life threatening anaphylactoid reactions have occurred in some patients dialyzed with high-flux membranes and treated concomitantly with an ACE inhibitor.
+Two patients undergoing desensitizing treatment with hymenoptera venom while receiving ACE inhibitors sustained life-threatening anaphylactoid reactions.
+
+Anaphylactoid Reactions During Dialysis
+
+Sudden and potentially life threatening anaphylactoid reactions have occurred in some patients dialyzed with high-flux membranes and treated concomitantly with an ACE inhibitor.
 In such patients, dialysis must be stopped immediately, and aggressive therapy for anaphylactoid reactions must be initiated.
 Symptoms have not been relieved by antihistamines in these situations.
 In these patients, consideration should be given to using a different type of dialysis membrane or a different class of antihypertensive agent.
