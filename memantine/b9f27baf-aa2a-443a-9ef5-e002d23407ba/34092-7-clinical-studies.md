@@ -1,7 +1,7 @@
 # 14 CLINICAL STUDIES
 
 The effectiveness of NAMENDA as a treatment for patients with moderate to severe Alzheimer’s disease was demonstrated in 2 randomized, double-blind, placebo-controlled clinical studies (Studies 1 and 2) conducted in the United States that assessed both cognitive function and day to day function.
-The mean age of patients participating in these two trials was 76 with a range of 50-93 years.
+The mean age of patients participating in these two trials was 76 years with a range of 50-93 years.
 Approximately 66% of patients were female and 91% of patients were Caucasian.
 A third study (Study 3), carried out in Latvia, enrolled patients with severe dementia, but did not assess cognitive function as a planned endpoint.
 Study Outcome Measures: In each U.S. study, the effectiveness of NAMENDA was determined using both an instrument designed to evaluate overall function through caregiver-related assessment, and an instrument that measures cognition.
@@ -29,7 +29,7 @@ Figure 1 shows the time course for the change from baseline in the ADCS-ADL scor
 At 28 weeks of treatment, the mean difference in the ADCS-ADL change scores for the NAMENDA-treated patients compared to the patients on placebo was 3.4 units.
 Using an analysis based on all patients and carrying their last study observation forward (LOCF analysis), NAMENDA treatment was statistically significantly superior to placebo.
 
-Figure 1: Time course of the change from baseline in ADCS-ADL score for patients completing 28 weeks of treatment.
+Figure 1: Time course of the change from baseline in ADCS-ADL score for patients completing 28 weeks of treatment
 
 Figure 2 shows the cumulative percentages of patients from each of the treatment groups who had attained at least the change in the ADCS-ADL shown on the X axis.
 The curves show that both patients assigned to NAMENDA and placebo have a wide range of responses and generally show deterioration (a negative change in ADCS-ADL compared to baseline), but that the NAMENDA group is more likely to show a smaller decline or an improvement.
@@ -37,7 +37,7 @@ The curves show that both patients assigned to NAMENDA and placebo have a wide r
 
 Figure 2: Cumulative percentage of patients completing 28 weeks of
 
-double-blind treatment with specified changes from baseline in ADCS-ADL scores.
+double-blind treatment with specified changes from baseline in ADCS-ADL scores
 
 Effects on the SIB
 
@@ -47,14 +47,14 @@ Using an LOCF analysis, NAMENDA treatment was statistically significantly superi
 
 Figure 3: Time course of the change from baseline in
 
-SIB score for patients completing 28 weeks of treatment.
+SIB score for patients completing 28 weeks of treatment
 
 Figure 4 shows the cumulative percentages of patients from each treatment group who had attained at least the measure of change in SIB score shown on the X axis.
 The curves show that both patients assigned to NAMENDA and placebo have a wide range of responses and generally show deterioration, but that the NAMENDA group is more likely to show a smaller decline or an improvement.
 
 Figure 4: Cumulative percentage of patients completing 28 weeks of
 
-double-blind treatment with specified changes from baseline in SIB scores.
+double-blind treatment with specified changes from baseline in SIB scores
 
 Study 2 (Twenty-Four-Week Study)
 
@@ -69,14 +69,14 @@ Using an LOCF analysis, NAMENDA/donepezil treatment was statistically significan
 
 Figure 5: Time course of the change from baseline in
 
-ADCS-ADL score for patients completing 24 weeks of treatment.
+ADCS-ADL score for patients completing 24 weeks of treatment
 
 Figure 6 shows the cumulative percentages of patients from each of the treatment groups who had attained at least the measure of improvement in the ADCS-ADL shown on the X axis.
 The curves show that both patients assigned to NAMENDA/donepezil and placebo/donepezil have a wide range of responses and generally show deterioration, but that the NAMENDA/donepezil group is more likely to show a smaller decline or an improvement.
 
 Figure 6: Cumulative percentage of patients completing 24 weeks of
 
-double-blind treatment with specified changes from baseline in ADCS-ADL scores.
+double-blind treatment with specified changes from baseline in ADCS-ADL scores
 
 Effects on the SIB
 
@@ -86,14 +86,14 @@ Using an LOCF analysis, NAMENDA/donepezil treatment was statistically significan
 
 Figure 7: Time course of the change from baseline in
 
-SIB score for patients completing 24 weeks of treatment.
+SIB score for patients completing 24 weeks of treatment
 
 Figure 8 shows the cumulative percentages of patients from each treatment group who had attained at least the measure of improvement in SIB score shown on the X axis.
 The curves show that both patients assigned to NAMENDA/donepezil and placebo/donepezil have a wide range of responses, but that the NAMENDA/donepezil group is more likely to show an improvement or a smaller decline.
 
 Figure 8: Cumulative percentage of patients completing 24 weeks of
 
-double-blind treatment with specified changes from baseline in SIB scores.
+double-blind treatment with specified changes from baseline in SIB scores
 
 Study 3 (Twelve-Week Study)
 

@@ -1,15 +1,5 @@
 # PRINCIPAL DISPLAY PANEL
 
-Rx Only NDC 0456-3202-12
-
-Namenda
-
-memantine HCl oral solution
-
-2 mg/ mL 12 fl oz (360 mL)
-
-# PRINCIPAL DISPLAY PANEL
-
 Rx Only NDC 0456-3205-60
 
 Namenda
@@ -26,4 +16,4 @@ Rx Only NDC 0456-3210-60 Namenda memantine HCl tablets 10 mg 60 Tablets
 
 # PRINCIPAL DISPLAY PANEL
 
-Rx Only NDC 0456-3200-14 Namenda memantine HCl tablets TITRATION PACK
+Rx Only NDC 0456-3200-14 Namenda memantine HCl tablets TITRATION PAK

@@ -61,7 +61,7 @@ Table 2: Study A Commonly Reported Adverse Reactions with a Frequency ≥ 5% and
 | Influenza | 7.1% | 3.4% |
 | Rhinorrhea | 5.4% | 0% |
 | Agitation | 5.4% | 1.7% |
-| Discontinuations due to adverse reactionsa |  |  |
+| Discontinuations due to Adverse Reactionsa |  |  |
 | Aggression | 3.6% | 1.7% |
 | Irritability | 1.8% | 3.4% |
 | a Reported adverse reactions leading to discontinuation in more than one patient in either treatment group. |  |  |
@@ -76,7 +76,7 @@ Table 3: 12-48 Week Open Label Lead-In study to Study B Commonly Reported Advers
 | Nasopharyngitis | 6.3% |
 | Pyrexia | 5.8% |
 | Irritability | 5.4% |
-| Discontinuations due to adverse reactionsa |  |
+| Discontinuations due to Adverse Reactionsa |  |
 | Irritability | 1.2% |
 | Aggression | 1.0% |
 | a At least 1% incidence of adverse reactions leading to premature discontinuation. |  |
@@ -100,8 +100,8 @@ The no-effect dose for developmental toxicity was the lowest dose tested (1 mg/k
 
 ## 8.5 Geriatric Use
 
-The majority of people with Alzheimer’s disease are 65 years and older.
-In the clinical studies of NAMENDA the mean age of patients was approximately 76; over 90% of patients were 65 years and older, 60% were 75 years and older, and 12% were at or above 85 years of age.
+The majority of people with Alzheimer’s disease are 65 years of age and older.
+In the clinical studies of NAMENDA the mean age of patients was approximately 76 years; over 90% of patients were 65 years and older, 60% were 75 years and older, and 12% were at or above 85 years of age.
 The efficacy and safety data presented in the clinical trial sections were obtained from these patients.
 There were no clinically meaningful differences in most adverse events reported by patient groups ≥ 65 years old and < 65 years old.
 

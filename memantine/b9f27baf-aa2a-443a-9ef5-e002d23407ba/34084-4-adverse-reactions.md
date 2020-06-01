@@ -16,9 +16,9 @@ Most Common Adverse Reactions
 In double-blind placebo-controlled trials involving dementia patients, the most common adverse reactions (incidence ≥ 5% and higher than placebo) in patients treated with NAMENDA were dizziness, headache, confusion and constipation.
 Table 1 lists all adverse reactions that occurred in at least 2% of patients treated with NAMENDA and at an incidence greater than placebo.
 
-Table 1: Adverse Reactions Reported in Controlled Clinical Trials in at Least 2% of Patients Receiving NAMENDA and at a Higher Frequency than Placebo-treated Patients
+Table 1: Adverse Reactions Reported in Controlled Clinical Trials in at Least 2% of Patients Receiving NAMENDA and at a Higher Frequency than Placebo-Treated Patients
 
-| Adverse Reaction | Placebo (N = 922) % | NAMENDA (N = 940) % |
+| Adverse Reaction | Placebo (N=922) % | NAMENDA (N=940) % |
 | --- | --- | --- |
 | Body as a Whole |  |  |
 | Fatigue | 1 | 2 |
@@ -61,7 +61,7 @@ Cardiac Disorders - cardiac failure congestive.
 
 Gastrointestinal Disorders - pancreatitis.
 
-Hepatobiliary Disorders – hepatitis.
+Hepatobiliary Disorders - hepatitis.
 
 Psychiatric Disorders - suicidal ideation.
 

@@ -14,7 +14,7 @@ No impairment of fertility or reproductive performance was seen in rats administ
 
 Memantine induced neuronal lesions (vacuolation and necrosis) in the multipolar and pyramidal cells in cortical layers III and IV of the posterior cingulate and retrosplenial neocortices in rats, similar to those which are known to occur in rodents administered other NMDA receptor antagonists.
 Lesions were seen after a single dose of memantine.
-In a study in which rats were given daily oral doses of memantine for 14 days, the no-effect dose for neuronal necrosis was 6 times the maximum recommended human dose of 20 mg/day on a mg/m2 basis
+In a study in which rats were given daily oral doses of memantine for 14 days, the no-effect dose for neuronal necrosis was 6 times the maximum recommended human dose of 20 mg/day on a mg/m2 basis.
 
 In acute and repeat-dose neurotoxicity studies in female rats, oral administration of memantine and donepezil in combination resulted in increased incidence, severity, and distribution of neurodegeneration compared with memantine alone.
 The no-effect levels of the combination were associated with clinically relevant plasma memantine and donepezil exposures.

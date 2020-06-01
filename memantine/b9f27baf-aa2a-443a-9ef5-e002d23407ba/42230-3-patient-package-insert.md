@@ -1,6 +1,6 @@
 Patient Information
 
-NAMENDA® (Nuh-MEN-dah)
+NAMENDA® [Nuh-MEN-dah]
 
 (memantine hydrochloride)
 
@@ -12,15 +12,15 @@ This information does not take the place of talking to your doctor about your me
 
 What is NAMENDA?
 
-NAMENDA is a prescription medicine used for the treatment of moderate to severe dementia in people with Alzheimer’s disease.
-NAMENDA belongs to a class of medicines called NMDA (N-methyl-D-aspartate) inhibitors.
+NAMENDA® is a prescription medicine used for the treatment of moderate to severe dementia in people with Alzheimer’s disease.
+NAMENDA belongs to a class of medicines called N-methyl-D-aspartate (NMDA) inhibitors.
 
 It is not known if NAMENDA is safe and effective in children.
 
 Who should not take NAMENDA?
 
-Do not take NAMENDA if you are allergic to memantine or any of the ingredients in NAMENDA.
-See the end of this leaflet for a complete list of ingredients in NAMENDA.
+Do not take NAMENDA if you are allergic to memantine or any of the ingredients in NAMENDA tablets.
+See the end of this leaflet for a complete list of ingredients in NAMENDA tablets.
 
 What should I tell my doctor before taking NAMENDA?
 
@@ -61,7 +61,7 @@ How should I take NAMENDA?
 - If you forget to take one dose of NAMENDA, do not double up on the next dose.
   You should take only the next dose as scheduled.
 - If you have forgotten to take NAMENDA for several days, you should not take the next dose until you talk to your doctor.
-- If you take too much NAMENDA, call your doctor or poison control center at 1-800-222-1222 right away, or go to the nearest hospital emergency room.
+- If you take too much NAMENDA, call your doctor or poison control center at 1-800-222-1222, or go to the nearest hospital emergency room right away.
 
 What are the possible side effects of NAMENDA?
 
@@ -82,11 +82,13 @@ You may report side effects to FDA at 1-800-FDA-1088.
 
 How should I store NAMENDA?
 
-- Store NAMENDA at room temperature between 59°F to 77°F (15°C to 30°C).
+- Store NAMENDA at room temperature between 68°F to 77°F (20°C to 25°C).
 
 What are the ingredients in NAMENDA?
 
-NAMENDA tablets:Active ingredient: memantine hydrochloride
+NAMENDA tablets:
+
+Active ingredient: memantine hydrochloride
 
 Inactive ingredients: microcrystalline cellulose/colloidal silicon dioxide, talc, croscarmellose sodium, and magnesium stearate
 
@@ -109,6 +111,8 @@ For more information about NAMENDA, go to www.namenda.com, or call Allergan at 1
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 
+Made in Ireland
+
 Distributed by:
 
 Allergan USA, Inc.
@@ -121,7 +125,9 @@ NAMENDA® is a registered trademark of Merz Pharma GmbH & Co KGaA
 
 Allergan® and its design are trademarks of Allergan, Inc.
 
-© 2018 Allergan.
+© 2019 Allergan.
 All rights reserved.
 
 Content updated: November 2018
+
+v1.1PPI3205

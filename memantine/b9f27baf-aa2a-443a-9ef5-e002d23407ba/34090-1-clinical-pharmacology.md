@@ -8,7 +8,7 @@ There is no evidence that memantine prevents or slows neurodegeneration in patie
 
 ## 12.2 Pharmacodynamics
 
-Memantine showed low to negligible affinity for GABA, benzodiazepine, dopamine, adrenergic, histamine and glycine receptors and for voltage-dependent Ca2+, Na+ or K+ channels.
+Memantine showed low to negligible affinity for GABA, benzodiazepine, dopamine, adrenergic, histamine and glycine receptors and for voltage-dependent Ca2+, Na+, or K+ channels.
 Memantine also showed antagonistic effects at the 5HT3 receptor with a potency similar to that for the NMDA receptor and blocked nicotinic acetylcholine receptors with one-sixth to one-tenth the potency.
 
 In vitro studies have shown that memantine does not affect the reversible inhibition of acetylcholinesterase by donepezil, galantamine, or tacrine.
@@ -32,13 +32,13 @@ The hepatic microsomal CYP450 enzyme system does not play a significant role in 
 
 Elimination
 
-Memantine is excreted predominantly (about 48%) unchanged in urine and has a terminal elimination half- life of about 60-80 hours.
+Memantine is excreted predominantly (about 48%) unchanged in urine and has a terminal elimination half-life of about 60-80 hours.
 
 The remainder is converted primarily to three polar metabolites which possess minimal NMDA receptor antagonistic activity: the N-glucuronide conjugate, 6-hydroxy memantine, and 1-nitroso-deaminated memantine.
 A total of 74% of the administered dose is excreted as the sum of the parent drug and the N-glucuronide conjugate.
 Renal clearance involves active tubular secretion moderated by pH dependent tubular reabsorption.
 
-Pharmacokinetics in Specific Populations
+Specific Populations
 
 Gender
 
@@ -79,8 +79,8 @@ In vitro studies conducted with marker substrates of CYP450 enzymes (CYP1A2, -2A
 In addition, in vitro studies indicate that at concentrations exceeding those associated with efficacy, memantine does not induce the cytochrome P450 isozymes CYP1A2, -2C9, -2E1 and -3A4/5.
 No pharmacokinetic interactions with drugs metabolized by these enzymes are expected.
 
-Pharmacokinetic studies evaluated the potential of memantine for interaction with warfarin, and buproprion.
-Memantine did not affect the pharmacokinetics of the CYP2B6 substrate buproprion or its metabolite hydroxy-buproprion.
+Pharmacokinetic studies evaluated the potential of memantine for interaction with warfarin, and bupropion.
+Memantine did not affect the pharmacokinetics of the CYP2B6 substrate bupropion or its metabolite hydroxy-bupropion.
 Furthermore, memantine did not affect the pharmacokinetics or pharmacodynamics of warfarin as assessed by the prothrombin INR.
 
 Effect of Other Drugs on NAMENDA

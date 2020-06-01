@@ -1,13 +1,11 @@
 {
   "application_numbers": [
-    "NDA021487",
-    "NDA021627"
+    "NDA021487"
   ],
   "inn": "memantine",
   "labeler": "Allergan, Inc.",
   "package_ndcs": [
     "0456-3200-14",
-    "0456-3202-12",
     "0456-3205-11",
     "0456-3205-60",
     "0456-3205-63",
@@ -18,11 +16,6 @@
   "products": [
     {
       "form": "KIT",
-      "generic": "memantine hydrochloride",
-      "name": "Namenda"
-    },
-    {
-      "form": "SOLUTION",
       "generic": "memantine hydrochloride",
       "name": "Namenda"
     },

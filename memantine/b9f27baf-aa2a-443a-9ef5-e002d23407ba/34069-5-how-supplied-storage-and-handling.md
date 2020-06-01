@@ -2,7 +2,7 @@
 
 5 mg Tablets:
 
-Tan, capsule-shaped, film-coated tablets with “5” debossed on one side and FL on the other.
+Tan, capsule-shaped, film-coated tablets with “5” debossed on one side and “FL” on the other side.
 
 Bottle of 60 NDC #0456-3205-60
 
@@ -10,7 +10,7 @@ Bottle of 60 NDC #0456-3205-60
 
 10 mg Tablets:
 
-Gray, capsule-shaped, film-coated tablets with “10” debossed on one side and FL on the other.
+Gray, capsule-shaped, film-coated tablets with “10” debossed on one side and “FL” on the other side.
 
 Bottle of 60 NDC #0456-3210-60
 
