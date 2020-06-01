@@ -41,10 +41,10 @@ Metabolic clearance rates may differ among individuals by several-fold, and this
 
 #### Metabolism
 
-1. Following absorption, LNG is extensively metabolized.
-   The most important metabolic pathways are the reduction of the Δ4-3-oxo group and hydroxylations at positions 2α, 1β and 16β, followed by conjugation.
-   Significant amounts of conjugated and unconjugated 3α, 5β- are also present in serum, along with much smaller amounts of 3α, 5α-tetrahydrolevonorgestrel and 16β-hydroxylevonorgestrel.
-   CYP3A4 is the main enzyme involved in the oxidative metabolism of LNG.
+- Following absorption, LNG is extensively metabolized.
+  The most important metabolic pathways are the reduction of the Δ4-3-oxo group and hydroxylations at positions 2α, 1β and 16β, followed by conjugation.
+  Significant amounts of conjugated and unconjugated 3α, 5β- are also present in serum, along with much smaller amounts of 3α, 5α-tetrahydrolevonorgestrel and 16β-hydroxylevonorgestrel.
+  CYP3A4 is the main enzyme involved in the oxidative metabolism of LNG.
 
 #### Excretion
 
