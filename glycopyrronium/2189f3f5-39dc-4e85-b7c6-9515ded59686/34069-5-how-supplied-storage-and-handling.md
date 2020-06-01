@@ -1,9 +1,12 @@
-# 16 HOW SUPPLIED/STORAGE AND HANDLING
+# 16 HOW SUPPLIED, STORAGE AND HANDLING
 
-GLYRX-PF (glycopyrrolate injection), 0.2 mg/mL, is available in:
+GLYRX®-PF (glycopyrrolate injection) is available in:
 
-1 mL single-dose (0.2 mg/mL) vials packaged in 25s (NDC 51754-6000-4)
+0.2 mg/mL single-dose vials packaged in 25s (NDC 51754-6000-4)
 
-2 mL single-dose (0.4 mg/2 mL) vials packaged in 25s (NDC 51754-6001-4)
+0.4 mg/2 mL (0.2 mg/mL) single-dose vials packaged in 25s (NDC 51754-6001-4)
 
-Store at 20° to 25°C (68° to 77°F) [See USP Controlled Room Temperature].
+1 mg/5 mL (0.2 mg/mL) single-dose prefilled disposable syringes packaged in 10s (NDC 51754-6015-3)
+
+Store at 20°C to 25°C (68°F to 77°F); excursions permitted to 15°C to 30°C (59°F to 86°F).
+[See USP Controlled Room Temperature].

@@ -48,12 +48,12 @@ Dysrhythmias associated with the use of glycopyrrolate intravenously as a premed
 
 Infants, patients with Down’s syndrome, and pediatric patients with spastic paralysis or brain damage may experience an increased response to anticholinergics, thus increasing the potential for side effects.
 
-A paradoxical reaction characterized by hyperexcitability may occur in pediatric patients receiving large doses of anticholinergics including GLYRX-PF.
+A paradoxical reaction characterized by hyperexcitability may occur in pediatric patients receiving large doses of anticholinergics including GLYRX®-PF.
 Infants and young children are especially susceptible to the toxic effects of anticholinergics.
 
 ## 8.5 Geriatric Use
 
-Clinical Studies of GLYRX-PF did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
+Clinical Studies of GLYRX®-PF did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
 Other reported clinical experience has not identified differences in responses between the elderly and younger patients.
 In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other therapy.
 

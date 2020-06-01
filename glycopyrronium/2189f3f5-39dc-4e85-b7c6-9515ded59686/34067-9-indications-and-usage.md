@@ -1,6 +1,6 @@
 # 1 INDICATIONS AND USAGE
 
-GLYRX-PF is indicated:
+GLYRX®-PF is indicated:
 
 in anesthesia (all ages)
 

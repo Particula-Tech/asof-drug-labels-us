@@ -1,7 +1,5 @@
 # 12 CLINICAL PHARMACOLOGY
 
-Click here to enter Clinical Pharmacology
-
 ## 12.1 Mechanism of Action
 
 Glycopyrrolate, like other anticholinergic (antimuscarinic) agents, inhibits the action of acetylcholine on structures innervated by postganglionic cholinergic nerves and on smooth muscles that respond to acetylcholine but lack cholinergic innervation.
