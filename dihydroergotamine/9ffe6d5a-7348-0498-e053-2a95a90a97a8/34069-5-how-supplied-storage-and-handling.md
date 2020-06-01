@@ -14,4 +14,4 @@ Manufactured for: Leucadia Pharmaceuticals Carlsbad, CA 92011 USA
 Made in Italy
 
 Rev.
-03/2020
+05/2020

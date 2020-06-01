@@ -192,4 +192,4 @@ Made in Italy
 leucadiapharma.com
 
 Rev.
-03/2020
+05/2020
