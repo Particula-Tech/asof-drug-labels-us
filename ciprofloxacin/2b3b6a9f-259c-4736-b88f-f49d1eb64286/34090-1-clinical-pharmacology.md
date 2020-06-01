@@ -6,7 +6,9 @@ Ciprofloxacin is a member of the fluoroquinolone class of antibacterial agents [
 
 ## 12.3 Pharmacokinetics
 
-Absorption The absolute bioavailability of ciprofloxacin when given as an oral tablet is approximately 70% with no substantial loss by first pass metabolism.
+Absorption
+
+The absolute bioavailability of ciprofloxacin when given as an oral tablet is approximately 70% with no substantial loss by first pass metabolism.
 Ciprofloxacin maximum serum concentrations (Cmax) and area under the curve (AUC) are shown in the chart for the 250 mg to 1000 mg dose range (Table 12).
 
 Table 12: Ciprofloxacin Cmax and AUC Following Administration of Single Doses of Ciprofloxacin Tablets to Healthy Subjects
@@ -25,17 +27,20 @@ Serum concentrations increase proportionately with doses up to 1000 mg.
 
 A 500 mg oral dose given every 12 hours has been shown to produce an AUC equivalent to that produced by an intravenous infusion of 400 mg ciprofloxacin given over 60 minutes every 12 hours.
 A 750 mg oral dose given every 12 hours has been shown to produce an AUC at steady-state equivalent to that produced by an intravenous infusion of 400 mg given over 60 minutes every 8 hours.
-A 750 mg oral dose results in a Cmax similar to that observed with a 400 mg intravenous dose.
-A 250 mg oral dose given every 12 hours produces an AUC equivalent to that produced by an infusion of 200 mg ciprofloxacin given every 12 hours (Table 13).
+A 750 mg oral dose results in a Cmax similar to that observed with a 400 mg intravenous dose (Table 13).
+A 250 mg oral dose given every 12 hours produces an AUC equivalent to that produced by an infusion of 200 mg ciprofloxacin given every 12 hours.
 
-Table 13: Steady-state Cmax and AUC of Ciprofloxacin Following Administration of Multiple Oral and IV Ciprofloxacin Doses to Healthy Subjects
+Table 13: Steady-state Pharmacokinetic Parameters Following Multiple Oral and Intravenous Doses (Adults)
 
 | Parameters | 500 mg | 400 mg | 750 mg | 400 mg |
 | --- | --- | --- | --- | --- |
-|  | every 12 hours, orally | every 12 hours, intravenous | every 12 hours, orally | every 8 hours, intravenous |
-| AUC (mcg•hr/mL) | 13.71 | 12.71 | 31.62 | 32.93 |
-| Cmax (mcg/mL) | 2.97 | 4.56 | 3.59 | 4.07 |
-| 1. AUC 0–12h 2. AUC 24h = AUC 0–12h x 2 3. AUC 24h = AUC 0–8h x 3 |  |  |  |  |
+|  | every 12 hours, orally | every 12 hours, intravenously | every 12 hours, orally | every 8 hours, intravenously |
+| AUC0-24h,ss (mcg•h/mL) | 27.4* | 25.4* | 31.6* | 32.9** |
+| Cmax,ss (mcg/mL) | 2.97 | 4.56 | 3.59 | 4.07 |
+
+*: AUC0-12h x 2
+
+**: AUC0-8h x 3
 
 Food
 
@@ -46,59 +51,126 @@ Avoid concomitant administration of ciprofloxacin with dairy products (like milk
 With oral administration, a 500 mg dose, given as 10 mL of the 5% ciprofloxacin suspension (containing 250 mg ciprofloxacin/5 mL) is bioequivalent to the 500 mg tablet.
 A 10 mL volume of the 5% ciprofloxacin suspension (containing 250 mg ciprofloxacin/5 mL) is bioequivalent to a 5 mL volume of the 10% ciprofloxacin suspension (containing 500 mg ciprofloxacin/5 mL).
 
-Distribution The binding of ciprofloxacin to serum proteins is 20% to 40% which is not likely to be high enough to cause significant protein binding interactions with other drugs.
+Distribution
+
+The binding of ciprofloxacin to serum proteins is 20% to 40% which is not likely to be high enough to cause significant protein binding interactions with other drugs.
+
 After oral administration, ciprofloxacin is widely distributed throughout the body.
 Tissue concentrations often exceed serum concentrations in both men and women, particularly in genital tissue including the prostate.
 Ciprofloxacin is present in active form in the saliva, nasal and bronchial secretions, mucosa of the sinuses, sputum, skin blister fluid, lymph, peritoneal fluid, bile, and prostatic secretions.
 Ciprofloxacin has also been detected in lung, skin, fat, muscle, cartilage, and bone.
 The drug diffuses into the cerebrospinal fluid (CSF); however, CSF concentrations are generally less than 10% of peak serum concentrations.
 Low levels of the drug have been detected in the aqueous and vitreous humors of the eye.
-Metabolism Four metabolites have been identified in human urine which together account for approximately 15% of an oral dose.
+
+Metabolism
+
+Four metabolites have been identified in human urine which together account for approximately 15% of an oral dose.
 The metabolites have antimicrobial activity, but are less active than unchanged ciprofloxacin.
 Ciprofloxacin is an inhibitor of human cytochrome P450 1A2 (CYP1A2) mediated metabolism.
 Co-administration of ciprofloxacin with other drugs primarily metabolized by CYP1A2 results in increased plasma concentrations of these drugs and could lead to clinically significant adverse events of the co-administered drug [see Contraindications (4.2), Warnings and Precautions (5.10, 5.16), and Drug Interactions (7)].
-Excretion The serum elimination half-life in subjects with normal renal function is approximately 4 hours.
+
+Excretion
+
+The serum elimination half-life in subjects with normal renal function is approximately 4 hours.
 Approximately 40 to 50% of an orally administered dose is excreted in the urine as unchanged drug.
 After a 250 mg oral dose, urine concentrations of ciprofloxacin usually exceed 200 mcg/mL during the first two hours and are approximately 30 mcg/mL at 8 to 12 hours after dosing.
 The urinary excretion of ciprofloxacin is virtually complete within 24 hours after dosing.
 The renal clearance of ciprofloxacin, which is approximately 300 mL/minute, exceeds the normal glomerular filtration rate of 120 mL/minute.
 Thus, active tubular secretion would seem to play a significant role in its elimination.
 Co-administration of probenecid with ciprofloxacin results in about a 50% reduction in the ciprofloxacin renal clearance and a 50% increase in its concentration in the systemic circulation.
+
 Although bile concentrations of ciprofloxacin are several fold higher than serum concentrations after oral dosing, only a small amount of the dose administered is recovered from the bile as unchanged drug.
 An additional 1% to 2% of the dose is recovered from the bile in the form of metabolites.
 Approximately 20% to 35% of an oral dose is recovered from the feces within 5 days after dosing.
 This may arise from either biliary clearance or transintestinal elimination.
-Specific Populations Elderly Pharmacokinetic studies of the oral (single dose) and intravenous (single and multiple dose) forms of ciprofloxacin indicate that plasma concentrations of ciprofloxacin are higher in elderly subjects (older than 65 years) as compared to young adults.
+
+Specific Populations
+
+Elderly
+
+Pharmacokinetic studies of the oral (single dose) and intravenous (single and multiple dose) forms of ciprofloxacin indicate that plasma concentrations of ciprofloxacin are higher in elderly subjects (older than 65 years) as compared to young adults.
 Although the Cmax is increased 16% to 40%, the increase in mean AUC is approximately 30%, and can be at least partially attributed to decreased renal clearance in the elderly.
 Elimination half-life is only slightly (~20%) prolonged in the elderly.
 These differences are not considered clinically significant [see Use in Specific Populations (8.5)].
-Renal Impairment In patients with reduced renal function, the half-life of ciprofloxacin is slightly prolonged.
+
+Renal Impairment
+
+In patients with reduced renal function, the half-life of ciprofloxacin is slightly prolonged.
 Dosage adjustments may be required [see Use in Specific Populations (8.6) and Dosage and Administration (2.3)].
-Hepatic Impairment In preliminary studies in patients with stable chronic liver cirrhosis, no significant changes in ciprofloxacin pharmacokinetics have been observed.
+
+Hepatic Impairment
+
+In preliminary studies in patients with stable chronic liver cirrhosis, no significant changes in ciprofloxacin pharmacokinetics have been observed.
 The kinetics of ciprofloxacin in patients with acute hepatic insufficiency, have not been fully studied.
-Pediatrics Following a single oral dose of 10 mg/kg ciprofloxacin suspension to 16 children ranging in age from 4 months to 7 years, the mean Cmax was 2.4 mcg/mL (range: 1.5 mcg/mL to 3.4 mcg/mL) and the mean AUC was 9.2 mcg*hr/mL (range: 5.8 mcg*hr/mL to 14.9 mcg*h/mL).
-There was no apparent age-dependence, and no notable increase in Cmax or AUC upon multiple dosing (10 mg/kg three times a day).
-In children with severe sepsis who were given ciprofloxacin IV (10 mg/kg as a 1-hour intravenous infusion), the mean Cmax was 6.1 mcg/mL (range: 4.6 mcg/mL to 8.3 mcg/mL) in 10 children less than 1 year of age; and 7.2 mcg/mL (range: 4.7 mcg/mL to 11.8 mcg/mL) in 10 children between 1 year and 5 years of age.
-The AUC values were 17.4 mcg*hr/mL (range: 11.8 mcg*hr/mL to 32 mcg*hr/mL) and 16.5 mcg*hr/mL (range: 11 mcg*hr/mL to 23.8 mcg*hr/mL) in the respective age groups.
+
+Pediatrics
+
+Table 14 summarizes pharmacokinetic parameters in pediatric patients aged less than 1 to less than 12 years of age receiving intravenous treatment.
+
+Table 14: Estimated AUC0–24,ss and Cmax,ss for Intravenous Treatment (1-h infusion) in Pediatric Patients Following a Multiple Dosing Regimen of 10 mg/kg, Three Times Daily
+
+| Age |  | AUC0-24,ss (mg h/L) | Cmax,ss (mg/L) |
+| --- | --- | --- | --- |
+| Less than 1 year |  | 30.9* | 2.8* |
+| 1 to less than 2 years |  | 27.8* | 3.6* |
+| 2 to less than 6 years |  | 28.9* | 2.7* |
+| 6 to less than 12 years |  | 20.4* | 2.0* |
+| * 3 x AUC0–8,ss |  |  |  |
+
 These values are within the range reported for adults at therapeutic doses.
 Based on population pharmacokinetic analysis of pediatric patients with various infections, the predicted mean half-life in children is approximately 4 hours to 5 hours, and the bioavailability of the oral suspension is approximately 60%.
-Drug-Drug Interactions Antacids Concurrent administration of antacids containing magnesium hydroxide or aluminum hydroxide may reduce the bioavailability of ciprofloxacin by as much as 90% [see Dosage and Administration (2.4) and Drug Interactions (7)].
-Histamine H2-receptor antagonists Histamine H2-receptor antagonists appear to have no significant effect on the bioavailability of ciprofloxacin.
-Metronidazole The serum concentrations of ciprofloxacin and metronidazole were not altered when these two drugs were given concomitantly.
-Tizanidine In a pharmacokinetic study, systemic exposure of tizanidine (4 mg single dose) was significantly increased (Cmax 7-fold, AUC 10-fold) when the drug was given concomitantly with ciprofloxacin (500 mg twice a day for 3 days).
+
+Drug-Drug Interactions
+
+Antacids
+
+Concurrent administration of antacids containing magnesium hydroxide or aluminum hydroxide may reduce the bioavailability of ciprofloxacin by as much as 90% [see Dosage and Administration (2.4) and Drug Interactions (7)].
+
+Histamine H2-receptor antagonists
+
+Histamine H2-receptor antagonists appear to have no significant effect on the bioavailability of ciprofloxacin.
+
+Metronidazole
+
+The serum concentrations of ciprofloxacin and metronidazole were not altered when these two drugs were given concomitantly.
+
+Tizanidine
+
+In a pharmacokinetic study, systemic exposure of tizanidine (4 mg single dose) was significantly increased (Cmax 7-fold, AUC 10-fold) when the drug was given concomitantly with ciprofloxacin (500 mg twice a day for 3 days).
 Concomitant administration of tizanidine and ciprofloxacin is contraindicated due to the potentiation of hypotensive and sedative effects of tizanidine [see Contraindications (4.2)].
-Ropinirole In a study conducted in 12 patients with Parkinson’s disease who were administered 6 mg ropinirole once daily with 500 mg ciprofloxacin twice-daily, the mean Cmax and mean AUC of ropinirole were increased by 60% and 84%, respectively.
+
+Ropinirole
+
+In a study conducted in 12 patients with Parkinson’s disease who were administered 6 mg ropinirole once daily with 500 mg ciprofloxacin twice-daily, the mean Cmax and mean AUC of ropinirole were increased by 60% and 84%, respectively.
 Monitoring for ropinirole-related adverse reactions and appropriate dose adjustment of ropinirole is recommended during and shortly after co-administration with ciprofloxacin [see Warnings and Precautions (5.10)].
-Clozapine Following concomitant administration of 250 mg ciprofloxacin with 304 mg clozapine for 7 days, serum concentrations of clozapine and N-desmethylclozapine were increased by 29% and 31%, respectively.
+
+Clozapine
+
+Following concomitant administration of 250 mg ciprofloxacin with 304 mg clozapine for 7 days, serum concentrations of clozapine and N-desmethylclozapine were increased by 29% and 31%, respectively.
 Careful monitoring of clozapine associated adverse reactions and appropriate adjustment of clozapine dosage during and shortly after co-administration with ciprofloxacin are advised.
-Sildenafil Following concomitant administration of a single oral dose of 50 mg sildenafil with 500 mg ciprofloxacin to healthy subjects, the mean Cmax and mean AUC of sildenafil were both increased approximately two-fold.
+
+Sildenafil
+
+Following concomitant administration of a single oral dose of 50 mg sildenafil with 500 mg ciprofloxacin to healthy subjects, the mean Cmax and mean AUC of sildenafil were both increased approximately two-fold.
 Use sildenafil with caution when co-administered with ciprofloxacin due to the expected two-fold increase in the exposure of sildenafil upon co-administration of ciprofloxacin.
-Duloxetine In clinical studies it was demonstrated that concomitant use of duloxetine with strong inhibitors of the CYP450 1A2 isozyme such as fluvoxamine, may result in a 5-fold increase in mean AUC and a 2.5-fold increase in mean Cmax of duloxetine.
-Lidocaine In a study conducted in 9 healthy volunteers, concomitant use of 1.5 mg/kg IV lidocaine with ciprofloxacin 500 mg twice daily resulted in an increase of lidocaine Cmax and AUC by 12% and 26%, respectively.
+
+Duloxetine
+
+In clinical studies it was demonstrated that concomitant use of duloxetine with strong inhibitors of the CYP450 1A2 isozyme such as fluvoxamine, may result in a 5-fold increase in mean AUC and a 2.5-fold increase in mean Cmax of duloxetine.
+
+Lidocaine
+
+In a study conducted in 9 healthy volunteers, concomitant use of 1.5 mg/kg IV lidocaine with ciprofloxacin 500 mg twice daily resulted in an increase of lidocaine Cmax and AUC by 12% and 26%, respectively.
 Although lidocaine treatment was well tolerated at this elevated exposure, a possible interaction with ciprofloxacin and an increase in adverse reactions related to lidocaine may occur upon concomitant administration.
-Metoclopramide Metoclopramide significantly accelerates the absorption of oral ciprofloxacin resulting in a shorter time to reach maximum plasma concentrations.
+
+Metoclopramide
+
+Metoclopramide significantly accelerates the absorption of oral ciprofloxacin resulting in a shorter time to reach maximum plasma concentrations.
 No significant effect was observed on the bioavailability of ciprofloxacin.
-Omeprazole When ciprofloxacin was administered as a single 1000 mg dose concomitantly with omeprazole (40 mg once daily for three days) to 18 healthy volunteers, the mean AUC and Cmax of ciprofloxacin were reduced by 20% and 23%, respectively.
+
+Omeprazole
+
+When ciprofloxacin was administered as a single 1000 mg dose concomitantly with omeprazole (40 mg once daily for three days) to 18 healthy volunteers, the mean AUC and Cmax of ciprofloxacin were reduced by 20% and 23%, respectively.
 The clinical significance of this interaction has not been determined.
 
 ## 12.4 Microbiology
@@ -111,8 +183,8 @@ Resistance to ciprofloxacin due to spontaneous mutations occurs at a general fre
 Cross Resistance There is no known cross-resistance between ciprofloxacin and other classes of antimicrobials.
 Ciprofloxacin has been shown to be active against most isolates of the following bacteria, both in vitro and in clinical infections [see Indications and Usage (1)].
 Gram-positive bacteria Bacillus anthracis Enterococcus faecalis Staphylococcus aureus (methicillin-susceptible isolates only) Staphylococcus epidermidis (methicillin-susceptible isolates only) Staphylococcus saprophyticus Streptococcus pneumoniae Streptococcus pyogenes Gram-negative bacteria Campylobacter jejuni Citrobacter koseri Citrobacter freundii Enterobacter cloacae Escherichia coli Haemophilus influenzae Haemophilus parainfluenzae Klebsiella pneumoniae Moraxella catarrhalis Morganella morganii Neisseria gonorrhoeae Proteus mirabilis Proteus vulgaris Providencia rettgeri Providencia stuartii Pseudomonas aeruginosa Salmonella typhi Serratia marcescens Shigella boydii Shigella dysenteriae Shigella flexneri Shigella sonnei Yersinia pestis The following in vitro data are available, but their clinical significance is unknown.
-At least 90 percent of the following bacteria exhibit an in vitro minimum inhibitory concentration (MIC) less than or equal to the susceptible breakpoint for ciprofloxacin (≤1 mcg/mL).
-However, the efficacy of ciprofloxacin in treating clinical infections due to these bacteria has not been established in adequate and well-controlled clinical trials.
+At least 90 percent of the following bacteria exhibit an in vitro minimum inhibitory concentration (MIC) less than or equal to the susceptible breakpoint for ciprofloxacin against isolates of similar genus or organism group.
+However, the efficacy of ciprofloxacin in treating clinical infections caused by these bacteria has not been established in adequate and well-controlled clinical trials.
 Gram-positive bacteria Staphylococcus haemolyticus (methicillin-susceptible isolates only)
 
 Staphylococcus hominis (methicillin-susceptible isolates only)

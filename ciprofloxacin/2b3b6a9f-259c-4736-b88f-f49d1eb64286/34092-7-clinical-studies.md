@@ -12,7 +12,7 @@ The Per Protocol population had a causative organism(s) with protocol specified 
 
 The clinical success and bacteriologic eradication rates in the Per Protocol population were similar between ciprofloxacin and the comparator group as shown below.
 
-Table 14: Clinical Success and Bacteriologic Eradication at Test of Cure (5 to 9 Days Post-Therapy)
+Table 15: Clinical Success and Bacteriologic Eradication at Test of Cure (5 to 9 Days Post-Therapy)
 
 |  | Ciprofloxacin | Comparator |
 | --- | --- | --- |
@@ -55,7 +55,7 @@ A placebo-controlled animal study in African green monkeys exposed to an inhaled
 The minimal inhibitory concentration (MIC) of ciprofloxacin for the Y. pestis strain used in this study was 0.015 mcg/mL.
 Mean peak serum concentrations of ciprofloxacin achieved at the end of a single 60 minute infusion were 3.49 mcg/mL ± 0.55 mcg/mL, 3.91 mcg/mL ± 0.58 mcg/mL and 4.03 mcg/mL ± 1.22 mcg/mL on Day 2, Day 6 and Day 10 of treatment in African green monkeys, respectively All trough concentrations (Day 2, Day 6 and Day 10) were <0.5 mcg/mL.
 Animals were randomized to receive either a 10-day regimen of intravenous ciprofloxacin 15 mg/kg, or placebo beginning when animals were found to be febrile (a body temperature greater than 1.5°C over baseline for two hours), or at 76 hours post-challenge, whichever occurred sooner.
-Mortality in the ciprofloxacin group was significantly lower (1/10) compared to the placebo group (2/2) [difference: -90%, 95% exact confidence interval: -99.8% to -5.8%].
+Mortality in the ciprofloxacin group was significantly lower (1/10) compared to the placebo group (2/2) [difference: -90.0%, 95% exact confidence interval: -99.8% to -5.8%].
 The one ciprofloxacin-treated animal that died did not receive the proposed dose of ciprofloxacin due to a failure of the administration catheter.
 Circulating ciprofloxacin concentration was below 0.5 mcg/mL at all timepoints tested in this animal.
 It became culture negative on Day 2 of treatment, but had a resurgence of low grade bacteremia on Day 6 after treatment initiation.

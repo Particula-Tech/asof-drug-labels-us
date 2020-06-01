@@ -39,16 +39,21 @@ Inform patients of the following serious adverse reactions that have been associ
   If patients need to be outdoors while using quinolones, instruct them to wear loose-fitting clothes that protect skin from sun exposure and discuss other sun protection measures with their physician.
   If a sunburn-like reaction or skin eruption occurs, instruct patients to contact their physician.
 - Blood Glucose Disturbances: Inform the patients that if they are diabetic and are being treated with insulin or an oral hypoglycemic agent and a hypoglycemic reaction occurs, they should discontinue ciprofloxacin and consult a physician.
+- Lactation: For indications other than inhalational anthrax (post exposure), advise a woman that breastfeeding is not recommended during treatment with ciprofloxacin and for an additional 2 days after the last dose.
+  Alternatively, a woman may pump and discard during treatment and for additional 2 days after the last dose [see Use in Specific Populations (8.2)].
 
 Antibacterial Resistance Inform patients that antibacterial drugs including ciprofloxacin tablets should only be used to treat bacterial infections.
 They do not treat viral infections (for example, the common cold).
 When ciprofloxacin tablets are prescribed to treat a bacterial infection, patients should be told that although it is common to feel better early in the course of therapy, the medication should be taken exactly as directed.
 Skipping doses or not completing the full course of therapy may (1) decrease the effectiveness of the immediate treatment and (2) increase the likelihood that bacteria will develop resistance and will not be treatable by ciprofloxacin tablets or other antibacterial drugs in the future.
-Administration with Food, Fluids, and Concomitant Medications Inform patients that ciprofloxacin tablets may be taken with or without food.
+Administration Instructions Inform patients that ciprofloxacin tablets may be taken with or without food.
 Inform patients to drink fluids liberally while taking ciprofloxacin tablets to avoid formation of highly concentrated urine and crystal formation in the urine.
 Inform patients that antacids containing magnesium, or aluminum, as well as sucralfate, metal cations such as iron, and multivitamin preparations with zinc or didanosine should be taken at least two hours before or six hours after ciprofloxacin tablets administration.
 Ciprofloxacin tablets should not be taken with dairy products (like milk or yogurt) or calcium-fortified juices alone since absorption of ciprofloxacin may be significantly reduced; however, ciprofloxacin tablets may be taken with a meal that contains these products.
+Advise patients that if a dose is missed, it should be taken anytime but not later than 6 hours prior to the next scheduled dose.
+If less than 6 hours remain before the next dose, the missed dose should not be taken and treatment should be continued as prescribed with the next scheduled dose.
+Double doses should not be taken to compensate for a missed dose.
 Drug Interactions Oral Antidiabetic Agents Inform patients that hypoglycemia has been reported when ciprofloxacin and oral antidiabetic agents were co-administered; if low blood sugar occurs with ciprofloxacin tablets, instruct them to consult their physician and that their antibacterial medicine may need to be changed.
 Anthrax and Plague Studies Inform patients given ciprofloxacin tablets for these conditions that efficacy studies could not be conducted in humans for feasibility reasons.
 Therefore, approval for these conditions was based on efficacy studies conducted in animals.
-Dispense with Medication Guide available at: www.aurobindousa.com/product-medication-guides
+Dispense with Medication Guide available at: www.aurobindousa.com/medication-guides
