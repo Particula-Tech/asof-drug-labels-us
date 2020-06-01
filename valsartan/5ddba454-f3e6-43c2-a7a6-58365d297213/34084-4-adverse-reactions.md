@@ -94,7 +94,7 @@ The following additional adverse reactions have been reported in postmarketing u
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 Hypersensitivity: Angioedema has been reported.
-Some of these patients previously experienced angioedema with other drugs including ACE inhibitors.
+Some of these patients previously experienced angioedema with other drugs, including ACE inhibitors.
 Diovan should not be re-administered to patients who have had angioedema.
 
 Digestive: Elevated liver enzymes and very rare reports of hepatitis

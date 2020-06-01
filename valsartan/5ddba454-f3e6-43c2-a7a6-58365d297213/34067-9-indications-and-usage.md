@@ -4,7 +4,7 @@
 
 Diovan® (valsartan) is indicated for the treatment of hypertension, to lower blood pressure in adults and pediatric patients six years of age and older.
 Lowering blood pressure reduces the risk of fatal and nonfatal cardiovascular events, primarily strokes and myocardial infarctions.
-These benefits have been seen in controlled trials of antihypertensive drugs from a wide variety of pharmacologic classes including the class to which valsartan principally belongs.
+These benefits have been seen in controlled trials of antihypertensive drugs from a wide variety of pharmacologic classes, including the class to which valsartan principally belongs.
 There are no controlled trials in hypertensive patients demonstrating risk reduction with Diovan.
 
 Control of high blood pressure should be part of comprehensive cardiovascular risk management, including, as appropriate, lipid control, diabetes management, antithrombotic therapy, smoking cessation, exercise, and limited sodium intake.

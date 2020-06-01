@@ -14,4 +14,4 @@ Caution all patients that inadequate fluid intake, excessive perspiration, diarr
 
 Hyperkalemia: Advise patients not to use salt substitutes without consulting their healthcare provider [see Drug Interactions (7.1)].
 
-T2019-66
+T2020-74

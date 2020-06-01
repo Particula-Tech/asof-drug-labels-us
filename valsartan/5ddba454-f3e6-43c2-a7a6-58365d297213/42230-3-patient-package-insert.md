@@ -145,9 +145,9 @@ For a complete list, ask your doctor or pharmacist.
 
 How do I store DIOVAN?
 
-- Store DIOVAN tablets at room temperature between 59ºF - 86ºF (15ºC - 30ºC).
+- Store DIOVAN tablets at room temperature between 59ºF and 86ºF (15ºC and 30ºC).
 - Keep DIOVAN tablets in a closed container in a dry place.
-- Store bottles of DIOVAN suspension at room temperature less than 86ºF (30ºC) for up to 30 days, or refrigerate between 35ºF - 46ºF (2ºC - 8ºC) for up to 75 days.
+- Store bottles of DIOVAN suspension at room temperature less than 86ºF (30ºC) for up to 30 days, or refrigerate between 35ºF to 46ºF (2ºC to 8ºC) for up to 75 days.
 - Keep DIOVAN and all medicines out of the reach of children.
 
 General information about DIOVAN
@@ -177,4 +177,7 @@ East Hanover, NJ 07936
 
 © Novartis
 
-T2019-67 Revised: 06/2019
+This Patient Information has been approved by the U.S. Food and Drug Administration.
+Revised: 5/2020
+
+T2020-75
