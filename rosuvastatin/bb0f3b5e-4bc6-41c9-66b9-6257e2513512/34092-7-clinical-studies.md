@@ -133,7 +133,7 @@ Rosuvastatin significantly reduced LDL-C (primary end point), total cholesterol 
 Results are shown in Table 12 below.
 
 Table 12.
-Lipid-Modifying Effects of Rosuvastatin in Pediatric Patients 10 to 17 years of Age with Heterozygous Familial Hypercholesterolemia (Least-Squares Mean Percent Change from Baseline to Week 12)
+Lipid-Modifying Effects of Rosuvastatin in Pediatric Patients 10 to 17 years of Age with Heterozygous Familial Hypercholesterolemia (Least-Squares Mean Percent Change from Baseline To Week 12)
 
 | Dose (mg) | N | LDL-C | HDL-C | Total-C | TGMedian percent change | ApoB |
 | --- | --- | --- | --- | --- | --- | --- |

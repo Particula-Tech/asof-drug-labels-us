@@ -90,7 +90,7 @@ Drug Interactions Studies
 Rosuvastatin clearance is not dependent on metabolism by cytochrome P450 3A4 to a clinically significant extent.
 
 Rosuvastatin is a substrate for certain transporter proteins including the hepatic uptake transporter organic anion-transporting polyprotein 1B1 (OATP1B1) and efflux transporter breast cancer resistance protein (BCRP).
-Concomitant administration of CRESTOR with medications that are inhibitors of these transporter proteins (e.g., cyclosporine, certain HIV protease inhibitors) may result in increased rosuvastatin plasma concentrations [see Dosage and Administration (2.4) and Drug Interactions (7.1, 7.3)].
+Concomitant administration of CRESTOR with medications that are inhibitors of these transporter proteins (e.g. cyclosporine, certain HIV protease inhibitors) may result in increased rosuvastatin plasma concentrations [see Dosage and Administration (2.4) and Drug Interactions (7.1, 7.3)].
 
 Table 4.
 Effect of Coadministered Drugs on Rosuvastatin Systemic Exposure
@@ -99,9 +99,16 @@ Effect of Coadministered Drugs on Rosuvastatin Systemic Exposure
 | --- | --- | --- | --- |
 |  |  | Mean Ratio (ratio with/without coadministered drug) No Effect=1.0 |  |
 |  | Dose (mg)Single dose unless otherwise noted. | Change in AUC | Change in Cmax |
-| Cyclosporine – stable dose required (75 mg – 200 mg BID) | 10 mg QD for 10 days | 7.1Clinically significant [see Dosage and Administration (2) and Warnings and Precautions (5)] | 11 |
+| Sofosbuvir/velpatasvir/voxilaprevir (400 mg-100 mg-100 mg) + Voxilaprevir (100 mg) once daily for 15 days | 10mg single dose | 7.39Clinically significant [see Dosage and Administration (2) and Warnings and Precautions (5)](6.68-8.18) 3 | 18.88(16.23-21.96) 3 |
+| Cyclosporine – stable dose required (75 mg – 200 mg BID) | 10 mg QD for 10 days | 7.1 | 11 |
+| Darolutamide 600 mg BID, 5 days | 5mg, single dose | 5.2 | ~5 |
+| Regorafenib 160mg OD, 14 days | 5 mg single dose | 3.8 | 4.6 |
 | Atazanavir/ritonavir combination 300 mg/100 mg QD for 8 days | 10 mg | 3.1 | 7 |
 | Simeprevir 150 mg QD, 7 days | 10 mg, single dose | 2.8(2.3-3.4)Mean ratio with 90% CI (with/without coadministered drug, e.g., 1= no change, 0.7 = 30% decrease, 11=11 fold increase in exposure) | 3.2(2.6-3.9) |
+| Velpatasvir 100mg once daily | 10 mg single dose | 2.69(2.46-2.94) 3 | 2.61(2.32-2.92)3 |
+| Ombitasvir 25mg/paritaprevir 150mg/ ritonavir 100mg + dasabuvir 400mg BID | 5mg single dose | 2.59(2.09-3.21) | 7.13(5.11-9.96) |
+| Elbasvir 50mg/grazoprevir 200mg once daily | 10mg single dose | 2.26(1.89-2.69) | 5.49(4.29-7.04) |
+| Glecaprevir 400mg/pibrentasvir 120mg once daily | 5mg once daily | 2.15(1.88-2.46) | 5.62(4.80-6.59) |
 | Lopinavir/ritonavir combination 400 mg/100 mg BID for 17 days | 20 mg QD for 7 days | 2.1(1.7-2.6) | 5(3.4-6.4) |
 | Gemfibrozil 600 mg BID for 7 days | 80 mg | 1.9(1.6-2.2) | 2.2(1.8-2.7) |
 | Eltrombopag 75 mg QD, 5 days | 10 mg | 1.6(1.4-1.7) | 2(1.8-2.3) |
@@ -117,6 +124,7 @@ Effect of Coadministered Drugs on Rosuvastatin Systemic Exposure
 | Ketoconazole 200 mg BID for 7 days | 80 mg | 1.0(0.8-1.2) | 1.0(0.7-1.3) |
 | Fluconazole 200 mg QD for 11 days | 80 mg | 1.1(1.0-1.3) | 1.1(0.9-1.4) |
 | Erythromycin 500 mg QID for 7 days | 80 mg | 0.8(0.7-0.9) | 0.7(0.5-0.9) |
+| QD= Once daily, BID= Twice daily, TID= Three times daily, QID= Four times daily |  |  |  |
 
 Table 5.
 Effect of Rosuvastatin Coadministration on Systemic Exposure to Other Drugs
@@ -128,7 +136,7 @@ Effect of Rosuvastatin Coadministration on Systemic Exposure to Other Drugs
 | 40 mg QD for 10 days | WarfarinClinically significant pharmacodynamic effects [see Warnings and Precautions (5.3)]25 mg single dose | R- Warfarin 1.0(1.0-1.1)Mean ratio with 90% CI (with/without coadministered drug, e.g., 1= no change, 0.7=30% decrease, 11=11-fold increase in exposure)S-Warfarin 1.1(1.0-1.1) | R-Warfarin 1.0(0.9-1.0)S-Warfarin 1.0(0.9-1.1) |
 | 40 mg QD for 12 days | Digoxin 0.5 mg single dose | 1.0(0.9-1.2) | 1.0(0.9-1.2) |
 | 40 mg QD for 28 days | Oral Contraceptive(ethinyl estradiol 0.035 mg & norgestrel 0.180, 0.215 and 0.250 mg) QD for 21 Days | EE 1.3(1.2-1.3)NG 1.3(1.3-1.4) | EE 1.3(1.2-1.3)NG 1.2(1.1-1.3) |
-| EE = ethinyl estradiol, NG = norgestrel |  |  |  |
+| EE = ethinyl estradiol, NG = norgestrel, QD= Once daily |  |  |  |
 
 ## 12.5 Pharmacogenomics
 
