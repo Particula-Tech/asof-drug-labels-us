@@ -27,7 +27,8 @@ Alert patients and their caregivers to the possibility that they may experience 
 
 Hallucinations and Psychotic-like Behavior
 
-Inform patients that hallucinations and other psychotic-like behavior can occur and that the elderly are at a higher risk than younger patients with Parkinson's disease [see Warnings and Precautions (5.4)].
+Inform patients that hallucinations and other psychotic-like behavior can occur.
+In patients with Parkinson's disease, the elderly are at a higher risk than younger patients [see Warnings and Precautions (5.4)].
 
 Postural (Orthostatic) Hypotension
 
@@ -45,18 +46,15 @@ Because of the possibility that pramipexole may be excreted in breast milk, advi
 
 Manufactured by:
 
-TORRENT PHARMACEUTICALS LTD., Indrad-382 721, Dist.
-Mehsana, INDIA.
+TORRENT PHARMACEUTICALS LTD., INDIA.
 
-Or
+.
 
-TORRENT PHARMACEUTICALS LTD., Bharuch-392130, INDIA.
+Manufactured for:
 
-For:
+TORRENT PHARMA INC., Basking Ridge, NJ 07920.
 
-TORRENT PHARMA INC., 150 Allen Road, Suite 102, Basking Ridge, NJ 07920.
-
-8062604 Revised May 2018
+8078620 Revised April 2020
 
 PATIENT INFORMATION
 
@@ -177,12 +175,12 @@ You may have:
 Sit and stand up slowly after you have been sitting or lying down.
 
 • unusual urges.
-Some people who take certain medicines to treat Parkinson's disease, including pramipexole dihydrochloride tablets, have reported problems, such as gambling, compulsive eating, compulsive buying, and increased sex drive.
+Some people who take certain medicines to treat Parkinson's disease or RLS, including pramipexole dihydrochloride tablets, have reported problems, such as gambling, compulsive eating, compulsive buying, and increased sex drive.
 
 If you or your family members notice that you are developing unusual urges or behaviors, talk to your doctor.
 
 • hallucinations and other psychotic-like behavior (seeing visions, hearing sounds or feeling sensations that are not real, confusion, excessive suspicion, aggressive behavior, agitation, delusional beliefs and disorganized thinking).
-Your chance of having hallucinations and other psychotic-like behavior is higher if you are elderly (age 65 or older).
+The chances of having hallucinations or other psychotic-like changes are higher in people taking pramipexole dihydrochloride tablets for Parkinson's disease who are elderly (age 65 or older).
 
 If you have hallucinations or other psychotic-like changes, talk with your doctor right away.
 
@@ -216,7 +214,7 @@ You may report side effects to FDA at 1-800-FDA-1088.
 
 How should I store pramipexole dihydrochloride tablets?
 
-- Store pramipexole dihydrochloride tablets at 20°-25°C (68°-77°F); excursions permitted to 15°-30°C (59°-86°F) [see USP Controlled Room Temperature].
+- Store pramipexole dihydrochloride tablets at 20° to 25°C (68° to 77°F); excursions permitted to 15°to 30°C (59° to 86°F) [see USP Controlled Room Temperature].
 - Keep pramipexole dihydrochloride tablets out of the light.
 - Keep pramipexole dihydrochloride tablets and all medicines out of the reach of children.
 
@@ -231,7 +229,7 @@ This Patient Information leaflet summarizes the most important information about
 If you would like more information, talk with your doctor.
 You can ask your pharmacist or doctor for information about pramipexole dihydrochloride tablets that is written for healthcare professionals.
 
-For additional information, you may also call at 1-800-912-9561.
+For more information, you may also call at 1-800-912-9561.
 
 What are the ingredients in pramipexole dihydrochloride tablets?
 
@@ -245,15 +243,12 @@ Trademarks are the property of their respective owners.
 
 Manufactured by:
 
-TORRENT PHARMACEUTICALS LTD., Indrad-382 721, Dist.
-Mehsana, INDIA.
+TORRENT PHARMACEUTICALS LTD., INDIA.
 
-Or
+.
 
-TORRENT PHARMACEUTICALS LTD., Bharuch-392130, INDIA.
+Manufactured for:
 
-For:
+TORRENT PHARMA INC., Basking Ridge, NJ 07920.
 
-TORRENT PHARMA INC., 150 Allen Road, Suite 102, Basking Ridge, NJ 07920.
-
-8062604 Revised May 2018
+8078620 Revised: April 2020

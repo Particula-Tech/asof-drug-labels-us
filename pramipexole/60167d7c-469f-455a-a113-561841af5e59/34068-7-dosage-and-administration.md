@@ -33,7 +33,7 @@ Table 1 Ascending Dosage Schedule of Pramipexole Dihydrochloride Tablets for Par
 
 Maintenance Treatment
 
-Pramipexole Dihydrochloride Tablets were effective and well tolerated over a dosage range of 1.5 to 4.5 mg/day administered in equally divided doses three times per day with or without concomitant levodopa (approximately 800 mg/day).
+Pramipexole dihydrochloride tablets were effective and well tolerated over a dosage range of 1.5 to 4.5 mg/day administered in equally divided doses three times per day with or without concomitant levodopa (approximately 800 mg/day).
 
 In a fixed-dose study in early Parkinson's disease patients, doses of 3 mg, 4.5 mg, and 6 mg per day of pramipexole dihydrochloride tablets were not shown to provide any significant benefit beyond that achieved at a daily dose of 1.5 mg/day.
 However, in the same fixed-dose study, the following adverse events were dose related: postural hypotension, nausea, constipation, somnolence, and amnesia.

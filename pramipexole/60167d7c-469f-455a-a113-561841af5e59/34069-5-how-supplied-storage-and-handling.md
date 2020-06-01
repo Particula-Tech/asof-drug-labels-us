@@ -12,7 +12,7 @@ Bottles of 90 NDC 13668-091-90
 
 Bottles of 500 NDC 13668-091-05
 
-Bottles of 6000 NDC 13668-091-42
+Bottles of 6,000 NDC 13668-091-42
 
 100 Unit Dose Tablets NDC 13668-091-74
 
@@ -24,7 +24,7 @@ Bottles of 90 NDC 13668-092-90
 
 Bottles of 500 NDC 13668-092-05
 
-Bottles of 5500 NDC 13668-092-41
+Bottles of 5,500 NDC 13668-092-41
 
 100 Unit Dose Tablets NDC 13668-092-74
 
@@ -36,7 +36,7 @@ Bottles of 90 NDC 13668-093-90
 
 Bottles of 500 NDC 13668-093-05
 
-Bottles of 4000 NDC 13668-093-40
+Bottles of 4,000 NDC 13668-093-40
 
 100 Unit Dose Tablets NDC 13668-093-74
 
@@ -48,7 +48,7 @@ Bottles of 90 NDC 13668-184-90
 
 Bottles of 500 NDC 13668-184-05
 
-Bottles of 2500 NDC 13668-184-31
+Bottles of 2,500 NDC 13668-184-31
 
 100 Unit Dose Tablets NDC 13668-184-74
 
@@ -60,7 +60,7 @@ Bottles of 90 NDC 13668-094-90
 
 Bottles of 500 NDC 13668-094-05
 
-Bottles of 2500 NDC 13668-094-31
+Bottles of 2,500 NDC 13668-094-31
 
 100 Unit Dose Tablets NDC 13668-094-74
 
@@ -72,13 +72,13 @@ Bottles of 90 NDC 13668-095-90
 
 Bottles of 500 NDC 13668-095-05
 
-Bottles of 1500 NDC 13668-095-15
+Bottles of 1,500 NDC 13668-095-15
 
 100 Unit Dose Tablets NDC 13668-095-74
 
 ## 16.2 Storage and Handling
 
-Store at 20° - 25°C (68° - 77°F); excursions permitted to 15° - 30°C (59° - 86°F) [see USP Controlled Room Temperature].
+Store at 20° to 25°C (68° to 77°F); excursions permitted to 15° to 30°C (59° to 86°F) [see USP Controlled Room Temperature].
 
 Protect from light.
 
