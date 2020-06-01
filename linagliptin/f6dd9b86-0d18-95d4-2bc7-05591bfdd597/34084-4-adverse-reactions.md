@@ -53,28 +53,11 @@ Hypoglycemia
 Linagliptin/Metformin
 
 In a 24-week factorial design study, hypoglycemia was reported in 4 (1.4%) of 286 subjects treated with linagliptin + metformin, 6 (2.1%) of 291 subjects treated with metformin, and 1 (1.4%) of 72 subjects treated with placebo.
-When linagliptin was administered in combination with metformin and a sulfonylurea, 181 (22.9%) of 792 patients reported hypoglycemia compared with 39 (14.8%) of 263 patients administered placebo in combination with metformin and sulfonylurea.
-Adverse reactions of hypoglycemia were based on all reports of hypoglycemia.
-A concurrent glucose measurement was not required or was normal in some patients.
-Therefore, it is not possible to conclusively determine that all these reports reflect true hypoglycemia.
+The incidence of hypoglycemia with plasma glucose <54 mg/dL was 8.1% in the linagliptin group (N=792) compared to 5.3% in the placebo group (N=263) when administered in combination with metformin and sulfonylurea in a 24-week study.
 
 Linagliptin
 
-In the study of patients receiving linagliptin as add-on therapy to a stable dose of insulin for up to 52 weeks (n=1261), no significant difference in the incidence of investigator reported hypoglycemia, defined as all symptomatic or asymptomatic episodes with a self-measured blood glucose ≤70 mg/dL, was noted between the linagliptin- (31.4%) and placebo- (32.9%) treated groups.
-
-Use in Renal Impairment
-
-Linagliptin was compared to placebo as add-on to pre-existing antidiabetic therapy over 52 weeks in 133 patients with severe renal impairment (estimated GFR <30 mL/min).
-For the initial 12 weeks of the study, background antidiabetic therapy was kept stable and included insulin, sulfonylurea, glinides, and pioglitazone.
-For the remainder of the trial, dose adjustments in antidiabetic background therapy were allowed.
-
-In general, the incidence of adverse events including severe hypoglycemia was similar to those reported in other linagliptin trials.
-The observed incidence of hypoglycemia was higher (linagliptin, 63% compared to placebo, 49%) due to an increase in asymptomatic hypoglycemic events especially during the first 12 weeks when background glycemic therapies were kept stable.
-Ten linagliptin-treated patients (15%) and 11 placebo-treated patients (17%) reported at least one episode of confirmed symptomatic hypoglycemia (accompanying finger stick glucose ≤54 mg/dL).
-During the same time period, severe hypoglycemic events, defined as an event requiring the assistance of another person to actively administer carbohydrate, glucagon or other resuscitative actions, were reported in 3 (4.4%) linagliptin-treated patients and 3 (4.6%) placebo-treated patients.
-Events that were considered life-threatening or required hospitalization were reported in 2 (2.9%) patients on linagliptin and 1 (1.5%) patient on placebo.
-
-Renal function as measured by mean eGFR and creatinine clearance did not change over 52 weeks' treatment compared to placebo.
+The incidence of severe hypoglycemia (requiring assistance) was 1.7% in the linagliptin group (N=631) compared to 1.1% in the placebo group (N=630) when administered in combination with basal insulin in a 52 week study.
 
 Laboratory Tests
 
@@ -84,6 +67,10 @@ Increase in Uric Acid: Changes in laboratory values that occurred more frequentl
 
 Increase in Lipase: In a placebo-controlled clinical trial with linagliptin in type 2 diabetes mellitus patients with micro- or macroalbuminuria, a mean increase of 30% in lipase concentrations from baseline to 24 weeks was observed in the linagliptin arm compared to a mean decrease of 2% in the placebo arm.
 Lipase levels above 3 times upper limit of normal were seen in 8.2% compared to 1.7% patients in the linagliptin and placebo arms, respectively.
+
+Increase in Amylase: In a cardiovascular safety study comparing linagliptin versus glimepiride in patients with type 2 diabetes mellitus, amylase levels above 3 times upper limit of normal were seen in 1.0% compared to 0.5% of patients in the linagliptin and glimepiride arms, respectively.
+
+The clinical significance of elevations in lipase and amylase with linagliptin is unknown in the absence of potential signs and symptoms of pancreatitis [see Warnings and Precautions (5.2)].
 
 Metformin
 

@@ -39,7 +39,10 @@ Table 6 Glycemic Parameters at Final Visit (24-Week Study) for Linagliptin and M
 | Baseline (mean) | 203 | 195 | 191 | 199 | 191 | 196 |
 | Change from baseline (adjusted mean****) | 10 | -9 | -16 | -33 | -32 | -49 |
 | Difference from placebo (adjusted mean) (95% CI) | -- | -19 (-31, -6) | -26 (-38, -14) | -43 (-56, -31) | -42 (-55, -30) | -60 (-72, -47) |
-| *Total daily dose of linagliptin is equal to 5 mg**Full analysis population using last observation on study***Metformin 500 mg twice daily, n=140; Linagliptin 2.5 mg twice daily + Metformin 500 mg twice daily, n=136; Metformin 1000 mg twice daily, n=137; Linagliptin 2.5 mg twice daily + Metformin 1000 mg twice daily, n=138****HbA1c: ANCOVA model included treatment and number of prior OADs as class-effects, as well as baseline HbA1c as continuous covariates. FPG: ANCOVA model included treatment and number of prior OADs as class-effects, as well as baseline HbA1c and baseline FPG as continuous covariates. |  |  |  |  |  |  |
+| *Total daily dose of linagliptin is equal to 5 mg |  |  |  |  |  |  |
+| **Full analysis population using last observation on study |  |  |  |  |  |  |
+| ***Metformin 500 mg twice daily, n=140; Linagliptin 2.5 mg twice daily + Metformin 500 mg twice daily, n=136; Metformin 1000 mg twice daily, n=137; Linagliptin 2.5 mg twice daily + Metformin 1000 mg twice daily, n=138 |  |  |  |  |  |  |
+| ****HbA1c: ANCOVA model included treatment and number of prior OADs as class-effects, as well as baseline HbA1c as continuous covariates. FPG: ANCOVA model included treatment and number of prior OADs as class-effects, as well as baseline HbA1c and baseline FPG as continuous covariates. |  |  |  |  |  |  |
 
 Figure 1 Adjusted Mean Change from Baseline for A1C (%) over 24 Weeks with Linagliptin and Metformin, Alone and in Combination in Patients with Type 2 Diabetes Mellitus Inadequately Controlled with Diet and Exercise - FAS completers
 
@@ -67,7 +70,9 @@ Table 7 Glycemic Parameters at 24 Weeks in Study Comparing Linagliptin in Combin
 | Baseline (mean) | 196 | 198 |
 | Change from baseline (adjusted mean) | -54 | -35 |
 | Difference from linagliptin (adjusted mean**) (95% CI) | -18†† (-31, -5.5) | -- |
-| †p<0.0001 compared to linagliptin, ††p=0.0054 compared to linagliptin*Full analysis set population**A1C: MMRM model included treatment, continuous baseline A1C, baseline A1C by visit interaction, visit by treatment interaction, baseline renal impairment by treatment interaction and baseline renal impairment by treatment by visit interaction. FPG: MMRM model included treatment, continuous baseline A1C, continuous baseline FPG, baseline FPG by visit interaction, visit by treatment interaction, baseline renal impairment by treatment interaction and baseline renal impairment by treatment by visit interaction. |  |  |
+| †p<0.0001 compared to linagliptin, ††p=0.0054 compared to linagliptin |  |  |
+| *Full analysis set population |  |  |
+| **A1C: MMRM model included treatment, continuous baseline A1C, baseline A1C by visit interaction, visit by treatment interaction, baseline renal impairment by treatment interaction and baseline renal impairment by treatment by visit interaction. FPG: MMRM model included treatment, continuous baseline A1C, continuous baseline FPG, baseline FPG by visit interaction, visit by treatment interaction, baseline renal impairment by treatment interaction and baseline renal impairment by treatment by visit interaction. |  |  |
 
 The adjusted mean changes for A1C (%) from baseline over time for linagliptin and metformin as compared to linagliptin alone were maintained throughout the 24-week treatment period.
 Using the completers analysis the respective adjusted means for A1C (%) changes from baseline for linagliptin and metformin as compared to linagliptin alone were -1.9 and -1.3 at week 6, -2.6 and -1.8 at week 12, -2.7 and -1.9 at week 18, and -2.7 and -1.9 at week 24.
@@ -106,7 +111,9 @@ Table 8 Glycemic Parameters in Placebo-Controlled Study for Linagliptin in Combi
 | Baseline (mean) | 270 | 274 |
 | Change from baseline (adjusted mean***) | -49 | 18 |
 | Difference from placebo + metformin (adjusted mean) (95% CI) | -67 (-95, -40) | -- |
-| * Full analysis population using last observation on study**Linagliptin 5 mg + Metformin, n=485; Placebo + Metformin, n=163***HbA1c: ANCOVA model included treatment and number of prior oral OADs as class-effects, as well as baseline HbA1c as continuous covariates. FPG: ANCOVA model included treatment and number of prior OADs as class-effects, as well as baseline HbA1c and baseline FPG as continuous covariates. PPG: ANCOVA model included treatment and number of prior OADs as class-effects, as well as baseline HbA1c and baseline postprandial glucose after two hours as covariate. |  |  |
+| * Full analysis population using last observation on study |  |  |
+| **Linagliptin 5 mg + Metformin, n=485; Placebo + Metformin, n=163 |  |  |
+| ***HbA1c: ANCOVA model included treatment and number of prior oral OADs as class-effects, as well as baseline HbA1c as continuous covariates. FPG: ANCOVA model included treatment and number of prior OADs as class-effects, as well as baseline HbA1c and baseline FPG as continuous covariates. PPG: ANCOVA model included treatment and number of prior OADs as class-effects, as well as baseline HbA1c and baseline postprandial glucose after two hours as covariate. |  |  |
 
 Active-Controlled Study vs Glimepiride in Combination with Metformin
 
@@ -123,9 +130,9 @@ These results were consistent with the completers analysis.
 
 Table 9 Glycemic Parameters at 52 and 104 Weeks in Study Comparing Linagliptin to Glimepiride as Add-On Therapy in Patients Inadequately Controlled on Metformin**
 
-|  | Week 52 |  | Week 104 |  |
-| --- | --- | --- | --- | --- |
 |  | Linagliptin 5 mg + Metformin | Glimepiride + Metformin (mean glimepiride dose 3 mg) | Linagliptin 5 mg + Metformin | Glimepiride + Metformin (mean glimepiride dose 3 mg) |
+| --- | --- | --- | --- | --- |
+|  | Week 52 |  | Week 104 |  |
 | A1C (%) |  |  |  |  |
 | Number of patients | n=764 | n=755 | n=764 | n=755 |
 | Baseline (mean) | 7.7 | 7.7 | 7.7 | 7.7 |
@@ -135,7 +142,9 @@ Table 9 Glycemic Parameters at 52 and 104 Weeks in Study Comparing Linagliptin t
 | Number of patients | n=733 | n=725 | n=733 | n=725 |
 | Baseline (mean) | 164 | 166 | 164 | 166 |
 | Change from baseline (adjusted mean***) | -8* | -15 | -2† | -9 |
-| *p<0.0001 vs glimepiride; †p=0.0012 vs glimepiride**Full analysis population using last observation on study***HbA1c: ANCOVA model included treatment and number of prior OADs as class-effects, as well as baseline HbA1c as continuous covariates. FPG: ANCOVA model included treatment and number of prior OADs as class-effects, as well as baseline HbA1c and baseline FPG as continuous covariates. |  |  |  |  |
+| *p<0.0001 vs glimepiride; †p=0.0012 vs glimepiride |  |  |  |  |
+| **Full analysis population using last observation on study |  |  |  |  |
+| ***HbA1c: ANCOVA model included treatment and number of prior OADs as class-effects, as well as baseline HbA1c as continuous covariates. FPG: ANCOVA model included treatment and number of prior OADs as class-effects, as well as baseline HbA1c and baseline FPG as continuous covariates. |  |  |  |  |
 
 Patients treated with linagliptin had a mean baseline body weight of 86 kg and were observed to have an adjusted mean decrease in body weight of 1.1 kg at 52 weeks and 1.4 kg at 104 weeks.
 Patients on glimepiride had a mean baseline body weight of 87 kg and were observed to have an adjusted mean increase from baseline in body weight of 1.4 kg at 52 weeks and 1.3 kg at 104 weeks (treatment difference p<0.0001 for both timepoints).
@@ -168,57 +177,14 @@ Table 10 Glycemic Parameters at Final Visit (24-Week Study) for Linagliptin in C
 | Baseline (mean) | 159 | 163 |
 | Change from baseline (adjusted mean***) | -5 | 8 |
 | Difference from placebo (adjusted mean) (95% CI) | -13 (-18, -7) | -- |
-| SU=sulfonylurea*Full analysis population using last observation on study**Linagliptin 5 mg + Metformin + SU, n=742; Placebo + Metformin + SU, n=247***HbA1c: ANCOVA model included treatment as class-effects and baseline HbA1c as continuous covariates. FPG: ANCOVA model included treatment as class-effects, as well as baseline HbA1c and baseline FPG as continuous covariates. |  |  |
+| SU=sulfonylurea |  |  |
+| *Full analysis population using last observation on study |  |  |
+| **Linagliptin 5 mg + Metformin + SU, n=742; Placebo + Metformin + SU, n=247 |  |  |
+| ***HbA1c: ANCOVA model included treatment as class-effects and baseline HbA1c as continuous covariates. FPG: ANCOVA model included treatment as class-effects, as well as baseline HbA1c and baseline FPG as continuous covariates. |  |  |
 
-Add-On Combination Therapy with Insulin
+## 14.2 Linagliptin Cardiovascular Safety Trials
 
-A total of 1261 patients with type 2 diabetes inadequately controlled on basal insulin alone or basal insulin in combination with oral drugs participated in a randomized, double-blind placebo-controlled trial designed to evaluate the efficacy of linagliptin as add-on therapy to basal insulin over 24 weeks.
-Randomization was stratified by baseline HbA1c (<8.5% vs ≥8.5%), renal function impairment status (based on baseline eGFR), and concomitant use of oral antidiabetic drugs (none, metformin only, pioglitazone only, metformin + pioglitazone).
-Patients with a baseline A1C of ≥7% and ≤10% were included in the study including 709 patients with renal impairment (eGFR <90 mL/min), most of whom (n=575) were categorized as mild renal impairment (eGFR 60 to <90 mL/min).
-Patients entered a 2-week placebo run-in period on basal insulin (e.g., insulin glargine, insulin detemir, or NPH insulin) with or without metformin and/or pioglitazone background therapy.
-Following the run-in period, patients with inadequate glycemic control were randomized to the addition of either 5 mg of linagliptin or placebo, administered once daily.
-Patients were maintained on a stable dose of insulin prior to enrollment, during the run-in period, and during the first 24 weeks of treatment.
-Patients who failed to meet specific glycemic goals during the double-blind treatment period were rescued by increasing background insulin dose.
-
-Linagliptin used in combination with insulin (with or without metformin and/or pioglitazone), provided statistically significant improvements in A1C and FPG compared to placebo (Table 11) after 24 weeks of treatment.
-The mean total daily insulin dose at baseline was 42 units for patients treated with linagliptin and 40 units for patients treated with placebo.
-Background baseline diabetes therapy included use of: insulin alone (16.1%), insulin combined with metformin only (75.5%), insulin combined with metformin and pioglitazone (7.4%), and insulin combined with pioglitazone only (1%).
-The mean change from baseline to Week 24 in the daily dose of insulin was +1.3 IU in the placebo group and +0.6 IU in the linagliptin group.
-The mean change in body weight from baseline to Week 24 was similar in the two treatment groups.
-The rate of hypoglycemia, defined as all symptomatic or asymptomatic episodes with a self-measured blood glucose was also similar in both groups (21.4% linagliptin; 22.9% placebo) in the first 24 weeks of the study.
-
-Table 11 Glycemic Parameters in Placebo-Controlled Study for Linagliptin in Combination with Insulin*
-
-|  | Linagliptin 5 mg + Insulin | Placebo + Insulin |
-| --- | --- | --- |
-| A1C (%) |  |  |
-| Number of patients | n=618 | n=617 |
-| Baseline (mean) | 8.3 | 8.3 |
-| Change from baseline (adjusted mean***) | -0.6 | 0.1 |
-| Difference from placebo (adjusted mean) (95% CI) | -0.7 (-0.7, -0.6) | -- |
-| Patients [n (%)] achieving A1C <7%** | 116 (19.5) | 48 (8.1) |
-| FPG (mg/dL) |  |  |
-| Number of patients | n=613 | n=608 |
-| Baseline (mean) | 147 | 151 |
-| Change from baseline (adjusted mean***) | -8 | 3 |
-| Difference from placebo (adjusted mean) (95% CI) | -11 (-16, -6) | -- |
-| *Full analysis population using last observation carried forward (LOCF) method on study**Linagliptin + Insulin, n=595; Placebo + Insulin, n=593***HbA1c: ANCOVA model included treatment, categorical renal function impairment status and concomitant OADs as class-effects, as well as baseline HbA1c as continuous covariates. FPG: ANCOVA model included treatment, categorical renal function impairment status and concomitant OADs as class-effects, as well as baseline HbA1c and baseline FPG as continuous covariates. |  |  |
-
-The difference between treatment with linagliptin and placebo in terms of adjusted mean change from baseline in HbA1c after 24 weeks was comparable for patients with no renal impairment (eGFR ≥90 mL/min, n=539), with mild renal impairment (eGFR 60 to <90 mL/min, n=565), or with moderate renal impairment (eGFR 30 to <60 mL/min, n=124).
-
-Renal Impairment
-
-A total of 133 patients with type 2 diabetes participated in a 52-week, double-blind, randomized, placebo-controlled trial designed to evaluate the efficacy and safety of linagliptin in patients with both type 2 diabetes and severe chronic renal impairment.
-Participants with an estimated (based on the four variables modified diet in renal disease [MDRD] equation) GFR value of <30 mL/min were eligible to participate in the study.
-Randomization was stratified by baseline HbA1c (≤8% and >8%) and background antidiabetic therapy (insulin or any combination with insulin, SU or glinides as monotherapy and pioglitazone or any other antidiabetics excluding any other DPP-4 inhibitors).
-For the initial 12 weeks of the study, background antidiabetic therapy was kept stable and included insulin, sulfonylurea, glinides, and pioglitazone.
-For the remainder of the trial, dose adjustments in antidiabetic background therapy were allowed.
-At baseline in this trial, 62.5% of patients were receiving insulin alone as background diabetes therapy, and 12.5% were receiving sulfonylurea alone.
-
-After 12 weeks of treatment, linagliptin 5 mg provided statistically significant improvement in A1C compared to placebo, with an adjusted mean change of -0.6% compared to placebo (95% confidence interval -0.9, -0.3) based on the analysis using last observation carried forward (LOCF).
-With adjustments in antidiabetic background therapy after the initial 12 weeks, efficacy was maintained for 52 weeks, with an adjusted mean change from baseline in A1C of -0.7% compared to placebo (95% confidence interval -1.0, -0.4) based on analysis using LOCF.
-
-## 14.2 Linagliptin Cardiovascular Safety Trial
+CARMELINA
 
 The cardiovascular risk of linagliptin was evaluated in CARMELINA, a multi-national, multi-center, placebo-controlled, double-blind, parallel group trial comparing linagliptin (N=3494) to placebo (N=3485) in adult patients with type 2 diabetes mellitus and a history of established macrovascular and/or renal disease.
 The trial compared the risk of major adverse cardiovascular events (MACE) between linagliptin and placebo when these were added to standard of care treatments for diabetes and other cardiovascular risk factors.
@@ -233,23 +199,59 @@ The mean eGFR was 55 mL/min/1.73 m2 and 27% of patients had mild renal impairmen
 Patients were taking at least one antidiabetic drug (97%), and the most common were insulin and analogues (57%), metformin (54%) and sulfonylurea (32%).
 Patients were also taking antihypertensives (96%), lipid lowering drugs (76%) with 72% on statin, and aspirin (62%).
 
-The primary endpoint, MACE, was the time to first occurrence of one of three composite outcomes which included cardiovascular death, nonfatal myocardial infarction or nonfatal stroke.
+The primary endpoint, MACE, was the time to first occurrence of one of three composite outcomes which included cardiovascular death, non-fatal myocardial infarction or non-fatal stroke.
 The study was designed as a non-inferiority trial with a pre-specified risk margin of 1.3 for the hazard ratio of MACE.
 
-The results of CARMELINA, including the contribution of each component to the primary composite endpoint, are shown in Table 12.
+The results of CARMELINA, including the contribution of each component to the primary composite endpoint, are shown in Table 11.
 The estimated hazard ratio for MACE associated with linagliptin relative to placebo was 1.02 with a 95% confidence interval of (0.89, 1.17).
 The upper bound of this confidence interval, 1.17, excluded the risk margin of 1.3.
 The Kaplan-Meier curve depicting time to first occurrence of MACE is shown in Figure 2.
 
-Table 12 Major Adverse Cardiovascular Events (MACE) by Treatment Group in the CARMELINA Trial
+Table 11 Major Adverse Cardiovascular Events (MACE) by Treatment Group in the CARMELINA Trial
 
-|  | linagliptin 5 mg n = 3494 |  | Placebo n = 3485 |  | Hazard Ratio |  |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | Number of Subjects (%) | Incidence Rate per 1000 PY* | Number of Subjects (%) | Incidence Rate per 1000 PY* | (95% CI) |  |
-| Composite of first event of CV death, non-fatal myocardial infarction (MI), or non-fatal stroke (MACE) | 434 (12.4) | 57.7 | 420 (12.1) | 56.3 | 1.02 (0.89, 1.17) |  |
-| CV death** | 255 (7.3) | 32.6 | 264 (7.6) | 34.0 | 0.96 (0.81, 1.14) |  |
-| Non-fatal MI** | 156 (4.5) | 20.6 | 135 (3.9) | 18.0 | 1.15 (0.91, 1.45) |  |
-| Non-fatal stroke** | 65 (1.9) | 8.5 | 73 (2.1) | 9.6 | 0.88 (0.63, 1.23) |  |
-| *PY=patient years**A patient may have experienced more than one component; therefore, the sum of the components is larger than the number of patients who experienced the composite outcome. |  |  |  |  |  |  |
+|  | Number of Subjects (%) | Incidence Rate per 1000 PY* | Number of Subjects (%) | Incidence Rate per 1000 PY* | (95% CI) |
+| --- | --- | --- | --- | --- | --- |
+|  | Linagliptin 5 mg n = 3494 |  | Placebo n = 3485 |  | Hazard Ratio |
+| Composite of first event of CV death, non-fatal myocardial infarction (MI), or non-fatal stroke (MACE) | 434 (12.4) | 57.7 | 420 (12.1) | 56.3 | 1.02 (0.89, 1.17) |
+| CV death** | 255 (7.3) | 32.6 | 264 (7.6) | 34.0 | 0.96 (0.81, 1.14) |
+| Non-fatal MI** | 156 (4.5) | 20.6 | 135 (3.9) | 18.0 | 1.15 (0.91, 1.45) |
+| Non-fatal stroke** | 65 (1.9) | 8.5 | 73 (2.1) | 9.6 | 0.88 (0.63, 1.23) |
+| *PY=patient years |  |  |  |  |  |
+| **A patient may have experienced more than one component; therefore, the sum of the components is larger than the number of patients who experienced the composite outcome. |  |  |  |  |  |
 
 Figure 2 Kaplan-Meier: Time to First Occurrence of MACE in the CARMELINA Trial
+
+CAROLINA
+
+The cardiovascular risk of linagliptin was evaluated in CAROLINA, a multi-center, multi-national, randomized, double-blind, parallel group trial comparing linagliptin (N=3023) to glimepiride (N=3010) in adult patients with type 2 diabetes mellitus and a history of established cardiovascular disease and/or multiple cardiovascular risk factors.
+The trial compared the risk of major adverse cardiovascular events (MACE) between linagliptin and glimepiride when these were added to standard of care treatments for diabetes and other cardiovascular risk factors.
+The trial was event driven, the median duration of follow-up was 6.23 years and vital status was obtained for 99.3% of patients.
+
+Patients were eligible to enter the trial if they were adults with type 2 diabetes with insufficient glycemic control (defined as HbA1c of 6.5% to 8.5% or 6.5% to 7.5% depending on whether treatment-naïve, on monotherapy or on combination therapy), and were defined to be at high cardiovascular risk with previous vascular disease, evidence of vascular related end-organ damage, age ≥70 years, and/or two cardiovascular risk factors (duration of diabetes >10 years, systolic blood pressure >140 mmHg, current smoker, LDL cholesterol ≥135 mg/dL).
+
+At baseline, the mean age was 64 years and the population was 60% male, 73% Caucasian, 18% Asian, and 5% Black.
+The mean HbA1c was 7.15% and mean duration of type 2 diabetes was 7.6 years.
+The trial population included 34% patients ≥70 years of age and 19% patients with renal impairment defined as eGFR <60 mL/min/1.73 m2.
+The mean eGFR was 77 mL/min/1.73 m2.
+Patients were taking at least one antidiabetic drug (91%) and the most common were metformin (83%) and sulfonylurea (28%).
+Patients were also taking antihypertensives (89%), lipid lowering drugs (70%) with 65% on statin, and aspirin (47%).
+
+The primary endpoint, MACE, was the time to first occurrence of one of three composite outcomes which included cardiovascular death, non-fatal myocardial infarction or non-fatal stroke.
+The study was designed as a non-inferiority trial with a pre-specified risk margin of 1.3 for the upper bound of the 95% CI for the hazard ratio of MACE.
+
+The results of CAROLINA, including the contribution of each component to the primary composite endpoint, are shown in Table 12.
+The Kaplan-Meier curve depicting time to first occurrence of MACE is shown in Figure 3.
+
+Table 12 Major Adverse Cardiovascular Events (MACE) by Treatment Group in the CAROLINA Study
+
+| Number of Subjects (%) | Incidence Rate per 1000 PY* | Number of Subjects (%) | Incidence Rate per 1000 PY* | (95% CI) |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | Linagliptin 5 mg n=3023 |  | Glimepiride (1 mg to 4 mg) n=3010 |  | Hazard Ratio |  |
+| Composite of first event of CV death, non-fatal myocardial infarction (MI), or non-fatal stroke (MACE) | 356 (11.8) | 20.7 | 362 (12.0) | 21.2 | 0.98 (0.84, 1.14) |  |
+| CV death** | 169 (5.6) | 9.2 | 168 (5.6) | 9.2 | 1.00 (0.81, 1.24) |  |
+| Non-fatal MI** | 145 (4.8) | 8.3 | 142 (4.7) | 8.2 | 1.01 (0.80, 1.28) |  |
+| Non-fatal stroke** | 91 (3.0) | 5.2 | 104 (3.5) | 6.0 | 0.87 (0.66, 1.15) |  |
+| *PY=patient years |  |  |  |  |  |  |
+| **A patient may have experienced more than one component; therefore, the sum of the components is larger than the number of patients who experienced the composite outcome |  |  |  |  |  |  |
+
+Figure 3 Time to First Occurrence of 3P-MACE in CAROLINA

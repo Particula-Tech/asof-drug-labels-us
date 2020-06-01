@@ -53,7 +53,7 @@ The absolute bioavailability of linagliptin is approximately 30%.
 Following oral administration, plasma concentrations of linagliptin decline in at least a biphasic manner with a long terminal half-life (>100 hours), related to the saturable binding of linagliptin to DPP-4.
 However, the prolonged elimination does not contribute to the accumulation of the drug.
 The effective half-life for accumulation of linagliptin, as determined from oral administration of multiple doses of linagliptin 5 mg, is approximately 12 hours.
-After once-daily dosing, steady state plasma concentrations of linagliptin 5 mg are reached by the third dose, and Cmax and AUC increased by a factor of 1.3 at steady-state compared with the first dose.
+After once-daily dosing, steady-state plasma concentrations of linagliptin 5 mg are reached by the third dose, and Cmax and AUC increased by a factor of 1.3 at steady-state compared with the first dose.
 Plasma AUC of linagliptin increased in a less than dose-proportional manner in the dose range of 1 to 10 mg.
 The pharmacokinetics of linagliptin is similar in healthy subjects and in patients with type 2 diabetes.
 
@@ -66,7 +66,7 @@ Distribution
 
 Linagliptin
 
-The mean apparent volume of distribution at steady state following a single intravenous dose of linagliptin 5 mg to healthy subjects is approximately 1110 L, indicating that linagliptin extensively distributes to the tissues.
+The mean apparent volume of distribution at steady-state following a single intravenous dose of linagliptin 5 mg to healthy subjects is approximately 1110 L, indicating that linagliptin extensively distributes to the tissues.
 Plasma protein binding of linagliptin is concentration-dependent decreasing from about 99% at 1 nmol/L to 75% to 89% at ≥30 nmol/L, reflecting saturation of binding to DPP-4 with increasing concentration of linagliptin.
 At high concentrations, where DPP-4 is fully saturated, 70% to 80% of linagliptin remains bound to plasma proteins and 20% to 30% is unbound in plasma.
 Plasma binding is not altered in patients with renal or hepatic impairment.
@@ -77,6 +77,18 @@ The apparent volume of distribution (V/F) of metformin following single oral dos
 Metformin partitions into erythrocytes, most likely as a function of time.
 At usual clinical doses and dosing schedules of metformin tablets, steady-state plasma concentrations of metformin are reached within 24 to 48 hours and are generally <1 mcg/mL.
 During controlled clinical trials of metformin, maximum metformin plasma levels did not exceed 5 mcg/mL, even at maximum doses.
+
+Elimination
+
+Linagliptin
+
+Linagliptin has a terminal half-life of about 200 hours at steady-state, though the accumulation half-life is about 11 hours.
+Renal clearance at steady-state was approximately 70 mL/min.
+
+Metformin
+
+Metformin has a plasma elimination half-life of approximately 6.2 hours.
+In blood, the elimination half-life is approximately 17.6 hours, suggesting that the erythrocyte mass may be a compartment of distribution.
 
 Metabolism
 
@@ -94,7 +106,6 @@ Excretion
 Linagliptin
 
 Following administration of an oral [14C] linagliptin dose to healthy subjects, approximately 85% of the administered radioactivity was eliminated via the enterohepatic system (80%) or urine (5%) within 4 days of dosing.
-Renal clearance at steady state was approximately 70 mL/min.
 
 Metformin
 
@@ -175,30 +186,34 @@ Based on these results and in vivo drug interaction studies, linagliptin is cons
 
 In vivo Assessment of Drug Interactions
 
-Strong inducers of CYP3A4 or P-gp (e.g., rifampin) decrease exposure to linagliptin to subtherapeutic and likely ineffective concentrations.
-For patients requiring use of such drugs, an alternative to linagliptin is strongly recommended.
+Strong inducers of CYP3A4 or P-gp (e.g., rifampin) decrease exposure to linagliptin to subtherapeutic and likely ineffective concentrations [see Drug Interactions (7)].
 In vivo studies indicated evidence of a low propensity for causing drug interactions with substrates of CYP3A4, CYP2C9, CYP2C8, P-gp, and OCT.
-No dose adjustment of linagliptin is recommended based on results of the described pharmacokinetic studies.
 
 Table 2 Effect of Coadministered Drugs on Systemic Exposure of Linagliptin
 
-| Coadministered Drug | Dosing of Coadministered Drug* | Dosing of Linagliptin* | Geometric Mean Ratio (ratio with/without coadministered drug) No effect=1.0 |  |
-| --- | --- | --- | --- | --- |
 |  |  |  | AUC† | Cmax |
+| --- | --- | --- | --- | --- |
+| Coadministered Drug | Dosing of Coadministered Drug* | Dosing of Linagliptin* | Geometric Mean Ratio (ratio with/without coadministered drug) No effect=1.0 |  |
 | Metformin | 850 mg TID | 10 mg QD | 1.20 | 1.03 |
-| Glyburide** | 1.75 mg# | 5 mg QD | 1.02 | 1.01 |
+| Glyburide | 1.75 mg# | 5 mg QD | 1.02 | 1.01 |
 | Pioglitazone | 45 mg QD | 10 mg QD | 1.13 | 1.07 |
 | Ritonavir | 200 mg BID | 5 mg# | 2.01 | 2.96 |
-| Rifampin*** | 600 mg QD | 5 mg QD | 0.60 | 0.56 |
-| *Multiple dose (steady state) unless otherwise noted**Coadministration of JENTADUETO with an insulin secretagogue (e.g., sulfonylurea) or insulin may require lower doses of the insulin secretagogue or insulin to reduce the risk of hypoglycemia [see Warnings and Precautions (5.4) and Drug Interactions (7.3)].***For information regarding clinical recommendations [see Drug Interactions (7.2)].#Single dose†AUC = AUC(0 to 24 hours) for single-dose treatments and AUC = AUC(TAU) for multiple-dose treatmentsQD=once daily BID=twice daily TID=three times daily |  |  |  |  |
+| Rifampin** | 600 mg QD | 5 mg QD | 0.60 | 0.56 |
+| *Multiple dose (steady-state) unless otherwise noted |  |  |  |  |
+| **For information regarding clinical recommendations [see Drug Interactions (7.2)]. |  |  |  |  |
+| #Single dose |  |  |  |  |
+| †AUC = AUC(0 to 24 hours) for single-dose treatments and AUC = AUC(TAU) for multiple-dose treatments |  |  |  |  |
+| QD=once daily |  |  |  |  |
+| BID=twice daily |  |  |  |  |
+| TID=three times daily |  |  |  |  |
 
 Table 3 Effect of Linagliptin on Systemic Exposure of Coadministered Drugs
 
-| Coadministered Drug | Dosing of Coadministered Drug* | Dosing of Linagliptin* | Geometric Mean Ratio (ratio with/without coadministered drug) No effect=1.0 |  |  |
-| --- | --- | --- | --- | --- | --- |
 |  |  |  |  | AUC† | Cmax |
+| --- | --- | --- | --- | --- | --- |
+| Coadministered Drug | Dosing of Coadministered Drug* | Dosing of Linagliptin* | Geometric Mean Ratio (ratio with/without coadministered drug) No effect=1.0 |  |  |
 | Metformin | 850 mg TID | 10 mg QD | metformin | 1.01 | 0.89 |
-| Glyburide*** | 1.75 mg# | 5 mg QD | glyburide | 0.86 | 0.86 |
+| Glyburide | 1.75 mg# | 5 mg QD | glyburide | 0.86 | 0.86 |
 | Pioglitazone | 45 mg QD | 10 mg QD | pioglitazone | 0.94 | 0.86 |
 | metabolite M-III | 0.98 | 0.96 |  |  |  |
 | metabolite M-IV | 1.04 | 1.05 |  |  |  |
@@ -211,35 +226,49 @@ Table 3 Effect of Linagliptin on Systemic Exposure of Coadministered Drugs
 | PT | 1.03** | 1.15** |  |  |  |
 | Ethinylestradiol and levonorgestrel | ethinylestradiol 0.03 mg and levonorgestrel 0.150 mg QD | 5 mg QD | ethinylestradiol | 1.01 | 1.08 |
 | levonorgestrel | 1.09 | 1.13 |  |  |  |
-| *Multiple dose (steady state) unless otherwise noted#Single dose†AUC = AUC(INF) for single-dose treatments and AUC = AUC(TAU) for multiple-dose treatments**AUC=AUC(0-168) and Cmax=Emax for pharmacodynamic end points***Coadministration of JENTADUETO with an insulin secretagogue (e.g., sulfonylurea) or insulin may require lower doses of the insulin secretagogue or insulin to reduce the risk of hypoglycemia [see Warnings and Precautions (5.4) and Drug Interactions (7.3)].INR=International Normalized Ratio PT=Prothrombin Time QD=once daily TID=three times daily |  |  |  |  |  |
+| *Multiple dose (steady-state) unless otherwise noted |  |  |  |  |  |
+| #Single dose |  |  |  |  |  |
+| †AUC = AUC(INF) for single-dose treatments and AUC = AUC(TAU) for multiple-dose treatments |  |  |  |  |  |
+| **AUC=AUC(0-168) and Cmax=Emax for pharmacodynamic end points |  |  |  |  |  |
+| INR=International Normalized Ratio |  |  |  |  |  |
+| PT=Prothrombin Time |  |  |  |  |  |
+| QD=once daily |  |  |  |  |  |
+| TID=three times daily |  |  |  |  |  |
 
 Metformin hydrochloride
 
 Table 4 Effect of Coadministered Drug on Plasma Metformin Systemic Exposure
 
-| Coadministered Drug | Dosing of Coadministered Drug* | Dosing of Metformin* | Geometric Mean Ratio (ratio with/without coadministered drug) No effect=1.0 |  |  |
-| --- | --- | --- | --- | --- | --- |
 |  |  |  |  | AUC† | Cmax |
-| Glyburide*** | 5 mg | 850 mg | metformin | 0.91‡ | 0.93‡ |
+| --- | --- | --- | --- | --- | --- |
+| Coadministered Drug | Dosing of Coadministered Drug* | Dosing of Metformin* | Geometric Mean Ratio (ratio with/without coadministered drug) No effect=1.0 |  |  |
+| Glyburide | 5 mg | 850 mg | metformin | 0.91‡ | 0.93‡ |
 | Furosemide | 40 mg | 850 mg | metformin | 1.09‡ | 1.22‡ |
 | Nifedipine | 10 mg | 850 mg | metformin | 1.16 | 1.21 |
 | Propranolol | 40 mg | 850 mg | metformin | 0.90 | 0.94 |
 | Ibuprofen | 400 mg | 850 mg | metformin | 1.05‡ | 1.07‡ |
-| Drugs that are eliminated by renal tubular secretion may increase the accumulation of metformin [see Warnings and Precautions (5.1) and Drug Interactions (7.1)]. |  |  |  |  |  |
+| Cationic drugs eliminated by renal tubular secretion may reduce metformin elimination[see Drug Interactions (7.1)]. |  |  |  |  |  |
 | Cimetidine | 400 mg | 850 mg | metformin | 1.40 | 1.61 |
-| Carbonic anhydrase inhibitors may cause metabolic acidosis [see Warnings and Precautions (5.1) and Drug Interactions (7.1)]. |  |  |  |  |  |
+| Carbonic anhydrase inhibitors may cause metabolic acidosis [see Drug Interactions (7.1)]. |  |  |  |  |  |
 | Topiramate** | 100 mg | 500 mg | metformin | 1.25 | 1.17 |
-| *All metformin and coadministered drugs were given as single doses †AUC=AUC(INF)***Coadministration of JENTADUETO with an insulin secretagogue (e.g., sulfonylurea) or insulin may require lower doses of the insulin secretagogue or insulin to reduce the risk of hypoglycemia [see Warnings and Precautions (5.4) and Drug Interactions (7.3)].‡Ratio of arithmetic means**At steady state with topiramate 100 mg every 12 hours and metformin 500 mg every 12 hours; AUC = AUC(0-12 hours) |  |  |  |  |  |
+| *All metformin and coadministered drugs were given as single doses |  |  |  |  |  |
+| †AUC=AUC(INF) |  |  |  |  |  |
+| ‡Ratio of arithmetic means |  |  |  |  |  |
+| **At steady-state with topiramate 100 mg every 12 hours and metformin 500 mg every 12 hours; AUC = AUC(0-12 hours) |  |  |  |  |  |
 
 Table 5 Effect of Metformin on Coadministered Drug Systemic Exposure
 
-| Coadministered Drug | Dosing of Coadministered Drug* | Dosing of Metformin* | Geometric Mean Ratio (ratio with/without metformin) No effect=1.0 |  |  |
-| --- | --- | --- | --- | --- | --- |
 |  |  |  |  | AUC† | Cmax |
-| Glyburide** | 5 mg | 850 mg | glyburide | 0.78‡ | 0.63‡ |
+| --- | --- | --- | --- | --- | --- |
+| Coadministered Drug | Dosing of Coadministered Drug* | Dosing of Metformin* | Geometric Mean Ratio (ratio with/without metformin) No effect=1.0 |  |  |
+| Glyburide | 5 mg | 850 mg | glyburide | 0.78‡ | 0.63‡ |
 | Furosemide | 40 mg | 850 mg | furosemide | 0.87‡ | 0.69‡ |
 | Nifedipine | 10 mg | 850 mg | nifedipine | 1.10§ | 1.08 |
 | Propranolol | 40 mg | 850 mg | propranolol | 1.01§ | 1.02 |
 | Ibuprofen | 400 mg | 850 mg | ibuprofen | 0.97¶ | 1.01¶ |
-| Cimetidine*** | 400 mg | 850 mg | cimetidine | 0.95§ | 1.01 |
-| *All metformin and coadministered drugs were given as single doses **Coadministration of JENTADUETO with an insulin secretagogue (e.g., sulfonylurea) or insulin may require lower doses of the insulin secretagogue or insulin to reduce the risk of hypoglycemia [see Warnings and Precautions (5.4) and Drug Interactions (7.3)].***Drugs that are eliminated by renal tubular secretion may increase the accumulation of metformin [see Warnings and Precautions (5.1) and Drug Interactions (7.1)].†AUC=AUC(INF) unless otherwise noted ‡Ratio of arithmetic means, p-value of difference <0.05 §AUC(0-24 hours) reported ¶Ratio of arithmetic means |  |  |  |  |  |
+| Cimetidine | 400 mg | 850 mg | cimetidine | 0.95§ | 1.01 |
+| *All metformin and coadministered drugs were given as single doses |  |  |  |  |  |
+| †AUC=AUC(INF) unless otherwise noted |  |  |  |  |  |
+| ‡Ratio of arithmetic means, p-value of difference <0.05 |  |  |  |  |  |
+| §AUC(0-24 hours) reported |  |  |  |  |  |
+| ¶Ratio of arithmetic means |  |  |  |  |  |

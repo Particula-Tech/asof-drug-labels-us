@@ -75,8 +75,7 @@ If heart failure develops, evaluate and manage according to current standards of
 ## 5.4 Use with Medications Known to Cause Hypoglycemia
 
 Insulin secretagogues and insulin are known to cause hypoglycemia.
-The use of linagliptin in combination with an insulin secretagogue (e.g., sulfonylurea) was associated with a higher rate of hypoglycemia compared with placebo in a clinical trial [see Adverse Reactions (6.1)].
-The use of linagliptin in combination with insulin in subjects with severe renal impairment was associated with a higher rate of hypoglycemia [see Adverse Reactions (6.1)].
+The use of linagliptin in combination with an insulin secretagogue (e.g., sulfonylurea) or insulin was associated with a higher rate of hypoglycemia compared with placebo in clinical trials [see Adverse Reactions (6.1)].
 Metformin may increase the risk of hypoglycemia when combined with insulin and/or an insulin secretagogue.
 Therefore, a lower dose of the insulin secretagogue or insulin may be required to reduce the risk of hypoglycemia when used in combination with JENTADUETO [see Drug Interactions (7.3)].
 
@@ -84,7 +83,7 @@ Therefore, a lower dose of the insulin secretagogue or insulin may be required t
 
 There have been postmarketing reports of serious hypersensitivity reactions in patients treated with linagliptin (one of the components of JENTADUETO).
 These reactions include anaphylaxis, angioedema, and exfoliative skin conditions.
-Onset of these reactions occurred within the first 3 months after initiation of treatment with linagliptin, with some reports occurring after the first dose.
+Onset of these reactions occurred predominantly within the first 3 months after initiation of treatment with linagliptin, with some reports occurring after the first dose.
 If a serious hypersensitivity reaction is suspected, discontinue JENTADUETO, assess for other potential causes for the event, and institute alternative treatment for diabetes.
 
 Angioedema has also been reported with other dipeptidyl peptidase-4 (DPP-4) inhibitors.
