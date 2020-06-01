@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "NDA213150"
+  ],
+  "inn": "leuprolide",
+  "labeler": "TOLMAR PHARMACEUTICALS INC.",
+  "package_ndcs": [
+    "62935-153-50",
+    "62935-154-50",
+    "62935-155-40"
+  ],
+  "products": [
+    {
+      "form": "KIT",
+      "generic": "leuprolide acetate",
+      "name": "Fensolvi"
+    }
+  ],
+  "setid": "dfb6e01c-f138-471d-bf5b-2be38247e3f0",
+  "source": "dailymed"
+}
