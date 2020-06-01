@@ -1,12 +1,14 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-## 2.1 Patient Selection for Treatment of Urothelial Carcinoma and Triple-Negative Breast Cancer
+## 2.1 Patient Selection for Treatment of Urothelial Carcinoma and Triple-Negative Breast Cancer, or Non-Small Cell Lung Cancer
 
 Select cisplatin-ineligible patients with previously untreated locally advanced or metastatic urothelial carcinoma for treatment with TECENTRIQ based on the PD-L1 expression on tumor-infiltrating immune cells [see Clinical Studies (14.1)].
 
+Select patients with first-line metastatic non-small cell lung cancer for treatment with TECENTRIQ as a single agent based on the PD-L1 expression on tumor cells or on tumor infiltrating immune cells [see Clinical Studies (14.2)].
+
 Select patients with locally advanced or metastatic triple-negative breast cancer for treatment with TECENTRIQ in combination with paclitaxel protein-bound based on the PD-L1 expression on tumor infiltrating immune cells [see Clinical Studies (14.3)].
 
-Information on FDA-approved tests for the determination of PD-L1 expression in locally advanced or metastatic urothelial carcinoma or triple-negative breast cancer are available at: http://www.fda.gov/CompanionDiagnostics
+Information on FDA-approved tests for the determination of PD-L1 expression in locally advanced or metastatic urothelial carcinoma, triple-negative breast cancer, or non-small cell lung cancer are available at: http://www.fda.gov/CompanionDiagnostics
 
 ## 2.2 Recommended Dosage for Urothelial Carcinoma
 
@@ -116,7 +118,7 @@ Prepare the solution for infusion as follows:
 
 - Select the appropriate vial(s) based on the prescribed dose.
 - Withdraw the required volume of TECENTRIQ from the vial(s).
-- Dilute into a 250 mL a polyvinyl chloride (PVC), polyethylene (PE), or polyolefin (PO) infusion bag containing 0.9% Sodium Chloride Injection, USP.
+- Dilute to a final concentration between 3.2 mg/mL and 16.8 mg/mL in a polyvinyl chloride (PVC), polyethylene (PE), or polyolefin (PO) infusion bag containing 0.9% Sodium Chloride Injection, USP.
 - Dilute with only 0.9% Sodium Chloride Injection, USP.
 - Mix diluted solution by gentle inversion.
   Do not shake.
