@@ -7,13 +7,12 @@ The recommended starting dose of sevelamer carbonate for oral suspension is 0.8 
 
 Table 1 provides recommended starting doses of sevelamer carbonate for oral suspension for adult patients not taking a phosphate binder.
 
-Table 1.
-Starting Dose for Adult Dialysis Patients Not Taking a Phosphate Binder
+Table 1: Starting Dose for Adult Dialysis Patients Not Taking a Phosphate Binder
 
 | Serum Phosphorus | Sevelamer Carbonate for Oral Suspension |
 | --- | --- |
-| > 5.5 and < 7.5 mg/dL | 0.8 g three times daily with meals |
-| ≥ 7.5 mg/dL | 1.6 g three times daily with meals |
+| >5.5 and <7.5 mg/dL | 0.8 g three times daily with meals |
+| ≥7.5 mg/dL | 1.6 g three times daily with meals |
 
 Dose Titration for Adult Patients Taking Sevelamer Carbonate for Oral Suspension.
 Titrate the sevelamer carbonate for oral suspension dose by 0.8 g three times per day with meals at two-week intervals as necessary to achieve target serum phosphorus levels.
@@ -21,12 +20,11 @@ Based on clinical studies, the average prescribed adult daily dose of sevelamer 
 The highest daily adult dose of sevelamer carbonate studied was 14 grams in CKD patients on dialysis.
 
 Starting Dose for Pediatric Patients Not Taking a Phosphate Binder.
-The recommended starting dose for pediatric patients 6 years of age and older is 0.8 g to 1.6 g taken three times per day with meals based on the patient’s Body Surface Area (BSA) category; see Table 2.
+The recommended starting dose for pediatric patients 6 years of age and older is 0.8 g to 1.6 g taken three times per day with meals based on the patient’s body surface area (BSA) category; see Table 2.
 
-Table 2.
-Recommended Starting Dosage and Titration Increment based on Pediatric Patient’s Body Surface Area (m2)
+Table 2: Recommended Starting Dosage and Titration Increment Based on Pediatric Patient’s Body Surface Area (m2)
 
-| BSA (m2) | Starting dose per meal/snack | Titration increases/decreases per dose |
+| BSA (m2) | Starting Dose Per Meal/Snack | Titration Increases/Decreases Per Dose |
 | --- | --- | --- |
 | ≥0.75 to <1.2 | 0.8 g | Titrate by 0.4 g |
 | ≥1.2 | 1.6 g | Titrate by 0.8 g |
@@ -43,8 +41,7 @@ Use the same dose in grams.
 Switching from Calcium Acetate.
 Table 3 gives recommended starting doses of sevelamer carbonate for oral suspension based on a patient’s current calcium acetate dose.
 
-Table 3.
-Starting Dose for Dialysis Patients Switching From Calcium Acetate to Sevelamer Carbonate for Oral Suspension
+Table 3: Starting Dose for Dialysis Patients Switching from Calcium Acetate to Sevelamer Carbonate for Oral Suspension
 
 | Calcium Acetate 667 mg (Tablets per meal) | Sevelamer Carbonate for Oral Suspension |
 | --- | --- |
@@ -58,12 +55,11 @@ Sevelamer carbonate powder is available in 0.8 or 2.4 g pouches.
 For dose increments of 0.4 g, use one half of a 0.8 g pouch.
 Place the sevelamer carbonate powder in a cup and suspend in the amount of water described in Table 4.
 
-Table 4.
-Sevelamer Carbonate Powder Preparation Instructions
+Table 4: Sevelamer Carbonate Powder Preparation Instructions
 
-| Amount of Sevelamer Carbonate Powder | Minimum amount of water for dose preparation (either ounces, mL or Tablespoon) |  |  |
+| Amount of Sevelamer Carbonate Powder | Minimum Amount of Water for Dose Preparation (either ounces, mL, or tablespoon) |  |  |
 | --- | --- | --- | --- |
-|  | ounces | mL | Tablespoons |
+|  | Ounces | mL | Tablespoons |
 | 0.4 g | 1 | 30 | 2 |
 | 0.8 g | 1 | 30 | 2 |
 | 2.4 g | 2 | 60 | 4 |
@@ -71,4 +67,4 @@ Sevelamer Carbonate Powder Preparation Instructions
 Instruct patients to stir the mixture vigorously (it does not dissolve), resuspend, if necessary, right before administration, and drink the entire preparation within 30 minutes.
 
 As an alternative to water, the entire contents of the pouch may be pre-mixed with a small amount of food or beverage and consumed immediately (within 30 minutes) as part of the meal.
-Do not heat Sevelamer Carbonate Powder (e.g., microwave) or add to heated foods or liquids.
+Do not heat Sevelamer Carbonate powder (e.g., microwave) or add to heated foods or liquids.
