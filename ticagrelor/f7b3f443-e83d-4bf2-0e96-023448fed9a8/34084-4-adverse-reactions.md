@@ -9,7 +9,7 @@ The following adverse reactions are also discussed elsewhere in the labeling:
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-BRILINTA has been evaluated for safety in more than 27000 patients, including more than 13000 patients treated for at least 1 year.
+BRILINTA has been evaluated for safety in more than 32,000 patients.
 
 Bleeding in PLATO (Reduction in risk of thrombotic events in ACS)
 
@@ -48,7 +48,7 @@ If local practice was to use IPA monitoring to determine when surgery could be p
 
 T Ticagrelor; C Clopidogrel.
 
-Table 2 – CABG-related bleeding (PLATO)
+Table 2 - CABG-related bleeding (PLATO)
 
 |  | BRILINTA90 mg BIDN=770 | ClopidogrelN=814 |
 | --- | --- | --- |
@@ -78,14 +78,14 @@ Overall outcome of bleeding events in the PEGASUS study are shown in Table 4.
 
 Table 4 - Bleeding events (PEGASUS)
 
-|  | BRILINTA60 mg BID + AspirinN=6958 |  | Aspirin AloneN=6996 |  |
-| --- | --- | --- | --- | --- |
-|  | n (%)patientswith event | Events/100 pt yrs | n (%)patientswith event | Events/100 pt yrs |
-| TIMI Major | 115 (1.7) | 0.78 | 54 (0.8) | 0.34 |
-| Fatal | 11 (0.2) | 0.08 | 12 (0.2) | 0.08 |
-| Intracranial hemorrhage | 28 (0.4) | 0.19 | 23 (0.3) | 0.14 |
-| TIMI Major or Minor | 168 (2.4) | 1.15 | 72 (1.0) | 0.45 |
-| TIMI Major: Fatal bleeding, OR any intracranial bleeding, OR clinically overt signs of hemorrhage associated with a drop in hemoglobin (Hgb) of ≥5 g/dL, or a fall in hematocrit (Hct) of ≥15%.Fatal: A bleeding event that directly led to death within 7 days.TIMI Minor: Clinically apparent with 3-5 g/dL decrease in hemoglobin. |  |  |  |  |
+| Events / 1000 patient years | Events / 1000 patient years |  |
+| --- | --- | --- |
+|  | BRILINTA60 mg BID N=6958 | Placebo N=6996 |
+| TIMI Major | 8 | 3 |
+| Fatal | 1 | 1 |
+| Intracranial hemorrhage | 2 | 1 |
+| TIMI Major or Minor | 11 | 5 |
+| TIMI Major: Fatal bleeding, OR any intracranial bleeding, OR clinically overt signs of hemorrhage associated with a drop in hemoglobin (Hgb) of ≥5 g/dL, or a fall in hematocrit (Hct) of ≥15%.Fatal: A bleeding event that directly led to death within 7 days.TIMI Minor: Clinically apparent with 3-5 g/dL decrease in hemoglobin. |  |  |
 
 The bleeding profile of BRILINTA 60 mg compared to aspirin alone was consistent across multiple pre-defined subgroups (e.g., by age, gender, weight, race, geographic region, concurrent conditions, concomitant therapy, stent, and medical history) for TIMI Major and TIMI Major or Minor bleeding events.
 
@@ -93,20 +93,39 @@ Other Adverse Reactions in PEGASUS
 
 Adverse reactions that occurred in PEGASUS at rates of 3% or more are shown in Table 5.
 
-Table 5 – Non-hemorrhagic adverse reactions reported in >3.0% of patients in the ticagrelor 60 mg treatment group (PEGASUS)
+Table 5 - Non-hemorrhagic adverse reactions reported in >3.0% of patients in the ticagrelor 60 mg treatment group (PEGASUS)
 
-|  | BRILINTA60 mg BID + Aspirin N=6958 | Aspirin Alone N=6996 |
+|  | BRILINTA60 mg BID N=6958 | Placebo N=6996 |
 | --- | --- | --- |
-| Dyspnea | 14.2 | 5.5 |
-| Dizziness | 4.5 | 4.1 |
-| Diarrhea | 3.3 | 2.5 |
+| Dyspnea | 14.2% | 5.5% |
+| Dizziness | 4.5% | 4.1% |
+| Diarrhea | 3.3% | 2.5% |
+
+Bleeding in THEMIS (Prevention of major CV events in patients with CAD and Type 2 Diabetes Mellitus)
+
+The Kaplan-Meier curve of time to first TIMI Major bleeding event is presented in Figure 3.
+
+Figure 3 - Time to first TIMI Major bleeding event (THEMIS)
+
+T = Ticagrelor; P = Placebo; N = Number of patients
+
+The bleeding events in THEMIS are shown below in Table 6.
+
+Table 6 - Bleeding events (THEMIS)
+
+|  | Events / 1000 patient years | Events / 1000 patient years |
+| --- | --- | --- |
+|  | BRILINTA N=9562 | Placebo N=9531 |
+| TIMI Major | 9 | 4 |
+| TIMI Major or Minor | 12 | 5 |
+| TIMI Major or Minor or Requiring medical attention | 46 | 18 |
+| Fatal bleeding | 1 | 0 |
+| Intracranial hemorrhage | 3 | 2 |
 
 Bradycardia
 
 In a Holter substudy of about 3000 patients in PLATO, more patients had ventricular pauses with BRILINTA (6.0%) than with clopidogrel (3.5%) in the acute phase; rates were 2.2% and 1.6%, respectively, after 1 month.
-PLATO and PEGASUS excluded patients at increased risk of bradycardic events (e.g., patients who have sick sinus syndrome, 2nd or 3rd degree AV block, or bradycardic-related syncope and not protected with a pacemaker).
-In PLATO, syncope, pre-syncope and loss of consciousness were reported by 1.7% and 1.5% of BRILINTA 90 mg and clopidogrel patients, respectively.
-In PEGASUS, syncope was reported by 1.2% and 0.9% of patients on BRILINTA 60 mg and aspirin alone, respectively.
+PLATO, PEGASUS and THEMIS excluded patients at increased risk of bradycardic events (e.g., patients who have sick sinus syndrome, 2nd or 3rd degree AV block, or bradycardic-related syncope and not protected with a pacemaker).
 
 Lab abnormalities
 

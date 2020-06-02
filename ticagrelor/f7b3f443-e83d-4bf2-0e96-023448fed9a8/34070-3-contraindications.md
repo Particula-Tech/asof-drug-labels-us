@@ -2,7 +2,7 @@
 
 ## 4.1 History of Intracranial Hemorrhage
 
-BRILINTA is contraindicated in patients with a history of intracranial hemorrhage (ICH) because of a high risk of recurrent ICH in this population [see Clinical Studies (14.1)].
+BRILINTA is contraindicated in patients with a history of intracranial hemorrhage (ICH) because of a high risk of recurrent ICH in this population [see Clinical Studies (14.1), (14.2)].
 
 ## 4.2 Active Bleeding
 

@@ -41,7 +41,7 @@ The safety and effectiveness of BRILINTA in pediatric patients have not been est
 
 ## 8.5 Geriatric Use
 
-In PLATO and PEGASUS, about half of patients in each study were ≥65 years of age and about 15% were ≥75 years of age.
+About half of the patients in PLATO, PEGASUS and THEMIS were ≥65 years of age and about 15% were ≥75 years of age.
 No overall differences in safety or effectiveness were observed between elderly and younger patients.
 
 ## 8.6 Hepatic Impairment
@@ -59,4 +59,4 @@ Patients with End-Stage Renal Disease on dialysis
 
 Clinical efficacy and safety studies with BRILINTA did not enroll patients with end-stage renal disease (ESRD) on dialysis.
 In patients with ESRD maintained on intermittent hemodialysis, no clinically significant difference in concentrations of ticagrelor and its metabolite and platelet inhibition are expected compared to those observed in patients with normal renal function [see Clinical Pharmacology (12.3)].
-It is not known whether these concentrations will lead to similar reductions in risk of CV death, myocardial infarction or stroke or similar bleeding risk in patients with ESRD on dialysis as were seen in PLATO and PEGASUS.
+It is not known whether these concentrations will lead to similar reductions in risk of CV death, myocardial infarction or stroke or similar bleeding risk in patients with ESRD on dialysis as were seen in PLATO, PEGASUS, and THEMIS.

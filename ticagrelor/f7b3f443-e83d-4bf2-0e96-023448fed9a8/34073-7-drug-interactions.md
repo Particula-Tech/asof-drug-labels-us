@@ -3,7 +3,7 @@
 ## 7.1 Strong CYP3A Inhibitors
 
 Strong CYP3A inhibitors substantially increase ticagrelor exposure and so increase the risk of dyspnea, bleeding, and other adverse events.
-Avoid use of strong inhibitors of CYP3A (e.g., ketoconazole, itraconazole, voriconazole, clarithromycin, nefazodone, ritonavir, saquinavir, nelfinavir, indinavir, atazanavir and telithromycin) [see Clinical Pharmacology (12.3)].
+Avoid use of strong inhibitors of CYP3A (e.g., ketoconazole, itraconazole, voriconazole, clarithromycin, nefazodone, ritonavir, saquinavir, nelfinavir, indinavir, atazanavir and telithromycin) [seeClinical Pharmacology (12.3)].
 
 ## 7.2 Strong CYP3A Inducers
 

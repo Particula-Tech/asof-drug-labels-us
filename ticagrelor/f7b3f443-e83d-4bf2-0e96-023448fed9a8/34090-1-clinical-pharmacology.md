@@ -10,19 +10,19 @@ Ticagrelor and its active metabolite are approximately equipotent.
 The inhibition of platelet aggregation (IPA) by ticagrelor and clopidogrel was compared in a 6-week study examining both acute and chronic platelet inhibition effects in response to 20 μM ADP as the platelet aggregation agonist.
 
 The onset of IPA was evaluated on Day 1 of the study following loading doses of 180 mg ticagrelor or 600 mg clopidogrel.
-As shown in Figure 3, IPA was higher in the ticagrelor group at all time points.
+As shown in Figure 4, IPA was higher in the ticagrelor group at all time points.
 The maximum IPA effect of ticagrelor was reached at around 2 hours, and was maintained for at least 8 hours.
 
 The offset of IPA was examined after 6 weeks on ticagrelor 90 mg twice daily or clopidogrel 75 mg daily, again in response to 20 μM ADP.
 
-As shown in Figure 4, mean maximum IPA following the last dose of ticagrelor was 88% and 62% for clopidogrel.
-The insert in Figure 4 shows that after 24 hours, IPA in the ticagrelor group (58%) was similar to IPA in clopidogrel group (52%), indicating that patients who miss a dose of ticagrelor would still maintain IPA similar to the trough IPA of patients treated with clopidogrel.
+As shown in Figure 5, mean maximum IPA following the last dose of ticagrelor was 88% and 62% for clopidogrel.
+The insert in Figure 5 shows that after 24 hours, IPA in the ticagrelor group (58%) was similar to IPA in clopidogrel group (52%), indicating that patients who miss a dose of ticagrelor would still maintain IPA similar to the trough IPA of patients treated with clopidogrel.
 After 5 days, IPA in the ticagrelor group was similar to IPA in the placebo group.
 It is not known how either bleeding risk or thrombotic risk track with IPA, for either ticagrelor or clopidogrel.
 
-Figure 3 - Mean inhibition of platelet aggregation (±SE) following single oral doses of placebo, 180 mg ticagrelor or 600 mg clopidogrel
+Figure 4 - Mean inhibition of platelet aggregation (±SE) following single oral doses of placebo, 180 mg ticagrelor or 600 mg clopidogrel
 
-Figure 4 - Mean inhibition of platelet aggregation (IPA) following 6 weeks on placebo, ticagrelor 90 mg twice daily, or clopidogrel 75 mg daily
+Figure 5 - Mean inhibition of platelet aggregation (IPA) following 6 weeks on placebo, ticagrelor 90 mg twice daily, or clopidogrel 75 mg daily
 
 Transitioning from clopidogrel to BRILINTA resulted in an absolute IPA increase of 26.4% and from BRILINTA to clopidogrel resulted in an absolute IPA decrease of 24.5%.
 Patients can be transitioned from clopidogrel to BRILINTA without interruption of antiplatelet effect [see Dosage and Administration (2)].
@@ -63,7 +63,7 @@ The mean t1/2 is approximately 7 hours for ticagrelor and 9 hours for the active
 
 Specific Populations
 
-The effects of age, gender, ethnicity, renal impairment and mild hepatic impairment on the pharmacokinetics of ticagrelor are presented in Figure 5.
+The effects of age, gender, ethnicity, renal impairment and mild hepatic impairment on the pharmacokinetics of ticagrelor are presented in Figure 6.
 Effects are modest and do not require dose adjustment.
 
 Patients with End-Stage Renal Disease on Hemodialysis
@@ -73,12 +73,12 @@ A similar increase in exposure was observed when BRILINTA was administered immed
 Exposure of the active metabolite increased to a lesser extent.
 The IPA effect of BRILINTA was independent of dialysis in patients with end stage renal disease and similar to healthy adults with normal renal function.
 
-Figure 5 - Impact of intrinsic factors on the pharmacokinetics of ticagrelor
+Figure 6 - Impact of intrinsic factors on the pharmacokinetics of ticagrelor
 
 Effects of Other Drugs on BRILINTA
 
 CYP3A4 is the major enzyme responsible for ticagrelor metabolism and the formation of its major active metabolite.
-The effects of other drugs on the pharmacokinetics of ticagrelor are presented in Figure 6 as change relative to ticagrelor given alone (test/reference).
+The effects of other drugs on the pharmacokinetics of ticagrelor are presented in Figure 7 as change relative to ticagrelor given alone (test/reference).
 Strong CYP3A inhibitors (e.g., ketoconazole, itraconazole, and clarithromycin) substantially increase ticagrelor exposure.
 Moderate CYP3A inhibitors have lesser effects (e.g., diltiazem).
 CYP3A inducers (e.g., rifampin) substantially reduce ticagrelor blood levels.
@@ -92,7 +92,7 @@ Mean platelet aggregation was higher up to 3 hours post loading dose in ACS pati
 
 Co-administration of intravenous fentanyl with 180 mg loading dose of ticagrelor in ACS patients undergoing PCI resulted in similar effects on ticagrelor exposure and platelet inhibition.
 
-Figure 6 - Effect of co-administered drugs on the pharmacokinetics of ticagrelor
+Figure 7 - Effect of co-administered drugs on the pharmacokinetics of ticagrelor
 
 *See Dosage and Administration (2)
 
@@ -100,9 +100,9 @@ Effects of BRILINTA on Other Drugs
 
 In vitro metabolism studies demonstrate that ticagrelor and its major active metabolite are weak inhibitors of CYP3A4, potential activators of CYP3A5 and inhibitors of the P-gp transporter.
 Ticagrelor and AR-C124910XX were shown to have no inhibitory effect on human CYP1A2, CYP2C19, and CYP2E1 activity.
-For specific in vivo effects on the pharmacokinetics of simvastatin, atorvastatin, ethinyl estradiol, levonorgesterol, tolbutamide, digoxin and cyclosporine, see Figure 7.
+For specific in vivo effects on the pharmacokinetics of simvastatin, atorvastatin, ethinyl estradiol, levonorgesterol, tolbutamide, digoxin and cyclosporine, see Figure 8.
 
-Figure 7 - Impact of BRILINTA on the pharmacokinetics of co-administered drugs
+Figure 8 - Impact of BRILINTA on the pharmacokinetics of co-administered drugs
 
 ## 12.5 Pharmacogenetics
 

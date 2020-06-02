@@ -10,12 +10,12 @@ Stopping BRILINTA increases the risk of subsequent cardiovascular events [see Wa
 ## 5.2 Concomitant Aspirin Maintenance Dose
 
 In PLATO the use of BRILINTA with maintenance doses of aspirin above 100 mg decreased the effectiveness of BRILINTA.
-Therefore, after the initial loading dose of aspirin, use BRILINTA with a maintenance dose of aspirin of 75-100 mg [see Dosage and Administration (2.1) and Clinical Studies (14.1)].
+Therefore, after the initial loading dose of aspirin, use BRILINTA with a maintenance dose of aspirin of 75-100 mg [see Dosage and Administration (2.3) and Clinical Studies (14.1)].
 
 ## 5.3 Dyspnea
 
-In clinical trials, about 14% of patients treated with BRILINTA developed dyspnea.
-Dyspnea was usually mild to moderate in intensity and often resolved during continued treatment, but led to study drug discontinuation in 0.9% of BRILINTA and 0.1% of clopidogrel patients in PLATO and 4.3% of BRILINTA 60 mg and 0.7% on aspirin alone patients in PEGASUS.
+In clinical trials, about 14% (PLATO and PEGASUS) to 21% (THEMIS) of patients treated with BRILINTA developed dyspnea.
+Dyspnea was usually mild to moderate in intensity and often resolved during continued treatment but led to study drug discontinuation in 0.9 % (PLATO), 4.3% (PEGASUS), and 6.9% (THEMIS) of patients.
 
 In a substudy of PLATO, 199 subjects underwent pulmonary function testing irrespective of whether they reported dyspnea.
 There was no indication of an adverse effect on pulmonary function assessed after one month or after at least 6 months of chronic treatment.
@@ -32,9 +32,9 @@ Resume BRILINTA as soon as hemostasis is achieved.
 
 ## 5.5 Bradyarrhythmias
 
-Ticagrelor can cause ventricular pauses [see Adverse Reactions (6.1)].
+BRILINTA can cause ventricular pauses [see Adverse Reactions (6.1)].
 Bradyarrhythmias including AV block have been reported in the postmarketing setting.
-Patients with a history of sick sinus syndrome, 2nd or 3rd degree AV block or bradycardia-related syncope not protected by a pacemaker were excluded from PLATO and PEGASUS and may be at increased risk of developing bradyarrhythmias with ticagrelor.
+Patients with a history of sick sinus syndrome, 2nd or 3rd degree AV block or bradycardia-related syncope not protected by a pacemaker were excluded from clinical studies and may be at increased risk of developing bradyarrhythmias with ticagrelor.
 
 ## 5.6 Severe Hepatic Impairment
 
