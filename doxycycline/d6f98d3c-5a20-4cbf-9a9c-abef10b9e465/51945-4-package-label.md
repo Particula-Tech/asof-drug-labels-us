@@ -32,7 +32,7 @@ Pfizer Pfizer Labs Division of Pfizer Inc, NY, NY 10017
 
 # PRINCIPAL DISPLAY PANEL - 473 mL Bottle Label
 
-NDC 0069-0971-93
+NDC 0069-0971-95
 
 Pfizer
 
@@ -41,8 +41,6 @@ Vibramycin® calcium (doxycycline calcium) syrup
 50 mg/5 mL*
 
 ORAL SUSPENSION FOR ORAL USE ONLY
-
-IMPORTANT THIS CLOSURE IS NOT CHILD-RESISTANT.
 
 RASPBERRY/APPLE FLAVORED
 
@@ -56,7 +54,7 @@ Rx only
 
 Pfizer
 
-NDC 0069-0971-93
+NDC 0069-0971-95
 
 Vibramycin® calcium (doxycycline calcium) syrup
 
