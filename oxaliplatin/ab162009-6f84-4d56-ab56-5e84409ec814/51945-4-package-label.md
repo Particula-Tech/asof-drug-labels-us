@@ -14,7 +14,7 @@ Caution: Cytotoxic Agent
 
 FOR INRAVENOUS USE ONLY
 
-SINGLE USE VIAL
+SINGLE-DOSE VIAL
 
 Sterile Aqueous Solution - Preservative Free
 
@@ -38,7 +38,7 @@ Caution: Cytotoxic Agent
 
 FOR INRAVENOUS USE ONLY
 
-SINGLE USE VIAL
+SINGLE-DOSE VIAL
 
 Sterile Aqueous Solution - Preservative Free
 
