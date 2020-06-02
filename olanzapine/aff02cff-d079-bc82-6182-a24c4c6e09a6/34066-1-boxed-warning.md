@@ -7,6 +7,6 @@ Although the causes of death were varied, most of the deaths appeared to be eith
 Observational studies suggest that, similar to atypical antipsychotic drugs, treatment with conventional antipsychotic drugs may increase mortality.
 The extent to which the findings of increased mortality in observational studies may be attributed to the antipsychotic drug as opposed to some characteristic(s) of the patients is not clear.
 Olanzapine is not approved for the treatment of patients with dementia-related psychosis.
-[See Warnings and Precautions (5.1, 5.14) and Patient Counseling Information (17)]
+[see Warnings and Precautions (5.1), Use in Specific Populations (8.5) and Patient Counseling Information (17)].
 
 When using olanzapine and fluoxetine in combination, also refer to the Boxed Warning section of the package insert for Symbyax.

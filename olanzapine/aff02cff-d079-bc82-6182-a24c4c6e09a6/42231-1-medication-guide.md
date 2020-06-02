@@ -250,6 +250,6 @@ Dr. Reddy’s Laboratories Limited
 
 Bachupally - 500 090 INDIA
 
-Revised: 1119
+Revised: 0520
 
 Dispense with Medication Guide available at:www.drreddys.com/medguide/olanzapineodtabs.pdf

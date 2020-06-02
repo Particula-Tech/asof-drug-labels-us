@@ -6,12 +6,12 @@ When using olanzapine and fluoxetine in combination, also refer to the Clinical 
 
 Adults
 
-The efficacy of oral olanzapine in the treatment of Schizophrenia was established in 2 short-term (6-week) controlled trials of adult inpatients who met DSM III-R criteria for Schizophrenia.
+The efficacy of oral olanzapine in the treatment of schizophrenia was established in 2 short-term (6-week) controlled trials of adult inpatients who met DSM III-R criteria for schizophrenia.
 A single haloperidol arm was included as a comparative treatment in 1 of the 2 trials, but this trial did not compare these 2 drugs on the full range of clinically relevant doses for both.
 
-Several instruments were used for assessing psychiatric signs and symptoms in these studies, among them the Brief Psychiatric Rating Scale (BPRS), a multi-item inventory of general psychopathology traditionally used to evaluate the effects of drug treatment in Schizophrenia.
+Several instruments were used for assessing psychiatric signs and symptoms in these studies, among them the Brief Psychiatric Rating Scale (BPRS), a multi-item inventory of general psychopathology traditionally used to evaluate the effects of drug treatment in schizophrenia.
 The BPRS psychosis cluster (conceptual disorganization, hallucinatory behavior, suspiciousness, and unusual thought content) is considered a particularly useful subset for assessing actively psychotic schizophrenic patients.
-A second traditional assessment, the Clinical Global Impression (CGI), reflects the impression of a skilled observer, fully familiar with the manifestations of Schizophrenia, about the overall clinical state of the patient.
+A second traditional assessment, the Clinical Global Impression (CGI), reflects the impression of a skilled observer, fully familiar with the manifestations of schizophrenia, about the overall clinical state of the patient.
 In addition, 2 more recently developed scales were employed; these included the 30-item Positive and Negative Symptoms Scale (PANSS), in which are embedded the 18 items of the BPRS, and the Scale for Assessing Negative Symptoms (SANS).
 The trial summaries below focus on the following outcomes: PANSS total and/or BPRS total; BPRS psychosis cluster; PANSS negative subscale or SANS; and CGI Severity.
 The results of the trials follow:
@@ -21,7 +21,7 @@ The results of the trials follow:
 2) In a 6-week, placebo-controlled trial (n=253) involving 3 fixed dose ranges of olanzapine (5 ± 2.5 mg/day, 10 ± 2.5 mg/day, and 15 ± 2.5 mg/day) on a once daily schedule, the 2 highest olanzapine dose groups (actual mean doses of 12 and 16 mg/day, respectively) were superior to placebo on BPRS total score, BPRS psychosis cluster, and CGI severity score; the highest olanzapine dose group was superior to placebo on the SANS.
 There was no clear advantage for the high-dose group over the medium-dose group.
 
-3) In a longer-term trial, adult outpatients (n=326) who predominantly met DSM-IV criteria for Schizophrenia and who remained stable on olanzapine during open-label treatment for at least 8 weeks were randomized to continuation on their current olanzapine doses (ranging from 10 to 20 mg/day) or to placebo.
+3) In a longer-term trial, adult outpatients (n=326) who predominantly met DSM-IV criteria for schizophrenia and who remained stable on olanzapine during open-label treatment for at least 8 weeks were randomized to continuation on their current olanzapine doses (ranging from 10 to 20 mg/day) or to placebo.
 The follow-up period to observe patients for relapse, defined in terms of increases in BPRS positive symptoms or hospitalization, was planned for 12 months, however, criteria were met for stopping the trial early due to an excess of placebo relapses compared to olanzapine relapses, and olanzapine was superior to placebo on time to relapse, the primary outcome for this study.
 Thus, olanzapine was more effective than placebo at maintaining efficacy in patients stabilized for approximately 8 weeks and followed for an observation period of up to 8 months.
 
@@ -29,7 +29,7 @@ Examination of population subsets (race and gender) did not reveal any different
 
 Adolescents
 
-The efficacy of oral olanzapine in the acute treatment of schizophrenia in adolescents (ages 13 to 17 years) was established in a 6-week double-blind, placebo-controlled, randomized trial of inpatients and outpatients with schizophrenia (n=107) who met diagnostic criteria according to DSM-IV-TR and confirmed by the Kiddie Schedule for Affective Disorders and Schizophrenia for School Aged Children-Present and Lifetime Version (K-SADS-PL).
+The efficacy of oral olanzapine in the acute treatment of schizophrenia in adolescents (ages 13 to 17 years) was established in a 6-week double-blind, placebo-controlled, randomized trial of inpatients and outpatients with schizophrenia (n=107) who met diagnostic criteria according to DSM-IV-TR and confirmed by the Kiddie Schedule for Affective Disorders and schizophrenia for School Aged Children-Present and Lifetime Version (K-SADS-PL).
 
 The primary rating instrument used for assessing psychiatric signs and symptoms in this trial was the Anchored Version of the Brief Psychiatric Rating Scale for Children (BPRS-C) total score.
 
@@ -55,13 +55,13 @@ In an identically designed trial conducted simultaneously with the first trial, 
 
 (2) In a 4-week placebo-controlled trial (n=115) which involved a dose range of olanzapine (5 to 20 mg/day, once daily, starting at 15 mg/day), olanzapine was superior to placebo in the reduction of Y-MRS total score.
 
-(3) In another trial, 361 patients meeting DSM-IV criteria for a manic or mixed episode of Bipolar I Disorder who had responded during an initial open-label treatment phase for about 2 weeks, on average, to olanzapine 5 to 20 mg/day were randomized to either continuation of olanzapine at their same dose (n=225) or to placebo (n=136), for observation of relapse.
+(3) In another trial, 361 patients meeting DSM-IV criteria for a manic or mixed episode of bipolar I disorder who had responded during an initial open-label treatment phase for about 2 weeks, on average, to olanzapine 5 to 20 mg/day were randomized to either continuation of olanzapine at their same dose (n=225) or to placebo (n=136), for observation of relapse.
 Approximately 50% of the patients had discontinued from the olanzapine group by day 59 and 50% of the placebo group had discontinued by day 23 of double-blind treatment.
 Response during the open-label phase was defined by having a decrease of the Y-MRS total score to ≤12 and HAM-D 21 to ≤8.
 Relapse during the double-blind phase was defined as an increase of the Y-MRS or HAM-D 21 total score to ≥15, or being hospitalized for either mania or depression.
 In the randomized phase, patients receiving continued olanzapine experienced a significantly longer time to relapse.
 
-Adjunct to Lithium or Valproate — The efficacy of oral olanzapine with concomitant lithium or valproate in the treatment of acute manic or mixed episodes was established in 2 controlled trials in patients who met the DSM-IV criteria for Bipolar I Disorder with manic or mixed episodes.
+Adjunct to Lithium or Valproate — The efficacy of oral olanzapine with concomitant lithium or valproate in the treatment of acute manic or mixed episodes was established in 2 controlled trials in patients who met the DSM-IV criteria for bipolar I disorder with manic or mixed episodes.
 These trials included patients with or without psychotic features and with or without a rapid-cycling course.
 The results of the trials follow:
 

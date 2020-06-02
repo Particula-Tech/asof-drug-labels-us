@@ -92,11 +92,15 @@ Safety and effectiveness of olanzapine and fluoxetine in combination in children
 ## 8.5 Geriatric Use
 
 Of the 2500 patients in premarketing clinical studies with oral olanzapine, 11% (263) were 65 years of age or over.
-In patients with Schizophrenia, there was no indication of any different tolerability of olanzapine in the elderly compared to younger patients.
-Studies in elderly patients with dementia-related psychosis have suggested that there may be a different tolerability profile in this population compared to younger patients with Schizophrenia.
+In patients with schizophrenia, there was no indication of any different tolerability of olanzapine in the elderly compared to younger patients.
+Studies in elderly patients with dementia-related psychosis have suggested that there may be a different tolerability profile in this population compared to younger patients with schizophrenia.
 Elderly patients with dementia-related psychosis treated with olanzapine are at an increased risk of death compared to placebo.
 In placebo-controlled studies of olanzapine in elderly patients with dementia-related psychosis, there was a higher incidence of cerebrovascular adverse events (e.g., stroke, transient ischemic attack) in patients treated with olanzapine compared to patients treated with placebo.
+In 5 placebo-controlled studies of olanzapine in elderly patients with dementia-related psychosis (n=1184), the following adverse reactions were reported in olanzapine-treated patients at an incidence of at least 2% and significantly greater than placebo-treated patients: falls, somnolence, peripheral edema, abnormal gait, urinary incontinence, lethargy, increased weight, asthenia, pyrexia, pneumonia, dry mouth and visual hallucinations.
+The rate of discontinuation due to adverse reactions was greater with olanzapine than placebo (13% vs 7%).
+Elderly patients with dementia-related psychosis treated with olanzapine are at an increased risk of death compared to placebo.
+Olanzapine is not approved for the treatment of patients with dementia-related psychosis [see Boxed Warning, Warnings and Precautions (5.1), and Patient Counseling Information (17)].
 Olanzapine is not approved for the treatment of patients with dementia-related psychosis.
-Also, the presence of factors that might decrease pharmacokinetic clearance or increase the pharmacodynamic response to olanzapine should lead to consideration of a lower starting dose for any geriatric patient [see Boxed Warning, Dosage and Administration (2.1) and Warnings and Precautions (5.1)].
+Also, the presence of factors that might decrease pharmacokinetic clearance or increase the pharmacodynamic response to olanzapine should lead to consideration of a lower starting dose for any geriatric patient [see Boxed Warning, Dosage and Administration (2.1), and Warnings and Precautions (5.1)].
 
 Clinical studies of olanzapine and fluoxetine in combination did not include sufficient numbers of patients ≥65 years of age to determine whether they respond differently from younger patients.
