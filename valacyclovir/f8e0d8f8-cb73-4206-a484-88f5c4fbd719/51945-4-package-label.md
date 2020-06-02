@@ -29,9 +29,9 @@ Research Triangle Park, NC 27709
 Made in India
 
 Rev.
-11/19
+3/20
 
-DFT-02241-4672081
+62000000047535
 
 PRINCIPAL DISPLAY PANEL
 
@@ -64,6 +64,6 @@ Research Triangle Park, NC 27709
 Made in India
 
 Rev.
-11/19
+3/20
 
-DFT-02241-4672079
+62000000047530
