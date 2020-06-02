@@ -11,8 +11,7 @@ Composition - Each 100 mL contains:
 | --- | --- | --- | --- | --- |
 | 0.4% Lidocaine HCl and 5% Dextrose Injection USP | 0.4 g | 5 g | 4.4 (3.0–7.0) | 280 |
 | 0.8% Lidocaine HCl and 5% Dextrose Injection USP | 0.8 g | 5 g | 4.2 (3.0–7.0) | 305 |
-
-Water for Injection USP qs
+| Water for Injection USP qs |  |  |  |  |
 
 The formulas of the active ingredients are:
 
