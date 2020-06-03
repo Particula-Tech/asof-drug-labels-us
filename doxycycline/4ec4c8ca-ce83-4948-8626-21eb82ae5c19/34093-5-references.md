@@ -18,4 +18,4 @@ Distributed By: West-Ward Pharmaceuticals Corp. Eatontown, NJ 07724 USA
 Manufactured By: HIKMA Pharmaceuticals P.O.
 Box 182400 Amman 11118 - Jordan
 
-Revised December 2018
+Revised January 2020
