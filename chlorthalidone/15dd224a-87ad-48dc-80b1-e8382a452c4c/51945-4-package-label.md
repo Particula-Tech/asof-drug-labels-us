@@ -37,7 +37,7 @@ Rx only 100 Tablets
 
 Each tablet contains: Chlorthalidone, USP 50 mg
 
-Dispense in a tight, light-resistant contaner as defined in the USP using a child-resistant closure.
+Dispense in a tight, light-resistant container as defined in the USP using a child-resistant closure.
 
 Keep container tightly closed.
 
