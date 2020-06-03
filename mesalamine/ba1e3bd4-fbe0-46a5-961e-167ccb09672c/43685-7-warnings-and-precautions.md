@@ -39,5 +39,5 @@ Patients with pre-existing skin conditions such as atopic dermatitis and atopic 
 
 ## 5.7 Interference with Laboratory Tests
 
-Use of mesalamine may lead to spuriously elevated test results when measuring urinary normetanephrine by liquid chromatography with electrochemical detection because of the similarity in the chromatograms of normetanephrine and mesalamine’s main metabolite, N-acetylaminosalicylic acid (N-Ac-5-ASA).
+Use of mesalamine may lead to spuriously elevated test results when measuring urinary normetanephrine by liquid chromatography with electrochemical detection because of the similarity in the chromatograms of normetanephrine and mesalamine’s main metabolite, N-acetyl-5-aminosalicylic acid (N-Ac-5-ASA).
 Consider an alternative, selective assay for normetanephrine.
