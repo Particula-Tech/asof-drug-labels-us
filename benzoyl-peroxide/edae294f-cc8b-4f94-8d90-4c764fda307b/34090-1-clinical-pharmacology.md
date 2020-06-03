@@ -2,15 +2,15 @@
 
 ## 12.1 Mechanisms of Action
 
-Clindamycin: Clindamycin is a lincosamide antibacterial [see Clinical Pharmacology (12.4)].
+Clindamycin: Clindamycin is a lincosamide antibacterial [see Microbiology (12.4)].
 
-Benzoyl Peroxide: Benzoyl peroxide is an oxidizing agent with bacteriocidal and keratolytic effects but the precise mechanism of action is unknown.
+Benzoyl Peroxide: Benzoyl peroxide is an oxidizing agent with bactericidal and keratolytic effects but the precise mechanism of action is unknown.
 
 ## 12.3 Pharmacokinetics
 
 The systemic absorption of clindamycin was investigated in an open-label, multiple-dose trial in 16 adult subjects with moderate to severe acne vulgaris treated with 1 gram of Clindamycin Phosphate and Benzoyl Peroxide Gel applied to the face once daily for 30 days.
 Twelve subjects (75%) had at least one quantifiable clindamycin plasma concentration above the lower limit of quantification (LOQ = 0.5 ng/mL) on Day 1 or Day 30.
-On Day 1, the mean (± standard deviation) peak plasma concentrations (Cmax) was 0.78 ± 0.22 ng/mL (n=9 with measurable concentrations), and the mean AUC0-t was 5.29 ± 0.81 h.ng/mL (n=4).
+On Day 1, the mean (± standard deviation) peak plasma concentration (Cmax) was 0.78 ± 0.22 ng/mL (n=9 with measurable concentrations), and the mean AUC0-t was 5.29 ± 0.81 h.ng/mL (n=4).
 On Day 30, the mean Cmax was 1.22 ± 0.88 ng/mL (n=10), and the mean AUC0-t was 8.42 ± 6.01 h.ng/mL (n=6).
 Clindamycin plasma concentrations were below LOQ in all subjects at 24 hours post-dose on the three tested days (Day 1, 15, and 30).
 

@@ -2,7 +2,9 @@
 
 ## 16.1 How Supplied
 
-Clindamycin Phosphate and Benzoyl Peroxide Gel is supplied as a 50 g pump (NDC 68682-132-50).
+Clindamycin Phosphate and Benzoyl Peroxide Gel, 1.2%/2.5% is a white to off-white smooth gel is supplied as:
+
+1. NDC 68682-132-50 50 g pump
 
 ## 16.2 Dispensing Instructions for the Pharmacist
 
@@ -15,5 +17,6 @@ Clindamycin Phosphate and Benzoyl Peroxide Gel is supplied as a 50 g pump (NDC 6
 - •PHARMACIST: Prior to Dispensing: Store in a refrigerator, 2° to 8°C (36° to 46°F).
 - •PATIENT: Store at room temperature at or below 25°C (77°F).
 - •Protect from freezing.
-- •Keep out of reach of children.
+- •Store pump upright.
+- •Keep out of the reach of children.
 - •Keep container tightly closed.

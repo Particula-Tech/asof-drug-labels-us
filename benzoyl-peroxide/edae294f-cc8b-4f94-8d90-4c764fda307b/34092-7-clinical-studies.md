@@ -1,14 +1,14 @@
 # 14 CLINICAL STUDIES
 
-The safety and efficacy of once-daily use of Clindamycin Phosphate and Benzoyl Peroxide Gel were assessed in two 12-week, multicenter, randomized, blinded trials in subjects 12 years and older with moderate to severe acne vulgaris.
+The safety and efficacy of once daily use of Clindamycin Phosphate and Benzoyl Peroxide Gel were assessed in two 12-week multi-center, randomized, blinded trials in subjects 12 years and older with moderate to severe acne vulgaris.
 The two trials were identical in design and compared Clindamycin Phosphate and Benzoyl Peroxide Gel to clindamycin in the vehicle gel, benzoyl peroxide in the vehicle gel, and the vehicle gel alone.
 
 The co-primary efficacy variables were:
 
-1. 1.Mean absolute change from baseline at Week 12 in
-   1. 1.Inflammatory lesion counts
-   2. 2.Non-inflammatory lesion counts
-2. 2.Percent of subjects who had a two grade improvement from baseline on an Evaluator’s Global Severity (EGS) score.
+1. (1)Mean absolute change from baseline at Week 12 in:
+   1. •Inflammatory lesion counts
+   2. •Non-inflammatory lesion counts
+2. (2)Percent of subjects who had a 2-grade improvement from baseline on an Evaluator’s Global Severity (EGS) score.
 
 The EGS scoring scale used in all of the clinical trials for Clindamycin Phosphate and Benzoyl Peroxide Gel is as follows:
 
@@ -25,11 +25,11 @@ The results of Trial 1 at Week 12 are presented in Table 2:
 
 Table 2: Trial 1 Results
 
-|  | N = 399 | N = 408 | N = 406 | N = 201 |
+| Trial 1 | N = 399 | N = 408 | N = 406 | N = 201 |
 | --- | --- | --- | --- | --- |
-| Trial 1 | Clindamycin Phosphate and Benzoyl Peroxide Gel | Clindamycin Gel | Benzoyl Peroxide Gel | Vehicle Gel |
+|  | Clindamycin Phosphate and Benzoyl Peroxide Gel | Clindamycin Gel | Benzoyl Peroxide Gel | Vehicle Gel |
 | EGSS Clear or Almost Clear | 115 (29%) | 84 (21%) | 76 (19%) | 29 (14%) |
-| 2 grade reduction from baseline | 131 (33%) | 100 (25%) | 96 (24%) | 38 (19%) |
+| 2-grade reduction from baseline | 131 (33%) | 100 (25%) | 96 (24%) | 38 (19%) |
 | Inflammatory Lesions:Mean absolute change | 14.8 | 12.2 | 13.0 | 9.0 |
 | Mean percent (%) reduction | 55.0% | 47.1% | 49.3% | 34.5% |
 | Non-Inflammatory Lesions:Mean absolute change | 22.1 | 17.9 | 20.6 | 13.2 |
@@ -39,11 +39,11 @@ The results of Trial 2 at Week 12 are presented in Table 3:
 
 Table 3: Trial 2 Results
 
-|  | N = 398 | N = 404 | N = 403 | N = 194 |
+| Trial 2 | N = 398 | N = 404 | N = 403 | N = 194 |
 | --- | --- | --- | --- | --- |
-| Trial 2 | Clindamycin Phosphate and Benzoyl Peroxide Gel | Clindamycin Gel | Benzoyl Peroxide Gel | Vehicle Gel |
+|  | Clindamycin Phosphate and Benzoyl Peroxide Gel | Clindamycin Gel | Benzoyl Peroxide Gel | Vehicle Gel |
 | EGSS Clear or Almost Clear | 113 (28%) | 94 (23%) | 94 (23%) | 21 (11%) |
-| 2 grade reduction from baseline | 147 (37%) | 114 (28%) | 114 (28%) | 27 (14%) |
+| 2-grade reduction from baseline | 147 (37%) | 114 (28%) | 114 (28%) | 27 (14%) |
 | Inflammatory Lesions: |  |  |  |  |
 | Mean absolute change | 13.7 | 11.3 | 11.2 | 5.7 |
 | Mean percent (%) reduction | 54.2% | 45.3% | 45.7% | 23.3% |

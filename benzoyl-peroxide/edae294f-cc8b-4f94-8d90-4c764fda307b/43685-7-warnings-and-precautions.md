@@ -16,4 +16,10 @@ Stool cultures for Clostridium difficile and stool assay for C. difficile toxin 
 
 ## 5.2 Ultraviolet Light and Environmental Exposure
 
-Minimize sun exposure including use of tanning beds or sun lamps following drug application [see Nonclinical Toxicology (13.1)].
+Minimize sun exposure including use of tanning beds or sun lamps following drug application.
+
+## 5.3 Concomitant Topical Medications
+
+Concomitant topical acne therapy should be used with caution since a possible cumulative irritancy effect may occur, especially with the use of peeling, desquamating, or abrasive agents.
+If irritancy or dermatitis occurs, reduce frequency of application or temporarily interrupt treatment and resume once the irritation subsides.
+Treatment should be discontinued if the irritation persists.

@@ -1,6 +1,9 @@
 # 2 DOSAGE AND ADMINISTRATION
 
+Before applying Clindamycin Phosphate and Benzoyl Peroxide Gel, wash your face gently with a mild soap, rinse with warm water, and pat your skin dry.
+
 Apply a pea-sized amount of Clindamycin Phosphate and Benzoyl Peroxide Gel to the face once daily.
+Avoid the eyes, mouth, mucous membranes, or areas of broken skin.
 
 Use of Clindamycin Phosphate and Benzoyl Peroxide Gel beyond 12 weeks has not been evaluated.
 
