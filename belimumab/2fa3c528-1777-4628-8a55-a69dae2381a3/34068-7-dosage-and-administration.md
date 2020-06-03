@@ -29,8 +29,8 @@ Reconstitution Instructions for Intravenous Use:
 1. 1.Remove the vial of BENLYSTA from the refrigerator and allow to stand for 10 to 15 minutes for the vial to reach room temperature.
 2. 2.Reconstitute the BENLYSTA powder with Sterile Water for Injection, USP, as follows.
    The reconstituted solution will contain a concentration of 80 mg/mL belimumab.
-   1. •Reconstitute the 120-mg vial with 1.5 mL Sterile Water for Injection, USP.
-   2. •Reconstitute the 400-mg vial with 4.8 mL Sterile Water for Injection, USP.
+   1. 1.Reconstitute the 120-mg vial with 1.5 mL Sterile Water for Injection, USP.
+   2. 2.Reconstitute the 400-mg vial with 4.8 mL Sterile Water for Injection, USP.
 3. 3.The stream of sterile water should be directed toward the side of the vial to minimize foaming.
    Gently swirl the vial for 60 seconds.
    Allow the vial to sit at room temperature during reconstitution, gently swirling the vial for 60 seconds every 5 minutes until the powder is dissolved.
@@ -52,12 +52,12 @@ Then add the required volume of the reconstituted solution of BENLYSTA into the 
 Gently invert the bag or bottle to mix the solution.
 Any unused solution in the vials must be discarded.
 
-1. 7.Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration, whenever solution and container permit.
+1. 1.Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration, whenever solution and container permit.
    Discard the solution if any particulate matter or discoloration is observed.
-2. 8.The reconstituted solution of BENLYSTA, if not used immediately, should be stored protected from direct sunlight and refrigerated at 36°F to 46°F (2°C to 8°C).
+2. 2.The reconstituted solution of BENLYSTA, if not used immediately, should be stored protected from direct sunlight and refrigerated at 36°F to 46°F (2°C to 8°C).
    Solutions of BENLYSTA diluted in normal saline, half-normal saline, or Lactated Ringer’s Injection may be stored at 36°F to 46°F (2°C to 8°C) or room temperature.
    The total time from reconstitution of BENLYSTA to completion of infusion should not exceed 8 hours.
-3. 9.No incompatibilities between BENLYSTA and polyvinylchloride or polyolefin bags have been observed.
+3. 3.No incompatibilities between BENLYSTA and polyvinylchloride or polyolefin bags have been observed.
 
 Administration Instructions for Intravenous Use
 

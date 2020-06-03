@@ -84,11 +84,11 @@ Injection
 
 200 mg/mL
 
+Rx only
+
 Once-weekly
 
 For Subcutaneous Use
-
-Rx only
 
 Contents:
 
@@ -102,6 +102,6 @@ Federal Law requires dispensing of BENLYSTA with the Medication Guide provided w
 ©2019 GSK group of companies or is licensor.
 
 Rev.
-1/19
+5/20
 
-62000000034180
+62000000050117
