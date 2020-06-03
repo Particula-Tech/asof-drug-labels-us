@@ -1,7 +1,7 @@
 # CLINICAL PHARMACOLOGY
 
-Mechanism of ActionIn vitro studies and in vivo pharmacologic studies have demonstrated that albuterol has a preferential effect on beta2-adrenergic receptors compared with isoproterenol.
-While it is recognized that beta2-adrenergic receptors are the predominant receptors on bronchial smooth muscle, data indicate that there is a population of beta2-receptors in the human heart existing in a concentration between 10% and 50% of cardiac beta-adrenergic receptors.
+Mechanism of ActionIn vitro studies and in vivo pharmacologic studies have demonstrated that albuterol has a preferential effect on beta 2-adrenergic receptors compared with isoproterenol.
+While it is recognized that beta 2-adrenergic receptors are the predominant receptors on bronchial smooth muscle, data indicate that there is a population of beta 2-receptors in the human heart existing in a concentration between 10% and 50% of cardiac beta-adrenergic receptors.
 The precise function of these receptors has not been established.
 (See WARNINGS, Cardiovascular Effects section.)
 
@@ -17,7 +17,7 @@ Controlled clinical studies and other clinical experience have shown that inhale
 Preclinical Intravenous studies in rats with albuterol sulfate have demonstrated that albuterol crosses the blood-brain barrier and reaches brain concentrations amounting to approximately 5% of the plasma concentrations.
 In structures outside the blood-brain barrier (pineal and pituitary glands), albuterol concentrations were found to be 100 times those in the whole brain.
 
-Studies in laboratory animals (minipigs, rodents, and dogs) have demonstrated the occurrence of cardiac arrhythmias and sudden death (with histologic evidence of myocardial necrosis) when beta2-agonist and methylxanthines were administered concurrently.
+Studies in laboratory animals (minipigs, rodents, and dogs) have demonstrated the occurrence of cardiac arrhythmias and sudden death (with histologic evidence of myocardial necrosis) when beta 2-agonist and methylxanthines were administered concurrently.
 The clinical significance of these findings is unknown.
 
 Propellant HFA-134a is devoid of pharmacological activity except at very high doses in animals (380-1300 times the maximum human exposure based on comparisons of AUC values), primarily producing ataxia, tremors, dyspnea, or salivation.
@@ -31,20 +31,20 @@ No formal pharmacokinetic analyses were possible for either treatment, but syste
 
 Clinical Trials In a 12-week, randomized, double-blind, double-dummy, active- and placebo-controlled trial, 565 patients with asthma were evaluated for the bronchodilator efficacy of PROVENTIL HFA Inhalation Aerosol (193 patients) in comparison to a CFC 11/12 propelled albuterol inhaler (186 patients) and an HFA-134a placebo inhaler (186 patients).
 
-Serial FEV1 measurements (shown below as percent change from test-day baseline) demonstrated that two inhalations of PROVENTIL HFA Inhalation Aerosol produced significantly greater improvement in pulmonary function than placebo and produced outcomes which were clinically comparable to a CFC 11/12 propelled albuterol inhaler.
+Serial FEV 1 measurements (shown below as percent change from test-day baseline) demonstrated that two inhalations of PROVENTIL HFA Inhalation Aerosol produced significantly greater improvement in pulmonary function than placebo and produced outcomes which were clinically comparable to a CFC 11/12 propelled albuterol inhaler.
 
-The mean time to onset of a 15% increase in FEV1 was 6 minutes and the mean time to peak effect was 50 to 55 minutes.
-The mean duration of effect as measured by a 15% increase in FEV1 was 3 hours.
+The mean time to onset of a 15% increase in FEV 1 was 6 minutes and the mean time to peak effect was 50 to 55 minutes.
+The mean duration of effect as measured by a 15% increase in FEV 1 was 3 hours.
 In some patients, duration of effect was as long as 6 hours.
 
-In another clinical study in adults, two inhalations of PROVENTIL HFA Inhalation Aerosol taken 30 minutes before exercise prevented exercise-induced bronchospasm as demonstrated by the maintenance of FEV1 within 80% of baselie values in the majority of patients.
+In another clinical study in adults, two inhalations of PROVENTIL HFA Inhalation Aerosol taken 30 minutes before exercise prevented exercise-induced bronchospasm as demonstrated by the maintenance of FEV 1 within 80% of baselie values in the majority of patients.
 
 In a 4-week, randomized, open-label trial, 63 children, 4 to 11 years of age, with asthma were evaluated for the bronchodilator efficacy of PROVENTIL HFA Inhalation Aerosol (33 pediatric patients) in comparison to a CFC 11/12 propelled albuterol inhaler (30 pediatric patients).
 
-Serial FEV1 measurements as percent change from test-day baseline demonstrated that two inhalations of PROVENTIL HFA Inhalation Aerosol produced outcomes which were clinically comparable to a CFC 11/12 propelled albuterol inhaler.
+Serial FEV 1 measurements as percent change from test-day baseline demonstrated that two inhalations of PROVENTIL HFA Inhalation Aerosol produced outcomes which were clinically comparable to a CFC 11/12 propelled albuterol inhaler.
 
-The mean time to onset of a 12% increase in FEV1 for PROVENTIL HFA Inhalation Aerosol was 7 minutes and the mean time to peak effect was approximately 50 minutes.
-The mean duration of effect as measured by a 12% increase in FEV1 was 2.3 hours.
+The mean time to onset of a 12% increase in FEV 1 for PROVENTIL HFA Inhalation Aerosol was 7 minutes and the mean time to peak effect was approximately 50 minutes.
+The mean duration of effect as measured by a 12% increase in FEV 1 was 2.3 hours.
 In some pediatric patients, duration of effect was as long as 6 hours.
 
 In another clinical study in pediatric patients, two inhalations of PROVENTIL HFA Inhalation Aerosol taken 30 minutes before exercise provided comparable protection against exercise-induced bronchospasm as a CFC 11/12 propelled albuterol inhaler.

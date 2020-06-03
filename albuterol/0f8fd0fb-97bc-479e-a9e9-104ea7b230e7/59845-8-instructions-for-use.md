@@ -1,4 +1,4 @@
-# INSTRUCTIONS FOR USE PROVENTIL® HFA (prō-vent’-il) (albuterol sulfate) Inhalation Aerosol with Dose Indicator
+# INSTRUCTIONS FOR USE PROVENTIL ® HFA (prō-vent’-il) (albuterol sulfate) Inhalation Aerosol with Dose Indicator
 
 Read this Instructions for Use before you start using PROVENTIL HFA and each time you get a refill.
 There may be new information.
@@ -10,7 +10,7 @@ Important Information:
 - PROVENTIL HFA is for oral inhalation use only.
 - Take PROVENTIL HFA exactly as your doctor tells you to.
 
-PROVENTIL® HFA Inhalation Aerosol comes as a canister with a dose indicator.
+PROVENTIL ® HFA Inhalation Aerosol comes as a canister with a dose indicator.
 The dose indicator is located on the top of the canister that fits into an actuator (See Figure A). The dose indicator display window will show you how many puffs of medicine you have left.
 A puff of medicine is released each time you press the center of the dose indicator.
 
@@ -65,7 +65,7 @@ Step 4: Hold your breath as long as you comfortably can, up to 10 seconds.
 Remove the inhaler from your mouth, and then breathe out.
 
 Step 5: If your doctor has prescribed additional puffs of PROVENTIL HFA, wait 1 minute, shake the inhaler well.
-Repeat steps 3 through 5 in the section “Using your PROVENTIL HFA inhaler”.
+Repeat steps 3 through 5 in the section “ Using your PROVENTIL HFA inhaler”.
 
 Step 6: Replace the cap right away after use.
 
@@ -85,7 +85,7 @@ Figure E
 Step 3: Shake off as much water from the mouthpiece as you can.
 
 Step 4: Look in the mouthpiece to make sure any medicine buildup has been completely washed away.
-If the mouthpiece is blocked with buildup, little to no medicine will come out of the mouthpiece (See Figure F). If there is any buildup, repeat Steps 2 through 4 in the section “Cleaning your PORVENTIL HFA inhaler”.
+If the mouthpiece is blocked with buildup, little to no medicine will come out of the mouthpiece (See Figure F). If there is any buildup, repeat Steps 2 through 4 in the section “ Cleaning your PORVENTIL HFA inhaler”.
 
 Figure F
 
@@ -97,7 +97,7 @@ Step 6: When the mouthpiece is dry, put the canister back in the actuator and pu
 
 Note: If you need to use your PROVENTIL HFA inhaler before it is completely dry, put the canister back in the actuator and shake the inhaler well.
 Press down on the center of the dose indicator 2 times to release a total of 2 sprays into the air, away from your face.
-Take your dose as prescribed then clean and air-dry your inhaler as described in the section “Cleaning your PROVENTIL HFA inhaler”.
+Take your dose as prescribed then clean and air-dry your inhaler as described in the section “ Cleaning your PROVENTIL HFA inhaler”.
 
 How should I store PROVENTIL HFA?
 

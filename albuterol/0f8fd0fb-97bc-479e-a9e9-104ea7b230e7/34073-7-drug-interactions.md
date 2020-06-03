@@ -12,26 +12,26 @@
 
 ## Carcinogenesis, Mutagenesis, and Impairment of Fertility
 
-In a 2-year study in SPRAGUE-DAWLEY® rats, albuterol sulfate caused a dose-related increase in the incidence of benign leiomyomas of the mesovarium at the above dietary doses of 2 mg/kg (approximately 15 times the maximum recommended daily inhalation dose for adults on a mg/m2 basis and approximately 6 times the maximum recommended daily inhalation dose for children on a mg/m2 basis).
+In a 2-year study in SPRAGUE-DAWLEY ® rats, albuterol sulfate caused a dose-related increase in the incidence of benign leiomyomas of the mesovarium at the above dietary doses of 2 mg/kg (approximately 15 times the maximum recommended daily inhalation dose for adults on a mg/m 2 basis and approximately 6 times the maximum recommended daily inhalation dose for children on a mg/m 2 basis).
 In another study this effect was blocked by the coadministration of propranolol, a nonselective beta-adrenergic antagonist.
-In an 18-month study in CD-1 mice, albuterol sulfate showed no evidence of tumorigenicity at dietary doses of up to 500 mg/kg (approximately 1700 times the maximum recommended daily inhalation dose for adults on a mg/m2 basis and approximately 800 times the maximum recommended daily inhalation dose for children on a mg/m2 basis).
-In a 22-month study in Golden Hamsters, albuterol sulfate showed no evidence of tumorigenicity at dietary doses of up to 50 mg/kg (approximately 225 times the maximum recommended daily inhalation dose for adults on a mg/m2 basis and approximately 110 times the maximum recommended daily inhalation dose for children on a mg/m2 basis).
+In an 18-month study in CD-1 mice, albuterol sulfate showed no evidence of tumorigenicity at dietary doses of up to 500 mg/kg (approximately 1700 times the maximum recommended daily inhalation dose for adults on a mg/m 2 basis and approximately 800 times the maximum recommended daily inhalation dose for children on a mg/m 2 basis).
+In a 22-month study in Golden Hamsters, albuterol sulfate showed no evidence of tumorigenicity at dietary doses of up to 50 mg/kg (approximately 225 times the maximum recommended daily inhalation dose for adults on a mg/m 2 basis and approximately 110 times the maximum recommended daily inhalation dose for children on a mg/m 2 basis).
 
 Albuterol sulfate was not mutagenic in the Ames test or a mutation test in yeast.
 Albuterol sulfate was not clastogenic in a human peripheral lymphocyte assay or in an AH1 strain mouse micronucleus assay.
 
-Reproduction studies in rats demonstrated no evidence of impaired fertility at oral doses up to 50 mg/kg (approximately 340 times the maximum recommended daily inhalation dose for adults on a mg/m2 basis).
+Reproduction studies in rats demonstrated no evidence of impaired fertility at oral doses up to 50 mg/kg (approximately 340 times the maximum recommended daily inhalation dose for adults on a mg/m 2 basis).
 
 Pregnancy Teratogenic Effects Pregnancy
 
 Albuterol sulfate has been shown to be teratogenic in mice.
-A study in CD-1 mice given albuterol sulfate subcutaneously showed cleft palate formation in 5 of 111 (4.5%) fetuses at 0.25 mg/kg (less than the maximum recommended daily inhalation dose for adults on a mg/m2 basis) and in 10 of 108 (9.3%) fetuses at 2.5 mg/kg (approximately 8 times the maximum recommended daily inhalation dose for adults on a mg/m2 basis).
-The drug did not induce cleft palate formation at a dose of 0.025 mg/kg (less than the maximum recommended daily inhalation dose for adults on a mg/m2 basis).
+A study in CD-1 mice given albuterol sulfate subcutaneously showed cleft palate formation in 5 of 111 (4.5%) fetuses at 0.25 mg/kg (less than the maximum recommended daily inhalation dose for adults on a mg/m 2 basis) and in 10 of 108 (9.3%) fetuses at 2.5 mg/kg (approximately 8 times the maximum recommended daily inhalation dose for adults on a mg/m 2 basis).
+The drug did not induce cleft palate formation at a dose of 0.025 mg/kg (less than the maximum recommended daily inhalation dose for adults on a mg/m 2 basis).
 Cleft palate also occurred in 22 of 72 (30.5%) fetuses from females treated subcutaneously with 2.5 mg/kg of isoproterenol (positive control).
 
-A reproduction study in Stride Dutch rabbits revealed cranioschisis in 7 of 19 (37%) fetuses when albuterol sulfate was administered orally at 50 mg/kg dose (approximately 680 times the maximum recommended daily inhalation dose for adults on a mg/m2 basis).
+A reproduction study in Stride Dutch rabbits revealed cranioschisis in 7 of 19 (37%) fetuses when albuterol sulfate was administered orally at 50 mg/kg dose (approximately 680 times the maximum recommended daily inhalation dose for adults on a mg/m 2 basis).
 
-In an inhalation reproduction study in SPRAGUE-DAWLEY rats, the albuterol sulfate/HFA-134a formulation did not exhibit any teratogenic effects at 10.5 mg/kg (approximately 70 times the maximum recommended daily inhalation dose for adults on a mg/m2 basis).
+In an inhalation reproduction study in SPRAGUE-DAWLEY rats, the albuterol sulfate/HFA-134a formulation did not exhibit any teratogenic effects at 10.5 mg/kg (approximately 70 times the maximum recommended daily inhalation dose for adults on a mg/m 2 basis).
 
 A study in which pregnant rats were dosed with radiolabeled albuterol sulfate demonstrated that drug-related material is transferred from the maternal circulation to the fetus.
 
@@ -48,7 +48,7 @@ Because of the potential for beta-agonist interference with uterine contractilit
 
 Tocolysis: Albuterol has not been approved for the management of preterm labor.
 The benefit:risk ratio when albuterol is administered for tocolysis has not been established.
-Serious adverse reactions, including pulmonary edema, have been reported during or following treatment of premature labor with beta2-agonists, including albuterol.
+Serious adverse reactions, including pulmonary edema, have been reported during or following treatment of premature labor with beta 2-agonists, including albuterol.
 
 ## Nursing Mothers
 
@@ -64,4 +64,4 @@ The safety and effectiveness of PROVENTIL HFA Inhalation Aerosol in pediatric pa
 ## Geriatrics
 
 PROVENTIL HFA Inhalation Aerosol has not been studied in a geriatric population.
-As with other beta2-agonists, special caution should be observed when using PROVENTIL HFA Inhalation Aerosol in elderly patients who have concomitant cardiovascular disease that could be adversely affected by this class of drug.
+As with other beta 2-agonists, special caution should be observed when using PROVENTIL HFA Inhalation Aerosol in elderly patients who have concomitant cardiovascular disease that could be adversely affected by this class of drug.
