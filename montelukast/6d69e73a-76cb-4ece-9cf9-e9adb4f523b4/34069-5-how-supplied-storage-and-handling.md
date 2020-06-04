@@ -27,13 +27,13 @@ They are available as follows:
 
 Storage
 
-Store at 20° to 25°C (68° to 77°F) [see USP Controlled Room Temperature].
+Store at 20°C to 25°C (68°F to 77°F) [see USP Controlled Room Temperature].
 Protect from moisture and light.
 Store in original package.
 
 Storage for Bulk Bottles
 
-Store at 20° to 25°C (68° to 77°F) [see USP Controlled Room Temperature].
+Store at 20°C to 25°C (68°F to 77°F) [see USP Controlled Room Temperature].
 Protect from moisture and light.
 Store in original package.
 When product container is subdivided, repackage into a well-closed, light-resistant container.

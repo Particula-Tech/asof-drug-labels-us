@@ -21,7 +21,7 @@ Data
 
 Human Data
 
-Published data from prospective and retrospective cohort studies have not identified an association with montelukast sodium tablets use during pregnancy and major birth defects.
+Published data from prospective and retrospective cohort studies have not identified an association with montelukast sodium use during pregnancy and major birth defects.
 Available studies have methodologic limitations, including small sample size, in some cases retrospective data collection, and inconsistent comparator groups.
 
 Animal Data
@@ -40,7 +40,7 @@ The developmental and health benefits of breastfeeding should be considered alon
 ## 8.4 Pediatric Use
 
 Safety and efficacy of montelukast sodium have been established in adequate and well-controlled studies in pediatric patients with asthma 6 to 14 years of age.
-Safety and efficacy profiles in this age group are similar to those seen in adults [see Adverse Reactions (6.1), Clinical Pharmacology, Special Populations (12.3), andClinical Studies (14.1, 14.2)].
+Safety and efficacy profiles in this age group are similar to those seen in adults [see Adverse Reactions (6.1), Clinical Pharmacology, Special Populations (12.3), and Clinical Studies (14.1, 14.2)].
 
 The efficacy of montelukast sodium for the treatment of seasonal allergic rhinitis in pediatric patients 2 to 14 years of age and for the treatment of perennial allergic rhinitis in pediatric patients 2 to 14 years of age is supported by extrapolation from the demonstrated efficacy in patients 15 years of age and older with allergic rhinitis as well as the assumption that the disease course, pathophysiology and the drug’s effect are substantially similar among these populations.
 

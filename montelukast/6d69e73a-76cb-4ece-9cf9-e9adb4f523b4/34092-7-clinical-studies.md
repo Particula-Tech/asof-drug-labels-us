@@ -19,7 +19,7 @@ Compared with placebo, treatment with one montelukast sodium 10 mg tablet daily 
 The results of the Multinational trial on FEV1 were similar.
 
 FIGURE 2: FEV1 Mean Percent Change from Baseline (U.S.
-Trial: MontelukastSodium N=406; Placebo N=270) (ANOVA Model)
+Trial: Montelukast Sodium N=406; Placebo N=270) (ANOVA Model)
 
 The effect of montelukast sodium on other primary and secondary endpoints, represented by the Multinational study is shown in TABLE 2.
 Results on these endpoints were similar in the US study.
@@ -28,7 +28,7 @@ TABLE 2: Effect of Montelukast Sodium on Primary and Secondary Endpoints in a Mu
 
 | Endpoint | N | Baseline | Mean Change from Baseline | N | Baseline | Mean Change from Baseline |
 | --- | --- | --- | --- | --- | --- | --- |
-|  | MontelukastSodium |  |  | Placebo |  |  |
+|  | Montelukast Sodium |  |  | Placebo |  |  |
 | Daytime Asthma Symptoms (0 to 6 scale) | 372 | 2.35 | -0.49* | 245 | 2.40 | -0.26 |
 | β-agonist (puffs per day) | 371 | 5.35 | -1.65* | 241 | 5.78 | -0.42 |
 | AM PEFR (L/min) | 372 | 339.57 | 25.03* | 244 | 335.24 | 1.83 |
@@ -91,7 +91,7 @@ Patients who were randomized to treatment arms containing beclomethasone had sta
 
 In adult patients with asthma with documented aspirin sensitivity, nearly all of whom were receiving concomitant inhaled and/or oral corticosteroids, a 4-week, randomized, parallel-group trial (n=80) demonstrated that montelukast sodium, compared with placebo, resulted in significant improvement in parameters of asthma control.
 The magnitude of effect of montelukast sodium in aspirin-sensitive patients was similar to the effect observed in the general population of asthma patients studied.
-The effect of montelukast sodium on the bronchoconstrictor response to aspirin or other non-steroidal anti-inflammatory drugs in aspirin-sensitive asthmatic patients has not been evaluated [see Warnings and Precautions (5.3)].
+The effect of montelukast sodium on the bronchoconstrictor response to aspirin or other non-steroidal anti-inflammatory drugs in aspirin-sensitive asthmatic patients has not been evaluated [see Warnings and Precautions (5.4)].
 
 ## 14.2 Exercise-Induced Bronchoconstriction (EIB)
 
@@ -191,7 +191,7 @@ TABLE 6: Effects of Montelukast Sodium on Daytime Nasal Symptoms Score* in a Pla
 | Treatment Group (N) | Baseline Mean Score | Mean Change from Baseline | Difference Between Treatment and Placebo (95% CI) Least-Squares Mean |
 | --- | --- | --- | --- |
 | Montelukast Sodium 10 mg (1000) | 2.09 | -0.42 | -0.08† (-0.12, -0.04) |
-| Placebo (980) | 2.10 | -0.35 | N.A. |
+| Placebo(980) | 2.10 | -0.35 | N.A. |
 
 *Average of individual scores of nasal congestion, rhinorrhea, sneezing as assessed by patients on a 0 to 3 categorical scale.
 
