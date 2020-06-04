@@ -4,7 +4,7 @@ Hydromorphone Hydrochloride Tablets USP
 
 4 mg tablet is supplied as a white to off-white, round, flat-faced tablet with beveled edges; debossed with “4” on one side and “54 196” debossed on the other side.
 
-NDC 0054-0264-24: 4 x 25 Reverse Numbered Unit Dose
+NDC 0054-0264-24: 10 x 10 Unit-Dose
 
 NDC 0054-0264-25: Bottle of 100 Tablets
 
@@ -23,3 +23,5 @@ Storage
 Store at 20° to 25°C (68° to 77°F).
 [See USP Controlled Room Temperature.]
 Dispense in a tight, light-resistant, child-resistant container as defined in the USP/NF.
+
+Store Hydromorphone Hydrochloride Oral Solution or Hydromorphone Hydrochloride Tablets securely and dispose of properly [see Patient Counseling Information (17)].

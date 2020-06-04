@@ -67,7 +67,7 @@ Exposure of hydromorphone (Cmax and AUC0-24) is dose-proportional at a dose rang
 In vivo bioavailability following single-dose administration of the 8 mg tablet is approximately 24% (coefficient of variation 21%).
 Bioequivalence between the Hydromorphone Hydrochloride 8 mg tablet and an equivalent dose of Hydromorphone Hydrochloride oral solution has been demonstrated.
 
-After oral administration of Hydromorphone Hydrochloride, peak plasma hydromorphone concentrations are generally attained within ½ to 1-hour.
+After oral administration of Hydromorphone Hydrochloride, peak plasma hydromorphone concentrations are generally attained within ½ to 1 hour.
 
 | Mean (%cv) |  |  |  |  |
 | --- | --- | --- | --- | --- |
@@ -101,7 +101,7 @@ Pharmacokinetics of hydromorphone in severe hepatic impairment patients has not 
 Further increase in Cmax and AUC of hydromorphone in this group is expected.
 As such, starting dose should be even more conservative [see Use in Specific Populations (8.6)].
 
-Renal Impairment: After oral administration of a single 4 mg dose (2 mg hydromorphone immediate-release tablets), exposure to hydromorphone (Cmax and AUC0-48) is increased in patients with impaired renal function by 2-fold in moderate (CLcr = 40 to 60 mL/min) and 3-fold in severe (CLcr < 30 mL/min) renal impairment compared with normal subjects (CLcr > 80 mL/min).
+Renal Impairment: After oral administration of a single 4 mg dose (2 mg hydromorphone immediate-release tablets), exposure to hydromorphone (Cmax and AUC0-48) is increased in patients with impaired renal function by 2-fold in moderate (CLcr = 40 to 60 mL/min) and 3-fold in severe (CLcr< 30 mL/min) renal impairment compared with normal subjects (CLcr > 80 mL/min).
 In addition, in patients with severe renal impairment hydromorphone appeared to be more slowly eliminated with longer terminal elimination half-life (40 hr) compared to patients with normal renal function (15 hr). Patients with moderate renal impairment should be started on a lower dose.
 Starting doses for patients with severe renal impairment should be even lower.
 Patients with renal impairment should be closely monitored during dose titration [see Use in Specific Populations (8.7)].

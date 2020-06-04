@@ -2,7 +2,7 @@
 
 Hydromorphone Hydrochloride Oral Solution USP
 
-- •5 mg/5 mL (1 mg/mL) of hydromorphone hydrochloride USP in a clear, red solution.
+- •5 mg/5 mL (1 mg/mL) of hydromorphone hydrochloride, USP in a clear, red solution.
 
 Hydromorphone Hydrochloride Tablets USP
 
