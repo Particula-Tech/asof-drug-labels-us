@@ -40,7 +40,7 @@ Rising Pharmaceuticals, Inc.
 
 Saddle Brook, NJ 07663
 
-Revised: 09/2019
+Revised: 03/2020
 
 INSTRUCTIONS FOR USE
 
@@ -95,4 +95,4 @@ Rising Pharmaceuticals, Inc
 
 Saddle Brook, NJ 07663
 
-Revised: 09/2019
+Revised: 03/2020
