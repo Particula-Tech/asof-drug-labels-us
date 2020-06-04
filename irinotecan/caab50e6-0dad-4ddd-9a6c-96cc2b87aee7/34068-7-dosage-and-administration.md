@@ -31,32 +31,32 @@ All dose modifications should be based on the worst preceding toxicity.
 
 Table 4: Recommended Dose Modifications For Single-Agent Schedulesa
 
-| A new cycle of therapy should not begin until the granulocyte count has recovered to ≥1500/mm3, and the platelet count has recovered to ≥100,000/mm3, and treatment-related diarrhea is fully resolved. Treatment should be delayed 1 to 2 weeks to allow for recovery from treatment-related toxicities. If the patient has not recovered after a 2-week delay, consideration should be given to discontinuing Irinotecan Hydrochloride Injection, USP. |  |  |  |  |
-| --- | --- | --- | --- | --- |
-| Worst Toxicity NCI Gradeb (Value) | During a Cycle of Therapy | At the Start of the Next Cycles of Therapy (After Adequate Recovery), Compared with the Starting Dose in the Previous Cyclea |  |  |
-|  | Weekly | Weekly |  | Once Every 3 Weeks |
-| No toxicity | Maintain dose level | ↑ 25 mg/m2 up to a maximum dose of 150 mg/m2 |  | Maintain dose level |
-| Neutropenia |  |  |  |  |
-| 1 (1500 to 1999/mm3) | Maintain dose level | Maintain dose level |  | Maintain dose level |
-| 2 (1000 to 1499/mm3) | ↓ 25 mg/m2 | Maintain dose level |  | Maintain dose level |
-| 3 (500 to 999/mm3) | Omit dose until resolved to ≤ grade 2, then ↓ 25 mg/m2 | ↓ 25 mg/m2 |  | ↓ 50 mg/m2 |
-| 4 (<500/mm3) | Omit dose until resolved to ≤ grade 2, then ↓ 50 mg/m2 | ↓ 50 mg/m2 |  | ↓ 50 mg/m2 |
-| Neutropenic fever | Omit dose until resolved, then ↓ 50 mg/m2 when resolved | ↓ 50 mg/m2 |  | ↓ 50 mg/m2 |
-| Other hematologic toxicities | Dose modifications for leukopenia, thrombocytopenia, and anemia during a cycle of therapy and at the start of subsequent cycles of therapy are also based on NCI toxicity criteria and are the same as recommended for neutropenia above. |  |  |  |
-| Diarrhea |  |  |  |  |
-| 1 (2 to 3 stools/day > pretxc) | Maintain dose level | Maintain dose level | Maintain dose level |  |
-| 2 (4 to 6 stools/day > pretx) | ↓ 25 mg/m2 | Maintain dose level | Maintain dose level |  |
-| 3 (7 to 9 stools/day > pretx) | Omit dose until resolved to ≤ grade 2, then ↓ 25 mg/m2 | ↓ 25 mg/m2 | ↓ 50 mg/m2 |  |
-| 4 (≥10 stools/day > pretx) | Omit dose until resolved to ≤ grade 2 then ↓ 50 mg/m2 | ↓ 50 mg/m2 | ↓ 50 mg/m2 |  |
-| Other nonhematologicd toxicities |  |  |  |  |
-| 1 | Maintain dose level | Maintain dose level | Maintain dose level |  |
-| 2 | ↓ 25 mg/m2 | ↓ 25 mg/m2 | ↓ 50 mg/m2 |  |
-| 3 | Omit dose until resolved to ≤ grade 2, then ↓ 25 mg/m2 | ↓ 25 mg/m2 | ↓ 50 mg/m2 |  |
-| 4 | Omit dose until resolved to ≤ grade 2, then ↓ 50 mg/m2 | ↓ 50 mg/m2 | ↓ 50 mg/m2 |  |
-| a All dose modifications should be based on the worst preceding toxicity |  |  |  |  |
-| b National Cancer Institute Common Toxicity Criteria (version 1.0) |  |  |  |  |
-| c Pretreatment |  |  |  |  |
-| d Excludes alopecia, anorexia, asthenia |  |  |  |  |
+| A new cycle of therapy should not begin until the granulocyte count has recovered to ≥1500/mm3, and the platelet count has recovered to ≥100,000/mm3, and treatment-related diarrhea is fully resolved. Treatment should be delayed 1 to 2 weeks to allow for recovery from treatment-related toxicities. If the patient has not recovered after a 2-week delay, consideration should be given to discontinuing Irinotecan Hydrochloride Injection, USP. |  |  |  |
+| --- | --- | --- | --- |
+| Worst Toxicity NCI Gradeb (Value) | During a Cycle of Therapy | At the Start of the Next Cycles of Therapy (After Adequate Recovery), Compared with the Starting Dose in the Previous Cyclea |  |
+|  | Weekly | Weekly | Once Every 3 Weeks |
+| No toxicity | Maintain dose level | ↑ 25 mg/m2 up to a maximum dose of 150 mg/m2 | Maintain dose level |
+| Neutropenia |  |  |  |
+| 1 (1500 to 1999/mm3) | Maintain dose level | Maintain dose level | Maintain dose level |
+| 2 (1000 to 1499/mm3) | ↓ 25 mg/m2 | Maintain dose level | Maintain dose level |
+| 3 (500 to 999/mm3) | Omit dose until resolved to ≤ grade 2, then ↓ 25 mg/m2 | ↓ 25 mg/m2 | ↓ 50 mg/m2 |
+| 4 (<500/mm3) | Omit dose until resolved to ≤ grade 2, then ↓ 50 mg/m2 | ↓ 50 mg/m2 | ↓ 50 mg/m2 |
+| Neutropenic fever | Omit dose until resolved, then ↓ 50 mg/m2 when resolved | ↓ 50 mg/m2 | ↓ 50 mg/m2 |
+| Other hematologic toxicities | Dose modifications for leukopenia, thrombocytopenia, and anemia during a cycle of therapy and at the start of subsequent cycles of therapy are also based on NCI toxicity criteria and are the same as recommended for neutropenia above. |  |  |
+| Diarrhea |  |  |  |
+| 1 (2 to 3 stools/day > pretxc) | Maintain dose level | Maintain dose level | Maintain dose level |
+| 2 (4 to 6 stools/day > pretx) | ↓ 25 mg/m2 | Maintain dose level | Maintain dose level |
+| 3 (7 to 9 stools/day > pretx) | Omit dose until resolved to ≤ grade 2, then ↓ 25 mg/m2 | ↓ 25 mg/m2 | ↓ 50 mg/m2 |
+| 4 (≥10 stools/day > pretx) | Omit dose until resolved to ≤ grade 2 then ↓ 50 mg/m2 | ↓ 50 mg/m2 | ↓ 50 mg/m2 |
+| Other nonhematologicd toxicities |  |  |  |
+| 1 | Maintain dose level | Maintain dose level | Maintain dose level |
+| 2 | ↓ 25 mg/m2 | ↓ 25 mg/m2 | ↓ 50 mg/m2 |
+| 3 | Omit dose until resolved to ≤ grade 2, then ↓ 25 mg/m2 | ↓ 25 mg/m2 | ↓ 50 mg/m2 |
+| 4 | Omit dose until resolved to ≤ grade 2, then ↓ 50 mg/m2 | ↓ 50 mg/m2 | ↓ 50 mg/m2 |
+| a All dose modifications should be based on the worst preceding toxicity |  |  |  |
+| b National Cancer Institute Common Toxicity Criteria (version 1.0) |  |  |  |
+| c Pretreatment |  |  |  |
+| d Excludes alopecia, anorexia, asthenia |  |  |  |
 
 ## 2.3 Dosage in Patients with Reduced UGT1A1 Activity
 

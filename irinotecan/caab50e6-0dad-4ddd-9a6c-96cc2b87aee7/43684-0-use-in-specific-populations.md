@@ -2,27 +2,61 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Category D [see Warnings and Precautions (5.9)]
+Risk Summary
+
+Based on findings from animal studies and its mechanism of action, irinotecan hydrochloride injection can cause fetal harm when administered to a pregnant woman [see Clinical Pharmacology (12.1)].
+Available postmarketing and published data reporting the use of irinotecan hydrochloride injection in pregnant women, are insufficient and confounded by the concomitant use of other cytotoxic drugs, to evaluate for any drug-associated risk for major birth defects, miscarriage, or adverse maternal or fetal outcomes.
+In animal studies, intravenous administration of irinotecan to rats and rabbits during the period of organogenesis resulted in embryo-fetal mortality and teratogenicity in pregnant animals at exposures lower than the human exposure based on AUC at the clinical dose of 125 mg/m2 (see Data).
+Advise pregnant women of the potential risk to a fetus.
+
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively.
+
+Data
+
+Animal Data
+
+Radioactivity related to 14C-irinotecan crosses the placenta of rats following intravenous administration.
+Intravenous administration of irinotecan to rats at a dose of 6 mg/kg/day (approximately 0.2 times the clinical exposure (AUC) at the 125 mg/m2 dose based on exposure data from a separate rat study) during the period of organogenesis resulted in increased post-implantation loss and decreased numbers of live fetuses; at doses ≥ 1.2 mg/kg/day (approximately 0.03 times the clinical exposure (AUC) at the 125 mg/m2 dose based on exposure data from a separate rat study) there were increases in a variety of external, visceral, and skeletal abnormalities.
+Administration of irinotecan to pregnant rabbits at a dose of 6 mg/kg (approximately half of the clinical dose of 125 mg/m2 based on BSA) resulted in similar findings to those in rats, with increased post-implantation loss, decreased live fetuses, and increased external, visceral, and skeletal abnormalities.
+
+Irinotecan administered to rat dams for the period following organogenesis through weaning at doses of 6 mg/kg/day caused decreased learning ability and decreased female body weights in the offspring.
+
+## 8.2 Lactation
+
+Risk Summary
+
+Irinotecan and its metabolites are present in human milk.
+There is no information regarding the effects of irinotecan on the breastfed infant, or on milk production.
+Because of the potential for serious adverse reactions from irinotecan hydrochloride injection in the breastfed child, advise lactating women not to breastfeed during treatment with irinotecan hydrochloride injection and for 7 days after the final dose.
+
+## 8.3 Females and Males of Reproductive Potential
+
+Pregnancy Testing
+
+Verify the pregnancy status in female patients of reproductive potential prior to initiating irinotecan hydrochloride injection.
+
+Contraception
 
 Irinotecan hydrochloride injection can cause fetal harm when administered to a pregnant woman.
-Radioactivity related to 14C-irinotecan crosses the placenta of rats following intravenous administration of 10 mg/kg (which in separate studies produced an irinotecan Cmax and AUC about 3 and 0.5 times, respectively, the corresponding values in patients administered 125 mg/m2).
-Intravenous administration of irinotecan 6 mg/kg/day to rats and rabbits during the period of organogenesis resulted in increased post-implantation loss and decreased numbers of live fetuses.
-In separate studies in rats, this dose produced an irinotecan Cmax and AUC of about 2 and 0.2 times, respectively, the corresponding values in patients administered 125 mg/m2.
-In rabbits, the embryotoxic dose was about one-half the recommended human weekly starting dose on a mg/m2 basis.
-Irinotecan was teratogenic in rats at doses greater than 1.2 mg/kg/day and in rabbits at 6.0 mg/kg/day.
-In separate studies in rats, this dose produced an irinotecan Cmax and AUC about 2/3 and 1/40th, respectively, of the corresponding values in patients administered 125 mg/m2.
-In rabbits, the teratogenic dose was about one-half the recommended human weekly starting dose on a mg/m2 basis.
-Teratogenic effects included a variety of external, visceral, and skeletal abnormalities.
-Irinotecan administered to rat dams for the period following organogenesis through weaning at doses of 6 mg/kg/day caused decreased learning ability and decreased female body weights in the offspring.
-There are no adequate and well-controlled studies of irinotecan in pregnant women.
-If this drug is used during pregnancy, or if the patient becomes pregnant while taking this drug, the patient should be apprised of the potential hazard to a fetus.
-Women of childbearing potential should be advised to avoid becoming pregnant while receiving treatment with irinotecan hydrochloride injection.
 
-## 8.3 Nursing Mothers
+Females
 
-Radioactivity appeared in rat milk within 5 minutes of intravenous administration of radiolabeled irinotecan and was concentrated up to 65-fold at 4 hours after administration relative to plasma concentrations.
-It is not known whether this drug is excreted in human milk.
-Because many drugs are excreted in human milk and because of the potential for serious adverse reactions in nursing infants from irinotecan hydrochloride injection, a decision should be made whether to discontinue nursing or discontinue the drug, taking into account the importance of the drug to the mother.
+Advise female patients of reproductive potential to use effective contraception during treatment and for 6 months after the final dose of irinotecan hydrochloride injection [see Use in Specific Populations (8.1) and Nonclinical Toxicology (13.1)].
+
+Males
+
+Due to the potential for genotoxicity, advise male patients with female partners of reproductive potential to use condoms during treatment and for 3 months after the final dose of irinotecan hydrochloride injection [see Nonclinical Toxicology (13.1)].
+
+Infertility
+
+Females
+
+Based on postmarketing reports, female fertility may be impaired by treatment with irinotecan hydrochloride injection.
+Menstrual dysfunction has been reported following irinotecan hydrochloride injection administration.
+
+Males
+
+Based on findings from animal studies, male fertility may be impaired by treatment with irinotecan hydrochloride injection [see Nonclinical Toxicology (13.1)].
 
 ## 8.4 Pediatric Use
 

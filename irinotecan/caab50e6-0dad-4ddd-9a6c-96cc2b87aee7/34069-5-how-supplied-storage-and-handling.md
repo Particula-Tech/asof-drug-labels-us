@@ -14,7 +14,7 @@ Store at 20° to 25°C (68° to 77°F); excursions permitted between 15° and 30
 [See USP Controlled Room Temperature.]
 
 Protect from light and freezing.
-Retain in carton until the time of use.
+Retain in carton until time of use.
 Discard unused portion.
 
 Inspect the vial for damage and visible signs of leaks before removing from the carton.
