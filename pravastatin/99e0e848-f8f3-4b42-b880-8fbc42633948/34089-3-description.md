@@ -13,7 +13,6 @@ Pravastatin sodium, USP is an odorless, white to off-white, fine or crystalline 
 It is a relatively polar hydrophilic compound with a partition coefficient (octanol/water) of 0.59 at a pH of 7.0.
 It is soluble in methanol and water (> 300 mg/mL), slightly soluble in isopropanol, and practically insoluble in acetone, acetonitrile, chloroform, and ether.
 
-Pravastatin sodium tablets USP are available for oral administration as 10 mg, 20 mg, 40 mg, and 80 mg tablets.
-Inactive ingredients include: calcium phosphate dibasic, crospovidone, lactose anhydrous, microcrystalline cellulose, and povidone.
-Additionally, the 10 mg, 20 mg, and 40 mg tablet contains croscarmellose sodium and sodium stearyl fumarate.
-Additionally, the 10 mg tablet contains ferric oxide red; the 20 mg tablet contains ferric oxide yellow; the 40 mg tablet contains FD&C Blue No. 1 Aluminum Lake and Yellow D&C No. 10; and the 80 mg tablet contains magnesium stearate.
+Pravastatin sodium tablets USP are available for oral administration as 10 mg, 20 mg, and 40 mg tablets.
+Inactive ingredients include: calcium phosphate dibasic anhydrous, croscarmellose sodium, crospovidone, lactose anhydrous, microcrystalline cellulose, povidone and sodium stearyl fumarate.
+Additionally, the 10 mg tablet contains ferric oxide red; the 20 mg tablet contains ferric oxide yellow; and the 40 mg tablet contains FD&C Blue No. 1 Aluminum Lake and Yellow D&C No. 10.

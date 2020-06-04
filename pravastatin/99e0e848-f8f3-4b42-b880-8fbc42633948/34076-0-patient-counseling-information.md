@@ -17,8 +17,10 @@ Lactation
 
 Advise women not to breastfeed during treatment with pravastatin sodium [see Contraindications (4.4), Use in Specific Populations (8.2)].
 
-Manufactured In Israel By: Teva Pharmaceutical Ind.
-Ltd. Jerusalem, 9777402, Israel Manufactured For: Teva Pharmaceuticals USA, Inc. North Wales, PA 19454
+Manufactured In Czech Republic By: Teva Czech Industries, s.r.o.
+Opava-Komarov, Czech Republic
+
+Manufactured For: Teva Pharmaceuticals USA, Inc. North Wales, PA 19454
 
 Rev.
-W 8/2016
+X 8/2016

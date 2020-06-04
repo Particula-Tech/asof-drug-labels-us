@@ -7,5 +7,3 @@ Pravastatin sodium tablets USP are supplied as:
 20 mg tablets: Light-yellow, unscored, round tablet, debossed “TEVA” on one side and “7201” on the other side.
 
 40 mg tablets: Light-green, unscored, round tablet, debossed “TEVA” on one side and “7202” on the other side.
-
-80 mg tablets: Off-white to mottled grey, unscored, oval-shaped tablet, debossed “TEVA” on one side and “7270” on the other side.
