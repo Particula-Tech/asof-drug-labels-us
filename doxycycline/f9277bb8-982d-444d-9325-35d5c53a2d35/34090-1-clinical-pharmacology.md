@@ -6,21 +6,35 @@ Doxycycline is a tetracycline-class antimicrobial drug [see Microbiology (12.4)]
 
 ## 12.3 Pharmacokinetics
 
-Absorption
-
 Following administration of a single dose of DORYX MPC under fasting conditions, the AUCinf and Cmax were 26.7 mcg-h/mL and 1.6 mcg/mL, respectively.
 The Tmax was 2.8 hours.
 In a single-dose study to evaluate the relative bioavailability in healthy adult subjects under fasted conditions, DORYX MPC 120 mg Tablets were found to be bioequivalent to Doryx 100 mg Tablets.
 When a single dose of DORYX MPC 120 mg Tablet was administered with a standardized high-fat high-calorie meal, (937kcal consisting of approximately 55% fat, 30% carbohydrate and 15% protein), the Cmax was approximately 30% lower, but there was no significant difference in the AUCinf compared to administration under fasting conditions [see Dosage and Administration (2.1)].
 
-Excretion
+Absorption
+
+Doxycycline is virtually completely absorbed after oral administration.
+
+Elimination
 
 Tetracyclines are concentrated in bile by the liver and excreted in the urine and feces at high concentrations and in a biologically active form.
 Excretion of doxycycline by the kidney is about 40%/72 hours in individuals with a creatinine clearance of about 75 mL/min.
 This percentage may fall as low as 1-5%/72 hours in individuals with a creatinine clearance below 10 mL/min.
 
+Specific Populations
+
+Patients with Renal Impairment
+
 Studies have shown no significant difference in the serum half-life of doxycycline (range 18 to 22 hours) in individuals with normal and severely impaired renal function.
 Hemodialysis does not alter the serum half-life.
+
+Pediatric Patients
+
+Population pharmacokinetic analysis of sparse concentration-time data of doxycycline. following standard of care intravenous and oral dosing in 44 children (2-18 years of age) showed that allometrically-scaled clearance of doxycycline in children ≥2 to ≤8 years of age (median [range] 3.58 [2.27-10.82] L/h/70 kg, N=11) did not differ significantly from children >8 to 18 years of age (3.27 [1.11-8.12] L/h/70 kg, N=33).
+For pediatric patients weighing ≤45 kg, body weight normalized doxycycline CL in those ≥2 to ≤8 years of age (median [range] 0.071 [0.041-0.202] L/kg/h, N=l0) did not differ significantly from those >8 to 18 years of age (0.081 [0.035-0.126] L/kg/h, N=8).
+In pediatric patients weighing >45 kg no clinically significant differences in body weight normalized doxycycline CL were observed between those ≥2 to ≤8 years (0.050 L/kg/h, N=l) and those >8 years of age (0.044 [0.014-0.
+121] L/kg/h, N=25).
+No clinically significant difference in CL differences between oral and IV were observed in the small cohort of pediatric patients who received the oral (N=l9) or IV (N=21) formulation alone.
 
 ## 12.4 Microbiology
 
@@ -45,7 +59,7 @@ Gram-positive Bacteria
 
 Bacillus anthracis Listeria monocytogenes Streptococcus pneumoniae
 
-Anerobic Bacteria
+Anaerobic Bacteria
 
 Clostridium species Fusobacterium fusiforme Propionibacterium acnes
 
@@ -57,5 +71,7 @@ Parasites
 
 Balantidium coli Entamoeba species Plasmodium falciparumDoxycycline has been found to be active against the asexual erythrocytic forms of Plasmodium falciparum but not against the gametocytes of P. falciparum.
 The precise mechanism of action of the drug is not known.
+
+Susceptibility Testing
 
 For specific information regarding susceptibility test interpretive criteria and associated test methods and quality control standards recognized by FDA for this drug, please see: https://www.fda.gov/STIC.
