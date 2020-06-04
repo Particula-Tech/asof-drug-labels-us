@@ -5,7 +5,7 @@
 Cisatracurium besylate has been associated with residual paralysis.
 Patients with neuromuscular diseases (e.g., myasthenia gravis and myasthenic syndrome) and carcinomatosis may be at higher risk of residual paralysis; thus, a lower maximum initial bolus is recommended in these patients [see Dosage and Administration (2.2) and Use in Specific Populations (8.10)].
 To prevent complications resulting from cisatracurium besylate-associated residual paralysis, extubation is recommended only after the patient has recovered sufficiently from neuromuscular blockade.
-Consider use of a reversal agent especially in cases where residual paralysis is more likely to occur[see Overdosage (10)].
+Consider use of a reversal agent especially in cases where residual paralysis is more likely to occur [see Overdosage (10)].
 
 ## 5.2 Risk of Serious Adverse Reactions in Infants due to Benzyl Alcohol Preservative in 10 mL Multiple-Dose Vials
 

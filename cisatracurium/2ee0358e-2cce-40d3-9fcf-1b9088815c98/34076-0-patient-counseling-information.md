@@ -8,4 +8,5 @@ Manufactured in India by Gland Pharma Limited for
 
 Sandoz Inc., Princeton, NJ 08540
 
-Rev: August 2018
+Rev.
+May 2020

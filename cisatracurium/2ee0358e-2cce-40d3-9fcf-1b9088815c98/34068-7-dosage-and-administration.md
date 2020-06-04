@@ -18,7 +18,7 @@ Important administration instructions include:
 Risk of Medication Errors
 
 Accidental administration of neuromuscular blocking agents may be fatal.
-Store cisatracurium besylate injection with the cap and ferrule intact and in a manner that minimizes the possibility of selecting the wrong product [see Warnings and Precautions (5.5)].
+Store cisatracurium besylate injection with the cap and ferrule intact and in a manner that minimizes the possibility of selecting the wrong product [see Warnings andPrecautions (5.5)].
 
 ## 2.2 Recommended Cisatracurium Besylate Injection Dose for Performing Tracheal Intubation
 
@@ -51,7 +51,7 @@ The recommended weight-based bolus dose of cisatracurium besylate injection for 
 When administered during stable opioid/nitrous oxide/oxygen anesthesia, 0.1 mg/kg cisatracurium besylate injection produced maximum neuromuscular blockade in an average of 2.8 minutes (range: 1.8 to 6.7 minutes) with a clinically effective block (time to 25% recovery) for 28 minutes (range: 21 to 38 minutes).
 When administered during stable opioid/nitrous oxide/oxygen anesthesia, 0.15 mg/kg cisatracurium besylate injection produced maximum neuromuscular blockade in an average of about 3 minutes (range: 1.5 to 8 minutes) with a clinically effective block for 36 minutes (range: 29 to 46 minutes) [see Clinical Studies (14.2)].
 
-## 2.3 Recommended Maintenance Bolus Cisatracurium Besylate Doses in Adult Surgical Procedures
+## 2.3 Recommended Maintenance Bolus Cisatracurium Besylate Injection Doses in Adult Surgical Procedures
 
 Determine if maintenance bolus doses are needed based on clinical criteria including the response to peripheral nerve stimulation.
 The recommended maintenance bolus dose of cisatracurium besylate injection is 0.03 mg/kg; however, smaller or larger maintenance doses may be administered based on the required duration of action.

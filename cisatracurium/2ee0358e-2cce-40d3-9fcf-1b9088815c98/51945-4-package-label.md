@@ -8,6 +8,8 @@ Cisatracurium Besylate Injection
 
 (2 mg/mL)
 
+WARNING: Paralyzing Agent
+
 For Intravenous Injection
 
 0.9 % benzyl alcohol
@@ -19,13 +21,5 @@ For Intravenous Injection
 Sterile, Nonpyrogenic
 
 Rx only
-
-WARNING: Paralyzing Agent.
-
-Causes Respiratory Arrest.
-
-Facilities must be immediately
-
-Available for artificial respiration.
 
 Sandoz
