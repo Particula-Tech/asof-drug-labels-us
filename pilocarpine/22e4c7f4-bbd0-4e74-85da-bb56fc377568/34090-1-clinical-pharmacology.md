@@ -4,7 +4,7 @@
 
 Pilocarpine hydrochloride is a direct acting cholinergic parasympathomimetic agent which acts through direct stimulation of muscarinic receptors and smooth muscle such as the iris and secretory glands.
 Pilocarpine contracts the ciliary muscle, causing increased tension on the scleral spur and opening of the trabecular meshwork spaces to facilitate outflow of aqueous humor.
-Outflow resistance is reduced, lowering intraocular pressure (IOP).
+Outflow resistance is reduced, lowering IOP.
 Pilocarpine also produces miosis through contraction of the iris sphincter muscle.
 Miosis relieves appositional angle narrowing and closure, which lowers IOP in certain types of angle-closure glaucoma.
 
