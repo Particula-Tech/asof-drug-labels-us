@@ -61,6 +61,6 @@ Because elderly patients are more likely to have decreased renal function, care 
 Administer gabapentin tablets orally with or without food.
 
 Inform patients that, should they divide the scored 600 mg or 800 mg gabapentin tablet in order to administer a half-tablet, they should take the unused half-tablet as the next dose.
-Half-tablets not used within 28 days of breaking the scored tablet should be discarded.
+Half-tablets not used within 28 days of dividing the scored tablet should be discarded.
 
 If the gabapentin dose is reduced, discontinued, or substituted with an alternative medication, this should be done gradually over a minimum of 1 week (a longer period may be needed at the discretion of the prescriber).

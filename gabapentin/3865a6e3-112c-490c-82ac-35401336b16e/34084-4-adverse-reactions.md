@@ -7,8 +7,9 @@ The following serious adverse reactions are discussed in greater detail in other
 - •Somnolence/Sedation and Dizziness [see Warnings and Precautions (5.4)]
 - •Withdrawal Precipitated Seizure, Status Epilepticus [see Warnings and Precautions (5.5)]
 - •Suicidal Behavior and Ideation [see Warnings and Precautions (5.6)]
-- •Neuropsychiatric Adverse Reactions (Pediatric Patients 3 to 12 Years of Age) [see Warnings and Precautions (5.7)]
-- •Sudden and Unexplained Death in Patients with Epilepsy [see Warnings and Precautions (5.9)]
+- •Respiratory Depression [see Warnings and Precautions (5.7)]
+- •Neuropsychiatric Adverse Reactions (Pediatric Patients 3 to 12 Years of Age) [see Warnings and Precautions (5.8)]
+- •Sudden and Unexplained Death in Patients with Epilepsy [see Warnings and Precautions (5.10)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -18,7 +19,7 @@ Postherpetic Neuralgia
 
 The most common adverse reactions associated with the use of gabapentin in adults, not seen at an equivalent frequency among placebo-treated patients, were dizziness, somnolence, and peripheral edema.
 
-In the 2 controlled trails in postherpetic neuralgia, 16% of the 336 patients who received gabapentin and 9% of the 227 patients who received placebo discontinued treatment because of an adverse reaction.
+In the 2 controlled trials in postherpetic neuralgia, 16% of the 336 patients who received gabapentin and 9% of the 227 patients who received placebo discontinued treatment because of an adverse reaction.
 The adverse reactions that most frequently led to withdrawal in gabapentin-treated patients were dizziness, somnolence, and nausea.
 
 Table 3 lists adverse reactions that occurred in at least 1% of gabapentin-treated patients with postherpetic neuralgia participating in placebo-controlled trials and that were numerically more frequent in the gabapentin group than in the placebo group.
@@ -68,7 +69,7 @@ Epilepsy with Partial Onset Seizures (Adjunctive Therapy)
 
 The most common adverse reactions with gabapentin in combination with other antiepileptic drugs in patients >12 years of age, not seen at an equivalent frequency among placebo-treated patients, were somnolence, dizziness, ataxia, fatigue, and nystagmus.
 
-The most common adverse reactions with gabapentin in combination with other antiepileptic drugs in pediatric patients 3 to 12 years of age, not seen at an equal frequency among placebo-treated patients, were viral infection, fever, nausea and/or vomiting, somnolence, and hostility [see Warnings and Precautions (5.7)].
+The most common adverse reactions with gabapentin in combination with other antiepileptic drugs in pediatric patients 3 to 12 years of age, not seen at an equal frequency among placebo-treated patients, were viral infection, fever, nausea and/or vomiting, somnolence, and hostility [see Warnings and Precautions (5.8)].
 
 Approximately 7% of the 2074 patients >12 years of age and approximately 7% of the 449 pediatric patients 3 to 12 years of age who received gabapentin in premarketing clinical trials discontinued treatment because of an adverse reaction.
 The adverse reactions most commonly associated with withdrawal in patients >12 years of age were somnolence (1.2%), ataxia (0.8%), fatigue (0.6%), nausea and/or vomiting (0.6%), and dizziness (0.6%).
@@ -157,7 +158,7 @@ Other reactions in more than 2% of pediatric patients 3 to 12 years of age but e
 ## 6.2 Postmarketing Experience
 
 The following adverse reactions have been identified during postmarketing use of gabapentin.
-Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 Hepatobiliary disorders: jaundice
 
@@ -173,7 +174,9 @@ Psychiatric disorders: agitation
 
 Reproductive system and breast disorders: breast enlargement, changes in libido, ejaculation disorders and anorgasmia
 
-Skin and subcutaneous tissue disorders: angioedema [see Warnings and Precautions (5.2)], erythema multiforme, Stevens-Johnson syndrome.
+Skin and subcutaneous tissue disorders: angioedema [see Warnings and Precautions (5.2)], bullous pemphigoid, erythema multiforme, Stevens-Johnson syndrome.
+
+There are postmarketing reports of life-threatening or fatal respiratory depression in patients taking gabapentin with opioids or other CNS depressants, or in the setting of underlying respiratory impairment [see Warnings and Precautions (5.7)].
 
 Adverse reactions following the abrupt discontinuation of gabapentin have also been reported.
 The most frequently reported reactions were anxiety, insomnia, nausea, pain, and sweating.

@@ -1,6 +1,6 @@
 # MEDICATION GUIDE
 
-Gabapentin Tablets, USP
+Gabapentin Tablets USP
 
 (gab´´ a pen´ tin)
 
@@ -16,6 +16,10 @@ Gabapentin tablets can cause serious side effects including:
   Suicidal Thoughts.
   Like other antiepileptic drugs, gabapentin tablets may cause suicidal thoughts or actions in a very small number of people, about 1 in 500.
 - Call a healthcare provider right away if you have any of these symptoms, especially if they are new, worse, or worry you:
+- 4.Serious breathing problems.
+  Serious breathing problems can occur when gabapentin tablets are taken with other medicines that can cause severe sleepiness or decreased awareness, or when it is taken by someone who already has breathing problems.
+  Watch for increased sleepiness or decreased breathing when starting gabapentin tablets or when the dose is increased.
+  Get help right away if breathing problems occur.
 
 - •thoughts about suicide or dying
 - •attempts to commit suicide
@@ -58,6 +62,10 @@ Gabapentin tablets can cause serious side effects including:
 - •frequent infections
 - These symptoms may be the first signs of a serious reaction.
   A healthcare provider should examine you to decide if you should continue taking gabapentin tablets.
+- 4.Serious breathing problems.
+  Serious breathing problems can occur when gabapentin tablets are taken with other medicines that can cause severe sleepiness or decreased awareness, or when it is taken by someone who already has breathing problems.
+  Watch for increased sleepiness or decreased breathing when starting gabapentin tablets or when the dose is increased.
+  Get help right away if breathing problems occur.
 
 What are gabapentin tablets?
 
@@ -78,18 +86,22 @@ Before taking gabapentin tablets, tell your healthcare provider if you:
 - •have or have had kidney problems or are on hemodialysis
 - •have or have had depression, mood problems, or suicidal thoughts or behavior
 - •have diabetes
+- •have breathing problems
 - •are pregnant or plan to become pregnant.
   It is not known if gabapentin can harm your unborn baby.
   Tell your healthcare provider right away if you become pregnant while taking gabapentin tablets.
   You and your healthcare provider will decide if you should take gabapentin tablets while you are pregnant.
-- •Pregnancy Registry: If you become pregnant while taking gabapentin tablets, talk to your healthcare provider about registering with the North American Antiepileptic Drug (NAAED) Pregnancy Registry.
+- oPregnancy Registry: If you become pregnant while taking gabapentin tablets, talk to your healthcare provider about registering with the North American Antiepileptic Drug (NAAED) Pregnancy Registry.
   The purpose of this registry is to collect information about the safety of antiepileptic drugs during pregnancy.
   You can enroll in this registry by calling 1-888-233-2334.
-- •are breast-feeding or plan to breast-feed.
+- •are breastfeeding or plan to breastfeed.
   Gabapentin can pass into breast milk.
   You and your healthcare provider should decide how you will feed your baby while you take gabapentin tablets.
 
 Tell your healthcare provider about all the medicines you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements.
+Especially tell your healthcare provider if you take any opioid pain medicine (such as oxycodone), any medicines for anxiety (such as lorazepam) or insomnia (such as zolpidem), or any medicines that make you sleepy.
+
+You may have a higher chance for dizziness, sleepiness, or breathing problems if these medicines are taken with gabapentin tablets.
 
 Taking gabapentin with certain other medicines can cause side effects or affect how well they work.
 Do not start or stop other medicines without talking to your healthcare provider.
@@ -101,8 +113,8 @@ How should I take gabapentin tablets?
 
 - •Take gabapentin tablets exactly as prescribed.
   Your healthcare provider will tell you how much gabapentin to take.
-- •Do not change your dose of gabapentin tablets without talking to your healthcare provider.
-- •If you take gabapentin tablets and break a tablet in half, the unused half of the tablet should be taken at your next scheduled dose.
+- oDo not change your dose of gabapentin tablets without talking to your healthcare provider.
+- oIf you take gabapentin tablets and break a tablet in half, the unused half of the tablet should be taken at your next scheduled dose.
   Half tablets not used within 28 days of breaking should be thrown away.
 - •Gabapentin tablets can be taken with or without food.
   If you take an antacid containing aluminum and magnesium, such as Maalox®, Mylanta®, Gelusil®, Gaviscon®, or Di-Gel®, you should wait at least 2 hours before taking your next dose of gabapentin tablets.
@@ -165,11 +177,11 @@ This Medication Guide summarizes the most important information about gabapentin
 If you would like more information, talk with your healthcare provider.
 You can ask your healthcare provider or pharmacist for information about gabapentin tablets that was written for healthcare professionals.
 
-For more information call 1(888) 721-7115.
+For more information call 1 (888) 721-7115.
 
 What are the ingredients in gabapentin tablets?
 
-Active ingredient: gabapentin USP
+Active ingredient: gabapentin, USP
 
 Inactive ingredients: corn starch, copovidone, poloxamer 407, magnesium stearate, opadry white, polyethylene glycol and talc.
 Additionally, the coating material opadry white contains hypromellose, macrogol, polysorbate 80 and titanium dioxide.
@@ -193,4 +205,4 @@ Glenmark Pharmaceuticals Inc., USA Mahwah, NJ 07430
 Questions?
 1 (888) 721-7115 www.glenmarkpharma-us.com
 
-June 2019
+May 2020
