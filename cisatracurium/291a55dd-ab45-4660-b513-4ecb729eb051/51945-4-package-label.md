@@ -8,6 +8,8 @@ Cisatracurium Besylate Injection
 
 (2 mg/mL)
 
+WARNING: Paralyzing Agent.
+
 For Intravenous Injection
 
 Rx only
@@ -15,12 +17,6 @@ Rx only
 5 mL Single Dose Vial
 
 Sterile, Nonpyrogenic
-
-WARNING: Paralyzing Agent.
-
-Causes Respiratory Arrest.
-
-Facilities must be immediately available for artificial respiration.
 
 SANDOZ
 
@@ -34,6 +30,8 @@ Cisatracurium Besylate Injection
 
 (10 mg/mL)
 
+WARNING: Paralyzing Agent.
+
 For Intravenous Injection
 
 Rx only
@@ -42,14 +40,7 @@ Rx only
 
 Sterile, Nonpyrogenic
 
-WARNING: Paralyzing Agent.
-
-Causes Respiratory Arrest.
-
-Facilities must be immediately available for artificial respiration.
-
-| For ICU use only |
-| --- |
+For ICU use only
 
 Rx only
 

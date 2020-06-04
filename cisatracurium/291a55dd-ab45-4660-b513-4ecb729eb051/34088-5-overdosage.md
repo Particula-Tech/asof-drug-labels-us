@@ -14,7 +14,6 @@ Cholinesterase inhibitors should not be administered when complete neuromuscular
 For providers treating patients treated with cholinesterase inhibitors:
 
 - •Use a peripheral nerve stimulator to evaluate recovery and antagonism of neuromuscular blockade
-- •
 - •Evaluate for evidence of adequate clinical recovery (e.g., 5-second head lift and grip strength).
 - •Support ventilation until adequate spontaneous ventilation has resumed.
 
