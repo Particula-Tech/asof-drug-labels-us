@@ -11,16 +11,17 @@ lotion, for topical use
 Important information: ARAZLO is for use on skin only.
 Do not use ARAZLO in youreyes, mouth, the corners of your nose, or vagina.
 
-1. What is the most important information I should know about ARAZLO?
-2. ARAZLO may cause birth defects if used during pregnancy.
-3. You must not be pregnant when you start using ARAZLO or become pregnant during treatment with ARAZLO.
-4. •For people who are able to get pregnant:
-   - oYour healthcare provider should order a pregnancy test for you within 2 weeks before you begin treatment with ARAZLO to be sure that you are not pregnant.
-     Your healthcare provider will decide when to do the test.
-   - oBegin treatment with ARAZLO during a normal menstrual period.
-   - oUse an effective form of birth control (contraception) during treatment with ARAZLO.
-     Talk with your healthcare provider about birth control options that may be used to prevent pregnancy during treatment with ARAZLO.
-   - oStop using ARAZLO and tell your healthcare provider right away if you become pregnant during treatment with ARAZLO.
+- What is the most important information I should know about ARAZLO?
+- ARAZLO may cause birth defects if used during pregnancy.
+- You must not be pregnant when you start using ARAZLO or become pregnant during treatment with ARAZLO.
+
+1. 1.For people who are able to get pregnant:
+   1. •Your healthcare provider should order a pregnancy test for you within 2 weeks before you begin treatment with ARAZLO to be sure that you are not pregnant.
+      Your healthcare provider will decide when to do the test.
+   2. •Begin treatment with ARAZLO during a normal menstrual period.
+   3. •Use an effective form of birth control (contraception) during treatment with ARAZLO.
+      Talk with your healthcare provider about birth control options that may be used to prevent pregnancy during treatment with ARAZLO.
+   4. •Stop using ARAZLO and tell your healthcare provider right away if you become pregnant during treatment with ARAZLO.
 
 What is ARAZLO?
 

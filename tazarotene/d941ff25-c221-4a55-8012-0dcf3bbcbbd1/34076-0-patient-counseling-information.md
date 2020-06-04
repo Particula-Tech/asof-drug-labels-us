@@ -42,4 +42,4 @@ ARAZLO is a trademark of Bausch Health Companies Inc. or its affiliates.
 
 © 2020 Bausch Health Companies Inc. or its affiliates
 
-1. 9701200
+- 9701200

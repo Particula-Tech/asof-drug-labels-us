@@ -52,7 +52,7 @@ Advise breastfeeding patients not to apply ARAZLO directly to the nipple and are
 
 ## 8.3 Females and Males of Reproductive Potential
 
-1. Pregnancy Testing
+- Pregnancy Testing
 
 Pregnancy testing is recommended for patients of childbearing potential within 2 weeks prior to initiating ARAZLO therapy which should begin during a menstrual period.
 
