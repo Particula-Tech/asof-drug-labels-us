@@ -7,22 +7,13 @@ Injection is available in single-use, ready-to-use flexible plastic infusion bag
 The infusion bags and ports are latex-free.
 The infusion bags are available in the following package sizes:
 
-| 200 mg linezolid in a 100 mL bag (2 mg/mL) | NDC 0009-5137-01 |
-| --- | --- |
 | 200 mg linezolid in a 100 mL bag (2 mg/mL) × 10 | NDC 0009-5137-04 |
-| 600 mg linezolid in a 300 mL bag (2 mg/mL) | NDC 0009-5140-01 |
+| --- | --- |
 | 600 mg linezolid in a 300 mL bag (2 mg/mL) × 10 | NDC 0009-5140-04 |
 
 ## 16.2 Tablets
 
 ZYVOX Tablets are available as follows:
-
-600 mg (white, capsule-shaped, film-coated tablets printed with "ZYVOX 600 mg")
-
-| 100 tablets in HDPE bottle | NDC 0009-5135-01 |
-| --- | --- |
-| 20 tablets in HDPE bottle | NDC 0009-5135-02 |
-| Unit dose packages of 30 tablets | NDC 0009-5135-03 |
 
 600 mg (white, capsule-shaped, film-coated tablets debossed with "ZYV" on one side and "600" on the other)
 
