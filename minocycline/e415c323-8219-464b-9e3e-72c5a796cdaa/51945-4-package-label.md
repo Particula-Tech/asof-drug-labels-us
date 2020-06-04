@@ -10,10 +10,10 @@ Minocin® (minocycline) for injection
 
 Must be reconstituted then diluted.
 For Intravenous Infusion.
-Sterile Single-Use Vials.
+Sterile Single-Dose Vials.
 Discard Unused Portion.
 
-Each vial contains Minocycline hydrochloride (equivalent to 100 mg minocycline), magnesium sulfate heptahydrate and sodium hydroxide (to adjust pH 4.5-5.0).
+Each vial contains minocycline hydrochloride (equivalent to 100 mg minocycline), magnesium sulfate heptahydrate and sodium hydroxide (to adjust pH 4.5-5.0).
 
 Usual adult dose: Initial dose of 200 mg, then 100 mg every 12 hours and should not exceed 400 mg in 24 hours.
 

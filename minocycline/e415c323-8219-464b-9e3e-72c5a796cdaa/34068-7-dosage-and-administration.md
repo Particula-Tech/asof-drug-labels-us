@@ -33,5 +33,5 @@ Parenteral drug products should be inspected visually for particulate matter and
 
 ## Incompatibilities
 
-Additives or other medications should not be added to MINOCIN single-use vials or infused simultaneously through the same intravenous line including Y-connectors.
+Additives or other medications should not be added to MINOCIN single-dose vials or infused simultaneously through the same intravenous line including Y-connectors.
 If the same intravenous line is used for sequential infusion of additional medications, the line should be flushed before and after infusion of MINOCIN with Sodium Chloride Injection USP, Dextrose Injection USP, Dextrose and Sodium Chloride Injection USP, or Lactated Ringer's Injection USP.
