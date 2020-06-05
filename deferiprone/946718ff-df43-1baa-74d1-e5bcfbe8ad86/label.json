@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA212269"
+  ],
+  "inn": "deferiprone",
+  "labeler": "Chiesi USA, Inc.",
+  "package_ndcs": [
+    "10122-104-01"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "deferiprone",
+      "name": "FERRIPROX"
+    }
+  ],
+  "setid": "946718ff-df43-1baa-74d1-e5bcfbe8ad86",
+  "source": "dailymed"
+}
