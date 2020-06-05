@@ -13,4 +13,4 @@ If the patient survives, recovery of multiorgan injury may be accompanied by reb
 Treatment of colchicine poisoning should begin with gastric lavage and measures to prevent shock.
 Otherwise, treatment is symptomatic and supportive.
 No specific antidote is known.
-Colchicine is not effectively removed by dialysis [see Pharmacokinetics (12.3)].
+Colchicine is not effectively removed by dialysis [see Clinical Pharmacology(12.3)].
