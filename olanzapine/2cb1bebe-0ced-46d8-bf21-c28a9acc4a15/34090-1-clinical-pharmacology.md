@@ -7,9 +7,9 @@ However, the efficacy of olanzapine in schizophrenia could be mediated through a
 
 ## 12.2 Pharmacodynamics
 
-Olanzapine binds with high affinity to the following receptors: serotonin 5HT2A/2C, 5HT6 (Ki=4, 11, and 5 nM, respectively), dopamine D1 - 4 (Ki=11 to 31 nM), histamine H1 (Ki=7 nM), and adrenergic α1 receptors (Ki=19 nM).
-Olanzapine is an antagonist with moderate affinity binding for serotonin 5HT3 (Ki=57 nM) and muscarinic M1 - 5 (Ki=73, 96, 132, 32, and 48 nM, respectively).
-Olanzapine binds with low affinity to GABAA, BZD, and β-adrenergic receptors (Ki>10 μM).
+Olanzapine binds with high affinity to the following receptors: serotonin 5HT 2A/2C, 5HT 6 (K i=4, 11, and 5 nM, respectively), dopamine D 1 - 4 (K i=11 to 31 nM), histamine H 1 (K i=7 nM), and adrenergic α 1 receptors (K i=19 nM).
+Olanzapine is an antagonist with moderate affinity binding for serotonin 5HT 3 (K i=57 nM) and muscarinic M 1 - 5 (K i=73, 96, 132, 32, and 48 nM, respectively).
+Olanzapine binds with low affinity to GABA A, BZD, and β-adrenergic receptors (K i>10 μM).
 
 ## 12.3 Pharmacokinetics
 
@@ -24,7 +24,7 @@ Its half-life ranges from 21 to 54 hours (5th to 95th percentile; mean of 30 hr)
 Administration of olanzapine once daily leads to steady-state concentrations in about 1 week that are approximately twice the concentrations after single doses.
 Plasma concentrations, half-life, and clearance of olanzapine may vary between individuals on the basis of smoking status, gender, and age.
 
-Olanzapine is extensively distributed throughout the body, with a volume of distribution of approximately 1,000 L. It is 93% bound to plasma proteins over the concentration range of 7 to 1,100 ng/mL, binding primarily to albumin and α1-acid glycoprotein.
+Olanzapine is extensively distributed throughout the body, with a volume of distribution of approximately 1,000 L. It is 93% bound to plasma proteins over the concentration range of 7 to 1,100 ng/mL, binding primarily to albumin and α 1-acid glycoprotein.
 
 Metabolism and Elimination — Following a single oral dose of 14C labeled olanzapine, 7% of the dose of olanzapine was recovered in the urine as unchanged drug, indicating that olanzapine is highly metabolized.
 Approximately 57% and 30% of the dose was recovered in the urine and feces, respectively.

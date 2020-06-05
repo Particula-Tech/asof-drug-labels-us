@@ -62,7 +62,7 @@ Table 9: Common Treatment-Emergent Adverse Reactions Associated with theUse of O
 | Constipation | 9 | 3 |
 | Weight gain | 6 | 1 |
 | Dizziness | 11 | 4 |
-| Personality disordera | 8 | 4 |
+| Personality disorder a | 8 | 4 |
 | Akathisia | 5 | 1 |
 | a Personality disorder is the COSTART term for designating nonaggressive objectionable behavior. |  |  |
 
@@ -223,8 +223,8 @@ Table 14: Treatment-Emergent Adverse Reactions: Incidence in Short-Term, Placebo
 | Amblyopia | 9 | 5 |
 | Abnormal vision | 2 | 0 |
 | Urogenital System |  |  |
-| Dysmenorrheaa | 2 | 0 |
-| Vaginitisa | 2 | 0 |
+| Dysmenorrhea a | 2 | 0 |
+| Vaginitis a | 2 | 0 |
 | a Denominator used was for females only (olanzapine, N=128; placebo, N=51). |  |  |
 
 For specific information about the adverse reactions observed with lithium or valproate, refer to the Adverse Reactions section of the package inserts for these other products.
@@ -238,8 +238,8 @@ Table 16: Treatment-Emergent Extrapyramidal Symptoms Assessed by Rating Scales I
 |  | Percentage of Patients Reporting Event |  |  |  |
 | --- | --- | --- | --- | --- |
 |  | Placebo | Olanzapine 5 ± 2.5 mg/day | Olanzapine 10 ± 2.5 mg/day | Olanzapine 15 ± 2.5 mg/day |
-| Parkinsonisma | 15 | 14 | 12 | 14 |
-| Akathisiab | 23 | 16 | 19 | 27 |
+| Parkinsonism a | 15 | 14 | 12 | 14 |
+| Akathisia b | 23 | 16 | 19 | 27 |
 | a Percentage of patients with a Simpson-Angus Scale total score >3. |  |  |  |  |
 | b Percentage of patients with a Barnes Akathisia Scale global score ≥2. |  |  |  |  |
 
@@ -250,11 +250,11 @@ Table 17: Treatment-Emergent Extrapyramidal Symptoms Assessed by Adverse Reactio
 |  | Percentage of Patients Reporting Event |  |  |  |
 | --- | --- | --- | --- | --- |
 |  | Placebo (N=68) | Olanzapine 5 ± 2.5 mg/day (N=65) | Olanzapine 10 ± 2.5 mg/day (N=64) | Olanzapine 15 ± 2.5 mg/day (N=69) |
-| Dystonic eventsa | 1 | 3 | 2 | 3 |
-| Parkinsonism eventsb | 10 | 8 | 14 | 20 |
-| Akathisia eventsc | 1 | 5 | 11 | 10 |
-| Dyskinetic eventsd | 4 | 0 | 2 | 1 |
-| Residual eventse | 1 | 2 | 5 | 1 |
+| Dystonic events a | 1 | 3 | 2 | 3 |
+| Parkinsonism events b | 10 | 8 | 14 | 20 |
+| Akathisia events c | 1 | 5 | 11 | 10 |
+| Dyskinetic events d | 4 | 0 | 2 | 1 |
+| Residual events e | 1 | 2 | 5 | 1 |
 | Any extrapyramidal event | 16 | 15 | 25 | 32 |
 | a Patients with the following COSTART terms were counted in this category: dystonia, generalized spasm, neck rigidity, oculogyric crisis, opisthotonos, torticollis. |  |  |  |  |
 | b Patients with the following COSTART terms were counted in this category: akinesia, cogwheel rigidity, extrapyramidal syndrome, hypertonia, hypokinesia, masked facies, tremor. |  |  |  |  |
@@ -268,7 +268,7 @@ Table 18: Treatment-Emergent Extrapyramidal Symptoms Assessed by Adverse Reactio
 
 |  | Percentage of Patients Reporting Event |  |
 | --- | --- | --- |
-| Categoriesa | Placebo (N=89) | Olanzapine (N=179) |
+| Categories a | Placebo (N=89) | Olanzapine (N=179) |
 | Dystonic events | 0 | 1 |
 | Parkinsonism events | 2 | 1 |
 | Akathisia events | 4 | 6 |
@@ -290,7 +290,7 @@ Following is a list of treatment-emergent adverse reactions reported by patients
 This listing is not intended to include reactions (1) already listed in previous tables or elsewhere in labeling, (2) for which a drug cause was remote, (3) which were so general as to be uninformative, (4) which were not considered to have significant clinical implications, or (5) which occurred at a rate equal to or less than placebo.
 Reactions are classified by body system using the following definitions: frequent adverse reactions are those occurring in at least 1/100 patients; infrequent adverse reactions are those occurring in 1/100 to 1/1,000 patients; rare reactions are those occurring in fewer than 1/1,000 patients.
 
-Body as a Whole — Infrequent: chills, face edema, photosensitivity reaction, suicide attempt1; Rare: chills and fever, hangover effect, sudden death1.
+Body as a Whole — Infrequent: chills, face edema, photosensitivity reaction, suicide attempt 1; Rare: chills and fever, hangover effect, sudden death 1.
 
 Cardiovascular System — Infrequent: cerebrovascular accident, vasodilatation.
 
@@ -308,9 +308,9 @@ Respiratory System — Infrequent: epistaxis; Rare: lung edema.
 
 Skin and Appendages — Infrequent: alopecia.
 
-Special Senses —Infrequent: abnormality of accommodation, dry eyes; Rare: mydriasis.
+Special Senses — Infrequent: abnormality of accommodation, dry eyes; Rare: mydriasis.
 
-Urogenital System — Infrequent: amenorrhea2, breast pain, decreased menstruation, impotence2, increased menstruation2, menorrhagia2, metrorrhagia2, polyuria2, urinary frequency, urinary retention, urinary urgency, urination impaired.
+Urogenital System — Infrequent: amenorrhea 2, breast pain, decreased menstruation, impotence 2, increased menstruation 2, menorrhagia 2, metrorrhagia 2, polyuria 2, urinary frequency, urinary retention, urinary urgency, urination impaired.
 
 1 These terms represent serious adverse events but do not meet the definition for adverse drug reactions.
 They are included here because of their seriousness.
@@ -329,12 +329,12 @@ Table 21: Treatment-Emergent Adverse Reactions of ≥5% Incidence among Adolesce
 | --- | --- | --- | --- | --- |
 |  | 6 Week Trial % Schizophrenia Patients |  | 3 Week Trial % Bipolar Patients |  |
 | Adverse Reactions | Olanzapine (N=72) | Placebo (N=35) | Olanzapine (N=107) | Placebo (N=54) |
-| Sedationa | 39 | 9 | 48 | 9 |
+| Sedation a | 39 | 9 | 48 | 9 |
 | Weight increased | 31 | 9 | 29 | 4 |
 | Headache | 17 | 6 | 17 | 17 |
 | Increased appetite | 17 | 9 | 29 | 4 |
 | Dizziness | 8 | 3 | 7 | 2 |
-| Abdominal painb | 6 | 3 | 6 | 7 |
+| Abdominal pain b | 6 | 3 | 6 | 7 |
 | Pain in extremity | 6 | 3 | 5 | 0 |
 | Fatigue | 3 | 3 | 14 | 6 |
 | Dry mouth | 4 | 0 | 7 | 0 |
@@ -350,7 +350,7 @@ Table 22: Treatment-Emergent Adverse Reactions of ≥2% Incidence among Adolesce
 | Percentage of Patients Reporting Event |  |  |
 | --- | --- | --- |
 | Adverse Reaction | Olanzapine (N=179) | Placebo (N=89) |
-| Sedationa | 44 | 9 |
+| Sedation a | 44 | 9 |
 | Weight increased | 30 | 6 |
 | Increased appetite | 24 | 6 |
 | Headache | 17 | 12 |
@@ -362,10 +362,10 @@ Table 22: Treatment-Emergent Adverse Reactions of ≥2% Incidence among Adolesce
 | Nasopharyngitis | 4 | 2 |
 | Diarrhea | 3 | 0 |
 | Restlessness | 3 | 2 |
-| Liver enzymes increasedb | 8 | 1 |
+| Liver enzymes increased b | 8 | 1 |
 | Dyspepsia | 3 | 1 |
 | Epistaxis | 3 | 0 |
-| Respiratory tract infectionc | 3 | 2 |
+| Respiratory tract infection c | 3 | 2 |
 | Sinusitis | 3 | 0 |
 | Arthralgia | 2 | 0 |
 | Musculoskeletal stiffness | 2 | 0 |
@@ -412,7 +412,7 @@ This increase in heart rate may be related to olanzapine's potential for inducin
 The following adverse reactions have been identified during post-approval use of olanzapine.
 Because these reactions are reported voluntarily from a population of uncertain size, it is difficult to reliably estimate their frequency or evaluate a causal relationship to drug exposure.
 
-Adverse reactions reported since market introduction that were temporally (but not necessarily causally) related to olanzapine therapy include the following: allergic reaction (e.g., anaphylactoid reaction, angioedema, pruritus or urticaria), cholestatic or mixed liver injury, diabetic coma, diabetic ketoacidosis, discontinuation reaction (diaphoresis, nausea or vomiting), Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS), hepatitis, jaundice, neutropenia, pancreatitis, priapism, rash, restless legs syndrome, rhabdomyolysis, stuttering1and venous thromboembolic events (including pulmonary embolism and deep venous thrombosis).
+Adverse reactions reported since market introduction that were temporally (but not necessarily causally) related to olanzapine therapy include the following: allergic reaction (e.g., anaphylactoid reaction, angioedema, pruritus or urticaria), cholestatic or mixed liver injury, diabetic coma, diabetic ketoacidosis, discontinuation reaction (diaphoresis, nausea or vomiting), Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS), hepatitis, jaundice, neutropenia, pancreatitis, priapism, rash, restless legs syndrome, rhabdomyolysis, salivary hypersecretion, stuttering 1and venous thromboembolic events (including pulmonary embolism and deep venous thrombosis).
 Random cholesterol levels of ≥240 mg/dL and random triglyceride levels of ≥1,000 mg/dL have been reported.
 
 1Stuttering was only studied in oral formulations.

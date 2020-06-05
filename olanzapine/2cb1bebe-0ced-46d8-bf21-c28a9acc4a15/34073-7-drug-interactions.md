@@ -4,7 +4,7 @@ The risks of using olanzapine in combination with other drugs have not been exte
 
 ## 7.1 Potential for Other Drugs to Affect Olanzapine
 
-Diazepam — The co-administration of diazepam with olanzapine potentiated the orthostatic hypotension observed with olanzapine [see Drug Interactions (7.2)].
+Diazepam— The co-administration of diazepam with olanzapine potentiated the orthostatic hypotension observed with olanzapine [see Drug Interactions (7.2)].
 
 Cimetidine and Antacids — Single doses of cimetidine (800 mg) or aluminum- and magnesium-containing antacids did not affect the oral bioavailability of olanzapine.
 
@@ -18,7 +18,7 @@ The co-administration of alcohol (i.e., ethanol) with olanzapine potentiated the
 Inhibitors of CYP1A2
 
 Fluvoxamine: Fluvoxamine, a CYP1A2 inhibitor, decreases the clearance of olanzapine.
-This results in a mean increase in olanzapine Cmax following fluvoxamine of 54% in female nonsmokers and 77% in male smokers.
+This results in a mean increase in olanzapine C max following fluvoxamine of 54% in female nonsmokers and 77% in male smokers.
 The mean increase in olanzapine AUC is 52% and 108%, respectively.
 Lower doses of olanzapine should be considered in patients receiving concomitant treatment with fluvoxamine.
 
@@ -32,8 +32,11 @@ Warfarin — Warfarin (20 mg single dose) did not affect olanzapine pharmacokine
 
 Inducers of CYP1A2 or Glucuronyl Transferase — Omeprazole and rifampin may cause an increase in olanzapine clearance.
 
-Charcoal — The administration of activated charcoal (1 g) reduced the Cmax and AUC of oral olanzapine by about 60%.
+Charcoal — The administration of activated charcoal (1 g) reduced the C max and AUC of oral olanzapine by about 60%.
 As peak olanzapine levels are not typically obtained until about 6 hours after dosing, charcoal may be a useful treatment for olanzapine overdose.
+
+Anticholinergic Drugs — Concomitant treatment with olanzapine and other drugs with anticholinergic activity can increase the risk for severe gastrointestinal adverse reactions related to hypomotility.
+Olanzapine should be used with caution in patients receiving medications having anticholinergic (antimuscarinic) effects [see Warnings and Precautions (5.14)].
 
 ## 7.2 Potential for Olanzapine to Affect Other Drugs
 
