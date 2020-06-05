@@ -18,10 +18,12 @@ The median age was 64 years (range 26-93 years); 54% were < 65 years of age; 63%
 Baseline WHO performance status was 0 (41%) or 1 (59%); 5% had Stage IIIb and 95% had Stage IV; and 7% received prior systemic cytotoxic chemotherapy as neoadjuvant or adjuvant therapy.
 With regard to EGFR tumor testing, 63% were exon 19 deletion and 37% were exon 21 L858R; 5 patients (<1%) also had a concomitant de novo T790M mutation.
 EGFR mutation status was confirmed centrally using the cobas EGFR Mutation Test in 90% of patients.
-Of those randomized to investigator’s choice of erlotinib or gefitinib, 55 patients (20%) received TAGRISSO as the next line of antineoplastic therapy.
+At the time of the final data cut-off, of those randomized to TAGRISSO and to investigator’s choice erlotinib or gefitinib arm, 133 (47.7%) and 180 (65.0%) patients had received at least one subsequent treatment, respectively.
+Out of the 180 patients randomized to erlotinib or gefitinib who received subsequent treatment, 85 (47.2%) patients received TAGRISSO as first subsequent therapy.
 
 FLAURA demonstrated a statistically significant improvement in PFS for patients randomized to TAGRISSO as compared to erlotinib or gefitinib (see Table 6 and Figure 1).
-Overall survival data were not mature at the time of the final PFS analysis.
+The final analysis of overall survival demonstrated a statistically significant improvement in overall survival in patients randomized to TAGRISSO compared to erlotinib or gefitinib.
+(see Table 6 and Figure 2).
 
 Table 6.
 Efficacy Results in FLAURA according to Investigator Assessment
@@ -35,6 +37,11 @@ Efficacy Results in FLAURA according to Investigator Assessment
 | Median PFS in months (95% CI) | 18.9 (15.2, 21.4) | 10.2 (9.6, 11.1) |
 | Hazard Ratio (95% CI)Stratified by ethnicity (Asian vs. non-Asian) and mutation status (Ex19del vs. L858R)Pike estimator | 0.46 (0.37, 0.57) |  |
 | p-valueStratified log-rank test | P < 0.0001 |  |
+| Overall Survival (OS) |  |  |
+| Number of deaths (58% maturity) | 155 (56) | 166 (60) |
+| Median OS in months (95% CI) | 38.6 (34.5, 41.8) | 31.8 (26.6, 36.0) |
+| HR (95.05% CI) | 0.799 (0.641, 0.997) |  |
+| p-value | P=0.0462 |  |
 | Overall Response Rate (ORR)Confirmed responses |  |  |
 | ORR, % (95% CI) | 77 (71, 82) | 69 (63, 74) |
 | Complete response, % | 2% | 1% |
@@ -46,6 +53,9 @@ Figure 1.
 Kaplan-Meier Curves of PFS by Investigator Assessment in FLAURA
 
 In a supportive analysis of PFS according to blinded independent central review, median PFS was 17.7 months in the TAGRISSO arm compared to 9.7 months in the EGFR TKI comparator arm (HR=0.45; 95% CI: 0.36, 0.57).
+
+Figure 2.
+Kaplan-Meier Curves of Overall Survival in FLAURA
 
 Of 556 patients, 200 patients (36%) had baseline brain scans reviewed by BICR; this included 106 patients in the TAGRISSO arm and 94 patients in the investigator choice of EGFR TKI arm.
 Of these 200 patients, 41 had measurable CNS lesions per RECIST v1.1.
@@ -83,7 +93,7 @@ The baseline demographic and disease characteristics of the overall trial popula
 Fifty-four percent (54%) of patients had extra-thoracic visceral metastases, including 34% with central nervous system (CNS) metastases (including 11% with measurable CNS metastases) and 23% with liver metastases.
 Forty-two percent (42%) of patients had metastatic bone disease.
 
-In AURA3, there was a statistically significant improvement in PFS in the patients randomized to TAGRISSO compared to chemotherapy (see Table 8 and Figure 2).
+In AURA3, there was a statistically significant improvement in PFS in the patients randomized to TAGRISSO compared to chemotherapy (See Table 8 and Figure 3).
 Overall survival data were not mature at the time of the PFS analysis.
 
 Table 8.
@@ -98,7 +108,7 @@ Efficacy Results According to Investigator Assessment in AURA3
 | Median PFS in months (95% CI) | 10.1 (8.3, 12.3) | 4.4 (4.2, 5.6) |
 | Hazard Ratio (95% CI)Stratified by ethnicity (Asian vs. non-Asian)Pike estimator | 0.30 (0.23,0.41) |  |
 | P-valueStratified log-rank test | <0.001 |  |
-| Overall Response Rate |  |  |
+| Overall Response RateConfirmed |  |  |
 | Overall Response Rate | 65% | 29% |
 | (95% CI) | (59%, 70%) | (21%, 37%) |
 | Complete response | 1% | 1% |
@@ -107,7 +117,7 @@ Efficacy Results According to Investigator Assessment in AURA3
 | Duration of Response (DoR) |  |  |
 | Median Duration of Response in months (95% CI) | 11.0 (8.6, 12.6) | 4.2 (3.0, 5.9) |
 
-Figure 2.
+Figure 3.
 Kaplan-Meier Curves of PFS by Investigator Assessment in AURA3
 
 In a supportive analysis of PFS according to blinded independent central review, median PFS was 11 months in the TAGRISSO arm compared to 4.2 months in the chemotherapy arm (HR 0.28; 95% CI: 0.20, 0.38).

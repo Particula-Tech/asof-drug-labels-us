@@ -69,4 +69,5 @@ There is no recommended dose of TAGRISSO for patients with end-stage renal disea
 
 ## 8.7 Hepatic Impairment
 
-No dose adjustment is recommended in patients with mild to moderate hepatic impairment (Child-Pugh A and B or total bilirubin ≤ ULN and AST > ULN or total bilirubin 1 to 3 times ULN and any AST).There is no recommended dose for TAGRISSO for patients with severe hepatic impairment (total bilirubin between 3 to 10 times ULN and any AST) [see Clinical Pharmacology (12.3)].
+No dose adjustment is recommended in patients with mild to moderate hepatic impairment (Child-Pugh A and B or total bilirubin ≤ ULN and AST > ULN or total bilirubin 1 to 3 times ULN and any AST).
+There is no recommended dose for TAGRISSO for patients with severe hepatic impairment (total bilirubin between 3 to 10 times ULN and any AST) [see Clinical Pharmacology (12.3)].

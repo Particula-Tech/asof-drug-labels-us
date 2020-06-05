@@ -4,7 +4,7 @@ NDC 0310-1349-30 30 Tablets
 
 Tagrisso®
 
-osimertinib
+(osimertinib) tablets
 
 40 mg per tablets
 
@@ -18,7 +18,7 @@ NDC 0310-1350-30 30 Tablets
 
 Tagrisso®
 
-osimertinib
+(osimertinib) tablets
 
 80 mg per tablets
 

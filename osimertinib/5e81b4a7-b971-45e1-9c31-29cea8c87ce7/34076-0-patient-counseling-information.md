@@ -4,13 +4,15 @@ Advise the patient to read the FDA-approved patient labeling (Patient Informatio
 
 Interstitial Lung Disease/Pneumonitis
 
-- •Inform patients of the risks of severe or fatal ILD, including pneumonitis.
-  Advise patients to contact their healthcare provider immediately to report new or worsening respiratory symptoms [see Warnings and Precautions (5.1)].
+- 
+  - •Inform patients of the risks of severe or fatal ILD, including pneumonitis.
+    Advise patients to contact their healthcare provider immediately to report new or worsening respiratory symptoms [see Warnings and Precautions (5.1)].
 
 QTc Interval Prolongation
 
-- •Inform patients of symptoms that may be indicative of significant QTc prolongation including dizziness, lightheadedness, and syncope.
-  Advise patients to report these symptoms and to inform their physician about the use of any heart or blood pressure medications [see Warnings and Precautions (5.2)].
+- 
+  - •Inform patients of symptoms that may be indicative of significant QTc prolongation including dizziness, lightheadedness, and syncope.
+    Advise patients to report these symptoms and to inform their physician about the use of any heart or blood pressure medications [see Warnings and Precautions (5.2)].
 
 Cardiomyopathy
 
@@ -20,10 +22,11 @@ Cardiomyopathy
 Keratitis
 
 - •Advise patients to contact their healthcare provider immediately if they develop eye symptoms (eye inflammation, lacrimation, light sensitivity, eye pain, red eye or changes in vision) [see Warnings and Precautions (5.4)].
-- Erythema multiforme and Stevens-Johnson syndrome
+
+Erythema multiforme and Stevens-Johnson syndrome
+
 - •Inform patients of signs and symptoms that may be indicative of EM or SJS.
-  Advise patients to contact their healthcare provider immediately if they develop target lesions or severe blistering or peeling of skin.
-  [see Warnings and Precautions (5.5)].
+  Advise patients to contact their healthcare provider immediately if they develop target lesions or severe blistering or peeling of skin [see Warnings and Precautions (5.5)].
 
 Embryo-Fetal Toxicity
 
@@ -37,10 +40,10 @@ Females and Males of Reproductive Potential
 
 Lactation
 
-- •Advise women not to breastfeed during treatment with TAGRISSO and for 2 weeks after the final dose [see Use in Specific Populations (8.2)].
+Advise women not to breastfeed during treatment with TAGRISSO and for 2 weeks after the final dose [see Use in Specific Populations (8.2)].
 
 Distributed by: AstraZeneca Pharmaceuticals LP Wilmington, DE 19850
 
 TAGRISSO is a registered trademark of the AstraZeneca group of companies.
 
-©AstraZeneca 2019
+©AstraZeneca 2020
