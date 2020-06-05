@@ -572,6 +572,84 @@ Table 17: Laboratory Abnormalities Worsening from Baseline Occurring in ≥20% o
 | Increased TSH | 21 | NA | 7 | NA |
 | Each test incidence is based on the number of patients who had both baseline and at least one on-study laboratory measurement available: TECENTRIQ (range: 181-193); Placebo (range: 181-196). Graded per NCI CTCAE v4.0 |  |  |  |  |
 
+Hepatocellular Carcinoma (HCC)
+
+The safety of TECENTRIQ in combination with bevacizumab was evaluated in IMbrave150, a multicenter, international, randomized, open-label trial in patients with locally advanced or metastatic or unresectable hepatocelullar carcinoma who have not received prior systemic treatment [see Clinical Studies (14.5)].
+Patients received 1,200 mg of TECENTRIQ intravenously followed by 15 mg/kg bevacizumab (n=329) every 3 weeks, or 400 mg of sorafenib (n=156) given orally twice daily, until disease progression or unacceptable toxicity.
+The median duration of exposure to TECENTRIQ was 7.4 months (range: 0-16 months) and to bevacizumab was 6.9 months (range: 0-16 months).
+
+Fatal adverse reactions occurred in 4.6% of patients in the TECENTRIQ and bevacizumab arm.
+The most common adverse reactions leading to death were gastrointestinal and esophageal varices hemorrhage (1.2%) and infections (1.2%).
+
+Serious adverse reactions occurred in 38% of patients in the TECENTRIQ and bevacizumab arm.
+The most frequent serious adverse reactions (≥ 2%) were gastrointestinal hemorrhage (7%), infections (6%), and pyrexia (2.1%).
+
+Adverse reactions leading to discontinuation of TECENTRIQ occurred in 9% of patients in the TECENTRIQ and bevacizumab arm.
+The most common adverse reactions leading to TECENTRIQ discontinuation were hemorrhages (1.2%), including gastrointestinal, subarachnoid, and pulmonary hemorrhages; increased transaminases or bilirubin (1.2%); infusion-related reaction/cytokine release syndrome (0.9%); and autoimmune hepatitis (0.6%).
+
+Adverse reactions leading to interruption of TECENTRIQ occurred in 41% of patients in the TECENTRIQ and bevacizumab arm; the most common (≥ 2%) were liver function laboratory abnormalities including increased transaminases, bilirubin, or alkaline phosphatate (8%); infections (6%); gastrointestinal hemorrhages (3.6%); thrombocytopenia/decreased platelet count (3.6%); hyperthyroidism (2.7%); and pyrexia (2.1%).
+
+Immune-related adverse reactions requiring systemic corticosteroid therapy occurred in 12% of patients in the TECENTRIQ and bevacizumab arm.
+
+Tables 18 and 19 summarize adverse reactions and laboratory abnormalities, respectively, in patients who received TECENTRIQ and bevacizumab in IMbrave150.
+
+Table 18: Adverse Reactions Occurring in ≥10% of Patients with HCC Receiving TECENTRIQ in IMbrave150
+
+| All GradesIncludes fatigue and asthenia (%) | Grades 3–4 (%) | All Grades (%) | Grades 3–4 (%) |  |
+| --- | --- | --- | --- | --- |
+| Adverse Reaction | TECENTRIQ in combination with bevacizumab (n = 329) |  | Sorafenib (n=156) |  |
+| Vascular Disorders |  |  |  |  |
+| Hypertension | 30 | 15 | 24 | 12 |
+| General Disorders and Administration Site Conditions |  |  |  |  |
+| Fatigue/asthenia | 26 | 2 | 32 | 6 |
+| Pyrexia | 18 | 0 | 10 | 0 |
+| Renal and Urinary Disorders |  |  |  |  |
+| Proteinuria | 20 | 3 | 7 | 0.6 |
+| Investigations |  |  |  |  |
+| Weight Decreased | 11 | 0 | 10 | 0 |
+| Skin and Subcutaneous Tissue Disorders |  |  |  |  |
+| Pruritus | 19 | 0 | 10 | 0 |
+| Rash | 12 | 0 | 17 | 2.6 |
+| Gastrointestinal Disorders |  |  |  |  |
+| Diarrhea | 19 | 1.8 | 49 | 5 |
+| Constipation | 13 | 0 | 14 | 0 |
+| Abdominal Pain | 12 | 0 | 17 | 0 |
+| Nausea | 12 | 0 | 16 | 0 |
+| Vomiting | 10 | 0 | 8 | 0 |
+| Metabolism and Nutrition Disorders |  |  |  |  |
+| Decreased Appetite | 18 | 1.2 | 24 | 3.8 |
+| Respiratory, Thoracic and Mediastinal Disorders |  |  |  |  |
+| Cough | 12 | 0 | 10 | 0 |
+| Epistaxis | 10 | 0 | 4.5 | 0 |
+| Injury, Poisoning and Procedural Complications |  |  |  |  |
+| Infusion Related Reaction | 11 | 2.4 | 0 | 0 |
+| 2 Graded per NCI CTCAE v4.0 |  |  |  |  |
+
+Table 19: Laboratory Abnormalities Worsening from Baseline Occurring in ≥20% of Patients with HCC Receiving TECENTRIQ in IMbrave150
+
+| All GradesGraded per NCI CTCAE v4.0 (%) | Grades 3–4 (%) | All Grades (%) | Grades 3–4 (%) |  |
+| --- | --- | --- | --- | --- |
+| Laboratory Abnormality | TECENTRIQ in combination with bevacizumab (n=329) |  | Sorafenib (n=156) |  |
+| Chemistry |  |  |  |  |
+| Increased AST | 86 | 16 | 90 | 16 |
+| Increased Alkaline Phosphatase | 70 | 4 | 76 | 4.6 |
+| Increased ALT | 62 | 8 | 70 | 4.6 |
+| Decreased Albumin | 60 | 1.5 | 54 | 0.7 |
+| Decreased Sodium | 54 | 13 | 49 | 9 |
+| Increased Glucose | 48 | 9 | 43 | 4.6 |
+| Decreased Calcium | 30 | 0.3 | 35 | 1.3 |
+| Decreased Phosphorus | 26 | 4.7 | 58 | 16 |
+| Increased Potassium | 23 | 1.9 | 16 | 2 |
+| Hypomagnesemia | 22 | 0 | 22 | 0 |
+| Hematology |  |  |  |  |
+| Decreased Platelet | 68 | 7 | 63 | 4.6 |
+| Decreased Lymphocytes | 62 | 13 | 58 | 11 |
+| Decreased Hemoglobin | 58 | 3.1 | 62 | 3.9 |
+| Increased Bilirubin | 57 | 8 | 59 | 14 |
+| Decreased Leukocyte | 32 | 3.4 | 29 | 1.3 |
+| Decreased Neutrophil | 23 | 2.3 | 16 | 1.1 |
+| Each test incidence is based on the number of patients who had both baseline and at least one on-study laboratory measurement available: TECENTRIQ plus bevacizumab (222-323) and sorafenib (90-153) NA = Not applicable. |  |  |  |  |
+
 ## 6.2 Immunogenicity
 
 As with all therapeutic proteins, there is a potential for immunogenicity.
@@ -600,4 +678,10 @@ Among 434 patients with TNBC in IMpassion130, 13% tested positive for treatment-
 Among 178 patients in PD-L1 positive subgroup with TNBC in IMpassion130, 12% tested positive for treatment-emergent ADA at one or more post-dose time points.
 Patients who tested positive for treatment-emergent ADA had decreased systemic atezolizumab exposure [see Clinical Pharmacology (12.3)].
 There are insufficient numbers of patients in the PD-L1 positive subgroup with ADA to determine whether ADA alters the efficacy of atezolizumab.
+The presence of ADA did not have a clinically significant effect on the incidence or severity of adverse reactions.
+
+Among 315 ADA-evaluable patients with HCC who received TECENTRIQ and bevacizumab in IMbrave150, 28% (n=88) tested positive for treatment-emergent ADA at one or more post-dose time points and 66% (58/88) of these 88 patients tested ADA-positive prior to receiving the third dose of TECENTRIQ.
+The ability of these binding ADA to neutralize atezolizumab is unknown.
+Patients who tested positive for treatment-emergent ADA had lower systemic atezolizumab exposure as compared to patients who were ADA-negative [see Clinical Pharmacology (12.3)].
+Exploratory analyses showed that the subset of patients who were ADA-positive by week 6 (20%; 58/288) appeared to have less efficacy (effect on overall survival) as compared to patients who tested negative for treatment-emergent ADA by week 6; [see Clinical Studies (14.5)].
 The presence of ADA did not have a clinically significant effect on the incidence or severity of adverse reactions.

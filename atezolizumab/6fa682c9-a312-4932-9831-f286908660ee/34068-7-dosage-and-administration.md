@@ -81,7 +81,23 @@ administered intravenously until disease progression or unacceptable toxicity.
 Administer the initial infusion of TECENTRIQ over 60 minutes.
 If the first infusion is tolerated, all subsequent infusions may be delivered over 30 minutes.
 
-## 2.6 Dosage Modifications for Adverse Reactions
+## 2.6 Recommended Dosage for HCC
+
+The recommended dosage of TECENTRIQ is 1,200 mg administered as an intravenous infusion over 60 minutes, followed by 15 mg/kg of bevacizumab on the same day, every 3 weeks until disease progression or unacceptable toxicity.
+
+Refer to the Prescribing Information for bevacizumab prior to initiation.
+
+If bevacizumab is discontinued for toxicity, the recommended dosage of TECENTRIQ is:
+
+- 840 mg every 2 weeks or
+- 1,200 mg every 3 weeks or
+- 1,680 mg every 4 weeks
+
+administered intravenously until disease progression or unacceptable toxicity.
+
+If the first infusion of TECENTRIQ is tolerated, all subsequent infusions may be delivered over 30 minutes
+
+## 2.7 Dosage Modifications for Adverse Reactions
 
 No dose reductions of TECENTRIQ are recommended.
 Recommendations for dosage modifications are provided in Table 1.
@@ -92,8 +108,10 @@ Table 1: Recommended Dosage Modifications for Adverse Reactions
 | --- | --- | --- |
 | Pneumonitis [see Warnings and Precautions (5.1)] | Grade 2 | Withhold dose until Grade 1 or resolved and corticosteroid dose is less than or equal to prednisone 10 mg per day (or equivalent) |
 | Grade 3 or 4 | Permanently discontinue |  |
-| Hepatitis [see Warnings and Precautions (5.2)] | AST or ALT more than 3 and up to 8 times the upper limit of normal or total bilirubin more than 1.5 and up to 3 times the upper limit of normal | Withhold dose until Grade 1 or resolved and corticosteroid dose is less than or equal to prednisone 10 mg per day (or equivalent) |
-| AST or ALT more than 8 times the upper limit of normal or total bilirubin more than 3 times the upper limit of normal | Permanently discontinue |  |
+| Hepatitis in patients with cancers other than HCCHCC: Hepatocellular Carcinoma [see Warnings and Precautions (5.2)] | AST or ALT more than 3 and up to 8 times the upper limit of normal (ULN) or total bilirubin more than 1.5 and up to 3 times the upper limit of normal (ULN) | Withhold dose until Grade 1 or resolved and corticosteroid dose is less than or equal to prednisone 10 mg per day (or equivalent) |
+| AST or ALT more than 8 times the upper limit of normal (ULN) or total bilirubin more than 3 times the upper limit of normal (ULN) | Permanently discontinue |  |
+| Hepatitis in patients with HCC [see Warnings and Precautions (5.2)] | AST or ALT is within normal limits at baseline and increases to more than 3 and up to 10 times the ULNAST or ALT is more than 1 and up to 3 times ULN at baseline and increases to more than 5 and up to 10 times the ULNAST or ALT is more than 3 and up to 5 times ULN at baseline and increases to more than 8 and up to 10 times the ULN | Withhold dose until Grade 1 or resolved and corticosteroid dose is less than or equal to prednisone 10 mg per day (or equivalent) |
+| AST or ALT increases to more than 10 times the ULN or total bilirubin increases to more than 3 times the ULN | Permanently discontinue |  |
 | Colitis or diarrhea [see Warnings and Precautions (5.3)] | Grade 2 or 3 | Withhold dose until Grade 1 or resolved and corticosteroid dose is less than or equal to prednisone 10 mg per day (or equivalent) |
 | Grade 4 | Permanently discontinue |  |
 | Endocrinopathies (including but not limited to hypophysitis, adrenal insufficiency, hyperthyroidism, and type 1 diabetes mellitus) [see Warnings and Precautions (5.4)] | Grade 2, 3, or 4 | Withhold dose until Grade 1 or resolved and clinically stable on hormone replacement therapy. |
@@ -106,7 +124,7 @@ Table 1: Recommended Dosage Modifications for Adverse Reactions
 | Inability to taper corticosteroid | Inability to reduce to less than or equal to prednisone 10 mg per day (or equivalent) within 12 weeks after last TECENTRIQ dose | Permanently discontinue |
 | Recurrent Grade 3 or 4 adverse reaction | Recurrent Grade 3 or 4 (severe or life-threatening) adverse reaction | Permanently discontinue |
 
-## 2.7 Preparation and Administration
+## 2.8 Preparation and Administration
 
 Preparation
 

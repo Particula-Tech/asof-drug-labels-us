@@ -6,7 +6,7 @@ TECENTRIQ can cause immune-mediated pneumonitis or interstitial lung disease, de
 Monitor patients for signs and symptoms of pneumonitis.
 Evaluate patients with suspected pneumonitis with radiographic imaging.
 Administer corticosteroids, prednisone 1–2 mg/kg/day or equivalents, followed by a taper for Grade 2 or higher pneumonitis.
-Withhold or permanently discontinue TECENTRIQ based on the severity [see Dosage and Administration (2.6)].
+Withhold or permanently discontinue TECENTRIQ based on the severity [see Dosage and Administration (2.7)].
 
 In clinical studies enrolling 2616 patients with various cancers who received TECENTRIQ as a single-agent [see Adverse Reactions (6.1)], pneumonitis occurred in 2.5% of patients, including Grade 3 (0.6%), Grade 4 (0.1%), and Grade 5 (< 0.1%) immune-mediated pneumonitis.
 The median time to onset of pneumonitis was 3.6 months (3 days to 20.5 months) and median duration of pneumonitis was 1.4 months (1 day to 15.1 months).
@@ -23,7 +23,7 @@ TECENTRIQ can cause liver test abnormalities and immune-mediated hepatitis, defi
 Fatal cases have been reported.
 Monitor patients for signs and symptoms of hepatitis, during and after discontinuation of TECENTRIQ, including clinical chemistry monitoring.
 Administer corticosteroids, prednisone 1–2 mg/kg/day or equivalents, followed by a taper for Grade 2 or higher elevations of ALT, AST and/or total bilirubin.
-Interrupt or permanently discontinue TECENTRIQ based on the severity [see Dosage and Administration (2.6)].
+Interrupt or permanently discontinue TECENTRIQ based on the severity [see Dosage and Administration (2.7)].
 
 In clinical studies enrolling 2616 patients with various cancers who received TECENTRIQ as a single-agent [see Adverse Reactions (6.1)], hepatitis occurred in 9% of patients, including Grade 3 (2.3%), Grade 4 (0.6%), and Grade 5 (< 0.1%).
 The median time to onset of hepatitis was 1.4 months (1 day to 25.8 months) and median duration was 24 days (1 day to 13 months).
@@ -57,7 +57,7 @@ TECENTRIQ can cause immune-mediated endocrinopathies, including thyroid disorder
 
 Thyroid Disorders: Monitor thyroid function prior to and periodically during treatment with TECENTRIQ.
 Initiate hormone replacement therapy or medical management of hyperthyroidism as clinically indicated.
-Continue TECENTRIQ for hypothyroidism and interrupt for hyperthyroidism based on the severity [see Dosage and Administration (2.6)].
+Continue TECENTRIQ for hypothyroidism and interrupt for hyperthyroidism based on the severity [see Dosage and Administration (2.7)].
 
 In clinical studies enrolling 2616 patients who received TECENTRIQ as a single-agent [see Adverse Reactions (6.1)], hypothyroidism occurred in 4.6% of patients, and 3.8% of patients required the use of hormone replacement therapy.
 Hyperthyroidism occurred in 1.6% of patients.
@@ -68,7 +68,7 @@ The frequency and severity of hyperthyroidism and thyroiditis were similar wheth
 
 Adrenal Insufficiency: Monitor patients for clinical signs and symptoms of adrenal insufficiency.
 For Grade 2 or higher adrenal insufficiency, initiate prednisone 1to 2 mg/kg/day or equivalents, followed by a taper and hormone replacement as clinically indicated.
-Interrupt TECENTRIQ based on the severity [see Dosage and Administration (2.6)].
+Interrupt TECENTRIQ based on the severity [see Dosage and Administration (2.7)].
 
 In clinical studies enrolling 2616 patients who received TECENTRIQ as a single-agent, adrenal insufficiency occurred in 0.4% of patients, including Grade 3 (< 0.1%) adrenal insufficiency.
 Median time to onset was 5.7 months (3 days to 19 months).
@@ -79,14 +79,14 @@ The frequency and severity of adrenal insufficiency were similar whether TECENTR
 
 Type 1 Diabetes Mellitus: Monitor patients for hyperglycemia or other signs and symptoms of diabetes.
 Initiate treatment with insulin as clinically indicated.
-Interrupt TECENTRIQ based on the severity [see Dosage and Administration (2.6)].
+Interrupt TECENTRIQ based on the severity [see Dosage and Administration (2.7)].
 
 In clinical studies enrolling 2616 patients who received TECENTRIQ as a single-agent, type 1 diabetes mellitus occurred in < 0.1% of patients.
 Insulin was required in one patient.
 The frequency and severity of diabetes mellitus were similar whether TECENTRIQ was given as a single-agent in patients with various cancers or in combination with other antineoplastic drugs in NSCLC and SCLC.
 
 Hypophysitis: For Grade 2 or higher hypophysitis, initiate prednisone 1–2 mg/kg/day or equivalents, followed by a taper and hormone replacement therapy as clinically indicated.
-Interrupt TECENTRIQ based on the severity [see Dosage and Administration (2.6)].
+Interrupt TECENTRIQ based on the severity [see Dosage and Administration (2.7)].
 
 In clinical studies enrolling 2616 patients who received TECENTRIQ as a single-agent, Grade 2 hypophysitis occurred in < 0.1% of patients.
 The frequency and severity of hypophysitis were similar whether TECENTRIQ was given as a single-agent in patients with various cancers or in combination with other antineoplastic drugs in NSCLC and SCLC.
@@ -129,7 +129,7 @@ Vascular: vasculitis
 
 TECENTRIQ can cause severe infections including fatal cases.
 Monitor patients for signs and symptoms of infection.
-For Grade 3 or higher infections, withhold TECENTRIQ and resume once clinically stable [see Dosage and Administration (2.6) and Adverse Reactions (6.1)].
+For Grade 3 or higher infections, withhold TECENTRIQ and resume once clinically stable [see Dosage and Administration (2.7) and Adverse Reactions (6.1)].
 
 In clinical studies enrolling 2616 patients with various cancers who received TECENTRIQ as a single-agent [see Adverse Reactions (6.1)], infections occurred in 42% of patients, including Grade 3 (8.7%), Grade 4 (1.5%), and Grade 5 (1%).
 In patients with urothelial carcinoma, the most common Grade 3 or higher infection was urinary tract infections, occurring in 6.5% of patients.
@@ -140,7 +140,7 @@ The frequency and severity of infections were similar whether TECENTRIQ was give
 
 TECENTRIQ can cause severe or life-threatening infusion-related reactions.
 Monitor for signs and symptoms of infusion-related reactions.
-Interrupt, slow the rate of, or permanently discontinue TECENTRIQ based on the severity [see Dosage and Administration (2.6)].
+Interrupt, slow the rate of, or permanently discontinue TECENTRIQ based on the severity [see Dosage and Administration (2.7)].
 For Grade 1 or 2 infusion-related reactions, consider using pre-medications with subsequent doses.
 
 In clinical studies enrolling 2616 patients with various cancers who received TECENTRIQ as a single-agent [see Adverse Reactions (6.1)], infusion-related reactions occurred in 1.3% of patients, including Grade 3 (0.2%).

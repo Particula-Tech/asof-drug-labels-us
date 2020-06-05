@@ -28,3 +28,7 @@ Continued approval for this indication may be contingent upon verification and d
 ## 1.4 Small Cell Lung Cancer
 
 TECENTRIQ, in combination with carboplatin and etoposide, is indicated for the first-line treatment of adult patients with extensive-stage small cell lung cancer (ES-SCLC).
+
+## 1.5 Hepatocellular Carcinoma
+
+TECENTRIQ, in combination with bevacizumab, is indicated for the treatment of patients with unresectable or metastatic hepatocellular carcinoma (HCC) who have not received prior systemic therapy.
