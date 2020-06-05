@@ -223,4 +223,4 @@ This Medication Guide has been approved by the U.S. Food and Drug Administration
 
 Manufactured by AbbVie Inc., North Chicago, IL 60064, USA or by Fresenius Kabi Norge AS, 1788 Halden, Norway For AbbVie Inc. North Chicago, IL 60064, USA
 
-© 2019-2020 AbbVie Inc. 03-C123 Revised: December 2019
+© 2019-2020 AbbVie Inc. 03-C123 Revised: May 2020
