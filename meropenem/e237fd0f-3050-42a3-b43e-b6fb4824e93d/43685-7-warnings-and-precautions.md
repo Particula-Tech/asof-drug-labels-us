@@ -18,9 +18,9 @@ Close adherence to the recommended dosage regimens is urged, especially in patie
 Continue anti-convulsant therapy in patients with known seizure disorders.
 If focal tremors, myoclonus, or seizures occur, evaluate neurologically, place on anti-convulsant therapy if not already instituted, and reexamine the dosage of VABOMERE to determine whether it should be decreased or discontinued.
 
-## 5.3 Clostridium difficile-associated Diarrhea
+## 5.3 Clostridioides difficile-associated Diarrhea
 
-Clostridium difficile-associated diarrhea (CDAD) has been reported with use of nearly all antibacterial agents, including VABOMERE, and may range in severity from mild diarrhea to fatal colitis.
+Clostridioides difficile-associated diarrhea (CDAD) has been reported with use of nearly all antibacterial agents, including VABOMERE, and may range in severity from mild diarrhea to fatal colitis.
 Treatment with antibacterial agents alters the normal flora of the colon leading to overgrowth of C. difficile.
 
 C. difficile produces toxins A and B which contribute to the development of CDAD.

@@ -4,7 +4,7 @@ The following adverse reactions are discussed in greater detail in the Warnings 
 
 - Hypersensitivity Reactions [see Warnings and Precautions (5.1)]
 - Seizure Potential [see Warnings and Precautions (5.2)]
-- Clostridium difficile-associated Diarrhea [see Warnings and Precautions (5.3)]
+- Clostridioides difficile-associated Diarrhea [see Warnings and Precautions (5.3)]
 - Risk of Breakthrough Seizures Due to Drug Interaction with Valproic Acid [see Warnings and Precautions (5.4)]
 - Thrombocytopenia [see Warnings and Precautions (5.5)]
 - Potential for Neuromotor Impairment [see Warnings and Precautions (5.6)]

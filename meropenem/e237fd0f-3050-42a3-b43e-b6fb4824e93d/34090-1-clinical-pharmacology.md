@@ -9,6 +9,10 @@ VABOMERE is an antibacterial drug [see Microbiology (12.4)].
 Similar to other beta-lactam antibacterial drugs, the percentage of time of a dosing interval that unbound plasma concentration of meropenem exceeds the meropenem-vaborbactam minimum inhibitory concentration (MIC) against the infecting organism has been shown to best correlate with efficacy in animal and in vitro models of infection.
 The ratio of the 24-hour unbound plasma vaborbactam AUC to meropenem-vaborbactam MIC is the index that best predicts efficacy of vaborbactam in combination with meropenem in animal and in vitro models of infection.
 
+Cardiac Electrophysiology
+
+At a dose of 1 and 3 times the maximum approved recommended dose, Vabomere (meropenem and vaborbactam) does not prolong the QT interval to any clinically relevant extent.
+
 ## 12.3 Pharmacokinetics
 
 Pharmacokinetic (PK) Parameters
