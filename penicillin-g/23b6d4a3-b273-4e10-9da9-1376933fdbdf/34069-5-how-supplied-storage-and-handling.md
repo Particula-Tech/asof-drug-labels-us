@@ -7,3 +7,11 @@ Penicillin G Sodium for injection, USP, for IM or IV use, is supplied in dry pow
 Store dry powder at 20° to 25°C (68° to 77°F) (see USP Controlled Room Temperature).
 
 Sterile constituted solution may be kept in refrigerator (2° to 8°C) for 3 days without significant loss of potency.
+
+Manufactured by Sandoz GmbH for
+
+Sandoz Inc., Princeton, NJ 08540
+
+46270951
+
+May 2020

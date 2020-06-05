@@ -75,8 +75,6 @@ No long-term animal studies have been conducted with this drug.
 
 ### Teratogenic Effects
 
-#### Pregnancy Category B
-
 Reproduction studies performed in the mouse, rat, and rabbit have revealed no evidence of impaired fertility or harm to the fetus due to penicillin G. Human experience with the penicillins during pregnancy has not shown any positive evidence of adverse effects on the fetus.
 There are, however, no adequate and well controlled studies in pregnant women showing conclusively that harmful effects of these drugs on the fetus can be excluded.
 Because animal reproduction studies are not always predictive of human response, this drug should be used during pregnancy only if clearly needed.
