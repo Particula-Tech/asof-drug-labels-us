@@ -64,17 +64,17 @@ If patients are taking or have recently completed treatment with drugs listed in
 ## 2.5 Dose Modification in Renal Impairment
 
 Colchicine dosing must be individualized according to the patient's renal function [see Use in Specific Populations (8.6)].
-Cl cr in mL/minute may be estimated from serum creatinine (mg/dL) determination using the following formula: [140-age (years) X weight (kg)]
+Cl cr in mL/minute may be estimated from serum creatinine (mg/dL) determination using the following formula:
 
-Cl Cr = __________________________ X 0.85 for female patients 72 X serum creatinine (mg/dL)
+FMF
 
-FMF Caution should be taken in dosing patients with moderate and severe renal impairment and in patients undergoing dialysis.
+Caution should be taken in dosing patients with moderate and severe renal impairment and in patients undergoing dialysis.
 For these patients, the dosage should be reduced [see Clinical Pharmacology (12.3)].Patients with mild (Cl cr 50 to 80 mL/min) and moderate (Cl cr 30 to 50 mL/min) renal impairment should be monitored closely for adverse effects of colchicine tablets.
 Dose reduction may be necessary.
 For patients with severe renal failure (Cl cr less than 30 mL/min), start with 0.3 mg/day; any increase in dose should be done with adequate monitoring of the patient for adverse effects of colchicine [see Use in Specific Populations (8.6)].
 For patients undergoing dialysis, the total recommended starting dose should be 0.3 mg (half tablet) per day.
 Dosing can be increased with close monitoring.
-Any increase in dose should be done with adequate monitoring of the patient for adverse effects of colchicine [see Clinical Pharmacology (12.3) and Use in Specific Populations(8.6)].
+Any increase in dose should be done with adequate monitoring of the patient for adverse effects of colchicine [see Clinical Pharmacology (12.3), Use in Specific Populations(8.6)].
 
 ## 2.6 Dose Modification in Hepatic Impairment
 

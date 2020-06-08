@@ -1,7 +1,5 @@
 # MEDICATION GUIDE
 
-MEDICATION GUIDE
-
 Colchicine (KOL-chi-seen) Tablets, for oral use
 
 Read the Medication Guide that comes with colchicine tablets before you start taking it and each time you get a refill.
@@ -11,8 +9,6 @@ You and your healthcare provider should talk about colchicine tablets when you s
 What is the most important information that I should know about colchicine tablets?
 Colchicine tablets can cause serious side effects or death if levels of colchicine are too high in your body. • Taking certain medicines with colchicine tablets can cause your level of colchicine to be too high, especially if you have kidney or liver problems. • Tell your healthcare provider about all your medical conditions, including if you have kidney or liver problems.
 Your dose of colchicine tablets may need to be changed. • Tell your healthcare provider about all the medicines you take, including prescription and nonprescription medicines, vitamins and herbal supplements. • Even medicines that you take for a short period of time, such as antibiotics, can interact with colchicine tablets and cause serious side effects or death. • Talk to your healthcare provider or pharmacist before taking any new medicine. • Especially tell your healthcare provider if you take:
-
-• atazanavir sulfate (Reyataz) • clarithromycin (Biaxin)
 
 | atazanavir sulfate (Reyataz) | clarithromycin (Biaxin) |
 | --- | --- |
@@ -58,7 +54,7 @@ Before you take colchicine tablets, tell your healthcare provider about all your
 - are a male with a female partner who can become pregnant.
   Receiving treatment with colchicine tablets may be related to infertility in some men that is reversible when treatment is stopped.
 - are breastfeeding or plan to breastfeed. colchicine passes into your breast milk.
-  You and your healthcare provider should decide if you will take colchicine tablets or breastfeed.
+  You and your healthcare provider should decide if you will take colchicine tablets while breastfeed.
   If you take colchicine tablets and breastfeed, you should talk to your child’s healthcare provider about how to watch for side effects in your child.
 
 Tell your healthcare provider about all the medicines you take, including ones that you may only be taking for a short time, such as antibiotics.

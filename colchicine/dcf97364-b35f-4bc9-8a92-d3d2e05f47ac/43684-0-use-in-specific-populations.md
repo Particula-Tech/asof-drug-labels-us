@@ -31,7 +31,7 @@ Infertility
 Case reports and epidemiology studies in human male subjects on colchicine therapy indicated that infertility from colchicine is rare and may be reversible.
 A case report indicated that azoospermia was reversed when therapy was stopped.
 Case reports and epidemiology studies in female subjects on colchicine therapy have not established a clear relationship between colchicine use and female infertility.
-However, since the progression of FMF without treatment may result in infertility, the use of colchicine needs to be weighed against the potential risks [see Nonclinical Toxicology (13.1)]
+However, since the progression of FMF without treatment may result in infertility, the use of colchicine needs to be weighed against the potential risks [see Nonclinical Toxicology (13.1)].
 
 ## 8.4 Pediatric Use
 
@@ -41,7 +41,7 @@ There does not appear to be an adverse effect on growth in children with FMF tre
 ## 8.5 Geriatric Use
 
 Clinical studies with colchicine for treatment of FMF did not include sufficient numbers of patients aged 65 years and older to determine whether they respond differently from younger patients.
-In general, dose selection for an elderly patient should be cautious, reflecting the greater frequency of decreased renal function, concomitant disease or other drug therapy [see Dosage and Administration (2.4), Clinical Pharmacology (12.3)
+In general, dose selection for an elderly patient should be cautious, reflecting the greater frequency of decreased renal function, concomitant disease or other drug therapy [see Dosage and Administration (2.4), Clinical Pharmacology (12.3).
 
 ## 8.6 Renal Impairment
 
@@ -52,11 +52,9 @@ Total body clearance of colchicine was reduced by 75% in patients with end-stage
 FMF Although, pharmacokinetics of colchicine in patients with mild (Clcr 50 to 80 mL/min) and moderate (Clcr 30 to 50 mL/min) renal impairment is not known, these patients should be monitored closely for adverse effects of colchicine.
 Dose reduction may be necessary.
 In patients with severe renal failure (Clcr less than 30 mL/min) and end-stage renal disease requiring dialysis, colchicine may be started at the dose of 0.3 mg/day.
-Any increase in dose should be done with adequate monitoring of the patient for adverse effects of colchicine [see Clinical Pharmacology (12.3) and Dosage and Administration (2.5)].
+Any increase in dose should be done with adequate monitoring of the patient for adverse effects of colchicine [see Clinical Pharmacology (12.3), Dosage and Administration (2.5)].
 
 ## 8.7 Hepatic Impairment
 
 The clearance of colchicine may be significantly reduced and plasma half-life prolonged in patients with chronic hepatic impairment compared to healthy subjects [see Clinical Pharmacology(12.3].
-FMF In patients with severe hepatic disease, dose reduction should be considered with careful monitoring
-
-[see Clinical Pharmacology(12.3) and Dosage and Administration (2.6)].
+FMF In patients with severe hepatic disease, dose reduction should be considered with careful monitoring [see Clinical Pharmacology(12.3), Dosage and Administration (2.6)].
