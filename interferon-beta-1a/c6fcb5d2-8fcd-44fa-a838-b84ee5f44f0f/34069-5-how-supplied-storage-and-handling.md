@@ -4,12 +4,9 @@ REBIF is supplied as a sterile solution containing no preservative available in 
 
 Prefilled Syringes:
 
-- REBIF (interferon beta -1a) Titration Pack, NDC 44087-8822-1
-  - -Six REBIF 8.8 mcg prefilled syringes and Six REBIF 22 mcg prefilled syringes
-- REBIF (interferon beta -1a) 22 mcg Prefilled syringe
-  - -Twelve REBIF 22 mcg prefilled syringes, NDC 44087-0022-3
-- REBIF (interferon beta -1a) 44 mcg Prefilled syringe
-  - -Twelve REBIF 44 mcg prefilled syringes, NDC 44087-0044-3
+- REBIF (interferon beta -1a) Titration Pack, NDC 44087-8822-1 - Six REBIF 8.8 mcg prefilled syringes and Six REBIF 22 mcg prefilled syringes
+- REBIF (interferon beta -1a) 22 mcg Prefilled syringe - Twelve REBIF 22 mcg prefilled syringes, NDC 44087-0022-3
+- REBIF (interferon beta -1a) 44 mcg Prefilled syringe - Twelve REBIF 44 mcg prefilled syringes, NDC 44087-0044-3
 
 REBIF Rebidose Autoinjectors:
 

@@ -21,9 +21,9 @@ Differences between the 22 mcg and 44 mcg groups were not significant (p >0.05).
 
 Table 4: Clinical and MRI Endpoints from Study 1
 
-|  | Placebo | REBIF 22 mcg | REBIF 44 mcg |
-| --- | --- | --- | --- |
 | n = 187 | n = 189 | n = 184 |  |
+| --- | --- | --- | --- |
+|  | Placebo | REBIF 22 mcg | REBIF 44 mcg |
 | Exacerbation-related |  |  |  |
 | Mean number of exacerbations per patient over 2 yearsIntent-to-treat analysis,Poisson regression model adjusted for center and time on study | 2.56 | 1.82p<0.001 compared to placebo | 1.73p<0.0001 compared to placebo |
 | (Percent reduction) |  | (29%) | (32%) |
@@ -61,4 +61,5 @@ Table 5: Clinical and MRI Results from Study 2
 | Relapses | N=339 | N=338 |  |  |
 | Proportion of patients relapse-free at 24 weeksLogistic regression model adjusted for treatment and center, intent to treat analysis | 75%p <0.001 (REBIF compared to AVONEX) | 63% | 12% (95% CI: 5%, 19%) | 0.68 (95% CI: 0.54, 0.86) |
 | Proportion of patients relapse-free at 48 weeks | 62%p = 0.009 (REBIF compared to AVONEX) | 52% | 10% (95% CI: 2%, 17%) | 0.81 (95% CI: 0.68, 0.96) |
-| MRI (through 24 weeks) Median of the mean number of combined unique MRI lesions per patient per scanNonparametric ANCOVA model adjusted for treatment and center, with baseline combined unique lesions as the single covariate (25th, 75th percentiles) | N=325 0.17 (0.00, 0.67) | N=325 0.33 (0.00, 1.25) |  |  |
+| MRI (through 24 weeks) | N=325 | N=325 |  |  |
+| Median of the mean number of combined unique MRI lesions per patient per scanNonparametric ANCOVA model adjusted for treatment and center, with baseline combined unique lesions as the single covariate (25th, 75th percentiles) | 0.17 (0.00, 0.67) | 0.33 (0.00, 1.25) |  |  |

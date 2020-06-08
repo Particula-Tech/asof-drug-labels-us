@@ -1,4 +1,4 @@
-Instructions for Use REBIF (Re-bif) interferon beta-1a (in-ter-feer-on beta-one-â) Injection for subcutaneous use Prefilled Syringe
+# Instructions for Use REBIF (Re-bif) interferon beta-1a (in-ter-feer-on beta-one-â) Injection for subcutaneous use Prefilled Syringe
 
 Read and follow the Instructions for Use that come with your REBIF prefilled syringe before you start using it and each time you get a refill.
 Before you use a REBIF prefilled syringe for the first time, make sure your healthcare provider shows you the right way to use it.
@@ -71,7 +71,6 @@ Choose and Prepare your Injection Site
 - Do not use the area near your waistline or within 2 inches of your navel.
   If you are very thin, use only the thigh or outer surface of the arm for injection.
 - Use a different site each time you inject such as the thigh, hip, stomach or upper arm (See Figure C).
-
 - Do not inject REBIF into an area of your body where the skin is irritated, reddened, bruised, infected or abnormal in any way.
 - Wash your hands thoroughly with antibacterial soap before preparing to inject the medicine.
 - Clean the injection site with an alcohol pad or cotton ball with rubbing alcohol using a circular motion.
@@ -83,11 +82,8 @@ Inject your REBIF
 - Remove the needle cap from the syringe needle.
 - If your healthcare provider has told you to use less than the full 0.5 mL dose, slowly push the plunger in until the amount of medicine left in the syringe is the amount healthcare provider told you to use.
 - Use your thumb and forefinger to pinch a pad of skin surrounding the cleaned injection site (See Figure D). Hold the syringe like a pencil with your other hand.
-
 - While still pinching the skin, quickly insert the needle like a dart at about a 90 degree angle (just under the skin) into the pad of tissue as shown (See Figure E).
-
 - After the needle is in, remove the hand that you used to pinch your skin and inject the medicine using a slow, steady push on the plunger until all the medicine is injected and the syringe is empty (See Figure F).
-
 - Withdraw the needle and apply gentle pressure to the injection site with a dry cotton ball or sterile gauze.
   Applying a cold compress or ice pack to the injection site after injection may help reduce local skin reactions.
 - Put a small adhesive bandage strip over the injection site, if desired.
@@ -381,3 +377,16 @@ You may find it helpful to record information about your 3 weekly injections (In
 | Inj. 1 |  |  | Yes | No |
 | Inj. 2 |  |  | Yes | No |
 | Inj. 3 |  |  | Yes | No |
+
+This Instructions for Use has been approved by the Food and Drug Administration.
+
+Version: December 2015 Manufacturer: EMD Serono, Inc. Rockland, MA 02730 U.S. Lic.
+1773 MS LifeLines: 1-877-447-3243
+
+EMD Serono
+
+N67Z0105C
+
+EMD Serono, Inc. is an affiliate of Merck KGaA, Darmstadt, Germany
+
+EMD

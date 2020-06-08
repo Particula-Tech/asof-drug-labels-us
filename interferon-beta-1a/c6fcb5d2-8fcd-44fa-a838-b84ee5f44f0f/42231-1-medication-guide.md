@@ -1,4 +1,6 @@
-MEDICATION GUIDE REBIF interferon beta-1a Injection for subcutaneous use
+# MEDICATION GUIDE
+
+REBIF interferon beta-1a Injection for subcutaneous use
 
 Read this Medication Guide before you start using REBIF and each time you get a refill.
 There may be new information.
@@ -14,22 +16,23 @@ Tell your healthcare provider right away if you have any of the symptoms listed 
    - depression (feeling hopeless or feeling bad about yourself)
    - thoughts of hurting yourself or suicide
 2. 2.Liver problems or worsening of liver problems including liver failure.
-   Symptoms may include: nausealoss of appetitetirednessdark colored urine and pale stools yellowing of your skin or the white part of your eyebleeding more easily than normal confusionsleepiness During your treatment with REBIF you will need to see your healthcare provider regularly and have regular blood tests to check for side effects.
-3. 3.Serious allergic and skin reactions.
-   Symptoms may include:
-   - itching
-   - swelling of your face, eyes, lips, tongue or throat
-   - trouble breathing
-   - anxiousness
-   - feeling faint
-   - skin rash, hives, sores in your mouth, or skin blisters and peels
-4. 4.Injection site problems.
-   Symptoms at the injection site may include:
-   - redness
-   - pain
-   - swelling
-   - color changes (blue or black)
-   - drainage of fluid
+   Symptoms may include: nausealoss of appetitetirednessdark colored urine and pale stools yellowing of your skin or the white part of your eyebleeding more easily than normalconfusionsleepiness During your treatment with REBIF you will need to see your healthcare provider regularly and have regular blood tests to check for side effects.
+
+- 3.Serious allergic and skin reactions.
+  Symptoms may include:
+  - itching
+  - swelling of your face, eyes, lips, tongue or throat
+  - trouble breathing
+  - anxiousness
+  - feeling faint
+  - skin rash, hives, sores in your mouth, or skin blisters and peels
+- 4.Injection site problems.
+  Symptoms at the injection site may include:
+  - redness
+  - pain
+  - swelling
+  - color changes (blue or black)
+  - drainage of fluid
 
 What is REBIF?
 
@@ -57,12 +60,10 @@ Before you take REBIF, tell your healthcare provider if have or have had any of 
 - thyroid problems
 - drink alcohol
 - you are pregnant or plan to become pregnant.
-  (It is not known if REBIF will harm your unborn baby.
-  Tell your healthcare provider if you become pregnant during your treatment with REBIF.)
+  It is not known if REBIF can harm your unborn baby.
 - you are breastfeeding or plan to breastfeed.
-  (It is not known if REBIF passes into your breast milk.
-  You and your healthcare provider should decide if you will use REBIF or breastfeed.
-  You should not do both.)
+  REBIF may pass into your breastmilk.
+  Talk with your healthcare provider about the best way to feed your baby if you take REBIF.
 
 Tell your healthcare provider about all medicines you take, including prescription and over-the-counter medicines, vitamins and herbal supplements.
 
@@ -84,15 +85,15 @@ How should I use REBIF?
 - Inject REBIF exactly as your healthcare provider tells you.
 - Your healthcare provider will tell you how much REBIF to inject, and may change the dose based on how your body responds.
   Do not inject more than your healthcare provider tells you to.
-- Do not change your dose unless your healthcare provider tells you to.Your healthcare provider will decide which is best for you.
+- Do not change your dose unless your healthcare provider tells you to.
+- Change (rotate) your injection site you choose with each injection.
+  This will help decrease the chance that you will have an injection site reaction.
+- Do not inject REBIF into an area of the body where the skin is irritated, reddened, bruised, infected or scarred in any way.
+- REBIF comes as a:Your healthcare provider will decide which is best for you.
   Always use a new, unopened, prefilled syringe of REBIF or REBIF Rebidose autoinjector for each injection.
   Do not reuse prefilled syringes or REBIF Rebidose autoinjectors.
-  - Change (rotate) your injection site you choose with each injection.
-    This will help decrease the chance that you will have an injection site reaction.
-  - Do not inject REBIF into an area of the body where the skin is irritated, reddened, bruised, infected or scarred in any way.
-  - REBIF comes as a:
-    - prefilled syringe (REBIF)
-    - single-use prefilled autoinjector (REBIF Rebidose autoinjector)
+  - prefilled syringe (REBIF)
+  - single-use prefilled autoinjector (REBIF Rebidose autoinjector)
 
 What are the possible side effects of REBIF?
 
@@ -133,7 +134,7 @@ How should I store REBIF?
 
 - Store REBIF in the refrigerator between 36°F to 46°F (2°C to 8°C).
 - Do not freeze REBIF.
-- If you cannot refrigerate your REBIF, you can store your REBIF at temperatures above 36°F and below 77°˚F (2°C to 25°C) for up to 30 days.
+- If you cannot refrigerate your REBIF, you can store your REBIF at temperatures above 36°F and below 77°F (2°C to 25°C) for up to 30 days.
 - Keep REBIF away from heat and light.
 
 Keep REBIF and all medicines out of the reach of children.
@@ -149,7 +150,7 @@ This Medication Guide summarizes the most important information about REBIF.
 If you would like more information, talk with your healthcare provider.
 You may ask your healthcare provider or pharmacist for information about REBIF that is written for healthcare professionals.
 
-For more information, go to www.REBIF.com or call toll-free 1-877-447-3243.
+For more information, go to www.REBIF.com or call toll-free 1-877-447- 3243.
 
 What are the ingredients in REBIF?
 
@@ -159,4 +160,4 @@ Inactive ingredients: albumin (human), mannitol, sodium acetate, water for injec
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-07/2019
+05/2020

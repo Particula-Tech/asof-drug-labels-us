@@ -98,3 +98,5 @@ Autoimmune Disorders: Drug-induced lupus erythematosus, autoimmune hepatitis
 Eye Disorders: Retinal vascular disorders (i.e. retinopathy, cotton wool spots or obstruction of retinal artery or vein)
 
 Skin and Subcutaneous Tissue Disorders: Erythema multiforme, Stevens-Johnson syndrome
+
+Blood and Lymphatic System Disorders: Hemolytic anemia

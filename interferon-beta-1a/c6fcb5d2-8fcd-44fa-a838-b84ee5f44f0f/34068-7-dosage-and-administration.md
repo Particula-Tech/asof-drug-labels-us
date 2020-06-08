@@ -36,9 +36,9 @@ Decreased peripheral blood counts or elevated liver function tests may necessita
 
 REBIF is intended for use under the guidance and supervision of a physician.
 It is recommended that physicians or qualified medical personnel train patients in the proper technique for self-administering subcutaneous injections using the prefilled syringe or injection device approved for use with REBIF.
-Injection depth of the REBIF Rebidose autoinjector is fixed at 8 mm; the health care provider should determine the injection technique.
+Injection depth of the REBIF Rebidose autoinjector is fixed at 8 mm; the healthcare provider should determine the injection technique.
 
-The initial injection should be performed under the supervision of an appropriately qualified health care provider.
+The initial injection should be performed under the supervision of an appropriately qualified healthcare provider.
 
 Appropriate instruction for self-injection or injection by another person should be provided to the patient or their caregiver, including careful review of the REBIF Medication Guide and the REBIF Rebidose autoinjector Instructions for Use that accompanies the product.
 Users should demonstrate competency in all aspects of the injection prior to independent use.

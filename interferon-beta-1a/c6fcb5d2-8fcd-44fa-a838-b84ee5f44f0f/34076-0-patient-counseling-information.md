@@ -42,7 +42,6 @@ Flu-like Symptoms
 Inform patients that flu-like symptoms are common following initiation of therapy with REBIF.
 Advise patients that concurrent use of analgesics and/or antipyretics may help reduce flu-like symptoms on treatment days [see Dosage and Administration (2.3)].
 
-Risk in Pregnancy
+Pregnancy
 
-Advise patients that REBIF should not be used during pregnancy unless the potential benefit justifies the potential risk to the fetus [see Use in Specific Populations (8.1)].
-Therefore, inform patients that if a pregnancy is considered, or does occur, the risks and benefits of continuing REBIF should be discussed with their healthcare provider.
+Advise patients to notify their healthcare provider if they become pregnant during treatment or plan to become pregnant [see Pregnancy (8.1)].
