@@ -11,4 +11,7 @@ Ask a doctor before use if
 Ask a doctor or pharmacist before use if you are
 
 - under a doctor’s care for any serious condition
+
+- taking aspirin for heart attack or stroke, because naproxen may decrease this benefit of aspirin
+
 - taking any other drug

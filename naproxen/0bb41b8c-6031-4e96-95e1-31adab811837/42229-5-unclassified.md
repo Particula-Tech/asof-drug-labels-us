@@ -11,4 +11,4 @@ Bridgewater, NJ 08807
 †This product is not manufactured or distributed by Bayer Healthcare, LLC., distributor of Aleve®
 
 Rev.
-11-2017-01
+05-2020-02
