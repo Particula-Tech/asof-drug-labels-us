@@ -6,7 +6,7 @@ Tagrisso®
 
 (osimertinib) tablets
 
-40 mg per tablets
+40 mg per tablet
 
 Rx only
 
@@ -20,7 +20,7 @@ Tagrisso®
 
 (osimertinib) tablets
 
-80 mg per tablets
+80 mg per tablet
 
 Rx only
 

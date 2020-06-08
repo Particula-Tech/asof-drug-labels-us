@@ -4,15 +4,13 @@ Advise the patient to read the FDA-approved patient labeling (Patient Informatio
 
 Interstitial Lung Disease/Pneumonitis
 
-- 
-  - •Inform patients of the risks of severe or fatal ILD, including pneumonitis.
-    Advise patients to contact their healthcare provider immediately to report new or worsening respiratory symptoms [see Warnings and Precautions (5.1)].
+- •Inform patients of the risks of severe or fatal ILD, including pneumonitis.
+  Advise patients to contact their healthcare provider immediately to report new or worsening respiratory symptoms [see Warnings and Precautions (5.1)].
 
 QTc Interval Prolongation
 
-- 
-  - •Inform patients of symptoms that may be indicative of significant QTc prolongation including dizziness, lightheadedness, and syncope.
-    Advise patients to report these symptoms and to inform their physician about the use of any heart or blood pressure medications [see Warnings and Precautions (5.2)].
+- •Inform patients of symptoms that may be indicative of significant QTc prolongation including dizziness, lightheadedness, and syncope.
+  Advise patients to report these symptoms and to inform their physician about the use of any heart or blood pressure medications [see Warnings and Precautions (5.2)].
 
 Cardiomyopathy
 
