@@ -1,6 +1,6 @@
 # 1 INDICATIONS AND USAGE
 
-Edarbyclor contains an angiotensin II receptor blocker (ARB) and a thiazide-like diuretic and is indicated for the treatment of hypertension, to lower blood pressure.
+Edarbyclor is indicated for the treatment of hypertension, to lower blood pressure.
 
 Edarbyclor may be used in patients whose blood pressure is not adequately controlled on monotherapy.
 

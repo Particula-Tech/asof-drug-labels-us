@@ -2,36 +2,81 @@
 
 ## 8.1 Pregnancy
 
-### Pregnancy Category D
+Risk Summary
 
-Use of drugs that affect the renin-angiotensin system during the second and third trimesters of pregnancy reduces fetal renal function and increases fetal and neonatal morbidity and death.
-Resulting oligohydramnios can be associated with fetal lung hypoplasia and skeletal deformations.
-Potential neonatal adverse effects include skull hypoplasia, anuria, hypotension, renal failure, and death.
-When pregnancy is detected, discontinue Edarbyclor as soon as possible.
-These adverse outcomes are usually associated with use of these drugs in the second and third trimester of pregnancy.
+Edarbyclor can cause fetal harm when administered to a pregnant woman.
+Use of drugs that act on the renin-angiotensin system during the second and third trimesters of pregnancy reduces fetal renal function and increases fetal and neonatal morbidity and death (see Clinical Considerations).
 Most epidemiologic studies examining fetal abnormalities after exposure to antihypertensive use in the first trimester have not distinguished drugs affecting the renin-angiotensin system from other antihypertensive agents.
-Appropriate management of maternal hypertension during pregnancy is important to optimize outcomes for both mother and fetus.
 
-In the unusual case that there is no appropriate alternative to therapy with drugs affecting the renin-angiotensin system for a particular patient, apprise the mother of the potential risk to the fetus.
+When pregnancy is detected, discontinue Edarbyclor as soon as possible.
+
+The estimated background risk of major birth defects and miscarriage for the indicated population is unknown.
+All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2-4% and 15-20%, respectively.
+
+Clinical Considerations
+
+Disease-associated maternal and/or embryo/fetal risk
+
+Hypertension in pregnancy increases the maternal risk for pre-eclampsia, gestational diabetes, premature delivery, and delivery complications (e.g., need for cesarean section, and post-partum hemorrhage).
+Hypertension increases the fetal risk for intrauterine growth restriction and intrauterine death.
+Pregnant women with hypertension should be carefully monitored and managed accordingly.
+
+Fetal/Neonatal adverse reactions
+
+Oligohydramnios in pregnant women who use drugs affecting the renin-angiotensin system in the second and third trimesters can result in the following: reduced fetal renal function leading to anuria and renal failure, fetal lung hypoplasia, skeletal deformations, including skull hypoplasia, hypotension and death.
+
 Perform serial ultrasound examinations to assess the intra-amniotic environment.
-If oligohydramnios is observed, discontinue Edarbyclor, unless it is considered lifesaving for the mother.
 Fetal testing may be appropriate, based on the week of pregnancy.
 Patients and physicians should be aware, however, that oligohydramnios may not appear until after the fetus has sustained irreversible injury.
-Closely observe infants with histories of in utero exposure to Edarbyclor for hypotension, oliguria, and hyperkalemia [see Use in Specific Populations (8.4)].
 
-## 8.3 Nursing Mothers
+Closely observe infants with histories of in utero exposure to Edarbyclor for hypotension, oliguria, and hyperkalemia.
+In neonates with a history of in utero exposure to Edarbyclor, if oliguria or hypotension occurs, support blood pressure and renal perfusion.
+Exchange transfusions or dialysis may be required as a means of reversing hypotension and/or substituting for disordered renal function.
 
-It is not known if azilsartan is excreted in human milk, but azilsartan is excreted at low concentrations in the milk of lactating rats and thiazide-like diuretics like chlorthalidone are excreted in human milk.
-Because of the potential for adverse effects on the nursing infant, a decision should be made whether to discontinue nursing or discontinue the drug, taking into account the importance of the drug to the mother.
+Chlorthalidone
+
+Thiazides cross the placenta, and use of thiazides during pregnancy is associated with a risk of fetal or neonatal jaundice, thrombocytopenia, and possible other adverse reactions that have occurred in adults.
+
+Data
+
+Animal Data
+
+Edarbyclor
+
+The safety profiles of azilsartan medoxomil and chlorthalidone monotherapy have been individually established.
+To characterize the toxicological profile for Edarbyclor, a 13-week repeat-dose toxicity study was conducted in rats.
+The results of this study indicated that the combined administration of azilsartan medoxomil, M-II, and chlorthalidone resulted in increased exposures to chlorthalidone.
+
+Pharmacologically-mediated toxicity, including suppression of body weight gain and decreased food consumption in male rats, and increases in blood urea nitrogen in both sexes, was enhanced by coadministration of azilsartan medoxomil, M-II, and chlorthalidone.
+With the exception of these findings, there were no toxicologically synergistic effects in this study.
+
+In an embryo-fetal developmental study in rats, there was no teratogenicity or increase in fetal mortality in the litters of dams receiving azilsartan medoxomil, M-II and chlorthalidone concomitantly at maternally toxic doses.
+
+Azilsartan medoxomil
+
+Reproductive Toxicology: In peri- and postnatal rat development studies, adverse effects on pup viability, delayed incisor eruption and dilatation of the renal pelvis along with hydronephrosis were seen when azilsartan medoxomil was administered to pregnant and nursing rats at 1.2 times the MRHD on a mg/m2 basis.
+Reproductive toxicity studies indicated that azilsartan medoxomil was not teratogenic when administered at oral doses up to 1000 mg azilsartan medoxomil/kg/day to pregnant rats (122 times the MRHD on a mg/m2 basis) or up to 50 mg azilsartan medoxomil/kg/day to pregnant rabbits (12 times the MRHD on a mg/m2 basis).
+M-II also was not teratogenic in rats or rabbits at doses up to 3000 mg M-II/kg/day.
+Azilsartan crossed the placenta and was found in the fetuses of pregnant rats and was excreted into the milk of lactating rats.
+
+Chlorthalidone
+
+Reproductive toxicology: Reproduction studies have been performed in the rat and the rabbit at doses up to 420 times the human dose and have revealed no evidence of harm to the fetus.
+Thiazides cross the placental barrier and appear in cord blood.
+
+## 8.2 Lactation
+
+Risk Summary
+
+There is limited information regarding the presence of azilsartan in human milk, the effects on the breastfed infant, or the effects on milk production.
+Azilsartan is present in rat milk.
+Thiazide-like diuretics like chlorthalidone are excreted in human milk.
+Because of the potential for adverse effects on the nursing infant, advise a nursing woman that breastfeeding is not recommended during treatment with Edarbyclor.
 
 ## 8.4 Pediatric Use
 
 Safety and effectiveness of Edarbyclor in pediatric patients under 18 years of age have not been established.
-
-Neonates with a history of in utero exposure to Edarbyclor:
-
-If oliguria or hypotension occurs, support blood pressure and renal function.
-Exchange transfusions or dialysis may be required.
 
 ## 8.5 Geriatric Use
 

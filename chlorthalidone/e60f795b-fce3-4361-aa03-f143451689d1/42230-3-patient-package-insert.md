@@ -1,4 +1,4 @@
-Patient Information EDARBYCLOR (eh-DAR-bih-clor) (azilsartan medoxomil and chlorthalidone) tablets
+# Patient Information EDARBYCLOR (eh-DAR-bih-clor) (azilsartan medoxomil and chlorthalidone) tablets
 
 Read this Patient Information leaflet before you start taking Edarbyclor and each time you get a refill.
 There may be new information.
@@ -146,3 +146,15 @@ Active ingredients: azilsartan medoxomil and chlorthalidone
 Inactive ingredients: mannitol, microcrystalline cellulose, fumaric acid, sodium hydroxide, hydroxypropyl cellulose, crospovidone, magnesium stearate, hypromellose 2910, talc, titanium dioxide, ferric oxide red, polyethylene glycol 8000, and printing ink gray F1.
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
+
+Manufactured by: Takeda Ireland
+
+Manufactured for: arbor® PHARMACEUTICALS, LLC Atlanta, GA 30328
+
+Revised: MARCH 2020
+
+Edarbyclor is a trademark of Takeda Pharmaceutical Company Limited registered with the U.S. Patent and Trademark Office and used under license by Arbor Pharmaceuticals, LLC.
+
+©2020 Arbor Pharmaceuticals, LLC
+
+EC-PI-07

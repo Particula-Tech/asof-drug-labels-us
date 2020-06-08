@@ -102,7 +102,14 @@ The majority of an absorbed quantity of chlorthalidone is excreted by the kidney
 By contrast, metabolism and excretion via the liver and bile play a minor role in the elimination of the substance.
 Approximately 60%-70% of chlorthalidone is excreted in the urine and feces within 120 hours, mainly in unchanged form.
 
-Special Populations
+Specific Populations
 
 Azilsartan medoxomil: The effect of demographic and functional factors on the pharmacokinetics of azilsartan was studied in single and multiple dose studies.
 Pharmacokinetic measures indicating the magnitude of the effect on azilsartan are presented in Figure 2 as change relative to reference (test/reference).
+
+Drug Interactions
+
+Azilsartan medoxomil
+
+No clinically significant drug interactions have been observed in studies of azilsartan medoxomil or azilsartan given with amlodipine, antacids, chlorthalidone, digoxin, fluconazole, glyburide, ketoconazole, metformin, pioglitazone, and warfarin.
+Therefore, azilsartan medoxomil may be used concomitantly with these medications.

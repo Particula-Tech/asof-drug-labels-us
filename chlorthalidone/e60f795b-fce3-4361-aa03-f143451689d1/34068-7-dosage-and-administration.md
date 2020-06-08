@@ -7,15 +7,7 @@ Most of the antihypertensive effect is apparent within 1 to 2 weeks.
 The dosage may be increased to 40/25 mg after 2 to 4 weeks as needed to achieve blood pressure goals.
 Edarbyclor doses above 40/25 mg are probably not useful.
 
-Edarbyclor may be used to provide additional blood pressure lowering for patients not adequately controlled on ARB or diuretic monotherapy treatment.
-Patients not controlled with azilsartan medoxomil 80 mg may have an additional systolic / diastolic clinic blood pressure reduction of 13/6 mm Hg when switched to Edarbyclor 40/12.5 mg.
-Patients not controlled with chlorthalidone 25 mg may have an additional clinic blood pressure reduction of 10/7 mm Hg when switched to Edarbyclor 40/12.5 mg.
-
-Edarbyclor may be used as initial therapy if a patient is likely to need multiple drugs to achieve blood pressure goals.
-
 Patients titrated to the individual components (azilsartan medoxomil and chlorthalidone) may instead receive the corresponding dose of Edarbyclor.
-
-Edarbyclor may be taken with or without food [see Clinical Pharmacology (12.3)].
 
 Edarbyclor may be administered with other antihypertensive agents as needed.
 
@@ -27,4 +19,5 @@ Patients who experience dose-limiting adverse reactions on chlorthalidone may be
 
 ## 2.3 Handling Instructions
 
-As Edarbyclor is moisture sensitive, dispense and store Edarbyclor in its original container to protect Edarbyclor from light and moisture.
+Do not repackage Edarbyclor.
+Dispense and store Edarbyclor in its original container to protect Edarbyclor from light and moisture.

@@ -42,15 +42,7 @@ Generally, adverse reactions were mild, not dose related and similar regardless 
 
 Adverse reactions with a plausible relationship to treatment that have been reported with an incidence of ≥0.3% and greater than placebo in more than 3300 patients treated with azilsartan medoxomil in controlled trials are listed below:
 
-Gastrointestinal Disorders: diarrhea, nausea
-
-General Disorders and Administration Site Conditions: asthenia, fatigue
-
-Musculoskeletal and Connective Tissue Disorders: muscle spasm
-
-Nervous System Disorders: dizziness, dizziness postural
-
-Respiratory, Thoracic and Mediastinal Disorders: cough
+Gastrointestinal Disorders: diarrhea, nausea General Disorders and Administration Site Conditions: asthenia, fatigue Musculoskeletal and Connective Tissue Disorders: muscle spasm Nervous System Disorders: dizziness, dizziness postural Respiratory, Thoracic and Mediastinal Disorders: cough
 
 Chlorthalidone
 
@@ -62,9 +54,7 @@ In the factorial design trial, clinically relevant changes in standard laborator
 
 Renal parameters:
 
-Increased blood creatinine is a known pharmacologic effect of renin-angiotensin aldosterone system (RAAS) blockers, such as ARBs and ACE inhibitors, and is related to the magnitude of blood pressure reduction.
 The incidence of consecutive increases of creatinine ≥50% from baseline and >ULN was 2.0% in patients treated with the recommended doses of Edarbyclor compared with 0.4% and 0.3% with azilsartan medoxomil and chlorthalidone, respectively.
-Elevations of creatinine were typically transient, or non-progressive and reversible, and associated with large blood pressure reductions.
 
 Mean increases in blood urea nitrogen (BUN) were observed with Edarbyclor (5.3 mg/dL) compared with azilsartan medoxomil (1.5 mg/dL) and with chlorthalidone (2.5 mg/dL).
 
@@ -73,9 +63,6 @@ Mean increases in blood urea nitrogen (BUN) were observed with Edarbyclor (5.3 m
 The following adverse reactions have been identified during the postmarketing use of EDARBYCLOR.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-- Nausea
-- Syncope
 - Loss of consciousness
-- Rash
 - Pruritus
 - Angioedema
