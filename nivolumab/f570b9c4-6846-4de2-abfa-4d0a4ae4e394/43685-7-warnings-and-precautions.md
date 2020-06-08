@@ -50,6 +50,8 @@ Systemic corticosteroids were required in 100% of patients with pneumonitis foll
 Pneumonitis resolved in 72% of the patients.
 Approximately 13% (2/16) of patients had recurrence of pneumonitis after re-initiation of OPDIVO with ipilimumab.
 
+The incidence and severity of immune-mediated pneumonitis in patients with NSCLC treated with OPDIVO 360 mg every 3 weeks in combination with ipilimumab 1 mg/kg every 6 weeks and 2 cycles of platinum-doublet chemotherapy were comparable to treatment with OPDIVO in combination with ipilimumab only.
+
 ## 5.2 Immune-Mediated Colitis
 
 OPDIVO can cause immune-mediated colitis, defined as requiring use of corticosteroids with no clear alternate etiology.

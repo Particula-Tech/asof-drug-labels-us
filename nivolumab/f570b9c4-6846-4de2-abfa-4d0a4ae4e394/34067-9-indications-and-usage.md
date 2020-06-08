@@ -11,6 +11,7 @@ OPDIVO is indicated for the adjuvant treatment of patients with melanoma with in
 ## 1.3 Metastatic Non-Small Cell Lung Cancer
 
 - •OPDIVO, in combination with ipilimumab, is indicated for the first-line treatment of adult patients with metastatic non-small cell lung cancer (NSCLC) whose tumors express PD-L1 (≥1%) as determined by an FDA-approved test [see Dosage and Administration (2.1)], with no EGFR or ALK genomic tumor aberrations.
+- •OPDIVO, in combination with ipilimumab and 2 cycles of platinum-doublet chemotherapy, is indicated for the first-line treatment of adult patients with metastatic or recurrent non-small cell lung cancer (NSCLC), with no EGFR or ALK genomic tumor aberrations.
 - •OPDIVO is indicated for the treatment of patients with metastatic NSCLC with progression on or after platinum-based chemotherapy.
   Patients with EGFR or ALK genomic tumor aberrations should have disease progression on FDA-approved therapy for these aberrations prior to receiving OPDIVO.
 

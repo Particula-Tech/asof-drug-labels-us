@@ -26,16 +26,18 @@ Table 1: Recommended Dosages for OPDIVO as a Single Agent
 | Microsatellite instability-high (MSI-H) or mismatch repair deficient (dMMR) metastatic colorectal cancer | Adult patients and pediatric patients age 12 years and older and weighing 40 kg or more:240 mg every 2 weeks(30-minute intravenous infusion)or480 mg every 4 weeks(30-minute intravenous infusion) | Until disease progression or unacceptable toxicity |
 | Pediatric patients age 12 years and older and weighing less than 40 kg:3 mg/kg every 2 weeks(30-minute intravenous infusion) |  |  |
 
-The recommended dosages of OPDIVO in combination with ipilimumab are presented in Table 2.
-Refer to the ipilimumab Prescribing Information for recommended ipilimumab dosage information.
+The recommended dosages of OPDIVO in combination with ipilimumab or other therapeutic agents are presented in Table 2.
+Refer to the respective Prescribing Information for each therapeutic agent administered in combination with OPDIVO for the recommended dosage information, as appropriate.
 
-Table 2: Recommended Dosages of OPDIVO in Combination with Ipilimumab
+Table 2: Recommended Dosages of OPDIVO in Combination with Other Therapeutic Agents
 
 | Indication | Recommended OPDIVO Dosage | Duration of Therapy |
 | --- | --- | --- |
 | Unresectable or metastatic melanoma | 1 mg/kg every 3 weeks(30-minute intravenous infusion)with ipilimumab 3 mg/kg intravenouslyover 90 minutes on the same day | In combination with ipilimumab for a maximum of 4 doses or until unacceptable toxicity, whichever occurs earlier |
 | 240 mg every 2 weeks(30-minute intravenous infusion)or480 mg every 4 weeks(30-minute intravenous infusion) | After completing 4 doses of combination therapy, administer as single agent until disease progression or unacceptable toxicity |  |
 | Metastatic non-small cell lung cancer expressing PD-L1 | 3 mg/kg every 2 weeks(30-minute intravenous infusion)with ipilimumab 1 mg/kg every 6 weeks(30-minute intravenous infusion) | In combination with ipilimumab until disease progression, unacceptable toxicity, or up to 2 years in patients without disease progression |
+| Metastatic or recurrent non-small cell lung cancer | 360 mg every 3 weeks(30-minute intravenous infusion)with ipilimumab 1 mg/kg every 6 weeks(30-minute intravenous infusion)and histology-based platinum doublet chemotherapy every 3 weeks | In combination with ipilimumab until disease progression, unacceptable toxicity, or up to 2 years in patients without disease progression |
+| 2 cycles of histology-based platinum-doublet chemotherapy |  |  |
 | Advanced renal cell carcinoma | 3 mg/kg every 3 weeks(30-minute intravenous infusion)with ipilimumab 1 mg/kg intravenouslyover 30 minutes on the same day | In combination with ipilimumab for 4 doses |
 | 240 mg every 2 weeks(30-minute intravenous infusion)or480 mg every 4 weeks(30-minute intravenous infusion) | After completing 4 doses of combination therapy, administer as single agent until disease progression or unacceptable toxicity |  |
 | Microsatellite instability-high (MSI-H) or mismatch repair deficient (dMMR) metastatic colorectal cancer | 3 mg/kg every 3 weeks(30-minute intravenous infusion)with ipilimumab 1 mg/kg intravenouslyover 30 minutes on the same day | In combination with ipilimumab for 4 doses |
@@ -113,7 +115,10 @@ Do not shake.
 ### Administration
 
 - •Administer the infusion over 30 minutes through an intravenous line containing a sterile, non-pyrogenic, low protein binding in-line filter (pore size of 0.2 micrometer to 1.2 micrometer).
-- •When administered with ipilimumab, administer OPDIVO first followed by ipilimumab on the same day.
-  Use separate infusion bags and filters for each infusion.
+- •Administer OPDIVO in combination with other therapeutic agents as follows:
+  - oWith ipilimumab: administer OPDIVO first followed by ipilimumab on the same day.
+  - oWith platinum-doublet chemotherapy: administer OPDIVO first followed by platinum-doublet chemotherapy on the same day
+  - oWith ipilimumab and platinum-doublet chemotherapy: administer OPDIVO first followed by ipilimumab and then platinum-doublet chemotherapy on the same day.
+- •Use separate infusion bags and filters for each infusion.
 - •Flush the intravenous line at end of infusion.
-- •Do not coadminister other drugs through the same intravenous line.
+- •Do not co-administer other drugs through the same intravenous line.
