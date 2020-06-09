@@ -61,7 +61,7 @@ Dosing in children at both 260 mg/m2 and 340 mg/m2 achieved an AUC similar to th
 The comparison of AUC on Day 8 vs. Day 1 at 260 mg/m2 and 340 mg/m2 dose levels revealed a 1.5- and 2.2-fold drug accumulation, respectively, after repeated once-daily dosing.
 Mean imatinib AUC did not increase proportionally with increasing dose.
 
-Based on pooled population pharmacokinetic analysis in pediatric patients with hematological disorders (CML, or other hematological disorders treated with imatinib), clearance of imatinib increases with increasing body surface area (BSA).
+Based on pooled population pharmacokinetic analysis in pediatric patients with hematological disorders (CML, Ph+ ALL, or other hematological disorders treated with imatinib), clearance of imatinib increases with increasing body surface area (BSA).
 After correcting for the BSA effect, other demographics such as age, body weight and body mass index did not have clinically significant effects on the exposure of imatinib.
 The analysis confirmed that exposure of imatinib in pediatric patients receiving 260 mg/m2 once-daily (not exceeding 400 mg once-daily) or 340 mg/m2 once-daily (not exceeding 600 mg once-daily) were similar to those in adult patients who received imatinib 400 mg or 600 mg once-daily.
 
@@ -89,7 +89,7 @@ Imatinib mesylate tablets will increase plasma concentration of other CYP3A4 met
 Because warfarin is metabolized by CYP2C9 and CYP3A4, patients who require anticoagulation should receive low-molecular weight or standard heparin instead of warfarin.
 
 Interactions with Drugs Metabolized by CYP2D6 Imatinib mesylate tablets increased the mean Cmax and AUC of metoprolol by approximately 23% suggesting that imatinib mesylate has a weak inhibitory effect on CYP2D6-mediated metabolism.
-No dose adjustment is necessary, however, caution is recommended when administering imatinib mesylate tablets with CYP2D6 substrates that have a narrow therapeutic window.
+No dose adjustment is necessary; however, caution is recommended when administering imatinib mesylate tablets with CYP2D6 substrates that have a narrow therapeutic window.
 
 Interactions with Acetaminophen In vitro, imatinib mesylate inhibits the acetaminophen O-glucuronidate pathway (Ki 58.5 mcM).
 Coadministration of imatinib mesylate tablets (400 mg/day for eight days) with acetaminophen (1,000 mg single dose on day eight) in patients with CML did not result in any changes in the pharmacokinetics of acetaminophen.

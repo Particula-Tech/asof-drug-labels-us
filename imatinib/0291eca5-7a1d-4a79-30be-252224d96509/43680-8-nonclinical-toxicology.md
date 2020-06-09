@@ -20,7 +20,7 @@ This was not seen at doses less than or equal to 20 mg/kg (one-fourth the maximu
 The fertility of male and female rats was not affected.
 
 Fertility was not affected in the preclinical fertility and early embryonic development study although lower testes and epididymal weights as well as a reduced number of motile sperm were observed in the high dose male rats.
-In the preclinical pre- and postnatal study in rats, fertility in the first generation offspring was also not affected by imatinib mesylate.
+In the preclinical pre- and postnatal study in rats, fertility in the first-generation offspring was also not affected by imatinib mesylate.
 
 ## 13.2 Animal Toxicology and/or Pharmacology
 
@@ -29,7 +29,7 @@ Severe liver toxicity was observed in dogs treated for 2 weeks, with elevated li
 Renal toxicity was observed in monkeys treated for 2 weeks, with focal mineralization and dilation of the renal tubules and tubular nephrosis.
 Increased BUN and creatinine were observed in several of these animals.
 An increased rate of opportunistic infections was observed with chronic imatinib treatment in laboratory animal studies.
-In a 39 week monkey study, treatment with imatinib resulted in worsening of normally suppressed malarial infections in these animals.
+In a 39-week monkey study, treatment with imatinib resulted in worsening of normally suppressed malarial infections in these animals.
 Lymphopenia was observed in animals (as in humans).
 Additional long-term toxicities were identified in a 2-year rat study.
 Histopathological examination of the treated rats that died on study revealed cardiomyopathy (both sexes), chronic progressive nephropathy (females) and preputial gland papilloma as principal causes of death or reasons for sacrifice.

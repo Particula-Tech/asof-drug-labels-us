@@ -31,7 +31,7 @@ Edema was most frequently periorbital or in lower limbs and was managed with diu
 The frequency of severe superficial edema was 1.5% to 6%.
 
 A variety of adverse reactions represent local or general fluid retention including pleural effusion, ascites, pulmonary edema and rapid weight gain with or without superficial edema.
-These reactions appear to be dose related, were more common in the blast crisis and accelerated phase studies (where the dose was 600 mg/day), and are more common in the elderly.
+These reactions appear to be dose related, were more common in the blast crisis and accelerated phase studies (where the dose was 600 mg/day) and are more common in the elderly.
 These reactions were usually managed by interrupting imatinib mesylate treatment and using diuretics or other appropriate supportive care measures.
 These reactions may be serious or life threatening.
 
@@ -176,7 +176,7 @@ In patients with newly diagnosed CML, cytopenias were less frequent than in the 
 The frequency of Grade 3 or 4 neutropenia and thrombocytopenia was between 2- and 3-fold higher in blast crisis and accelerated phase compared to chronic phase (see Tables 4 and 5).
 The median duration of the neutropenic and thrombocytopenic episodes varied from 2 to 3 weeks, and from 2 to 4 weeks, respectively.
 
-These reactions can usually be managed with either a reduction of the dose or an interruption of treatment with imatinib mesylate, but may require permanent discontinuation of treatment.
+These reactions can usually be managed with either a reduction of the dose or an interruption of treatment with imatinib mesylate but may require permanent discontinuation of treatment.
 
 Table 5: Laboratory Abnormalities in Newly Diagnosed CML Clinical Trial (Imatinib Mesylate versus IFN+Ara-C)
 
@@ -295,7 +295,7 @@ Table 8: Adverse Reactions Reported More Frequently in Patients Treated with Stu
 
 In older patients (greater than or equal to 65 years old), with the exception of edema, where it was more frequent, there was no evidence of an increase in the incidence or severity of adverse reactions.
 In women there was an increase in the frequency of neutropenia, as well as Grade 1/2 superficial edema, headache, nausea, rigors, vomiting, rash, and fatigue.
-No differences were seen that were related to race but the subsets were too small for proper evaluation.
+No differences were seen that were related to race, but the subsets were too small for proper evaluation.
 
 ### Acute Lymphoblastic Leukemia
 

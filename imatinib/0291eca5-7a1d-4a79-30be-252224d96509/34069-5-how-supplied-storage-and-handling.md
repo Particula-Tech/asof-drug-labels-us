@@ -21,7 +21,7 @@ Protect from moisture.
 
 Dispense in a tight container, USP.
 
-Imatinib mesylate tablets should not be crushed.
-Direct contact of crushed tablets with the skin or mucous membranes should be avoided.
+Do not crush imatinib mesylate tablets.
+Avoid direct contact of crushed tablets with the skin or mucous membranes.
 If such contact occurs, wash thoroughly as outlined in the references.
-Personnel should avoid exposure to crushed tablets.
+Avoid exposure to crushed tablets.

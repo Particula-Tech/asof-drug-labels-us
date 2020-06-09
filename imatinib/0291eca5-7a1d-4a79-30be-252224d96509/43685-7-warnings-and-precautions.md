@@ -65,7 +65,7 @@ If either is abnormal, consider prophylactic use of systemic steroids (1 to 2 mg
 Bullous dermatologic reactions, including erythema multiforme and Stevens-Johnson syndrome, have been reported with use of imatinib mesylate.
 In some cases of bullous dermatologic reactions, including erythema multiforme and Stevens-Johnson syndrome reported during postmarketing surveillance, a recurrent dermatologic reaction was observed upon rechallenge.
 Several foreign postmarketing reports have described cases in which patients tolerated the reintroduction of imatinib mesylate therapy after resolution or improvement of the bullous reaction.
-In these instances, imatinib mesylate was resumed at a dose lower than that at which the reaction occurred and some patients also received concomitant treatment with corticosteroids or antihistamines.
+In these instances, imatinib mesylate was resumed at a dose lower than that at which the reaction occurred, and some patients also received concomitant treatment with corticosteroids or antihistamines.
 
 ## 5.9 Hypothyroidism
 

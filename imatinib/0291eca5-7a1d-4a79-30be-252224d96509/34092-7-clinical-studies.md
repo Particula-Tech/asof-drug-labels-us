@@ -181,9 +181,9 @@ The complete cytogenetic response rate (CCyR) was 65%, comparable to the results
 Additionally, partial cytogenetic response (PCyR) was observed in 16%.
 The majority of patients who achieved a CCyR developed the CCyR between months 3 and 10 with a median time to response based on the Kaplan-Meier estimate of 6.74 months.
 Patients were allowed to be removed from protocol therapy to undergo alternative therapy including hematopoietic stem cell transplantation.
-Thirty one children received stem cell transplantation.
+Thirty-one children received stem cell transplantation.
 Of the 31 children, 5 were transplanted after disease progression on study and 1 withdrew from study during first week treatment and received transplant approximately 4 months after withdrawal.
-Twenty five children withdrew from protocol therapy to undergo stem cell transplant after receiving a median of 9 twenty-eight day courses (range 4 to 24).
+Twenty-five children withdrew from protocol therapy to undergo stem cell transplant after receiving a median of 9 twenty-eight-day courses (range 4 to 24).
 Of the 25 patients 13 (52%) had CCyR and 5 (20%) had PCyR at the end of protocol therapy.
 
 One open-label, single-arm study enrolled 14 pediatric patients with Ph+ chronic phase CML recurrent after stem cell transplant or resistant to interferon-alpha therapy.
@@ -196,7 +196,7 @@ In a second study, 2 of 3 patients with Ph+ chronic phase CML resistant to inter
 ## 14.3 Acute Lymphoblastic Leukemia
 
 A total of 48 Philadelphia chromosome positive acute lymphoblastic leukemia (Ph+ ALL) patients with relapsed/refractory disease were studied, 43 of whom received the recommended imatinib mesylate dose of 600 mg/day.
-In addition 2 patients with relapsed/refractory Ph+ ALL received imatinib mesylate 600 mg/day in a phase 1 study.
+In addition, 2 patients with relapsed/refractory Ph+ ALL received imatinib mesylate 600 mg/day in a phase 1 study.
 
 Confirmed and unconfirmed hematologic and cytogenetic response rates for the 43 relapsed/refractory Ph+ALL Phase 2 study patients and for the 2 Phase 1 patients are shown in Table 21.
 The median duration of hematologic response was 3.4 months and the median duration of MCyR was 2.3 months.
