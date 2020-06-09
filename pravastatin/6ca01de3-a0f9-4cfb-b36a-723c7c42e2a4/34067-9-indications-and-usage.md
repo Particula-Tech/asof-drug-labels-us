@@ -29,8 +29,8 @@ Pravastatin sodium tablets are indicated:
 - •as an adjunct to diet and lifestyle modification for treatment of heterozygous familial hypercholesterolemia (HeFH) in children and adolescent patients ages 8 years and older if after an adequate trial of diet the following findings are present:
   - •LDL-C remains ≥190 mg/dL or
   - •LDL-C remains ≥160 mg/dL and:
-    - 1.there is a positive family history of premature cardiovascular disease (CVD) or
-    - 2.two or more other CVD risk factors are present in the patient.
+    - •there is a positive family history of premature cardiovascular disease (CVD) or
+    - •two or more other CVD risk factors are present in the patient.
 
 ## 1.3 Limitations of Use
 
