@@ -16,10 +16,6 @@ Gabapentin tablets can cause serious side effects including:
   Suicidal Thoughts.
   Like other antiepileptic drugs, gabapentin tablets may cause suicidal thoughts or actions in a very small number of people, about 1 in 500.
 - Call a healthcare provider right away if you have any of these symptoms, especially if they are new, worse, or worry you:
-- 4.Serious breathing problems.
-  Serious breathing problems can occur when gabapentin tablets are taken with other medicines that can cause severe sleepiness or decreased awareness, or when it is taken by someone who already has breathing problems.
-  Watch for increased sleepiness or decreased breathing when starting gabapentin tablets or when the dose is increased.
-  Get help right away if breathing problems occur.
 
 - •thoughts about suicide or dying
 - •attempts to commit suicide
@@ -62,7 +58,8 @@ Gabapentin tablets can cause serious side effects including:
 - •frequent infections
 - These symptoms may be the first signs of a serious reaction.
   A healthcare provider should examine you to decide if you should continue taking gabapentin tablets.
-- 4.Serious breathing problems.
+- 4.
+  Serious breathing problems.
   Serious breathing problems can occur when gabapentin tablets are taken with other medicines that can cause severe sleepiness or decreased awareness, or when it is taken by someone who already has breathing problems.
   Watch for increased sleepiness or decreased breathing when starting gabapentin tablets or when the dose is increased.
   Get help right away if breathing problems occur.
