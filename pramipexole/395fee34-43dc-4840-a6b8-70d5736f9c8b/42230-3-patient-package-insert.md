@@ -96,10 +96,10 @@ Pramipexole dihydrochloride tablets may cause serious side effects, including:
   - • sweating
 
 - unusual urges.
-  Some people who take certain medicines to treat Parkinson’s disease, including pramipexole dihydrochloride tablets, have reported problems, such as gambling, compulsive eating, compulsive buying, and increased sex drive.
+  Some people who take certain medicines to treat Parkinson’s disease or RLS, including pramipexole dihydrochloride tablets, have reported problems, such as gambling, compulsive eating, compulsive buying, and increased sex drive.
   If you or your family members notice that you are developing unusual urges or behaviors, talk to your doctor.
 - hallucinations and other psychotic-like behavior (seeing visions, hearing sounds or feeling sensations that are not real, confusion, excessive suspicion, aggressive behavior, agitation, delusional beliefs and disorganized thinking).
-  Your chance of having hallucinations and other psychotic-like behavior is higher if you are elderly (age 65 or older).
+  The chances of having hallucinations or other psychotic-like changes are higher in people taking Pramipexole dihydrochloride tablets for Parkinson’s disease who are elderly (age 65 or older).
   If you have hallucinations or other psychotic-like changes, talk with your doctor right away.
 - uncontrolled sudden movements (dyskinesia).
   If you have new dyskinesia or your existing dyskinesia gets worse tell your doctor.
@@ -155,4 +155,4 @@ The brands listed are trademarks of their respective owners and are not trademar
 
 Manufactured by: ScieGen Pharmaceuticals, Inc. Hauppauge, NY 11788 USA
 
-Rev: 07/18
+Rev: 05/20

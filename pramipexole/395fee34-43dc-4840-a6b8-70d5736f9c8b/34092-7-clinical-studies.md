@@ -110,7 +110,7 @@ The mean improvement from baseline on the IRLS Scale total score and the percent
 In this study, the 0.125 mg dose group was not significantly different from placebo.
 On average, the 0.5 mg dose group performed better than the 0.25 mg dose group, but there was no difference between the 0.5 mg and 0.75 mg dose groups.
 
-Table 9 Mean Changes from Baseline to Week 3 in IRLS Score and CGI-I (Study 4)
+Table 9 Mean Changes from Baseline to Week 13 in IRLS Score and CGI-I (Study 4)
 
 |  | Pramipexole dihydrochloride tablets 0.125 mg | Pramipexole dihydrochloride tablets 0.25 mg | Pramipexole dihydrochloride tablets 0.5 mg | Pramipexole dihydrochloride tablets 0.75 mg | Pramipexole dihydrochloride tablets Total | Placebo |
 | --- | --- | --- | --- | --- | --- | --- |

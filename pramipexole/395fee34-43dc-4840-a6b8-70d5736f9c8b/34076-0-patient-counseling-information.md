@@ -26,7 +26,8 @@ Alert patients and their caregivers to the possibility that they may experience 
 
 Hallucinations and Pyschotic-like Behavior
 
-Inform patients that hallucinations and other psychotic-like behavior can occur and that the elderly are at a higher risk than younger patients with Parkinson's disease [see Warnings and Precautions (5.4)].
+Inform patients that hallucinations and other psychotic-like behavior can occur.
+In patients with Parkinson’s disease, the elderly are at a higher risk than younger patients [see Warnings and Precautions (5.4)].
 
 Postural (Orthostatic) Hypotension
 
@@ -45,4 +46,4 @@ Because of the possibility that pramipexole may be excreted in breast milk, advi
 Manufactured by: ScieGen Pharmaceuticals, Inc. Hauppauge, NY 11788 USA
 
 Rev.
-07/18
+05/20

@@ -32,9 +32,9 @@ Also, clinical trials in patients with RLS did not incorporate orthostatic chall
 
 ## 5.3 Impulse Control/Compulsive Behaviors
 
-Case reports and the results of a cross-sectional study suggest that patients can experience intense urges to gamble, increased sexual urges, intense urges to spend money uncontrollably, binge eating, and/or other intense urges and the inability to control these urges while taking one or more of the medications, including pramipexole dihydrochloride tablets, that increase central dopaminergic tone and that are generally used for the treatment of Parkinson’s disease.
+Case reports and the results of a cross-sectional study suggest that patients can experience intense urges to gamble, increased sexual urges, intense urges to spend money uncontrollably, binge eating, and/or other intense urges and the inability to control these urges while taking one or more of the medications, including pramipexole dihydrochloride tablets, that increase central dopaminergic tone.
 In some cases, although not all, these urges were reported to have stopped when the dose was reduced or the medication was discontinued.
-Because patients may not recognize these behaviors as abnormal it is important for prescribers to specifically ask patients or their caregivers about the development of new or increased gambling urges, sexual urges, uncontrolled spending or other urges while being treated with pramipexole dihydrochloride tablets.
+Because patients may not recognize these behaviors as abnormal, it is important for prescribers to specifically ask patients or their caregivers about the development of new or increased gambling urges, sexual urges, uncontrolled spending or other urges while being treated with pramipexole dihydrochloride tablets for Parkinson’s disease or RLS.
 Physicians should consider dose reduction or stopping the medication if a patient develops such urges while taking pramipexole dihydrochloride tablets.
 
 ## 5.4 Hallucinations and Psychotic-like Behavior
@@ -47,9 +47,9 @@ Age appears to increase the risk of hallucinations attributable to pramipexole.
 In the early Parkinson’s disease patients, the risk of hallucinations was 1.9 times greater than placebo in patients younger than 65 years and 6.8 times greater than placebo in patients older than 65 years.
 In the advanced Parkinson's disease patients, the risk of hallucinations was 3.5 times greater than placebo in patients younger than 65 years and 5.2 times greater than placebo in patients older than 65 years.
 
-Postmarketing reports with medication used to treat Parkinson’s disease, including pramipexole, indicate that patients may experience new or worsening mental status and behavioral changes, which may be severe, including psychotic-like behavior during treatment with pramipexole or after starting or increasing the dose of pramipexole.
-Other drugs prescribed to improve the symptoms of Parkinson’s disease can have similar effects on thinking and behavior.
-This abnormal thinking and behavior can consist of one or more of a variety of manifestations including paranoid ideation, delusions, hallucinations, confusion, psychotic-like behavior, disorientation, aggressive behavior, agitation, and delirium.
+Postmarketing reports with medications used to treat Parkinson’s disease or RLS, including pramipexole, indicate that patients may experience new or worsening mental status and behavioral changes, which may be severe, including psychotic-like behavior during treatment with pramipexole or after starting or increasing the dose of pramipexole.
+Other drugs prescribed to improve the symptoms of Parkinson’s disease or RLS can have similar effects on thinking and behavior.
+This abnormal thinking and behavior can consist of one or more of a variety of manifestations including paranoid ideation, delusions, hallucinations, confusion, psychotic-like behavior, symptoms of mania (e.g., insomnia, psychomotor agitation), disorientation, aggressive behavior, agitation, and delirium.
 
 Patients with a major psychotic disorder should ordinarily not be treated with dopamine agonists, including pramipexole, because of the risk of exacerbating the psychosis.
 In addition, certain medications used to treat psychosis may exacerbate the symptoms of Parkinson’s disease and may decrease the effectiveness of pramipexole [see Drug Interactions (7.1)].
