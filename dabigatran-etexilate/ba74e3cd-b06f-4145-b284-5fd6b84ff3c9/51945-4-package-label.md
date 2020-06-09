@@ -1,5 +1,3 @@
-PRADAXA (dabigatran etexilate mesylate) 75 mg capsules NDC 0597-0149-54
-
 # PRINCIPAL DISPLAY PANEL - 110 mg Capsule Bottle Carton
 
 NDC 0597-0108-54
@@ -19,8 +17,6 @@ Once opened, the product must be used within 4 months.
 Rx only
 
 Boehringer Ingelheim
-
-PRADAXA (dabigatran etexilate mesylate) 150 mg capsules NDC 0597-0135-54
 
 # PRINCIPAL DISPLAY PANEL - 75 mg Capsule Bottle Carton
 
