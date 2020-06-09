@@ -1,8 +1,10 @@
 # MEDICATION GUIDE
 
-LIBRAX (lee braks)
+LIBRAX® (lee braks)
 
-(chlordiazepoxide HCl and clidinium bromide) capsules
+(chlordiazepoxide HCl and clidinium bromide)
+
+Capsules
 
 What is the most important information I should know about Librax?
 
@@ -64,7 +66,7 @@ Do not start or stop other medicines without talking to your healthcare provider
 
 Especially tell your healthcare provider if you:
 
-- •take a monoamine oxidase inhibitor (MAOI) medicine or an anti-psychotic medicine called phenothiazine.
+- •take a monoamine oxidase inhibitor (MAOI) medicine or an antipsychotic medicine called phenothiazine.
 
 How should I take Librax?
 
@@ -100,7 +102,7 @@ How should I store Librax?
 - •Store Librax at room temperature 77°F (25°C).
 - •Keep Librax and all medicines out of the reach of children.
 
-General information about the safe and effective use of Librax.
+General information about the safe and effective use of Librax
 
 Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide.
 Do not use Librax for a condition for which it was not prescribed.
@@ -113,20 +115,20 @@ What are the ingredients in Librax?
 Active ingredient: chlordiazepoxide hydrochloride and clidinium bromide
 
 Inactive ingredients: corn starch, lactose and talc.
-Gelatin capsule shells may contain methylparaben, propylparaben, and potassium sorbate, with the following dye systems: D&C Yellow No. 10 and either FD&C Green No. 3.
+Gelatin capsule shells may contain methylparaben, propylparaben, and potassium sorbate, with the following dye systems: D&C Yellow No. 10 and FD&C Green No. 3.
 
-Manufactured for: Valeant Pharmaceuticals North America LLC Bridgewater, NJ 08807 USA
+Distributed by: Bausch Health US, LLC Bridgewater, NJ 08807 USA
 
-Manufactured by: Valeant Pharmaceuticals International, Inc. Steinbach, MB R5G 1Z7 Canada
+Manufactured by: Bausch Health Companies Inc. Steinbach, MB R5G 1Z7, Canada
 
-Librax is a trademark of Valeant Pharmaceuticals International, Inc. or its affiliates.
+Librax is a trademark of Bausch Health Companies Inc. or its affiliates.
 
-©Valeant Pharmaceuticals North America LLC
+© 2020 Bausch Health Companies Inc. or its affiliates
 
-For more information, go to www.valeant.com or contact Valeant Pharmaceuticals North America LLC at 1-800-321-4576.
+For more information, go to bauschhealth.com or contact Bausch Health US, LLC at 1-800-321-4576.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Issued: 01/2017
+Revised: 05/2020
 
-9548901 20001783
+9548902 20002891

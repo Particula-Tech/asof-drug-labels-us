@@ -10,7 +10,7 @@ Advise both patients and caregivers about the risks of respiratory depression an
 As in the case of other preparations containing CNS-acting drugs, patients receiving Librax should be cautioned about possible combined effects with opioids, alcohol and other CNS depressants.
 For the same reason, they should be cautioned against hazardous occupations requiring complete mental alertness, such as operating machinery or driving a motor vehicle.
 
-## Usage In Pregnancy
+## Usage in Pregnancy
 
 An increased risk of congenital malformations associated with the use of minor tranquilizers (chlordiazepoxide, diazepam and meprobamate) during the first trimester of pregnancy has been suggested in several studies.
 Because use of these drugs is rarely a matter of urgency, their use during this period should almost always be avoided.

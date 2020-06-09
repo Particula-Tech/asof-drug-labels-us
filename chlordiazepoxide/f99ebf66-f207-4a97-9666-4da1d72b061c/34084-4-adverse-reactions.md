@@ -18,4 +18,4 @@ When chlordiazepoxide hydrochloride treatment is protracted, periodic blood coun
 Adverse effects reported with use of Librax are those typical of anticholinergic agents, i.e., dryness of the mouth, blurring of vision, urinary hesitancy and constipation.
 Constipation has occurred most often when Librax therapy has been combined with other spasmolytic agents and/or a low residue diet.
 
-To report SUSPECTED ADVERSE REACTIONS, contact Valeant Pharmaceuticals North America LLC at 1-800-321-4576 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
+To report SUSPECTED ADVERSE REACTIONS, contact Bausch Health US, LLC at 1-800-321-4576 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
