@@ -9,28 +9,28 @@ NHL Study 1
 A multicenter, open-label, single-arm study was conducted in 166 patients with relapsed or refractory, low-grade or follicular, B-cell NHL who received 375 mg/m2 of rituximab given as an intravenous infusion weekly for 4 doses.
 Patients with tumor masses >10 cm or with >5,000 lymphocytes/µL in the peripheral blood were excluded from the study.
 
-Results are summarized in Table 3.
+Results are summarized in Table 4.
 The median time to onset of response was 50 days.
 Disease-related signs and symptoms (including B-symptoms) resolved in 64% (25/39) of those patients with such symptoms at study entry.
 
 NHL Study 2
 
 In a multicenter, single-arm study, 37 patients with relapsed or refractory, low-grade NHL received 375 mg/m2 of rituximab weekly for 8 doses.
-Results are summarized in Table 3.
+Results are summarized in Table 4.
 
 NHL Study 3
 
 In a multicenter, single-arm study, 60 patients received 375 mg/m2 of rituximab weekly for 4 doses.
 All patients had relapsed or refractory, low-grade or follicular, B-cell NHL and had achieved an objective clinical response to rituximab administered 3.8–35.6 months (median 14.5 months) prior to retreatment with rituximab.
 Of these 60 patients, 5 received more than one additional course of rituximab.
-Results are summarized in Table 3.
+Results are summarized in Table 4.
 
 Bulky Disease
 
 In pooled data from studies 1 and 3, 39 patients with bulky (single lesion >10 cm in diameter) and relapsed or refractory, low-grade NHL received rituximab 375 mg/m2 weekly for 4 doses.
-Results are summarized in Table 3.
+Results are summarized in Table 4.
 
-Table 3 Summary of Rituximab NHL Efficacy Data by Schedule and Clinical Setting
+Table 4 Summary of Rituximab NHL Efficacy Data by Schedule and Clinical Setting
 
 |  | NHL Study 1 Weekly × 4 N=166 | NHL Study 2 Weekly × 8 N=37 | NHL Study 1 and NHL Study 3 Bulky disease, Weekly × 4 N=39Six of these patients are included in the first column. Thus, data from 296 intent-to-treat patients are provided in this table. | NHL Study 3 Retreatment, Weekly × 4 N=60 |
 | --- | --- | --- | --- | --- |
@@ -48,11 +48,11 @@ A total of 322 patients with previously untreated follicular NHL were randomized
 The main outcome measure of the study was progression-free survival (PFS) defined as the time from randomization to the first of progression, relapse, or death.
 
 Twenty-six percent of the study population was >60 years of age, 99% had Stage III or IV disease, and 50% had an International Prognostic Index (IPI) score ≥2.
-The results for PFS as determined by a blinded, independent assessment of progression are presented in Table 4.
+The results for PFS as determined by a blinded, independent assessment of progression are presented in Table 5.
 The point estimates may be influenced by the presence of informative censoring.
 The PFS results based on investigator assessment of progression were similar to those obtained by the independent review assessment.
 
-Table 4 Efficacy Results in NHL Study 4
+Table 5 Efficacy Results in NHL Study 4
 
 | R-CVP N=162 |  | CVP N=160 |  |
 | --- | --- | --- | --- |
@@ -73,7 +73,7 @@ Prior to randomization to maintenance therapy, patients had received R-CHOP (75%
 PFS was longer in patients randomized to rituximab as single agent maintenance therapy (HR: 0.54, 95% CI: 0.42, 0.70).
 The PFS results based on investigator assessment of progression were similar to those obtained by the independent review assessment.
 
-| Figure 1 Kaplan-Meier Plot of IRC Assessed PFS |
+| Figure 1 Kaplan-Meier Plot of IRC Assessed PFS in NHL Study 5 |
 | --- |
 
 NHL Study 6
@@ -100,7 +100,7 @@ The main outcome measure of the study was progression-free survival, defined as 
 Responding patients underwent a second randomization to receive rituximab or no further therapy.
 
 Among all enrolled patients, 62% had centrally confirmed DLBCL histology, 73% had Stage III–IV disease, 56% had IPI scores ≥2, 86% had ECOG performance status of <2, 57% had elevated LDH levels, and 30% had two or more extranodal disease sites involved.
-Efficacy results are presented in Table 5.
+Efficacy results are presented in Table 6.
 These results reflect a statistical approach which allows for an evaluation of rituximab administered in the induction setting that excludes any potential impact of rituximab given after the second randomization.
 
 Analysis of results after the second randomization in NHL Study 7 demonstrates that for patients randomized to R-CHOP, additional rituximab exposure beyond induction was not associated with further improvements in progression-free survival or overall survival.
@@ -111,16 +111,16 @@ A total of 399 patients with DLBCL, age ≥60 years, were randomized in a 1:1 ra
 All patients received up to eight 3-week cycles of CHOP induction; patients in the R-CHOP arm received rituximab 375 mg/m2 on Day 1 of each cycle.
 The main outcome measure of the study was event-free survival, defined as the time from randomization to relapse, progression, change in therapy, or death from any cause.
 Among all enrolled patients, 80% had Stage III or IV disease, 60% of patients had an age-adjusted IPI ≥2, 80% had ECOG performance status scores <2, 66% had elevated LDH levels, and 52% had extranodal involvement in at least two sites.
-Efficacy results are presented in Table 5.
+Efficacy results are presented in Table 6.
 
 NHL Study 9
 
 A total of 823 patients with DLBCL, aged 18–60 years, were randomized in a 1:1 ratio to receive an anthracycline-containing chemotherapy regimen alone or in combination with rituximab.
 The main outcome measure of the study was time to treatment failure, defined as time from randomization to the earliest of progressive disease, failure to achieve a complete response, relapse, or death.
 Among all enrolled patients, 28% had Stage III–IV disease, 100% had IPI scores of ≤1, 99% had ECOG performance status of <2, 29% had elevated LDH levels, 49% had bulky disease, and 34% had extranodal involvement.
-Efficacy results are presented in Table 5.
+Efficacy results are presented in Table 6.
 
-Table 5 Efficacy Results in NHL Studies 7, 8, and 9
+Table 6 Efficacy Results in NHL Studies 7, 8, and 9
 
 | Main outcome | Progression-free survival (years) |  | Event-free survival (years) |  | Time to treatment failure (years) |  |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -152,22 +152,22 @@ No acute fatal infusion-related reactions were observed.
 
 ## 14.5 Chronic Lymphocytic Leukemia (CLL)
 
-The safety and effectiveness of rituximab were evaluated in two randomized (1:1) multicenter open-label studies comparing FC alone or in combination with rituximab for up to 6 cycles in patients with previously untreated CLL [CLL Study 11 (n=817)] or previously treated CLL [CLL Study 12 (n=552)].
+The safety and effectiveness of rituximab were evaluated in two randomized (1:1) multicenter open-label studies comparing FC alone or in combination with rituximab for up to 6 cycles in patients with previously untreated CLL [CLL Study 1 (n=817)] or previously treated CLL [CLL Study 2 (n=552)].
 Patients received fludarabine 25 mg/m2/day and cyclophosphamide 250 mg/m2/day on days 1, 2, and 3 of each cycle, with or without rituximab.
 In both studies, seventy-one percent of CLL patients received 6 cycles and 90% received at least 3 cycles of rituximab-based therapy.
 
-In CLL Study 11, 30% of patients were 65 years or older, 31% were Binet stage C, 45% had B symptoms, more than 99% had ECOG performance status (PS) 0–1, 74% were male, and 100% were White.
-In CLL Study 12, 44% of patients were 65 years or older, 28% had B symptoms, 82% received a prior alkylating drug, 18% received prior fludarabine, 100% had ECOG PS 0–1, 67% were male, and 98% were White.
+In CLL Study 1, 30% of patients were 65 years or older, 31% were Binet stage C, 45% had B symptoms, more than 99% had ECOG performance status (PS) 0–1, 74% were male, and 100% were White.
+In CLL Study 2, 44% of patients were 65 years or older, 28% had B symptoms, 82% received a prior alkylating drug, 18% received prior fludarabine, 100% had ECOG PS 0–1, 67% were male, and 98% were White.
 
-The main outcome measure in both studies was progression-free survival (PFS), defined as the time from randomization to progression, relapse, or death, as determined by investigators (CLL Study 11) or an independent review committee (CLL Study 12).
-The investigator assessed results in CLL Study 12 were supportive of those obtained by the independent review committee.
-Efficacy results are presented in Table 6.
+The main outcome measure in both studies was progression-free survival (PFS), defined as the time from randomization to progression, relapse, or death, as determined by investigators (CLL Study 1) or an independent review committee (CLL Study 2).
+The investigator assessed results in CLL Study 2 were supportive of those obtained by the independent review committee.
+Efficacy results are presented in Table 7.
 
-Table 6 Efficacy Results in CLL Studies 11 and 12
+Table 7 Efficacy Results in CLL Studies 1 and 2
 
 | R-FC N=408 | FC N=409 | R-FC N=276 | FC N=276 |  |
 | --- | --- | --- | --- | --- |
-|  | CLL Study 11As defined in 1996 National Cancer Institute Working Group guidelines. (Previously untreated) |  | CLL Study 12 (Previously treated) |  |
+|  | CLL Study 1As defined in 1996 National Cancer Institute Working Group guidelines. (Previously untreated) |  | CLL Study 2 (Previously treated) |  |
 | Median PFS (months) | 39.8 | 31.5 | 26.7 | 21.7 |
 | Hazard ratio (95% CI) | 0.56 (0.43, 0.71) |  | 0.76 (0.6, 0.96) |  |
 | P value (Log-Rank test) | <0.01 |  | 0.02 |  |
@@ -175,13 +175,13 @@ Table 6 Efficacy Results in CLL Studies 11 and 12
 | (95% CI) | (82, 89) | (68, 77) | (48, 60) | (37, 51) |
 
 Across both studies, 243 of 676 rituximab-treated patients (36%) were 65 years of age or older and 100 rituximab-treated patients (15%) were 70 years of age or older.
-The results of exploratory subset analyses in elderly patients are presented in Table 7.
+The results of exploratory subset analyses in elderly patients are presented in Table 8.
 
-Table 7 Efficacy Results in CLL Studies 11 and 12 in Subgroups Defined by AgeFrom exploratory analyses.
+Table 8 Efficacy Results in CLL Studies 1 and 2 in Subgroups Defined by AgeFrom exploratory analyses.
 
 | Number of Patients | Hazard Ratio for PFS (95% CI) | Number of Patients | Hazard Ratio for PFS (95% CI) |  |
 | --- | --- | --- | --- | --- |
-| Age subgroup | CLL Study 11 |  | CLL Study 12 |  |
+| Age subgroup | CLL Study 1 |  | CLL Study 2 |  |
 | Age <65 yrs | 572 | 0.52 (0.39, 0.70) | 313 | 0.61 (0.45, 0.84) |
 | Age ≥65 yrs | 245 | 0.62 (0.39, 0.99) | 233 | 0.99 (0.70, 1.40) |
 | Age <70 yrs | 736 | 0.51 (0.39, 0.67) | 438 | 0.67 (0.51, 0.87) |
@@ -189,7 +189,7 @@ Table 7 Efficacy Results in CLL Studies 11 and 12 in Subgroups Defined by AgeFro
 
 ## 14.6 Granulomatosis with Polyangiitis (GPA) (Wegener's Granulomatosis) and Microscopic Polyangiitis (MPA)
 
-Induction Treatment of Patients with Active Disease (GPA/MPA Study 1)
+Induction Treatment of Adult Patients with Active Disease (GPA/MPA Study 1)
 
 A total of 197 patients with active, severe GPA and MPA (two forms of ANCA Associated Vasculitides) were treated in a randomized, double-blind, active-controlled multicenter, non-inferiority study, conducted in two phases – a 6 month remission induction phase and a 12 month remission maintenance phase.
 Patients were 15 years of age or older, diagnosed with GPA (75% of patients) or MPA (24% of patients) according to the Chapel Hill Consensus conference criteria (1% of the patients had unknown vasculitis type).
@@ -204,9 +204,9 @@ Once remission was achieved or at the end of the 6 month remission induction per
 The rituximab group did not receive additional therapy to maintain remission.
 The main outcome measure for both GPA and MPA patients was achievement of complete remission at 6 months defined as a BVAS/GPA of 0, and off glucocorticoid therapy.
 The pre-specified non-inferiority margin was a treatment difference of 20%.
-As shown in Table 8, the study demonstrated non-inferiority of rituximab to cyclophosphamide for complete remission at 6 months.
+As shown in Table 9, the study demonstrated non-inferiority of rituximab to cyclophosphamide for complete remission at 6 months.
 
-Table 8 Percentage of Patients Who Achieved Complete Remission at 6 Months (Intent-to-Treat Population)
+Table 9 Percentage of Patients with GPA/MPA Who Achieved Complete Remission at 6 Months (Intent-to-Treat Population)
 
 |  | Rituximab (n=99) | Cyclophosphamide (n=98) | Treatment Difference (Rituximab – Cyclophosphamide) |
 | --- | --- | --- | --- |
@@ -222,7 +222,7 @@ Retreatment of Flares with Rituximab
 
 Based upon investigator judgment, 15 patients received a second course of rituximab therapy for treatment of relapse of disease activity which occurred between 8 and 17 months after the induction treatment course of rituximab.
 
-Follow up Treatment of Patients with GPA/MPA who have achieved disease control with other Immunosuppressant (GPA/MPA Study 2)
+Follow up Treatment of Adult Patients with GPA/MPA who have achieved disease control with other Immunosuppressant (GPA/MPA Study 2)
 
 A total of 115 patients (86 with GPA, 24 with MPA, and 5 with renal-limited ANCA-associated vasculitis) in disease remission were randomized to receive azathioprine (58 patients) or non-U.S.-licensed rituximab (57 patients) in this open-label, prospective, multi-center, randomized, active-controlled study.
 Eligible patients were 21 years and older and had either newly diagnosed (80%) or relapsing disease (20%).
@@ -242,6 +242,6 @@ By month 28, major relapse occurred in 3 patients (5%) in the non-U.S.-licensed 
 
 The observed cumulative incidence rate of first major relapse during the 28 months was lower in patients on non-U.S.-licensed rituximab relative to azathioprine (Figure 2).
 
-| Figure 2 Cumulative Incidence Over Time of First Major Relapse |
+| Figure 2 Cumulative Incidence Over Time of First Major Relapse in Patients with GPA/MPA |
 | --- |
 | Patients were censored at the last follow-up dates if they had no event |

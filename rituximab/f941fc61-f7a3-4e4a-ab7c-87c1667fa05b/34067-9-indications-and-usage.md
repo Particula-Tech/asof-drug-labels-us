@@ -11,7 +11,7 @@ RUXIENCE (rituximab-pvvr) is indicated for the treatment of adult patients with:
 
 ## 1.2 Chronic Lymphocytic Leukemia (CLL)
 
-RUXIENCE is indicated, in combination with fludarabine and cyclophosphamide (FC), for the treatment of adult patients with previously untreated and previously treated CD20-positive CLL.
+RUXIENCE, in combination with fludarabine and cyclophosphamide (FC), is indicated for the treatment of adult patients with previously untreated and previously treated CD20-positive CLL.
 
 ## 1.3 Granulomatosis with Polyangiitis (GPA) (Wegener's Granulomatosis) and Microscopic Polyangiitis (MPA)
 

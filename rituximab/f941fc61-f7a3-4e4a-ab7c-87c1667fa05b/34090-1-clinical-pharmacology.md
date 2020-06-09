@@ -45,15 +45,28 @@ The estimated median terminal half-life of rituximab was 32 days (range, 14 to 6
 
 Granulomatosis with Polyangiitis (GPA) (Wegener's Granulomatosis) and Microscopic Polyangiitis
 
-Based on the population pharmacokinetic analysis of data in 97 GPA and MPA patients in the GPA/MPA Study 1, who received 375 mg/m2 rituximab once weekly by intravenous infusion for four weeks, the estimated median terminal elimination half-life was 23 days (range, 9 to 49 days).
-Rituximab mean clearance and volume of distribution were 0.
-312 L/day (range, 0.115 to 0.728 L/day) and 4.50 L (range, 2.21 to 7.52 L) respectively.
-Male patients and patients with higher BSA or positive anti-rituximab antibody levels have higher clearance.
-However, further dose adjustment based on gender or anti-rituximab antibody status is not necessary.
+The pharmacokinetic parameters in adult patients with GPA/MPA receiving rituximab 375 mg/m2 intravenously once weekly for four doses are summarized in Table 3.
+
+Table 3 Population PK in Adult Patients with GPA/MPA
+
+| Parameter | Statistic | GPA/MPA Study 1 |
+| --- | --- | --- |
+| N | Number of Patients | 97 |
+| Terminal Half-life | Median | 25 |
+| (days) | (Range) | (11 to 52) |
+| AUC0–180d | Median | 10302 |
+| (µg/mL*day) | (Range) | (3653 to 21874) |
+| Clearance | Median | 0.279 |
+| (L/day) | (Range) | (0.113 to 0.653) |
+| Volume of Distribution | Median | 3.12 |
+| (L) | (Range) | (2.42 to 3.91) |
+
+The population PK analysis in adults with GPA and MPA showed that male patients and patients with higher BSA or positive anti-rituximab antibody levels have higher clearance.
+However, further dose adjustment based on gender or anti-drug antibody status is not necessary.
 
 Specific Populations
 
-The pharmacokinetics of rituximab products have not been studied in children and adolescents.
+The pharmacokinetics of rituximab products have not been studied in children and adolescents with NHL or CLL.
 
 No formal studies were conducted to examine the effects of either renal or hepatic impairment on the pharmacokinetics of rituximab products.
 

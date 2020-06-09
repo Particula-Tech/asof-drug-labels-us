@@ -7,6 +7,7 @@ Severe reactions typically occurred during the first infusion with time to onset
 Rituximab product-induced infusion-related reactions and sequelae include urticaria, hypotension, angioedema, hypoxia, bronchospasm, pulmonary infiltrates, acute respiratory distress syndrome, myocardial infarction, ventricular fibrillation, cardiogenic shock, anaphylactoid events, or death.
 
 Premedicate patients with an antihistamine and acetaminophen prior to dosing.
+For patients with GPA and MPA, methylprednisolone 100 mg intravenously or its equivalent is recommended 30 minutes prior to each infusion.
 Institute medical management (e.g. glucocorticoids, epinephrine, bronchodilators, or oxygen) for infusion-related reactions as needed.
 Depending on the severity of the infusion-related reaction and the required interventions, temporarily or permanently discontinue RUXIENCE.
 Resume infusion at a minimum 50% reduction in rate after symptoms have resolved.
@@ -90,11 +91,13 @@ Evaluate if symptoms of obstruction such as abdominal pain or repeated vomiting 
 
 The safety of immunization with live viral vaccines following rituximab product therapy has not been studied and vaccination with live virus vaccines is not recommended before or during treatment.
 
+For patients treated with RUXIENCE, physicians should review the patient's vaccination status and patients should, if possible, be brought up-to-date with all immunizations in agreement with current immunization guidelines prior to initiating RUXIENCE and administer non live vaccines at least 4 weeks prior to a course of RUXIENCE.
+
 ## 5.11 Embryo-Fetal Toxicity
 
 Based on human data, rituximab products can cause fetal harm due to B-cell lymphocytopenia in infants exposed in-utero.
-Advise pregnant women of the risk to a fetus.
-Females of childbearing potential should use effective contraception while receiving RUXIENCE and for 12 months following the last dose of RUXIENCE.
+Advise pregnant women of the potential risk to a fetus.
+Advise females of reproductive potential to use effective contraception while receiving RUXIENCE and for at least 12 months after the last dose [see Use in Specific Populations (8.1, 8.3)].
 
 ## 5.12 Concomitant Use with Other Biologic Agents and DMARDS in GPA and MPA
 

@@ -1,6 +1,6 @@
 # 6 ADVERSE REACTIONS
 
-The following serious adverse reactions are discussed in greater detail in other sections of the labeling:
+The following clinically significant adverse reactions are discussed in greater detail in other sections of the labeling:
 
 - Infusion-related reactions [see Warnings and Precautions (5.1)]
 - Severe mucocutaneous reactions [see Warnings and Precautions (5.2)]
@@ -32,7 +32,7 @@ Infusion-Related Reactions
 In the majority of patients with NHL, infusion-related reactions consisting of fever, chills/rigors, nausea, pruritus, angioedema, hypotension, headache, bronchospasm, urticaria, rash, vomiting, myalgia, dizziness, or hypertension occurred during the first rituximab infusion.
 Infusion-related reactions typically occurred within 30 to 120 minutes of beginning the first infusion and resolved with slowing or interruption of the rituximab infusion and with supportive care (diphenhydramine, acetaminophen, and intravenous saline).
 The incidence of infusion-related reactions was highest during the first infusion (77%) and decreased with each subsequent infusion [see Warnings and Precautions (5.1)].
-In patients with previously untreated follicular NHL or previously untreated DLBCL, who did not experience a Grade 3 or 4 infusion-related reaction in Cycle 1 and received a 90-minute infusion of rituximab at Cycle 2, the incidence of Grade 3–4 infusion reactions on the day of, or day after the infusion was 1.1% (95% CI [0.3%, 2.8%]).
+In patients with previously untreated follicular NHL or previously untreated DLBCL, who did not experience a Grade 3 or 4 infusion-related reaction in Cycle 1 and received a 90-minute infusion of rituximab at Cycle 2, the incidence of Grade 3–4 infusion-related reactions on the day of, or day after the infusion was 1.1% (95% CI [0.3%, 2.8%]).
 For Cycles 2–8, the incidence of Grade 3–4 infusion-related reactions on the day of or day after the 90-minute infusion, was 2.8% (95% CI [1.3%, 5.0%]) [see Warnings and Precautions (5.1), Clinical Studies (14.4)].
 
 Infections
@@ -142,28 +142,28 @@ Detailed safety data collection in these studies was primarily limited to Grade 
 In NHL Study 8, a review of cardiac toxicity determined that supraventricular arrhythmias or tachycardia accounted for most of the difference in cardiac disorders (4.5% for R-CHOP vs. 1.0% for CHOP).
 
 The following Grade 3 or 4 adverse reactions occurred more frequently among patients in the R-CHOP arm compared with those in the CHOP arm: thrombocytopenia (9% vs. 7%) and lung disorder (6% vs. 3%).
-Other Grade 3 or 4 adverse reactions occurring more frequently among patients receiving R-CHOP were viral infection (NHL Study 8), neutropenia (Studies 8 and 9 (NCT00064116)), and anemia (NHL Study 9).
+Other Grade 3 or 4 adverse reactions occurring more frequently among patients receiving R-CHOP were viral infection (NHL Study 8), neutropenia (NHL Studies 8 and 9 (NCT00064116)), and anemia (NHL Study 9).
 
 CLL
 
-The data below reflect exposure to rituximab in combination with fludarabine and cyclophosphamide in 676 patients with CLL in CLL Study 11 (NCT00281918) or CLL Study 12 (NCT00090051) [see Clinical Studies (14.5)].
+The data below reflect exposure to rituximab in combination with fludarabine and cyclophosphamide in 676 patients with CLL in CLL Study 1 (NCT00281918) or CLL Study 2 (NCT00090051) [see Clinical Studies (14.5)].
 The age range was 30–83 years and 71% were men.
-Detailed safety data collection in CLL Study 11 was limited to Grade 3 and 4 adverse reactions and serious adverse reactions.
+Detailed safety data collection in CLL Study 1 was limited to Grade 3 and 4 adverse reactions and serious adverse reactions.
 
 Infusion-related adverse reactions were defined by any of the following adverse events occurring during or within 24 hours of the start of infusion: nausea, pyrexia, chills, hypotension, vomiting, and dyspnea.
 
-In CLL Study 11, the following Grade 3 and 4 adverse reactions occurred more frequently in R-FC-treated patients compared to FC-treated patients: infusion-related reactions (9% in R-FC arm), neutropenia (30% vs. 19%), febrile neutropenia (9% vs. 6%), leukopenia (23% vs. 12%), and pancytopenia (3% vs. 1%).
+In CLL Study 1, the following Grade 3 and 4 adverse reactions occurred more frequently in R-FC-treated patients compared to FC-treated patients: infusion-related reactions (9% in R-FC arm), neutropenia (30% vs. 19%), febrile neutropenia (9% vs. 6%), leukopenia (23% vs. 12%), and pancytopenia (3% vs. 1%).
 
-In CLL Study 12, the following Grade 3 or 4 adverse reactions occurred more frequently in R-FC-treated patients compared to FC-treated patients: infusion-related reactions (7% in R-FC arm), neutropenia (49% vs. 44%), febrile neutropenia (15% vs. 12%), thrombocytopenia (11% vs. 9%), hypotension (2% vs. 0%), and hepatitis B (2% vs. <1%).
+In CLL Study 2, the following Grade 3 or 4 adverse reactions occurred more frequently in R-FC-treated patients compared to FC-treated patients: infusion-related reactions (7% in R-FC arm), neutropenia (49% vs. 44%), febrile neutropenia (15% vs. 12%), thrombocytopenia (11% vs. 9%), hypotension (2% vs. 0%), and hepatitis B (2% vs. <1%).
 Fifty-nine percent of R-FC-treated patients experienced an infusion-related reaction of any severity.
 
 ## 6.2 Clinical Trials Experience in Granulomatosis with Polyangiitis (GPA) (Wegener's Granulomatosis) and Microscopic Polyangiitis (MPA)
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-Induction Treatment of Patients with Active GPA/MPA (GPA/MPA Study 1)
+Induction Treatment of Adult Patients with Active GPA/MPA (GPA/MPA Study 1)
 
-The data presented below from GPA/MPA Study 1 (NCT00104299) reflect the experience in 197 patients with active GPA and MPA treated with rituximab or cyclophosphamide in a single controlled study, which was conducted in two phases: a 6 month randomized, double-blind, double-dummy, active-controlled remission induction phase and an additional 12 month remission maintenance phase [see Clinical Studies (14.6)].
+The data presented below from GPA/MPA Study 1 (NCT00104299) reflect the experience in 197 adult patients with active GPA and MPA treated with rituximab or cyclophosphamide in a single controlled study, which was conducted in two phases: a 6 month randomized, double-blind, double-dummy, active-controlled remission induction phase and an additional 12 month remission maintenance phase [see Clinical Studies (14.6)].
 In the 6-month remission induction phase, 197 patients with GPA and MPA were randomized to either rituximab 375 mg/m2 once weekly for 4 weeks plus glucocorticoids, or oral cyclophosphamide 2 mg/kg daily (adjusted for renal function, white blood cell count, and other factors) plus glucocorticoids to induce remission.
 Once remission was achieved or at the end of the 6 month remission induction period, the cyclophosphamide group received azathioprine to maintain remission.
 The rituximab group did not receive additional therapy to maintain remission.
@@ -215,9 +215,9 @@ Hypogammaglobulinemia
 Hypogammaglobulinemia (IgA, IgG or IgM below the lower limit of normal) has been observed in patients with GPA and MPA treated with rituximab in GPA/MPA Study 1.
 At 6 months, in the rituximab group, 27%, 58% and 51% of patients with normal immunoglobulin levels at baseline, had low IgA, IgG and IgM levels, respectively compared to 25%, 50%, and 46% in the cyclophosphamide group.
 
-Follow up Treatment of Patients with GPA/MPA who have Achieved Disease Control with Induction Treatment (GPA/MPA Study 2)
+Follow up Treatment of Adult Patients with GPA/MPA who have Achieved Disease Control with Induction Treatment (GPA/MPA Study 2)
 
-In GPA/MPA Study 2 (NCT00748644), an open-label, controlled, clinical study [see Clinical Studies (14.6)], evaluating the efficacy and safety of non-U.S.-licensed rituximab versus azathioprine as follow up treatment in patients with GPA, MPA or renal-limited ANCA-associated vasculitis who had achieved disease control after induction treatment with cyclophosphamide, a total of 57 GPA and MPA patients in disease remission received follow up treatment with two 500 mg intravenous infusions of non-U.S.-licensed rituximab, separated by two weeks on Day 1 and Day 15, followed by a 500 mg intravenous infusion every 6 months for 18 months.
+In GPA/MPA Study 2 (NCT00748644), an open-label, controlled, clinical study [see Clinical Studies (14.6)], evaluating the efficacy and safety of non-U.S.-licensed rituximab versus azathioprine as follow up treatment in adult patients with GPA, MPA or renal-limited ANCA-associated vasculitis who had achieved disease control after induction treatment with cyclophosphamide, a total of 57 GPA and MPA patients in disease remission received follow up treatment with two 500 mg intravenous infusions of non-U.S.-licensed rituximab, separated by two weeks on Day 1 and Day 15, followed by a 500 mg intravenous infusion every 6 months for 18 months.
 
 The safety profile was consistent with the safety profile for rituximab in GPA and MPA.
 
@@ -245,13 +245,13 @@ The safety profile was consistent with the safety profile for rituximab in GPA a
 As with all therapeutic proteins, there is a potential for immunogenicity.
 The detection of antibody formation is highly dependent on the sensitivity and specificity of the assay.
 Additionally, the observed incidence of antibody (including neutralizing antibody) positivity in an assay may be influenced by several factors including assay methodology, sample handling, timing of sample collection, concomitant medications, and underlying disease.
-For these reasons, comparison of the incidence of antibodies to rituximab in the studies described below with the incidence of antibodies in other studies or to other products may be misleading.
+For these reasons, comparison of the incidence of antibodies in the studies described below with the incidence of antibodies in other studies or to other rituximab products may be misleading.
 
 Using an ELISA assay, anti-rituximab antibody was detected in 4 of 356 (1.1%) patients with low-grade or follicular NHL receiving single-agent rituximab.
 Three of the four patients had an objective clinical response.
 
-A total of 23/99 (23%) rituximab-treated patients with GPA and MPA developed anti-rituximab antibodies by 18 months in GPA/MPA Study 1.
-The clinical relevance of anti-rituximab antibody formation in rituximab-treated patients is unclear.
+A total of 23/99 (23%) rituximab-treated adult patients with GPA and MPA developed anti-rituximab antibodies by 18 months in GPA/MPA Study 1.
+The clinical relevance of anti-rituximab antibody formation in rituximab-treated adult patients is unclear.
 
 ## 6.4 Postmarketing Experience
 
@@ -263,7 +263,7 @@ Because these reactions are reported voluntarily from a population of uncertain 
 - Immune/Autoimmune Events: uveitis, optic neuritis, systemic vasculitis, pleuritis, lupus-like syndrome, serum sickness, polyarticular arthritis, and vasculitis with rash.
 - Infection: viral infections, including progressive multifocal leukoencephalopathy (PML), increase in fatal infections in HIV-associated lymphoma, and a reported increased incidence of Grade 3 and 4 infections [see Warnings and Precautions (5.6)].
 - Neoplasia: disease progression of Kaposi's sarcoma.
-- Skin: severe mucocutaneous reactions.
+- Skin: severe mucocutaneous reactions, pyoderma gangrenosum (including genital presentation).
 - Gastrointestinal: bowel obstruction and perforation.
 - Pulmonary: fatal bronchiolitis obliterans and fatal interstitial lung disease.
 - Nervous system: Posterior Reversible Encephalopathy Syndrome (PRES)/Reversible Posterior Leukoencephalopathy Syndrome (RPLS).
