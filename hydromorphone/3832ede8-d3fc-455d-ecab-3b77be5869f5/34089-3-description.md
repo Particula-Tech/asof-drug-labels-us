@@ -2,7 +2,7 @@
 
 Hydromorphone Hydrochloride, a hydrogenated ketone of morphine, is an opioid agonist.
 
-Hydromorphone Hydrochloride Injection, USP (HIGH POTENCY) is available as a sterile, aqueous solution in AMBER, single-dose vials for slow intravenous, subcutaneous, or intramuscular administration.
+Hydromorphone Hydrochloride Injection (HIGH POTENCY) is available as a sterile, aqueous solution in AMBER, single-dose vials for slow intravenous, subcutaneous, or intramuscular administration.
 Each single-dose vial contains 10 mg/mL of hydromorphone hydrochloride.
 
 The chemical name of hydromorphone hydrochloride is 4,5α- epoxy-3-hydroxy-17-methylmorphinan-6-one hydrochloride.

@@ -30,8 +30,7 @@ Other opioid-induced effects may include a reduction in biliary and pancreatic s
 
 Effects on the Cardiovascular System
 
-Hydromorphone produces peripheral vasodilation which may result in orthostatic hypotension or syncope.
-Manifestations of histamine release and/or peripheral vasodilation may include pruritus, flushing, red eyes, and sweating and/or orthostatic hypotension.
+Hydromorphone produces peripheral vasodilation which may result in orthostatic hypotension or syncope, manifestations of histamine release and/or peripheral vasodilation may include pruritus, flushing, red eyes, and sweating and/or orthostatic hypotension.
 
 Effects on the Endocrine System
 

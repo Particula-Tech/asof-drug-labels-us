@@ -1,6 +1,6 @@
 # 1 INDICATIONS AND USAGE
 
-Hydromorphone hydrochloride is indicated for the management of pain severe enough to require an opioid analgesic and for which alternate treatments are inadequate.
+Hydromorphone hydrochloride Injection is indicated for the management of pain severe enough to require an opioid analgesic and for which alternate treatments are inadequate.
 
 Hydromorphone Hydrochloride Injection, USP (HIGH POTENCY) is indicated for use in opioid-tolerant patients who require higher doses of opioids for the management of pain severe enough to require an opioid analgesic and for which alternate treatments are inadequate.
 

@@ -2,18 +2,19 @@
 
 ## 9.1 Controlled Substance
 
-Hydromorphone Hydrochloride Injection, USP (HIGH POTENCY) contains hydromorphone, which is a Schedule II controlled substance.
+Hydromorphone Hydrochloride Injection (HIGH POTENCY) contains hydromorphone, which is a Schedule II controlled substance.
 
 ## 9.2 Abuse
 
-Hydromorphone Hydrochloride Injection, USP (HIGH POTENCY) contains hydromorphone hydrochloride, a substance with a high potential for abuse similar to other opioids including fentanyl, hydrocodone, methadone, morphine, oxycodone, oxymorphone, and tapentadol.
-Hydromorphone Hydrochloride Injection, USP (HIGH POTENCY) can be abused and is subject to misuse, addiction, and criminal diversion [see Warnings and Precautions (5.2)].
+Hydromorphone Hydrochloride Injection (HIGH POTENCY) contain hydromorphone hydrochloride, a substance with a high potential for abuse similar to other opioids including fentanyl, hydrocodone, methadone, morphine, oxycodone, oxymorphone, and tapentadol.
+Hydromorphone Hydrochloride Injection (HIGH POTENCY) can be abused and is subject to misuse, addiction, and criminal diversion [see Warnings and Precautions (5.2)].
 
 All patients treated with opioids require careful monitoring for signs of abuse and addiction, because use of opioid analgesic products carries the risk of addiction even under appropriate medical use.
 
 Prescription drug abuse is the intentional non-therapeutic use of a prescription drug, even once, for its rewarding psychological or physiological effects.
 
 Drug addiction is a cluster of behavioral, cognitive, and physiological phenomena that develop after repeated substance use and includes a strong desire to take the drug, difficulties in controlling its use, persisting in its use despite harmful consequences, a higher priority given to drug use than to other activities and obligations, increased tolerance, and sometimes a physical withdrawal.
+
 "Drug-seeking" behavior is very common in persons with substance use disorders.
 Drug-seeking tactics include, emergency calls or visits near the end of office hours, refusal to undergo appropriate examination, testing or referral, repeated "loss" of prescriptions, tampering of prescriptions, and reluctance to provide prior medical records or contact information for other treating healthcare providers.
 "Doctor shopping" (visiting multiple prescribers to obtain additional prescriptions) is common among drug abusers and people suffering from untreated addiction.
@@ -23,15 +24,15 @@ Abuse and addiction are separate and distinct from physical dependence and toler
 Healthcare providers should be aware that addiction may not be accompanied by concurrent tolerance and symptoms of physical dependence in all addicts.
 In addition, abuse of opioids can occur in the absence of true addiction.
 
-Hydromorphone Hydrochloride Injection, USP (HIGH POTENCY), like other opioids, can be diverted for non-medical use into illicit channels of distribution.
+Hydromorphone Hydrochloride Injection (HIGH POTENCY), like other opioids, can be diverted for non-medical use into illicit channels of distribution.
 Careful record-keeping of prescribing information, including quantity, frequency, and renewal requests as required by state and federal law, is strongly advised.
 
 Proper assessment of the patient, proper prescribing practices, periodic re-evaluation of therapy and proper dispensing and storage are appropriate measures that help to limit abuse of opioid drugs.
 
-Risks Specific to Abuse of Hydromorphone Hydrochloride Injection, USP (HIGH POTENCY)
+Risks Specific to Abuse of Hydromorphone Hydrochloride Injection (HIGH POTENCY)
 
-Abuse of Hydromorphone Hydrochloride Injection, USP (HIGH POTENCY) poses a risk of overdose and death.
-The risk is increased with concurrent use of Hydromorphone Hydrochloride Injection, USP (HIGH POTENCY) with alcohol and other central nervous system depressants.
+Abuse of Hydromorphone Hydrochloride Injection (HIGH POTENCY) poses a risk of overdose and death.
+The risk is increased with concurrent use of Hydromorphone Hydrochloride Injection (HIGH POTENCY) with alcohol and other central nervous system depressants.
 
 Parenteral drug abuse is commonly associated with transmission of infectious diseases such as hepatitis and HIV.
 
@@ -45,8 +46,8 @@ Physical dependence results in withdrawal symptoms after abrupt discontinuation 
 Withdrawal also may be precipitated through the administration of drugs with opioid antagonist activity (e.g., naloxone, nalmefene), mixed agonist/antagonist analgesics (e.g., pentazocine, butorphanol, nalbuphine), or partial agonists (e.g., buprenorphine).
 Physical dependence may not occur to a clinically significant degree until after several days to weeks of continued opioid usage.
 
-Hydromorphone Hydrochloride Injection, USP (HIGH POTENCY) should not be abruptly discontinued in a physically-dependent patient [see Dosage and Administration (2.6)].
-If Hydromorphone Hydrochloride Injection, USP (HIGH POTENCY) is abruptly discontinued in a physically-dependent patient, a withdrawal syndrome may occur.
+Hydromorphone Hydrochloride Injection (HIGH POTENCY) should not be abruptly discontinued in a physically-dependent patient [see Dosage and Administration (2.6)].
+If Hydromorphone Hydrochloride Injection (HIGH POTENCY) is abruptly discontinued in a physically-dependent patient, a withdrawal syndrome may occur.
 Some or all of the following can characterize this syndrome: restlessness, lacrimation, rhinorrhea, yawning, perspiration, chills, myalgia, and mydriasis.
 Other signs and symptoms also may develop, including irritability, anxiety, backache, joint pain, weakness, abdominal cramps, insomnia, nausea, anorexia, vomiting, diarrhea, or increased blood pressure, respiratory rate, or heart rate.
 
