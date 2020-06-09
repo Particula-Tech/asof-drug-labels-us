@@ -24,7 +24,7 @@ STORE AT 25°C (77°F) EXCURSIONS PERMITTED TO 15°-30°C (59°-86°F) [SEE USP 
 
 Baxter DEERFIELD, IL 60015 USA MADE IN USA
 
-460-324-01 2J1413
+0725001512 NDC 10019-075-87
 
 10 x 100 mL Single Use INTRAVIA containers
 
@@ -46,27 +46,53 @@ Baxter, Brevibloc Premixed and IntraVia are trademarks of Baxter International I
 
 (01)50310019075872 (21)NNNNNNNNN (17)YYMMDD (10)XXXXXXX
 
-Baxter Healthcare Corporation Deerfield, IL 60015 USA Made in USA 475-345-00 07-06-35-706
+Baxter Healthcare Corporation Deerfield, IL 60015 USA Made in USA 07-06-00-1439
 
 EXP LOT
 
 Rx only
 
-Code 2J1413 For Product Inquiry 1 800 ANA DRUG (1-800-262-3784)
+For Product Inquiry 1 800 ANA DRUG (1-800-262-3784)
+
+BARCODE PLACEMENT ONLY (01)50310019075872(21)NNNNNNNNNNNNNNNNNNNN(17)YYMMMDD(10) XXXXXXXXX
+
+10 x 100 mL Single Use INTRAVIA containers
+
+NDC 10019-075-87
+
+Brevibloc DOUBLE STRENGTH Premixed Injection
+
+Esmolol Hydrochloride in Sodium Chloride 2,000 mg/100 mL (20 mg/mL)
+
+Store at 25°C (77°F).
+Excursions permitted to 15°-30°C (59°-86°F).
+[See USP Controlled Room Temperature.]
+PROTECT FROM FREEZING.
+Avoid excessive heat.
+
+2D DATA MATRIX BAR CODE PLACEMENT ONLY
+
+Baxter, Brevibloc Premixed and IntraVia are trademarks of Baxter International Inc.
+
+(01)50310019075872 (21)NNNNNNNNN (17)YYMMDD (10)XXXXXXX
+
+Baxter Healthcare Corporation Deerfield, IL 60015 USA Made in USA 07-06-00-1439
+
+EXP LOT
+
+Rx only
+
+For Product Inquiry 1 800 ANA DRUG (1-800-262-3784)
 
 BARCODE PLACEMENT ONLY (01)50310019075872(21)NNNNNNNNNNNNNNNNNNNN(17)YYMMMDD(10) XXXXXXXXX
 
 LOT EXP
 
-NDC 10019-055-61
-
-Brevibloc Premixed Injection
+NDC 10019-055-61 Brevibloc Premixed Injection
 
 Esmolol Hydrochloride in Sodium Chloride 2,500 mg/250 mL (10 mg/mL)
 
-250 mL Iso-Osmotic No Preservative Added Single Intravenous Use Only
-
-EACH mL CONTAINS 10 mg ESMOLOL HYDROCHLORIDE USP 5.9 mg SODIUM CHLORIDE USP IN WATER FOR INJECTION USP BUFFERED WITH 2.8 mg SODIUM ACETATE TRIHYDRATE USP AND 0.546 mg GLACIAL ACETIC ACID USP pH ADJUSTED WITH SODIUM HYDROXIDE AND/OR HYDROCHLORIC ACID pH 5.0 (4.5-5.5) STERILE NONPYROGENIC
+250 mL Iso-Osmotic No Preservative Added Single Intravenous Use Only EACH mL CONTAINS 10 mg ESMOLOL HYDROCHLORIDE USP 5.9 mg SODIUM CHLORIDE USP IN WATER FOR INJECTION USP BUFFERED WITH 2.8 mg SODIUM ACETATE TRIHYDRATE USP AND 0.546 mg GLACIAL ACETIC ACID USP pH ADJUSTED WITH SODIUM HYDROXIDE AND/OR HYDROCHLORIC ACID pH 5.0 (4.5-5.5) STERILE NONPYROGENIC
 
 USUAL DOSAGE SEE PACKAGE INSERT
 
@@ -80,9 +106,11 @@ STORE AT 25°C (77°F) EXCURSIONS PERMITTED TO 15°-30°C (59°-86°F) [SEE USP 
 
 Baxter BAXTER HEALTHCARE CORPORATION DEERFIELD, IL 60015 USA MADE IN USA
 
-INTRAVIA CONTAINER 460-327-02 2J1415
+INTRAVIA CONTAINER NDC 10019-055-61
 
 FOR PRODUCT INQUIRY 1 800 ANA DRUG (1-800-262-3784)
+
+0725001514
 
 10 x 250 mL Single Use INTRAVIA containers
 
@@ -104,13 +132,45 @@ Baxter, Brevibloc Premixed and IntraVia are trademarks of Baxter International I
 
 (01)50310019055614 (21)NNNNNNNNN (17)YYMMDD (10)XXXXXXX
 
-Baxter Healthcare Corporation Deerfield, IL 60015 USA Made in USA 475-344-00 07-06-75-367
+Baxter Healthcare Corporation Deerfield, IL 60015 USA Made in USA 07-06-00-1440
 
 EXP LOT
 
 Rx only
 
-Code 2J1415 For Product Inquiry 1 800 ANA DRUG (1-800-262-3784)
+For Product Inquiry 1 800 ANA DRUG (1-800-262-3784)
+
+BAR CODE PLACEMENT ONLY
+
+(01)50310019055614(21)NNNNNNNNNNNNNNNNNNNN(17)YYMMDD(10)XXXXXXXXX
+
+10 x 250 mL Single Use INTRAVIA containers
+
+NDC 10019-055-61
+
+Brevibloc Premixed Injection
+
+Esmolol Hydrochloride in Sodium Chloride 2,500 mg/250 mL (10 mg/mL)
+
+Store at 25°C (77°F).
+Excursions permitted to 15°-30°C (59°-86°F).
+[See USP Controlled Room Temperature.]
+PROTECT FROM FREEZING.
+Avoid excessive heat.
+
+2D DATA MATRIX BAR CODE PLACEMENT ONLY
+
+Baxter, Brevibloc Premixed and IntraVia are trademarks of Baxter International Inc.
+
+(01)50310019055614 (21)NNNNNNNNN (17)YYMMDD (10)XXXXXXX
+
+Baxter Healthcare Corporation Deerfield, IL 60015 USA Made in USA 07-06-00-1440
+
+EXP LOT
+
+Rx only
+
+For Product Inquiry 1 800 ANA DRUG (1-800-262-3784)
 
 BAR CODE PLACEMENT ONLY
 
