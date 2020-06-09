@@ -6,6 +6,6 @@ Rx only
 
 LOTEMAX® SM (loteprednol etabonate ophthalmic gel) 0.38%
 
-FOR OPHTHALMIC USE.
+FOR OPHTHALMIC USE ONLY
 
 Sterile 5 g

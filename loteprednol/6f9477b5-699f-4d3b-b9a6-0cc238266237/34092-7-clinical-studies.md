@@ -4,7 +4,7 @@ In two randomized, multicenter, double-masked, parallel group, vehicle-controlle
 In these studies, LOTEMAX® SM had statistically significantly higher rates of subjects with complete clearing of anterior chamber cells and of subjects who were pain free at post-operative Day 8 compared to vehicle.
 Results are shown in the following table.
 
-Table 1: Proportion of Subjects with Complete Clearing of Anterior Chamber Cells and Proportion of Subjects with Complete Resolution of Pain at Post-Operative Day 8.
+Proportion of Subjects with Complete Clearing of Anterior Chamber Cells and Proportion of Subjects with Complete Resolution of Pain at Post-Operative Day 8.
 
 | Outcome | Study 1 |  |  | Study 2 |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
