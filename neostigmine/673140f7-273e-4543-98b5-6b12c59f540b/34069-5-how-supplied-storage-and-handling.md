@@ -2,11 +2,7 @@
 
 Neostigmine Methylsulfate Injection, USP is available in the following:
 
-NDC 42023-188-01: 0.5 mg/mL, 10 mL multiple-dose vial supplied in a single carton
-
 NDC 42023-188-10: 0.5 mg/mL, 10 mL multiple-dose vials supplied in packages of 10
-
-NDC 42023-189-01: 1 mg/mL, 10 mL multiple-dose vial supplied in a single carton
 
 NDC 42023-189-10: 1 mg/mL, 10 mL multiple-dose vials supplied in packages of 10
 
@@ -23,6 +19,8 @@ Par Pharmaceutical
 
 Chestnut Ridge, NY 10977
 
-I12/15
+R 10/18
 
-OS188J-01-90-01
+OS188J-01-90-02
+
+3003570A
