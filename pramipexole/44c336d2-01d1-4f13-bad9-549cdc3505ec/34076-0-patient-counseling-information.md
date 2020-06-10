@@ -26,7 +26,8 @@ Alert patients and their caregivers to the possibility that they may experience 
 
 Hallucinations and Psychotic-like Behavior
 
-Inform patients that hallucinations and other psychotic-like behavior can occur and that the elderly are at a higher risk than younger patients with Parkinson’s disease [see Warnings and Precautions (5.4)].
+Inform patients that hallucinations and other psychotic-like behavior can occur.
+In patients with Parkinson’s disease, the elderly are at a higher risk than younger patients [see Warnings and Precautions (5.4)].
 
 Postural (Orthostatic) Hypotension
 
@@ -40,17 +41,19 @@ Because the teratogenic potential of pramipexole has not been completely establi
 
 Lactation
 
-Because of the possibility that pramipexole may be excreted in breast milk, advise women to notify their physicians if they intend to breast-feed or are breast-feeding an infant [see Use in Specific Populations (8.2)].
+Because of the possibility that pramipexole may be excreted in breast milk, advise women to notify their physicians if they intend to breastfeed or are breastfeeding an infant [see Use in Specific Populations (8.2)].
 
 Manufactured by:
 
-Glenmark Pharmaceuticals Ltd. Colvale-Bardez, Goa 403 513, India
+Glenmark Pharmaceuticals Limited Colvale-Bardez, Goa 403513, India
 
 Manufactured for:
 
 Glenmark Pharmaceuticals Inc., USA Mahwah, NJ 07430
 
 Questions?
-1 (888)721-7115 www.glenmarkpharma.com/usa
+1 (888) 721-7115 www.glenmarkpharma-us.com
 
-June 2018
+Product of India
+
+May 2020

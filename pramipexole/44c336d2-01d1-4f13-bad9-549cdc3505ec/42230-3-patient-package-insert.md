@@ -1,7 +1,7 @@
 # PATIENT INFORMATION
 
-1. Pramipexole Dihydrochloride (PRAM-i-PEX-ole dye-HYE-droe-KLOR-ide)
-2. Tablets
+- Pramipexole Dihydrochloride (PRAM-i-PEX-ole dye-HYE-droe-KLOR-ide)
+- Tablets
 
 Read this Patient Information before you start taking pramipexole dihydrochloride tablets and each time you get a refill.
 There may be new information.
@@ -97,12 +97,12 @@ Pramipexole dihydrochloride tablets may cause serious side effects, including:
 - Sit and stand up slowly after you have been sitting or lying down.
 - •unusual urges.
   Some people who take certain medicines to treat Parkinson’s disease, including pramipexole dihydrochloride tablets, have reported problems, such as gambling, compulsive eating, compulsive buying, and increased sex drive.
-  If you or your family members notice that you are developing unusual urges or behaviors, talk to your doctor.
+- If you or your family members notice that you are developing unusual urges or behaviors, talk to your doctor.
 - •hallucinations and other psychotic-like behavior (seeing visions, hearing sounds or feeling sensations that are not real, confusion, excessive suspicion, aggressive behavior, agitation, delusional beliefs and disorganized thinking).
-  Your chance of having hallucinations and other psychotic-like behavior is higher if you are elderly (age 65 or older).
-  If you have hallucinations or other psychotic-like changes, talk with your doctor right away.
+  The chances of having hallucinations or other psychotic-like changes are higher in people taking pramipexole dihydrochloride tablets for Parkinson’s disease who are elderly (age 65 or older).
+- If you have hallucinations or other psychotic-like changes, talk with your doctor right away.
 - •uncontrolled sudden movements (dyskinesia).
-  If you have new dyskinesia or your existing dyskinesia gets worse tell your doctor.
+- If you have new dyskinesia or your existing dyskinesia gets worse tell your doctor.
 - •posture changes.
   Talk with your doctor if you have posture changes you cannot control.
   These may include your neck bending forward, bending forward at the waist, or tilting sideways when you sit, stand, or walk.
@@ -130,6 +130,7 @@ How should I store pramipexole dihydrochloride tablets?
 
 - •Store pramipexole dihydrochloride tablets at room temperature from 68ºF to 77ºF (20ºC to 25ºC).
 - •Keep pramipexole dihydrochloride tablets out of the light.
+- •Pramipexole dihydrochloride tablets comes in a child-resistant package.
 - •Keep pramipexole dihydrochloride tablets and all medicines out of the reach of children.
 
 General Information about the safe and effective use of pramipexole dihydrochloride tablets.
@@ -143,11 +144,11 @@ This Patient Information leaflet summarizes the most important information about
 If you would like more information, talk with your doctor.
 You can ask your pharmacist or doctor for information about pramipexole dihydrochloride tablets that is written for healthcare professionals.
 
-For more information, call Glenmark Pharmaceuticals Inc., USA at 1 (888)721-7115.
+For more information, call Glenmark Pharmaceuticals Inc., USA at 1 (888) 721-7115.
 
 What are the ingredients in pramipexole dihydrochloride tablets?
 
-Active Ingredient: pramipexole dihydrochloride
+Active Ingredient: pramipexole dihydrochloride, USP
 
 Inactive Ingredients: mannitol, corn starch, colloidal silicon dioxide, povidone K-30, and magnesium stearate
 
@@ -157,13 +158,15 @@ This Patient Information has been approved by the U.S. Food and Drug Administrat
 
 Manufactured by:
 
-Glenmark Pharmaceuticals Ltd. Colvale-Bardez, Goa 403 513, India
+Glenmark Pharmaceuticals Limited Colvale-Bardez, Goa 403513, India
 
 Manufactured for:
 
 Glenmark Pharmaceuticals Inc., USA Mahwah, NJ 07430
 
 Questions?
-1 (888)721-7115 www.glenmarkpharma.com/usa
+1 (888) 721-7115 www.glenmarkpharma-us.com
 
-June 2018
+Product of India
+
+May 2020
