@@ -1,5 +1,6 @@
 # 3 DOSAGE FORMS AND STRENGTHS
 
-The 5 mg tablets are round, light yellow, debossed with 150.
+Tablets:
 
-The 10 mg tablets are round, light pink, debossed with 151.
+- • 5 mg: round, light yellow, debossed with 150
+- • 10 mg: round, light pink, debossed with 151

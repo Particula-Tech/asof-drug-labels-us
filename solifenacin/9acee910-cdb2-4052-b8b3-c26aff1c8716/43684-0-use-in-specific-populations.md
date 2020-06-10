@@ -2,58 +2,63 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Category C
+Risk Summary
 
-There are no adequate and well-controlled studies in pregnant women.
+There are no studies with the use of solifenacin succinate in pregnant women to inform a drug-associated risk of major birth defects, miscarriages, or adverse maternal or fetal outcomes.
+No adverse developmental outcomes were observed in animal reproduction studies with oral administration of solifenacin succinate to pregnant mice during the period of organogenesis at a dose resulting in 1.2 times the systemic exposure at the maximum recommended human dose (MRHD) of 10 mg/day.
+However, administration of doses 3.6 times and greater than the MRHD during organogenesis produced maternal toxicity in the pregnant mice and resulted in developmental toxicity and reduced fetal body weights in offspring [see Data].
 
-Reproduction studies have been performed in mice, rats and rabbits.
-After oral administration of 14C-solifenacin succinate to pregnant mice, drug-related material was shown to cross the placental barrier.
-No embryotoxicity or teratogenicity was observed in mice treated with 1.2 times (30 mg/kg/day) the expected exposure at the maximum recommended human dose [MRHD] of 10 mg.
-Administration of solifenacin succinate to pregnant mice at 3.6 times and greater (100 mg/kg/day and greater) the exposure at the MRHD, during the major period of organ development resulted in reduced fetal body weights.
-Administration of 7.9 times (250 mg/kg/day) the MRHD to pregnant mice resulted in an increased incidence of cleft palate.
-In utero and lactational exposures to maternal doses of solifenacin succinate of 3.6 times (100 mg/kg/day) the MRHD resulted in reduced peripartum and postnatal survival, reductions in body weight gain, and delayed physical development (eye opening and vaginal patency).
-An increase in the percentage of male offspring was also observed in litters from offspring exposed to maternal doses of 250 mg/kg/day.
-No embryotoxic effects were observed in rats at up to 50 mg/kg/day (< 1 times the exposure at the MRHD) or in rabbits at up to 1.8 times (50 mg/kg/day) the exposure at the MRHD.
-Because animal reproduction studies are not always predictive of human response, VESIcare should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
+In the U.S. general population, the estimated background risk of major birth defects or miscarriage in clinically recognized pregnancies is 2-4% and 15-20%, respectively.
 
-## 8.2 Labor and Delivery
+### Data
 
-The effect of VESIcare on labor and delivery in humans has not been studied.
+Animal Data
 
-There were no effects on natural delivery in mice treated with 1.2 times (30 mg/kg/day) the expected exposure at the maximum recommended human dose [MRHD] of 10 mg.
-Administration of solifenacin succinate at 3.6 times (100 mg/kg/day) the exposure at the MRHD or greater increased peripartum pup mortality.
+Oral administration of 14C-solifenacin succinate to pregnant mice resulted in the recovery of radiolabel in the fetus indicating that solifenacin-related product can cross the placental barrier.
+In pregnant mice, administration of solifenacin succinate at a dose of 250 mg/kg/day (7.9 times the systemic exposure at the MRHD of 10 mg), resulted in an increased incidence of cleft palate and increased maternal lethality.
+Administration of solifenacin succinate to pregnant mice during organogenesis at greater than or equal to 3.6 times (100 mg/kg/day and greater) the systemic exposure at the MRHD, resulted in reduced fetal body weights and reduced maternal body weight gain.
+No embryo-fetal toxicity or teratogenicity was observed in fetuses from pregnant mice treated with solifenacin succinate at a dose of 30 mg/kg/day (1.2 times the systemic exposure at the MRHD).
+Administration of solifenacin succinate to pregnant rats and rabbits at a dose of 50 mg/kg/day (< 1 times and 1.8 times the systemic exposure at the MRHD, respectively), resulted in no findings of embryo-fetal toxicity.
+Oral pre- and post-natal administration of solifenacin succinate at 100 mg/kg/day (3.6 times the systemic exposure at the MRHD) during the period of organogenesis through weaning, resulted in reduced peripartum and postnatal survival, reduced body weight gain by the pups, and delayed physical development (eye opening and vaginal patency).
+An increase in the percentage of male offspring was also observed in litters from offspring (F2 generation) exposed to maternal doses of 250 mg/kg/day.
+There were no effects on natural delivery in mice treated with 1.2 times (30 mg/kg/day) the expected systemic exposure at the MRHD.
 
-## 8.3 Nursing Mothers
+## 8.2 Lactation
 
-After oral administration of 14C-solifenacin succinate to lactating mice, radioactivity was detected in maternal milk.
-There were no adverse observations in mice treated with 1.2 times (30 mg/kg/day) the expected exposure at the maximum recommended human dose [MRHD].
-Pups of female mice treated with 3.6 times (100 mg/kg/day) the exposure at the MRHD or greater revealed reduced body weights, postpartum pup mortality or delays in the onset of reflex and physical development during the lactation period.
+Risk Summary
 
-It is not known whether solifenacin is excreted in human milk.
-Because many drugs are excreted in human milk, VESIcare should not be administered during nursing.
-A decision should be made whether to discontinue nursing or to discontinue VESIcare in nursing mothers.
+There is no information on the presence of solifenacin in human milk, the effects on the breastfed child, or the effects on milk production.
+Solifenacin is present in mouse milk [see Data].
+When a drug is present in animal milk, it is likely that the drug will be present in human milk.
+The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for VESIcare and any potential adverse effects on the breastfed child from VESIcare or from the underlying maternal condition.
+
+### Data
+
+Animal Data
+
+Oral administration of 14C-solifenacin succinate to lactating mice resulted in the recovery of radioactivity in maternal milk.
+Lactating female mice orally administered solifenacin succinate at a maternally toxic dose of 100 mg/kg/day (3.6 times the systemic exposure at the MRHD) had increased postpartum pup mortality, pups with reduced body weights, or delays in the onset of reflex and physical development.
+Pups from lactating dams orally administered solifenacin succinate at a dose of 30 mg/kg/day (1.2 times the systemic exposure at the MRHD) had no discernible adverse findings.
+The concentrations of solifenacin in animal milk does not necessarily predict the concentration of drug in human milk.
 
 ## 8.4 Pediatric Use
 
-The safety and effectiveness of VESIcare in pediatric patients have not been established.
+The safety and effectiveness of VESIcare Tablets have not been established in pediatric patients.
 
 ## 8.5 Geriatric Use
 
-In placebo-controlled clinical studies, similar safety and effectiveness were observed between older (623 patients ≥ 65 years and 189 patients ≥ 75 years) and younger patients (1188 patients < 65 years) treated with VESIcare.
-
-Multiple dose studies of VESIcare in elderly volunteers (65 to 80 years) showed that Cmax, AUC and t1/2 values were 20-25% higher as compared to the younger volunteers (18 to 55 years).
+In placebo-controlled clinical studies, similar safety and effectiveness were observed between geriatric patients (623 patients ≥ 65 years and 189 patients ≥ 75 years) and younger adult patients (1188 patients < 65 years) treated with VESIcare [see Clinical Pharmacology (12.3)].
 
 ## 8.6 Renal Impairment
 
-VESIcare should be used with caution in patients with renal impairment.
-There is a 2.1-fold increase in AUC and 1.6-fold increase in t1/2 of solifenacin in patients with severe renal impairment.
-Doses of VESIcare greater than 5 mg are not recommended in patients with severe renal impairment (CLcr < 30 mL/min) [see Warnings and Precautions (5.7) and Dosage and Administration (2.2)].
+Solifenacin plasma concentrations are greater in patients with severe renal impairment compared to subjects with normal renal function [see Clinical Pharmacology (12.3)].
+Because increased solifenacin plasma concentrations increase the risk of antimuscarinic adverse reactions, the maximum recommended dose of VESIcare in patients with severe renal impairment (CLcr < 30 mL/min/1.73 m2) is 5 mg once daily [see Dosage and Administration (2.2)].
+The recommended dose in patients with mild or moderate renal impairment is the same as in patients with normal renal function.
 
 ## 8.7 Hepatic Impairment
 
-VESIcare should be used with caution in patients with reduced hepatic function.
-There is a 2-fold increase in the t1/2 and 35% increase in AUC of solifenacin in patients with moderate hepatic impairment.
-Doses of VESIcare greater than 5 mg are not recommended in patients with moderate hepatic impairment (Child-Pugh B). VESIcare is not recommended for patients with severe hepatic impairment (Child-Pugh C) [see Warnings and Precautions (5.6) and Dosage and Administration (2.3)].
+Solifenacin plasma concentrations are greater in patients with moderate hepatic impairment compared to subjects with normal hepatic function [see Clinical Pharmacology (12.3)].
+Because increased solifenacin plasma concentrations increase the risk of antimuscarinic adverse reactions, the maximum recommended dose of VESIcare in patients with moderate hepatic impairment (Child-Pugh B) is 5 mg once daily [see Dosage and Administration (2.3)] and VESIcare is not recommended for use in patients with severe hepatic impairment (Child-Pugh C).
 
 ## 8.8 Gender
 
