@@ -58,8 +58,6 @@ Long-term animal studies have not been performed to evaluate the carcinogenic, m
 
 ### Teratogenic Effects
 
-#### Pregnancy Category C
-
 Corticosteroids have been shown to be teratogenic in laboratory animals when administered systemically at relatively low dosage levels.
 Some corticosteroids have been shown to be teratogenic after dermal application in laboratory animals.
 Animal reproductive studies have not been conducted with desonide cream, 0.05%.
