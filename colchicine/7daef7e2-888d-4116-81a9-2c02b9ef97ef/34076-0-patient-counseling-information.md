@@ -1,6 +1,6 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-Advise the patient to read the FDA-approved (Medication Guide)
+Advise the patient to read the FDA-approved patient labeling (Medication Guide).
 
 Dosing Instructions
 
@@ -35,7 +35,11 @@ Neuromuscular Toxicity
 Patients should be informed that muscle pain or weakness, tingling or numbness in fingers or toes may occur with colchicine alone or when it is used with certain other drugs.
 Patients developing any of these signs or symptoms must discontinue colchicine and seek medical evaluation immediately.
 
+Infertility
+
+Advise males of reproductive potential that colchicine may rarely and transiently impair fertility [see Use in Specific Populations (8.3)].
+
 Distributed by: Amneal Pharmaceuticals LLC Bridgewater, NJ 08807
 
 Rev.
-01-2020-01
+05-2020-02

@@ -2,35 +2,57 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Category C
+Risk Summary
 
-There are no adequate and well-controlled studies with colchicine in pregnant women.
+Available data from published literature on colchicine use in pregnancy over several decades have not identified any drug associated risks for major birth defects, miscarriage, or adverse maternal or fetal outcomes (see Data).
 Colchicine crosses the human placenta.
-While not studied in the treatment of gout flares, data from a limited number of published studies found no evidence of an increased risk of miscarriage, stillbirth or teratogenic effects among pregnant women using colchicine to treat familial Mediterranean fever (FMF).
 Although animal reproductive and developmental studies were not conducted with colchicine, published animal reproduction and development studies indicate that colchicine causes embryofetal toxicity, teratogenicity and altered postnatal development at exposures within or above the clinical therapeutic range.
-Colchicine should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 
-## 8.2 Labor and Delivery
+The estimated background risk of major birth defects and miscarriage for the indicated population is unknown.
+All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively.
 
-The effect of colchicine on labor and delivery is unknown.
+Data
 
-## 8.3 Nursing Mothers
+Human Data
 
-Colchicine is excreted into human milk.
-Limited information suggests that exclusively breastfed infants receive less than 10 percent of the maternal weight-adjusted dose.
-While there are no published reports of adverse effects in breastfeeding infants of mothers taking colchicine, colchicine can affect gastrointestinal cell renewal and permeability.
-Caution should be exercised, and breastfeeding infants should be observed for adverse effects when colchicine is administered to a nursing woman.
+Available data from published observational studies, case series, and case reports over several decades do not suggest an increased risk for major birth defects or miscarriage in pregnant women with rheumatic diseases (such as rheumatoid arthritis, Behcet’s disease, or familial Mediterranean fever (FMF) treated with colchicine at therapeutic doses during pregnancy.
+Limitations of these data include the lack of randomization and inability to control for confounders such as underlying maternal disease and maternal use of concomitant medications.
+
+## 8.2 Lactation
+
+Risk Summary
+
+Colchicine is present in human milk (see Data).
+Adverse events in breastfed infants have not been reported in the published literature after administration of colchicine to lactating women.
+There are no data on the effects of colchicine on milk production.
+The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for colchicine and any potential adverse effects on the breastfed child from colchicine or from the underlying maternal condition.
+
+Data
+
+Limited published data from case reports and a small lactation study demonstrate that colchicine is present in breastmilk.
+A systematic review of literature reported no adverse effects in 149 breastfed children.
+In a prospective observational cohort study, no gastrointestinal or other symptoms were reported in 38 colchicine-exposed breastfed infants.
+
+## 8.3 Females and Males of Reproductive Potential
+
+Infertility
+
+Case reports and epidemiology studies in human male subjects on colchicine therapy indicated that infertility from colchicine is rare and may be reversible.
+A case report indicated that azoospermia was reversed when therapy was stopped.
+Case reports and epidemiology studies in female subjects on colchicine therapy have not established a clear relationship between colchicine use and female infertility.
+However, since the progression of FMF without treatment may result in infertility, the use of colchicine needs to be weighed against the potential risks [see Nonclinical Toxicology (13.1)].
 
 ## 8.4 Pediatric Use
 
 The safety and efficacy of colchicine in children of all ages with FMF has been evaluated in uncontrolled studies.
 There does not appear to be an adverse effect on growth in children with FMF treated long-term with colchicine.
-Gout is rare in pediatric patients; safety and effectiveness of colchicine in pediatric patients has not been established.
+Safety and effectiveness of colchicine in pediatric patients with gout has not been established.
 
 ## 8.5 Geriatric Use
 
 Clinical studies with colchicine for prophylaxis and treatment of gout flares and for treatment of FMF did not include sufficient numbers of patients aged 65 years and older to determine whether they respond differently from younger patients.
-In general, dose selection for an elderly patient with gout should be cautious, reflecting the greater frequency of decreased renal function, concomitant disease or other drug therapy [see Dose Modification for Co-administration of Interacting Drugs (2.4) and Pharmacokinetics (12.3)].
+In general, dose selection for an elderly patient with gout should be cautious, reflecting the greater frequency of decreased renal function, concomitant disease or other drug therapy [see Dosage and Administration (2.4), Clinical Pharmacology (12.3)].
 
 ## 8.6 Renal Impairment
 
@@ -42,7 +64,7 @@ Prophylaxis of Gout Flares
 
 For prophylaxis of gout flares in patients with mild (estimated creatinine clearance Clcr 50 to 80 mL/min) to moderate (Clcr 30 to 50 mL/min) renal function impairment, adjustment of the recommended dose is not required, but patients should be monitored closely for adverse effects of colchicine.
 However, in patients with severe impairment, the starting dose should be 0.3 mg per day and any increase in dose should be done with close monitoring.
-For the prophylaxis of gout flares in patients undergoing dialysis, the starting doses should be 0.3 mg given twice a week with close monitoring [see Dose Modification in Renal Impairment (2.5)].
+For the prophylaxis of gout flares in patients undergoing dialysis, the starting doses should be 0.3 mg given twice a week with close monitoring [see Dosage and Administration (2.5)].
 
 Treatment of Gout Flares
 
@@ -50,28 +72,28 @@ For treatment of gout flares in patients with mild (Clcr 50 to 80 mL/min) to mod
 However, in patients with severe impairment, while the dose does not need to be adjusted for the treatment of gout flares, a treatment course should be repeated no more than once every two weeks.
 For patients with gout flares requiring repeated courses, consideration should be given to alternate therapy.
 For patients undergoing dialysis, the total recommended dose for the treatment of gout flares should be reduced to a single dose of 0.6 mg (one tablet).
-For these patients, the treatment course should not be repeated more than once every two weeks [see Dose Modification in Renal Impairment (2.5)].
+For these patients, the treatment course should not be repeated more than once every two weeks [see Dosage and Administration (2.5)].
 
 FMF
 
-Although, pharmacokinetics of colchicine in patients with mild (Clcr 50 to 80 mL/min) and moderate (Clcr 30 to 50 mL/min) renal impairment is not known, these patients should be monitored closely for adverse effects of colchicine.
+Although pharmacokinetics of colchicine in patients with mild (Clcr 50 to 80 mL/min) and moderate (Clcr 30 to 50 mL/min) renal impairment is not known, these patients should be monitored closely for adverse effects of colchicine.
 Dose reduction may be necessary.
 In patients with severe renal failure (Clcr less than 30 mL/min) and end-stage renal disease requiring dialysis, colchicine may be started at the dose of 0.3 mg/day.
-Any increase in dose should be done with adequate monitoring of the patient for adverse effects of Colchicine [see Pharmacokinetics (12.3) and Dose Modification in Renal Impairment (2.5)].
+Any increase in dose should be done with adequate monitoring of the patient for adverse effects of colchicine [see Clinical Pharmacology (12.3), Dosage and Administration (2.5)].
 
 ## 8.7 Hepatic Impairment
 
-The clearance of colchicine may be significantly reduced and plasma half-life prolonged in patients with chronic hepatic impairment compared to healthy subjects [see Pharmacokinetics (12.3)].
+The clearance of colchicine may be significantly reduced and plasma half-life prolonged in patients with chronic hepatic impairment compared to healthy subjects [see Clinical Pharmacology (12.3)].
 
 Prophylaxis of Gout Flares
 
 For prophylaxis of gout flares in patients with mild to moderate hepatic function impairment, adjustment of the recommended dose is not required, but patients should be monitored closely for adverse effects of colchicine.
-Dose reduction should be considered for the prophylaxis of gout flares in patients with severe hepatic impairment [see Dose Modification in Hepatic Impairment (2.6)].
+Dose reduction should be considered for the prophylaxis of gout flares in patients with severe hepatic impairment [see Dosage and Administration (2.6)].
 
 Treatment of Gout Flares
 
 For treatment of gout flares in patients with mild to moderate hepatic function impairment, adjustment of the recommended colchicine dose is not required, but patients should be monitored closely for adverse effects of colchicine.
 However, for the treatment of gout flares in patients with severe impairment, while the dose does not need to be adjusted, the treatment course should be repeated no more than once every two weeks.
-For these patients, requiring repeated courses for the treatment of gout flares, consideration should be given to alternate therapy [see Dose Modification in Hepatic Impairment (2.6)].
+For these patients, requiring repeated courses for the treatment of gout flares, consideration should be given to alternate therapy [see Dosage and Administration (2.6)].
 
-FMF In patients with severe hepatic disease, dose reduction should be considered with careful monitoring [see Pharmacokinetics (12.3) and Dose Modification in Hepatic Impairment (2.6)].
+FMF In patients with severe hepatic disease, dose reduction should be considered with careful monitoring [see Clinical Pharmacology (12.3), Dosage and Administration (2.6)].
