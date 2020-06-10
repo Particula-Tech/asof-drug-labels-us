@@ -34,13 +34,13 @@ However, these small postmarketing epidemiology studies, of which most experienc
 Animal Data
 
 Developmental toxicology studies have been performed with ciprofloxacin in rats, mice, and rabbits.
-In rats and mice, oral doses up to 100 mg/kg administered during organogenesis (Gestation Days, GD, 6 to 17) were not associated with adverse developmental outcomes, including embryofetal toxicity or malformations.
+In rats and mice, oral doses up to 100 mg/kg administered during organogenesis (Gestation Days, GD, 6 to 17) were not associated with adverse developmental outcomes, including embryo-fetal toxicity or malformations.
 In rats and mice, a 100 mg/kg dose is approximately 0.6 and 0.3 times the maximum daily human oral dose (1500 mg/day) based upon body surface area, respectively.
 In a series of rabbit developmental toxicology studies, does received oral or intravenous ciprofloxacin for one of the following 5 day periods: GD 6 to 10, GD 10 to 14, or GD 14 to 18, intended to cover the period of organogenesis.
-This was an attempt to mitigate the gastrointestinal intolerance observed in rabbits that receive antibacterials manifested by reduced maternal food consumption and weight loss, that can lead to embryofetal resorption or spontaneous abortion.
+This was an attempt to mitigate the gastrointestinal intolerance observed in rabbits that receive antibacterials manifested by reduced maternal food consumption and weight loss, that can lead to embryo-fetal resorption or spontaneous abortion.
 An oral ciprofloxacin dose of 100 mg/kg (approximately 1.3-times the highest recommended clinical oral dose based on body surface area) caused excessive maternal toxicity confounding evaluation of the fetuses.
 A 30 mg/kg oral dose (approximately 0.4 times the highest recommended clinical oral dose) was associated with suppression of maternal and fetal body weight gain, but fetal malformations were not observed.
-Intravenous administration of doses up to 20 mg/kg (approximately 0.3 times the highest recommended clinical oral dose based upon body surface area) to pregnant rabbits was not maternally toxic and neither embryofetal toxicity nor fetal malformations were observed.
+Intravenous administration of doses up to 20 mg/kg (approximately 0.3 times the highest recommended clinical oral dose based upon body surface area) to pregnant rabbits was not maternally toxic and neither embryo-fetal toxicity nor fetal malformations were observed.
 
 In peri-and post-natal studies, rats received ciprofloxacin doses up to 200 mg/kg/day (oral) or up to 30 mg/kg/day (subcutaneous) from GD 16 to 22 days postpartum.
 The 200 mg/kg dose is approximately 1.3-times the maximum recommended clinical oral dose based on body surface area.

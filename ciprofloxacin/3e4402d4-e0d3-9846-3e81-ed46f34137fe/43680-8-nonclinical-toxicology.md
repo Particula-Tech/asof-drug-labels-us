@@ -12,7 +12,9 @@ Eight in vitro mutagenicity tests have been conducted with ciprofloxacin, and th
 - Saccharomyces cerevisiae Point Mutation Assay (Negative)
 - Saccharomyces cerevisiae Mitotic Crossover and Gene Conversion Assay (Negative)
 - Rat Hepatocyte DNA Repair Assay (Positive)
-- Thus, 2 of the 8 tests were positive, but results of the following 3 in vivo test systems gave negative results:
+
+Thus, 2 of the 8 tests were positive, but results of the following 3 in vivo test systems gave negative results:
+
 - Rat Hepatocyte DNA Repair Assay
 - Micronucleus Test (Mice)
 - Dominant Lethal Test (Mice)

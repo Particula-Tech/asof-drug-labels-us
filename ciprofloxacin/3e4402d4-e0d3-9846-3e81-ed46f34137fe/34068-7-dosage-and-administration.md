@@ -28,13 +28,13 @@ Table 1: Adult Dosage Guidelines
 | 2. Used in conjunction with metronidazole. |  |  |  |
 | 3. Begin drug administration as soon as possible after suspected or confirmed exposure. |  |  |  |
 
-Conversion of IV to Oral Dosing in Adults
+Conversion of Intravenous to Oral Dosing in Adults
 
-Patients whose therapy is started with ciprofloxacin IV may be switched to ciprofloxacin tablets when clinically indicated at the discretion of the physician (Table 2) [see Clinical Pharmacology (12.3)].
+Patients whose therapy is started with ciprofloxacin intravenous may be switched to ciprofloxacin tablets when clinically indicated at the discretion of the physician (Table 2) [see Clinical Pharmacology (12.3)].
 
 Table 2: Equivalent AUC Dosing Regimens
 
-| Ciprofloxacin Tablets Oral Dosage | Equivalent Ciprofloxacin IV Dosage |
+| Ciprofloxacin Tablets Oral Dosage | Equivalent Ciprofloxacin Intravenous Dosage |
 | --- | --- |
 | 250 mg Tablet every 12 hours | 200 mg intravenous every 12 hours |
 | 500 mg Tablet every 12 hours | 400 mg intravenous every 12 hours |
@@ -42,7 +42,7 @@ Table 2: Equivalent AUC Dosing Regimens
 
 ## 2.2 Dosage in Pediatric Patients
 
-Dosing and initial route of therapy (that is, IV or oral) for cUTI or pyelonephritis should be determined by the severity of the infection.
+Dosing and initial route of therapy (that is, intravenous or oral) for cUTI or pyelonephritis should be determined by the severity of the infection.
 Ciprofloxacin tablets should be administered as described in Table 3.
 
 Table 3: Pediatric Dosage Guidelines
@@ -109,3 +109,9 @@ Assure adequate hydration of patients receiving ciprofloxacin tablets to prevent
 Crystalluria has been reported with quinolones.
 
 Instruct the patient of the appropriate ciprofloxacin tablets administration [see Patient Counseling Information (17)].
+
+Missed Doses
+
+If a dose is missed, it should be taken anytime but not later than 6 hours prior to the next scheduled dose.
+If less than 6 hours remain before the next dose, the missed dose should not be taken and treatment should be continued as prescribed with the next scheduled dose.
+Double doses should not be taken to compensate for a missed dose.

@@ -67,7 +67,7 @@ Because fluoroquinolones, including ciprofloxacin tablets, have been associated 
 
 Complicated Urinary Tract Infection and Pyelonephritis in Pediatric Patients
 
-Ciprofloxacin tablets are indicated in pediatric patients aged one to 17 years of age for treatment of complicated urinary tract infections (cUTI) and pyelonephritis due to Escherichia coli [see Use in Specific Populations (8.4)].
+Ciprofloxacin tablets are indicated in pediatric patients aged one to 17 years of age for treatment of complicated urinary tract infections (cUTI) and pyelonephritis due to Escherichia coli [see Use in SpecificPopulations (8.4)].
 
 Although effective in clinical trials, ciprofloxacin is not a drug of first choice in the pediatric population due to an increased incidence of adverse reactions compared to controls, including reactions related to joints and/or surrounding tissues.
 Ciprofloxacin, like other fluoroquinolones, is associated with arthropathy and histopathological changes in weight-bearing joints of juvenile animals [see Warnings and Precautions (5.13), Adverse Reactions (6.1), Use in Specific Populations (8.4) and Nonclinical Toxicology (13.2)].
