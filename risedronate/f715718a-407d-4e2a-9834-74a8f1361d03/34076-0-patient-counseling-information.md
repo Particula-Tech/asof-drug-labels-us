@@ -42,9 +42,7 @@ Remind patients to give all of their healthcare providers an accurate medication
 Instruct patients to tell all of their healthcare providers that they are taking Risedronate Sodium.
 Patients should be instructed that any time they have a medical problem they think may be from Risedronate Sodium, they should talk to their doctor.
 
-For all medical inquiries contact: Greenstone LLC Medical Communications 1-800-438-1985
-
-© 2019 Allergan.
+© 2020 Allergan.
 All rights reserved.
 
 Patented.

@@ -179,8 +179,6 @@ This Medication Guide summarizes the most important information about Risedronat
 If you would like more information, talk with your doctor.
 You can ask your doctor or pharmacist for information about Risedronate Sodium that is written for health professionals.
 
-For more information, call 1-800-438-1985
-
 What are the ingredients in Risedronate Sodium?
 
 Active ingredient: Risedronate sodium
@@ -191,14 +189,12 @@ Inactive ingredients specific to a dose strength: 5 mg—ferric oxide yellow, la
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-For all medical inquiries contact: Greenstone LLC Medical Communications 1-800-438-1985
-
-© 2019 Allergan.
+© 2020 Allergan.
 All rights reserved.
 
 Patented.
 See www.allergan.com/patents.
 
-Content Updated: November 2019
+Content Updated: May 2020
 
 96314-02
