@@ -1,7 +1,20 @@
-# PACKAGE LABEL.PRINCIPAL DISPLAY PANEL SECTION
+PRINCIPAL DISPLAY PANEL
 
-0.25 vial label
+NDC 55111-694-07 Palonosetron Hydrochloride Injection 0.25 mg/5 mL (0.05 mg/mL)
 
-Unvarnished Area Consists of: 2D Barcode, Lot Number, Expiry Date and Serial Number
+For Intravenous Injection Only.
+One 5 mL single-dose sterile vial.
+Discard unused portion.
 
-0.25 carton
+Rx Only
+
+PRINCIPAL DISPLAY PANEL
+
+NDC 55111-694-07
+
+Palonosetron Hydrochloride Injection 0.25 mg/5 mL (0.05 mg/mL)
+
+For intravenous Injection Only.
+5 mL single-dose sterile vial.
+
+Rx only
