@@ -7,15 +7,17 @@ Doxepin Hydrochloride Oral Solution USP (Concentrate) is not physically compatib
 For those patients requiring antidepressant therapy who are on methadone maintenance, Doxepin Hydrochloride Oral Solution USP (Concentrate) and methadone syrup can be mixed together with Gatorade®, lemonade, orange juice, sugar water, Tang® or water, but not with grape juice.
 Preparation and storage of bulk dilutions is not recommended.
 
-Recommended Storage Store at 20°-25°C (68°-77°F); excursion permitted to 15°-30°C (59°-86°F) [see USP Controlled Room Temperature].
+Recommended Storage
+
+Store at 20°-25°C (68°-77°F); excursions permitted to 15°-30°C (59°-86°F) [see USP Controlled Room Temperature].
 
 Distributed by:
 
 Lannett Company, Inc.
 
-Philadelphia, PA 19154
+Philadelphia, PA 19136
 
 10-1104
 
 Rev.
-01/18
+03/20

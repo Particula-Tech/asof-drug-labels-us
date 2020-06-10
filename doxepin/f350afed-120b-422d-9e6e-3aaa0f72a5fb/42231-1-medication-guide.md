@@ -11,11 +11,16 @@ Talk to your, or your family member's, healthcare provider about:
 
 What is the most important information I should know about antidepressant medicines, depression and other serious mental illnesses, and suicidal thoughts or actions?
 
-- Antidepressant medicines may increase suicidal thoughts or actions in some children, teenagers, and young adults within the first few months of treatment.
-- Depression and other serious mental illnesses are the most important causes of suicidal thoughts and actions.
-  Some people may have a particularly high risk of having suicidal thoughts or actions.
-  These include people who have (or have a family history of) bipolar illness (also called manic-depressive illness) or suicidal thoughts or actions.
-- How can I watch for and try to prevent suicidal thoughts and actions in myself or a family member?
+1.
+Antidepressant medicines may increase suicidal thoughts or actions in some children, teenagers, and young adults within the first few months of treatment.
+
+2.
+Depression and other serious mental illnesses are the most important causes of suicidal thoughts and actions.
+Some people may have a particularly high risk of having suicidal thoughts or actions.
+These include people who have (or have a family history of) bipolar illness (also called manic-depressive illness) or suicidal thoughts or actions.
+
+3.
+How can I watch for and try to prevent suicidal thoughts and actions in myself or a family member?
 
 - Pay close attention to any changes, especially sudden changes, in mood, behaviors, thoughts, or feelings.
   This is very important when an antidepressant medicine is started or when the dose is changed.
@@ -48,7 +53,7 @@ You may want to undergo an eye examination to see if you are at risk and receive
 What else do I need to know about antidepressant medicines?
 
 - Never stop an antidepressant medicine without first talking to a healthcare provider.
-  Stopping an antidepressant medicine suddenly can cause other symptoms..
+  Stopping an antidepressant medicine suddenly can cause other symptoms.
 - Antidepressants are medicines used to treat depression and other illnesses.
   It is important to discuss all the risks of treating depression and also the risks of not treating it.
   Patients and their families or other caregivers should discuss all treatment choices with the healthcare provider, not just the use of antidepressants.
@@ -62,16 +67,16 @@ What else do I need to know about antidepressant medicines?
   Talk to your child's healthcare provider for more information.
 
 Call your doctor for medical advice about side effects.
-You may report side effects to FDA at 1-800-FDA 1088.
+You may report side effects to FDA at 1-800-FDA-1088.
 This Medication Guide has been approved by the U.S. Food and Drug Administration for all antidepressants.
 
 Distributed by:
 
 Lannett Company, Inc.
 
-Philadelphia, PA 19154
+Philadelphia, PA 19136
 
 10-1188
 
 Rev.
-01/18
+03/20

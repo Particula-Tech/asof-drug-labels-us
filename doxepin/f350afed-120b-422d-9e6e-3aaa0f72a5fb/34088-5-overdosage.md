@@ -30,7 +30,7 @@ If the pH response is inadequate, hyperventilation may also be used.
 Concomitant use of hyperventilation and sodium bicarbonate should be done with extreme caution, with frequent pH monitoring.
 A pH > 7.60 or a pCO2 <20 mm Hg is undesirable.
 Dysrhythmias unresponsive to sodium bicarbonate therapy/hyperventilation may respond to lidocaine, bretylium or phenytoin.
-Type lA and 1C antiarrhythmics are generally contraindicated (e.g., quinidine, disopyramide, and procainamide).
+Type 1A and 1C antiarrhythmics are generally contraindicated (e.g., quinidine, disopyramide, and procainamide).
 
 In rare instances, hemoperfusion may be beneficial in acute refractory cardiovascular instability in patients with acute toxicity.
 However, hemodialysis, peritoneal dialysis, exchange transfusions, and forced diuresis generally have been reported as ineffective in tricyclic antidepressant poisoning.

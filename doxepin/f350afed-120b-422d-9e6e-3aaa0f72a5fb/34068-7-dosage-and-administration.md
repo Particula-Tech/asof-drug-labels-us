@@ -2,7 +2,7 @@
 
 For most patients with illness of mild to moderate severity, a starting daily dose of 75 mg is recommended.
 Dosage may subsequently be increased or decreased at appropriate intervals and according to individual response.
-The usual optimum dose range is 75mg/day to 150 mg/day.
+The usual optimum dose range is 75 mg/day to 150 mg/day.
 
 In more severely ill patients higher doses may be required with subsequent gradual increase to 300 mg/day if necessary.
 Additional therapeutic effect is rarely to be obtained by exceeding a dose of 300 mg/day.

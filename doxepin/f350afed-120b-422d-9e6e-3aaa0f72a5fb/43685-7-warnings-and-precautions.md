@@ -22,7 +22,7 @@ Table 1
 | 18-24 | 5 additional cases |
 |  | Decreases Compared to Placebo |
 | 25-64 | 1 fewer case |
-| > 65 | 6 fewer cases |
+| ≥ 65 | 6 fewer cases |
 
 No suicides occurred in any of the pediatric trials.
 There were suicides in the adult trials, but the number was not sufficient to reach any conclusion about drug effect on suicide.
@@ -40,13 +40,13 @@ It is generally believed (though not established in controlled trials) that trea
 Whether any of the symptoms described above represent such a conversion is unknown.
 However, prior to initiating treatment with an antidepressant, patients with depressive symptoms should be adequately screened to determine if they are at risk for bipolar disorder; such screening should include a detailed psychiatric history, including a family history of suicide, bipolar disorder, and depression.
 It should be noted that Doxepin Hydrochloride Oral Solution is not approved for use in treating bipolar depression.
-Angle-Closure Glaucoma: The pupillary dilation that occurs following use of many antidepressant drugs including Doxepin Hydrochloride Oral Solution may trigger an angle closure attack in a patient with anatomically narrow angles who does not have a patent iridectomy.
-Usage in Geriatrics: The use of doxepin on a once-a-day dosage regimen in geriatric patients should be adjusted carefully based on the patient's condition - (see PRECAUTIONS – Geriatric Use).
+Angle-Closure Glaucoma: The pupillary dilation that occurs following use of many antidepressant drugs including Doxepin Hydrochloride Oral Solution may trigger an angle-closure attack in a patient with anatomically narrow angles who does not have a patent iridectomy.
+Usage in Geriatrics: The use of doxepin on a once-a-day dosage regimen in geriatric patients should be adjusted carefully based on the patient's condition (see PRECAUTIONS - Geriatric Use).
 Usage in Pregnancy: Reproduction studies have been performed in rats, rabbits, monkeys and dogs and there was no evidence of harm to the animal fetus.
 The relevance to humans is not known.
 Since there is no experience in pregnant women who have received this drug, safety in pregnancy has not been established.
 There has been a report of apnea and drowsiness occurring in a nursing infant whose mother was taking doxepin.
-Usage in pediatric patients: The use of doxepin hydrochloride oral solution in children under 12 years of age is not recommended because safe conditions for its use have not been established.
+Usage in Pediatric Patients: The use of doxepin hydrochloride oral solution in children under 12 years of age is not recommended because safe conditions for its use have not been established.
 
 # PRECAUTIONS
 
@@ -59,9 +59,8 @@ Patients should be given the opportunity to discuss the contents of the Medicati
 The complete text of the Medication Guide is reprinted at the end of this document.
 
 Patients should be advised of the following issues and asked to alert their prescriber if these occur while taking Doxepin Hydrochloride Oral Solution.
-
-Patients should be advised that taking Doxepin Hydrochloride Oral Solution can cause mild pupillary dilation, which in susceptible individuals, can lead to an episode of angle- closure glaucoma.
-Pre-existing glaucoma is almost always open-angle glaucoma because angle- closure glaucoma, when diagnosed, can be treated definitively with iridectomy.
+Patients should be advised that taking Doxepin Hydrochloride Oral Solution can cause mild pupillary dilation, which in susceptible individuals, can lead to an episode of angle-closure glaucoma.
+Pre-existing glaucoma is almost always open-angle glaucoma because angle-closure glaucoma, when diagnosed, can be treated definitively with iridectomy.
 Open-angle glaucoma is not a risk factor for angle closure glaucoma.
 Patients may wish to be examined to determine whether they are susceptible to angle closure, and have a prophylactic procedure (e.g., iridectomy), if they are susceptible.
 
@@ -71,7 +70,7 @@ Such symptoms should be reported to the patient’s prescriber or health profess
 
 Symptoms such as these may be associated with an increased risk for suicidal thinking and behavior and indicate a need for very close monitoring and possibly changes in the medication.
 
-Pediatric Use: Safety and effectiveness in the pediatric population have not been established (see BOX WARNING and WARNINGS – Clinical Worsening and Suicide Risk).
+Pediatric Use: Safety and effectiveness in the pediatric population have not been established (see BOX WARNING and WARNINGS - Clinical Worsening and Suicide Risk).
 Anyone considering the use of Doxepin Hydrochloride Oral Solution in a child or adolescent must balance the potential risks with the clinical need.
 
 Drug Interactions: Drugs Metabolized by P450 2D6: The biochemical activity of the drug metabolizing isozyme cytochrome P450 2D6 (debrisoquin hydroxylase) is reduced in a subset of the Caucasian population (about 7-10% of Caucasians are so-called “poor metabolizers”); reliable estimates of the prevalence of reduced P450 2D6 isozyme activity among Asian, African and other populations are not yet available.
@@ -111,7 +110,7 @@ Tolazamide: A case of severe hypoglycemia has been reported in a type II diabeti
 Drowsiness: Since drowsiness may occur with the use of this drug, patients should be warned of the possibility and cautioned against driving a car or operating dangerous machinery while taking the drug.
 Patients should also be cautioned that their response to alcohol may be potentiated.
 
-Sedating drugs may cause confusion and over sedation in the elderly; elderly patients generally should be started on low doses of doxepin and observed closely (see PRECAUTIONS – Geriatric Use).
+Sedating drugs may cause confusion and over sedation in the elderly; elderly patients generally should be started on low doses of doxepin and observed closely (see PRECAUTIONS - Geriatric Use).
 
 Suicide: Since suicide is an inherent risk in any depressed patient and may remain so until significant improvement has occurred, patients should be closely supervised during the early course of therapy.
 Prescriptions should be written for the smallest feasible amount.

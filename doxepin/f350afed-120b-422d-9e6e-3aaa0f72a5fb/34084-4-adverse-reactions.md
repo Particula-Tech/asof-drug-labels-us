@@ -1,4 +1,4 @@
-# ADVERSE REACTION
+# ADVERSE REACTIONS
 
 NOTE: Some of the adverse reactions noted below have not been specifically reported with doxepin use.
 However, due to the close pharmacological similarities among the tricyclics, the reactions should be considered when prescribing doxepin hydrochloride.
@@ -18,7 +18,7 @@ Hematologic: Eosinophilia has been reported in a few patients.
 There have been occasional reports of bone marrow depression manifesting as agranulocytosis, leukopenia, thrombocytopenia, and purpura.
 
 Gastrointestinal: Nausea, vomiting, indigestion, taste disturbances, diarrhea, anorexia, and aphthous stomatitis have been reported.
-(See Anticholinergic Effects.)
+(See Anticholinergic Effects).
 
 Endocrine: Raised or lowered libido, testicular swelling, gynecomastia in males, enlargement of breasts and galactorrhea in the female, raising or lowering of blood sugar levels, and syndrome of inappropriate antidiuretic hormone secretion have been reported with tricyclic administration.
 
