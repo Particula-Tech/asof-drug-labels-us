@@ -64,7 +64,6 @@ ACTEMRA by subcutaneous use is indicated for the treatment of pediatric patients
 
 The safety and effectiveness of ACTEMRA in pediatric patients with conditions other than PJIA, SJIA or CRS have not been established.
 The safety and effectiveness in pediatric patients below the age of 2 have not been established in PJIA, SJIA, or CRS.
-The ability of pediatric patients to self-inject with the autoinjector has not been tested.
 
 Systemic Juvenile Idiopathic Arthritis – Intravenous Use
 

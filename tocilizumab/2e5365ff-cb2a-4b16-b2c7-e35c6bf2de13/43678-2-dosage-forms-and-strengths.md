@@ -6,4 +6,4 @@ Injection: 80 mg/4 mL, 200 mg/10 mL, 400 mg/20 mL as a clear, colorless to pale 
 
 Subcutaneous Injection
 
-Injection: 162 mg/0.9 mL clear, colorless to slightly yellowish solution in a single-dose prefilled syringe or autoinjector.
+Injection: 162 mg/0.9 mL clear, colorless to slightly yellowish solution in a single-dose prefilled syringe or single-dose prefilled ACTPen® autoinjector.

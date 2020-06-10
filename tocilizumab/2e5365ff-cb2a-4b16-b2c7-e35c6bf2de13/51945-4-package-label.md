@@ -71,9 +71,9 @@ Genentech
 
 NDC 50242-138-01
 
-Actemra®
+Rx only
 
-(tocilizumab) Injection
+Actemra® (tocilizumab) Injection
 
 162 mg / 0.9 mL
 
@@ -87,21 +87,21 @@ ATTENTION PHARMACIST: Each patient is required to receive the enclosed Medicatio
 
 Refrigerate Immediately
 
-Rx only
-
 Each Prefilled Syringe Contains: 162 mg/0.9 mL
 
 Genentech
 
-10203139
+⬇ TO OPEN ⬇
+
+10223154
 
 # PRINCIPAL DISPLAY PANEL - 0.9 mL Syringe Box - 143
 
 NDC 50242-143-01
 
-Actemra® ACTPen™
+Rx only
 
-(tocilizumab) Injection
+Actemra® ACTPen® (tocilizumab) Injection
 
 162 mg / 0.9 mL
 
@@ -113,8 +113,6 @@ ATTENTION PHARMACIST: Each patient is required to receive the enclosed Medicatio
 
 Refrigerate Immediately
 
-Rx only
-
 CAUTION
 
 Injection is complete only when the purple indicator stops moving.
@@ -125,4 +123,6 @@ Refer to instructions for use.
 
 Genentech
 
-10211189
+⬇ TO OPEN ⬇
+
+10223148

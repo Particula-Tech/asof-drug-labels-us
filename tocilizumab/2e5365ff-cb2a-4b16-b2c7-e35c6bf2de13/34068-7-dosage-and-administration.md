@@ -34,7 +34,7 @@ ACTEMRA can be used alone following discontinuation of glucocorticoids.
 
 ## 2.3 Polyarticular Juvenile Idiopathic Arthritis
 
-ACTEMRA may be used alone or in combination with methotrexate.
+ACTEMRA may be used as an intravenous infusion or as a subcutaneous injection alone or in combination with methotrexate.
 Do not change dose based solely on a single visit body weight measurement, as weight may fluctuate.
 
 Recommended Intravenous Dosage Regimen:
@@ -119,10 +119,10 @@ ACTEMRA for intravenous infusion should be diluted by a healthcare professional 
 | For Intravenous Use: Volume of ACTEMRA Injection per kg of Body Weight |  |  |
 | --- | --- | --- |
 | Dosage | Indication | Volume of ACTEMRA injection per kg of body weight |
-| 4 mg/kg | Adult RA | 0.2mL/kg |
-| 8 mg/kg | Adult RA SJIA, PJIA and CRS (≥30 kg of body weight) | 0.4mL/kg |
-| 10 mg/kg | PJIA (< 30 kg of body weight) | 0.5 mL/kg |
-| 12 mg/kg | SJIA and CRS (< 30 kg of body weight) | 0.6mL/kg |
+| 4 mg/kg | Adult RA | 0.2 mL/kg |
+| 8 mg/kg | Adult RA SJIA, PJIA and CRS (greater than or equal to 30 kg of body weight) | 0.4 mL/kg |
+| 10 mg/kg | PJIA (less than 30 kg of body weight) | 0.5 mL/kg |
+| 12 mg/kg | SJIA and CRS (less than 30 kg of body weight) | 0.6 mL/kg |
 
 - −Step 2.
   Withdraw the amount of ACTEMRA for intravenous infusion from the vial(s) and add slowly into the 0.9% or 0.45% Sodium Chloride Injection, USP infusion bag or bottle.
@@ -147,14 +147,13 @@ ACTEMRA for intravenous infusion should be diluted by a healthcare professional 
   Patients should seek immediate medical attention if they develop symptoms of serious allergic reactions.
   ACTEMRA subcutaneous injection is intended for use under the guidance of a healthcare practitioner.
   After proper training in subcutaneous injection technique, a patient may self-inject ACTEMRA or the patient's caregiver may administer ACTEMRA if a healthcare practitioner determines that it is appropriate.
-  PJIA and SJIA patients may self-inject with ACTEMRA prefilled syringe or the patient's caregiver may administer ACTEMRA if both the healthcare practitioner and the parent/legal guardian determines it is appropriate.
-  The ability of pediatric patients to self-inject with the autoinjector has not been tested.
-  Patients, or patient caregivers, should be instructed to follow the directions provided in the Instructions for Use (IFU) for additional details on medication administration
+  PJIA and SJIA patients may self-inject with the ACTEMRA prefilled syringe or ACTPen® autoinjector, or the patient's caregiver may administer ACTEMRA if both the healthcare practitioner and the parent/legal guardian determines it is appropriate [see Use in Specific Populations (8.4)].
+  Patients, or patient caregivers, should be instructed to follow the directions provided in the Instructions for Use (IFU) for additional details on medication administration.
 - Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration.
-  Do not use ACTEMRA prefilled syringes (PFS) or autoinjectors (AI) exhibiting particulate matter, cloudiness, or discoloration.
+  Do not use ACTEMRA prefilled syringes (PFS) or prefilled ACTPen® autoinjectors exhibiting particulate matter, cloudiness, or discoloration.
   ACTEMRA for subcutaneous administration should be clear and colorless to pale yellow.
-  Do not use if any part of the PFS or AI appears to be damaged.
-- Patients using ACTEMRA for subcutaneous administration should be instructed to inject the full amount in the syringe (0.9 mL)) or full amount in the autoinjector (0.9 mL), which provides 162 mg of ACTEMRA, according to the directions provided in the IFU.
+  Do not use if any part of the PFS or ACTPen® autoinjector appears to be damaged.
+- Patients using ACTEMRA for subcutaneous administration should be instructed to inject the full amount in the syringe (0.9 mL) or full amount in the ACTPen® autoinjector (0.9 mL), which provides 162 mg of ACTEMRA, according to the directions provided in the IFU.
 - Injection sites should be rotated with each injection and should never be given into moles, scars, or areas where the skin is tender, bruised, red, hard, or not intact.
 
 ## 2.9 Dosage Modifications due to Serious Infections or Laboratory Abnormalities
