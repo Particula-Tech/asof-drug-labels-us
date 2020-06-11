@@ -36,6 +36,9 @@ Across clinical studies, the incidence of Grades 3-5 hemorrhagic events ranged f
 
 Serious or fatal pulmonary hemorrhage occurred in 31% of patients with squamous NSCLC and 4% of patients with non-squamous NSCLC receiving Avastin with chemotherapy compared to none of the patients receiving chemotherapy alone.
 
+An evaluation for the presence of varices is recommended within 6 months of initiation of Avastin in patients with HCC.
+There is lack of clinical data to support the safety of Avastin in patients with variceal bleeding within 6 months prior to treatment, untreated or incompletely treated varices with bleeding, or high risk of bleeding because these patients were excluded from clinical trials of Avastin in HCC [see Clinical Studies (14.10)].
+
 Do not administer Avastin to patients with recent history of hemoptysis of 1/2 teaspoon or more of red blood.
 Discontinue in patients who develop a Grades 3-4 hemorrhage.
 
@@ -108,7 +111,7 @@ Data from a postmarketing safety study showed poor correlation between UPCR (Uri
 ## 5.9 Infusion-Related Reactions
 
 Infusion-related reactions reported across clinical studies and postmarketing experience include hypertension, hypertensive crises associated with neurologic signs and symptoms, wheezing, oxygen desaturation, Grade 3 hypersensitivity, chest pain, headaches, rigors, and diaphoresis.
-In clinical studies, infusion-related reactions with the first dose occurred in < 3% of patients and severe reactions occurred in 0.2% of patients.
+In clinical studies, infusion-related reactions with the first dose occurred in < 3% of patients and severe reactions occurred in 0.4% of patients.
 
 Decrease the rate of infusion for mild, clinically insignificant infusion-related reactions.
 Interrupt the infusion in patients with clinically significant infusion-related reactions and consider resuming at a slower rate following resolution.

@@ -31,3 +31,7 @@ Avastin, in combination with carboplatin and paclitaxel, followed by Avastin as 
 Avastin, in combination with paclitaxel, pegylated liposomal doxorubicin, or topotecan, is indicated for the treatment of patients with platinum-resistant recurrent epithelial ovarian, fallopian tube or primary peritoneal cancer who received no more than 2 prior chemotherapy regimens.
 
 Avastin, in combination with carboplatin and paclitaxel, or with carboplatin and gemcitabine, followed by Avastin as a single agent, is indicated for the treatment of patients with platinum-sensitive recurrent epithelial ovarian, fallopian tube, or primary peritoneal cancer.
+
+## 1.7 Hepatocellular Carcinoma
+
+Avastin, in combination with atezolizumab, is indicated for the treatment of patients with unresectable or metastatic hepatocellular carcinoma (HCC) who have not received prior systemic therapy.

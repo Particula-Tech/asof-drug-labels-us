@@ -48,7 +48,13 @@ The recommended dosage is 15 mg/kg intravenously every 3 weeks, in combination w
 
 The recommended dosage is 15 mg/kg intravenously every 3 weeks, in combination with carboplatin and gemcitabine for 6 to 10 cycles, followed by Avastin 15 mg/kg every 3 weeks as a single agent until disease progression.
 
-## 2.8 Dosage Modifications for Adverse Reactions
+## 2.8 Hepatocellular Carcinoma
+
+The recommended dosage is 15 mg/kg intravenously after administration of 1,200 mg of atezolizumab intravenously on the same day, every 3 weeks until disease progression or unacceptable toxicity.
+
+Refer to the Prescribing Information for atezolizumab prior to initiation for recommended dosage information.
+
+## 2.9 Dosage Modifications for Adverse Reactions
 
 Table 1 describes dosage modifications for specific adverse reactions.
 No dose reductions for Avastin are recommended.
@@ -73,7 +79,7 @@ Table 1: Dosage Modifications for Adverse Reactions
 | Mild, clinically insignificant | Decrease infusion rate |  |
 | Congestive Heart Failure [see Warnings and Precautions (5.12)]. | Any | Discontinue Avastin |
 
-## 2.9 Preparation and Administration
+## 2.10 Preparation and Administration
 
 Preparation
 
