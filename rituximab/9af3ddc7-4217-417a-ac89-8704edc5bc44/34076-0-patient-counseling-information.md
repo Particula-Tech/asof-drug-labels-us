@@ -43,9 +43,10 @@ Advise patients to contact their healthcare provider immediately for signs and s
 
 Embryo-Fetal Toxicity
 
-Advise a pregnant womenwoman of the potential risk to a fetus.
-Advise femalesfemale patients that rituximab products can cause fetal harm if taken during pregnancy and to use effective contraception during treatment with TRUXIMA and for at least 12 months after the last dose of reproductive potentialTRUXIMA.
-Advise patients to inform their healthcare provider of a known or suspected pregnancy [see Warnings and Precautions (5.11) and Use in Specific Populations (8.1, 8.3)].
+Advise pregnant women of the potential risk to a fetus.
+Advise females of reproductive potential to inform their healthcare provider of a known or suspected pregnancy [see Warnings and Precautions(5.11) and Use in Specific Populations(8.1)].
+
+Advise females of reproductive potential to use effective contraception during treatment with TRUXIMA and for at least 12 months after the last dose [seeUse in Specific Populations (8.3)].
 
 Lactation
 

@@ -4,7 +4,7 @@
 
 Risk Summary
 
-Based on human data, rituximab products can cause adverse developmental outcomes including B-cell lymphocytopenia in infants exposed in-utero [see Clinical Considerations].
+Based on human data, rituximab products can cause adverse developmental outcomes including B-cell lymphocytopenia in infants exposed to in-utero [see Clinical Considerations].
 In animal reproduction studies, intravenous administration of rituximab to pregnant cynomolgus monkeys during the period of organogenesis caused lymphoid B-cell depletion in the newborn offspring at doses resulting in 80% of the exposure (based on AUC) of those achieved following a dose of 2 grams in humans.
 Advise pregnant women of the risk to a fetus.
 
@@ -44,17 +44,17 @@ The B-cell counts returned to normal levels, and immunologic function was restor
 
 There are no data on the presence of rituximab products in human milk, the effect on the breastfed child, or the effect on milk production.
 However, rituximab is detected in the milk of lactating cynomolgus monkeys, and IgG is present in human milk.
-Since many drugs including antibodies are present in human milk, advise a lactating woman not to breastfeed during treatment and for at least 6 months after the last dose of TRUXIMA due to the potential for serious adverse reactions in breastfed infants.
+Because of the potential of serious adverse reactions in the breastfed child, advise women not to breastfeed during treatment with TRUXIMA and for at least 6 months after the last dose.
 
 ## 8.3 Females and Males of Reproductive Potential
 
-Rituximab products can cause fetal harm [see Use in Specific Populations (8.1)].
-
 Contraception
+
+Rituximab products can cause fetal harm when administered to a pregnant woman [see Use in Specific Populations (8.1)].
 
 Females
 
-Females of childbearing potential should use effective contraception while receiving TRUXIMA and for 12 months following treatment.
+Advise females of reproductive potential to use effective contraception during treatment with TRUXIMA and for at least 12 months after the last dose.
 
 ## 8.4 Pediatric Use
 
