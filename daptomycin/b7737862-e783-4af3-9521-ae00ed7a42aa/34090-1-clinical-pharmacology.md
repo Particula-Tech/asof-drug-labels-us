@@ -26,9 +26,11 @@ Table 11: Mean (SD) Daptomycin Pharmacokinetic Parameters in Healthy Adult Volun
 | 10 (N=9) | 1039 (178) | 7.9 (0.6) | 0.098 (0.017) | 8.8 (2.2) | 141.1 (24.0) |
 | 12 (N=9) | 1277 (253) | 7.7 (1.1) | 0.097 (0.018) | 9.0 (2.8) | 183.7 (25.0) |
 
-1. *Daptomycin was administered by IV infusion over a 30-minute period.
-2. †Doses of daptomycin in excess of 6 mg/kg have not been approved.
-3. ‡AUC0-24, area under the concentration-time curve from 0 to 24 hours; t1/2, elimination half-life; Vss, volume of distribution at steady-state; CLT, total plasma clearance; Cmax, maximum plasma concentration.
+*Daptomycin was administered by IV infusion over a 30-minute period.
+
+†Doses of daptomycin in excess of 6 mg/kg have not been approved.
+
+‡AUC0-24, area under the concentration-time curve from 0 to 24 hours; t1/2, elimination half-life; Vss, volume of distribution at steady-state; CLT, total plasma clearance; Cmax, maximum plasma concentration.
 
 Daptomycin pharmacokinetics were generally linear and time-independent at daptomycin doses of 4 to 12 mg/kg q24h administered by IV infusion over a 30-minute period for up to 14 days.
 Steady-state trough concentrations were achieved by the third daily dose.
@@ -79,7 +81,7 @@ The mean AUC for patients with CLCR <30 mL/min and for patients on dialysis (CAP
 The mean Cmax ranged from 60 to 70 mcg/mL in patients with CLCR ≥30 mL/min, while the mean Cmax for patients with CLCR <30 mL/min ranged from 41 to 58 mcg/mL.
 After administration of daptomycin 6 mg/kg q24h by IV infusion over a 30-minute period, the mean Cmax ranged from 80 to 114 mcg/mL in patients with mild to moderate renal impairment and was similar to that of patients with normal renal function.
 
-1. Table 12: Mean (SD) Daptomycin Population Pharmacokinetic Parameters Following Infusion of Daptomycin 4 mg/kg or 6 mg/kg to Infected Adult Patients and Noninfected Adult Subjects with Various Degrees of Renal Function
+Table 12: Mean (SD) Daptomycin Population Pharmacokinetic Parameters Following Infusion of Daptomycin 4 mg/kg or 6 mg/kg to Infected Adult Patients and Noninfected Adult Subjects with Various Degrees of Renal Function
 
 | Renal Function | Pharmacokinetic Parameters* |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -93,9 +95,11 @@ After administration of daptomycin 6 mg/kg q24h by IV infusion over a 30-minute 
 
 Note: Daptomycin was administered over a 30-minute period.
 
-1. *CLCR, creatinine clearance estimated using the Cockcroft-Gault equation with actual body weight; CAPD, continuous ambulatory peritoneal dialysis; AUC0-∞, area under the concentration-time curve extrapolated to infinity; AUCss, area under the concentration-time curve calculated over the 24-hour dosing interval at steady-state; Cmin,ss, trough concentration at steady-state; NA, not applicable.
-2. †Parameters obtained following a single dose from patients with complicated skin and skin structure infections and healthy subjects.
-3. ‡Parameters obtained at steady-state from patients with S. aureus bacteremia.
+*CLCR, creatinine clearance estimated using the Cockcroft-Gault equation with actual body weight; CAPD, continuous ambulatory peritoneal dialysis; AUC0-∞, area under the concentration-time curve extrapolated to infinity; AUCss, area under the concentration-time curve calculated over the 24-hour dosing interval at steady-state; Cmin,ss, trough concentration at steady-state; NA, not applicable.
+
+†Parameters obtained following a single dose from patients with complicated skin and skin structure infections and healthy subjects.
+
+‡Parameters obtained at steady-state from patients with S. aureus bacteremia.
 
 Because renal excretion is the primary route of elimination, adjustment of daptomycin dosage interval is necessary in adult patients with severe renal impairment (CLCR <30 mL/min) [see Dosage and Administration (2.4)].
 
@@ -125,7 +129,31 @@ The AUC0-∞ of daptomycin was approximately 30% higher in moderately obese subj
 The differences were most likely due to differences in the renal clearance of daptomycin.
 No adjustment of daptomycin dosage is warranted in obese patients.
 
-Pediatric use information is approved for Merck & Co., Inc.’s Cubicin (daptomycin for injection).
+Pediatric
+
+The pharmacokinetics of daptomycin in pediatric subjects was evaluated in 3 single-dose pharmacokinetic studies.
+In general, body weight-normalized total body clearance in pediatric patients was higher than in adults and increased with a decrease of age, whereas elimination half-life tends to decrease with a decrease of age.
+Body weight-normalized total body clearance and elimination half-life of daptomycin in children 2 to 6 years of age were similar at different doses.
+
+A study was conducted to assess safety, efficacy, and pharmacokinetics of daptomycin in pediatric patients (1 to 17 years old, inclusive) with cSSSI caused by Gram-positive pathogens.
+Patients were enrolled into 4 age groups [see Clinical Studies (14.1)], and intravenous daptomycin doses of 5 to 10 mg/kg once daily were administered.
+Following administration of multiple doses, daptomycin exposure (AUCss and Cmax,ss) was similar across different age groups after dose adjustment based on body weight and age (Table 13).
+
+Table 13: Mean (SD) Daptomycin Population Pharmacokinetic Parameters in cSSSI Pediatric Patients
+
+| Age | Pharmacokinetic Parameters |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Dose (mg/kg) | Infusion Duration (min) | AUCss (mcg•h/mL) | t1/2 (h) | Vss (mL) | CLT (mL/h/kg) | Cmax,ss (mcg/mL) |  |
+| 12 to 17 years (N=6) | 5 | 30 | 434 (67.9) | 7.1 (0.9) | 8200 (3250) | 11.8 (2.15) | 76.4 (6.75) |
+| 7 to 11 years (N=2) | 7 | 30 | 543* | 6.8* | 4470* | 13.2* | 92.4* |
+| 2 to 6 years (N=7) | 9 | 60 | 452 (93.1) | 4.6 (0.8) | 2750 (832) | 20.8 (4.29) | 90.3 (14.0) |
+| 1 to less than 2 years (N=27) | 10 | 60 | 462 (138) | 4.8 (0.6) | 1670 (446) | 23.1 (5.43) | 81.6 (20.7) |
+
+AUCss, area under the concentration-time curve at steady state; CLT, clearance normalized to body weight; Vss, volume of distribution at steady state; t½, terminal half-life
+
+*Mean is calculated from N=2
+
+Pediatric use information of staphylococcus aureus bloodstream infections (bacteremia) is approved for Merck & Co., Inc.’s Cubicin (daptomycin for injection).
 However, due to Merck & Co., Inc.’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
 
 Drug-Drug Interactions

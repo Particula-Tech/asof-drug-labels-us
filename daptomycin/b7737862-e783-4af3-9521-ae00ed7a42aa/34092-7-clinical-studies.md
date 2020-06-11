@@ -19,9 +19,8 @@ Table 15: Investigator’s Primary Diagnosis in the cSSSI Trials in Adult Patien
 | Ulcer Infection | 71 (27%) / 75 (28%) | 53 (20%) / 68 (23%) | 124 (23%) / 143 (26%) |
 | Other Infection† | 39 (15%) / 32 (12%) | 56 (21%) / 51 (18%) | 95 (18%) / 83 (15%) |
 
-1. *Comparator: vancomycin (1 g IV q12h) or an anti-staphylococcal semi-synthetic penicillin (i.e., nafcillin, oxacillin, cloxacillin, or flucloxacillin; 4 to 12 g/day IV in divided doses).
-2. †The majority of cases were subsequently categorized as complicated cellulitis, major abscesses, or traumatic wound infections.
-3. 
+- *Comparator: vancomycin (1 g IV q12h) or an anti-staphylococcal semi-synthetic penicillin (i.e., nafcillin, oxacillin, cloxacillin, or flucloxacillin; 4 to 12 g/day IV in divided doses).
+- †The majority of cases were subsequently categorized as complicated cellulitis, major abscesses, or traumatic wound infections.
 
 One trial was conducted primarily in the United States and South Africa (study 9801), and the second was conducted at non-US sites only (study 9901).
 The two trials were similar in design but differed in patient characteristics, including history of diabetes and peripheral vascular disease.
@@ -50,10 +49,27 @@ Table 16: Clinical Success Rates by Infecting Pathogen in the cSSSI Trials in Ad
 
 *Comparator: vancomycin (1 g IV q12h) or an anti-staphylococcal semi-synthetic penicillin (i.e., nafcillin, oxacillin, cloxacillin, or flucloxacillin; 4 to 12 g/day IV in divided doses).
 
-1. †As determined by the central laboratory.
+†As determined by the central laboratory.
 
-Pediatric use information is approved for Merck & Co., Inc.’s Cubicin (daptomycin for injection).
-However, due to Merck & Co., Inc.’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
+Pediatric Patients (1 to 17 Years of Age) with cSSSI
+
+The cSSSI pediatric trial was a single prospective multi-center, randomized, comparative trial.
+A total of 396 pediatric patients aged 1 to 17 years with cSSSI caused by Gram positive pathogens were enrolled into the study.
+Patients known to have bacteremia, osteomyelitis, endocarditis, and pneumonia at baseline were excluded.
+Patients were enrolled in a stepwise approach into four age groups and given age-dependent doses of daptomycin once daily for up to 14 days.
+The different age groups and doses evaluated were as follows: Adolescents (12 to 17 years) treated with 5 mg/kg of daptomycin (n=113), Children (7 to 11 years) treated with 7 mg/kg of daptomycin (n=113), Children (2 to 6 years) treated with 9 mg/kg of daptomycin (n=125) and Infants (1 to <2 years) treated with 10 mg/kg (n= 45).
+
+Patients were randomized 2:1 to receive daptomycin or a standard of care (SOC) comparator, which included intravenous therapy with either vancomycin, clindamycin, or an anti-staphylococcal semi-synthetic penicillin (nafcillin, oxacillin, or cloxacillin).
+Patients could switch to oral therapy after clinical improvement was demonstrated (no minimum IV dosing was required).
+
+The primary objective of this study was to evaluate the safety of daptomycin.
+The clinical outcome was determined by resolution or improvement of symptoms at the End-of-Treatment (EOT), 3 days after the last dose, and Test-of-Cure (TOC), 7 to 14 days after the last dose.
+Investigator observed outcomes were verified in a blinded fashion.
+Of the 396 subjects randomized in the study, 389 subjects were treated with daptomycin or comparator and included in the ITT population.
+Of these, 257 subjects were randomized to the daptomycin group and 132 subjects were randomized to the comparator group.
+Approximately 95% of subjects switched to oral therapy.
+The mean day of switch was day 4, and ranged from day 1 to day 14.
+The clinical success rates determined at 7 to 14 days after last dose of therapy (IV and oral) (TOC visit) were 88% (227/257) for daptomycin and 86% (114/132) for comparator.
 
 ## 14.2 S. aureus Bacteremia/Endocarditis
 
@@ -116,11 +132,15 @@ Table 17: Adjudication Committee Success Rates at Test of Cure in the S. aureus 
 | Complicated Right-Sided Infective Endocarditis | 5/13(39%) | 6/12 (50%) | -11.5% (-62.4, 39.4)¶ |
 | Left-Sided Infective Endocarditis | 1/9 (11%) | 2/9 (22%) | -11.1% (-55.9, 33.6)¶ |
 
-1. *Comparator: vancomycin (1 g IV q12h) or an anti-staphylococcal semi-synthetic penicillin (i.e., nafcillin, oxacillin, cloxacillin, or flucloxacillin; 2 g IV q4h), each with initial low-dose gentamicin.
-2. †95% Confidence Interval
-3. ‡97.5% Confidence Interval (adjusted for multiplicity)
-4. §According to the modified Duke criteria5
-5. ¶99% Confidence Interval (adjusted for multiplicity)
+*Comparator: vancomycin (1 g IV q12h) or an anti-staphylococcal semi-synthetic penicillin (i.e., nafcillin, oxacillin, cloxacillin, or flucloxacillin; 2 g IV q4h), each with initial low-dose gentamicin.
+
+†95% Confidence Interval
+
+‡97.5% Confidence Interval (adjusted for multiplicity)
+
+§According to the modified Duke criteria5
+
+¶99% Confidence Interval (adjusted for multiplicity)
 
 Eighteen (18/120) patients in the daptomycin arm and 19/116 patients in the comparator arm died during the trial.
 These comprise 3/28 daptomycin-treated patients and 8/26 comparator-treated patients with endocarditis, as well as 15/92 daptomycin-treated patients and 11/90 comparator-treated patients with bacteremia.
@@ -133,5 +153,5 @@ Failure of treatment due to persisting or relapsing S. aureus infections was ass
 Among all failures, isolates from 6 daptomycin-treated patients and 1 vancomycin-treated patient developed increasing MICs (reduced susceptibility) by central laboratory testing during or following therapy.
 Most patients who failed due to persisting or relapsing S. aureus infection had deep-seated infection and did not receive necessary surgical intervention [see Warnings and Precautions (5.7)].
 
-Pediatric use information is approved for Merck & Co., Inc.’s Cubicin (daptomycin for injection).
+Pediatric use information of staphylococcus aureus bloodstream infections (bacteremia) is approved for Merck & Co., Inc.’s Cubicin (daptomycin for injection).
 However, due to Merck & Co., Inc.’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.

@@ -6,7 +6,7 @@ The following adverse reactions are described, or described in greater detail, i
 - •Myopathy and rhabdomyolysis [see Warnings and Precautions (5.2)]
 - •Eosinophilic pneumonia [see Warnings and Precautions (5.3)]
 - •Peripheral neuropathy [see Warnings and Precautions (5.4)]
-- •Increased International Normalized Ratio (INR)/prolonged prothrombin time [see Warnings and Precautions (5.9)and Drug Interactions (7.2)]
+- •Increased International Normalized Ratio (INR)/prolonged prothrombin time [see Warnings and Precautions (5.9) and Drug Interactions (7.2)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -44,7 +44,7 @@ Table 6: Incidence of Adverse Reactions that Occurred in ≥2% of Adult Patients
 | Respiratory disorders |  |  |
 | Dyspnea | 2.1 | 1.6 |
 
-1. *Comparator: vancomycin (1 g IV q12h) or an anti-staphylococcal semi-synthetic penicillin (i.e., nafcillin, oxacillin, cloxacillin, or flucloxacillin; 4 to 12 g/day IV in divided doses).
+*Comparator: vancomycin (1 g IV q12h) or an anti-staphylococcal semi-synthetic penicillin (i.e., nafcillin, oxacillin, cloxacillin, or flucloxacillin; 4 to 12 g/day IV in divided doses).
 
 Drug-related adverse reactions (possibly or probably drug-related) that occurred in <1% of adult patients receiving daptomycin in the cSSSI trials are as follows:
 
@@ -161,9 +161,11 @@ Table 8: Incidence of CPK Elevations from Baseline during Therapy in Either the 
 | >5× ULN | 1.4 | 6 | 0.4 | 2 | 1.1 | 4 | 0.0 | 0 |
 | >10× ULN | 0.5 | 2 | 0.2 | 1 | 0.2 | 1 | 0.0 | 0 |
 
-1. Note: Elevations in CPK observed in adult patients treated with daptomycin or comparator were not clinically or statistically significantly different.
-2. *Comparator: vancomycin (1 g IV q12h) or an anti-staphylococcal semi-synthetic penicillin (i.e., nafcillin, oxacillin, cloxacillin, or flucloxacillin; 4 to 12 g/day IV in divided doses).
-3. †ULN (Upper Limit of Normal) is defined as 200 U/L.
+Note: Elevations in CPK observed in adult patients treated with daptomycin or comparator were not clinically or statistically significantly different.
+
+*Comparator: vancomycin (1 g IV q12h) or an anti-staphylococcal semi-synthetic penicillin (i.e., nafcillin, oxacillin, cloxacillin, or flucloxacillin; 4 to 12 g/day IV in divided doses).
+
+†ULN (Upper Limit of Normal) is defined as 200 U/L.
 
 S. aureus Bacteremia/Endocarditis Trial in Adults
 
@@ -171,7 +173,46 @@ In the S. aureus bacteremia/endocarditis trial in adult patients, at a dose of 6
 Of the 11 daptomycin-treated patients, 4 had prior or concomitant treatment with an HMG-CoA reductase inhibitor.
 Three of these 11 daptomycin-treated patients discontinued therapy due to CPK elevation, while the one comparator-treated patient did not discontinue therapy [see Warnings and Precautions (5.2)].
 
-Pediatric use information is approved for Merck & Co., Inc.’s Cubicin (daptomycin for injection).
+Clinical Trial Experience in Pediatric Patients
+
+Complicated Skin and Skin Structure Infection Trial in Pediatric Patients
+
+The safety of daptomycin was evaluated in one clinical trial (in cSSSI), which included 256 pediatric patients (1 to 17 years of age) treated with intravenous daptomycin and 133 patients treated with comparator agents.
+Patients were given age-dependent doses once daily for a treatment period of up to 14 days (median treatment period was 3 days).
+The doses given by age group were as follows: 10 mg/kg for 1 to < 2 years, 9 mg/kg for 2 to 6 years, 7 mg/kg for 7 to 11 years and 5 mg/kg for 12 to 17 years of age [see Clinical Studies (14)].
+Patients treated with daptomycin were (51%) male, (49%) female and (46%) Caucasian and (32%) Asian.
+
+Adverse Reactions Leading to Discontinuation
+
+In the cSSSI study, daptomycin was discontinued in 7/256 (2.7%) patients due to an adverse reaction, while comparator was discontinued in 7/133 (5.3%) patients.
+
+Most Common Adverse Reactions
+
+The rates of the most common adverse reactions, organized by body system, observed in these pediatric patients with cSSSI are displayed in Table 9.
+
+Table 9: Adverse Reactions that Occurred in ≥2% of Pediatric Patients in the Daptomycin Treatment-Arm and Greater Than or Equal to the Comparator Treatment-Arm in the cSSSI Pediatric Trial
+
+| Adverse Reaction | Daptomycin (N = 256) | Comparator*(N = 133) |
+| --- | --- | --- |
+| n (%) | n (%) |  |
+| Gastrointestinal disorders |  |  |
+| Diarrhea | 18 (7.0) | 7 (5.3) |
+| Vomiting | 7 (2.7) | 1 (0.8) |
+| Abdominal Pain | 5 (2.0) | 0 |
+| Skin and subcutaneous tissue disorders |  |  |
+| Pruritus | 8 (3.1) | 2 (1.5) |
+| General disorders and administration site conditions |  |  |
+| Pyrexia | 10 (3.9) | 4 (3.0) |
+| Investigations |  |  |
+| Blood CPK increased | 14 (5.5) | 7 (5.3) |
+| Nervous system disorders |  |  |
+| Headache | 7 (2.7) | 3 (2.3) |
+
+*Comparators included intravenous therapy with either vancomycin, clindamycin, or an anti-staphylococcal semi-synthetic penicillin (nafcillin, oxacillin or cloxacillin)
+
+The safety profile in the clinical trial of cSSSI pediatric patients was similar to that observed in the cSSSI adult patients.
+
+Pediatric use information of staphylococcus aureus bloodstream infections (bacteremia) is approved for Merck & Co., Inc.’s Cubicin (daptomycin for injection).
 However, due to Merck & Co., Inc.’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
 
 ## 6.2 Post-Marketing Experience
