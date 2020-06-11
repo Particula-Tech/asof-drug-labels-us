@@ -1,0 +1,27 @@
+{
+  "application_numbers": [
+    "ANDA207486"
+  ],
+  "inn": "everolimus",
+  "labeler": "Hikma Pharmaceuticals USA Inc.",
+  "package_ndcs": [
+    "0054-0480-13",
+    "0054-0480-14",
+    "0054-0480-22",
+    "0054-0481-13",
+    "0054-0481-14",
+    "0054-0481-22",
+    "0054-0497-13",
+    "0054-0497-14",
+    "0054-0497-22"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "everolimus",
+      "name": "Everolimus"
+    }
+  ],
+  "setid": "5aaf2fb7-93f6-40d6-941a-9583a3794ce7",
+  "source": "dailymed"
+}
