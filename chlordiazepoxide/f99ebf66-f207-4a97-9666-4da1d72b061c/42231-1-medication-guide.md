@@ -131,4 +131,6 @@ This Medication Guide has been approved by the U.S. Food and Drug Administration
 
 Revised: 05/2020
 
-9548902 20002891
+9548902
+
+20002891

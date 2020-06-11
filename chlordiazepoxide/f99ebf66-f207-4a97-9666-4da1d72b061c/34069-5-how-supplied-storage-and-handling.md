@@ -15,7 +15,7 @@ Librax is a trademark of Bausch Health Companies Inc. or its affiliates.
 
 © 2020 Bausch Health Companies Inc. or its affiliates
 
-1. Revised: 05/2020
+Revised: 05/2020
 
 9548902
 
