@@ -256,7 +256,7 @@ There are no adequate and well-controlled studies in pregnant women.
 Corticosteroids should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 Infants born to mothers who have received corticosteroids during pregnancy should be carefully observed for signs of hypoadrenalism.
 
-This product contains benzyl alcohol as a preservative.
+After mixing as directed, this product contains benzyl alcohol as a preservative.
 Benzyl alcohol can cross the placenta.
 See PRECAUTIONS: Pediatric use.
 

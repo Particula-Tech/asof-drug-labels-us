@@ -16,17 +16,9 @@ For current full prescribing information, please visit www.amneal.com.
 Manufactured by:
 
 Amneal Pharmaceuticals Pvt.
-Ltd.
+Ltd. Parenteral Unit Ahmedabad 382213, INDIA
 
-Parenteral Unit
-
-Ahmedabad 382213, INDIA
-
-Distributed by:
-
-Amneal Biosciences LLC
-
-Bridgewater, NJ 08807
+Distributed by: Amneal Pharmaceuticals LLC Bridgewater, NJ 08807
 
 Rev.
-08-2018-02
+05-2020-03

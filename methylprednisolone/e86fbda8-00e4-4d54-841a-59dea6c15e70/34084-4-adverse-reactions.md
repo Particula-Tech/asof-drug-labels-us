@@ -1,4 +1,4 @@
-# ​ADVERSE REACTIONS
+# ADVERSE REACTIONS
 
 The following adverse reactions have been reported with methylprednisolone sodium succinate or other corticosteroids:
 
@@ -29,4 +29,4 @@ Ophthalmic: Exophthalmos, glaucoma, increased intraocular pressure, posterior su
 
 Other: Abnormal fat deposits, decreased resistance to infection, hiccups, increased or decreased motility and number of spermatozoa, injection site infections following non-sterile administration (see WARNINGS), malaise, moon face, weight gain.
 
-To report SUSPECTED ADVERSE REACTIONS, contact Amneal Biosciences at 1-855-266-3251 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
+To report SUSPECTED ADVERSE REACTIONS, contact Amneal Pharmaceuticals at 1-877-835-5472 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
