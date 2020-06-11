@@ -4,7 +4,7 @@ Montelukast sodium USP, the active ingredient in montelukast sodium tablets, is 
 
 Montelukast sodium USP is described chemically as [R-(E)]-1-[[[1-[3-[2-(7-chloro-2-quinolinyl) ethenyl]phenyl]-3-[2-(1-hydroxy-1-methylethyl)phenyl]propyl]thio]methyl]cyclopropaneacetic acid, monosodium salt.
 
-The empirical formula is C35H35CINNaO3S, and its molecular weight is 608.18.
+The molecular formula is C35H35CINNaO3S, and its molecular weight is 608.18.
 The structural formula is:
 
 Montelukast sodium USP is white or almost white amorphous powder, hygroscopic in nature.

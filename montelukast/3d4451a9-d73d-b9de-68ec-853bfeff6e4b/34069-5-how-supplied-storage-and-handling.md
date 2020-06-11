@@ -37,6 +37,6 @@ Unit Dosage Package of 100 (10x10) NDC 55111-594-78
 
 Storage
 
-Store montelukast sodium 10 mg (montelukast) film coated tablets, 4 mg chewable tablets and 5 mg chewable tablets at 20°–25°C (68°–77° F); [See USP Controlled Room Temperature].
+Store montelukast sodium 10 mg (montelukast) film coated tablets, 4 mg chewable tablets and 5 mg chewable tablets at 20°C to 25°C (68°F to 77° F); [See USP Controlled Room Temperature].
 Protect from moisture and light.
 Store in original package.

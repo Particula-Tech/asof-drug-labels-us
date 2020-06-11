@@ -9,14 +9,14 @@ The most common adverse reactions (incidence ≥5% and greater than placebo; lis
 
 Adults and Adolescents 15 Years of Age and Older with Asthma
 
-Montelukast sodium has been evaluated for safety in approximately 2950 adult and adolescent patients 15 years of age and older in clinical trials.
+Montelukast sodium has been evaluated for safety in approximately 2,950 adult and adolescent patients 15 years of age and older in clinical trials.
 In placebo-controlled clinical trials, the following adverse experiences reported with montelukast sodium occurred in greater than or equal to 1% of patients and at an incidence greater than that in patients treated with placebo:
 
 Table 1: Adverse Experiences Occurring in ≥1% of Patientswith an Incidence Greater than that in Patients Treated with Placebo
 
 |  | Montelukast Sodium 10 mg/day(montelukast) (%) (n=1955) | Placebo (%) (n=1180) |
 | --- | --- | --- |
-| Body As A Whole Pain, abdominal Asthenia/fatigue Fever Trauma Digestive System Disorders Dyspepsia Pain, dental Gastroenteritis, infectious Nervous System/Psychiatric Headache Dizziness Respiratory System Disorders Influenza Cough Congestion, nasal Skin/Skin Appendages Disorder Rash Laboratory Adverse Experiences* ALT increased AST increased Pyuria | 2.9 1.8 1.5 1 2.1 1.7 1.5 18.4 1.9 4.2 2.7 1.6 1.6 2.1 1.6 1 | 2.5 1.2 0.9 0.8 1.1 1 0.5 18.1 1.4 3.9 2.4 1.3 1.2 2 1.2 0.9 |
+| Body As A Whole Pain, abdominal Asthenia/fatigue Fever Trauma Digestive System Disorders Dyspepsia Pain, dental Gastroenteritis, infectious Nervous System/Psychiatric Headache Dizziness Respiratory System Disorders Influenza Cough Congestion, nasal Skin/Skin Appendages Disorder Rash Laboratory Adverse Experiences* ALT increased AST increased Pyuria | 2.9 1.8 1.5 1.0 2.1 1.7 1.5 18.4 1.9 4.2 2.7 1.6 1.6 2.1 1.6 1.0 | 2.5 1.2 0.9 0.8 1.1 1.0 0.5 18.1 1.4 3.9 2.4 1.3 1.2 2.0 1.2 0.9 |
 
 * Number of patients tested (montelukast sodium and placebo, respectively): ALT and AST, 1935, 1170; pyuria, 1924, 1159.
 
@@ -82,7 +82,7 @@ Pediatric Patients 6 Months to 14 Years of Age with Perennial Allergic Rhinitis
 The safety in patients 2 to 14 years of age with perennial allergic rhinitis is supported by the safety in patients 2 to 14 years of age with seasonal allergic rhinitis.
 The safety in patients 6 to 23 months of age is supported by data from pharmacokinetic and safety and efficacy studies in asthma in this pediatric population and from adult pharmacokinetic studies.
 
-## 6.2 Post-Marketing Experience
+## 6.2 Postmarketing Experience
 
 The following adverse reactions have been identified during post-approval use of montelukast sodium.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
@@ -91,7 +91,7 @@ Blood and lymphatic system disorders: increased bleeding tendency, thrombocytope
 
 Immune system disorders: hypersensitivity reactions including anaphylaxis, hepatic eosinophilic infiltration.
 
-Psychiatric disorders: including, but not limited to, agitation, aggressive behavior or hostility, anxiousness, depression, disorientation, disturbance in attention, dream abnormalities, dysphemia (stuttering), hallucinations, insomnia, irritability, memory impairment,obsessive-compulsive symptoms, restlessness, somnambulism, suicidal thinking and behavior (including suicide), tic, and tremor [see Warnings and Precautions (5.4)].
+Psychiatric disorders: including, but not limited to, agitation, aggressive behavior or hostility, anxiousness, depression, disorientation, disturbance in attention, dream abnormalities, dysphemia (stuttering), hallucinations, insomnia, irritability, memory impairment,obsessive-compulsive symptoms, restlessness, somnambulism, suicidal thinking and behavior (including suicide), tic, and tremor [seeBoxed Warning, Warnings and Precautions (5.1)].
 
 Nervous system disorders: drowsiness, paraesthesia/hypoesthesia, seizures.
 

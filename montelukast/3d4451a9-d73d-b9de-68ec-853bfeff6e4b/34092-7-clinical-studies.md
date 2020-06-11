@@ -98,7 +98,7 @@ Patients who were randomized to treatment arms containing beclomethasone had sta
 
 In adult patients with asthma with documented aspirin sensitivity, nearly all of whom were receiving concomitant inhaled and/or oral corticosteroids, a 4-week, randomized, parallel-group trial (n=80) demonstrated that montelukast sodium, compared with placebo, resulted in significant improvement in parameters of asthma control.
 The magnitude of effect of montelukast sodium in aspirin-sensitive patients was similar to the effect observed in the general population of asthma patients studied.
-The effect of montelukast sodium on the bronchoconstrictor response to aspirin or other non-steroidal anti-inflammatory drugs in aspirin-sensitive asthmatic patients has not been evaluated [see Warnings and Precautions (5.3)].
+The effect of montelukast sodium on the bronchoconstrictor response to aspirin or other non-steroidal anti-inflammatory drugs in aspirin-sensitive asthmatic patients has not been evaluated [see Warnings and Precautions (5.4)].
 
 ## 14.2 Exercise-Induced Bronchoconstriction (EIB)
 
@@ -190,7 +190,7 @@ Table 5: Effects of Montelukast Sodium on Daytime Nasal Symptoms Score* in a Pla
 Perennial Allergic Rhinitis·
 
 The efficacy of montelukast sodium tablets for the treatment of perennial allergic rhinitis was investigated in 2 randomized, double-blind, placebo-controlled studies conducted in North America and Europe.
-The two studies enrolled a total of 3357 patients, of whom 1632 received montelukast sodium 10-mg tablets (montelukast).
+The two studies enrolled a total of 3,357 patients, of whom 1,632 received montelukast sodium 10-mg tablets (montelukast).
 Patients 15 to 82 years of age with perennial allergic rhinitis as confirmed by history and a positive skin test to at least one relevant perennial allergen (dust mites, animal dander, and/or mold spores), who had active symptoms at the time of study entry, were enrolled.
 
 In the study in which efficacy was demonstrated, the median age was 35 years (range 15 to 81); 64.1% were females and 35.9% were males.
