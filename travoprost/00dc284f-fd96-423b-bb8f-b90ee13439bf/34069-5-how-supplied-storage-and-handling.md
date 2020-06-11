@@ -17,3 +17,5 @@ NDC 0378-9651-50
 carton of one bottle
 
 Storage: Store at 2° to 25°C (36° to 77°F).
+
+After opening, travoprost ophthalmic solution, USP (ionic buffered solution) can be used until the expiration date on the bottle.

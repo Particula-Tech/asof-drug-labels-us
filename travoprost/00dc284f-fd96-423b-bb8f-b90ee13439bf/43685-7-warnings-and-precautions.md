@@ -3,7 +3,7 @@
 ## 5.1 Pigmentation
 
 Travoprost ophthalmic solution has been reported to cause changes to pigmented tissues.
-The most frequently reported changes have been increased pigmentation of the iris, periorbital tissue (eyelid) and eyelashes.
+The most frequently reported changes have been increased pigmentation of the iris, periorbital tissue (eyelid), and eyelashes.
 Pigmentation is expected to increase as long as travoprost is administered.
 The pigmentation change is due to increased melanin content in the melanocytes rather than to an increase in the number of melanocytes.
 After discontinuation of travoprost, pigmentation of the iris is likely to be permanent, while pigmentation of the periorbital tissue and eyelash changes have been reported to be reversible in some patients.
@@ -17,22 +17,22 @@ While treatment with travoprost ophthalmic solution 0.004% can be continued in p
 
 ## 5.2 Eyelash Changes
 
-Travoprost may gradually change eyelashes and vellus hair in the treated eye.
+Travoprost ophthalmic solution 0.004% may gradually change eyelashes and vellus hair in the treated eye.
 These changes include increased length, thickness, and number of lashes.
-Eyelash changes are usually reversible upon discontinuation of treatment.
+Eyelash changes are usually reversible upon discontinuation of treatment [see Patient Counseling Information (17)].
 
 ## 5.3 Intraocular Inflammation
 
-Travoprost should be used with caution in patients with active intraocular inflammation (e.g., uveitis) because the inflammation may be exacerbated.
+Travoprost ophthalmic solution 0.004% should be used with caution in patients with active intraocular inflammation (e.g., uveitis) because the inflammation may be exacerbated.
 
 ## 5.4 Macular Edema
 
 Macular edema, including cystoid macular edema, has been reported during treatment with travoprost ophthalmic solution.
-Travoprost should be used with caution in aphakic patients, in pseudophakic patients with a torn posterior lens capsule, or in patients with known risk factors for macular edema.
+Travoprost ophthalmic solution 0.004% should be used with caution in aphakic patients, in pseudophakic patients with a torn posterior lens capsule, or in patients with known risk factors for macular edema.
 
 ## 5.5 Angle-closure, Inflammatory or Neovascular Glaucoma
 
-Travoprost has not been evaluated for the treatment of angle-closure, inflammatory or neovascular glaucoma.
+Travoprost ophthalmic solution 0.004% has not been evaluated for the treatment of angle-closure, inflammatory or neovascular glaucoma.
 
 ## 5.6 Bacterial Keratitis
 
@@ -41,4 +41,4 @@ These containers had been inadvertently contaminated by patients who, in most ca
 
 ## 5.7 Use with Contact Lenses
 
-Contact lenses should be removed prior to instillation of travoprost and may be reinserted 15 minutes following its administration.
+Contact lenses should be removed prior to instillation of travoprost ophthalmic solution 0.004% and may be reinserted 15 minutes following its administration.
