@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA211379"
+  ],
+  "inn": "dexamethasone",
+  "labeler": "Acrotech Biopharma LLC",
+  "package_ndcs": [
+    "72893-015-06",
+    "72893-015-24"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "dexamethasone",
+      "name": "Hemady"
+    }
+  ],
+  "setid": "aec60743-f925-4d91-a865-064696a9f9e6",
+  "source": "dailymed"
+}
