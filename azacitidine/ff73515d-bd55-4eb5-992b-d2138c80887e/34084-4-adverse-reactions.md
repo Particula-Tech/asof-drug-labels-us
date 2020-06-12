@@ -1,0 +1,221 @@
+# 6 ADVERSE REACTIONS
+
+The following adverse reactions are described in other labeling sections:
+
+o Anemia, Neutropenia and Thrombocytopenia [see Warnings and Precautions (5.1)]
+
+o Hepatotoxocity in Patients with Severe Pre-existing Hepatic Impairment [seeWarnings and Precautions (5.2)]
+
+o Renal Toxicity [see Warnings and Precautions (5.3)]
+
+o Tumor Lysis Syndrome [see Warnings and Precautions (5.4)]
+
+o Embryo-Fetal Risk [see Warnings and Precautions (5.5)]
+
+Most Commonly Occurring Adverse Reactions (Subcutaneous or Intravenous Route): nausea, anemia, thrombocytopenia, vomiting, pyrexia, leukopenia, diarrhea, injection site erythema, constipation, neutropenia, ecchymosis.
+The most common adverse reactions by intravenous route also included petechiae, rigors, weakness and hypokalemia.
+
+Adverse Reactions Most Frequently (>2%) Resulting in Clinical Intervention (Subcutaneous or Intravenous Route): Discontinuation: leukopenia, thrombocytopenia, neutropenia.
+Dose Held: leukopenia, neutropenia, thrombocytopenia, pyrexia, pneumonia, febrile neutropenia.
+Dose Reduced: leukopenia, neutropenia, thrombocytopenia.
+
+## 6.1 Adverse Reactions in Clinical Trials
+
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+The data described below reflect exposure to Azacitidine for Injection in 443 MDS patients from 4 clinical studies.
+Study 1 was a supportive-care controlled trial (subcutaneous administration), Studies 2 and 3 were single arm studies (one with subcutaneous administration and one with intravenous administration), and Study 4 was an international randomized trial (subcutaneous administration) [see Clinical Studies (14)].
+
+In Studies 1, 2 and 3, a total of 268 patients were exposed to Azacitidine for Injection, including 116 exposed for 6 cycles (approximately 6 months) or more and 60 exposed for greater than 12 cycles (approximately one year).
+Azacitidine for Injection was studied primarily in supportive-care controlled and uncontrolled trials (n=150 and n=118, respectively).
+The population in the subcutaneous studies (n=220) was 23 to 92 years old (mean 66.4 years), 68% male, and 94% white, and had MDS or AML.
+The population in the intravenous study (n=48) was 35 to 81 years old (mean 63.1 years), 65% male, and 100% white.
+Most patients received average daily doses between 50 and 100 mg/m2.
+
+In Study 4, a total of 175 patients with higher-risk MDS (primarily RAEB and RAEB-T subtypes) were exposed to Azacitidine for Injection.
+Of these patients, 119 were exposed for 6 or more cycles, and 63 for at least 12 cycles.
+The mean age of this population was 68.1 years (ranging from 42 to 83 years), 74% were male, and 99% were white.
+Most patients received daily Azacitidine for Injection doses of 75 mg/m2.
+
+Table 1 presents adverse reactions occurring in at least 5% of patients treated with Azacitidine for Injection (subcutaneous) in Studies 1 and 2.
+It is important to note that duration of exposure was longer for the Azacitidine for Injection-treated group than for the observation group: patients received Azacitidine for Injection for a mean of 11.4 months while mean time in the observation arm was 6.1 months.
+
+Table 1: Most Frequently Observed Adverse Reactions (≥5.0% in All Subcutaneous Azacitidine for Injection-Treated Patients; Studies 1 and 2)
+
+| System Organ Class Preferred TermMultiple terms of the same preferred terms for a patient are only counted once within each treatment group. | Number (%) of Patients |  |
+| --- | --- | --- |
+| All Azacitidine for InjectionIncludes adverse reactions from all patients exposed to Azacitidine for Injection, including patients after crossing over from observations. (N=220) | ObservationIncludes adverse reactions from observation period only; excludes any adverse events after crossover to Azacitidine for Injection. (N=92) |  |
+| Blood and lymphatic system disorders |  |  |
+| Anemia | 153 (70) | 59 (64) |
+| Anemia aggravated | 12 (6) | 5 (5) |
+| Febrile neutropenia | 36 (16) | 4 (4) |
+| Leukopenia | 106 (48) | 27 (29) |
+| Neutropenia | 71 (32) | 10 (11) |
+| Thrombocytopenia | 144 (66) | 42 (46) |
+| Gastrointestinal disorders |  |  |
+| Abdominal tenderness | 26 (12) | 1 (1) |
+| Constipation | 74 (34) | 6 (7) |
+| Diarrhea | 80 (36) | 13 (14) |
+| Gingival bleeding | 21 (10) | 4 (4) |
+| Loose stools | 12 (6) | 0 |
+| Mouth hemorrhage | 11 (5) | 1 (1) |
+| Nausea | 155 (71) | 16 (17) |
+| Stomatitis | 17 (8) | 0 |
+| Vomiting | 119 (54) | 5 (5) |
+| General disorders and administration site conditions |  |  |
+| Chest pain | 36 (16) | 5 (5) |
+| Injection site bruising | 31 (14) | 0 |
+| Injection site erythema | 77 (35) | 0 |
+| Injection site granuloma | 11 (5) | 0 |
+| Injection site pain | 50 (23) | 0 |
+| Injection site pigmentation changes | 11 (5) | 0 |
+| Injection site pruritus | 15 (7) | 0 |
+| Injection site reaction | 30 (14) | 0 |
+| Injection site swelling | 11 (5) | 0 |
+| Lethargy | 17 (8) | 2 (2) |
+| Malaise | 24 (11) | 1 (1) |
+| Pyrexia | 114 (52) | 28 (30) |
+| Infections and infestations |  |  |
+| Nasopharyngitis | 32 (15) | 3 (3) |
+| Pneumonia | 24 (11) | 5 (5) |
+| Upper respiratory tract infection | 28 (13) | 4 (4) |
+| Injury, poisoning, and procedural complications |  |  |
+| Post procedural hemorrhage | 13 (6) | 1 (1) |
+| Metabolism and nutrition disorders |  |  |
+| Anorexia | 45 (21) | 6 (7) |
+| Musculoskeletal and connective tissue disorders |  |  |
+| Arthralgia | 49 (22) | 3 (3) |
+| Chest wall pain | 11 (5) | 0 |
+| Myalgia | 35 (16) | 2 (2) |
+| Nervous system disorders |  |  |
+| Dizziness | 41 (19) | 5 (5) |
+| Headache | 48 (22) | 10 (11) |
+| Psychiatric disorders |  |  |
+| Anxiety | 29 (13) | 3 (3) |
+| Insomnia | 24 (11) | 4 (4) |
+| Respiratory, thoracic and mediastinal disorders |  |  |
+| Dyspnea | 64 (29) | 11 (12) |
+| Skin and subcutaneous tissue disorders |  |  |
+| Dry skin | 11 (5) | 1 (1) |
+| Ecchymosis | 67 (31) | 14 (15) |
+| Erythema | 37 (17) | 4 (4) |
+| Rash | 31 (14) | 9 (10) |
+| Skin nodule | 11 (5) | 1 (1) |
+| Urticaria | 13 (6) | 1 (1) |
+| Vascular disorders |  |  |
+| Hematoma | 19 (9) | 0 |
+| Hypotension | 15 (7) | 2 (2) |
+| Petechiae | 52 (24) | 8 (9) |
+
+Table 2 presents adverse reactions occurring in at least 5% of patients treated with Azacitidine for Injection in Study 4.
+Similar to Studies 1 and 2 described above, duration of exposure to treatment with Azacitidine for Injection was longer (mean 12.2 months) compared with best supportive care (mean 7.5 months).
+
+Table 2: Most Frequently Observed Adverse Reactions (≥5.0% in the Azacitidine for Injection-Treated Patients and the Percentage with NCI CTC Grade 3/4 Reactions; Study 4)
+
+|  | Number (%) of Patients |  |  |  |
+| --- | --- | --- | --- | --- |
+|  | Any Grade |  | Grade 3/4 |  |
+| System Organ Class Preferred TermMultiple reports of the same preferred term from a patient were only counted once within each treatment. | Azacitidine for Injection (N=175) | Best Supportive Care Only (N=102) | Azacitidine for Injection (N=175) | Best Supportive Care Only (N=102) |
+| Blood and lymphatic system disorders |  |  |  |  |
+| Anemia | 90 (51) | 45 (44) | 24 (14) | 9 (9) |
+| Febrile neutropenia | 24 (14) | 10 (10) | 22 (13) | 7 (7) |
+| Leukopenia | 32 (18) | 2 (2) | 26 (15) | 1 (1) |
+| Neutropenia | 115 (66) | 29 (28) | 107 (61) | 22 (22) |
+| Thrombocytopenia | 122 (70) | 35 (34) | 102 (58) | 29 (28) |
+| Gastrointestinal disorders |  |  |  |  |
+| Abdominal pain | 22 (13) | 7 (7) | 7 (4) | 0 |
+| Constipation | 88 (50) | 8 (8) | 2 (1) | 0 |
+| Dyspepsia | 10 (6) | 2 (2) | 0 | 0 |
+| Nausea | 84 (48) | 12 (12) | 3 (2) | 0 |
+| Vomiting | 47 (27) | 7 (7) | 0 | 0 |
+| General disorders and administration site conditions |  |  |  |  |
+| Fatigue | 42 (24) | 12 (12) | 6 (3) | 2 (2) |
+| Injection site bruising | 9 (5) | 0 | 0 | 0 |
+| Injection site erythema | 75 (43) | 0 | 0 | 0 |
+| Injection site hematoma | 11 (6) | 0 | 0 | 0 |
+| Injection site induration | 9 (5) | 0 | 0 | 0 |
+| Injection site pain | 33 (19) | 0 | 0 | 0 |
+| Injection site rash | 10 (6) | 0 | 0 | 0 |
+| Injection site reaction | 51 (29) | 0 | 1 (1) | 0 |
+| Pyrexia | 53 (30) | 18 (18) | 8 (5) | 1 (1) |
+| Infections and infestations |  |  |  |  |
+| Rhinitis | 10 (6) | 1 (1) | 0 | 0 |
+| Upper respiratory tract infection | 16 (9) | 4 (4) | 3 (2) | 0 |
+| Urinary tract infection | 15 (9) | 3 (3) | 3 (2) | 0 |
+| Investigations |  |  |  |  |
+| Weight decreased | 14 (8) | 0 | 1 (1) | 0 |
+| Metabolism and nutrition disorders |  |  |  |  |
+| Hypokalemia | 11 (6) | 3 (3) | 3 (2) | 3 (3) |
+| Nervous system disorders |  |  |  |  |
+| Lethargy | 13 (7) | 2 (2) | 0 | 1 (1) |
+| Psychiatric disorders |  |  |  |  |
+| Anxiety | 9 (5) | 1 (1) | 0 | 0 |
+| Insomnia | 15 (9) | 3 (3) | 0 | 0 |
+| Renal and urinary disorders |  |  |  |  |
+| Hematuria | 11 (6) | 2 (2) | 4 (2) | 1 (1) |
+| Respiratory, thoracic and mediastinal disorders |  |  |  |  |
+| Dyspnea | 26 (15) | 5 (5) | 6 (3) | 2 (2) |
+| Dyspnea exertional | 9 (5) | 1 (1) | 0 | 0 |
+| Pharyngolaryngeal pain | 11 (6) | 3 (3) | 0 | 0 |
+| Skin and subcutaneous tissue disorders |  |  |  |  |
+| Erythema | 13 (7) | 3 (3) | 0 | 0 |
+| Petechiae | 20 (11) | 4 (4) | 2 (1) | 0 |
+| Pruritus | 21 (12) | 2 (2) | 0 | 0 |
+| Rash | 18 (10) | 1 (1) | 0 | 0 |
+| Vascular disorders |  |  |  |  |
+| Hypertension | 15 (9) | 4 (4) | 2 (1) | 2 (2) |
+
+In Studies 1, 2 and 4 with subcutaneous administration of Azacitidine for Injection, adverse reactions of neutropenia, thrombocytopenia, anemia, nausea, vomiting, diarrhea, constipation, and injection site erythema/reaction tended to increase in incidence with higher doses of Azacitidine for Injection.
+Adverse reactions that tended to be more pronounced during the first 1 to 2 cycles of subcutaneous treatment compared with later cycles included thrombocytopenia, neutropenia, anemia, nausea, vomiting, injection site erythema/pain/bruising/reaction, constipation, petechiae, dizziness, anxiety, hypokalemia, and insomnia.
+There did not appear to be any adverse reactions that increased in frequency over the course of treatment.
+
+Overall, adverse reactions were qualitatively similar between the intravenous and subcutaneous studies.
+Adverse reactions that appeared to be specifically associated with the intravenous route of administration included infusion site reactions (e.g. erythema or pain) and catheter site reactions (e.g. infection, erythema, or hemorrhage).
+
+In clinical studies of either subcutaneous or intravenous Azacitidine for Injection, the following serious adverse reactions occurring at a rate of < 5% (and not described in Tables 1 or 2) were reported:
+
+Blood and lymphatic system disorders: agranulocytosis, bone marrow failure, pancytopenia splenomegaly.
+
+Cardiac disorders: atrial fibrillation, cardiac failure, cardiac failure congestive, cardiorespiratory arrest, congestive cardiomyopathy.
+
+Eye disorders: eye hemorrhage.
+
+Gastrointestinal disorders: diverticulitis, gastrointestinal hemorrhage, melena, perirectal abscess.
+
+General disorders and administration site conditions: catheter site hemorrhage, general physical health deterioration, systemic inflammatory response syndrome.
+
+Hepatobiliary disorders: cholecystitis.
+
+Immune system disorders: anaphylactic shock, hypersensitivity.
+
+Infections and infestations: abscess limb, bacterial infection, cellulitis, blastomycosis, injection site infection, Klebsiella sepsis, neutropenic sepsis, pharyngitis streptococcal, pneumonia Klebsiella, sepsis, septic shock, Staphylococcal bacteremia, Staphylococcal infection, toxoplasmosis.
+
+Metabolism and nutrition disorders: dehydration.
+
+Musculoskeletal and connective tissue disorders: bone pain aggravated, muscle weakness, neck pain.
+
+Neoplasms benign, malignant and unspecified: leukemia cutis.
+
+Nervous system disorders: cerebral hemorrhage, convulsions, intracranial hemorrhage.
+
+Renal and urinary disorders: loin pain, renal failure.
+
+Respiratory, thoracic and mediastinal disorders: hemoptysis, lung infiltration, pneumonitis, respiratory distress.
+
+Skin and subcutaneous tissue disorders: pyoderma gangrenosum, rash pruritic, skin induration.
+
+Surgical and medical procedures: cholecystectomy.
+
+Vascular disorders: orthostatic hypotension.
+
+## 6.2 Postmarketing Experience
+
+The following adverse reactions have been identified during postmarketing use of Azacitidine for Injection.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+- Interstitial lung disease
+- Tumor lysis syndrome
+- Injection site necrosis
+- Sweet’s syndrome (acute febrile neutrophilic dermatosis)
+- Necrotizing fasciitis (including fatal cases)
+- Differentiation syndrome

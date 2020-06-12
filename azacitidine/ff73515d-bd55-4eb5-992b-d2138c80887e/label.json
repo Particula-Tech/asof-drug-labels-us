@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA209337"
+  ],
+  "inn": "azacitidine",
+  "labeler": "Hikma Pharmaceuticals USA Inc.",
+  "package_ndcs": [
+    "0143-9606-01"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION",
+      "generic": "azacitidine",
+      "name": "Azacitidine"
+    }
+  ],
+  "setid": "ff73515d-bd55-4eb5-992b-d2138c80887e",
+  "source": "dailymed"
+}
