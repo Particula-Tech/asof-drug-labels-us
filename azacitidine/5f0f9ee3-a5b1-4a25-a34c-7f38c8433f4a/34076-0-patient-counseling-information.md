@@ -6,7 +6,7 @@ Instruct patients to inform their physician about any underlying liver disease.
 
 Renal Toxicity
 
-Instruct patients to inform their physician about any underlying renal disease [see Warnings and Precautions (5.3) and Use in Specific Populations (8.6)].
+Instruct patients to inform their physician about any underlying renal disease [see Warnings and Precautions (5.3)].
 
 Embryo-Fetal Toxicity
 
@@ -25,10 +25,10 @@ Infertility
 
 Advise males and females of the potential for reduced fertility from Azacitidine for Injection [see Use in Specific Populations (8.3) and Nonclinical Toxicology (13.1)].
 
-Manufactured by: Sindan Pharma SRL 11 Ion Mihalache Blvd.
+Manufactured in Romania by: Sindan Pharma SRL 11 Ion Mihalache Blvd.
 Bucharest 1, Romania 011171
 
 For BluePoint Laboratories
 
 Rev.
-A 9/2018
+B 04/2020

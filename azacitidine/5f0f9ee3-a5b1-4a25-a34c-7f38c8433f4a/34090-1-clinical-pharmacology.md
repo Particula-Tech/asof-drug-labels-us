@@ -12,7 +12,7 @@ Non-proliferating cells are relatively insensitive to azacitidine.
 ## 12.3 Pharmacokinetics
 
 The area under the curve (AUC) and peak concentration (Cmax) of subcutaneous administration of azacitidine in patients with cancer were approximately dose proportional within the dose range of 25 mg/m2 (0.33 times the lowest approved recommended dosage) to 100 mg/m2 (the maximum approved recommended dosage).
-The mean and standard deviation (SD) of Cmaxwas 750 ± 403 ng/mL after a single subcutaneous administration of 75mg/m2 azacitidine.
+The mean and standard deviation (SD) of Cmax was 750 ± 403 ng/mL after a single subcutaneous administration of 75mg/m2 azacitidine.
 Multiple dosing at the recommended dose-regimen does not result in drug accumulation.
 
 Absorption
