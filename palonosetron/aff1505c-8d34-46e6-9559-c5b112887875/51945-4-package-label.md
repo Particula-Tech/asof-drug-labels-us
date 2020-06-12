@@ -1,4 +1,4 @@
-# 0.25 mg 5 mL Carton
+# Carton
 
 NDC 0781-3312-75
 

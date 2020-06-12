@@ -9,9 +9,9 @@ Palonosetron hydrochloride exists as a single isomer and has the following struc
 Palonosetron hydrochloride is a white to off-white crystalline powder.
 It is freely soluble in water, soluble in propylene glycol, and slightly soluble in ethanol and 2-propanol.
 
-Palonosetron HCl injection is a sterile, clear, colorless, non pyrogenic, isotonic, buffered solution for intravenous administration.
+Palonosetron HCl injection is a sterile, clear, colorless, non-pyrogenic, isotonic, buffered solution for intravenous administration.
 Palonosetron HCl injection is available as a 5 mL single-dose vial.
-Each 5 mL vial contains 0.25 mg palonosetron base as 0.28 mg palonosetron hydrochloride, 207.5 mg mannitol, disodium edetate and citrate buffer in water for intravenous administration.
+Each 5 mL vial contains: 0.25 mg palonosetron equivalent to 0.28 mg palonosetron hydrochloride, 207.5 mg mannitol, disodium edetate and citrate buffer in water for intravenous administration.
 Hydrochloric acid or sodium hydroxide may have been added to adjust pH.
 
 The pH of the solution in the 5 mL vial is 4.5 to 5.5.

@@ -1,5 +1,5 @@
 # 3 DOSAGE FORM AND STRENGTHS
 
-Palonosetron HCl injection is supplied as a single-dose, sterile, clear, colorless solution in glass vials that provide:
+Palonosetron HCl injection is sterile, clear, colorless solution in glass vials that provide:
 
-- •0.25 mg (free base) per 5 mL (concentration: 0.05 mg/mL; 50 mcg/mL)
+- •0.25 mg palonosetron in 5 mL (0.05 mg/mL) in a single-dose vial
