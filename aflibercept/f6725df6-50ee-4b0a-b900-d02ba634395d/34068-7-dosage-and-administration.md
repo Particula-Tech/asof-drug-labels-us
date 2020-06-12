@@ -11,9 +11,9 @@ Refer to prescribing information for irinotecan, fluorouracil, and leucovorin fo
 
 Discontinue ZALTRAP for:
 
-- Severe hemorrhage [Warnings and Precautions (5.1)]
-- Gastrointestinal perforation [Warnings and Precautions (5.2)]
-- Impaired wound healing [Warnings and Precautions (5.3)]
+- Severe hemorrhage [see Warnings and Precautions (5.1)]
+- Gastrointestinal perforation [see Warnings and Precautions (5.2)]
+- Impaired wound healing [see Warnings and Precautions (5.3)]
 - Fistula formation [see Warnings and Precautions (5.4)]
 - Hypertensive crisis or hypertensive encephalopathy [see Warnings and Precautions (5.5)]
 - Arterial thromboembolic events (ATE) [see Warnings and Precautions (5.6)]

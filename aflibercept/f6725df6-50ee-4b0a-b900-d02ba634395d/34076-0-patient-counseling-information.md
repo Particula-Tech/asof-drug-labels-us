@@ -2,22 +2,21 @@
 
 Hemorrhage
 
-- Inform patients that ZALTRAP can cause severe bleeding and advise patients to contact their health care provider for bleeding or symptoms of bleeding, including lightheadedness [see Warnings and Precautions (5.1)].
+- Inform patients that ZALTRAP can cause severe bleeding and advise patients to contact their healthcare provider for bleeding or symptoms of bleeding, including lightheadedness [see Warnings and Precautions (5.1)].
 
 Gastrointestinal Perforation and Fistula Formation
 
-- Advise patients to immediately contact their health care provider for signs and symptoms of gastrointestinal perforation or fistula [see Warnings and Precautions (5.2, 5.4)].
+- Advise patients to immediately contact their healthcare provider for signs and symptoms of gastrointestinal perforation or fistula [see Warnings and Precautions (5.2, 5.4)].
 
 Impaired Wound Healing
 
 - Advise patients that ZALTRAP may impair wound healing.
-  Instruct patients to discuss any planned surgical procedure (including tooth extractions) with all their healthcare providers.
-  [see Warnings and Precautions (5.3)].
+  Instruct patients to discuss any planned surgical procedure (including tooth extractions) with all their healthcare providers [see Warnings and Precautions (5.3)].
 
 Hypertension
 
 - Inform patients that ZALTRAP can cause or exacerbate existing hypertension.
-  Advise patients to undergo routine blood pressure monitoring and to contact their health care provider if blood pressure is elevated or if symptoms from hypertension occur including severe headache, lightheadedness, or neurologic symptoms [see Warnings and Precautions (5.5)].
+  Advise patients to undergo routine blood pressure monitoring and to contact their healthcare provider if blood pressure is elevated or if symptoms from hypertension occur including severe headache, lightheadedness, or neurologic symptoms [see Warnings and Precautions (5.5)].
 
 Arterial Thromboembolic Events
 
@@ -29,15 +28,15 @@ Proteinuria
 
 Neutropenia and Neutropenic Complications
 
-- Advise patients to notify their health care provider of fever or other signs of infection [see Warnings and Precautions (5.8)].
+- Advise patients to notify their healthcare provider of fever or other signs of infection [see Warnings and Precautions (5.8)].
 
 Diarrhea and Dehydration
 
-- Advise patients to notify the health care provider of severe diarrhea, vomiting, or severe abdominal pain [see Warnings and Precautions (5.9)].
+- Advise patients to notify the healthcare provider of severe diarrhea, vomiting, or severe abdominal pain [see Warnings and Precautions (5.9)].
 
 Posterior Reversible Leukoencephalopathy Syndrome
 
-- Advise patients to immediately contact their health care provider for new onset or worsening neurological function [see Warnings and Precautions (5.10)].
+- Advise patients to immediately contact their healthcare provider for new onset or worsening neurological function [see Warnings and Precautions (5.10)].
 
 Embryo-Fetal Toxicity
 
@@ -50,3 +49,7 @@ Advise pregnant women and females of reproductive potential:
 Lactation
 
 - Advise women not to breastfeed during treatment with ZALTRAP and for 1 month following the last dose [see Use in Specific Populations (8.2)].
+
+Aneurysms and Artery Dissections
+
+- Advise patients to notify their healthcare provider if they have or have had an aneurysm (swelling/enlargement and weakening of part of a blood vessel) or artery dissection (tear in a blood vessel wall) [see Adverse Reactions (6.3)].

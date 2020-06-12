@@ -110,3 +110,5 @@ Because these reactions are reported voluntarily from a population of uncertain 
 Musculoskeletal and connective tissue disorders: Osteonecrosis of the jaw
 
 Cardiac disorders: Cardiac failure, ejection fraction decreased
+
+Vascular disorders: Arterial (including aortic) aneurysms, dissections, and rupture
