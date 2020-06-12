@@ -38,12 +38,13 @@ The developmental and health benefits of breastfeeding should be considered alon
 
 The safety and efficacy of cinacalcet have not been established in pediatric patients.
 
-Dosing with cinacalcet in a pediatric study was stopped because of a fatality in a cinacalcet-treated individual.
+The use of cinacalcet for the treatment of secondary HPT in pediatric patients with CKD on dialysis was evaluated in two randomized, controlled studies (Pediatric Study 1 and Study 2) where 47 pediatric patients aged 6 years to less than 18 years received at least one dose of cinacalcet and in one single-arm study (Pediatric Study 3) where 17 pediatric patients aged 28 days to less than 6 years received at least one dose of cinacalcet.
+Dosing with cinacalcet in Pediatric Study 1 was stopped because of a fatality in a cinacalcet-treated individual.
 The individual was noted to be severely hypocalcemic at the time of death.
 The cause of death was multifactorial and a contribution of cinacalcet to the death could not be excluded [see Warnings and Precautions (5.1)].
-
-Additional information describing clinical studies in which efficacy was not demonstrated in pediatric patients is approved for Amgen Inc.’ SENSIPAR® (cinacalcet).
-However, due to Amgen Inc.’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
+Study 1 was terminated and changes to cinacalcet dosing after the fatality were implemented in Pediatric Study 2 and Study 3 to minimize the risk of severe hypocalcemia.
+The data in Pediatric Studies 2 and 3 were insufficient to establish the safety and efficacy of cinacalcet for the treatment of secondary HPT in pediatric patients with CKD on dialysis.
+In aggregate, the pediatric studies did not establish a safe and effective cinacalcet dosing regimen for the pediatric population.
 
 ## 8.5 Geriatric Use
 
