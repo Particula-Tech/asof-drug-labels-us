@@ -10,7 +10,7 @@ Pediatric patients may be more susceptible than adults to systemic toxicity from
 Patients applying a topical corticosteroid to a large surface area or to areas under occlusion should be considered for periodic evaluation of the HPA axis.
 This may be done by using cosyntropin (ACTH1-24) stimulation testing (CST).
 
-Minimize systemic corticosteroid effects by mitigating the risk factors for increased systemic absorption and using LOCOIDLotion as recommended [see Dosage and Administration (2)].
+Minimize systemic corticosteroid effects by mitigating the risk factors for increased systemic absorption and using LOCOID Lotion as recommended [see Dosage and Administration (2)].
 
 If HPA axis suppression is noted, the frequency of application should be reduced or the drug should be withdrawn, or a less potent corticosteroid should be substituted.
 Signs and symptoms of glucocorticosteroid insufficiency may occur, requiring supplemental systemic corticosteroids [see Adverse Reactions (6)].

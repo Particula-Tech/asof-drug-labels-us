@@ -2,7 +2,7 @@
 
 ## 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
 
-In a 2-year dermal rat carcinogenicity study with LOCOIDLotion, hydrocortisone butyrate was administered to Sprague-Dawley rats at topical doses of 0.05, 0.15, and 0.3 mg/kg/day in males and 0.1, 0.25, and 0.5 mg/kg/day in females (0.1% lotion).
+In a 2-year dermal rat carcinogenicity study with LOCOID Lotion, hydrocortisone butyrate was administered to Sprague-Dawley rats at topical doses of 0.05, 0.15, and 0.3 mg/kg/day in males and 0.1, 0.25, and 0.5 mg/kg/day in females (0.1% lotion).
 No drug-related tumors were noted in this study up to the highest doses evaluated in this study of 0.3 mg/kg/day in males (0.1X MTHD) and 0.5 mg/kg/day in females (0.2X MTHD).
 
 Hydrocortisone butyrate revealed no evidence of mutagenic or clastogenic potential based on the results of two in vitro genotoxicity tests (Ames test and L5178Y/TK+/- mouse lymphoma assay) and one in vivo genotoxicity test (mouse micronucleus assay).
