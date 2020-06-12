@@ -17,8 +17,7 @@ The patient should be warned not to engage in activities requiring mental alertn
 
 Distributed by: Lannett Company, Inc. Philadelphia, PA 19136
 
-Made in the USA
+CIB70346C
 
-CIB70346B
-
-Revised 03/2016
+Rev.
+06/2020
