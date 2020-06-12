@@ -1,4 +1,4 @@
-# HOW SUPPLIED
+# HOW SUPPLIED:
 
 Pilocarpine hydrochloride tablets USP, 5 mg are white, film coated, round tablets, debossed LAN on one side and 1313 on the other side.
 Each tablet contains 5 mg pilocarpine hydrochloride.
@@ -18,8 +18,7 @@ Store at 20°- 25°C(68°-77°F) [see USP Controlled Room Temperature].
 
 Distributed by: Lannett Company, Inc. Philadelphia, PA 19136
 
-Made in the USA
+CIB70322C
 
-CIB70322B
-
-Revised 03/16
+Rev.
+05/20

@@ -1,24 +1,24 @@
-# WARNINGS
+# WARNINGS:
 
-Cardiovascular Disease
+Cardiovascular Disease:
 
 Patients with significant cardiovascular disease may be unable to compensate for transient changes in hemodynamics or rhythm induced by pilocarpine.
 Pulmonary edema has been reported as a complication of pilocarpine toxicity from high ocular doses given for acute angle-closure glaucoma.
 Pilocarpine should be administered with caution in and under close medical supervision of patients with significant cardiovascular disease.
 
-Ocular
+Ocular:
 
 Ocular formulations of pilocarpine have been reported to cause visual blurring which may result in decreased visual acuity, especially at night and in patients with central lens changes, and to cause impairment of depth perception.
 Caution should be advised while driving at night or performing hazardous activities in reduced lighting.
 
-Pulmonary Disease
+Pulmonary Disease:
 
 Pilocarpine has been reported to increase airway resistance, bronchial smooth muscle tone, and bronchial secretions.
 Pilocarpine hydrochloride should be administered with caution to and under close medical supervision in patients with controlled asthma, chronic bronchitis, or chronic obstructive pulmonary disease requiring pharmacotherapy.
 
-# PRECAUTIONS
+# PRECAUTIONS:
 
-## General
+## General:
 
 Pilocarpine toxicity is characterized by an exaggeration of its parasympathomimetic effects.
 These may include: headache, visual disturbance, lacrimation, sweating, respiratory distress, gastrointestinal spasm, nausea, vomiting, diarrhea, atrioventricular block, tachycardia, bradycardia, hypotension, hypertension, shock, mental confusion, cardiac arrhythmia, and tremors.
@@ -33,7 +33,7 @@ Pilocarpine may increase ureteral smooth muscle tone and could theoretically pre
 Cholinergic agonists may have dose-related central nervous system effects.
 This should be considered when treating patients with underlying cognitive or psychiatric disturbances.
 
-### Hepatic Insufficiency
+### Hepatic Insufficiency:
 
 Based on decreased plasma clearance observed in patients with moderate hepatic impairment, the starting dose in these patients should be 5 mg twice daily, followed by adjustment based on therapeutic response and tolerability.
 Patients with mild hepatic insufficiency (Child-Pugh score of 5-6) do not require dosage reductions.
@@ -42,9 +42,9 @@ The use of pilocarpine in these patients is not recommended.
 
 Child-Pugh scoring system for Hepatic Impairment
 
-|  | 1 | 2 | 3 |
-| --- | --- | --- | --- |
 | Clinical and Biochemical Measurements | Points Scored for Increasing Abnormality |  |  |
+| --- | --- | --- | --- |
+|  | 1 | 2 | 3 |
 | Encephalopathy (grade)According to grading of Trey C, Burns D, and Saunders S. Treatment of hepatic coma by exchange blood transfusion. N Engl J Med. 1966; 274:473-481. | None | 1 and 2 | 3 and 4 |
 | Ascites | Absent | Slight | Moderate |
 | Bilirubin (mg. Per 100 ml.) | 1-2 | 2-3 | >3 |
@@ -56,14 +56,14 @@ Reference: Pugh, RNH, Murray-Lyon, IM, Dawson, JL Pietroni, MC, Williams, R. Tra
 J. Surg.
 1973;60:646-9.
 
-## Information for Patients
+## Information for Patients:
 
 Patients should be informed that pilocarpine may cause visual disturbances, especially at night, that could impair their ability to drive safely.
 
 If a patient sweats excessively while taking pilocarpine hydrochloride and cannot drink enough liquid, the patient should consult a physician.
 Dehydration may develop.
 
-## Drug Interactions
+## Drug Interactions:
 
 Pilocarpine should be administered with caution to patients taking beta adrenergic antagonists because of the possibility of conduction disturbances.
 Drugs with parasympathomimetic effects administered concurrently with pilocarpine would be expected to result in additive pharmacologic effects.
@@ -73,7 +73,7 @@ These effects should be considered when anticholinergic properties may be contri
 
 While no formal drug interaction studies have been performed, the following concomitant drugs were used in at least 10% of patients in either or both Sjogren's efficacy studies: acetylsalicylic acid, artificial tears, calcium, conjugated estrogens, hydroxychloroquine sulfate, ibuprofen, levothyroxine sodium, medroxyprogesterone acetate, methotrexate, multivitamins, naproxen, omeprazole, paracetamol, and prednisone.
 
-## Carcinogenesis, Mutagenesis, Impairment of Fertility
+## Carcinogenesis, Mutagenesis, Impairment of Fertility:
 
 Lifetime oral carcinogenicity studies were conducted in CD-1 mice and Sprague-Dawley rats.
 Pilocarpine did not induce tumors in mice at any dosage studied (up to 30 mg/kg/day, which yielded a systemic exposure approximately 50 times larger than the maximum systemic exposure observed clinically).
@@ -88,11 +88,11 @@ In dogs, exposure to pilocarpine at a dosage of 3 mg/kg/day (approximately 3 tim
 The data obtained in these studies suggest that pilocarpine may impair the fertility of male and female humans.
 Pilocarpine hydrochloride tablets should be administered to individuals who are attempting to conceive a child only if the potential benefit justifies potential impairment of fertility.
 
-## Pregnancy
+## Pregnancy:
 
 ### Teratogenic effects
 
-Pregnancy Category C
+Pregnancy Category C:
 
 Pilocarpine was associated with a reduction in the mean fetal body weight and an increase in the incidence of skeletal variations when given to pregnant rats at a dosage of 90 mg/kg/day (approximately 26 times the maximum recommended dose for a 50 kg human when compared on the basis of body surface area (mg/m2) estimates).
 These effects may have been secondary to maternal toxicity.
@@ -100,18 +100,18 @@ In another study, oral administration of pilocarpine to female rats during gesta
 There are no adequate and well-controlled studies in pregnant women.
 Pilocarpine hydrochloride tablets should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 
-## Nursing Mothers
+## Nursing Mothers:
 
 It is not known whether this drug is excreted in human milk.
 Because many drugs are excreted in human milk and because of the potential for serious adverse reactions in nursing infants from pilocarpine hydrochloride tablets, a decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother.
 
-## Pediatric Use
+## Pediatric Use:
 
 Safety and effectiveness in pediatric patients have not been established.
 
-## Geriatric Use
+## Geriatric Use:
 
-### Head and Neck Cancer Patients
+### Head and Neck Cancer Patients:
 
 In the placebo-controlled clinical trials (see Clinical Studies section) the mean age of patients was approximately 58 years (range 19 to 80).
 Of these patients, 97/369 (61/217 receiving pilocarpine) were over the age of 65 years.
@@ -120,7 +120,7 @@ In both study populations, the adverse events reported by those over 65 years an
 Of the 15 elderly volunteers (5 women, 10 men), the 5 women had higher Cmax's and AUC's than the men.
 (See Pharmacokinetics section.)
 
-### Sjogren's Syndrome Patients
+### Sjogren's Syndrome Patients:
 
 In the placebo-controlled clinical trials (see Clinical Studies section), the mean age of patients was approximately 55 years (range 21 to 85).
 The adverse events reported by those over 65 years and those 65 years and younger were comparable except for notable trends for urinary frequency, diarrhea, and dizziness (see ADVERSE REACTIONS section).

@@ -1,6 +1,6 @@
-# CLINICAL PHARMACOLOGY
+# CLINICAL PHARMACOLOGY:
 
-## Pharmacodynamics
+## Pharmacodynamics:
 
 Pilocarpine is a cholinergic parasympathomimetic agent exerting a broad spectrum of pharmacologic effects with predominant muscarinic action.
 Pilocarpine, in appropriate dosage, can increase secretion by the exocrine glands.
@@ -16,20 +16,20 @@ Bradycardia and tachycardia have both been reported with use of pilocarpine.
 In a study of 12 healthy male volunteers there was a dose-related increase in unstimulated salivary flow following single 5 and 10 mg oral doses of pilocarpine hydrochloride tablets.
 This effect of pilocarpine on salivary flow was time-related with an onset at 20 minutes and a peak effect at 1 hour with a duration of 3 to 5 hours (See Pharmacokinetics section).
 
-### Head & Neck Cancer Patients
+### Head & Neck Cancer Patients:
 
 In a 12 week randomized, double-blind, placebo-controlled study in 207 patients (placebo, N=65; 5 mg, N=73; 10 mg, N=69), increases from baseline (means 0.072 and 0.112 mL/min, ranges −0.690 to 0.728 and −0.380 to 1.689) of whole saliva flow for the 5 mg (63%) and 10 mg (90%) tablet, respectively, were seen 1 hour after the first dose of pilocarpine hydrochloride tablets.
 Increases in unstimulated parotid flow were seen following the first dose (means 0.025 and 0.046 mL/min, ranges 0 to 0.414 and −0.070 to 1.002 mL/min for the 5 and 10 mg dose, respectively).
 In this study, no correlation existed between the amount of increase in salivary flow and the degree of symptomatic relief.
 
-### Sjogren's Syndrome Patients
+### Sjogren's Syndrome Patients:
 
 In two 12 week randomized, double-blind, placebo-controlled studies in 629 patients (placebo, N=253; 2.5 mg, N=121; 5 mg, N=255; 5-7.5 mg, N=114), the ability of pilocarpine hydrochloride tablets to stimulate saliva production was assessed.
 In these trials using varying doses of pilocarpine hydrochloride tablets (2.5-7.5 mg), the rate of saliva production was plotted against time.
 An Area Under the Curve (AUC) representing the total amount of saliva produced during the observation interval was calculated.
 Relative to placebo, an increase in the amount of saliva being produced was observed following the first dose of pilocarpine hydrochloride tablets and was maintained throughout the duration (12 weeks) of the trials in an approximate dose response fashion (See Clinical Studies section).
 
-## Pharmacokinetics
+## Pharmacokinetics:
 
 In a multiple-dose pharmacokinetic study in male volunteers following 2 days of 5 or 10 mg of oral pilocarpine hydrochloride tablets given at 8 a.m., noontime, and 6 p.m., the mean elimination half-life was 0.76 hours for the 5 mg dose and 1.35 hours for the 10 mg dose.
 Tmax values were 1.25 hours and 0.85 hours.
@@ -53,9 +53,9 @@ Peak plasma levels were also increased by about 30% and half-life was increased 
 
 There were no significant differences in the pharmacokinetics of oral pilocarpine in volunteer subjects (N=8) with renal insufficiency (mean creatinine clearances 25.4 mL/min; range 9.8 – 40.8 mL/min) compared to the pharmacokinetics previously observed in normal volunteers.
 
-## Clinical Studies
+## Clinical Studies:
 
-### Head & Neck Cancer Patients
+### Head & Neck Cancer Patients:
 
 A 12 week randomized, double-blind, placebo-controlled study in 207 patients (142 men, 65 women) was conducted in patients whose mean age was 58.5 years with a range of 19 to 77; the racial distribution was Caucasian 95%, Black 4%, and other 1%.
 In this population, a statistically significant improvement in mouth dryness occurred in the 5 and 10 mg pilocarpine hydrochloride tablet treated patients compared to placebo treated patients.
@@ -73,7 +73,7 @@ In both studies, some patients noted improvement in the global assessment of the
 In the two placebo-controlled clinical trials, the most common adverse events related to drug, and increasing in rate as dose increases, were sweating, nausea, rhinitis, diarrhea, chills, flushing, urinary frequency, dizziness, and asthenia.
 The most common adverse experience causing withdrawal from treatment was sweating (5 mg t.i.d. ≤1%; 10 mg t.i.d. =12%).
 
-### Sjogren's Syndrome Patients
+### Sjogren's Syndrome Patients:
 
 Two separate studies were conducted in patients with primary or secondary Sjogren's Syndrome.
 In both studies, the majority of patients best fit the European criteria for having primary Sjogren's Syndrome.

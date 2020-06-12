@@ -8,7 +8,7 @@ Pilocarpine Hydrochloride Tablets, USP
 
 Rx Only
 
-100 TABLETS
+100 Tablets
 
 Lannett
 
@@ -22,6 +22,6 @@ Pilocarpine Hydrochloride Tablets, USP
 
 Rx Only
 
-100 TABLETS
+100 Tablets
 
 Lannett
