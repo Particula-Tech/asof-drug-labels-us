@@ -5,9 +5,9 @@ The following clinically significant adverse reactions are found elsewhere in th
 - Hypersensitivity Reactions [see Warnings and Precautions (5.1)]
 - Serotonin Syndrome [see Warnings and Precautions (5.2)]
 
-## 6.1 Clinical Trials Experience with Akynzeo capsules
+## 6.1 Clinical Trials Experience
 
-Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+BBecause clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
 AKYNZEO Capsules
 
@@ -15,14 +15,14 @@ The overall safety of AKYNZEO capsules was evaluated in 1538 cancer patients and
 The data described below reflect exposure to AKYNZEO in 1169 cancer patients, receiving at least one cycle of cancer chemotherapy in 3 active-controlled trials [see Clinical Studies (14.1)], including 782 exposed to AKYNZEO for at least 4 cycles and 321 exposed for at least 6 cycles, up to a maximum of 12 cycles of chemotherapy.
 The median age was 55, 79% were female, 83% were White, 13% were Asian, and 4% were Hispanic.
 All patients received a single oral dose of AKYNZEO 1 hour prior to the start of each chemotherapy cycle.
-In all studies, dexamethasone was co-administered with AKYNZEO [see Clinical Studies (14.1), Table 14 and Table 16].
+In all studies, dexamethasone was co-administered with AKYNZEO [see Clinical Studies (14.1), Table 15 and Table 17].
 
 Cisplatin Based Highly Emetogenic Chemotherapy
 
 In a single-cycle study of patients receiving cisplatin based highly emetogenic chemotherapy, 136 patients were treated with AKYNZEO.
-Table 3 shows adverse reactions reported at an incidence of at least 3% and for which the AKYNZEO rate exceeded palonosetron alone.
+Table 4: Adverse Reactions Occurring in ≥3% of Cancer Patients Receiving AKYNZEO Capsules and Cisplatin Based Highly Emetogenic Chemotherapy (Cycle 1) shows adverse reactions reported at an incidence of at least 3% and for which the AKYNZEO rate exceeded palonosetron alone.
 
-Table 3: Adverse Reactions Occurring in ≥3% of Cancer Patients Receiving AKYNZEO capsules and Cisplatin Based Highly Emetogenic Chemotherapy (Cycle 1)
+Table 4: Adverse Reactions Occurring in ≥3% of Cancer Patients Receiving AKYNZEO capsules and Cisplatin Based Highly Emetogenic Chemotherapy (Cycle 1)
 
 | Adverse Reactions | AKYNZEO netupitant 300 mg/palonosetron 0.5 mg (N=136) | Palonosetron 0.5 mg (N=136) |
 | --- | --- | --- |
@@ -34,10 +34,10 @@ Table 3: Adverse Reactions Occurring in ≥3% of Cancer Patients Receiving AKYNZ
 Anthracyclines and Cyclophosphamide Based Chemotherapy
 
 In a study of patients receiving anthracycline and cyclophosphamide based chemotherapy, 725 patients were treated with AKYNZEO capsules during Cycle 1, and 635 of these patients continued for up to 8 cycles in a multiple-cycle extension.
-Table 4 shows adverse reactions reported at an incidence of at least 3% and for which the AKYNZEO capsules rate exceeded palonosetron alone during Cycle 1.
+Table 5: Adverse Reactions Occurring in ≥3% of Cancer Patients Receiving AKYNZEO Capsules and Anthracyclines and Cyclophosphamide Based Chemotherapy (Cycle 1)shows adverse reactions reported at an incidence of at least 3% and for which the AKYNZEO capsules rate exceeded palonosetron alone during Cycle 1.
 The adverse reaction profile in subsequent cycles was similar to that observed in Cycle 1.
 
-Table 4: Adverse Reactions Occurring in ≥3% of Cancer Patients Receiving AKYNZEO capsules and Anthracyclines and Cyclophosphamide Based Chemotherapy (Cycle 1)
+Table 5: Adverse Reactions Occurring in ≥3% of Cancer Patients Receiving AKYNZEO capsules and Anthracyclines and Cyclophosphamide Based Chemotherapy (Cycle 1)
 
 | Adverse Reactions | AKYNZEO netupitant 300 mg/palonosetron 0.5 mg (N=725) | Palonosetron 0.5 mg (N=725) |
 | --- | --- | --- |
@@ -46,9 +46,9 @@ Table 4: Adverse Reactions Occurring in ≥3% of Cancer Patients Receiving AKYNZ
 | Fatigue | 7% | 5% |
 
 In addition to the adverse reactions shown above, there were reports of concomitant elevations of transaminases greater than 3 times the upper limit of normal and total bilirubin in both arms of the two trials that compared AKYNZEO capsules to oral palonosetron, and the frequency of these elevations was comparable between treatment groups.
-See Table 5.
+See Table 6.
 
-Table 5: Liver Function Laboratory Abnormalities
+Table 6: Liver Function Laboratory Abnormalities
 
 | Laboratory Changes | AKYNZEO netupitant 300 mg/palonosetron 0.5 mg N=861 | Palonosetron 0.5 mg N=861 |
 | --- | --- | --- |
@@ -65,7 +65,7 @@ Neither experienced transaminase elevations greater than 10 times the upper limi
 
 AKYNZEO for Injection
 
-The safety of AKYNZEO for injection was evaluated in 203 patients in an active-controlled multi-cycle (median 4 cycles, range of 1-4 cycles) safety clinical study in patients receiving HEC regimens, not including anthracycline plus cyclophosphamide, (e.g., cisplatin, cyclophosphamide, carmustine, dacarbazine and mechloretamine) compared to 201 patients receiving AKYNZEO capsules (NCT02517021).
+The safety of AKYNZEO for injection was evaluated in 203 patients in an active-controlled multi-cycle (median 4 cycles, range of 1-4 cycles) safety clinical study in patients receiving HEC regimens, not including anthracycline plus cyclophosphamide, (e.g., cisplatin, cyclophosphamide, carmustine, dacarbazine and mechlorethamine) compared to 201 patients receiving AKYNZEO capsules (NCT02517021).
 The median age was 60 years, 46% were female, 99.5 % were White, 0.3% were Asian, and 0.3% were Hispanic.
 All patients received a single dose of AKYNZEO for injection 30 minutes prior to the start of each chemotherapy cycle; dexamethasone was co-administered with AKYNZEO.
 The safety profile of AKYNZEO for injection was generally similar to that seen with AKYNZEO capsules.

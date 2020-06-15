@@ -32,18 +32,18 @@ Netupitant and Palonosetron
 
 Absorption
 
-Upon single oral administration of AKYNZEO capsules to healthy subjects and patients, netupitant and palonosetron were measurable within 1 hour after administration and reached the maximum concentration (Cmax) in approximately 4 to 5 hours (Table 6).
+Upon single oral administration of AKYNZEO capsules to healthy subjects and patients, netupitant and palonosetron were measurable within 1 hour after administration and reached the maximum concentration (Cmax) in approximately 4 to 5 hours (Table 7).
 
-Table 6: Systemic Exposure (AUCinf and Cmax) of Netupitant and Palonosetron After a Single Oral Dose of AKYNZEO in Healthy Subjects and Cancer Patients
+Table 7: Systemic Exposure (AUCinf and Cmax) of Netupitant and Palonosetron After a Single Oral Dose of AKYNZEO in Healthy Subjects and Cancer Patients
 
-| Parameter | Population | Mean (CV%CV: coefficient of variation; AUCinf: area under the plasma concentration-time curve from time 0 to infinity; tmax: time to maximum concentration.) |  |
+| Parameter | Population | Mean (CV%CV: coefficient of variation; AUCinf: area under the plasma concentration-time curve from time 0 to infinity; tmax: time to maximum concentration.median (min-max)CV: coefficient of variation; AUC0-120: AUC from time 0 to 120 hours from start of infusionmedian (min-max)CV: coefficient of variationConcentration range: 10 to 1300 ng/mL;Concentration range: 100 to 200 ng/mL;CV: coefficient of variation; AUCinf: AUC from time 0 to infinitymedian (min-max);Following a single oral dose of AKYNZEO compared to co-administered with palnosetron aloneAUC0-t: AUC from time zero to time t of last measurable concentration ↑ = Increased; ↓ = Decreased) |  |
 | --- | --- | --- | --- |
 | Netupitant | Palonosetron |  |  |
 | AUCinf (ng×h/mL) | Healthy Subjects | 14,402 (51) | 56.7 (33) |
 | Patients | 17,365 (39) | 58.3 (50) |  |
 | Cmax (ng/mL) | Healthy Subjects | 434 (56) | 1.53 (25) |
 | Patients | 496 (49) | 0.95 (35) |  |
-| tmax (h)median (min-max) | Healthy Subjects | 5 (2 to 12) | 5 (1 to 12) |
+| tmax (h)median (min-max); | Healthy Subjects | 5 (2 to 12) | 5 (1 to 12) |
 | Patients | 4 (2 to 8) | 5 (1 to 12) |  |
 
 Following oral administration, the absolute bioavailability of palonosetron was approximately 97%.
@@ -65,9 +65,9 @@ Palonosetron:
 
 After single oral doses of palonosetron ranging from 0.25 to 6.8 mg (0.5 to 13.6 times the recommended dose in AKYNZEO capsules) using a buffered solution, the mean Cmax and AUCinf were dose proportional in healthy subjects.
 
-Following single intravenous doses of AKYNZEO for injection in patients or fosnetupitant in healthy subjects, Cmax of netupitant and palonosetron were achieved at the end of the 30-minute infusion (Table 7).
+Following single intravenous doses of AKYNZEO for injection in patients or fosnetupitant in healthy subjects, Cmax of netupitant and palonosetron were achieved at the end of the 30-minute infusion (Table 8).
 
-Table 7: Systemic Exposure (AUC0-120 and Cmax) of Netupitant and Palonosetron After a Single Intravenous Dose of AKYNZEO for Injection in Cancer Patients or a Single Intravenous Dose of Fosnetupitant in Healthy Subjects
+Table 8: Systemic Exposure (AUC0-120 and Cmax) of Netupitant and Palonosetron After a Single Intravenous Dose of AKYNZEO for Injection in Cancer Patients or a Single Intravenous Dose of Fosnetupitant in Healthy Subjects
 
 | Parameter | Population | Mean (CV%CV: coefficient of variation; AUC0-120: AUC from time 0 to 120 hours from start of infusion) |  |
 | --- | --- | --- | --- |
@@ -76,14 +76,14 @@ Table 7: Systemic Exposure (AUC0-120 and Cmax) of Netupitant and Palonosetron Af
 | Patients | 8,922 (22) | 28 (28) |  |
 | Cmax (ng/mL) | Healthy Subjects | 841 (21) | -- |
 | Patients | 590 (28) | 0.8 (35) |  |
-| tmax (h)median (min-max) | Healthy Subjects | 0.5 (0.5 to 0.4) | -- |
+| tmax (h)median (min-max); | Healthy Subjects | 0.5 (0.5 to 0.4) | -- |
 | Patients | 0.6 (0.5 to 4) | 0.6 (0.5 to 6) |  |
 
 Distribution
 
-After single oral administration of AKYNZEO capsules, netupitant and palonosetron were widely distributed throughout the body (Table 8).
+After single oral administration of AKYNZEO capsules, netupitant and palonosetron were widely distributed throughout the body (Table 9).
 
-Table 8: Volume of Distribution (Vz/F) in Healthy Subjects and Cancer Patients After a Single Oral Dose of AKYNZEO and In Vitro Protein Binding
+Table 9: Volume of Distribution (Vz/F) in Healthy Subjects and Cancer Patients After a Single Oral Dose of AKYNZEO and In Vitro Protein Binding
 
 | Parameter | Population | Mean (CV%CV: coefficient of variation) |  |
 | --- | --- | --- | --- |
@@ -140,9 +140,9 @@ Fosnetupitant
 
 Absorption
 
-Following single intravenous doses of AKYNZEO for injection in patients (235 mg fosnetupitant and 0.25 mg palonosetron infused in 30 minutes) or fosnetupitant in healthy subjects (235 mg fosnetupitant infused in 30 minutes), maximum concentrations of fosnetupitant were achieved at the end of the 30-minute infusion (Table 9).
+Following single intravenous doses of AKYNZEO for injection in patients (235 mg fosnetupitant and 0.25 mg palonosetron infused in 30 minutes) or fosnetupitant in healthy subjects (235 mg fosnetupitant infused in 30 minutes), maximum concentrations of fosnetupitant were achieved at the end of the 30-minute infusion (Table 10).
 
-Table 9: Systemic Exposure of Fosnetupitant After a Single Intravenous Dose of Fosnetupitant in Healthy Subjects or AKYNZEO for Injection in Cancer Patients
+Table 10: Systemic Exposure of Fosnetupitant After a Single Intravenous Dose of Fosnetupitant in Healthy Subjects or AKYNZEO for Injection in Cancer Patients
 
 | Parameter | Population | Mean (CV%CV: coefficient of variation; AUCinf: AUC from time 0 to infinity) |
 | --- | --- | --- |
@@ -154,7 +154,7 @@ Table 9: Systemic Exposure of Fosnetupitant After a Single Intravenous Dose of F
 | Patients | 1401 (46) |  |
 
 In cross-study comparisons, the mean Cmax and AUCinf of fosnetupitant were lower in patients than in healthy subjects.
-Similarly, AUC0-120 and Cmax of netupitant in patients were 26% and 30% lower than in healthy subjects, respectively (Table 7).
+Similarly, AUC0-120 and Cmax of netupitant in patients were 26% and 30% lower than in healthy subjects, respectively (Table 8).
 The differences in systemic exposures to netupitant are clinically insignificant.
 
 In healthy subjects, there was a dose-proportional increase in the systemic exposure when the dose of fosnetupitant was increased from 17.6 mg (7.5% of recommended dose in AKYNZEO for injection) to 353 mg (150% of recommended dose in AKYNZEO for injection).
@@ -228,9 +228,9 @@ An in vivo study has confirmed that netupitant is a moderate inhibitor of CYP3A4
 
 Dexamethasone
 
-In healthy subjects, the oral administration of a single AKYNZEO capsule with the CYP3A4 substrate dexamethasone (12 mg on day 1 followed by once-a-day administrations of 8 mg on days 2, 3, 4, 6, 8 and 10), increased the plasma concentrations of dexamethasone for 6 days (Table 10).
+In healthy subjects, the oral administration of a single AKYNZEO capsule with the CYP3A4 substrate dexamethasone (12 mg on day 1 followed by once-a-day administrations of 8 mg on days 2, 3, 4, 6, 8 and 10), increased the plasma concentrations of dexamethasone for 6 days (Table 11).
 
-Table 10: Effect of a Single Dose of Oral AKYNZEO (Day 1) on the Systemic Exposure of a Co-administered CYP3A4 Substrate (Dexamethasone) in Healthy Subjects
+Table 11: Effect of a Single Dose of Oral AKYNZEO (Day 1) on the Systemic Exposure of a Co-administered CYP3A4 Substrate (Dexamethasone) in Healthy Subjects
 
 | % Change for Dexamethasone |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -239,9 +239,9 @@ Table 10: Effect of a Single Dose of Oral AKYNZEO (Day 1) on the Systemic Exposu
 | 2%↓ | 58%↑ | 54%↑ | 139%↑ | 29%↑ | 49%↑ | 7%↑ | 20%↑ |
 | *the interacting drug (dexamethasone 12 mg) was administered on day 1 with AKYNZEO and alone (8 mg) on days 2, 3, 4, 6, 8 and 10; AUC0-t: AUC from time zero to time t of last measurable concentration after dexamethasone administration on Days 1, 4, 6 and 8 ↑ = Increased; ↓ = Decreased |  |  |  |  |  |  |  |
 
-In healthy subjects, co-administration of a single intravenous fosnetupitant dose (235 mg) with a 20 mg oral dexamethasone on day 1 followed by twice-a-day administrations of 8 mg dexamethasone on days 2, 3, and 4, increased dexamethasone exposure 2.4-fold on day 4 (Table 11).
+In healthy subjects, co-administration of a single intravenous fosnetupitant dose (235 mg) with a 20 mg oral dexamethasone on day 1 followed by twice-a-day administrations of 8 mg dexamethasone on days 2, 3, and 4, increased dexamethasone exposure 2.4-fold on day 4 (Table 12).
 
-Table 11: Effect of a Single 235 mg Dose of Intravenous Fosnetupitant (Day 1) on the Systemic Exposure of a Co-administered CYP3A4 Substrate (Dexamethasone) in Healthy Subjects
+Table 12: Effect of a Single 235 mg Dose of Intravenous Fosnetupitant (Day 1) on the Systemic Exposure of a Co-administered CYP3A4 Substrate (Dexamethasone) in Healthy Subjects
 
 | % Change for Dexamethasone |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -258,11 +258,11 @@ When co-administered with netupitant 300 mg the mean Cmax and AUCinf of midazola
 
 Chemotherapeutic Agents (docetaxel, etoposide, cyclophosphamide)
 
-Systemic exposure to intravenously administered chemotherapeutic agents that are metabolized by CYP3A4 was higher when AKYNZEO capsules was co-administered in cancer patients than when palonosetron alone was co-administered (see Table 12).
+Systemic exposure to intravenously administered chemotherapeutic agents that are metabolized by CYP3A4 was higher when AKYNZEO capsules was co-administered in cancer patients than when palonosetron alone was co-administered (see Table 13).
 
-Table 12: Effect of a Single Dose of Oral AKYNZEO on the Systemic Exposure of Co-administered Chemotherapy Agents Metabolized by CYP3A4 in Patients with Cancer
+Table 13: Effect of a Single Dose of Oral AKYNZEO on the Systemic Exposure of Co-administered Chemotherapy Agents Metabolized by CYP3A4 in Patients with Cancer
 
-| Co-administered Chemotherapeutic AgentFollowing a single oral dose of AKYNZEO compared to co-administered with palnosetron alone | Change in Systemic Exposures of Chemotherapeutic Agents when Co-administered with AKYNZEO Capsules Compared to Co-administration with Palonosetron |  |
+| Co-administered Chemotherapeutic AgentFollowing a single oral dose of AKYNZEO compared to co-administered with palonosetron alone | Change in Systemic Exposures of Chemotherapeutic Agents when Co-administered with AKYNZEO Capsules Compared to Co-administration with Palonosetron |  |
 | --- | --- | --- |
 | AUC0-tAUC0-t: AUC from time zero to time t of last measurable concentration ↑ = Increased; ↓ = Decreased | Cmax |  |
 | Docetaxel 75 to 100 mg/m2 | 35%↑ | 49%↑ |
@@ -318,15 +318,14 @@ Netupitant is not a substrate for P-gp.
 However, metabolite M2 is a substrate for P-gp.
 
 Netupitant and palonosetron are CYP3A4 substrates.
-Co-administration of strong CYP3A4 inhibitors, such as ketoconazole, or strong CYP3A4 inducers, such as rifampin, with a single oral administration of AKYNZEO capsules affects with clinical significance the exposure to netupitant but not to palonosetron (Table 13).
+Co-administration of strong CYP3A4 inhibitors, such as ketoconazole, or strong CYP3A4 inducers, such as rifampin, with a single oral administration of AKYNZEO capsules affects with clinical significance the exposure to netupitant but not to palonosetron (Table 14).
 
-Table 13: Change in Systemic Exposure to Netupitant and Palonosetrona When a Single Dose of AKYNZEO is Co‑Administered with Either a CYP3A4 Inhibitor or a CYP3A4 Inducer in Healthy Subjects
+Table 14: Change in Systemic Exposure to Netupitant and Palonosetrona When a Single Dose of AKYNZEO is Co‑Administered with Either a CYP3A4 Inhibitor or a CYP3A4 Inducer in Healthy Subjects
 
-| Co-administered Drug | NetupitantGeometric Mean AUCinf andCmax; ↑ = Increased; ↓ = Decreased |  | Palonosetron |  |
+| Co-administered DrugFollowing a single oral dose of AKYNZEO; | NetupitantGeometric Mean AUCinf andCmax; ↑ = Increased; ↓ = Decreased |  | Palonosetron |  |
 | --- | --- | --- | --- | --- |
 | AUCinf | Cmax | AUCinf | Cmax |  |
 | Strong CYP3A4 Inhibitor |  |  |  |  |
 | Ketoconazole 400 mg once daily for 12 days | 140%↑ | 25%↑ | 10%↑ | 15%↑ |
 | Strong CYP3A4 Inducer |  |  |  |  |
 | Rifampin 600 mg once daily for 17 days | 62% ↓ | 82% ↓ | 19% ↓ | 15% ↓ |
-| Following a single oral dose of AKYNZEO; |  |  |  |  |

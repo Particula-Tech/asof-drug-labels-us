@@ -32,6 +32,10 @@ Its solubility is pH dependent: at acidic pH (pH 2), its solubility is 1.4 mg/mL
 
 Palonosetron hydrochloride is described above in this section.
 
-AKYNZEO for injection is available for intravenous infusion, and is supplied as a sterile lyophilized powder in a single-dose vial.
-Each vial contains 235 mg of fosnetupitant (equivalent to 260 mg fosnetupitant chloride hydrochloride) and 0.25 mg of palonosetron (equivalent to 0.28 mg of palonosetron hydrochloride).
+AKYNZEO for injection is available for intravenous infusion supplied as a sterile lyophilized powder.
+Each vial of AKYNZEO for injection contains 235 mg of fosnetupitant (equivalent to 260 mg fosnetupitant chloride hydrochloride) and 0.25 mg of palonosetron (equivalent to 0.28 mg of palonosetron hydrochloride).
 The inactive ingredients are edetate disodium (6.4 mg), mannitol (760 mg), sodium hydroxide and/or hydrochloric acid (for pH adjustment).
+
+AKYNZEO injection is available for intravenous infusion supplied as a sterile solution in a single-dose vial.
+Each vial of AKYNZEO injection contains 235 mg of fosnetupitant (equivalent to 260 mg fosnetupitant chloride hydrochloride) and 0.25 mg of palonosetron (equivalent to 0.28 mg of palonosetron hydrochloride).
+The inactive ingredients are edetate disodium (3.2 mg), mannitol (760 mg), water for injection, sodium hydroxide and/or hydrochloric acid (for pH adjustment).

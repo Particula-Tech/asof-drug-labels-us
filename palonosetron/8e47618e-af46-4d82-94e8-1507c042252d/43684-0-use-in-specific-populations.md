@@ -4,7 +4,7 @@
 
 Risk Summary
 
-Limited available data with AKYNZEO use in pregnant women are insufficient to inform a drug-associated risk of adverse developmental outcomes.
+Limited available data with AKYNZEO use in pregnant women are insufficient to inform a drug- associated risk of adverse developmental outcomes.
 In animal reproduction studies with netupitant, no effects on embryo-fetal development were observed following daily oral administration in pregnant rats during the period of organogenesis at doses up to 3.7 times the human AUC (area under the plasma concentration-time curve) at the recommended single dose to be given with each cycle of chemotherapy.
 However, a dose-dependent increase in adverse effects on embryo-fetal development was observed following daily oral administration of netupitant in pregnant rabbits during the period of organogenesis with doses at least 0.2 times the human AUC at the recommended single dose to be given with each cycle of chemotherapy.
 Daily oral administration of netupitant in rats up to 3.7 times the human AUC at the recommended dose during organogenesis through lactation produced no adverse effects in the offspring (see Data).
@@ -14,7 +14,6 @@ In pregnant rabbits, an increase in resorptions was observed with daily intraven
 Daily intravenous administration of fosnetupitant (3 times the human AUC for netupitant at the recommended single dose to be given with each cycle of chemotherapy) in rats during organogenesis through lactation produced lower bodyweight in offspring at birth through maturation, and delayed physical development (see Data).
 
 In animal reproduction studies with palonosetron, no effects on embryo-fetal development were observed following oral administration during the period of organogenesis at doses up to 921 and 1841 times the recommended oral dose in rats and rabbits, respectively (see Data).
-
 Based on animal data from netupitant studies, advise pregnant women of the potential risk to a fetus.
 
 The estimated background risk of major birth defects and miscarriage for the indicated populations are unknown.

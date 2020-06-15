@@ -9,3 +9,14 @@ Principal Display Panel NDC 69639-101-04 Akynzeo (netupitant and palonosetron) c
 Principal Display Panel NDC 69639-102 Akynzeo (fosnetupitant and palonosetron) for injection 235mg/0.25mg per vial
 
 Principal Display Panel NDC 69639-102 Akynzeo (fosnetupitant and palonosetron) for injection 235mg/0.25mg per vial
+
+Principal Display Panel NDC 69639-105 Akynzeo (fosnetupitant and palonosetron) injection 235mg/0.25mg per vial
+
+Must be diluted.
+For intravenous infusion only
+
+Principal Display Panel NDC 69639-105 Akynzeo (fosnetupitant and palonosetron) injection 235mg/0.25mg per vial
+
+Must be diluted.
+For intravenous infusion only Must be diluted.
+For intravenous infusion only

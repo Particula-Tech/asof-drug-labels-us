@@ -22,3 +22,13 @@ NDC # 69639-102-01: pack of one vial
 Storage
 
 AKYNZEO for injection should be stored in carton, protected from light at 2° to 8°C (35.6 F to 46.4°F).
+
+Injection
+
+AKYNZEO (235 mg fosnetupitant/0.25 mg palonosetron per 20 mL) injection: sterile, clear solution in a single-dose vial.
+
+NDC # 69639-105-01: pack of one vial of solution
+
+Storage
+
+Store AKYNZEO injection in carton, protected from light at 20°C-25°C (68°F-77°F).

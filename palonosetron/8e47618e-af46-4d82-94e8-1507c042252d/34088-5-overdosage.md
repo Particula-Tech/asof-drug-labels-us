@@ -1,7 +1,7 @@
 # 10 OVERDOSAGE
 
 In the event of overdose, AKYNZEO should be discontinued and general supportive treatment and monitoring should be provided.
-Because of the antiemetic activity of AKYNZEO, drug-induced emesis may not be effective.
+Because of the antiemetic activity of AKYNZEO, drug- induced emesis may not be effective.
 Dialysis studies have not been performed; due to the large volume of distribution, dialysis is unlikely to be an effective treatment for AKYNZEO overdose.
 
 A total of 33 adult cancer patients were administered oral palonosetron at a dose of 90 mcg/kg (approximately 12 times the recommended dose in AKYNZEO capsules), as part of a dose ranging study and had a similar incidence of adverse reactions compared to lower doses.
