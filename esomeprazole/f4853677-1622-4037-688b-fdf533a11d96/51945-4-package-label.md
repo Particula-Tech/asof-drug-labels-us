@@ -173,3 +173,23 @@ Rx only
 30 Single Dose Packets
 
 AstraZeneca
+
+# PACKAGE/LABEL PRINCIPAL DISPLAY PANEL
+
+Nexium® 40 mg*
+
+(esomeprazole magnesium)
+
+100 Delayed-Release Capsules
+
+Rx only
+
+*Each delayed-release capsule contains
+
+40 mg esomeprazole
+
+Dispense the enclosed Medication Guide
+
+To each patient.
+
+AstraZeneca
