@@ -24,20 +24,20 @@ Data
 
 Animal Data
 
-When pregnant rats were given pregabalin (500, 1250, or 2500 mg/kg) orally throughout the period of organogenesis, incidences of specific skull alterations attributed to abnormally advanced ossification (premature fusion of the jugal and nasal sutures) were increased at greater than or equal to 1250 mg/kg, and incidences of skeletal variations and retarded ossification were increased at all doses.
+When pregnant rats were given pregabalin (500 mg/kg, 1,250 mg/kg, or 2,500 mg/kg) orally throughout the period of organogenesis, incidences of specific skull alterations attributed to abnormally advanced ossification (premature fusion of the jugal and nasal sutures) were increased at greater than or equal to 1250 mg/kg, and incidences of skeletal variations and retarded ossification were increased at all doses.
 Fetal body weights were decreased at the highest dose.
 The low dose in this study was associated with a plasma exposure (AUC) approximately 17 times human exposure at the MRD of 600 mg/day.
 A no-effect dose for rat embryo-fetal developmental toxicity was not established.
 
-When pregnant rabbits were given pregabalin (250, 500, or 1250 mg/kg) orally throughout the period of organogenesis, decreased fetal body weight and increased incidences of skeletal malformations, visceral variations, and retarded ossification were observed at the highest dose.
+When pregnant rabbits were given pregabalin (250 mg/kg, 500 mg/kg, or 1,250 mg/kg) orally throughout the period of organogenesis, decreased fetal body weight and increased incidences of skeletal malformations, visceral variations, and retarded ossification were observed at the highest dose.
 The no-effect dose for developmental toxicity in rabbits (500 mg/kg) was associated with a plasma exposure approximately 16 times human exposure at the MRD.
 
-In a study in which female rats were dosed with pregabalin (50, 100, 250, 1250, or 2500 mg/kg) throughout gestation and lactation, offspring growth was reduced at greater than or equal to 100 mg/kg and offspring survival was decreased at greater than or equal to 250 mg/kg.
+In a study in which female rats were dosed with pregabalin (50 mg/kg, 100 mg/kg, 250 mg/kg, 1,250 mg/kg, or 2,500 mg/kg) throughout gestation and lactation, offspring growth was reduced at greater than or equal to 100 mg/kg and offspring survival was decreased at greater than or equal to 250 mg/kg.
 The effect on offspring survival was pronounced at doses greater than or equal to 1250 mg/kg, with 100% mortality in high-dose litters.
 When offspring were tested as adults, neurobehavioral abnormalities (decreased auditory startle responding) were observed at greater than or equal to 250 mg/kg and reproductive impairment (decreased fertility and litter size) was seen at 1250 mg/kg.
 The no-effect dose for pre-and postnatal developmental toxicity in rats (50 mg/kg) produced a plasma exposure approximately 2 times human exposure at the MRD.
 
-In the prenatal-postnatal study in rats, pregabalin prolonged gestation and induced dystocia at exposures greater than or equal to 50 times the mean human exposure (AUC (0–24) of 123 mcg∙hr/mL) at the MRD.
+In the prenatal-postnatal study in rats, pregabalin prolonged gestation and induced dystocia at exposures greater than or equal to 50 times the mean human exposure (AUC (0–24) of 123 μg∙hr/mL) at the MRD.
 
 ## 8.2 Lactation
 
@@ -49,7 +49,7 @@ The estimated average daily infant dose of pregabalin from breast milk (assuming
 The study did not evaluate the effects of pregabalin on milk production or the effects of pregabalin on the breastfed infant.
 
 Based on animal studies, there is a potential risk of tumorigenicity with pregabalin exposure via breast milk to the breastfed infant [see Nonclinical Toxicology (13.1)].
-Available clinical study data in patients greater than 12 years of age do not provide a clear conclusion about the potential risk of tumorigenicity with pregabalin [see Warnings and Precautions (5.8)].
+Available clinical study data in patients greater than 12 years of age do not provide a clear conclusion about the potential risk of tumorigenicity with pregabalin [see Warnings and Precautions (5.9)].
 Because of the potential risk of tumorigenicity, breastfeeding is not recommended during treatment with pregabalin.
 
 Data
@@ -97,7 +97,7 @@ Safety and effectiveness in pediatric patients below the age of 1 month have not
 
 Juvenile Animal Data
 
-In studies in which pregabalin (50 to 500 mg/kg) was orally administered to young rats from early in the postnatal period (Postnatal Day 7) through sexual maturity, neurobehavioral abnormalities (deficits in learning and memory, altered locomotor activity, decreased auditory startle responding and habituation) and reproductive impairment (delayed sexual maturation and decreased fertility in males and females) were observed at doses greater than or equal to 50 mg/kg.
+In studies in which pregabalin (50 mg/kg to 500 mg/kg) was orally administered to young rats from early in the postnatal period (Postnatal Day 7) through sexual maturity, neurobehavioral abnormalities (deficits in learning and memory, altered locomotor activity, decreased auditory startle responding and habituation) and reproductive impairment (delayed sexual maturation and decreased fertility in males and females) were observed at doses greater than or equal to 50 mg/kg.
 The neurobehavioral changes of acoustic startle persisted at greater than or equal to 250 mg/kg and locomotor activity and water maze performance at greater than or equal to 500 mg/kg in animals tested after cessation of dosing and, thus, were considered to represent long-term effects.
 The low effect dose for developmental neurotoxicity and reproductive impairment in juvenile rats (50 mg/kg) was associated with a plasma pregabalin exposure (AUC) approximately equal to human exposure at the maximum recommended dose of 600 mg/day.
 A no-effect dose was not established.
