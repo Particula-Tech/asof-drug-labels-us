@@ -12,7 +12,7 @@ Rx only
 
 Distributed by:
 
-Heritage Pharmaceuticals Inc.
+Avet Pharmaceuticals Inc.
 
 East Brunswick, NJ 08816
 
@@ -20,5 +20,4 @@ East Brunswick, NJ 08816
 
 Made In India
 
-Rev.
-07/19
+Revised: 11/2019
