@@ -1,24 +1,33 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-•Patients and caregivers should be informed of gastrointestinal complications, such as nausea, vomiting, abdominal cramping, and diarrhea.
-Patients should have loperamide readily available to begin treatment for late diarrhea (generally occurring more than 24 hours after administration of Irinotecan Hydrochloride Injection).
-Begin loperamide at the first episode of poorly formed or loose stools or the earliest onset of bowel movements more frequent than normal.
-One dosage regimen for loperamide is 4 mg at the first onset of late diarrhea and then 2 mg every 2 hours until the patient is diarrhea-free for at least 12 hours.
-Loperamide is not recommended to be used for more than 48 consecutive hours at these doses, because of the risk of paralytic ileus.
-During the night, the patient may take 4 mg of loperamide every 4 hours.
-Patients should contact their physician if any of the following occur: diarrhea for the first time during treatment; black or bloody stools; symptoms of dehydration such as lightheadedness, dizziness, or faintness; inability to take fluids by mouth due to nausea or vomiting; or inability to get diarrhea under control within 24 hours.
+- Patients and caregivers should be informed of gastrointestinal complications, such as nausea, vomiting, abdominal cramping, and diarrhea.
+  Patients should have loperamide readily available to begin treatment for late diarrhea (generally occurring more than 24 hours after administration of irinotecan hydrochloride injection).
+  Begin loperamide at the first episode of poorly formed or loose stools or the earliest onset of bowel movements more frequent than normal.
+  One dosage regimen for loperamide is 4 mg at the first onset of late diarrhea and then 2 mg every 2 hours until the patient is diarrhea-free for at least 12 hours.
+  Loperamide is not recommended to be used for more than 48 consecutive hours at these doses, because of the risk of paralytic ileus.
+  During the night, the patient may take 4 mg of loperamide every 4 hours.
+  Patients should contact their physician if any of the following occur: diarrhea for the first time during treatment; black or bloody stools; symptoms of dehydration such as lightheadedness, dizziness, or faintness; inability to take fluids by mouth due to nausea or vomiting; or inability to get diarrhea under control within 24 hours.
+- Patients should be warned about the potential for dizziness or visual disturbances which may occur within 24 hours following the administration of irinotecan hydrochloride injection.
+- Explain the significance of routine blood cell counts.
+  Instruct patients to monitor their temperature frequently and immediately report any occurrence of fever or infection.
+- Embryo-Fetal Toxicity [see Warnings and Precautions (5.9), Use in Specific Populations (8.1 and 8.3), Clinical Pharmacology (12.1) and Nonclinical Toxicology (13.1)]
 
-•Patients should be warned about the potential for dizziness or visual disturbances which may occur within 24 hours following the administration of Irinotecan Hydrochloride Injection.
+° Advise pregnant women and females of reproductive potential of the potential risk to a fetus and to inform their healthcare provider of a known or suspected pregnancy.
 
-•Explain the significance of routine blood cell counts.
-Instruct patients to monitor their temperature frequently and immediately report any occurrence of fever or infection.
+° Advise females of reproductive potential to use effective contraception during treatment with irinotecan hydrochloride injection and for 6 months after the final dose.
 
-•Irinotecan Hydrochloride Injection may cause fetal harm.
-Advise patients to avoid becoming pregnant while receiving this drug.
+° Advise male patients with female partners of reproductive potential to use condoms during treatment and for 3 months after the final dose of irinotecan hydrochloride injection.
 
-•Patients should be alerted to the possibility of alopecia.
+- Lactation
 
-•Contains sorbitol.
+° Advise women not to breastfeed during treatment with irinotecan hydrochloride injection and for at least 7 days after the final dose [see Use in Specific Populations (8.2)].
+
+- Infertility
+
+° Advise females and males of reproductive potential that irinotecan hydrochloride injection may impair fertility [see Use in Specific Populations (8.3)].
+
+- Patients should be alerted to the possibility of alopecia.
+- Contains sorbitol.
 
 Manufactured by: Qilu Pharmaceutical (Hainan) Co., Ltd.
 

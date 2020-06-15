@@ -2,14 +2,14 @@
 
 ## 5.1 Diarrhea and Cholinergic Reactions
 
-Early diarrhea (occurring during or shortly after infusion of Irinotecan Hydrochloride Injection) is usually transient and infrequently severe.
+Early diarrhea (occurring during or shortly after infusion of Irinotecan hydrochloride injection) is usually transient and infrequently severe.
 It may be accompanied by cholinergic symptoms of rhinitis, increased salivation, miosis, lacrimation, diaphoresis, flushing, and intestinal hyperperistalsis that can cause abdominal cramping.
 Bradycardia may also occur.
 Early diarrhea and other cholinergic symptoms may be prevented or treated.
 Consider prophylactic or therapeutic administration of 0.25 mg to 1 mg of intravenous or subcutaneous atropine (unless clinically contraindicated).
 These symptoms are expected to occur more frequently with higher irinotecan doses.
 
-Late diarrhea (generally occurring more than 24 hours after administration of Irinotecan Hydrochloride Injection) can be life threatening since it may be prolonged and may lead to dehydration, electrolyte imbalance, or sepsis.
+Late diarrhea (generally occurring more than 24 hours after administration of irinotecan hydrochloride injection) can be life threatening since it may be prolonged and may lead to dehydration, electrolyte imbalance, or sepsis.
 Grade 3-4 late diarrhea occurred in 23-31% of patients receiving weekly dosing.
 In the clinical studies, the median time to the onset of late diarrhea was 5 days with 3-week dosing and 11 days with weekly dosing.
 Late diarrhea can be complicated by colitis, ulceration, bleeding, ileus, obstruction, and infection.
@@ -23,7 +23,7 @@ Monitor and replace fluid and electrolytes.
 Use antibiotic support for ileus, fever, or severe neutropenia.
 Subsequent weekly chemotherapy treatments should be delayed in patients until return of pretreatment bowel function for at least 24 hours without anti-diarrhea medication.
 Patients must not be treated with irinotecan until resolution of the bowel obstruction.
-If grade 2, 3, or 4 late diarrhea recurs, subsequent doses of Irinotecan Hydrochloride Injection should be decreased [see Dosage and Administration (2)].
+If grade 2, 3, or 4 late diarrhea recurs, subsequent doses of irinotecan hydrochloride injection should be decreased [see Dosage and Administration (2)].
 
 Avoid diuretics or laxatives in patients with diarrhea.
 
@@ -32,27 +32,27 @@ Avoid diuretics or laxatives in patients with diarrhea.
 Irinotecan hydrochloride injection can cause severe myelosuppression.
 Bacterial, vira, and fungal infections have occurred in patients treated with irinotecan hydrochloride injection.
 
-Deaths due to sepsis following severe neutropenia have been reported in patients treated with Irinotecan Hydrochloride Injection.
+Deaths due to sepsis following severe neutropenia have been reported in patients treated with irinotecan hydrochloride injection.
 In the clinical studies evaluating the weekly dosage schedule, neutropenic fever (concurrent NCI grade 4 neutropenia and fever of grade 2 or greater) occurred in 3% of the patients; 6% of patients received G-CSF for the treatment of neutropenia.
 Manage febrile neutropenia promptly with antibiotic support [see Warnings and Precautions (5.2)].
-Hold Irinotecan Hydrochloride Injection if neutropenic fever occurs or if the absolute neutrophil count drops <1000/mm 3.
-After recovery to an absolute neutrophil count ≥1000/mm 3, subsequent doses of Irinotecan Hydrochloride Injection should be reduced [see Dosage and Administration (2)].
+Hold irinotecan hydrochloride injection if neutropenic fever occurs or if the absolute neutrophil count drops <1000/mm3.
+After recovery to an absolute neutrophil count ≥1000/mm3, subsequent doses of irinotecan hydrochloride injection should be reduced [see Dosage and Administration (2)].
 
 When evaluated in the trials of weekly administration, the frequency of grade 3 and 4 neutropenia was higher in patients who received previous pelvic/abdominal irradiation than in those who had not received such irradiation (48% [13/27] versus 24% [67/277]; p=0.04).
-Patients who have previously received pelvic/abdominal irradiation are at increased risk of severe myelosuppression following the administration of Irinotecan Hydrochloride Injection.
-Based on sparse available data, the concurrent administration of Irinotecan Hydrochloride Injection with irradiation is not recommended.
+Patients who have previously received pelvic/abdominal irradiation are at increased risk of severe myelosuppression following the administration of irinotecan hydrochloride injection.
+Based on sparse available data, the concurrent administration of irinotecan hydrochloride injection with irradiation is not recommended.
 
 Patients with baseline serum total bilirubin levels of 1.0 mg/dL or more also had a greater likelihood of experiencing first-cycle grade 3 or 4 neutropenia than those with bilirubin levels that were less than 1.0 mg/dL (50% [19/38] versus 18% [47/266]; p<0.001).
-Patients with deficient glucuronidation of bilirubin, such as those with Gilbert’s syndrome, may be at greater risk of myelosuppression when receiving therapy with Irinotecan Hydrochloride Injection.
+Patients with deficient glucuronidation of bilirubin, such as those with Gilbert’s syndrome, may be at greater risk of myelosuppression when receiving therapy with irinotecan hydrochloride injection.
 
 ## 5.3 Patients With Reduced UGT1A1 Activity
 
-Individuals who are homozygous for the UGT1A1*28 allele (UGT1A1 7/7 genotype) are at increased risk for neutropenia following initiation of Irinotecan Hydrochloride Injection treatment.
+Individuals who are homozygous for the UGT1A1*28 allele (UGT1A1 7/7 genotype) are at increased risk for neutropenia following initiation of irinotecan hydrochloride injection treatment.
 
-In a study of 66 patients who received single-agent Irinotecan Hydrochloride Injection (350 mg/m 2 once-every-3-weeks), the incidence of grade 4 neutropenia in patients homozygous for the UGT1A1*28 allele was 50%, and in patients heterozygous for this allele (UGT1A1 6/7 genotype) the incidence was 12.5%.
+In a study of 66 patients who received single-agent irinotecan hydrochloride injection (350 mg/m2 once-every-3-weeks), the incidence of grade 4 neutropenia in patients homozygous for the UGT1A1*28 allele was 50%, and in patients heterozygous for this allele (UGT1A1 6/7 genotype) the incidence was 12.5%.
 No grade 4 neutropenia was observed in patients homozygous for the wild-type allele (UGT1A1 6/6 genotype).
 
-When administered as a single-agent, a reduction in the starting dose by at least one level of Irinotecan Hydrochloride Injection should be considered for patients known to be homozygous for the UGT1A1*28 allele.
+When administered as a single-agent, a reduction in the starting dose by at least one level of irinotecan hydrochloride injection should be considered for patients known to be homozygous for the UGT1A1*28 allele.
 However, the precise dose reduction in this patient population is not known and subsequent dose modifications should be considered based on individual patient tolerance to treatment [see Dosage and Administration (2)].
 
 UGT1A1 Testing
@@ -63,7 +63,7 @@ Testing can detect the UGT1A1 6/6, 6/7 and 7/7 genotypes.
 ## 5.4 Hypersensitivity
 
 Hypersensitivity reactions including severe anaphylactic or anaphylactoid reactions have been observed.
-Discontinue Irinotecan Hydrochloride Injection if anaphylactic reaction occurs.
+Discontinue irinotecan hydrochloride injection if anaphylactic reaction occurs.
 
 ## 5.5 Renal Impairment/Renal Failure
 
@@ -80,24 +80,22 @@ If IPD is diagnosed, irinotecan and other chemotherapy should be discontinued an
 
 ## 5.7 Toxicity of the 5 Day Regimen
 
-Outside of a well-designed clinical study, Irinotecan Hydrochloride Injection should not be used in combination with a regimen of 5-FU/LV administered for 4-5 consecutive days every 4 weeks because of reports of increased toxicity, including toxic deaths.
-Irinotecan Hydrochloride Injection should be used as recommended [see Dosage and Administration (2)].
+Outside of a well-designed clinical study, irinotecan hydrochloride injection should not be used in combination with a regimen of 5-FU/LV administered for 4-5 consecutive days every 4 weeks because of reports of increased toxicity, including toxic deaths. irinotecan hydrochloride injection should be used as recommended [see Dosage and Administration (2)].
 
 ## 5.8 Increased Toxicity in Patients with Performance Status 2
 
 In the clinical trials, higher rates of hospitalization, neutropenic fever, thromboembolism, first-cycle treatment discontinuation, and early deaths were observed in patients with a baseline performance status of 2 than in patients with a baseline performance status of 0 or 1.
 
-## 5.9 Embryofetal Toxicity
+## 5.9 Embryo-Fetal Toxicity
 
-Irinotecan Hydrochloride Injection can cause fetal harm when administered to a pregnant woman.
-Irinotecan was embryotoxic in rats and rabbits at doses significantly lower than those administered to humans on a mg/m 2 basis.
-In rats, at exposures approximately 0.2 times those achieved in humans at the 125 mg/m 2 dose, irinotecan was embryotoxic and resulted in decreased learning ability and female fetal body weight in surviving pups; the drug was teratogenic at lower exposures (approximately 0.025 times the AUC in humans at the 125 mg/m 2 dose).
-There are no adequate and well-controlled studies of irinotecan in pregnant women.
-If this drug is used during pregnancy, or if the patient becomes pregnant while taking this drug, the patient should be apprised of the potential hazard to a fetus.
-Women of childbearing potential should be advised to avoid becoming pregnant while receiving treatment with Irinotecan Hydrochloride Injection.
+Based on its mechanism of action and findings in animals, Irinotecan hydrochloride injection can cause fetal harm when administered to a pregnant woman.
+In animal studies, intravenous administration of irinotecan during the period of organogenesis resulted in embryofetal mortality and teratogenicity in pregnant animals at exposures lower than the human exposure based on area under the curve (AUC) at the clinical dose of 125 mg/m2.
+Advise pregnant women of the potential risk to a fetus.
+Advise female patients of reproductive potential to avoid becoming pregnant and to use highly effective contraception during treatment with irinotecan hydrochloride injection and for 6 months after the final dose.
+Advise male patients with female partners of reproductive potential to use condoms during treatment and for 3 months after the final dose of irinotecan hydrochloride injection [see Use in Specific Populations (8.1), (8.3) and Nonclinical Toxicology (13.1)].
 
 ## 5.10 Patients with Hepatic Impairment
 
-The use of Irinotecan Hydrochloride Injection in patients with significant hepatic impairment has not been established.
+The use of irinotecan hydrochloride injection in patients with significant hepatic impairment has not been established.
 In clinical trials of either dosing schedule, irinotecan was not administered to patients with serum bilirubin >2.0 mg/dL, or transaminase >3 times the upper limit of normal if no liver metastasis, or transaminase >5 times the upper limit of normal with liver metastasis.
 In clinical trials of the weekly dosage schedule, patients with modestly elevated baseline serum total bilirubin levels (1.0 to 2.0 mg/dL) had a significantly greater likelihood of experiencing first-cycle, grade 3 or 4 neutropenia than those with bilirubin levels that were less than 1.0 mg/dL (50% [19/38] versus 18% [47/226]; p<0.001) [see Dosage and Administration (2), Use in Specific Populations (8.7) and Clinical Pharmacology (12.3)].

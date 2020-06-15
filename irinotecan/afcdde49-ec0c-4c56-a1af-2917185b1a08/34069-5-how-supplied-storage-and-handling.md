@@ -1,6 +1,6 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-Irinotecan Hydrochloride Injection, USP is available in single-dose brown glass vials in the following package sizes:
+Irinotecan hydrochloride injection, USP is available in single-dose brown glass vials in the following package sizes:
 
 2 mL NDC 67184-0511-1
 

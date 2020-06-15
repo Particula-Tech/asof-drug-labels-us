@@ -10,18 +10,18 @@ Second-Line Single-Agent Therapy
 
 Weekly Dosage Schedule
 
-In three clinical studies evaluating the weekly dosage schedule, 304 patients with metastatic carcinoma of the colon or rectum that had recurred or progressed following 5-FU-based therapy were treated with Irinotecan Hydrochloride Injection.
-Seventeen of the patients died within 30 days of the administration of Irinotecan Hydrochloride Injection; in five cases (1.6%, 5/304), the deaths were potentially drug-related.
+In three clinical studies evaluating the weekly dosage schedule, 304 patients with metastatic carcinoma of the colon or rectum that had recurred or progressed following 5-FU-based therapy were treated with irinotecan hydrochloride injection.
+Seventeen of the patients died within 30 days of the administration of irinotecan hydrochloride injection; in five cases (1.6%, 5/304), the deaths were potentially drug-related.
 One of the patients died of neutropenic sepsis without fever.
 Neutropenic fever occurred in nine (3.0%) other patients; these patients recovered with supportive care.
 
-One hundred nineteen (39.1%) of the 304 patients were hospitalized because of adverse events; 81 (26.6%) patients were hospitalized for events judged to be related to administration of Irinotecan Hydrochloride Injection.
+One hundred nineteen (39.1%) of the 304 patients were hospitalized because of adverse events; 81 (26.6%) patients were hospitalized for events judged to be related to administration of irinotecan hydrochloride injection.
 The primary reasons for drug-related hospitalization were diarrhea, with or without nausea and/or vomiting (18.4%); neutropenia/leukopenia, with or without diarrhea and/or fever (8.2%); and nausea and/or vomiting (4.9%).
 
-The first dose of at least one cycle of Irinotecan Hydrochloride Injection was reduced for 67% of patients who began the studies at the 125-mg/m 2 starting dose.
-Within-cycle dose reductions were required for 32% of the cycles initiated at the 125-mg/m 2 dose level.
+The first dose of at least one cycle of irinotecan hydrochloride injection was reduced for 67% of patients who began the studies at the 125-mg/m2 starting dose.
+Within-cycle dose reductions were required for 32% of the cycles initiated at the 125-mg/m2 dose level.
 The most common reasons for dose reduction were late diarrhea, neutropenia, and leukopenia.
-Thirteen (4.3%) patients discontinued treatment with Irinotecan Hydrochloride Injection because of adverse events.
+Thirteen (4.3%) patients discontinued treatment with irinotecan hydrochloride injection because of adverse events.
 The adverse events in Table 7 are based on the experience of the 304 patients enrolled in the three studies described in CLINICAL STUDIES (14.1).
 
 Table 7.
@@ -30,15 +30,15 @@ Adverse Events Occurring in >10% of 304 Previously Treated Patients with Metasta
 | Body System & Event | % of Patients Reporting |  |
 | --- | --- | --- |
 | NCI Grades 1-4 | NCI Grades 3 & 4 |  |
-| GASTROINTESTINAL Diarrhea (late) b 7-9 stools/day (grade 3) ≥10 stools/day (grade 4) Nausea Vomiting Anorexia Diarrhea (early) c Constipation Flatulence Stomatitis Dyspepsia | 88——8667555130121210 | 31(16)(14)1712682010 |
-| HEMATOLOGIC Leukopenia Anemia Neutropenia 500 to <1000/mm 3 (grade 3) <500/mm 3 (grade 4) | 636054—— | 28726(15)(12) |
+| GASTROINTESTINAL Diarrhea (late)b 7-9 stools/day (grade 3) ≥10 stools/day (grade 4) Nausea Vomiting Anorexia Diarrhea (early) c Constipation Flatulence Stomatitis Dyspepsia | 88——8667555130121210 | 31(16)(14)1712682010 |
+| HEMATOLOGIC Leukopenia Anemia Neutropenia 500 to <1000/mm3 (grade 3) <500/mm3 (grade 4) | 636054—— | 28726(15)(12) |
 | BODY AS A WHOLE Asthenia Abdominal cramping/pain Fever Pain Headache Back pain Chills Minor infection d Edema Abdominal enlargement | 76574524171414141010 | 121612120010 |
 | METABOLIC AND NUTRITIONAL ↓ Body weight Dehydration ↑ Alkaline phosphatase ↑ SGOT | 30151310 | 1441 |
 | DERMATOLOGIC Alopecia Sweating Rash | 601613 | NA e01 |
 | RESPIRATORY Dyspnea ↑ Coughing Rhinitis | 221716 | 400 |
 | NEUROLOGIC Insomnia Dizziness | 1915 | 00 |
 | CARDIOVASCULAR Vasodilation (flushing) | 11 | 0 |
-| a Severity of adverse events based on NCI CTC (version 1.0) b Occurring >24 hours after administration of Irinotecan Hydrochloride Injection c Occurring ≤24 hours after administration of Irinotecan Hydrochloride Injection d Primarily upper respiratory infections e Not applicable; complete hair loss = NCI grade 2 |  |  |
+| a Severity of adverse events based on NCI CTC (version 1.0) b Occurring >24 hours after administration of irinotecan hydrochloride injection c Occurring ≤24 hours after administration of irinotecan hydrochloride injection d Primarily upper respiratory infections e Not applicable; complete hair loss = NCI grade 2 |  |  |
 
 Once-Every-3-Week Dosage Schedule
 
@@ -71,23 +71,23 @@ Percent Of Patients Experiencing Grade 3 & 4 Adverse Events In Comparative Studi
 | OTHER h | 32 | 28 | 12 | 14 |  |  |  |
 | a Severity of adverse events based on NCI CTC (version 1.0) b BSC = best supportive care c Hepatic includes events such as ascites and jaundice d Cutaneous signs include events such as rash e Respiratory includes events such as dyspnea and cough f Neurologic includes events such as somnolence g Cardiovascular includes events such as dysrhythmias, ischemia, and mechanical cardiac dysfunction h Other includes events such as accidental injury, hepatomegaly, syncope, vertigo, and weight loss |  |  |  |  |  |  |  |
 
-The incidence of akathisia in clinical trials of the weekly dosage schedule was greater (8.5%, 4/47 patients) when prochlorperazine was administered on the same day as Irinotecan Hydrochloride Injection than when these drugs were given on separate days (1.3%, 1/80 patients).
+The incidence of akathisia in clinical trials of the weekly dosage schedule was greater (8.5%, 4/47 patients) when prochlorperazine was administered on the same day as Irinotecan hydrochloride injection than when these drugs were given on separate days (1.3%, 1/80 patients).
 The 8.5% incidence of akathisia, however, is within the range reported for use of prochlorperazine when given as a premedication for other chemotherapies.
 
 ## 6.2 Postmarketing Experience
 
-The following adverse reactions have been identified during post approval use of Irinotecan Hydrochloride Injection.
+The following adverse reactions have been identified during post approval use of irinotecan hydrochloride injection.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 Myocardial ischemic events have been observed following irinotecan therapy.
-Thromboembolic events have been observed in patients receiving Irinotecan Hydrochloride Injection.
+Thromboembolic events have been observed in patients receiving irinotecan hydrochloride injection.
 
 Symptomatic pancreatitis, asymptomatic pancreatic enzyme elevation have been reported.
 Increases in serum levels of transaminases (i.e., AST and ALT) in the absence of progressive liver metastasis have been observed.
 
 Hyponatremia, mostly with diarrhea and vomiting, has been reported.
 
-Transient dysarthria has been reported in patients treated with Irinotecan Hydrochloride Injection; in some cases, the event was attributed to the cholinergic syndrome observed during or shortly after infusion of irinotecan.
+Transient dysarthria has been reported in patients treated with irinotecan hydrochloride injection; in some cases, the event was attributed to the cholinergic syndrome observed during or shortly after infusion of irinotecan.
 
 Interaction between irinotecan and neuromuscular blocking agents cannot be ruled out.
 Irinotecan has anticholinesterase activity, which may prolong the neuromuscular blocking effects of suxamethonium and the neuromuscular blockade of non-depolarizing drugs may be antagonized.

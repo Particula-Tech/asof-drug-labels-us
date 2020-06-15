@@ -1,17 +1,17 @@
 # 11 DESCRIPTION
 
-Irinotecan Hydrochloride Injection, USP is an antineoplastic agent of the topoisomerase I inhibitor class.
+Irinotecan hydrochloride injection, USP is an antineoplastic agent of the topoisomerase I inhibitor class.
 
-Irinotecan Hydrochloride Injection, USP is supplied as a sterile, pale yellow, clear, aqueous solution.
+Irinotecan hydrochloride injection, USP is supplied as a sterile, pale yellow, clear, aqueous solution.
 Each milliliter of solution contains 20 mg of irinotecan hydrochloride (on the basis of the trihydrate salt), 45 mg of sorbitol, NF, and 0.9 mg of lactic acid, USP.
 The pH of the solution has been adjusted to 3.5 (range, 3.0 to 3.8) with sodium hydroxide or hydrochloric acid.
-Irinotecan Hydrochloride Injection, USP is intended for dilution with 5% Dextrose Injection, USP (D5W), or 0.9% Sodium Chloride Injection, USP, prior to intravenous infusion.
+Irinotecan hydrochloride injection, USP is intended for dilution with 5% Dextrose Injection, USP (D5W), or 0.9% Sodium Chloride Injection, USP, prior to intravenous infusion.
 The preferred diluent is 5% Dextrose Injection, USP.
 
 Irinotecan hydrochloride is a semisynthetic derivative of camptothecin, an alkaloid extract from plants such as Camptotheca acuminata or is chemically synthesized.
 
-The chemical name is (S) -4,11-diethyl-3,4,12,14-tetrahydro-4-hydroxy-3,14-dioxo1 H-pyrano[3’,4’:6,7]-indolizino[1,2-b]quinolin-9-yl-[1,4’bipiperidine]-1’-carboxylate, monohydrochloride, trihydrate.
-Its empirical formula is C 33H 38N 4O 6•HCl•3H 2O and molecular weight is 677.19.
+The chemical name is (S) -4,11-diethyl-3,4,12,14-tetrahydro-4-hydroxy-3,14-dioxo1H-pyrano[3’,4’:6,7]-indolizino[1,2-b]quinolin-9-yl-[1,4’bipiperidine]-1’-carboxylate, monohydrochloride, trihydrate.
+Its empirical formula is C33H38N4O6•HCl•3H2O and molecular weight is 677.19.
 It is slightly soluble in water and organic solvents.
 Its structural formula is as follows:
 

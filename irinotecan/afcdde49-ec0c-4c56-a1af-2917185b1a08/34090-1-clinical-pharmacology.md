@@ -14,7 +14,7 @@ Irinotecan serves as a water-soluble precursor of the lipophilic metabolite SN-3
 SN-38 is formed from irinotecan by carboxylesterase-mediated cleavage of the carbamate bond between the camptothecin moiety and the dipiperidino side chain.
 SN-38 is approximately 1000 times as potent as irinotecan as an inhibitor of topoisomerase I purified from human and rodent tumor cell lines.
 In vitro cytotoxicity assays show that the potency of SN-38 relative to irinotecan varies from 2- to 2000-fold; however, the plasma area under the concentration versus time curve (AUC) values for SN-38 are 2% to 8% of irinotecan and SN-38 is 95% bound to plasma proteins compared to approximately 50% bound to plasma proteins for irinotecan [see Clinical Pharmacology (12.3)].
-The precise contribution of SN-38 to the activity of Irinotecan Hydrochloride Injection, USP is thus unknown.
+The precise contribution of SN-38 to the activity of irinotecan hydrochloride injection is thus unknown.
 Both irinotecan and SN-38 exist in an active lactone form and an inactive hydroxy acid anion form.
 A pH-dependent equilibrium exists between the two forms such that an acid pH promotes the formation of the lactone, while a more basic pH favors the hydroxy acid anion form.
 
@@ -26,9 +26,9 @@ After intravenous infusion of irinotecan in humans, irinotecan plasma concentrat
 The mean terminal elimination half-life of the active metabolite SN-38 is about 10 to 20 hours.
 The half-lives of the lactone (active) forms of irinotecan and SN-38 are similar to those of total irinotecan and SN-38, as the lactone and hydroxy acid forms are in equilibrium.
 
-Over the recommended dose range of 50 to 350 mg/m 2, the AUC of irinotecan increases linearly with dose; the AUC of SN-38 increases less than proportionally with dose.
+Over the recommended dose range of 50 to 350 mg/m2, the AUC of irinotecan increases linearly with dose; the AUC of SN-38 increases less than proportionally with dose.
 Maximum concentrations of the active metabolite SN-38 are generally seen within 1 hour following the end of a 90-minute infusion of irinotecan.
-Pharmacokinetic parameters for irinotecan and SN-38 following a 90-minute infusion of irinotecan at dose levels of 125 and 340 mg/m 2 determined in two clinical studies in patients with solid tumors are summarized in Table 9:
+Pharmacokinetic parameters for irinotecan and SN-38 following a 90-minute infusion of irinotecan at dose levels of 125 and 340 mg/m2 determined in two clinical studies in patients with solid tumors are summarized in Table 9:
 
 Table 9.
 Summary of Mean (±Standard Deviation) Irinotecan and SN-38 Pharmacokinetic Parameters in Patients with Solid Tumors
@@ -53,14 +53,14 @@ Irinotecan can also undergo CYP3A4-mediated oxidative metabolism to several inac
 In vitro studies indicate that irinotecan, SN-38 and another metabolite aminopentane carboxylic acid (APC), do not inhibit cytochrome P-450 isozymes.
 UGT1A1 activity is reduced in individuals with genetic polymorphisms that lead to reduced enzyme activity such as the UGT1A1*28 polymorphism.
 Approximately 10% of the North American population is homozygous for the UGT1A1*28 allele (also referred to as UGT1A1 7/7 genotype).
-In a prospective study, in which irinotecan was administered as a single-agent (350 mg/m 2) on a once-every-3-week schedule, patients with the UGT1A1 7/7 genotype had a higher exposure to SN-38 than patients with the wild-type UGT1A1 allele (UGT1A1 6/6 genotype) [see Warnings and Precautions (5.3) and Dosage and Administration (2.3)].
+In a prospective study, in which irinotecan was administered as a single-agent (350 mg/m2) on a once-every-3-week schedule, patients with the UGT1A1 7/7 genotype had a higher exposure to SN-38 than patients with the wild-type UGT1A1 allele (UGT1A1 6/6 genotype) [see Warnings and Precautions (5.3) and Dosage and Administration (2.3)].
 SN-38 glucuronide had 1/50 to 1/100 the activity of SN-38 in cytotoxicity assays using two cell lines in vitro.
 
 Excretion
 
 The disposition of irinotecan has not been fully elucidated in humans.
 The urinary excretion of irinotecan is 11% to 20%; SN-38, <1%; and SN-38 glucuronide, 3%.
-The cumulative biliary and urinary excretion of irinotecan and its metabolites (SN-38 and SN-38 glucuronide) over a period of 48 hours following administration of irinotecan in two patients ranged from approximately 25% (100 mg/m 2) to 50% (300 mg/m 2).
+The cumulative biliary and urinary excretion of irinotecan and its metabolites (SN-38 and SN-38 glucuronide) over a period of 48 hours following administration of irinotecan in two patients ranged from approximately 25% (100 mg/m2) to 50% (300 mg/m2).
 
 Effect of Age
 

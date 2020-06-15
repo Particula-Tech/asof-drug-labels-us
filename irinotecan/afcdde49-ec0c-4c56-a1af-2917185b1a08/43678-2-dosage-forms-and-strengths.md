@@ -1,6 +1,6 @@
 # 3 DOSAGE FORMS AND STRENGTHS
 
-Irinotecan Hydrochloride Injection, USP is available in three single-dose sizes:
+Irinotecan hydrochloride injection, USP is available in three single-dose sizes:
 
 •2 mL-fill vial containing 40 mg irinotecan hydrochloride
 
