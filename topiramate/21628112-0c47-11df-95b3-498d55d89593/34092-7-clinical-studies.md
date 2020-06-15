@@ -115,7 +115,7 @@ Table 12: Efficacy Results in Double-Blind, Placebo-Controlled, Adjunctive Epile
 
 | Study # | # | Placebo | 200 | 400 | 600 | 800 | 1,000 | ≈6mg/kg/dayFor Studies 8 and 9, specified target dosages (<9.3 mg/kg/day) were assigned based on subject's weight to approximate a dosage of 6mg/kg per day; these dosages corresponded to mg/day dosages of 125, 175, 225, and 400 mg/day |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  |  | Target TOPAMAX® Dosage (mg per day) |  |  |  |  |  |  |
+|  |  | Target TOPAMAX Dosage (mg per day) |  |  |  |  |  |  |
 | Partial-Onset Seizures Studies in Adults |  |  |  |  |  |  |  |  |
 | 2 | N | 45 | 45 | 45 | 46 | -- | -- | -- |
 | Median % Reduction | 12 | 27a | 48b | 45c | -- | -- | -- |  |
