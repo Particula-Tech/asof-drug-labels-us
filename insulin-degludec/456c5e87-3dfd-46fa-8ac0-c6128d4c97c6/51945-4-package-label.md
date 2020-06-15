@@ -1,6 +1,6 @@
 # PRINCIPAL DISPLAY PANEL U-100 Vial
 
-NDC 0169-2662-11 List 266211
+1. NDC 0169-2662-11 List 266211
 
 TRESIBA®
 
@@ -12,13 +12,11 @@ For subcutaneous use only
 
 Rx Only
 
-One 10 mL vial
+One 10 mL vial multi-dose vial
 
 # PRINCIPAL DISPLAY PANEL U-100 FlexTouch
 
-NDC 0169-2660-15
-
-List: 266015
+1. NDC 0169-2660-15 List: 266015
 
 TRESIBA®
 
@@ -44,7 +42,7 @@ Store at 36°F to 46°F (2°C to 8°C).
 
 Do not freeze.
 
-After first use, store between 36°F to 86°F (2°C to 30°C).
+After first use, store between 36°F to 86°F (2°C to 30°C) for up to 56 days.
 
 Protect from light.
 
@@ -52,9 +50,7 @@ Dispense in this sealed carton.
 
 # PRINCIPAL DISPLAY PANEL U-200 FlexTouch
 
-NDC 0169-2550-13
-
-List: 255013
+1. NDC 0169-2550-13 List: 255013
 
 TRESIBA®
 
@@ -80,7 +76,7 @@ Store at 36°F to 46°F (2°C to 8°C).
 
 Do not freeze.
 
-After first use, store between 36°F to 86°F (2°C to 30°C).
+After first use, store between 36°F to 86°F (2°C to 30°C) for up to 56 days.
 
 Protect from light.
 
