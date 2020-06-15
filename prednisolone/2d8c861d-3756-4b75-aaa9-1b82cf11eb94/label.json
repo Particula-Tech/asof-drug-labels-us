@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA075988"
+  ],
+  "inn": "prednisolone",
+  "labeler": "Chartwell RX LLC",
+  "package_ndcs": [
+    "62135-330-41"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "prednisolone sodium phosphate",
+      "name": "Prednisolone Sodium Phosphate"
+    }
+  ],
+  "setid": "2d8c861d-3756-4b75-aaa9-1b82cf11eb94",
+  "source": "dailymed"
+}
