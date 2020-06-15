@@ -13,4 +13,4 @@
 | Manufactured for: Time-Cap Labs, Inc. 7 Michael Avenue, Farmingdale, NY 11735, USA Manufactured by: Marksans Pharma Ltd. Plot No. L-82, L-83, Verna Indl. Estate, Verna, GOA - 403722, India. |
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
-Revised: August 2019
+Revised: June 2020
