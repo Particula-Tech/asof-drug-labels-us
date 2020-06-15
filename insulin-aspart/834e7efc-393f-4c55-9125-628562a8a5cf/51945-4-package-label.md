@@ -6,9 +6,11 @@ FIASP®
 
 (insulin apart injection)
 
-10 mL 100 units/mL (U-100)
+100 units/mL (U-100)
 
-Rx only
+For subcutaneous or intravenous use
+
+1. Rx only One 10 mL multi-dose vial
 
 # PRINCIPAL DISPLAY PANEL - FLEXTOUCH
 
@@ -30,13 +32,11 @@ Rx Only
 
 Recommended for use with NovoFine®,
 
-NovoFine® Plus or NovoTwist®
-
-disposable needles.
+NovoFine® Plus or NovoTwist® disposable needles.
 
 Keep in a refrigerator at 36° to 46°F (2° to 8°C) until first use.
 
-After first use store at 36° to 86°F (2° to 30°C).
+After first use store at 36° to 86°F (2° to 30°C) up to 28 days.
 
 Do not freeze.
 
@@ -51,6 +51,8 @@ Dispense in this sealed carton.
 FIASP® PenFill®
 
 (insulin aspart injection)
+
+For Subcutaneous Use
 
 100 units/mL (U-100)
 
