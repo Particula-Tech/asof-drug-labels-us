@@ -41,5 +41,5 @@ However, experience with doses above 750 mcg/day is limited.
 
 ## VIPomas
 
-Daily dosages of 200-300 mcg in 2-4 divided doses are recommended during the initial 2 weeks of therapy (range: 150-750 mcg) to control symptoms of the disease.
+Daily dosages of 200-300 mcg in 2-4 divided doses are recommended during the initial 2 weeks of therapy (range, 150-750 mcg) to control symptoms of the disease.
 On an individual basis, dosage may be adjusted to achieve a therapeutic response, but usually doses above 450 mcg/day are not required.
