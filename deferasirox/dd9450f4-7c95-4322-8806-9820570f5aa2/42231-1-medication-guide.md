@@ -162,4 +162,4 @@ However, due to Novartis Pharmaceuticals Corporation’s marketing exclusivity r
 Brands mentioned are trademarks of their respective owners and are not trademarks of Alembic Pharmaceuticals Limited.
 Manufactured by: Alembic Pharmaceuticals Limited (Formulation Division), Village Panelav, P. O. Tajpura, Near Baska, Taluka-Halol, Panchmahal 389350, Gujarat, India.
 
-Revised: 10/2019
+Revised: 06/2020

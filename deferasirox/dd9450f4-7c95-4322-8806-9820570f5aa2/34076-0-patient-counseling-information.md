@@ -81,4 +81,4 @@ Caution patients experiencing dizziness to avoid driving or operating machinery 
 
 Manufactured by: Alembic Pharmaceuticals Limited (Formulation Division), Village Panelav, P. O. Tajpura, Near Baska, Taluka-Halol, Panchmahal 389350, Gujarat, India.
 
-Revised: 10/2019
+Revised: 06/2020

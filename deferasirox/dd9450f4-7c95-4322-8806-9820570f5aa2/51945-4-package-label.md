@@ -1,6 +1,10 @@
 # PACKAGE LABEL.PRINCIPAL DISPLAY PANEL 90 mg
 
-NDC 46708-410-30 Deferasirox Tablets 90 mg 30 Tablets Alembic
+NDC 46708-410-30 Deferasirox Tablets 90 mg Alembic
+
+# PACKAGE LABEL.PRINCIPAL DISPLAY PANEL 180 mg
+
+NDC 46708-411-30 Deferasirox Tablets 180 mg 30 Tablets Alembic
 
 # PACKAGE LABEL.PRINCIPAL DISPLAY PANEL 360 mg
 
