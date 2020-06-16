@@ -38,6 +38,7 @@ The incidence, magnitude, and clinical significance of similar phenomena in pati
 ## Clinical Trials
 
 In clinical trials, immediate-release oral isosorbide dinitrate has been administered in a variety of regimens, with total daily doses ranging from 30 mg to 480 mg.
+
 Controlled trials of single oral doses of isosorbide dinitrate have demonstrated effective reductions in exercise-related angina for up to 8 hours.
 Anti-anginal activity is present about 1 hour after dosing.
 

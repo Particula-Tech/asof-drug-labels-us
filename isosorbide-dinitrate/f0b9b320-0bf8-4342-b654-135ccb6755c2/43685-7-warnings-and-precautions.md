@@ -45,7 +45,7 @@ Alcohol, in particular, has been found to exhibit additive effects of this varie
 
 Concomitant use of isosorbide dinitrate tablets with phosphodiesterase inhibitors in any form is contraindicated (see CONTRAINDICATIONS).
 
-Concomitant use of isosorbide dinitrate tablets with riociguat, a soluble cyclase stimulator, is contraindicated (see CONTRAINDICATIONS).
+Concomitant use of isosorbide dinitrate tablets with riociguat, a soluble guanylate cyclase stimulator, is contraindicated (see CONTRAINDICATIONS).
 
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility
 
