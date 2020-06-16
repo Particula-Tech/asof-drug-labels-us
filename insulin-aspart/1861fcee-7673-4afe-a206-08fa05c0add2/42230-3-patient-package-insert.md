@@ -43,7 +43,7 @@ How should I take NovoLog Mix 70/30?
 - •Do not reuse or share your needles or syringes with other people.
   You may give other people a serious infection or get a serious infection from them.
 - •NovoLog Mix 70/30 is injected under the skin (subcutaneously) of your stomach area, buttocks, upper legs, or upper arms.
-- •Change (rotate) your injections sites within the same area you choose with each dose to reduce your risk of getting lypodystrophy (pits in skin or thickened skin) and localized cutaneous amyloidosis (skin with lumps) at the injection sites.
+- •Change (rotate) your injection sites within the same area you choose with each dose to reduce your risk of getting lipodystrophy (pits in skin or thickened skin) and localized cutaneous amyloidosis (skin with lumps) at the injection sites.
   - oDo not use the exact same spot for each injection.
   - oDo not inject where skin has pits, is thickened, or has lumps.
   - oDo not inject where the skin is tender, bruised, scaly or hard, or into scars or damaged skin.
@@ -176,7 +176,7 @@ Giving your injection:
 - •Inject your NovoLog Mix 70/30 exactly as your healthcare provider has shown you.
   Your healthcare provider should tell you if you need to pinch the skin before injecting.
 - •NovoLogMix 70/30 is injected under the skin (subcutaneously) of your stomach area, buttocks, upper legs, or upper arms.
-- •Change (rotate) your injection sites within the area you choose for each dose to reduce your risk of getting lipodystrophy (pits in skin or thickened skin) and localized cutaneous amyloidosis (skin with lumps) at the injections sites.
+- •Change (rotate) your injection sites within the area you choose for each dose to reduce your risk of getting lipodystrophy (pits in skin or thickened skin) and localized cutaneous amyloidosis (skin with lumps) at the injection sites.
   Do not use the same injection site for each injection.
   Do not inject where the skin has pits, thickened, or has lumps.
   Do not inject where the skin is tender, bruised, scaly or hard, or into scars or damaged skin.
@@ -380,7 +380,7 @@ Giving the injection
   Your healthcare provider should tell you if you need to pinch the skin before injecting.
   Wipe the skin with an alcohol swab and let the area dry.
 - •NovoLog Mix 70/30 can be injected under the skin (subcutaneously) of your stomach area, buttocks, upper legs (thighs), or upper arms.
-- •Change (rotate) your injection sites within the area you choose for each dose to reduce your risk of getting lipodystrophy (pits in skin or thickened skin) and localized cutaneous amyloidosis (skin with lumps) at the injection site.
+- •Change (rotate) your injection sites within the area you choose for each dose to reduce your risk of getting lipodystrophy (pits in skin or thickened skin) and localized cutaneous amyloidosis (skin with lumps) at the injection sites.
   Do not use the same injection site for each injection.
   Do not inject where the skin has pits, is thickened, or has lumps.
   Do not inject where the skin is tender, bruised, scaly or hard, or into scars or damaged skin.

@@ -10,7 +10,9 @@ insulin aspart protamine
 
 and insulin aspart injectable suspension
 
-100 units/mL 10 mL
+One 10 mL multi-dose vial
+
+100 units/mL (U-100)
 
 Shake carefully before using.
 See enclosed insert for proper technique.
@@ -49,7 +51,8 @@ Rx only
 
 For use with NovoFine®, NovoFine® Plus or NovoTwist® disposable needles.
 
-Keep in a cold place.
+Keep in a refrigerator at 36oF to 46oF (2oC to 8oC) until first use.
+After first use store out of the refrigerator below 86oF (30oC) for up to 28 days.
 Avoid freezing.
 Protect from light.
 
