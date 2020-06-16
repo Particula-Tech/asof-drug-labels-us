@@ -24,8 +24,8 @@ Storage: Do not store above 86°F (30°C).
 Protect from moisture and light.
 Dispense in a tight, light-resistant container (USP).
 
-Manufactured for and Distributed by: Validus Pharmaceuticals LLC 119 Cherry Hill Road, Suite 310 Parsippany, NJ 07054 info@validuspharma.com www.validuspharma.com 1-866-982-5438 (1-866-9VALIDUS)
+Manufactured for and Distributed by: Validus Pharmaceuticals LLC 119 Cherry Hill Road, Suite 310 Parsippany, NJ 07054 info@validuspharma.com www.validuspharma.com 1-866-982-5438
 
-© 2018 Validus Pharmaceuticals LLC
+© 2020 Validus Pharmaceuticals LLC
 
-60024-03 August 2018
+60024-04 May 2020
