@@ -2,7 +2,7 @@
 
 ## 10.1 Signs, Symptoms, and Laboratory Findings of Overdosage
 
-Confirmed and/or suspected vigabatrin overdoses have been reported during clinical trials and in post marketing surveillance.
+Confirmed and/or suspected vigabatrin overdoses have been reported during clinical trials and in postmarketing surveillance.
 No vigabatrin overdoses resulted in death.
 When reported, the vigabatrin dose ingested ranged from 3 g to 90 g, but most were between 7.5 g and 30 g. Nearly half the cases involved multiple drug ingestions including carbamazepine, barbiturates, benzodiazepines, lamotrigine, valproic acid, acetaminophen, and/or chlorpheniramine.
 

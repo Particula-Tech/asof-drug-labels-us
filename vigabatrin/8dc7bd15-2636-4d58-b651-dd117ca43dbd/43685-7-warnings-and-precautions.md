@@ -15,7 +15,7 @@ Because assessing vision may be difficult in children, the frequency and extent 
 For this reason, the understanding of the risk is primarily based on the adult experience.
 The possibility that vision loss from vigabatrin may be more common, more severe, or have more severe functional consequences in children than in adults cannot be excluded.
 
-The onset of vision loss from vigabatrin is unpredictable, and can occur within weeks of starting treatment or sooner, or at any time after starting treatment, even after months or years.
+The onset of vision loss from vigabatrin is unpredictable and can occur within weeks of starting treatment or sooner, or at any time after starting treatment, even after months or years.
 
 The risk of vision loss increases with increasing dose and cumulative exposure, but there is no dose or exposure known to be free of risk of vision loss.
 
@@ -59,24 +59,25 @@ Further information is available at www.vigabatrinREMS.com or call 1-866-244-817
 
 ## 5.3 Magnetic Resonance Imaging (MRI) Abnormalities in Infants
 
-Abnormal MRI signal changes characterized by increased T2 signal and restricted diffusion in a symmetric pattern involving the thalamus, basal ganglia, brain stem, and cerebellum have been observed in some infants treated with vigabatrin for infantile spasms.
-In a retrospective epidemiologic study in infants with IS (N=205), the prevalence of these changes was 22% in vigabatrin treated patients versus 4% in patients treated with other therapies.
+Abnormal MRI signal changes characterized by increased T2 signal and restricted diffusion in a symmetric pattern involving the thalamus, basal ganglia, brain stem, and cerebellum have been observed in some infants treated with vigabatrin.
 
-In the study above, in post marketing experience, and in published literature reports, these changes generally resolved with discontinuation of treatment.
+In a retrospective epidemiologic study in infants with infantile spasms (N=205), the prevalence of MRI changes was 22% in vigabatrin-treated patients versus 4% in patients treated with other therapies.
+In this study, in postmarketing experience, and in published literature reports, these changes generally resolved with discontinuation of treatment.
 In a few patients, the lesion resolved despite continued use.
 It has been reported that some infants exhibited coincident motor abnormalities, but no causal relationship has been established and the potential for long-term clinical sequelae has not been adequately studied.
 
 Neurotoxicity (brain histopathology and neurobehavioral abnormalities) was observed in rats exposed to vigabatrin during late gestation and the neonatal and juvenile periods of development, and brain histopathological changes were observed in dogs exposed to vigabatrin during the juvenile period of development.
 The relationship between these findings and the abnormal MRI findings in infants treated with vigabatrin for infantile spasms is unknown [see Warnings and Precautions (5.4) and Use in Specific Populations (8.1)].
 
-The specific pattern of signal changes observed in IS patients was not observed in older pediatric and adult patients treated with vigabatrin for refractory CPS.
-In a blinded review of MRI images obtained in prospective clinical trials in patients with refractory CPS 3 years and older (N=656), no difference was observed in anatomic distribution or prevalence of MRI signal changes between vigabatrin treated and placebo treated patients.
+The specific pattern of signal changes observed in patients 6 years and younger was not observed in older pediatric and adult patients treated with vigabatrin.
+In a blinded review of MRI images obtained in prospective clinical trials in patients with refractory complex partial seizures (CPS) 3 years and older (N=656), no difference was observed in anatomic distribution or prevalence of MRI signal changes between vigabatrin-treated and placebo-treated patients.
+In the postmarketing setting, MRI changes have also been reported in patients 6 years of age and younger being treated for refractory CPS.
 
 For adults treated with vigabatrin, routine MRI surveillance is unnecessary as there is no evidence that vigabatrin causes MRI changes in this population.
 
 ## 5.4 Neurotoxicity
 
-Intramyelinic edema (IME) has been reported in postmortem examination of infants being treated for IS with vigabatrin.
+Intramyelinic Edema (IME) has been reported in postmortem examination of infants being treated for infantile spasms with vigabatrin.
 
 Abnormal MRI signal changes characterized by increased T2 signal and restricted diffusion in a symmetric pattern involving the thalamus, basal ganglia, brain stem, and cerebellum have also been observed in some infants treated for IS with vigabatrin.
 Studies of the effects of vigabatrin on MRI and evoked potentials (EP) in adult epilepsy patients have demonstrated no clear-cut abnormalities [see Warnings and Precautions (5.3)].
@@ -87,7 +88,7 @@ A no-effect dose was not established in rodents or dogs.
 In the rat and dog, vacuolation was reversible following discontinuation of vigabatrin treatment, but, in the rat, pathologic changes consisting of swollen or degenerating axons, mineralization, and gliosis were seen in brain areas in which vacuolation had been previously observed.
 Vacuolation in adult animals was correlated with alterations in MRI and changes in visual and somatosensory EP.
 
-Administration of vigabatrin to rats during the neonatal and juvenile periods of development produced vacuolar changes in the brain gray matter (including the thalamus, midbrain, deep cerebellar nuclei, substantia nigra, hippocampus, and forebrain) which are considered distinct from the IME observed in vigabatrin treated adult animals.
+Administration of vigabatrin to rats during the neonatal and juvenile periods of development produced vacuolar changes in the brain gray matter (including the thalamus, midbrain, deep cerebellar nuclei, substantia nigra, hippocampus, and forebrain) which are considered distinct from the IME observed in vigabatrin-treated adult animals.
 Decreased myelination and evidence of oligodendrocyte injury were additional findings in the brains of vigabatrin-treated rats.
 An increase in apoptosis was seen in some brain regions following vigabatrin exposure during the early postnatal period.
 Long-term neurobehavioral abnormalities (convulsions, neuromotor impairment, learning deficits) were also observed following vigabatrin treatment of young rats.
@@ -105,8 +106,8 @@ Antiepileptic drugs (AEDs), including vigabatrin, increase the risk of suicidal 
 Patients treated with any AED for any indication should be monitored for the emergence or worsening of depression, suicidal thoughts or behavior, and/or any unusual changes in mood or behavior.
 
 Pooled analyses of 199 placebo-controlled clinical trials (mono- and adjunctive-therapy) of 11 different AEDs showed that patients randomized to one of the AEDs had approximately twice the risk (adjusted Relative Risk 1.8, 95% CI: 1.2, 2.7) of suicidal thinking or behavior compared to patients randomized to placebo.
-In these trials, which had a median treatment duration of 12 weeks, the estimated incidence rate of suicidal behavior or ideation among 27,863 AED treated patients was 0.43%, compared to 0.24% among 16,029 placebo treated patients, representing an increase of approximately one case of suicidal thinking or behavior for every 530 patients treated.
-There were four suicides in drug treated patients in the trials and none in placebo treated patients, but the number is too small to allow any conclusion about drug effect on suicide.
+In these trials, which had a median treatment duration of 12 weeks, the estimated incidence rate of suicidal behavior or ideation among 27,863 AED treated patients was 0.43%, compared to 0.24% among 16,029 placebo-treated patients, representing an increase of approximately one case of suicidal thinking or behavior for every 530 patients-treated.
+There were four suicides in drug treated patients in the trials and none in placebo-treated patients, but the number is too small to allow any conclusion about drug effect on suicide.
 
 The increased risk of suicidal thoughts or behavior with AEDs was observed as early as one week after starting drug treatment with AEDs and persisted for the duration of treatment assessed.
 Because most trials included in the analysis did not extend beyond 24 weeks, the risk of suicidal thoughts or behavior beyond 24 weeks could not be assessed.
@@ -148,9 +149,9 @@ In a controlled study in pediatric patients with complex partial seizures, vigab
 ## 5.7 Anemia
 
 In North American controlled trials in adults, 6% of patients (16/280) receiving vigabatrin and 2% of patients (3/188) receiving placebo had adverse events of anemia and/or met criteria for potentially clinically important hematology changes involving hemoglobin, hematocrit, and/or RBC indices.
-Across U.S. controlled trials, there were mean decreases in hemoglobin of about 3% and 0% in vigabatrin and placebo treated patients, respectively, and a mean decrease in hematocrit of about 1% in vigabatrin treated patients compared to a mean gain of about 1% in patients treated with placebo.
+Across U.S. controlled trials, there were mean decreases in hemoglobin of about 3% and 0% in vigabatrin and placebo-treated patients, respectively, and a mean decrease in hematocrit of about 1% in vigabatrin-treated patients compared to a mean gain of about 1% in patients treated with placebo.
 
-In controlled and open label epilepsy trials in adults and pediatric patients, 3 vigabatrin patients (0.06%, 3/4855) discontinued for anemia and 2 vigabatrin patients experienced unexplained declines in hemoglobin to below 8 g/dL and/or hematocrit below 24%.
+In controlled and open-label epilepsy trials in adults and pediatric patients, 3 vigabatrin patients (0.06%, 3/4855) discontinued for anemia and 2 vigabatrin patients experienced unexplained declines in hemoglobin to below 8 g/dL and/or hematocrit below 24%.
 
 ## 5.8 Somnolence and Fatigue
 
@@ -170,7 +171,7 @@ No vigabatrin patients discontinued from clinical trials due to somnolence or fa
 Vigabatrin causes symptoms of peripheral neuropathy in adults.
 Pediatric clinical trials were not designed to assess symptoms of peripheral neuropathy, but observed incidence of symptoms based on pooled data from controlled pediatric studies appeared similar for pediatric patients on vigabatrin and placebo.
 In a pool of North American controlled and uncontrolled epilepsy studies, 4.2% (19/457) of vigabatrin patients developed signs and/or symptoms of peripheral neuropathy.
-In the subset of North American placebo-controlled epilepsy trials, 1.4% (4/280) of vigabatrin treated patients and no (0/188) placebo patients developed signs and/or symptoms of peripheral neuropathy.
+In the subset of North American placebo-controlled epilepsy trials, 1.4% (4/280) of vigabatrin-treated patients and no (0/188) placebo patients developed signs and/or symptoms of peripheral neuropathy.
 Initial manifestations of peripheral neuropathy in these trials included, in some combination, symptoms of numbness or tingling in the toes or feet, signs of reduced distal lower limb vibration or position sensation, or progressive loss of reflexes, starting at the ankles.
 Clinical studies in the development program were not designed to investigate peripheral neuropathy systematically and did not include nerve conduction studies, quantitative sensory testing, or skin or nerve biopsy.
 There is insufficient evidence to determine if development of these signs and symptoms was related to duration of vigabatrin treatment, cumulative dose, or if the findings of peripheral neuropathy were completely reversible upon discontinuation of vigabatrin.
@@ -191,7 +192,7 @@ Weight gain was not related to the occurrence of edema.
 ## 5.11 Edema
 
 Vigabatrin causes edema in adults.
-Pediatric clinical trials were not designed to assess edema, but observed incidence of edema based pooled data from controlled pediatric studies appeared similar for pediatric patients on vigabatrin and placebo.
+Pediatric clinical trials were not designed to assess edema, but observed incidence of edema-based pooled data from controlled pediatric studies appeared similar for pediatric patients on vigabatrin and placebo.
 
 Pooled data from controlled trials demonstrated increased risk among vigabatrin patients compared to placebo patients for peripheral edema (vigabatrin 2%, placebo 1%), and edema (vigabatrin 1%, placebo 0%).
 In these studies, one vigabatrin and no placebo patients discontinued for an edema related AE.
