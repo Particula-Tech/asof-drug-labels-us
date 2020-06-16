@@ -61,8 +61,6 @@ Similarly, sodium nitroprusside has not been tested for effects on fertility.
 
 ## Pregnancy
 
-Teratogenic effects: Pregnancy Category C.
-
 There are no adequate, well-controlled studies of sodium nitroprusside injection in either laboratory animals or pregnant women.
 It is not known whether sodium nitroprusside injection can cause fetal harm when administered to a pregnant woman or can affect reproductive capacity.
 Sodium nitroprusside injection should be given to a pregnant woman only if clearly needed.

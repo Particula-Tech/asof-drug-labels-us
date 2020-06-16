@@ -25,6 +25,6 @@ Made in India
 
 Code No.:KR/DRUGS/KTK/28/289/97
 
-ST-SNP11/P/01
+ST-SNP11/P/02
 
-Revised: November, 2019
+Revised: June, 2020
