@@ -1,14 +1,14 @@
-# PACKAGE/LABEL PRINCIPAL DISPLAY PANEL - Carton
+# PACKAGE/LABEL PRINCIPAL DISPLAY PANEL – Carton 20 g
 
-NDC 0187-0005-45
+NDC 0187-0005-20
 
 For Topical Use Only Not for Eye Use
 
-ALTRENOTM (tretinoin) Lotion, 0.05%
+ALTRENO® (tretinoin) Lotion, 0.05%
 
 Rx only
 
 Net Wt.
-45 g
+20 g
 
 Ortho Dermatologics

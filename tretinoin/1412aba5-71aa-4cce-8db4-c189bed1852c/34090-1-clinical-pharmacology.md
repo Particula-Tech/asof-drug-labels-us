@@ -25,7 +25,7 @@ The mean baseline corrected Cmax and AUC0-t of tretinoin and its metabolites aft
 | --- | --- | --- |
 | Tretinoin | 0.33 (0.33) | 6.46 (5.15) |
 | Isotretinoin | 0.49 (0.66) | 9.30 (9.95) |
-| 4-oxo-isotreinoin | 0.57 (0.82) | 14.51 (18.28) |
+| 4-oxo-isotretinoin | 0.57 (0.82) | 14.51 (18.28) |
 
 The mean concentrations of tretinoin and its metabolites (isotretinoin and 4‑oxo‑isotretinoin) remain relatively stable and unchanged over the 24‑hour period after both the Day 1 dose and the Day 14 dose.
 Systemic concentrations of tretinoin appear to be at or near steady state by Day 14.
