@@ -21,15 +21,15 @@ Through 96 weeks, the rate of adverse events leading to discontinuation was 2% i
 In SINGLE, 833 subjects were randomized and received at least 1 dose of either TIVICAY 50 mg with fixed-dose abacavir sulfate and lamivudine (EPZICOM) once daily or fixed-dose efavirenz/emtricitabine/tenofovir (ATRIPLA) once daily (study treatment was blinded through Week 96 and open-label from Week 96 through Week 144).
 Through 144 weeks, the rates of adverse events leading to discontinuation were 4% in subjects receiving TIVICAY 50 mg once daily + EPZICOM and 14% in subjects receiving ATRIPLA once daily.
 
-Treatment-emergent adverse reactions (ARs) of moderate to severe intensity observed in at least 2% of subjects in either treatment arm in SPRING-2 and SINGLE trials are provided in Table 3.
+Treatment‑emergent adverse reactions of moderate to severe intensity observed in at least 2% of subjects in either treatment arm in SPRING-2 and SINGLE trials are provided in Table 5.
 Side-by-side tabulation is to simplify presentation; direct comparisons across trials should not be made due to differing trial designs.
 
-Table 3.
+Table 5.
 Treatment-Emergent Adverse Reactions of at Least Moderate Intensity (Grades 2 to 4) and at Least 2% Frequency in Treatment-Naïve Subjects in SPRING-2 (Week 96 Analysis) and SINGLE Trials (Week 144 Analysis)
 
-| System Organ Class/ Preferred Term | SPRING-2 |  | SINGLE |  |
+| System Organ Class/Preferred Term | SPRING-2 |  | SINGLE |  |
 | --- | --- | --- | --- | --- |
-| TIVICAY 50 mg Once Daily + 2 NRTIs (n = 403) | Raltegravir 400 mg Twice Daily + 2 NRTIs (n = 405) | TIVICAY 50 mg + EPZICOM Once Daily (n = 414) | ATRIPLA Once Daily (n = 419) |  |
+| TIVICAY 50 mg Once Daily + 2 NRTIs(n = 403) | Raltegravir400 mg Twice Daily + 2 NRTIs(n = 405) | TIVICAY 50 mg + EPZICOM Once Daily(n = 414) | ATRIPLAOnce Daily(n = 419) |  |
 | Psychiatric |  |  |  |  |
 | Insomnia | <1% | <1% | 3% | 3% |
 | Depression | <1% | <1% | 1% | 2% |
@@ -54,23 +54,23 @@ These events were not treatment limiting.
 In a multicenter, open-label trial (FLAMINGO), 243 subjects received TIVICAY 50 mg once daily versus 242 subjects who received darunavir 800 mg/ritonavir 100 mg once daily, both in combination with investigator-selected NRTI background regimen (either EPZICOM or TRUVADA).
 There were 484 subjects included in the efficacy and safety analyses.
 Through 96 weeks, the rates of adverse events leading to discontinuation were 3% in subjects receiving TIVICAY and 6% in subjects receiving darunavir/ritonavir.
-The ARs observed in FLAMINGO were generally consistent with those seen in SPRING-2 and SINGLE.
+The adverse reactions observed in FLAMINGO were generally consistent with those seen in SPRING-2 and SINGLE.
 
 Treatment-Experienced, Integrase Strand Transfer Inhibitor-Naïve Subjects: In an international, multicenter, double-blind trial (ING111762, SAILING), 719 HIV‑1–infected, antiretroviral treatment-experienced adults were randomized and received either TIVICAY 50 mg once daily or raltegravir 400 mg twice daily with investigator-selected background regimen consisting of up to 2 agents, including at least one fully active agent.
 At 48 weeks, the rates of adverse events leading to discontinuation were 3% in subjects receiving TIVICAY 50 mg once daily + background regimen and 4% in subjects receiving raltegravir 400 mg twice daily + background regimen.
 
-The only treatment-emergent AR of moderate to severe intensity with at least 2% frequency in either treatment group was diarrhea, 2% (6 of 354) in subjects receiving TIVICAY 50 mg once daily + background regimen and 1% (5 of 361) in subjects receiving raltegravir 400 mg twice daily + background regimen.
+The only treatment‑emergent adverse reaction of moderate to severe intensity with at least 2% frequency in either treatment group was diarrhea, 2% (6 of 354) in subjects receiving TIVICAY 50 mg once daily + background regimen and 1% (5 of 361) in subjects receiving raltegravir 400 mg twice daily + background regimen.
 
-Treatment-Experienced, Integrase Strand Transfer Inhibitor-Experienced Subjects: In a multicenter, open-label, single-arm trial (ING112574, VIKING-3), 183 HIV‑1–infected, antiretroviral treatment-experienced adults with virological failure and current or historical evidence of raltegravir and/or elvitegravir resistance received TIVICAY 50 mg twice daily with the current failing background regimen for 7 days and with optimized background therapy from Day 8.
+Treatment-Experienced, Integrase Strand Transfer Inhibitor-Experienced Subjects: In a multicenter, open-label, single‑arm trial (ING112574, VIKING-3), 183 HIV‑1–infected, antiretroviral treatment-experienced adults with virological failure and current or historical evidence of raltegravir and/or elvitegravir resistance received TIVICAY 50 mg twice daily with the current failing background regimen for 7 days and with optimized background therapy from Day 8.
 The rate of adverse events leading to discontinuation was 4% of subjects at Week 48.
 
-Treatment-emergent ARs in VIKING-3 were generally similar compared with observations with the 50-mg once-daily dose in adult Phase 3 trials.
+Treatment‑emergent adverse reactions in VIKING-3 were generally similar compared with observations with the 50-mg once-daily dose in adult Phase 3 trials.
 
-Virologically Suppressed Subjects: The ARs observed for TIVICAY plus rilpivirine in the Week 48 analysis of pooled data from 2 identical, international, multicenter, open-label trials (SWORD-1 and SWORD-2) of 513 HIV–1-infected, virologically suppressed subjects switching from their current antiretroviral regimen to dolutegravir plus rilpivirine, were consistent with the AR profiles and severities for the individual components when administered with other antiretroviral agents.
-There were no ARs (Grades 2 to 4) with an incidence of at least 2% in either treatment arm.
+Virologically Suppressed Subjects: The adverse reactions observed for TIVICAY plus rilpivirine in the Week 48 analysis of pooled data from 2 identical, international, multicenter, open-label trials (SWORD-1 and SWORD-2) of 513 HIV-1–infected, virologically suppressed subjects switching from their current antiretroviral regimen to dolutegravir plus rilpivirine, were consistent with the adverse reaction profiles and severities for the individual components when administered with other antiretroviral agents.
+There were no adverse reactions (Grades 2 to 4) with an incidence of at least 2% in either treatment arm.
 The rates of adverse events leading to discontinuation were 4% in subjects receiving TIVICAY plus rilpivirine once daily and less than 1% in subjects who remained on their current antiretroviral regimen.
 
-Less Common Adverse Reactions Observed in Treatment-Naïve and Treatment-Experienced Trials: The following ARs occurred in less than 2% of treatment-naïve or treatment-experienced subjects receiving TIVICAY in a combination regimen in any one trial.
+Less Common Adverse Reactions Observed in Treatment-Naïve and Treatment-Experienced Trials: The following adverse reactions occurred in less than 2% of treatment-naïve or treatment-experienced subjects receiving TIVICAY in a combination regimen in any one trial.
 These events have been included because of their seriousness and assessment of potential causal relationship.
 
 Gastrointestinal Disorders: Abdominal pain, abdominal discomfort, flatulence, upper abdominal pain, vomiting.
@@ -88,11 +88,11 @@ Skin and Subcutaneous Tissue Disorders: Pruritus.
 
 Laboratory Abnormalities:
 
-Treatment-Naïve Subjects: Selected laboratory abnormalities (Grades 2 to 4) with a worsening grade from baseline and representing the worst-grade toxicity in at least 2% of subjects are presented in Table 4.
-The mean change from baseline observed for selected lipid values is presented in Table 5.
+Treatment-Naïve Subjects: Selected laboratory abnormalities (Grades 2 to 4) with a worsening grade from baseline and representing the worst-grade toxicity in at least 2% of subjects are presented in Table 6.
+The mean change from baseline observed for selected lipid values is presented in Table 7.
 Side-by-side tabulation is to simplify presentation; direct comparisons across trials should not be made due to differing trial designs.
 
-Table 4.
+Table 6.
 Selected Laboratory Abnormalities (Grades 2 to 4) in Treatment-Naïve Subjects in SPRING-2 (Week 96 Analysis) and SINGLE Trials (Week 144 Analysis)
 
 | Laboratory ParameterPreferred Term | SPRING-2 |  | SINGLE |  |  |  |  |  |  |
@@ -121,7 +121,7 @@ Selected Laboratory Abnormalities (Grades 2 to 4) in Treatment-Naïve Subjects i
 | Grade 3 to 4 (<0.75 x 109) | 2% | 2% | 3% | 3% |  |  |  |  |  |
 | ULN = Upper limit of normal. |  |  |  |  |  |  |  |  |  |
 
-Table 5.
+Table 7.
 Mean Change from Baseline in Fasted Lipid Values in Treatment-Naïve Subjects in SPRING-2 (Week 96 Analysisa) and SINGLE Trials (Week 144 Analysisa)
 
 | Laboratory ParameterPreferred Term | SPRING-2 |  | SINGLE |  |  |  |  |  |  |  |  |  |  |  |
@@ -154,15 +154,20 @@ Creatinine increases were comparable by background NRTIs and were similar in tre
 
 Clinical Trials Experience in Pediatric Subjects
 
-IMPAACT P1093 is an ongoing multicenter, open-label, non-comparative trial of approximately 160 HIV‑1–infected pediatric subjects aged 4 weeks to less than 18 years, of which 46 treatment-experienced, INSTI-naïve subjects aged 6 to less than 18 years have been enrolled [see Use in Specific Populations (8.4), Clinical Studies (14.3)].
+The safety and pharmacokinetics of TIVICAY and TIVICAY PD in HIV-1–infected pediatric subjects aged at least 4 weeks and weighing at least 3 kg was evaluated in the IMPAACT P1093 trial and 2 weight-band-based pharmacokinetic substudies of the ODYSSEY trial [see Use in Specific Populations (8.4), Clinical Pharmacology (12.3)].
+Overall, the safety data in these pediatric studies were similar to those seen in adults, and there was no clinically significant difference in dolutegravir exposure [see Clinical Pharmacology (12.3)].
 
-The adverse reaction profile was similar to that for adults.
-Grade 2 ARs reported by more than one subject were decreased neutrophil count (n = 3) and diarrhea (n = 2).
-There were no Grade 3 or 4 drug-related ARs reported.
-No ARs led to discontinuation.
+IMPAACT P1093 is an ongoing, multicenter, open-label, non-comparative trial of HIV‑1–infected pediatric subjects aged 4 weeks to less than 18 years [see Use in Specific Populations (8.4), Clinical Pharmacology (12.3), Clinical Studies (14.3)].
 
-The Grade 3 or 4 laboratory abnormalities reported in more than one subject were elevated total bilirubin (n = 3) and decreased neutrophil count (n = 2).
-The changes in mean serum creatinine were similar to those observed in adults.
+The safety analysis based on subjects (n = 75) who received the recommended dose (determined by weight and age) through Week 24 showed that 11% of subjects experienced drug-related clinical adverse reactions.
+The only Grade 1 to 2 drug-related clinical adverse reactions reported by more than one subject was immune reconstitution inflammatory syndrome (IRIS) (n = 2).
+There were no Grade 3 or 4 drug-related adverse reactions reported.
+No adverse reactions led to discontinuation.
+
+The Grade 3 or 4 laboratory abnormalities reported in more than one subject were decreased neutrophil count (n = 11), decreased blood bicarbonate (n = 4), decreased hemoglobin (n = 3), increased lipase (n = 2), and increased blood potassium (n = 2).
+These laboratory events were not considered to be drug-related.
+Median laboratory values were similar at baseline and Week 24.
+Changes in median serum creatinine were similar to those observed in adults.
 
 ## 6.2 Postmarketing Experience
 

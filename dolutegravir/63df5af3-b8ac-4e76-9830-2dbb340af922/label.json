@@ -1,19 +1,26 @@
 {
   "application_numbers": [
-    "NDA204790"
+    "NDA204790",
+    "NDA213983"
   ],
   "inn": "dolutegravir",
   "labeler": "ViiV Healthcare Company",
   "package_ndcs": [
     "49702-226-13",
     "49702-227-13",
-    "49702-228-13"
+    "49702-228-13",
+    "49702-255-37"
   ],
   "products": [
     {
       "form": "TABLET, FILM COATED",
       "generic": "dolutegravir sodium",
       "name": "Tivicay"
+    },
+    {
+      "form": "TABLET, FOR SUSPENSION",
+      "generic": "dolutegravir sodium",
+      "name": "Tivicay PD"
     }
   ],
   "setid": "63df5af3-b8ac-4e76-9830-2dbb340af922",

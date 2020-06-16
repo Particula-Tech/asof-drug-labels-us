@@ -15,4 +15,13 @@ TIVICAY tablets, 50 mg, are yellow, round, film-coated, biconvex tablets debosse
 Bottle of 30 tablets with child-resistant closure.
 NDC 49702-228-13.
 
-Store at 25°C (77°F); excursions permitted 15° to 30°C (59° to 86°F) [See USP Controlled Room Temperature].
+Store TIVICAY tablets at 25°C (77°F); excursions permitted 15° to 30°C (59° to 86°F) [See USP Controlled Room Temperature].
+
+TIVICAY PD tablets for oral suspension, 5 mg, are white, round, strawberry cream flavored, film-coated, biconvex tablets debossed with “SV H7S” on one side and “5” on the other side.
+Bottle of 60 tablets with child-resistant closure containing a desiccant.
+Each bottle is packaged with one 30-mL dosing cup and one 10-mL oral dosing syringe with 1-mL gradations.
+NDC 49702-255-37.
+
+Store TIVICAY PD tablets for oral suspension below 30 °C (86 °F).
+Store and dispense the 5-mg tablets in the original bottle, protect from moisture, and keep the bottle tightly closed.
+Do not remove desiccant.

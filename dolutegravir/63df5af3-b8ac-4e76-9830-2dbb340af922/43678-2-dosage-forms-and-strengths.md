@@ -1,6 +1,6 @@
 # 3 DOSAGE FORMS AND STRENGTHS
 
-Tablets:
+TIVICAY Tablets:
 
 10 mg: Each tablet contains 10 mg of dolutegravir (as dolutegravir sodium).
 Tablets are white, round, film-coated, biconvex tablets debossed with “SV 572” on one side and “10” on the other side.
@@ -10,3 +10,8 @@ Tablets are pale yellow, round, film-coated, biconvex tablets debossed with “S
 
 50 mg: Each tablet contains 50 mg of dolutegravir (as dolutegravir sodium).
 Tablets are yellow, round, film-coated, biconvex tablets debossed with “SV 572” on one side and “50” on the other side.
+
+TIVICAY PD Tablets for Oral Suspension:
+
+Each tablet contains 5 mg of dolutegravir (as dolutegravir sodium).
+Tablets are white, round, strawberry cream flavored, film-coated, biconvex tablets debossed with “SV H7S” on one side and “5” on the other side.

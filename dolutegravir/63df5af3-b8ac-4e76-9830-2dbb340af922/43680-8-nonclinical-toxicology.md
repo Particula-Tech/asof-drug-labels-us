@@ -6,8 +6,8 @@ Carcinogenesis
 
 Two-year carcinogenicity studies in mice and rats were conducted with dolutegravir.
 Mice were administered doses of up to 500 mg per kg, and rats were administered doses of up to 50 mg per kg.
-In mice, no significant increases in the incidence of drug-related neoplasms were observed at the highest doses tested, resulting in dolutegravir AUC exposures approximately 14 times higher than those in humans at the recommended dose of 50 mg twice daily.
-In rats, no increases in the incidence of drug-related neoplasms were observed at the highest dose tested, resulting in dolutegravir AUC exposures 10 times and 15 times higher in males and females, respectively, than those in humans at the recommended dose of 50 mg twice daily.
+In mice, no significant increases in the incidence of drug-related neoplasms were observed at the highest doses tested, resulting in dolutegravir AUC exposures approximately 14 times higher than those in humans at the maximum recommended dose.
+In rats, no increases in the incidence of drug-related neoplasms were observed at the highest dose tested, resulting in dolutegravir AUC exposures 10 times and 15 times higher in males and females, respectively, than those in humans at the maximum recommended dose.
 
 Mutagenesis
 
@@ -16,4 +16,4 @@ Dolutegravir was not genotoxic in the bacterial reverse mutation assay, mouse ly
 Impairment of Fertility
 
 In a study conducted in rats, there were no effects on mating or fertility with dolutegravir up to 1,000 mg per kg per day.
-This dose is associated with an exposure that is approximately 24 times higher than the exposure in humans at the recommended dose of 50 mg twice daily.
+This dose is associated with an exposure that is approximately 24 times higher than the exposure in humans at the maximum recommended dose.

@@ -9,3 +9,6 @@ Dolutegravir sodium is a white to light yellow powder and is slightly soluble in
 
 Each film-coated tablet of TIVICAY for oral administration contains 10.5, 26.3, or 52.6 mg of dolutegravir sodium, which is equivalent to 10, 25, or 50 mg dolutegravir free acid, respectively, and the following inactive ingredients: D-mannitol, microcrystalline cellulose, povidone K29/32, sodium starch glycolate, and sodium stearyl fumarate.
 The tablet film‑coating contains the inactive ingredients iron oxide yellow (25-mg and 50-mg tablets only), macrogol/PEG, polyvinyl alcohol-part hydrolyzed, talc, and titanium dioxide.
+
+Each TIVICAY PD tablet for oral suspension contains 5.26 mg of dolutegravir sodium which is equivalent to 5 mg dolutegravir free acid and the following inactive ingredients: calcium sulfate dihydrate, crospovidone, mannitol, microcrystalline cellulose, povidone K29/32, silicified microcrystalline cellulose, sodium starch glycolate, strawberry cream flavor, sucralose, and sodium stearyl fumarate.
+The tablet film-coating contains hypromellose, polyethylene glycol, and titanium dioxide.
