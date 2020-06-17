@@ -30,7 +30,7 @@ Accordingly, advise patients not to drive, operate complex machinery, or engage 
 
 CNS Depressants
 
-Inform patients who require concomitant treatment with central nervous system depressants such as opiates or benzodiazepines that they may experience additive CNS side effects, such as respiratory depression, somnolence, and dizziness [see Warnings and Precautions (5.4, 5.5, 5.14) and Drug Interactions (7)].
+Inform patients who require concomitant treatment with central nervous system depressants such as opiates or benzodiazepines that they may experience additive CNS side effects, such as respiratory depression, somnolence, and dizziness [see Warnings and Precautions (5.4, 5.5) and Drug Interactions (7)].
 Advise patients to avoid consuming alcohol while taking LYRICA, as LYRICA may potentiate the impairment of motor skills and sedating effects of alcohol.
 
 Adverse Reactions with Abrupt or Rapid Discontinuation
