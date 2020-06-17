@@ -19,6 +19,6 @@ Concomitant use with a PPI decreased nilotinib concentrations compared to Tasign
 Avoid concomitant use of PPI with Tasigna.
 As an alternative to PPIs, use H2 blockers approximately 10 hours before or approximately 2 hours after the dose of Tasigna, or use antacids approximately 2 hours before or approximately 2 hours after the dose of Tasigna.
 
-## 7.2 Drugs that Prolong the QT Interval
+## 7.2 Drugs That Prolong the QT Interval
 
-Avoid coadministration of Tasigna with agents that may prolong the QT interval such as anti-arrhythmic drugs [see Boxed Warning, Dosage and Administration (2.4), Warnings and Precautions (5.2), Drug Interactions (7.1), Clinical Pharmacology (12.2)].
+Avoid coadministration of Tasigna with agents that may prolong the QT interval, such as anti-arrhythmic drugs [see Boxed Warning, Dosage and Administration (2.4), Warnings and Precautions (5.2), Drug Interactions (7.1), Clinical Pharmacology (12.2)].

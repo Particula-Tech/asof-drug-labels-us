@@ -20,9 +20,9 @@ Efficacy endpoints are summarized in Table 12.
 
 Two patients in the Tasigna arm progressed to either accelerated phase or blast crisis (both within the first 6 months of treatment) while 12 patients on the imatinib arm progressed to either accelerated phase or blast crisis (7 patients within first 6 months, 2 patients within 6 to 12 months, 2 patients within 12 to 18 months and 1 patient within 18 to 24 months).
 
-Table 12: Efficacy (MMR and CCyR) of Tasigna Compared to Imatinib in Adult Newly Diagnosed Ph+ CML-CP (ENESTnd)
+Table 12: Efficacy (MMR and CCyR) of Tasigna Compared to imatinib in Adult Newly Diagnosed Ph+ CML-CP (ENESTnd)
 
-|  | Tasigna 300 mg Twice Daily | Imatinib 400 mg Once Daily |
+|  | Tasigna 300 mg Twice Daily | imatinib 400 mg Once Daily |
 | --- | --- | --- |
 |  | N = 282 | N = 283 |
 | MMR at 12 months (95% CI) | 44% (38.4, 50.3) | 22% (17.6, 27.6) |
@@ -36,7 +36,7 @@ By the 60 months, MMR was achieved by 77% of patients on Tasigna and 60% of pati
 Median overall survival was not reached in either arm.
 At the time of the 60-month final analysis, the estimated survival rate was 93.7% for patients on Tasigna and 91.7% for patients on imatinib.
 
-## 14.2 Adult Patients with Resistant or Intolerant Ph+ CML-CP and CML-AP
+## 14.2 Adult Patients With Resistant or Intolerant Ph+ CML-CP and CML-AP
 
 Study CAMN107A2101 (referred to as Study A2101) (NCT00109707) was a single-arm, open-label, multicenter study conducted to evaluate the efficacy and safety of Tasigna (400 mg twice daily) in patients with imatinib-resistant or -intolerant CML with separate cohorts for chronic and accelerated phase disease.
 The definition of imatinib resistance included failure to achieve a complete hematologic response (by 3 months), cytogenetic response (by 6 months) or major cytogenetic response (by 12 months) or progression of disease after a previous cytogenetic or hematologic response.
@@ -70,7 +70,7 @@ Table 13: Efficacy of Tasigna in Adult Resistant or Intolerant Ph+ CML-CP and CM
 | Hematologic Response Rate (Confirmed) (95% CI)b | 39% (31%–48%) |
 | Complete Hematologic Response Rate (95% CI) | 30% (22%–38%) |
 | No Evidence of Leukemia (95% CI) | 9% (5%–16%) |
-| aCytogenetic response criteria: Complete (0% Ph + metaphases) or partial (1% to 35%). Cytogenetic responses were based on the percentage of Ph-positive metaphases among greater than or equal to 20 metaphase cells in each bone marrow sample. bHematologic response = CHR + NEL (all responses confirmed after 4 weeks). |  |
+| aCytogenetic response criteria: Complete (0% Ph+ metaphases) or partial (1% to 35%). Cytogenetic responses were based on the percentage of Ph-positive metaphases among greater than or equal to 20 metaphase cells in each bone marrow sample. bHematologic response = CHR + NEL (all responses confirmed after 4 weeks). |  |
 
 CHR (CML-CP): WBC less than 10 x 109/L, platelets less than 450,000/mm3, no blasts or promyelocytes in peripheral blood, less than 5% myelocytes + metamyelocytes in bone marrow, less than 20% basophils in peripheral blood, and no extramedullary involvement.
 
@@ -81,7 +81,7 @@ NEL: same criteria as for CHR but neutrophils greater than or equal to 1.0 x 109
 Adult Patients with Chronic Phase
 
 The MCyR rate in 321 CML-CP patients was 51%.
-The median time to MCyR among responders was 2.8 months (range 1 to 28 months).
+The median time to MCyR among responders was 2.8 months (range, 1 to 28 months).
 The median duration of MCyR cannot be estimated.
 The median duration of exposure on this single arm-trial was 18.4 months.
 Among the CML-CP patients who achieved MCyR, 62% of them had MCyR lasting more than 18 months.
@@ -90,16 +90,16 @@ The CCyR rate was 37%.
 Adult Patients with Accelerated Phase
 
 The overall confirmed hematologic response rate in 137 patients with CML-AP was 39%.
-The median time to first hematologic response among responders was 1 month (range 1 to 14 months).
+The median time to first hematologic response among responders was 1 month (range, 1 to 14 months).
 Among the CML-AP patients who achieved HR, 44% of them had a response lasting for more than 18 months.
 
 After imatinib failure, 24 different BCR-ABL mutations were noted in 42% of chronic phase and 54% of accelerated phase CML patients who were evaluated for mutations.
 
-## 14.3 Treatment Discontinuation in Newly Diagnosed Ph+ CML-CP Patients who have Achieved a Sustained Molecular Response (MR4.5)
+## 14.3 Treatment Discontinuation in Newly Diagnosed Ph+ CML-CP Patients Who have Achieved a Sustained Molecular Response (MR4.5)
 
 The ENESTfreedom (Evaluating Nilotinib Efficacy and Safety in clinical Trials-freedom) study (NCT01784068) is an open-label, multicenter, single-arm study, where 215 adult patients with Ph+ CML-CP treated with Tasigna in first-line for ≥ 2 years who achieved MR4.5 as measured with the MolecularMD MRDx® BCR-ABL Test were enrolled to continue Tasigna treatment for an additional 52 weeks (Tasigna consolidation phase).
 
-Of the 215 patients, 190 patients (88.4%) entered the “Treatment-free Remission” (TFR) phase after achieving a sustained molecular response (MR4.5) during the consolidation phase, defined by the following criteria:
+Of the 215 patients, 190 patients (88.4%) entered the “Treatment-Free Remission” (TFR) phase after achieving a sustained molecular response (MR4.5) during the consolidation phase, defined by the following criteria:
 
 - The 4 last quarterly assessments (taken every 12 weeks) were at least MR4 (BCR-ABL/ABL ≤ 0.01% IS), and maintained for 1 year
 - The last assessment being MR4.5 (BCR-ABL/ABL ≤ 0.0032% IS)
@@ -136,13 +136,13 @@ Table 14: Efficacy Results for ENESTfreedom
 
 Among the 190 patients in the TFR phase, 98 patients had a treatment-free survival (TFS) event (defined as discontinuation from TFR phase due to any reason, loss of MMR, death due to any cause, progression to AP/BC up to the end of TFR phase, or reinitiation of treatment due to any cause in the study) by the 96-week cut-off date.
 
-Figure 14-1 Kaplan-Meier estimate of Treatment-free Survival After Start of TFR (Full Analysis Set ENESTfreedom)
+Figure 14-1 Kaplan-Meier estimate of Treatment-Free Survival After Start of TFR (Full Analysis Set ENESTfreedom)
 
 1. For a given time point, the points on the dashed curves represent the 95% confidence limits for the associated KM estimate on the solid curve.
-2. By the time of the 96-week data cut-off date, one single patient lost MMR at week 120, at the time when only 8 patients were considered at risk.
+2. By the time of the 96-week data cut-off date, one single patient lost MMR at Week 120, at the time when only 8 patients were considered at risk.
    This explains the artificial drop at the end of the curve.
 
-## 14.4 Treatment Discontinuation in Ph+ CML-CP Patients who have Achieved a Sustained Molecular Response (MR4.5) on Tasigna Following Prior imatinib Therapy
+## 14.4 Treatment Discontinuation in Ph+ CML-CP Patients Who Have Achieved a Sustained Molecular Response (MR4.5) on Tasigna Following Prior Imatinib Therapy
 
 The ENESTop (Evaluating Nilotinib Efficacy and Safety in clinical Trials-STop) study (NCT01698905) is an open-label, multicenter, single-arm study, where 163 adult patients with Ph+ CML-CP taking tyrosine kinase inhibitors (TKIs) for ≥ 3 years (imatinib as initial TKI therapy for more than 4 weeks without documented MR4.5 on imatinib at the time of switch to Tasigna, then switched to Tasigna for at least 2 years), and who achieved MR4.5 on Tasigna treatment as measured with the MolecularMD MRDx® BCR-ABL Test were enrolled to continue Tasigna treatment for an additional 52 weeks (Tasigna consolidation phase).
 Of the 163 patients, 126 patients (77.3%) entered the TFR phase after achieving a sustained molecular response (MR4.5) during the consolidation phase, defined by the following criterion:
@@ -179,21 +179,21 @@ Figure 14-2 Kaplan-Meier Estimate of Treatment-Free Survival after Start of TFR 
 
 1. For a given time point, the points on the dashed curves represent the 95% confidence limits for the associated KM estimate on the solid curve.
 
-## 14.5 Pediatric Patients with Newly Diagnosed Ph+ CML-CP or Resistant or Intolerant Ph+ CML-CP
+## 14.5 Pediatric Patients With Newly Diagnosed Ph+ CML-CP or Resistant or Intolerant Ph+ CML-CP
 
 The safety and efficacy of Tasigna in pediatric patients with Ph+ CML-CP have been investigated in two studies: Study CAMN107A2120 (NCT01077544), an open-label, single-arm, multi-center study that evaluated the pharmacokinetics, safety, and preliminary efficacy of Tasigna in pediatric patients with Ph+ CML resistant or intolerant to imatinib or dasatinib (n = 11), and Study CAMN107A2203 (NCT01844765), an open-label, single-arm, multi-center study evaluating the efficacy and safety of Tasigna in pediatric patients with Ph+ CML-CP resistant or intolerant to imatinib or dasatinib (n = 33) and newly diagnosed Ph+ CML-CP (n = 25).
 In both studies, patients received Tasigna treatment at a dose of 230 mg/m2 twice daily, rounded to the nearest 50 mg dose (to a maximum single dose of 400 mg).
 Data was pooled from a total of 69 pediatric patients (from 2 to less than 18 years of age) with either newly diagnosed Ph+ CML-CP (n = 25; 6 children from 2 to less than 12 years and 19 adolescents from 12 to less than 18 years) or imatinib/dasatinib resistant or intolerant Ph+ CML-CP (n = 44; 18 children from 2 to less than 12 years and 26 adolescents from 12 to less than 18 years).
 
-The median time on treatment with Tasigna was 13.80 months (range: 0.7 to 30.9 months).
+The median time on treatment with Tasigna was 13.80 months (range, 0.7 to 30.9 months).
 
 In patients with resistant or intolerant CML, the major molecular response [(MMR); BCR-ABL/ABL ≤ 0.1% IS] rate was 40.9% (18/44, 95% CI: 26.3%, 56.8%) at 12 cycles (28 days per cycle).
 In patients with newly diagnosed CML, the MMR rate was 60.0% (15/25, 95% CI: 38.7%, 78.9%) at 12 cycles.
 In patients with resistant or intolerant CML, the cumulative MMR rate was 47.7% (21/44) by cycle 12.
 In patients with newly diagnosed CML, the cumulative MMR rate was 64.0% (16/25) by cycle 12.
 
-Among the 21 patients with resistant or intolerant CML who were in MMR at any time on treatment, the median time to first MMR was 2.8 months (range: 0.0 to 11.3).
-For the 17 patients with newly diagnosed CML who achieved MMR, the median time to first MMR was 5.6 months (range: 2.7 to 16.6).
+Among the 21 patients with resistant or intolerant CML who were in MMR at any time on treatment, the median time to first MMR was 2.8 months (range, 0.0 to 11.3).
+For the 17 patients with newly diagnosed CML who achieved MMR, the median time to first MMR was 5.6 months (range, 2.7 to 16.6).
 
 Among patients with resistant or intolerant CML, 4.5% of patients achieved BCR-ABL/ABL ≤ 0.0032% IS (MR4.5) by the cut-off date.
 Among patients with newly diagnosed CML, the percentage of patients who achieved MR4.5 was 28.0%.

@@ -7,7 +7,7 @@ Risk Summary
 Based on findings from animal studies and the mechanism of action, Tasigna can cause fetal harm when administered to a pregnant woman [see Clinical Pharmacology (12.1)].
 
 There are no available data in pregnant women to inform the drug-associated risk.
-In animal reproduction studies, administration of nilotinib to pregnant rats and rabbits during organogenesis caused adverse developmental outcomes including embryo-fetal lethality, fetal effects, and fetal variations in rats and rabbits at maternal exposures (AUC) approximately 2 and 0.5 times, respectively, the exposures in patients at the recommended dose (see Data).
+In animal reproduction studies, administration of nilotinib to pregnant rats and rabbits during organogenesis caused adverse developmental outcomes, including embryo-fetal lethality, fetal effects, and fetal variations in rats and rabbits at maternal exposures (AUC) approximately 2 and 0.5 times, respectively, the exposures in patients at the recommended dose (see Data).
 Advise pregnant women of the potential risk to a fetus.
 
 The background risk of major birth defects and miscarriage for the indicated population is unknown.
@@ -81,7 +81,7 @@ All pediatric patients received Tasigna treatment at a dose of 230 mg/m2 twice d
 No differences in efficacy or safety were observed between the different age subgroups in the two trials.
 
 The frequency, type, and severity of adverse reactions observed were generally consistent with those observed in adults, with the exception of the laboratory abnormalities of hyperbilirubinemia (Grade 3/4: 13%) and transaminase elevation (AST Grade 3/4: 1%, ALT Grade 3/4: 9%), which were reported at a higher frequency in pediatric patients than in adults [see Adverse Reactions (6.1)].
-For pediatric growth and development, growth retardation has been reported in pediatric patients with Ph+ CML-CP treated with Tasigna [see Warnings and Precautions (5.14), and Adverse Reactions (6.1)].
+For pediatric growth and development, growth retardation has been reported in pediatric patients with Ph+ CML-CP treated with Tasigna [see Warnings and Precautions (5.14), Adverse Reactions (6.1)].
 
 The long-term effects of prolonged treatment with Tasigna in pediatric patients are unknown.
 
@@ -102,4 +102,4 @@ Caution should be exercised in patients with relevant cardiac disorders [see Box
 
 ## 8.7 Hepatic Impairment
 
-Reduce the Tasigna dosage in patients with hepatic impairment and monitor the QT interval closely in these patients [see Dosage and Administration (2.7), and Clinical Pharmacology (12.3)].
+Reduce the Tasigna dosage in patients with hepatic impairment and monitor the QT interval closely in these patients [see Dosage and Administration (2.7), Clinical Pharmacology (12.3)].

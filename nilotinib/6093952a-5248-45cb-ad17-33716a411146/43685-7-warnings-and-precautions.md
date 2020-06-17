@@ -29,7 +29,7 @@ The relative early occurrence of some of these deaths relative to the initiation
 
 Cardiovascular events, including arterial vascular occlusive events, were reported in a randomized, clinical trial in newly diagnosed CML patients and observed in the postmarketing reports of patients receiving Tasigna therapy.
 With a median time on therapy of 60 months in the clinical trial, cardiovascular events, including arterial vascular occlusive events, occurred in 9.3% and 15.2% of patients in the Tasigna 300 and 400 mg twice daily arms, respectively, and in 3.2% in the imatinib arm.
-These included cases of cardiovascular events including ischemic heart disease-related cardiac events (5.0% and 9.4% in the Tasigna 300 mg and 400 mg twice daily arms respectively, and 2.5% in the imatinib arm), peripheral arterial occlusive disease (3.6% and 2.9% in the Tasigna 300 mg and 400 mg twice daily arms respectively, and 0% in the imatinib arm), and ischemic cerebrovascular events (1.4% and 3.2% in the Tasigna 300 mg and 400 mg twice daily arms respectively, and 0.7% in the imatinib arm).
+These included cases of cardiovascular events, including ischemic heart disease-related cardiac events (5.0% and 9.4% in the Tasigna 300 mg and 400 mg twice daily arms respectively, and 2.5% in the imatinib arm), peripheral arterial occlusive disease (3.6% and 2.9% in the Tasigna 300 mg and 400 mg twice daily arms, respectively and 0% in the imatinib arm), and ischemic cerebrovascular events (1.4% and 3.2% in the Tasigna 300 mg and 400 mg twice daily arms, respectively and 0.7% in the imatinib arm).
 If acute signs or symptoms of cardiovascular events occur, advise patients to seek immediate medical attention.
 The cardiovascular status of patients should be evaluated and cardiovascular risk factors should be monitored and actively managed during Tasigna therapy according to standard guidelines [see Dosage and Administration (2.4)].
 
@@ -103,16 +103,16 @@ Monitor growth and development in pediatric patients receiving Tasigna treatment
 ## 5.15 Embryo-Fetal Toxicity
 
 Based on findings from animal studies and its mechanism of action, Tasigna can cause fetal harm when administered to a pregnant woman.
-In animal reproduction studies, administration of nilotinib to pregnant rats and rabbits during organogenesis caused adverse developmental outcomes including embryo-fetal lethality/fetal effects (small renal papilla, fetal edema, and skeletal variations) in rats and increased resorptions of fetuses and fetal skeletal variations in rabbits at maternal area under the curve (AUCs) approximately 2 and 0.5 times, respectively, the AUC in patients receiving the recommended dose.
+In animal reproduction studies, administration of nilotinib to pregnant rats and rabbits during organogenesis caused adverse developmental outcomes, including embryo-fetal lethality/fetal effects (small renal papilla, fetal edema, and skeletal variations) in rats and increased resorptions of fetuses and fetal skeletal variations in rabbits at maternal area under the curve (AUCs) approximately 2 and 0.5 times, respectively, the AUC in patients receiving the recommended dose.
 Advise pregnant women of the potential risk to a fetus.
-Advise females of reproductive potential to use effective contraception during treatment and for at least 14 days after the last dose [see Use in Specific Populations (8.1, 8.3), and Clinical Pharmacology (12.1)].
+Advise females of reproductive potential to use effective contraception during treatment and for at least 14 days after the last dose [see Use in Specific Populations (8.1, 8.3), Clinical Pharmacology (12.1)].
 
 ## 5.16 Monitoring of BCR-ABL Transcript Levels
 
 Monitoring of BCR-ABL Transcript Levels in Patients who Discontinued Tasigna
 
 Monitor BCR-ABL transcript levels in patients eligible for treatment discontinuation using an FDA authorized test validated to measure molecular response levels with a sensitivity of at least MR4.5 (BCR-ABL/ABL ≤ 0.0032% IS).
-In patients who discontinue Tasigna therapy, assess BCR-ABL transcript levels monthly for one year, then every 6 weeks for the second year, and every 12 weeks thereafter during treatment discontinuation [see Clinical Studies (14.3,14.4), and Dosage and Administration (2.2)].
+In patients who discontinue Tasigna therapy, assess BCR-ABL transcript levels monthly for one year, then every 6 weeks for the second year, and every 12 weeks thereafter during treatment discontinuation [see Clinical Studies (14.3,14.4), Dosage and Administration (2.2)].
 
 Newly diagnosed patients must reinitiate Tasigna therapy within 4 weeks of a loss of major molecular response [(MMR), corresponding to MR3.0 or = BCR-ABL/ABL ≤ 0.1% IS].
 

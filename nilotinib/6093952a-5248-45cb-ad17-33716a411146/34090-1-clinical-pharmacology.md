@@ -18,13 +18,13 @@ Cardiac Electrophysiology
 Tasigna is associated with concentration-dependent QT prolongation.
 At a dose of Tasigna 400 mg twice daily given without food in healthy subjects, the maximum mean placebo-adjusted QTcF changes were 10.4 msec (90% CI: 2.85, 18.0).
 After a single dose of Tasigna 800 mg (two times the maximum approved recommended dosage) given with a high fat meal to healthy subjects, the maximum mean placebo-adjusted QTcF changes were) 18.0 msec (90% CI: 9.65, 25.8).
-Peak plasma concentrations in the QT study were 26% lower than or comparable with those observed in patients enrolled in the single-arm study [see Boxed Warning, Warnings and Precautions (5.2), and Adverse Reactions (6.1)].
+Peak plasma concentrations in the QT study were 26% lower than or comparable with those observed in patients enrolled in the single-arm study [see Boxed Warning, Warnings and Precautions (5.2), Adverse Reactions (6.1)].
 
 ## 12.3 Pharmacokinetics
 
 Steady-state nilotinib exposure was dose-dependent with less than dose-proportional increases in systemic exposure at dose levels higher than 400 mg given as once or twice daily dosing.
-In adult patients with resistant or intolerant Ph+ CML given Tasigna 400 mg twice daily, the steady-state mean (%CV) Cmax and AUC0-12h were 2260 ng/ml (35%) and 18000 ng∙h/ml (33%), respectively.
-In adult patients with newly diagnosed Ph+ CML given Tasigna 300 mg twice daily, the steady-state mean (%CV) Cmax and AUC0-12h were 1540 ng/ml (48%) and 13337 ng∙h/ml (46%), respectively.
+In adult patients with resistant or intolerant Ph+ CML given Tasigna 400 mg twice daily, the steady-state mean (% CV) Cmax and AUC0-12h were 2260 ng/mL (35%) and 18000 ng∙h/mL (33%), respectively.
+In adult patients with newly diagnosed Ph+ CML given Tasigna 300 mg twice daily, the steady-state mean (% CV) Cmax and AUC0-12h were 1540 ng/mL (48%) and 13337 ng∙h/mL (46%), respectively.
 
 Steady state conditions were achieved by Day 8.
 An increase in serum exposure to nilotinib between the first dose and steady state was approximately 2-fold for daily dosing and 3.8-fold for twice daily dosing.

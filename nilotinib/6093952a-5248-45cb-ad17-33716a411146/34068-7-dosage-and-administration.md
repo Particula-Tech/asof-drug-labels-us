@@ -9,7 +9,7 @@ Advise patients to swallow the capsules whole with water [see Boxed Warning, Cli
 For patients who are unable to swallow capsules, the contents of each capsule may be dispersed in 1 teaspoon of applesauce (puréed apple).
 The mixture should be taken immediately (within 15 minutes) and should not be stored for future use [see Clinical Pharmacology (12.3)].
 
-Tasigna may be given in combination with hematopoietic growth factors such as erythropoietin or G-CSF if clinically indicated.
+Tasigna may be given in combination with hematopoietic growth factors, such as erythropoietin or G-CSF if clinically indicated.
 Tasigna may be given with hydroxyurea or anagrelide if clinically indicated.
 
 Dosage in Adult Patients with Newly Diagnosed Ph+ CML-CP
@@ -45,10 +45,10 @@ Patient Selection
 
 Eligibility for Discontinuation of Treatment
 
-Ph+ CML-CP patients with typical BCR-ABL transcripts who have been taking Tasigna for a minimum of 3 years and have achieved a sustained molecular response (MR4.5, corresponding to = BCR-ABL/ABL ≤ 0.0032% IS) may be eligible for treatment discontinuation [see Clinical Studies (14.3, 14.4)].
+Ph+ CML-CP patients with typical BCR-ABL transcripts, who have been taking Tasigna for a minimum of 3 years and have achieved a sustained molecular response (MR4.5, corresponding to = BCR-ABL/ABL ≤ 0.0032% IS), may be eligible for treatment discontinuation [see Clinical Studies (14.3, 14.4)].
 Information on FDA authorized tests for the detection and quantitation of BCR-ABL transcripts to determine eligibility for treatment discontinuation is available at http://www.fda.gov/CompanionDiagnostics.
 
-Patients with typical BCR-ABL transcripts (e13a2/b2a2 or e14a2/b3a2) who achieve the sustained MR4.5 criteria are eligible for discontinuation of Tasigna treatment.
+Patients with typical BCR-ABL transcripts (e13a2/b2a2 or e14a2/b3a2), who achieve the sustained MR4.5 criteria, are eligible for discontinuation of Tasigna treatment.
 Patients must continue to be monitored for possible loss of molecular remission after treatment discontinuation.
 Use the same FDA authorized test to consistently monitor molecular response levels while on and off treatment.
 
@@ -87,7 +87,7 @@ Monitor BCR-ABL transcript levels and complete blood count (CBC) with differenti
 Upon the loss of MR4.0 (corresponding to = BCR-ABL/ABL ≤ 0.01% IS) during the treatment-free phase, monitor BCR-ABL transcript levels every 2 weeks until BCR-ABL levels remain lower than major molecular response [(MMR), corresponding to MR3.0 or = BCR-ABL/ABL ≤ 0.1% IS] for 4 consecutive measurements.
 The patient can then proceed to the original monitoring schedule.
 
-## 2.3 Reinitiation of Treatment in Patients who Lose Molecular Response After Discontinuation of Therapy With Tasigna
+## 2.3 Reinitiation of Treatment in Patients Who Lose Molecular Response After Discontinuation of Therapy With Tasigna
 
 ● Newly diagnosed patients who lose MMR must reinitiate treatment within 4 weeks at the dose level prior to discontinuation of therapy [see Warnings and Precautions (5.16)].
 Patients who reinitiate Tasigna therapy should have their BCR-ABL transcript levels monitored monthly until major molecular response is re-established and every 12 weeks thereafter.
@@ -99,7 +99,7 @@ Patients who reinitiate Tasigna therapy should have their BCR-ABL transcript lev
 
 See Table 2 for dose adjustments for QT interval prolongation [see Clinical Pharmacology (12.2)].
 
-Table 2: Dose Adjustments for Adult and Pediatric Patients with QT Prolongation
+Table 2: Dose Adjustments for Adult and Pediatric Patients With QT Prolongation
 
 | Degree of QTc Prolongation | Dose Adjustment |
 | --- | --- |
@@ -114,8 +114,8 @@ Table 3: Dose Adjustments for Neutropenia and Thrombocytopenia
 
 | Diagnosis | Degree of Myelosuppression | Dose Adjustment |
 | --- | --- | --- |
-| Adult patients with: - Newly diagnosed Ph+ CML in chronic phase at 300 mg twice daily - Resistant or intolerant Ph+ CML in chronic phase or accelerated phase at 400 mg twice daily | ANC* less than 1.0 x 109/L and/or platelet counts less than 50 x 109/L | 1. Stop Tasigna, and monitor blood counts 2. Resume within 2 weeks at prior dose if ANC greater than 1.0 x 109/L and platelets greater than 50 x 109/L 3. If blood counts remain low for greater than 2 weeks, reduce the dose to 400 mg once daily |
-| Pediatric patients with: - Newly diagnosed Ph+ CML in chronic phase at 230 mg/m2 twice daily - Resistant or intolerant Ph+ CML in chronic phase at 230 mg/m2 twice daily | ANC* less than 1.0 x 109/L and/or platelet counts less than 50 x 109/L | 1. Stop Tasigna and monitor blood counts 2. Resume within 2 weeks at prior dose if ANC greater than 1.5 x 109/L and/or platelets greater than 75 x 109/L 3. If blood counts remain low for greater than 2 weeks, a dose reduction to 230 mg/m2 once daily may be required 4. If event occurs after dose reduction, consider discontinuing treatment |
+| Adult patients with: Newly diagnosed Ph+ CML in chronic phase at 300 mg twice dailyResistant or intolerant Ph+ CML in chronic phase or accelerated phase at 400 mg twice daily | ANC* less than 1.0 x 109/L and/or platelet counts less than 50 x 109/L | 1. Stop Tasigna, and monitor blood counts. 2. Resume within 2 weeks at prior dose if ANC greater than 1.0 x 109/L and platelets greater than 50 x 109/L. 3. If blood counts remain low for greater than 2 weeks, reduce the dose to 400 mg once daily. |
+| Pediatric patients with: Newly diagnosed Ph+ CML in chronic phase at 230 mg/m2 twice dailyResistant or intolerant Ph+ CML in chronic phase at 230 mg/m2 twice daily | ANC* less than 1.0 x 109/L and/or platelet counts less than 50 x 109/L | 1. Stop Tasigna and monitor blood counts. 2. Resume within 2 weeks at prior dose if ANC greater than 1.5 x 109/L and/or platelets greater than 75 x 109/L. 3. If blood counts remain low for greater than 2 weeks, a dose reduction to 230 mg/m2 once daily may be required. 4. If event occurs after dose reduction, consider discontinuing treatment. |
 | *ANC = absolute neutrophil count. |  |  |
 
 See Table 4 for dose adjustments for elevations of lipase, amylase, bilirubin, and/or hepatic transaminases [see Adverse Reactions (6.1)].
@@ -124,12 +124,12 @@ Table 4: Dose Adjustments for Selected Non-Hematologic Laboratory Abnormalities
 
 | Degree of Non-Hematologic Laboratory Abnormalities | Dose Adjustment |
 | --- | --- |
-| Elevated serum lipase or amylase greater than or equal to Grade 3 | Adult patients: 1. Withhold Tasigna, and monitor serum lipase or amylase 2. Resume treatment at 400 mg once daily if serum lipase or amylase returns to less than or equal to Grade 1 |
-|  | Pediatric patients: 1. Interrupt Tasigna until the event returns to less than or equal to Grade 1 2. Resume treatment at 230 mg/m2 once daily if prior dose was 230 mg/m2 twice daily; discontinue treatment if prior dose was 230 mg/m2 once daily |
-| Elevated bilirubin greater than or equal to Grade 3 in adult patients and greater than or equal to Grade 2 in pediatric patients | Adult patients: 1. Withhold Tasigna, and monitor bilirubin 2. Resume treatment at 400 mg once daily if bilirubin returns to less than or equal to Grade 1 |
-| Pediatric patients: 1. Interrupt Tasigna until the event returns to less than or equal to Grade 1 2. Resume treatment at 230 mg/m2 once daily if prior dose was 230 mg/m2 twice daily; discontinue treatment if prior dose was 230 mg/m2 once daily, and recovery to less than or equal to Grade 1 takes longer than 28 days |  |
-| Elevated hepatic transaminases greater than or equal to Grade 3 | Adult patients: 1. Withhold Tasigna, and monitor hepatic transaminases 2. Resume treatment at 400 mg once daily if hepatic transaminases returns to less than or equal to Grade 1 |
-|  | Pediatric patients: 1. Interrupt Tasigna until the event returns to less than or equal to Grade 1 2. Resume treatment at 230 mg/m2 once daily if prior dose was 230 mg/m2 twice daily; discontinue treatment if prior dose was 230 mg/m2 once daily, and recovery to less than or equal to Grade 1 takes longer than 28 days |
+| Elevated serum lipase or amylase greater than or equal to Grade 3 | Adult patients: 1. Withhold Tasigna, and monitor serum lipase or amylase. 2. Resume treatment at 400 mg once daily if serum lipase or amylase returns to less than or equal to Grade 1. |
+|  | Pediatric patients: 1. Interrupt Tasigna until the event returns to less than or equal to Grade 1. 2. Resume treatment at 230 mg/m2 once daily if prior dose was 230 mg/m2 twice daily; discontinue treatment if prior dose was 230 mg/m2 once daily. |
+| Elevated bilirubin greater than or equal to Grade 3 in adult patients and greater than or equal to Grade 2 in pediatric patients | Adult patients: 1. Withhold Tasigna, and monitor bilirubin. 2. Resume treatment at 400 mg once daily if bilirubin returns to less than or equal to Grade 1. |
+| Pediatric patients: 1. Interrupt Tasigna until the event returns to less than or equal to Grade 1. 2. Resume treatment at 230 mg/m2 once daily if prior dose was 230 mg/m2 twice daily; discontinue treatment if prior dose was 230 mg/m2 once daily, and recovery to less than or equal to Grade 1 takes longer than 28 days. |  |
+| Elevated hepatic transaminases greater than or equal to Grade 3 | Adult patients: 1. Withhold Tasigna, and monitor hepatic transaminases. 2. Resume treatment at 400 mg once daily if hepatic transaminases returns to less than or equal to Grade 1. |
+|  | Pediatric patients: 1. Interrupt Tasigna until the event returns to less than or equal to Grade 1. 2. Resume treatment at 230 mg/m2 once daily if prior dose was 230 mg/m2 twice daily; discontinue treatment if prior dose was 230 mg/m2 once daily, and recovery to less than or equal to Grade 1 takes longer than 28 days. |
 
 ## 2.6 Dosage Modification for Other Non-Hematologic Toxicities
 
@@ -147,7 +147,7 @@ Table 5: Dose Adjustments for Other Non-hematologic Laboratory Abnormalities
 If possible, consider alternative therapies.
 If Tasigna must be administered to patients with hepatic impairment, consider the following dose reduction:
 
-Table 6: Dose Adjustments for Adult Patients with Hepatic Impairment
+Table 6: Dose Adjustments for Adult Patients With Hepatic Impairment
 
 | Diagnosis | Degree of Hepatic Impairment | Dosage Adjustment |
 | --- | --- | --- |
@@ -156,11 +156,11 @@ Table 6: Dose Adjustments for Adult Patients with Hepatic Impairment
 |  | Severe | Reduce dosage to 200 mg twice daily. Increase dosage to 300 mg twice daily and then to 400 mg twice daily based on tolerability. |
 | [see Use in Specific Populations (8.7)]. |  |  |
 
-## 2.8 Dosage Modification with Concomitant Strong CYP3A4 Inhibitors
+## 2.8 Dosage Modification With Concomitant Strong CYP3A4 Inhibitors
 
 Avoid the concomitant use of strong CYP3A4 inhibitors.
 Should treatment with any of these agents be required, interrupt therapy with Tasigna.
 If patients must be coadministered a strong CYP3A4 inhibitor, reduce dosage to 300 mg once daily in patients with resistant or intolerant Ph+ CML or to 200 mg once daily in patients with newly diagnosed Ph+ CML-CP.
 However, there are no clinical data with this dose adjustment in patients receiving strong CYP3A4 inhibitors.
 If the strong inhibitor is discontinued, allow a washout period before adjusting Tasigna dose upward to the indicated dose.
-For patients who cannot avoid use of strong CYP3A4 inhibitors, monitor closely for prolongation of the QT interval [see Boxed Warning, Warnings and Precautions (5.2), Drug Interactions (7.1, 7.2), and Clinical Pharmacology (12.3)].
+For patients who cannot avoid use of strong CYP3A4 inhibitors, monitor closely for prolongation of the QT interval [see Boxed Warning, Warnings and Precautions (5.2), Drug Interactions (7.1, 7.2), Clinical Pharmacology (12.3)].

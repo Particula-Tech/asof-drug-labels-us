@@ -19,7 +19,7 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 In Adult Patients with Newly Diagnosed Ph+ CML-CP
 
 The data below reflect exposure to Tasigna from a randomized trial in patients with newly diagnosed Ph+ CML in chronic phase treated at the recommended dose of 300 mg twice daily (n = 279).
-The median time on treatment in the Tasigna 300 mg twice daily group was 61 months (range 0.1 to 71 months).
+The median time on treatment in the Tasigna 300 mg twice daily group was 61 months (range, 0.1 to 71 months).
 The median actual dose intensity was 593 mg/day in the Tasigna 300 mg twice daily group.
 
 The most common (greater than 10%) non-hematologic adverse drug reactions were rash, pruritus, headache, nausea, fatigue, alopecia, myalgia, and upper abdominal pain.
@@ -28,19 +28,19 @@ Constipation, diarrhea, dry skin, muscle spasms, arthralgia, abdominal pain, per
 Increase in QTcF greater than 60 msec from baseline was observed in 1 patient (0.4%) in the 300 mg twice daily treatment group.
 No patient had an absolute QTcF of greater than 500 msec while on study drug.
 
-The most common hematologic adverse drug reactions (all Grades) were myelosuppression including: thrombocytopenia (18%), neutropenia (15%), and anemia (8%).
+The most common hematologic adverse drug reactions (all Grades) were myelosuppression, including: thrombocytopenia (18%), neutropenia (15%), and anemia (8%).
 See Table 9 for Grade 3/4 laboratory abnormalities.
 
 Discontinuation due to adverse reactions, regardless of relationship to study drug, was observed in 10% of patients.
 
 In Adult Patients with Resistant or Intolerant Ph+ CML-CP and CML-AP
 
-In the single-arm, open-label multicenter clinical trial, a total of 458 patients with Ph+ CML-CP and CML-AP resistant to or intolerant to at least one prior therapy including imatinib were treated (CML-CP = 321; CML-AP = 137) at the recommended dose of 400 mg twice daily.
+In the single-arm, open-label multicenter clinical trial, a total of 458 patients with Ph+ CML-CP and CML-AP resistant to or intolerant to at least one prior therapy, including imatinib were treated (CML-CP = 321; CML-AP = 137) at the recommended dose of 400 mg twice daily.
 
-The median duration of exposure in days for CML-CP and CML-AP patients is 561 (range 1 to 1096) and 264 (range 2 to 1160), respectively.
-The median dose intensity for patients with CML-CP and CML-AP is 789 mg/day (range 151 to 1110) and 780 mg/day (range 150 to 1149), respectively and corresponded to the planned 400 mg twice daily dosing.
+The median duration of exposure in days for CML-CP and CML-AP patients is 561 (range, 1 to 1096) and 264 (range 2 to 1160), respectively.
+The median dose intensity for patients with CML-CP and CML-AP is 789 mg/day (range, 151 to 1110) and 780 mg/day (range, 150 to 1149), respectively and corresponded to the planned 400 mg twice daily dosing.
 
-The median cumulative duration in days of dose interruptions for the CML-CP patients was 20 (range 1 to 345), and the median duration in days of dose interruptions for the CML-AP patients was 23 (range 1 to 234).
+The median cumulative duration in days of dose interruptions for the CML-CP patients was 20 (range, 1 to 345), and the median duration in days of dose interruptions for the CML-AP patients was 23 (range, 1 to 234).
 
 In patients with CML-CP, the most commonly reported non-hematologic adverse drug reactions (greater than or equal to 10%) were rash, pruritus, nausea, fatigue, headache, constipation, diarrhea, vomiting, and myalgia.
 The common serious drug-related adverse reactions (greater than or equal to 1% and less than 10%) were thrombocytopenia, neutropenia, and anemia.
@@ -59,11 +59,11 @@ Most Frequently Reported Adverse Reactions
 Tables 7 and 8 show the percentage of adult patients experiencing non-hematologic adverse reactions (excluding laboratory abnormalities) regardless of relationship to study drug.
 Adverse reactions reported in greater than 10% of adult patients who received at least 1 dose of Tasigna are listed.
 
-Table 7: Most Frequently Reported Non-Hematologic Adverse Reactions (Regardless of Relationship to Study Drug) in Adult Patients with Newly Diagnosed Ph+ CML-CP (Greater than or equal to 10% in Tasigna 300 mg Twice Daily or Imatinib 400 mg Once Daily Groups) 60-Month Analysisa
+Table 7: Most Frequently Reported Non-Hematologic Adverse Reactions (Regardless of Relationship to Study Drug) in Adult Patients With Newly Diagnosed Ph+ CML-CP (greater than or equal to 10% in Tasigna 300 mg twice daily or imatinib 400 mg once daily groups) 60-Month Analysisa
 
 |  |  | Patients with Newly Diagnosed Ph+ CML-CP |  |  |  |
 | --- | --- | --- | --- | --- | --- |
-|  |  | Tasigna 300 mg twice daily | Imatinib 400 mg once daily | Tasigna 300 mg twice daily | Imatinib 400 mg once daily |
+|  |  | Tasigna 300 mg Twice Daily | imatinib 400 mg Once Daily | Tasigna 300 mg Twice Daily | imatinib 400 mg Once Daily |
 |  |  | N = 279 | N = 280 | N = 279 | N = 280 |
 | Body System and Adverse Reaction |  | All Grades (%) |  | CTC Gradesb 3/4 (%) |  |
 | Skin and subcutaneous tissue disorders | Rash | 38 | 19 | < 1 | 2 |
@@ -102,7 +102,7 @@ Table 7: Most Frequently Reported Non-Hematologic Adverse Reactions (Regardless 
 | Vascular disorder | Hypertension | 10 | 4 | 1 | < 1 |
 | aExcluding laboratory abnormalities. bNCI Common Terminology Criteria for Adverse Events, version 3.0. |  |  |  |  |  |
 
-Table 8: Most Frequently Reported Non-Hematologic Adverse Reactions in Adult Patients with Resistant or Intolerant Ph+ CML Receiving Tasigna 400 mg Twice Daily (Regardless of Relationship to Study Drug) (Greater than or equal to 10% in any Group) 24-Month Analysisa
+Table 8: Most Frequently Reported Non-Hematologic Adverse Reactions in Adult Patients With Resistant or Intolerant Ph+ CML Receiving Tasigna 400 mg Twice Daily (regardless of relationship to study drug) (greater than or equal to 10% in any group) 24-Month Analysisa
 
 | Body System and Adverse Reaction |  | CML-CP |  | CML-AP |  |
 | --- | --- | --- | --- | --- | --- |
@@ -151,7 +151,7 @@ Table 9: Percent Incidence of Clinically Relevant Grade 3/4* Laboratory Abnormal
 | --- | --- | --- | --- | --- |
 |  | Newly Diagnosed Adult Ph+ CML-CP |  | Resistant or Intolerant Adult Ph+ |  |
 |  |  |  | CML-CP | CML-AP |
-|  | Tasigna 300 mg twice daily N = 279 (%) | Imatinib 400 mg once daily N = 280 (%) | Tasigna 400 mg twice daily N = 321 (%) | Tasigna 400 mg twice daily N = 137 (%) |
+|  | Tasigna 300 mg Twice Daily N = 279 (%) | imatinib 400 mg Once Daily N = 280 (%) | Tasigna 400 mg Twice Daily N = 321 (%) | Tasigna 400 mg Twice Daily N = 137 (%) |
 | Hematologic Parameters |  |  |  |  |
 | Thrombocytopenia | 10 | 9 | 301 | 423 |
 | Neutropenia | 12 | 22 | 312 | 424 |
@@ -170,7 +170,7 @@ Table 9: Percent Incidence of Clinically Relevant Grade 3/4* Laboratory Abnormal
 | Hypocalcemia | < 1 | < 1 | 2 | 5 |
 | Elevated alkaline phosphatase | 0 | < 1 | < 1 | 1 |
 | Elevated creatinine | 0 | < 1 | < 1 | < 1 |
-| Abbreviations: ALT alanine aminotransferase; AST, aspartate aminotransferase (AST). *NCI Common Terminology Criteria for Adverse Events, version 3.0. 1CML-CP: Thrombocytopenia: 12% were Grade 3, 18% were Grade 4. 2CML-CP: Neutropenia: 16% were Grade 3, 15% were Grade 4. 3CML-AP: Thrombocytopenia: 11% were Grade 3, 32% were Grade 4. 4CML-AP: Neutropenia: 16% were Grade 3, 26% were Grade 4. |  |  |  |  |
+| Abbreviations: ALT alanine aminotransferase; AST, aspartate aminotransferase. *NCI Common Terminology Criteria for Adverse Events, version 3.0. 1CML-CP: Thrombocytopenia: 12% were Grade 3, 18% were Grade 4. 2CML-CP: Neutropenia: 16% were Grade 3, 15% were Grade 4. 3CML-AP: Thrombocytopenia: 11% were Grade 3, 32% were Grade 4. 4CML-AP: Neutropenia: 16% were Grade 3, 26% were Grade 4. |  |  |  |  |
 
 Elevated total cholesterol (all Grades) occurred in 28% (Tasigna 300 mg twice daily) and 4% (imatinib).
 Elevated triglycerides (all Grades) occurred in 12% and 8% of patients in the Tasigna and imatinib arms, respectively.
@@ -189,7 +189,7 @@ In the population previously treated with imatinib in whom musculoskeletal event
 The rate of musculoskeletal symptoms decreased in patients who entered the Tasigna treatment reinitiation (NTRI) phase, at 11/88 (12.5%) in the newly diagnosed population and 14/56 (25%) in the population previously treated with imatinib.
 Other adverse reactions observed in the Tasigna re-treatment phase were similar to those observed during Tasigna use in patients with newly diagnosed Ph+ CML-CP and resistant or intolerant Ph+ CML-CP and CML-AP.
 
-Table 10: Musculoskeletal Symptoms Occurring Upon Treatment Discontinuation in the Context of Treatment-free Remission (TFR)
+Table 10: Musculoskeletal Symptoms Occurring Upon Treatment Discontinuation in the Context of Treatment-Free Remission (TFR)
 
 |  | Entire TFR period in all TFR patients |  |  |  | By time interval, in subset of patients in TFR greater than 48 weeks |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -291,9 +291,11 @@ Common: hemoglobin decreased, blood amylase increased, gamma-glutamyltransferase
 Uncommon: blood lactate dehydrogenase increased, blood urea increased.
 Unknown frequency: troponin increased, blood bilirubin unconjugated increased, insulin C-peptide decreased, blood parathyroid hormone increased.
 
-In Pediatric Patients with Newly Diagnosed Ph+ CML-CP or Resistant or Intolerant Ph+ CML-CP The data below reflect exposure to Tasigna from two studies in pediatric patients from 2 to less than 18 years of age with either newly diagnosed Ph+ CML-CP or imatinib/dasatinib resistant or intolerant Ph+ CML-CP treated at the recommended dose of 230 mg/m2 twice daily (n = 69) [see Clinical Studies (14.5)].
-The median time on treatment with Tasigna was 13.8 months (range: 0.7 to 30.9 months).
-The median actual dose intensity was 435.5 mg/m2/day (range: 149 to 517 mg/m2/day), and the median relative dose intensity was 94.7% (range: 32 to 112%).
+In Pediatric Patients with Newly Diagnosed Ph+ CML-CP or Resistant or Intolerant Ph+ CML-CP
+
+The data below reflect exposure to Tasigna from two studies in pediatric patients from 2 to less than 18 years of age with either newly diagnosed Ph+ CML-CP or imatinib/dasatinib resistant or intolerant Ph+ CML-CP treated at the recommended dose of 230 mg/m2 twice daily (n = 69) [see Clinical Studies (14.5)].
+The median time on treatment with Tasigna was 13.8 months (range, 0.7 to 30.9 months).
+The median actual dose intensity was 435.5 mg/m2/day (range, 149 to 517 mg/m2/day), and the median relative dose intensity was 94.7% (range, 32 to 112%).
 Forty patients (58.0%) had relative dose intensity superior to 90%.
 
 In pediatric patients with Ph+ CML-CP, the most common (greater than 20%) non-hematologic adverse drug reactions were headache, rash, hyperbilirubinemia, alanine aminotransferase increased, pyrexia, nausea, upper respiratory tract infection, aspartate aminotransferase increased, and vomiting.

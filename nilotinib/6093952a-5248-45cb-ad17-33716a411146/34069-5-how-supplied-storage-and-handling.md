@@ -21,4 +21,4 @@ Carton of 4 blister packs of (4x28)………………………………………
 
 Blisters of 28 capsules………………………………………………………………NDC 0078-0526-51
 
-Tasigna (nilotinib) capsules should be stored at 25°C (77°F); excursions permitted between 15°C to 30°C (59°F to 86°F) [see USP Controlled Room Temperature].
+Tasigna (nilotinib) capsules should be stored at 20°C to 25°C (68°F to 77°F); excursions permitted between 15°C and 30°C (59°F and 86°F) [see USP Controlled Room Temperature].
