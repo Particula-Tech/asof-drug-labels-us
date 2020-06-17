@@ -2,8 +2,8 @@
 
 Efficacy of the oral formulations of ABILIFY (aripiprazole) was established in the following adequate and well-controlled trials:
 
-- Four short-term trials and one maintenance trial in adult patients and one short-term trial in adolescents (ages 13 to 17) with schizophrenia [see Clinical Studies (14.1)]
-- Four short-term monotherapy trials and one 6-week adjunctive trial in adult patients and one short-term monotherapy trial in pediatric patients (ages 10 to 17) with manic or mixed episodes [see Clinical Studies (14.2)]
+- Four short-term trials and one maintenance trial in adult patients and one short-term trial in adolescents (ages 13 to 17 years) with schizophrenia [see Clinical Studies (14.1)]
+- Four short-term monotherapy trials and one 6-week adjunctive trial in adult patients and one short-term monotherapy trial in pediatric patients (ages 10 to 17 years) with manic or mixed episodes [see Clinical Studies (14.2)]
 - One maintenance monotherapy trial and in one maintenance adjunctive trial in adult patients with bipolar I disorder [see Clinical Studies (14.2)]
 - Two short-term trials in adult patients with MDD who had an inadequate response to antidepressant therapy during the current episode [see Clinical Studies (14.3)]
 - Two short-term trials in pediatric patients (ages 6 to 17 years) for the treatment of irritability associated with autistic disorder [see Clinical Studies (14.4)]
@@ -56,7 +56,7 @@ Although maintenance efficacy in pediatric patients has not been systematically 
 
 Table 26: Schizophrenia Studies
 
-|  |  | Mean Baseline Score (SD) | LS Mean Change from Baseline (SE) | Placebo-subtracted Difference Difference (drug minus placebo) in least-squares mean change from baseline. (95% CI) |
+|  |  | Mean Baseline Score (SD) | LS Mean Change from Baseline (SE) | Placebo-subtracted DifferenceDifference (drug minus placebo) in least-squares mean change from baseline. (95% CI) |
 | --- | --- | --- | --- | --- |
 | Study Number | Treatment Group | Primary Efficacy Measure: PANSS |  |  |
 | Study 1 | ABILIFY(15 mg/day) Doses statistically significantly superior to placebo. | 98.5 (17.2) | -15.5 (2.40) | -12.6 (-18.9, -6.2) |
@@ -104,7 +104,7 @@ The efficacy of adjunctive ABILIFY with concomitant lithium or valproate in the 
 This study included patients with manic or mixed episodes and with or without psychotic features.
 
 Patients were initiated on open-label lithium (0.6 to 1.0 mEq/L) or valproate (50 to 125 μg/mL) at therapeutic serum levels, and remained on stable doses for 2 weeks.
-At the end of 2 weeks, patients demonstrating inadequate response (Y-MRS total score ≥16 and ≤25% improvement on the Y-MRS total score) to lithium or valproate were randomized to receive either ABILIFY (15 mg/day or an increase to 30 mg/day as early as day 7) or placebo as adjunctive therapy with open-label lithium or valproate.
+At the end of 2 weeks, patients demonstrating inadequate response (Y-MRS total score ≥16 and ≤25% improvement on the Y-MRS total score) to lithium or valproate were randomized to receive either ABILIFY (15 mg/day or an increase to 30 mg/day as early as Day 7) or placebo as adjunctive therapy with open-label lithium or valproate.
 In the 6-week, placebo-controlled phase, adjunctive ABILIFY starting at 15 mg/day with concomitant lithium or valproate (in a therapeutic range of 0.6 to 1.0 mEq/L or 50 to 125 μg/mL, respectively) was superior to lithium or valproate with adjunctive placebo in the reduction of the Y-MRS total score (Study 5 in Table 27) and CGI-BP Severity of Illness score (mania).
 Seventy-one percent of the patients coadministered valproate and 62% of the patients coadministered lithium were on 15 mg/day at 6-week endpoint.
 
@@ -117,7 +117,7 @@ Both doses of ABILIFY were superior to placebo in change from baseline to week 4
 
 Table 27: Bipolar Studies
 
-|  |  | Mean Baseline Score (SD) | LS Mean Change from Baseline (SE) | Placebo-subtracted Difference Difference (drug minus placebo) in least-squares mean change from baseline. (95% CI) |
+|  |  | Mean Baseline Score (SD) | LS Mean Change from Baseline (SE) | Placebo-subtracted DifferenceDifference (drug minus placebo) in least-squares mean change from baseline. (95% CI) |
 | --- | --- | --- | --- | --- |
 | Study Number | Treatment Group | Primary Efficacy Measure: Y-MRS |  |  |
 | Study 1 | ABILIFY (30/15 mg/day) Doses statistically significantly superior to placebo. | 29.0 (5.9) | -12.52 (1.05) | -5.33 (-7.90, -2.76) |
@@ -155,11 +155,12 @@ Adjunctive Maintenance Therapy
 
 An adjunctive maintenance trial was conducted in adult patients meeting DSM-IV criteria for bipolar I disorder with a recent manic or mixed episode.
 Patients were initiated on open-label lithium (0.6 to 1.0 mEq/L) or valproate (50 to 125 μg/mL) at therapeutic serum levels, and remained on stable doses for 2 weeks.
-At the end of 2 weeks, patients demonstrating inadequate response (Y-MRS total score ≥16 and ≤35% improvement on the Y-MRS total score) to lithium or valproate received ABILIFY with a starting dose of 15 mg/day with the option to increase to 30 mg or reduce to 10 mg as early as day 4, as adjunctive therapy with open-label lithium or valproate.
+At the end of 2 weeks, patients demonstrating inadequate response (Y-MRS total score ≥16 and ≤35% improvement on the Y-MRS total score) to lithium or valproate received ABILIFY with a starting dose of 15 mg/day with the option to increase to 30 mg or reduce to 10 mg as early as Day 4, as adjunctive therapy with open-label lithium or valproate.
 Prior to randomization, patients on the combination of single-blind ABILIFY and lithium or valproate were required to maintain stability (Y-MRS and MADRS total scores ≤12) for 12 consecutive weeks.
 Three hundred thirty-seven patients were then randomized in a double-blind fashion, to either the same dose of ABILIFY they were on at the end of the stabilization period or placebo plus lithium or valproate and were then monitored for manic, mixed, or depressive relapse for a maximum of 52 weeks.
 ABILIFY was superior to placebo on the primary endpoint, time from randomization to relapse to any mood event (Study 8 in Figure 8).
 A mood event was defined as hospitalization for a manic, mixed, or depressive episode, study discontinuation due to lack of efficacy accompanied by Y-MRS score >16 and/or a MADRS >16, or an SAE of worsening disease accompanied by Y-MRS score >16 and/or a MADRS >16.
+
 A total of 68 mood events were observed during the double-blind treatment phase.
 Twenty-five were from the ABILIFY group and 43 were from the placebo group.
 The number of observed manic episodes in the ABILIFY group (7) were fewer than that in the placebo group (19), while the number of depressive episodes in the ABILIFY group (14) was similar to that in the placebo group (18).
@@ -193,7 +194,7 @@ With regard to gender, a smaller mean reduction on the MADRS total score was see
 
 Table 28: Adjunctive Treatment of Major Depressive Disorder Studies
 
-|  |  | Mean Baseline Score (SD) | LS Mean Change from Baseline (SE) | Placebo-subtracted Difference Difference (drug minus placebo) in least-squares mean change from baseline. (95% CI) |
+|  |  | Mean Baseline Score (SD) | LS Mean Change from Baseline (SE) | Placebo-subtracted DifferenceDifference (drug minus placebo) in least-squares mean change from baseline. (95% CI) |
 | --- | --- | --- | --- | --- |
 | Study Number | Treatment Group | Primary Efficacy Measure: MADRS |  |  |
 | Study 1 | ABILIFY (5 to 20 mg/day) Doses statistically significantly superior to placebo. + Antidepressant | 25.2 (6.2) | -8.49 (0.66) | -2.84 (-4.53, -1.15) |
@@ -226,7 +227,7 @@ All three doses of ABILIFY significantly improved scores on the ABC-I subscale c
 
 Table 29: Irritability Associated with Autistic Disorder Studies (Pediatric)
 
-|  |  | Mean Baseline Score (SD) | LS Mean Change from Baseline (SE) | Placebo-subtracted Difference Difference (drug minus placebo) in least-squares mean change from baseline. (95% CI) |
+|  |  | Mean Baseline Score (SD) | LS Mean Change from Baseline (SE) | Placebo-subtracted DifferenceDifference (drug minus placebo) in least-squares mean change from baseline. (95% CI) |
 | --- | --- | --- | --- | --- |
 | Study Number | Treatment Group | Primary Efficacy Measure: ABC-I |  |  |
 | Study 1 | ABILIFY (2 to 15 mg/day) Doses statistically significantly superior to placebo. | 29.6 (6.37) | -12.9 (1.44) | -7.9 (-11.7, -4.1) |
@@ -261,15 +262,13 @@ Patients ≥50 kg in the high dose ABILIFY group, started at 2 mg per day increa
 ABILIFY (both high and low dose groups) demonstrated statistically significantly improved scores on the YGTSS TTS (Study 1 in Table 30) and on the CGI-TS scale compared with placebo.
 The estimated improvements on the YGTSS TTS over the course of the study are displayed in Figure 9.
 
-Figure 9: Least Square Means of Change from Baseline in YGTSS TTS by Week (Tourette's Disorder Study 1)
-
 In the 10-week, placebo-controlled, flexible-dose trial in children and adolescents with Tourette's disorder (n=61), aged 6 to 18 years, patients received daily doses of placebo or ABILIFY, starting at 2 mg/day with increases allowed up to 20 mg/day based on clinical response.
 ABILIFY demonstrated statistically significantly improved scores on the YGTSS TTS scale compared with placebo (Study 2 in Table 30).
 The mean daily dose of ABILIFY at the end of 10-week treatment was 6.54 mg/day.
 
 Table 30: Tourette's Disorder Studies (Pediatric)
 
-|  |  | Mean Baseline Score (SD) | LS Mean Change from Baseline (SE) | Placebo-subtracted Difference Difference (drug minus placebo) in least-squares mean change from baseline. (95% CI) |
+|  |  | Mean Baseline Score (SD) | LS Mean Change from Baseline (SE) | Placebo-subtracted DifferenceDifference (drug minus placebo) in least-squares mean change from baseline. (95% CI) |
 | --- | --- | --- | --- | --- |
 | Study Number | Treatment Group | Primary Efficacy Measure: YGTSS TTS |  |  |
 | Study 1 | ABILIFY (low dose) Doses statistically significantly superior to placebo. | 29.2 (5.63) | -13.4 (1.59) | -6.3 (-10.2, -2.3) |
@@ -303,7 +302,7 @@ Examination of population subsets (age, race, and gender) did not reveal any dif
 
 Table 31: Agitation Associated with Schizophrenia or Bipolar Mania Studies
 
-|  |  | Mean Baseline Score (SD) | LS Mean Change from Baseline (SE) | Placebo-subtracted Difference Difference (drug minus placebo) in least-squares mean change from baseline. (95% CI) |
+|  |  | Mean Baseline Score (SD) | LS Mean Change from Baseline (SE) | Placebo-subtracted DifferenceDifference (drug minus placebo) in least-squares mean change from baseline. (95% CI) |
 | --- | --- | --- | --- | --- |
 | Study Number | Treatment Group | Primary Efficacy Measure: PANSS Excited Component |  |  |
 | Agitation Associated with Schizophrenia |  |  |  |  |

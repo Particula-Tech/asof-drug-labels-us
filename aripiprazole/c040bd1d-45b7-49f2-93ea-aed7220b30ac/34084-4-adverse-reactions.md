@@ -71,7 +71,7 @@ Table 17: Adverse Reactions in Short-Term, Placebo-Controlled Trials in Adult Pa
 
 | System Organ Class Preferred Term | ABILIFY (n=1843) | Placebo (n=1166) |
 | --- | --- | --- |
-|  | Percentage of Patients Reporting Reaction Adverse reactions reported by at least 2% of patients treated with oral ABILIFY, except adverse reactions which had an incidence equal to or less than placebo. |  |
+|  | Percentage of Patients Reporting ReactionAdverse reactions reported by at least 2% of patients treated with oral ABILIFY, except adverse reactions which had an incidence equal to or less than placebo. |  |
 | Eye Disorders |  |  |
 | Blurred Vision | 3 | 1 |
 | Gastrointestinal Disorders |  |  |
@@ -129,9 +129,9 @@ Table 18 enumerates the incidence, rounded to the nearest percent, of adverse re
 
 Table 18: Adverse Reactions in a Short-Term, Placebo-Controlled Trial of Adjunctive Therapy in Patients with Bipolar Disorder
 
-| System Organ Class Preferred Term | ABILIFY + Li or Val Lithium or Valproate (n=253) | Placebo + Li or Val (n=130) |
+| System Organ Class Preferred Term | ABILIFY + Li or ValLithium or Valproate (n=253) | Placebo + Li or Val (n=130) |
 | --- | --- | --- |
-|  | Percentage of Patients Reporting Reaction Adverse reactions reported by at least 2% of patients treated with oral ABILIFY, except adverse reactions which had an incidence equal to or less than placebo. |  |
+|  | Percentage of Patients Reporting ReactionAdverse reactions reported by at least 2% of patients treated with oral ABILIFY, except adverse reactions which had an incidence equal to or less than placebo. |  |
 | Gastrointestinal Disorders |  |  |
 | Nausea | 8 | 5 |
 | Vomiting | 4 | 0 |
@@ -252,7 +252,7 @@ Table 22: Adverse Reactions in Short-Term, Placebo-Controlled Trials of Pediatri
 
 | System Organ Class Preferred Term | ABILIFY (n=732) | Placebo (n=370) |
 | --- | --- | --- |
-|  | Percentage of Patients Reporting Reaction Adverse reactions reported by at least 2% of pediatric patients treated with oral ABILIFY, except adverse reactions which had an incidence equal to or less than placebo. |  |
+|  | Percentage of Patients Reporting ReactionAdverse reactions reported by at least 2% of pediatric patients treated with oral ABILIFY, except adverse reactions which had an incidence equal to or less than placebo. |  |
 | Eye Disorders |  |  |
 | Blurred Vision | 3 | 0 |
 | Gastrointestinal Disorders |  |  |
@@ -296,7 +296,7 @@ Table 22: Adverse Reactions in Short-Term, Placebo-Controlled Trials of Pediatri
 
 Adult Patients Receiving ABILIFY as Adjunctive Treatment of Major Depressive Disorder
 
-The following findings are based on a pool of two placebo-controlled trials of patients with major depressive disorder in which ABILIFY was administered at doses of 2 mg to 20 mg as adjunctive treatment to continued antidepressant therapy.
+The following findings are based on a pool of two placebo-controlled trials of patients with major depressive disorder in which ABILIFY was administered at doses of 2 to 20 mg as adjunctive treatment to continued antidepressant therapy.
 
 Adverse Reactions Associated with Discontinuation of Treatment
 
@@ -312,9 +312,9 @@ Table 23 enumerates the pooled incidence, rounded to the nearest percent, of adv
 
 Table 23: Adverse Reactions in Short-Term, Placebo-Controlled Adjunctive Trials in Patients with Major Depressive Disorder
 
-| System Organ Class Preferred Term | ABILIFY + ADT Antidepressant Therapy (n=371) | Placebo + ADT (n=366) |
+| System Organ Class Preferred Term | ABILIFY + ADTAntidepressant Therapy (n=371) | Placebo + ADT (n=366) |
 | --- | --- | --- |
-|  | Percentage of Patients Reporting Reaction Adverse reactions reported by at least 2% of patients treated with adjunctive ABILIFY, except adverse reactions which had an incidence equal to or less than placebo. |  |
+|  | Percentage of Patients Reporting ReactionAdverse reactions reported by at least 2% of patients treated with adjunctive ABILIFY, except adverse reactions which had an incidence equal to or less than placebo. |  |
 | Eye Disorders |  |  |
 | Blurred Vision | 6 | 1 |
 | Gastrointestinal Disorders |  |  |
@@ -345,7 +345,7 @@ Table 23: Adverse Reactions in Short-Term, Placebo-Controlled Adjunctive Trials 
 
 Patients with Agitation Associated with Schizophrenia or Bipolar Mania (Intramuscular Injection)
 
-The following findings are based on a pool of three placebo-controlled trials of patients with agitation associated with schizophrenia or bipolar mania in which ABILIFY injection was administered at doses of 5.25 mg to 15 mg.
+The following findings are based on a pool of three placebo-controlled trials of patients with agitation associated with schizophrenia or bipolar mania in which ABILIFY injection was administered at doses of 5.25 to 15 mg.
 
 Commonly Observed Adverse Reactions
 
@@ -359,7 +359,7 @@ Table 24: Adverse Reactions in Short-Term, Placebo-Controlled Trials in Patients
 
 | System Organ Class Preferred Term | ABILIFY (n=501) | Placebo (n=220) |
 | --- | --- | --- |
-|  | Percentage of Patients Reporting Reaction Adverse reactions reported by at least 2% of patients treated with ABILIFY injection, except adverse reactions which had an incidence equal to or less than placebo. |  |
+|  | Percentage of Patients Reporting ReactionAdverse reactions reported by at least 2% of patients treated with ABILIFY injection, except adverse reactions which had an incidence equal to or less than placebo. |  |
 | Cardiac Disorders |  |  |
 | Tachycardia | 2 | <1 |
 | Gastrointestinal Disorders |  |  |
@@ -471,106 +471,36 @@ Reactions are categorized by body system according to the following definitions:
 
 Adults - Oral Administration
 
-Blood and Lymphatic System Disorders:
-
-rare - thrombocytopenia
-
-Cardiac Disorders:
-
-infrequent – bradycardia, palpitations, rare – atrial flutter, cardio-respiratory arrest, atrioventricular block, atrial fibrillation, angina pectoris, myocardial ischemia, myocardial infarction, cardiopulmonary failure
-
-Eye Disorders:
-
-infrequent – photophobia; rare - diplopia
-
-Gastrointestinal Disorders:
-
-infrequent - gastroesophageal reflux disease
-
-General Disorders and Administration Site Conditions:
-
-frequent - asthenia; infrequent – peripheral edema, chest pain; rare – face edema
-
-Hepatobiliary Disorders:
-
-rare - hepatitis, jaundice
-
-Immune System Disorders:
-
-rare - hypersensitivity
-
-Injury, Poisoning, and Procedural Complications:
-
-infrequent – fall; rare – heat stroke
-
-Investigations:
-
-frequent - weight decreased, infrequent - hepatic enzyme increased, blood glucose increased, blood lactate dehydrogenase increased, gamma glutamyl transferase increased; rare – blood prolactin increased, blood urea increased, blood creatinine increased, blood bilirubin increased, electrocardiogram QT prolonged, glycosylated hemoglobin increased
-
-Metabolism and Nutrition Disorders:
-
-frequent – anorexia; rare - hypokalemia, hyponatremia, hypoglycemia
-
-Musculoskeletal and Connective Tissue Disorders:
-
-infrequent - muscular weakness, muscle tightness; rare – rhabdomyolysis, mobility decreased
-
-Nervous System Disorders:
-
-infrequent - parkinsonism, memory impairment, cogwheel rigidity, hypokinesia, bradykinesia; rare – akinesia, myoclonus, coordination abnormal, speech disorder, Grand Mal convulsion; <1/10,000 patients - choreoathetosis
-
-Psychiatric Disorders:
-
-infrequent – aggression, loss of libido, delirium; rare – libido increased, anorgasmia, tic, homicidal ideation, catatonia, sleep walking
-
-Renal and Urinary Disorders:
-
-rare - urinary retention, nocturia
-
-Reproductive System and Breast Disorders:
-
-infrequent - erectile dysfunction; rare – gynaecomastia, menstruation irregular, amenorrhea, breast pain, priapism
-
-Respiratory, Thoracic, and Mediastinal Disorders:
-
-infrequent - nasal congestion, dyspnea
-
-Skin and Subcutaneous Tissue Disorders:
-
-infrequent - rash, hyperhidrosis, pruritus, photosensitivity reaction, alopecia; rare - urticaria
-
-Vascular Disorders:
-
-infrequent – hypotension, hypertension
+- Blood and Lymphatic System Disorders: rare - thrombocytopenia
+- Cardiac Disorders: infrequent – bradycardia, palpitations, rare – atrial flutter, cardio-respiratory arrest, atrioventricular block, atrial fibrillation, angina pectoris, myocardial ischemia, myocardial infarction, cardiopulmonary failure
+- Eye Disorders: infrequent – photophobia; rare - diplopia
+- Gastrointestinal Disorders: infrequent - gastroesophageal reflux disease
+- General Disorders and Administration Site Conditions: frequent - asthenia; infrequent – peripheral edema, chest pain; rare – face edema
+- Hepatobiliary Disorders: rare - hepatitis, jaundice
+- Immune System Disorders: rare - hypersensitivity
+- Injury, Poisoning, and Procedural Complications: infrequent – fall; rare – heat stroke
+- Investigations: frequent - weight decreased, infrequent - hepatic enzyme increased, blood glucose increased, blood lactate dehydrogenase increased, gamma glutamyl transferase increased; rare – blood prolactin increased, blood urea increased, blood creatinine increased, blood bilirubin increased, electrocardiogram QT prolonged, glycosylated hemoglobin increased
+- Metabolism and Nutrition Disorders: frequent – anorexia; rare - hypokalemia, hyponatremia, hypoglycemia
+- Musculoskeletal and Connective Tissue Disorders: infrequent - muscular weakness, muscle tightness; rare – rhabdomyolysis, mobility decreased
+- Nervous System Disorders: infrequent - parkinsonism, memory impairment, cogwheel rigidity, hypokinesia, bradykinesia; rare – akinesia, myoclonus, coordination abnormal, speech disorder, Grand Mal convulsion; <1/10,000 patients - choreoathetosis
+- Psychiatric Disorders: infrequent – aggression, loss of libido, delirium; rare – libido increased, anorgasmia, tic, homicidal ideation, catatonia, sleep walking
+- Renal and Urinary Disorders: rare - urinary retention, nocturia
+- Reproductive System and Breast Disorders: infrequent - erectile dysfunction; rare – gynaecomastia, menstruation irregular, amenorrhea, breast pain, priapism
+- Respiratory, Thoracic, and Mediastinal Disorders: infrequent - nasal congestion, dyspnea
+- Skin and Subcutaneous Tissue Disorders: infrequent - rash, hyperhidrosis, pruritus, photosensitivity reaction, alopecia; rare - urticaria
+- Vascular Disorders: infrequent – hypotension, hypertension
 
 Pediatric Patients - Oral Administration
 
 Most adverse events observed in the pooled database of 1,686 pediatric patients, aged 6 to 18 years, were also observed in the adult population.
 Additional adverse reactions observed in the pediatric population are listed below.
 
-Eye Disorders
-
-infrequent - oculogyric crisis
-
-Gastrointestinal Disorders:
-
-infrequent -tongue dry, tongue spasm
-
-Investigations:
-
-frequent - blood insulin increased
-
-Nervous System Disorders:
-
-infrequent - sleep talking
-
-Renal and Urinary Disorders
-
-frequent – enuresis
-
-Skin and Subcutaneous Tissue Disorders:
-
-infrequent - hirsutism
+- Eye Disorders: infrequent - oculogyric crisis
+- Gastrointestinal Disorders: infrequent -tongue dry, tongue spasm
+- Investigations: frequent - blood insulin increased
+- Nervous System Disorders: infrequent - sleep talking
+- Renal and Urinary Disorders frequent – enuresis
+- Skin and Subcutaneous Tissue Disorders: infrequent - hirsutism
 
 Adults - Intramuscular Injection
 
@@ -584,4 +514,4 @@ General Disorders and Administration Site Conditions:
 ## 6.2 Postmarketing Experience
 
 The following adverse reactions have been identified during post-approval use of ABILIFY.
-Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to establish a causal relationship to drug exposure: occurrences of allergic reaction (anaphylactic reaction, angioedema, laryngospasm, pruritus/urticaria, or oropharyngeal spasm), pathological gambling, hiccups, blood glucose fluctuation, oculogyric crisis and Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS).
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to establish a causal relationship to drug exposure: occurrences of allergic reaction (anaphylactic reaction, angioedema, laryngospasm, pruritus/urticaria, or oropharyngeal spasm), pathological gambling, hiccups, blood glucose fluctuation, oculogyric crisis, restless legs syndrome and Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS).

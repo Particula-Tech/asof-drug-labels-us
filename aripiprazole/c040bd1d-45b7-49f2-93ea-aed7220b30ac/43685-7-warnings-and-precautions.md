@@ -25,8 +25,8 @@ ABILIFY is not approved for the treatment of patients with dementia-related psyc
 Patients with major depressive disorder (MDD), both adult and pediatric, may experience worsening of their depression and/or the emergence of suicidal ideation and behavior (suicidality) or unusual changes in behavior, whether or not they are taking antidepressant medications, and this risk may persist until significant remission occurs.
 Suicide is a known risk of depression and certain other psychiatric disorders, and these disorders themselves are the strongest predictors of suicide.
 There has been a long-standing concern, however, that antidepressants may have a role in inducing worsening of depression and the emergence of suicidality in certain patients during the early phases of treatment.
-Pooled analyses of short-term, placebo-controlled trials of antidepressant drugs (SSRIs and others) showed that these drugs increase the risk of suicidal thinking and behavior (suicidality) in children, adolescents, and young adults (ages 18 to 24) with MDD and other psychiatric disorders.
-Short-term studies did not show an increase in the risk of suicidality with antidepressants compared to placebo in adults beyond age 24; there was a reduction with antidepressants compared to placebo in adults aged 65 and older.
+Pooled analyses of short-term, placebo-controlled trials of antidepressant drugs (SSRIs and others) showed that these drugs increase the risk of suicidal thinking and behavior (suicidality) in children, adolescents, and young adults (ages 18 to 24 years) with MDD and other psychiatric disorders.
+Short-term studies did not show an increase in the risk of suicidality with antidepressants compared to placebo in adults beyond age 24 years; there was a reduction with antidepressants compared to placebo in adults aged 65 years and older.
 
 The pooled analyses of placebo-controlled trials in children and adolescents with MDD, Obsessive Compulsive Disorder (OCD), or other psychiatric disorders included a total of 24 short-term trials of 9 antidepressant drugs in over 4400 patients.
 The pooled analyses of placebo-controlled trials in adults with MDD or other psychiatric disorders included a total of 295 short-term trials (median duration of 2 months) of 11 antidepressant drugs in over 77,000 patients.
@@ -91,12 +91,9 @@ The patient should be carefully monitored, since recurrences of NMS have been re
 
 A syndrome of potentially irreversible, involuntary, dyskinetic movements may develop in patients treated with antipsychotic drugs.
 Although the prevalence of the syndrome appears to be highest among the elderly, especially elderly women, it is impossible to rely upon prevalence estimates to predict, at the inception of antipsychotic treatment, which patients are likely to develop the syndrome.
-Whether antipsychotic drug products differ in their potential to cause tardive dyskinesia is unknown.A syndrome of potentially irreversible, involuntary, dyskinetic movements may develop in patients treated with antipsychotic drugs.
-Although the prevalence of the syndrome appears to be highest among the elderly, especially elderly women, it is impossible to rely upon prevalence estimates to predict, at the inception of antipsychotic treatment, which patients are likely to develop the syndrome.
 Whether antipsychotic drug products differ in their potential to cause tardive dyskinesia is unknown.
 
 The risk of developing tardive dyskinesia and the likelihood that it will become irreversible are believed to increase as the duration of treatment and the total cumulative dose of antipsychotic drugs administered to the patient increase.
-However, the syndrome can develop, although much less commonly, after relatively brief treatment periods at low doses.The risk of developing tardive dyskinesia and the likelihood that it will become irreversible are believed to increase as the duration of treatment and the total cumulative dose of antipsychotic drugs administered to the patient increase.
 However, the syndrome can develop, although much less commonly, after relatively brief treatment periods at low doses.
 
 Tardive dyskinesia may remit, partially or completely, if antipsychotic treatment is withdrawn.
@@ -106,13 +103,9 @@ The effect that symptomatic suppression has upon the long-term course of the syn
 Given these considerations, ABILIFY should be prescribed in a manner that is most likely to minimize the occurrence of tardive dyskinesia.
 Chronic antipsychotic treatment should generally be reserved for patients who suffer from a chronic illness that (1) is known to respond to antipsychotic drugs and (2) for whom alternative, equally effective, but potentially less harmful treatments are not available or appropriate.
 In patients who do require chronic treatment, the smallest dose and the shortest duration of treatment producing a satisfactory clinical response should be sought.
-The need for continued treatment should be reassessed periodically.Given these considerations, ABILIFY should be prescribed in a manner that is most likely to minimize the occurrence of tardive dyskinesia.
-Chronic antipsychotic treatment should generally be reserved for patients who suffer from a chronic illness that (1) is known to respond to antipsychotic drugs and (2) for whom alternative, equally effective, but potentially less harmful treatments are not available or appropriate.
-In patients who do require chronic treatment, the smallest dose and the shortest duration of treatment producing a satisfactory clinical response should be sought.
 The need for continued treatment should be reassessed periodically.
 
 If signs and symptoms of tardive dyskinesia appear in a patient on ABILIFY, drug discontinuation should be considered.
-However, some patients may require treatment with ABILIFY despite the presence of the syndrome.If signs and symptoms of tardive dyskinesia appear in a patient on ABILIFY, drug discontinuation should be considered.
 However, some patients may require treatment with ABILIFY despite the presence of the syndrome.
 
 ## 5.6 Metabolic Changes
@@ -296,11 +289,11 @@ Table 14: Percentage of Patients from Placebo-Controlled Trials in Adult Patient
 
 |  | Indication | Treatment Arm | N | Patients n (%) |
 | --- | --- | --- | --- | --- |
-| Weight gain ≥7% of body weight | Schizophrenia 4 to 6 weeks duration | ABILIFY | 852 | 69 (8.1) |
+| Weight gain ≥7% of body weight | Schizophrenia4 to 6 weeks duration | ABILIFY | 852 | 69 (8.1) |
 | Placebo | 379 | 12 (3.2) |  |  |
-| Bipolar Mania 3 weeks duration. | ABILIFY | 719 | 16 (2.2) |  |
+| Bipolar Mania3 weeks duration. | ABILIFY | 719 | 16 (2.2) |  |
 | Placebo | 598 | 16 (2.7) |  |  |
-| Major Depressive Disorder (Adjunctive Therapy) 6 weeks duration. | ABILIFY | 347 | 18 (5.2) |  |
+| Major Depressive Disorder (Adjunctive Therapy)6 weeks duration. | ABILIFY | 347 | 18 (5.2) |  |
 | Placebo | 330 | 2 (0.6) |  |  |
 
 Pediatric Patients and Adolescents
@@ -318,11 +311,11 @@ Table 15: Percentage of Patients from Placebo-Controlled Monotherapy Trials in P
 
 |  | Indication | Treatment Arm | N | Patients n (%) |
 | --- | --- | --- | --- | --- |
-| Weight gain ≥7% of body weight | Pooled Schizophrenia and Bipolar Mania 4 to 6 weeks duration | ABILIFY | 381 | 20 (5.2) |
+| Weight gain ≥7% of body weight | Pooled Schizophrenia and Bipolar Mania4 to 6 weeks duration | ABILIFY | 381 | 20 (5.2) |
 | Placebo | 187 | 3 (1.6) |  |  |
-| Irritability Associated with Autistic Disorder 8 weeks duration. | ABILIFY | 209 | 55 (26.3) |  |
+| Irritability Associated with Autistic Disorder8 weeks duration. | ABILIFY | 209 | 55 (26.3) |  |
 | Placebo | 98 | 7 (7.1) |  |  |
-| Tourette's Disorder 8 to 10 weeks duration. | ABILIFY | 105 | 21 (20.0) |  |
+| Tourette's Disorder8 to 10 weeks duration. | ABILIFY | 105 | 21 (20.0) |  |
 | Placebo | 66 | 5 (7.6) |  |  |
 
 In an open-label trial that enrolled patients from the two placebo-controlled trials of adolescents with schizophrenia (13 to 17 years) and pediatric patients with bipolar disorder (10 to 17 years), 73.2% of patients (238/325) completed 26 weeks of therapy with ABILIFY.
@@ -348,7 +341,7 @@ Consider dose reduction or stopping the medication if a patient develops such ur
 
 ## 5.8 Orthostatic Hypotension
 
-ABILIFY may cause orthostatic hypotension, perhaps due to its α 1-adrenergic receptor antagonism.
+ABILIFY may cause orthostatic hypotension, perhaps due to its α1-adrenergic receptor antagonism.
 The incidence of orthostatic hypotension-associated events from short-term, placebo-controlled trials of adult patients on oral ABILIFY (n=2467) included (ABILIFY incidence, placebo incidence) orthostatic hypotension (1%, 0.3%), postural dizziness (0.5%, 0.3%), and syncope (0.5%, 0.4%); of pediatric patients 6 to 18 years of age (n=732) on oral ABILIFY included orthostatic hypotension (0.5%, 0%), postural dizziness (0.4%, 0%), and syncope (0.2%, 0%); and of patients on ABILIFY Injection (n=501) included orthostatic hypotension (0.6%, 0%), postural dizziness (0.2%, 0.5%), and syncope (0.4%, 0%) [see Adverse Reactions (6.1)].
 
 The incidence of a significant orthostatic change in blood pressure (defined as a decrease in systolic blood pressure ≥20 mmHg accompanied by an increase in heart rate ≥25 bpm when comparing standing to supine values) for ABILIFY was not meaningfully different from placebo (ABILIFY incidence, placebo incidence): in adult oral ABILIFY-treated patients (4%, 2%), in pediatric oral ABILIFY-treated patients aged 6 to 18 years (0.4%, 1%), or in ABILIFY injection-treated patients (3%, 2%).
@@ -372,7 +365,7 @@ In patients with a history of a clinically significant low WBC/ANC or drug-induc
 In such patients, consider discontinuation of ABILIFY at the first sign of a clinically significant decline in WBC in the absence of other causative factors.
 
 Monitor patients with clinically significant neutropenia for fever or other symptoms or signs of infection and treat promptly if such symptoms or signs occur.
-Discontinue ABILIFY in patients with severe neutropenia (absolute neutrophil count <1000/mm 3) and follow their WBC counts until recovery.
+Discontinue ABILIFY in patients with severe neutropenia (absolute neutrophil count <1000/mm3) and follow their WBC counts until recovery.
 
 ## 5.11 Seizures/Convulsions
 
@@ -384,7 +377,7 @@ Conditions that lower the seizure threshold may be more prevalent in a populatio
 ## 5.12 Potential for Cognitive and Motor Impairment
 
 ABILIFY, like other antipsychotics, may have the potential to impair judgment, thinking, or motor skills.
-For example, in short-term, placebo-controlled trials, somnolence (including sedation) was reported as follows (ABILIFY incidence, placebo incidence): in adult patients (n=2467) treated with oral ABILIFY (11%, 6%), in pediatric patients ages 6 to 17 (n=611) (24%, 6%), and in adult patients (n=501) on ABILIFY Injection (9%, 6%).
+For example, in short-term, placebo-controlled trials, somnolence (including sedation) was reported as follows (ABILIFY incidence, placebo incidence): in adult patients (n=2467) treated with oral ABILIFY (11%, 6%), in pediatric patients ages 6 to 17 years (n=611; 24%, 6%), and in adult patients (n=501) on ABILIFY Injection (9%, 6%).
 Somnolence (including sedation) led to discontinuation in 0.3% (8/2467) of adult patients and 3% (20/732) of pediatric patients (6 to 18 years) on oral ABILIFY in short-term, placebo-controlled trials, but did not lead to discontinuation of any adult patients on ABILIFY Injection.
 
 Despite the relatively modest increased incidence of these events compared to placebo, patients should be cautioned about operating hazardous machinery, including automobiles, until they are reasonably certain that therapy with ABILIFY does not affect them adversely.

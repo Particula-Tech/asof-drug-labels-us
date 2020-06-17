@@ -1,15 +1,15 @@
 # 11 DESCRIPTION
 
-Aripiprazole is an atypical antipsychotic drug that is available as ABILIFY ® (aripiprazole) Tablets, ABILIFY DISCMELT ® (aripiprazole) Orally Disintegrating Tablets, ABILIFY ® (aripiprazole) Oral Solution, and ABILIFY ® (aripiprazole) Injection, a solution for intramuscular injection.
+Aripiprazole is an atypical antipsychotic drug that is available as ABILIFY® (aripiprazole) Tablets, ABILIFY DISCMELT® (aripiprazole) Orally Disintegrating Tablets, ABILIFY® (aripiprazole) Oral Solution, and ABILIFY® (aripiprazole) Injection, a solution for intramuscular injection.
 Aripiprazole is 7-[4-[4-(2,3-dichlorophenyl)-1-piperazinyl]butoxy]-3,4-dihydrocarbostyril.
-The empirical formula is C 23H 27C l2N 3O 2 and its molecular weight is 448.38.
+The empirical formula is C23H27Cl2N3O2 and its molecular weight is 448.38.
 The chemical structure is:
 
-ABILIFY Tablets are available in 2 mg, 5 mg, 10 mg, 15 mg, 20 mg, and 30 mg strengths.
+ABILIFY Tablets are available in 2, 5, 10, 15, 20, and 30 mg strengths.
 Inactive ingredients include cornstarch, hydroxypropyl cellulose, lactose monohydrate, magnesium stearate, and microcrystalline cellulose.
 Colorants include ferric oxide (yellow or red) and FD&C Blue No. 2 Aluminum Lake.
 
-ABILIFY DISCMELT Orally Disintegrating Tablets are available in 10 mg and 15 mg strengths.
+ABILIFY DISCMELT Orally Disintegrating Tablets are available in 10 and 15 mg strengths.
 Inactive ingredients include acesulfame potassium, aspartame, calcium silicate, croscarmellose sodium, crospovidone, crème de vanilla (natural and artificial flavors), magnesium stearate, microcrystalline cellulose, silicon dioxide, tartaric acid, and xylitol.
 Colorants include ferric oxide (yellow or red) and FD&C Blue No. 2 Aluminum Lake.
 

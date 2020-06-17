@@ -3,16 +3,16 @@
 ## 12.1 Mechanism of Action
 
 The mechanism of action of aripiprazole in schizophrenia or bipolar mania, is unclear.
-However, the efficacy of aripiprazole in the listed indications could be mediated through a combination of partial agonist activity at D 2 and 5-HT 1A receptors and antagonist activity at 5-HT 2A receptors.
+However, the efficacy of aripiprazole in the listed indications could be mediated through a combination of partial agonist activity at D2 and 5-HT1A receptors and antagonist activity at 5-HT2A receptors.
 
 ## 12.2 Pharmacodynamics
 
-Aripiprazole exhibits high affinity for dopamine D 2 and D 3, serotonin 5-HT 1A and 5-HT 2A receptors (K i values of 0.34 nM, 0.8 nM, 1.7 nM, and 3.4 nM, respectively), moderate affinity for dopamine D 4, serotonin 5-HT 2C and 5-HT 7, alpha 1-adrenergic and histamine H 1 receptors (K i values of 44 nM, 15 nM, 39 nM, 57 nM, and 61 nM, respectively), and moderate affinity for the serotonin reuptake site (K i=98 nM).
-Aripiprazole has no appreciable affinity for cholinergic muscarinic receptors (IC 50>1000 nM).
+Aripiprazole exhibits high affinity for dopamine D2 and D3, serotonin 5-HT1A and 5-HT2A receptors (Ki values of 0.34 nM, 0.8 nM, 1.7 nM, and 3.4 nM, respectively), moderate affinity for dopamine D4, serotonin 5-HT2C and 5-HT7, alpha1-adrenergic and histamine H1 receptors (Ki values of 44 nM, 15 nM, 39 nM, 57 nM, and 61 nM, respectively), and moderate affinity for the serotonin reuptake site (Ki=98 nM).
+Aripiprazole has no appreciable affinity for cholinergic muscarinic receptors (IC50>1000 nM).
 
 ## 12.3 Pharmacokinetics
 
-ABILIFY activity is presumably primarily due to the parent drug, aripiprazole, and to a lesser extent, to its major metabolite, dehydro-aripiprazole, which has been shown to have affinities for D 2 receptors similar to the parent drug and represents 40% of the parent drug exposure in plasma.
+ABILIFY activity is presumably primarily due to the parent drug, aripiprazole, and to a lesser extent, to its major metabolite, dehydro-aripiprazole, which has been shown to have affinities for D2 receptors similar to the parent drug and represents 40% of the parent drug exposure in plasma.
 The mean elimination half-lives are about 75 hours and 94 hours for aripiprazole and dehydro-aripiprazole, respectively.
 Steady-state concentrations are attained within 14 days of dosing for both active moieties.
 Aripiprazole accumulation is predictable from single-dose pharmacokinetics.
@@ -22,18 +22,18 @@ For CYP2D6 poor metabolizers, the mean elimination half-life for aripiprazole is
 
 Pharmacokinetic studies showed that ABILIFY DISCMELT Orally Disintegrating Tablets are bioequivalent to ABILIFY Tablets.
 
-ORAL ADMINISTRATION
+Oral administration
 
 Absorption
 
 Tablet: Aripiprazole is well absorbed after administration of the tablet, with peak plasma concentrations occurring within 3 hours to 5 hours; the absolute oral bioavailability of the tablet formulation is 87%.
 ABILIFY can be administered with or without food.
-Administration of a 15 mg ABILIFY Tablet with a standard high-fat meal did not significantly affect the C max or AUC of aripiprazole or its active metabolite, dehydro-aripiprazole, but delayed T max by 3 hours for aripiprazole and 12 hours for dehydro-aripiprazole.
+Administration of a 15 mg ABILIFY Tablet with a standard high-fat meal did not significantly affect the Cmax or AUC of aripiprazole or its active metabolite, dehydro-aripiprazole, but delayed Tmax by 3 hours for aripiprazole and 12 hours for dehydro-aripiprazole.
 
 Oral Solution: Aripiprazole is well absorbed when administered orally as the solution.
 At equivalent doses, the plasma concentrations of aripiprazole from the solution were higher than that from the tablet formulation.
-In a relative bioavailability study comparing the pharmacokinetics of 30 mg aripiprazole as the oral solution to 30 mg aripiprazole tablets in healthy subjects, the solution to tablet ratios of geometric mean C max and AUC values were 122% and 114%, respectively [see Dosage and Administration (2.6)].
-The single-dose pharmacokinetics of aripiprazole were linear and dose-proportional between the doses of 5 mg to 30 mg.
+In a relative bioavailability study comparing the pharmacokinetics of 30 mg aripiprazole as the oral solution to 30 mg aripiprazole tablets in healthy subjects, the solution to tablet ratios of geometric mean Cmax and AUC values were 122% and 114%, respectively [see Dosage and Administration (2.6)].
+The single-dose pharmacokinetics of aripiprazole were linear and dose-proportional between the doses of 5 to 30 mg.
 
 Distribution
 
@@ -54,8 +54,8 @@ Less than 1% of unchanged aripiprazole was excreted in the urine and approximate
 Drug Interaction Studies
 
 Effects of other drugs on the exposures of aripiprazole and dehydro-aripiprazole are summarized in Figure 1 and Figure 2, respectively.
-Based on simulation, a 4.5-fold increase in mean C max and AUC values at steady-state is expected when extensive metabolizers of CYP2D6 are administered with both strong CYP2D6 and CYP3A4 inhibitors.
-A 3-fold increase in mean C max and AUC values at steady-state is expected in poor metabolizers of CYP2D6 administered with strong CYP3A4 inhibitors.
+Based on simulation, a 4.5-fold increase in mean Cmax and AUC values at steady-state is expected when extensive metabolizers of CYP2D6 are administered with both strong CYP2D6 and CYP3A4 inhibitors.
+A 3-fold increase in mean Cmax and AUC values at steady-state is expected in poor metabolizers of CYP2D6 administered with strong CYP3A4 inhibitors.
 
 Figure 1: The Effects of Other Drugs on Aripiprazole Pharmacokinetics
 
@@ -77,11 +77,11 @@ Figure 4: Effects of Intrinsic Factors on Aripiprazole Pharmacokinetics
 
 Figure 5: Effects of Intrinsic Factors on Dehydro-aripiprazole Pharmacokinetics
 
-INTRAMUSCULAR ADMINISTRATION
+Intramuscular administration
 
 In two pharmacokinetic studies of aripiprazole injection administered intramuscularly to healthy subjects, the median times to the peak plasma concentrations were at 1 hour and 3 hours.
 A 5 mg intramuscular injection of aripiprazole had an absolute bioavailability of 100%.
-The geometric mean maximum concentration achieved after an intramuscular dose was on average 19% higher than the C max of the oral tablet.
+The geometric mean maximum concentration achieved after an intramuscular dose was on average 19% higher than the Cmax of the oral tablet.
 While the systemic exposure over 24 hours was generally similar between aripiprazole injection given intramuscularly and after oral tablet administration, the aripiprazole AUC in the first 2 hours after an intramuscular injection was 90% greater than the AUC after the same dose as a tablet.
 In stable patients with schizophrenia or schizoaffective disorder, the pharmacokinetics of aripiprazole after intramuscular administration were linear over a dose range of 1 mg to 45 mg.
 Although the metabolism of aripiprazole injection was not systematically evaluated, the intramuscular route of administration would not be expected to alter the metabolic pathways.

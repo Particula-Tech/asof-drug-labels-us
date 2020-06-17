@@ -5,13 +5,13 @@
 Carcinogenesis
 
 Lifetime carcinogenicity studies were conducted in ICR mice, F344 rats, and Sprague-Dawley (SD) rats.
-Aripiprazole was administered for 2 years in the diet at doses of 1, 3, 10, and 30 mg/kg/day to ICR mice and 1, 3, and 10 mg/kg/day to F344 rats (0.2, 0.5, 2 and 5 times and 0.3, 1 and 3 times the MRHD of 30 mg/day based on mg/m 2 body surface area, respectively).
-In addition, SD rats were dosed orally for 2 years at 10, 20, 40, and 60 mg/kg/day, which are 3, 6, 13 and 19 times the MRHD based on mg/m 2 body surface area.
+Aripiprazole was administered for 2 years in the diet at doses of 1, 3, 10, and 30 mg/kg/day to ICR mice and 1, 3, and 10 mg/kg/day to F344 rats (0.2, 0.5, 2 and 5 times and 0.3, 1 and 3 times the MRHD of 30 mg/day based on mg/m2 body surface area, respectively).
+In addition, SD rats were dosed orally for 2 years at 10, 20, 40, and 60 mg/kg/day, which are 3, 6, 13 and 19 times the MRHD based on mg/m2 body surface area.
 Aripiprazole did not induce tumors in male mice or male rats.
 In female mice, the incidences of pituitary gland adenomas and mammary gland adenocarcinomas and adenoacanthomas were increased at dietary doses of 3 to 30 mg/kg/day (0.5 to 5 times the MRHD).
 In female rats, the incidence of mammary gland fibroadenomas was increased at a dietary dose of 10 mg/kg/day (3 times the MRHD); and the incidences of adrenocortical carcinomas and combined adrenocortical adenomas/carcinomas were increased at an oral dose of 60 mg/kg/day (19 times the MRHD).
 
-An increase in mammary, pituitary, and endocrine pancreas neoplasms has been found in rodents after chronic administration of other antipsychotic drugs and is considered to be mediated by prolonged dopamine D 2-receptor antagonism and hyperprolactinemia.
+An increase in mammary, pituitary, and endocrine pancreas neoplasms has been found in rodents after chronic administration of other antipsychotic drugs and is considered to be mediated by prolonged dopamine D2-receptor antagonism and hyperprolactinemia.
 Serum prolactin was not measured in the aripiprazole carcinogenicity studies.
 However, increases in serum prolactin levels were observed in female mice in a 13-week dietary study at the doses associated with mammary gland and pituitary tumors.
 Serum prolactin was not increased in female rats in 4-week and 13-week dietary studies at the dose associated with mammary gland tumors.
@@ -26,16 +26,16 @@ A positive response was obtained in the in vivo micronucleus assay in mice; howe
 
 Impairment of Fertility
 
-Female rats were treated orally with aripiprazole from 2 weeks prior to mating through gestation day 7 at doses of 2, 6, and 20 mg/kg/day, which are 0.6, 2, and 6 times the MRHD of 30 mg/day based on mg/m 2 body surface area.
+Female rats were treated orally with aripiprazole from 2 weeks prior to mating through gestation day 7 at doses of 2, 6, and 20 mg/kg/day, which are 0.6, 2, and 6 times the MRHD of 30 mg/day based on mg/m2 body surface area.
 Estrus cycle irregularities and increased corpora lutea were seen at all doses, but no impairment of fertility was seen.
 Increased pre-implantation loss was seen at 2 and 6 times the MRHD, and decreased fetal weight was seen at 6 times the MRHD.
 
-Male rats were treated orally with aripiprazole from 9 weeks prior to mating through mating at doses of 20, 40, and 60 mg/kg/day, which are 6, 13, and 19 times the MRHD of 30 mg/day based on mg/m 2 body surface area.
+Male rats were treated orally with aripiprazole from 9 weeks prior to mating through mating at doses of 20, 40, and 60 mg/kg/day, which are 6, 13, and 19 times the MRHD of 30 mg/day based on mg/m2 body surface area.
 Disturbances in spermatogenesis were seen at 19 times the MRHD and prostate atrophy was seen at 13 and 19 times the MRHD without impairment of fertility.
 
 ## 13.2 Animal Toxicology and/or Pharmacology
 
-Aripiprazole produced retinal degeneration in albino rats in a 26-week chronic toxicity study at a dose of 60 mg/kg/day and in a 2-year carcinogenicity study at doses of 40 and 60 mg/kg/day which are 13 and 19 times the MRHD of 30 mg/day based on mg/m 2 body surface area.
+Aripiprazole produced retinal degeneration in albino rats in a 26-week chronic toxicity study at a dose of 60 mg/kg/day and in a 2-year carcinogenicity study at doses of 40 and 60 mg/kg/day which are 13 and 19 times the MRHD of 30 mg/day based on mg/m2 body surface area.
 Evaluation of the retinas of albino mice and of monkeys did not reveal evidence of retinal degeneration.
 Additional studies to further evaluate the mechanism have not been performed.
 The relevance of this finding to human risk is unknown.
