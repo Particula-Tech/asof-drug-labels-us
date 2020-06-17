@@ -91,12 +91,14 @@ Symbyax is dosed between 3 mg/25 mg (olanzapine/fluoxetine) per day and 12 mg/50
 The following table demonstrates the appropriate individual component doses of olanzapine and fluoxetine versus Symbyax.
 Dosage adjustments, if indicated, should be made with the individual components according to efficacy and tolerability.
 
-Table 1: Approximate Dose Correspondence Between Symbyax* and the Combination of Olanzapine and Fluoxetine
+Table 1: Approximate Dose Correspondence Between Symbyaxa and the Combination of Olanzapine and Fluoxetine
 
 | For Symbyax(mg/day) | Use in Combination |  |
 | --- | --- | --- |
 | Olanzapine (mg/day) | Fluoxetine (mg/day) |  |
 | 3 mg olanzapine/25 mg fluoxetine 6 mg olanzapine/25 mg fluoxetine 12 mg olanzapine/25 mg fluoxetine 6 mg olanzapine/50 mg fluoxetine 12 mg olanzapine/50 mg fluoxetine | 2.5 5 10+2.5 5 10+2.5 | 20 20 20 40+10 40+10 |
+
+a. Symbyax (olanzapine/fluoxetine HCl) is a fixed-dose combination of olanzapine and fluoxetine.
 
 While there is no body of evidence to answer the question of how long a patient treated with olanzapine and fluoxetine in combination should remain on it, it is generally accepted that bipolar I disorder, including the depressive episodes associated with bipolar I disorder, is a chronic illness requiring chronic treatment.
 The healthcare provider should periodically reexamine the need for continued pharmacotherapy.

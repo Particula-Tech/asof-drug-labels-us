@@ -1,6 +1,6 @@
 # Medication Guide
 
-Olanzapine (oh LAN za peen)
+Olanzapine (oh lan' za peen)
 
 Orally Disintegrating Tablets
 
@@ -13,18 +13,22 @@ What is the most important information I should know about olanzapine orally dis
 
 Olanzapine orally disintegrating tablets may cause serious side effects, including:
 
-- Increased risk of death in elderly people who are confused, have memory loss and have lost touch with reality (dementia-related psychosis).
-- High blood sugar (hyperglycemia).
-- High fat levels in your blood (increased cholesterol and triglycerides), especially in teenagers age 13 to 17 or when used in combination with fluoxetine in children age 10 to 17.
-- Weight gain, especially in teenagers age 13 to 17 or when used in combination with fluoxetine in children age 10 to 17.
+1. Increased risk of death in elderly people who are confused, have memory loss and have lost touch with reality (dementia-related psychosis).
+2. High blood sugar (hyperglycemia).
+3. High fat levels in your blood (increased cholesterol and triglycerides), especially in teenagers age 13 to 17 or when used in combination with fluoxetine in children age 10 to 17.
+4. Weight gain, especially in teenagers age 13 to 17 or when used in combination with fluoxetine in children age 10 to 17.
 
 These serious side effects are described below.
 
-- Increased risk of death in elderly people who are confused, have memory loss and have lost touch with reality (dementia-related psychosis).
-  Olanzapine orally disintegrating tablets are not approved for treating psychosis in elderly people with dementia.
-- High blood sugar (hyperglycemia).
-  High blood sugar can happen if you have diabetes already or if you have never had diabetes.
-  High blood sugar could lead to:
+1.
+Increased risk of death in elderly people who are confused, have memory loss and have lost touch with reality (dementia-related psychosis).
+Olanzapine orally disintegrating tablets are not approved for treating psychosis in elderly people with dementia.
+
+2.
+High blood sugar (hyperglycemia).
+High blood sugar can happen if you have diabetes already or if you have never had diabetes.
+High blood sugar could lead to:
+
 - a build up of acid in your blood due to ketones (ketoacidosis)
 - coma
 - death
@@ -67,7 +71,7 @@ Olanzapine orally disintegrating tablets are a prescription medicine used to tre
   - manic or mixed episodes that happen with bipolar I disorder, when used with the medicine lithium or valproate, in adults.
   - long-term treatment of bipolar I disorder in adults.
 - episodes of depression that happen with bipolar I disorder, when used with the medicine fluoxetine (Prozac®) in people age 10 or older.
-- episodes of depression that do not get better after 2 other medicines, also called treatmentresistant depression, when used with the medicine fluoxetine (Prozac), in adults.
+- episodes of depression that do not get better after 2 other medicines, also called treatment resistant depression, when used with the medicine fluoxetine (Prozac), in adults.
 
 Olanzapine orally disintegrating tablets have not been approved for use in children under 13 years of age.
 Olanzapine orally disintegrating tablets in combination with fluoxetine have not been approved for use in children under 10 years of age.
@@ -104,14 +108,14 @@ Before starting olanzapine orally disintegrating tablets, tell your doctor if yo
 - are pregnant or plan to become pregnant.
   It is not known if olanzapine orally disintegrating tablets will harm your unborn baby.
   - If you become pregnant while receiving olanzapine orally disintegrating tablets, talk to your healthcare provider about registering with the National Pregnancy Registry for Atypical Antipsychotics.
-    You can register by calling 1-866-961-2388 or go to http://womensmentalhealth.org/clinical-andresearch-programs/pregnancyregistry/.
+    You can register by calling 1-866-961-2388 or go to http://womensmentalhealth.org/clinical-and-research-programs/pregnancyregistry/.
 - are breast-feeding or plan to breast-feed.
   Olanzapine passes into your breast milk.
   Talk to your doctor about the best way to feed your baby if you take olanzapine orally disintegrating tablets.
 
 Tell your doctor if you exercise a lot or are in hot places often.
 
-The symptoms of bipolar I disorder or schizophrenia may include thoughts of suicide or of hurting yourself or others.
+The symptoms of bipolar I disorder, treatment resistant depression, or schizophrenia may include thoughts of suicide or of hurting yourself or others.
 If you have these thoughts at any time, tell your doctor or go to an emergency room right away.
 
 Tell your doctor about all the medicines that you take, including prescription and nonprescription medicines, vitamins, and herbal supplements.
@@ -170,7 +174,7 @@ Serious side effects may happen when you take olanzapine orally disintegrating t
   It may also start after you stop taking olanzapine orally disintegrating tablets.
   Tell your doctor if you get any body movements that you can not control.
 - Decreased blood pressure when you change positions, with symptoms of dizziness, fast or slow heartbeat, or fainting.
-- Difficulty swallowing, that can cause food or liquid to get into your lungs.
+- Difficulty swallowing that can cause food or liquid to get into your lungs.
 - Seizures: Tell your doctor if you have a seizure during treatment with olanzapine orally disintegrating tablets.
 - Problems with control of body temperature: You could become very hot, for instance when you exercise a lot or stay in an area that is very hot.
   It is important for you to drink water to avoid dehydration.
@@ -227,4 +231,4 @@ All brand names listed are the registered trademarks of their respective owners 
 Teva Pharmaceuticals USA, Inc. North Wales, PA 19454
 
 Rev.
-F 10/2019
+G 4/2020

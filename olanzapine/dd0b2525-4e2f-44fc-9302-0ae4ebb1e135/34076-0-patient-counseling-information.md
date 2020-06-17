@@ -72,7 +72,7 @@ Pregnancy — Advise women to notify their healthcare provider if they become pr
 Advise patients that olanzapine may cause extrapyramidal and/or withdrawal symptoms (agitation, hypertonia, hypotonia, tremor, somnolence, respiratory distress, and feeding disorder) in a neonate.
 Advise patients that there is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to olanzapine during pregnancy [see Use in Specific Populations (8.1)].
 
-Lactation — Advise breastfeeding women using olanzapine to monitor infants for excess sedation, irritability, poor feeding and extrapyramidal symptoms (tremors and abnormal muscle movements) and to seek medical care if they notice these signs [see Use in Specific Populations (8.2)].
+Lactation — Advise breastfeeding women using olanzapine to monitor infants for excess sedation, irritability, poor feeding and extrapyramidal symptoms (tremors and abnormal muscle movements) and to seek medical care if they notice these signs [see Use in Specific Populations (8.3)].
 
 Infertility — Advise females of reproductive potential that olanzapine may impair fertility due to an increase in serum prolactin levels.
 The effects on fertility are reversible [see Use in Specific Populations (8.3)].
@@ -97,4 +97,4 @@ All brand names listed are the registered trademarks of their respective owners 
 Teva Pharmaceuticals USA, Inc. North Wales, PA 19454
 
 Rev.
-G 10/2019
+H 4/2020
