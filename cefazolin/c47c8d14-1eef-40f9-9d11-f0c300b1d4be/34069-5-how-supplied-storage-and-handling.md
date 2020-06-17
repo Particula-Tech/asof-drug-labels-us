@@ -17,17 +17,3 @@ As with other cephalosporins, cefazolin tends to darken depending on storage con
 Before reconstitution protect from light and store at 20° to 25°C (68° to 77°F) [See USP Controlled Room Temperature].
 
 The container closure is not made with natural rubber latex.
-
-CLINITEST is a registered trademark of Miles, Inc. CLINISTIX is a registered trademark of Bayer Corporation.
-
-Manufactured for:
-
-Lake Zurich, IL 60047
-
-Made in Italy
-
-www.fresenius-kabi.com/us
-
-451180D
-
-Revised: April 2019

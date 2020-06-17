@@ -4,15 +4,10 @@ BEFORE THERAPY WITH CEFAZOLIN FOR INJECTION IS INSTITUTED, CAREFUL INQUIRY SHOUL
 IF THIS PRODUCT IS GIVEN TO PENICILLIN-SENSITIVE PATIENTS, CAUTION SHOULD BE EXERCISED BECAUSE CROSS-HYPERSENSITIVITY AMONG BETA-LACTAM ANTIBIOTICS HAS BEEN CLEARLY DOCUMENTED AND MAY OCCUR IN UP TO 10% OF PATIENTS WITH A HISTORY OF PENICILLIN ALLERGY.
 IF AN ALLERGIC REACTION TO CEFAZOLIN FOR INJECTION OCCURS, DISCONTINUE TREATMENT WITH THE DRUG.
 SERIOUS ACUTE HYPERSENSITIVITY REACTIONS MAY REQUIRE TREATMENT WITH EPINEPHRINE AND OTHER EMERGENCY MEASURES, INCLUDING OXYGEN, IV FLUIDS, IV ANTIHISTAMINES, CORTICOSTEROIDS, PRESSOR AMINES, AND AIRWAY MANAGEMENT, AS CLINICALLY INDICATED.
-
 Pseudomembranous colitis has been reported with nearly all antibacterial agents, including cefazolin, and may range in severity from mild to life-threatening.
 Therefore, it is important to consider this diagnosis in patients who present with diarrhea subsequent to the administration of antibacterial agents.
-
 Treatment with antibacterial agents alters the normal flora of the colon and may permit overgrowth of clostridia.
-Studies indicate that a toxin produced by
-
-Clostridium difficile is a primary cause of “antibiotic-associated colitis.”
-
+Studies indicate that a toxin produced by Clostridium difficile is a primary cause of “antibiotic-associated colitis.”
 After the diagnosis of pseudomembranous colitis has been established, therapeutic measures should be initiated.
 Mild cases of pseudomembranous colitis usually respond to drug discontinuation alone.
 In moderate to severe cases, consideration should be given to management with fluids and electrolytes, protein supplementation, and treatment with an oral antibacterial drug clinically effective against C. difficile colitis.
@@ -23,17 +18,12 @@ In moderate to severe cases, consideration should be given to management with fl
 
 Prolonged use of Cefazolin for Injection may result in the overgrowth of nonsusceptible organisms.
 Careful clinical observation of the patient is essential.
-
 When Cefazolin for Injection is administered to patients with low urinary output because of impaired renal function, lower daily dosage is required (see DOSAGE AND ADMINISTRATION).
-
 As with other β-lactam antibiotics, seizures may occur if inappropriately high doses are administered to patients with impaired renal function (see DOSAGE AND ADMINISTRATION).
-
 Cefazolin for Injection, as with all cephalosporins, should be prescribed with caution in individuals with a history of gastrointestinal disease, particularly colitis.
-
 Cephalosporins may be associated with a fall in prothrombin activity.
 Those at risk include patients with renal or hepatic impairment or poor nutritional state, as well as patients receiving a protracted course of antimicrobial therapy, and patients previously stabilized on anticoagulant therapy.
 Prothrombin time should be monitored in patients at risk and exogenous vitamin K administered as indicated.
-
 Prescribing Cefazolin for Injection in the absence of a proven or strongly suspected bacterial infection or a prophylactic indication is unlikely to provide benefit to the patient and increases the risk of the development of drug-resistant bacteria.
 
 ## Drug Interactions
@@ -42,8 +32,7 @@ Probenecid may decrease renal tubular secretion of cephalosporins when used conc
 
 ## Drug/Laboratory Test Interactions
 
-A false positive reaction for glucose in the urine may occur with Benedict's solution, Fehling's solution or with CLINITEST ® tablets, but not with enzyme-based tests such as CLINISTIX ®.
-
+A false positive reaction for glucose in the urine may occur with Benedict's solution, Fehling's solution or with CLINITEST® tablets, but not with enzyme-based tests such as CLINISTIX®.
 Positive direct and indirect antiglobulin (Coombs) tests have occurred; these may also occur in neonates whose mothers received cephalosporins before delivery.
 
 ## Information for Patients
@@ -85,6 +74,5 @@ See DOSAGE AND ADMINISTRATION for recommended dosage in pediatric patients older
 Of the 920 subjects who received Cefazolin for Injection in clinical studies, 313 (34%) were 65 years and over, while 138 (15%) were 75 years and over.
 No overall differences in safety or effectiveness were observed between these subjects and younger subjects.
 Other reported clinical experience has not identified differences in responses between the elderly and younger patients, but greater sensitivity of some older individuals cannot be ruled out.
-
 This drug is known to be substantially excreted by the kidney, and the risk of toxic reactions to this drug may be greater in patients with impaired renal function.
 Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection, and it may be useful to monitor renal function (see PRECAUTIONS, General and DOSAGE AND ADMINISTRATION).
