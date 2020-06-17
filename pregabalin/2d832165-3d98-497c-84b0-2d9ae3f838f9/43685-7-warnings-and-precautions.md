@@ -166,8 +166,3 @@ This mean change difference was not associated with an increased risk of PR incr
 
 Subgroup analyses did not identify an increased risk of PR prolongation in patients with baseline PR prolongation or in patients taking other PR prolonging medications.
 However, these analyses cannot be considered definitive because of the limited number of patients in these categories.
-
-## 5.14 Concomitant Use with Opioids
-
-Caution is advised when prescribing pregabalin concomitantly with opioids due to risk of CNS depression.
-In an observational study of opioid users, those patients who took pregabalin concomitantly with an opioid had an increased risk for opioid-related death compared to opioid use alone (adjusted odds ratio [aOR], 1.68 [95% CI, 1.19 to 2.36]).
