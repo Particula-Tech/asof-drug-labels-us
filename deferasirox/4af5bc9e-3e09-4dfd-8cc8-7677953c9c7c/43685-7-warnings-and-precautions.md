@@ -14,7 +14,7 @@ In the clinical trials, adults and pediatric deferasirox-treated patients with n
 Preexisting renal disease and concomitant use of other nephrotoxic drugs may increase the risk of acute kidney injury in adult and pediatric patients.
 Acute illnesses associated with volume depletion and overchelation may increase the risk of acute kidney injury in pediatric patients.
 In pediatric patients, small decreases in eGFR can result in increases in deferasirox exposure, particularly in younger patients with body surface area typical of patients less than age 7 years.
-This can lead to a cycle of worsening renal function and further increases in deferasirox exposure, unless the dose is reduced or interrupted.
+This can lead to a cycle of worsening renal function and further increases in Exjade exposure, unless the dose is reduced or interrupted.
 Renal tubular toxicity, including acquired Fanconi syndrome, has been reported in patients treated with deferasirox, most commonly in pediatric patients with beta-thalassemia and serum ferritin levels less than 1,500 mcg/L [see Warnings and Precautions (5.6), Adverse Reactions (6.1, 6.2), Use in Special Populations (8.4), Clinical Pharmacology (12.3)].
 
 Evaluate renal glomerular and tubular function before initiating therapy or increasing the dose.
@@ -27,7 +27,7 @@ Use the minimum dose to establish and maintain a low iron burden.
 Monitor renal function more frequently in patients with preexisting renal disease or decreased renal function.
 In pediatric patients, interrupt deferasirox during acute illnesses, which can cause volume depletion such as vomiting, diarrhea, or prolonged decreased oral intake, and monitor renal function more frequently.
 Promptly correct fluid deficits to prevent renal injury.
-Resume therapy as appropriate, based on assessments of renal function, when oral intake and volume status are normal [see Dosage and Administration (2.5), Warnings and Precautions (5.6), Adverse Reactions (6.1, 6.2), Use in Specific Populations (8.4))].
+Resume therapy as appropriate, based on assessments of renal function, when oral intake and volume status are normal [see Dosage and Administration (2.5), Warnings and Precautions (5.6), Adverse Reactions (6.1, 6.2), Use in Specific Populations (8.4)].
 
 ## 5.2 Hepatic Toxicity and Failure
 
@@ -96,9 +96,6 @@ Continued administration of deferasirox in the 14 to 28 mg/kg/day range, when th
 For patients with NTDT, measure LIC by liver biopsy or by using an FDA-cleared or approved method for monitoring patients receiving deferasirox therapy every 6 months on treatment.
 Interrupt deferasirox administration when the LIC is less than 3 mg Fe/g dw.
 Measure serum ferritin monthly, and if the serum ferritin falls below 300 mcg/L, interrupt deferasirox and obtain a confirmatory LIC [see Clinical Studies (14)].
-
-Additional pediatric use information is approved for Novartis Pharmaceuticals Corporation's JADENU® (deferasirox) tablets.
-However, due to Novartis Pharmaceuticals Corporation's marketing exclusivity rights, this drug product is not labeled with that pediatric information.
 
 ## 5.7 Hypersensitivity
 

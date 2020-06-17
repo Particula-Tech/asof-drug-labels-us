@@ -100,6 +100,3 @@ Twenty patients began Study 6 with an LIC less than 5 mg Fe/g dw.
 Of the 113 patients with a baseline LIC of at least 5 mg Fe/g dw in Study 6, the target LIC (less than 5 mg Fe/g dw) was reached by 39 (35%).
 The responders included 4 (10%) of 39 patients treated at 20 mg/kg/day for a baseline LIC exceeding 15 mg Fe/g dw, and 31 (51%) of 61 patients treated at 10 mg/kg/day for a baseline LIC between 5 and 15 mg Fe/g dw.
 The absolute change in LIC at Week 52 by starting dose is shown in Table 5.
-
-Additional pediatric use information is approved for Novartis Pharmaceuticals Corporation's JADENU® (deferasirox) tablets.
-However, due to Novartis Pharmaceuticals Corporation's marketing exclusivity rights, this drug product is not labeled with that pediatric information.

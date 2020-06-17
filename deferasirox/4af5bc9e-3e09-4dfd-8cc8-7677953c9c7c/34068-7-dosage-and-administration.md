@@ -12,34 +12,31 @@ Prior to starting therapy, or increasing dose, evaluate:
   - Obtain serum creatinine in duplicate (due to variations in measurements)
   - Calculate the estimated glomerular filtration rate (eGFR).
     Use a prediction equation appropriate for adult patients (e.g., CKD-EPI, MDRD method) and in pediatric patients (e.g., Schwartz equations).
-  - Obtain urinalyses and serum electrolytes to evaluate renal tubular function [see Dosage and Administration (2.4), Warnings and Precautions (5.1)].
+  - Obtain urinalyses and serum electrolytes to evaluate renal tubular function [seeDosage and Administration (2.4), Warnings and Precautions (5.1)].
 - Serum transaminases and bilirubin [see Dosage and Administration (2.4), Warnings and Precautions (5.2)].
 - Baseline auditory and ophthalmic examinations [see Warnings and Precautions (5.10)].
 
-Initiating Therapy:
+Initiating Therapy
 
 The recommended initial dose of deferasirox for patients 2 years of age and older with eGFR greater than 60 mL/min/1.73 m2 is 14 mg per kg body weight orally, once daily.
 Calculate doses (mg per kg per day) to the nearest whole tablet.
 Changes in weight of pediatric patients over time must be taken into account when calculating the dose.
 
-During Therapy:
+During Therapy
 
 - Monitor serum ferritin monthly and adjust the dose of deferasirox, if necessary, every 3 to 6 months based on serum ferritin trends.
 - Use the minimum effective dose to achieve a trend of decreasing ferritin
 - Make dose adjustments in steps of 3.5 or 7 mg per kg and tailor adjustments to the individual patient's response and therapeutic goals.
 - In patients not adequately controlled with doses of 21 mg per kg (e.g., serum ferritin levels persistently above 2,500 mcg/L and not showing a decreasing trend over time), doses of up to 28 mg per kg may be considered.
-  Doses above 28 mg per kg are not recommended [seeWarnings and Precautions (5.6)].
+  Doses above 28 mg per kg are not recommended [see Warnings and Precautions (5.6)].
 - Adjust dose based on serum ferritin levels
   - If the serum ferritin falls below 1,000 mcg/L at 2 consecutive visits, consider dose reduction, especially if the deferasirox dose is greater than 17.5 mg/kg/day [see Adverse Reactions (6.1)].
   - If the serum ferritin falls below 500 mcg/L, interrupt deferasirox therapy and continue monthly monitoring.
   - Evaluate the need for ongoing chelation therapy for patients whose conditions no longer require regular blood transfusions.
   - Use the minimum effective dose to maintain iron burden in the target range [see Warnings and Precautions (5.6)].
 - Monitor blood counts, liver function, renal function and ferritin monthly [see Warnings and Precautions (5.1, 5.2, 5.4)].
-- nterrupt deferasirox for pediatric patients who have acute illnesses, which can cause volume depletion, such as vomiting, diarrhea, or prolonged decreased oral intake, and monitor more frequently.
+- Interrupt deferasirox for pediatric patients who have acute illnesses, which can cause volume depletion, such as vomiting, diarrhea, or prolonged decreased oral intake, and monitor more frequently.
   Resume therapy as appropriate, based on assessments of renal function, when oral intake and volume status are normal [see Dosage and Administration (2.4, 2.5), Warnings and Precautions (5.1), Use in Specific Populations (8.4), Clinical Pharmacology (12.3)].
-
-Additional pediatric use information is approved for Novartis Pharmaceuticals Corporation's JADENU® (deferasirox) tablets.
-However, due to Novartis Pharmaceuticals Corporation's marketing exclusivity rights, this drug product is not labeled with that pediatric information.
 
 ## 2.2 Iron Overload in Non-Transfusion-Dependent Thalassemia Syndromes
 
@@ -75,7 +72,7 @@ During Therapy
 - When the LIC is less than 3 mg Fe/g dw, interrupt treatment with deferasirox and continue to monitor the LIC.
 - Monitor blood counts, liver function, renal function and ferritin monthly [see Warnings and Precautions (5.1, 5.2,5.4)].
 - Increase monitoring frequency for pediatric patients who have acute illness, which can cause volume depletion, such as vomiting, diarrhea, or prolonged decreased oral intake.
-  Consider dose interruption until oral intake and volume status are normal [see Dosage and Administration (2.4,2.5), Warnings and Precautions (5.1), Use in Specific Populations (8.4), Clinical Pharmacology (12.3)].
+  Consider dose interruption until oral intake and volume status are normal [see Dosage and Administration (2.4, 2.5), Warnings and Precautions (5.1), Use in Specific Populations (8.4), Clinical Pharmacology (12.3)].
 
 Restart treatment when the LIC rises again to more than 5 mg Fe/g dw.
 
@@ -100,11 +97,8 @@ The table below provides additional information on dosing conversion to deferasi
 | Maximum Dose | 40 mg/kg/day | 28 mg/kg/day |
 | Non-Transfusion-Dependent Thalassemia Syndromes |  |  |
 | Starting Dose | 10 mg/kg/day | 7 mg/kg/day |
-| Titration Increments | 5-10 mg/kg | 3.5-7 mg/kg |
+| Titration Increments | 5 to 10 mg/kg | 3.5 to 7 mg/kg |
 | Maximum Dose | 20 mg/kg/day | 14 mg/kg/day |
-
-Additional pediatric use information is approved for Novartis Pharmaceuticals Corporation's JADENU® (deferasirox) tablets.
-However, due to Novartis Pharmaceuticals Corporation's marketing exclusivity rights, this drug product is not labeled with that pediatric information.
 
 ## 2.4 Use in Patients with Baseline Hepatic or Renal Impairment
 
@@ -126,7 +120,7 @@ Exercise caution in pediatric patients with eGFR between 40 and 60 mL/minute/1.7
 If treatment is needed, use the minimum effective dose and monitor renal function frequently.
 Individualize dose titration based on improvement in renal injury [see Use in Specific Populations (8.6)].
 
-## 2.5 Dose Modifications for Decreases in Renal Function while on deferasirox
+## 2.5 Dose Modifications for Decreases in Renal Function while on Deferasirox
 
 Deferasirox is contraindicated in patients with eGFR less than 40 mL/minute/1.73 m2 [see Contraindications (4)].
 
@@ -134,11 +128,11 @@ For decreases in renal function while receiving deferasirox [see Warnings and Pr
 
 Transfusional Iron Overload
 
-Adults:
+Adults
 
 - If the serum creatinine increases by 33% or more above the average baseline measurement, repeat the serum creatinine within 1 week, and if still elevated by 33% or more, reduce the dose by 7 mg per kg.
 
-Pediatric Patients (ages 2 years to 17 years):
+Pediatric Patients (ages 2 years to 17 years)
 
 - Reduce the dose by 7 mg per kg if eGFR decreases by greater than 33% below the average baseline measurement and repeat eGFR within 1 week
 - Interrupt deferasirox for acute illnesses, which can cause volume depletion, such as vomiting, diarrhea, or prolonged decreased oral intake, and monitor more frequently.
@@ -150,20 +144,17 @@ Pediatric Patients (ages 2 years to 17 years):
   Consider dose reduction or interruption and less nephrotoxic therapies until improvement of renal function.
   If signs of renal tubular or glomerular injury occur in the presence of other risk factors such as volume depletion, reduce or interrupt deferasirox to prevent severe and irreversible renal injury [see Warnings and Precautions (5.1)].
 
-All Patients (regardless of age):
+All Patients (regardless of age)
 
 - Discontinue therapy for eGFR less than 40 mL/min/1.73 m2[see Contraindications (4)].
 
-Additional pediatric use information is approved for Novartis Pharmaceuticals Corporation's JADENU® (deferasirox) tablets.
-However, due to Novartis Pharmaceuticals Corporation's marketing exclusivity rights, this drug product is not labeled with that pediatric information.
-
 Non-Transfusion-Dependent Thalassemia Syndromes
 
-Adults:
+Adults
 
 - If the serum creatinine increases by 33% or more above the average baseline measurement, repeat the serum creatinine within 1 week, and if still elevated by 33% or more, interrupt therapy if the dose is 3.5 mg per kg, or reduce by 50% if the dose is 7 or 14 mg per kg.
 
-Pediatric Patients (ages 10 years to 17 years):
+Pediatric Patients (ages 10 years to 17 years)
 
 - Reduce the dose by 3.5 mg per kg if eGFR decreases by greater than 33% below the average baseline measurement and repeat the eGFR within 1 week.
 - Increase monitoring frequency for pediatric patients who have acute illnesses, which can cause volume depletion, such as vomiting, diarrhea, or prolonged decreased oral intake.
@@ -175,9 +166,9 @@ Pediatric Patients (ages 10 years to 17 years):
   Consider dose reduction or interruption and less nephrotoxic therapies until improvement of renal function.
   If signs of renal tubular or glomerular injury occur in the presence of other risk factors such as volume depletion, reduce or interrupt deferasirox to prevent severe and irreversible renal injury [see Warnings and Precautions (5.1)].
 
-All Patients (regardless of age):
+All Patients (regardless of age)
 
-- Discontinue therapy for eGFR less than 40 mL/min/1.73 m2 [see Contraindications (4)].
+- Discontinue therapy for eGFR less than 40 mL/min/1.73 m2[see Contraindications (4)].
 
 ## 2.6 Dose Modifications Based on Concomitant Medications
 
@@ -185,7 +176,7 @@ UDP-glucuronosyltransferases (UGT) Inducers
 
 Concomitant use of UGT inducers decreases systemic exposure.
 Avoid the concomitant use of strong UGT inducers (e.g., rifampicin, phenytoin, phenobarbital, ritonavir).
-If you must administer deferasirox tablets with a strong UGT inducer, consider increasing the initial dose deferasirox by 50%, and monitor serum ferritin levels and clinical responses for further dose modification [see Dosage and Administration (2.1, 2.2), Drug Interactions (7.5)].
+If you must administer deferasirox tablets with a strong UGT inducer, consider increasing the initial dose by 50%, and monitor serum ferritin levels and clinical responses for further dose modification [see Dosage and Administration (2.1, 2.2), Drug Interactions (7.5)].
 
 Bile Acid Sequestrants
 

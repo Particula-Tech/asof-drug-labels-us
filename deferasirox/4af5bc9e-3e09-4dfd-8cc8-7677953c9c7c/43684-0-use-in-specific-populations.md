@@ -109,5 +109,5 @@ If either develops, consider dose reduction, interruption or discontinuation of 
 ## 8.7 Hepatic Impairment
 
 Avoid use in patients with severe (Child-Pugh C) hepatic impairment.
-For patients with moderate (Child-Pugh B) hepatic impairment, reduce the starting dose should be reduced by 50%.
-Closely monitor patients with mild (Child-Pugh A) or moderate (Child-Pugh B) hepatic impairment for efficacy and adverse reactions that may require dose titration [see Dosage and Administration (2.4), Warnings and Precautions (5.2) Clinical Pharmacology (12.3)].
+For patients with moderate (Child-Pugh B) hepatic impairment, reduce the starting dose by 50%.
+Closely monitor patients with mild (Child-Pugh A) or moderate (Child-Pugh B) hepatic impairment for efficacy and adverse reactions that may require dose titration [see Dosage and Administration (2.4), Warnings and Precautions (5.2), Clinical Pharmacology (12.3)].

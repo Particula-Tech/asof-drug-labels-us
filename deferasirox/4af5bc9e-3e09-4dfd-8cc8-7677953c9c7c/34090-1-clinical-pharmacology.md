@@ -30,11 +30,11 @@ Exposure to deferasirox increased by an accumulation factor of 1.3 to 2.3 after 
 
 The absolute bioavailability [as measured by area under the curve over time to infinity (AUCinf)] of deferasirox tablets for oral suspension is 70% compared to an intravenous dose.
 The bioavailability (as measured by AUCinf) of deferasirox tablets was 36% greater than with deferasirox tablets for oral suspension.
-After strength-adjustment, the mean AUCinf of deferasirox tablets (i.e., 360 mg strength) was similar to that of to deferasirox tablets for oral suspension (i.e., 500 mg strength) under fasting conditions; however the mean Cmax was increased by 30%.
+After strength-adjustment, the mean AUCinf of deferasirox tablets (i.e., 360 mg strength) was similar to that of deferasirox tablets for oral suspension (i.e., 500 mg strength) under fasting conditions; however the mean Cmax was increased by 30%.
 The 30% increase in Cmax observed with deferasirox tablets is not clinically meaningful.
 
 The administration of deferasirox tablets with a light meal (approximately 250 calories with fat content less than 7% of total calories) indicated that the AUCinf and Cmax were similar to that under fasting conditions.
-The administration of deferasirox tablets with a high-fat meal (approximately 1,000 calories with fat content greater than 50% of total calories), increased AUCinf by 18% and Cmax by 29% compared to that under fasting conditions [see Dosage and Administration (2.3)].
+The administration of deferasirox tablets with a high-fat meal (approximately 1000 calories with fat content greater than 50% of total calories), increased AUCinf by 18% and Cmax by 29% compared to that under fasting conditions [see Dosage and Administration (2.3)].
 
 Distribution
 
@@ -48,7 +48,7 @@ Glucuronidation is the main metabolic pathway for deferasirox, with subsequent b
 Deconjugation of glucuronidates in the intestine and subsequent reabsorption (enterohepatic recycling) is likely to occur.
 Deferasirox is mainly glucuronidated by UGT1A1 and to a lesser extent UGT1A3.
 CYP450-catalyzed (oxidative) metabolism of deferasirox appears to be minor in humans (about 8%).
-Deconjugation of glucuronide metabolites in the intestine and subsequent reabsorption (enterohepatic recycling) was confirmed in a healthy subjects study in which the administration of cholestyramine 12 g twice daily (strongly binds to deferasirox and its conjugates) 4 and 10 hours after a single dose of deferasirox resulted in a 45% decrease in deferasirox exposure (AUC) by interfering with the enterohepatic recycling of deferasirox.
+Deconjugation of glucuronide metabolites in the intestine and subsequent reabsorption (enterohepatic recycling) was confirmed in a healthy subjects study in which the administration of cholestyramine 12 g twice daily (strongly binds to deferasirox and its conjugates) 4 and 10 hours after a single dose of deferasirox resulted in a 45% decrease in deferasirox exposure (AUCinf) by interfering with the enterohepatic recycling of deferasirox.
 
 Excretion
 

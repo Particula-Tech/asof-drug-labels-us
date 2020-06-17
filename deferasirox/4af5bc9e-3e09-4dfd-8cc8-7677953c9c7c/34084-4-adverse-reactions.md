@@ -23,7 +23,7 @@ Transfusional Iron Overload
 
 A total of 700 adult and pediatric patients were treated with deferasirox for 48 weeks in premarketing studies.
 These included 469 patients with beta-thalassemia, 99 with rare anemias, and 132 with sickle cell disease.
-Of these patients, 45% were male, 70% were Caucasian and 292 patients were less than16 years of age.
+Of these patients, 45% were male, 70% were Caucasian and 292 patients were less than 16 years of age.
 In the sickle cell disease population, 89% of patients were black.
 Median treatment duration among the sickle cell patients was 51 weeks.
 Of the 700 patients treated, 469 (403 beta-thalassemia and 66 rare anemias) were entered into extensions of the original clinical protocols.
@@ -32,7 +32,7 @@ In ongoing extension studies, median durations of treatment were 88 to 205 weeks
 Six hundred twenty-seven patients with MDS were enrolled across 5 uncontrolled trials.
 These studies varied in duration from 1 to 5 years.
 The discontinuation rate across studies in the first year was 46% (AEs 20%, withdrawal of consent 10%, death 8%, other 4%, lab abnormalities 3%, and lack of efficacy 1%).
-Among 47 patients enrolled in the study of 5 year duration, 10 remained on deferasirox at the completion of the study.
+Among 47 patients enrolled in the study of 5-year duration, 10 remained on deferasirox at the completion of the study.
 
 Table 1 displays adverse reactions occurring in greater than 5% of deferasirox-treated beta-thalassemia patients (Study 1), sickle cell disease patients (Study 3), and patients with MDS (MDS pool).
 Abdominal pain, nausea, vomiting, diarrhea, skin rashes, and increases in serum creatinine were the most frequent adverse reactions reported with a suspected relationship to deferasirox.
@@ -42,7 +42,7 @@ Table 1 Adverse Reactions* Occurring in > 5% of Deferasirox-treated Patients in 
 
 |  | Study 1 (Beta-thalassemia) |  | Study 3 (Sickle Cell Disease) |  | MDS Pool |
 | --- | --- | --- | --- | --- | --- |
-| Adverse Reactions | Deferasirox N=296 n (%) | Deferasirox N=290 n (%) | Deferasirox N=132 n (%) | Deferasirox N=63 n (%) | Deferasirox N=627 n (%) |
+| Adverse Reactions | Deferasirox N=296 n (%) | Deferoxamine N=290 n (%) | Deferasirox N=132 n (%) | Deferoxamine N=63 n (%) | Deferasirox N=627 n (%) |
 | Abdominal Pain** | 63 (21) | 41 (14) | 37 (28) | 9 (14) | 145 (23) |
 | Diarrhea | 35 (12) | 21 (7) | 26 (20) | 3 (5) | 297 (47) |
 | Creatinine Increased*** | 33 (11) | 0 (0) | 9 (7) | 0 | 89 (14) |
@@ -88,7 +88,7 @@ Non-Transfusion-Dependent Thalassemia Syndromes
 In Study 5, 110 patients with NTDT received 1 year of treatment with deferasirox 5 or 10 mg/kg/day and 56 patients received placebo in a double-blind, randomized trial.
 In Study 6, 130 of the patients who completed Study 5 were treated with open-label deferasirox at 5, 10, or 20 mg/kg/day (depending on the baseline LIC) for 1 year [see Clinical Studies (14)].
 Table 3 displays adverse reactions occurring in greater than 5% in any group.
-The most frequent adverse reactions with a suspected relationship to study drug were nausea, rash, and diarrhea
+The most frequent adverse reactions with a suspected relationship to study drug were nausea, rash, and diarrhea.
 
 Table 3 Adverse Reactions Occurring in Greater Than 5% in NTDT Patients
 
@@ -143,9 +143,6 @@ The primary findings were:
 In addition, a cohort-based analysis of adverse events was conducted in the deferasirox pediatric pooled clinical trial data.
 Pediatric patients who received Exjade dose > 25 mg/kg/day equivalent to 17.5 mg/kg/day deferasirox when their serum ferritin was < 1,000 mcg/L (n=158), had a 6-fold greater rate of renal adverse events (IRR = 6.00, 95% CI: 1.75 to 21.36) and a 2-fold greater rate of dose interruptions (IRR= 2.06, 95% CI: 1.33 to 3.17) compared to the time-period prior to meeting these simultaneous criteria.
 Adverse events of special interest (cytopenia, renal, hearing, and gastrointestinal disorders) occurred 1.9-fold more frequently when these simultaneous criteria were met, compared to preceding time-periods (IRR=1.91, 95% CI: 1.05 to 3.48) [see Warnings and Precautions (5.6)].
-
-Additional pediatric use information is approved for Novartis Pharmaceuticals Corporation's JADENU® (deferasirox) tablets.
-However, due to Novartis Pharmaceuticals Corporation's marketing exclusivity rights, this drug product is not labeled with that pediatric information.
 
 ## 6.2 Postmarketing Experience
 

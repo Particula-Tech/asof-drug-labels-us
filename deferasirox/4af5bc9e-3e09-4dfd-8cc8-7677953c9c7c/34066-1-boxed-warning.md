@@ -9,7 +9,7 @@ Renal Failure
   Monitor renal function at least monthly.
   For patients with baseline renal impairment or increased risk of acute renal failure, monitor renal function weekly for the first month, then at least monthly.
   Reduce the starting dose in patients with preexisting renal disease.
-  During therapy, increase the frequency of monitoring and modify the dose for patients with an increased risk of renal impairment, including use of concomitant nephrotoxic drugs, and pediatric patients with volume depletion or overchelation [see Dosage and Administration (2.1, 2.4,2.5), Warnings and Precautions (5.1), Adverse Reactions (6.1, 6.2)].
+  During therapy, increase the frequency of monitoring and modify the dose for patients with an increased risk of renal impairment, including use of concomitant nephrotoxic drugs, and pediatric patients with volume depletion or overchelation [see Dosage and Administration (2.1), (2.4), (2.5), Warnings and Precautions (5.1), Adverse Reactions (6.1, 6.2)].
 
 Hepatic Failure
 
