@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA012093"
+  ],
+  "inn": "isosorbide-dinitrate",
+  "labeler": "Oceanside Pharmaceuticals",
+  "package_ndcs": [
+    "68682-192-01",
+    "68682-193-01"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "isosorbide dinitrate",
+      "name": "Isosorbide Dinitrate"
+    }
+  ],
+  "setid": "723d9f78-9d77-4575-af27-1aa117e6b8d7",
+  "source": "dailymed"
+}
