@@ -45,7 +45,7 @@ Table 1: Adverse Reactions in CONFIRM (≥5% in Either Treatment Group)
 | Respiratory System |  |  |
 | Cough | 5 | 5 |
 | Dyspnea | 4 | 5 |
-| 1 Including more severe injection site related sciatica, neuralgia, neuropathic pain, and peripheral neuropathy. |  |  |
+| 1. Including more severe injection site related sciatica, neuralgia, neuropathic pain, and peripheral neuropathy. |  |  |
 
 In the pooled safety population (N=1127) from clinical trials comparing fulvestrant 500 mg to fulvestrant 250 mg, post-baseline increases of ≥1 CTC grade in either AST, ALT, or alkaline phosphatase were observed in >15% of patients receiving fulvestrant injection.
 Grade 3-4 increases were observed in 1 to 2% of patients.
@@ -377,6 +377,9 @@ Table 10: Laboratory Abnormalities Occurring in ≥10% of Patients in MONALEESA-
 | Albumin decreased | 12 | 0 | 0 | 8 | 0 | 0 |
 
 ## 6.2 Postmarketing Experience
+
+The following adverse reactions have been identified during post-approval use of fulvestrant.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 For fulvestrant 250 mg, other adverse reactions reported as drug-related and seen infrequently (<1%) include thromboembolic phenomena, myalgia, vertigo, leukopenia, and hypersensitivity reactions, including angioedema and urticaria.
 

@@ -23,4 +23,4 @@ When fulvestrant injection is used in combination with palbociclib, abemaciclib,
 
 Athenex Mfd. for Athenex Schaumburg, IL 60173 (USA) Made in China ©2020 Athenex.
 
-Revised: February 2020
+Revised: May 2020

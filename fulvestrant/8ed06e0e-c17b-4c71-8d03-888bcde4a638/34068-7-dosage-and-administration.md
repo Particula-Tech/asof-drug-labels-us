@@ -93,4 +93,4 @@ Hands must remain behind the needle at all times during use and disposal.
 
 Do not autoclave SafetyGlide™ Needle before use.
 
-Becton Dickinson guarantees the contents of their unopened or undamaged packages to be sterile, non-toxic and non-pyrogenic.
+Becton Dickinson guarantees the contents of their unopened or undamaged packages to be sterile, non-toxic, and non-pyrogenic.

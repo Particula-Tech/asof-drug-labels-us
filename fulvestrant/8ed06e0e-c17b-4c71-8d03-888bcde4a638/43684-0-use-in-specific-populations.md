@@ -6,7 +6,7 @@ Risk Summary
 
 Based on findings from animal studies and its mechanism of action, fulvestrant injection can cause fetal harm when administered to a pregnant woman [see Clinical Pharmacology (12.1)].
 There are no available data in pregnant women to inform the drug-associated risk.
-In animal reproduction studies, administration of fulvestrant to pregnant rats and rabbits during organogenesis caused embryo-fetal toxicity, including skeletal malformations and fetal loss, at daily doses that were 6% and 30% of the maximum recommended human dose based on mg/m2 respectively [see Data].
+In animal reproduction studies, administration of fulvestrant to pregnant rats and rabbits during organogenesis caused embryo-fetal toxicity, including skeletal malformations and fetal loss, at daily doses that were 6% and 30% of the maximum recommended human dose based on mg/m2, respectively [see Data].
 Advise pregnant women of the potential risk to a fetus.
 
 The estimated background risk of major birth defects and miscarriage for the indicated population is unknown.
@@ -96,10 +96,10 @@ For fulvestrant 250 mg, when tumor response was considered by age, objective res
 
 Fulvestrant is metabolized primarily in the liver.
 
-The pharmacokinetics of fulvestrant were evaluated after a single dose of 100 mg in subjects with mild and moderate hepatic impairment and normal hepatic function (n = 7 subjects/group), using a shorter-acting intramuscular injection formulation.
+The pharmacokinetics of fulvestrant were evaluated after a single dose of 100 mg in subjects with mild and moderate hepatic impairment and normal hepatic function (n=7 subjects/group), using a shorter-acting intramuscular injection formulation.
 Subjects with mild hepatic impairment (Child-Pugh class A) had comparable mean AUC and clearance values to those with normal hepatic function.
 In subjects with moderate hepatic impairment (Child-Pugh class B), the average AUC of fulvestrant increased by 70% compared to patients with normal hepatic function.
-AUC was positively correlated with total bilirubin concentration (p = 0.012).
+AUC was positively correlated with total bilirubin concentration (p=0.012).
 Fulvestrant injection has not been studied in patients with severe hepatic impairment (Child-Pugh class C).
 
 A dose of fulvestrant 250 mg is recommended in patients with moderate hepatic impairment (Child-Pugh class B) [see Dosage and Administration (2.2) and Warnings and Precautions (5.2)].

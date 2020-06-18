@@ -9,7 +9,7 @@ In vitro studies demonstrated that fulvestrant is a reversible inhibitor of the 
 In in vivo tumor studies, fulvestrant delayed the establishment of tumors from xenografts of human breast cancer MCF-7 cells in nude mice.
 Fulvestrant inhibited the growth of established MCF-7 xenografts and of tamoxifen-resistant breast tumor xenografts.
 
-Fulvestrant showed no agonist-type effects in in vivo uterotropic assays in immature or ovariectomized mice and rats.
+Fulvestrant showed no agonist-type effects in in vivo uterotrophic assays in immature or ovariectomized mice and rats.
 In in vivo studies in immature rats and ovariectomized monkeys, fulvestrant blocked the uterotrophic action of estradiol.
 In postmenopausal women, the absence of changes in plasma concentrations of FSH and LH in response to fulvestrant treatment (250 mg monthly) suggests no peripheral steroidal effects.
 
