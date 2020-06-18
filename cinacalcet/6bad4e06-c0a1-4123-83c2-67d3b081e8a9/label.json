@@ -1,0 +1,27 @@
+{
+  "application_numbers": [
+    "ANDA211892"
+  ],
+  "inn": "cinacalcet",
+  "labeler": "Accord Healthcare, Inc.",
+  "package_ndcs": [
+    "16729-440-01",
+    "16729-440-10",
+    "16729-440-15",
+    "16729-441-01",
+    "16729-441-10",
+    "16729-441-15",
+    "16729-442-01",
+    "16729-442-10",
+    "16729-442-15"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "cinacalcet",
+      "name": "CINACALCET"
+    }
+  ],
+  "setid": "6bad4e06-c0a1-4123-83c2-67d3b081e8a9",
+  "source": "dailymed"
+}
