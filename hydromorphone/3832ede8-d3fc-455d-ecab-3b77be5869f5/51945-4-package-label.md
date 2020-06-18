@@ -1,24 +1,22 @@
 # PRINCIPAL DISPLAY PANEL - 1 mL Vial Label
 
-1 mL Single-dose Vial NDC-0409-2634-01
+1 mL Single-dose Vial NDC 0409-2634-10
 
 HIGH POTENCY FORMULATION
 
-Hydromorphone Hydrochloride, Injection, USP
+Hydromorphone Hydrochloride Injection, USP CII
 
-CII
+10 mg/mL
 
-10 mg /mL Rx only
+Rx only
 
-Hospira, Inc., Lake Forest, IL 60045 USA
-
-Printed in USA
+Distributed by Hospira, Inc., Lake Forest, IL 60045 USA
 
 # PRINCIPAL DISPLAY PANEL - 1 mL Vial Box
 
-10 x 1 mL Single-dose Vials NDC-0409-2634-01
+10 x 1 mL Single-dose Vials Rx only
 
-Rx only
+NDC 0409-2634-01 Contains 10 of NDC 0409-2634-10
 
 HIGH POTENCY FORMULATION Hydromorphone Hydrochloride Injection, USP CII
 
@@ -28,37 +26,31 @@ Hospira
 
 # PRINCIPAL DISPLAY PANEL - 5 mL Vial Label
 
-NDC-0409-2634-05
-
-5mL Single-dose Vial
+5 mL Single-dose Vial NDC 0409-2634-25
 
 HIGH POTENCY FORMULATION
 
-Hydromorphone Hydrochloride, Injection, USP
-
-CII
-
-Rx only
+Hydromorphone Hydrochloride Injection, USP CII
 
 50 mg/5 mL (10 mg/mL)
 
+Rx only
+
 FOR USE IN THE PREPARATION OF LARGE-VOLUME PARENTERAL SOLUTIONS
 
-Hospira, Inc., Lake Forest, IL 60045 USA Printed in USA
+Distributed by Hospira, Inc., Lake Forest, IL 60045 USA
 
 # PRINCIPAL DISPLAY PANEL - 5 mL Vial Box
-
-NDC 0409-2634-05
 
 10 x 5 mL Single-dose Vials
 
 Rx only
 
+NDC 0409-2634-05 Contains 10 of NDC 0409-2634-25
+
 HIGH POTENCY FORMULATION
 
-Hydromorphone Hydrochloride Injection, USP
-
-CII
+Hydromorphone Hydrochloride Injection, USP CII
 
 50 mg/5 mL (10 mg/mL)
 
