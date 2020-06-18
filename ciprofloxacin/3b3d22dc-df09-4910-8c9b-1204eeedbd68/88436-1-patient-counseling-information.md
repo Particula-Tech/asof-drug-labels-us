@@ -31,6 +31,8 @@ Inform patients of the following serious adverse reactions that have been associ
 - Hepatotoxicity: Inform patients that severe hepatotoxicity (including acute hepatitis and fatal events) has been reported in patients taking ciprofloxacin tablets.
   Instruct patients to inform their physician if they experience any signs or symptoms of liver injury including: loss of appetite, nausea, vomiting, fever, weakness, tiredness, right upper quadrant tenderness, itching, yellowing of the skin and eyes, light colored bowel movements or dark colored urine.
 
+- Aortic aneurysm and dissection: Inform patients to seek emergency medical care if they experience sudden chest, stomach, or back pain.
+
 - Diarrhea: Diarrhea is a common problem caused by antibiotics which usually ends when the antibiotic is discontinued.
   Sometimes after starting treatment with antibiotics, patients can develop watery and bloody stools (with or without stomach cramps and fever) even as late as two or more months after having taken the last dose of the antibiotic.
   If this occurs, instruct patients to contact their physician as soon as possible.
@@ -68,7 +70,7 @@ They do not treat viral infections (for example, the common cold).
 When ciprofloxacin tablets are prescribed to treat a bacterial infection, patients should be told that although it is common to feel better early in the course of therapy, the medication should be taken exactly as directed.
 Skipping doses or not completing the full course of therapy may (1) decrease the effectiveness of the immediate treatment and (2) increase the likelihood that bacteria will develop resistance and will not be treatable by ciprofloxacin tablets or other antibacterial drugs in the future.
 
-Administration with Food, Fluids, and Concomitant Medications
+Administration Instructions
 
 Inform patients that ciprofloxacin tablets may be taken with or without food.
 
@@ -76,6 +78,10 @@ Inform patients to drink fluids liberally while taking ciprofloxacin tablets to 
 
 Inform patients that antacids containing magnesium, or aluminum, as well as sucralfate, metal cations such as iron, and multivitamin preparations with zinc or didanosine should be taken at least two hours before or six hours after ciprofloxacin tablets administration.
 Ciprofloxacin tablets should not be taken with dairy products (like milk or yogurt) or calcium-fortified juices alone since absorption of ciprofloxacin may be significantly reduced; however, ciprofloxacin tablets may be taken with a meal that contains these products.
+
+Advise patients that if a dose is missed, it should be taken anytime but not later than 6 hours prior to the next scheduled dose.
+If less than 6 hours remain before the next dose, the missed dose should not be taken and treatment should be continued as prescribed with the next scheduled dose.
+Double doses should not be taken to compensate for a missed dose.
 
 Drug Interactions Oral Antidiabetic Agents
 
@@ -91,4 +97,4 @@ Distributed by: West-Ward Pharmaceuticals Corp. Eatontown, NJ 07724 USA
 Manufactured by: HIKMA Pharmaceuticals P.O.
 Box 182400 Amman 11118 – Jordan
 
-March 2020
+May 2020

@@ -21,11 +21,13 @@ A controlled prospective observational study followed 200 women exposed to fluor
 In utero exposure to fluoroquinolones during embryogenesis was not associated with increased risk of major malformations.
 The reported rates of major congenital malformations were 2.2% for the fluoroquinolone group and 2.6% for the control group (background incidence of major malformations is 1–5%).
 Rates of spontaneous abortions, prematurity and low birth weight did not differ between the groups and there were no clinically significant musculoskeletal dysfunctions up to one year of age in the ciprofloxacin exposed children.
+
 Another prospective follow-up study reported on 549 pregnancies with fluoroquinolone exposure (93% first trimester exposures).
 There were 70 ciprofloxacin exposures, all within the first trimester.
 The malformation rates among live-born babies exposed to ciprofloxacin and to fluoroquinolones overall were both within background incidence ranges.
 No specific patterns of congenital abnormalities were found.
 The study did not reveal any clear adverse reactions due to in utero exposure to ciprofloxacin.
+
 No differences in the rates of prematurity, spontaneous abortions, or birth weight were seen in women exposed to ciprofloxacin during pregnancy.
 However, these small postmarketing epidemiology studies, of which most experience is from short term, first trimester exposure, are insufficient to evaluate the risk for less common defects or to permit reliable and definitive conclusions regarding the safety of ciprofloxacin in pregnant women and their developing fetuses.
 

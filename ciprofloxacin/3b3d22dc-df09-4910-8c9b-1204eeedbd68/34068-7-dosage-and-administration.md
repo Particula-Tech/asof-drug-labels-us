@@ -117,3 +117,9 @@ Assure adequate hydration of patients receiving ciprofloxacin tablets to prevent
 Crystalluria has been reported with quinolones.
 
 Instruct the patient of the appropriate ciprofloxacin tablets administration [see Patient Counseling Information (17)].
+
+Missed Doses
+
+If a dose is missed, it should be taken anytime but not later than 6 hours prior to the next scheduled dose.
+If less than 6 hours remain before the next dose, the missed dose should not be taken and treatment should be continued as prescribed with the next scheduled dose.
+Double doses should not be taken to compensate for a missed dose.

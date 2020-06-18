@@ -37,9 +37,7 @@ Avoid fluoroquinolones, including ciprofloxacin tablets, in patients who have pr
 Psychiatric Adverse Reactions
 
 Fluoroquinolones, including ciprofloxacin tablets have been associated with an increased risk of psychiatric adverse reactions, including: toxic psychosis, psychotic reactions progressing to suicidal ideations/thoughts, hallucinations, or paranoia; depression, or self-injurious behavior such as attempted or completed suicide; anxiety, agitation, or nervousness; confusion, delirium, disorientation, or disturbances in attention; insomnia or nightmares; memory impairment.
-These
-
-reactions may occur following the first dose.
+Thesereactions may occur following the first dose.
 Advise patients receiving ciprofloxacin tablets to inform their healthcare provider immediately if these reactions occur, discontinue the drug, and institute appropriate care.
 
 Central Nervous System Adverse Reactions
@@ -47,9 +45,7 @@ Central Nervous System Adverse Reactions
 Fluoroquinolones, including ciprofloxacin tablets have been associated with an increased risk of seizures (convulsions), increased intracranial pressure (pscudotumor cerebri), dizziness, and tremors.
 Ciprofloxacin tablets, like other fluoroquinolones, is known to trigger seizures or lower the seizure threshold.
 Cases of status epilepticus have been reported.
-As with all fluoroquinolones, use ciprofloxacin tablets with caution in epileptic patients and patients with known or suspected CNS disorders that may predispose to seizures or lower the seizure threshold (for example, severe cerebral arteriosclerosis, previous history
-
-of convulsion, reduced cerebral blood flow, altered brain structure, or stroke), or in the presence of other risk factors that may predispose to seizures or lower the seizure threshold (for example, certain drug therapy, renal dysfunction).
+As with all fluoroquinolones, use ciprofloxacin tablets with caution in epileptic patients and patients with known or suspected CNS disorders that may predispose to seizures or lower the seizure threshold (for example, severe cerebral arteriosclerosis, previous history of convulsion, reduced cerebral blood flow, altered brain structure, or stroke), or in the presence of other risk factors that may predispose to seizures or lower the seizure threshold (for example, certain drug therapy, renal dysfunction).
 If seizures occur, discontinue ciprofloxacin tablets and institute appropriate care [see Adverse Reactions (6.1) and Drug Interactions (7)].
 
 ## 5.5 Exacerbation of Myasthenia Gravis
