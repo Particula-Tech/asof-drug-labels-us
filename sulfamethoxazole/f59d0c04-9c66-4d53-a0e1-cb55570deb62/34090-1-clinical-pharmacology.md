@@ -2,8 +2,8 @@
 
 BACTRIM is rapidly absorbed following oral administration.
 Both sulfamethoxazole and trimethoprim exist in the blood as unbound, protein-bound and metabolized forms; sulfamethoxazole also exists as the conjugated form.
-Sulfamethoxazole is metabolized in humans to at least 5 metabolites: the N 4-acetyl-, N 4-hydroxy-, 5-methylhydroxy-, N 4-acetyl-5-methylhydroxy- sulfamethoxazole metabolites, and an N-glucuronide conjugate.
-The formulation of N 4-hydroxy metabolite is mediated via CYP2C9.
+Sulfamethoxazole is metabolized in humans to at least 5 metabolites: the N4-acetyl-, N4-hydroxy-, 5-methylhydroxy-, N4-acetyl-5-methylhydroxy- sulfamethoxazole metabolites, and an N-glucuronide conjugate.
+The formulation of N4-hydroxy metabolite is mediated via CYP2C9.
 
 Trimethoprim is metabolized in vitro to 11 different metabolites, of which, five are glutathione adducts and six are oxidative metabolites, including the major metabolites, 1- and 3-oxides and the 3- and 4-hydroxy derivatives.
 
@@ -20,20 +20,20 @@ However, patients with severely impaired renal function exhibit an increase in t
 Detectable amounts of sulfamethoxazole and trimethoprim are present in the blood 24 hours after drug administration.
 During administration of 800 mg sulfamethoxazole and 160 mg trimethoprim b.i.d., the mean steady-state plasma concentration of trimethoprim was 1.72 µg/mL.
 The steady-state mean plasma levels of free and total sulfamethoxazole were 57.4 µg/mL and 68.0 µg/mL, respectively.
-These steady-state levels were achieved after three days of drug administration.
-1 Excretion of sulfamethoxazole and trimethoprim is primarily by the kidneys through both glomerular filtration and tubular secretion.
+These steady-state levels were achieved after three days of drug administration.1 Excretion of sulfamethoxazole and trimethoprim is primarily by the kidneys through both glomerular filtration and tubular secretion.
 Urine concentrations of both sulfamethoxazole and trimethoprim are considerably higher than are the concentrations in the blood.
 The average percentage of the dose recovered in urine from 0 to 72 hours after a single oral dose of sulfamethoxazole and trimethoprim is 84.5% for total sulfonamide and 66.8% for free trimethoprim.
-Thirty percent of the total sulfonamide is excreted as free sulfamethoxazole, with the remaining as N 4-acetylated metabolite.
+Thirty percent of the total sulfonamide is excreted as free sulfamethoxazole, with the remaining as N4-acetylated metabolite.
 2 When administered together as sulfamethoxazole and trimethoprim, neither sulfamethoxazole nor trimethoprim affects the urinary excretion pattern of the other.
 
 Both sulfamethoxazole and trimethoprim distribute to sputum, vaginal fluid and middle ear fluid; trimethoprim also distributes to bronchial secretion, and both pass the placental barrier and are excreted in human milk.
 
-Geriatric Pharmacokinetics: The pharmacokinetics of sulfamethoxazole 800 mg and trimethoprim 160 mg were studied in 6 geriatric subjects (mean age: 78.6 years) and 6 young healthy subjects (mean age: 29.3 years) using a non-US approved formulation.
+Pharmacokinetics in Pediatric Patients: A simulation conducted with data from a pharmacokinetic study in 153 infants and children demonstrated that mean steady state AUC and maximum plasma concentration of trimethoprim and sulfamethoxazole would be comparable between pediatric patients 2 months to 18 years receiving 8/40 (trimethoprim/ sulfamethoxazole) mg/kg/day divided every 12 hours and adult patients receiving 320/1600 (trimethoprim/ sulfamethoxazole) mg/day.
+
+Pharmacokinetics in Geriatric Patients: The pharmacokinetics of sulfamethoxazole 800 mg and trimethoprim 160 mg were studied in 6 geriatric subjects (mean age: 78.6 years) and 6 young healthy subjects (mean age: 29.3 years) using a non-US approved formulation.
 Pharmacokinetic values for sulfamethoxazole in geriatric subjects were similar to those observed in young adult subjects.
 The mean renal clearance of trimethoprim was significantly lower in geriatric subjects compared with young adult subjects (19 mL/h/kg vs. 55 mL/h/kg).
-However, after normalizing by body weight, the apparent total body clearance of trimethoprim was on average 19% lower in geriatric subjects compared with young adult subjects.
-3
+However, after normalizing by body weight, the apparent total body clearance of trimethoprim was on average 19% lower in geriatric subjects compared with young adult subjects.3
 
 ## Microbiology
 
@@ -43,13 +43,35 @@ Thus, sulfamethoxazole and trimethoprim blocks two consecutive steps in the bios
 
 In vitro studies have shown that bacterial resistance develops more slowly with both sulfamethoxazole and trimethoprim in combination than with either sulfamethoxazole or trimethoprim alone.
 
-Sulfamethoxazole and trimethoprim have been shown to be active against most strains of the following microorganisms, both in vitro and in clinical infections as described in the INDICATIONS AND USAGE section.
+Sulfamethoxazole and trimethoprim have been shown to be active against most isolates of the following microorganisms, both in vitro and in clinical infections as described in theINDICATIONS AND USAGEsection.
 
-Aerobic gram-positive microorganisms: Streptococcus pneumoniae
+Aerobic gram-positive bacteria:
 
-Aerobic gram-negative microorganisms: Escherichia coli (including susceptible enterotoxigenic strains implicated in traveler's diarrhea) Klebsiella species Enterobacter species Haemophilus influenzae Morganella morganii Proteus mirabilis Proteus vulgaris Shigella flexneri Shigella sonnei
+Streptococcus pneumoniae
 
-Other Organisms: Pneumocystis jiroveci
+Aerobic gram-negative bacteria:
+
+Escherichia coli (including susceptible enterotoxigenic strains implicated in traveler's diarrhea)
+
+Klebsiella species
+
+Enterobacter species
+
+Haemophilus influenzae
+
+Morganella morganii
+
+Proteus mirabilis
+
+Proteus vulgaris
+
+Shigella flexneri
+
+Shigella sonnei
+
+Other Organisms:
+
+Pneumocystis jiroveci
 
 Susceptibility Testing
 
