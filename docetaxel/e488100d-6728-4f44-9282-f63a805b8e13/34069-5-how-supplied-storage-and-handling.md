@@ -9,19 +9,19 @@ Discard unused portion.
 
 Docetaxel Injection USP 20 mg/mL (NDC 57884-3041-1)
 
-Docetaxel Injection USP 20 mg/1 mL: 20 mg docetaxel in 1 mL in 50/50 (v/v) ratio polysorbate 80/dehydrated alcohol.
+Docetaxel Injection USP 20 mg/1 mL: 20 mg docetaxel in 1 mL 50/50 (v/v) ratio polysorbate 80/dehydrated alcohol.
 
 The vial is in a blister pack in one carton.
 
 Docetaxel Injection USP 80 mg/4mL (NDC 57884-3042-1)
 
-Docetaxel Injection USP 80 mg/4 mL: 80 mg docetaxel in 4 mL in 50/50 (v/v) ratio polysorbate 80/dehydrated alcohol.
+Docetaxel Injection USP 80 mg/4 mL: 80 mg docetaxel in 4 mL 50/50 (v/v) ratio polysorbate 80/dehydrated alcohol.
 
 The vial is in a blister pack in one carton.
 
 Docetaxel Injection USP 160 mg/8mL (NDC 57884-3043-1)
 
-Docetaxel Injection USP 160 mg/8 mL: 160 mg docetaxel in 8 mL in 50/50 (v/v) ratio polysorbate 80/dehydrated alcohol.
+Docetaxel Injection USP 160 mg/8 mL: 160 mg docetaxel in 8 mL 50/50 (v/v) ratio polysorbate 80/dehydrated alcohol.
 
 The vial is in a blister pack in one carton.
 

@@ -76,6 +76,7 @@ Before you receive Docetaxel Injection, tell your healthcare provider about all 
 - are allergic to any medicines, including paclitaxel.
   See " Do not receive Docetaxel Injection if you".
 - have liver problems
+- have kidney problems
 - are pregnant or plan to become pregnant.
   Docetaxel Injection can harm your unborn baby.
   You should not become pregnant during treatment with Docetaxel Injection.
@@ -121,6 +122,20 @@ Docetaxel Injection may cause serious side effects including death.
 - Docetaxel Injection contains alcohol.
   The alcohol content in Docetaxel Injection may impair your ability to drive or use machinery right after receiving Docetaxel Injection.
   Consider whether you should drive, operate machinery or do other dangerous activities right after you receive Docetaxel Injection treatment.
+- Tumor lysis syndrome (TLS).
+  TLS is caused by the fast breakdown of cancer cells.
+  TLS can cause kidney failure, the need for dialysis treatment, or heart problems, and may lead to death.
+  Your healthcare provider will do blood tests to check for TLS when you first start treatment and during treatment with Docetaxel Injection.
+  Tell your healthcare provider right away if you have any symptoms of TLS during treatment with Docetaxel Injection, including:
+- nausea
+- irregular heartbeat
+- vomiting
+- dark or cloudy urine
+- confusion
+- reduced amount of urine
+- shortness of breath
+- unusual tiredness
+- muscle cramps
 - You may experience side effects of this medicine that may impair your ability to drive, use tools, or operate machines.
   If this happens, do not drive or use any tools or machines before discussing with your healthcare provider.
 
@@ -182,7 +197,7 @@ eVenus Pharmaceutical Laboratories, Inc. (eVenus)
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 
-Revised: 12/2019
+Revised: 06/2020
 
 | Every three-week injection of Docetaxel Injection for breast, non-small cell lung and stomach, and head and neck cancers Take your oral corticosteroid medicine as your healthcare provider tells you. |
 | --- |
@@ -200,6 +215,6 @@ Revised: 12/2019
 | (Docetaxel Injection Treatment Day) |
 | Time: ________ |
 
-Revised: December 2019
+Revised: June 2020
 
-10VUF04
+10VUF05
