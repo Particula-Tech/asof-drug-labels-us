@@ -35,7 +35,7 @@ Table 2: Adverse Reactions (≥ 1% and at least twice placebo) Leading to Discon
 |  | Mirtazapine(n = 453) | Placebo(n = 361) |
 | --- | --- | --- |
 | Somnolence | 10.4% | 2.2% |
-| Nausea | 1.5% | 0 % |
+| Nausea | 1.5% | 0% |
 
 ### Common Adverse Reactions
 
@@ -131,5 +131,7 @@ Endocrine Disorders: hyperprolactinemia (and related symptoms, e.g., galactorrhe
 Musculoskeletal and Connective Tissue Disorders: increased creatine kinase blood levels and rhabdomyolysis
 
 Psychiatric Disorders: somnambulism (ambulation and other complex behaviors out of bed)
+
+Reproductive System and Breast Disorders: priapism
 
 Skin and Subcutaneous Tissue Disorders: severe skin reactions, including Stevens-Johnson syndrome, bullous dermatitis, erythema multiforme and toxic epidermal necrolysis
