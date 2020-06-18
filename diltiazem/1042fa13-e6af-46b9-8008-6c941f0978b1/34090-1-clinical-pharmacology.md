@@ -1,13 +1,13 @@
 # CLINICAL PHARMACOLOGY
 
-The therapeutic effects of CARDIZEM CD are believed to be related to its ability to inhibit the cellular influx of calcium ions during membrane depolarization of cardiac and vascular smooth muscle.
+The therapeutic effects of diltiazem are believed to be related to its ability to inhibit the cellular influx of calcium ions during membrane depolarization of cardiac and vascular smooth muscle.
 
 Mechanisms of Action
 
-Hypertension: CARDIZEM CD produces its antihypertensive effect primarily by relaxation of vascular smooth muscle and the resultant decrease in peripheral vascular resistance.
+Hypertension: Diltiazem produces its antihypertensive effect primarily by relaxation of vascular smooth muscle and the resultant decrease in peripheral vascular resistance.
 The magnitude of blood pressure reduction is related to the degree of hypertension; thus hypertensive individuals experience an antihypertensive effect, whereas there is only a modest fall in blood pressure in normotensives.
 
-Angina: CARDIZEM CD has been shown to produce increases in exercise tolerance, probably due to its ability to reduce myocardial oxygen demand.
+Angina: Diltiazem has been shown to produce increases in exercise tolerance, probably due to its ability to reduce myocardial oxygen demand.
 This is accomplished via reductions in heart rate and systemic blood pressure at submaximal and maximal workloads.
 Diltiazem has been shown to be a potent dilator of coronary arteries, both epicardial and subendocardial.
 Spontaneous and ergonovine-induced coronary artery spasms are inhibited by diltiazem.
@@ -49,22 +49,22 @@ A significant increase in time to termination of exercise and a significant decr
 In this trial the overall frequency of adverse events in the CARDIZEM CD treatment group was the same as the placebo group.
 
 Intravenous diltiazem in doses of 20 mg prolongs AH conduction time and AV node functional and effective refractory periods by approximately 20%.
-In a study involving single oral doses of 300 mg of CARDIZEM in six normal volunteers, the average maximum PR prolongation was 14% with no instances of greater than first-degree AV block.
+In a study involving single oral doses of diltiazem hydrochloride 300 mg in six normal volunteers, the average maximum PR prolongation was 14% with no instances of greater than first-degree AV block.
 Diltiazem-associated prolongation of the AH interval is not more pronounced in patients with first-degree heart block.
 In patients with sick sinus syndrome, diltiazem significantly prolongs sinus cycle length (up to 50% in some cases).
 
-Chronic oral administration of CARDIZEM to patients in doses of up to 540 mg/day has resulted in small increases in PR interval and on occasion produces abnormal prolongation (see WARNINGS).
+Chronic oral administration of diltiazem hydrochloride to patients in doses of up to 540 mg/day has resulted in small increases in PR interval and on occasion produces abnormal prolongation (see WARNINGS).
 
 ## Pharmacokinetics and Metabolism
 
 Diltiazem is well absorbed from the gastrointestinal tract and is subject to an extensive first-pass effect, giving an absolute bioavailability (compared to intravenous administration) of about 40%.
-CARDIZEM undergoes extensive metabolism in which only 2% to 4% of the unchanged drug appears in the urine.
+Diltiazem undergoes extensive metabolism in which only 2% to 4% of the unchanged drug appears in the urine.
 Drugs which induce or inhibit hepatic microsomal enzymes may alter diltiazem disposition.
 
 Total radioactivity measurement following short IV administration in healthy volunteers suggests the presence of other unidentified metabolites, which attain higher concentrations than those of diltiazem and are more slowly eliminated; half-life of total radioactivity is about 20 hours compared to 2 to 5 hours for diltiazem.
 
-In vitro binding studies show CARDIZEM is 70% to 80% bound to plasma proteins.
-Competitive in vitro ligand binding studies have also shown CARDIZEM binding is not altered by therapeutic concentrations of digoxin, hydrochlorothiazide, phenylbutazone, propranolol, salicylic acid, or warfarin.
+In vitrobinding studies show diltiazem is 70% to 80% bound to plasma proteins.
+Competitive in vitroligand binding studies have also shown diltiazem hydrochloride binding is not altered by therapeutic concentrations of digoxin, hydrochlorothiazide, phenylbutazone, propranolol, salicylic acid, or warfarin.
 The plasma elimination half-life following single or multiple drug administration is approximately 3.0 to 4.5 hours.
 Desacetyl diltiazem is also present in the plasma at levels of 10% to 20% of the parent drug and is 25% to 50% as potent as a coronary vasodilator as diltiazem.
 Minimum therapeutic plasma diltiazem concentrations appear to be in the range of 50 to 200 ng/mL.
@@ -82,4 +82,4 @@ As the dose of CARDIZEM CD capsules is increased from a daily dose of 120 mg to 
 When the dose is increased from 240 mg to 360 mg, there is an increase in the area under the curve of 1.6 times.
 
 In an in vitro dissolution study, the release rate of diltiazem from CARDIZEM CD increased significantly as the alcohol percentage in the dissolution medium increased.
-The effect of alcohol on the release rate may lead to a change in the pharmacokinetics of diltiazem, such as a more rapid absorption and/or an increase in the systemic exposure of diltiazem (see PRECAUTIONS, Drug Interactions).
+The effect of alcohol on the release rate may lead to a change in the pharmacokinetics of diltiazem, such as a more rapid absorption and/or an increase in the systemic exposure of diltiazem (see PRECAUTIONS,Drug Interactions).

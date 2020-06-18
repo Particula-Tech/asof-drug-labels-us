@@ -1,25 +1,25 @@
 # WARNINGS
 
-## Cardiac Conduction: CARDIZEM prolongs AV node refractory periods without significantly prolonging sinus node recovery time, except in patients with sick sinus syndrome. This effect may rarely result in abnormally slow heart rates (particularly in patients with sick sinus syndrome) or second- or third-degree AV block (13 of 3290 patients or 0.40%). Concomitant use of diltiazem with beta-blockers or digitalis may result in additive effects on cardiac conduction. A patient with Prinzmetal’s angina developed periods of asystole (2 to 5 seconds) after a single dose of 60 mg of diltiazem (see ADVERSE REACTIONS). Congestive Heart Failure: Although diltiazem has a negative inotropic effect in isolated animal tissue preparations, hemodynamic studies in humans with normal ventricular function have not shown a reduction in cardiac index nor consistent negative effects on contractility (dP/dt). An acute study of oral diltiazem in patients with impaired ventricular function (ejection fraction 24% ± 6%) showed improvement in indices of ventricular function without significant decrease in contractile function (dP/dt). Worsening of congestive heart failure has been reported in patients with preexisting impairment of ventricular function. Experience with the use of CARDIZEM (diltiazem hydrochloride) in combination with beta-blockers in patients with impaired ventricular function is limited. Caution should be exercised when using this combination. Hypotension: Decreases in blood pressure associated with CARDIZEM therapy may occasionally result in symptomatic hypotension. Acute Hepatic Injury: Mild elevations of transaminases with and without concomitant elevation in alkaline phosphatase and bilirubin have been observed in clinical studies. Such elevations were usually transient and frequently resolved even with continued diltiazem treatment. In rare instances, significant elevations in enzymes such as alkaline phosphatase, LDH, SGOT, SGPT, and other phenomena consistent with acute hepatic injury have been noted. These reactions tended to occur early after therapy initiation (1 to 8 weeks) and have been reversible upon discontinuation of drug therapy. The relationship to CARDIZEM is uncertain in some cases, but probable in some (see PRECAUTIONS).
+## Cardiac Conduction: Diltiazem hydrochloride prolongs AV node refractory periods without significantly prolonging sinus node recovery time, except in patients with sick sinus syndrome. This effect may rarely result in abnormally slow heart rates (particularly in patients with sick sinus syndrome) or second- or third-degree AV block (13 of 3290 patients or 0.40%). Concomitant use of diltiazem with beta-blockers or digitalis may result in additive effects on cardiac conduction. A patient with Prinzmetal’s angina developed periods of asystole (2 to 5 seconds) after a single dose of 60 mg of diltiazem (see ADVERSE REACTIONS). Congestive Heart Failure: Although diltiazem has a negative inotropic effect in isolated animal tissue preparations, hemodynamic studies in humans with normal ventricular function have not shown a reduction in cardiac index nor consistent negative effects on contractility (dP/dt). An acute study of oral diltiazem in patients with impaired ventricular function (ejection fraction 24% ± 6%) showed improvement in indices of ventricular function without significant decrease in contractile function (dP/dt). Worsening of congestive heart failure has been reported in patients with preexisting impairment of ventricular function. Experience with the use of diltiazem hydrochloride in combination with beta-blockers in patients with impaired ventricular function is limited. Caution should be exercised when using this combination. Hypotension: Decreases in blood pressure associated with diltiazem hydrochloride therapy may occasionally result in symptomatic hypotension. Acute Hepatic Injury: Mild elevations of transaminases with and without concomitant elevation in alkaline phosphatase and bilirubin have been observed in clinical studies. Such elevations were usually transient and frequently resolved even with continued diltiazem treatment. In rare instances, significant elevations in enzymes such as alkaline phosphatase, LDH, SGOT, SGPT, and other phenomena consistent with acute hepatic injury have been noted. These reactions tended to occur early after therapy initiation (1 to 8 weeks) and have been reversible upon discontinuation of drug therapy. The relationship to diltiazem hydrochloride is uncertain in some cases, but probable in some (see PRECAUTIONS).
 
 # PRECAUTIONS
 
 ## General
 
-CARDIZEM (diltiazem hydrochloride) is extensively metabolized by the liver and excreted by the kidneys and in bile.
+Diltiazem hydrochloride is extensively metabolized by the liver and excreted by the kidneys and in bile.
 Laboratory parameters of renal and hepatic function should be monitored at regular intervals.
 In subacute and chronic dog and rat studies designed to produce toxicity, high doses of diltiazem were associated with hepatic damage.
 In special subacute hepatic studies, oral doses of 125 mg/kg and higher in rats were associated with histological changes in the liver which were reversible when the drug was discontinued.
 In dogs, doses of 20 mg/kg were also associated with hepatic changes; however, these changes were reversible with continued dosing.
 
-Dermatological events (see ADVERSE REACTIONS) may be transient and may disappear despite continued use of CARDIZEM.
+Dermatological events (see ADVERSE REACTIONS) may be transient and may disappear despite continued use of diltiazem hydrochloride.
 However, skin eruptions progressing to erythema multiforme and/or exfoliative dermatitis have also been infrequently reported.
 Should a dermatologic reaction persist, the drug should be discontinued.
 
 ## Drug Interactions
 
-Because of the potential for additive effects, slow titration is warranted in patients receiving CARDIZEM concomitantly with other agents known to affect cardiac contractility and/or conduction (see WARNINGS).
-Pharmacologic studies indicate that there may be additive effects in prolonging AV conduction when using beta-blockers or digitalis concomitantly with CARDIZEM (see WARNINGS).
+Because of the potential for additive effects, slow titration is warranted in patients receiving diltiazem hydrochloride concomitantly with other agents known to affect cardiac contractility and/or conduction (see WARNINGS).
+Pharmacologic studies indicate that there may be additive effects in prolonging AV conduction when using beta-blockers or digitalis concomitantly with CARDIZEM CD (see WARNINGS).
 
 Diltiazem is both a substrate and an inhibitor of the cytochrome P450 3A4 enzyme system.
 Other drugs that are specific substrates, inhibitors, or inducers of this enzyme system may have a significant impact on the efficacy and side effect profile of diltiazem.
@@ -32,9 +32,9 @@ Benzodiazepines: Studies showed that diltiazem increased the AUC of midazolam an
 The elimination half-life of midazolam and triazolam also increased (1.5- to 2.5-fold) during coadministration with diltiazem.
 These pharmacokinetic effects seen during diltiazem coadministration can result in increased clinical effects (e.g., prolonged sedation) of both midazolam and triazolam.
 
-Beta-blockers: Controlled and uncontrolled domestic studies suggest that concomitant use of CARDIZEM and beta-blockers is usually well tolerated, but available data are not sufficient to predict the effects of concomitant treatment in patients with left ventricular dysfunction or cardiac conduction abnormalities.
+Beta-blockers: Controlled and uncontrolled domestic studies suggest that concomitant use of diltiazem hydrochloride and beta-blockers is usually well tolerated, but available data are not sufficient to predict the effects of concomitant treatment in patients with left ventricular dysfunction or cardiac conduction abnormalities.
 
-Administration of CARDIZEM (diltiazem hydrochloride) concomitantly with propranolol in five normal volunteers resulted in increased propranolol levels in all subjects and bioavailability of propranolol was increased approximately 50%.
+Administration of diltiazem hydrochloride concomitantly with propranolol in five normal volunteers resulted in increased propranolol levels in all subjects and bioavailability of propranolol was increased approximately 50%.
 In vitro, propranolol appears to be displaced from its binding sites by diltiazem.
 If combination therapy is initiated or withdrawn in conjunction with propranolol, an adjustment in the propranolol dose may be warranted (see WARNINGS).
 
@@ -60,9 +60,9 @@ In renal and cardiac transplant recipients, a reduction of cyclosporine dose ran
 If these agents are to be administered concurrently, cyclosporine concentrations should be monitored, especially when diltiazem therapy is initiated, adjusted, or discontinued.
 The effect of cyclosporine on diltiazem plasma concentrations has not been evaluated.
 
-Digitalis: Administration of CARDIZEM with digoxin in 24 healthy male subjects increased plasma digoxin concentrations approximately 20%.
+Digitalis: Administration of diltiazem hydrochloride with digoxin in 24 healthy male subjects increased plasma digoxin concentrations approximately 20%.
 Another investigator found no increase in digoxin levels in 12 patients with coronary artery disease.
-Monitor digoxin levels when initiating, adjusting, and discontinuing CARDIZEM therapy to avoid possible over- or under-digitalization (see WARNINGS).
+Monitor digoxin levels when initiating, adjusting, and discontinuing diltiazem hydrochloride therapy to avoid possible over- or under-digitalization (see WARNINGS).
 
 Ivabradine: Concurrent use of diltiazem increases exposure to ivabradine and may exacerbate bradycardia and conduction disturbances.
 Avoid concomitant use of ivabradine and diltiazem.
@@ -93,7 +93,7 @@ Avoid consumption of alcohol with CARDIZEM CD (see CLINICAL PHARMACOLOGY).
 Carcinogenesis, Mutagenesis, Impairment of Fertility
 
 A 24-month study in rats at oral dosage levels of up to 100 mg/kg/day and a 21-month study in mice at oral dosage levels of up to 30 mg/kg/day showed no evidence of carcinogenicity.
-There was also no mutagenic response in vitro or in vivo in mammalian cell assays or in vitro in bacteria.
+There was also no mutagenic response in vitroor in vivo in mammalian cell assays or in vitroin bacteria.
 No evidence of impaired fertility was observed in a study performed in male and female rats at oral dosages of up to 100 mg/kg/day.
 
 Pregnancy
@@ -103,13 +103,13 @@ Administration of doses ranging from five to ten times greater (on a mg/kg basis
 These doses, in some studies, have been reported to cause skeletal abnormalities.
 In the perinatal/postnatal studies, there was an increased incidence of stillbirths at doses of 20 times the human dose or greater.
 
-There are no well-controlled studies in pregnant women; therefore, use CARDIZEM in pregnant women only if the potential benefit justifies the potential risk to the fetus.
+There are no well-controlled studies in pregnant women; therefore, use diltiazem hydrochloride in pregnant women only if the potential benefit justifies the potential risk to the fetus.
 
 Nursing Mothers
 
 Diltiazem is excreted in human milk.
 One report suggests that concentrations in breast milk may approximate serum levels.
-If use of CARDIZEM is deemed essential, an alternative method of infant feeding should be instituted.
+If use of CARDIZEM CD is deemed essential, an alternative method of infant feeding should be instituted.
 
 Pediatric Use
 
