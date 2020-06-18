@@ -23,7 +23,7 @@ The DEXYCU administration kit contains the following items:
 | --- | --- |
 | Step 2. Withdraw the syringe plunger approximately 1 inch. Place the syringe ring on the plunger (slit facing the plunger). Apply slight downward pressure until the syringe ring "snaps" into place. |  |
 | Step 3. Place the 18-gauge needle firmly on the syringe. Remove the cap from the needle. Depress the plunger completely and then withdraw the plunger to fill the syringe with air. |  |
-| Step 4. Vigorously shake the vial of DEXYCU sideways for a minimum of 30 seconds. The suspended drug material must be used immediately after shaking. |  |
+| Step 4. Mix using a vortex mixer or vigorously shake the vial of DEXYCU sideways for a minimum of 30 seconds. The suspended drug material must be used immediately after shaking. |  |
 | Step 5. Remove the blue plastic flip-cap from the vial and wipe the top of rubber stopper with an alcohol pad. Invert the vial. |  |
 | Step 6. Insert the needle into the vial and inject the air into the vial. Making sure the needle tip is immersed in the drug material pooled in the neck of the inverted vial, fill the syringe by slowly withdrawing the plunger approximately 0.2 mL. Remove the needle from the vial and discard the unused portion in the vial. |  |
 | Step 7. Remove the needle from the syringe. Firmly place the cannula on the syringe and remove the plastic cap. Hold the syringe vertically with the cannula pointing up. Depress the plunger to expel air bubbles from syringe. |  |
