@@ -47,5 +47,5 @@ Use of alcohol while taking EMSAM is not recommended, even though EMSAM has not 
 
 Monitor blood pressure if sympathomimetic agents (e.g., phenylpropanolamine (PPA) or pseudoephedrine) are used with EMSAM, even though selegiline does not appear to affect the pharmacokinetics of PPA or pseudoephedrine [see Clinical Pharmacology (12.3)].
 
-No dose adjustment of alprazolam, ibuprofen, levothyroxine, olanzapine, risperdione, warfarin, or strong CYP3A4 inhibitors (e.g., ketoconazole) is necessary when these drugs are used in combination with EMSAM.
+No dose adjustment of alprazolam, ibuprofen, levothyroxine, olanzapine, risperidone, warfarin, or strong CYP3A4 inhibitors (e.g., ketoconazole) is necessary when these drugs are used in combination with EMSAM.
 EMSAM had no clinically relevant effect on pharmacokinetics of these drugs.

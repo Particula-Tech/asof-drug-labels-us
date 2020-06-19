@@ -67,4 +67,4 @@ Prescribers should instruct patients on the following:
 - •Only one EMSAM transdermal system should be worn at a time.
 - •Do not cut the EMSAM transdermal system into smaller portions.
 
-#The brand name listed is a trademark of its respective owner.
+The brands listed are trademarks of their respective owners.

@@ -171,5 +171,5 @@ In subjects who had received EMSAM 6 mg per 24 hours for 10 days, co-administrat
 #### Warfarin
 
 Warfarin is a substrate for CYP2C9 and CYP3A4 metabolism pathways.
-In healthy volunteers titrated with Coumadin®# (warfarin sodium) to clinical levels of anticoagulation (INR of 1.5 to 2), co-administration with EMSAM 6 mg per 24 hours for 7 days did not affect the pharmacokinetics of the individual warfarin enantiomers.
+In healthy volunteers titrated with Coumadin® (warfarin sodium) to clinical levels of anticoagulation (INR of 1.5 to 2), co-administration with EMSAM 6 mg per 24 hours for 7 days did not affect the pharmacokinetics of the individual warfarin enantiomers.
 EMSAM did not alter the clinical pharmacodynamic effects of warfarin as measured by INR, Factor VII or Factor X levels [see Drug Interactions (7.4) and (7.5)].

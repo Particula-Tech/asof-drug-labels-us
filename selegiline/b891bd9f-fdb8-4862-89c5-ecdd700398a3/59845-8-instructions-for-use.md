@@ -20,7 +20,7 @@ Before you apply EMSAM
   - •is freshly washed with soap and warm water, then dried with a towel
   - •does not have any powder, oil or lotion
   - •does not have any cuts or irritation, including rashes, swelling, redness, or other skin problems
-  - •is not hairy, scared or calloused
+  - •is not hairy, scarred or calloused
 
 Step 3.
 How to apply EMSAM
@@ -89,7 +89,7 @@ Removing and disposing of your patch
 - •To safely throw away the patches:
   - •Remove the leftover patches from their protective pouches and remove the release liners.
   - •Fold the patches in half with the sticky sides together and throw the patches away in a container with a lid.
-  - •Wash your hands with soap and water.
+- •Wash your hands with soap and water.
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
@@ -98,4 +98,4 @@ Morgantown, WV 26505 U.S.A.
 
 MANUFACTURED FOR: Somerset Pharmaceuticals, Inc. Morgantown, WV 26505 U.S.A.
 
-Revised: 07/2017 EMSAM:PIR14
+Revised: 5/2020 EMSAM:PIR15/EMSAM:PLR15
