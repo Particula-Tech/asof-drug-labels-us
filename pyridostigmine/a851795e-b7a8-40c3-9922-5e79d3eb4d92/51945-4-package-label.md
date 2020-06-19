@@ -15,17 +15,24 @@ BAUSCH Health
 
 # PRINCIPAL DISPLAY PANEL - 60 mg Tablets Bottle Label
 
-NDC 0187-3010-30 Rx Only Pull here
+NDC 0187-3010-30 Rx Only
 
-Mestinon® (pyridostigmine bromide tablets, USP)
+Mestinon® (pyridostigmine bromide) Tablets, USP
 
 60 mg
 
+100 Tablets
+
 Each tablet contains 60 mg pyridostigmine bromide
 
-100 Tablets Valeant
+BAUSCH Health
 
-VALEANT Pharmaceuticals North America LLC
+Dispense in tight containers as defined in USP/NF.
+
+IMPORTANT: These tablets are hygrosciopic.
+Keep in dry place with the silica gel enclosed.
+Usual Dosage: See accompanying package insert.
+Store at 25°C (77°F); excursions permitted to 15° to 30°C (59° to 86°F).
 
 # PRINCIPAL DISPLAY PANEL - 180 mg Bottle Label
 

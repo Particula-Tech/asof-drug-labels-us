@@ -21,8 +21,7 @@
 6. 6.Cronnelly R, Stanski DR, Miller RD, Sheiner LB.
    Pyridostigmine kinetics with and without renal function.
    Clin Pharmacol Ther.
-   1980; 28:No.
-   1, 78-81.
+   1980; 28: No. 1, 78-81.
 7. 7.Miller RD.
    Pharmacodynamics and pharmacokinetics of anticholinesterase.
    In: Ruegheimer E, Zindler M, ed.
@@ -32,4 +31,4 @@
    No. 538), Amsterdam, Netherlands: Excerpta Medica; 1981.
 8. 8.Breyer-Pfaff U, Maier U, Brinkmann AM, Schumm F. Pyridostigmine kinetics in healthy subjects and patients with myasthenia gravis.
    Clin Pharmacol Ther.
-   1985;5:495-501.
+   1985; 5:495-501.
