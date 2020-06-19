@@ -12,10 +12,12 @@ Embryo-Fetal Toxicity
 
 Ogivri™ is a trademark of Mylan Institutional Inc.
 
-Copyright © 2019 Mylan Inc. All rights reserved.
+Copyright © 2020 Mylan Inc. All rights reserved.
 
-Manufactured by: Mylan GmbH Turmstrasse 24 6312 Steinhausen, Switzerland U.S. License No. 2062
+Manufactured by: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-KR/DRUGS/KTK/28D/351/2005 KR/DRUGS/KTK/28D/7/2006
+US License No. 2210
 
-B:TRAS1524B:R1 B:TRAS4224B:R1
+KR/DRUGS/KTK/28D/07/2006 KR/DRUGS/KTK/28/0456/2019
+
+B:TRAS4224B:R4
