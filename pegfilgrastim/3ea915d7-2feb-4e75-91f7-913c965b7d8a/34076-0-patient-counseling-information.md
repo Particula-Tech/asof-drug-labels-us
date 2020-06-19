@@ -18,6 +18,6 @@ Instruct patients who self-administer Fulphila using the single-dose prefilled s
 - •Dangers of reusing syringes.
 - •Importance of following local requirements for proper disposal of used syringes.
 
-Manufactured by: Mylan GmbH Turmstrasse 24 6312 Steinhausen, Switzerland
+Manufactured by: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-U.S. License No. 2062
+U.S. License No. 2210
