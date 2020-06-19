@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA214246"
+  ],
+  "inn": "succinylcholine",
+  "labeler": "Gland Pharma Limited",
+  "package_ndcs": [
+    "68083-450-01",
+    "68083-450-25"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "succinylcholine chloride",
+      "name": "Succinylcholine Chloride"
+    }
+  ],
+  "setid": "0fa91665-16c4-40aa-98e6-6a624b102b8f",
+  "source": "dailymed"
+}

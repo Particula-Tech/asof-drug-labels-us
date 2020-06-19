@@ -1,0 +1,7 @@
+# PACKAGE LABEL.PRINCIPAL DISPLAY PANEL
+
+Vial Label NDC 68083-450-01
+
+Carton Label NDC 68083-450-25
+
+Sticker Label
