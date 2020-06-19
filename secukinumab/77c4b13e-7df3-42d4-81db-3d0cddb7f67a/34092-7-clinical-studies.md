@@ -26,7 +26,7 @@ In all trials, the endpoints were the proportion of subjects who achieved a redu
 Other evaluated outcomes included the proportion of subjects who achieved a reduction in PASI score of at least 90% (PASI 90) from baseline at Week 12, maintenance of efficacy to Week 52, and improvements in itching, pain, and scaling at Week 12 based on the Psoriasis Symptom Diary©.
 
 The PASI is a composite score that takes into consideration both the percentage of body surface area affected and the nature and severity of psoriatic changes within the affected regions (induration, erythema and scaling).
-The IGA is a 5-category scale including “0 = clear”, “1 = almost clear”, “2 = mild”, “3 = moderate” or “4 = severe” indicating the physician’s overall assessment of the psoriasis severity focusing on induration, erythema and scaling.
+The IGA is a 5-category scale, including “0 = clear”, “1 = almost clear”, “2 = mild”, “3 = moderate” or “4 = severe” indicating the physician’s overall assessment of the psoriasis severity focusing on induration, erythema and scaling.
 Treatment success of “clear” or “almost clear” consisted of no signs of psoriasis or normal to pink coloration of lesions, no thickening of the plaque, and none to minimal focal scaling.
 
 Baseline Characteristics
@@ -84,7 +84,7 @@ Patients in these studies had a diagnosis of PsA of at least 5 years across all 
 At baseline, over 61% and 42% of the patients had enthesitis and dactylitis, respectively.
 Overall, 31% of patients discontinued previous treatment with anti-TNFα agents due to either lack of efficacy or intolerance.
 In addition, approximately 53% of patients from both studies had concomitant methotrexate (MTX) use.
-Patients with different subtypes of PsA were enrolled including polyarticular arthritis with no evidence of rheumatoid nodules (80%), asymmetric peripheral arthritis (63%), distal interphalangeal involvement (58%), spondylitis with peripheral arthritis (20%) and arthritis mutilans (7%).
+Patients with different subtypes of PsA were enrolled, including polyarticular arthritis with no evidence of rheumatoid nodules (80%), asymmetric peripheral arthritis (63%), distal interphalangeal involvement (58%), spondylitis with peripheral arthritis (20%) and arthritis mutilans (7%).
 
 PsA1 Study (NCT 01752634) evaluated 397 patients, who were treated with COSENTYX 75 mg, 150 mg or 300 mg subcutaneous treatment at Weeks 0, 1, 2, 3 and 4, followed by the same dose every 4 weeks.
 Patients receiving placebo were re-randomized to receive COSENTYX (either 150 mg or 300 mg every 4 weeks) at Week 16 or Week 24 based on responder status.
@@ -93,13 +93,13 @@ The primary endpoint was the percentage of patients achieving an ACR20 response 
 PsA2 Study (NCT 01392326) evaluated 606 patients, who were treated with secukinumab 10 mg/kg, intravenous treatment (or placebo) at Weeks 0, 2, and 4, followed by either 75 mg or 150 mg subcutaneous COSENTYX treatment (or placebo) every 4 weeks.
 Patients receiving placebo were re-randomized to receive COSENTYX (either 75 mg or 150 mg every 4 weeks) at Week 16 or Week 24 based on responder status.
 
-PsA3 Study (NCT 02404350) evaluated 996 patients, who were treated with COSENTYX 150 mg or 300 mg subcutaneous treatment at Weeks 0, 1, 2, 3 and 4 followed by the same dose every 4 weeks, or once every 4 weeks of COSENTYX 150 mg.
-Patients treated with placebo received COSENTYX, either 150 mg or 300 mg, s.c., per baseline randomization, at Week 16 or Week 24 based upon responder status.
+PsA3 Study (NCT 02404350) evaluated 996 patients, who were treated with COSENTYX 150 mg or 300 mg subcutaneous treatment at Weeks 0, 1, 2, 3, and 4 followed by the same dose every 4 weeks, or once every 4 weeks of COSENTYX 150 mg.
+Patients treated with placebo received COSENTYX, either 150 mg or 300 mg, subcutaneous, per baseline randomization, at Week 16 or Week 24 based upon responder status.
 The primary endpoint was ACR20 response at Week 16 with the key secondary endpoint the change from baseline in modified Total Sharp Score (mTSS) at Week 24.
 
 Clinical Response
 
-In PsA1, patients treated with 150 mg or 300 mg COSENTYX demonstrated a greater clinical response including ACR20, ACR50, and ACR70 compared to placebo at Week 24 (Table 4).
+In PsA1, patients treated with 150 mg or 300 mg COSENTYX demonstrated a greater clinical response, including ACR20, ACR50, and ACR70 compared to placebo at Week 24 (Table 4).
 Responses were similar in patients regardless of concomitant methotrexate treatment.
 Responses were seen regardless of prior anti-TNFα exposure.
 
@@ -107,7 +107,7 @@ In patients with coexistent plaque psoriasis receiving COSENTYX (n = 99), the sk
 
 Table 4: Responsesa in PsA1 Study at Week 16 and Week 24
 
-|  | COSENTYX | COSENTYX | Placebo | Difference from placebo (95% CI) |  |
+|  | COSENTYX | COSENTYX | Placebo | Difference from Placebo (95% CI) |  |
 | --- | --- | --- | --- | --- | --- |
 |  | 150 mg (N = 100) | 300 mg (N = 100) | (N = 98) | COSENTYX 150 mg | COSENTYX 300 mg |
 | ACR20 response |  |  |  |  |  |
@@ -119,14 +119,14 @@ Table 4: Responsesa in PsA1 Study at Week 16 and Week 24
 | ACR70 response |  |  |  |  |  |
 | Week 16 (%) | 17 | 15 | 2 | 15 (7, 23) | 13 (5, 20) |
 | Week 24 (%) | 21 | 20 | 1 | 20 (12, 28) | 19 (11, 27) |
-| a Patients who met escape criteria (less than 20% improvement in tender or swollen joint counts) at Week 16 were considered non-responders |  |  |  |  |  |
+| a Patients who met escape criteria (less than 20% improvement in tender or swollen joint counts) at Week 16 were considered non-responders. |  |  |  |  |  |
 
 The percentage of patients achieving ACR20 response by visit is shown in Figure 1.
 Patients on placebo who received COSENTYX without a loading regimen achieved similar ACR20 responses over time (data not shown).
 
 Figure 1: Percent of Patients Achieving ACR 20 Responsea in PsA1 Study Through Week 24
 
-aPatients who met escape criteria (less than 20% improvement in tender or swollen joint counts) at Week 16 were considered non-responders
+aPatients who met escape criteria (less than 20% improvement in tender or swollen joint counts) at Week 16 were considered non-responders.
 
 The improvements in the components of the ACR response criteria are shown in Table 5.
 
@@ -140,7 +140,7 @@ Table 5: Mean Change from Baseline in ACR Components at Week 16a (PsA1 Study)
 | Number of Tender Joints |  |  |  |
 | Baseline | 24.1 | 20.2 | 23.5 |
 | Mean change at Week 16 | -10.70 | -10.01 | -1.77 |
-| Patient’s assessment of Pain |  |  |  |
+| Patient’s Assessment of Pain |  |  |  |
 | Baseline | 58.9 | 57.7 | 55.4 |
 | Mean change at Week 16 | -22.91 | -23.97 | -7.98 |
 | Patient Global Assessment |  |  |  |
@@ -155,7 +155,7 @@ Table 5: Mean Change from Baseline in ACR Components at Week 16a (PsA1 Study)
 | CRP (mg/L) |  |  |  |
 | Baseline | 14.15 | 10.88 | 7.87 |
 | Mean Change at Week 16b | -8.41 | -7.21 | 0.79 |
-| a Week 16 rather than Week 24 data are displayed to provide comparison between arms prior to placebo escape to COSENTYX. b Mean Change based upon observed data |  |  |  |
+| a Week 16 rather than Week 24 data are displayed to provide comparison between arms prior to placebo escape to COSENTYX. b Mean Change based upon observed data. |  |  |  |
 
 Improvements in enthesitis and dactylitis scores were observed in each COSENTYX group compared to placebo at Week 24.
 
@@ -188,7 +188,7 @@ Patients had active disease as defined by the Bath Ankylosing Spondylitis Diseas
 At baseline, approximately 13% and 25% used concomitant methotrexate or sulfasalazine, respectively.
 Overall, 29% of patients discontinued previous treatment with anti-TNFα agents due to either lack of efficacy or intolerance.
 
-AS1 Study evaluated 219 patients, who were treated with COSENTYX 75 mg or 150 mg subcutaneous treatment at Weeks 0, 1, 2, 3 and 4, followed by the same dose every 4 weeks.
+AS1 Study evaluated 219 patients, who were treated with COSENTYX 75 mg or 150 mg subcutaneous treatment at Weeks 0, 1, 2, 3, and 4, followed by the same dose every 4 weeks.
 At Week 16, patients receiving placebo were re-randomized to either COSENTYX 75 mg or 150 mg every 4 weeks.
 The primary endpoint was the percentage of patients achieving an ASAS20 response at Week 16.
 
@@ -241,3 +241,56 @@ The percent of patients achieving ASAS20 responses by visit is shown in Figure 3
 Figure 3: ASAS20 Responses in all AS3 Study Patients Over Time Up to Week 16
 
 COSENTYX treated patients showed improvement compared to placebo-treated patients in health-related quality of life as assessed by ASQoL at Week 16.
+
+## 14.4 Non-radiographic Axial Spondyloarthritis
+
+The safety and efficacy of COSENTYX were assessed in 555 patients in one randomized, double-blind, placebo-controlled Phase 3 study (nr-axSpA1) in adult patients 18 years of age and older with active non-radiographic axial spondyloarthritis.
+Patients met ASAS criteria for axial spondyloarthritis and had active disease as defined by a BASDAI greater or equal to 4, a Visual Analogue Scale (VAS) for total back pain greater or equal to 40 (on a scale of 0-100 mm) despite NSAID therapy and no evidence of radiographic changes in the sacroiliac joints that would meet the modified New York criteria for AS.
+Patients also had to have objective signs of inflammation with a C-reactive protein (CRP) level above the upper limit of normal and/or evidence of sacroiliitis on Magnetic Resonance Imaging (MRI).
+Approximately 10% and 15% of patients used concomitant methotrexate or sulfasalazine, respectively.
+Overall, 10% of patients had received previous treatment with anti-TNFα agents and discontinued these due to either lack of efficacy or intolerance.
+
+Patients were treated with COSENYX 150 mg subcutaneous treatment with load (Weeks 0, 1, 2, 3, and 4) or without a load (Weeks 0 and 4) followed by the same dose every 4 weeks or placebo.
+In the double-blind period, patients (n = 555) received either placebo or COSENTYX for 52 weeks.
+Starting Week 16, dose adjustment or addition of concomitant NSAIDs and DMARDs was permitted.
+Starting at Week 20, patients were allowed to switch to open-label COSENTYX 150 mg monthly or other biologic at the discretion of the investigator and patient.
+The primary endpoint was at least 40% improvement in Assessment of Spondyloarthritis International Society (ASAS40) at Weeks 52.
+
+Clinical Response
+
+In nr-axSpA1 Study, treatment with COSENTYX 150 mg resulted in significant improvements in the measure of disease activity compared to placebo at Week 16 and Week 52 (Table 9).
+
+Table 9: Clinical Response in nr-axSpA1 Study at Week 16 and Week 52
+
+| Number of subjects with ASAS40 response (%) | COSENTYX 150 mg without load (n = 184) | COSENTYX 150 mg with load (n = 185) |  | Difference from Placebo (95% CI) |  |
+| --- | --- | --- | --- | --- | --- |
+|  |  |  | Placebo (n = 186) | COSENTYX 150 mg without load | COSENTYX 150 mg with load |
+| Week 16 | 75 (41) | 74 (40) | 52 (28) | 13 (3, 22) | 12 (2, 22) |
+| Week 52 | 70 (38) | 62 (34) | 36 (19) | 19 (10, 28) | 14 (5, 23) |
+| Difference in proportions with 95% CI based on normal approximation. |  |  |  |  |  |
+
+The results of the main components of the ASAS40 response criteria are shown in Table 10.
+
+Table 10: Main Components of the ASAS40 Response Criteria and Other Measures of Disease Activity in nr-axSpA Patients at Baseline and Week 16 in nr-axSpA1 Study
+
+|  | COSENTYX 150 mg without load (N = 184) |  | COSENTYX 150 mg with load (N = 185) |  | Placebo (N = 186) |  |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | Baseline | Week 16 change from baseline | Baseline | Week 16 change from baseline | Baseline | Week 16 change from baseline |
+| ASAS40 Response criteria |  |  |  |  |  |  |
+| -Patient Global Assessment of Disease Activity (0-100 mm) | 71.0 | -26.2 | 72.6 | -24.1 | 68.8 | -13.8 |
+| -Total back pain (0-100 mm) | 72.0 | -25.5 | 73.3 | -25.0 | 70.9 | -15.6 |
+| -BASFI (0-10) | 5.9 | -1.6 | 6.2 | -1.8 | 5.9 | -1.0 |
+| -Inflammation (0-10) | 6.8 | -2.8 | 7.2 | -2.8 | 6.6 | -1.7 |
+| hsCRP (mg/L) Mean Change at Week 16 | 9.8 | -4.7 | 13.4 | -7.9 | 9.2 | -2.4 |
+| BASDAI (0-10) | 6.9 | -2.4 | 7.1 | -2.4 | 6.8 | -1.5 |
+| -Spinal Pain | 7.6 | -3.0 | 7.8 | -3.0 | 7.5 | -2.0 |
+| -Peripheral pain and swelling (0-10) | 6.6 | -2.4 | 6.3 | -2.3 | 6.1 | -1.6 |
+| BASMI | 2.8 | -0.3 | 2.9 | -0.3 | 2.8 | -0.1 |
+
+The percentage of patients achieving an ASAS40 response by visit is shown in Figure 4.
+
+Figure 4: ASAS40 Responses in nr-axSpA1 Study Over Time up to Week 16
+
+Health Related Quality of Life
+
+COSENTYX treated patients showed improvement in both load and without load arms compared to placebo-treated patients at Week 16 in health-related quality of life as measured by ASQoL (LS mean change: Week 16: -3.5 and -3.6 vs -1.8, respectively).

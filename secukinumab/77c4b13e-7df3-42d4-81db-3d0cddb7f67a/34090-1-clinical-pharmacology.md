@@ -15,10 +15,11 @@ These pharmacodynamic activities are based on small exploratory studies.
 The relationship between these pharmacodynamic activities and the mechanism(s) by which secukinumab exerts its clinical effects is unknown.
 
 Increased numbers of IL-17A producing lymphocytes and innate immune cells and increased levels of IL-17A have been found in the blood of patients with psoriatic arthritis and ankylosing spondylitis.
+Increased numbers of IL-17A producing lymphocytes have also been found in patients with non-radiographic axial spondyloarthritis.
 
 ## 12.3 Pharmacokinetics
 
-The PK properties of secukinumab observed in psoriatic arthritis and ankylosing spondylitis patients were similar to the PK properties displayed in plaque psoriasis patients.
+The PK properties of secukinumab observed in psoriatic arthritis, ankylosing spondylitis and non-radiographic axial spondyloarthritis patients were similar to the PK properties displayed in plaque psoriasis patients.
 
 Absorption
 
@@ -70,4 +71,4 @@ Drug Interactions
 
 Cytochrome P450 Substrates
 
-In subjects with plaque psoriasis, midazolam (CYP3A4 substrate) pharmacokinetics was similar when administered alone, or when administered following either a single or five weekly subcutaneous administrations of 300 mg secukinumab [see Drug interactions (7.3)].
+In subjects with plaque psoriasis, midazolam (CYP3A4 substrate) pharmacokinetics was similar when administered alone, or when administered following either a single or five weekly subcutaneous administrations of 300 mg secukinumab [see Drug Interactions (7.3)].

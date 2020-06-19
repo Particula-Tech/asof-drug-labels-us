@@ -14,7 +14,7 @@ For psoriatic arthritis patients with coexistent moderate to severe plaque psori
 For other psoriatic arthritis patients, administer COSENTYX with or without a loading dosage by subcutaneous injection.
 The recommended dosage:
 
-- With a loading dosage is 150 mg at weeks 0, 1, 2, 3, and 4 and every 4 weeks thereafter
+- With a loading dosage is 150 mg at Weeks 0, 1, 2, 3, and 4 and every 4 weeks thereafter
 - Without a loading dosage is 150 mg every 4 weeks
 - If a patient continues to have active psoriatic arthritis, consider a dosage of 300 mg every 4 weeks.
 
@@ -25,15 +25,23 @@ COSENTYX may be administered with or without methotrexate.
 Administer COSENTYX with or without a loading dosage by subcutaneous injection.
 The recommended dosage:
 
-- With a loading dosage is 150 mg at weeks 0, 1, 2, 3, and 4 and every 4 weeks thereafter
+- With a loading dosage is 150 mg at Weeks 0, 1, 2, 3, and 4 and every 4 weeks thereafter
 - Without a loading dosage is 150 mg every 4 weeks
 - If a patient continues to have active ankylosing spondylitis, consider a dosage of 300 mg every 4 weeks.
 
-## 2.4 Assessment Prior to Initiation of COSENTYX
+## 2.4 Non-radiographic Axial Spondyloarthritis
+
+Administer COSENTYX with or without a loading dosage by subcutaneous injection.
+The recommended dosage:
+
+- With a loading dosage is 150 mg at Weeks 0, 1, 2, 3, and 4 and every 4 weeks thereafter
+- Without a loading dosage is 150 mg every 4 weeks.
+
+## 2.5 Assessment Prior to Initiation of COSENTYX
 
 Evaluate patients for tuberculosis (TB) infection prior to initiating treatment with COSENTYX [see Warnings and Precautions (5.2)].
 
-## 2.5 Important Administration Instructions
+## 2.6 Important Administration Instructions
 
 There are three presentations for COSENTYX (i.e., Sensoready pen, prefilled syringe, and lyophilized powder in vial for reconstitution).
 The COSENTYX “Instructions for Use” for each presentation contains more detailed instructions on the preparation and administration of COSENTYX [see Instructions for Use].
@@ -44,7 +52,7 @@ The lyophilized powder for reconstitution is for healthcare provider use only.
 Administer each injection at a different anatomic location (such as upper arms, thighs, or any quadrant of abdomen) than the previous injection, and not into areas where the skin is tender, bruised, erythematous, indurated, or affected by psoriasis.
 Administration of COSENTYX in the upper, outer arm may be performed by a caregiver or healthcare provider.
 
-## 2.6 Preparation for Use of COSENTYX Sensoready® Pen and Prefilled Syringe
+## 2.7 Preparation for Use of COSENTYX Sensoready® Pen and Prefilled Syringe
 
 Before injection, remove COSENTYX Sensoready pen or COSENTYX prefilled syringe from the refrigerator and allow COSENTYX to reach room temperature (15 to 30 minutes) without removing the needle cap.
 
@@ -56,7 +64,7 @@ Do not use if the liquid contains visible particles, is discolored or cloudy.
 COSENTYX does not contain preservatives; therefore, administer the Sensoready pen or prefilled syringe within 1 hour after removal from the refrigerator.
 Discard any unused product remaining in the Sensoready pen or prefilled syringe.
 
-## 2.7 Reconstitution and Preparation of COSENTYX Lyophilized Powder
+## 2.8 Reconstitution and Preparation of COSENTYX Lyophilized Powder
 
 COSENTYX lyophilized powder should be prepared and reconstituted with Sterile Water for Injection by a trained healthcare provider using aseptic technique and without interruption.
 The preparation time from piercing the stopper until end of reconstitution on average takes 20 minutes and should not exceed 90 minutes.

@@ -15,7 +15,7 @@ Plaque Psoriasis
 A total of 3430 plaque psoriasis subjects were treated with COSENTYX in controlled and uncontrolled clinical trials.
 Of these, 1641 subjects were exposed for at least 1 year.
 
-Four placebo-controlled phase 3 trials in plaque psoriasis subjects were pooled to evaluate the safety of COSENTYX in comparison to placebo up to 12 weeks after treatment initiation, in Trials 1, 2, 3, and 4.
+Four placebo-controlled Phase 3 trials in plaque psoriasis subjects were pooled to evaluate the safety of COSENTYX in comparison to placebo up to 12 weeks after treatment initiation, in Trials 1, 2, 3, and 4.
 In total, 2077 subjects were evaluated (691 to COSENTYX 300 mg group, 692 to COSENTYX 150 mg group, and 694 to placebo group) [see Clinical Studies (14)].
 
 Table 1 summarizes the adverse reactions that occurred at a rate of at least 1% and at a higher rate in the COSENTYX groups than the placebo group during the 12-week placebo-controlled period of the placebo-controlled trials.
@@ -78,7 +78,7 @@ There were three cases of inflammatory bowel disease, of which two patients rece
 
 Ankylosing Spondylitis
 
-COSENTYX was studied in two placebo controlled ankylosing spondylitis trials with 590 patients (394 patients on COSENTYX and 196 patients on placebo).
+COSENTYX was studied in two placebo-controlled ankylosing spondylitis trials with 590 patients (394 patients on COSENTYX and 196 patients on placebo).
 Of the 394 patients who received COSENTYX, 145 patients received a subcutaneous load of COSENTYX (study AS1), and 249 received an intravenous loading dose of secukinumab (study AS2) followed by COSENTYX administered by subcutaneous injection every four weeks.
 During the 16-week placebo-controlled period of the trials in patients with ankylosing spondylitis, the overall proportion of patients with adverse events was higher in the secukinumab groups than the placebo-treatment groups (66% and 59%, respectively).
 The adverse events that occurred at a proportion of at least 2% and at a higher proportion in the COSENTYX groups than the placebo groups during the 16-week placebo-controlled period were nasopharyngitis, nausea, and upper respiratory tract infection.
@@ -91,15 +91,21 @@ In the original ankylosing spondylitis program, with 571 patients exposed to COS
 During the placebo-controlled 16-week period, there were 2 Crohn’s disease exacerbations and 1 new onset ulcerative colitis case that was a serious adverse event in patients treated with COSENTYX compared to none of the patients treated with placebo.
 During the remainder of the study when all patients received COSENTYX, 1 patient developed Crohn’s disease, 2 patients had Crohn’s exacerbations, 1 patient developed ulcerative colitis, and 1 patient had an ulcerative colitis exacerbation [see Warnings and Precautions (5.3)].
 
+Non-radiographic Axial Spondyloarthritis
+
+COSENTYX was studied in one randomized, double-blind, placebo-controlled non-radiographic axial spondyloarthritis trial with 555 patients (185 patients on with load COSENTYX, 184 patients on without load COSENTYX and 186 patients on placebo).
+The safety profile for patients with nr-axSpA treated with COSENTYX was overall similar to the safety profile seen in patients with AS and other previous experience with COSENTYX.
+Patients in nr-axSpA1 study who received the loading dosing regimen compared to those without the loading regimen, had higher incidence of infections and infestations (92 per 100 patient-years vs 72 per 100 patient years), including nasopharyngitis, upper respiratory tract infection and urinary tract infection, and gastrointestinal disorders (27 per 100 patient-years vs 22 per 100 patient-years), including gastritis, lower abdominal pain, colitis, diarrhea, and hematochezia.
+
 ## 6.2 Immunogenicity
 
 As with all therapeutic proteins, there is the potential for immunogenicity.
 The immunogenicity of COSENTYX was evaluated using an electrochemiluminescence-based bridging immunoassay.
 Less than 1% of subjects treated with COSENTYX developed antibodies to secukinumab in up to 52 weeks of treatment.
-However, this assay has limitations in detecting anti-secukinumab antibodies in the presence of secukinumab; therefore the incidence of antibody development might not have been reliably determined.
+However, this assay has limitations in detecting anti-secukinumab antibodies in the presence of secukinumab; therefore, the incidence of antibody development might not have been reliably determined.
 Of the subjects who developed antidrug antibodies, approximately one-half had antibodies that were classified as neutralizing.
 Neutralizing antibodies were not associated with loss of efficacy.
 
 The detection of antibody formation is highly dependent on the sensitivity and specificity of the assay.
-Additionally, the observed incidence of antibody (including neutralizing antibody) positivity in an assay may be influenced by several factors including assay methodology, sample handling, timing of sample collection, concomitant medications, and underlying disease.
+Additionally, the observed incidence of antibody (including neutralizing antibody) positivity in an assay may be influenced by several factors, including assay methodology, sample handling, timing of sample collection, concomitant medications, and underlying disease.
 For these reasons, comparison of incidence of antibodies to COSENTYX with the incidences of antibodies to other products may be misleading.

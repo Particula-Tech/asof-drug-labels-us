@@ -26,8 +26,10 @@ Instruct patients or caregivers in the technique of proper syringe and needle di
 Instruct patients to inject the full amount of COSENTYX (1 or 2 subcutaneous injections of 150 mg) according to the directions provided in the Medication Guide and Instructions for Use.
 Dispose of needles, syringes and pens in a puncture-resistant container.
 
-Manufactured by: Novartis Pharmaceuticals Corporation East Hanover, New Jersey 07936 US License No. 1244
+Manufactured by: Novartis Pharmaceuticals Corporation East Hanover, New Jersey 07936
+
+US License No. 1244
 
 © Novartis
 
-T2020-09
+T2020-91

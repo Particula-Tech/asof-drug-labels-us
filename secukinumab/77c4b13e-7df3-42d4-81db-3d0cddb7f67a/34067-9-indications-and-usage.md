@@ -11,3 +11,7 @@ COSENTYX is indicated for the treatment of adult patients with active psoriatic 
 ## 1.3 Ankylosing Spondylitis
 
 COSENTYX is indicated for the treatment of adult patients with active ankylosing spondylitis.
+
+## 1.4 Non-radiographic Axial Spondyloarthritis
+
+COSENTYX is indicated for the treatment of adult patients with active non-radiographic axial spondyloarthritis (nr-axSpA) with objective signs of inflammation.
