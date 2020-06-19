@@ -14,6 +14,8 @@ Renal Impairment
 
 - Inform patients that Asacol HD may decrease their renal function, especially if they have known renal impairment or are taking nephrotoxic drugs, and periodic monitoring of renal function will be performed while they are on therapy.
   Advise patients to complete all blood tests ordered by their physician [see Warnings and Precautions (5.1)].
+- Inform patients that kidney stones have been reported with ASACOL HD use.
+  Instruct patients to maintain an adequate fluid intake in order to minimize the risk of kidney stone formation [see WARNINGS AND PRECAUTIONS (5.5)].
 
 Mesalamine-Induced Acute Intolerance Syndrome
 
@@ -32,12 +34,16 @@ Blood Disorders
 - Inform elderly patients and those taking azathioprine or 6-mercaptopurine of the risk for blood disorders and the need for periodic monitoring of complete blood cell counts and platelet counts while on therapy.
   Advise patients to complete all blood tests ordered by their physician [see Drug Interactions (7.2), Use in Specific Populations (8.5)].
 
+Nephrolithiasis
+
 Distributed by: Allergan USA, Inc. Madison, NJ 07940
 
-© 2018 Allergan.
+© 2020 Allergan.
 All rights reserved.
 
 Patented.
 See www.allergan.com/patents
 
 Asacol® is a registered trademark of Medeva Pharma Suisse AG, licensed to Allergan Pharmaceuticals International Limited.
+
+v2.0USPI5901

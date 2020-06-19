@@ -75,6 +75,6 @@ Skin: Alopecia, psoriasis (rare), pyoderma gangrenosum (rare), erythema nodosum,
 
 Special Senses: Ear pain, tinnitus, ear congestion, ear disorder, conjunctivitis, eye pain, blurred vision, vision abnormality, taste perversion.
 
-Renal/Urogenital: Renal failure (rare), interstitial nephritis, minimal change nephropathy [see Warnings and Precautions (5.1)], dysuria, urinary frequency and urgency, hematuria, epididymitis, decreased libido, dysmenorrhea, menorrhagia.
+Renal/Urogenital: Renal failure (rare), interstitial nephritis, minimal change nephropathy, nephrolithiasis [see Warnings and Precautions (5.1), (5.5)], dysuria, urinary frequency and urgency, hematuria, epididymitis, decreased libido, dysmenorrhea, menorrhagia.
 
 Laboratory Abnormalities: Elevated AST (SGOT) or ALT (SGPT), elevated alkaline phosphatase, elevated GGT, elevated LDH, elevated bilirubin, elevated serum creatinine and BUN.

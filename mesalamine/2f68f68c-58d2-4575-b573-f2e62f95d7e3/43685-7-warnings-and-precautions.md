@@ -27,3 +27,9 @@ Discontinue Asacol HD if an alternative etiology for the signs or symptoms canno
 
 There have been reports of hepatic failure in patients with pre-existing liver disease who have been administered mesalamine.
 Caution should be exercised when administering Asacol HD to patients with liver impairment.
+
+## 5.5Iron Content of Asacol HD
+
+Asacol HD contains iron oxide as a colorant in the coating of the delayed-release tablets.
+Each 800 mg delayed-release tablet contains 4.87 mg of iron for a maximum of 29.22 mg of iron for the recommended daily dosage of 6 tablets.
+Before prescribing Asacol HD to patients receiving iron supplementation or those at risk for developing iron overload, consider the combined daily amount of iron from all sources, including Asacol HD.
