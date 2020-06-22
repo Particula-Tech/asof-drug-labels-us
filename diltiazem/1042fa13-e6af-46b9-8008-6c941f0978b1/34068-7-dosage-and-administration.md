@@ -19,11 +19,11 @@ When necessary, titration may be carried out over a 7- to 14-day period.
 
 Concomitant Use with Other Cardiovascular Agents:
 
-- Sublingual NTG: May be taken as required to abort acute anginal attacks during diltiazem hydrochloride therapy.
+Sublingual NTG: May be taken as required to abort acute anginal attacks during diltiazem hydrochloride therapy.
 
 Prophylactic Nitrate Therapy: Diltiazem hydrochloride may be safely coadministered with short- and long-acting nitrates.
 
-- Beta-blockers: (See WARNINGSand PRECAUTIONS.)
+Beta-blockers: (See WARNINGS and PRECAUTIONS.)
 
 Antihypertensives: Diltiazem hydrochloride has an additive antihypertensive effect when used with other antihypertensive agents.
 Therefore, the dosage of diltiazem hydrochloride or the concomitant antihypertensives may need to be adjusted when adding one to the other.

@@ -63,8 +63,8 @@ Drugs which induce or inhibit hepatic microsomal enzymes may alter diltiazem dis
 
 Total radioactivity measurement following short IV administration in healthy volunteers suggests the presence of other unidentified metabolites, which attain higher concentrations than those of diltiazem and are more slowly eliminated; half-life of total radioactivity is about 20 hours compared to 2 to 5 hours for diltiazem.
 
-In vitrobinding studies show diltiazem is 70% to 80% bound to plasma proteins.
-Competitive in vitroligand binding studies have also shown diltiazem hydrochloride binding is not altered by therapeutic concentrations of digoxin, hydrochlorothiazide, phenylbutazone, propranolol, salicylic acid, or warfarin.
+In vitro binding studies show diltiazem is 70% to 80% bound to plasma proteins.
+Competitive in vitro ligand binding studies have also shown diltiazem hydrochloride binding is not altered by therapeutic concentrations of digoxin, hydrochlorothiazide, phenylbutazone, propranolol, salicylic acid, or warfarin.
 The plasma elimination half-life following single or multiple drug administration is approximately 3.0 to 4.5 hours.
 Desacetyl diltiazem is also present in the plasma at levels of 10% to 20% of the parent drug and is 25% to 50% as potent as a coronary vasodilator as diltiazem.
 Minimum therapeutic plasma diltiazem concentrations appear to be in the range of 50 to 200 ng/mL.
@@ -82,4 +82,4 @@ As the dose of CARDIZEM CD capsules is increased from a daily dose of 120 mg to 
 When the dose is increased from 240 mg to 360 mg, there is an increase in the area under the curve of 1.6 times.
 
 In an in vitro dissolution study, the release rate of diltiazem from CARDIZEM CD increased significantly as the alcohol percentage in the dissolution medium increased.
-The effect of alcohol on the release rate may lead to a change in the pharmacokinetics of diltiazem, such as a more rapid absorption and/or an increase in the systemic exposure of diltiazem (see PRECAUTIONS,Drug Interactions).
+The effect of alcohol on the release rate may lead to a change in the pharmacokinetics of diltiazem, such as a more rapid absorption and/or an increase in the systemic exposure of diltiazem (see PRECAUTIONS, Drug Interactions).
