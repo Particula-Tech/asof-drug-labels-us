@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA209529"
+  ],
+  "inn": "solifenacin",
+  "labeler": "Astellas Pharma US, Inc.",
+  "package_ndcs": [
+    "51248-250-99"
+  ],
+  "products": [
+    {
+      "form": "SUSPENSION",
+      "generic": "solifenacin succinate",
+      "name": "VESIcare"
+    }
+  ],
+  "setid": "e0300384-e980-45d5-8ed4-48a2618671ae",
+  "source": "dailymed"
+}
