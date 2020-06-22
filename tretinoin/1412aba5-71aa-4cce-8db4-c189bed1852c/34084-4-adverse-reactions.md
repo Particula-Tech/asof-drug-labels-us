@@ -15,12 +15,11 @@ Table 1: Adverse Reactions Reported by ≥1% of Subjects Treated with ALTRENO an
 | --- | --- | --- |
 | Adverse Reactions n (%) |  |  |
 | Application site dryness | 29 (4) | 1 (<1) |
-| Application site pain | 25 (3) | 3 (<1) |
+| Application site painApplication site pain defined as application site stinging, burning or pain. | 25 (3) | 3 (<1) |
 | Application site erythema | 12 (2) | 1 (<1) |
 | Application site irritation | 7 (1) | 1 (<1) |
 | Application site exfoliation | 6 (1) | 3 (<1) |
 
-1Application site pain defined as application site stinging, burning or pain.
 Skin irritation was evaluated by active assessment of erythema, scaling, hypopigmentation, hyperpigmentation, itching, burning and stinging.
 The percentage of subjects who were assessed to have these signs and symptoms at any post baseline visit are summarized in Table 2.
 
