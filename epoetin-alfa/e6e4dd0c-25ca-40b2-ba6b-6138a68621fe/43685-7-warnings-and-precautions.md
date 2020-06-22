@@ -167,7 +167,7 @@ This has been reported predominantly in patients with CKD receiving ESAs by subc
 PRCA has also been reported in patients receiving ESAs for anemia related to hepatitis C treatment (an indication for which RETACRIT is not approved).
 
 If severe anemia and low reticulocyte count develop during treatment with RETACRIT, withhold RETACRIT and evaluate patients for neutralizing antibodies to erythropoietin.
-Contact Hospira, Inc., a Pfizer company (1-800-438-1985) to perform assays for binding and neutralizing antibodies.
+Contact Hospira, Inc., a Pfizer Company (1-800-438-1985) to perform assays for binding and neutralizing antibodies.
 Permanently discontinue RETACRIT in patients who develop PRCA following treatment with RETACRIT or other erythropoietin protein drugs.
 Do not switch patients to other ESAs.
 

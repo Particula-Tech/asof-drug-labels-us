@@ -176,8 +176,8 @@ Keep RETACRIT and all medicines out of reach of children.
 
 These Instructions for Use have been approved by the U.S. Food and Drug Administration.
 
-Manufactured by Hospira, Inc., a subsidiary of Pfizer Inc., Lake Forest, IL 60045 USA US License No. 1974 Distributed by Vifor (International) Inc., Rechenstrasse 37, 9014 St. Gallen, Switzerland
+Manufactured by Hospira, Inc., a Pfizer Company, Lake Forest, IL 60045 USA US License No. 1974 Distributed by Vifor (International) Inc., Rechenstrasse 37, 9014 St. Gallen, Switzerland
 
-LAB-1282-1.0
+LAB-1282-2.0
 
-Issued: 5/2018
+Issued: 6/2020
