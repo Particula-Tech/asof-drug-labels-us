@@ -1,5 +1,9 @@
 # 2 DOSAGE AND ADMINISTRATION
 
+## 2.1 Important Dosing and Administration Information
+
+BRIDION dosing is based on actual body weight.
+
 BRIDION (sugammadex) injection, for intravenous use, should be administered by trained healthcare providers familiar with the use, actions, characteristics, and complications of neuromuscular blocking agents (NMBA) and neuromuscular block reversal agents.
 
 Doses and timing of BRIDION administration should be based on monitoring for twitch responses and the extent of spontaneous recovery that has occurred.
@@ -13,7 +17,7 @@ Satisfactory recovery should be determined through assessment of skeletal muscle
 
 The recommended dose of BRIDION does not depend on the anesthetic regimen.
 
-## 2.1 Recommended Dosing
+## 2.2 Recommended Dosing
 
 BRIDION can be used to reverse different levels of rocuronium- or vecuronium-induced neuromuscular blockade.
 
@@ -27,9 +31,7 @@ For rocuronium only:
 - A dose of 16 mg/kg BRIDION is recommended if there is a clinical need to reverse neuromuscular blockade soon (approximately 3 minutes) after administration of a single dose of 1.2 mg/kg of rocuronium.
   The efficacy of the 16 mg/kg dose of BRIDION following administration of vecuronium has not been studied [see Clinical Studies (14.1)].
 
-BRIDION dosing is based on actual body weight.
-
-## 2.2 Drug Compatibility
+## 2.3 Drug Compatibility
 
 May inject BRIDION into the intravenous line of a running infusion with the following intravenous solutions:
 

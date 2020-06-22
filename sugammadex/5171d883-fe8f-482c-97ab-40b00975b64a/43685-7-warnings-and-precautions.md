@@ -5,7 +5,7 @@
 Clinicians should be prepared for the possibility of drug hypersensitivity reactions (including anaphylactic reactions) and take the necessary precautions [see Contraindications (4), Adverse Reactions (6.1)].
 
 Potentially serious hypersensitivity reactions, including anaphylaxis, have occurred in patients treated with BRIDION.
-The nature and frequency of anaphylaxis and hypersensitivity associated with BRIDION administration were evaluated in a randomized, double-blind, placebo-controlled, parallel-group, repeat-dose study in which 375 subjects were randomized to receive 3 doses of BRIDION IV with a 5 week washout period: 151 subjects received 4 mg/kg, 148 received 16 mg/kg and 76 received placebo.
+The nature and frequency of anaphylaxis and hypersensitivity associated with BRIDION administration were evaluated in a randomized, double-blind, placebo-controlled, parallel-group, repeat-dose study in which 375 subjects were randomized to receive 3 doses of BRIDION IV with a 5-week washout period: 151 subjects received 4 mg/kg, 148 received 16 mg/kg and 76 received placebo.
 The frequency of anaphylaxis for the 299 healthy volunteers treated with intravenous BRIDION was 0.3% (n=1 in the BRIDION 16 mg/kg group on the first dose).
 Signs and symptoms included conjunctival edema, urticaria, erythema, swelling of the uvula and reduction in peak expiratory flow within 5 minutes of dose administration.
 The most common hypersensitivity adverse reactions reported were nausea, pruritus and urticaria and showed a dose response relationship, occurring more frequently in the 16 mg/kg group compared to the 4 mg/kg and placebo groups.
@@ -67,7 +67,7 @@ The risk of displacement reactions will be the highest in the time period equiva
 
 ## 5.8 Risk of Recurrence of Neuromuscular Blockade with Lower Than Recommended Dosing
 
-The use of lower than recommended doses of BRIDION may lead to an increased risk of recurrence of neuromuscular blockade after initial reversal and is not recommended [see Dosage and Administration (2.1), Adverse Reactions (6.1)].
+The use of lower than recommended doses of BRIDION may lead to an increased risk of recurrence of neuromuscular blockade after initial reversal and is not recommended [see Dosage and Administration (2.2), Adverse Reactions (6.1)].
 
 ## 5.9 Risk of Recurrence of Neuromuscular Blockade Due to the Administration of Drugs that Potentiate Neuromuscular Blockade
 

@@ -70,3 +70,11 @@ Race
 
 In a study in healthy Japanese and Caucasian subjects no clinically relevant differences in pharmacokinetic parameters were observed.
 Limited data do not indicate differences in pharmacokinetic parameters in Black or African Americans.
+
+Obesity
+
+In one clinical study of obese patients with a body mass index ≥40 kg/m2, sugammadex 2 mg/kg and 4 mg/kg was dosed according to ABW (n=76) or IBW (n=74).
+Sugammadex exposure increased in a dose-dependent, linear manner following administration according to ABW or IBW.
+No clinically relevant differences in pharmacokinetic parameters were observed between obese patients and the general population, when dosed according to ABW.
+[See Use in Specific Populations (8.10).]
+Systemic exposure of sugammadex is approximately 50% lower with IBW dosing compared to ABW.

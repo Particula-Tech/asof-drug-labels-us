@@ -11,3 +11,5 @@ The packaging of this product is not made with natural rubber latex.
 Store at 25°C (77°F); excursions permitted to 15°C to 30°C (59°F to 86°F) (see USP Controlled Room Temperature).
 Protect from light.
 When not protected from light, the vial should be used within 5 days.
+
+Discard unused portion.

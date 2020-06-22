@@ -17,7 +17,7 @@ Adverse reactions reported in ≥10% of patients at a 2, 4, or 16 mg/kg BRIDION 
 
 All adverse reactions occurring in ≥2% of subjects treated with BRIDION and more often than placebo for adult subjects who received anesthesia and/or neuromuscular blocking agent in pooled Phase 1 to 3 studies are presented in Table 2.
 
-Table 2: Percent of Subject Exposures in Pooled Phase 1 to 3 Studies with Adverse Reactions Incidence ≥ 2%
+Table 2: Percent of Subject Exposures in Pooled Phase 1 to 3 Studies with Adverse Reactions Incidence ≥2%
 
 | Body System Preferred Term | 2 mg/kg (N=895) n (%) | 4 mg/kg (N=1921) n (%) | 16 mg/kg (N=98) n (%) | (N=544) n (%) |
 | --- | --- | --- | --- | --- |
