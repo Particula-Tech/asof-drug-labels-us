@@ -29,7 +29,7 @@ There is insufficient information to establish that dose reduction will eliminat
 
 ## Hyperpyrexia and Confusion
 
-Sporadic cases of a symptom complex resembling neuroleptic malignant syndrome (NMS) have been reported in association with dose reductions or withdrawal of certain antiparkinsonian agents such as levodopa, carbidopa levodopa, or carbidopa levodopa extended-release.
+Sporadic cases of a symptom complex resembling neuroleptic malignant syndrome (NMS) have been reported in association with dose reductions or withdrawal of certain antiparkinsonian agents such as levodopa, carbidopa and levodopa, or carbidopa and levodopa extended-release.
 Therefore, patients should be observed carefully when the dosage of levodopa is reduced abruptly or discontinued, especially if the patient is receiving neuroleptics.
 NMS is an uncommon but life-threatening syndrome characterized by fever or hyperthermia.
 Neurological findings, including muscle rigidity, involuntary movements, altered consciousness, mental status changes; other disturbances, such as autonomic dysfunction, tachycardia, tachypnea, sweating, hyper- or hypotension; laboratory findings, such as creatine phosphokinase elevation, leukocytosis, myoglobinuria, and increased serum myoglobin have been reported.
@@ -149,7 +149,7 @@ In reproduction studies with carbidopa and levodopa tablets, no effects on ferti
 
 ## Pregnancy
 
-Pregnancy Category C. No teratogenic effects were observed in a study in mice receiving up to 20 times the maximum recommended human dose of carbidopa and levodopa tablets.
+No teratogenic effects were observed in a study in mice receiving up to 20 times the maximum recommended human dose of carbidopa and levodopa tablets.
 There was a decrease in the number of live pups delivered by rats receiving approximately two times the maximum recommended human dose of carbidopa and approximately five times the maximum recommended human dose of levodopa during organogenesis.
 Carbidopa and levodopa tablets caused both visceral and skeletal malformations in rabbits at all doses and ratios of carbidopa/levodopa tested, which ranged from 10 times/5 times the maximum recommended human dose of carbidopa/levodopa to 20 times/10 times the maximum recommended human dose of carbidopa/levodopa.
 

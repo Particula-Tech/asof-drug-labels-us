@@ -43,7 +43,7 @@ Nervous System/Psychiatric: ataxia, extrapyramidal disorder, falling, anxiety, g
 
 Respiratory: pharyngeal pain, cough.
 
-Skin: malignant melanoma (see also CONTRAINDICATIONS), flushing.
+Skin: malignant melanoma, flushing.
 
 Special Senses: oculogyric crises, diplopia, blurred vision, dilated pupils.
 
