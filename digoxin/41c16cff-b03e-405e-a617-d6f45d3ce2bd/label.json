@@ -5,6 +5,9 @@
   "inn": "digoxin",
   "labeler": "Hikma Pharmaceuticals USA Inc.",
   "package_ndcs": [
+    "0143-1240-01",
+    "0143-1240-10",
+    "0143-1240-51",
     "0143-1241-01",
     "0143-1241-10",
     "0143-1241-51"
