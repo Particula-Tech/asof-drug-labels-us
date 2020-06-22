@@ -21,3 +21,15 @@ Posaconazole Delayed-Release Tablets
 Attention: Posaconazole Oral Suspension and Delayed- Release Tablets are NOT interchangeable due to differences in the dosing of each formulation.
 
 Rx only 1000 Tablets
+
+# PRINCIPAL DISPLAY PANEL - 24 Tablet Bottle Label
+
+NDC 0527-2133-30
+
+Posaconazole Delayed-Release Tablets
+
+100 mg
+
+Attention: Posaconazole Oral Suspension and Delayed- Release Tablets are NOT interchangeable due to differences in the dosing of each formulation.
+
+Rx only 24 Tablets

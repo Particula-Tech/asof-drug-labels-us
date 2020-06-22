@@ -10,5 +10,5 @@ Haimen Pharma Inc., No. 163, Zhuhai Rd., Binjiang Street, Haimen, Jiangsu 226100
 
 The trademarks referenced herein are owned by their respective companies.
 
-L7047 Rev.
-08/2019
+L7047A Rev.
+06/2020
