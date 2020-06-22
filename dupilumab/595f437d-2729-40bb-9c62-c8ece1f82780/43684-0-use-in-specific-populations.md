@@ -6,7 +6,7 @@ Pregnancy Exposure Registry
 
 There is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to DUPIXENT during pregnancy.
 
-Please contact 1-877-311-8972 or go to https://mothertobaby.org/ongoing-study/dupixent/ to enroll in or to obtain information about the registry.
+Healthcare providers and patients may call 1-877-311-8972 or go to https://mothertobaby.org/ongoing-study/dupixent/ to enroll in or to obtain information about the registry.
 
 Risk Summary
 
@@ -53,7 +53,7 @@ The safety and efficacy were generally consistent between pediatric and adult pa
 Use is also supported by Trial 7, an open-label extension study that enrolled subjects who completed Trials 6 and 8.
 Trial 7 included 136 adolescents from Trial 6 and 110 children from Trial 8 with moderate atopic dermatitis at enrollment into the extension study.
 Trial 7 included 64 adolescents from Trial 6 and 72 children from Trial 8 with severe atopic dermatitis at enrollment.
-No new safety signals were identified in Trial 7[see Adverse Reactions (6.1)].
+No new safety signals were identified in Trial 7 [see Adverse Reactions (6.1)].
 
 Safety and efficacy in pediatric patients <6 years of age with atopic dermatitis have not been established.
 

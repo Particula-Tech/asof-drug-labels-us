@@ -5,8 +5,7 @@ Advise the patient to read the FDA-approved patient labeling (Patient Informatio
 Pregnancy Registry
 
 There is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to DUPIXENT during pregnancy.
-Encourage participation in the registry.
-[see USE IN SPECIFIC POPULATIONS (8.1)].
+Encourage participation and advise patients about how they may enroll in the registry [see Use in Specific Populations (8.1)].
 
 Administration Instructions
 

@@ -2,7 +2,7 @@
 
 ## 5.1 Hypersensitivity
 
-Hypersensitivity reactions, including generalized urticaria, rash, erythema nodosum and serum sickness or serum sickness-like reactions, were reported in less than 1% of subjects who received DUPIXENT in clinical trials.
+Hypersensitivity reactions, including generalized urticaria, rash, erythema nodosum, and serum sickness or serum sickness-like reactions, were reported in less than 1% of subjects who received DUPIXENT in clinical trials.
 Two subjects in the atopic dermatitis development program experienced serum sickness or serum sickness-like reactions that were associated with high titers of antibodies to dupilumab.
 One subject in the asthma development program experienced anaphylaxis [see Adverse Reactions (6.2)].
 If a clinically significant hypersensitivity reaction occurs, institute appropriate therapy and discontinue DUPIXENT [see Adverse Reactions (6.1, 6.2)].

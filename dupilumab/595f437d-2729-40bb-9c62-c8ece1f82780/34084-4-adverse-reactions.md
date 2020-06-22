@@ -20,7 +20,7 @@ A total of 739 subjects were treated with DUPIXENT for at least 1 year in the de
 Trials 1, 2, and 4 compared the safety of DUPIXENT monotherapy to placebo through Week 16.
 Trial 3 compared the safety of DUPIXENT + TCS to placebo + TCS through Week 52.
 
-Weeks 0 to 16 (Trials 1 to 4):
+Weeks 0 to 16 (Trials 1 to 4)
 
 In DUPIXENT monotherapy trials (Trials 1, 2, and 4) through Week 16, the proportion of subjects who discontinued treatment because of adverse events was 1.9% in both the DUPIXENT 300 mg Q2W and placebo groups.
 Table 2 summarizes the adverse reactions that occurred at a rate of at least 1% in the DUPIXENT 300 mg Q2W monotherapy groups, and in the DUPIXENT + TCS group, all at a higher rate than in their respective comparator groups during the first 16 weeks of treatment.
@@ -40,7 +40,7 @@ Table 2: Adverse Reactions Occurring in ≥1% of the DUPIXENT Monotherapy Group 
 | Other herpes simplex virus infectionOther herpes simplex virus infection cluster includes herpes simplex, genital herpes, herpes simplex otitis externa, and herpes virus infection, but excludes eczema herpeticum. | 10 (2) | 6 (1) | 1 (1) | 1 (<1) |
 | Dry eye | 1 (<1) | 0 | 2 (2) | 1 (<1) |
 
-Safety through Week 52 (Trial 3):
+Safety through Week 52 (Trial 3)
 
 In the DUPIXENT with concomitant TCS trial (Trial 3) through Week 52, the proportion of subjects who discontinued treatment because of adverse events was 1.8% in DUPIXENT 300 mg Q2W + TCS group and 7.6% in the placebo + TCS group.
 Two subjects discontinued DUPIXENT because of adverse reactions: atopic dermatitis (1 subject) and exfoliative dermatitis (1 subject).
@@ -64,7 +64,7 @@ The safety profile of DUPIXENT + TCS in these subjects through Week 16 was simil
 The long-term safety of DUPIXENT + TCS was assessed in an open-label extension study of 368 subjects 6 to 11 years of age with atopic dermatitis (Trial 7).
 Among subjects who entered this study, 110 (30%) had moderate and 72 (20%) had severe atopic dermatitis at the time of enrollment in Trial 7.
 The safety profile of DUPIXENT + TCS in subjects followed through Week 52 was similar to the safety profile observed through Week 16 in Trial 8.
-The long-term safety profile of DUPIXENT + TCS observed in pediatric subjects was consistent with that seen in adults and adolescents with atopic dermatitis [see Pediatric Use (8.4)].
+The long-term safety profile of DUPIXENT + TCS observed in pediatric subjects was consistent with that seen in adults and adolescents with atopic dermatitis [see Use in Specific Populations (8.4)].
 
 Asthma
 
@@ -127,8 +127,7 @@ In the 52-week atopic dermatitis DUPIXENT + topical corticosteroids (TCS) atopic
 Most subjects with conjunctivitis or keratitis recovered or were recovering during the treatment period.
 
 Among asthma subjects, the frequency of conjunctivitis was similar between DUPIXENT and placebo.
-In the 52-week CRSwNP study (CSNP Trial 2), the frequency of conjunctivitis was 3% in the DUPIXENT subjects and 1% in the placebo subjects; all of these subjects recovered.
-[see Warnings and Precautions (5.2)].
+In the 52-week CRSwNP study (CSNP Trial 2), the frequency of conjunctivitis was 3% in the DUPIXENT subjects and 1% in the placebo subjects; all of these subjects recovered [see Warnings and Precautions (5.2)].
 
 Eczema Herpeticum and Herpes Zoster
 
@@ -147,8 +146,8 @@ These included serum sickness reaction, serum sickness-like reaction, generalize
 Eosinophils
 
 DUPIXENT-treated subjects had a greater initial increase from baseline in blood eosinophil count compared to subjects treated with placebo.
-In subjects with atopic dermatitis, the mean and median increases in blood eosinophils from baseline to Week 4 were 100 and 0 cells/mcL respectively.
-In subjects with asthma, the mean and median increases in blood eosinophils from baseline to Week 4 were 130 and 10 cells/mcL respectively.
+In subjects with atopic dermatitis, the mean and median increases in blood eosinophils from baseline to Week 4 were 100 and 0 cells/mcL, respectively.
+In subjects with asthma, the mean and median increases in blood eosinophils from baseline to Week 4 were 130 and 10 cells/mcL, respectively.
 In subjects with CRSwNP, the mean and median increases in blood eosinophils from baseline to Week 16 were 150 and 50 cells/mcL, respectively.
 
 Across all indications, the incidence of treatment-emergent eosinophilia (≥500 cells/mcL) was similar in DUPIXENT and placebo groups.
@@ -178,7 +177,7 @@ Approximately 16% of adolescent subjects with atopic dermatitis who received DUP
 
 Approximately 9% of subjects with asthma who received DUPIXENT 200 mg Q2W for 52 weeks developed antibodies to dupilumab; approximately 4% exhibited persistent ADA responses, and approximately 4% had neutralizing antibodies.
 
-Regardless of age or population, approximately 2 to 4% of subjects in placebo groups were positive for antibodies to DUPIXENT; approximately 2% exhibited persistent ADA responses, and approximately 1% had neutralizing antibodies.
+Regardless of age or population, approximately 2% to 4% of subjects in placebo groups were positive for antibodies to DUPIXENT; approximately 2% exhibited persistent ADA responses, and approximately 1% had neutralizing antibodies.
 
 The antibody titers detected in both DUPIXENT and placebo subjects were mostly low.
 In subjects who received DUPIXENT, development of high titer antibodies to dupilumab was associated with lower serum dupilumab concentrations [see Clinical Pharmacology (12.3)].

@@ -121,7 +121,8 @@ Table 8: Efficacy Results of DUPIXENT with Concomitant TCS in Trial 8 at Week 16
 
 | <30 kg | <30 kg | ≥30 kg | ≥30 kg |  |
 | --- | --- | --- | --- | --- |
-|  | DUPIXENT 300 mg Q4WAt Day 1, subjects received 600 mg of DUPIXENT. + TCS (N=61) | Placebo + TCS (N=61) | DUPIXENT 200 mg Q2WAt Day 1, subjects received 200 mg (baseline weight <30 kg) or 400 mg (baseline weight ≥30 kg) of DUPIXENT. + TCS (N=59) | Placebo + TCS (N=62) |
+|  | DUPIXENT 300 mg Q4WAt Day 1, subjects received 600 mg of DUPIXENT. + TCS | Placebo + TCS | DUPIXENT 200 mg Q2WAt Day 1, subjects received 200 mg (baseline weight <30 kg) or 400 mg (baseline weight ≥30 kg) of DUPIXENT. + TCS | Placebo + TCS |
+| (N=61) | (N=61) | (N=59) | (N=62) |  |
 | IGA 0 or 1Responder was defined as a subject with an IGA 0 or 1 ("clear" or "almost clear").,Subjects who received rescue treatment or with missing data were considered as non-responders. | 30% | 13% | 39% | 10% |
 | EASI-75 | 75% | 28% | 75% | 26% |
 | EASI-90 | 46% | 7% | 36% | 8% |
@@ -165,7 +166,7 @@ AS Trial 3
 
 AS Trial 3 was a 24-week oral corticosteroid-reduction study in 210 subjects with asthma who required daily oral corticosteroids in addition to regular use of high dose inhaled corticosteroids plus an additional controller.
 After optimizing the OCS dose during the screening period, subjects received 300 mg DUPIXENT (N=103) or placebo (N=107) once Q2W for 24 weeks following an initial dose of 600 mg or placebo.
-Subjects continued to receive their existing asthma medicine during the study; however their OCS dose was reduced every 4 weeks during the OCS reduction phase (Week 4-20), as long as asthma control was maintained.
+Subjects continued to receive their existing asthma medicine during the study; however, their OCS dose was reduced every 4 weeks during the OCS reduction phase (Week 4-20), as long as asthma control was maintained.
 The primary endpoint was the percent reduction of oral corticosteroid dose at Weeks 20 to 24 compared with the baseline dose, while maintaining asthma control in the overall population (unrestricted by minimum baseline blood eosinophils count).
 Additional secondary endpoints included the annualized rate of severe exacerbation events during treatment period and responder rate in the ACQ-5 and AQLQ(S) scores.
 
@@ -320,7 +321,7 @@ Table 12: Demographics and Baseline Characteristics of CRSwNP Trials
 | Mean SNOT-22 total score (SD), range 0-110 | 49.4 (20.2) | 51.9 (20.9) |
 | Mean blood eosinophils (cells/mcL) (SD) | 440 (330) | 430 (350) |
 | Mean total IgE IU/mL (SD) | 212 (276) | 240 (342) |
-| Atopic Medical History % Overall | 75% | 82% |
+| Atopic Medical History % Overall | 75 | 82 |
 | Asthma (%) | 58 | 60 |
 | NSAID-ERD (%) | 30 | 27 |
 | SD = standard deviation; AM = morning; NPS = nasal polyps score; SNOT-22 = 22-item sino-nasal outcome test; NSAID-ERD = asthma/nonsteroidal anti-inflammatory drug exacerbated respiratory disease |  |  |
