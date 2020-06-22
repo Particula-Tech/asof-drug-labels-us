@@ -21,7 +21,7 @@ Systemic corticosteroids are known to cause osteoporosis.
 No formal clinical trials have been conducted to assess if there is an interactive effect on bone loss with concomitant use of systemic corticosteroids and isotretinoin.
 Therefore, caution should be exercised when using these drugs together.
 
-## 7.5 Norethindrone and Ethinyl Estradiol
+## 7.5 Norethindrone/ethinyl estradiol
 
 In a trial of 31 premenopausal female patients with severe recalcitrant nodular acne receiving norethindrone and ethinyl estradiol as an oral contraceptive agent, isotretinoin capsules within the recommended dosage, did not induce clinically relevant changes in the pharmacokinetics of ethinyl estradiol and norethindrone and in the serum levels of progesterone, follicle-stimulating hormone (FSH) and luteinizing hormone (LH).
 Although this study did not show any clinically significant interaction between isotretinoin and norethindrone, it is not known if there is an interaction between isotretinoin with other progestins.
