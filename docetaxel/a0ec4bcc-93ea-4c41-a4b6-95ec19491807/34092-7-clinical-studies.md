@@ -146,7 +146,7 @@ Table 16: Survival Analysis of Docetaxel in Combination Therapy for Chemotherapy
 | Estimated Hazard RatioHazard ratio of docetaxel+cisplatin versus vinorelbine+cisplatin. A hazard ratio of less than 1 indicates that docetaxel+cisplatin is associated with a longer survival. | 0.88 |  |
 | Adjusted 95% CIAdjusted for interim analysis and multiple comparisons. | (0.74, 1.06) |  |
 
-The second comparison in the same three-arm study, vinorelbine+cisplatin versus docetaxel+carboplatin, did not demonstrate superior survival associated with the docetaxel arm (Kaplan-Meier estimate of median survival was 9.1 months for docetaxel +carboplatin compared to 10.0 months on the vinorelbine+cisplatin arm) and the docetaxel+carboplatin arm did not demonstrate preservation of at least 50% of the survival effect of vinorelbine added to cisplatin.
+The second comparison in the same three-arm study, vinorelbine+cisplatin versus docetaxel+carboplatin, did not demonstrate superior survival associated with the docetaxel arm (Kaplan-Meier estimate of median survival was 9.1 months for docetaxel+carboplatin compared to 10.0 months on the vinorelbine+cisplatin arm) and the docetaxel+carboplatin arm did not demonstrate preservation of at least 50% of the survival effect of vinorelbine added to cisplatin.
 Secondary endpoints evaluated in the trial included objective response and time to progression.
 There was no statistically significant difference between docetaxel+cisplatin and vinorelbine+cisplatin with respect to objective response and time to progression (see Table 17).
 
@@ -253,7 +253,7 @@ Table 20: Efficacy of Docetaxel Injection in the Induction Treatment of Patients
 | 0.006 |  |  |
 | Best overall response (CR + PR) to study treatment [chemotherapy +/- radiotherapy] (%) (95% CI) p-value | 72.3 (65.1–78.8) | 58.6 (51.0–65.8) |
 | 0.006 |  |  |
-| A hazard ratio of less than 1 favors Docetaxel Injection+Cisplatin+Fluorouracil |  |  |
+| A hazard ratio of less than 1 favors Docetaxel Injection+cisplatin+fluorouracil |  |  |
 
 Induction Chemotherapy Followed by Chemoradiotherapy (TAX324)
 
