@@ -21,6 +21,7 @@ Table 1: Recommended Dosages for OPDIVO as a Single Agent
 | Squamous cell carcinoma of the head and neck |  |  |
 | Urothelial carcinoma |  |  |
 | Hepatocellular carcinoma |  |  |
+| Esophageal squamous cell carcinoma |  |  |
 | Adjuvant treatment of melanoma | 240 mg every 2 weeks(30-minute intravenous infusion)or480 mg every 4 weeks(30-minute intravenous infusion) | Until disease recurrence or unacceptable toxicity for up to 1 year |
 | Small cell lung cancer | 240 mg every 2 weeks(30-minute intravenous infusion) | Until disease progression or unacceptable toxicity |
 | Microsatellite instability-high (MSI-H) or mismatch repair deficient (dMMR) metastatic colorectal cancer | Adult patients and pediatric patients age 12 years and older and weighing 40 kg or more:240 mg every 2 weeks(30-minute intravenous infusion)or480 mg every 4 weeks(30-minute intravenous infusion) | Until disease progression or unacceptable toxicity |

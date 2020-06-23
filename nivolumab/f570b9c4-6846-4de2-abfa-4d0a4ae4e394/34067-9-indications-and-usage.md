@@ -63,3 +63,7 @@ Continued approval for this indication may be contingent upon verification and d
 OPDIVO, as a single agent or in combination with ipilimumab, is indicated for the treatment of patients with hepatocellular carcinoma (HCC) who have been previously treated with sorafenib.
 This indication is approved under accelerated approval based on overall response rate and duration of response [see Clinical Studies (14.10)].
 Continued approval for this indication may be contingent upon verification and description of clinical benefit in the confirmatory trials.
+
+## 1.11 Esophageal Squamous Cell Carcinoma
+
+OPDIVO is indicated for the treatment of patients with unresectable advanced, recurrent or metastatic esophageal squamous cell carcinoma (ESCC) after prior fluoropyrimidine- and platinum-based chemotherapy.

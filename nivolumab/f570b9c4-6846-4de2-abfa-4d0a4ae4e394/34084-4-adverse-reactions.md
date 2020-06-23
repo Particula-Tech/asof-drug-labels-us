@@ -792,14 +792,8 @@ Table 23: Laboratory Abnormalities Worsening from Baselinea Occurring in ≥10% 
 ### Squamous Cell Carcinoma of the Head and Neck
 
 The safety of OPDIVO was evaluated in CHECKMATE-141, a randomized, active-controlled, open-label, multicenter trial in patients with recurrent or metastatic SCCHN with progression during or within 6 months of receiving prior platinum-based therapy [see Clinical Studies (14.7)].
-
 The trial excluded patients with active autoimmune disease, medical conditions requiring systemic immunosuppression, or recurrent or metastatic carcinoma of the nasopharynx, squamous cell carcinoma of unknown primary histology, salivary gland or non-squamous histologies (e.g., mucosal melanoma).
-Patients received OPDIVO 3 mg/kg by intravenous infusion over 60 minutes every 2 weeks (n=236) or investigator’s choice of either:
-
-- •cetuximab (n=13), 400 mg/m2 initial dose intravenously followed by 250 mg/m2 weekly, or
-- •methotrexate (n=46) 40 to 60 mg/m2 intravenously weekly, or
-- •docetaxel (n=52) 30 to 40 mg/m2 intravenously weekly.
-
+Patients received OPDIVO 3 mg/kg by intravenous infusion over 60 minutes every 2 weeks (n=236) or investigator’s choice of either cetuximab (400 mg/m2 initial dose intravenously followed by 250 mg/m2 weekly), or methotrexate (40 to 60 mg/m2 intravenously weekly), or docetaxel (30 to 40 mg/m2 intravenously weekly).
 The median duration of exposure to nivolumab was 1.9 months (range: 1 day to 16.1+ months) in OPDIVO-treated patients.
 In this trial, 18% of patients received OPDIVO for >6 months and 2.5% of patients received OPDIVO for >1 year.
 
@@ -1081,6 +1075,75 @@ In patients who received OPDIVO with ipilimumab, virologic breakthrough occurred
 In patients who received single-agent OPDIVO, virologic breakthrough occurred in 5 of 47 (11%) patients and 1 of 32 (3%) patients with active HBV or HCV at baseline, respectively.
 HBV virologic breakthrough was defined as at least a 1 log increase in HBV DNA for those patients with detectable HBV DNA at baseline.
 HCV virologic breakthrough was defined as a 1 log increase in HCV RNA from baseline.
+
+### Esophageal Squamous Cell Carcinoma
+
+The safety of OPDIVO was evaluated in ATTRACTION-3, a randomized, active-controlled, open-label, multicenter trial in 209 patients with unresectable advanced, recurrent or metastatic ESCC refractory or intolerant to at least one fluoropyrimidine- and platinum-based chemotherapy [see Clinical Studies (14.11)].
+The trial excluded patients who were refractory or intolerant to taxane therapy, had brain metastases that were symptomatic or required treatment, had autoimmune disease, used systemic corticosteroids or immunosuppressants, had apparent tumor invasion of organs adjacent to the esophageal tumor or had stents in the esophagus or respiratory tract.
+Patients received OPDIVO 240 mg by intravenous infusion over 30 minutes every 2 weeks (n=209) or investigator’s choice: docetaxel 75 mg/m2 intravenously every 3 weeks (n=65) or paclitaxel 100 mg/m2 intravenously once a week for 6 weeks followed by 1 week off (n=143).
+Patients were treated until disease progression or unacceptable toxicity.
+The median duration of exposure was 2.6 months (range: 0 to 29.2 months) in OPDIVO-treated patients and 2.6 months (range: 0 to 21.4 months) in docetaxel- or paclitaxel-treated patients.
+Among patients who received OPDIVO, 26% were exposed for >6 months and 10% were exposed for >1 year.
+
+Serious adverse reactions occurred in 38% of patients receiving OPDIVO.
+Serious adverse reactions reported in ≥2% of patients who received OPDIVO were pneumonia, esophageal fistula, interstitial lung disease and pyrexia.
+The following fatal adverse reactions occurred in patients who received OPDIVO: interstitial lung disease or pneumonitis (1.4%), pneumonia (1.0%), septic shock (0.5%), esophageal fistula (0.5%), gastrointestinal hemorrhage (0.5%), pulmonary embolism (0.5%), and sudden death (0.5%).
+
+OPDIVO was discontinued in 13% of patients and was delayed in 27% of patients for an adverse reaction.
+
+Tables 30 and 31 summarize the adverse reactions and laboratory abnormalities, respectively, in ATTRACTION-3.
+
+Table 30: Adverse Reactions Occurring in ≥10% of Patients Receiving OPDIVO - ATTRACTION-3
+
+| Adverse Reaction | OPDIVO(n=209) |  | Docetaxel or Paclitaxel(n=208) |  |
+| --- | --- | --- | --- | --- |
+| All Grades (%) | Grades 3-4 (%) | All Grades (%) | Grades 3-4 (%) |  |
+| Skin and Subcutaneous Tissue |  |  |  |  |
+| Rasha | 22 | 1.9 | 28 | 1 |
+| Pruritus | 12 | 0 | 7 | 0 |
+| Metabolism and Nutrition |  |  |  |  |
+| Decreased appetiteb | 21 | 1.9 | 35 | 5 |
+| Gastrointestinal |  |  |  |  |
+| Diarrheac | 18 | 1.9 | 17 | 1.4 |
+| Constipation | 17 | 0 | 19 | 0 |
+| Nausea | 11 | 0 | 20 | 0.5 |
+| Musculoskeletal and Connective Tissue |  |  |  |  |
+| Musculoskeletal paind | 17 | 0 | 26 | 1.4 |
+| Infections |  |  |  |  |
+| Upper respiratory tract infectione | 17 | 1.0 | 14 | 0 |
+| Pneumoniaf | 13 | 5 | 19 | 9 |
+| Respiratory, Thoracic and Mediastinal |  |  |  |  |
+| Coughg | 16 | 0 | 14 | 0.5 |
+| General |  |  |  |  |
+| Pyrexiah | 16 | 0.5 | 19 | 0.5 |
+| Fatiguei | 12 | 1.4 | 27 | 4.8 |
+| Blood and Lymphatic System |  |  |  |  |
+| Anemiaj | 13 | 8 | 30 | 13 |
+| Endocrine |  |  |  |  |
+| Hypothyroidismk | 11 | 0 | 1.4 | 0 |
+| Toxicity was graded per NCI CTCAE v4. a Includes urticaria, drug eruption, eczema, eczema asteatotic, eczema nummular, palmar-plantar erythrodysaesthesia syndrome, erythema, erythema multiforme, blister, skin exfoliation, Stevens-Johnson syndrome, dermatitis, dermatitis described as acneiform, bullous, or contact, and rash described as maculo-papular, generalized, or pustular. b Includes hypophagia, and food aversion. c Includes colitis. d Includes spondylolisthesis, periarthritis, musculoskeletal chest pain, neck pain, arthralgia, back pain, myalgia, pain in extremity, arthritis, bone pain, and periarthritis calcarea. e Includes influenza, influenza like illness, pharyngitis, nasopharyngitis, tracheitis, and bronchitis and upper respiratory infection with bronchitis. f Includes pneumonia aspiration, pneumonia bacterial, and lung infection. Two patients (1.0%) died of pneumonia in the OPDIVO treatment arm. Two patients (1.0%) died of pneumonia in the chemotherapy treatment arm; these deaths occurred with paclitaxel only. g Includes productive cough. h Includes tumor-associated fever. i Includes asthenia. j Includes hemoglobin decreased, and iron deficiency anemia. k Includes blood thyroid stimulating hormone increased. |  |  |  |  |
+
+Table 31: Laboratory Abnormalities Worsening from Baselinea Occurring in ≥10% of Patients - ATTRACTION-3
+
+| Laboratory Abnormality | OPDIVO(n=209) |  | Docetaxel or Paclitaxel(n=208) |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| All Grades (%) | Grades 3-4 (%) | All Grades (%) | Grades 3-4 (%) |  |  |  |  |  |  |
+| Chemistry |  |  |  |  |  |  |  |  |  |
+| Increased creatinine | 78 | 0.5 | 68 | 0.5 |  |  |  |  |  |
+| Hyperglycemia | 52 | 5 | 62 | 5 |  |  |  |  |  |
+| Hyponatremia | 42 | 11 | 50 | 12 |  |  |  |  |  |
+| Increased AST | 40 | 6 | 30 | 1.0 |  |  |  |  |  |
+| Increased alkaline phosphatase | 33 | 4.8 | 24 | 1.0 |  |  |  |  |  |
+| Increased ALT | 31 | 5 | 22 | 1.9 |  |  |  |  |  |
+| Hypercalcemia | 22 | 6 | 14 | 2.9 |  |  |  |  |  |
+| Hyperkalemia | 22 | 0.5 | 31 | 1.0 |  |  |  |  |  |
+| Hypoglycemia | 14 | 1.4 | 14 | 0.5 |  |  |  |  |  |
+| Hypokalemia | 11 | 2.9 | 13 | 3.4 |  |  |  |  |  |
+| Hematology |  |  |  |  |  |  |  |  |  |
+| Lymphopenia | 46 | 19 | 72 | 43 |  |  |  |  |  |
+| Anemia | 42 | 9 | 71 | 17 |  |  |  |  |  |
+| Leukopenia | 11 | 0.5 | 79 | 45 |  |  |  |  |  |
+| a Each test incidence is based on the number of patients who had both baseline and at least one on-study laboratory measurement available: OPDIVO group (209 patients) and Docetaxel or Paclitaxel group (range: 207 to 208 patients). |  |  |  |  |  |  |  |  |  |
 
 ## 6.2 Immunogenicity
 
