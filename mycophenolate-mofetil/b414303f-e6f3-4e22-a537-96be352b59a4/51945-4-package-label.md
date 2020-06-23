@@ -6,7 +6,7 @@ Mycophenolate
 
 Mofetil
 
-Capsules USP
+Capsules, USP
 
 250 mg
 

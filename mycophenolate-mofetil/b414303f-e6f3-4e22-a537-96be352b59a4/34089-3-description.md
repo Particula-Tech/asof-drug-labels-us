@@ -17,4 +17,4 @@ The pKa values for mycophenolate mofetil, USP are 5.6 for the morpholino group a
 
 Mycophenolate mofetil, USP is available for oral administration as capsules containing 250 mg of mycophenolate mofetil, USP.
 
-Inactive ingredients in Mycophenolate Mofetil Capsules USP, 250 mg include: black iron oxide, croscarmellose sodium, D&C red #28, D&C yellow #10, FD&C blue #1, FD&C red #40, gelatin, magnesium stearate, povidone, pregelatinized corn starch, propylene glycol, shellac glaze, and titanium dioxide.
+Inactive ingredients in Mycophenolate Mofetil Capsules, USP, 250 mg include: black iron oxide, croscarmellose sodium, D&C red #28, D&C yellow #10, FD&C blue #1, FD&C red #40, gelatin, magnesium stearate, povidone, pregelatinized corn starch, propylene glycol, shellac glaze, and titanium dioxide.
