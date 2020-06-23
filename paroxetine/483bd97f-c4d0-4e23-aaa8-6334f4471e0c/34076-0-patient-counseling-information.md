@@ -44,7 +44,7 @@ Advise patients to notify their healthcare provider if they become pregnant or i
 
 Nursing
 
-Advise women that PAXIL CR may cause to notify their physician if they are breastfeeding an infant [see Use in Specific Populations (8.3)].
+Advise women to notify their healthcare provider if they are breastfeeding an infant [see Use in Specific Populations (8.3)].
 
 Manufactured by:
 
