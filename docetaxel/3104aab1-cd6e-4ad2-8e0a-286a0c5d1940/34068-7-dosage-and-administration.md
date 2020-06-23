@@ -2,7 +2,7 @@
 
 For all indications, toxicities may warrant dosage adjustments [see Dosage and Administration (2.7)].
 
-Administer in a facility equipped to manage possible complications (e.g. anaphylaxis).
+Administer in a facility equipped to manage possible complications (e.g., anaphylaxis).
 
 ## 2.1 Breast Cancer
 
@@ -63,7 +63,7 @@ Patients who develop ≥grade 3 peripheral neuropathy should have Docetaxel Inje
 
 Combination Therapy with Docetaxel Injection in the Adjuvant Treatment of Breast Cancer
 
-Docetaxel Injection in combination with doxorubicin and cyclophosphamide should be administered when the neutrophil count is ≥1,500 cells/mm3.
+Docetaxel Injection in combination with doxorubicin and cyclophosphamide should be administered when the neutrophil count is ≥1500 cells/mm3.
 Patients who experience febrile neutropenia should receive G-CSF in all subsequent cycles.
 Patients who continue to experience this reaction should remain on G-CSF and have their Docetaxel Injection dose reduced to 60 mg/m2.
 Patients who experience grade 3 or 4 stomatitis should have their Docetaxel Injection dose decreased to 60 mg/m2.
@@ -87,7 +87,7 @@ Prostate Cancer
 
 Combination Therapy with Docetaxel Injection for Metastatic Castration-Resistant Prostate Cancer
 
-Docetaxel Injection should be administered when the neutrophil count is ≥1,500 cells/mm3.
+Docetaxel Injection should be administered when the neutrophil count is ≥1500 cells/mm3.
 Patients who experience either febrile neutropenia, neutrophils <500 cells/mm3 for more than one week, severe or cumulative cutaneous reactions or moderate neurosensory signs and/or symptoms during Docetaxel Injection therapy should have the dosage of Docetaxel Injection reduced from 75 mg/m2 to 60 mg/m2.
 If the patient continues to experience these reactions at 60 mg/m2, the treatment should be discontinued.
 
@@ -100,7 +100,8 @@ In both studies, G-CSF was recommended during the second and/or subsequent cycle
 If an episode of febrile neutropenia, prolonged neutropenia or neutropenic infection occurs despite G-CSF use, the Docetaxel Injection dose should be reduced from 75 mg/m2 to 60 mg/m2.
 If subsequent episodes of complicated neutropenia occur the Docetaxel Injection dose should be reduced from 60 mg/m2 to 45 mg/m2.
 In case of grade 4 thrombocytopenia the Docetaxel Injection dose should be reduced from 75 mg/m2 to 60 mg/m2.
-Patients should not be retreated with subsequent cycles of Docetaxel Injection until neutrophils recover to a level >1,500 cells/mm3 and platelets recover to a level >100,000 cells/mm3.
+Do not retreat patients with subsequent cycles of Docetaxel Injection until neutrophils recover to a level >1500 cells/mm3 [see Contraindications (4)].
+Avoid retreating patients until platelets recover to a level >100,000 cells/mm3.
 Discontinue treatment if these toxicities persist [see Warnings and Precautions (5.3)].
 
 Recommended dose modifications for toxicities in patients treated with Docetaxel Injection in combination with cisplatin and fluorouracil are shown in Table 1.
@@ -123,7 +124,7 @@ The dose modifications for cisplatin and fluorouracil in the gastric cancer stud
 Cisplatin Dose Modifications and Delays
 
 Peripheral Neuropathy: A neurological examination should be performed before entry into the study, and then at least every 2 cycles and at the end of treatment.
-In the case of neurological signs or symptoms, more frequent examinations should be performed and the following dose modifications can be made according to NCIC-CTC grade:
+In the case of neurological signs or symptoms, more frequent examinations should be performed and the following dose modifications can be made according to NCI-CTCAE grade:
 
 - Grade 2: Reduce cisplatin dose by 20%.
 - Grade 3: Discontinue treatment.

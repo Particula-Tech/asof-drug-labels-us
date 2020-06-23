@@ -233,7 +233,7 @@ Table 20: Efficacy of Docetaxel Injection in the Induction Treatment of Patients
 | 0.006 |  |  |
 | Best overall response (CR + PR) to study treatment [chemotherapy +/- radiotherapy] (%) (95% CI) p-value | 72.3 (65.1–78.8) | 58.6 (51.0–65.8) |
 | 0.006 |  |  |
-| A hazard ratio of less than 1 favors Docetaxel Injection+Cisplatin+Fluorouracil |  |  |
+| A hazard ratio of less than 1 favors Docetaxel Injection+cisplatin+fluorouracil |  |  |
 
 Induction Chemotherapy Followed by Chemoradiotherapy (TAX324)
 
