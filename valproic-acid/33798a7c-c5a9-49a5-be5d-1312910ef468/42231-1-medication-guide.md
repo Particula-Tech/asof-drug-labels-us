@@ -47,7 +47,7 @@ Birth defects may occur even in children born to women who are not taking any me
 
 Taking folic acid supplements before getting pregnant and during early pregnancy can lower the chance of having a baby with a neural tube defect.
 
-If you take divalproex sodium delayed-release tablets during pregnancy for any medical condition, your child is at risk for having lower IQ.
+If you take divalproex sodium delayed-release tablets during pregnancy for any medical condition, your child is at risk for having lower IQ and may be at risk for developing autism or attention deficit/hyperactivity disorder.
 
 There may be other medicines to treat your condition that have a lower chance of causing birth defects, decreased IQ, or other disorders in your child.
 
@@ -266,4 +266,4 @@ Goa 403 722
 
 INDIA.
 
-Revised: February 2020 ID#: 264503
+Revised: July 2020 ID#: 265519

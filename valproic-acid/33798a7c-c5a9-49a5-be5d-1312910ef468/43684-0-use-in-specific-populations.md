@@ -84,11 +84,12 @@ The largest of these studies1 is a prospective cohort study conducted in the Uni
 It is not known when during pregnancy cognitive effects in valproate-exposed children occur.
 Because the women in this study were exposed to AEDs throughout pregnancy, whether the risk for decreased IQ was related to a particular time period during pregnancy could not be assessed [see Warnings and Precautions (5.3)].
 
-Although the available studies have methodological limitations, the weight of the evidence supports a causal association between valproate exposure in utero and subsequent adverse effects on neurodevelopment, including increases in autism spectrum disorders.
+Although the available studies have methodological limitations, the weight of the evidence supports a causal association between valproate exposure in utero and subsequent adverse effects on neurodevelopment, including increases in autism spectrum disorders and attention deficit/hyperactivity disorder (ADHD).
 An observational study has suggested that exposure to valproate products during pregnancy increases the risk of autism spectrum disorders.
 In this study, children born to mothers who had used valproate products during pregnancy had 2.9 times the risk (95% confidence interval [CI]: 1.7 to 4.9) of developing autism spectrum disorders compared to children born to mothers not exposed to valproate products during pregnancy.
 The absolute risks for autism spectrum disorders were 4.4% (95% CI: 2.6% to 7.5%) in valproate-exposed children and 1.5% (95% CI: 1.5% to 1.6%) in children not exposed to valproate products.
-Because the study was observational in nature, conclusions regarding a causal association between in utero valproate exposure and an increased risk of autism spectrum disorder cannot be considered definitive.
+Another observational study found that children who were exposed to valproate in utero had an increased risk of ADHD (adjusted HR 1.48; 95% CI, 1.09 to 2.00) compared with the unexposed children.
+Because these studies were observational in nature, conclusions regarding a causal association between in utero valproate exposure and an increased risk of autism spectrum disorder and ADHD cannot be considered definitive.
 
 Other
 
