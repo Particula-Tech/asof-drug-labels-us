@@ -144,8 +144,6 @@ Failed fertility has been reported during human in vitro fertilization (IVF) whe
 
 ### Teratogenic Effects
 
-#### Pregnancy Category C
-
 The effect of amantadine on embryofetal and peri-postnatal development has not been adequately tested, that is, in studies conducted under Good Laboratory Practice (GLP) and according to current recommended methodology.
 However, in two non-GLP studies in rats in which females were dosed from 5 days prior to mating to Day 6 of gestation or on Days 7 to 14 of gestation, amantadine hydrochloride produced increases in embryonic death at an oral dose of 100 mg/kg (or 3 times the maximum recommended human dose on a mg/m2 basis).
 In the non-GLP rat study in which females were dosed on Days 7 to 14 of gestation, there was a marked increase in severe visceral and skeletal malformations at oral doses of 50 and 100 mg/kg (or 1.5 and 3 times, respectively, the maximum recommended human dose on a mg/m2 basis).
