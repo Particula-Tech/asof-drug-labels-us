@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA060613"
+  ],
+  "inn": "neomycin",
+  "labeler": "Rising Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "64980-448-10"
+  ],
+  "products": [
+    {
+      "form": "SUSPENSION",
+      "generic": "neomycin and polymyxin b sulfates and hydrocortisone otic",
+      "name": "Neomycin and Polymyxin B Sulfates and Hydrocortisone Otic Suspension"
+    }
+  ],
+  "setid": "35768adc-b578-4c2e-b461-22de3135a789",
+  "source": "dailymed"
+}
