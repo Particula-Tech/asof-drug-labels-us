@@ -7,10 +7,8 @@ SERIOUS ACUTE HYPERSENSITIVITY REACTIONS MAY REQUIRE TREATMENT WITH EPINEPHRINE 
 
 Pseudomembranous colitis has been reported with nearly all antibacterial agents, including cefazolin, and may range in severity from mild to life-threatening.
 Therefore, it is important to consider this diagnosis in patients who present with diarrhea subsequent to the administration of antibacterial agents.
-
 Treatment with antibacterial agents alters the normal flora of the colon and may permit overgrowth of clostridia.
 Studies indicate that a toxin produced by Clostridium difficile is a primary cause of “antibiotic-associated colitis.”
-
 After the diagnosis of pseudomembranous colitis has been established, therapeutic measures should be initiated.
 Mild cases of pseudomembranous colitis usually respond to drug discontinuation alone.
 In moderate to severe cases, consideration should be given to management with fluids and electrolytes, protein supplementation, and treatment with an oral antibacterial drug clinically effective against C. difficile colitis.
@@ -40,7 +38,7 @@ Probenecid may decrease renal tubular secretion of cephalosporins when used conc
 
 ## Drug/Laboratory Test Interactions
 
-A false positive reaction for glucose in the urine may occur with Benedict's solution, Fehling's solution or with CLINITEST ® tablets, but not with enzyme-based tests such as CLINISTIX ®.
+A false positive reaction for glucose in the urine may occur with Benedict's solution, Fehling's solution or with CLINITEST® tablets, but not with enzyme-based tests such as CLINISTIX®.
 
 Positive direct and indirect antiglobulin (Coombs) tests have occurred; these may also occur in neonates whose mothers received cephalosporins before delivery.
 
@@ -49,7 +47,6 @@ Positive direct and indirect antiglobulin (Coombs) tests have occurred; these ma
 Patients should be counseled that antibacterial drugs including Cefazolin for Injection, should only be used to treat bacterial infections.
 They do not treat viral infections (e.g., the common cold).
 When Cefazolin for Injection is prescribed to treat a bacterial infection, patients should be told that although it is common to feel better early in the course of therapy, the medication should be taken exactly as directed.
-
 Skipping doses or not completing the full course of therapy may: (1) decrease the effectiveness of the immediate treatment, and (2) increase the likelihood that bacteria will develop resistance and will not be treatable by Cefazolin for Injection or other antibacterial drugs in the future.
 
 ## Carcinogenesis/Mutagenesis

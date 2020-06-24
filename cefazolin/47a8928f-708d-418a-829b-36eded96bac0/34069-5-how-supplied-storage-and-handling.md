@@ -18,17 +18,3 @@ However, product potency is not adversely affected.
 Before reconstitution protect from light and store at 20° to 25°C (68° to 77°F) [See USP Controlled Room Temperature].
 
 The container closure is not made with natural rubber latex.
-
-CLINITEST is a registered trademark of Miles, Inc.
-
-CLINISTIX is a registered trademark of Bayer Corporation.
-
-Manufactured for:
-
-Lake Zurich, IL 60047
-
-Made in Italy
-
-www.fresenius-kabi.com/us
-
-451182F Revised: January 2019

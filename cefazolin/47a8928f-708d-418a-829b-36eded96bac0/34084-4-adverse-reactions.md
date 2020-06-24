@@ -20,5 +20,4 @@ Pain at the site of injection after intramuscular administration has occurred in
 Some induration has occurred.
 
 Other Reactions: Genital and anal pruritus (including, vulvar pruritus, genital moniliasis, and vaginitis).
-
 To report SUSPECTED ADVERSE EVENTS, contact Fresenius Kabi USA, LLC at 1-800-551-7176 or FDA at 1-800-FDA-1088 or www.fda.gov.

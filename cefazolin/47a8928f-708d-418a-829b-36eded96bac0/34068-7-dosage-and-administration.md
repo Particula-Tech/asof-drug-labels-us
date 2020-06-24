@@ -3,23 +3,27 @@
 THE INTENT OF THE PHARMACY BULK PACKAGE FOR THIS PRODUCT IS FOR PREPARATION OF SOLUTIONS FOR I.V.
 INFUSION ONLY.
 
-| Usual Adult Dosage |  |  |
-| --- | --- | --- |
+Usual Adult Dosage
+
 | Type of Infection | Dose | Frequency |
+| --- | --- | --- |
 | Moderate to severe infections | 500 mg to 1 gram | every 6 to 8 hours |
 | Mild infections caused by susceptible gram-positive cocci | 250 mg to 500 mg | every 8 hours |
 | Acute, uncomplicated urinary tract infections | 1 gram | every 12 hours |
 | Pneumococcal pneumonia | 500 mg | every 12 hours |
 | Severe, life-threatening infections (e.g., endocarditis, septicemia)* | 1 gram to 1.5 grams | every 6 hours |
-| * In rare instances, doses of up to 12 grams of cefazolin per day have been used. |  |  |
+
+* In rare instances, doses of up to 12 grams of cefazolin per day have been used.
 
 ## Perioperative Prophylactic Use
 
 To prevent postoperative infection in contaminated or potentially contaminated surgery, recommended doses are:
 
-1. 1 gram I.V. administered ½ hour to 1 hour prior to the start of surgery.
-2. For lengthy operative procedures (e.g., 2 hours or more), 500 mg to 1 gram I.V. during surgery (administration modified depending on the duration of the operative procedure).
-3. 500 mg to 1 gram I.V. every 6 to 8 hours for 24 hours postoperatively.
+a) 1 gram I.V. administered ½ hour to 1 hour prior to the start of surgery.
+
+b) For lengthy operative procedures (e.g., 2 hours or more), 500 mg to 1 gram I.V. during surgery (administration modified depending on the duration of the operative procedure).
+
+c) 500 mg to 1 gram I.V. every 6 to 8 hours for 24 hours postoperatively.
 
 It is important that (1) the preoperative dose be given just prior (1/2 hour to 1 hour) to the start of surgery so that adequate antibiotic levels are present in the serum and tissues at the time of initial surgical incision; and (2) Cefazolin for Injection be administered, if necessary, at appropriate intervals during surgery to provide sufficient levels of the antibiotic at the anticipated moments of greatest exposure to infective organisms.
 
@@ -29,8 +33,8 @@ In surgery where the occurrence of infection may be particularly devastating (e.
 
 Cefazolin for Injection may be used in patients with reduced renal function with the following dosage adjustments: Patients with a creatinine clearance of 55 mL/min. or greater or a serum creatinine of 1.5 mg % or less can be given full doses.
 Patients with creatinine clearance rates of 35 to 54 mL/min. or serum creatinine of 1.6 to 3.0 mg % can also be given full doses but dosage should be restricted to at least 8 hour intervals.
-Patients with creatinine clearance rates of 11 to 34 mL/min. or serum creatinine of 3.1 to 4.5 mg % should be given 1/ 2 the usual dose every 12 hours.
-Patients with creatinine clearance rates of 10 mL/min. or less or serum creatinine of 4.6 mg % or greater should be given 1/ 2 the usual dose every 18 to 24 hours.
+Patients with creatinine clearance rates of 11 to 34 mL/min. or serum creatinine of 3.1 to 4.5 mg % should be given ½ the usual dose every 12 hours.
+Patients with creatinine clearance rates of 10 mL/min. or less or serum creatinine of 4.6 mg % or greater should be given ½ the usual dose every 18 to 24 hours.
 All reduced dosage recommendations apply after an initial loading dose appropriate to the severity of the infection.
 Patients undergoing peritoneal dialysis: See CLINICAL PHARMACOLOGY.
 
@@ -63,3 +67,29 @@ In pediatric patients with mild to moderate renal impairment (creatinine clearan
 In patients with moderate impairment (creatinine clearance of 40 to 20 mL/min.), 25 percent of the normal daily dose given in equally divided doses every 12 hours should be adequate.
 Pediatric patients with severe renal impairment (creatinine clearance of 20 to 5 mL/min.) may be given 10 percent of the normal daily dose every 24 hours.
 All dosage recommendations apply after an initial loading dose.
+
+# ADMINISTRATION:
+
+## Intravenous Administration
+
+Intermittent or continuous infusion: Dilute reconstituted Cefazolin for Injection in 50 to 100 mL of 1 of the following solutions:
+
+Sodium Chloride Injection, USP
+
+5% or 10% Dextrose Injection, USP
+
+5% Dextrose in Lactated Ringer's Injection, USP
+
+5% Dextrose and 0.9% Sodium Chloride Injection, USP
+
+5% Dextrose and 0.45% Sodium Chloride Injection, USP
+
+5% Dextrose and 0.2% Sodium Chloride Injection, USP
+
+Lactated Ringer's Injection, USP
+
+Invert Sugar 5% or 10% in Sterile Water for Injection
+
+Ringer's Injection, USP
+
+5% Sodium Bicarbonate Injection, USP
