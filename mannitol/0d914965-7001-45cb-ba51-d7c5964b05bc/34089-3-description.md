@@ -4,7 +4,7 @@ OSMITROL is a sterile, nonpyrogenic solution of Mannitol, USP in a single-dose f
 It contains no antimicrobial agents.
 Mannitol is a six carbon sugar alcohol prepared commercially by the reduction of dextrose.
 The pH is adjusted with sodium hydroxide or hydrochloric acid.
-Composition, osmolarity, and pH are shown in.
+Composition, osmolarity, and pH are shown in Table 1.
 
 | Table 11 | Size | Composition | Normal physiologic osmolarity range is approximately 280 to 310 mOsmol/L.Osmolarity | pH |
 | --- | --- | --- | --- | --- |
