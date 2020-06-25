@@ -1,26 +1,16 @@
 {
   "application_numbers": [
-    "NDA020103",
-    "NDA020781"
+    "NDA020103"
   ],
   "inn": "ondansetron",
   "labeler": "Novartis Pharmaceuticals Corporation",
   "package_ndcs": [
     "0078-0675-15",
-    "0078-0676-15",
-    "0078-0679-19",
-    "0078-0679-61",
-    "0078-0680-19",
-    "0078-0680-61"
+    "0078-0676-15"
   ],
   "products": [
     {
       "form": "TABLET, FILM COATED",
-      "generic": "ondansetron hydrochloride",
-      "name": "ZOFRAN"
-    },
-    {
-      "form": "TABLET, ORALLY DISINTEGRATING",
       "generic": "ondansetron hydrochloride",
       "name": "ZOFRAN"
     }
