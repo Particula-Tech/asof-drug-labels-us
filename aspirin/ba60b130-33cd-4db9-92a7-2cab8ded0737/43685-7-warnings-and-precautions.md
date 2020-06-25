@@ -83,7 +83,7 @@ The infant was given phenobarbital 5 mg/kg, which was tapered without further se
 
 Studies of aspirin use in pregnant women have not shown that aspirin increases the risk of abnormalities when administered during the first trimester of pregnancy.
 In controlled studies involving 41,337 pregnant women and their offspring, there was no evidence that aspirin taken during pregnancy caused stillbirth, neonatal death or reduced birth weight.
-In controlled studies of 50,282 pregnant women and their offspring, aspirin administration in moderate and heavy doses during the first four lunar months of pregnancy showed no teratogenic effect.
+In controlled studies of 50,282 pregnant women and their offspring, aspirin administration in moderate and heavy doses during the first four lunar months of pregnancy showed noteratogenic effect.
 
 Therapeutic doses of aspirin in pregnant women close to term may cause bleeding in mother, fetus, or neonate.
 During the last 6 months of pregnancy, regular use of aspirin in high doses may prolong pregnancy and delivery.
