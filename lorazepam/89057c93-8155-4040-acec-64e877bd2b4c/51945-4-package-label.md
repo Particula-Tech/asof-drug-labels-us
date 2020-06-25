@@ -2,15 +2,17 @@
 
 NDC 0187-0065-01
 
-Ativan® (lorazepam)
+Rx only
 
-2 mg
-
-100 Tablets
+Ativan® (lorazepam) Tablets
 
 CIV SEALED FOR YOUR PROTECTION
 
-Rx only
+2 mg
+
+PHARMACIST: Dispense the accompanying Medication Guide to each patient.
+
+100 Tablets
 
 VALEANT
 
@@ -18,15 +20,17 @@ VALEANT
 
 NDC 0187-0064-01
 
-Ativan® (lorazepam)
+Rx only
 
-1 mg
-
-100 Tablets
+Ativan® (lorazepam) Tablets
 
 CIV SEALED FOR YOUR PROTECTION
 
-Rx only
+1 mg
+
+PHARMACIST: Dispense the accompanying Medication Guide to each patient,
+
+100 Tablets
 
 VALEANT
 
@@ -34,14 +38,16 @@ VALEANT
 
 NDC 0187-0063-01
 
-Ativan® (lorazepam)
+Rx only
 
-0.5 mg
-
-100 Tablets
+Ativan® (lorazepam) Tablets
 
 CIV SEALED FOR YOUR PROTECTION
 
-Rx only
+0.5 mg
+
+PHARMACIST: Dispense the accompanying Medication Guide to each patient.
+
+100 Tablets
 
 VALEANT

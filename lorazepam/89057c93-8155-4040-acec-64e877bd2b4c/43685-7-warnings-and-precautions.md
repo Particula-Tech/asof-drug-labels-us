@@ -31,7 +31,7 @@ Addiction-prone individuals (such as drug addicts or alcoholics) should be under
 In general, benzodiazepines should be prescribed for short periods only (e.g., 2 to 4 weeks).
 Extension of the treatment period should not take place without reevaluation of the need for continued therapy.
 Continuous long-term use of product is not recommended.
-Withdrawal symptoms (e.g., rebound insomnia) can appear following cessation of recommended doses after as little as one week of therapy.
+Withdrawal symptoms (e.g., rebound insomnia) can appear following cessation of recommended doses after as little as 1 week of therapy.
 Abrupt discontinuation of product should be avoided and a gradual dosage-tapering schedule followed after extended therapy.
 
 Abrupt termination of treatment may be accompanied by withdrawal symptoms.
@@ -61,9 +61,9 @@ Dosage for patients with severe hepatic insufficiency should be adjusted careful
 
 In patients where gastrointestinal or cardiovascular disorders coexist with anxiety, it should be noted that lorazepam has not been shown to be of significant benefit in treating the gastrointestinal or cardiovascular component.
 
-Esophageal dilation occurred in rats treated with lorazepam for more than one year at 6 mg/kg/day.
-The no-effect dose was 1.25 mg/kg/day (approximately 6 times the maximum human therapeutic dose of 10 mg per day).
-The effect was reversible only when the treatment was withdrawn within two months of first observation of the phenomenon.
+Esophageal dilation occurred in rats treated with lorazepam for more than 1 year at 6 mg/kg/day.
+The no-effect dose was 1.25 mg/kg/day (approximately 6 times the maximum human therapeutic dose of 10 mg/ day).
+The effect was reversible only when the treatment was withdrawn within 2 months of first observation of the phenomenon.
 The clinical significance of this is unknown.
 However, use of lorazepam for prolonged periods and in geriatric patients requires caution, and there should be frequent monitoring for symptoms of upper GI disease.
 

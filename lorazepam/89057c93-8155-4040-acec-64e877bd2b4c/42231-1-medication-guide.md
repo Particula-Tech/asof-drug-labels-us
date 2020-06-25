@@ -1,29 +1,29 @@
-# Medication Guide
+# MEDICATION GUIDE
 
 ATIVAN (AT-ivan)
 
-(lorazepam) Tablets, C-IV
+(lorazepam) Tablets, CIV
 
 What is the most important information I should know about ATIVAN?
 
 - •ATIVAN is a benzodiazepine medicine.
   Taking benzodiazepines with opioid medicines, alcohol, or other central nervous system depressants (including street drugs) can cause severe drowsiness, breathing problems (respiratory depression), coma and death.
 - •ATIVAN can make you sleepy or dizzy, and can slow your thinking and motor skills.
-  - •Do not drive, operate heavy machinery, or do other dangerous activities until you know how ATIVAN affects you.
-  - •Do not drink alcohol or take other drugs that may make you sleepy or dizzy while taking ATIVAN without first talking to your healthcare provider.
+  - oDo not drive, operate heavy machinery, or do other dangerous activities until you know how ATIVAN affects you.
+  - oDo not drink alcohol or take other drugs that may make you sleepy or dizzy while taking ATIVAN without first talking to your healthcare provider.
     When taken with alcohol or drugs that cause sleepiness or dizziness, ATIVAN may make your sleepiness or dizziness much worse.
 - •Do not take more ATIVAN than prescribed.
 
 What is ATIVAN?
 
 - •ATIVAN is a prescription medicine used:
-- •to treat anxiety disorders
-- •for the short-term relief of the symptoms of anxiety or anxiety that can happen with symptoms of depression
-- •ATIVAN is a federal controlled substance (C-IV) because it can be abused or lead to dependence.
+- oto treat anxiety disorders
+- ofor the short-term relief of the symptoms of anxiety or anxiety that can happen with symptoms of depression
+- •ATIVAN is a federal controlled substance (CIV) because it can be abused or lead to dependence.
   Keep ATIVAN in a safe place to prevent misuse and abuse.
   Selling or giving away ATIVAN may harm others, and is against the law.
   Tell your healthcare provider if you have abused or been dependent on alcohol, prescription medicines or street drugs.
-- •It is not known if ATIVAN is safe and effective in children less than 12 years of age.
+- •It is not known if ATIVAN is safe and effective for use in children less than 12 years of age.
 - •It is not known if ATIVAN is safe and effective for use for longer than 4 months.
 
 Do not take ATIVAN if you:
@@ -44,7 +44,7 @@ Before you take ATIVAN, tell your healthcare provider about all of your medical 
 - •are breastfeeding or plan to breastfeed.
   ATIVAN passes into your breast milk and may harm your baby.
   Talk to your healthcare provider about the best way to feed your baby if you take ATIVAN.
-  You should not breastfeed while taking ATIVAN
+  You should not breastfeed while taking ATIVAN.
 
 Tell your healthcare provider about all the medicines you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements.
 
@@ -97,7 +97,7 @@ How should I store ATIVAN?
 - •Store ATIVAN in a tightly closed container at 77°F (25°C); excursions permitted to 59° to 86°F (15° to 30°C).
 - •Keep ATIVAN and all medicines out of the reach of children.
 
-General information about the safe and effective use of ATIVAN.
+General information about the safe and effective use of ATIVAN
 
 Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide.
 Do not use ATIVAN for a condition for which it was not prescribed.
@@ -109,16 +109,19 @@ What are the ingredients in ATIVAN?
 
 Active ingredient: lorazepam
 
-Inactive ingredients: lactose monohydrate, magnesium stearate, microcrystalline cellulose, and polacrilin potassium
+Inactive ingredients: lactose monohydrate, magnesium stearate, microcrystalline cellulose, and polacrilin potassium.
 
-Manufactured by: MEDA Manufacturing GmbH, Cologne, Germany 51063 For: Valeant Pharmaceuticals North America LLC, Bridgewater, NJ 08807 USA.
-Ativan is a trademark of Valeant Pharmaceuticals International, Inc. or its affiliates.
+Manufactured for: Valeant Pharmaceuticals North America LLC, Bridgewater, NJ 08807 USA
+
+Manufactured by: Valeant Pharmaceuticals International, Inc., Steinbach, MB R5G 1Z7 Canada
+
+© 2018 Valeant Pharmaceuticals North America LLC
+
+ATIVAN is a trademark of Valeant Pharmaceuticals International, Inc. or its affiliates.
 For more information, call 1-800-321-4576.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration
 
-9508102
+9644300 20002159
 
-70012365
-
-Issued: 12/16
+Revised: 09/2018
