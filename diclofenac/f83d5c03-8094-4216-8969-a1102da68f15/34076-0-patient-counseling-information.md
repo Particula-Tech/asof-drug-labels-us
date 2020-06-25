@@ -47,8 +47,8 @@ Use of NSAIDs and Low-Dose Aspirin
 
 Inform patients not to use low-dose aspirin concomitantly with ZORVOLEX until they talk to their healthcare provider [see Drug Interactions (7)].
 
-Manufactured (under license from iCeutica Pty Ltd.) for and Distributed by: Egalet US Inc., Wayne, PA 19087 ©2019 Egalet Corporation.
+Manufactured (under license from iCeutica Pty Ltd.) for and Distributed by: Zyla Life Sciences US Inc., Wayne, PA 19087 ©2019 Zyla Life Sciences.
 All rights reserved.
 US Patent Nos. 8679544, 8999387, 9017721, 9173854, 9180095, 9180096, and 9186328
 
-03/2019 LBL# 501.00
+09/2019 LBL# 501.01
