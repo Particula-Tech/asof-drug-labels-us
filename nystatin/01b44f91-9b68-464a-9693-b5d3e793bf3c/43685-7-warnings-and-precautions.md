@@ -29,8 +29,6 @@ No studies have been performed to determine the mutagenicity of nystatin or its 
 
 ### Teratogenic Effects
 
-#### Category C
-
 Animal reproduction studies have not been conducted with any nystatin topical preparation.
 It also is not known whether theses preparations can cause fetal harm when used by a pregnant woman or can affect reproductive capacity.
 Nyamyc® (Nystatin Topical Powder, USP) should be prescribed for a pregnant woman only if the potential benefit to the mother outweighs the potential risk to the fetus.
