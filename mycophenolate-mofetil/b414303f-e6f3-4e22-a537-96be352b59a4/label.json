@@ -1,26 +1,18 @@
 {
   "application_numbers": [
-    "ANDA065457",
     "ANDA065491"
   ],
   "inn": "mycophenolate-mofetil",
   "labeler": "Teva Pharmaceuticals USA, Inc.",
   "package_ndcs": [
     "0093-7334-01",
-    "0093-7334-05",
-    "0093-7477-01",
-    "0093-7477-05"
+    "0093-7334-05"
   ],
   "products": [
     {
       "form": "CAPSULE",
       "generic": "mycophenolate mofetil",
       "name": "Mycophenolate Mofetil"
-    },
-    {
-      "form": "TABLET, FILM COATED",
-      "generic": "mycophenolate mofetil",
-      "name": "mycophenolate mofetil"
     }
   ],
   "setid": "b414303f-e6f3-4e22-a537-96be352b59a4",
