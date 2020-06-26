@@ -73,3 +73,5 @@ As with other antimicrobial agents, superinfections caused by resistant organism
 The following laboratory adverse events have been reported with the use of nitrofurantoin: increased AST (SGOT), increased ALT (SGPT), decreased hemoglobin, increased serum phosphorus, eosinophilia, glucose-6-phosphate dehydrogenase deficiency anemia (see WARNINGS), agranulocytosis, leukopenia, granulocytopenia, hemolytic anemia, thrombocytopenia, megaloblastic anemia.
 In most cases, these hematologic abnormalities resolved following cessation of therapy.
 Aplastic anemia has been reported rarely.
+
+To report SUSPECTED ADVERSE REACTIONS, contact Amneal Pharmaceuticals at 1-877-835-5472 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.

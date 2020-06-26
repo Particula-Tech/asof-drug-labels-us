@@ -1,8 +1,8 @@
 # DESCRIPTION
 
-Nitrofurantoin Capsules USP (Macrocrystals) are a synthetic chemical of controlled crystal size.
+Nitrofurantoin Capsules, USP (Macrocrystals) are a synthetic chemical of controlled crystal size.
 It is a stable, yellow, crystalline compound.
-Nitrofurantoin Capsules USP (Macrocrystals) are an antibacterial agent for specific urinary tract infections.
+Nitrofurantoin Capsules, USP (Macrocrystals) are an antibacterial agent for specific urinary tract infections.
 
 Nitrofurantoin, USP (macrocrystals) is chemically designated as 2,4-Imidazolidinedione, 1-[[(5-nitro-2-furanyl)methylene]amino]- and has the following structural formula:
 

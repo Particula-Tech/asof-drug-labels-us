@@ -61,57 +61,6 @@ Klebsiella ozaenae
 
 NOTE: Some strains of Enterobacter species and Klebsiella species are resistant to nitrofurantoin.
 
-## Susceptibility Test Methods
+Susceptibility Testing
 
-When available, the clinical microbiology laboratory should provide cumulative results of the in vitro susceptibility test results for antimicrobial drugs used in resident hospitals to the physician as periodic reports that describe the susceptibility profile of nosocomial and community-acquired pathogens.
-These reports should aid the physician in selecting the most effective antimicrobial.
-
-### Dilution Techniques
-
-Quantitative methods are used to determine antimicrobial minimum inhibitory concentrations (MICs).
-These MICs provide estimates of the susceptibility of bacteria to antimicrobial compounds.
-The MICs should be determined using a standardized procedure.
-Standardized procedures are based on a dilution method (broth or agar)1 or equivalent with standardized inoculum concentrations and standardized concentrations of nitrofurantoin powder.
-The MIC values should be interpreted according to the criteria provided in Table 1.
-
-### Diffusion Techniques
-
-Quantitative methods that require measurement of zone diameters also provide reproducible estimates of the susceptibility of bacteria to antimicrobial compounds.
-One such standardized procedure2 requires the use of standardized inoculum concentrations.
-This procedure uses paper disks impregnated with 300 mcg of nitrofurantoin to test the susceptibility of microorganisms to nitrofurantoin.
-The disk diffusion interpretive criteria are provided in Table 1.
-
-Table 1.
-Susceptibility Interpretive Criteria for Nitrofurantoin
-
-| Pathogen | Susceptibility Interpretive Criteria |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- |
-| Minimum Inhibitory Concentrations (mcg/mL) |  |  | Disk Diffusion (zone diameter in mm) |  |  |  |
-| S | I | R | S | I | R |  |
-| Enterobacteriaceae | ≤ 32 | 64 | ≥ 128 | ≥ 17 | 15 to 16 | ≤ 14 |
-| Staphylococcus spp. | ≤ 32 | 64 | ≥ 128 | ≥ 17 | 15 to 16 | ≤ 14 |
-| Enterococcus spp. | ≤ 32 | 64 | ≥ 128 | ≥ 17 | 15 to 16 | ≤ 14 |
-
-A report of Susceptible indicates that the pathogen is likely to be inhibited if the antimicrobial compound in the urine reaches the concentrations usually achievable.
-A report of Intermediate indicates that the result should be considered equivocal, and, if the microorganism is not fully susceptible to alternative, clinically feasible drugs, the test should be repeated.
-This category implies possible clinical applicability in body sites where the drug is physiologically concentrated or in situations where a high dosage of drug can be used.
-This category also provides a buffer zone, which prevents small, uncontrolled technical factors from causing major discrepancies in interpretation.
-A report of Resistant indicates that the pathogen is not likely to be inhibited if the antimicrobial compound in the urine reaches the concentrations usually achievable; other therapy should be selected.
-
-### Quality Control
-
-Standardized susceptibility test procedures require the use of quality control microorganisms to control the technical aspects of the test procedures3.
-Standard nitrofurantoin powder should provide the following range of values noted in Table 2.
-
-Table 2.
-Acceptable Quality Control Ranges for Nitrofurantoin
-
-| QC Strain | Acceptable Quality Control Ranges |  |
-| --- | --- | --- |
-| Minimum Inhibitory Concentration (mcg/mL) | Disk Diffusion (zone diameter in mm) |  |
-| Escherichia coli ATCC 25922 | 4 to 16 | 20 to 25 |
-| Enterococcus faecalis ATCC 29212 | 4 to 16 | NAa |
-| Staphylococcus aureus ATCC 29213 | 8 to 32 | NAa |
-| Staphylococcus aureus ATCC 25923 | NAa | 18 to 22 |
-
-aNot applicable
+For specific information regarding susceptibility test interpretive criteria and associated test methods and quality control standards recognized by FDA for this drug, please see: https://www.fda.gov/STIC.
