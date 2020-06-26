@@ -70,6 +70,8 @@ Pregnancy
 
 Advise patients to notify their healthcare provider if they are pregnant or plan to become pregnant [see Use in Specific Populations (8.1)].
 
-AZI-002
+AZI-004
 
-Marketed by: Teva Neuroscience, Inc., Overland Park, KS 66211 Distributed by: Teva Pharmaceuticals USA, Inc., North Wales, PA 19454
+Distributed by: Teva Pharmaceuticals USA, Inc., Parsippany, NJ 07054
+
+©2020 Teva Neuroscience, Inc.

@@ -74,7 +74,7 @@ Data are not available for patients with severe renal impairment.
 
 Elderly
 
-Since age has little influence on rasagiline pharmacokinetics, it can be administered at the recommended dose in the elderly (> 65 years).
+Since age has little influence on rasagiline pharmacokinetics, it can be administered at the recommended dose in the elderly (≥ 65 years).
 
 Pediatric
 
