@@ -1057,6 +1057,12 @@ Table 31: Laboratory Abnormalities Worsened from Baseline Occurring in ≥20% (A
 | Increased INR | 21 | 3 |
 | Neutropenia | 12 | 3 |
 
+TMB-H Cancer
+
+The safety of KEYTRUDA was investigated in 105 patients with TMB-H cancer enrolled in KEYNOTE-158 [see Clinical Studies (14.16)].
+The median duration of exposure to KEYTRUDA was 4.9 months (range: 0.03 to 35.2 months).
+Adverse reactions occurring in patients with TMB-H cancer were similar to those occurring in patients with other solid tumors who received KEYTRUDA as a single agent.
+
 ## 6.2 Immunogenicity
 
 As with all therapeutic proteins, there is the potential for immunogenicity.

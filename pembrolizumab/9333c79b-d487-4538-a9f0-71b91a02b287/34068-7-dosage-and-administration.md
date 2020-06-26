@@ -1,6 +1,6 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-## 2.1 Patient Selection for NSCLC, HNSCC, Urothelial Carcinoma, Gastric Cancer, Esophageal Cancer, or Cervical Cancer
+## 2.1 Patient Selection for NSCLC, HNSCC, Urothelial Carcinoma, Gastric Cancer, Esophageal Cancer, Cervical Cancer, MSI-H Cancer, or TMB-H Cancer
 
 Select patients for treatment with KEYTRUDA as a single agent based on the presence of positive PD-L1 expression in:
 
@@ -13,7 +13,14 @@ Select patients for treatment with KEYTRUDA as a single agent based on the prese
 - metastatic esophageal cancer [see Clinical Studies (14.10)].
 - recurrent or metastatic cervical cancer [see Clinical Studies (14.11)].
 
-Information on FDA-approved tests for the detection of PD-L1 expression for these indications is available at: http://www.fda.gov/CompanionDiagnostics.
+For the TMB-H indication, select patients for treatment with KEYTRUDA as a single agent based on TMB-H status in tumor specimens [see Clinical Studies (14.16)].
+
+For the MSI-H/dMMR indication, select patients for treatment with KEYTRUDA as a single agent based on MSI-H/dMMR status in tumor specimens [see Clinical Studies (14.8)].
+
+Because the effect of prior chemotherapy on test results for tumor mutation burden (TMB-H), MSI-H, or dMMR in patients with high-grade gliomas is unclear, it is recommended to test for these markers in the primary tumor specimens obtained prior to initiation of temozolomide chemotherapy in patients with high-grade gliomas.
+
+Information on FDA-approved tests for the detection of PD-L1 expression and TMB status is available at: http://www.fda.gov/CompanionDiagnostics.
+An FDA-approved test for the detection of MSI-H or dMMR is not currently available.
 
 ## 2.2 Recommended Dosage
 
@@ -22,11 +29,11 @@ Table 1: Recommended Dosage
 | Indication | Recommended Dosage of KEYTRUDA | Duration/Timing of Treatment |
 | --- | --- | --- |
 | Monotherapy |  |  |
-| Adult patients with unresectable or metastatic melanoma | 200 mg every 3 weeks30 minute intravenous infusion or 400 mg every 6 weeks | Until disease progression or unacceptable toxicity |
+| Adult patients with unresectable or metastatic melanoma | 200 mg every 3 weeks30-minute intravenous infusion or 400 mg every 6 weeks | Until disease progression or unacceptable toxicity |
 | Adjuvant treatment of adult patients with melanoma | 200 mg every 3 weeks or 400 mg every 6 weeks | Until disease recurrence, unacceptable toxicity, or up to 12 months |
-| Adult patients with NSCLC, SCLC, HNSCC, cHL, PMBCL, locally advanced or metastatic Urothelial Carcinoma, MSI-H Cancer, Gastric Cancer, Esophageal Cancer, Cervical Cancer, HCC, or MCC | 200 mg every 3 weeks or 400 mg every 6 weeks | Until disease progression, unacceptable toxicity, or up to 24 months |
+| Adult patients with NSCLC, SCLC, HNSCC, cHL, PMBCL, locally advanced or metastatic Urothelial Carcinoma, MSI-H Cancer, Gastric Cancer, Esophageal Cancer, Cervical Cancer, HCC, MCC, or TMB-H Cancer | 200 mg every 3 weeks or 400 mg every 6 weeks | Until disease progression, unacceptable toxicity, or up to 24 months |
 | Adult patients with high-risk BCG- unresponsive NMIBC | 200 mg every 3 weeks or 400 mg every 6 weeks | Until persistent or recurrent high-risk NMIBC, disease progression, unacceptable toxicity, or up to 24 months |
-| Pediatric patients with cHL, PMBCL, MSI-H Cancer, or MCC | 2 mg/kg every 3 weeks (up to a maximum of 200 mg) | Until disease progression, unacceptable toxicity, or up to 24 months |
+| Pediatric patients with cHL, PMBCL, MSI-H Cancer, MCC, or TMB-H Cancer | 2 mg/kg every 3 weeks (up to a maximum of 200 mg) | Until disease progression, unacceptable toxicity, or up to 24 months |
 | Combination TherapyRefer to the Prescribing Information for the agents administered in combination with KEYTRUDA for recommended dosing information, as appropriate. |  |  |
 | Adult patients with NSCLC or HNSCC | 200 mg every 3 weeks or 400 mg every 6 weeks Administer KEYTRUDA prior to chemotherapy when given on the same day. | Until disease progression, unacceptable toxicity, or up to 24 months |
 | Adult patients with RCC | 200 mg every 3 weeks or 400 mg every 6 weeks Administer KEYTRUDA in combination with axitinib 5 mg orally twice daily.When axitinib is used in combination with KEYTRUDA, dose escalation of axitinib above the initial 5 mg dose may be considered at intervals of six weeks or longer. | Until disease progression, unacceptable toxicity, or for KEYTRUDA, up to 24 months |
@@ -37,7 +44,7 @@ Table 1: Recommended Dosage
 No dose reductions of KEYTRUDA are recommended.
 Withhold or discontinue KEYTRUDA to manage adverse reactions as described in Table 2.
 
-Table 2: Recommended Dose Modifications for Adverse Reactions [see Warnings and Precautions (5.1-5.9)]
+Table 2: Recommended Dose Modifications for Adverse Reactions [see Warnings and Precautions (5.1-5.8)]
 
 | Adverse Reaction | SeverityToxicity was graded per National Cancer Institute Common Terminology Criteria for Adverse Events. Version 4.0 (NCI CTCAE v4) | Dose Modification for KEYTRUDA |
 | --- | --- | --- |
