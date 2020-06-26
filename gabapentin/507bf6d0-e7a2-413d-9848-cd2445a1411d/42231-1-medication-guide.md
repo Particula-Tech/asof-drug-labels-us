@@ -1,6 +1,6 @@
 # MEDICATION GUIDE
 
-Gabapentin (GA-be-PEN-tin) Capsules
+Gabapentin (gab”a pen’ tin) Capsules
 
 What is the most important information I should know about gabapentin capsules?
 
@@ -66,6 +66,12 @@ Call a healthcare provider right away if you have any of the following symptoms:
 These symptoms may be the first signs of a serious reaction.
 A healthcare provider should examine you to decide if you should continue taking gabapentin capsules.
 
+4.
+Serious breathing problems.
+Serious breathing problems can occur when gabapentin capsules are taken with other medicines that can cause severe sleepiness or decreased awareness, or when it is taken by someone who already has breathing problems.
+Watch for increased sleepiness or decreased breathing when starting gabapentin capsules or when the dose is increased.
+Get help right away if breathing problems occur.
+
 What are gabapentin capsules?
 
 Gabapentin capsules are a prescription medicine used to treat:
@@ -85,6 +91,7 @@ Before taking gabapentin capsules, tell your healthcare provider if you:
 - have or have had kidney problems or are on hemodialysis
 - have or have had depression, mood problems, or suicidal thoughts or behavior
 - have diabetes
+- have breathing problems
 - are pregnant or plan to become pregnant.
   It is not known if gabapentin capsules can harm your unborn baby.
   Tell your healthcare provider right away if you become pregnant while taking gabapentin capsules.
@@ -97,7 +104,8 @@ Before taking gabapentin capsules, tell your healthcare provider if you:
   Gabapentin can pass into breast milk.
   You and your healthcare provider should decide how you will feed your baby while you take gabapentin capsules.
   Tell your healthcare provider about all the medicines you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements.
-  Taking gabapentin capsules with certain other medicines can cause side effects or affect how well they work.
+  Especially tell your healthcare provider if you take any opioid pain medicine (such as oxycodone), any medicines for anxiety (such as lorazepam) or insomnia (such as zolpidem), or any medicines that make you sleepy.
+  You may have a higher chance for dizziness, sleepiness, or breathing problems if these medicines are taken with gabapentin capsules.Taking gabapentin capsules with certain other medicines can cause side effects or affect how well they work.
   Do not start or stop other medicines without talking to your healthcare provider.
   Know the medicines you take.
   Keep a list of them and show it to your healthcare provider and pharmacist when you get a new medicine.
@@ -108,6 +116,7 @@ Before taking gabapentin capsules, tell your healthcare provider if you:
 
 - Do not change your dose of gabapentin capsules without talking to your healthcare provider.
 - Take gabapentin capsules with water.
+
 - Gabapentin capsules can be taken with or without food.
   If you take an antacid containing aluminum and magnesium, such as Maalox®, Mylanta®, Gelusil®, Gaviscon®, or Di-Gel®, you should wait at least 2 hours before taking your next dose of gabapentin capsules.
 
@@ -204,4 +213,4 @@ Distributed by: Amneal Pharmaceuticals LLC
 Bridgewater, NJ 08807
 
 Rev.
-12-2017-07
+05-2020-08

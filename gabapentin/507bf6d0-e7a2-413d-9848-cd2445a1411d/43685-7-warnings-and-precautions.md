@@ -53,7 +53,7 @@ Because adequate historical data are not available, it is impossible to say whet
 Antiepileptic drugs (AEDs), including gabapentin, increase the risk of suicidal thoughts or behavior in patients taking these drugs for any indication.
 Patients treated with any AED for any indication should be monitored for the emergence or worsening of depression, suicidal thoughts or behavior, and/or any unusual changes in mood or behavior.
 
-Pooled analyses of 199 placebo-controlled clinical trials (mono-and adjunctive therapy) of 11 different AEDs showed that patients randomized to one of the AEDs had approximately twice the risk (adjusted Relative Risk 1.8, 95% CI:1.2, 2.7) of suicidal thinking or behavior compared to patients randomized to placebo.
+Pooled analyses of 199 placebo-controlled clinical trials (mono- and adjunctive therapy) of 11 different AEDs showed that patients randomized to one of the AEDs had approximately twice the risk (adjusted Relative Risk 1.8, 95% CI:1.2, 2.7) of suicidal thinking or behavior compared to patients randomized to placebo.
 In these trials, which had a median treatment duration of 12 weeks, the estimated incidence rate of suicidal behavior or ideation among 27,863 AED-treated patients was 0.43%, compared to 0.24% among 16,029 placebo-treated patients, representing an increase of approximately one case of suicidal thinking or behavior for every 530 patients treated.
 There were four suicides in drug-treated patients in the trials and none in placebo-treated patients, but the number is too small to allow any conclusion about drug effect on suicide.
 
@@ -84,7 +84,13 @@ Should suicidal thoughts and behavior emerge during treatment, the prescriber ne
 Patients, their caregivers, and families should be informed that AEDs increase the risk of suicidal thoughts and behavior and should be advised of the need to be alert for the emergence or worsening of the signs and symptoms of depression, any unusual changes in mood or behavior, or the emergence of suicidal thoughts, behavior, or thoughts about self-harm.
 Behaviors of concern should be reported immediately to healthcare providers.
 
-## 5.7 Neuropsychiatric Adverse Reactions (Pediatric Patients 3 to 12 Years of Age)
+## 5.7 Respiratory Depression
+
+There is evidence from case reports, human studies, and animal studies associating gabapentin with serious, life-threatening, or fatal respiratory depression when co-administered with CNS depressants, including opioids, or in the setting of underlying respiratory impairment.
+When the decision is made to co-prescribe gabapentin with another CNS depressant, particularly an opioid, or to prescribe gabapentin to patients with underlying respiratory impairment, monitor patients for symptoms of respiratory depression and sedation, and consider initiating gabapentin at a low dose.
+The management of respiratory depression may include close observation, supportive measures, and reduction or withdrawal of CNS depressants (including gabapentin).
+
+## 5.8 Neuropsychiatric Adverse Reactions (Pediatric Patients 3 to 12 Years of Age)
 
 Gabapentin use in pediatric patients with epilepsy 3 to 12 years of age is associated with the occurrence of CNS related adverse reactions.
 The most significant of these can be classified into the following categories: 1) emotional lability (primarily behavioral problems), 2) hostility, including aggressive behaviors, 3) thought disorder, including concentration problems and change in school performance, and 4) hyperkinesia (primarily restlessness and hyperactivity).
@@ -95,7 +101,7 @@ One of these reactions, a report of hostility, was considered serious.
 Discontinuation of gabapentin treatment occurred in 1.3% of patients reporting emotional lability and hyperkinesia and 0.9% of gabapentin-treated patients reporting hostility and thought disorder.
 One placebo-treated patient (0.4%) withdrew due to emotional lability.
 
-## 5.8 Tumorigenic Potential
+## 5.9 Tumorigenic Potential
 
 In an oral carcinogenicity study, gabapentin increased the incidence of pancreatic acinar cell tumors in rats [see Nonclinical Toxicology (13.1)].
 The clinical significance of this finding is unknown.
@@ -104,7 +110,7 @@ Clinical experience during gabapentin’s premarketing development provides no d
 In clinical studies in adjunctive therapy in epilepsy comprising 2,085 patient-years of exposure in patients > 12 years of age, new tumors were reported in 10 patients (2 breast, 3 brain, 2 lung, 1 adrenal, 1 non-Hodgkin’s lymphoma, 1 endometrial carcinoma in situ), and preexisting tumors worsened in 11 patients (9 brain, 1 breast, 1 prostate) during or up to 2 years following discontinuation of gabapentin.
 Without knowledge of the background incidence and recurrence in a similar population not treated with gabapentin, it is impossible to know whether the incidence seen in this cohort is or is not affected by treatment.
 
-## 5.9 Sudden and Unexplained Death in Patients with Epilepsy
+## 5.10 Sudden and Unexplained Death in Patients with Epilepsy
 
 During the course of premarketing development of gabapentin, 8 sudden and unexplained deaths were recorded among a cohort of 2,203 epilepsy patients treated (2,103 patient-years of exposure) with gabapentin.
 

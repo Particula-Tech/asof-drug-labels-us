@@ -10,14 +10,14 @@ Controlled PHN Studies: Duration, Dosages, and Number of Patients
 
 | Study | StudyDuration | Gabapentin (mg/day)aTarget Dose | Patients Receiving Gabapentin | Patients Receiving Placebo |
 | --- | --- | --- | --- | --- |
-| 1 | 8 weeks | 3600 | 113 | 116 |
-| 2 | 7 weeks | 1800, 2400 | 223 | 111 |
+| 1 | 8 weeks | 3,600 | 113 | 116 |
+| 2 | 7 weeks | 1,800, 2,400 | 223 | 111 |
 | Total |  |  | 336 | 227 |
 | a Given in 3 divided doses (TID) |  |  |  |  |
 
-Each study included a 7-or 8-week double-blind phase (3 or 4 weeks of titration and 4 weeks of fixed dose).
+Each study included a 7- or 8-week double-blind phase (3 or 4 weeks of titration and 4 weeks of fixed dose).
 Patients initiated treatment with titration to a maximum of 900 mg/day gabapentin over 3 days.
-Dosages were then to be titrated in 600 to 1,200 mg/day increments at 3-to 7-day intervals to the target dose over 3 to 4 weeks.
+Dosages were then to be titrated in 600 to 1,200 mg/day increments at 3- to 7-day intervals to the target dose over 3 to 4 weeks.
 Patients recorded their pain in a daily diary using an 11-point numeric pain rating scale ranging from 0 (no pain) to 10 (worst possible pain).
 A mean pain score during baseline of at least 4 was required for randomization.
 Analyses were conducted using the ITT population (all randomized patients who received at least one dose of study medication).

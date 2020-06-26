@@ -27,6 +27,12 @@ Counsel the patient, their caregivers, and families that AEDs, including gabapen
 Advise patients of the need to be alert for the emergence or worsening of symptoms of depression, any unusual changes in mood or behavior, or the emergence of suicidal thoughts, behavior, or thoughts about self-harm.
 Instruct patients to report behaviors of concern immediately to healthcare providers [see Warnings and Precautions (5.6)].
 
+Respiratory Depression
+
+Inform patients about the risk of respiratory depression.
+Include information that the risk is greatest for those using concomitant CNS depressants (such as opioid analgesics) or those with underlying respiratory impairment.
+Teach patients how to recognize respiratory depression and advise them to seek medical attention immediately if it occurs.
+
 Use in Pregnancy Instruct patients to notify their physician if they become pregnant or intend to become pregnant during therapy, and to notify their physician if they are breast feeding or intend to breast feed during therapy [see Use in Specific Populations (8.1) and (8.2)].
 
 Encourage patients to enroll in the NAAED Pregnancy Registry if they become pregnant.
@@ -57,4 +63,4 @@ Distributed by: Amneal Pharmaceuticals LLC
 Bridgewater, NJ 08807
 
 Rev.
-12-2017-07
+05-2020-08
