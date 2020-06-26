@@ -5,7 +5,7 @@ Advise the patient to read the FDA-approved patient labeling (Medication Guide a
 Adverse Reactions Advise patients to report to their healthcare provider if they experience any signs or symptoms consistent with:
 
 - Hypersensitivity reactions [see Contraindications (4)].
-- Acute Interstitial Nephritis [see Warnings and Precautions (5.2)].
+- Tubulointerstitial Nephritis [see Warnings and Precautions (5.2)].
 - Clostridium difficile-Associated Diarrhea [see Warnings and Precautions (5.3)].
 - Bone Fracture [see Warnings and Precautions (5.4)].
 - Cutaneous and Systemic Lupus Erythematosus [see Warnings and Precautions (5.5)]
@@ -35,6 +35,6 @@ APOTEX INC. OMEPRAZOLE DELAYED-RELEASE CAPSULES, USP 10 mg, 20 mg and 40 mg
 | Toronto, Ontario | Weston, Florida |
 | Canada M9L 1T9 | USA 33326 |
 
-Revised: May 2018
+Revised: June 2020
 
-Revision: 23
+Revision: 24

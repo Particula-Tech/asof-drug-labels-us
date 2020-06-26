@@ -198,7 +198,7 @@ Defined as complete resolution of heartburn.
 
 ## 14.5 EE due to Acid-Mediated GERD
 
-In a U.S. multicenter double-blind placebo controlled study of 20 mg or 40 mg of omeprazole delayed-release capsules in patients with symptoms of GERD and endoscopically diagnosed EE of grade 2 or above, the percentage healing rates (per protocol) were as follows:
+In a U.S. multicenter double-blind placebo-controlled study of 20 mg or 40 mg of omeprazole delayed-release capsules in patients with symptoms of GERD and endoscopically diagnosed EE of grade 2 or above, the percentage healing rates (per protocol) were as follows:
 
 |  | 20 mg Omeprazole(n = 83) | 40 mg Omeprazole(n = 87) | Placebo(n = 43) |
 | --- | --- | --- | --- |
@@ -217,7 +217,7 @@ In this and five other controlled GERD studies, significantly more patients taki
 
 ## 14.6 Maintenance of Healing of EE due to Acid-Mediated GERD
 
-In a U.S. double-blind, randomized, multicenter, placebo controlled study, two dose regimens of omeprazole were studied in patients with endoscopically confirmed healed esophagitis.
+In a U.S. double-blind, randomized, multicenter, placebo-controlled study, two dose regimens of omeprazole were studied in patients with endoscopically confirmed healed esophagitis.
 Results to determine maintenance of healing of EE are shown below.
 
 Life Table Analysis
@@ -279,6 +279,6 @@ In addition, after 3 months of treatment, 33% of the children had no overall sym
 Maintenance of Healing of EE due to Acid-Mediated GERD
 
 In an uncontrolled, open-label study of maintenance of healing of EE in 46 pediatric patients 1 to 16 years of age, 54% of patients required half the healing dose.
-The remaining patients increased the healing dose (0.7 to a maximum of 2.8 mg/kg/day) either for the entire maintenance period, or returned to half the dose before completion.
+The remaining patients increased the healing dose (0.7 to a maximum of 2.8 mg/kg/day) either for the entire maintenance period or returned to half the dose before completion.
 Of the 46 patients who entered the maintenance phase, 19 (41%) had no relapse during follow-up (range 4 to 25 months).
 In addition, maintenance therapy in EE patients resulted in 63% of patients having no overall symptoms.

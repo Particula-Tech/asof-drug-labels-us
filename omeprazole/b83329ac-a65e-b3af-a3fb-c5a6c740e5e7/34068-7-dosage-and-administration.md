@@ -21,7 +21,7 @@ Table 1: Recommended Dosage Regimen of Omeprazole in Adults by Indication
 Most patients heal within 4 weeks; some patients may require an additional 4 weeks of therapy to achieve healing 2.
 The efficacy of omeprazole used for longer than 8 weeks in patients with EE has not been established.
 If a patient does not respond to 8 weeks of treatment, an additional 4 weeks of treatment may be given.
-If there is recurrence of EE or GERD symptoms (e.g., heartburn), additional 4 to 8 week courses of omeprazole may be considered.
+If there is recurrence of EE or GERD symptoms (e.g., heartburn), additional 4 to 8-week courses of omeprazole may be considered.
 3.
 Dosage reduction to 10 mg once daily is recommended for patients with hepatic impairment (Child-Pugh Class A, B or C) and Asian patients when used for the maintenance of healing of EE [see Use in Specific Populations (8.6, 8.7) and Clinical Pharmacology (12.3, 12.5)].
 
@@ -50,7 +50,7 @@ Table 2: Recommended Dosage Regimen of Omeprazole in Pediatric Patients by Indic
 1.
 The efficacy of omeprazole used for longer than 8 weeks in patients with EE has not been established.
 If a patient does not respond to 8 weeks of treatment, an additional 4 weeks of treatment may be given.
-If there is recurrence of EE or GERD symptoms (e.g., heartburn), additional 4 to 8 week courses of omeprazole may be considered.
+If there is recurrence of EE or GERD symptoms (e.g., heartburn), additional 4 to 8-week courses of omeprazole may be considered.
 
 ## 2.3 Administration Instructions
 

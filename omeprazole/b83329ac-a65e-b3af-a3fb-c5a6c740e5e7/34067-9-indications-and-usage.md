@@ -38,7 +38,7 @@ Omeprazole delayed-release capsules are indicated for the short-term treatment (
 
 The efficacy of omeprazole delayed-release capsules used for longer than 8 weeks in patients with EE has not been established.
 If a patient does not respond to 8 weeks of treatment, an additional 4 weeks of treatment may be given.
-If there is recurrence of EE or GERD symptoms (e.g., heartburn), additional 4 to 8 week courses of omeprazole may be considered.
+If there is recurrence of EE or GERD symptoms (e.g., heartburn), additional 4 to 8-week courses of omeprazole may be considered.
 
 Pediatric Patients 1 Month to Less than 1 Year of Age
 

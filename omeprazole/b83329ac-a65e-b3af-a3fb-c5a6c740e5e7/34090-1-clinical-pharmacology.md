@@ -35,7 +35,7 @@ Serum Gastrin Effects
 
 In studies involving more than 200 patients, serum gastrin levels increased during the first 1 to 2 weeks of once-daily administration of therapeutic doses of omeprazole in parallel with inhibition of acid secretion.
 No further increase in serum gastrin occurred with continued treatment.
-In comparison with histamine H2-receptor antagonists, the median increases produced by 20 mg doses of omeprazole were higher (1.3 to 3.6 fold vs. 1.1 to 1.8 fold increase).
+In comparison with histamine H2-receptor antagonists, the median increases produced by 20 mg doses of omeprazole were higher (1.3 to 3.6-fold vs. 1.1 to 1.8-fold increase).
 Gastrin values returned to pretreatment levels, usually within 1 to 2 weeks after discontinuation of therapy.
 Increased gastrin causes enterochromaffin-like cell hyperplasia and increased serum Chromogranin A (CgA) levels.
 The increased CgA levels may cause false positive results in diagnostic investigations for neuroendocrine tumors [see Warnings and Precautions (5.10)].
