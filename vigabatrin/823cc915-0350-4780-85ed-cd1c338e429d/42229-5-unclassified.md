@@ -20,6 +20,8 @@ Important Note:
   - how many milliliters (mL) of water to use to mix one dose of vigabatrin for oral solution
   - how many milliliters (mL) of the powder and water mixture you will need for each dose of medicine
 - Vigabatrin for oral solution should be given right away after it is mixed
+- Use the oral syringes, provided by the pharmacy, to measure and give the correct dose.
+  Do not use a household teaspoon or tablespoon.
 
 Supplies you will need to mix 1 dose of vigabatrin for oral solution:
 
@@ -27,7 +29,7 @@ Supplies you will need to mix 1 dose of vigabatrin for oral solution:
 - 2 clean cups: 1 for mixing and 1 for water.
   The cup used for mixing vigabatrin for oral solution should be clear so you can see if the powder is dissolved
 - Water to mix with the vigabatrin for oral solution powder
-- One small 3 mL oral syringe and one large 10 mL oral syringe which are included
+- One small 3 mL oral syringe and one large 10 mL oral syringe which are provided by the pharmacy
 - Small spoon or other clean utensil to stir the mixture
 - Scissors
 
@@ -54,7 +56,7 @@ For example:
 
 Step 6: Use the 10 mL oral syringe to draw up 10 mL of water.
 To do this, put the tip of the oral syringe all the way into the water in your cup.
-Then pull the plunger up towards you until the white ring of the white plunger is at the 10 mL line on the barrel of the oral syringe (see Figure C).
+Then pull the plunger up towards you until the edge of the plunger is at the 10 mL line on the barrel of the oral syringe (see Figure C).
 
 - If you see bubbles of air in the oral syringe after drawing up the water, turn the oral syringe so the tip is pointing up (see Figure D). The air will move to the top of the oral syringe.
   Pull the plunger back towards you and then push it back gently into the oral syringe to get rid of the bubbles.
@@ -78,7 +80,7 @@ Step 11: Stir the mixture with the small spoon or other clean utensil until the 
 
 Step 12: Put the tip of the oral syringe all the way into the mixture.
 Pull the plunger up towards you to draw up the mixture.
-Stop when the white ring of the white plunger lines up with markings on the barrel of the oral syringe that matches the number of mLs of mixture your healthcare provider told you to give (see Figure H).
+Stop when the edge of the plunger lines up with markings on the barrel of the oral syringe that matches the number of mLs of mixture your healthcare provider told you to give (see Figure H).
 
 - If you see bubbles of air in the oral syringe after drawing up the mixture, turn the oral syringe so the tip is pointing up (see Figure I). The air will move to the top of the oral syringe.
   Pull the plunger back towards you and then gently push it back in the oral syringe in order to get rid of the bubbles.
@@ -93,12 +95,12 @@ Do not save or reuse any leftover mixture.
 
 Step 15: Wash the oral syringes and mixing cups in warm water.
 To clean the oral syringes, remove the plunger by gently pulling it straight out of the barrel.
-The barrel and plunger can be hand washed with soap and water, rinsed, and allowed to dry, or the barrel and plunger can be placed in a dishwasher utensil rack, machine washed, and dried.
+The barrel and plunger can be hand washed with soap and water, rinsed, and allowed to dry.
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
 Manufactured By: InvaGen Pharmaceuticals, Inc. (a subsidiary of Cipla Ltd.) Hauppauge, NY 11788
 
-Manufactured for: Cipla USA, Inc. 1560 Sawgrass Corporate Parkway, Suite 130 Sunrise, FL 33323
+Manufactured for: Cipla USA, Inc. 10 Independence Boulevard, Suite 300 Warren, NJ 07059
 
-Revised: 09/2019
+Revised: 02/2020

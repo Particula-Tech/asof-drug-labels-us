@@ -63,24 +63,25 @@ Further information is available at www.vigabatrinREMS.com, or call 1-866-244-81
 
 ## 5.3 Magnetic Resonance Imaging (MRI) Abnormalities in Infants
 
-Abnormal MRI signal changes characterized by increased T2 signal and restricted diffusion in a symmetric pattern involving the thalamus, basal ganglia, brain stem, and cerebellum have been observed in some infants treated with vigabatrin for infantile spasms.
-In a retrospective epidemiologic study in infants with IS (N=205), the prevalence of these changes was 22% in vigabatrin treated patients versus 4% in patients treated with other therapies.
+Abnormal MRI signal changes characterized by increased T2 signal and restricted diffusion in asymmetric pattern involving the thalamus, basal ganglia, brain stem, and cerebellum have been observed in some infants treated with vigabatrin.
 
-In the study above, in post marketing experience, and in published literature reports, these changes generally resolved with discontinuation of treatment.
+In a retrospective epidemiologic study in infants with infantile spasms (N=205), the prevalence of MRI changes was 22% in vigabatrin-treated patients versus 4% in patients treated with other therapies.
+In this study, in postmarketing experience, and in published literature reports, these changes generally resolved with discontinuation of treatment.
 In a few patients, the lesion resolved despite continued use.
 It has been reported that some infants exhibited coincident motor abnormalities, but no causal relationship has been established and the potential for long-term clinical sequelae has not been adequately studied.
 
 Neurotoxicity (brain histopathology and neurobehavioral abnormalities) was observed in rats exposed to vigabatrin during late gestation and the neonatal and juvenile periods of development, and brain histopathological changes were observed in dogs exposed to vigabatrin during the juvenile period of development.
 The relationship between these findings and the abnormal MRI findings in infants treated with vigabatrin for infantile spasms is unknown [see Warnings and Precautions (5.4) and Use in Specific Populations (8.1)].
 
-The specific pattern of signal changes observed in IS patients was not observed in older pediatric and adult patients treated with vigabatrin for refractory CPS.
-In a blinded review of MRI images obtained in prospective clinical trials in patients with refractory CPS 3 years and older (N=656), no difference was observed in anatomic distribution or prevalence of MRI signal changes between vigabatrin treated and placebo treated patients.
+The specific pattern of signal changes observed in patients 6 years and younger was not observed in older pediatric and adult patients treated with vigabatrin.
+In a blinded review of MRI images obtained in prospective clinical trials in patients with refractory complex partial seizures (CPS) 3 years and older (N=656), no difference was observed in anatomic distribution or prevalence of MRI signal changes between vigabatrin treated and placebo treated patients.
+In the postmarketing setting, MRI changes have also been reported in patients 6 years of age and younger being treated for refractory CPS.
 
 For adults treated with vigabatrin, routine MRI surveillance is unnecessary as there is no evidence that vigabatrin causes MRI changes in this population.
 
 ## 5.4 Neurotoxicity
 
-Intramyelinic edema (IME) has been reported in postmortem examination of infants being treated for IS with vigabatrin.
+Intramyelinic edema (IME) has been reported in postmortem examination of infants being treated for infantile spasms with vigabatrin.
 
 Abnormal MRI signal changes characterized by increased T2 signal and restricted diffusion in a symmetric pattern involving the thalamus, basal ganglia, brain stem, and cerebellum have also been observed in some infants treated for IS with vigabatrin.
 Studies of the effects of vigabatrin on MRI and evoked potentials (EP) in adult epilepsy patients have demonstrated no clear-cut abnormalities [see Warnings and Precautions (5.3)].
