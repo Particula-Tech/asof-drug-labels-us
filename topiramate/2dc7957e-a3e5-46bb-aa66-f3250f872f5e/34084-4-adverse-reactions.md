@@ -398,7 +398,7 @@ Gastrointestinal System Disorders: hepatic failure (including fatalities), hepat
 
 Skin and Appendage Disorders: bullous skin reactions (including erythema multiforme, Stevens-Johnson syndrome, toxic epidermal necrolysis), pemphigus
 
-Urinary System Disorders: kidney stones [see Warnings and Precautions (5.11)]
+Urinary System Disorders: kidney stones, nephrocalcinosis [see Warnings and Precautions (5.11)]
 
 Vision disorders: acute myopia, secondary angle closure glaucoma [see Warnings and Precautions (5.1)], maculopathy
 
