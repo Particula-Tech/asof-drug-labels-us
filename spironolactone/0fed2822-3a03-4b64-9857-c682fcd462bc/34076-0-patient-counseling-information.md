@@ -5,4 +5,4 @@ Patients who receive ALDACTONE should be advised to avoid potassium supplements 
 This product's label may have been updated.
 For current full prescribing information, please visit www.pfizer.com.
 
-LAB-0231-13.0
+LAB-0231-14.0
