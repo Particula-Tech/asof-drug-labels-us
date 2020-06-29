@@ -57,6 +57,10 @@ Post-Marketing Experience
 The following adverse reactions have been identified during post-approval use of either benazepril or hydrochlorothiazide.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to estimate their frequency or establish a causal relationship to drug exposure:
 
+Non-melanoma Skin Cancer: Hydrochlorothiazide is associated with an increased risk of non-melanoma skin cancer.
+In a study conducted in the Sentinel System, increased risk was predominantly for squamous cell carcinoma (SCC) and in white patients taking large cumulative doses.
+The increased risk for SCC in the overall population was approximately 1 additional case per 16,000 patients per year, and for white patients taking a cumulative dose of ≥50,000mg the risk increase was approximately SCC case for every 6,700 patients per year.
+
 Benazepril Stevens-Johnson syndrome, pancreatitis, hemolytic anemia, pemphigus, and thrombocytopenia, eosinophilic pneumonitis
 
 Hydrochlorothiazide

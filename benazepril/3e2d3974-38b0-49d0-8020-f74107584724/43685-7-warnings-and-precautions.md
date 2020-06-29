@@ -113,6 +113,10 @@ Risk factors for developing acute angle-closure glaucoma may include a history o
 
 # PRECAUTIONS
 
+## Patient Information
+
+Non-melanoma Skin Cancer: Instruct patients taking hydrochlorothiazide to protect skin from the sun and undergo regular skin cancer screening.
+
 ## General
 
 Serum Electrolyte Abnormalities
