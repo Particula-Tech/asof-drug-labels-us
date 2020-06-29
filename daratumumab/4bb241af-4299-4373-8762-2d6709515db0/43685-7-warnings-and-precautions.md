@@ -13,7 +13,7 @@ Of the 84 systemic administration-related reactions that occurred in 52 patients
 Delayed systemic administration-related reactions have occurred in less than 1% of the patients.
 
 Severe reactions included hypoxia, dyspnea, hypertension and tachycardia.
-Other signs and symptoms of systemic administration-related reactions may include respiratory symptoms, such as bronchospasm, nasal congestion, cough, throat irritation, allergic rhinitis, and wheezing, as well as anaphylactic reaction, pyrexia, chest pain, pruritis, chills, vomiting, nausea, and hypotension.
+Other signs and symptoms of systemic administration-related reactions may include respiratory symptoms, such as bronchospasm, nasal congestion, cough, throat irritation, allergic rhinitis, and wheezing, as well as anaphylactic reaction, pyrexia, chest pain, pruritus, chills, vomiting, nausea, and hypotension.
 
 Pre-medicate patients with histamine-1 receptor antagonist, acetaminophen and corticosteroids [see Dosage and Administration (2.3)].
 Monitor patients for systemic administration-related reactions, especially following the first and second injections.
