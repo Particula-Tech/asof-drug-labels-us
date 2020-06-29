@@ -26,5 +26,16 @@ Patients whose therapy is started with moxifloxacin hydrochloride injection may 
 
 ## 2.2 Important Administration Instructions
 
-With Multivalent Cations Administer moxifloxacin tablets at least 4 hours before or 8 hours after products containing magnesium, aluminum, iron or zinc, including antacids, sucralfate, multivitamins and didanosine buffered tablets for oral suspension or the pediatric powder for oral solution [see Drug Interactions (7.1) and Clinical Pharmacology (12.3)].
-With Food Moxifloxacin tablets can be taken with or without food, drink fluids liberally.
+With Multivalent Cations
+
+Administer moxifloxacin tablets at least 4 hours before or 8 hours after products containing magnesium, aluminum, iron or zinc, including antacids, sucralfate, multivitamins and didanosine buffered tablets for oral suspension or the pediatric powder for oral solution [see Drug Interactions (7.1) and Clinical Pharmacology (12.3)].
+
+With Food
+
+Moxifloxacin tablets can be taken with or without food, drink fluids liberally.
+
+Missed Doses
+
+If a dose is missed, it should be taken anytime but not later than 8 hours prior to the next scheduled dose.
+If less than 8 hours remain before the next dose, the missed dose should not be taken and treatment should be continued as prescribed with the next scheduled dose.
+Double doses should not be taken to compensate for a missed dose.

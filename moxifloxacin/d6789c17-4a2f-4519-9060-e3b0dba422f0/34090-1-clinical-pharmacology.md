@@ -34,7 +34,7 @@ Table 7: Mean (± SD) Cmax and AUC values following single and multiple doses of
 | Healthy young female (n = 9) | 4.2 ± 0.5 | 49.3 ± 9.5 |  |
 | a) Range of means from different studies |  |  |  |
 
-Table 8: Mean (± SD) Cmax and AUC values following single and multiple doses of 400 mg moxifloxacin given by 1 hour intravenous infusion
+Table 8: Mean (± SD) Cmax and AUC values following single and multiple doses of 400 mg moxifloxacin given by 1-hour intravenous infusion
 
 |  | Cmax (mg/L) | AUC (mg•h/L) | Half-life (hour) |
 | --- | --- | --- | --- |
@@ -116,18 +116,14 @@ In 16 healthy male volunteers (8 young; 8 elderly) given a single 200 mg dose of
 No dosage adjustment is necessary based on age.
 In large phase III studies, the concentrations around the time of the end of the infusion in elderly patients following intravenous infusion of 400 mg were similar to those observed in young patients [see Use in Specific Populations (8.5)].
 
-Gender
-
-Following oral administration of 400 mg moxifloxacin daily for 10 days to 23 healthy males (19 to 75 years) and 24 healthy females (19 to 70 years), the mean AUC and Cmax were 8% and 16% higher, respectively, in females compared to males.
+Gender Following oral administration of 400 mg moxifloxacin daily for 10 days to 23 healthy males (19 to 75 years) and 24 healthy females (19 to 70 years), the mean AUC and Cmax were 8% and 16% higher, respectively, in females compared to males.
 There are no significant differences in moxifloxacin pharmacokinetics between male and female subjects when differences in body weight are taken into consideration.
 
 A 400 mg single dose study was conducted in 18 young males and females.
 The comparison of moxifloxacin pharmacokinetics in this study (9 young females and 9 young males) showed no differences in AUC or Cmax due to gender.
 Dosage adjustments based on gender are not necessary.
 
-Race
-
-Steady-state moxifloxacin pharmacokinetics in male Japanese subjects were similar to those determined in Caucasians, with a mean Cmax of 4.1 mcg/mL, an AUC24 of 47 mcg•h/mL, and an elimination half-life of 14 hours, following 400 mg p.o. daily.
+Race Steady-state moxifloxacin pharmacokinetics in male Japanese subjects were similar to those determined in Caucasians, with a mean Cmax of 4.1 mcg/mL, an AUC24 of 47 mcg•h/mL, and an elimination half-life of 14 hours, following 400 mg p.o. daily.
 
 Renal Insufficiency
 
@@ -150,9 +146,7 @@ Steady-state Cmax values were about 22% lower in HD patients but were comparable
 Both HD and CAPD removed only small amounts of moxifloxacin from the body (approximately 9% by HD, and 3% by CAPD).
 HD and CAPD also removed about 4% and 2% of the glucuronide metabolite (M2), respectively.
 
-Hepatic Insufficiency
-
-No dosage adjustment is recommended for mild, moderate, or severe hepatic insufficiency (Child-Pugh Classes A, B, or C). However, due to metabolic disturbances associated with hepatic insufficiency, which may lead to QT prolongation, moxifloxacin hydrochloride should be used with caution in these patients [see Warnings and Precautions (5.6) and Use in Specific Populations (8.7)].
+Hepatic Insufficiency No dosage adjustment is recommended for mild, moderate, or severe hepatic insufficiency (Child-Pugh Classes A, B, or C). However, due to metabolic disturbances associated with hepatic insufficiency, which may lead to QT prolongation, moxifloxacin hydrochloride should be used with caution in these patients [see Warnings and Precautions (5.6) and Use in Specific Populations (8.7)].
 
 In 400 mg single oral dose studies in 6 patients with mild (Child-Pugh Class A) and 10 patients with moderate (Child-Pugh Class B) hepatic insufficiency, moxifloxacin mean systemic exposure (AUC) was 78% and 102%, respectively, of 18 healthy controls and mean peak concentration (Cmax) was 79% and 84% of controls.
 
@@ -175,72 +169,48 @@ These results and the data from in vitro studies suggest that moxifloxacin is un
 Moxifloxacin had no clinically significant effect on the pharmacokinetics of atenolol, digoxin, glyburide, itraconazole, oral contraceptives, theophylline, cyclosporine and warfarin.
 However, fluoroquinolones, including moxifloxacin hydrochloride, have been reported to enhance the anticoagulant effects of warfarin or its derivatives in the patient population [see Drug Interactions (7.2)].
 
-Antacids
-
-When moxifloxacin (single 400 mg tablet dose) was administered two hours before, concomitantly, or 4 hours after an aluminum/magnesium-containing antacid (900 mg aluminum hydroxide and 600 mg magnesium hydroxide as a single oral dose) to 12 healthy volunteers there was a 26%, 60% and 23% reduction in the mean AUC of moxifloxacin, respectively.
+Antacids When moxifloxacin (single 400 mg tablet dose) was administered two hours before, concomitantly, or 4 hours after an aluminum/magnesium-containing antacid (900 mg aluminum hydroxide and 600 mg magnesium hydroxide as a single oral dose) to 12 healthy volunteers there was a 26%, 60% and 23% reduction in the mean AUC of moxifloxacin, respectively.
 Moxifloxacin should be taken at least 4 hours before or 8 hours after antacids containing magnesium or aluminum, as well as sucralfate, metal cations such as iron, and multivitamin preparations with zinc, or didanosine buffered tablets for oral suspension or the pediatric powder for oral solution [see Dosage and Administration (2.2) and Drug Interactions (7.1)].
 
-Atenolol
-
-In a crossover study involving 24 healthy volunteers (12 male; 12 female), the mean atenolol AUC following a single oral dose of 50 mg atenolol with placebo was similar to that observed when atenolol was given concomitantly with a single 400 mg oral dose of moxifloxacin.
+Atenolol In a crossover study involving 24 healthy volunteers (12 male; 12 female), the mean atenolol AUC following a single oral dose of 50 mg atenolol with placebo was similar to that observed when atenolol was given concomitantly with a single 400 mg oral dose of moxifloxacin.
 The mean Cmax of single dose atenolol decreased by about 10% following co-administration with a single dose of moxifloxacin.
 
-Calcium
-
-Twelve healthy volunteers were administered concomitant moxifloxacin (single 400 mg dose) and calcium (single dose of 500 mg Ca++ dietary supplement) followed by an additional two doses of calcium 12 and 24 hours after moxifloxacin administration.
+Calcium Twelve healthy volunteers were administered concomitant moxifloxacin (single 400 mg dose) and calcium (single dose of 500 mg Ca++ dietary supplement) followed by an additional two doses of calcium 12 and 24 hours after moxifloxacin administration.
 Calcium had no significant effect on the mean AUC of moxifloxacin.
 The mean Cmax was slightly reduced and the time to maximum plasma concentration was prolonged when moxifloxacin was given with calcium compared to when moxifloxacin was given alone (2.5 hours versus 0.9 hours).
 These differences are not considered to be clinically significant.
 
-Digoxin
-
-No significant effect of moxifloxacin (400 mg once daily for two days) on digoxin (0.6 mg as a single dose) AUC was detected in a study involving 12 healthy volunteers.
+Digoxin No significant effect of moxifloxacin (400 mg once daily for two days) on digoxin (0.6 mg as a single dose) AUC was detected in a study involving 12 healthy volunteers.
 The mean digoxin Cmax increased by about 50% during the distribution phase of digoxin.
 This transient increase in digoxin Cmax is not viewed to be clinically significant.
 Moxifloxacin pharmacokinetics were similar in the presence or absence of digoxin.
 No dosage adjustment for moxifloxacin or digoxin is required when these drugs are administered concomitantly.
 
-Glyburide
-
-In diabetics, glyburide (2.5 mg once daily for two weeks pretreatment and for five days concurrently) mean AUC and Cmax were 12% and 21% lower, respectively, when taken with moxifloxacin (400 mg once daily for five days) in comparison to placebo.
+Glyburide In diabetics, glyburide (2.5 mg once daily for two weeks pretreatment and for five days concurrently) mean AUC and Cmax were 12% and 21% lower, respectively, when taken with moxifloxacin (400 mg once daily for five days) in comparison to placebo.
 Nonetheless, blood glucose levels were decreased slightly in patients taking glyburide and moxifloxacin in comparison to those taking glyburide alone, suggesting no interference by moxifloxacin on the activity of glyburide.
 These interaction results are not viewed as clinically significant.
 
-Iron
-
-When moxifloxacin tablets were administered concomitantly with iron (ferrous sulfate 100 mg once daily for two days), the mean AUC and Cmax of moxifloxacin was reduced by 39% and 59%, respectively.
+Iron When moxifloxacin tablets were administered concomitantly with iron (ferrous sulfate 100 mg once daily for two days), the mean AUC and Cmax of moxifloxacin was reduced by 39% and 59%, respectively.
 Moxifloxacin should only be taken more than 4 hours before or 8 hours after iron products [see Dosage and Administration (2.2) and Drug Interactions (7.1)].
 
-Itraconazole
-
-In a study involving 11 healthy volunteers, there was no significant effect of itraconazole (200 mg once daily for 9 days), a potent inhibitor of cytochrome P4503A4, on the pharmacokinetics of moxifloxacin (a single 400 mg dose given on the 7th day of itraconazole dosing).
+Itraconazole In a study involving 11 healthy volunteers, there was no significant effect of itraconazole (200 mg once daily for 9 days), a potent inhibitor of cytochrome P4503A4, on the pharmacokinetics of moxifloxacin (a single 400 mg dose given on the 7th day of itraconazole dosing).
 In addition, moxifloxacin was shown not to affect the pharmacokinetics of itraconazole.
 
-Morphine
+Morphine No significant effect of morphine sulfate (a single 10 mg intramuscular dose) on the mean AUC and Cmax of moxifloxacin (400 mg single dose) was observed in a study of 20 healthy male and female volunteers.
 
-No significant effect of morphine sulfate (a single 10 mg intramuscular dose) on the mean AUC and Cmax of moxifloxacin (400 mg single dose) was observed in a study of 20 healthy male and female volunteers.
+Oral Contraceptives A placebo-controlled study in 29 healthy female subjects showed that moxifloxacin 400 mg daily for 7 days did not interfere with the hormonal suppression of oral contraception with 0.15 mg levonorgestrel/0.03 mg ethinylestradiol (as measured by serum progesterone, FSH, estradiol, and LH), or with the pharmacokinetics of the administered contraceptive agents.
 
-Oral Contraceptives
-
-A placebo-controlled study in 29 healthy female subjects showed that moxifloxacin 400 mg daily for 7 days did not interfere with the hormonal suppression of oral contraception with 0.15 mg levonorgestrel/0.03 mg ethinylestradiol (as measured by serum progesterone, FSH, estradiol, and LH), or with the pharmacokinetics of the administered contraceptive agents.
-
-Probenecid
-
-Probenecid (500 mg twice daily for two days) did not alter the renal clearance and total amount of moxifloxacin (400 mg single dose) excreted renally in a study of 12 healthy volunteers.
+Probenecid Probenecid (500 mg twice daily for two days) did not alter the renal clearance and total amount of moxifloxacin (400 mg single dose) excreted renally in a study of 12 healthy volunteers.
 
 Ranitidine
 
 No significant effect of ranitidine (150 mg twice daily for three days as pretreatment) on the pharmacokinetics of moxifloxacin (400 mg single dose) was detected in a study involving 10 healthy volunteers.
 
-Theophylline
-
-No significant effect of moxifloxacin (200 mg every twelve hours for 3 days) on the pharmacokinetics of theophylline (400 mg every twelve hours for 3 days) was detected in a study involving 12 healthy volunteers.
+Theophylline No significant effect of moxifloxacin (200 mg every twelve hours for 3 days) on the pharmacokinetics of theophylline (400 mg every twelve hours for 3 days) was detected in a study involving 12 healthy volunteers.
 In addition, theophylline was not shown to affect the pharmacokinetics of moxifloxacin.
 The effect of co-administration of 400 mg once daily of moxifloxacin with theophylline has not been studied.
 
-Warfarin
-
-No significant effect of moxifloxacin (400 mg once daily for eight days) on the pharmacokinetics of R- and S-warfarin (25 mg single dose of warfarin sodium on the fifth day) was detected in a study involving 24 healthy volunteers.
+Warfarin No significant effect of moxifloxacin (400 mg once daily for eight days) on the pharmacokinetics of R- and S-warfarin (25 mg single dose of warfarin sodium on the fifth day) was detected in a study involving 24 healthy volunteers.
 No significant change in prothrombin time was observed.
 However, fluoroquinolones, including moxifloxacin hydrochloride, have been reported to enhance the anticoagulant effects of warfarin or its derivatives in the patient population [see Adverse Reactions (6.2) and Drug Interactions (7.2)].
 
@@ -269,12 +239,79 @@ Moxifloxacin has been shown to be active against most isolates of the following 
 
 Gram-positive bacteria
 
-Enterococcus faecalis Staphylococcus aureus Streptococcus anginosus Streptococcus constellatus Streptococcus pneumoniae (including multi-drug resistant isolates [MDRSP]**) Streptococcus pyogenes **MDRSP, Multi-drug resistant Streptococcus pneumoniae includes isolates previously known as PRSP (Penicillin-resistant S. pneumoniae), and are isolates resistant to two or more of the following antibiotics: penicillin (MIC) ≥2 mcg/mL), 2nd generation cephalosporins (for example, cefuroxime), macrolides, tetracyclines, and trimethoprim/sulfamethoxazole.
+Enterococcus faecalis
 
-Gram-negative bacteria Enterobacter cloacae Escherichia coli Haemophilus influenzae Haemophilus parainfluenzae Klebsiella pneumoniae Moraxella catarrhalis Proteus mirabilis Yersinia pestis Anaerobic bacteria Bacteroides fragilis Bacteroides thetaiotaomicron Clostridium perfringens Peptostreptococcus species Other microorganisms Chlamydophila pneumoniae Mycoplasma pneumoniae The following in vitro data are available, but their clinical significance is unknown.
+Staphylococcus aureus
+
+Streptococcus anginosus
+
+Streptococcus constellatus
+
+Streptococcus pneumoniae (including multi-drug resistant isolates [MDRSP] **)
+
+Streptococcus pyogenes
+
+**MDRSP, Multi-drug resistant Streptococcus pneumoniae includes isolates previously known as PRSP (Penicillin-resistant S. pneumoniae), and are isolates resistant to two or more of the following antibiotics: penicillin (MIC) ≥2 mcg/mL), 2nd generation cephalosporins (for example, cefuroxime), macrolides, tetracyclines, and trimethoprim/sulfamethoxazole.
+
+Gram-negative bacteria
+
+Enterobacter cloacae
+
+Escherichia coli
+
+Haemophilus influenzae
+
+Haemophilus parainfluenzae
+
+Klebsiella pneumoniae
+
+Moraxella catarrhalis
+
+Proteus mirabilis
+
+Yersinia pestis
+
+Anaerobic bacteria
+
+Bacteroides fragilis
+
+Bacteroides thetaiotaomicron
+
+Clostridium perfringens
+
+Peptostreptococcus species
+
+Other microorganisms
+
+Chlamydophila pneumoniae
+
+Mycoplasma pneumoniae
+
+The following in vitro data are available, but their clinical significance is unknown.
 At least 90 percent of the following bacteria exhibit an in vitro minimum inhibitory concentration (MIC) less than or equal to the susceptible breakpoint for moxifloxacin against isolates of similar genus or organism group.
 However, the efficacy of moxifloxacin hydrochloride in treating clinical infections due to these bacteria has not been established in adequate and well controlled clinical trials.
-Gram-positive bacteria Staphylococcus epidermidis Streptococcus agalactiae Streptococcus viridans group Gram-negative bacteria Citrobacter freundii Klebsiella oxytoca Legionella pneumophila Anaerobic bacteria Fusobacterium species Prevotella species
+
+Gram-positive bacteria
+
+Staphylococcus epidermidis
+
+Streptococcus agalactiae
+
+Streptococcus viridans group
+
+Gram-negative bacteria
+
+Citrobacter freundii
+
+Klebsiella oxytoca
+
+Legionella pneumophila
+
+Anaerobic bacteria
+
+Fusobacterium species
+
+Prevotella species
 
 Susceptibility Tests Methods
 

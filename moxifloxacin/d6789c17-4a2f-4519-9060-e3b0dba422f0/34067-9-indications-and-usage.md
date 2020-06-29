@@ -22,11 +22,11 @@ Moxifloxacin tablets are indicated in adult patients for the treatment of Compli
 
 Moxifloxacin tablets are indicated in adult patients for the treatment of plague, including pneumonic and septicemic plague, due to susceptible isolates of Yersinia pestis and prophylaxis of plague in adult patients.
 Efficacy studies of moxifloxacin could not be conducted in humans with plague for feasibility reasons.
-Therefore this indication is based on an efficacy study conducted in animals only [see Clinical Studies (14.7)].
+Therefore, this indication is based on an efficacy study conducted in animals only [see Clinical Studies (14.7)].
 
 ## 1.6 Acute Bacterial Sinusitis
 
-Moxifloxacin tablets are indicated in adult patients (18 years of age and older) for the treatment of acute bacterial sinusitis (ABS) caused by susceptible isolates of Streptococcus pneumoniae, Haemophilus influenzae, or Moraxella catarrhalis [see Clinical Studies (14.1)].
+Moxifloxacin tablets are indicated in adult patients for the treatment of acute bacterial sinusitis (ABS) caused by susceptible isolates of Streptococcus pneumoniae, Haemophilus influenzae, or Moraxella catarrhalis [see Clinical Studies (14.1)].
 
 Because fluoroquinolones, including moxifloxacin tablets, have been associated with serious adverse reactions [see Warnings and Precautions (5.1 to 5.14)] and for some patients ABS is self-limiting, reserve moxifloxacin tablets for treatment of ABS in patients who have no alternative treatment options.
 

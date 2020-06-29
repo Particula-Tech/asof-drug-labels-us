@@ -1,10 +1,6 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-Advise the patient to read the FDA-approved patient labeling (Medication Guide)
-
-Serious Adverse Reactions
-
-Advise patients to stop taking moxifloxacin hydrochloride if they experience an adverse reaction and to call their healthcare provider for advice on completing the full course of treatment with another antibacterial drug.
+Advise the patient to read the FDA-approved patient labeling (Medication Guide) Serious Adverse Reactions Advise patients to stop taking moxifloxacin hydrochloride if they experience an adverse reaction and to call their healthcare provider for advice on completing the full course of treatment with another antibacterial drug.
 
 Inform patients of the following serious adverse reactions that have been associated with moxifloxacin hydrochloride or other fluoroquinolone use:
 
@@ -43,16 +39,18 @@ They do not treat viral infections (for example, the common cold).
 When moxifloxacin hydrochloride is prescribed to treat a bacterial infection, patients should be told that although it is common to feel better early in the course of therapy, the medication should be taken exactly as directed.
 Skipping doses or not completing the full course of therapy may (1) decrease the effectiveness of the immediate treatment and (2) increase the likelihood that bacteria will develop resistance and will not be treatable by moxifloxacin hydrochloride or other antibacterial drugs in the future.
 
-Administration With Food, Fluids, and Drug Products Containing Multivalent Cations
+Administration Instructions
 
-Inform patients that moxifloxacin tablets may be taken with or without food.
-Advise patients drink fluids liberally.
-
-Inform patients that moxifloxacin tablets should be taken at least 4 hours before or 8 hours after multivitamins (containing iron or zinc), antacids (containing magnesium or aluminum), sucralfate, or didanosine buffered tablets for oral suspension or the pediatric powder for oral solution.
+- Inform patients that moxifloxacin tablets may be taken with or without food.
+  Advise patients drink fluids liberally.
+- Inform patients that moxifloxacin tablets should be taken at least 4 hours before or 8 hours after multivitamins (containing iron or zinc), antacids (containing magnesium or aluminum), sucralfate, or didanosine buffered tablets for oral suspension or the pediatric powder for oral solution.
+- Advise patients that if a dose is missed, it should be taken anytime but not later than 8 hours prior to the next scheduled dose.
+  If less than 8 hours remain before the next dose, the missed dose should not be taken and treatment should be continued as prescribed with the next scheduled dose.
+  Double doses should not be taken to compensate for a missed dose.
 
 Plague Studies
 
 Inform patients given moxifloxacin hydrochloride for plague that efficacy studies could not be conducted in humans for feasibility reasons.
 Therefore, approval for plague was based on efficacy studies conducted in animals.
 
-Dispense with Medication Guide available at: www.aurobindousa.com/product-medication-guides
+Dispense with Medication Guide available at: www.aurobindousa.com/medication-guides

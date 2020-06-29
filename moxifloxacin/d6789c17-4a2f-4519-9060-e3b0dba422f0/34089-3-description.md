@@ -7,6 +7,5 @@ Its molecular formula is C21H24FN3O4*HCl and its chemical structure is as follow
 
 ## 11.1 Moxifloxacin Tablets, USP
 
-- Moxifloxacin tablets, USP are available as film-coated tablets containing moxifloxacin hydrochloride USP (equivalent to 400 mg moxifloxacin).
-
+- Moxifloxacin tablets, USP are available as film-coated tablets containing 400 mg moxifloxacin (equivalent to 436.33 mg moxifloxacin hydrochloride USP).
 - The inactive ingredients are hypromellose, iron oxide red, magnesium stearate, microcrystalline cellulose, polyethylene glycol, povidone, sodium starch glycolate, and titanium dioxide.

@@ -11,7 +11,7 @@ The following serious and otherwise important adverse reactions are discussed in
 - Other Serious and Sometimes Fatal Adverse Reactions [see Warnings and Precautions (5.7)]
 - Risk of Aortic Aneurysm and Dissection [see Warnings and Precautions (5.9)]
 - Hypersensitivity Reactions [see Warnings and Precautions (5.8)]
-- Clostridium difficile-Associated Diarrhea [see Warnings and Precautions (5.10)]
+- Clostridioides difficile-Associated Diarrhea [see Warnings and Precautions (5.10)]
 - Blood Glucose Disturbances [see Warnings and Precautions (5.12)]
 - Photosensitivity/Phototoxicity [see Warnings and Precautions (5.13)]
 - Development of Drug Resistant Bacteria [see Warnings and Precautions (5.14)]

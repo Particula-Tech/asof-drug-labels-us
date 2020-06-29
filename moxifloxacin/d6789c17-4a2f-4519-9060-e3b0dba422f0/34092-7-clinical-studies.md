@@ -17,7 +17,7 @@ The clinical success for moxifloxacin hydrochloride was 89% (222/250) compared t
 
 Table 10: Clinical Success Rates at Follow-Up Visit for Clinically Evaluable Patients by Pathogen (Acute Bacterial Exacerbation of Chronic Bronchitis)
 
-| Pathogen | Moxifloxacin Hydrochloride | Clarithromycin |
+| PATHOGEN | Moxifloxacin Hydrochloride | Clarithromycin |
 | --- | --- | --- |
 | Streptococcus pneumoniae | 16/16 (100%) | 20/23 (87%) |
 | Haemophilus influenzae | 33/37 (89%) | 36/41 (88%) |
@@ -47,7 +47,7 @@ The clinical success rates by pathogen across four CAP studies are presented in 
 
 Table 11: Clinical Success Rates By Pathogen (Pooled CAP Studies)
 
-| Pathogen | Moxifloxacin Hydrochloride |  |
+| PATHOGEN | Moxifloxacin Hydrochloride |  |
 | --- | --- | --- |
 | Streptococcus pneumoniae | 80/85 | (94%) |
 | Staphylococcus aureus | 17/20 | (85%) |

@@ -70,7 +70,7 @@ In patients with mild, moderate, or severe liver cirrhosis, metabolic disturbanc
 Monitor ECG in patients with liver cirrhosis treated with moxifloxacin hydrochloride [see Clinical Pharmacology (12.3)].
 
 The magnitude of QT prolongation may increase with increasing concentrations of the drug or increasing rates of infusion of the intravenous formulation.
-Therefore the recommended dose or infusion rate should not be exceeded.
+Therefore, the recommended dose or infusion rate should not be exceeded.
 
 In premarketing clinical trials, the rate of cardiovascular adverse reactions was similar in 798 moxifloxacin hydrochloride and 702 comparator treated patients who received concomitant therapy with drugs known to prolong the QTc interval.
 No excess in cardiovascular morbidity or mortality attributable to QTc prolongation occurred with moxifloxacin hydrochloride treatment in over 15,500 patients in controlled clinical studies, including 759 patients who were hypokalemic at the start of treatment, and there was no increase in mortality in over 18,000 moxifloxacin tablet treated patients in a postmarketing observational study in which ECGs were not performed.
@@ -102,9 +102,9 @@ Epidemiologic studies report an increased rate of aortic aneurysm and dissection
 The cause for the increased risk has not been identified.
 In patients with a known aortic aneurysm or patients who are at greater risk for aortic aneurysms, reserve moxifloxacin hydrochloride for use only when there are no alternative antibacterial treatments available.
 
-## 5.10 Clostridium difficile-Associated Diarrhea
+## 5.10 Clostridioides difficile-Associated Diarrhea
 
-Clostridium difficile-associated diarrhea (CDAD) has been reported with use of nearly all antibacterial agents, including moxifloxacin hydrochloride, and may range in severity from mild diarrhea to fatal colitis.
+Clostridioides difficile-associated diarrhea (CDAD) has been reported with use of nearly all antibacterial agents, including moxifloxacin hydrochloride, and may range in severity from mild diarrhea to fatal colitis.
 Treatment with antibacterial agents alters the normal flora of the colon leading to overgrowth of C. difficile.
 
 C. difficile produces toxins A and B which contribute to the development of CDAD.
