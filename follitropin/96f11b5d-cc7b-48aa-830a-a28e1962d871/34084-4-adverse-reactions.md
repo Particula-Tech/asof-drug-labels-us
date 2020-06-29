@@ -2,15 +2,14 @@
 
 The following serious adverse reactions are discussed elsewhere in the labeling:
 
-- Abnormal Ovarian Enlargement [see Warnings and Precautions (5.1)]
 - Ovarian Hyperstimulation Syndrome [see Warnings and Precautions (5.2)]
-- Pulmonary and Vascular Complications [see Warnings and Precautions (5.3)]
+- Atelectasis [see Warnings and Precautions (5.3)]
+- Thromboembolism [see Warnings and Precautions (5.3)]
 - Ovarian Torsion [see Warnings and Precautions (5.4)]
 - Multi-fetal Gestation and Birth [see Warnings and Precautions (5.5)]
 - Congenital Anomalies [see Warnings and Precautions (5.6)]
 - Ectopic Pregnancy [see Warnings and Precautions (5.7)]
 - Spontaneous Abortion [see Warnings and Precautions (5.8)]
-- Ovarian and Other Reproductive System Neoplasms [see Warnings and Precautions (5.9)]
 
 ## 6.1 Clinical Study Experience
 

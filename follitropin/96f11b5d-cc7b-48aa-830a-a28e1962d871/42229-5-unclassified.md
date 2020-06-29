@@ -6,11 +6,9 @@ BD, BD Logo and BD Micro-Fine are trademarks of Becton, Dickinson and Company
 
 For patent information: www.merck.com/product/patent/home.html
 
-Copyright © 2004-2019 Merck Sharp & Dohme B.V., a subsidiary of Merck & Co., Inc. All rights reserved.
+Copyright © 2004-2020 Merck Sharp & Dohme B.V., a subsidiary of Merck & Co., Inc. All rights reserved.
 
-Revised: 09/2019
-
-uspi-mk8328-SOi-1909r013
+uspi-mk8328-SOi-2006r014
 
 Manufactured for: Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC., Whitehouse Station, NJ 08889, USA
 
@@ -20,11 +18,11 @@ BD, BD Logo and BD Micro-Fine are trademarks of Becton, Dickinson and Company.
 
 For patent information: www.merck.com/product/patent/home.html
 
-Copyright © 2004-2019 Merck Sharp & Dohme B.V., a subsidiary of Merck & Co., Inc. All rights reserved.
+Copyright © 2004-2020 Merck Sharp & Dohme B.V., a subsidiary of Merck & Co., Inc. All rights reserved.
 
-Revised: 09/2019
+Revised: 06/2020
 
-usppi-mk8328-SOi-1909r014
+usppi-mk8328-SOi-2006r015
 
 PATIENT INSTRUCTIONS FOR USE
 
@@ -284,8 +282,8 @@ BD, BD Logo and BD Micro-Fine are trademarks of Becton, Dickinson and Company.
 
 For patent information: www.merck.com/product/patent/home.html
 
-Copyright © 2004-2019 Merck Sharp & Dohme B.V., a subsidiary of Merck & Co., Inc. All rights reserved.
+Copyright © 2004-2020 Merck Sharp & Dohme B.V., a subsidiary of Merck & Co., Inc. All rights reserved.
 
-Revised: 09/2019
+Revised: 06/2020
 
-usppi-mk8328-SOi-1909r014
+usppi-mk8328-SOi-2006r015

@@ -1,6 +1,8 @@
-# PRINCIPAL DISPLAY PANEL - 300 IU Kit Carton
+PRINCIPAL DISPLAY PANEL - 300 IU Kit Carton
 
-NDC 0052-0313-01 1 Sterile Prefilled 1.5 mL Cartridge containing 0.420 mL and 5 BD Micro-Fine™ Pen Needles
+NDC 0052-0313-01
+
+1 Sterile Prefilled 1.5 mL Cartridge containing 0.420 mL and 5 BD Micro-Fine™ Pen Needles
 
 Follistim® AQ Cartridge 300 IU (follitropin beta injection)
 
@@ -10,11 +12,11 @@ For Subcutaneous Use
 
 Rx only
 
-# PRINCIPAL DISPLAY PANEL - 600 IU Kit Carton
+PRINCIPAL DISPLAY PANEL - 600 IU Kit Carton
+
+NDC 0052-0316-01
 
 1 Sterile Prefilled 1.5 mL Cartridge containing 0.780 mL and 7 BD Micro-Fine™ Pen Needles
-
-Professional Sample – Not For Sale
 
 Follistim® AQ Cartridge 600 IU (follitropin beta injection)
 

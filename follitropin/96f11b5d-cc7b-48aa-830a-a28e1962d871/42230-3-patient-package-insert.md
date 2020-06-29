@@ -44,21 +44,17 @@ What should I tell my healthcare provider before taking Follistim AQ Cartridge?
 
 Before you take Follistim AQ, tell your healthcare provider if you:
 
-- have ever had Ovarian Hyperstimulation Syndrome (OHSS).
-- are pregnant or think you may be pregnant.
-  Follistim AQ Cartridge should not be used in pregnant women.
-- have an increased risk of blood clots (thrombosis).
-- have ever had a blood clot (thrombosis), or anyone in your immediate family has ever had a blood clot (thrombosis).
-- have ever had stomach (abdominal) surgery.
-- have ever had twisting of your ovary (ovarian torsion).
-- have or have had a cyst in your ovary.
-- have polycystic ovarian syndrome (PCOS).
-- have any other medical conditions (for example, diabetes, heart disease, or any other long-term disease).
+- have an increased risk of blood clots (thrombosis)
+- have ever had a blood clot (thrombosis), or anyone in your immediate family has ever had a blood clot (thrombosis)
+- had stomach (abdominal) surgery
+- had twisting of your ovary (ovarian torsion)
+- had or have a cyst in your ovary
+- have polycystic ovary disease
+- have any other medical conditions
 - are breastfeeding or plan to breastfeed.
   It is not known if the medicine in Follistim AQ Cartridge passes into your breast milk.
   You and your healthcare provider should decide if you will take Follistim AQ Cartridge or breastfeed.
-  You should not do both at the same time.
-- have been told by a doctor that pregnancy would be dangerous for you.
+  You should not do both.
 
 Tell your healthcare provider about all the medicines you take, including prescription and non-prescription medicines, vitamins, and herbal supplements.
 
@@ -79,12 +75,12 @@ How should I use Follistim AQ Cartridge?
 - Use Follistim AQ Cartridge only with the Follistim Pen.
 - Do not use the Follistim Pen if you are blind or visually impaired unless you have assistance from an individual with good vision who is trained in the right way to use the pen.
 - Do not re-use the BD Micro-Fine™ Pen Needle.
-- Your healthcare provider may do blood hormone tests while you are taking Follistim AQ Cartridge.
-  Make sure you follow-up with your healthcare provider to have your blood tested when told to do so.
+- Your healthcare provider will do blood and urine hormone tests while you are taking Follistim AQ Cartridge.
+  Make sure you follow-up with your healthcare provider to have your blood and urine tested when told to do so.
 
 Women:
 
-- Your healthcare provider will do ultrasound scans of your ovaries to monitor how the follicles are growing.
+- Your healthcare provider may do ultrasound scans of your ovaries.
   Make sure you follow-up with your healthcare provider to have your ultrasound scans.
 
 Men:
@@ -98,51 +94,41 @@ Follistim AQ Cartridge may cause serious side effects.
 
 Serious side effects in women include:
 
-- Ovarian enlargement.
-  Your ovaries may become very large at the end of your fertility treatment cycle.
-  Therefore, close supervision by your healthcare provider is very important.
-  To check the effects of your fertility treatment, your healthcare provider will take ultrasound scans of your ovaries and may also check blood hormone levels.
+- Ovarian enlargement
 - Ovarian hyperstimulation syndrome (OHSS).
   OHSS is a serious medical problem that can happen when the ovaries are over stimulated.
-  In rare cases, OHSS may be life-threatening and has caused death.
+  In rare cases it has caused death.
   OHSS causes fluid to build up suddenly in your stomach and chest areas and can cause blood clots to form.
   Call your healthcare provider right away if you have:
-  - pain in your lower stomach area.
-  - nausea.
-  - vomiting.
-  - sudden weight gain due to fluid buildup.
-  - diarrhea.
-  - decreased urine output.
-  - trouble breathing.
+  - pain in your lower stomach area
+  - nausea
+  - vomiting
+  - weight gain
+  - diarrhea
+  - decreased urine output
+  - trouble breathing
 - Lung problems.
-  Treatment with gonadotropic hormones like Follistim AQ Cartridge can cause you to have trouble breathing (acute respiratory distress syndrome).
+  Follistim AQ Cartridge can cause you to have fluid in your lungs (atelectasis) and trouble breathing (acute respiratory distress syndrome).
 - Blood clots.
-  Treatment with gonadotropic hormones like Follistim AQ Cartridge may (just as with pregnancy) increase your chance of having blood clots (thrombosis) in your blood vessels.
-  Thrombosis is the formation of a blood clot in a blood vessel.
-  Blood clots can lead to:
-  - blockage in your lungs (pulmonary embolus).
-  - stroke.
-  - heart attack.
-  - blood vessel problems (thrombophlebitis).
-  - a lack of blood flow (deep venous thrombosis) that may result in a loss of your arm or leg.
+  Follistim AQ Cartridge may increase your chance of having blood clots in your blood vessels.
+  Blood clots can cause:
+  - blood vessel problems (thrombophlebitis)
+  - stroke
+  - loss of your arm or leg
+  - blood clot in your lungs (pulmonary embolus)
+  - heart attack
 - Ovarian torsion.
-  Follistim AQ Cartridge may increase the chance of twisting of the ovaries in women with certain conditions such as OHSS, pregnancy and previous stomach (abdominal) surgery, past history of a twisting of an ovary, past or current cysts in your ovary or ovaries, or polycystic ovaries.
+  Follistim AQ Cartridge may increase the chance of twisting of the ovaries in women with certain conditions such as OHSS, pregnancy and previous abdominal surgery.
   Twisting of the ovary could cause the blood flow to the ovary to be cut off.
 - Pregnancy and birth of multiple babies.
-  There is an increased chance of having twins or more than two babies, even when only one embryo is transferred into the uterus.
   Having a pregnancy with more than one baby at a time increases the health risk for you and your babies.
   Discuss your chances of multiple births with your healthcare provider.
 - Birth defects.
-  A woman's age, certain sperm problems, genetic background of both parents and a pregnancy with multiple babies can increase the chance that your baby might have a birth defect.
-- Ectopic pregnancy (pregnancy outside of the uterus).
-  If treatment with Follistim AQ Cartridge results in pregnancy, there is a higher chance of pregnancy outside the uterus.
-  Therefore, your healthcare provider should perform an early ultrasound examination to exclude the possibility of pregnancy occurring outside of the uterus.
+  A woman's age, certain sperm problems, genetic background of both parents and a pregnancy with multiple babies can increase the chance that your baby might have birth defects.
+- Ectopic pregnancy (pregnancy outside of the womb).
+  The chance of a pregnancy outside of the womb is increased in women with damaged fallopian tubes.
 - Miscarriage.
-  Miscarriages have been reported for all gonadotropin treatments, including Follistim AQ Cartridge.
-  However, it is not known if miscarriages are related to treatment with fertility medicines or the underlying infertility.
-- Ovarian and Other Reproductive System Tumors.
-  There have been reports of ovarian and other reproductive system tumors in women who have had infertility treatment.
-  It is not known if treatment with fertility medicines increases the risk of these tumors in infertile women.
+  The chance of loss of an early pregnancy may be increased in women who have difficulty with becoming pregnant at all.
 
 The most common side effects of Follistim AQ Cartridge include:
 
