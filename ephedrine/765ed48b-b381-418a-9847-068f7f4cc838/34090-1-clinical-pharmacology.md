@@ -14,7 +14,7 @@ Activation of ß-adrenergic receptors in the lungs promotes bronchodilation.
 
 The overall cardiovascular effect from ephedrine is the result of a balance among α-1 adrenoceptor-mediated vasoconstriction, ß-2 adrenoceptor-mediated vasoconstriction, and ß-2 adrenoceptor-mediated vasodilatation.
 Stimulation of the ß-1 adrenoceptors results in positive inotrope and chronotrope action.
-Tachyphylaxis to the pressor effects of ephedrine may occur with repeated administration [see Warnings and Precautions (5.3)].
+Tachyphylaxis to the pressor effects of ephedrine may occur with repeated administration [see Warnings and Precautions (5.2)].
 
 ## 12.3 Pharmacokinetics
 

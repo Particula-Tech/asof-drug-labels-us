@@ -3,7 +3,7 @@
 | Interactions that Augment the Pressor Effect |  |
 | --- | --- |
 | Oxytocin and oxytocic drugs |  |
-| Clinical Impact: | Serious postpartum hypertension has been described in patients who received both a vasopressor (i.e. methoxamine, phenylephrine, ephedrine) and an oxytocic (i.e. methylergonovine, ergonovine). Some of these patients experienced a stroke. |
+| Clinical Impact: | Serious postpartum hypertension has been described in patients who received both a vasopressor (i.e., methoxamine, phenylephrine, ephedrine) and an oxytocic (i.e., methylergonovine, ergonovine). Some of these patients experienced a stroke. |
 | Intervention: | Carefully monitor the blood pressure of individuals who have received both ephedrine and an oxytocic. |
 | Clonidine, propofol, monoamine oxidase inhibitors (MAOIs), atropine |  |
 | Clinical Impact: | These drugs augment the pressor effect of ephedrine. |

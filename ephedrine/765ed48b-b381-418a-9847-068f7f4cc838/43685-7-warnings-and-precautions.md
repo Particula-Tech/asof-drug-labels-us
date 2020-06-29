@@ -2,7 +2,7 @@
 
 ## 5.1 Pressor Effect with Concomitant Oxytocic Drugs
 
-Serious postpartum hypertension has been described in patients who received both a vasopressor (i.e. methoxamine, phenylephrine, ephedrine) and an oxytocic (i.e. methylergonovine, ergonovine) [see Drug Interactions (7)].
+Serious postpartum hypertension has been described in patients who received both a vasopressor (i.e., methoxamine, phenylephrine, ephedrine) and an oxytocic (i.e., methylergonovine, ergonovine) [see Drug Interactions (7)].
 Some of these patients experienced a stroke.
 Carefully monitor the blood pressure of individuals who have received both ephedrine and an oxytocic.
 

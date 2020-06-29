@@ -10,10 +10,10 @@ Discard unused portion.
 
 ## 2.2 Dosing for the Treatment of Clinically Important Hypotension in the Setting of Anesthesia
 
-The recommended dosage for the treatment of clinically important hypotension in the setting of anesthesia is an initial dose of 5 mg to 10 mg administered by intravenous bolus.
+The recommended dosages for the treatment of clinically important hypotension in the setting of anesthesia is an initial dose of 5 mg to 10 mg administered by intravenous bolus.
 Administer additional boluses as needed, not to exceed a total dosage of 50 mg.
 
-- Adjust dosage according to the blood pressure goal (i.e. titrate to effect).
+- Adjust dosage according to the blood pressure goal (i.e., titrate to effect).
 
 ## 2.3 Prepare a 5 mg/mL Solution for Bolus Intravenous Administration
 
