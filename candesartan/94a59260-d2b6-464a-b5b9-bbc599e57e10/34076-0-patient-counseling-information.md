@@ -16,4 +16,4 @@ Distributed by: ANI Pharmaceuticals, Inc. Baudette, MN 56623
 
 ATACAND is a registered trademark of the AstraZeneca group of companies and is licensed to ANI Pharmaceuticals, Inc.
 
-10110 Rev 05/18
+10110 Rev 06/20

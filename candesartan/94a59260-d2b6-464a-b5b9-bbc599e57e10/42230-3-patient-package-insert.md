@@ -188,4 +188,4 @@ ATACAND is a registered trademark of the AstraZeneca group of companies and is l
 
 All brand names listed are the registered trademarks of their respective owners and are not trademarks of ANI Pharmaceuticals, Inc.
 
-Issued: 05/2018
+Issued: 06/2020
