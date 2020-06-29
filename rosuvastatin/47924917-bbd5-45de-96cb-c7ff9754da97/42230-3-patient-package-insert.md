@@ -11,18 +11,13 @@ Only your doctor can determine if rosuvastatin tablets are right for you.
 What are rosuvastatin tablets?
 
 Rosuvastatin tablets are a prescription medicine that contains a cholesterol-lowering medicine called rosuvastatin calcium.
-Most of the cholesterol in your blood is made in the liver.
-Rosuvastatin tablets work by reducing cholesterol in two ways: rosuvastatin tablets block an enzyme in the liver causing the liver to make less cholesterol, and rosuvastatin tablets increase the uptake and breakdown by the liver of cholesterol already in the blood.
 
 - Rosuvastatin tablets are used along with diet to:
-
-- lower the level of your “bad” cholesterol (LDL)
-- increase the level of your “good” cholesterol (HDL)
-- lower the level of fat in your blood (triglycerides)
-
+  - lower the level of your “bad” cholesterol (LDL)
+  - increase the level of your “good” cholesterol (HDL)
+  - lower the level of fat in your blood (triglycerides)
 - Rosuvastatin tablets are used to treat:
-
-- adults who cannot control their cholesterol levels by diet and exercise alone
+  - adults who cannot control their cholesterol levels by diet and exercise alone
 
 It is not known if rosuvastatin tablets are safe and effective in people who have Fredrickson Type I and V dyslipidemias.
 
@@ -68,7 +63,17 @@ Especially tell your doctor if you take:
 
 - cyclosporine (a medicine for your immune system)
 - gemfibrozil (a fibric acid medicine for lowering cholesterol)
-- anti-viral medicines including HIV or hepatitis C protease inhibitors (such as lopinavir, ritonavir, fosamprenavir, tipranavir, atazanavir, or simeprevir)
+- darolutamide (a medicine for the treatment of prostate cancer)
+- regorafenib (a medicine used to treat cancer of the colon and rectum)
+- anti-viral medicines including certain HIV or hepatitis C virus drugs such as:
+  - lopinavir, ritonavir, fosamprenavir, tipranavir, atazanavir, simeprevir
+  - combination of
+    - sofosbuvir/velpatasvir/voxilaprevir
+    - dasabuvir/ombitasvir/paritaprevir/ritonavir
+    - elbasvir/grazoprevir
+    - sofosbuvir/velpatasvir
+    - glecaprevir/pibrentasvir and
+  - all other combinations with ledipasvir including ledipasvir/sofosbuvir
 - certain anti-fungal medicines (such as itraconazole, ketoconazole and fluconazole)
 - coumarin anticoagulants (medicines that prevent blood clots, such as warfarin)
 - niacin or nicotinic acid
@@ -119,12 +124,11 @@ Your chances of getting muscle problems are higher if you:
 - Liver problems.
   Your doctor should do blood tests to check your liver before you start taking rosuvastatin tablets and if you have symptoms of liver problems while you take rosuvastatin tablets.
   Call your doctor right away if you have any of the following symptoms of liver problems:
-
-- feel unusually tired or weak
-- loss of appetite
-- upper belly pain
-- dark urine
-- yellowing of your skin or the whites of your eyes
+  - feel unusually tired or weak
+  - loss of appetite
+  - upper belly pain
+  - dark urine
+  - yellowing of your skin or the whites of your eyes
 
 The most common side effects may include: headache, muscle aches and pains, abdominal pain, weakness, and nausea.
 
@@ -163,5 +167,5 @@ You can ask your pharmacist or doctor for information about rosuvastatin tablets
 
 CRESTOR is a trademark of the AstraZeneca group of companies.
 
-Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 038, India Revised: 12/2018 For more information, call Aurobindo Pharma USA, Inc. at 1-866-850-2876.
+Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 038, India Revised: 06/2020 For more information, call Aurobindo Pharma USA, Inc. at 1-866-850-2876.
 This Patient Information has been approved by the U.S. Food and Drug Administration.

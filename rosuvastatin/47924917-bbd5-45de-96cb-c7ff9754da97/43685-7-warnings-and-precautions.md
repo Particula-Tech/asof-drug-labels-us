@@ -7,8 +7,8 @@ These risks can occur at any dose level, but are increased at the highest dose (
 
 Rosuvastatin should be prescribed with caution in patients with predisposing factors for myopathy (e.g., age ≥ 65 years, inadequately treated hypothyroidism, renal impairment).
 
-The risk of myopathy during treatment with rosuvastatin may be increased with concurrent administration of some other lipid-lowering therapies (fibrates or niacin), gemfibrozil, cyclosporine, atazanavir/ritonavir, lopinavir/ritonavir, or simeprevir [see Dosage and Administration (2) and Drug Interactions (7)].
-Cases of myopathy, including rhabdomyolysis, have been reported with HMG-CoA reductase inhibitors, including rosuvastatin, coadministered with colchicine, and caution should be exercised when prescribing rosuvastatin with colchicine [see Drug Interactions (7.7)].
+The risk of myopathy during treatment with rosuvastatin may be increased with concurrent administration of gemfibrozil, some other lipid-lowering therapies (other fibrates or niacin), cyclosporine, darolutamide, regorafenib, atazanavir/ritonavir, lopinavir/ritonavir, simeprevir or combination of sofosbuvir/velpatasvir/voxilaprevir, dasabuvir/ombitasvir/paritaprevir/ritonavir, elbasvir/grazoprevir, sofosbuvir/velpatasvir, glecaprevir/pibrentasvir, all combinations with ledipasvir (including ledipasvir/sofosbuvir) [see Dosage and Administration (2) and Drug Interactions (7)].
+Cases of myopathy, including rhabdomyolysis, have been reported with HMG-CoA reductase inhibitors, including rosuvastatin, coadministered with colchicine, and caution should be exercised when prescribing rosuvastatin with colchicine [see Drug Interactions (7.9)].
 
 Rosuvastatin therapy should be discontinued if markedly elevated creatine kinase levels occur or myopathy is diagnosed or suspected.
 Rosuvastatin therapy should also be temporarily withheld in any patient with an acute, serious condition suggestive of myopathy or predisposing to the development of renal failure secondary to rhabdomyolysis (e.g., sepsis, hypotension, dehydration, major surgery, trauma, severe metabolic, endocrine, and electrolyte disorders, or uncontrolled seizures).
@@ -39,7 +39,7 @@ Active liver disease, which may include unexplained persistent transaminase elev
 ## 5.3 Concomitant Coumarin Anticoagulants
 
 Caution should be exercised when anticoagulants are given in conjunction with rosuvastatin because of its potentiation of the effect of coumarin-type anticoagulants in prolonging the prothrombin time/INR.
-In patients taking coumarin anticoagulants and rosuvastatin concomitantly, INR should be determined before starting rosuvastatin and frequently enough during early therapy to ensure that no significant alteration of INR occurs [see Drug Interactions (7.4)].
+In patients taking coumarin anticoagulants and rosuvastatin concomitantly, INR should be determined before starting rosuvastatin and frequently enough during early therapy to ensure that no significant alteration of INR occurs [see Drug Interactions (7.6)].
 
 ## 5.4 Proteinuria and Hematuria
 
