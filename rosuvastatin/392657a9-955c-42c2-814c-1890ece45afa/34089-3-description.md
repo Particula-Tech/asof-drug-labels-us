@@ -8,4 +8,4 @@ The molecular formula for rosuvastatin calcium, USP is (C22H27FN3O6S)2Ca and the
 Rosuvastatin calcium, USP is a white to off- white powder that is very slightly soluble in water, insoluble in methanol & ethanol.
 Rosuvastatin calcium, USP is a hydrophilic compound with a partition coefficient (octanol/water) of 0.13 at pH of 7.0.
 
-Rosuvastatin Calcium Tablets, USP for oral administration contain 5 mg, 10 mg, 20 mg, or 40 mg of rosuvastatin and the following inactive ingredients: Each tablet contains: crospovidone, ferric oxide red, hypromellose, lactose monohydrate, magnesium stearate, microcrystalline cellulose, sodium bicarbonate, titanium dioxide and triacetin.
+Rosuvastatin Tablets USP for oral administration contain 5 mg, 10 mg, 20 mg, or 40 mg of rosuvastatin and the following inactive ingredients: Each tablet contains: crospovidone, ferric oxide red, hypromellose, lactose monohydrate, magnesium stearate, microcrystalline cellulose, sodium bicarbonate, titanium dioxide and triacetin.

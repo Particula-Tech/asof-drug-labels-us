@@ -4,9 +4,9 @@
 
 Risk Summary
 
-Rosuvastatin calcium is contraindicated for use in pregnant women since safety in pregnant women has not been established and there is no apparent benefit to therapy with rosuvastatin calcium during pregnancy.
-Because HMG-CoA reductase inhibitors decrease cholesterol synthesis and possibly the synthesis of other biologically active substances derived from cholesterol, rosuvastatin calcium may cause fetal harm when administered to pregnant women.
-Rosuvastatin calcium should be discontinued as soon as pregnancy is recognized [see Contraindications (4)].
+Rosuvastatin is contraindicated for use in pregnant women since safety in pregnant women has not been established and there is no apparent benefit to therapy with rosuvastatin during pregnancy.
+Because HMG-CoA reductase inhibitors decrease cholesterol synthesis and possibly the synthesis of other biologically active substances derived from cholesterol, rosuvastatin may cause fetal harm when administered to pregnant women.
+Rosuvastatin should be discontinued as soon as pregnancy is recognized [see Contraindications (4)].
 Limited published data on the use of rosuvastatin are insufficient to determine a drug-associated risk of major congenital malformations or miscarriage.
 In animal reproduction studies, there were no adverse developmental effects with oral administration of rosuvastatin during organogenesis at systemic exposures equivalent to a maximum recommended human dose (MRHD) of 40 mg/day in rats or rabbits (based on AUC and body surface area, respectively).
 In rats and rabbits, decreased pup/ fetal survival occurred at 12 times and equivalent, respectively, to the MRHD of 40 mg/day [see Data].
@@ -14,11 +14,13 @@ In rats and rabbits, decreased pup/ fetal survival occurred at 12 times and equi
 The estimated background risk of major birth defects and miscarriage for the indicated population is unknown.
 In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively.
 
-Data Human Data
+Data
+
+Human Data
 
 Limited published data on rosuvastatin have not shown an increased risk of major congenital malformations or miscarriage.
 Rare reports of congenital anomalies have been received following intrauterine exposure to other statins.
-In a review of approximately 100 prospectively followed pregnancies in women exposed to simvastatin or lovastatin the incidences of congenital anomalies, spontaneous abortions, and fetal deaths/stillbirths did not exceed what would be expected in the general population.
+In a review of approximately 100 prospectively followed pregnancies in women exposed to simvastatin or lovastatin, the incidences of congenital anomalies, spontaneous abortions, and fetal deaths/stillbirths did not exceed what would be expected in the general population.
 The number of cases is adequate to exclude a ≥ 3 to 4-fold increase in congenital anomalies over the background incidence.
 In 89% of the prospectively followed pregnancies, drug treatment was initiated prior to pregnancy and was discontinued at some point in the first trimester when pregnancy was identified.
 
@@ -38,14 +40,14 @@ In pregnant rabbits given 0.3, 1, and 3 mg/kg/day of rosuvastatin from gestation
 Risk Summary
 
 Rosuvastatin use is contraindicated during breastfeeding [see Contraindications (4)].
-Limited data indicate that rosuvastatin calcium is present in human milk.
+Limited data indicate that rosuvastatin is present in human milk.
 There is no available information on the effects of the drug on the breastfed infant or the effects of the drug on milk production.
-Because of the potential for serious adverse reactions in a breastfed infant, advise patients that breastfeeding is not recommended during treatment with rosuvastatin calcium.
+Because of the potential for serious adverse reactions in a breastfed infant, advise patients that breastfeeding is not recommended during treatment with rosuvastatin.
 
 ## 8.3 Females and Males of Reproductive Potential
 
-Contraception Rosuvastatin calcium may cause fetal harm when administered to a pregnant woman [see Use in Specific Populations (8.1)].
-Advise females of reproductive potential to use effective contraception during treatment with rosuvastatin calcium.
+Contraception Rosuvastatin may cause fetal harm when administered to a pregnant woman [see Use in Specific Populations (8.1)].
+Advise females of reproductive potential to use effective contraception during treatment with rosuvastatin.
 
 ## 8.4 Pediatric Use
 
@@ -54,10 +56,10 @@ However, due to AstraZeneca’s marketing exclusivity rights, this drug product 
 
 ## 8.5 Geriatric Use
 
-Of the 10,275 patients in clinical studies with rosuvastatin calcium, 3159 (31%) were 65 years and older, and 698 (6.8%) were 75 years and older.
+Of the 10,275 patients in clinical studies with rosuvastatin, 3159 (31%) were 65 years and older, and 698 (6.8%) were 75 years and older.
 No overall differences in safety or effectiveness were observed between these subjects and younger subjects, and other reported clinical experience has not identified differences in responses between the elderly and younger patients, but greater sensitivity of some older individuals cannot be ruled out.
 
-Elderly patients are at higher risk of myopathy and rosuvastatin calcium should be prescribed with caution in the elderly [see Warnings and Precautions (5.1) and Clinical Pharmacology (12.3)].
+Elderly patients are at higher risk of myopathy and rosuvastatin should be prescribed with caution in the elderly [see Warnings and Precautions (5.1) and Clinical Pharmacology (12.3)].
 
 ## 8.6 Renal Impairment
 
@@ -66,10 +68,10 @@ Exposure to rosuvastatin is increased to a clinically significant extent in pati
 
 ## 8.7 Hepatic Impairment
 
-Rosuvastatin calcium is contraindicated in patients with active liver disease, which may include unexplained persistent elevations of hepatic transaminase levels.
-Chronic alcohol liver disease is known to increase rosuvastatin exposure; rosuvastatin calcium should be used with caution in these patients [see Contraindications (4), Warning and Precautions (5.2), and Clinical Pharmacology (12.3)].
+Rosuvastatin is contraindicated in patients with active liver disease, which may include unexplained persistent elevations of hepatic transaminase levels.
+Chronic alcohol liver disease is known to increase rosuvastatin exposure; rosuvastatin should be used with caution in these patients [see Contraindications (4), Warning and Precautions (5.2) and Clinical Pharmacology (12.3)].
 
 ## 8.8 Asian Patients
 
 Pharmacokinetic studies have demonstrated an approximate 2-fold increase in median exposure to rosuvastatin in Asian subjects when compared with Caucasian controls.
-Rosuvastatin calcium dosage should be adjusted in Asian patients [see Dosage and Administration (2.3) and Clinical Pharmacology (12.3)].
+Rosuvastatin dosage should be adjusted in Asian patients [see Dosage and Administration (2.3) and Clinical Pharmacology (12.3)].
