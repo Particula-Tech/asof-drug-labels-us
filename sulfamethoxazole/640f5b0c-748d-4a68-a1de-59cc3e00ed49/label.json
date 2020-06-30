@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA073303"
+  ],
+  "inn": "sulfamethoxazole",
+  "labeler": "Teva Parenteral Medicines, Inc.",
+  "package_ndcs": [
+    "0703-9514-91",
+    "0703-9514-93"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION, CONCENTRATE",
+      "generic": "sulfamethoxazole and trimethoprim",
+      "name": "Sulfamethoxazole and Trimethoprim"
+    }
+  ],
+  "setid": "640f5b0c-748d-4a68-a1de-59cc3e00ed49",
+  "source": "dailymed"
+}
