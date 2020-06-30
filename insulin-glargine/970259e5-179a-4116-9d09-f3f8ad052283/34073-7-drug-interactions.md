@@ -1,0 +1,19 @@
+# 7 DRUG INTERACTIONS
+
+Table 8 includes clinically significant drug interactions with SEMGLEE.
+
+Table 8: Clinically Significant Drug Interactions with SEMGLEE
+
+| Drugs that May Increase the Risk of Hypoglycemia |  |
+| --- | --- |
+| Drugs: | Antidiabetic agents, ACE inhibitors, angiotensin II receptor blocking agents, disopyramide, fibrates, fluoxetine, monoamine oxidase inhibitors, pentoxifylline, pramlintide, salicylates, somatostatin analogs (e.g., octreotide), and sulfonamide antibiotics |
+| Intervention: | Dose reductions and increased frequency of glucose monitoring may be required when SEMGLEE is coadministered with these drugs. |
+| Drugs that May Decrease the Blood Glucose Lowering Effect of SEMGLEE |  |
+| Drugs: | Atypical antipsychotics (e.g., olanzapine and clozapine), corticosteroids, danazol, diuretics, estrogens, glucagon, isoniazid, niacin, oral contraceptives, phenothiazines, progestogens (e.g., in oral contraceptives), protease inhibitors, somatropin, sympathomimetic agents (e.g., albuterol, epinephrine, terbutaline), and thyroid hormones. |
+| Intervention: | Dose increases and increased frequency of glucose monitoring may be required when SEMGLEE is coadministered with these drugs. |
+| Drugs that May Increase or Decrease the Blood Glucose Lowering Effect of SEMGLEE |  |
+| Drugs: | Alcohol, beta-blockers, clonidine, and lithium salts. Pentamidine may cause hypoglycemia, which may sometimes be followed by hyperglycemia. |
+| Intervention: | Dose adjustment and increased frequency of glucose monitoring may be required when SEMGLEE is coadministered with these drugs. |
+| Drugs that May Blunt Signs and Symptoms of Hypoglycemia |  |
+| Drugs: | beta-blockers, clonidine, guanethidine, and reserpine |
+| Intervention: | Increased frequency of glucose monitoring may be required when SEMGLEE is coadministered with these drugs. |
