@@ -1,4 +1,4 @@
-# HOW SUPPLIED
+# 16 HOW SUPPLIED/STORAGE AND HANDLING
 
 Methotrexate Tablets USP, 2.5 mg (contain an amount of methotrexate sodium equivalent to 2.5 mg of methotrexate USP)
 
@@ -14,3 +14,6 @@ Dispense with a child-resistant closure in a well closed container, as defined i
 
 Store at 20° to 25°C (68° to 77°F).
 [See USP Controlled Room Temperature.]
+
+Methotrexate Tablets are a cytotoxic drug.
+Follow applicable special handling and disposal procedures.1

@@ -1,17 +1,6 @@
-# CONTRAINDICATIONS
+# 4 CONTRAINDICATIONS
 
-Methotrexate can cause fetal death or teratogenic effects when administered to a pregnant woman.
-Methotrexate is contraindicated in pregnant women with psoriasis or rheumatoid arthritis and should be used in the treatment of neoplastic diseases only when the potential benefit outweighs the risk to the fetus.
-Women of childbearing potential should not be started on methotrexate until pregnancy is excluded and should be fully counseled on the serious risk to the fetus (See PRECAUTIONS) should they become pregnant while undergoing treatment.
-Pregnancy should be avoided if either partner is receiving methotrexate; during and for a minimum of three months after therapy for male patients, and during and for at least one ovulatory cycle after therapy for female patients.
-(See BOXED WARNINGS.)
+Methotrexate Tablets are contraindicated in:
 
-Because of the potential for serious adverse reactions from methotrexate in breast fed infants, it is contraindicated in nursing mothers.
-
-Patients with psoriasis or rheumatoid arthritis with alcoholism, alcoholic liver disease or other chronic liver disease should not receive methotrexate.
-
-Patients with psoriasis or rheumatoid arthritis who have overt or laboratory evidence of immunodeficiency syndromes should not receive methotrexate.
-
-Patients with psoriasis or rheumatoid arthritis who have preexisting blood dyscrasias, such as bone marrow hypoplasia, leukopenia, thrombocytopenia or significant anemia, should not receive methotrexate.
-
-Patients with a known hypersensitivity to methotrexate should not receive the drug.
+- •Pregnant women receiving Methotrexate Tablets for treatment of non-neoplastic diseases [see Warnings and Precautions (5.1), and Use in Specific Population (8.1, 8.3)].
+- •Patients with a history of severe hypersensitivity reactions, including anaphylaxis, to methotrexate [see Warnings and Precautions (5.2)].

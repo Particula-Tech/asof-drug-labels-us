@@ -1,7 +1,7 @@
-# DESCRIPTION
+# 11 DESCRIPTION
 
-Methotrexate (formerly Amethopterin) is an antimetabolite used in the treatment of certain neoplastic diseases, severe psoriasis, and adult rheumatoid arthritis.
-Chemically methotrexate is N-[4-[[(2,4-diamino-6-pteridinyl)methyl]methylamino]benzoyl]-L-glutamic acid.
+Methotrexate is dihydrofolate reductase inhibitor with the chemical name of N-[4-[[(2,4 diamino-6-pteridinyl) methyl]methylamino]benzoyl]-L-glutamic acid.
+The molecular formula is C20H22N8O5 and the molecular weight is 454.45 g/mol.
 The structural formula is:
 
 Methotrexate Tablets USP for oral administration are available as 2.5 mg tablets.
