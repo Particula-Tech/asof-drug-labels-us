@@ -1,9 +1,14 @@
-# DESCRIPTION
+# 11 DESCRIPTION
 
-Mercaptopurine was synthesized and developed by Hitchings, Elion, and associates at the Wellcome Research Laboratories.
-
-Mercaptopurine USP, known chemically as 6H-Purine-6-thione, 1,7-dihydro-monohydrate, is an analogue of the purine bases adenine and hypoxanthine.
+Mercaptopurine is a nucleoside metabolic inhibitor.
+The chemical name is 6H-purine-6-thione, 1,7-dihydro-, monohydrate.
+The molecular formula is C5H4N4S • H2O and the molecular weight is 170.20.
 Its structural formula is:
+
+Mercaptopurine is a yellow, crystalline powder.
+Mercaptopurine is practically insoluble in water and in ether.
+It has a pKa of 7.8, an average tapped density of 1.0 g/mL and average bulk density of 0.85 g/mL.
+It dissolves in solutions of alkali hydroxides.
 
 Mercaptopurine Tablets USP are available in tablet form for oral administration.
 Each scored tablet contains 50 mg mercaptopurine and the following inactive ingredients: corn starch, hypromellose, lactose (anhydrous), lactose monohydrate, magnesium stearate, potato starch, sodium starch glycolate and stearic acid.

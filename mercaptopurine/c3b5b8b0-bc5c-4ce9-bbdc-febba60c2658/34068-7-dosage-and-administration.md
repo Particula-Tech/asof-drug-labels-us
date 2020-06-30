@@ -1,31 +1,50 @@
-# DOSAGE AND ADMINISTRATION
+# 2 DOSAGE AND ADMINISTRATION
 
-## Maintenance Therapy
+## 2.1 Recommended Dosage
 
-Once a complete hematologic remission is obtained, maintenance therapy is considered essential.
-Maintenance doses will vary from patient to patient.
-The usual daily maintenance dose of mercaptopurine tablets is 1.5 to 2.5 mg/kg/day as a single dose.
-It is to be emphasized that in pediatric patients with acute lymphatic leukemia in remission, superior results have been obtained when mercaptopurine has been combined with other agents (most frequently with methotrexate) for remission maintenance.
-Mercaptopurine should rarely be relied upon as a single agent for the maintenance of remissions induced in acute leukemia.
+The recommended starting dosage of Mercaptopurine Tablets is 1.5 to 2.5 mg/kg orally once daily as part of combination chemotherapy maintenance regimen.
+A recommended dosage for patients less than 17 kg is not achievable, because the only available strength is 50 mg.
+Take Mercaptopurine Tablets either consistently with or without food.
 
-Procedures for proper handling and disposal of anticancer drugs should be considered.
-Several guidelines on this subject have been published.1-8 There is no general agreement that all of the procedures recommended in the guidelines are necessary or appropriate.
+After initiating Mercaptopurine Tablets, monitor complete blood count (CBC) and adjust the dose to maintain absolute neutrophil count (ANC) at a desirable level and for excessive myelosuppression.
+Evaluate the bone marrow in patients with prolonged myelosuppression or repeated episodes of myelosuppression to assess leukemia status and marrow cellularity.
 
-## Dosage with Concomitant Allopurinol
+Evaluate thiopurine S-methyltransferase (TPMT) and nucleotide diphosphatase (NUDT15) status in patients with severe myelosuppression or repeated episodes or myelosuppression [see Dosage and Administration (2.2)].
 
-When allopurinol and mercaptopurine are administered concomitantly, the dose of mercaptopurine must be reduced to one-third to one-quarter of the usual dose to avoid severe toxicity.
+Do not administer to patients who are unable to swallow tablets.
 
-## Dosage in Patients with TPMT and/or NUDT15 Deficiency
+If a patient misses a dose, instruct the patient to continue with the next scheduled dose.
+
+Mercaptopurine Tablets is a cytotoxic drug.
+Follow special handling and disposal procedures.1
+
+## 2.2 Dosage Modifications in Patients with TPMT and NUDT15 Deficiency
+
+Consider testing for TPMT and NUDT15 deficiency in patients who experience severe myelosuppression or repeated episodes of myelosuppression [see Warnings and Precautions (5.1), Clinical Pharmacology (12.5)].
 
 Homozygous Deficiency in either TPMT or NUDT15
 
-Patients with homozygous deficiency of either enzyme typically require 10% or less of the standard mercaptopurine dosage.
-Reduce initial dosage in patients who are known to have homozygous TPMT or NUDT15 deficiency.
+Patients with homozygous deficiency of either enzyme typically require 10% or less of the recommended dosage.
+Reduce the recommended starting dosage of Mercaptopurine Tablets in patients who are known to have homozygous TPMT or NUDT15 deficiency.
 
 Heterozygous Deficiency in TPMT and/or NUDT15
 
-Reduce the mercaptopurine dosage based on tolerability.
-Most patients with heterozygous TPMT or NUDT15 deficiency tolerate recommended mercaptopurine doses, but some require dose reduction based on toxicities.
-Patients who are heterozygous for both TPMT and NUDT15 may require more substantial dosage reductions.
+Reduce the Mercaptopurine Tablets dose based on tolerability.
+Most patients with heterozygous TPMT or NUDT15 deficiency tolerate the recommended dosage, but some require a dose reduction based on adverse reactions.
+Patients who are heterozygous for both TPMT and NUDT15 may require more substantial dose reductions.
 
-## Dosage in Renal and Hepatic Impairment
+## 2.3 Dosage Modifications in Renal and Hepatic Impairment
+
+Renal Impairment
+
+Use the lowest recommended starting dosage for Mercaptopurine Tablets in patients with renal impairment (CLcr less than 50 mL/min).
+Adjust the dosage to maintain absolute neutrophil count (ANC) at a desirable level and for adverse reactions [see Use in Specific Populations (8.6)].
+
+Hepatic Impairment
+
+Use the lowest recommended starting dosage for Mercaptopurine Tablets in patients with hepatic impairment.
+Adjust the dosage to maintain absolute neutrophil count (ANC) at a desirable level and for adverse reactions [see Uses in SpecificPopulations (8.7)].
+
+## 2.4 Dosage Modification with Concomitant Use of Allopurinol
+
+Reduce the dose of Mercaptopurine Tablets to one-third to one-quarter of the current dosage when co-administered with allopurinol [see Drug Interactions (7.1)].

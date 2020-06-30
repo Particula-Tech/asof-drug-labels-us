@@ -1,35 +1,23 @@
-# ADVERSE REACTIONS
+# 6 ADVERSE REACTIONS
 
-The principal and potentially serious toxic effects of mercaptopurine are bone marrow toxicity and hepatotoxicity (see WARNINGS and PRECAUTIONS).
+The following clinically significant adverse reactions are described elsewhere in the labeling:
 
-## Hematologic
+- •Myelosuppression [see Warnings and Precautions (5.1)]
+- •Hepatotoxicity [see Warnings and Precautions (5.2)]
+- •Immunosuppression [see Warnings and Precautions (5.3)]
+- •Treatment related malignancies [see Warnings and Precautions (5.4)]
+- •Macrophage activation syndrome [see Warnings and Precautions (5.5)]
 
-The most frequent adverse reaction to mercaptopurine is myelosuppression.
-The induction of complete remission of acute lymphatic leukemia frequently is associated with marrow hypoplasia.
-Patients without TPMT enzyme activity (homozygous-deficient) are particularly susceptible to hematologic toxicity, and some patients with low or intermediate TPMT enzyme activity are more susceptible to hematologic toxicity than patients with normal TPMT activity (see WARNINGS: Bone Marrow Toxicity), although the latter can also experience severe toxicity.
-Maintenance of remission generally involves multiple-drug regimens whose component agents cause myelosuppression.
-Anemia, leukopenia, and thrombocytopenia are frequently observed.
-Dosages and also schedules are adjusted to prevent life-threatening cytopenias.
+## 6.1 Clinical Trials Experience
 
-## Renal
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-Hyperuricemia and/or hyperuricosuria may occur in patients receiving mercaptopurine as a consequence of rapid cell lysis accompanying the antineoplastic effect.
-Renal adverse effects can be minimized by increased hydration, urine alkalinization, and the prophylactic administration of a xanthine oxidase inhibitor such as allopurinol.
-The dosage of mercaptopurine should be reduced to one-third to one-quarter of the usual dose if allopurinol is given concurrently.
+Based on multicenter cooperative group ALL trials, the most common adverse reaction occurring in > 20% of patients was myelosuppression, including anemia, neutropenia, lymphopenia and thrombocytopenia.
+Adverse reactions occurring in 5% to 20% of patients included anorexia, nausea, vomiting, diarrhea, malaise and rash.
+Adverse reactions occurring in < 5 % of patients included urticaria, hyperuricemia, oral lesions, increased transaminases, hyperbilirubinemia, hyperpigmentation, infections, and pancreatitis.
+Oral lesions resemble thrush rather than antifolic ulcerations.
+Delayed or late adverse reactions include hepatic fibrosis, hyperbilirubinemia, alopecia, pulmonary fibrosis, oligospermia and secondary malignancies [see Warnings and Precautions (5.1,5.2)].
 
-## Gastrointestinal
+Drug fever has been reported with mercaptopurine.
 
-Intestinal ulceration has been reported.
-Nausea, vomiting, and anorexia are uncommon during initial administration, but may increase with continued administration.
-Mild diarrhea and sprue-like symptoms have been noted occasionally, but it is difficult at present to attribute these to the medication.
-Oral lesions are rarely seen, and when they occur they resemble thrush rather than antifolic ulcerations.
-
-## Miscellaneous
-
-The administration of mercaptopurine has been associated with skin rashes and hyperpigmentation.
-Alopecia has been reported.
-
-Drug fever has been very rarely reported with mercaptopurine.
-Before attributing fever to mercaptopurine, every attempt should be made to exclude more common causes of pyrexia, such as sepsis, in patients with acute leukemia.
-
-Oligospermia has been reported.
+Additional adverse reactions that have been reported in patients who have received mercaptopurine include photosensitivity, hypoglycemia, and portal hypertension.
