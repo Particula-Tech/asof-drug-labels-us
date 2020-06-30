@@ -6,7 +6,7 @@ Study 1 was a randomized, open-label, controlled trial carried out in 53 U.S. si
 RA and RARS patients were included if they met one or more of the following criteria: required packed RBC transfusions; had platelet counts ≤50 x 109/L; required platelet transfusions; or were neutropenic (ANC<1 x 109/L) with infections requiring treatment with antibiotics.
 Patients with acute myelogenous leukemia (AML) were not intended to be included.
 Supportive care allowed in this study included blood transfusion products, antibiotics, antiemetics, analgesics and antipyretics.
-The use of hematopoeitic growth factors was prohibited.
+The use of hematopoietic growth factors was prohibited.
 Baseline patient and disease characteristics are summarized in Table 3; the 2 groups were similar.
 
 Azacitidine for injection was administered at a subcutaneous dose of 75 mg/m2 daily for 7 days every 4 weeks.
@@ -106,6 +106,7 @@ At baseline, 32% of patients met WHO criteria for AML.
 Azacitidine was administered subcutaneously at a dose of 75 mg/m2 daily for 7 consecutive days every 28 days (which constituted one cycle of therapy).
 Patients continued treatment until disease progression, relapse after response, or unacceptable toxicity.
 Azacitidine patients were treated for a median of 9 cycles (range 1 to 39), BSC only patients for a median of 7 cycles (range 1 to 26), low dose cytarabine patients for a median of 4.5 cycles (range 1 to 15), and chemotherapy with cytarabine and anthracycline patients for a median of 1 cycle (range 1 to 3, i.e. induction plus 1 or 2 consolidation cycles).
+
 In the Intent-to-Treat analysis, patients treated with azacitidine demonstrated a statistically significant difference in overall survival as compared to patients treated with CCR (median survival of 24.5 months vs. 15 months; stratified log-rank p=0.0001).
 The hazard ratio describing this treatment effect was 0.58 (95% CI: 0.43, 0.77).
 

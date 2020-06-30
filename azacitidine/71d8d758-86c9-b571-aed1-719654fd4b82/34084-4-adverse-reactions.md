@@ -15,7 +15,7 @@ The following adverse reactions are described in other labeling sections:
 Most Commonly Occurring Adverse Reactions (Subcutaneous or Intravenous Route): nausea, anemia, thrombocytopenia, vomiting, pyrexia, leukopenia, diarrhea, injection site erythema, constipation, neutropenia, ecchymosis.
 The most common adverse reactions by intravenous route also included petechiae, rigors, weakness and hypokalemia.
 
-Adverse Reactions Most Frequently (>2%) Resulting in Clinical Intervention (Subcutaneous or Intravenous Route): Discontinuation: leukopenia, thrombocytopenia, neutropenia.
+Adverse Reactions Most Frequently (>2%) Resulting in Clinical Intervention (SC or IV Route): Discontinuation: leukopenia, thrombocytopenia, neutropenia.
 Dose Held: leukopenia, neutropenia, thrombocytopenia, pyrexia, pneumonia, febrile neutropenia.
 Dose Reduced: leukopenia, neutropenia, thrombocytopenia.
 
@@ -40,7 +40,7 @@ Most patients received daily azacitidine for injection doses of 75 mg/m2.
 Table 1 presents adverse reactions occurring in at least 5% of patients treated with azacitidine for injection (subcutaneous) in Studies 1 and 2.
 It is important to note that duration of exposure was longer for the azacitidine for injection-treated group than for the observation group: patients received azacitidine for injection for a mean of 11.4 months while mean time in the observation arm was 6.1 months.
 
-Table 1: Most Frequently Observed Adverse Reactions (≥ 5% in All SC Azacitidine for Injection Treated Patients; Studies 1 and 2)
+Table 1: Most Frequently Observed Adverse Reactions (≥ 5.0% in All SC Azacitidine for Injection Treated Patients; Studies 1 and 2)
 
 |  | Number (%) of Patients |  |  |
 | --- | --- | --- | --- |
@@ -226,3 +226,4 @@ Because these reactions are reported voluntarily from a population of uncertain 
 - Injection site necrosis
 - Sweet’s syndrome (acute febrile neutrophilic dermatosis)
 - Necrotizing fasciitis (including fatal cases)
+- Differentiation syndrome

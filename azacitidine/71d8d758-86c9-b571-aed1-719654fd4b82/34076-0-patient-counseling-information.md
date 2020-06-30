@@ -6,7 +6,7 @@ Instruct patients to inform their physician about any underlying liver disease [
 
 Renal Toxicity
 
-Instruct patients to inform their physician about any underlying renal disease [see Warnings and Precautions (5.3) and Use in Specific Populations (8.6)].
+Instruct patients to inform their physician about any underlying renal disease [see Warnings and Precautions (5.3)].
 
 Embryo-Fetal Risk
 
@@ -24,8 +24,20 @@ Rx only
 
 Manufactured by:
 
+Cipla Ltd,Verna -Salcette
+
+Goa – 403722, INDIA
+
+Manufactured for:
+
 Dr. Reddy’s Laboratories Limited
 
-Visakhapatnam - 530 046 INDIA
+Bachupally – 500 090 INDIA
 
-Revised: 0818
+OR
+
+Manufactured by:
+
+Dr. Reddy’s Laboratories Limited
+
+Visakhapatnam 0320

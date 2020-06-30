@@ -11,7 +11,7 @@ Advise pregnant women of the potential risk to the fetus.
 
 The background rate of major birth defects and miscarriage is unknown for the indicated population.
 All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
-In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively.
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively.
 
 Data
 
@@ -50,7 +50,9 @@ Males
 
 Males with female sexual partners of reproductive potential should not father a child and should use effective contraception during treatment with azacitidine for injection.
 
-Infertility Based on animal data, azacitidine could have an effect on male or female fertility [see Nonclinical Toxicology (13.1)].
+Infertility
+
+Based on animal data, azacitidine could have an effect on male or female fertility [see Nonclinical Toxicology (13.1)].
 
 ## 8.4 Pediatric Use
 
