@@ -70,7 +70,7 @@ If the level of pain increases after dosage stabilization, attempt to identify t
 If unacceptable opioid-related adverse reactions are observed, consider reducing the dosage.
 Adjust the dosage to obtain an appropriate balance between management of pain and opioid-related adverse reactions.
 
-## 2.6 Discontinuation of Hydromorphone Hydrochloride Injection, USP (HIGH POTENCY)
+## 2.6 Discontinuation of Hydromorphone Hydrochloride Injection (HIGH POTENCY)
 
 When a patient who has been taking Hydromorphone Hydrochloride Injection, USP (HIGH POTENCY) regularly and may be physically dependent no longer requires therapy with Hydromorphone Hydrochloride Injection, USP (HIGH POTENCY), taper the dose gradually, by 25% to 50% every 2 to 4 days, while monitoring carefully for signs and symptoms of withdrawal.
 If the patient develops these signs or symptoms, raise the dose to the previous level and taper more slowly, either by increasing the interval between decreases, decreasing the amount of change in dose, or both.
