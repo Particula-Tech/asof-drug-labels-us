@@ -70,12 +70,15 @@ Pregnancy
 
 Advise patients to notify their healthcare provider if they are pregnant or plan to become pregnant [see Use in Specific Populations (8.1)].
 
-Manufactured in Israel By: TEVA PHARMACEUTICAL IND.
-LTD. Jerusalem, 9777402, Israel
+Distributed by:
 
-Manufactured For: Teva Pharmaceuticals USA, Inc. North Wales, PA 19454
+Teva Pharmaceuticals USA, Inc.
 
-RAS-003
+Parsippany, NJ 07054
+
+©2020 Teva Pharmaceuticals USA, Inc.
+
+RAS-005
 
 Rev.
-1/2019
+6/2020

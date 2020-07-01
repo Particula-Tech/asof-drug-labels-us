@@ -21,7 +21,7 @@ Selectivity for inhibiting MAO-B diminishes in a dose-related manner as the dose
 Serotonin syndrome has been reported with concomitant use of an antidepressant (e.g., selective serotonin reuptake inhibitors-SSRIs, serotonin-norepinephrine reuptake inhibitors-SNRIs, tricyclic antidepressants, tetracyclic antidepressants, triazolopyridine antidepressants) and a nonselective MAOI (e.g., phenelzine, tranylcypromine) or selective MAO-B inhibitors, such as selegiline (Eldepryl) and rasagiline.
 Serotonin syndrome has also been reported with concomitant use of rasagiline with meperidine, tramadol, methadone, or propoxyphene.
 
-Rasagiline is contraindicated for use with meperidine, tramadol, methadone, propoxyphene and MAO inhibitors (MAOIs), including other selective MAO-B inhibitors [see Contraindications (4) and Drug Interactions (7.1, 7.2, 7.3)].
+Rasagiline is contraindicated for use with meperidine, tramadol, methadone, propoxyphene, and MAO inhibitors (MAOIs), including other selective MAO-B inhibitors [see Contraindications (4) and Drug Interactions (7.1, 7.2, 7.3)].
 
 In the postmarketing period, potentially life-threatening serotonin syndrome has been reported in patients treated with antidepressants concomitantly with rasagiline.
 Concomitant use of rasagiline with one of many classes of antidepressants (e.g., SSRIs, SNRIs, triazolopyridine, tricyclic or tetracyclic antidepressants) is not recommended [see Drug Interactions (7.5)].
@@ -69,7 +69,7 @@ In Study 3, the incidence of orthostatic hypotension consisting of a systolic bl
 At the 1 mg dose, the frequency of orthostatic hypotension (at any time during the study) was approximately 44% for rasagiline vs 33% for placebo for mild to moderate systolic blood pressure decrements (> 20 mm Hg), 40% for rasagiline vs 33% for placebo for mild to moderate diastolic blood pressure decrements (> 10 mm Hg), 7% for rasagiline vs 3% for placebo for severe systolic blood pressure decrements (> 40 mm Hg), and 9% for rasagiline vs 6% for placebo for severe diastolic blood pressure decrements (≥ 20 mm Hg).
 There was also an increased risk for some of these abnormalities at the lower 0.5 mg daily dose and for an individual patient having mild to moderate or severe orthostatic hypotension for both systolic and diastolic blood pressure.
 
-In Study 2 where rasagiline was given as an adjunct therapy in patients not taking concomitant levodopa, there were 5 reports of orthostatic hypotension in patients taking rasagiline 1 mg (3.1%) and 1 report in patients taking placebo (0.6%) [see Adverse Reactions(6.1)].
+In Study 2 where rasagiline was given as an adjunct therapy in patients not taking concomitant levodopa, there were 5 reports of orthostatic hypotension in patients taking rasagiline 1 mg (3.1%) and 1 report in patients taking placebo (0.6%) [see Adverse Reactions (6.1)].
 
 Clinical trial data further suggest that orthostatic hypotension occurs most frequently in the first two months of rasagiline treatment and tends to decrease over time.
 
