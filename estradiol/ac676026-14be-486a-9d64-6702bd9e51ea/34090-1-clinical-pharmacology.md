@@ -1,62 +1,59 @@
-# CLINICAL PHARMACOLOGY
+# 12 CLINICAL PHARMACOLOGY
 
-Endogenous estrogens are largely responsible for the development and maintenance of the female reproductive system and secondary sexual characteristics.
-Although circulating estrogens exist in a dynamic equilibrium of metabolic interconversions, estradiol is the principal intracellular human estrogen and is substantially more potent than its metabolites, estrone and estriol, at the receptor level.
-The primary source of estrogen in normally cycling adult women is the ovarian follicle, which secretes 70 to 500 mcg of estradiol daily, depending on the phase of the menstrual cycle.
-After menopause, most endogenous estrogen is produced by conversion of androstenedione, secreted by the adrenal cortex, to estrone by peripheral tissues.
-Thus, estrone and the sulfate conjugated form, estrone sulfate, are the most abundant circulating estrogens in postmenopausal women.
+## 12.1 Mechanism of Action
 
-Estrogens act through binding to nuclear receptors in estrogen-responsive tissues.
-To date, two estrogen receptors have been identified.
-These vary in proportion from tissue to tissue.
-Circulating estrogens modulate the pituitary secretion of the gonadotropins, luteinizing hormone (LH) and follicle stimulating hormone (FSH) through a negative feedback mechanism.
-Estrogens act to reduce the elevated levels of these hormones seen in postmenopausal women.
+Endogenous and exogenous estrogens bind to estrogen receptors (estrogen receptor α or β) that are localized in target cells distributed throughout the body including the hypothalamus of the brain, reproductive tract, and bone.
+Reduced estrogen levels seen after menopause directly impact the structure and function of target tissues.
+In the brain, reductions in circulating estrogen result in changes to the production and release of neurochemicals that control thermal regulation, resulting in hot flushes or vasomotor symptoms.
+Reduced estrogen levels also lead to loss of vulvar and vaginal cells that produce and secrete fluids that address drying.
+In bone, cells responsible for bone formation are also sensitive to estrogen and reductions in estrogen result in a loss of bone deposition and density.
 
-## Pharmacokinetics
+## 12.2 Pharmacodynamics
 
-The skin metabolizes estradiol only to a small extent.
-In contrast, orally administered estradiol is rapidly metabolized by the liver to estrone and its conjugates, giving rise to higher circulating levels of estrone than estradiol.
-Therefore, transdermal administration produces therapeutic plasma levels of estradiol with lower levels of estrone and estrone conjugates and requires smaller total doses than does oral therapy.
+Generally, a serum concentration does not predict an individual woman’s therapeutic response to Alora nor her risk for adverse outcomes.
+Likewise, exposure comparisons across different estrogen products to infer efficacy or safety for the individual woman may not be valid.
+
+## 12.3 Pharmacokinetics
+
+The apparent mean (SD) serum half-life of estradiol is 1.75 ± 2.87 hours following Alora application.
 
 Absorption
 
 Estradiol is transported across intact skin and into the systemic circulation by a passive diffusion process, the rate of diffusion across the stratum corneum being the principal factor.
-Alora presents sufficient concentration of estradiol to the surface of the skin to maintain continuous transport over the 3 to 4 day dosing interval.
+Alora maintains continuous transport of estradiol to the surface of the skin over the 3 to 4 day dosing interval.
 
 Direct measurement of total absorbed dose of estradiol through analysis of residual estradiol content of systems worn over a continuous 4-day interval during 251 separate occasions in 123 postmenopausal women demonstrated that the average daily dose absorbed from Alora was 0.003 ± 0.001 mg estradiol per cm2 active surface area.
 The nominal mean in vivo daily delivery rates of estradiol calculated from these data are 0.027 mg/day, 0.054 mg/day, 0.081 mg/day, and 0.11 mg/day for the 9 cm2, 18 cm2, 27 cm2, and 36 cm2 Alora, respectively.
 
-In another study, 20 women also were treated with three consecutive doses of Alora 0.05 mg/day, Alora 0.075 mg/day and Alora 0.1 mg/day on abdominal application sites.
-Mean steady-state estradiol serum concentrations observed over the dosing interval are shown in Figure 1.
+In another study, 20 women also were treated with three consecutive doses of Alora 0.05 mg/day, Alora 0.075 mg/day and Alora 0.1 mg/day administered in a twice weekly regimen for three weeks to the abdominal application sites.
+Mean steady-state estradiol serum concentrations observed over the dosing interval are shown in Figure 1 and a summary of estradiol pharmacokinetic parameters is provided in Table 2.
 
-Figure 1 Mean steady-state estradiol serum concentration during the third twice weekly dose of Alora 0.1 mg/day, Alora 0.075 mg/day, and Alora 0.05 mg/day in 20 postmenopausal women.
+Figure 1 Mean Steady-State Estradiol Serum Concentration During the Third Twice Weekly Dose of Alora 0.1 mg/day, Alora 0.075 mg/day, and Alora 0.05 mg/day in 20 Postmenopausal Women.
 
-In a single dose randomized crossover study conducted to compare the effect of site of Alora application, 31 postmenopausal women wore single Alora 0.05 mg/day for 4-day periods on the lower abdomen, upper quadrant of the buttocks, and outside aspect of the hip.
-The estradiol serum concentration profiles are shown in Figure 2.
+Table 2 Mean (SD) Pharmacokinetic Profile of Estradiol Over an 84-hour Dosing Interval following the Third Twice Weekly Dose of Alora 0.1 mg/day, Alora 0.075 mg/day, and Alora 0.05 mg/day in Postmenopausal Women.
 
-Figure 2 Mean estradiol serum concentrations during a single 4-day wearing of Alora 0.05 mg/day applied by 31 postmenopausal women to the lower abdomen, upper quadrant of the buttocks or outer aspect of the hip.
+In a single-dose randomized crossover study conducted to compare the effect of site of Alora application, 31 postmenopausal women wore single Alora 0.05 mg/day for 4-day periods on the lower abdomen, upper quadrant of the buttocks, and outside aspect of the hip.
+The estradiol serum concentration profiles are shown in Figure 2 and a summary of estradiol pharmacokinetic parameters is provided in Table 3.
 
-* Cmax and Cavg statistically different from abdomen
+Figure 2 Mean Estradiol Serum Concentrations During a Single 4-Day Wearing of Alora 0.05 mg/day Applied by 31 Postmenopausal Women to the Lower Abdomen, Upper Quadrant of the Buttocks or Outer Aspect of the Hip.
 
-Table 1 provides a summary of the estradiol pharmacokinetic parameters studied during biopharmaceutic evaluation of Alora.
+*Cmax and Cavg statistically different from abdomen
 
-Table 1 Mean (SD) Pharmacokinetic Profile of Alora Over an 84-hour Dosing Interval.
+Table 3 Mean (SD) Pharmacokinetic Profile of Estradiol Following Application of Alora 0.05 mg/day in Postmenopausal Women to the Lower Abdomen, Upper Quadrant of the Buttocks or Outer Aspect of the Hip.
 
-| Alora (mg/day) | Application Site | N | Dosing | Cmax (pg/ml) | Cmin (pg/ml) | Cavg (pg/ml) | CL (L/hr) |
+| Alora (mg/day) | Application Site | N | Dosing | Cmax (pg/mL) | Cmin (pg/mL) | Cavg (pg/mL) | CL (L/hr) |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 0.05 | Abdomen | 20 | Multiple | 92 (33) | 43 (12) | 64 (19) | 54 (18) |
-| 0.075 | Abdomen | 20 | Multiple | 120 (60) | 53 (23) | 86 (40) | 53 (12) |
-| 0.1 | Abdomen | 42 | Multiple | 144 (57) | 58 (20) | 98 (38) | 61 (18) |
-|  | Abdomen | 31 | Single | 53 (23) | - | 41 (18) | 69 (22) |
-| 0.05 | Buttock | 31 | Single | 67 (45) | - | 45 (21) | 66 (23) |
+| 0.05 | Abdomen | 31 | Single | 53 (23) | - | 41 (18) | 69 (22) |
+|  | Buttock | 31 | Single | 67 (45) | - | 45 (21) | 66 (23) |
 |  | Hip* | 31 | Single | 69 (30) | - | 48 (17) | 62 (18) |
 
 *Cmax and Cavg statistically different from abdomen
 
 Steady-state estradiol serum concentrations were measured in two well-controlled clinical trials in the treatment of menopausal symptoms of 3 month duration (Studies 1 and 2), and one trial in the prevention of postmenopausal osteoporosis of 2 year duration (Study 3).
-Table 2 provides a summary of these data.
 
-Table 2 Mean (SD) steady-state estradiol serum concentrations (pg/ml) in clinical trials of 3 month (Studies 1 and 2) and 2 year (Study 3) duration.
+Table 4 provides a summary of these data.
+
+Table 4 Mean (SD) Steady-State Estradiol Serum Concentrations (pg/mL) in Clinical Trials of 3 Month (Trials 1 and 2) and 2 Year (Trial 3) Duration.
 
 | Alora (mg/day) | Study 1 | Study 2 | Study 3 |
 | --- | --- | --- | --- |
@@ -65,7 +62,7 @@ Table 2 Mean (SD) steady-state estradiol serum concentrations (pg/ml) in clinica
 | 0.075 | - | - | 56.7 (36.8) |
 | 0.1 | 99.2 (77.0) | 97.0 (87.5) | - |
 
-In a 2-year, randomized, double-blind, placebo-controlled, prevention of postmenopausal osteoporosis study in 355 hysterectomized women, the average baseline-adjusted steady-state estradiol serum concentrations were 18.6 pg/ml (45 patients) for the 0.025 mg/day dose, 35.9 pg/ml (47 patients) for the 0.05 mg/day dose, and 50.1 pg/ml (46 patients) for the 0.075 mg/day dose.
+In a 2-year, randomized, double-blind, placebo-controlled, prevention of postmenopausal osteoporosis study in 355 hysterectomized women, the average baseline-adjusted steady-state estradiol serum concentrations were 18.6 pg/mL (45 patients) for the 0.025 mg/day dose, 35.9 pg/mL (47 patients) for the 0.05 mg/day dose, and 50.1 pg/mL (46 patients) for the 0.075 mg/day dose.
 These values were linearly related and dose proportional.
 
 Distribution
@@ -87,26 +84,11 @@ In postmenopausal women a significant portion of the circulating estrogens exist
 Excretion
 
 Estradiol, estrone and estriol are excreted in the urine along with glucuronide and sulfate conjugates.
-The apparent mean (SD) serum half-life of estradiol determined from biopharmaceutic studies conducted with Alora is 1.75 ± 2.87 hours.
 
-## Special Populations
+## 12.6Adhesion
 
-Alora has been studied only in healthy postmenopausal women (approximately 90% Caucasian).
-There are no long term studies in postmenopausal women with an intact uterus.
-No pharmacokinetic studies were conducted in other special populations, including patients with renal or hepatic impairment.
-
-## Drug Interactions
-
-In vitro and in vivo studies have shown that estrogens are metabolized partially by cytochrome P450 3A4 (CYP3A4).
-Therefore, inducers or inhibitors of CYP3A4 may affect estrogen drug metabolism.
-Inducers of CYP3A4 such as St. John’s Wort preparations (Hypericum perforatum), phenobarbital, phenytoin, carbamazepine, rifampin and dexamethasone may reduce plasma concentrations of estrogens, possibly resulting in a decrease in therapeutic effects and/or changes in the uterine bleeding profile.
-Inhibitors of CYP3A4 such as cimetidine, erythromycin, clarithromycin, ketoconazole, itraconazole, ritonavir, and grapefruit juice may increase plasma concentrations of estrogens and may result in side effects.
-
-## Adhesion
-
-The adhesion potential of Alora was evaluated in a randomized clinical trial involving 408 healthy postmenopausal women who wore placebo systems corresponding to the 18 cm2 size Alora.
-The placebos were applied twice weekly for 4 weeks on the lower quadrant of the abdomen.
-It should be noted that the lower abdomen, the upper quadrant of the buttocks or outer aspect of the hip are the approved sites of application for Alora.
+The adhesion potential of Alora was evaluated in a randomized clinical trial involving 408 healthy postmenopausal women who wore placebo transdermal systems corresponding to the 18 cm2 size Alora.
+The placebo transdermal systems were applied twice weekly for 4 weeks on the lower quadrant of the abdomen (the lower abdomen, the upper quadrant of the buttocks or outer aspect of the hip are the approved recommended application sites).
 Subjects were instructed not to do strenuous activities, take baths, use hot tubs or swim.
 In 968 observations, there was a partial or complete adhesion rate of approximately 97%.
 The total detachment rate was approximately 3%.
