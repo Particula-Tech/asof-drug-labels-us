@@ -13,17 +13,17 @@ See FDA-approved patient labeling (Patient Information).
 - Caution patients about operating an automobile or other hazardous machinery until it is reasonably certain that AMRIX therapy will not adversely affect their ability to engage in such activities.
 - Advise patients to take AMRIX at approximately the same time each day.
 
-Distributed By: Teva Pharmaceuticals USA, Inc. North Wales, PA 19454
+Distributed By: Teva Pharmaceuticals USA, Inc. Parsippany, NJ 07054
 
 Manufactured By: Adare Pharmaceuticals, Inc. Vandalia, OH 45377
 
-AMR-010
+AMR-011
 
 Rev.
-4/2019
+5/2020
 
-US Patent Nos. 7387793, 7544372, 7790199, 7820203, 7829121, 9375410, 9399025
+US Patent Nos. 7387793, 7544372, 7790199, 7820203, 7829121, 8877245, 9375410, 9399025
 
-© 2004-2019 Teva Pharmaceuticals USA, Inc.
+© 2020 Teva Pharmaceuticals USA, Inc.
 
 All rights reserved.

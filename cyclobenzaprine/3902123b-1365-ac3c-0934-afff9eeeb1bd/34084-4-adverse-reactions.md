@@ -56,7 +56,7 @@ Metabolic, Nutritional, and Immune: Elevation and lowering of blood sugar levels
 
 Musculoskeletal: Local weakness; myalgia.
 
-Nervous System and Psychiatric: Seizures, ataxia; vertigo; dysarthria; tremors; hypertonia; convulsions; muscle twitching; disorientation; insomnia; depressed mood; abnormal sensations; anxiety; agitation; psychosis, abnormal thinking and dreaming; hallucinations; excitement; paresthesia; diplopia; serotonin syndrome; neuroleptic malignant syndrome; decreased or increased libido; abnormal gait; delusions; aggressive behavior; paranoia; peripheral neuropathy; Bell’s palsy; alteration in EEG patterns; extrapyramidal symptoms.
+Nervous System and Psychiatric: Seizures; ataxia; vertigo; dysarthria; tremors; hypertonia; convulsions; muscle twitching; disorientation; insomnia; depressed mood; abnormal sensations; anxiety; agitation; psychosis; abnormal thinking and dreaming; hallucinations; excitement; paresthesia; diplopia; serotonin syndrome; neuroleptic malignant syndrome; decreased or increased libido; abnormal gait; delusions; aggressive behavior; paranoia; peripheral neuropathy; Bell’s palsy; alteration in EEG patterns; extrapyramidal symptoms.
 
 Respiratory: Dyspnea.
 
