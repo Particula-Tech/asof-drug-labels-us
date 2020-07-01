@@ -6,4 +6,4 @@ Levofloxacin is not efficiently removed by hemodialysis or peritoneal dialysis.
 
 Levofloxacin exhibits a low potential for acute toxicity.
 Mice, rats, dogs and monkeys exhibited the following clinical signs after receiving a single high dose of levofloxacin: ataxia, ptosis, decreased locomotor activity, dyspnea, prostration, tremors, and convulsions.
-Doses in excess of 1500 mg/kg orally and 250 mg/kg IV produced significant mortality in rodents.
+Doses in excess of 1500 mg/kg orally (approximately 10 or 19 times MRHD in mice and rats, respectively) and 250 mg/kg IV produced significant mortality (estimated to be greater than or equal to 50%) in rodents.

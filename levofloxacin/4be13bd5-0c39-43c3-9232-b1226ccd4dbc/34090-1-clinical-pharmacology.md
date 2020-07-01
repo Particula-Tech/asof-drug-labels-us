@@ -201,7 +201,9 @@ Chlamydophila pneumoniae
 
 Mycoplasma pneumoniae
 
-The following in vitro data are available, but their clinical significance is unknown: Levofloxacin exhibits in vitro minimum inhibitory concentrations (MIC values) of 2 mcg/mL or less against most (≥90%) isolates of the following microorganisms; however, the safety and effectiveness of levofloxacin in treating clinical infections due to these bacteria have not been established in adequate and well-controlled clinical trials.
+The following in vitro data are available, but their clinical significance is unknown.
+At least 90 percent of the following bacteria exhibit an in vitro minimum inhibitory concentrations (MIC) less than or equal to the susceptible breakpoint for levofloxacin against isolates of similar genus or organism group.
+However, efficacy of levofloxacin in treating clinical infections caused by these bacteria has not been established in adequate and well-controlled clinical trials.
 
 Aerobic bacteria
 

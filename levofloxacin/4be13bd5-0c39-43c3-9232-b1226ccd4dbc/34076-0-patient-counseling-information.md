@@ -36,6 +36,8 @@ Inform patients of the following serious adverse reactions that have been associ
   Inform patients to minimize or avoid exposure to natural or artificial sunlight (tanning beds or UVA/B treatment) while taking fluoroquinolones.
   If patients need to be outdoors while using fluoroquinolones, instruct them to wear loose-fitting clothes that protect skin from sun exposure and discuss other sun protection measures with their physician.
   If a sunburn-like reaction or skin eruption occurs, instruct patients to contact their physician.
+- Lactation: Advise a lactating woman that she may pump and discard during treatment with levofloxacin tablets and for an additional 2 days after the last dose.
+  Alternatively, advise a lactating woman that breastfeeding is not recommended during treatment with levofloxacin tablets and for an additional 2 days after the last dose [see USE IN SPECIFIC POPULATIONS (8.2)].
 
 Antibacterial Resistance
 
@@ -81,4 +83,4 @@ Goa 403 722
 
 INDIA.
 
-Revised: June 2019 ID#: 261026
+Revised: July 2020 ID#: 261776

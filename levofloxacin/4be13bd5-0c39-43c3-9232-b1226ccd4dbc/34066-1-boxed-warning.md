@@ -12,6 +12,6 @@ Discontinue levofloxacin immediately and avoid the use of fluoroquinolones, incl
 - Fluoroquinolones, including levofloxacin, may exacerbate muscle weakness in patients with myasthenia gravis.
   Avoid levofloxacin in patients with a known history of myasthenia gravis [see WARNINGS AND PRECAUTIONS (5.5)].
 - Because fluoroquinolones, including levofloxacin, have been associated with serious adverse reactions [see WARNINGS AND PRECAUTIONS (5.1 to 5.15)], reserve levofloxacin for use in patients who have no alternative treatment options for the following indications:
-  - Uncomplicated urinary tract infection [see INDCATIONS AND USAGE (1.12)]
+  - Uncomplicated urinary tract infection [see INDICATIONS AND USAGE (1.12)]
   - Acute bacterial exacerbation of chronic bronchitis [see INDICATIONS AND USAGE (1.13)]
   - Acute bacterial sinusitis[see INDICATIONS AND USAGE (1.14)]
