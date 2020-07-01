@@ -10,5 +10,5 @@ It is practically insoluble in water.
 
 Travoprost ophthalmic solution, USP (ionic buffered solution) 0.004% is supplied as sterile, buffered aqueous solution of travoprost with a pH of approximately 5.7 and an osmolality of approximately 290 mOsmol/kg.
 
-Travoprost ophthalmic solution, USP (ionic buffered solution) contains Active: travoprost 0.04 mg/mL; Inactives: polyoxyl 40 hydrogenated castor oil, ionic buffered system (boric acid, propylene glycol, sorbitol, zinc chloride), sodium hydroxide and/or hydrochloric acid (to adjust pH) and water for injection.
+Travoprost ophthalmic solution, USP (ionic buffered solution) contains Active: travoprost 0.04 mg/mL; Inactives: polyoxyl 40 hydrogenated castor oil, ionic buffered system (boric acid, propylene glycol, sorbitol, zinc chloride), sodium hydroxide and/or hydrochloric acid (to adjust pH), and water for injection.
 Preserved in the bottle with an ionic buffered system.

@@ -4,13 +4,13 @@
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-The most common adverse reaction observed in controlled clinical trials with travoprost ophthalmic solution 0.004% and travoprost ophthalmic solution (ionic buffered solution) 0.004% was ocular hyperemia which was reported in 30% to 50% of patients.
+The most common adverse reaction observed in controlled clinical trials with travoprost ophthalmic solution 0.004% and travoprost ophthalmic solution (ionic buffered solution) 0.004% was ocular hyperemia, which was reported in 30% to 50% of patients.
 Up to 3% of patients discontinued therapy due to conjunctival hyperemia.
-Ocular adverse reactions reported at an incidence of 5% to 10% in these clinical trials included decreased visual acuity, eye discomfort, foreign body sensation, pain and pruritus.
+Ocular adverse reactions reported at an incidence of 5% to 10% in these clinical trials included decreased visual acuity, eye discomfort, foreign body sensation, pain, and pruritus.
 
-Ocular adverse reactions reported at an incidence of 1% to 4% in clinical trials with travoprost ophthalmic solution or travoprost ophthalmic solution (ionic buffered solution) included abnormal vision, blepharitis, blurred vision, cataract, conjunctivitis, corneal staining, dry eye, iris discoloration, keratitis, lid margin crusting, ocular inflammation, photophobia, subconjunctival hemorrhage and tearing.
+Ocular adverse reactions reported at an incidence of 1% to 4% in clinical trials with travoprost ophthalmic solution or travoprost ophthalmic solution (ionic buffered solution) included abnormal vision, blepharitis, blurred vision, cataract, conjunctivitis, corneal staining, dry eye, iris discoloration, keratitis, lid margin crusting, ocular inflammation, photophobia, subconjunctival hemorrhage, and tearing.
 
-Nonocular adverse reactions reported at an incidence of 1% to 5% in these clinical studies were allergy, angina pectoris, anxiety, arthritis, back pain, bradycardia, bronchitis, chest pain, cold/flu syndrome, depression, dyspepsia, gastrointestinal disorder, headache, hypercholesterolemia, hypertension, hypotension, infection, pain, prostate disorder, sinusitis, urinary incontinence and urinary tract infections.
+Non-ocular adverse reactions reported at an incidence of 1% to 5% in these clinical studies were allergy, angina pectoris, anxiety, arthritis, back pain, bradycardia, bronchitis, chest pain, cold/flu syndrome, depression, dyspepsia, gastrointestinal disorder, headache, hypercholesterolemia, hypertension, hypotension, infection, pain, prostate disorder, sinusitis, urinary incontinence, and urinary tract infections.
 
 ## 6.2 Postmarketing Experience
 
