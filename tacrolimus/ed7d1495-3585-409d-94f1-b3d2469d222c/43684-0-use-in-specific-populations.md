@@ -78,7 +78,7 @@ TPRI Reported Pregnancy Outcomes in Transplant Recipients with Exposure to Tacro
 | * Includes multiple births and terminations. |  |  |
 | † Birth defect rate confounded by concomitant MPA products exposure in over half of offspring with birth defects. |  |  |
 
-Additional information reported by TPRI in pregnant transplant patients receiving tacrolimus included diabetes during pregnancy in 9% of kidney recipients and 13% of liver recipients and hypertension during pregnancy in 53% of kidney recipients and 16.2% of liver recipients.
+Additional information reported by TPRI in pregnant transplant patients receiving tacrolimus included diabetes during pregnancy in 9% of kidney recipients and 13% of liver recipients, and hypertension during pregnancy in 53% of kidney recipients and 16.2% of liver recipients.
 
 Animal Data
 
@@ -99,7 +99,7 @@ Risk Summary
 
 Controlled lactation studies have not been conducted in humans; however, tacrolimus has been reported to be present in human milk.
 The effects of tacrolimus on the breastfed infant, or on milk production have not been assessed.
-Tacrolimus is excreted in rat milk and in peri-/postnatal rat studies, exposure to tacrolimus during the postnatal period was associated with developmental toxicity in the offspring at clinically relevant doses [see Pregnancy (8.1), Nonclinical Toxicology (13.1)].
+Tacrolimus is excreted in rat milk and in peri-/postnatal rat studies; exposure to tacrolimus during the postnatal period was associated with developmental toxicity in the offspring at clinically relevant doses [see Pregnancy (8.1) and Nonclinical Toxicology (13.1)].
 
 The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for tacrolimus and any potential adverse effects on the breastfed child from tacrolimus or from the underlying maternal condition.
 
@@ -108,7 +108,7 @@ The developmental and health benefits of breastfeeding should be considered alon
 Contraception
 
 Tacrolimus can cause fetal harm when administered to pregnant women.
-Advise female and male patients of reproductive potential to speak to their healthcare provider on family planning options including appropriate contraception prior to starting treatment with tacrolimus [see Use in Specific Populations (8.1), Nonclinical Toxicology (13.1)].
+Advise female and male patients of reproductive potential to speak to their healthcare provider on family planning options including appropriate contraception prior to starting treatment with tacrolimus [see Use in Specific Populations (8.1) and Nonclinical Toxicology (13.1)].
 
 Infertility
 
@@ -120,7 +120,7 @@ Safety and effectiveness have been established in pediatric liver, kidney, and h
 
 Liver transplant:
 
-Safety and efficacy using tacrolimus granules in pediatric de novo liver transplant patients less than 16 years of age are based on evidence from active controlled studies that included 56 pediatric patients, 31 of which received tacrolimus and supported by two pharmacokinetic and safety studies in 151 children who received tacrolimus.
+Safety and efficacy using tacrolimus granules in pediatric de novo liver transplant patients less than 16 years of age are based on evidence from active controlled studies that included 56 pediatric patients, 31 of which received tacrolimus, and supported by two pharmacokinetic and safety studies in 151 children who received tacrolimus.
 Additionally, 122 pediatric patients were studied in an uncontrolled trial of tacrolimus in living related donor liver transplantation.
 Dose adjustments were made in the PK studies based on clinical status and whole blood concentrations.
 Pediatric patients generally required higher doses of tacrolimus to maintain blood trough concentrations of tacrolimus similar to adult patients [see Dosage and Administration (2.3), Adverse Reactions (6.1), Clinical Pharmacology (12.3) and Clinical Studies (14.2)].

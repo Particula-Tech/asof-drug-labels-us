@@ -6,7 +6,8 @@ Tacrolimus Capsules, USP
 
 Read this Patient Information before you start taking tacrolimus and each time you get a refill.
 There may be new information.
-This information does not take the place of talking with your doctor about your medical condition or your treatment.
+This information does not take the place of talking with your healthcare provider about your medical condition or your treatment.
+If you have any questions about tacrolimus, ask your healthcare provider or pharmacist.
 
 What is the most important information I should know about tacrolimus?
 
@@ -18,12 +19,12 @@ Tacrolimus can cause serious side effects, including:
   Tacrolimus is a medicine that affects your immune system.
   Tacrolimus can lower the ability of your immune system to fight infections.
   Serious infections can happen in people receiving tacrolimus that can cause death.
-  Call your doctor right away if you have symptoms of an infection including:
+  Call your healthcare provider right away if you have any symptoms of an infection including:
 - Fever
-- muscle aches
-- warm, red, or painful areas on your fever
 - sweats or chills
-- cough or flu-like symptoms skin
+- cough or flu-like symptoms
+- muscle aches
+- warm, red, or painful areas on your skin
 
 What is tacrolimus?
 
@@ -44,7 +45,8 @@ Before you take tacrolimus, tell your healthcare provider about all of your medi
 - plan to receive any live vaccines.
   People taking tacrolimus should not receive live vaccines.
 - have or have had liver, kidney, or heart problems.
-- are pregnant or plan to become pregnant. tacrolimus can harm your unborn baby.
+- are pregnant or plan to become pregnant.
+  Tacrolimus can harm your unborn baby.
   - If you are able to become pregnant, you should use effective birth control before and during treatment with tacrolimus.
     Talk to your healthcare provider before starting treatment with tacrolimus about birth control methods that may be right for you.
   - Males who have female partners who are able to become pregnant should also use effective birth control before and during treatment with tacrolimus.
@@ -73,6 +75,7 @@ Especially tell your healthcare provider if you take:
 - telaprevir (INCIVEK)
 - boceprevir
 - ritonavir (KALETRA, NORVIR, TECHNIVIE, VIEKIRA PAK, VIEKIRA XR)
+- letermovir (PREVYMIS)
 - ketoconazole
 - itraconazole (ONMEL, SPORANOX)
 - voriconazole (VFEND)
@@ -88,17 +91,17 @@ Tacrolimus may affect the way other medicines work, and other medicines may affe
 Know the medicines you take.
 Keep a list of your medicines and show it to your healthcare provider and pharmacist when you get a new medicine.
 
-How Should I Take tacrolimus?
+How should I take tacrolimus capsules?
 
 - Take tacrolimus capsules exactly as your healthcare provider tells you to take it.
 - Your healthcare provider will tell you how many tacrolimus capsules to take and when to take them.
-- Your healthcare provider may change your tacrolimus capsules dose if needed.
+  Your healthcare provider may change your tacrolimus capsules dose if needed.
   Do not stop taking or change your dose of tacrolimus capsules without talking to your healthcare provider.
 - Take tacrolimus capsules with or without food.
 - Take tacrolimus capsules the same way every day.
   For example, if you choose to take tacrolimus capsules with food, you should always take tacrolimus capsules with food.
-- Take tacrolimus capsules at the same time each day.
-  For example, if you take your first dose at 7: 00 a.m. you should take your second dose at 7:00 p.m
+- Take tacrolimus capsules at the same time each day, 12 hours apart.
+  For example, if you take your first dose at 7:00 a.m. you should take your second dose at 7:00 p.m.
 - Taking tacrolimus capsules at the same time each day helps to keep the amount of medicine in your body at a steady level.
 - Do not eat grapefruit or drink grapefruit juice while taking tacrolimus capsules.
 - If you take too much tacrolimus capsules, call your healthcare provider or go to the nearest hospital emergency room right away.
@@ -170,7 +173,7 @@ The most common side effects of tacrolimus capsules in people who have received 
 - headache
 - stomach pain
 - trouble sleeping
-- nauseal
+- nausea
 - high blood sugar (diabetes)
 - low levels of magnesium in your blood
 - low levels of phosphate in your blood
@@ -195,9 +198,9 @@ You may report side effects to Strides Pharma Inc at 1-877-244-9825 or go to www
 
 How should I store tacrolimus capsules?
 
-- Store tacrolimus capsules at 68°F-77°F (20°C-25°C)
+Store Tacrolimus capsules at room temperature between 68°F to 77°F (20°C-25°C)
 
-Keep tacrolimus capsules and all medicines out of reach of children.
+Keep tacrolimus capsules and all medicines out of the reach of children.
 
 General information about the safe and effective use of tacrolimus capsules
 
@@ -212,7 +215,7 @@ If you would like more information, talk to your healthcare provider.
 
 What are the ingredients in tacrolimus capsules?
 
-Active ingredient: Tacrolimus, USP
+Active ingredient: tacrolimus, USP
 
 Inactive ingredients: croscarmellose sodium NF, hypromellose USP, lactose monohydrate NF, and magnesium stearate NF.
 The 0.5 mg capsule shell contains, FD & C Blue 1, FD & C Red 40, gelatin NF and titanium dioxide USP, the 1 mg capsule shell contains FD & C Blue 1, gelatin NF, iron oxide yellow and titanium dioxide USP, and the 5 mg capsule shell contains D & C Red 28, D & C Yellow 10, FD & C Blue 1, gelatin NF, and titanium dioxide USP.
@@ -229,4 +232,6 @@ Strides Pharma Inc.
 
 East Brunswick, NJ 08816
 
-Revised: 11/2019
+Revised: 01/2020
+
+This Patient Information has been approved by the U.S. Food and Drug Administration.

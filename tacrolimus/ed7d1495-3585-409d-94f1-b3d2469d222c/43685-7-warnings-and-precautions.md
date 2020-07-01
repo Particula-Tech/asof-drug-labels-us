@@ -18,7 +18,7 @@ Patients receiving immunosuppressants, including tacrolimus, are at increased ri
 These infections may lead to serious, including fatal, outcomes.
 Serious viral infections reported include:
 
-• Polyoma virus-associated nephropathy (PVAN), mostly due to BK virus infection
+• Polyomavirus-associated nephropathy (PVAN), mostly due to BK virus infection
 
 • JC virus-associated progressive multifocal leukoencephalopathy (PML)
 
@@ -54,7 +54,7 @@ Tacrolimus may cause a spectrum of neurotoxicities.
 The most severe neurotoxicities include posterior reversible encephalopathy syndrome (PRES), delirium, seizure and coma; others include tremors, paresthesias, headache, mental status changes, and changes in motor and sensory functions [see Adverse Reactions (6.1, 6.2)].
 As symptoms may be associated with tacrolimus whole blood trough concentrations at or above the recommended range, monitor for neurologic symptoms and consider dosage reduction or discontinuation of tacrolimus if neurotoxicity occurs.
 
-## 5.7 Heperkalemia
+## 5.7 Hyperkalemia
 
 Hyperkalemia has been reported with tacrolimus use.
 Serum potassium levels should be monitored.
@@ -84,7 +84,7 @@ Tacrolimus is not recommended for use with sirolimus:
 
 ## 5.11 Interactions with CYP3A4 Inhibitors and Inducers
 
-When co-administering tacrolimus with strong CYP3A4 inhibitors (e.g., telaprevir, boceprevir, ritonavir, ketoconazole, itraconazole, voriconazole, clarithromycin) and strong inducers (e.g., rifampin, rifabutin), adjustments in the dosing regimen of tacrolimus and subsequent frequent monitoring of tacrolimus whole blood trough concentrations and tacrolimus-associated adverse reactions
+When co-administering tacrolimus with strong CYP3A4 inhibitors (e.g., telaprevir, boceprevir, ritonavir, ketoconazole, itraconazole, voriconazole, clarithromycin) and strong inducers (e.g., rifampin, rifabutin), adjustments in the dosing regimen of tacrolimus and subsequent frequent monitoring of tacrolimus whole blood trough concentrations and tacrolimus-associated adverse reactions are recommended [see Drug Interactions (7)].
 
 ## 5.12 QT Prolongation
 

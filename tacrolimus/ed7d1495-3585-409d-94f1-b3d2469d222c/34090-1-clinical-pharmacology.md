@@ -3,7 +3,7 @@
 ## 12.1 Mechanism of Action
 
 Tacrolimus binds to an intracellular protein, FKBP-12.
-A complex of tacrolimus-FKBP-12, calcium, calmodulin, and calcineurin (an ubiquitous mammalian intracellular enzyme) is then formed, afterwhich the phosphatase activity of calcineurin inhibited.
+A complex of tacrolimus-FKBP-12, calcium, calmodulin, and calcineurin (a ubiquitous mammalian intracellular enzyme) is then formed, after which the phosphatase activity of calcineurin is inhibited.
 Such inhibition prevents the dephosphorylation and translocation of various factors such as the nuclear factor of activated T-cells (NF-AT), and nuclear factor kappa-light-chain enhancer of activated B-cells (NF-κB).
 
 Tacrolimus inhibits the expression and/or production of several cytokines that include interleukin (IL)-1 beta, IL-2, IL-3, IL-4, IL-5, IL-6, IL-8, IL-10, gamma interferon, tumor necrosis factor-alpha, and granulocyte macrophage colony-stimulating factor.
@@ -40,7 +40,7 @@ Pharmacokinetics Parameters (mean±S.D.) of Tacrolimus in Healthy Volunteers and
 | # Median [range] |  |  |  |  |  |  |  |  |
 | Þ AUC0-12 |  |  |  |  |  |  |  |  |
 
-Due to intersubject variability in tacrolimus pharmacokinetics, individualization of dosing regimen is necessary for optimal therapy [see Dosage and Administration (2.6)].
+Due to intersubject variability in tacrolimus pharmacokinetics, individualization of the dosing regimen is necessary for optimal therapy [see Dosage and Administration (2.6)].
 Pharmacokinetic data indicate that whole blood concentrations rather than plasma concentrations serve as the more appropriate sampling compartment to describe tacrolimus pharmacokinetics.
 
 ### Absorption
@@ -77,7 +77,7 @@ Tacrolimus capsules should be taken consistently every day either with or withou
 
 ### Distribution
 
-The plasma protein binding of tacrolimus is approximately 99% and is independent of concentration over a range of 5 to 50 ng/mL.
+The plasma protein binding of tacrolimus is approximately 99% and is independent of concentration over a range of 5 - 50 ng/mL.
 Tacrolimus is bound mainly to albumin and alpha-1-acid glycoprotein, and has a high level of association with erythrocytes.
 The distribution of tacrolimus between whole blood and plasma depends on several factors, such as hematocrit, temperature at the time of plasma separation, drug concentration, and plasma protein concentration.
 In a U.S.trial, the ratio of whole blood concentration to plasma concentration averaged 35 (range 12 to 67).
@@ -94,17 +94,17 @@ In in vitro studies, a 31-demethyl metabolite has been reported to have the same
 
 ### Excretion
 
-The mean clearance following IV - administration of tacrolimus is 0.040, 0.083, and 0.053, and 0.051 L/hr/kg in healthy volunteers, adult kidney transplant patients, adult liver transplant patients, and adult heart transplant patients, respectively.
+The mean clearance following IV administration of tacrolimus is 0.040, 0.083, 0.053, and 0.051 L/hr/kg in healthy volunteers, adult kidney transplant patients, adult liver transplant patients, and adult heart transplant patients, respectively.
 In man, less than 1% of the dose administered is excreted unchanged in urine.
 
-In a mass balance study of IV administered radiolabeled tacrolimus to 6 healthy volunteers, the mean recovery of radiolabel was 77.8±12.7%.
+In a mass balance study of IV-administered radiolabeled tacrolimus to 6 healthy volunteers, the mean recovery of radiolabel was 77.8±12.7%.
 Fecal elimination accounted for 92.4±1.0% and the elimination half-life based on radioactivity was 48.1±15.9 hours whereas it was 43.5±11.6 hours based on tacrolimus concentrations.
 The mean clearance of radiolabel was 0.029±0.015 L/hr/kg and clearance of tacrolimus was 0.029±0.009 L/hr/kg.
 When administered PO, the mean recovery of the radiolabel was 94.9±30.7%.
 Fecal elimination accounted for 92.6±30.7%, urinary elimination accounted for 2.3±1.1% and the elimination half-life based on radioactivity was 31.9±10.5 hours whereas it was 48.4±12.3 hours based on tacrolimus concentrations.
 The mean clearance of radiolabel was 0.226±0.116 L/hr/kg and clearance of tacrolimus 0.172±0.088 L/hr/kg.
 
-### Specific Population
+### Specific Populations
 
 Pediatric Patients
 
@@ -127,7 +127,7 @@ Renal and Hepatic Impaired Patients
 The mean pharmacokinetic parameters for tacrolimus following single administrations to adult patients with renal and hepatic impairment are given in Table 19.
 
 Table 19.
-Pharmacokinetic In Renal and Hepatic Impaired Patients
+Pharmacokinetic In Renal and Hepatic Impaired Adult Patients
 
 | Population (No. of Patients) | Dose | AUC0-t (ng·hr/mL) | t1/2 (hr) | V (L/kg) | Cl (L/hr/kg) |
 | --- | --- | --- | --- | --- | --- |
@@ -144,7 +144,7 @@ Pharmacokinetic In Renal and Hepatic Impaired Patients
 
 Patients with Renal Impairment:
 
-Tacrolimus pharmacokinetics following a single IV administration were determined in 12 patients (7 not on dialysis and 5 on dialysis, serum creatinine of 3.9±1.6 and 12.0±2.4 mg/dL, respectively) prior to their kidney transplant.
+Tacrolimus pharmacokinetics, following a single IV administration were determined in 12 patients (7 not on dialysis and 5 on dialysis, serum creatinine of 3.9±1.6 and 12.0±2.4 mg/dL, respectively) prior to their kidney transplant.
 The pharmacokinetic parameters obtained were similar for both groups.
 The mean clearance of tacrolimus in patients with renal dysfunction was similar to that in normal volunteers (Table 19) [see Dosage and Administration (2.2) and Use in Specific Populations (8.6)].
 
