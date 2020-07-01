@@ -385,7 +385,8 @@ Table 39: Efficacy Results - CHECKMATE-032
 |  | OPDIVO (n=109) |
 | --- | --- |
 | Overall Response Rate (95% CI) Complete response Partial response | 12% (6.5, 19.5) 0.9% 11% |
-| Duration of Response Range (months) % with duration ≥6 months % with duration ≥12 months % with duration ≥18 months | (n=13) (3.0, 42.1) 77% 62% 39% |
+| Duration of Response Range (months) % with duration ≥12 months % with duration ≥18 months | (n=13) (3.0, 57.7+) 69% 54% |
+| + Indicates a censored value. |  |
 
 ## 14.5 Advanced Renal Cell Carcinoma
 
