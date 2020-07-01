@@ -7,7 +7,7 @@ Corticosteroids can reduce the response of the hypothalamus-pituitary-adrenal (H
 In situations where patients are subject to surgery or other stress situations, supplementation with a systemic corticosteroid is recommended.
 Since ORTIKOS contains a corticosteroid, general warnings concerning corticosteroids should be followed [see Warnings and Precautions (5.2), (5.3), (5.4)].
 
-Pediatric patients with Crohn’s disease have a slightly higher systemic exposure of budesonide and increased cortisol suppression than adults with Crohn’s disease [see Use in Specific Populations (8.4), Clinical Pharmacology (12.2)].
+Pediatric patients with Crohn's disease have a slightly higher systemic exposure of budesonide and increased cortisol suppression than adults with Crohn's disease [see Use in Specific Populations (8.4), Clinical Pharmacology (12.2)].
 
 Patients with moderate to severe hepatic impairment (Child-Pugh Class B and C respectively) could be at an increased risk of hypercorticism and adrenal axis suppression due to an increased systemic exposure of oral budesonide.
 Avoid use of ORTIKOS in patients with moderate and severe hepatic impairment.

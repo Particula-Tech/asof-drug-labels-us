@@ -16,19 +16,19 @@ Below is a display of the adverse reactions of budesonide in these adequate and 
 
 Adults
 
-The data described below reflect exposure to budesonide in 520 patients with Crohn’s disease, including 520 exposed to 9 mg per day (total daily dose) for 8 weeks and 145 exposed to 6 mg per day for one year in placebo controlled clinical trials.
+The data described below reflect exposure to budesonide in 520 patients with Crohn's disease, including 520 exposed to 9 mg per day (total daily dose) for 8 weeks and 145 exposed to 6 mg per day for one year in placebo controlled clinical trials.
 Of the 520 patients, 38% were males and the age range was 17 to 74 years.
 
-Treatment of Mild to Moderate Active Crohn’s Disease
+Treatment of Mild to Moderate Active Crohn's Disease
 
-The safety of budesonide was evaluated in 651 adult patients in five clinical trials of 8 weeks duration in patients with active mild to moderate Crohn’s disease.
+The safety of budesonide was evaluated in 651 adult patients in five clinical trials of 8 weeks duration in patients with active mild to moderate Crohn's disease.
 The most common adverse reactions, occurring in greater than or equal to 5% of the patients, are listed in Table 1.
 
-Table 1: Common Adverse Reactions1 in 8-Week Treatment Clinical Trials
+Table 1: Common Adverse ReactionsOccurring in greater than or equal to 5% of the patients in any treated group. in 8-Week Treatment Clinical Trials
 
-| Adverse Reaction | Budesonide 9 mg n=520 | Placebo n=107 | Prednisolone2 40 mg n=145 | Comparator3 n=88 |
-| --- | --- | --- | --- | --- |
 |  | Number (%) | Number (%) | Number (%) | Number (%) |
+| --- | --- | --- | --- | --- |
+| Adverse Reaction | Budesonide 9 mg n=520 | Placebo n=107 | PrednisolonePrednisolone tapering scheme: either 40 mg in week 1 to 2, thereafter tapering with 5 mg per week; or 40 mg in week 1 to 2, 30 mg in week 3 to 4, thereafter tapering with 5 mg per week. 40 mg n=145 | ComparatorThis drug is not approved for the treatment of Crohn's disease in the United States. n=88 |
 | Headache | 107(21) | 19(18) | 31(21) | 11(13) |
 | Respiratory Infection | 55 (11) | 7(7) | 20(14) | 5(6) |
 | Nausea | 57(11) | 10(9) | 18(12) | 7(8) |
@@ -41,49 +41,37 @@ Table 1: Common Adverse Reactions1 in 8-Week Treatment Clinical Trials
 | Fatigue | 25(5) | 8(7) | 11(8) | 0(0) |
 | Pain | 24(5) | 8(7) | 17(12) | 2(2) |
 
-1 Occurring in greater than or equal to 5% of the patients in any treated group.
-
-2 Prednisolone tapering scheme: either 40 mg in week 1 to 2, thereafter tapering with 5 mg per week; or 40 mg in week 1 to 2, 30 mg in week 3 to 4, thereafter tapering with 5 mg per week.
-
-3 This drug is not approved for the treatment of Crohn’s disease in the United States.
-
 The incidence of signs and symptoms of hypercorticism reported by active questioning of patients in 4 of the 5 short-term clinical trials are displayed in Table 2.
 
 Table 2: Summary and Incidence of Signs/Symptoms of Hypercorticism in 8-Week Treatment Clinical Trials
 
-| Signs/Symptom | Budesonide 9 mg n=427 | Placebo n=107 | Prednisolone1 40 mg n=145 |
-| --- | --- | --- | --- |
 |  | Number (%) | Number (%) | Number (%) |
+| --- | --- | --- | --- |
+| Signs/Symptom | Budesonide 9 mg n=427 | Placebo n=107 | PrednisolonePrednisolone tapering scheme: either 40 mg in week 1-2, thereafter tapering with 5 mg/week; or 40 mg in week 1 to 2, 30 mg in week 3 to 4, thereafter tapering with 5 mg/week. 40 mg n=145 |
 | Total | 145 (34%) | 29 (27%) | 69 (48%) |
-| Acne | 63(15) | 14(13) | 33(23)2 |
+| Acne | 63(15) | 14(13) | 33(23)Statistically significantly different from budesonide 9 mg |
 | Bruising Easily | 63(15) | 12(11) | 13(9) |
-| Moon Face | 46(11) | 4(4) | 53(37)2 |
+| Moon Face | 46(11) | 4(4) | 53(37) |
 | Swollen Ankles | 32(7) | 6(6) | 13(9) |
-| Hirsutism3 | 22(5) | 2(2) | 5(3) |
+| HirsutismIncluding hair growth increased, local and hair growth increased, general | 22(5) | 2(2) | 5(3) |
 | Buffalo Hump | 6(1) | 2(2) | 5(3) |
 | Skin Striae | 4(1) | 2(2) | 0(0) |
 
-1 Prednisolone tapering scheme: either 40 mg in week 1-2, thereafter tapering with 5 mg/week; or 40 mg in week 1 to 2, 30 mg in week 3 to 4, thereafter tapering with 5 mg/week.
+Maintenance of Clinical Remission of Mild to Moderate Crohn's Disease
 
-2 Statistically significantly different from budesonide 9 mg
-
-3 Including hair growth increased, local and hair growth increased, general
-
-Maintenance of Clinical Remission of Mild to Moderate Crohn’s Disease
-
-The safety of budesonide was evaluated in 233 adult patients in four long-term clinical trials (52 weeks) of maintenance of clinical remission in patients with mild to moderate Crohn’s disease.
+The safety of budesonide was evaluated in 233 adult patients in four long-term clinical trials (52 weeks) of maintenance of clinical remission in patients with mild to moderate Crohn's disease.
 A total of 145 patients were treated with budesonide 6 mg once daily.
 
-The adverse reaction profile of budesonide 6 mg once daily in maintenance of Crohn’s disease was similar to that of short-term treatment with budesonide 9 mg once daily in active Crohn’s disease.
+The adverse reaction profile of budesonide 6 mg once daily in maintenance of Crohn's disease was similar to that of short-term treatment with budesonide 9 mg once daily in active Crohn's disease.
 In the long-term clinical trials, the following adverse reactions occurred in greater than or equal to 5% and are not listed in Table 1: diarrhea (10%); sinusitis (8%); infection viral (6%); and arthralgia (5%).
 
 Signs/symptoms of hypercorticism reported by active questioning of patients in the long-term maintenance clinical trials are displayed in Table 3.
 
 Table 3: Summary and Incidence of Signs/Symptoms of Hypercorticism in Long-Term Clinical Trials
 
-| Signs/Symptom | Budesonide 6 mg n=145 | Placebo n=143 |
-| --- | --- | --- |
 |  | Number (%) | Number (%) |
+| --- | --- | --- |
+| Signs/Symptom | Budesonide 6 mg n=145 | Placebo n=143 |
 | Bruising Easily | 15(10) | 5(4) |
 | Acne | 14(10) | 3(2) |
 | Moon Face | 6(4) | 0 |
@@ -138,7 +126,7 @@ Clinical Laboratory Test Findings
 
 The following potentially clinically significant laboratory changes in clinical trials, irrespective of relationship to budesonide, were reported in greater than or equal to 1% of patients: hypokalemia, leukocytosis, anemia, hematuria, pyuria, erythrocyte sedimentation rate increased, alkaline phosphatase increased, atypical neutrophils, c-reactive protein increased and adrenal insufficiency.
 
-Pediatric Patients --Treatment of Mild to Moderate Active Crohn’s Disease
+Pediatric Patients --Treatment of Mild to Moderate Active Crohn's Disease
 
 Adverse reactions reported in pediatric patients 8 to 17 years of age, who weigh more than 25 kg, were similar to those reactions described above in adult patients.
 

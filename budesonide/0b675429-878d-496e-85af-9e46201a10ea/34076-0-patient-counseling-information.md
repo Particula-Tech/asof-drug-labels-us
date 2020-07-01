@@ -23,10 +23,4 @@ Advise patients to:
 - Take ORTIKOS once daily in the morning.
 - Swallow ORTIKOS capsules whole.
   Do not chew or crush.
-
-Avoid consumption of grapefruit juice for the duration of therapy with ORTIKOS [see Drug Interactions (7.1)].
-Distributor: Ferring Pharmaceuticals Inc. Parsippany, NJ 07054
-
-Manufactured by:
-
-Sun Pharmaceutical Industries Ltd. Halol-Baroda Highway, Halol-389 350, Gujarat, India
+- Avoid consumption of grapefruit juice for the duration of therapy with ORTIKOS [see Drug Interactions (7.1)].

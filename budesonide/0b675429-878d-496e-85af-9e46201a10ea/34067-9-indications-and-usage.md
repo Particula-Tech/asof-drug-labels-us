@@ -6,4 +6,4 @@ ORTIKOS is indicated for the treatment of mild to moderate active Crohn's diseas
 
 ## 1.2 Maintenance of Clinical Remission of Mild to Moderate Crohn's Disease
 
-ORTIKOS is indicated for the maintenance of clinical remission of mild to moderate Crohn’s disease involving the ileum and/or the ascending colon for up to 3 months in adults.
+ORTIKOS is indicated for the maintenance of clinical remission of mild to moderate Crohn's disease involving the ileum and/or the ascending colon for up to 3 months in adults.
