@@ -1,6 +1,6 @@
 # 13 NONCLINICAL TOXICOLOGY
 
-## 13.1 Carcinogenesis, Mutagenesis & Impairment of Fertility
+## 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
 
 In a 104-week oral carcinogenicity study in mice, MMF in daily doses up to 180 mg/kg was not tumorigenic.
 The highest dose tested was 0.4 times the recommended clinical dose (2 g/day) in renal transplant patients and 0.3 times the recommended clinical dose (3 g/day) in cardiac transplant patients when corrected for differences in body surface area (BSA).

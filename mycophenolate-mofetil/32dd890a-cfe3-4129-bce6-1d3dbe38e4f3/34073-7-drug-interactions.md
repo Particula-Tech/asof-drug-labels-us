@@ -22,7 +22,7 @@ Drug Interactions with Mycophenolate Mofetil that Affect Mycophenolic Acid (MPA)
 | Prevention or Management | Monitor patients for alterations in efficacy or mycophenolate mofetil related adverse reactions when these drugs are co-administered with mycophenolate mofetil. |
 | Examples | Telmisartan (induces glucuronidation); isavuconazole (inhibits glucuronidation). |
 | Calcium Free Phosphate Binders |  |
-| Clinical Impact | Concomitant use with calcium free phosphate binders decrease MPA systemic exposure [see Clinical Pharmacology (12.3)], which may reduce mycophenolate mofetil efficacy |
+| Clinical Impact | Concomitant use with calcium free phosphate binders decrease MPA systemic exposure [see Clinical Pharmacology (12.3)], which may reduce mycophenolate mofetil efficacy. |
 | Prevention or Management | Administer calcium free phosphate binders at least 2 hours after mycophenolate mofetil. |
 | Examples | Sevelamer |
 

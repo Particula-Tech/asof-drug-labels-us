@@ -20,7 +20,7 @@ The data described below primarily derive from five randomized, active-controlle
 
 Mycophenolate Mofetil Oral
 
-The incidence of adverse reactions for Mycophenolate mofetil was determined in five randomized, comparative, double-blind trials in the prevention of rejection in kidney, heart and liver transplant patients (two active- and one placebo-controlled trials, one active-controlled trial, and one active-controlled trial, respectively) [see Clinical Studies (14.1, 14.2 and 14.3)].
+The incidence of adverse reactions for mycophenolate mofetil was determined in five randomized, comparative, double-blind trials in the prevention of rejection in kidney, heart and liver transplant patients (two active- and one placebo-controlled trials, one active-controlled trial, and one active-controlled trial, respectively) [see Clinical Studies (14.1, 14.2 and 14.3)].
 
 The three de novo kidney studies with 12-month duration compared two dose levels of oral mycophenolate mofetil (1 g twice daily and 1.5 g twice daily) with azathioprine (2 studies) or placebo (1 study) when administered in combination with cyclosporine (Sandimmune®) and corticosteroids to prevent acute rejection episodes.
 One study also included anti-thymocyte globulin (ATGAM®) induction therapy.
@@ -35,7 +35,7 @@ Adverse reactions reported in ≥ 20% of patients in the mycophenolate mofetil t
 The safety data of three kidney transplantation studies are pooled together.
 
 Table 3.
-Adverse Reactions in Controlled Studies of De Novo Kidney, Heart or Liver Transplantation (Reported in ≥20% of Patients in the mycophenolate mofetil Group)
+Adverse Reactions in Controlled Studies of De Novo Kidney, Heart or Liver Transplantation Reported in ≥ 20% of Patients in the mycophenolate mofetil Group
 
 |  | Kidney Studies |  |  |  |  |  |  | Heart Study |  |  |  | Liver Study |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -101,13 +101,13 @@ Adverse Reactions in Controlled Studies of De Novo Kidney, Heart or Liver Transp
 
 In the three de novo kidney studies, patients receiving 2 g/day of mycophenolate mofetil had an overall better safety profile than did patients receiving 3 g/day of mycophenolate mofetil.
 
-Post-transplant lymphoproliferative disease (PTLD) developed in 0.4% to 1% of patients receiving mycophenolate mofetil (2 g or 3 g daily) with other immunosuppressive agents in controlled clinical trials of kidney, heart and liver transplant patients followed for at least 1 year [see Warnings and Precautions (5.2)].
+Post-transplant lymphoproliferative disease (PTLD, pseudolymphoma) developed in 0.4% to 1% of patients receiving mycophenolate mofetil (2 g or 3 g daily) with other immunosuppressive agents in controlled clinical trials of kidney, heart and liver transplant patients followed for at least 1 year [see Warnings and Precautions (5.2)].
 Non-melanoma skin carcinomas occurred in 1.6% to 4.2% of patients, other types of malignancy in 0.7% to 2.1% of patients.
 Three-year safety data in kidney and heart transplant patients did not reveal any unexpected changes in incidence of malignancy compared to the 1-year data.
 In pediatric patients, PTLD was observed in 1.35% (2/148) by 12 months post-transplant.
 
 Cytopenias, including leukopenia, anemia, thrombocytopenia and pancytopenia are a known risk associated with mycophenolate and may lead or contribute to the occurrence of infections and hemorrhages [see Warnings and Precautions (5.3)].
-Severe neutropenia (ANC <0.5 x 103/μL) developed in up to 2.0% of kidney transplant patients, up to 2.8% of heart transplant patients and up to 3.6% of liver transplant patients receiving mycophenolate mofetil 3 g daily [see Warnings and Precautions (5.4) and Dosage and Administration (2.5)].
+Severe neutropenia (ANC <0.5 x103/mL) developed in up to 2% of kidney transplant patients, up to 2.8% of heart transplant patients and up to 3.6% of liver transplant patients receiving mycophenolate mofetil 3 g daily [see Warnings and Precautions (5.4) and Dosage and Administration (2.5)].
 
 The most common opportunistic infections in patients receiving mycophenolate mofetil with other immunosuppressants were mucocutaneous candida, CMV viremia/syndrome, and herpes simplex.
 The proportion of patients with CMV viremia/syndrome was 13.5%.
@@ -116,7 +116,6 @@ In patients receiving mycophenolate mofetil (2 g or 3 g) in controlled studies f
 The most serious gastrointestinal disorders reported were ulceration and hemorrhage, which are known risks associated with mycophenolate mofetil.
 Mouth, esophageal, gastric, duodenal, and intestinal ulcers often complicated by hemorrhage, as well as hematemesis, melena, and hemorrhagic forms of gastritis and colitis were commonly reported during the pivotal clinical trials, while the most common gastrointestinal disorders were diarrhea, nausea and vomiting.
 Endoscopic investigation of patients with mycophenolate mofetil -related diarrhea revealed isolated cases of intestinal villous atrophy [see Warnings and Precautions (5.5)].
-
 The following adverse reactions were reported with 3% to <20% incidence in kidney, heart, and liver transplant patients treated with mycophenolate mofetil, in combination with cyclosporine and corticosteroids.
 
 Table 4.
@@ -139,7 +138,7 @@ Adverse Reactions in Controlled Studies of De Novo Kidney, Heart or Liver Transp
 
 Pediatric Study
 
-The type and frequency of adverse events in a clinical study for prevention of kidney allograft rejection in 100 pediatric patients 3 months to 18 years of age dosed with mycophenolate mofetil for oral suspension 600 mg/m2 twice daily (up to 1 g twice daily) were generally similar to those observed in adult patients dosed with mycophenolate mofetil capsules at a dose of 1 g twice daily with the exception of abdominal pain, fever, infection, pain, sepsis, diarrhea, vomiting, pharyngitis, respiratory tract infection, hypertension, leukopenia, and anemia, which were observed in a higher proportion in pediatric patients.
+The type and frequency of adverse events in a clinical study for prevention of kidney allograft rejection in 100 pediatric patients 3 months to 18 years of age dosed with mycophenolate mofetil oral suspension 600 mg/m2 twice daily (up to 1 g twice daily) were generally similar to those observed in adult patients dosed with mycophenolate mofetil capsules at a dose of 1 g twice daily with the exception of abdominal pain, fever, infection, pain, sepsis, diarrhea, vomiting, pharyngitis, respiratory tract infection, hypertension, leukopenia, and anemia, which were observed in a higher proportion in pediatric patients.
 
 Geriatrics
 
@@ -159,9 +158,9 @@ Because these reactions are reported voluntarily from a population of uncertain 
   - Esophageal malformations: esophageal atresia
   - Nervous system malformations: such as spina bifida.
 - Cardiovascular: Venous thrombosis has been reported in patients treated with mycophenolate mofetil administered intravenously.
-- Digestive: colitis, pancreatitis,
+- Digestive: Colitis, pancreatitis,
 - Hematologic and Lymphatic: Bone marrow failure, cases of pure red cell aplasia (PRCA) and hypogammaglobulinemia have been reported in patients treated with mycophenolate mofetil in combination with other immunosuppressive agents [see Warnings and Precautions (5.4)].
 - Immune: Hypersensitivity, hypogammaglobinemia.
-- Infections: Meningitis, infectious endocarditis, tuberculosis, atypical mycobacterial infection, progressive multifocal leukoencephalopathy, BK virus infection, viral reactivation of hepatitis B and hepatitis C [see Warnings and Precautions (5.3)].
+- Infections: Meningitis, infectious endocarditis, tuberculosis, atypical mycobacterial infection, progressive multifocal leukoencephalopathy, BK virus infection, viral reactivation of hepatitis B and hepatitis C, protozoal infections [see Warnings and Precautions (5.3)].
 - Respiratory: Bronchiectasis, interstitial lung disease, fatal pulmonary fibrosis, have been reported rarely and should be considered in the differential diagnosis of pulmonary symptoms ranging from dyspnea to respiratory failure in post-transplant patients receiving mycophenolate mofetil.
 - Vascular: Lymphocele

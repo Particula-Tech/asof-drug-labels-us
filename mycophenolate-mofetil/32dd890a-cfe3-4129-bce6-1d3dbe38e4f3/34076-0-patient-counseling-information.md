@@ -27,7 +27,7 @@ Contraception
 ## 17.2 Development of Lymphoma and Other Malignancies
 
 - Inform patients that they are at increased risk of developing lymphomas and other malignancies, particularly of the skin, due to immunosuppression [see Warnings and Precautions (5.2)].
-- Advise patients to limit exposure to sunlight and ultraviolet (UV) light by wearing protective clothing and use of sunscreen with high protection factor.
+- Advise patients to limit exposure to sunlight and ultraviolet (UV) light by wearing protective clothing and use of broad-spectrum sunscreen with high protection factor.
 
 ## 17.3 Increased Risk of Serious Infections
 
@@ -53,7 +53,7 @@ Before seeking vaccines on their own, advise patients to discuss first with thei
 ## 17.7 Administration Instructions
 
 - Advise patients not to crush mycophenolate mofetil tablets and not to open mycophenolate mofetil capsules.
-- Advise patients to avoid inhalation or contact of the skin or mucous membranes with mycophenolate mofetil capsules.
+- Advise patients to avoid inhalation or contact of the skin or mucous membranes with the powder contained in mycophenolate mofetil capsules.
   If such contact occurs, they must wash the area of contact thoroughly with soap and water.
   In case of ocular contact, rinse eyes with plain water.
 - Advise patients to take a missed dose as soon as they remember, except if it is closer than 2 hours to the next scheduled dose; in this case they should continue to take mycophenolate mofetil at the usual times.
@@ -73,7 +73,7 @@ Patients should avoid driving or operating machines if they experience somnolenc
 
 Manufactured by:
 
-Strides Pharma Science Limited
+Strides Pharma Science Ltd.
 
 Bengaluru – 562106, India
 
@@ -83,4 +83,4 @@ Strides Pharma Inc.
 
 East Brunswick, NJ 08816
 
-Revised: 01/2020
+Revised: 06/2020

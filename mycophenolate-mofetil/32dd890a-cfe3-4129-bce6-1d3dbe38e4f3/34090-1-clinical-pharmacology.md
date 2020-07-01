@@ -19,7 +19,7 @@ There is a lack of information regarding the pharmacodynamic effects of MMF.
 
 Absorption
 
-Following oral administration, MMF undergoes complete conversion to MPA, the active metabolite.
+Following oral and intravenous administration, MMF undergoes complete conversion to MPA, the active metabolite.
 In 12 healthy volunteers, the mean absolute bioavailability of oral MMF relative to intravenous MMF was 94%.
 Two 500 mg mycophenolate mofetil tablets have been shown to be bioequivalent to four 250 mg mycophenolate mofetil capsules.
 Five mL of the 200 mg/mL constituted mycophenolate mofetil oral suspension have been shown to be bioequivalent to four 250 mg capsules.
@@ -142,11 +142,11 @@ Pharmacokinetic Parameters for MPA [mean (±SD)] Following Single Doses of MMF C
 | Healthy Volunteers | 1 g | 0.63 | 24.3 | 29.0 |
 | (n=6) | (±0.14) | (±5.73) | (±5.78) |  |
 | Alcoholic Cirrhosis | 1 g | 0.85 | 22.4 | 29.8 |
-| (n=18) |  | (±0.58) | (±10.1) | (±10.7) |
+| (n=18) | (±0.58) | (±10.1) | (±10.7) |  |
 
 Pediatric Patients
 
-The pharmacokinetic parameters of MPA and MPAG have been evaluated in 55 pediatric patients (ranging from 1 year to 18 years of age) receiving mycophenolate mofetil for oral suspension at a dose of 600 mg/m2 twice daily (up to a maximum of 1 g twice daily) after allogeneic kidney transplantation.
+The pharmacokinetic parameters of MPA and MPAG have been evaluated in 55 pediatric patients (ranging from 1 year to 18 years of age) receiving mycophenolate mofetil oral suspension at a dose of 600 mg/m2 twice daily (up to a maximum of 1 g twice daily) after allogeneic kidney transplantation.
 The pharmacokinetic data for MPA is provided in Table 10.
 
 Table 10.
@@ -171,7 +171,7 @@ Mean (±SD) Computed Pharmacokinetic Parameters for MPA by Age and Time After Al
 | cn=16 |  |  |  |  |  |  |  |  |
 | da subset of 1 to <6 yr |  |  |  |  |  |  |  |  |
 
-The mycophenolate mofetil for oral suspension dose of 600 mg/m2 twice daily (up to a maximum of 1 g twice daily) achieved mean MPA AUC values in pediatric patients similar to those seen in adult kidney transplant patients receiving mycophenolate mofetil capsules at a dose of 1 g twice daily in the early post-transplant period.
+The mycophenolate mofetil oral suspension dose of 600 mg/m2 twice daily (up to a maximum of 1 g twice daily) achieved mean MPA AUC values in pediatric patients similar to those seen in adult kidney transplant patients receiving mycophenolate mofetil capsules at a dose of 1 g twice daily in the early post-transplant period.
 There was wide variability in the data.
 As observed in adults, early post-transplant MPA AUC values were approximately 45% to 53% lower than those observed in the later post-transplant period (>3 months).
 MPA AUC values were similar in the early and late post-transplant period across the 1 to 18-year age range.
@@ -215,7 +215,7 @@ The mean (±SD) AUC(0-12h) and Cmax of cyclosporine after 14 days of multiple do
 
 Cyclosporine A interferes with MPA enterohepatic recirculation.
 In kidney transplant patients, mean MPA exposure (AUC(0-12h)) was approximately 30-50% greater when MMF was administered without cyclosporine compared with when MMF was coadministered with cyclosporine.
-This interaction is due to cyclosporine inhibition of multidrug-resistanceassociated protein 2 (MRP-2) transporter in the biliary tract, thereby preventing the excretion of MPAG into the bile that would lead to enterohepatic recirculation of MPA.
+This interaction is due to cyclosporine inhibition of multidrug-resistance-associated protein 2 (MRP-2) transporter in the biliary tract, thereby preventing the excretion of MPAG into the bile that would lead to enterohepatic recirculation of MPA.
 This information should be taken into consideration when MMF is used without cyclosporine.
 
 Drugs Affecting Glucuronidation
@@ -248,7 +248,7 @@ Antimicrobials eliminating beta-glucuronidase-producing bacteria in the intestin
 Information concerning antibiotics is as follows:
 
 - Trimethoprim/Sulfamethoxazole: Following single-dose administration of MMF (1.5 g) to 12 healthy male volunteers on day 8 of a 10-day course of trimethoprim 160 mg/sulfamethoxazole 800 mg administered twice daily, no effect on the bioavailability of MPA was observed.
-  The mean (±SD) AUC and Cmaxof MPA after concomitant administration were 75.2 (±19.8) mcg•h/mL and 34.0 (±6.6) mcg/mL, respectively, compared to 79.2 (±27.9) mcg•h/mL and 34.2 (±10.7) mcg/mL, respectively, after administration of MMF alone.
+  The mean (±SD) AUC and Cmaxof MPA after concomitant administration were 75.2 (±19.8) mcg•h/mL and 34.0 (±6.6) µg/mL, respectively, compared to 79.2 (±27.9) mcg•h/mL and 34.2 (±10.7) mcg/mL, respectively, after administration of MMF alone.
 - Norfloxacin and Metronidazole: Following single-dose administration of MMF (1 g) to 11 healthy volunteers on day 4 of a 5-day course of a combination of norfloxacin and metronidazole, the mean MPA AUC(0-48h) was significantly reduced by 33% compared to the administration of MMF alone (p<0.05).
   The mean (±SD) MPA AUC(0-48h) after coadministration of MMF with norfloxacin or metronidazole separately was 48.3 (±24) mcg·h/mL and 42.7 (±23) mcg·h/mL, respectively, compared with 56.2 (±24) mcg·h/mL after administration of MMF alone.
 - Ciprofloxacin and Amoxicillin Plus Clavulanic Acid: A total of 64 mycophenolate mofetil -treated kidney transplant recipients received either oral ciprofloxacin 500 mg twice daily or amoxicillin plus clavulanic acid 375 mg three times daily for 7 or at least 14 days, respectively.

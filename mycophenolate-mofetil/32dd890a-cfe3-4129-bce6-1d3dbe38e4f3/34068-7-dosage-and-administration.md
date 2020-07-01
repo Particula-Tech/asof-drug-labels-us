@@ -6,7 +6,7 @@ Mycophenolate mofetil should not be used without the supervision of a physician 
 
 Mycophenolate Mofetil Capsules and Tablets
 
-Mycophenolate mofetil oral dosage forms (capsules, tablets or oral suspension) should not be used interchangeably with mycophenolic acid delayed-release tablets without supervision of a physician with experience in immunosuppressive therapy because the rates of absorption following the administration of mycophenolate mofetil oral dosage forms and mycophenolic acid delayed-release tablets are not equivalent.
+Mycophenolate mofetil oral dosage forms (capsules or tablets) should not be used interchangeably with mycophenolic acid delayed-release tablets without supervision of a physician with experience in immunosuppressive therapy because the rates of absorption following the administration of mycophenolate mofetil oral dosage forms and mycophenolic acid delayed-release tablets are not equivalent.
 
 Mycophenolate mofetil tablets should not be crushed and mycophenolate mofetil capsules should not be opened or crushed.
 Patients should avoid inhalation or contact of the skin or mucous membranes with the powder contained in mycophenolate mofetil capsules.
@@ -23,7 +23,7 @@ Patients should be instructed to take a missed dose as soon as they remember, ex
 
 Adults
 
-The recommended dose for adult kidney transplant patients is 1 g orally or intravenously infused over no less than 2 hours, twice daily (daily dose of 2 g).
+The recommended dose for adult kidney transplant patients is 1 g orally, twice daily (daily dose of 2 g).
 
 Pediatrics (3 months and older)
 
@@ -43,7 +43,7 @@ Pediatric Dosing Using Capsules or Tablets for Pediatric Kidney Transplant
 
 ## 2.3 Dosing for Heart Transplant Patients: Adults
 
-The recommended dose of mycophenolate mofetil for adult heart transplant patients is 1.5 g orally.
+The recommended dose of mycophenolate mofetil for adult heart transplant patients is 1.5 g orally administered twice daily (daily dose of 3 g).
 
 ## 2.4 Dosing for Liver Transplant Patients: Adults
 

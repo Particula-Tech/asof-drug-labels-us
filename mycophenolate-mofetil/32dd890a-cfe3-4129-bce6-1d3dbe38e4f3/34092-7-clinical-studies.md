@@ -18,21 +18,21 @@ Patients who prematurely discontinued treatment were not followed for the occurr
 Table 11.
 Treatment Failure in De Novo Kidney Transplantation Studies
 
-| USA Studya (N=499 patients) | Mycophenolate mofetil 2 g/day (n=167 patients) | Mycophenolate mofetil 3 g/day (n=166 patients) | AZA 1 to 2 mg/kg/day (n=166 patients) |
+| USA Study (N=499 patients) | Mycophenolate mofetil 2 g/day (n=167 patients) | Mycophenolate mofetil 3 g/day (n=166 patients) | AZA 1 to 2 mg/kg/day (n=166 patients) |
 | --- | --- | --- | --- |
 | All 3 groups received anti-thymocyte globulin induction, cyclosporine and corticosteroids |  |  |  |
 | All treatment failures | 31.1% | 31.3% | 47.6% |
-| Early termination without prior acute rejectionb | 9.6% | 12.7% | 6.0% |
+| Early termination without prior acute rejection | 9.6% | 12.7% | 6.0% |
 | Biopsy-proven rejection episode on treatment | 19.8% | 17.5% | 38.0% |
-| Europe/Canada/ Australia Studyc (N=503 patients) | Mycophenolate mofetil 2 g/day (n=173 patients) | Mycophenolate mofetil 3 g/day (n=164 patients) | AZA 100 to 150 mg/day (n=166 patients) |
+| Europe/Canada/ Australia Study (N=503 patients) | Mycophenolate mofetil 2 g/day (n=173 patients) | Mycophenolate mofetil 3 g/day (n=164 patients) | AZA 100 to 150 mg/day (n=166 patients) |
 | No induction treatment administered; all 3 groups received cyclosporine and corticosteroids. |  |  |  |
 | All treatment failures | 38.2% | 34.8% | 50.0% |
-| Early termination without prior acute rejectionb | 13.9% | 15.2% | 10.2% |
+| Early termination without prior acute rejection | 13.9% | 15.2% | 10.2% |
 | Biopsy-proven rejection episode on treatment | 19.7% | 15.9% | 35.5% |
-| Europe Studyd (N=491 patients) | Mycophenolate mofetil 2 g/day (n=165 patients) | Mycophenolate mofetil 3 g/day (n=160 patients) | Placebo (n=166 patients) |
+| Europe Study (N=491 patients) | Mycophenolate mofetil 2 g/day (n=165 patients) | Mycophenolate mofetil 3 g/day (n=160 patients) | Placebo (n=166 patients) |
 | No induction treatment administered; all 3 groups received cyclosporine and corticosteroids. |  |  |  |
 | All treatment failures | 30.3% | 38.8% | 56.0% |
-| Early termination without prior acute rejectionb | 11.5% | 22.5% | 7.2% |
+| Early termination without prior acute rejection | 11.5% | 22.5% | 7.2% |
 | Biopsy-proven rejection episode on treatment | 17.0% | 13.8% | 46.4% |
 | *Does not include death and graft loss as reason for early termination. |  |  |  |
 
@@ -51,7 +51,7 @@ De Novo Kidney Transplantation Studies Cumulative Incidence of Combined Graft Lo
 
 Pediatrics - De Novo Kidney transplantation PK Study with Long Term Follow-Up
 
-One open-label, safety and pharmacokinetic study of mycophenolate mofetil for oral suspension 600 mg/m2 twice daily (up to 1 g twice daily) in combination with cyclosporine and corticosteroids was performed at centers in the United States (9), Europe (5) and Australia (1) in 100 pediatric patients (3 months to 18 years of age) for the prevention of renal allograft rejection.
+One open-label, safety and pharmacokinetic study of mycophenolate mofetil oral suspension 600 mg/m2 twice daily (up to 1 g twice daily) in combination with cyclosporine and corticosteroids was performed at centers in the United States (9), Europe (5) and Australia (1) in 100 pediatric patients (3 months to 18 years of age) for the prevention of renal allograft rejection.
 Mycophenolate mofetil was well tolerated in pediatric patients [see Adverse Reactions (6.1)], and the pharmacokinetics profile was similar to that seen in adult patients dosed with 1 g twice daily mycophenolate mofetil capsules [see Clinical Pharmacology (12.3)].
 The rate of biopsy-proven rejection was similar across the age groups (3 months to <6 years, 6 years to <12 years, 12 years to 18 years).
 The overall biopsy-proven rejection rate at 6 months was comparable to adults.
@@ -84,7 +84,7 @@ De Novo Heart Transplantation Study Rejection at 6 Months/Death or Re-transplant
 
 A double-blind, randomized, comparative, parallel-group, multicenter study in primary hepatic transplant recipients was performed at centers in the United States (16), in Canada (2), in Europe (4) and in Australia (1).
 The total number of patients enrolled was 565.
-Per protocol, patients received mycophenolate mofetil 1 g twice daily intravenously for up to 14 days followed by mycophenolate mofetil 1.5 g twice daily orally or AZA 1 to 2 mg/kg/day intravenously followed by AZA 1 to 2 mg/kg/day orally, in combination with cyclosporine (Neoral) and corticosteroids as maintenance immunosuppressive therapy.
+Per protocol, patients received mycophenolate mofetil 1 g twice daily intravenously for up to 14 days followed by mycophenolate mofetil 1.5 g twice daily orally or AZA 1 to 2 mg/kg/day intravenously followed by AZA 1 to 2 mg/kg/day orally, in combination with cyclosporine (Neoral®) and corticosteroids as maintenance immunosuppressive therapy.
 The actual median oral dose of AZA on study was 1.5 mg/kg/day (range of 0.3 to 3.8 mg/kg/day) initially and 1.26 mg/kg/day (range of 0.3 to 3.8 mg/kg/day) at 12 months.
 The two primary endpoints were: (1) the proportion of patients who experienced, in the first 6 months post-transplantation, one or more episodes of biopsy-proven and treated rejection or death or re-transplantation, and (2) the proportion of patients who experienced graft loss (death or re-transplantation) during the first 12 months post-transplantation.
 Patients who prematurely discontinued treatment were followed for the occurrence of allograft rejection and for the occurrence of graft loss (death or re-transplantation) for 1 year.
@@ -94,7 +94,7 @@ In combination with corticosteroids and cyclosporine, mycophenolate mofetil demo
 Table14.
 De Novo Liver Transplantation Study Rejection at 6 Months/Death or Retransplantation at 1 Year
 
-|  | AZA N = 287 | Mycophenolate mofetil N = 278 |
+|  | AZA N = 287 | Mycophenolate Mofetil N = 278 |
 | --- | --- | --- |
 | Biopsy-proven, treated rejection at 6 months (includes death or re- transplantation) | 137 (47.7%) | 107 (38.5%) |
 | Death or re-transplantation at 1 year | 42 (14.6%) | 41 14.7%) |

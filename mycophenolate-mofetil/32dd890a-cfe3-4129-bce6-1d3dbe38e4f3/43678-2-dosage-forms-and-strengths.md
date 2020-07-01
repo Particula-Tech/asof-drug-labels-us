@@ -1,6 +1,6 @@
 # 3 DOSAGE FORMS AND STRENGTHS
 
-Mycophenolate mofetil tablets and capsules are available in the following dosage forms and strengths:
+Mycophenolate mofetil for tablets and capsules are available in the following dosage form and strength:
 
 | Capsules | 250 mg mycophenolate mofetil, white to off-white blend of mycophenolate mofetil filled in size "1" hard gelatin capsule with Ivory Cap and Ivory Body, printed "SAL" on cap and "726" on body in black. |
 | --- | --- |

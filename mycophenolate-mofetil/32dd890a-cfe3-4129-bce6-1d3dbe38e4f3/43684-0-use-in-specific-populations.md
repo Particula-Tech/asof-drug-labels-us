@@ -76,18 +76,18 @@ Patients must use acceptable birth control during the entire mycophenolate mofet
 
 Patients should be aware that mycophenolate mofetil reduces blood levels of the hormones from the oral contraceptive pill and could theoretically reduce its effectiveness [see Drug Interactions (7.2)].
 
-Table 7 Acceptable Contraception Methods for Females of Reproductive Potential Pick from the following birth control options:
+Table 7 Acceptable Contraception Methods For Females Of Reproductive Potential Pick from the following birth control options:
 
 | Option 1 | Intrauterine devices (IUDs)Tubal sterilizationPatient's partner vasectomy |  |  |
 | --- | --- | --- | --- |
 | Methods to Use Alone |  |  |  |
 | OR |  |  |  |
 | Option 2 | Hormone Methods choose 1 |  | Barrier Methods choose 1 |
-| Choose One Hormone Method AND One Barrier Method | Estrogen and Progesterone Oral Contraceptive PillTransdermal patchVaginal ring | AND | Diaphragm with spermicideCervical cap with spermicideContraceptive sponge |
-| Progesterone-only InjectionImplant |  | Male condomFemale condom |  |
+| Choose One Hormone MethodAND One Barrier Method | Estrogen and Progesterone Oral Contraceptive PillTransdermal patchVaginal ring | AND | Diaphragm with spermicideCervical cap with spermicideContraceptive sponge |
+| Progesterone-only InjectionImplant | Male condomFemale condom |  |  |
 | OR |  |  |  |
 | Option 3 | Barrier Methods choose 1 |  | Barrier Methods choose 1 |
-| Choose One Barrier Method from each column(must choose two methods) | Diaphragm with spermicideCervical cap with spermicideContraceptive sponge | AND | Male condomFemale condom |
+| Choose One Barrier Method from each column (must choose two methods) | Diaphragm with spermicideCervical cap with spermicideContraceptive sponge | AND | Male condomFemale condom |
 
 Male Patients
 
