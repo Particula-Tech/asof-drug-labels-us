@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA020839"
+  ],
+  "inn": "clopidogrel",
+  "labeler": "sanofi-aventis U.S. LLC",
+  "package_ndcs": [
+    "0024-1171-90",
+    "0024-1332-30"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "clopidogrel",
+      "name": "Plavix"
+    }
+  ],
+  "setid": "de8b0b67-eb25-4684-83b5-7ad785314227",
+  "source": "dailymed"
+}
