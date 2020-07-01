@@ -130,7 +130,11 @@ How should I store ALORA?
 
 Keep ALORA patches and all medicines out of the reach of children.
 
-Distributed By: Allergan USA, Inc. Madison, NJ 07940
+Distributed By:
+
+Actavis Pharma, Inc.
+
+Parsippany, NJ 07054 USA
 
 Rev.
 03/2020

@@ -14,17 +14,18 @@ Possible Less Serious but Common Adverse Reactions with Estrogen-Alone Therapy
 
 Inform postmenopausal women of possible less serious but common adverse reactions of estrogen-alone therapy such as headaches, breast pain and tenderness, nausea and vomiting.
 
-For all medical inquiries contact: Allergan Medical Communications
+For all medical inquiries contact:
 
-1-800-678-1605
+ACTAVIS
 
-Distributed By: Allergan USA, Inc.
+Medical Communications
 
-Madison, NJ 07940
+Parsippany, NJ 07054
 
-03/2020 Alora® is a registered trademark of Allergan Sales, LLC.
+1-800-272-5525
 
-©2020 Allergan.
-All rights reserved.
+Distributed By:
 
-V2.0USPI5885
+Actavis Pharma, Inc.
+
+Parsippany, NJ 07054 USA
