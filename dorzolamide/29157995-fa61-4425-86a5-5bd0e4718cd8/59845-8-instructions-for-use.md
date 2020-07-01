@@ -4,37 +4,34 @@ Dorzolamide Hydrochloride Ophthalmic Solution, 2%
 
 (door-ZOLE-ah-mide)
 
-## HOW TO USE THE DROP-TAINER®* BOTTLE
+HOW TO USE THE BOTTLE
 
-The DROP-TAINER®* bottle is designed to assure the delivery of a precise dose of medication.
-Before using your DROP-TAINER® bottle, read the complete instructions carefully.
+The bottle is designed to assure the delivery of a precise dose of medication.
+Before using your bottle, read the complete instructions carefully.
 
 1.
-If you use other topically applied ophthalmic medications, they should be administered at least 10 minutes before or after Dorzolamide Hydrochloride Ophthalmic Solution.
-
-2.
 Wash hands before each use.
 
-3.
+2.
 Before using the medication for the first time, be sure the Safety Seal on the bottle is unbroken.
 
-4.
+3.
 Tear off the Safety Seal to break the seal.
 
-5.
+4.
 Before each use, shake once and remove the screw cap.
 
-6.
+5.
 Invert the bottle and hold the bottle between your thumb and middle finger, with the tips of the fingers pointing towards you.
 
-7.
+6.
 Tilt your head back and position the bottle above the affected eye.
 
-8.
+7.
 With the opposite hand, place a finger under the eye.
 Gently pull down until a "V" pocket is made between your eye and lower lid.
 
-9.
+8.
 With the hand holding the bottle, place your index finger on the bottom of the bottle.
 Push the bottom of the bottle to dispense one drop of medication.
 
@@ -44,10 +41,10 @@ DO NOT SQUEEZE THE SIDES OF THE BOTTLE.
 
 KEEP YOUR HEAD TILTED BACKWARD AND CLOSE YOUR EYE TO ALLOW ABSORPTION OF THE MEDICATION INTO THE EYE.
 
-10.
+9.
 Repeat 6, 7, 8, & 9 with other eye if instructed to do so.
 
-11.
+10.
 Replace screw cap by turning until firmly touching the bottle.
 
 Ophthalmic medications, if handled improperly, can become contaminated by common bacteria known to cause eye infections.
@@ -56,15 +53,17 @@ If you think that your medication may be contaminated, or if you develop an eye 
 
 The dispenser tip is designed to provide a pre-measured drop; therefore, do NOT enlarge the hole of the dispenser tip.
 
-After you have used all doses, there will be some Dorzolamide Hydrochloride Ophthalmic Solution left in the bottle.
-You should not be concerned since an extra amount of Dorzolamide Hydrochloride Ophthalmic Solution has been added and you will get the full amount of Dorzolamide Hydrochloride Ophthalmic Solution that your doctor prescribed.
+After you have used all doses, there will be some dorzolamide hydrochloride ophthalmic solution left in the bottle.
+You should not be concerned since an extra amount of dorzolamide hydrochloride ophthalmic solution has been added and you will get the full amount of dorzolamide hydrochloride ophthalmic solution that your doctor prescribed.
 Do not attempt to remove excess medicine from the bottle.
 
 How should I store Dorzolamide Hydrochloride Ophthalmic Solution?
 
-- •Store Dorzolamide Hydrochloride Ophthalmic Solution at 2° - 25°C (36° -77°F).
+- •Store dorzolamide hydrochloride ophthalmic solution at 2° to 25°C (36° to 77°F).
 - •Protect from light
 - •Safely throw away medicine that is out of date or no longer needed.
+- KEEP DORZOLAMIDE HYDROCHLORIDE OPHTHALMIC SOLUTION AND ALL MEDICINES OUT OF THE REACH OF CHILDREN.
+- Important information about using Dorzolamide Hydrochloride Ophthalmic Solution
 - •If you have any eye or skin reactions, especially conjunctivitis or eyelid reactions to dorzolamide hydrochloride ophthalmic solution, stop using it and call your doctor right away.
 - •If you have eye surgery or have a problem such as trauma or infection of your eye while using dorzolamide hydrochloride ophthalmic solution, call your doctor right away.
 - •If you do not handle eye medicines the right way the medicine can become contaminated.
@@ -76,19 +75,13 @@ How should I store Dorzolamide Hydrochloride Ophthalmic Solution?
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
-WARNING: Keep out of reach of children.
+If you have any questions about the use of dorzolamide hydrochloride ophthalmic solutions, please consult your doctor.
 
-If you have any questions about the use of Dorzolamide Hydrochloride Ophthalmic Solutions, please consult your doctor.
+Manufactured by Alcon Laboratories, Inc.
 
-*DROP-TAINER® is a registered trademark of Alcon Research, Ltd.
-
-SANDOZ
-
-Manufactured by Alcon Manufacturing, Ltd
-
-Fort Worth, Texas 76134-2009 for
+Fort Worth, Texas 76134 for
 
 Sandoz Inc., Princeton, NJ 08540
 
 Rev.
-October 2017
+May 2020

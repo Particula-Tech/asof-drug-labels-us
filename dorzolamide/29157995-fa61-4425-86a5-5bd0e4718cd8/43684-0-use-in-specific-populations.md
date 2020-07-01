@@ -22,7 +22,7 @@ Because many drugs are excreted in human milk and because of the potential for s
 
 ## 8.4 Pediatric Use
 
-Safety and effectiveness of Dorzolamide Hydrochloride Ophthalmic Solution have been demonstrated in pediatric patients in a 3-month, multicenter, double-masked, active-treatment-controlled trial.
+Safety and effectiveness of dorzolamide hydrochloride ophthalmic solution have been demonstrated in pediatric patients in a 3-month, multicenter, double-masked, active-treatment-controlled trial.
 
 ## 8.5 Geriatric Use
 

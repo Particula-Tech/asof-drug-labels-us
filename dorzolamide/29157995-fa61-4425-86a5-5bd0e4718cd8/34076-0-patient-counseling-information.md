@@ -6,7 +6,7 @@ See FDA-approved patient labeling (Instructions for Use).
 
 Dorzolamide hydrochloride ophthalmic solution is a sulfonamide and although administered topically is absorbed systemically.
 Therefore the same types of adverse reactions that are attributable to sulfonamides may occur with topical administration.
-Advise patients that if serious or unusual reactions including severe skin reactions or signs of hypersensitivity occur, they should discontinue the use of the product [seeWarnings and Precautions(5.1)].
+Advise patients that if serious or unusual reactions including severe skin reactions or signs of hypersensitivity occur, they should discontinue the use of the product [see Warnings and Precautions (5.1)].
 
 ## 17.2 Intercurrent Ocular Conditions
 
@@ -33,11 +33,11 @@ Advise patients that if they develop any ocular reactions, particularly conjunct
 
 Instruct patients to avoid allowing the tip of the dispensing container to contact the eye or surrounding structures.
 
-Manufactured by Alcon Manufacturing, Ltd
+Manufactured by Alcon Laboratories, Inc.
 
-Fort Worth, Texas 76134-2009 for
+Fort Worth, Texas 76134 for
 
 Sandoz Inc., Princeton, NJ 08540
 
 Rev.
-October 2014
+May 2020

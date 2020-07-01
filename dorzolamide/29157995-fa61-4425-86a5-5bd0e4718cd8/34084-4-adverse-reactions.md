@@ -4,7 +4,9 @@
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-Controlled clinical trials: The most frequent adverse reactions associated with dorzolamide were ocular burning, stinging, or discomfort immediately following ocular administration (approximately one-third of patients).
+Controlled clinical trials
+
+The most frequent adverse reactions associated with dorzolamide were ocular burning, stinging, or discomfort immediately following ocular administration (approximately one-third of patients).
 Approximately one-quarter of patients noted a bitter taste following administration.
 Superficial punctate keratitis occurred in 10 to 15% of patients and signs and symptoms of ocular allergic reaction in approximately 10%.
 Reactions occurring in approximately 1 to 5% of patients were conjunctivitis and lid reactions [see Warnings and Precautions (5.5)], blurred vision, eye redness, tearing, dryness, and photophobia.

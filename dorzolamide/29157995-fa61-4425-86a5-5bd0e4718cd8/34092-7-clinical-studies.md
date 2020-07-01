@@ -1,6 +1,6 @@
 # 14 CLINICAL STUDIES
 
-The efficacy of dorzolamide hydrochloride ophthalmic solution was demonstrated in clinical studies in the treatment of elevated intraocular pressure in patients with glaucoma or ocular hypertension (baseline IOP >23 mmHg).
+The efficacy of dorzolamide hydrochloride ophthalmic solution was demonstrated in clinical studies in the treatment of elevated intraocular pressure in patients with glaucoma or ocular hypertension (baseline IOP ≥23 mmHg).
 The IOP-lowering effect of dorzolamide hydrochloride ophthalmic solution was approximately 3 to 5 mmHg throughout the day and this was consistent in clinical studies of up to one year duration.
 
 The efficacy of dorzolamide hydrochloride ophthalmic solution when dosed less frequently than three times a day (alone or in combination with other products) has not been established.
