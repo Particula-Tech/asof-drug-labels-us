@@ -49,3 +49,9 @@ Simvastatin therapy has not been associated with bleeding or with changes in pro
 ## 7.7 Colchicine
 
 Cases of myopathy, including rhabdomyolysis, have been reported with simvastatin coadministered with colchicine, and caution should be exercised when prescribing simvastatin with colchicine.
+
+## 7.8 Daptomycin
+
+Cases of rhabdomyolysis have been reported with simvastatin administered with daptomycin.
+Both simvastatin and daptomycin can cause myopathy and rhabdomyolysis when given alone and the risk of myopathy and rhabdomyolysis may be increased by coadministration.
+Temporarily suspend simvastatin in patients taking daptomycin [see Warnings and Precautions (5.1)].

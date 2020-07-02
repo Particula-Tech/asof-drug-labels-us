@@ -59,6 +59,10 @@ The benefits of the combined use of simvastatin with the following drugs should 
 Cases of myopathy, including rhabdomyolysis, have been observed with simvastatin coadministered with lipid-modifying doses (≥1 g/day niacin) of niacin-containing products.
 [see Drug Interactions (7.4)].
 
+Cases of rhabdomyolysis have been reported with simvastatin administered with daptomycin.
+Temporarily suspend simvastatin in patients taking daptomycin.
+[see Drug Interactions (7.8)].
+
 Prescribing recommendations for interacting agents are summarized in Table 1 [see also Dosage and Administration (2.3, 2.4), Drug Interactions (7), Clinical Pharmacology (12.3)].
 
 ## 5.2 Liver Dysfunction

@@ -45,6 +45,12 @@ Diabetics showed risk reductions for MCE and MVE due to simvastatin treatment re
 
 Figure 1 The Effects of Treatment with Simvastatin on Major Vascular Events and Major Coronary Events in HPS
 
+N = number of patients in each subgroup.
+The inverted triangles are point estimates of the relative risk, with their 95% confidence intervals represented as a line.
+The area of a triangle is proportional to the number of patients with MVE or MCE in the subgroup relative to the number with MVE or MCE, respectively, in the entire study population.
+The vertical solid line represents a relative risk of one.
+The vertical dashed line represents the point estimate of relative risk in the entire study population.
+
 Angiographic Studies
 
 In the Multicenter Anti-Atheroma Study, the effect of simvastatin on atherosclerosis was assessed by quantitative coronary angiography in hypercholesterolemic patients with CHD.
