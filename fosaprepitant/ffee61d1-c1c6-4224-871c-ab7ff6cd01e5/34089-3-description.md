@@ -7,4 +7,4 @@ Its empirical formula is C23H22F7N4O6P · 2(C7H17NO5) and its structural formula
 Fosaprepitant dimeglumine is a white to off-white amorphous powder with a molecular weight of 1004.83.
 It is freely soluble in water.
 
-Each vial of fosaprepitant for injection for administration as an intravenous infusion contains 150 mg of fosaprepitant (equivalent to 245.3 mg of fosaprepitant dimeglumine) and the following inactive ingredients: edetate disodium (5.4 mg), polysorbate 80 (75 mg), lactose anhydrous (375 mg), sodium hydroxide and/or hydrochloric acid (for pH adjustment).
+Each vial of fosaprepitant for injection for administration as an intravenous infusion contains 150 mg of fosaprepitant (equivalent to 245.3 mg of fosaprepitant dimeglumine) and the following inactive ingredients: edetate disodium (18.8 mg), polysorbate 80 (75 mg), lactose anhydrous (375 mg), sodium hydroxide and/or hydrochloric acid (for pH adjustment).
