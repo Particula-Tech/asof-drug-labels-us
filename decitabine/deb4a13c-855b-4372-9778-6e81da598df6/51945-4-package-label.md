@@ -2,7 +2,7 @@
 
 NDC 59148-046-70 Rx ONLY
 
-DACOGEN ® decitabine for injection 50 mg per vial
+DACOGEN® decitabine for injection 50 mg per vial
 
 FOR INTRAVENOUS INFUSION ONLY WARNING: Cytotoxic Agent Single-dose sterile vial - discard unused portion.
 
@@ -12,7 +12,7 @@ Store vials at 20°C to 25°C (68°F to 77°F); excursions permitted between 15�
 
 NDC 59148-046-70
 
-DACOGEN ® decitabine for injection 50 mg per vial
+DACOGEN® decitabine for injection 50 mg per vial
 
 FOR INTRAVENOUS INFUSION ONLY WARNING: Cytotoxic Agent Single-dose sterile vial - discard unused portion.
 

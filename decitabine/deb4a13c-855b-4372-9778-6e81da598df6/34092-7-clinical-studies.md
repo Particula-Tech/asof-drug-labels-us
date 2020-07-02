@@ -47,14 +47,14 @@ Table 4 Baseline Demographics and Other Patient Characteristics (ITT)
 | RAEB-t | 17 (19) | 14 (17) |
 | CMML | 6 (7) | 8 (10) |
 
-Patients randomized to the DACOGEN arm received DACOGEN intravenously infused at a dose of 15 mg/m 2 over a 3-hour period, every 8 hours, for 3 consecutive days.
+Patients randomized to the DACOGEN arm received DACOGEN intravenously infused at a dose of 15 mg/m2 over a 3-hour period, every 8 hours, for 3 consecutive days.
 This cycle was repeated every 6 weeks, depending on the patient's clinical response and toxicity.
 Supportive care consisted of blood and blood product transfusions, prophylactic antibiotics, and hematopoietic growth factors.
 The study endpoints were overall response rate (complete response + partial response) and time to AML or death.
 Responses were classified using the MDS International Working Group (IWG) criteria; patients were required to be RBC and platelet transfusion independent during the time of response.
 Response criteria are given in Table 5.
 
-Table 5 Response Criteria for the Controlled Trial in MDS Cheson BD, Bennett JM, et al. Report of an International Working Group to Standardize Response Criteria for MDS.
+Table 5 Response Criteria for the Controlled Trial in MDSCheson BD, Bennett JM, et al. Report of an International Working Group to Standardize Response Criteria for MDS.
 Blood.
 2000; 96:3671-3674.
 
@@ -75,7 +75,7 @@ Table 6 Analysis of Response (ITT)
 
 | Parameter | DACOGEN N=89 | Supportive Care N=81 |
 | --- | --- | --- |
-| Overall Response Rate (CR+PR) In the statistical analysis plan, a p-value of ≤0.024 was required to achieve statistical significance. | 15 (17%) p-value <0.001 from two-sided Fisher's Exact Test comparing DACOGEN vs. Supportive Care. | 0 (0%) |
+| Overall Response Rate (CR+PR)In the statistical analysis plan, a p-value of ≤0.024 was required to achieve statistical significance. | 15 (17%)p-value <0.001 from two-sided Fisher's Exact Test comparing DACOGEN vs. Supportive Care. | 0 (0%) |
 | Complete Response (CR) | 8 (9%) | 0 (0%) |
 | Partial Response (PR) | 7 (8%) | 0 (0%) |
 | Duration of Response |  |  |
@@ -89,7 +89,7 @@ Responses occurred in patients with an adjudicated baseline diagnosis of AML.
 ## 14.2 Single-arm Studies in Myelodysplastic Syndrome
 
 Three open-label, single-arm, multicenter studies were conducted to evaluate the safety and efficacy of DACOGEN in MDS patients with any of the FAB subtypes.
-In one study conducted in North America, 99 patients with IPSS Intermediate-1, Intermediate-2, or high-risk prognostic scores received DACOGEN 20 mg/m 2 as an intravenous infusion over 1-hour daily, on days 1-5 of week 1 every 4 weeks (1 cycle).
+In one study conducted in North America, 99 patients with IPSS Intermediate-1, Intermediate-2, or high-risk prognostic scores received DACOGEN 20 mg/m2 as an intravenous infusion over 1-hour daily, on days 1-5 of week 1 every 4 weeks (1 cycle).
 The results were consistent with the results of the controlled trial and are summarized in Table 8.
 
 Table 7 Baseline Demographics and Other Patient Characteristics (ITT)
@@ -131,7 +131,7 @@ Table 7 Baseline Demographics and Other Patient Characteristics (ITT)
 | RAEB-t | 6 (6) |
 | CMML | 11 (11) |
 
-Table 8 Analysis of Response (ITT) Cheson BD, Bennett JM, et al. Report of an International Working Group to Standardize Response Criteria for MDS.
+Table 8 Analysis of Response (ITT)Cheson BD, Bennett JM, et al. Report of an International Working Group to Standardize Response Criteria for MDS.
 Blood.
 2000; 96:3671-3674.
 
@@ -142,4 +142,4 @@ Blood.
 | Partial Response (PR) | 1 (1%) |
 | Duration of Response |  |
 | Median time to (CR+PR) response - Days (range) | 162 (50-267) |
-| Median Duration of (CR+PR) response - Days (range) | 443 (72-722 indicates censored observation) |
+| Median Duration of (CR+PR) response - Days (range) | 443 (72-722indicates censored observation) |

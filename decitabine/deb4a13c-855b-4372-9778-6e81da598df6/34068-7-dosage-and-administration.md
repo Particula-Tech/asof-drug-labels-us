@@ -11,14 +11,14 @@ DACOGEN Regimen Options
 
 Three Day Regimen
 
-Administer DACOGEN at a dose of 15 mg/m 2 by continuous intravenous infusion over 3 hours repeated every 8 hours for 3 days.
+Administer DACOGEN at a dose of 15 mg/m2 by continuous intravenous infusion over 3 hours repeated every 8 hours for 3 days.
 Repeat cycles every 6 weeks upon hematologic recovery (ANC at least 1,000/µL and platelets at least 50,000/µL) for a minimum of 4 cycles.
 A complete or partial response may take longer than 4 cycles.
 Delay and reduce dose for hematologic toxicity [see Dosage and Administration (2.2)].
 
 Five Day Regimen
 
-Administer DACOGEN at a dose of 20 mg/m 2 by continuous intravenous infusion over 1 hour daily for 5 days.
+Administer DACOGEN at a dose of 20 mg/m2 by continuous intravenous infusion over 1 hour daily for 5 days.
 Delay and reduce dose for hematologic toxicity [see Dosage and Administration (2.2)].
 Repeat cycles every 4 weeks upon hematologic recovery (ANC at least 1,000/µL and platelets at least 50,000/µL) for a minimum of 4 cycles.
 A complete or partial response may take longer than 4 cycles.
@@ -34,9 +34,9 @@ Hematologic Toxicity
 
 If hematologic recovery from a previous DACOGEN treatment cycle requires more than 6 weeks, delay the next cycle of DACOGEN therapy and reduce DACOGEN dose temporarily by following this algorithm:
 
-- Recovery requiring more than 6, but less than 8 weeks: delay DACOGEN dosing for up to 2 weeks and reduce the dose temporarily to 11 mg/m 2 every 8 hours (33 mg/m 2/day, 99 mg/m 2/cycle) upon restarting therapy.
+- Recovery requiring more than 6, but less than 8 weeks: delay DACOGEN dosing for up to 2 weeks and reduce the dose temporarily to 11 mg/m2 every 8 hours (33 mg/m2/day, 99 mg/m2/cycle) upon restarting therapy.
 - Recovery requiring more than 8, but less than 10 weeks: Perform bone marrow aspirate to assess for disease progression.
-  In the absence of progression, delay DACOGEN dosing for up to 2 more weeks and reduce the dose to 11 mg/m 2 every 8 hours (33 mg/m 2/day, 99 mg/m 2/cycle) upon restarting therapy, then maintain or increase dose in subsequent cycles as clinically indicated.
+  In the absence of progression, delay DACOGEN dosing for up to 2 more weeks and reduce the dose to 11 mg/m2 every 8 hours (33 mg/m2/day, 99 mg/m2/cycle) upon restarting therapy, then maintain or increase dose in subsequent cycles as clinically indicated.
 
 Non-hematologic Toxicity
 
@@ -49,8 +49,7 @@ Delay subsequent DACOGEN treatment for any the following nonhematologic toxiciti
 ## 2.3 Preparation and Administration
 
 DACOGEN is a cytotoxic drug.
-Follow special handling and disposal procedures.
-1
+Follow special handling and disposal procedures.1
 
 Aseptically reconstitute DACOGEN with room temperature (20°C to 25°C) 10 mL of Sterile Water for Injection, USP.
 Upon reconstitution, the final concentration of the reconstituted DACOGEN solution is 5 mg/mL.

@@ -1,6 +1,6 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-DACOGEN for injection is a sterile, white to almost while lyophilized powder for intravenous use supplied as:
+DACOGEN for injection is a sterile, white to almost white lyophilized powder for intravenous use supplied as:
 
 - NDC 59148-046-70, 50 mg single-dose vial individually packaged in a carton.
 
