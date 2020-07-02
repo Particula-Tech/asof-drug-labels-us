@@ -100,8 +100,12 @@ How should I use epinephrine injection, USP auto-injectors?
   Never press or push the orange tip with your thumb, fingers, or hand.
   The needle comes out of the orange tip.
   Accidental injection into finger, hands or feet may cause a loss of blood flow to these areas.
-  If this happens, go immediately to the nearest emergency room.
+  If an accidental injection happens, go immediately to the nearest emergency room.
   Tell the healthcare provider where on your body you received the accidental injection.
+- •Warning: Do not flip the blue safety release off using a thumb or by pulling it sideways, or by bending and twisting the blue safety release.
+  This may cause the device to activate by accident: a “click” is heard, the orange tip is extended, and the window is blocked.
+  A device that has been activated by accident cannot be used for a patient in an emergency.
+  If this happens, replace it with a new epinephrine injection, USP auto-injector.
 - •Your epinephrine injection, USP auto-injectors may come packaged with an epinephrine injection, USP auto-injector Trainer and separate Trainer Instructions for Use.
   The epinephrine injection, USP auto-injector Trainer has a grey color.
   The grey epinephrine injection, USP auto-injector Trainer contains no medicine and no needle.
@@ -130,7 +134,11 @@ Epinephrine injection, USP auto-injectors may cause serious side effects.
   - •the area feels warm to the touch
 - •Cuts on the skin, bent needles, and needles that remain in the skin after the injection, have happened in young children who do not cooperate and kick or move during an injection.
   If you inject a young child with epinephrine injection, USP auto-injector, hold their leg firmly in place before and during the injection to prevent injuries.
-  Ask your healthcare provider to show you how to properly hold the leg of a young child during injection.
+  Ask your healthcare provider to show you how to:
+  - 1.
+    Hold the young child firmly in place (restrain).
+  - 2.With one hand, grip the auto-injector with the orange tip pointing down.
+  - 3.With the other hand, pull the blue safety release straight up and away from the auto-injector.
 - •If you have certain medical conditions, or take certain medicines, your condition may get worse or you may have longer lasting side effects when you use your epinephrine injection, USP auto-injector.
   Talk to your healthcare provider about all your medical conditions.
 
@@ -153,7 +161,7 @@ Tell your healthcare provider if you have any side effect that bothers you or th
 These are not all the possible side effects of the epinephrine injection, USP auto-injector.
 For more information, ask your healthcare provider or pharmacist.
 
-Call your healthcare provider for medical advice about side effects.
+Call your doctor for medical advice about side effects.
 You may report side effects to FDA at 1-800-FDA-1088.
 
 How should I store epinephrine injection, USP auto-injectors?
@@ -174,12 +182,16 @@ How should I store epinephrine injection, USP auto-injectors?
   Throw away (dispose of) expired, unwanted, or unused epinephrine injection, USP auto-injectors in an FDA-cleared sharps disposal container.
   Do not throw away the epinephrine injection, USP auto-injectors in your household trash.
   If you do not have an FDA-cleared sharps disposal container, you may use a household container that is:
-  - oMade of heavy-duty plastic
-  - oCan be closed with a tight-fitting, puncture-resistant lid, without sharps being able to come out
-  - oUpright and stable during use
+  - oMade of heavy-duty plastic,
+  - oCan be closed with a tight-fitting, puncture-resistant lid, without sharps being able to come out,
+  - oUpright and stable during use,
   - oLeak-resistant, and
-  - oProperly labeled to warn of hazardous waste inside the container
-- Visit the FDA website (www.fda.gov/drugs/safe-disposal-medicines/disposal-unused-medicines-what-you-should-know) for more information about how to throw away (dispose of) unused medicines.
+  - oProperly labeled to warn of hazardous waste inside the container.
+- When your sharps disposal container is almost full, you will need to follow your community guidelines for the right way to dispose of your sharps disposal container.
+  There may be state or local laws about how you should throw away used needles and syringes.
+  For more information about safe sharps disposal, and for specific information about sharps disposal in the state that you live in, go to the FDA’s website at: http://www.fda.gov/safesharpsdisposal
+- 
+- Visit the FDA’s website (https://www.fda.gov/drugs/safe-disposal-medicines/disposal-unused-medicines-what-you-should-know) for more information about how to throw away (dispose of) unused, unwanted or expired medicines.
 
 Keep epinephrine injection, USP auto-injectors and all medicines out of the reach of children.
 
@@ -208,6 +220,14 @@ Important Information
 - •Your auto-injector is designed to work through clothing.
 - •The blue safety release on the epinephrine injection, USP auto-injector helps to prevent accidental injection of the device.
   Do not remove the blue safety release until you are ready to use it.
+- •Warning: Do not flip the blue safety release off using a thumb or by pulling it sideways, or by bending and twisting the blue safety release.
+  This may cause the device to activate by accident: a “click” is heard, the orange tip is extended, and the window is blocked.
+  A device that has been activated by accident cannot be used for a patient in an emergency.
+  If this happens, replace it with a new epinephrine injection, USP auto-injector.
+- •When receiving an epinephrine injection, USP auto-injector and before you need to use the epinephrine injection, USP auto-injector, remove the auto-injector from the carrier tube and check the auto-injector to make sure the blue safety release is not raised (see Figure 1 in the Instructions for Use).
+  If the blue safety release is raised, the auto-injector should not be used because the device could activate by accident.
+  Do not try to push the blue safety release back down.
+  Put the auto-injector back in the carrier tube and replace it with a new epinephrine injection, USP auto-injector.
 - •Choking hazard: The blue safety release is a small part that may become a choking hazard for children.
   Throw away the blue safety release immediately after using epinephrine injection, USP auto-injector.
 - •Only inject into the middle of the outer thigh (upper leg).
@@ -232,16 +252,25 @@ If you have any questions, ask your healthcare provider.
 
 Your epinephrine injection, USP auto-injectors
 
+When receiving an epinephrine injection, USP auto-injector and before you need to use the epinephrine injection, USP auto-injector, do the following:
+
+- •Remove the epinephrine injection, USP auto-injector from the carrier tube and check the auto-injector to make sure the blue safety release is not raised (see Figure 1).
+  If the blue safety release is not raised, the auto-injector is okay to use.
+  Put the auto-injector back in the carrier tube so that it is ready to be used in an allergic emergency.
+- •If the blue safety release is raised (see Figure 2), the auto-injector should not be used because the device could activate by accident.
+  Do not try to push the blue safety release back down.
+  Put the auto-injector back in the carrier tube and replace it with a new epinephrine injection, USP auto-injector.
+
 A dose of epinephrine injection, USP auto-injector requires 3 steps: Prepare, Administer and Get emergency medical help
 
 1. Step 1.
    Prepare epinephrine injection, USP auto-injector for injection
 
-|  | Remove the epinephrine injection, USP auto-injector from the clear carrier tube. Flip open the yellow cap of your epinephrine injection, USP auto-injector, 0.3 mg or the green cap of your epinephrine injection, USP auto-injector, 0.15 mg carrier tube. |
+|  | Remove the epinephrine injection, USP auto-injector from the clear carrier tube. Open the yellow cap of your epinephrine injection, USP auto-injector, 0.3 mg or the green cap of your epinephrine injection, USP auto-injector, 0.15 mg carrier tube. |
 | --- | --- |
 |  | Tip and slide the auto-injector out of the carrier tube. |
 |  | Grasp the auto-injector in your fist with the orange tip (needle end) pointing downward. With your other hand, remove the blue safety release by pulling straight up without bending or twisting it. |
-| Important: The blue safety release is a small part that may become a choking hazard for children. Throw away the blue safety release immediately after using epinephrine injection, USP auto-injector. |  |
+| Warning: Do not flip the blue safety release off using a thumb or by pulling it sideways, or by bending and twisting the blue safety release. This may cause the device to activate by accident: a “click” is heard, the orange tip is extended, and the window is blocked. A device that has been activated by accident cannot be used for a patient in an emergency. If this happens, replace it with a new epinephrine injection, USP auto-injector.Important: The blue safety release is a small part that may become a choking hazard for children. Throw away the blue safety release immediately after using epinephrine injection, USP auto-injector. |  |
 | Note: •The needle comes out of the orange tip.•To avoid an accidental injection, never put your thumb, fingers or hand over the orange tip. If an accidental injection happens, get emergency medical help right away. |  |
 
 1. Step 2.
@@ -274,12 +303,12 @@ Note:
   The auto-injector cannot be reused.
   Do not attempt to reuse epinephrine injection, USP auto-injector after the device has been activated.
   It is normal for most of the medicine to remain in the auto-injector after the dose is injected.
-  The correct dose has been administered if the orange needle tip is extended and the window is blocked.
+  The correct dose has been administered if the orange tip is extended and the window is blocked.
 - •Your epinephrine injection, USP auto-injectors may come packaged with an epinephrine injection, USP auto-injector Trainer and separate Trainer Instructions for Use.
   The epinephrine injection, USP auto-injector Trainer has a grey color.
   The grey epinephrine injection, USP auto-injector Trainer contains no medicine and no needle.
   Practice with your epinephrine injection, USP auto-injector Trainer, but always carry your real epinephrine injection, USP auto-injector in case of an allergic emergency.
-- •If you will be administering epinephrine injection, USP auto-injector to a young child, ask your healthcare provider to show you how to properly hold the leg in place while administering a dose.
+- •If you will be administering epinephrine injection, USP auto-injector to a young child, ask your healthcare provider to show you how to first hold the child firmly in place (restrain), use 1 hand to hold the auto-injector with the orange tip pointing down and your other hand to remove the blue safety release to activate the auto-injector, and how to properly hold the leg in place while administering a dose.
 - •Do not try to take the epinephrine injection, USP auto-injector apart.
 
 This Patient Information and Instructions for Use have been approved by the U.S. Food and Drug Administration.
@@ -289,7 +318,7 @@ Manufactured for: Mylan Specialty L.P., Morgantown, WV 26505, U.S.A. by Meridian
 Copyright © 2020 Meridian Medical Technologies.
 All rights reserved.
 
-Revised: 1/2020 MS:PIL:EPIG:R3 0002075
+Revised: 6/2020 MS:PIL:EPIG:R4 0002103
 
 Epinephrine Injection, USP Auto-Injector 0.3 mg one dose of 0.3 mg epinephrine, USP 0.3 mg/0.3 mL
 
@@ -314,14 +343,18 @@ Epinephrine Injection, USP Auto-Injector Trainer Instructions for Use
 Epinephrine Injection, USP Auto-Injector Trainer Instructions for Use
 
 In an emergency: Do not use the grey Trainer.
-Use your real yellow epinephrine injection, USP auto-injector, 0.3 mg or green epinephrine injection, USP auto-injector, 0.15 mg.
+Use your real yellow epinephrine injection, USP auto-injector, 0.3 mg or real green epinephrine injection, USP auto-injector, 0.15 mg.
 
 Important Information
 
 - •The Trainer label has a grey color.
 - •The Trainer contains no medicine and no needle.
-- •Periodically practice with the grey colored Trainer before an allergic emergency (anaphylaxis) happens to make sure you are able to safely use the real yellow epinephrine injection, USP auto-injector, 0.3 mg or green epinephrine injection, USP auto-injector, 0.15 mg in case of an emergency.
-- •Always carry your real yellow epinephrine injection, USP auto-injector, 0.3 mg or green epinephrine injection, USP auto-injector, 0.15 mg in case of an allergic emergency.
+- •Periodically practice with the grey colored Trainer before an allergic emergency (anaphylaxis) happens to make sure you are able to safely use the real yellow epinephrine injection, USP auto-injector, 0.3 mg or real green epinephrine injection, USP auto-injector, 0.15 mg in case of an emergency.
+- •Always carry your real yellow epinephrine injection, USP auto-injector, 0.3 mg or real green epinephrine injection, USP auto-injector, 0.15 mg in case of an allergic emergency.
+- •When receiving the real yellow epinephrine injection, USP auto-injector, 0.3 mg or real green epinephrine injection, USP auto-injector, 0.15 mg and before you need to use the real yellow epinephrine injection, USP auto-injector, 0.3 mg or real green epinephrine injection, USP auto-injector, 0.15 mg, check the auto-injector to make sure the blue safety release is not raised (see Patient Information Leaflet).
+  If the blue safety release is raised, the auto-injector should not be used because the device could activate by accident.
+  Do not try to push the blue safety release back down.
+  Put the auto-injector back in the carrier tube and replace it with a new real yellow epinephrine injection, USP auto-injector, 0.3 mg or real green epinephrine injection, USP auto-injector, 0.15 mg.
 - •Small parts like the blue safety release may become a choking hazard for children.
   Put the blue safety release back on the Trainer and reset it immediately after practicing.
 
@@ -337,19 +370,19 @@ Your grey colored Trainer:
 
 Practice Instructions
 
-|  | 1 Prepare the Trainer for Simulated Injection •Grasp the grey Trainer in your fist with the orange tip pointing downward.•With your other hand, remove blue safety release by pulling straight up without bending or twisting it.•Removing the blue safety release unlocks the Trainer. |
+|  | 1 Prepare the Trainer for Simulated Injection •Grasp the grey Trainer in your fist with the orange tip pointing downward.•With your other hand, remove blue safety release by pulling straight up without bending or twisting it.•Removing the blue safety release unlocks the Trainer. Warning: Do not flip the blue safety release off using a thumb or by pulling it sideways, or by bending and twisting the blue safety release. This may cause the real yellow epinephrine injection, USP auto-injector, 0.3 mg or real green epinephrine injection, USP auto-injector, 0.15 mg to accidentally activate. An epinephrine injection, USP auto-injector that has been activated by accident cannot be used for a patient in an emergency and must be replaced. |
 | --- | --- |
 |  | 2 Administer the Trainer Simulation |
-| •If practicing with a young child, hold the leg firmly in place while using the epinephrine injection, USP auto-injector Trainer. Ask your healthcare provider to show you how to properly hold the leg to practice so that you will be prepared before an allergic emergency happens. |  |
+| •If practicing with a young child, hold the leg firmly in place while using the epinephrine injection, USP auto-injector Trainer. Ask your healthcare provider to show you how to first hold the child firmly (restrain) and then use one hand to hold the trainer with the orange tip pointing down and your other hand to remove the blue safety release, and how to properly hold the leg to practice so that you will be prepared before an allergic emergency happens. |  |
 |  | •Place the orange tip against the middle of the outer thigh (upper leg) at a right angle (perpendicular) to the thigh.•Swing and push the trainer firmly until it ‘clicks.’ The click signals that the injection has started. |
 |  | •Hold firmly in place for 3 seconds (count slowly 1,2,3).•Remove the Trainer from the thigh and massage the injection area for 10 seconds. The orange tip automatically extends out after use. Note: •In an actual emergency, you would need to seek emergency medical help right away•The actual auto-injector is made to work through clothing•Do not inject into any other part of the body |
 |  | 3 To reset the Trainer •Put the blue safety release back on the Trainer•Place the orange tip on a hard surface•Squeeze the sides of the orange tip and push down on the Trainer with the other hand |
 
-Note: With the real yellow epinephrine injection, USP auto-injector, 0.3 mg or green epinephrine injection, USP auto-injector, 0.15 mg, the orange tip covers the needle after self-injection to help protect you from accidentally sticking yourself or others.
+Note: With the real yellow epinephrine injection, USP auto-injector, 0.3 mg or real green epinephrine injection, USP auto-injector, 0.15 mg, the orange tip covers the needle after self-injection to help protect you from accidentally sticking yourself or others.
 
 Practice Session Information
 
-In case of an allergic emergency, use the real yellow epinephrine injection, USP auto-injector, 0.3 mg or green epinephrine injection, USP auto-injector, 0.15 mg and not the grey Trainer.
+In case of an allergic emergency, use the real yellow epinephrine injection, USP auto-injector, 0.3 mg or real green epinephrine injection, USP auto-injector, 0.15 mg and not the grey Trainer.
 
 Follow instructions above.
 Repeat as often as needed until you are able to self-inject quickly and correctly.
@@ -370,7 +403,7 @@ For more information about Epinephrine Injection, USP Auto-Injectors and the pro
 
 Caution:
 
-Important differences between the Trainer and your real yellow epinephrine injection, USP auto-injector, 0.3 mg or green epinephrine injection, USP auto-injector, 0.15 mg
+Important differences between the Trainer and your real yellow epinephrine injection, USP auto-injector, 0.3 mg or real green epinephrine injection, USP auto-injector, 0.15 mg
 
 |  | TRAINER (Grey) | Epinephrine Injection, USP Auto-Injector, 0.3 mg (Yellow) | Epinephrine Injection, USP Auto-Injector, 0.15 mg (Green) |
 | --- | --- | --- | --- |
@@ -390,4 +423,4 @@ Manufactured for Mylan Specialty L.P., Morgantown, WV 26505, U.S.A. by Meridian 
 Copyright © 2020 Meridian Medical Technologies.
 All rights reserved.
 
-Revised: 1/2020 MS:EPITG:R3 0002079
+Revised: 6/2020 MS:EPITG:R4 0002107

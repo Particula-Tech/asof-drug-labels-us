@@ -69,4 +69,4 @@ Manufactured for Mylan Specialty L.P., Morgantown, WV 26505, U.S.A. by Meridian 
 Copyright © 2020 Meridian Medical Technologies.
 All rights reserved.
 
-Revised: 1/2020 MS:EPIG:R4 0002076
+Revised: 6/2020 MS:EPIG:R5 0002104
