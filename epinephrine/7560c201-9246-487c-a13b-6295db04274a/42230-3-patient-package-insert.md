@@ -39,7 +39,7 @@ What is the most important information I should know about the EpiPen and EpiPen
    Tell your family members, caregivers, and others where you keep your EpiPen or EpiPen Jr and how to use it before you need it.
    You may be unable to speak in an allergic emergency.
 5. 3.When you have an allergic emergency (anaphylaxis)
-   1. •Use the EpiPen or EpiPen Jr right away.
+   1. •Use EpiPen or EpiPen Jr right away.
    2. •Get emergency medical help right away.
       You may need further medical attention.
       You may need to use a second EpiPen or EpiPen Jr if symptoms continue or recur.
@@ -87,8 +87,8 @@ Use your EpiPen or EpiPen Jr for treatment of anaphylaxis as prescribed by your 
 How should I use EpiPen and EpiPen Jr?
 
 - •Each EpiPen or EpiPen Jr Auto-Injector contains only 1 dose of medicine.
-- •EpiPen or EpiPen Jr should be injected into the middle of your outer thigh (upper leg).
-  It can be injected through your clothing if needed.
+  - oEpiPen or EpiPen Jr should be injected into the middle of your outer thigh (upper leg).
+    It can be injected through your clothing if needed.
 - •Read the Instructions for Use at the end of this Patient Information Leaflet about the right way to use EpiPen and EpiPen Jr.
 - •Your healthcare provider will show you how to safely use the EpiPen or EpiPen Jr Auto-Injector.
 - •Use your EpiPen or EpiPen Jr exactly as your healthcare provider tells you to use it.
@@ -98,8 +98,12 @@ How should I use EpiPen and EpiPen Jr?
   Never press or push the orange tip with your thumb, fingers, or hand.
   The needle comes out of the orange tip.
   Accidental injection into finger, hands or feet may cause a loss of blood flow to these areas.
-  If this happens, go immediately to the nearest emergency room.
+  If an accidental injection happens, go immediately to the nearest emergency room.
   Tell the healthcare provider where on your body you received the accidental injection.
+- •Warning:Do not flip the blue safety release off using a thumb or by pulling it sideways, or by bending and twisting the blue safety release.
+  This may cause the device to activate by accident: a “click” is heard, the orange tip is extended, and the window is blocked.
+  A device that has been activated by accident cannot be used for a patient in an emergency.
+  If this happens, replace it with a new EpiPen or EpiPen Jr.
 - •Your EpiPen and EpiPen Jr Auto-Injector may come packaged with an EpiPen Trainer and separate Trainer Instructions for Use.
   The EpiPen Trainer has a grey color.
   The grey EpiPen Trainer contains no medicine and no needle.
@@ -130,7 +134,10 @@ EpiPen and EpiPen Jr may cause serious side effects.
   - •the area feels warm to the touch
 - •Cuts on the skin, bent needles, and needles that remain in the skin after the injection, have happened in young children who do not cooperate and kick or move during an injection.
   If you inject a young child with EpiPen or EpiPen Jr, hold their leg firmly in place before and during the injection to prevent injuries.
-  Ask your healthcare provider to show you how to properly hold the leg of a young child during injection.
+  Ask your healthcare provider to show you how to:
+  - 1.Hold the young child firmly in place (restrain).
+  - 2.With one hand, grip the auto-injector with the orange tip pointing down.
+  - 3.With the other hand, pull the blue safety release straight up and away from the auto-injector.
 - •If you have certain medical conditions, or take certain medicines, your condition may get worse or you may have longer lasting side effects when you use your EpiPen or EpiPen Jr.
   Talk to your healthcare provider about all your medical conditions.
 
@@ -153,7 +160,7 @@ Tell your healthcare provider if you have any side effect that bothers you or th
 These are not all the possible side effects of the EpiPen or EpiPen Jr.
 For more information, ask your healthcare provider or pharmacist.
 
-Call your healthcare provider for medical advice about side effects.
+Call your doctor for medical advice about side effects.
 You may report side effects to FDA at 1-800-FDA-1088.
 
 How should I store EpiPen and EpiPen Jr?
@@ -165,7 +172,7 @@ How should I store EpiPen and EpiPen Jr?
 - •Examine the contents in the clear window of your auto-injector periodically.
   The solution should be clear.
   If the solution is discolored (pinkish or brown color) or contains solid particles, replace the unit.
-- •Always keep your EpiPen or EpiPenJr Auto-Injector in the carrier tube to protect it from damage.
+- •Always keep your EpiPen or EpiPen Jr Auto-Injector in the carrier tube to protect it from damage.
   The carrier tube is not waterproof.
 - •The blue safety release helps to prevent accidental injection.
   Keep the blue safety release on until you need to use EpiPen or EpiPen Jr.
@@ -174,12 +181,16 @@ How should I store EpiPen and EpiPen Jr?
   Throw away (dispose of) expired, unwanted, or unused EpiPen and EpiPen Jr in an FDA-cleared sharps disposal container.
   Do not throw away the EpiPen or EpiPen Jr in your household trash.
   If you do not have an FDA-cleared sharps disposal container, you may use a household container that is:
-  - oMade of heavy-duty plastic
-  - oCan be closed with a tight-fitting, puncture-resistant lid, without sharps being able to come out
-  - oUpright and stable during use
+  - oMade of heavy-duty plastic,
+  - oCan be closed with a tight-fitting, puncture-resistant lid, without sharps being able to come out,
+  - oUpright and stable during use,
   - oLeak-resistant, and
-  - oProperly labeled to warn of hazardous waste inside the container
-- •Visit the FDA website (www.fda.gov/drugs/safe-disposal-medicines/disposal-unused-medicines-what-you-should-know) for more information about how to throw away (dispose of) unused medicines.
+  - oProperly labeled to warn of hazardous waste inside the container.
+- When your sharps disposal container is almost full, you will need to follow your community guidelines for the right way to dispose of your sharps disposal container.
+  There may be state or local laws about how you should throw away used needles and syringes.
+  For more information about safe sharps disposal, and for specific information about sharps disposal in the state that you live in, go to the FDA’s website at: http://www.fda.gov/safesharpsdisposal
+- 
+- Visit the FDA’s website (https://www.fda.gov/drugs/safe-disposal-medicines/disposal-unused-medicines-what-you-should-know) for more information about how to throw away (dispose of) unused, unwanted or expired medicines.
 
 Keep EpiPen and EpiPen Jr and all medicines out of the reach of children.
 
@@ -208,6 +219,14 @@ Important Information
 - •Your auto-injector is designed to work through clothing.
 - •The blue safety release on the EpiPen and EpiPen Jr Auto-Injector helps to prevent accidental injection of the device.
   Do not remove the blue safety release until you are ready to use it.
+- •Warning: Do not flip the blue safety release off using a thumb or by pulling it sideways, or by bending and twisting the blue safety release.
+  This may cause the device to activate by accident: a “click” is heard, the orange tip is extended, and the window is blocked.
+  A device that has been activated by accident cannot be used for a patient in an emergency.
+  If this happens, replace it with a new EpiPen or EpiPen Jr.
+- •When receiving an EpiPen or EpiPen Jr Auto-Injector and before you need to use the EpiPen or EpiPen Jr Auto-Injector, remove the auto-injector from the carrier tube and check the auto-injector to make sure the blue safety release is not raised (see Figure 1 in the Instructions for Use).
+  If the blue safety release is raised, the auto-injector should not be used because the device could activate by accident.
+  Do not try to push the blue safety release back down.
+  Put the auto-injector back in the carrier tube and replace it with a new EpiPen or EpiPen Jr.
 - •Choking hazard: The blue safety release is a small part that may become a choking hazard for children.
   Throw away the blue safety release immediately after using EpiPen and EpiPen Jr Auto-Injector.
 - •Only inject into the middle of the outer thigh (upper leg).
@@ -232,6 +251,15 @@ If you have any questions, ask your healthcare provider.
 
 Your EpiPen and EpiPen Jr Auto-Injector
 
+When receiving an EpiPen or EpiPen Jr Auto-Injector and before you need to use the EpiPen or EpiPen Jr Auto-Injector, do the following:
+
+- •Remove the EpiPen or EpiPen Jr Auto-Injector from the carrier tube and check the auto-injector to make sure the blue safety release is not raised (see Figure 1).
+  If the blue safety release is not raised, the auto-injector is okay to use.
+  Put the auto-injector back in the carrier tube so that it is ready to be used in an allergic emergency.
+- •If the blue safety release is raised (see Figure 2), the auto-injector should not be used because the device could activate by accident.
+  Do not try to push the blue safety release back down.
+  Put the auto-injector back in the carrier tube and replace it with a new EpiPen or EpiPen Jr.
+
 A dose of EpiPen or EpiPen Jr requires 3 steps: Prepare, Administer and Get emergency medical help
 
 Step 1.
@@ -239,10 +267,15 @@ Prepare EpiPen or EpiPen Jr for injection
 
 |  | Remove the EpiPen or EpiPen Jr from the clear carrier tube. |
 | --- | --- |
-|  | Flip open the yellow cap of your EpiPen or the green cap of your EpiPen Jr carrier tube. |
+|  | Open the yellow cap of your EpiPen or the green cap of your EpiPen Jr carrier tube. |
 |  | Tip and slide the auto-injector out of the carrier tube. |
 |  | Grasp the auto-injector in your fist with the orange tip (needle end) pointing downward.With your other hand, remove the blue safety release by pulling straight up without bending or twisting it. |
 
+- Warning: Do not flip the blue safety release off using a thumb or by pulling it sideways, or by bending and twisting the blue safety release.
+  This may cause the device to activate by accident: a “click” is heard, the orange tip is extended, and the window is blocked.
+  A device that has been activated by accident cannot be used for a patient in an emergency.
+  If this happens, replace it with a new EpiPen or EpiPen Jr.
+- 
 - Important: The blue safety release is a small part that may become a choking hazard for children.
   Throw away the blue safety release immediately after using EpiPen or EpiPen Jr.
 - Note:
@@ -280,12 +313,12 @@ Note:
   The auto-injector cannot be reused.
   Do not attempt to reuse EpiPen after the device has been activated.
   It is normal for most of the medicine to remain in the auto-injector after the dose is injected.
-  The correct dose has been administered if the orange needle tip is extended and the window is blocked.
+  The correct dose has been administered if the orange tip is extended and the window is blocked.
 - •Your EpiPen and EpiPen Jr Auto-Injector may come packaged with an EpiPen Trainer and separate Trainer Instructions for Use.
   The EpiPen Trainer has a grey color.
   The grey EpiPen Trainer contains no medicine and no needle.
   Practice with your EpiPen Trainer, but always carry your real EpiPen or EpiPen Jr Auto-Injector in case of an allergic emergency.
-- •If you will be administering EpiPen or EpiPen Jr to a young child, ask your healthcare provider to show you how to properly hold the leg in place while administering a dose.
+- •If you will be administering EpiPen or EpiPen Jr to a young child, ask your healthcare provider to show you how to first hold the child firmly in place (restrain), use 1 hand to hold the auto-injector with the orange tip pointing down and your other hand to remove the blue safety release to activate the auto-injector, and how to properly hold the leg in place while administering a dose.
 - •Do not try to take the EpiPen or EpiPen Jr Auto-Injector apart.
 
 This Patient Information and Instructions for Use have been approved by the U.S. Food and Drug Administration.
@@ -294,12 +327,12 @@ Manufactured for:
 
 Mylan Specialty L.P., Morgantown, WV 26505, U.S.A. by Meridian Medical Technologies, Inc., Columbia, MD 21046, U.S.A., a Pfizer company
 
-EpiPen® and EpiPen Jr® are registered trademarks of Mylan Inc. licensed exclusively to its wholly-owned affiliate, Mylan Specialty L.P. of, Morgantown, WV 26505, U.S.A.
+EpiPen® or EpiPen Jr® are registered trademarks of Mylan Inc. licensed exclusively to its wholly-owned affiliate, Mylan Specialty L.P. of, Morgantown, WV 26505, U.S.A.
 
 Copyright © 2020 Meridian Medical Technologies.
 All rights reserved.
 
-Revised: 1/2020 MS:PIL:EPI:R4 0002045
+Revised: 6/2020 MS:PIL:EPI:R5 0002094
 
 EPIPEN® (epinephrine injection, USP) Auto-Injector 0.3 mg EpiPen® = one dose of 0.3 mg epinephrine, USP 0.3 mg/0.3 mL
 
@@ -322,14 +355,18 @@ For more information about EpiPen or EpiPen Jr Auto-Injectors and proper use of 
 EpiPen Trainer Instructions for Use
 
 In an emergency: Do not use the grey Trainer.
-Use your real yellow EpiPen® or green EpiPen Jr® Auto-Injector.
+Use your real yellow EpiPen® or real green EpiPen Jr® Auto-Injector.
 
 Important Information
 
 - •The Trainer label has a grey color.
 - •The Trainer contains no medicine and no needle.
-- •Periodically practice with the grey colored Trainer before an allergic emergency (anaphylaxis) happens to make sure you are able to safely use the real yellow EpiPen or green EpiPen Jr Auto-Injector in case of an emergency.
-- •Always carry your real yellow EpiPen or green EpiPen Jr Auto-Injector in case of an allergic emergency.
+- •Periodically practice with the grey colored Trainer before an allergic emergency (anaphylaxis) happens to make sure you are able to safely use the real yellow EpiPen or real green EpiPen Jr Auto-Injector in case of an emergency.
+- •Always carry your real yellow EpiPen or real green EpiPen Jr Auto-Injector in case of an allergic emergency.
+- •When receiving the real yellow EpiPen or real green EpiPen Jr Auto-Injector and before you need to use the real yellow EpiPen or real green EpiPen Jr Auto-Injector, check the auto-injector to make sure the blue safety release is not raised (see Patient Information Leaflet).
+  If the blue safety release is raised, the auto-injector should not be used because the device could activate by accident.
+  Do not try to push the blue safety release back down.
+  Put the auto-injector back in the carrier tube and replace it with a new real yellow EpiPen or real green EpiPen Jr.
 - •Small parts like the blue safety release may become a choking hazard for children.
   Put the blue safety release back on the Trainer and reset it immediately after practicing.
 
@@ -347,20 +384,20 @@ Practice Instructions
 
 |  | 1 Prepare the Trainer for Simulated Injection |
 | --- | --- |
-|  | •Grasp the grey Trainer in your fist with the orange tip pointing downward.•With your other hand, remove blue safety release by pulling straight up without bending or twisting it.•Removing the blue safety release unlocks the Trainer. |
+|  | •Grasp the grey Trainer in your fist with the orange tip pointing downward.•With your other hand, remove blue safety release by pulling straight up without bending or twisting it.•Removing the blue safety release unlocks the Trainer. Warning: Do not flip the blue safety release off using a thumb or by pulling it sideways, or by bending and twisting the blue safety release. This may cause the real yellow EpiPen or real green EpiPen Jr auto-injector to accidentally activate. An EpiPen or EpiPen Jr auto-injector that has been activated by accident cannot be used for a patient in an emergency and must be replaced. |
 |  | 2 Administer the Trainer Simulation |
-| •If practicing with a young child, hold the leg firmly in place while using the EpiPen Trainer. Ask your healthcare provider to show you how to properly hold the leg to practice so that you will be prepared before an allergic emergency happens. |  |
+| •If practicing with a young child, hold the leg firmly in place while using the EpiPen Trainer. Ask your healthcare provider to show you how to first hold the child firmly (restrain)and then use one hand to hold the trainer with the orange tip pointing down and your other hand to remove the blue safety release, and how to properly hold the leg to practice so that you will be prepared before an allergic emergency happens. |  |
 |  | •Place the orange tip against the middle of the outer thigh (upper leg) at a right angle (perpendicular) to the thigh.•Swing and push the trainer firmly until it ‘clicks.’ The click signals that the injection has started. |
 |  | •Hold firmly in place for 3 seconds (count slowly 1,2,3).•Remove the Trainer from the thigh and massage the injection area for 10 seconds. The orange tip automatically extends out after use. |
 |  | Note: •In an actual emergency, you would need to seek emergency medical help right away•The actual auto-injector is made to work through clothing•Do not inject into any other part of the body |
 |  | 3 To reset the Trainer |
 |  | •Put the blue safety release back on the Trainer•Place the orange tip on a hard surface•Squeeze the sides of the orange tip and push down on the Trainer with the other hand |
 
-Note: With the real yellow EpiPen or green EpiPen Jr Auto-Injector, the orange tip covers the needle after self-injection to help protect you from accidentally sticking yourself or others.
+Note: With the real yellow EpiPen or real green EpiPen Jr Auto-Injector, the orange tip covers the needle after self-injection to help protect you from accidentally sticking yourself or others.
 
 Practice Session Information
 
-In case of an allergic emergency, use the real yellow EpiPen or green EpiPen Jr Auto-Injector and not the grey Trainer.
+In case of an allergic emergency, use the real yellow EpiPen or real green EpiPen Jr Auto-Injector and not the grey Trainer.
 
 Follow instructions above.
 Repeat as often as needed until you are able to self-inject quickly and correctly.
@@ -381,7 +418,7 @@ For more information about the EpiPen and EpiPen Jr Auto-Injector and the proper
 
 Caution:
 
-Important differences between the Trainer and your real yellow EpiPen or green EpiPen Jr Auto-Injector
+Important differences between the Trainer and your real yellow EpiPen or real green EpiPen Jr Auto-Injector
 
 |  | TRAINER (Grey) | EpiPen (Yellow) | EpiPen Jr (Green) |
 | --- | --- | --- | --- |
@@ -403,4 +440,4 @@ EpiPen® and EpiPen Jr® are registered trademarks of Mylan Inc. licensed exclus
 Copyright © 2020 Meridian Medical Technologies.
 All rights reserved.
 
-Revised: 1/2020 MS:EPIT:R5 0002049
+Revised: 6/2020 MS:EPIT:R6 0002100
