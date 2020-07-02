@@ -2,9 +2,7 @@
 
 ## 8.1 Pregnancy
 
-Risk Summary
-
-Neonatal opioid withdrawal syndrome (NOWS) is an expected and treatable outcome of prolonged use of opioids during pregnancy [see Warnings and Precautions (5.6)].
+Risk Summary Neonatal opioid withdrawal syndrome (NOWS) is an expected and treatable outcome of prolonged use of opioids during pregnancy [see Warnings and Precautions (5.6)].
 
 Pregnant women in methadone maintenance programs may have reduced incidence of obstetric and fetal complications and neonatal morbidity and mortality when compared to women using illicit drugs.
 Untreated opioid addiction in pregnancy is associated with adverse obstetrical outcomes and risk of continued or relapsing illicit opioid use.
@@ -20,9 +18,7 @@ The estimated background risk of major birth defects and miscarriage for the ind
 All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
 In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively.
 
-Clinical Considerations
-
-Disease-Associated Maternal and Embryo-Fetal Risk: Untreated opioid addiction in pregnancy is associated with adverse obstetrical outcomes such as low birth weight, preterm birth, and fetal death.
+Clinical Considerations Disease-Associated Maternal and Embryo-Fetal Risk: Untreated opioid addiction in pregnancy is associated with adverse obstetrical outcomes such as low birth weight, preterm birth, and fetal death.
 In addition, untreated opioid addiction often results in continued or relapsing illicit opioid use.
 
 Dosage Adjustment During Pregnancy: The disposition of oral methadone has been studied in approximately 30 pregnant patients in 2nd and 3rd trimesters.
@@ -43,9 +39,7 @@ An opioid antagonist, such as naloxone, must be available for reversal of opioid
 Opioids, including methadone hydrochloride tablets for oral suspension can prolong labor through actions which temporarily reduce the strength, duration, and frequency of uterine contractions.
 However, this effect is not consistent and may be offset by an increased rate of cervical dilation, which tends to shorten labor.
 
-Human Data
-
-Reported studies have generally compared the benefit of methadone to the risk of untreated addiction to illicit drugs.
+Human Data: Reported studies have generally compared the benefit of methadone to the risk of untreated addiction to illicit drugs.
 Pregnant women involved in methadone maintenance programs have been reported to have significantly improved prenatal care leading to significantly reduced incidence of obstetric and fetal complications and neonatal morbidity and mortality when compared to women using illicit drugs.
 Several factors, including maternal use of illicit drugs, nutrition, infection and psychosocial circumstances, complicate the interpretation of investigations of the children of women who take methadone during pregnancy.
 Information is limited regarding dose and duration of methadone use during pregnancy, and most maternal exposure appears to occur after the first trimester of pregnancy.

@@ -28,7 +28,8 @@ Consider the following important factors that differentiate methadone from other
   Population-based conversion ratios between methadone and other opioids are not accurate when applied to individuals.
 - With repeated dosing, methadone is retained in the liver and then slowly released, prolonging the duration of potential toxicity.
 - Steady-state plasma concentrations are not attained until 3 to 5 days after initiation of dosing.
-- Methadone hydrochloride tablets for oral suspension have a narrow therapeutic index, especially when combined with other drugs.
+
+Methadone hydrochloride tablets for oral suspension have a narrow therapeutic index, especially when combined with other drugs.
 
 ## 2.3 Dosing Instructions
 
@@ -67,9 +68,7 @@ Also consider concurrent medications and the general condition and medical statu
 During the induction phase of methadone maintenance treatment, patients are being withdrawn from opioids and may have opioid withdrawal symptoms.
 Monitor patients for signs and symptoms of opioid withdrawal including: lacrimation, rhinorrhea, sneezing, yawning, excessive perspiration, goose-flesh, fever, chilling alternating with flushing, restlessness, irritability, weakness, anxiety, depression, dilated pupils, tremors, tachycardia, abdominal cramps, body aches, involuntary twitching and kicking movements, anorexia, nausea, vomiting, diarrhea, intestinal spasms, and weight loss and consider dose adjustment as indicated.
 
-Short-Term Detoxification
-
-For a brief course of stabilization followed by a period of medically supervised withdrawal, titrate the patient to a total daily dose of about 40 mg in divided doses to achieve an adequate stabilizing level.
+Short-Term Detoxification For a brief course of stabilization followed by a period of medically supervised withdrawal, titrate the patient to a total daily dose of about 40 mg in divided doses to achieve an adequate stabilizing level.
 After 2 to 3 days of stabilization, gradually decrease the dose of methadone.
 Decrease the dose of methadone on a daily basis or at 2-day intervals, keeping the amount of methadone sufficient to keep withdrawal symptoms at a tolerable level.
 Hospitalized patients may tolerate a daily reduction of 20% of the total daily dose.

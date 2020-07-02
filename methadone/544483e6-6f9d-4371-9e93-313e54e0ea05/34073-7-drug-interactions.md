@@ -8,11 +8,11 @@
 | Inhibitors of CYP3A4, CYP2B6, CYP2C19, CYP2C9, or CYP2D6 |  |  |
 | Clinical Impact: | Methadone undergoes hepatic N-demethylation by several cytochrome P450 (CYP) isoforms, including CYP3A4, CYP2B6, CYP2C19, CYP2C9, and CYP2D6. The concomitant use of methadone hydrochloride tablets for oral suspension and CYP3A4, CYP2B6, CYP2C19, CYP2C9, or CYP2D6 inhibitors can increase the plasma concentration of methadone, resulting in increased or prolonged opioid effects, and may result in a fatal overdose, particularly when an inhibitor is added after a stable dose of methadone hydrochloride tablets for oral suspension is achieved. These effects may be more pronounced with concomitant use of drugs that inhibit more than one of the CYP enzymes listed above.After stopping a CYP3A4, CYP2B6, CYP2C19, CYP2C9, or CYP2D6 inhibitor, as the effects of the inhibitor decline, the methadone plasma concentration can decrease [see Clinical Pharmacology (12.3)], resulting in decreased opioid efficacy or withdrawal symptoms in patients physically dependent on methadone. |  |
 | Intervention: | If concomitant use is necessary, consider dosage reduction of methadone hydrochloride tablets for oral suspension until stable drug effects are achieved. Monitor patients for respiratory depression and sedation at frequent intervals.If a CYP3A4, CYP2B6, CYP2C19, CYP2C9, or CYP2D6 inhibitor is discontinued, follow patients for signs of opioid withdrawal and consider increasing the methadone hydrochloride tablets for oral suspension dosage until stable drug effects are achieved. |  |
-| Examples: | Macrolide antibiotics (e.g., erythromycin), azole-antifungal agents (e.g., ketoconazole), protease inhibitors (e.g., ritonavir), fluconazole, fluvoxamine, some selective serotonin reuptake inhibitors (SSRIs) (e.g., sertraline, fluvoxamine) |  |
+| Examples: | Macrolide antibiotics (e.g., erythromycin), azole-antifungal agents (e.g., ketoconazole), protease inhibitors (e.g., ritonavir), fluconazole, fluvoxamine, some selective serotonin reuptake inhibitors (SSRIs) (e.g., sertraline, fluvoxamine). |  |
 | Inducers of CYP3A4, CYP2B6, CYP2C19, or CYP2C9 |  |  |
 | Clinical Impact: | The concomitant use of methadone hydrochloride tablets for oral suspension and CYP3A4, CYP2B6, CYP2C19, or CYP2C9 inducers can decrease the plasma concentration of methadone [see Clinical Pharmacology (12.3)], resulting in decreased efficacy or onset of withdrawal symptoms in patients physically dependent on methadone. These effects could be more pronounced with concomitant use of drugs that can induce multiple CYP enzymes.After stopping a CYP3A4, CYP2B6, CYP2C19, or CYP2C9 inducer, as the effects of the inducer decline, the methadone plasma concentration can increase [see Clinical Pharmacology (12.3)], which could increase or prolong both the therapeutic effects and adverse reactions, and may cause serious respiratory depression, sedation, or death. |  |
 | Intervention: | If concomitant use is necessary, consider increasing the methadone hydrochloride tablets for oral suspension dosage until stable drug effects are achieved. Monitor for signs of opioid withdrawal. If a CYP3A4, CYP2B6, CYP2C19, or CYP2C9 inducer is discontinued, consider methadone hydrochloride tablets for oral suspension dosage reduction and monitor for signs of respiratory depression and sedation. |  |
-| Examples: | Rifampin, carbamazepine, phenytoin, St. John’s Wort, Phenobarbital |  |
+| Examples: | Rifampin, carbamazepine, phenytoin, St. John’s Wort, phenobarbital. |  |
 | Potentially Arrhythmogenic Agents |  |  |
 | Clinical Impact: | Pharmacodynamic interactions may occur with concomitant use of methadone and potentially arrhythmogenic agents or drugs capable of inducing electrolyte disturbances (hypomagnesemia, hypokalemia). |  |
 | Intervention: | Monitor patients closely for cardiac conduction changes. |  |
@@ -20,15 +20,15 @@
 | Serotonergic Drugs |  |  |
 | Clinical Impact: | The concomitant use of opioids with other drugs that affect the serotonergic neurotransmitter system has resulted in serotonin syndrome [see Warnings and Precautions (5.9)]. |  |
 | Intervention: | If concomitant use is warranted, carefully observe the patient, particularly during treatment initiation and dose adjustment. Discontinue methadone hydrochloride tablets for oral suspension if serotonin syndrome is suspected. |  |
-| Examples: | Selective serotonin reuptake inhibitors (SSRIs), serotonin and norepinephrine reuptake inhibitors (SNRIs), tricyclic antidepressants (TCAs), triptans, 5-HT3receptor antagonists, drugs that affect the serotonin neurotransmitter system (e.g., mirtazapine, trazodone, tramadol), monoamine oxidase (MAO) inhibitors (those intended to treat psychiatric disorders and also others, such as linezolid and intravenous methylene blue). |  |
+| Examples: | Selective serotonin reuptake inhibitors (SSRIs), serotonin and norepinephrine reuptake inhibitors (SNRIs), tricyclic antidepressants (TCAs), triptans, 5-HT3 receptor antagonists, drugs that affect the serotonin neurotransmitter system (e.g., mirtazapine, trazodone, tramadol), certain muscle relaxants (i.e., cyclobenzaprine, metaxalone), monoamine oxidase (MAO) inhibitors (those intended to treat psychiatric disorders and also others, such as linezolid and intravenous methylene blue). |  |
 | Monoamine Oxidase Inhibitors (MAOIs) |  |  |
 | Clinical Impact: | MAOI interactions with opioids may manifest as serotonin syndrome or opioid toxicity (e.g., respiratory depression, coma) [see Warnings and Precautions (5.1)]. |  |
 | Intervention: | The use of methadone hydrochloride tablets for oral suspension is not recommended for patients taking MAOIs or within 14 days of stopping such treatment. |  |
-| Examples: | phenelzine, tranylcypromine, linezolid |  |
+| Examples: | Phenelzine, tranylcypromine, linezolid. |  |
 | Mixed Agonist/Antagonist and Partial Agonist Opioid Analgesics |  |  |
 | Clinical Impact: | Patients maintained on methadone may experience withdrawal symptoms when given opioid antagonists, mixed agonist/antagonists, and partial agonists. |  |
 | Intervention: | Avoid concomitant use. |  |
-| Examples: | butorphanol, nalbuphine, pentazocine, buprenorphine |  |
+| Examples: | Butorphanol, nalbuphine, pentazocine, buprenorphine. |  |
 | Muscle Relaxants |  |  |
 | Clinical Impact: | Methadone may enhance the neuromuscular blocking action of skeletal muscle relaxants and produce an increased degree of respiratory depression. |  |
 | Intervention: | Monitor patients for signs of respiratory depression that may be greater than otherwise expected and decrease the dosage of methadone hydrochloride tablets for oral suspension and/or the muscle relaxant as necessary. |  |
@@ -37,21 +37,15 @@
 | Intervention: | Monitor patients for signs of diminished diuresis and/or effects on blood pressure and increase the dosage of the diuretic as needed. |  |
 | Anticholinergic Drugs |  |  |
 | Clinical Impact: | The concomitant use of anticholinergic drugs may increase risk of urinary retention and/or severe constipation, which may lead to paralytic ileus. |  |
-| Intervention: | Monitor patients for signs of urinary retention or reduced gastric motility when methadone hydrochloride tablets for oral suspension is used concomitantly with anticholinergic drugs. |  |
+| Intervention: | Monitor patients for signs of urinary retention or reduced gastric motility when methadone hydrochloride tablets for oral suspension are used concomitantly with anticholinergic drugs. |  |
 
-Paradoxical Effects of Antiretroviral Agents on Methadone
-
-Concurrent use of certain protease inhibitors with CYP3A4 inhibitory activity, alone and in combination, such as abacavir, amprenavir, darunavir+ritonavir, efavirenz, nelfinavir, nevirapine, ritonavir, telaprevir, lopinavir+ritonavir, saquinavir+ritonavir, and tipranavir+ritonavir, has resulted in increased clearance or decreased plasma levels of methadone.
+Paradoxical Effects of Antiretroviral Agents on Methadone Concurrent use of certain protease inhibitors with CYP3A4 inhibitory activity, alone and in combination, such as abacavir, amprenavir, darunavir+ritonavir, efavirenz, nelfinavir, nevirapine, ritonavir, telaprevir, lopinavir+ritonavir, saquinavir+ritonavir, and tipranavir+ritonavir, has resulted in increased clearance or decreased plasma levels of methadone.
 This may result in reduced efficacy of methadone hydrochloride tablets for oral suspension and could precipitate a withdrawal syndrome.
 Monitor patients receiving methadone hydrochloride tablets for oral suspension and any of these antiretroviral therapies closely for evidence of withdrawal effects and adjust the methadone hydrochloride tablets for oral suspension dose accordingly.
 
-Effects of Methadone on Antiretroviral Agents
-
-Didanosine and Stavudine: Experimental evidence demonstrated that methadone decreased the area under the concentration-time curve (AUC) and peak levels for didanosine and stavudine, with a more significant decrease for didanosine.
+Effects of Methadone on Antiretroviral Agents Didanosine and Stavudine: Experimental evidence demonstrated that methadone decreased the area under the concentration-time curve (AUC) and peak levels for didanosine and stavudine, with a more significant decrease for didanosine.
 Methadone disposition was not substantially altered.
 
 Zidovudine: Experimental evidence demonstrated that methadone increased the AUC of zidovudine, which could result in toxic effects.
 
-Effects of Methadone on Antidepressants
-
-Desipramine:Blood levels of desipramine have increased with concurrent methadone administration.
+Effects of Methadone on Antidepressants Desipramine: Blood levels of desipramine have increased with concurrent methadone administration.

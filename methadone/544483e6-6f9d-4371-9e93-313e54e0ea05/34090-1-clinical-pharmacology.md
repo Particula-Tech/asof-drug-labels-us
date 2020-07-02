@@ -38,20 +38,20 @@ The clinical significance of these findings is unknown.
 Overall, the effects of opioids appear to be modestly immunosuppressive.
 
 Concentration-Adverse Reaction Relationships There is a relationship between increasing methadone plasma concentration and increasing frequency of dose-related opioid adverse reactions such as nausea, vomiting, CNS effects, and respiratory depression.
-In opioid-tolerant patients, the situation may be altered by the development of tolerance to opioid-related adverse reactions [see Dosage and Administration (2.4), (2.5), (2.6)].
+In opioid-tolerant patients, the situation may be altered by the development of tolerance to opioid-related adverse reactions [see Dosage and Administration (2.4, 2.5, 2.6)].
 
 ## 12.3 Pharmacokinetics
 
 Absorption Following oral administration the bioavailability of methadone ranges between 36 to 100% and peak plasma concentrations are achieved between 1 to 7.5 hours.
 Dose proportionality of methadone pharmacokinetics is not known.
-However, after administration of daily oral doses ranging from 10 to 225 mg, the steady-state plasma concentrations ranged between 65 to 630 ng/mL and the peak concentrations ranged between 124 to 1255 ng/mL.
+However, after administration of daily oral doses ranging from 10 to 225 mg, the steady-state plasma concentrations ranged between 65 to 630 ng/mL and the peak concentrations ranged between 124 to 1,255 ng/mL.
 Effect of food on the bioavailability of methadone has not been evaluated.
 
 Distribution Methadone is a lipophilic drug and the steady-state volume of distribution ranges between 1 to 8 L/kg.
 In plasma, methadone is predominantly bound to α1-acid glycoprotein (85% to 90%).
 Methadone is secreted in saliva, breast milk, amniotic fluid and umbilical cord plasma.
 
-Elimination Metabolism: Methadone is primarily metabolized by N-demethylation to an inactive metabolite, 2-ethylidene-1,5-dimethyl-3,3-diphenylpyrrolidene (EDDP).
+Elimination Metabolism: Methadone is primarily metabolized by N-demethylation to an inactive metabolite, 2-ethylidene-1,5-dimethyl-3,3-diphenylpyrrolidene(EDDP).
 Cytochrome P450 enzymes, primarily CYP3A4, CYP2B6, CYP2C19, CYP2C9 and CYP2D6, are responsible for conversion of methadone to EDDP and other inactive metabolites, which are excreted mainly in the urine.
 Methadone appears to be a substrate for P-glycoprotein but its pharmacokinetics do not appear to be significantly altered in case of P-glycoprotein polymorphism or inhibition.
 
@@ -62,10 +62,10 @@ Also, since methadone is lipophilic, it has been known to persist in the liver a
 The slow release from the liver and other tissues may prolong the duration of methadone action despite low plasma concentrations.
 
 Drug Interaction Studies Cytochrome P450 Interactions: Methadone undergoes hepatic N-demethylation by cytochrome P450 (CYP) isoforms, principally CYP3A4, CYP2B6, CYP2C19, CYP2C9, and CYP2D6.
-Coadministration of methadone with CYP inducers may result in more rapid metabolism and potential for decreased effects of methadone, whereas administration with CYP inhibitors may reduce metabolism and potentiate methadone’s effects.
+Co-administration of methadone with CYP inducers may result in more rapid metabolism and potential for decreased effects of methadone, whereas administration with CYP inhibitors may reduce metabolism and potentiate methadone’s effects.
 Although antiretroviral drugs such as efavirenz, nelfinavir, nevirapine, ritonavir, lopinavir+ritonavir combination are known to inhibit some CYPs, they are shown to reduce the plasma levels of methadone, possibly due to CYP induction activity [see Drug Interactions (7)].
 
-Cytochrome P450 Inducers: The following drug interactions were reported following coadministration of methadone with known inducers of cytochrome P450 enzymes:
+Cytochrome P450 Inducers: The following drug interactions were reported following co-administration of methadone with known inducers of cytochrome P450 enzymes:
 
 Rifampin: In patients well-stabilized on methadone, concomitant administration of rifampin resulted in a marked reduction in serum methadone levels and a concurrent appearance of withdrawal symptoms.
 
@@ -78,12 +78,12 @@ Cytochrome P450 Inhibitors: Voriconazole: Voriconazole can inhibit the activity 
 Repeat dose administration of oral voriconazole (400 mg every 12 hours for 1 day, then 200 mg every 12 hours for 4 days) increased the peak plasma concentration (Cmax) and AUC of (R)-methadone by 31% and 47%, respectively, in subjects receiving a methadone maintenance dose (30 to 100 mg daily).
 The Cmax and AUC of (S)-methadone increased by 65% and 103%, respectively.
 Increased plasma concentrations of methadone have been associated with toxicity including QT prolongation.
-Frequent monitoring for adverse events and toxicity related to methadone is recommended during coadministration.
+Frequent monitoring for adverse events and toxicity related to methadone is recommended during co-administration.
 Dose reduction of methadone may be needed [see Drug Interactions (7)].
 
 Antiretroviral Drugs: Although antiretroviral drugs such as efavirenz, nelfinavir, nevirapine, ritonavir, telaprevir, lopinavir+ritonavir combination are known to inhibit some CYPs, they are shown to reduce the plasma levels of methadone, possibly due to CYP induction activity.
 
-Abacavir, amprenavir, darunavir+ritonavir, efavirenz, nelfinavir, nevirapine, ritonavir, telaprevir, lopinavir+ritonavir, saquinavir+ritonavir, tipranavir+ritonavir combination: Coadministration of these antiretroviral agents resulted in increased clearance or decreased plasma levels of methadone [see Drug Interactions (7)].
+Abacavir, amprenavir, darunavir+ritonavir, efavirenz, nelfinavir, nevirapine, ritonavir, telaprevir, lopinavir+ritonavir, saquinavir+ritonavir, tipranavir+ritonavir combination: Co-administration of these antiretroviral agents resulted in increased clearance or decreased plasma levels of methadone [see Drug Interactions (7)].
 
 Didanosine and Stavudine: Methadone decreased the AUC and peak levels for didanosine and stavudine, with a more significant decrease for didanosine.
 Methadone disposition was not substantially altered [see Drug Interactions (7)].
