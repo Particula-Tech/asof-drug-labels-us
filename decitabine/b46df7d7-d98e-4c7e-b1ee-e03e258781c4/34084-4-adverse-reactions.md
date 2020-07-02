@@ -1,6 +1,10 @@
 # 6 ADVERSE REACTIONS
 
-## 6.1 Clinical Studies Experience
+The following clinically significant adverse reactions are described elsewhere in the labeling:
+
+- Myelosuppression [see Warnings and Precautions (5.1)]
+
+## 6.1 Clinical Trials Experience
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
@@ -8,9 +12,10 @@ The safety of Decitabine for Injection was studied in 3 single-arm studies (N = 
 The data described below reflect exposure to Decitabine for Injection in 83 patients in the MDS trial.
 In the trial, patients received 15 mg/m 2 intravenously every 8 hours for 3 days every 6 weeks.
 The median number of Decitabine for Injection cycles was 3 (range 0 to 9).
-Most Commonly Occurring Adverse Reactions: neutropenia, thrombocytopenia, anemia, fatigue, pyrexia, nausea, cough, petechiae, constipation, diarrhea, and hyperglycemia.
 
-Adverse Reactions Most Frequently (≥ 1%) Resulting in Clinical Intervention and or Dose Modification in the Phase 3 Trials in the decitabine Arm:
+Most Common Adverse Reactions: neutropenia, thrombocytopenia, anemia, fatigue, pyrexia, nausea, cough, petechiae, constipation, diarrhea, and hyperglycemia.
+
+Adverse Reactions Most Frequently (≥ 1%) Resulting in Clinical Intervention and or Dose Modification in the Controlled Supportive Care Study in the decitabine Arm:
 
 - Discontinuation: thrombocytopenia, neutropenia, pneumonia, Mycobacterium avium complex infection, cardio-respiratory arrest, increased blood bilirubin, intracranial hemorrhage, abnormal liver function tests.
 - Dose Delayed: neutropenia, pulmonary edema, atrial fibrillation, central line infection, febrile neutropenia.
@@ -18,7 +23,7 @@ Adverse Reactions Most Frequently (≥ 1%) Resulting in Clinical Intervention an
 
 Table 1 presents all adverse reactions occurring in at least 5% of patients in the decitabine group and at a rate greater than supportive care.
 
-Table 1 Adverse Reactions Reported in ≥ 5% of Patients in the Decitabine Group and at a Rate Greater than Supportive Care in Phase 3 MDS Trial
+Table 1 Adverse Reactions Reported in ≥ 5% of Patients in the decitabine Group and at a Rate Greater than Supportive Care in the Controlled Trial in MDS
 
 |  | Decitabine N = 83 (%) | Supportive Care N = 81 (%) |
 | --- | --- | --- |
@@ -149,7 +154,7 @@ Table 1 Adverse Reactions Reported in ≥ 5% of Patients in the Decitabine Group
 | Hypotension NOS | 5 (6) | 4 (5) |
 | Hematoma NOS | 4 (5) | 3 (4) |
 
-In a single-arm MDS study (N=99) decitabine was dosed at 20 mg/m 2 intravenous, infused over one hour daily for 5 consecutive days of a 4-week cycle.
+In a single-arm MDS study (N=99) Decitabine was dosed at 20 mg/m 2 intravenously, infused over one hour daily for 5 consecutive days of a 4-week cycle.
 Table 2 presents all adverse reactions occurring in at least 5% of patients.
 
 Table 2 Adverse Reactions Reported in ≥ 5% of Patients in a Single-arm Study 1
@@ -157,110 +162,111 @@ Table 2 Adverse Reactions Reported in ≥ 5% of Patients in a Single-arm Study 1
 |  | Decitabine N = 99 (%) |
 | --- | --- |
 | Blood and lymphatic system disorders |  |
-| Anemia | 31 (31%) |
-| Febrile neutropenia | 20 (20%) |
-| Leukopenia | 6 (6%) |
-| Neutropenia | 38 (38%) |
-| Pancytopenia | 5 (5%) |
-| Thrombocythemia | 5 (5%) |
-| Thrombocytopenia | 27 (27%) |
+| Anemia | 31 (31) |
+| Febrile neutropenia | 20 (20) |
+| Leukopenia | 6 (6) |
+| Neutropenia | 38 (38) |
+| Pancytopenia | 5 (5) |
+| Thrombocythemia | 5 (5) |
+| Thrombocytopenia | 27 (27) |
 | Cardiac disorders |  |
-| Cardiac failure congestive | 5 (5%) |
-| Tachycardia | 8 (8%) |
+| Cardiac failure congestive | 5 (5) |
+| Tachycardia | 8 (8) |
 | Ear and labyrinth disorders |  |
-| Ear pain | 6 (6%) |
+| Ear pain | 6 (6) |
 | Gastrointestinal disorders |  |
-| Abdominal pain | 14 (14%) |
-| Abdominal pain upper | 6 (6%) |
-| Constipation | 30 (30%) |
-| Diarrhea | 28 (28%) |
-| Dyspepsia | 10 (10%) |
-| Dysphagia | 5 (5%) |
-| Gastro-esophageal reflux disease | 5 (5%) |
-| Nausea | 40 (40%) |
-| Oral pain | 5 (5%) |
-| Stomatitis | 11 (11%) |
-| Toothache | 6 (6%) |
-| Vomiting | 16 (16%) |
+| Abdominal pain | 14 (14) |
+| Abdominal pain upper | 6 (6) |
+| Constipation | 30 (30) |
+| Diarrhea | 28 (28) |
+| Dyspepsia | 10 (10) |
+| Dysphagia | 5 (5) |
+| Gastro-esophageal reflux disease | 5 (5) |
+| Nausea | 40 (40) |
+| Oral pain | 5 (5) |
+| Stomatitis | 11 (11) |
+| Toothache | 6 (6) |
+| Vomiting | 16 (16) |
 | General disorders and administration site conditions |  |
-| Asthenia | 15 (15%) |
-| Chest pain | 6 (6%) |
-| Chills | 16 (16%) |
-| Fatigue | 46 (46%) |
-| Mucosal inflammation | 9 (9%) |
-| Edema | 5 (5%) |
-| Edema peripheral | 27 (27%) |
-| Pain | 5 (5%) |
-| Pyrexia | 36 (36%) |
+| Asthenia | 15 (15) |
+| Chest pain | 6 (6) |
+| Chills | 16 (16) |
+| Fatigue | 46 (46) |
+| Mucosal inflammation | 9 (9) |
+| Edema | 5 (5) |
+| Edema peripheral | 27 (27) |
+| Pain | 5 (5) |
+| Pyrexia | 36 (36) |
 | Infections and infestations |  |
-| Cellulitis | 9 (9%) |
-| Oral candidiasis | 6 (6%) |
-| Pneumonia | 20 (20%) |
-| Sinusitis | 6 (6%) |
-| Staphylococcal bacteremia | 8 (8%) |
-| Tooth abscess | 5 (5%) |
-| Upper respiratory tract infection | 10 (10%) |
-| Urinary tract infection | 7 (7%) |
+| Cellulitis | 9 (9) |
+| Oral candidiasis | 6 (6) |
+| Pneumonia | 20 (20) |
+| Sinusitis | 6 (6) |
+| Staphylococcal bacteremia | 8 (8) |
+| Tooth abscess | 5 (5) |
+| Upper respiratory tract infection | 10 (10) |
+| Urinary tract infection | 7 (7) |
 | Injury, poisoning and procedural complications |  |
-| Contusion | 9 (9%) |
+| Contusion | 9 (9) |
 | Investigations |  |
-| Blood bilirubin increased | 6 (6%) |
-| Breath sounds abnormal | 5 (5%) |
-| Weight decreased | 9 (9%) |
+| Blood bilirubin increased | 6 (6) |
+| Breath sounds abnormal | 5 (5) |
+| Weight decreased | 9 (9) |
 | Metabolism and nutrition disorders |  |
-| Anorexia | 23 (23%) |
-| Decreased appetite | 8 (8%) |
-| Dehydration | 8 (8%) |
-| Hyperglycemia | 6 (6%) |
-| Hypokalemia | 12 (12%) |
-| Hypomagnesemia | 5 (5%) |
+| Anorexia | 23 (23) |
+| Decreased appetite | 8 (8) |
+| Dehydration | 8 (8) |
+| Hyperglycemia | 6 (6) |
+| Hypokalemia | 12 (12) |
+| Hypomagnesemia | 5 (5) |
 | Musculoskeletal and connective tissue disorders |  |
-| Arthralgia | 17 (17%) |
-| Back pain | 18 (18%) |
-| Bone pain | 6 (6%) |
-| Muscle spasms | 7 (7%) |
-| Muscular weakness | 5 (5%) |
-| Musculoskeletal pain | 5 (5%) |
-| Myalgia | 9 (9%) |
-| Pain in extremity | 18 (18%) |
+| Arthralgia | 17 (17) |
+| Back pain | 18 (18) |
+| Bone pain | 6 (6) |
+| Muscle spasms | 7 (7) |
+| Muscular weakness | 5 (5) |
+| Musculoskeletal pain | 5 (5) |
+| Myalgia | 9 (9) |
+| Pain in extremity | 18 (18) |
 | Nervous system disorders |  |
-| Dizziness | 21 (21%) |
-| Headache | 23 (23%) |
+| Dizziness | 21 (21) |
+| Headache | 23 (23) |
 | Psychiatric disorders |  |
-| Anxiety | 9 (9%) |
-| Confusional state | 8 (8%) |
-| Depression | 9 (9%) |
-| Insomnia | 14 (14%) |
+| Anxiety | 9 (9) |
+| Confusional state | 8 (8) |
+| Depression | 9 (9) |
+| Insomnia | 14 (14) |
 | Respiratory, thoracic and mediastinal disorders |  |
-| Cough | 27 (27%) |
-| Dyspnea | 29 (29%) |
-| Epistaxis | 13 (13%) |
-| Pharyngolaryngeal pain | 8 (8%) |
-| Pleural effusion | 5 (5%) |
-| Sinus congestion | 5 (5%) |
+| Cough | 27 (27) |
+| Dyspnea | 29 (29) |
+| Epistaxis | 13 (13) |
+| Pharyngolaryngeal pain | 8 (8) |
+| Pleural effusion | 5 (5) |
+| Sinus congestion | 5 (5) |
 | Skin and subcutaneous tissue disorders |  |
-| Dry skin | 8 (8%) |
-| Ecchymosis | 9 (9%) |
-| Erythema | 5 (5%) |
-| Night sweats | 5 (5%) |
-| Petechiae | 12 (12%) |
-| Pruritus | 9 (9%) |
-| Rash | 11 (11%) |
-| Skin lesion | 5 (5%) |
+| Dry skin | 8 (8) |
+| Ecchymosis | 9 (9) |
+| Erythema | 5 (5) |
+| Night sweats | 5 (5) |
+| Petechiae | 12 (12) |
+| Pruritus | 9 (9) |
+| Rash | 11 (11) |
+| Skin lesion | 5 (5) |
 | Vascular disorders |  |
-| Hypertension | 6 (6%) |
-| Hypotension | 11 (11%) |
+| Hypertension | 6 (6) |
+| Hypotension | 11 (11) |
 
 1 In this single arm study, investigators reported adverse events based on clinical signs and symptoms rather than predefined laboratory abnormalities.
 Thus, not all laboratory abnormalities were recorded as adverse events.
 
-No overall difference in safety was detected between patients > 65 years of age and younger patients in these myelodysplasia trials.
-No significant gender differences in safety or efficacy were detected.
+No overall difference in safety was detected between patients > 65 years of age and younger patients in these MDS trials.
+No significant differences in safety were detected between males and females.
 Patients with renal or hepatic dysfunction were not studied.
-Insufficient numbers of non-white patients were available to draw conclusions in these clinical trials.
+Insufficient numbers of non-White patients were available to draw conclusions in these clinical trials.
 
-Serious adverse reactions that occurred in patients receiving decitabine regardless of causality, not previously reported in Tables 1 and 2 include:
+Serious adverse reactions that occurred in patients receiving decitabine not previously reported in Tables 1 and 2 include:
 
+- Allergic Reaction: hypersensitivity (anaphylactic reaction).
 - Blood and Lymphatic System Disorders: myelosuppression, splenomegaly.
 - Cardiac Disorders: myocardial infarction, cardio-respiratory arrest, cardiomyopathy, atrial fibrillation, supraventricular tachycardia.
 - Gastrointestinal Disorders: gingival pain, upper gastrointestinal hemorrhage.
@@ -272,11 +278,11 @@ Serious adverse reactions that occurred in patients receiving decitabine regardl
 - Psychiatric Disorders: mental status changes.
 - Renal and Urinary Disorders: renal failure, urethral hemorrhage.
 - Respiratory, Thoracic and Mediastinal Disorders: hemoptysis, lung infiltration, pulmonary embolism, respiratory arrest, pulmonary mass.
-- Allergic Reaction: Hypersensitivity (anaphylactic reaction) to decitabine has been reported in a Phase 2 trial.
 
-## 6.2 Post-marketing Experience
+## 6.2 Postmarketing Experience
 
-The following adverse reactions have been identified during post-approval use of decitabine.
+The following adverse reactions have been identified during postapproval use of decitabine.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Cases of Sweet's Syndrome (acute febrile neutrophilic dermatosis) have been reported.
+- Sweet's syndrome (acute febrile neutrophilic dermatosis)
+- Differentiation syndrome

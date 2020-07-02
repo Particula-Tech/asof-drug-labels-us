@@ -1,7 +1,7 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
+Decitabine for injection is a sterile, white to almost while lyophilized powder for intravenous use supplied as:
+
 NDC 16729-224-05, 50 mg single-dose vial individually packaged in a carton.
 
-Storage
-
-Store vials at 25°C (77°F); [See USP Controlled Room Temperature] excursions permitted to l5-30°C (59-86°F).
+Store vials at 20°C to 25°C (68°F to 77°F); excursions permitted between 15°C to 30°C (59°F to 86°F) [See USP Controlled Room Temperature].
