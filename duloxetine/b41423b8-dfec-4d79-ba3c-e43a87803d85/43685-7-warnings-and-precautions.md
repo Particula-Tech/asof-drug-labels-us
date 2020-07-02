@@ -78,7 +78,8 @@ If concomitant use of DRIZALMA Sprinkle with other serotonergic drugs is clinica
 Drugs that interfere with serotonin reuptake inhibition, including duloxetine, may increase the risk of bleeding events.
 Concomitant use of aspirin, non-steroidal anti-inflammatory drugs (NSAIDs), warfarin, and other anti-coagulants may add to this risk.
 Case reports and epidemiological studies (case-control and cohort design) have demonstrated an association between use of drugs that interfere with serotonin reuptake and the occurrence of gastrointestinal bleeding.
-Bleeding events related to SSRIs and SNRIs use have ranged from ecchymoses, hematomas, epistaxis, and petechiae to life-threatening hemorrhages.
+A post-marketing study showed a higher incidence of postpartum hemorrhage in mothers taking duloxetine.
+Other bleeding events related to SSRIs and SNRIs use have ranged from ecchymoses, hematomas, epistaxis, and petechiae to life-threatening hemorrhages.
 
 Inform patients about the risk of bleeding associated with the concomitant use of DRIZALMA Sprinkle and NSAIDs, aspirin, or other drugs that affect coagulation [see Drug Interactions (7.1)].
 

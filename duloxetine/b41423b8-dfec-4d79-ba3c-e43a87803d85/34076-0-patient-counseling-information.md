@@ -1,7 +1,7 @@
 # 17 PATIENT COUNSELING INFORMATION
 
 - Advise the patient to read the FDA-approved patient labeling (Medication Guide and Instructions for Use).
-- Suicidal Thoughts and Behaviors - Advise families and caregivers of patients to look for the emergence suicidality, especially early during treatment and when the dose is adjusted up or down, and instruct them to report such symptoms to the healthcare provider [see Boxed Warning, and Warnings and Precautions (5.1)].
+- Suicidal Thoughts and Behaviors - Advise patients, their families and their caregivers to look for the emergence of suicidal ideation and behavior, especially during treatment and when the dose is adjusted up or down, and instruct them to report such symptoms to their healthcare provider [see Boxed Warning, and Warnings and Precautions (5.1)].
 - Hepatotoxicity - Inform patients that severe liver problems, sometimes fatal, have been reported in patients treated with duloxetine delayed-release capsules.
   Instruct patients to talk to their healthcare provider if they develop itching, right upper belly pain, dark urine, or yellow skin/eyes while taking DRIZALMA Sprinkle which may be signs of liver problems.
   Instruct patients to talk to their healthcare provider about their alcohol consumption.
@@ -31,14 +31,13 @@
 - Concomitant Illnesses - Advise patients to inform their physicians about all of their medical conditions [see Warnings and Precautions (5.14)].
 - DRIZALMA Sprinkle are in a class of medicines that may affect urination.
   Instruct patients to consult with their healthcare provider if they develop any problems with urine flow [see Warnings and Precautions (5.15)].
-- Pregnancy and Lactation
+- Pregnancy
+- •Advise pregnant women to notify their healthcare provider if they become pregnant or intend to become pregnant during treatment with DRIZALMA Sprinkle.
 
-- •Advise patients to notify their healthcare provider if they
-- become pregnant or intend to become pregnant during treatment with DRIZALMA Sprinkle.
-  1. 1.Advise patients that DRIZALMA Sprinkle use late in pregnancy may increase the risk of neonatal complications requiring prolonged hospitalization, respiratory support and tube feeding.
-  2. 2.Advise women that there is a risk of relapse with discontinuation of antidepressants.
-  3. 3.Advise patients that there is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to antidepressants during pregnancy [see Use in Specific Populations (8.2)].
-  4. 4.Advise patient to notify their healthcare providers if they are breastfeeding or plan to breastfeed [see Use in Specific Populations (8.2)].
+- •Advise pregnant women to notify their healthcare provider if they become pregnant or intend to become pregnant during treatment with DRIZALMA Sprinkle.
+  - •Advise patients that DRIZALMA Sprinkle use during the month before delivery may lead to an increased risk for postpartum hemorrhage and may increase the risk of neonatal complications requiring prolonged hospitalization, respiratory support and tube feeding.
+  - •Advise patients that there is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to duloxetine during pregnancy [see Use in Specific Populations (8.1)].
+- Lactation- Advise breastfeeding women using DRIZALMA Sprinkle to monitor infants for sedation, poor feeding and poor weight gain and to seek medical care if they notice these signs [see Use in Specific Populations (8.2)].
 - Pediatric Use - Safety and efficacy of duloxetine delayed-release capsules in patients 7 to 17 years of age have been established for the treatment of GAD.
   The types of adverse reactions observed with duloxetine delayed-release capsules in children and adolescents were generally similar to those observed in adults.
   The safety and effectiveness of DRIZALMA Sprinkle have not been established in pediatric patients less than 18 years of age with other indications.
@@ -54,5 +53,4 @@
 - Distributed by:
 - Sun Pharmaceutical Industries, Inc.
 - Cranbury, NJ 08512
-
-FDA-03
+- FDA-05
