@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA020626"
+  ],
+  "inn": "sumatriptan",
+  "labeler": "Prasco Laboratories",
+  "package_ndcs": [
+    "66993-081-69",
+    "66993-082-69"
+  ],
+  "products": [
+    {
+      "form": "SPRAY",
+      "generic": "sumatriptan",
+      "name": "SUMATRIPTAN"
+    }
+  ],
+  "setid": "f63e616b-ae0c-432b-badc-8c45023aa725",
+  "source": "dailymed"
+}
