@@ -1,6 +1,6 @@
-# 14. CLINICAL STUDIES
+# 14 CLINICAL STUDIES
 
-## 14.1. Multiple Sclerosis
+## 14.1 Multiple Sclerosis
 
 TYSABRI was evaluated in two randomized, double-blind, placebo-controlled trials in patients with multiple sclerosis.
 Both studies enrolled patients who experienced at least one clinical relapse during the prior year and had a Kurtzke Expanded Disability Status Scale (EDSS) score between 0 and 5.0.
@@ -81,7 +81,7 @@ Table 6: Clinical and MRI Endpoints in Study MS2 (Add-On Study) at 2 Years
 
 Figure 1: Time to Increase in Disability Sustained for 12 Weeks in Study MS1
 
-## 14.2. Crohn's Disease
+## 14.2 Crohn's Disease
 
 The safety and efficacy of TYSABRI were evaluated in three randomized, double-blind, placebo-controlled clinical trials in 1414 adult patients with moderately to severely active Crohn's disease (Crohn's Disease Activity Index [CDAI] ≥220 and ≤450) [see References (15)].
 Concomitant inhibitors of TNF-α were not permitted.

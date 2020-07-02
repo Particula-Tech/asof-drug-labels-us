@@ -1,4 +1,4 @@
-# 16. HOW SUPPLIED/STORAGE AND HANDLING
+# 16 HOW SUPPLIED/STORAGE AND HANDLING
 
 TYSABRI (natalizumab) injection, a sterile, preservative-free, colorless and clear to slightly opalescent solution for dilution prior to intravenous infusion, is supplied as one 300 mg/15 mL (20 mg/mL) single-dose vial per carton (NDC 64406-008-01).
 

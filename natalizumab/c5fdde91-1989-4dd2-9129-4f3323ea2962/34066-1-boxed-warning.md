@@ -1,7 +1,7 @@
 # WARNING: PROGRESSIVE MULTIFOCAL LEUKOENCEPHALOPATHY
 
 TYSABRI increases the risk of progressive multifocal leukoencephalopathy (PML), an opportunistic viral infection of the brain that usually leads to death or severe disability.
-Risk factors for the development of PML include duration of therapy, prior use of immunosuppressants, and presence of anti-JCV antibodies.
+Risk factors for the development of PML include the presence of anti-JCV antibodies, duration of therapy, and prior use of immunosuppressants.
 These factors should be considered in the context of expected benefit when initiating and continuing treatment with TYSABRI [see Warnings and Precautions (5.1)].
 
 - Healthcare professionals should monitor patients on TYSABRI for any new sign or symptom that may be suggestive of PML.

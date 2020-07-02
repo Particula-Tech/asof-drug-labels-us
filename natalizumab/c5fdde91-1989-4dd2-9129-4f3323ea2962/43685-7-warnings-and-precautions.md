@@ -1,29 +1,28 @@
-# 5. WARNINGS AND PRECAUTIONS
+# 5 WARNINGS AND PRECAUTIONS
 
-## 5.1. Progressive Multifocal Leukoencephalopathy
+## 5.1 Progressive Multifocal Leukoencephalopathy
 
 Progressive multifocal leukoencephalopathy (PML), an opportunistic viral infection of the brain caused by the JC virus (JCV) that typically only occurs in patients who are immunocompromised, and that usually leads to death or severe disability, has occurred in patients who have received TYSABRI.
 
 Three factors that are known to increase the risk of PML in TYSABRI-treated patients have been identified:
 
-- Longer treatment duration, especially beyond 2 years.
-  There is limited experience in patients who have received more than 6 years of TYSABRI treatment.
-- Prior treatment with an immunosuppressant (e.g., mitoxantrone, azathioprine, methotrexate, cyclophosphamide, mycophenolate mofetil).
 - The presence of anti-JCV antibodies.
   Patients who are anti-JCV antibody positive have a higher risk for developing PML.
+- Longer treatment duration, especially beyond 2 years.
+- Prior treatment with an immunosuppressant (e.g., mitoxantrone, azathioprine, methotrexate, cyclophosphamide, mycophenolate mofetil).
 
 These factors should be considered in the context of expected benefit when initiating and continuing treatment with TYSABRI.
 
 Table 1: Estimated United States Incidence of PML Stratified by Risk Factor
 
-| Anti-JCV Antibody Negative | TYSABRI Exposure† | Anti-JCV Antibody Positive |  |
+| Anti-JCV Antibody Negative | TYSABRI Exposure | Anti-JCV Antibody Positive |  |
 | --- | --- | --- | --- |
 | No Prior Immunosuppressant Use | Prior Immunosuppressant Use |  |  |
-| <1/1,000 | 1-24 months | <1/1,000 | 1/1,000 |
-| 25-48 months | 3/1,000 | 12/1,000 |  |
-| 49-72 months | 6/1,000 | 13/1,000 |  |
-| Notes: The risk estimates are based on postmarketing data in the United States from approximately 69,000 TYSABRI exposed patients. |  |  |  |
-| †Data beyond 6 years of treatment are limited. |  |  |  |
+| 1/10,000 | 1-24 months | <1/1,000 | 1/1,000 |
+| 25-48 months | 2/1,000 | 6/1,000 |  |
+| 49-72 months | 4/1,000 | 7/1,000 |  |
+| 73-96 months | 2/1,000 | 6/1,000 |  |
+| Notes: The risk estimates are based on postmarketing data in the United States from approximately 100,000 TYSABRI exposed patients. |  |  |  |
 | The anti-JCV antibody status was determined using an anti-JCV antibody test (ELISA) that has been analytically and clinically validated and is configured with detection and inhibition steps to confirm the presence of JCV-specific antibodies with an analytical false negative rate of 3%. |  |  |  |
 
 Retrospective analyses of postmarketing data from various sources, including observational studies and spontaneous reports obtained worldwide, suggest that the risk of developing PML may be associated with relative levels of serum anti-JCV antibody compared to a calibrator as measured by ELISA (often described as an anti-JCV antibody index value).
@@ -39,7 +38,7 @@ In addition, some patients' serostatus may change intermittently.
 Therefore, patients with a negative anti-JCV antibody test result should be retested periodically.
 For purposes of risk assessment, a patient with a positive anti-JCV antibody test at any time is considered anti-JCV antibody positive regardless of the results of any prior or subsequent anti-JCV antibody testing.
 When assessed, anti-JCV antibody status should be determined using an analytically and clinically validated immunoassay.
-After plasma exchange, wait at least two weeks to test for anti-JCV antibodies to avoid false negative test results caused by the removal of serum antibodies.
+After plasma exchange (PLEX), wait at least two weeks to test for anti-JCV antibodies to avoid false negative test results caused by the removal of serum antibodies.
 After infusion of intravenous immunoglobulin (IVIg), wait at least 6 months (5 half-lives) for the IVIg to clear in order to avoid false positive anti-JCV antibody test results.
 
 Healthcare professionals should monitor patients on TYSABRI for any new sign or symptom suggestive of PML.
@@ -70,9 +69,10 @@ For diagnosis of PML, an evaluation including a gadolinium-enhanced MRI scan of 
 If the initial evaluations for PML are negative but clinical suspicion for PML remains, continue to withhold TYSABRI dosing, and repeat the evaluations.
 
 There are no known interventions that can adequately treat PML if it occurs.
-Three sessions of plasma exchange over 5 to 8 days were shown to accelerate TYSABRI clearance in a study of 12 patients with MS who did not have PML, although in the majority of patients, alpha-4 integrin receptor binding remained high.
-Adverse events which may occur during plasma exchange include clearance of other medications and volume shifts, which have the potential to lead to hypotension or pulmonary edema.
-Although plasma exchange has not been studied in TYSABRI treated patients with PML, it has been used in such patients in the postmarketing setting to remove TYSABRI more quickly from the circulation.
+Three sessions of PLEX over 5 to 8 days were shown to accelerate TYSABRI clearance in a study of 12 patients with MS who did not have PML, although in the majority of patients, alpha-4 integrin receptor binding remained high.
+Adverse events which may occur during PLEX include clearance of other medications and volume shifts, which have the potential to lead to hypotension or pulmonary edema.
+Although PLEX has not been prospectively studied in TYSABRI-treated patients with PML, it has been used in such patients in the postmarketing setting to remove TYSABRI more quickly from the circulation.
+There is no evidence that PLEX has any benefit in the treatment of opportunistic infections such as PML.
 
 JC virus infection of granule cell neurons in the cerebellum (i.e., JC virus granule cell neuronopathy [JCV GCN]) has been reported in patients treated with TYSABRI.
 JCV GCN can occur with or without concomitant PML.
@@ -81,13 +81,13 @@ For diagnosis of JCV GCN, an evaluation that includes a gadolinium-enhanced MRI 
 JCV GCN should be managed similarly to PML.
 
 Immune reconstitution inflammatory syndrome (IRIS) has been reported in the majority of TYSABRI treated patients who developed PML and subsequently discontinued TYSABRI.
-In almost all cases, IRIS occurred after plasma exchange was used to eliminate circulating TYSABRI.
+In almost all cases, IRIS occurred after PLEX was used to eliminate circulating TYSABRI.
 It presents as a clinical decline in the patient's condition after TYSABRI removal (and in some cases after apparent clinical improvement) that may be rapid, can lead to serious neurological complications or death, and is often associated with characteristic changes in the MRI.
 TYSABRI has not been associated with IRIS in patients discontinuing treatment with TYSABRI for reasons unrelated to PML.
-In TYSABRI treated patients with PML, IRIS has been reported within days to several weeks after plasma exchange.
+In TYSABRI treated patients with PML, IRIS has been reported within days to several weeks after PLEX.
 Monitoring for development of IRIS and appropriate treatment of the associated inflammation should be undertaken.
 
-## 5.2. TYSABRI TOUCH® Prescribing Program
+## 5.2 TYSABRI TOUCH® Prescribing Program
 
 TYSABRI is available only through a restricted program under a REMS called the TOUCH® Prescribing Program because of the risk of PML [see Warnings and Precautions (5.1)].
 
@@ -107,7 +107,7 @@ Selected requirements of the TOUCH® Prescribing Program include the following:
 - Patients must be enrolled in the TOUCH® Prescribing Program, read the Medication Guide, understand the risks associated with TYSABRI, and complete and sign the Patient-Prescriber Enrollment Form.
 - Pharmacies and infusion centers must be specially certified to dispense or infuse TYSABRI.
 
-## 5.3. Herpes Infections
+## 5.3 Herpes Infections
 
 Herpes Encephalitis and Meningitis
 
@@ -128,7 +128,7 @@ Serious cases of ARN led to blindness of one or both eyes in some patients.
 Following clinical diagnosis of ARN, consider discontinuation of TYSABRI.
 The treatment reported in ARN cases included anti-viral therapy and, in some cases, surgery.
 
-## 5.4. Hepatotoxicity
+## 5.4 Hepatotoxicity
 
 Clinically significant liver injury, including acute liver failure requiring transplant, has been reported in patients treated with TYSABRI in the postmarketing setting.
 Signs of liver injury, including markedly elevated serum hepatic enzymes and elevated total bilirubin, occurred as early as six days after the first dose; signs of liver injury have also been reported for the first time after multiple doses.
@@ -137,7 +137,7 @@ The combination of transaminase elevations and elevated bilirubin without eviden
 
 TYSABRI should be discontinued in patients with jaundice or other evidence of significant liver injury (e.g., laboratory evidence).
 
-## 5.5. Hypersensitivity/Antibody Formation
+## 5.5 Hypersensitivity/Antibody Formation
 
 Hypersensitivity reactions have occurred in patients receiving TYSABRI, including serious systemic reactions (e.g., anaphylaxis), which occurred at an incidence of <1%.
 These reactions usually occur within two hours of the start of the infusion.
@@ -159,7 +159,7 @@ Patients who receive TYSABRI for a short exposure (1 to 2 infusions) followed by
 Given that patients with persistent antibodies to TYSABRI experience reduced efficacy, and that hypersensitivity reactions are more common in such patients, consideration should be given to testing for the presence of antibodies in patients who wish to recommence therapy following a dose interruption.
 Following a period of dose interruption, patients testing negative for antibodies prior to re-dosing have a risk of antibody development with re-treatment that is similar to TYSABRI naïve patients [see Adverse Reactions (6.2)].
 
-## 5.6. Immunosuppression/Infections
+## 5.6 Immunosuppression/Infections
 
 The immune system effects of TYSABRI may increase the risk for infections.
 In Study MS1 [see Clinical Studies (14.1)], certain types of infections, including pneumonias and urinary tract infections (including serious cases), gastroenteritis, vaginal infections, tooth infections, tonsillitis, and herpes infections, occurred more often in TYSABRI-treated patients than in placebo-treated patients [see Warnings and Precautions (5.1), Adverse Reactions (6.1)].
@@ -182,14 +182,21 @@ The risk of PML is also increased in patients who have been treated with an immu
 For patients with Crohn's disease who start TYSABRI while on chronic corticosteroids, commence steroid withdrawal as soon as a therapeutic benefit has occurred.
 If the patient cannot discontinue systemic corticosteroids within six months, discontinue TYSABRI.
 
-## 5.7. Laboratory Test Abnormalities
+## 5.7 Laboratory Test Abnormalities
 
 In clinical trials, TYSABRI was observed to induce increases in circulating lymphocytes, monocytes, eosinophils, basophils, and nucleated red blood cells.
 Observed changes persisted during TYSABRI exposure, but were reversible, returning to baseline levels usually within 16 weeks after the last dose.
 Elevations of neutrophils were not observed.
 TYSABRI induces mild decreases in hemoglobin levels (mean decrease of 0.6 g/dL) that are frequently transient.
 
-## 5.8. Immunizations
+## 5.8 Thrombocytopenia
+
+Cases of thrombocytopenia, including immune thrombocytopenic purpura (ITP), have been reported with the use of TYSABRI in the postmarketing setting.
+Symptoms of thrombocytopenia may include easy bruising, abnormal bleeding, and petechiae.
+Delay in the diagnosis and treatment of thrombocytopenia may lead to serious and life-threatening sequelae.
+If thrombocytopenia is suspected, TYSABRI should be discontinued.
+
+## 5.9 Immunizations
 
 No data are available on the effects of vaccination in patients receiving TYSABRI.
 No data are available on the secondary transmission of infection by live vaccines in patients receiving TYSABRI.

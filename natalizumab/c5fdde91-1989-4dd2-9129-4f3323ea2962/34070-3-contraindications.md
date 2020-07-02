@@ -1,4 +1,4 @@
-# 4. CONTRAINDICATIONS
+# 4 CONTRAINDICATIONS
 
 - TYSABRI is contraindicated in patients who have or have had progressive multifocal leukoencephalopathy (PML) [see Warnings and Precautions (5.1)].
 - TYSABRI is contraindicated in patients who have had a hypersensitivity reaction to TYSABRI.

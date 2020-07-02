@@ -1,4 +1,4 @@
-# 6. ADVERSE REACTIONS
+# 6 ADVERSE REACTIONS
 
 The following serious adverse reactions are described below and elsewhere in the labeling:
 
@@ -7,8 +7,9 @@ The following serious adverse reactions are described below and elsewhere in the
 - Hepatotoxicity [see Warnings and Precautions (5.4)]
 - Hypersensitivity/Antibody Formation [see Warnings and Precautions (5.5)]
 - Immunosuppression/Infections [see Warnings and Precautions (5.6)]
+- Thrombocytopenia [see Warnings and Precautions (5.8)]
 
-## 6.1. Clinical Trials Experience
+## 6.1 Clinical Trials Experience
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
@@ -141,12 +142,12 @@ Serious infusion reactions occurred in Studies CD1, CD2, and CD3 at an incidence
 
 MS and CD patients who became persistently positive for antibodies to TYSABRI were more likely to have an infusion-related reaction than those who were antibody-negative.
 
-## 6.2. Immunogenicity
+## 6.2 Immunogenicity
 
 As with all therapeutic proteins, there is a potential for immunogenicity.
 The detection of antibody formation is highly dependent on the sensitivity and specificity of the assay.
 Additionally, the observed incidence of antibody (including neutralizing antibody) positivity in an assay may be influenced by several factors including assay methodology, sample handling, timing of sample collection, concomitant medications, and underlying disease.
-For these reasons, comparison of the incidence of antibodies to natlizumab in the studies described below with the incidence of antibodies in other studies or to other products may be misleading.
+For these reasons, comparison of the incidence of antibodies to natalizumab in the studies described below with the incidence of antibodies in other studies or to other products may be misleading.
 
 Patients in Study MS1 [see Clinical Studies (14.1)] were tested for antibodies to natalizumab every 12 weeks.
 The assays used were unable to detect low to moderate levels of antibodies to natalizumab.
@@ -171,9 +172,9 @@ Persistent antibodies resulted in reduced efficacy and an increase in infusion-r
 
 The long-term immunogenicity of TYSABRI and the effects of low to moderate levels of antibody to natalizumab are unknown [see Warnings and Precautions (5.5), Adverse Reactions (6.1)].
 
-## 6.3. Postmarketing Experience
+## 6.3 Postmarketing Experience
 
 The following adverse reactions have been identified during post approval use of TYSABRI.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Blood disorders: hemolytic anemia
+Blood disorders: hemolytic anemia, thrombocytopenia (including immune thrombocytopenic purpura).

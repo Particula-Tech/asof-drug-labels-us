@@ -1,6 +1,6 @@
-# 13. NONCLINICAL TOXICOLOGY
+# 13 NONCLINICAL TOXICOLOGY
 
-## 13.1. Carcinogenesis, Mutagenesis, Impairment of Fertility
+## 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
 
 No clastogenic or mutagenic effects of natalizumab were observed in the Ames test or in vitro chromosomal aberration assay in human lymphocytes.
 Natalizumab showed no effects in in vitro assays of α4-integrin positive human tumor line proliferation/cytotoxicity.

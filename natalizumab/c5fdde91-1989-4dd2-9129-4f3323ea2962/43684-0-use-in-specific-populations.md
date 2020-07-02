@@ -1,6 +1,6 @@
-# 8. USE IN SPECIFIC POPULATIONS
+# 8 USE IN SPECIFIC POPULATIONS
 
-## 8.1. Pregnancy
+## 8.1 Pregnancy
 
 Risk Summary
 
@@ -31,7 +31,7 @@ Offspring exposed in utero and during lactation had a normal immune response to 
 
 In a study in which pregnant guinea pigs were exposed to natalizumab (30 mg/kg IV) on alternate dates during GDs 30-64, a reduction in pup survival was observed.
 
-## 8.2. Lactation
+## 8.2 Lactation
 
 Risk Summary
 
@@ -40,12 +40,12 @@ There are no data on the effects of this exposure on the breastfed infant or the
 
 The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for TYSABRI and any potential adverse effects on the breastfed infant from TYSABRI or from the underlying maternal condition.
 
-## 8.4. Pediatric Use
+## 8.4 Pediatric Use
 
 Safety and effectiveness in pediatric patients with multiple sclerosis or Crohn's disease below the age of 18 years have not been established.
 TYSABRI is not indicated for use in pediatric patients.
 
-## 8.5. Geriatric Use
+## 8.5 Geriatric Use
 
 Clinical studies of TYSABRI did not include sufficient numbers of patients aged 65 years and over to determine whether they respond differently than younger patients.
 Other reported clinical experience has not identified differences in responses between the elderly and younger patients.
