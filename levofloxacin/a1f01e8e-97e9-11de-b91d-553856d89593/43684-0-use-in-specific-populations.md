@@ -29,8 +29,11 @@ Risk Summary
 
 Published literature reports that levofloxacin is present in human milk following intravenous and oral administration (see Data).
 There is no information regarding effects of LEVAQUIN on milk production or the breastfed infant.
-Because of the potential risks of serious adverse reactions, in breastfed infants, a lactating woman may consider pumping and discarding breast milk during treatment with LEVAQUIN and an additional two days (five half-lives) after the last dose.
+Because of the potential risks of serious adverse reactions, in breastfed infants, for most indications, a lactating woman may consider pumping and discarding breast milk during treatment with LEVAQUIN and an additional two days (five half-lives) after the last dose.
 Alternatively, advise a lactating woman that breastfeeding is not recommended during treatment with LEVAQUIN and for an additional two days (five half-lives) after the last dose [see Use in Specific Populations (8.4) and Clinical Pharmacology (12.3)].
+
+However, for inhalation anthrax (post exposure), during an incident resulting in exposure to anthrax, the risk-benefit assessment of continuing breastfeeding while the mother (and potentially the infant) is (are) on LEVAQUIN may be acceptable [see Dosage and Administration (2.2), Pediatric Use (8.4), and Clinical Studies (14.2)].
+The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for LEVAQUIN and any potential adverse effects on the breastfed child from LEVAQUIN or from the underlying maternal condition.
 
 Data
 
