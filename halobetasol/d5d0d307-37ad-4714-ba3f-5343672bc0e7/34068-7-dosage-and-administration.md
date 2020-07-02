@@ -14,7 +14,6 @@ Do not use with occlusive dressings unless directed by a physician.
 Avoid use on the face, groin, or axillae.
 
 Avoid contact with eyes.
-Wash hands after each application, unless it is for treatment of the hands.
 
 LEXETTE is for topical use only.
 

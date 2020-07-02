@@ -4,7 +4,8 @@
 
 Risk Summary
 
-There are no available data on LEXETTE use in pregnant women to inform a drug-associated risk for adverse developmental outcomes.
+There are no available data on LEXETTE use in pregnant women to inform a drug-associated risk of major birth defects, miscarriage, or adverse maternal or fetal outcomes.
+Published data report an increased risk of low birthweight with the use of greater than 300 grams of potent or very potent topical corticosteroid during a pregnancy.
 In animal reproduction studies, increased malformations, including cleft palate and omphalocele, were observed after oral administration of halobetasol propionate during organogenesis to pregnant rats and rabbits.
 No comparisons of animal exposure with human exposure may be calculated due to minimal systemic exposure in humans after topical administration of LEXETTE [see Clinical Pharmacology (12.3)].
 
@@ -12,6 +13,11 @@ The background risk of major birth defects and miscarriage for the indicated pop
 In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2-4% and 15-20%, respectively.
 
 Data
+
+Human Data
+
+Multiple observational studies found no significant associations between maternal use of topical corticosteroids of any potency and congenital malformations, preterm delivery, or fetal mortality.
+However, when the dispensed amount of potent or very potent topical corticosteroid exceeded 300 g during the entire pregnancy, use was associated with an increase in low birth weight infants.
 
 Animal Data
 
@@ -40,13 +46,13 @@ Safety and effectiveness of LEXETTE in patients younger than 18 years of age hav
 
 Because of higher skin surface area to body mass ratios, pediatric patients are at a greater risk than adults of HPA axis suppression and Cushing's syndrome when they are treated with topical corticosteroids.
 They are therefore also at greater risk of adrenal insufficiency during or after withdrawal of treatment.
-Adverse reactions including striae have been reported with use of topical corticosteroids in infants and children [see Warnings and Precautions (5.1)].
+Adverse reactions including striae have been reported with use of topical corticosteroids in infants and children.
 
 HPA axis suppression, Cushing's syndrome, linear growth retardation, delayed weight gain, and intracranial hypertension have been reported in children receiving topical corticosteroids.
 Manifestations of adrenal suppression in children include low plasma cortisol levels and an absence of response to ACTH stimulation.
-Manifestations of intracranial hypertension include bulging fontanelles, headaches, and bilateral papilledema [see Warnings and Precautions (5.1)].
+Manifestations of intracranial hypertension include bulging fontanelles, headaches, and bilateral papilledema.
 
 ## 8.5 Geriatric Use
 
-Clinical studies with LEXETTE included 131 patients aged 65 years and over.
-No overall differences in safety or effectiveness were observed between these patients and those younger than 65 years.
+Clinical studies with LEXETTE included 131 subjects aged 65 years and over.
+No overall differences in safety or effectiveness were observed between these subjects and those younger than 65 years.

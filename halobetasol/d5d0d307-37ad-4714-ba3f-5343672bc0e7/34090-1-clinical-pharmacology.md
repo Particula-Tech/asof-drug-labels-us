@@ -6,6 +6,12 @@ Corticosteroids play a role in cellular signaling, immune function, inflammation
 
 ## 12.2 Pharmacodynamics
 
+Vasoconstrictor Assay
+
+A vasoconstrictor assay in healthy subjects with LEXETTE indicated that the formulation is in the super-high range of potency as compared to other topical corticosteroids; however, similar blanching scores do not necessarily imply therapeutic equivalence.
+
+Hypothalamic-pituitary adrenal (HPA) axis suppression
+
 The potential for hypothalamic-pituitary adrenal (HPA) suppression was evaluated in a study of 25 adult subjects with moderate to severe plaque psoriasis involving a mean body surface area of 18.4%.
 A mean dose of 3.7 g LEXETTE was applied twice daily for two weeks and produced laboratory evidence of HPA axis suppression in 6 of 25 (24%) subjects.
 In this study, the criteria for HPA-axis suppression was a serum cortisol level of less than or equal to 18 micrograms per deciliter 30 minutes after stimulation with cosyntropin (adrenocorticotropic hormone).

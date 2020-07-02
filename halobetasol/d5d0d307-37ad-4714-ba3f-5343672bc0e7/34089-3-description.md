@@ -1,6 +1,6 @@
 # 11 DESCRIPTION
 
-LEXETTE is a hydroethanolic aerosol foam that contains a corticosteroid, halobetasol propionate.
+LEXETTE is a hydroethanolic aerosol foam that contains a corticosteroid, halobetasol propionate intended for topical use.
 The chemical name of halobetasol propionate is 21-chloro-6α, 9-difluoro-11β, 17-dihydroxy-16β-methylpregna-1, 4-diene-3,20-dione 17-propionate.
 Halobetasol propionate is a white to off-white crystalline powder with a molecular weight of 484.96 and a molecular formula of C25H31ClF2O5.
 It has the following structural formula:
