@@ -64,7 +64,7 @@ In another randomized, placebo-controlled, parallel-group trial (n=642) in a sim
 Patients who were randomized to treatment arms containing beclomethasone had statistically significantly better asthma control than those patients randomized to montelukast sodium alone or placebo alone as indicated by FEV1, daytime asthma symptoms, PEFR, nocturnal awakenings due to asthma, and “as-needed” β-agonist requirements.
 In adult patients with asthma with documented aspirin sensitivity, nearly all of whom were receiving concomitant inhaled and/or oral corticosteroids, a 4-week, randomized, parallel-group trial (n=80) demonstrated that montelukast sodium, compared with placebo, resulted in significant improvement in parameters of asthma control.
 The magnitude of effect of montelukast sodium in aspirin-sensitive patients was similar to the effect observed in the general population of asthma patients studied.
-The effect of montelukast sodium on the bronchoconstrictor response to aspirin or other non-steroidal anti-inflammatory drugs in aspirin-sensitive asthmatic patients has not been evaluated [see Warnings and Precautions (5.3)].
+The effect of montelukast sodium on the bronchoconstrictor response to aspirin or other non-steroidal anti-inflammatory drugs in aspirin-sensitive asthmatic patients has not been evaluated [see Warnings and Precautions (5.4)].
 
 ## 14.2 Exercise-Induced Bronchoconstriction (EIB)
 
