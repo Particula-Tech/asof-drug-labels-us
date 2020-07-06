@@ -1,8 +1,8 @@
 # 11. DESCRIPTION
 
 Rasagiline tablets contain rasagiline (as the mesylate), a propargylamine-based drug indicated for the treatment of idiopathic Parkinson’s disease.
-It is designated chemically as: 1H-Inden-1­ amine, 2, 3-dihydro-N-2-propynyl-, (1R)-, methanesulfonate.
-The empirical formula of rasagiline mesylate is (C 12H 13N)CH 4SO 3 and its molecular weight is 267.34.
+Rasagiline mesylate is designated chemically as: 1H-Inden-1­ amine, 2, 3-dihydro-N-2-propynyl-, (1R)-, methanesulfonate.
+The empirical formula of rasagiline mesylate is C 12H 13N•CH 4SO 3 and its molecular weight is 267.34.
 
 Its structural formula is:
 

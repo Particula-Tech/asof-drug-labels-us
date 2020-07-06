@@ -43,7 +43,7 @@ Cases of patients treated with rasagiline and other dopaminergic medications hav
 Although many of these patients reported somnolence while on rasagiline with other dopaminergic medications, some perceived that they had no warning signs, such as excessive drowsiness, and believed that they were alert immediately prior to the event.
 Some of these events have been reported more than 1-year after initiation of treatment.
 
-In Study 3, somnolence was a common occurrence in patients receiving rasagiline and was more frequent in patients with Parkinson’s disease receiving rasagiline than in respective patients receiving placebo (6% rasagiline compared to 4% Placebo) [see Adverse Reactions (6.1].
+In Study 3, somnolence was a common occurrence in patients receiving rasagiline and was more frequent in patients with Parkinson’s disease receiving rasagiline than in respective patients receiving placebo (6% rasagiline compared to 4% Placebo) [see Adverse Reactions (6.1)].
 
 Before initiating treatment with rasagiline, patients should be advised of the potential to develop drowsiness and specifically asked about factors that may increase the risk with rasagiline such as concomitant sedating medications, the presence of sleep disorders, and concomitant medications that increase rasagiline plasma levels (e.g., ciprofloxacin) [see Drug Interactions (7.6)].
 If a patient develops significant daytime sleepiness or episodes of falling asleep during activities that require active participation (e.g., driving a motor vehicle, conversations, eating), rasagiline should ordinarily be discontinued.
@@ -68,7 +68,7 @@ In Study 3, the incidence of orthostatic hypotension consisting of a systolic bl
 At the 1 mg dose, the frequency of orthostatic hypotension (at any time during the study) was approximately 44% for rasagiline vs 33% for placebo for mild to moderate systolic blood pressure decrements (≥20 mm Hg), 40% for rasagiline vs 33% for placebo for mild to moderate diastolic blood pressure decrements (≥ 10 mm Hg), 7% for rasagiline vs 3% for placebo for severe systolic blood pressure decrements (≥ 40 mm Hg), and 9% for rasagiline vs 6% for placebo for severe diastolic blood pressure decrements (≥ 20 mm Hg).
 There was also an increased risk for some of these abnormalities at the lower 0.5 mg daily dose and for an individual patient having mild to moderate or severe orthostatic hypotension for both systolic and diastolic blood pressure.
 
-In Study 2 where rasagiline was given as an adjunct therapy in patients not taking concomitant levodopa, there were 5 reports of orthostatic hypotension in patients taking rasagiline tablet 1 mg (3.1%) and 1 report in patients taking placebo (0.6%) [see Adverse Reactions(6.1].
+In Study 2 where rasagiline was given as an adjunct therapy in patients not taking concomitant levodopa, there were 5 reports of orthostatic hypotension in patients taking rasagiline tablet 1 mg (3.1%) and 1 report in patients taking placebo (0.6%) [see Adverse Reactions(6.1)].
 
 Clinical trial data further suggest that orthostatic hypotension occurs most frequently in the first two months of rasagiline treatment and tends to decrease over time.
 
@@ -85,7 +85,7 @@ Postural hypotension led to drug discontinuation and premature withdrawal from c
 
 When used as an adjunct to levodopa, rasagiline may cause dyskinesia or potentiate dopaminergic side effects and exacerbate pre-existing dyskinesia.
 In Study 3, the incidence of dyskinesia was 18% for patients treated with 0.5 mg or 1 mg rasagiline as an adjunct to levodopa and 10% for patients treated with placebo as an adjunct to levodopa.
-Decreasing the dose of levodopa may mitigate this side effect [see Adverse Reactions (6.1].
+Decreasing the dose of levodopa may mitigate this side effect [see Adverse Reactions (6.1)].
 
 ## 5.8 Hallucinations / Psychotic-Like Behavior
 
