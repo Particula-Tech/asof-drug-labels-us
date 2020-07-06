@@ -4,14 +4,14 @@
 
 Risk Summary
 
-Based on findings from human data, animal studies, and the mechanism of action, Decitabine for Injection can cause fetal harm when administered to a pregnant woman [see Clinical Pharmacology (12.1)].
-
+Based on findings from human data, animal studies, and the mechanism of action, Decitabine for Injection can cause fetal harm when administered to a pregnant woman [see Clinical Pharmacology (12.1) and Nonclinical Toxicology (13.1)].
 Limited published data on Decitabine for Injection use throughout the first trimester during pregnancy describe adverse developmental outcomes including major birth defects (structural abnormalities).
-In animal reproduction studies, administration of decitabine to pregnant mice and rats during organogenesis caused adverse developmental outcomes and was teratogenic, fetotoxic, and embryotoxic starting at doses approximately 7% of the recommended human dose on a mg/m2 basis (see Data).
+In animal reproduction studies, administration of decitabine to pregnant mice and rats during organogenesis caused adverse developmental outcomes including malformations and embryo-fetal lethality starting at doses approximately 7% of the recommended human dose on a mg/m2 basis (see Data).
 Advise pregnant women of the potential risk to a fetus.
+
 The estimated background risk of major birth defects and miscarriage for the indicated population is unknown.
 All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
-The estimated background risk of major birth defects and miscarriage in the U.S. general population is 2-4% and 15-20% of clinically recognized pregnancies, respectively.
+The estimated background risk of major birth defects and miscarriage in the U.S. general population is 2% to 4% and 15% to 20% of clinically recognized pregnancies, respectively.
 
 Data
 
@@ -30,7 +30,7 @@ Studies in mice have also shown that decitabine administration during osteoblast
 In mice exposed to single IP (intraperitoneal) injections (0, 0.9 and 3.0 mg/m2, approximately 2% and 7% of the recommended daily clinical dose, respectively) over gestation days 8, 9, 10 or 11, no maternal toxicity was observed but reduced fetal survival was observed after treatment at 3 mg/m2 and decreased fetal weight was observed at both dose levels.
 The 3 mg/m2 dose elicited characteristic fetal defects for each treatment day, including supernumerary ribs (both dose levels), fused vertebrae and ribs, cleft palate, vertebral defects, hind-limb defects and digital defects of fore- and hind-limbs.
 
-In rats given a single IP injection of 2.4, 3.6 or 6 mg/m2 (approximately 5, 8, or 13% the daily recommended clinical dose, respectively) on gestation days 9-12, no maternal toxicity was observed.
+In rats given a single IP injection of 2.4, 3.6 or 6 mg/m2 (approximately 5, 8, or 13% the daily recommended clinical dose, respectively) on gestation days 9 to 12, no maternal toxicity was observed.
 No live fetuses were seen at any dose when decitabine was injected on gestation day 9.
 A significant decrease in fetal survival and reduced fetal weight at doses greater than 3.6 mg/m2 was seen when decitabine was given on gestation day 10.
 Increased incidences of vertebral and rib anomalies were seen at all dose levels, and induction of exophthalmia, exencephaly, and cleft palate were observed at 6.0 mg/m2.
@@ -48,7 +48,7 @@ Follow up studies indicated that treatment of pregnant mice with decitabine on g
 Risk Summary
 
 There are no data on the presence of decitabine or its metabolites in human milk, the effects on the breastfed child, or the effects on milk production.
-Because many drugs are excreted in human milk, and because of the potential for serious adverse reactions from Decitabine for Injection in a nursing child, advise lactating women to avoid breastfeeding during treatment with Decitabine for Injection and for at least 1 week after the last dose.
+Because of the potential for serious adverse reactions from Decitabine for Injection in a breastfed child, advise women not to breastfeed while receiving Decitabine for Injection and for at least 2 weeks after the last dose.
 
 ## 8.3 Females and Males of Reproductive Potential
 
@@ -60,7 +60,8 @@ Contraception
 
 Females
 
-Advise females of reproductive potential to avoid pregnancy and use effective contraception while receiving Decitabine for Injection and for 6 months following the last dose.
+Decitabine for Injection can cause fetal harm when administered to pregnant women [see Use in Specific Populations (8.1)].
+Advise females of reproductive potential to use effective contraception while receiving Decitabine for Injection and for 6 months following the last dose.
 
 Males
 
@@ -68,7 +69,8 @@ Advise males with female partners of reproductive potential to use effective con
 
 Infertility
 
-Based on findings of decitabine in animals, male fertility may be compromised by treatment with Decitabine for Injection [see Nonclinical Toxicology (13.1)].
+Based on findings of decitabine in animals, male fertility may be compromised by treatment with Decitabine for Injection.
+The reversibility of the effect on fertility is unknown [see Nonclinical Toxicology (13.1)].
 
 ## 8.4 Pediatric Use
 
