@@ -1,23 +1,19 @@
-# HOW SUPPLIED
+# 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-LEVOPHED (norepinephrine bitartrate) injection, USP, contains the equivalent of 1 mg base of LEVOPHED per 1 mL (4 mg/4 mL).
-
+LEVOPHED (norepinephrine bitartrate) injection, USP, is a sterile, colorless solution for injection intended for intravenous use.
+It contains the equivalent of 1 mg of norepinephrine base per 1 mL (4 mg/4 mL).
+It is available as 4 mg/4 mL in single-dose amber glass vials and in single-dose clear glass ampules.
 Supplied as:
 
 | Unit of Sale | Concentration |
 | --- | --- |
 | NDC 0409-3375-04 | 4 mg/4 mL |
-| 10 in a Carton | (1 mg/mL) |
+| 10 vials in a Carton | (1 mg/mL) |
+| NDC 0409-1443-04 | 4 mg/4 mL |
+| 10 ampules in a Carton | (1 mg/mL) |
 
-Store at 20 to 25°C (68 to 77°F); excursions permitted to 15 to 30°C (59 to 86°F).
+Store at 20°C to 25°C (68°F to 77°F); excursions permitted to 15°C to 30°C (59°F to 86°F).
 [See USP Controlled Room Temperature.]
 
-Protect from light.
-
-Regitine, trademark, CIBA Pharmaceuticals Company.
-
-Distributed by Hospira, Inc., Lake Forest, IL 60045 USA
-
-LAB-1150-1.0
-
-Revised: 03/2018
+Store in original carton until time of administration to protect from light.
+Discard unused portion.

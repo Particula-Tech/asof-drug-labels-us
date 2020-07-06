@@ -1,19 +1,15 @@
-# ADVERSE REACTIONS
+# 6 ADVERSE REACTIONS
 
-The following reactions can occur:
+The following adverse reactions are described in greater detail in other sections:
 
-Body As A Whole: Ischemic injury due to potent vasoconstrictor action and tissue hypoxia.
+- Tissue Ischemia [see Warnings and Precautions (5.1)]
+- Hypotension [see Warnings and Precautions (5.2)]
+- Cardiac Arrhythmias [see Warnings and Precautions (5.3)]
 
-Cardiovascular System: Bradycardia, probably as a reflex result of a rise in blood pressure, arrhythmias.
+The most common adverse reactions are hypertension and bradycardia.
 
-Nervous System: Anxiety, transient headache.
+The following adverse reactions can occur:
 
-Respiratory System: Respiratory difficulty.
+Nervous system disorders: Anxiety, headache
 
-Skin and Appendages: Extravasation necrosis at injection site.
-
-Prolonged administration of any potent vasopressor may result in plasma volume depletion which should be continuously corrected by appropriate fluid and electrolyte replacement therapy.
-If plasma volumes are not corrected, hypotension may recur when LEVOPHED is discontinued, or blood pressure may be maintained at the risk of severe peripheral and visceral vasoconstriction (e.g., decreased renal perfusion) with diminution in blood flow and tissue perfusion with subsequent tissue hypoxia and lactic acidosis and possible ischemic injury.
-Gangrene of extremities has been rarely reported.
-
-Overdoses or conventional doses in hypersensitive persons (e.g., hyperthyroid patients) cause severe hypertension with violent headache, photophobia, stabbing retrosternal pain, pallor, intense sweating, and vomiting.
+Respiratory disorders: Respiratory difficulty, pulmonary edema

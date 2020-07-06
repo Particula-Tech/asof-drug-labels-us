@@ -1,5 +1,6 @@
-Norepinephrine Bitartrate
+This product's labeling may have been updated.
+For the most recent prescribing information, please visit www.pfizer.com.
 
-Injection, USP
+Distributed by Hospira, Inc., Lake Forest, IL 60045 USA
 
-Rx only
+LAB-1150-2.0

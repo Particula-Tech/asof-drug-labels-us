@@ -5,6 +5,8 @@
   "inn": "norepinephrine",
   "labeler": "Hospira, Inc.",
   "package_ndcs": [
+    "0409-1443-04",
+    "0409-1443-14",
     "0409-3375-04",
     "0409-3375-14"
   ],
