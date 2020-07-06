@@ -167,6 +167,10 @@ See "What is the most important information I should know about topiramate table
   Topiramate tablets may affect how you think and cause confusion, problems with concentration, attention, memory, or speech.
   Topiramate tablets may cause depression or mood problems, tiredness, and sleepiness.
 - Dizziness or loss of muscle coordination.
+- Serious skin reactions.
+  Topiramate tablets may cause a severe rash with blisters and peeling skin, especially around the mouth, nose, eyes, and genitals (Stevens-Johnson syndrome).
+  Topiramate tablets may also cause a rash with blisters and peeling skin over much of the body that may cause death (toxic epidermal necrolysis).
+  Call your healthcare provider right away if you develop a skin rash or blisters.
 - Kidney stones.
   Drink plenty of fluids when taking topiramate tablets to decrease your chances of getting kidney stones.
 - Low body temperature.
@@ -224,4 +228,4 @@ In addition, the 50 mg and 100 mg tablets contain iron oxide yellow and 200 mg t
 The brands listed are trademarks of their respective owners and are not trademarks of Aurobindo Pharma Limited.
 For more information, call Aurobindo Pharma USA, Inc. at 1-866-850-2876.
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
-Dispense with Medication Guide available at: www.aurobindousa.com/product-medication-guides Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 038, India Revised: 05/2019
+Dispense with Medication Guide available at: www.aurobindousa.com/medication-guides Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 038, India Revised: 06/2020
