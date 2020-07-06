@@ -54,15 +54,26 @@ Based on these concentrations, estimated infant daily dosages for an exclusively
 
 ## 8.4 Pediatric Use
 
-Safety and effectiveness of LIALDA in pediatric patients have not been established.
+The safety and effectiveness of LIALDA have been established for the treatment of mildly to moderately active ulcerative colitis in pediatric patients weighing at least 24 kg.
+Use of LIALDA in this population is supported by evidence from adequate and well-controlled trials in adults, a multicenter, randomized, double-blind, parallel group trial in 105 pediatric patients 5 to 17 years of age, and additional pharmacokinetic analyses.
+The safety profile in pediatric patients was similar to that observed in adults [see Adverse Reactions (6.1), Clinical Pharmacology (12.3), Clinical Studies (14.2)].
+
+The safety and effectiveness of LIALDA have not been established in patients weighing less than 24 kg.
 
 ## 8.5 Geriatric Use
 
-Reports from uncontrolled clinical studies and postmarketing reporting systems suggested a higher incidence of blood dyscrasias (i.e., neutropenia and pancytopenia) in patients who were 65 years or older who were taking mesalamine-containing products such as LIALDA.
-Take caution to monitor blood cell counts closely during mesalamine therapy.
-
 Clinical trials of LIALDA did not include sufficient numbers of patients aged 65 and over to determine whether they respond differently from younger patients.
-Other reported clinical experience has not identified differences in responses between the elderly and younger patients.
-Systemic exposures are increased in elderly subjects.
-[see Clinical Pharmacology (12.3)].
-In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concurrent disease or other drug therapy in elderly patients.
+Reports from uncontrolled clinical studies and postmarketing reporting systems suggested a higher incidence of blood dyscrasias (i.e., agranulocytosis, neutropenia, and pancytopenia) in patients who were 65 years or older who were taking mesalamine-containing products such as LIALDA compared to younger patients.
+Monitor complete blood cell counts and platelet counts in elderly patients during treatment with LIALDA.
+
+Systemic exposures are increased in elderly subjects [see Clinical Pharmacology (12.3)].
+
+In general, consider the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy in elderly patients when prescribing LIALDA.
+Consider starting at the low end of the dosing range for induction in elderly patients [see Dosage and Administration (2)].
+
+## 8.6 Renal Impairment
+
+Mesalamine is known to be substantially excreted by the kidney, and the risk of toxic reactions may be greater in patients with impaired renal function.
+Evaluate renal function in all patients prior to initiation and periodically while on LIALDA therapy.
+Monitor patients with known renal impairment or history of renal disease or taking nephrotoxic drugs for decreased renal function and mesalamine-related adverse reactions.
+[see Warnings and Precautions (5.1), Drug Interactions (7.1), Adverse Reactions (6.2)].

@@ -2,101 +2,83 @@
 
 The most serious adverse reactions seen in LIALDA clinical trials or with other products that contain or are metabolized to mesalamine are:
 
-- Renal impairment, including renal failure [See Warnings and Precautions (5.1)]
-- Mesalamine-induced acute intolerance syndrome [See Warnings and Precautions (5.2)]
-- Hypersensitivity reactions [See Warnings and Precautions (5.3)]
-- Hepatic impairment, including hepatic failure [See Warnings and Precautions (5.4)]
+- Renal impairment, including renal failure [see Warnings and Precautions (5.1)]
+- Mesalamine-induced acute intolerance syndrome [see Warnings and Precautions (5.2)]
+- Hypersensitivity reactions [see Warnings and Precautions (5.3)]
+- Hepatic impairment [see Warnings and Precautions (5.4)]
 
 ## 6.1 Clinical Trials Experience
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-LIALDA has been evaluated in 1368 patients with ulcerative colitis in controlled and open-label trials.
+Adults
 
-Induction of Remission
+Induction
 
-In two 8-week, placebo-controlled clinical trials involving 535 patients with ulcerative colitis, 356 received 2.4 g/day or 4.8 g/day LIALDA tablets and 179 received placebo.
-The most frequent adverse reaction leading to discontinuation from LIALDA therapy was exacerbation of ulcerative colitis (0.8%).
-Pancreatitis occurred in less than 1% of patients during clinical trials and resulted in discontinuation of therapy with LIALDA in patients experiencing this event.
+The most common adverse reactions occurring in at least 1% of LIALDA- or placebo-treated adult patients with mildly to moderately active ulcerative colitis in two eight-week, randomized, double-blind, placebo-controlled trials (Study 1 and Study 2) [see Clinical Studies (14.1)] are listed in Table 2.
 
-Adverse reactions occurring in LIALDA or placebo groups at a frequency of at least 1% in two 8-week, double blind, placebo-controlled trials are listed in Table 1.
-The most common adverse reactions with LIALDA 2.4 g/day and 4.8 g/day were headache (5.6% and 3.4%, respectively) and flatulence (4% and 2.8%, respectively).
+Table 2: Adverse ReactionsReported in at least 1% of patients in at least one LIALDA group and greater than placebo in Two Eight-Week, Placebo-Controlled Trials of Induction Therapy (Study 1 and Study 2) in Adults with Mildly to Moderately Active Ulcerative Colitis
 
-Table 1: Adverse Reactions in Two Eight-Week, Placebo-Controlled Trials Experienced by at Least 1% of the LIALDA Group and at a Rate Greater than PlaceboAdverse reactions for which the placebo rate equalled or exceeded the rate for at least one of the LIALDA treatment groups were abdominal pain, dizziness, dyspepsia, and nausea.
-
-| Adverse Reaction | LIALDA 2.4 g/day (n=177) | LIALDA 4.8 g/day (n=179) | Placebo (n=179) |
+| Adverse Reaction | LIALDA 2.4 g once daily (n=177) | LIALDA 4.8 g once daily (n=179) | Placebo (n=179) |
 | --- | --- | --- | --- |
-| Headache | 10 (5.6%) | 6 (3.4%) | 1 (0.6%) |
-| Flatulence | 7 (4%) | 5 (2.8%) | 5 (2.8%) |
-| Liver Function Test Abnormal | 1 (0.6%) | 4 (2.2%) | 2 (1.1%) |
-| Alopecia | 0 | 2 (1.1%) | 0 |
-| Pruritus | 1 (0.6%) | 2 (1.1%) | 2 (1.1%) |
+| Headache | 6% | 3% | <1% |
+| Flatulence | 4% | 3% | 3% |
+| Liver Function Test Abnormal | <1% | 2% | 1% |
+| Alopecia | 0 | 1% | 0 |
+| Pruritus | <1% | 1% | 1% |
 
-The following adverse reactions, presented by body system, were reported infrequently (less than 1%) by LIALDA-treated ulcerative colitis patients in the two controlled trials.
+Pancreatitis occurred in less than 1% of patients during induction in clinical trials and resulted in discontinuation of therapy with LIALDA in patients experiencing this event.
+
+Maintenance of Remission
+
+A LIALDA dosage of 2.4 g/day, administered as either 1.2 g twice daily or 2.4 g once daily, was evaluated for safety in three maintenance trials in patients with mildly to moderately active ulcerative colitis: a 6-month double-blind, active-controlled study (Study 3) [see Clinical Studies (14.1)] and two 12- to 14-month open-label studies.
+The most common adverse reactions with LIALDA in these maintenance trials are listed in Table 3.
+
+Table 3: Adverse ReactionsReported in at least 1% of patients in Three Trials of Maintenance of Remission in Adults with Ulcerative Colitis
+
+| Adverse Reaction | % |
+| --- | --- |
+|  | LIALDA 2.4 g/dayAdministered either as 1.2 g twice daily or 2.4 g once daily (n=1082) |
+| Headache | 3% |
+| Liver function test abnormal | 2% |
+| Abdominal pain | 2% |
+| Diarrhea | 2% |
+| Abdominal distension | 1% |
+| Abdominal pain upper | 1% |
+| Dyspepsia | 1% |
+| Back pain | 1% |
+| Rash | 1% |
+| Arthralgia | 1% |
+| Fatigue | 1% |
+| Hypertension | 1% |
+
+The following adverse reactions, presented by body system, were reported in less than 1% of LIALDA-treated patients with ulcerative colitis in either induction or maintenance trials:
 
 Cardiac Disorder: tachycardia
 
-Vascular Disorders: hypertension, hypotension
+Ear and Labyrinth Disorders: ear pain
 
-Skin and Subcutaneous Tissue Disorders: acne, prurigo, rash, urticaria
+Gastrointestinal Disorders: abdominal distention, colitis, diarrhea, flatulence, nausea, pancreatitis, rectal polyp, vomiting
 
-Gastrointestinal Disorders: abdominal distention, colitis, diarrhea, pancreatitis, rectal polyp, vomiting
+General Disorders and Administrative Site Disorders: asthenia, face edema, fatigue, pyrexia
 
 Investigations: decreased platelet count
 
 Musculoskeletal and Connective Tissue Disorders: arthralgia, back pain
 
-Nervous System Disorders: somnolence, tremor
+Nervous System Disorders: dizziness, somnolence, tremor
 
 Respiratory, Thoracic and Mediastinal Disorders: pharyngolaryngeal pain
 
-General Disorders and Administrative Site Disorders: asthenia, face edema, fatigue, pyrexia
+Skin and Subcutaneous Tissue Disorders: acne, prurigo, rash, alopecia, pruritus, urticaria
 
-Ear and Labyrinth Disorders: ear pain
+Vascular Disorders: hypertension, hypotension
 
-Maintenance of Remission of Ulcerative Colitis
+Pediatrics
 
-The dose evaluated in three studies of LIALDA given for the maintenance of remission in patients with ulcerative colitis was 1.2 g twice daily or 2.4 g/once daily.
-One of these studies was a 6-month double-blind comparator study, while two were 12- to 14-month open-label studies.
-
-The most common adverse reactions with LIALDA in the maintenance arms of long-term trials were colitis ulcerative (5.8%), headache (2.9%), liver function test abnormal (2.3%), and abdominal pain (2.2%).
-Of the 1082 subjects in the all maintenance studies pooled, 1.9% had severe adverse reactions.
-The most common severe adverse reactions were gastrointestinal disorders; these were mainly symptoms associated with ulcerative colitis.
-
-Table 2: Adverse Reactions in Three Maintenance Trials Experienced by at Least 1% of the LIALDA Group (maintenance phases of trials)
-
-| Adverse Reaction | n | % |
-| --- | --- | --- |
-|  | All LIALDA (n=1082) |  |
-| Colitis ulcerative | 63 | (5.8%) |
-| Headache | 31 | (2.9%) |
-| Liver function test abnormal | 25 | (2.3%) |
-| Abdominal pain | 24 | (2.2%) |
-| Diarrhea | 18 | (1.7%) |
-| Abdominal distension | 14 | (1.3%) |
-| Abdominal pain upper | 13 | (1.2%) |
-| Dyspepsia | 13 | (1.2%) |
-| Back pain | 13 | (1.2%) |
-| Rash | 13 | (1.2%) |
-| Arthralgia | 12 | (1.1%) |
-| Fatigue | 11 | (1.0%) |
-| Hypertension | 10 | (1.0%) |
-
-The following adverse reactions, presented by body system, were reported infrequently (less than 1%) by LIALDA-treated patients with ulcerative colitis in the three long-term maintenance trials (maintenance phases of these trials):
-
-Cardiac Disorder: tachycardia
-
-Skin and Subcutaneous Tissue Disorders: acne, alopecia, pruritus, urticaria
-
-Gastrointestinal Disorders: colitis, flatulence, nausea, pancreatitis, rectal polyp, vomiting
-
-Nervous System Disorders: dizziness
-
-Respiratory, Thoracic and Mediastinal Disorders: pharyngolaryngeal pain
-
-General Disorders and Administrative Site Disorders: asthenia, pyrexia
-
-Ear and Labyrinth Disorders: ear pain
+LIALDA was evaluated in 105 pediatric patients 5 through 17 years of age with mildly to moderately active ulcerative colitis [see Clinical Studies (14.2)].
+The adverse reaction profile was similar to that of adults.
+The most common adverse reactions reported in at least 5% of pediatric patients treated with LIALDA were: abdominal pain, upper respiratory tract infection, vomiting, anemia, headache, and viral infection.
 
 ## 6.2 Postmarketing Experience
 
@@ -105,9 +87,9 @@ Because these reactions are reported voluntarily from a population of uncertain 
 
 Body as a Whole: lupus-like syndrome, drug fever
 
-Cardiac Disorders: pericarditis, pericardial effusion, myocarditis
+Cardiac Disorders: pericarditis, pericardial effusion, myocarditis [see Warnings and Precautions (5.3)]
 
-Gastrointestinal: pancreatitis, cholecystitis, gastritis, gastroenteritis, gastrointestinal bleeding, perforated peptic ulcer
+Gastrointestinal: cholecystitis, gastritis, gastroenteritis, gastrointestinal bleeding, perforated peptic ulcer
 
 Hepatic: jaundice, cholestatic jaundice, hepatitis, liver necrosis, liver failure, Kawasaki-like syndrome including changes in liver enzymes
 
@@ -117,9 +99,9 @@ Immune System Disorders: anaphylactic reaction, angioedema, Stevens-Johnson synd
 
 Musculoskeletal and Connective Tissue Disorders: myalgia, lupus-like syndrome
 
-Neurological/Psychiatric: peripheral neuropathy, Guillain-Barre syndrome, transverse myelitis, intracranial hypertension
+Neurological/Psychiatric: peripheral neuropathy, Guillain-Barré syndrome, transverse myelitis, intracranial hypertension
 
-Renal Disorders: interstitial nephritis, nephrogenic diabetes insipidus
+Renal Disorders: renal failure, interstitial nephritis, nephrogenic diabetes insipidus [see Warnings and Precautions (5.1)]
 
 Respiratory, Thoracic and Mediastinal Disorders: interstitial lung disease, hypersensitivity pneumonitis (including interstitial pneumonitis, allergic alveolitis, eosinophilic pneumonitis)
 

@@ -1,6 +1,6 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-LIALDA is available as red-brown ellipsoidal film coated delayed-release tablets containing 1.2 g mesalamine, and debossed on one side imprinted with S476.
+LIALDA is available as red-brown, ellipsoidal, film-coated, delayed-release tablets containing 1.2 g mesalamine, and debossed on one side imprinted with S476.
 
 NDC 54092-476-12 HDPE Bottle with a child-resistant closure of 120 delayed-release tablets.
 
