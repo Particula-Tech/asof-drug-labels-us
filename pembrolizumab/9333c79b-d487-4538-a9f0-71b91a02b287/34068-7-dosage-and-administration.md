@@ -31,7 +31,7 @@ Table 1: Recommended Dosage
 | Monotherapy |  |  |
 | Adult patients with unresectable or metastatic melanoma | 200 mg every 3 weeks30-minute intravenous infusion or 400 mg every 6 weeks | Until disease progression or unacceptable toxicity |
 | Adjuvant treatment of adult patients with melanoma | 200 mg every 3 weeks or 400 mg every 6 weeks | Until disease recurrence, unacceptable toxicity, or up to 12 months |
-| Adult patients with NSCLC, SCLC, HNSCC, cHL, PMBCL, locally advanced or metastatic Urothelial Carcinoma, MSI-H Cancer, Gastric Cancer, Esophageal Cancer, Cervical Cancer, HCC, MCC, or TMB-H Cancer | 200 mg every 3 weeks or 400 mg every 6 weeks | Until disease progression, unacceptable toxicity, or up to 24 months |
+| Adult patients with NSCLC, SCLC, HNSCC, cHL, PMBCL, locally advanced or metastatic Urothelial Carcinoma, MSI-H Cancer, Gastric Cancer, Esophageal Cancer, Cervical Cancer, HCC, MCC, TMB-H Cancer, or cSCC | 200 mg every 3 weeks or 400 mg every 6 weeks | Until disease progression, unacceptable toxicity, or up to 24 months |
 | Adult patients with high-risk BCG- unresponsive NMIBC | 200 mg every 3 weeks or 400 mg every 6 weeks | Until persistent or recurrent high-risk NMIBC, disease progression, unacceptable toxicity, or up to 24 months |
 | Pediatric patients with cHL, PMBCL, MSI-H Cancer, MCC, or TMB-H Cancer | 2 mg/kg every 3 weeks (up to a maximum of 200 mg) | Until disease progression, unacceptable toxicity, or up to 24 months |
 | Combination TherapyRefer to the Prescribing Information for the agents administered in combination with KEYTRUDA for recommended dosing information, as appropriate. |  |  |

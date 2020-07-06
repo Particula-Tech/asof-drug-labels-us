@@ -398,7 +398,7 @@ Table 41: Efficacy Results in Patients with Small Cell Lung Cancer
 | Complete response rate | 2% |
 | Partial response rate | 17% |
 | Duration of Response | n=16 |
-| Range (months) | 4.1, 35.8Denotes ongoing response |
+| Range (months) | 4.1, 35.8Denotes ongoing |
 | % with duration ≥6 months | 94% |
 | % with duration ≥12 months | 63% |
 | % with duration ≥18 months | 56% |
@@ -598,7 +598,7 @@ Table 46: Efficacy Results in KEYNOTE-052
 | Partial response rate | 22% | 18% | 32% |
 | Duration of Response |  |  |  |
 | Median in months (range) | NR (1.4+, 17.8+) | NR (1.4+, 16.3+) | NR (1.4+, 17.8+) |
-| + Denotes ongoing response NR = not reached |  |  |  |
+| + Denotes ongoing NR = not reached |  |  |  |
 
 Previously Untreated Urothelial Carcinoma
 
@@ -654,7 +654,7 @@ Table 47: Efficacy Results in KEYNOTE-045
 | Partial response rate | 14% | 8% |
 | p-Value (Miettinen-Nurminen) | 0.002 |  |
 | Median duration of response in months (range) | NR (1.6+, 15.6+) | 4.3 (1.4+, 15.4+) |
-| + Denotes ongoing response NR = not reached |  |  |
+| + Denotes ongoing NR = not reached |  |  |
 
 BCG-unresponsive High-Risk Non-Muscle Invasive Bladder Cancer
 
@@ -683,7 +683,7 @@ Table 48: Efficacy Results in KEYNOTE-057
 | --- | --- |
 | Complete Response Rate (95% CI) | 41% (31, 51) |
 | Duration of ResponseBased on patients (n=39) that achieved a complete response; reflects period from the time complete response was achieved |  |
-| Median in months (range) | 16.2 (0.0+, 30.4Denotes ongoing response) |
+| Median in months (range) | 16.2 (0.0+, 30.4Denotes ongoing) |
 | % (n) with duration ≥12 months | 46% (18) |
 
 ## 14.8 Microsatellite Instability-High Cancer
@@ -869,7 +869,7 @@ Table 53: Efficacy Results in Patients with Recurrent or Metastatic Cervical Can
 | Duration of Response |  |
 | Median in months (range) | NR (4.1, 18.6+)Based on patients (n=11) with a response by independent review |
 | % with duration ≥6 months | 91% |
-| + Denotes ongoing response NR = not reached |  |
+| + Denotes ongoing NR = not reached |  |
 
 ## 14.12 Hepatocellular Carcinoma
 
@@ -928,9 +928,10 @@ Table 55: Efficacy Results in KEYNOTE-017
 | Complete response rate (95% CI) | 24% (13, 38) |
 | Partial response rate (95% CI) | 32% (20, 47) |
 | Duration of Response |  |
-| Range in monthsThe median duration of response was not reached. | 5.9-34.5+ |
+| Range in monthsThe median duration of response was not reached. | 5.9, 34.5+ |
 | Patients with duration ≥6 months, n (%) | 27 (96%) |
 | Patients with duration ≥12 months, n (%) | 15 (54%) |
+| + Denotes ongoing |  |
 
 ## 14.14 Renal Cell Carcinoma
 
@@ -1016,7 +1017,7 @@ Table 57: Efficacy Results in KEYNOTE-146
 | Response duration |  |
 | Median in months (range) | NR (1.2+, 33.1+)Based on patients (n=36) with a response by independent review |
 | % with duration ≥6 months | 69% |
-| + Denotes ongoing response NR = not reached |  |
+| + Denotes ongoing NR = not reached |  |
 
 ## 14.16 Tumor Mutational Burden-High Cancer
 
@@ -1071,6 +1072,36 @@ Table 59: Response by Tumor Type (TMB ≥10 mut/Mb)
 
 In an exploratory analysis in 32 patients enrolled in KEYNOTE-158 whose cancer had TMB ≥10 mut/Mb and <13 mut/Mb, the ORR was 13% (95% CI: 4%, 29%), including two complete responses and two partial responses.
 
-## 14.17 Adult Indications: Additional Dosing Regimen of 400 mg Every 6 Weeks
+## 14.17 Cutaneous Squamous Cell Carcinoma
+
+The efficacy of KEYTRUDA was investigated in patients with recurrent or metastatic cSCC enrolled in KEYNOTE-629 (NCT03284424), a multicenter, multi-cohort, non-randomized, open-label trial.
+The trial excluded patients with autoimmune disease or a medical condition that required immunosuppression.
+
+Patients received KEYTRUDA 200 mg intravenously every 3 weeks until documented disease progression, unacceptable toxicity, or a maximum of 24 months.
+Patients with initial radiographic disease progression could receive additional doses of KEYTRUDA during confirmation of progression unless disease progression was symptomatic, rapidly progressive, required urgent intervention, or occurred with a decline in performance status.
+
+Assessment of tumor status was performed every 6 weeks during the first year, and every 9 weeks during the second year.
+The major efficacy outcome measures were ORR and DoR as assessed by BICR according to RECIST v1.1, modified to follow a maximum of 10 target lesions and a maximum of 5 target lesions per organ.
+
+Among the 105 patients treated, the study population characteristics were: median age of 72 years (range: 29 to 95), 71% age 65 or older; 76% male; 71% White, 25% race unknown; 34% ECOG PS of 0 and 66% ECOG PS of 1.
+Forty-five percent of patients had locally recurrent only cSCC, 24% had metastatic only cSCC, and 31% had both locally recurrent and metastatic cSCC.
+Eighty-seven percent received one or more prior lines of therapy; 74% received prior radiation therapy.
+
+Efficacy results are summarized in Table 60.
+
+Table 60: Efficacy Results in KEYNOTE-629
+
+| Endpoint | KEYTRUDA n=105 |
+| --- | --- |
+| Objective Response Rate |  |
+| ORR (95% CI) | 34% (25, 44) |
+| Complete response rate | 4% |
+| Partial response rate | 31% |
+| Duration of ResponseMedian follow-up time of 9.5 months | n=36 |
+| Median in months (range) | NR (2.7, 13.1+)Based on patients (n=36) with a confirmed response by independent review |
+| % with duration ≥6 months | 69% |
+| + Denotes ongoing |  |
+
+## 14.18 Adult Indications: Additional Dosing Regimen of 400 mg Every 6 Weeks
 
 The efficacy and safety of KEYTRUDA using a dosage of 400 mg every 6 weeks for all approved adult indications was primarily based on the modeling of dose/exposure efficacy and safety relationships and observed pharmacokinetic data in patients with melanoma [see Clinical Pharmacology (12.2)].

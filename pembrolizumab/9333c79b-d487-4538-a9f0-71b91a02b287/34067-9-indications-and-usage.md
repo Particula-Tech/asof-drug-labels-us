@@ -126,8 +126,12 @@ Continued approval for this indication may be contingent upon verification and d
 
 Limitations of Use: The safety and effectiveness of KEYTRUDA in pediatric patients with TMB-H central nervous system cancers have not been established.
 
-## 1.17 Adult Indications: Additional Dosing Regimen of 400 mg Every 6 Weeks
+## 1.17 Cutaneous Squamous Cell Carcinoma
 
-KEYTRUDA is indicated for use at an additional recommended dosage of 400 mg every 6 weeks for all approved adult indications [see Indications and Usage (1.1-1.16) and Dosage and Administration (2.2)].
-This indication is approved under accelerated approval based on pharmacokinetic data, the relationship of exposure to efficacy, and the relationship of exposure to safety [see Clinical Pharmacology (12.2) and Clinical Studies (14.17)].
+KEYTRUDA is indicated for the treatment of patients with recurrent or metastatic cutaneous squamous cell carcinoma (cSCC) that is not curable by surgery or radiation.
+
+## 1.18 Adult Indications: Additional Dosing Regimen of 400 mg Every 6 Weeks
+
+KEYTRUDA is indicated for use at an additional recommended dosage of 400 mg every 6 weeks for all approved adult indications [see Indications and Usage (1.1-1.17) and Dosage and Administration (2.2)].
+This indication is approved under accelerated approval based on pharmacokinetic data, the relationship of exposure to efficacy, and the relationship of exposure to safety [see Clinical Pharmacology (12.2) and Clinical Studies (14.18)].
 Continued approval for this dosing may be contingent upon verification and description of clinical benefit in the confirmatory trials.
