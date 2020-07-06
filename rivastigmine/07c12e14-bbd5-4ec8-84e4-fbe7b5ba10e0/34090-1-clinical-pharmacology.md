@@ -30,7 +30,7 @@ Figure 2 displays rivastigmine plasma concentrations over 24 hours for the 3 ava
 
 Over a 24-hour dermal application, approximately 50% of the drug content of the patch is released from the system.
 
-Exposure area under the plasma concentration-time curve from time zero to infinity (AUC∞) to rivastigmine (and metabolite NAP266-90) was highest when the patch was applied to the upper back, chest, or upper arm.
+Exposure area under the plasma concentration-time curve from time zero to infinity (AUC∞) to rivastigmine (and metabolite NAP226-90) was highest when the patch was applied to the upper back, chest, or upper arm.
 Two other sites (abdomen and thigh) could be used if none of the 3 other sites is available, but the practitioner should be aware that the rivastigmine plasma exposure associated with these sites was approximately 20% to 30% lower.
 
 There was no relevant accumulation of rivastigmine or the metabolite NAP226-90 in plasma in patients with Alzheimer’s disease with daily dosing.
@@ -69,7 +69,7 @@ Age had no impact on the exposure to rivastigmine in Alzheimer’s disease patie
 Gender and Race
 
 No specific pharmacokinetic study was conducted to investigate the effect of gender and race on the disposition of EXELON PATCH.
-A population pharmacokinetic analysis of oral rivastigmine indicated that neither gender (n = 277 males and 348 females) nor race (n = 575 Caucasian, 34 Black, 4 Asian, and 12 Other) affected clearance of the drug.
+A population pharmacokinetic analysis of oral rivastigmine indicated that neither gender (n = 277 males and 348 females) nor race (n = 575 Caucasian, 34 black, 4 Asian, and 12 Other) affected clearance of the drug.
 Similar results were seen with analyses of pharmacokinetic data obtained after the administration of EXELON PATCH.
 
 Body Weight
@@ -81,7 +81,7 @@ Compared to a patient with a body weight of 65 kg, the rivastigmine steady-state
 Renal Impairment
 
 No study was conducted with EXELON PATCH in subjects with renal impairment.
-Based on population analysis, creatinine clearance did not show any clear effect on steady state concentrations of rivastigmine or its metabolite.
+Based on population analysis, creatinine clearance did not show any clear effect on steady-state concentrations of rivastigmine or its metabolite.
 
 Hepatic Impairment
 
@@ -111,4 +111,4 @@ Effect of Other Drugs on the Metabolism of Rivastigmine
 
 Drugs that induce or inhibit CYP450 metabolism are not expected to alter the metabolism of rivastigmine.
 
-Population pharmacokinetic analysis with a database of 625 patients showed that the pharmacokinetics of rivastigmine taken orally were not influenced by commonly prescribed medications such as antacids (n = 77), antihypertensives (n = 72), beta-blockers (n = 42), calcium channel blockers (n = 75), antidiabetics (n = 21), nonsteroidal anti-inflammatory drugs (n = 79), estrogens (n = 70), salicylate analgesics (n = 177), antianginals (n = 35), and antihistamines (n = 15).
+Population pharmacokinetic analysis with a database of 625 patients showed that the pharmacokinetics of rivastigmine taken orally were not influenced by commonly prescribed medications, such as antacids (n = 77), antihypertensives (n = 72), beta-blockers (n = 42), calcium channel blockers (n = 75), antidiabetics (n = 21), nonsteroidal anti-inflammatory drugs (n = 79), estrogens (n = 70), salicylate analgesics (n = 177), antianginals (n = 35), and antihistamines (n = 15).

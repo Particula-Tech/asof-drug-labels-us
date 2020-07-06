@@ -36,7 +36,7 @@ There have been isolated postmarketing reports of patients experiencing dissemin
 In these cases, treatment should be discontinued [see Contraindications (4)].
 Patients and caregivers should be instructed accordingly.
 
-## 5.4 Other Adverse Reactions from Increased Cholinergic Activity
+## 5.4 Other Adverse Reactions From Increased Cholinergic Activity
 
 Neurologic Effects
 

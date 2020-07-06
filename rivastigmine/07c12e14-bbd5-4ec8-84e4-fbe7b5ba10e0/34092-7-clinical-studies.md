@@ -10,12 +10,12 @@ International 24-Week Study of EXELON PATCH in Dementia of the Alzheimer’s Typ
 This study was a randomized double-blind, double dummy clinical investigation in patients with Alzheimer’s disease [diagnosed by NINCDS-ADRDA and DSM-IV criteria, Mini-Mental Status Examination (MMSE) score greater than or equal to 10 and less than or equal to 20] (Study 1).
 The mean age of patients participating in this trial was 74 years with a range of 50 to 90 years.
 Approximately 67% of patients were women, and 33% were men.
-The racial distribution was Caucasian 75%, Black 1%, Asian 9%, and other races 15%.
+The racial distribution was Caucasian 75%, black 1%, Asian 9%, and other races 15%.
 
 The effectiveness of the EXELON PATCH was evaluated in Study 1 using a dual outcome assessment strategy, evaluating for changes in both cognitive performance and overall clinical effect.
 
 The ability of the EXELON PATCH to improve cognitive performance was assessed with the cognitive subscale of the Alzheimer’s Disease Assessment Scale (ADAS-Cog), a multi-item instrument that has been extensively validated in longitudinal cohorts of Alzheimer’s-disease patients.
-The ADAS-Cog examines selected aspects of cognitive performance including elements of memory, orientation, attention, reasoning, language, and praxis.
+The ADAS-Cog examines selected aspects of cognitive performance, including elements of memory, orientation, attention, reasoning, language, and praxis.
 The ADAS-Cog scoring range is from 0 to 70, with higher scores indicating greater cognitive impairment.
 Elderly normal adults may score as low as 0 or 1, but it is not unusual for non-demented adults to score slightly higher.
 
@@ -40,19 +40,19 @@ International 48-Week Study of EXELON PATCH in Dementia of the Alzheimer’s Typ
 This study was a randomized double-blind clinical investigation in patients with Alzheimer’s disease [diagnosed by NINCDS-ADRDA and DSM-IV criteria, Mini-Mental State Examination (MMSE) score greater than or equal to 10 and less than or equal to 24] (Study 2).
 The mean age of patients participating in this trial was 76 years with a range of 50 to 85 years.
 Approximately 65% of patients were women and 35% were men.
-The racial distribution was approximately Caucasian 97%, Black 2%, Asian 0.5%, and other races 1%.
+The racial distribution was approximately Caucasian 97%, black 2%, Asian 0.5%, and other races 1%.
 Approximately 27% of the patients were taking memantine throughout the entire duration of the study.
 
 Alzheimer’s disease patients who received 24 to 48 weeks open-label treatment with EXELON PATCH 9.5 mg/24 hours and who demonstrated functional and cognitive decline were randomized into treatment with either EXELON PATCH 9.5 mg/24 hours or EXELON PATCH 13.3 mg/24 hours in a 48-week, double-blind treatment phase.
 Functional decline was assessed by the investigator and cognitive decline was defined as a decrease in the MMSE score of greater than or equal to 2 points from the previous visit or a decrease of greater than or equal to 3 points from baseline.
 
-Study 2 was designed to compare the efficacy of EXELON PATCH 13.3 mg/ 24 hours versus that of EXELON PATCH 9.5 mg/24 hours during the 48-week, double-blind treatment phase.
+Study 2 was designed to compare the efficacy of EXELON PATCH 13.3 mg/24 hours versus that of EXELON PATCH 9.5 mg/24 hours during the 48-week, double-blind treatment phase.
 
 The ability of the EXELON PATCH 13.3 mg/24 hours to improve cognitive performance over that provided by the EXELON PATCH 9.5 mg/24 hours was assessed by the cognitive subscale of the Alzheimer’s Disease Assessment Scale (ADAS-Cog) [see Clinical Studies (14)].
 
 The ability of the EXELON PATCH 13.3 mg/24 hours to improve overall function versus that provided by EXELON PATCH 9.5 mg/24 hours was assessed by the instrumental subscale of the Alzheimer’s Disease Cooperative Study Activities of Daily Living (ADCS-IADL).
 The ADCS-IADL subscale is composed of items 7 to 23 of the caregiver-based ADCS-ADL scale.
-The ADCS-IADL assesses activities such as those necessary for communicating and interacting with other people, maintaining a household, and conducting hobbies and interests.
+The ADCS-IADL assesses activities, such as those necessary for communicating and interacting with other people, maintaining a household, and conducting hobbies and interests.
 A sum score is calculated by adding the scores of the individual items and can range from 0 to 56, with higher scores indicating less impairment.
 
 Out of a total of 1584 patients enrolled in the initial open-label phase of the study, 567 patients were classified as decliners and were randomized into the 48-week double-blind treatment phase of the study.
@@ -72,18 +72,18 @@ Severe Alzheimer’s Disease
 This was a 24-week randomized double-blind, clinical investigation in patients with severe Alzheimer’s disease [diagnosed by NINCDS-ADRDA and DSM-IV criteria, Mini-Mental State Examination (MMSE) score greater than or equal to 3 and less than or equal to 12].
 The mean age of patients participating in this trial was 78 years with a range of 51 to 96 years with 62% aged greater than 75 years.
 Approximately 65% of patients were women and 35% were men.
-The racial distribution was approximately Caucasian 87%, Black 7%, Asian 1%, and other races 5%.
+The racial distribution was approximately Caucasian 87%, black 7%, Asian 1%, and other races 5%.
 Patients on a stable dose of memantine were permitted to enter the study.
 Approximately 61% of the patients in each treatment group were taking memantine throughout the entire duration of the study.
 
-The study was designed to compare the efficacy of EXELON PATCH 13.3 mg/ 24 hours versus that of EXELON PATCH 4.6 mg/24 hours during the 24-week double-blind treatment phase.
+The study was designed to compare the efficacy of EXELON PATCH 13.3 mg/24 hours versus that of EXELON PATCH 4.6 mg/24 hours during the 24-week double-blind treatment phase.
 
 The ability of the 13.3 mg/24 hours EXELON PATCH to improve cognitive performance versus that provided by the 4.6 mg/24 hours EXELON PATCH was assessed with the Severe Impairment Battery (SIB) which uses a validated 40-item scale developed for the evaluation of the severity of cognitive dysfunction in more advanced AD patients.
 The domains assessed included social interaction, memory, language, attention, orientation, praxis, visuospatial ability, construction, and orienting to name.
 The SIB was scored from 0 to 100, with higher scores reflecting higher levels of cognitive ability.
 
-The ability of the 13.3 mg/ 24 hours EXELON PATCH to improve overall function versus that provided by the 4.6 mg/24 hours EXELON PATCH was assessed with the Alzheimer’s Disease Cooperative Study-Activities of Daily Living-Severe Impairment Version (ADCS-ADL-SIV) which is a caregiver-based ADL scale composed of 19 items developed for use in clinical studies of dementia.
-It is designed to assess the patient's performance of both basic and instrumental activities of daily living such as those necessary for personal care, communicating and interacting with other people, maintaining a household, conducting hobbies and interests, and making judgments and decisions.
+The ability of the 13.3 mg/24 hours EXELON PATCH to improve overall function versus that provided by the 4.6 mg/24 hours EXELON PATCH was assessed with the Alzheimer’s Disease Cooperative Study-Activities of Daily Living-Severe Impairment Version (ADCS-ADL-SIV) which is a caregiver-based ADL scale composed of 19 items developed for use in clinical studies of dementia.
+It is designed to assess the patient's performance of both basic and instrumental activities of daily living, such as those necessary for personal care, communicating and interacting with other people, maintaining a household, conducting hobbies and interests, and making judgments and decisions.
 A sum score is calculated by adding the scores of the individual items and can range from 0 to 54, with higher scores indicating less functional impairment.
 
 In this study, 716 patients were randomized into one of the following treatments: EXELON PATCH 13.3 mg/24 hours or EXELON PATCH 4.6 mg/24 hours in a 1:1 ratio.

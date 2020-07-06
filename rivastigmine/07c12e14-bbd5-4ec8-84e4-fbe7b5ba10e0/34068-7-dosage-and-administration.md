@@ -37,7 +37,7 @@ Dosing Modifications in Patients with Low Body Weight
 
 Carefully titrate and monitor patients with low body weight (less than 50 kg) for toxicities (e.g., excessive nausea, vomiting), and consider reducing the maintenance dose to the 4.6 mg/24 hours EXELON PATCH if such toxicities develop.
 
-## 2.3 Switching to EXELON PATCH from Exelon Capsules or Exelon Oral Solution
+## 2.3 Switching to EXELON PATCH from EXELON Capsules or EXELON Oral Solution
 
 Patients treated with EXELON Capsules or Oral Solution may be switched to EXELON PATCH as follows:
 
@@ -69,7 +69,7 @@ If a patch falls off or if a dose is missed, apply a new patch immediately, and 
 Do not apply a new patch to the same location for at least 14 days.
 
 (f) May wear the patch during bathing and in hot weather.
-But avoid long exposure to external heat sources (excessive sunlight, saunas, solariums).
+Avoid long exposure to external heat sources (excessive sunlight, saunas, solariums).
 
 (g) Place used patches in the previously saved pouch and discard in the trash, away from pets or children.
 

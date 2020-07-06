@@ -12,4 +12,4 @@ Concomitant use of EXELON PATCH with medications having these pharmacologic effe
 ## 7.3 Beta-blockers
 
 Additive bradycardic effects resulting in syncope may occur when EXELON is used concomitantly with beta-blockers, especially cardioselective beta-blockers (including atenolol).
-Concomitant use is not recommended when signs of bradycardia including syncope are present.
+Concomitant use is not recommended when signs of bradycardia, including syncope are present.

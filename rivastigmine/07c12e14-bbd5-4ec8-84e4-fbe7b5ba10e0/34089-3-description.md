@@ -18,4 +18,4 @@ Figure 1: Cross Section of the EXELON PATCH
 | Layer 3: | Adhesive (Silicone) Matrix |
 | Layer 4: | Release Liner (removed at time of use) |
 
-Excipients within the formulation include acrylic copolymer, poly(butylmethacrylate, methylmethacrylate), silicone adhesive applied to a flexible polymer backing film, silicone oil, and vitamin E.
+Excipients within the formulation include acrylic copolymer, poly (butylmethacrylate, methylmethacrylate), silicone adhesive applied to a flexible polymer backing film, silicone oil, and vitamin E.
