@@ -32,8 +32,8 @@
 - DRIZALMA Sprinkle are in a class of medicines that may affect urination.
   Instruct patients to consult with their healthcare provider if they develop any problems with urine flow [see Warnings and Precautions (5.15)].
 - Pregnancy
-- •Advise pregnant women to notify their healthcare provider if they become pregnant or intend to become pregnant during treatment with DRIZALMA Sprinkle.
 
+- •Advise pregnant women to notify their healthcare provider if they become pregnant or intend to become pregnant during treatment with DRIZALMA Sprinkle.
 - •Advise pregnant women to notify their healthcare provider if they become pregnant or intend to become pregnant during treatment with DRIZALMA Sprinkle.
   - •Advise patients that DRIZALMA Sprinkle use during the month before delivery may lead to an increased risk for postpartum hemorrhage and may increase the risk of neonatal complications requiring prolonged hospitalization, respiratory support and tube feeding.
   - •Advise patients that there is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to duloxetine during pregnancy [see Use in Specific Populations (8.1)].
