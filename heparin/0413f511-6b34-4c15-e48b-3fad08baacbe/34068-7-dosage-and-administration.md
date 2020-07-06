@@ -3,22 +3,52 @@
 ## 2.1 Preparation for Administration
 
 Confirm the selection of the correct formulation and strength prior to administration of the drug.
-Do not use Heparin Sodium in 0.45% Sodium Chloride Injection as a "catheter lock flush" product.
+
+Do not use HEPARIN SODIUM IN SODIUM CHLORIDE INJECTION as a "catheter lock flush" product.
 
 Administer this product by intravenous infusion.
 
 Do not admix with other drugs.
 
-Do not use flexible container in series connections.
+Do not use flexible plastic containers in series connection.
+
+This product should not be infused under pressure.
 
 Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration, whenever solution and container permit.
 
+Do not administer unless the solution is clear and container is undamaged.
+
+Discard unused portion
+
+To Open
+
+Tear outer wrap at notch and remove solution container.
+Some opacity of the plastic due to moisture absorption during the sterilization process may be observed.
+This is normal and does not affect the solution quality or safety.
+The opacity will diminish gradually.
+
+(Use aseptic technique)
+
+1. Close flow control clamp of administration set.
+2. Remove cover from outlet port at bottom of container.
+3. Insert piercing pin of administration set into port with a twisting motion until the set is firmly seated.
+   NOTE: See full directions on administration set carton.
+4. Suspend container from hanger.
+5. Squeeze and release drip chamber to establish proper fluid level in chamber.
+6. Open flow control clamp and clear air from set.
+   Close clamp.
+7. Attach set to venipuncture device.
+   If device is not indwelling, prime and make venipuncture.
+8. Regulate rate of administration with flow control clamp.
+
+Warning: Do not use flexible container in series connections.
+
 ## 2.2 Laboratory Monitoring for Efficacy and Safety
 
-Adjust the dosage of heparin sodium according to the patient's coagulation test results.
-When heparin is given by continuous intravenous infusion, determine the coagulation time approximately every 4 hours in the early stages of treatment.
-When the drug is administered intermittently by intravenous injection, perform coagulation tests before each injection during the early stages of treatment and at appropriate intervals thereafter.
-Dosage is considered adequate when the activated partial thromboplastin time (APTT) is 1.5 to 2 times the normal or when the whole blood clotting time is elevated approximately 2.5 to 3 times the control value.
+The dosage of heparin sodium should be adjusted according to the patient's coagulation test results.
+When heparin is given by continuous intravenous infusion, the coagulation time should be determined approximately every 4 hours in the early stages of treatment.
+When the drug is administered intermittently by intravenous injection, coagulation tests should be performed before each injection during the early stages of treatment and at appropriate intervals thereafter.
+Dosage is considered adequate when the activated partial thromboplastin time (APTT) is 1.5 to 2 times normal or when the whole blood clotting time is elevated approximately 2.5 to 3 times the control value.
 
 Periodic platelet counts, hematocrits, and tests for occult blood in stool are recommended during the entire course of heparin therapy.
 
@@ -32,9 +62,9 @@ Table 1: Recommended Adult Full-Dose Heparin Regimens for Therapeutic Anticoagul
 | Method of Administration | Frequency | Recommended DoseBased on 150 lb. (68 kg) patient. |
 | --- | --- | --- |
 | Intermittent Intravenous Injection | Initial Dose | 10,000 Units |
-| Every 4 to 6 hours | 5,000 – 10,000 Units |  |
-| Continuous Intravenous Infusion | Initial Dose | 5,000 Units by IV injection |
-| Continuous | 20,000 – 40,000 Units/24 hours |  |
+| Every 4 to 6 hours | 5,000 Units to 10,000 Units |  |
+| Continuous Intravenous Infusion | Initial Dose | 5,000 Units by intravenous injection |
+| Continuous | 20,000 Units to 40,000 Units/24 hours |  |
 
 ## 2.4 Pediatric Use
 
@@ -42,7 +72,10 @@ There are no adequate and well controlled studies on heparin use in pediatric pa
 Pediatric dosing recommendations are based on clinical experience.
 In general, the following dosage schedule may be used as a guideline in pediatric patients:
 
-Initial Dose 75 to 100 units/kg (IV bolus over 10 minutes) Maintenance Dose Infants: 25 to 30 units/kg/hour; Infants < 2 months have the highest requirements (average 28 units/kg/hour) Children > 1 year of age: 18 to 20 units/kg/hour; Older children may require less heparin, similar to weight-adjusted adult dosage Monitoring Adjust heparin to maintain a PTT of 60 to 85 seconds, assuming this reflects an anti-Factor Xa level of 0.35 to 0.70.
+| Initial Dose | 75 units to 100 units/kg (intravenous bolus over 10 minutes) |
+| --- | --- |
+| Maintenance Dose | Infants: 25 units/kg/hour to 30 units/kg/hour; Infants less than 2 months have the highest requirements (average 28 units/kg/hour) Children greater than 1 year of age: 18 units/kg/hour to 20 units/kg/hour; Older children may require less heparin, similar to weight-adjusted adult dosage |
+| Monitoring | Adjust heparin to maintain APTT of 60 seconds to 85 seconds, assuming this reflects an anti-Factor Xa level of 0.35 to 0.70. |
 
 ## 2.5 Cardiovascular Surgery
 
@@ -51,7 +84,7 @@ Frequently, a dose of 300 units per kilogram is used for procedures estimated to
 
 ## 2.6 Converting to Warfarin
 
-To ensure continuous anticoagulation when converting from HEPARIN SODIUM to warfarin, continue full heparin therapy for several days until the INR (prothrombin time) has reached a stable therapeutic range.
+To ensure continuous anticoagulation when converting from heparin sodium to warfarin, continue full heparin therapy for several days until the INR (prothrombin time) has reached a stable therapeutic range.
 Heparin therapy may then be discontinued without tapering [see Drug Interactions (7.4)].
 
 ## 2.7 Converting to Oral Anticoagulants other than Warfarin
@@ -61,4 +94,4 @@ For patients currently receiving intravenous heparin, stop intravenous infusion 
 ## 2.8 Extracorporeal Dialysis
 
 Follow equipment manufacturer's operating directions carefully.
-A dose of 25 to 30 units/kg followed by an infusion rate of 1,500 to 2,000 units/hour is suggested based on pharmacodynamic data if specific manufacturers' recommendations are not available.
+A dose of 25 units/kg to 30 units/kg followed by an infusion rate of 1,500 units/hour to 2,000 units/hour is suggested based on pharmacodynamic data if specific manufacturers' recommendations are not available.

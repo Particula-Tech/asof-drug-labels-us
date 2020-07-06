@@ -1,6 +1,6 @@
 # 1 INDICATIONS AND USAGE
 
-Heparin sodium is indicated for:
+HEPARIN SODIUM IN SODIUM CHLORIDE INJECTION is indicated for:
 
 - •Prophylaxis and treatment of venous thrombosis and pulmonary embolism;
 - •Prophylaxis and treatment of thromboembolic complications associated with atrial fibrillation;

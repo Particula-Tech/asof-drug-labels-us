@@ -13,17 +13,21 @@ Advise patients to inform physicians and dentists that they are receiving hepari
 Heparin-Induced Thrombocytopenia
 
 Inform patients of the risk of heparin-induced thrombocytopenia (HIT).
-HIT may progress to the development of venous and arterial thromboses, a condition known as heparin-induced thrombocytopenia and thrombosis.
-HIT (With or Without Thrombosis) can occur up to several weeks after the discontinuation of heparin therapy [see Warnings and Precautions (5.3 and 5.4)].
+HIT may progress to the development of venous and arterial thromboses, a condition known as heparin-induced thrombocytopenia and thrombosis (HITT).
+HIT (With or Without Thrombosis) can occur up to several weeks after the discontinuation of heparin therapy [see Warnings and Precautions (5.3, 5.4)].
 
 Hypersensitivity
 
 Inform patients that generalized hypersensitivity reactions have been reported.
-Necrosis of the skin has been reported at the site of subcutaneous injection of heparin [see Warnings and Precautions (5.7), Adverse Reactions (6)].
+Necrosis of the skin has been reported at the site of subcutaneous injection of heparin [see Warnings and Precautions (5.7), Adverse Reactions (6.1)].
 
 Other Medications
 
 Because of the risk of hemorrhage, advise patients to inform their physicians and dentists of all medications they are taking, including non-prescription medications, and before starting any new medication [see Drug Interactions (7.2)].
-EN-4244
 
-Hospira, Inc., Lake Forest, IL 60045 USA
+This product labeling may have been updated.
+For the most recent prescribing information, please visit www.pfizer.com.
+
+Distributed by Hospira, Inc., Lake Forest, IL 60045 USA
+
+LAB-1392-1.0
