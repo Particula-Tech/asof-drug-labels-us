@@ -1,2 +1,14 @@
-OZOBAX (baclofen) Oral Solution contains 5 mg/5 mL baclofen.
-It is a clear, colorless solution with a grape aroma and is supplied in bottles of 473 mL, NDC 69528-301-16.
+# PACKAGE LABEL. PRINCIPAL DISPLAY PANEL
+
+NDC 69528-301-16
+
+OZOBAX® (baclofen) Oral Solution
+
+5 mg / 5 mL
+
+Grape flavored, clear liquid solution
+
+RX only
+
+16 fl. oz.
+(473 mL)

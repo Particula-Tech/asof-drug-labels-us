@@ -3,7 +3,7 @@
 OZOBAX (baclofen) oral solution is a gamma-aminobutyric acid (GABA-ergic) agonist available as 5 mg/5 mL solution for oral administration.
 Its chemical name is 4-amino-3-(4-chlorophenyl)-butanoic acid, and its structural formula is:
 
-Molecular formula is C1OH12ClNO2.
+Molecular formula is C1OH12CINO2.
 
 Molecular Weight is 213.66.
 

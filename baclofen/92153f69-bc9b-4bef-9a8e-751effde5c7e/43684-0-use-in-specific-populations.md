@@ -2,24 +2,16 @@
 
 ## 8.1 Pregnancy
 
-Risk Summary
-
-There are no adequate data on the developmental risk associated with the use of OZOBAX in pregnant women.
+Risk Summary There are no adequate data on the developmental risk associated with the use of OZOBAX in pregnant women.
 Oral administration of baclofen to pregnant rats resulted in an increased incidence of fetal structural abnormalities at a dose which was also associated with maternal toxicity.
 The background risk of major birth defects and miscarriage for the indicated population is unknown.
 In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2-4% and 15-20%, respectively.
 
-Clinical Considerations
-
-Fetal/Neonatal adverse reactions
-
-Ozobax may increase the risk of late-onset neonatal withdrawal symptoms [see Warnings and Precautions (5.2)].
+Clinical Considerations Fetal/Neonatal adverse reactions Ozobax may increase the risk of late-onset neonatal withdrawal symptoms [see Warnings and Precautions (5.2)].
 
 Data
 
-Animal Data
-
-Baclofen given orally has been shown to increase the incidence of omphaloceles (ventral hernias) in fetuses of rats given approximately 13 times on a mg/kg basis, or 3 times on a mg/m2 basis, the maximum oral dose recommended for human use; this dose also caused reductions in food intake and weight gain in the dams.
+Animal Data Baclofen given orally has been shown to increase the incidence of omphaloceles (ventral hernias) in fetuses of rats given approximately 13 times on a mg/kg basis, or 3 times on a mg/m2 basis, the maximum oral dose recommended for human use; this dose also caused reductions in food intake and weight gain in the dams.
 This abnormality was not seen in mice or rabbits.
 
 ## 8.2 Lactation

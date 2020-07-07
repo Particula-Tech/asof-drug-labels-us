@@ -24,16 +24,9 @@ Storage
 
 Instruct patients to store OZOBAX in the refrigerator [see How Supplied/Storage and Handling (16.2)].
 
-Manufactured by:
-
-Entreprises Importfab, Inc.
-
-50 Hymus Blvd.
-
+Manufactured by: Entreprises Importfab, Inc. 50 Hymus Blvd.
 Pointe-Claire, QC, Canada H9R 1C9
 
-Manufactured for:
+Manufactured for: Metacel Pharmaceuticals, LLC Athens, GA 30601
 
-Metacel Pharmaceuticals, LLC
-
-Athens, GA 30601
+OZOBAX® is a registered U.S. trademark of Metacel Pharmaceuticals LLC U.S. Patent No. 10,610,502
