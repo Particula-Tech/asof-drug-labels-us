@@ -14,7 +14,7 @@ Chemical Structure of Sevelamer Carbonate
 
 a, b = number of primary amine groups a + b = 9
 
-c = number of crosslinking groups c = 1
+c = number of cross-linking groups c = 1
 
 m = large number to indicate extended polymer network
 

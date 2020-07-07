@@ -12,7 +12,7 @@ In a parallel design study of sevelamer hydrochloride with treatment duration of
 Overall adverse reactions among those treated with sevelamer hydrochloride occurring in > 5% of patients included: vomiting (22%), nausea (20%), diarrhea (19%), dyspepsia (16%), abdominal pain (9%), flatulence (8%) and constipation (8%).
 A total of 27 patients treated with sevelamer and 10 patients treated with comparator withdrew from the study due to adverse reactions.
 
-Based on studies of 8 to 52 weeks, the most common reason for withdrawal from sevelamer hydrochloride was gastrointestinal adverse reactions (3 to 16%).
+Based on studies of 8 to 52 weeks, the most common reason for withdrawal from sevelamer hydrochloride was gastrointestinal adverse reactions (3% to 16%).
 
 In 143 peritoneal dialysis patients studied for 12 weeks using sevelamer hydrochloride, most common adverse reactions were similar to adverse reactions observed in hemodialysis patients.
 The most frequently occurring treatment emergent serious adverse reaction was peritonitis (8 reactions in 8 patients [8%] in the sevelamer group and 2 reactions in 2 patients [4%] on active-control).
@@ -22,5 +22,5 @@ Thirteen patients (14%) in the sevelamer group and 9 patients (20%) in the activ
 
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or to establish a causal relationship to drug exposure.
 
-The following adverse reactions have been identified during post-approval use of sevelamer hydrochloride or sevelamer carbonate: hypersensitivity, pruritus, rash, abdominal pain, fecal impaction, and uncommon cases of ileus, intestinal obstruction, and intestinal perforation.
+The following adverse reactions have been identified during postapproval use of sevelamer hydrochloride or sevelamer carbonate: hypersensitivity, pruritus, rash, abdominal pain, bleeding gastrointestinal ulcers, colitis, ulceration, necrosis, fecal impaction, and uncommon cases of ileus, intestinal obstruction, and intestinal perforation.
 Appropriate medical management should be given to patients who develop constipation or have worsening of existing constipation to avoid severe complications.
