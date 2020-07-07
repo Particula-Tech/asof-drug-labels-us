@@ -1,5 +1,4 @@
-Antifibrinolytic agent
+This product's labeling may have been updated.
+For the most recent prescribing information, please visit www.pfizer.com.
 
-Rx only
-
-LAB-0258-11.0 November 2017
+LAB-0258-12.0
