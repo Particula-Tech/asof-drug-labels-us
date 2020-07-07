@@ -24,7 +24,7 @@ However, as a carbonic anhydrase inhibitor, zonisamide may cause metabolic acido
 Absorption
 
 Following a 200 to 400 mg oral zonisamide dose, peak plasma concentrations (range: 2 to 5 mcg/mL) in normal volunteers occur within 2 to 6 hours.
-In the presence of food, the time to maximum concentration is delayed, occurring at 4 to 6 hours, but food has no effect on the bioavailability of zonisamide.
+In the presence of food, the time to maximum concentration is delayed; occurring at 4 to 6 hours, but food has no effect on the bioavailability of zonisamide.
 Zonisamide absorption is dose-proportional in the range of 200 to 400 mg.
 Cmax and AUC, however, increase disproportionately at 800 mg, possibly due to saturable binding of zonisamide to red blood cells.
 Once a stable dose is reached, steady state is achieved within 14 days.
@@ -91,9 +91,9 @@ P-gp substrate
 An in vitro study showed that zonisamide is a weak inhibitor of P-gp (MDR1) with an IC50 of 267 μmol/L.
 There is a theoretical potential for zonisamide to affect the pharmacokinetics of drugs which are P-gp substrates.
 
-Caution is advised when starting or stopping zonisamide or changing the zonisamide dose in patients who are also receiving drugs which are P-gp substrates (e.g., digoxin, quinidine).
+Caution is advised when starting or stopping zonisamide or changing the zonisamide dose in patients who are also receiving drugs which are P-gp substrates (e.g. digoxin, quinidine).
 
-Potential for Medicinal Product to Affect Zonisamide
+Potential for Medicinal Products to Affect Zonisamide
 
 Concomitant medications that can induce or inhibit CYP3A4 or N-acetyl-transferases may affect the pharmacokinetics of zonisamide.
 Drugs which inhibit or induce glucuronide conjugation are not expected to influence the pharmacokinetics of zonisamide.
@@ -104,15 +104,15 @@ CYP3A4 Induction: Drugs that induce liver enzymes increase the metabolism and cl
 The half-life of zonisamide following a 400 mg dose in patients concurrently on enzyme-inducing AEDs such as phenytoin, carbamazepine, or phenobarbital was between 27 to 38 hours; the half-life of zonisamide in patients concurrently on the non-enzyme inducing AED, valproate, was 46 hours.
 
 These effects are unlikely to be of clinical significance when zonisamide is added to existing therapy; however, changes in zonisamide concentrations may occur if concomitant CYP3A4 inducing anti-epileptic or other drugs are withdrawn, dose adjusted or introduced, an adjustment of the zonisamide dose may be required.
-If coadministration with a potent CYP3A4 inducer (e.g., rifampicin) is necessary, the patient should be closely monitored and the dose of zonisamide and other drugs that are CYP3A4 substrate may need to be adjusted.
+If coadministration with a potent CYP3A4 inducer (e.g. rifampicin) is necessary, the patient should be closely monitored and the dose of zonisamide and other drugs that are CYP3A4 substrate may need to be adjusted.
 
 CYP3A4 Inhibition: Steady-state dosing of either ketoconazole (400 mg/day) or cimetidine (1200 mg/day) had no clinically relevant effects on the single dose pharmacokinetics of zonisamide given to healthy subjects.
-Therefore, modification of zonisamide dosing is not necessary when co-administered with known CYP3A4 inhibitors.
+Therefore, modification of zonisamide dosing is not necessary when coadministered with known CYP3A4 inhibitors.
 
 ## Interactions of Zonisamide with Other Carbonic Anhydrase Inhibitors:
 
-Concomitant use of zonisamide, a carbonic anhydrase inhibitor, with any other carbonic anhydrase inhibitor (e.g., topiramate, acetazolamide or dichlorphenamide), may increase the severity of metabolic acidosis and may also increase the risk of kidney stone formation.
-Therefore, if zonisamide is given concomitantly with another carbonic anhydrase inhibitor, the patient should be monitored for the appearance or worsening of metabolic acidosis (see PRECAUTIONS, Drug Interactions subsection).
+Concomitant use of zonisamide, a carbonic anhydrase inhibitor, with any other carbonic anhydrase inhibitor (e.g. topiramate, acetazolamide or dichlorphenamide), may increase the severity of metabolic acidosis and may also increase the risks of hyperammonemia and kidney stone formation.
+Therefore, if zonisamide is given concomitantly with another carbonic anhydrase inhibitor, the patient should be monitored for the appearance or worsening of metabolic acidosis (see WARNINGS, Metabolic Acidosissubsection and Hyperammonemia and Encephalopathy subsection and PRECAUTIONS, Drug Interactions subsection).
 
 ## Clinical Studies:
 
@@ -146,11 +146,13 @@ Median % Reduction in All Partial Seizures and % Responders in Primary Efficacy 
 | --- | --- | --- | --- | --- |
 | Zonisamide | Placebo | Zonisamide | Placebo |  |
 | Study 1: | n=98 | n=72 | n=98 | n=72 |
-| Weeks 8 to 12: | 40.5%1 | 9% | 41.8%1 | 22.2% |
+| Weeks 8 to 12: | 40.5%* | 9% | 41.8%* | 22.2% |
 | Study 2: | n=69 | n=72 | n=69 | n=72 |
-| Weeks 5 to 12: | 29.6%1 | -3.2% | 29% | 15% |
+| Weeks 5 to 12: | 29.6%* | -3.2% | 29% | 15% |
 | Study 3: | n=67 | n=66 | n=67 | n=66 |
-| Weeks 5 to 12: | 27.2%1 | -1.1% | 28%1 | 12% |
+| Weeks 5 to 12: | 27.2%* | -1.1% | 28%* | 12% |
+
+*p <0.05 compared to placebo
 
 Table 2.
 Median % Reduction in All Partial Seizures and % Responders for Dose Analyses in Study 1: Intent-To-Treat Analysis
@@ -159,11 +161,13 @@ Median % Reduction in All Partial Seizures and % Responders for Dose Analyses in
 | --- | --- | --- | --- | --- |
 |  | Zonisamide | Placebo | Zonisamide | Placebo |
 | 100 to 400 mg/day: | n=112 | n=83 | n=112 | n=83 |
-| Weeks 1 to 12: | 32.3%1 | 5.6% | 32.1%1 | 9.6% |
+| Weeks 1 to 12: | 32.3%* | 5.6% | 32.1%* | 9.6% |
 | 100 mg/day: | n=56 | n=80 | n=56 | n=80 |
-| Weeks 1 to 5: | 24.7%1 | 8.3% | 25%1 | 11.3% |
+| Weeks 1 to 5: | 24.7%* | 8.3% | 25%* | 11.3% |
 | 200 mg/day: | n=55 | n=82 | n=55 | n=82 |
-| Weeks 2 to 6: | 20.4%1 | 4% | 25.5%1 | 9.8% |
+| Weeks 2 to 6: | 20.4%* | 4% | 25.5%* | 9.8% |
+
+*p < 0.05 compared to placebo
 
 Figure 1 presents the proportion of patients (X-axis) whose percentage reduction from baseline in the all partial seizure rate was at least as great as that indicated on the Y-axis in the second and third placebo-controlled trials.
 A positive value on the Y-axis indicates an improvement from baseline (i.e., a decrease in seizure rate), while a negative value indicates a worsening from baseline (i.e., an increase in seizure rate).
