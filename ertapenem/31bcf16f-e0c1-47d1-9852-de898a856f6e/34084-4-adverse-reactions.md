@@ -16,12 +16,12 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 Adults Receiving Ertapenem as a Treatment Regimen Clinical trials enrolled 1954 patients treated with ertapenem; in some of the clinical trials, parenteral therapy was followed by a switch to an appropriate oral antimicrobial [see Clinical Studies (14)].
 Most adverse experiences reported in these clinical trials were described as mild to moderate in severity.
 Ertapenem was discontinued due to adverse experiences in 4.7% of patients.
-Table 3 shows the incidence of adverse experiences reported in ≥2.0% of patients in these trials.
+Table 3 shows the incidence of adverse experiences reported in ≥2% of patients in these trials.
 The most common drug-related adverse experiences in patients treated with ertapenem, including those who were switched to therapy with an oral antimicrobial, were diarrhea (5.5%), infused vein complication (3.7%), nausea (3.1%), headache (2.2%), and vaginitis in females (2.1%).
 
 Table 3
 
-| Incidence (%) of Adverse Experiences Reported During Study Therapy Plus 14-Day Follow-Up in ≥2.0% of Adult Patients Treated With Ertapenem in Clinical Trials |  |  |  |  |
+| Incidence (%) of Adverse Experiences Reported During Study Therapy Plus 14-Day Follow-Up in ≥2% of Adult Patients Treated With Ertapenem in Clinical Trials |  |  |  |  |
 | --- | --- | --- | --- | --- |
 | Adverse Events | Ertapenem* 1 g daily (N = 802) | Piperacillin/ Tazobactam* 3.375 g q6h (N = 774) | Ertapenem† 1 g daily (N = 1152) | Ceftriaxone† 1 or 2 g daily (N = 942) |
 | Local: |  |  |  |  |
@@ -29,21 +29,21 @@ Table 3
 | Systemic: |  |  |  |  |
 | Death | 2.5 | 1.6 | 1.3 | 1.6 |
 | Edema/swelling | 3.4 | 2.5 | 2.9 | 3.3 |
-| Fever | 5.0 | 6.6 | 2.3 | 3.4 |
+| Fever | 5 | 6.6 | 2.3 | 3.4 |
 | Abdominal pain | 3.6 | 4.8 | 4.3 | 3.9 |
-| Hypotension | 2.0 | 1.4 | 1.0 | 1.2 |
-| Constipation | 4.0 | 5.4 | 3.3 | 3.1 |
+| Hypotension | 2 | 1.4 | 1 | 1.2 |
+| Constipation | 4 | 5.4 | 3.3 | 3.1 |
 | Diarrhea | 10.3 | 12.1 | 9.2 | 9.8 |
 | Nausea | 8.5 | 8.7 | 6.4 | 7.4 |
-| Vomiting | 3.7 | 5.3 | 4.0 | 4.0 |
+| Vomiting | 3.7 | 5.3 | 4 | 4 |
 | Altered mental status‡ | 5.1 | 3.4 | 3.3 | 2.5 |
 | Dizziness | 2.1 | 3.0 | 1.5 | 2.1 |
 | Headache | 5.6 | 5.4 | 6.8 | 6.9 |
-| Insomnia | 3.2 | 5.2 | 3.0 | 4.1 |
-| Dyspnea | 2.6 | 1.8 | 1.0 | 2.4 |
-| Pruritus | 2.0 | 2.6 | 1.0 | 1.9 |
+| Insomnia | 3.2 | 5.2 | 3 | 4.1 |
+| Dyspnea | 2.6 | 1.8 | 1 | 2.4 |
+| Pruritus | 2 | 2.6 | 1 | 1.9 |
 | Rash | 2.5 | 3.1 | 2.3 | 1.5 |
-| Vaginitis | 1.4 | 1.0 | 3.3 | 3.7 |
+| Vaginitis | 1.4 | 1 | 3.3 | 3.7 |
 | * Includes Phase IIb/III Complicated intra-abdominal infections, Complicated skin and skin structure infections and Acute pelvic infections trials † Includes Phase IIb/III Community acquired pneumonia and Complicated urinary tract infections, and Phase IIa trials ‡ Includes agitation, confusion, disorientation, decreased mental acuity, changed mental status, somnolence, stupor |  |  |  |  |
 
 In patients treated for complicated intra-abdominal infections, death occurred in 4.7% (15/316) of patients receiving ertapenem and 2.6% (8/307) of patients receiving comparator drug.
@@ -53,17 +53,17 @@ In clinical trials, seizure was reported during study therapy plus 14-day follow
 Additional adverse experiences that were reported with ertapenem with an incidence >0.1% within each body system are listed below Body as a Whole: abdominal distention, pain, chills, septicemia, septic shock, dehydration, gout, malaise, asthenia/fatigue, necrosis, candidiasis, weight loss, facial edema, injection site induration, injection site pain, extravasation, phlebitis/thrombophlebitis, flank pain, syncope Cardiovascular System: heart failure, hematoma, chest pain, hypertension, tachycardia, cardiac arrest, bradycardia, arrhythmia, atrial fibrillation, heart murmur, ventricular tachycardia, asystole, subdural hemorrhage Digestive System: acid regurgitation, oral candidiasis, dyspepsia, gastrointestinal hemorrhage, anorexia, flatulence, C. difficile-associated diarrhea, stomatitis, dysphagia, hemorrhoids, ileus, cholelithiasis, duodenitis, esophagitis, gastritis, jaundice, mouth ulcer, pancreatitis, pyloric stenosis Musculoskeletal System: leg pain Nervous System & Psychiatric: anxiety, nervousness, seizure [see Warnings and Precautions (5.2)], tremor, depression, hypesthesia, spasm, paresthesia, aggressive behavior, vertigo Respiratory System: cough, pharyngitis, rales/rhonchi, respiratory distress, pleural effusion, hypoxemia, bronchoconstriction, pharyngeal discomfort, epistaxis, pleuritic pain, asthma, hemoptysis, hiccups, voice disturbance Skin & Skin Appendage: erythema, sweating, dermatitis, desquamation, flushing, urticaria Special Senses: taste perversion Urogenital System: renal impairment, oliguria/anuria, vaginal pruritus, hematuria, urinary retention, bladder dysfunction, vaginal candidiasis, vulvovaginitis.
 In a clinical trial for the treatment of diabetic foot infections in which 289 adult diabetic patients were treated with ertapenem, the adverse experience profile was generally similar to that seen in previous clinical trials.
 Prophylaxis of Surgical Site Infection following Elective Colorectal Surgery In a clinical trial in adults for the prophylaxis of surgical site infection following elective colorectal surgery in which 476 patients received a 1 g dose of ertapenem 1 hour prior to surgery and were then followed for safety 14 days post surgery, the overall adverse experience profile was generally comparable to that observed for ertapenem in previous clinical trials.
-Table 4 shows the incidence of adverse experiences other than those previously described above for ertapenem that were reported regardless of causality in ≥2.0% of patients in this trial.
+Table 4 shows the incidence of adverse experiences other than those previously described above for ertapenem that were reported regardless of causality in ≥2% of patients in this trial.
 
 Table 4
 
-| Incidence (%) of Adverse Experiences Reported During Study Therapy Plus 14-Day Follow-Up in ≥2.0% of Adult Patients Treated With Ertapenem for Prophylaxis of Surgical Site Infections Following Elective Colorectal Surgery |  |  |
+| Incidence (%) of Adverse Experiences Reported During Study Therapy Plus 14-Day Follow-Up in ≥2% of Adult Patients Treated With Ertapenem for Prophylaxis of Surgical Site Infections Following Elective Colorectal Surgery |  |  |
 | --- | --- | --- |
 | Adverse Events | Ertapenem 1 g (N = 476) | Cefotetan 2 g (N = 476) |
 | Anemia | 5.7 | 6.9 |
 | Small intestinal obstruction | 2.1 | 1.9 |
-| Pneumonia | 2.1 | 4.0 |
-| Postoperative infection | 2.3 | 4.0 |
+| Pneumonia | 2.1 | 4 |
+| Postoperative infection | 2.3 | 4 |
 | Urinary tract infection | 3.8 | 5.5 |
 | Wound infection | 6.5 | 12.4 |
 | Wound complication | 2.9 | 2.3 |
@@ -72,30 +72,30 @@ Table 4
 Additional adverse experiences that were reported in this prophylaxis trial with ertapenem, regardless of causality, with an incidence >0.5% within each body system are listed below: Gastrointestinal Disorders: C. difficile infection or colitis, dry mouth, hematochezia General Disorders and Administration Site Condition: crepitations Infections and Infestations: cellulitis, abdominal abscess, fungal rash, pelvic abscess Injury, Poisoning and Procedural Complications: incision site complication, incision site hemorrhage, intestinal stoma complication, anastomotic leak, seroma, wound dehiscence, wound secretion Musculoskeletal and Connective Tissue Disorders: muscle spasms Nervous System Disorders: cerebrovascular accident Renal and Urinary Disorders: dysuria, pollakiuria Respiratory, Thoracic and Mediastinal Disorders: crackles lung, lung infiltration, pulmonary congestion, pulmonary embolism, wheezing.
 Pediatric Patients Receiving Ertapenem as a Treatment Regimen Clinical trials enrolled 384 patients treated with ertapenem; in some of the clinical trials, parenteral therapy was followed by a switch to an appropriate oral antimicrobial [see Clinical Studies (14)].
 The overall adverse experience profile in pediatric patients is comparable to that in adult patients.
-Table 5 shows the incidence of adverse experiences reported in ≥2.0% of pediatric patients in clinical trials.
+Table 5 shows the incidence of adverse experiences reported in ≥2% of pediatric patients in clinical trials.
 The most common drug-related adverse experiences in pediatric patients treated with ertapenem, including those who were switched to therapy with an oral antimicrobial, were diarrhea (6.5%), infusion site pain (5.5%), infusion site erythema (2.6%), vomiting (2.1%).
 
 Table 5
 
-| Incidence (%) of Adverse Experiences Reported During Study Therapy Plus 14-Day Follow-Up in ≥2.0% of Pediatric Patients Treated With Ertapenem in Clinical Trials |  |  |  |
+| Incidence (%) of Adverse Experiences Reported During Study Therapy Plus 14-Day Follow-Up in ≥2% of Pediatric Patients Treated With Ertapenem in Clinical Trials |  |  |  |
 | --- | --- | --- | --- |
 | Adverse Events | Ertapenem*,† (N = 384) | Ceftriaxone* (N = 100) | Ticarcillin/ Clavulanate† (N = 24) |
 | Local: |  |  |  |
-| Infusion Site Erythema | 3.9 | 3.0 | 8.3 |
-| Infusion Site Pain | 7.0 | 4.0 | 20.8 |
+| Infusion Site Erythema | 3.9 | 3 | 8.3 |
+| Infusion Site Pain | 7 | 4 | 20.8 |
 | Systemic: |  |  |  |
-| Abdominal Pain | 4.7 | 3.0 | 4.2 |
-| Constipation | 2.3 | 0.0 | 0.0 |
-| Diarrhea | 11.7 | 17.0 | 4.2 |
-| Loose Stools | 2.1 | 0.0 | 0.0 |
-| Vomiting | 10.2 | 11.0 | 8.3 |
-| Pyrexia | 4.9 | 6.0 | 8.3 |
-| Upper Respiratory Tract Infection | 2.3 | 3.0 | 0.0 |
-| Headache | 4.4 | 4.0 | 0.0 |
-| Cough | 4.4 | 3.0 | 0.0 |
-| Diaper Dermatitis | 4.7 | 4.0 | 0.0 |
-| Rash | 2.9 | 2.0 | 8.3 |
-| * Includes Phase IIb Complicated skin and skin structure infections, Community acquired pneumonia and Complicated urinary tract infections trials in which patients 3 months to 12 years of age received ertapenem 15 mg/kg IV twice daily up to a maximum of 1 g or ceftriaxone 50 mg/kg/day IV in two divided doses up to a maximum of 2 g, and patients 13 to 17 years of age received ertapenem 1 g IV daily or ceftriaxone 50 mg/kg/day IV in a single daily dose. † Includes Phase IIb Acute pelvic infections and Complicated intra-abdominal infections trials in which patients 3 months to 12 years of age received ertapenem 15 mg/kg IV twice daily up to a maximum of 1 g and patients 13 to 17 years of age received ertapenem 1 g IV daily or ticarcillin/clavulanate 50 mg/kg for patients <60 kg or ticarcillin/clavulanate 3.0 g for patients >60 kg, 4 or 6 times a day. |  |  |  |
+| Abdominal Pain | 4.7 | 3 | 4.2 |
+| Constipation | 2.3 | 0 | 0 |
+| Diarrhea | 11.7 | 17 | 4.2 |
+| Loose Stools | 2.1 | 0 | 0 |
+| Vomiting | 10.2 | 11 | 8.3 |
+| Pyrexia | 4.9 | 6 | 8.3 |
+| Upper Respiratory Tract Infection | 2.3 | 3 | 0 |
+| Headache | 4.4 | 4 | 0 |
+| Cough | 4.4 | 3 | 0 |
+| Diaper Dermatitis | 4.7 | 4 | 0 |
+| Rash | 2.9 | 2 | 8.3 |
+| * Includes Phase IIb Complicated skin and skin structure infections, Community acquired pneumonia and Complicated urinary tract infections trials in which patients 3 months to 12 years of age received ertapenem 15 mg/kg IV twice daily up to a maximum of 1 g or ceftriaxone 50 mg/kg/day IV in two divided doses up to a maximum of 2 g, and patients 13 to 17 years of age received ertapenem 1 g IV daily or ceftriaxone 50 mg/kg/day IV in a single daily dose. † Includes Phase IIb Acute pelvic infections and Complicated intra-abdominal infections trials in which patients 3 months to 12 years of age received ertapenem 15 mg/kg IV twice daily up to a maximum of 1 g and patients 13 to 17 years of age received ertapenem 1 g IV daily or ticarcillin/clavulanate 50 mg/kg for patients <60 kg or ticarcillin/clavulanate 3 g for patients >60 kg, 4 or 6 times a day. |  |  |  |
 
 Additional adverse experiences that were reported with ertapenem with an incidence >0.5% within each body system are listed below: Gastrointestinal Disorders: nausea General Disorders and Administration Site Condition: hypothermia, chest pain, upper abdominal pain; infusion site pruritus, induration, phlebitis, swelling, and warmth Infections and Infestations: candidiasis, oral candidiasis, viral pharyngitis, herpes simplex, ear infection, abdominal abscess Metabolism and Nutrition Disorders: decreased appetite Musculoskeletal and Connective Tissue Disorders: arthralgia Nervous System Disorders: dizziness, somnolence Psychiatric Disorders: insomnia Reproductive System and Breast Disorders: genital rash Respiratory, Thoracic and Mediastinal Disorders: wheezing, nasopharyngitis, pleural effusion, rhinitis, rhinorrhea Skin and Subcutaneous Tissue Disorders: dermatitis, pruritus, rash erythematous, skin lesion Vascular Disorders: phlebitis.
 
@@ -103,44 +103,44 @@ Additional adverse experiences that were reported with ertapenem with an inciden
 
 The following additional adverse reactions have been identified during the post-approval use of ertapenem.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
-Gastrointestinal Disorders: teeth staining Immune System Disorders: anaphylaxis including anaphylactoid reactions Musculoskeletal and Connective Tissue Disorders: muscular weakness Nervous System Disorders: coordination abnormal, depressed level of consciousness, dyskinesia, gait disturbance, myoclonus, tremor Psychiatric Disorders: altered mental status (including aggression, delirium), hallucinations Skin and Subcutaneous Tissue Disorders: Drug Rash with Eosinophilia and Systemic Symptoms (DRESS syndrome)
+Gastrointestinal Disorders: teeth staining Immune System Disorders: anaphylaxis including anaphylactoid reactions Musculoskeletal and Connective Tissue Disorders: muscular weakness Nervous System Disorders: coordination abnormal, depressed level of consciousness, dyskinesia, gait disturbance, myoclonus, tremor Psychiatric Disorders: altered mental status (including aggression, delirium), hallucinations Skin and Subcutaneous Tissue Disorders: Acute Generalized Exanthematous Pustulosis (AGEP), Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS syndrome)
 
 ## 6.3 Adverse Laboratory Changes in Clinical Trials
 
-Adults Receiving Ertapenem as Treatment Regimen Laboratory adverse experiences that were reported during therapy in ≥2.0% of adult patients treated with ertapenem in clinical trials are presented in Table 6.
-Drug-related laboratory adverse experiences that were reported during therapy in ≥2.0% of adult patients treated with ertapenem, including those who were switched to therapy with an oral antimicrobial, in clinical trials were ALT increased (6.0%), AST increased (5.2%), serum alkaline phosphatase increased (3.4%), and platelet count increased (2.8%).
+Adults Receiving Ertapenem as Treatment Regimen Laboratory adverse experiences that were reported during therapy in ≥2% of adult patients treated with ertapenem in clinical trials are presented in Table 6.
+Drug-related laboratory adverse experiences that were reported during therapy in ≥2% of adult patients treated with ertapenem, including those who were switched to therapy with an oral antimicrobial, in clinical trials were ALT increased (6%), AST increased (5.2%), serum alkaline phosphatase increased (3.4%), and platelet count increased (2.8%).
 Ertapenem was discontinued due to laboratory adverse experiences in 0.3% of patients.
 
 Table 6
 
-| Incidence* (%) of Laboratory Adverse Experiences Reported During Study Therapy Plus 14-Day Follow-Up in ≥2.0% of Adult Patients Treated With Ertapenem in Clinical Trials |  |  |  |  |
+| Incidence* (%) of Laboratory Adverse Experiences Reported During Study Therapy Plus 14-Day Follow-Up in ≥2% of Adult Patients Treated With Ertapenem in Clinical Trials |  |  |  |  |
 | --- | --- | --- | --- | --- |
 | Adverse laboratory experiences | Ertapenem‡ 1 g daily (n† = 766) | Piperacillin/ Tazobactam‡ 3.375 g q6h (n† = 755) | Ertapenem§ 1 g daily (n† = 1122) | Ceftriaxone§ 1 or 2 g daily (n† = 920) |
 | ALT increased | 8.8 | 7.3 | 8.3 | 6.9 |
 | AST increased | 8.4 | 8.3 | 7.1 | 6.5 |
 | Serum alkaline phosphatase increased | 6.6 | 7.2 | 4.3 | 2.8 |
 | Eosinophils increased | 1.1 | 1.1 | 2.1 | 1.8 |
-| Hematocrit decreased | 3.0 | 2.9 | 3.4 | 2.4 |
+| Hematocrit decreased | 3 | 2.9 | 3.4 | 2.4 |
 | Hemoglobin decreased | 4.9 | 4.7 | 4.5 | 3.5 |
 | Platelet count increased | 6.5 | 6.3 | 4.3 | 3.5 |
-| Urine RBCs increased | 2.5 | 2.9 | 1.1 | 1.0 |
+| Urine RBCs increased | 2.5 | 2.9 | 1.1 | 1 |
 | Urine WBCs increased | 2.5 | 3.2 | 1.6 | 1.1 |
 | * Number of patients with laboratory adverse experiences/Number of patients with the laboratory test † Number of patients with one or more laboratory tests ‡ Includes Phase IIb/III Complicated intra-abdominal infections, Complicated skin and skin structure infections and Acute pelvic infections trials § Includes Phase IIb/III Community acquired pneumonia and Complicated urinary tract infections, and Phase IIa trials |  |  |  |  |
 
 Additional laboratory adverse experiences that were reported during therapy in >0.1% of patients treated with ertapenem in clinical trials include: increases in serum creatinine, serum glucose, BUN, total, direct and indirect serum bilirubin, serum sodium and potassium, PT and PTT; decreases in serum potassium, serum albumin, WBC, platelet count, and segmented neutrophils.
 In a clinical trial for the treatment of diabetic foot infections in which 289 adult diabetic patients were treated with ertapenem, the laboratory adverse experience profile was generally similar to that seen in previous clinical trials.
 Prophylaxis of Surgical Site Infection following Elective Colorectal Surgery In a clinical trial in adults for the prophylaxis of surgical site infection following elective colorectal surgery in which 476 patients received a 1 g dose of ertapenem 1 hour prior to surgery and were then followed for safety 14 days post surgery, the overall laboratory adverse experience profile was generally comparable to that observed for ertapenem in previous clinical trials.
-Pediatric Patients Receiving Ertapenem as a Treatment Regimen Laboratory adverse experiences that were reported during therapy in ≥2.0% of pediatric patients treated with ertapenem in clinical trials are presented in Table 7.
-Drug-related laboratory adverse experiences that were reported during therapy in ≥2.0% of pediatric patients treated with ertapenem, including those who were switched to therapy with an oral antimicrobial, in clinical trials were neutrophil count decreased (3.0%), ALT increased (2.2%), and AST increased (2.1%).
+Pediatric Patients Receiving Ertapenem as a Treatment Regimen Laboratory adverse experiences that were reported during therapy in ≥2% of pediatric patients treated with ertapenem in clinical trials are presented in Table 7.
+Drug-related laboratory adverse experiences that were reported during therapy in ≥2% of pediatric patients treated with ertapenem, including those who were switched to therapy with an oral antimicrobial, in clinical trials were neutrophil count decreased (3%), ALT increased (2.2%), and AST increased (2.1%).
 
 Table 7
 
-| Incidence* (%) of Specific Laboratory Adverse Experiences Reported During Study Therapy Plus 14-Day Follow-Up in ≥2.0% of Pediatric Patients Treated With Ertapenem in Clinical Trials |  |  |  |
+| Incidence* (%) of Specific Laboratory Adverse Experiences Reported During Study Therapy Plus 14-Day Follow-Up in ≥2% of Pediatric Patients Treated With Ertapenem in Clinical Trials |  |  |  |
 | --- | --- | --- | --- |
 | Adverse laboratory experiences | Ertapenem (n† = 379) | Ceftriaxone (n† = 97) | Ticarcillin/ Clavulanate (n† = 24) |
 | ALT Increased | 3.8 | 1.1 | 4.3 |
 | AST Increased | 3.8 | 1.1 | 4.3 |
-| Neutrophil Count Decreased | 5.8 | 3.1 | 0.0 |
+| Neutrophil Count Decreased | 5.8 | 3.1 | 0 |
 | * Number of patients with laboratory adverse experiences/Number of patients with the laboratory test; where at least 300 patients had the test † Number of patients with one or more laboratory tests |  |  |  |
 
 Additional laboratory adverse experiences that were reported during therapy in >0.5% of patients treated with ertapenem in clinical trials include: alkaline phosphatase increased, eosinophil count increased, platelet count increased, white blood cell count decreased and urine protein present.

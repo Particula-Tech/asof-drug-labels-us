@@ -9,5 +9,5 @@ Ertapenem sodium is a white to off-white hygroscopic powder.
 It is soluble in water and 0.9% sodium chloride solution, practically insoluble in ethanol, and insoluble in isopropyl acetate and tetrahydrofuran.
 Ertapenem for injection is supplied as sterile, white to off white lyophilized cake or powder for intravenous infusion after reconstitution with appropriate diluent [see Dosage and Administration (2.7)] and transfer to 50 mL 0.9% Sodium Chloride Injection or for intramuscular injection following reconstitution with 1% lidocaine hydrochloride.
 Each vial contains 1.046 grams ertapenem sodium, equivalent to 1 gram ertapenem.
-The sodium content is approximately 137 mg (approximately 6.0 mEq).
+The sodium content is approximately 137 mg (approximately 6 mEq).
 Each vial of ertapenem for injection contains the following inactive ingredients: 175 mg sodium bicarbonate and sodium hydroxide to adjust pH to 7.5.

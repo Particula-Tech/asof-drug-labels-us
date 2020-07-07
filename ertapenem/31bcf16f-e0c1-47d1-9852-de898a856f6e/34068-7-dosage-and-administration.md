@@ -74,7 +74,7 @@ ERTAPENEM FOR INJECTION MUST BE RECONSTITUTED AND THEN DILUTED PRIOR TO ADMINIST
 
 Preparation for intramuscular administration: ERTAPENEM FOR INJECTION MUST BE RECONSTITUTED PRIOR TO ADMINISTRATION.
 
-1. Reconstitute the contents of a 1 g vial of ertapenem for injection with 3.2 mL of 1.0% lidocaine HCl injection2 (without epinephrine).
+1. Reconstitute the contents of a 1 g vial of ertapenem for injection with 3.2 mL of 1% lidocaine HCl injection2 (without epinephrine).
    Shake vial thoroughly to form solution.
    The resultant concentration is approximately 280 mg/mL.
 2. Immediately withdraw the contents of the vial and administer by deep intramuscular injection into a large muscle mass (such as the gluteal muscles or lateral part of the thigh).
@@ -97,7 +97,7 @@ ERTAPENEM FOR INJECTION MUST BE RECONSTITUTED AND THEN DILUTED PRIOR TO ADMINIST
 
 Preparation for intramuscular administration: ERTAPENEM FOR INJECTION MUST BE RECONSTITUTED PRIOR TO ADMINISTRATION.
 
-1. Reconstitute the contents of a 1 g vial of ertapenem for injection with 3.2 mL of 1.0% lidocaine HCl injection (without epinephrine).
+1. Reconstitute the contents of a 1 g vial of ertapenem for injection with 3.2 mL of 1% lidocaine HCl injection (without epinephrine).
    Shake vial thoroughly to form solution.
    The resultant concentration is approximately 280 mg/mL.
 2. Immediately withdraw a volume equal to 15 mg/kg of body weight (not to exceed 1 g/day) and administer by deep intramuscular injection into a large muscle mass (such as the gluteal muscles or lateral part of the thigh).
