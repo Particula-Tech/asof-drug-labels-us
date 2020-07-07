@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA209388"
+  ],
+  "inn": "metoclopramide",
+  "labeler": "Evoke Pharma, Inc.",
+  "package_ndcs": [
+    "72089-307-15"
+  ],
+  "products": [
+    {
+      "form": "SPRAY",
+      "generic": "metoclopramide hydrochloride",
+      "name": "GIMOTI"
+    }
+  ],
+  "setid": "95269b1f-779c-4ca0-9f86-e74e677f9900",
+  "source": "dailymed"
+}
