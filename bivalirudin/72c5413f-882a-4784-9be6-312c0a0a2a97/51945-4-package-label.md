@@ -1,14 +1,16 @@
-# Principal Display Panel
+# PACKAGE/LABEL PRINCIPAL DISPLAY PANEL
 
 NDC 70511-141-50
 
-​ANGIOMAX RTU
+ANGIOMAX RTU
 
 (bivalirudin)
 
-​Injection
+Injection
 
-​250 mg/50 mL (5 mg/mL)
+250 mg/50mL
+
+(5 mg/mL)
 
 Rx Only
 
@@ -18,26 +20,16 @@ Do Not Dilute
 
 Single-Dose Vial
 
-SANDOZ
+NDC 70511-141-84
 
-​NDC​ 70511-141-84
+ANGIOMAX RTU
 
-​ANGIOMAX RTU
+(bivalirudin)
 
-​(bivalirudin)
+Injection
 
-​Injection
+250 mg/50 mL (5 mg/mL)
 
-​250 mg/50 mL (5 mg/mL)
+Rx only For Intravenous Use Only Do Not Dilute 10 Single-Dose Vials
 
-Rx Only
-
-For Intravenous Use Only
-
-Do Not Dilute
-
-10 Single-Dose Vials
-
-Discard unused portion
-
-​SANDOZ
+Discard unused portion.

@@ -20,10 +20,12 @@ Table 2: Incidences of In-hospital Endpoints in BAT Trial
 
 | Endpoint | Bivalirudin (n=2161) | HEPARIN (n=2151) |
 | --- | --- | --- |
-| Primary endpointA composite of death or MI or clinical deterioration of cardiac origin requiring revascularization or placement of an aortic balloon pump or angiographic evidence of abrupt vessel closure | 7.9% | 9.3% |
+| Primary endpoint† | 7.9% | 9.3% |
 | Death, MI, revascularization | 6.2% | 7.9% |
 | Death | 0.2% | 0.2% |
 | MI | 3.3% | 4.2% |
+
+† A composite of death or MI or clinical deterioration of cardiac origin requiring revascularization or placement of an aortic balloon pump or angiographic evidence of abrupt vessel closure
 
 AT-BAT Trial (NCT# 00043940)
 

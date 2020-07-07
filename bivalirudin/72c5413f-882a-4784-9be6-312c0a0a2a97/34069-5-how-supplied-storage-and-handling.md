@@ -12,7 +12,7 @@ Each vial contains 250 mg of bivalirudin (equivalent to an average of 275 mg biv
 
 *The range of bivalirudin trifluoroacetate is 270 to 280 mg based on a range of trifluoroacetic acid composition of 1.7 to 2.6 equivalents.
 
-### 16.2 Storage
+## 16.2 Storage
 
 Store ANGIOMAX RTU vials in the refrigerator between 2° to 8°C (36°to 46°F).
 Excursions are permitted to 20° to 25°C (68 to 77°F) [see Dosage and Administration (2.3)].
