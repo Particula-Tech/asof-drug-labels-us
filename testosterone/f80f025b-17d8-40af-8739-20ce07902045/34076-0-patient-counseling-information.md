@@ -36,4 +36,4 @@ Distributed by: Endo Pharmaceuticals Inc. Malvern, PA 19355
 
 AVEED is a registered trademark of Endo Pharmaceuticals Inc. or one of its affiliates
 
-© 2020 Endo Pharmaceuticals Solutions Inc. All rights reserved.
+© 2020 Endo Pharmaceuticals Inc. All rights reserved.

@@ -178,4 +178,4 @@ AVEED is a registered trademark of Endo Pharmaceuticals Inc. or one of its affil
 
 © 2020 Endo Pharmaceuticals Inc. All rights reserved.
 
-Revised: 04/2020
+Revised: 06/2020
