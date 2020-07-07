@@ -1,0 +1,31 @@
+{
+  "application_numbers": [
+    "BLA761109"
+  ],
+  "inn": "insulin-lispro",
+  "labeler": "Eli Lilly and Company",
+  "package_ndcs": [
+    "0002-7726-01",
+    "0002-7726-05",
+    "0002-7728-01",
+    "0002-7728-99",
+    "0002-8207-01",
+    "0002-8207-05",
+    "0002-8207-61",
+    "0002-8228-01",
+    "0002-8228-27",
+    "0002-8235-01",
+    "0002-8235-05",
+    "0002-8351-01",
+    "0002-8351-05"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "insulin lispro-aabc",
+      "name": "LYUMJEV"
+    }
+  ],
+  "setid": "c5a056e2-b568-4ca6-9ed8-79c010942d00",
+  "source": "dailymed"
+}
