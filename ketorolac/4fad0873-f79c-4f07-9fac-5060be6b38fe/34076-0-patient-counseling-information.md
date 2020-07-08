@@ -18,7 +18,7 @@ Advise patients that ACULAR LS® solution should not be administered while weari
 
 Intercurrent Ocular Conditions
 
-Advise patients that if they develop an intercurrent ocular condition (e.g., trauma or infection) or have ocular surgery, they should immediately seek their physician's advice concerning the continued use of ACULAR LS®.
+Advise patients that if they develop an intercurrent ocular condition (e.g., trauma or infection) or have ocular surgery, they should immediately seek their physician’s advice concerning the continued use of ACULAR LS®.
 
 Concomitant Topical Ocular Therapy
 
@@ -26,7 +26,10 @@ Advise patients that if more than one topical ophthalmic medication is being use
 
 © 2016 Allergan.
 All rights reserved.
+
 Irvine, CA 92612, U.S.A. All trademarks are the property of their respective owners.
-Patented: See: www.allergan.com/products/patents Made in the U.S.A.
+Patented: See: www.allergan.com/products/patents
+
+Made in the U.S.A.
 
 71654US15

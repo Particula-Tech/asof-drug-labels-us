@@ -1,13 +1,13 @@
-# 8 USE IN SPECIFIC POPULATIONS
+# 8USE IN SPECIFIC POPULATIONS
 
-## 8.1 Pregnancy
+## 8.1Pregnancy
 
 Risk Summary
 
 There are no adequate or well-controlled studies with ACULAR LS® in pregnant women.
 No evidence of teratogenicity has been observed in rats or rabbits with ACULAR LS® at clinically relevant doses.
 
-## 8.2 Lactation
+## 8.2Lactation
 
 Risk Summary
 

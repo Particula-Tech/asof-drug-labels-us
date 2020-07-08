@@ -1,6 +1,6 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-## 2.1 Recommended Dosing
+## 2.1Recommended Dosing
 
 The recommended dose of ACULAR LS® ophthalmic solution is one drop four times a day in the operated eye as needed for pain and burning/stinging for up to 4 days following corneal refractive surgery.
 
