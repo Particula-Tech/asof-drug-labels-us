@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA208232"
+  ],
+  "inn": "octreotide",
+  "labeler": "Chiasma Inc.",
+  "package_ndcs": [
+    "69880-120-28"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE, DELAYED RELEASE",
+      "generic": "octreotide",
+      "name": "Mycapssa"
+    }
+  ],
+  "setid": "62a5e1eb-b48e-4ea6-8781-f75e490b17e4",
+  "source": "dailymed"
+}
