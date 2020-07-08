@@ -2,267 +2,365 @@
 
 Mirtazapine Tablets, USP (mir taz’ a peen)
 
-What is the most important information I should know about mirtazapine tablets, USP?
+What is the most important information I should know about mirtazapine tablets?
+Mirtazapine tablets may cause serious side effects, including:
 
-Mirtazapine tablets and other antidepressant medicines may cause serious side effects, including:
+• Increased risk of suicidal thoughts or actions in some children and young adults.
+Mirtazapine tablets, and other antidepressant medicines may increase suicidal thoughts or actions in some people24 years of age and younger, especially within the first few months of treatment or when the dose is changed. mirtazapine tablets are not for use in children.. mirtazapine tablets are not for use in children., especially within the first few months of treatment or when the dose is changed. mirtazapine tablets are not for use in children.. mirtazapine tablets are not for use in children.
 
-1.
-Suicidal thoughts or actions:
+o Depression or other serious mental illnesses are the most important causes of suicidal thoughts or actions.
 
-- Mirtazapine tablets and other antidepressant medicines may increase suicidal thoughts or actions in some children, teenagers, or young adults within the first few months of treatment or when the dose is changed.
-- Depression or other serious mental illnesses are the most important causes of suicidal thoughts or actions.
-- Watch for these changes and call your healthcare provider right away if you notice:
-  - New or sudden changes in mood, behavior, actions, thoughts, or feelings, especially if severe.
-  - Pay particular attention to such changes when mirtazapine tablets are started or when the dose is changed.
+How can I watch for and try to prevent suicidal thoughts and actions?
 
-Keep all follow-up visits with your healthcare provider and call between visits if you are worried about symptoms.
+o Pay close attention to any changes, especially sudden changes in mood, behavior, thoughts, or feelings, or if you develop suicidal thoughts or actions.
+This is very important when an antidepressant medicine is started or when the dose is changed.
 
-Call your healthcare provider right away if you have any of the following symptoms, or call 911 if an emergency, especially if they are new, worse, or worry you:
+o Call your healthcare provider right away to report new or sudden changes in mood, behavior, thoughts, or feelings., thoughts, or feelings.
 
-- attempts to commit suicide
-- acting on dangerous impulses
-- acting aggressive or violent
-- thoughts about suicide or dying
-- new or worse depression
-- new or worse anxiety or panic attacks
-- feeling agitated, restless, angry or irritable
-- trouble sleeping
-- an increase in activity or talking more than what is normal for you
-- other unusual changes in behavior or mood
+o Keep all follow-up visits with your healthcare provider as scheduled.
+Call your healthcare provider between visits as needed, especially if you have concerns about symptoms.
 
-Call your healthcare provider right away if you have any of the following symptoms, or call 911 if an emergency.
-Mirtazapine tablets may be associated with these serious side effects:
+Call your healthcare provider or get emergency medical help right away if you or your family member have any of the following symptoms, especially if they are new, worse, or worry you:, worse, or worry you:
 
-2.
-Manic episodes:
+• attempts to commit suicide
 
-- greatly increased energy
-- severe trouble sleeping
-- racing thoughts
-- reckless behavior
-- unusually grand ideas
-- excessive happiness or irritability
-- talking more or faster than usual
+• acting aggressive, being angry or violent
 
-3.
-Decreased White Blood Cells called neutrophils, which are needed to fight infections.
-Tell your doctor if you have any indication of infection such as fever, chills, sore throat, or mouth or nose sores, especially symptoms which are flu-like.
+• new or worse depression
 
-4.
-Serotonin Syndrome.
-This condition can be life-threatening and may include:
+• panic attacks
 
-- agitation, hallucinations, coma or other changes in mental status
-- coordination problems or muscle twitching (overactive reflexes)
-- racing heartbeat, high or low blood pressure
-- sweating or fever
-- nausea, vomiting, or diarrhea
-- muscle rigidity
+• new or worse irritability
 
-5.
-Visual problems
+• an extreme increase in activity or talking (mania)
 
-- eye pain
-- changes in vision
-- swelling or redness in or around the eye
+• acting on dangerous impulses
 
-Only some people are at risk for these problems.
-You may want to undergo an eye examination to see if you are at risk and receive preventative treatment if you are.
+• thoughts about suicide or dying
 
-6.
-Seizures
+• new or worse anxiety
 
-7.
-Low salt (sodium) levels in the blood.
-Elderly people may be at greater risk for this.
-Symptoms may include:
+• feeling very agitated or restless
 
-- headache
-- weakness or feeling unsteady
-- confusion, problems concentrating or thinking or memory problems
+• trouble sleeping
 
-8.
-Sleepiness.
-It is best to take mirtazapine tablets close to bedtime.
+What are mirtazapine tablets?
 
-9.
-Severe skin reactions: Call your doctor right away if you have any or all of the following symptoms:
+Mirtazapine tablets are prescription medicines used to treat a certain type of depression called Major Depressive Disorder (MDD) in adults.
 
-- severe rash with skin swelling (including on the palms of the hands and soles of the feet)
-- painful reddening of the skin, blisters, or ulcers on the body or in the mouth
-
-10.
-Severe allergic reactions: trouble breathing, swelling of the face, tongue, eyes or mouth
-
-- rash, itchy welts (hives) or blisters, alone or with fever or joint pain
-
-11.
-Increases in appetite or weight.
-Children and adolescents should have height and weight monitored during treatment.
-
-12.
-Increased cholesterol and triglyceride levels in your blood
-
-Do not stop mirtazapine tablets without first talking to your healthcare provider.
-Stopping mirtazapine tablets too quickly may cause potentially serious symptoms including:
-
-- dizziness
-- abnormal dreams
-- agitation
-- anxiety
-- fatigue
-- confusion
-- headache
-- shaking
-- tingling sensation
-- nausea, vomiting
-- sweating
-
-What are Mirtazapine Tablets?
-
-Mirtazapine tablets are a prescription medicine used to treat depression.
-It is important to talk with your healthcare provider about the risks of treating depression and also the risks of not treating it.
-You should discuss all treatment choices with your healthcare provider.
-
-Talk to your healthcare provider if you do not think that your condition is getting better with mirtazapine tablets treatment.
+It is not known if mirtazapine tablets are safe and effective for use to treat MDD in children.
 
 Who should not take mirtazapine tablets?
+Do not take mirtazapine tablets if you:
 
-Do not take mirtazapine tablets:
+• take a Monoamine Oxidase Inhibitor (MAOI)
 
-- if you are allergic to mirtazapine or any of the ingredients in mirtazapine tablets.
-  See the end of this Medication Guide for a complete list of ingredients in mirtazapine tablets.
-- if you take a monoamine oxidase inhibitor (MAOI).
-  Ask your healthcare provider or pharmacist if you are not sure if you take an MAOI, including the antibiotic linezolid.
-- Do not take an MAOI within 2 weeks of stopping mirtazapine tablets unless directed to do so by your healthcare provider.
-- Do not start mirtazapine tablets if you stopped taking an MAOI in the last 2 weeks unless directed to do so by your healthcare provider.
+• have stopped taking an MAOI in the last 14 days
 
-People who take mirtazapine tablets close in time to an MAOI may have serious or even life-threatening side effects.
-Get medical help right away if you have any of these symptoms:
+• are being treated with the antibiotic linezolid or intravenous methylene blue
 
-- high fever
-- uncontrolled muscle spasms
-- stiff muscles
-- rapid changes in heart rate or blood pressure
-- confusion
-- loss of consciousness (pass out)
+• if you are allergic to mirtazapine or any of the ingredients in mirtazapine tablets.
+See the end of thisMedication Guide for a complete list of ingredients in mirtazapine tablets
 
-What should I tell my healthcare provider before taking mirtazapine tablets?
+Ask your healthcare provider or pharmacist if you are not sure if you take an MAOI, including the antibiotic linezolid or intravenous methylene blue.
 
-Before you take mirtazapine tablets, tell your healthcare provider about all of your medical conditions, including if you:
+Do not start taking an MAOI for at least 14 days after you stop treatment with mirtazapine tablets.
+Before taking mirtazapine tablets, tell your healthcare provider about all your medical conditions, including if you:
 
-- are taking certain drugs such as:
-  - Triptans used to treat migraine headache
-  - Medicines used to treat mood, anxiety, psychotic or thought disorders, including tricyclics, lithium, SSRIs, SNRIs, or antipsychotics
-  - Tramadol used to treat pain
-  - Over-the-counter supplements such as tryptophan or St. John’s wort
-  - Phenytoin, carbamazepine, or rifampicin (these drugs can decrease your blood level of mirtazapine tablets)
-  - Cimetidine or ketoconazole (these drugs can increase your blood level of mirtazapine tablets)
-  - Medicines that may affect your hearts rhythm (such as certain antibiotics and some antipsychotics)
-- have or had:
-  - liver problems
-  - kidney problems
-  - heart problems or certain conditions that may change your heart rhythm
-  - seizures or convulsions
-  - bipolar disorder or mania
-  - a tendency to get dizzy or faint
-- are pregnant or plan to become pregnant.
-  It is not known if mirtazapine tablets will harm your unborn baby.
-  Talk to your healthcare provider about the benefits and risks of treating depression during pregnancy
-- are breastfeeding or plan to breastfeed.
-  Some mirtazapine may pass into your breast milk.
-  Talk to your healthcare provider about the best way to feed your baby while taking mirtazapine tablets
+• have a history of suicide or depression
 
-Tell your healthcare provider about all the medicines that you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements.
-Mirtazapine tablets and some medicines may interact with each other, may not work as well, or may cause serious side effects.
+• have a history or family history of bipolar disorder, mania or hypomania, mania or hypomania
 
-Your healthcare provider or pharmacist can tell you if it is safe to take mirtazapine tablets with your other medicines.
-Do not start or stop any medicine while taking mirtazapine tablets without talking to your healthcare provider first.
-If you take mirtazapine tablets, you should not take any other medicines that contain mirtazapine including mirtazapine tablets SolTab.
+• have a low white blood cell count
+
+• have glaucoma (high pressure in the eye)
+
+• have or had heart problems or stroke
+
+• have an abnormal heart beat called QT prolongation or a family history of QT prolongation
+
+• have seizures
+
+• have high cholesterol or triglyceride levels
+
+• have low sodium levels in your blood
+
+• have or had kidney or liver problems
+
+• have low blood pressure
+
+• are pregnant or plan to become pregnant.
+It is not known if mirtazapine tablets will harm your unborn baby.
+
+• Talk to your healthcare provider if you become pregnant or think you may be pregnant during treatment with mirtazapine tablets.
+
+• If you become pregnant while taking mirtazapine tablets, talk to your healthcare provider about registering with the National Pregnancy Registry for Antidepressants.
+You can register by calling 1-844-405-6185 or visiting online at http://womensmentalhealth.org/clinical-and-research-programs/pregnancyregistry/antidepressants/.
+The purpose of this registry is to monitor the pregnancy outcomes in women who have been treated with mirtazapine tablets at any time during pregnancy.
+
+• are breastfeeding or plan to breastfeed.
+Mirtazapine tablets may pass into your breast milk.
+Talk to your healthcare provider about the best way to feed your baby during treatment with mirtazapine tablets.
+
+Tell your healthcare provider about all the medicines you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements.
+
+Mirtazapine tablets and other medicines may affect each other causing possible serious side effects.
+
+Mirtazapine tablets may affect the way other medicines work and other medicines may affect the way mirtazapine tablets work.
+
+Especially tell your healthcare provider if you take:
+
+• MAOIs
+
+• medicines to treat migraine headaches known as triptans
+
+• tricyclic antidepressants
+
+• fentanyl
+
+• lithium
+
+• tramadol
+
+• tryptophan
+
+• buspirone
+
+• amphetamines
+
+• benzodiazepines
+
+• St. John’s Wort
+
+• medicines used to treat mood, anxiety, psychotic or thought disorders, including selective serotonin reuptake inhibitors (SSRIs) and serotonin norepinephrine reuptake inhibitors (SNRIs), psychotic or thought disorders, including selective serotonin reuptake inhibitors (SSRIs) and serotonin norepinephrine reuptake inhibitors (SNRIs)
+
+• medicines that may affect your heart rhythm (such as certain antibiotics and some antipsychotics)
+
+Ask your healthcare provider if you are not sure if you are taking any of these medicines.
+Your healthcare provider can tell you if it is safe to take mirtazapine tablets with your other medicines.
+
+Do not start or stop any other medicines during treatment with mirtazapine tablets without talking to your healthcare provider first.
+Stopping mirtazapine tablets suddenly may cause you to have serious side effects.
+
+"What are the possible side effects of mirtazapine tablets?"
+
+Know the medicines you take.
+Keep a list of them to show to your healthcare provider and pharmacist when you get a new medicine.
 
 How should I take mirtazapine tablets?
 
-- Take mirtazapine tablets exactly as prescribed.
-  Your healthcare provider may need to change the dose of mirtazapine tablets until it is the right dose for you.
-- Take mirtazapine tablets at the same time each day, preferably in the evening at bedtime.
-- Swallow mirtazapine tablets as directed.
-- It is common for antidepressant medicines such as mirtazapine tablets to take up to a few weeks before you start to feel better.
-  Do not stop taking mirtazapine tablets if you do not feel results right away.
-- Do not stop taking or change the dose of mirtazapine tablets without first talking to your doctor, even if you feel better.
-- Mirtazapine tablets may be taken with or without food.
-- If you miss a dose of mirtazapine tablets, take the missed dose as soon as you remember.
-  If it is almost time for the next dose, skip the missed dose and take your next dose at the regular time.
-  Do not take two doses of mirtazapine tablets at the same time.
-- If you take too much mirtazapine tablets, call your healthcare provider or poison control center right away, or get emergency treatment.
-  The signs of an overdose of mirtazapine tablets (without other medicines or alcohol) include:
-  - confusion,
-  - drowsiness
-  - memory problems
-  - increased heart rate.
+• Take mirtazapine tablets exactly as your healthcare provider tells you to.
+Do not change your dose or stop taking mirtazapine tablets without first talking to your healthcare provider..
 
-The symptoms of a possible overdose may include changes to your heart rhythm (fast, irregular heartbeat) or fainting, which could be symptoms of a life-threatening condition known as Torsades de Pointes.
+• Your healthcare provider may need to change the dose of mirtazapine tablets until it is the right dose for you
+
+• If you take too much mirtazapine tablets call your healthcare provider or poison control center at 1­800-222-1222 right away or go to the nearest hospital emergency room.
+
+• Take mirtazapine tablets 1 time each day, preferably in the evening at bedtime
 
 What should I avoid while taking mirtazapine tablets?
 
-- Mirtazapine tablets can cause sleepiness or may affect your ability to make decisions, think clearly, or react quickly.
-  You should not drive, operate heavy machinery, or do other dangerous activities until you know how mirtazapine tablets affect you.
-- Avoid drinking alcohol or taking diazepam (a medicine used for anxiety, insomnia and seizures, for example) or similar medicines while taking mirtazapine tablets.
-  If you are uncertain about whether certain medication can be taken with mirtazapine tablets, please discuss with your doctor.
+• Do not drive, operate heavy machinery, or do other dangerous activities until you know how mirtazapine tablets affects you., or do other dangerous activities until you know how mirtazapine tablets affects you.
+Mirtazapine tablets can cause sleepiness or may affect your ability to make decisions, think clearly, or react quickly., think clearly, or react quickly.
+
+• Avoid drinking alcohol during treatment with mirtazapine tablets.
+
+• Avoid taking medicines used to treat anxiety, insomnia, and seizures, called benzodiazepines, during treatment with mirtazapine tablets.
+Ask your healthcare provider if you are not sure if you take one of these medicines.
 
 What are the possible side effects of mirtazapine tablets?
 
-Mirtazapine tablets may cause serious side effects:
+Mirtazapine tablets may cause serious side effects, including:
 
-- See "What is the most important information I should know about mirtazapine tablets?"
+• See, "What is the most important information I should know about mirtazapine?"
+
+• Low white blood cell count.
+Tell your healthcare provider right away if you develop any signs or symptoms of a low white blood cell count, including:
+
+ο Fever
+
+ο Sore Throat
+
+ο Flu-like symptoms
+
+ο chills
+
+ο mouth and nose sores
+
+ο infections
+
+• Serotonin syndrome.
+A potentially lifeA potentially life-threatening problem called serotonin syndrome can happen when you takemirtazapine tablets with certain other medicines.
+See, "Who should not take mirtazapine tablets?"
+Stop taking mirtazapine tablets and call your healthcare provider or go to the nearest hospital emergency room right away if you have any of the following signs and symptoms of serotonin syndrome:
+
+ο Agitation
+
+ο Confusion
+
+ο Fast heart beat
+
+ο Dizziness
+
+ο Flushing
+
+ο tremors, stiff muscles, or muscle twitching
+
+ο Seizures
+
+ο seeing or hearing things that are not real (hallucinations)
+
+ο coma
+
+ο blood pressure changes
+
+ο sweating
+
+ο high body temperature (hyperthermia)
+
+ο loss of coordination nausea,
+
+ο vomiting, diarrhea
+
+• Eye problems (angle-closure glaucoma).
+Mirtazapine tablets may cause a certain type of eye problem called angle-closure glaucoma.
+Call your healthcare provider if you have eye pain, changes in your vision, or swelling or redness in or around the eye.
+Only some people are at risk for these problems.You may want to undergo an eye examination to see if you are at risk and receive preventative treatment if you are.
+
+• Heart rhythm problems.
+
+• Increased appetite and weight gain.
+
+• Sleepiness.
+See,"What should I avoid while taking mirtazapine tablets?"
+
+• Mania or hypomania (manic episodes) in people who have a history of bipolar disorder.
+Symptoms may include:
+
+ο greatly increased energy
+
+ο racing thoughts
+
+ο unusually grand ideas
+
+ο talking more or faster than usual
+
+ο severe trouble sleeping
+
+ο reckless behavior
+
+ο excessive happiness or irritability
+
+• Seizures (convulsions).
+
+• Increased fat levels (cholesterol and triglycerides) in your blood..
+
+• Low sodium levels in your blood (hyponatremia).
+Low sodium levels in your blood may be serious and may cause death.
+Elderly people may be at greater risk for this.Signs and Symptoms of low sodium levels in your blood may include:
+
+ο headache
+
+ο memory changes
+
+ο weakness and unsteadiness on your feet which can lead to falls
+
+ο difficulty concentrating
+
+ο confusion
+
+In severe or more sudden cases, signs and symptoms include:
+
+ο hallucinations (seeing or hearing things that are not real)
+
+ο seizures
+
+ο respiratory arrest
+
+ο fainting
+
+ο coma
+
+ο death
+
+• Changes in liver function tests.
+
+• Discontinuation syndrome.
+Suddenly stopping mirtazapine tablets may cause you to have serious side effects.
+Your healthcare provider may want to decrease your dose slowly.
+Symptoms may include:
+
+ο dizziness
+
+ο irritability and agitation
+
+ο anxiety
+
+ο sweating
+
+ο seizures
+
+ο ringing in your ears (tinnitus)
+
+ο nausea and vomiting
+
+ο problems sleeping
+
+ο tiredness
+
+ο confusion
+
+ο electric shock sensation(paresthesia)
+
+ο shaking (tremor)
+
+ο headache
+
+ο abnormal dreams
+
+ο changes in your mood
+
+ο hypomania
 
 The most common side effects of mirtazapine tablets include:
 
-- sleepiness
-- increased appetite
-- weight gain
-- abnormal dreams
-- constipation
-- dizziness
-- dry mouth
+• sleepiness
 
-These are not all the possible side effects of mirtazepine tablets.
+• increased appetite
+
+• weight gain
+
+• dizziness
+
+These are not all the possible side effects of mirtazapine tablets.
 
 Call your doctor for medical advice about side effects.
-You may report side effects to the FDA at 1-800-FDA-1088.
+You may report side effects to FDA at 1-800-FDA-1088.
 
-How should I store mirtazapine tablets, USP?
+How should I store mirtazapine tablets?
 
-- Store mirtazapine tablets at room temperature between 68°F to 77°F (20°C to 25°C).
-- Keep mirtazapine tablets away from light.
-- Keep mirtazapine tablets bottle closed tightly.
+• Store mirtazapine tablets at room temperature between 68°F to 77°F (20°C to 25°C).
 
-Keep mirtazapine tablets, USP and all medicines out of the reach of children.
+• Keep mirtazapine ablets away from light and moisture.
 
-General information about the safe and effective use of mirtazapine tablets, USP.
+Keep mirtazapine tablets, and all medicines out of the reach of children.
+General information about the safe and effective use of mirtazapine tablets.
 
 Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide.
-Do not use mirtazapine tablets for a condition for which it was not prescribed.
+Do not usemirtazapine tablets for a condition for which it was not prescribed.
 Do not give mirtazapine tablets to other people, even if they have the same symptoms that you have.
 It may harm them.
+You can ask your healthcare provider or pharmacist for information about mirtazapine tablets that is written for healthcare professionals.
 
-You can ask your pharmacist or healthcare provider for information about mirtazapine tablets that is written for healthcare professionals.
+What are the ingredients in mirtazapine tablets?
 
-What are the ingredients in mirtazapine tablets, USP?
+Active ingredient: mirtazapine
 
-Active ingredient: mirtazapine.
-
-Inactive ingredients:
-
-- 15mg tablets: Croscarmellose sodium, hydroxypropyl cellulose, hypromellose, lactose monohydrate, magnesium stearate, microcrystalline cellulose, polyethylene glycol, titanium dioxide and iron oxide yellow.
-- 30mg tablets: Croscarmellose sodium, hydroxypropyl cellulose, hypromellose, lactose monohydrate, magnesium stearate, microcrystalline cellulose, polyethylene glycol, titanium dioxide, iron oxide yellow and iron oxide red.
-- 45mg tablets: Croscarmellose sodium, hydroxypropyl cellulose, hypromellose, lactose monohydrate, magnesium stearate, microcrystalline cellulose, polyethylene glycol and titanium dioxide.
-
-For more information about mirtazapine tablets call 1-800-706-5575.
-
-This Medication Guide has been approved by the U.S. Food and Drug Administration.
+Inactive ingredients: Colloidal silicon dioxide anhydrous, corn starch, ferric oxide (yellow), hydroxypropyl cellulose, hypromellose, polyethylene glycol 8000, lactose monohydrate, magnesium stearate, and titanium dioxide.
+The 30 mg tablets also contain ferric oxide (red).
 
 APOTEX INC. MIRTAZAPINE TABLETS, USP 15 mg, 30 mg and 45 mg
 
 Manufactured by Manufactured for Apotex Inc. Apotex Corp. Toronto, Ontario Weston, Florida Canada M9L 1T9 33326
 
-Revised: September 2019
+Revised: May 2020
