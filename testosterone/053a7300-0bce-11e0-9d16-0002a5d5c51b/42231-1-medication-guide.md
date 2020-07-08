@@ -177,4 +177,4 @@ For more information about FORTESTA, go to www.fortestagel.com or call 1-800-462
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Issued: 04/2020
+Issued: 06/2020
