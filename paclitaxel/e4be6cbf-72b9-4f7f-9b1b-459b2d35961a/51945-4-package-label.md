@@ -1,5 +1,23 @@
 # PRINCIPAL DISPLAY PANEL
 
+NDC 0703-3213-01 Rx only
+
+Semi-Synthetic Source Paclitaxel Injection USP
+
+30 mg (6 mg/mL)
+
+5 mL Multidose Vial
+
+CAUTION: Dilution required prior to IV use.
+
+Read package insert.
+
+PHARMACIST: PLEASE DISPENSE WITH ATTACHED PATIENT INFORMATION LEAFLET
+
+TEVA
+
+# PRINCIPAL DISPLAY PANEL
+
 NDC 0703-3216-01 Rx only
 
 Semi-Synthetic Source Paclitaxel Injection USP
