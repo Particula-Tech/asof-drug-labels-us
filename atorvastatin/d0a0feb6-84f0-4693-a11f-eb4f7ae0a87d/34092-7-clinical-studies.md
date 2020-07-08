@@ -199,7 +199,11 @@ Lipid-altering Effects of Atorvastatin Calcium Tablets in Adolescent Boys and Gi
 
 The mean achieved LDL-C value was 130.7 mg/dL (range: 70.0-242.0 mg/dL) in the atorvastatin calcium tablets group compared to 228.5 mg/dL (range: 152.0-385.0 mg/dL) in the placebo group during the 26-week double-blind phase.
 
-The long-term efficacy of atorvastatin calcium tablet therapy in childhood to reduce morbidity and mortality in adulthood has not been established.
+Atorvastatin was also studied in a 3-year open-label, uncontrolled trial that included 163 patients with HeFH who were 10 years to 15 years old (82 boys and 81 girls).
+All patients had a clinical diagnosis of HeFH confirmed by genetic analysis (if not already confirmed by family history).
+Approximately 98% were Caucasian, and less than 1% were Black or Asian.
+Mean LDL-C at baseline was 232 mg/dL.
+The starting atorvastatin dosage was 10 mg once daily and doses were adjusted to achieve a target of < 130 mg/dL LDL-C.
+The reductions in LDL-C from baseline were generally consistent across age groups within the trial as well as with previous clinical studies in both adult and pediatric placebo-controlled trials.
 
-Additional pediatric use information is approved for Pfizer’s LIPITOR (atorvastatin calcium) tablets.
-However, due to Pfizer’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
+The long-term efficacy of atorvastatin calcium tablet therapy in childhood to reduce morbidity and mortality in adulthood has not been established.

@@ -178,6 +178,6 @@ Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
 Manufactured by: Mylan Laboratories Limited Hyderabad — 500 096, India
 
-75074582
+75076260
 
-Revised: 2/2020 MX:ATOR:R13ppt/MX:PL:ATOR:R10p/MX:PL:ATOR:R10pt
+Revised: 6/2020 MX:ATOR:R14ppt/MX:PL:ATOR:R10p/MX:PL:ATOR:R10pt
