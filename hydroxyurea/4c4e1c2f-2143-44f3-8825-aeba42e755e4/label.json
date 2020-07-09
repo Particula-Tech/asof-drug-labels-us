@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA213438"
+  ],
+  "inn": "hydroxyurea",
+  "labeler": "Leading Pharma, LLC",
+  "package_ndcs": [
+    "69315-164-01"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "hydroxyurea",
+      "name": "HYDROXYUREA"
+    }
+  ],
+  "setid": "4c4e1c2f-2143-44f3-8825-aeba42e755e4",
+  "source": "dailymed"
+}
