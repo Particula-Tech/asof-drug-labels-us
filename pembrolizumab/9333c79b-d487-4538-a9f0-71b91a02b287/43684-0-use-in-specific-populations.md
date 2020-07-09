@@ -43,7 +43,7 @@ Advise females of reproductive potential to use effective contraception during t
 ## 8.4 Pediatric Use
 
 The safety and effectiveness of KEYTRUDA have been established in pediatric patients with cHL, PMBCL, MSI-H cancer, and TMB-H cancer.
-Use of KEYTRUDA in pediatric patients with cHL, PMBCL, MSI-H cancer, and TMB-H cancer is supported by evidence from adequate and well-controlled studies of KEYTRUDA in adults with additional pharmacokinetic and safety data in pediatric patients [see Adverse Reactions (6.1), Clinical Studies (14.5, 14.6, 14.8, 14.16), Clinical Pharmacology (12.3)].
+Use of KEYTRUDA in pediatric patients with cHL, PMBCL, MSI-H cancer, and TMB-H cancer is supported by evidence from adequate and well-controlled studies of KEYTRUDA in adults with additional pharmacokinetic and safety data in pediatric patients [see Adverse Reactions (6.1), Clinical Studies (14.5, 14.6, 14.8, 14.17), Clinical Pharmacology (12.3)].
 
 There is limited experience with KEYTRUDA in pediatric patients.
 In a trial (NCT02332668), 40 pediatric patients (16 children ages 2 years to less than 12 years and 24 adolescents ages 12 years to 18 years) with various cancers, including unapproved usages, were administered KEYTRUDA 2 mg/kg every 3 weeks.

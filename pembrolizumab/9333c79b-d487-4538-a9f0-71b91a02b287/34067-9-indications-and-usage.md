@@ -62,7 +62,7 @@ KEYTRUDA is indicated for the treatment of patients with locally advanced or met
 
 KEYTRUDA is indicated for the treatment of patients with Bacillus Calmette-Guerin (BCG)-unresponsive, high-risk, non-muscle invasive bladder cancer (NMIBC) with carcinoma in situ (CIS) with or without papillary tumors who are ineligible for or have elected not to undergo cystectomy.
 
-## 1.8 Microsatellite Instability-High Cancer
+## 1.8 Microsatellite Instability-High or Mismatch Repair Deficient Cancer
 
 KEYTRUDA is indicated for the treatment of adult and pediatric patients with unresectable or metastatic, microsatellite instability-high (MSI-H) or mismatch repair deficient (dMMR)
 
@@ -74,64 +74,68 @@ Continued approval for this indication may be contingent upon verification and d
 
 Limitations of Use: The safety and effectiveness of KEYTRUDA in pediatric patients with MSI-H central nervous system cancers have not been established.
 
-## 1.9 Gastric Cancer
+## 1.9 Microsatellite Instability-High or Mismatch Repair Deficient Colorectal Cancer
+
+KEYTRUDA is indicated for the first-line treatment of patients with unresectable or metastatic MSI-H or dMMR colorectal cancer (CRC).
+
+## 1.10 Gastric Cancer
 
 KEYTRUDA is indicated for the treatment of patients with recurrent locally advanced or metastatic gastric or gastroesophageal junction adenocarcinoma whose tumors express PD-L1 (CPS ≥1) as determined by an FDA-approved test [see Dosage and Administration (2.1)], with disease progression on or after 2 or more prior lines of therapy including fluoropyrimidine- and platinum-containing chemotherapy and if appropriate, HER2/neu-targeted therapy.
 
-This indication is approved under accelerated approval based on tumor response rate and durability of response [see Clinical Studies (14.9)].
+This indication is approved under accelerated approval based on tumor response rate and durability of response [see Clinical Studies (14.10)].
 Continued approval for this indication may be contingent upon verification and description of clinical benefit in the confirmatory trials.
 
-## 1.10 Esophageal Cancer
+## 1.11 Esophageal Cancer
 
 KEYTRUDA is indicated for the treatment of patients with recurrent locally advanced or metastatic squamous cell carcinoma of the esophagus whose tumors express PD-L1 (CPS ≥10) as determined by an FDA-approved test [see Dosage and Administration (2.1)], with disease progression after one or more prior lines of systemic therapy.
 
-## 1.11 Cervical Cancer
+## 1.12 Cervical Cancer
 
 KEYTRUDA is indicated for the treatment of patients with recurrent or metastatic cervical cancer with disease progression on or after chemotherapy whose tumors express PD-L1 (CPS ≥1) as determined by an FDA-approved test [see Dosage and Administration (2.1)].
-
-This indication is approved under accelerated approval based on tumor response rate and durability of response [see Clinical Studies (14.11)].
-Continued approval for this indication may be contingent upon verification and description of clinical benefit in the confirmatory trials.
-
-## 1.12 Hepatocellular Carcinoma
-
-KEYTRUDA is indicated for the treatment of patients with hepatocellular carcinoma (HCC) who have been previously treated with sorafenib.
 
 This indication is approved under accelerated approval based on tumor response rate and durability of response [see Clinical Studies (14.12)].
 Continued approval for this indication may be contingent upon verification and description of clinical benefit in the confirmatory trials.
 
-## 1.13 Merkel Cell Carcinoma
+## 1.13 Hepatocellular Carcinoma
 
-KEYTRUDA is indicated for the treatment of adult and pediatric patients with recurrent locally advanced or metastatic Merkel cell carcinoma (MCC).
+KEYTRUDA is indicated for the treatment of patients with hepatocellular carcinoma (HCC) who have been previously treated with sorafenib.
 
 This indication is approved under accelerated approval based on tumor response rate and durability of response [see Clinical Studies (14.13)].
 Continued approval for this indication may be contingent upon verification and description of clinical benefit in the confirmatory trials.
 
-## 1.14 Renal Cell Carcinoma
+## 1.14 Merkel Cell Carcinoma
+
+KEYTRUDA is indicated for the treatment of adult and pediatric patients with recurrent locally advanced or metastatic Merkel cell carcinoma (MCC).
+
+This indication is approved under accelerated approval based on tumor response rate and durability of response [see Clinical Studies (14.14)].
+Continued approval for this indication may be contingent upon verification and description of clinical benefit in the confirmatory trials.
+
+## 1.15 Renal Cell Carcinoma
 
 KEYTRUDA, in combination with axitinib, is indicated for the first-line treatment of patients with advanced renal cell carcinoma (RCC).
 
-## 1.15 Endometrial Carcinoma
+## 1.16 Endometrial Carcinoma
 
 KEYTRUDA, in combination with lenvatinib, is indicated for the treatment of patients with advanced endometrial carcinoma that is not MSI-H or dMMR, who have disease progression following prior systemic therapy and are not candidates for curative surgery or radiation.
-
-This indication is approved under accelerated approval based on tumor response rate and durability of response [see Clinical Studies (14.15)].
-Continued approval for this indication may be contingent upon verification and description of clinical benefit in the confirmatory trials.
-
-## 1.16 Tumor Mutational Burden-High Cancer
-
-KEYTRUDA is indicated for the treatment of adult and pediatric patients with unresectable or metastatic tumor mutational burden-high (TMB-H) [≥10 mutations/megabase (mut/Mb)] solid tumors, as determined by an FDA-approved test [see Dosage and Administration (2.1)], that have progressed following prior treatment and who have no satisfactory alternative treatment options.
 
 This indication is approved under accelerated approval based on tumor response rate and durability of response [see Clinical Studies (14.16)].
 Continued approval for this indication may be contingent upon verification and description of clinical benefit in the confirmatory trials.
 
+## 1.17 Tumor Mutational Burden-High Cancer
+
+KEYTRUDA is indicated for the treatment of adult and pediatric patients with unresectable or metastatic tumor mutational burden-high (TMB-H) [≥10 mutations/megabase (mut/Mb)] solid tumors, as determined by an FDA-approved test [see Dosage and Administration (2.1)], that have progressed following prior treatment and who have no satisfactory alternative treatment options.
+
+This indication is approved under accelerated approval based on tumor response rate and durability of response [see Clinical Studies (14.17)].
+Continued approval for this indication may be contingent upon verification and description of clinical benefit in the confirmatory trials.
+
 Limitations of Use: The safety and effectiveness of KEYTRUDA in pediatric patients with TMB-H central nervous system cancers have not been established.
 
-## 1.17 Cutaneous Squamous Cell Carcinoma
+## 1.18 Cutaneous Squamous Cell Carcinoma
 
 KEYTRUDA is indicated for the treatment of patients with recurrent or metastatic cutaneous squamous cell carcinoma (cSCC) that is not curable by surgery or radiation.
 
-## 1.18 Adult Indications: Additional Dosing Regimen of 400 mg Every 6 Weeks
+## 1.19 Adult Indications: Additional Dosing Regimen of 400 mg Every 6 Weeks
 
-KEYTRUDA is indicated for use at an additional recommended dosage of 400 mg every 6 weeks for all approved adult indications [see Indications and Usage (1.1-1.17) and Dosage and Administration (2.2)].
-This indication is approved under accelerated approval based on pharmacokinetic data, the relationship of exposure to efficacy, and the relationship of exposure to safety [see Clinical Pharmacology (12.2) and Clinical Studies (14.18)].
+KEYTRUDA is indicated for use at an additional recommended dosage of 400 mg every 6 weeks for all approved adult indications [see Indications and Usage (1.1-1.18) and Dosage and Administration (2.2)].
+This indication is approved under accelerated approval based on pharmacokinetic data, the relationship of exposure to efficacy, and the relationship of exposure to safety [see Clinical Pharmacology (12.2) and Clinical Studies (14.19)].
 Continued approval for this dosing may be contingent upon verification and description of clinical benefit in the confirmatory trials.

@@ -20,7 +20,7 @@ In addition to the 2799 patients, certain subsections in the WARNINGS AND PRECAU
 Across all trials, KEYTRUDA was administered at doses of 2 mg/kg intravenously every 3 weeks, 10 mg/kg intravenously every 2 weeks, 10 mg/kg intravenously every 3 weeks, or 200 mg intravenously every 3 weeks.
 Among the 2799 patients, 41% were exposed for 6 months or more and 21% were exposed for 12 months or more.
 
-The data described in this section were obtained in ten randomized, controlled trials (KEYNOTE-002, KEYNOTE-006, KEYNOTE-010, KEYNOTE-042, KEYNOTE-045, KEYNOTE-048, KEYNOTE-189, KEYNOTE-407, KEYNOTE-181, and KEYNOTE-426) and twelve non-randomized, open-label trials (KEYNOTE-028, KEYNOTE-012, KEYNOTE-087, KEYNOTE-170, KEYNOTE-052, KEYNOTE-057, KEYNOTE-059, KEYNOTE-158, KEYNOTE-224, KEYNOTE-017, KEYNOTE-146, and KEYNOTE-629).
+The data described in this section were obtained in eleven randomized, controlled trials (KEYNOTE-002, KEYNOTE-006, KEYNOTE-010, KEYNOTE-042, KEYNOTE-045, KEYNOTE-177, KEYNOTE-048, KEYNOTE-189, KEYNOTE-407, KEYNOTE-181, and KEYNOTE-426) and twelve non-randomized, open-label trials (KEYNOTE-028, KEYNOTE-012, KEYNOTE-087, KEYNOTE-170, KEYNOTE-052, KEYNOTE-057, KEYNOTE-059, KEYNOTE-158, KEYNOTE-224, KEYNOTE-017, KEYNOTE-146, and KEYNOTE-629).
 The data described in this section also included a single randomized, double-blind, placebo-controlled trial (KEYNOTE-054) in which KEYTRUDA was administered for the adjuvant treatment of 509 patients with melanoma with involvement of lymph node(s) following complete surgical resection.
 In these trials, KEYTRUDA was administered at 2 mg/kg every 3 weeks, 200 mg every 3 weeks, or 10 mg/kg every 2 or 3 weeks.
 
@@ -801,21 +801,27 @@ Table 25: Laboratory Abnormalities Worsened from Baseline Occurring in ≥20% of
 | Anemia | 35 | 1.4 |
 | Lymphopenia | 29 | 1.6 |
 
+Microsatellite Instability-High or Mismatch Repair Deficient Colorectal Cancer
+
+Among the 153 patients with MSI-H or dMMR CRC enrolled in KEYNOTE-177 [see Clinical Studies (14.9)] treated with KEYTRUDA, the median duration of exposure to KEYTRUDA was 11.1 months (range: 1 day to 30.6 months).
+Patients with autoimmune disease or a medical condition that required immunosuppression were ineligible.
+Adverse reactions occurring in patients with MSI-H or dMMR CRC were similar to those occurring in 2799 patients with melanoma or NSCLC treated with KEYTRUDA as a single agent.
+
 Gastric Cancer
 
-Among the 259 patients with gastric cancer enrolled in KEYNOTE-059 [see Clinical Studies (14.9)], the median duration of exposure to KEYTRUDA was 2.1 months (range: 1 day to 21.4 months).
+Among the 259 patients with gastric cancer enrolled in KEYNOTE-059 [see Clinical Studies (14.10)], the median duration of exposure to KEYTRUDA was 2.1 months (range: 1 day to 21.4 months).
 Patients with autoimmune disease or a medical condition that required immunosuppression or with clinical evidence of ascites by physical exam were ineligible.
 Adverse reactions occurring in patients with gastric cancer were similar to those occurring in 2799 patients with melanoma or NSCLC treated with KEYTRUDA as a single agent.
 
 Esophageal Cancer
 
-Among the 314 patients with esophageal cancer enrolled in KEYNOTE-181 [see Clinical Studies (14.10)] treated with KEYTRUDA, the median duration of exposure to KEYTRUDA was 2.1 months (range: 1 day to 24.4 months).
+Among the 314 patients with esophageal cancer enrolled in KEYNOTE-181 [see Clinical Studies (14.11)] treated with KEYTRUDA, the median duration of exposure to KEYTRUDA was 2.1 months (range: 1 day to 24.4 months).
 Patients with autoimmune disease or a medical condition that required immunosuppression were ineligible.
 Adverse reactions occurring in patients with esophageal cancer were similar to those occurring in 2799 patients with melanoma or NSCLC treated with KEYTRUDA as a single agent.
 
 Cervical Cancer
 
-Among the 98 patients with cervical cancer enrolled in Cohort E of KEYNOTE-158 [see Clinical Studies (14.11)], the median duration of exposure to KEYTRUDA was 2.9 months (range: 1 day to 22.1 months).
+Among the 98 patients with cervical cancer enrolled in Cohort E of KEYNOTE-158 [see Clinical Studies (14.12)], the median duration of exposure to KEYTRUDA was 2.9 months (range: 1 day to 22.1 months).
 Patients with autoimmune disease or a medical condition that required immunosuppression were ineligible.
 
 KEYTRUDA was discontinued due to adverse reactions in 8% of patients.
@@ -880,20 +886,20 @@ Other laboratory abnormalities occurring in ≥10% of patients receiving KEYTRUD
 
 HCC
 
-Among the 104 patients with HCC who received KEYTRUDA in KEYNOTE-224 [see Clinical Studies (14.12)], the median duration of exposure to KEYTRUDA was 4.2 months (range: 1 day to 1.5 years).
+Among the 104 patients with HCC who received KEYTRUDA in KEYNOTE-224 [see Clinical Studies (14.13)], the median duration of exposure to KEYTRUDA was 4.2 months (range: 1 day to 1.5 years).
 Adverse reactions occurring in patients with HCC were generally similar to those in 2799 patients with melanoma or NSCLC treated with KEYTRUDA as a single agent, with the exception of increased incidences of ascites (8% Grades 3-4) and immune-mediated hepatitis (2.9%).
 Laboratory abnormalities (Grades 3-4) that occurred at a higher incidence were elevated AST (20%), ALT (9%), and hyperbilirubinemia (10%).
 
 MCC
 
-Among the 50 patients with MCC enrolled in KEYNOTE-017 [see Clinical Studies (14.13)], the median duration of exposure to KEYTRUDA was 6.6 months (range 1 day to 23.6 months).
+Among the 50 patients with MCC enrolled in KEYNOTE-017 [see Clinical Studies (14.14)], the median duration of exposure to KEYTRUDA was 6.6 months (range 1 day to 23.6 months).
 Patients with autoimmune disease or a medical condition that required immunosuppression were ineligible.
 Adverse reactions occurring in patients with MCC were similar to those occurring in 2799 patients with melanoma or NSCLC treated with KEYTRUDA as a single agent.
 Laboratory abnormalities (Grades 3-4) that occurred at a higher incidence were elevated AST (11%) and hyperglycemia (19%).
 
 RCC
 
-The safety of KEYTRUDA in combination with axitinib was investigated in KEYNOTE-426 [see Clinical Studies (14.14)].
+The safety of KEYTRUDA in combination with axitinib was investigated in KEYNOTE-426 [see Clinical Studies (14.15)].
 Patients with medical conditions that required systemic corticosteroids or other immunosuppressive medications or had a history of severe autoimmune disease other than type 1 diabetes, vitiligo, Sjogren's syndrome, and hypothyroidism stable on hormone replacement were ineligible.
 Patients received KEYTRUDA 200 mg intravenously every 3 weeks and axitinib 5 mg orally twice daily, or sunitinib 50 mg once daily for 4 weeks and then off treatment for 2 weeks.
 The median duration of exposure to the combination therapy of KEYTRUDA and axitinib was 10.4 months (range: 1 day to 21.2 months).
@@ -973,7 +979,7 @@ Table 29: Laboratory Abnormalities Worsened from Baseline Occurring in ≥20% of
 
 Endometrial Carcinoma
 
-The safety of KEYTRUDA in combination with lenvatinib (20 mg orally once daily) was investigated in KEYNOTE-146, a single-arm, multicenter, open-label trial in 94 patients with endometrial carcinoma whose tumors had progressed following one line of systemic therapy and were not MSI-H or dMMR [see Clinical Studies (14.15)].
+The safety of KEYTRUDA in combination with lenvatinib (20 mg orally once daily) was investigated in KEYNOTE-146, a single-arm, multicenter, open-label trial in 94 patients with endometrial carcinoma whose tumors had progressed following one line of systemic therapy and were not MSI-H or dMMR [see Clinical Studies (14.16)].
 The median duration of study treatment was 7 months (range: 0.03 to 37.8 months).
 The median duration of exposure to KEYTRUDA was 6 months (range: 0.03 to 23.8 months).
 KEYTRUDA was continued for a maximum of 24 months; however, treatment with lenvatinib could be continued beyond 24 months.
@@ -1059,13 +1065,13 @@ Table 31: Laboratory Abnormalities Worsened from Baseline Occurring in ≥20% (A
 
 TMB-H Cancer
 
-The safety of KEYTRUDA was investigated in 105 patients with TMB-H cancer enrolled in KEYNOTE-158 [see Clinical Studies (14.16)].
+The safety of KEYTRUDA was investigated in 105 patients with TMB-H cancer enrolled in KEYNOTE-158 [see Clinical Studies (14.17)].
 The median duration of exposure to KEYTRUDA was 4.9 months (range: 0.03 to 35.2 months).
 Adverse reactions occurring in patients with TMB-H cancer were similar to those occurring in patients with other solid tumors who received KEYTRUDA as a single agent.
 
 cSCC
 
-Among the 105 patients with cSCC enrolled in KEYNOTE-629 [see Clinical Studies (14.17)], the median duration of exposure to KEYTRUDA was 5.8 months (range 1 day to 16.1 months).
+Among the 105 patients with cSCC enrolled in KEYNOTE-629 [see Clinical Studies (14.18)], the median duration of exposure to KEYTRUDA was 5.8 months (range 1 day to 16.1 months).
 Patients with autoimmune disease or a medical condition that required systemic corticosteroids or other immunosuppressive medications were ineligible.
 Adverse reactions occurring in patients with cSCC were similar to those occurring in 2799 patients with melanoma or NSCLC treated with KEYTRUDA as a single agent.
 Laboratory abnormalities (Grades 3-4) that occurred at a higher incidence included lymphopenia (11%).
