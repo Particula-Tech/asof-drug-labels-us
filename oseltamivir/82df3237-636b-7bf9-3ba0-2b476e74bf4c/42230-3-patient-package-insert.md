@@ -110,7 +110,7 @@ For more information, contact Alvogen, Inc. at 1-866-770-3024.
 What are the ingredients in oseltamivir phosphate for oral suspension?
 Active ingredient: oseltamivir phosphate, USP Inactive ingredients: Oseltamivir phosphate for oral suspension: colloidal silicon dioxide, monosodium citrate, saccharin sodium, sodium benzoate, sorbitol, titanium dioxide, tutti-frutti flavoring and xanthan gum.
 
-Distributed by: Alvogen, Inc. Pine Brook, NJ 07058 USA
+Distributed by: Alvogen, Inc. Morristown, NJ 07960 USA
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
-Revised: 08/2019
+Revised: 05/2020

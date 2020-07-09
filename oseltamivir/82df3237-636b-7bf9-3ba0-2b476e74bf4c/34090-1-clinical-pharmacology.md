@@ -50,7 +50,7 @@ Population-derived pharmacokinetic parameters were determined for patients with 
 Median simulated exposures of oseltamivir carboxylate for recommended treatment and prophylaxis regimens are provided in Table 7.
 The pharmacokinetics of oseltamivir have not been studied in ESRD patients not undergoing dialysis [see Indications and Usage (1.3), and Use in Specific Populations (8.6)].
 
-Table 7 Simulated Median Treatment Exposure Metrics of Oseltamivir Carboxylate in Patients with and Normal Renal Function, with Renal Impairment and ESRD Patients on Hemodialysis
+Table 7 Simulated Median Treatment Exposure Metrics of Oseltamivir Carboxylate in Patients with Normal Renal Function, with Renal Impairment and ESRD Patients on Hemodialysis
 
 | Renal Function/ Impairment | Normal Creatinine Clearance 90 to 140 mL/min (n=57) | Mild Creatinine Clearance 60 to 90 mL/min (n=45) | Moderate Creatinine Clearance 30 to 60 mL/min (n=13) | Severe Creatinine Clearance 10 to 30 mL/min (n=11) | ESRD Creatinine Clearance <10 mL/min on Hemodialysis (n=24) |
 | --- | --- | --- | --- | --- | --- |

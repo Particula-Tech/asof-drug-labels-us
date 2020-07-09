@@ -23,9 +23,11 @@ Close the bottle with the child-resistant bottle cap after each use.
 Step 6.
 Rinse oral dosing dispenser under running tap water and allow to air dry after each use.
 
-Distributed by: Alvogen, Inc. Pine Brook, NJ 07058 USA
+Distributed by: Alvogen, Inc. Morristown, NJ 07960 USA
 
-PL384-03
+Revised: 05/2020
+
+PL384-04
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 Revised: 08/2019
