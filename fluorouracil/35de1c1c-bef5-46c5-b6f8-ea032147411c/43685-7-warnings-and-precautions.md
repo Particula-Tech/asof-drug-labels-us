@@ -1,18 +1,18 @@
 # WARNINGS:
 
 Application to mucous membranes should be avoided due to the possibility of local inflammation and ulceration.
-Additionally, cases of miscarriage and a birth defect (ventricular septal defect) have been reported when Efudex was applied to mucous membrane areas during pregnancy.
+Additionally, cases of miscarriage and a birth defect (ventricular septal defect) have been reported when EFUDEX was applied to mucous membrane areas during pregnancy.
 
 Occlusion of the skin with resultant hydration has been shown to increase percutaneous penetration of several topical preparations.
 If any occlusive dressing is used in treatment of basal cell carcinoma, there may be an increase in the severity of inflammatory reactions in the adjacent normal skin.
 A porous gauze dressing may be applied for cosmetic reasons without increase in reaction.
 
-Exposure to ultraviolet rays should be minimized during and immediately following treatment with Efudex because the intensity of the reaction may be increased.
+Exposure to ultraviolet rays should be minimized during and immediately following treatment with EFUDEX because the intensity of the reaction may be increased.
 
-Patients should discontinue therapy with Efudex if symptoms of DPD enzyme deficiency develop (see CONTRAINDICATIONS).
+Patients should discontinue therapy with EFUDEX if symptoms of DPD enzyme deficiency develop (see CONTRAINDICATIONS).
 
 Rarely, life-threatening toxicities such as stomatitis, diarrhea, neutropenia, and neurotoxicity have been reported with intravenous administration of fluorouracil in patients with DPD enzyme deficiency.
-One case of life-threatening systemic toxicity has been reported with the topical use of Efudex in a patient with DPD enzyme deficiency.
+One case of life-threatening systemic toxicity has been reported with the topical use of EFUDEX in a patient with DPD enzyme deficiency.
 Symptoms included severe abdominal pain, bloody diarrhea, vomiting, fever, and chills.
 Physical examination revealed stomatitis, erythematous skin rash, neutropenia, thrombocytopenia, inflammation of the esophagus, stomach, and small bowel.
 Although this case was observed with 5% fluorouracil cream, it is unknown whether patients with profound DPD enzyme deficiency would develop systemic toxicity with lower concentrations of topically applied fluorouracil.
@@ -26,9 +26,9 @@ There is a possibility of increased absorption through ulcerated or inflamed ski
 ## Information for Patients:
 
 Patients should be forewarned that the reaction in the treated areas may be unsightly during therapy and, usually, for several weeks following cessation of therapy.
-Patients should be instructed to avoid exposure to ultraviolet rays during and immediately following treatment with Efudex because the intensity of the reaction may be increased.
-If Efudex is applied with the fingers, the hands should be washed immediately afterward.
-Efudex should not be applied on the eyelids or directly into the eyes, nose, or mouth because irritation may occur.
+Patients should be instructed to avoid exposure to ultraviolet rays during and immediately following treatment with EFUDEX because the intensity of the reaction may be increased.
+If EFUDEX is applied with the fingers, the hands should be washed immediately afterward.
+EFUDEX should not be applied on the eyelids or directly into the eyes, nose, or mouth because irritation may occur.
 
 ## Laboratory Tests:
 
@@ -38,7 +38,7 @@ Follow-up biopsies should be performed as indicated in the management of superfi
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility:
 
 Adequate long-term studies in animals to evaluate carcinogenic potential have not been conducted with fluorouracil.
-Studies with the active ingredient of Efudex, 5-fluorouracil, have shown positive effects in in vitro tests for mutagenicity and on impairment of fertility.
+Studies with the active ingredient of EFUDEX, 5-fluorouracil, have shown positive effects in in vitro tests for mutagenicity and on impairment of fertility.
 
 5-Fluorouracil was positive in three in vitro cell neoplastic transformation assays.
 In the C3H/10T½ clone 8 mouse embryo cell system, the resulting morphologically transformed cells formed tumors when inoculated into immunosuppressed syngeneic mice.
@@ -61,7 +61,7 @@ See CONTRAINDICATIONS.
 
 ## Nursing Mothers:
 
-It is not known whether Efudex is excreted in human milk.
+It is not known whether EFUDEX is excreted in human milk.
 Because there is some systemic absorption of fluorouracil after topical administration (see CLINICAL PHARMACOLOGY), because many drugs are excreted in human milk, and because of the potential for serious adverse reactions in nursing infants, a decision should be made whether to discontinue nursing or to discontinue use of the drug, taking into account the importance of the drug to the mother.
 
 ## Pediatric Use:

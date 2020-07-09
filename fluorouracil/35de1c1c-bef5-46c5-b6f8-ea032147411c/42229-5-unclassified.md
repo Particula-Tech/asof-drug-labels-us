@@ -1,16 +1,16 @@
 FOR TOPICAL USE ONLY NOT FOR OPHTHALMIC, ORAL, OR INTRAVAGINAL USE
 
-Manufactured for: Valeant Pharmaceuticals North America LLC Bridgewater, NJ 08807 USA
+Distributed by: Bausch Health US, LLC Bridgewater, NJ 08807 USA
 
-By: Valeant Pharmaceuticals International, Inc. Laval, Quebec H7L 4A8, Canada
+Manufactured by: Mylan Institutional Inc. Sugar Land, TX 77478 USA
 
-Efudex is a registered trademark of Valeant Pharmaceuticals International, Inc. or its affiliates.
+EFUDEX is a trademark of Bausch Health Companies Inc. or its affiliates.
 
-©Valeant Pharmaceuticals North America LLC
+© 2020 Bausch Health Companies Inc. or its affiliates
 
 Rev.
-05/17
+04/2020
 
-9491201
+9734600
 
-50098777C
+115797

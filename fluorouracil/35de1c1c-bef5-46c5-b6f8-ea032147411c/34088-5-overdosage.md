@@ -1,6 +1,6 @@
 # OVERDOSAGE:
 
-There have been no reports of overdosage with Efudex.
+There have been no reports of overdosage with EFUDEX.
 
 The oral LD50 for the 5% topical cream was 234 mg/kg in rats and 39 mg/kg in dogs.
 These doses represented 11.7 and 1.95 mg/kg of fluorouracil, respectively.

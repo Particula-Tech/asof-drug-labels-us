@@ -1,10 +1,10 @@
 # DESCRIPTION:
 
-Efudex Solutions and Cream are topical preparations containing the fluorinated pyrimidine 5-fluorouracil, an antineoplastic antimetabolite.
+EFUDEX Solutions and Cream are topical preparations containing the fluorinated pyrimidine 5-fluorouracil, an antineoplastic antimetabolite.
 
-Efudex Solution consists of 2% or 5% fluorouracil on a weight/weight basis, compounded with disodium edetate, hydroxypropyl cellulose, methylparaben, propylene glycol, propylparaben, and tris (hydroxymethyl) aminomethane.
+EFUDEX Solution consists of 2% or 5% fluorouracil on a weight/weight basis, compounded with disodium edetate, hydroxypropyl cellulose, methylparaben, propylene glycol, propylparaben, and tris (hydroxymethyl) aminomethane.
 
-Efudex Cream contains 5% fluorouracil in a vanishing cream base consisting of methylparaben, polysorbate 60, propylene glycol, propylparaben, purified water, stearyl alcohol, and white petrolatum.
+EFUDEX Cream contains 5% fluorouracil in a vanishing cream base consisting of methylparaben, polysorbate 60, propylene glycol, propylparaben, purified water, stearyl alcohol, and white petrolatum.
 
 Chemically, fluorouracil is a 5-fluoro-2,4(1H,3H)-pyrimidinedione.
 It is a white to practically white crystalline powder which is sparingly soluble in water and slightly soluble in alcohol.
