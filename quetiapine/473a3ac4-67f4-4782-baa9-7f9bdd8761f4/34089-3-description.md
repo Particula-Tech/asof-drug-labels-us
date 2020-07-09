@@ -1,6 +1,6 @@
 # 11 DESCRIPTION
 
-SEROQUEL XR (quetiapine fumarate) is an atypical antipsychotic belonging to a chemical class, the dibenzothiazepine derivatives.
+SEROQUEL XR (quetiapine) is an atypical antipsychotic belonging to a chemical class, the dibenzothiazepine derivatives.
 The chemical designation is 2-[2-(4-dibenzo [b,f] [1,4] thiazepin-11-yl-1-piperazinyl)ethoxy]-ethanol fumarate (2:1) (salt).
 It is present in tablets as the fumarate salt.
 All doses and tablet strengths are expressed as milligrams of base, not as fumarate salt.
@@ -16,8 +16,8 @@ Inactive ingredients for SEROQUEL XR are lactose monohydrate, microcrystalline c
 The film coating for all SEROQUEL XR tablets contain hypromellose, polyethylene glycol 400 and titanium dioxide.
 In addition, yellow iron oxide (50, 200 and 300 mg tablets) and red iron oxide (50 mg tablets) are included in the film coating of specific strengths.
 
-Each 50 mg tablet contains 58 mg of quetiapine fumarate equivalent to 50 mg quetiapine.
-Each 150 mg tablet contains 173 mg of quetiapine fumarate equivalent to 150 mg quetiapine.
-Each 200 mg tablet contains 230 mg of quetiapine fumarate equivalent to 200 mg quetiapine.
-Each 300 mg tablet contains 345 mg of quetiapine fumarate equivalent to 300 mg quetiapine.
-Each 400 mg tablet contains 461 mg of quetiapine fumarate equivalent to 400 mg quetiapine.
+Each 50 mg tablet contains 57.56 mg of quetiapine fumarate equivalent to 50 mg quetiapine.
+Each 150 mg tablet contains 172.69 mg of quetiapine fumarate equivalent to 150 mg quetiapine.
+Each 200 mg tablet contains 230.26 mg of quetiapine fumarate equivalent to 200 mg quetiapine.
+Each 300 mg tablet contains 345.38 mg of quetiapine fumarate equivalent to 300 mg quetiapine.
+Each 400 mg tablet contains 460.50 mg of quetiapine fumarate equivalent to 400 mg quetiapine.

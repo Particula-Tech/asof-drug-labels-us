@@ -410,7 +410,7 @@ Neutrophil Counts
 
 Adults: In three-arm SEROQUEL XR placebo-controlled monotherapy clinical trials, among patients with a baseline neutrophil count ≥1.5 x 109/L, the incidence of at least one occurrence of neutrophil count <1.5 x 109/L was 1.5% in patients treated with SEROQUEL XR and 1.5% for SEROQUEL, compared to 0.8% in placebo-treated patients.
 
-In placebo-controlled monotherapy clinical trials involving 3368 patients on quetiapine fumarate and 1515 on placebo, the incidence of at least one occurrence of neutrophil count <1.0 x 109/L among patients with a normal baseline neutrophil count and at least one available follow up laboratory measurement was 0.3% (10/2967) in patients treated with quetiapine, compared to 0.1% (2/1349) in patients treated with placebo [see Warnings and Precautions (5.10)].
+In placebo-controlled monotherapy clinical trials involving 3368 patients on quetiapine and 1515 on placebo, the incidence of at least one occurrence of neutrophil count <1.0 x 109/L among patients with a normal baseline neutrophil count and at least one available follow up laboratory measurement was 0.3% (10/2967) in patients treated with quetiapine, compared to 0.1% (2/1349) in patients treated with placebo [see Warnings and Precautions (5.10)].
 
 Transaminase Elevations
 

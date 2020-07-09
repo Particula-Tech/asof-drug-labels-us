@@ -2,23 +2,19 @@
 
 NDC 0310-0280-60 60 tablets
 
-SEROQUEL XR®
+SEROQUELXR®
 
-quetiapine fumarate
+(quetiapine)
 
 extended-release tablets
 
-50mg* Once Daily
+50 mg*
 
-Rx only
+Medication Guide must be
 
-Mfd. for: AstraZeneca Pharmaceuticals LP
+dispensed to patients.
 
-Wilmington, DE 19850
-
-By: AstraZeneca UK Limited
-
-Macclesfield, UK Product of Belgium
+Once Daily Rx only
 
 AstraZeneca
 
@@ -26,23 +22,19 @@ AstraZeneca
 
 NDC 0310-0281-60 60 tablets
 
-SEROQUEL XR®
+SEROQUELXR®
 
-quetiapine fumarate
+(quetiapine)
 
 extended-release tablets
 
-150mg* Once Daily
+150 mg*
 
-Rx only
+Medication Guide must be
 
-Mfd. for: AstraZeneca Pharmaceuticals LP
+dispensed to patients.
 
-Wilmington, DE 19850
-
-By: AstraZeneca UK Limited
-
-Macclesfield, UK Product of Belgium
+Once Daily Rx only
 
 AstraZeneca
 
@@ -50,21 +42,21 @@ AstraZeneca
 
 NDC 0310-0282-60 60 tablets
 
-SEROQUEL XR®
+SEROQUELXR®
 
-quetiapine fumarate
+(quetiapine)
 
 extended-release tablets
 
-200mg* Once Daily
+200 mg*
 
 Rx only
 
-AstraZeneca Pharmaceuticals LP
+Medication Guide must be
 
-Wilmington, DE 19850
+dispensed to patients.
 
-Product of Belgium
+Once Daily
 
 AstraZeneca
 
@@ -72,27 +64,21 @@ AstraZeneca
 
 NDC 0310-0283-60 60 tablets
 
-SEROQUEL XR®
+SEROQUELXR®
 
-quetiapine fumarate
+(quetiapine)
 
 extended-release tablets
 
-300mg* Once Daily
+300 mg*
 
 Rx only
 
-Manufactured for:
+Medication Guide must be
 
-AstraZeneca Pharmaceuticals LP
+dispensed to patients.
 
-Wilmington, DE 19850
-
-By: AstraZeneca UK Limited
-
-Macclesfield, UK
-
-Product of Belgium
+Once Daily
 
 AstraZeneca
 
@@ -100,20 +86,20 @@ AstraZeneca
 
 NDC 0310-0284-60 60 tablets
 
-SEROQUEL XR®
+SEROQUELXR®
 
-quetiapine fumarate
+(quetiapine)
 
 extended-release tablets
 
-400mg* Once Daily
+400 mg*
 
 Rx only
 
-AstraZeneca Pharmaceuticals LP
+Medication Guide must be
 
-Wilmington, DE 19850
+dispensed to patients.
 
-Product of Belgium
+Once Daily
 
 AstraZeneca

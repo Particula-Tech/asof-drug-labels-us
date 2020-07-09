@@ -343,7 +343,7 @@ Blood pressure in children and adolescents should be measured at the beginning o
 
 ## 5.10 Leukopenia, Neutropenia, and Agranulocytosis
 
-In clinical trials and postmarketing experience, events of leukopenia/neutropenia have been reported temporally related to atypical antipsychotic agents, including quetiapine fumarate.
+In clinical trials and postmarketing experience, events of leukopenia/neutropenia have been reported temporally related to atypical antipsychotic agents, including quetiapine.
 Agranulocytosis has also been reported.
 
 Agranulocytosis has been reported with quetiapine, including fatal cases and cases in patients without pre-existing risk factors.
@@ -378,7 +378,7 @@ Caution should also be exercised when quetiapine is prescribed in patients with 
 
 During short-term clinical trials with SEROQUEL XR, seizures occurred in 0.05% (1/1866) of patients treated with SEROQUEL XR across all indications compared to 0.3% (3/928) on placebo.
 During clinical trials with SEROQUEL, seizures occurred in 0.5% (20/3490) of patients treated with SEROQUEL compared to 0.2% (2/954) on placebo.
-As with other antipsychotics, quetiapine fumarate should be used cautiously in patients with a history of seizures or with conditions that potentially lower the seizure threshold, e.g., Alzheimer’s dementia.
+As with other antipsychotics, quetiapine should be used cautiously in patients with a history of seizures or with conditions that potentially lower the seizure threshold, e.g., Alzheimer’s dementia.
 Conditions that lower the seizure threshold may be more prevalent in a population of 65 years or older.
 
 ## 5.14 Hypothyroidism
@@ -461,7 +461,7 @@ SEROQUEL XR and other antipsychotic drugs should be used cautiously in patients 
 
 ## 5.19 Discontinuation Syndrome
 
-Acute withdrawal symptoms, such as insomnia, nausea, and vomiting have been described after abrupt cessation of atypical antipsychotic drugs, including quetiapine fumarate.
+Acute withdrawal symptoms, such as insomnia, nausea, and vomiting have been described after abrupt cessation of atypical antipsychotic drugs, including quetiapine.
 In short-term placebo-controlled, monotherapy clinical trials with SEROQUEL XR that included a discontinuation phase which evaluated discontinuation symptoms, the aggregated incidence of patients experiencing one or more discontinuation symptoms after abrupt cessation was 12.1% (241/1993) for SEROQUEL XR and 6.7% (71/1065) for placebo.
 The incidence of the individual adverse reactions (i.e., insomnia, nausea, headache, diarrhea, vomiting, dizziness, and irritability) did not exceed 5.3% in any treatment group and usually resolved after 1-week post-discontinuation.
 Gradual dose reduction is advised [see Use in Specific Populations (8.1)].

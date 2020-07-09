@@ -39,7 +39,7 @@ When adjusted for dose and weight, the pharmacokinetics of the metabolite, norqu
 
 Absorption
 
-Quetiapine fumarate reaches peak plasma concentrations approximately 6 hours following administration.
+Quetiapine reaches peak plasma concentrations approximately 6 hours following administration.
 SEROQUEL XR dosed once daily at steady state has comparable bioavailability to an equivalent total daily dose of SEROQUEL administered in divided doses, twice daily.
 A high-fat meal (approximately 800 to 1000 calories) was found to produce statistically significant increases in the SEROQUEL XR Cmax and AUC of 44% to 52% and 20% to 22%, respectively, for the 50 mg and 300 mg tablets.
 In comparison, a light meal (approximately 300 calories) had no significant effect on the Cmax or AUC of quetiapine.
