@@ -1,50 +1,53 @@
 # 5 WARNINGS AND PRECAUTIONS
 
-## 5.1 Severe Acute Exacerbation of Hepatitis B in Patients with HBV Infection
+## 5.1 Severe Acute Exacerbation of Hepatitis B in Individuals with HBV Infection
 
-All patients should be tested for the presence of chronic hepatitis B virus (HBV) before or when initiating TRUVADA [see Dosage and Administration (2.1)].
+All individuals should be tested for the presence of chronic hepatitis B virus (HBV) before or when initiating TRUVADA [see Dosage and Administration (2.1)].
 
-Severe acute exacerbations of hepatitis B (e.g., liver decompensation and liver failure) have been reported in HBV-infected patients who have discontinued TRUVADA.
-Patients infected with HBV who discontinue TRUVADA should be closely monitored with both clinical and laboratory follow-up for at least several months after stopping treatment.
-If appropriate, initiation of anti-hepatitis B therapy may be warranted, especially in patients with advanced liver disease or cirrhosis, since posttreatment exacerbation of hepatitis may lead to hepatic decompensation and liver failure.
+Severe acute exacerbations of hepatitis B (e.g., liver decompensation and liver failure) have been reported in HBV-infected individuals who have discontinued TRUVADA.
+Individuals infected with HBV who discontinue TRUVADA should be closely monitored with both clinical and laboratory follow-up for at least several months after stopping treatment.
+If appropriate, anti-hepatitis B therapy may be warranted, especially in individuals with advanced liver disease or cirrhosis, since posttreatment exacerbation of hepatitis may lead to hepatic decompensation and liver failure.
 HBV-uninfected individuals should be offered vaccination.
 
-## 5.2 Comprehensive Management to Reduce the Risk of Acquiring HIV-1 and Development of HIV-1 Resistance When TRUVADA Is Used for HIV-1 PrEP
+## 5.2 Comprehensive Management to Reduce the Risk of Sexually Transmitted Infections, Including HIV-1, and Development of HIV-1 Resistance When TRUVADA Is Used for HIV-1 PrEP
 
-Use TRUVADA for HIV-1 PrEP only as part of a comprehensive prevention strategy that includes other prevention measures, such as safer sex practices, because TRUVADA is not always effective in preventing acquisition of HIV-1 [see Clinical Studies (14.3 and 14.4)].
+Use TRUVADA for HIV-1 PrEP to reduce the risk of HIV-1 infection as part of a comprehensive prevention strategy that includes other prevention measures, including adherence to daily administration and safer sex practices, including condoms, to reduce the risk of sexually transmitted infections (STIs).
+The time from initiation of TRUVADA for HIV-1 PrEP to maximal protection against HIV-1 infection is unknown.
 
-- Counsel uninfected individuals about safer sex practices that include consistent and correct use of condoms, knowledge of their HIV-1 status and that of their partner(s), the importance of virologic suppression in their partner(s) with HIV-1, and regular testing for other sexually transmitted infections that can facilitate HIV-1 transmission (such as syphilis, chlamydia, and gonorrhea).
-- Inform uninfected individuals about and support their efforts in reducing sexual risk behavior.
+Risk for HIV-1 acquisition includes behavioral, biological, or epidemiologic factors including but not limited to condomless sex, past or current STIs, self-identified HIV risk, having sexual partners of unknown HIV-1 viremic status, or sexual activity in a high prevalence area or network.
+
+Counsel individuals on the use of other prevention measures (e.g., consistent and correct condom use, knowledge of partner(s)' HIV-1 status, including viral suppression status, regular testing for STIs that can facilitate HIV-1 transmission).
+Inform uninfected individuals about and support their efforts in reducing sexual risk behavior.
 
 Use TRUVADA to reduce the risk of acquiring HIV-1 only in individuals confirmed to be HIV-negative.
-HIV-1 resistance substitutions may emerge in individuals with undetected HIV-1 infection who are taking only TRUVADA, because TRUVADA alone does not constitute a complete regimen for HIV-1 treatment [see Microbiology (12.4)]; therefore, care should be taken to minimize drug exposure in HIV-infected individuals.
+HIV-1 resistance substitutions may emerge in individuals with undetected HIV-1 infection who are taking only TRUVADA, because TRUVADA alone does not constitute a complete regimen for HIV-1 treatment [see Microbiology (12.4)]; therefore, care should be taken to minimize the risk of initiating or continuing TRUVADA before confirming the individual is HIV-1 negative.
 
-- Many HIV-1 tests, such as rapid tests, detect anti-HIV antibodies and may not identify HIV-1 during the acute stage of infection.
-  Prior to initiating TRUVADA for HIV-1 PrEP, evaluate seronegative individuals for current or recent signs or symptoms consistent with acute viral infections (e.g., fever, fatigue, myalgia, skin rash) and ask about potential exposure events (e.g., unprotected, or condom broke during, sex with an HIV-1 infected partner) that may have occurred within the last month.
-- If clinical symptoms consistent with acute viral infection are present and recent (<1 month) exposures are suspected, delay starting HIV-1 PrEP for at least one month and reconfirm HIV-1 status or use a test approved or cleared by the FDA as an aid in the diagnosis of HIV-1 infection, including acute or primary HIV-1 infection.
+- Some HIV-1 tests only detect anti-HIV antibodies and may not identify HIV-1 during the acute stage of infection.
+  Prior to initiating TRUVADA for HIV-1 PrEP, ask seronegative individuals about recent (in past month) potential exposure events (e.g., condomless sex or condom breaking during sex with a partner of unknown HIV-1 status or unknown viremic status, or a recent STI), and evaluate for current or recent signs or symptoms consistent with acute HIV-1 infection (e.g., fever, fatigue, myalgia, skin rash).
+- If recent (<1 month) exposures to HIV-1 are suspected or clinical symptoms consistent with acute HIV-1 infection are present, use a test approved or cleared by the FDA as an aid in the diagnosis of acute or primary HIV-1 infection.
 
-While using TRUVADA for HIV-1 PrEP, HIV-1 screening tests should be repeated at least every 3 months, and upon diagnosis of any sexually transmitted infections.
-Some individuals, such as adolescents, may benefit from more frequent visits and counseling [see Use in Specific Populations (8.4)].
+While using TRUVADA for HIV-1 PrEP, HIV-1 testing should be repeated at least every 3 months, and upon diagnosis of any other STIs.
 
-- If a screening test indicates possible HIV-1 infection, or if symptoms consistent with acute HIV-1 infection develop following a potential exposure event, convert the HIV-1 PrEP regimen to an HIV treatment regimen until negative infection status is confirmed using a test approved or cleared by the FDA as an aid in the diagnosis of HIV-1, including acute or primary HIV-1 infection.
+- If an HIV-1 test indicates possible HIV-1 infection, or if symptoms consistent with acute HIV-1 infection develop following a potential exposure event, convert the HIV-1 PrEP regimen to an HIV treatment regimen until negative infection status is confirmed using a test approved or cleared by the FDA as an aid in the diagnosis of acute or primary HIV-1 infection.
 
-Counsel uninfected individuals to strictly adhere to the recommended TRUVADA dosing schedule.
-The effectiveness of TRUVADA in reducing the risk of acquiring HIV-1 is strongly correlated with adherence, as demonstrated by measurable drug levels in clinical trials [see Use in Specific Populations (8.4), Microbiology (12.4), and Clinical Studies (14.3 and 14.4)].
+Counsel HIV-1 uninfected individuals to strictly adhere to the once daily TRUVADA dosing schedule.
+The effectiveness of TRUVADA in reducing the risk of acquiring HIV-1 is strongly correlated with adherence, as demonstrated by measurable drug levels in clinical trials of TRUVADA for HIV-1 PrEP.
+Some individuals, such as adolescents, may benefit from more frequent visits and counseling to support adherence [see Use in Specific Populations (8.4), Microbiology (12.4), and Clinical Studies (14.3 and 14.4)].
 
 ## 5.3 New Onset or Worsening Renal Impairment
 
 Emtricitabine and tenofovir are principally eliminated by the kidney.
 Renal impairment, including cases of acute renal failure and Fanconi syndrome (renal tubular injury with severe hypophosphatemia), has been reported with the use of TDF, a component of TRUVADA [see Adverse Reactions (6.2)].
 
-Prior to initiation and during use of TRUVADA, on a clinically appropriate schedule, assess serum creatinine, estimated creatinine clearance, urine glucose, and urine protein in all patients.
-In patients with chronic kidney disease, also assess serum phosphorus.
+Prior to initiation and during use of TRUVADA, on a clinically appropriate schedule, assess serum creatinine, estimated creatinine clearance, urine glucose, and urine protein in all individuals.
+In individuals with chronic kidney disease, also assess serum phosphorus.
 
 TRUVADA should be avoided with concurrent or recent use of a nephrotoxic agent (e.g., high-dose or multiple non-steroidal anti-inflammatory drugs [NSAIDs]) [see Drug Interactions (7.1)].
 Cases of acute renal failure after initiation of high-dose or multiple NSAIDs have been reported in HIV-infected patients with risk factors for renal dysfunction who appeared stable on TDF.
 Some patients required hospitalization and renal replacement therapy.
 Alternatives to NSAIDs should be considered, if needed, in patients at risk for renal dysfunction.
 
-Persistent or worsening bone pain, pain in extremities, fractures, and/or muscular pain or weakness may be manifestations of proximal renal tubulopathy and should prompt an evaluation of renal function in patients at risk of renal dysfunction.
+Persistent or worsening bone pain, pain in extremities, fractures, and/or muscular pain or weakness may be manifestations of proximal renal tubulopathy and should prompt an evaluation of renal function in individuals at risk of renal dysfunction.
 
 Treatment of HIV-1 Infection
 
@@ -62,7 +65,7 @@ If a decrease in estimated creatinine clearance is observed while using TRUVADA 
 Immune reconstitution syndrome has been reported in HIV-1 infected patients treated with combination antiretroviral therapy, including TRUVADA.
 During the initial phase of combination antiretroviral treatment, HIV-1 infected patients whose immune system responds may develop an inflammatory response to indolent or residual opportunistic infections (such as Mycobacterium avium infection, cytomegalovirus, Pneumocystis jirovecii pneumonia [PCP], or tuberculosis), which may necessitate further evaluation and treatment.
 
-Autoimmune disorders (such as Graves' disease, polymyositis, and Guillain-Barré syndrome) have also been reported to occur in the setting of immune reconstitution; however, the time to onset is more variable and can occur many months after initiation of treatment.
+Autoimmune disorders (such as Graves' disease, polymyositis, Guillain-Barré syndrome, and autoimmune hepatitis) have also been reported to occur in the setting of immune reconstitution; however, the time to onset is more variable and can occur many months after initiation of treatment.
 
 ## 5.5 Bone Loss and Mineralization Defects
 
@@ -91,7 +94,7 @@ Hypophosphatemia and osteomalacia secondary to proximal renal tubulopathy should
 ## 5.6 Lactic Acidosis/Severe Hepatomegaly with Steatosis
 
 Lactic acidosis and severe hepatomegaly with steatosis, including fatal cases, have been reported with the use of nucleoside analogs, including FTC and TDF, components of TRUVADA, alone or in combination with other antiretrovirals.
-Treatment with TRUVADA should be suspended in any patient or uninfected individual who develops clinical or laboratory findings suggestive of lactic acidosis or pronounced hepatotoxicity (which may include hepatomegaly and steatosis even in the absence of marked transaminase elevations).
+Treatment with TRUVADA should be suspended in any individual who develops clinical or laboratory findings suggestive of lactic acidosis or pronounced hepatotoxicity (which may include hepatomegaly and steatosis even in the absence of marked transaminase elevations).
 
 ## 5.7 Risk of Adverse Reactions Due to Drug Interactions
 

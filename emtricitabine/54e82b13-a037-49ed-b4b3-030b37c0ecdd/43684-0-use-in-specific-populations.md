@@ -10,7 +10,7 @@ Healthcare providers are encouraged to register patients by calling the Antiretr
 Risk Summary
 
 Data on the use of TRUVADA during pregnancy from observational studies have shown no increased risk of major birth defects.
-Available data from the APR show no increase in the overall risk of major birth defects with first trimester exposure for emtricitabine (FTC) (2.3%) or tenofovir disoproxil fumarate (TDF) (2.1%) compared with the background rate for major birth defects of 2.7% in a U.S. reference population of the Metropolitan Atlanta Congenital Defects Program (MACDP) (see Data).
+Available data from the APR show no significant difference in the overall risk of major birth defects with first trimester exposure for emtricitabine (FTC) (2.3%) or tenofovir disoproxil fumarate (TDF) (2.1%) compared with the background rate for major birth defects of 2.7% in a U.S. reference population of the Metropolitan Atlanta Congenital Defects Program (MACDP) (see Data).
 The rate of miscarriage for individual drugs is not reported in the APR.
 In the U.S. general population, the estimated background risk of miscarriage in clinically recognized pregnancies is 15–20%.
 
@@ -28,14 +28,12 @@ Data
 Human Data
 
 TRUVADA for HIV-1 PrEP: In an observational study based on prospective reports to the APR, 78 HIV-seronegative women exposed to TRUVADA during pregnancy delivered live-born infants with no major malformations.
-All except for one were first trimester exposures, and the median duration of exposure was 10.5 weeks.
+All but one were first trimester exposures, and the median duration of exposure was 10.5 weeks.
 There were no new safety findings in the women receiving TRUVADA for HIV-1 PrEP compared with HIV-1 infected women treated with other antiretroviral medications.
 
-Emtricitabine: Based on prospective reports to the APR of 3,749 exposures to FTC-containing regimens during pregnancy resulting in live births (including 2,614 exposed in the first trimester and 1,135 exposed in the second/third trimester), there was no increase in overall major birth defects with FTC compared with the background birth defect rate of 2.7% in a U.S. reference population of the MACDP.
-The prevalence of major birth defects in live births was 2.3% (95% CI: 1.8% to 2.9%) with first trimester exposure to FTC-containing regimens and 2.1% (95% CI: 1.4% to 3.1%) with the second/third trimester exposure to FTC-containing regimens.
+Emtricitabine: Based on prospective reports to the APR of exposures to FTC-containing regimens during pregnancy resulting in live births (including over 3,300 exposed in the first trimester and over 1,300 exposed in the second/third trimester), the prevalence of major birth defects in live births was 2.6% (95% CI: 2.1% to 3.2%) and 2.3% (95% CI: 1.6% to 3.3%) following first and second/third trimester exposure, respectively, to FTC-containing regimens.
 
-Tenofovir Disoproxil Fumarate: Based on prospective reports from the APR of 4,817 exposures to TDF-containing regimens during pregnancy resulting in live births (including 3,342 exposed in the first trimester and 1,475 exposed in the second/third trimester), there was no increase in overall major birth defects with TDF compared with the background birth defect rate of 2.7% in a U.S. reference population of the MACDP.
-The prevalence of major birth defects in live births was 2.3% (95% CI: 1.8% to 2.8%) with first trimester exposure to TDF-containing regimens, and 2.1% (95% CI: 1.4% to 3.0%) with the second/third trimester exposure to TDF-containing regimens.
+Tenofovir Disoproxil Fumarate: Based on prospective reports to the APR of exposures to TDF-containing regimens during pregnancy resulting in live births (including over 4,000 exposed in the first trimester and over 1,700 exposed in the second/third trimester), the prevalence of major birth defects in live births was 2.4% (95% CI: 2.0% to 2.9%) and 2.4% (95% CI: 1.7% to 3.2%) following first and second/third trimester exposure, respectively, to TDF-containing regimens.
 
 Methodologic limitations of the APR include the use of MACDP as the external comparator group.
 The MACDP population is not disease-specific, evaluates women and infants from a limited geographic area, and does not include outcomes for births that occurred at <20 weeks gestation.
@@ -102,7 +100,9 @@ In the ATN113 trial, HIV-1 seroconversion occurred in 3 subjects.
 Tenofovir diphosphate levels in dried blood spot assays indicate that these subjects had poor adherence.
 No tenofovir- or FTC-associated HIV-1 resistance substitutions were detected in virus isolated from the 3 subjects who seroconverted [see Microbiology (12.4)].
 
-Adherence to study drug, as demonstrated by tenofovir diphosphate levels in dried blood spot assays, declined markedly after Week 12 once subjects switched from monthly to quarterly visits, suggesting that adolescents may benefit from more frequent visits and counseling.
+Adherence to study drug, as demonstrated by tenofovir diphosphate levels in dried blood spot assays, declined markedly after Week 12 once subjects switched from monthly to quarterly visits, suggesting that adolescents may benefit from more frequent visits and counseling [see Warnings and Precautions (5.2)].
+
+Safety and effectiveness of Truvada for HIV-1 PrEP in pediatric patients weighing less than 35 kg have not been established.
 
 ## 8.5 Geriatric Use
 
@@ -112,8 +112,8 @@ Clinical trials of FTC, TDF, or TRUVADA did not include sufficient numbers of su
 
 Treatment of HIV-1 Infection
 
-The dosing interval for TRUVADA should be modified in HIV-infected adult patients with estimated creatinine clearance of 30–49 mL/min.
-TRUVADA is not recommended in patients with estimated creatinine clearance below 30 mL/min and in patients with end-stage renal disease requiring dialysis [see Dosage and Administration (2.6)].
+The dosing interval for TRUVADA should be modified in HIV-infected adult individuals with estimated creatinine clearance of 30–49 mL/min.
+TRUVADA is not recommended in individuals with estimated creatinine clearance below 30 mL/min and in individuals with end-stage renal disease requiring dialysis [see Dosage and Administration (2.6)].
 
 HIV-1 PrEP
 

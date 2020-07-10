@@ -4,17 +4,15 @@ Advise the patient to read the FDA-approved patient labeling (Medication Guide).
 
 Important Information for Uninfected Individuals Taking TRUVADA for HIV-1 PrEP
 
-Encourage use of the Agreement Form for Initiating TRUVADA for PrEP of Sexually Acquired HIV-1 Infection.
-
-In addition, advise HIV-uninfected individuals about the following [see Warnings and Precautions (5.2)]:
+Advise HIV-uninfected individuals about the following [see Warnings and Precautions (5.2)]:
 
 - The need to confirm that they are HIV-negative before starting to take TRUVADA to reduce the risk of acquiring HIV-1.
 - That HIV-1 resistance substitutions may emerge in individuals with undetected HIV-1 infection who are taking TRUVADA, because TRUVADA alone does not constitute a complete regimen for HIV-1 treatment.
-- The importance of taking TRUVADA on a regular dosing schedule and to strictly adhere to the recommended dosing schedule to reduce the risk of acquiring HIV-1.
+- The importance of taking TRUVADA on a regular dosing schedule and strict adherence to the recommended dosing schedule to reduce the risk of acquiring HIV-1.
   Uninfected individuals who miss doses are at greater risk of acquiring HIV-1 than those who do not miss doses.
-- That TRUVADA should only be used as part of a complete prevention strategy including other prevention measures.
+- That TRUVADA does not prevent other sexually acquired infections and should only be used as part of a complete prevention strategy including other prevention measures.
 - To use condoms consistently and correctly to lower the chances of sexual contact with any body fluids such as semen, vaginal secretions, or blood.
-- The importance of knowing their HIV status and the status of their partner(s).
+- The importance of knowing their HIV-1 status and the HIV-1 status of their partner(s).
 - The importance of virologic suppression in their partner(s) with HIV-1.
 - The need to get tested regularly for HIV-1 (at least every 3 months, or more frequently for some individuals such as adolescents) and to ask their partner(s) to get tested as well.
 - To report any symptoms of acute HIV-1 infection (flu-like symptoms) to their healthcare provider immediately.
@@ -24,13 +22,12 @@ In addition, advise HIV-uninfected individuals about the following [see Warnings
 
 Severe Acute Exacerbation of Hepatitis B in Patients Infected with HBV
 
-Inform patients that severe acute exacerbations of hepatitis B have been reported in patients infected with hepatitis B virus (HBV) who have discontinued TRUVADA.
-Advise patients not to discontinue TRUVADA without first informing their healthcare provider.
-All patients should be tested for HBV infection before or when starting TRUVADA and those who are infected with HBV need close medical follow-up for several months after stopping TRUVADA to monitor for exacerbations of hepatitis [see Warnings and Precautions (5.1)].
+Inform individuals that severe acute exacerbations of hepatitis B have been reported in patients who are infected with HBV and have discontinued TRUVADA [see Warnings and Precautions (5.1)].
+Advise HBV-infected individuals to not discontinue TRUVADA without first informing their healthcare provider.
 
 New Onset or Worsening Renal Impairment
 
-Inform patients that renal impairment, including cases of acute renal failure and Fanconi syndrome, has been reported in association with the use of TDF, a component of TRUVADA.
+Inform HIV-1 infected patients and uninfected individuals that renal impairment, including cases of acute renal failure and Fanconi syndrome, has been reported in association with the use of TDF, a component of TRUVADA.
 Advise patients to avoid TRUVADA with concurrent or recent use of a nephrotoxic agent (e.g., high-dose or multiple NSAIDs) [see Warnings and Precautions (5.3)].
 The dosing interval of TRUVADA may need adjustment in HIV-1 infected patients with renal impairment.
 TRUVADA for HIV-1 PrEP should not be used in HIV-1 uninfected individuals if estimated creatinine clearance is less than 60 mL/min.
@@ -38,7 +35,7 @@ If a decrease in estimated creatinine clearance is observed in uninfected indivi
 
 Immune Reconstitution Syndrome
 
-Inform patients that in some patients with advanced HIV infection (AIDS), signs and symptoms of inflammation from previous infections may occur soon after anti-HIV treatment is started.
+Inform HIV-1 infected patients that in some patients with advanced HIV infection (AIDS), signs and symptoms of inflammation from previous infections may occur soon after anti-HIV treatment is started.
 It is believed that these symptoms are due to an improvement in the body's immune response, enabling the body to fight infections that may have been present with no obvious symptoms.
 Advise patients to inform their healthcare provider immediately of any symptoms of infection [see Warnings and Precautions (5.4)].
 
@@ -49,20 +46,20 @@ Consider bone monitoring in patients and uninfected individuals who have a histo
 
 Lactic Acidosis and Severe Hepatomegaly
 
-Inform patients and uninfected individuals that lactic acidosis and severe hepatomegaly with steatosis, including fatal cases, have been reported.
+Inform HIV-1 infected patients and uninfected individuals that lactic acidosis and severe hepatomegaly with steatosis, including fatal cases, have been reported.
 Treatment with TRUVADA should be suspended in any person who develops clinical symptoms suggestive of lactic acidosis or pronounced hepatotoxicity [see Warnings and Precautions (5.6)].
 
 Drug Interactions
 
-Advise patients that TRUVADA may interact with many drugs; therefore, advise patients to report to their healthcare provider the use of any other medication, including other HIV drugs and drugs for treatment of hepatitis C virus [see Warnings and Precautions (5.7) and Drug Interactions (7)].
+Advise individuals that TRUVADA may interact with many drugs; therefore, advise individuals to report to their healthcare provider the use of any other medication, including other HIV drugs and drugs for treatment of hepatitis C virus [see Warnings and Precautions (5.7) and Drug Interactions (7)].
 
 Dosage Recommendations for Treatment of HIV-1 Infection
 
-Inform patients that it is important to take TRUVADA with other antiretroviral drugs for the treatment of HIV-1 on a regular dosing schedule with or without food and to avoid missing doses as it can result in development of resistance.
+Inform HIV-1 infected patients that it is important to take TRUVADA with other antiretroviral drugs for the treatment of HIV-1 on a regular dosing schedule with or without food and to avoid missing doses as it can result in development of resistance.
 
 Pregnancy Registry
 
-Inform patients using TRUVADA for HIV-1 treatment or HIV-1 PrEP that there is an antiretroviral pregnancy registry to monitor fetal outcomes of pregnant women exposed to TRUVADA [see Use in Specific Populations (8.1)].
+Inform individuals using TRUVADA for HIV-1 treatment or HIV-1 PrEP that there is an antiretroviral pregnancy registry to monitor fetal outcomes of pregnant women exposed to TRUVADA [see Use in Specific Populations (8.1)].
 
 Lactation
 

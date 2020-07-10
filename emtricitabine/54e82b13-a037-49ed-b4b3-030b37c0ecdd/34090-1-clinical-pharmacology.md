@@ -122,8 +122,8 @@ Table 11 Drug Interactions: Changes in Pharmacokinetic Parameters for TenofovirS
 | Atazanavir/ Ritonavir | 300/100 once daily | 12 | ↑ 34 (↑ 20 to ↑ 51) | ↑ 37 (↑ 30 to ↑ 45) | ↑ 29 (↑ 21 to ↑ 36) |
 | Darunavir/ RitonavirPrezista Prescribing Information. | 300/100 twice daily | 12 | ↑ 24 (↑ 8 to ↑ 42) | ↑ 22 (↑ 10 to ↑ 35) | ↑ 37 (↑ 19 to ↑ 57) |
 | Indinavir | 800 three times daily × 7 days | 13 | ↑ 14 (↓ 3 to ↑ 33) | ⇔ | ⇔ |
-| Ledipasvir/ SofosbuvirData generated from simultaneous dosing with HARVONI (ledipasvir/sofosbuvir). Staggered administration (12 hours apart) provided similar results., Comparison based on exposures when administered as atazanavir/ritonavir + FTC/TDF. | 90/400 once daily × 10 days | 24 | ↑ 47 (↑ 37 to ↑ 58) | ↑ 35 (↑ 29 to ↑42) | ↑ 47 (↑ 38 to ↑ 57) |
-| Ledipasvir/ Sofosbuvir, Comparison based on exposures when administered as darunavir/ritonavir + FTC/TDF. | 23 | ↑ 64 (↑ 54 to ↑ 74) | ↑ 50 (↑ 42 to ↑ 59) | ↑ 59 (↑ 49 to ↑ 70) |  |
+| Ledipasvir/ SofosbuvirData generated from simultaneous dosing with HARVONI (ledipasvir/sofosbuvir). Staggered administration (12 hours apart) provided similar results.,Comparison based on exposures when administered as atazanavir/ritonavir + FTC/TDF. | 90/400 once daily × 10 days | 24 | ↑ 47 (↑ 37 to ↑ 58) | ↑ 35 (↑ 29 to ↑42) | ↑ 47 (↑ 38 to ↑ 57) |
+| Ledipasvir/ Sofosbuvir,Comparison based on exposures when administered as darunavir/ritonavir + FTC/TDF. | 23 | ↑ 64 (↑ 54 to ↑ 74) | ↑ 50 (↑ 42 to ↑ 59) | ↑ 59 (↑ 49 to ↑ 70) |  |
 | Ledipasvir/ SofosbuvirStudy conducted with ATRIPLA (efavirenz/FTC/TDF) coadministered with HARVONI. | 90/400 once daily × 14 days | 15 | ↑ 79 (↑ 56 to ↑ 104) | ↑ 98 (↑ 77 to ↑ 123) | ↑ 163 (↑ 132 to ↑ 197) |
 | Ledipasvir/ SofosbuvirStudy conducted with COMPLERA (FTC/rilpivirine/TDF) coadministered with HARVONI. | 90/400 once daily × 10 days | 14 | ↑ 32 (↑ 25 to ↑ 39) | ↑ 40 (↑ 31 to ↑ 50) | ↑ 91 (↑ 74 to ↑ 110) |
 | Ledipasvir/ SofosbuvirStudy conducted with TRUVADA (FTC/TDF) + dolutegravir coadministered with HARVONI. | 90/400 once daily × 10 days | 29 | ↑ 61 (↑ 51 to ↑ 72) | ↑ 65 (↑ 59 to ↑ 71) | ↑ 115 (↑ 105 to ↑ 126) |
