@@ -58,7 +58,7 @@ Carcinogenesis, Mutagenesis, Impairment of Fertility: Long-term studies have bee
 Studies investigating the mutagenic potential of midodrine revealed no evidence of mutagenicity.
 Other than the dominant lethal assay in male mice, where no impairment of fertility was observed, there have been no studies on the effects of midodrine on fertility.
 
-Pregnancy:Pregnancy Category C. Midodrine increased the rate of embryo resorption, reduced fetal body weight in rats and rabbits, and decreased fetal survival in rabbits when given in doses 13 (rat) and 7 (rabbit) times the maximum human dose based on body surface area (mg/m2).
+Pregnancy: Midodrine increased the rate of embryo resorption, reduced fetal body weight in rats and rabbits, and decreased fetal survival in rabbits when given in doses 13 (rat) and 7 (rabbit) times the maximum human dose based on body surface area (mg/m2).
 There are no adequate and well-controlled studies in pregnant women.
 Midodrine should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 No teratogenic effects have been observed in studies in rats and rabbits.
