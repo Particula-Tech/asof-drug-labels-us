@@ -16,10 +16,22 @@ Risk of Secondary Infection
 
 Advise the patient to consult a physician if pain develops, redness, itching or inflammation becomes aggravated.
 
-Bausch + Lomb, a division of Valeant Pharmaceuticals North America LLC Bridgewater, NJ 08807 USA
+Distributed by:
 
-© 2018 Bausch & Lomb Incorporated Lotemax is a trademark of Bausch & Lomb Incorporated or its affiliates.
+Bausch + Lomb, a division of
 
-9269102 Flat
+Bausch Health US, LLC
 
-9269202 Folded
+Bridgewater, NJ 08807 USA
+
+Manufactured by:
+
+Bausch & Lomb Incorporated Tampa, FL 33637 USA
+
+LOTEMAX is a trademark of Bausch & Lomb Incorporated or its affiliates.
+
+© 2020 Bausch & Lomb Incorporated or its affiliates
+
+9269203 Folded
+
+9269103 Flat
