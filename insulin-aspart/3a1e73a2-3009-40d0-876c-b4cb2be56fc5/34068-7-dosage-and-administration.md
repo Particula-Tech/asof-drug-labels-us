@@ -52,7 +52,7 @@ Intravenous Administration
 
 ## 2.4 Dosage Adjustment Due to Drug Interactions
 
-- •Dosage adjustment may be needed when NOVOLOG is coadministered with certain drugs [see Drug Interactions (7)].
+- •Dosage adjustment may be needed when NOVOLOG is co-administered with certain drugs [see Drug Interactions (7)].
 
 ## 2.5 Instructions for Mixing with Other Insulins
 

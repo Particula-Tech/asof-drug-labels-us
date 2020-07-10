@@ -8,11 +8,11 @@ NovoLog®
 
 Insulin aspart Injection
 
-10 mL 100 units/mL
+One 10 mL multi-dose vial
+
+100 units/mL (U-100)
 
 Rx only
-
-U-100
 
 # PRINCIPAL DISPLAY PANEL - 3 mL NovoLog PenFill
 
@@ -32,9 +32,10 @@ For Single Patient Use Only
 
 5 cartridges per package
 
-For use with Novo Nordisk 3 mL PenFill® cartridge compatible delivery devices, with or without the addition of a NovoPen® 3 PenMate®, and NovoFine® disposable needles.
+For use with Novo Nordisk 3 mL PenFill® cartridge compatible delivery devices and NovoFine® disposable needles.
 
-Keep in a cold place.
+Keep in a refrigerator at 36oF to 46oF (2oC to 8oC) until first use.
+After first use store out of the refrigerator below 86oF (30oC) for up to 28 days.
 
 Avoid freezing.
 
@@ -60,9 +61,12 @@ For Single Patient Use Only
 
 Rx only
 
-For use with NovoFine®, NovoFine Plus® or NovoTwist® disposable needles.
+For use with NovoFine®, NovoFine® Plus or NovoTwist®
 
-Keep in a cold place.
+disposable needles.
+
+Keep in a refrigerator at 36oF to 46oF (2oC to 8oC) until first use.
+After first use store out of the refrigerator below 86oF (30oC) for up to 28 days.
 
 Avoid freezing.
 
@@ -88,11 +92,10 @@ For subcutaneous use only
 
 Rx Only
 
-Recommended for use with NovoFine®, NovoFine Plus® or NovoTwist® disposable needles.
+Recommended for use with NovoFine®, NovoFine® Plusor NovoTwist® disposable needles.
 
-Keep in a cold place until first use.
-
-Store at 2° - 8°C (36° - 46°F).
+Keep in a refrigerator at 36oF to 46oF (2oC to 8oC) until first use.
+After first use store out of the refrigerator below 86oF (30oC) for up to 28 days.
 
 Avoid freezing.
 

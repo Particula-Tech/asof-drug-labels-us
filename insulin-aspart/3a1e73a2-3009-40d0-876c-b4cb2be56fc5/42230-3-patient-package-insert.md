@@ -247,7 +247,7 @@ NovoLog® is a registered trademark of Novo Nordisk A/S.
 
 Patent Information: http://novonordisk-us.com/patients/products/product-patents.html
 
-© 2002-2019 Novo Nordisk
+© 2019 Novo Nordisk
 
 For information about NovoLog contact:
 
@@ -468,7 +468,7 @@ GeneralInformation about the safe and effective use of NovoLog.
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
-© 2002-2019 Novo Nordisk
+© 2019 Novo Nordisk
 
 Manufactured by:
 
@@ -719,7 +719,7 @@ For more information go to
 
 www.novotraining.com/novologflextouch/us02
 
-© 2002-2019 Novo Nordisk
+© 2019 Novo Nordisk
 
 INSTRUCTIONS FOR USE
 

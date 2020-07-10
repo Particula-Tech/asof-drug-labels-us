@@ -1,6 +1,6 @@
 # 5 WARNINGS AND PRECAUTIONS
 
-## 5.1 Never Share a NOVOLOG FlexPen, NOVOLOG FlexTouch, PenFill Cartridge, or PenFill Cartridge Device Between Patients
+## 5.1 Never Share a NOVOLOG FlexPen, NOVOLOG FlexTouch, PenFill Cartridge, or PenFill Cartridge Device between Patients
 
 NOVOLOG FlexPen, NOVOLOG FlexTouch, PenFill cartridge, and PenFill cartridge devices should never be shared between patients, even if the needle is changed.
 Patients using NOVOLOG vials must never share needles or syringes with another person.
@@ -19,7 +19,7 @@ For patients with type 2 diabetes, dosage adjustments of concomitant anti-diabet
 
 Hypoglycemia is the most common adverse effect of all insulin therapies, including NOVOLOG.
 Severe hypoglycemia can cause seizures, may lead to unconsciousness, may be life threatening or cause death.
-Hypoglycemia can impair concentration ability and reaction time; this may place an individual and others at risk in situations where these abilities are important (e.g. driving or operating other machinery).
+Hypoglycemia can impair concentration ability and reaction time; this may place an individual and others at risk in situations where these abilities are important (e.g., driving or operating other machinery).
 
 Hypoglycemia can happen suddenly and symptoms may differ in each individual and change over time in the same individual.
 Symptomatic awareness of hypoglycemia may be less pronounced in patients with longstanding diabetes in patients with diabetic nerve disease, in patients using medications that block the sympathetic nervous system (e.g., beta-blockers) [see Drug Interactions (7)], or in patients who experience recurrent hypoglycemia.

@@ -2,7 +2,7 @@
 
 Advise the patient to read the FDA-approved patient labeling (Patient Information and Instructions for Use).
 
-Never Share a NOVOLOG FlexPen or a NOVOLOG FlexTouch, PenFill Cartridge or PenFill Cartridge Device Between Patients
+Never Share a NOVOLOG FlexPen or a NOVOLOG FlexTouch, PenFill Cartridge or PenFill Cartridge Device between Patients
 
 Advise patients that they must never share NOVOLOG FlexPen, NOVOLOG FlexTouch, PenFill cartridge or PenFill cartridge devices with another person even if the needle is changed, because doing so carries a risk for transmission of blood-borne pathogens.
 Advise patients using NOVOLOG vials not to share needles or syringes with another person.
@@ -67,7 +67,7 @@ Novo Nordisk®, NOVOLOG®, PenFill®, Novolin®, FlexPen®, FlexTouch®, NovoFin
 
 Patent Information: http://novonordisk-us.com/patients/products/product-patents.html
 
-© 2002-2019 Novo Nordisk
+© 2019 Novo Nordisk
 
 Manufactured by:
 
