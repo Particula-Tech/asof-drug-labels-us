@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "ANDA211816"
+  ],
+  "inn": "chlorpromazine",
+  "labeler": "AuroMedics Pharma LLC",
+  "package_ndcs": [
+    "55150-318-01",
+    "55150-318-25",
+    "55150-319-01",
+    "55150-319-25"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "chlorpromazine hydrochloride",
+      "name": "CHLORPROMAZINE HYDROCHLORIDE"
+    }
+  ],
+  "setid": "07e6144a-b460-4887-b8e2-dd371c14a55c",
+  "source": "dailymed"
+}
