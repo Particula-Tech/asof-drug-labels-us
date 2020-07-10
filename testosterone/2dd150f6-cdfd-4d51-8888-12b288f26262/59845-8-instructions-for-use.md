@@ -64,4 +64,6 @@ Keep Vogelxo and all medicines out of the reach of children.
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration Revised:
 
-Revised 0319
+Revised 4/2020
+
+<

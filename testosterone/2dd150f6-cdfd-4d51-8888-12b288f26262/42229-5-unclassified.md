@@ -4,4 +4,4 @@ MADE IN CANADA
 
 Vogelxo is a registered trademark of Upsher-Smith Laboratories, LLC.
 
-Revised 0817
+Revised 04/2020
