@@ -1,4 +1,4 @@
-Principal Display Panel – Peridex Bottle Label
+# Principal Display Panel – Peridex Bottle Label
 
 NDC 48878-0620-1
 
@@ -28,7 +28,7 @@ No.
 
 70-2010-5520-2
 
-PERIDEX16LBLDL
+PERIDEX16LBLDLB
 
 1 Pint (473ml)
 
