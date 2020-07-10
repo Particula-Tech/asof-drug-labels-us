@@ -42,9 +42,11 @@ In patients with migraine the incidence of bradycardia was 5 percent.
 
 In a coronary artery disease population studied in the Norwegian multi-center trial (see CLINICAL PHARMACOLOGY), the frequency of the principal adverse reactions and the frequency with which these resulted in discontinuation of therapy in the timolol and placebo groups were:
 
-|  | Timolol (n=945) % | Placebo (n=939) % | Timolol (n=945) % | Placebo (n=939) % |
-| --- | --- | --- | --- | --- |
 |  | Adverse ReactionWhen an adverse reaction recurred in a patient, it is listed only once. |  | WithdrawalOnly principal reason for withdrawal in each patient is listed. These adverse reactions can also occur in patients treated for hypertension. |  |
+| --- | --- | --- | --- | --- |
+|  | Timolol | Placebo | Timolol | Placebo |
+|  | (n=945) | (n=939) | (n=945) | (n=939) |
+|  | % | % | % | % |
 | Asthenia or Fatigue | 5 | 1 | <1 | <1 |
 | Heart Rate < 40 beats/minute | 5 | <1 | 4 | <1 |
 | Cardiac Failure-Nonfatal | 8 | 7 | 3 | 2 |
@@ -58,7 +60,7 @@ In a coronary artery disease population studied in the Norwegian multi-center tr
 | Dizziness | 6 | 4 | 1 | 0 |
 | Bronchial Obstruction | 2 | <1 | 1 | <1 |
 
-The following additional adverse effects have been reported in clinical experience with the drug: Body as a Whole: anaphylaxis, extremity pain, decreased exercise tolerance, weight loss, fever; Cardiovascular: cardiac arrest, cardiac failure, cerebral vascular accident, worsening of angina pectoris, worsening of arterial insufficiency, Raynaud's phenomenon, palpitations, vasodilatation; Digestive: gastrointestinal pain, hepatomegaly, vomiting, diarrhea, dyspepsia; Hematologic: nonthrombocytopenic purpura; Endocrine: hyperglycemia, hypoglycemia; Skin: rash, skin irritation, increased pigmentation, sweating, alopecia; Musculoskeletal: arthralgia; Nervous System: local weakness, increase in signs and symptoms of myasthenia gravis; Psychiatric: depression, nightmares, somnolence, insomnia, nervousness, diminished concentration, hallucinations; Respiratory: cough; Special Senses: visual disturbances, diplopia, ptosis, dry eyes; Urogenital: impotence, urination difficulties.
+The following additional adverse effects have been reported in clinical experience with the drug: Body as a Whole: anaphylaxis, extremity pain, decreased exercise tolerance, weight loss, fever; Cardiovascular: cardiac arrest, cardiac failure, cerebral vascular accident, worsening of angina pectoris, worsening of arterial insufficiency, Raynaud’s phenomenon, palpitations, vasodilatation; Digestive: gastrointestinal pain, hepatomegaly, vomiting, diarrhea, dyspepsia; Hematologic: nonthrombocytopenic purpura; Endocrine: hyperglycemia, hypoglycemia; Skin: rash, skin irritation, increased pigmentation, sweating, alopecia; Musculoskeletal: arthralgia; Nervous System: local weakness, increase in signs and symptoms of myasthenia gravis; Psychiatric: depression, nightmares, somnolence, insomnia, nervousness, diminished concentration, hallucinations; Respiratory: cough; Special Senses: visual disturbances, diplopia, ptosis, dry eyes; Urogenital: impotence, urination difficulties.
 
 There have been reports of retroperitoneal fibrosis in patients receiving timolol maleate and in patients receiving other beta-adrenergic blocking agents.
 A causal relationship between this condition and therapy with beta-adrenergic blocking agents has not been established.
@@ -66,7 +68,7 @@ A causal relationship between this condition and therapy with beta-adrenergic bl
 ## Potential Adverse Effects
 
 In addition, a variety of adverse effects not observed in clinical trials with timolol maleate, but reported with other beta-adrenergic blocking agents, should be considered potential adverse effects of timolol.
-Nervous System: Reversible mental depression progressing to catatonia; an acute reversible syndrome characterized by disorientation for time and place, short-term memory loss, emotional lability, slightly clouded sensorium, and decreased performance on neuropsychometrics; Cardiovascular: Intensification of AV block (see CONTRAINDICATIONS); Digestive: Mesenteric arterial thrombosis, ischemic colitis; Hematologic: Agranulocytosis, thrombocytopenic purpura; Allergic: Erythematous rash, fever combined with aching and sore throat, laryngospasm with respiratory distress; Miscellaneous: Peyronie's disease.
+Nervous System: Reversible mental depression progressing to catatonia; an acute reversible syndrome characterized by disorientation for time and place, short-term memory loss, emotional lability, slightly clouded sensorium, and decreased performance on neuropsychometrics; Cardiovascular: Intensification of AV block (see CONTRAINDICATIONS); Digestive: Mesenteric arterial thrombosis, ischemic colitis; Hematologic: Agranulocytosis, thrombocytopenic purpura; Allergic: Erythematous rash, fever combined with aching and sore throat, laryngospasm with respiratory distress; Miscellaneous: Peyronie’s disease.
 
 There have been reports of a syndrome comprising psoriasiform skin rash, conjunctivitis sicca, otitis, and sclerosing serositis attributed to the beta-adrenergic receptor blocking agent, practolol.
 This syndrome has not been reported with timolol.

@@ -9,4 +9,4 @@ Timolol maleate has a molecular weight of 432.50.
 It is a white, odorless, crystalline powder which is soluble in water, methanol, and alcohol.
 
 Timolol maleate is supplied as tablets containing 5 mg, 10 mg and 20 mg timolol maleate for oral administration.
-Inactive ingredients are: colloidal silicon dioxide, croscarmellose sodium, magnesium stearate, microcrystalline cellulose, pregelatinized starch, sodium lauryl sulfate, FD&C Blue #2 aluminum lake, and D&C Yellow #10 aluminum lake.
+Inactive ingredients are: colloidal silicon dioxide, croscarmellose sodium, magnesium stearate, microcrystalline cellulose, pregelatinized starch (corn), sodium lauryl sulfate, FD&C Blue No. 2 aluminum lake, and D&C Yellow No. 10 aluminum lake.

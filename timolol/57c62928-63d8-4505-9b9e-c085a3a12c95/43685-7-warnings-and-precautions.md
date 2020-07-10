@@ -13,6 +13,10 @@ Continued depression of the myocardium with beta-blocking agents over a period o
 At the first sign or symptom of cardiac failure, patients receiving timolol should be digitalized and/or be given a diuretic, and the response observed closely.
 If cardiac failure continues, despite adequate digitalization and diuretic therapy, timolol should be withdrawn.
 
+| Exacerbation of Ischemic Heart Disease Following Abrupt Withdrawal |
+| --- |
+| Hypersensitivity to catecholamines has been observed in patients withdrawn from beta-blocker therapy; exacerbation of angina and, in some cases, myocardial infarction have occurred after abrupt discontinuation of such therapy. When discontinuing chronically administered timolol maleate, particularly in patients with ischemic heart disease, the dosage should be gradually reduced over a period of one to two weeks and the patient should be carefully monitored. If angina markedly worsens or acute coronary insufficiency develops, timolol maleate administration should be reinstituted promptly, at least temporarily, and other measures appropriate for the management of unstable angina should be taken. Patients should be warned against interruption or discontinuation of therapy without the physician’s advice. Because coronary artery disease is common and may be unrecognized, it may be prudent not to discontinue timolol maleate therapy abruptly even in patients treated only for hypertension. |
+
 ## Obstructive Pulmonary Disease
 
 PATIENTS WITH CHRONIC OBSTRUCTIVE PULMONARY DISEASE (e.g., CHRONIC BRONCHITIS, EMPHYSEMA) OF MILD OR MODERATE SEVERITY, BRONCHOSPASTIC DISEASE OR A HISTORY OF BRONCHOSPASTIC DISEASE (OTHER THAN BRONCHIAL ASTHMA OR A HISTORY OF BRONCHIAL ASTHMA, IN WHICH ‘TIMOLOL MALEATE’ IS CONTRAINDICATED, see CONTRAINDICATIONS), SHOULD IN GENERAL NOT RECEIVE BETA-BLOCKERS, INCLUDING ‘TIMOLOL’.
@@ -102,10 +106,10 @@ Such patients may be unresponsive to the usual doses of epinephrine used to trea
 
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility
 
-In a 2 year study of timolol maleate in rats, there was a statistically significant increase in the incidence of adrenal pheochromocytomas in male rats administered 300 mg/kg/day (250 times Based on patient weight of 50 kg. the maximum recommended human dose).
-Similar differences were not observed in rats administered doses equivalent to approximately 20 or 80 times1 the maximum recommended human dose.
+In a 2 year study of timolol maleate in rats, there was a statistically significant increase in the incidence of adrenal pheochromocytomas in male rats administered 300 mg/kg/day (250 times* the maximum recommended human dose).
+Similar differences were not observed in rats administered doses equivalent to approximately 20 or 80 times* the maximum recommended human dose.
 
-In a lifetime study in mice, there were statistically significant increases in the incidence of benign and malignant pulmonary tumors, benign uterine polyps and mammary adenocarcinoma in female mice at 500 mg/kg/day (approximately 400 times1 the maximum recommended human dose), but not at a 5 or 50 mg/kg/day.
+In a lifetime study in mice, there were statistically significant increases in the incidence of benign and malignant pulmonary tumors, benign uterine polyps and mammary adenocarcinoma in female mice at 500 mg/kg/day (approximately 400 times* the maximum recommended human dose), but not at a 5 or 50 mg/kg/day.
 In a subsequent study in female mice, in which postmortem examinations were limited to uterus and lungs, a statistically significant increase in the incidence of pulmonary tumors was again observed at 500 mg/kg/day.
 
 The increased occurrence of mammary adenocarcinoma was associated with elevations in serum prolactin that occurred in female mice administered timolol maleate at 500 mg/kg/day, but not at doses of 5 or 50 mg/kg/day.
@@ -117,18 +121,16 @@ In Ames tests the highest concentrations of timolol employed, 5,000 or 10,000 mc
 In the assays with tester strain TA100, no consistent dose-response relationship was observed, nor did the ratio of test to control revertants reach 2.
 A ratio of 2 is usually considered the criterion for a positive Ames test.
 
-Reproduction and fertility studies in rats showed no adverse effect on male or female fertility at doses up to 125 times1 the maximum recommended human dose.
+Reproduction and fertility studies in rats showed no adverse effect on male or female fertility at doses up to 125 times* the maximum recommended human dose.
 
 ## Pregnancy
 
 ### Teratogenic Effects
 
-#### Pregnancy Category C
-
-Teratogenicity studies with timolol in mice, rats and rabbits at doses up to 50 mg/kg/day (approximately 40 times1 the maximum recommended daily human dose) showed no evidence of fetal malformations.
+Teratogenicity studies with timolol in mice, rats and rabbits at doses up to 50 mg/kg/day (approximately 40 times* the maximum recommended daily human dose) showed no evidence of fetal malformations.
 Although delayed fetal ossification was observed at this dose in rats, there were no adverse effects on postnatal development of offspring.
-Doses of 1000 mg/kg/day (approximately 830 times1 the maximum recommended daily human dose) were maternotoxic in mice and resulted in an increased number of fetal resorptions.
-Increased fetal resorptions were also seen in rabbits at doses of approximately 40 times1 the maximum recommended daily human dose, in this case without apparent maternotoxicity.
+Doses of 1000 mg/kg/day (approximately 830 times* the maximum recommended daily human dose) were maternotoxic in mice and resulted in an increased number of fetal resorptions.
+Increased fetal resorptions were also seen in rabbits at doses of approximately 40 times* the maximum recommended daily human dose, in this case without apparent maternotoxicity.
 There are no adequate and well controlled studies in pregnant women.
 Timolol should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 
@@ -158,3 +160,5 @@ Because elderly patients are likely to have decreased renal function, care shoul
 
 The results from 5 single- and/or multiple-dose PK studies comparing the impact of age on the PK of hydrochlorothiazide, when given in combination with other antihypertensive drugs, were consistent.
 They indicated a mean median increase in Cmax and AUC of 38% and 99% respectively, in elderly relative to younger subjects.
+
+*Based on patient weight of 50 kg.

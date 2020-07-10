@@ -19,13 +19,13 @@ Store at 20° to 25°C (68° to 77°F).
 
 Protect from light.
 
-Usual Adult Dosage: See accom- panying prescribing information.
+Usual Dosage: See accompanying prescribing information.
 
 Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
 Mylan.com
 
-RM0055A10
+RM0055A11
 
 # PRINCIPAL DISPLAY PANEL - 10 mg
 
@@ -48,13 +48,13 @@ Store at 20° to 25°C (68° to 77°F).
 
 Protect from light.
 
-Usual Adult Dosage: See accom- panying prescribing information.
+Usual Dosage: See accompanying prescribing information.
 
 Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
 Mylan.com
 
-RM0221A10
+RM0221A11
 
 # PRINCIPAL DISPLAY PANEL - 20 mg
 
@@ -77,10 +77,10 @@ Store at 20° to 25°C (68° to 77°F).
 
 Protect from light.
 
-Usual Adult Dosage: See accom- panying prescribing information.
+Usual Dosage: See accompanying prescribing information.
 
 Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
 Mylan.com
 
-RM0715A9
+RM0715A10
