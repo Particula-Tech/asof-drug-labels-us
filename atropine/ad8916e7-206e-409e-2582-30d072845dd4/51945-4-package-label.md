@@ -71,3 +71,72 @@ Single-Dose Syringe
 Hospira
 
 ◀ PRESS AND PULL TO OPEN ▶
+
+# PRINCIPAL DISPLAY PANEL - 5 mL Syringe Label - 0409-4910
+
+5 mL Single-dose syringe
+
+NDC 0409-4910-11 Rx only
+
+Atropine Sulfate Inj., USP 0.5 mg/5 mL (0.1 mg/mL)
+
+For intravenous use.
+
+Distributed by Hospira, Inc., Lake Forest, IL 60045 USA
+
+Hospira
+
+RL-5314
+
+# PRINCIPAL DISPLAY PANEL - 5 mL Syringe Carton - 0409-4910
+
+5 mL NDC 0409-4910-11 Rx only
+
+Atropine Sulfate Injection, USP 0.5 mg/5 mL (0.1 mg/mL)
+
+For intravenous use
+
+with male luer lock adapter and 20-Gauge protected needle
+
+Glass LIFESHIELD™ ABBOJECT™ Unit of Use Syringe
+
+Single-dose syringe Discard unused portion
+
+Hospira
+
+◀ PRESS AND PULL TO OPEN
+
+# PRINCIPAL DISPLAY PANEL - 10 mL Syringe Label - 0409-4911
+
+10 mL Single-dose syringe
+
+NDC 0409-4911-11 Rx only
+
+Atropine Sulfate Inj., USP 1 mg/10 mL (0.1 mg/mL)
+
+For intravenous use.
+
+Distributed by Hospira, Inc., Lake Forest, IL 60045 USA
+
+Hospira
+
+RL-5315
+
+# PRINCIPAL DISPLAY PANEL - 10 mL Syringe Carton - 0409-4911
+
+10 mL NDC 0409-4911-11 Rx only
+
+Atropine Sulfate Injection, USP 1 mg/10 mL (0.1 mg/mL)
+
+For intravenous use
+
+with male luer lock adapter and 20-Gauge protected needle
+
+Glass LIFESHIELD™ ABBOJECT™ Unit of Use Syringe
+
+Single-dose syringe.
+Discard unused portion
+
+Hospira
+
+◀ PRESS AND PULL TO OPEN

@@ -7,8 +7,7 @@ Do not administer unless solution is clear and seal is intact.
 Each syringe is intended for single dose only.
 Discard unused portion.
 
-Intravenous administration is usually preferred, but subcutaneous, intramuscular, and endotracheal administration are possible.
-For administration via an endotracheal tube, dilute 1-2 mg in no more than 10 mL of sterile water or normal saline.
+For intravenous administration.
 
 Titrate based on heart rate, PR interval, blood pressure and symptoms.
 

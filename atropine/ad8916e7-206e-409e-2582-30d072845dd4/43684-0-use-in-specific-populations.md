@@ -10,6 +10,10 @@ It also is not known whether atropine can cause fetal harm when given to a pregn
 Trace amounts of atropine was found in breast milk.
 The clinical impact of this is not known.
 
+## 8.4 Pediatric Use
+
+Recommendations for use in pediatric patients are not based on clinical trials.
+
 ## 8.5 Geriatric Use
 
 An evaluation of current literature revealed no clinical experience identifying differences in response between elderly and younger patients.
