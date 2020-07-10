@@ -8,5 +8,5 @@ Topiramate overdose has resulted in severe metabolic acidosis [see Warnings and 
 
 A patient who ingested a dose of topiramate between 96 and 110 g was admitted to a hospital with a coma lasting 20 to 24 hours followed by full recovery after 3 to 4 days.
 
-In the event of overdose, topiramate tablets should be discontinued and general supportive treatment given until clinical toxicity has been diminished or resolved.
+In the event of overdose, topiramate should be discontinued and general supportive treatment given until clinical toxicity has been diminished or resolved.
 Hemodialysis is an effective means of removing topiramate from the body.

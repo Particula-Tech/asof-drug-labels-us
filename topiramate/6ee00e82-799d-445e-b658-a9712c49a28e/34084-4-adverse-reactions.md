@@ -8,9 +8,10 @@ The following serious adverse reactions are discussed in more detail in other se
 - Metabolic Acidosis [see Warnings and Precautions (5.4)]
 - Suicidal Behavior and Ideation [see Warnings and Precautions (5.5)]
 - Cognitive/Neuropsychiatric Adverse Reactions [see Warnings and Precautions (5.6)]
-- Hyperammonemia and Encephalopathy (Without and With Concomitant Valproic Acid [VPA] Use) [see Warnings and Precautions (5.9)]
-- Kidney Stones [see Warnings and Precautions (5.10)]
-- Hypothermia with Concomitant Valproic Acid (VPA) Use [see Warnings and Precautions (5.11)]
+- Serious Skin Reactions [see Warnings and Precautions (5.9)]
+- Hyperammonemia and Encephalopathy (Without and With Concomitant Valproic Acid [VPA] Use) [see Warnings and Precautions (5.10)]
+- Kidney Stones [see Warnings and Precautions (5.11)]
+- Hypothermia with Concomitant Valproic Acid (VPA) Use [see Warnings and Precautions (5.12)]
 
 The data described in the following sections were obtained using topiramate tablets.
 
@@ -36,7 +37,7 @@ The most common (≥2% more frequent than low-dose 50 mg/day topiramate) adverse
 
 Table 5 presents the incidence of adverse reactions occurring in at least 3% of adult and pediatric patients treated with 400 mg/day topiramate and occurring with greater incidence than 50 mg/day topiramate.
 
-Table 5: Adverse Reactions in the High Dose Group As Compared to the Low Dose Group, in Monotherapy Epilepsy Trials (Study 1) in Adult and Pediatric Patients
+Table 5: Adverse Reactions in the High Dose Group As Compared to the Low Dose Group, in Monotherapy Epilepsy Trial (Study 1) in Adult and Pediatric Patients
 
 | Body System Adverse Reaction | Age Group |  |  |  |
 | --- | --- | --- | --- | --- |
@@ -77,7 +78,7 @@ Table 5: Adverse Reactions in the High Dose Group As Compared to the Low Dose Gr
 | Difficulty with concentration or attention | 7 | 10 | 7 | 8 |
 | Difficulty with memory | 1 | 3 | 6 | 11 |
 | Insomnia |  |  | 8 | 9 |
-| Descrease in libido |  |  | 0 | 3 |
+| Decrease in libido |  |  | 0 | 3 |
 | Mood problems | 1 | 8 | 2 | 5 |
 | Personality disorder (behaviour problems) | 0 | 3 |  |  |
 | Psychomotor slowing |  |  | 3 | 5 |
@@ -372,7 +373,7 @@ Laboratory Test Abnormalities
 
 Adult Patients
 
-In addition to changes in serum bicarbonate (i.e., metabolic acidosis), sodium chloride and ammonia, topiramate was associated with changes in several clinical laboratory analytes in randomized, double-blind, placebo-controlled studies [see Warnings and Precautions (5.4, 5.9)].
+In addition to changes in serum bicarbonate (i.e., metabolic acidosis), sodium chloride and ammonia, topiramate was associated with changes in several clinical laboratory analytes in randomized, double-blind, placebo-controlled studies [see Warnings and Precautions (5.4, 5.10)].
 Controlled trials of adjunctive topiramate treatment of adults for partial-onset seizures showed an increased incidence of markedly decreased serum phosphorus (6% topiramate versus 2% placebo), markedly increased serum alkaline phosphatase (3% topiramate versus 1% placebo), and decreased serum potassium (0.4 % topiramate versus 0.1 % placebo).
 
 Pediatric Patients
@@ -388,14 +389,14 @@ Topiramate is not indicated for the preventive treatment of migraine in pediatri
 The following adverse reactions have been identified during post approval use of topiramate.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Body as a Whole-General Disorders: oligohydrosis and hyperthermia [see Warnings and Precautions (5.3)], hyperammonemia, hyperammonemic encephalopathy [see Warnings and Precautions (5.9)], hypothermia with concomitant valproic acid [see Warnings and Precautions (5.11)]
+Body as a Whole-General Disorders: oligohydrosis and hyperthermia [see Warnings and Precautions (5.3)], hyperammonemia, hyperammonemic encephalopathy [see Warnings and Precautions (5.10)], hypothermia with concomitant valproic acid [see Warnings and Precautions (5.12)]
 
 Gastrointestinal System Disorders: hepatic failure (including fatalities), hepatitis, pancreatitis
 
-Skin and Appendage Disorders: bullous skin reactions (including erythema multiforme, Stevens- Johnson syndrome, toxic epidermal necrolysis), pemphigus
+Skin and Appendage Disorders: bullous skin reactions (including erythema multiforme, Stevens- Johnson syndrome, toxic epidermal necrolysis) [see Warnings and Precautions (5.9)], pemphigus
 
-Urinary System Disorders: kidney stones, nephrocalcinosis [see Warnings and Precautions (5.4, 5.10)]
+Urinary System Disorders: kidney stones, nephrocalcinosis [see Warnings and Precautions (5.4, 5.11)]
 
-Vision Disorders: acute myopia, secondary angle closure glaucoma [see Warnings and Precautions (5.1)], maculopathy.
+Vision Disorders: acute myopia, secondary angle closure glaucoma [see Warnings and Precautions (5.1)], maculopathy
 
 Hematological Disorders: decrease of the International Normalized Ratio (INR) or prothrombin time when given concomitantly with vitamin K antagonist anticoagulant medications such as warfarin.

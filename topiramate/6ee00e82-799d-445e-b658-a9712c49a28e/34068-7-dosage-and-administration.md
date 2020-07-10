@@ -54,7 +54,7 @@ The recommended total daily dose of topiramate tablets as adjunctive therapy for
 Titration should begin at 25 mg/day (or less, based on a range of 1 to 3 mg/kg/day) nightly for the first week.
 The dosage should then be increased at 1- or 2-week intervals by increments of 1 to 3 mg/kg/day (administered in two divided doses), to achieve optimal clinical response.
 Dose titration should be guided by clinical outcome.
-The total daily dose should not exceed 400 mg/day
+The total daily dose should not exceed 400 mg/day.
 
 ## 2.3 Dosing for the Preventive Treatment of Migraine
 

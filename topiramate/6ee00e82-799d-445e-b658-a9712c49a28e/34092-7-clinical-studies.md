@@ -148,7 +148,7 @@ Table 12: Efficacy Results in Double-Blind, Placebo-Controlled, Adjunctive Epile
 | Median % Reduction | -5 | -- | -- | -- |  | -- | -- | 15d |  |
 | % Responders | 14 | -- | -- | -- |  | -- | -- | 28g |  |
 | Improvement in Seizure Severityj | 28 | -- | -- | -- |  | -- | -- | 52d |  |
-| Comparisons with placebo: a p=0.080; b p≤0.010; c p≤0.001; d p≤0.050; e p=0.065; f p≤0.005; g p=0.071; h Median % reduction and % responders are reported for PGTC Seizures; i Median % reduction and % responders for drop attacks, i.e., tonic or atonic seizures; j Percentage of subjects who were minimally, much, or very much improved from baseline * For Studies 8 and 9, specified target dosages (<9.3 mg/kg/day) were assigned based on subject's weight to approximate a dosage of 6 mg/kg per day; these dosages corresponded to mg/day dosages of 125, 175, 225, and 400 mg/day. |  |  |  |  |  |  |  |  |  |
+| Comparisons with placebo: a p=0.080; b p≤0.010; c p≤0.001; d p≤0.050; e p=0.065; f p≤0.005; g p=0.071; h Median % reduction and % responders are reported for PGTC seizures; i Median % reduction and % responders for drop attacks, i.e., tonic or atonic seizures; j Percentage of subjects who were minimally, much, or very much improved from baseline * For Studies 8 and 9, specified target dosages (<9.3 mg/kg/day) were assigned based on subject's weight to approximate a dosage of 6 mg/kg per day; these dosages corresponded to mg/day dosages of 125, 175, 225, and 400 mg/day. |  |  |  |  |  |  |  |  |  |
 
 Subset analyses of the antiepileptic efficacy of topiramate tablets in these studies showed no differences as a function of gender, race, age, baseline seizure rate, or concomitant AED.
 
@@ -170,9 +170,7 @@ Effectiveness of treatment was assessed by the reduction in migraine headache fr
 
 In Study 11, a total of 469 patients (416 females, 53 males), ranging in age from 13 to 70 years, were randomized and provided efficacy data.
 Two hundred sixty-five patients completed the entire 26-week double-blind phase.
-The median average daily dosages were 48 mg/day,
-
-88 mg/day and 132 mg/day in the target dose groups of topiramate 50, 100, and 200 mg/day, respectively.
+The median average daily dosages were 48 mg/day, 88 mg/day and 132 mg/day in the target dose groups of topiramate 50, 100, and 200 mg/day, respectively.
 
 The mean migraine headache frequency rate at baseline was approximately 5.5 migraine headaches/28 days and was similar across treatment groups.
 The change in the mean 4-week migraine headache frequency from baseline to the double-blind phase was -1.3, -2.1, and -2.2 in the topiramate 50, 100, and 200 mg/day groups, respectively, versus -0.8 in the placebo group (see Figure 2).

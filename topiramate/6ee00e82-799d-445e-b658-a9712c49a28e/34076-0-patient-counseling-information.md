@@ -42,17 +42,22 @@ Advise women of childbearing potential who are not planning a pregnancy to use e
 Encourage pregnant women using topiramate, to enroll in the North American Antiepileptic Drug (NAAED) Pregnancy Registry.
 The registry is collecting information about the safety of antiepileptic drugs during pregnancy [see Use in Specific Populations (8.1)].
 
+Serious Skin Reactions
+
+Inform patients about the signs of serious skin reactions.
+Instruct patients to immediately inform their healthcare provider at the first appearance of skin rash [see Warnings and Precautions (5.9)].
+
 Hyperammonemia and Encephalopathy
 
 Warn patients about the possible development of hyperammonemia with or without encephalopathy.
 Although hyperammonemia may be asymptomatic, clinical symptoms of hyperammonemic encephalopathy often include acute alterations in level of consciousness and/or cognitive function with lethargy and/or vomiting.
 This hyperammonemia and encephalopathy can develop with topiramate treatment alone or with topiramate treatment with concomitant valproic acid (VPA).
 
-Instruct patients to contact their physician if they develop unexplained lethargy, vomiting, or changes in mental status [see Warnings and Precautions (5.9)].
+Instruct patients to contact their physician if they develop unexplained lethargy, vomiting, or changes in mental status [see Warnings and Precautions (5.10)].
 
 Kidney Stones
 
-Instruct patients, particularly those with predisposing factors, to maintain an adequate fluid intake in order to minimize the risk of kidney stone formation [see Warnings and Precautions (5.10)].
+Instruct patients, particularly those with predisposing factors, to maintain an adequate fluid intake in order to minimize the risk of kidney stone formation [see Warnings and Precautions (5.11)].
 
 Instructions for a Missing Dose
 
@@ -61,4 +66,4 @@ However, if a patient is within 6 hours of taking the next scheduled dose, tell 
 Tell patients that they should not take a double dose in the event of a missed dose.
 Advise patients to contact their healthcare provider if they have missed more than one dose.
 
-11-R-05/2019
+12-R-07/2020

@@ -116,7 +116,7 @@ Oral Contraceptives
 In a pharmacokinetic interaction study in healthy volunteers with a concomitantly administered combination oral contraceptive product containing 1 mg norethindrone (NET) plus 35 mcg ethinyl estradiol (EE), topiramate, given in the absence of other medications at doses of 50 to 200 mg/day, was not associated with statistically significant changes in mean exposure (AUC) to either component of the oral contraceptive.
 In another study, exposure to EE was statistically significantly decreased at doses of 200, 400, and 800 mg/day (18%, 21%, and 30%, respectively) when given as adjunctive therapy in patients taking valproic acid.
 In both studies, topiramate (50 mg/day to 800 mg/day) did not significantly affect exposure to NET and there was no significant dose-dependent change in EE exposure for doses of 50 to 200 mg/day.
-The clinical significance of the changes observed is not known [see Drug Interactions (7.4).
+The clinical significance of the changes observed is not known [see Drug Interactions (7.4)].
 
 Digoxin
 
@@ -157,7 +157,7 @@ The steady-state pharmacokinetics of topiramate were unaffected by concomitant a
 
 Lithium
 
-In patients, the pharmacokinetics of lithium were unaffected during treatment with topiramate at doses of 200 mg/day; however, there was an observed increase in systemic exposure of lithium (27% for Cmax and 26% for AUC) following topiramate doses up to 600 mg/day [see Drug Interactions (7.7).
+In patients, the pharmacokinetics of lithium were unaffected during treatment with topiramate at doses of 200 mg/day; however, there was an observed increase in systemic exposure of lithium (27% for Cmax and 26% for AUC) following topiramate doses up to 600 mg/day [see Drug Interactions (7.7)].
 
 Haloperidol
 

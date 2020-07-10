@@ -72,7 +72,7 @@ In pregnant rabbits administered topiramate (0, 20, 60, and 180 mg/kg/day or 0, 
 Evidence of maternal toxicity (decreased body weight gain, clinical signs, and/or mortality) was seen at 35 mg/kg/day and above.
 The no-effect dose (20 mg/kg/day) for embryofetal developmental toxicity in rabbits is equivalent to the MRHD for epilepsy and approximately 4 times the MRHD for migraine on a mg/m2 basis.
 
-When topiramate (0, 0.2, 4, 20, and 100 mg/kg/day or 0, 2, 20, and 200 mg/kg/day) was administered orally to female rats during the latter part of gestation and throughout lactation, offspring exhibited decreased viability and delayed physical development at 200 mg/kg/day and reductions in pre-and/or postweaning body weight gain at 2 mg/kg/day and above.
+When topiramate (0, 0.2, 4, 20, and 100 mg/kg/day or 0, 2, 20, and 200 mg/kg/day) was administered orally to female rats during the latter part of gestation and throughout lactation, offspring exhibited decreased viability and delayed physical development at 200 mg/kg/day and reductions in pre- and/or postweaning body weight gain at 2 mg/kg/day and above.
 Maternal toxicity (decreased body weight gain, clinical signs) was evident at 100 mg/kg/day or greater.
 In a rat embryofetal development study which included postnatal assessment of offspring, oral administration of topiramate (0, 0.2, 2.5, 30, and 400 mg/kg) to pregnant animals during the period of organogenesis resulted in delayed physical development in offspring at 400 mg/kg/day and persistent reductions in body weight gain in offspring at 30 mg/kg/day and higher.
 The no-effect dose (0.2 mg/kg/day) for pre-and postnatal developmental toxicity in rats is less than the MRHD for epilepsy or migraine on a mg/m2 basis.
@@ -123,7 +123,7 @@ The incidence of these abnormal shifts was 6 % for placebo, 10% for 5 mg/kg/day,
 There was a mean dose-related increase in alkaline phosphatase.
 The significance of these findings is uncertain.
 
-Topiramate produced a dose-related increased incidence of hyperammonemia [see Warnings and Precautions (5.9)].
+Topiramate produced a dose-related increased incidence of hyperammonemia [see Warnings and Precautions (5.10)].
 
 Treatment with topiramate for up to 1 year was associated with reductions in Z SCORES for length, weight, and head circumference [see Warnings and Precautions (5.4), Adverse Reactions (6)].
 
@@ -158,7 +158,7 @@ Abnormally decreased results were observed with topiramate vs placebo treatment 
 
 Notable changes (increases and decreases) from baseline in systolic blood pressure, diastolic blood pressure, and pulse were observed occurred more commonly in pediatric patients treated with topiramate compared to pediatric patients treated with placebo [see Clinical Pharmacology (12.2)].
 
-Preventive treatment of Migraine in Pediatric Patients 6 to 11 Years of Age
+Preventive Treatment of Migraine in Pediatric Patients 6 to 11 Years of Age
 
 Safety and effectiveness in pediatric patients below the age of 12 years have not been established for the preventive treatment of migraine.
 

@@ -14,7 +14,7 @@ Bottles of 100: NDC 29300-115-01
 
 Bottles of 500: NDC 29300-115-05
 
-Bottles of 1000: NDC 29300-115-10
+Bottles of 1,000: NDC 29300-115-10
 
 50 mg Tablet:
 
@@ -26,7 +26,7 @@ Bottles of 100: NDC 29300-116-01
 
 Bottles of 500: NDC 29300-116-05
 
-Bottles of 1000: NDC 29300-116-10
+Bottles of 1,000: NDC 29300-116-10
 
 100 mg Tablet:
 
@@ -38,7 +38,7 @@ Bottles of 100: NDC 29300-117-01
 
 Bottles of 500: NDC 29300-117-05
 
-Bottles of 1000: NDC 29300-117-10
+Bottles of 1,000: NDC 29300-117-10
 
 200 mg Tablet:
 
@@ -50,7 +50,7 @@ Bottles of 100: NDC 29300-118-01
 
 Bottles of 500: NDC 29300-118-05
 
-Bottles of 1000: NDC 29300-118-10
+Bottles of 1,000: NDC 29300-118-10
 
 ## 16.2 Storage and Handling.
 
