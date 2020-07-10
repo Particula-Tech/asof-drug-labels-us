@@ -1,0 +1,10 @@
+# DOSAGE AND ADMINISTRATION
+
+Because of the varied individual responses to tranquilizers and anticholinergics, the optimum dosage of Chlordiazepoxide Hydrochloride and Clidinium Bromide Capsules vary with the diagnosis and response of the individual patient.
+The dosage, therefore, should be individualized for maximum beneficial effects.
+The usual maintenance dose is 1 or 2 capsules, 3 or 4 times a day administered before meals and at bedtime.
+
+## Geriatric Dosing
+
+Dosage should be limited to the smallest effective amount to preclude the development of ataxia, oversedation or confusion.
+The initial dose should not exceed 2 Chlordiazepoxide Hydrochloride and Clidinium Bromide capsules per day, to be increased gradually as needed and tolerated.

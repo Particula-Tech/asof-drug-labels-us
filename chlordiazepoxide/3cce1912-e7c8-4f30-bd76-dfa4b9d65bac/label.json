@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA211421"
+  ],
+  "inn": "chlordiazepoxide",
+  "labeler": "Sunrise Pharmaceutical, Inc.",
+  "package_ndcs": [
+    "11534-197-01"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "chlordiazepoxide hydrochloride and clidinium bromide",
+      "name": "Chlordiazepoxide Hydrochloride and Clidinium Bromide"
+    }
+  ],
+  "setid": "3cce1912-e7c8-4f30-bd76-dfa4b9d65bac",
+  "source": "dailymed"
+}
