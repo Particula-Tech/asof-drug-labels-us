@@ -2,7 +2,7 @@
 
 ## 14.1 Newly Diagnosed Multiple Myeloma
 
-Combination treatment with Lenalidomide and Dexamethasone in Patients Ineligible for Autologous Stem Cell Transplant
+Combination Treatment with Lenalidomide and Dexamethasone in Patients Ineligible for Autologous Stem Cell Transplant
 
 MAIA (NCT02252172), an open-label, randomized, active-controlled Phase 3 study, compared treatment with DARZALEX 16 mg/kg in combination with lenalidomide and low-dose dexamethasone (DRd) to treatment with lenalidomide and low-dose dexamethasone (Rd) in patients with newly diagnosed multiple myeloma ineligible for autologous stem cell transplant.
 Lenalidomide (25 mg once daily orally on Days 1–21 of repeated 28-day [4-week] cycles) was given with low dose oral or intravenous dexamethasone 40 mg/week (or a reduced dose of 20 mg/week for patients >75 years or body mass index [BMI] <18.5).
@@ -37,7 +37,7 @@ Table 20: Additional Efficacy Results From MAIABased on intent-to-treat populati
 | p-value | <0.0001 |  |
 | VGPR or better (sCR + CR + VGPR) | 292 (79.3%) | 196 (53.1%) |
 | p-value | <0.0001 |  |
-| MRD negativity rate, Based on threshold of 10-5 using a next-generation sequencing assay (ClonoSEQ). n(%) | 89 (24.2%) | 27 (7.3%) |
+| MRD negativity rate, Based on threshold of 10-5 using a next-generation sequencing assay (clonoSEQ). n(%) | 89 (24.2%) | 27 (7.3%) |
 | 95% CI (%) | (19.9%, 28.9%) | (4.9%, 10.5%) |
 | p-valuep-value from Fisherʼs exact test | <0.0001 |  |
 | MRD negativity rate in patients with CR or better |  |  |
@@ -61,11 +61,18 @@ The baseline demographic and disease characteristics were similar between the tw
 The median age was 71 (range: 40–93) years, with 30% of the patients ≥75 years of age.
 The majority were white (85%), female (54%), 25% had an ECOG performance score of 0, 50% had an ECOG performance score of 1 and 25% had an ECOG performance score of 2.
 Nineteen percent of patients had ISS Stage I, 42% had ISS Stage II and 38% had ISS Stage III disease.
-Efficacy was evaluated by PFS based on IMWG criteria.
+Efficacy was evaluated by PFS based on IMWG criteria and overall survival (OS).
 
-ALCYONE demonstrated an improvement in PFS in the D-VMP arm as compared to the VMP arm; the median PFS had not been reached in the D-VMP arm and was 18.1 months (95% CI:16.53, 19.91) in the VMP arm (HR=0.5; 95% CI: 0.38, 0.65; p<0.0001), representing 50% reduction in the risk of disease progression or death in patients treated with D-VMP.
+ALCYONE demonstrated an improvement in PFS in the D-VMP arm as compared to the VMP arm (HR=0.50; 95% CI: 0.38, 0.65; p<0.0001), representing a 50% reduction in the risk of disease progression or death in patients treated with D-VMP.
+After a median follow-up of 40 months, the median PFS was 36.4 months (95% CI: 32.1, 45.9) in the D-VMP arm and 19.3 months (95% CI: 18.0, 20.4) in the VMP arm.
 
-Figure 2: Kaplan-Meier Curve of PFS in ALCYONE
+| Figure 2: Kaplan-Meier Curve of PFS in ALCYONEPFS median follow-up of 16.5 months |
+| --- |
+
+After a median follow-up of 40 months, ALCYONE demonstrated an improvement in overall survival (OS) in the D-VMP arm as compared to the VMP arm (HR=0.60; 95% CI: 0.46, 0.80; p=0.0003), representing a 40% reduction in the risk of death in patients treated in the D-VMP arm.
+Median OS was not reached for either arm.
+
+Figure 3: Kaplan-Meier Curve of OS in ALCYONE
 
 Additional efficacy results from ALCYONE are presented in Table 21 below.
 
@@ -79,7 +86,7 @@ Table 21: Additional Efficacy Results From ALCYONE
 | Complete response (CR) | 86 (24.6%) | 62 (17.4%) |
 | Very good partial response (VGPR) | 100 (28.6%) | 90 (25.3%) |
 | Partial response (PR) | 69 (19.7%) | 86 (24.2%) |
-| MRD negativity rate, Based on threshold of 10-5 using a next-generation sequencing assay (ClonoSEQ). n(%) | 78 (22.3%) | 22 (6.2%) |
+| MRD negativity rate, Based on threshold of 10-5 using a next-generation sequencing assay (clonoSEQ). n(%) | 78 (22.3%) | 22 (6.2%) |
 | 95% CI (%) | (18.0, 27.0) | (3.9, 9.2) |
 | p-valuep-value from Fisherʼs exact test. | <0.0001 |  |
 | MRD negativity rate in patients with CR or better |  |  |
@@ -140,7 +147,7 @@ Treatment was continued in both arms until disease progression or unacceptable t
 
 A total of 569 patients were randomized; 286 to the DRd arm and 283 to the Rd arm.
 The baseline demographic and disease characteristics were similar between the DARZALEX and the control arm.
-The median patient age was 65 years (range 34 to 89 years), 11% were ≥75 years, 59% were male; 69% Caucasian, 18% Asian, and 3% African American.
+The median patient age was 65 years (range 34 to 89 years), 11% were ≥75 years, 59% were male; 69% White, 18% Asian, and 3% African American.
 Patients had received a median of 1 prior line of therapy.
 Sixty-three percent (63%) of patients had received prior autologous stem cell transplantation (ASCT).
 The majority of patients (86%) received a prior PI, 55% of patients had received a prior immunomodulatory agent, including 18% of patients who had received prior lenalidomide; and 44% of patients had received both a prior PI and immunomodulatory agent.
@@ -148,9 +155,11 @@ At baseline, 27% of patients were refractory to the last line of treatment.
 Eighteen percent (18%) of patients were refractory to a PI only, and 21% were refractory to bortezomib.
 Efficacy was evaluated by PFS based on IMWG criteria.
 
-POLLUX demonstrated an improvement in PFS in the DRd arm as compared to the Rd arm; the median PFS had not been reached in the DRd arm and was 18.4 months in the Rd arm (HR=0.37; 95% CI: 0.27, 0.52; p<0.0001), representing 63% reduction in the risk of disease progression or death in patients treated with DRd.
+POLLUX demonstrated an improvement in PFS in the DRd arm as compared to the Rd arm (HR=0.37; 95% CI: 0.27, 0.52; p<0.0001), representing a 63% reduction in the risk of disease progression or death in patients treated with DRd.
+After a median follow-up of 55 months, the median PFS was 45.0 months (95% CI: 34.1, 53.9) in the DRd arm and was 17.5 months (95% CI: 13.9, 20.8) in the Rd arm.
 
-Figure 4: Kaplan-Meier Curve of PFS in POLLUX
+| Figure 5: Kaplan-Meier Curve of PFS in POLLUXPFS median follow-up of 13.5 months |
+| --- |
 
 Additional efficacy results from POLLUX are presented in Table 23 below.
 
@@ -184,16 +193,18 @@ Dose adjustments for bortezomib and dexamethasone were applied according to manu
 
 A total of 498 patients were randomized; 251 to the DVd arm and 247 to the Vd arm.
 The baseline demographic and disease characteristics were similar between the DARZALEX and the control arm.
-The median patient age was 64 years (range 30 to 88 years); 12% were ≥75 years, 57% were male; 87% Caucasian, 5% Asian and 4% African American.
+The median patient age was 64 years (range 30 to 88 years); 12% were ≥75 years, 57% were male; 87% White, 5% Asian and 4% African American.
 Patients had received a median of 2 prior lines of therapy and 61% of patients had received prior autologous stem cell transplantation (ASCT).
 Sixty-nine percent (69%) of patients had received a prior PI (66% received bortezomib) and 76% of patients received an immunomodulatory agent (42% received lenalidomide).
 At baseline, 32% of patients were refractory to the last line of treatment and the proportions of patients refractory to any specific prior therapy were in general well balanced between the treatment groups.
 Thirty-three percent (33%) of patients were refractory to an immunomodulatory agent only, with 24% patients in the DVd arm and 33% of patients in the Vd arm respectively refractory to lenalidomide.
 Efficacy was evaluated by PFS based on IMWG criteria.
 
-CASTOR demonstrated an improvement in PFS in the DVd arm as compared to the Vd arm; the median PFS had not been reached in the DVd arm and was 7.2 months in the Vd arm (HR [95% CI]: 0.39 [0.28, 0.53]; p-value < 0.0001), representing a 61% reduction in the risk of disease progression or death for patients treated with DVd versus Vd.
+CASTOR demonstrated an improvement in PFS in the DVd arm as compared to the Vd arm (HR=0.39; 95% CI: 0.28, 0.53; p<0.0001), representing a 61% reduction in the risk of disease progression or death for patients treated with DVd versus Vd.
+After a median follow-up of 50 months, the median PFS was 16.7 months (95% CI: 13.1, 19.4) in the DVd arm and was 7.1 months (95% CI: 6.2, 7.7) in the Vd arm.
 
-Figure 5: Kaplan-Meier Curve of PFS in CASTOR
+| Figure 6: Kaplan-Meier Curve of PFS in CASTORPFS median follow-up of 7.4 months |
+| --- |
 
 Additional efficacy results from CASTOR are presented in Table 24 below.
 
@@ -250,7 +261,7 @@ SIRIUS (NCT01985126), was an open-label trial evaluating DARZALEX monotherapy in
 In 106 patients, DARZALEX 16 mg/kg was administered with pre- and post-infusion medication.
 Treatment continued until unacceptable toxicity or disease progression.
 
-The median patient age was 63.5 years (range: 31 to 84 years), 49% were male and 79% were Caucasian.
+The median patient age was 63.5 years (range: 31 to 84 years), 49% were male and 79% were White.
 Patients had received a median of 5 prior lines of therapy.
 Eighty percent of patients had received prior autologous stem cell transplantation (ASCT).
 Prior therapies included bortezomib (99%), lenalidomide (99%), pomalidomide (63%) and carfilzomib (50%).
@@ -276,7 +287,7 @@ Study GEN501 (NCT00574288) was an open-label dose escalation trial evaluating DA
 In 42 patients, DARZALEX 16 mg/kg was administered with pre- and post-infusion medication.
 Treatment continued until unacceptable toxicity or disease progression.
 
-The median patient age was 64 years (range: 44 to 76 years), 64% were male and 76% were Caucasian.
+The median patient age was 64 years (range: 44 to 76 years), 64% were male and 76% were White.
 Patients in the study had received a median of 4 prior lines of therapy.
 Seventy-four percent of patients had received prior ASCT.
 Prior therapies included bortezomib (100%), lenalidomide (95%), pomalidomide (36%) and carfilzomib (19%).

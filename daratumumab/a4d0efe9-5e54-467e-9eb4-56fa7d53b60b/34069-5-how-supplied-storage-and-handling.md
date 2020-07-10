@@ -1,6 +1,6 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-## 16.1 How Supplied
+How Supplied
 
 DARZALEX is a colorless to pale yellow, preservative-free solution for intravenous infusion supplied as:
 
@@ -8,7 +8,7 @@ NDC 57894-502-05 contains one 100 mg/5 mL single-dose vial
 
 NDC 57894-502-20 contains one 400 mg/20 mL single-dose vial
 
-## 16.2 Storage and Stability
+Storage and Stability
 
 Store in a refrigerator at 2°C to 8°C (36°F to 46°F).
 

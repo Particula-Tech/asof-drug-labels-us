@@ -11,6 +11,10 @@ A subset of myeloid derived suppressor cells (CD38+MDSCs), regulatory T cells (C
 NK cells express CD38 and are susceptible to daratumumab mediated cell lysis.
 Decreases in absolute counts and percentages of total NK cells (CD16+CD56+) and activated (CD16+CD56dim) NK cells in peripheral whole blood and bone marrow were observed with DARZALEX treatment.
 
+Exposure-Response Relationship
+
+The exposure-response relationship and time course of pharmacodynamics of DARZALEX have not been fully characterized.
+
 Cardiac Electrophysiology
 
 DARZALEX as a large protein has a low likelihood of direct ion channel interactions.

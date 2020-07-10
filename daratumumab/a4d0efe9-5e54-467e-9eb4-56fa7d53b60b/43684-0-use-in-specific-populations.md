@@ -4,19 +4,25 @@
 
 Risk Summary
 
-There are no human data to inform a risk with use of DARZALEX during pregnancy.
-Animal studies have not been conducted.
-However, there are clinical considerations (see Clinical Considerations).
+DARZALEX can cause fetal harm when administered to a pregnant woman.
+The assessment of associated risks with daratumumab products is based on the mechanism of action and data from target antigen CD38 knockout animal models (see Data).
+There are no available data on the use of DARZALEX in pregnant women to evaluate drug-associated risk of major birth defects, miscarriage or adverse maternal or fetal outcomes.
+Animal reproduction studies have not been conducted.
+
 The estimated background risk of major birth defects and miscarriage for the indicated population is unknown.
 All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
-In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2–4% and 15–20%, respectively.
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively.
+
+The combination of DARZALEX and lenalidomide, pomalidomide, or thalidomide is contraindicated in pregnant women, because lenalidomide, pomalidomide, and thalidomide may cause birth defects and death of the unborn child.
+Lenalidomide, pomalidomide, and thalidomide are only available through a REMS program.
+Refer to the lenalidomide, pomalidomide, or thalidomide prescribing information on use during pregnancy.
 
 Clinical Considerations
 
 Fetal/Neonatal Adverse Reactions
 
 Immunoglobulin G1 (IgG1) monoclonal antibodies are transferred across the placenta.
-Based on its mechanism of action, DARZALEX may cause fetal myeloid or lymphoid-cell depletion and decreased bone density.
+Based on its mechanism of action, DARZALEX may cause depletion of fetal CD38 positive immune cells and decreased bone density.
 Defer administering live vaccines to neonates and infants exposed to DARZALEX in utero until a hematology evaluation is completed.
 
 Data
@@ -24,23 +30,30 @@ Data
 Animal Data
 
 Mice that were genetically modified to eliminate all CD38 expression (CD38 knockout mice) had reduced bone density at birth that recovered by 5 months of age.
-In cynomolgus monkeys exposed during pregnancy to other monoclonal antibodies that affect leukocyte populations, infant monkeys had a reversible reduction in leukocytes.
+Data from studies using CD38 knockout animal models also suggest the involvement of CD38 in regulating humoral immune responses (mice), feto-maternal immune tolerance (mice), and early embryonic development (frogs).
 
 ## 8.2 Lactation
 
 Risk Summary
 
-There is no information regarding the presence of daratumumab in human milk, the effects on the breastfed child, or the effects on milk production.
-Human IgG is known to be present in human milk.
+There is no data on the presence of daratumumab in human milk, the effects on the breastfed child, or the effects on milk production.
+Maternal immunoglobulin G is known to be present in human milk.
 Published data suggest that antibodies in breast milk do not enter the neonatal and infant circulations in substantial amounts.
-
-The developmental and health benefits of breast-feeding should be considered along with the mother's clinical need for DARZALEX and any potential adverse effects on the breast-fed child from DARZALEX or from the underlying maternal condition.
+Because of the potential for serious adverse reactions in the breastfed child when DARZALEX is administered with lenalidomide, pomalidomide, or thalidomide, advise women not to breastfeed during treatment with DARZALEX.
+Refer to lenalidomide, pomalidomide, or thalidomide prescribing information for additional information.
 
 ## 8.3 Females and Males of Reproductive Potential
 
+DARZALEX can cause fetal harm when administered to a pregnant woman [see Use in Specific Populations (8.1)].
+
+Pregnancy Testing
+
+With the combination of DARZALEX with lenalidomide, pomalidomide, or thalidomide, refer to the lenalidomide, pomalidomide, or thalidomide labeling for pregnancy testing requirements prior to initiating treatment in females of reproductive potential.
+
 Contraception
 
-To avoid exposure to the fetus, women of reproductive potential should use effective contraception during treatment and for 3 months after cessation of DARZALEX treatment.
+Advise females of reproductive potential to use effective contraception during treatment with DARZALEX and for 3 months after the last dose.
+Additionally, refer to the lenalidomide, pomalidomide, or thalidomide labeling for additional recommendations for contraception.
 
 ## 8.4 Pediatric Use
 
