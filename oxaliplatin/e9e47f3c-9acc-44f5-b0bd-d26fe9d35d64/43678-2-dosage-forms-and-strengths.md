@@ -1,3 +1,3 @@
 # 3 DOSAGE FORMS AND STRENGTHS
 
-Oxaliplatin for injection is supplied in single-use vials containing 50 mg or 100 mg of oxaliplatin as a sterile, preservative-free lyophilized powder for reconstitution.
+Lyophilized powder for reconstitution: 50 mg or 100 mg in a single-dose vial

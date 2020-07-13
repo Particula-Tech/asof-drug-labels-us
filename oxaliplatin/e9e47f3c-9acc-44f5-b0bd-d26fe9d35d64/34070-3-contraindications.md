@@ -1,3 +1,4 @@
 # 4 CONTRAINDICATIONS
 
-Oxaliplatin for injection, USP should not be administered to patients with a history of known allergy to oxaliplatin for injection, USP or other platinum compounds [see Warnings and Precautions (5.1)].
+Oxaliplatin for Injection is contraindicated in patients with a history of a hypersensitivity reaction to oxaliplatin or other platinum-based drugs.
+Reactions have included anaphylaxis [see Warnings and Precautions (5.1)].
