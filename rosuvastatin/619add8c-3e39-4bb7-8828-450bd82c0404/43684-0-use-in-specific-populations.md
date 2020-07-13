@@ -68,14 +68,14 @@ Elderly patients are at higher risk of myopathy and EZALLOR Sprinkle should be p
 ## 8.6 Renal Impairment
 
 Rosuvastatin exposure is not influenced by mild to moderate renal impairment (CLcr ≥ 30 mL/min/1.73 m2).
-Exposure to rosuvastatin is increased to a clinically significant extent in patients with severe renal impairment (CLcr <30 mL/min/1.73 m2) who are not receiving hemodialysis and dose adjustment is required [see Dosage and Administration (2.5), Warnings and Precautions (5.1) and Clinical Pharmacology (12.3)].
+Exposure to rosuvastatin is increased to a clinically significant extent in patients with severe renal impairment (CLcr <30 mL/min/1.73 m2) who are not receiving hemodialysis and dose adjustment is required [see Dosage and Administration (2.4), Warnings and Precautions (5.1) and Clinical Pharmacology (12.3)].
 
 ## 8.7 Hepatic Impairment
 
 EZALLOR Sprinkle is contraindicated in patients with active liver disease, which may include unexplained persistent elevations of hepatic transaminase levels.
-Chronic alcohol liver disease is known to increase rosuvastatin exposure; EZALLOR Sprinkle should be used with caution in these patients [see Contraindications (4), Warning and Precautions (5.2) and Clinical Pharmacology (12.3)].
+Chronic alcohol liver disease is known to increase rosuvastatin exposure; EZALLOR Sprinkle should be used with caution in these patients [see Contraindications (4), Warning and Precautions (5.3) and Clinical Pharmacology (12.3)].
 
 ## 8.8 Asian Patients
 
 Pharmacokinetic studies have demonstrated an approximate 2-fold increase in median exposure to rosuvastatin in Asian subjects when compared with Caucasian controls.
-EZALLOR Sprinkle dosage should be adjusted in Asian patients [see Dosage and Administration (2.3) and Clinical Pharmacology (12.3)].
+EZALLOR Sprinkle dosage should be adjusted in Asian patients [see Dosage and Administration (2.2) and Clinical Pharmacology (12.3)].

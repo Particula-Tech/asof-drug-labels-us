@@ -94,9 +94,16 @@ Effect of Coadministered Drugs on Rosuvastatin Systemic Exposure
 | --- | --- | --- | --- |
 |  |  | Mean Ratio (ratio with/without coadministered drug) No Effect = 1 |  |
 |  | Dose (mg)1 | Change in AUC | Change in Cmax |
+| Sofosbuvir/velpatasvir/voxilaprevir (400 mg-100 mg-100 mg) + Voxilaprevir (100 mg) once daily for 15 days | 10 mg single dose | 7.392 (6.68 to 8.18) 3 | 18.882 (16.23 to 21.96) 3 |
 | Cyclosporine - stable dose required (75 mg to 200 mg BID) | 10 mg QD for 10 days | 7.12 | 112 |
+| Darolutamide 600 mg BID, 5 days | 5mg, single dose | 5.22 | ~52 |
+| Regorafenib 160mg OD, 14 days | 5 mg single dose | 3.82 | 4.62 |
 | Atazanavir/ritonavir combination 300 mg/100 mg QD for 8 days | 10 mg | 3.12 | 72 |
 | Simeprevir 150 mg QD, 7 days | 10 mg, single dose | 2.82 (2.3 to 3.4)3 | 3.22 (2.6 to 3.9)3 |
+| Velpatasvir 100mg once daily | 10 mg single dose | 2.692 (2.46 to 2.94) 3 | 2.612 (2.32 to 2.92)3 |
+| Ombitasvir 25mg/paritaprevir 150mg/ ritonavir 100mg + dasabuvir 400mg BID | 5mg single dose | 2.592 (2.09 to 3.21) 3 | 7.132 (5.11 to 9.96)3 |
+| Elbasvir 50mg/grazoprevir 200mg once daily | 10mg single dose | 2.262 (1.89 to 2.69) 3 | 5.492 (4.29 to 7.04)3 |
+| Glecaprevir 400mg/pibrentasvir 120mg once daily | 5mg once daily | 2.152 (1.88 to 2.46) 3 | 5.622 (4.80 to 6.59)3 |
 | Lopinavir/ritonavir combination 400 mg/100 mg BID for 17 days | 20 mg QD for 7 days | 2.12 (1.7 to 2.6)3 | 52 (3.4 to 6.4)3 |
 | Gemfibrozil 600 mg BID for 7 days | 80 mg | 1.92 (1.6 to 2.2)3 | 2.22 (1.8 to 2.7)3 |
 | Eltrombopag 75 mg QD, 5 days | 10 mg | 1.6 (1.4 to 1.7)3 | 2 (1.8 to 2.3)3 |
@@ -138,7 +145,7 @@ Effect of Rosuvastatin Coadministration on Systemic Exposure to Other Drugs
 
 EE = ethinyl estradiol, NG = norgestrel
 
-1 Clinically significant pharmacodynamic effects [see Warnings and Precautions (5.3)]
+1 Clinically significant pharmacodynamic effects [see Warnings and Precautions (5.4)]
 
 2 Mean ratio with 90% CI (with/without coadministered drug, e.g., 1= no change, 0.7=30% decrease, 11=11-fold increase in exposure)
 
