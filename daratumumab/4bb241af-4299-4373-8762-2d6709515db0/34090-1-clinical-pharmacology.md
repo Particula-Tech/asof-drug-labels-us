@@ -30,7 +30,7 @@ The exposure-response relationship and time course of pharmacodynamics of DARZAL
 ## 12.3 Pharmacokinetics
 
 Following the administration of the recommended dose of DARZALEX FASPRO 1,800 mg/30,000 units (1,800 mg daratumumab and 30,000 units hyaluronidase) subcutaneously once weekly for 8 weeks, the mean ± standard deviation (SD) maximum trough concentrations (Ctrough following the 8th dose) were 593±306 µg/mL compared to 522±226 µg/mL for daratumumab 16 mg/kg administered intravenously, with a geometric mean ratio of 108% (90% CI: 96, 122).
-The estimated median daratumumab area under the concentration-time curves (AUC0–7 days) and daratumumab peak concentration (Cmax) following the 8th dose were comparable between DARZALEX FASPRO and intravenous daratumumab (4,017 µg/mL∙day vs. 4,019 µg/mL∙day for AUC0–7 days and 592 µg/mL vs. 688 µg/mL for Cmax).
+The estimated median daratumumab area under the concentration-time curves (AUC0–7 days) and daratumumab peak concentration (Cmax) following the 8th dose were comparable between DARZALEX FASPRO and intravenous daratumumab (4017 µg/mL∙day vs. 4,019 µg/mL∙day for AUC0–7 days and 592 µg/mL vs. 688 µg/mL for Cmax).
 
 Following the recommended dose of DARZALEX FASPRO 1,800 mg/30,000 units, Cmax increased 4.8-fold and AUC0–7 days increased 5.4-fold from the 1st dose to the 8th dose.
 

@@ -9,7 +9,7 @@
 ## 2.2 Recommended Dosage
 
 The recommended dose of DARZALEX FASPRO is 1,800 mg/30,000 units (1,800 mg daratumumab and 30,000 units hyaluronidase) administered subcutaneously over approximately 3–5 minutes.
-Tables 1, 2, 3, and 4 provide the recommended dosing schedule when DARZALEX FASPRO is administered as monotherapy or as part of a combination therapy.
+Tables 1, 2, and 3 provide the recommended dosing schedule when DARZALEX FASPRO is administered as monotherapy or as part of a combination therapy.
 
 Monotherapy and In Combination with Lenalidomide and Dexamethasone (D-Rd)
 
@@ -42,26 +42,11 @@ Table 2: DARZALEX FASPRO dosing schedule in combination with bortezomib, melphal
 
 When DARZALEX FASPRO is administered as part of a combination therapy, see Clinical Studies (14.1) and the prescribing information for dosage recommendations for the other drugs.
 
-In Combination with Bortezomib, Thalidomide, and Dexamethasone (D-VTd)
-
-Use the dosing schedule in Table 3 when DARZALEX FASPRO is administered in combination with bortezomib, thalidomide, and dexamethasone (4-week cycle).
-
-Table 3: DARZALEX FASPRO dosing schedule in combination with bortezomib, thalidomide and dexamethasone (4-week cycle)
-
-| Treatment phase | Weeks | Schedule |
-| --- | --- | --- |
-| Induction | Weeks 1 to 8 | weekly (total of 8 doses) |
-| Weeks 9 to 16First dose of the every-2-week dosing schedule is given at Week 9 | every two weeks (total of 4 doses) |  |
-| Stop for high dose chemotherapy and ASCT |  |  |
-| Consolidation | Weeks 1 to 8First dose of the every-2-week dosing schedule is given at Week 1 upon re-initiation of treatment following ASCT | every two weeks (total of 4 doses) |
-
-When DARZALEX FASPRO is administered as part of a combination therapy, see the prescribing information for dosage recommendations for the other drugs.
-
 In Combination with Bortezomib and Dexamethasone (D-Vd)
 
-Use the dosing schedule in Table 4 when DARZALEX FASPRO is administered in combination with bortezomib and dexamethasone (3-week cycle).
+Use the dosing schedule in Table 3 when DARZALEX FASPRO is administered in combination with bortezomib and dexamethasone (3-week cycle).
 
-Table 4: DARZALEX FASPRO dosing schedule in combination with bortezomib and dexamethasone (3-week cycle)
+Table 3: DARZALEX FASPRO dosing schedule in combination with bortezomib and dexamethasone (3-week cycle)
 
 | Weeks | Schedule |
 | --- | --- |

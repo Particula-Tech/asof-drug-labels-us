@@ -30,9 +30,9 @@ Adverse reactions requiring dosage interruptions in >5% of patients included thr
 
 The most common adverse reactions (≥20%) were upper respiratory tract infection, constipation, nausea, fatigue, pyrexia, peripheral sensory neuropathy, diarrhea, cough, insomnia, vomiting, and back pain.
 
-Table 5 summarizes the adverse reactions in patients who received DARZALEX FASPRO with bortezomib, melphalan and prednisone (D-VMP) in PLEIADES.
+Table 4 summarizes the adverse reactions in patients who received DARZALEX FASPRO with bortezomib, melphalan and prednisone (D-VMP) in PLEIADES.
 
-Table 5: Adverse Reactions (≥10%) in Patients Who Received DARZALEX FASPRO with Bortezomib, Melphalan and Prednisone (D-VMP) in PLEIADES
+Table 4: Adverse Reactions (≥10%) in Patients Who Received DARZALEX FASPRO with Bortezomib, Melphalan and Prednisone (D-VMP) in PLEIADES
 
 | All Grades (%) | Grades ≥3 (%) |  |
 | --- | --- | --- |
@@ -80,9 +80,9 @@ Clinically relevant adverse reactions in <10% of patients who received DARZALEX 
 - Respiratory, thoracic and mediastinal disorders: dyspnea, pulmonary edema
 - Cardiac disorders: atrial fibrillation
 
-Table 6 summarizes the laboratory abnormalities in patients who received DARZALEX FASPRO with bortezomib, melphalan and prednisone (D-VMP) in PLEIADES.
+Table 5 summarizes the laboratory abnormalities in patients who received DARZALEX FASPRO with bortezomib, melphalan and prednisone (D-VMP) in PLEIADES.
 
-Table 6: Select Hematology Laboratory Abnormalities Worsening from Baseline in Patients Who Received DARZALEX FASPRO with Bortezomib, Melphalan and Prednisone (D-VMP) in PLEIADES
+Table 5: Select Hematology Laboratory Abnormalities Worsening from Baseline in Patients Who Received DARZALEX FASPRO with Bortezomib, Melphalan and Prednisone (D-VMP) in PLEIADES
 
 | All Grades (%) | Grades 3–4 (%) |  |
 | --- | --- | --- |
@@ -113,9 +113,9 @@ Adverse reactions requiring dosage interruptions in >5% of patients included neu
 
 The most common adverse reactions (≥20%) were fatigue, diarrhea, upper respiratory tract infection, muscle spasms, constipation, pyrexia, pneumonia, and dyspnea.
 
-Table 7 summarizes the adverse reactions in patients who received DARZALEX FASPRO with lenalidomide and dexamethasone (D-Rd) in PLEIADES.
+Table 6 summarizes the adverse reactions in patients who received DARZALEX FASPRO with lenalidomide and dexamethasone (D-Rd) in PLEIADES.
 
-Table 7: Adverse Reactions (≥10%) in Patients Who Received DARZALEX FASPRO with Lenalidomide and Dexamethasone (D-Rd) in PLEIADES
+Table 6: Adverse Reactions (≥10%) in Patients Who Received DARZALEX FASPRO with Lenalidomide and Dexamethasone (D-Rd) in PLEIADES
 
 | All Grades (%) | Grades ≥3 (%) |  |
 | --- | --- | --- |
@@ -160,9 +160,9 @@ Clinically relevant adverse reactions in <10% of patients who received DARZALEX 
 - General disorders and administration site conditions: chills, infusion reaction, injection site reaction
 - Vascular disorders: hypotension, hypertension
 
-Table 8 summarizes the laboratory abnormalities in patients who received DARZALEX FASPRO with lenalidomide and dexamethasone (D-Rd) in PLEIADES.
+Table 7 summarizes the laboratory abnormalities in patients who received DARZALEX FASPRO with lenalidomide and dexamethasone (D-Rd) in PLEIADES.
 
-Table 8: Select Hematology Laboratory Abnormalities Worsening from Baseline in Patients Who Received DARZALEX FASPRO with Lenalidomide and Dexamethasone (D-Rd) in PLEIADES
+Table 7: Select Hematology Laboratory Abnormalities Worsening from Baseline in Patients Who Received DARZALEX FASPRO with Lenalidomide and Dexamethasone (D-Rd) in PLEIADES
 
 | All Grades (%) | Grades 3–4 (%) |  |
 | --- | --- | --- |
@@ -191,9 +191,9 @@ Adverse reactions requiring dosage interruption in >5% of patients included thro
 
 The most common adverse reaction (≥20%) was upper respiratory tract infection.
 
-Table 9 summarizes the adverse reactions in COLUMBA.
+Table 8 summarizes the adverse reactions in COLUMBA.
 
-Table 9: Adverse Reactions (≥10%) in Patients Who Received DARZALEX FASPRO or Intravenous Daratumumab in COLUMBA
+Table 8: Adverse Reactions (≥10%) in Patients Who Received DARZALEX FASPRO or Intravenous Daratumumab in COLUMBA
 
 | All Grades (%) | Grade ≥3 (%) | All Grades (%) | Grade ≥3 (%) |  |
 | --- | --- | --- | --- | --- |
@@ -229,9 +229,9 @@ Clinically relevant adverse reactions in <10% of patients who received DARZALEX 
 - Cardiac disorders: atrial fibrillation
 - Respiratory, thoracic and mediastinal disorders: pulmonary edema
 
-Table 10 summarizes the laboratory abnormalities in COLUMBA.
+Table 9 summarizes the laboratory abnormalities in COLUMBA.
 
-Table 10: Select Hematology Laboratory Abnormalities Worsening from Baseline in Patients Receiving DARZALEX FASPRO or Intravenous Daratumumab in COLUMBA
+Table 9: Select Hematology Laboratory Abnormalities Worsening from Baseline in Patients Receiving DARZALEX FASPRO or Intravenous Daratumumab in COLUMBA
 
 | All Grades (%) | Grades 3–4 (%) | All Grades (%) | Grades 3–4 (%) |  |
 | --- | --- | --- | --- | --- |
