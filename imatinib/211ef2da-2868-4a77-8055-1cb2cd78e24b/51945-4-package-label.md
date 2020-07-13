@@ -1,27 +1,33 @@
-PRINCIPAL DISPLAY PANEL
+# PRINCIPAL DISPLAY PANEL
 
-Package Label – 100 mg Tablets
+NOVARTIS
 
-Rx Only NDC 0078-0401-34
+NDC 0078-0401-34
 
-GLEEVEC® (imatinib mesylate)
+Gleevec® (imatinib mesylate)
 
-90 Tablets
+Tablets
 
 100 mg
 
-Each tablet contains 100 mg of imatinib free base
+Rx only
 
-PRINCIPAL DISPLAY PANEL
+Each tablet contains 100 mg of imatinib free base.
 
-Package Label – 400 mg Tablets
+90 Tablets
 
-Rx Only NDC 0078-0649-30
+# PRINCIPAL DISPLAY PANEL
 
-GLEEVEC® (imatinib mesylate)
+NDC 0078-0649-30
+
+gleevec® (imatinib mesylate) tablets
 
 400 mg per tablet
 
 Each tablet contains 400 mg of imatinib free base
 
 30 Tablets
+
+Rx only
+
+NOVARTIS
