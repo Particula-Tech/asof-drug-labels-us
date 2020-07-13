@@ -27,8 +27,10 @@ Rx Pack: Not for dental professional resale For Subgingival Application Rx only 
 
 For more information, call 1-866-ARESTIN (273-7846) or visit www.ArestinProfessional.com
 
-Manufactured for: OraPharma, a division of Valeant Pharmaceuticals North America LLC Bridgewater, NJ 08807 USA
+Distributed by:
 
-©Valeant Pharmaceuticals North America LLC
+OraPharma, a division of Bausch Health US, LLC Bridgewater, NJ 08807 USA
+
+© 2020 Bausch Health Companies Inc. or its affiliates
 
 Usual Dosage: Please see accompanying full Prescribing Information.

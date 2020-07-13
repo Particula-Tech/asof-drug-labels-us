@@ -1,16 +1,14 @@
 Rx only
 
-Manufactured for:
-
-OraPharma, a division of Valeant Pharmaceuticals North America LLC Bridgewater, NJ 08807 USA
+Distributed by: OraPharma, a division of Bausch Health US, LLC Bridgewater, NJ 08807 USA
 
 U.S. Patent Numbers: 6,682,348 and 7,699,609
 
-Arestin is a trademark of Valeant Pharmaceuticals International, Inc. or its affiliates.
+ARESTIN is a trademark of Bausch Health Companies Inc. or its affiliates.
 
-©Valeant Pharmaceuticals North America LLC
+© 2020 Bausch Health Companies Inc. or its affiliates
 
 Rev.
-12/2017
+06/2020
 
-9546403
+9546404

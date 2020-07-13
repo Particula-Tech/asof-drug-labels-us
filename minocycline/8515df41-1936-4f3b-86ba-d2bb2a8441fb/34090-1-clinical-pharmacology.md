@@ -38,7 +38,7 @@ Table 1: Probing Pocket Depth at Baseline and Change in Pocket Depth at 9 Months
 
 |  | SRP Alone n=124 | SRP + Vehicle n=123 | SRP + ARESTIN n=121 | SRP Alone n=126 | SRP + Vehicle n=126 | SRP + ARESTIN n=128 |
 | --- | --- | --- | --- | --- | --- | --- |
-| Time | Study OPI-103A N=368 |  |  |  | Study OPI-103B N=380 |  |
+| Time | Study OPI-103A N=368 |  |  | Study OPI-103B N=380 |  |  |
 | PD (mm) at Baseline | 5.88 ±0.04 | 5.91 ±0.04 | 5.88 ±0.04 | 5.79 ±0.03 | 5.82 ±0.04 | 5.81 ±0.04 |
 | [Mean ± SE] |  |  |  |  |  |  |
 | PD (mm) Change from Baseline at 9 Months [Mean ± SE] | -1.04 ±0.07 | -0.90±0.54 | -1.20*††±0.07 | -1.32±0.07 | -1.30±0.07 | -1.63**††±0.07 |
@@ -71,7 +71,7 @@ Table 3: Mean Pocket Depth Changes (SE) in Subpopulations, Studies 103A and 103B
 | Subjects ≤50 YOA | n=167 -1.24 (±0.06) mm | n=168 -1.19 (±0.06) mm | n=142 -1.43 (±0.07) mm* |
 | Subjects with CV Disease | n=36 -0.99 (±0.13) mm | n=29 -1.06 (±0.14) mm | n=36 -1.56 (±0.14) mm** |
 | Subjects without CV Disease | n=214 -1.22 (±0.06) mm | n=220 -1.11 (±0.05) mm | n=213 -1.40 (±0.06) mm** |
-| SRP = scaling and root planing; YOA = years of age; CV = cardiovascular *SRP vs SRP + ARESTIN P ≤0.05; **SRP vs SRP + ARESTIN P ≤0.001 |  |  |  |
+| SRP = scaling and root planing; YOA = years of age; CV = cardiovascular *SRP vs SRP + ARESTIN P≤0.05; **SRP vs SRP + ARESTIN P≤0.001 |  |  |  |
 
 In both studies, the following patient subgroups were prospectively analyzed: smokers, subjects over and under 50 years of age, and subjects with a previous history of cardiovascular disease.
 The results of the combined studies are presented in Table 3.
@@ -86,5 +86,7 @@ Table 4: Mean Pocket Depth Change in Subjects with Mean Baseline PD ≥5 mm, ≥
 | ≥5 mm (n) | -1.04 mm(124) | -0.90 mm(123) | -1.20 mm*(121) | -1.32 mm(126) | -1.30 mm(126) | -1.63 mm*(128) |
 | ≥6 mm (n) | -0.91 mm(34) | -0.77 mm(46) | -1.40 mm*(45) | -1.33 mm(37) | -1.46 mm(40) | -1.69 mm*(25) |
 | ≥7 mm (n) | -1.10 mm(4) | -0.46 mm(5) | -1.91 mm(3) | -1.72 mm(3) | -1.11 mm(3) | -2.84 mm(2) |
+
+*Statistically significant comparison between SRP + ARESTIN and SRP alone
 
 The combined data from these 2 studies also show that for pockets 5 mm to 7 mm at baseline, greater reductions in pocket depth occurred in pockets that were deeper at baseline.

@@ -26,4 +26,4 @@ Table 5: Adverse Events (AEs) Reported in ≥3% of the Combined Clinical Trial P
 
 The change in clinical attachment levels was similar across all study arms, suggesting that neither the vehicle nor ARESTIN compromise clinical attachment.
 
-To report SUSPECTED ADVERSE REACTIONS, contact Valeant Pharmaceuticals North America LLC at 1-800-321-4576 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
+To report SUSPECTED ADVERSE REACTIONS, contact OraPharma at 1-800-321-4576 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
