@@ -226,4 +226,4 @@ In the two studies, clinical myocardial infarction was reported in 2 (0.1%) of p
 
 The following adverse reactions have been identified during post approval use of PRADAXA.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
-The following adverse reactions have been identified during post approval use of PRADAXA: angioedema, thrombocytopenia, esophageal ulcer, alopecia.
+The following adverse reactions have been identified during post approval use of PRADAXA: angioedema, thrombocytopenia, esophageal ulcer, alopecia, neutropenia, agranulocytosis.

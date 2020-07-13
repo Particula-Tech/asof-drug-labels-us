@@ -2,6 +2,6 @@ Distributed by: Boehringer Ingelheim Pharmaceuticals, Inc. Ridgefield, CT 06877 
 
 PRADAXA is a registered trademark of and used under license from Boehringer Ingelheim International GmbH.
 
-Copyright 2019 Boehringer Ingelheim Pharmaceuticals, Inc. ALL RIGHTS RESERVED
+Copyright 2020 Boehringer Ingelheim Pharmaceuticals, Inc. ALL RIGHTS RESERVED
 
-IT5060AMK252019
+IT5060ANG062020
