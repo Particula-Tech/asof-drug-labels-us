@@ -23,13 +23,13 @@
   "products": [
     {
       "form": "CREAM",
-      "generic": "tretionin",
-      "name": "Tretionin"
+      "generic": "tretinoin",
+      "name": "Tretinoin"
     },
     {
       "form": "GEL",
-      "generic": "tretionin",
-      "name": "Tretionin"
+      "generic": "tretinoin",
+      "name": "Tretinoin"
     }
   ],
   "setid": "ba377a5e-e48a-4bd9-9d76-929d70793396",
