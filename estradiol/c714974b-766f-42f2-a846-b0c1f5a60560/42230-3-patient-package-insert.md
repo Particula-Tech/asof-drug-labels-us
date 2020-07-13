@@ -270,11 +270,11 @@ Step 6: Throwing away your used patch.
 This Patient Information and Instructions for Use have been approved by the U.S Food and Drug Administration.
 
 Rev.
-Oct 2017
+Jun 2020
 
 Manufactured by:
 
-3M Drug Delivery Systems
+Kindeva Drug Delivery L.P.
 
 Northridge, CA 91324
 
