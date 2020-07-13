@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "BLA761170"
+  ],
+  "inn": "hyaluronidase-human-recombinant",
+  "labeler": "Genentech, Inc.",
+  "package_ndcs": [
+    "50242-245-01",
+    "50242-260-01"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "pertuzumab, trastuzumab, and hyaluronidase-zzxf",
+      "name": "Phesgo"
+    }
+  ],
+  "setid": "27dd5e6b-72cd-458d-a015-cf4dab5800da",
+  "source": "dailymed"
+}

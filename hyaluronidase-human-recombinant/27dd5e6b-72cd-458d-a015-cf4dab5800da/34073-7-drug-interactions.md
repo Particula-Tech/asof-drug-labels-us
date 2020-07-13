@@ -1,0 +1,5 @@
+# 7 DRUG INTERACTIONS
+
+Patients who receive anthracycline after stopping PHESGO may be at increased risk of cardiac dysfunction because of PHESGO's long washout period [see Clinical Pharmacology (12.3)].
+If possible, avoid anthracycline-based therapy for up to 7 months after stopping PHESGO.
+If anthracyclines are used, carefully monitor the patient's cardiac function.
