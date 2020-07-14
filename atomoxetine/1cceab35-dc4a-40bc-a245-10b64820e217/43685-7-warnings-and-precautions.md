@@ -120,7 +120,7 @@ Data on the long-term effects of atomoxetine on growth come from open-label stud
 In general, the weight and height gain of pediatric patients treated with atomoxetine lags behind that predicted by normative population data for about the first 9 to 12 months of treatment.
 Subsequently, weight gain rebounds and at about 3 years of treatment, patients treated with atomoxetine have gained 17.9 kg on average, 0.5 kg more than predicted by their baseline data.
 After about 12 months, gain in height stabilizes, and at 3 years, patients treated with atomoxetine have gained 19.4 cm on average, 0.4 cm less than predicted by their baseline data (see Figure 1 below).
-Figure 1: Mean Weight and Height Percentiles Over Time for Patients With Three Years of Atomoxetine Treatment This growth pattern was generally similar regardless of pubertal status at the time of treatment initiation.
+Figure 1: Mean Weight and Height Percentiles Over Time for Patients with Three Years of Atomoxetine Treatment This growth pattern was generally similar regardless of pubertal status at the time of treatment initiation.
 Patients who were pre-pubertal at the start of treatment (girls ≤8 years old, boys ≤9 years old) gained an average of 2.1 kg and 1.2 cm less than predicted after three years.
 Patients who were pubertal (girls >8 to ≤13 years old, boys >9 to ≤14 years old) or late pubertal (girls >13 years old, boys >14 years old) had average weight and height gains that were close to or exceeded those predicted after three years of treatment.
 Growth followed a similar pattern in both extensive and poor metabolizers (EMs, PMs).
@@ -138,7 +138,7 @@ Laboratory tests are available to identify CYP2D6 PMs.
 The blood levels in PMs are similar to those attained by taking strong inhibitors of CYP2D6.
 The higher blood levels in PMs lead to a higher rate of some adverse effects of atomoxetine [see Adverse Reactions (6.1)].
 
-## 5.13 Concomitant Use of Potent CYP2D6 Inhibitors or Use in patients who are known to be CYP2D6 PMs
+## 5.13 Concomitant Use of Potent CYP2D6 Inhibitors or Use in Patients who are known to be CYP2D6 PMs
 
 Atomoxetine is primarily metabolized by the CYP2D6 pathway to 4-hydroxyatomoxetine.
 Dosage adjustment of atomoxetine may be necessary when coadministered with potent CYP2D6 inhibitors (e.g., paroxetine, fluoxetine, and quinidine) or when administered to CYP2D6 PMs [see Dosage and Administration (2.4) and Drug Interactions (7.2)].

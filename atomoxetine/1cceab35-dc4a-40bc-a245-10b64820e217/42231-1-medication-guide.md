@@ -107,8 +107,15 @@ Before starting atomoxetine capsules tell your doctor or your child’s doctor a
 - heart problems, heart defects, irregular heart beat, high blood pressure, or low blood pressure
 - mental problems, psychosis, mania, bipolar illness, or depression
 - liver problems
-
-Tell your doctor if you or your child is pregnant, planning to become pregnant, or breastfeeding.
+- are pregnant or plan to become pregnant.
+  It is not known if atomoxetine capsules will harm your unborn baby.
+  Talk to your doctor if you are pregnant or plan to become pregnant.
+  - There is a pregnancy registry for females who are exposed to ADHD medications, including atomoxetine capsules, during pregnancy.
+    The purpose of the registry is to collect information about the health of females exposed to atomoxetine capsules and their baby.
+    If you or your child becomes pregnant during treatment with atomoxetine capsules, talk to your healthcare provider about registering with the National Pregnancy Registry of ADHD Medications at 1-866-961-2388 or visit online at https://womensmentalhealth.org/adhdmedications/.
+- are breastfeeding or plan to breastfeed.
+  It is not known if atomoxetine passes into your breast milk.
+  Talk to your doctor about the best way to feed your baby if you take atomoxetine capsules.
 
 Can atomoxetine capsules be taken with other medicines?
 
@@ -231,4 +238,4 @@ Emsam® is a registered trademark of Somerset Pharmaceuticals Inc.
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 Dispense with Medication Guide available at: http://www.risingpharma.com/med-guides.html
 
-Distributed by: Rising Pharmaceuticals, Inc. Saddle Brook, NJ 07663 Made in India Code No.: TS/DRUGS/19/1993 Revised: 12/2018
+Distributed by: Rising Pharmaceuticals, Inc. Saddle Brook, NJ 07663 Made in India Code: TS/DRUGS/19/1993 Revised: 06/2020

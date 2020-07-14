@@ -1,10 +1,10 @@
 # 14 CLINICAL STUDIES
 
-## 14.1 ADHD studies in Children and Adolescents
+## 14.1 ADHD Studies in Children and Adolescents
 
 Acute Studies — The effectiveness of atomoxetine in the treatment of ADHD was established in 4 randomized, double-blind, placebo-controlled studies of pediatric patients (ages 6 to 18).
 Approximately one-third of the patients met DSM-IV criteria for inattentive subtype and two-thirds met criteria for both inattentive and hyperactive/impulsive subtypes.
-Signs and symptoms of ADHD were evaluated by a comparison of mean change from baseline to endpoint for atomoxetine­ and placebo-treated patients using an intent-to-treat analysis of the primary outcome measure, the investigator administered and scored ADHD Rating Scale-IV-Parent Version (ADHDRS) total score including hyperactive/impulsive and inattentive subscales.
+Signs and symptoms of ADHD were evaluated by a comparison of mean change from baseline to endpoint for atomoxetine­- and placebo-treated patients using an intent-to-treat analysis of the primary outcome measure, the investigator administered and scored ADHD Rating Scale-IV-Parent Version (ADHDRS) total score including hyperactive/impulsive and inattentive subscales.
 Each item on the ADHDRS maps directly to one symptom criterion for ADHD in the DSM-IV.
 In Study 1, an 8-week randomized, double-blind, placebo-controlled, dose-response, acute treatment study of children and adolescents aged 8 to 18 (N=297), patients received either a fixed dose of atomoxetine (0.5, 1.2, or 1.8 mg/kg/day) or placebo.
 Atomoxetine was administered as a divided dose in the early morning and late afternoon/early evening.
@@ -30,7 +30,7 @@ Patients who were assigned to atomoxetine and showed continuous response for app
 Relapse during the double-blind phase was defined as CGI-ADHD-S score increases of at least 2 from the end of open-label phase and ADHDRS-IV-Parent:Inv total score returns to ≥90% of study entry score for 2 consecutive visits.
 In both double-blind phases, patients receiving continued atomoxetine treatment experienced significantly longer times to relapse than those receiving placebo.
 
-## 14.2 ADHD studies in Adults
+## 14.2 ADHD Studies in Adults
 
 The effectiveness of atomoxetine in the treatment of ADHD was established in 2 randomized, double-blind, placebo-controlled clinical studies of adult patients, age 18 and older, who met DSM-IV criteria for ADHD.
 Signs and symptoms of ADHD were evaluated using the investigator-administered Conners Adult ADHD Rating Scale Screening Version (CAARS), a 30-item scale.
