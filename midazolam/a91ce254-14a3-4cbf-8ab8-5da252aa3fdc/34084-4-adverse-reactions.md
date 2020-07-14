@@ -1,6 +1,6 @@
 # ADVERSE REACTIONS:
 
-SeeWARNINGS concerning serious cardiorespiratory events and possible paradoxical reactions.
+See WARNINGS concerning serious cardiorespiratory events and possible paradoxical reactions.
 Fluctuations in vital signs were the most frequently seen findings following parenteral administration of midazolam in adults and included decreased tidal volume and/or respiratory rate decrease (23.3% of patients following IV and 10.8% of patients following IM administration) and apnea (15.4% of patients following IV administration), as well as variations in blood pressure and pulse rate.
 The majority of serious adverse effects, particularly those associated with oxygenation and ventilation, have been reported when midazolam is administered with other medications capable of depressing the central nervous system.
 The incidence of such events is higher in patients undergoing procedures involving the airway without the protective effect of an endotracheal tube (e.g., upper endoscopy and dental procedures).
