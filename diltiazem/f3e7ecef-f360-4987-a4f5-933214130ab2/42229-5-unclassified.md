@@ -1,14 +1,14 @@
 Rx only
 
-Manufactured for: Valeant Pharmaceuticals North America LLC Bridgewater, NJ 08807 USA
+Distributed by: Bausch Health US, LLC Bridgewater, NJ 08807 USA
 
-By: Valeant Pharmaceuticals International, Inc. Laval, Quebec H7L 48A Canada
+Manufactured by: Bausch Health Companies Inc. Laval, Quebec H7L 4A8, Canada
 
-Cardizem is a trademark of Valeant Pharmaceuticals International, Inc. or its affiliates.
+CARDIZEM is a trademark of Bausch Health Companies Inc. or its affiliates.
 
-©Valeant Pharmaceuticals North America LLC
-
-9411003
+© 2020 Bausch Health Companies Inc. or its affiliates
 
 Rev.
-11/2016
+06/2020
+
+9411004
