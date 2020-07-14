@@ -1,20 +1,24 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-Risk of Contamination: Advise patients not to touch the dropper tip to any surface to avoid contaminating the contents.
+Avoid Contamination of the Product
 
-Concomitant Use of Contact Lenses: Advise patients not to wear contact lenses if they have signs and symptoms of bacterial conjunctivitis.
+Advise patients not to touch the dropper tip to any surface to avoid contaminating the contents.
 
-Potential for Hypersensitivity Reactions: Systemically administered quinolones including moxifloxacin have been associated with hypersensitivity reactions, even following a single dose.
-Instruct patients to discontinue use immediately and contact their physician at the first sign of a rash or allergic reaction [see Warnings and Precautions (5.2)].
+Avoid Contact Lens Wear
 
-Manufactured by
+Advise patients not to wear contact lenses if they have signs and symptoms of bacterial conjunctivitis [see Warnings and Precautions (5.3)].
 
-Alcon Laboratories, Inc. Fort Worth, Texas 76134 for
+Hypersensitivity Reactions
+
+Systemically administered quinolones including moxifloxacin have been associated with hypersensitivity reactions, even following a single dose.
+Instruct patients to discontinue use immediately and contact their physician at the first sign of a rash or allergic reaction [see Warnings and Precautions (5.1)].
+
+Distributed by:
 
 Sandoz Inc.
 
 Princeton, NJ 08540
 
-Licensed from Bayer AG.
+T2020-82
 
-T2017-43 March 2017
+773470 USG
