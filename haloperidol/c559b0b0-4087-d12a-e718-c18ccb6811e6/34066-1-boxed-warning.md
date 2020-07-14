@@ -20,7 +20,7 @@ Chronic or Resistant Patients - 3 mg to 5 mg b.i.d. or t.i.d.
 
 Patients who remain severely disturbed or inadequately controlled may require dosage adjustment.
 Daily dosages up to 100 mg may be necessary in some cases to achieve an optimal response.
-Infrequently haloperidol has been used in doses above 100 mg for severely resistant patients; however the limited clinical usage has not demonstrated the safety of prolonged administration of such doses.
+Infrequently, haloperidol has been used in doses above 100 mg for severely resistant patients; however, the limited clinical usage has not demonstrated the safety of prolonged administration of such doses.
 
 Psychotic Disorders - 0.05 mg/kg/day to 0.15 mg/kg/day
 
