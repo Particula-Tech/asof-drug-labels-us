@@ -5,5 +5,5 @@ These may include asthenia, generalized muscle weakness, diplopia, ptosis, dysph
 These symptoms have been reported hours to weeks after injection.
 Swallowing and breathing difficulties can be life threatening and there have been reports of death.
 The risk of symptoms is probably greatest in children treated for spasticity but symptoms can also occur in adults treated for spasticity and other conditions, particularly in those patients who have an underlying condition that would predispose them to these symptoms.
-In unapproved uses, including spasticity in children, and in approved indications, cases of spread of effect have been reported at doses comparable to those used to treat cervical dystonia and spasticity and at lower doses.
+In unapproved uses and in approved indications, cases of spread of effect have been reported at doses comparable to those used to treat cervical dystonia and spasticity and at lower doses.
 [see Warnings and Precautions (5.2)]

@@ -15,8 +15,8 @@ Physicians administering BOTOX Cosmetic must understand the relevant neuromuscul
 
 Do not use BOTOX Cosmetic and contact Allergan (1-800-890-4345) if:
 
-- The carton labeling does not contain an intact seal with a translucent silver Allergan logo (on both ends of the carton) or the seal has a black circle with a diagonal line through it (i.e., prohibition sign),
-- The vial label does not contain a holographic film containing the name “Allergan” within rainbow colored horizontal lines, or
+- The carton labeling does not contain an intact seal with a translucent silver Allergan logo (on both ends of the carton) or the seal has a black circle with a diagonal line through it (i.e., prohibition sign)
+- The vial label does not contain a holographic film containing the name “Allergan” within rainbow-colored horizontal lines
 - The U.S. License number 1145 is not present on the vial label and carton labeling [see How Supplied/Storage and Handling (16)]
 
 ## 2.2Preparation and Dilution Technique
