@@ -20,7 +20,7 @@ The following serious and otherwise important adverse reactions are discussed in
 
 • Risk of Aortic Aneurysm and Dissection [see Warnings and Precautions (5.9)]
 
-• Clostridium difficile-Associated Diarrhea [see Warnings and Precautions (5.10)]
+• Clostridioides difficile-Associated Diarrhea [see Warnings and Precautions (5.10)]
 
 • Blood Glucose Disturbances [see Warnings and Precautions (5.12)]
 
@@ -39,7 +39,7 @@ Treatment duration was usually 6 to 10 days, and the mean number of days on ther
 
 Discontinuation of moxifloxacin due to adverse reactions occurred in 5% of patients overall, 4% of patients treated with 400 mg PO, 4% with 400 mg intravenous and 8% with sequential therapy 400 mg oral/intravenous.
 The most common adverse reactions (>0.3%) leading to discontinuation with the 400 mg oral doses were nausea, diarrhea, dizziness, and vomiting.
-The most common adverse reaction leading to discontinuation with the 400 mg intravenous dose was rash (0.5%).
+The most common adverse reaction leading to discontinuation with the 400 mg intravenous dose was rash.
 The most common adverse reactions leading to discontinuation with the 400 mg intravenous/oral sequential dose were diarrhea, pyrexia.
 
 Adverse reactions occurring in 1% of moxifloxacin-treated patients and less common adverse reactions, occurring in 0.1 to 1% of moxifloxacin-treated patients, are shown in Tables 2 and Table 3, respectively.

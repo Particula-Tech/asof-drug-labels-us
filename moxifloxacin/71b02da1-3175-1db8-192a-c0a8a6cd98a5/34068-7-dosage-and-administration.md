@@ -40,3 +40,9 @@ Administer moxifloxacin hydrochloride tablets at least 4 hours before or 8 hours
 With Food
 
 Moxifloxacin hydrochloride tablets can be taken with or without food, drink fluids liberally.
+
+Missed Doses
+
+If a dose is missed, it should be taken anytime but not later than 8 hours prior to the next scheduled dose.
+If less than 8 hours remain before the next dose, the missed dose should not be taken and treatment should be continued as prescribed with the next scheduled dose.
+Double doses should not be taken to compensate for a missed dose.

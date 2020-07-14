@@ -28,7 +28,7 @@ Table 7: Mean (± SD) Cmax and AUC values following single and multiple doses of
 | Single Dose Oral Healthy (n = 372) | 3.1 ± 1 | 36.1 ± 9.1 | 11.5 to 15.6a |
 | Multiple Dose Oral Healthy young male/female (n = 15) Healthy elderly male (n = 8) Healthy elderly female (n = 8) Healthy young male (n = 8) Healthy young female (n = 9) | 4.5 ± 0.5 3.8 ± 0.3 4.6 ± 0.6 3.6 ± 0.5 4.2 ± 0.5 | 48 ± 2.7 51.8 ± 6.7 54.6 ± 6.7 48.2 ± 9 49.3 ± 9.5 | 12.7 ± 1.9 |
 
-a Range of means form different studies
+a Range of means from different studies
 
 Plasma concentrations increase proportionately with dose up to the highest dose tested (1200 mg single oral dose).
 The mean (± SD) elimination half-life from plasma is 12 ± 1.3 hours; steady-state is achieved after at least three days with a 400 mg once daily regimen.
@@ -41,7 +41,7 @@ Moxifloxacin is approximately 30 to 50% bound to serum proteins, independent of 
 The volume of distribution of moxifloxacin ranges from 1.7 to 2.7 L/kg.
 Moxifloxacin is widely distributed throughout the body, with tissue concentrations often exceeding plasma concentrations.
 Moxifloxacin has been detected in the saliva, nasal and bronchial secretions, mucosa of the sinuses, skin blister fluid, subcutaneous tissue, skeletal muscle, and abdominal tissues and fluids following oral administration of 400 mg.
-Moxifloxacin concentrations measured post-dose in various tissues and fluids following a 400 mg oral dose are summarized in Table 7.
+Moxifloxacin concentrations measured post-dose in various tissues and fluids following a 400 mg oral dose are summarized in Table 9.
 The rates of elimination of moxifloxacin from tissues generally parallel the elimination from plasma.
 
 Table 9: Moxifloxacin Concentrations (mean ± SD) in Tissues and the Corresponding Plasma Concentrations After a Single 400 mg Oral Dosea

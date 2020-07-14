@@ -12,9 +12,9 @@ This Medication Guide does not take the place of talking to your healthcare prov
 
 What is the most important information I should know about moxifloxacin hydrochloride tablets?
 
-Moxifloxacin hydrochloride tablet belongs to a class of antibiotics called fluoroquinolones.
+Moxifloxacin hydrochloride tablet is in a class of antibiotics called fluoroquinolones.
 Moxifloxacin hydrochloride tablets can cause serious side effects that can happen at the same time and could result in death.
-If you get any of the following serious side effects, you should stop taking moxifloxacin tablets and get medical help right away.
+If you get any of the following serious side effects, you should stop taking moxifloxacin hydrochloride tablets and get medical help right away.
 Talk with your healthcare provider about whether you should continue to take moxifloxacin hydrochloride tablets.
 
 1.
@@ -26,30 +26,29 @@ Tendon rupture or swelling of the tendon (tendinitis).
   - Pain, swelling, tears and inflammation of tendons including the back of the ankle (Achilles), shoulder, hand, or other tendon sites.
 
 - The risk of getting tendon problems while you take moxifloxacin hydrochloridetablets is higher if you:
-  - Are over 60 years of age
-  - Are taking steroids (corticosteroids)
-  - Have had a kidney, heart or lung transplant
-
-Tendon problems can happen in people who do not have the above risk factors when they take moxifloxacin hydrochloride tablets.
+  - Are over 60 years of age.
+  - Are taking steroids (corticosteroids).
+  - Have had a kidney, heart or lung transplant.
+  - Tendon problems can happen in people who do not have the above risk factors when they take moxifloxacin hydrochloride tablets.
 
 - Other reasons that can increase your risk of tendon problems can include:
-  - Physical activity or exercise
-  - Kidney failure
+  - Physical activity or exercise.
+  - Kidney failure.
   - Tendon problems in the past, such as in people with rheumatoid arthritis (RA).
 
-- Call your healthcare provider right away at the first sign of tendon pain, swelling or inflammation.
+- Stop taking moxifloxacin hydrochloride tablets immediately and call your healthcare provider right away at the first sign of tendon pain, swelling or inflammation.
   Stop taking moxifloxacin hydrochloride tablets until tendinitis or tendon rupture has been ruled out by your healthcare provider.
   Avoid exercise and using the affected area.
   The most common area of pain and swelling is in the Achilles tendon at the back of your ankle.
   This can also happen with other tendons.
 - Talk to your healthcare provider about the risk of tendon rupture with continued use of moxifloxacin hydrochloride tablets.
   You may need a different antibiotic that is not a fluoroquinolone to treat your infection.
-- Tendon rupture can happen while you are taking or after you have finished taking moxifloxacin hydrochloride tablets.
-  Tendon ruptures can happen within hours or days after taking moxifloxacin hydrochloride tablets and have happened up to several months after patients have finished taking their fluoroquinolone.
+- Tendon rupture can happen while you are taking or after you have stopped taking moxifloxacin hydrochloride tablets.
+  Tendon ruptures can happen within hours or days after taking moxifloxacin hydrochloride tablets and have happened up to several months after people have stopped taking their fluoroquinolone.
 - Stop taking moxifloxacin hydrochloride tablets immediately and get medical help right away if you get any of the following signs or symptoms of a tendon rupture:
-  - Hear or feel a snap or pop in a tendon area
-  - Bruising right after an injury in a tendon area
-  - Unable to move the affected area or bear weight.
+  - Hear or feel a snap or pop in a tendon area.
+  - Bruising right after an injury in a tendon area.
+  - Unable to move the affected area or put weight on the area.
 
 2.Changes in sensation and possible nerve damage (Peripheral Neuropathy).
 Damage to the nerves in arms, hands, legs, or feet can happen in people who take fluoroquinolones, including moxifloxacin hydrochloride tablets.
@@ -69,7 +68,7 @@ Moxifloxacin hydrochloride tablets may need to be stopped to prevent permanent n
 
 3.
 Central Nervous System (CNS) effects.
-Seizures have been reported in people who take fluoroquinolone antibacterial medicines, including moxifloxacin hydrochloride tablets.
+Seizures have been reported in people who take fluoroquinolone antibiotic medicines, including moxifloxacin hydrochloride tablets.
 Tell your healthcare provider if you have a history of seizures before you start taking moxifloxacin hydrochloride tablets.
 CNS side effects may happen as soon as after taking the first dose of moxifloxacin hydrochloride tablets.
 Stop taking moxifloxacin hydrochloride tablets immediately and talk to your healthcare provider right away if you get any of these side effects, or other changes in mood or behavior:
@@ -103,7 +102,8 @@ Stop taking moxifloxacin hydrochloride tablets immediately and talk to your heal
 4.
 Worsening of myasthenia gravis (a disease which causes muscle weakness).
 Fluoroquinolones like moxifloxacin hydrochloride tablets may cause worsening of myasthenia gravis symptoms, including muscle weakness and breathing problems.
-Tell your healthcare provider right away if you have a history of myasthenia gravis before you start taking moxifloxacin hydrochloride tablets.
+Tell your healthcare provider if you have a history of myasthenia gravis.
+Moxifloxacin hydrochloride tablets should not be used in people who have a history of myasthenia gravis.
 Call your healthcare provider right away if you have any worsening muscle weakness or breathing problems.
 
 See the section “What are the possible side effects of moxifloxacin hydrochloride tablets?” for more information about side effects.
@@ -127,7 +127,7 @@ These bacterial infections include:
 
 • Acute Bacterial Exacerbation of Chronic Bronchitis
 
-Moxifloxacin hydrochloride tablets should not be used in patients with acute bacterial sinusitis or acute bacterial exacerbation of chronic bronchitis if there are other treatment options available.
+Moxifloxacin hydrochloride tablets should not be used in people with acute bacterial sinusitis or acute bacterial exacerbation of chronic bronchitis if there are other treatment options available.
 
 Studies of moxifloxacin for use in the treatment of plague were done in animals only, because plague could not be studied in people.
 
@@ -142,41 +142,43 @@ Call your healthcare provider if you think your condition is not getting better 
 
 Who should not take moxifloxacin hydrochloride tablets?
 
-Do not take moxifloxacin hydrochloride tablets if you have ever had a severe allergic reaction to an antibiotic known as a fluoroquinolone, or if you are allergic to any of the ingredients in moxifloxacin hydrochloride tablets.
+Do not take moxifloxacin hydrochloride tablets if you have ever had an allergic reaction to moxifloxacin, other fluoroquinolone antibiotics, or any of the ingredients in moxifloxacin hydrochloride tablets.
 Ask your healthcare provider if you are not sure.
-See the list of ingredients in moxifloxacin hydrochloride tablets at the end of this Medication Guide.
+See the list of ingredients in moxifloxacin hydrochloride tablets at the end of this Medication Guide for a complete list of ingredients in moxifloxacin hydrochloride tablets.
 
 What should I tell my healthcare provider before taking moxifloxacin hydrochloride tablets?
 
-See “What is the most important information I should know about moxifloxacin hydrochloride tablets?”
+- See “What is the most important information I should know about moxifloxacin hydrochloride tablets?”
 
 Tell your healthcare provider about all your medical conditions, including if you:
 
-- Have tendon problems; moxifloxacin hydrochloride tablets should not be used in patients who have a history of tendon problems
-- Have a disease that causes muscle weakness (myasthenia gravis); moxifloxacin hydrochloride tablets should not used in patients who have a history of myasthenia gravis
-- Have central nervous system problems (such as epilepsy)
-- Have nerve problems; moxifloxacin hydrochloride tablets should not be used in patients who have a history of a nerve problem called peripheral neuropathy
-- Have or anyone in your family has an irregular heartbeat, especially a condition called “QT prolongation”
-- Have low blood potassium (hypokalemia)
-- Have a slow heartbeat (bradycardia)
-- Have a history of seizures
-- Have kidney problems
-- Have rheumatoid arthritis (RA) or other history of joint problems
+- Have tendon problems.
+  Moxifloxacin hydrochloride tablets should not be used in people who have a history of tendon problems.
+- Have a disease that causes muscle weakness (myasthenia gravis).
+  Moxifloxacin hydrochloride tablets should not used in people who have a history of myasthenia gravis.
+- Have central nervous system problems (such as epilepsy).
+- Have nerve problems.
+  Moxifloxacin hydrochloride tablets should not be used in patients who have a history of a nerve problem called peripheral neuropathy.
+- Have or anyone in your family has an irregular heartbeat, especially a condition called “QT prolongation”.
+- Have low blood potassium (hypokalemia).
+- Have a slow heartbeat (bradycardia).
+- Have a history of seizures.
+- Have kidney problems.
+- Have rheumatoid arthritis (RA) or other history of joint problems.
 - Are pregnant or planning to become pregnant.
-  It is not known if moxifloxacin hydrochloride tablets will harm your unborn child
-- Are breast-feeding or planning to breast-feed.
+  It is not known if moxifloxacin hydrochloride tablets will harm your unborn child.
+- Are breastfeeding or plan to breastfeed.
   It is not known if moxifloxacin hydrochloride tablets passes into breast milk.
-  You and your healthcare provider should decide whether you will take moxifloxacin hydrochloride tablets or breast-feed.
-- Have diabetes or problems with low blood sugar (hypoglycemia)
+  You and your healthcare provider should decide whether you will take moxifloxacin hydrochloride tablets or breastfeed.
+- Have diabetes or problems with low blood sugar (hypoglycemia).
 
-Tell your healthcare provider about all the medicines you take, including prescription and non-prescription medicines, vitamins and herbal and dietary supplements.
+Tell your healthcare provider about all the medicines you take, including prescription and over-the-counter medicines, vitamins, herbal and dietary supplements.
 Moxifloxacin hydrochloride tablets and other medicines can affect each other causing side effects.
 Especially tell your healthcare provider if you take:
 
-- An NSAID (Non-Steroidal Anti-Inflammatory Drug).
+- A Non-Steroidal Anti-Inflammatory Drug (NSAID).
   Many common medicines for pain relief are NSAIDs.
   Taking an NSAID while you take moxifloxacin hydrochloride tablets or other fluoroquinolones may increase your risk of central nervous system effects and seizures.
-  See “What are the possible side effects of moxifloxacin hydrochloride tablets?”
 - A blood thinner (warfarin, Coumadin, Jantoven).
 - A medicine to control your heart rate or rhythm (antiarrhythmic) See “What are the possible side effects of moxifloxacin hydrochloride tablets?”
 - An anti-psychotic medicine.
@@ -199,23 +201,30 @@ Keep a list of your medicines and show it to your healthcare provider and pharma
 
 How should I take moxifloxacin hydrochloride tablets?
 
-- Take moxifloxacin hydrochloride tablets once a day exactly as prescribed by your healthcare provider.
+- Take moxifloxacin hydrochloride tablets 1 time each day exactly as prescribed by your healthcare provider.
 - Take moxifloxacin hydrochloride tablets at about the same time each day.
-- Moxifloxacin hydrochloride tablets should be swallowed.
 - Moxifloxacin hydrochloride tablets can be taken with or without food.
+- If you miss a dose of moxifloxacin hydrochloride tablets and it is:
+  - 8 hours or more until your next scheduled dose, take your missed dose right away.
+    Then take the next dose at your regular time.
+  - less than 8 hours until your next scheduled dose, do not take the missed dose.
+    Take the next dose at your regular time.
+- Do not take 2 doses of moxifloxacin hydrochloride tablets to make up for a missed dose.
+  If you are not sure about when to take moxifloxacin hydrochloride tablets after a missed dose, ask your doctor or pharmacist.
 - Drink plenty of fluids while taking moxifloxacin hydrochloride tablets.
 - Do not skip any doses, or stop taking moxifloxacin hydrochloride tablets even if you begin to feel better, until you finish your prescribed treatment, unless:
-  - You have tendon effects (See “What is the most important information I should know about moxifloxacin hydrochloride tablets?”).
+  - You have tendon problems.
+    (See “What is the most important information I should know about moxifloxacin hydrochloride tablets?”).
   - You have nerve problems.
     See " What is the most important information I should know about moxifloxacin hydrochloride tablets?”.
   - You have central nervous system problems.
     See " What is the most important information I should know about moxifloxacin hydrochloride tablets?”.
-  - You have a serious allergic reaction (See “What are the possible side effects of moxifloxacin hydrochloride tablets?”), or your healthcare provider tells you to stop.
+  - You have a serious allergic reaction (see “What are the possible side effects of moxifloxacin hydrochloride tablets?”), or your healthcare provider tells you to stop taking moxifloxacin hydrochloride tablets.
 - This will help make sure that all of the bacteria are killed and lower the chance that the bacteria will become resistant to moxifloxacin hydrochloride tablets.
   If this happens, moxifloxacin hydrochloride tablets and other antibiotic medicines may not work in the future.
 - If you miss a dose of moxifloxacin hydrochloride tablets, take it as soon as you remember.
 - Do not take more than 1 dose of moxifloxacin hydrochloride tablets in one day.
-- If you take too much, call your healthcare provider or get medical help immediately.
+- If you take too much moxifloxacin hydrochloride tablets, call your healthcare provider or get medical help immediately.
 
 What should I avoid while taking moxifloxacin hydrochloride tablets?
 
@@ -229,39 +238,11 @@ What should I avoid while taking moxifloxacin hydrochloride tablets?
 
 What are the possible side effects of moxifloxacin hydrochloride tablets?
 
-Moxifloxacin hydrochloride tablets can cause side effects that may be serious or even cause death.
-See “What is the most important information I should know about moxifloxacin hydrochloride tablets?”
+Moxifloxacin hydrochloride tablets can cause side effects that may be serious or even cause death including.
 
-Other serious side effects of moxifloxacin hydrochloride tablets include:
-
-Serious allergic reactions
-
-- Allergic reactions can happen in people taking fluoroquinolones, including moxifloxacin hydrochloride tablets, even after only one dose.
-  Stop taking moxifloxacin hydrochloride tablets and get emergency medical help right away if you get any of the following symptoms of a severe allergic reaction:
-  - Hives
-  - Trouble breathing or swallowing
-  - Swelling of the lips, tongue, face
-  - Throat tightness, hoarseness
-  - Rapid heartbeat
-  - Faint
-  - Yellowing of the skin or eyes.
-    Stop taking moxifloxacin hydrochloride tablets and tell your healthcare provider right away if you get yellowing of your skin or white part of your eyes, or if you have dark urine.
-    These can be signs of a serious reaction to moxifloxacin hydrochloride tablets (a liver problem)
-
-Aortic aneurysm and dissection
-
-- Tell your healthcare provider if you have ever been told that you have an aortic aneurysm, a swelling of the large artery that carries blood from the heart to the body.
-  Get emergency medical help right away if you have sudden chest, stomach, or back pain.
-
-Skin rash
-
-- Skin rash may happen in people taking moxifloxacin hydrochloride tablets even after only one dose.
-  Stop taking moxifloxacin hydrochloride tablets at the first sign of a skin rash and call your healthcare provider.
-  Skin rash may be a sign of a more serious reaction to moxifloxacin hydrochloride tablets.
-
-Serious heart rhythm changes
-
-- (QT prolongation and torsade de pointes) Tell your healthcare provider right away if you have a change in your heart beat (a fast or irregular heartbeat), or if you faint.
+- See “What is the most important information I should know about moxifloxacin hydrochloride tablets?”
+- Serious heart rhythm changes (QT prolongation and torsade de pointes).
+  Tell your healthcare provider right away if you have a change in your heartbeat (a fast or irregular heartbeat), or if you faint.
   Moxifloxacin hydrochloride tablets may cause a rare heart problem known as prolongation of the QT interval.
   This condition can cause an abnormal heartbeat and can be very dangerous.
   The chances of this event are higher in people:
@@ -270,24 +251,45 @@ Serious heart rhythm changes
   - With low blood potassium (hypokalemia)
   - Who take certain medicines to control heart rhythm (antiarrhythmics)
 
-Intestine infection (Pseudomembranous colitis)
+- Serious allergic reactions.
+  Allergic reactions can happen in people taking fluoroquinolones, including moxifloxacin hydrochloride tablets, even after only 1 dose.
+  Stop taking moxifloxacin hydrochloride tablets and get emergency medical help right away if you get any of the following symptoms of a severe allergic reaction:
+  - Hives
+  - Trouble breathing or swallowing
+  - Swelling of the lips, tongue, face
+  - Throat tightness, hoarseness
+  - Fast heartbeat
+  - Faint
+  - Yellowing of the skin or eyes.
+    Stop taking moxifloxacin hydrochloride tablets and tell your healthcare provider right away if you get yellowing of your skin or white part of your eyes, or if you have dark urine.
+    These can be signs of a serious reaction to moxifloxacin hydrochloride tablets (a liver problem).
 
-- Pseudomembranous colitis can happen with most antibiotics, including moxifloxacin hydrochloride tablets.
+- Skin rash.
+  Skin rash may happen in people taking moxifloxacin hydrochloride tablets even after only 1 dose.
+  Stop taking moxifloxacin hydrochloride tablets at the first sign of a skin rash and call your healthcare provider.
+  Skin rash may be a sign of a more serious reaction to moxifloxacin hydrochloride tablets.
+- Aortic aneurysm and dissection.
+  Tell your healthcare provider if you have ever been told that you have a swelling of the large artery that carries blood from the heart to the body (aortic aneurysm).
+  Get emergency medical help right away if you have sudden chest, stomach, or back pain.
+- Intestine infection (Pseudomembranous colitis).
+  Pseudomembranous colitis can happen with most antibiotics, including moxifloxacin hydrochloride tablets.
   Call your healthcare provider right away if you get watery diarrhea, diarrhea that does not go away, or bloody stools.
   You may have stomach cramps and a fever.
-  Pseudomembranous colitis can happen 2 or more months after you have finished your antibiotic.
-
-Changes in blood sugar
-
-- People who take moxifloxacin hydrochloride tablets and other fluoroquinolone medicines with oral anti-diabetes medicines or with insulin can get low blood sugar (hypoglycemia) and high blood sugar (hyperglycemia).
-  Follow your healthcare provider's instructions for how often to check your blood sugar.
+  Pseudomembranous colitis can happen 2 or more months after you have stopped taking moxifloxacin hydrochloride tablets.
+- Changes in blood sugar.
+  People who take moxifloxacin hydrochloride tablets and other fluoroquinolone medicines with oral anti-diabetes medicines or with insulin can get low blood sugar (hypoglycemia) and high blood sugar (hyperglycemia).
+  Follow your healthcare provider’s instructions for how often to check your blood sugar.
   If you have diabetes and you get low blood sugar while taking moxifloxacin hydrochloride tablets, stop taking moxifloxacin hydrochloride tablets and call your healthcare provider right away.
   Your antibiotic medicine may need to be changed.
+- Sensitivity to sunlight (photosensitivity).
+  See “What should I avoid while taking moxifloxacin hydrochloride tablets?”
 
-Sensitivity to sunlight (photosensitivity)
+The most common side effects of moxifloxacin hydrochloride tablets include:
 
-- See “What should I avoid while taking AVELOX?”
-  The most common side effects of AVELOX include nausea and diarrhea.
+- Nausea
+- Diarrhea
+- Headache
+- dizziness
 
 These are not all the possible side effects of moxifloxacin hydrochloride tablets.
 Tell your healthcare provider about any side effect that bothers you or that does not go away.
@@ -304,7 +306,7 @@ Moxifloxacin Hydrochloride Tablets
 
 Keep moxifloxacin hydrochloride tablets and all medicines out of the reach of children.
 
-General Information about moxifloxacin hydrochloride tablets
+General Information about the safe and effective use of moxifloxacin hydrochloride tablets.
 
 Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide.
 Do not use moxifloxacin hydrochloride tablets for a condition for which it is not prescribed.
@@ -334,7 +336,7 @@ Dr. Reddy’s Laboratories Limited
 
 Bachupally – 500 090 INDIA
 
-Revised: 1219
+Revised: 0620
 
 Dispense with Medication Guide available at:
 

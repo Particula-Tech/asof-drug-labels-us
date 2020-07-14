@@ -7,25 +7,26 @@ Risk Summary
 There are no available human data establishing a drug associated risk with the use of moxifloxacin.
 
 Based on animal studies with moxifloxacin, moxifloxacin may cause fetal harm.
-Moxifloxacin was not teratogenic when administered to pregnant rats (IV and oral), rabbits (IV), and monkeys (oral) at exposures that were 0.25 to 2.5 times of those at the human clinical dose (400 mg/day moxifloxacin).
+Moxifloxacin did not cause fetal malformations when administered to pregnant rats (IV and oral), rabbits (IV), and monkeys (oral) at exposures that were 0.24 to 2.5 times of those at the human clinical dose (400 mg/day moxifloxacin).
 However, when moxifloxacin was administered to rats and rabbits during pregnancy and throughout lactation (rats only) at doses associated with maternal toxicity, decreased neonatal body weights, increased incidence of skeletal variations (rib and vertebra combined), and increased fetal loss were observed (see Data).
 Advise pregnant women of the potential risk to the fetus.
 
-The background risk of major birth defects and miscarriage for the indicated population is unknown.
-However, the background risk in the U.S. general population of major birth defects is 2 to 4% and of miscarriage is 15 to 20% of clinically recognized pregnancies.
+The estimated background risk of major birth defects and miscarriage for the indicated population is unknown.
+All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively.
 
 Data
 
 Animal Data
 
 Animal reproductive and development studies were done in rats, rabbits and cynomolgus macaques.
-Moxifloxacin was not teratogenic when administered to pregnant rats during organogenesis (gestation days 6 to 17) at oral doses as high as 500 mg/kg/day or 0.24 times the maximum recommended human dose based on systemic exposure (AUC), but decreased fetal body weights and slightly delayed fetal skeletal development were observed.
+Moxifloxacin did not cause fetal malformations when administered to pregnant rats during organogenesis (gestation days 6 to 17) at oral doses as high as 500 mg/kg/day or 0.24 times the maximum recommended human dose based on systemic exposure (AUC), but decreased fetal body weights and slightly delayed fetal skeletal development were observed.
 Intravenous administration of 80 mg/kg/day (approximately 2 times the maximum recommended human dose based on body surface area) to pregnant rats resulted in maternal toxicity and a marginal effect on fetal and placental weights and the appearance of the placenta (Gestation days 6 to 17).
-There was no evidence of teratogenicity at intravenous doses as high as 80 mg/kg/day (approximately 2 times the maximum recommended human dose based on body surface area) in pregnant rats during organogenesis (Gestation days 6 to 17).
+Fetal malformations were not observed at intravenous doses as high as 80 mg/kg/day (approximately 2 times the maximum recommended human dose based on body surface area) in litters of pregnant rats that received moxifloxacin during organogenesis (Gestation days 6 to 17).
 Intravenous administration of 20 mg/kg/day (approximately equal to the maximum recommended human oral dose based upon systemic exposure) to pregnant rabbits during organogenesis (gestation days 6 to 20) resulted in decreased fetal body weights and delayed fetal skeletal ossification.
 When rib and vertebral malformations were combined, there was an increased fetal and litter incidence of these effects in rabbits.
 Signs of maternal toxicity in rabbits at this dose included mortality, abortions, marked reduction of food consumption, decreased water intake, body weight loss and hypoactivity.
-There was no evidence of teratogenicity when pregnant cynomolgus macaques were given oral doses as high as 100 mg/kg/day (2.5 times the maximum recommended human dose based upon systemic exposure) during organogenesis (gestation days 20 to 50).
+Fetal malformations were not observed when pregnant cynomolgus macaques were given oral doses as high as 100 mg/kg/day (2.5 times the maximum recommended human dose based upon systemic exposure) during organogenesis (gestation days 20 to 50).
 An increased incidence of smaller fetuses was observed at 100 mg/kg/day in macaques.
 In a pre- and postnatal development study conducted in rats given oral doses from Gestation day 6, throughout gestation and rearing to Postpartum day 21, effects observed at 500 mg/kg/day (0.24 times the maximum recommended human dose based on systemic exposure (AUC)) included slight increases in duration of pregnancy and prenatal loss, reduced pup birth weight and decreased neonatal survival.
 Treatment-related maternal mortality occurred during gestation at 500 mg/kg/day in this study.
@@ -36,6 +37,7 @@ Risk Summary
 
 It is not known if moxifloxacin is present in human milk.
 Based on animal studies in rats, moxifloxacin may be excreted in human milk (see Data).
+When a drug is present in animal milk, it is likely that the drug will be present in human milk.
 
 The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for moxifloxacin and any potential adverse effects on the breastfed child from moxifloxacin or from the underlying maternal condition.
 
@@ -47,7 +49,7 @@ In lactating rats given a single oral dose of 4.59 mg/kg moxifloxacin (approxima
 
 Effectiveness in pediatric patients and adolescents less than 18 years of age has not been established.
 Moxifloxacin causes arthropathy in juvenile animals.
-Limited information on the safety of moxifloxacin in 301 pediatric patients is available from the cIAI trial [see Boxed Warning, Warnings and Precautions (5.9) and Nonclinical Toxicology (13.2)].
+Limited information on the safety of moxifloxacin in 301 pediatric patients is available from the cIAI trial [see Boxed Warning, Warnings and Precautions (5.11) and Nonclinical Toxicology (13.2)].
 
 Active Controlled Trial in Complicated Intra-Abdominal Infection (cIAI)
 
