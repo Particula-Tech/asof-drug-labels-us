@@ -2,7 +2,7 @@ PRINCIPAL DISPLAY PANEL
 
 NDC 49702-221-18
 
-ZIAGEN ®
+ZIAGEN
 
 (abacavir)
 
@@ -14,16 +14,17 @@ Rx only
 
 Notice to Authorized Dispenser:
 
-Each time ZIAGEN is dispensed, give the patient a Medication Guide and Warning Card from the carton.
+Each time ZIAGEN is dispensed, give the patient a Medication Guide and Warning Card.
 
 60 Tablets
 
 Made in UK
 
-©2017 the ViiV Healthcare group of companies
+©2020 ViiV Healthcare or licensor.
 
-1. 10000000146300 Rev.
-   5/17
+1. 62000000047760 Rev.
+   5/20
+2. 
 
 PRINCIPAL DISPLAY PANEL
 
@@ -53,3 +54,4 @@ Made in Canada
 
 1. 62000000014384 Rev.
    4/17
+2. 
