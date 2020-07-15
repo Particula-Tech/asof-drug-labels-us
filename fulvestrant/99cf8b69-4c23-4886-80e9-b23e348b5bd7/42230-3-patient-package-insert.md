@@ -98,13 +98,15 @@ SafetyGlide™ is a trademark of Becton Dickinson and Company.
 
 Manufactured by:
 
-Ajinomoto Althea, Inc. San Diego, CA 92121
+Glenmark Pharmaceuticals Inc., USA
+
+Monroe, NC 28110
 
 Manufactured for:
 
 Glenmark Pharmaceuticals Inc., USA Mahwah, NJ 07430 Questions?
-1 (888) 721-7115 www.glenmarkpharma.com/usa
+1 (888) 721-7115 www.glenmarkpharma-us.com
 
 This Patient Information has been approved by the U.S. Food and Drug Administration
 
-May 2019
+July 2020

@@ -19,9 +19,11 @@ Lactation:
 
 Manufactured by:
 
-Ajinomoto Althea, Inc. San Diego, CA 92121
+Glenmark Pharmaceuticals Inc., USA
+
+Monroe, NC 28110
 
 Manufactured for:
 
 Glenmark Pharmaceuticals Inc., USA Mahwah, NJ 07430 Questions?
-1 (888) 721-7115 www.glenmarkpharma.com/usa May 2019
+1 (888) 721-7115 www.glenmarkpharma-us.com July 2020

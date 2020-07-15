@@ -11,7 +11,7 @@ Comparison of Fulvestrant 500 mg and Fulvestrant 250 mg (CONFIRM)
 A randomized, double-blind, controlled clinical trial (CONFIRM, NCT00099437) was completed in 736 postmenopausal women with advanced breast cancer who had disease recurrence on or after adjuvant endocrine therapy or progression following endocrine therapy for advanced disease.
 This trial compared the efficacy and safety of fulvestrant 500 mg (n=362) with fulvestrant 250 mg (n=374).
 
-Fulvestrant 500 mg was administered as two 5 mL injections each containing fulvestrant 250 mg/5 mL, one in each buttock, on Days 1, 15, 29 and every 28 (+/-3) days thereafter.
+Fulvestrant 500 mg was administered as two 5 mL injections each containing fulvestrant 250 mg/5 mL, one in each buttock, on Days 1, 15, 29, and every 28 (+/-3) days thereafter.
 Fulvestrant 250 mg was administered as two 5 mL injections (one containing fulvestrant 250 mg/5 mL injection plus one placebo injection), one in each buttock, on Days 1, 15 (2 placebo injections only), 29, and every 28 (+/-3) days thereafter.
 
 The median age of study participants was 61 years.
@@ -128,10 +128,10 @@ Table 14: Efficacy Results in Studies 0020 and 0021 (Objective Response Rate (OR
 | --- | --- | --- | --- | --- |
 |  | FULVESTRANT | Anastrozole | FULVESTRANT | Anastrozole |
 | Endpoint | 250 mgN=206 | 1 mgN=194 | 250 mgN=222 | 1 mgN=229 |
-| Objective Tumor Response Number (%) of subjects with CR1 + PR2 | 35 (17.0) | 33 (17.0) | 45 (20.3) | 34 (14.9) |
-| % Difference in Tumor Response Rate (FAS3-ANA4) 2–sided 95.4% CI5 | 0.0(-6.3, 8.9) |  | 5.4(-1.4, 14.8) |  |
+| Objective Tumor Response Number (%) of subjects with CR1 + PR2 | 35 (17) | 33 (17) | 45 (20.3) | 34 (14.9) |
+| % Difference in Tumor Response Rate (FAS3-ANA4) 2–sided 95.4% CI5 | 0(-6.3, 8.9) |  | 5.4(-1.4, 14.8) |  |
 | Time to Progression (TTP) Median TTP (days) | 165 | 103 | 166 | 156 |
-| Hazard Ratio62-sided 95.4% CI | 0.9(0.7, 1.1) |  | 1.0(0.8, 1.2) |  |
+| Hazard Ratio62-sided 95.4% CI | 0.9(0.7, 1.1) |  | 1(0.8, 1.2) |  |
 | Stable Disease for ≥24 weeks (%) | 26.7 | 19.1 | 24.3 | 30.1 |
 | Overall Survival (OS) |  |  |  |  |
 | Died n (%) Median Survival (days) | 152 (73.8%)844 | 149 (76.8%)913 | 167 (75.2%)803 | 173 (75.5%)736 |

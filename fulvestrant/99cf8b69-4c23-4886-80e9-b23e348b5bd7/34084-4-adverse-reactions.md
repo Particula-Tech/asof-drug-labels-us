@@ -153,6 +153,9 @@ All patients on fulvestrant received injections, but only those anastrozole pati
 
 ## 6.2 Postmarketing Experience
 
+The following adverse reactions have been identified during post-approval use of fulvestrant.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
 For fulvestrant 250 mg, other adverse reactions reported as drug-related and seen infrequently (< 1%) include thromboembolic phenomena, myalgia, vertigo, leukopenia, and hypersensitivity reactions, including angioedema and urticaria.
 
 Vaginal bleeding has been reported infrequently (< 1%), mainly in patients during the first 6 weeks after changing from existing hormonal therapy to treatment with fulvestrant.

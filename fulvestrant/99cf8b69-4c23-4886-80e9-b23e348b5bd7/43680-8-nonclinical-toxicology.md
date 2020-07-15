@@ -9,7 +9,7 @@ Rats were treated at intramuscular doses of 15 mg/kg/30 days, 10 mg/rat/30 days,
 These doses correspond to 0.9-, 1.5-, and 3-fold (in females) and 0.8-, 0.8-, and 2-fold (in males) the systemic exposure [AUC0 to 30 days] achieved in women receiving the recommended dose of 500 mg/month.
 An increased incidence of benign ovarian granulosa cell tumors and testicular Leydig cell tumors was evident, in females dosed at 10 mg/rat/15 days and males dosed at 15 mg/rat/30 days, respectively.
 Mice were treated at oral doses of 0, 20, 150, and 500 mg/kg/day.
-These doses correspond to 0, 0.8, 8.4, and 18-fold (in females) and 0.8-, 7.1-, and 11.9-fold (in males), the systemic exposure (AUC0 to 30 days) achieved in women receiving the recommended dose of 500 mg/month.
+These doses correspond to 0-, 0.8-, 8.4-, and 18-fold (in females) and 0.8-, 7.1-, and 11.9-fold (in males), the systemic exposure (AUC0 to 30 days) achieved in women receiving the recommended dose of 500 mg/month.
 There was an increased incidence of sex cord stromal tumors (both benign and malignant) in the ovary of mice at doses of 150 and 500 mg/kg/day.
 Induction of such tumors is consistent with the pharmacology-related endocrine feedback alterations in gonadotropin levels caused by an antiestrogen.
 
