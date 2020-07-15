@@ -4,15 +4,15 @@
 
 Manufactured In Croatia By:
 
-PLIVA HRVATSKA d.o.o.
+Pliva Hrvatska d.o.o.
 
 Zagreb, Croatia
 
 Manufactured For:
 
-TEVA PHARMACEUTICALS USA, INC.
+Teva Pharmaceuticals USA, Inc.
 
 North Wales, PA 19454
 
 Rev.
-Y 2/2016
+Z 12/2016

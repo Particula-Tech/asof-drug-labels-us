@@ -1,6 +1,6 @@
 # PATIENT INFORMATION
 
-BUSPIRONE HYDROCHLORIDE TABLETS USP
+BUSPIRONE HYDROCHLORIDE TABLETS
 
 Rx only
 
@@ -12,7 +12,7 @@ Response to buspirone varies among individuals.
 Your physician may find it necessary to adjust your dosage to obtain the proper response.
 
 This tablet design makes dosage adjustments easy.
-Each tablet is scored and can be broken accurately to provide any of the following dosages:
+Each tablet is scored and can be broken accurately to provide any of the following dosages.
 
 If your doctor prescribed the 15 mg tablet:
 
@@ -21,22 +21,22 @@ Then, with the tablet score facing you, apply pressure and snap the tablet segme
 
 Manufactured In Croatia By:
 
-PLIVA HRVATSKA d.o.o.
+Pliva Hrvatska d.o.o.
 
 Zagreb, Croatia
 
 Manufactured For:
 
-TEVA PHARMACEUTICALS USA, INC.
+Teva Pharmaceuticals USA, Inc.
 
 North Wales, PA 19454
 
 Rev.
-G 2/2016
+H 12/2016
 
 PATIENT INFORMATION
 
-BUSPIRONE HYDROCHLORIDE TABLETS USP
+BUSPIRONE HYDROCHLORIDE TABLETS
 
 Rx only
 
@@ -48,7 +48,7 @@ Response to buspirone varies among individuals.
 Your physician may find it necessary to adjust your dosage to obtain the proper response.
 
 This tablet design makes dosage adjustments easy.
-Each tablet is scored and can be broken accurately to provide any of the following dosages:
+Each tablet is scored and can be broken accurately to provide any of the following dosages.
 
 If your doctor prescribed the 30 mg tablet:
 
@@ -57,15 +57,15 @@ Then, with the tablet score facing you, apply pressure and snap the tablet segme
 
 Manufactured In Croatia By:
 
-PLIVA HRVATSKA d.o.o.
+Pliva Hrvatska d.o.o.
 
 Zagreb, Croatia
 
 Manufactured For:
 
-TEVA PHARMACEUTICALS USA, INC.
+Teva Pharmaceuticals USA, Inc.
 
 North Wales, PA 19454
 
 Rev.
-G 2/2016
+H 12/2016
