@@ -5,5 +5,5 @@
   Late diarrhea can be life threatening and should be treated promptly with loperamide.
   Monitor patients with diarrhea and give fluid and electrolytes as needed.
   Institute antibiotic therapy if patients develop ileus, fever, or severe neutropenia.
-  Interrupt Irinotecan Hydrochloride Injection, USP and reduce subsequent doses if severe diarrhea occurs.
-- •Severe myelosuppression may occur.
+  Interrupt Irinotecan Hydrochloride Injection, USP and reduce subsequent doses if severe diarrhea occurs [see Dosage and Administration (2.2) and Warnings and Precautions (5.1)].
+- •Severe myelosuppression may occur [see Warnings and Precautions (5.2)].
