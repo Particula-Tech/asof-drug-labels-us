@@ -4,8 +4,8 @@
 
 ### Carcinogenesis
 
-Two-year studies were conducted in mice and rats to assess the carcinogenic potential of colchicine.
-No evidence of colchicine-related tumorigenicity was observed in mice or rats at colchicine oral doses up to 3 mg/kg/day and 2 mg/kg/day, respectively (approximately 6 and 8 times, respectively, the maximum recommended human dose of 2.4 mg on a mg/m2 basis).
+Two year studies were conducted in mice and rats to assess the carcinogenic potential of colchicine.
+No evidence of colchicine-related tumorigenicity was observed in mice or rats at colchicine oral doses up to 3 and 2 mg/kg/day, respectively (approximately six and eight times, respectively, the maximum recommended human dose of 2.4 mg on a mg/m2 basis).
 
 ### Mutagenesis
 
@@ -21,8 +21,3 @@ Reproductive studies also reported abnormal sperm morphology and reduced sperm c
 Colchicine administered to pregnant animals resulted in fetal death and teratogenicity.
 These effects were dose-dependent, with the timing of exposure critical for the effects on embryofetal development.
 The nonclinical doses evaluated were generally higher than an equivalent human therapeutic dose, but safety margins for reproductive and developmental toxicity could not be determined.
-
-Case reports and epidemiology studies in human male subjects on colchicine therapy indicated that infertility from colchicine is rare.
-A case report indicated that azoospermia was reversed when therapy was stopped.
-Case reports and epidemiology studies in female subjects on colchicine therapy have not established a clear relationship between colchicine use and female infertility.
-However, since the progression of FMF without treatment may result in infertility, the use of colchicine needs to be weighed against the potential risks.

@@ -1,8 +1,8 @@
 # 10 OVERDOSAGE
 
 The exact dose of colchicine that produces significant toxicity is unknown.
-Fatalities have occurred after ingestion of a dose as low as 7 mg over a four-day period, while other patients have survived after ingesting more than 60 mg.
-A review of 150 patients who overdosed on colchicine found that those who ingested less than 0.5 mg/kg survived and tended to have milder toxicities such as gastrointestinal symptoms, whereas those who took 0.5 mg/kg to 0.8 mg/kg had more severe reactions such as myelosuppression.
+Fatalities have occurred after ingestion of a dose as low as 7 mg over a four day period, while other patients have survived after ingesting more than 60 mg.
+A review of 150 patients who overdosed on colchicine found that those who ingested less than 0.5 mg/kg survived and tended to have milder toxicities such as gastrointestinal symptoms, whereas those who took 0.5 to 0.8 mg/kg had more severe reactions such as myelosuppression.
 There was 100% mortality in those who ingested more than 0.8 mg/kg.
 
 The first stage of acute colchicine toxicity typically begins within 24 hours of ingestion and includes gastrointestinal symptoms such as abdominal pain, nausea, vomiting, diarrhea and significant fluid loss, leading to volume depletion.
@@ -14,4 +14,4 @@ If the patient survives, recovery of multiorgan injury may be accompanied by reb
 Treatment of colchicine poisoning should begin with gastric lavage and measures to prevent shock.
 Otherwise, treatment is symptomatic and supportive.
 No specific antidote is known.
-Colchicine is not effectively removed by dialysis [see Pharmacokinetics (12.3)].
+Colchicine is not effectively removed by dialysis [see Clinical Pharmacology (12.3)].

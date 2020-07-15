@@ -1,6 +1,6 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-Advise the patient to read the FDA-approved (Medication Guide).
+Advise the patient to read the FDA-approved patient labeling (Medication Guide).
 
 Dosing Instructions: Patients should be advised to take colchicine tablets as prescribed, even if they are feeling better.
 Patients should not alter the dose or discontinue treatment without consulting with their doctor.
@@ -23,3 +23,5 @@ Grapefruit and grapefruit juice may also interact and should not be consumed dur
 
 Neuromuscular Toxicity: Patients should be informed that muscle pain or weakness, tingling or numbness in fingers or toes may occur with colchicine tablets alone or when it is used with certain other drugs.
 Patients developing any of these signs or symptoms must discontinue colchicine tablets and seek medical evaluation immediately.
+
+Infertility: Advise males of reproductive potential that colchicine tablets may rarely and transiently impair fertility [see Use in Specific Populations (8.3)].
