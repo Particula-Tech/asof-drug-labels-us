@@ -7,7 +7,7 @@ Adverse Reactions
 Advise patients to report to their healthcare provider if they experience any signs or symptoms consistent with:
 
 - Hypersensitivity reactions [see Contraindications (4)].
-- Acute Interstitial Nephritis [see Warnings and Precautions (5.2)].
+- Tubulointerstitial Nephritis [see Warnings and Precautions (5.2)].
 - Clostridium difficile-Associated Diarrhea [see Warnings and Precautions (5.3)].
 - Bone Fracture [see Warnings and Precautions (5.4)].
 - Cutaneous and Systemic Lupus Erythematosus [see Warnings and Precautions (5.5)].
@@ -31,13 +31,7 @@ Omeprazole Delayed-Release Capsules
 - Swallow Omeprazole Delayed-Release Capsules whole; do not chew.
 - For patients unable to swallow an intact capsule, Omeprazole Delayed-Release Capsules can be opened and administered in applesauce, as described in the Medication Guide.
 
-Distributed by:
+Distributed by: Lannett Company, Inc. Philadelphia, PA 19136
 
-Lannett Company, Inc.
-
-Philadelphia, PA 19154
-
-CIA74312P
-
-Rev.
-07/2018
+CIA74312R Rev.
+06/2020

@@ -147,7 +147,7 @@ The pharmacokinetics of omeprazole have been investigated in pediatric patients 
 
 | Table 7: Pharmacokinetic Parameters of Omeprazole Following Single and Repeated Oral Administration in Pediatric Populations Compared with Adults |  |  |  |
 | --- | --- | --- | --- |
-| Single or Repeated Oral Dosing/Parameter | Children1 ≤ 20 kg 2-5 years | Children1 > 20 kg 6-16 years | Adults2 (mean 76 kg) 23-29 years(n=12) |
+| Single or Repeated Oral Dosing/Parameter | Children1 ≤ 20 kg 2-5 years | Children1 > 20 kg 6-16 years | Adults2 (mean 76 kg) 23-29 years (n=12) |
 |  | 10 mg | 20 mg |  |
 | Single Dosing |  |  |  |
 | Cmax3 (ng/mL) | 288 (n=10) | 495 (n=49) | 668 |
@@ -265,7 +265,7 @@ One patient had an unconfirmed pretreatment amoxicillin minimum inhibitory conce
 | Susceptible2 171 | 153 | 7 |  | 3 | 8 |
 | Intermediate2 |  |  |  |  |  |
 | Resistant2 14 | 4 | 1 |  | 6 | 3 |
-| 1.Includes only patients with pretreatment clarithromycin susceptibility test results.2. Susceptible (S) MIC ≤ 0.25 mcg/mL, Intermediate (I) MIC 0.5 – 1 mcg/mL, Resistant (R) MIC ≥ 2 mcg/mL. |  |  |  |  |  |
+| 1. Includes only patients with pretreatment clarithromycin susceptibility test results.2. Susceptible (S) MIC ≤ 0.25 mcg/mL, Intermediate (I) MIC 0.5 – 1 mcg/mL, Resistant (R) MIC ≥ 2 mcg/mL. |  |  |  |  |  |
 
 Patients not eradicated of H. pylori following omeprazole/clarithromycin/amoxicillin triple therapy or omeprazole/clarithromycin dual therapy will likely have clarithromycin resistant H. pylori isolates.
 Therefore, clarithromycin susceptibility testing should be done, if possible.

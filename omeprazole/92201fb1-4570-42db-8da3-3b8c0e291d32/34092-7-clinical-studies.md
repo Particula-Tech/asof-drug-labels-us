@@ -88,7 +88,7 @@ The combination of omeprazole and clarithromycin was effective in eradicating H.
 | Non U.S. Studies |  |  |  |
 | Study 6 | 83 [71, 92]2 (n=60) | 1[0, 7] (n=74) | N/A |
 | Study 7 | 74 [64, 83]2 (n=86) | 1[0, 6] (n=90) | N/A |
-| 1.Statistically significantly higher than clarithromycin monotherapy (p < 0.05). 2.Statistically significantly higher than omeprazole monotherapy (p < 0.05). |  |  |  |
+| 1. Statistically significantly higher than clarithromycin monotherapy (p < 0.05). 2. Statistically significantly higher than omeprazole monotherapy (p < 0.05). |  |  |  |
 
 Ulcer healing was not significantly different when clarithromycin was added to omeprazole therapy compared with omeprazole therapy alone.
 

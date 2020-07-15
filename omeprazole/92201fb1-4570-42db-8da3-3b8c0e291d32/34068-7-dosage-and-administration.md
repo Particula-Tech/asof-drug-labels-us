@@ -13,8 +13,9 @@ Table 1: Recommended Dosage Regimen of Omeprazole Delayed-Release Capsules in Ad
 |  | Dual Therapy Omeprazole Delayed-Release Capsules 40 mg once daily Clarithromycin 500 mg three times daily | 14 days In patients with an ulcer present at the time of initiation of therapy, an additional 14 days of Omeprazole Delayed-Release Capsules 20 mg once daily is recommended for ulcer healing and symptom relief. |
 | Active Benign Gastric Ulcer | 40 mg once daily | 4 to 8 weeks |
 | Treatment of Symptomatic GERD | 20 mg once daily | Up to 4 weeks |
-| Maintenance of Healing of EE due to Acid-Mediated GERD | 20 mg once daily | 4 to 8 weeks2 |
-| Pathological Hypersecretory Conditions | 20 mg once daily3 | Controlled studies do not extend beyond 12 months. |
+| Treatment of EE due to Acid-Mediated GERD | 20 mg once daily | 4 to 8 weeks2 |
+| Maintenance of Healing of EE due to Acid-Mediated GERD | 20 mg once daily3 | Controlled studies do not extend beyond 12 months. |
+| Pathological Hypersecretory Conditions | Starting dose is 60 mg once daily; adjust to patient needsDaily dosages of greater than 80 mg should be administered in divided doses. Dosages up to 120 mg three times daily have been administered. | As long as clinically indicated.Some patients with Zollinger-Ellison syndrome have been treated continuously for more than 5 years. |
 | 1. Most patients heal within 4 weeks; some patients may require an additional 4 weeks of therapy to achieve healing.2. The efficacy of Omeprazole Delayed-Release Capsules used for longer than 8 weeks in patients with EE has not been established. If a patient does not respond to 8 weeks of treatment, an additional 4 weeks of treatment may be given. If there is recurrence of EE or GERD symptoms (e.g., heartburn), additional 4 to 8 week courses of Omeprazole Delayed-Release Capsules may be considered.3. Dosage reduction to 10 mg once daily is recommended for patients with hepatic impairment (Child-Pugh Class A, B or C) and Asian patients when used for the maintenance of healing of EE [see Use in Specific Populations (8.6, 8.7) and Clinical Pharmacology (12.3, 12.5)]. |  |  |
 
 ## 2.2 Recommended Pediatric Dosage Regimen by Indication
