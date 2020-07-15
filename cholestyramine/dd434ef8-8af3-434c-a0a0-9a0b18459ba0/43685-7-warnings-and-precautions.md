@@ -61,8 +61,6 @@ However, in view of the fact that cholestyramine resin is confined to the GI tra
 
 ## Pregnancy
 
-### Pregnancy Category C
-
 There are no adequate and well controlled studies in pregnant women.
 The use of cholestyramine in pregnancy or lactation or by women of childbearing age requires that the potential benefits of drug therapy be weighted against the possible hazards to the mother and child.
 Cholestyramine is not absorbed systemically, however, it is known to interfere with absorption of fat-soluble vitamins; accordingly, regular prenatal supplementation may not be adequate (see PRECAUTIONS, Drug Interactions).

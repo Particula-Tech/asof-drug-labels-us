@@ -6,4 +6,4 @@ Prevalite is a registered trademark of Upsher-Smith Laboratories, LLC.
 
 Manufactured by UPSHER-SMITH LABORATORIES, LLC Maple Grove, MN 55369
 
-Revised 0518
+Revised: 6/2020
