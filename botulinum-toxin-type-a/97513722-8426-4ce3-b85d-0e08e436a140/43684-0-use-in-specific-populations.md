@@ -20,7 +20,7 @@ Animal Data
 In a study in which pregnant rats received daily intramuscular injections of DYSPORT (2.2, 6.6, or 22 Units/kg on gestation days 6 through 17 or intermittently 44 Units/kg on gestation days 6 and 12 only) during organogenesis, increased early embryonic death was observed with both schedules at the highest tested doses (22 and 44 Units/kg), which were associated with maternal toxicity.
 The no-effect dose for embryo-fetal developmental toxicity was 2.2 Units/kg (less than the maximum recommended human dose [MRHD] on a body weight basis).
 
-In a study in which pregnant rabbits received daily intramuscular injections of DYSPORT (0.3, 3.3, or 6.7 Units/kg) on gestation days 6 through 19 or intermittently (13.3 Units/kg on gestation days 6 and 13 only) during organogenesis, no embryofetal data were available at the highest dose administered daily (6.7 Units/kg) because of premature death in all does at that dose.
+In a study in which pregnant rabbits received daily intramuscular injections of DYSPORT (0.3, 3.3, or 6.7 Units/kg) on gestation days 6 through 19 or intermittently (13.3 Units/kg on gestation days 6 and 13 only) during organogenesis, no embryofetal data were available at the highest dose administered daily (6.7 Units/kg) because of premature death in all doses at that dose.
 At the lower daily doses or with intermittent dosing, no adverse developmental effects were observed.
 All doses for which data were available are less than the MRHD on a body weight basis.
 
@@ -51,22 +51,13 @@ Glabellar Lines
 
 DYSPORT is not recommended for use in pediatric patients less than 18 years of age.
 
-Upper Limb Spasticity, Excluding Spasticity Caused by Cerebral Palsy
+Spasticity
 
 Safety and effectiveness have been established in pediatric patients 2 years of age and older [see Warnings and Precautions (5.1), Adverse Reactions (6.1), and Clinical Studies (14.4)].
-The safety and effectiveness of DYSPORT have been established by evidence from adequate and well-controlled studies of DYSPORT in patients 2 years of age and older with upper limb spasticity.
-A pediatric assessment for DYSPORT demonstrates that DYSPORT is safe and effective in another pediatric population.
-However, DYSPORT is not approved for such patient population due to marketing exclusivity for another botulinum toxin.
-
-Safety and effectiveness in pediatric patients below the age of 2 years have not been established [see Boxed Warning and Warnings and Precautions (5.2)].
-
-Lower Limb Spasticity in Pediatric Patients
-
-Safety and effectiveness have been established in pediatric patients 2 years of age and older [see Warnings and Precautions (5.1), Adverse Reactions (6.1), and Clinical Studies (14.4)].
-The safety and effectiveness of DYSPORT have been established by evidence from adequate and well-controlled studies of DYSPORT in patients 2 years of age and older with lower limb spasticity.
+The safety and effectiveness of DYSPORT have been established by evidence from adequate and well-controlled studies of DYSPORT in patients 2 years of age and older with upper and lower limb spasticity.
 The safety and effectiveness of DYSPORT injected into proximal muscles of the lower limb for the treatment of spasticity in pediatric patients has not been established [see Boxed Warning, Warnings and Precautions (5.2) and Adverse Reactions (6.1)].
 
-Safety and effectiveness in pediatric patients below the age of 2 years have not been established [see Boxed Warning, Warnings and Precautions (5.2)].
+Safety and effectiveness in pediatric patients below the age of 2 years have not been established [see Boxed Warning and Warnings and Precautions (5.2)].
 
 Juvenile Animal Data
 

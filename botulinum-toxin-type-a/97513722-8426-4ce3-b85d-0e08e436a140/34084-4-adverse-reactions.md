@@ -37,7 +37,7 @@ One patient experienced disturbance in attention, eyelid disorder, feeling abnor
 
 Table 7 compares the incidence of the most frequent adverse reactions from a single treatment cycle of 500 Units of DYSPORT compared to placebo [see Clinical Studies (14.1)].
 
-Table 7: Most Common Adverse Reactions (≥5%) and Greater than Placebo in the Pooled, Double-blind, Placebo-Controlled Phase of Clinical Trials in Patients with Cervical Dystonia
+Table 7: Most Common Adverse Reactions (≥5%) and Greater than Placebo in the Pooled, Double-Blind, Placebo-Controlled Phase of Clinical Trials in Patients with Cervical Dystonia
 
 | Any Adverse Reaction | 61 | 51 |
 | --- | --- | --- |
@@ -308,7 +308,7 @@ One subject tested positive for the presence of neutralizing antibodies.
 
 In total, from the 452 subjects treated with DYSPORT and tested for the presence of neutralizing antibodies, 0.2% developed neutralizing antibodies after treatment.
 
-Spasticity in Pediatric Patients 2 Years of Age or Older
+Spasticity in Pediatric Patients 2 Years of Age and Older
 
 Upper Limb Spasticity
 

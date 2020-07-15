@@ -37,7 +37,7 @@ Analyses by gender, weight, geographic region, underlying pain, cervical dystoni
 
 Table 15 indicates the average DYSPORT dose, and percentage of total dose, injected into specific muscles in the pivotal clinical trials.
 
-Table 15: DYSPORT 500 Units starting dose (units and % of the total dose) by Unilateral Muscle Injected During Double-blind Pivotal Phase 3 studies 2 and 1 Combined
+Table 15: DYSPORT 500 Units starting dose (units and % of the total dose) by Unilateral Muscle Injected During Double-Blind Pivotal Phase 3 studies 2 and 1 Combined
 
 | Median [DYSPORT Units] (min, max) | 75th percentile [DYSPORT Units] | Median [%] (min, max) | 75th percentile [%] |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -229,8 +229,8 @@ Table 23: Primary Endpoint Change in MAS and the First Secondary Endpoint PGA at
 
 Upper Limb Spasticity in Pediatric Patients
 
-The efficacy of DYSPORT for the treatment of upper limb spasticity in pediatric patients 2 years of age and older was evaluated in a double-blind, low-dose controlled, multicenter study (NCT02106351).
-A total of 208 toxin naive or non-naive (66% had prior treatment with a botulinum toxin) patients weighing at least 10 kgs, with a baseline Modified Ashworth Score (MAS) of grade 2 or greater (99% patients) at the primary targeted muscle groups (PTMG), were enrolled in the modified Intention to Treat population (mITT).
+The efficacy of DYSPORT for the treatment of upper limb spasticity in pediatric patients 2 to 17 years of age was evaluated in a double-blind, low-dose controlled, multicenter study (NCT02106351).
+A total of 208 patients with spasticity because of cerebral palsy who were toxin naive or non-naive (66% had prior treatment with a botulinum toxin), weighed at least 10 kgs, and had a baseline Modified Ashworth Score (MAS) of grade 2 or greater (99% patients) at the primary targeted muscle groups (PTMG) were enrolled in the modified Intention to Treat population (mITT).
 Patients received DYSPORT 16 Units/kg (n=70), DYSPORT 8 Units/kg (n=69), or DYSPORT 2 Units/kg (n=69) injected into the upper limb.
 The elbow flexors and wrist flexors respectively were the PTMG in 57% and in 43% of patients.
 The median age of the patients in this study was 9 years (range 2 to 17 years; 57% were between 2 and 9 years of age); 60% of patients were male, and 75% were White.
@@ -272,8 +272,9 @@ Table 25: Physician Global Assessment of Treatment Response at Week 6 in Pediatr
 
 Lower Limb Spasticity in Pediatric Patients
 
-The efficacy of DYSPORT was evaluated in a double-blind, placebo-controlled, multicenter study in patients 2 to 17 years of age treated for lower limb spasticity because of cerebral palsy causing dynamic equinus foot deformity.
-A total of 235 (158 DYSPORT and 77 placebo) toxin-naive or non-naive patients with a Modified Ashworth Score (MAS) of grade 2 or greater at the ankle plantar flexors were enrolled to receive DYSPORT 10 Units/kg/leg (n=79), DYSPORT 15 Units/kg/leg (n=79) or placebo (n=77) injected into the gastrocnemius and soleus muscles (see Table 27).
+The efficacy of DYSPORT for the treatment of lower limb spasticity in patients 2 to 17 years of age was evaluated in a double-blind, placebo-controlled, multicenter study.
+A total of 235 patients with cerebral palsy causing dynamic equinus foot deformity who were toxin-naive or non-naive and had a Modified Ashworth Score (MAS) of grade 2 or greater at the ankle plantar flexors were enrolled.
+Patients received DYSPORT 10 Units/kg/leg (n=79), DYSPORT 15 Units/kg/leg (n=79) or placebo (n=77) injected into the gastrocnemius and soleus muscles (see Table 27).
 Forty-one percent of patients (n=66) were treated bilaterally and received a total lower limb DYSPORT dose of either 20 Units/kg (n=37) or 30 Units/kg (n=29).
 The median age of the patients in this study was 5 years (range 2 to 17 years); 60% of patients were male, and 73% were Caucasian.
 
