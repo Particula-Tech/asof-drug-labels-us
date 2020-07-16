@@ -56,9 +56,9 @@ Peak plasma concentration of metoprolol is attained at 10 hours following admini
 
 Effect of food
 
-Compared to fasted state administration, high-fat, high-calorie meal (54.3% fat, 15.6% proteins and 30.1% carbohydrates) did not have a significant effect on the absorption of KAPSPARGO Sprinkle.
+Compared to fasted state administration, high-fat, high-calorie meal (54.3% fat, 15.6% proteins and 30.1% carbohydrates) did not have a significant effect on the absorption of KAPSPARGO SPRINKLE.
 
-KAPSPARGO Sprinkle (metoprolol succinate 200 mg) administered under fasting conditions to healthy adults by sprinkling the entire contents on one-tablespoon (15 mL) of applesauce did not significantly affect Tmax, Cmax, and AUC of metoprolol.
+KAPSPARGO SPRINKLE (metoprolol succinate 200 mg) administered under fasting conditions to healthy adults by sprinkling the entire contents on one-tablespoon (15 mL) of applesauce did not significantly affect Tmax, Cmax, and AUC of metoprolol.
 
 Distribution
 
@@ -102,10 +102,10 @@ Extensive metabolizers who concomitantly use CYP2D6 inhibiting drugs will have i
 
 Alcohol
 
-An in vitro dissolution study was conducted to evaluate the impact of alcohol (5, 10, 20 and 40%), on the extended-release characteristics of KAPSPARGO Sprinkle.
+An in vitro dissolution study was conducted to evaluate the impact of alcohol (5, 10, 20 and 40%), on the extended-release characteristics of KAPSPARGO SPRINKLE.
 The in vitro study showed that about 89% of the total metoprolol succinate dose was released at 2 hour at the highest alcohol level (40%), and about 17% of total drug was released at 2 hour with 5% alcohol.
-Alcohol causes a rapid release of metoprolol succinate from KAPSPARGO Sprinkle that may increase the risk for above events associated with KAPSPARGO Sprinkle.
-Consumption of alcohol is not recommended when taking KAPSPARGO Sprinkle 25 mg, 50 mg, 100 mg and 200 mg.
+Alcohol causes a rapid release of metoprolol succinate from KAPSPARGO SPRINKLE that may increase the risk for above events associated with KAPSPARGO SPRINKLE.
+Consumption of alcohol is not recommended when taking KAPSPARGO SPRINKLE 25 mg, 50 mg, 100 mg and 200 mg.
 
 ## 12.5 Pharmacogenomics
 

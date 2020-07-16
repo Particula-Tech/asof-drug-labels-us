@@ -2,7 +2,7 @@
 
 ## 1.1 Hypertension
 
-KAPSPARGO Sprinkle is indicated for the treatment of hypertension, to lower blood pressure.
+KAPSPARGO SPRINKLE is indicated for the treatment of hypertension, to lower blood pressure.
 Lowering blood pressure lowers the risk of fatal and non-fatal cardiovascular events, primarily strokes and myocardial infarctions.
 These benefits have been seen in controlled trials of antihypertensive drugs from a wide variety of pharmacologic classes including metoprolol.
 
@@ -19,12 +19,12 @@ Relative risk reduction from blood pressure reduction is similar across populati
 Some antihypertensive drugs have smaller blood pressure effects (as monotherapy) in black patients, and many antihypertensive drugs have additional approved indications and effects (eg, on angina, heart failure, or diabetic kidney disease).
 These considerations may guide selection of therapy.
 
-KAPSPARGO Sprinkle may be administered with other antihypertensive agents.
+KAPSPARGO SPRINKLE may be administered with other antihypertensive agents.
 
 ## 1.2 Angina Pectoris
 
-KAPSPARGO Sprinkle is indicated in the long-term treatment of angina pectoris, to reduce angina attacks and to improve exercise tolerance.
+KAPSPARGO SPRINKLE is indicated in the long-term treatment of angina pectoris, to reduce angina attacks and to improve exercise tolerance.
 
 ## 1.3 Heart Failure
 
-KAPSPARGO Sprinkle is indicated to reduce the risk of cardiovascular mortality and heart-failure hospitalization in patients with heart failure.
+KAPSPARGO SPRINKLE is indicated to reduce the risk of cardiovascular mortality and heart-failure hospitalization in patients with heart failure.

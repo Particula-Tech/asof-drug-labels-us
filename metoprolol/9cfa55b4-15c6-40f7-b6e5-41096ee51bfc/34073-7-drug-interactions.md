@@ -26,6 +26,6 @@ If replacing clonidine by beta-blocker therapy, delay the introduction of beta-b
 
 ## 7.5 Alcohol
 
-Metoprolol succinate is released faster from KAPSPARGO Sprinkle in the presence of alcohol.
-This may increase the risk for adverse events associated with KAPSPARGO Sprinkle.
-Avoid alcohol consumption when taking KAPSPARGO Sprinkle [see Clinical Pharmacology (12.3)].
+Metoprolol succinate is released faster from KAPSPARGO SPRINKLE in the presence of alcohol.
+This may increase the risk for adverse events associated with KAPSPARGO SPRINKLE.
+Avoid alcohol consumption when taking KAPSPARGO SPRINKLE [see Clinical Pharmacology (12.3)].

@@ -11,4 +11,4 @@ This 21-month study was repeated in CD-1 mice, and no statistically or biologica
 
 All genotoxicity tests performed on metoprolol tartrate (a dominant lethal study in mice, chromosome studies in somatic cells, a Salmonella/mammalian-microsome mutagenicity test, and a nucleus anomaly test in somatic interphase nuclei) and metoprolol succinate (a Salmonella/mammalian-microsome mutagenicity test) were negative.
 
-No evidence of impaired fertility due to metoprolol tartrate was observed in a study performed in rats at doses up to 22 times, on a mg/m2 basis, the daily dose of 200 mg in a 60 kg patient.
+No evidence of impaired fertility due to metoprolol tartrate was observed in a study performed in rats at doses up to 22 times, on a mg/m2 basis, the daily dose of 200 mg in a 60-kg patient.

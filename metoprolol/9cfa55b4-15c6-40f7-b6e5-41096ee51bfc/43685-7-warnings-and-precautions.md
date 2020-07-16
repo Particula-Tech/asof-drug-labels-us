@@ -1,6 +1,6 @@
 # 5 WARNINGS AND PRECAUTIONS
 
-## 5.1 Abrupt cessation of therapy
+## 5.1 Abrupt Cessation of Therapy
 
 Following abrupt cessation of therapy with certain beta-blocking agents, exacerbations of angina pectoris and, in some cases, myocardial infarction have occurred.
 When discontinuing chronically administered metoprolol succinate, particularly in patients with ischemic heart disease, gradually reduce the dosage over a period of 1 to 2 weeks and monitor the patient.

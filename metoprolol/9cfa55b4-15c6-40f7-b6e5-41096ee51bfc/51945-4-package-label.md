@@ -2,7 +2,7 @@
 
 NDC 10631-008-30
 
-KAPSPARGOTM Sprinkle
+Kapspargo Sprinkle®
 
 (metoprolol succinate)
 
@@ -20,7 +20,7 @@ ohm®
 
 NDC 10631-009-30
 
-KAPSPARGOTM Sprinkle
+Kapspargo Sprinkle®
 
 (metoprolol succinate)
 
@@ -38,7 +38,7 @@ ohm®
 
 NDC 10631-010-30
 
-KAPSPARGOTM Sprinkle
+Kapspargo Sprinkle®
 
 (metoprolol succinate)
 
@@ -56,7 +56,7 @@ ohm®
 
 NDC 10631-011-30
 
-KAPSPARGOTM Sprinkle
+Kapspargo Sprinkle®
 
 (metoprolol succinate)
 
