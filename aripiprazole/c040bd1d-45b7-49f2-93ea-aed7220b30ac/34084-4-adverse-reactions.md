@@ -514,4 +514,4 @@ General Disorders and Administration Site Conditions:
 ## 6.2 Postmarketing Experience
 
 The following adverse reactions have been identified during post-approval use of ABILIFY.
-Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to establish a causal relationship to drug exposure: occurrences of allergic reaction (anaphylactic reaction, angioedema, laryngospasm, pruritus/urticaria, or oropharyngeal spasm), pathological gambling, hiccups, blood glucose fluctuation, oculogyric crisis, restless legs syndrome and Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS).
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to establish a causal relationship to drug exposure: occurrences of allergic reaction (anaphylactic reaction, angioedema, laryngospasm, pruritus/urticaria, or oropharyngeal spasm), pathological gambling, hiccups, blood glucose fluctuation, oculogyric crisis and Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS).
