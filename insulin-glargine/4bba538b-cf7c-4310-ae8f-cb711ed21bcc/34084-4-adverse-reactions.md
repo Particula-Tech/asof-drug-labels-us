@@ -70,7 +70,7 @@ Allergic reactions (such as anaphylactic reaction, angioedema, and urticaria) ad
 
 Insulin glargine
 
-Severe, life-threatening, generalized allergy, including anaphylaxis, generalized skin reactions, angioedema, bronchospasm, hypotension, and shock may occur with any insulin, including SOLIQUA 100/33, and may be life threatening.
+Severe, life-threatening, generalized allergy, including anaphylaxis, generalized skin reactions, angioedema, bronchospasm, hypotension, and shock may occur with any insulin, including SOLIQUA 100/33, and may be life-threatening.
 
 Injection-Site Reactions
 

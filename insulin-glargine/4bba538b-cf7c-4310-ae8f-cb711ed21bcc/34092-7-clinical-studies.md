@@ -88,7 +88,7 @@ Table 6: Results of a 30-Week Study in Patients with Type 2 Diabetes Mellitus In
 
 |  | SOLIQUA 100/33 | Insulin Glargine 100 units/mL |
 | --- | --- | --- |
-| Number of subjects (randomized and treated) | 365 | 365 |
+| Number of Subjects (randomized and treated) | 365 | 365 |
 | HbA1c (%) |  |  |
 | Baseline (mean; post run-in phase) | 8.1 | 8.1 |
 | End of study (mean) | 6.9 | 7.5 |
