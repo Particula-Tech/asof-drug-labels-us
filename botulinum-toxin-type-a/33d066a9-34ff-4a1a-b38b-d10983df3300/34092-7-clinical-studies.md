@@ -443,7 +443,7 @@ Figure 16: Clinical Global Impression of Overall Change for Study 1 (Pediatric U
 Pediatric Lower Limb Spasticity
 
 The efficacy and safety of BOTOX for the treatment of lower limb spasticity in pediatric patients 2 to 17 years of age was evaluated in Study 2 (NCT01603628), a randomized, multi-center, double-blind, placebo-controlled study.
-Study 2 included 381 pediatric patients (125 BOTOX 4 Units/kg, 127 BOTOX 8 Units/kg, and 129 placebo) with lower limb spasticity (modified Ashworth Scale ankle score of at least 2).
+Study 2 included 381 pediatric patients (125 BOTOX 4 Units/kg, 127 BOTOX 8 Units/kg, and 129 placebo) with lower limb spasticity (modified Ashworth Scale ankle score of at least 2) because of cerebral palsy.
 A total dose of 4 Units/kg BOTOX (maximum 150 Units), 8 Units/kg BOTOX (maximum 300 Units), or placebo was injected intramuscularly and divided between the gastrocnemius, soleus, and tibialis posterior (see Table 41).
 Electromyographic guidance, nerve stimulation, or ultrasound techniques were used to assist in muscle localization for injections.
 Patients were followed for 12 weeks after injection.

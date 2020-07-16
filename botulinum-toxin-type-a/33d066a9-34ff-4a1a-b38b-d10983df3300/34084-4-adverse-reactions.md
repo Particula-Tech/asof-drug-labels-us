@@ -131,7 +131,7 @@ The type and frequency of adverse reactions observed in patients treated with 40
 Adult Lower Limb Spasticity
 
 The most frequently reported adverse reactions following injection of BOTOX for adult lower limb spasticity appear in Table 19.
-Two hundred thirty one patients enrolled in a double-blind placebo controlled study (Study 6) received 300 Units to 400 Units of BOTOX, and were compared with 233 patients who received placebo.
+Two hundred thirty-one patients enrolled in a double-blind placebo controlled study (Study 6) received 300 Units to 400 Units of BOTOX, and were compared with 233 patients who received placebo.
 Patients were followed for an average of 91 days after injection.
 
 Table 19: Adverse Reactions Reported by >2% of BOTOX Treated Patients and More Frequent than in Placebo-Treated Patients in Adult Lower Limb Spasticity Double-Blind, Placebo-Controlled Clinical Trial (Study 6)

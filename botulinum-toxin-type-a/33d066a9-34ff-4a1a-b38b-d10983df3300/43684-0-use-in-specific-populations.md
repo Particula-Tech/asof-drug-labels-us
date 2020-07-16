@@ -46,19 +46,8 @@ This trial did not establish the efficacy of BOTOX, compared with placebo, for t
 
 Spasticity
 
-Upper Limb Spasticity
-
 Safety and effectiveness have been established in pediatric patients 2 to 17 years of age [see Warnings and Precautions (5.1), Adverse Reactions (6.1), and Clinical Studies (14.5)].
-The safety and effectiveness of BOTOX have been established by evidence from adequate and well-controlled studies of BOTOX in patients 2 to 17 years of age with upper limb spasticity.
-
-Safety and effectiveness in pediatric patients below the age of 2 years have not been established [see Boxed Warning and Warnings and Precautions (5.1)].
-
-Lower Limb Spasticity, Excluding Spasticity Caused by Cerebral Palsy
-
-Safety and effectiveness have been established in pediatric patients 2 to 17 years of age [see Warnings and Precautions (5.1), Adverse Reactions (6.1), and Clinical Studies (14.5)].
-The safety and effectiveness of BOTOX have been established by evidence from adequate and well-controlled studies of BOTOX in patients 2 to 17 years of age with lower limb spasticity.
-A pediatric assessment for BOTOX demonstrates that BOTOX is safe and effective in another pediatric population.
-However, BOTOX is not approved for such patient population due to marketing exclusivity for another botulinum toxin.
+The safety and effectiveness of BOTOX have been established by evidence from adequate and well-controlled studies of BOTOX in patients 2 to 17 years of age with upper and lower limb spasticity.
 
 Safety and effectiveness in pediatric patients below the age of 2 years have not been established [see Boxed Warning and Warnings and Precautions (5.1)].
 

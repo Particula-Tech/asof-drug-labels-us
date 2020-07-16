@@ -18,34 +18,19 @@ Limitations of Use
 
 Safety and effectiveness have not been established for the prophylaxis of episodic migraine (14 headache days or fewer per month) in seven placebo-controlled studies.
 
-## 1.3Adult Spasticity
+## 1.3Spasticity
 
-Adult Upper Limb Spasticity
+BOTOX is indicated for the treatment of spasticity in patients 2 years of age and older.
 
-BOTOX is indicated for the treatment of upper limb spasticity in adult patients, to decrease the severity of increased muscle tone in elbow flexors (biceps), wrist flexors (flexor carpi radialis and flexor carpi ulnaris), finger flexors (flexor digitorum profundus and flexor digitorum sublimis), and thumb flexors (adductor pollicis and flexor pollicis longus).
+Limitations of Use
 
-Adult Lower Limb Spasticity
-
-BOTOX is indicated for the treatment of lower limb spasticity in adult patients to decrease the severity of increased muscle tone in ankle and toe flexors (gastrocnemius, soleus, tibialis posterior, flexor hallucis longus, and flexor digitorum longus).
-
-Limitations of Use Safety and effectiveness of BOTOX have not been established for the treatment of other upper or lower limb muscle groups.
 BOTOX has not been shown to improve upper extremity functional abilities, or range of motion at a joint affected by a fixed contracture.
 
-## 1.4 Pediatric Spasticity
-
-Pediatric Upper Limb Spasticity
-
-BOTOX is indicated for the treatment of upper limb spasticity in pediatric patients 2 to 17 years of age.
-
-Pediatric Lower Limb Spasticity, Excluding Spasticity Caused by Cerebral Palsy
-
-BOTOX is indicated for the treatment of lower limb spasticity in pediatric patients 2 to 17 years of age, excluding spasticity caused by cerebral palsy.
-
-## 1.5Cervical Dystonia
+## 1.4Cervical Dystonia
 
 BOTOX is indicated for the treatment of adults with cervical dystonia, to reduce the severity of abnormal head position and neck pain associated with cervical dystonia.
 
-## 1.6Primary Axillary Hyperhidrosis
+## 1.5Primary Axillary Hyperhidrosis
 
 BOTOX is indicated for the treatment of severe primary axillary hyperhidrosis that is inadequately managed with topical agents.
 
@@ -55,6 +40,6 @@ Patients should be evaluated for potential causes of secondary hyperhidrosis (e.
 
 Safety and effectiveness of BOTOX have not been established for the treatment of axillary hyperhidrosis in pediatric patients under age 18.
 
-## 1.7Blepharospasm and Strabismus
+## 1.6Blepharospasm and Strabismus
 
 BOTOX is indicated for the treatment of strabismus and blepharospasm associated with dystonia, including benign essential blepharospasm or VII nerve disorders in patients 12 years of age and older.

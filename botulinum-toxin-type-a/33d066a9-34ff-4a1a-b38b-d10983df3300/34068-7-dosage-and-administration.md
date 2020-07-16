@@ -232,12 +232,12 @@ Table 5: BOTOX Dosing by Muscle for Pediatric Upper Limb Spasticity
 
 Figure 4: Injection Sites for Pediatric Upper Limb Spasticity
 
-Pediatric Lower Limb Spasticity, Excluding Spasticity Caused by Cerebral Palsy
+Pediatric Lower Limb Spasticity
 
 The recommended dose for treating pediatric lower limb spasticity is 4 Units/kg to 8 Units/kg divided among the affected muscles (see Table 6 and Figure 5).
 The total dose of BOTOX administered per treatment session in the lower limb should not exceed 8 Units/kg or 300 Units, whichever is lower.
 
-Table 6: BOTOX Dosing by Muscle for Pediatric Lower Limb Spasticity, Excluding Spasticity Caused by Cerebral Palsy
+Table 6: BOTOX Dosing by Muscle for Pediatric Lower Limb Spasticity
 
 | Muscle | Recommended Dose Total Dosage (Number of Sites) |
 | --- | --- |
