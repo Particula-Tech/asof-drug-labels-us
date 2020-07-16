@@ -1,5 +1,7 @@
 # 3 DOSAGE FORMS AND STRENGTHS
 
-The 5 mg tablets are light yellow round film-coated tablets, and debossed with 23 on one side.
+Tablets:
 
-The 10 mg tablets are light pink round film-coated tablets, and debossed with 24 on one side.
+•5 mg: round, light yellow, debossed with 23
+
+•10 mg: round, light pink, debossed with 24

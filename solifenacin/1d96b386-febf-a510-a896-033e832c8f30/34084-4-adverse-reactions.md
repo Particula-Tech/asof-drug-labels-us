@@ -4,18 +4,18 @@
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-Solifenacin Succinate Tablets have been evaluated for safety in 1811 patients in randomized, placebo-controlled trials.
+Solifenacin Succinate Tablets have been evaluated for safety in 1811 adult patients in four randomized, placebo-controlled trials (Studies 1-4) [see Clinical Studies (14)].
 Expected adverse reactions of antimuscarinic agents are dry mouth, constipation, blurred vision (accommodation abnormalities), urinary retention, and dry eyes.
-The incidence of dry mouth and constipation in patients treated with Solifenacin Succinate Tablets was higher in the 10 mg compared to the 5 mg dose group.
+The incidence of dry mouth and constipation in patients treated with Solifenacin Succinate Tablets was higher in the 10 mg dose group compared to the 5 mg dose group.
 
 In the four 12-week double-blind clinical trials, severe fecal impaction, colonic obstruction, and intestinal obstruction were reported in one patient each, all in the Solifenacin Succinate Tablets 10 mg group.
-Angioneurotic edema has been reported in one patient taking Solifenacin Succinate Tablets 5 mg.
-Compared to 12 weeks of treatment with Solifenacin Succinate Tablets, the incidence and severity of adverse reactions were similar in patients who remained on drug for up to 12 months.
+Angioneurotic edema was reported in one patient taking Solifenacin Succinate Tablets 5 mg.
+Compared to 12 weeks of treatment with Solifenacin Succinate Tablets, the incidence and severity of adverse reactions were similar in patients who remained on drug for up to 12 months in Study 5 [see Clinical Studies (14)].
 
 The most frequent adverse reaction leading to study discontinuation was dry mouth (1.5%).
-Table 1 lists the rates of identified adverse reactions, derived from all reported adverse events, in randomized, placebo-controlled trials at an incidence greater than placebo and in 1% or more of patients treated with Solifenacin Succinate Tablets 5 or 10 mg once daily for up to 12 weeks.
+Table 1 lists the rates of identified adverse reactions, in the four randomized, placebo-controlled trials at an incidence greater than placebo and in 1% or more of patients treated with Solifenacin Succinate Tablets 5 or 10 mg once daily for up to 12 weeks.
 
-Table 1: Percentages of Patients with Identified Adverse Reactions, Derived from All Adverse Events Exceeding Placebo Rate and Reported by 1% or More Patients for Combined Pivotal Studies
+Table 1: Adverse Reactions Reported by ≥ 1% of Patients and Exceeding Placebo in Studies 1, 2, 3 and 4
 
 |  | Placebo (%) | Solifenacin Succinate Tablets 5 mg (%) | Solifenacin Succinate Tablets 10 mg (%) |
 | --- | --- | --- | --- |
@@ -48,30 +48,28 @@ Table 1: Percentages of Patients with Identified Adverse Reactions, Derived from
 | VASCULAR DISORDERS |  |  |  |
 | Hypertension NOS | 0.6 | 1.4 | 0.5 |
 
-## 6.2 Post-Marketing Experience
+## 6.2 Postmarketing Experience
 
-Because these spontaneously reported events are from the worldwide postmarketing experience, the frequency of events and the role of solifenacin in their causation cannot be reliably determined.
+The following adverse reactions have been identified during post-approval use of solifenacin succinate in the U.S. and/or outside of the U.S. Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-The following events have been reported in association with solifenacin use in worldwide postmarketing experience:
+General disorders and administration site conditions: peripheral edema, hypersensitivity reactions (including angioedema with airway obstruction, rash, pruritus, urticaria, anaphylactic reaction);
 
-General: peripheral edema, hypersensitivity reactions, including angioedema with airway obstruction, rash, pruritus, urticaria, and anaphylactic reaction;
+Nervous system disorders: dizziness, headache, confusion, hallucinations, delirium, somnolence;
 
-Central Nervous: headache, confusion, hallucinations, delirium, and somnolence;
+Cardiac disorders: QT prolongation, Torsade de Pointes, atrial fibrillation, tachycardia, palpitations;
 
-Cardiovascular: QT prolongation, Torsade de Pointes, atrial fibrillation, tachycardia, and palpitations;
+Hepatobiliary disorders: liver disorders mostly characterized by abnormal liver function tests, AST (aspartate aminotransferase), ALT (alanine aminotransferase), GGT (gamma-glutamyl transferase);
 
-Hepatic: liver disorders mostly characterized by abnormal liver function tests, AST (aspartate aminotransferase), ALT (alanine aminotransferase), and GGT (gamma-glutamyl transferase);
+Renal and urinary disorders: renal impairment, urinary retention;
 
-Renal: renal impairment;
+Metabolism and nutrition disorders: decreased appetite, hyperkalemia;
 
-Metabolism and nutrition disorders: decreased appetite and hyperkalemia;
-
-Dermatologic: exfoliative dermatitis, erythema multiforme, and dry skin;
+Skin and subcutaneous tissue disorders: exfoliative dermatitis, erythema multiforme, dry skin;
 
 Eye disorders: glaucoma;
 
-Gastrointestinal disorders: gastroesophageal reflux disease, ileus, abdominal pain, and dysgeusia;
+Gastrointestinal disorders: gastroesophageal reflux disease, ileus, vomiting, abdominal pain, dysgeusia, sialadenitis;
 
-Respiratory, thoracic and mediastinal disorders: dysphonia and nasal dryness;
+Respiratory, thoracic and mediastinal disorders: dysphonia, nasal dryness;
 
 Musculoskeletal and connective tissue disorders: muscular weakness.

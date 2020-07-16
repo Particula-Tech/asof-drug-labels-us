@@ -1,6 +1,6 @@
 # PRINCIPAL DISPLAY PANEL - 5 mg Bottle
 
-30 tablets NDC 60505- 4702-3
+﻿30 tablets NDC 60505- 4702-3
 
 Solifenacin Succinate
 
