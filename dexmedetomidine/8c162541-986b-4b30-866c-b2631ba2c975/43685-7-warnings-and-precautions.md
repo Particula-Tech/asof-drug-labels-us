@@ -2,7 +2,7 @@
 
 ## 5.1 Drug Administration
 
-Dexmedetomidine hydrochloride injection should be administered only by persons skilled in the management of patients in the intensive care or operating room setting.
+Dexmedetomidine injection should be administered only by persons skilled in the management of patients in the intensive care or operating room setting.
 Due to the known pharmacological effects of dexmedetomidine, patients should be continuously monitored while receiving dexmedetomidine.
 
 ## 5.2 Hypotension, Bradycardia, and Sinus Arrest
@@ -36,7 +36,7 @@ Intensive Care Unit Sedation With administration up to 7 days, regardless of dos
 The most common events were nausea, vomiting, and agitation.
 In adult subjects, tachycardia and hypertension requiring intervention in the 48 hours following study drug discontinuation occurred at frequencies of <5%.
 If tachycardia and/or hypertension occurs after discontinuation of dexmedetomidine supportive therapy is indicated.
-Procedural Sedation In adult subjects, withdrawal symptoms were not seen after discontinuation of short term infusions of dexmedetomidine (<6 hours).
+Procedural Sedation In adult subjects, withdrawal symptoms were not seen after discontinuation of short-term infusions of dexmedetomidine (<6 hours).
 
 ## 5.6 Tolerance and Tachyphylaxis
 
@@ -44,4 +44,4 @@ Use of dexmedetomidine beyond 24 hours has been associated with tolerance and ta
 
 ## 5.7 Hepatic Impairment
 
-Since dexmedetomidine clearance decreases with severity of hepatic impairment, dose reduction should be considered in patients with impaired hepatic function [see Dosage and Administration (2.2)].
+Since dexmedetomidine clearance decreases with severity of hepatic impairment, dose reduction should be considered in patients with impaired hepatic function [see Dosage and Administration (2.2, 2.3)].

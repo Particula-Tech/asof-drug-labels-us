@@ -1,6 +1,6 @@
 # 14 CLINICAL STUDIES
 
-The safety and efficacy of dexmedetomidine has been evaluated in four randomized, double-blind, placebo-controlled multicenter clinical trials in 1185 adult patients.
+The safety and efficacy of dexmedetomidine has been evaluated in four randomized, double-blind, placebo-controlled multicenter clinical trials in 1,185 adult patients.
 
 ## 14.1 Intensive Care Unit Sedation
 
@@ -36,7 +36,7 @@ Table 10: Midazolam Use as Rescue Medication During Intubation (ITT) Study One
 | Mean Total Dose (mg) of Midazolam Standard deviation | 19 mg 53 mg | 5 mg 19 mg | 0.0011* |
 | Categorized Midazolam Use |  |  |  |
 | 0 mg | 43 (25%) | 108 (61%) | <0.001** |
-| 0–4 mg | 34 (19%) | 36 (20%) |  |
+| 0 to 4 mg | 34 (19%) | 36 (20%) |  |
 | >4 mg | 98 (56%) | 34 (19%) |  |
 | ITT (intent-to-treat) population includes all randomized patients. * ANOVA model with treatment center. ** Chi-square. |  |  |  |
 
@@ -58,7 +58,7 @@ Table 11: Propofol Use as Rescue Medication During Intubation (ITT) Study Two
 | Mean Total Dose (mg) of Propofol Standard deviation | 513 mg 782 mg | 72 mg 249 mg | <0.0001* |
 | Categorized Propofol Use |  |  |  |
 | 0 mg | 47 (24%) | 122 (60%) | <0.001** |
-| 0–50 mg | 30 (15%) | 43 (21%) |  |
+| 0 to 50 mg | 30 (15%) | 43 (21%) |  |
 | >50 mg | 121 (61%) | 38 (19%) |  |
 | * ANOVA model with treatment center. ** Chi-square |  |  |  |
 
@@ -108,7 +108,7 @@ Table 13: Key Efficacy Results of Procedural Sedation Studies
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Study 1 | Dexmedetomidine 0.5 mcg/kg | 134 | 40 | 37 (27, 48) | 1.4 (1.7) | -2.7 (-3.4, -2.0) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | Dexmedetomidine 1 mcg/kg | 129 | 54 | 51 (40, 62) | 0.9 (1.5) | -3.1 (-3.8, -2.5) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| placebo | 63 | 3 | - | 4.1 (3.0) | - |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Placebo | 63 | 3 | - | 4.1 (3.0) | - |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | Study 2 | Dexmedetomidine 1 mcg/kg | 55 | 53 | 39 (20, 57) | 1.1 (1.5) | -1.8 (-2.7, -0.9) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| placebo | 50 | 14 | - | 2.9 (3.0) | - |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Placebo | 50 | 14 | - | 2.9 (3.0) | - |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | a Based on ITT population defined as all randomized and treated patients. b Normal approximation to the binomial with continuity correction. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
