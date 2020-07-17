@@ -1,4 +1,4 @@
-# PRINCIPAL DISPLAY PANEL - BOTTLE LABEL
+# PRINCIPAL DISPLAY PANEL - Bottle Label
 
 NDC 52652-3001-1
 
@@ -8,11 +8,9 @@ Oral Solution 1 mg/mL
 
 READY TO USE
 
-150 mL Silvergate Pharmaceuticals Inc. Rx Only
+150 mL azurity™ pharmaceuticals Rx Only
 
-70036823
-
-Each 1 mL contains 1 mg of lisinopril
+Each 1 mL contains 1 mg of lisinopril.
 
 Usual Dose: See prescribing information.
 
@@ -21,7 +19,8 @@ Keep container tightly closed.
 
 KEEP THIS AND ALL MEDICATIONS OUT OF THE REACH OF CHILDREN
 
-Manufactured for: Silvergate Pharmaceuticals, Inc. 6251 Greenwood Plaza Blvd.
-Greenwood Village, CO 80111
+P/N 141146
 
-© Silvergate 2018
+Manufactured for: Azurity Pharmaceuticals, Inc. Wilmington, MA 01887 USA
+
+Lot: Exp:
