@@ -3,7 +3,7 @@
 ## 12.1 Mechanism of Action
 
 The calcium-sensing receptor on the surface of the chief cell of the parathyroid gland is the principal regulator of PTH synthesis and secretion.
-Cinacalcet, the active ingredient in cinacalcet hydrochloride tablets, is a calcimimetic agent that directly lowers PTH levels by increasing the sensitivity of the calcium-sensing receptor to extracellular calcium.
+Cinacalcet, the active ingredient in cinacalcet tablets, is a calcimimetic agent that directly lowers PTH levels by increasing the sensitivity of the calcium-sensing receptor to activation by extracellular calcium.
 The reduction in PTH is associated with a concomitant decrease in serum calcium levels.
 
 ## 12.2 Pharmacodynamics
@@ -20,7 +20,7 @@ Absorption and Distribution
 
 After oral administration of cinacalcet, Cmax is achieved in approximately 2 to 6 hours.
 Cinacalcet Cmax and AUC(0-infinite) were increased by 82% and 68%, respectively, following administration with a high-fat meal compared with fasting in healthy volunteers.
-The Cmax and AUC(0-infinite) of cinacalcet were increased by 65% and 50%, respectively, when cinacalcet hydrochloride tablets were administered with a low-fat meal compared with fasting.
+The Cmax and AUC(0-infinite) of cinacalcet were increased by 65% and 50%, respectively, when cinacalcet was administered with a low-fat meal compared with fasting.
 
 After absorption, cinacalcet concentrations decline in a biphasic fashion with an initial half-life of approximately 6 hours and terminal half-life of 30 to 40 hours.
 Steady-state drug levels are achieved within 7 days, and the mean accumulation ratio is approximately 2 with once daily oral administration.
@@ -34,7 +34,7 @@ The ratio of blood cinacalcet concentration to plasma cinacalcet concentration i
 Metabolism and Excretion
 
 Cinacalcet is metabolized by multiple enzymes, primarily CYP3A4, CYP2D6, and CYP1A2.
-After administration of a 75 mg radiolabeled dose to healthy volunteers, cinacalcet was metabolized via: 1) oxidative N-dealkylation to hydrocinnamic acid and hydroxy -hydrocinnamic acid, which are further metabolized via β-oxidation and glycine conjugation; the oxidative N-dealkylation process also generates metabolites that contain the naphthalene ring; and 2) oxidation of the naphthalene ring on the parent drug forming dihydrodiols, which are further conjugated with glucuronic acid.
+After administration of a 75 mg radiolabeled dose to healthy volunteers, cinacalcet was metabolized via: 1) oxidative N-dealkylation to hydrocinnamic acid and hydroxy-hydrocinnamic acid, which are further metabolized via β-oxidation and glycine conjugation; the oxidative N-dealkylation process also generates metabolites that contain the naphthalene ring; and 2) oxidation of the naphthalene ring on the parent drug forming dihydrodiols, which are further conjugated with glucuronic acid.
 The plasma concentrations of the major circulating metabolites, including the cinnamic acid derivatives and glucuronidated dihydrodiols, markedly exceed the parent drug concentrations.
 The hydrocinnamic acid metabolite and glucuronide conjugates have minimal or no calcimimetic activity.
 Renal excretion of metabolites was the primary route of elimination of radioactivity.
@@ -49,7 +49,7 @@ The pharmacokinetic profile of cinacalcet in geriatric patients (age ≥ 65 year
 
 Hepatic Impairment
 
-The disposition of a 50 mg cinacalcet hydrochloride tablets single dose was compared between patients with hepatic impairment and patients with normal hepatic function.
+The disposition of a 50 mg cinacalcet single dose was compared between patients with hepatic impairment and patients with normal hepatic function.
 Cinacalcet exposure (AUC(0-infinite)) was comparable between healthy volunteers and patients with mild hepatic impairment.
 However, in patients with moderate and severe hepatic impairment (as indicated by the Child-Pugh method), cinacalcet exposures (AUC(0-infinite)) were 2.4 and 4.2 fold higher, respectively, than that in healthy volunteers.
 The mean half-life of cinacalcet increased from 49 hours in healthy volunteers to 65 hours and 84 hours in patients with moderate and severe hepatic impairment, respectively.
@@ -57,12 +57,12 @@ Protein binding of cinacalcet is not affected by impaired hepatic function [see 
 
 Renal Impairment
 
-The pharmacokinetic profile of a 75 mg cinacalcet hydrochloride tablets single dose in patients with mild, moderate, and severe renal impairment, and those on hemodialysis or peritoneal dialysis is comparable with that in healthy volunteers [see Use in Specific Populations (8.6)].
+The pharmacokinetic profile of a 75 mg cinacalcet single dose in patients with mild, moderate, and severe renal impairment, and those on hemodialysis or peritoneal dialysis is comparable with that in healthy volunteers [see Use in Specific Populations (8.6)].
 
 Drug Interactions
 
 In vitro studies indicate that cinacalcet is a strong inhibitor of CYP2D6, but not an inhibitor of CYP1A2, CYP2C9, CYP2C19, and CYP3A4.
-In vitro induction studies indicate that cinacalcet hydrochloride tablets is not an inducer of CYP450 enzymes.
+In vitro induction studies indicate that cinacalcet is not an inducer of CYP450 enzymes.
 Tables 5 and 6 list the findings from in vivo drug-drug interaction studies.
 
 Table 5.
@@ -83,7 +83,7 @@ Effect of cinacalcet co-administration on other drugs
 | Cinacalcet dosing regimen | Co-administered drug |  |  |
 | --- | --- | --- | --- |
 | Name and Dose | Mean change in AUC(0-inf) | Mean change in Cmax |  |
-| 30 mg twice daily for 8 days | 25 mg warfarin* tablet† | ↑1 % for R-warfarin ↓1% S-warfarin | ↓10 % for R-warfarin ↓12 % for S-warfarin |
+| 30 mg twice daily for 8 days | 25 mg warfarin* tablet† | ↑1 % for R-warfarin ↓1% for S-warfarin | ↓10 % for R-warfarin ↓12 % for S-warfarin |
 | 90 mg daily for 7 days to CYP2D6 extensive metabolizers | 50 mg desipramine† | ↑264% | ↑75% |
 | 90 mg daily for 5 days | 2 mg midazolam† | ↑5% | ↓5% |
 | 25 or 100 mg single dose to CYP2D6 extensive metabolizers | 50 mg amitriptyline single dose | ↑21 to 22% for amitriptyline ↑17 to 23% for nortriptyline‡ | ↑13 to 21% for amitriptyline ↑11to 15% for nortriptyline‡ |

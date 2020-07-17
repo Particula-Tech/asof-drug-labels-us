@@ -2,7 +2,7 @@
 
 NDC 64380-883-04
 
-Cinacalcet Hydrochloride Tablets
+Cinacalcet Tablets
 
 30 mg
 
@@ -14,7 +14,7 @@ Rx only
 
 NDC 64380-884-04
 
-Cinacalcet Hydrochloride Tablets
+Cinacalcet Tablets
 
 60 mg
 
@@ -26,7 +26,7 @@ Rx only
 
 NDC 64380-885-04
 
-Cinacalcet Hydrochloride Tablets
+Cinacalcet Tablets
 
 90 mg
 

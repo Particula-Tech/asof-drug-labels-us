@@ -3,7 +3,7 @@
 ## 7.1 Strong CYP3A4 Inhibitors
 
 Cinacalcet is partially metabolized by CYP3A4.
-Dose adjustment of cinacalcet hydrochloride tablets may be required if a patient initiates or discontinues therapy with a strong CYP3A4 inhibitor (e.g., ketoconazole, itraconazole).
+Dose adjustment of cinacalcet tablets may be required if a patient initiates or discontinues therapy with a strong CYP3A4 inhibitor (e.g., ketoconazole, itraconazole).
 The iPTH and serum calcium concentrations should be closely monitored in these patients [see Clinical Pharmacology (12.3)].
 
 ## 7.2 CYP2D6 Substrates
