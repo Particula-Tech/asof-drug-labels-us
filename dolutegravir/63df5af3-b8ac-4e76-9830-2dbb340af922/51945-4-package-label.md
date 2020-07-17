@@ -16,7 +16,7 @@ Each tablet contains 5 mg of dolutegravir equivalent to 5.26 mg of dolutegravir 
 
 Do not chew, cut, or crush tablet for oral suspension.
 
-Do not use if tamper-evident label is broken or missing.
+Do not accept if membrane seal under cap is missing or broken.
 
 See prescribing information for dosage information.
 
@@ -35,9 +35,9 @@ Contents:
 Made in Japan
 
 Rev.
-6/2020
+7/2020
 
-62000000048590
+62000000053856
 
 PRINCIPAL DISPLAY PANEL
 
