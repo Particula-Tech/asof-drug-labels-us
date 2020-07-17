@@ -16,7 +16,7 @@ To order: Call 1-866-ARESTIN (273-7846) or visit our Web site at www.ArestinProf
 
 oraPHARMA
 
-2 resealable foil pouches 12 cartridges per pouch 1 mg of minocycline per cartridge
+2 resealable foil pouches 12 cartridges per pouch 1 mg of minocycline
 
 # Principal Display Panel – 1 mg pouch containing 1 cartridge
 
