@@ -24,7 +24,7 @@ DISCARD UNUSED PORTION.
 
 Rx only
 
-Pfizer Biosimilars
+Pfizer Oncology
 
 # PRINCIPAL DISPLAY PANEL - 16 mL Vial Label
 
@@ -52,4 +52,4 @@ DISCARD UNUSED PORTION.
 
 Rx only
 
-Pfizer Biosimilars
+Pfizer Oncology
