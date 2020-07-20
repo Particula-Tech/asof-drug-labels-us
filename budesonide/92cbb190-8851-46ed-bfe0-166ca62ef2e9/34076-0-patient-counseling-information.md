@@ -14,7 +14,7 @@ Immunosuppression
 
 Patients who are on immunosuppressant doses of glucocorticosteroids should be warned to avoid exposure to chickenpox or measles and, if exposed, to consult their physician immediately.
 If exposure to such a person occurs, and the patient has not had chickenpox or been properly vaccinated, a physician should be consulted immediately.
-Patients should be informed of potential worsening of existing tuberculosis, fungal, bacterial, viral, or parasitic infections, or ocular herpes simplex [see Warnings and Precautions (5.3)].
+Patients should be informed of potential worsening of existing tuberculosis, fungal, bacterial, viral, or parasitic infections, or ocular herpes simplex [seeWarnings and Precautions (5.3)].
 
 How to Take UCERIS Extended-Release Tablets
 
@@ -27,11 +27,15 @@ Advise female patients that UCERIS may cause fetal harm and to inform their heal
 
 suspected pregnancy [see Use in Specific Populations (8.1)].
 
-Distributed by: Salix Pharmaceuticals, a division of Bausch Health US, LLC
+Distributed by:
+
+Salix Pharmaceuticals, a division of
+
+Bausch Health US, LLC
 
 Bridgewater, NJ 08807 USA
 
-By:
+Manufactured by:
 
 Cosmo S.p.A.
 
@@ -39,10 +43,12 @@ Milan, 20020 Italy
 
 By license of Cosmo Technologies Ltd., Dublin, Ireland
 
-U.S. Patent Numbers: 7,410,651; 7,431,943; 8,293,273; 8,784,888; 8,895,064; 9,132,093; 9,192,581; 9,320,716;
+U.S. Patent Numbers: 7,410,651; 7,431,943; 8,293,273; 8,784,888; 8,895,064; 9,132,093; 9,192,581; 9,320,716; 9,532,954; 9,592,203; 9,737,489; 10,052,286; 10,064,878; 10,105,374; 10,143,698; 10,154,964; 10,172,799; 10,307,375 and RE43799
 
-9,532,954; 9,592,203 and RE43799
+UCERIS and the Salix logo are trademarks of Salix Pharmaceuticals, Inc.
 
-UCERIS is a trademark of Salix Pharmaceuticals, Inc. or its affiliates.
+or its affiliates.
 
 © 2020 Salix Pharmaceuticals, Inc. or its affiliates
+
+9464203 70014813

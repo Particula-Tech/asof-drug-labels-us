@@ -3,7 +3,7 @@
 ## 12.1 Mechanism of Action
 
 Budesonide has a high topical glucocorticosteroid (GCS) activity and substantial first-pass elimination.
-The formulation contains budesonide in an extended release tablet core.
+The formulation contains budesonide in an extended-release tablet core.
 The tablet core is enteric coated to protect dissolution in gastric juice which delays budesonide release until exposure to a pH ≥7 in the small intestine.
 Upon disintegration of the coating, the core matrix provides extended release of budesonide in a time dependent manner.
 
@@ -20,33 +20,18 @@ In a study assessing the response to ACTH stimulation test in patients treated w
 
 Absorption
 
-Following single oral administration of UCERIS 9 mg in healthy subjects, peak plasma concentration (Cmax) was 1.35 ±
-
-0.96 ng/mL, the time to peak concentration (Tmax) on average was 13.3 ± 5.9 hours, although it varied across different
-
-individual patients, and the area under the plasma concentration time curve (AUC) was approximately 16.43 ± 10.52
-
-ng·hr/mL.
+Following single oral administration of UCERIS 9 mg in healthy subjects, peak plasma concentration (Cmax) was 1.35 ± 0.96 ng/mL, the time to peak concentration (Tmax) on average was 13.3 ± 5.9 hours, although it varied across different individual patients, and the area under the plasma concentration time curve (AUC) was approximately 16.43 ± 10.52 ng·hr/mL.
 The pharmacokinetic parameters of UCERIS 9 mg have a high degree of variability among subjects.
-There was
-
-no accumulation of budesonide with respect to both AUC and Cmax following 7 days of UCERIS 9 mg once daily dosing.
-
+There was no accumulation of budesonide with respect to both AUC and Cmax following 7 days of UCERIS 9 mg once daily dosing.
 Food Effect
 
-A food-effect study involving administration of UCERIS to healthy volunteers under fasting conditions and with a
-
-high-fat meal indicated that the Cmax was decreased by 27% while there was no significant decrease in AUC.
-Additionally,
-
-a mean delay in absorption lag time of 2.4 hours was observed under fed conditions.
+A food-effect study involving administration of UCERIS to healthy volunteers under fasting conditions and with a high-fat meal indicated that the Cmax was decreased by 27% while there was no significant decrease in AUC.
+Additionally, a mean delay in absorption lag time of 2.4 hours was observed under fed conditions.
 
 Distribution
 
 The mean volume of distribution (VSS) of budesonide varies between 2.2 and 3.9 L/kg in healthy subjects and in patients.
-
 Plasma protein binding is estimated to be 85 to 90% in the concentration range 1 to 230 nmol/L, independent of gender.
-
 The erythrocyte/plasma partition ratio at clinically relevant concentrations is about 0.8.
 
 Elimination
@@ -54,31 +39,17 @@ Elimination
 Metabolism
 
 Following absorption, budesonide is subject to high first-pass metabolism (80-90%).
-In vitro experiments in human liver
-
-microsomes demonstrate that budesonide is rapidly and extensively biotransformed, mainly by CYP3A4, to its 2 major
-
-metabolites, 6β-hydroxy budesonide and 16α-hydroxy prednisolone.
+In vitro experiments in human liver microsomes demonstrate that budesonide is rapidly and extensively biotransformed, mainly by CYP3A4, to its 2 major metabolites, 6β-hydroxy budesonide and 16α-hydroxy prednisolone.
 The glucocorticoid activity of these metabolites is negligible (<1/100) in relation to that of the parent compound.
-
-In vivo investigations with intravenous doses in healthy subjects are in agreement with the in vitro findings and
-
-demonstrate that budesonide has a high plasma clearance, 0.9-1.8 L/min.
-These high plasma clearance values approach
-
-the estimated liver blood flow, and, accordingly, suggest that budesonide is a high hepatic clearance drug.
-
+In vivo investigations with intravenous doses in healthy subjects are in agreement with the in vitro findings and demonstrate that budesonide has a high plasma clearance, 0.9-1.8 L/min.
+These high plasma clearance values approach the estimated liver blood flow, and, accordingly, suggest that budesonide is a high hepatic clearance drug.
 The plasma elimination half-life, t1/2, after administration of intravenous doses ranges between 2 and 3.6 hours.
 
 Excretion
 
 Budesonide is excreted in urine and feces in the form of metabolites.
-After oral as well as intravenous administration of
-
-micronized [3H]-budesonide, approximately 60% of the recovered radioactivity is found in urine.
-The major metabolites,
-
-including 6β-hydroxy budesonide and 16α-hydroxy prednisolone, are mainly renally excreted, intact or in conjugated forms.
+After oral as well as intravenous administration of micronized [3H]-budesonide, approximately 60% of the recovered radioactivity is found in urine.
+The major metabolites, including 6β-hydroxy budesonide and 16α-hydroxy prednisolone, are mainly renally excreted, intact or in conjugated forms.
 No unchanged budesonide is detected in urine.
 
 Specific Populations
@@ -86,44 +57,21 @@ Specific Populations
 Patients with Renal Impairment
 
 The pharmacokinetics of budesonide in patients with renal impairment have not been studied.
-Intact budesonide is not
-
-renally excreted, but metabolites are to a large extent, and might therefore reach higher levels in patients with impaired
-
-renal function.
+Intact budesonide is not renally excreted, but metabolites are to a large extent, and might therefore reach higher levels in patients with impaired renal function.
 However, these metabolites have negligible corticosteroid activity as compared with budesonide (<1/100).
-
 Patients with Hepatic Impairment
 
-In patients with liver cirrhosis, systemic availability of orally administered budesonide correlates with disease severity and
-
-is, on average, 2.5-fold higher compared with healthy controls.
+In patients with liver cirrhosis, systemic availability of orally administered budesonide correlates with disease severity and is, on average, 2.5-fold higher compared with healthy controls.
 Patients with mild liver disease are minimally affected.
-
 Patients with severe liver dysfunction were not studied.
-Absorption parameters were not altered, and for the intravenous
-
-dose, no significant differences in CL or VSS were observed.
+Absorption parameters were not altered, and for the intravenous dose, no significant differences in CL or VSS were observed.
 
 Drug Interaction Studies
 
 Budesonide is metabolized via CYP3A4.
-Potent inhibitors of CYP3A4 can increase the plasma levels of budesonide
-
-several-fold.
-Co-administration of ketoconazole results in an eight-fold increase in AUC of budesonide, compared to
-
-budesonide alone.
-Grapefruit juice, an inhibitor of gut mucosal CYP3A, approximately doubles the systemic exposure of
-
-oral budesonide.
-Conversely, induction of CYP3A4 can result in the lowering of budesonide plasma levels [see Dosage
-
-and Administration (2) and Drug Interactions (7)].
-
-Oral contraceptives containing ethinyl estradiol, which are also metabolized by CYP3A4, do not affect the
-
-pharmacokinetics of budesonide.
-Budesonide does not affect the plasma levels of oral contraceptives (i.e., ethinyl
-
-estradiol).
+Potent inhibitors of CYP3A4 can increase the plasma levels of budesonide several-fold.
+Co-administration of ketoconazole results in an eight-fold increase in AUC of budesonide, compared to budesonide alone.
+Grapefruit juice, an inhibitor of gut mucosal CYP3A, approximately doubles the systemic exposure of oral budesonide.
+Conversely, induction of CYP3A4 can result in the lowering of budesonide plasma levels [see Dosage and Administration (2) and Drug Interactions (7)].
+Oral contraceptives containing ethinyl estradiol, which are also metabolized by CYP3A4, do not affect the pharmacokinetics of budesonide.
+Budesonide does not affect the plasma levels of oral contraceptives (i.e., ethinyl estradiol).
