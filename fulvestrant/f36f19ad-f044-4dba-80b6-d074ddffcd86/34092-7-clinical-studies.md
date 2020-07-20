@@ -145,25 +145,25 @@ All patients had received prior systemic therapy and 75% of patients had receive
 Twenty-five percent of patients had received no prior therapy in the metastatic disease setting, 60% had visceral metastases, and 23% had bone only disease.
 
 The results from the investigator-assessed PFS and final OS data from PALOMA-3 are summarized in Table 15.
-The relevant Kaplan-Meier plots are shown in Figures 9 and 10 respectively.
+The relevant Kaplan-Meier plots are shown in Figures 9 and 10, respectively.
 Consistent PFS results were observed across patient subgroups of disease site, sensitivity to prior hormonal therapy, and menopausal status.
 After a median follow-up time of 45 months, the final OS results were not statistically significant.
 
 Table 15: Efficacy Results in PALOMA-3 (Investigator Assessment, ITT Population)
 
-|  | Fulvestrant plus Palbociclib N=347 | Fulvestrant plus Placebo N=174 |
+|  | Fulvestrant plus Palbociclib | Fulvestrant plus Placebo |
 | --- | --- | --- |
-| Progression-Free Survival for ITT |  |  |
+| Progression-Free Survival for ITT | N=347 | N=174 |
 | Number of PFS Events (%) | 145 (41.8%) | 114 (65.5%) |
 | Median PFS (months) (95% CI) | 9.5 (9.2 to 11.0) | 4.6 (3.5 to 5.6) |
 | Hazard Ratio (95% CI) and p-value | 0.461 (0.360 to 0.591) p <0.0001 |  |
 | Objective Response for Patients with Measurable Disease | N=267 | N=138 |
 | Objective response rate1 (%, 95% CI) | 24.6 (19.6 to 30.2) | 10.9 (6.2 to 17.3) |
-| Overall Survival for ITT population | N=347 | N=147 |
+| Overall Survival for ITT population | N=347 | N=174 |
 | Number of OS events (%) | 201 (57.9) | 109 (62.6) |
 | Median OS (months) (95% CI) | 34.9 (28.8, 40.0) | 28.0 (23.6, 34.6) |
 | Hazard Ratio (95% CI) and p-value | 0.814 (0.644, 1.029), p=0.08572,3 |  |
-| N=number of patients; PFS=progression-free survival CI=confidence interval; ITT=Intent-to-Treat OS=overall survival.1. Responses are based on confirmed responses.2. Not statistically significant at the pre-specified 2-sided alpha level of 0.047.3. 2-sided p-value from the log-rank test stratified by the presence of visceral metastases and sensitivity to prior endocrine therapy per randomization. |  |  |
+| N=number of patients; PFS=progression-free survival; CI=confidence interval; ITT=Intent-to-Treat; OS=overall survival.1. Responses are based on confirmed responses.2. Not statistically significant at the pre-specified 2-sided alpha level of 0.047.3. 2-sided p-value from the log-rank test stratified by the presence of visceral metastases and sensitivity to prior endocrine therapy per randomization. |  |  |
 
 Figure 9: Kaplan-Meier Plot of Progression-Free Survival (Investigator Assessment, ITT Population) ─ PALOMA-3
 
@@ -185,26 +185,32 @@ Twenty percent (20%) of patients had de novo metastatic disease, 27% had bone on
 Twenty-five percent (25%) of patients had primary endocrine therapy resistance.
 Seventeen percent (17%) of patients were pre- or perimenopausal.
 
-The efficacy results from the MONARCH 2 study are summarized in Table 16 and Figure 11.
-Median PFS assessment based on a blinded independent radiologic review was consistent with the investigator assessment.
-Consistent results were observed across patient stratification subgroups of disease site and endocrine therapy resistance.
-At the time of primary analysis of PFS, overall survival data were not mature (20% of patients had died).
+The efficacy results from the MONARCH 2 study are summarized in Table 16, Figure 11, and Figure 12.
+PFS assessment based on a blinded independent radiologic review was consistent with the investigator assessment.
+Consistent results were observed across patient stratification subgroups of disease site and endocrine therapy resistance for PFS and OS.
 
-Table 16: Efficacy Results in MONARCH 2 (Investigator Assessment, Intent-to-Treat Population)
+Table 16: Efficacy Results in MONARCH 2 (Intent-to-Treat Population)
 
 |  | Fulvestrant plus Abemaciclib | Fulvestrant plus Placebo |
 | --- | --- | --- |
-| Progression-Free Survival | N=446 | N=223 |
+| Progression-Free Survival (Investigator Assessment) | N=446 | N=223 |
 | Number of patients with an event (n, %) | 222 (49.8) | 157 (70.4) |
 | Median (months, 95% CI) | 16.4 (14.4, 19.3) | 9.3 (7.4, 12.7) |
-| Hazard ratio (95% CI) | 0.553 (0.449, 0.681) |  |
-| p-value | p<.0001 |  |
+| Hazard ratio (95% CI)1 | 0.553 (0.449, 0.681) |  |
+| p-value1 | p<0.0001 |  |
+| Overall Survival2 |  |  |
+| Number of deaths (n, %) | 211 (47.3) | 127 (57.0) |
+| Median OS in months (95% CI) | 46.7 (39.2, 52.2) | 37.3 (34.4, 43.2) |
+| Hazard ratio (95% CI)1 | 0.757 (0.606, 0.945) |  |
+| p-value1 | p=0.0137 |  |
 | Objective Response for Patients with Measurable Disease | N=318 | N=164 |
-| Objective response rate1(n, %) | 153 (48.1) | 35 (21.3) |
+| Objective response rate3(n, %) | 153 (48.1) | 35 (21.3) |
 | 95% CI | 42.6, 53.6 | 15.1, 27.6 |
-| Abbreviations: CI = confidence interval. 1. Complete response + partial response. |  |  |
+| Abbreviations: CI = confidence interval, OS=overall survival. 1. Stratified by disease site (visceral metastases vs. bone-only metastases vs. other) and endocrine therapy resistance (primary resistance vs. secondary resistance). 2. Data from a pre-specified interim analysis (77% of the number of events needed for the planned final analysis) with the p-value compared with the allocated alpha of 0.021. 3. Complete response + partial response. |  |  |
 
 Figure 11: Kaplan-Meier Curves of Progression-Free Survival: Fulvestrant Plus Abemaciclib versus Fulvestrant plus Placebo (MONARCH 2)
+
+Figure 12: Kaplan-Meier Curves of Overall Survival: Fulvestrant plus Abemaciclib versus Fulvestrant plus Placebo (MONARCH 2)
 
 Postmenopausal women with HR-positive, HER2-negative advanced or metastatic breast cancer for initial endocrine based therapy or after disease progression on endocrine therapy
 
@@ -220,12 +226,12 @@ Patients enrolled in this study had a median age of 63 years (range 31 to 89).
 Of the patients enrolled, 47% were 65 years and older, including 14% age 75 years and older.
 The patients enrolled were primarily Caucasian (85%), Asian (9%), and Black (0.7%).
 Nearly all patients (99.7%) had an ECOG performance status of 0 or 1.
-First and second line patients were enrolled in this study (of which 19% had de novo metastatic disease).
+First- and second-line patients were enrolled in this study (of which 19% had de novo metastatic disease).
 Forty-three percent (43%) of patients had received chemotherapy in the adjuvant vs. 13% in the neoadjuvant setting and 59% had received endocrine therapy in the adjuvant vs. 1% in the neoadjuvant setting prior to study entry.
-Twenty-one percent (21%) of patients had bone only disease and 61% had visceral disease.
+Twenty-one percent (21%) of patients had bone-only disease and 61% had visceral disease.
 Demographics and baseline disease characteristics were balanced and comparable between study arms.
 
-The efficacy results from MONALEESA-3 are summarized in Table 17 and Figure 12.
+The efficacy results from MONALEESA-3 are summarized in Table 17 and Figure 13.
 Consistent results were observed in stratification factor subgroups of disease site and prior endocrine treatment for advanced disease.
 At the time of the PFS analysis, 17% of patients had died, and overall survival data were immature.
 
@@ -242,4 +248,4 @@ Table 17: Efficacy Results – MONALEESA-3 (Investigator Assessment, Intent-to-T
 | Patients with measurable disease (95% CI) | 40.9 (35.9, 45.8) | 28.7 (22.1, 35.3) |
 | 1. p-value is obtained from the one-sided log-rank2. Based on confirmed responses |  |  |
 
-Figure 12: Kaplan-Meier Progression Free Survival Curves – MONALEESA-3 (Investigator assessment)
+Figure 13: Kaplan-Meier Progression Free Survival Curves – MONALEESA-3 (Investigator assessment)
