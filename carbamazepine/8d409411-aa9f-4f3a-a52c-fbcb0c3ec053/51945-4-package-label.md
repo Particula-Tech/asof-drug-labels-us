@@ -1,24 +1,26 @@
 # PRINCIPAL DISPLAY PANEL
 
-Package Label – 200 mg
+NDC 0078-0509-05
 
-Rx Only NDC 0078-0509-05
+Rx only
 
 Tegretol® 200 mg
 
 carbamazepine USP
 
-100 Tablets
+100 tablets
 
 PHARMACIST: Dispense with Medication Guide attached or provided separately.
 
+NOVARTIS
+
 # PRINCIPAL DISPLAY PANEL
 
-Package Label – XR 100 mg
+NDC 0078-0510-05
 
-Rx Only NDC 0078-0510-05
+Rx only
 
-Tegretol® XR 100 mg
+Tegretol®-XR 100 mg
 
 (carbamazepine extended-release tablets)
 
@@ -28,13 +30,15 @@ Tegretol-XR tablets must be swallowed whole and never crushed or chewed.
 
 PHARMACIST: Dispense with Medication Guide attached or provided separately.
 
+NOVARTIS
+
 # PRINCIPAL DISPLAY PANEL
 
-Package Label – XR 200 mg
+NDC 0078-0511-05
 
-Rx Only NDC 0078-0511-05
+Rx only
 
-Tegretol® XR 200 mg
+Tegretol®-XR 200 mg
 
 (carbamazepine extended-release tablets)
 
@@ -44,13 +48,15 @@ Tegretol-XR tablets must be swallowed whole and never crushed or chewed.
 
 PHARMACIST: Dispense with Medication Guide attached or provided separately.
 
+NOVARTIS
+
 # PRINCIPAL DISPLAY PANEL
 
-Package Label – XR 400 mg
+NDC 0078-0512-05
 
-Rx Only NDC 0078-0512-05
+Rx only
 
-Tegretol® XR 400 mg
+Tegretol®-XR 400 mg
 
 (carbamazepine extended-release tablets)
 
@@ -60,15 +66,15 @@ Tegretol-XR tablets must be swallowed whole and never crushed or chewed.
 
 PHARMACIST: Dispense with Medication Guide attached or provided separately.
 
+NOVARTIS
+
 # PRINCIPAL DISPLAY PANEL
 
-Package Label – 100 mg / 5 mL
+NDC 0078-0508-83
 
-Rx Only NDC 0078-0508-83
+Tegretol® (carbamazepine USP) Suspension
 
-Tegretol® Suspension
-
-(carbamazepine USP)
+100 mg/5 mL
 
 IMPORTANT: Shake well before using.
 
@@ -79,3 +85,7 @@ Each 5 mL contains 100 mg carbamazepine USP.
 Dispense in tight, light-resistant container (USP).
 
 PHARMACIST: Dispense with Medication Guide attached or provided separately.
+
+Rx only
+
+NOVARTIS
