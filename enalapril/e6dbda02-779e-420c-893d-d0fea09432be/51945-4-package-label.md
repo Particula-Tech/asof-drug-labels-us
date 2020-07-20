@@ -1,10 +1,8 @@
-# PRINCIPAL DISPLAY PANEL - BOTTLE LABEL
+# PRINCIPAL DISPLAY PANEL - Bottle Label
 
 NDC 52652-4001-1
 
-Epaned®
-
-(enalapril maleate)
+Epaned® (enalapril maleate)
 
 Oral Solution 1 mg/mL
 
@@ -14,7 +12,7 @@ READY TO USE
 
 150 mL
 
-Silvergate Pharmaceuticals, Inc.
+azurity™ pharmaceuticals
 
 Rx Only
 
@@ -31,8 +29,8 @@ Keep container tightly closed.
 
 KEEP THIS AND ALL MEDICATIONS OUT OF THE REACH OF CHILDREN
 
-P/N 140994
+P/N 141145
 
-Manufactured for: Silvergate Pharmaceuticals, Inc. Greenwood Village, CO 80111
+Manufactured for: Azurity Pharmaceuticals, Inc. Wilmington, MA 01887 USA
 
 Lot: Exp:
