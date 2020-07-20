@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA212576"
+  ],
+  "inn": "decitabine",
+  "labeler": "Taiho Pharmaceutical Co., Ltd.",
+  "package_ndcs": [
+    "64842-0727-9"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "cedazuridine and decitabine",
+      "name": "INQOVI"
+    }
+  ],
+  "setid": "91a0f80b-f865-4d06-a40d-4d148d99ee71",
+  "source": "dailymed"
+}
