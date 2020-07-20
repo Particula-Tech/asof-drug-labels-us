@@ -71,7 +71,7 @@ Advise breastfeeding women not to apply Taclonex® Ointment directly to the nipp
 
 ## 8.4 Pediatric Use
 
-Safety and effectiveness of the use of Taclonex®Ointment in pediatric patients under the age of 12 years have not been established.
+Safety and effectiveness of the use of Taclonex® Ointment in pediatric patients under the age of 12 years have not been established.
 
 The safety and effectiveness of Taclonex® Ointment for the treatment of plaque psoriasis have been established in the age group 12 to 17 years.
 In a prospective, uncontrolled trial, 33 pediatric subjects ages 12-17 years with plaque psoriasis on the body were treated with Taclonex® Ointment for 4 weeks up to a maximum of 55.8 g per week.
@@ -90,6 +90,6 @@ Local adverse reactions including striae have also been reported with use of top
 
 Of the total number of subjects in the clinical studies of Taclonex® Ointment, approximately 14% were 65 years and older and approximately 3% were 75 years and over.
 
-No overall differences in safety or effectiveness of Taclonex®Ointment were observed between these subjects and younger subjects.
+No overall differences in safety or effectiveness of Taclonex® Ointment were observed between these subjects and younger subjects.
 All other reported clinical experience has not identified any differences in response between elderly and younger patients.
 However, greater sensitivity of some older individuals cannot be ruled out.

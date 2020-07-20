@@ -5,7 +5,7 @@ It is intended for topical use only.
 
 Calcipotriene hydrate is a synthetic vitamin D3 analogue.
 
-Chemically, calcipotriene hydrate is (5Z,7E,22E,24S)-24-cyclopropyl-9,10-secochola-5,7,10(19),22-tetraene-1(alpha),3(beta),24-triol,hydrate, with the empirical formula C27H40O3H2O, a molecular weight of 430.6, and the following structural formula:
+Chemically, calcipotriene hydrate is (5Z,7E,22E,24S)-24-cyclopropyl-9,10-secochola-5,7,10(19),22-tetraene-1(alpha),3(beta),24-triol,hydrate, with the empirical formula C27H40O3,H2O, a molecular weight of 430.6, and the following structural formula:
 
 Calcipotriene hydrate is a white to almost white crystalline compound.
 
@@ -15,4 +15,4 @@ Betamethasone dipropionate has the chemical name 9-fluoro-11(beta), 17,21-trihyd
 
 Betamethasone dipropionate is a white to almost white odorless powder.
 
-Each gram of Taclonex® Ointment contains 52.18 mcg of calcipotriene hydrate (equivalent to 50 mcg of calcipotriene) and 0.643 mg of betamethasone dipropionate (equivalent to 0.5 mg of betamethasone) in off-white to yellow paraffin ointment base of butylhydroxytoluene, mineral oil, polyoxypropylene stearyl ether, all-rac-alpha-tocopherol, and white petrolatum.
+Each gram of Taclonex® Ointment contains 52.18 mcg of calcipotriene hydrate (equivalent to 50 mcg of calcipotriene) and 0.643 mg of betamethasone dipropionate (equivalent to 0.5 mg of betamethasone) in an off-white to yellow paraffin ointment base of butylhydroxytoluene, mineral oil, polyoxypropylene stearyl ether, all-rac-alpha-tocopherol, and white petrolatum.

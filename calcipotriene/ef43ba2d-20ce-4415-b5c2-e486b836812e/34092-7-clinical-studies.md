@@ -16,8 +16,9 @@ Table 3
 
 Percentage of Subjects with Absent or Very Mild Disease According to the Investigator's Global Assessment of Disease Severity at End of Treatment (4 weeks)*
 
-|  | Taclonex® Ointment N = 490 | Calcipotriene N = 480 | Betamethasone dipropionate N = 476 | Vehicle N = 157 |
+|  | Taclonex® Ointment | Calcipotriene | Betamethasone dipropionate | Vehicle |
 | --- | --- | --- | --- | --- |
+|  | N = 490 | N = 480 | N = 476 | N = 157 |
 | Absent or very mild disease | 48.0% | 16.5% | 26.3% | 7.6% |
 
 * Subjects with mild disease at baseline were required to have "Absent" disease to be considered a success.
