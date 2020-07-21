@@ -32,5 +32,5 @@ Recovery has been reported after prolonged resuscitative efforts.
 The supine position is dangerous in pregnant women at term because of aortocaval compression by the gravid uterus.
 Therefore during treatment of systemic toxicity, maternal hypotension or fetal bradycardia following regional block, the parturient should be maintained in the left lateral decubitus position if possible, or manual displacement of the uterus off the great vessels be accomplished.
 
-The mean seizure dosage of bupivacaine in rhesus monkeys was found to be 4.4 mg/kg with mean arterial plasma concentration of 4.5 µg/mL.
+The mean seizure dosage of bupivacaine in rhesus monkeys was found to be 4.4 mg/kg with mean arterial plasma concentration of 4.5 mcg/mL.
 The intravenous and subcutaneous LD50 in mice is 6 mg/kg to 8 mg/kg and 38 mg/kg to 54 mg/kg, respectively.

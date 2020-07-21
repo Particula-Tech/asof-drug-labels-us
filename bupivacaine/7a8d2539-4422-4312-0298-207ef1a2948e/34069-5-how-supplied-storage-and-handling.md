@@ -16,6 +16,6 @@ For single-dose ampuls and vials: Discard the unused portion.
 
 Distributed by Hospira, Inc., Lake Forest, IL 60045 USA
 
-LAB-1177-2.0
+LAB-1177-3.0
 
-Revised: 06/2019
+Revised: 07/2020

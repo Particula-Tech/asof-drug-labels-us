@@ -17,7 +17,7 @@ However, the local anesthetics have a primary depressant effect on the medulla a
 The depressed stage may occur without a prior excited stage.
 
 Pharmacokinetics: The rate of systemic absorption of local anesthetics is dependent upon the total dose and concentration of drug administered, the route of administration, the vascularity of the administration site, and the presence or absence of epinephrine in the anesthetic solution.
-A dilute concentration of epinephrine (1:200,000 or 5 μg/mL) usually reduces the rate of absorption and peak plasma concentration of bupivacaine, permitting the use of moderately larger total doses and sometimes prolonging the duration of action.
+A dilute concentration of epinephrine (1:200,000 or 5 mcg/mL) usually reduces the rate of absorption and peak plasma concentration of bupivacaine, permitting the use of moderately larger total doses and sometimes prolonging the duration of action.
 
 The onset of action with bupivacaine is rapid and anesthesia is long-lasting.
 The duration of anesthesia is significantly longer with bupivacaine than with any other commonly used local anesthetic.
