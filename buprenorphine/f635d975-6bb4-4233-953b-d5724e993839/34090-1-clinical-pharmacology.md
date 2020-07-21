@@ -26,14 +26,14 @@ The onset of effects appeared more rapidly with buprenorphine than with the full
 Physiological Effects
 
 Buprenorphine in IV (2, 4, 8, 12, and 16 mg) and sublingual (12 mg) doses has been administered to opioid-experienced subjects who were not physically dependent, to examine cardiovascular, respiratory, and subjective effects at doses comparable to those used for treatment of opioid dependence.
-Compared with placebo, there were no statistically significant differences among any of the treatment conditions for blood pressure, heart rate, respiratory rate, O 2 saturation, or skin temperature across time.
+Compared with placebo, there were no statistically significant differences among any of the treatment conditions for blood pressure, heart rate, respiratory rate, O2 saturation, or skin temperature across time.
 Systolic BP was higher in the 8 mg group than placebo (3-hour AUC values).
 Minimum and maximum effects were similar across all treatments.
 Subjects remained responsive to low voice and responded to computer prompts.
 Some subjects showed irritability, but no other changes were observed.
 The respiratory effects of sublingual buprenorphine were compared with the effects of methadone in a double-blind, parallel-group, dose-ranging comparison of single doses of buprenorphine sublingual solution (1, 2, 4, 8, 16, or 32 mg) and oral methadone (15, 30, 45, or 60 mg) in non-dependent, opioid-experienced volunteers.
 In this study, hypoventilation not requiring medical intervention was reported more frequently after buprenorphine doses of 4 mg and higher than after methadone.
-Both drugs decreased O 2 saturation to the same degree.
+Both drugs decreased O2 saturation to the same degree.
 
 Effects on the Endocrine System
 
@@ -47,14 +47,14 @@ The causal role of opioids in the clinical syndrome of hypogonadism is unknown b
 
 Absorption
 
-After PROBUPHINE insertion, an initial buprenorphine peak was observed and the median T max occurred at 12 hours after insertion.
+After PROBUPHINE insertion, an initial buprenorphine peak was observed and the median Tmax occurred at 12 hours after insertion.
 After the initial buprenorphine peak, the plasma buprenorphine concentrations decreased slowly and steady-state plasma buprenorphine concentrations were reached by approximately Week 4.
 Mean steady-state plasma buprenorphine concentrations were approximately 0.5 to 1 ng/mL and were maintained for approximately 20 weeks (Week 4 through Week 24) in a 24-week treatment period.
 At steady state, the buprenorphine concentrations were stable and comparable to the trough buprenorphine concentration of 8 mg per day sublingual buprenorphine at steady state.
 
 In one pharmacokinetics study (Figure 17), subjects received 16 mg per day sublingual buprenorphine for a minimum of 5 consecutive days, followed by 4 implants of PROBUPHINE (totally 320 mg buprenorphine hydrochloride).
 Overall peak plasma buprenorphine concentrations were markedly lower after PROBUPHINE insertion than after dosing with 16 mg per day sublingual buprenorphine.
-The steady-state buprenorphine AUC 0-24 value after 4 implants of PROBUPHINE on Day 28 was 19.6 ± 33.7 ng*hr/mL, 31% of the steady-state buprenorphine AUC 0- 24 value of 16 mg per day sublingual administration (62.7 ± 36.4 ng*hr/mL).
+The steady-state buprenorphine AUC0-24 value after 4 implants of PROBUPHINE on Day 28 was 19.6 ± 33.7 ng*hr/mL, 31% of the steady-state buprenorphine AUC0- 24 value of 16 mg per day sublingual administration (62.7 ± 36.4 ng*hr/mL).
 The average steady- state buprenorphine concentration of PROBUPHINE on Day 28 was approximately 0.82 ng/mL, 8% of the peak concentration (10.4 ± 13.4 ng/mL), and 52% of the trough concentration (1.58 ± 0.60 ng/mL) of 16 mg per day sublingual buprenorphine at steady state.
 
 The figure below shows the steady state buprenorphine concentration of 16 mg per day sublingual buprenorphine on Day -1, the initial buprenorphine concentration after PROBUPHINE insertion on Day 1, and steady state buprenorphine after PROBUPHINE insertion on Day 28.
@@ -80,7 +80,7 @@ A mass balance study of buprenorphine showed complete recovery of radiolabel in 
 Almost all of the dose was accounted for in terms of buprenorphine, norbuprenorphine, and two unidentified buprenorphine metabolites.
 In urine, most of the buprenorphine and norbuprenorphine was conjugated (buprenorphine, 1% free and 9.4% conjugated; norbuprenorphine, 2.7% free and 11% conjugated).
 In feces, almost all of the buprenorphine and norbuprenorphine were free (buprenorphine, 33% free and 5% conjugated; norbuprenorphine, 21% free and 2% conjugated).
-Based on all studies performed with buprenorphine/naloxone, buprenorphine has a mean elimination half - life from plasma ranging from 24 to 48 hours.
+Based on all studies performed with buprenorphine/naloxone, buprenorphine has a mean elimination half-life from plasma ranging from 24 to 48 hours.
 
 Specific Populations
 
@@ -90,18 +90,18 @@ The effect of hepatic impairment on the pharmacokinetics of implanted buprenorph
 
 The disposition of buprenorphine was determined in a pharmacokinetics study after administering a 2.0/0.5 mg buprenorphine/naloxone sublingual tablet in subjects with varied degrees of hepatic impairment as indicated by Child-Pugh criteria.
 The disposition of buprenorphine in patients with hepatic impairment was compared to disposition in subjects with normal hepatic function.
-In subjects with mild hepatic impairment, the changes in mean C max, AUC 0-last, and half-life values of buprenorphine were not clinically significant.
-For subjects with moderate and severe hepatic impairment, mean C max, AUC 0-last, and half-life values of buprenorphine were increased.
+In subjects with mild hepatic impairment, the changes in mean Cmax, AUC0-last, and half-life values of buprenorphine were not clinically significant.
+For subjects with moderate and severe hepatic impairment, mean Cmax, AUC0-last, and half-life values of buprenorphine were increased.
 
 HCV infection
 
-In subjects with HCV infection but no sign of hepatic impairment, the changes in the mean C max, AUC 0-last, and half-life values of buprenorphine were not clinically significant in comparison to healthy subjects without HCV infection.
+In subjects with HCV infection but no sign of hepatic impairment, the changes in the mean Cmax, AUC0-last, and half-life values of buprenorphine were not clinically significant in comparison to healthy subjects without HCV infection.
 
 Drug Interaction Studies
 
 CYP3A4 Inhibitors and Inducers
 
 Buprenorphine is metabolized to norbuprenorphine primarily by cytochrome CYP3A4; therefore, potential interactions may occur when PROBUPHINE is given concurrently with agents that affect CYP3A4 activity.
-The effects of co-administered CYP3A4 inducers or inhibitors have been established in studies using transmucosal buprenorphine; the effects on buprenorphine exposure in patients treated with PROBUPHINE have not been studied, and the effects may be dependent on the route of administration.
+The effects of co-administered CYP3A4 inducers or inhibitors have been established in studies using transmucosal buprenorphine; the effects on buprenorphine exposure in patients treated with PROBUPHINE have not been studied, and the effects may be dependent on the route of administration..
 
 Buprenorphine has been found to be a CYP2D6 and CYP3A4 inhibitor and its major metabolite, norbuprenorphine, has been found to be a moderate CYP2D6 inhibitor in in vitro studies employing human liver microsomes [see Drug Interactions (7)].

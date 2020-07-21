@@ -1,4 +1,4 @@
-# 16 HOW SUPPLIED/STORAGE AND HANDLING
+# 16. HOW SUPPLIED/STORAGE AND HANDLING
 
 One PROBUPHINE implant kit consists of four individually packaged sterile implants and one individually packaged sterile disposable applicator.
 Each implant is 26 mm in length and 2.5 mm in diameter and contains 74.2 mg of buprenorphine (equivalent to 80 mg of buprenorphine hydrochloride).
@@ -14,4 +14,4 @@ The PROBUPHINE implant is a Schedule III drug product.
 Handle with adequate security and accountability.
 Expired implants should be properly disposed, per facility procedure for a Schedule III drug product, and per applicable federal, state, and local regulations.
 
-NDC code for set of four implants is 52440-100-14.
+NDC code for set of four implants is 52440-0100-14.

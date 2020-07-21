@@ -26,6 +26,7 @@ Buprenorphine is a partial agonist at the mu-opioid receptor and chronic adminis
 The withdrawal syndrome is typically milder than seen with full agonists and may be delayed in onset.
 
 Patients treated with PROBUPHINE who experience a delay between removal of implants and insertion of new implants should be maintained on their previous dose of sublingual buprenorphine.
+
 Patients who elect to discontinue PROBUPHINE treatment without continuing on other buprenorphine treatment should be monitored for withdrawal.
 Some or all of the following can characterize this syndrome: restlessness, lacrimation, rhinorrhea, yawning, perspiration, chills, myalgia, and mydriasis.
 Other signs and symptoms also may develop, including: irritability, anxiety, backache, joint pain, weakness, abdominal cramps, insomnia, nausea, anorexia, vomiting, diarrhea, or increased blood pressure, respiratory rate, or heart rate [see Warnings and Precautions (5.9)].

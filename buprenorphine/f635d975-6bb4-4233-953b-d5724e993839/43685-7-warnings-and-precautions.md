@@ -127,7 +127,6 @@ In other cases, insufficient data were available to determine the etiology of th
 The possibility exists that buprenorphine had a causative or contributory role in the development of the hepatic abnormality in some cases.
 Liver function tests are recommended prior to initiation of treatment to establish a baseline.
 Periodic monitoring of liver function during treatment is also recommended.
-
 A biological and etiological evaluation is recommended when a hepatic event is suspected.
 Monitor patients with declining hepatic function for side effects resulting from increased exposure to buprenorphine.
 Patients may require removal of PROBUPHINE implants.
@@ -149,7 +148,7 @@ Verify that patients are clinically stable on transmucosal buprenorphine and not
 
 While on PROBUPHINE, situations may arise where patients need acute pain management, or may require anesthesia.
 Treat patients receiving PROBUPHINE with a non-opioid analgesic whenever possible.
-Patients requiring opioid therapy for analgesia may be treated with a high-affinity full opioid analgesic under the supervision of a physician, with particular attention to respiratory function.
+Patients requiring opioid therapy for analgesia may be treated with a high- affinity full opioid analgesic under the supervision of a physician, with particular attention to respiratory function.
 Higher doses may be required for analgesic effect.
 Therefore, a higher potential for toxicity exists with opioid administration.
 If opioid therapy is required as part of anesthesia, patients should be continuously monitored in an anesthesia care setting by persons not involved in the conduct of the surgical or diagnostic procedure.

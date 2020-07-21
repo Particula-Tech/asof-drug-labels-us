@@ -1,4 +1,4 @@
-# 17 PATIENT COUNSELING INFORMATION
+# 17. PATIENT COUNSELING INFORMATION
 
 Advise the patient to read the FDA-approved patient labeling (Medication Guide).
 
@@ -7,32 +7,31 @@ Instruct patients to read the Medication Guide each time PROBUPHINE is implanted
 Risks Relating to the Insertion and Removal Procedure [see Warnings and Precautions (5.1)], Accidental Overdose, Misuse and Abuse if an Implant Comes Out or Protrudes from the Skin [see Warnings and Precautions (5.3)].
 
 - Inform patients that there are risks associated with the insertion and removal of PROBUPHINE, including:
-  - Migration with potential for embolism or nerve damage
-  - Expulsion or protrusion
-  - Injury to nerves or blood vessels
-  - Infection at the insertion or removal site
-  - Removal complications
+  - –Migration with potential for embolism or nerve damage
+  - –Expulsion or protrusion
+  - –Injury to nerves or blood vessels
+  - –Infection at the insertion or removal site
+  - –Removal complications
     - Implants may be difficult to locate if they were inserted too deeply, or if patients manipulate them, or have gained significant weight since insertion.
     - Special procedures, tests, or a referral to a specialist may be needed to remove the implants if they are difficult to locate.
 - Inform patients that there is a risk to others of accidental overdose, misuse, and abuse if the implant comes out of the arm.
 - Inform patients that appropriate care of their incision is important to reduce the risk of complications associated with the insertion of PROBUPHINE.
 - Inform patients to call a Healthcare Provider immediately if they experience any of the following:
-  - The implant protrudes or is expelled.
-  - Bleeding or symptoms of infection, such as excessive or worsening itching, pain, irritation or redness, or swelling at the insertion site.
-  - Symptoms suggesting the implant has migrated, such as numbness or weakness, or shortness of breath.
-  - Symptoms of numbness or weakness in the arm after insertion or removal procedure.
+  - –The implant protrudes or is expelled.
+  - –Bleeding or symptoms of infection, such as excessive or worsening itching, pain, irritation or redness, or swelling at the insertion site.
+  - –Symptoms suggesting the implant has migrated, such as numbness or weakness, or shortness of breath.
+  - –Symptoms of numbness or weakness in the arm after insertion or removal procedure.
 - Inform patients that if the PROBUPHINE implants protrude or are expelled, they should:
-  1. Wash their hands if they have touched the PROBUPHINE implants.
-  2. Cover the area where the implants were inserted with a clean bandage.
-  3. Not allow others to touch or use the PROBUPHINE implants, since this could be very
-  4. dangerous.
-  5. Put the implants in a plastic bag and take the implants to a Healthcare Provider right away.
-  6. Keep the implants away from others, especially children.
-  7. Protect the implants from theft until they can take them to their doctor.
+  - –Wash their hands if they have touched the PROBUPHINE implants.
+  - –Cover the area where the implants were inserted with a clean bandage.
+  - –Not allow others to touch or use the PROBUPHINE implants, since this could be very dangerous.
+  - –Put the implants in a plastic bag and take the implants to a Healthcare Provider right away.
+  - –Keep the implants away from others, especially children.
+  - –Protect the implants from theft until they can take them to their doctor.
 - Inform patients that improper removal by a non-Healthcare Provider carries the risk of implant-site infection and premature removal may induce opioid withdrawal symptoms.
 - Inform patients that there are risks associated with minor surgical procedures, such as:
-  - Itching, pain, irritation or redness, swelling, bleeding, or bruising at the insertion or removal site.
-  - Scarring around the incision site.
+  - –Itching, pain, irritation or redness, swelling, bleeding, or bruising at the insertion or removal site.
+  - –Scarring around the incision site.
 
 Interaction with Benzodiazepines and other CNS Depressants
 
@@ -47,7 +46,7 @@ Instruct patients to inform their physicians if they are taking, or plan to take
 
 Adrenal Insufficiency
 
-Inform patients that PROBUPHINE could cause adrenal insufficiency, a potentially life-threatening condition.
+Inform patients that PROBUPHINE could cause adrenal insufficiency, a potentially life- threatening condition.
 Adrenal insufficiency may present with non-specific symptoms and signs such as nausea, vomiting, anorexia, fatigue, weakness, dizziness, and low blood pressure.
 Advise patients to seek medical attention if they experience a constellation of these symptoms [see Warnings and Precautions (5.7)].
 
@@ -72,7 +71,7 @@ Inform patients that, like other opioids, PROBUPHINE may produce orthostatic hyp
 
 Drug Interactions
 
-Instruct patients to inform their healthcare providers of any other prescription medications, over- the-counter medications, or herbal preparations that are prescribed or currently being used [see Drug Interactions (7)].
+Instruct patients to inform their healthcare providers of any other prescription medications, over-the-counter medications, or herbal preparations that are prescribed or currently being used [see Drug Interactions (7)].
 
 Pregnancy
 

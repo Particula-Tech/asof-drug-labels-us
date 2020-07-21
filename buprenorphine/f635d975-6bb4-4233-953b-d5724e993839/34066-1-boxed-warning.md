@@ -5,7 +5,6 @@ Risk Associated with Insertion and Removal
 Insertion and removal of PROBUPHINE are associated with the risk of implant migration, protrusion, and expulsion resulting from the procedure.
 Rare but serious complications including nerve damage and migration resulting in embolism and death may result from improper insertion of drug implants inserted in the upper arm.
 Additional complications may include local migration, protrusion and expulsion.
-
 Incomplete insertions or infections may lead to protrusion or expulsion.
 [see Warnings and Precautions (5.1)].
 
