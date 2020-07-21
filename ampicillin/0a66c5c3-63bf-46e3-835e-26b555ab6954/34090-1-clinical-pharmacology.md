@@ -49,7 +49,7 @@ Proteus mirabilis
 
 Salmonella spp.
 
-Shigellaspp.
+Shigella spp.
 
 The following in vitro data are available, but their clinical significance is unknown.
 At least 90 percent of the following bacteria exhibit an in vitro minimum inhibitory concentration (MIC) less than or equal to 0.12 mcg/mL for ampicillin.
@@ -59,7 +59,7 @@ Gram-positive Bacteria
 
 Bacillus anthracis
 
-Corynebacteriumxerosis
+Corynebacterium xerosis
 
 Anaerobic Bacteria
 
@@ -82,7 +82,7 @@ Diffusion Techniques
 Quantitative methods that require measurement of zone diameters can also provide reproducible estimates of the susceptibility of bacteria to antimicrobial compounds.
 The zone size provides an estimate of the susceptibility of bacteria to antimicrobial compounds.
 The zone size should be determined using a standardized test method.
-2,3This procedure uses paper disks impregnated with 10 mcg ampicillin to test the susceptibility of bacteria to ampicillin.
+2,3 This procedure uses paper disks impregnated with 10 mcg ampicillin to test the susceptibility of bacteria to ampicillin.
 The disk diffusion interpretive criteria are provided in Table 1.
 
 Susceptibility to ampicillin of Staphylococcus spp., may be inferred by testing penicillin.3
@@ -93,7 +93,7 @@ Rare isolates of staphylococci that contain genes for beta-lactamase production 
 Consequently, for serious infections requiring penicillin therapy, laboratories should perform MIC tests and beta-lactamase testing on all subsequent isolates from the same patient.
 PCR testing of the isolate for the blaZ beta-lactamase gene may be considered.3
 
-Susceptibility to ampicillin of Streptococcus pneumoniae(non-meningitis isolates), may be inferred by testing penicillin or oxacillin.
+Susceptibility to ampicillin of Streptococcus pneumoniae (non-meningitis isolates), may be inferred by testing penicillin or oxacillin.
 Non-meningitis isolates with a penicillin MIC ≤0.06 mcg/mL or oxacillin zone size ≥20 mm can be considered susceptible to ampicillin.3
 
 TABLE 1: Susceptibility Test Interpretive Criteria for Ampicillin
@@ -102,7 +102,7 @@ TABLE 1: Susceptibility Test Interpretive Criteria for Ampicillin
 | --- | --- | --- | --- | --- | --- | --- |
 | Pathogen | Minimum Inhibitory Concentrations (mcg/mL) |  |  | Disk Diffusion (Zone diameters in mm) |  |  |
 | Enterobacteriaceae | ≤8 | 16 | ≥32 | ≥17 | 14-16 | ≤13 |
-| Haemophilus influenzaeThe majority of isolates of H. influenzaethat are resistant to ampicillin produce a TEM-type beta-lactamase. In most cases, a direct beta-lactamase test can provide a rapid means of detecting resistance to ampicillin.3 | ≤1 | 2 | ≥4 | ≥22 | 19-21 | ≤18 |
+| Haemophilus influenzaeThe majority of isolates of H. influenzae that are resistant to ampicillin produce a TEM-type beta-lactamase. In most cases, a direct beta-lactamase test can provide a rapid means of detecting resistance to ampicillin.3 | ≤1 | 2 | ≥4 | ≥22 | 19-21 | ≤18 |
 | EnterococcusPenicillin or ampicillin resistance among enterococci due to beta-lactamase production has been reported very rarely. Penicillin or ampicillin resistance due to beta-lactamase production is not reliably detected with routine disk or dilution methods, but is detected using a direct, nitrocefin-based beta-lactamase test. Because of the rarity of beta-lactamase-positive enterococci, this test need not be performed routinely, but can be used in selected cases. A positive beta-lactamase test predicts resistance to penicillin as well as amino- and ureidopenicillins.3 spp. | ≤8 | - | ≥16 | ≥17 | - | ≤16 |
 | Neisseria meningitidis | ≤0.12 | 0.25-1 | ≥2 | - | - | - |
 | Viridans group streptococci | ≤0.25 | 0.5-4 | ≥8 |  |  |  |
@@ -127,8 +127,8 @@ TABLE 2: Acceptable Quality Control Ranges for Ampicillin3
 | Escherichia coli ATCC* 25922 | 2 - 8 | 15 - 22 |  |  |  |  |  |  |  |
 | Enterococcus faecalis ATCC 29212 | 0.5 - 2 |  |  |  |  |  |  |  |  |
 | Haemophilus influenzae ATCC 49247 | 2 - 8 | 13 - 21 |  |  |  |  |  |  |  |
-| KlebsiellapneumoniaeATCC 700603 | >128 |  |  |  |  |  |  |  |  |
+| Klebsiella pneumoniae ATCC 700603 | >128 |  |  |  |  |  |  |  |  |
 | Staphylococcus aureus ATCC 29213 | 0.5 - 2 |  |  |  |  |  |  |  |  |
 | Staphylococcus aureus ATCC 25923 |  | 27 - 35 |  |  |  |  |  |  |  |
-| Streptococcus pneumoniaeATCC 49619 | 0.06 – 0.25 | 30 - 36 |  |  |  |  |  |  |  |
+| Streptococcus pneumoniae ATCC 49619 | 0.06 – 0.25 | 30 - 36 |  |  |  |  |  |  |  |
 | * ATCC = American Type Culture Collection |  |  |  |  |  |  |  |  |  |
