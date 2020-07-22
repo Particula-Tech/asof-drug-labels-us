@@ -14,7 +14,7 @@ Administer in a facility equipped to manage possible complications (e.g. anaphyl
 
 - For treatment after failure of prior platinum-based chemotherapy, docetaxel injection was evaluated as monotherapy, and the recommended dose is 75 mg/m2 administered intravenously over 1 hour every 3 weeks.
   A dose of 100 mg/m2 in patients previously treated with chemotherapy was associated with increased hematologic toxicity, infection, and treatment-related mortality in randomized controlled trials [see Boxed Warning, Dosage and Administration (2.7), Warnings and Precautions (5), Clinical Studies (14)].
--  For chemotherapy-naive patients, docetaxel injection wasevaluated in combination with cisplatin.
+- For chemotherapy-naive patients, docetaxel injection wasevaluated in combination with cisplatin.
   The recommendeddose of docetaxel injection is 75 mg/m2 administeredintravenously over 1 hour immediately followed by cisplatin75 mg/m2 over 30 to 60 minutes every 3 weeks [see Dosage and Administration (2.7)].
 
 ## 2.3 Prostate Cancer
@@ -183,7 +183,7 @@ DO NOT use the two-vial formulation (Injection and diluent) with the one-vial fo
 
 One-vial Docetaxel Injection USP
 
-Docetaxel Injection, (20 mg/mL) requires NO prior dilution with a diluent and is ready to add to the infusion solution.
+Docetaxel injection, (20 mg/mL) requires NO prior dilution with a diluent and is ready to add to the infusion solution.
 Use only a 21 gauge needle to withdraw docetaxel injection from the vial because larger bore needles (e.g., 18 and 19 gauge) may result in stopper coring and rubber particulates.
 
 1.

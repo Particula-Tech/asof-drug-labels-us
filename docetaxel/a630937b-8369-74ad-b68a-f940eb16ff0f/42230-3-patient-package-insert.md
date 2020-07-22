@@ -38,7 +38,7 @@ Tell your healthcare provider right away if you have any of these signs of a sev
   This can be life threatening.
   To decrease the chance of this happening, you must take another medicine, a corticosteroid, before each docetaxel injection treatment.
   You must take the corticosteroid exactly as your healthcare provider tells you.
-  Tell your healthcare provider or nurse before your docetaxel injection treatment if you forgot to take the corticosteroid dose or do not take it as your healthcare provider tells you.
+  Tell your healthcare provider or nurse before your docetaxel injection treatment if you forgot to take your corticosteroid dose or do not take it as your healthcare provider tells you.
   Tell your healthcare provider right away if you have swelling in your legs or feet, weight gain or shortness of breath.
 
 - Risk of new cancers.
@@ -83,6 +83,7 @@ Before you receive docetaxel injection, tell your healthcare provider about all 
 - are allergic to any medicines, including paclitaxel.
   See “Do not receive docetaxel injection if you”.
 - have liver problems
+- have kidney problems
 - are pregnant or plan to become pregnant.
   Docetaxel injection can harm your unborn baby.
   You should not become pregnant during treatment with docetaxel injection.
@@ -123,11 +124,25 @@ Docetaxel injection may cause serious side effects including death.
 - Neurologic problems.
   Neurologic symptoms are common in people who receive docetaxel injection but can be severe.
   Tell your healthcare provider right away if you have numbness, tingling, or burning in your hands or feet (peripheral neuropathy) or weakness of your legs, feet, arms, or hands (motor weakness).
-- Vision Problems including blurred vision or loss of vision.
+- Vision problems including blurred vision or loss of vision.
   Tell your healthcare provider right away if you have any vision changes.
-- Docetaxel Injection contains alcohol.
+- Docetaxel injection contains alcohol.
   The alcohol content in docetaxel injection may impair your ability to drive or use machinery right after receiving docetaxel injection.
   Consider whether you should drive, operate machinery or do other dangerous activities right after you receive docetaxel injection treatment.
+- Tumor lysis syndrome (TLS).
+  TLS is caused by the fast breakdown of cancer cells.
+  TLS can cause kidney failure, the need for dialysis treatment, or heart problems, and may lead to death.
+  Your healthcare provider will do blood tests to check for TLS when you first start treatment and during treatment with docetaxel injection.
+  Tell your healthcare provider right away if you have any symptoms of TLS during treatment with docetaxel injection, including:
+  - nausea
+  - vomiting
+  - confusion
+  - shortness of breath
+  - irregular heartbeat
+  - dark or cloudy urine
+  - reduced amount of urine
+  - unusual tiredness
+  - muscle cramps
 
 You may experience side effects of this medicine that may impair your ability to drive, use tools, or operate machines.
 If this happens, do not drive or use any tools or machines before discussing with your healthcare provider.
@@ -172,10 +187,18 @@ You can ask your pharmacist or healthcare provider for information about docetax
 What are the ingredients in docetaxel injection?
 Active ingredient: docetaxel Inactive ingredients: dehydrated alcohol, citric acid and polysorbate 80
 
-For more information, call 1-888-375-3784
+For more information, call 1-888-375-3784.
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 
-Rx Only Manufactured by: Dr. Reddy’s Laboratories Limited Visakhapatnam - 530 046 Andhra Pradesh, INDIA
+Rx Only
 
-Revised: 0120
+Manufactured by:
+
+Dr. Reddy’s Laboratories Limited
+
+Visakhapatnam - 530 046
+
+Andhra Pradesh, INDIA
+
+Revised: 0620

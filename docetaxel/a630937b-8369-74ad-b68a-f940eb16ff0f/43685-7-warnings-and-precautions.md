@@ -86,7 +86,7 @@ Second primary malignancies, notably acute myeloid leukemia (AML), myelodysplast
 These adverse reactions may occur several months or years after docetaxel-containing therapy.
 
 Treatment-related AML or MDS has occurred in patients given anthracyclines and/or cyclophosphamide, including use in adjuvant therapy for breast cancer.
-In the adjuvant breast cancer trial (TAX316) AML occurred in 3 of 744 patients who received docetaxel injection, doxorubicin, and cyclophosphamide (TAC) and in 1 of 736 patients who received fluorouracil, doxorubicin and cyclophosphamide [see Clinical Studies (14.2)].
+In the adjuvant breast cancer trial (TAX316) AML occurred in 3 of 744 patients who received docetaxel injection, doxorubicin and cyclophosphamide (TAC) and in 1 of 736 patients who received fluorouracil, doxorubicin, and cyclophosphamide [see Clinical Studies (14.2)].
 In TAC- treated patients, the risk of delayed myelodysplasia or myeloid leukemia requires hematological follow-up.
 Monitor patients for second primary malignancies [see Adverse Reactions (6.1)].
 
@@ -140,3 +140,9 @@ Consideration should be given to the alcohol content in docetaxel injection on t
 Each administration of docetaxel injection at 100 mg/m2 delivers 2 g/m2 of ethanol.
 For a patient with a BSA of 2 m2, this would deliver 4 grams of ethanol [see Description (11)].
 Other docetaxel products may have a different amount of alcohol.
+
+## 5.14 Tumor Lysis Syndrome
+
+Tumor lysis syndrome has been reported with docetaxel [see Adverse Reactions (6.2)].
+Patients at risk of tumor lysis syndrome (e.g., with renal impairment, hyperuricemia, bulky tumor) should be closely monitored prior to initiating docetaxel injection and periodically during treatment.
+Correction of dehydration and treatment of high uric acid levels are recommended prior to initiation of treatment.
