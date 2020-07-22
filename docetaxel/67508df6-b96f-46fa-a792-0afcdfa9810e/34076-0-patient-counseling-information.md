@@ -78,6 +78,12 @@ Alcohol Content in Docetaxel Injection
 
 Explain to patients the possible effects of the alcohol content in docetaxel injection, including possible effects on the central nervous system [see Warnings and Precautions (5.13)].
 
+Tumor Lysis Syndrome
+
+Advise patients of the potential risk of tumor lysis syndrome and to immediately report any signs or symptoms associated with this event (nausea, vomiting, confusion, shortness of breath, seizure, irregular heartbeat, dark or cloudy urine, reduced amount of urine, unusual tiredness, muscle cramps) to their healthcare provider.
+Advise patients of the importance of keeping scheduled appointment for blood work or other laboratory tests and of drinking adequate fluids to avoid dehydration.
+[see Warnings and Precautions (5.14)].
+
 Ability to Drive or Operate Machines
 
 Explain to patients that docetaxel injection may impair their ability to drive or operate machines due to its side effects [see Adverse Reactions (6)] or due to the alcohol content of docetaxel injection [see Warnings and Precautions (5.13)].
@@ -93,4 +99,4 @@ Ltd. Telangana 509301, INDIA
 Distributed by: Amneal Pharmaceuticals LLC Bridgewater, NJ 08807
 
 Rev.
-01-2020-03
+06-2020-04

@@ -87,6 +87,7 @@ Before you receive docetaxel injection, tell your healthcare provider about all 
 - are allergic to any medicines, including paclitaxel.
   See “Do not receive docetaxel injection if you”.
 - have liver problems
+- have kidney problems
 - are pregnant or plan to become pregnant.
   Docetaxel injection can harm your unborn baby.
   You should not become pregnant during treatment with docetaxel injection.
@@ -132,6 +133,19 @@ Docetaxel injection may cause serious side effects including death.
 - Docetaxel injection contains alcohol.
   The alcohol content in docetaxel injection may impair your ability to drive or use machinery right after receiving docetaxel injection.
   Consider whether you should drive, operate machinery or do other dangerous activities right after you receive docetaxel injection treatment.
+- Tumor lysis syndrome (TLS).
+  TLS is caused by the fast breakdown of cancer cells.
+  TLS can cause kidney failure, the need for dialysis treatment, or heart problems, and may lead to death.
+  Your healthcare provider will do blood tests to check for TLS when you first start treatment and during treatment with docetaxel injection.
+  Tell your healthcare provider right away if you have any symptoms of TLS during treatment with docetaxel injection, including:
+
+| nausea | irregular heartbeat |
+| --- | --- |
+| vomiting | dark or cloudy urine |
+| confusion | reduced amount of urine |
+| shortness of breath | unusual tiredness |
+|  | muscle cramps |
+
 - You may experience side effects of this medicine that may impair your ability to drive, use tools, or operate machines.
   If this happens, do not drive or use any tools or machines before discussing with your healthcare provider.
 
@@ -183,7 +197,7 @@ Distributed by:
 Amneal Pharmaceuticals LLC Bridgewater, NJ 08807
 
 Rev.
-01-2020-03
+06-2020-04
 
 | Every three-week injection of docetaxel injection forbreast, non-small cell lung and stomach,and head and neck cancersTake your oral corticosteroid medicine as your healthcare provider tells you.Oral corticosteroid dosing:Day 1 Date: _____ Time: ___ AM _____ PMDay 2 Date: _____ Time: ___ AM _____ PM(Docetaxel Injection Treatment Day)Day 3 Date: _____ Time: ___ AM _____ PM |
 | --- |

@@ -140,3 +140,9 @@ Consideration should be given to the alcohol content in docetaxel injection on t
 Each administration of docetaxel injection at 100 mg/m2 delivers 2.0 g/m2 of ethanol.
 For a patient with a BSA of 2.0 m2, this would deliver 4.0 grams of ethanol [see Description (11)].
 Other docetaxel products may have a different amount of alcohol.
+
+## 5.14 Tumor Lysis Syndrome
+
+Tumor lysis syndrome has been reported with docetaxel [see Adverse Reactions (6.2)].
+Patients at risk of tumor lysis syndrome (e.g., with renal impairment, hyperuricemia, bulky tumor) should be closely monitored prior to initiating docetaxel and periodically during treatment.
+Correction of dehydration and treatment of high uric acid levels are recommended prior to initiation of treatment.

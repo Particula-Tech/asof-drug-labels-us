@@ -6,7 +6,7 @@ Risk Summary
 
 Based on findings in animal reproduction studies and its mechanism of action, docetaxel can cause fetal harm when administered to a pregnant woman [see Clinical Pharmacology (12.1)].
 Available data from case reports in the literature and pharmacovigilance with docetaxel use in pregnant women are not sufficient to inform the drug-associated risk of major birth defects, miscarriage, or adverse maternal or fetal outcomes.
-Docetaxel contains alcohol which can interfere with neurobehavioral development [see Clinical Considerations].
+Docetaxel injection contains alcohol which can interfere with neurobehavioral development [see Clinical Considerations].
 In animal reproductive studies, administration of docetaxel to pregnant rats and rabbits during the period of organogenesis caused an increased incidence of embryo-fetal toxicities, including intrauterine mortality, at doses as low as 0.02 and 0.003 times the recommended human dose based on body surface area, respectively [see Data].
 Advise pregnant women and females of reproductive potential of the potential risk to a fetus.
 
