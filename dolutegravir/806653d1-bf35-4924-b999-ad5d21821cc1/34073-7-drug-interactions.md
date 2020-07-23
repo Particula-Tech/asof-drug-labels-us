@@ -3,17 +3,17 @@
 ## 7.1 Concomitant Use with Other Antiretroviral Medicines
 
 Because JULUCA is a complete regimen, coadministration with other antiretroviral medications for the treatment of HIV-1 infection is not recommended [see Indications and Usage (1)].
-Information regarding potential drug-drug interactions with other antiretroviral medications is not provided [see Contraindications (4), Warnings and Precautions (5.4), Clinical Pharmacology (12.3)].
+Information regarding potential drug-drug interactions with other antiretroviral medications is not provided [see Contraindications (4), Warnings and Precautions (5.5), Clinical Pharmacology (12.3)].
 
 ## 7.2 Potential for JULUCA to Affect Other Drugs
 
-Dolutegravir, a component of JULUCA, inhibits the renal organic cation transporters (OCT)2 and multidrug and toxin extrusion transporter (MATE)1, thus it may increase plasma concentrations of drugs eliminated via OCT2 or MATE1 such as dofetilide and metformin [see Contraindications (4), Drug Interactions (7.4)].
+Dolutegravir, a component of JULUCA, inhibits the renal organic cation transporters (OCT)2 and multidrug and toxin extrusion transporter (MATE)1, thus it may increase plasma concentrations of drugs eliminated via OCT2 or MATE1 such as dofetilide, dalfampridine, and metformin [see Contraindications (4), Drug Interactions (7.4)].
 
 ## 7.3 Potential for Other Drugs to Affect the Components of JULUCA
 
 Dolutegravir
 
-Dolutegravir is metabolized by uridine diphosphate (UDP)-glucuronosyl transferase (UGT)1A1 with some contribution from cytochrome P450 (CYP)3A.
+Dolutegravir is metabolized by uridine diphosphate (UDP)-glucuronosyl transferase (UGT)1A1 with some contribution from CYP3A.
 Dolutegravir is also a substrate of UGT1A3, UGT1A9, breast cancer resistance protein (BCRP), and P-glycoprotein (P-gp) in vitro.
 Drugs that induce those enzymes and transporters may decrease dolutegravir plasma concentrations and reduce the therapeutic effect of dolutegravir [see Drug Interactions (7.4)].
 Coadministration of dolutegravir and other drugs that inhibit these enzymes may increase dolutegravir plasma concentrations.
@@ -33,7 +33,7 @@ Consider alternatives to JULUCA when coadministered with a drug with a known ris
 ## 7.4 Established and Other Potentially Significant Drug Interactions
 
 Information regarding potential drug interactions with dolutegravir and rilpivirine are provided in Table 4.
-These recommendations are based on either drug interaction trials of individual components or predicted interactions due to the expected magnitude of interaction and potential for serious adverse events or loss of efficacy [see Contraindications (4), Warnings and Precautions (5.4), Clinical Pharmacology (12.3)].
+These recommendations are based on either drug interaction trials of individual components or predicted interactions due to the expected magnitude of interaction and potential for serious adverse events or loss of efficacy [see Contraindications (4), Warnings and Precautions (5.5), Clinical Pharmacology (12.3)].
 
 Table 4.
 Established and Other Potentially Significant Drug Interactions: Alterations in Dose or Regimen May Be Recommended Based on Drug Interaction Trials or Predicted Interactionsa
@@ -43,15 +43,16 @@ Established and Other Potentially Significant Drug Interactions: Alterations in 
 | Antacids (e.g., aluminum or magnesium hydroxide, calcium carbonate) | ↓Rilpivirine | Administer JULUCA 4 hours before or 6 hours after taking antacids. |
 | Antiarrhythmic:Dofetilide | ↑Dofetilide | Coadministration is contraindicated with JULUCA [see Contraindications (4)]. |
 | Anticonvulsants:Carbamazepine OxcarbazepinePhenobarbitalPhenytoin | ↓Dolutegravir↓Rilpivirine | Coadministration is contraindicated with JULUCA due to decreased rilpivirine concentrations [see Contraindications (4)]. |
-| Antidiabetic: Metforminb | ↑Metformin | With concomitant use, limit the total daily dose of metformin to 1,000 mg either when starting metformin or JULUCA. When starting or stopping JULUCA, the metformin dose may require an adjustment. Monitoring of blood glucose when initiating concomitant use and after withdrawal of JULUCA is recommended. |
+| Antidiabetic: Metforminb | ↑Metformin | Refer to the prescribing information for metformin for assessing the benefit and risk of concomitant use of JULUCA and metformin. |
 | Antimycobacterials:RifampinRifapentine | ↓Dolutegravir↓Rilpivirine | Coadministration is contraindicated with JULUCA due to decreased rilpivirine concentrations [see Contraindications (4)]. |
 | Antimycobacterial:Rifabutinb | ↔Dolutegravir↔Rifabutin↓Rilpivirine | An additional rilpivirine 25-mg tablet should be taken with JULUCA once daily with a meal when rifabutin is coadministered. |
 | Glucocorticoid (systemic):Dexamethasone(more than a single-dose treatment) | ↓Rilpivirine | Coadministration is contraindicated with JULUCA due to decreased rilpivirine concentrations [see Contraindications (4)]. |
-| H2-Receptor Antagonists: FamotidineCimetidineNizatidineRanitidine | ↔Dolutegravir↓Rilpivirine | JULUCA should only be administered at least 4 hours before or 12 hours after taking H2-receptor antagonists. |
-| Herbal Product:St John’s wort (Hypericum perforatum) | ↓Dolutegravir↓Rilpivirine | Coadministration is contraindicated with JULUCA due to decreased rilpivirine concentrations [see Contraindications (4)]. |
+| H2-receptor antagonists: FamotidineCimetidineNizatidineRanitidine | ↔Dolutegravir↓Rilpivirine | JULUCA should only be administered at least 4 hours before or 12 hours after taking H2-receptor antagonists. |
+| Herbal product:St John’s wort (Hypericum perforatum) | ↓Dolutegravir↓Rilpivirine | Coadministration is contraindicated with JULUCA due to decreased rilpivirine concentrations [see Contraindications (4)]. |
 | Macrolide or ketolide antibiotics:ClarithromycinErythromycinTelithromycin | ↔Dolutegravir↑Rilpivirine | Where possible, consider alternatives, such as azithromycin. |
 | Medications containing polyvalent cations (e.g., Mg or Al):Cation-containing productsb or laxativesSucralfateBuffered medications | ↓Dolutegravir | Administer JULUCA 4 hours before or 6 hours after taking products containing polyvalent cations. |
 | Narcotic analgesic:Methadoneb | ↔Dolutegravir↓Methadone↔Rilpivirine | No dose adjustments are required when starting coadministration of methadone with JULUCA. However, clinical monitoring is recommended as methadone maintenance therapy may need to be adjusted in some patients. |
 | Oral calcium and iron supplements, including multivitamins containing calcium or ironb (non-antacid) | ↓Dolutegravir | Administer JULUCA and supplements containing calcium or iron together with a meal or take JULUCA 4 hours before or 6 hours after taking these supplements. |
-| Proton Pump Inhibitors:e.g., Esomeprazole LansoprazoleOmeprazolePantoprazoleRabeprazole | ↓Rilpivirine | Coadministration is contraindicated with JULUCA due to decreased rilpivirine concentrations [see Contraindications (4)]. |
+| Potassium channel blocker:Dalfampridine | ↑Dalfampridine | Elevated levels of dalfampridine increase the risk of seizures. The potential benefits of taking dalfampridine concurrently with JULUCA should be considered against the risk of seizures in these patients. |
+| Proton pump inhibitors:e.g., Esomeprazole LansoprazoleOmeprazolePantoprazoleRabeprazole | ↓Rilpivirine | Coadministration is contraindicated with JULUCA due to decreased rilpivirine concentrations [see Contraindications (4)]. |
 | ↑ = Increase, ↓ = Decrease, ↔ = No change. a This table is not all inclusive. b See Clinical Pharmacology (12.3) for magnitude of interaction. |  |  |

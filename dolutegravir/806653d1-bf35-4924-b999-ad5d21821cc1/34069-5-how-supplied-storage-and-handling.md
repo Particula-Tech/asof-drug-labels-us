@@ -7,4 +7,4 @@ Bottle of 30 tablets with child-resistant closure (contains a desiccant) NDC 497
 Store and dispense in the original package, protect from moisture, and keep the bottle tightly closed.
 Do not remove desiccant.
 
-Store at 20°C to 25°C (68°F to 77°F); excursions permitted 15°C to 30°C (59°F to 86°F) [See USP Controlled Room Temperature].
+Store at 20°C to 25°C (68°F to 77°F); excursions permitted between 15°C and 30°C (59°F and 86°F) [See USP Controlled Room Temperature].

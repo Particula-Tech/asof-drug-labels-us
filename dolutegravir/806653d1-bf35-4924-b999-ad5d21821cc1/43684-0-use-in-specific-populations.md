@@ -35,8 +35,21 @@ Data analyzed to date from other sources including the APR, clinical trials, and
 
 Data from the birth outcome surveillance study described above and postmarketing sources with more than 1,000 pregnancy outcomes from second and third trimester exposure in pregnant women indicate no evidence of increased risk of adverse birth outcomes.
 
-Rilpivirine: Based on prospective reports to the APR of 202 exposures to rilpivirine during pregnancy resulting in live births, there was no difference between the overall risk of birth defects for rilpivirine compared with the background birth defect rate of 2.7% in the U.S. reference population of the MACDP.
-The prevalence of defects in live births was 0.5% (95% CI: 0.0% to 2.7%) and 0.8% (95% CI: 0.0% to 4.4%) following first and second/third trimester exposure, respectively, to rilpivirine-containing regimens.
+Rilpivirine: Based on prospective reports to the APR of over 450 exposures to rilpivirine-containing regimens during pregnancy resulting in live births (including over 290 exposed during the first trimester and over 160 exposed in the second/third trimester), there was no significant difference between the overall risk of birth defects for rilpivirine compared with the background birth defect rate of 2.7% in the U.S. reference population of the Metropolitan Atlantic Congenital Defects Program (MACDP).
+The prevalence of defects in live births was 1.0% (95% CI: 0.2% to 2.9%) and 1.2% (95% CI: 0.2% to 4.4%) following first and second/third trimester exposure, respectively, to rilpivirine-containing regimens.
+
+Rilpivirine in combination with a background regimen was evaluated in a clinical trial of 19 HIV-1–infected pregnant subjects during the second and third trimesters and postpartum.
+Each of the subjects were on a rilpivirine-based regimen at the time of enrollment.
+Twelve subjects completed the trial through the postpartum period (6 to 12 weeks after delivery) and pregnancy outcomes are missing for 6 subjects.
+The exposure (C0h and AUC) of total rilpivirine was approximately 30% to 40% lower during pregnancy compared with postpartum (6 to 12 weeks).
+The protein binding of rilpivirine was similar (>99%) during the second trimester, third trimester, and the postpartum period [see Clinical Pharmacology (12.3)].
+One subject discontinued the trial following fetal death at 25 weeks’ gestation due to suspected premature rupture of membranes.
+Among the 12 subjects who were virologically suppressed at baseline (less than 50 copies/mL), virologic response was preserved in 10 subjects (83.3%) through the third trimester visit and in 9 subjects (75%) through the 6- to 12-week postpartum visit.
+Virologic outcomes during the third trimester visit were missing for 2 subjects who were withdrawn (one subject was nonadherent to the study drug and one subject withdrew consent).
+Among the 10 infants with HIV test results available, born to 10 HIV-1–infected pregnant subjects, all had negative test results for HIV-1 at the time of delivery and up to 16 weeks postpartum.
+All 10 infants received antiretroviral prophylactic treatment with zidovudine.
+Rilpivirine was well tolerated during pregnancy and postpartum.
+There were no new safety findings compared with the known safety profile of rilpivirine in HIV-1–infected adults.
 
 Animal Data: Dolutegravir: Dolutegravir was administered orally at up to 1,000 mg per kg daily to pregnant rats and rabbits on gestation Days 6 to 17 and 6 to 18, respectively, and to rats on gestation Day 6 to lactation/post-partum Day 20.
 No adverse effects on embryo-fetal (rats and rabbits) development were observed at up to the highest dose tested.

@@ -19,7 +19,7 @@ Delay in stopping treatment with JULUCA after the onset of hypersensitivity may 
 Hepatic adverse events have been reported in patients receiving a dolutegravir- or rilpivirine-containing regimen [see Adverse Reactions (6.1)].
 Patients with underlying hepatitis B or C or marked elevations in transaminases prior to treatment may be at increased risk for worsening or development of transaminase elevations.
 Additionally, in some patients receiving dolutegravir-containing regimens, the elevations in transaminases were consistent with immune reconstitution syndrome or hepatitis B reactivation particularly in the setting where anti-hepatitis therapy was withdrawn.
-Cases of hepatic toxicity including elevated serum liver biochemistries and hepatitis have also been reported in patients receiving a dolutegravir- or rilpivirine-containing regimen who had no pre-existing hepatic disease or other identifiable risk factors.
+Cases of hepatic toxicity, including elevated serum liver biochemistries and hepatitis, have also been reported in patients receiving a dolutegravir- or rilpivirine-containing regimen who had no pre-existing hepatic disease or other identifiable risk factors.
 Drug-induced liver injury leading to acute liver failure has been reported with dolutegravir-containing products, including liver transplant with TRIUMEQ (abacavir, dolutegravir, and lamivudine).
 Monitoring for hepatotoxicity is recommended.
 

@@ -5,7 +5,7 @@
 The efficacy of JULUCA is supported by data from 2 open-label, controlled trials (SWORD-1 [NCT02429791] and SWORD-2 [NCT02422797]) in virologically suppressed patients switching from their current antiretroviral regimen to dolutegravir plus rilpivirine.
 
 SWORD-1 and SWORD-2 are identical 148-week, Phase 3, randomized, multicenter, parallel-group, non-inferiority trials.
-A total of 1,024 adult HIV–1-infected subjects who were on a stable suppressive antiretroviral regimen (containing 2 NRTIs plus either an INSTI, an NNRTI, or a PI) for at least 6 months (HIV-1 RNA less than 50 copies per mL), with no history of treatment failure and no known substitutions associated with resistance to dolutegravir or rilpivirine received treatment in the trials.
+A total of 1,024 adult HIV-1–infected subjects who were on a stable suppressive antiretroviral regimen (containing 2 NRTIs plus either an INSTI, an NNRTI, or a PI) for at least 6 months (HIV-1 RNA less than 50 copies per mL), with no history of treatment failure and no known substitutions associated with resistance to dolutegravir or rilpivirine received treatment in the trials.
 Subjects were randomized 1:1 to continue their current antiretroviral regimen or be switched to dolutegravir plus rilpivirine administered once daily.
 The primary efficacy endpoint for the SWORD trials was the proportion of subjects with plasma HIV-1 RNA less than 50 copies per mL at Week 48.
 
@@ -13,10 +13,10 @@ At baseline, in the pooled analysis, the median age of subjects was 43 years (ra
 In the pooled analysis, 54%, 26%, and 20% of subjects were receiving an NNRTI, PI, or INSTI, respectively, as their baseline third-treatment-agent class prior to randomization.
 This distribution was similar between treatment arms.
 
-The primary endpoint and other outcomes (including outcomes by key baseline covariates) for the pooled SWORD-1 and SWORD-2 trials are shown in Table 11.
+The primary endpoint and other outcomes (including outcomes by key baseline covariates) for the pooled SWORD-1 and SWORD-2 trials are shown in Table 12.
 The virologic outcome results for SWORD-1 and SWORD-2 were similar to the pooled SWORD-1 and SWORD-2 virologic outcome results.
 
-Table 11.
+Table 12.
 Pooled Virologic Outcomes of Randomized Treatment in SWORD-1 and SWORD-2 Trials at Week 48 in Virologically Suppressed Subjects Who Switched to JULUCA (Snapshot Algorithm)
 
 |  | Pooled Data |  |

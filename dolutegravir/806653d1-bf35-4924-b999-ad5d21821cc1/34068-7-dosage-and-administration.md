@@ -11,4 +11,4 @@ One tablet of JULUCA contains 50 mg of dolutegravir and 25 mg of rilpivirine.
 
 ## 2.3 Recommended Dosage with Rifabutin Coadministration
 
-If JULUCA is coadministered with rifabutin, take an additional 25-mg tablet of rilpivirine with JULUCA once daily with a meal for the duration of the rifabutin coadministration [see Drug Interactions (7.3)].
+If JULUCA is coadministered with rifabutin, take an additional 25-mg tablet of rilpivirine with JULUCA once daily with a meal for the duration of the rifabutin coadministration [see Drug Interactions (7.4)].

@@ -73,7 +73,7 @@ Pharmacokinetic data in subjects 65 years of age and older are limited [see Use 
 
 Patients with Renal Impairment: Population pharmacokinetic analyses indicated that mild and moderate renal impairment had no clinically relevant effect on the exposure of dolutegravir.
 Dolutegravir AUC, Cmax, and C24 were lower by 40%, 23%, and 43%, respectively, in subjects (n = 8) with severe renal impairment (creatinine clearance less than 30 mL/min) as compared with matched healthy controls.
-Dolutegravir has not been studied in patients requiring dialysis [see Use in Specific Populations (8.6)].
+There is inadequate information to recommend appropriate dosing of dolutegravir in patients requiring dialysis [see Use in Specific Populations (8.6)].
 
 Population pharmacokinetic analyses indicated that mild renal impairment had no clinically relevant effect on the exposure of rilpivirine.
 There is limited or no information regarding the pharmacokinetics of rilpivirine in patients with moderate or severe renal impairment, end-stage renal disease, or patients requiring dialysis.
@@ -89,6 +89,23 @@ Subjects with hepatitis B co-infection were excluded from studies with dolutegra
 
 Gender and Race: Population pharmacokinetic analyses from studies with the individual components revealed that gender and race had no clinically relevant effect on the pharmacokinetics of dolutegravir or rilpivirine.
 
+Pregnancy and Postpartum: Rilpivirine: The exposure (C0h and AUC24h) to total rilpivirine after taking rilpivirine 25 mg once daily as part of an antiretroviral regimen was 30% to 40% lower during pregnancy (similar for the second and third trimesters) compared with postpartum (see Table 7).
+However, the exposure during pregnancy was not significantly different from exposures obtained in Phase 3 trials of rilpivirine-containing regimens.
+Based on the exposure-response relationship for rilpivirine, this decrease is not considered clinically relevant in patients who are virologically suppressed.
+The protein binding of rilpivirine was similar (>99%) during the second trimester, third trimester, and postpartum.
+
+Table 7.
+Pharmacokinetic Results of Rilpivirine during the 2nd and 3rd Trimesters of Pregnancy and Postpartum Perioda
+
+| Pharmacokinetics ofTotal Rilpivirine(mean ± SD) | Postpartum (6 to 12 Weeks)(n = 11) | 2nd Trimester of Pregnancy(n = 15) | 3rd Trimester of Pregnancy(n = 13) |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| C0h (ng/mL) | 111 ± 69.2 | 65.0 ± 23.9 | 63.5 ± 26.2 |  |  |  |  |  |  |
+| Cmin (ng/mL) | 84.0 ± 58.8 | 54.3 ± 25.8 | 52.9 ± 24.4 |  |  |  |  |  |  |
+| Cmax (ng/mL) | 167 ± 101 | 121 ±45.9 | 123 ± 47.5 |  |  |  |  |  |  |
+| Tmax (h), median (range) | 4.00 (2.03-25.08) | 4.00 (1.00-9.00) | 4.00 (2.00-24.93) |  |  |  |  |  |  |
+| AUC24h (ng.h/mL) | 2,714 ± 1,535 | 1,792 ± 711 | 1,762 ± 662 |  |  |  |  |  |  |
+| a Total rilpivirine exposure after administration of rilpivirine 25 mg once daily as part of an antiretroviral regimen. |  |  |  |  |  |  |  |  |  |
+
 Drug Interaction Studies
 
 Drug interaction trials were conducted with dolutegravir or rilpivirine as individual components and other drugs likely to be coadministered or commonly used as probes for pharmacokinetic interactions.
@@ -97,7 +114,7 @@ In vitro, dolutegravir did not induce CYP1A2, CYP2B6, or CYP3A4.
 
 In vitro, dolutegravir inhibited the renal OCT2 (IC50 = 1.93 microM) and MATE1 (IC50 = 6.34 microM).
 In vivo, dolutegravir inhibits tubular secretion of creatinine by inhibiting OCT2 and potentially MATE1.
-Dolutegravir may increase plasma concentrations of drugs eliminated via OCT2 or MATE1 such as dofetilide and metformin [see Contraindications (4), Drug Interactions (7.4)].
+Dolutegravir may increase plasma concentrations of drugs eliminated via OCT2 or MATE1 such as dofetilide, dalfampridine, and metformin [see Contraindications (4), Drug Interactions (7.4)].
 
 In vitro, dolutegravir inhibited the basolateral renal transporters, organic anion transporter (OAT)1 (IC50 = 2.12 microM) and OAT3 (IC50 = 1.97 microM).
 However, in vivo, dolutegravir did not alter the plasma concentrations of tenofovir or para-amino hippurate, substrates of OAT1 and OAT3.
@@ -111,95 +128,95 @@ Rilpivirine 25 mg once daily is not likely to have a clinically relevant effect 
 
 Dosing recommendations as a result of established and other potentially significant drug-drug interactions with dolutegravir or rilpivirine are provided in Table 4 [see Drug Interactions (7.4)].
 
-Table 7.
+Table 8.
 Summary of Effect of Dolutegravir on the Pharmacokinetics of Coadministered Drugs
 
-| Coadministered Drug(s)and Dose(s) | Dose of Dolutegravir | n | Geometric Mean Ratio (90% CI) of Pharmacokinetic Parameters of Coadministered Drug with/without DolutegravirNo Effect = 1.00 |  |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Cmax | AUC | Cτ or C24 |  |  |  |  |  |  |  |  |  |
-| Daclatasvir 60 mg once daily | 50 mgonce daily | 12 | 1.03(0.84 to 1.25) | 0.98(0.83 to 1.15) | 1.06(0.88 to 1.29) |  |  |  |  |  |  |
-| Ethinyl estradiol 0.035 mg | 50 mgtwice daily | 15 | 0.99(0.91 to 1.08) | 1.03(0.96 to 1.11) | 1.02(0.93 to 1.11) |  |  |  |  |  |  |
-| Metformin 500 mg twice daily | 50 mgonce daily | 15a | 1.66(1.53 to 1.81) | 1.79(1.65 to 1.93) | _ |  |  |  |  |  |  |
-| Metformin 500 mg twice daily | 50 mgtwice daily | 15a | 2.11(1.91 to 2.33) | 2.45(2.25 to 2.66) | _ |  |  |  |  |  |  |
-| Methadone 16 to 150 mg | 50 mgtwice daily | 11 | 1.00(0. 94 to 1.06) | 0.98(0.91 to 1.06) | 0.99(0.91 to 1.07) |  |  |  |  |  |  |
-| Midazolam 3 mg | 25 mgonce daily | 10 | _ | 0.95(0.79 to 1.15) | _ |  |  |  |  |  |  |
-| Norelgestromin 0.25 mg | 50 mgtwice daily | 15 | 0.89(0.82 to 0.97) | 0.98(0.91 to 1.04) | 0.93(0.85 to 1.03) |  |  |  |  |  |  |
-| a The number of subjects represents the maximum number of subjects that were evaluated. |  |  |  |  |  |  |  |  |  |  |  |
-
-Table 8.
-Summary of Effect of Coadministered Drugs on the Pharmacokinetics of Dolutegravir
-
-| Coadministered Drug(s)and Dose(s) | Dose of Dolutegravir | n | Geometric Mean Ratio (90% CI) of Dolutegravir Pharmacokinetic Parameters with/without Coadministered Drugs No Effect = 1.00 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Cmax | AUC | Cτ or C24 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Antacid (MAALOX) simultaneous administration | 50 mgsingle dose | 16 | 0.28(0.23 to 0.33) | 0.26(0.22 to 0.32) | 0.26(0.21 to 0.31) |  |  |  |  |  |  |  |  |  |  |  |  |
-| Antacid (MAALOX) 2 h after dolutegravir | 50 mgsingle dose | 16 | 0.82(0.69 to 0.98) | 0.74(0.62 to 0.90) | 0.70(0.58 to 0.85) |  |  |  |  |  |  |  |  |  |  |  |  |
-| Calcium carbonate 1,200 mg simultaneous administration (fasted) | 50 mgsingle dose | 12 | 0.63(0.50 to 0.81) | 0.61(0.47 to 0.80) | 0.61(0.47 to 0.80) |  |  |  |  |  |  |  |  |  |  |  |  |
-| Calcium carbonate 1,200 mg simultaneous administration (fed) | 50 mgsingle dose | 11 | 1.07(0.83 to 1.38) | 1.09(0.84 to 1.43) | 1.08(0.81 to 1.42) |  |  |  |  |  |  |  |  |  |  |  |  |
-| Calcium carbonate 1,200 mg 2 h after dolutegravir | 50 mgsingle dose | 11 | 1.00(0.78 to 1.29) | 0.94(0.72 to 1.23) | 0.90(0.68 to 1.19) |  |  |  |  |  |  |  |  |  |  |  |  |
-| Carbamazepine 300 mg twice daily | 50 mgonce daily | 16c | 0.67(0.61 to 0.73) | 0.51(0.48 to 0.55) | 0.27(0.24 to 0.31) |  |  |  |  |  |  |  |  |  |  |  |  |
-| Daclatasvir 60 mg once daily | 50 mgonce daily | 12 | 1.29(1.07 to 1.57) | 1.33(1.11 to 1.59) | 1.45(1.25 to 1.68) |  |  |  |  |  |  |  |  |  |  |  |  |
-| Ferrous fumarate 324 mg simultaneous administration (fasted) | 50 mgsingle dose | 11 | 0.43(0.35 to 0.52) | 0.46(0.38 to 0.56) | 0.44(0.36 to 0.54) |  |  |  |  |  |  |  |  |  |  |  |  |
-| Ferrous fumarate 324 mg simultaneous administration (fed) | 50 mgsingle dose | 11 | 1.03(0.84 to 1.26) | 0.98(0.81 to 1.20) | 1.00(0.81 to 1.23) |  |  |  |  |  |  |  |  |  |  |  |  |
-| Ferrous fumarate 324 mg 2 h after dolutegravir | 50 mgsingle dose | 10 | 0.99(0.81 to 1.21) | 0.95(0.77 to 1.15) | 0.92(0.74 to 1.13) |  |  |  |  |  |  |  |  |  |  |  |  |
-| Multivitamin (One-A-Day) simultaneous administration | 50 mgsingle dose | 16 | 0.65(0.54 to 0.77) | 0.67(0.55 to 0.81) | 0.68(0.56 to 0.82) |  |  |  |  |  |  |  |  |  |  |  |  |
-| Omeprazole 40 mg once daily | 50 mgsingle dose | 12 | 0.92(0.75 to 1.11) | 0.97(0.78 to 1.20) | 0.95(0.75 to 1.21) |  |  |  |  |  |  |  |  |  |  |  |  |
-| Prednisone 60 mg once daily with taper | 50 mgonce daily | 12 | 1.06(0.99 to 1.14) | 1.11(1.03 to 1.20) | 1.17(1.06 to 1.28) |  |  |  |  |  |  |  |  |  |  |  |  |
-| Rifampina 600 mg once daily | 50 mgtwice daily | 11 | 0.57(0.49 to 0.65) | 0.46(0.38 to 0.55) | 0.28(0.23 to 0.34) |  |  |  |  |  |  |  |  |  |  |  |  |
-| Rifampinb 600 mg once daily | 50 mgtwice daily | 11 | 1.18(1.03 to 1.37) | 1.33(1.15 to 1.53) | 1.22(1.01 to 1.48) |  |  |  |  |  |  |  |  |  |  |  |  |
-| Rifabutin 300 mg once daily | 50 mgonce daily | 9 | 1.16(0.98 to 1.37) | 0.95(0.82 to 1.10) | 0.70(0.57 to 0.87) |  |  |  |  |  |  |  |  |  |  |  |  |
-| a Comparison is rifampin taken with dolutegravir 50 mg twice daily compared with dolutegravir 50 mg twice daily. b Comparison is rifampin taken with dolutegravir 50 mg twice daily compared with dolutegravir 50 mg once daily. c The number of subjects represents the maximum number of subjects that were evaluated. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Coadministered Drug(s)and Dose(s) | Dose of Dolutegravir | n | Geometric Mean Ratio (90% CI) of Pharmacokinetic Parameters of Coadministered Drug with/without DolutegravirNo Effect = 1.00 |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Cmax | AUC | Cτ or C24 |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Daclatasvir 60 mg once daily | 50 mgonce daily | 12 | 1.03(0.84 to 1.25) | 0.98(0.83 to 1.15) | 1.06(0.88 to 1.29) |  |  |  |  |  |  |  |  |  |  |
+| Ethinyl estradiol 0.035 mg | 50 mgtwice daily | 15 | 0.99(0.91 to 1.08) | 1.03(0.96 to 1.11) | 1.02(0.93 to 1.11) |  |  |  |  |  |  |  |  |  |  |
+| Metformin 500 mg twice daily | 50 mgonce daily | 15a | 1.66(1.53 to 1.81) | 1.79(1.65 to 1.93) | _ |  |  |  |  |  |  |  |  |  |  |
+| Metformin 500 mg twice daily | 50 mgtwice daily | 15a | 2.11(1.91 to 2.33) | 2.45(2.25 to 2.66) | _ |  |  |  |  |  |  |  |  |  |  |
+| Methadone 16 to 150 mg | 50 mgtwice daily | 11 | 1.00(0. 94 to 1.06) | 0.98(0.91 to 1.06) | 0.99(0.91 to 1.07) |  |  |  |  |  |  |  |  |  |  |
+| Midazolam 3 mg | 25 mgonce daily | 10 | _ | 0.95(0.79 to 1.15) | _ |  |  |  |  |  |  |  |  |  |  |
+| Norelgestromin 0.25 mg | 50 mgtwice daily | 15 | 0.89(0.82 to 0.97) | 0.98(0.91 to 1.04) | 0.93(0.85 to 1.03) |  |  |  |  |  |  |  |  |  |  |
+| a The number of subjects represents the maximum number of subjects that were evaluated. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 Table 9.
-Summary of Effect of Rilpivirine on the Pharmacokinetics of Coadministered Drugs
+Summary of Effect of Coadministered Drugs on the Pharmacokinetics of Dolutegravir
 
-| Coadministered Drug(s)and Dose(s) | Dose of Rilpivirine | n | Geometric Mean Ratio (90% CI) of Coadministered Drug Pharmacokinetic Parameters with/without EDURANT No Effect = 1.00 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Cmax | AUC | Cmin |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Acetaminophen 500 mg single dose | 150 mgonce dailya | 16 | 0.97(0.86 to 1.10) | 0.91(0.86 to 0.97) | NA |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Atorvastatin 40 mg once daily | 150 mgonce dailya | 16 | 1.35(1.08 to 1.68) | 1.04(0.97 to 1.12) | 0.85(0.69 to 1.03) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| 2-hydroxy-atorvastatin |  |  | 1.58(1.33 to 1.87) | 1.39(1.29 to 1.50) | 1.32(1.10 to 1.58) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| 4-hydroxy-atorvastatin |  |  | 1.28(1.15 to 1.43) | 1.23(1.13 to 1.33) | NA |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Chlorzoxazone 500 mg single dose taken 2 hours after rilpivirine | 150 mgonce dailya | 16 | 0.98(0.85 to 1.13) | 1.03(0.95 to 1.13) | NA |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Digoxin 0.5 mg single dose | 25 mgonce daily | 22 | 1.06(0.97 to 1.17) | 0.98(0.93 to 1.04)c | NA |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Ethinylestradiol 0.035 mg once daily | 25 mgonce daily | 17 | 1.17(1.06 to 1.30) | 1.14(1.10 to 1.19) | 1.09(1.03 to 1.16) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Norethindrone 1 mg once daily |  |  | 0.94(0.83 to 1.06) | 0.89(0.84 to 0.94) | 0.99(0.90 to 1.08) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Ketoconazole 400 mg once daily | 150 mgonce dailya | 14 | 0.85(0.80 to 0.90) | 0.76(0.70 to 0.82) | 0.34(0.25 to 0.46) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Methadone 60-100 mg once daily, individualized dose | 25 mgonce daily | 13 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| R(‑) methadone |  |  | 0.86(0.78 to 0.95) | 0.84(0.74 to 0.95) | 0.78(0.67 to 0.91) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| S(+) methadone |  |  | 0.87(0.78 to 0.97) | 0.84(0.74 to 0.96) | 0.79(0.67 to 0.92) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Metformin 850 mg single dose | 25 mgonce daily | 20 | 1.02(0.95 to -1.10) | 0.97(0.90 to 1.06)b | NA |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Omeprazole 20 mg once daily | 150 mgonce dailya | 15 | 0.86(0.68 to 1.09) | 0.86(0.76 to 0.97) | NA |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Rifampin 600 mg once daily | 150 mgonce dailya | 16 | 1.02(0.93 to 1.12) | 0.99(0.92 to 1.07) | NA |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| 25-desacetylrifampin |  |  | 1.00(0.87 to 1.15) | 0.91(0.77 to 1.07) | NA |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Sildenafil 50 mg single dose | 75 mgonce dailya | 16 | 0.93(0.80 to 1.08) | 0.97(0.87 to 1.08) | NA |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| N-desmethyl-sildenafil |  |  | 0.90(0.80 to 1.02) | 0.92(0.85 to 0.99)c | NA |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Simeprevir 150 mg once daily | 25 mgonce daily | 21 | 1.10(0.97 to 1.26) | 1.06(0.94 to 1.19) | 0.96(0.83 to 1.11) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| CI = Confidence Interval; n = Maximum number of subjects with data; NA = Not available. a This interaction study has been performed with a dose higher than the recommended dose for rilpivirine (25 mg once daily) assessing the maximal effect on the coadministered drug. b N (maximum number of subjects with data) for AUC(0-∞) = 15. c AUC(0-last). |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Coadministered Drug(s)and Dose(s) | Dose of Dolutegravir | n | Geometric Mean Ratio (90% CI) of Dolutegravir Pharmacokinetic Parameters with/without Coadministered Drugs No Effect = 1.00 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Cmax | AUC | Cτ or C24 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Antacid (MAALOX) simultaneous administration | 50 mgsingle dose | 16 | 0.28(0.23 to 0.33) | 0.26(0.22 to 0.32) | 0.26(0.21 to 0.31) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Antacid (MAALOX) 2 h after dolutegravir | 50 mgsingle dose | 16 | 0.82(0.69 to 0.98) | 0.74(0.62 to 0.90) | 0.70(0.58 to 0.85) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Calcium carbonate 1,200 mg simultaneous administration (fasted) | 50 mgsingle dose | 12 | 0.63(0.50 to 0.81) | 0.61(0.47 to 0.80) | 0.61(0.47 to 0.80) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Calcium carbonate 1,200 mg simultaneous administration (fed) | 50 mgsingle dose | 11 | 1.07(0.83 to 1.38) | 1.09(0.84 to 1.43) | 1.08(0.81 to 1.42) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Calcium carbonate 1,200 mg 2 h after dolutegravir | 50 mgsingle dose | 11 | 1.00(0.78 to 1.29) | 0.94(0.72 to 1.23) | 0.90(0.68 to 1.19) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Carbamazepine 300 mg twice daily | 50 mgonce daily | 16c | 0.67(0.61 to 0.73) | 0.51(0.48 to 0.55) | 0.27(0.24 to 0.31) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Daclatasvir 60 mg once daily | 50 mgonce daily | 12 | 1.29(1.07 to 1.57) | 1.33(1.11 to 1.59) | 1.45(1.25 to 1.68) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Ferrous fumarate 324 mg simultaneous administration (fasted) | 50 mgsingle dose | 11 | 0.43(0.35 to 0.52) | 0.46(0.38 to 0.56) | 0.44(0.36 to 0.54) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Ferrous fumarate 324 mg simultaneous administration (fed) | 50 mgsingle dose | 11 | 1.03(0.84 to 1.26) | 0.98(0.81 to 1.20) | 1.00(0.81 to 1.23) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Ferrous fumarate 324 mg 2 h after dolutegravir | 50 mgsingle dose | 10 | 0.99(0.81 to 1.21) | 0.95(0.77 to 1.15) | 0.92(0.74 to 1.13) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Multivitamin (One-A-Day) simultaneous administration | 50 mgsingle dose | 16 | 0.65(0.54 to 0.77) | 0.67(0.55 to 0.81) | 0.68(0.56 to 0.82) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Omeprazole 40 mg once daily | 50 mgsingle dose | 12 | 0.92(0.75 to 1.11) | 0.97(0.78 to 1.20) | 0.95(0.75 to 1.21) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Prednisone 60 mg once daily with taper | 50 mgonce daily | 12 | 1.06(0.99 to 1.14) | 1.11(1.03 to 1.20) | 1.17(1.06 to 1.28) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Rifampina 600 mg once daily | 50 mgtwice daily | 11 | 0.57(0.49 to 0.65) | 0.46(0.38 to 0.55) | 0.28(0.23 to 0.34) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Rifampinb 600 mg once daily | 50 mgtwice daily | 11 | 1.18(1.03 to 1.37) | 1.33(1.15 to 1.53) | 1.22(1.01 to 1.48) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Rifabutin 300 mg once daily | 50 mgonce daily | 9 | 1.16(0.98 to 1.37) | 0.95(0.82 to 1.10) | 0.70(0.57 to 0.87) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| a Comparison is rifampin taken with dolutegravir 50 mg twice daily compared with dolutegravir 50 mg twice daily. b Comparison is rifampin taken with dolutegravir 50 mg twice daily compared with dolutegravir 50 mg once daily. c The number of subjects represents the maximum number of subjects that were evaluated. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 Table 10.
+Summary of Effect of Rilpivirine on the Pharmacokinetics of Coadministered Drugs
+
+| Coadministered Drug(s)and Dose(s) | Dose of Rilpivirine | n | Geometric Mean Ratio (90% CI) of Coadministered Drug Pharmacokinetic Parameters with/without EDURANT No Effect = 1.00 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Cmax | AUC | Cmin |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Acetaminophen 500 mg single dose | 150 mgonce dailya | 16 | 0.97(0.86 to 1.10) | 0.91(0.86 to 0.97) | NA |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Atorvastatin 40 mg once daily | 150 mgonce dailya | 16 | 1.35(1.08 to 1.68) | 1.04(0.97 to 1.12) | 0.85(0.69 to 1.03) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 2-hydroxy-atorvastatin |  |  | 1.58(1.33 to 1.87) | 1.39(1.29 to 1.50) | 1.32(1.10 to 1.58) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 4-hydroxy-atorvastatin |  |  | 1.28(1.15 to 1.43) | 1.23(1.13 to 1.33) | NA |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Chlorzoxazone 500 mg single dose taken 2 hours after rilpivirine | 150 mgonce dailya | 16 | 0.98(0.85 to 1.13) | 1.03(0.95 to 1.13) | NA |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Digoxin 0.5 mg single dose | 25 mgonce daily | 22 | 1.06(0.97 to 1.17) | 0.98(0.93 to 1.04)c | NA |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Ethinylestradiol 0.035 mg once daily | 25 mgonce daily | 17 | 1.17(1.06 to 1.30) | 1.14(1.10 to 1.19) | 1.09(1.03 to 1.16) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Norethindrone 1 mg once daily |  |  | 0.94(0.83 to 1.06) | 0.89(0.84 to 0.94) | 0.99(0.90 to 1.08) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Ketoconazole 400 mg once daily | 150 mgonce dailya | 14 | 0.85(0.80 to 0.90) | 0.76(0.70 to 0.82) | 0.34(0.25 to 0.46) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Methadone 60-100 mg once daily, individualized dose | 25 mgonce daily | 13 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| R(‑) methadone |  |  | 0.86(0.78 to 0.95) | 0.84(0.74 to 0.95) | 0.78(0.67 to 0.91) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| S(+) methadone |  |  | 0.87(0.78 to 0.97) | 0.84(0.74 to 0.96) | 0.79(0.67 to 0.92) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Metformin 850 mg single dose | 25 mgonce daily | 20 | 1.02(0.95 to -1.10) | 0.97(0.90 to 1.06)b | NA |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Omeprazole 20 mg once daily | 150 mgonce dailya | 15 | 0.86(0.68 to 1.09) | 0.86(0.76 to 0.97) | NA |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Rifampin 600 mg once daily | 150 mgonce dailya | 16 | 1.02(0.93 to 1.12) | 0.99(0.92 to 1.07) | NA |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 25-desacetylrifampin |  |  | 1.00(0.87 to 1.15) | 0.91(0.77 to 1.07) | NA |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Sildenafil 50 mg single dose | 75 mgonce dailya | 16 | 0.93(0.80 to 1.08) | 0.97(0.87 to 1.08) | NA |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| N-desmethyl-sildenafil |  |  | 0.90(0.80 to 1.02) | 0.92(0.85 to 0.99)c | NA |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Simeprevir 150 mg once daily | 25 mgonce daily | 21 | 1.10(0.97 to 1.26) | 1.06(0.94 to 1.19) | 0.96(0.83 to 1.11) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| CI = Confidence Interval; n = Maximum number of subjects with data; NA = Not available. a This interaction study has been performed with a dose higher than the recommended dose for rilpivirine (25 mg once daily) assessing the maximal effect on the coadministered drug. b N (maximum number of subjects with data) for AUC(0-∞) = 15. c AUC(0-last). |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+Table 11.
 Summary of Effect of Coadministered Drugs on the Pharmacokinetics of Rilpivirine
 
-| Coadministered Drug(s)and Dose(s) | Dose of Rilpivirine | n | Geometric Mean Ratio (90% CI) of Rilpivirine Pharmacokinetic Parameters with/without Coadministered Drugs No Effect = 1.00 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Cmax | AUC | Cmin |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Acetaminophen 500 mg single dose | 150 mgonce dailya | 16 | 1.09(1.01 to 1.18) | 1.16(1.10 to 1.22) | 1.26(1.16 to 1.38) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Atorvastatin 40 mg once daily | 150 mgonce dailya | 16 | 0.91(0.79 to 1.06) | 0.90(0.81 to 0.99) | 0.90(0.84 to 0.96) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Chlorzoxazone 500 mg single dose taken 2 hours after rilpivirine | 150 mgonce dailya | 16 | 1.17(1.08 to 1.27) | 1.25(1.16 to 1.35) | 1.18(1.09 to 1.28) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Ethinylestradiol/ Norethindrone 0.035 mg once daily/ 1 mg once daily | 25 mgonce daily | 15 | ↔b | ↔b | ↔b |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Famotidine 40 mg single dose taken 12 hours before rilpivirine | 150 mgsingle dosea | 24 | 0.99(0.84 to 1.16) | 0.91(0.78 to 1.07) | NA |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Famotidine 40 mg single dose taken 2 hours before rilpivirine | 150 mgsingle dosea | 23 | 0.15(0.12 to 0.19) | 0.24(0.20 to 0.28) | NA |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Famotidine 40 mg single dose taken 4 hours after rilpivirine | 150 mgsingle dosea | 24 | 1.21(1.06 to 1.39) | 1.13(1.01 to 1.27) | NA |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Ketoconazole 400 mg once daily | 150 mgonce dailyb | 15 | 1.30(1.13 to 1.48) | 1.49(1.31 to 1.70) | 1.76(1.57 to 1.97) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Methadone 60-100 mg once daily, individualized dose | 25 mgonce daily | 12 | ↔b | ↔b | ↔b |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Omeprazole 20 mg once daily | 150 mgonce dailya | 16 | 0.60(0.48 to 0.73) | 0.60(0.51 to 0.71) | 0.67(0.58 to 0.78) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Rifabutin 300 mg once daily | 25 mgonce daily | 18 | 0.69(0.62 to 0.76) | 0.58(0.52 to 0.65) | 0.52(0.46 to 0.59) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Rifabutin 300 mg once daily | 50 mgonce daily | 18 | 1.43(1.30 to 1.56) | 1.16(1.06 to 1.26) | 0.93(0.85 to 1.01) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  | (reference arm for comparison was 25-mg-once-daily rilpivirine administered alone) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Rifampin 600 mg once daily | 150 mgonce dailya | 16 | 0.31(0.27 to 0.36) | 0.20(0.18 to 0.23) | 0.11(0.10 to 0.13) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Sildenafil 50 mg single dose | 75 mgonce dailya | 16 | 0.92(0.85 to 0.99) | 0.98(0.92 to 1.05) | 1.04(0.98 to 1.09) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Simeprevir 150 mg once daily | 25 mgonce daily | 23 | 1.04(0.95 to 1.13) | 1.12(1.05 to 1.19) | 1.25(1.16 to 1.35) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| CI = Confidence Interval; n = Maximum number of subjects with data; NA = Not available; ↔ = No change. a This interaction study has been performed with a dose higher than the recommended dose for rilpivirine (25 mg once daily) assessing the maximal effect on the coadministered drug. b Comparison based on historic controls. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Coadministered Drug(s)and Dose(s) | Dose of Rilpivirine | n | Geometric Mean Ratio (90% CI) of Rilpivirine Pharmacokinetic Parameters with/without Coadministered Drugs No Effect = 1.00 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Cmax | AUC | Cmin |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Acetaminophen 500 mg single dose | 150 mgonce dailya | 16 | 1.09(1.01 to 1.18) | 1.16(1.10 to 1.22) | 1.26(1.16 to 1.38) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Atorvastatin 40 mg once daily | 150 mgonce dailya | 16 | 0.91(0.79 to 1.06) | 0.90(0.81 to 0.99) | 0.90(0.84 to 0.96) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Chlorzoxazone 500 mg single dose taken 2 hours after rilpivirine | 150 mgonce dailya | 16 | 1.17(1.08 to 1.27) | 1.25(1.16 to 1.35) | 1.18(1.09 to 1.28) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Ethinylestradiol/ Norethindrone 0.035 mg once daily/ 1 mg once daily | 25 mgonce daily | 15 | ↔b | ↔b | ↔b |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Famotidine 40 mg single dose taken 12 hours before rilpivirine | 150 mgsingle dosea | 24 | 0.99(0.84 to 1.16) | 0.91(0.78 to 1.07) | NA |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Famotidine 40 mg single dose taken 2 hours before rilpivirine | 150 mgsingle dosea | 23 | 0.15(0.12 to 0.19) | 0.24(0.20 to 0.28) | NA |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Famotidine 40 mg single dose taken 4 hours after rilpivirine | 150 mgsingle dosea | 24 | 1.21(1.06 to 1.39) | 1.13(1.01 to 1.27) | NA |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Ketoconazole 400 mg once daily | 150 mgonce dailyb | 15 | 1.30(1.13 to 1.48) | 1.49(1.31 to 1.70) | 1.76(1.57 to 1.97) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Methadone 60-100 mg once daily, individualized dose | 25 mgonce daily | 12 | ↔b | ↔b | ↔b |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Omeprazole 20 mg once daily | 150 mgonce dailya | 16 | 0.60(0.48 to 0.73) | 0.60(0.51 to 0.71) | 0.67(0.58 to 0.78) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Rifabutin 300 mg once daily | 25 mgonce daily | 18 | 0.69(0.62 to 0.76) | 0.58(0.52 to 0.65) | 0.52(0.46 to 0.59) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Rifabutin 300 mg once daily | 50 mgonce daily | 18 | 1.43(1.30 to 1.56) | 1.16(1.06 to 1.26) | 0.93(0.85 to 1.01) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  | (reference arm for comparison was 25-mg-once-daily rilpivirine administered alone) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Rifampin 600 mg once daily | 150 mgonce dailya | 16 | 0.31(0.27 to 0.36) | 0.20(0.18 to 0.23) | 0.11(0.10 to 0.13) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Sildenafil 50 mg single dose | 75 mgonce dailya | 16 | 0.92(0.85 to 0.99) | 0.98(0.92 to 1.05) | 1.04(0.98 to 1.09) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Simeprevir 150 mg once daily | 25 mgonce daily | 23 | 1.04(0.95 to 1.13) | 1.12(1.05 to 1.19) | 1.25(1.16 to 1.35) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| CI = Confidence Interval; n = Maximum number of subjects with data; NA = Not available; ↔ = No change. a This interaction study has been performed with a dose higher than the recommended dose for rilpivirine (25 mg once daily) assessing the maximal effect on the coadministered drug. b Comparison based on historic controls. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 ## 12.4 Microbiology
 
