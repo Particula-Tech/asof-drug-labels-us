@@ -1,12 +1,12 @@
-PRINCIPAL DISPLAY PANEL
+# PRINCIPAL DISPLAY PANEL
 
-Package Label – 5 mg / 160 mg / 12.5 mg
+NDC 0078-0559-15
 
-Rx Only NDC 0078-0559-15
-
-Exforge HCT®
+EXFORGE HCT®
 
 (amlodipine, valsartan, hydrochlorothiazide)
+
+Tablets
 
 5 mg* / 160 mg / 12.5 mg
 
@@ -14,31 +14,19 @@ Exforge HCT®
 
 30 Tablets
 
-PRINCIPAL DISPLAY PANEL
+Rx only
 
-Package Label – 10 mg / 160 mg / 12.5 mg
+NOVARTIS
 
-Rx Only NDC 0078-0561-15
+# PRINCIPAL DISPLAY PANEL
 
-Exforge HCT®
+NDC 0078-0560-15
 
-(amlodipine, valsartan, hydrochlorothiazide)
-
-10 mg* / 160 mg / 12.5 mg
-
-*each tablet contains 13.9 mg of amlodipine besylate
-
-30 Tablets
-
-PRINCIPAL DISPLAY PANEL
-
-Package Label – 5 mg / 160 mg / 25 mg
-
-Rx Only NDC 0078-0560-15
-
-Exforge HCT®
+EXFORGE HCT®
 
 (amlodipine, valsartan, hydrochlorothiazide)
+
+Tablets
 
 5 mg* / 160 mg / 25 mg
 
@@ -46,15 +34,39 @@ Exforge HCT®
 
 30 Tablets
 
-PRINCIPAL DISPLAY PANEL
+Rx only
 
-Package Label – 10 mg / 160 mg / 25 mg
+NOVARTIS
 
-Rx Only NDC 0078-0562-15
+# PRINCIPAL DISPLAY PANEL
 
-Exforge HCT®
+NDC 0078-0561-15
+
+EXFORGE HCT®
 
 (amlodipine, valsartan, hydrochlorothiazide)
+
+Tablets
+
+10 mg* / 160 mg / 12.5 mg
+
+*each tablet contains 13.9 mg of amlodipine besylate
+
+30 Tablets
+
+Rx only
+
+NOVARTIS
+
+# PRINCIPAL DISPLAY PANEL
+
+NDC 0078-0562-15
+
+EXFORGE HCT®
+
+(amlodipine, valsartan, hydrochlorothiazide)
+
+Tablets
 
 10 mg* / 160 mg / 25 mg
 
@@ -62,18 +74,26 @@ Exforge HCT®
 
 30 Tablets
 
-PRINCIPAL DISPLAY PANEL
+Rx only
 
-Package Label – 10 mg / 320 mg / 25 mg
+NOVARTIS
 
-Rx Only NDC 0078-0563-15
+# PRINCIPAL DISPLAY PANEL
 
-Exforge HCT®
+NDC 0078-0563-15
+
+EXFORGE HCT®
 
 (amlodipine, valsartan, hydrochlorothiazide)
+
+Tablets
 
 10 mg* / 320 mg / 25 mg
 
 *each tablet contains 13.9 mg of amlodipine besylate
 
 30 Tablets
+
+Rx only
+
+NOVARTIS
