@@ -14,7 +14,7 @@ HCl Injection
 
 For Intravenous Injection Only.
 
-5 mL Single-Use Sterile Vial.
+5 mL Single-Dose Sterile Vial.
 
 Discard unused portion.
 

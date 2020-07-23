@@ -3,10 +3,6 @@
 There is no known antidote to palonosetron.
 Overdose should be managed with supportive care.
 
-Fifty adult cancer patients were administered palonosetron at a dose of 90 mcg/kg (equivalent to 6 mg fixed dose) as part of a dose ranging study.
-This is approximately 25 times the recommended dose of 0.25 mg.
-This dose group had a similar incidence of adverse events compared to the other dose groups and no dose response effects were observed.
-
 Dialysis studies have not been performed, however, due to the large volume of distribution, dialysis is unlikely to be an effective treatment for palonosetron overdose.
-A single intravenous dose of palonosetron at 30 mg/kg (947 and 474 times the human dose for rats and mice, respectively, based on body surface area) was lethal to rats and mice.
+A single intravenous dose of palonosetron HCl at 30 mg/kg (947 and 474 times the human dose for rats and mice, respectively, based on body surface area) was lethal to rats and mice.
 The major signs of toxicity were convulsions, gasping, pallor, cyanosis and collapse.

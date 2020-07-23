@@ -12,7 +12,7 @@ Palonosetron hydrochloride is a white to off-white crystalline powder.
 It is freely soluble in water, soluble in propylene glycol, and slightly soluble in ethanol and 2-propanol.
 
 Palonosetron Hydrochloride Injection is a sterile, clear, colorless, non pyrogenic, isotonic, buffered solution for intravenous administration.
-Palonosetron Hydrochloride Injection is available as 5 mL single use vial.
+Palonosetron Hydrochloride Injection is available as a 5 mL single-dose vial.
 Each 5 mL vial contains 0.25 mg palonosetron base as 0.28 mg palonosetron hydrochloride, 207.5 mg mannitol, edetate disodium, trisodium citrate and citric acid in water for intravenous administration.
 
-The pH of the solution in the 5 mL and 1.5 mL vials is 4.5 to 5.5.
+The pH of the solution is 4.5 to 5.5.

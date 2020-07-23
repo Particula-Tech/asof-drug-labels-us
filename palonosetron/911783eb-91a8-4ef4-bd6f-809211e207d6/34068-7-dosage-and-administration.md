@@ -1,23 +1,29 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-## 2.1 Recommended Dosing
+## 2.1 Recommended Dosage
 
-Chemotherapy-Induced Nausea and Vomiting
+Prevention of Chemotherapy-Induced Nausea and Vomiting
 
-| Age | Dose | Infusion Time |
+The recommended dosage of palonosetron hydrochloride injection for prevention of nausea and vomiting associated with HEC and MEC in adults and associated with emetogenic chemotherapy, including HEC in pediatric patients 1 month to less than 17 years of age is shown in Table 1.
+
+Table 1: Recommended Dosage of Palonosetron Hydrochloride Injection for the Prevention of Nausea and Vomiting Associated with Chemotherapy in Adults and Pediatric Patients 1 Month to Less than 17 Years
+
+| Age | Dose* | Infusion Time |
 | --- | --- | --- |
-| Adults | 0.25 mg x 1 | Infuse over 30 seconds beginning approx. 30 min before the start of chemo |
+| Adults | 0.25 mg as a single dose | Infuse over 30 seconds beginning approximately 30 minutes before the start of chemotherapy |
+| Pediatrics (1 month to less than 17 years) | 20 micrograms perkilogram (max 1.5 mg) as a single dose | Infuse over 15 minutes beginning approximately 30 minutes before the start of chemotherapy |
 
-Pediatric use information for patents aged 1 month to less than 17 years is approved for Helsinn Healthcare SA’s palonosetron hydrochloride injection.
-However, due to Helsinn Healthcare SA’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
+*Note different dosing units in pediatrics
 
 Postoperative Nausea and Vomiting
 
-Dosage for Adults - a single 0.075 mg intravenous dose administered over 10 seconds immediately before the induction of anesthesia.
+The recommended dosage of palonosetron hydrochloride injection in adults for PONV is 0.075 mg administered as a single intravenous dose over 10 seconds immediately before the induction of anesthesia.
 
 ## 2.2 Instructions for Intravenous Administration
 
-Palonosetron Hydrochloride Injection is supplied ready for intravenous administration at a concentration of 0.05 mg/mL (50 mcg/ mL).
-Palonosetron Hydrochloride Injection should not be mixed with other drugs.
-The infusion line should be flushed with normal saline before and after administration of Palonosetron Hydrochloride Injection.
-Parenteral drug products should be inspected visually for particulate matter and discoloration before administration, whenever solution and container permit.
+- Palonosetron hydrochloride injection is supplied ready for intravenous administration at a concentration of 0.05 mg/mL (50 mcg/mL).
+
+- Do not mix palonosetron hydrochloride injection with other drugs.
+- Flush the infusion line with normal saline before and after administration of palonosetron hydrochloride injection.
+- Inspect palonosetron hydrochloride injection visually for particulate matter and discoloration before administration.
+- Discard unused portion.
