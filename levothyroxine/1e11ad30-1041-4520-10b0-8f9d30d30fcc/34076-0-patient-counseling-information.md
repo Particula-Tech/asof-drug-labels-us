@@ -27,10 +27,10 @@ Adverse Reactions
 - Instruct patients to notify their healthcare provider if they experience any of the following symptoms: rapid or irregular heartbeat, chest pain, shortness of breath, leg cramps, headache, nervousness, irritability, sleeplessness, tremors, change in appetite, weight gain or loss, vomiting, diarrhea, excessive sweating, heat intolerance, fever, changes in menstrual periods, hives or skin rash, or any other unusual medical event.
 - Inform patients that partial hair loss may occur rarely during the first few months of SYNTHROID therapy, but this is usually temporary.
 
-© 2018 AbbVie Inc.
+© 2020 AbbVie Inc.
 
 AbbVie Inc.
 
 North Chicago, IL 60064, U.S.A.
 
-03-B792 November 2018
+20063914 July 2020
