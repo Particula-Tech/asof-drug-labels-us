@@ -70,7 +70,7 @@ Important Administration Instructions
 
 Important Discontinuation Instructions
 
-- In order to avoid developing withdrawal symptoms, instruct patients not to discontinue ULTRAM without first discussing a tapering plan with the prescriber[see Dosage and Administration (2.4)].
+- In order to avoid developing withdrawal symptoms, instruct patients not to discontinue ULTRAM without first discussing a tapering plan with the prescriber [see Dosage and Administration (2.4)].
 
 Hypotension
 
@@ -87,20 +87,20 @@ Pregnancy
 Neonatal Opioid Withdrawal Syndrome
 
 Inform female patients of reproductive potential that prolonged use of ULTRAM during pregnancy can result in neonatal opioid withdrawal syndrome, which may be life-threatening if not recognized and treated and that the patient should inform their healthcare provider if they have used opioids at any time during their pregnancy, especially near the time of birth.
-[see Warnings and Precautions (5.5); Use in Special Populations (8.1)].
+[see Warnings and Precautions (5.5); Use in Specific Populations (8.1)].
 
 Embryo-Fetal Toxicity
 
-Inform female patients of reproductive potential that ULTRAM may cause fetal harm and to inform the healthcare provider of a known or suspected pregnancy [see Use in Special Populations (8.1)].
+Inform female patients of reproductive potential that ULTRAM may cause fetal harm and to inform the healthcare provider of a known or suspected pregnancy [see Use in Specific Populations (8.1)].
 
 Lactation
 
-Advise women that breastfeeding is not recommended during treatment with ULTRAM [see Warnings and Precautions (5.4); Use in Special Populations (8.2)].
+Advise women that breastfeeding is not recommended during treatment with ULTRAM [see Warnings and Precautions (5.4); Use in Specific Populations (8.2)].
 
 Infertility
 
 Inform patients that chronic use of opioids may cause reduced fertility.
-It is not known whether these effects on fertility are reversible [see Use in Special Populations (8.3)].
+It is not known whether these effects on fertility are reversible [see Use in Specific Populations (8.3)].
 
 Driving or Operating Heavy Machinery
 

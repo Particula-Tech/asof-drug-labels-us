@@ -79,7 +79,7 @@ Some individuals may be ultra-rapid metabolizers because of a specific CYP2D6 ge
 The prevalence of this CYP2D6 phenotype varies widely and has been estimated at 1 to 10% for Whites (European, North American), 3 to 4% for Blacks (African Americans), 1 to 2% for East Asians (Chinese, Japanese, Korean), and may be greater than 10% in certain racial/ethnic groups (i.e., Oceanian, Northern African, Middle Eastern, Ashkenazi Jews, Puerto Rican).
 These individuals convert tramadol into its active metabolite, O-desmethyltramadol (M1), more rapidly and completely than other people.
 This rapid conversion results in higher than expected serum M1 levels.
-Even at labeled dosage regimens, individuals who are ultra- rapid metabolizers may have life-threatening or fatal respiratory depression or experience signs of overdose (such as extreme sleepiness, confusion, or shallow breathing) [see Overdosage (10)].
+Even at labeled dosage regimens, individuals who are ultra-rapid metabolizers may have life-threatening or fatal respiratory depression or experience signs of overdose (such as extreme sleepiness, confusion, or shallow breathing) [see Overdosage (10)].
 Therefore, individuals who are ultra-rapid metabolizers should not use ULTRAM.
 
 ## 5.5 Neonatal Opioid Withdrawal Syndrome

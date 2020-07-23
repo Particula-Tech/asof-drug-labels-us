@@ -19,7 +19,7 @@ Healthcare providers are strongly encouraged to
 LIFE-THREATENING RESPIRATORY DEPRESSION
 
 Serious, life-threatening, or fatal respiratory depression may occur with use of ULTRAM.
-Monitor for respiratory depression, especially during initiation of ULTRAM or following a dose increase [see Warnings and Precautions (5.3)]
+Monitor for respiratory depression, especially during initiation of ULTRAM or following a dose increase [see Warnings and Precautions (5.3)].
 
 ACCIDENTAL INGESTION
 

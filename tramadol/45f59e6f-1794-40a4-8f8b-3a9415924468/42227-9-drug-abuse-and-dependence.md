@@ -47,7 +47,7 @@ Physical dependence is a physiological state in which the body adapts to the dru
 Withdrawal also may be precipitated through the administration of drugs with opioid antagonist activity (e.g., naloxone, nalmefene), mixed agonist/antagonist analgesics (pentazocine, butorphanol, nalbuphine), or partial agonists (buprenorphine).
 Physical dependence may not occur to a clinically significant degree until after several days to weeks of continued opioid usage.
 
-Do not abruptly discontinue ULTRAM in a patient physicallydependent on opioids.
+Do not abruptly discontinue ULTRAM in a patient physically dependent on opioids.
 Rapid tapering of ULTRAM in a patient physically dependent on opioids may lead to serious withdrawal symptoms, uncontrolled pain and suicide.
 Rapid discontinuation has also been associated with attempts to find other sources of opioid analgesics, which may be confused with drug-seeking for abuse.
 
