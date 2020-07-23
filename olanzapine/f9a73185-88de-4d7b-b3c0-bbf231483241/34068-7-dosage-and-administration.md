@@ -95,7 +95,7 @@ It is important to note that there is more diluent in the vial than is needed to
 Step 3: Reconstituting ZYPREXA RELPREVV
 
 Please read the Hypodermic Needle-Pro Instructions for Use before proceeding with Step 3.
-Failure to follow these instructions may result in a needle stick injury.
+Failure to follow these instructions may result in a needlestick injury.
 
 Loosen the powder by lightly tapping the vial.
 

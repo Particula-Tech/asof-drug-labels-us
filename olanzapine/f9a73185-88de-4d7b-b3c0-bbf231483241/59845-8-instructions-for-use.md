@@ -19,7 +19,7 @@
 |  | It is important to note that there is more diluent in the vial than is needed to reconstitute. |  |  |  |  |  |  |  |
 | STEP 3 |  |  |  |  |  |  |  |  |
 | RECONSTITUTING ZYPREXA RELPREVV |  |  |  |  |  |  |  |  |
-| Please read the Hypodermic Needle-Pro Instructions for Use before proceeding with Step 3. Failure to follow these instructions may result in a needlestick injury. |  |  |  |  |  |  |  |  |
+| Please read the Hypodermic Needle-Pro Instructions for Use before proceeding with Step 3. Failure to follow these instructions may result in a needle stick injury. |  |  |  |  |  |  |  |  |
 | 3.1 | Loosen the powder by lightly tapping the vial. |  |  |  |  |  |  |  |
 | 3.2 | Open the prepackaged Hypodermic Needle-Pro syringe and needle with needle protection device. |  |  |  |  |  |  |  |
 | 3.3 | Withdraw the pre-determined diluent volume (Step 2) into the syringe. |  |  |  |  |  |  |  |
@@ -77,12 +77,12 @@
 | 6.4 | Visually confirm that the needle is fully engaged into the needle protection sheath. |  |  |  |  |  |  |  |
 | 6.5 | Only remove the Needle-Pro® device with engaged needle from the syringe when required by a specific medical procedure. Remove by grasping the Luer hub of the needle protection device with thumb and forefinger, keeping the free fingers clear of the end of the device containing the needle point. (See Fig. 3) |  |  |  |  |  |  |  |
 | 6.6 | After use, place sharps in a suitable sharps container. Dispose of contaminated product in a safe manner according to Centers for Disease Control and Prevention, USA and Federal/State/Local regulations (EPA, OSHA) and health care facility guidelines or local equivalent. |  |  |  |  |  |  |  |
-|  | NOTE: Additional dead space added by Needle-Pro® device averages 0.036ml. |  |  |  |  |  |  |  |
+|  | NOTE: Additional dead space added by Needle-Pro® device averages 0.036 mL. |  |  |  |  |  |  |  |
 | Needle-Pro; and the color orange applied to the needle protection device, Jelco design mark and Smiths Medical design mark are trademarks of Smiths Medical. The symbol ® indicates the trademark is registered in the U.S. Patent and Trademark Office and certain other countries. |  |  |  |  |  |  |  |  |
 | © 2019 Smiths Medical. All rights reserved. |  |  |  |  |  |  |  |  |
 | Caution • Do Not Reuse • Not made with natural rubber latex • Do not use if package is damaged • Sterilized using ethylene oxide • Non-pyrogenic fluid path • Caution: Federal (USA) law restricts this device to sale by or on the order of a physician • Catalogue Number • Batch Code • Date of Manufacture • Use by • Quantity • Manufacturer • Authorized Representative in the European Community • Keep dry • Keep away from sunlight |  |  |  |  |  |  |  |  |
-| Manufacturer: Smiths Medical ASD, Inc. 10 Bowman Drive, Keene, NH 03431 USA Tel: 1 800 258 5361 (US/CA) Tel: +1 614 210 7300 |  |  |  |  |  |  |  |  |
+| Manufacturer: Smiths Medical ASD, Inc. 6000 Nathan Lane North Minneapolis, MN 55442 USA Tel: 1 800 258 5361 (US/CA) Tel: +1 614 210 7300 |  |  |  |  |  |  |  |  |
 | www.smiths-medical.com |  |  |  |  |  |  |  |  |
-| Rx only |  |  |  |  |  |  |  |  |
-| CE 0086 |  |  |  |  |  |  |  |  |
-| ZYPR-0002-SM10018196-001-IFU-20190620 |  |  |  |  |  |  |  |  |
+| Rx ONLY |  |  |  |  |  |  |  |  |
+| CE 2797 |  |  |  |  |  |  |  |  |
+| ZYPR-0002-SM10018196-002-IFU-20200204 |  |  |  |  |  |  |  |  |

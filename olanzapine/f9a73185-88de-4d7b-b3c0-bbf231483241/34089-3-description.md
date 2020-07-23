@@ -10,5 +10,5 @@ ZYPREXA RELPREVV is a long-acting form of olanzapine and is intended for deep in
 ZYPREXA RELPREVV includes a vial of the drug product and a vial of the sterile diluent for ZYPREXA RELPREVV.
 
 The drug product is olanzapine pamoate monohydrate, present as a yellow solid in a glass vial equivalent to 210, 300, or 405 mg olanzapine base per vial.
-The diluent for ZYPREXA RELPREVV is a clear, colorless to slightly yellow solution in a glass vial and is composed of carboxymethylcellulose sodium, mannitol, polysorbate 80, sodium hydroxide and/or hydrochloric acid for pH adjustment, and water for injection.
+The diluent for ZYPREXA RELPREVV is a clear, colorless to slightly yellow solution in a glass vial and is composed of carboxymethylcellulose sodium (7.5 mg/mL), mannitol (50 mg/mL), polysorbate 80 (1 mg/mL), sodium hydroxide and/or hydrochloric acid for pH adjustment, and water for injection.
 The drug product is suspended in the diluent for ZYPREXA RELPREVV to a target concentration of 150 mg olanzapine per mL prior to intramuscular injection.
