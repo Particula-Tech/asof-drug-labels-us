@@ -6,11 +6,11 @@ The following adverse reactions are discussed in more detail in other sections o
 
 - Increased Mortality in Elderly Patients with Dementia-Related Psychosis [see Boxed Warningand Warnings and Precautions (5.1)]
 - Cerebrovascular Adverse Events, Including Stroke [see Warnings and Precautions (5.2)]
-- Suicidal Thoughts and Behaviors in Children, Adolescents, and Young Adults [see Boxed Warning andWarnings and Precautions (5.3)]
+- Suicidal Thoughts and Behaviors in Children, Adolescents, and Young Adults [see Boxed Warning and Warnings and Precautions (5.3)]
 - Neuroleptic Malignant Syndrome (NMS) [see Warnings and Precautions (5.4)]
 - Tardive Dyskinesia [see Warnings and Precautions (5.5)]
 - Metabolic Changes [see Warnings and Precautions (5.6)]
-- Pathological Gambling and Other Compulsive Behaviors[see Warnings and Precautions (5.7)]
+- Pathological Gambling and Other Compulsive Behaviors [see Warnings and Precautions (5.7)]
 - Orthostatic Hypotension [see Warnings and Precautions (5.8)]
 - Falls [see Warnings and Precautions (5.9)]
 - Leukopenia, Neutropenia, and Agranulocytosis [see Warnings and Precautions (5.10)]
@@ -69,7 +69,7 @@ Table 17 enumerates the pooled incidence, rounded to the nearest percent, of adv
 
 Table 17: Adverse Reactions in Short-Term, Placebo-Controlled Trials in Adult Patients Treated with Oral Aripiprazole
 
-| System Organ Class Preferred Term | Percentage of Patients Reporting Reactiona |  |
+| System Organ Class Preferred Term | Percentage of Patients Reporting Reaction a |  |
 | --- | --- | --- |
 | Aripiprazole (n=1,843) | Placebo (n=1,166) |  |
 | Eye Disorders |  |  |
@@ -130,7 +130,7 @@ Table 18 enumerates the incidence, rounded to the nearest percent, of adverse re
 
 Table 18: Adverse Reactions in Short-Term, Placebo-Controlled Trial of Adjunctive Therapy in Patients with Bipolar Disorder
 
-| System Organ Class Preferred Term | Percentage of Patients Reporting Reactiona |  |
+| System Organ Class Preferred Term | Percentage of Patients Reporting Reaction a |  |
 | --- | --- | --- |
 | Aripiprazole + Li or Val* (n=253) | Placebo + Li or Val* (n=130) |  |
 | Gastrointestinal Disorders |  |  |
@@ -250,7 +250,7 @@ Table 22 enumerates the pooled incidence, rounded to the nearest percent, of adv
 
 Table 22: Adverse Reactions in Short-Term, Placebo-Controlled Trials of Pediatric Patients (6 to 18 years) Treated with Oral Aripiprazole
 
-| Percentage of Patients Reporting Reactiona |  |  |
+| Percentage of Patients Reporting Reaction a |  |  |
 | --- | --- | --- |
 | System Organ Class | Aripiprazole | Placebo |
 | Preferred Term | (n=732) | (n=370) |
@@ -314,9 +314,9 @@ Table 23 enumerates the pooled incidence, rounded to the nearest percent, of adv
 
 Table 23: Adverse Reactions in Short-Term, Placebo-Controlled Adjunctive Trials in Patients with Major Depressive Disorder
 
-| Percentage of Patients Reporting Reactiona |  |  |
+| Percentage of Patients Reporting Reaction a |  |  |
 | --- | --- | --- |
-| System Organ Class | Aripiprazole + ADT* | Placebo + ADT* |
+| System Organ Class | Aripiprazole + ADT * | Placebo + ADT * |
 | Preferred Term | (n=371) | (n=366) |
 | Eye Disorders |  |  |
 | Blurred Vision | 6 | 1 |
@@ -335,15 +335,16 @@ Table 23: Adverse Reactions in Short-Term, Placebo-Controlled Adjunctive Trials 
 | Arthralgia | 4 | 3 |
 | Myalgia | 3 | 1 |
 | Nervous System Disorders |  |  |
-| Akathisia | 16 | 4 |
-| Somnolence | 12 | 10 |
-| Tremor | 9 | 2 |
-| Sedation | 9 | 1 |
-| Dizziness | 6 | 1 |
-| Disturbance in Attention | 6 | 4 |
-| Extrapyramidal Disorder | 3 | 0 |
+| Akathisia | 25 | 4 |
+| Somnolence | 6 | 4 |
+| Tremor | 5 | 2 |
+| Sedation | 4 | 2 |
+| Dizziness | 4 | 2 |
+| Disturbance in Attention | 3 | 1 |
+| Extrapyramidal Disorder | 2 | 0 |
 | Psychiatric Disorders |  |  |
 | Restlessness | 2 | 1 |
+| Insomnia | 8 | 2 |
 | a Adverse reactions reported by at least 2% of patients treated with adjunctive aripiprazole, except adverse reactions which had an incidence equal to or less than placebo. |  |  |
 | * Antidepressant Therapy |  |  |
 
@@ -548,4 +549,4 @@ infrequent - hirsutism
 ## 6.2 Postmarketing Experience
 
 The following adverse reactions have been identified during post-approval use of aripiprazole.
-Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to establish a causal relationship to drug exposure: occurrences of allergic reaction (anaphylactic reaction, angioedema, laryngospasm, pruritus/urticaria, or oropharyngeal spasm), pathological gambling, hiccups and blood glucose fluctuation.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to establish a causal relationship to drug exposure: occurrences of allergic reaction (anaphylactic reaction, angioedema, laryngospasm, pruritus/urticaria, or oropharyngeal spasm), pathological gambling, hiccups and blood glucose fluctuation oculogyric crisis, and drug reaction with eosinophilia and systemic symptoms (DRESS).

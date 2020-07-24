@@ -82,9 +82,12 @@ The patient should be carefully monitored, since recurrences of NMS have been re
 
 A syndrome of potentially irreversible, involuntary, dyskinetic movements may develop in patients treated with antipsychotic drugs.
 Although the prevalence of the syndrome appears to be highest among the elderly, especially elderly women, it is impossible to rely upon prevalence estimates to predict, at the inception of antipsychotic treatment, which patients are likely to develop the syndrome.
+Whether antipsychotic drug products differ in their potential to cause tardive dyskinesia is unknown.A syndrome of potentially irreversible, involuntary, dyskinetic movements may develop in patients treated with antipsychotic drugs.
+Although the prevalence of the syndrome appears to be highest among the elderly, especially elderly women, it is impossible to rely upon prevalence estimates to predict, at the inception of antipsychotic treatment, which patients are likely to develop the syndrome.
 Whether antipsychotic drug products differ in their potential to cause tardive dyskinesia is unknown.
 
 The risk of developing tardive dyskinesia and the likelihood that it will become irreversible are believed to increase as the duration of treatment and the total cumulative dose of antipsychotic drugs administered to the patient increase.
+However, the syndrome can develop, although much less commonly, after relatively brief treatment periods at low doses.The risk of developing tardive dyskinesia and the likelihood that it will become irreversible are believed to increase as the duration of treatment and the total cumulative dose of antipsychotic drugs administered to the patient increase.
 However, the syndrome can develop, although much less commonly, after relatively brief treatment periods at low doses.
 
 Tardive dyskinesia may remit, partially or completely, if antipsychotic treatment is withdrawn.
@@ -93,14 +96,20 @@ The effect that symptomatic suppression has upon the long-term course of the syn
 
 There is no known treatment for established cases of tardive dyskinesia, although the syndrome may remit, partially or completely, if antipsychotic treatment is withdrawn.
 Antipsychotic treatment, itself, however, may suppress (or partially suppress) the signs and symptoms of the syndrome and, thereby, may possibly mask the underlying process.
+The effect that symptomatic suppression has upon the long-term course of the syndrome is unknown.There is no known treatment for established cases of tardive dyskinesia, although the syndrome may remit, partially or completely, if antipsychotic treatment is withdrawn.
+Antipsychotic treatment, itself, however, may suppress (or partially suppress) the signs and symptoms of the syndrome and, thereby, may possibly mask the underlying process.
 The effect that symptomatic suppression has upon the long-term course of the syndrome is unknown.
 
 Given these considerations, aripiprazole should be prescribed in a manner that is most likely to minimize the occurrence of tardive dyskinesia.
 Chronic antipsychotic treatment should generally be reserved for patients who suffer from a chronic illness that (1) is known to respond to antipsychotic drugs and (2) for whom alternative, equally effective, but potentially less harmful treatments are not available or appropriate.
 In patients who do require chronic treatment, the smallest dose and the shortest duration of treatment producing a satisfactory clinical response should be sought.
+The need for continued treatment should be reassessed periodically.Given these considerations, aripiprazole should be prescribed in a manner that is most likely to minimize the occurrence of tardive dyskinesia.
+Chronic antipsychotic treatment should generally be reserved for patients who suffer from a chronic illness that (1) is known to respond to antipsychotic drugs and (2) for whom alternative, equally effective, but potentially less harmful treatments are not available or appropriate.
+In patients who do require chronic treatment, the smallest dose and the shortest duration of treatment producing a satisfactory clinical response should be sought.
 The need for continued treatment should be reassessed periodically.
 
 If signs and symptoms of tardive dyskinesia appear in a patient on aripiprazole, drug discontinuation should be considered.
+However, some patients may require treatment with aripiprazole despite the presence of the syndrome.If signs and symptoms of tardive dyskinesia appear in a patient on aripiprazole, drug discontinuation should be considered.
 However, some patients may require treatment with aripiprazole despite the presence of the syndrome.
 
 ## 5.6 Metabolic Changes
@@ -286,11 +295,11 @@ Table 14: Percentage of Patients From Placebo-Controlled Trials in Adult Patient
 
 |  | Indication | Treatment Arm | N | Patients n (%) |
 | --- | --- | --- | --- | --- |
-| Weight gain ≥7% of body weight | Schizophreniaa | Aripiprazole | 852 | 69 (8.1) |
+| Weight gain ≥7% of body weight | Schizophrenia a | Aripiprazole | 852 | 69 (8.1) |
 | Placebo | 379 | 12 (3.2) |  |  |
-| Bipolar Maniab | Aripiprazole | 719 | 16 (2.2) |  |
+| Bipolar Mania b | Aripiprazole | 719 | 16 (2.2) |  |
 | Placebo | 598 | 16 (2.7) |  |  |
-| Major Depressive Disorder (Adjunctive Therapy)c | Aripiprazole | 347 | 18 (5.2) |  |
+| Major Depressive Disorder (Adjunctive Therapy) c | Aripiprazole | 347 | 18 (5.2) |  |
 | Placebo | 330 | 2 (0.6) |  |  |
 | a 4 to 6 weeks duration. b3 weeks duration. c6 weeks duration |  |  |  |  |
 
@@ -309,11 +318,11 @@ Table 15: Percentage of Patients From Placebo-Controlled Monotherapy Trials in P
 
 |  | Indication | Treatment Arm | N | Patients n (%) |
 | --- | --- | --- | --- | --- |
-| Weight gain ≥7% of body weight | Pooled Schizophrenia andBipolar Maniaa | Aripiprazole | 381 | 20 (5.2) |
+| Weight gain ≥7% of body weight | Pooled Schizophrenia and Bipolar Mania a | Aripiprazole | 381 | 20 (5.2) |
 | Placebo | 187 | 3 (1.6) |  |  |
-| Irritability Associated with Autistic Disorderb | Aripiprazole | 209 | 55 (26.3) |  |
+| Irritability Associated with Autistic Disorder b | Aripiprazole | 209 | 55 (26.3) |  |
 | Placebo | 98 | 7 (7.1) |  |  |
-| Tourette's Disorderc | Aripiprazole | 105 | 21 (20.0) |  |
+| Tourette's Disorder c | Aripiprazole | 105 | 21 (20.0) |  |
 | Placebo | 66 | 5 (7.6) |  |  |
 | a 4 to 6 weeks duration. b 8 weeks duration. c 8-10 weeks duration |  |  |  |  |
 
@@ -340,7 +349,7 @@ Consider dose reduction or stopping the medication if a patient develops such ur
 
 ## 5.8 Orthostatic Hypotension
 
-Aripiprazole may cause orthostatic hypotension, perhaps due to its α1-adrenergic receptor antagonism.
+Aripiprazole may cause orthostatic hypotension, perhaps due to its α 1-adrenergic receptor antagonism.
 The incidence of orthostatic hypotension-associated events from short-term, placebo-controlled trials of adult patients on oral aripiprazole (n=2,467) included (aripiprazole incidence, placebo incidence) orthostatic hypotension (1%, 0.3%), postural dizziness (0.5%, 0.3%), and syncope (0.5%, 0.4%); of pediatric patients 6 to 18 years of age (n=732) on oral aripiprazole included orthostatic hypotension (0.5%, 0%), postural dizziness (0.4%, 0%), and syncope (0.2%, 0%).
 [see Adverse Reactions (6.1)]
 
@@ -363,7 +372,7 @@ In patients with a history of a clinically significant low WBC/ANC or drug-induc
 In such patients, consider discontinuation of aripiprazole at the first sign of a clinically significant decline in WBC in the absence of other causative factors.
 
 Monitor patients with clinically significant neutropenia for fever or other symptoms or signs of infection and treat promptly if such symptoms or signs occur.
-Discontinue aripiprazole in patients with severe neutropenia (absolute neutrophil count <1,000/mm3) and follow their WBC counts until recovery.
+Discontinue aripiprazole in patients with severe neutropenia (absolute neutrophil count <1,000/mm 3) and follow their WBC counts until recovery.
 
 ## 5.11 Seizures/Convulsions
 

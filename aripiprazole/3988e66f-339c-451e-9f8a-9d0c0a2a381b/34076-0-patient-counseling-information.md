@@ -38,7 +38,7 @@ Pregnancy
 
 Advise patients to notify their healthcare provider if they become pregnant or intend to become pregnant during treatment with aripiprazole.
 Advise patients that aripiprazole may cause extrapyramidal and/or withdrawal symptoms (agitation, hypertonia, hypotonia, tremor, somnolence, respiratory distress, and feeding disorder) in a neonate.
-Advise patients that there is a pregnancy registry that monitors pregnancy outcomes in women exposed to aripiprazole during pregnancy [see Use in Specific Populations (8.1)].
+Advise patients that there is a pregnancy registry that monitors pregnancy outcomes in women exposed to aripiprazole during pregnancy [seeUse in Specific Populations (8.1)].
 
 Manufactured by:
 
@@ -48,4 +48,4 @@ Manufactured for:
 
 TORRENT PHARMA INC., Basking Ridge, NJ 07920.
 
-8076134 Revised September 2019
+8078060 Revised February 2020
