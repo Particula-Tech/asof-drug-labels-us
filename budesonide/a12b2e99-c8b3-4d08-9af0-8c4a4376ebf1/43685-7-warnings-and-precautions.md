@@ -5,11 +5,11 @@
 When glucocorticosteroids are used chronically, systemic effects such as hypercorticism and adrenal suppression may occur.
 Glucocorticosteroids can reduce the response of the hypothalamus-pituitary-adrenal (HPA) axis to stress.
 In situations where patients are subject to surgery or other stress situations, supplementation with a systemic glucocorticosteroid is recommended.
-Since budesonide extended release tablets are a glucocorticosteroid, general warnings concerning glucocorticoids should be followed.
+Since budesonide extended-release tablets are a glucocorticosteroid, general warnings concerning glucocorticoids should be followed.
 
 ## 5.2 Transferring Patients from Systemic Glucocorticosteroid Therapy
 
-Care is needed in patients who are transferred from glucocorticosteroid treatment with higher systemic effects to glucocorticosteroids with lower systemic effects, such as budesonide extended release tablets, since symptoms attributed to withdrawal of steroid therapy, including those of acute adrenal suppression or benign intracranial hypertension, may develop.
+Care is needed in patients who are transferred from glucocorticosteroid treatment with higher systemic effects to glucocorticosteroids with lower systemic effects, such as budesonide extended-release tablets, since symptoms attributed to withdrawal of steroid therapy, including those of acute adrenal suppression or benign intracranial hypertension, may develop.
 Adrenocortical function monitoring may be required in these patients, and the dose of glucocorticosteroid treatment with high systemic effects should be reduced cautiously.
 
 ## 5.3 Immunosuppression
@@ -27,11 +27,11 @@ If chickenpox develops, treatment with antiviral agents may be considered.
 
 Glucocorticosteroids should be used with caution, if at all, in patients with active or quiescent tuberculosis infection, untreated fungal, bacterial, systemic viral or parasitic infections.
 
-Replacement of systemic glucocorticosteroids with budesonide extended release tablets may unmask allergies (e.g., rhinitis and eczema), which were previously controlled by the systemic drug.
+Replacement of systemic glucocorticosteroids with budesonide extended-release tablets may unmask allergies (e.g., rhinitis and eczema), which were previously controlled by the systemic drug.
 
 ## 5.4 Increased Systemic Glucocorticoid Susceptibility
 
-Reduced liver function affects the elimination of glucocorticosteroids, and increased systemic availability of oral budesonide has been demonstrated in patients with liver cirrhosis [see Use in Specific Populations (8.6)].
+Reduced liver function affects the elimination of glucocorticosteroids, and increased systemic availability of oral budesonide has been demonstrated in patients with liver cirrhosis [seeUse in Specific Populations (8.6).
 
 ## 5.5 Other Glucocorticosteroid Effects
 

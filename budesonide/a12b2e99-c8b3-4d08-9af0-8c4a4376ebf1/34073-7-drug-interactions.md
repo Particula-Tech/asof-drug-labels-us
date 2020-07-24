@@ -3,10 +3,10 @@
 ## 7.1 Interaction with CYP3A4 Inhibitors
 
 Concomitant oral administration of ketoconazole (a known inhibitor of CYP3A4 activity in the liver and in the intestinal mucosa) caused an eight-fold increase of the systemic exposure to oral budesonide.
-If treatment with inhibitors of CYP3A4 activity (such as ketoconazole, itraconazole, ritonavir, indinavir, saquinavir, erythromycin) is indicated, discontinuation of budesonide extended release tablets should be considered.
+If treatment with inhibitors of CYP3A4 activity (such as ketoconazole, itraconazole, ritonavir, indinavir, saquinavir, erythromycin) is indicated, discontinuation of budesonide extended-release tablets should be considered.
 After extensive intake of grapefruit juice (which inhibits CYP3A4 activity predominantly in the intestinal mucosa), the systemic exposure for oral budesonide increased about two times.
-Ingestion of grapefruit or grapefruit juice should be avoided in connection with budesonide extended release tablets administration [see Dosage and Administration (2) and Clinical Pharmacology (12.3)].
+Ingestion of grapefruit or grapefruit juice should be avoided in connection with budesonide extended-release tablets administration [seeDosage and Administration (2)and Clinical Pharmacology (12.3)].
 
 ## 7.2 Inhibitors of Gastric Acid Secretion
 
-Since the dissolution of the coating of budesonide extended release tablets is pH dependent, the release properties and uptake of the compound may be altered when budesonide extended release tablets are used after treatment with gastric acid reducing agents (e.g., proton pump inhibitors (PPIs), H2 blockers and antacids).
+Since the dissolution of the coating of budesonide extended-release tablets is pH dependent, the release properties and uptake of the compound may be altered when budesonide extended-release tablets are used after treatment with gastric acid reducing agents (e.g., proton pump inhibitors (PPIs), H2 blockers and antacids).

@@ -3,7 +3,7 @@
 ## 12.1 Mechanism of Action
 
 Budesonide has a high topical glucocorticosteroid (GCS) activity and substantial first-pass elimination.
-The formulation contains budesonide in an extended release tablet core.
+The formulation contains budesonide in an extended-release tablet core.
 The tablet core is enteric coated to protect dissolution in gastric juice which delays budesonide release until exposure to a pH ≥7 in the small intestine.
 Upon disintegration of the coating, the core matrix provides extended release of budesonide in a time dependent manner.
 
@@ -11,22 +11,22 @@ Upon disintegration of the coating, the core matrix provides extended release of
 
 Budesonide has a high glucocorticoid effect and a weak mineralocorticoid effect, and the affinity of budesonide to GCS receptors, which reflects the intrinsic potency of the drug, is about 200-fold that of cortisol and 15-fold that of prednisolone.
 
-Treatment with systemically active GCS, including budesonide extended release tablets, is associated with a suppression of endogenous cortisol concentrations and an impairment of the hypothalamus-pituitary-adrenal (HPA) axis function.
+Treatment with systemically active GCS, including budesonide extended-release tablets, is associated with a suppression of endogenous cortisol concentrations and an impairment of the hypothalamus-pituitary-adrenal (HPA) axis function.
 Markers, indirect and direct, of this are cortisol levels in plasma or urine and response to ACTH stimulation.
 
-In a study assessing the response to ACTH stimulation test in patients treated with budesonide extended release tablets 9 mg once daily, the proportion of patients with abnormal response was 47% at 4 weeks and 79% at 8 weeks.
+In a study assessing the response to ACTH stimulation test in patients treated with budesonide extended-release tablets 9 mg once daily, the proportion of patients with abnormal response was 47% at 4 weeks and 79% at 8 weeks.
 
 ## 12.3 Pharmacokinetics
 
 Absorption
 
-Following single oral administration of budesonide extended release tablets 9 mg in healthy subjects, peak plasma concentration (Cmax) was 1.35 ± 0.96 ng/mL, the time to peak concentration (Tmax) on average was 13.3 ± 5.9 hours, although it varied across different individual patients, and the area under the plasma concentration time curve (AUC) was approximately 16.43 ± 10.52 ng·hr/mL.
-The pharmacokinetic parameters of budesonide extended release tablets 9 mg have a high degree of variability among subjects.
-There was no accumulation of budesonide with respect to both AUC and Cmax following 7 days of budesonide extended release tablets 9 mg once daily dosing.
+Following single oral administration of budesonide extended-release tablets 9 mg in healthy subjects, peak plasma concentration (Cmax) was 1.35 ± 0.96 ng/mL, the time to peak concentration (Tmax) on average was 13.3 ± 5.9 hours, although it varied across different individual patients, and the area under the plasma concentration time curve (AUC) was approximately 16.43 ± 10.52 ng·hr/mL.
+The pharmacokinetic parameters of budesonide extended-release tablets 9 mg have a high degree of variability among subjects.
+There was no accumulation of budesonide with respect to both AUC and Cmax following 7 days of budesonide extended-release tablets 9 mg once daily dosing.
 
 Food Effect
 
-A food-effect study involving administration of budesonide extended release tablets to healthy volunteers under fasting conditions and with a high-fat meal indicated that the Cmax was decreased by 27% while there was no significant decrease in AUC.
+A food-effect study involving administration of budesonide extended-release tablets to healthy volunteers under fasting conditions and with a high-fat meal indicated that the Cmax was decreased by 27% while there was no significant decrease in AUC.
 Additionally, a mean delay in absorption lag time of 2.4 hours was observed under fed conditions.
 
 Distribution
@@ -34,6 +34,8 @@ Distribution
 The mean volume of distribution (VSS) of budesonide varies between 2.2 and 3.9 L/kg in healthy subjects and in patients.
 Plasma protein binding is estimated to be 85 to 90% in the concentration range 1 to 230 nmol/L, independent of gender.
 The erythrocyte/plasma partition ratio at clinically relevant concentrations is about 0.8.
+
+Elimination
 
 Metabolism
 
@@ -53,22 +55,20 @@ After oral as well as intravenous administration of micronized [3H]-budesonide, 
 The major metabolites, including 6β-hydroxy budesonide and 16α-hydroxy prednisolone, are mainly renally excreted, intact or in conjugated forms.
 No unchanged budesonide is detected in urine.
 
-Special Populations
+Specific Populations
 
-Hepatic Impairment
+Patients with Renal Impairment The pharmacokinetics of budesonide in patients with renal impairment have not been studied.
+Intact budesonide is not renally excreted, but metabolites are to a large extent, and might therefore reach higher levels in patients with impaired renal function.
+However, these metabolites have negligible corticosteroid activity as compared with budesonide (<1/100).
+
+Patients with Hepatic Impairment
 
 In patients with liver cirrhosis, systemic availability of orally administered budesonide correlates with disease severity and is, on average, 2.5-fold higher compared with healthy controls.
 Patients with mild liver disease are minimally affected.
 Patients with severe liver dysfunction were not studied.
 Absorption parameters were not altered, and for the intravenous dose, no significant differences in CL or VSS were observed.
 
-Renal Impairment
-
-The pharmacokinetics of budesonide in patients with renal impairment have not been studied.
-Intact budesonide is not renally excreted, but metabolites are to a large extent, and might therefore reach higher levels in patients with impaired renal function.
-However, these metabolites have negligible corticosteroid activity as compared with budesonide (<1/100).
-
-Drug-Drug Interactions
+Drug Interaction Studies
 
 Budesonide is metabolized via CYP3A4.
 Potent inhibitors of CYP3A4 can increase the plasma levels of budesonide several-fold.

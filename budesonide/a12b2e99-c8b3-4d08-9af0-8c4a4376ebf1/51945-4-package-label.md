@@ -4,7 +4,7 @@ NDC 68682-309-30
 
 Rx only
 
-BUDESONIDE Extended Release Tablets
+BUDESONIDE extended release tablets
 
 9 mg
 
