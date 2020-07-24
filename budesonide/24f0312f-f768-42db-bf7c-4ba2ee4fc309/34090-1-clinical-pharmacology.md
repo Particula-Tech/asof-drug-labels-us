@@ -42,7 +42,6 @@ Cortisol concentration was measured at 30 min after intravenous or intramuscular
 
 Absorption
 
-Following administration of ENTOCORT EC, the time to peak concentration varied in individual patients between 30 and 600 minutes.
 Mean oral bioavailability of budesonide ranged from 9% to 21% both in patients and in healthy subjects, demonstrating a high first-pass elimination of the drug.
 
 Budesonide pharmacokinetics were dose-proportional following repeated administration in the dose range of 3 to 15 mg.
@@ -52,10 +51,12 @@ Following oral administration of a single dose of 9 mg ENTOCORT EC in healthy su
 The time to peak concentration (Tmax) varied between 2 and 8 hours with a median value of 3.5 hours.
 In a different study, following oral administration of 9 mg ENTOCORT EC for five days in healthy subjects, the mean Cmax and the steady state AUC for budesonide were 2.28 ± 0.77 ng/mL and 15.93 ± 6.29 ng•hr/mL, respectively.
 
-Following administration of 9 mg ENTOCORT EC once daily in patients with active Crohn’s disease, the mean Cmax and AUC were 1.72 ± 0.90 ng/mL and 15.07 ± 8.52 ng•hr/mL, respectively.
+Following administration of 9 mg ENTOCORT EC once daily in patients with active Crohn’s disease, the mean Cmax and AUC were 1.7 ± 0.9 ng/mL and 15.1 ± 8.5 ng•hr/mL, respectively.
+Following administration of ENTOCORT EC, the Tmax ranged in individual patients from 0.5 to 10 hours.
 
-Concomitant administration of a high-fat meal delayed the Tmax of budesonide from ENTOCORT EC by 2.3 hours but did not significantly affect the AUC in healthy subjects.
-The Cmax and AUC to budesonide was similar when single dose of ENTOCORT EC (9 mg) were administered after opening capsule and sprinkling granules on applesauce versus as intact capsules in the fasted state (N=24) in healthy subjects.
+Concomitant administration of a high-fat meal delayed the Tmax of budesonide by 2.3 hours compared to that under fasted conditions but did not significantly affect the AUC in healthy subjects.
+The mean Cmax and AUC of budesonide were similar when single dose of ENTOCORT EC (9 mg) was administered after opening the capsules and sprinkling the granules on applesauce versus as intact capsules in the fasted state (N=24) in healthy subjects.
+The Tmax ranged from 3 to 10 hours with a median of 4 hours after administration of sprinkled granules on appleasauce.
 
 Distribution
 
@@ -68,13 +69,14 @@ Elimination
 Budesonide had a plasma clearance, 0.9 to 1.8 L/min in healthy adults.
 Mean plasma clearance after intravenous administration of budesonide in patients with Crohn’s disease was 1.0 L/min.
 These plasma clearance values approached the estimated liver blood flow, and, accordingly, suggest that budesonide is a high hepatic clearance drug.
-The plasma elimination half-life, after administration of intravenous doses ranged between 2 and 3.6 hours, and did not differ between healthy adults and patients with Crohn’s disease.
+The plasma elimination half-life after administration of intravenous doses ranged between 2 and 3.6 hours, and did not differ between healthy adults and patients with Crohn’s disease.
+The mean ± SD plasma elimination half-life after a single dose of ENTOCORT EC (9 mg) in the fasted state (N=24) in healthy subjects was 6.3 ± 1.6 hours and ranged between 2 and 8 hours.
 
 Metabolism
 
 Following absorption, budesonide is subject to high first pass metabolism (80% to 90%).
-In vitro experiments in human liver microsomes demonstrated that budesonide is rapidly and extensivelybiotransformed, mainly by CYP3A4, to its 2 major metabolites, 6β-hydroxy budesonide and 16α-hydroxy prednisolone.
-The corticosteroid activity of these metabolites was negligible (less than1/100) in relation to that of the parent compound.
+In vitro experiments in human liver microsomes demonstrated that budesonide is rapidly and extensively biotransformed, mainly by CYP3A4, to its 2 major metabolites, 6β-hydroxy budesonide and 16α-hydroxy prednisolone.
+The corticosteroid activity of these metabolites was negligible (less than 1/100) in relation to that of the parent compound.
 In vivo investigations with intravenous doses in healthy subjects were in agreement with the in vitro findings.
 
 Excretion
@@ -101,7 +103,7 @@ Hepatic Impairment
 
 In patients with mild (Child-Pugh Class A, n=4) or moderate (Child-Pugh Class B, n=4) hepatic impairment, budesonide 4 mg was administered orally as a single dose.
 The patients with moderate hepatic impairment had a 3.5-fold higher AUC compared to the healthy subjects with normal hepatic function while the patients with mild hepatic impairment had an approximately 1.4-fold higher AUC.
-The Cmax values demonstrated similar increases [see Dosage and Administration (2.4),Warnings and Precautions (5.1)].
+The Cmax values demonstrated similar increases [see Dosage and Administration (2.4), Warnings and Precautions (5.1)].
 The increased systemic exposure in patients with mild hepatic impairment was not considered to be clinically relevant.
 Patients with severe liver impairment (Child-Pugh Class C) were not studied.
 

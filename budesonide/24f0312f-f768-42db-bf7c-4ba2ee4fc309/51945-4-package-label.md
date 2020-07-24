@@ -4,7 +4,7 @@ NDC 0574-9850-10 100 capsules
 
 Entocort® EC (budesonide)
 
-Extended-Release Capsules
+Delayed-Release Capsules
 
 3 mg
 

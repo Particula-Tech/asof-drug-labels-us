@@ -4,7 +4,7 @@ ENTOCORT® EC (EN-toe-cort EE CEE)
 
 (budesonide)
 
-extended-release capsules
+delayed-release capsules
 
 Read this Patient Information before you start taking ENTOCORT EC and each time you get a refill.
 There may be new information.
@@ -162,9 +162,7 @@ Perrigo®
 
 Allegan, MI 49010
 
-8Z200RC J6
-
 For more information, go to www.perrigo.com or call 1-866-634-9120.
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
-Revised January 2019
+Revised: July 2020

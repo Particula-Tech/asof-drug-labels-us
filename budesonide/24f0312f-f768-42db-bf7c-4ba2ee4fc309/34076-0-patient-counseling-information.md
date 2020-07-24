@@ -21,9 +21,9 @@ Administration
 Advise patients to:
 
 - •Take ENTOCORT EC once daily in the morning.
-- •Swallow ENTOCORT EC extended-release capsules whole.
+- •Swallow ENTOCORT EC delayed-release capsules whole.
   Do not chew or crush.
-- •For patients unable to swallow an intact capsule, ENTOCORT EC extended-release capsules can be opened and administered as follows:
+- •For patients unable to swallow an intact capsule, ENTOCORT EC delayed-release capsules can be opened and administered as follows:
 - 1.Place one tablespoonful of applesauce into a clean container (e.g., empty bowl).
   The applesauce used should not be hot and should be soft enough to be swallowed without chewing.
 - 2.Open the capsule(s).

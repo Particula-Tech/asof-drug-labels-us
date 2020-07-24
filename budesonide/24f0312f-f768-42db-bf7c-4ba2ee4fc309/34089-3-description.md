@@ -1,6 +1,6 @@
 # 11 DESCRIPTION
 
-Budesonide, the active ingredient of ENTOCORT EC extended-release capsules, is a synthetic corticosteroid.
+Budesonide, the active ingredient of ENTOCORT EC delayed-release capsules, is a synthetic corticosteroid.
 Budesonide is designated chemically as (RS)-11β, 16α, 17,21-tetrahydroxypregna-1,4-diene-3,20-dione cyclic 16,17-acetal with butyraldehyde.
 Budesonide is provided as a mixture of two epimers (22R and 22S).
 The empirical formula of budesonide is C25H34O6 and its molecular weight is 430.5.
