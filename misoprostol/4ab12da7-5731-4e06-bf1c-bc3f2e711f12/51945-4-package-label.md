@@ -15,23 +15,17 @@ EXP: YYYY.MM.DD LOT A01234
 
 Pfizer
 
-Cytotec® misoprostol tablets
-
-100 mcg
+Cytotec® 100 mcg misoprostol tablets
 
 100 Tablets For in-institution use only
 
 # PRINCIPAL DISPLAY PANEL - 100 mcg Tablet Bottle Label
 
-NDC 0025-1451-60
-
 Pfizer
 
-Cytotec® misoprostol tablets
+NDC 0025-1451-60
 
-100 mcg
-
-60 Tablets
+Cytotec® misoprostol tablets 100 mcg 60 Tablets
 
 Distributed by G.D.
 Searle LLC Division of Pfizer Inc, NY, NY 10017
@@ -55,23 +49,17 @@ EXP: YYYY.MM.DD LOT A01234
 
 Pfizer
 
-Cytotec® misoprostol tablets
-
-200 mcg
+Cytotec® 200 mcg misoprostol tablets
 
 100 Tablets For in-institution use only
 
 # PRINCIPAL DISPLAY PANEL - 200 mcg Tablet Bottle Label
 
-NDC 0025-1461-60
-
 Pfizer
 
-Cytotec® misoprostol tablets
+NDC 0025-1461-60
 
-200 mcg
-
-60 Tablets
+Cytotec® misoprostol tablets 200 mcg 60 Tablets
 
 Distributed by G.D.
 Searle LLC Division of Pfizer Inc, NY, NY 10017
