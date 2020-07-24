@@ -1,0 +1,24 @@
+{
+  "application_numbers": [
+    "ANDA075563"
+  ],
+  "inn": "sotalol",
+  "labeler": "Oxford Pharmaceuticals, LLC",
+  "package_ndcs": [
+    "69584-841-10",
+    "69584-841-50",
+    "69584-842-10",
+    "69584-842-30",
+    "69584-843-10",
+    "69584-844-10"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "sotalol hydrochloride",
+      "name": "Sotalol Hydrochloride"
+    }
+  ],
+  "setid": "c8ac6351-b1e9-4dd2-82f2-5980814fda15",
+  "source": "dailymed"
+}
