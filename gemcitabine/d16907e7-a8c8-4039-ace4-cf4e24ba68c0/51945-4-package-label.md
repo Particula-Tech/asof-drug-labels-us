@@ -18,15 +18,13 @@ Hospira
 
 1 x 200 mg Vial NDC 0409-0185-01
 
-Sterile
+Sterile Rx only
 
 Gemcitabine for Injection, USP
 
 200 mg/Vial
 
 (lyophilized)
-
-Rx only
 
 For Intravenous Use Only DO NOT REFRIGERATE Single-Dose Vial
 
@@ -52,15 +50,13 @@ Hospira
 
 1 x 1 g Vial NDC 0409-0186-01
 
-Sterile
+Sterile Rx only
 
 Gemcitabine for Injection, USP
 
 1 g/Vial
 
 (lyophilized)
-
-Rx only
 
 For Intravenous Use Only DO NOT REFRIGERATE Single-Dose Vial
 
