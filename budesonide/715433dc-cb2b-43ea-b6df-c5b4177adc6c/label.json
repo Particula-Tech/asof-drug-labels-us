@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "NDA212122"
+  ],
+  "inn": "budesonide",
+  "labeler": "AstraZeneca Pharmaceuticals LP",
+  "package_ndcs": [
+    "0310-4616-12",
+    "0310-4616-28",
+    "0310-4616-39"
+  ],
+  "products": [
+    {
+      "form": "AEROSOL, METERED",
+      "generic": "budesonide, glycopyrrolate, and formoterol fumarate",
+      "name": "BRETZRI"
+    }
+  ],
+  "setid": "715433dc-cb2b-43ea-b6df-c5b4177adc6c",
+  "source": "dailymed"
+}
