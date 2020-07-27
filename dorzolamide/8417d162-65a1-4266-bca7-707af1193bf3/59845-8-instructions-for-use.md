@@ -4,15 +4,15 @@ Dorzolamide Hydrochloride Ophthalmic Solution 2%
 
 Sterile
 
-- •Wash hands before each use.
-- •To open the bottle, remove the shrink neck band and unscrew the cap by turning counterclockwise.
-
-- •Tilt your head back and pull your lower eyelid down slightly to form a pocket between your eyelid and your eye.
-
-- •Invert the bottle, and instill drops as directed by your doctor.
-
-- •If your doctor has told you to use Dorzolamide HCl Ophthalmic Solution drops in both eyes, repeat Steps 3 and 4.
-- •Replace cap on bottle and turn until closed.
+1. 1.Wash hands before each use.
+2. 2.To open the bottle, remove the shrink neck band and unscrew the cap by turning counterclockwise.
+3. 
+4. 3.Tilt your head back and pull your lower eyelid down slightly to form a pocket between your eyelid and your eye.
+5. 
+6. 4.Invert the bottle, and instill drops as directed by your doctor.
+7. 
+8. 5.If your doctor has told you to use Dorzolamide HCl Ophthalmic Solution drops in both eyes, repeat Steps 3 and 4.
+9. 6.Replace cap on bottle and turn until closed.
 
 How should I store Dorzolamide HCl Ophthalmic Solution?
 
@@ -37,4 +37,8 @@ This Instructions for Use has been approved by the U.S. Food and Drug Administra
 
 Bausch + Lomb, a division of Valeant Pharmaceuticals North America LLC Bridgewater, NJ 08807 USA ©Bausch & Lomb Incorporated
 
-Revised: 07/2016 9406601
+Revised: 07/2016
+
+9633400 (15.5625 x 5” flat)
+
+9633500 (1 x 5” folded)

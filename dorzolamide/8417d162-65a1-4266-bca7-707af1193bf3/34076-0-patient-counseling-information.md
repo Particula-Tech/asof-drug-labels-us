@@ -35,4 +35,8 @@ Instruct patients to avoid allowing the tip of the dispensing container to conta
 
 Bausch + Lomb, a division of Valeant Pharmaceuticals North America LLC Bridgewater, NJ 08807 USA ©Bausch & Lomb Incorporated
 
-Revised: 07/2016 9406601
+Revised: 07/2016
+
+9633400 (15.5625 x 5” flat)
+
+9633500 (1 x 5” folded)
