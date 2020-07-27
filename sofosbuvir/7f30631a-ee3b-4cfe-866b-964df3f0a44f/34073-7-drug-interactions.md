@@ -54,4 +54,5 @@ Based on drug interaction studies conducted with the components of EPCLUSA (sofo
 - EPCLUSA: atazanavir/ritonavir, cyclosporine, darunavir/ritonavir, dolutegravir, elvitegravir/cobicistat/emtricitabine/tenofovir alafenamide, emtricitabine, raltegravir, or rilpivirine.
 - Sofosbuvir: ethinyl estradiol/norgestimate, methadone, or tacrolimus.
 - Velpatasvir: ethinyl estradiol/norgestimate, ketoconazole, or pravastatin.
-  See Table 4 for use of EPCLUSA with certain HIV antiretroviral regimens [see Drug Interactions (7.3)].
+
+See Table 4 for use of EPCLUSA with certain HIV antiretroviral regimens [see Drug Interactions (7.3)].

@@ -3,7 +3,7 @@
 ## 14.1 Description of Clinical Trials
 
 Table 12 presents the clinical trial design including different treatment groups that were conducted with EPCLUSA with and without ribavirin in subjects with chronic hepatitis C (HCV) genotype 1, 2, 3, 4, 5, and 6 infection.
-For detailed description of trial design and recommended regimen and duration [see Dosage and Administration (2.2,2.3, and 2.4) and Clinical Studies (14.2, 14.3, 14.4, 14.5, and 14.6)].
+For detailed description of trial design and recommended regimen and duration [see Dosage and Administration (2.2, 2.3, and 2.4) and Clinical Studies (14.2, 14.3, 14.4, 14.5, 14.6, and 14.7)].
 
 Table 12 Trials Conducted with EPCLUSA in Subjects with Genotype 1, 2, 3, 4, 5, or 6 HCV Infection
 
@@ -12,9 +12,10 @@ Table 12 Trials Conducted with EPCLUSA in Subjects with Genotype 1, 2, 3, 4, 5, 
 | ASTRAL-1 Double-blind, placebo-controlled. (NCT02201940) | Genotype 1, 2, 4, 5, and 6 TN and TE TE = treatment-experienced subjects are those who have failed a peginterferon alfa/ribavirin based regimen with or without an HCV protease inhibitor (boceprevir, simeprevir, or telaprevir)., without cirrhosis or with compensated cirrhosis | EPCLUSA 12 weeks (624) Placebo 12 weeks (116) |
 | ASTRAL-2 Open-label. (NCT02220998) | Genotype 2 TN and TE, without cirrhosis or with compensated cirrhosis | EPCLUSA 12 weeks (134) SOF + RBV 12 weeks (132) |
 | ASTRAL-3 (NCT02201953) | Genotype 3 TN and TE, without cirrhosis or with compensated cirrhosis | EPCLUSA 12 weeks (277) SOF + RBV 24 weeks (275) |
-| ASTRAL-4 (NCT02201901) | Genotype 1, 2, 3, 4, 5, and 6 TN and TE, with CP class B decompensated cirrhosis | EPCLUSA 12 weeks (90) EPCLUSA + RBV 12 weeks (87) EPCLUSA 24 weeks (90) |
 | ASTRAL-5 (NCT02480712) | Genotype 1, 2, 3, 4, 5, and 6 HCV/HIV-1 coinfected TN and TE, without cirrhosis or with compensated cirrhosis | EPCLUSA 12 weeks (106) |
-| 4062 (NCT03036852) | Genotype 1, 2, 3, 4, and 6 TN and TE d. TE = treatment-experienced subjects are those who have failed a peginterferon alfa/ribavirin or interferon/ribavirin based regimen. without cirrhosis or with compensated cirrhosis, with ESRD requiring dialysis | EPCLUSA 12 weeks (59) |
+| ASTRAL-4 (NCT02201901) | Genotype 1, 2, 3, 4, 5, and 6 TN and TE, with CP class B decompensated cirrhosis | EPCLUSA 12 weeks (90) EPCLUSA + RBV 12 weeks (87) EPCLUSA 24 weeks (90) |
+| 2104 (NCT02781571) | Genotype 1, 2, 3, and 4 TN and TE TE = treatment-experienced subjects are those who have failed a peginterferon alfa/ribavirin based regimen or an HCV-specific DAA-based regimen that does not include an NS5A inhibitor. liver transplant recipients, without cirrhosis or with compensated cirrhosis | EPCLUSA 12 weeks (79) |
+| 4062 (NCT03036852) | Genotype 1, 2, 3, 4, and 6 TN and TE TE = treatment-experienced subjects are those who have failed a peginterferon alfa/ribavirin or interferon/ribavirin based regimen. without cirrhosis or with compensated cirrhosis, with ESRD requiring dialysis | EPCLUSA 12 weeks (59) |
 | 1143 (NCT03022981) | Genotype 1, 2, 3, 4, and 6 TN and TE pediatric subjects 6 years of age and older | EPCLUSA 12 weeks (173) |
 | TN = treatment-naïve subjects; SOF = sofosbuvir; RBV = ribavirin; CP = Child-Pugh; ESRD = End Stage Renal Disease. |  |  |
 
@@ -167,7 +168,17 @@ Table 18 Study ASTRAL-4: Virologic Outcomes in Subjects with Decompensated Cirrh
 
 All subjects with genotype 2 (N=4) and genotype 4 (N=2) HCV infection treated with EPCLUSA and ribavirin achieved SVR12.
 
-## 14.5 Clinical Trial in Subjects with Severe Renal Impairment Requiring Dialysis
+## 14.5 Clinical Trial in Adult Liver Transplant Recipients without Cirrhosis and with Compensated Cirrhosis
+
+Trial 2104 was an open-label clinical trial that evaluated 12 weeks of treatment with EPCLUSA in 79 HCV-infected treatment-naïve and previously treated adult subjects who had undergone liver transplantation.
+The proportions of subjects with genotype 1, 2, 3, or 4 HCV infection were 47%, 4%, 44%, and 5%, respectively.
+The median age was 62 years (range: 45 to 81); 81% were male; 82% were White; 3% were Black; and 15% were Asian; 28% had a baseline body mass index at least 30 kg/m2.
+At baseline, 18% had compensated cirrhosis, and 60% were treatment experienced (subjects with prior exposure to any HCV NS5A inhibitor were excluded).
+Immunosuppressants allowed for coadministration were tacrolimus, mycophenolate mofetil, cyclosporine, and azathioprine.
+The overall SVR12 rate was 96% (76/79).
+Of the subjects completing 12 weeks of EPCLUSA, 2 subjects experienced virologic relapse.
+
+## 14.6 Clinical Trial in Subjects with Severe Renal Impairment Requiring Dialysis
 
 Trial 4062 was an open-label clinical trial that evaluated 12 weeks of treatment with EPCLUSA in 59 HCV-infected adults with ESRD requiring dialysis.
 The proportions of subjects with genotype 1, 2, 3, 4, 6 or indeterminate HCV infection were 42%,12%, 27%, 7%, 3%, and 8%, respectively.
@@ -175,7 +186,7 @@ At baseline, 29% of subjects had cirrhosis, 22% were treatment-experienced (subj
 The overall SVR rate was 95% (56/59).
 Of the subjects completing 12 weeks of EPCLUSA, 1 subject experienced virologic relapse.
 
-## 14.6 Clinical Trial in Pediatric Subjects
+## 14.7 Clinical Trial in Pediatric Subjects
 
 The efficacy of EPCLUSA once daily for 12 weeks was evaluated in an open-label trial (Study 1143) in 173 genotype 1, 2, 3, 4, or 6 HCV treatment-naïve (N=147) or treatment-experienced (N=26) pediatric subjects 6 years of age and older without cirrhosis or with compensated cirrhosis.
 

@@ -77,14 +77,21 @@ In the Phase 3 trial with decompensated cirrhosis (ASTRAL-4), isolated, asymptom
 Indirect Bilirubin: Increases in indirect bilirubin up to 3 mg/dL above baseline were noted among HIV-1/HCV coinfected subjects treated with EPCLUSA and an atazanavir/ritonavir-based antiretroviral regimen.
 The elevated indirect bilirubin values were not associated with clinical adverse events, and all subjects completed 12 weeks of EPCLUSA without dose adjustment or treatment interruption of either EPCLUSA or HIV antiretroviral agents.
 
+Adverse Reactions in Adult Liver Transplant Recipients
+
+The safety assessment of EPCLUSA in liver transplant recipients was based on an open-label clinical trial (Trial 2104) in 79 adults without cirrhosis or with compensated cirrhosis who received EPCLUSA for 12 weeks [see Clinical Studies (14.5)].
+One subject discontinued treatment due to an adverse event on Day 7.
+The adverse reactions observed were consistent with the known safety profile of EPCLUSA.
+Adverse reactions occurring in at least 5% of subjects were headache (18%), fatigue (15%), nausea (8%), diarrhea (6%), and asthenia (5%).
+
 Adverse Reactions in Adults with Severe Renal Impairment Requiring Dialysis
 
-In an open-label trial (Trial 4062), in which a total of 59 adults with HCV with compensated liver disease (with or without cirrhosis) and ESRD requiring dialysis received EPCLUSA for 12 weeks, the most common adverse reaction was nausea (7%) [see Clinical Studies (14.5)].
+In an open-label trial (Trial 4062), in which a total of 59 adults with HCV with compensated liver disease (with or without cirrhosis) and ESRD requiring dialysis received EPCLUSA for 12 weeks, the most common adverse reaction was nausea (7%) [see Clinical Studies (14.6)].
 
 Adverse Reactions in Pediatric Subjects 6 Years of Age and Older
 
 The safety assessment of EPCLUSA in pediatric subjects 6 years of age and older or weighing at least 17 kg is based on data from a Phase 2, open-label clinical trial (Study 1143) that enrolled 175 subjects who were treated with EPCLUSA for 12 weeks.
-The adverse reactions observed were consistent with those observed in clinical trials of EPCLUSA in adults [see Use in Specific Populations (8.4) and Clinical Studies (14.6)].
+The adverse reactions observed were consistent with those observed in clinical trials of EPCLUSA in adults [see Use in Specific Populations (8.4) and Clinical Studies (14.7)].
 
 ## 6.2 Postmarketing Experience
 

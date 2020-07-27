@@ -74,7 +74,7 @@ Table 7 Pharmacokinetic Properties of the Components of EPCLUSA in HCV-Infected 
 | AUCtau (ng∙hr/mL) | 2050 (59.0) | 10800 (27.9) | 3460 (27.5) |  |  |
 | Ctrough (ng/mL) | NA | NA | 33 (51.2) |  |  |
 
-The pharmacokinetics of sofosbuvir, GS-331007 and velpatasvir have not been established in pediatric subjects less than 6 years of age or weighing less than 17 kg [see Use in Specific Populations (8.4) and Clinical Studies (14.6)].
+The pharmacokinetics of sofosbuvir, GS-331007 and velpatasvir have not been established in pediatric subjects less than 6 years of age or weighing less than 17 kg [see Use in Specific Populations (8.4) and Clinical Studies (14.7)].
 
 Geriatric Patients: Population pharmacokinetic analysis in HCV-infected subjects showed that within the age range (18 to 82 years) analyzed, age did not have a clinically relevant effect on the exposure to sofosbuvir, GS-331007, or velpatasvir [see Use in Specific Populations (8.5)].
 
@@ -319,6 +319,10 @@ Of the 10 genotype 3a virologic failure subjects, NS5A resistance substitution Y
 Treatment-emergent sofosbuvir NS5B substitutions L314F (n=2) and L314I (n=1) were observed at high frequency (greater than or equal to 15%) in the NS5B polymerase in 3 genotype 3a subjects who relapsed: one in the EPCLUSA group and two in the sofosbuvir plus ribavirin 24-week group.
 In addition, low frequency (less than 4%) treatment-emergent L314P was detected in 2 genotype 3a subjects who relapsed, including one subject in the sofosbuvir plus ribavirin 24-week group in ASTRAL-3 and one in the EPCLUSA group in ASTRAL-4.
 The clinical significance of this substitution is unknown.
+
+In Trial 2104 (liver transplant recipients), there were 2 virologic failures (1 subject with genotype 1a and 1 subject with genotype 3b).
+The genotype 1a virologic failure subject had virus with an NS5A K24R polymorphism at baseline and relapse, and treatment-emergent NS5A L31V.
+The genotype 3b virologic failure subject had virus at baseline and relapse with NS5A polymorphisms A30K+L31M, which are predominant in this subtype; treatment-emergent NS5B S282T was detected at relapse.
 
 Studies in Subjects with Decompensated Cirrhosis
 
