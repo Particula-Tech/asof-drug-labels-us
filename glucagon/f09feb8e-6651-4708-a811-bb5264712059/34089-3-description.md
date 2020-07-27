@@ -8,4 +8,4 @@ The structure of glucagon is:
 
 GlucaGen is a sterile, lyophilized white powder in a 2 mL vial (appearance of the powder may vary, and occasionally the powder may appear compacted).
 The reconstituted solution contains glucagon as hydrochloride 1 mg/mL and lactose monohydrate (107 mg).
-GlucaGen is supplied at pH 2.5-3.5 and is soluble in water.
+GlucaGen is supplied at pH 2.5-3.5, hydrochloric acid and/or sodium hydroxide may be added to adjust pH, and is soluble in water.
