@@ -18,7 +18,7 @@ Initiate appropriate patient management for HBV infection as clinically indicate
 ## 5.2 Serious Symptomatic Bradycardia When Coadministered with Amiodarone
 
 Postmarketing cases of symptomatic bradycardia and cases requiring pacemaker intervention have been reported when amiodarone is coadministered with a sofosbuvir-containing regimen.
-A fatal cardiac arrest was reported in a patient taking amiodarone who was coadministered a sofosbuvir-containing regimen (Harvoni® [ledipasvir/sofosbuvir]).
+A fatal cardiac arrest was reported in a patient taking amiodarone who was coadministered a sofosbuvir-containing regimen (HARVONI® [ledipasvir/sofosbuvir]).
 Bradycardia has generally occurred within hours to days, but cases have been observed up to 2 weeks after initiating HCV treatment.
 Patients also taking beta blockers, or those with underlying cardiac comorbidities and/or advanced liver disease may be at increased risk for symptomatic bradycardia with coadministration of amiodarone.
 Bradycardia generally resolved after discontinuation of HCV treatment.

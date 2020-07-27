@@ -8,8 +8,9 @@ Test all patients for evidence of current or prior HBV infection by measuring he
 
 Table 1 shows the recommended treatment regimen and duration based on patient population.
 
-For patients with HCV/HIV-1 coinfection, follow the dosage recommendations in Table 1 [see Clinical Studies (14.3)].
-Refer to Drug Interactions (7) for dosage recommendations for concomitant HIV-1 antiviral drugs.
+For patients with HCV/HIV-1 coinfection, follow the dosage recommendations in Table 1.
+For treatment-naïve and treatment-experienced liver transplant recipients without cirrhosis or with compensated cirrhosis (Child-Pugh A), the recommended regimen is sofosbuvir and velpatasvir once daily for 12 weeks [see Clinical Studies (14.3 and 14.5)].
+Refer to Drug Interactions (7) for dosage recommendations for concomitant drugs.
 
 Table 1 Recommended Treatment Regimen and Duration in Patients 6 Years of Age and Older or Weighing at Least 17 kg with Genotype 1, 2, 3, 4, 5, or 6 HCV
 
@@ -30,7 +31,7 @@ For ribavirin dosage modifications refer to the ribavirin prescribing informatio
 
 The recommended dosage of sofosbuvir and velpatasvir in pediatric patients 6 years of age and older or weighing at least 17 kg is based on weight and provided in Table 2.
 Table 3 provides the weight-based dosage of ribavirin when used in combination with sofosbuvir and velpatasvir for pediatric patients.
-Take sofosbuvir and velpatasvir once daily with or without food [see Use in Specific Populations (8.4), Clinical Pharmacology (12.3), and Clinical Studies (14.6)].
+Take sofosbuvir and velpatasvir once daily with or without food [see Use in Specific Populations (8.4), Clinical Pharmacology (12.3), and Clinical Studies (14.7)].
 
 Table 2 Dosing for Pediatric Patients 6 Years and Older or Weighing at Least 17 kg with Genotype 1, 2, 3, 4, 5, or 6 HCV
 
@@ -52,5 +53,5 @@ Table 3 Recommended Dosing for Ribavirin in Combination Therapy with Sofosbuvir 
 ## 2.5 Renal Impairment
 
 No dosage adjustment of sofosbuvir and velpatasvir tablets (400 mg/100 mg) is recommended in patients with any degree of renal impairment, including patients requiring dialysis.
-Administer sofosbuvir and velpatasvir tablets (400 mg/100 mg) with or without ribavirin according to the recommendations in Table 1 [see Adverse Reactions (6.1), Use in Specific Populations (8.6), and Clinical Studies (14.5)].
+Administer sofosbuvir and velpatasvir tablets (400 mg/100 mg) with or without ribavirin according to the recommendations in Table 1 [see Adverse Reactions (6.1), Use in Specific Populations (8.6), and Clinical Studies (14.6)].
 Refer to ribavirin tablet prescribing information for ribavirin dosage modification for patients with CrCl less than or equal to 50 mL per minute.
