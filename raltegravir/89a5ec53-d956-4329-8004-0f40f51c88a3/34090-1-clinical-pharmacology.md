@@ -98,16 +98,16 @@ Table 14: Raltegravir Steady State Pharmacokinetic Parameters in Pediatric Patie
 | Body Weight | Formulation | Dose | NNumber of patients with intensive pharmacokinetic (PK) results at the final recommended dose. | Geometric Mean (%CVGeometric coefficient of variation.) AUC0-12hr (µM∙hr) | Geometric Mean (%CV) C12hr (nM) |
 | --- | --- | --- | --- | --- | --- |
 | ≥25 kg | Film-coated tablet | 400 mg twice daily | 18 | 14.1 (121%) | 233 (157%) |
-| ≥25 kg | Chewable tablet | Weight based dosing, see Table 3 | 9 | 22.1 (36%) | 113 (80%) |
-| 11 to less than 25 kg | Chewable tablet | Weight based dosing, see Table 4 | 13 | 18.6 (68%) | 82 (123%) |
-| 3 to less than 20 kg | Oral suspension | Weight based dosing, see Table 4 | 19 | 24.5 (43%) | 113 (69%) |
+| ≥25 kg | Chewable tablet | Weight-based dosing, see Table 3 | 9 | 22.1 (36%) | 113 (80%) |
+| 11 to less than 25 kg | Chewable tablet | Weight-based dosing, see Table 4 | 13 | 18.6 (68%) | 82 (123%) |
+| 3 to less than 20 kg | Oral suspension | Weight-based dosing, see Table 4 | 19 | 24.5 (43%) | 113 (69%) |
 
 Elimination of raltegravir in vivo in human is primarily through the UGT1A1-mediated glucuronidation pathway.
 UGT1A1 catalytic activity is negligible at birth and matures after birth.
 The dose recommended for neonates less than 4 weeks of age takes into consideration the rapidly increasing UGT1A1 activity and drug clearance from birth to 4 weeks of age.
 Table 15 displays pharmacokinetic parameters for neonates receiving the granules for oral suspension at the recommended dose [see Dosage and Administration (2.3)].
 
-Table 15: Raltegravir Pharmacokinetic Parameters from IMPAACT P1110 Following Age and Weight Based Dosing of Oral Suspension
+Table 15: Raltegravir Pharmacokinetic Parameters from IMPAACT P1110 Following Age and Weight-Based Dosing of Oral Suspension
 
 | Age (hours/days) at PK Sampling | Dose (See Table 5) | NNumber of patients with intensive pharmacokinetic (PK) results at the final recommended dose. | Geometric Mean (%CVGeometric coefficient of variation.) AUC (μM∙hr) | Geometric Mean (%CV) Ctrough (nM) |
 | --- | --- | --- | --- | --- |
@@ -165,7 +165,7 @@ Table 16: Effect of Other Agents on the Pharmacokinetics of Raltegravir in Adult
 | atazanavir | 400 mg daily | 100 mg single dose | 10 | 1.53 (1.11, 2.12) | 1.72 (1.47, 2.02) | 1.95 (1.30, 2.92) |
 | atazanavir | 400 mg daily | 1200 mg single dose | 14 | 1.16 (1.01, 1.33) | 1.67 (1.34, 2.10) | 1.26 (1.08, 1.46) |
 | atazanavir/ritonavir | 300 mg/100 mg daily | 400 mg twice daily | 10 | 1.24 (0.87, 1.77) | 1.41 (1.12, 1.78) | 1.77 (1.39, 2.25) |
-| boceprevir | 800 mg three times daily | 400 mg single dose | 22 | 1.11 (0.91-1.36) | 1.04 (0.88-1.22) | 0.75 (0.45-1.23) |
+| boceprevir | 800 mg three times daily | 400 mg single dose | 22 | 1.11 (0.91, 1.36) | 1.04 (0.88, 1.22) | 0.75 (0.45, 1.23) |
 | calcium carbonate antacid | 3000 mg single dose given with raltegravir | 400 mg twice daily | 24 | 0.48 (0.36, 0.63) | 0.45 (0.35, 0.57) | 0.68 (0.53, 0.87) |
 | calcium carbonate antacid | 3000 mg single dose given with raltegravir | 1200 mg single dose | 19 | 0.26 (0.21, 0.32) | 0.28 (0.24, 0.32) | 0.52 (0.45, 0.61) |
 |  | 3000 mg single dose given 12 hours after raltegravir |  |  | 0.98 (0.81, 1.17) | 0.90 (0.80, 1.03) | 0.43 (0.36, 0.51) |

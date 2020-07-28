@@ -75,7 +75,7 @@ ISENTRESS is not recommended in pre-term neonates or in pediatric patients weigh
 ISENTRESS HD
 
 ISENTRESS HD once daily has not been studied in pediatric patients.
-However population PK modeling and simulation support the use of 1200 mg (2 × 600 mg) once daily in pediatric patients weighing at least 40 kg [see Clinical Pharmacology (12.3)].
+However population PK modeling and simulation support the use of 1,200 mg (2 × 600 mg) once daily in pediatric patients weighing at least 40 kg [see Clinical Pharmacology (12.3)].
 
 ## 8.5 Geriatric Use
 
@@ -92,4 +92,4 @@ The effect of severe hepatic impairment on the pharmacokinetics of raltegravir h
 ## 8.7 Use in Patients with Renal Impairment
 
 No dosage adjustment of ISENTRESS or ISENTRESS HD is necessary in patients with any degree of renal impairment [see Clinical Pharmacology (12.3)].
-The extent to which ISENTRESS may be dialyzable is unknown.
+The extent to which ISENTRESS may be dialyzable is unknown; therefore, dosing before a dialysis session should be avoided.

@@ -33,14 +33,20 @@ Inform patients that it is important to take ISENTRESS or ISENTRESS HD on a regu
 
 Important Administration Instructions
 
-Film-Coated Tablets and Chewable Tablets
+Film-Coated Tablets
 
-Inform patients that the chewable tablets can be chewed or swallowed whole, but the film-coated tablets must be swallowed whole.
+Inform patients that the film-coated tablets must be swallowed whole.
 
-For Oral Suspension
+Oral Suspension
 
 Instruct parents and/or caregivers to read the Instructions for Use before preparing and administering ISENTRESS for oral suspension to pediatric patients.
 Instruct parents and/or caregivers that ISENTRESS for oral suspension should be administered within 30 minutes of mixing.
+
+Chewable Tablets
+
+Inform parents and/or caregivers that the chewable tablets can be chewed or swallowed whole.
+Additionally, the 25 mg chewable tablet may be crushed.
+Instruct parents and/or caregivers that ISENTRESS 25 mg chewable tablets, if crushed, should be administered immediately [see Dosage and Administration (2.1)].
 
 Pregnancy Registry
 

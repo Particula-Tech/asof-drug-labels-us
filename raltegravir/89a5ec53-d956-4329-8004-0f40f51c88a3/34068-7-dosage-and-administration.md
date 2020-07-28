@@ -8,7 +8,16 @@
 - ISENTRESS film-coated tablets must be swallowed whole.
 - ISENTRESS chewable tablets may be chewed or swallowed whole.
   Maximum daily dose is 300 mg taken by mouth twice daily.
+- For children who have difficulty chewing the 25 mg chewable tablet, the tablet may be crushed.
+  - Preparation of the crushed 25 mg chewable tablet:
+    - Place the tablet(s) in a small, clean cup.
+      For each tablet, add a teaspoonful (~5 mL) of liquid (for example, water, juice, or breast milk).
+    - Within 2 minutes, the tablet(s) will absorb the liquid and fall apart.
+    - Using a spoon, crush any remaining pieces of the tablet(s).
+      Immediately administer the entire dose orally.
+    - If any portion of the dose is left in the cup, add another teaspoonful (~5 mL) of liquid, swirl and administer immediately.
 - ISENTRESS for oral suspension:
+  - See Instructions for Use for details on preparation and administration of ISENTRESS for oral suspension.
   - Using the provided mixing cup, combine 10 mL of water and the entire contents of one packet of ISENTRESS for oral suspension and mix.
     Each single-use packet for oral suspension contains 100 mg of raltegravir which is suspended in 10 mL of water giving a final concentration of 10 mg per mL.
     Maximum daily dose is 100 mg taken by mouth twice daily.
@@ -17,7 +26,6 @@
   - Once mixed, measure the prescribed dose volume of suspension with a syringe and administer the dose orally.
     The dose should be administered orally within 30 minutes of mixing.
   - Discard any remaining suspension into the trash.
-  - For more details on preparation and administration of the suspension, see Instructions for Use.
 
 ## 2.2 Adults
 
@@ -28,7 +36,7 @@ Table 1: Dosing Recommendations for ISENTRESS and ISENTRESS HD in Adult Patients
 
 | Population | Recommended Dose |
 | --- | --- |
-| Treatment-naïve patients or patients who are virologically suppressed on an initial regimen of ISENTRESS 400 mg twice daily | 1200 mg (2 × 600 mg) once daily or 400 mg twice daily |
+| Treatment-naïve patients or patients who are virologically suppressed on an initial regimen of ISENTRESS 400 mg twice daily | 1,200 mg (2 × 600 mg) once daily or 400 mg twice daily |
 | Treatment-experienced | 400 mg twice daily |
 | Treatment-naïve or treatment-experienced when coadministered with rifampin [see Drug Interactions (7.1)] | 800 mg (2 × 400 mg) twice daily |
 
@@ -42,14 +50,14 @@ Table 2: Dosing Recommendations for ISENTRESS and ISENTRESS HD in Pediatric Pati
 | Population/Weight | Film-Coated Tablets 400 mg | Film-Coated Tablets 600 mg | Chewable Tablets 100 mg and 25 mg | For Oral Suspension 100 mg |
 | --- | --- | --- | --- | --- |
 |  | Recommended Pediatric Dosage and Formulation |  |  |  |
-| If at least 40 kg and either treatment-naïve or virologically suppressed on an initial regimen of ISENTRESS 400 mg twice daily | 400 mg twice daily | 1200 mg (2 × 600 mg) once daily | 300 mg twice daily (see Table 3) | NA |
+| If at least 40 kg and either: treatment-naïve or virologically suppressed on an initial regimen of ISENTRESS 400 mg twice daily | 400 mg twice daily | 1,200 mg (2 × 600 mg) once daily | 300 mg twice daily (see Table 3) | NA |
 | If at least 25 kg | 400 mg twice dailyIf able to swallow a tablet | NA | Weight-based dosing twice daily (see Table 3) | NA |
 | If at least 4 weeks of age and weighing 3 kg to less than 25 kg | NA | NA | Weight-based dosing twice daily (see Table 4) | Weight-based dosing twice daily up to 20 kg (see Table 4) |
 | From birth to 4 weeks (28 days) weighing at least 2 kg | NA | NA | NA | Weight-based dosing once daily or twice daily (see Table 5) |
 
 Table 3: Alternative DosageThe weight-based dosing recommendation for the chewable tablet is based on approximately 6 mg/kg/dose twice daily [see Clinical Pharmacology (12.3)]. with ISENTRESS Chewable Tablets for Pediatric Patients Weighing at Least 25 kg
 
-| Body Weight (kg) | Dose | Number of Chewable Tablets |
+| Body Weight (kg) | Dose | Number of 100 mg Chewable Tablets |
 | --- | --- | --- |
 | 25 to less than 28 | 150 mg twice daily | 1.5 × 100 mgThe 100 mg chewable tablet can be divided into equal halves. twice daily |
 | 28 to less than 40 | 200 mg twice daily | 2 × 100 mg twice daily |
@@ -59,13 +67,13 @@ Table 4: Recommended DosageThe weight-based dosing recommendation for the chewab
 
 | Body Weight (kg) | Volume (Dose) of Suspension to be Administered | Number of Chewable TabletsThe chewable tablets are available as 25 mg and 100 mg tablets. |
 | --- | --- | --- |
-| 3 to less than 4 | 2.5 mL (25 mg) twice daily |  |
+| 3 to less than 4 | 2.5 mL (25 mg) twice daily | 1 × 25 mg twice dailyMay be administered as a crushed tablet(s); see General Dosing Recommendations (2.1) for guidance. |
 | 4 to less than 6 | 3 mL (30 mg) twice daily |  |
-| 6 to less than 8 | 4 mL (40 mg) twice daily |  |
-| 8 to less than 11 | 6 mL (60 mg) twice daily |  |
-| 11 to less than 14For weight between 11 and 20 kg, either formulation can be used. | 8 mL (80 mg) twice daily | 3 × 25 mg twice daily |
+| 6 to less than 8 | 4 mL (40 mg) twice daily | 2 × 25 mg twice daily |
+| 8 to less than 10 | 6 mL (60 mg) twice daily |  |
+| 10 to less than 14 | 8 mL (80 mg) twice daily | 3 × 25 mg twice daily |
 | 14 to less than 20 | 10 mL (100 mg) twice daily | 1 × 100 mg twice daily |
-| 20 to less than 25 |  | 1.5 × 100 mgThe 100 mg chewable tablet can be divided into equal halves. twice daily |
+| 20 to less than 25 | Not applicable | 1.5 × 100 mgThe 100 mg chewable tablet can be divided into equal halves. twice daily |
 
 - For full-term neonates (birth to 4 weeks [28 days] of age): Weight-based dosing of the oral suspension as specified in Table 5.
 - No data are available in pre-term neonates.

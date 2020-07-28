@@ -7,7 +7,7 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 Treatment-Naïve Adults
 
 The safety of ISENTRESS was evaluated in HIV-infected treatment-naïve subjects in 2 Phase III studies: STARTMRK evaluated ISENTRESS 400 mg twice daily versus efavirenz, both in combination with emtricitabine (+) tenofovir disoproxil fumarate (TDF), and ONCEMRK evaluated ISENTRESS HD 1200 mg (2 × 600 mg) once daily versus ISENTRESS 400 mg twice daily, both in combination with emtricitabine (+) tenofovir disoproxil fumarate.
-Safety data from these two studies are presented side-by-side in Tables 5 and 6 to simplify presentation; direct comparisons across trials should not be made due to differing duration of follow-up and study design.
+Safety data from these two studies are presented side-by-side in Tables 6 and 7 to simplify presentation; direct comparisons across trials should not be made due to differing duration of follow-up and study design.
 
 STARTMRK (ISENTRESS 400 mg twice daily)
 
