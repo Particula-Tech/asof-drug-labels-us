@@ -31,10 +31,15 @@ However, concomitant use of clozapine tablets and strong CYP3A4 inducers is not 
 
 Consider reducing the clozapine tablets dosage when discontinuing coadministered enzyme inducers; because discontinuation of inducers can result in increased clozapine plasma levels and an increased risk of adverse reactions [see Dosage and Administration (2.6)].
 
+### Anticholinergic Drugs
+
+Concomitant treatment with clozapine and other drugs with anticholinergic activity (e.g., benztropine, cyclobenzaprine, diphenhydramine) can increase the risk for anticholinergic toxicity and severe gastrointestinal adverse reactions related to hypomotility.
+Avoid concomitant use of clozapine tablets with anticholinergic drugs when possible [see Warnings and Precautions (5.8, 5.16)].
+
 ### Drugs that Cause QT Interval Prolongation
 
 Use caution when administering concomitant medications that prolong the QT interval or inhibit the metabolism of clozapine.
-Drugs that cause QT prolongation include: specific antipsychotics (e.g., ziprasidone, iloperidone, chlorpromazine, thioridazine, mesoridazine, droperidol, and pimozide), specific antibiotics (e.g., erythromycin, gatifloxacin, moxifloxacin, sparfloxacin), Class 1A antiarrhythmics (e.g., quinidine, procainamide) or Class III antiarrhythmics (e.g., amiodarone, sotalol), and others (e.g., pentamidine, levomethadyl acetate, methadone, halofantrine, mefloquine, dolasetron mesylate, probucol or tacrolimus) [see Warnings and Precautions (5.9)].
+Drugs that cause QT prolongation include: specific antipsychotics (e.g., ziprasidone, iloperidone, chlorpromazine, thioridazine, mesoridazine, droperidol, and pimozide), specific antibiotics (e.g., erythromycin, gatifloxacin, moxifloxacin, sparfloxacin), Class 1A antiarrhythmics (e.g., quinidine, procainamide) or Class III antiarrhythmics (e.g., amiodarone, sotalol), and others (e.g., pentamidine, levomethadyl acetate, methadone, halofantrine, mefloquine, dolasetron mesylate, probucol or tacrolimus) [see Warnings and Precautions (5.10)].
 
 ## 7.2 Potential for Clozapine Tablets to Affect Other Drugs
 

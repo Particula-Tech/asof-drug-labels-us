@@ -4,7 +4,7 @@ Severe Neutropenia
 
 Clozapine tablets treatment has caused severe neutropenia, defined as an absolute neutrophil count (ANC) less than 500/μL.
 Severe neutropenia can lead to serious infection and death.
-Prior to initiating treatment with clozapine tablets, a baseline ANC must be at least 1500/μL for the general population; and must be at least 1000/μL for patients with documented Benign Ethnic Neutropenia (BEN).
+Prior to initiating treatment with clozapine tablets a baseline ANC must be at least 1500/μL for the general population; and must be at least 1000/μL for patients with documented Benign Ethnic Neutropenia (BEN).
 During treatment, patients must have regular ANC monitoring.
 Advise patients to immediately report symptoms consistent with severe neutropenia or infection (e.g., fever, weakness, lethargy, or sore throat) [see Dosage and Administration (2.1) and Warnings and Precautions (5.1)].
 

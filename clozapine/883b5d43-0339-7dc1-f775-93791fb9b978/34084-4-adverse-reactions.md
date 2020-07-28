@@ -2,24 +2,25 @@
 
 The following adverse reactions are discussed in more detail in other sections of the labeling:
 
-- •Severe Neutropenia [see Warnings and Precautions (5.1)].
-- •Orthostatic Hypotension, Bradycardia, and Syncope [see Warnings and Precautions (5.3)].
-- •Falls [see Warnings and Precautions (5.4)].
-- •Seizures [see Warnings and Precautions (5.5)].
-- •Myocarditis, Cardiomyopathy, and Mitral Valve Incompetence [see Warnings and Precautions (5.6)].
-- •Increased Mortality in Elderly Patients with Dementia-Related Psychosis [see Warnings and Precautions (5.7)].
-- •Eosinophilia [see Warnings and Precautions (5.8)].
-- •QT Interval Prolongation [see Warnings and Precautions (5.9)].
-- •Metabolic Changes (Hyperglycemia and Diabetes Mellitus, Dyslipidemia, and Weight Gain) [see Warnings and Precautions (5.10)].
-- •Neuroleptic Malignant Syndrome [see Warnings and Precautions (5.11)].
-- •Hepatotoxicity [see Warnings and Precautions (5.12)].
-- •Fever [see Warnings and Precautions (5.13)].
-- •Pulmonary Embolism [see Warnings and Precautions (5.14)].
-- •Anticholinergic Toxicity [see Warnings and Precautions (5.15)].
-- •Interference with Cognitive and Motor Performance [see Warnings and Precautions (5.16)].
-- •Tardive Dyskinesia [see Warnings and Precautions (5.17)].
-- •Cerebrovascular Adverse Reactions [see Warnings and Precautions (5.18)].
-- •Recurrence of Psychosis and Cholinergic Rebound after Abrupt Discontinuation [see Warnings and Precautions (5.19)].
+- •Severe Neutropenia [see Warnings and Precautions (5.1)]
+- •Orthostatic Hypotension, Bradycardia, and Syncope [see Warnings and Precautions (5.3)]
+- •Falls [see Warnings and Precautions (5.4)]
+- •Seizures [see Warnings and Precautions (5.5)]
+- •Myocarditis, Cardiomyopathy, and Mitral Valve Incompetence [see Warnings and Precautions (5.6)]
+- •Increased Mortality in Elderly Patients with Dementia-Related Psychosis [see Warnings and Precautions (5.7)]
+- •Gastrointestinal Hypomotility with Severe Complications [see Warnings and Precautions (5.8)]
+- •Eosinophilia [see Warnings and Precautions (5.9)]
+- •QT Interval Prolongation [see Warnings and Precautions (5.10)]
+- •Metabolic Changes (Hyperglycemia and Diabetes Mellitus, Dyslipidemia, and Weight Gain) [see Warnings and Precautions (5.11)]
+- •Neuroleptic Malignant Syndrome [see Warnings and Precautions (5.12)]
+- •Hepatotoxicity [see Warnings and Precautions (5.13)]
+- •Fever [see Warnings and Precautions (5.14)]
+- •Pulmonary Embolism [see Warnings and Precautions (5.15)]
+- •Anticholinergic Toxicity [see Warnings and Precautions (5.16)]
+- •Interference with Cognitive and Motor Performance [see Warnings and Precautions (5.17)]
+- •Tardive Dyskinesia [see Warnings and Precautions (5.18)]
+- •Cerebrovascular Adverse Reactions [see Warnings and Precautions (5.19)]
+- •Recurrence of Psychosis and Cholinergic Rebound after Abrupt Discontinuation [see Warnings and Precautions (5.20)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -49,7 +50,7 @@ Table 10 summarizes the adverse reactions reported in clozapine tablets-treated 
 These rates are not adjusted for duration of exposure.
 
 Table 10.
-Adverse Reactions (≥ 2%) Reported in Clozapine Tablets-Treated Patients (N = 842) Across all Clozapine Studies (excluding the 2-year InterSePT™ Study)
+Adverse Reactions (≥ 2%) Reported in Clozapine Tablets-Treated Patients (N = 842) Across all Clozapine Tablets Studies (excluding the 2-year InterSePT™ Study)
 
 | Body System Adverse Reaction | Clozapine TabletsN = 842Percentage of Patients |
 | --- | --- |
@@ -63,7 +64,7 @@ Adverse Reactions (≥ 2%) Reported in Clozapine Tablets-Treated Patients (N = 8
 | Restlessness | 4 |
 | Hypokinesia/Akinesia | 4 |
 | Agitation | 4 |
-| Seizures (convulsions) | 3Rate based on population of approximately 1,700 exposed during premarket clinical evaluation of clozapine tablets. |
+| Seizures (convulsions) | 3Rate based on population of approximately 1700 exposed during premarket clinical evaluation of clozapine tablets. |
 | Rigidity | 3 |
 | Akathisia | 3 |
 | Confusion | 3 |
@@ -76,27 +77,27 @@ Adverse Reactions (≥ 2%) Reported in Clozapine Tablets-Treated Patients (N = 8
 | Gastrointestinal |  |
 | Constipation | 14 |
 | Nausea | 5 |
-| Abdominal discomfort/Heartburn | 4 |
+| Abdominal Discomfort/Heartburn | 4 |
 | Nausea/Vomiting | 3 |
 | Vomiting | 3 |
 | Diarrhea | 2 |
 | Urogenital |  |
-| Urinary abnormalities | 2 |
+| Urinary Abnormalities | 2 |
 | Autonomic Nervous System |  |
 | Salivation | 31 |
 | Sweating | 6 |
-| Dry mouth | 6 |
-| Visual disturbances | 5 |
+| Dry Mouth | 6 |
+| Visual Disturbances | 5 |
 | Skin |  |
 | Rash | 2 |
 | Hemic/Lymphatic |  |
 | Leukopenia/Decreased WBC/Neutropenia | 3 |
 | Miscellaneous |  |
 | Fever | 5 |
-| Weight gain | 4 |
+| Weight Gain | 4 |
 
 Table 11 summarizes the most commonly reported adverse reactions (≥ 10% of the clozapine tablets or olanzapine group) in the InterSePT™ Study.
-This was an adequate and well-controlled, 2-year study evaluating the efficacy of clozapine tablets relative to olanzapine in reducing the risk of suicidal behavior in patients with schizophrenia or schizoaffective disorder.
+This was an adequate and well-controlled, two-year study evaluating the efficacy of clozapine tablets relative to olanzapine in reducing the risk of suicidal behavior in patients with schizophrenia or schizoaffective disorder.
 The rates are not adjusted for duration of exposure.
 
 Table 11.
@@ -134,7 +135,7 @@ Cardiovascular System: Atrial or ventricular fibrillation, ventricular tachycard
 
 Endocrine System: Pseudopheochromocytoma.
 
-Gastrointestinal System: Acute pancreatitis, dysphagia, salivary gland swelling, colitis.
+Gastrointestinal System: Acute pancreatitis, dysphagia, salivary gland swelling, colitis, megacolon, intestinal ischemia or infarction.
 
 Hepatobiliary System: Cholestasis, hepatitis, jaundice, hepatotoxicity, hepatic steatosis, hepatic necrosis, hepatic fibrosis, hepatic cirrhosis, liver injury (hepatic, cholestatic, and mixed), and liver failure.
 

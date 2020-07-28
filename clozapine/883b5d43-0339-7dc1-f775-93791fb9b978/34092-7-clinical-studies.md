@@ -13,7 +13,7 @@ Patients must have had a Clinical Global Impressions–Severity Scale score of a
 
 In the prospective, lead-in phase of the trial, all patients (N = 305) initially received single-blind treatment with haloperidol (the mean dose was 61 mg per day) for 6 weeks.
 More than 80% of patients completed the 6-week trial.
-Patients with an inadequate response to haloperidol (n = 268) were randomized to double-blind treatment with clozapine tablets (N = 126) or chlorpromazine (N = 142).
+Patients with an inadequate response to haloperidol (N = 268) were randomized to double-blind treatment with clozapine tablets (N = 126) or chlorpromazine (N = 142).
 The maximum daily clozapine tablets dose was 900 mg; the mean daily dose was > 600 mg.
 The maximum daily chlorpromazine dose was 1800 mg; the mean daily dose was > 1200 mg.
 
@@ -31,13 +31,13 @@ This was a prospective, randomized, open-label, active-controlled, multicenter, 
 Only about one-fourth of these patients (27%) were considered resistant to standard antipsychotic drug treatment.
 To enter the trial, patients must have met 1 of the following criteria:
 
-- •They had attempted suicide within the 3 years prior to their baseline evaluation.
-- •They had been hospitalized to prevent a suicide attempt within the 3 years prior to their baseline evaluation.
+- •They had attempted suicide within the three years prior to their baseline evaluation.
+- •They had been hospitalized to prevent a suicide attempt within the three years prior to their baseline evaluation.
 - •They demonstrated moderate-to-severe suicidal ideation with a depressive component within one week prior to their baseline evaluation.
 - •They demonstrated moderate-to-severe suicidal ideation accompanied by command hallucinations to do self-harm within one week prior to their baseline evaluation.
 
 Dosing regimens for each treatment group were determined by individual investigators and were individualized by patient.
-Dosing was flexible, with a dose range of 200 mg/day to 900 mg/day for clozapine tablets and 5 mg/day to 20 mg/day for olanzapine.
+Dosing was flexible, with a dose range of 200-900 mg/day for clozapine tablets and 5-20 mg/day for olanzapine.
 For the 956 patients who received clozapine tablets or olanzapine in this study, there was extensive use of concomitant psychotropics: 84% with antipsychotics, 65% with anxiolytics, 53% with antidepressants, and 28% with mood stabilizers.
 There was significantly greater use of concomitant psychotropic medications among the patients in the olanzapine group.
 
@@ -48,7 +48,7 @@ A total of 980 patients were randomized to the study and 956 received study medi
 Sixty-two percent of the patients were diagnosed with schizophrenia, and the remainder (38%) were diagnosed with schizoaffective disorder.
 Only about one-fourth of the total patient population (27%) was identified as “treatment-resistant” at baseline.
 There were more males than females in the study (61% of all patients were male).
-The mean age of patients entering the study was 37 years of age (range 18 to 69).
+The mean age of patients entering the study was 37 years of age (range 18-69).
 Most patients were Caucasian (71%), 15% were Black, 1% were Asian, and 13% were classified as being of “other” races.
 
 Patients treated with clozapine tablets had a statistically significant longer delay in the time to recurrent suicidal behavior in comparison with olanzapine.

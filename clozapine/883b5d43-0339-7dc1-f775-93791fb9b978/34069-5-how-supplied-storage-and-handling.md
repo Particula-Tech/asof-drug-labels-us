@@ -2,7 +2,7 @@
 
 ## 16.1 How Supplied
 
-Clozapine Tablets USP, 25 mg, 50 mg, 100 mg and 200 mg are available containing 25 mg, 50 mg, 100 mg, or 200 mg of clozapine, USP.
+Clozapine Tablets, USP are available containing 25 mg, 50 mg, 100 mg, or 200 mg of clozapine, USP.
 
 The 25 mg tablets are peach, round, scored tablets debossed with C to the left of the score and 7 to the right of the score on one side of the tablet and M on the other side.
 They are available as follows:
