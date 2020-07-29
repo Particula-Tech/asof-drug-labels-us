@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA208079"
+  ],
+  "inn": "betamethasone",
+  "labeler": "Encore Dermatology Inc.",
+  "package_ndcs": [
+    "69482-800-99"
+  ],
+  "products": [
+    {
+      "form": "Spray",
+      "generic": "betamethasone dipropionate",
+      "name": "Sernivo"
+    }
+  ],
+  "setid": "21ca2c66-4ad1-4b6a-9c81-77d89eeb9edd",
+  "source": "dailymed"
+}
