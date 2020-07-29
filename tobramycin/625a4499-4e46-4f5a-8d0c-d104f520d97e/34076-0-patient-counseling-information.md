@@ -2,7 +2,7 @@
 
 Advise the patient to read the FDA-approved patient labeling (Patient Information and Instructions for Use).
 
-Information for Patients
+Important Administration Information
 
 Information on the long-term efficacy and safety of TOBI Podhaler is limited.
 There is no information in patients with limited pulmonary reserve (FEV1 <25% predicted).
@@ -29,34 +29,28 @@ Caregivers should provide assistance to children using TOBI Podhaler (including 
 For patients taking several different inhaled medications and/or performing chest physiotherapy, advise the patient regarding the order in which they should take the therapies.
 It is recommended that TOBI Podhaler be taken last.
 
-Ototoxicity
+Difficulty Breathing:
 
-Inform patients that ototoxicity, as measured by complaints of hearing loss or tinnitus, was reported by patients in the TOBI Podhaler clinical studies.
-Physicians should consider an audiogram at baseline, particularly for patients at increased risk of auditory dysfunction.
-If a patient reports tinnitus or hearing loss during TOBI Podhaler therapy, the physician should refer that patient for audiological assessment.
+Advise patients to inform their physicians if they experience shortness of breath or wheezing after administration of Tobi Podhaler.
+Tobi Podhaler can cause a narrowing of the airway [see Warnings and Precautions (5.1)].
 
-Patients should be reminded that vestibular toxicity may manifest as vertigo, ataxia, or dizziness.
+Hearing Loss:
 
-Bronchospasm
+Advise patients to inform their physician if they experience ringing in the ears, dizziness, or any changes in hearing because Tobi Podhaler has been associated with hearing loss [see Warnings and Precautions (5.2)].
 
-Inform patients that bronchospasm can occur with inhalation of TOBI Podhaler.
+Kidney Damage:
 
-Risks Associated with Aminoglycosides
+Advise patients to inform their physician if they have any history of kidney problems because Tobi Podhaler is in a class of drugs that have caused kidney damage [see Warnings and Precautions (5.3)].
 
-Inform patients of adverse reactions associated with aminoglycosides such as nephrotoxicity and neuromuscular disorders.
+Embryo-Fetal Toxicity:
 
-Laboratory Tests
+Advise pregnant women that aminoglycosides can cause irreversible congenital deafness when administered to a pregnant woman [see Warnings and Precautions (5.5) and Use in Specific Populations (8.1)].
 
-Inform patients of the need to monitor hearing, serum concentrations of tobramycin, or renal function as necessary during treatment with TOBI Podhaler.
+Lactation:
 
-Pregnancy
+Advise a woman to monitor their breastfed infants for diarrhea and/or bloody stools [see Use in Specific Populations (8.2)].
 
-Inform patients that aminoglycosides can cause fetal harm when administered to a pregnant woman.
-Advise them to inform their doctor if they are pregnant, become pregnant, or plan to become pregnant.
-
-Cough
+Cough:
 
 Inform patients that cough was reported with the use of TOBI Podhaler in clinical trials.
 If coughing that may be experienced with TOBI Podhaler becomes bothersome or cannot be tolerated, advise patients that tobramycin inhalation solution or alternative therapeutic options may be considered.
-
-T2015-141 October 2015

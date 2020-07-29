@@ -36,8 +36,6 @@ The percentage of patients using new antipseudomonal antibiotics in Cycle 1 was 
 During the first cycle, 8.7% of TOBI Podhaler patients and 10.2% of placebo patients were treated with parenteral antipseudomonal antibiotics.
 In Cycle 1, two patients (4.4%) in the TOBI Podhaler treatment group required respiratory-related hospitalizations, compared with six patients (12.2%) in the placebo treatment group.
 
-Error bars represent the mean relative change (95% CI)
-
 Study 3
 
 Study 3 was a randomized, double-blind, placebo-controlled trial, similar in design to Study 2.

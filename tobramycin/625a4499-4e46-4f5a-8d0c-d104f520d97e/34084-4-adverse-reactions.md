@@ -26,7 +26,7 @@ Table 1: Adverse Reactions Reported in Study 1 (Occurring in ≥2% of TOBI Podha
 | --- | --- | --- |
 | Respiratory, thoracic, and mediastinal disorders |  |  |
 | Cough | 48.4 | 31.1 |
-| Lung disorder1 | 33.8 | 30.1 |
+| Lung disorderThis includes adverse events of pulmonary or cystic fibrosis exacerbations | 33.8 | 30.1 |
 | Productive cough | 18.2 | 19.6 |
 | Dyspnea | 15.6 | 12.4 |
 | Oropharyngeal pain | 14.0 | 10.5 |
@@ -58,7 +58,6 @@ Table 1: Adverse Reactions Reported in Study 1 (Occurring in ≥2% of TOBI Podha
 | Musculoskeletal chest pain | 4.5 | 4.8 |
 | Skin and subcutaneous tissue disorders |  |  |
 | Rash | 2.3 | 2.4 |
-| 1This includes adverse events of pulmonary or cystic fibrosis exacerbations |  |  |
 
 Adverse drug reactions that occurred in <2% of patients treated with TOBI Podhaler in Study 1 were: bronchospasm (TOBI Podhaler 1.6%, TOBI 0.5%); deafness including deafness unilateral (reported as mild to moderate hearing loss or increased hearing loss) (TOBI Podhaler 1.0%, TOBI 0.5%); and tinnitus (TOBI Podhaler 1.9%, TOBI 2.4%).
 
@@ -77,25 +76,17 @@ The patient population for these studies was much younger than in Study 1 (mean 
 
 Adverse drug reactions reported more frequently by TOBI Podhaler patients in the placebo-controlled cycle (Cycle 1) of Study 2, which included 46 TOBI Podhaler and 49 placebo patients, were:
 
-Respiratory, thoracic, and mediastinal disorders
+Respiratory, thoracic, and mediastinal disorders Pharyngolaryngeal pain (TOBI Podhaler 10.9%, placebo 0%); dysphonia (TOBI Podhaler 4.3%, placebo 0%)
 
-Pharyngolaryngeal pain (TOBI Podhaler 10.9%, placebo 0%); dysphonia (TOBI Podhaler 4.3%, placebo 0%)
-
-Gastrointestinal disorders
-
-Dysgeusia (TOBI Podhaler 6.5%, placebo 2.0%)
+Gastrointestinal disorders Dysgeusia (TOBI Podhaler 6.5%, placebo 2.0%)
 
 Adverse drug reactions reported more frequently by TOBI Podhaler patients in Study 3, which included 30 TOBI Podhaler and 32 placebo patients, were:
 
-Respiratory, thoracic, and mediastinal disorders
+Respiratory, thoracic, and mediastinal disorders Cough (TOBI Podhaler 10%, placebo 0%)
 
-Cough (TOBI Podhaler 10%, placebo 0%)
+Ear and labyrinth disorders Hypoacusis (TOBI Podhaler 10%, placebo 6.3%)
 
-Ear and labyrinth disorders
-
-Hypoacusis (TOBI Podhaler 10%, placebo 6.3%)
-
-Audiometric Assessment
+### Audiometric Assessment
 
 In Study 1, audiology testing was performed in a subset of approximately 25% of TOBI Podhaler (n=78) and TOBI (n=45) patients.
 Using the criteria for either ear of ≥10 dB loss at two consecutive frequencies, ≥20 dB loss at any frequency, or loss of response at three consecutive frequencies where responses were previously obtained, five TOBI Podhaler patients and three TOBI patients were judged to have ototoxicity, a ratio similar to the planned 3:2 randomization for this study.
@@ -106,7 +97,7 @@ In Study 3, three TOBI Podhaler and two placebo patients had reports of ‘hypoa
 One TOBI Podhaler and two placebo patients met the criteria for ototoxicity.
 In some patients, ototoxicity was transient or may have been related to a conductive defect.
 
-Cough
+### Cough
 
 Cough is a common symptom in cystic fibrosis, reported in 42% of the patients in Study 1 at baseline.
 Cough was the most frequently reported adverse event in Study 1 and was more common in the TOBI Podhaler arm (48% TOBI Podhaler versus 31 % TOBI).
