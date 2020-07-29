@@ -8,7 +8,6 @@ Ropivacaine Hydrochloride Injection, USP Single Dose Vials
 | 70069- 062 -25 | 0.2% (2 mg/mL) | 20 mL fill, in a 20 mL single dose vial, in packages of 25. |
 | 70069- 063 -25 | 0.5% (5 mg/mL) | 20 mL fill, in a 20 mL single dose vial, in packages of 25. |
 | 70069- 064 -01 | 0.5% (5 mg/mL) | 30 mL fill, in a 30 mL single dose vial, in packages of 1. |
-| 70069- 064 -05 | 0.5% (5 mg/mL) | 30 mL fill, in a 30 mL single dose vial, in packages of 5. |
 | 70069- 065 -25 | 0.75% (7.5 mg/mL) | 20 mL fill, in a 20 mL single dose vial, in packages of 25. |
 | 70069- 066 -25 | 1% (10 mg/mL) | 10 mL fill, in a 10 mL single dose vial, in packages of 25. |
 | 70069- 067 -25 | 1% (10 mg/mL) | 20 mL fill, in a 20 mL single dose vial, in packages of 25. |
@@ -34,22 +33,16 @@ In addition, continuous infusion bottles should not be left in place for more th
 
 For Product Inquiry call 1-800-417-9175.
 
-Manufactured By:
-
-Wintac Limited
-
-Bangalore 562123
-
-India.
-
-Code No.: KR/DRUGS/KTK/28/289/97
-
 Manufactured for:
 
 Somerset Therapeutics, LLC
 
-Somerset, NJ 08873
+Hollywood, FL 33024
 
-ST-ROP/P/00
+Made in India
 
-Issued: March, 2018
+Code No.: KR/DRUGS/KTK/28/289/97
+
+ST-ROP/P/001
+
+Revised: December, 2019

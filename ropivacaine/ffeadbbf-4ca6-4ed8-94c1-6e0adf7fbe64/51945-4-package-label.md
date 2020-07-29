@@ -44,8 +44,6 @@ Container label
 
 Carton label (Monocarton)
 
-Carton label (Pack of 5's)
-
 150 mg/20 mL (7.5 mg/mL)
 
 20 mL Fill Volume
