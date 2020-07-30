@@ -14,7 +14,7 @@ DOSE PACK CONTENTS:
 
 - One 12.5 mg vial of risperidone extended-release microspheres for injection
 - One pre-filled syringe containing 2 mL of diluent
-- One West-Medimop Vial Adapter®
+- One Vial Adapter
 - One 21-gauge UTW 1" Terumo SurGuard® 3 safety needle for deltoid injection
 - One 20-gauge TW 2" Terumo SurGuard® 3 safety needle for gluteal injection
 
@@ -40,7 +40,7 @@ DOSE PACK CONTENTS:
 
 - One 25 mg vial of risperidone extended-release microspheres for injection
 - One pre-filled syringe containing 2 mL of diluent
-- One West-Medimop Vial Adapter®
+- One Vial Adapter
 - One 21-gauge UTW 1" Terumo SurGuard® 3 safety needle for deltoid injection
 - One 20-gauge TW 2" Terumo SurGuard® 3 safety needle for gluteal injection
 
@@ -66,7 +66,7 @@ DOSE PACK CONTENTS:
 
 - One 37.5 mg vial of risperidone extended-release microspheres for injection
 - One pre-filled syringe containing 2 mL of diluent
-- One West-Medimop Vial Adapter®
+- One Vial Adapter
 - One 21-gauge UTW 1" Terumo SurGuard® 3 safety needle for deltoid injection
 - One 20-gauge TW 2" Terumo SurGuard® 3 safety needle for gluteal injection
 
@@ -92,7 +92,7 @@ DOSE PACK CONTENTS:
 
 - One 50 mg vial of risperidone extended-release microspheres for injection
 - One pre-filled syringe containing 2 mL of diluent
-- One West-Medimop Vial Adapter®
+- One Vial Adapter
 - One 21-gauge UTW 1" Terumo SurGuard® 3 safety needle for deltoid injection
 - One 20-gauge TW 2" Terumo SurGuard® 3 safety needle for gluteal injection
 
