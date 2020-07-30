@@ -89,14 +89,14 @@ There are no significant differences in levofloxacin pharmacokinetics between yo
 Following a 500 mg oral dose of levofloxacin to healthy elderly subjects (66 to 80 years of age), the mean terminal plasma elimination half-life of levofloxacin was about 7.6 hours, as compared to approximately 6 hours in younger adults.
 The difference was attributable to the variation in renal function status of the subjects and was not believed to be clinically significant.
 Drug absorption appears to be unaffected by age.
-Levofloxacin dose adjustment based on age alone is not necessary [see USE IN SPECIFIC POPULATIONS (8.5)].
+Levofloxacin dose adjustment based on age alone is not necessary [see Use In Specific Populations (8.5)].
 
 Pediatric Patients:
 
 The pharmacokinetics of levofloxacin following a single 7 mg/kg intravenous dose were investigated in pediatric patients ranging in age from 6 months to 16 years.
 Pediatric patients cleared levofloxacin faster than adult patients, resulting in lower plasma exposures than adults for a given mg/kg dose.
 Subsequent pharmacokinetic analyses predicted that a dosage regimen of 8 mg/kg every 12 hours (not to exceed 250 mg per dose) for pediatric patients 6 months to 17 years of age would achieve comparable steady state plasma exposures (AUC0-24 and Cmax) to those observed in adult patients administered 500 mg of levofloxacin once every 24 hours.
-Levofloxacin tablets can only be administered to pediatric patients with inhalational anthrax (post-exposure) or plague who are 30 kg or greater due to the limitations of the available strengths [see DOSAGE AND ADMINISTRATION (2.2)].
+Levofloxacin tablets can only be administered to pediatric patients with inhalational anthrax (post-exposure) or plague who are 30 kg or greater due to the limitations of the available strengths [see Dosage And Administration (2.2)].
 
 Male and Female Subjects:
 
@@ -116,12 +116,12 @@ Patients with Renal Impairment:
 Clearance of levofloxacin is substantially reduced and plasma elimination half-life is substantially prolonged in adult patients with impaired renal function (creatinine clearance
 
 < 50 mL/min), requiring dosage adjustment in such patients to avoid accumulation.
-Neither hemodialysis nor continuous ambulatory peritoneal dialysis (CAPD) is effective in removal of levofloxacin from the body, indicating that supplemental doses of levofloxacin are not required following hemodialysis or CAPD [see DOSAGE AND ADMINISTRATION (2.3) and USE IN SPECIFIC POPULATIONS (8.6)].
+Neither hemodialysis nor continuous ambulatory peritoneal dialysis (CAPD) is effective in removal of levofloxacin from the body, indicating that supplemental doses of levofloxacin are not required following hemodialysis or CAPD [see Dosage And Administration (2.3) and Use In Specific Populations (8.6)].
 
 Patients with Hepatic Impairment:
 
 Pharmacokinetic studies in hepatically impaired patients have not been conducted.
-Due to the limited extent of levofloxacin metabolism, the pharmacokinetics of levofloxacin are not expected to be affected by hepatic impairment [see USE IN SPECIFIC POPULATIONS (8.7)].
+Due to the limited extent of levofloxacin metabolism, the pharmacokinetics of levofloxacin are not expected to be affected by hepatic impairment [see Use In Specific Populations (8.7)].
 
 Patients with Bacterial Infection:
 
@@ -129,7 +129,7 @@ The pharmacokinetics of levofloxacin in patients with serious community-acquired
 
 Drug Interaction Studies
 
-The potential for pharmacokinetic drug interactions between levofloxacin and antacids, warfarin, theophylline, cyclosporine, digoxin, probenecid, and cimetidine has been evaluated [see DRUG INTERACTIONS (7)].
+The potential for pharmacokinetic drug interactions between levofloxacin and antacids, warfarin, theophylline, cyclosporine, digoxin, probenecid, and cimetidine has been evaluated [see Drug Interactions (7)].
 
 ## 12.4 Microbiology
 
@@ -153,7 +153,7 @@ Antimicrobial Activity
 
 Levofloxacin has in vitro activity against Gram-negative and Gram-positive bacteria.
 
-Levofloxacin has been shown to be active against most isolates of the following bacteria both in vitro and in clinical infections as described in INDICATIONS AND USAGE (1):
+Levofloxacin has been shown to be active against most isolates of the following bacteria both in vitro and in clinical infections as described in Indications and Usage (1):
 
 Aerobic bacteria
 

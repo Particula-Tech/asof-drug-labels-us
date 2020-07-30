@@ -31,13 +31,13 @@ Inform patients of the following serious adverse reactions that have been associ
 - Prolongation of the QT Interval: Instruct patients to inform their physician of any personal or family history of QT prolongation or proarrhythmic conditions such as hypokalemia, bradycardia, or recent myocardial ischemia; if they are taking any Class IA (quinidine, procainamide), or Class III (amiodarone, sotalol) antiarrhythmic agents.
   Instruct patients to notify their physician if they have any symptoms of prolongation of the QT interval, including prolonged heart palpitations or a loss of consciousness.
 - Musculoskeletal Disorders in Pediatric Patients: Instruct parents to inform their child's physician if the child has a history of joint-related problems before taking this drug.
-  Inform parents of pediatric patients to notify their child's physician of any joint-related problems that occur during or following levofloxacin therapy [see WARNINGS AND PRECAUTIONS (5.12) and USE IN SPECIFIC POPULATIONS (8.4)].
+  Inform parents of pediatric patients to notify their child's physician of any joint-related problems that occur during or following levofloxacin therapy [see Warnings and Precautions (5.12) and Use in Specific Populations (8.4)].
 - Photosensitivity/Phototoxicity: Inform patients that photosensitivity/phototoxicity has been reported in patients receiving fluoroquinolones.
   Inform patients to minimize or avoid exposure to natural or artificial sunlight (tanning beds or UVA/B treatment) while taking fluoroquinolones.
   If patients need to be outdoors while using fluoroquinolones, instruct them to wear loose-fitting clothes that protect skin from sun exposure and discuss other sun protection measures with their physician.
   If a sunburn-like reaction or skin eruption occurs, instruct patients to contact their physician.
 - Lactation: Advise a lactating woman that she may pump and discard during treatment with levofloxacin tablets and for an additional 2 days after the last dose.
-  Alternatively, advise a lactating woman that breastfeeding is not recommended during treatment with levofloxacin tablets and for an additional 2 days after the last dose [see USE IN SPECIFIC POPULATIONS (8.2)].
+  Alternatively, advise a lactating woman that breastfeeding is not recommended during treatment with levofloxacin tablets and for an additional 2 days after the last dose [see Use in Specific Populations (8.2)].
 
 Antibacterial Resistance
 
@@ -83,4 +83,4 @@ Goa 403 722
 
 INDIA.
 
-Revised: July 2020 ID#: 261776
+Revised: August 2020 ID#: 261776

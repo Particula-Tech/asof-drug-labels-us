@@ -146,6 +146,7 @@ Before you take levofloxacin tablets, tell your healthcare provider about all of
   Levofloxacin passes into your breast milk.
   You should not breastfeed during treatment with levofloxacin and for 2 days after taking your last dose of levofloxacin.
   You may pump your breast milk and throw it away during treatment with levofloxacin and for 2 days after taking your last dose of levofloxacin.
+  If you are taking levofloxacin for inhalational anthrax, you and your healthcare provider should decide whether you can continue breastfeeding while taking levofloxacin.
 
 Tell your healthcare provider about all the medicines you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements.
 
@@ -367,4 +368,4 @@ INDIA.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Revised: July 2020 ID#: 261775
+Revised: August 2020 ID#: 261775

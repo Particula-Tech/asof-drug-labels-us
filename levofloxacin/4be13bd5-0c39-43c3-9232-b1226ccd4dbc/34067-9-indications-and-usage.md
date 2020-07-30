@@ -4,21 +4,21 @@
 
 Levofloxacin tablets USP are indicated in adult patients for the treatment of nosocomial pneumonia due to methicillin-susceptible Staphylococcus aureus, Pseudomonas aeruginosa, Serratia marcescens, Escherichia coli, Klebsiella pneumoniae, Haemophilus influenzae, or Streptococcus pneumoniae.
 Adjunctive therapy should be used as clinically indicated.
-Where Pseudomonas aeruginosa is a documented or presumptive pathogen, combination therapy with an anti-pseudomonal β-lactam is recommended [see CLINICAL STUDIES (14.1)].
+Where Pseudomonas aeruginosa is a documented or presumptive pathogen, combination therapy with an anti-pseudomonal β-lactam is recommended [see Clinical Studies (14.1)].
 
 ## 1.2 Community-Acquired Pneumonia: 7 to 14 day Treatment Regimen
 
-Levofloxacin tablets USP are indicated in adult patients for the treatment of community-acquired pneumonia due to methicillin-susceptible Staphylococcus aureus, Streptococcus pneumoniae (including multi-drug-resistant Streptococcus pneumoniae [MDRSP]), Haemophilus influenzae, Haemophilus parainfluenzae, Klebsiella pneumoniae, Moraxella catarrhalis, Chlamydophila pneumoniae, Legionella pneumophila, or Mycoplasma pneumoniae [see DOSAGE AND ADMINISTRATION (2.1) and CLINICAL STUDIES (14.2)].
+Levofloxacin tablets USP are indicated in adult patients for the treatment of community-acquired pneumonia due to methicillin-susceptible Staphylococcus aureus, Streptococcus pneumoniae (including multi-drug-resistant Streptococcus pneumoniae [MDRSP]), Haemophilus influenzae, Haemophilus parainfluenzae, Klebsiella pneumoniae, Moraxella catarrhalis, Chlamydophila pneumoniae, Legionella pneumophila, or Mycoplasma pneumoniae [see Dosage and Administration (2.1) and Clinical Studies (14.2)].
 
 MDRSP isolates are isolates resistant to two or more of the following antibacterials: penicillin (MIC ≥2 mcg/mL), 2nd generation cephalosporins, e.g., cefuroxime, macrolides, tetracyclines and trimethoprim/sulfamethoxazole.
 
 ## 1.3 Community-Acquired Pneumonia: 5-day Treatment Regimen
 
-Levofloxacin tablets USP are indicated in adult patients for the treatment of community-acquired pneumonia due to Streptococcus pneumoniae (excluding multi-drug-resistant isolates [MDRSP]), Haemophilus influenzae, Haemophilus parainfluenzae, Mycoplasma pneumoniae, or Chlamydophila pneumoniae [see DOSAGE AND ADMINISTRATION (2.1) and CLINICAL STUDIES (14.3)].
+Levofloxacin tablets USP are indicated in adult patients for the treatment of community-acquired pneumonia due to Streptococcus pneumoniae (excluding multi-drug-resistant isolates [MDRSP]), Haemophilus influenzae, Haemophilus parainfluenzae, Mycoplasma pneumoniae, or Chlamydophila pneumoniae [see Dosage and Administration (2.1) and Clinical Studies (14.3)].
 
 ## 1.4 Complicated Skin and Skin Structure Infections
 
-Levofloxacin tablets USP are indicated in adult patients for the treatment of complicated skin and skin structure infections due to methicillin-susceptible Staphylococcus aureus, Enterococcus faecalis, Streptococcus pyogenes, or Proteus mirabilis [see CLINICAL STUDIES (14.5)].
+Levofloxacin tablets USP are indicated in adult patients for the treatment of complicated skin and skin structure infections due to methicillin-susceptible Staphylococcus aureus, Enterococcus faecalis, Streptococcus pyogenes, or Proteus mirabilis [see Clinical Studies (14.5)].
 
 ## 1.5 Uncomplicated Skin and Skin Structure Infections
 
@@ -26,53 +26,53 @@ Levofloxacin tablets USP are indicated in adult patients for the treatment of un
 
 ## 1.6 Dosage of Levofloxacin Tablets
 
-Levofloxacin tablets USP are indicated in adult patients for the treatment of chronic bacterial prostatitis due to Escherichia coli, Enterococcus faecalis, or methicillin-susceptible Staphylococcus epidermidis [see CLINICAL STUDIES (14.6)].
+Levofloxacin tablets USP are indicated in adult patients for the treatment of chronic bacterial prostatitis due to Escherichia coli, Enterococcus faecalis, or methicillin-susceptible Staphylococcus epidermidis [see Clinical Studies (14.6)].
 
 ## 1.7 Inhalational Anthrax (Post-Exposure)
 
-Levofloxacin tablets USP are indicated for inhalational anthrax (post-exposure) to reduce the incidence or progression of disease following exposure to aerosolized Bacillus anthracis in adults and pediatric patients, 6 months of age and older [see DOSAGE AND ADMINISTRATION (2.2)].
+Levofloxacin tablets USP are indicated for inhalational anthrax (post-exposure) to reduce the incidence or progression of disease following exposure to aerosolized Bacillus anthracis in adults and pediatric patients, 6 months of age and older [see Dosage and Administration (2.2)].
 The effectiveness of levofloxacin is based on plasma concentrations achieved in humans, a surrogate endpoint reasonably likely to predict clinical benefit.
 
 Levofloxacin has not been tested in humans for the post-exposure prevention of inhalation anthrax.
 The safety of levofloxacin in adults for durations of therapy beyond 28 days or in pediatric patients for durations of therapy beyond 14 days has not been studied.
-Prolonged levofloxacin therapy should only be used when the benefit outweighs the risk [see CLINICAL STUDIES (14.9)].
+Prolonged levofloxacin therapy should only be used when the benefit outweighs the risk [see Clinical Studies (14.9)].
 
 ## 1.8 Plague
 
-Levofloxacin tablets USP are indicated for treatment of plague, including pneumonic and septicemic plague, due to Yersinia pestis (Y. pestis) and prophylaxis for plague in adults and pediatric patients, 6 months of age and older [see DOSAGE AND ADMINISTRATION (2.2)].
+Levofloxacin tablets USP are indicated for treatment of plague, including pneumonic and septicemic plague, due to Yersinia pestis (Y. pestis) and prophylaxis for plague in adults and pediatric patients, 6 months of age and older [see Dosage and Administration (2.2)].
 
 Efficacy studies of levofloxacin could not be conducted in humans with plague for ethical and feasibility reasons.
-Therefore, approval of this indication was based on an efficacy study conducted in animals [see CLINICAL STUDIES (14.10)].
+Therefore, approval of this indication was based on an efficacy study conducted in animals [see Clinical Studies (14.10)].
 
 ## 1.9 Complicated Urinary Tract Infections: 5-day Treatment Regimen
 
-Levofloxacin tablets USP are indicated in adult patients for the treatment of complicated urinary tract infections due to Escherichia coli, Klebsiella pneumoniae, or Proteus mirabilis [see CLINICAL STUDIES (14.7)].
+Levofloxacin tablets USP are indicated in adult patients for the treatment of complicated urinary tract infections due to Escherichia coli, Klebsiella pneumoniae, or Proteus mirabilis [see Clinical Studies (14.7)].
 
 ## 1.10 Complicated Urinary Tract Infections: 10-day Treatment Regimen
 
-Levofloxacin tablets USP are indicated in adult patients for the treatment of complicated urinary tract infections (mild to moderate) due to Enterococcus faecalis, Enterobacter cloacae, Escherichia coli, Klebsiella pneumoniae, Proteus mirabilis, or Pseudomonas aeruginosa [see CLINICAL STUDIES (14.8)].
+Levofloxacin tablets USP are indicated in adult patients for the treatment of complicated urinary tract infections (mild to moderate) due to Enterococcus faecalis, Enterobacter cloacae, Escherichia coli, Klebsiella pneumoniae, Proteus mirabilis, or Pseudomonas aeruginosa [see Clinical Studies (14.8)].
 
 ## 1.11 Acute Pyelonephritis: 5 or 10-day Treatment Regimen
 
-Levofloxacin tablets USP are indicated in adult patients for the treatment of acute pyelonephritis caused by Escherichia coli, including cases with concurrent bacteremia [see CLINICAL STUDIES (14.7, 14.8)].
+Levofloxacin tablets USP are indicated in adult patients for the treatment of acute pyelonephritis caused by Escherichia coli, including cases with concurrent bacteremia [see Clinical Studies (14.7, 14.8)].
 
 ## 1.12 Uncomplicated Urinary Tract Infections
 
 Levofloxacin tablets USP are indicated in adult patients for the treatment of uncomplicated urinary tract infections (mild to moderate) due to Escherichia coli, Klebsiella pneumoniae, or Staphylococcus saprophyticus.
 
-Because fluoroquinolones, including levofloxacin, have been associated with serious adverse reactions [see WARNINGS AND PRECAUTIONS (5.1 to 5.14)] and for some patients uncomplicated urinary tract infection is self-limiting, reserve levofloxacin for treatment of uncomplicated urinary tract infections in patients who have no alternative treatment options.
+Because fluoroquinolones, including levofloxacin, have been associated with serious adverse reactions [see Warnings and Precautions (5.1 to 5.15)] and for some patients uncomplicated urinary tract infection is self-limiting, reserve levofloxacin for treatment of uncomplicated urinary tract infections in patients who have no alternative treatment options.
 
 ## 1.13 Acute Bacterial Exacerbation of Chronic Bronchitis
 
 Levofloxacin tablets USP are indicated in adult patients for the treatment of acute bacterial exacerbation of chronic bronchitis (ABECB) due to methicillin-susceptible Staphylococcus aureus, Streptococcus pneumoniae, Haemophilus influenzae, Haemophilus parainfluenzae, or Moraxella catarrhalis.
 
-Because fluoroquinolones, including levofloxacin, have been associated with serious adverse reactions [see WARNINGS AND PRECAUTIONS (5.1 to 5.15)] and for some patients ABECB is self-limiting, reserve levofloxacin for treatment of ABECB in patients who have no alternative treatment options.
+Because fluoroquinolones, including levofloxacin, have been associated with serious adverse reactions [see Warnings and Precautions (5.1 to 5.15)] and for some patients ABECB is self-limiting, reserve levofloxacin for treatment of ABECB in patients who have no alternative treatment options.
 
 ## 1.14 Acute Bacterial Sinusitis: 5-day and 10 to 14 day Treatment Regimens
 
-Levofloxacin tablets USP are indicated in adult patients for the treatment of acute bacterial sinusitis (ABS) due to Streptococcus pneumoniae, Haemophilus influenzae, or Moraxella catarrhalis [see CLINICAL STUDIES (14.4)].
+Levofloxacin tablets USP are indicated in adult patients for the treatment of acute bacterial sinusitis (ABS) due to Streptococcus pneumoniae, Haemophilus influenzae, or Moraxella catarrhalis [see Clinical Studies (14.4)].
 
-Because fluoroquinolones, including levofloxacin, have been associated with serious adverse reactions [see WARNINGS AND PRECAUTIONS (5.1 to 5.15)] and for some patients ABS is self-limiting, reserve levofloxacin for treatment of ABS in patients who have no alternative treatment options.
+Because fluoroquinolones, including levofloxacin, have been associated with serious adverse reactions [see Warnings and Precautions (5.1 to 5.15)] and for some patients ABS is self-limiting, reserve levofloxacin for treatment of ABS in patients who have no alternative treatment options.
 
 ## 1.15 Usage
 

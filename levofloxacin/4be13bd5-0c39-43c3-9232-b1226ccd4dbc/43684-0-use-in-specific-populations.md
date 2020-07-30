@@ -29,8 +29,11 @@ Risk Summary
 
 Published literature reports that levofloxacin is present in human milk following intravenous and oral administration (see Data).
 There is no information regarding effects of levofloxacin on milk production or the breastfed infant.
-Because of the potential risks of serious adverse reactions, in breastfed infants, a lactating woman may consider pumping and discarding breast milk during treatment with levofloxacin and an additional two days (five half-lives) after the last dose.
-Alternatively, advise a lactating woman that breastfeeding is not recommended during treatment with levofloxacin and for an additional two days (five half-lives) after the last dose [see USE IN SPECIFIC POPULATIONS (8.4) and CLINICAL PHARMACOLOGY (12.3)].
+Because of the potential risks of serious adverse reactions, in breastfed infants, for most indications, a lactating woman may consider pumping and discarding breast milk during treatment with levofloxacin and an additional two days (five half-lives) after the last dose.
+Alternatively, advise a lactating woman that breastfeeding is not recommended during treatment with levofloxacin and for an additional two days (five half-lives) after the last dose [see Use in Specific Populations (8.4) and Clinical Pharmacology (12.3)].
+
+However, for inhalation anthrax (post exposure), during an incident resulting in exposure to anthrax, the risk-benefit assessment of continuing breastfeeding while the mother (and potentially the infant) is (are) on levofloxacin may be acceptable [see Dosage and Administration (2.2), Pediatric Use (8.4), and Clinical Studies (14.2)].
+The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for levofloxacin and any potential adverse effects on the breastfed child from levofloxacin or from the underlying maternal condition.
 
 Data
 
@@ -41,27 +44,27 @@ The above data come from a single case and may not be generalizable to the gener
 ## 8.4 Pediatric Use
 
 Quinolones, including levofloxacin, cause arthropathy and osteochondrosis in juvenile animals of several species.
-[see WARNINGS AND PRECAUTIONS (5.11) and Animal Toxicology and/or Pharmacology (13.2)].
+[see Warnings and Precautions (5.12) and Animal Toxicology and/or Pharmacology (13.2)].
 
 Inhalational Anthrax (Post-Exposure)
 
 Levofloxacin is indicated in pediatric patients 6 months of age and older, for inhalational anthrax (post-exposure).
 The risk-benefit assessment indicates that administration of levofloxacin to pediatric patients is appropriate.
-The safety of levofloxacin in pediatric patients treated for more than 14 days has not been studied [see INDICATIONS AND USAGE (1.7), DOSAGE AND ADMINISTRATION (2.2) and CLINICAL STUDIES (14.9)].
+The safety of levofloxacin in pediatric patients treated for more than 14 days has not been studied [see Indications and Usage (1.7), Dosage and Administration (2.2) and Clinical Studies (14.9)].
 
 Plague
 
 Levofloxacin is indicated in pediatric patients, 6 months of age and older, for treatment of plague, including pneumonic and septicemic plague due to Yersinia pestis (Y. pestis) and prophylaxis for plague.
 Efficacy studies of levofloxacin could not be conducted in humans with pneumonic plague for ethical and feasibility reasons.
 Therefore, approval of this indication was based on an efficacy study conducted in animals.
-The risk-benefit assessment indicates that administration of levofloxacin to pediatric patients is appropriate [see INDICATIONS AND USAGE (1.8), DOSAGE AND ADMINISTRATION (2.2) and CLINICAL STUDIES (14.10)].
+The risk-benefit assessment indicates that administration of levofloxacin to pediatric patients is appropriate [see Indications and Usage (1.8), Dosage and Administration (2.2) and Clinical Studies (14.10)].
 
 Safety and effectiveness of levofloxacin in pediatric patients below the age of six months have not been established.
 
 Pharmacokinetics following intravenous administration
 
 The pharmacokinetics of levofloxacin following a single intravenous dose were investigated in pediatric patients ranging in age from six months to 16 years.
-Pediatric patients cleared levofloxacin faster than adult patients resulting in lower plasma exposures than adults for a given mg/kg dose [see CLINICAL PHARMACOLOGY (12.3) and CLINICAL STUDIES (14.9)].
+Pediatric patients cleared levofloxacin faster than adult patients resulting in lower plasma exposures than adults for a given mg/kg dose [see Clinical Pharmacology (12.3) and Clinical Studies (14.9)].
 
 Dosage in Pediatric Patients with Inhalational Anthrax or Plague
 
@@ -73,11 +76,11 @@ Adverse Reactions
 
 In clinical trials, 1534 pediatric patients (6 months to 16 years of age) were treated with oral and intravenous levofloxacin.
 Pediatric patients 6 months to 5 years of age received levofloxacin 10 mg/kg twice a day and pediatric patients greater than 5 years of age received 10 mg/kg once a day (maximum 500 mg per day) for approximately 10 days.
-Levofloxacin tablets can only be administered to pediatric patients with inhalational anthrax (post-exposure) or plague who are 30 kg or greater due to the limitations of the available strengths [see DOSAGE AND ADMINISTRATION (2.2)].
+Levofloxacin tablets can only be administered to pediatric patients with inhalational anthrax (post-exposure) or plague who are 30 kg or greater due to the limitations of the available strengths [see Dosage and Administration (2.2)].
 
 A subset of pediatric patients in the clinical trials (1340 levofloxacin-treated and 893 non-fluoroquinolone-treated) enrolled in a prospective, long-term surveillance study to assess the incidence of protocol-defined musculoskeletal disorders (arthralgia, arthritis, tendinopathy, gait abnormality) during 60 days and 1 year following the first dose of the study drug.
 Pediatric patients treated with levofloxacin had a significantly higher incidence of musculoskeletal disorders when compared to the non-fluoroquinolone-treated children as illustrated in Table 7.
-Levofloxacin tablets can only be administered to pediatric patients with inhalational anthrax (post-exposure) or plague who are 30 kg or greater due to the limitations of the available strengths [see DOSAGE AND ADMINISTRATION (2.2)].
+Levofloxacin tablets can only be administered to pediatric patients with inhalational anthrax (post-exposure) or plague who are 30 kg or greater due to the limitations of the available strengths [see Dosage and Administration (2.2)].
 
 Table 7: Incidence of Musculoskeletal Disorders in Pediatric Clinical Trial
 
@@ -94,7 +97,7 @@ No pediatric patient had a severe or serious disorder and all musculoskeletal di
 
 Vomiting and diarrhea were the most frequently reported adverse reactions, occurring in similar frequency in the levofloxacin-treated and non-fluoroquinolone-treated pediatric patients.
 
-In addition to the adverse reactions reported in pediatric patients in clinical trials, adverse reactions reported in adults during clinical trials or post-marketing experience [see ADVERSE REACTIONS (6)] may also be expected to occur in pediatric patients.
+In addition to the adverse reactions reported in pediatric patients in clinical trials, adverse reactions reported in adults during clinical trials or post-marketing experience [see Adverse Reactions (6)] may also be expected to occur in pediatric patients.
 
 ## 8.5 Geriatric Use
 
@@ -102,7 +105,7 @@ Geriatric patients are at increased risk for developing severe tendon disorders 
 This risk is further increased in patients receiving concomitant corticosteroid therapy.
 Tendinitis or tendon rupture can involve the Achilles, hand, shoulder, or other tendon sites and can occur during or after completion of therapy; cases occurring up to several months after fluoroquinolone treatment have been reported.
 Caution should be used when prescribing levofloxacin to elderly patients especially those on corticosteroids.
-Patients should be informed of this potential side effect and advised to discontinue levofloxacin and contact their healthcare provider if any symptoms of tendinitis or tendon rupture occur [see BOXED WARNING; WARNINGS AND PRECAUTIONS (5.2); and ADVERSE REACTIONS (6.2)].
+Patients should be informed of this potential side effect and advised to discontinue levofloxacin and contact their healthcare provider if any symptoms of tendinitis or tendon rupture occur [see Boxed Warning; Warnings and Precautions (5.2); and Adverse Reactions (6.2)].
 
 In Phase 3 clinical trials, 1,945 levofloxacin-treated patients (26%) were ≥ 65 years of age.
 Of these, 1,081 patients (14%) were between the ages of 65 and 74 and 864 patients (12%) were 75 years or older.
@@ -110,21 +113,21 @@ No overall differences in safety or effectiveness were observed between these su
 
 Severe, and sometimes fatal, cases of hepatotoxicity have been reported post-marketing in association with levofloxacin.
 The majority of fatal hepatotoxicity reports occurred in patients 65 years of age or older and most were not associated with hypersensitivity.
-Levofloxacin should be discontinued immediately if the patient develops signs and symptoms of hepatitis [see WARNINGS AND PRECAUTIONS (5.8)].
+Levofloxacin should be discontinued immediately if the patient develops signs and symptoms of hepatitis [see Warnings and Precautions (5.8)].
 
-Epidemiologic studies report an increased rate of aortic aneurysm and dissection within two months following use of fluoroquinolones, particularly in elderly patients [see WARNINGS AND PRECAUTIONS (5.9)].
+Epidemiologic studies report an increased rate of aortic aneurysm and dissection within two months following use of fluoroquinolones, particularly in elderly patients [see Warnings and Precautions (5.9)].
 
 Elderly patients may be more susceptible to drug-associated effects on the QT interval.
-Therefore, precaution should be taken when using levofloxacin tablets with concomitant drugs that can result in prolongation of the QT interval (e.g., Class IA or Class III antiarrhythmics) or in patients with risk factors for torsade de pointes (e.g., known QT prolongation, uncorrected hypokalemia) [see WARNINGS AND PRECAUTIONS (5.11)].
+Therefore, precaution should be taken when using levofloxacin tablets with concomitant drugs that can result in prolongation of the QT interval (e.g., Class IA or Class III antiarrhythmics) or in patients with risk factors for torsade de pointes (e.g., known QT prolongation, uncorrected hypokalemia) [see Warnings and Precautions (5.11)].
 
 The pharmacokinetic properties of levofloxacin in younger adults and elderly adults do not differ significantly when creatinine clearance is taken into consideration.
 However, since the drug is known to be substantially excreted by the kidney, the risk of toxic reactions to this drug may be greater in patients with impaired renal function.
-Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection, and it may be useful to monitor renal function [see CLINICAL PHARMACOLOGY (12.3)].
+Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection, and it may be useful to monitor renal function [see Clinical Pharmacology (12.3)].
 
 ## 8.6 Renal Impairment
 
 Clearance of levofloxacin is substantially reduced and plasma elimination half-life is substantially prolonged in patients with renal impairment (creatinine clearance < 50 mL/min), requiring dosage adjustment in such patients to avoid accumulation.
-Neither hemodialysis nor continuous ambulatory peritoneal dialysis (CAPD) is effective in removal of levofloxacin from the body, indicating that supplemental doses of levofloxacin are not required following hemodialysis or CAPD [see DOSAGE AND ADMINISTRATION (2.3)].
+Neither hemodialysis nor continuous ambulatory peritoneal dialysis (CAPD) is effective in removal of levofloxacin from the body, indicating that supplemental doses of levofloxacin are not required following hemodialysis or CAPD [see Dosage and Administration (2.3)].
 
 ## 8.7 Hepatic Impairment
 
