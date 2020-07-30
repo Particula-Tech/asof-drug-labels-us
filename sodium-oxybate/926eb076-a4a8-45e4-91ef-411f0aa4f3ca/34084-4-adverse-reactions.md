@@ -39,7 +39,7 @@ Nearly all patients in these studies initiated treatment at 4.5 g per night.
 In patients who remained on treatment, adverse reactions tended to occur early and to diminish over time.
 Table 4 Adverse Reactions Occurring in ≥2% of Adult Patients and More Frequently with Xyrem than Placebo in Three Controlled Trials (N1, N3, N4) by Body System and Dose at Onset
 
-| System Organ Class/Adverse Reactions | Placebo (n=213) % | Xyrem 4.5 g (n=185) % | Xyrem 6 g (n=258) % | Xyrem 9 g (n=178) % |
+| System Organ Class/Adverse Reactions | Placebo (n=213) % | Xyrem 4.5g (n=185) % | Xyrem 6g (n=258) % | Xyrem 9g (n=178) % |
 | --- | --- | --- | --- | --- |
 | ANY ADVERSE REACTION | 62 | 45 | 55 | 70 |
 | GASTROINTESTINAL DISORDERS |  |  |  |  |
@@ -67,7 +67,7 @@ Table 4 Adverse Reactions Occurring in ≥2% of Adult Patients and More Frequent
 | Disorientation | 1 | 1 | 2 | 3 |
 | Anxiety | 1 | 1 | 1 | 2 |
 | Irritability | 1 | 0 | <1 | 3 |
-| Sleep walking | 0 | 0 | 0 | 3 |
+| Sleepwalking | 0 | 0 | 0 | 3 |
 | RENAL AND URINARY DISORDERS |  |  |  |  |
 | Enuresis | 1 | 3 | 3 | 7 |
 | SKIN AND SUBCUTANEOUS TISSUE DISORDERS |  |  |  |  |
@@ -90,7 +90,7 @@ In the pediatric clinical trial, 5 of 104 patients reported adverse reactions th
 
 Adverse Reactions in the Pediatric Clinical Trial
 
-The most common adverse reactions (≥5%) were enuresis (18%), nausea (17%), headache (16%), vomiting (16%), weight decreased (12%), decreased appetite (8%), and dizziness (6%).
+The most common adverse reactions (>5%) were enuresis (18%), nausea (17%), headache (16%), vomiting (16%), weight decreased (12%), decreased appetite (8%), and dizziness (6%).
 
 Additional information regarding safety in pediatric patients appears in the following sections:
 
@@ -106,4 +106,5 @@ The overall adverse reaction profile of Xyrem in the pediatric clinical trial wa
 The following adverse reactions have been identified during postapproval use of Xyrem.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure:
 
-1. arthralgia, decreased appetite, fall, fluid retention, hangover, headache, hypersensitivity, hypertension, memory impairment, nocturia, panic attack, vision blurred, and weight decreased.
+1. arthralgia, decreased appetite, fall*, fluid retention, hangover, headache, hypersensitivity, hypertension, memory impairment, nocturia, panic attack, vision blurred, and weight decreased.
+2. *The sudden onset of sleep in patients taking sodium oxybate, including in a standing position or while rising from bed, has led to falls complicated by injuries, in some cases requiring hospitalization.

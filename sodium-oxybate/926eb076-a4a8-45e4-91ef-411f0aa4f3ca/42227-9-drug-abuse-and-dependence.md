@@ -10,7 +10,12 @@ Non-medical use of Xyrem could lead to penalties assessed under the higher Sched
 Xyrem (sodium oxybate), the sodium salt of GHB, produces dose-dependent central nervous system effects, including hypnotic and positive subjective reinforcing effects.
 The onset of effect is rapid, enhancing its potential for abuse or misuse.
 
-The rapid onset of sedation, coupled with the amnestic features of Xyrem, particularly when combined with alcohol, has proven to be dangerous for the voluntary and involuntary user (e.g., assault victim).
+Drug abuse is the intentional non-therapeutic use of a drug product or substance, even once, for its desirable psychological or physiological effects.
+Misuse is the intentional use, for therapeutic purposes of a drug by an individual in a way other than prescribed by a health care provider or for whom it was not prescribed.
+Drug misuse and abuse may occur with or without progression to addiction.
+Drug addiction is a cluster of behavioral, cognitive, and physiological phenomena that may include a strong desire to take the drug, difficulties in controlling drug use (e.g., continuing drug use despite harmful consequences, giving a higher priority to drug use than other activities and obligations), and possible tolerance or physical dependence.
+
+The rapid onset of sedation, coupled with the amnestic features of GHB, particularly when combined with alcohol, has proven to be dangerous for the voluntary and involuntary user (e.g., assault victim).
 
 Illicit GHB is abused in social settings primarily by young adults.
 Some of the doses estimated to be abused are in a similar dosage range to that used for treatment of patients with cataplexy.
@@ -24,6 +29,7 @@ It is safe to dispose of Xyrem down the sanitary sewer.
 
 ## 9.3 Dependence
 
+Physical dependence is a state that develops as a result of physiological adaptation in response to repeated drug use, manifested by withdrawal signs and symptoms after abrupt discontinuation or a significant dose reduction of a drug.
 There have been case reports of withdrawal, ranging from mild to severe, following discontinuation of illicit use of GHB at frequent repeated doses (18 g to 250 g per day) in excess of the recommended dosage range.
 Signs and symptoms of GHB withdrawal following abrupt discontinuation included insomnia, restlessness, anxiety, psychosis, lethargy, nausea, tremor, sweating, muscle cramps, tachycardia, headache, dizziness, rebound fatigue and sleepiness, confusion, and, particularly in the case of severe withdrawal, visual hallucinations, agitation, and delirium.
 These symptoms generally abated in 3 to 14 days.
@@ -33,6 +39,7 @@ In the clinical trial experience with Xyrem in narcolepsy/cataplexy patients at 
 
 Tolerance
 
+Tolerance is a physiological state characterized by a reduced response to a drug after repeated administration (i.e., a higher dose of a drug is required to produce the same effect that was once obtained at a lower dose).
 Tolerance to Xyrem has not been systematically studied in controlled clinical trials.
 There have been some case reports of symptoms of tolerance developing after illicit use at dosages far in excess of the recommended Xyrem dosage regimen.
 Clinical studies of sodium oxybate in the treatment of alcohol withdrawal suggest a potential cross-tolerance with alcohol.

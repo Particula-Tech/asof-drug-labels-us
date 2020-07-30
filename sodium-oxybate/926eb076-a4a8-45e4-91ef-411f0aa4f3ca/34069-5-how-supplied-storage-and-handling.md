@@ -13,7 +13,7 @@ One 180 mL bottle NDC 68727-100-01
 ## 16.2 Storage
 
 Keep out of reach of children.
-Xyrem should be stored at 25°C (77°F); excursions permitted to 15° to 30°C (59° to 86°F) (see USP Controlled Room Temperature).
+Xyrem should be stored at 25°C (77°F); excursions permitted to 15°C to 30°C (59°F to 86°F) (see USP Controlled Room Temperature).
 Dispense in tight containers.
 Solutions prepared following dilution should be consumed within 24 hours.
 

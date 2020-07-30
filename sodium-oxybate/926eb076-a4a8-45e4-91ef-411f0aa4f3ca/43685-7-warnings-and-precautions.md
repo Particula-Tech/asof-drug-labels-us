@@ -4,7 +4,7 @@
 
 Xyrem is a central nervous system (CNS) depressant.
 In adult clinical trials at recommended doses, obtundation and clinically significant respiratory depression occurred in patients treated with Xyrem.
-Alcohol and sedative hypnotics are contraindicated in patients who are using Xyrem.
+Xyrem is contraindicated in combination with alcohol and sedative hypnotics.
 The concurrent use of Xyrem with other CNS depressants, including but not limited to opioid analgesics, benzodiazepines, sedating antidepressants or antipsychotics, sedating anti-epileptic drugs, general anesthetics, muscle relaxants, and/or illicit CNS depressants, may increase the risk of respiratory depression, hypotension, profound sedation, syncope, and death.
 If use of these CNS depressants in combination with Xyrem is required, dose reduction or discontinuation of one or more CNS depressants (including Xyrem) should be considered.
 In addition, if short-term use of an opioid (e.g., post- or perioperative) is required, interruption of treatment with Xyrem should be considered.
@@ -25,17 +25,17 @@ Because illicit use and abuse of GHB have been reported, physicians should caref
 
 Xyrem is available only through a restricted program under a REMS [see Warnings and Precautions (5.3)].
 
-## 5.3 Xyrem REMS Program
+## 5.3 XYWAV and XYREM REMS
 
-Xyrem is available only through a restricted distribution program called the Xyrem REMS Program because of the risks of central nervous system depression and abuse and misuse [see Warnings and Precautions (5.1, 5.2)].
+Xyrem is available only through a restricted distribution program called the XYWAV and XYREM REMS because of the risks of central nervous system depression and abuse and misuse [see Warnings and Precautions (5.1, 5.2)].
 
-Notable requirements of the Xyrem REMS Program include the following:
+Notable requirements of the XYWAV and XYREM REMS include the following:
 
 - •Healthcare Providers who prescribe Xyrem are specially certified
 - •Xyrem will be dispensed only by the central pharmacy that is specially certified
-- •Xyrem will be dispensed and shipped only to patients who are enrolled in the Xyrem REMS Program with documentation of safe use
+- •Xyrem will be dispensed and shipped only to patients who are enrolled in the XYWAV and XYREM REMS with documentation of safe use
 
-Further information is available at www.XYREMREMS.com or 1-866-XYREM88® (1-866-997-3688).
+Further information is available at www.XYWAVXYREMREMS.com or 1-866-997-3688.
 
 ## 5.4 Respiratory Depression and Sleep-Disordered Breathing
 
@@ -57,7 +57,7 @@ Two other patients discontinued sodium oxybate because of severe difficulty brea
 In two controlled trials assessing PSG measures in adult patients with narcolepsy, 40 of 477 patients were included with a baseline apnea/hypopnea index of 16 to 67 events per hour, indicative of mild to severe sleep-disordered breathing.
 None of the 40 patients had a clinically significant worsening of respiratory function as measured by apnea/hypopnea index and pulse oximetry at doses of 4.5 g to 9 g per night.
 
-Prescribers should be aware that sleep-related breathing disorders tend to be more prevalent in obese patients and in postmenopausal women not on hormone replacement therapy as well as among patients with narcolepsy.
+Prescribers should be aware that sleep-related breathing disorders tend to be more prevalent in obese patients, in men, in postmenopausal women not on hormone replacement therapy and among patients with narcolepsy.
 
 ## 5.5 Depression and Suicidality
 
@@ -96,10 +96,10 @@ The emergence or increase in the occurrence of behavioral or psychiatric events 
 
 ## 5.7 Parasomnias
 
-Sleepwalking, defined as confused behavior occurring at night and at times associated with wandering, was reported in 6% of 781 patients with narcolepsy treated with Xyrem in adult controlled and long-term open-label studies, with <1% of patients discontinuing due to sleepwalking.
+Sleepwalking, defined as confused behavior occurring at night and at times associated with wandering, was reported in 6% of 781 patients with narcolepsy treated with Xyrem in adult controlled trials and long-term open-label studies, with <1% of patients discontinuing due to sleepwalking.
 Rates of sleepwalking were similar for patients taking placebo and patients taking Xyrem in controlled trials.
 It is unclear if some or all of the reported sleepwalking episodes correspond to true somnambulism, which is a parasomnia occurring during non-REM sleep, or to any other specific medical disorder.
-Five instances of significant injury or potential injury were associated with sleepwalking during a clinical trial of Xyrem in patients with narcolepsy.
+Five instances of sleepwalking with potential injury or significant injury were reported during a clinical trial of Xyrem in patients with narcolepsy.
 
 Parasomnias, including sleepwalking, also have been reported in the pediatric clinical trial and in postmarketing experience with Xyrem.
 Therefore, episodes of sleepwalking should be fully evaluated and appropriate interventions considered.

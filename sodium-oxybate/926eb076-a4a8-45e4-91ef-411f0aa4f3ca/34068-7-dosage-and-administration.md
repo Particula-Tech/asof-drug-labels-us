@@ -4,6 +4,7 @@
 
 The recommended starting dosage is 4.5 grams (g) per night administered orally, divided into two doses: 2.25 g at bedtime and 2.25 g taken 2.5 to 4 hours later (see Table 1).
 Increase the dosage by 1.5 g per night at weekly intervals (additional 0.75 g at bedtime and 0.75 g taken 2.5 to 4 hours later) to the effective dosage range of 6 g to 9 g per night orally.
+The dosage may be gradually titrated based on efficacy and tolerability.
 Doses higher than 9 g per night have not been studied and should not ordinarily be administered.
 
 Table 1: Recommended Adult Xyrem Dose Regimen (g = grams)
@@ -30,17 +31,20 @@ Table 2: Recommended Pediatric Xyrem Dosage for Patients 7 Years of Age and Olde
 | 20 kg to <30 kg | ≤1 g | ≤1 g | 0.5 g | 0.5 g | 3 g | 3 g |
 | 30 kg to <45 kg | ≤1.5 g | ≤1.5 g | 0.5 g | 0.5 g | 3.75 g | 3.75 g |
 | ≥45 kg | ≤2.25 g | ≤2.25 g | 0.75 g | 0.75 g | 4.5 g | 4.5 g |
-| * For patients who sleep more than 8 hours per night, the first dose of Xyrem may be given at bedtime or after an initial period of sleep.** If Xyrem is used in patients 7 years of age and older who weigh less than 20 kg, a lower starting dosage, lower maximum weekly dosage increases, and lower total maximum nightly dosage should be considered.Note: Unequal dosages may be required for some patients to achieve optimal treatment. |  |  |  |  |  |  |
+| * For patients who sleep more than 8 hours per night, the first dose of Xyrem may be given at bedtime or after an initial period of sleep.** If Xyrem is used in patients 7 years of age and older who weigh less than 20 kg, a lower starting dosage, lower maximum weekly dosage increases, and lower total maximum nightly dosage should be considered.Note: Some patients may achieve better responses with unequal doses at bedtime and 2.5 to 4 hours later. |  |  |  |  |  |  |
 
 ## 2.3 Important Administration Instructions for All Patients
 
-Take the first dose of Xyrem at least 2 hours after eating [see Clinical Pharmacology (12.3)].
-
+The total nightly dosage of Xyrem is divided into two doses.
 Prepare both doses of Xyrem prior to bedtime.
 Prior to ingestion, each dose of Xyrem should be diluted with approximately ¼ cup (approximately 60 mL) of water in the empty pharmacy containers provided.
-Patients should take both doses of Xyrem while in bed and lie down immediately after dosing as Xyrem may cause them to fall asleep abruptly without first feeling drowsy.
+
+Take the first nightly dose of Xyrem at least 2 hours after eating [see Clinical Pharmacology (12.3)].
+Take the second nightly dose 2.5 to 4 hours after the first dose.
+
+Patients should take both doses of Xyrem while in bed and lie down immediately after dosing, and remain in bed following ingestion of each dose.
+Xyrem may cause patients to fall asleep abruptly without first feeling drowsy [see Adverse Reactions (6.2)].
 Patients will often fall asleep within 5 minutes of taking Xyrem, and will usually fall asleep within 15 minutes, though the time it takes any individual patient to fall asleep may vary from night to night.
-Patients should remain in bed following ingestion of the first and second doses, and should not take the second dose until 2.5 to 4 hours after the first dose.
 Patients may need to set an alarm to awaken for the second dose.
 Rarely, patients may take up to 2 hours to fall asleep.
 
@@ -49,11 +53,10 @@ Both Xyrem doses should never be taken at one time.
 
 ## 2.4 Dosage Modification in Patients with Hepatic Impairment
 
-The recommended starting dosage in patients with hepatic impairment is one-half of the original dosage per night administered orally, divided into two doses [see Use in Specific Populations (8.6) and Clinical Pharmacology (12.3)].
+The recommended starting dosage in patients with hepatic impairment is one-half of the original dosage per night, administered orally divided into two doses [see Use in Specific Populations (8.6) and Clinical Pharmacology (12.3)].
 
 ## 2.5 Dose Adjustment with Co-administration of Divalproex Sodium
 
-Pharmacokinetic and pharmacodynamic interactions have been observed when Xyrem is co-administered with divalproex sodium.
-For patients already stabilized on Xyrem, it is recommended that addition of divalproex sodium should be accompanied by an initial reduction in the nightly dose of Xyrem by at least 20%.
-For patients already taking divalproex sodium, it is recommended that prescribers use a lower starting Xyrem dose when introducing Xyrem.
-Prescribers should monitor patient response and adjust dose accordingly [see Drug Interactions (7.2) and Clinical Pharmacology (12.3)].
+When initiating divalproex sodium in patients taking a stable dosage of Xyrem, a reduction of the Xyrem dosage by at least 20% is recommended with initial concomitant use [see Drug Interactions (7.2) and Clinical Pharmacology (12.3)].
+When initiating Xyrem in patients already taking divalproex sodium, a lower starting dosage of Xyrem is recommended.
+Subsequently, the dosage of Xyrem can be adjusted based on individual clinical response and tolerability.

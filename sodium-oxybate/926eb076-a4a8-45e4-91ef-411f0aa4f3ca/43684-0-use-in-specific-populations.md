@@ -57,11 +57,11 @@ The no-effect dose for adverse effects in juvenile rats is associated with plasm
 
 Clinical studies of Xyrem in patients with narcolepsy did not include sufficient numbers of subjects age 65 years and older to determine whether they respond differently from younger subjects.
 In controlled trials in another population, 39 (5%) of 874 patients were 65 years or older.
-Discontinuations of treatment due to adverse reactions were increased in the elderly compared to younger adults (20.5% v. 18.9%).
-Frequency of headaches was markedly increased in the elderly (38.5% v. 18.9%).
+Discontinuations of treatment due to adverse reactions were increased in the elderly compared to younger adults (21% vs. 19%).
+Frequency of headaches was markedly increased in the elderly (39% vs. 19%).
 The most common adverse reactions were similar in both age categories.
 In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy.
 
 ## 8.6 Hepatic Impairment
 
-Because of an increase in exposure to Xyrem, the starting dose should be reduced in patients with liver impairment [see Dosage and Administration (2.4) and Clinical Pharmacology (12.3)].
+Because of an increase in exposure to Xyrem, the starting dose should be reduced by half in patients with hepatic impairment [see Dosage and Administration (2.4) and Clinical Pharmacology (12.3)].

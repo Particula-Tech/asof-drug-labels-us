@@ -110,15 +110,15 @@ Table 8 Change in Baseline in the Maintenance of Wakefulness Test Score (in minu
 ## 14.3 Cataplexy and Excessive Daytime Sleepiness in Pediatric Narcolepsy
 
 The effectiveness of Xyrem in the treatment of cataplexy and excessive daytime sleepiness in pediatric patients 7 years of age and older with narcolepsy was established in a double-blind, placebo-controlled, randomized-withdrawal study (Trial N5) (NCT02221869).
-The study enrolled 106 pediatric patients (median age: 12 years; range: 7 to 16 years) with a baseline history of at least 14 cataplexy attacks in a typical 2-week period prior to any treatment for narcolepsy symptoms.
+The study was conducted in 106 pediatric patients (median age: 12 years; range: 7 to 17 years) with a baseline history of at least 14 cataplexy attacks in a typical 2-week period prior to any treatment for narcolepsy symptoms.
 Of the 106 patients, 2 did not receive study drug and 63 patients were randomized 1:1 either to continued treatment with Xyrem or to placebo.
 Randomization to placebo was stopped early as the efficacy criterion was met at the pre-planned interim analysis.
 
-Patients entered the study either on a stable dose of Xyrem or were Xyrem-naïve.
+Patients entered the study either taking a stable dose of Xyrem or were Xyrem-naïve.
 CNS stimulants were allowed at entry, and approximately 50% of patients used a stable dose of stimulant throughout the stable-dose and double-blind periods.
 Xyrem-naïve patients were initiated and titrated based on body weight over a period of up to 10 weeks.
 The total nightly dose was administered in two divided doses, with the first dose given at nighttime and the second given 2.5 to 4 hours later [see Dosage and Administration (2.2)].
-Once a stable dose of Xyrem had been achieved, these patients entered the 2-week stable-dose period; patients on a stable dose of Xyrem at study entry remained on this dose for 3 weeks, prior to randomization.
+Once a stable dose of Xyrem had been achieved, these patients entered the 2-week stable-dose period; patients taking a stable dose of Xyrem at study entry remained taking this dose for 3 weeks, prior to randomization.
 Efficacy was established at doses ranging from 3 g to 9 g of Xyrem per night.
 
 The primary efficacy measure was the change in frequency of cataplexy attacks.
@@ -128,7 +128,7 @@ The Epworth Sleepiness Scale (Child and Adolescent) is a modified version of the
 The overall change in narcolepsy condition was assessed by the Clinical Global Impression of Change for narcolepsy overall.
 Efficacy was assessed during or at the end of the 2-week double-blind treatment period, relative to the last 2 weeks or end of the stable-dose period (see Tables 9 and 10).
 
-Pediatric patients on stable doses of Xyrem who were withdrawn from Xyrem treatment and randomized to placebo during the double-blind treatment period experienced a statistically significant increase in weekly cataplexy attacks compared with patients who were randomized to continue treatment with Xyrem.
+Pediatric patients taking stable doses of Xyrem who were withdrawn from Xyrem treatment and randomized to placebo during the double-blind treatment period experienced a statistically significant increase in weekly cataplexy attacks compared with patients who were randomized to continue treatment with Xyrem.
 Patients randomized to receive placebo during the double-blind treatment period experienced a statistically significant worsening of EDS compared with patients randomized to continue receiving Xyrem (see Table 9).
 
 Table 9 Number of Weekly Cataplexy Attacks and Epworth Sleepiness Scale (Child and Adolescent) Score (Trial N5)

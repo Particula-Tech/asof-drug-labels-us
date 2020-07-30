@@ -12,13 +12,13 @@ Abuse and Misuse
 
 Inform patients and/or caregivers that the active ingredient of Xyrem is gamma-hydroxybutyrate (GHB), which is associated with serious adverse reactions with illicit use and abuse [see Warnings and Precautions (5.2)].
 
-Xyrem REMS Program
+XYWAV and XYREM REMS
 
-Xyrem is available only through a restricted program called the Xyrem REMS Program [see Warnings and Precautions (5.3)].
+Xyrem is available only through a restricted program called the XYWAV and XYREM REMS [see Warnings and Precautions (5.3)].
 Inform the patient and/or caregiver of the following notable requirements:
 
 - •Xyrem is dispensed only by the central pharmacy
-- •Xyrem will be dispensed and shipped only to patients enrolled in the Xyrem REMS Program
+- •Xyrem will be dispensed and shipped only to patients enrolled in the XYWAV and XYREM REMS
 
 Xyrem is available only from the central pharmacy participating in the program.
 Therefore, provide patients and/or caregivers with the telephone number and website for information on how to obtain the product.
@@ -30,13 +30,17 @@ Advise patients and/or caregivers that alcohol and other sedative hypnotics shou
 Sedation
 
 Inform patients and/or caregivers that the patient is likely to fall asleep quickly after taking Xyrem (often within 5 and usually within 15 minutes), but the time it takes to fall asleep can vary from night to night.
-The sudden onset of sleep, including in a standing position or while rising from bed, has led to falls complicated by injuries, in some cases requiring hospitalization.
-Instruct patients and/or caregivers that the patient should remain in bed following ingestion of the first and second doses.
-Instruct patients and/or caregivers that the patient should not take their second dose until 2.5 to 4 hours after the first dose.
+The sudden onset of sleep, including in a standing position or while rising from bed, has led to falls complicated by injuries, in some cases requiring hospitalization [see Adverse Reactions (6.2)].
+Instruct patients and/or caregivers that the patient should remain in bed following ingestion of the first and second nightly doses.
+Instruct patients and/or caregivers that the patient should not take their second nightly dose until 2.5 to 4 hours after the first dose [see Dosage and Administration (2.3)].
 
 Food Effects on Xyrem
 
-Inform patients and/or caregivers that the first dose should be taken at least 2 hours after eating.
+Inform patients and/or caregivers that the first nightly dose should be taken at least 2 hours after eating.
+
+Respiratory Depression and Sleep-Disordered Breathing
+
+Inform patients that Xyrem may impair respiratory drive, especially in patients with compromised respiratory function, and may cause apnea [see Warnings and Precautions (5.4)].
 
 Depression and Suicidality
 
@@ -54,4 +58,4 @@ Instruct patients and/or caregivers that Xyrem has been associated with sleepwal
 Sodium Intake
 
 Instruct patients and/or caregivers that Xyrem contains a significant amount of sodium and patients who are sensitive to sodium intake (e.g., those with heart failure, hypertension, or renal impairment) should limit their sodium intake [see Warnings and Precautions (5.8)].
-Distributed By: Jazz Pharmaceuticals, Inc. Palo Alto, CA 94304 Protected by U.S. Patent Nos. 6,472,431; 6,780,889; 7,262,219; 7,851,506; 8,263,650; 8,324,275; 8,461,203; 8,772,306; 8,859,619; 8,952,062; 9,050,302; 9,486,426; and 9,539,330
+Distributed By: Jazz Pharmaceuticals, Inc. Palo Alto, CA 94304 Protected by U.S. Patent Nos. 8,731,963; 8,772,306; 9,050,302; 9,486,426; and 10,213,400.

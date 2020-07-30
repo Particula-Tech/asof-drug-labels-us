@@ -2,11 +2,11 @@
 
 ## 7.1 Alcohol, Sedative Hypnotics, and CNS Depressants
 
-Xyrem should not be used in combination with alcohol or sedative hypnotics.
+Xyrem is contraindicated for use in combination with alcohol or sedative hypnotics.
 Use of other CNS depressants may potentiate the CNS-depressant effects of Xyrem [see Warnings and Precautions (5.1)].
 
 ## 7.2 Divalproex Sodium
 
-Concomitant use of Xyrem with divalproex sodium resulted in a 25% mean increase in systemic exposure to Xyrem (AUC ratio range of 0.8 to 1.7) and in a greater impairment on some tests of attention and working memory.
-An initial Xyrem dose reduction of at least 20% is recommended if divalproex sodium is prescribed to patients already taking Xyrem [see Dosage and Administration (2.5) and Clinical Pharmacology (12.3)].
+Concomitant use of Xyrem with divalproex sodium results in an increase in systemic exposure to GHB, which was shown to cause a greater impairment on some tests of attention and working memory in a clinical study [see Clinical Pharmacology (12.3)].
+An initial dose reduction of Xyrem is recommended when used concomitantly with divalproex sodium [see Dosage and Administration (2.5)].
 Prescribers are advised to monitor patient response closely and adjust dose accordingly if concomitant use of Xyrem and divalproex sodium is warranted.
