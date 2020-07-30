@@ -1,3 +1,4 @@
 # 3 DOSAGE FORMS AND STRENGTHS
 
-Each gram of ointment contains 3 micrograms (mcg/g) of calcitriol.
+Ointment, 3 mcg/g.
+Each gram of VECTICAL Ointment contains 3 micrograms (mcg/g) of calcitriol.

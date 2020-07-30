@@ -1,30 +1,23 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-This information is intended to aid in the safe and effective use of this medication.
-It is not a disclosure of all possible adverse or intended effects.
+Advise the patient to read the FDA-approved patient labeling (Patient Information).
 
 Patients using VECTICAL Ointment should receive the following information:
 
-## 17.1 Instructions for Use
+- This medication is to be used as directed by the physician.
+  It is for external use only.
+  This medication is to be applied only to areas of the skin affected by psoriasis, as directed.
+  It should be gently rubbed into the skin so that no medication remains visible.
+- This medication may affect calcium metabolism.
+  Hypercalcemia has been observed in subjects exposed to this medicine.
+  Increased absorption may occur with use of occlusive dressings.
+- Avoid use of more than 100 grams per week in patients ages 2-6 years and use of more than 200 grams per week in patients ages 7 years and older.
+- Instruct patients to report any signs of adverse reactions to their physician.
+- Avoid contact with eyes, lips, and facial skin.
+- Advise breastfeeding women not to apply VECTICAL Ointment directly to the nipple and areola to avoid direct infant exposure [see Use in Specific Populations (8.2)].
 
-This medication is to be used as directed by the physician.
-It is for external use only.
-This medication is to be applied only to areas of the skin affected by psoriasis, as directed.
-It should be gently rubbed into the skin so that no medication remains visible.
+To report SUSPECTED ADVERSE REACTIONS, contact Galderma Laboratories, L.P. at 866-735-4137 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
 
-## 17.2 Adverse Reactions
-
-Patients should report any signs of adverse reactions to their physician.
-
-To report SUSPECTED ADVERSE REACTIONS, contact Galderma Laboratories, L.P. at 1-866-735-4137 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch
-
-U.S. Patent No. 7,749,986
-
-Marketed by: Galderma Laboratories, L.P.
-Fort Worth, Texas 76177 USA
-
-Manufactured by: G Production Inc. Baie d’Urfé, QC, H9X 3S4 Canada
-
-Made in Canada.
+US Patent No. 7,749,986 Marketed by: GALDERMA LABORATORIES, L.P.
+Fort Worth, Texas 76177 USA Made in Canada.
 GALDERMA is a registered trademark.
-P51460-4

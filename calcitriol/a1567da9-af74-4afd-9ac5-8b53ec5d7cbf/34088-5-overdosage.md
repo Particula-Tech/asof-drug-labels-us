@@ -1,3 +1,3 @@
 # 10 OVERDOSAGE
 
-Topically applied calcitriol can be absorbed in sufficient amounts to produce systemic effects [see WARNINGS AND PRECAUTIONS (5.1)].
+Topically applied calcitriol can be absorbed in sufficient amounts to produce systemic effects [see Warnings and Precautions (5.1)].

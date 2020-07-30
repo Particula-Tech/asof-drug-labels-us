@@ -2,8 +2,8 @@
 
 ## 1.1 Indication
 
-VECTICAL Ointment is indicated for the topical treatment of mild to moderate plaque psoriasis in adults 18 years and older.
+VECTICAL Ointment is indicated for the topical treatment of mild to moderate plaque psoriasis in adults and pediatric patients 2 years and older.
 
 ## 1.2 Limitations of Use
 
-VECTICAL Ointment should not be applied to the eyes, lips, or facial skin.
+The safety and effectiveness of VECTICAL Ointment in patients with known or suspected disorders of calcium metabolism have not been evaluated.

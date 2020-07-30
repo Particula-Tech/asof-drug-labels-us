@@ -2,27 +2,40 @@
 
 ## 8.1 Pregnancy
 
-Teratogenic Effects: Pregnancy Category C.
+Risk Summary Available data from pregnancies that occurred during the clinical development of VECTICAL Ointment and published case series of oral and intravenous calcitriol use in pregnant women have not identified a drug associated risk for major birth defects, miscarriages, or adverse maternal or fetal outcomes.
+In animal reproduction studies, topical administration of calcitriol to pregnant rabbits during the period of organogenesis resulted in an increased incidence of fetal deaths, as well as an increased incidence of minor skeletal abnormalities (see Data).
+The available data do not allow the calculation of relevant comparisons between the systemic exposures of calcitriol observed in animal studies to the systemic exposures that would be expected in humans after topical use of VECTICAL Ointment.
+The background risk of major birth defects and miscarriage for the indicated population is unknown.
+All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
+In the U.S. general population, the estimated risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively.
 
-VECTICAL Ointment contains calcitriol which has been shown to be fetotoxic.
-There are no adequate and well-controlled studies for VECTICAL Ointment in pregnant women.
-VECTICAL Ointment should be used during pregnancy only if the potential benefit to the patient justifies the potential risk to the fetus.
-
-Teratogenicity studies with calcitriol were performed in which rats were treated orally at dosages up to 0.9 mcg/kg/day (5.4 mcg/m2/day) and in which rabbits received topical application of calcitriol ointment (3 ppm) to 6.4% of the body surface area.
+Data Animal Data Embryo-fetal development studies with calcitriol were performed in which rats were treated orally at dosages up to 0.9 mcg/kg/day (5.4 mcg/m2/day) and in which rabbits received topical application of calcitriol ointment (3 ppm) to 6.4% of the body surface area.
 No effects on reproductive or fetal parameters were observed in rats.
-In rabbits, topically applied calcitriol induced a significantly elevated mean post-implantation loss and an increased incidence of minor skeletal abnormalities due to retarded ossification of the pubic bones.
+In rabbits, topically applied calcitriol induced a significantly elevated mean post-implantation loss and an increased incidence of minor skeletal abnormalities due to delayed ossification of the pubic bones.
 A slightly increased incidence of skeletal variation (extra 13th rib, reduced ossification of epiphyses) was also observed.
 These effects may have been secondary to maternal toxicity.
-Based on the recommended human dose and instructions for use, it is not possible to calculate human dose equivalents for animal exposures in these studies.
 
-## 8.3 Nursing Mothers
+## 8.2 Lactation
 
-It is not known whether calcitriol is excreted in human milk.
-Because many drugs are excreted in human milk, caution should be exercised when VECTICAL Ointment is administered to a nursing woman.
+Risk Summary There are no data on the presence of calcitriol in human milk, the effects on the breastfed infant or on milk production after treatment with VECTICAL Ointment.
+It is not known whether topical administration of calcitriol could result in sufficient systemic absorption to produce detectable quantities in human milk.
+The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for VECTICAL Ointment and any potential adverse effects on the breastfed infant from VECTICAL Ointment or from the underlying maternal conditions.
+Clinical Considerations Advise breastfeeding women not to apply VECTICAL Ointment directly to the nipple and areola to avoid direct infant exposure.
 
 ## 8.4 Pediatric Use
 
-Safety and effectiveness in pediatric patients have not been established.
+The safety and effectiveness of VECTICAL Ointment have been established in pediatric patients age 2 years and older for topical treatment of mild to moderate psoriasis.
+Use of VECTICAL Ointment in this age group is supported by two adequate and well-controlled 8-week trials and an open label trial in adult subjects, and additional data from trials conducted in pediatric subjects 2 to 17 years of age including;
+
+- a vehicle controlled 8-week trial in 19 subjects 2 to 12 years of age with mild to moderate plaque psoriasis
+- an open-label 8-week safety and pharmacokinetics (PK) trial in 25 subjects 12 to 17 years of age
+- an open-label 14-day safety and PK trial in 18 subjects 2 to 12 years of age; and
+- an open-label 26-week safety and PK trial in 54 subjects 2 to 17 years of age.
+
+Data from 63 subjects ages 2 to 12 years, and 42 subjects ages 13 to 17 years showed no significant effects on indices of calcium metabolism.
+The systemic exposure of calcitriol in the pediatric subjects was generally comparable to the endogenous levels observed at baseline.
+No new safety signals were identified in subjects 2 to 17 years [see Clinical Studies (14), Clinical Pharmacology (12.3) and Adverse Reactions (6.1)].
+The safety and effectiveness of VECTICAL Ointment in pediatric subjects below the age of 2 years have not been established.
 
 ## 8.5 Geriatric Use
 
