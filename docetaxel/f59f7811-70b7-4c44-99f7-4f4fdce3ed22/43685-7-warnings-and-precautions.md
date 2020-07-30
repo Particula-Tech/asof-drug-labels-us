@@ -17,12 +17,19 @@ Among patients who experienced treatment-related mortality at the 75 mg/m 2 dose
 
 ## 5.2 Hepatic Impairment
 
-Patients with combined abnormalities of transaminases and alkaline phosphatase should not be treated with Docetaxel Injection [see Boxed Warning, Use in Specific Populations (8.6), Clinical Studies (14)].
+Patients with elevations of bilirubin or abnormalities of transaminase concurrent with alkaline phosphatase are at increased risk for the development of severe neutropenia, febrile neutropenia, infections, severe thrombocytopenia, severe stomatitis, severe skin toxicity, and toxic death.
+
+Avoid Docetaxel Injection in patients with bilirubin > upper limit of normal (ULN), or to patients with AST and/or ALT >1.5 × ULN concomitant with alkaline phosphatase >2.5 × ULN [see Warnings and Precautions (5.1)].
+
+For patients with isolated elevations of transaminase >1.5 × ULN, consider Docetaxel Injection dose modifications [see Dosage and Administration (2.7)].
+
+Measure bilirubin, AST or ALT, and alkaline phosphatase prior to each cycle of Docetaxel Injection therapy.
 
 ## 5.3 Hematologic Effects
 
 Perform frequent peripheral blood cell counts on all patients receiving Docetaxel Injection.
-Patients should not be retreated with subsequent cycles of Docetaxel Injection until neutrophils recover to a level >1500 cells/mm 3 and platelets recover to a level >100,000 cells/mm 3.
+Do not retreat patients with subsequent cycles of Docetaxel Injection until neutrophils recover to a level >1500 cells/mm 3[see Contraindications (4)].
+Avoid retreating patients until platelets recover to a level >100,000 cells/mm 3.
 
 A 25% reduction in the dose of Docetaxel Injection is recommended during subsequent cycles following severe neutropenia (<500 cells/mm 3) lasting 7 days or more, febrile neutropenia, or a grade 4 infection in a Docetaxel Injection cycle [see Dosage and Administration (2.7)].
 
@@ -47,17 +54,17 @@ Inform patients to contact their healthcare provider with new, or worsening symp
 
 ## 5.5 Hypersensitivity Reactions
 
-Patients should be observed closely for hypersensitivity reactions, especially during the first and second infusions.
-Severe hypersensitivity reactions characterized by generalized rash/erythema, hypotension and/or bronchospasm, or very rarely fatal anaphylaxis, have been reported in patients premedicated with 3 days of corticosteroids.
+Monitor patients closely for hypersensitivity reactions, especially during the first and second infusions.
+Severe hypersensitivity reactions characterized by generalized rash/erythema, hypotension and/or bronchospasm, or fatal anaphylaxis, have been reported in patients pre-medicated with 3 days of corticosteroids.
 Severe hypersensitivity reactions require immediate discontinuation of the Docetaxel Injection infusion and aggressive therapy.
-Patients with a history of severe hypersensitivity reactions should not be rechallenged with Docetaxel Injection.
+Do not rechallenge patients with a history of severe hypersensitivity reactions with Docetaxel Injection [see Contraindications (4)].
 
 Patients who have previously experienced a hypersensitivity reaction to paclitaxel may develop a hypersensitivity reaction to docetaxel that may include severe or fatal reactions such as anaphylaxis.
 Monitor patients with a previous history of hypersensitivity to paclitaxel closely during initiation of docetaxel therapy.
 
 Hypersensitivity reactions may occur within a few minutes following initiation of a Docetaxel Injection infusion.
 If minor reactions such as flushing or localized skin reactions occur, interruption of therapy is not required.
-All patients should be premedicated with an oral corticosteroid prior to the initiation of the infusion of Docetaxel Injection [see Dosage and Administration (2.6)]
+All patients should be premedicated with an oral corticosteroid prior to the initiation of the infusion of Docetaxel Injection [see Dosage and Administration (2.6)].
 
 ## 5.6 Fluid Retention
 
@@ -80,16 +87,25 @@ Second primary malignancies, notably acute myeloid leukemia (AML), myelodysplast
 These adverse reactions may occur several months or years after docetaxel-containing therapy.
 
 Treatment-related AML or MDS has occurred in patients given anthracyclines and/or cyclophosphamide, including use in adjuvant therapy for breast cancer.
-In the adjuvant breast cancer trial (TAX316) AML occurred in 3 of 744 patients who received docetaxel, doxorubicin and cyclophosphamide (TAC) and in 1 of 736 patients who received fluorouracil, doxorubicin and cyclophosphamide [see Clinical Studies (14.2)].
+In the adjuvant breast cancer trial (TAX316) AML occurred in 3 of 744 patients who received docetaxel, doxorubicin and cyclophosphamide (TAC) and in 1 of 736 patients who received fluorouracil, doxorubicin, and cyclophosphamide In TAC-treated patients, the risk of delayed myelodysplasia or myeloid leukemia requires hematological follow-up.
+Monitor patients for second primary malignancies Treatment-related AML or MDS has occurred in patients given anthracyclines and/or cyclophosphamide, including use in adjuvant therapy for breast cancer.
+In the adjuvant breast cancer trial (TAX316) AML occurred in 3 of 744 patients who received docetaxel, doxorubicin and cyclophosphamide (TAC) and in 1 of 736 patients who received fluorouracil, doxorubicin, and cyclophosphamide [see Clinical Studies (14.2)].
 In TAC-treated patients, the risk of delayed myelodysplasia or myeloid leukemia requires hematological follow-up.
-Monitor patients for second primary malignancies [see Adverse Reactions (16.1)].
+Monitor patients for second primary malignancies [see Adverse Reactions (6.1)].
 
 ## 5.8 Cutaneous Reactions
 
 Localized erythema of the extremities with edema followed by desquamation has been observed.
+In case of severe skin toxicity, an adjustment in dosage is recommended The discontinuation rate due to skin toxicity was 1.6% (15/965) for metastatic breast cancer patients.
+Among 92 breast cancer patients premedicated with 3-day corticosteroids, there were no cases of severe skin toxicity reported and no patient discontinued docetaxel due to skin toxicity.
+Localized erythema of the extremities with edema followed by desquamation has been observed.
 In case of severe skin toxicity, an adjustment in dosage is recommended [see Dosage and Administration (2.7)].
 The discontinuation rate due to skin toxicity was 1.6% (15/965) for metastatic breast cancer patients.
 Among 92 breast cancer patients premedicated with 3-day corticosteroids, there were no cases of severe skin toxicity reported and no patient discontinued docetaxel due to skin toxicity.
+
+Severe cutaneous adverse reactions (SCARs) such as Stevens-Johnson syndrome (SJS), toxic epidermal necrolysis (TEN), and acute generalized exanthematous pustulosis (AGEP) have been reported in association with docetaxel treatment.
+Patients should be informed about the signs and symptoms of serious skin manifestations and monitored closely.
+Permanent treatment discontinuation should be considered in patients who experience SCARs.
 
 ## 5.9 Neurologic Reactions
 
@@ -120,7 +136,7 @@ In animal reproduction studies, administration of docetaxel to pregnant rats and
 Advise pregnant women and females of reproductive potential of the potential risk to a fetus.
 Verify pregnancy status in females of reproductive potential prior to initiating docetaxel.
 Advise females of reproductive potential to use effective contraception during treatment and for 6 months after the last dose of docetaxel.
-Advise male patients with female partners of reproductive potential to use effective contraception during treatment and for 3 months after the last dose of docetaxel [see Use in Specific Populations (8.1,8.3)].
+Advise male patients with female partners of reproductive potential to use effective contraception during treatment and for 3 months after the last dose of docetaxel [see Use in Specific Populations (8.1, 8.3)].
 
 ## 5.13 Alcohol Content
 
@@ -131,3 +147,9 @@ Consideration should be given to the alcohol content in Docetaxel Injection on t
 Each administration of Docetaxel Injection at 100 mg/m 2 delivers 1.975 g/m 2 of ethanol.
 For a patient with a BSA of 2.0 m 2, this would deliver 3.95 grams of ethanol [see Description (11)].
 Other docetaxel products may have a different amount of alcohol.
+
+## 5.14 Tumor Lysis Syndrome
+
+Tumor lysis syndrome has been reported with docetaxel [see Adverse Reactions (6.2)].
+Patients at risk of tumor lysis syndrome (e.g., with renal impairment, hyperuricemia, bulky tumor) should be closely monitored prior to initiating Docetaxel Injection and periodically during treatment.
+Correction of dehydration and treatment of high uric acid levels are recommended prior to initiation of treatment.

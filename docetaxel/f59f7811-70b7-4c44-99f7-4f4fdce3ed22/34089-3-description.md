@@ -5,7 +5,7 @@ It is prepared by semisynthesis beginning with a precursor extracted from the re
 The chemical name for docetaxel is (2R,3S)-N-carboxy-3-phenylisoserine,N- tert-butyl ester, 13-ester with 5β-20-epoxy-1,2α,4,7β,10β,13α-hexahydroxytax-11-en-9-one 4-acetate 2-benzoate.
 Docetaxel has the following structural formula:
 
-Docetaxel is a white to off-white powder with an empirical formula of C 43H 53NO 14 and a molecular weight of 807.88.
+Docetaxel is a white to off-white powder with an empirical formula of C 43H 53NO 14, and a molecular weight of 807.88.
 It is highly lipophilic and practically insoluble in water.
 
 One-vial Docetaxel Injection

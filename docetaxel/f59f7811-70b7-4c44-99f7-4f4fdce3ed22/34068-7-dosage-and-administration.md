@@ -15,7 +15,7 @@ Administer in a facility equipped to manage possible complications (e.g. anaphyl
 - For treatment after failure of prior platinum-based chemotherapy, Docetaxel Injection was evaluated as monotherapy, and the recommended dose is 75 mg/m 2 administered intravenously over 1 hour every 3 weeks.
   A dose of 100 mg/m 2 in patients previously treated with chemotherapy was associated with increased hematologic toxicity, infection, and treatment-related mortality in randomized controlled trials [see Boxed Warning, Dosage and Administration (2.7), Warnings and Precautions (5), Clinical Studies (14)].
 - For chemotherapy-naive patients, Docetaxel Injection was evaluated in combination with cisplatin.
-  The recommended dose of Docetaxel Injection is 75 mg/m 2 administered intravenously over 1 hour immediately followed by cisplatin 75 mg/m 2 over 30 - 60 minutes every 3 weeks [see Dosage and Administration (2.7)].
+  The recommended dose of Docetaxel Injection is 75 mg/m 2 administered intravenously over 1 hour immediately followed by cisplatin 75 mg/m 2 over 30-60 minutes every 3 weeks [see Dosage and Administration (2.7)].
 
 ## 2.3 Prostate Cancer
 
@@ -96,9 +96,9 @@ In both studies, G-CSF was recommended during the second and/or subsequent cycle
 If an episode of febrile neutropenia, prolonged neutropenia or neutropenic infection occurs despite G-CSF use, the Docetaxel Injection dose should be reduced from 75 mg/m 2 to 60 mg/m 2.
 If subsequent episodes of complicated neutropenia occur the Docetaxel Injection dose should be reduced from 60 mg/m 2 to 45 mg/m 2.
 In case of grade 4 thrombocytopenia the Docetaxel Injection dose should be reduced from 75 mg/m 2 to 60 mg/m 2.
-Patients should not be retreated with subsequent cycles of Docetaxel Injection until neutrophils recover to a level >1,500 cells/mm 3 and platelets recover to a level >100,000 cells/mm 3.
-Discontinue treatment if these toxicities persist.
-[see Warnings and Precautions (5.3)].
+Do not retreat patients with subsequent cycles of Docetaxel Injection until neutrophils recover to a level >1,500 cells/mm 3[see Contraindications (4)].
+Avoid retreating patients until platelets recover to a level >100,000 cells/mm 3.
+Discontinue treatment if these toxicities persist [see Warnings and Precautions (5.3)].
 
 Recommended dose modifications for toxicities in patients treated with Docetaxel Injection in combination with cisplatin and fluorouracil are shown in Table 1.
 
@@ -108,7 +108,7 @@ Table 1: Recommended Dose Modifications for Toxicities in Patients Treated with 
 | --- | --- |
 | Diarrhea grade 3 | First episode: reduce fluorouracil dose by 20%. Second episode: then reduce Docetaxel Injection dose by 20%. |
 | Diarrhea grade 4 | First episode: reduce Docetaxel Injection and fluorouracil doses by 20%. Second episode: discontinue treatment. |
-| Stomatitis/mucositis grade 3 | First episode: reduce fluorouracil dose by 20%. Second episode: stop fluorouracil only, at all subsequent cycles. Third episode: reduce Docetaxel Injection dose by 20% |
+| Stomatitis/mucositis grade 3 | First episode: reduce fluorouracil dose by 20%. Second episode: stop fluorouracil only, at all subsequent cycles. Third episode: reduce Docetaxel Injection dose by 20%. |
 | Stomatitis/mucositis grade 4 | First episode: stop fluorouracil only, at all subsequent cycles. Second episode: reduce Docetaxel Injection dose by 20%. |
 
 Liver dysfunction:
@@ -122,7 +122,7 @@ The dose modifications for cisplatin and fluorouracil in the gastric cancer stud
 Cisplatin dose modifications and delays
 
 Peripheral neuropathy: A neurological examination should be performed before entry into the study, and then at least every 2 cycles and at the end of treatment.
-In the case of neurological signs or symptoms, more frequent examinations should be performed and the following dose modifications can be made according to NCIC-CTC grade:
+In the case of neurological signs or symptoms, more frequent examinations should be performed and the following dose modifications can be made according to NCI-CTCAE grade:
 
 • Grade 2: Reduce cisplatin dose by 20%.
 
@@ -164,13 +164,12 @@ Combination Therapy with Strong CYP3A4 Inhibitors
 
 Avoid using concomitant strong CYP3A4 inhibitors (e.g., ketoconazole, itraconazole, clarithromycin, atazanavir, indinavir, nefazodone, nelfinavir, ritonavir, saquinavir, telithromycin and voriconazole).
 There are no clinical data with a dose adjustment in patients receiving strong CYP3A4 inhibitors.
-Based on extrapolation from a pharmacokinetic study with ketoconazole in 7 patients, consider a 50% docetaxel dose reduction if patients require coadministration of a strong CYP3A4 inhibitor [see Drug Interactions(7), Clinical Pharmacology(12.3)].
+Based on extrapolation from a pharmacokinetic study with ketoconazole in 7 patients, consider a 50% docetaxel dose reduction if patients require coadministration of a strong CYP3A4 inhibitor [see Drug Interactions (7), Clinical Pharmacology (12.3)].
 
 ## 2.8 Administration Precautions
 
 Docetaxel Injection is a cytotoxic anticancer drug and, as with other potentially toxic compounds, caution should be exercised when handling and preparing Docetaxel Injection solutions.
-The use of gloves is recommended.
-[see How Supplied/Storage and Handling (16.3)].
+The use of gloves is recommended [see How Supplied/Storage and Handling (16.3)].
 
 If Docetaxel Injection initial diluted solution, or final dilution for infusion should come into contact with the skin, immediately and thoroughly wash with soap and water.
 If Docetaxel Injection initial diluted solution, or final dilution for infusion should come into contact with mucosa, immediately and thoroughly wash with water.

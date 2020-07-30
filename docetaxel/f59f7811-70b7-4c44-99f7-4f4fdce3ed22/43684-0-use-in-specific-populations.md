@@ -103,7 +103,7 @@ When docetaxel was combined with carboplatin for the treatment of chemotherapy-n
 Prostate Cancer
 
 Of the 333 patients treated with docetaxel every three weeks plus prednisone in the prostate cancer study (TAX327), 209 patients were 65 years of age or greater and 68 patients were older than 75 years.
-In patients treated with docetaxel every three weeks, the following treatment emergent adverse reactions occurred at rates ≥10% higher in patients 65 years of age or greater compared to younger patients: anemia (71% vs 59%), infection (37% vs 24%), nail changes (34% vs 23%), anorexia (21% vs 10%), weight loss (15% vs 5%) respectively.
+In patients treated with docetaxel every three weeks, the following treatment-emergent adverse reactions occurred at rates ≥10% higher in patients 65 years of age or greater compared to younger patients: anemia (71% vs 59%), infection (37% vs 24%), nail changes (34% vs 23%), anorexia (21% vs 10%), weight loss (15% vs 5%), respectively.
 
 Breast Cancer
 
@@ -127,8 +127,6 @@ Other reported clinical experience with this treatment regimen has not identifie
 
 ## 8.6 Hepatic Impairment
 
-Patients with bilirubin >ULN should not receive Docetaxel Injection.
-Also, patients with AST and/or ALT >1.5 × ULN concomitant with alkaline phosphatase >2.5 × ULN should not receive Docetaxel Injection.
-[see Boxed Warning, Warnings and Precautions (5.2), Clinical Pharmacology (12.3)].
+Avoid Docetaxel Injection in patients with bilirubin >ULN and patients with AST and/or ALT >1.5 × ULN concomitant with alkaline phosphatase >2.5 × ULN [see Boxed Warning, Warnings and Precautions (5.2), Clinical Pharmacology (12.3)].
 
 The alcohol content of Docetaxel Injection should be taken into account when given to patients with hepatic impairment [see Warnings and Precautions (5.13)].

@@ -11,7 +11,7 @@ Two hundred three patients were randomized to docetaxel and 189 to the comparato
 Most patients had received prior chemotherapy for metastatic disease; only 27 patients on the docetaxel arm and 33 patients on the comparator arm entered the study following relapse after adjuvant therapy.
 Three-quarters of patients had measurable, visceral metastases.
 The primary endpoint was time to progression.
-The following table summarizes the study results (See Table 12).
+The following table summarizes the study results (See Table 12.)
 
 Table 12: Efficacy of Docetaxel in the Treatment of Breast Cancer Patients Previously Treated with an Anthracycline-Containing Regimen (Intent-to-Treat Analysis)
 
@@ -31,7 +31,7 @@ One hundred sixty-one patients were randomized to docetaxel and 165 patients to 
 Approximately one-half of patients had received prior chemotherapy for metastatic disease, and one-half entered the study following relapse after adjuvant therapy.
 Three-quarters of patients had measurable, visceral metastases.
 The primary endpoint was time to progression.
-The study results are summarized below (See Table 13).
+The study results are summarized below (See Table 13.)
 
 Table 13: Efficacy of Docetaxel in the Treatment of Breast Cancer Patients Previously Treated with an Alkylating-Containing Regimen (Intent-to-Treat Analysis)
 
@@ -63,7 +63,7 @@ Among 26 patients whose best response to an anthracycline had been progression, 
 ## 14.2 Adjuvant Treatment of Breast Cancer
 
 A multicenter, open-label, randomized trial (TAX316) evaluated the efficacy and safety of docetaxel for the adjuvant treatment of patients with axillary-node-positive breast cancer and no evidence of distant metastatic disease.
-After stratification according to the number of positive lymph nodes (1-3, 4+), 1491 patients were randomized to receive either docetaxel 75 mg/m 2 administered 1-hour after doxorubicin 50 mg/m 2 and cyclophosphamide 500 mg/m 2 (TAC arm), or doxorubicin 50 mg/m 2 followed by fluorouracil 500 mg/m 2 and cyclosphosphamide 500 mg/m 2 (FAC arm).
+After stratification according to the number of positive lymph nodes (1-3, 4+), 1491 patients were randomized to receive either docetaxel 75 mg/m 2 administered 1-hour after doxorubicin 50 mg/m 2 and cyclophosphamide 500 mg/m 2 (TAC arm), or doxorubicin 50 mg/m 2 followed by fluorouracil 500 mg/m 2 and cyclophosphamide 500 mg/m 2 (FAC arm).
 Both regimens were administered every 3 weeks for 6 cycles.
 
 Docetaxel was administered as a 1-hour infusion; all other drugs were given as intravenous bolus on day 1.
@@ -83,7 +83,7 @@ Figure 1: TAX316 Disease Free Survival K-M curve
 
 Figure 2: TAX316 Overall Survival K-M curve
 
-The following table describes the results of subgroup analyses for DFS and OS (See Table 14).
+The following table describes the results of subgroup analyses for DFS and OS (see Table 14).
 
 Table 14: Subset Analyses-Adjuvant Breast Cancer Study
 
@@ -92,7 +92,7 @@ Table 14: Subset Analyses-Adjuvant Breast Cancer Study
 |  |  | Disease Free Survival |  | Overall Survival |  |
 | No. of positive nodes |  |  |  |  |  |
 | Overall | 744 | 0.74 | (0.60, 0.92) | 0.69 | (0.53, 0.90) |
-| 1 - 3 | 467 | 0.64 | (0.47, 0.87) | 0.45 | (0.29, 0.70) |
+| 1-3 | 467 | 0.64 | (0.47, 0.87) | 0.45 | (0.29, 0.70) |
 | 4+ | 277 | 0.84 | (0.63, 1.12) | 0.93 | (0.66, 1.32) |
 | Receptor status |  |  |  |  |  |
 | Positive | 566 | 0.76 | (0.59, 0.98) | 0.69 | (0.48, 0.99) |
@@ -100,9 +100,9 @@ Table 14: Subset Analyses-Adjuvant Breast Cancer Study
 
 ## 14.3 Non-small Cell Lung Cancer (NSCLC)
 
-The efficacy and safety of docetaxel has been evaluated in patients with unresectable, locally advanced or metastatic non-small cell lung cancer whose disease has failed prior platinum-based chemotherapy or in patients who are chemotherapy-naive.
+The efficacy and safety of docetaxel has been evaluated in patients with unresectable, locally advanced or metastatic non-small cell lung cancer whose disease has failed prior platinum-based chemotherapy or in patients who are chemotherapy naive.
 
-Monotherapy with docetaxel for NSCLC Previously Treated with Platinum Based Chemotherapy
+Monotherapy with docetaxel for NSCLC Previously Treated with Platinum-Based Chemotherapy
 
 Two randomized, controlled trials established that a docetaxel dose of 75 mg/m 2 was tolerable and yielded a favorable outcome in patients previously treated with platinum-based chemotherapy (see below).
 Docetaxel at a dose of 100 mg/m 2, however, was associated with unacceptable hematologic toxicity, infections, and treatment-related mortality and this dose should not be used [see Boxed Warning, Dosage and Administration (2.7), Warnings and Precautions (5.3)].
@@ -155,7 +155,7 @@ The 95% confidence interval of the hazard ratio (adjusted for interim analysis a
 The results of a further statistical analysis showed that at least (the lower bound of the 95% confidence interval) 62% of the known survival effect of vinorelbine when added to cisplatin (about a 2-month increase in median survival; Wozniak et al. JCO, 1998) was maintained.
 The efficacy data for the docetaxel+cisplatin arm and the comparator arm are summarized in Table 16.
 
-Table 16: Survival Analysis of Docetaxel in Combination Therapy for Chemotherapy Naive NSCLC
+Table 16: Survival Analysis of Docetaxel in Combination Therapy for Chemotherapy-Naive NSCLC
 
 | Comparison | Docetaxel + Cisplatin n=408 | Vinorelbine + Cisplatin n=405 |
 | --- | --- | --- |
@@ -264,7 +264,7 @@ Efficacy results are presented in Table 20 and Figures 8 and 9.
 
 Table 20: Efficacy of Docetaxel in the Induction Treatment of Patients with Inoperable Locally Advanced SCCHN (Intent-to-Treat Analysis)
 
-| ENDPOINT | Docetaxel+ Cisplatin+ Fluorouracil n=177 | Cisplatin+ Fluorouracil n=181 |
+| Endpoint | Docetaxel+ Cisplatin+ Fluorouracil n=177 | Cisplatin+ Fluorouracil n=181 |
 | --- | --- | --- |
 | Median progression free survival (months) (95%CI) | 11.4 (10.1-14.0) | 8.3 (7.4-9.1) |
 | Adjusted Hazard ratio (95%CI) Stratified log-rank test based on primary tumor sitep-value | 0.71 (0.56-0.91) 0.0077 |  |
@@ -274,7 +274,7 @@ Table 20: Efficacy of Docetaxel in the Induction Treatment of Patients with Inop
 | Chi square test, not adjusted for multiple comparisonsp-value | 0.006 |  |
 | Best overall response (CR + PR) to study treatment [chemotherapy +/- radiotherapy] (%) (95%CI) | 72.3 (65.1-78.8) | 58.6 (51.0-65.8) |
 | p-value | 0.006 |  |
-| A Hazard ratio of less than 1 favors Docetaxel+Cisplatin+Fluorouracil |  |  |
+| A Hazard ratio of less than 1 favors docetaxel+cisplatin+fluorouracil |  |  |
 
 Figure 8: TAX323 Progression-Free Survival K-M Curve
 
@@ -299,11 +299,12 @@ Overall survival results are presented in Table 21 and Figure 10.
 
 Table 21: Efficacy of Docetaxel in the Induction Treatment Of Patients with Locally Advanced SCCHN (Intent-to-Treat Analysis)
 
-| ENDPOINT | Docetaxel + Cisplatin+ Fluorouracil n=255 | Cisplatin+ Fluorouracil n=246 |
+| Endpoint | Docetaxel + Cisplatin+ Fluorouracil n=255 | Cisplatin+ Fluorouracil n=246 |
 | --- | --- | --- |
-| Median overall survival (months) (95% CI) | 70.6 (49.0 to NE) | 30.1 (20.9 to 51.5) |
-| Hazard ratio: (95% CI) un-adjusted log-rank test p-value | 0.70 (0.54 to 0.90) 0.0058 |  |
+| Median overall survival (months) (95% CI) | 70.6 (49.0-NE) | 30.1 (20.9-51.5) |
+| Hazard ratio: (95% CI) un-adjusted log-rank test p-value | 0.70 (0.54-0.90) 0.0058 |  |
 | A Hazard ratio of less than 1 favors docetaxel + cisplatin + fluorouracil |  |  |
-| NE - not estimable |  |  |
+
+NE - not estimable
 
 Figure 10: TAX324 Overall Survival K-M Curve

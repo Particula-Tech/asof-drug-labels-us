@@ -9,7 +9,7 @@ Instruct patients to monitor their temperature frequently and immediately report
 
 Enterocolitis and Neutropenic Colitis
 
-Advise patients of the symptoms of colitis, such as abdominal pain or tenderness, and/or diarrhea, with or without fever, and instruct patients to promptly contact their healthcare provider if they experience these symptoms [see Dosage and Administration (2.7), Warnings and Precautions (5.4)].
+Advise patients of the symptoms of colitis, such as abdominal pain or tenderness, and/or diarrhea, with or without fever, and instruct patients to promptly contact their healthcare provider if they experience these symptoms [see Dosage and Administration (2.7) and Warnings and Precautions (5.4)].
 
 Hypersensitivity Reactions
 
@@ -27,12 +27,12 @@ Advise patients on the risk of second primary malignancies during treatment with
 Cutaneous Reactions
 
 Advise patients that localized erythema of the extremities and severe skin toxicities may occur.
-Instruct patients to immediately report severe cutaneous reactions to their healthcare provider [see Dosage and Administration (2.7), Warnings and Precautions (5.8)].
+Instruct patients to immediately report severe cutaneous reactions to their healthcare provider [see Dosage and Administration (2.7) and Warnings and Precautions (5.8)].
 
 Neurologic Reactions
 
 Advise patients that neurosensory symptoms or peripheral neuropathy may occur.
-Instruct patients to immediately report neurologic reactions to their healthcare provider [see Dosage and Administration (2.7), Warnings and Precautions (5.9)].
+Instruct patients to immediately report neurologic reactions to their healthcare provider [see Dosage and Administration (2.7) and Warnings and Precautions (5.9)].
 
 Eye Disorders
 
@@ -44,7 +44,7 @@ Gastrointestinal Reactions
 Explain to patients that nausea, vomiting, diarrhea, and constipation are associated with Docetaxel Injection administration.
 Instruct patients to report any severe events to their healthcare provider [see Adverse Reactions (6)].
 
-Cardiac disorders
+Cardiac Disorders
 
 Advise patients to report any irregular and/or rapid heartbeat, severe shortness of breath, dizziness, and/or fainting immediately to their healthcare provider [see Adverse Reactions (6)].
 
@@ -64,19 +64,25 @@ Docetaxel can cause fetal harm.
 Advise patients to inform their healthcare provider of a known or suspected pregnancy.
 Advise patients to avoid becoming pregnant while receiving this drug.
 Advise female patients of reproductive potential to use effective contraceptives during treatment and for 6 months after the last dose of docetaxel.
-Advise male patients with female partners of reproductive potential to use effective contraception during treatment and for 3 months after the last dose of docetaxel [see Warnings and Precautions (5.12) and Use in Specific Populations (8.1, 8.3)].
+Advise male patients with female partners of reproductive potential to use effective contraception during treatment and for 3 months after the last dose of docetaxel [see Warnings and Precautions (5.12), and Use in Specific Populations (8.1, 8.3)].
 
 Lactation
 
-Advise women not to breastfeed during docetaxel treatment and for 1 week after the last dose [see Use in Specific Populations (8.2)]].
+Advise women not to breastfeed during docetaxel treatment and for 1 week after the last dose [see Use in Specific Populations (8.2)].
 
 Infertility
 
-Advise males of reproductive potential that docetaxel may impair fertility [see Nonclinical Toxicology (13.1)]].
+Advise males of reproductive potential that docetaxel may impair fertility [see Nonclinical Toxicology (13.1)].
 
 Alcohol Content in Docetaxel Injection
 
 Explain to patients the possible effects of the alcohol content in docetaxel, including possible effects on the central nervous system [see Warnings and Precautions (5.13)].
+
+Tumor Lysis Syndrome
+
+Advise patients of the potential risk of tumor lysis syndrome and to immediately report any signs or symptoms associated with this event (nausea, vomiting, confusion, shortness of breath, seizure, irregular heartbeat, dark or cloudy urine, reduced amount of urine, unusual tiredness, muscle cramps) to their healthcare provider.
+Advise patients of the importance of keeping scheduled appointment for blood work or other laboratory tests and of drinking adequate fluids to avoid dehydration.
+[see Warnings and Precautions (5.14)].
 
 Ability to Drive or Operate Machines
 
@@ -91,6 +97,6 @@ Manufactured For: Accord Healthcare, Inc., 1009, Slater Road, Suite 210-B, Durha
 
 Manufactured By: Intas Pharmaceuticals Limited, Ahmedabad – 380 054, India.
 
-10 0739 2 698663
+10 0739 3 6000259
 
-Issued June 2019
+Issued July 2020
