@@ -2,11 +2,12 @@
 
 DIPRIVAN (propofol) Injectable Emulsion, USP Vials
 
-| Product No. | NDC No. | Strength |  |
+| Product Code | Each | Unit of Sale | Strength |
 | --- | --- | --- | --- |
-| NP260929 | 63323-269-37 | 200 mg per 20 mL (10 mg per mL) | 20 mL ready-to-use single-patient infusion vial in packages of ten. |
-| NP260957 | 63323-269-57 | 500 mg per 50 mL (10 mg per mL) | 50 mL ready-to-use single-patient infusion vial in packages of twenty. |
-| NP260967 | 63323-269-67 | 1,000 mg per 100 mL (10 mg per mL) | 100 mL ready-to-use single-patient infusion vial in packages of ten. |
+| NP260910 | NDC 63323-269-06 | NDC 63323-269-16 10 mL ready-to-use single-patient infusion vial in packages of ten. | 100 mg per 10 mL (10 mg per mL) |
+| NP260929 | N/A | NDC 63323-269-37 20 mL ready-to-use single-patient infusion vial in packages of ten. | 200 mg per 20 mL (10 mg per mL) |
+| NP260957 | N/A | NDC 63323-269-57 50 mL ready-to-use single-patient infusion vial in packages of twenty. | 500 mg per 50 mL (10 mg per mL) |
+| NP260967 | N/A | NDC 63323-269-67 100 mL ready-to-use single-patient infusion vial in packages of ten. | 1,000 mg per 100 mL (10 mg per mL) |
 
 Propofol undergoes oxidative degradation, in the presence of oxygen, and is therefore packaged under nitrogen to eliminate this degradation path.
 
