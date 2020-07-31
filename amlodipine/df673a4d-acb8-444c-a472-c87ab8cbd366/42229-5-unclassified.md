@@ -1,6 +1,4 @@
-Manufactured for: Silvergate Pharmaceuticals, Inc. 6251 Greenwood Plaza Blvd.
-Greenwood Village, CO 80111
+Manufactured for: Azurity Pharmaceuticals, Inc. Wilmington, MA 01887 USA
 
-AML-1907
-
-07/2019
+PI500101-01 Rev.
+3/2020
