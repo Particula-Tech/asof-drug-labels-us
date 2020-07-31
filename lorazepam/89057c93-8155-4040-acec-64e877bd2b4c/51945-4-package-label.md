@@ -14,7 +14,7 @@ PHARMACIST: Dispense the accompanying Medication Guide to each patient.
 
 100 Tablets
 
-VALEANT
+BAUSCH Health
 
 # PRINCIPAL DISPLAY PANEL - 1.0 mg Bottle Label
 
@@ -28,11 +28,11 @@ CIV SEALED FOR YOUR PROTECTION
 
 1 mg
 
-PHARMACIST: Dispense the accompanying Medication Guide to each patient,
+PHARMACIST: Dispense the accompanying Medication Guide to each patient.
 
 100 Tablets
 
-VALEANT
+BAUSCH Health
 
 # PRINCIPAL DISPLAY PANEL - 0.5 mg Bottle Label
 
@@ -50,4 +50,4 @@ PHARMACIST: Dispense the accompanying Medication Guide to each patient.
 
 100 Tablets
 
-VALEANT
+BAUSCH Health

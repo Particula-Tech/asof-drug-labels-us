@@ -10,4 +10,4 @@ Other adverse reactions to benzodiazepines, including lorazepam are fatigue, dro
 Paradoxical reactions, including anxiety, excitation, agitation, hostility, aggression, rage, sleep disturbances/insomnia, sexual arousal, and hallucinations may occur.
 Small decreases in blood pressure and hypotension may occur but are usually not clinically significant, probably being related to the relief of anxiety produced by Ativan (lorazepam).
 
-To report SUSPECTED ADVERSE REACTIONS, contact Valeant Pharmaceuticals North America LLC at 1-800-321-4576 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
+To report SUSPECTED ADVERSE REACTIONS, contact Bausch Health US, LLC at 1-800-321-4576 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
