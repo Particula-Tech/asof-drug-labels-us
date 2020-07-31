@@ -16,7 +16,7 @@ Rx only
 
 100 Tablets
 
-NDC 68382-024-16 in bottles of 100 tablets
+NDC 65841-024-01 in bottles of 100 tablets
 
 Atenolol Tablets USP, 100 mg
 
