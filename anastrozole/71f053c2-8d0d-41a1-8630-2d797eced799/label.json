@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA212434"
+  ],
+  "inn": "anastrozole",
+  "labeler": "Aurobindo Pharma Limited",
+  "package_ndcs": [
+    "59651-236-30",
+    "59651-236-90"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "anastrozole",
+      "name": "Anastrozole"
+    }
+  ],
+  "setid": "71f053c2-8d0d-41a1-8630-2d797eced799",
+  "source": "dailymed"
+}
