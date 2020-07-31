@@ -14,7 +14,7 @@ If patients develop a skin rash they should be monitored closely and piperacilli
 
 ## 5.3 Hematologic Adverse Reactions
 
-Bleeding manifestations have occurred in some patients receiving β-lactam drugs, including piperacillin.
+Bleeding manifestations have occurred in some patients receiving beta-lactam drugs, including piperacillin.
 These reactions have sometimes been associated with abnormalities of coagulation tests such as clotting time, platelet aggregation and prothrombin time, and are more likely to occur in patients with renal failure.
 If bleeding manifestations occur, piperacillin and tazobactam for injection should be discontinued and appropriate therapy instituted.
 
@@ -24,7 +24,9 @@ Periodic assessment of hematopoietic function should be performed, especially wi
 
 ## 5.4 Central Nervous System Adverse Reactions
 
-As with other penicillins, patients may experience neuromuscular excitability or convulsions if higher than recommended doses are given intravenously (particularly in the presence of renal failure).
+As with other penicillins, piperacillin and tazobactam for injection may cause neuromuscular excitability or seizures.
+Patients receiving higher doses, especially patients with renal impairment may be at greater risk for central nervous system adverse reactions.
+Closely monitor patients with renal impairment or seizure disorders for signs and symptoms of neuromuscular excitability or seizures [see Adverse Reactions (6.2)].
 
 ## 5.5 Nephrotoxicity in Critically ill Patients
 
@@ -40,9 +42,9 @@ This should be considered when treating patients requiring restricted salt intak
 
 Periodic electrolyte determinations should be performed in patients with low potassium reserves, and the possibility of hypokalemia should be kept in mind with patients who have potentially low potassium reserves and who are receiving cytotoxic therapy or diuretics.
 
-## 5.7 Clostridium difficile Associated Diarrhea
+## 5.7 Clostridioides difficile - Associated Diarrhea
 
-Clostridium difficile associated diarrhea (CDAD) has been reported with use of nearly all antibacterial agents, including piperacillin and tazobactam for injection, and may range in severity from mild diarrhea to fatal colitis.
+Clostridioides difficile - associated diarrhea (CDAD) has been reported with use of nearly all antibacterial agents, including piperacillin and tazobactam for injection, and may range in severity from mild diarrhea to fatal colitis.
 Treatment with antibacterial agents alters the normal flora of the colon leading to overgrowth of C. difficile.
 
 C. difficile produces toxins A and B which contribute to the development of CDAD.

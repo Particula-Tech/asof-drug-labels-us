@@ -20,10 +20,10 @@ Skipping doses or not completing the full course of therapy may (1) decrease the
 
 Counsel patients that piperacillin and tazobactam can cross the placenta in humans and is excreted in human milk.
 
-July 2019
+CLINITEST® is a registered trademark of Siemens Healthcare Diagnostics Inc.
 
-46252799
+46269526
 
 Manufactured by Sandoz GmbH for Hospira, Inc.
 
-Lake Forest, IL 60045, USA.
+Lake Forest, IL 60045, USA

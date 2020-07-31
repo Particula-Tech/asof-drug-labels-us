@@ -1,46 +1,49 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-Piperacillin and tazobactam for injection should be administered by intravenous infusion over 30 minutes.
+## 2.1 Dosage in Adult Patients with Indications Other Than Nosocomial Pneumonia
 
-## 2.1 Adult Patients
-
-The usual total daily dose of piperacillin and tazobactam for injection for adults is 3.375 g every six hours totaling 13.5 g (12 g piperacillin/1.5 g tazobactam).
+The usual total daily dosage of piperacillin and tazobactam for injection for adult patients with indications other than nosocomial pneumonia is 3.375 g every six hours [totaling 13.5 g (12 g piperacillin/1.5 g tazobactam)], to be administered by intravenous infusion over 30 minutes.
 The usual duration of piperacillin and tazobactam for injection treatment is from 7 to 10 days.
 
-Piperacillin and tazobactam for injection should be administered by intravenous infusion over 30 minutes.
+## 2.2 Dosage in Adult Patients with Nosocomial Pneumonia
 
-## 2.2 Nosocomial Pneumonia
-
-Initial presumptive treatment of patients with nosocomial pneumonia should start with piperacillin and tazobactam for injection at a dosage of 4.5 g every six hours plus an aminoglycoside, totaling 18 g (16 g piperacillin/2 g tazobactam).
+Initial presumptive treatment of adult patients with nosocomial pneumonia should start with piperacillin and tazobactam for injection at a dosage of 4.5 g every six hours plus an aminoglycoside, [totaling 18 g (16 g piperacillin/2 g tazobactam)], administered by intravenous infusion over 30 minutes.
 The recommended duration of piperacillin and tazobactam for injection treatment for nosocomial pneumonia is 7 to 14 days.
 Treatment with the aminoglycoside should be continued in patients from whom P. aeruginosa is isolated.
 
-## 2.3 Renal Impairment
+## 2.3 Dosage in Adult Patients with Renal Impairment
 
-In patients with renal impairment (creatinine clearance ≤40 mL/min) and dialysis patients (hemodialysis and CAPD), the intravenous dose of piperacillin and tazobactam for injection should be reduced to the degree of actual renal function impairment.
-The recommended daily doses of piperacillin and tazobactam for injection for patients with renal impairment are as follows:
+In adult patients with renal impairment (creatinine clearance ≤ 40 mL/min) and dialysis patients (hemodialysis and CAPD), the intravenous dose of piperacillin and tazobactam for injection should be reduced based on the degree of renal impairment.
+The recommended daily dosage of piperacillin and tazobactam for injection for patients with renal impairment administered by intravenous infusion over 30 minutes is described in Table 1.
 
-1. Table 1 Recommended Dosing of Piperacillin and Tazobactam for Injection in Patients with Normal Renal Function and Renal Impairment (As total grams piperacillin/tazobactam)
-
-| Renal Function (creatinine clearance, mL/min) | All Indications (except nosocomial pneumonia) | Nosocomial Pneumonia |
+| Creatinine Clearance, mL/min | All Indications (except nosocomial pneumonia) | Nosocomial Pneumonia |
 | --- | --- | --- |
-| >40 mL/min | 3.375 q 6 h | 4.5 q 6 h |
-| 20-40 mL/minCreatinine clearance for patients not receiving hemodialysis | 2.25 q 6 h | 3.375 q 6 h |
-| <20 mL/min | 2.25 q 8 h | 2.25 q 6 h |
-| Hemodialysis0.75 g (0.67 g piperacillin/0.08 g tazobactam) should be administered following each hemodialysis session on hemodialysis days | 2.25 q 12 h | 2.25 q 8 h |
-| CAPD | 2.25 q 12 h | 2.25 q 8 h |
+| Table 1: Recommended Dosage of Piperacillin and Tazobactam for Injection in Patients with Normal Renal Function and Renal Impairment (As total grams piperacillin/tazobactam)1 |  |  |
+| Greater than 40 mL/min | 3.375 every 6 hours | 4.5 every 6 hours |
+| 20 to 40 mL/min2 | 2.25 every 6 hours | 3.375 every 6 hours |
+| Less than 20 mL/min2 | 2.25 every 8 hours | 2.25 every 6 hours |
+| Hemodialysis3 | 2.25 every 12 hours | 2.25 every 8 hours |
+| CAPD | 2.25 every 12 hours | 2.25 every 8 hours |
 
 For patients on hemodialysis, the maximum dose is 2.25 g every twelve hours for all indications other than nosocomial pneumonia and 2.25 g every eight hours for nosocomial pneumonia.
 Since hemodialysis removes 30% to 40% of the administered dose, an additional dose of 0.75 g piperacillin and tazobactam for injection (0.67 g piperacillin/0.08 g tazobactam) should be administered following each dialysis period on hemodialysis days.
 No additional dosage of piperacillin and tazobactam for injection is necessary for CAPD patients.
 
-## 2.4 Pediatric Patients
+## 2.4 Dosage in Pediatric Patients with Appendicitis/Peritonitis or Nosocomial Pneumonia
 
-For children with appendicitis and/or peritonitis 9 months of age or older, weighing up to 40 kg, and with normal renal function, the recommended piperacillin and tazobactam for injection dosage is 100 mg piperacillin/12.5 mg tazobactam per kilogram of body weight, every 8 hours.
-For pediatric patients between 2 months and 9 months of age, the recommended piperacillin and tazobactam for injection dosage based on pharmacokinetic modeling, is 80 mg piperacillin/10 mg tazobactam per kilogram of body weight, every 8 hours [see Use in Specific Populations (8.4) and Clinical Pharmacology (12.3)].
-Pediatric patients weighing over 40 kg and with normal renal function should receive the adult dose.
+The recommended dosage for pediatric patients with appendicitis and/or peritonitis or nosocomial pneumonia aged 2 months of age and older, weighing up to 40 kg, and with normal renal function, is described in Table 2[see Use in Specific Populations (8.4) and Clinical Pharmacology (12.3)].
 
-It has not been determined how to adjust piperacillin and tazobactam for injection dosage in pediatric patients with renal impairment.
+| Table 2: Recommended Dosage of Piperacillin and Tazobactam for Injection in Pediatric Patients 2 Months of Age and Older, Weighing up to 40 kg and With Normal Renal Function1 |  |  |
+| --- | --- | --- |
+| Age | Appendicitis and /or Peritonitis | Nosocomial Pneumonia |
+| 2 months to 9 months | 90 mg/kg (80 mg piperacillin/10 mg tazobactam) every 8 (eight) hours | 90 mg/kg (80 mg piperacillin/10 mg tazobactam) every 6 (six) hours |
+| Older than 9 months of age | 112.5 mg/kg (100 mg piperacillin/12.5 mg tazobactam) every 8 (eight) hours | 112.5 mg/kg (100 mg piperacillin/12.5 mg tazobactam) every 6 (six) hours |
+
+1 Administer piperacillin and tazobactam for injection by intravenous infusion over 30 minutes.
+
+Pediatric patients weighing over 40 kg and with normal renal function should receive the adult dose [see Dosage and Administration (2.1, 2.2)].
+
+Dosage of piperacillin and tazobactam for injection in pediatric patients with renal impairment has not been determined.
 
 ## 2.5 Reconstitution and Dilution of Powder Formulations
 
@@ -118,12 +121,18 @@ Piperacillin and tazobactam for injection and aminoglycosides should be reconsti
 
 In circumstances where co-administration via Y-site is necessary, Y-site infusion only with the following aminoglycosides under the following conditions:
 
-Table 2 Compatibility with Aminoglycosides
+Table 3: Compatibility with Aminoglycosides
 
-| Aminoglycoside | Piperacillin and Tazobactam for Injection Dose (grams) | Piperacillin and Tazobactam for Injection Diluent VolumeDiluent volumes apply to single dose vials (mL) | Aminoglycoside Concentration RangeThe concentration ranges in Table 2 are based on administration of the aminoglycoside in divided doses (10 to 15 mg/kg/day in two daily doses for amikacin and 3 to 5 mg/kg/day in three daily doses for gentamicin). Administration of amikacin or gentamicin in a single daily dose or in doses exceeding those stated above via Y-site with piperacillin and tazobactam for injection has not been evaluated. See package insert for each aminoglycoside for complete Dosage and Administration instructions. (mg/mL) | Acceptable Diluents |
+| Aminoglycoside | Piperacillin and Tazobactam for Injection Dose (grams) | Piperacillin and Tazobactam for Injection Diluent Volume1 (mL) | Aminoglycoside Concentration Range2 (mg/mL) | Acceptable Diluents |
 | --- | --- | --- | --- | --- |
 | Amikacin | 2.253.3754.5 | 50100150 | 1.75 – 7.5 | 0.9% sodium chloride or 5% dextrose |
 | Gentamicin | 2.253.3754.5 | 50100150 | 0.7 – 3.32 | 0.9% sodium chloride or 5% dextrose |
+
+1 Diluent volumes apply only to single vials and bulk pharmacy containers.
+
+2 The concentration ranges in Table 3 are based on administration of the aminoglycoside in divided doses (10 to 15 mg/kg/day in two daily doses for amikacin and 3 to 5 mg/kg/day in three daily doses for gentamicin).
+Administration of amikacin or gentamicin in a single daily dose or in doses exceeding those stated above via Y-site with piperacillin and tazobactam for injection has not been evaluated.
+See package insert for each aminoglycoside for complete Dosage and Administration instructions.
 
 Only the concentration and diluents for amikacin or gentamicin with the dosages of piperacillin and tazobactam for injection listed above have been established as compatible for co-administration via Y-site infusion.
 Simultaneous co-administration via Y-site infusion in any manner other than listed above may result in inactivation of the aminoglycoside by piperacillin and tazobactam for injection.
