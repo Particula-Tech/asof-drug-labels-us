@@ -31,7 +31,7 @@ The entire label should be read to gain a complete understanding of the safety p
 
 The prescriber should be aware that the figures in the tables and tabulations cannot be used to predict the incidence of side effects in the course of usual medical practice where patient characteristics and other factors differ from those that prevailed in the clinical trials.
 Similarly, the cited frequencies cannot be compared with figures obtained from other clinical investigations involving different treatments, uses, and investigators.
-The cited figures, however, do provide the prescribing physician with some basis for estimating the relative contribution of drug and nondrug factors to the adverse reactions incidence in the population studied.
+The cited figures, however, do provide the prescribing healthcare provider with some basis for estimating the relative contribution of drug and nondrug factors to the adverse reactions incidence in the population studied.
 
 Incidence of Adverse Reactions in Short-Term, Placebo-Controlled and Combination Trials
 
@@ -229,7 +229,7 @@ a Denominator used was for females only (olanzapine, N=128; placebo, N=51).
 
 For specific information about the adverse reactions observed with lithium or valproate, refer to the Adverse Reactions section of the package inserts for these other products.
 
-## 6.2 Extrapyramidal Symptoms
+Extrapyramidal Symptoms
 
 The following table enumerates the percentage of patients with treatment-emergent extrapyramidal symptoms as assessed by categorical analyses of formal rating scales during acute therapy in a controlled clinical trial comparing oral olanzapine at 3 fixed doses with placebo in the treatment of schizophrenia in a 6-week trial.
 
@@ -290,7 +290,7 @@ Dystonic symptoms include: spasm of the neck muscles, sometimes progressing to t
 While these symptoms can occur at low doses, the frequency and severity are greater with high potency and at higher doses of first generation antipsychotic drugs.
 In general, an elevated risk of acute dystonia may be observed in males and younger age groups receiving antipsychotics; however, events of dystonia have been reported infrequently (<1%) with olanzapine use.
 
-## 6.3 Other Adverse Reactions
+Other Adverse Reactions
 
 Other Adverse Reactions Observed During the Clinical Trial Evaluation of Oral Olanzapine
 
@@ -418,11 +418,12 @@ ECG Changes — In pooled studies of adults as well as pooled studies of adolesc
 Olanzapine use was associated with a mean increase in heart rate compared to placebo (adults: +2.4 beats per minute vs no change with placebo; adolescents: +6.3 beats per minute vs -5.1 beats per minute with placebo).
 This increase in heart rate may be related to olanzapine’s potential for inducing orthostatic changes [see Warnings and Precautions (5.7)].
 
-## 6.4 Postmarketing Experience
+## 6.2 Postmarketing Experience
 
 The following adverse reactions have been identified during post-approval use of olanzapine.
 Because these reactions are reported voluntarily from a population of uncertain size, it is difficult to reliably estimate their frequency or evaluate a causal relationship to drug exposure.
 
-Adverse reactions reported since market introduction that were temporally (but not necessarily causally) related to olanzapine therapy include the following: allergic reaction (e.g., anaphylactoid reaction, angioedema, pruritus or urticaria), cholestatic or mixed liver injury, diabetic coma, diabetic ketoacidosis, discontinuation reaction (diaphoresis, nausea or vomiting), Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS), hepatitis, jaundice, neutropenia, pancreatitis, priapism, rash, restless legs syndrome, rhabdomyolysis, stuttering1, and venous thromboembolic events (including pulmonary embolism and deep venous thrombosis).
+Adverse reactions reported since market introduction that were temporally (but not necessarily causally) related to olanzapine therapy include the following: allergic reaction (e.g., anaphylactoid reaction, angioedema, pruritus or urticaria), cholestatic or mixed liver injury, diabetic coma, diabetic ketoacidosis, discontinuation reaction (diaphoresis, nausea or vomiting), Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS), hepatitis, jaundice, neutropenia, pancreatitis, priapism, rash, restless legs syndrome, rhabdomyolysis, salivary hypersecretion, stuttering1, and venous thromboembolic events (including pulmonary embolism and deep venous thrombosis).
 Random cholesterol levels of ≥240 mg/dL and random triglyceride levels of ≥1,000 mg/dL have been reported.
+
 1 Stuttering was only studied in oral and long acting injection (LAI) formulations.

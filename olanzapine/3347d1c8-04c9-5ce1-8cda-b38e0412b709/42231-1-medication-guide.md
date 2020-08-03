@@ -91,9 +91,10 @@ Before starting olanzapine tablets, tell your doctor if you have or had:
 - any other medical condition
 - are pregnant or plan to become pregnant.
   It is not known if olanzapine tablets will harm your unborn baby.
+  - If you become pregnant while receiving olanzapine tablets, talk to your healthcare provider about registering with the National Pregnancy Registry for Atypical Antipsychotics.
+    You can register by calling 1-866-961-2388 or go to http://womensmentalhealth.org/clinical-andresearch-programs/pregnancyregistry/.
 - are breast-feeding or plan to breast-feed.
-  Olanzapine can pass into your breast milk and may harm your baby.
-  You should not breast-feed while taking olanzapine tablets.
+  Olanzapine passes into your breast milk.
   Talk to your doctor about the best way to feed your baby if you take olanzapine tablets.
 
 Tell your doctor if you exercise a lot or are in hot places often.
@@ -214,4 +215,4 @@ APOTEX INC. OLANZAPINE TABLETS, USP 2.5 mg, 5.0 mg, 7.5 mg, 10 mg, 15 mg and 20 
 | Toronto, Ontario | Weston, Florida |
 | Canada M9L 1T9 | USA 33326 |
 
-Revised: April 2018 Revision 5
+Revised: June 2020 Revision 7

@@ -2,20 +2,14 @@
 
 ## 12.1 Mechanism of Action
 
-The mechanism of action of olanzapine, as with other drugs having efficacy in schizophrenia, is unknown.
-However, it has been proposed that this drug's efficacy in schizophrenia is mediated through a combination of dopamine and serotonin type 2 (5HT2) antagonism.
-The mechanism of action of olanzapine in the treatment of acute manic or mixed episodes associated with bipolar I disorder is unknown.
+The mechanism of action of olanzapine in the listed indications is unclear.
+However, the efficacy of olanzapine in schizophrenia could be mediated through a combination of dopamine and serotonin type 2 (5HT2) antagonism.
 
 ## 12.2 Pharmacodynamics
 
 Olanzapine binds with high affinity to the following receptors: serotonin 5HT2A/2C, 5HT6 (Ki=4, 11, and 5 nM, respectively), dopamine D1-4 (Ki=11 to 31 nM), histamine H1 (Ki=7 nM), and adrenergic α1 receptors (Ki=19 nM).
 Olanzapine is an antagonist with moderate affinity binding for serotonin 5HT3 (Ki=57 nM) and muscarinic M1-5 (Ki=73, 96, 132, 32, and 48 nM, respectively).
-Olanzapine binds weakly to GABAA, BZD, and β-adrenergic receptors (Ki>10 mcM).
-
-Antagonism at receptors other than dopamine and 5HT2 may explain some of the other therapeutic and side effects of olanzapine.
-Olanzapine's antagonism of muscarinic M1-5 receptors may explain its anticholinergic-like effects.
-Olanzapine's antagonism of histamine H1 receptors may explain the somnolence observed with this drug.
-Olanzapine's antagonism of adrenergic α1 receptors may explain the orthostatic hypotension observed with this drug.
+Olanzapine binds with low affinity to GABAA, BZD, and β-adrenergic receptors (Ki>10 mcM).
 
 ## 12.3 Pharmacokinetics
 

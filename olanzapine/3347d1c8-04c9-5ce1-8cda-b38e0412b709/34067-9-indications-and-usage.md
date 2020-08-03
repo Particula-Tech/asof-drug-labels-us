@@ -29,14 +29,14 @@ For pediatric schizophrenia, symptom profiles can be variable, and for bipolar I
 It is recommended that medication therapy for pediatric schizophrenia and bipolar I disorder be initiated only after a thorough diagnostic evaluation has been performed and careful consideration given to the risks associated with medication treatment.
 Medication treatment for both pediatric schizophrenia and bipolar I disorder should be part of a total treatment program that often includes psychological, educational and social interventions.
 
-## 1.5 Olanzapine tablets and Fluoxetine in Combination: Depressive Episodes Associated with Bipolar I Disorder
+## 1.5 Olanzapine Tablets and Fluoxetine in Combination: Depressive Episodes Associated with Bipolar I Disorder
 
 Oral olanzapine tablets and fluoxetine in combination is indicated for the treatment of depressive episodes associated with bipolar I disorder, based on clinical studies.
 When using olanzapine tablets and fluoxetine in combination, refer to the Clinical Studies section of the package insert for Symbyax.
 
 Olanzapine tablets monotherapy is not indicated for the treatment of depressive episodes associated with bipolar I disorder.
 
-## 1.6 Olanzapine tablets and Fluoxetine in Combination: Treatment Resistant Depression
+## 1.6 Olanzapine Tablets and Fluoxetine in Combination: Treatment Resistant Depression
 
 Oral olanzapine and fluoxetine in combination is indicated for the treatment of treatment resistant depression (major depressive disorder in patients who do not respond to 2 separate trials of different antidepressants of adequate dose and duration in the current episode), based on clinical studies in adult patients.
 When using olanzapine and fluoxetine in combination, refer to the Clinical Studies section of the package insert for Symbyax.
