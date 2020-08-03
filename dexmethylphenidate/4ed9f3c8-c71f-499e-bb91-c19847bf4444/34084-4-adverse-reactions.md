@@ -15,11 +15,18 @@ The following are discussed in more detail in other sections of the labeling:
 ## 6.1 Clinical Trials Experience
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
-Clinical Trials Experience with Dexmethylphenidate Hydrochloride Extended-Release Capsules in Pediatric Patients with ADHD The safety data in this section is based on data from a 7-week controlled clinical study of dexmethylphenidate hydrochloride extended-release capsules in 100 (103 randomized) pediatric patients with ADHD ages 6 to 17 years (ages 6 to 12, n = 86; ages 13 to 17, n = 17).
+
+Clinical Trials Experience with Dexmethylphenidate Hydrochloride Extended-Release Capsules in Pediatric Patients with ADHD
+
+The safety data in this section is based on data from a 7-week controlled clinical study of dexmethylphenidate hydrochloride extended-release capsules in 100 (103 randomized) pediatric patients with ADHD ages 6 to 17 years (ages 6 to 12, n = 86; ages 13 to 17, n = 17).
+
 This study was a randomized, double-blind, placebo-controlled, parallel-group study to evaluate the time of onset, duration of efficacy, tolerability, safety of dexmethylphenidate hydrochloride extended-release capsules 5 mg to 30 mg/day who met DSM-IV criteria for ADHD [see Clinical Studies (14.1)].
+
 Most Common Adverse Reactions (incidence of greater than or equal to 5% and at least twice placebo): dyspepsia, decreased appetite, headache and anxiety.
+
 Adverse Reactions Leading to Discontinuation: 50 of 684 (7.3%) pediatric patients treated with dexmethylphenidate immediate-release tablets experienced an adverse reaction that resulted in discontinuation.
 The most common reasons for discontinuation were twitching (described as motor or vocal tics), anorexia, insomnia, and tachycardia (approximately 1% each).
+
 Table 1 enumerates adverse reactions for the placebo-controlled, parallel-group study in children and adolescents with ADHD at flexible dexmethylphenidate hydrochloride extended-release capsules doses of 5–30 mg/day.
 The table includes only those events that occurred in 5% or more of patients treated with dexmethylphenidate hydrochloride extended-release capsules and for which the incidence in patients treated with dexmethylphenidate hydrochloride extended-release capsules was at least twice the incidence in placebo-treated patients.
 
@@ -35,15 +42,16 @@ Table 1: Common Adverse Reactions in Pediatric Patients (6 to 17 years of age) w
 | Headache | 25% | 11% |
 | Psychiatric Disorders | 26% | 15% |
 | Anxiety | 6% | 0% |
+| Abbreviation: attention deficit hyperactivity disorder. |  |  |
 
 Table 2 below enumerates the incidence of dose-related adverse reactions that occurred during a fixed-dose, double-blind, placebo-controlled trial in pediatric patients with ADHD taking dexmethylphenidate hydrochloride extended-release capsules up to 30 mg daily versus placebo.
 The table includes only those reactions that occurred in patients treated with dexmethylphenidate hydrochloride extended-release capsules for which the incidence was at least 5% and greater than the incidence among placebo-treated patients.
 
 Table 2: Dose-Related Adverse Reactions in Pediatric Patients (6 to 17 years of age) with ADHD
 
-|  | Dexmethylphenidate HCl ER Capsules | Dexmethylphenidate HCl ER Capsules | Dexmethylphenidate HCl ER Capsules | Placebo |
+| System Organ Class Adverse Reaction | Dexmethylphenidate HCl ER Capsules | Dexmethylphenidate HCl ER Capsules | Dexmethylphenidate HCl ER Capsules | Placebo |
 | --- | --- | --- | --- | --- |
-| System Organ Class Adverse Reaction | 10 mg/d N=64 | 20 mg/d N=60 | 30 mg/d N=58 | N=63 |
+| 10 mg/d N=64 | 20 mg/d N=60 | 30 mg/d N=58 | N=63 |  |
 | Gastrointestinal Disorders | 22% | 23% | 29% | 24% |
 | Vomiting | 2% | 8% | 9% | 0% |
 | Metabolism and Nutritional Disorders | 16% | 17% | 22% | 5% |
@@ -56,13 +64,20 @@ Table 2: Dose-Related Adverse Reactions in Pediatric Patients (6 to 17 years of 
 | Irritability | 0% | 2% | 5% | 0% |
 | Nasal Congestion | 0% | 0% | 5% | 0% |
 | Pruritus | 0% | 0% | 3% | 0% |
+| Abbreviation: attention deficit hyperactivity disorder. |  |  |  |  |
 
-Clinical Trials Experience with Dexmethylphenidate Hydrochloride Extended-Release Capsules in Adult Patients with ADHD The safety data in this section is based on data from a 5-week controlled clinical study of dexmethylphenidate hydrochloride extended-release capsules in 218 adult patients (221 randomized) with ADHD ages 18 to 60 years.
+Clinical Trials Experience With Dexmethylphenidate Hydrochloride Extended-Release Capsules in Adult Patients With ADHD
+
+The safety data in this section is based on data from a 5-week controlled clinical study of dexmethylphenidate hydrochloride extended-release capsules in 218 adult patients (221 randomized) with ADHD ages 18 to 60 years.
 In this study, 101 adult patients were treated for at least 6 months.
+
 This study was a randomized, double-blind, placebo-controlled, parallel-group study to evaluate the efficacy, safety, and tolerability of dexmethylphenidate hydrochloride extended-release capsules 20 mg, 30 mg, or 40 mg daily who met DSM-IV criteria for ADHD [see Clinical Studies (14.2)].
+
 Most Common Adverse Reactions (incidence of greater than or equal to 5% and at least twice placebo): dry mouth, dyspepsia, headache, anxiety, and pharyngolaryngeal pain.
+
 Adverse Reactions Leading to Discontinuation: During the double-blind phase of the study, 10.7% of the dexmethylphenidate hydrochloride extended-release capsules - treated patients and 7.5% of the placebo-treated patients discontinued due to adverse reactions.
 Three patients (1.8%) in the dexmethylphenidate hydrochloride extended-release capsules discontinued due to insomnia and jittery, respectively and two patients (1.2%) in the dexmethylphenidate hydrochloride extended-release capsules discontinued due to anorexia and anxiety, respectively.
+
 Table 3 enumerates adverse reactions for the placebo-controlled, parallel-group study in adults with ADHD at fixed dexmethylphenidate hydrochloride extended-release capsules doses of 20, 30, and 40 mg/day.
 The table includes only those events that occurred in 5% or more of patients in a dexmethylphenidate hydrochloride extended-release capsules dose group and for which the incidences in patients treated with dexmethylphenidate hydrochloride extended-release capsules appeared to increase with dose.
 
@@ -77,8 +92,8 @@ Table 3: Dose-Related Adverse Reactions in Adult Patients (18 to 60 years of age
 | Headache | 26% | 30% | 39% | 19% |
 | Psychiatric Disorders | 40% | 43% | 46% | 30% |
 | Anxiety | 5% | 11% | 11% | 2% |
-| Respiratory, Thoracic and |  |  |  |  |
-| Mediastinal Disorders | 16% | 9% | 15% | 8% |
+| Respiratory, Thoracic and Mediastinal Disorders |  |  |  |  |
+| 16% | 9% | 15% | 8% |  |
 | Pharyngolaryngeal Pain | 4% | 4% | 7% | 2% |
 
 Two other adverse reactions occurring in clinical trials with dexmethylphenidate hydrochloride extended-release capsules at a frequency greater than placebo, but which were not dose related were: feeling jittery (12% and 2%, respectively) and dizziness (6% and 2%, respectively).
@@ -95,7 +110,7 @@ Table 4: Changes (Mean ± SD) in Vital Signs and Weight by Randomized Dose Durin
 ## 6.2 Post-Marketing Experience
 
 The following additional adverse reactions have been identified during post-approval use of dexmethylphenidate.
-Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure Musculoskeletal: rhabdomyolysis Immune System Disorders: hypersensitivity reactions, including angioedema and anaphylaxis Adverse Reactions Reported with All Ritalin (methylphenidate) and Dexmethylphenidate Hydrochloride Formulations The following adverse reactions associated with the use of all Ritalin (methylphenidate) and dexmethylphenidate hydrochloride formulations were identified in clinical trials, spontaneous reports, and literature.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure Musculoskeletal: rhabdomyolysis Immune System Disorders: hypersensitivity reactions, including angioedema and anaphylaxis Adverse Reactions Reported with all Ritalin (methylphenidate) and Dexmethylphenidate Hydrochloride Formulations The following adverse reactions associated with the use of all Ritalin (methylphenidate) and dexmethylphenidate hydrochloride formulations were identified in clinical trials, spontaneous reports, and literature.
 Because these reactions were reported voluntarily from a population of uncertain size, it is not always possible to estimate their frequency reliably or to establish a causal relationship to drug exposure.
-Infections and Infestations: nasopharyngitis Blood and the Lymphatic System Disorders: leukopenia, thrombocytopenia, anemia Immune System Disorders: hypersensitivity reactions, including angioedema and anaphylaxis Metabolism and Nutrition Disorders: decreased appetite, reduced weight gain, and suppression of growth during prolonged use in pediatric patients Psychiatric Disorders: insomnia, anxiety, restlessness, agitation, psychosis (sometimes with visual and tactile hallucinations), depressed mood Nervous system disorders: headache, dizziness, tremor, dyskinesia including choreoathetoid movements, drowsiness, convulsions, cerebrovascular disorders (including vasculitis, cerebral hemorrhages and cerebrovascular accidents), serotonin syndrome in combination with serotonergic drugs Eye Disorders: blurred vision, difficulties in visual accommodation Cardiac Disorders: tachycardia, palpitations, increased blood pressure, arrhythmias, angina pectoris Respiratory, Thoracic and Mediastinal Disorders: cough Gastrointestinal Disorders: dry mouth, nausea, vomiting, abdominal pain, dyspepsia Hepatobiliary Disorders: abnormal liver function, ranging from transaminase elevation to severe hepatic injury Skin and Subcutaneous Tissue Disorders: hyperhidrosis, pruritus, urticaria, exfoliative dermatitis, scalp hair loss, erythema multiforme rash, thrombocytopenic purpura Musculoskeletal and Connective Tissue Disorders: arthralgia, muscle cramps, rhabdomyolysis Investigations: weight loss (adult ADHD patients) Additional Adverse Reactions Reported with Other Methylphenidate Products The list below shows adverse reactions not listed with Ritalin (methylphenidate) and dexmethylphenidate hydrochloride formulations [see Adverse Reactions (6.2)] that have been reported with other methylphenidate products based on clinical trials data and postmarketing spontaneous reports.
+Infections and Infestations: nasopharyngitis Blood and the Lymphatic System Disorders: leukopenia, thrombocytopenia, anemia Immune System Disorders: hypersensitivity reactions, including angioedema and anaphylaxis Metabolism and Nutrition Disorders: decreased appetite, reduced weight gain, and suppression of growth during prolonged use in pediatric patients Psychiatric Disorders: insomnia, anxiety, restlessness, agitation, psychosis (sometimes with visual and tactile hallucinations), depressed mood Nervous System Disorders: headache, dizziness, tremor, dyskinesia including choreoathetoid movements, drowsiness, convulsions, cerebrovascular disorders (including vasculitis, cerebral hemorrhages and cerebrovascular accidents), serotonin syndrome in combination with serotonergic drugs Eye Disorders: blurred vision, difficulties in visual accommodation Cardiac Disorders: tachycardia, palpitations, increased blood pressure, arrhythmias, angina pectoris Respiratory, Thoracic and Mediastinal Disorders: cough Gastrointestinal Disorders: dry mouth, nausea, vomiting, abdominal pain, dyspepsia Hepatobiliary Disorders: abnormal liver function, ranging from transaminase elevation to severe hepatic injury Skin and Subcutaneous Tissue Disorders: hyperhidrosis, pruritus, urticaria, exfoliative dermatitis, scalp hair loss, erythema multiforme rash, thrombocytopenic purpura Musculoskeletal and Connective Tissue Disorders: arthralgia, muscle cramps, rhabdomyolysis Investigations: weight loss (adult ADHD patients) Additional Adverse Reactions Reported with Other Methylphenidate Products The list below shows adverse reactions not listed with Ritalin (methylphenidate) and dexmethylphenidate hydrochloride formulations [see Adverse Reactions (6.2)] that have been reported with other methylphenidate products based on clinical trials data and postmarketing spontaneous reports.
 Blood and Lymphatic Disorders: pancytopenia Immune System Disorders: hypersensitivity reactions such as auricular swelling, bullous conditions, eruptions, exanthemas Psychiatric Disorders: affect lability, mania, disorientation, libido changes, Nervous System Disorders: migraine Eye Disorders: diplopia, mydriasis Cardiac Disorders: sudden cardiac death, myocardial infarction, bradycardia, extrasystole, supraventricular tachycardia, ventricular extrasystole Vascular Disorders: peripheral coldness, Raynaud's phenomenon Respiratory, Thoracic and Mediastinal Disorders: pharyngolaryngeal pain, dyspnea Gastrointestinal Disorders: diarrhea, constipation Skin and Subcutaneous Tissue Disorders: angioneurotic edema, erythema, fixed drug eruption Musculoskeletal, Connective Tissue and Bone Disorders: myalgia, muscle twitching Renal and Urinary Disorders: hematuria Reproductive System and Breast Disorders: gynecomastia General Disorders: fatigue, hyperpyrexia Urogenital Disorders: priapism

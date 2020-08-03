@@ -9,9 +9,9 @@ The drug and applesauce mixture should not be stored for future use.
 
 Dosage should be individualized according to the needs and responses of the patient.
 
-## 2.1 Pre-treatment Screening
+## 2.1 Pretreatment Screening
 
-Prior to treating pediatric patients and adults with CNS stimulants including Dexmethylphenidate Hydrochloride Extended-release Capsules, assess for the presence of cardiac disease (i.e., perform a careful history including family history of sudden death or ventricular arrhythmia, and physical examination) [see Warnings and Precautions (5.2)].
+Prior to treating pediatric patients and adults with central nervous system (CNS) stimulants including Dexmethylphenidate Hydrochloride Extended-release Capsules, assess for the presence of cardiac disease (i.e., perform a careful history including family history of sudden death or ventricular arrhythmia, and physical examination) [see Warnings and Precautions (5.2)].
 Assess the risk of abuse prior to prescribing, and monitor for signs of abuse and dependence while on therapy.
 Maintain careful prescription records, educate patients about abuse, monitor for signs of abuse and overdose, and periodically re-evaluate the need for Dexmethylphenidate Hydrochloride Extended-release Capsules use [see Boxed Warning, Warnings and Precautions (5.1), Drug Abuse and Dependence (9)].
 
