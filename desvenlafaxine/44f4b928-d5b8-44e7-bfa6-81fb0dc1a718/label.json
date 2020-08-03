@@ -1,0 +1,23 @@
+{
+  "application_numbers": [
+    "ANDA210014"
+  ],
+  "inn": "desvenlafaxine",
+  "labeler": "Slate Run Pharmaceuticals, LLC",
+  "package_ndcs": [
+    "70436-012-04",
+    "70436-012-06",
+    "70436-013-03",
+    "70436-013-04",
+    "70436-013-06"
+  ],
+  "products": [
+    {
+      "form": "TABLET, EXTENDED RELEASE",
+      "generic": "desvenlafaxine",
+      "name": "Desvenlafaxine"
+    }
+  ],
+  "setid": "44f4b928-d5b8-44e7-bfa6-81fb0dc1a718",
+  "source": "dailymed"
+}
