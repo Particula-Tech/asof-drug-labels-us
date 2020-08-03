@@ -164,11 +164,7 @@ Table 15: Efficacy Results in PALOMA-3 (Investigator Assessment, ITT Population)
 
 Figure 9 Kaplan-Meier Plot of Progression-Free Survival (Investigator Assessment, ITT Population) – PALOMA-3
 
-FAS=FASLODEX; PAL=palbociclib; PCB=placebo.
-
 Figure 10 Kaplan-Meier Plot of Overall Survival (ITT Population) ─ PALOMA-3
-
-FAS=FASLODEX; PAL=palbociclib; PCB=placebo
 
 FASLODEX 500 mg in Combination with Abemaciclib 150 mg (MONARCH 2)
 
@@ -230,20 +226,27 @@ Forty-three percent (43%) of patients had received chemotherapy in the adjuvant 
 Twenty-one percent (21%) of patients had bone-only disease and 61% had visceral disease.
 Demographics and baseline disease characteristics were balanced and comparable between study arms.
 
-The efficacy results from MONALEESA-3 are summarized in Table 17 and Figure 13.
+The efficacy results from MONALEESA-3 are summarized in Table 17, Figure 13, and Figure 14.
 Consistent results were observed in stratification factor subgroups of disease site and prior endocrine treatment for advanced disease.
-At the time of the PFS analysis, 17% of patients had died, and overall survival data were immature.
 
 Table 17: Efficacy Results – MONALEESA-3 (Investigator Assessment, Intent-to-Treat Population)
 
 |  | FASLODEX plus Ribociclib | FASLODEX plus Placebo |
 | --- | --- | --- |
-| Progression-free survival | N=484 | N=242 |
+| Progression-free survivalInvestigator Assessment | N=484 | N=242 |
 | Events (n, %) | 210 (43.4%) | 151 (62.4%) |
 | Median (months, 95% CI) | 20.5 (18.5, 23.5) | 12.8 (10.9, 16.3) |
 | Hazard Ratio (95% CI) | 0.593 (0.480 to 0.732) |  |
 | p-valuep-value is obtained from the one-sided log-rank | <0.0001 |  |
+| Overall Survival | N=484 | N=242 |
+| Events (n, %) | 167 (34.5%) | 108 (44.6%) |
+| Median (months, 95% CI) | NR (42.5, NR) | 40.0 (37.0, NR) |
+| Hazard Ratio (95% CI) | 0.724 (0.568, 0.924) |  |
+| p-value | 0.00455 |  |
 | Overall Response RateBased on confirmed responses | N=379 | N=181 |
 | Patients with measurable disease (95% CI) | 40.9 (35.9, 45.8) | 28.7 (22.1, 35.3) |
+| Abbreviation: NR, not reached |  |  |
 
-Figure 13 Kaplan-Meier Progression Free Survival Curves – MONALEESA-3 (Investigator assessment)
+Figure 13 Kaplan-Meier Progression Free Survival Curves – MONALEESA-3 (Intent-To-Treat Population, Investigator assessment)
+
+Figure 14 Kaplan-Meier plot of Overall Survival – MONALEESA-3 (Intent -to-Treat Population)

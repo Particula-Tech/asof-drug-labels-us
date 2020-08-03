@@ -343,7 +343,7 @@ Table 10: Laboratory Abnormalities Occurring in ≥10% of Patients in MONALEESA-
 
 | All Grades % | Grade 3 % | Grade 4 % | All Grades % | Grade 3 % | Grade 4 % |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| Laboratory Parameters | FASLODEX plus Ribociclib N=483 |  |  | FASLODEX plus Placebo N=241 |  |  |
+| Laboratory parameters | FASLODEX plus Ribociclib N=483 |  |  | FASLODEX plus Placebo N=241 |  |  |
 | Hematology |  |  |  |  |  |  |
 | Leukocyte count decreased | 95 | 25 | <1 | 26 | <1 | 0 |
 | Neutrophil count decreased | 92 | 46 | 7 | 21 | <1 | 0 |

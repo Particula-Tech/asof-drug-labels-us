@@ -20,3 +20,13 @@ Lactation:
 Combination Therapy
 
 When FASLODEX is used in combination with palbociclib, abemaciclib, or ribociclib, refer to the respective Full Prescribing Information for Patient Counseling Information.
+
+Distributed by:
+
+AstraZeneca Pharmaceuticals LP
+
+Wilmington, DE 19850
+
+FASLODEX is a registered trademark of the AstraZeneca group of companies
+
+©AstraZeneca 2019
