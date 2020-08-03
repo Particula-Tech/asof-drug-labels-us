@@ -1,0 +1,28 @@
+# 11 DESCRIPTION
+
+Levothyroxine sodium tablets, USP contain synthetic crystalline L-3,3',5,5'- tetraiodothyronine sodium salt [levothyroxine (T4) sodium].
+Synthetic T4 is chemically identical to that produced in the human thyroid gland.
+Levothyroxine (T4) sodium has an empirical formula of C15H10I4NNaO4 •xH2O (where x = 5), molecular weight of 798.86 g/mol (anhydrous) and structural formula as shown:
+
+Levothyroxine sodium tablets for oral administration are supplied in the following strengths: 25 mcg, 50 mcg, 75 mcg, 88 mcg, 100 mcg, 112 mcg, 125 mcg, 137 mcg, 150 mcg, 175 mcg, 200 mcg and 300 mcg.
+Each levothyroxine sodium tablet contains the inactive ingredients Magnesium Stearate, NF; Microcrystalline Cellulose, NF; Colloidal Silicone Dioxide, NF; and Sodium Starch Glycolate, NF.
+Each tablet strength meets USP Dissolution Test 2.
+Table 6 provides a listing of the color additives by tablet strength:
+
+Table 6.
+Levothyroxine Sodium Tablets Color Additives
+
+| Strength (mcg) | Color additive(s) |
+| --- | --- |
+| 25 | FD&C Yellow No. 6 Aluminum Lake |
+| 50 | None |
+| 75 | FD&C Blue No. 2 Aluminum Lake, D&C Red No. 27 Aluminum Lake |
+| 88 | FD&C Blue No. 1 Aluminum Lake, D&C Yellow No. 10 Aluminum Lake, D&C RedNo. 30 Aluminum Lake |
+| 100 | D&C Yellow No. 10 Aluminum Lake, D&C Red Lake Blend (D&C Red No. 27 Lake and D&C Red No. 30 Lake) |
+| 112 | D&C Red No. 27 Aluminum Lake, D&C Red No. 30 Aluminum Lake |
+| 125 | FD&C Yellow No. 6 Aluminum Lake, FD&C Red No. 40 Aluminum Lake, FD&C Blue No. 1 Aluminum Lake |
+| 137 | FD&C Blue No. 1 Aluminum Lake |
+| 150 | FD&C Blue No. 2 Aluminum Lake |
+| 175 | D&C Red No. 27 Aluminum Lake, D&C Red No. 30 Aluminum Lake, FD&C Blue No. 1 Aluminum Lake |
+| 200 | D&C Yellow No. 10 Aluminum Lake, D&C Red No. 27 Aluminum Lake |
+| 300 | D&C Yellow No. 10 Aluminum Lake, FD&C Yellow No. 6 Aluminum Lake, FD&C Blue No. 1 Aluminum Lake |
