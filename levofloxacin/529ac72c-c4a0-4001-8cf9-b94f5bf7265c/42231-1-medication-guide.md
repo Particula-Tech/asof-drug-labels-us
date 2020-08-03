@@ -133,9 +133,9 @@ Before you take levofloxacin tablets, tell your healthcare provider about all of
   Levofloxacin tablets passes into your breast milk.
   You should not breastfeed during treatment with levofloxacin tablets and for 2 days after taking your last dose of levofloxacin tablets.
   You may pump your breast milk and throw it away during treatment with levofloxacin tablets and for 2 days after taking your last dose of levofloxacin tablets.
+  If you are taking levofloxacin tablets for inhalational anthrax, you and your healthcare provider should decide whether you can continue breastfeeding while taking levofloxacin tablets.
 
 Tell your healthcare provider about all the medicines you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements.
-
 Levofloxacin tablets and other medicines can affect each other causing side effects.
 
 Especially tell your healthcare provider if you take:
@@ -310,4 +310,4 @@ Active ingredient: levofloxacin Inactive ingredients: croscarmellose sodium, hyp
 In addition 250 mg contains iron oxide red and 500 mg contains iron oxide red and iron oxide yellow.
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 Trademarks are the property of their respective owners.
-Dispense with Medication Guide available at: www.aurobindousa.com/product-medication-guides Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 038, India Revised: 07/2019
+Dispense with Medication Guide available at: www.aurobindousa.com/medication-guides Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 038, India Revised: 07/2020
