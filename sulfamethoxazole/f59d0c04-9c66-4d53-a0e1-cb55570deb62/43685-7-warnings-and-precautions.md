@@ -26,9 +26,9 @@ Streptococcal Infections and Rheumatic Fever
 The sulfonamides should not be used for treatment of group A β-hemolytic streptococcal infections.
 In an established infection, they will not eradicate the streptococcus and, therefore, will not prevent sequelae such as rheumatic fever.
 
-Clostridium difficile associated diarrhea
+Clostridioides difficile associated diarrhea
 
-Clostridium difficile associated diarrhea (CDAD) has been reported with use of nearly all antibacterial agents, including BACTRIM, and may range in severity from mild diarrhea to fatal colitis.
+Clostridioides difficile associated diarrhea (CDAD) has been reported with use of nearly all antibacterial agents, including BACTRIM, and may range in severity from mild diarrhea to fatal colitis.
 Treatment with antibacterial agents alters the normal flora of the colon leading to overgrowth of C. difficile.
 
 C. difficile produces toxins A and B which contribute to the development of CDAD.
@@ -39,9 +39,9 @@ Careful medical history is necessary since CDAD has been reported to occur over 
 If CDAD is suspected or confirmed, ongoing antibiotic use not directed against C. difficile may need to be discontinued.
 Appropriate fluid and electrolyte management, protein supplementation, antibiotic treatment of C. difficile, and surgical evaluation should be instituted as clinically indicated.
 
-Adjunctive treatment with Leucovorin for Pneumocystis jiroveci pneumonia
+Adjunctive treatment with Leucovorin for Pneumocystis jirovecii pneumonia
 
-Treatment failure and excess mortality were observed when trimethoprim-sulfamethoxazole was used concomitantly with leucovorin for the treatment of HIV positive patients with Pneumocystis jiroveci pneumonia in a randomized placebo controlled trial.4 Co-administration of trimethoprim-sulfamethoxazole and leucovorin during treatment of Pneumocystis jiroveci pneumonia should be avoided.
+Treatment failure and excess mortality were observed when trimethoprim-sulfamethoxazole was used concomitantly with leucovorin for the treatment of HIV positive patients with Pneumocystis jirovecii pneumonia in a randomized placebo controlled trial.4 Co-administration of trimethoprim-sulfamethoxazole and leucovorin during treatment of Pneumocystis jirovecii pneumonia should be avoided.
 
 # PRECAUTIONS
 
@@ -74,20 +74,20 @@ Porphyria and Hypothyroidism
 
 As with all drugs containing sulfonamides, caution is advisable in patients with porphyria or thyroid dysfunction.
 
-Use in the Treatment of and Prophylaxis for Pneumocystis jiroveci Pneumonia in Patients with Acquired Immunodeficiency Syndrome (AIDS): AIDS patients may not tolerate or respond to BACTRIM in the same manner as non-AIDS patients.
-The incidence of side effects, particularly rash, fever, leukopenia and elevated aminotransferase (transaminase) values, with BACTRIM therapy in AIDS patients who are being treated for P. jiroveci pneumonia has been reported to be greatly increased compared with the incidence normally associated with the use of BACTRIM in non-AIDS patients.
+Use in the Treatment of and Prophylaxis for Pneumocystis jirovecii Pneumonia in Patients with Acquired Immunodeficiency Syndrome (AIDS): AIDS patients may not tolerate or respond to BACTRIM in the same manner as non-AIDS patients.
+The incidence of side effects, particularly rash, fever, leukopenia and elevated aminotransferase (transaminase) values, with BACTRIM therapy in AIDS patients who are being treated for P. jirovecii pneumonia has been reported to be greatly increased compared with the incidence normally associated with the use of BACTRIM in non-AIDS patients.
 Adverse effects are generally less severe in patients receiving BACTRIM for prophylaxis.
 A history of mild intolerance to BACTRIM in AIDS patients does not appear to predict intolerance of subsequent secondary prophylaxis.5 However, if a patient develops skin rash or any sign of adverse reaction, therapy with BACTRIM should be reevaluated (see WARNINGS).
 
-Co-administration of BACTRIM and leucovorin should be avoided with P. jiroveci pneumonia (see WARNINGS).
+Co-administration of BACTRIM and leucovorin should be avoided with P. jirovecii pneumonia (see WARNINGS).
 
 Electrolyte Abnormalities
 
-High dosage of trimethoprim, as used in patients with P. jiroveci pneumonia, induces a progressive but reversible increase of serum potassium concentrations in a substantial number of patients.
+High dosage of trimethoprim, as used in patients with P. jirovecii pneumonia, induces a progressive but reversible increase of serum potassium concentrations in a substantial number of patients.
 Even treatment with recommended doses may cause hyperkalemia when trimethoprim is administered to patients with underlying disorders of potassium metabolism, with renal insufficiency, or if drugs known to induce hyperkalemia are given concomitantly.
 Close monitoring of serum potassium is warranted in these patients.
 
-Severe and symptomatic hyponatremia can occur in patients receiving BACTRIM, particularly for the treatment of P. jiroveci pneumonia.
+Severe and symptomatic hyponatremia can occur in patients receiving BACTRIM, particularly for the treatment of P. jirovecii pneumonia.
 Evaluation for hyponatremia and appropriate correction is necessary in symptomatic patients to prevent life-threatening complications.
 
 During treatment, adequate fluid intake and urinary output should be ensured to prevent crystalluria.

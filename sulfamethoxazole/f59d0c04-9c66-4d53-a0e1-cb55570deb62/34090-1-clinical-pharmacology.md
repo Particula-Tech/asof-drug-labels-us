@@ -37,13 +37,19 @@ However, after normalizing by body weight, the apparent total body clearance of 
 
 ## Microbiology
 
+Mechanism of Action
+
 Sulfamethoxazole inhibits bacterial synthesis of dihydrofolic acid by competing with para-aminobenzoic acid (PABA).
 Trimethoprim blocks the production of tetrahydrofolic acid from dihydrofolic acid by binding to and reversibly inhibiting the required enzyme, dihydrofolate reductase.
 Thus, sulfamethoxazole and trimethoprim blocks two consecutive steps in the biosynthesis of nucleic acids and proteins essential to many bacteria.
 
+Resistance
+
 In vitro studies have shown that bacterial resistance develops more slowly with both sulfamethoxazole and trimethoprim in combination than with either sulfamethoxazole or trimethoprim alone.
 
-Sulfamethoxazole and trimethoprim have been shown to be active against most isolates of the following microorganisms, both in vitro and in clinical infections as described in theINDICATIONS AND USAGEsection.
+Antimicrobial Activity
+
+BACTRIM has been shown to be active against most isolates of the following microorganisms, both in vitro and in clinical infections as described in the INDICATIONS AND USAGEsection.
 
 Aerobic gram-positive bacteria:
 
@@ -69,9 +75,9 @@ Shigella flexneri
 
 Shigella sonnei
 
-Other Organisms:
+Other Microorganisms:
 
-Pneumocystis jiroveci
+Pneumocystis jirovecii
 
 Susceptibility Testing
 

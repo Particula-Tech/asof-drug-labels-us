@@ -33,11 +33,11 @@ Acute Exacerbations of Chronic Bronchitis in Adults:
 
 The usual adult dosage in the treatment of acute exacerbations of chronic bronchitis is 1 BACTRIM DS (double strength) tablet or 2 BACTRIM tablets every 12 hours for 14 days.
 
-Pneumocystis Jiroveci Pneumonia:
+Pneumocystis Jirovecii Pneumonia:
 
 Treatment: Adults and Children:
 
-The recommended dosage for treatment of patients with documented Pneumocystis jiroveci pneumonia is 75 to 100 mg/kg sulfamethoxazole and 15 to 20 mg/kg trimethoprim per 24 hours given in equally divided doses every 6 hours for 14 to 21 days.9 The following table is a guideline for the upper limit of this dosage:
+The recommended dosage for treatment of patients with documented Pneumocystis jirovecii pneumonia is 75 to 100 mg/kg sulfamethoxazole and 15 to 20 mg/kg trimethoprim per 24 hours given in equally divided doses every 6 hours for 14 to 21 days.9 The following table is a guideline for the upper limit of this dosage:
 
 | lb | kg | Tablets |
 | --- | --- | --- |

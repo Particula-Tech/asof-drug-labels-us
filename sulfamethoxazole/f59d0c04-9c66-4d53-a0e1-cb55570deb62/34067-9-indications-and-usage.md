@@ -15,6 +15,6 @@ Acute Exacerbations of Chronic Bronchitis in Adults: For the treatment of acute 
 
 Shigellosis: For the treatment of enteritis caused by susceptible strains of Shigella flexneri and Shigella sonnei when antibacterial therapy is indicated.
 
-Pneumocystis jiroveci Pneumonia: For the treatment of documented Pneumocystis jiroveci pneumonia and for prophylaxis against P. jiroveci pneumonia in individuals who are immunosuppressed and considered to be at an increased risk of developing P. jiroveci pneumonia.
+Pneumocystis jirovecii Pneumonia: For the treatment of documented Pneumocystis jirovecii pneumonia and for prophylaxis against P. jirovecii pneumonia in individuals who are immunosuppressed and considered to be at an increased risk of developing P. jirovecii pneumonia.
 
 Traveler's Diarrhea in Adults: For the treatment of traveler's diarrhea due to susceptible strains of enterotoxigenic E. coli.
