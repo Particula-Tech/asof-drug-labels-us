@@ -1,9 +1,7 @@
 # 4 CONTRAINDICATIONS
 
 - Testosterone gel is contraindicated in men with carcinoma of the breast or known or suspected carcinoma of the prostate [see Warnings and Precautions (5.1)].
-- Testosterone gel is contraindicated in women who are or may become pregnant, or who are breastfeeding.
-  Testosterone gel may cause fetal harm when administered to a pregnant woman.
-  Testosterone gel may cause serious adverse reactions in nursing infants.
-  Exposure of a fetus or nursing infant to androgens may result in varying degrees of virilization.
-  Pregnant women or those who may become pregnant need to be aware of the potential for transfer of testosterone from men treated with testosterone gel.
-  If a pregnant woman is exposed to testosterone gel, she should be apprised of the potential hazard to the fetus [see Warnings and Precautions (5.2) and Use in Specific Populations (8.1, 8.3)].
+- Testosterone gel is contraindicated in women who are pregnant.
+  Testosterone gel can cause virilization of the female fetus when administered to a pregnant woman.
+  Pregnant women need to be aware of the potential for skin transfer of testosterone from men treated with testosterone gel.
+  If a pregnant woman is exposed to testosterone gel, she should be apprised of the potential hazard to the fetus [see Warnings and Precautions (5.2) and Use in Specific Populations (8.1)].
