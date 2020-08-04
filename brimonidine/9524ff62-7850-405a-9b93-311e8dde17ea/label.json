@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA204251"
+  ],
+  "inn": "brimonidine",
+  "labeler": "Novartis Pharmaceuticals Corporation",
+  "package_ndcs": [
+    "0078-0904-38",
+    "0078-0904-98"
+  ],
+  "products": [
+    {
+      "form": "SUSPENSION/ DROPS",
+      "generic": "brinzolamide/brimonidine tartrate",
+      "name": "SIMBRINZA"
+    }
+  ],
+  "setid": "9524ff62-7850-405a-9b93-311e8dde17ea",
+  "source": "dailymed"
+}
