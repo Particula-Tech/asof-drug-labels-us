@@ -4,22 +4,24 @@
 
 In adults, symptomatic response to therapy with Pantoprazole Sodium for Injection does not preclude the presence of gastric malignancy.
 Consider additional follow-up and diagnostic testing in adult patients who have a suboptimal response or an early symptomatic relapse after completing treatment with a PPI.
-In older patients, consider an endoscopy.
+In older patients, also consider an endoscopy.
 
 ## 5.2 Hypersensitivity and Severe Skin Reactions
 
-Anaphylaxis and other serious reactions such as erythema multiforme, Stevens-Johnson syndrome, and toxic epidermal necrolysis (TEN) have been reported with use of another intravenous formulation of pantoprazole sodium.
+Anaphylaxis and other serious reactions such as erythema multiforme, Stevens-Johnson syndrome, and toxic epidermal necrolysis (TEN) have been reported with use of pantoprazole sodium.
 These may require emergency medical treatment [see Adverse Reactions (6.2)].
 
 ## 5.3 Injection Site Reactions
 
-Thrombophlebitis was associated with the administration of another intravenous formulation of pantoprazole sodium.
+Thrombophlebitis was associated with the administration of another intravenous pantoprazole sodium product.
 
-## 5.4 Acute Interstitial Nephritis
+## 5.4 Tubulointerstitial Nephritis
 
-Acute interstitial nephritis has been observed in patients taking PPIs, including other formulations of pantoprazole sodium.
-Acute interstitial nephritis may occur at any point during PPI therapy and is generally attributed to an idiopathic hypersensitivity reaction.
-Discontinue Pantoprazole Sodium for Injection if acute interstitial nephritis develops [see Contraindications (4)].
+Tubulointerstitial nephritis (TIN) has been observed in patients taking PPIs and may occur at any point during PPI therapy.
+Presentation ranges from symptomatic acute hypersensitivity reactions to an asymptomatic gradual decrease in glomerular filtration rate.
+In reported case series, TIN was diagnosed on biopsy and in the absence of extra-renal manifestations or systemic inflammatory symptoms up to two years after the start of PPI therapy.
+Discontinue Pantoprazole Sodium for Injection and evaluate patients with an unexplained decrease in glomerular filtration rate for TIN.
+Avoid PPIs in patients with a prior history of PPI-induced TIN.
 
 ## 5.5 Clostridium difficile-Associated Diarrhea
 
@@ -37,7 +39,7 @@ Patients at risk for osteoporosis-related fractures should be managed according 
 
 ## 5.7 Cutaneous and Systemic Lupus Erythematosus
 
-Cutaneous lupus erythematosus (CLE) and systemic lupus erythematosus (SLE) have been reported in patients taking PPIs, including other formulations of pantoprazole sodium.
+Cutaneous lupus erythematosus (CLE) and systemic lupus erythematosus (SLE) have been reported in patients taking PPIs, including pantoprazole sodium.
 These events have occurred as both new onset and an exacerbation of existing autoimmune disease.
 The majority of PPI-induced lupus erythematous cases were CLE.
 
@@ -68,17 +70,24 @@ In most patients, treatment of hypomagnesemia required magnesium replacement and
 
 For patients expected to be on prolonged treatment or who take PPIs with medications such as digoxin or drugs that may cause hypomagnesemia (e.g., diuretics), health care professionals may consider monitoring magnesium levels prior to initiation of PPI treatment and periodically [see Adverse Reactions (6.2)].
 
-## 5.10 Interference with Urine Screen for THC
-
-Pantoprazole sodium may produce a false-positive urine screen for THC (tetrahydrocannabinol) [see Drug Interactions (7)].
-
-## 5.11 Concomitant Use of Pantoprazole Sodium for Injection with Methotrexate
-
-Literature suggests that concomitant use of PPIs with methotrexate (primarily at high dose; see methotrexate prescribing information) may elevate and prolong serum levels of methotrexate and/or its metabolite, possibly leading to methotrexate toxicities.
-In high-dose methotrexate administration, a temporary withdrawal of the PPI may be considered in some patients [see Drug Interactions (7)].
-
-## 5.12 Fundic Gland Polyps
+## 5.10 Fundic Gland Polyps
 
 PPI use is associated with an increased risk of fundic gland polyps that increases with long-term use, especially beyond one year.
 Most PPI users who developed fundic gland polyps were asymptomatic and fundic polyps were identified incidentally on endoscopy.
 Use the shortest duration of PPI therapy appropriate to the condition being treated.
+
+## 5.11 Interference with Investigations for Neuroendocrine Tumors
+
+Serum chromogranin A (CgA) levels increase secondary to drug-induced decreases in gastric acidity.
+The increased CgA level may cause false positive results in diagnostic investigations for neuroendocrine tumors.
+Healthcare providers should temporarily stop Pantoprazole Sodium for Injection treatment at least 14 days before assessing CgA levels and consider repeating the test if initial CgA levels are high.
+If serial tests are performed (e.g. for monitoring), the same commercial laboratory should be used for testing, as reference ranges between tests may vary [see Clinical Pharmacology (12.2)].
+
+## 5.12 Interference with Urine Screen for THC
+
+Pantoprazole sodium may produce a false-positive urine screen for THC (tetrahydrocannabinol) [see Drug Interactions (7)].
+
+## 5.13 Concomitant Use of Pantoprazole Sodium for Injection with Methotrexate
+
+Literature suggests that concomitant use of PPIs with methotrexate (primarily at high dose; see methotrexate prescribing information) may elevate and prolong serum levels of methotrexate and/or its metabolite, possibly leading to methotrexate toxicities.
+In high-dose methotrexate administration, a temporary withdrawal of the PPI may be considered in some patients [see Drug Interactions (7)].

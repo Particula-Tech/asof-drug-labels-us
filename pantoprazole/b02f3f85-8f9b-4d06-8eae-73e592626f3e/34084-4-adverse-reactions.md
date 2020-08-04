@@ -6,7 +6,7 @@ The following serious adverse reactions are described below and elsewhere in lab
 
 • Injection Site Reactions [see Warnings and Precautions (5.3)]
 
-• Acute Interstitial Nephritis [see Warnings and Precautions (5.4)]
+• Tubulointerstitial Nephritis [see Warnings and Precautions (5.4)]
 
 • Clostridium difficile-Associated Diarrhea [see Warnings and Precautions (5.5)]
 
@@ -18,13 +18,13 @@ The following serious adverse reactions are described below and elsewhere in lab
 
 • Hypomagnesemia [see Warnings and Precautions (5.9)]
 
-• Fundic Gland Polyps [see Warnings and Precautions (5.12)]
+• Fundic Gland Polyps[see Warnings and Precautions (5.10)]
 
 ## 6.1 Clinical Trials Experience
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
 
-The safety of Pantoprazole Sodium for Injection has been established from adequate and well-controlled studies of another intravenous formulation of pantoprazole sodium [see Clinical Studies (14)].
+The safety of Pantoprazole Sodium for Injection has been established from adequate and well-controlled studies of another intravenous pantoprazole sodium product [see Clinical Studies (14)].
 Below is a display of the adverse reactions of pantoprazole sodium in these adequate and well-controlled studies.
 
 Gastroesophageal Reflux Disease (GERD)
@@ -70,7 +70,7 @@ In clinical studies of Zollinger-Ellison Syndrome, adverse reactions reported in
 
 ## 6.2 Postmarketing Experience
 
-The following adverse reactions have been identified during postapproval use of other formulations of pantoprazole sodium.
+The following adverse reactions have been identified during postapproval use of other pantoprazole sodium products.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 These adverse reactions are listed below by body system:
@@ -98,3 +98,5 @@ Infections and Infestations: Clostridium difficile-associated diarrhea
 Hematologic: pancytopenia, agranulocytosis
 
 Nervous: ageusia, dysgeusia
+
+Gastrointestinal Disorders: fundic gland polyps

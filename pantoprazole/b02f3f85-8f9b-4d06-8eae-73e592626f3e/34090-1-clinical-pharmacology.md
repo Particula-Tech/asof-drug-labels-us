@@ -20,7 +20,7 @@ Intravenous doses of 20 to 80 mg of pantoprazole substantially reduced the 24-ho
 Complete suppression of PSAO was achieved with 80 mg within approximately 2 hours and no further significant suppression was seen with 120 mg.
 The duration of action of intravenous pantoprazole sodium was 24 hours.
 
-Table 3: Gastric Acid Output (mEq/hr, Mean ± SD) and Percent Inhibition*(Mean ± SD) of Pentagastrin-Stimulated Acid Output Over 24 Hours Following a Single Dose of Another Intravenous Formulation of Pantoprazole Sodium† in Healthy Subjects
+Table 3: Gastric Acid Output (mEq/hr, Mean ± SD) and Percent Inhibition* (Mean ± SD) of Pentagastrin-Stimulated Acid Output Over 24 Hours Following a Single Dose of Another Intravenous Pantoprazole Sodium† Product in Healthy Subjects
 
 |  | 2 hours |  | 4 hours |  | 12 hours |  | 24 hours |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -44,7 +44,7 @@ However, by 24 hours following the last dose, median serum gastrin concentration
 
 In another placebo-controlled, 7-day study of 40 mg intravenous or oral pantoprazole in patients with GERD and a history of EE, the mean serum gastrin concentration increased approximately 50% from baseline and as compared with placebo, but remained within the normal range.
 
-During 6 days of repeated administration of intravenous pantoprazole sodium in patients with ZE syndrome, consistent changes of serum gastrin concentrations from baseline were not observed.
+During 6 days of repeated administration of intravenous pantoprazole sodium in patients with ZE Syndrome, consistent changes of serum gastrin concentrations from baseline were not observed.
 
 Enterochromaffin-Like (ECL) Cell Effects
 

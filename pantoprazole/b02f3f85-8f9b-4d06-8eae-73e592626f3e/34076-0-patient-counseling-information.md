@@ -8,7 +8,7 @@ Advise patients to report to their healthcare provider if they experience any si
 
 • Injection Site Reactions [see Warnings and Precautions (5.3)]
 
-• Acute Interstitial Nephritis [see Warnings and Precautions (5.4)]
+• Tubulointerstitial Nephritis [see Warnings and Precautions (5.4)]
 
 • Clostridium difficile-Associated Diarrhea [see Warnings and Precautions (5.5)]
 
@@ -26,7 +26,7 @@ Advise patients to report to their healthcare provider before they start treatme
 
 • Rilpivirine-containing products [see Contraindications (4)].
 
-• High-dose methotrexate [see Warnings and Precautions (5.11)].
+• High-dose methotrexate [see Warnings and Precautions (5.13)].
 
 Pregnancy
 
@@ -36,6 +36,6 @@ Advise females of reproductive potential to inform their prescriber of a known o
 Manufactured by: HIKMA FARMACÊUTICA (PORTUGAL), S.A.
 Estrada do Rio da Mό, 8, 8A e 8B – Fervença – 2705-906 Terrugem SNT, PORTUGAL
 
-Distributed by: WEST-WARD A HIKMA COMPANY Eatontown, NJ 07724 USA
+Distributed by: Hikma Pharmaceuticals USA Inc. Berkeley Heights, NJ 07922
 
-PIN469-WES/3
+PIN469-WES/5
