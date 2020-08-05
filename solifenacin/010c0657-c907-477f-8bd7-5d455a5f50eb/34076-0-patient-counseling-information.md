@@ -2,18 +2,52 @@
 
 Advise the patient to read the FDA-approved patient labeling (Patient Information).
 
-Patients should be informed that antimuscarinic agents such as solifenacin succinate tablets have been associated with constipation and blurred vision.
-Patients should be advised to contact their physician if they experience severe abdominal pain or become constipated for 3 or more days.
-Because solifenacin succinate tablets may cause blurred vision, patients should be advised to exercise caution in decisions to engage in potentially dangerous activities until the drug’s effect on the patient’s vision has been determined.
-Heat prostration (due to decreased sweating) can occur when anticholinergic drugs, such as solifenacin succinate tablets, are used in a hot environment.
-Patients should read the patient leaflet entitled “Patient Information Solifenacin Succinate Tablets” before starting therapy with solifenacin succinate tablets.
+Angioedema and Anaphylactic Reactions
 
-Patients should be informed that solifenacin may produce angioedema, which could result in life-threatening airway obstruction.
-Patients should be advised to promptly discontinue solifenacin therapy and seek immediate attention if they experience edema of the tongue or laryngopharynx, or difficulty breathing.
+Inform patients that angioedema and anaphylactic reactions have been reported in patients treated with solifenacin succinate tablets.
+Angioedema and anaphylactic reactions may be life-threatening.
+Advise patients to promptly discontinue solifenacin succinate tablets therapy and seek immediate attention if they experience edema of the tongue or laryngopharynx, or difficulty breathing [see Contraindications (4) and Warnings and Precautions (5.1)].
 
-Manufactured by: Glenmark Pharmaceuticals Ltd. Plot No. 2, Phase-2, Pharma Zone SEZ, Pithampur, Dist.-Dhar Madhya Pradesh 454 775, India
+Urinary Retention
 
-Manufactured for: Glenmark Pharmaceuticals Inc., USA Mahwah, NJ 07430
+Inform patients that solifenacin succinate tablets may cause urinary retention in patients with conditions associated with bladder outlet obstruction [see Warnings and Precautions (5.2)].
+
+Gastrointestinal Disorders
+
+Inform patients that solifenacin succinate tablets may cause further decrease in gastrointestinal motility in patients with conditions associated with decreased gastrointestinal motility.
+Solifenacin succinate tablets has been associated with constipation and dry mouth.
+Advise patients to contact their health care providers if they experience severe abdominal pain or become constipated for 3 or more days [see Warnings and Precautions (5.3)].
+
+Central Nervous System Effects
+
+Because solifenacin succinate tablets, like other antimuscarinic agents, may cause central nervous system effects or blurred vision, advise patients to exercise caution in decisions to engage in potentially dangerous activities until the drug’s effect on the patient has been determined [see Warnings and Precautions (5.4)].
+
+Narrow-Angle Glaucoma
+
+Inform patients that solifenacin succinate tablets, like other antimuscarinics, may cause worsening of the glaucoma condition in patients with narrow-angle glaucoma [see Warnings and Precautions (5.5)].
+
+Dry Skin
+
+Inform patients that solifenacin succinate tablets, like other antimuscarinics, may cause dry skin due to decreased sweating.
+Heat prostration due to decreased sweating can occur when solifenacin succinate tablets is used in a hot environment [see Adverse Reactions (6.2)].
+
+Manufactured by:
+
+Glenmark Pharmaceuticals Limited
+
+Pithampur, Madhya Pradesh 454775, India
+
+Manufactured for:
+
+Glenmark Pharmaceuticals Inc., USA
+
+Mahwah, NJ 07430
 
 Questions?
-1(888)721-7115 www.glenmarkpharma.com/usa May 2019
+1(888) 721-7115
+
+www.glenmarkpharma-us.com
+
+Product of India
+
+July 2020
