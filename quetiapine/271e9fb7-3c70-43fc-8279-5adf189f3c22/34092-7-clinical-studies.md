@@ -99,7 +99,7 @@ Table 20: Mania Trials
 | --- | --- | --- | --- | --- |
 | Mean Baseline Score (SD)Adult data mean baseline score is based on patients included in the primary analysis; pediatric mean baseline score is based on all patients in the ITT population. | LS Mean Change from Baseline (SE) | Placebo-Subtracted DifferenceDifference (drug minus placebo) in least-square mean change from baseline. (95% CI) |  |  |
 | Study 1 | Quetiapine (200 to 800 mg/day)Doses that are statistically significantly superior to placebo. Included in the trial as an active comparator. | 34.0 (6.1) | -12.3 (1.3) | -4.0 (-7.0, -1.0) |
-| Haloperido | 32.3 (6.0) | -15.7 (1.3) | -7.4 (-10.4, -4.4) |  |
+| Haloperidol | 32.3 (6.0) | -15.7 (1.3) | -7.4 (-10.4, -4.4) |  |
 | Placebo | 33.1 (6.6) | -8.3 (1.3) | -- |  |
 | Study 2 | Quetiapine (200 to 800 mg/day) | 32.7 (6.5) | -14.6 (1.5) | -7.9 (-10.9, -5.0) |
 | Lithium | 33.3 (7.1) | -15.2 (1.6) | -8.5 (-11.5, -5.5) |  |

@@ -248,7 +248,7 @@ For more information, please call 1-800-962-8364.
 
 What are the ingredients in Quetiapine Tablets USP?
 
-Active ingredient: quetiapine fumarate USP
+Active ingredient: quetiapine, USP
 
 Inactive ingredients: The 25 mg tablet contains lactose, magnesium stearate, microcrystalline cellulose, povidone, purified water and sodium starch glycolate.
 
@@ -258,6 +258,6 @@ This Medication Guide has been approved by the U.S. Food and Drug Administration
 
 Distr. by: West-Ward Pharmaceuticals Corp. Eatontown, NJ 07724
 
-10004966/08
+10004966/09
 
-Revised February 2020
+Revised May 2020

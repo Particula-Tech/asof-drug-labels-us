@@ -82,6 +82,6 @@ The decision to prescribe atypical antipsychotic medication will depend upon the
 
 Distr. by: West-Ward Pharmaceuticals Corp. Eatontown, NJ 07724
 
-10004966/08
+10004966/09
 
-Revised February 2020
+Revised May 2020
