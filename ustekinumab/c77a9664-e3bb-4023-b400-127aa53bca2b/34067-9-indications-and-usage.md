@@ -2,7 +2,7 @@
 
 ## 1.1 Psoriasis (Ps)
 
-STELARA® is indicated for the treatment of patients 12 years or older with moderate to severe plaque psoriasis who are candidates for phototherapy or systemic therapy.
+STELARA® is indicated for the treatment of patients 6 years or older with moderate to severe plaque psoriasis who are candidates for phototherapy or systemic therapy.
 
 ## 1.2 Psoriatic Arthritis (PsA)
 

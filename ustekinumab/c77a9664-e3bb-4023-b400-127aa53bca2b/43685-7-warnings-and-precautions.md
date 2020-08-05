@@ -76,8 +76,8 @@ Non-live vaccinations received during a course of STELARA® may not elicit an im
 
 ## 5.8 Concomitant Therapies
 
-In clinical studies of psoriasis the safety of STELARA® in combination with other immunosuppressive agents or phototherapy was not evaluated.
-Ultraviolet-induced skin cancers developed earlier and more frequently in mice genetically manipulated to be deficient in both IL-12 and IL-23 or IL-12 alone [see Nonclinical Toxicology (13.1)].
+In clinical studies of psoriasis the safety of STELARA® in combination with other biologic immunosuppressive agents or phototherapy was not evaluated.
+Ultraviolet-induced skin cancers developed earlier and more frequently in mice genetically manipulated to be deficient in both IL-12 and IL-23 or IL-12 alone [see Concomitant Therapies (7.1), Nonclinical Toxicology (13.1)].
 
 ## 5.9 Noninfectious Pneumonia
 

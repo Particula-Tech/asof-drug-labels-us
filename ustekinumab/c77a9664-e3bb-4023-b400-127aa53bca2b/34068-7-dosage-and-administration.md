@@ -10,13 +10,13 @@ Subcutaneous Adult Dosage Regimen
 In subjects weighing more than 100 kg, 45 mg was also shown to be efficacious.
 However, 90 mg resulted in greater efficacy in these subjects [see Clinical Studies (14)].
 
-Subcutaneous Adolescent Dosage Regimen
+Subcutaneous Pediatric Dosage Regimen
 
 Administer STELARA® subcutaneously at Weeks 0 and 4, then every 12 weeks thereafter.
 
-The recommended dose of STELARA® for adolescents (12–17 years old) based on body weight is shown below (Table 1).
+The recommended dose of STELARA® for pediatric patients (6–17 years old) based on body weight is shown below (Table 1).
 
-Table 1: Recommended Dose of STELARA® for Subcutaneous Injection in Adolescent Patients with Psoriasis
+Table 1: Recommended Dose of STELARA® for Subcutaneous Injection in Pediatric Patients (6–17 years old) with Psoriasis
 
 | Body Weight of Patient at the Time of Dosing | Recommended Dose |
 | --- | --- |
@@ -24,12 +24,27 @@ Table 1: Recommended Dose of STELARA® for Subcutaneous Injection in Adolescent 
 | 60 kg to 100 kg | 45 mg |
 | more than 100 kg | 90 mg |
 
-For adolescent patients weighing less than 60 kg, the administration volume for the recommended dose (0.75 mg/kg) is shown in Table 2; withdraw the appropriate volume from the single-dose vial.
+For pediatric patients weighing less than 60 kg, the administration volume for the recommended dose (0.75 mg/kg) is shown in Table 2; withdraw the appropriate volume from the single-dose vial.
 
-Table 2: Injection volumes of STELARA® 45 mg/0.5 mL single-dose vials for adolescent psoriasis patients less than 60 kg
+Table 2: Injection volumes of STELARA® 45 mg/0.5 mL single-dose vials for pediatric patients (6–17 years old) with psoriasis weighing less than 60 kg
 
 | Body Weight (kg) at the time of dosing | Dose (mg) | Volume of injection (mL) |
 | --- | --- | --- |
+| 15 | 11.3 | 0.12 |
+| 16 | 12.0 | 0.13 |
+| 17 | 12.8 | 0.14 |
+| 18 | 13.5 | 0.15 |
+| 19 | 14.3 | 0.16 |
+| 20 | 15.0 | 0.17 |
+| 21 | 15.8 | 0.17 |
+| 22 | 16.5 | 0.18 |
+| 23 | 17.3 | 0.19 |
+| 24 | 18.0 | 0.20 |
+| 25 | 18.8 | 0.21 |
+| 26 | 19.5 | 0.22 |
+| 27 | 20.3 | 0.22 |
+| 28 | 21.0 | 0.23 |
+| 29 | 21.8 | 0.24 |
 | 30 | 22.5 | 0.25 |
 | 31 | 23.3 | 0.26 |
 | 32 | 24 | 0.27 |
@@ -72,7 +87,7 @@ Subcutaneous Adult Dosage Regimen
 
 Intravenous Induction Adult Dosage Regimen
 
-A single intravenous infusion dose of STELARA® dosage regimen specified in Table 3 [see Instructions for dilution of STELARA® 130 mg vial for intravenous infusion (2.6)].
+A single intravenous infusion dose of STELARA® using the weight-based dosage regimen specified in Table 3 [see Instructions for dilution of STELARA® 130 mg vial for intravenous infusion (2.6)].
 
 Table 3: Initial Intravenous Dosage of STELARA®
 
@@ -91,7 +106,7 @@ The recommended maintenance dosage is a subcutaneous 90 mg dose administered 8 w
 - STELARA® is intended for use under the guidance and supervision of a physician.
   STELARA® should only be administered to patients who will be closely monitored and have regular follow-up visits with a physician.
   The appropriate dose should be determined by a healthcare provider using the patient's current weight at the time of dosing.
-  In adolescent patients, it is recommended that STELARA® be administered by a healthcare provider.
+  In pediatric patients, it is recommended that STELARA® be administered by a healthcare provider.
   If a physician determines that it is appropriate, a patient may self-inject or a caregiver may inject STELARA® after proper training in subcutaneous injection technique.
   Patients should be instructed to follow the directions provided in the Medication Guide [see Medication Guide].
 - The needle cover on the prefilled syringe contains dry natural rubber (a derivative of latex).

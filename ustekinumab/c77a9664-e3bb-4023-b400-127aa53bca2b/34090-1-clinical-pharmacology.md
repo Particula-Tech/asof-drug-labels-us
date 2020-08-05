@@ -67,8 +67,8 @@ There were no apparent changes in pharmacokinetic parameters (clearance and volu
 
 Age: Pediatric Population
 
-Following multiple recommended doses of STELARA® in adolescent subjects 12 to 17 years of age with psoriasis, steady-state serum concentrations of ustekinumab were achieved by Week 28.
-At Week 28, the mean ±SD steady-state trough serum ustekinumab concentration was 0.54 ± 0.43 mcg/mL.
+Following multiple recommended doses of STELARA® in pediatric subjects 6 to 17 years of age with psoriasis, steady-state serum concentrations of ustekinumab were achieved by Week 28.
+At Week 28, the mean ±SD steady-state trough serum ustekinumab concentrations were 0.36 ± 0.26 mcg/mL and 0.54 ± 0.43 mcg/mL, respectively, in pediatric subjects 6 to 11 years of age and adolescent subjects 12 to 17 years of age.
 
 Drug Interaction Studies
 

@@ -55,38 +55,40 @@ Non-melanoma skin cancer was reported in 1.5% of STELARA®-treated subjects (0.5
 The most frequently observed malignancies other than non-melanoma skin cancer during the clinical studies were: prostate, melanoma, colorectal and breast.
 Malignancies other than non-melanoma skin cancer in STELARA®-treated patients during the controlled and uncontrolled portions of studies were similar in type and number to what would be expected in the general U.S. population according to the SEER database (adjusted for age, gender and race).1
 
-Adolescent Subjects with Plaque Psoriasis
+Pediatric Subjects with Plaque Psoriasis
 
-The safety of STELARA® was assessed in a study of 110 subjects 12 to 17 years of age with moderate to severe plaque psoriasis.
-The safety profile in these subjects through Week 60 was similar to the safety profile from studies in adults with plaque psoriasis.
+The safety of STELARA® was assessed in two studies of pediatric subjects with moderate to severe plaque psoriasis.
+Ps STUDY 3 evaluated safety for up to 60 weeks in 110 adolescents (12 to 17 years old).
+Ps STUDY 4 evaluated safety for up to 56 weeks in 44 children (6 to 11 years old).
+The safety profile in pediatric subjects was similar to the safety profile from studies in adults with plaque psoriasis.
 
 Psoriatic Arthritis
 
-The safety of STELARA® was assessed in 927 patients in two randomized, double-blind, placebo-controlled studies in adult patients with active psoriatic arthritis (PsA).
-The overall safety profile of STELARA® in patients with PsA was consistent with the safety profile seen in adult psoriasis clinical studies.
-A higher incidence of arthralgia, nausea, and dental infections was observed in STELARA®-treated patients when compared with placebo-treated patients (3% vs. 1% for arthralgia and 3% vs. 1% for nausea; 1% vs. 0.6% for dental infections) in the placebo-controlled portions of the PsA clinical studies.
+The safety of STELARA® was assessed in 927 subjects in two randomized, double-blind, placebo-controlled studies in adults with active psoriatic arthritis (PsA).
+The overall safety profile of STELARA® in subjects with PsA was consistent with the safety profile seen in adult psoriasis clinical studies.
+A higher incidence of arthralgia, nausea, and dental infections was observed in STELARA®-treated subjects when compared with placebo-treated subjects (3% vs. 1% for arthralgia and 3% vs. 1% for nausea; 1% vs. 0.6% for dental infections) in the placebo-controlled portions of the PsA clinical studies.
 
 Crohn's Disease
 
-The safety of STELARA® was assessed in 1407 patients with moderately to severely active Crohn's disease (Crohn's Disease Activity Index [CDAI] greater than or equal to 220 and less than or equal to 450) in three randomized, double-blind, placebo-controlled, parallel-group, multicenter studies.
-These 1407 patients included 40 patients who received a prior investigational intravenous ustekinumab formulation but were not included in the efficacy analyses.
-In Studies CD-1 and CD-2 there were 470 patients who received STELARA® 6 mg/kg as a weight-based single intravenous induction dose and 466 who received placebo [see Dosage and Administration (2.3)].
-Patients who were responders in either Study CD-1 or CD-2 were randomized to receive a subcutaneous maintenance regimen of either 90 mg STELARA® every 8 weeks, or placebo for 44 weeks in Study CD-3.
-Patients in these 3 studies may have received other concomitant therapies including aminosalicylates, immunomodulatory agents [azathioprine (AZA), 6-mercaptopurine (6-MP), MTX], oral corticosteroids (prednisone or budesonide), and/or antibiotics for their Crohn's disease [see Clinical Studies (14.4)].
+The safety of STELARA® was assessed in 1407 subjects with moderately to severely active Crohn's disease (Crohn's Disease Activity Index [CDAI] greater than or equal to 220 and less than or equal to 450) in three randomized, double-blind, placebo-controlled, parallel-group, multicenter studies.
+These 1407 subjects included 40 subjects who received a prior investigational intravenous ustekinumab formulation but were not included in the efficacy analyses.
+In Studies CD-1 and CD-2 there were 470 subjects who received STELARA® 6 mg/kg as a weight-based single intravenous induction dose and 466 who received placebo [see Dosage and Administration (2.3)].
+Subjects who were responders in either Study CD-1 or CD-2 were randomized to receive a subcutaneous maintenance regimen of either 90 mg STELARA® every 8 weeks, or placebo for 44 weeks in Study CD-3.
+Subjects in these 3 studies may have received other concomitant therapies including aminosalicylates, immunomodulatory agents [azathioprine (AZA), 6-mercaptopurine (6-MP), MTX], oral corticosteroids (prednisone or budesonide), and/or antibiotics for their Crohn's disease [see Clinical Studies (14.4)].
 
 The overall safety profile of STELARA® was consistent with the safety profile seen in the adult psoriasis and psoriatic arthritis clinical studies.
 Common adverse reactions in Studies CD-1 and CD-2 and in Study CD-3 are listed in Tables 5 and 6, respectively.
 
-Table 5: Common adverse reactions through Week 8 in Studies CD-1 and CD-2 occurring in ≥3% of STELARA®-treated patients and higher than placebo
+Table 5: Common adverse reactions through Week 8 in Studies CD-1 and CD-2 occurring in ≥3% of STELARA®-treated subjects and higher than placebo
 
 | N=466 | N=470 |  |
 | --- | --- | --- |
 |  | Placebo | STELARA® 6 mg/kg single intravenous induction dose |
 | Vomiting | 3% | 4% |
 
-Other less common adverse reactions reported in patients in Studies CD-1 and CD-2 included asthenia (1% vs 0.4%), acne (1% vs 0.4%), and pruritus (2% vs 0.4%).
+Other less common adverse reactions reported in subjects in Studies CD-1 and CD-2 included asthenia (1% vs 0.4%), acne (1% vs 0.4%), and pruritus (2% vs 0.4%).
 
-Table 6: Common adverse reactions through Week 44 in Study CD-3 occurring in ≥3% of STELARA®-treated patients and higher than placebo
+Table 6: Common adverse reactions through Week 44 in Study CD-3 occurring in ≥3% of STELARA®-treated subjects and higher than placebo
 
 | N=133 | N=131 |  |
 | --- | --- | --- |
@@ -106,8 +108,8 @@ In addition, listeria meningitis and ophthalmic herpes zoster were reported in o
 
 Malignancies
 
-With up to one year of treatment in the Crohn's disease clinical studies, 0.2% of STELARA®-treated patients (0.36 events per hundred patient-years) and 0.2% of placebo-treated patients (0.58 events per hundred patient-years) developed non-melanoma skin cancer.
-Malignancies other than non-melanoma skin cancers occurred in 0.2% of STELARA®-treated patients (0.27 events per hundred patient-years) and in none of the placebo-treated patients.
+With up to one year of treatment in the Crohn's disease clinical studies, 0.2% of STELARA®-treated subjects (0.36 events per hundred patient-years) and 0.2% of placebo-treated subjects (0.58 events per hundred patient-years) developed non-melanoma skin cancer.
+Malignancies other than non-melanoma skin cancers occurred in 0.2% of STELARA®-treated subjects (0.27 events per hundred patient-years) and in none of the placebo-treated subjects.
 
 Hypersensitivity Reactions Including Anaphylaxis
 
@@ -118,9 +120,9 @@ These patients were treated with oral antihistamines or corticosteroids and in b
 
 Ulcerative Colitis
 
-The safety of STELARA® was evaluated in two randomized, double-blind, placebo-controlled clinical studies (UC-1 [IV induction] and UC-2 [SC maintenance]) in 960 adult patients with moderately to severely active ulcerative colitis [see Clinical Studies (14.5)].
+The safety of STELARA® was evaluated in two randomized, double-blind, placebo-controlled clinical studies (UC-1 [IV induction] and UC-2 [SC maintenance]) in 960 adult subjects with moderately to severely active ulcerative colitis [see Clinical Studies (14.5)].
 The overall safety profile of STELARA® in patients with ulcerative colitis was consistent with the safety profile seen across all approved indications.
-Adverse reactions reported in at least 3% of STELARA®-treated patients and at a higher rate than placebo were:
+Adverse reactions reported in at least 3% of STELARA®-treated subjects and at a higher rate than placebo were:
 
 - Induction (UC-1): nasopharyngitis (7% vs 4%).
 - Maintenance (UC-2): nasopharyngitis (24% vs 20%), headache (10% vs 4%), abdominal pain (7% vs 3%), influenza (6% vs 5%), fever (5% vs. 4%), diarrhea (4% vs 1%), sinusitis (4% vs 1%), fatigue (4% vs 2%), and nausea (3% vs 2%).
@@ -132,8 +134,8 @@ In addition, listeriosis and ophthalmic herpes zoster were reported in one patie
 
 Malignancies
 
-With up to one year of treatment in the ulcerative colitis clinical studies, 0.4% of STELARA®-treated patients (0.48 events per hundred patient-years) and 0.0% of placebo-treated patients (0.00 events per hundred patient-years) developed non-melanoma skin cancer.
-Malignancies other than non-melanoma skin cancers occurred in 0.5% of STELARA®-treated patients (0.64 events per hundred patient-years) and 0.2% of placebo-treated patients (0.40 events per hundred patient-years).
+With up to one year of treatment in the ulcerative colitis clinical studies, 0.4% of STELARA®-treated subjects (0.48 events per hundred patient-years) and 0.0% of placebo-treated subjects (0.00 events per hundred patient-years) developed non-melanoma skin cancer.
+Malignancies other than non-melanoma skin cancers occurred in 0.5% of STELARA®-treated subjects (0.64 events per hundred patient-years) and 0.2% of placebo-treated subjects (0.40 events per hundred patient-years).
 
 ## 6.2 Immunogenicity
 
@@ -144,9 +146,9 @@ For these reasons, comparison of the incidence of antibodies to ustekinumab in t
 
 Approximately 6 to 12.4% of subjects treated with STELARA® in psoriasis and psoriatic arthritis clinical studies developed antibodies to ustekinumab, which were generally low-titer.
 In psoriasis clinical studies, antibodies to ustekinumab were associated with reduced or undetectable serum ustekinumab concentrations and reduced efficacy.
-In psoriasis studies, the majority of patients who were positive for antibodies to ustekinumab had neutralizing antibodies.
+In psoriasis studies, the majority of subjects who were positive for antibodies to ustekinumab had neutralizing antibodies.
 
-In Crohn's disease and ulcerative colitis clinical studies, 2.9% and 4.6% of patients, respectively, developed antibodies to ustekinumab when treated with STELARA® for approximately one year.
+In Crohn's disease and ulcerative colitis clinical studies, 2.9% and 4.6% of subjects, respectively, developed antibodies to ustekinumab when treated with STELARA® for approximately one year.
 No apparent association between the development of antibodies to ustekinumab and the development of injection site reactions was seen.
 
 ## 6.3 Postmarketing Experience

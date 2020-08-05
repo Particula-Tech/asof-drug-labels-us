@@ -7,8 +7,8 @@ Risk Summary
 Limited data on the use of STELARA® in pregnant women are insufficient to inform a drug associated risk [see Data].
 In animal reproductive and developmental toxicity studies, no adverse developmental effects were observed after administration of ustekinumab to pregnant monkeys at exposures greater than 100 times the human exposure at the maximum recommended human subcutaneous dose (MRHD).
 
+The background risk of major birth defects and miscarriage for the indicated population(s) are unknown.
 All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
-The estimated background risk of major birth defects and miscarriage for the indicated population(s) are unknown.
 In the U.S. general population, the estimated background risk of major birth defects and miscarriage of clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively.
 
 Data
@@ -42,9 +42,12 @@ The developmental and health benefits of breastfeeding should be considered alon
 
 ## 8.4 Pediatric Use
 
-The safety and effectiveness of STELARA® have been established in pediatric patients 12 to 17 years old with moderate to severe plaque psoriasis.
-Use of STELARA® in this age group is supported by evidence from a multicenter, randomized, 60-week trial that included a 12-week, double-blind, placebo-controlled, parallel-group portion, in 110 pediatric subjects 12 years and older [see Adverse Reactions (6.1), Clinical Studies (14.2)].
-The safety and effectiveness of STELARA® for pediatric patients less than 12 years of age with psoriasis have not been established.
+The safety and effectiveness of STELARA® have been established in pediatric patients 6 to 17 years old with moderate to severe plaque psoriasis.
+Use of STELARA® in adolescents is supported by evidence from a multicenter, randomized, 60-week trial (Ps STUDY 3) that included a 12-week, double-blind, placebo-controlled, parallel-group portion, in 110 pediatric subjects 12 years and older [see Adverse Reactions (6.1), Clinical Studies (14.2)].
+
+Use of STELARA® in children 6 to 11 years with moderate to severe plaque psoriasis is supported by evidence from an open-label, single-arm, efficacy, safety and pharmacokinetics study (Ps STUDY 4) in 44 subjects [see Adverse Reactions (6.1), Pharmacokinetics (12.3)].
+
+The safety and effectiveness of STELARA® for pediatric patients less than 6 years of age with psoriasis have not been established.
 
 The safety and effectiveness of STELARA® have not been established in pediatric patients with psoriatic arthritis, Crohn's disease or ulcerative colitis.
 

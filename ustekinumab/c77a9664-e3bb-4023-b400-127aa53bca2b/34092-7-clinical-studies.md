@@ -63,7 +63,7 @@ The median time to loss of PASI 75 response among the subjects randomized to tre
 
 A multicenter, randomized, double blind, placebo-controlled study (Ps STUDY 3) enrolled 110 adolescent subjects 12 to 17 years of age with a minimum BSA involvement of 10%, a PASI score greater than or equal to 12, and a PGA score greater than or equal to 3, who were candidates for phototherapy or systemic therapy and whose disease was inadequately controlled by topical therapy.
 
-Subjects were randomized to receive placebo (n=37), the recommended dose of STELARA® (n=36), or one-half the recommended dose of STELARA® (n=37) by subcutaneous injection at Weeks 0 and 4 followed by dosing every 12 weeks (q12w).
+Subjects were randomized to receive placebo (n = 37), the recommended dose of STELARA® (n = 36), or one-half the recommended dose of STELARA® (n = 37) by subcutaneous injection at Weeks 0 and 4 followed by dosing every 12 weeks (q12w).
 The recommended dose of STELARA® was 0.75 mg/kg for subjects weighing less than 60 kg, 45 mg for subjects weighing 60 kg to 100 kg, and 90 mg for subjects weighing greater than 100 kg.
 At Week 12, subjects who received placebo were crossed over to receive STELARA® at the recommended dose or one-half the recommended dose.
 
@@ -132,7 +132,7 @@ The results of the components of the ACR response criteria are shown in Table 11
 
 Table 11: Mean change from baseline in ACR components at Week 24
 
-|  | Placebo (N=206) | 45 mg (N= 205) | 90 mg (N= 204) |
+|  | Placebo (N = 206) | 45 mg (N = 205) | 90 mg (N = 204) |
 | --- | --- | --- | --- |
 |  | PsA STUDY 1 |  |  |
 |  |  | STELARA® |  |
@@ -192,9 +192,9 @@ Clinical response and remission were significant as early as Week 3 in STELARA®
 
 Table 12: Induction of Clinical Response and Remission in CD-1Patient population consisted of patients who failed or were intolerant to TNF blocker therapy and CD-2Patient population consisted of patients who failed or were intolerant to corticosteroids or immunomodulators (e.g., 6-MP, AZA, MTX) and previously received but not failed a TNF blocker or were never treated with a TNF blocker.
 
-|  | Placebo N=247 | STELARA®Infusion dose of STELARA® using the weight-based dosage regimen specified in Table 3. N=249 | Treatment difference and 95% CI | Placebo N=209 | STELARA® N=209 | Treatment difference and 95% CI |
+|  | Placebo N = 247 | STELARA®Infusion dose of STELARA® using the weight-based dosage regimen specified in Table 3. N = 249 | Treatment difference and 95% CI | Placebo N = 209 | STELARA® N = 209 | Treatment difference and 95% CI |
 | --- | --- | --- | --- | --- | --- | --- |
-|  | CD-1 n=741 |  |  | CD-2 n=627 |  |  |
+|  | CD-1 n = 741 |  |  | CD-2 n = 627 |  |  |
 | Clinical Response (100 point), Week 6 | 53 (21%) | 84 (34%)0.001≤ p < 0.01 | 12% (4%, 20%) | 60 (29%) | 116 (56%)p < 0.001 | 27% (18%, 36%) |
 | Clinical Remission, Week 8 | 18 (7%) | 52 (21%) | 14% (8%, 20%) | 41 (20%) | 84 (40%) | 21% (12%, 29%) |
 | Clinical Response (100 point), Week 8 | 50 (20%) | 94 (38%) | 18% (10%, 25%) | 67 (32%) | 121 (58%) | 26% (17%, 35%) |
@@ -209,7 +209,7 @@ Patients were randomized to receive a subcutaneous maintenance regimen of either
 
 Table 13: Clinical Response and Remission in CD-3 (Week 44; 52 weeks from initiation of the induction dose)
 
-| N=131Patients who achieved clinical response to STELARA® at the end of the induction study. | N=128 |  |  |
+| N = 131Patients who achieved clinical response to STELARA® at the end of the induction study. | N = 128 |  |  |
 | --- | --- | --- | --- |
 |  | PlaceboThe placebo group consisted of patients who were in response to STELARA® and were randomized to receive placebo at the start of maintenance therapy. | 90 mg STELARA® every 8 weeks | Treatment difference and 95% CI |
 | Clinical Remission | 47 (36%) | 68 (53%)p < 0.01 | 17% (5%, 29%) |
@@ -261,7 +261,7 @@ Table 14: Proportion of Patients Meeting Efficacy Endpoints at Week 8 in UC-1
 
 | N | % | N | % |  |  |
 | --- | --- | --- | --- | --- | --- |
-| Endpoint | Placebo N=319 |  | STELARA®Infusion dose of STELARA® using the weight-based dosage regimen specified in Table 3. N=322 |  | Treatment difference and 97.5% CIAdjusted treatment difference (97.5% CI) |
+| Endpoint | Placebo N = 319 |  | STELARA®Infusion dose of STELARA® using the weight-based dosage regimen specified in Table 3. N = 322 |  | Treatment difference and 97.5% CIAdjusted treatment difference (97.5% CI) |
 | Clinical RemissionClinical remission was defined as Mayo stool frequency subscore of 0 or 1, Mayo rectal bleeding subscore of 0, and Mayo endoscopy subscore of 0 or 1 (modified so that 1 does not include friability). | 22 | 7% | 62 | 19% | 12% (7%, 18%) p < 0.001 |
 | Bio-naïveAn additional 7 patients on placebo and 9 patients on STELARA® (6 mg/kg) had been exposed to, but had not failed, biologics. | 14/151 | 9% | 36/147 | 24% |  |
 | Prior biologic failure | 7/161 | 4% | 24/166 | 14% |  |
@@ -296,7 +296,7 @@ Table 15: Efficacy Endpoints of Maintenance at Week 44 in UC-2 (52 Weeks from In
 
 | N | % | N | % |  |  |
 | --- | --- | --- | --- | --- | --- |
-| Endpoint | PlaceboThe placebo group consisted of patients who were in response to STELARA® and were randomized to receive placebo at the start of maintenance therapy. N=175Clinical response was defined as a decrease from baseline in the modified Mayo score by ≥30% and ≥2 points, with either a decrease from baseline in the rectal bleeding subscore ≥1 or a rectal bleeding subscore of 0 or 1. |  | 90 mg STELARA® every 8 weeks N=176 |  | Treatment difference and 95% CI |
+| Endpoint | PlaceboThe placebo group consisted of patients who were in response to STELARA® and were randomized to receive placebo at the start of maintenance therapy. N = 175Clinical response was defined as a decrease from baseline in the modified Mayo score by ≥30% and ≥2 points, with either a decrease from baseline in the rectal bleeding subscore ≥1 or a rectal bleeding subscore of 0 or 1. |  | 90 mg STELARA® every 8 weeks N = 176 |  | Treatment difference and 95% CI |
 | Clinical RemissionClinical remission was defined as Mayo stool frequency subscore of 0 or 1, Mayo rectal bleeding subscore of 0, and Mayo endoscopy subscore of 0 or 1 (modified so that 1 does not include friability). | 46 | 26% | 79 | 45% | 19% (9%, 28%) p =<0.001 |
 | Bio-naïveAn additional 3 patients on placebo and 6 patients on STELARA® had been exposed to, but had not failed, biologics. | 30/84 | 36% | 39/79 | 49% |  |
 | Prior biologic failure | 16/88 | 18% | 37/91 | 41% |  |
