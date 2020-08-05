@@ -63,9 +63,7 @@ The most common side effects of BRYHALI include burning, stinging, itching, dryn
 These are not all the possible side effects of BRYHALI.
 
 Call your doctor for medical advice about side effects.
-You may report side effects to
-
-- FDA at 1-800-FDA-1088.
+You may report side effects to FDA at 1-800-FDA-1088.
 
 How should I store BRYHALI?
 
@@ -87,14 +85,15 @@ Active ingredients: halobetasol propionate
 
 Inactive ingredients: carbomer copolymer type B, carbomer homopolymer type A, diethyl sebacate, edetate disodium dihydrate, light mineral oil, methylparaben, propylparaben, purified water, sodium hydroxide, sorbitan monooleate and sorbitol solution, 70%.
 
-Manufactured for: Bausch Health Americas, Inc., Bridgewater, NJ 08807 USA Manufactured by: Bausch Health Companies Inc., Laval, Quebec H7L 4A8, Canada
+Distributed by: Bausch Health US, LLC, Bridgewater, NJ 08807 USA Manufactured by: Bausch Health Companies Inc., Laval, Quebec H7L 4A8, Canada
 
-U.S. Patent Numbers: 6,517,847 and 8,809,307
+U.S. Patent Numbers: 8,809,307 and 10,478,502
 
 BRYHALI is a trademark of Bausch Health Companies Inc. or its affiliates.
 
-© 2019 Bausch Health Companies Inc. or its affiliates
+© 2020 Bausch Health Companies Inc. or its affiliates
 
 - For more information, go to www.bauschhealth.com or call 1-800-321-4576.
 - This Patient Information has been approved by the U.S. Food and Drug Administration.
-- 9652103 Revised: 09/2019
+- 9652104
+- Revised: 06/2020

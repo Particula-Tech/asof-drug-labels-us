@@ -33,12 +33,14 @@ Local Adverse Reactions
 Inform patients that BRYHALI Lotion may cause local adverse reactions.
 These reactions may be more likely to occur with occlusive use or prolonged use of BRYHALI Lotion [see Warnings and Precautions (5.2)].
 
-Manufactured for: Bausch Health Americas, Inc. Bridgewater, NJ 08807 USA
+Distributed by: Bausch Health US, LLC Bridgewater, NJ 08807 USA
 
 Manufactured by: Bausch Health Companies Inc. Laval, Quebec H7L 4A8, Canada
 
-U.S. Patent Numbers: 6,517,847 and 8,809,307
+U.S. Patent Numbers: 8,809,307 and 10,478,502
 
 BRYHALI is a trademark of Bausch Health Companies Inc. or its affiliates.
 
-© 2019 Bausch health Companies Inc. or its affiliates 9652103
+© 2020 Bausch Health Companies Inc. or its affiliates 9652104
+
+TEAR HERE (Patient Information)

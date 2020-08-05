@@ -19,7 +19,7 @@ If HPA axis suppression is documented, attempt to gradually withdraw the drug, r
 Manifestations of adrenal insufficiency may require supplemental systemic corticosteroids.
 Recovery of HPA axis function is generally prompt and complete upon discontinuation of topical corticosteroids.
 
-Systemic effects of topical corticosteroids may also include Cushing's syndrome, hyperglycemia, and glucosuria.
+Systemic effects of topical corticosteroids may also include Cushing’s syndrome, hyperglycemia, and glucosuria.
 Use of more than one corticosteroid-containing product at the same time may increase the total systemic exposure to corticosteroids.
 Pediatric patients may be more susceptible than adults to systemic toxicity from the use of topical corticosteroids due to their larger surface-to-body-mass ratios [see Use in Specific Populations (8.4)].
 
