@@ -1,32 +1,28 @@
+# PACKAGE/LABEL PRINCIPAL DISPLAY PANEL
+
 PRINCIPAL DISPLAY PANEL - 2.5 mg
 
 NDC 0378-0014-01
 
 Methotrexate Tablets, USP 2.5 mg
 
-PHARMACIST: Dispense the Patient Information Leaflet provided separately to each patient.
+Each tablet contains 2.5 mg methotrexate, USP equivalent to 2.74 mg methotrexate sodium.
 
-Rx only 100 Tablets
+Dispense in a tight, light-resistant container as defined in the USP using a child-resistant closure.
 
-Each tablet contains methotrexate sodium equivalent to 2.5 mg of methotrexate, USP.
+Keep container tightly closed.
 
-Caution: Pharmacist: Because of its potential to cause severe toxicity, methotrexate therapy requires close supervision of the patient by the physician.
-
-Prescriptions should not be written or refilled on a PRN basis.
-Refill of such prescriptions should be by direct order (written or oral) of the physician only.
-See Boxed Warnings for complete directions for use.
-
-WARNING: Blood counts should be taken weekly.
-Discontinue or reduce dosage immediately at first sign of ulceration or bleeding in the mouth, gastrointestinal ulceration or bleeding, diarrhea, or marked depression of bone marrow.
+Keep this and all medication out of the reach of children.
 
 Store at 20° to 25°C (68° to 77°F).
 [See USP Controlled Room Temperature.]
+
 Protect from light.
 
-Dispense in a tight, light-resistant container as defined in the USP using a child-resistant closure.
+Recommended Dosage: See accompanying prescribing information.
 
 Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
 Mylan.com
 
-RM0014A13
+RM0014A14

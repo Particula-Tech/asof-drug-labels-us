@@ -1,71 +1,85 @@
-# ADVERSE REACTIONS
+# 6 ADVERSE REACTIONS
 
-IN GENERAL, THE INCIDENCE AND SEVERITY OF ACUTE SIDE EFFECTS ARE RELATED TO DOSE AND FREQUENCY OF ADMINISTRATION.
-THE MOST SERIOUS REACTIONS ARE DISCUSSED ABOVE UNDER ORGAN SYSTEM TOXICITY IN THE PRECAUTION SECTION.
-THAT SECTION SHOULD ALSO BE CONSULTED WHEN LOOKING FOR INFORMATION ABOUT ADVERSE REACTIONS WITH METHOTREXATE.
+The following clinically significant adverse reactions are described elsewhere in the labeling:
 
-The most frequently reported adverse reactions include ulcerative stomatitis, leukopenia, nausea, and abdominal distress.
-Other frequently reported adverse effects are malaise, undue fatigue, chills and fever, dizziness and decreased resistance to infection.
+- •Hypersensitivity Reactions [see Warnings and Precautions (5.2)]
+- •Myelosuppression [see Warnings and Precautions (5.3)]
+- •Gastrointestinal Toxicity [see Warnings and Precautions (5.4)]
+- •Hepatotoxicity [see Warnings and Precautions (5.5)]
+- •Pulmonary Toxicity [see Warnings and Precautions (5.6)]
+- •Dermatologic Reactions [see Warnings and Precautions (5.7)]
+- •Renal Toxicity [see Warnings and Precautions (5.8)]
+- •Serious Infections [see Warnings and Precautions (5.11)]
+- •Neurotoxicity [see Warnings and Precautions (5.12)]
+- •Secondary Malignancies [see Warnings and Precautions (5.13)]
+- •Tumor Lysis Syndrome [see Warnings and Precautions (5.14)]
+- •Increased Risk of Adverse Reactions Due to Third-Space Accumulation [see Warnings and Precautions (5.17)]
 
-Other adverse reactions that have been reported with methotrexate are listed below by organ system.
-In the oncology setting, concomitant treatment and the underlying disease make specific attribution of a reaction to methotrexate difficult.
+## 6.1 Clinical Trials Experience
 
-Alimentary System: Gingivitis, pharyngitis, stomatitis, anorexia, nausea, vomiting, diarrhea, hematemesis, melena, gastrointestinal ulceration and bleeding, enteritis, pancreatitis.
+Because clinical trials and other studies are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-Blood and Lymphatic System Disorders: Suppressed hematopoiesis causing anemia, aplastic anemia, pancytopenia, leukopenia, neutropenia and/or thrombocytopenia, lymphadenopathy and lymphoproliferative disorders (including reversible).
-Hypogammaglobulinemia has been reported rarely.
+Common adverse reactions were: ulcerative stomatitis, leukopenia, nausea, and abdominal distress.
+Other clinically relevant adverse reactions were infection, malaise, fatigue, chills, fever, and dizziness.
 
-Cardiovascular: Pericarditis, pericardial effusion, hypotension, and thromboembolic events (including arterial thrombosis, cerebral thrombosis, deep vein thrombosis, retinal vein thrombosis, thrombophlebitis, and pulmonary embolus).
+### Rheumatoid Arthritis
 
-Central Nervous System: Headaches, drowsiness, blurred vision, transient blindness, speech impairment including dysarthria and aphasia, hemiparesis, paresis and convulsions have also occurred following administration of methotrexate.
-Following low doses, there have been occasional reports of transient subtle cognitive dysfunction, mood alteration, unusual cranial sensations, leukoencephalopathy, or encephalopathy.
-
-Hepatobiliary Disorders: Hepatotoxicity, acute hepatitis, chronic fibrosis and cirrhosis, decrease in serum albumin, liver enzyme elevations.
-
-Infection: There have been case reports of sometimes fatal opportunistic infections in patients receiving methotrexate therapy for neoplastic and non-neoplastic diseases.
-Pneumocystis carinii pneumonia was the most common opportunistic infection.
-There have also been reports of infections, pneumonia, sepsis, nocardiosis, histoplasmosis, cryptococcosis, Herpes zoster, H. simplex hepatitis, and disseminated H. simplex.
-
-Musculoskeletal System: Stress fracture.
-
-Ophthalmic: Conjunctivitis, serious visual changes of unknown etiology.
-
-Pulmonary System: Respiratory fibrosis, respiratory failure, interstitial pneumonitis; deaths have been reported, and chronic interstitial obstructive pulmonary disease has occasionally occurred.
-
-Skin: Erythematous rashes, pruritus, urticaria, photosensitivity, pigmentary changes, alopecia, ecchymosis, telangiectasia, acne, furunculosis, erythema multiforme, toxic epidermal necrolysis, Stevens-Johnson syndrome, skin necrosis, skin ulceration, and exfoliative dermatitis.
-
-Urogenital System: Severe nephropathy or renal failure, azotemia, cystitis, hematuria; defective oogenesis or spermatogenesis, transient oligospermia, menstrual dysfunction, vaginal discharge, and gynecomastia; infertility, abortion, fetal defects.
-
-Other rarer reactions related to or attributed to the use of methotrexate such as nodulosis, vasculitis, arthralgia/myalgia, loss of libido/impotence, diabetes, osteoporosis, sudden death, reversible lymphomas, tumor lysis syndrome, soft tissue necrosis and osteonecrosis.
-Anaphylactoid reactions have been reported.
-
-## Adverse Reactions in Double-Blind Rheumatoid Arthritis Studies
-
-The approximate incidences of methotrexate attributed (i.e., placebo rate subtracted) adverse reactions in 12 to 18 week double-blind studies of patients (n = 128) with rheumatoid arthritis treated with low-dose oral (7.5 to 15 mg/week) pulse methotrexate, are listed below.
-Virtually all of these patients were on concomitant nonsteroidal anti-inflammatory drugs and some were also taking low dosages of corticosteroids.
+The most common adverse reactions of methotrexate that exceeded the rate of placebo in 12- to 18-week double-blind studies in patients (n = 128) with rheumatoid arthritis are listed below.
+Patients received methotrexate 7.5 to 15 mg orally once weekly.
+Most patients received concomitant nonsteroidal anti-inflammatory drugs (NSAIDs) and some also received corticosteroids.
 Hepatic histology was not examined in these short-term studies.
-(See PRECAUTIONS.)
 
-Incidence Greater Than 10%: Elevated liver function tests 15%, nausea/vomiting 10%.
+Incidence ≥ 10%: Elevated liver tests 15%, nausea/vomiting 10%
 
-Incidence 3% to 10%: Stomatitis, thrombocytopenia, (platelet count less than 100,000/mm3).
+Incidence 3% to < 10%: Stomatitis, thrombocytopenia (platelet count < 100,000/mm3)
 
-Incidence 1% to 3%: Rash/pruritus/dermatitis, diarrhea, alopecia, leukopenia (WBC less than 3000/mm3), pancytopenia, dizziness.
+Incidence 1% to < 3%: Rash/pruritus/dermatitis, diarrhea, alopecia, leukopenia (white blood cell count < 3000/mm3), pancytopenia, dizziness
 
-Two other controlled trials of patients (n = 680) with Rheumatoid Arthritis on 7.5 mg – 15 mg/wk oral doses showed an incidence of interstitial pneumonitis of 1%.
-(See PRECAUTIONS.)
+Two other controlled trials of patients (n = 680) with rheumatoid arthritis who received methotrexate 7.5 mg to 15 mg orally once weekly showed the following serious adverse reaction:
 
-Other less common reactions included decreased hematocrit, headache, upper respiratory infection, anorexia, arthralgias, chest pain, coughing, dysuria, eye discomfort, epistaxis, fever, infection, sweating, tinnitus, and vaginal discharge.
+Incidence 1%: Interstitial pneumonitis
 
-## Adverse Reactions in Psoriasis
+Other less common adverse reactions were: anemia, headache, upper respiratory infection, anorexia, arthralgias, chest pain, coughing, dysuria, eye discomfort, epistaxis, fever, infection, sweating, tinnitus, vaginal discharge.
 
-There are no recent placebo-controlled trials in patients with psoriasis.
-There are two literature reports (Roenigk, 1969 and Nyfors, 1978) describing large series (n = 204, 248) of psoriasis patients treated with methotrexate.
-Dosages ranged up to 25 mg per week and treatment was administered for up to four years.
-With the exception of alopecia, photosensitivity, and "burning of skin lesions" (each 3% to 10%), the adverse reaction rates in these reports were very similar to those in the rheumatoid arthritis studies.
-Rarely, painful plaque erosions may appear.
+### Polyarticular Juvenile Idiopathic Arthritis (pJIA)
 
-## Adverse Reactions in JRA Studies
+The most common adverse reactions reported in patients 2 to 18 years of age with pJIA treated with methotrexate 5 mg/m2 to 20 mg/m2 orally once weekly or 0.1 to 0.65 mg/kg orally once weekly were as follows: elevated liver tests 14%; gastrointestinal reactions (e.g., nausea, vomiting, diarrhea) 11%; stomatitis 2%; leukopenia 2%; headache 1.2%; alopecia 0.5%; dizziness 0.2%; rash 0.2%.
+Most patients received concomitant NSAIDs and some also received corticosteroids.
 
-The approximate incidences of adverse reactions reported in pediatric patients with JRA treated with oral, weekly doses of methotrexate (5 to 20 mg/m2/wk or 0.1 to 0.65 mg/kg/wk) were as follows (virtually all patients were receiving concomitant non-steroidal anti-inflammatory drugs, and some also were taking low doses of cortico-steroids): elevated liver function tests, 14%; gastrointestinal reactions (e.g., nausea, vomiting, diarrhea), 11%; stomatitis, 2%; leukopenia, 2%; headache, 1.2%; alopecia, 0.5%; dizziness, 0.2%; and rash, 0.2%.
-Although there is experience with dosing up to 30 mg/m2/wk in JRA, the published data for doses above 20 mg/m2/wk are too limited to provide reliable estimates of adverse reaction rates.
+### Psoriasis
+
+In two published series of adults with psoriasis (n = 204, 248) who received methotrexate up to 25 mg per week for up to 4 years, adverse reaction rates were similar to those in patients with rheumatoid arthritis, except for alopecia, photosensitivity, and “burning of skin lesions” (3% to 10% each).
+Painful plaque erosions have been reported.
+
+## 6.2 Postmarketing Experience
+
+The following adverse reactions have been identified during postapproval use of methotrexate.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+Cardiovascular: Thromboembolic events (including arterial thrombosis, cerebral thrombosis, deep vein thrombosis, retinal vein thrombosis, thrombophlebitis, and pulmonary embolus), pericarditis, pericardial effusion, hypotension, sudden death
+
+Endocrine: Diabetes
+
+Eye: Optic neuropathy, blurred vision, ocular pain, conjunctivitis, xerophthalmia
+
+Gastrointestinal: Hemorrhagic enteritis, intestinal perforation, gingivitis, pancreatitis, pharyngitis, hematemesis, melena, gastrointestinal ulceration
+
+Hematology: Aplastic anemia, lymphadenopathy, hypogammaglobulinemia
+
+Hepatobiliary: Acute hepatitis, decreased serum albumin, fibrosis, cirrhosis
+
+Immune system: Anaphylaxis, anaphylactoid reactions, vasculitis
+
+Metabolism: Hyperglycemia
+
+Musculoskeletal: Stress fracture, soft tissue and bone necrosis, arthralgia, myalgia, osteoporosis
+
+Nervous system: Headaches, drowsiness, blurred vision, speech impairment (including dysarthria and aphasia), transient cognitive dysfunction, mood alteration, unusual cranial sensations, paresis, encephalopathy, and convulsions.
+
+Renal: Azotemia, hematuria, proteinuria, cystitis
+
+Reproductive: Defective oogenesis or spermatogenesis, loss of libido, impotence, gynecomastia, menstrual dysfunction
+
+Respiratory: Pulmonary fibrosis, respiratory failure, chronic interstitial obstructive pulmonary disease, pleuritic pain and thickening, alveolitis
+
+Skin: Toxic epidermal necrolysis, Stevens-Johnson syndrome, exfoliative dermatitis, skin necrosis, and erythema multiforme, erythematous rashes, pruritus, alopecia, skin ulceration, accelerated nodulosis, urticaria, pigmentary changes, ecchymosis, telangiectasia, photosensitivity, acne, furunculosis

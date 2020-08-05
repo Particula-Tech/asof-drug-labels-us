@@ -1,8 +1,8 @@
-# HOW SUPPLIED
+# 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-Methotrexate Tablets, USP are available containing methotrexate sodium equivalent to 2.5 mg of methotrexate, USP.
+Methotrexate Tablets, USP are available containing 2.5 mg methotrexate equivalent to 2.74 mg methotrexate sodium.
 
-The tablets are orange, round tablets debossed with M above the score and 14 below the score on one side of the tablet and blank on the other side.
+The 2.5 mg tablets are orange, round, scored tablets debossed with M above the score and 14 below the score on one side of the tablet and blank on the other side of the tablet.
 They are available as follows:
 
 NDC 0378-0014-01 bottles of 100 tablets
@@ -14,4 +14,5 @@ Protect from light.
 
 Dispense in a tight, light-resistant container as defined in the USP using a child-resistant closure.
 
-PHARMACIST: Dispense a Patient Information Leaflet with each prescription.
+Methotrexate tablets are a cytotoxic drug.
+Follow applicable special handling and disposal procedures.1
