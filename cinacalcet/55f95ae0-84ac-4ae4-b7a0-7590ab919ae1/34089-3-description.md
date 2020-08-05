@@ -1,8 +1,7 @@
 # 11 DESCRIPTION
 
-Cinacalcet is a calcimimetic agent that increases the sensitivity of the calcium-sensing receptor to activation by extracellular calcium.
-Cinacalcet tablets contain the hydrochloride salt of cinacalcet.
-Its empirical formula is C22H22F3N⋅HCl with a molecular weight of 393.9 g/mol (hydrochloride salt) and 357.4 g/mol (free base).
+Cinacalcet tablets contain the hydrochloride salt of the active ingredient cinacalcet, a positive modulator of the calcium sensing receptor.
+The empirical formula for cinacalcet is C22H22F3N⋅HCl with a molecular weight of 393.9 g/mol (hydrochloride salt) and 357.4 g/mol (free base).
 It has one chiral center having an R-absolute configuration.
 The R-enantiomer is the more potent enantiomer and has been shown to be responsible for pharmacodynamic activity.
 
@@ -15,5 +14,4 @@ The hydrochloride salt of cinacalcet is described chemically as N-[1-(R)-(-)-(1-
 Inactive Ingredients
 
 The following are the inactive ingredients in cinacalcet tablets: Lactose monohydrate, microcrystalline cellulose (GR 101 and GR 102), crospovidone, hydroxypropyl cellulose, magnesium stearate.
-
 In addition polyvinyl alcohol, titanium dioxide, polyethylene glycol, talc, iron oxide yellow, FD&C blue #2/Indigo carmine AL are included in the film coating.

@@ -2,7 +2,7 @@
 
 ## 5.1 Hypocalcemia
 
-Cinacalcet lowers serum calcium and can lead to hypocalcemia [see Adverse Reactions (6.1)].Significant lowering of serum calcium can cause paresthesias, myalgias, muscle spasms, tetany, seizures.
+Cinacalcet lowers serum calcium and can lead to hypocalcemia [see Adverse Reactions (6.1)].Significant lowering of serum calcium can cause paresthesias, myalgias, muscle spasms, tetany, seizures, QT interval prolongation and ventricular arrhythmia.
 Life threatening events and fatal outcomes associated with hypocalcemia have been reported in patients treated with cinacalcet, including in pediatric patients.
 The safety and effectiveness of cinacalcet have not been established in pediatric patients [see Pediatric Use (8.4)].
 

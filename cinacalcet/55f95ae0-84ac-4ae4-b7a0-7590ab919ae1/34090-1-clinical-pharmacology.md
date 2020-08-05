@@ -3,7 +3,7 @@
 ## 12.1 Mechanism of Action
 
 The calcium-sensing receptor on the surface of the chief cell of the parathyroid gland is the principal regulator of PTH synthesis and secretion.
-Cinacalcet, the active ingredient in cinacalcet tablets, directly lowers PTH levels by increasing the sensitivity of the calcium-sensing receptor to extracellular calcium.
+Cinacalcet, the active ingredient in cinacalcet tablets is a calcimimetic agent that directly lowers PTH levels by increasing the sensitivity of the calcium-sensing receptor to activation by extracellular calcium.
 The reduction in PTH is associated with a concomitant decrease in serum calcium levels.
 
 ## 12.2 Pharmacodynamics
@@ -82,7 +82,7 @@ Effect of cinacalcet co-administration on other drugs
 | Cinacalcet dosing regimen | Co-administered drug |  |  |
 | --- | --- | --- | --- |
 | Name and Dose | Mean change in AUC(0-inf) | Mean change in Cmax |  |
-| 30 mg twice daily for 8 days | 25 mg warfarin* tablet† | ↑1 % for R-warfarin ↓1% S-warfarin | ↓10 % for R-warfarin ↓12 % for S-warfarin |
+| 30 mg twice daily for 8 days | 25 mg warfarin* tablet† | ↑1 % for R-warfarin ↓1% for S-warfarin | ↓10 % for R-warfarin ↓12 % for S-warfarin |
 | 90 mg daily for 7 days to CYP2D6 extensive metabolizers | 50 mg desipramine† | ↑264% | ↑75% |
 | 90 mg daily for 5 days | 2 mg midazolam† | ↑5% | ↓5% |
 | 25 or 100 mg single dose to CYP2D6 extensive metabolizers | 50 mg amitriptyline single dose | ↑21-22% for amitriptyline ↑17-23% for nortriptyline‡ | ↑13-21% for amitriptyline ↑11-15% for nortriptyline‡ |

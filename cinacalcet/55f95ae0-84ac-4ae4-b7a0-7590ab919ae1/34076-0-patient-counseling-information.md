@@ -9,4 +9,4 @@
 
 Manufactured by: Alkem Laboratories Ltd. Mumbai - 400 013, INDIA Distributed by: Ascend Laboratories, LLC Parsippany, NJ 07054
 
-Revised: April,2019 PT 2787
+Revised: May,2020 PT 2787-01

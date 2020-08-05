@@ -6,7 +6,7 @@ Cinacalcet tablets should be taken with food or shortly after a meal.
 
 Cinacalcet tablets are administered orally and should always be taken whole and not chewed, crushed, or divided.
 
-## 2.2 Secondary Hyperparathyroidismin Patients with Chronic Kidney Disease on Dialysis
+## 2.2 Secondary Hyperparathyroidism in Patients with Chronic Kidney Disease on Dialysis
 
 The recommended starting oral dose of cinacalcet is 30 mg once daily.
 Serum calcium and serum phosphorus should be measured within 1 week and intact parathyroid hormone (iPTH) should be measured 1 to 4 weeks after initiation or dose adjustment of cinacalcet [see Dosage and Administration (2.3)].
@@ -15,7 +15,7 @@ Serum iPTH levels should be assessed no earlier than 12 hours after dosing with 
 
 Cinacalcet can be used alone or in combination with vitamin D sterols and/or phosphate binders.
 
-During dose titration, serum calcium levels should be monitored frequently and if levels decrease below the normal range, appropriate steps should be taken to increase serum calcium levels, such as by providing supplemental calcium, initiating or increasing the dose of calcium-based phosphate binder,initiating or increasing the dose of vitamin D sterols, or temporarily withholding treatment with cinacalcet [see Dosage and Administration (2.4)] and Warnings and Precautions (5.1)].
+During dose titration, serum calcium levels should be monitored frequently and if levels decrease below the normal range, appropriate steps should be taken to increase serum calcium levels, such as by providing supplemental calcium, initiating or increasing the dose of calcium-based phosphate binder,initiating or increasing the dose of vitamin D sterols, or temporarily withholding treatment with cinacalcet [see Dosage and Administration (2.4) and Warnings and Precautions (5.1)].
 
 ## 2.3 Patients with Parathyroid Carcinoma and Primary Hyperparathyroidism
 
