@@ -14,5 +14,6 @@ Haloperidol decanoate injection is supplied as:
 Do not refrigerate or freeze.
 
 PROTECT FROM LIGHT.
+Keep out of reach of children.
 
 Keep in carton until empty.

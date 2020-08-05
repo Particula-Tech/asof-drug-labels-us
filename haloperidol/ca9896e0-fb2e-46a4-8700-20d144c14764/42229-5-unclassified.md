@@ -2,6 +2,6 @@ For Intramuscular Injection Only
 
 Rx only
 
-www.fresenius-kabi.com/us 45803L
+www.fresenius-kabi.com/us 45803M
 
-Revised: March 2019
+Revised: January 2020

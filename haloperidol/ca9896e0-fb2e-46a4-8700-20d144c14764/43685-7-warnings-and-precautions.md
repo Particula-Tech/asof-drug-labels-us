@@ -51,6 +51,19 @@ The patient should be carefully monitored, since recurrences of NMS have been re
 
 Hyperpyrexia and heat stroke, not associated with the above symptom complex, have also been reported with haloperidol.
 
+## Neurological Adverse Reactions in Patients with Parkinson's Disease or Dementia with Lewy Bodies
+
+Patients with Parkinson's Disease or Dementia with Lewy Bodies are reported to have an increased sensitivity to antipsychotic medication.
+Manifestations of this increased sensitivity with haloperidol treatment include severe extrapyramidal symptoms, confusion, sedation, and falls.
+In addition, haloperidol may impair the antiparkinson effects of levodopa and other dopamine agonists.
+Haloperidol decanoate is contraindicated in patients with Parkinson's Disease or Dementia with Lewy Bodies (see CONTRAINDICATIONS).
+
+## Hypersensitivity Reactions
+
+There have been postmarketing reports of hypersensitivity reactions with haloperidol.
+These include anaphylactic reaction, angioedema, dermatitis exfoliative, hypersensitivity vasculitis, rash, urticaria, face edema, laryngeal edema, bronchospasm, and laryngospasm (see ADVERSE REACTIONS).
+Haloperidol decanoate is contraindicated in patients with hypersensitivity to this drug (see CONTRAINDICATIONS).
+
 ## Falls
 
 Motor instability, somnolence, and orthostatic hypotension have been reported with the use of antipsychotics, including haloperidol decanoate, which may lead to falls and, consequently, fractures or other fall-related injuries.
@@ -97,6 +110,7 @@ Haloperidol decanoate should be administered cautiously to patients:
 
 - receiving anticoagulants, since an isolated instance of interference occurred with the effects of one anticoagulant (phenindione).
 
+Haloperidol may impair the antiparkinson effects of levodopa and other dopamine agonists.
 If concomitant antiparkinson medication is required, it may have to be continued after haloperidol decanoate is discontinued because of the prolonged action of haloperidol decanoate.
 If both drugs are discontinued simultaneously, extrapyramidal symptoms may occur.
 The physician should keep in mind the possible increase in intraocular pressure when anticholinergic drugs, including antiparkinson agents, are administered concomitantly with haloperidol decanoate.
@@ -137,7 +151,8 @@ Inhibition of these routes of metabolism by another drug may result in increased
 Drugs Characterized as Substrates, Inhibitors or Inducers of CYP3A4, CYP2D6 or Glucuronidation
 
 In pharmacokinetic studies, mild to moderately increased haloperidol concentrations have been reported when haloperidol was given concomitantly with drugs characterized as substrates or inhibitors of CYP3A4 or CYP2D6 isoenzymes, such as itraconazole, nefazodone, buspirone, venlafaxine, alprazolam, fluvoxamine, quinidine, fluoxetine, sertraline, chlorpromazine, and promethazine.
-
+Haloperidol is an inhibitor of CYP2D6.
+Plasma concentrations of CYP2D6 substrates (e.g., tricyclic antidepressants such as desipramine or imipramine) may increase when they are co- administered with haloperidol.
 When prolonged treatment (1 to 2 weeks) with enzyme-inducing drugs such as rifampin or carbamazepine is added to haloperidol therapy, this results in a significant reduction of haloperidol plasma levels.
 
 Rifampin
@@ -157,7 +172,7 @@ Valproate
 
 Sodium valproate, a drug known to inhibit glucuronidation, does not affect haloperidol plasma concentrations.
 
-## Carcinogenesis, Mutagenesis, Impairment of Fertility
+## Carcinogenesis, Mutagenesis, and Impairment of Fertility
 
 No mutagenic potential of haloperidol decanoate was found in the Ames Salmonella microsomal activation assay.
 Negative or inconsistent positive findings have been obtained in in vitro and in vivo studies of effects of short-acting haloperidol on chromosome structure and number.
@@ -215,3 +230,8 @@ Clinical studies of haloperidol did not include sufficient numbers of subjects a
 Other reported clinical experience has not consistently identified differences in responses between the elderly and younger patients.
 However, the prevalence of tardive dyskinesia appears to be highest among the elderly, especially elderly women (see WARNINGS, Tardive Dyskinesia).
 Also, the pharmacokinetics of haloperidol in geriatric patients generally warrants the use of lower doses (see DOSAGE AND ADMINISTRATION).
+
+## Use in Hepatic Impairment
+
+Studies in patients with hepatic impairment have not been conducted.
+Haloperidol concentrations may increase in hepatically impaired patients, because it is primarily metabolized by the liver and protein binding may decrease.

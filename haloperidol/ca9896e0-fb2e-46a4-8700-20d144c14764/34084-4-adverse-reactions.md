@@ -1,6 +1,20 @@
 # ADVERSE REACTIONS:
 
-The following adverse reactions are discussed in more detail in other sections of the labeling: • WARNINGS, Increased mortality in Elderly Patients with Dementia-Related Psychosis • WARNINGS, Cardiovascular Effects • WARNINGS, Tardive Dyskinesia • WARNINGS, Neuroleptic Malignant Syndrome • WARNINGS, Falls • WARNINGS, Combined Use of Haloperidol injection and Lithium • WARNINGS, General • PRECAUTIONS, Leukopenia, Neutropenia, and Agranulocytosis • PRECAUTIONS, Other • PRECAUTIONS, Usage in Pregnancy Clinical Trials Experience Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug, and may not reflect the rates observed in practice.
+The following adverse reactions are discussed in more detail in other sections of the labeling:
+
+- WARNINGS,Increased mortality in Elderly Patients with Dementia-Related Psychosis
+- WARNINGS,Cardiovascular Effects
+- WARNINGS,Tardive Dyskinesia
+- WARNINGS,Neuroleptic Malignant Syndrome
+- WARNINGS,Hypersensitivity Reactions
+- WARNINGS, Falls
+- WARNINGS, Combined Use of Haloperidol and Lithium
+- WARNINGS, General
+- PRECAUTIONS,Leukopenia, Neutropenia, and Agranulocytosis
+- PRECAUTIONS, Other
+- PRECAUTIONS,Usage in Pregnancy
+
+Clinical Trials Experience Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug, and may not reflect the rates observed in practice.
 The data described below reflect exposure to haloperidol in 410 patients who participated in 13 clinical trials with haloperidol decanoate (15 to 500 mg/month) in the treatment of schizophrenia or schizoaffective disorder.
 These clinical trials comprised: • 1 double-blind, active comparator-controlled trial with fluphenazine decanoate. • 2 trials comparing the decanoate formulation to oral haloperidol. • 9 open-label trials. • 1 dose-response trial.
 The most common adverse reactions in haloperidol decanoate-treated patients in the double-blind, active comparator-controlled clinical trial with fluphenazine decanoate (≥5%) were: Parkinsonism, and oculogyric crisis.
@@ -12,7 +26,7 @@ Because these reactions are reported voluntarily from a population of uncertain 
 
 Blood and Lymphatic System Disorders: Pancytopenia, Agranulocytosis, Thrombocytopenia, Leukopenia, Neutropenia
 
-Cardiac Disorders: Ventricular fibrillation, Torsade de pointes, Ventricular tachycardia, Extrasystoles
+Cardiac Disorders: Ventricular fibrillation, Torsades de pointes, Ventricular tachycardia, Extrasystoles
 
 Endocrine Disorders: Inappropriate antidiuretic hormone secretion
 
@@ -34,4 +48,4 @@ Reproductive System and Breast Disorders: Priapism, Gynecomastia
 
 Respiratory, Thoracic and Mediastinal Disorders: Laryngeal edema, Bronchospasm, Laryngospasm, Dyspnea
 
-Skin and Subcutaneous Tissue Disorders: Dermatitis exfoliative, Hypersensitivity vasculitis, Photosensitivity reaction, Urticaria, Pruritis, Rash, Hyperhidrosis
+Skin and Subcutaneous Tissue Disorders: Angioedema, Dermatitis exfoliative, Hypersensitivity vasculitis, Photosensitivity reaction, Urticaria, Pruritus, Rash, Hyperhidrosis
