@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA212690"
+  ],
+  "inn": "sodium-oxybate",
+  "labeler": "Jazz Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "68727-150-01"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "(calcium, magnesium, potassium, and sodium oxybates)",
+      "name": "XYWAV"
+    }
+  ],
+  "setid": "1e0ae43a-037f-42af-8e23-a0e51d75abe8",
+  "source": "dailymed"
+}

@@ -1,0 +1,154 @@
+| MEDICATION GUIDE XYWAV™ [ZYE wave] (calcium, magnesium, potassium, and sodium oxybates) oral solution, CIII |
+| --- |
+| Read this Medication Guide carefully before you start or your child starts taking XYWAV, and each time you get or your child gets a refill. There may be new information. This information does not take the place of talking to your doctor about your or your child’s medical condition or treatment. |
+| What is the most important information I should know about XYWAV? •XYWAV is a central nervous system (CNS) depressant. Taking XYWAV with other CNS depressants, such as medicines used to make you or your child fall asleep, including opioid analgesics, benzodiazepines, sedating antidepressants, antipsychotics, sedating anti-epileptic medicines, general anesthetics, muscle relaxants, alcohol, or street drugs, may cause serious medical problems, including: otrouble breathing (respiratory depression)olow blood pressure (hypotension)ochanges in alertness (drowsiness)ofainting (syncope)odeath Ask your doctor if you are not sure if you are, or your child is, taking a medicine listed above.•XYWAV is a federal controlled substance (CIII). The active ingredient of XYWAV is a form of gamma-hydroxybutyrate (GHB) that is also a federal controlled substance (CI). Abuse of illegal GHB, either alone or with other CNS depressants, may cause serious medical problems, including: oseizureotrouble breathing (respiratory depression)ochanges in alertness (drowsiness)ocomaodeath Call your doctor right away if you have or your child has any of these serious side effects.•Anyone who takes XYWAV should not do anything that requires them to be fully awake or is dangerous, including driving a car, using heavy machinery, or flying an airplane, for at least 6 hours after taking XYWAV. Those activities should not be done until you know how XYWAV affects you or your child.•Keep XYWAV in a safe place to prevent abuse and misuse. Selling or giving away XYWAV may harm others and is against the law. Tell your doctor if you have ever abused or been dependent on alcohol, prescription medicines, or street drugs.•Because of the risk of CNS depression, abuse, and misuse, XYWAV is available only by prescription, and filled through the central pharmacy in the XYWAV and XYREM REMS. You or your child must be enrolled in the XYWAV and XYREM REMS to receive XYWAV. For information on how to receive XYWAV, visit www.XYWAVXYREMREMS.com. Before you receive or your child receives XYWAV, your doctor or pharmacist will make sure that you understand how to take XYWAV safely and effectively. If you have any questions about XYWAV, ask your doctor or call the XYWAV and XYREM REMS at 1-866-997-3688. |
+| What is XYWAV?XYWAV is a prescription medicine used to treat the following symptoms in people 7 years of age or older with narcolepsy: •sudden onset of weak or paralyzed muscles (cataplexy), or•excessive daytime sleepiness (EDS) It is not known if XYWAV is safe and effective in children less than 7 years of age. |
+| Do not take XYWAV if you or your child: •takes other sleep medicines or sedatives (medicines that cause sleepiness)•drinks alcohol•has a rare problem called succinic semialdehyde dehydrogenase deficiency |
+| Before taking XYWAV, tell your doctor about all medical conditions, including if you or your child: •have a history of drug abuse.•have short periods of not breathing while sleeping (sleep apnea).•has trouble breathing or has lung problems. You or your child may have a higher chance of having serious breathing problems when taking XYWAV.•have or had depression or has tried to harm yourself or themselves. You or your child should be watched carefully for new symptoms of depression. •has or had behavior or other psychiatric problems such as: oanxietyofeeling more suspicious (paranoia)oacting aggressiveoseeing or hearing things that are not real (hallucinations)obeing out of touch with reality (psychosis)oagitation •have liver problems•are pregnant or plan to become pregnant. It is not known if XYWAV can harm your unborn baby.•are breastfeeding or plan to breastfeed. XYWAV passes into breast milk. You and your doctor should decide if you or your child will take XYWAV or breastfeed. Tell your doctor about all the medicines you take or your child takes, including prescription and over-the-counter medicines, vitamins, and herbal supplements. Especially, tell your doctor if you take or your child takes other medicines to help you or your child sleep (sedatives). Know the medicines you take or your child takes. Keep a list of them to show your doctor and pharmacist when you get or your child gets a new medicine. |
+| How should I take or give XYWAV? •Read the Instructions for Use at the end of this Medication Guide for detailed instructions on how to take XYWAV. •Take or give XYWAV exactly as your doctor tells you to take or give it. Your doctor may change the dose or dosing routine if needed.•Wait at least 2 hours after eating before taking or giving XYWAV.•XYWAV can cause physical dependence and craving for the medicine when it is not taken as directed.•Never change the dose without talking to your doctor.•XYWAV can cause sleep very quickly without feeling drowsy. Some patients fall asleep within 5 minutes and most fall asleep within 15 minutes. The time it takes to fall asleep might be different from night to night.•Falling asleep quickly, including while standing or while getting up from the bed, has led to falls with injuries that have required some people to be hospitalized.•XYWAV is taken at night divided into 2 doses. oAdults: Take the first XYWAV dose at bedtime while you are in bed and lie down immediately. Take the second XYWAV dose 2½ to 4 hours after the first XYWAV dose. You may want to set an alarm clock to make sure you wake up to take the second XYWAV dose. You should remain in bed after taking the first and second doses of XYWAV.oChildren: Give the first XYWAV dose at bedtime or after an initial period of sleep, while your child is in bed and have them lie down immediately. Give the second XYWAV dose 2½ to 4 hours after the first XYWAV dose. You may want to set an alarm clock to make sure you wake up to give the second XYWAV dose. Your child should remain in bed after taking the first and second doses of XYWAV. •If you miss or your child misses the second XYWAV dose, skip that dose and do not take or give XYWAV again until the next night. Never take or give 2 XYWAV doses at 1 time.•If you take or your child takes too much XYWAV, call your doctor or go to the nearest hospital emergency room right away. |
+| What are the possible side effects of XYWAV?XYWAV can cause serious side effects, including: •See “What is the most important information I should know about XYWAV?”•breathing problems, including: oslower breathing.otrouble breathing.oshort periods of not breathing while sleeping (sleep apnea). People who already have breathing or lung problems have a higher chance of having breathing problems when they use XYWAV. •mental health problems, including: oconfusion oseeing or hearing things that are not real (hallucinations)ounusual or disturbing thoughts (abnormal thinking)ofeeling anxious or upsetodepressionothoughts of killing yourself or trying to kill yourselfoincreased tirednessofeelings of guilt or worthlessnessodifficulty concentrating Call your doctor right away if you have or your child has symptoms of mental health problems, or a change in weight or appetite.•sleepwalking. Sleepwalking can cause injuries. Call your doctor if you start or your child starts sleepwalking. Your doctor should check you or your child. The most common side effects of XYWAV in adults include: •headache•nausea•dizziness•decreased appetite•parasomnia (a sleep disorder that can include abnormal dreams, abnormal rapid eye movement (REM) sleep, sleep paralysis, sleep talking, sleep terror, sleep-related eating disorder, sleepwalking and other abnormal sleep-related events)•diarrhea•excessive sweating (hyperhidrosis)•anxiety•vomiting The most common side effects of XYWAV in children include: •bedwetting•nausea•headache•vomiting•weight decrease•decreased appetite•dizziness These are not all the possible side effects of XYWAV. For more information, ask your doctor or pharmacist. Call your doctor for medical advice about side effects. You may report side effects to FDA at 1-800-FDA-1088. |
+| How should I store XYWAV? •Store XYWAV in the original bottle prior to mixing with water. After mixing with water, store XYWAV in the pharmacy containers with child-resistant caps provided by the pharmacy.•Store XYWAV at room temperature between 68°F to 77°F (20°C to 25°C). •XYWAV solution prepared after mixing with water should be taken within 24 hours.•When you have finished using a XYWAV bottle: oempty any unused XYWAV down the sink drain.ocross out the label on the XYWAV bottle with a marker.oplace the empty XYWAV bottle in the trash. XYWAV comes in a child-resistant package. Keep XYWAV and all medicines out of the reach of children and pets. |
+| General information about the safe and effective use of XYWAV.Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide. Do not use XYWAV for a condition for which it was not prescribed. Do not give XYWAV to other people, even if they have the same symptoms. It may harm them. You can ask your pharmacist or doctor for information about XYWAV that is written for health professionals. |
+| What are the ingredients in XYWAV? Active ingredients: calcium oxybate, magnesium oxybate, potassium oxybate, and sodium oxybate (gamma-hydroxybutyrate (GHB))Inactive ingredients: purified water and sucraloseDistributed By: Jazz Pharmaceuticals, Inc. Palo Alto, CA 94304 For more information, go to www.XYWAVXYREMREMS.com or call the XYWAV and XYREM REMS at 1-866-997-3688. |
+
+This Medication Guide has been approved by the U.S. Food and Drug Administration Approved: 7/2020
+
+INSTRUCTIONS FOR USE XYWAV™ [ZYE wave] (calcium, magnesium, potassium, and sodium oxybates) oral solution, CIII
+
+This Instructions for Use contains information on how to take XYWAV.
+Read this Instructions for Use carefully before you (or your child) start taking XYWAV and each time you (or your child) get a refill.
+There may be new information.
+This information does not take the place of talking to your doctor about your (or your child’s) medical condition or treatment.
+
+Important Information:
+
+- •You will need to split your (or your child’s) prescribed XYWAV dose into 2 separate pharmacy containers for mixing.
+- •You will need to mix XYWAV with water before you take or give your child the dose.
+- •Safely store the prepared XYWAV doses and take within 24 hours after mixing.
+  If the prepared dose was not taken within this time, throw the mixture away.
+  See “Throwing away (disposing of) XYWAV” section below for instructions about how to safely throw away XYWAV.
+- •Both XYWAV doses should be taken while in bed.
+- •The pharmacy containers may be rinsed out with water and emptied into the sink drain.
+
+Supplies you will need for mixing and taking (or giving your child) XYWAV.
+See Figure A:
+
+- •Bottle of XYWAV medicine
+- •Dosing syringe for measuring and dispensing the XYWAV dose
+- •Measuring cup that is able to measure about ¼ cup of water (not provided with the XYWAV shipment)
+- •2 empty pharmacy containers with child-resistant caps for mixing, storing, and taking the XYWAV doses
+- •Alarm clock (not pictured, which may be included in the first shipment)
+- •Medication Guide
+
+Figure A
+
+Step 1: Setup
+
+- •Take the XYWAV bottle, syringe, and pharmacy containers out of the shipping box.
+- •Take the syringe out of the plastic wrapper.
+  Use only the syringe provided with the XYWAV prescription.
+- •Fill a measuring cup (not provided) with about ¼ cup of water available for mixing your dose.
+- •Make sure the pharmacy containers are empty.
+- •Open both pharmacy containers by holding the tab under the cap and turning counterclockwise (to the left).
+  See Figure B.
+
+Figure B
+
+Remove the tamper evident band by pulling at the perforations and then remove the child-resistant bottle cap from the XYWAV bottle by pushing down while turning the cap counterclockwise.
+See Figure C.
+
+Figure C
+
+Step 2.
+Prepare the first XYWAV dose (prepare before bedtime)
+
+Place the XYWAV bottle on a hard, flat surface and grip the bottle with one hand and firmly press the syringe into the center opening of the bottle with the other hand.
+See Figure D.
+
+Figure D
+
+Pull back on the plunger until the medicine flows into the syringe and the liquid level is lined up with the marking on the syringe that matches you or your child’s dose.
+See Figure E.
+
+Figure E
+
+Note: The XYWAV medicine will not flow into the syringe unless you keep the bottle upright.
+
+Figure F shows an example of drawing up a XYWAV dose of 2.25 g. Figure G shows an example if an air space forms when drawing up the dose.
+
+Note: If an air space forms between the plunger and the liquid when drawing up the medicine, line up the liquid level with the marking on the syringe that matches your or your child’s dose.
+See Figure G above.
+
+- •After you draw up the first divided dose, remove the syringe from the opening of the XYWAV bottle.
+- •Empty all of the medicine from the syringe into one of the provided empty pharmacy containers by pushing down on the plunger until it stops.
+  See Figure H.
+
+Figure H
+
+- •Using a measuring cup, pour about ¼ cup of water into the pharmacy container.
+  Be careful to add only water to the pharmacy container and not more XYWAV.
+- •All shipped bottles of XYWAV contain the concentrated medicine.
+  Water for mixing the medicine is not provided in the shipment.
+- •Place the child-resistant cap provided with the filled pharmacy container on the pharmacy container and turn the cap clockwise (to the right) until it clicks and locks into its child-resistant position.
+  See Figure I.
+
+Figure I
+
+Step 3.
+Prepare the second XYWAV dose (prepare before bedtime)
+
+- •Repeat Step 2 drawing up the amount of medicine prescribed for your (or your child’s) second dose:
+  - oemptying the syringe into the second pharmacy container
+  - oadding about ¼ cup of water and
+  - oclosing the pharmacy container
+
+Step 4.
+Store the prepared XYWAV doses
+
+- •Put the cap back on the XYWAV bottle and store the XYWAV bottle and both prepared doses in a safe and secure place.
+  Store in a locked place if needed.
+- •Keep the XYWAV bottle and both prepared XYWAV doses out of the reach of children and pets.
+- •Rinse the syringe out with water and squirt the liquid into the sink drain by pushing down on the plunger until it stops.
+
+Step 5.
+Take or give the first XYWAV dose
+
+- •At bedtime, and before you take (or give) the first XYWAV dose, put the second XYWAV dose in a safe place.
+  Caregivers should make sure all XYWAV doses are kept in a safe place until given.
+  You may want to set an alarm clock for 2½ to 4 hours later to make sure you wake up to take (or give) the second dose.
+- •When it is time to take (or give) the first XYWAV dose, remove the cap from the pharmacy container by pressing down on the child-resistant locking tab and turning the cap counterclockwise.
+- •Drink (or have your child drink) all of the first XYWAV dose while sitting in bed.
+  Put the cap back on the first pharmacy container and immediately lie down to sleep (or have your child lie down to sleep).
+- •You (or your child) should fall asleep soon.
+  Some people fall asleep within 5 minutes and most fall asleep within 15 minutes.
+  Some patients take less time to fall asleep, and some take more time.
+  The time it takes you (or your child) to fall asleep might be different from night to night.
+
+Step 6.
+Take or give the second XYWAV dose
+
+- •When you wake up 2 ½ to 4 hours later for your (or your child’s) second dose of XYWAV, take the cap off the second pharmacy container.
+- •If you (or your child) wake up before the alarm and it has been at least 2½ hours since the first XYWAV dose, turn off the alarm and take (or give your child) the second XYWAV dose.
+- •Drink (or have your child drink) all of the second XYWAV dose while sitting in bed.
+  Put the cap back on the second pharmacy container and immediately lie down (or have your child lie down) to continue sleeping.
+
+How should I store XYWAV?
+
+- •Store XYWAV in the original bottle prior to mixing with water.
+  After mixing, store XYWAV in the pharmacy containers provided by the pharmacy.
+  The caps on the original bottle and pharmacy containers are child‑resistant.
+- •Store XYWAV at room temperature between 68°F to 77°F (20°C to 25°C).
+- •XYWAV solution prepared after mixing with water should be taken within 24 hours or emptied down the sink drain.
+
+Throwing away (disposing of) XYWAV
+
+- •When you have finished using a XYWAV bottle:
+  - oempty any unused XYWAV down the sink drain
+  - ocross out the label on the XYWAV bottle with a marker (not provided with the XYWAV shipment)
+  - oplace the empty XYWAV bottle in the trash
+- •Keep XYWAV and all medicines out of the reach of children and pets.
+
+Distributed By: Jazz Pharmaceuticals, Inc. Palo Alto, CA 94304
+
+1. This Instructions for Use has been approved by the U.S. Food and Drug Administration.
+   Approved: 7/2020
