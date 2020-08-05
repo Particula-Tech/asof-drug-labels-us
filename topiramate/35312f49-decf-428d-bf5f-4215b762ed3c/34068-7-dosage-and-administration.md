@@ -30,13 +30,15 @@ The total daily dose should not exceed the maximum maintenance dose for each ran
 
 Table 2: Monotherapy Target Total Daily Maintenance Dosing for Patients 2 to 9 Years of Age
 
-| Weight (kg) | Total Daily Dose (mg/day)Administered in two equally divided doses Minimum Maintenance Dose | Total Daily Dose (mg/day) Maximum Maintenance Dose |
+| Weight (kg) | Total Daily Dose (mg/day)* Minimum Maintenance Dose | Total Daily Dose (mg/day)* Maximum Maintenance Dose |
 | --- | --- | --- |
 | Up to 11 | 150 | 250 |
 | 12 to 22 | 200 | 300 |
 | 23 to 31 | 200 | 350 |
 | 32 to 38 | 250 | 350 |
 | Greater than 38 | 250 | 400 |
+
+*Administered in two equally divided doses
 
 ## 2.2 Dosing in Adjunctive Therapy Epilepsy
 
@@ -58,7 +60,7 @@ The total daily dose should not exceed 400 mg/day.
 ## 2.3 Dosing for the Preventive Treatment of Migraine
 
 The recommended total daily dose of topiramate tablets as treatment for patients 12 years of age and older for the preventive treatment of migraine is 100 mg/day administered in two divided doses (Table 3).
-The recommended titration rate for the topiramate tablets for the preventive treatment of migraine is as follows:
+The recommended titration rate for topiramate tablets for the preventive treatment of migraine is as follows:
 
 Table 3: Preventive Treatment of Migraine Titration Schedule for Patients 12 Years of Age and Older
 
@@ -75,8 +77,6 @@ If required, longer intervals between dose adjustments can be used.
 ## 2.4 Administration Information
 
 Topiramate tablets can be taken without regard to meals.
-
-Topiramate Tablets
 
 Because of the bitter taste, tablets should not be broken.
 
