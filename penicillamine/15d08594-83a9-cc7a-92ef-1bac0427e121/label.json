@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA211867"
+  ],
+  "inn": "penicillamine",
+  "labeler": "Dr. Reddy's Laboratories Inc.",
+  "package_ndcs": [
+    "43598-634-01"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE, GELATIN COATED",
+      "generic": "penicillamine",
+      "name": "Penicillamine"
+    }
+  ],
+  "setid": "15d08594-83a9-cc7a-92ef-1bac0427e121",
+  "source": "dailymed"
+}
