@@ -257,5 +257,5 @@ Table 21: Efficacy of Docetaxel Injection in the Induction Treatment of Patients
 | Endpoint | Docetaxel Injection + Cisplatin + Fluorouracil n=255 | Cisplatin + Fluorouracil n=246 |
 | --- | --- | --- |
 | Median overall survival (months) (95% CI) | 70.6 (49.0–NE) | 30.1 (20.9–51.5) |
-| Hazard ratio: (95% CI) un-adjusted log-rank testp-value | 0.70 (0.54–0.90) 0.0058 |  |
+| Hazard ratio: (95% CI) unadjusted log-rank testp-value | 0.70 (0.54–0.90) 0.0058 |  |
 | A hazard ratio of less than 1 favors Docetaxel Injection+cisplatin+fluorouracil NE - not estimable |  |  |
