@@ -12,6 +12,10 @@ Patients with Philadelphia chromosome positive chronic myeloid leukemia in blast
 
 Adult patients with relapsed or refractory Philadelphia chromosome positive acute lymphoblastic leukemia (Ph+ ALL).
 
+## 1.4 Pediatric patients with Ph+ Acute Lymphoblastic Leukemia (ALL)
+
+Pediatric patients with newly diagnosed Philadelphia chromosome positive acute lymphoblastic leukemia (Ph+ ALL) in combination with chemotherapy.
+
 ## 1.5 Myelodysplastic/Myeloproliferative Diseases (MDS/MPD)
 
 Adult patients with myelodysplastic/myeloproliferative diseases associated with PDGFR (platelet-derived growth factor receptor) gene re-arrangements as determined with an FDA-approved test [see Dosage and Administration (2.6)].

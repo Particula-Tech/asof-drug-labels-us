@@ -29,6 +29,11 @@ There is no experience with imatinib mesylate tablets treatment in children unde
 
 The recommended dose of imatinib mesylate tablets is 600 mg/day for adult patients with relapsed/refractory Ph+ ALL.
 
+## 2.5 Pediatric Patients with Ph+ ALL
+
+The recommended dose of imatinib mesylate tablets to be given in combination with chemotherapy to children with newly diagnosed Ph+ ALL is 340 mg/m2/day (not to exceed 600 mg).
+Imatinib mesylate tablets treatment can be given as a once daily dose.
+
 ## 2.6 Adult Patients with MDS/MPD
 
 Determine PDGFRb gene rearrangements status prior to initiating treatment.

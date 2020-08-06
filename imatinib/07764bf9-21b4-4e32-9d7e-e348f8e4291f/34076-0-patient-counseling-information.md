@@ -41,9 +41,19 @@ Driving and Using Machines
 Advise patients that they may experience side effects such as dizziness, blurred vision or somnolence during treatment with imatinib mesylate tablets.
 Therefore, caution patients about driving a car or operating machinery [see Warnings and Precautions (5.13)].
 
-Manufactured and Distributed by: Sun Pharmaceutical Industries, Inc. Cranbury, NJ 08512
+Manufactured by:
 
-5188713
+Sun Pharmaceutical Industries Ltd.
+
+Halol-Baroda Highway,
+
+Halol-389 350, Gujarat, India.
+
+Distributed by:
+
+Sun Pharmaceutical Industries, Inc.
+
+Cranbury, NJ 08512
 
 ISS.
-09/2018
+04/2020
