@@ -123,29 +123,15 @@ What are the ingredients in pantoprazole sodium delayed-release tablets?
 
 Active ingredient: pantoprazole sodium
 
-Inactive ingredients in pantoprazole sodium delayed-release tablets: calcium stearate, crospovidone, ferric oxide, hydroxypropyl cellulose, hypromellose, mannitol, methacrylic acid copolymer dispersion, sodium carbonate, and triethyl citrate.
+Inactive ingredients in pantoprazole sodium delayed-release tablets: calcium stearate, crospovidone, ferric oxide, hydroxypropyl cellulose, hypromellose, mannitol, methacrylic acid and ethyl acrylate copolymer dispersion, sodium carbonate, and triethyl citrate.
 The tablets are imprinted with brown ink containing ammonium hydroxide, iron oxide black, iron oxide red, iron oxide yellow, isopropyl alcohol, N-butyl alcohol, propylene glycol, and shellac glaze in ethanol.
 
 For more information, call Aurobindo Pharma USA, Inc. at 1-866-850-2876.
 
 The brands listed are trademarks of their respective owners and are not trademarks of Aurobindo Pharma Limited.
 
-Dispense with Medication Guide available at: www.aurobindousa.com/product-medication-guides
+Dispense with Medication Guide available at: www.aurobindousa.com/medication-guides
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Distributed by:
-
-Aurobindo Pharma USA, Inc.
-
-279 Princeton-Hightstown Road
-
-East Windsor, NJ 08520
-
-Manufactured by:
-
-Aurobindo Pharma Limited
-
-Hyderabad-500 038, India
-
-Revised: 05/2019
+Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 038, India Revised: 07/2020
