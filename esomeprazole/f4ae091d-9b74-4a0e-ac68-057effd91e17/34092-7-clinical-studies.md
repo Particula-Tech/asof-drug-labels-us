@@ -115,7 +115,7 @@ Significant difference from placebo (p<0.01).
 
 ## 14.5 Helicobacter pylori (H. pylori) Eradication in Patients with Duodenal Ulcer Disease
 
-Triple Therapy (esomeprazole magnesium delayed-release capsules/amoxicillin/ clarithromycin):Two multicenter, randomized, double-blind studies were conducted using a 10 day treatment regimen.
+Triple Therapy (esomeprazole magnesium delayed-release capsules/amoxicillin/ clarithromycin): Two multicenter, randomized, double-blind studies were conducted using a 10 day treatment regimen.
 The first study (191) compared esomeprazole magnesium delayed-release capsules 40 mg once daily in combination with amoxicillin 1000 mg twice daily and clarithromycin 500 mg twice daily to esomeprazole magnesium delayed-release capsules 40 mg once daily plus clarithromycin 500 mg twice daily.
 The second study (193) compared esomeprazole magnesium delayed-release capsules 40 mg once daily in combination with amoxicillin 1000 mg twice daily and clarithromycin 500 mg twice daily to esomeprazole magnesium delayed-release capsules 40 mg once daily.
 H. pylori eradication rates, defined as at least two negative tests and no positive tests from CLOtest®, histology and/or culture, at 4 weeks post-therapy were significantly higher in the esomeprazole magnesium delayed-release capsules plus amoxicillin and clarithromycin group than in the esomeprazole magnesium delayed-release capsules plus clarithromycin or esomeprazole magnesium delayed-release capsules alone group.

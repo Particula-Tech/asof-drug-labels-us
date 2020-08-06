@@ -28,4 +28,4 @@ Administration
 - For patients who are advised to open the esomeprazole magnesium delayed-release capsules before taking them, instruct them in the proper technique for administration [see Dosage and Administration (2)] and tell them to follow the dosing instructions in the PATIENT INFORMATION insert included in the package.
   Instruct patients to rinse the syringe with water after each use.
 
-Dispense with Medication Guide available at: www.aurobindousa.com/product-medication-guides
+Dispense with Medication Guide available at: www.aurobindousa.com/medication-guides

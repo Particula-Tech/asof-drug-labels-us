@@ -201,7 +201,7 @@ What are the ingredients in esomeprazole magnesium delayed-release capsules?
 
 Active ingredient: esomeprazole magnesium dihydrate
 
-Inactive ingredients in esomeprazole magnesium delayed-release capsules (including the capsule shells): colloidal silicon dioxide, hydroxypropyl cellulose, hypromellose, magnesium carbonate, magnesium oxide, methacrylic acid copolymer dispersion, mono and di glycerides, polysorbate 80, sugar spheres (which contains liquid glucose, starch (maize) and sucrose), talc, titanium dioxide, triethyl citrate, gelatin, sodium lauryl sulfate, shellac, yellow iron oxide, butyl alcohol, dehydrated alcohol, isopropyl alcohol, propylene glycol and strong ammonia solution.
+Inactive ingredients in esomeprazole magnesium delayed-release capsules (including the capsule shells): colloidal silicon dioxide, hydroxypropyl cellulose, hypromellose, magnesium carbonate, magnesium oxide, methacrylic acid and ethyl acrylate copolymer dispersion, mono and di glycerides, polysorbate 80, sugar spheres (which contains liquid glucose, starch (maize) and sucrose), talc, titanium dioxide, triethyl citrate, gelatin, sodium lauryl sulfate, shellac, yellow iron oxide, butyl alcohol, dehydrated alcohol, isopropyl alcohol, propylene glycol and strong ammonia solution.
 
 Instructions for Use
 
@@ -224,8 +224,8 @@ Follow the instructions below:
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
 The brands listed are trademarks of their respective owners and are not trademarks of Aurobindo Pharma Limited.
-Dispense with Medication Guide available at: www.aurobindousa.com/product-medication-guides Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520
+Dispense with Medication Guide available at: www.aurobindousa.com/medication-guides Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520
 
 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 038, India
 
-Revised: 07/2018
+Revised: 07/2020
