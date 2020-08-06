@@ -7,13 +7,13 @@ In domestic placebo-controlled angina trials, the incidence of adverse reactions
 The following represent occurrences observed in clinical studies of angina patients.
 In many cases, the relationship to diltiazem hydrochloride has not been established.
 The most common occurrences from these studies, as well as their frequency of presentation, are edema (2.4%), headache (2.1%), nausea (1.9%), dizziness (1.5%), rash (1.3%), and asthenia (1.2%).
-In additiona, the following events were reported infrequently (less than 1%):
+In addition, the following events were reported infrequently (less than 1%):
 
 Cardiovascular: Angina, arrhythmia, AV block (first-degree), AV block (second- or third-degree – see WARNINGS, Cardiac Conduction), bradycardia, bundle branch block, congestive heart failure, ECG abnormality, flushing, hypotension, palpitations, syncope, tachycardia, ventricular extrasystoles
 
 Nervous System: Abnormal dreams, amnesia, depression, gait abnormality, hallucinations, insomnia, nervousness, paresthesia, personality change, somnolence, tremor
 
-Gastrointestinal: Anorexia, constipation, diarrhea, dysgeusia, dyspepsia, mild elevations of alkaline phosphatase, SGOT, SGPT, and LDH (see WARNINGS, Acute Hepatic Injury), thirst, vomiting, weight increase
+Gastrointestinal: Anorexia, constipation, diarrhea, dysgeusia, dyspepsia, mild elevations of alkaline phosphatase, SGOT, SGPT, and LDH (see WARNINGS, Acute Hepatic Injury), thirst, vomiting, weight increase.
 
 Dermatological: Petechiae, photosensitivity, pruritus, urticaria
 

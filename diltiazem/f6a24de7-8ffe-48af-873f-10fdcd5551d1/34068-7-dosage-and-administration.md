@@ -12,6 +12,7 @@ Concomitant Use with Other Cardiovascular Agents
 - •Prophylactic Nitrate Therapy.
   Diltiazem hydrochloride may be safely coadministered with short- and long-acting nitrates, but there have been no controlled studies to evaluate the antianginal effectiveness of this combination.
 - •Beta-blockers.
-  (See WARNINGS and PRECAUTIONS).
-
-Swallow diltiazem hydrochloride tablets whole; do not split, crush, or chew the tablets.
+  (See WARNINGS and PRECAUTIONS.)
+- 30 mg – Diltiazem Hydrochloride tablets may be swallowed whole, crushed, or chewed.
+  Do not split Diltiazem Hydrochloride tablets.
+- 60 mg, 90 mg, and 120 mg – Diltiazem Hydrochloride tablets may be swallowed whole, crushed, or chewed.

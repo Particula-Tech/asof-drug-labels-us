@@ -38,8 +38,8 @@ Pharmacokinetics and Metabolism
 
 Diltiazem is well absorbed from the gastrointestinal tract and is subject to an extensive first-pass effect, giving an absolute bioavailability (compared to intravenous dosing) of about 40%.
 Diltiazem hydrochloride undergoes extensive metabolism in which 2% to 4% of the unchanged drug appears in the urine.
-In vitro binding studies show diltiazem hydrochloride is 70% to 80% bound to plasma proteins.
-Competitive in vitro ligand binding studies have also shown diltiazem hydrochloride binding is not altered by therapeutic concentrations of digoxin, hydrochlorothiazide, phenylbutazone, propranolol, salicylic acid, or warfarin.
+In vitrobinding studies show diltiazem hydrochloride is 70% to 80% bound to plasma proteins.
+Competitive in vitroligand binding studies have also shown diltiazem hydrochloride binding is not altered by therapeutic concentrations of digoxin, hydrochlorothiazide, phenylbutazone, propranolol, salicylic acid, or warfarin.
 The plasma elimination half-life following single or multiple drug administration is approximately 3.0 to 4.5 hours.
 Desacetyl diltiazem is also present in the plasma at levels of 10% to 20% of the parent drug and is 25% to 50% as potent as a coronary vasodilator as diltiazem.
 Minimum therapeutic plasma levels of diltiazem hydrochloride appear to be in the range of 50 to 200 ng/mL.
