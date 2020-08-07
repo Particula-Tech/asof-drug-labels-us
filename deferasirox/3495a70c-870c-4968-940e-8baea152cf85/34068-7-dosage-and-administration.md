@@ -3,7 +3,7 @@
 ## 2.1 Transfusional Iron Overload
 
 Exjade therapy should only be considered when a patient has evidence of chronic transfusional iron overload.
-The evidence should include the transfusion of at least 100 mL/kg of packed red blood cells (e.g., at least 20 units of packed red blood cells for a 40 kg person or more in individuals weighing more than 40 kg), and a serum ferritin consistently greater than 1000 mcg/L.
+The evidence should include the transfusion of at least 100 mL/kg of packed red blood cells (e.g., at least 20 units of packed red blood cells for a 40 kg person or more in individuals weighing more than 40 kg), and a serum ferritin consistently greater than 1,000 mcg/L.
 
 Prior to starting therapy or increasing dose, evaluate:
 
@@ -29,8 +29,8 @@ During Therapy:
 - In patients not adequately controlled with doses of 30 mg per kg (e.g., serum ferritin levels persistently above 2,500 mcg/L and not showing a decreasing trend over time), doses of up to 40 mg per kg may be considered.
   Doses above 40 mg per kg are not recommended [see Warnings and Precautions (5.6)].
 - Adjust dose based on serum ferritin levels
-  - If the serum ferritin falls below 1000 mcg/L at 2 consecutive visits, consider dose reduction, especially if the dose is greater than 25 mg/kg/day [see Adverse Reactions (6.1)].
-  - If the serum ferritin falls below 500 mcg/L, interrupt Exjade and continue monthly monitoring.
+  - If the serum ferritin falls below 1,000 mcg/L at 2 consecutive visits, consider dose reduction, especially if the dose is greater than 25 mg/kg/day [see Adverse Reactions (6.1)].
+  - If the serum ferritin falls below 500 mcg/L, interrupt Exjade to minimize the risk of overchelation, and continue monthly monitoring [see Warnings and Precautions (5.6)].
   - Evaluate the need for ongoing chelation therapy for patients whose conditions no longer require regular blood transfusions.
   - Use the minimum effective dose to maintain iron burden in the target range [see Warnings and Precautions (5.6)].
 - Monitor blood counts, liver function, renal function and ferritin monthly [see Warnings and Precautions (5.1, 5.2, 5.4)].
@@ -49,7 +49,7 @@ Prior to starting therapy, obtain:
   - Obtain serum creatinine in duplicate (due to variations in measurements) to establish accurate baseline
   - Calculate eGFR.
     Use a prediction equation appropriate for adult patients (e.g., CKD-EPI, MDRD method) and in pediatric patients (e.g., Schwartz equations).
-  - Obtain urinalyses and serum electrolytes to evaluate renal tubular function [see Dosage and Administration (2.4), Warnings and Precautions (5.1)]
+  - Obtain urinalyses and serum electrolytes to evaluate renal tubular function [see Dosage and Administration (2.4), Warnings and Precautions (5.1)].
 - Serum transaminases and bilirubin [see Dosage and Administration (2.4), Warnings and Precautions (5.2)]
 - Baseline auditory and ophthalmic examinations [see Warnings and Precautions (5.10)]
 
@@ -61,7 +61,7 @@ Initiating Therapy:
 
 During Therapy:
 
-- Monitor serum ferritin monthly.
+- Monitor serum ferritin monthly to assess the patient’s response to therapy and to minimize the risk of overchelation [see Warnings and Precautions (5.6)].
   Interrupt treatment when serum ferritin is less than 300 mcg/L and obtain an LIC to determine whether the LIC has fallen to less than 3 mg Fe/g dw.
 - Use the minimum effective dose to achieve a trend of decreasing ferritin.
 - Monitor LIC every 6 months.
@@ -85,7 +85,7 @@ Disperse doses of less than 1 g in 3.5 ounces of liquid and doses of 1 g or grea
 After swallowing the suspension, resuspend any residue in a small volume of liquid and swallow.
 Do not take Exjade with aluminum-containing antacid products [see Drug Interactions (7.1)].
 
-## 2.4 Use in Patients with Baseline Hepatic or Renal Impairment
+## 2.4 Use in Patients With Baseline Hepatic or Renal Impairment
 
 Patients with Baseline Hepatic Impairment
 
@@ -99,7 +99,7 @@ Patients with Baseline Renal Impairment
 
 Do not use Exjade in adult or pediatric patients with eGFR less than 40 mL/min/1.73 m2 [see Dosage and Administration (2.5), Contraindications (4)].
 
-For patients with renal impairment (eGFR 40–60 mL/min/1.73 m2), reduce the starting dose by 50% [see Use in Specific Populations (8.6)].
+For patients with renal impairment (eGFR 40-60 mL/min/1.73 m2), reduce the starting dose by 50% [see Use in Specific Populations (8.6)].
 
 Exercise caution in pediatric patients with eGFR between 40 and 60 mL/min/1.73 m2.
 If treatment is needed, use the minimum effective dose and monitor renal function frequently.
@@ -119,7 +119,7 @@ Adults:
 
 Pediatric Patients (ages 2 years–17 years):
 
-- Reduce the dose by 10 mg/ kg/day if eGFR decreases by greater than 33% below the average baseline measurement and repeat the eGFR within 1 week.
+- Reduce the dose by 10 mg/kg/day if eGFR decreases by greater than 33% below the average baseline measurement and repeat the eGFR within 1 week.
 - Interrupt Exjade for acute illnesses, which can cause volume depletion, such as vomiting, diarrhea, or prolonged decreased oral intake, and monitor more frequently.
   Resume therapy as appropriate, based on assessments of renal function, when oral intake and volume status are normal.
   Avoid use of other nephrotoxic drugs [see Warnings and Precautions (5.1)].
@@ -141,7 +141,7 @@ Adults:
 
 Pediatric Patients (ages 10 years–17 years):
 
-- Reduce the dose by 5 mg/ kg/day if eGFR decreases by greater than 33% below the average baseline measurement and repeat the eGFR within 1 week.
+- Reduce the dose by 5 mg/kg/day if eGFR decreases by greater than 33% below the average baseline measurement and repeat the eGFR within 1 week.
 - Increase monitoring frequency for pediatric patients who have acute illnesses, which can cause volume depletion, such as vomiting, diarrhea, or prolonged decreased oral intake.
   Consider dose interruption until oral intake and volume status are normal.
   Avoid use of other nephrotoxic drugs [see Warnings and Precautions (5.1)].

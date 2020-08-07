@@ -8,4 +8,4 @@ A 26-week oral carcinogenicity study in p53 (+/-) transgenic mice has shown no e
 Deferasirox was negative in the Ames test and chromosome aberration test with human peripheral blood lymphocytes.
 It was positive in 1 of 3 in vivo oral rat micronucleus tests.
 
-Deferasirox at oral doses up to 75 mg per kg per day (0.6 times the MRHD on an mg/m2 basis) was found to have no adverse effect on fertility and reproductive performance of male and female rats.
+Deferasirox at oral doses up to 75 mg per kg per day (0.6 times the MRHD on a mg/m2 basis) was found to have no adverse effect on fertility and reproductive performance of male and female rats.
