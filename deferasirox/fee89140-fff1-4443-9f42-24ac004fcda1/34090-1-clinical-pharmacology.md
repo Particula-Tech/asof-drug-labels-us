@@ -36,7 +36,7 @@ After strength-adjustment, the mean AUCinf of JADENU tablets (i.e., 360 mg stren
 The 30% increase in Cmax observed with JADENU tablets is not clinically meaningful.
 
 The administration of JADENU tablets with a light meal (approximately 250 calories with fat content less than 7% of total calories) indicated that the AUCinf and Cmax were similar to that under fasting conditions.
-The administration of JADENU tablets with a high-fat meal (approximately 1000 calories with fat content greater than 50% of total calories), increased AUCinf by 18% and Cmax by 29% compared to that under fasting conditions [see Dosage and Administration (2.3)].
+The administration of JADENU tablets with a high-fat meal (approximately 1,000 calories with fat content greater than 50% of total calories), increased AUCinf by 18% and Cmax by 29% compared to that under fasting conditions [see Dosage and Administration (2.3)].
 
 Granules
 
@@ -45,7 +45,7 @@ After strength-adjustment, the mean AUCinf of the JADENU Sprinkle granules (i.e.
 The 34% increase in Cmax observed with JADENU Sprinkle granules is not clinically meaningful.
 
 The administration of JADENU Sprinkle granules with a soft meal (e.g., yogurt and applesauce) or with a low-fat (approximately 450 calories with fat content approximately 30% of total calories) indicated that the AUCinf and Cmax after a low-fat meal or soft foods were similar to that under fasting conditions.
-The administration of JADENU Sprinkle granules with a high-fat meal (approximately 1000 calories with fat content greater than 50% of total calories) increased AUCinf by 18% with no changes in Cmax compared to that under fasting conditions [see Dosage and Administration (2.3)].
+The administration of JADENU Sprinkle granules with a high-fat meal (approximately 1,000 calories with fat content greater than 50% of total calories) increased AUCinf by 18% with no changes in Cmax compared to that under fasting conditions [see Dosage and Administration (2.3)].
 
 Distribution
 

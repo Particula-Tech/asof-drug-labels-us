@@ -1,5 +1,7 @@
 # 17 PATIENT COUNSELING INFORMATION
 
+Advise the patient to read the FDA-approved patient labeling (Medication Guide).
+
 Dosing Instructions
 
 Advise patients to take JADENU tablets with water or other liquids.
@@ -30,15 +32,15 @@ Caution patients about the potential for hepatic toxicity when taking JADENU tab
 Inform patients of the signs and symptoms of hepatic toxicity.
 Advise patients to contact their healthcare provider immediately if they experience any of these symptoms [see Warnings and Precautions (5.2)].
 
-Gastrointestinal Ulceration and Hemorrhage
+GI Ulceration and Hemorrhage
 
 Caution patients about the potential for the development of GI ulcers or bleeding when taking JADENU in combination with drugs that have ulcerogenic or hemorrhagic potential, such as NSAIDs, corticosteroids, oral bisphosphonates, or anticoagulants.
 Inform patients of the signs and symptoms of GI ulcers or bleeding.
-Advise patients to contact their healthcare provider for symptoms of heartburn but to seek immediate medical attention for symptoms of gastrointestinal hemorrhage [see Warnings and Precautions (5.3)].
+Advise patients to contact their healthcare provider for symptoms of heartburn but to seek immediate medical attention for symptoms of GI hemorrhage [see Warnings and Precautions (5.3)].
 
 Allergic Reactions
 
-Serious allergic reactions (which include swelling of the throat) have been reported in patients taking -JADENU, usually within the first month of treatment.
+Serious allergic reactions (which include swelling of the throat) have been reported in patients taking JADENU, usually within the first month of treatment.
 If reactions are severe, advise patients to stop taking JADENU immediately and seek immediate medical attention [see Warnings and Precautions (5.7)].
 
 Severe Skin Reactions
@@ -87,4 +89,4 @@ Distributed by: Novartis Pharmaceuticals Corporation East Hanover, New Jersey 07
 
 © Novartis
 
-T2019-86
+T2020-107

@@ -3,13 +3,13 @@
 ## 2.1 Transfusional Iron Overload
 
 JADENU therapy should only be considered when a patient has evidence of chronic transfusional iron overload.
-The evidence should include the transfusion of at least 100 mL/kg of packed red blood cells (e.g., at least 20 units of packed red blood cells for a 40 kg person or more in individuals weighing more than 40 kg), and a serum ferritin consistently greater than 1000 mcg/L.
+The evidence should include the transfusion of at least 100 mL/kg of packed red blood cells (e.g., at least 20 units of packed red blood cells for a 40 kg person or more in individuals weighing more than 40 kg), and a serum ferritin consistently greater than 1,000 mcg/L.
 
 Prior to starting therapy, or increasing dose, evaluate:
 
 - Serum ferritin level
 - Baseline renal function:
-  - Obtain serum creatinine in duplicate (due to variations in measurements)
+  - Obtain serum creatinine in duplicate (due to variations in measurements).
   - Calculate the estimated glomerular filtration rate (eGFR).
     Use a prediction equation appropriate for adult patients (e.g., CKD-EPI, MDRD method) and in pediatric patients (e.g., Schwartz equations).
   - Obtain urinalyses and serum electrolytes to evaluate renal tubular function [see Dosage and Administration (2.4), Warnings and Precautions (5.1)].
@@ -25,13 +25,13 @@ Changes in weight of pediatric patients over time must be taken into account whe
 During Therapy:
 
 - Monitor serum ferritin monthly and adjust the dose of JADENU, if necessary, every 3 to 6 months based on serum ferritin trends.
-- Use the minimum effective dose to achieve a trend of decreasing ferritin
+- Use the minimum effective dose to achieve a trend of decreasing ferritin.
 - Make dose adjustments in steps of 3.5 or 7 mg per kg and tailor adjustments to the individual patient’s response and therapeutic goals.
-- In patients not adequately controlled with doses of 21 mg per kg (e.g., serum ferritin levels persistently above 2500 mcg/L and not showing a decreasing trend over time), doses of up to 28 mg per kg may be considered.
+- In patients not adequately controlled with doses of 21 mg per kg (e.g., serum ferritin levels persistently above 2,500 mcg/L and not showing a decreasing trend over time), doses of up to 28 mg per kg may be considered.
   Doses above 28 mg per kg are not recommended [see Warnings and Precautions (5.6)].
 - Adjust dose based on serum ferritin levels
-  - If the serum ferritin falls below 1000 mcg/L at 2 consecutive visits, consider dose reduction, especially if the JADENU dose is greater than 17.5 mg/kg/day [see Adverse Reactions (6.1)].
-  - If the serum ferritin falls below 500 mcg/L, interrupt JADENU therapy and continue monthly monitoring.
+  - If the serum ferritin falls below 1,000 mcg/L at 2 consecutive visits, consider dose reduction especially if the JADENU dose is greater than 17.5 mg/kg/day [see Adverse Reactions (6.1)].
+  - If the serum ferritin falls below 500 mcg/L, interrupt JADENU therapy to minimize the risk of overchelation, and continue monthly monitoring [see Warnings and Precautions (5.6)].
   - Evaluate the need for ongoing chelation therapy for patients whose conditions no longer require regular blood transfusions.
   - Use the minimum effective dose to maintain iron burden in the target range [see Warnings and Precautions (5.6)].
 - Monitor blood counts, liver function, renal function and ferritin monthly [see Warnings and Precautions (5.1, 5.2, 5.4)].
@@ -47,7 +47,7 @@ Prior to starting therapy, obtain:
 - LIC by liver biopsy or by an FDA-cleared or approved method for identifying patients for treatment with deferasirox therapy
 - Serum ferritin level on at least 2 measurements 1-month apart [see Clinical Studies (14)]
 - Baseline renal function:
-  - Obtain serum creatinine in duplicate (due to variations in measurements)
+  - Obtain serum creatinine in duplicate (due to variations in measurements).
   - Calculate the estimated glomerular filtration rate (eGFR).
     Use a prediction equation appropriate for adult patients (e.g., CKD-EPI, MDRD method) and in pediatric patients (e.g., Schwartz equations).
   - Obtain urinalyses and serum electrolytes to evaluate renal tubular function [see Dosage and Administration (2.4), Warnings and Precautions (5.1)].
@@ -62,7 +62,7 @@ Initiating Therapy:
 
 During Therapy:
 
-- Monitor serum ferritin monthly.
+- Monitor serum ferritin monthly to assess the patient’s response to therapy and to minimize the risk of overchelation [see Warnings and Precautions (5.6)].
   Interrupt treatment when serum ferritin is less than 300 mcg/L and obtain an LIC to determine whether the LIC has fallen to less than 3 mg Fe/g dw.
 - Use the minimum effective dose to achieve a trend of decreasing ferritin.
 - Monitor LIC every 6 months.
@@ -105,7 +105,7 @@ The table below provides additional information on dosing conversion to JADENU.
 | Titration Increments | 5–10 mg/kg | 3.5–7 mg/kg |
 | Maximum Dose | 20 mg/kg/day | 14 mg/kg/day |
 
-## 2.4 Use in Patients with Baseline Hepatic or Renal Impairment
+## 2.4 Use in Patients With Baseline Hepatic or Renal Impairment
 
 Patients with Baseline Hepatic Impairment
 
@@ -127,7 +127,7 @@ Individualize dose titration based on improvement in renal injury [see Use in Sp
 
 ## 2.5 Dose Modifications for Decreases in Renal Function While on JADENU
 
-JADENU is contraindicated in patients with eGFR less than 40 mL/minute/1.73 m2 [see Contraindications (4)].
+JADENU is contraindicated in patients with eGFR less than 40 mL/min/1.73 m2 [see Contraindications (4)].
 
 For decreases in renal function while receiving JADENU [see Warnings and Precautions (5.1)], modify the dose as follows:
 
@@ -139,7 +139,7 @@ Adults:
 
 Pediatric Patients (ages 2 years–17 years):
 
-- Reduce the dose by 7 mg per kg if eGFR decreases by greater than 33% below the average baseline measurement and repeat eGFR within 1 week
+- Reduce the dose by 7 mg per kg if eGFR decreases by greater than 33% below the average baseline measurement and repeat eGFR within 1 week.
 - Interrupt JADENU for acute illnesses, which can cause volume depletion, such as vomiting, diarrhea, or prolonged decreased oral intake, and monitor more frequently.
   Resume therapy as appropriate, based on assessments of renal function, when oral intake and volume status are normal.
   Avoid use of other nephrotoxic drugs [see Warnings and Precautions (5.1)].

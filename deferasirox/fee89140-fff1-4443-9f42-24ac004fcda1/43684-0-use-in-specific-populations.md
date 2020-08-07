@@ -6,7 +6,7 @@ Risk Summary
 
 There are no studies with the use of JADENU in pregnant women to inform drug-associated risks.
 
-Administration of deferasirox to rats during pregnancy resulted in decreased offspring viability and an increase in renal anomalies in male offspring at doses that were about or less than the recommended human dose on an mg/m2 basis.
+Administration of deferasirox to rats during pregnancy resulted in decreased offspring viability and an increase in renal anomalies in male offspring at doses that were about or less than the recommended human dose on a mg/m2 basis.
 No fetal effects were noted in pregnant rabbits at doses equivalent to the human recommended dose on an mg/m2 basis.
 JADENU should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 
@@ -21,8 +21,8 @@ Animal Data
 In embryo-fetal developmental studies, pregnant rats and rabbits received oral deferasirox during the period of organogenesis at doses up to 100 mg/kg/day in rats and 50 mg/kg/day in rabbits (1.2 times the maximum recommended human dose (MRHD) on an mg/m2 basis).
 These doses resulted in maternal toxicity but no fetal harm was observed.
 
-In a prenatal and postnatal developmental study, pregnant rats received oral deferasirox daily from organogenesis through lactation day 20 at doses of 10, 30, and 90 mg/kg/day (0.1, 0.3, and 1.0 times the MRHD on an mg/m2 basis).
-Maternal toxicity, loss of litters, and decreased offspring viability occurred at 90 mg/kg/day (1.0 times the MRHD on an mg/m2 basis), and increases in renal anomalies in male offspring occurred at 30 mg/kg/day (0.3 times the MRHD on an mg/m2 basis).
+In a prenatal and postnatal developmental study, pregnant rats received oral deferasirox daily from organogenesis through lactation day 20 at doses of 10, 30, and 90 mg/kg/day (0.1, 0.3, and 1.0 times the MRHD on a mg/m2 basis).
+Maternal toxicity, loss of litters, and decreased offspring viability occurred at 90 mg/kg/day (1.0 times the MRHD on a mg/m2 basis), and increases in renal anomalies in male offspring occurred at 30 mg/kg/day (0.3 times the MRHD on a mg/m2 basis).
 
 ## 8.2 Lactation
 
@@ -64,7 +64,11 @@ Use of JADENU in these age groups is supported by evidence from adequate and wel
 In general, risk factors for deferasirox-associated kidney injury include preexisting renal disease, volume depletion, overchelation, and concomitant use of other nephrotoxic drugs.
 Acute kidney injury, and acute liver injury and failure has occurred in pediatric patients.
 In a pooled safety analysis, pediatric patients with higher deferasirox exposures had a greater probability of renal toxicity and decreased renal function, resulting in increased deferasirox exposure and progressive renal toxicity/kidney injury.
-Higher rates of renal adverse events have been identified among pediatric patients receiving Exjade doses greater than 25 mg/kg/day equivalent to 17.5 mg/kg/day JADENU when their serum ferritin values were less than 1000 mcg/L [see Dosage and Administration (2.5), Warnings and Precautions (5.1, 5.6), Adverse Reactions (6.1, 6.2)].
+Higher rates of renal AEs have been identified among pediatric patients receiving Exjade doses greater than 25 mg/kg/day equivalent to 17.5 mg/kg/day JADENU when their serum ferritin values were less than 1,000 mcg/L [see Dosage and Administration (2.5), Warnings and Precautions (5.1, 5.6), Adverse Reactions (6.1, 6.2)].
+
+Monitoring recommendations for all pediatric patients with Transfusional Iron Overload and NTDT
+
+It is recommended that serum ferritin be monitored every month to assess the patient’s response to therapy and to minimize the risk of overchelation [see Warnings and Precautions (5.6)].
 
 Monitor renal function by estimating GFR using an eGFR prediction equation appropriate for pediatric patients and evaluate renal tubular function.
 Monitor renal function more frequently in pediatric patients in the presence of renal toxicity risk factors, including episodes of dehydration, fever and acute illness that may result in volume depletion or decreased renal perfusion.
@@ -98,7 +102,7 @@ In elderly patients, including those with MDS, individualize the decision to rem
 
 JADENU is contraindicated in patients with eGFR less than 40 mL/min/1.73 m2 [see Contraindications (4)].
 For patients with renal impairment (eGFR 40 to 60 mL/min/1.73 m2), reduce the starting dose by 50% [see Dosage and Administration (2.4), Clinical Pharmacology (12.3)].
-Exercise caution in pediatric patients with an eGFR between 40 and 60 mL/minute/1.73 m2 [see Dosage and Administration (2.4)].
+Exercise caution in pediatric patients with an eGFR between 40 and 60 mL/min/1.73 m2 [see Dosage and Administration (2.4)].
 If treatment is needed, use the minimum effective dose with enhanced monitoring of glomerular and renal tubular function.
 Individualize dose titration based on improvement in renal injury [see Dosage and Administration (2.4, 2.5)].
 
