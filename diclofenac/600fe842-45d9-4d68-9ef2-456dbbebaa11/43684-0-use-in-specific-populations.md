@@ -7,7 +7,7 @@ Risk Summary
 ARTHROTEC is contraindicated in pregnant women [see Contraindications (4)].
 
 There are no adequate and well-controlled studies of ARTHROTEC in pregnant women; however, there is information available about the active drug components of ARTHROTEC, misoprostol and diclofenac sodium.
-Administration of misoprostol to pregnant women can cause abortion, premature birth, or birth defects.
+Administration of misoprostol to pregnant women can cause abortion, premature birth, birth defects or uterine rupture.
 Congenital anomalies sometimes associated with fetal death have been reported subsequent to the unsuccessful use of misoprostol as an abortifacient, but the drug's teratogenic mechanism has not been demonstrated.
 Use of NSAIDS, including diclofenac, during the third trimester of pregnancy increases the risk of premature closure of fetal ductus arteriosus [see Data].
 There are clinical considerations when misoprostol and diclofenac are used in pregnant women [see Clinical Considerations].
@@ -55,6 +55,7 @@ Labor or Delivery
 There are no studies on the effects of ARTHROTEC or diclofenac during labor or delivery.
 In animal studies, NSAIDS, including diclofenac, are known to inhibit prostaglandin synthesis, cause delayed parturition, and increase the incidence of stillbirth.
 In humans, some case reports and studies have associated misoprostol with risk of stillbirth, uterine hyperstimulation, perineal tear, amniotic fluid embolism, severe bleeding, shock, uterine rupture and death.
+The risk of uterine rupture associated with misoprostol use in pregnancy may occur at any gestational age, and increases with advancing gestational ages and with prior uterine surgery, including cesarean delivery.Grand multiparity also appears to be a risk factor for uterine rupture.
 
 Data
 
