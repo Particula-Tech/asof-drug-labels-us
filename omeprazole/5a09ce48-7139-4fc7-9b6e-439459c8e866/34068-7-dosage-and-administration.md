@@ -29,7 +29,7 @@ If there is recurrence of EE or GERD symptoms (e.g., heartburn), additional 4 to
 
 Table 2 shows the recommended dosage of omeprazole delayed-release capsules in pediatric patients by indication.
 
-1. Table 2 Recommended Dosage Regimen of Omeprazole Delayed-release Capsules in Pediatric Patients by Indication
+1. Table 2 Recommended Dosage Regimen of Omeprazole Delayed-Release Capsules in Pediatric Patients by Indication
 
 | Indication | Omeprazole Delayed-Release Capsules Dosage Regimen and Duration |  |  |
 | --- | --- | --- | --- |

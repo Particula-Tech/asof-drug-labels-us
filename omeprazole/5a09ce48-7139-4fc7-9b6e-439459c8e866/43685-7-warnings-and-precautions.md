@@ -6,11 +6,14 @@ In adults, symptomatic response to therapy with omeprazole does not preclude the
 Consider additional follow-up and diagnostic testing in adult patients who have a suboptimal response or an early symptomatic relapse after completing treatment with a PPI.
 In older patients, also consider an endoscopy.
 
-## 5.2 Acute Interstitial Nephritis
+## 5.2 Tubulointerstitial Nephritis
 
-Acute interstitial nephritis has been observed in patients taking PPIs including omeprazole.
-Acute interstitial nephritis may occur at any point during PPI therapy and is generally attributed to an idiopathic hypersensitivity reaction.
-Discontinue omeprazole if acute interstitial nephritis develops [see Contraindications (4)].
+Tubulointerstitial nephritis (TIN) has been observed in patients taking PPIs and may occur at any point during PPI therapy.
+Presentation ranges from symptomatic acute hypersensitivity reactions to an asymptomatic gradual decrease in glomerular filtration rate.
+In reported case series, TIN was diagnosed on biopsy and in the absence of extra-renal manifestations or systemic inflammatory symptoms up to two years after the start of PPI therapy.
+
+Discontinue omeprazole delayed-release capsules and evaluate patients with an unexplained decrease in glomerular filtration rate for TIN.
+Avoid PPIs in patients with a prior history of PPI-induced TIN.
 
 ## 5.3 Clostridium difficile-Associated Diarrhea
 
@@ -56,7 +59,7 @@ Clopidogrel is a prodrug.
 Inhibition of platelet aggregation by clopidogrel is entirely due to an active metabolite.
 The metabolism of clopidogrel to its active metabolite can be impaired by use with concomitant medications, such as omeprazole, that inhibit CYP2C19 activity.
 Concomitant use of clopidogrel with 80 mg omeprazole reduces the pharmacological activity of clopidogrel, even when administered 12 hours apart.
-When using omeprazole, consider alternative anti-platelet therapy [see Drug Interactions (7) and Clinical Pharmacology (12.3)].
+When using omeprazole, consider alternative anti-platelet therapy [see Drug Interactions(7)and Clinical Pharmacology (12.3)].
 
 ## 5.7 Cyanocobalamin (Vitamin B-12) Deficiency
 
@@ -74,7 +77,7 @@ For patients expected to be on prolonged treatment or who take PPIs with medicat
 
 ## 5.9 Interaction with St.John’s Wort or Rifampin
 
-Drugs which induce CYP2C19 or CYP3A4 (such as St. John’s Wort or rifampin) can substantially decrease omeprazole concentrations [see Drug Interactions (7)].
+Drugs which induce CYP2C19 or CYP3A4 (such as St. John’s Wort or rifampin) can substantially decrease omeprazole concentrations [see Drug Interactions(7)].
 Avoid concomitant use of omeprazole with St. John’s Wort or rifampin.
 
 ## 5.10 Interactions with Diagnostic Investigations for Neuroendocrine Tumors

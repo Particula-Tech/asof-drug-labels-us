@@ -44,7 +44,7 @@ Omeprazole
 
 Reproductive studies conducted with omeprazole in rats at oral doses up to 138 mg/kg/day (about 34 times an oral human dose of 40 mg on a body surface area basis) and in rabbits at doses up to 69.1 mg/kg/day (about 34 times an oral human dose of 40 mg on a body surface area basis) during organogenesis did not disclose any evidence for a teratogenic potential of omeprazole.
 In rabbits, omeprazole in a dose range of 6.9 to 69.1 mg/kg/day (about 3.4 to 34 times an oral human dose of 40 mg on a body surface area basis) administered during organogenesis produced dose-related increases in embryo-lethality, fetal resorptions, and pregnancy disruptions.
-In rats, dose-related embryo/fetal toxicity and postnatal developmental toxicity were observed in offspring resulting from parents treated with omeprazole at 13.8 to 138 mg/kg/day (about 3.4 to 34 times an oral human doses of 40 mg on a body surface area basis), administered prior to mating through the lactation period.
+In rats, dose-related embryo/fetal toxicity and postnatal developmental toxicity were observed in offspring resulting from parents treated with omeprazole at 13.8 to 138.0 mg/kg/day (about 3.4 to 34 times an oral human doses of 40 mg on a body surface area basis), administered prior to mating through the lactation period.
 
 Esomeprazole
 
@@ -113,7 +113,7 @@ Other reported clinical experience has not identified differences in response be
 
 Pharmacokinetic studies have shown the elimination rate was somewhat decreased in the elderly and bioavailability was increased.
 The plasma clearance of omeprazole was 250 mL/min (about half that of young volunteers) and its plasma half-life averaged one hour, about twice that of young healthy volunteers.
-However, no dosage adjustment is necessary in the elderly [see Clinical Pharmacology (12.3)].
+However, no dosage adjustment is necessary in the elderly [see Clinical Pharmacology(12.3)].
 
 ## 8.6 Hepatic Impairment
 

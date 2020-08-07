@@ -10,14 +10,16 @@ This information does not take the place of talking with your doctor about your 
 
 What is the most important information I should know about omeprazole delayed-release capsules?
 
+You should take omeprazole delayed-release capsules exactly as prescribed, at the lowest dose possible and for the shortest time needed.
+
 Omeprazole delayed-release capsules may help your acid-related symptoms, but you could still have serious stomach problems.
 Talk with your doctor.
 
 Omeprazole delayed-release capsules can cause serious side effects, including:
 
-- •A type of kidney problem (acute interstitial nephritis).
-  Some people who take proton pump inhibitor (PPI) medicines, including omeprazole delayed-release capsules, may develop a kidney problem called acute interstitial nephritis that can happen at any time during treatment with omeprazole delayed-release capsules.
-  Call your doctor if you have a decrease in the amount that you urinate or if you have blood in your urine.
+- •A type of kidney problem (tubulointerstitial nephritis).
+  Some people who take proton pump inhibitor (PPI) medicines, including omeprazole delayed-release capsules, may develop a kidney problem called tubulointerstitial nephritis that can happen at any time during treatment with omeprazole delayed-release capsules.
+  Call your doctor right away if you have a decrease in the amount that you urinate or if you have blood in your urine.
 - •Diarrhea.
   Omeprazole delayed-release capsules may increase your risk of getting severe diarrhea.
   This diarrhea may be caused by an infection (Clostridium difficile) in your intestines.
@@ -233,9 +235,11 @@ For more information, call Sandoz Inc. at 1-800-525-8747.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Finished Drug Product Manufactured by Lek Pharmaceuticals d.d., SI-1526 Ljubljana, Slovenia for
+Finished Drug Product Manufactured by
+
+Lek Pharmaceuticals d.d., SI-1526 Ljubljana, Slovenia for
 
 Sandoz Inc., Princeton, NJ 08540
 
 Rev.
-May 2018
+June 2020

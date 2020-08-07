@@ -7,7 +7,7 @@ Adverse Reactions
 Advise patients to report to their healthcare provider if they experience any signs or symptoms consistent with:
 
 - •Hypersensitivity reactions [see Contraindications (4)].
-- •Acute Interstitial Nephritis [see Warnings and Precautions (5.2)].
+- •Tubulointerstitial Nephritis [see Warnings and Precautions (5.2)].
 - •Clostridium difficile-Associated Diarrhea [see Warnings and Precautions (5.3)].
 - •Bone Fracture [see Warnings and Precautions (5.4)].
 - •Cutaneous and Systemic Lupus Erythematosus [see Warnings and Precautions (5.5)].
@@ -27,3 +27,16 @@ Administration
   Do not take two doses at one time to make up for a missed dose.
 - •Swallow omeprazole delayed-release capsules whole; do not chew.
 - •For patients unable to swallow an intact capsule, omeprazole delayed-release capsules can be opened and administered in applesauce, as described in the Medication Guide.
+
+FDA-approved Medication Guide provided separately.
+
+The brands listed are the registered trademarks of their respective owners and are not trademarks of Sandoz Inc.
+
+Finished Drug Product Manufactured by
+
+Lek Pharmaceuticals d.d., SI-1526 Ljubljana, Slovenia for
+
+Sandoz Inc., Princeton, NJ 08540
+
+Rev.
+June 2020

@@ -4,10 +4,9 @@
 
 In a multicenter, double-blind, placebo-controlled study of 147 patients with endoscopically documented duodenal ulcer, the percentage of patients healed (per protocol) at 2 and 4 weeks was significantly higher with omeprazole 20 mg once daily than with placebo (p ≤0.01).
 
-Treatment of Active Duodenal Ulcer % of Patients Healed
-
 |  | Omeprazole 20 mg a.m. (n=99) | Placebo a.m. (n=48) |
 | --- | --- | --- |
+| Treatment of Active Duodenal Ulcer % of Patients Healed |  |  |
 | Week 2 | 41* | 13 |
 | Week 4 | 75* | 27 |
 
@@ -19,10 +18,9 @@ At the end of the study, significantly more patients who had received omeprazole
 In a multicenter, double-blind study of 293 patients with endoscopically documented duodenal ulcer, the percentage of patients healed (per protocol) at 4 weeks was significantly higher with omeprazole 20 mg once daily than with ranitidine 150 mg b.i.d.
 (p <0.01).
 
-Treatment of Active Duodenal Ulcer % of Patients Healed
-
 |  | Omeprazole 20 mg a.m. (n=145) | Ranitidine 150 mg twice daily (n=148) |
 | --- | --- | --- |
+| Treatment of Active Duodenal Ulcer % of Patients Healed |  |  |
 | Week 2 | 42 | 34 |
 | Week 4 | 82* | 63 |
 
@@ -34,10 +32,9 @@ Healing occurred significantly faster in patients treated with omeprazole than i
 In a foreign multinational randomized, double-blind study of 105 patients with endoscopically documented duodenal ulcer, 20 mg and 40 mg of omeprazole were compared with 150 mg b.i.d. of ranitidine at 2, 4 and 8 weeks.
 At 2 and 4 weeks both doses of omeprazole were statistically superior (per protocol) to ranitidine, but 40 mg was not superior to 20 mg of omeprazole, and at 8 weeks there was no significant difference between any of the active drugs.
 
-Treatment of Active Duodenal Ulcer % of Patients Healed
-
 |  | 20 mg (n=34) | 40 mg (n=36) | 150 mg twice daily (n=35) |
 | --- | --- | --- | --- |
+| Treatment of Active Duodenal Ulcer % of Patients Healed |  |  |  |
 |  | Omeprazole |  | Ranitidine |
 | Week 2 | 83* | 83* | 53 |
 | Week 4 | 97* | 100* | 82 |
@@ -136,11 +133,11 @@ Table 11 Duodenal Ulcer Recurrence Rates by H. pylori Eradication Status % of Pa
 
 In a U.S. multicenter, double-blind, study of omeprazole 40 mg once daily, 20 mg once daily, and placebo in 520 patients with endoscopically diagnosed gastric ulcer, the following results were obtained.
 
-| Treatment of Gastric Ulcer% of Patients Healed (All Patients Treated) |  |  |  |
-| --- | --- | --- | --- |
-|  | Omeprazole20 mg once daily(n=202) | Omeprazole40 mg once daily(n=214) | Placebo(n=104) |
-| Week 4 | 47.5* | 55.6* | 30.8 |
-| Week 8 | 74.8* | 82.7*† | 48.1 |
+| Treatment of Gastric Ulcer % of Patients Healed (All Patients Treated) |  |  |  |  |
+| --- | --- | --- | --- | --- |
+|  | Omeprazole20 mg once daily(n=202) | Omeprazole40 mg once daily(n=214) | Placebo(n=104) |  |
+| Week 4 | 47.5* | 55.6* | 30.8 |  |
+| Week 8 | 74.8* | 82.7*† | 48.1 |  |
 
 *(p <0.01) omeprazole 40 mg or 20 mg versus placebo.
 
@@ -151,11 +148,11 @@ For patients with ulcer size greater than 1 cm, 40 mg was significantly more eff
 
 In a foreign, multinational, double-blind study of 602 patients with endoscopically diagnosed gastric ulcer, omeprazole 40 mg once daily, 20 mg once daily, and ranitidine 150 mg twice a day were evaluated.
 
-| Treatment of Gastric Ulcer% of Patients Healed (All Patients Treated) |  |  |  |
-| --- | --- | --- | --- |
-|  | Omeprazole20 mg once daily(n=200) | Omeprazole40 mg once daily(n=187) | Ranitidine 150 mg twice daily(n=199) |
-| Week 4 | 63.5 | 78.1*† | 56.3 |
-| Week 8 | 81.5 | 91.4*† | 78.4 |
+| Treatment of Gastric Ulcer % of Patients Healed (All Patients Treated) |  |  |  |  |
+| --- | --- | --- | --- | --- |
+|  | Omeprazole20 mg once daily(n=200) | Omeprazole40 mg once daily(n=187) | Ranitidine 150 mg twice daily(n=199) |  |
+| Week 4 | 63.5 | 78.1*† | 56.3 |  |
+| Week 8 | 81.5 | 91.4*† | 78.4 |  |
 
 *(p <0.01) omeprazole 40 mg versus ranitidine.
 
@@ -166,10 +163,9 @@ In a foreign, multinational, double-blind study of 602 patients with endoscopica
 A placebo-controlled study was conducted in Scandinavia to compare the efficacy of omeprazole 20 mg or 10 mg once daily for up to 4 weeks in the treatment of heartburn and other symptoms in GERD patients without EE.
 Results are shown below.
 
-% Successful Symptomatic Outcome*
-
-|  | Omeprazole 20 mg a.m. | Omeprazole 10 mg a.m. | Placebo a.m. |
+| % Successful Symptomatic Outcome* |  |  |  |
 | --- | --- | --- | --- |
+|  | Omeprazole 20 mg a.m. | Omeprazole 10 mg a.m. | Placebo a.m. |
 | All patients | 46†‡(n=205) | 31‡ (n=199) | 13 (n=105) |
 | Patients with confirmed GERD | 56†‡(n=115) | 36‡(n=109) | 14 (n=59) |
 
@@ -202,10 +198,9 @@ In this and five other controlled GERD studies, significantly more patients taki
 In a U.S. double-blind, randomized, multicenter, placebo controlled study, two dose regimens of omeprazole were studied in patients with endoscopically confirmed healed esophagitis.
 Results to determine maintenance of healing of EE are shown below.
 
-Life Table Analysis
-
-|  | Omeprazole20 mg once daily(n=138) | Omeprazole20 mg 3 days per week(n=137) | Placebo(n=131) |
+| Life Table Analysis |  |  |  |
 | --- | --- | --- | --- |
+|  | Omeprazole20 mg once daily(n=138) | Omeprazole20 mg 3 days per week(n=137) | Placebo(n=131) |
 | Percent in endoscopic remission at 6 months | 70* | 34 | 11 |
 
 *(p <0.01) omeprazole 20 mg once daily versus omeprazole 20 mg 3 consecutive days per week or placebo.
@@ -213,10 +208,9 @@ Life Table Analysis
 In an international multicenter double-blind study, omeprazole 20 mg daily and 10 mg daily were compared with ranitidine 150 mg twice daily in patients with endoscopically confirmed healed esophagitis.
 The table below provides the results of this study for maintenance of healing of EE.
 
-Life Table Analysis
-
-|  | Omeprazole 20 mg once daily(n=131) | Omeprazole10 mg once daily(n=133) | Ranitidine150 mg twice daily(n=128) |
+| Life Table Analysis |  |  |  |
 | --- | --- | --- | --- |
+|  | Omeprazole 20 mg once daily(n=131) | Omeprazole10 mg once daily(n=133) | Ranitidine150 mg twice daily(n=128) |
 | Percent in endoscopic remission at 12 months | 77* | 58† | 46 |
 
 *(p= 0.01) omeprazole 20 mg once daily versus omeprazole 10 mg once daily or Ranitidine.
