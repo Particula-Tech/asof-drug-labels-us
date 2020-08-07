@@ -5,3 +5,5 @@ PREZCOBIX (darunavir and cobicistat) tablets, 800/150 mg, are supplied as pink, 
 PREZCOBIX is packaged in bottles of 30 tablets (NDC 59676-575-30).
 
 Storage: Store at 20–25°C (between 68–77°F); with excursions permitted to 15°–30°C (59°–86°F) [see USP Controlled Room Temperature].
+
+Keep PREZCOBIX and all medicines out of reach of children.

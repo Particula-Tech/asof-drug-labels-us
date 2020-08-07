@@ -3,7 +3,7 @@
 ## 2.1 Recommended Dosage
 
 PREZCOBIX is a fixed-dose combination product containing 800 mg of darunavir and 150 mg of cobicistat.
-In treatment-naïve and treatment-experienced adults with no darunavir resistance-associated substitutions, the recommended dosage of PREZCOBIX is one tablet taken once daily orally with food.
+In treatment-naïve and treatment-experienced adults and pediatric patients weighing at least 40 kg with no darunavir resistance-associated substitutions, the recommended dosage of PREZCOBIX is one tablet taken once daily orally with food.
 Administer PREZCOBIX in conjunction with other antiretroviral agents.
 
 ## 2.2 Testing Prior to Initiation of PREZCOBIX

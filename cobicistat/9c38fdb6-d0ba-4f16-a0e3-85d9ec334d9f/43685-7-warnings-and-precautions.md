@@ -81,7 +81,7 @@ In clinical studies with darunavir co-administered with ritonavir, the incidence
 
 ## 5.8 Diabetes Mellitus/Hyperglycemia
 
-New onset diabetes mellitus, exacerbation of pre-existing diabetes mellitus, and hyperglycemia have been reported during postmarketing surveillance in HIV infected patients receiving HIV protease inhibitor (PI) therapy.
+New onset diabetes mellitus, exacerbation of pre-existing diabetes mellitus, and hyperglycemia have been reported during postmarketing surveillance in patients with HIV-1 infection receiving HIV protease inhibitor (PI) therapy.
 Some patients required either initiation or dose adjustments of insulin or oral hypoglycemic agents for treatment of these events.
 In some cases, diabetic ketoacidosis has occurred.
 In those patients who discontinued PI therapy, hyperglycemia persisted in some cases.

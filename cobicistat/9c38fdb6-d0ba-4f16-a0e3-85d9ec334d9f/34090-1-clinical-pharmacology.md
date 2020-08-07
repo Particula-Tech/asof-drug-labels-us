@@ -102,7 +102,7 @@ The effect of severe hepatic impairment on the pharmacokinetics of cobicistat ha
 
 Hepatitis B or Hepatitis C Virus Co-Infection
 
-Darunavir: In HIV-infected subjects taking darunavir co-administered with ritonavir, the 48 week analysis of the data from clinical studies in HIV-1 infected subjects indicated that hepatitis B and/or hepatitis C virus co-infection status had no apparent effect on the exposure of darunavir.
+Darunavir: In subjects with HIV-1 infection taking darunavir co-administered with ritonavir, the 48 week analysis of the data from clinical studies in HIV-1 infected subjects indicated that hepatitis B and/or hepatitis C virus co-infection status had no apparent effect on the exposure of darunavir.
 
 The effect of hepatitis B and/or C virus infection on the pharmacokinetics of PREZCOBIX have not been evaluated.
 
@@ -116,7 +116,7 @@ No clinically relevant differences in cobicistat pharmacokinetics were observed 
 
 Gender
 
-Darunavir: In HIV-infected subjects taking darunavir co-administered with ritonavir, population pharmacokinetic analysis showed higher mean darunavir exposure in HIV-1 infected females compared to males.
+Darunavir: In subjects with HIV-1 infection taking darunavir co-administered with ritonavir, population pharmacokinetic analysis showed higher mean darunavir exposure in HIV-1 infected females compared to males.
 This difference is not clinically relevant.
 
 Cobicistat: No clinically relevant pharmacokinetic differences have been observed between men and women for cobicistat.
@@ -129,19 +129,38 @@ Cobicistat: Population pharmacokinetic analysis of cobicistat in HIV-1 infected 
 
 Geriatric Patients
 
-Darunavir: In HIV-infected subjects taking darunavir co-administered with ritonavir, population pharmacokinetic analysis showed no considerable differences in darunavir pharmacokinetics for ages 18 to 75 years compared to ages greater than or equal to 65 years (n=12) [see Use in Specific Populations (8.5)].
+Darunavir: In subjects with HIV-1 infection taking darunavir co-administered with ritonavir, population pharmacokinetic analysis showed no considerable differences in darunavir pharmacokinetics for ages 18 to 75 years compared to ages greater than or equal to 65 years (n=12) [see Use in Specific Populations (8.5)].
 
 Cobicistat: Insufficient data are available to determine whether potential differences exist in the pharmacokinetics of cobicistat in geriatric (65 years of age and older) subjects compared to younger subjects.
 
-Pediatric Patients
+Pediatric Patients Weighing at Least 40 kg
 
-The pharmacokinetics of PREZCOBIX in pediatric subjects have not been established.
+Available pharmacokinetic data for the different components of PREZCOBIX indicate that there were no clinically relevant differences in exposure between adults and pediatric subjects weighing at least 40 kg.
+
+Darunavir and cobicistat: In pediatric subjects aged 12 to less than 18 years, weighing at least 40 kg who received darunavir 800 mg co-administered with cobicistat 150 mg (N=7), geometric mean darunavir Cmax values were similar between adults and pediatric subjects.
+Geometric mean darunavir AUC24h and C24h values were 15% and 32% lower, with geometric mean ratios of 0.85 (90% CI: 0.64, 1.13) and 0.68 (90% CI: 0.30, 1.55) in pediatric subjects relative to adults, respectively.
+These differences were not considered clinically significant.
+Geometric mean cobicistat AUC24h, Cmax, and C24h values were comparable in pediatric subjects and adults (Table 3).
+
+Table 3: Multiple-Dose PK Parameters of Darunavir and Cobicistat Following Administration of Darunavir with Cobicistat in HIV-1 Infected Adults and Pediatric Subjects Weighing at least 40 kgFrom intensive PK analysis of trial GS-US-216-0128, where subjects with HIV-1 infection were administered darunavir 800 mg and cobicistat 150 mg once daily with 2 NRTIs
+
+| Parameter Geometric mean (CV%) | Darunavir | Cobicistat |
+| --- | --- | --- |
+| Pediatric Subjects | N=7 | N=7 |
+| AUC24h (mcg.hr/mL) | 77.22 (29.5) | 8.33 (34.9) |
+| Cmax (mcg/mL) | 7.32 (21.7) | 1.10 (20.0) |
+| C24h (mcg/mL) | 0.68 (91.6) | 0.02 (123.9)N=5; Data from two subjects who had undetectable cobicistat C24h concentrations were excluded from summary statistics |
+| AdultsFrom intensive PK analysis of trial GS-US-299-0102 where subjects with HIV-1 infection were administered darunavir/cobicistat/emtricitabine/tenofovir alafenamide | N=21 | N=21 |
+| AUC24h (mcg.hr/mL) | 90.56 (45.3) | 7.69 (43.9) |
+| Cmax (mcg/mL) | 8.34 (33.3) | 1.04 (35.3) |
+| C24h (mcg/mL) | 1.00 (108.0) | 0.02 (135.1)N=18 |
+| CV = Coefficient of Variation; mcg = microgram |  |  |
 
 Pregnancy and Postpartum
 
-The exposure to total and unbound darunavir boosted with cobicistat after intake of PREZCOBIX as part of an antiretroviral regimen was substantially lower during the second and third trimesters of pregnancy compared with 6–12 weeks postpartum (see Table 3 and Figure 1).
+The exposure to total and unbound darunavir boosted with cobicistat after intake of PREZCOBIX as part of an antiretroviral regimen was substantially lower during the second and third trimesters of pregnancy compared with 6–12 weeks postpartum (see Table 4 and Figure 1).
 
-Table 3: Pharmacokinetic Results of Total Darunavir after Administration of PREZCOBIX Once Daily as Part of an Antiretroviral Regimen, During the 2nd Trimester of Pregnancy, the 3rd Trimester of Pregnancy, and Postpartum
+Table 4: Pharmacokinetic Results of Total Darunavir after Administration of PREZCOBIX Once Daily as Part of an Antiretroviral Regimen, During the 2nd Trimester of Pregnancy, the 3rd Trimester of Pregnancy, and Postpartum
 
 | Pharmacokinetics of total darunavir (mean ± SD) | 2nd Trimester of pregnancy N=7 | 3rd Trimester of pregnancy N=6 | Postpartum (6–12 weeks) N=6 |
 | --- | --- | --- | --- |

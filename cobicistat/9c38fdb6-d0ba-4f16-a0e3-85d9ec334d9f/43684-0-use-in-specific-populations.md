@@ -44,7 +44,7 @@ One out of 6 pregnant individuals who completed the study experienced virologic 
 Five pregnant individuals had sustained virologic response (HIV RNA <50 copies/mL) throughout the study period.
 There are no clinical data on the virologic response when PREZCOBIX is initiated during pregnancy.
 
-There were no new clinically relevant safety findings compared with the known safety profile of PREZCOBIX in HIV-1-infected adults.
+There were no new clinically relevant safety findings compared with the known safety profile of PREZCOBIX in adults with HIV-1 infection.
 
 Darunavir: Based on prospective reports to the APR of 679 live births following exposure to darunavir-containing regimens during pregnancy (including 425 exposed in the first trimester and 254 exposed in the second/third trimester), there was no difference in rate of overall birth defects for darunavir compared with the background rate for major birth defects in a U.S. reference population of the MACDP.
 
@@ -100,7 +100,10 @@ No data are available to make recommendations on co-administration with other ho
 
 ## 8.4 Pediatric Use
 
-Safety, effectiveness, and pharmacokinetics of PREZCOBIX in pediatric patients less than 18 years of age have not been established.
+The safety and effectiveness of PREZCOBIX for the treatment of HIV-1 infection in pediatric patients weighing at least 40 kg was established through a trial with components of PREZCOBIX.
+Use of PREZCOBIX in this group is supported by evidence from adequate and well-controlled studies in adults with additional pharmacokinetic, safety, and virologic data from a study of components of PREZCOBIX (Trial GS-US-216-0128) in pediatric subjects with HIV-1 infection aged 12 to less than 18 years [see Adverse Reactions (6.1), Clinical Pharmacology (12.3), and Clinical Studies (14.2)].
+
+The safety and effectiveness of PREZCOBIX have not been established in pediatric patients weighing less than 40 kg.
 Darunavir, a component of PREZCOBIX is not recommended in pediatric patients below 3 years of age because of toxicity and mortality observed in juvenile rats dosed with darunavir.
 
 Juvenile Animal Toxicity Data

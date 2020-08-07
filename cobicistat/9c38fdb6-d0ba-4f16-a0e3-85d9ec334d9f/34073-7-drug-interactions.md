@@ -25,15 +25,15 @@ Table 1: Established and Other Potentially Significantthis table is not all incl
 | Concomitant Drug Class: Drug Name | Effect on Concentration of Darunavir, Cobicistat, or Concomitant Drug | Clinical Comment |
 | --- | --- | --- |
 | HIV-1 antiviral agents: Nucleoside Reverse Transcriptase Inhibitors (NRTIs) |  |  |
-| didanosine | ↔ darunavir ↔ cobicistat ↔ didanosine | Didanosine should be administered one hour before or two hours after PREZCOBIX (administered with food). |
+| Didanosine | ↔ darunavir ↔ cobicistat ↔ didanosine | Didanosine should be administered one hour before or two hours after PREZCOBIX (administered with food). |
 | HIV-1 antiviral agents: Non-Nucleoside Reverse Transcriptase Inhibitors (NNRTIs) |  |  |
-| efavirenz | ↓ cobicistat ↓ darunavir | Co-administration with efavirenz is not recommended because it may result in loss of therapeutic effect and development of resistance to darunavir. |
-| etravirine | ↓ cobicistat darunavir: effect unknown | Co-administration with etravirine is not recommended because it may result in loss of therapeutic effect and development of resistance to darunavir. |
-| nevirapine | ↓ cobicistat darunavir: effect unknown | Co-administration with nevirapine is not recommended because it may result in loss of therapeutic effect and development of resistance to darunavir. |
+| Efavirenz | ↓ cobicistat ↓ darunavir | Co-administration with efavirenz is not recommended because it may result in loss of therapeutic effect and development of resistance to darunavir. |
+| Etravirine | ↓ cobicistat darunavir: effect unknown | Co-administration with etravirine is not recommended because it may result in loss of therapeutic effect and development of resistance to darunavir. |
+| Nevirapine | ↓ cobicistat darunavir: effect unknown | Co-administration with nevirapine is not recommended because it may result in loss of therapeutic effect and development of resistance to darunavir. |
 | HIV-1 antiviral agents: CCR5 co-receptor antagonists |  |  |
-| maraviroc | ↑ maraviroc | Maraviroc is a substrate of CYP3A. When co-administered with PREZCOBIX, patients should receive maraviroc 150 mg twice daily. |
+| Maraviroc | ↑ maraviroc | Maraviroc is a substrate of CYP3A. When co-administered with PREZCOBIX, patients should receive maraviroc 150 mg twice daily. |
 | Other agents |  |  |
-| Alpha 1-adrenoreceptor antagonist: alfuzosin | ↑ alfuzosin | Co-administration is contraindicated due to potential for serious and/or life-threatening reactions such as hypotension. |
+| Alpha 1-adrenoreceptor antagonist: Alfuzosin | ↑ alfuzosin | Co-administration is contraindicated due to potential for serious and/or life-threatening reactions such as hypotension. |
 | Antibacterials: clarithromycin, erythromycin, telithromycin | ↑ darunavir ↑ cobicistat ↑ antibacterial | Consider alternative antibiotics with concomitant use of PREZCOBIX. |
 | Anticancer agents: dasatinib, nilotinib | ↑ anticancer agent | A decrease in the dosage or an adjustment of the dosing interval of dasatinib or nilotinib may be necessary when co-administered with PREZCOBIX. Consult the dasatinib and nilotinib prescribing information for dosing instructions. |
 | vinblastine, vincristine |  | For vincristine and vinblastine, consider temporarily withholding the cobicistat-containing antiretroviral regimen in patients who develop significant hematologic or gastrointestinal side effects when PREZCOBIX is administered concurrently with vincristine or vinblastine. If the antiretroviral regimen must be withheld for a prolonged period, consider initiating a revised regimen that does not include a CYP3A or P-gp inhibitor. |
@@ -75,7 +75,6 @@ Table 1: Established and Other Potentially Significantthis table is not all incl
 | GI motility agent: cisapride | ↑ cisapride | Co-administration is contraindicated due to potential for serious and/or life-threatening reactions such as cardiac arrhythmias. |
 | Hepatitis C virus (HCV): Direct-Acting Antivirals: elbasvir/grazoprevir | ↑ elbasvir/grazoprevir | Co-administration is contraindicated due to potential for the increased risk of alanine transaminase (ALT) elevations. |
 | glecaprevir/pibrentasvir | ↑ glecaprevir ↑ pibrentasvir | Co-administration of PREZCOBIX with glecaprevir/pibrentasvir is not recommended. |
-| simeprevir | darunavir: effects unknown ↑ simeprevir | No drug interaction data are available. Co-administration with simeprevir is not recommended. |
 | Herbal product: St. John's wort (Hypericum perforatum) | ↓ darunavir ↓ cobicistat | Co-administration is contraindicated due to potential for reduced plasma concentrations of darunavir, which may result in loss of therapeutic effect and development of resistance. |
 | Hormonal contraceptives: |  | Additional or alternative (non-hormonal) forms of contraception should be considered when estrogen-containing contraceptives are co-administered with PREZCOBIX [see Use in Specific Populations (8.3)]. |
 | drospirenone/ethinylestradiol | ↑ drospirenone ↓ ethinylestradiol | For co-administration with drospirenone, clinical monitoring is recommended due to the potential for hyperkalemia. |
