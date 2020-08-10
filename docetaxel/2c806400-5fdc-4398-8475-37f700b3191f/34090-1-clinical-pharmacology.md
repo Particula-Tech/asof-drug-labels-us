@@ -45,7 +45,7 @@ Effect of Gender: The population pharmacokinetics analysis described above also 
 Hepatic Impairment: The population pharmacokinetic analysis described above indicated that in patients with clinical chemistry data suggestive of mild to moderate liver impairment (AST and/or ALT >1.5 times ULN concomitant with alkaline phosphatase >2.5 times ULN), total body clearance was lowered by an average of 27%, resulting in a 38% increase in systemic exposure (AUC).
 This average, however, includes a substantial range and there is, at present, no measurement that would allow recommendation for dose adjustment in such patients.
 Patients with combined abnormalities of transaminase and alkaline phosphatase should not be treated with Docetaxel Injection.
-Patients with severe hepatic impairment have not been studied [see Warnings and Precautions (5.2) and Use in Specific Populations (8.6)].
+Patients with severe hepatic impairment have not been studied [see Warnings and Precautions (5.2), Use in Specific Populations (8.6)].
 
 Effect of Race: Mean total body clearance for Japanese patients dosed at the range of 10 mg/m2 to 90 mg/m2 was similar to that of European/American populations dosed at 100 mg/m2, suggesting no significant difference in the elimination of docetaxel in the two populations.
 
@@ -53,7 +53,7 @@ Drug Interaction Studies
 
 Effect of Ketoconazole: The effect of ketoconazole (a strong CYP3A4 inhibitor) on the pharmacokinetics of docetaxel was investigated in 7 cancer patients.
 Patients were randomized to receive either docetaxel (100 mg/m² intravenous) alone or docetaxel (10 mg/m² intravenous) in combination with ketoconazole (200 mg orally once daily for 3 days) in a crossover design with a 3-week washout period.
-The results of this study indicated that the mean dose-normalized AUC of docetaxel was increased 2.2-fold and its clearance was reduced by 49% when docetaxel was co-administered with ketoconazole [see Dosage and Administration (2.7) and Drug Interactions (7)].
+The results of this study indicated that the mean dose-normalized AUC of docetaxel was increased 2.2-fold and its clearance was reduced by 49% when docetaxel was co-administered with ketoconazole [see Dosage and Administration (2.7), Drug Interactions (7)].
 
 Effect of Combination Therapies:
 

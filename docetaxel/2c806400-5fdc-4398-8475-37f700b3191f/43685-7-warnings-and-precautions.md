@@ -46,7 +46,7 @@ Patients receiving TCF should be closely monitored during the first and subseque
 
 ## 5.4 Enterocolitis and Neutropenic Colitis
 
-Enterocolitis and neutropenic colitis (typhlitis) have occurred in patients treated with Docetxel Injection alone and in combination with other chemotherapeutic agents, despite the co-administration of G-CSF.
+Enterocolitis and neutropenic colitis (typhlitis) have occurred in patients treated with Docetaxel Injection alone and in combination with other chemotherapeutic agents, despite the co-administration of G-CSF.
 Caution is recommended for patients with neutropenia, particularly at risk for developing gastrointestinal complications.
 Enterocolitis and neutropenic enterocolitis may develop at any time, and could lead to death as early as the first day of symptom onset.
 Monitor patients closely from onset of any symptoms of gastrointestinal toxicity.
@@ -141,3 +141,9 @@ Consideration should be given to the alcohol content in Docetaxel Injection on t
 Each administration of Docetaxel Injection at 100 mg/m2 delivers 2.0 g/m2 of ethanol.
 For a patient with a BSA of 2.0 m2, this would deliver 4.0 grams of ethanol [see Description (11)].
 Other docetaxel products may have a different amount of alcohol.
+
+## 5.14 Tumor Lysis Syndrome
+
+Tumor lysis syndrome has been reported with docetaxel [see Adverse Reactions (6.2)].
+Patients at risk of tumor lysis syndrome (e.g., with renal impairment, hyperuricemia, bulky tumor) should be closely monitored prior to initiating Docetaxel Injection and periodically during treatment.
+Correction of dehydration and treatment of high uric acid levels are recommended prior to initiation of treatment.

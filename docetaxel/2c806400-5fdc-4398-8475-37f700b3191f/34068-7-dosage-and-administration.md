@@ -191,7 +191,6 @@ Docetaxel Injection (20 mg/mL) requires NO prior dilution with a diluent and is 
 Use only a 21 gauge needle to withdraw Docetaxel Injection from the vial because larger bore needles (e.g., 18 and 19 gauge) may result in stopper coring and rubber particulates.
 
 1. Docetaxel Injection vials should be stored at 25°C (77°F); excursions permitted to 15° to 30°C (59° to 86°F) protected from light.
-   If the vials are stored under refrigeration, allow the appropriate number of vials of Docetaxel Injection vials to stand at room temperature for approximately 5 minutes before use.
 2. Using only a 21 gauge needle, aseptically withdraw the required amount of Docetaxel Injection (20 mg docetaxel/mL) with a calibrated syringe and inject via a single injection (one shot) into a 250 mL infusion bag or bottle of either 0.9% Sodium Chloride solution or 5% Dextrose solution to produce a final concentration of 0.3 mg/mL to 0.74 mg/mL.
    If a dose greater than 200 mg of Docetaxel Injection is required, use a larger volume of the infusion vehicle so that a concentration of 0.74 mg/mL Docetaxel Injection is not exceeded.
 3. Thoroughly mix the infusion by gentle manual rotation.

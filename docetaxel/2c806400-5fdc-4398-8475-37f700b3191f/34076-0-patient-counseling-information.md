@@ -4,21 +4,21 @@ Advise the patient to read the FDA-approved Patient Labeling (Patient Informatio
 
 Bone Marrow Suppression
 
-Advise patients that periodic assessment of their blood count will be performed to detect neutropenia, thrombocytopenia and/ or anemia [see Contraindications (4) and Warnings and Precautions (5.3)].
+Advise patients that periodic assessment of their blood count will be performed to detect neutropenia, thrombocytopenia, and/ or anemia [see Contraindications (4), Warnings and Precautions (5.3)].
 Instruct patients to monitor their temperature frequently and immediately report any occurrence of fever.
 
 Enterocolitis and Neutropenic Colitis
 
-Advise patients of the symptoms of colitis, such as abdominal pain or tenderness, and/or diarrhea, with or without fever, and instruct patients to promptly contact their healthcare provider if they experience these symptoms [see Dosage and Administration (2.7) and Warnings and Precautions (5.4)].
+Advise patients of the symptoms of colitis, such as abdominal pain or tenderness, and/or diarrhea, with or without fever, and instruct patients to promptly contact their healthcare provider if they experience these symptoms [see Dosage and Administration (2.7), Warnings and Precautions (5.4)].
 
 Hypersensitivity Reactions
 
 Ask patients whether they have previously received paclitaxel therapy, and if they have experienced a hypersensitivity reaction to paclitaxel.
-Instruct patients to immediately report to their healthcare provider signs of a hypersensitivity reaction [see Contraindications (4) and Warnings and Precautions (5.5)].
+Instruct patients to immediately report to their healthcare provider signs of a hypersensitivity reaction [see Contraindications (4), Warnings and Precautions (5.5)].
 
 Fluid Retention
 
-Advise patients to report signs of fluid retention such as peripheral edema in the lower extremities, weight gain and dyspnea immediately to their healthcare provider [see Warnings and Precautions (5.6)].
+Advise patients to report signs of fluid retention such as peripheral edema in the lower extremities, weight gain, and dyspnea immediately to their healthcare provider [see Warnings and Precautions (5.6)].
 
 Second Primary Malignancies
 
@@ -51,9 +51,7 @@ Advise patients to report any irregular and/or rapid heartbeat, severe shortness
 Other Common Adverse Reactions
 
 Advise patients that other common adverse reactions associated with Docetaxel Injection may include alopecia (cases of permanent hair loss have been reported), asthenia, anorexia, dysgeusia, mucositis, myalgia, nail disorders, or pain.
-Instruct patients to report these reactions to their
-
-healthcare provider if serious events occur [see Adverse Reactions (6)].
+Instruct patients to report these reactions to their healthcare provider if serious events occur [see Adverse Reactions (6)].
 
 Importance of Corticosteroids
 
@@ -80,6 +78,12 @@ Alcohol Content in Docetaxel Injection
 
 Explain to patients the possible effects of the alcohol content in Docetaxel Injection, including possible effects on the central nervous system [see Warnings and Precautions (5.13)].
 
+Tumor Lysis Syndrome
+
+Advise patients of the potential risk of tumor lysis syndrome and to immediately report any signs or symptoms associated with this event (nausea, vomiting, confusion, shortness of breath, seizure, irregular heartbeat, dark or cloudy urine, reduced amount of urine, unusual tiredness, muscle cramps) to their healthcare provider.
+Advise patients of the importance of keeping scheduled appointment for blood work or other laboratory tests and of drinking adequate fluids to avoid dehydration.
+[see Warnings and Precautions (5.14)].
+
 Ability to Drive or Operate Machines
 
 Explain to patients that Docetaxel Injection may impair their ability to drive or operate machines due to its side effects [see Adverse Reactions (6)] or due to the alcohol content of Docetaxel Injection [see Warnings and Precautions (5.13)].
@@ -98,4 +102,4 @@ Manufactured In Romania By: Sindan Pharma SRL Bucharest 1, Romania 011171
 Distributed By: Actavis Pharma, Inc. Parsippany, NJ 07054 USA
 
 Rev.
-E 12/2019
+G 7/2020

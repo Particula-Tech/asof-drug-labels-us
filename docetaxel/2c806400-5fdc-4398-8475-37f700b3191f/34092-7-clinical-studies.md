@@ -131,13 +131,12 @@ The efficacy data for the Docetaxel Injection 75 mg/m2 arm and the comparator ar
 
 Table 15 - Efficacy of Docetaxel Injection in the Treatment of Non-Small Cell Lung Cancer Patients Previously Treated with a Platinum-Based Chemotherapy Regimen (Intent-to-Treat Analysis)
 
-|  |  | n=49 |  |  |
+| Overall Survival |  |  |  |  |
 | --- | --- | --- | --- | --- |
 |  | TAX317 |  | TAX320 |  |
 |  | Docetaxel | Best | Docetaxel | Control |
-|  | 75 mg/m2 | Supportive | 75 mg/m2 | (V/I*) |
-|  | n=55 | Care | n=125 | n=123 |
-| Overall Survival |  |  |  |  |
+|  | 75 mg/m2 | Supportive Care | 75 mg/m2 | (V/I*) |
+|  | n=55 | n=49 | n=125 | n=123 |
 | Log-rank Test | p=0.01 |  | p=0.13 |  |
 | Risk Ratio††, Mortality |  |  |  |  |
 | (Docetaxel: Control) | 0.56 |  | 0.82 |  |
@@ -328,7 +327,7 @@ During radiotherapy, carboplatin (AUC 1.5) was given weekly as a one-hour intrav
 Radiation was delivered with megavoltage equipment using once daily fractionation (2 Gy per day, 5 days per week for 7 weeks for a total dose of 70 to 72 Gy).
 Surgery on the primary site of disease and/or neck could be considered at anytime following completion of CRT.
 
-The primary efficacy endpoint, overall survival (OS), was significantly longer (log-rank test, p=0.0058) with the Docetaxel Injection-containing regimen compared to PF (median OS: 70.6 versus 30.1 months respectively, hazard ratio [HR]=0.70, 95% confidence interval [CI]= 0.54 to 0.90).
+The primary efficacy endpoint, overall survival (OS), was significantly longer (log-rank test, p=0.0058) with the Docetaxel Injection-containing regimen compared to PF [median OS: 70.6 versus 30.1 months respectively, hazard ratio (HR)=0.70, 95% confidence interval (CI)= 0.54 – 0.90].
 Overall survival results are presented in Table 21 and Figure 10.
 
 Table 21 - Efficacy of Docetaxel Injection in the Induction Treatment of Patients with Locally Advanced SCCHN (Intent-to-Treat Analysis)

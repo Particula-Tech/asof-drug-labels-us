@@ -2,7 +2,7 @@
 
 ## 16.1 How Supplied
 
-Docetaxel Injection USP, is supplied as a sterile, pyrogen-free, non-aqueous solution in single-dose, flip-top glass vials, as a clear, viscous, colorless to pale yellow solution, without macroscopic particles in solution at 20 mg/mL concentration, in the following package strengths:
+Docetaxel Injection, USP is supplied as a sterile, pyrogen-free, non-aqueous solution in single-dose, flip-top glass vials, as a clear, viscous, colorless to pale yellow solution, without macroscopic particles in solution at 20 mg/mL concentration, in the following package strengths:
 
 Docetaxel Injection USP, 20 mg/mL available as one vial per carton NDC 45963-734-54
 
@@ -20,5 +20,5 @@ Retain in the original package to protect from light.
 
 ## 16.3 Handling and Disposal
 
-Procedures for proper handling and disposal of anticancer drugs should be considered.
-Several guidelines on this subject have been published [see References (15)].
+Docetaxel Injection is a cytotoxic drug.
+Follow applicable special handling and disposal procedures.1
