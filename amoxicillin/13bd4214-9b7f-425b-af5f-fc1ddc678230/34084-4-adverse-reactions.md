@@ -16,9 +16,9 @@ Triple therapy: The most frequently reported adverse events for patients who rec
 Dual therapy: The most frequently reported adverse events for patients who received double therapy amoxicillin/lansoprazole were diarrhea (8%) and headache (7%).
 For more information on adverse reactions with clarithromycin or lansoprazole, refer to the Adverse Reactions section of their package inserts.
 
-## 6.2 Postmarketing or Other Experience
+## 6.2 Post-Marketing or Other Experience
 
-In addition to adverse events reported from clinical trials, the following events have been identified during postmarketing use of penicillins.
+In addition to adverse events reported from clinical trials, the following events have been identified during post-marketing use of penicillins.
 Because they are reported voluntarily from a population of unknown size, estimates of frequency cannot be made.
 These events have been chosen for inclusion due to a combination of their seriousness, frequency of reporting, or potential causal connection to amoxicillin.
 

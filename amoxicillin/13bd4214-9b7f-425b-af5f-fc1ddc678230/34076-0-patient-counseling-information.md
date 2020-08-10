@@ -20,10 +20,6 @@ CLOtest® is a registered trademark of Kimberly-Clark Corporation.
 
 46176378
 
-12-2015M
-
-Manufactured in Austria by Sandoz GmbH for
+Manufactured by Sandoz GmbH for
 
 Sandoz Inc., Princeton, NJ 08540
-
-Product of Spain

@@ -2,21 +2,21 @@
 
 ## 1.1 Infections of the Ear, Nose, and Throat
 
-Amoxicillin is indicated in the treatment of infections due to susceptible (ONLY β-lactamase–negative) isolates of Streptococcus species.
+Amoxicillin is indicated in the treatment of infections due to susceptible (ONLY beta-lactamase–negative) isolates of Streptococcus species.
 (α- and β-hemolytic isolates only), Streptococcus pneumoniae, Staphylococcus spp., or Haemophilus influenzae.
 
 ## 1.2 Infections of the Genitourinary Tract
 
-Amoxicillin is indicated in the treatment of infections due to susceptible (ONLY β-lactamase–negative) isolates of Escherichia coli, Proteus mirabilis, or Enterococcus faecalis.
+Amoxicillin is indicated in the treatment of infections due to susceptible (ONLY beta-lactamase–negative) isolates of Escherichia coli, Proteus mirabilis, or Enterococcus faecalis.
 
 ## 1.3 Infections of the Skin and Skin Structure
 
-Amoxicillin is indicated in the treatment of infections due to susceptible (ONLY β-lactamase–negative) isolates of Streptococcus spp.
+Amoxicillin is indicated in the treatment of infections due to susceptible (ONLY beta-lactamase–negative) isolates of Streptococcus spp.
 (α- and β-hemolytic isolates only), Staphylococcus spp., or E. coli.
 
 ## 1.4 Infections of the Lower Respiratory Tract
 
-Amoxicillin is indicated in the treatment of infections due to susceptible (ONLY β-lactamase–negative) isolates of Streptococcus spp.
+Amoxicillin is indicated in the treatment of infections due to susceptible (ONLY beta-lactamase–negative) isolates of Streptococcus spp.
 (α- and β-hemolytic isolates only), S. pneumoniae, Staphylococcus spp., or H. influenzae.
 
 ## 1.5 Helicobacter pylori Infection

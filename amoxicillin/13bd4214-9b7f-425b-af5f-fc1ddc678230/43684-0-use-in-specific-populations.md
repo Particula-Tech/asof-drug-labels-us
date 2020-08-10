@@ -21,8 +21,7 @@ Caution should be exercised when amoxicillin is administered to a nursing woman.
 ## 8.4 Pediatric Use
 
 Because of incompletely developed renal function in neonates and young infants, the elimination of amoxicillin may be delayed.
-Dosing of amoxicillin should be modified in pediatric patients 12 weeks or younger (≤ 3 months).
-[See Dosage and Administration (2.2).]
+Dosing of amoxicillin should be modified in pediatric patients 12 weeks or younger (≤ 3 months) [see Dosage and Administration (2.2).]
 
 ## 8.5 Geriatric Use
 

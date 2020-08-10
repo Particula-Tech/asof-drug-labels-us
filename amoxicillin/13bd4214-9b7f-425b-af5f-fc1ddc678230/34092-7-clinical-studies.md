@@ -12,8 +12,8 @@ Triple therapy was shown to be more effective than all possible dual therapy com
 Dual therapy was shown to be more effective than both monotherapies.
 Eradication of H. pylori has been shown to reduce the risk of duodenal ulcer recurrence.
 
-Table 6.
-H. pylori Eradication Rates When Amoxicillin is Administered as Part of a Triple Therapy Regimen
+Table 4.
+H. pylori Eradication Rates When Amoxicillin is administered as Part of a Triple Therapy Regimen
 
 | Evaluable AnalysisThis analysis was based on evaluable patients with confirmed duodenal ulcer (active or within 1 year) and H. pylori infection at baseline defined as at least 2 of 3 positive endoscopic tests from CLOtest®, histology, and/or culture. Patients were included in the analysis if they completed the study. Additionally, if patients dropped out of the study due to an adverse event related to the study drug, they were included in the analysis as failures of therapy. [95% Confidence Interval] (number of patients) | Intent-to-Treat AnalysisPatients were included in the analysis if they had documented H. pylori infection at baseline as defined above and had a confirmed duodenal ulcer (active or within 1 year). All dropouts were included as failures of therapy. [95% Confidence Interval] (number of patients) |  |
 | --- | --- | --- |
@@ -21,8 +21,8 @@ H. pylori Eradication Rates When Amoxicillin is Administered as Part of a Triple
 | Study 1 | 92[80.0 - 97.7](n = 48) | 86[73.3 - 93.5](n = 55) |
 | Study 2 | 86[75.7 - 93.6](n = 66) | 83[72.0 - 90.8](n = 70) |
 
-Table 7.
-H. pylori Eradication Rates When Amoxicillin is Administered as Part of a Dual Therapy Regimen
+Table 5.
+H. pylori Eradication Rates When Amoxicillin is administered as Part of a Dual Therapy Regimen
 
 | Evaluable Analysis1 [95% Confidence Interval] (number of patients) | Intent-to-Treat Analysis2 [95% Confidence Interval] (number of patients) |  |
 | --- | --- | --- |

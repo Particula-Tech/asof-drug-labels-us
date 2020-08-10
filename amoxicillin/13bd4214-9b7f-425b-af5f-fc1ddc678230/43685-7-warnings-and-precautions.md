@@ -28,7 +28,7 @@ Appropriate fluid and electrolyte management, protein supplementation, antibioti
 
 Prescribing amoxicillin in the absence of a proven or strongly suspected bacterial infection is unlikely to provide benefit to the patient, and increases the risk of the development of drug-resistant bacteria.
 
-## 5.4 Use in Patients With Mononucleosis
+## 5.4 Use in Patients with Mononucleosis
 
 A high percentage of patients with mononucleosis who receive amoxicillin develop an erythematous skin rash.
 Thus amoxicillin should not be administered to patients with mononucleosis.
