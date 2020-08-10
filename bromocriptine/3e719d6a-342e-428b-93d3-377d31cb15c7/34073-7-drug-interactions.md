@@ -4,7 +4,7 @@
   Therefore, CYCLOSET may increase the unbound fraction of other concomitantly used highly protein-bound therapies (e.g., salicylates, sulfonamides, chloramphenicol and probenecid), which may alter their effectiveness and risk for side effects.
 - CYCLOSET is a dopamine receptor agonist.
   Concomitant use of dopamine receptor antagonists, such as neuroleptics (e.g., phenothiazines, butyrophenones, thioxanthenes), or metoclopramide may diminish the effectiveness of CYCLOSET, and CYCLOSET may diminish the effectiveness of these other therapies.
-  The concurrent use of CYCLOSET with these agents has not been studied in clinical trials and is not recommended [see Warnings and Precautions (5.4)].
+  The concurrent use of CYCLOSET with these agents has not been studied in clinical trials and is not recommended [see Warnings and Precautions (5.5)].
 - CYCLOSET in combination with ergot-related drugs may cause an increase in the occurrence of ergot-related side effects, such as nausea, vomiting, and fatigue, and may also reduce the effectiveness of these ergot therapies when used to treat migraine.
   The concurrent use of these ergot agents within 6 hours of CYCLOSET dosing is not recommended.
 - CYCLOSET is extensively metabolized by the liver via CYP3A4.

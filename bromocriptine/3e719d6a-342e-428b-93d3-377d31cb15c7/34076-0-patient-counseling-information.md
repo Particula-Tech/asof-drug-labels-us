@@ -8,12 +8,15 @@ During periods of stress such as fever, trauma, infection, or surgery, medicatio
 
 Patients should be advised that they may develop postural (orthostatic) hypotension with or without symptoms such as dizziness, nausea, and diaphoresis.
 Hypotension and syncope may occur more frequently during initial therapy or with an increase in dose at any time.
-During early treatment with CYCLOSET, patients should be advised to make slow postural changes and to avoid situations that could predispose to serious injury if syncope was to occur.
+During early treatment with CYCLOSET, patients should be advised to make slow postural changes and to avoid situations that could predispose to serious injury if syncope was to occur [see Warnings and Precautions (5.1)].
+
+Patients should be advised that they may experience impulse control and/or compulsive behaviors while taking CYCLOSET.
+Advise patients to inform their physician or healthcare provider if they develop new or increased gambling urges, sexual urges, uncontrolled spending, binge or compulsive eating, or other urges while being treated with CYCLOSET [see Warnings and Precautions (5.3)].
 
 Patients should be advised that CYCLOSET may cause somnolence.
-Advise patients not to operate heavy machinery if symptoms of somnolence occur.
+Advise patients not to operate heavy machinery if symptoms of somnolence occur [see Warnings and Precautions (5.4)].
 
-Women who are nursing their children should be advised to not take CYCLOSET.
+Women who are nursing their children should be advised to not take CYCLOSET [see Use in Specific Populations (8.3)].
 
 Physicians should instruct their patients to read the Patient Package Insert before starting CYCLOSET therapy and to reread it each time the prescription is renewed.
 Patients should be instructed to inform their healthcare provider if they develop any unusual symptoms or if any known symptom persists or worsens.

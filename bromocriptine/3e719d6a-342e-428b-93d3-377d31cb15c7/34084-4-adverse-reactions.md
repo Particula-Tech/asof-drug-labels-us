@@ -125,9 +125,7 @@ No cases of cardiac valvulopathy have been reported in any of the clinical studi
 
 Psychotic and Psychiatric Disorders
 
-Psychotic disorders have been reported with bromocriptine.
-Additionally, pathological gambling has been reported with bromocriptine used to treat patients with Parkinson's disease.
-To date, there have been no reported cases of psychoses or pathological gambling among the CYCLOSET-treated patients (N = 2500) in combined Phase 2 and 3 controlled clinical trials of CYCLOSET.
+Psychotic disorders and impulse control/compulsive behaviors (including pathological gambling) have been reported with bromocriptine [see Warnings and Precautions (5.2, 5.3)].
 
 Stroke
 

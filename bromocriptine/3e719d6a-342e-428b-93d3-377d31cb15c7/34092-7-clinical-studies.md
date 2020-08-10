@@ -85,15 +85,15 @@ Table 4: Changes in HbA1c from Baseline to Week 24 in the CYCLOSET Safety Trial 
 | HbA1c (%) |  |  |
 | Baseline mean | 8.3 | 8.4 |
 | Change from baseline (adjusted mean) | -0.4 | 0.0 |
-| Difference from placebo (adjusted mean) | -0.5* |  |
+| Difference from placebo (adjusted mean) | -0.5p<0.001 |  |
 | % Patients achieving HbA1c of ≤7.0 | 25 | 9 |
 | Adjunct to Metformin + Sulfonylurea Onlypatients in the "metformin + sulfonylurea only" subgroup are also counted in the "adjunct to 1-2 oral antidiabetic medications" subgroup | N = 177 | N = 90 |
 | HbA1c (%) |  |  |
 | Baseline mean | 8.3 | 8.3 |
 | Change from baseline (adjusted mean) | -0.5 | 0.0 |
-| Difference from placebo (adjusted mean) | -0.5* |  |
+| Difference from placebo (adjusted mean) | -0.5 |  |
 | % Patients achieving HbA1c of ≤7.0 | 27 | 9 |
-| P-value is based on an ANCOVA model with treatment and center as fixed effects, and baseline HbA1c as covariates; *p<0.001 |  |  |
+| P-value is based on an ANCOVA model with treatment and center as fixed effects, and baseline HbA1c as covariates; |  |  |
 
 ## 14.3 Changes in Lipids and Blood Pressure
 
