@@ -52,7 +52,7 @@ Rx only
 For use with NovoFine®, NovoFine® Plus or NovoTwist® disposable needles.
 
 Keep in a refrigerator at 36oF to 46oF (2oC to 8oC) until first use.
-After first use store out of the refrigerator below 86oF (30oC) for up to 28 days.
+After first use store out of the refrigerator below 86oF (30oC) for up to 14 days.
 Avoid freezing.
 Protect from light.
 
