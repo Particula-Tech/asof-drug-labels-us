@@ -2,7 +2,7 @@
 
 ## Pediatric Patients
 
-Overdosage antihistamines, particularly in infants and young children, may produce hallucinations, central nervous system depression, convulsions, respiratory and cardiac arrest, and death.
+Overdosage of antihistamines, particularly in infants and young children, may produce hallucinations, central nervous system depression, convulsions, respiratory and cardiac arrest, and death.
 
 Antihistamines may diminish mental alertness; conversely, particularly, in the young child, they may occasionally produce excitation.
 
@@ -67,13 +67,3 @@ Safety and effectiveness in pediatric patients below the age of two have not bee
 Clinical studies of cyproheptadine HCl tablets did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
 Other reported clinical experience has not identified differences in responses between the elderly and younger patients.
 In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy (see WARNINGS, Activities Requiring Mental Alertness).
-
-Adverse reactions which have been reported with the use of antihistamines are as follows:
-
-Central Nervous System Sedation and sleepiness (often transient), dizziness, disturbed coordination, confusion, restlessness, excitation, nervousness, tremor, irritability, insomnia, paresthesias, neuritis, convulsions, euphoria, hallucinations, hysteria, faintness.
-
-Integumentary Allergic manifestation of rash and edema, excessive perspiration, urticaria, photosensitivity.
-
-Special Senses Acute labyrinthitis, blurred vision, diplopia, vertigo, tinnitus.
-
-Cardiovascular Hypotension, palpitation, tachycardia, extrasystoles, anaphylactic

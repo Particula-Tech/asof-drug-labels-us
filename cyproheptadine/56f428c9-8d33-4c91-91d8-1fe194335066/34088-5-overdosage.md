@@ -19,4 +19,4 @@ Stimulants should not be used.
 
 Vasopressors may be used to treat hypotension.
 
-The oral LD50of cyproheptadine is 123 mg/kg, and 295 mg/kg in the mouse and rat, respectively.
+The oral LD50 of cyproheptadine is 123 mg/kg, and 295 mg/kg in the mouse and rat, respectively.
