@@ -10,7 +10,8 @@ Fluoxetine capsules are indicated for the treatment of:
 Fluoxetine capsules and Olanzapine in Combination are indicated for the treatment of:
 
 - Acute treatment of depressive episodes associated with Bipolar I Disorder.
+- Treatment resistant depression (Major Depressive Disorder in patients, who do not respond to 2 separate trials of different antidepressants of adequate dose and duration in the current episode).
 
-Fluoxetine capsules monotherapy is not indicated for the treatment of depressive episodes associated with Bipolar I Disorder.
+Fluoxetine capsules monotherapy is not indicated for the treatment of depressive episodes associated with Bipolar I Disorder or the treatment of treatment resistant depression.
 
 When using fluoxetine capsules and olanzapine in combination, also refer to the Clinical Studies section of the package insert for Symbyax®.

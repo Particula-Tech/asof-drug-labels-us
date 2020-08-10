@@ -10,6 +10,7 @@ Efficacy for fluoxetine was established for the:
 Efficacy for fluoxetine and olanzapine in combination was established for the:
 
 - Acute treatment of depressive episodes in Bipolar I Disorder in adults, and children and adolescents (10 to 17 years) in 3 short-term, placebo-controlled trials.
+- Acute and maintenance treatment of treatment resistant depression in adults (18 to 85 years) in 3 short-term, placebo-controlled trials and 1 randomized withdrawal study with an active control.
 
 When using fluoxetine and olanzapine in combination, also refer to the Clinical Studies section of the package insert for Symbyax.
 
@@ -25,15 +26,19 @@ Two 6-week controlled studies (N=671, randomized) comparing fluoxetine 20 mg and
 In these studies, fluoxetine produced a significantly higher rate of response and remission as defined, respectively, by a 50% decrease in the HAM-D score and a total endpoint HAM-D score of ≤8.
 Fluoxetine was well tolerated and the rate of treatment discontinuations due to adverse reactions did not differ between fluoxetine (12%) and placebo (9%).
 
-A study was conducted involving depressed outpatients who had responded (modified HAMD-17 score of ≤7 during each of the last 3 weeks of open-label treatment and absence of Major Depressive Disorder by DSM-III-R criteria) by the end of an initial 12-week open-treatment phase on fluoxetine 20 mg/day.
-These patients (N=298) were randomized to continuation on double-blind fluoxetine 20 mg/day or placebo.
-At 38 weeks (50 weeks total), a statistically significantly lower relapse rate (defined as symptoms sufficient to meet a diagnosis of Major Depressive Disorder for 2 weeks or a modified HAMD-17 score of ≥14 for 3 weeks) was observed for patients taking fluoxetine compared with those on placebo.
-
 Pediatric (children and adolescents) — The efficacy of fluoxetine 20 mg/day in children and adolescents (N=315 randomized; 170 children ages 8 to <13, 145 adolescents ages 13 to ≤18) was studied in two 8- to 9-week placebo-controlled clinical trials in depressed outpatients whose diagnoses corresponded most closely to the DSM-III-R or DSM-IV category of Major Depressive Disorder.
 
 In both studies independently, fluoxetine produced a statistically significantly greater mean change on the Childhood Depression Rating Scale-Revised (CDRS-R) total score from baseline to endpoint than did placebo.
 
 Subgroup analyses on the CDRS-R total score did not suggest any differential responsiveness on the basis of age or gender.
+
+Maintenance Treatment A study was conducted involving depressed outpatients who had responded (modified HAMD-17 score of ≤7 during each of the last 3 weeks of open-label treatment and absence of Major Depressive Disorder by DSM-III-R criteria) by the end of an initial 12-week open-treatment phase on fluoxetine 20 mg/day.
+These patients (N=298) were randomized to continuation on double-blind fluoxetine 20 mg/day or placebo.
+At 38 weeks (50 weeks total), a statistically significantly lower relapse rate (defined as symptoms sufficient to meet a diagnosis of Major Depressive Disorder for 2 weeks or a modified HAMD-17 score of ≥14 for 3 weeks) was observed for patients taking fluoxetine compared with those on placebo.
+
+An additional maintenance study was conducted involving adult outpatients meeting DSM-IV criteria for Major Depressive Disorder who had responded (defined as having a modified HAMD-17 score of ≤9, a CGI-Severity rating of ≤2, and no longer meeting criteria for Major Depressive Disorder) for 3 consecutive weeks at the end of 13 weeks of open-label treatment with fluoxetine 20 mg once daily.
+These patients were randomized to double-blind, once-weekly continuation treatment with fluoxetine delayed-release capsules 90 mg once weekly, fluoxetine 20 mg once daily, or placebo.
+Fluoxetine 20 mg once daily demonstrated superior efficacy (having a significantly longer time to relapse of depressive symptoms) compared with placebo for a period of 25 weeks.
 
 ## 14.2 Obsessive Compulsive Disorder
 
@@ -79,7 +84,7 @@ Although some patients achieved freedom from binge-eating and purging as a resul
 
 In a longer-term trial, 150 patients meeting DSM-IV criteria for Bulimia Nervosa, purging subtype, who had responded during a single-blind, 8-week acute treatment phase with fluoxetine 60 mg/day, were randomized to continuation of fluoxetine 60 mg/day or placebo, for up to 52 weeks of observation for relapse.
 Response during the single-blind phase was defined by having achieved at least a 50% decrease in vomiting frequency compared with baseline.
-Relapse during the double-blind phase was defined as a persistent return to baseline vomiting frequency or physician judgment that the patient had relapsed.
+Relapse during the double-blind phase was defined as a persistent return to baseline vomiting frequency or healthcare provider judgment that the patient had relapsed.
 Patients receiving continued fluoxetine 60 mg/day experienced a significantly longer time to relapse over the subsequent 52 weeks compared with those receiving placebo.
 
 ## 14.4 Panic Disorder

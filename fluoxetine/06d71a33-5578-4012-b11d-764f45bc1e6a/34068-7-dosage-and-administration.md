@@ -93,7 +93,7 @@ Symbyax is dosed between 3 mg/25 mg (olanzapine/fluoxetine) per day and 12 mg/50
 The following table demonstrates the appropriate individual component doses of fluoxetine and olanzapine versus Symbyax.
 Adjust dosage, if indicated, with the individual components according to efficacy and tolerability.
 
-| Table 1: Approximate Dose Correspondence Between SymbyaxSymbyax (olanzapine/fluoxetine HCL) is a fixed-dose combination of fluoxetine and olanzapine.and the Combination of Fluoxetine and Olanzapine |  |  |
+| Table 1: Approximate Dose Correspondence Between Symbyax1 and the Combination of Fluoxetine and Olanzapine |  |  |
 | --- | --- | --- |
 | For Symbyax (mg/day) | Use in Combination |  |
 | Olanzapine (mg/day) | Fluoxetine (mg/day) |  |
@@ -102,13 +102,29 @@ Adjust dosage, if indicated, with the individual components according to efficac
 | 12 mg olanzapine/25 mg fluoxetine | 10+2.5 | 20 |
 | 6 mg olanzapine/50 mg fluoxetine | 5 | 40+10 |
 | 12 mg olanzapine/50 mg fluoxetine | 10+2.5 | 40+10 |
+| 1 Symbyax (olanzapine/fluoxetine HCL) is a fixed-dose combination of fluoxetine and olanzapine. |  |  |
 
 Fluoxetine monotherapy is not indicated for the treatment of depressive episodes associated with Bipolar I Disorder.
 
-## 2.7 Dosing in Specific Populations
+## 2.6 Fluoxetine and Olanzapine in Combination: Treatment Resistant Depression
 
-Treatment of Pregnant Women — When treating pregnant women with fluoxetine, the physician should carefully consider the potential risks and potential benefits of treatment.
-Neonates exposed to SSRIs or SNRIs late in the third trimester have developed complications requiring prolonged hospitalization, respiratory support, and tube feeding [see Use in Specific Populations (8.1)].
+When using fluoxetine and olanzapine in combination, also refer to the Clinical Studies section of the package insert for Symbyax.
+
+Administer fluoxetine in combination with oral olanzapine once daily in the evening, without regard to meals, generally beginning with 5 mg of oral olanzapine and 20 mg of fluoxetine.
+Adjust dosage, if indicated, according to efficacy and tolerability within dose ranges of fluoxetine 20 to 50 mg and oral olanzapine 5 to 20 mg.
+Antidepressant efficacy was demonstrated with olanzapine and fluoxetine in combination with a dose range of olanzapine 6 to 18 mg and fluoxetine 25 to 50 mg.
+
+Safety and efficacy of fluoxetine in combination with olanzapine was determined in clinical trials supporting approval of Symbyax (fixed dose combination of olanzapine and fluoxetine).
+Symbyax is dosed between 3 mg/25 mg (olanzapine/fluoxetine) per day and 12 mg/50 mg (olanzapine/fluoxetine) per day.
+Table 1 demonstrates the appropriate individual component doses of fluoxetine and olanzapine versus Symbyax.
+Adjust dosage, if indicated, with the individual components according to efficacy and tolerability.
+
+Periodically re-examine the need for continued pharmacotherapy.
+Safety of coadministration of doses above 18 mg olanzapine with 75 mg fluoxetine has not been evaluated in clinical studies.
+
+Fluoxetine monotherapy is not indicated for the treatment of treatment resistant depression (Major Depressive Disorder in patients who do not respond to 2 antidepressants of adequate dose and duration in the current episode).
+
+## 2.7 Dosing in Specific Populations
 
 Geriatric — Consider a lower or less frequent dosage for the elderly [see Use in Specific Populations (8.5)].
 
@@ -140,4 +156,4 @@ The patient should be monitored for symptoms of serotonin syndrome for five week
 Therapy with fluoxetine may be resumed 24 hours after the last dose of linezolid or intravenous methylene blue [see Warnings and Precautions (5.2)].
 
 The risk of administering methylene blue by non-intravenous routes (such as oral tablets or by local injection) or in intravenous doses much lower than 1 mg/kg with fluoxetine is unclear.
-The clinician should, nevertheless, be aware of the possibility of emergent symptoms of serotonin syndrome with such use [see Warnings and Precautions (5.2)].
+The healthcare provider should, nevertheless, be aware of the possibility of emergent symptoms of serotonin syndrome with such use [see Warnings and Precautions (5.2)].

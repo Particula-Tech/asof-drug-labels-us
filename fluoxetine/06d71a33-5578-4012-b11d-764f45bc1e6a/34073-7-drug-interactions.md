@@ -46,7 +46,7 @@ In a study of 19 healthy male subjects, which included 6 slow and 13 rapid hydro
 The rate of debrisoquin hydroxylation is felt to depend on the level of CYP2D6 isozyme activity.
 Thus, this study suggests that drugs which inhibit CYP2D6, such as certain SSRIs, including fluoxetine, will produce elevated plasma levels of thioridazine.
 
-Thioridazine administration produces a dose-related prolongation of the QT interval, which is associated with serious ventricular arrhythmias, such as Torsade de Pointes-type arrhythmias, and sudden death.
+Thioridazine administration produces a dose-related prolongation of the QT interval, which is associated with serious ventricular arrhythmias, such as Torsades de Pointes-type arrhythmias, and sudden death.
 This risk is expected to increase with fluoxetine-induced inhibition of thioridazine metabolism.
 
 Drugs Metabolized by CYP2D6 — Fluoxetine inhibits the activity of CYP2D6, and may make individuals with normal CYP2D6 metabolic activity resemble a poor metabolizer.
@@ -83,7 +83,7 @@ These data indicate that fluoxetine’s extent of inhibition of CYP3A4 activity 
 Olanzapine — Fluoxetine (60 mg single dose or 60 mg daily dose for 8 days) causes a small (mean 16%) increase in the maximum concentration of olanzapine and a small (mean 16%) decrease in olanzapine clearance.
 The magnitude of the impact of this factor is small in comparison to the overall variability between individuals, and therefore dose modification is not routinely recommended.
 
-When using fluoxetine and olanzapine in combination, also refer to the Drug Interactions section of the package insert for Symbyax.
+When using fluoxetine and olanzapine and in combination, also refer to the Drug Interactions section of the package insert for Symbyax.
 
 ## 7.8 Drugs that Prolong the QT Interval
 
