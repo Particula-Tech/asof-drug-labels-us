@@ -34,11 +34,11 @@ Hematologic Toxicity
 
 If hematologic recovery from a previous Decitabine for Injection treatment cycle requires more than 6 weeks, delay the next cycle of Decitabine for Injection therapy and reduce Decitabine for Injection dose temporarily by following this algorithm:
 
-- Recovery requiring more than 6, but less than 8 weeks – delay Decitabine for Injection dosing for up to 2 weeks and reduce the dose temporarily to 11 mg/m2 every 8 hours (33 mg/m2/day, 99 mg/m2/cycle) upon restarting therapy.
-- Recovery requiring more than 8, but less than 10 weeks - Perform bone marrow aspirate to assess for disease progression.
+- Recovery requiring more than 6, but less than 8 weeks: delay Decitabine for Injection dosing for up to 2 weeks and reduce the dose temporarily to 11 mg/m2 every 8 hours (33 mg/m2/day, 99 mg/m2/cycle) upon restarting therapy.
+- Recovery requiring more than 8, but less than 10 weeks: Perform bone marrow aspirate to assess for disease progression.
   In the absence of progression, delay Decitabine for Injection dosing for up to 2 more weeks and reduce the dose to 11 mg/m2 every 8 hours (33 mg/m2/day, 99 mg/m2/cycle) upon restarting therapy, then maintain or increase dose in subsequent cycles as clinically indicated.
 
-Non-Hematologic Toxicity
+Non-hematologic Toxicity
 
 Delay subsequent Decitabine for Injection treatment for any the following non-hematologic toxicities and do not restart until toxicities resolve:
 

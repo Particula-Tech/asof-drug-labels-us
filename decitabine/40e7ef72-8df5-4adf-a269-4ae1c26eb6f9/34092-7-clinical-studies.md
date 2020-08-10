@@ -33,14 +33,12 @@ Table 5: Response Criteria for the Controlled Trial in MDS*
 
 | Complete Response (CR) ≥8 weeks | Bone Marrow | On repeat aspirates: < 5% myeloblastsNo dysplastic changes |
 | --- | --- | --- |
-| Peripheral Blood | In all samples during response: Hgb > 11 g/dL (no transfusions or erythropoietin |  |
-|  |  | ANC ≥1500/ µL (no growth factor)Platelets≥ 100,000/ µL (no thrombopoietic agent)No blasts and no dysplasia |
+| Peripheral Blood | In all samples during response: Hgb > 11 g/dL (no transfusions or erythropoietinANC ≥1500/ µL (no growth factor)Platelets≥ 100,000/ µL (no thrombopoietic agent)No blasts and no dysplasia |  |
 | Partial Response (PR) ≥8 weeks | Bone Marrow | On repeat aspirates: ≥ 50% decrease in blasts over pretreatment values ORImprovement to a less advanced MDS FAB classification |
 | Peripheral Blood | Same as for CR |  |
 | * Cheson BD, Bennett JM, et al. Report of an International Working Group to Standardize Response Criteria for MDS. Blood. 2000; 96:3671-3674. |  |  |
 
-The overall response rate (CR+PR) in the ITT population was 17% in Decitabine for Injection-treated patients and 0% in the SC group (p<0.001).
-(see Table 6).
+The overall response rate (CR+PR) in the ITT population was 17% in Decitabine for Injection-treated patients and 0% in the SC group (p<0.001) (see Table 6).
 The overall response rate was 21% (12/56) in Decitabine for Injection-treated patients considered evaluable for response (i.e., those patients with pathologically confirmed MDS at baseline who received at least 2 cycles of treatment).
 The median duration of response (range) for patients who responded to Decitabine for Injection was 288 days (116 to 388) and median time to response (range) was 93 days (55 to 272).
 All but one of the Decitabine for Injection-treated patients who responded did so by the fourth cycle.
@@ -51,9 +49,13 @@ Table 6: Analysis of Response (ITT)
 
 | Parameter | Decitabine for Injection N=89 | Supportive Care N=81 |
 | --- | --- | --- |
-| Overall Response Rate (CR+PR)† Complete Response (CR) Partial Response (PR) | 15 (17%)** 8 (9%) 7 (8%) | 0 (0%) 0 (0%) 0 (0%) |
+| Overall Response Rate (CR+PR)† Complete Response (CR) Partial Response (PR) | 15 (17%)* 8 (9%) 7 (8%) | 0 (0%) 0 (0%) 0 (0%) |
 | Duration of Response Median time to (CR+PR) response - Days (range) Median Duration of (CR+PR) response - Days (range) | 93 (55 to 272) 288 (116 to 388) | NA NA |
-| **p-value <0.001 from two-sided Fisher's Exact Test comparing Decitabine for Injection vs. Supportive Care.†In the statistical analysis plan, a p-value of ≤ 0.024 was required to achieve statistical significance.All patients with a CR or PR were RBC and platelet transfusion independent in the absence of growth factors. Responses occurred in patients with an adjudicated baseline diagnosis of AML. |  |  |
+| *p-value <0.001 from two-sided Fisher's Exact Test comparing Decitabine for Injection vs. Supportive Care.†In the statistical analysis plan, a p-value of ≤ 0.024 was required to achieve statistical significance. |  |  |
+
+All patients with a CR or PR were RBC and platelet transfusion independent in the absence of growth factors.
+
+Responses occurred in patients with an adjudicated baseline diagnosis of AML.
 
 ## 14.2 Single-arm Studies in Myelodysplastic Syndrome
 
@@ -81,4 +83,4 @@ Table 8: Analysis of Response (ITT)*
 | --- | --- |
 | Overall Response Rate (CR+PR) Complete Response (CR) Partial Response (PR) | 16 (16%) 15 (15%) 1 (1%) |
 | Duration of Response Median time to (CR+PR) response - Days (range) Median Duration of (CR+PR) response - Days (range) | 162 (50 to 267) 443 (72 to 722†) |
-| *Cheson BD, Bennett JM, et al. Report of an International Working Group to Standardize Response Criteria for MDS. Blood. 2000; 96:3671-3674.† indicates censored observation |  |
+| *Cheson BD, Bennett JM, et al. Report of an International Working Group to Standardize Response Criteria for MDS. Blood. 2000; 96:3671-3674.†indicates censored observation |  |

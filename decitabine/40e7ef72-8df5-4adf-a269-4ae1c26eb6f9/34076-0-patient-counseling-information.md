@@ -24,4 +24,4 @@ Made in Malta
 Distributed by: Amneal Pharmaceuticals LLC Bridgewater, NJ 08807
 
 Rev.
-04-2020-03
+07-2020-04

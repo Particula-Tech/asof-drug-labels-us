@@ -12,7 +12,7 @@ Perform complete blood count with platelets at baseline, prior to each cycle, an
 Manage toxicity using dose-delay, dose-reduction, growth factors, and anti-infective therapies as needed [see Dosage and Administration (2.2)].
 Myelosuppression and worsening neutropenia may occur more frequently in the first or second treatment cycles, and may not necessarily indicate progression of underlying MDS.
 
-## 5.2 Embryo-fetal Toxicity
+## 5.2 Embryo-Fetal Toxicity
 
 Based on findings from human data, animal studies and its mechanism of action, Decitabine for Injection can cause fatal harm when administered to a pregnant woman [see Clinical Pharmacology (12.1) and Nonclinical Toxicology (13.1)].
 In preclinical studies in mice and rats, decitabine caused adverse developmental outcomes including embryo-fetal lethality and malformations.

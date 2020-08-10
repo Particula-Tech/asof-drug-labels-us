@@ -1,6 +1,6 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-Decitabine for Injection is a sterile, white to almost while lyophilized powder for intravenous use supplied as:
+Decitabine for Injection is a sterile, white to almost white lyophilized powder for intravenous use supplied as:
 
 NDC 70121-1644-1, 50 mg single-dose vial individually packaged in a carton.
 

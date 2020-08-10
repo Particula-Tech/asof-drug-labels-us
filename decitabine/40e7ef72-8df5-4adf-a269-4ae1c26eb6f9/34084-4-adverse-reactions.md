@@ -157,7 +157,7 @@ Table 1: Adverse Reactions Reported in ≥ 5% of Patients in the Decitabine for 
 In a single-arm MDS study (N=99), Decitabine for Injection was dosed at 20 mg/m2 intravenously, infused over one hour daily for 5 consecutive days of a 4-week cycle.
 Table 2 presents all adverse reactions occurring in at least 5% of patients.
 
-Table 2: Adverse Reactions Reported in ≥ 5% of Patients in a Single-arm Study1
+Table 2: Adverse Reactions Reported in ≥ 5% of Patients in a Single-arm Study*
 
 |  | Decitabine for Injection N = 99 (%) |
 | --- | --- |
@@ -255,32 +255,33 @@ Table 2: Adverse Reactions Reported in ≥ 5% of Patients in a Single-arm Study1
 | Vascular disorders |  |
 | Hypertension | 6 (6) |
 | Hypotension | 11 (11) |
-| 1In this single arm study, investigators reported adverse events based on clinical signs and symptoms rather than predefined laboratory abnormalities. Thus, not all laboratory abnormalities were recorded as adverse events. |  |
+| * In this single arm study, investigators reported adverse events based on clinical signs and symptoms rather than predefined laboratory abnormalities. Thus, not all laboratory abnormalities were recorded as adverse events. |  |
 
 No overall difference in safety was detected between patients > 65 years of age and younger patients in these MDS trials.
 No significant differences in safety were detected between males and females.
 Patients with renal or hepatic dysfunction were not studied.
-Insufficient numbers of non-white patients were available to draw conclusions in these clinical trials.
+Insufficient numbers of non-White patients were available to draw conclusions in these clinical trials.
 
 Serious adverse reactions that occurred in patients receiving Decitabine for Injection not previously reported in Tables 1 and 2 include:
 
-- Allergic Reaction: hypersensitivity (anaphylactic reaction).
-- Blood and Lymphatic System Disorders: myelosuppression, splenomegaly.
-- Cardiac Disorders: myocardial infarction, cardio-respiratory arrest, cardiomyopathy, atrial fibrillation, supraventricular tachycardia.
-- Gastrointestinal Disorders: gingival pain, upper gastrointestinal hemorrhage.
-- General Disorders and Administrative Site Conditions: chest pain, catheter site hemorrhage.
-- Hepatobiliary Disorders: cholecystitis.
-- Infections and Infestations: fungal infection, sepsis, bronchopulmonary aspergillosis, peridiverticular abscess, respiratory tract infection, pseudomonal lung infection, Mycobacterium avium complex infection.
-- Injury, Poisoning and Procedural Complications: post procedural pain, post procedural hemorrhage.
-- Nervous System Disorders: intracranial hemorrhage.
-- Psychiatric Disorders: mental status changes.
-- Renal and Urinary Disorders: renal failure, urethral hemorrhage.
-- Respiratory, Thoracic and Mediastinal Disorders: hemoptysis, lung infiltration, pulmonary embolism, respiratory arrest, pulmonary mass.
+- Allergic Reaction: hypersensitivity (anaphylactic reaction)
+- Blood and Lymphatic System Disorders: myelosuppression, splenomegaly
+- Cardiac Disorders: myocardial infarction, cardio-respiratory arrest, cardiomyopathy, atrial fibrillation, supraventricular tachycardia
+- Gastrointestinal Disorders: gingival pain, upper gastrointestinal hemorrhage
+- General Disorders and Administrative Site Conditions: chest pain, catheter site hemorrhage
+- Hepatobiliary Disorders: cholecystitis
+- Infections and Infestations: fungal infection, sepsis, bronchopulmonary aspergillosis, peridiverticular abscess, respiratory tract infection, pseudomonal lung infection, Mycobacterium avium complex infection
+- Injury, Poisoning and Procedural Complications: post procedural pain, post procedural hemorrhage
+- Nervous System Disorders: intracranial hemorrhage
+- Psychiatric Disorders: mental status changes
+- Renal and Urinary Disorders: renal failure, urethral hemorrhage
+- Respiratory, Thoracic and Mediastinal Disorders: hemoptysis, lung infiltration, pulmonary embolism, respiratory arrest, pulmonary mass
 
-## 6.2 Post-marketing Experience
+## 6.2 Postmarketing Experience
 
-The following adverse reactions have been identified during post-approval use of Decitabine for Injection.
+The following adverse reactions have been identified during postapproval use of Decitabine for Injection.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 - Sweet’s Syndrome (acute febrile neutrophilic dermatosis)
 - Differentiation syndrome
+- Interstitial lung disease
