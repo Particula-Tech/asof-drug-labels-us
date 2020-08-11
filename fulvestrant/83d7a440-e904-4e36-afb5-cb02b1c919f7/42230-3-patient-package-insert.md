@@ -10,4 +10,4 @@
 | General information about the safe and effective use of FASLODEXMedicines are sometimes prescribed for purposes other than those listed in a Patient Information leaflet. If you would like more information, talk with your healthcare provider. You can ask your pharmacist or healthcare provider for information about FASLODEX that is written for health professionals. |  |
 | What are the ingredients in FASLODEX?Active ingredient: fulvestrant.Inactive ingredients: alcohol, benzyl alcohol, benzyl benzoate, and castor oil.SafetyGlide™ is a trademark of Becton Dickinson and Company.FASLODEX is a trademark of the AstraZeneca group of companies.© AstraZeneca 2018Distributed by:AstraZeneca Pharmaceuticals LPWilmington, DE 19850Manufactured for:AstraZeneca UK LimitedMacclesfield, Cheshire, EnglandBy: Vetter Pharma-Fertigung GMBH & Co. KGRavensburg, GermanyFor more information, go to www.FASLODEX.com or call 1-800-236-9933. |  |
 
-This Patient Information has been approved by the U.S. Food and Drug Administration Revised: 7/2020
+This Patient Information has been approved by the U.S. Food and Drug Administration Revised: 8/2020
