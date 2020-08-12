@@ -70,7 +70,7 @@ Oral neomycin sulfate may enhance the effect of coumarin in anticoagulants by de
 
 No long-term animal studies have been performed with neomycin sulfate to evaluate carcinogenic or mutagenic potential or impairment of fertility.
 
-## Pregnancy Category D
+## Pregnancy
 
 (See Warnings section.)
 
