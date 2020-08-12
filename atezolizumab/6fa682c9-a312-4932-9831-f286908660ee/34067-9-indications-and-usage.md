@@ -32,3 +32,7 @@ TECENTRIQ, in combination with carboplatin and etoposide, is indicated for the f
 ## 1.5 Hepatocellular Carcinoma
 
 TECENTRIQ, in combination with bevacizumab, is indicated for the treatment of patients with unresectable or metastatic hepatocellular carcinoma (HCC) who have not received prior systemic therapy.
+
+## 1.6 Melanoma
+
+TECENTRIQ, in combination with cobimetinib and vemurafenib, is indicated for the treatment of patients with BRAF V600 mutation-positive unresectable or metastatic melanoma [see Dosage and Administration (2.1)].

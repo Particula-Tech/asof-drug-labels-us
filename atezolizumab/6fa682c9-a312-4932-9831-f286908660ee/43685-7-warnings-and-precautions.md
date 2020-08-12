@@ -17,6 +17,8 @@ Systemic corticosteroids were required in 1.5% of patients, including 0.8% who r
 In clinical studies enrolling 2421 patients with NSCLC and SCLC who received TECENTRIQ in combination with platinum-based chemotherapy [see Adverse Reactions (6.1)], immune-mediated pneumonitis occurred in 5.5% of patients, including Grades 3-4 in 1.4% of patients.
 Systemic corticosteroids were required in 4.2% of patients, including 3.1% who received high-dose corticosteroids (prednisone ≥ 40 mg per day or equivalent) for a median duration of 5 days (1 day to 98 days) followed by a corticosteroid taper.
 
+In a clinical study enrolling 230 patients with unresectable or metastatic BRAF V600 mutation-positive melanoma who received TECENTRIQ in combination with cobimetinib and vemurafenib [see Adverse Reactions (6.1)], immune-mediated pneumonitis occurred in 13% of patients, including Grades 3-4 in 1.3% of patients.
+
 ## 5.2 Immune-Mediated Hepatitis
 
 TECENTRIQ can cause liver test abnormalities and immune-mediated hepatitis, defined as requiring use of systemic corticosteroids.
@@ -33,6 +35,8 @@ Systemic corticosteroids were required in 2% of the patients, with 1.3% requirin
 
 In clinical studies enrolling 2421 patients with NSCLC and SCLC who received TECENTRIQ in combination with platinum-based chemotherapy [see Adverse Reactions (6.1)], immune-mediated hepatitis occurred in 14% of patients, including Grades 3-4 in 4.1% of patients.
 Systemic corticosteroids were required in 4.8% of patients, including 3.4% who received high-dose corticosteroids (prednisone ≥ 40 mg per day or equivalent) for a median duration of 6 days (1 day to 144 days) followed by a corticosteroid taper.
+
+In a clinical study enrolling 230 patients with unresectable or metastatic BRAF V600 mutation-positive melanoma who received TECENTRIQ in combination with cobimetinib and vemurafenib [see Adverse Reactions (6.1)], immune-mediated hepatitis occurred in 53% of patients, including Grades 3-4 in 22%, and Grade 5 in <1% of patients.
 
 ## 5.3 Immune-Mediated Colitis
 
@@ -51,6 +55,8 @@ Systemic corticosteroids were required in 1.1% of patients and high-dose cortico
 In clinical studies enrolling 2421 patients with NSCLC and SCLC who received TECENTRIQ in combination with platinum-based chemotherapy [see Adverse Reactions (6.1)], diarrhea or colitis occurred in 29% of patients, including Grade 3-4 in 4.3% of patients.
 Systemic corticosteroids were required in 4.7% of patients, including 2.9% who received high-dose corticosteroids (prednisone ≥ 40 mg per day or equivalent) for a median duration of 4 days (1 day to 170 days) followed by a corticosteroid taper.
 
+In a clinical study enrolling 230 patients with unresectable or metastatic BRAF V600 mutation-positive melanoma who received TECENTRIQ in combination with cobimetinib and vemurafenib [see Adverse Reactions (6.1)], diarrhea or colitis occurred in 50% of patients, including Grades 3-4 in 3% of patients.
+
 ## 5.4 Immune-Mediated Endocrinopathies
 
 TECENTRIQ can cause immune-mediated endocrinopathies, including thyroid disorders, adrenal insufficiency, and type 1 diabetes mellitus, including diabetic ketoacidosis, and hypophysitis/hypopituitarism.
@@ -63,11 +69,15 @@ In clinical studies enrolling 2616 patients who received TECENTRIQ as a single-a
 Hyperthyroidism occurred in 1.6% of patients.
 One patient experienced acute thyroiditis.
 
+In a clinical study enrolling 230 patients with unresectable or metastatic BRAF V600 mutation-positive melanoma who received TECENTRIQ in combination with cobimetinib and vemurafenib [see Adverse Reactions (6.1)], hypothyroidism occurred in 26% of patients.
+
 In clinical studies enrolling 2421 patients with NSCLC and SCLC who received TECENTRIQ in combination with platinum-based chemotherapy [see Adverse Reactions (6.1)], hypothyroidism occurred in 11% of patients, including Grades 3-4 in 0.3% of patients; 8.2% of the 2421 patients required the use of hormone replacement therapy.
 The frequency and severity of hyperthyroidism and thyroiditis were similar whether TECENTRIQ was given as a single-agent in patients with various cancers or in combination with other antineoplastic drugs in NSCLC and SCLC.
 
+In a clinical study enrolling 230 patients with unresectable or metastatic BRAF V600 mutation-positive melanoma who received TECENTRIQ in combination with cobimetinib and vemurafenib [see Adverse Reactions (6.1)], hyperthyroidism occurred in 19% of patients, including Grades 3-4 in 0.9% of patients.
+
 Adrenal Insufficiency: Monitor patients for clinical signs and symptoms of adrenal insufficiency.
-For Grade 2 or higher adrenal insufficiency, initiate prednisone 1to 2 mg/kg/day or equivalents, followed by a taper and hormone replacement as clinically indicated.
+For Grade 2 or higher adrenal insufficiency, initiate prednisone 1 to 2 mg/kg/day or equivalents, followed by a taper and hormone replacement as clinically indicated.
 Interrupt TECENTRIQ based on the severity [see Dosage and Administration (2.7)].
 
 In clinical studies enrolling 2616 patients who received TECENTRIQ as a single-agent, adrenal insufficiency occurred in 0.4% of patients, including Grade 3 (< 0.1%) adrenal insufficiency.
@@ -135,6 +145,9 @@ In clinical studies enrolling 2616 patients with various cancers who received TE
 In patients with urothelial carcinoma, the most common Grade 3 or higher infection was urinary tract infections, occurring in 6.5% of patients.
 In patients with NSCLC, the most common Grade 3 or higher infection was pneumonia, occurring in 3.8% of patients.
 The frequency and severity of infections were similar whether TECENTRIQ was given as a single-agent in patients with various cancers or in combination with other antineoplastic drugs in NSCLC and SCLC.
+
+In a clinical study enrolling 230 patients with unresectable or metastatic BRAF V600 mutation-positive melanoma who received TECENTRIQ in combination with cobimetinib and vemurafenib [see Adverse Reactions (6.1)], infections occurred in 60% of patients, including Grade 3-4 in 9%, and Grade 5 in 1.7% of patients.
+The most common infection was upper respiratory tract infection.
 
 ## 5.7 Infusion-Related Reactions
 

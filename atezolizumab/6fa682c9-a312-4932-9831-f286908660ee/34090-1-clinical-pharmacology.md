@@ -9,6 +9,8 @@ Atezolizumab is a monoclonal antibody that binds to PD-L1 and blocks its interac
 This releases the PD-L1/PD-1 mediated inhibition of the immune response, including activation of the anti-tumor immune response without inducing antibody-dependent cellular cytotoxicity.
 In syngeneic mouse tumor models, blocking PD-L1 activity resulted in decreased tumor growth.
 
+In mouse models of cancer, dual inhibition of the PD-1/PD-L1 and MAPK pathways suppresses tumor growth and improves tumor immunogenicity through increased antigen presentation and T cell infiltration and activation compared to targeted therapy alone.
+
 ## 12.3 Pharmacokinetics
 
 Patients' exposure to atezolizumab increased dose proportionally over the dose range of 1 mg/kg to 20 mg/kg, including a dose of 1200 mg administered every 3 weeks.
@@ -20,9 +22,7 @@ Atezolizumab clearance was found to decrease over time, with a mean maximal redu
 Specific Populations
 
 Age (21 to 89 years), body weight, sex, albumin levels, tumor burden, region or race, mild or moderate renal impairment [estimated glomerular filtration rate (eGFR) 30 to 89 mL/min/1.73 m2], mild hepatic impairment (bilirubin ≤ ULN and AST > ULN or bilirubin > 1 to 1.5 × ULN and any AST), moderate hepatic impairment (bilirubin >1.5 to 3× ULN and any AST), level of PD-L1 expression, or performance status had no clinically significant effect on the systemic exposure of atezolizumab.
-In OAK, IMpower150 (TECENTRIQ, bevacizumab, paclitaxel, carboplatin arm only), IMpassion130 (TECENTRIQ and paclitaxel protein-bound) and IMbrave150 (TECENTRIQ and bevacizumab), atezolizumab clearance in patients who tested positive for treatment-emergent anti-drug antibodies (ADA) was 25%, 18%, 22% and 49% higher, respectively, as compared to clearance in patients who tested negative for treatment-emergent ADA.
-
-The effect of severe renal impairment or severe hepatic impairment on the pharmacokinetics of atezolizumab is unknown.
+Across clinical trials with TECENTRIQ, median atezolizumab clearance in patients who tested positive for treatment-emergent anti-drug antibodies (ADA) was 22% (range: 18% to 49%) higher as compared to atezolizumab clearance in patients who tested negative for treatment-emergent ADA.
 
 Drug Interaction Studies
 

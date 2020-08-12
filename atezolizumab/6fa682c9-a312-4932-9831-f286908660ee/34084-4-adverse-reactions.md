@@ -23,6 +23,9 @@ In addition, the data reflect exposure to TECENTRIQ in combination with other an
 Among the 2421 patients, 53% were exposed to TECENTRIQ for longer than 6 months and 29% were exposed to TECENTRIQ for longer than 12 months.
 Among the 2421 patients with NSCLC and SCLC who received TECENTRIQ in combination with other antineoplastic drugs, the most common adverse reactions in ≥20% of patients were fatigue/asthenia (49%), nausea (38%), alopecia (35%), constipation (29%), diarrhea (28%) and decreased appetite (27%).
 
+The data also reflect exposure to TECENTRIQ administered in combination with cobimetinib and vemurafenib in 230 patients enrolled in IMspire150.
+Among the 230 patients, 62% were exposed to TECENTRIQ for longer than 6 months and 42% were exposed to TECENTRIQ for longer than 12 months.
+
 Urothelial Carcinoma
 
 Cisplatin-Ineligible Patients with Locally Advanced or Metastatic Urothelial Carcinoma
@@ -384,7 +387,7 @@ Tables 12 and 13 summarize adverse reactions and laboratory abnormalities, respe
 
 Table 12: Adverse Reactions Occurring in ≥10% of Patients with NSCLC Receiving TECENTRIQ in OAK
 
-| All Grades (%) | Grades 3-4 (%) | All Grades (%) | Grades 3-4 (%) |  |
+| All Grades (%) | Grades 3–4 (%) | All Grades (%) | Grades 3–4 (%) |  |
 | --- | --- | --- | --- | --- |
 | Adverse Reaction | TECENTRIQ N = 609 |  | Docetaxel N = 578 |  |
 | General |  |  |  |  |
@@ -408,7 +411,7 @@ Table 12: Adverse Reactions Occurring in ≥10% of Patients with NSCLC Receiving
 
 Table 13: Laboratory Abnormalities Worsening From Baseline Occurring in ≥20% of Patients with NSCLC Receiving TECENTRIQ in OAK
 
-| All Grades (%) | Grades 3-4 (%) | All Grades (%) | Grades 3-4 (%) |  |
+| All Grades (%) | Grades 3–4 (%) | All Grades (%) | Grades 3–4 (%) |  |
 | --- | --- | --- | --- | --- |
 | Laboratory Abnormality | TECENTRIQ |  | Docetaxel |  |
 | Hematology |  |  |  |  |
@@ -650,6 +653,109 @@ Table 19: Laboratory Abnormalities Worsening from Baseline Occurring in ≥20% o
 | Decreased Neutrophil | 23 | 2.3 | 16 | 1.1 |
 | Each test incidence is based on the number of patients who had both baseline and at least one on-study laboratory measurement available: TECENTRIQ plus bevacizumab (222-323) and sorafenib (90-153) NA = Not applicable. |  |  |  |  |
 
+Melanoma
+
+The safety of TECENTRIQ, administered with cobimetinib and vemurafenib was evaluated in IMspire150, a double-blind, randomized (1:1), placebo-controlled study conducted in patients with previously untreated BRAF V600 mutation-positive metastatic or unresectable melanoma [see Clinical Studies (14.5)].
+Patients received TECENTRIQ with cobimetinib and vemurafenib (N=230) or placebo with cobimetinib and vemurafenib (n=281).
+
+Among the 230 patients who received TECENTRIQ administered with cobimetinib and vemurafenib, the median duration of exposure to TECENTRIQ was 9.2 months (range: 0-30 months) to cobimetinib was 10.0 months (range: 1-31 months) and to vemurafenib was 9.8 months (range: 1-31 months).
+
+Fatal adverse reactions occurred in 3% of patients in the TECENTRIQ plus cobimetinib and vemurafenib arm.
+Adverse reactions leading to death were hepatic failure, fulminant hepatitis, sepsis, septic shock, pneumonia, and cardiac arrest.
+
+Serious adverse reactions occurred in 45% of patients in the TECENTRIQ plus cobimetinib and vemurafenib arm.
+The most frequent (≥ 2%) serious adverse reactions were hepatotoxicity (7%), pyrexia (6%), pneumonia (4.3%), malignant neoplasms (2.2%), and acute kidney injury (2.2%).
+
+Adverse reactions leading to discontinuation of TECENTRIQ occurred in 21% of patients in the TECENTRIQ plus cobimetinib and vemurafenib arm.
+The most frequent (≥ 2%) adverse reactions leading to TECENTRIQ discontinuation were increased ALT (2.2%) and pneumonitis (2.6%).
+
+Adverse reactions leading to interruption of TECENTRIQ occurred in 68% of patients in the TECENTRIQ plus cobimetinib and vemurafenib arm.
+The most frequent (≥ 2%) adverse reactions leading to TECENTRIQ interruption were pyrexia (14%), increased ALT (13%), hyperthyroidism (10%), increased AST (10%), increased lipase (9%), increased amylase (7%), pneumonitis (5%), increased CPK (4.3%), diarrhea (3.5%), pneumonia (3.5%), asthenia (3%), rash (3%), influenza (3%), arthralgia (2.6%), fatigue (2.2%), dyspnea (2.2%), cough (2.2%), peripheral edema (2.2%), uveitis (2.2%), bronchitis (2.2%), hypothyroidism (2.2%), and respiratory tract infection (2.2%).
+
+Tables 20 and 21 summarizes the incidence of adverse reactions and laboratory abnormalities in Study IMspire150.
+
+Table 20: Adverse Reactions Occurring in ≥10% of Patients on the TECENTRIQ plus Cobimetinib and Vemurafenib Arm or the Placebo plus Cobimetinib and Vemurafenib Arm and at a Higher Incidence (Between Arm Difference of ≥ 5% All Grades or ≥ 2% Grades 3-4 TECENTRIQ in IMspire150)
+
+| All Grades (%) | Grade 3–4 (%) | All Grades (%) | Grade 3–4 (%) |  |
+| --- | --- | --- | --- | --- |
+| Adverse Reaction | TECENTRIQ in combination with Cobimetinib and Vemurafenib (n=230) |  | Placebo with Cobimetinib and Vemurafenib (n=281) |  |
+| Skin and Subcutaneous Tissue Disorders |  |  |  |  |
+| RashIncludes rash, rash maculo-papular, dermatitis acneiform, rash macular, rash erythematous, eczema, skin exfoliation, rash popular, rash pustular, palmar-plantar erythrodysaesthesia syndrome, dermatitis, dermatitis contact, erythema multiforme, rash pruritic, drug eruption, nodular rash, dermatitis allergic, exfoliative rash, dermatitis exfoliative generalised and rash morbilliform | 75 | 27 | 72 | 23 |
+| Pruritus | 26 | < 1 | 17 | <1 |
+| Photosensitivity reaction | 21 | <1 | 25 | 3.2 |
+| General Disorders and Administration Site Conditions |  |  |  |  |
+| Fatigue Includes fatigue, asthenia and malaise | 51 | 3 | 45 | 1.8 |
+| Pyrexia Includes pyrexia and hyperpyrexia | 49 | 1.7 | 35 | 2.1 |
+| Edema Includes edema peripheral, lymphoedema, oedema, face oedema, eyelid oedema, periorbital oedema, lip oedema and generalised oedema | 26 | <1 | 21 | 0 |
+| Gastrointestinal Disorders |  |  |  |  |
+| Hepatotoxicity Includes alanine aminotransferase increased, aspartate aminotransferase increased, blood bilirubin increased, transaminases increased, hepatitis, hepatic enzyme increased, hepatotoxicity, hypertransaminasaemia, bilirubin conjugated increased, hepatocellular injury, hyperbilirubinaemia, liver function test increased, hepatic failure, hepatitis fulminant and liver function test abnormal | 50 | 21 | 36 | 13 |
+| Nausea | 30 | <1 | 32 | 2.5 |
+| Stomatitis Inlcudes stomatitis, mucosal inflammation, aphthous ulcer, mouth ulceration, cheilitis and glossitis | 23 | 1.3 | 15 | <1 |
+| Musculoskeletal and Connective Tissue Disorders |  |  |  |  |
+| Musculoskeletal pain Includes arthralgia, myalgia, pain in extremity, back pain, musculoskeletal pain, arthritis, neck pain, musculoskeletal chest pain, musculoskeletal stiffness, bone pain, spinal pain, immune-mediated arthritis, joint stiffness and non-cardiac chest pain | 62 | 4.3 | 48 | 3.2 |
+| Endocrine Disorders |  |  |  |  |
+| Hypothyroidism Includes hypothyroidism and blood thyroid stimulating hormone increased | 22 | 0 | 10 | 0 |
+| Hyperthyroidism | 18 | <1 | 8 | 0 |
+| Injury, Poisoning and Procedural Complications |  |  |  |  |
+| Infusion related reaction Includes infusion related reaction and hypersensitivity | 10 | 2.6 | 8 | <1 |
+| Respiratory, Thoracic and Mediastinal Disorders |  |  |  |  |
+| Pneumonitis Includes pneumonitis and interstitial lung disease | 12 | 1.3 | 6 | <1 |
+| Vascular Disorders |  |  |  |  |
+| Hypertension Includes hypertension, blood pressure increased, hypertensive crisis | 17 | 10 | 18 | 7 |
+
+Clinically important adverse reactions in < 10% of patients who received TECENTRIQ plus cobimetinib and vemurafenib were:
+
+Cardiac Disorders: Arrhythmias, ejection fraction decreased, electrocardiogram QT prolonged
+
+Eye Disorders: Uveitis
+
+Gastrointestinal disorders: Pancreatitis
+
+Infections and infestations: Pneumonia, urinary tract infection
+
+Metabolism and nutrition disorders: Hyperglycemia
+
+Nervous system Disorders: Dizziness, dysgeusia, syncope
+
+Respiratory, thoracic and mediastinal disorders: Dyspnea, oropharyngeal pain
+
+Skin and Subcutaneous Tissue Disorders: Vitiligo
+
+Table 21: Laboratory Abnormalities Worsening from Baseline Occurring in ≥20% of Patients Receiving TECENTRIQ plus Cobimetinib and Vemurafenib Arm or the Placebo plus Cobimetinib and Vemurafenib Arm and at a Higher Incidence (Between Arm Difference of ≥ 5% All Grades or ≥ 2% Grades 3-4) in IMspire150
+
+| All Grades (%) | Grade 3–4 (%) | All Grades (%) | Grade 3–4 (%) |  |
+| --- | --- | --- | --- | --- |
+| Laboratory Abnormality | TECENTRIQ in combination with Cobimetinib and Vemurafenib (n=230) |  | Placebo with Cobimetinib and Vemurafenib (n=281) |  |
+| Hematology |  |  |  |  |
+| Decreased Lymphocytes | 80 | 24 | 72 | 17 |
+| Decreased Hemoglobin | 77 | 2.6 | 72 | 2.2 |
+| Decreased Platelet | 34 | 1.3 | 24 | 0.4 |
+| Decreased Neutrophils | 26 | 2.2 | 19 | 1.5 |
+| Chemistry |  |  |  |  |
+| Increased Creatine Kinase | 88 | 22 | 81 | 18 |
+| Increased AST | 80 | 13 | 68 | 6 |
+| Increased ALT | 79 | 18 | 62 | 12 |
+| Increased Triacylglycerol Lipase | 75 | 46 | 62 | 35 |
+| Increased Alkaline Phosphatase | 73 | 6 | 63 | 2.9 |
+| Decreased Phosphorus | 67 | 22 | 64 | 14 |
+| Increased Amylase | 51 | 13 | 45 | 13 |
+| Increased Blood Urea Nitrogen | 47 | NANA= Not applicable. NCI CTCAE v4.0 does not include these laboratories. | 37 | NA |
+| Decreased Albumin | 43 | 0.9 | 34 | 1.5 |
+| Increased Bilirubin | 42 | 3.1 | 33 | 0.7 |
+| Decreaed Calcium | 41 | 1.3 | 28 | 0 |
+| Decreased Sodium | 40 | 5 | 34 | 7 |
+| Decreased Thyroid-Stimulating Hormone | 38 | NA | 23 | NA |
+| Increased Thyroid-Stimulating Hormone Increased Thyroid Stimulating Hormone has a difference <5% (All Grades) between arm and is included for clinical completeness. | 37 | NA | 33 | NA |
+| Decreased Potassium | 36 | 5 | 22 | 4.3 |
+| Increased Triiodothyronine | 33 | NA | 8 | NA |
+| Increased Free Thyroxine | 32 | NA | 21 | NA |
+| Decreased Total Triiodothyronine | 32 | NA | 8 | NA |
+| Increased Potassium | 29 | 1.3 | 19 | 1.4 |
+| Decreased Triiodothyronine | 27 | NA | 21 | NA |
+| Increased Sodium | 20 | 0 | 13 | 0.4 |
+| Graded per NCI CTCAE v4.0. |  |  |  |  |
+| Each test incidence is based on the number of patients who had both baseline and at least one on-study laboratory measurement available: TECENTRIQ plus cobimetinib and vemurafenib (28-277), placebo plus cobimetinib and vemurafenib arm (25-230). |  |  |  |  |
+
 ## 6.2 Immunogenicity
 
 As with all therapeutic proteins, there is a potential for immunogenicity.
@@ -685,3 +791,7 @@ The ability of these binding ADA to neutralize atezolizumab is unknown.
 Patients who tested positive for treatment-emergent ADA had lower systemic atezolizumab exposure as compared to patients who were ADA-negative [see Clinical Pharmacology (12.3)].
 Exploratory analyses showed that the subset of patients who were ADA-positive by week 6 (20%; 58/288) appeared to have less efficacy (effect on overall survival) as compared to patients who tested negative for treatment-emergent ADA by week 6; [see Clinical Studies (14.5)].
 The presence of ADA did not have a clinically significant effect on the incidence or severity of adverse reactions.
+
+Among 218 ADA-evaluable patients with melanoma who received TECENTRIQ in combination with cobimetinib and vemurafenib in IMspire150, 13% (n=29) tested positive for treatment-emergent ADA at one or more post-dose time points.
+Patients who tested positive for treatment-emergent ADA had decreased systemic atezolizumab exposure [see Clinical Pharmacology (12.3)].
+There are insufficient numbers of patients with positive ADA to determine whether ADA alters the efficacy or incidence or severity of adverse reactions.

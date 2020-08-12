@@ -55,5 +55,5 @@ The safety and effectiveness of TECENTRIQ have not been established in pediatric
 
 ## 8.5 Geriatric Use
 
-Of 2810 patients with urothelial carcinoma, lung cancer, triple-negative breast cancer, and hepatocellular carcinoma who were treated with TECENTRIQ in clinical studies, 45% were 65 years and over and 12% were 75 years and over.
+Of 3040 patients with urothelial carcinoma, lung cancer, triple-negative breast cancer, hepatocellular carcinoma, and melanoma who were treated with TECENTRIQ in clinical studies, 43% were 65 years and over and 12% were 75 years and over.
 No overall differences in safety or effectiveness were observed between patients aged 65 years or older and younger patients.
