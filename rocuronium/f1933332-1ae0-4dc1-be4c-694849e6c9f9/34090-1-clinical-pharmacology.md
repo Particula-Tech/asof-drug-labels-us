@@ -178,10 +178,3 @@ TABLE 10: Mean (SD) Pharmacokinetic Parameters of Rocuronium in Pediatric Patien
 | CL (L/kg/hr) | 0.31 (0.07) | 0.30 (0.08) | 0.33 (0.10) | 0.35 (0.09) | 0.29 (0.14) |
 | Volume of Distribution (L/kg) | 0.42 (0.06) | 0.31 (0.03) | 0.23 (0.03) | 0.18 (0.02) | 0.18 (0.01) |
 | t 1/2 β (hr) | 1.1 (0.2) | 0.9 (0.3) | 0.8 (0.2) | 0.7 (0.2) | 0.8 (0.3) |
-
-# 13 NONCLINICAL TOXICOLOGY
-
-## 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
-
-Studies in animals have not been performed with rocuronium bromide to evaluate carcinogenic potential or impairment of fertility.
-Mutagenicity studies (Ames test, analysis of chromosomal aberrations in mammalian cells, and micronucleus test) conducted with rocuronium bromide did not suggest mutagenic potential.

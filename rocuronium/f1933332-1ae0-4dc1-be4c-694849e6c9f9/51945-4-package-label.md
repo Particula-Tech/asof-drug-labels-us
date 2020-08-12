@@ -35,3 +35,15 @@ For intravenous use.
 Multiple Dose Vials
 
 Rx only
+
+PACKAGE LABEL - PRINCIPAL DISPLAY - Sticker Label
+
+PARALYZING AGENT
+
+Rocuronium Bromide Injection
+
+10 mg per mL
+
+For intravenous use.
+
+Rx only
