@@ -64,11 +64,11 @@ The coadministration of DOVATO and other drugs may result in known or potentiall
 - •Possible clinically significant adverse reactions from greater exposures of coadministered drugs.
 
 See Table 5 for steps to prevent or manage these possible and known significant drug interactions, including dosing recommendations.
-Consider the potential for drug interactions prior to and during therapy with DOVATO; review coadministered drugs during therapy with DOVATO; and monitor for the adverse reactions associated with the coadministered drugs.
+Consider the potential for drug interactions prior to and during therapy with DOVATO; review coadministered drugs during therapy with DOVATO, and monitor for the adverse reactions associated with the coadministered drugs.
 
 ## 5.7 Immune Reconstitution Syndrome
 
 Immune reconstitution syndrome has been reported in patients treated with combination antiretroviral therapy, including DOVATO.
 During the initial phase of combination antiretroviral treatment, patients whose immune systems respond may develop an inflammatory response to indolent or residual opportunistic infections (such as Mycobacterium avium infection, cytomegalovirus, Pneumocystis jirovecii pneumonia [PCP], or tuberculosis), which may necessitate further evaluation and treatment.
 
-Autoimmune disorders (such as Graves’ disease, polymyositis, and Guillain-Barré syndrome) have also been reported to occur in the setting of immune reconstitution; however, the time to onset is more variable, and can occur many months after initiation of treatment.
+Autoimmune disorders (such as Graves’ disease, polymyositis, and Guillain-Barré syndrome) have also been reported to occur in the setting of immune reconstitution; however, the time to onset is more variable and can occur many months after initiation of treatment.

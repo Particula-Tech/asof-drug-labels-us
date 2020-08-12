@@ -1,6 +1,6 @@
 # 11 DESCRIPTION
 
-DOVATO is a fixed-dose combination tablet containing dolutegravir (as dolutegravir sodium), an INSTI, and lamivudine (also known as 3TC), an NRTI.
+DOVATO is a fixed-dose combination tablet containing dolutegravir (as dolutegravir sodium), an integrase strand transfer inhibitor (INSTI), and lamivudine (also known as 3TC), a nucleoside analogue reverse transcriptase inhibitor (NRTI).
 
 DOVATO tablets are for oral administration.
 Each film-coated tablet contains the active ingredients 50 mg of dolutegravir (equivalent to 52.6 mg dolutegravir sodium) and 300 mg of lamivudine and the inactive ingredients magnesium stearate, mannitol, microcrystalline cellulose, povidone K29/32, sodium starch glycolate, sodium stearyl fumarate.

@@ -28,7 +28,7 @@ Multiple-Dose Pharmacokinetic Parameters of the Components of DOVATO
 | Cmax (mcg/mL) | 3.67 (20%) | 2.04 (26%) |
 | Ctrough (mcg/mL) | 1.11 (46%) | 0.042 (38%) |
 | AUCtau (mcg/h/mL) | 53.6 (27%) | 8.87 (21%) |
-| a Based on dolutegravir 50-mg once-daily dosage administered to antiretroviral (ART) treatment-naive adults. b Based on lamivudine 300-mg once-daily dosage administered to healthy subjects. Cmax = Maximum concentration; Ctrough = Lowest concentration before administration of the next dose; AUCtau = Area under the concentration-time curve integrated across the dosing interval. |  |  |
+| a Based on dolutegravir 50-mg once-daily dosage administered to antiretroviral treatment-naive adults. b Based on lamivudine 300-mg once-daily dosage administered to healthy subjects. Cmax = Maximum concentration; Ctrough = Lowest concentration before administration of the next dose; AUCtau = Area under the concentration-time curve integrated across the dosing interval. |  |  |
 
 The absorption, distribution, and elimination pharmacokinetic parameters of the components of DOVATO are provided in Table 7.
 
@@ -175,7 +175,11 @@ Lamivudine: HIV-1 resistance to lamivudine involves the development of a M184V o
 This variant arises both in cell culture and in HIV-1–infected patients treated with lamivudine-containing antiretroviral therapy.
 Substitutions M184V or I confer high-level resistance to lamivudine.
 
-Clinical Subjects: At Week 48, none of the 6 subjects in the dolutegravir plus lamivudine group or the 4 subjects in the dolutegravir plus TDF/FTC group who met the protocol-defined confirmed virologic withdrawal criteria across the pooled GEMINI-1 and GEMINI-2 trials had emergent INSTI- or NRTI-resistance substitutions.
+Clinical Subjects: At Week 96, none of the 11 subjects in the dolutegravir plus lamivudine group or the 7 subjects in the dolutegravir plus TDF/FTC group who met the protocol-defined confirmed virologic withdrawal criteria across the pooled GEMINI-1 and GEMINI-2 trials had emergent INSTI- or NRTI-resistance substitutions.
+
+No subject who received DOVATO in the TANGO trial met the protocol-defined confirmed virologic withdrawal criteria through Week 48.
+No emergent INSTI- or NRTI-resistance was detected by genotypic or phenotypic analyses of the last on-treatment isolate from one subject who received DOVATO with HIV-1 RNA ≥400 copies/mL at withdrawal.
+No emergent resistance was detected by genotypic or phenotypic analyses of HIV-1 integrase, protease, or reverse transcriptase at the time of virologic failure in one subject in the TBR arm who met the confirmed virologic withdrawal criteria.
 
 Cross-Resistance
 

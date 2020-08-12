@@ -7,7 +7,7 @@ Information regarding potential drug-drug interactions with other antiretroviral
 
 ## 7.2 Potential for DOVATO to Affect Other Drugs
 
-Dolutegravir, a component of DOVATO, inhibits the renal OCT2 and multidrug and toxin extrusion transporter (MATE)1; thus, it may increase plasma concentrations of drugs eliminated via OCT2 or MATE1 such as dofetilide, dalfampridine, and metformin [see Contraindications (4), Drug Interactions (7.4), Clinical Pharmacology (12.3)].
+Dolutegravir, a component of DOVATO, inhibits the renal organic cation transporters (OCT)2 and multidrug and toxin extrusion transporter (MATE)1; thus, it may increase plasma concentrations of drugs eliminated via OCT2 or MATE1 such as dofetilide, dalfampridine, and metformin [see Contraindications (4), Drug Interactions (7.4), Clinical Pharmacology (12.3)].
 
 ## 7.3 Potential for Other Drugs to Affect the Components of DOVATO
 

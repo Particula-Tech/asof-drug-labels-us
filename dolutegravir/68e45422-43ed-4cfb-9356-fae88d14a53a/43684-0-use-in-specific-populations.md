@@ -31,14 +31,14 @@ Data
 Human Data: Dolutegravir: In a birth outcome surveillance study in Botswana, there were 5 cases of neural tube defects reported out of 1,683 deliveries (0.3%) to women who were exposed to dolutegravir-containing regimens at the time of conception.
 In comparison, the neural tube defect prevalence rates were 0.1% (15/14,792 deliveries) in the non-dolutegravir arm and 0.08% (70/89,372 deliveries) in the HIV-uninfected arm.
 Five cases reported with dolutegravir included one case each of encephalocele, anencephaly, and iniencephaly, and 2 cases of myelomeningocele.
-In the same study, one infant out of 3,840 (0.03%) deliveries to woman who started dolutegravir during pregnancy had a neural tube defect, compared with 3 infants out of 5,952 (0.05%) deliveries to women who started non-dolutegravir-containing regimens during pregnancy.
+In the same study, one infant out of 3,840 (0.03%) deliveries to women who started dolutegravir during pregnancy had a neural tube defect, compared with 3 infants out of 5,952 (0.05%) deliveries to women who started non-dolutegravir-containing regimens during pregnancy.
 
 Data analyzed to date from other sources including the APR, clinical trials, and postmarketing data are insufficient to address the risk of neural tube defects with dolutegravir.
 
 Data from the birth outcome surveillance study described above and postmarketing sources with more than 1,000 pregnancy outcomes from second and third trimester exposure in pregnant women indicate no evidence of increased risk of adverse birth outcomes.
 
 Lamivudine: Based on prospective reports to the APR of over 12,000 exposures to lamivudine during pregnancy resulting in live births (including over 5,000 exposed in the first trimester), there was no difference between the overall risk of birth defects for lamivudine compared with the background birth defect rate of 2.7% in the U.S. reference population of the Metropolitan Atlanta Congenital Defects Program (MACDP).
-The prevalence of defects in live births was 3.0% (95% CI: 2.6% to 3.5%) following first trimester exposure to lamivudine-containing regimens and 2.9% (95% CI: 2.5%, 3.3%) following second/third trimester exposure to lamivudine-containing regimens.
+The prevalence of defects in live births was 3.0% (95% CI: 2.6% to 3.5%) following first trimester exposure to lamivudine-containing regimens and 2.9% (95% CI: 2.5% to 3.3%) following second/third trimester exposure to lamivudine-containing regimens.
 
 Lamivudine pharmacokinetics were studied in pregnant women during 2 clinical trials conducted in South Africa.
 The trials assessed pharmacokinetics in 16 women at 36 weeks’ gestation using lamivudine 150 mg twice daily with zidovudine, 10 women at 38 weeks’ gestation using lamivudine 150 mg twice daily with zidovudine, and 10 women at 38 weeks’ gestation using lamivudine 300 mg twice daily without other antiretrovirals.
@@ -52,12 +52,12 @@ No adverse effects on embryo-fetal (rats and rabbits) or pre/postnatal (rats) de
 During organogenesis, systemic exposures (AUC) to dolutegravir in rabbits were less than the exposure in humans at the RHD and in rats were approximately 50 times the exposure in humans at the RHD.
 In the rat pre/postnatal development study, decreased body weight of the developing offspring was observed during lactation at a maternally toxic dose (approximately 50 times human exposure at the RHD).
 
-Lamivudine: Lamivudine was administered orally to pregnant rats (at 90, 600, and 4,000 mg/kg/day) and rabbits (at 90, 300 and 1,000 mg/kg/day and at 15, 40, and 90 mg/kg/day) during organogenesis (on Gestation Days 7 through 16 [rat] and 8 through 20 [rabbit]).
-No evidence of fetal malformations due to lamivudine was observed in rats and rabbits at doses producing plasma concentrations (Cmax) approximately 35 times higher than human exposure at the RHD.
-Evidence of early embryolethality was seen in the rabbit at systemic exposures (AUC) similar to those observed in humans, but there was no indication of this effect in the rat at plasma concentrations (Cmax) 35 times higher than human exposure at the RHD.
-Studies in pregnant rats showed that lamivudine is transferred to the fetus through the placenta.
-In the fertility/pre- and postnatal development study in rats, lamivudine was administered orally at doses of 180, 900, and 4,000 mg/kg/day (from prior to mating through Postnatal Day 20).
-In the study, development of the offspring, including fertility and reproductive performance, was not affected by the maternal administration of lamivudine.
+1. Lamivudine: Lamivudine was administered orally to pregnant rats (at 90, 600, and 4,000 mg/kg/day) and rabbits (at 90, 300 and 1,000 mg/kg/day and at 15, 40, and 90 mg/kg/day) during organogenesis (on Gestation Days 7 through 16 [rat] and 8 through 20 [rabbit]).
+   No evidence of fetal malformations due to lamivudine was observed in rats and rabbits at doses producing plasma concentrations (Cmax) approximately 35 times higher than human exposure at the RHD.
+   Evidence of early embryolethality was seen in the rabbit at systemic exposures (AUC) similar to those observed in humans, but there was no indication of this effect in the rat at plasma concentrations (Cmax) 35 times higher than human exposure at the RHD.
+   Studies in pregnant rats showed that lamivudine is transferred to the fetus through the placenta.
+   In the fertility/pre- and postnatal development study in rats, lamivudine was administered orally at doses of 180, 900, and 4,000 mg/kg/day (from prior to mating through Postnatal Day 20).
+   In the study, development of the offspring, including fertility and reproductive performance, was not affected by the maternal administration of lamivudine.
 
 ## 8.2 Lactation
 
