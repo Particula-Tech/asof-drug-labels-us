@@ -2,6 +2,8 @@
 
 ## 5.1 Skeletal Muscle
 
+A history of renal impairment may be a risk factor for the development of rhabdomyolysis.
+Such patients merit closer monitoring for skeletal muscle effects.
 Rare cases of rhabdomyolysis with acute renal failure secondary to myoglobinuria have been reported with atorvastatin calcium and with other drugs in this class.
 A history of renal impairment may be a risk factor for the development of rhabdomyolysis.
 Such patients merit closer monitoring for skeletal muscle effects.
@@ -10,9 +12,12 @@ Atorvastatin, like other statins, occasionally causes myopathy, defined as muscl
 The concomitant use of higher doses of atorvastatin with certain drugs such as cyclosporine and strong cytochrome P450 3A4 (CYP3A4) inhibitors (e.g., clarithromycin, itraconazole, and HIV and HCV protease inhibitors) increases the risk of myopathy/rhabdomyolysis.
 
 There have been rare reports of immune-mediated necrotizing myopathy (IMNM), an autoimmune myopathy, associated with statin use.
+IMNM is characterized by: proximal muscle weakness and elevated serum creatine kinase, which persist despite discontinuation of statin treatment; muscle biopsy showing necrotizing myopathy without significant inflammation; improvement with immunosuppressive agents.There have been rare reports of immune-mediated necrotizing myopathy (IMNM), an autoimmune myopathy, associated with statin use.
 IMNM is characterized by: proximal muscle weakness and elevated serum creatine kinase, which persist despite discontinuation of statin treatment; muscle biopsy showing necrotizing myopathy without significant inflammation; improvement with immunosuppressive agents.
 
 Myopathy should be considered in any patient with diffuse myalgias, muscle tenderness or weakness, and/or marked elevation of CPK.
+Patients should be advised to report promptly unexplained muscle pain, tenderness, or weakness, particularly if accompanied by malaise or fever or if muscle signs and symptoms persist after discontinuing atorvastatin calcium.
+Atorvastatin calcium therapy should be discontinued if markedly elevated CPK levels occur or myopathy is diagnosed or suspected.Myopathy should be considered in any patient with diffuse myalgias, muscle tenderness or weakness, and/or marked elevation of CPK.
 Patients should be advised to report promptly unexplained muscle pain, tenderness, or weakness, particularly if accompanied by malaise or fever or if muscle signs and symptoms persist after discontinuing atorvastatin calcium.
 Atorvastatin calcium therapy should be discontinued if markedly elevated CPK levels occur or myopathy is diagnosed or suspected.
 
@@ -21,7 +26,7 @@ Physicians considering combined therapy of atorvastatin calcium with any of thes
 Lower starting and maintenance doses of atorvastatin should be considered when taken concomitantly with the aforementioned drugs [see Drug Interactions (7)].
 Periodic creatine phosphokinase (CPK) determinations may be considered in such situations, but there is no assurance that such monitoring will prevent the occurrence of severe myopathy.
 
-Prescribing recommendations for interacting agents are summarized in Table 2 [see Dosage and Administration (2.6), Drug Interactions (7), and Clinical Pharmacology (12.3)].
+Prescribing recommendations for interacting agents are summarized in Table 2 Prescribing recommendations for interacting agents are summarized in Table 2 [see Dosage and Administration (2.6), Drug Interactions (7), and Clinical Pharmacology (12.3)].
 
 Table 2.
 Drug Interactions Associated with Increased Risk of Myopathy/Rhabdomyolysis

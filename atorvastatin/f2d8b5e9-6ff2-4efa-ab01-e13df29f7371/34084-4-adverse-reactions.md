@@ -18,7 +18,7 @@ The most commonly reported adverse reactions (incidence ≥ 2% and greater than 
 Table 3 summarizes the frequency of clinical adverse reactions, regardless of causality, reported in ≥ 2% and at a rate greater than placebo in patients treated with atorvastatin calcium (n=8,755), from seventeen placebo-controlled trials.
 
 Table 3.
-Clinical adverse reactions occurring in > 2% in patents treated with any dose of atorvastatin calcium and at an incidence greater than placebo regardless of causality (% of patients).
+Clinical adverse reactions occurring in > 2% in patients treated with any dose of atorvastatin calcium and at an incidence greater than placebo regardless of causality (% of patients).
 
 | Adverse Reaction* | Any dose N=8755 | 10 mg N=3908 | 20 mg N=188 | 40 mg N=604 | 80 mg N=4055 | Placebo N=7311 |
 | --- | --- | --- | --- | --- | --- | --- |

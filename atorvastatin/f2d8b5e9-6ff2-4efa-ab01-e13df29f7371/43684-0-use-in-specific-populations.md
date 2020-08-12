@@ -6,7 +6,7 @@ Risk Summary Atorvastatin calcium is contraindicated for use in pregnant women s
 Because HMG-CoA reductase inhibitors decrease cholesterol synthesis and possibly the synthesis of other biologically active substances derived from cholesterol, atorvastatin calcium may cause fetal harm when administered to a pregnant woman.
 Atorvastatin calcium should be discontinued as soon as pregnancy is recognized [see Contraindications (4)].
 Limited published data on the use of atorvastatin are insufficient to determine a drug-associated risk of major congenital malformations or miscarriage.
-In animal reproduction studies in rats and rabbits there was no evidence of embryo-fetal toxicity or congenital malformations at doses up to 30 and 20 times, respectively, the human exposure at the maximum recommended human dose (MRHD) of 80 mg, based on body surface area (mg/m2).
+In animal reproduction studies in rats and rabbits there was no evidence of embryo-fetal toxicity or congenital malformations at doses up to 30 and 20 times, respectively, the human exposure at the maximum recommended human dose (MRHD) of 80 mg, based on body surface area (mg/m 2).
 In rats administered atorvastatin during gestation and lactation, decreased postnatal growth and development was observed at doses ≥ 6 times the MRHD (see Data).
 
 The estimated background risk of major birth defects and miscarriage for the indicated population is unknown.
@@ -21,7 +21,7 @@ In 89% of the prospectively followed pregnancies, drug treatment was initiated p
 Animal Data Atorvastatin crosses the rat placenta and reaches a level in fetal liver equivalent to that of maternal plasma.
 Atorvastatin was administered to pregnant rats and rabbits during organogenesis at oral doses up to 300 mg/kg/day and 100 mg/kg/day, respectively.
 Atorvastatin was not teratogenic in rats at doses up to 300 mg/kg/day or in rabbits at doses up to 100 mg/kg/day.
-These doses resulted in multiples of about 30 times (rat) or 20 times (rabbit) the human exposure at the MRHD based on surface area (mg/m2).
+These doses resulted in multiples of about 30 times (rat) or 20 times (rabbit) the human exposure at the MRHD based on surface area (mg/m 2).
 In rats, the maternally toxic dose of 300 mg/kg resulted in increased post-implantation loss and decreased fetal bodyweight.
 At the maternally toxic doses of 50 mg/kg/day and 100 mg/kg/day in rabbits, there was increased post-implantation loss, and at 100 mg/kg/day fetal bodyweights were decreased.
 
@@ -56,15 +56,14 @@ Use of atorvastatin calcium for this indication is supported by evidence from [s
 - A placebo-controlled clinical trial of 6 months duration in 187 boys and postmenarchal girls, 10 years to 17 years of age.
   Patients treated with 10 mg or 20 mg daily atorvastatin calcium had an adverse reaction profile generally similar to that of patients treated with placebo.
   In this limited controlled study, there was no significant effect on growth or sexual maturation in boys or on menstrual cycle length in girls.
+- A three year open-label uncontrolled trial that included 163 pediatric patients 10 to 15 years of age with HeFH who were titrated to achieve a target LDL-C < 130 mg/dL.
+  The safety and efficacy of atorvastatin calcium in lowering LDL-C appeared generally consistent with that observed for adult patients, despite limitations of the uncontrolled study design.
 
 Advise postmenarchal girls of contraception recommendations, if appropriate for the patient [see Use in Specific Populations (8.1), (8.3)].
 
 The long-term efficacy of atorvastatin calcium therapy initiated in childhood to reduce morbidity and mortality in adulthood has not been established.
 
 The safety and efficacy of atorvastatin calcium have not been established in pediatric patients younger than 10 years of age with HeFH.
-
-Additional pediatric use information is approved for Pfizer’s LIPITOR (atorvastatin calcium) tablets.
-However, due to Pfizer’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
 
 Homozygous Familial Hypercholesterolemia (HoFH)
 

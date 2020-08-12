@@ -48,7 +48,7 @@ The overall risk reduction was consistent regardless of age (< 65, ≥ 65) or ge
 TABLE 6.
 Overview of Efficacy Results in TNT
 
-| Endpoint | Atorvastatin 10 mg (N=5006) |  | Atorvastatin 80 mg (N=4995) |  | HRa (95%CI) |
+| Endpoint | Atorvastatin 10 mg (N=5006) |  | Atorvastatin 80 mg (N=4995) |  | HR a (95%CI) |
 | --- | --- | --- | --- | --- | --- |
 | PRIMARY ENDPOINT | n | (%) | n | (%) |  |
 | First major cardiovascular endpoint | 548 | (10.9) | 434 | (8.7) | 0.78 (0.69, 0.89) |
@@ -60,8 +60,8 @@ Overview of Efficacy Results in TNT
 | SECONDARY ENDPOINTS* |  |  |  |  |  |
 | First CHF with hospitalization | 164 | (3.3) | 122 | (2.4) | 0.74 (0.59, 0.94) |
 | First PVD endpoint | 282 | (5.6) | 275 | (5.5) | 0.97 (0.83, 1.15) |
-| First CABG or other coronary revascularization procedureb | 904 | (18.1) | 667 | (13.4) | 0.72 (0.65, 0.80) |
-| First documented angina endpointb | 615 | (12.3) | 545 | (10.9) | 0.88 (0.79, 0.99) |
+| First CABG or other coronary revascularization procedure b | 904 | (18.1) | 667 | (13.4) | 0.72 (0.65, 0.80) |
+| First documented angina endpoint b | 615 | (12.3) | 545 | (10.9) | 0.88 (0.79, 0.99) |
 | All-cause mortality | 282 | (5.6) | 284 | (5.7) | 1.01 (0.85, 1.19) |
 | Components of All-Cause Mortality |  |  |  |  |  |
 | Cardiovascular death | 155 | (3.1) | 126 | (2.5) | 0.81 (0.64, 1.03) |
@@ -107,7 +107,7 @@ In two multicenter, placebo-controlled, dose-response studies in patients with h
 (Pooled results are provided in Table 7.)
 
 Table 7.
-Dose Response in Patients With Primary Hyperlipidemia (Adjusted Mean % Change From Baseline)a
+Dose Response in Patients With Primary Hyperlipidemia (Adjusted Mean % Change From Baseline) a
 
 | Dose | N | TC | LDL-C | Apo B | TG | HDL-C | Non-HDL- C/ HDL-C |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -131,17 +131,17 @@ Mean Percentage Change From Baseline at Endpoint (Double-Blind, Randomized, Acti
 | Treatment (Daily Dose) | N | Total-C | LDL-C | Apo B | TG | HDL-C | Non-HDL-C/ HDL-C |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Study 1 |  |  |  |  |  |  |  |
-| Atorvastatin calcium 10 mg | 707 | -27a | -36a | -28a | -17a | +7 | -37a |
+| Atorvastatin calcium 10 mg | 707 | -27 a | -36 a | -28 a | -17 a | +7 | -37 a |
 | Lovastatin 20 mg | 191 | -19 | -27 | -20 | -6 | +7 | -28 |
-| 95% CI for Diff1 |  | -9.2, -6.5 | -10.7, -7.1 | -10.0, -6.5 | -15.2, -7.1 | -1.7, 2.0 | -11.1, -7.1 |
+| 95% CI for Diff 1 |  | -9.2, -6.5 | -10.7, -7.1 | -10.0, -6.5 | -15.2, -7.1 | -1.7, 2.0 | -11.1, -7.1 |
 | Study 2 |  |  |  |  |  |  |  |
-| Atorvastatin calcium 10 mg | 222 | -25b | -35b | -27b | -17b | +6 | -36b |
+| Atorvastatin calcium 10 mg | 222 | -25 b | -35 b | -27 b | -17 b | +6 | -36 b |
 | Pravastatin 20 mg | 77 | -17 | -23 | -17 | -9 | +8 | -28 |
-| 95% CI for Diff1 |  | -10.8, -6.1 | -14.5, -8.2 | -13.4, -7.4 | -14.1, -0.7 | -4.9, 1.6 | -11.5, -4.1 |
+| 95% CI for Diff 1 |  | -10.8, -6.1 | -14.5, -8.2 | -13.4, -7.4 | -14.1, -0.7 | -4.9, 1.6 | -11.5, -4.1 |
 | Study 3 |  |  |  |  |  |  |  |
-| Atorvastatin calcium 10 mg | 132 | -29c | -37c | -34c | -23c | +7 | -39c |
+| Atorvastatin calcium 10 mg | 132 | -29 c | -37 c | -34 c | -23 c | +7 | -39 c |
 | Simvastatin 10 mg | 45 | -24 | -30 | -30 | -15 | +7 | -33 |
-| 95% CI for Diff1 |  | -8.7, -2.7 | -10.1, -2.6 | -8.0, -1.1 | -15.1, -0.7 | -4.3, 3.9 | -9.6, -1.9 |
+| 95% CI for Diff 1 |  | -8.7, -2.7 | -10.1, -2.6 | -8.0, -1.1 | -15.1, -0.7 | -4.3, 3.9 | -9.6, -1.9 |
 
 1 A negative value for the 95% CI for the difference between treatments favors atorvastatin calcium for all except HDL-C, for which a positive value favors atorvastatin calcium.
 If the range does not include 0, this indicates a statistically significant difference. a Significantly different from lovastatin, ANCOVA, p ≤ 0.05 b Significantly different from pravastatin, ANCOVA, p ≤ 0.05 c Significantly different from simvastatin, ANCOVA, p ≤ 0.05
@@ -211,7 +211,11 @@ Lipid-altering Effects of Atorvastatin Calcium in Adolescent Boys and Girls with
 
 The mean achieved LDL-C value was 130.7 mg/dL (range: 70.0 to 242.0 mg/dL) in the atorvastatin calcium group compared to 228.5 mg/dL (range: 152.0 to 385.0 mg/dL) in the placebo group during the 26-week double-blind phase.
 
-The long-term efficacy of to reduce morbidity and mortality in adulthood has not been established.
+Atorvastatin was also studied in a three year open-label, uncontrolled trial that included 163 patients with HeFH who were 10 years to 15 years old (82 boys and 81 girls).
+All patients had a clinical diagnosis of HeFH confirmed by genetic analysis (if not already confirmed by family history).
+Approximately 98% were Caucasian, and less than 1% were Black or Asian.
+Mean LDL-C at baseline was 232 mg/dL.
+The starting atorvastatin dosage was 10 mg once daily and doses were adjusted to achieve a target of < 130 mg/dL LDL-C.
+The reductions in LDL-C from baseline were generally consistent across age groups within the trial as well as with previous clinical studies in both adult and pediatric placebo-controlled trials.
 
-Additional pediatric use information is approved for Pfizer’s LIPITOR (atorvastatin calcium) tablets.
-However, due to Pfizer’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
+The long-term efficacy of atorvastatin calcium therapy in childhood to reduce morbidity and mortality in adulthood has not been established.

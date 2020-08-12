@@ -18,8 +18,8 @@ Absorption: Atorvastatin calcium is rapidly absorbed after oral administration; 
 Extent of absorption increases in proportion to atorvastatin calcium dose.
 The absolute bioavailability of atorvastatin (parent drug) is approximately 14% and the systemic availability of HMG-CoA reductase inhibitory activity is approximately 30%.
 The low systemic availability is attributed to presystemic clearance in gastrointestinal mucosa and/or hepatic first-pass metabolism.
-Although food decreases the rate and extent of drug absorption by approximately 25% and 9%, respectively, as assessed by Cmax and AUC, LDL-C reduction is similar whether atorvastatin calcium is given with or without food.
-Plasma atorvastatin calcium concentrations are lower (approximately 30% for Cmax and AUC) following evening drug administration compared with morning.
+Although food decreases the rate and extent of drug absorption by approximately 25% and 9%, respectively, as assessed by C max and AUC, LDL-C reduction is similar whether atorvastatin calcium is given with or without food.
+Plasma atorvastatin calcium concentrations are lower (approximately 30% for C max and AUC) following evening drug administration compared with morning.
 However, LDL-C reduction is the same regardless of the time of day of drug administration [see Dosage and Administration (2)].
 
 Distribution: Mean volume of distribution of atorvastatin calcium is approximately 381 liters.
@@ -39,20 +39,20 @@ Less than 2% of a dose of atorvastatin calcium is recovered in urine following o
 
 Specific Populations
 
-Geriatric: Plasma concentrations of atorvastatin calcium are higher (approximately 40% for Cmax and 30% for AUC) in healthy elderly subjects (age ≥ 65 years) than in young adults.
+Geriatric: Plasma concentrations of atorvastatin calcium are higher (approximately 40% for C max and 30% for AUC) in healthy elderly subjects (age ≥ 65 years) than in young adults.
 Clinical data suggest a greater degree of LDL-lowering at any dose of drug in the elderly patient population compared to younger adults [see Use in Specific Populations (8.5)].
 
-Pediatric: Apparent oral clearance of atorvastatin in pediatric subjects appeared similar to that of adults when scaled allometrically by body weight as the bodyweight was the only significant covariate in atorvastatin population PK model with data including pediatric HeFH patients (ages 10 years to 17 years of age, n=29) in an open-label, 8-weekstudy.
+Pediatric: Apparent oral clearance of atorvastatin in pediatric subjects appeared similar to that of adults when scaled allometrically by body weight as the bodyweight was the only significant covariate in atorvastatin population PK model with data including pediatric HeFH patients (ages 10 years to 17 years of age, n=29) in an open-label, 8-week study.
 
-Gender: Plasma concentrations of atorvastatin calcium in women differ from those in men (approximately 20% higher for Cmax and 10% lower for AUC); however, there is no clinically significant difference in LDL-C reduction with atorvastatin calcium between men and women.
+Gender: Plasma concentrations of atorvastatin calcium in women differ from those in men (approximately 20% higher for C max and 10% lower for AUC); however, there is no clinically significant difference in LDL-C reduction with atorvastatin calcium between men and women.
 
 Renal Impairment: Renal disease has no influence on the plasma concentrations or LDL-C reduction of atorvastatin calcium; thus, dose adjustment in patients with renal dysfunction is not necessary [see Dosage and Administration (2.5) and Warnings and Precautions (5.1)].
 
 Hemodialysis: While studies have not been conducted in patients with end-stage renal disease, hemodialysis is not expected to significantly enhance clearance of atorvastatin calcium since the drug is extensively bound to plasma proteins.
 
 Hepatic Impairment: In patients with chronic alcoholic liver disease, plasma concentrations of atorvastatin calcium are markedly increased.
-Cmax and AUC are each 4-fold greater in patients with Childs-Pugh A disease.
-Cmax and AUC are approximately 16-fold and 11-fold increased, respectively, in patients with Childs-Pugh B disease [see Contraindications (4)].
+C max and AUC are each 4-fold greater in patients with Childs-Pugh A disease.
+C max and AUC are approximately 16-fold and 11-fold increased, respectively, in patients with Childs-Pugh B disease [see Contraindications (4)].
 
 Drug Interaction Studies
 
@@ -63,42 +63,42 @@ Atorvastatin is also identified as a substrate of the efflux transporter BCRP, w
 TABLE 4.
 Effect of Co-administered Drugs on the Pharmacokinetics of Atorvastatin
 
-|  | Dose (mg) | Ratio of AUC& | Ratio of Cmax& |
+|  | Dose (mg) | Ratio of AUC & | Ratio of C max& |
 | --- | --- | --- | --- |
 | Co-administered drug and dosing regimen | Atorvastatin |  |  |
-| #Cyclosporine 5.2 mg/kg/day, stable dose | 10 mg QDa for 28 days | 8.69 | 10.66 |
-| #Tipranavir 500 mg BIDb/ritonavir 200 mg BIDb, 7 days | 10 mg, SDc | 9.36 | 8.58 |
-| #Glecaprevir 400 mg QDa/pibrentasvir 120 mg QDa, 7 days | 10 mg QDa for 7 days | 8.28 | 22.00 |
-| #Telaprevir 750 mg q8hf, 10 days | 20 mg, SDc | 7.88 | 10.60 |
-| #‡Saquinavir 400 mg BIDb/ ritonavir 400 mg BIDb, 15 days | 40 mg QDa for 4 days | 3.93 | 4.31 |
-| #Elbasvir 50 mg QDa/grazoprevir 200 mg QDa, 13 days | 10 mg SDc | 1.94 | 4.34 |
-| #Simeprevir 150 mg QDa, 10 days | 40 mg SDc | 2.12 | 1.70 |
-| #Clarithromycin 500 mg BIDb, 9 days | 80 mg QDa for 8 days | 4.54 | 5.38 |
-| #Darunavir 300 mg BIDb/ritonavir 100 mg BIDb, 9 days | 10 mg QDa for 4 days | 3.45 | 2.25 |
-| #Itraconazole 200 mg QDa, 4 days | 40 mg SDc | 3.32 | 1.20 |
-| #Letermovir 480 mg QDa, 10 days | 20 mg SDc | 3.29 | 2.17 |
-| #Fosamprenavir 700 mg BIDb/ritonavir 100 mg BIDb, 14 days | 10 mg QDa for 4 days | 2.53 | 2.84 |
-| #Fosamprenavir 1400 mg BIDb, 14 days | 10 mg QDa for 4 days | 2.30 | 4.04 |
-| #Nelfinavir 1250 mg BIDb, 14 days | 10 mg QDa for 28 days | 1.74 | 2.22 |
-| #Grapefruit Juice, 240 mL QDa,* | 40 mg, SDc | 1.37 | 1.16 |
-| Diltiazem 240 mg QDa, 28 days | 40 mg, SDc | 1.51 | 1.00 |
-| Erythromycin 500 mg QIDe, 7 days | 10 mg, SDc | 1.33 | 1.38 |
-| Amlodipine 10 mg, single dose | 80 mg, SDc | 1.18 | 0.91 |
-| Cimetidine 300 mg QIDe, 2 weeks | 10 mg QDa for 2 weeks | 1.00 | 0.89 |
-| Colestipol 10 g BIDb, 24 weeks | 40 mg QDa for 8 weeks | NA | 0.74** |
-| Maalox TC® 30 mL QIDe, 17 days | 10 mg QDa for 15 days | 0.66 | 0.67 |
-| Efavirenz 600 mg QDa, 14 days | 10 mg for 3 days | 0.59 | 1.01 |
-| #Rifampin 600 mg QDa, 7 days (co-administered)† | 40 mg SDc | 1.12 | 2.90 |
-| #Rifampin 600 mg QDa, 5 days (doses separated)† | 40 mg SDc | 0.20 | 0.60 |
-| #Gemfibrozil 600 mg BIDb, 7 days | 40 mg SDc | 1.35 | 1.00 |
-| #Fenofibrate 160 mg QDa, 7 days | 40 mg SDc | 1.03 | 1.02 |
-| Boceprevir 800 mg TIDd, 7 days | 40 mg SDc | 2.32 | 2.66 |
+| #Cyclosporine 5.2 mg/kg/day, stable dose | 10 mg QD a for 28 days | 8.69 | 10.66 |
+| #Tipranavir 500 mg BID b/ritonavir 200 mg BID b, 7 days | 10 mg, SD c | 9.36 | 8.58 |
+| #Glecaprevir 400 mg QD a/pibrentasvir 120 mg QD a, 7 days | 10 mg QD a for 7 days | 8.28 | 22.00 |
+| #Telaprevir 750 mg q8h f, 10 days | 20 mg, SD c | 7.88 | 10.60 |
+| #‡Saquinavir 400 mg BID b/ ritonavir 400 mg BID b, 15 days | 40 mg QD a for 4 days | 3.93 | 4.31 |
+| #Elbasvir 50 mg QD a/grazoprevir 200 mg QD a, 13 days | 10 mg SD c | 1.94 | 4.34 |
+| #Simeprevir 150 mg QD a, 10 days | 40 mg SD c | 2.12 | 1.70 |
+| #Clarithromycin 500 mg BID b, 9 days | 80 mg QD a for 8 days | 4.54 | 5.38 |
+| #Darunavir 300 mg BID b/ritonavir 100 mg BID b, 9 days | 10 mg QD a for 4 days | 3.45 | 2.25 |
+| #Itraconazole 200 mg QD a, 4 days | 40 mg SD c | 3.32 | 1.20 |
+| #Letermovir 480 mg QD a, 10 days | 20 mg SD c | 3.29 | 2.17 |
+| #Fosamprenavir 700 mg BID b/ritonavir 100 mg BID b, 14 days | 10 mg QD a for 4 days | 2.53 | 2.84 |
+| #Fosamprenavir 1400 mg BID b, 14 days | 10 mg QD a for 4 days | 2.30 | 4.04 |
+| #Nelfinavir 1250 mg BID b, 14 days | 10 mg QD a for 28 days | 1.74 | 2.22 |
+| #Grapefruit Juice, 240 mL QD a, * | 40 mg, SD c | 1.37 | 1.16 |
+| Diltiazem 240 mg QD a, 28 days | 40 mg, SD c | 1.51 | 1.00 |
+| Erythromycin 500 mg QID e, 7 days | 10 mg, SD c | 1.33 | 1.38 |
+| Amlodipine 10 mg, single dose | 80 mg, SD c | 1.18 | 0.91 |
+| Cimetidine 300 mg QID e, 2 weeks | 10 mg QD a for 2 weeks | 1.00 | 0.89 |
+| Colestipol 10 g BID b, 24 weeks | 40 mg QD a for 8 weeks | NA | 0.74 ** |
+| Maalox TC ® 30 mL QID e, 17 days | 10 mg QD a for 15 days | 0.66 | 0.67 |
+| Efavirenz 600 mg QD a, 14 days | 10 mg for 3 days | 0.59 | 1.01 |
+| #Rifampin 600 mg QD a, 7 days (co-administered) † | 40 mg SD c | 1.12 | 2.90 |
+| #Rifampin 600 mg QD a, 5 days (doses separated) † | 40 mg SD c | 0.20 | 0.60 |
+| #Gemfibrozil 600 mg BID b, 7 days | 40 mg SD c | 1.35 | 1.00 |
+| #Fenofibrate 160 mg QD a, 7 days | 40 mg SD c | 1.03 | 1.02 |
+| Boceprevir 800 mg TID d, 7 days | 40 mg SD c | 2.32 | 2.66 |
 
 & Represents ratio of treatments (co-administered drug plus atorvastatin vs. atorvastatin alone).
 
 # See Sections 5.1 and 7 for clinical significance.
 
-* Greater increases in AUC (ratio of AUC up to 2.5) and/or Cmax (ratio of Cmax up to 1.71) have been reported with excessive grapefruit consumption (≥ 750 mL - 1.2 liters per day).
+* Greater increases in AUC (ratio of AUC up to 2.5) and/or C max (ratio of C max up to 1.71) have been reported with excessive grapefruit consumption (≥ 750 mL - 1.2 liters per day).
 
 ** Ratio based on a single sample taken 8-16 h post dose.
 
@@ -121,15 +121,15 @@ f Every 8 hours
 TABLE 5.
 Effect of Atorvastatin on the Pharmacokinetics of Co-administered Drugs
 
-|  | Dose (mg) | Ratio of AUC | Ratio of Cmax |
+|  | Dose (mg) | Ratio of AUC | Ratio of C max |
 | --- | --- | --- | --- |
 | Atorvastatin | Co-administered drug and dosing regimen |  |  |
-| 80 mg QDa for 15 days | Antipyrine, 600 mg SDc | 1.03 | 0.89 |
-| 80 mg QDa for 10 days | # Digoxin 0.25 mg QDa, 20 days | 1.15 | 1.20 |
-| 40 mg QDa for 22 days | Oral contraceptive QDa, 2 months - norethindrone 1 mg - ethinyl estradiol 35μg | 1.28 1.19 | 1.23 1.30 |
-| 10 mg, SDc | Tipranavir 500mg BIDb/ritonavir 200 mg BIDb, 7 days | 1.08 | 0.96 |
-| 10 mg QDa for 4 days | Fosamprenavir 1400 mg BIDb, 14 days | 0.73 | 0.82 |
-| 10 mg QDa for 4 days | Fosamprenavir 700 mg BIDb/ritonavir 100 mg BIDb, 14 days | 0.99 | 0.94 |
+| 80 mg QD a for 15 days | Antipyrine, 600 mg SD c | 1.03 | 0.89 |
+| 80 mg QD a for 10 days | # Digoxin 0.25 mg QD a, 20 days | 1.15 | 1.20 |
+| 40 mg QD a for 22 days | Oral contraceptive QD a, 2 months - norethindrone 1 mg - ethinyl estradiol 35μg | 1.28 1.19 | 1.23 1.30 |
+| 10 mg, SD c | Tipranavir 500mg BID b/ritonavir 200 mg BID b, 7 days | 1.08 | 0.96 |
+| 10 mg QD a for 4 days | Fosamprenavir 1400 mg BID b, 14 days | 0.73 | 0.82 |
+| 10 mg QD a for 4 days | Fosamprenavir 700 mg BID b/ritonavir 100 mg BID b, 14 days | 0.99 | 0.94 |
 
 # See Section 7 for clinical significance.
 
