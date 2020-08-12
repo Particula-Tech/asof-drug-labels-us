@@ -25,9 +25,9 @@ Other Medications
 
 Because of the risk of hemorrhage, advise patients to inform their physicians and dentists of all medications they are taking, including non-prescription medications, and before starting any new medication [see Drug Interactions (7.2)].
 
-This product labeling may have been updated.
+This product's labeling may have been updated.
 For the most recent prescribing information, please visit www.pfizer.com.
 
 Distributed by Hospira, Inc., Lake Forest, IL 60045 USA
 
-LAB-1392-1.0
+LAB-1392-2.0

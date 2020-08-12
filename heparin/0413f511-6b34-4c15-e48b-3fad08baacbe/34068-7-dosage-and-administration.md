@@ -10,8 +10,6 @@ Administer this product by intravenous infusion.
 
 Do not admix with other drugs.
 
-Do not use flexible plastic containers in series connection.
-
 This product should not be infused under pressure.
 
 Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration, whenever solution and container permit.
