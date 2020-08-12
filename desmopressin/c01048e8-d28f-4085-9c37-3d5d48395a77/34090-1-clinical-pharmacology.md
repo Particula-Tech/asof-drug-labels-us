@@ -2,16 +2,14 @@
 
 Desmopressin Acetate Tablets contain as active substance, desmopressin acetate, a synthetic analogue of the natural hormone arginine vasopressin.
 
-## Central Diabetes Insipidus
-
-Dose response studies in patients with diabetes insipidus have demonstrated that oral doses of 0.025 mg to 0.4 mg produced clinically significant antidiuretic effects.
+Central Diabetes Insipidus: Dose response studies in patients with diabetes insipidus have demonstrated that oral doses of 0.025 mg to 0.4 mg produced clinically significant antidiuretic effects.
 In most patients, doses of 0.1 mg to 0.2 mg produced optimal antidiuretic effects lasting up to eight hours.
 With doses of 0.4 mg, antidiuretic effects were observed for up to 12 hours; measurements beyond 12 hours were not recorded.
-Increasing oral doses produced dose dependent increases in the plasma levels of Desmopressin Acetate Tablets.
+Increasing oral doses produced dose dependent increases in the plasma levels of desmopressin acetate.
 
-The plasma half-life of Desmopressin Acetate Tablets followed a monoexponential time course with t1/2 values of 1.5 to 2.5 hours which was independent of dose.
+The plasma half-life of desmopressin acetate followed a monoexponential time course with t1/2 values of 1.5 to 2.5 hours which was independent of dose.
 
-The bioavailability of Desmopressin Acetate Tablets are about 5% compared to intranasal desmopressin acetate, and about 0.16% compared to intravenous desmopressin acetate.
+The bioavailability of Desmopressin Acetate oral tablets is about 5% compared to intranasal desmopressin acetate, and about 0.16% compared to intravenous desmopressin acetate.
 The time to reach maximum plasma desmopressin acetate levels ranged from 0.9 to 1.5 hours following oral or intranasal administration, respectively.
 Following administration of Desmopressin Acetate Tablets, the onset of antidiuretic effect occurs at around 1 hour, and it reaches a maximum at about 4 to 7 hours based on the measurement of increased urine osmolality.
 
@@ -46,7 +44,7 @@ With respect to the mean values of total urine volume decrease and maximum urine
 
 While both the 0.2 mg and 0.4 mg oral doses are considered pharmacodynamically similar to the 0.01 mg intranasal dose, the pharmacodynamic data on an inter-subject basis was highly variable and, therefore, individual dosing is recommended.
 
-In another study in diabetes insipidus patients, the pharmacodynamic characteristics of desmopressin acetate tablets and intranasal formulations were compared over a 12-hour period.
+In another study in diabetes insipidus patients, the pharmacodynamic characteristics of Desmopressin Acetate Tablets and intranasal formulations were compared over a 12-hour period.
 Ten fluid-controlled patients under age 18 were administered tablet doses of 0.2 mg and 0.4 mg, and intranasal doses of 0.01 mg and 0.02 mg.
 
 Mean Peak Pharmacodynamic Parameters (SD) in Pediatric and Adolescent Diabetes Insipidus Patients
@@ -57,32 +55,30 @@ Mean Peak Pharmacodynamic Parameters (SD) in Pediatric and Adolescent Diabetes I
 | 0.02 mg IN | 0.3 (0.25) | 761.8 (298.82) |
 | 0.2 mg PO | 0.3 (0.12) | 678.3 (147.91) |
 | 0.4 mg PO | 0.2 (0.15) | 787.2 (73.34) |
-| (SE) = Standard error of the mean |  |  |
+| (SD) = Standard Deviation |  |  |
 
 All four dose formulations (0.01 mg IN, 0.02 mg IN, 0.2 mg PO and 0.4 mg PO) have a similar, pronounced pharmacodynamic effect on urine volume and urine osmolality.
 At two hours after study drug administration, mean urine volume was 4 mL/min and urine osmolality was >500 mOsm/kg.
 Mean plasma osmolality remained relatively constant over the time course recorded (0 to 12 hours).
 A statistical separation from baseline did not occur at any dose or time point.
 In these patients, the 0.2 mg tablets and the 0.01 mg intranasal spray exhibited similar pharmacodynamic profiles as did the 0.4 mg tablets and the 0.02 mg intranasal spray formulation.
-In another study of adult diabetes insipidus patients previously controlled on desmopressin acetate intranasal spray, after one week of self-titration from spray to tablets, patients' diuresis was controlled with 0.1 mg desmopressin acetate tablets three times a day.
+In another study of adult diabetes insipidus patients previously controlled on Desmopressin Acetate Intranasal Spray, after one week of self-titration from spray to tablets, patients’ diuresis was controlled with 0.1 mg Desmopressin Acetate Tablets three times a day.
 
-## Primary Nocturnal Enuresis in Pediatrics
-
-Two double-blind, randomized, placebo-controlled studies were conducted in 340 patients with primary nocturnal enuresis.
+Primary Nocturnal Enuresis: Two double-blind, randomized, placebo-controlled studies were conducted in 340 patients with primary nocturnal enuresis.
 Patients were 5-17 years old, and 72% were males.
 A total of 329 patients were evaluated for efficacy.
 Patients were evaluated over a two-week baseline period in which the average number of wet nights was 10 (range 4-14).
-Patients were then randomized to receive 0.2, 0.4, or 0.6 mg of desmopressin acetate or placebo.
+Patients were then randomized to receive 0.2, 0.4, or 0.6 mg of Desmopressin Acetate Tablets or placebo.
 The pooled results after two weeks are shown in the following table:
 
-Response to Desmopressin Acetate and Placebo at Two Weeks of Treatment Mean (SE) Number of Wet Nights/2 Weeks
+Response to Desmopressin Acetate Tablets and Placebo at Two Weeks of Treatment Mean (SE) Number of Wet Nights/2 Weeks
 
 |  | Placebo (n = 85) | 0.2 mg/day (n = 79) | 0.4 mg/day (n = 82) | 0.6 mg/day (n = 83) |
 | --- | --- | --- | --- | --- |
 | Baseline | 10 (0.3) | 11 (0.3) | 10 (0.3) | 10 (0.3) |
 | Reduction from Baseline | 1 (0.3) | 3 (0.4) | 3 (0.4) | 4 (0.4) |
 | Percent Reduction from Baseline | 10% | 27% | 30% | 40% |
-| p-value vs placebo | —— | <0.05 | <0.05 | <0.05 |
+| p-value vs placebo | ---- | <0.05 | <0.05 | <0.05 |
 
 Patients treated with Desmopressin Acetate Tablets showed a statistically significant reduction in the number of wet nights compared to placebo-treated patients.
 A greater response was observed with increasing doses up to 0.6 mg.
@@ -93,9 +89,7 @@ Twenty-five (25) patients (11%) achieved a complete or near complete response (�
 The majority of patients (198 of 230, 86%) were titrated to the highest dose.
 When all dose groups were combined, 128 (56%) showed at least a 50% reduction from baseline in the number of wet nights/2 weeks, while 87 (38%) patients achieved a complete or near complete response.
 
-## Human Pharmacokinetics
-
-Desmopressin Acetate Tablets are mainly excreted in the urine.
-A pharmacokinetic study conducted in healthy volunteers and patients with mild, moderate, and severe renal impairment (n=24, 6 subjects in each group) receiving single dose desmopressin acetate (2 mcg) injection demonstrated a difference in Desmopressin Acetate Tablets terminal half-life.
+Human Pharmacokinetics: Desmopressin acetate is mainly excreted in the urine.
+A pharmacokinetic study conducted in healthy volunteers and patients with mild, moderate, and severe renal impairment (n=24, 6 subjects in each group) receiving single dose desmopressin acetate (2 mcg) injection demonstrated a difference in desmopressin acetate terminal half-life.
 Terminal half-life significantly increased from 3 hours in normal healthy patients to 9 hours in patients with severe renal impairment.
 (See CONTRAINDICATIONS.)

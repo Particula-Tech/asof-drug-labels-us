@@ -1,23 +1,15 @@
 # ADVERSE REACTIONS
 
-Infrequently, high doses of the intranasal formulations of Desmopressin Acetate Tablets and Desmopressin Acetate Injection have produced transient headache, nausea, flushing and mild abdominal cramps.
+Infrequently, large doses of the intranasal formulations of desmopressin acetate and Desmopressin Acetate Injection have produced transient headache, nausea, flushing and mild abdominal cramps.
 These symptoms have disappeared with reduction in dosage.
 
-## Central Diabetes Insipidus
-
-In long-term clinical studies in which patients with diabetes insipidus were followed for periods up to 44 months of Desmopressin Acetate Tablets therapy, transient increases in AST (SGOT) no higher than 1.5 times the upper limit of normal were occasionally observed.
+Central Diabetes Insipidus: In long-term clinical studies in which patients with diabetes insipidus were followed for periods up to 44 months of Desmopressin Acetate Tablet therapy, transient increases in AST (SGOT) no higher than 1.5 times the upper limit of normal were occasionally observed.
 Elevated AST (SGOT) returned to the normal range despite continued use of Desmopressin Acetate Tablets.
 
-## Primary Nocturnal Enuresis
+Primary Nocturnal Enuresis: The only adverse event occurring in ≥3% of patients in controlled clinical trials with Desmopressin Acetate Tablets that was probably, possibly, or remotely related to study drug was headache (4% desmopressin acetate, 3% placebo).
 
-The only adverse event occurring in ≥3% of patients in controlled clinical trials with Desmopressin Acetate Tablets that was probably, possibly, or remotely related to study drug was headache (4% desmopressin acetate, 3% placebo).
-
-## Other
-
-The following adverse events have been reported; however their relationship to desmopressin acetate has not been established: abnormal thinking, diarrhea, and edema-weight gain.
+Other: The following adverse events have been reported; however their relationship to desmopressin acetate has not been established: abnormal thinking, diarrhea, and edema-weight gain.
 
 See WARNINGS for the possibility of water intoxication and hyponatremia.
 
-## Post Marketing
-
-There have been rare reports of hyponatremic convulsions associated with concomitant use with the following medications: oxybutinin and imipramine.
+Post Marketing: There have been rare reports of hyponatremic convulsions associated with concomitant use with the following medications: oxybutinin and imipramine.
