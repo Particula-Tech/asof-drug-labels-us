@@ -159,9 +159,12 @@ Before you take levofloxacin tablets, tell your healthcare provider about all of
 - have liver problems
 - have diabetes or problems with low blood sugar (hypoglycemia)
 - are pregnant or plan to become pregnant.
+  It is not known if levofloxacin tablets will harm your unborn child.
+- are breastfeeding or plan to breastfeed.
   Levofloxacin passes into your breast milk.
   You should not breastfeed during treatment with levofloxacin and for 2 days after taking your last dose of levofloxacin.
   You may pump your breast milk and throw it away during treatment with levofloxacin and for 2 days after taking your last dose of levofloxacin.
+  If you are taking levofloxacin for inhalational anthrax, you and your healthcare provider should decide whether you can continue breastfeeding while taking levofloxacin.
 
 Tell your healthcare provider about all the medicines you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements.
 
@@ -365,6 +368,6 @@ Dr. Reddy’s Laboratories Limited
 
 Bachupally – 500 090 INDIA
 
-Revised: 0719
+Revised: 0720
 
 Dispense the Medication Guide available at: www.drreddys.com/medguide/levofloxacintabs.pdf
