@@ -13,6 +13,8 @@ Rx only
 
 # Principal Display Panel - 120 g Tube Carton
 
+PRASCO
+
 NDC 66993-877-78
 
 Calcipotriene Cream 0.005%
