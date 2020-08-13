@@ -42,7 +42,7 @@ The estimated average daily infant dose of pregabalin from breast milk (assuming
 The study did not evaluate the effects of pregabalin capsules on milk production or the effects of pregabalin capsules on the breastfed infant.
 
 Based on animal studies, there is a potential risk of tumorigenicity with pregabalin exposure via breast milk to the breastfed infant [see Nonclinical Toxicology (13.1)].
-Available clinical study data in patients greater than 12 years of age do not provide a clear conclusion about the potential risk of tumorigenicity with pregabalin [see Warnings and Precautions (5.8)].
+Available clinical study data in patients greater than 12 years of age do not provide a clear conclusion about the potential risk of tumorigenicity with pregabalin [see Warnings and Precautions (5.9)].
 Because of the potential risk of tumorigenicity, breastfeeding is not recommended during treatment with pregabalin capsules.
 
 Data A pharmacokinetic study in ten lactating women, who were at least 12 weeks postpartum, evaluated the concentrations of pregabalin in plasma and breast milk. pregabalin capsules 150 mg oral capsule was given every 12 hours (300 mg daily dose) for a total of four doses. pregabalin was detected in breast milk at average steady-state concentrations approximately 76% of those in maternal plasma.

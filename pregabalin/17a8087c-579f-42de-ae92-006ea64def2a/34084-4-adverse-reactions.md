@@ -4,16 +4,17 @@ The following serious adverse reactions are described elsewhere in the labeling:
 
 - Angioedema [see Warnings and Precautions (5.1)]
 - Hypersensitivity [see Warnings and Precautions (5.2)]
-- Increased Risk of Adverse Reactions with Abrupt or Rapid Discontinuation [see Warnings and Precautions (5.3)]
-- Suicidal Behavior and Ideation [see Warnings and Precautions (5.4)]
-- Peripheral Edema [see Warnings and Precautions (5.5)]
-- Dizziness and Somnolence [see Warnings and Precautions (5.6)]
-- Weight Gain [see Warnings and Precautions (5.7)]
-- Tumorigenic Potential [see Warnings and Precautions (5.8)]
-- Ophthalmological Effects [see Warnings and Precautions (5.9)]
-- Creatine Kinase Elevations [see Warnings and Precautions (5.10)]
-- Decreased Platelet Count [see Warnings and Precautions (5.11)]
-- PR Interval Prolongation [see Warnings and Precautions (5.12)]
+- Suicidal Behavior and Ideation [see Warnings and Precautions (5.3)]
+- Respiratory Depression [see Warnings and Precautions (5.4)]
+- Dizziness and Somnolence [see Warnings and Precautions (5.5)]
+- Increased Risk of Adverse Reactions with Abrupt or Rapid Discontinuation [see Warnings and Precautions (5.6)]
+- Peripheral Edema [see Warnings and Precautions (5.7)]
+- Weight Gain [see Warnings and Precautions (5.8)]
+- Tumorigenic Potential [see Warnings and Precautions (5.9)]
+- Ophthalmological Effects [see Warnings and Precautions (5.10)]
+- Creatine Kinase Elevations [see Warnings and Precautions (5.11)]
+- Decreased Platelet Count [see Warnings and Precautions (5.12)]
+- PR Interval Prolongation [see Warnings and Precautions (5.13)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -380,5 +381,8 @@ Gastrointestinal Disorders – Nausea, Diarrhea
 
 Reproductive System and Breast Disorders – Gynecomastia, Breast Enlargement
 
+Skin and subcutaneous tissue disorders – Bullous pemphigoid
+
+There are postmarketing reports of life-threatening or fatal respiratory depression in patients taking Pregabalin Capsules with opioids or other CNS depressants, or in the setting of underlying respiratory impairment.
+
 In addition, there are postmarketing reports of events related to reduced lower gastrointestinal tract function (e.g., intestinal obstruction, paralytic ileus, constipation) when pregabalin capsules was co-administered with medications that have the potential to produce constipation, such as opioid analgesics.
-There are also postmarketing reports of respiratory failure and coma in patients taking pregabalin and other CNS depressant medications.
