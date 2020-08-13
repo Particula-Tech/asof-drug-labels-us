@@ -27,7 +27,7 @@ After use, the oral syringe may be washed with warm water and dried for next use
 The bottle may be closed with the same cap without removing the bottle adaptor.
 Educate patients and caregivers on the steps to administer VERSACLOZ as described in the Patient Instructions for Use.
 
-VERSACLOZ can be taken with or without food [see Pharmacokinetics (12.3)].
+VERSACLOZ can be taken with or without food [see Clinical Pharmacology (12.3)].
 
 ## 2.4 Maintenance Treatment
 

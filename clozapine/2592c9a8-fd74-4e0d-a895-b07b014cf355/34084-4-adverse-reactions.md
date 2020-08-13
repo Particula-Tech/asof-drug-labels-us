@@ -6,7 +6,7 @@ The following adverse reactions are discussed in more detail in other sections o
 - •Orthostatic Hypotension, Bradycardia, and Syncope [see Warnings and Precautions (5.3)].
 - •Falls [see Warnings and Precautions (5.4)]
 - •Seizures [see Warnings and Precautions (5.5)].
-- •Myocarditis and Cardiomyopathy [see Warnings and Precautions (5.6)].
+- •Myocarditis, Cardiomyopathy and Mitral Valve Incompetence [see Warnings and Precautions (5.6)].
 - •Increased Mortality in Elderly Patients with Dementia-Related Psychosis [see Warnings and Precautions (5.7)].
 - •Gastrointestinal Hypomotility and Severe Complications [see Warnings and Precautions (5.8)].
 - •Eosinophilia [see Warnings and Precautions (5.9)].
@@ -90,7 +90,7 @@ Delirium, EEG abnormal, myoclonus, paresthesia, possible cataplexy, status epile
 
 Cardiovascular System
 
-Atrial or ventricular fibrillation, ventricular tachycardia, QT interval prolongation, Torsades de Pointes, mitral valve incompetence associated with clozapine-related cardiomyopathy, myocardial infarction, cardiac arrest, and periorbital edema.
+Atrial or ventricular fibrillation, ventricular tachycardia, palpitations, QT interval prolongation, Torsades de Pointes, mitral valve incompetence associated with clozapine-related cardiomyopathy, myocardial infarction, cardiac arrest, and periorbital edema.
 
 Endocrine System
 
@@ -110,7 +110,7 @@ Angioedema, leukocytoclastic vasculitis.
 
 Urogenital System
 
-Acute interstitial nephritis, nocturnal enuresis, priapism, and renal failure.
+Acute interstitial nephritis, nocturnal enuresis, priapism, renal failure and retrograde ejaculation.
 
 Skin and Subcutaneous Tissue Disorders
 
@@ -122,7 +122,7 @@ Myasthenic syndrome, rhabdomyolysis, and systemic lupus erythematosus.
 
 Respiratory System
 
-Aspiration, pleural effusion, pneumonia, lower respiratory tract infection.
+Aspiration, pleural effusion, pneumonia, lower respiratory tract infection, sleep apnea.
 
 Hemic and Lymphatic System
 

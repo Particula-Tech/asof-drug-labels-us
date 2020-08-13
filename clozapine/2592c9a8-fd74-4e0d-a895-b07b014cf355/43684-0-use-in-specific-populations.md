@@ -2,20 +2,32 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Category B
+Pregnancy Exposure Registry There is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to atypical antipsychotics, including clozapine, during pregnancy.
+Health care providers are encouraged to register patients by contacting the National Pregnancy Registry for Atypical Antipsychotics at 1-866-961-2388 or visit http://womensmental health.org/clinical-and-research-programs/pregnancyregistry/.
 
 Risk Summary
 
-There are no adequate or well-controlled studies of clozapine in pregnant women.
+Neonates exposed to antipsychotic drugs, including VERSACLOZ, during the third trimester are at risk for extrapyramidal and/or withdrawal symptoms following delivery (see Clinical Considerations).
+Overall, available data from published epidemiologic studies of pregnant women exposed to clozapine have not established a drug-associated risk of major birth defects, miscarriage, or adverse maternal or fetal outcomes.
+(see Data).
+There are risks to the mother associated with untreated schizophrenia and with exposure to antipsychotics, including VERSACLOZ, during pregnancy (see Clinical Considerations).
+In animal reproduction studies, no adverse developmental effects were observed when clozapine was administered orally to pregnant rats or rabbits during the period of organogenesis, or to pregnant rats during pregnancy and lactation, at doses up to approximately 0.4 and 0.9 times the maximum recommended human dose (MRHD) of 900 mg/day, for rats and rabbits respectively, based on mg/m2 body surface area (see Data).
 
-Reproduction studies have been performed in rats and rabbits at doses up to 0.4 and 0.9 times, respectively, the maximum recommended human dose (MRHD) of 900 mg/day on a mg/m2 body surface area basis.
-The studies revealed no evidence of impaired fertility or harm to the fetus due to clozapine.
-Because animal reproduction studies are not always predictive of human response, VERSACLOZ should be used during pregnancy only if clearly needed.
-Clinical Considerations Consider the risk of exacerbation of psychosis when discontinuing or changing treatment with antipsychotic medications during pregnancy and postpartum.
-Consider early screening for gestational diabetes for patients treated with antipsychotic medications [see Warnings and Precautions (5.11)].
-Neonates exposed to antipsychotic drugs during the third trimester of pregnancy are at risk for extrapyramidal and/or withdrawal symptoms following delivery.
-Monitor neonates for symptoms of agitation, hypertonia, hypotonia, tremor, somnolence, respiratory distress, and feeding difficulties.
-The severity of complications can vary from self- limited symptoms to some neonates requiring intensive care unit support and prolonged hospitalization.
+The estimated background risk of major birth defects and miscarriage for the indicated populations is unknown.
+All pregnancies have a background risk of birth defects, loss, or other adverse outcomes.
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively.
+Clinical Considerations Disease-associated maternal and/or embryo/fetal risk
+
+There is a risk to the mother from untreated schizophrenia, including increased risk of relapse, hospitalization, and suicide.
+Schizophrenia is associated with increased adverse perinatal outcomes, including preterm birth.
+It is not known if this is a direct result of the illness or other comorbid factors.
+Fetal/Neonatal adverse reactions Extrapyramidal and/or withdrawal symptoms, including agitation, hypertonia, hypotonia, tremor, somnolence, respiratory distress, and feeding disorder have been reported in neonates who have been exposed to antipsychotic drugs, including VERSACLOZ, during the third trimester of pregnancy.
+These symptoms have varied in severity.
+Monitor neonates for extrapyramidal and/or withdrawal symptoms and manage symptoms appropriately.
+Some neonates recovered within hours or days without specific treatment; others required prolonged hospitalization.
+
+Data Human Data Published data from observational studies, birth registries, and case reports on the use of atypical antipsychotics do not report a clear association with antipsychotics and major birth defects.
+A retrospective cohort study from a Medicaid database of 9258 women exposed to antipsychotics during pregnancy did not indicate an overall increased risk for major birth defects.
 Animal Data
 
 In embryofetal developmental studies, clozapine had no effects on maternal parameters, litter sizes, or fetal parameters when administered orally to pregnant rats and rabbits during the period of organogenesis at doses up to 0.4 and 0.9 times, respectively, the MRHD of 900 mg/day on a mg/m2 body surface area basis.
@@ -24,10 +36,13 @@ In peri/postnatal developmental studies, pregnant female rats were administered 
 Observations were made on fetuses at birth and during the postnatal period; the offspring were allowed to reach sexual maturity and mated.
 Clozapine caused a decrease in maternal body weight but had no effects on litter size or body weights of either F1 or F2 generations at doses up to 0.4 times the MRHD of 900 mg/day on a mg/m2 body surface area basis.
 
-## 8.3 Nursing Mothers
+## 8.2 Lactation
 
-VERSACLOZ is present in human milk.
-Because of the potential for serious adverse reactions in nursing infants from VERSACLOZ, a decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother.
+Risk Summary Clozapine is present in human milk.
+There are reports of sedation and a report of agranulocytosis in an infant exposed to clozapine through human milk (see Clinical Considerations).
+There is no information on the effects of clozapine on milk production.
+The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for VERSACLOZ and any potential adverse effects on the breastfed-child from VERSACLOZ or from the underlying maternal condition.
+Clinical Considerations Infants exposed to VERSACLOZ should be monitored for excess sedation.
 
 ## 8.4 Pediatric Use
 

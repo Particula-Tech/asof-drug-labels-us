@@ -128,7 +128,7 @@ Initiate treatment with a low dose (12.5 mg), titrate slowly, and use divided do
 Use caution when administering VERSACLOZ to patients with a history of seizures or other predisposing risk factors for seizure (e.g., head trauma or other CNS pathology, use of medications that lower the seizure threshold, or alcohol abuse).
 Because of the substantial risk of seizure associated with VERSACLOZ use, caution patients about engaging in any activity where sudden loss of consciousness could cause serious risk to themselves or others (e.g., driving an automobile, operating complex machinery, swimming, climbing).
 
-## 5.6 Myocarditis and Cardiomyopathy
+## 5.6 Myocarditis, Cardiomyopathy and Mitral Valve Incompetence
 
 Myocarditis and cardiomyopathy have occurred with the use of clozapine.
 These reactions can be fatal.
@@ -140,9 +140,12 @@ Consider the possibility of myocarditis or cardiomyopathy in patients receiving 
 Myocarditis most frequently presents within the first two months of clozapine treatment.
 Symptoms of cardiomyopathy generally occur later than clozapine-associated myocarditis and usually after 8 weeks of treatment.
 However, myocarditis and cardiomyopathy can occur at any period during treatment with VERSACLOZ.
-It is common for nonspecific flu- like symptoms such as malaise, myalgia, pleuritic chest pain, and low-grade fevers to precede more overt signs of heart failure.
+It is common for nonspecific flu-like symptoms such as malaise, myalgia, pleuritic chest pain, and low-grade fevers to precede more overt signs of heart failure.
 Typical laboratory findings include elevated troponin I or T, elevated creatinine kinase-MB, peripheral eosinophilia, and elevated C-reactive protein (CRP).
 Chest roentgenogram may demonstrate cardiac silhouette enlargement, and cardiac imaging (echocardiogram, radionucleotide studies, or cardiac catheterization) may reveal evidence of left ventricular dysfunction.
+In patients who are diagnosed with cardiomyopathy while taking clozapine mitral valve incompetence has been reported.
+These cases reported either mild or moderate mitral regurgitation on two-dimensional echocardiography.
+In patients with suspected cardiomyopathy, consider a 2D-echo Doppler examination to identify mitral valve incompetence.
 
 ## 5.7 Increased Mortality in Elderly Patients with Dementia-Related Psychosis
 

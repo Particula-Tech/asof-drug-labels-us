@@ -97,11 +97,12 @@ Before you take VERSACLOZ, tell your healthcare provider about all of your medic
 - •use products containing caffeine
 - •are pregnant or plan to become pregnant.
   It is not known if VERSACLOZ will harm your unborn baby.
-  Call your healthcare provider right away if you become pregnant while taking VERSACLOZ.
+  Talk to your healthcare provider if you become pregnant while taking VERSACLOZ.
+  - If you become pregnant while receiving clozapine, talk to your healthcare provider about registering with the National Pregnancy Registry for Atypical Antipsychotics.
+    You can register by calling 1-866-961-2388 or go to http://womensmentalhealth.org/clinical-and-research-programs/pregnancyregistry/
 - •are breastfeeding or plan to breastfeed.
-  VERSACLOZ can pass into your breast milk and may harm your baby.
+  VERSACLOZ can pass into your breast milk.
   Talk to your healthcare provider about the best way to feed your baby if you take VERSACLOZ.
-  Do not breastfeed while taking VERSACLOZ.
 
 Tell your healthcare provider about all the medicines you take, including prescription and non-prescription medicines, vitamins, and herbal supplements.
 
@@ -146,6 +147,11 @@ What are the possible side effects of VERSACLOZ?
 VERSACLOZ may cause serious side effects, including:
 
 - •See "What is the most important information I should know about VERSACLOZ?"
+- •severe constipation and bowel problems.
+  You may not feel or be aware of constipation symptoms.
+  Contact your healthcare provider if you are having bowel movements at less than your normal frequency, especially if it is less than three times a week, you have hard or dry stools, or you have difficulty passing gas.
+  Talk with your healthcare provider about ways to prevent constipation.
+  Other symptoms associated with bowel problems include nausea, bloating or stomach swelling, stomach pain, and vomiting.
 - •high count of a certain white blood cell (eosinophilia)
 - •problems with your heartbeat.
   These heart problems can cause death.
@@ -255,4 +261,4 @@ Tampa, FL 33609
 
 This Patient Information and the Instructions for Use have been approved by the U.S. Food and Drug Administration.
 
-309939 Revised: February 2020
+309939 Revised: January 2018

@@ -26,7 +26,7 @@ Initiate treatment at 12.5 mg, titrate gradually, and use divided dosing.
 Use caution when administering VERSACLOZ to patients with a history of seizures or other predisposing risk factors for seizure (CNS pathology, medications that lower the seizure threshold, alcohol abuse).
 Caution patients about engaging in any activity where sudden loss of consciousness could cause serious risk to themselves or others [see Dosage and Administration (2.2) and Warnings and Precautions (5.5)].
 
-Myocarditis and Cardiomyopathy
+Myocarditis, Cardiomyopathy and Mitral Valve Incompetence
 
 Fatal myocarditis and cardiomyopathy have occurred with clozapine treatment.
 Discontinue VERSACLOZ and obtain a cardiac evaluation upon suspicion of these reactions.
