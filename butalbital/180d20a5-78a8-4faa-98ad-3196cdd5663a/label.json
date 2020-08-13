@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA076560"
+  ],
+  "inn": "butalbital",
+  "labeler": "LGM Pharma Solutions LLC",
+  "package_ndcs": [
+    "79739-6670-1"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "butalbital, acetaminophen, caffeine, and codeine phosphate",
+      "name": "Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate"
+    }
+  ],
+  "setid": "180d20a5-78a8-4faa-98ad-3196cdd5663a",
+  "source": "dailymed"
+}
