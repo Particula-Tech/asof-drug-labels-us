@@ -13,9 +13,7 @@ Rx only
 
 PRASCO
 
-NDC 66993-878-78
-
-NET WT.
+NDC 66993-878-78 NET WT.
 120 g
 
 Calcipotriene Ointment, 0.005%
