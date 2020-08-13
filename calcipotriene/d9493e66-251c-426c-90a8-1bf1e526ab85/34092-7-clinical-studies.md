@@ -14,8 +14,9 @@ Table 3 contains the response rates for this trial.
 
 Table 3 Percentage of Subjects with Absent or Very Mild Disease According to the Investigator's Global Assessment of Disease Severity at End of Treatment (4 weeks)Subjects with mild disease at baseline were required to have "Absent" disease to be considered a success.
 
-|  | Calcipotriene and Betamethasone Dipropionate Ointment N = 490 | Calcipotriene N = 480 | Betamethasone dipropionate N = 476 | Vehicle N = 157 |
+|  | N = 490 | N = 480 | N = 476 | N = 157 |
 | --- | --- | --- | --- | --- |
+|  | Calcipotriene and Betamethasone Dipropionate Ointment | Calcipotriene | Betamethasone dipropionate | Vehicle |
 | Absent or very mild disease | 48.0% | 16.5% | 26.3% | 7.6% |
 
 In addition to the pivotal trial (N = 490), four randomized, double-blind, vehicle- or active-controlled, parallel-group trials were conducted and provided supportive evidence of efficacy.

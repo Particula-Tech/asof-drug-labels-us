@@ -31,12 +31,12 @@ Tell your doctor about all of your health conditions, including if you:
 
 - have a skin infection.
   Your skin infection should be treated before starting Calcipotriene and Betamethasone Dipropionate Ointment.
-- have a calcium metabolism disorder.
+- have a calcium metabolism disorder
 - have one of the following types of psoriasis:
   - erythrodermic psoriasis
   - exfoliative psoriasis
   - pustular psoriasis
-- are getting phototherapy treatments (light therapy) for your psoriasis.
+- are getting phototherapy treatments (light therapy) for your psoriasis
 - are pregnant or planning to become pregnant.
   It is not known if Calcipotriene and Betamethasone Dipropionate Ointment can harm your unborn baby.
   You and your doctor will have to decide if Calcipotriene and Betamethasone Dipropionate Ointment is right for you while pregnant.
@@ -148,4 +148,4 @@ Manufactured by: LEO Laboratories Ltd. (LEO Pharma) Dublin 12, Ireland
 
 Distributed by: Prasco Laboratories Mason, OH 45040 USA
 
-Revised: 06/2019
+Revised: 03/2020

@@ -16,8 +16,9 @@ The percentage of subjects reporting at least one adverse event was 27.1% in the
 
 Table 1 Adverse Events Reported by ≥1% of Subjects by Preferred Term
 
-|  | Calcipotriene and Betamethasone Dipropionate Ointment N = 2448 | Calcipotriene N = 3197 | Betamethasone dipropionate N = 1164 | Vehicle N = 470 |
+|  | N = 2448 | N = 3197 | N = 1164 | N = 470 |
 | --- | --- | --- | --- | --- |
+|  | Calcipotriene and Betamethasone Dipropionate Ointment | Calcipotriene | Betamethasone dipropionate | Vehicle |
 | Any Adverse Event | 663 (27.1) | 1055 (33.0) | 329 (28.3) | 157 (33.4) |
 | Preferred Term | # of subjects (%) |  |  |  |
 | Pruritus | 75 (3.1) | 183 (5.7) | 38 (3.3) | 43 (9.1) |
@@ -37,8 +38,9 @@ A lesional/perilesional adverse event was generally defined as an adverse event 
 
 Table 2 Lesional/Perilesional Adverse Events Reported by ≥1% of Subjects
 
-|  | Calcipotriene and Betamethasone Dipropionate Ointment N = 2448 | Calcipotriene N = 3197 | Betamethasone dipropionate N = 1164 | Vehicle N = 470 |
+|  | N = 2448 | N = 3197 | N = 1164 | N = 470 |
 | --- | --- | --- | --- | --- |
+|  | Calcipotriene and Betamethasone Dipropionate Ointment | Calcipotriene | Betamethasone dipropionate | Vehicle |
 | Any Adverse Event | 213 (8.7) | 419 (13.1) | 85 (7.3) | 76 (16.2) |
 | Preferred Term | # of subjects (%) |  |  |  |
 | Pruritus | 69 (2.8) | 170 (5.3) | 31 (2.7) | 41 (8.7) |
