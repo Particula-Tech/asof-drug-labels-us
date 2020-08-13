@@ -1,9 +1,11 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-If applicable, inform patients, family member, or caregiver that certain medical conditions and medications might influence how phenylephrine hydrochloride injection works.
+If applicable, inform patient, family member, or caregiver that certain medical conditions and medications might influence how phenylephrine hydrochloride works.
 
-meitheal® Mfd. for Meitheal Pharmaceuticals Chicago, IL 60631 (USA) ©2019 Meitheal Pharmaceuticals Inc.
+meitheal®
 
-November 2019
+Mfd. for Meitheal Pharmaceuticals Chicago, IL 60631 (USA) ©2020 Meitheal Pharmaceuticals Inc.
 
-810044-00
+June 2020
+
+810044-01

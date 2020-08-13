@@ -2,7 +2,7 @@
 
 ## 2.1 General Dosage and Administration Instructions
 
-Phenylephrine hydrochloride injection, 10 mg per mL must be diluted before administration as an intravenous bolus or continuous intravenous infusion to achieve the desired concentration:
+Phenylephrine hydrochloride injection must be diluted before administration as an intravenous bolus or continuous intravenous infusion to achieve the desired concentration:
 
 - Bolus: Dilute with normal saline or 5% dextrose in water.
 - Continuous infusion: Dilute with normal saline or 5% dextrose in water.
@@ -23,7 +23,7 @@ During phenylephrine hydrochloride injection administration:
 The following are the recommended dosages for the treatment of hypotension during anesthesia.
 
 - The recommended initial dose is 40 to 100 mcg administered by intravenous bolus.
-  May administer additional boluses every 1-2 minutes as needed; not to exceed a total dosage of 200 mcg.
+  Additional boluses may be administered every 1-2 minutes as needed; not to exceed a total dosage of 200 mcg.
 - If blood pressure is below the target goal, start a continuous intravenous infusion with an infusion rate of 10 to 35 mcg/minute; not to exceed 200 mcg/minute.
 - Adjust dosage according to the blood pressure goal.
 
