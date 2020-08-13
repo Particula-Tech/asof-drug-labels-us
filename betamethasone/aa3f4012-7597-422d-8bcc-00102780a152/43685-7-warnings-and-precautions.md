@@ -9,7 +9,7 @@ Therefore, patients receiving a large dose of a potent topical steroid applied t
 If HPA axis suppression is noted, an attempt should be made to withdraw the drug, to reduce the frequency of application, or to substitute a less potent steroid.
 
 Recovery of HPA axis function is generally prompt and complete upon discontinuation of the drug.
-In an open-label pediatric study of 53 evaluable patients, of the 15 patients who showed evidence of suppression, 2 patients were tested 2 weeks after discontinuation of Betamethasone Dipropionate Ointment, and both patients showed recovery of HPA axis function.
+In an open-label pediatric study of 53 evaluable patients, of the 15 patients who showed evidence of suppression, 2 patients were tested 2 weeks after discontinuation of betamethasone dipropionate ointment, and both patients showed recovery of HPA axis function.
 Infrequently, signs and symptoms of steroid withdrawal may occur, requiring supplemental systemic corticosteroids.
 
 Pediatric patients may absorb proportionally larger amounts of topical corticosteroids and thus be more susceptible to systemic toxicity (see PRECAUTIONS – Pediatric Use).
@@ -19,7 +19,7 @@ If irritation develops, topical corticosteroids should be discontinued and appro
 In the presence of dermatological infections, the use of an appropriate antifungal or antibacterial agent should be instituted.
 If a favorable response does not occur promptly, the corticosteroid should be discontinued until the infection has been adequately controlled.
 
-Information For Patients: This information is intended to aid in the safe and effective use of this medication.
+Information for Patients: This information is intended to aid in the safe and effective use of this medication.
 It is not a disclosure of all possible adverse or intended effects.
 
 Patients using topical corticosteroids should receive the following information and instructions:
@@ -56,7 +56,7 @@ This pattern of response is similar to that of dexamethasone and hydrocortisone.
 Reproductive studies with betamethasone dipropionate carried out in rabbits at doses of 1.0 mg/kg by the intramuscular route and in mice up to 33 mg/kg by the intramuscular route indicated no impairment of fertility except for dose-related increases in fetal resorption rates in both species.
 These doses are approximately 0.5 and 4 fold the estimated maximum human dose based on a mg/m2 comparison, respectively.
 
-Pregnancy: Teratogenic Effects: Pregnancy category C: Corticosteroids are generally teratogenic in laboratory animals when administered systemically at relatively low dosage levels.
+Pregnancy: Teratogenic Effects: Corticosteroids are generally teratogenic in laboratory animals when administered systemically at relatively low dosage levels.
 
 Betamethasone dipropionate has been shown to be teratogenic in rabbits when given by the intramuscular route at doses of 0.05 mg/kg.
 This dose is approximately 0.03 fold the estimated maximum human dose based on a mg/m2 comparison.

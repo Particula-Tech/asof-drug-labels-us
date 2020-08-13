@@ -1,12 +1,10 @@
 # PACKAGE LABEL.PRINCIPAL DISPLAY PANEL
 
-Actavis
-
 NDC 0472-0381-15
 
 Betamethasone Dipropionate Ointment, USP 0.05%
 
-Rx Only
+Rx only
 
 For Dermatologic Use Only
 
