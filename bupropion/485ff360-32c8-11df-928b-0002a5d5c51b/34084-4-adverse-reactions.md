@@ -88,7 +88,7 @@ The observed increase in serum creatinine may be the result of OCT2 inhibition [
 
 ## 6.2 Postmarketing Experience
 
-Additional adverse reactions have been identified during post approval use of CONTRAVE.
-Because these reactions are reported voluntarily from a population of uncertain size, it is generally not possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+The following adverse reactions have been identified during post approval use of CONTRAVE.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 - Loss of consciousness, malaise

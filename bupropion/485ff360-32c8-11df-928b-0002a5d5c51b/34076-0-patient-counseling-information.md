@@ -1,6 +1,6 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-See FDA-Approved Patient Labeling (Medication Guide)
+Advise the patient to read the FDA-approved patient labeling (Medication Guide)
 
 Patient information is printed at the end of this insert.
 This information and the instructions provided in the Medication Guide should be discussed with patients.
@@ -40,22 +40,14 @@ Advise patients they should not take CONTRAVE if they have any symptoms of opioi
 Patients should be advised to call their healthcare provider if they experience increased blood pressure or heart rate.
 
 Patients should be advised to notify their healthcare provider if they are taking, or plan to take, any prescription or over-the-counter drugs.
-Concern is warranted because CONTRAVE and other drugs may affect each other’s metabolism.
+Concern is warranted because CONTRAVE and other drugs may affect each other's metabolism.
 
-Patients should be advised to notify their healthcare provider if they become pregnant, intend to become pregnant, or are breastfeeding during therapy.
+Pregnancy
+
+Advise pregnant patients and all patients who can become pregnant of the potential risk to a fetus.
+Advise patients to inform their healthcare provider of a known or suspected pregnancy to discuss if Contrave should be discontinued [see Use in Specific Populations (8.1)].
 
 Patients with type 2 diabetes mellitus on antidiabetic therapy should be advised to monitor their blood glucose levels and report symptoms of hypoglycemia to their healthcare provider(s).
 
 Patients should be advised to swallow CONTRAVE tablets whole so that the release rate is not altered.
 Do not chew, divide, or crush tablets.
-
-| Distributed by: |
-| --- |
-| Nalpropion Pharmaceuticals, Inc., |
-| San Diego, CA 92122 |
-
-CONTRAVE® is a registered trademark of Nalpropion Pharmaceuticals, Inc.
-
-All other trademarks are the property of their respective owners. © 2019 Nalpropion Pharmaceuticals, Inc.
-
-LBL-00077

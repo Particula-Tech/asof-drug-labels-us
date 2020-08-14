@@ -4,7 +4,7 @@
 
 Humans
 
-CONTRAVE (naltrexone HCl and bupropion HCl) has not been systematically studied in humans for its potential for abuse, tolerance, or physical dependence.
+CONTRAVE has not been systematically studied in humans for its potential for abuse, tolerance, or physical dependence.
 However, in outpatient clinical studies of up to 56 weeks in duration, there was no evidence of euphoric drug intoxication, physical dependence, diversion, or abuse.
 There was no evidence of an abstinence syndrome following abrupt or tapered drug discontinuation after 56 weeks of double-blind, placebo-controlled, randomized treatment.
 

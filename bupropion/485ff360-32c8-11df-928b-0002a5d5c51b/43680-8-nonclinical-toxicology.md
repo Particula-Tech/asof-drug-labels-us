@@ -13,8 +13,8 @@ The incidence of vascular tumors in males and females given dietary doses of 100
 There was no evidence of carcinogenicity in a two-year dietary study with naltrexone in male and female mice.
 
 Lifetime carcinogenicity studies of bupropion were performed in rats and mice at doses up to 300 and 150 mg/kg/day, respectively.
-These doses are approximately 15 and 3 times the maximum recommended human dose (MRHD) of the bupropion component in CONTRAVE, respectively, on a mg/m2 basis.
-In the rat study there was an increase in nodular proliferative lesions of the liver at doses of 100 to 300 mg/kg/day (approximately 5 to 15 times the MRHD of the bupropion component in CONTRAVE on a mg/m2 basis); lower doses were not tested.
+These doses are approximately 14 and 3 times the maximum recommended human dose (MRHD) of the bupropion component in CONTRAVE, respectively, on a mg/m2 basis.
+In the rat study there was an increase in nodular proliferative lesions of the liver at doses of 100 to 300 mg/kg/day (approximately 5 to 14 times the MRHD of the bupropion component in CONTRAVE on a mg/m2 basis); lower doses were not tested.
 The question of whether or not such lesions may be precursors of neoplasms of the liver is currently unresolved.
 Similar liver lesions were not seen in the mouse study, and no increase in malignant tumors of the liver and other organs was seen in either study.
 
@@ -28,4 +28,4 @@ Naltrexone administered orally to rats caused a significant increase in pseudopr
 There was no effect on male fertility at this dose level.
 The relevance of these observations to human fertility is not known.
 
-A fertility study of bupropion in rats at doses up to 300 mg/kg/day (approximately 15 times the MRHD of the bupropion component in CONTRAVE on a mg/m2 basis) revealed no evidence of impaired fertility.
+A fertility study of bupropion in rats at doses up to 300 mg/kg/day (approximately 14 times the MRHD of the bupropion component in CONTRAVE on a mg/m2 basis) revealed no evidence of impaired fertility.

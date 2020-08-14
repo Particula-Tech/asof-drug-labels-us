@@ -34,13 +34,12 @@ BMI Conversion Chart
 ## 2.2 Dose Adjustment in Patients with Renal Impairment
 
 In patients with moderate or severe renal impairment, the maximum recommended daily dose for CONTRAVE is two tablets (one tablet each morning and evening).
-No dose adjustment is required in patients with mild renal impairment.
-CONTRAVE is not recommended for use in patients with end-stage renal disease.
-[see Use in Specific Population (8.6) and Clinical Pharmacology (12.3)].
+CONTRAVE is not recommended for use in patients with end-stage renal disease [see Use in Specific Population (8.6) and Clinical Pharmacology (12.3)].
 
 ## 2.3 Dose Adjustment in Patients with Hepatic Impairment
 
-In patients with hepatic impairment, the maximum recommended daily dose of CONTRAVE is one tablet in the morning [see Use in Specific Population (8.7) and Clinical Pharmacology (12.3)].
+In patients with moderate hepatic impairment, the maximum recommended daily maintenance dose of CONTRAVE is two tablets (one tablet each morning and evening).
+CONTRAVE is not recommended for use in patients with severe hepatic impairment [see Use in Specific Population (8.7) and Clinical Pharmacology (12.3)].
 
 ## 2.4 Switching a Patient To or From a Monoamine Oxidase Inhibitor (MAOI) Antidepressant
 

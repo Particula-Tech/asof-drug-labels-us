@@ -2,10 +2,6 @@
 
 Human Experience
 
-There is no clinical experience with overdosage with CONTRAVE.
-The maximum daily dose of CONTRAVE administered in clinical trials contained 50 mg naltrexone and 400 mg bupropion.
-The most serious clinical implications of CONTRAVE overdose are likely those related to overdose of bupropion.
-
 Overdoses of up to 30 grams or more of bupropion (equivalent of up to 83 times the recommended daily dose of CONTRAVE 32 mg/360 mg) have been reported.
 Seizure was reported in approximately one third of all cases.
 Other serious reactions reported with overdoses of bupropion alone included hallucinations, loss of consciousness, sinus tachycardia, and ECG changes such as conduction disturbances (including QRS prolongation) or arrhythmias.
@@ -13,9 +9,6 @@ Fever, muscle rigidity, rhabdomyolysis, hypotension, stupor, coma, and respirato
 
 Although most patients recovered without sequelae, deaths associated with overdoses of bupropion alone have been reported in patients ingesting large doses of the drug.
 Multiple uncontrolled seizures, bradycardia, cardiac failure, and cardiac arrest prior to death were reported in these patients.
-
-There is limited experience with overdose of naltrexone monotherapy in humans.
-In one study, subjects who received 800 mg naltrexone daily (equivalent to 25 times the recommended daily dose of CONTRAVE 32 mg/360 mg) for up to one week showed no evidence of toxicity.
 
 Animal Experience
 

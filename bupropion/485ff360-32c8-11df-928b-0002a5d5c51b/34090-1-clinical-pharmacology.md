@@ -21,11 +21,11 @@ Absorption
 
 Naltrexone
 
-Following single oral administration of CONTRAVE (two 8 mg naltrexone/90 mg bupropion tablets) to healthy subjects, mean peak naltrexone concentration (Cmax) was 1.4 ng/mL, time to peak concentration (Tmax) was 2 hours, and extent of exposure (AUC0-inf) was 8.4 ng·hr/mL.
+Following single oral administration of CONTRAVE (two 8 mg naltrexone/90 mg bupropion tablets) to healthy subjects, mean peak naltrexone concentration (Cmax) was 1.4 ng/mL, time to peak concentration (Tmax) was 2 hours, and extent of exposure (AUC0-inf) was 8.4 ng∙hr/mL.
 
 Bupropion
 
-Following single oral administration of CONTRAVE (two 8 mg naltrexone/90 mg bupropion tablets) to healthy subjects, mean peak bupropion concentration (Cmax) was 168 ng/mL, time to peak concentration (Tmax) was three hours, and extent of exposure (AUC0-inf) was 1,607 ng·hr/mL.
+Following single oral administration of CONTRAVE (two 8 mg naltrexone/90 mg bupropion tablets) to healthy subjects, mean peak bupropion concentration (Cmax) was 168 ng/mL, time to peak concentration (Tmax) was three hours, and extent of exposure (AUC0-inf) was 1,607 ng∙hr/mL.
 
 Food Effect on Absorption
 
@@ -106,44 +106,20 @@ Following oral administration of a single 150 mg dose of bupropion, there was no
 
 Hepatic Impairment
 
-Pharmacokinetic data are not available with CONTRAVE in patients with hepatic impairment.
-The following information is available for individual constituents:
+A single dose pharmacokinetic study conducted for CONTRAVE, comparing patients with mild (n=8), moderate (n=8) and severe (n=7) hepatic impairment based on CHILD-PUGH classification system to subjects with normal hepatic function (n=13), showed that hepatic impairment had a significant effect on the PK parameters of the parent drugs naltrexone and bupropion.
+Systemic exposure to some metabolites was also increased in patients with impaired hepatic function [see Dosage and Administration (2.3) and Use in Specific Populations (8.7)].
 
-Naltrexone
-
-An increase in naltrexone AUC of approximately 5- and 10-fold in patients with compensated and decompensated liver cirrhosis, respectively, compared with subjects with normal liver function, has been reported.
-These data also suggest that alterations in naltrexone bioavailability are related to liver disease severity.
-
-Bupropion
-
-The effect of hepatic impairment on the pharmacokinetics of bupropion was characterized in two single-dose trials, one trial in patients with alcoholic liver disease and a second trial in patients with mild-to-severe cirrhosis.
-
-The first trial showed that the half-life of hydroxybupropion was significantly longer in eight patients with alcoholic liver disease than in eight healthy volunteers (32±14 hours vs 21±5 hours, respectively).
-Although not statistically significant, the AUCs for bupropion and hydroxybupropion were more variable and tended to be greater (by 53% to 57%) in patients with alcoholic liver disease.
-The differences in half-life for bupropion and the other metabolites in the two patient groups were minimal.
-
-The second trial demonstrated no statistically significant differences in the pharmacokinetics of bupropion and its active metabolites in nine subjects with mild-to-moderate hepatic cirrhosis compared with eight healthy volunteers.
-However, more variability was observed in some of the pharmacokinetic parameters for bupropion (AUC, Cmax, and Tmax) and its active metabolites (t½) in subjects with mild-to-moderate hepatic cirrhosis.
-In subjects with severe hepatic cirrhosis, significant alterations in the pharmacokinetics of bupropion and its metabolites were seen (Table 4).
-
-Table 4.
-Pharmacokinetics of Bupropion and Metabolites in Patients With Severe Hepatic Cirrhosis: Ratio Relative to Healthy Matched Controls
-
-|  | Cmax | AUC | t½ | Tmax* |
-| --- | --- | --- | --- | --- |
-| Bupropion | 1.69 | 3.12 | 1.43 | 0.5 h |
-| Hydroxybupropion | 0.31 | 1.28 | 3.88 | 19 h |
-| Threo/erythrohydrobupropion amino alcohol | 0.69 | 2.48 | 1.96 | 20 h |
-| * = Difference |  |  |  |  |
-
-The dose of CONTRAVE should be reduced in patients with hepatic impairment [see Dosage and Administration (2.3) and Use in Specific Populations (8.7)].
+Following a single dose of naltrexone/bupropion, AUCinf of naltrexone was approximately 2.8-, 6.1-, and 34-fold higher in patients with mild, moderate, and severe hepatic impairment, respectively.
+In patients with moderate and severe hepatic impairment, AUCinf of bupropion was approximately 2.0- and 3.6-fold higher, respectively, compared to subjects with normal hepatic function.
+There was no effect of mild hepatic impairment on bupropion exposure.
+Exposure to bupropion metabolite, threohydrobupropion, was increased by 1.9-, 3.4-, and 2.5-fold in patients with mild, moderate, and severe hepatic impairment, respectively [see Dosage and Administration (2.3) and Use in Specific Populations (8.7)].
 
 Renal Impairment
 
-A single-dose pharmacokinetic study conducted for CONTRAVE, comparing subjects with mild (n=8), moderate (n=8) and severe (n=7) renal impairment to subjects with normal renal function (n=13), showed that renal impairment had no significant effect on the PK parameters of the parent drugs naltrexone and bupropion.
-However, systemic exposure (AUCinf) of some metabolites was increased in subjects with impairment of renal function [see Dosage and Administration (2.2) and Use in Specific Populations (8.6)].
-Following a single-dose of 16 mg naltrexone /180 mg bupropion, AUCinf of 6-beta-naltrexol was approximately1.5-, 1.7-, and 2.2-fold higher in patients with mild, moderate and severe renal impairment, respectively.
-In patients with mild, moderate and severe renal impairment, AUC of bupropion metabolites threohydrobupropion and erythrohydrobupropion increased approximately 1.3-, 1.9-, and 1.7-fold and 1.2-, 1.8-, and 1.5-fold, respectively.
+A single-dose pharmacokinetic study conducted for CONTRAVE, comparing patients with mild (n=8), moderate (n=8) and severe (n=7) renal impairment to subjects with normal renal function (n=13), showed that renal impairment had no significant effect on the PK parameters of the parent drugs naltrexone and bupropion.
+However, systemic exposure (AUCinf) of some metabolites was increased in patients with impairment of renal function [see Dosage and Administration (2.2) and Use in Specific Populations (8.6)].
+Following a single-dose of 16 mg naltrexone /180 mg bupropion, AUCinf of 6-beta-naltrexol was approximately1.5-, 1.7-, and 2.2-fold higher in patients with mild, moderate, and severe renal impairment, respectively.
+In patients with mild, moderate, and severe renal impairment, AUC of bupropion metabolites threohydrobupropion and erythrohydrobupropion increased approximately 1.3-, 1.9-, and 1.7-fold and 1.2-, 1.8-, and 1.5-fold, respectively.
 No studies have been conducted for CONTRAVE in patients with end stage renal disease.
 
 The following information is available for individual components.

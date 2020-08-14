@@ -1,6 +1,6 @@
 # 14 CLINICAL STUDIES
 
-The effects of CONTRAVE on weight loss in conjunction with reduced caloric intake and increased physical activity was studied in double-blind, placebo-controlled trials (BMI range 27 to 45 kg/m2) with study durations of 16 to 56 weeks randomized to naltrexone (16 to 50 mg/day) and/or bupropion (300 to 400 mg/day) or placebo.
+The effects of CONTRAVE on weight loss in conjunction with reduced caloric intake and increased physical activity was studied in double-blind, placebo-controlled trials (BMI range 27 to 45 kg/m2) with study durations of 16 to 56 weeks randomized to naltrexone and/or bupropion or placebo.
 
 Effect on Weight Loss and Weight Maintenance
 

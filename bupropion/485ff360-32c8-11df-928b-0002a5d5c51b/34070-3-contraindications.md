@@ -14,4 +14,3 @@ CONTRAVE is contraindicated in
   Starting CONTRAVE in a patient treated with reversible MAOIs such as linezolid or intravenous methylene blue is also contraindicated [see Dosage and Administration (2.4), Drug Interactions (7.1)]
 - Known allergy to bupropion, naltrexone or any other component of CONTRAVE.
   Anaphylactoid/anaphylactic reactions and Stevens-Johnson syndrome have been reported with bupropion [see Warnings and Precautions (5.6)]
-- Pregnancy [see Use in Specific Populations (8.1)]
