@@ -9,16 +9,16 @@ There has been a long-standing concern that antidepressants may have a role in i
 Pooled analyses of short-term placebo-controlled trials of antidepressant drugs (Selective Serotonin Reuptake Inhibitors [SSRIs] and others) show that these drugs increase the risk of suicidal thinking and behavior (suicidality) in children, adolescents, and young adults (ages 18 to 24) with major depressive disorder (MDD) and other psychiatric disorders.
 Short-term studies did not show an increase in the risk of suicidality with antidepressants compared to placebo in adults beyond age 24; there was a reduction with antidepressants compared to placebo in adults aged 65 and older.
 
-The pooled analyses of placebo-controlled trials in children and adolescents with MDD, obsessive compulsive disorder (OCD), or other psychiatric disorders included a total of 24 short-term trials of 9 antidepressant drugs in over 4400 patients.
+The pooled analyses of placebo-controlled trials in children and adolescents with MDD, obsessive compulsive disorder (OCD), or other psychiatric disorders included a total of 24 short-term trials of 9 antidepressant drugs in over 4,400 patients.
 The pooled analyses of placebo-controlled trials in adults with MDD or other psychiatric disorders included a total of 295 short-term trials (median duration of 2 months) of 11 antidepressant drugs in over 77,000 patients.
 There was considerable variation in risk of suicidality among drugs, but a tendency toward an increase in the younger patients for almost all drugs studied.
 There were differences in absolute risk of suicidality across the different indications, with the highest incidence in MDD.
 The risk differences (drug vs. placebo), however, were relatively stable within age strata and across indications.
-These risk differences (drug-placebo difference in the number of cases of suicidality per 1000 patients treated) are provided in Table 2.
+These risk differences (drug-placebo difference in the number of cases of suicidality per 1,000 patients treated) are provided in Table 2.
 
 Table 2: Risk Differences in the Number of Suicidality Cases by Age Group in the Pooled Placebo-Controlled Trials of Antidepressants in Pediatric and Adult Patients
 
-| Age Range | Drug-Placebo Difference in Number of Cases of Suicidality per 1000 Patients Treated |
+| Age Range | Drug-Placebo Difference in Number of Cases of Suicidality per 1,000 Patients Treated |
 | --- | --- |
 | Increases Compared to Placebo |  |
 | <18 years | 14 additional cases |
@@ -77,8 +77,8 @@ Additional predisposing conditions include diabetes mellitus treated with oral h
 Incidence of Seizure with Bupropion Use
 
 The incidence of seizure with APLENZIN has not been formally evaluated in clinical trials.
-In studies using bupropion HCl sustained-release up to 300 mg per day (equivalent to APLENZIN 348 mg per day) the incidence of seizure was approximately 0.1% (1/1000 patients).
-In a large prospective, follow-up study, the seizure incidence was approximately 0.4% (13/3200) with bupropion HCl immediate-release in the range of 300 mg to 450 mg per day (equivalent to APLENZIN 348 mg to 522 mg per day).
+In studies using bupropion HCl sustained-release up to 300 mg per day (equivalent to APLENZIN 348 mg per day) the incidence of seizure was approximately 0.1% (1/1,000 patients).
+In a large prospective, follow-up study, the seizure incidence was approximately 0.4% (13/3,200) with bupropion HCl immediate-release in the range of 300 mg to 450 mg per day (equivalent to APLENZIN 348 mg to 522 mg per day).
 
 Additional data accumulated for bupropion immediate-release suggests that the estimated seizure incidence increases almost tenfold between 450 and 600 mg/day (equivalent to APLENZIN 522 mg and 696 mg per day).
 The risk of seizure can be reduced if the APLENZIN dose does not exceed 522 mg once daily and the titration rate is gradual.

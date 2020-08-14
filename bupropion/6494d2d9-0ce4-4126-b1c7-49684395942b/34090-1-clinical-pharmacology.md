@@ -37,9 +37,9 @@ The extent of protein binding of the hydroxybupropion metabolite is similar to t
 
 Metabolism
 
-Metabolism Bupropion is extensively metabolized in humans.
+Bupropion is extensively metabolized in humans.
 Three metabolites are active: hydroxybupropion, which is formed via hydroxylation of the tert-butyl group of bupropion, and the amino-alcohol isomers threohydrobupropion and erythrohydrobupropion, which are formed via reduction of the carbonyl group.
-In vitro findings suggest that CYP2B6 is the principal isoenzyme involved in the formation of hydroxybupropion, while cytochrome P450 enzymes are not involved in the formation of threohydrobupropion.
+In vitrofindings suggest that CYP2B6 is the principal isoenzyme involved in the formation of hydroxybupropion, while cytochrome P450 enzymes are not involved in the formation of threohydrobupropion.
 Oxidation of the bupropion side chain results in the formation of a glycine conjugate of meta-chlorobenzoic acid, which is then excreted as the major urinary metabolite.
 The potency and toxicity of the metabolites relative to bupropion have not been fully characterized.
 However, it has been demonstrated in an antidepressant screening test in mice that hydroxybupropion is one half as potent as bupropion, while threohydrobupropion and erythrohydrobupropion are 5-fold less potent than bupropion.
@@ -69,7 +69,7 @@ An inter-trial comparison between normal subjects and subjects with end-stage re
 A second study, comparing normal subjects and subjects with moderate-to-severe renal impairment (GFR 30.9 ± 10.8 mL/min) showed that after a single 150 mg dose of sustained-release bupropion, exposure to bupropion was approximately 2-fold higher in subjects with impaired renal function, while levels of the hydroxybupropion and threo/erythrohydrobupropion (combined) metabolites were similar in the 2 groups.
 Bupropion is extensively metabolized in the liver to active metabolites, which are further metabolized and subsequently excreted by the kidneys.
 The elimination of the major metabolites of bupropion may be reduced by impaired renal function.
-APLENZIN should be used with caution in patients with renal impairment, and a reduced frequency and/or dose should be considered [see Dosage and Administration (2.7) and Use in Specific Populations (8.6)].
+APLENZIN should be used with caution in patients with renal impairment, and a reduced frequency and/or dose should be considered [see Dosage and Administration (2.7)and Use in Specific Populations (8.6)].
 
 Patients with Hepatic Impairment
 
@@ -85,7 +85,7 @@ For the metabolite hydroxybupropion, the mean Cmax was approximately 69% lower.
 For the combined amino-alcohol isomers threohydrobupropion and erythrohydrobupropion, the mean Cmax was approximately 31% lower.
 The mean AUC increased by about 1½-fold for hydroxybupropion and about 2½-fold for threo/erythrohydrobupropion.
 The median Tmax was observed 19 hours later for hydroxybupropion and 31 hours later for threo/erythrohydrobupropion.
-The mean half-lives for hydroxybupropion and threo/erythrohydrobupropion were increased 5- and 2-fold, respectively, in patients with severe hepatic cirrhosis compared to healthy volunteers [see Dosage and Administration (2.6) and Use in Specific Populations (8.7)].
+The mean half-lives for hydroxybupropion and threo/erythrohydrobupropion were increased 5- and 2-fold, respectively, in patients with severe hepatic cirrhosis compared to healthy volunteers [see Dosage and Administration (2.6)and Use in Specific Populations (8.7)].
 
 Left Ventricular Dysfunction
 
@@ -112,9 +112,9 @@ Drug Interactions
 
 Potential for Other Drugs to Affect APLENZIN
 
-In vitro studies indicate that bupropion is primarily metabolized to hydroxybupropion by CYP2B6.
+In vitrostudies indicate that bupropion is primarily metabolized to hydroxybupropion by CYP2B6.
 Therefore, the potential exists for drug interactions between APLENZIN and drugs that are inhibitors or inducers of CYP2B6.
-In addition, in vitro studies suggest that paroxetine, sertraline, norfluoxetine, fluvoxamine, and nelfinavir inhibit the hydroxylation of bupropion.
+In addition, in vitrostudies suggest that paroxetine, sertraline, norfluoxetine, fluvoxamine, and nelfinavir inhibit the hydroxylation of bupropion.
 
 Inhibitors of CYP2B6
 

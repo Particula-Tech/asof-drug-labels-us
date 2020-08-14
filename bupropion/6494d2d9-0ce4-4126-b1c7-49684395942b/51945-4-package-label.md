@@ -12,9 +12,9 @@ Federal Law requires dispensing of Aplenzin with the Medication Guide attached t
 
 Rx only
 
-30 Tablets
+30Tablets
 
-VALEANT
+BAUSCHHealth
 
 PRINCIPAL DISPLAY PANEL - 348 mg Tablet Bottle Label
 
@@ -30,15 +30,13 @@ Federal Law requires dispensing of Aplenzin with the Medication Guide attached t
 
 Rx only
 
-30Tablets
+30 Tablets
 
-VALEANT
+BAUSCH Health
 
 PRINCIPAL DISPLAY PANEL - 522 mg Tablet Bottle Label
 
-NDC 0187-5812-30 RX ONLY
-
-ONCE DAILY Aplenzin® (bupropion hydrobromide) Extended-Release Tablets
+NDC 0187-5812-30 ONCE DAILY Aplenzin® (bupropion hydrobromide) Extended-Release Tablets
 
 522 mg
 
@@ -46,8 +44,8 @@ WARNING: Do not use with other medicines that contain bupropion.
 
 Federal Law requires dispensing of Aplenzin with the Medication Guide attached to this bottle.
 
-30 Tablets
+30Tablets
 
 Rx only
 
-VALEANT
+BAUSCH Health

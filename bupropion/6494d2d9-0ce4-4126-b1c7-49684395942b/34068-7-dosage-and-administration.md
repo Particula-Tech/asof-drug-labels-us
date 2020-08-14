@@ -46,7 +46,7 @@ When discontinuing treatment in patients treated with APLENZIN 348 mg once daily
 
 ## 2.6 Dosage Adjustment in Patients with Hepatic Impairment
 
-In patients with moderate to severe hepatic impairment (Child-Pugh score: 7 to 15), the maximum dose is 174 mg every other day.
+In patients with moderate to severe hepatic impairment (Child-Pugh score: 7 to 15), the maximum dose is 174 mg everyother day.
 In patients with mild hepatic impairment (Child-Pugh score: 5 to 6), consider reducing the dose and/or frequency of dosing [see Use in Specific Populations (8.7) and Clinical Pharmacology (12.3)].
 
 ## 2.7 Dosage Adjustment in Patients with Renal Impairment

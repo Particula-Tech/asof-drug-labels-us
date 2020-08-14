@@ -2,7 +2,7 @@
 
 APLENZIN® (bupropion hydrobromide), an antidepressant of the aminoketone class, is chemically unrelated to tricyclic, tetracyclic, selective serotonin reuptake inhibitor, or other known antidepressant agents.
 Its structure closely resembles that of diethylpropion; it is related to phenylethylamines.
-It is designated as (±)-2-(tert-butylamino)-3'-chloropropiophenone hydrobromide.
+It is designated as (±)-2-(tert-butylamino)-3’-chloropropiophenone hydrobromide.
 The molecular weight is 320.6.
 The molecular formula is C13H18ClNO•HBr.
 Bupropion hydrobromide powder is white or almost white, crystalline, and soluble in water.

@@ -5,7 +5,7 @@
 Pregnancy Exposure Registry
 
 There is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to antidepressants during pregnancy.
-Healthcare providers are encouraged to register patients by calling the National Pregnancy Registry for Antidepressants at 1-844-405-6185 or visiting online at https://womensmentalhealth.org/clinical-and-researchprograms/pregnancyregistry/antidepressants/.
+Healthcare providers are encouraged to register patients by calling the National Pregnancy Registry for Antidepressants at 1-844-405-6185 or visiting online at https://womensmentalhealth.org/clinical-and-research-programs/pregnancyregistry/antidepressants/.
 
 Risk Summary Data from epidemiological studies of pregnant women exposed to bupropion in the first trimester have not identified anincreased risk of congenital malformations overall (see Data).
 There are risks to the mother associated with untreated depression (see Clinical Considerations).
@@ -49,11 +49,11 @@ Animal Data
 
 In studies conducted in pregnant rats and rabbits, bupropion was administered orally during the period of organogenesis at doses of up to 450 and 150 mg/kg/day, respectively (approximately 10 and 6 times the MRHD, respectively, on a mg/m2 basis).
 There was no evidence of fetal malformations in rats.
-When given to pregnant rabbits during organogenesis, nondose-relatedincreases in incidence of fetal malformations and skeletal variations were observed at the lowest dose tested (25 mg/kg/day, approximately equal to the MRHD on a mg/m2 basis) and greater.
+When given to pregnant rabbits during organogenesis, non-dose-related increases in incidence of fetal malformations and skeletal variations were observed at the lowest dose tested (25 mg/kg/day, approximately equal to the MRHD on a mg/m2 basis) and greater.
 Decreased fetal weights were observed at 50 mg/kg (approximately 2 times the MRHD on a mg/m2 basis) and greater.
 No maternal toxicity was evident at doses of 50/mg/kg/day or less.
 
-In a pre- and postnatal development study, bupropion administered orally to pregnant rats at doses of up to 150 mg/kg/day (approximately 6 times the MRHD on a mg/m2 basis) from embryonic implantation through lactation, had no effecton pup growth or development.
+In a pre- and postnatal development study, bupropion administered orally to pregnant rats at doses of up to 150 mg/kg/day (approximately 6 times the MRHD on a mg/m2 basis) from embryonic implantation through lactation, had no effect on pup growth or development.
 
 ## 8.2 Lactation
 
@@ -78,7 +78,7 @@ When considering the use of APLENZIN in a child or adolescent, balance the poten
 
 ## 8.5 Geriatric Use
 
-Of the approximately 6000 patients who participated in clinical trials with bupropion hydrochloride sustained-release tablets (depression and smoking cessation studies), 275 were ≥65 years old and 47 were ≥75 years old.
+Of the approximately 6,000 patients who participated in clinical trials with bupropion hydrochloride sustained-release tablets (depression and smoking cessation studies), 275 were ≥65 years old and 47 were ≥75 years old.
 In addition, several hundred patients ≥65 years of age participated in clinical trials using the immediate-release formulation of bupropion hydrochloride (depression studies).
 No overall differences in safety or effectiveness were observed between these subjects and younger subjects.
 Reported clinical experience has not identified differences in responses between the elderly and younger patients, but greater sensitivity of some older individuals cannot be ruled out.

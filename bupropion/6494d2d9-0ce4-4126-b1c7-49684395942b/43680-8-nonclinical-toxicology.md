@@ -13,8 +13,8 @@ Similar liver lesions were not seen in the mouse study, and no increase in malig
 Mutagenesis
 
 Bupropion produced a positive response (2 to 3 times control mutation rate) in 2 of 5 strains in one Ames bacterial mutagenicity assay, but was negative in another.
-Bupropion produced an increase in chromosomal aberrations in 1 of 3 in vivo rat bone marrow cytogenetic studies.
+Bupropion produced an increase in chromosomal aberrations in 1 of 3 invivorat bone marrow cytogenetic studies.
 
 Impairment of Fertility
 
-A fertility study in rats at doses up to 300 mg/kg/day revealed no evidence of impaired fertility (approximately 6 times the MRHD on a mg/m2 basis)..
+A fertility study in rats at doses up to 300 mg/kg/day revealed no evidence of impaired fertility (approximately 6 times the MRHD on a mg/m2 basis).

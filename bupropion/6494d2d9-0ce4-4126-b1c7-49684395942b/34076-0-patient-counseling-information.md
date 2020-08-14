@@ -20,7 +20,7 @@ Symptoms such as these may be associated with an increased risk for suicidal thi
 
 Neuropsychiatric Adverse Events and Suicide Risk in Smoking Cessation Treatment
 
-Although APLENZIN is not indicated for smoking cessation treatment, it contains the same active ingredient as ZYBANwhich is approved for this use.
+Although APLENZIN is not indicated for smoking cessation treatment, it contains the same active ingredient as ZYBAN which is approved for this use.
 Inform patients that some patients have experienced changes in mood (including depression and mania), psychosis, hallucinations, paranoia, delusions, homicidal ideation, aggression, hostility, agitation, anxiety, and panic, as well as suicidal ideation and suicide when attempting to quit smoking while taking bupropion.
 Instruct patients to discontinue APLENZIN and contact a healthcare professional if they experience such symptoms [see Warnings and Precautions (5.2) and Adverse Reactions (6.2)].
 
@@ -58,7 +58,8 @@ Counsel patients to notify their healthcare provider if they are taking or plan 
 
 Pregnancy
 
-Advise patients to notify their healthcare provider if they become pregnant or intend to become pregnant during therapy.
+Advise patients to notify their healthcare provider if they become pregnant or intend to become pregnant during therapy with APLENZIN.
+Advise patients that there is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to APLENZIN during pregnancy [see Use in Specific Populations 8.1].
 
 Administration Information
 
@@ -67,19 +68,21 @@ Instruct patients if they miss a dose, not to take an extra tablet to make up fo
 Instruct patients that APLENZIN tablets should be swallowed whole and not crushed, divided, or chewed.
 APLENZIN can be taken with or without food.
 
-Manufactured for:
+*Trademark of PDR Network, LLC
+
+Distributed by:
 
 Bausch Health US, LLC Bridgewater, NJ 08807 USA
 
-By:
+Manufactured by:
 
-Bausch Health Companies Inc. Steinbach, Manitoba R5G 1Z7, Canada
+Bausch Health Companies Inc. Steinbach, MB R5G 1Z7, Canada
 
-APLENZIN is a trademark of Bausch Health Companies or its affiliates.
+APLENZIN is a trademark of Bausch Health Companies Inc. or its affiliates.
 
 Wellbutrin XL is a registered trademark of GlaxoSmithKline LLC used under license.
 All other product/brand names are the trademarks of their respective owners.
 
-U.S. Patents: 7,241,805; 7,569,610; 7,572,935; 7,585,897; 7,645,802; 7,649,019; 7,662,407 and 7,671,094 © 2020 Bausch Health Companies Inc. or its affiliates
+U.S. Patent Numbers: 7,241,805; 7,569,610; 7,572,935; 7,585,897; 7,645,802; 7,649,019; 7,662,407 and 7,671,094 © 2020 Bausch Health Companies Inc. or its affiliates
 
-P/N
+1. 9386807 20002918
