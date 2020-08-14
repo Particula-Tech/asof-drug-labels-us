@@ -26,7 +26,26 @@ Regulatory Exceptions to the General Requirement for Certification to Provide Op
 - •With repeated dosing, methadone is retained in the liver and then slowly released, prolonging the duration of potential toxicity.
 - •Methadone has a narrow therapeutic index, especially when combined with other drugs.
 
-## 2.3 Methadone Hydrochloride Oral Solution for Management of Pain
+## 2.3 Patient Access to Naloxone for the Emergency Treatment of Opioid Overdose
+
+Discuss the availability of naloxone for the emergency treatment of opioid overdose with the patient and caregiver and assess the potential need for access to naloxone, both when initiating and renewing treatment with Methadone Hydrochloride Oral Solution [see Warnings and Precautions (5.3), Overdosage (10)].
+
+For Patients Being Treated for Pain:
+
+1. Consider prescribing naloxone, based on the patient’s risk factors for overdose, such as concomitant use of CNS depressants, a history of opioid use disorder, or prior opioid overdose.
+   The presence of risk factors for overdose should not prevent the proper management of pain in any given patient.
+
+For Patients Being Treated for Opioid Addiction:
+
+1. Because patients being treated for opioid use disorder have the potential for relapse, putting them at risk for opioid overdose, strongly consider prescribing naloxone for the emergency treatment of opioid overdose.
+   Advise patients and caregivers that naloxone may also be administered for a known or suspected overdose with Methadone Hydrochloride Oral Solution itself.
+
+Also consider prescribing naloxone if the patient has household members (including children) or other close contacts at risk for accidental ingestion or overdose.
+If naloxone is prescribed, educate patients and caregivers on how to treat with naloxone [see Warnings and Precautions (5.4), Patient Counseling Information (17)].
+
+Inform patients and caregivers of their options for obtaining naloxone as permitted by individual state naloxone dispensing and prescribing requirements or guidelines (e.g., by prescription, directly from a pharmacist, or as part of a community-based program) [see Patient Counseling Information (17)].
+
+## 2.4 Methadone Hydrochloride Oral Solution for Management of Pain
 
 Important Dosage and Administration Information:
 
@@ -106,7 +125,7 @@ Conversion from Parenteral Methadone to Methadone Hydrochloride Oral Solution:
 
 Use a conversion ratio of 1:2 mg for parenteral to oral methadone (e.g., 5 mg parenteral methadone to 10 mg oral methadone).
 
-## 2.4 Titration and Maintenance of Therapy for Pain
+## 2.5 Titration and Maintenance of Therapy for Pain
 
 Individually titrate Methadone Hydrochloride Oral Solution to a dose that provides adequate analgesia and minimizes adverse reactions.
 Continually reevaluate patients receiving Methadone Hydrochloride Oral Solution to assess the maintenance of pain control and the relative incidence of adverse reactions, as well as monitoring for the development of addiction, abuse, or misuse [see Warnings and Precautions (5.2)].
@@ -123,7 +142,7 @@ Monitor patients closely for the development of potentially life-threatening adv
 If unacceptable opioid-related adverse reactions are observed, the subsequent doses may be reduced and/or the dosing interval adjusted (i.e., every 8 hours or every 12 hours).
 Adjust the dose to obtain an appropriate balance between management of pain and opioid-related adverse reactions.
 
-## 2.5 Safe Reduction or Discontinuation of Methadone Hydrochloride Oral Solution for Pain
+## 2.6 Safe Reduction or Discontinuation of Methadone Hydrochloride Oral Solution for Pain
 
 Do not abruptly discontinue Methadone Hydrochloride Oral Solution in patients who may be physically dependent on opioids.
 Rapid discontinuation of opioid analgesics in patients who are physically dependent on opioids has resulted in serious withdrawal symptoms, uncontrolled pain, and suicide.
@@ -151,7 +170,7 @@ In addition, monitor patients for any changes in mood, emergence of suicidal tho
 When managing patients taking opioid analgesics, particularly those who have been treated for a long duration and/or with high doses for chronic pain, ensure that a multimodal approach to pain management, including mental health support (if needed), is in place prior to initiating an opioid analgesic taper.
 A multimodal approach to pain management may optimize the treatment of chronic pain, as well as assist with the successful tapering of the opioid analgesic [see Warnings and Precautions (5.16), Drug Abuse and Dependence (9.3)].
 
-## 2.6 Induction/Initial Dosing for Detoxification and Maintenance Treatment of Opioid Addiction
+## 2.7 Induction/Initial Dosing for Detoxification and Maintenance Treatment of Opioid Addiction
 
 | For detoxification and maintenance of opioid dependence methadone should be administered in accordance with the treatment standards cited in 42 CFR Section 8.12, including limitations on unsupervised administration. |
 | --- |
@@ -183,30 +202,30 @@ Decrease the dose of Methadone Hydrochloride Oral Solution on a daily basis or a
 Hospitalized patients may tolerate a daily reduction of 20% of the total daily dose.
 Ambulatory patients may need a slower schedule.
 
-## 2.7 Titration and Maintenance Treatment of Opioid Dependence Detoxification
+## 2.8 Titration and Maintenance Treatment of Opioid Dependence Detoxification
 
 Titrate patients in maintenance treatment to a dose that prevents opioid withdrawal symptoms for 24 hours, reduces drug hunger or craving, and blocks or attenuates the euphoric effects of self-administered opioids, ensuring that the patient is tolerant to the sedative effects of methadone.
 Most commonly, clinical stability is achieved at doses between 80 to 120 mg/day.
 During prolonged administration of methadone, monitor patients for persistent constipation and manage accordingly.
 
-## 2.8 Medically Supervised Withdrawal After a Period of Maintenance Treatment for Opioid Addiction
+## 2.9 Medically Supervised Withdrawal After a Period of Maintenance Treatment for Opioid Addiction
 
 There is considerable variability in the appropriate rate of methadone taper in patients choosing medically supervised withdrawal from methadone treatment.
 Dose reductions should generally be less than 10% of the established tolerance or maintenance dose, and 10 to 14-day intervals should elapse between dose reductions.
 Apprise patients of the high risk of relapse to illicit drug use associated with discontinuation of methadone maintenance treatment.
 
-## 2.9 Risk of Relapse in Patients on Methadone Maintenance Treatment of Opioid Addiction
+## 2.10 Risk of Relapse in Patients on Methadone Maintenance Treatment of Opioid Addiction
 
 Abrupt opioid discontinuation can lead to development of opioid withdrawal symptoms [see Drug Abuse and Dependence (9.3)].
 Opioid withdrawal symptoms have been associated with an increased risk of relapse to illicit drug use in susceptible patients.
 
-## 2.10 Considerations for Management of Acute Pain During Methadone Maintenance Treatment
+## 2.11 Considerations for Management of Acute Pain During Methadone Maintenance Treatment
 
 Patients in methadone maintenance treatment for opioid dependence who experience physical trauma, postoperative pain or other acute pain cannot be expected to derive analgesia from their existing dose of methadone.
 Such patients should be administered analgesics, including opioids, in doses that would otherwise be indicated for non-methadone-treated patients with similar painful conditions.
 When opioids are required for management of acute pain in methadone maintenance patients, somewhat higher and/or more frequent doses will often be required than would be the case for non-tolerant patients due to the opioid tolerance induced by methadone.
 
-## 2.11 Dosage Adjustment During Pregnancy
+## 2.12 Dosage Adjustment During Pregnancy
 
 Methadone clearance may be increased during pregnancy.
 During pregnancy, a woman’s methadone dose may need to be increased or the dosing interval decreased.
