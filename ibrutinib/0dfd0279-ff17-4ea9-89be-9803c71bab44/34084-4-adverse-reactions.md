@@ -620,10 +620,13 @@ Table 19: Treatment-Emergent Hematologic Laboratory Abnormalities in Patients wi
 
 Additional Important Adverse Reactions
 
-Cardiac Arrhythmias
+Cardiovascular Events
 
-In randomized controlled trials (n=2,115; median treatment duration of 19.1 months for 1,157 patients treated with IMBRUVICA and 5.3 months for 958 patients in the control arm), the incidence of ventricular tachyarrhythmias (ventricular extrasystoles, ventricular arrhythmias, ventricular fibrillation, ventricular flutter, and ventricular tachycardia) of any grade was 1.0% versus 0.4% and of Grade 3 or greater was 0.3% versus 0% in patients treated with IMBRUVICA compared to patients in the control arm.
+Data on cardiovascular events are based on randomized controlled trials with IMBRUVICA (n=2,115; median treatment duration of 19.1 months for 1,157 patients treated with IMBRUVICA and 5.3 months for 958 patients in the control arm).
+The incidence of ventricular tachyarrhythmias (ventricular extrasystoles, ventricular arrhythmias, ventricular fibrillation, ventricular flutter, and ventricular tachycardia) of any grade was 1.0% versus 0.4% and of Grade 3 or greater was 0.3% versus 0% in patients treated with IMBRUVICA compared to patients in the control arm.
 In addition, the incidence of atrial fibrillation and atrial flutter of any grade was 8.4% versus 1.6% and for Grade 3 or greater was 4.0% versus 0.5% in patients treated with IMBRUVICA compared to patients in the control arm.
+
+The incidence of ischemic cerebrovascular events (cerebrovascular accidents, ischemic stroke, cerebral ischemia, and transient ischemic attack) of any grade was 1% versus 0.4% and Grade 3 or greater was 0.5% versus 0.2% in patients treated with IMBRUVICA compared to patients in the control arm, respectively.
 
 Diarrhea
 
@@ -661,6 +664,6 @@ Because these reactions are reported voluntarily from a population of uncertain 
 - Respiratory disorders: interstitial lung disease
 - Metabolic and nutrition disorders: tumor lysis syndrome
 - Immune system disorders: anaphylactic shock, angioedema, urticaria
-- Skin and subcutaneous tissue disorders: Stevens-Johnson Syndrome (SJS), onychoclasis, panniculitis
+- Skin and subcutaneous tissue disorders: Stevens-Johnson Syndrome (SJS), onychoclasis, panniculitis, neutrophilic dermatoses
 - Infections: hepatitis B reactivation
 - Nervous system disorders: peripheral neuropathy
