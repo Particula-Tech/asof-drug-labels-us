@@ -15,9 +15,6 @@ Do not use if the injection is pinkish or darker than slightly yellow or contain
 
 Manufactured by:
 
-Cipla Ltd., India
-
-At M/s.
 Gland Pharma Limited,
 
 India.
@@ -26,8 +23,8 @@ Manufactured for:
 
 Cipla USA, Inc.
 
-1560 Sawgrass Corporate Parkway,
+10 Independence Boulevard, Suite 300
 
-Suite 130, Sunrise, FL 33323
+Warren, NJ 07059
 
-Revised: 07/2018
+Revised: 7/2020
