@@ -1,6 +1,6 @@
 # 3 DOSAGE FORMS AND STRENGTHS
 
-- Temozolomide capsules for oral administration
+- Temozolomide capsules, USP for oral administration
   - 5-mg capsules have white bodies with green caps.
     The capsule body is imprinted with '5'.
     The cap is imprinted with 'TMZ'.
