@@ -9,14 +9,14 @@ Recommended dosage for adults with heart block, Adams-Stokes attacks, and cardia
 
 | Route of Administration | Preparation of Dilution | Initial Dose | Subsequent Dose Range* |
 | --- | --- | --- | --- |
-| Bolus intravenous injection | Dilute 1 mL (0.2 mg) in 9 mL of Sodium Chloride Injection, USP, or 5% Dextrose Injection, USP | 0.02 mg to 0.06 mg (1 mL to 3 mL of diluted solution) | 0.01mg to 0.2mg (0.5mLto 10 mL of diluted solution) |
+| Bolus intravenous injection | Dilute 1 mL (0.2 mg) in 9 mL of Sodium Chloride Injection, USP, or 5% Dextrose Injection, USP | 0.02 mg to 0.06 mg (1 mL to 3 mL of diluted solution) | 0.01 mg to 0.2mg (0.5 mLto 10 mL of diluted solution) |
 | Intravenous infusion | Dilute 10 mL (2 mg) in 500 mL of 5% Dextrose Injection, USP | 5 mcg/min. (1.25 mL of diluted solution per minute) |  |
 | Intramuscular | Use Solution undiluted | 0.2 mg (l mL) | 0.02 mg to l mg (0.1 mL to 5 mL) |
 | Subcutaneous | Use Solution undiluted | 0.2 mg (1 mL) | 0.15 mg to 0.2 mg 0.75 mL to 1 mL |
 | Intracardiac | Use Solution undiluted | 0.02 mg (0.1 mL) |  |
 | *Subsequent dosage and method of administration depend on the ventricular rate and the rapidity with which the cardiac pacemaker can take over when the drug is gradually withdrawn. |  |  |  |
 
-There are no well-controlled studies in children to establish appropriate dosing; however, the American Heart Association recommends an initial infusion rate of 0.1mcg/kg/min, with the usual range being 0.1 mcg/kg/min into 1 mcg/kg/min.
+There are no well-controlled studies in children to establish appropriate dosing; however, the American Heart Association recommends an initial infusion rate of 0.1 mcg/kg/min, with the usual range being 0.1 mcg/kg/min into 1 mcg/kg/min.
 
 Recommended dosage for adults with shock and hypoperfusion states:
 

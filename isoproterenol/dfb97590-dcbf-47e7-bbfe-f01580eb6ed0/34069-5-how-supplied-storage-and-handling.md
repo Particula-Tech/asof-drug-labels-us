@@ -13,4 +13,4 @@ Store at 20° to 25°C (68° to 77°F).
 
 Do not use if the injection is pinkish or darker than slightly yellow or contains a precipitate.
 
-Manufactured for: Nexus Pharmaceuticals, Inc. Lincolnshire, IL 60069, USA Revised: January 2018
+Manufactured for: Nexus Pharmaceuticals, Inc. Lincolnshire, IL 60069, USA Made in Germany Revised: June 2020
